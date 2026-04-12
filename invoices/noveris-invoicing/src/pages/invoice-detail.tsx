@@ -1,5 +1,6 @@
 import { useState } from "react";
 import { useParams, useNavigate, Link } from "react-router-dom";
+import { pdf } from "@react-pdf/renderer";
 import { useInvoices } from "@/hooks/use-invoices";
 import { useAdvanceInvoices } from "@/hooks/use-advance-invoices";
 import { useSettings } from "@/hooks/use-settings";
@@ -16,6 +17,10 @@ import {
   DialogHeader,
   DialogTitle,
 } from "@/components/ui/dialog";
+import { InvoicePdf } from "@/lib/pdf/invoice-pdf";
+import { AdvancePdf } from "@/lib/pdf/advance-pdf";
+import { save as saveDialog } from "@tauri-apps/plugin-dialog";
+import { writeFile } from "@tauri-apps/plugin-fs";
 
 export function InvoiceDetail() {
   const { id } = useParams<{ id: string }>();
@@ -83,9 +88,32 @@ export function InvoiceDetail() {
     navigate("/invoices");
   }
 
-  function handleExportPdf() {
-    // TODO: wire up PDF export in Task 14
-    console.log("PDF export not yet implemented");
+  async function handleExportPdf() {
+    if (isAdvance && advance) {
+      const blob = await pdf(
+        <AdvancePdf advance={advance} settings={settings} />
+      ).toBlob();
+      const buffer = await blob.arrayBuffer();
+      const path = await saveDialog({
+        defaultPath: `zalohova-${advance.invoice_number}.pdf`,
+        filters: [{ name: "PDF", extensions: ["pdf"] }],
+      });
+      if (path) {
+        await writeFile(path, new Uint8Array(buffer));
+      }
+    } else if (!isAdvance && invoice) {
+      const blob = await pdf(
+        <InvoicePdf invoice={invoice} settings={settings} />
+      ).toBlob();
+      const buffer = await blob.arrayBuffer();
+      const path = await saveDialog({
+        defaultPath: `faktura-${invoice.invoice_number}.pdf`,
+        filters: [{ name: "PDF", extensions: ["pdf"] }],
+      });
+      if (path) {
+        await writeFile(path, new Uint8Array(buffer));
+      }
+    }
   }
 
   return (
