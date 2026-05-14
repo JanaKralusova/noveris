@@ -15,6 +15,8 @@ const translations = {
         "title.about": "O nás — Noveris Legal",
         "title.services": "Služby — Noveris Legal",
         "title.contact": "Kontakt — Noveris Legal",
+        "title.privacy": "Ochrana osobných údajov — Noveris Legal",
+        "privacy.back": "Späť na Kontakt",
 
         // ===== HOME =====
         "home.hero.label": "Advokátska kancelária",
@@ -141,6 +143,8 @@ const translations = {
         "title.about": "About — Noveris Legal",
         "title.services": "Services — Noveris Legal",
         "title.contact": "Contact — Noveris Legal",
+        "title.privacy": "Privacy Policy — Noveris Legal",
+        "privacy.back": "Back to Contact",
 
         // ===== HOME =====
         "home.hero.label": "Law Firm",
