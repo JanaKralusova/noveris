@@ -18,7 +18,7 @@ const translations = {
 
         // ===== HOME =====
         "home.hero.label": "Advokátska kancelária",
-        "home.hero.h1": 'Právo, ktoré <br/><span class="italic font-light">dáva zmysel</span>',
+        "home.hero.h1": 'Právo, ktoré <br/><span class="italic text-primary">dáva zmysel</span>',
         "home.hero.desc": "Spájame právnu precíznosť s ľudským prístupom. Pomáhame klientom orientovať sa v právnych vzťahoch a nachádzať riešenia, ktoré sú zrozumiteľné a dlhodobo udržateľné.",
         "home.hero.cta": "Dohodnúť konzultáciu",
         "home.hero.cta2": "Naša filozofia",
@@ -79,7 +79,7 @@ const translations = {
 
         // ===== SERVICES =====
         "services.hero.label": "Právna expertíza",
-        "services.hero.h1": 'Riešenia založené na <span class="italic">dôvere</span> a odbornosti',
+        "services.hero.h1": 'Riešenia založené na <span class="italic text-primary">dôvere</span> a odbornosti',
         "services.hero.desc": "V Noveris Legal pristupujeme ku každej veci individuálne, s dôrazom na jej dôsledné posúdenie a jasný postup. Cieľom je, aby klient vedel, aké má možnosti a čo môže očakávať.",
         "services.hero.quote": "\"Právo nemá byť prekážkou, ale oporou pri ďalších krokoch.\"",
 
@@ -144,7 +144,7 @@ const translations = {
 
         // ===== HOME =====
         "home.hero.label": "Law Firm",
-        "home.hero.h1": 'Law that <br/><span class="italic font-light">makes sense</span>',
+        "home.hero.h1": 'Law that <br/><span class="italic text-primary">makes sense</span>',
         "home.hero.desc": "We combine legal precision with a human approach. We help clients navigate legal relationships and find solutions that are understandable and sustainable in the long term.",
         "home.hero.cta": "Book a consultation",
         "home.hero.cta2": "Our philosophy",
@@ -203,7 +203,7 @@ const translations = {
 
         // ===== SERVICES =====
         "services.hero.label": "Legal expertise",
-        "services.hero.h1": 'Solutions built on <span class="italic">trust</span> and expertise',
+        "services.hero.h1": 'Solutions built on <span class="italic text-primary">trust</span> and expertise',
         "services.hero.desc": "At Noveris Legal, we approach every matter individually, with emphasis on thorough assessment and a clear course of action. The goal is for the client to know what their options are and what to expect.",
         "services.hero.quote": "\"Law should not be an obstacle, but a support for your next steps.\"",
 
