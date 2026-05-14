@@ -8,8 +8,6 @@
 # Dependencies
 node_modules/
 
-# Build
+# Build & generated outputs
 dist/
-
-# Archive
-Archive.zip
+out/
