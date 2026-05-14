@@ -119,14 +119,14 @@ const translations = {
         "contact.form.message.label": "Vaša správa",
         "contact.form.message.placeholder": "Ako Vám môžeme pomôcť?",
         "contact.form.submit": "Odoslať správu",
-        "contact.form.gdpr": "Odoslaním súhlasíte so spracovaním osobných údajov v súlade s GDPR.",
+        "contact.form.gdpr": "Odoslaním súhlasíte so spracovaním osobných údajov.",
         "contact.form.name.error": "Prosím, zadajte svoje meno a priezvisko",
         "contact.form.email.error": "Prosím, zadajte platnú e-mailovú adresu",
         "contact.form.phone.error": "Prosím, zadajte platné telefónne číslo (napr. +421 900 123 456)",
         "contact.form.message.error": "Prosím, vyplňte text správy",
 
         // Footer
-        "footer.copy": "© 2026 Noveris Legal. Všetky práva vyhradené.",
+        "footer.copy": "© 2026 Noveris Legal s. r. o. Všetky práva vyhradené.",
     },
 
     en: {
@@ -243,13 +243,13 @@ const translations = {
         "contact.form.message.label": "Your message",
         "contact.form.message.placeholder": "How can we help you?",
         "contact.form.submit": "Send message",
-        "contact.form.gdpr": "By submitting you agree to the processing of personal data in accordance with GDPR.",
+        "contact.form.gdpr": "By submitting you agree to the processing of personal data.",
         "contact.form.name.error": "Please enter your full name",
         "contact.form.email.error": "Please enter a valid email address",
         "contact.form.phone.error": "Please enter a valid phone number (e.g., +421 900 123 456)",
         "contact.form.message.error": "Please enter your message",
 
         // Footer
-        "footer.copy": "© 2026 Noveris Legal. All rights reserved.",
+        "footer.copy": "© 2026 Noveris Legal s. r. o. All rights reserved.",
     }
 };
