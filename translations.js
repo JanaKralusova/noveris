@@ -65,7 +65,7 @@ const translations = {
         "about.hero.desc": "To, čo rozhoduje, nebýva vždy len samotná právna otázka. Dôležité sú aj okolnosti a následky, ktoré z nej vyplývajú. Práve tie často určujú, aký postup je naozaj vhodný.",
 
         "about.quote.name": "Jana Králusová",
-        "about.quote.role": "Zakladateľka & Advokátka",
+        "about.quote.role": "Zakladateľka a Advokátka",
         "about.quote.text": "\"Moja filozofia je postavená na tom, že dôležité nie je len to, čo je možné, ale aj to, čo je v danej situácii rozumné.\"",
 
         "about.journey.label": "Moja cesta",
@@ -107,7 +107,7 @@ const translations = {
         "contact.details.address": "Turčianska 42, 821 09 Bratislava, Slovensko",
         "contact.details.id.label": "Identifikačné číslo",
         "contact.founder.role": "ADVOKÁTKA A ZAKLADATEĽKA",
-        "contact.founder.subtitle": "Právne služby & poradenstvo",
+        "contact.founder.subtitle": "Právne služby a poradenstvo",
 
         "contact.form.h2": "Napíšte nám",
         "contact.form.desc": "Máte otázku alebo hľadáte právne zastupovanie? Zanechajte nám správu a my sa vám ozveme.",
