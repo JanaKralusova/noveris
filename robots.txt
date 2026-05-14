@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://noverislegal.sk/sitemap.xml
+Sitemap: https://noveris.sk/sitemap.xml
