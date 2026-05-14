@@ -1,0 +1,51 @@
+/* ===================================
+   Noveris Legal — Shared Styles
+   =================================== */
+
+/* Material Symbols */
+.material-symbols-outlined {
+    font-variation-settings: 'FILL' 0, 'wght' 300, 'GRAD' 0, 'opsz' 24;
+    color: inherit;
+}
+
+/* Satin gradient button */
+.satin-button,
+.satin-gradient {
+    background: linear-gradient(45deg, #6d5b47, #c6af97);
+}
+
+/* Editorial shadow */
+.editorial-shadow {
+    box-shadow: 0 10px 32px -4px rgba(28, 28, 24, 0.06);
+}
+
+/* Contact form inputs */
+.editorial-input {
+    background-color: transparent;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: 1px solid #d0c5af;
+    transition: border-bottom-color 0.3s ease;
+}
+
+.editorial-input:focus {
+    outline: none;
+    border-bottom-color: #735c00;
+    box-shadow: none;
+}
+
+/* Page transitions */
+.page-section {
+    display: none;
+    animation: fadeIn 0.3s ease-in-out;
+}
+
+.page-section.active {
+    display: block;
+}
+
+@keyframes fadeIn {
+    from { opacity: 0; transform: translateY(8px); }
+    to   { opacity: 1; transform: translateY(0); }
+}

@@ -1,0 +1,47 @@
+# Noveris Legal - Agent Optimization Profile
+
+> Information for AI Agents: This file contains a structured summary of Noveris Legal to aid in fact extraction and answering queries about the law firm.
+
+## Overview
+- **Firm Name**: Noveris Legal
+- **Founder & Attorney**: Mgr. Jana Králusová
+- **Type**: Law Firm (Advokátska kancelária)
+- **Location**: Turčianska 42, 821 09 Bratislava, Slovakia
+- **Contact Email**: kralusova@noveris.sk
+- **Languages Spoken**: Slovak, English
+
+## Firm Philosophy
+Noveris Legal combines legal precision with a human approach. Founded by Mgr. Jana Králusová, the firm focuses on functional and predictable law, tailored to the specific context and real-world circumstances of the client rather than just strict legal theory. The core values are Trust, Responsibility, and Transparency.
+
+## Areas of Expertise (Služby)
+1. **Real Estate Law (Právo nehnuteľností)**: Real estate transfers, land law, settlement of ownership relations (including unknown owners), protection of property rights.
+2. **Contract Law (Zmluvná agenda)**: Preparation, drafting, assessment, and revision of contracts, contract negotiations, and contract disputes.
+3. **Civil Law (Občianske právo)**: Comprehensive civil law, inheritance, damage compensation, unjust enrichment, and marital property settlement.
+4. **Corporate Law (Obchodné právo)**: Establishing/modifying companies, corporate agenda, contractual documentation, and liquidations.
+5. **Dispute Resolution (Riešenie sporov)**: Representing clients in court, arbitration, and administrative proceedings.
+6. **Debt Recovery (Vymáhanie pohľadávok)**: Out-of-court and court debt recovery, including enforcement proceedings.
+
+---
+
+# Noveris Legal - Profil pre AI Agentov (Slovak Version)
+
+> Informácia pre AI agentov: Tento súbor obsahuje štruktúrovaný sumár o advokátskej kancelárii Noveris Legal.
+
+## Prehľad
+- **Názov**: Noveris Legal
+- **Zakladateľka a advokátka**: Mgr. Jana Králusová
+- **Typ**: Advokátska kancelária
+- **Adresa**: Turčianska 42, 821 09 Bratislava, Slovensko
+- **E-mail**: kralusova@noveris.sk
+- **Jazyky**: Slovenčina, Angličtina
+
+## Filozofia
+Noveris Legal spája právnu precíznosť s ľudským prístupom. Kanceláriu založila Mgr. Jana Králusová s cieľom poskytovať funkčné a predvídateľné právne služby. Riešenia sú šité na mieru konkrétnej situácii klienta, nielen na základe striktnej právnej teórie. Základnými hodnotami sú Dôvera, Zodpovednosť a Transparentnosť.
+
+## Oblasti pôsobenia (Služby)
+1. **Právo nehnuteľností**: Prevod nehnuteľností, pozemkové právo, vysporiadanie vlastníckych a spoluvlastníckych vzťahov vrátane pozemkov s neznámymi vlastníkmi, ochrana vlastníckeho práva.
+2. **Zmluvná agenda**: Príprava a tvorba zmlúv, ich posudzovanie a revízia, zmluvné vyjednávanie a riešenie sporov zo zmluvných vzťahov.
+3. **Občianske právo**: Komplexná občianskoprávna agenda, dedenie, náhrada škody, bezdôvodné obohatenie a vyporiadanie BSM.
+4. **Obchodné právo**: Zakladanie a zmeny obchodných spoločností, korporátna agenda, zmluvná dokumentácia a likvidácia spoločností.
+5. **Riešenie sporov**: Zastupovanie klientov v rôznych typoch sporov vrátane súdnych, rozhodcovských a správnych konaní.
+6. **Vymáhanie pohľadávok**: Mimosúdne aj súdne vymáhanie pohľadávok vrátane zastupovania v exekučnom konaní.
