@@ -1,9 +1,10 @@
 # macOS
 .DS_Store
 
-# Editor
+# Editor & tool caches
 .vscode/
 .idea/
+.playwright-mcp/
 
 # Dependencies
 node_modules/

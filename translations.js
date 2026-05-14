@@ -18,7 +18,7 @@ const translations = {
 
         // ===== HOME =====
         "home.hero.label": "Advokátska kancelária",
-        "home.hero.h1": 'Právo, ktoré <br/><span class="italic font-light">dáva zmysel.</span>',
+        "home.hero.h1": 'Právo, ktoré <br/><span class="italic font-light">dáva zmysel</span>',
         "home.hero.desc": "Spájame právnu precíznosť s ľudským prístupom. Pomáhame klientom orientovať sa v právnych vzťahoch a nachádzať riešenia, ktoré sú zrozumiteľné a dlhodobo udržateľné.",
         "home.hero.cta": "Dohodnúť konzultáciu",
         "home.hero.cta2": "Naša filozofia",
@@ -27,7 +27,7 @@ const translations = {
 
         // Profile
         "home.profile.label": "Osobný prístup",
-        "home.profile.h2": 'Aby ste vedeli, na čom <span class="italic text-primary">ste.</span>',
+        "home.profile.h2": 'Aby ste vedeli, na čom <span class="italic text-primary">ste</span>',
         "home.profile.desc": "Právne otázky vedia byť zložité. To však neznamená, že musia byť nejasné. Klient by mal vždy rozumieť svojej situácií a tomu, aké má možnosti. Preto vysvetľujem veci priamo, bez právnického jazyka a navrhujem riešenia, ktorú sú využiteľné v praxi.",
         "home.profile.name": "Mgr. Jana Králusová",
         "home.profile.role": "advokátka",
@@ -44,9 +44,9 @@ const translations = {
 
         // Home Services
         "home.services.label": "Naše služby",
-        "home.services.h2": 'Kde spájame znalosti s <span class="italic text-primary">praxou.</span>',
-        "home.services.realestate.h4": "Právo nehnuteľností",
-        "home.services.realestate.desc": "Prevod nehnuteľností, pozemkové právo, vysporiadanie vlastníckych a spoluvlastníckych vzťahov vrátane pozemkov s neznámymi vlastníkmi, ochrana vlastníckeho práva",
+        "home.services.h2": 'Kde spájame znalosti s <span class="italic text-primary">praxou</span>',
+        "home.services.realestate.h4": "Nehnuteľnosti a development",
+        "home.services.realestate.desc": "Prevod a nájom nehnuteľností, pozemkové právo, vysporiadanie vlastníckych a spoluvlastníckych vzťahov vrátane pozemkov s neznámymi vlastníkmi, due diligence nehnuteľností, právna podpora pre development",
         "home.services.contracts.h4": "Zmluvná agenda",
         "home.services.contracts.desc": "Príprava a tvorba zmlúv, ich posudzovanie a revízia, zmluvné vyjednávanie a riešenie sporov zo zmluvných vzťahov,",
         "home.services.corporate.h4": "Obchodné právo",
@@ -60,8 +60,8 @@ const translations = {
         "cta.btn": "dohodnúť konzultáciu",
 
         // ===== ABOUT =====
-        "about.hero.label": "Noveris Refined",
-        "about.hero.h1": 'Záleží na <br/><span class="italic text-primary">súvislostiach.</span>',
+        "about.hero.label": "Skúsenosti a prax",
+        "about.hero.h1": 'Záleží na <br/><span class="italic text-primary">súvislostiach</span>',
         "about.hero.desc": "To, čo rozhoduje, nebýva vždy len samotná právna otázka. Dôležité sú aj okolnosti a následky, ktoré z nej vyplývajú. Práve tie často určujú, aký postup je naozaj vhodný.",
 
         "about.quote.name": "Jana Králusová",
@@ -71,7 +71,7 @@ const translations = {
         "about.journey.label": "Moja cesta",
         "about.journey.h2": "Skúsenosti a individuálny prístup",
         "about.journey.p1": "Moja profesionálna cesta sa začala túžbou po porozumení práva v širšom spoločenskom kontexte. Už počas štúdia ma formovala stáž v advokátskej kancelárii v Rakúsku, ktorá mi otvorila dvere k precíznosti a vysokým štandardom európskej právnej praxe. Práve tam som pochopila, že právo musí byť v prvom rade funkčné a predvídateľné.",
-        "about.journey.p2": "Svoje skúsenosti som neskôr rozvíjala v advokátskych kanceláriách na Slovensku, kde som sa venovala komplexným a rôznorodým prípadom. Táto rozmanitosť ma naučila, že riešenie nie je len o striktných paragrafoch, ale predovšetkým o stratégii postavenej na porozumení potrieb klienta.",
+        "about.journey.p2": "Svoje skúsenosti som neskôr rozvíjala v popredných advokátskych kanceláriách na Slovensku, kde som sa venovala komplexným a rôznorodým prípadom. Táto rozmanitosť ma naučila, že riešenie nie je len o striktných paragrafoch, ale predovšetkým o stratégii postavenej na porozumení potrieb klienta.",
         "about.journey.p3": "V Noveris Legal sa vraciam k tomu najdôležitejšiemu - k osobnému vzťahu. Môj prístup je založený na absolútnom záväzku voči klientovi. Nehľadám len technicky správne odpovede, ale riešenia, ktoré skutočne rešpektujú integritu a životné či biznisové ciele tých, ktorých zastupujem.",
         "about.journey.cta": "dohodnúť konzultáciu",
 
@@ -79,13 +79,13 @@ const translations = {
 
         // ===== SERVICES =====
         "services.hero.label": "Právna expertíza",
-        "services.hero.h1": 'Riešenia založené na <span class="italic">dôvere</span> a odbornosti.',
+        "services.hero.h1": 'Riešenia založené na <span class="italic">dôvere</span> a odbornosti',
         "services.hero.desc": "V Noveris Legal pristupujeme ku každej veci individuálne, s dôrazom na jej dôsledné posúdenie a jasný postup. Cieľom je, aby klient vedel, aké má možnosti a čo môže očakávať.",
         "services.hero.quote": "\"Právo nemá byť prekážkou, ale oporou pri ďalších krokoch.\"",
 
         "services.grid.h2": "Naše Služby",
-        "services.realestate.h3": "Právo nehnuteľností",
-        "services.realestate.desc": "Prevod nehnuteľností, pozemkové právo, vysporiadanie vlastníckych a spoluvlastníckych vzťahov vrátane pozemkov s neznámymi vlastníkmi, ochrana vlastníckeho práva",
+        "services.realestate.h3": "Nehnuteľnosti a development",
+        "services.realestate.desc": "Prevod a nájom nehnuteľností, pozemkové právo, vysporiadanie vlastníckych a spoluvlastníckych vzťahov vrátane pozemkov s neznámymi vlastníkmi, due diligence nehnuteľností, právna podpora pre development",
         "services.contracts.h3": "Zmluvná agenda",
         "services.contracts.desc": "Príprava a tvorba zmlúv, ich posudzovanie a revízia, zmluvné vyjednávanie a riešenie sporov zo zmluvných vzťahov",
         "services.civil.h3": "Občianske právo",
@@ -98,7 +98,7 @@ const translations = {
         "services.debt.desc": "Mimosúdne aj súdne vymáhanie pohľadávok vrátane zastupovania v exekučnom konaní",
 
         // ===== CONTACT =====
-        "contact.hero.label": "Expertíza a dôvera",
+        "contact.hero.label": "Dôvera a zodpovednosť",
         "contact.hero.h1": 'Sme tu pre <br/><span class="italic text-primary">vás</span>',
         "contact.hero.quote": "„Každá komunikácia prebieha s dôrazom na dôveru a diskrétnosť.\"",
 
@@ -112,12 +112,12 @@ const translations = {
         "contact.form.h2": "Napíšte nám",
         "contact.form.desc": "Máte otázku alebo hľadáte právne zastupovanie? Zanechajte nám správu a my sa vám ozveme.",
         "contact.form.name.label": "Meno a priezvisko",
-        "contact.form.name.placeholder": "Jozef Mrkva",
+        "contact.form.name.placeholder": "Ján Nový",
         "contact.form.email.label": "E-mailová adresa",
-        "contact.form.email.placeholder": "email@priklad.sk",
+        "contact.form.email.placeholder": "jan.novy@email.sk",
         "contact.form.phone.label": "Telefónne číslo",
         "contact.form.message.label": "Vaša správa",
-        "contact.form.message.placeholder": "Ako vám môžeme pomôcť?",
+        "contact.form.message.placeholder": "Ako Vám môžeme pomôcť?",
         "contact.form.submit": "Odoslať správu",
         "contact.form.gdpr": "Odoslaním súhlasíte so spracovaním osobných údajov v súlade s GDPR.",
         "contact.form.name.error": "Prosím, zadajte svoje meno a priezvisko",
@@ -144,7 +144,7 @@ const translations = {
 
         // ===== HOME =====
         "home.hero.label": "Law Firm",
-        "home.hero.h1": 'Law that <br/><span class="italic font-light">makes sense.</span>',
+        "home.hero.h1": 'Law that <br/><span class="italic font-light">makes sense</span>',
         "home.hero.desc": "We combine legal precision with a human approach. We help clients navigate legal relationships and find solutions that are understandable and sustainable in the long term.",
         "home.hero.cta": "Book a consultation",
         "home.hero.cta2": "Our philosophy",
@@ -153,7 +153,7 @@ const translations = {
 
         // Profile
         "home.profile.label": "Personal approach",
-        "home.profile.h2": 'So you know where <span class="italic text-primary">you stand.</span>',
+        "home.profile.h2": 'So you know where <span class="italic text-primary">you stand</span>',
         "home.profile.desc": "Legal questions can be complex. But that doesn't mean they have to be unclear. A client should always understand their situation and what options they have. That's why I explain things directly, without legal jargon, and propose solutions that are practical.",
         "home.profile.name": "Mgr. Jana Králusová",
         "home.profile.role": "attorney",
@@ -170,9 +170,9 @@ const translations = {
 
         // Home Services
         "home.services.label": "Our services",
-        "home.services.h2": 'Where we combine knowledge with <span class="italic text-primary">practice.</span>',
-        "home.services.realestate.h4": "Real Estate Law",
-        "home.services.realestate.desc": "Real estate transfers, land law, settlement of ownership and co-ownership relations including land with unknown owners, protection of property rights",
+        "home.services.h2": 'Where we combine knowledge with <span class="italic text-primary">practice</span>',
+        "home.services.realestate.h4": "Real Estate & Development",
+        "home.services.realestate.desc": "Real estate transfers and leases, land law, settlement of ownership and co-ownership relations including land with unknown owners, real estate due diligence, legal support for development projects",
         "home.services.contracts.h4": "Contract Law",
         "home.services.contracts.desc": "Preparation and drafting of contracts, their assessment and revision, contract negotiations and resolution of contractual disputes",
         "home.services.corporate.h4": "Corporate Law",
@@ -186,8 +186,8 @@ const translations = {
         "cta.btn": "book a consultation",
 
         // ===== ABOUT =====
-        "about.hero.label": "Noveris Refined",
-        "about.hero.h1": 'Context <br/><span class="italic text-primary">matters.</span>',
+        "about.hero.label": "Experience and Practice",
+        "about.hero.h1": 'Context <br/><span class="italic text-primary">matters</span>',
         "about.hero.desc": "What decides the outcome is not always just the legal question itself. The circumstances and consequences that follow are equally important. They often determine the most suitable course of action.",
 
         "about.quote.name": "Jana Králusová",
@@ -197,19 +197,19 @@ const translations = {
         "about.journey.label": "My journey",
         "about.journey.h2": "Experience and individual approach",
         "about.journey.p1": "My professional journey began with a desire to understand law in a broader social context. During my studies, an internship at a law firm in Austria opened the door to precision and the high standards of European legal practice. It was there I understood that law must be, above all, functional and predictable.",
-        "about.journey.p2": "I later developed my experience at law firms in Slovakia, where I worked on complex and diverse cases. This variety taught me that solutions are not just about strict paragraphs, but primarily about strategy built on understanding client needs.",
+        "about.journey.p2": "I later developed my experience at leading law firms in Slovakia, where I worked on complex and diverse cases. This variety taught me that solutions are not just about strict paragraphs, but primarily about strategy built on understanding client needs.",
         "about.journey.p3": "At Noveris Legal, I return to what matters most — the personal relationship. My approach is based on an absolute commitment to the client. I don't just look for technically correct answers, but solutions that truly respect the integrity and life or business goals of those I represent.",
         "about.journey.cta": "book a consultation",
 
         // ===== SERVICES =====
         "services.hero.label": "Legal expertise",
-        "services.hero.h1": 'Solutions built on <span class="italic">trust</span> and expertise.',
+        "services.hero.h1": 'Solutions built on <span class="italic">trust</span> and expertise',
         "services.hero.desc": "At Noveris Legal, we approach every matter individually, with emphasis on thorough assessment and a clear course of action. The goal is for the client to know what their options are and what to expect.",
         "services.hero.quote": "\"Law should not be an obstacle, but a support for your next steps.\"",
 
         "services.grid.h2": "Our Services",
-        "services.realestate.h3": "Real Estate Law",
-        "services.realestate.desc": "Real estate transfers, land law, settlement of ownership and co-ownership relations including land with unknown owners, protection of property rights",
+        "services.realestate.h3": "Real Estate & Development",
+        "services.realestate.desc": "Real estate transfers and leases, land law, settlement of ownership and co-ownership relations including land with unknown owners, real estate due diligence, legal support for development projects",
         "services.contracts.h3": "Contract Law",
         "services.contracts.desc": "Preparation and drafting of contracts, their assessment and revision, contract negotiations and resolution of contractual disputes",
         "services.civil.h3": "Civil Law",
@@ -222,7 +222,7 @@ const translations = {
         "services.debt.desc": "Out-of-court and court debt recovery including representation in enforcement proceedings",
 
         // ===== CONTACT =====
-        "contact.hero.label": "Expertise and trust",
+        "contact.hero.label": "Trust and Responsibility",
         "contact.hero.h1": 'We are here <br/><span class="italic text-primary">for you</span>',
         "contact.hero.quote": "\"Every communication is conducted with an emphasis on trust and discretion.\"",
 
