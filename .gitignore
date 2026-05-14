@@ -12,3 +12,6 @@ node_modules/
 # Build & generated outputs
 dist/
 out/
+
+# Source inputs (working drafts)
+in/
