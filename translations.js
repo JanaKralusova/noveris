@@ -95,7 +95,7 @@ const translations = {
         "services.corporate.h3": "Obchodné právo",
         "services.corporate.desc": "Zakladanie a zmeny obchodných spoločností, korporátna agenda, zmluvná dokumentácia a likvidácia spoločností",
         "services.disputes.h3": "Riešenie sporov",
-        "services.disputes.desc": "Zastupovane klientov v rôznych typov sporoch vrátane súdnych, rozhodcovských a správnych konaní.",
+        "services.disputes.desc": "Zastupovane klientov v rôznych typov sporoch vrátane súdnych, rozhodcovských a správnych konaní",
         "services.debt.h3": "Vymáhanie pohľadávok",
         "services.debt.desc": "Mimosúdne aj súdne vymáhanie pohľadávok vrátane zastupovania v exekučnom konaní",
 
@@ -221,7 +221,7 @@ const translations = {
         "services.corporate.h3": "Corporate Law",
         "services.corporate.desc": "Establishing and modifying business companies, corporate agenda, contractual documentation and company liquidation",
         "services.disputes.h3": "Dispute Resolution",
-        "services.disputes.desc": "Representing clients in various types of disputes including court, arbitration and administrative proceedings.",
+        "services.disputes.desc": "Representing clients in various types of disputes including court, arbitration and administrative proceedings",
         "services.debt.h3": "Debt Recovery",
         "services.debt.desc": "Out-of-court and court debt recovery including representation in enforcement proceedings",
 

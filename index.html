@@ -116,7 +116,11 @@
 </button>
 </div>
 </nav>
-<!-- Mobile menu drawer -->
+</header>
+
+<!-- Mobile menu drawer — kept outside <header>: the header's backdrop-filter
+     makes it the containing block for fixed children in Safari, which would
+     collapse this drawer to the header's height. -->
 <div id="mobile-menu" class="md:hidden fixed inset-0 z-[60] pointer-events-none opacity-0 transition-opacity duration-300">
 <div class="absolute inset-0 bg-black/40" onclick="toggleMobileMenu()"></div>
 <div id="mobile-menu-panel" class="absolute top-0 right-0 h-full w-72 bg-surface shadow-2xl translate-x-full transition-transform duration-300 ease-out flex flex-col">
@@ -137,7 +141,6 @@
 </div>
 </div>
 </div>
-</header>
 
 <!-- ===== PAGE: HOME ===== -->
 <main class="page-section active" data-page="home">
@@ -393,7 +396,7 @@
 <div>
 <div class="mb-8 text-secondary"><span class="material-symbols-outlined text-4xl">gavel</span></div>
 <h3 class="font-headline text-2xl text-on-surface mb-4" data-i18n="services.disputes.h3">Riešenie sporov</h3>
-<p class="font-body text-on-surface-variant leading-relaxed mb-6" data-i18n="services.disputes.desc">Zastupovane klientov v rôznych typov sporoch vrátane súdnych, rozhodcovských a správnych konaní.</p>
+<p class="font-body text-on-surface-variant leading-relaxed mb-6" data-i18n="services.disputes.desc">Zastupovane klientov v rôznych typov sporoch vrátane súdnych, rozhodcovských a správnych konaní</p>
 </div>
 </div>
 <div class="group bg-surface-container-lowest p-10 flex flex-col justify-between hover:bg-surface-container-highest transition-all duration-300">
@@ -423,12 +426,12 @@
 <main class="page-section" data-page="contact">
 
 <section class="px-8 pt-24 pb-32">
-<div class="max-w-7xl mx-auto grid grid-cols-12 gap-8 items-end">
-<div class="col-span-12 md:col-span-8">
+<div class="max-w-7xl mx-auto grid grid-cols-1 md:grid-cols-12 gap-8 items-end">
+<div class="md:col-span-8">
 <p class="font-label uppercase tracking-[0.2em] text-sm text-secondary mb-6" data-i18n="contact.hero.label">Dôvera a zodpovednosť</p>
 <h1 class="font-headline text-5xl md:text-7xl leading-tight text-on-surface" data-i18n="contact.hero.h1">Sme tu pre <br/><span class="italic text-primary">vás</span></h1>
 </div>
-<div class="col-span-12 md:col-span-4 pb-4">
+<div class="md:col-span-4 pb-4">
 <div class="border-l-4 border-secondary-fixed-dim pl-8">
 <p class="font-headline text-2xl italic text-on-surface-variant leading-relaxed" data-i18n="contact.hero.quote">„Každá komunikácia prebieha s dôrazom na dôveru a diskrétnosť."</p>
 </div>
