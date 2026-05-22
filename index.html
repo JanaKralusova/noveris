@@ -818,7 +818,7 @@
 <a href="#home"><img alt="Noveris Legal Logo" class="h-6 w-auto object-contain opacity-80 hover:opacity-100 transition-opacity invert dark:invert-0" src="assets/logo.svg"/></a>
 </div>
 <div class="text-[#6d5b47] dark:text-[#fcf9f2] font-body text-xs opacity-80" data-i18n="footer.copy">
-    © 2026 Noveris Legal s. r. o. Všetky práva vyhradené.
+    © {year} Noveris Legal s. r. o. Všetky práva vyhradené.
 </div>
 </footer>
 
@@ -1019,6 +1019,12 @@
     });
 
     window.addEventListener('hashchange', navigate);
+
+    // Inject the current year into the copyright notice
+    const year = new Date().getFullYear();
+    for (const lang of Object.keys(translations)) {
+        translations[lang]['footer.copy'] = translations[lang]['footer.copy'].replace('{year}', year);
+    }
 
     // Init
     applyLang(currentLang);

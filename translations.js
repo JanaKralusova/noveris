@@ -128,7 +128,7 @@ const translations = {
         "contact.form.message.error": "Prosím, vyplňte text správy",
 
         // Footer
-        "footer.copy": "© 2026 Noveris Legal s. r. o. Všetky práva vyhradené.",
+        "footer.copy": "© {year} Noveris Legal s. r. o. Všetky práva vyhradené.",
     },
 
     en: {
@@ -254,6 +254,6 @@ const translations = {
         "contact.form.message.error": "Please enter your message",
 
         // Footer
-        "footer.copy": "© 2026 Noveris Legal s. r. o. All rights reserved.",
+        "footer.copy": "© {year} Noveris Legal s. r. o. All rights reserved.",
     }
 };
