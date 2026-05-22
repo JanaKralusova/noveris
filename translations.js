@@ -50,7 +50,7 @@ const translations = {
         "home.services.realestate.h4": "Nehnuteľnosti a development",
         "home.services.realestate.desc": "Prevod a nájom nehnuteľností, pozemkové právo, vysporiadanie vlastníckych a spoluvlastníckych vzťahov vrátane pozemkov s neznámymi vlastníkmi, due diligence nehnuteľností, právna podpora pre development",
         "home.services.contracts.h4": "Zmluvná agenda",
-        "home.services.contracts.desc": "Príprava a tvorba zmlúv, ich posudzovanie a revízia, zmluvné vyjednávanie a riešenie sporov zo zmluvných vzťahov,",
+        "home.services.contracts.desc": "Príprava a tvorba zmlúv, ich posudzovanie a revízia, zmluvné vyjednávanie a riešenie sporov zo zmluvných vzťahov",
         "home.services.corporate.h4": "Obchodné právo",
         "home.services.corporate.desc": "Zakladanie a zmeny obchodných spoločností, korporátna agenda, zmluvná dokumentácia a likvidácia spoločností",
         "home.services.more": "Viac informácií",
