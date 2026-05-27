@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="sk">
+<head>
+<meta charset="utf-8"/>
+<title>Gmail Signature Export — Noveris Legal</title>
+<style>
+  body { margin: 0; padding: 40px; background: #fcf9f2; font-family: Arial, Helvetica, sans-serif; }
+  .export-hint {
+    max-width: 500px; margin: 0 auto 24px auto;
+    font-size: 11px; color: #888; text-align: center; letter-spacing: 0.05em;
+  }
+  .export-hint strong { color: #555; }
+  .copy-btn {
+    display: block; margin: 0 auto 32px auto;
+    padding: 12px 32px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px; font-weight: 600; letter-spacing: 0.5px;
+    color: #fff; background: linear-gradient(45deg, #6d5b47, #c6af97);
+    border: none; border-radius: 4px; cursor: pointer;
+    transition: opacity 0.2s;
+  }
+  .copy-btn:hover { opacity: 0.85; }
+  .copy-btn:active { transform: scale(0.98); }
+</style>
+</head>
+<body>
+
+<div class="export-hint">
+  <strong>Gmail export</strong> — click the button to copy the signature as rich text,
+  then paste (Cmd+V) into Gmail Settings &rarr; Signature.
+</div>
+
+<button class="copy-btn" id="copyBtn" onclick="copySignature()">Copy signature to clipboard</button>
+
+<div id="signature" style="background: transparent;">
+
+<table cellpadding="0" cellspacing="0" border="0" style="border-collapse: collapse; font-family: Arial, Helvetica, sans-serif; max-width: 500px;">
+  <!-- Greeting -->
+  <tr>
+    <td style="padding: 0 0 16px 0;">
+      <p style="font-family: Arial, Helvetica, sans-serif; font-size: 13px; color: #2c2822; margin: 0; line-height: 1.5;">S pozdravom</p>
+    </td>
+  </tr>
+  <!-- Logo + Name -->
+  <tr>
+    <td style="padding: 0 0 4px 0; vertical-align: middle;">
+      <table cellpadding="0" cellspacing="0" border="0" style="border-collapse: collapse;">
+        <tr>
+          <td style="padding-right: 18px; vertical-align: top; height: 40px;">
+            <img src="https://noveris.sk/assets/email/logo.png" alt="Noveris Legal" height="46" style="display: block; width: auto; height: 46px; border: 0; margin: -3px 0;"/>
+          </td>
+          <td style="vertical-align: top; height: 40px;">
+            <p style="font-family: Georgia, 'Times New Roman', serif; font-size: 20px; font-weight: 500; color: #1c1c18; margin: 0; line-height: 1.3;">Mgr. Jana Kr&#225;lusov&#225;</p>
+            <p style="font-family: Arial, Helvetica, sans-serif; font-size: 10px; text-transform: uppercase; letter-spacing: 0.2em; color: #6d5b47; margin: 0; padding-top: 4px;">advok&#225;tka a konate&#318;ka</p>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <!-- Divider -->
+  <tr>
+    <td style="padding: 12px 0; font-size: 0; line-height: 0;">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%" style="border-collapse: collapse;">
+        <tr><td style="background-color: #c8bca8; height: 1px; font-size: 0; line-height: 0;">&#8202;</td></tr>
+      </table>
+    </td>
+  </tr>
+  <!-- Company -->
+  <tr>
+    <td style="padding: 0 0 12px 0;">
+      <p style="font-family: Arial, Helvetica, sans-serif; font-size: 11px; font-weight: 600; color: #2c2822; letter-spacing: 0.05em; margin: 0; line-height: 1.5;">Noveris Legal s.&nbsp;r.&nbsp;o.</p>
+      <p style="font-family: Arial, Helvetica, sans-serif; font-size: 10px; color: #3d3628; margin: 0; letter-spacing: 0.03em;">advok&#225;tska kancel&#225;ria</p>
+    </td>
+  </tr>
+  <!-- Contact details -->
+  <tr>
+    <td style="padding: 0 0 4px 0;">
+      <table cellpadding="0" cellspacing="0" border="0" style="border-collapse: collapse;">
+        <tr>
+          <td width="55" style="padding: 0 12px 1px 0; width: 55px; vertical-align: baseline; white-space: nowrap; font-family: Arial, Helvetica, sans-serif; font-size: 9px; text-transform: uppercase; letter-spacing: 1.5px; line-height: 18px; color: #3d3628;">S&#237;dlo:</td>
+          <td style="padding: 0 0 1px 0; vertical-align: baseline; font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 18px; color: #3d3628;">Tur&#269;ianska 42, 821 09 Bratislava</td>
+        </tr>
+        <tr>
+          <td width="55" style="padding: 0 12px 1px 0; width: 55px; vertical-align: baseline; white-space: nowrap; font-family: Arial, Helvetica, sans-serif; font-size: 9px; text-transform: uppercase; letter-spacing: 1.5px; line-height: 18px; color: #3d3628;">Tel:</td>
+          <td style="padding: 0 0 1px 0; vertical-align: baseline;"><a href="tel:+421915622518" style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 18px; color: #3d3628; text-decoration: none;"><span style="color: #3d3628;">+421 915 622 518</span></a></td>
+        </tr>
+        <tr>
+          <td width="55" style="padding: 0 12px 1px 0; width: 55px; vertical-align: baseline; white-space: nowrap; font-family: Arial, Helvetica, sans-serif; font-size: 9px; text-transform: uppercase; letter-spacing: 1.5px; line-height: 18px; color: #3d3628;">E-mail:</td>
+          <td style="padding: 0 0 1px 0; vertical-align: baseline;"><a href="mailto:kralusova@noveris.sk" style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 18px; color: #3d3628; text-decoration: none;"><span style="color: #3d3628;">kralusova@noveris.sk</span></a></td>
+        </tr>
+        <tr>
+          <td width="55" style="padding: 0 12px 0 0; width: 55px; vertical-align: baseline; white-space: nowrap; font-family: Arial, Helvetica, sans-serif; font-size: 9px; text-transform: uppercase; letter-spacing: 1.5px; line-height: 18px; color: #3d3628;">Web:</td>
+          <td style="padding: 0; vertical-align: baseline;"><a href="https://www.noveris.sk" style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 18px; color: #3d3628; text-decoration: none;"><span style="color: #3d3628;">www.noveris.sk</span></a></td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <!-- Divider -->
+  <tr>
+    <td style="padding: 12px 0; font-size: 0; line-height: 0;">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%" style="border-collapse: collapse;">
+        <tr><td style="background-color: #c8bca8; height: 1px; font-size: 0; line-height: 0;">&#8202;</td></tr>
+      </table>
+    </td>
+  </tr>
+  <!-- Legal disclaimer -->
+  <tr>
+    <td style="padding: 0;">
+      <p style="font-family: Arial, Helvetica, sans-serif; font-size: 9px; font-weight: 700; color: #3d3628; text-transform: uppercase; letter-spacing: 0.1em; margin: 0 0 3px 0;">Pr&#225;vne upozornenie:</p>
+      <p style="font-family: Arial, Helvetica, sans-serif; font-size: 9px; color: #5a5041; line-height: 1.6; margin: 0; text-align: justify;">Tento e-mail a ak&#233;ko&#318;vek jeho pr&#237;lohy, je ur&#269;en&#253; v&#253;hradne ur&#269;en&#233;mu adres&#225;tovi a m&#244;&#382;e obsahova&#357; pr&#225;vne vyhraden&#233; a/alebo d&#244;vern&#233; inform&#225;cie. Pokia&#318; nie ste ur&#269;en&#253;m adres&#225;tom tohto e-mailu, informujem V&#225;s t&#253;mto, &#382;e ak&#233;ko&#318;vek &#353;&#237;renie, distrib&#250;cia, oznamovanie obsahu alebo kop&#237;rovanie tohto e-mailu a pripojen&#253;ch pr&#237;loh je pr&#237;sne zak&#225;zan&#233;. Ak omylom prijmete tento e-mail, ihne&#271; ma, pros&#237;m, kontaktujte a okam&#382;ite a trvalo odstr&#225;&#328;te t&#250;to e-mailov&#250; spr&#225;vu a ak&#233;ko&#318;vek jej k&#243;pie a v&#253;tla&#269;ky.</p>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<script>
+function copySignature() {
+  var sig = document.getElementById('signature');
+
+  var origBg = document.body.style.background;
+  document.body.style.background = '#fff';
+
+  var range = document.createRange();
+  range.selectNodeContents(sig);
+  var sel = window.getSelection();
+  sel.removeAllRanges();
+  sel.addRange(range);
+
+  try {
+    document.execCommand('copy');
+    var btn = document.getElementById('copyBtn');
+    btn.textContent = 'Copied!';
+    btn.style.background = '#6d5b47';
+    setTimeout(function() {
+      btn.textContent = 'Copy signature to clipboard';
+      btn.style.background = '';
+    }, 2000);
+  } catch (e) {
+    alert('Copy failed — please select the signature manually and use Cmd+C.');
+  }
+
+  sel.removeAllRanges();
+  document.body.style.background = origBg;
+}
+</script>
+
+</body>
+</html>
