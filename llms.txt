@@ -21,6 +21,39 @@ Noveris Legal combines legal precision with a human approach. Founded by Mgr. Ja
 5. **Dispute Resolution (Riešenie sporov)**: Representing clients in court, arbitration, and administrative proceedings.
 6. **Debt Recovery (Vymáhanie pohľadávok)**: Out-of-court and court debt recovery, including enforcement proceedings.
 
+<!-- pages-en:start -->
+## Website Pages
+- [Home](https://noveris.sk/en/)
+- [About](https://noveris.sk/en/about/)
+- [Services](https://noveris.sk/en/services/)
+- [Contact](https://noveris.sk/en/contact/)
+- [Vysporiadanie pozemkov: advokát v Bratislave (Slovak)](https://noveris.sk/sluzby/vysporiadanie-pozemkov/)
+- [Articles (Slovak)](https://noveris.sk/clanky/)
+- [Privacy policy (Slovak)](https://noveris.sk/ochrana-osobnych-udajov/)
+Slovak versions: https://noveris.sk/, https://noveris.sk/o-nas/, https://noveris.sk/sluzby/, https://noveris.sk/kontakt/.
+<!-- pages-en:end -->
+
+<!-- articles-en:start -->
+## Articles (Články)
+Practical articles in Slovak. Full text of all articles: https://noveris.sk/llms-full.txt. Each article also has a markdown copy at <article URL>index.md.
+
+- [Nevysporiadaný pozemok: Ako zistiť vlastníka a vyriešiť vlastnícke vzťahy?](https://noveris.sk/clanky/nevysporiadany-pozemok/): Nevysporiadaný pozemok: ako zistiť vlastníka, čo znamená zosnulý či SPF na liste vlastníctva a aké možnosti vysporiadania prichádzajú do úvahy.
+- [Na liste vlastníctva je uvedená zomrelá osoba. Ako postupovať?](https://noveris.sk/clanky/zosnuly-na-liste-vlastnictva/): Zomrelá osoba na liste vlastníctva: prečo tam zostala, kedy treba dodatočné konanie o dedičstve a ako usporiadať vlastníctvo pred predajom pozemku.
+- [Slovenský pozemkový fond na liste vlastníctva: Čo to znamená a ako postupovať?](https://noveris.sk/clanky/slovensky-pozemkovy-fond-na-liste-vlastnictva/): SPF na liste vlastníctva: kedy ide o štátny pozemok a kedy o pozemok neznámeho vlastníka a aké možnosti vysporiadania pri zápise fondu existujú.
+- [Ako odkúpiť pozemok od Slovenského pozemkového fondu?](https://noveris.sk/clanky/odkupenie-pozemku-od-spf/): Odkúpenie pozemku od SPF: kedy je prevod možný, čo má obsahovať žiadosť, ako kúpa prebieha a kedy zabezpečiť geometrický plán či znalecký posudok.
+- [Pozemok vo vlastníctve Slovenskej republiky: Ako ho možno odkúpiť?](https://noveris.sk/clanky/odkupenie-statneho-pozemku/): Odkúpenie štátneho pozemku: ako zistiť správcu, kedy prichádza prevod do úvahy, čo rozhoduje pri posúdení žiadosti a z čoho sa skladajú náklady.
+- [Na liste vlastníctva je zapísaná zaniknutá spoločnosť. Ako vysporiadať pozemok?](https://noveris.sk/clanky/pozemok-zaniknutej-spolocnosti/): Pozemok zaniknutej spoločnosti: ako zistiť právneho nástupcu, kedy slúži dodatočná likvidácia a s kým možno rokovať o odkúpení alebo vysporiadaní pozemku.
+- [Ako kúpiť pozemok, ktorého vlastník zomrel a dedičia nie sú známi?](https://noveris.sk/clanky/kupa-pozemku-po-zosnulom-s-neznamymi-dedicmi/): Kúpa pozemku po zosnulom s neznámymi dedičmi: ako dedičov zistiť, kedy treba dodatočné konanie o dedičstve a čo robiť, ak dedičstvo pripadne štátu.
+- [Parcela registra C nemá založený list vlastníctva. Čo to znamená?](https://noveris.sk/clanky/parcela-c-bez-listu-vlastnictva/): Parcela registra C bez listu vlastníctva neznamená pozemok bez vlastníka. Vysvetlíme väzbu na register E a ako zistiť, s kým riešiť kúpu pozemku.
+- [Ako zistiť, komu patrí pozemok, ak vlastník nie je uvedený v katastri?](https://noveris.sk/clanky/zistenie-vlastnika-ktory-nie-je-v-katastri/): Zistenie vlastníka pozemku v katastri: kde hľadať, keď meno chýba, ako pomôžu staré mapy, archívy a dedičské spisy a ako nájsť dnešného vlastníka.
+- [Ako zrušiť a vyporiadať podielové spoluvlastníctvo k pozemku?](https://noveris.sk/clanky/zrusenie-podieloveho-spoluvlastnictva/): Zrušenie podielového spoluvlastníctva pozemku: rozdelenie, prikázanie za náhradu či predaj, dohoda alebo súd. Pomôžeme posúdiť vhodné riešenie.
+- [Vydržanie pozemku: Kedy môžete získať pozemok, ktorý dlhodobo užívate?](https://noveris.sk/clanky/vydrzanie-pozemku/): Vydržanie pozemku: čo znamená oprávnená držba a dobromyseľnosť, či stačí desať rokov užívania a ako sa vydržanie preukazuje pred súdom.
+- [Ako vysporiadať pozemok pod stavbou?](https://noveris.sk/clanky/pozemok-pod-stavbou/): Pozemok pod stavbou: ako ho vysporiadať odkúpením, vecným bremenom či nájmom a čo robiť pri neoprávnenej stavbe. Pomôžeme s hľadaním riešenia.
+- [Ako vyriešiť prístup k pozemku alebo stavbe cez cudzí alebo nevysporiadaný pozemok?](https://noveris.sk/clanky/pristup-k-pozemku-alebo-stavbe/): Prístup k pozemku alebo stavbe: čo preveriť, kedy pomôže vecné bremeno či dohoda a kedy môže právo cesty zriadiť súd. Pomôžeme s hľadaním riešenia.
+- [Ako vysporiadať pozemky po rodičoch alebo starých rodičoch, ktoré neboli prededené?](https://noveris.sk/clanky/neprededene-pozemky-po-rodicoch/): Neprededené pozemky po rodičoch: ako zistiť, ktoré v dedičstve chýbajú, ako prebieha dodatočné konanie a čo ak medzičasom zomreli ďalší dedičia.
+- [Čo robiť, ak spoluvlastník nesúhlasí s predajom alebo vyporiadaním pozemku?](https://noveris.sk/clanky/nesuhlas-spoluvlastnika-s-predajom/): Nesúhlas spoluvlastníka s predajom pozemku: kedy môžete predať len podiel, aké dohody pomáhajú a ako prebieha súdne vyporiadanie spoluvlastníctva.
+<!-- articles-en:end -->
+
 ---
 
 # Noveris Legal - Profil pre AI Agentov (Slovak Version)
@@ -45,3 +78,36 @@ Noveris Legal spája právnu precíznosť s ľudským prístupom. Kanceláriu za
 4. **Obchodné právo**: Zakladanie a zmeny obchodných spoločností, korporátna agenda, zmluvná dokumentácia a likvidácia spoločností.
 5. **Riešenie sporov**: Zastupovanie klientov v rôznych typoch sporov vrátane súdnych, rozhodcovských a správnych konaní.
 6. **Vymáhanie pohľadávok**: Mimosúdne aj súdne vymáhanie pohľadávok vrátane zastupovania v exekučnom konaní.
+
+<!-- pages-sk:start -->
+## Stránky webu
+- [Domov](https://noveris.sk/)
+- [O nás](https://noveris.sk/o-nas/)
+- [Služby](https://noveris.sk/sluzby/)
+- [Vysporiadanie pozemkov: advokát v Bratislave](https://noveris.sk/sluzby/vysporiadanie-pozemkov/)
+- [Články](https://noveris.sk/clanky/)
+- [Kontakt](https://noveris.sk/kontakt/)
+- [Ochrana osobných údajov](https://noveris.sk/ochrana-osobnych-udajov/)
+Anglické verzie: https://noveris.sk/en/, https://noveris.sk/en/about/, https://noveris.sk/en/services/, https://noveris.sk/en/contact/.
+<!-- pages-sk:end -->
+
+<!-- articles-sk:start -->
+## Články
+Praktické články o právnych situáciách. Úplné znenie všetkých článkov: https://noveris.sk/llms-full.txt. Každý článok má aj markdown kópiu na <URL článku>index.md.
+
+- [Nevysporiadaný pozemok: Ako zistiť vlastníka a vyriešiť vlastnícke vzťahy?](https://noveris.sk/clanky/nevysporiadany-pozemok/): Nevysporiadaný pozemok: ako zistiť vlastníka, čo znamená zosnulý či SPF na liste vlastníctva a aké možnosti vysporiadania prichádzajú do úvahy.
+- [Na liste vlastníctva je uvedená zomrelá osoba. Ako postupovať?](https://noveris.sk/clanky/zosnuly-na-liste-vlastnictva/): Zomrelá osoba na liste vlastníctva: prečo tam zostala, kedy treba dodatočné konanie o dedičstve a ako usporiadať vlastníctvo pred predajom pozemku.
+- [Slovenský pozemkový fond na liste vlastníctva: Čo to znamená a ako postupovať?](https://noveris.sk/clanky/slovensky-pozemkovy-fond-na-liste-vlastnictva/): SPF na liste vlastníctva: kedy ide o štátny pozemok a kedy o pozemok neznámeho vlastníka a aké možnosti vysporiadania pri zápise fondu existujú.
+- [Ako odkúpiť pozemok od Slovenského pozemkového fondu?](https://noveris.sk/clanky/odkupenie-pozemku-od-spf/): Odkúpenie pozemku od SPF: kedy je prevod možný, čo má obsahovať žiadosť, ako kúpa prebieha a kedy zabezpečiť geometrický plán či znalecký posudok.
+- [Pozemok vo vlastníctve Slovenskej republiky: Ako ho možno odkúpiť?](https://noveris.sk/clanky/odkupenie-statneho-pozemku/): Odkúpenie štátneho pozemku: ako zistiť správcu, kedy prichádza prevod do úvahy, čo rozhoduje pri posúdení žiadosti a z čoho sa skladajú náklady.
+- [Na liste vlastníctva je zapísaná zaniknutá spoločnosť. Ako vysporiadať pozemok?](https://noveris.sk/clanky/pozemok-zaniknutej-spolocnosti/): Pozemok zaniknutej spoločnosti: ako zistiť právneho nástupcu, kedy slúži dodatočná likvidácia a s kým možno rokovať o odkúpení alebo vysporiadaní pozemku.
+- [Ako kúpiť pozemok, ktorého vlastník zomrel a dedičia nie sú známi?](https://noveris.sk/clanky/kupa-pozemku-po-zosnulom-s-neznamymi-dedicmi/): Kúpa pozemku po zosnulom s neznámymi dedičmi: ako dedičov zistiť, kedy treba dodatočné konanie o dedičstve a čo robiť, ak dedičstvo pripadne štátu.
+- [Parcela registra C nemá založený list vlastníctva. Čo to znamená?](https://noveris.sk/clanky/parcela-c-bez-listu-vlastnictva/): Parcela registra C bez listu vlastníctva neznamená pozemok bez vlastníka. Vysvetlíme väzbu na register E a ako zistiť, s kým riešiť kúpu pozemku.
+- [Ako zistiť, komu patrí pozemok, ak vlastník nie je uvedený v katastri?](https://noveris.sk/clanky/zistenie-vlastnika-ktory-nie-je-v-katastri/): Zistenie vlastníka pozemku v katastri: kde hľadať, keď meno chýba, ako pomôžu staré mapy, archívy a dedičské spisy a ako nájsť dnešného vlastníka.
+- [Ako zrušiť a vyporiadať podielové spoluvlastníctvo k pozemku?](https://noveris.sk/clanky/zrusenie-podieloveho-spoluvlastnictva/): Zrušenie podielového spoluvlastníctva pozemku: rozdelenie, prikázanie za náhradu či predaj, dohoda alebo súd. Pomôžeme posúdiť vhodné riešenie.
+- [Vydržanie pozemku: Kedy môžete získať pozemok, ktorý dlhodobo užívate?](https://noveris.sk/clanky/vydrzanie-pozemku/): Vydržanie pozemku: čo znamená oprávnená držba a dobromyseľnosť, či stačí desať rokov užívania a ako sa vydržanie preukazuje pred súdom.
+- [Ako vysporiadať pozemok pod stavbou?](https://noveris.sk/clanky/pozemok-pod-stavbou/): Pozemok pod stavbou: ako ho vysporiadať odkúpením, vecným bremenom či nájmom a čo robiť pri neoprávnenej stavbe. Pomôžeme s hľadaním riešenia.
+- [Ako vyriešiť prístup k pozemku alebo stavbe cez cudzí alebo nevysporiadaný pozemok?](https://noveris.sk/clanky/pristup-k-pozemku-alebo-stavbe/): Prístup k pozemku alebo stavbe: čo preveriť, kedy pomôže vecné bremeno či dohoda a kedy môže právo cesty zriadiť súd. Pomôžeme s hľadaním riešenia.
+- [Ako vysporiadať pozemky po rodičoch alebo starých rodičoch, ktoré neboli prededené?](https://noveris.sk/clanky/neprededene-pozemky-po-rodicoch/): Neprededené pozemky po rodičoch: ako zistiť, ktoré v dedičstve chýbajú, ako prebieha dodatočné konanie a čo ak medzičasom zomreli ďalší dedičia.
+- [Čo robiť, ak spoluvlastník nesúhlasí s predajom alebo vyporiadaním pozemku?](https://noveris.sk/clanky/nesuhlas-spoluvlastnika-s-predajom/): Nesúhlas spoluvlastníka s predajom pozemku: kedy môžete predať len podiel, aké dohody pomáhajú a ako prebieha súdne vyporiadanie spoluvlastníctva.
+<!-- articles-sk:end -->

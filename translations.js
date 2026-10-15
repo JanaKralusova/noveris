@@ -8,6 +8,7 @@ const translations = {
         "nav.home": "Domov",
         "nav.about": "O nás",
         "nav.services": "Služby",
+        "nav.articles": "Články",
         "nav.contact": "Kontakt",
 
         // Page titles
@@ -127,6 +128,15 @@ const translations = {
         "contact.form.phone.error": "Prosím, zadajte platné telefónne číslo (napr. +421 900 123 456)",
         "contact.form.message.error": "Prosím, vyplňte text správy",
 
+        // Image alt texts
+        "img.home.hero": "Advokátska kancelária Noveris Legal — elegantný pracovný stôl s právnickou knihou",
+        "img.home.profile": "Mgr. Jana Králusová — osobný prístup ku klientom",
+        "img.about.portrait": "Mgr. Jana Králusová — profesionálny portrét advokátky",
+        "img.about.meeting": "Rokovacia miestnosť Noveris Legal — profesionálne prostredie pre klientov",
+        "img.services.phone": "Advokátka v modernej kancelárii — telefonická konzultácia s klientom",
+        "img.contact.portrait": "Mgr. Jana Králusová — kontaktný portrét",
+        "img.contact.city": "Letecký pohľad na Bratislavu — Noveris Legal sídli v centre mesta",
+
         // Footer
         "footer.copy": "© {year} Noveris Legal s. r. o. Všetky práva vyhradené.",
     },
@@ -136,6 +146,7 @@ const translations = {
         "nav.home": "Home",
         "nav.about": "About",
         "nav.services": "Services",
+        "nav.articles": "Articles",
         "nav.contact": "Contact",
 
         // Page titles
@@ -253,7 +264,18 @@ const translations = {
         "contact.form.phone.error": "Please enter a valid phone number (e.g., +421 900 123 456)",
         "contact.form.message.error": "Please enter your message",
 
+        // Image alt texts
+        "img.home.hero": "Noveris Legal law firm — an elegant desk with a law book",
+        "img.home.profile": "Mgr. Jana Králusová — a personal approach to every client",
+        "img.about.portrait": "Mgr. Jana Králusová — professional portrait of the attorney",
+        "img.about.meeting": "Noveris Legal meeting room — a professional setting for clients",
+        "img.services.phone": "Attorney in a modern office — phone consultation with a client",
+        "img.contact.portrait": "Mgr. Jana Králusová — contact portrait",
+        "img.contact.city": "Aerial view of Bratislava — Noveris Legal is based in the city",
+
         // Footer
         "footer.copy": "© {year} Noveris Legal s. r. o. All rights reserved.",
     }
 };
+
+if (typeof module !== "undefined") module.exports = translations;

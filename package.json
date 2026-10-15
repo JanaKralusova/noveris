@@ -6,7 +6,10 @@
   "scripts": {
     "build:css": "npx tailwindcss -i tailwind-input.css -o tailwind-output.css --minify",
     "watch:css": "npx tailwindcss -i tailwind-input.css -o tailwind-output.css --watch",
-    "build": "npm run build:css"
+    "build:pages": "node scripts/build-pages.js",
+    "build:articles": "node scripts/build-articles.js",
+    "build:site": "node scripts/build.js",
+    "build": "npm run build:site && npm run build:css"
   },
   "author": "Noveris Legal",
   "license": "UNLICENSED",

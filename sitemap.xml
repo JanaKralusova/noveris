@@ -1,27 +1,243 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://noveris.sk/</loc>
-    <lastmod>2026-04-20</lastmod>
+    <lastmod>2026-10-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="sk" href="https://noveris.sk/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://noveris.sk/en/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://noveris.sk/"/>
   </url>
   <url>
-    <loc>https://noveris.sk/#about</loc>
-    <lastmod>2026-04-20</lastmod>
+    <loc>https://noveris.sk/en/</loc>
+    <lastmod>2026-10-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="sk" href="https://noveris.sk/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://noveris.sk/en/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://noveris.sk/"/>
+  </url>
+  <url>
+    <loc>https://noveris.sk/o-nas/</loc>
+    <lastmod>2026-10-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="sk" href="https://noveris.sk/o-nas/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://noveris.sk/en/about/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://noveris.sk/o-nas/"/>
   </url>
   <url>
-    <loc>https://noveris.sk/#services</loc>
-    <lastmod>2026-04-20</lastmod>
+    <loc>https://noveris.sk/en/about/</loc>
+    <lastmod>2026-10-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="sk" href="https://noveris.sk/o-nas/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://noveris.sk/en/about/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://noveris.sk/o-nas/"/>
+  </url>
+  <url>
+    <loc>https://noveris.sk/sluzby/</loc>
+    <lastmod>2026-10-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="sk" href="https://noveris.sk/sluzby/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://noveris.sk/en/services/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://noveris.sk/sluzby/"/>
   </url>
   <url>
-    <loc>https://noveris.sk/#contact</loc>
-    <lastmod>2026-04-20</lastmod>
+    <loc>https://noveris.sk/en/services/</loc>
+    <lastmod>2026-10-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="sk" href="https://noveris.sk/sluzby/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://noveris.sk/en/services/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://noveris.sk/sluzby/"/>
+  </url>
+  <url>
+    <loc>https://noveris.sk/kontakt/</loc>
+    <lastmod>2026-10-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="sk" href="https://noveris.sk/kontakt/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://noveris.sk/en/contact/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://noveris.sk/kontakt/"/>
+  </url>
+  <url>
+    <loc>https://noveris.sk/en/contact/</loc>
+    <lastmod>2026-10-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="sk" href="https://noveris.sk/kontakt/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://noveris.sk/en/contact/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://noveris.sk/kontakt/"/>
+  </url>
+  <url>
+    <loc>https://noveris.sk/ochrana-osobnych-udajov/</loc>
+    <lastmod>2026-10-15</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://noveris.sk/sluzby/vysporiadanie-pozemkov/</loc>
+    <lastmod>2026-10-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://noveris.sk/clanky/</loc>
+    <lastmod>2026-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://noveris.sk/clanky/nevysporiadany-pozemok/</loc>
+    <lastmod>2026-10-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://noveris.sk/assets/articles/nevysporiadany-pozemok.jpg</image:loc>
+      <image:title>Nevysporiadaný pozemok: Ako zistiť vlastníka a vyriešiť vlastnícke vzťahy?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://noveris.sk/clanky/zosnuly-na-liste-vlastnictva/</loc>
+    <lastmod>2026-10-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://noveris.sk/assets/articles/zosnuly-na-liste-vlastnictva.jpg</image:loc>
+      <image:title>Na liste vlastníctva je uvedená zomrelá osoba. Ako postupovať?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://noveris.sk/clanky/slovensky-pozemkovy-fond-na-liste-vlastnictva/</loc>
+    <lastmod>2026-10-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://noveris.sk/assets/articles/slovensky-pozemkovy-fond-na-liste-vlastnictva.jpg</image:loc>
+      <image:title>Slovenský pozemkový fond na liste vlastníctva: Čo to znamená a ako postupovať?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://noveris.sk/clanky/odkupenie-pozemku-od-spf/</loc>
+    <lastmod>2026-10-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://noveris.sk/assets/articles/odkupenie-pozemku-od-spf.jpg</image:loc>
+      <image:title>Ako odkúpiť pozemok od Slovenského pozemkového fondu?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://noveris.sk/clanky/odkupenie-statneho-pozemku/</loc>
+    <lastmod>2026-10-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://noveris.sk/assets/articles/odkupenie-statneho-pozemku.jpg</image:loc>
+      <image:title>Pozemok vo vlastníctve Slovenskej republiky: Ako ho možno odkúpiť?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://noveris.sk/clanky/pozemok-zaniknutej-spolocnosti/</loc>
+    <lastmod>2026-10-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://noveris.sk/assets/articles/pozemok-zaniknutej-spolocnosti.jpg</image:loc>
+      <image:title>Na liste vlastníctva je zapísaná zaniknutá spoločnosť. Ako vysporiadať pozemok?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://noveris.sk/clanky/kupa-pozemku-po-zosnulom-s-neznamymi-dedicmi/</loc>
+    <lastmod>2026-10-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://noveris.sk/assets/articles/kupa-pozemku-po-zosnulom-s-neznamymi-dedicmi.jpg</image:loc>
+      <image:title>Ako kúpiť pozemok, ktorého vlastník zomrel a dedičia nie sú známi?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://noveris.sk/clanky/parcela-c-bez-listu-vlastnictva/</loc>
+    <lastmod>2026-10-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://noveris.sk/assets/articles/parcela-c-bez-listu-vlastnictva.jpg</image:loc>
+      <image:title>Parcela registra C nemá založený list vlastníctva. Čo to znamená?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://noveris.sk/clanky/zistenie-vlastnika-ktory-nie-je-v-katastri/</loc>
+    <lastmod>2026-10-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://noveris.sk/assets/articles/zistenie-vlastnika-ktory-nie-je-v-katastri.jpg</image:loc>
+      <image:title>Ako zistiť, komu patrí pozemok, ak vlastník nie je uvedený v katastri?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://noveris.sk/clanky/zrusenie-podieloveho-spoluvlastnictva/</loc>
+    <lastmod>2026-10-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://noveris.sk/assets/articles/zrusenie-podieloveho-spoluvlastnictva.jpg</image:loc>
+      <image:title>Ako zrušiť a vyporiadať podielové spoluvlastníctvo k pozemku?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://noveris.sk/clanky/vydrzanie-pozemku/</loc>
+    <lastmod>2026-10-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://noveris.sk/assets/articles/vydrzanie-pozemku.jpg</image:loc>
+      <image:title>Vydržanie pozemku: Kedy môžete získať pozemok, ktorý dlhodobo užívate?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://noveris.sk/clanky/pozemok-pod-stavbou/</loc>
+    <lastmod>2026-10-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://noveris.sk/assets/articles/pozemok-pod-stavbou.jpg</image:loc>
+      <image:title>Ako vysporiadať pozemok pod stavbou?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://noveris.sk/clanky/pristup-k-pozemku-alebo-stavbe/</loc>
+    <lastmod>2026-10-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://noveris.sk/assets/articles/pristup-k-pozemku-alebo-stavbe.jpg</image:loc>
+      <image:title>Ako vyriešiť prístup k pozemku alebo stavbe cez cudzí alebo nevysporiadaný pozemok?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://noveris.sk/clanky/neprededene-pozemky-po-rodicoch/</loc>
+    <lastmod>2026-10-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://noveris.sk/assets/articles/neprededene-pozemky-po-rodicoch.jpg</image:loc>
+      <image:title>Ako vysporiadať pozemky po rodičoch alebo starých rodičoch, ktoré neboli prededené?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://noveris.sk/clanky/nesuhlas-spoluvlastnika-s-predajom/</loc>
+    <lastmod>2026-10-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://noveris.sk/assets/articles/nesuhlas-spoluvlastnika-s-predajom.jpg</image:loc>
+      <image:title>Čo robiť, ak spoluvlastník nesúhlasí s predajom alebo vyporiadaním pozemku?</image:title>
+    </image:image>
   </url>
 </urlset>

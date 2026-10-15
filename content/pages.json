@@ -1,0 +1,61 @@
+{
+  "home": {
+    "sk": {
+      "title": "Advokátska kancelária Bratislava | Noveris Legal",
+      "description": "Advokátska kancelária v Bratislave: vysporiadanie pozemkov, zmluvy, občianske a obchodné právo, riešenie sporov a vymáhanie pohľadávok.",
+      "keywords": "advokát Bratislava, advokátska kancelária, právne poradenstvo, obchodné právo, občianske právo, korporátne právo, Jana Králusová, Noveris Legal"
+    },
+    "en": {
+      "title": "Law Firm Bratislava | Noveris Legal",
+      "description": "Law firm in Bratislava: land ownership settlement and real estate, contracts, civil and corporate law, dispute resolution and debt recovery."
+    }
+  },
+  "about": {
+    "sk": {
+      "title": "O nás – advokátka Jana Králusová | Noveris Legal",
+      "description": "Advokátska kancelária Noveris Legal v Bratislave. Zakladateľka Mgr. Jana Králusová stavia na osobnom prístupe, súvislostiach a rozumných riešeniach."
+    },
+    "en": {
+      "title": "About – Attorney Jana Králusová | Noveris Legal",
+      "description": "Noveris Legal is a law firm in Bratislava. Founder Mgr. Jana Králusová focuses on a personal approach, context and practical, reasonable solutions."
+    }
+  },
+  "services": {
+    "sk": {
+      "title": "Právne služby Bratislava | Noveris Legal",
+      "description": "Právne služby v Bratislave: nehnuteľnosti a vysporiadanie pozemkov, zmluvná agenda, občianske a obchodné právo, spory a vymáhanie pohľadávok."
+    },
+    "en": {
+      "title": "Legal Services Bratislava | Noveris Legal",
+      "description": "Legal services in Bratislava: real estate and land ownership settlement, contracts, civil and corporate law, dispute resolution and debt recovery."
+    }
+  },
+  "contact": {
+    "sk": {
+      "title": "Kontakt – advokátska kancelária Bratislava | Noveris Legal",
+      "description": "Kontakt na advokátsku kanceláriu Noveris Legal v Bratislave. Napíšte nám o svojej veci a dohodnite si konzultáciu s advokátkou Janou Králusovou."
+    },
+    "en": {
+      "title": "Contact – Law Firm Bratislava | Noveris Legal",
+      "description": "Contact the Noveris Legal law firm in Bratislava. Tell us about your matter and arrange a consultation with attorney Jana Králusová."
+    }
+  },
+  "privacy": {
+    "sk": {
+      "title": "Ochrana osobných údajov | Noveris Legal",
+      "description": "Informácie o spracúvaní osobných údajov v advokátskej kancelárii Noveris Legal: aké údaje spracúvame, na aký účel a aké práva máte ako dotknutá osoba."
+    }
+  },
+  "404": {
+    "sk": {
+      "title": "Stránka sa nenašla — Noveris Legal",
+      "description": "Stránka sa nenašla / Page not found."
+    }
+  },
+  "articles": {
+    "sk": {
+      "title": "Články o pozemkoch, dedičstve a katastri | Noveris Legal",
+      "description": "Praktické články o vysporiadaní pozemkov, zápisoch na liste vlastníctva, dedičstve, spoluvlastníctve a odkúpení pozemkov od štátu či SPF."
+    }
+  }
+}

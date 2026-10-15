@@ -1,6 +1,6 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
-  content: ["./*.html", "./*.js"],
+  content: ["./**/*.html", "!./node_modules/**", "./translations.js", "./scripts/**/*.js"],
   darkMode: "class",
   theme: {
     extend: {
@@ -13,7 +13,7 @@ module.exports = {
         "inverse-primary": "#dac3aa","on-background": "#1c1c18","on-tertiary-fixed": "#25190f",
         "on-primary-fixed": "#261909","error": "#ba1a1a","surface-container-lowest": "#ffffff",
         "on-primary": "#ffffff","surface": "#fcf9f2","on-primary-container": "#52422f",
-        "on-tertiary-container": "#514235","outline": "#7f7663","on-secondary-fixed": "#241a00",
+        "on-tertiary-container": "#514235","outline": "#6b624f","on-secondary-fixed": "#241a00",
         "tertiary": "#6c5b4d","primary": "#6d5b47","inverse-surface": "#31312c",
         "on-tertiary": "#ffffff","surface-container": "#f0eee7","secondary": "#735c00",
         "surface-dim": "#dcdad3","on-error-container": "#93000a","on-primary-fixed-variant": "#544431",
