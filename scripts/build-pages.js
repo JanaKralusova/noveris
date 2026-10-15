@@ -74,13 +74,15 @@ function applyPlaceholders(html, t, lang, file) {
   });
 }
 
+// phone="m640,m813," adds a phone-only crop (<source media="(max-width: 767px)">).
+// variants="480,640," lists the width suffixes ascending (empty = the full-size file); default is "480,".
 // {{picture src="/assets/photos/home" alt="i18n.key" sizes="…" class="…" style="…" eager}}
 function applyPictures(html, t, lang, file) {
   return html.replace(/\{\{picture\s+([^}]*)\}\}/g, (_, attrs) => {
     const a = {};
     attrs.replace(/([a-z]+)="([^"]*)"|\b(eager)\b/g, (m, k, v, flag) => { if (flag) a.eager = true; else a[k] = v; return m; });
     if (t[a.alt] === undefined) fail(`${file}: missing ${lang} translation "${a.alt}"`);
-    return picture({ src: a.src, sizes: a.sizes, alt: t[a.alt], eager: !!a.eager, cls: a.class || '', style: a.style || '' });
+    return picture({ src: a.src, sizes: a.sizes, alt: t[a.alt], eager: !!a.eager, variants: a.variants ? a.variants.split(',') : undefined, art: a.phone ? { media: '(max-width: 767px)', variants: a.phone.split(',') } : undefined, cls: a.class || '', style: a.style || '' });
   });
 }
 

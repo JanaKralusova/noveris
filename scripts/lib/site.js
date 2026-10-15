@@ -83,6 +83,20 @@ function iconNames() {
   return [...names].sort();
 }
 
+// Fail the build when a page uses an icon that is not in the self-hosted Material Symbols subset
+// (assets/fonts/material-symbols.icons.json; regeneration steps are in fonts.css).
+let iconsChecked = false;
+function checkIcons() {
+  if (iconsChecked) return;
+  iconsChecked = true;
+  const have = new Set(readJson('assets', 'fonts', 'material-symbols.icons.json'));
+  const missing = iconNames().filter((n) => !have.has(n));
+  if (missing.length) {
+    throw new Error(`Material Symbols icon(s) not in the self-hosted subset: ${missing.join(', ')}.\n` +
+      'Regenerate assets/fonts/material-symbols-outlined-subset.woff2 and assets/fonts/material-symbols.icons.json (see the comment at the top of fonts.css).');
+  }
+}
+
 // "/o-nas/" -> "<root>/o-nas/index.html"; "/" -> "<root>/index.html"
 function urlToFile(outRoot, url) {
   return path.join(outRoot, url.replace(/^\//, ''), 'index.html');
@@ -92,4 +106,4 @@ function abs(url) {
   return /^https?:\/\//.test(url) ? url : SITE + url;
 }
 
-module.exports = { ROOT, SITE, SITE_NAME, OG_IMAGES, OG_ALT, SITEMAP_LASTMOD, loadSiteCopy, loadSiteConfig, iconNames, PAGES, ARTICLES_URL, loadTranslations, loadPagesData, urlToFile, abs };
+module.exports = { ROOT, SITE, SITE_NAME, OG_IMAGES, OG_ALT, SITEMAP_LASTMOD, loadSiteCopy, loadSiteConfig, iconNames, checkIcons, PAGES, ARTICLES_URL, loadTranslations, loadPagesData, urlToFile, abs };

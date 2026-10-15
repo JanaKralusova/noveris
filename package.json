@@ -9,7 +9,7 @@
     "build:pages": "node scripts/build-pages.js",
     "build:articles": "node scripts/build-articles.js",
     "build:site": "node scripts/build.js",
-    "build": "npm run build:site && npm run build:css"
+    "build": "npm run build:css && npm run build:site"
   },
   "author": "Noveris Legal",
   "license": "UNLICENSED",

@@ -1,0 +1,5 @@
+Manrope (variable, weight 400-700; Latin subset)
+License: SIL Open Font License 1.1 - https://openfontlicense.org (https://scripts.sil.org/OFL)
+Copyright 2019 The Manrope Project Authors (https://github.com/googlefonts/manrope)
+Source: https://fonts.google.com/specimen/Manrope
+Modification: weight axis limited and glyph set subset with fontTools; no change to the design.

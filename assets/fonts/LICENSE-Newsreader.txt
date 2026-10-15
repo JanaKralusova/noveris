@@ -1,0 +1,5 @@
+Newsreader (normal + italic, weight 400, optical size 20-72; Latin subset)
+License: SIL Open Font License 1.1 - https://openfontlicense.org (https://scripts.sil.org/OFL)
+Copyright 2020 The Newsreader Project Authors (https://github.com/productiontype/Newsreader)
+Source: https://fonts.google.com/specimen/Newsreader
+Modification: instanced (axis limits) and subset with fontTools; no change to the design.

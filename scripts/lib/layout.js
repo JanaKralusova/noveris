@@ -6,8 +6,11 @@
  * everywhere. All paths are root-absolute.
  */
 
-const { SITE, SITE_NAME, PAGES, ARTICLES_URL, abs, loadTranslations, iconNames } = require('./site');
+const fs = require('fs');
+const path = require('path');
+const { ROOT, SITE, SITE_NAME, PAGES, ARTICLES_URL, abs, loadTranslations, checkIcons } = require('./site');
 
+const PRELOAD_FONTS = ['newsreader.woff2', 'manrope.woff2', 'material-symbols-outlined-subset.woff2'];
 const ROBOTS = 'index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1';
 const LOCALES = { sk: 'sk_SK', en: 'en_US' };
 const UI = {
@@ -23,6 +26,33 @@ function esc(v) {
     .replace(/"/g, '&quot;')
     .replace(/'/g, '&#39;');
 }
+
+// All CSS is inlined into every page (zero render-blocking requests): fonts.css (@font-face + icon rules),
+// tailwind-output.css (build it first: `npm run build` does) and styles.css.
+let cssCache = null;
+function inlineCss() {
+  if (cssCache) return cssCache;
+  const read = (f) => {
+    const p = path.join(ROOT, f);
+    if (!fs.existsSync(p)) throw new Error(`${f} is missing: run \`npm run build:css\` before the site build (npm run build does).`);
+    return fs.readFileSync(p, 'utf8');
+  };
+  const min = (css) => css.replace(/\/\*[\s\S]*?\*\//g, '').replace(/\s+/g, ' ').replace(/\s*([{};:,>])\s*/g, '$1').replace(/;}/g, '}').trim();
+  cssCache = [min(read('fonts.css')), read('tailwind-output.css').trim(), min(read('styles.css'))].join('');
+  if (/<\/style/i.test(cssCache)) throw new Error('CSS contains </style');
+  return cssCache;
+}
+
+// Fonts used above the fold on every page.
+const PRELOADS = PRELOAD_FONTS.map((f) => `<link rel="preload" href="/assets/fonts/${f}" as="font" type="font/woff2" crossorigin/>`);
+
+// Chromium prerenders same-origin links on hover (moderate eagerness); other browsers ignore the block.
+const SPECULATION_RULES = {
+  prerender: [{
+    where: { and: [{ href_matches: '/*' }, { not: { href_matches: '/*.pdf' } }, { not: { selector_matches: '[rel~=nofollow]' } }] },
+    eagerness: 'moderate',
+  }],
+};
 
 function jsonLd(obj) {
   return JSON.stringify(obj, null, 2).replace(/</g, '\\u003c');
@@ -44,6 +74,7 @@ function navItems(lang) {
 // head: { title, description, canonical?, keywords?, robots?, og: {...}, alternates?: [{hreflang, href}],
 //         mdAlt?: url, jsonlds?: [], rawHead?: string }
 function renderHead(lang, h) {
+  checkIcons();
   const og = h.og;
   const lines = [];
   lines.push(
@@ -95,12 +126,10 @@ function renderHead(lang, h) {
     '<link rel="icon" type="image/svg+xml" href="/assets/favicon.svg"/>',
     '<link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32.png"/>',
     '<link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png"/>',
-    '<link rel="preconnect" href="https://fonts.googleapis.com">',
-    '<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>',
-    '<link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,200..800;1,6..72,200..800&family=Manrope:wght@200..800&display=swap" rel="stylesheet"/>',
-    `<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&icon_names=${iconNames().join(',')}&display=swap" rel="stylesheet"/>`,
-    '<link href="/tailwind-output.css" rel="stylesheet"/>',
-    '<link href="/styles.css" rel="stylesheet"/>');
+    ...PRELOADS,
+    ...(h.lcpImage ? [`<link rel="preload" as="image" type="image/avif" imagesrcset="${h.lcpImage.srcset}" imagesizes="${h.lcpImage.sizes}" fetchpriority="high"/>`] : []),
+    `<style>${inlineCss()}</style>`,
+    `<script type="speculationrules">${JSON.stringify(SPECULATION_RULES)}</script>`);
 
   if (h.jsonlds && h.jsonlds.length) {
     lines.push('', '<!-- Structured Data (JSON-LD) -->');
@@ -148,7 +177,7 @@ ${link('sk', 'SK', ui.toSk)}
 <header class="bg-[#fcf9f2]/80 dark:bg-[#1c1c18]/80 backdrop-blur-md sticky top-0 w-full z-50 border-b border-outline-variant/20 px-8">
 <nav class="flex justify-between items-center w-full py-6 max-w-7xl mx-auto" aria-label="${ui.navLabel}">
 <div class="flex items-center shrink-0">
-<a href="${PAGES.home[lang]}"><img alt="Noveris Legal Logo" width="95" height="32" class="h-8 w-auto object-contain invert dark:invert-0" src="/assets/logo.svg"/></a>
+<a href="${PAGES.home[lang]}"><img alt="Noveris Legal Logo" width="821" height="277" class="h-8 w-auto object-contain invert dark:invert-0" src="/assets/logo.svg"/></a>
 </div>
 <div class="hidden md:flex items-center justify-center space-x-12 flex-1" id="nav-links">
 ${desktop}
@@ -191,7 +220,7 @@ function renderFooter(lang) {
   return `<!-- ===== FOOTER ===== -->
 <footer class="bg-[#dcdad3] dark:bg-[#2a2621] w-full px-8 py-12 flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
 <div class="text-xl font-serif text-[#6d5b47] dark:text-[#fcf9f2]">
-<a href="${PAGES.home[lang]}"><img alt="Noveris Legal Logo" width="71" height="24" class="h-6 w-auto object-contain opacity-80 hover:opacity-100 transition-opacity invert dark:invert-0" src="/assets/logo.svg"/></a>
+<a href="${PAGES.home[lang]}"><img alt="Noveris Legal Logo" width="821" height="277" class="h-6 w-auto object-contain opacity-80 hover:opacity-100 transition-opacity invert dark:invert-0" src="/assets/logo.svg"/></a>
 </div>
 <div class="text-[#6d5b47] dark:text-[#fcf9f2] font-body text-xs" id="footer-copy">
     ${copy}
@@ -230,6 +259,9 @@ function renderFooter(lang) {
 
 // opts: { generated, lang, active, switchTo, head, main, bodyScripts? }
 function renderDocument({ generated, lang, active, switchTo, head, main, bodyScripts }) {
+  // The eager (LCP) <picture> is preloaded with the very same AVIF srcset/sizes, so the browser fetches the candidate it will use.
+  const m = /<picture>\s*<source type="image\/avif" srcset="([^"]*)" sizes="([^"]*)"\/>\s*<img [^>]*fetchpriority="high"/.exec(main);
+  if (m) head = { ...head, lcpImage: { srcset: m[1], sizes: m[2] } };
   return `<!DOCTYPE html>
 ${generated}
 <html class="light" lang="${lang}">

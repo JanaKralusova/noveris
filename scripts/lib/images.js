@@ -2,7 +2,7 @@
 
 /*
  * Responsive <picture> markup for the site photos and article images:
- * AVIF source + JPEG fallback, each in a small and a full-size variant.
+ * AVIF source + JPEG fallback, each in several widths (srcset).
  * Dimensions are read from the real files so width/height always match.
  */
 
@@ -38,18 +38,41 @@ function esc(v) {
 }
 
 /*
- * opts: src ("/assets/photos/home", no extension), small (suffix of the small variant, "480"),
- *       sizes, alt, eager, cls, style, root (where the files live; defaults to the repo root).
+ * opts: src ("/assets/photos/home", no extension), sizes, alt, eager, cls, style,
+ *       root (where the files live; defaults to the repo root), and the variants:
+ *         small    suffix of the small variant ("480"); with the full file this gives two widths, or
+ *         variants array of suffixes in ascending order, "" meaning the full-size file
+ *                  (e.g. ["400", "800", "1200", ""] -> -400, -800, -1200 and the 1600w original);
+ *       art       { media, variants } extra <source media> candidates (variants as above);
+ *       fallback  suffix used for the default <img src> (the eager image falls back to the largest variant
+ *                  unless `fallback` is given).
  */
-function picture({ src, small = '480', sizes, alt, eager = false, cls = '', style = '', root = ROOT }) {
-  const full = jpegSize(path.join(root, `${src}.jpg`)) || jpegSize(path.join(ROOT, `${src}.jpg`));
-  const sm = jpegSize(path.join(root, `${src}-${small}.jpg`)) || jpegSize(path.join(ROOT, `${src}-${small}.jpg`));
+function picture({ src, small = '480', variants, art, fallback, sizes, alt, eager = false, cls = '', style = '', root = ROOT }) {
+  const sufs = variants || [small, ''];
+  const dims = (suffix) => {
+    const f = `${src}${suffix ? '-' + suffix : ''}.jpg`;
+    return jpegSize(path.join(root, f)) || jpegSize(path.join(ROOT, f));
+  };
+  const full = dims('');
   if (!full) throw new Error(`image not found: ${src}.jpg`);
   const base = esc(src);
-  const smW = sm ? sm.width : Number(small);
+  const entries = sufs.map((suffix) => {
+    const d = suffix === '' ? full : dims(suffix);
+    return { suffix, w: d ? d.width : Number(suffix) };
+  });
+  const list = (ext, es = entries) => es.map((e) => `${base}${e.suffix ? '-' + e.suffix : ''}.${ext} ${e.w}w`).join(', ');
+  // Art direction: `art` = { media, variants } adds <source media> candidates (e.g. a taller crop for phones).
+  const artEntries = art && art.variants.map((suffix) => {
+    const d = suffix === '' ? full : dims(suffix);
+    return { suffix, w: d ? d.width : Number(suffix) };
+  });
+  const artSources = art
+    ? `<source media="${esc(art.media)}" type="image/avif" srcset="${list('avif', artEntries)}" sizes="${esc(sizes)}"/>\n<source media="${esc(art.media)}" srcset="${list('jpg', artEntries)}" sizes="${esc(sizes)}"/>\n`
+    : '';
+  const defSuffix = fallback !== undefined ? fallback : (eager ? '' : sufs[0]);
   const attrs = [
-    `src="${base}${eager ? '' : '-' + small}.jpg"`,
-    `srcset="${base}-${small}.jpg ${smW}w, ${base}.jpg ${full.width}w"`,
+    `src="${base}${defSuffix ? '-' + defSuffix : ''}.jpg"`,
+    `srcset="${list('jpg')}"`,
     `sizes="${esc(sizes)}"`,
     `alt="${esc(alt)}"`,
     `width="${full.width}"`,
@@ -59,7 +82,7 @@ function picture({ src, small = '480', sizes, alt, eager = false, cls = '', styl
   if (cls) attrs.push(`class="${esc(cls)}"`);
   if (style) attrs.push(`style="${esc(style)}"`);
   return `<picture>
-<source type="image/avif" srcset="${base}-${small}.avif ${smW}w, ${base}.avif ${full.width}w" sizes="${esc(sizes)}"/>
+${artSources}<source type="image/avif" srcset="${list('avif')}" sizes="${esc(sizes)}"/>
 <img ${attrs.join(' ')}/>
 </picture>`;
 }

@@ -1,0 +1,115 @@
+/*
+ * Self-hosted fonts (no third-party requests). Inlined into every page's <head> by the build.
+ *
+ * Newsreader (normal + italic, weight 400, optical-size axis 20..72) and Manrope (weight 400..700) are
+ * instances of the Google Fonts variable fonts (OFL), cut with fontTools to the weights/styles the site
+ * actually uses and to Basic Latin + Latin-1 + Latin Extended-A (Slovak, Czech, Hungarian, Polish names)
+ * + common punctuation. Licenses: assets/fonts/LICENSE-*.txt. To change weights, regenerate from the
+ * variable TTFs in github.com/google/fonts (ofl/newsreader, ofl/manrope): fontTools.varLib.instancer for
+ * the axis limits, fontTools.subset for the glyph set, woff2 output.
+ *
+ * "Newsreader Fallback" / "Manrope Fallback" are local system fonts scaled (size-adjust and the metric
+ * overrides) to the web fonts' measured width and vertical metrics, so the swap causes no layout shift.
+ *
+ * Material Symbols is a SUBSET containing only the icons listed in assets/fonts/material-symbols.icons.json.
+ * To add an icon, regenerate: request the Google Fonts css2 endpoint (host: fonts + .googleapis.com) with
+ *   /css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&icon_names=<sorted,comma,separated,names>&display=block
+ * using a modern Chrome User-Agent, download the woff2 from its src url to
+ * assets/fonts/material-symbols-outlined-subset.woff2 and update the JSON list. The build fails if a page
+ * uses an icon that is not in the list.
+ */
+@font-face {
+  font-family: 'Newsreader';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(/assets/fonts/newsreader.woff2) format('woff2');
+}
+@font-face {
+  font-family: 'Newsreader';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url(/assets/fonts/newsreader-italic.woff2) format('woff2');
+}
+@font-face {
+  font-family: 'Manrope';
+  font-style: normal;
+  font-weight: 400 700;
+  font-display: swap;
+  src: url(/assets/fonts/manrope.woff2) format('woff2');
+}
+
+/* Metric-matched fallbacks */
+@font-face {
+  font-family: 'Newsreader Fallback';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('Times New Roman'), local('Liberation Serif'), local('TimesNewRomanPSMT');
+  size-adjust: 102.3%;
+  ascent-override: 71.9%;
+  descent-override: 25.9%;
+  line-gap-override: 0%;
+}
+@font-face {
+  font-family: 'Newsreader Fallback';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: local('Times New Roman Italic'), local('Liberation Serif Italic'), local('TimesNewRomanPS-ItalicMT');
+  size-adjust: 93%;
+  ascent-override: 79.0%;
+  descent-override: 28.5%;
+  line-gap-override: 0%;
+}
+@font-face {
+  font-family: 'Manrope Fallback';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('Arial'), local('Liberation Sans'), local('ArialMT');
+  size-adjust: 101.4%;
+  ascent-override: 105.1%;
+  descent-override: 29.6%;
+  line-gap-override: 0%;
+}
+@font-face {
+  font-family: 'Manrope Fallback';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: local('Arial Bold'), local('Liberation Sans Bold'), local('Arial-BoldMT');
+  size-adjust: 99.8%;
+  ascent-override: 106.8%;
+  descent-override: 30%;
+  line-gap-override: 0%;
+}
+
+/* Material Symbols Outlined (subset) */
+@font-face {
+  font-family: 'Material Symbols Outlined';
+  font-style: normal;
+  font-weight: 100 700;
+  font-display: block;
+  src: url(/assets/fonts/material-symbols-outlined-subset.woff2) format('woff2');
+}
+
+.material-symbols-outlined {
+  font-family: 'Material Symbols Outlined';
+  font-weight: normal;
+  font-style: normal;
+  font-size: 24px;
+  line-height: 1;
+  letter-spacing: normal;
+  text-transform: none;
+  display: inline-block;
+  /* an icon is exactly 1em wide: reserve that before the font loads, so the ligature name never pushes the layout */
+  width: 1em;
+  overflow: clip;
+  white-space: nowrap;
+  word-wrap: normal;
+  direction: ltr;
+  -webkit-font-feature-settings: 'liga';
+  -webkit-font-smoothing: antialiased;
+}

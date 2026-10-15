@@ -22,7 +22,7 @@ module.exports = {
         "on-error": "#ffffff","secondary-fixed-dim": "#e9c349","on-surface-variant": "#4d4635",
         "on-secondary-container": "#745c00","surface-bright": "#fcf9f2"
       },
-      fontFamily: { "headline": ["Newsreader"], "body": ["Manrope"], "label": ["Manrope"] },
+      fontFamily: { "headline": ["Newsreader", "Newsreader Fallback", "serif"], "body": ["Manrope", "Manrope Fallback", "sans-serif"], "label": ["Manrope", "Manrope Fallback", "sans-serif"] },
       borderRadius: {"DEFAULT": "0.125rem", "lg": "0.25rem", "xl": "0.5rem", "full": "0.75rem"},
     },
   },

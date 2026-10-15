@@ -39,14 +39,14 @@
    Article body typography (clanky/)
    =================================== */
 .article-body {
-    font-family: 'Manrope', sans-serif;
+    font-family: 'Manrope', 'Manrope Fallback', sans-serif;
     font-size: 1.125rem;
     line-height: 1.75;
     color: #4d4635;
 }
 .article-body > * + * { margin-top: 1.25rem; }
 .article-body h2 {
-    font-family: 'Newsreader', serif;
+    font-family: 'Newsreader', 'Newsreader Fallback', serif;
     font-size: 2rem;
     line-height: 1.25;
     color: #1c1c18;
@@ -54,7 +54,7 @@
     margin-bottom: 0.25rem;
 }
 .article-body h3 {
-    font-family: 'Newsreader', serif;
+    font-family: 'Newsreader', 'Newsreader Fallback', serif;
     font-size: 1.5rem;
     line-height: 1.3;
     color: #1c1c18;
