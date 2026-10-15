@@ -15,7 +15,7 @@
  *   content/articles/*.md       articles (JSON front matter + markdown)
  *   content/pages/*.md          service landing pages, published at /sluzby/<file name>/
  *
- * content/site.config.json — values supplied by the client. Every field may stay empty;
+ * content/site.config.json – values supplied by the client. Every field may stay empty;
  * an empty value omits the related markup/field everywhere (nothing is emitted for it).
  *   sakNumber               registration number in the Slovak Bar Association; when set it adds
  *                           Person.identifier + Person.memberOf (JSON-LD) and a line in the

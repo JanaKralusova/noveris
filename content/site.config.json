@@ -1,9 +1,12 @@
 {
-  "sakNumber": "",
+  "sakNumber": "8728",
   "openingHours": [],
   "sameAs": {
     "organization": [],
-    "person": []
+    "person": [
+      "https://www.sak.sk/en/lawyers/?sak_type=lawyers&sak_id=8728",
+      "https://www.linkedin.com/in/jana-kralusova/"
+    ]
   },
   "googleSiteVerification": "",
   "bingSiteVerification": ""

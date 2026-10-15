@@ -16,8 +16,8 @@ const OG_IMAGES = {
   en: { path: '/assets/og/og-default-en.jpg', width: 1200, height: 630 },
 };
 const OG_ALT = {
-  sk: 'Noveris Legal — advokátska kancelária v Bratislave',
-  en: 'Noveris Legal — law firm in Bratislava',
+  sk: 'Noveris Legal – advokátska kancelária v Bratislave',
+  en: 'Noveris Legal – law firm in Bratislava',
 };
 const SERVICE_BASE = '/sluzby/';
 const SITEMAP_LASTMOD = '2026-10-15';

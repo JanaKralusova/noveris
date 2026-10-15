@@ -1,5 +1,5 @@
 // ===================================
-// Noveris Legal — Translations
+// Noveris Legal – Translations
 // ===================================
 
 const translations = {
@@ -12,11 +12,11 @@ const translations = {
         "nav.contact": "Kontakt",
 
         // Page titles
-        "title.home": "Noveris Legal — Advokátska kancelária",
-        "title.about": "O nás — Noveris Legal",
-        "title.services": "Služby — Noveris Legal",
-        "title.contact": "Kontakt — Noveris Legal",
-        "title.privacy": "Ochrana osobných údajov — Noveris Legal",
+        "title.home": "Noveris Legal – Advokátska kancelária",
+        "title.about": "O nás – Noveris Legal",
+        "title.services": "Služby – Noveris Legal",
+        "title.contact": "Kontakt – Noveris Legal",
+        "title.privacy": "Ochrana osobných údajov – Noveris Legal",
         "privacy.back": "Späť na Kontakt",
 
         // ===== HOME =====
@@ -78,7 +78,7 @@ const translations = {
         "about.journey.p3": "V Noveris Legal sa vraciam k tomu najdôležitejšiemu - k osobnému vzťahu. Môj prístup je založený na absolútnom záväzku voči klientovi. Nehľadám len technicky správne odpovede, ale riešenia, ktoré skutočne rešpektujú integritu a životné či biznisové ciele tých, ktorých zastupujem.",
         "about.journey.cta": "dohodnúť konzultáciu",
 
-        // About values — reuse home.values keys
+        // About values – reuse home.values keys
 
         // ===== SERVICES =====
         "services.hero.label": "Právna expertíza",
@@ -109,6 +109,7 @@ const translations = {
         "contact.details.address.label": "Sídlo",
         "contact.details.address": "Turčianska 42, 821 09 Bratislava, Slovensko",
         "contact.details.id.label": "Identifikačné číslo",
+        "contact.details.sak.label": "Číslo zápisu v Slovenskej advokátskej komore",
         "contact.founder.role": "ADVOKÁTKA A ZAKLADATEĽKA",
         "contact.founder.subtitle": "Právne služby a poradenstvo",
 
@@ -129,13 +130,13 @@ const translations = {
         "contact.form.message.error": "Prosím, vyplňte text správy",
 
         // Image alt texts
-        "img.home.hero": "Advokátska kancelária Noveris Legal — elegantný pracovný stôl s právnickou knihou",
-        "img.home.profile": "Mgr. Jana Králusová — osobný prístup ku klientom",
-        "img.about.portrait": "Mgr. Jana Králusová — profesionálny portrét advokátky",
-        "img.about.meeting": "Rokovacia miestnosť Noveris Legal — profesionálne prostredie pre klientov",
-        "img.services.phone": "Advokátka v modernej kancelárii — telefonická konzultácia s klientom",
-        "img.contact.portrait": "Mgr. Jana Králusová — kontaktný portrét",
-        "img.contact.city": "Letecký pohľad na Bratislavu — Noveris Legal sídli v centre mesta",
+        "img.home.hero": "Advokátska kancelária Noveris Legal – elegantný pracovný stôl s právnickou knihou",
+        "img.home.profile": "Mgr. Jana Králusová – osobný prístup ku klientom",
+        "img.about.portrait": "Mgr. Jana Králusová – profesionálny portrét advokátky",
+        "img.about.meeting": "Rokovacia miestnosť Noveris Legal – profesionálne prostredie pre klientov",
+        "img.services.phone": "Advokátka v modernej kancelárii – telefonická konzultácia s klientom",
+        "img.contact.portrait": "Mgr. Jana Králusová – kontaktný portrét",
+        "img.contact.city": "Letecký pohľad na Bratislavu – Noveris Legal sídli v centre mesta",
 
         // Footer
         "footer.copy": "© {year} Noveris Legal s. r. o. Všetky práva vyhradené.",
@@ -150,11 +151,11 @@ const translations = {
         "nav.contact": "Contact",
 
         // Page titles
-        "title.home": "Noveris Legal — Law Firm",
-        "title.about": "About — Noveris Legal",
-        "title.services": "Services — Noveris Legal",
-        "title.contact": "Contact — Noveris Legal",
-        "title.privacy": "Privacy Policy — Noveris Legal",
+        "title.home": "Noveris Legal – Law Firm",
+        "title.about": "About – Noveris Legal",
+        "title.services": "Services – Noveris Legal",
+        "title.contact": "Contact – Noveris Legal",
+        "title.privacy": "Privacy Policy – Noveris Legal",
         "privacy.back": "Back to Contact",
 
         // ===== HOME =====
@@ -213,7 +214,7 @@ const translations = {
         "about.journey.h2": "Experience and individual approach",
         "about.journey.p1": "My professional journey began with a desire to understand law in a broader social context. During my studies, an internship at a law firm in Austria opened the door to precision and the high standards of European legal practice. It was there I understood that law must be, above all, functional and predictable.",
         "about.journey.p2": "I later developed my experience at leading law firms in Slovakia, where I worked on complex and diverse cases. This variety taught me that solutions are not just about strict paragraphs, but primarily about strategy built on understanding client needs.",
-        "about.journey.p3": "At Noveris Legal, I return to what matters most — the personal relationship. My approach is based on an absolute commitment to the client. I don't just look for technically correct answers, but solutions that truly respect the integrity and life or business goals of those I represent.",
+        "about.journey.p3": "At Noveris Legal, I return to what matters most – the personal relationship. My approach is based on an absolute commitment to the client. I don't just look for technically correct answers, but solutions that truly respect the integrity and life or business goals of those I represent.",
         "about.journey.cta": "book a consultation",
 
         // ===== SERVICES =====
@@ -245,6 +246,7 @@ const translations = {
         "contact.details.address.label": "Address",
         "contact.details.address": "Turčianska 42, 821 09 Bratislava, Slovakia",
         "contact.details.id.label": "Company ID",
+        "contact.details.sak.label": "Slovak Bar Association registration no.",
         "contact.founder.role": "ATTORNEY & FOUNDER",
         "contact.founder.subtitle": "Legal services & consulting",
 
@@ -265,13 +267,13 @@ const translations = {
         "contact.form.message.error": "Please enter your message",
 
         // Image alt texts
-        "img.home.hero": "Noveris Legal law firm — an elegant desk with a law book",
-        "img.home.profile": "Mgr. Jana Králusová — a personal approach to every client",
-        "img.about.portrait": "Mgr. Jana Králusová — professional portrait of the attorney",
-        "img.about.meeting": "Noveris Legal meeting room — a professional setting for clients",
-        "img.services.phone": "Attorney in a modern office — phone consultation with a client",
-        "img.contact.portrait": "Mgr. Jana Králusová — contact portrait",
-        "img.contact.city": "Aerial view of Bratislava — Noveris Legal is based in the city",
+        "img.home.hero": "Noveris Legal law firm – an elegant desk with a law book",
+        "img.home.profile": "Mgr. Jana Králusová – a personal approach to every client",
+        "img.about.portrait": "Mgr. Jana Králusová – professional portrait of the attorney",
+        "img.about.meeting": "Noveris Legal meeting room – a professional setting for clients",
+        "img.services.phone": "Attorney in a modern office – phone consultation with a client",
+        "img.contact.portrait": "Mgr. Jana Králusová – contact portrait",
+        "img.contact.city": "Aerial view of Bratislava – Noveris Legal is based in the city",
 
         // Footer
         "footer.copy": "© {year} Noveris Legal s. r. o. All rights reserved.",

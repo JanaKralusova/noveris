@@ -161,7 +161,7 @@ ${langSwitch}<button id="mobile-menu-btn" onclick="toggleMobileMenu()" class="md
 </nav>
 </header>
 
-<!-- Mobile menu drawer — kept outside <header>: the header's backdrop-filter
+<!-- Mobile menu drawer – kept outside <header>: the header's backdrop-filter
      makes it the containing block for fixed children in Safari, which would
      collapse this drawer to the header's height. -->
 <div id="mobile-menu" class="md:hidden fixed inset-0 z-[60] pointer-events-none opacity-0 transition-opacity duration-300">

@@ -27,12 +27,18 @@
 <span class="material-symbols-outlined text-secondary mr-3" aria-hidden="true">mail</span>
 <span class="font-body group-hover:text-secondary transition-colors">kralusova@noveris.sk</span>
 </a>
+{{#linkedin}}<a class="flex items-center group" href="{{linkedinUrl}}" rel="me noopener">
+<svg class="w-6 h-6 p-[3px] text-secondary mr-3 shrink-0" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M20.45 20.45h-3.56v-5.57c0-1.33-.02-3.04-1.85-3.04-1.85 0-2.14 1.45-2.14 2.94v5.67H9.35V9h3.41v1.56h.05c.48-.9 1.64-1.85 3.37-1.85 3.6 0 4.27 2.37 4.27 5.46v6.28zM5.34 7.43a2.06 2.06 0 1 1 0-4.13 2.06 2.06 0 0 1 0 4.13zM7.12 20.45H3.56V9h3.56v11.45zM22.22 0H1.77C.79 0 0 .77 0 1.73v20.54C0 23.23.79 24 1.77 24h20.45c.98 0 1.78-.77 1.78-1.73V1.73C24 .77 23.2 0 22.22 0z"/></svg>
+<span class="font-body group-hover:text-secondary transition-colors">LinkedIn</span>
+</a>{{/linkedin}}
 </div>
 <div class="pt-6 border-t border-outline-variant/30 text-on-surface-variant">
 <p class="font-label text-[10px] uppercase text-primary mb-2 tracking-widest" data-i18n="contact.details.address.label">Sídlo</p>
 <p class="font-body text-sm leading-snug" data-i18n="contact.details.address">Turčianska 42, 821 09 Bratislava, Slovensko</p>
 <p class="mt-4 font-label text-[10px] uppercase text-primary tracking-widest" data-i18n="contact.details.id.label">Identifikačné číslo</p>
 <p class="font-body text-sm">57 493 685</p>
+{{#sak}}<p class="mt-4 font-label text-[10px] uppercase text-primary tracking-widest" data-i18n="contact.details.sak.label">Číslo zápisu v Slovenskej advokátskej komore</p>
+<p class="font-body text-sm">{{sakNumber}}</p>{{/sak}}
 </div>
 </div>
 </address>
@@ -53,7 +59,7 @@
 <p class="font-body text-on-surface-variant mb-12" data-i18n="contact.form.desc">Máte otázku alebo hľadáte právne zastupovanie? Zanechajte nám správu a my sa vám ozveme.</p>
 <form id="contact-form" class="space-y-10" action="https://api.web3forms.com/submit" method="POST" novalidate>
 <input type="hidden" name="access_key" value="bfe1ae07-8f6f-4183-afb5-1ef348205f74">
-<input type="hidden" name="subject" value="Noveris Legal — Nová správa z webu">
+<input type="hidden" name="subject" value="Noveris Legal – Nová správa z webu">
 <input type="hidden" name="from_name" value="Noveris Legal Website">
 <input type="checkbox" name="botcheck" class="hidden" style="display:none">
 <div class="grid grid-cols-1 md:grid-cols-2 gap-10">
