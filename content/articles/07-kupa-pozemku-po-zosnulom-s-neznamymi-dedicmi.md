@@ -2,7 +2,6 @@
 {
   "order": 7,
   "slug": "kupa-pozemku-po-zosnulom-s-neznamymi-dedicmi",
-  "service": "vysporiadanie-pozemkov",
   "title": "Ako kúpiť pozemok, ktorého vlastník zomrel a dedičia nie sú známi?",
   "excerpt": "Našli ste pozemok, ktorý chcete kúpiť, no jeho vlastník už nežije. Susedia si ho pamätajú, ale nikto nevie, kto po ňom dedil alebo kde jeho rodina žije. S kým teda riešiť kúpu?",
   "seoTitle": "Kúpa pozemku po zosnulom: neznámi dedičia | Noveris Legal",

@@ -84,13 +84,6 @@ function applyPictures(html, t, lang, file) {
   });
 }
 
-// Links to the Slovak-only service page; on English pages the link is marked as Slovak.
-function applyServiceLink(html, lang, copy) {
-  return html
-    .replace(/\{\{serviceLinkAttrs\}\}/g, lang === 'sk' ? '' : ' hreflang="sk" lang="sk"')
-    .replace(/\{\{serviceLink\}\}/g, layout.esc(copy.serviceLink[lang]));
-}
-
 // {{#sak}}…{{/sak}} renders only when a SAK number is configured; the number links to the
 // SAK register profile when one is listed in sameAs.person.
 function applySak(html, config) {
@@ -124,7 +117,6 @@ function applyLatest(html, lang, copy, articles) {
 function applyUrls(html, lang, file) {
   return html.replace(/\{\{url:([a-z]+)\}\}/g, (_, id) => {
     if (id === 'articles') return '/clanky/';
-    if (id === 'land') return site.serviceUrl('vysporiadanie-pozemkov');
     const p = PAGES[id];
     if (!p) fail(`${file}: unknown page id in {{url:${id}}}`);
     return p[lang] || p.sk;
@@ -167,7 +159,6 @@ function render(id, lang, ctx) {
   let main = applyI18n(tpl, t, lang, file);
   main = applyPlaceholders(main, t, lang, file);
   main = applyPictures(main, t, lang, file);
-  main = applyServiceLink(main, lang, ctx.copy);
   main = applySak(main, ctx.config);
   main = applyLinkedIn(main, ctx.config);
   main = applyLatest(main, lang, ctx.copy, ctx.articles);

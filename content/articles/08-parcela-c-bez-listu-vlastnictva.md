@@ -2,7 +2,6 @@
 {
   "order": 8,
   "slug": "parcela-c-bez-listu-vlastnictva",
-  "service": "vysporiadanie-pozemkov",
   "title": "Parcela registra C nemá založený list vlastníctva. Čo to znamená?",
   "excerpt": "V katastrálnej mape ste našli pozemok, ale pri jeho údajoch sa zobrazuje informácia, že nemá založený list vlastníctva. Ako teda zistiť, komu patrí a s kým riešiť jeho kúpu alebo vysporiadanie?",
   "seoTitle": "Parcela C bez listu vlastníctva: čo znamená | Noveris Legal",

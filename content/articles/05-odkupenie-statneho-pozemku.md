@@ -2,7 +2,6 @@
 {
   "order": 5,
   "slug": "odkupenie-statneho-pozemku",
-  "service": "vysporiadanie-pozemkov",
   "title": "Pozemok vo vlastníctve Slovenskej republiky: Ako ho možno odkúpiť?",
   "excerpt": "Časť dvora, pozemok pod garážou alebo parcela vedľa vášho domu patrí podľa listu vlastníctva Slovenskej republike. Máte záujem ju odkúpiť, no neviete, s kým rokovať a kde začať.",
   "seoTitle": "Odkúpenie štátneho pozemku: postup a správca | Noveris Legal",

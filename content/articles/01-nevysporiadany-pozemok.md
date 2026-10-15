@@ -2,7 +2,6 @@
 {
   "order": 1,
   "slug": "nevysporiadany-pozemok",
-  "service": "vysporiadanie-pozemkov",
   "title": "Nevysporiadaný pozemok: Ako zistiť vlastníka a vyriešiť vlastnícke vzťahy?",
   "excerpt": "Zosnulý vlastník, neúplné údaje o zapísanej osobe alebo Slovenský pozemkový fond na liste vlastníctva. Za označením „nevysporiadaný pozemok“ sa môžu skrývať rôzne situácie, ktoré si vyžadujú odlišný postup.",
   "seoTitle": "Nevysporiadaný pozemok: ako zistiť vlastníka | Noveris Legal",

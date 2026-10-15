@@ -2,7 +2,6 @@
 {
   "order": 11,
   "slug": "vydrzanie-pozemku",
-  "service": "vysporiadanie-pozemkov",
   "title": "Vydržanie pozemku: Kedy môžete získať pozemok, ktorý dlhodobo užívate?",
   "excerpt": "Záhradu pri dome užívate desaťročia. Starali sa o ňu už vaši rodičia a vždy ste ju považovali za svoju. Pri preverovaní katastra však zistíte, že pozemok alebo jeho časť je zapísaná na niekoho iného.",
   "seoTitle": "Vydržanie pozemku: kedy ho možno získať | Noveris Legal",

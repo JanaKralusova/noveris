@@ -2,7 +2,6 @@
 {
   "order": 14,
   "slug": "neprededene-pozemky-po-rodicoch",
-  "service": "vysporiadanie-pozemkov",
   "title": "Ako vysporiadať pozemky po rodičoch alebo starých rodičoch, ktoré neboli prededené?",
   "excerpt": "Dedičstvo po rodičoch či starých rodičoch môže byť dávno skončené, no niektoré pozemky v ňom chýbajú. Rodina o nich nevedela, nepoznala ich presné označenie alebo sa na ne pri prejednávaní majetku zabudlo. Po rokoch sa ukáže, že na liste vlastníctva je stále zapísaný predok, ktorý už nežije.",
   "seoTitle": "Neprededené pozemky po rodičoch: postup | Noveris Legal",

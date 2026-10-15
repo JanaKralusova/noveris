@@ -2,7 +2,6 @@
 {
   "order": 15,
   "slug": "nesuhlas-spoluvlastnika-s-predajom",
-  "service": "vysporiadanie-pozemkov",
   "title": "Čo robiť, ak spoluvlastník nesúhlasí s predajom alebo vyporiadaním pozemku?",
   "excerpt": "Jeden spoluvlastník chce pozemok predať, druhý si ho chce ponechať. Alebo sa vlastníci zhodnú, že spoločné vlastníctvo treba ukončiť, no nevedia sa dohodnúť na cene či rozdelení pozemku. Rokovania sa opakujú, ale riešenie neprichádza.",
   "seoTitle": "Nesúhlas spoluvlastníka s predajom pozemku | Noveris Legal",

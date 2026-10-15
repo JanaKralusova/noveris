@@ -22,16 +22,6 @@
       "cta": "All articles (in Slovak)"
     }
   },
-  "serviceLink": {
-    "sk": "Vysporiadanie pozemkov",
-    "en": "Land ownership settlement (page in Slovak)"
-  },
-  "serviceUi": {
-    "articleLink": "Vysporiadanie pozemkov – ako vám pomôžeme",
-    "articlesHeading": "Články k vysporiadaniu pozemkov",
-    "articlesLabel": "Čítajte viac",
-    "breadcrumbServices": "Služby"
-  },
   "authorUi": {
     "boxLabel": "O autorke",
     "moreLink": "Viac o autorke"

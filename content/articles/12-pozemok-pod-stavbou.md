@@ -2,7 +2,6 @@
 {
   "order": 12,
   "slug": "pozemok-pod-stavbou",
-  "service": "vysporiadanie-pozemkov",
   "title": "Ako vysporiadať pozemok pod stavbou?",
   "excerpt": "Dom alebo garáž patrí vám, ale pozemok pod stavbou má iného vlastníka. Možno sa tento stav roky neriešil a otázky vznikli až pri predaji, rekonštrukcii alebo pri zmene vlastníka pozemku.",
   "seoTitle": "Pozemok pod stavbou: ako ho vysporiadať | Noveris Legal",

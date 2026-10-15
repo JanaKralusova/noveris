@@ -11,9 +11,8 @@
  * Content sources
  *   content/pages.json          title/description (+ keywords) of every page, per language
  *   content/site-copy.json      shared copy: articles listing, disclaimer, author bio, home
- *                               "latest articles" section, service link text
+ *                               "latest articles" section
  *   content/articles/*.md       articles (JSON front matter + markdown)
- *   content/pages/*.md          service landing pages, published at /sluzby/<file name>/
  *
  * content/site.config.json – values supplied by the client. Every field may stay empty;
  * an empty value omits the related markup/field everywhere (nothing is emitted for it).
@@ -35,7 +34,6 @@ const { ROOT, SITE, PAGES, ARTICLES_URL, SITEMAP_LASTMOD, abs } = require('./lib
 const { esc } = require('./lib/layout');
 const buildPages = require('./build-pages');
 const buildArticles = require('./build-articles');
-const services = buildArticles.loadServices(path.join(ROOT, 'content', 'pages'));
 
 // ---------------------------------------------------------------- sitemap
 
@@ -59,9 +57,6 @@ function buildSitemap(outRoot, articles) {
       if (!p[lang]) continue;
       entries.push(urlEntry({ loc: abs(p[lang]), lastmod: SITEMAP_LASTMOD, changefreq: p.changefreq, priority: p.priority, alternates: pair }));
     }
-  }
-  for (const svc of services) {
-    entries.push(urlEntry({ loc: abs(svc.url), lastmod: svc.date, changefreq: 'monthly', priority: '0.8' }));
   }
   const latest = articles.map((a) => a.date).sort().pop();
   entries.push(urlEntry({ loc: abs(ARTICLES_URL), lastmod: latest, changefreq: 'weekly', priority: '0.8' }));
@@ -94,12 +89,11 @@ function updateLlms(outRoot, articles) {
   const link = (label, url) => `- [${label}](${abs(url)})`;
   const pagesEn = `## Website Pages\n${[
     link('Home', PAGES.home.en), link('About', PAGES.about.en), link('Services', PAGES.services.en),
-    link('Contact', PAGES.contact.en), ...services.map((s) => link(`${s.h1} (Slovak)`, s.url)), link('Articles (Slovak)', ARTICLES_URL),
+    link('Contact', PAGES.contact.en), link('Articles (Slovak)', ARTICLES_URL),
     link('Privacy policy (Slovak)', PAGES.privacy.sk),
   ].join('\n')}\nSlovak versions: ${abs(PAGES.home.sk)}, ${abs(PAGES.about.sk)}, ${abs(PAGES.services.sk)}, ${abs(PAGES.contact.sk)}.`;
   const pagesSk = `## Stránky webu\n${[
     link('Domov', PAGES.home.sk), link('O nás', PAGES.about.sk), link('Služby', PAGES.services.sk),
-    ...services.map((s) => link(s.h1, s.url)),
     link('Články', ARTICLES_URL), link('Kontakt', PAGES.contact.sk),
     link('Ochrana osobných údajov', PAGES.privacy.sk),
   ].join('\n')}\nAnglické verzie: ${abs(PAGES.home.en)}, ${abs(PAGES.about.en)}, ${abs(PAGES.services.en)}, ${abs(PAGES.contact.en)}.`;

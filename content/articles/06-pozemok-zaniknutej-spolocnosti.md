@@ -2,7 +2,6 @@
 {
   "order": 6,
   "slug": "pozemok-zaniknutej-spolocnosti",
-  "service": "vysporiadanie-pozemkov",
   "title": "Na liste vlastníctva je zapísaná zaniknutá spoločnosť. Ako vysporiadať pozemok?",
   "excerpt": "Spoločnosť už zanikla, no pozemok alebo spoluvlastnícky podiel je na ňu stále zapísaný. Pre ostatných vlastníkov aj záujemcov o kúpu tak vzniká otázka: s kým možno riešiť jeho vysporiadanie?",
   "seoTitle": "Pozemok zaniknutej spoločnosti: postup | Noveris Legal",

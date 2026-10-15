@@ -2,7 +2,6 @@
 {
   "order": 2,
   "slug": "zosnuly-na-liste-vlastnictva",
-  "service": "vysporiadanie-pozemkov",
   "title": "Na liste vlastníctva je uvedená zomrelá osoba. Ako postupovať?",
   "excerpt": "Pozemok zostal zapísaný na starého rodiča alebo iného človeka, ktorý už nežije. Roky si to nikto nevšimol, až kým neprišla otázka predaja, dedičstva alebo vysporiadania spoluvlastníctva.",
   "seoTitle": "Zomrelá osoba na liste vlastníctva: postup | Noveris Legal",

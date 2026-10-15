@@ -19,7 +19,6 @@ const OG_ALT = {
   sk: 'Noveris Legal – advokátska kancelária v Bratislave',
   en: 'Noveris Legal – law firm in Bratislava',
 };
-const SERVICE_BASE = '/sluzby/';
 const SITEMAP_LASTMOD = '2026-10-15';
 
 // Page ids -> URL per language. A page without an `en` entry has no English counterpart.
@@ -61,10 +60,6 @@ function loadSiteConfig() {
   };
 }
 
-function serviceUrl(slug) {
-  return `${SERVICE_BASE}${slug}/`;
-}
-
 // Material Symbols used anywhere in the templates / generators, alphabetically sorted.
 // Scanning the sources (not the output) keeps the list identical for every build entry point.
 function iconNames() {
@@ -97,4 +92,4 @@ function abs(url) {
   return /^https?:\/\//.test(url) ? url : SITE + url;
 }
 
-module.exports = { ROOT, SITE, SITE_NAME, OG_IMAGES, OG_ALT, SERVICE_BASE, SITEMAP_LASTMOD, loadSiteCopy, loadSiteConfig, serviceUrl, iconNames, PAGES, ARTICLES_URL, loadTranslations, loadPagesData, urlToFile, abs };
+module.exports = { ROOT, SITE, SITE_NAME, OG_IMAGES, OG_ALT, SITEMAP_LASTMOD, loadSiteCopy, loadSiteConfig, iconNames, PAGES, ARTICLES_URL, loadTranslations, loadPagesData, urlToFile, abs };

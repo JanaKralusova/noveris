@@ -2,7 +2,6 @@
 {
   "order": 4,
   "slug": "odkupenie-pozemku-od-spf",
-  "service": "vysporiadanie-pozemkov",
   "title": "Ako odkúpiť pozemok od Slovenského pozemkového fondu?",
   "excerpt": "Dom je váš, ale pozemok pod ním alebo časť dvora je v správe Slovenského pozemkového fondu. Alebo vlastníte podiel na pozemku a chcete odkúpiť aj podiel, pri ktorom je uvedený SPF.",
   "seoTitle": "Odkúpenie pozemku od SPF: žiadosť a postup | Noveris Legal",

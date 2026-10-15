@@ -5,7 +5,7 @@
  * founder's Person are included on every page; the page nodes reference them.
  */
 
-const { SITE, SITE_NAME, OG_IMAGES, loadSiteConfig, serviceUrl, abs } = require('./site');
+const { SITE, SITE_NAME, OG_IMAGES, loadSiteConfig, abs } = require('./site');
 const { jpegSize } = require('./images');
 const path = require('path');
 const { ROOT } = require('./site');
@@ -53,7 +53,7 @@ function orgNode(lang) {
       '@type': 'OfferCatalog',
       name: 'Právne služby (Legal Services)',
       itemListElement: [
-        { name: 'Právo nehnuteľností (Real Estate Law)', url: abs(serviceUrl('vysporiadanie-pozemkov')) },
+        { name: 'Právo nehnuteľností (Real Estate Law)' },
         { name: 'Zmluvná agenda (Contract Law)' },
         { name: 'Občianske právo (Civil Law)' },
         { name: 'Obchodné právo (Corporate Law)' },

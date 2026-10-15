@@ -2,7 +2,6 @@
 {
   "order": 10,
   "slug": "zrusenie-podieloveho-spoluvlastnictva",
-  "service": "vysporiadanie-pozemkov",
   "title": "Ako zrušiť a vyporiadať podielové spoluvlastníctvo k pozemku?",
   "excerpt": "Pozemok vlastníte spolu s ďalšími ľuďmi, no každý má inú predstavu o jeho využití. Vy chcete stavať, niekto predať a ďalší sa k ničomu nevyjadruje. Alebo chcete svoju časť oddeliť a rozhodovať o nej samostatne.",
   "seoTitle": "Zrušenie podielového spoluvlastníctva pozemku",
