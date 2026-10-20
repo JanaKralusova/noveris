@@ -21,7 +21,8 @@
   ],
   "image": "nesuhlas-spoluvlastnika-s-predajom",
   "imageAlt": "Letecký pohľad na stavenisko a rozryté pozemky",
-  "date": "2026-10-15"
+  "date": "2026-10-15",
+  "updated": "2026-10-20"
 }
 ---
 Jeden spoluvlastník chce pozemok predať, druhý si ho chce ponechať. Alebo sa vlastníci zhodnú, že spoločné vlastníctvo treba ukončiť, no nevedia sa dohodnúť na cene či rozdelení pozemku. Rokovania sa opakujú, ale riešenie neprichádza.
@@ -65,6 +66,20 @@ Zákon však pozná výnimky, napríklad pri rozdelení na účely výstavby ale
 **Podanie žaloby samo osebe nezaručuje, že súd zvolí vami navrhované riešenie.** Ak chcete pozemok získať, treba posúdiť aj jeho deliteľnosť, záujem ostatných spoluvlastníkov a vašu schopnosť vyplatiť im náhradu.
 
 Zákon navyše umožňuje, aby súd z dôvodov hodných osobitného zreteľa spoluvlastníctvo nezrušil prikázaním pozemku za náhradu ani jeho predajom. Samotný nesúhlas druhého spoluvlastníka však ešte takým dôvodom nie je. Rozhodujú konkrétne okolnosti prípadu.
+
+## Časté otázky
+
+### Môžem spoluvlastníka prinútiť, aby odkúpil môj podiel?
+
+Samotným návrhom na predaj mu nevzniká povinnosť podiel kúpiť. Ak sa nedohodnete, môžete zvážiť predaj podielu pri rešpektovaní predkupného práva alebo súdne vyporiadanie. Súd však nemusí zvoliť spôsob, ktorý navrhujete vy.
+
+### Je súhlas s predajom a predkupné právo to isté?
+
+Nie. Pri spoločnom predaji celého pozemku musí každý vlastník súhlasiť s predajom svojho podielu. Ak predávate iba vlastný podiel, predkupné právo ostatným spravidla dáva možnosť kúpiť ho za ponúknutých podmienok.
+
+### Zaplatí súdne trovy spoluvlastník, ktorý odmietol dohodu?
+
+Nie automaticky. Samotné odmietnutie dohody nestačí na takýto záver. O náhrade trov súd rozhoduje podľa procesných pravidiel a okolností konania. Pred podaním žaloby treba počítať aj s [vlastnými výdavkami](/clanky/kolko-stoji-vysporiadanie-pozemku/) na poplatok, právne služby či potrebné dokazovanie.
 
 ## Neviete sa so spoluvlastníkom dohodnúť?
 

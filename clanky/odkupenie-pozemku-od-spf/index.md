@@ -34,6 +34,24 @@ Cena závisí od konkrétneho pozemku, jeho polohy a možností využitia. Znale
 
 Čas vybavenia ovplyvňuje náročnosť prípadu, úplnosť podkladov aj schvaľovací proces. Na vybavenie žiadosti o kúpu sa nevzťahujú bežné lehoty podľa Správneho poriadku.
 
+## Časté otázky
+
+### Prečo je dôležité správne pripraviť žiadosť o odkúpenie pozemku od SPF?
+
+Nestačí uviesť, o ktorý pozemok máte záujem. Žiadosť treba odôvodniť podľa zákonných podmienok prevodu a doložiť podkladmi, ktoré preukazujú ich splnenie. Ak rozhodujúce okolnosti nie sú dostatočne vysvetlené alebo preukázané, fond môže dospieť k záveru, že podmienky prevodu nie sú splnené, a s predajom nesúhlasiť.
+
+### Aké doklady mám pripraviť k prvej žiadosti?
+
+Najprv je potrebné identifikovať parcelu, jej vlastníka a vzťah k pozemku. SPF požaduje podľa prípadu aj stanovisko obce k prevodu a územnému plánu či vyjadrenie k reštitučným nárokom. Presný zoznam príloh treba zvoliť podľa konkrétneho dôvodu prevodu.
+
+### Môžem žiadosť o odkúpenie poslať obyčajným e-mailom?
+
+Nie. SPF pri žiadostiach o prevod uvádza podanie cez centrálnu podateľňu alebo do elektronickej schránky s predpísanými náležitosťami. Právnické osoby majú podľa pokynov fondu komunikovať elektronicky. Obyčajný e-mail takúto žiadosť nenahrádza.
+
+### Znamená podanie žiadosti, že mi SPF pozemok predá?
+
+Nie. Samotným podaním žiadosti nevzniká nárok na odkúpenie pozemku. Fond posudzuje, či je prevod vo vašom prípade prípustný a či sú splnené príslušné zákonné podmienky. Preto je dôležité už v žiadosti vysvetliť dôvod odkúpenia a podložiť ho relevantnými dokladmi.
+
 ## Zvažujete odkúpenie pozemku od SPF?
 
 Chcete vedieť, či vo vašom prípade prichádza odkúpenie do úvahy? **[Dohodnite si konzultáciu](/kontakt/)**. Posúdime podmienky prevodu a vysvetlíme vám, aký postup je vhodný pre vašu situáciu.

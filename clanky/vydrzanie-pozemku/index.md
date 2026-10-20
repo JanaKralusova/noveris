@@ -34,6 +34,28 @@ Význam môžu mať staršie zmluvy, dedičské rozhodnutia, [historické mapy](
 
 O potvrdení vydržania rozhoduje súd. V konaní sa posudzujú tvrdenia a predložené dôkazy a priestor dostávajú aj osoby, ktorých práva môžu byť dotknuté. Právoplatné rozhodnutie je podkladom na zápis vlastníctva do katastra.
 
+## Časté otázky
+
+### Dá sa vydržať pozemok vo vlastníctve štátu?
+
+Samotné vlastníctvo štátu vydržanie všeobecne nevylučuje. Treba však preveriť právny režim pozemku aj obdobie držby. Vydržať nemožno veci, ktoré podľa zákona môžu patriť iba štátu alebo určeným právnickým osobám.
+
+### Dá sa vydržať pozemok v správe SPF?
+
+Zápis SPF sám osebe nie je prekážkou ani dôkazom vydržania. Rozhoduje skutočný vlastník, právny režim a splnenie podmienok držby. [SPF môže spravovať štátny pozemok alebo nakladať s pozemkom nezisteného vlastníka](/clanky/slovensky-pozemkovy-fond-na-liste-vlastnictva/).
+
+### Možno vydržať pozemok známeho vlastníka?
+
+Áno. Ani to, že je vlastník známy a zapísaný v katastri, samo osebe nevylučuje vydržanie. Rozhodujúce je splnenie zákonných podmienok vrátane dobromyseľnosti, teda či ste vzhľadom na všetky okolnosti mohli byť presvedčený, že pozemok patrí vám. Ak ste ho užívali iba so súhlasom vlastníka a vedeli ste, že je jeho, samotným dlhoročným užívaním ho nevydržíte.
+
+### Možno vydržať pozemok pod vlastnou stavbou?
+
+Aj tu treba preukázať oprávnenú držbu počas zákonnej doby. Vlastníctvo stavby ani stavebné povolenie samy osebe nezakladajú [vlastníctvo pozemku pod stavbou](/clanky/pozemok-pod-stavbou/). Podstatné je, prečo ste aj pozemok odôvodnene považovali za svoj.
+
+### Musí zapísaný vlastník s vydržaním súhlasiť?
+
+Jeho súhlas nie je zákonnou podmienkou. V konaní o potvrdení vydržania však môže namietať vaše tvrdenia. Súd skúma splnenie podmienok; samotné mlčanie vlastníka úspech nezaručuje.
+
 ## Užívate pozemok roky, ale v katastri patrí niekomu inému?
 
 **Posúdime, či okolnosti vášho prípadu môžu viesť k vydržaniu.** Preveríme históriu užívania, dostupné dokumenty a možnosti preukázania oprávnenej držby.

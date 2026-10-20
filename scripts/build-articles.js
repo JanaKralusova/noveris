@@ -137,6 +137,38 @@ function markdown(src, headings) {
   return out.join('\n');
 }
 
+// "## Časté otázky" section -> [{ question, answer }] (plain text) for FAQPage JSON-LD; [] when absent.
+const FAQ_HEADING = 'Časté otázky';
+
+function extractFaq(body, file) {
+  const lines = body.replace(/\r\n?/g, '\n').split('\n');
+  const items = [];
+  let inFaq = false;
+  let found = false;
+  let cur = null;
+  for (const line of lines) {
+    let m;
+    if ((m = /^##\s+(.*?)\s*#*\s*$/.exec(line))) {
+      inFaq = stripInline(m[1]) === FAQ_HEADING;
+      if (inFaq) found = true;
+      cur = null;
+    } else if (!inFaq) {
+      continue;
+    } else if ((m = /^###\s+(.*?)\s*#*\s*$/.exec(line))) {
+      cur = { question: stripInline(m[1]), lines: [] };
+      items.push(cur);
+    } else if (cur) {
+      cur.lines.push(line);
+    }
+  }
+  if (found && !items.length) fail(`${file}: section "${FAQ_HEADING}" has no "### " question`);
+  return items.map((it) => {
+    const answer = stripInline(it.lines.join(' ')).replace(/\s+/g, ' ').trim();
+    if (!answer) fail(`${file}: FAQ question "${it.question}" has an empty answer`);
+    return { question: it.question, answer };
+  });
+}
+
 // ---------------------------------------------------------------- loading
 
 function loadArticles(dir) {
@@ -171,6 +203,10 @@ function loadArticles(dir) {
     if (!/^[a-z0-9]+(?:-[a-z0-9]+)*$/.test(meta.slug)) fail(`${file}: invalid slug "${meta.slug}" (lowercase a-z, 0-9, hyphens)`);
     if (!/^[A-Za-z0-9._-]+$/.test(meta.image)) fail(`${file}: invalid image name "${meta.image}"`);
     if (!/^\d{4}-\d{2}-\d{2}$/.test(meta.date) || isNaN(Date.parse(meta.date))) fail(`${file}: "date" must be YYYY-MM-DD`);
+    if (meta.updated !== undefined) {
+      if (typeof meta.updated !== 'string' || !/^\d{4}-\d{2}-\d{2}$/.test(meta.updated) || isNaN(Date.parse(meta.updated))) fail(`${file}: "updated" must be YYYY-MM-DD`);
+      if (meta.updated < meta.date) fail(`${file}: "updated" (${meta.updated}) must not be earlier than "date" (${meta.date})`);
+    }
     if (slugs.has(meta.slug)) fail(`${file}: duplicate slug "${meta.slug}"`);
     slugs.add(meta.slug);
 
@@ -178,8 +214,9 @@ function loadArticles(dir) {
     if (!body) fail(`${file}: empty article body`);
     const headings = [];
     const html = markdown(body, headings);
+    const faq = extractFaq(body, file);
     const words = body.replace(/[#*\[\]()`>-]/g, ' ').split(/\s+/).filter(Boolean).length;
-    articles.push({ ...meta, file, body, html, headings, words });
+    articles.push({ ...meta, file, body, html, headings, faq, words });
   }
   articles.sort((a, b) => a.order - b.order);
   return articles;
@@ -325,10 +362,11 @@ function articlePage(a, all, ctx) {
     { name: SK_CRUMB.articles, url: `${SITE}/clanky/` },
     { name: a.title, url: canonical },
   ];
+  const modified = a.updated || a.date;
   const pageNodes = schema.pageNodes({
     url: canonical, type: 'WebPage', name: title, description: a.description, lang: 'sk',
     image: imgUrl, imageAlt: a.imageAlt, crumbs, about: false,
-    extra: { mainEntity: schema.ref(`${canonical}#article`), datePublished: a.date, dateModified: a.date },
+    extra: { mainEntity: schema.ref(`${canonical}#article`), datePublished: a.date, dateModified: modified },
   });
   const article = {
     '@type': 'Article',
@@ -337,7 +375,7 @@ function articlePage(a, all, ctx) {
     description: a.description,
     image: schema.ref(`${canonical}#primaryimage`),
     datePublished: a.date,
-    dateModified: a.date,
+    dateModified: modified,
     inLanguage: 'sk',
     keywords: a.keywords.join(', '),
     wordCount: a.words,
@@ -347,6 +385,13 @@ function articlePage(a, all, ctx) {
     isPartOf: schema.ref(`${canonical}#webpage`),
     mainEntityOfPage: schema.ref(`${canonical}#webpage`),
   };
+  const faq = a.faq.length && {
+    '@type': 'FAQPage',
+    '@id': `${canonical}#faq`,
+    inLanguage: 'sk',
+    isPartOf: schema.ref(`${canonical}#webpage`),
+    mainEntity: a.faq.map((f) => ({ '@type': 'Question', name: f.question, acceptedAnswer: { '@type': 'Answer', text: f.answer } })),
+  };
   const headData = {
     title, description: a.description, canonical, keywords: a.keywords.join(', '),
     og: {
@@ -354,11 +399,11 @@ function articlePage(a, all, ctx) {
       ...ogFor(imgUrl, a.imgW, a.imgH, a.imageAlt),
       extra: [
         `<meta property="article:published_time" content="${esc(a.date)}"/>`,
-        `<meta property="article:modified_time" content="${esc(a.date)}"/>`,
+        `<meta property="article:modified_time" content="${esc(modified)}"/>`,
         ...a.tags.map((t) => `<meta property="article:tag" content="${esc(t)}"/>`),
       ],
     },
-    jsonlds: [schema.graph('sk', [...pageNodes, article])], mdAlt: `/clanky/${a.slug}/index.md`,
+    jsonlds: [schema.graph('sk', [...pageNodes, article, ...(faq ? [faq] : [])])], mdAlt: `/clanky/${a.slug}/index.md`,
   };
   const main = `<main>
 <article class="px-8 pt-24 pb-24">
@@ -378,7 +423,7 @@ ${breadcrumbNav([{ name: SK_CRUMB.home, href: '/' }, { name: SK_CRUMB.articles, 
 <a href="/o-nas/" class="font-body text-sm text-on-surface hover:text-secondary transition-colors">${esc(AUTHOR)}, advokátka</a>
 </div>
 <time datetime="${esc(a.date)}" class="font-label uppercase tracking-widest text-xs text-on-surface-variant">${esc(formatDate(a.date))}</time>
-<ul class="flex flex-wrap gap-2" aria-label="Značky">
+${a.updated ? `<time datetime="${esc(a.updated)}" class="font-label uppercase tracking-widest text-xs text-on-surface-variant">Aktualizované ${esc(formatDate(a.updated))}</time>\n` : ''}<ul class="flex flex-wrap gap-2" aria-label="Značky">
 ${a.tags.map((t) => `<li class="font-label uppercase tracking-widest text-[0.65rem] text-primary bg-surface-container px-3 py-1.5 rounded-full">${esc(t)}</li>`).join('\n')}
 </ul>
 </div>

@@ -21,7 +21,8 @@
   ],
   "image": "slovensky-pozemkovy-fond-na-liste-vlastnictva",
   "imageAlt": "Letecký pohľad na krajinu s lúkami, rybníkmi a dedinou",
-  "date": "2026-10-15"
+  "date": "2026-10-15",
+  "updated": "2026-10-20"
 }
 ---
 Pri hľadaní vlastníka pozemku pod domom, na prístupovej ceste alebo pri spoločnej parcele môžete na liste vlastníctva naraziť na Slovenský pozemkový fond. Jeho zápis často vyvolá otázku, či sa pozemok vôbec dá odkúpiť alebo vysporiadať.
@@ -59,6 +60,24 @@ Ak vlastníte pozemok spolu s nezisteným vlastníkom, jednou z možností môž
 Najprv treba objasniť vlastnícke vzťahy a určiť, čo chcete dosiahnuť. Potrebujete získať pozemok pod stavbou, oddeliť svoju časť spoločného pozemku alebo zabezpečiť prístup?
 
 **Od toho sa odvíja, či treba rokovať s fondom, usporiadať dedičstvo alebo zvoliť iný právny postup.** Posúdenie možností ešte pred prípravou žiadostí a ďalších podkladov pomáha predísť zbytočným nákladom.
+
+## Časté otázky
+
+### Kde nájdem zoznam nezistených vlastníkov Slovenského pozemkového fondu?
+
+SPF ho zverejňuje na svojom webe v časti Verejný prístup k informáciám – [Zoznam nezistených vlastníkov](https://pozfond.sk/verejny-pristup-k-informaciam/zoznam-nezistenych-vlastnikov/). Súbory sú rozdelené podľa katastrálnych území. Vyberte príslušné územie a vyhľadajte meno vlastníka; výsledok porovnajte s aktuálnym listom vlastníctva.
+
+### Znamená nájdenie mena v zozname SPF, že mi pozemok patrí?
+
+Nie. Zoznam je informatívny a rovnaké meno môže patriť viacerým ľuďom. Najprv treba overiť, či ide skutočne o vášho príbuzného. Ak už zomrel, treba zistiť, či bol pozemok zahrnutý do dedičstva a kto ho zdedil. Ak sa v dedičstve neprejednal, môže byť potrebné [dodatočné dedičské konanie](/clanky/neprededene-pozemky-po-rodicoch/).
+
+### Musím pozemok po svojom predkovi odkúpiť od SPF?
+
+Nie nevyhnutne. Ak preukážete, že ide o majetok vášho predka, ktorý nebol prejednaný v dedičstve, riešením môže byť dodatočné konanie o dedičstve. Samotný zápis SPF neznamená, že pozemok musíte kupovať.
+
+### Vybaví SPF dedičstvo po neznámom vlastníkovi?
+
+Nie. SPF dedičstvo neprejednáva ani nerozhoduje, kto je dedičom. Dedičské konanie vedie notár poverený súdom. Fond môže byť relevantný pri preverovaní pozemkov, s ktorými nakladá.
 
 ## Riešite pozemok, pri ktorom figuruje SPF?
 

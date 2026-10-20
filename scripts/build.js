@@ -58,11 +58,11 @@ function buildSitemap(outRoot, articles) {
       entries.push(urlEntry({ loc: abs(p[lang]), lastmod: SITEMAP_LASTMOD, changefreq: p.changefreq, priority: p.priority, alternates: pair }));
     }
   }
-  const latest = articles.map((a) => a.date).sort().pop();
+  const latest = articles.map((a) => a.updated || a.date).sort().pop();
   entries.push(urlEntry({ loc: abs(ARTICLES_URL), lastmod: latest, changefreq: 'weekly', priority: '0.8' }));
   for (const a of articles) {
     entries.push(urlEntry({
-      loc: `${SITE}${ARTICLES_URL}${a.slug}/`, lastmod: a.date, changefreq: 'monthly', priority: '0.7',
+      loc: `${SITE}${ARTICLES_URL}${a.slug}/`, lastmod: a.updated || a.date, changefreq: 'monthly', priority: '0.7',
       image: { loc: `${SITE}/assets/articles/${a.image}.jpg`, title: a.title },
     }));
   }

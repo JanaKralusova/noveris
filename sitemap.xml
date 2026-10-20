@@ -80,7 +80,7 @@
   </url>
   <url>
     <loc>https://noveris.sk/clanky/</loc>
-    <lastmod>2026-10-15</lastmod>
+    <lastmod>2026-10-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -106,7 +106,7 @@
   </url>
   <url>
     <loc>https://noveris.sk/clanky/slovensky-pozemkovy-fond-na-liste-vlastnictva/</loc>
-    <lastmod>2026-10-15</lastmod>
+    <lastmod>2026-10-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -116,7 +116,7 @@
   </url>
   <url>
     <loc>https://noveris.sk/clanky/odkupenie-pozemku-od-spf/</loc>
-    <lastmod>2026-10-15</lastmod>
+    <lastmod>2026-10-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -176,7 +176,7 @@
   </url>
   <url>
     <loc>https://noveris.sk/clanky/zrusenie-podieloveho-spoluvlastnictva/</loc>
-    <lastmod>2026-10-15</lastmod>
+    <lastmod>2026-10-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -186,7 +186,7 @@
   </url>
   <url>
     <loc>https://noveris.sk/clanky/vydrzanie-pozemku/</loc>
-    <lastmod>2026-10-15</lastmod>
+    <lastmod>2026-10-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -226,12 +226,52 @@
   </url>
   <url>
     <loc>https://noveris.sk/clanky/nesuhlas-spoluvlastnika-s-predajom/</loc>
-    <lastmod>2026-10-15</lastmod>
+    <lastmod>2026-10-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
       <image:loc>https://noveris.sk/assets/articles/nesuhlas-spoluvlastnika-s-predajom.jpg</image:loc>
       <image:title>Čo robiť, ak spoluvlastník nesúhlasí s predajom alebo vyporiadaním pozemku?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://noveris.sk/clanky/kolko-stoji-vysporiadanie-pozemku/</loc>
+    <lastmod>2026-10-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://noveris.sk/assets/articles/kolko-stoji-vysporiadanie-pozemku.jpg</image:loc>
+      <image:title>Koľko stojí vysporiadanie pozemku?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://noveris.sk/clanky/vysporiadanie-pozemku-pod-cestou/</loc>
+    <lastmod>2026-10-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://noveris.sk/assets/articles/vysporiadanie-pozemku-pod-cestou.jpg</image:loc>
+      <image:title>Vlastníte pozemok pod cestou? Aké máte možnosti vysporiadania?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://noveris.sk/clanky/kupna-zmluva-na-pozemok/</loc>
+    <lastmod>2026-10-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://noveris.sk/assets/articles/kupna-zmluva-na-pozemok.jpg</image:loc>
+      <image:title>Kúpna zmluva na pozemok: Čo má obsahovať a na čo si dať pozor?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://noveris.sk/clanky/vecne-bremeno-prechodu-a-prejazdu/</loc>
+    <lastmod>2026-10-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://noveris.sk/assets/articles/vecne-bremeno-prechodu-a-prejazdu.jpg</image:loc>
+      <image:title>Vecné bremeno práva prechodu a prejazdu: Ako ho zriadiť a zapísať do katastra?</image:title>
     </image:image>
   </url>
 </urlset>

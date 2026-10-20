@@ -4,8 +4,8 @@
   "slug": "vydrzanie-pozemku",
   "title": "Vydržanie pozemku: Kedy môžete získať pozemok, ktorý dlhodobo užívate?",
   "excerpt": "Záhradu pri dome užívate desaťročia. Starali sa o ňu už vaši rodičia a vždy ste ju považovali za svoju. Pri preverovaní katastra však zistíte, že pozemok alebo jeho časť je zapísaná na niekoho iného.",
-  "seoTitle": "Vydržanie pozemku: kedy ho možno získať | Noveris Legal",
-  "description": "Vydržanie pozemku: čo znamená oprávnená držba a dobromyseľnosť, či stačí desať rokov užívania a ako sa vydržanie preukazuje pred súdom.",
+  "seoTitle": "Vydržanie pozemku: podmienky a postup | Noveris Legal",
+  "description": "Vydržanie pozemku: podmienky oprávnenej držby a dobromyseľnosti, či stačí desať rokov užívania, ako sa vydržanie preukazuje a či možno vydržať pozemok štátu či SPF.",
   "tags": [
     "vydržanie",
     "dobromyseľnosť",
@@ -21,7 +21,8 @@
   ],
   "image": "vydrzanie-pozemku",
   "imageAlt": "Letecký pohľad na pozemky a stromy v jesenných farbách",
-  "date": "2026-10-15"
+  "date": "2026-10-15",
+  "updated": "2026-10-20"
 }
 ---
 Záhradu pri dome užívate desaťročia. Starali sa o ňu už vaši rodičia a vždy ste ju považovali za svoju. Pri preverovaní katastra však zistíte, že pozemok alebo jeho časť je zapísaná na niekoho iného.
@@ -53,6 +54,28 @@ Rozdiel je medzi človekom, ktorý pozemok odôvodnene považuje za svoj, a člo
 Význam môžu mať staršie zmluvy, dedičské rozhodnutia, [historické mapy](/clanky/zistenie-vlastnika-ktory-nie-je-v-katastri/), fotografie aj svedecké výpovede. Podklady majú objasniť, odkedy a za akých okolností ste pozemok užívali vy alebo vaši právni predchodcovia.
 
 O potvrdení vydržania rozhoduje súd. V konaní sa posudzujú tvrdenia a predložené dôkazy a priestor dostávajú aj osoby, ktorých práva môžu byť dotknuté. Právoplatné rozhodnutie je podkladom na zápis vlastníctva do katastra.
+
+## Časté otázky
+
+### Dá sa vydržať pozemok vo vlastníctve štátu?
+
+Samotné vlastníctvo štátu vydržanie všeobecne nevylučuje. Treba však preveriť právny režim pozemku aj obdobie držby. Vydržať nemožno veci, ktoré podľa zákona môžu patriť iba štátu alebo určeným právnickým osobám.
+
+### Dá sa vydržať pozemok v správe SPF?
+
+Zápis SPF sám osebe nie je prekážkou ani dôkazom vydržania. Rozhoduje skutočný vlastník, právny režim a splnenie podmienok držby. [SPF môže spravovať štátny pozemok alebo nakladať s pozemkom nezisteného vlastníka](/clanky/slovensky-pozemkovy-fond-na-liste-vlastnictva/).
+
+### Možno vydržať pozemok známeho vlastníka?
+
+Áno. Ani to, že je vlastník známy a zapísaný v katastri, samo osebe nevylučuje vydržanie. Rozhodujúce je splnenie zákonných podmienok vrátane dobromyseľnosti, teda či ste vzhľadom na všetky okolnosti mohli byť presvedčený, že pozemok patrí vám. Ak ste ho užívali iba so súhlasom vlastníka a vedeli ste, že je jeho, samotným dlhoročným užívaním ho nevydržíte.
+
+### Možno vydržať pozemok pod vlastnou stavbou?
+
+Aj tu treba preukázať oprávnenú držbu počas zákonnej doby. Vlastníctvo stavby ani stavebné povolenie samy osebe nezakladajú [vlastníctvo pozemku pod stavbou](/clanky/pozemok-pod-stavbou/). Podstatné je, prečo ste aj pozemok odôvodnene považovali za svoj.
+
+### Musí zapísaný vlastník s vydržaním súhlasiť?
+
+Jeho súhlas nie je zákonnou podmienkou. V konaní o potvrdení vydržania však môže namietať vaše tvrdenia. Súd skúma splnenie podmienok; samotné mlčanie vlastníka úspech nezaručuje.
 
 ## Užívate pozemok roky, ale v katastri patrí niekomu inému?
 

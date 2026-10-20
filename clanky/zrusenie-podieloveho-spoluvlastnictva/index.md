@@ -26,7 +26,7 @@ Do úvahy prichádzajú tri základné riešenia.
 
 ## Ako sa spoluvlastníctvo vyporiada dohodou?
 
-Ak sa spoluvlastníci zhodnú na riešení, môžu uzatvoriť písomnú dohodu o zrušení a vyporiadaní spoluvlastníctva. Pri spoločnom predaji uzatvárajú kúpnu zmluvu s kupujúcim.
+Ak sa spoluvlastníci zhodnú na riešení, môžu uzatvoriť písomnú dohodu o zrušení a vyporiadaní spoluvlastníctva. Pri spoločnom predaji uzatvárajú [kúpnu zmluvu](/clanky/kupna-zmluva-na-pozemok/) s kupujúcim.
 
 **Dôležité je dohodnúť nielen výsledok, ale aj podmienky jeho uskutočnenia.** Napríklad kto získa ktorú parcelu, aká suma sa vyplatí ostatným a kedy bude uhradená. Pri rozdelení treba vyriešiť aj prístup k novým pozemkom.
 
@@ -45,6 +45,24 @@ Pred podaním žaloby preto treba posúdiť, ktoré riešenie je reálne a čím
 Aj v takom prípade existujú možnosti vyporiadania. Najprv treba preveriť postavenie neznámeho vlastníka a jeho zastúpenie [Slovenským pozemkovým fondom](/clanky/slovensky-pozemkovy-fond-na-liste-vlastnictva/). Podľa okolností možno situáciu riešiť dohodou s fondom alebo prostredníctvom súdu.
 
 Ak je [zapísaný spoluvlastník zosnulý](/clanky/zosnuly-na-liste-vlastnictva/), treba objasniť súvisiace dedičské vzťahy a určiť jeho právnych nástupcov.
+
+## Časté otázky
+
+### Stačí podať žiadosť o vysporiadanie pozemku?
+
+Neexistuje jedna všeobecná žiadosť pre všetky prípady. Pri dohode sa pripravuje zmluva, pri prevode cez SPF sa podáva [žiadosť fondu](/clanky/odkupenie-pozemku-od-spf/). Ak sa spoluvlastníci nedohodnú a má rozhodnúť súd, podáva sa žaloba na zrušenie a vyporiadanie podielového spoluvlastníctva.
+
+### Na ktorý súd sa podáva žaloba na vyporiadanie pozemku?
+
+Pri spore o spoluvlastníctvo k pozemku je miestne príslušný súd, v ktorého obvode sa pozemok nachádza. Nerozhoduje teda bydlisko žalovaného. Konkrétny súd treba určiť podľa polohy nehnuteľnosti a príslušných pravidiel.
+
+### Čo treba pripraviť pred podaním žaloby?
+
+Na úvod je potrebné označiť pozemok a vysvetliť, čo chcete vyporiadaním dosiahnuť. Ak máte komunikáciu so spoluvlastníkmi, návrhy dohôd, geometrický plán alebo ocenenie pozemku, poskytnite ich advokátovi. Ten preverí vlastnícke vzťahy, posúdi možnosti vyporiadania a určí, aké ďalšie podklady a dôkazy treba zabezpečiť na prípravu žaloby.
+
+### Ako dlho trvá vysporiadanie pozemku súdom?
+
+Dĺžku súdneho konania nemožno vopred presne určiť. Závisí od zložitosti prípadu, počtu spoluvlastníkov, priebehu doručovania aj od toho, či je potrebné znalecké dokazovanie alebo či niektorá zo strán podá odvolanie. Konkrétnejší časový odhad možno urobiť až po posúdení vašej situácie.
 
 ## Chcete usporiadať spoločné vlastníctvo pozemku?
 

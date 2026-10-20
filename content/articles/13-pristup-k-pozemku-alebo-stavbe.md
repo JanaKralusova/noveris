@@ -36,7 +36,7 @@ Ak vecné bremeno zapísané nie je a nemáte ani zmluvu či rozhodnutie, ktoré
 
 ## Ako sa dá prístup zabezpečiť dohodou?
 
-Ak je vlastník pozemku známy a je ochotný rokovať, prístup možno zabezpečiť viacerými spôsobmi. Môžete sa dohodnúť na zriadení vecného bremena, kúpe celého pozemku alebo spoluvlastníckeho podielu. Ďalšou možnosťou je nájom.
+Ak je vlastník pozemku známy a je ochotný rokovať, prístup možno zabezpečiť viacerými spôsobmi. Môžete sa dohodnúť na [zriadení vecného bremena](/clanky/vecne-bremeno-prechodu-a-prejazdu/), kúpe celého pozemku alebo spoluvlastníckeho podielu. Ďalšou možnosťou je nájom.
 
 **Vecné bremeno upraví právo prechodu alebo prejazdu cez konkrétny pozemok.** V dohode sa určí trasa a rozsah prístupu, napríklad či zahŕňa prechod pešo alebo aj prejazd autom. Ak má cesta viesť len cez časť parcely, môže byť potrebný geometrický plán. Zmluvné vecné bremeno sa zapisuje do katastra vkladom.
 
