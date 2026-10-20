@@ -423,7 +423,7 @@ ${breadcrumbNav([{ name: SK_CRUMB.home, href: '/' }, { name: SK_CRUMB.articles, 
 <a href="/o-nas/" class="font-body text-sm text-on-surface hover:text-secondary transition-colors">${esc(AUTHOR)}, advokátka</a>
 </div>
 <time datetime="${esc(a.date)}" class="font-label uppercase tracking-widest text-xs text-on-surface-variant">${esc(formatDate(a.date))}</time>
-${a.updated ? `<time datetime="${esc(a.updated)}" class="font-label uppercase tracking-widest text-xs text-on-surface-variant">Aktualizované ${esc(formatDate(a.updated))}</time>\n` : ''}<ul class="flex flex-wrap gap-2" aria-label="Značky">
+<ul class="flex flex-wrap gap-2" aria-label="Značky">
 ${a.tags.map((t) => `<li class="font-label uppercase tracking-widest text-[0.65rem] text-primary bg-surface-container px-3 py-1.5 rounded-full">${esc(t)}</li>`).join('\n')}
 </ul>
 </div>
