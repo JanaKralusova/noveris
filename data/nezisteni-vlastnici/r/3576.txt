@@ -1,0 +1,256 @@
+2052	MENDLOVIČ Leo		1	263,292,364
+2052	MENDLOVIČ Martin		1	263,292,364
+2052	MICENKO Juraj		1	248
+2052	MICENKO Michal		1	248
+2052	MICENKOVÁ Anna		1	248
+2052	MICENKOVÁ Mária		1	248
+2052	MICHLIK Peter		1	188,191,192
+2052	MICHLIK Štefan		1	188,191,192
+2052	MICHLÍKOVÁ Anna	R.ŠTEFANIŠINOVÁ	1	191,192
+2052	NACICHOVÁ Anna	R.KMECOVÁ	1	206
+2052	NEMEC Imrich		1	49,52,53,94,99,282
+2052	NEMEC Juraj		1	57,92,98
+2052	NICENKO Ján		1	268
+2052	OBŠASNÍKOVÁ Mária	R.OLČAKOVÁ	1	279
+2052	OLČÁK Štefan		1	279
+2052	OLČÁKOVÁ Zuzana	R.LEGIŇOVÁ	1	279
+2052	PALISKO Juraj		0	89,91,92,93,94,96,97,98,99
+2052	PANDÁK Ján		1	119
+2052	PANDAKOVÁ ALŽBETA		1	117,119
+2052	PELÁK Michal		1	279
+2052	PELÁKOVÁ Mária	R.SMOLIGOVÁ	1	279
+2052	PIVOVARNÍK ANNA r. ČVERČEK	MANŽ. JÁN	0	117
+2052	PIVOVARNÍK Ján		0	131,437
+2052	RAKOŠ Juraj		1	205
+2052	REICHMANOVÁ Rozália	R.MANDLOVIČOVÁ	1	263,292,364
+2052	SCIRANKOVA MARIA		0	251
+2052	SIČÁK JAN a Anna SIČÁKOVÁ r. MICHLIKOVÁ	R 1.1.1914	0	359
+2052	SLIVA Andrej a Zuzana SLIVOVÁ r. ROKYTOVA		0	367
+2052	SOTAKOVÁ Mária		1	203,204,205,206
+2052	SUŠINKO Michal		1	279
+2052	SUŠINKOVÁ Anna	R.OBŠASNÍKOVÁ	1	279
+2052	ŠEMBEROVÁ Anna		1	171,473,474
+2052	ŠTEFANIŠINOVÁ Handa		1	188
+2052	ŠTELMAK Juraj		1	203
+2052	VANDA MICHAL a MARIA VANDOVÁ r. KUKOLOVA		0	238
+2052	VASIČKOVÁ Anna	R.BOSÁKOVÁ	1	283
+2052	VILLECZ Mor		1	346
+2052	ZÁKUTNÝ Ján		1	22,180
+2052	ZÁKUTNÝ Michal		1	22,180
+2053	ANDERKOVÁ Anna r. Mižičková	zomrela	0	37,38,57,134,163,166,193,354,387,389,601,602,613,616,617,618,630,639,688,689,698,700,701,703,705,706,707,708,710,985
+2053	Anderková Anna r. Mižičková, zomrela zomrela		0	956
+2053	Beková Mária r. Fedorová		0	133
+2053	Bruzda Peter	zomrel, po ňom osvedčenie-43/96,mpč.92/c necitovaná	0	37
+2053	Bruzda Peter	zomrel, po ňom osvedčenie-43/96,mpč.93 necitovaná	0	38
+2053	Cinová Anna	otec Juraj	0	673
+2053	Cinová Mária	otec Juraj	0	673
+2053	Daňo Andrej	rodičia Michal a Mária r.Sučko	0	331,601,602,613,616,617,618,630,688,689,701,705,706,707,708,710,1026,1027,1028,1040
+2053	Daňo Andrej r. Daňo, rod. Michal a Mária r.Sučko rod. Michal a Mária r.Sučko		0	778,949,958
+2053	Daňo Ján	starý,možno brat Michal	0	191,353,361,601,602,613,616,617,618,630,688,689,701,705,706,707,708,710,1015,1016,1032
+2053	Daňo Ján r. Daňo, starý,možno brat Michal 282 starý,možno brat Michal 282		0	763,804,805,817,949,958,969,1070
+2053	Daňo Michal	otec Ján,manželka Anna r.Ťukot	0	37
+2053	Daňo Michal	starý,možno brat Ján	0	191,353,361,601,602,613,616,617,618,630,688,689,701,705,706,707,708,710,1015,1016,1032
+2053	Daňo Michal r. Daňo, starý,možno brat Ján 283 starý,možno brat Ján 283		0	812
+2053	Daňová Anna	to je rodné meno,asi otec Juraj	0	37
+2053	DUGASOVÁ Helena r. Mižičková		0	147,768,777,925,956,964
+2053	DUGASOVÁ Mária r. Anderková		0	386,388,584,697,699,702,709,956
+2053	DUGASOVÁ Mária r. Mižičková	manžel Jozef	0	37,38,354,386,388,455,457,461,516,584,601,602,613,615,616,617,618,630,688,689,697,699,701,702,705,706,707,708,709,710
+2053	Dugasová Mária r. Mižičková, manžel Jozef manžel Jozef		0	884,962,972,973
+2053	DZIAKOVÁ Verona r. Fedorová	dedila po Anne Kačmár r.Fedor	0	122
+2053	Fedor Ján	starý	0	191,353,361,601,602,613,616,617,618,630,688,689,701,705,706,707,708,710,1015,1016,1032
+2053	Fedor Ján r. Fedor, starý starý		0	900,957
+2053	FEDOR Juraj		0	38,354
+2053	FUČO Juraj	otec Ján,manželka Anna r.Andrejková	0	37,38,102,354
+2053	FUČO Michal	manželka Helena r.Sučková, otec asi Ján	0	37,38,102,353,354,601,602,613,616,617,618,630,688,689,701,705,706,707,708,710,1015,1016,1032
+2053	Fučo Michal r. Fučo	manželka Helena r.Sučková, otec asi Ján	0	191,361
+2053	Fučo Michal r. Fučo, manželka Helena r.Sučková, otec asi Ján manželka Helena r.Sučková, otec asi Ján		0	881
+2053	FUČOVÁ Mária r. Kaminská	manžel Ján	0	244
+2053	GONDŽÚR Anton		0	601,602,613,616,617,618,630,688,689,701,705,706,707,708,710
+2053	HURDÍKOVÁ Alžbeta r. Lešková	manžel Štefan	0	601,602,613,616,617,618,630,688,689,701,705,706,707,708,710
+2053	HURDÍKOVÁ Anna r. Uličná	manžel Ján	0	38,354
+2053	Chromá Margita r. Sučková	zomrela	0	37,38,39,60,272,340,341,343,344,354,601,602,613,616,617,618,630,688,689,701,705,706,707,708,710
+2053	Chromá Margita r. Sučková, zomrela zomrela		0	778
+2053	Janičko Ján	otec asi Andrej	0	37,38,114,354,517,601,602,613,616,617,618,630,688,689,701,705,706,707,708,710,735,736,738
+2053	Janičko Ján r. Janičko, otec asi Andrej otec asi Andrej		0	776
+2053	JANKANIČ Ján		0	37,38,83,84,85,89,93,354,601,602,613,616,617,618,630,688,689,701,705,706,707,708,710,1059
+2053	Jankanič Ján r. Jankanič		0	778,929
+2053	Jankanič Juraj	zomrel,ž.Mária Lešková,o.Juraj asi	0	23,25,26,37,338,342,430,507,601,602,613,616,617,618,630,688,689,701,705,706,707,708,710,993
+2053	Jankanič Juraj r. Jankanič, zomrel,ž.Mária Lešková,o.Juraj asi zomrel,ž.Mária Lešková,o.Juraj asi		0	767,784,791,894
+2053	JANKANIČ Michal		0	38,354
+2053	JANKANIČOVÁ Mária	asi rodená Lešková,manžel Juraj	0	134,193,389,601,602,613,616,617,618,630,688,689,701,705,706,707,708,710
+2053	JANKANIČOVÁ Mária r. Ťukotová		0	114,517,601,602,613,616,617,618,630,688,689,701,705,706,707,708,710,735,736,738,774,909
+2053	JURAŠEKOVÁ Mária r. Anderková		0	688,689
+2053	Kačmár Jozef r. Kačmár, mal. mal.		0	791
+2053	KAČMAR Michal		0	37,38,122,354
+2053	KAMINSKÁ Mária r. Pelecháčová		0	102
+2053	KMECOVÁ Mária r. Cinová		0	673
+2053	Kočiš Ján r. Kočiš	asi otec Andrej K.,zomrel	0	37,38,147,354,455,457,461,516,601,602,613,615,616,617,618,630,688,689,701,705,706,707,708,710
+2053	Kočiš Ján r. Kočiš, asi o.Andrej K.,zomrel asi o.Andrej K.,zomrel		0	777
+2053	Kočiš Jozef	rodičia Ján 6.7.1937 a Anna r.Michalko	0	147
+2053	Kočiš Jozef	rodičia Ján a Anna r.Došová, Prešov	0	68
+2053	Kočiš Jozef r. Kočiš, rod.Ján a Anna r.Došová, Prešov rod.Ján a Anna r.Došová, Prešov		0	791
+2053	Koločiková Anna r. Janičková		0	37,38,114,354,517,601,602,613,616,617,618,630,688,689,701,705,706,707,708,710,735,736,738
+2053	KONDÁŠ Ján		0	102,273
+2053	KONDÁŠOVÁ Anna r. Fedorová		0	98,121,122,363,614,627,777,1057
+2053	KRAVIAROVÁ Mária r. Ťukotová		0	114,517,601,602,613,616,617,618,630,688,689,701,705,706,707,708,710,735,736,738
+2053	Leško Ján	otec Mikuláš	0	193,389,689
+2053	LEŠKOVÁ Mária r. Jankaničová		0	601,602,613,616,617,618,630,688,689,701,705,706,707,708,710
+2053	MAJIRSKÝ Ján		0	331,601,602,613,616,617,618,630,688,689,701,705,706,707,708,710,778,1026,1027,1028,1040
+2053	MAJIRSKÝ Michal		0	331,601,602,613,616,617,618,630,688,689,701,705,706,707,708,710,778,1026,1027,1028,1040
+2053	MARINČÁK Štefan		0	37
+2053	Maťaš Ján r. Maťaš	malotetý	0	670
+2053	Maťaš Juraj r. Maťaš	malotetý	0	670
+2053	MIHOKOVÁ Anna r. Sláviková		0	114,517,601,602,613,616,617,618,630,688,689,701,705,706,707,708,710,735,736,738
+2053	Mikolaj Jozef	otec Štefan	0	677
+2053	MIŽIČKO Ján		0	37,38,354
+2053	Mižičková Anna r. Onofrejová		0	38,191,353,354,361,601,602,613,616,617,618,630,688,689,701,705,706,707,708,710,919,1015,1016,1032
+2053	Neznámy		0	37,280
+2053	ONOFREJ Michal		0	37,38,39,339,346,354
+2053	Onofrej Michal r. Onofrej		0	245,777,968
+2053	ONOFREJOVÁ Anna r. Jankaničová		0	689
+2053	ONOFREJOVÁ Anna r. Jankaničová	alebo Janičková	0	245,336,346,601,602,613,616,617,618,630,688,701,705,706,707,708,710,715,716,717,718,719,720,761,762,1033,1034,1050
+2053	Onofrejová Anna r. Jankaničová, alebo Janičková alebo Janičková		0	773,774,778,817,969
+2053	ONOFREJOVÁ Anna r. Lazorová	muž Juraj	0	38,354
+2053	ONOFREJOVÁ Mária r. Onofrejová		0	867
+2053	ONOFREJOVÁ Mária r. Vašková		0	37
+2053	ONOFREJOVÁ Mária r. Vašková	zomrela,muž Peter	0	23,25,26,38,51,98,121,122,338,342,354,363,430,507,601,602,613,614,616,617,618,627,630,688,689,701,705,706,707,708,710,993,1057
+2053	Onofrejová Mária r. Vašková, zomrela,muž Peter zomrela,muž Peter		0	840,972
+2053	PANKUCHOVÁ Verona r. Cinová		0	673
+2053	Pelecháč Juraj	otec Štefan	0	331,601,602,613,616,617,618,630,688,689,701,705,706,707,708,710,1026,1027,1028,1040
+2053	Pelecháč Juraj r. Pelecháč, otec Štefan otec Štefan		0	775,962
+2053	Pelecháč Michal	otec Štefan	0	331,601,602,613,616,617,618,630,688,689,701,705,706,707,708,710,1026,1027,1028,1040
+2053	Pelecháč Michal r. Pelecháč, otec Štefan otec Štefan		0	775,962
+2053	Pelecháč Štefan	otec Štefan	0	331,601,602,613,616,617,618,630,688,689,701,705,706,707,708,710,1026,1027,1028,1040
+2053	Pelecháč Štefan r. Pelecháč, otec Štefan otec Štefan		0	775,962
+2053	Pelecháčová Anna	otec Štefan Pelecháč	0	331,601,602,613,616,617,618,630,688,689,701,705,706,707,708,710,1026,1027,1028,1040
+2053	PELECHÁČOVÁ Anna r. Mačová		0	331,601,602,613,616,617,618,630,688,689,701,705,706,707,708,710,775,962,1026,1027,1028,1040
+2053	Pelecháčová Anna, toto je rodné meno,o.Štefan toto je rodné meno,o.Štefan		0	775,962
+2053	PELECHÁČOVÁ Mária r. Petríková		0	962
+2053	Petrík Ján	rodičia Michal a Mária r.Semeši	0	601,602,613,616,617,618,630,688,689,701,705,706,707,708,710
+2053	Petrík Ján	syn Štefan	0	114,517,601,602,613,616,617,618,630,688,689,701,705,706,707,708,710,735,736,738
+2053	Petrík Juraj	asi mala dediť Anna Leško r.Petrík	0	114,517,601,602,613,616,617,618,630,688,689,701,705,706,707,708,710,735,736,738
+2053	Petrík Juraj r. Petrík, asi mala dediť Anna Leško r.Petrík asi mala dediť Anna Leško r.Petrík		0	803,959
+2053	PETRÍKOVÁ Anna r. Lešková	asi otec Juraj	0	37,245,336,346,601,602,613,616,617,618,630,688,689,701,705,706,707,708,710,715,716,717,718,719,720,761,762,1033,1034,1050
+2053	Petríková Anna r. Lešková, asi otec Juraj asi otec Juraj		0	784,803,917
+2053	PETRÍKOVÁ Mária r. Uličná		0	38,354
+2053	PISANIČ Andrej		0	37
+2053	POLÁK Andrej		0	601,602,613,616,617,618,630,688,689,701,705,706,707,708,710
+2053	REPKOVÁ Alžbeta r. Onofrejová		0	37,38,39,245,346,354
+2053	SABOLOVÁ Mária r. Sláviková		0	114,517,601,602,613,616,617,618,630,688,689,701,705,706,707,708,710,735,736,738
+2053	SASARÁKOVÁ Anna r. Fučová	otec Ján	0	37,38,102,185,354,601,602,613,616,630,689,705,708,1019
+2053	SASARÁKOVÁ Juliana r. Lojová		0	601,602,613,616,617,618,630,688,689,701,705,706,707,708,710
+2053	SLÁVIK Ján		0	114,517,601,602,613,616,617,618,630,688,689,701,705,706,707,708,710,735,736,738
+2053	SLÁVIK Juraj		0	114,517,601,602,613,616,617,618,630,688,689,701,705,706,707,708,710,735,736,738
+2053	SLÁVIK Michal		0	114,517,601,602,613,616,617,618,630,688,689,701,705,706,707,708,710,735,736,738
+2053	SLÁVIK Štefan		0	114,517,601,602,613,616,617,618,630,688,689,701,705,706,707,708,710,735,736,738
+2053	SLÁVIKOVÁ Mária r. Vašková	brat Ján	0	689
+2053	SLÁVIKOVÁ Verona		0	114,517,601,602,613,616,617,618,630,688,689,701,705,706,707,708,710,735,736,738
+2053	Sučka Andrej	mladší,neznámy,možno niektorý z iných	0	37,38,354
+2053	Sučka Ján	neviem ktorý,zomrel 4.9.1956	0	38,354
+2053	Sučka-Ťukot Michal	zomrel	0	37,38,39,97,102,103,354,475,601,602,613,616,617,618,630,688,689,701,705,706,707,708,710
+2053	Sučka-Ťukot Michal r. Sučka-Ťukot, zomrel zomrel		0	772,778,784,798,844,963
+2053	Sučko Andrej	starší	0	37,38,354
+2053	Sučko Andrej	zomrel,rodičia Jozef a Anna r.Sučko	0	84,98,475,1057
+2053	Sučko Andrej r. Sučko, zomrel,rod.Jozef a Anna r.Sučko zomrel,rod.Jozef a Anna r.Sučko		0	791
+2053	Sučko Emil	otec Juraj	0	37,38,39,60,272,340,341,343,344,354,601,602,613,616,617,618,630,701,705,706,707,708,710
+2053	Sučko Emil r. Sučko	otec Juraj	0	688,689
+2053	Sučko Emil r. Sučko, otec Juraj otec Juraj		0	778
+2053	Sučko Ján	zomrel,otec Andrej	0	38,102,147,354,455,457,461,516,601,602,613,615,616,617,618,630,688,689,701,705,706,707,708,710
+2053	Sučko Ján r. Sučko		0	37,38,53,354,386,388,453,459,478,584,601,602,613,616,617,618,630,688,689,697,699,701,702,705,706,707,708,709,710,1031
+2053	Sučko Ján r. Sučko, zomrel,otec Andrej zomrel,otec Andrej		0	768,865,964
+2053	Sučko Jozef	po Márii Daňo r.Kondoš	0	147
+2053	Sučko Jozef r. Sučko	po Márii Daňo r.Kondoš	0	455,457,461,516,601,602,613,615,616,617,618,630,688,689,701,705,706,707,708,710
+2053	Sučko Jozef r. Sučko, po Márii Daňo r.Kondoš po Márii Daňo r.Kondoš		0	768,964
+2053	SUČKO Michal		0	37,38,191,293,294,299,310,325,353,354,361,474,601,602,613,616,617,618,630,638,688,689,701,705,706,707,708,710,1015,1016,1032
+2053	Sučko Michal r. Sučko		0	793,794,804,805,817,826,969,1070
+2053	Sučková Anna r. Sučková	druhá zomrela	0	601,602,613,616,617,618,630,688,689,701,705,706,707,708,710
+2053	SUČKOVÁ Anna r. Sučková	zomrela	0	98,147,386,388,455,457,461,516,584,615,697,699,702,709,1057
+2053	Sučková Margita	rodné meno	0	147,455,457,461,516,601,602,613,615,616,617,618,630,688,689,701,705,706,707,708,710
+2053	Sučková Mária	neznáma	0	37,38,354
+2053	SUČKOVÁ Mária r. Lešková		0	37,53,54,453,459,478,578,601,602,613,616,617,618,630,688,689,701,705,706,707,708,710,778,1031
+2053	Šuťáková Helena	rodné meno	0	601,602,613,616,617,618,630,688,689,701,705,706,707,708,710
+2053	Šuťáková Johana	rodné meno	0	601,602,613,616,617,618,630,688,689,701,705,706,707,708,710
+2053	Šuťáková Katarína	rodné meno	0	601,602,613,616,617,618,630,688,689,701,705,706,707,708,710
+2053	Šuťáková Mária	rodné meno	0	601,602,613,616,617,618,630,688,689,701,705,706,707,708,710
+2053	TIMKOVÁ Alžbeta r. Ťukotová		0	114,517,601,602,613,616,617,618,630,688,689,701,705,706,707,708,710,735,736,738
+2053	TIMKOVÁ Paraska r. Bačová		0	784,966
+2053	TOMKOVÁ Anna r. Jusková		0	601,602,613,616,617,618,630,688,689,701,705,706,707,708,710
+2053	Ťukot Andrej	neznámy	0	617,688,701,706,710
+2053	Ťukot Andrej r. Ťukot, neznámy neznámy		0	798
+2053	Ťukot Ján		0	38,354
+2053	ŤUKOT Štefan		0	38,354
+2053	Ťukotová Alžbeta	rodné meno, možno niektorá z vydatých	0	601,602,613,616,617,618,630,688,689,701,705,706,707,708,710
+2053	ULIČNÁ Alžbeta		0	37,38,118,354,601,602,613,616,617,618,630,688,689,701,705,706,707,708,710,971,1060
+2053	URBARIÁT OBCE OKRUŽNÁ, 082 12, Okružná, SR		0	475,627
+2053	VAŠKO Ferenc		0	338
+2053	Vaško Ján	asi otec Andrej,brat Michal	0	601,602,613,616,617,618,630,688,689,701,705,706,707,708,710
+2053	Vaško Ján	neviem ktorý, sestra Mária	0	114,517,601,602,613,616,617,618,630,688,689,701,705,706,707,708,710,735,736,738
+2053	Vaško Michal	zomrel,otec Andrej, Okružná č.19	0	688,689
+2053	Vašková Mária r. Ťukotová		0	25
+2053	Vašková Mária r. Ťukotová	Okružná č.19	0	688,689
+2053	VERČIMÁKOVÁ Katerina r. Cinová		0	673
+2054	Babiková Alžbeta r. Sonoga		0	242
+2054	Bajerovský Pavol r. Bajerovský	Poráč 184, zom. 19.08.2001	0	833
+2054	Bakoš Ján r. Bakoš	michna	0	687
+2054	Bakoš Juraj r. Bakoš	michna	0	687
+2054	Bakoš Michal r. Bakoš	michna	0	687
+2054	Bakoš Ondrej r. Bakoš		0	687
+2054	Bakoš Ondrej r. Bakoš	michna	0	687
+2054	Bakoš Peter r. Bakoš		0	687
+2054	Bakoš Štefan r. Bakoš		0	687
+2054	Bakošová Helena r. Polkablová		0	687
+2054	Barbušová Katarína r. Hanuščinová		0	687
+2054	Belejová Mária r. Macalová		0	687
+2054	Bežila Imrich r. Bežila		0	73,312,808
+2054	Bežila Ján		0	495
+2054	Bežila Ján	žen.s Annou Uličnou	0	210
+2054	Bežila Ján r. Bežila		0	73,312,808
+2054	Bežila Juraj r. Bežila		0	312
+2054	Bežila Juraj r. Bežila	maloletý	0	73,808
+2054	Bežila Michal r. Bežila	manž.Anna r.Kočišová, zom. 24.09.1976	0	73
+2054	Bežilová Anna r. Dzurňaková	manžel Pavel, zom. 06.03.1953	0	444
+2054	Bilpuch Štefan r. Bilpuch		0	687
+2054	Cebula Gmiter r. Cebula		0	687
+2054	Cebula Ján r. Cebula	široký	0	687
+2054	Cebula Jozef r. Cebula		0	687
+2054	Cehula Ján r. Cehula	Klučarik	0	687
+2054	Cehulová Mária r. Kolesarová		0	687
+2054	Csáky Vidor r. Csáky	syn Vidora	0	805
+2054	Cvengroš Jozef r. Cvengroš		0	687
+2054	Čámerová Ágneš	maloletá	0	823
+2054	Čižmariková Alžbeta	maloletá	0	375,543
+2054	Čižmariková Marta	maloletá	0	375,543
+2054	Dolnačko Ján r. Dolnačko	syn Štefana	0	73
+2054	Dolnačko Štefan r. Dolnačko	syn Štefana	0	73
+2054	Domen Štefan		0	639,898
+2054	Domen Štefan r. Domen		0	816
+2054	Domen Štefan r. Domen	maloletý	0	801
+2054	Dubaš Ján r. Dubaš		0	687
+2054	Dubaš Jozef r. Dubaš		0	687
+2054	Dubaš Juraj r. Dubaš		0	687
+2054	Dubaš Peter r. Dubaš		0	687
+2054	Duraša Ondrej r. Duraša		0	687
+2054	Durica Gmiter r. Durica	Pajdik	0	687
+2054	Durica Ján r. Durica	Pajdik	0	687
+2054	Durica Jozef r. Durica	Pajdik	0	687
+2054	Durica Juraj r. Durica	Pajdik	0	687
+2054	Durica Michal r. Durica		0	687
+2054	Durica Peter r. Durica		0	687
+2054	Duricová Mária r. Havarinová		0	687
+2054	Durša Ján r. Durša	prostý	0	687
+2054	Durša Peter r. Durša		0	687
+2054	Dzurňák Matej r. Dzurňák		0	124,177,178
+2054	Dzurňáková Mária r. Dolná		0	124,177,178
+2054	Fabian Juraj r. Fabian	Dolina	0	687
+2054	Fiffik Demeter r. Fiffik	Poráč č.124, zom. 21.07.2010	0	705
+2054	Fifik Michal r. Fifik	pojda	0	687
+2054	FIFIK PAVEL		0	407,422
+2054	Fifik Pavel r. Fifik	syn Zuzany	0	310
+2054	Furman Jozef r. Furman	manž.Anna r.Staňová	0	844
+2054	Furman Štefan		0	60,736,737,738,739,740,741,742,937,938,939,940,941,942,943,944,945
+2054	Furmanová Anna r. Staňová	manžel Jozef	0	655,844
+2054	Gardošík Ján	2	0	808
+2054	Gardošík Ján r. Gardošík		0	73,312
+2054	Gardošík Pavel r. Gardošík	manž.Žofia r.Bežilová	0	73
+2054	Gardošík Pavol r. Gardošík	maloletý	0	73
+2054	Gardošík Pavol r. Gardošík	Osloboditeľov 55, Olcnava, zom. 11.11.2007	0	808

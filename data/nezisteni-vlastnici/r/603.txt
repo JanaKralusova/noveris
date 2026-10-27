@@ -1,0 +1,256 @@
+345	Balgová Helena r. Králiková, SR		0	623
+345	Balgová Helena, SR	Adam	0	753,1208,1209,1438,1439,1440,1740,1776
+345	Balgová Helena, SR	Kaluder	0	865
+345	Balgová Helena, SR	maloletá, Reti	0	684
+345	Balgová Katarína	maloletá	1	1573
+345	Balgová Katarína r. Balgová	gyuris, vdova	1	1618
+345	Balgová Katarína r. Balgová	vdova	1	542,1629
+345	Balgová Katarína r. Balgová, SR	Gyuris	0	572,573,746,969
+345	Balgová Katarína r. Balgová, SR	muž Martin	0	572,573,1203
+345	Balgová Katarína r. Balgová, SR	muž Štefan	0	1274,1963
+345	Balgová Katarína r. Balgová, SR	vdova	0	1163,1405
+345	Balgová Katarína r. Gyorgyová, SR	Barbolas	0	572,573,663,769,948,1168,1285
+345	Balgová Katarína r. Gyorgyová, SR	Barbolas, muž Pavel	0	948
+345	Balgová Katarína r. Gyorgyová, SR	muž Pavel	0	572,573
+345	Balgová Katarína r. Strichová, SR		0	1382
+345	Balgová Katarína r. Vidová, SR	muž Andrej	0	572,573
+345	Balgová Katarína r. Zaťková, SR	muž Štefan	0	572,573,823,892
+345	Balgová Katarína r. Zatyková	muž Štefan	1	1507
+345	Balgová Katarína r. Zatyková, SR	muž Štefan	0	1137,1138
+345	Balgová Katarína r. Zatyková, SR	Pici, muž Štefan	0	1080
+345	Balgová Katarína, SR		0	572,573,635,662
+345	Balgová Katarína, SR	Adam	0	1404,1964
+345	Balgová Katarína, SR	maloletá	0	572,573
+345	Balgová Katarína, SR	mladšia	0	1305
+345	Balgová Katarína, SR	muž Matias	0	916
+345	Balgová Margita	maloletá	1	1513
+345	Balgová Margita r. Blahová, SR	zomrela 15.6.2000	1	1702
+345	Balgová Margita r. Gyorgyová, SR		0	519
+345	Balgová Margita, SR	Adam	0	1159
+345	Balgová Margita, SR	Cserepes	0	782,1357,2049
+345	Balgová Margita, SR	Kaluder	0	865
+345	Balgová Margita, SR	Koser	0	572,573,778,1162,1344,1785
+345	Balgová Mária		1	1641
+345	BALGOVÁ Mária	r.Filipová m.Ján csicsa	1	1400
+345	BALGOVÁ Mária	r.Fonodová m.Ján	1	1656
+345	Balgová Mária r. Balgová		1	542,1591
+345	Balgová Mária r. Balgová	kande, alsok	1	653,669,1777,1957
+345	Balgová Mária r. Balgová	muž Michal Adam	0	572
+345	Balgová Mária r. Balgová	muž Michal, ádám	1	1696
+345	Balgová Mária r. Balgová	pici, barbolás	1	1682
+345	Balgová Mária r. Balgová, SR		0	378,543,916,1237,1328,1402,1404,1964
+345	Balgová Mária r. Balgová, SR	Kande	0	887
+345	Balgová Mária r. Balgová, SR	muž Adam Michal	0	572,573
+345	Balgová Mária r. Balgová, SR	muž Juraj	0	1404,1964
+345	Balgová Mária r. Balgová, SR	muž Michal	0	572,573,880,881,1786,1960
+345	Balgová Mária r. Balgová, SR	muž Michal Adam	0	573
+345	Balgová Mária r. Balgová, SR	muž Štefan	0	1458
+345	Balgová Mária r. Balgová, SR	Pici, Barbolas	0	908,963,1105
+345	Balgová Mária r. Balgová, SR	Pinces	0	782
+345	Balgová Mária r. Balgová, SR	Sotyir	0	991
+345	Balgová Mária r. Czellenková, SR	Gyuris	0	586
+345	Balgová Mária r. Filipová	muž Ján, csicsa	1	1692
+345	Balgová Mária r. Filipová, SR	muž Ján	0	592
+345	Balgová Mária r. Gyorgyová	muž Michal	1	1693
+345	Balgová Mária r. Gyorgyová, SR	muž Michal	0	1096
+345	Balgová Mária r. Jakabová	muž Jozef	1	1514,1516
+345	Balgová Mária r. Jakabová, SR		0	485,1107,1159
+345	Balgová Mária r. Jakabová, SR	Martin	0	1093,1132
+345	Balgová Mária r. Jakabová, SR	muž Jozef	0	510,511,572,573,609,753,864,1207,1240,1306,1438,1439,1446,1740,1743,1776,1967
+345	Balgová Mária r. Jakabová, SR	muž Jozef Simon	0	572,573
+345	Balgová Mária r. Jakabová, SR	Simon	0	772,1058,1160,1170,1942,2023
+345	Balgová Mária r. Jakabová, SR	Simon, muž Jozef	0	647
+345	Balgová Mária r. Zatyková, SR	Adam, muž Ján	0	572,573
+345	Balgová Mária r. Zatyková, SR	muž Juraj	0	752
+345	Balgová Mária, SR		0	512,662,707,1058,1104,1203,1277,1281,1305,1349,1398,1446,1973
+345	Balgová Mária, SR	Alsok	0	1239
+345	Balgová Mária, SR	mladšia	0	1031,1952,1972,2038
+345	Balgová Mária, SR	Simon	0	572,573,877,1744
+345	Balgová Mária, SR	Szita, muž Juraj	0	980
+345	Balgová Markéta, SR		0	1306
+345	Balgová Markéta, SR	Adam	0	647
+345	Balgová Rozália		1	1661
+345	Balgová Rozália	barbolás	1	1682,1715
+345	Balgová Rozália	pityko	1	1627
+345	BALGOVÁ Rozália	r.Jakabová	1	1698
+345	Balgová Rozália r. Balgová	kártos	1	542,1629
+345	Balgová Rozália r. Balgová	koser	1	1618
+345	Balgová Rozália r. Balgová	muž Jozef, alsok	1	1696
+345	Balgová Rozália r. Balgová, SR		0	881,1786,1960
+345	Balgová Rozália r. Balgová, SR	Cseri	0	934
+345	Balgová Rozália r. Balgová, SR	Kartos	0	1404,1405,1964
+345	Balgová Rozália r. Balgová, SR	Koser	0	572,573,746
+345	Balgová Rozália r. Balgová, SR	muž Jozef	0	1066
+345	Balgová Rozália r. Balgová, SR	muž Juraj	0	572,573,1242
+345	Balgová Rozália r. Balgová, SR	Punajsz	0	522,572,573,901,1956
+345	Balgová Rozália r. Balgová, SR	Szita	0	655
+345	Balgová Rozália r. Filipová, SR	muž Štefan	0	592
+345	Balgová Rozália r. Gyorgyová, SR	Pityko, muž Jozef	0	572,573
+345	Balgová Rozália r. Jakabová		1	686,1579,1645,1697
+345	Balgová Rozália r. Jakabová	muž Štefan	1	1514,1516,1827
+345	Balgová Rozália r. Jakabová	Punajsz	0	656,1443
+345	Balgová Rozália r. Jakabová	punajsz, jakabok	1	1513,1615
+345	Balgová Rozália r. Jakabová, SR		0	283,505,573,947,1031,1059,1106,1159,1172,1173,1357,1519,1779,1950,1952,1955,1965,1972,2038,2049
+345	Balgová Rozália r. Jakabová, SR	Jakabok	0	572,573
+345	Balgová Rozália r. Jakabová, SR	muž Štefan	0	572,573,685,753,768,770,807,864,871,931,1438,1439,1520,1740,1741,1742,1743,1776,1778,1940,1959,1966,1967,2048,2073
+345	Balgová Rozália r. Jakabová, SR	Punajsz	0	517,522,654,655,901,1916,1927,1954,1956
+345	Balgová Rozália, SR		0	662,1305,1398
+345	Balgová Rozália, SR	Barbolas	0	908,924
+345	Balgová Rozália, SR	Koser	0	778,1162,1344,1785
+345	Balgová Rozália, SR	Pityko	0	786
+345	Balgová Terézia r. Balgová, SR	muž Jozef	0	1398
+345	Balgová Terézia r. Benedeková, SR		0	1167
+345	Balgová Terézia r. Benedeková, SR	muž Michal	0	572,573,1324
+345	Balgová Verona		1	1580,1583
+345	Balgová Verona	maloletá	1	1573
+345	BALGOVÁ Verona	vd.r.Balgová m.b.Jozef	1	614,1884,1971
+345	Balgová Verona r. Balgová		1	1580,1583,1673
+345	Balgová Verona r. Balgová	madička, matyko	1	567,1580,1651
+345	Balgová Verona r. Balgová, SR		0	566,569,572,573,662,682,1055,1072,1305,1316,1949
+345	Balgová Verona r. Balgová, SR	Berenyi, muž Štefan	0	675,923
+345	Balgová Verona r. Balgová, SR	Madicka	0	568,572,573,1137,1316,1317
+345	Balgová Verona r. Balgová, SR	Madicka, muž Ján	0	1138
+345	Balgová Verona r. Balgová, SR	Matyko	0	572,573
+345	Balgová Verona r. Balgová, SR	muž Imrich	0	572,573,1242
+345	Balgová Verona r. Balgová, SR	muž Ján	0	562,563,1137,1352
+345	Balgová Verona r. Balgová, SR	muž Jozef	0	934
+345	Balgová Verona r. Balgová, SR	muž Juraj	0	1374
+345	Balgová Verona r. Balgová, SR	muž Štefan	0	1225,1275
+345	Balgová Verona r. Balgová, SR	Orvos	0	993
+345	Balgová Verona r. Balgová, SR	vdova, muž Jozef	0	1374
+345	Balgová Verona r. Bojtošová, SR		0	1190
+345	Balgová Verona r. Szitová, SR	muž Jozef	0	1257
+345	Balgová Verona r. Vidová, SR	muž Jozef	0	572,573
+345	Balgová Verona, 991 25, Čebovce, č. 121, SR	muž Jozef	0	1284
+345	Balgová Verona, SR		0	572,573,956,1072,1166,1196,1242,1269,1277,1316,1455,1973
+345	Balgová Verona, SR	Adam	0	1404,1964
+345	Balgová Verona, SR	Berenyi	0	481
+345	Balgová Verona, SR	mladšia	0	572,573,775,1274,1300,1795,1963
+345	Balgová Verona, SR	muž Meszaros	0	903
+345	Balgová Verona, SR	vdova	0	572,573
+345	Balgová Veronika, SR	muž Štefan	0	1083,1527
+345	Balgová Viktória r. Jakabová, SR		0	564
+345	Balgová Zlata r. Zatyková, SR	muž Štefan	0	572,573
+345	Balgová Zsofia r. Gyorgyová, SR	Matyko, muž Štefan	0	1072,1114,1289
+345	Balgová Zuzana r. Kladivíková	muž Matej	0	199,607,1494,1863
+345	Balgová Zuzana r. Kladivíková, SR	muž Matej	0	510,561,578,579,604,605,608,609,610,611,1249
+345	Balgová Zuzana r. Klagyiviková, SR	muž Matej	0	606
+345	Balgová Žofia	Kaluder	0	865
+345	Balko Michal, SR		0	1263
+345	Balla Martin, SR		0	572,573
+345	Ballová Alžbeta r. Klagyiviková, SR		0	1249
+345	Ballová Verona r. Gyorgyová, SR		0	572,573
+345	Ballová Verona r. Gyorgyová, SR	muž Bertalan	0	585,1246
+345	Bartok Ernest		1	1727
+345	Bartok Ernest, SR		0	572,619
+345	Bartók Eugen		1	1638,1727
+345	Bartok Eugen, SR		0	572
+345	Bartošová Barbora r. Zatyková, SR		0	572,573
+345	Batta Martin	žena Alžbeta r. Filippová	1	1568,1570,1844
+345	Battová Katarína r. Balgová, SR	muž Jozef	0	572,573
+345	Bauerová Irma r. Bucheltová, SR	muž Vojtech	0	1302,1453
+345	Beláková Mária, SR		0	572,573
+345	Benedek Imrich, SR		0	572,573,865
+345	Benedek Juraj, SR		0	1324
+345	Benedeková Mária, SR		0	572,573
+345	Berjanová Alžbeta r. Balgová, SR		0	1237
+345	Bernolák Ján	ž. Karolína r. Valterová	0	1303
+345	Bojtoš Imrich		1	1562,1686
+345	Bojtoš Imrich, SR		0	874,950,1043,1045,1081,1146,1190
+345	Bojtoš Ján, SR		0	1045,1190,1297
+345	Bojtoš Ondrej, SR		0	1045
+345	Bojtoš Štefan, SR		0	1044,1045,1190,1297
+345	Bojtošová Alžbeta, SR		0	1045
+345	Bojtošová Katarína r. Gyorgyová	muž Štefan	1	1671
+345	Bojtošová Katarína r. Gyorgyová, SR		0	1121
+345	Bojtošová Katarína r. Gyorgyová, SR	muž Štefan	0	572,573,608,609,904,1240,1354,1451,1948
+345	Bojtošová Katarína, SR		0	1044
+345	Bojtošová Mária r. Balgová		1	1530,1586
+345	Bojtošová Mária r. Filipová, SR	muž Štefan	0	1260
+345	Bojtošová Mária, SR		0	1044
+345	Bojtošová Verona, SR		0	1297
+345	Bombala Ján, SR		0	510,578,579,605,608
+345	Bombala Martin, SR		0	606
+345	Bombala Ondrej, SR		0	199,561,604,607,609,610,1249,1494,1863
+345	Bombala Pavel, SR		0	199,510,579,605,607,1494,1863
+345	Bombala Pavol, SR		0	578,608
+345	Bombalová Mária, SR		0	199,561,607,1494,1863
+345	Bombalová Mária, SR	mladšia	0	604
+345	Bombalová Markéta, SR		0	510,578,579,605,608
+345	Bombalová Paulína r. Fekiačová, SR		0	199,510,561,579,604,605,607,608,609,610,1249,1494,1863
+345	Bombalová Rozália, SR		0	199,607,1494,1863
+345	Buchelt Burkhard, SR		0	1302,1453
+345	Buchelt Gustav, SR		0	1453
+345	Buchelt Gusztav, SR		0	1302
+345	Buchelt Vojtech, SR		0	1302,1453
+345	Burjanová Alžbeta r. Balgová, SR		0	1328
+345	Buzaghová Hermína r. Bucheltová, SR	muž Vojtech	0	1302,1453
+345	Celengová Margita r. Balgová, SR	Žofa	0	894
+345	Celenk Jozef, SR		0	629,1383
+345	Celenk Jozef, SR	maloletý	0	572,573
+345	Celenková Alžbeta r. Battaová, SR		0	1373
+345	Celenková Alžbeta r. Battavá, SR		0	593
+345	Celenková Barbora		1	1669
+345	Celenková Barbora, SR		0	837,1069,1373
+345	Celenková Helena	maloletá	1	628
+345	Celenková Helena, SR		0	629
+345	Celenková Mária, SR		0	593,1373
+345	Celenková Verona, SR		0	623,629
+345	Celenková Viktória, SR		0	593,1373
+345	Cellengová Margita r. Balgová	zsofa	1	542
+345	Cellenk Jozef	mladší	1	628
+345	Cellenk Jozef, SR	mladší	0	624,625,626
+345	Cellenková Barbora, SR		0	572,573
+345	Cellenková Barbora, SR	Kispalya	0	903
+345	Cellenková Rozália r. Gyorgyová	muž Martin	1	1707
+345	Cellenková Rozália r. Gyorgyová, SR	muž Martin	0	1114
+345	Cellenková Verona		1	628
+345	Cellenková Verona, SR		0	572,573,624,625,626,627,677
+345	Cellenková Veronika, 991 25, Čebovce, SR		0	572,573,1022
+345	Cibuľa Michal		1	1722
+345	Ciegerová Emília r. Hajnalová, SR		0	572,573
+345	Cseri Alojz, SR		0	1337
+345	Cseri Jozef, SR		0	1337
+345	Csikosová Verona r. Györgyová	muž Štefan	1	61
+345	Csikosová Verona r. Gyorgyová, SR	muž Štefan	0	1017
+345	Czelleng Jozef, SR		0	590,1366
+345	Czellenk Jozef		1	1556
+345	Czellenk Jozef, SR		0	1063
+345	Czellenk Jozef, SR	Kispalya	0	519
+345	Czellenková Alžbeta r. Baňa	vdova	1	1592
+345	Czellenková Alžbeta r. Battová, SR		0	1063
+345	Czellenková Anna, 991 25, Čebovce, SR		0	572,573
+345	Czellenková Mária, SR		0	572,573,586
+345	Czellenková Rozália r. Balgová, SR		0	592
+345	Czellenková Rozália r. Gyorgyová, SR	muž Martin	0	1289
+345	Czellenková Verona r. Gyorgyová		1	1693
+345	Czellenková Verona r. Gyorgyová	muž Štefan	1	1592
+345	Czellenková Verona r. Gyorgyová, 991 25, Čebovce, SR		0	1096
+345	Czellenková Verona r. Gyorgyová, SR	muž Štefan	0	1063
+345	Czellenková Verona, SR		0	631,1012
+345	Czellenková Viktoria	maloletá	1	1592
+345	Czellenková Viktória, SR		0	572,573,586,1063
+345	Doman David, Balassagyarmat, Maďarsko		0	572,573,1132,1210,1211,1792
+345	Donau David, Balassagyarmat, Maďarsko		0	572,573
+345	Elfer Ignác, SR		0	1372
+345	Elfer Martin, SR		0	868
+345	Elfer Mozes, SR		0	1371
+345	Elfer Odon, SR		0	1372
+345	Fabriczyová Oľga r. Bucheltová, SR		0	1453
+345	Fabryczyová Oľga r. Bucheltová	muž Lajoš	0	1302
+345	Filip Alexander, SR		0	535
+345	Filip Alexander, SR	maloletý	0	572,573
+345	Filip Ján, Kosihovce, SR	maloletý	1	1668
+345	Filip Ján, SR		0	1291
+345	Filip Ján, SR	Zofa	0	572,573
+345	Filip Juraj	ž. Agnesa r. Balgová	0	1292
+345	Filip Juraj, SR		0	1086
+345	Filip Juraj, SR	maloletý	0	572,573
+345	Filip Ľudovít	maloletý	1	1668
+345	Filip Pavel, SR		0	1086,1132
+345	Filip Štefan, SR	žena Rozália r. Gyorgyová	0	572,573
+345	Filipová Alžbeta, SR	mladšia	0	1291
+345	Filipová Andela r. Celenková, SR		0	572,573
+345	Filipová Angela r. Czelenková, SR	muž Ján	0	585,1246
+345	Filipová Angyela, SR	maloletá	0	572,573
+345	Filipová Barbora r. Balgová	réti	1	1667

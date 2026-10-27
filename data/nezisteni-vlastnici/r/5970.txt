@@ -1,0 +1,256 @@
+3365	ŠPIK Michal	zomrel MiŠ	1	679,680,681,703,905
+3365	ŠPIKOVÁ Mária	zomrela MáŠ	1	679,680,681,703,905
+3365	ŠRAGOVÁ Helena	r ŽUKOVIČOVÁ zomrela MiŠ	1	508
+3365	TEPLICKÁ Anna	r ŠPIKOVÁ ČR	1	615
+3365	TUHANIN Jozef	zomrel MáP	1	679,680,681,703,905
+3365	ULMAN Jakub		1	679,680,681,703,905
+3365	VAŇUŠANÍK Ján	zomrel MáL	1	679,680,681,703,905
+3365	VAŇUŠANÍK Ján	zomrel MáV	1	679,680,681,703,905
+3365	VAŇUŠANÍK Ján	zomrel MiV	1	679,680,681,703,905
+3365	VAŇUŠANÍK Ján	zomrel PeV	1	679,680,681,703,905
+3365	VAŇUŠANÍK Michal	SEMANIŠIN zomrel MiP	1	505,712,908
+3365	VAŇUŠANÍK Peter		1	505,712,908
+3365	VAŇUŠANÍK Peter	zomrel MiP	1	505,712,908
+3365	VAŇUŠANÍKOVÁ Helena	zomrela JáP	1	679,680,681,703,905
+3365	VAŇUŠANÍKOVÁ Mária	zomrela MáL	1	679,680,681,703,905
+3365	VIŇAR Ján	zomrel JáV	1	670,672,674,675,678,717,719,720,721,865,866,867,913
+3365	VIŇAROVÁ Mária	zomrela	1	710
+3365	VYŠNÝ MIROŠOV - VYŠNÝ MIROŠOV-OÚ VO VYŠNOM MIROŠOVE, č.d., 090 11 Vyšný Mirošov, SR		0	490,568,670,672,674,675,678,685,717,719,720,721,736,814,831,837,838,839,865,866,867,913
+3365	WEILOVÁ Lina	r HERCOVÁ	1	684
+3365	ZAHURSKÁ Anna	r HIRČKOVÁ	1	514
+3365	ZOZUM Jozef		1	718
+3365	ZOZUMOVÁ Eva	r CHUDÍKOVÁ	1	631,676,904
+3365	ZUBRICKÁ Gizela	r KENDROVSKÁ zomrela DuP	1	645,691
+3365	ŽAK Ján	Roztoky	1	521,679,680,681,693,703,905
+3365	ŽAK Jozef	zomrel HeP	1	679,680,681,703,905
+3365	ŽAK Jozef	zomrel MiŽ	1	513,528,670,672,674,675,678,717,719,720,721,865,866,867,913
+3365	ŽAK Jozef	zomrel PeŽ	1	461,464,610
+3365	ŽAK JOZEF		0	743
+3365	ŽAK Juraj	ml zomrel AnK	1	461,679,680,681,703,905
+3365	ŽAK Juraj	st zomrel AnK	1	461,464,679,680,681,703,905
+3365	ŽAK Juraj zomrel		1	453
+3365	ŽAK Michal	zomrel HeP	1	543
+3365	ŽAK Michal	zomrel MáK	1	679,680,681,703,905
+3365	ŽAK MICHAL		1	543
+3365	ŽAK Mikuláš	zomrel AnŽ	1	670,672,674,675,678,717,719,720,721,865,866,867,913
+3365	ŽAK Peter	zomrel JoŽ	1	452,453,467,584,614,688,917
+3365	ŽAK Peter	zomrel MáŽ	1	679,680,681,703,905
+3365	ŽAK Peter	zomrel PeŽ	1	524,534,679,680,681,703,761,905,919
+3365	ŽAK PETER	zomrel MáH	1	514
+3365	ŽAKOVÁ Anastázia	r PILIPOVÁ	1	464,619,670,672,674,675,678,679,680,681,703,717,719,720,721,865,866,867,899,902,905,913
+3365	ŽAKOVÁ Anna	zomrela PeŽ	1	679,680,681,703,905
+3365	ŽAKOVÁ Mária	r HRICIŠINOVÁ zomrela MiŽ	1	461,464,528
+3365	ŽAKOVÁ Mária	r HRICIŠINOVÁ zomrela PeŽ	1	610
+3365	ŽAKOVÁ Mária	zomrela AnV	1	464
+3366	Balážová	muž Jozef	0	1253,1727
+3366	Balážová A	Muž Jozef	1	1198,1254
+3366	Bálint Andrej		1	950,956,957,1061,1075,1162,1166,1177,1210,1212,1255,1439
+3366	Bálint Ondrej r. Bálint		0	100
+3366	Bálint Vincent r. Bálint, Košické Oľšany 16, Košické Olšany, PSČ 044 42, SR	14.10.1918	0	1187,1219
+3366	Bálintová	muž Andrej	0	1727
+3366	Bálintová A	Muž Andrej	1	1198,1253,1254
+3366	Bálintová Anna r. Nagyová		1	989
+3366	Balla Mária r. Palková		1	1071
+3366	Balog Ľudovít		1	966
+3366	Balogová Mária r. Lesková		1	966
+3366	Bandrej Imrich		1	1255
+3366	Bandrej Jan		1	1255
+3366	Behunová Mária r. Mihoková		1	1255
+3366	Bereš Ján	manželka Anna Fazekašová	0	1255
+3366	Borgoňová Alžbeta		0	959
+3366	Cibuľova Barbora r. Fazekášová		1	1284
+3366	Čukáš František r. Čukáš, Košické Oľšany 84, Košické Olšany, PSČ 044 42, SR	05.10.1915	1	1168
+3366	Fazekáš Andrej		1	1293
+3366	Fazekášová Barbora r. Gregová		1	1293
+3366	Gazdagová Alžbeta		1	1267
+3366	Horňák Imrich		1	1255
+3366	Hrehorová Alžbeta r. Homová		1	1277
+3366	Hudák Jakub		1	1255
+3366	Hudák Jakub	Košické Olšany 04441 Košické Olšany	1	1200
+3366	Janočko Michal		1	971
+3366	Janočko Ondrej		1	971
+3366	Janočková Mária r. Čukášová		1	1001,1047,1215,1223,1238,1255
+3366	Kaduk František		1	1058
+3366	Kaduk Michal		1	1198,1253,1254,1727
+3366	Kiss Soma		1	1267
+3366	Kover Dorčo Jozef		1	1290
+3366	Köver Michal		1	1280
+3366	Kover-Martoň Juraj		1	1270
+3366	Kover-Martoň Štefan		1	1270
+3366	Köverová Alžbeta r. Kovaľová	manž. Ján dorčo	1	1291
+3366	Köverová Alžbeta r. Kovaľová	manžel Ján dorčo	1	1291
+3366	Köverová Barbara	:dorcsó:	1	1291
+3366	Kucharik Jozef r. Kucharik, Zipcany 114, Zipcany, SR		1	1048,1150,1151
+3366	Kucharik Jozef, Zipcany, č. 114, SR		1	1167,1255
+3366	Lengyelová Alžbeta r. Nagyová		1	1267
+3366	Matúš Andrej		1	1198,1253,1254,1727
+3366	Miková Alžbeta r. Borgoňová		0	959
+3366	Mohler Jozef		1	1235
+3366	Mohlerová Mária r. Piseková		1	1235
+3366	Mudrá Iveta r. Rošková, Berlinska 15, Košice, PSČ 040 01, SR		1	1493
+3366	Mudrá Iveta r. Rošková, Berlínska 15, Košice, PSČ 040 13, SR		0	988
+3366	Nagyová Alžbeta		1	1198,1253,1254,1727
+3366	Nagyová Alžbeta r. Szemanová		1	1267
+3366	Obšitniková Mária r. Nagyová		1	1267
+3366	Pereš Andrej		1	1255
+3366	Perešová Alžbeta r. Sedláková		1	1031,1088,1148,1863
+3366	Rybárová Anna		1	1151,1255
+3366	Rybárová Mária r. Lengyová		1	1143,1255
+3366	Rybárová Mária r. Rybárová		1	1255
+3366	Sedlák Ondrej	starší	1	1255
+3366	Seliga Tomáš		0	955
+3366	Semanová Mária r. Koverová		1	1288
+3366	Šároši Andrej		1	1090
+3366	Šárošiová Anna r. Šuchtová		1	1181
+3366	Štoffová Alžbeta r. Köverová		1	1291
+3366	Švekušová Mária r. Balogová		1	1255
+3366	Takáč František		1	1058
+3366	Takáč Imrich		1	1118,1222,1245
+3366	Takáč Ján		0	1141
+3366	Takáč Ján	zomrel 14.03.1958	0	1255
+3366	Takáč Ján r. Takáč		0	947
+3366	Takáčová Mária r. Lovasová		1	1118,1222
+3366	Toth Ján		1	1255
+3366	Toth Ondrej		1	984
+3366	Tothová	muž Ján	0	1727
+3366	Tothová A	Muž Ján	1	1198,1253,1254
+3366	Tothová Alžbeta r. Šeligová		1	1109
+3366	Varga Andrej		1	1158,1255
+3366	VARGA MICHAL r. VARGA		0	1449
+3366	Vargová Júlia		1	1168
+3366	Vargová Margita		1	7,1006,1019
+3366	Vargová Margita /SPF/		1	1431,1432,1450
+3366	Zátorský Štefan		1	1255
+3367	ARTIM Peter		1	281,404,613,630,669
+3367	ARTIMOVÁ Helena		1	281,404,613,630,669
+3367	BAČÍK Michal		1	281,418,613,630,669
+3367	BAČÍK Michal	1	1	281,418,613,630,669
+3367	BAČOVÁ Anna		1	103,281,613,630,669
+3367	BAGAN Ján		1	306
+3367	BAGAN Jozef	zomrel JoD	1	493,494
+3367	BARNA Ján	zomrel	1	493,494
+3367	BARNA Jozef	zomrel	1	493,494
+3367	BARNOVÁ Mária	r POPOVIČOVÁ zomrela	1	493,494
+3367	BEKEROVÁ Helena	r.Korindová	1	281,425,613,630,669
+3367	BEREŽNÁ Mária	r HARVIŠOVÁ zomrela	1	493,494
+3367	BEREŽNÁ Mária	r MAGNUSOVÁ zomrela	1	493,494
+3367	BEREŽNÝ Fedor	zomrel AnH	1	493,494
+3367	BEREŽNÝ Fedor	zomrel PeB	1	493,494
+3367	BEREŽNÝ Peter	zomrel PeB	1	493,494
+3367	BILÁ Helena	r.Čerepová,muž Ján,zomrela	1	506,507
+3367	BILÁ Mária	r.Basarová,zomrela	1	506,507
+3367	BILANIN Ján	MAGNUS zomrel	1	493,494
+3367	BILANIN Peter	MAGNUS zomrel JoB	1	493,494
+3367	BILANIN Peter	zomrel JoB	1	493,494
+3367	BILANIN Vasiľ	zomrel	1	493,494
+3367	BILANINOVÁ Anna	zomrela	1	493,494
+3367	BILANINOVÁ Hanuša	zomrela JoB	1	493,494
+3367	BILANINOVÁ Helena	MAGNUSOVÁ zomrela	1	493,494
+3367	BILANINOVÁ Helena	zomrela JoB	1	493,494
+3367	BILANINOVÁ Júlia	zomrela	1	493,494
+3367	BILANINOVÁ Mária	zomrela	1	493,494
+3367	BODNÁROVÁ Helena	r.Jurčišinová,zomrela	1	506,507
+3367	BODNÁROVÁ Mária		1	506,507
+3367	BUBEN Ján	zomrel	1	493,494
+3367	BUČKOVÁ Anna	r.Harvilová	1	474
+3367	CUPER Ján		1	281,400,613,630,669
+3367	CUPER Jozef		1	281,422,613,630,669
+3367	CUPEROVÁ Anna	r.Lukáčová	1	281,410,613,630,669
+3367	CUPEROVÁ Mária		1	281,422,613,630,669
+3367	ČIČVAROVÁ Anna	r.Vapnárová,zomrela	1	506,507
+3367	DŽUPIN Michal		1	281,613,630,669
+3367	DŽUPIN Michal	1	1	281,613,630,669
+3367	DŽUPINOVÁ Helena	r KESELICOVÁ zomrela	1	493,494
+3367	DŽUPINOVÁ Mária		1	281,335,428,613,630,648,669
+3367	FECANIN Juraj		1	286
+3367	FECENKO Demeter		1	506,507
+3367	FECENKO Demeter	Vovk	1	506,507
+3367	FECENKO Ján	Vovk,zomrel	1	506,507
+3367	FECENKOVÁ Anna	r.Vovková	1	506,507
+3367	FECENKOVÁ Ilona	r.Vovková	1	506,507
+3367	FEJKOVÁ Helena		1	281,410,613,630,669
+3367	FEJKOVÁ Júlia		1	281,410,613,630,669
+3367	FEŇOVÁ Anna	r.Pajzinková	1	506,507
+3367	FISCHER Áron		1	493,494
+3367	FISCHEROVÁ Hermína	r LILINGOVÁ	1	493,494
+3367	FISCHEROVÁ Sára		1	493,494
+3367	FRIEDMANN Haskel		1	493,494
+3367	FRIEDMANN Jakub		1	493,494
+3367	GIBA Michal	Miskiv	1	281,290,435,437,613,630,669
+3367	GIBOVÁ Anna	r.Vilhovská	1	281,435,613,630,669
+3367	GIBOVÁ Anna	r.Vilchovská	1	281,458,613,630,669
+3367	GIBOVÁ Helena	r.Miškivová	1	281,437,613,630,669
+3367	GIBOVÁ Mária	r.Hladká	1	281,458,613,630,669
+3367	GOLDMANN Markuš		1	493,494
+3367	GREŠKOVIČ Juraj		1	281,433,613,630,669,685
+3367	GREŠKOVIČ Michal		1	281,433,439,613,630,669,685
+3367	GREŠKOVIČ Michal	1	1	281,433,613,630,669,685
+3367	GREŠKOVIČOVÁ Mária		1	281,613,630,669
+3367	GUTTMANNOVÁ Etela	r FISCHEROVÁ	1	493,494
+3367	HAKUN Peter		1	281,433,613,630,669,685
+3367	HAKUNOVÁ Helena	r.Lukáčová	1	281,410,613,630,669
+3367	HARVILA Andrej	USA	1	474
+3367	HARVILA Eliáš	ž.Mária Jurášová	1	474
+3367	HARVILA Ján	ž.Anna,Kolibaba,USA	1	474
+3367	HARVILA Jozef	USA	1	474
+3367	HARVILA Michal	ž.Mária Iľkaninová,USA	1	474
+3367	HARVILA Štefan	USA	1	474
+3367	HARVILLOVÁ Mária	r.Lukáčová	1	281,410,613,630,669
+3367	HAVRIŠ Jozef	zomrel MáH	1	493,494
+3367	HAVRIŠ Jozef	zomrel MiH	1	493,494
+3367	HIČÁR Andrej	zomrel,2	1	506,507
+3367	HIČÁR Gregor		1	506,507
+3367	HIČÁR Ján	1	1	506,507
+3367	HIČÁR Jozef	2,zomrel	1	506,507
+3367	HIČÁR Ondrej	zomrel	1	506,507
+3367	HIČÁROVÁ Anna	1	1	506,507
+3367	HIČÁROVÁ Anna	r.Krišková,zomrela	1	506,507
+3367	HIČÁROVÁ Anna	r.Marusinová,m.Juraj,zomrela	1	506,507
+3367	HIČÁROVÁ Anna	r.Žukovičová	1	506,507
+3367	HIČÁROVÁ Helena	zomrela	1	506,507
+3367	HIČÁROVÁ Mária		1	506,507
+3367	HIČÁROVÁ Mária	r.Hvizdová,zomrela	1	506,507
+3367	HIČÁROVÁ Terézia	r.Marusinová,m.Jozef,zomrela	1	506,507
+3367	HORKAVÝ Jozef		1	506,507
+3367	HOROCHONIČ Michal		1	298,678
+3367	HOROCHONIČOVÁ Mária	r SKIRKOVÁ zomrela	1	493,494
+3367	HOROCHONIČOVÁ Mária	r.Rudyová	1	144
+3367	HRICIŠIN Andrej	zomrel	1	506,507
+3367	HRICIŠIN Ján		1	293
+3367	HVAST Jozef		1	281,408,613,630,669
+3367	HVASTOVÁ Mária	r.Kosťová,vd	1	281,408,613,630,669
+3367	HVIZD Andrej	zomrel,2	1	506,507
+3367	HVIZD Demeter	zomrel	1	506,507
+3367	HVIZDOVÁ Anna	3	1	506,507
+3367	HVIZDOVÁ Anna	r.Polívková	1	506,507
+3367	HVIZDOVÁ Helena	2	1	506,507
+3367	HVIZDOVÁ Mária	2,zomrela	1	506,507
+3367	HVIZDOVÁ Mária	3,zomrela	1	506,507
+3367	HVIZDOVÁ Terézia		1	506,507
+3367	CHUDÍK Andrej	1	1	506,507
+3367	CHUDÍKOVÁ Helena	1	1	506,507
+3367	JACENKO Demeter	Vovk	1	506,507
+3367	JACENKO Ján	Vovk	1	506,507
+3367	JACENKOVÁ Anna	Vovková	1	506,507
+3367	JACENKOVÁ Ilona	Vovková	1	506,507
+3367	JACKANIN Ján	1	1	506,507
+3367	JACKANINOVÁ Ilona		1	506,507
+3367	KAČUHA Andrej		1	281,448,613,630,665,667,669
+3367	KAČUHA Michal		1	281,448,613,630,665,667,669
+3367	KANČUHA Andrej		1	285
+3367	KANČUHA Michal		1	285
+3367	KANČUCHA Ján		1	285
+3367	KANČUCHA Savko Pavel		1	285
+3367	KAROL Demeter	6	1	506,507
+3367	KAROL Michal	2	1	506,507
+3367	KAROLOVÁ Anna	2,zomrela	1	506,507
+3367	KAROLOVÁ Helena	zomrela	1	506,507
+3367	KAROLOVÁ Mária	zomrela	1	506,507
+3367	KAROLY Peter	zomrel	1	506,507
+3367	KEKEĽ Jozef		1	506,507
+3367	KESELICA Jozef	zomrel JoK	1	493,494
+3367	KESELICOVÁ Anízia	r.Varcholová	1	291
+3367	KESELICOVÁ Hanusa	r.Varcholová	1	291
+3367	KESELICOVÁ Hanuša	r SKIRKOVÁ zomrela MáH	1	493,494
+3367	KESELICOVÁ Hanuša	r VARHOLOVÁ zomrela MáŽ	1	493,494
+3367	KESELICOVÁ Helena	r HAVRIŠOVÁ zomrela	1	493,494

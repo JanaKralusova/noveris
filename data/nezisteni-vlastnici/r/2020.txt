@@ -1,0 +1,256 @@
+1189	Slanina Kamil		0	956
+1189	Slanina Michal		0	951
+1189	Slanina Pavol	žen.Mária rod.Dodáková	0	101,919,937,1063
+1189	Slanina Pavol r. Slanina	žen.Mária rod.Dodáková	0	1089
+1189	Slanina Pavol r. Slanina, ž.M.Dodáková ž.M.Dodáková		0	1342
+1189	Slaninová Emília r. Matušková		0	956,1167
+1189	Slaninová Helena		0	101,919,937,951,1063
+1189	Slaninová Helena r. Slaninová		0	1089,1162,1342
+1189	Slaninová Jozefína		0	101,919,937,951,964,1063
+1189	Slaninová Jozefína r. Slaninová		0	1089,1277,1342
+1189	Slaninová Katarína r. Piatriková		0	512
+1189	Slaninová Mária		0	101,919,937,951,1063
+1189	Slaninová Mária r. Slaninová		0	1089,1287,1342
+1189	Slašťanová Mária r. Piatriková		0	512,917,919,1063,1066,1089,1152,1342
+1189	Slašťanová Rozália r. Forgáčová		0	1104
+1189	Slašťanová Terézia r. Beličková		0	1104
+1189	Srnková Rozália r. Žbirková		0	1104
+1189	Šino Jozef r. Šino, zomrel 19.08.2004, Žiar nad Hronom zomrel 19.08.2004, Žiar nad Hronom		0	1104
+1189	Štefanidesová Božena r. Ivanová, zomrela 30.09.2006, Budča zomrela 30.09.2006, Budča		0	1208,1342
+1189	Švec Jozef		0	123,911
+1189	Švec Jozef r. Švec		0	1261
+1189	Švecová Alžbeta		0	1090
+1189	Švecová Alžbeta r. Cepláková		1	796,919,971,1063,1089,1098,1120,1342
+1189	Švecová Emília r. Krausová		0	796,919,973,1033,1063,1089,1222,1342
+1189	Švecová Paulína		0	1090
+1189	Švecová Paulína r. Cepláková		0	796,919,971,1063,1089,1311,1342
+1189	Švecová Pavlína r. Cepláková		1	1098
+1189	Trokšiar Ján	ž.H.Homolová	0	123,955,970,973,1359
+1189	Trokšiar Ján r. Trokšiar		0	1139
+1189	Trokšiar Ján r. Trokšiar, ž.H.Homolová ž.H.Homolová		0	1149
+1189	Trokšiar Štefan		0	123,919,955,970,973,1063,1359
+1189	Trokšiar Štefan r. Trokšiar		0	1089,1187,1342
+1189	Trokšiarová Anna		0	804,919,948,965,1063
+1189	Trokšiarová Anna r. Kapustová		0	1102,1155
+1189	Trokšiarová Anna r. Trokšiarová		0	1089,1102,1294,1342
+1189	Trokšiarová Cecília r. Krajčovičová		0	1199
+1189	Trokšiarová Elena r. Piatriková		0	512,917,919,1063,1066,1089,1180,1342
+1189	Trokšiarová Paulína		0	804,919,948,1063
+1189	Trokšiarová Paulína r. Trokšiarová		0	1089,1267,1268,1342
+1189	Urgela Ambróz r. Urgela		0	1104
+1189	Urgela Andrej r. Urgela, ž.F.Žbirková ž.F.Žbirková		0	1104
+1189	Urgela Jozef r. Urgela, zomrel 21.10.2001, Trnavá Hora zomrel 21.10.2001, Trnavá Hora		0	1104
+1189	Urgela Štefan r. Urgela		0	1104
+1189	Urgelová Alojzia r. Kapustová		0	1104
+1189	Urgelová Anna r. Repiská		0	1104
+1189	Urgelová Františka r. Žbirková		0	1104
+1189	Urgelová Júlia r. Astlová		0	1104
+1189	Urgelová Mária r. Kapustová		0	1104
+1189	Valko Martin r. Valko		0	1104
+1189	Valko Michal r. Valko, ž.V.Forgáčová ž.V.Forgáčová		0	1104
+1189	Valková Veronika r. Forgáčová		0	1104
+1189	Vonkomarová Mária r. Mališová		0	955
+1189	Vonkomerová Mária r. Mališová		0	1258
+1189	Vonkomerová Rozália r. Mališová		0	955,1317
+1189	Žbirka František r. Žbirka		0	1104
+1189	Žbirka Lukáš r. Žbirka		0	1104
+1189	Žbirka Michal r. Žbirka, ž.V.Forgáčová ž.V.Forgáčová		0	1104
+1189	Žbirková Anna r. Žbirková		0	1104
+1189	Žbirková Filoména r. Brhlíková, zomrela 13.10.2014, Jalná zomrela 13.10.2014, Jalná		0	1100,1104
+1189	Žbirková Forgáčová Alojzia r. Slašťanová		0	1104
+1189	Žbirková Jolana r. Žbirková		0	1104
+1189	Žbirková Margita r. Pokorádiová, Novomeského 7/33, Žiar nad Hronom, PSČ 965 01, SR		0	1028
+1189	Žbirková Monika r. Žbirková		0	1104
+1189	Žbirková Veronika r. Forgáčová		0	1104
+1189	Žbirková Veronika r. Žbirková		0	1104
+1189	Žitniaková Mária r. Kollárová		0	1104
+1190	ADAMCOVA AGNESA r. DUBCOVA, SR		0	301
+1190	ADAMCOVÁ Agneša r. Dubcová		0	273,471,501
+1190	ADAMCOVÁ Anna		0	273,471,501
+1190	ADAMCOVÁ Anna	Konská	0	529
+1190	ADAMCOVÁ Magdaléna r. Nováková	Žabec-Šaratice	0	273,471,501
+1190	ADAMCOVA MAGDALENA r. NOVAKOVA, SR		0	237,284,314,412,413,678
+1190	ADAMCOVÁ Mária		0	273,471,501
+1190	ADAMCOVÁ Mária	Konská	0	529
+1190	ADAMEC Blažej r. Adamec	Zvonár, m.Apolónia r. Bukanová	0	520
+1190	ADAMEC František r. Adamec		0	529
+1190	ADAMEC Ján r. Adamec	m.Magdaléna r.Nováková	0	519
+1190	ADAMEC JAN, SR		0	300
+1190	ADAMEC Jozef r. Adamec		0	273
+1190	ADAMEC Jozef r. Adamec	Konská	0	529
+1190	ADAMEC Jozef r. Adamec	pkv 3	0	471,501
+1190	ADAMEC Ladislav r. Adamec	Konská č.11	0	518
+1190	ADAMEC Ladislav r. Adamec	m.Anna	0	530
+1190	ADAMEC Ladislav r. Adamec	v Čechách	0	273,471,501
+1190	ADAMEC LADISLAV, ČR		0	289
+1190	ADAMEC Lukáč r. Adamec		0	273,471,501
+1190	ADAMEC Michal r. Adamec		0	529
+1190	ADAMEC Ondrej r. Adamec		0	273,471,501
+1190	ADAMEC Rudolf r. Adamec		0	529
+1190	ADAMEC Štefan r. Adamec		0	529
+1190	Adamíková Paulina r. Vdovičíková	Kunerad	0	508
+1190	BABČANIKOVÁ Klára	Konská	0	508
+1190	BADUROVA DANIELA r. SLYSKOVA, SR		0	158
+1190	Baďurová Daniela r. Slyškova		0	232
+1190	BARÁNEK Alojz r. Baránek	Konská č.207, zomr. 4.1.1962	0	508
+1190	Baránek František r. Baránek	a manželka Jozefína, r. Škatuliaková, Konská č.166, zomr. 11.3.1965	0	508
+1190	BARÁNEK Ignác r. Baránek	Konská	0	508
+1190	BARÁNEK Ján r. Baránek	Vrábel, mal., Konská	0	508
+1190	BARÁNEK Jozef r. Baránek	starší a manželka Eva r. Kruteková, Konská č.94, zomr. 20.2.1947	0	508
+1190	BARÁNEK Martin r. Baránek	m.Anna,r.Súkeniková	0	489
+1190	BARÁNEK Martin r. Baránek	Vrábel a manželka Anna, r. Minariková, Konská č.211 Vrábel a manželka Anna, r. Minariková, Konská č.211	0	508
+1190	BARÁNEK Rajmund r. Baránek	a nápadníci ,Konská č.104	0	508
+1190	BARÁNEK Tomáš r. Baránek	a manželka Katarína, r. Chovančíková, Konská č.100	0	508
+1190	BARÁNEK Vincent r. Baránek	Zemiakár, Konská č.17	0	508
+1190	BARÁNKOVÁ Albína	Stránske, právni nástupci	0	508
+1190	BARÁNKOVÁ Anna	Konská	0	508
+1190	BARÁNKOVÁ Anna r. Baránková	Pustajová, Konská č.71	0	508
+1190	BARÁNKOVÁ Františka r. Baránková	Vrábelová, mal., Konská	0	508
+1190	Baránková Irena r. Kaníseková	Konská č.92, zomr.1.3.1965	0	508
+1190	BARÁNKOVÁ Mária r. Baránková	Vrábelová, mal., Konská	0	508
+1190	BARÁNKOVÁ Štefánia r. Benková		0	489
+1190	Baránková Veronika r. Masárová	Konská č.221	0	508
+1190	BELES Ondrej r. Beles	m.Mária,r. Matejíčková	0	489
+1190	BENKOVÁ Mária r. Súkeníková		0	489
+1190	BIBIŠOVÁ Eva r. Baránková	Konská	0	508
+1190	Blunárová Mária r. Paulinyová, Partizánska 13/554, Rajec, PSČ 015 01, SR		0	533
+1190	Brezani František r. Brezani	a manželka Katarína, r. Gelatková, Konská č.121, zomr. 17.4.1954	0	508
+1190	BREZÁNYI Anton r. Brezányi	č.36	0	273,471,501
+1190	BRODŇAN Tomáš r. Brodňan	Konská	0	508
+1190	BUCKOVA ANNA r. PAVLINYOVA, SR		0	271
+1190	Bucha Adam r. Bucha	zomr. 16.12.1983	0	273,471,501
+1190	BUCHA Adam r. Bucha		0	273,471,501
+1190	BUCHA ADAM, SR		0	223,224,225,226,235,319,320,363,415,416
+1190	BUCHA Anton r. Bucha	m. Karolína r.Romanová	0	494
+1190	BUCHA ANTON, SR		0	297
+1190	BUCHA Ján r. Bucha		0	494
+1190	BUCHA JOZEF, SR		0	19,59,671,672,673,677
+1190	BUCHA Peter r. Bucha		0	273,471,501
+1190	BUCHA PETER, SR		0	88,224,416,667
+1190	Bucha Vincent r. Bucha	m. Mária.r. Porubcová	0	273,471,501
+1190	BUCHA VINCENT, SR		0	296
+1190	BUCHOVÁ Gabriela r. Lačná		0	494
+1190	BUCHOVA KAROLINA r. KORMANCOVA, SR		0	297
+1190	BUCHOVÁ Karolína r. Romanová		0	494
+1190	BUCHOVA KAROLINA, SR		0	224,416
+1190	Buchová Mária r. Porubcová		0	496
+1190	BUCHOVA MARIA r. SLYSKOVA, SR		0	59,671,672,673
+1190	BUCHOVA PAVLINA, SR		0	19,20,274,423,677
+1190	Capko Ignác r. Capko	Sedliak, Konská č.125, zomr. 14.7.1993	0	508
+1190	Capko Izidor r. Capko	a manželka Agáta r.Kruteková	0	508
+1190	Capko Izidor r. Capko	m.Agáta r.Kruteková	0	511
+1190	Capko Peter r. Capko	a manželka Johanna, Konská č.147, zomr. 21.3.1974	0	508
+1190	Capko Rudolf r. Capko	Konská č.255, zomr. 17.11.1994	0	508
+1190	CAPKO Štefan r. Capko	mal., Konská č.179	0	508
+1190	CAPKO Vendelín r. Capko	Konská č.177	0	508
+1190	CAPKO Vincent r. Capko	Konská	0	508
+1190	Capková Anna r. Lúčanová	Konská č. 179, zomr. 14.7.1993	0	508
+1190	Capková Anna r. Mičechová	Sedliaková, Konská č.88, zomr. 24.10.1970	0	508
+1190	CAPKOVÁ Judita r. Baránková	Konská č.112	0	508
+1190	CAPKOVÁ Paulina r. Mičechová	a nápadníci, Konská	0	508
+1190	CAPKOVÁ Viktória	Konská	0	508
+1190	CAPKOVÁ Žofia r. Frnková	Konská	0	508
+1190	CERNANSKA MARIA r. KOSPEROVA, SR		0	286
+1190	CINKOVÁ Mária r. Ďurčanská		0	393
+1190	DANIŠ Anton r. Daniš	mal., Konská	0	508
+1190	DOLINAJOVÁ Mária r. Hodasová	Stránske	0	508
+1190	DONAT Hermann r. Donat	a manželka Táňa r. Betterová, Konská	0	508
+1190	DONÁT Žigmund r. Donát	Konská	0	508
+1190	DUBCOVÁ Mária r. Volfová	vd., ČR	0	508
+1190	DUBCOVÁ Veronika r. Praznovcová	Konská č.149	0	508
+1190	DUBEC Ján r. Dubec		0	273,471,501
+1190	Dubec Michal r. Dubec	Konská č.149, zomr.1.6.1957	0	508
+1190	Dubec Peter r. Dubec	a manželka Verona r. Stranianeková, Konská č.200, zomr. 19.8.1973	0	508
+1190	ĎURANA Martin r. Ďurana	a manželka r. Kováčiková, Rajecké Teplice	0	508
+1190	ĎURANA Michal r. Ďurana	nar.1914, zomr. 2.6.1945, Konská č.33	0	508
+1190	Ďurana Mikuláš Ján r. Ďurana	Konská č.33, zomr. 15.3.1986	0	508
+1190	Ďurana Štefan r. Ďurana	a manž. Alojzia, r. Mičechová, Konská č.214	0	508
+1190	ĎURČANSKÁ Štefánia r. Slyšková	č.77	0	472,497
+1190	ĎURČANSKÝ Florián r. Ďurčanský	m. Elena r.Sýkorová.č.47	0	525
+1190	Ďurčanský Ondrej r. Ďurčanský	a manželka Zuzana, r. Baránková, Konská č.59, zomr.13.4.1953	0	508
+1190	Fráter Ján r. Fráter	zomr.28.1.1961	0	273,471,501
+1190	FRÁTEROVÁ Anna	Moravany	0	273,471,481,501
+1190	Frnka Tomáš r. Frnka	a manž. Kamila, r. Mičechová, Konská č.54	0	508
+1190	FRNKA Vendelín r. Frnka	ml., Konská č.55	0	508
+1190	FRNKA Vendelín r. Frnka	st. a manž. Anna, r. Prazdnovcová, Konská č.55 st. a manž. Anna, r. Prazdnovcová, Konská č.55	0	508
+1190	FRNKOVÁ Mária r. Záňová	Konská	0	508
+1190	GAJDOŠOVÁ Anna r. Mravcová	Konská č.44	0	508
+1190	Galanská Alžbeta r. Bitarovcová	zomr.6.6.1972	0	273,471,501
+1190	GALANSKÝ Jozef r. Galanský	m. Alžbeta r.Bitarovcová	0	522
+1190	GALANSKY JOZEF, SR		0	35
+1190	GAPČÍK Ján r. Gapčík	Konská č.199, zomr. 14.4.1948	0	508
+1190	GAPČÍK Jozef r. Gapčík	Konská č. 204	0	508
+1190	GAPČÍK Ľudevít r. Gapčík	Konská č.169	0	508
+1190	GAPČÍK Ondrej r. Gapčík	Konská č.60	0	508
+1190	GAPČÍKOVÁ Cecília r. Baránková	Konská	0	508
+1190	Gáper Jozef r. Gáper	zomr.3.8.1979	0	273,471,501
+1190	GÁPER Jozef r. Gáper		0	273,471,501
+1190	GÁPER Jozef r. Gáper	m.Mária r.Macúrová, č.20	0	475
+1190	GAPER JOZEF, SR		0	298
+1190	Gáper Lukáč r. Gáper	zomr.12.7.1982	0	273,471,475,501
+1190	Gáperová Anna r. Uriková	zomr. 4.10.2007	0	479,500
+1190	Gáperová Margita r. Macurová	zomr.27.8.1990	0	273,471,501
+1190	GAVLÁKOVÁ Agnesa r. Hamaceková		0	489
+1190	Gažúrová Mária r. Mikulová	zomr.21.6.1980	0	273,471,501
+1190	Gelatík Ondrej r. Gelatík	zomr.27.10.1993	0	273,471,486,501
+1190	GELATÍK Ondrej r. Gelatík	a manž. Anna, r. Jánošíková, Kľače-JRD	0	508
+1190	GELATÍKOVÁ Verona r. Sýkorová	m.Jozef	0	273,471,501
+1190	GREGOROVA MARIA, SR		0	169
+1190	HAJKOVÁ Mária r. Špániková	Prostějov	0	384
+1190	Heglas František r. Heglas	Konská č.128, zomr. 5.8.1967	0	508
+1190	Heglasová Paulína r. Baránková	Konská č.128, zomr. 24.10.1984	0	508
+1190	HERBER ŠTEFAN, RAJEC, SR		0	376
+1190	Hlaváčová Mária r. Záňová	zomr. r.2009	0	366
+1190	Hodás Filip r. Hodás	Konská č.135, zomr. 21.6.1960	0	508
+1190	HODÁS Ignác r. Hodás	Konská č.71, zomr. 14.1.1963	0	508
+1190	Hodás Matej r. Hodás	a manž. Štefánia, r. Pialová, Konská č.114, zomr. 6.3.1974	0	508
+1190	HODÁS Mikuláš r. Hodás	Konská č.116	0	508
+1190	Hodás Pavel r. Hodás	a manž. Anna, r. Pialová, Konská č.126, zomr. 29.7.1986	0	508
+1190	Hodás Pavel r. Hodás	Minárik a manž. Mária, r. Maniaková, Konská č.13, zomr. 28.1.1978 Minárik a manž. Mária, r. Maniaková, Konská č.13, zomr. 28.1.1978	0	508
+1190	Hodás Štefan r. Hodás	Veguš, Rajecké Teplice, zomr. 17.3.1990	0	508
+1190	Hodás Vendelín r. Hodás	Konská č.193, zomr. 17.7.1986	0	508
+1190	HODASOVÁ Anna r. Gelatíková		0	273,471,501
+1190	Hodásová Anna r. Pialová	Konská č.126, zomr. 15.4.1982	0	508
+1190	HODÁSOVÁ Eva r. Baránková	Konská č. 71	0	508
+1190	HODÁSOVÁ Jozefína	ČR,zomr. 5.5.1948	0	508
+1190	HOFMANN Alojz r. Hofmann, Dr.	Žilina	0	508
+1190	HOLUBOVÁ Júlia	a právni nástupci, Rajecké Teplice	0	508
+1190	HULJAK Matúš r. Huljak	Vrabel	0	533
+1190	Chovančík Alojz r. Chovančík	Konská č.30, zomr. 7.10.1977	0	508
+1190	Chovančíková Agneša	právny nástupci, Konská č.30, zomr. 20.9.1929	0	508
+1190	JANEK Jozef r. Janek		0	489
+1190	JANEK Štefan r. Janek		0	489
+1190	JANEKOVÁ Anna		0	489
+1190	JÁNOŠÍK Jozef r. Jánošík	a manž. Žofia r. Jánošíková,Konská č.116	0	508
+1190	JÁNOŠÍK Jozef r. Jánošík	m.Žofia r. Jánošíková,Konská č.116	0	523
+1190	Jánošíková Žofia r. Jánošíková	Konská č.34, zomr. 8.1.1990	0	508
+1190	JÁNOŠÍKOVÁ Žofia r. Jánošíková	m.Jozef	0	524
+1190	JÁNOŠÍKOVÁ Žofia r. Poletová	Konská č.36	0	508
+1190	JASENOVSKÁ Anna r. Baránková	Konská č.93	0	508
+1190	Junas Ondrej r. Junas	v cudzine	0	508
+1190	JUNASOVÁ Eva r. Šomberlová	Konská	0	508
+1190	KALUZNA AGNESA, SR		0	100
+1190	KALUZNA ANNA, SR		0	100
+1190	KALUZNA MARIA, SR		0	100
+1190	KALUžNA AGNEšA		0	231,273,471,474,501
+1190	KALUžNA ANNA		0	231,273,471,474,501
+1190	KALUžNA MARIA		0	231,273,471,474,501
+1190	Kapliková Judita r. Hodásová	Konská č.135, zomr. 25.1.1980	0	508
+1190	KASÁKOVÁ Kristína r. Mičechová	Liet. Svinná	0	508
+1190	Kavecký Tomáš r. Kavecký	a manž. Kamila, r. Mičechová, Kam.Poruba, zomr. 16.10.1969	0	508
+1190	KEREŠOVÁ Agneša r. Vrábelová	Stránske	0	508
+1190	KMETÍK Tomáš r. Kmetík	a manž.Mária r. Valachová, Konská č.179	0	508
+1190	Knapcová Mária r. Gapčíková		0	508
+1190	KNOŠKA Rudolf r. Knoška	a manž. Anna, r. Žilinčíková, Rajecké Teplice	0	508
+1190	Kovářová Margita r. Gapčíková	Konská č.60, zomr. 17.1.1947	0	508
+1190	Krátka Kamila r. Chovančíková	Konská č.130, zomr. 30.8.1977	0	508
+1190	KRÁTKORUKÝ Pavel r. Krátkoruký	a manž. Regina, r. Šimková, Rajecké Teplice, právni nástupci	0	508
+1190	KRUTEK Štefan r. Krutek	zomr. 7.7.1942 a manž. Mária, r. Zemková, ČR	0	508
+1190	KUBKA Matej r. Kubka	a manž. Žofia, r. Stranianeková, Konská č.74	0	508
+1190	Lietavcová Anna r. Masárová	Konská č.117	0	508
+1190	LIETAVCOVÁ Zuzana	Konská č.117	0	508
+1190	MACURA Martin r. Macura	m.Mária r.Sýkorová	0	273,471,501
+1190	MACURA MARTIN, SR		0	227
+1190	MACHUT František r. Machut	a manž. Júlia, r. Stranianeková, Konská č.118	0	508
+1190	MACHUT Ján r. Machut	dcéra Irena, Konská	0	508
+1190	Machút Ján r. Machút	a manž. Zuzana, r. Capková, Konská č.124, zomr. 25.1.1960	0	508

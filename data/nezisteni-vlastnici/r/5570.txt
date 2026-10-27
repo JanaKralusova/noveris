@@ -1,0 +1,256 @@
+3140	SZÖLLÖSIOVÁ Anna	r.Gulková	1	1703
+3140	SZÖLLÖSIOVÁ Mária	r.Budúcka,m.Ján	1	1928
+3140	SZÖLLÖSIOVÁ Mária	r.Kónyová,zomrela	1	1789,1817,2218
+3140	SZÖLLÖŠI Matej	zomrel	1	1749
+3140	SZÖLLÖŠIOVÁ Irena	r.Pénzešová	1	1749
+3140	SZÖLÖSI František	zomrel	1	1582,1584,1749,1853
+3140	SZÖLÖSIOVÁ Anna	r.Lörincová	1	1964
+3140	SZÖLÖSIOVÁ Anna	r.Lörinczová	1	1528,1666,1731,1776,2153
+3140	SZÖLÖSYOVÁ Anna	r.Gulková,zomrela	1	1735,1793,1890
+3140	ŠIMA František	zomrel	1	1594,1694,1852,1959,2061
+3140	ŠIMA Koloman	zomrel	1	1924
+3140	ŠIMOVÁ Mária	r.Vargová	1	1723,1840,2237,2252
+3140	ŠIMOVÁ Terézia	r.Lörinczová	1	1750,2311
+3140	ŠIMOVÁ Terézia	r.Pintérov,zomrela	1	1868,1926,1927,1963
+3140	TÓTHOVÁ Alžbeta	r.Vargová	1	1628,1636,1723,1802,1840,1958,2031,2237,2252,2302,2315
+3140	TOTHOVÁ Anna	r.Pintérová	1	1683,1685,1780,1915,1916
+3140	TÓTHOVÁ Barbora	r.Lörinczová,zomrela	1	1938
+3140	TÓTHOVÁ Katarína	r.Lörinczová,zomrela	1	1896
+3140	TYASKÁR Ján		1	1738
+3140	VARGA Koloman		1	1585
+3140	VARGA Martin	zomrel	1	1802
+3140	VARGA Matej	zomrel	1	1802,1881
+3140	VARGA Michal		1	1628,1773,1802,1847,1869,1881,2047,2108,2109,2250,2253,2259
+3140	VARGA Vojtech	zomrel	1	1931
+3140	VARGOVÁ Alžbeta	r.Pintérová,m.Matej	1	1909
+3140	VARGOVÁ Rozália	r.Pintérová	1	1664,1665,1689,1690,1691,1692,1693,1721,1730,1810,1842,1868,1873,1911,1926,1927,1963,1965,2154
+3140	ZELENÁK Vendelín	s Máriou r.Vaňurová,zomrel	1	1747
+3140	ZELENÁKOVÁ Mária	r.Vaňurová,Ivánka pri Nitre	1	1747
+3141	Antalíková Elena r. Antalíková	manž.Ján	0	542
+3141	Bakšová Mária r. Bartová	zomr.28.10.1981,naposledy V.Ves 69	0	552
+3141	Baláž Ján r. Balaž	manž.Zuzana r.Mázorová	0	534
+3141	Burgerová Zuzana r. Očkayová	manž.Vojtech,naposledy bytom Bratislava,Novomeského 6	0	289,624
+3141	Dováľ Ján r. Dováľ	slob.,otec Ján	0	538
+3141	Ennert Július r. Ennert	naposledy Nandraž 84	0	360,540
+3141	Galádová Mária r. Antalíková	naposledy Školská 5/24,Tomášovce	0	491
+3141	Galádová Mária r. Antalíková	naposledy Školská 5/24,Tomášovce; naposledy Školská 5/24,Tomášovce	0	539
+3141	Huraj Ján r. Huraj	manž.Elena r.Zdútová	0	532
+3141	Jahodníková Elena r. Oravcová	manž.Ján	0	403,405
+3141	Kontriš Ondrej r. Kontriš, Ing.	naposledy Pri starej prachárni 12,Bratislava	0	360,540
+3141	Kontriš Pavol r. Kontriš	naposledy Bystrinská 69,Kalinovo	0	540
+3141	Kontrišová Elena r. Ulická	naposledy Nenince 321	0	360,540
+3141	Kotmanová Mária r. Lörinčíková	zomr.6.9.1992,naposledy Vidiná,Zvolenská 171	0	300
+3141	Líška Ján r. Líška	zomr.2.3.1997,naposledy Točnica 12	0	559
+3141	Líška Ondrej r. Líška	zomr.21.11.1961,naposledy v Kalinove 433	0	559
+3141	Líška Štefan r. Líška	zomr.23.12.1986,naposledy Zvolenská 122,Vidiná	0	358,559
+3141	Lörinčík Pavol r. Lörinčík	zomr.29.9.1997,slob.,naposledy V.Ves 57	0	409
+3141	Lörinčíková Helena r. Kmeťová	zomr.31.3.1980,naposledy V.Ves 32	0	423
+3141	Lörinčíková Mária MUDr.	La Plaz,Bolívia	0	543
+3141	Lörinčíková Mária r. Urbanová		0	543
+3141	Mikulová Elena r. Nemcová	naposledy V.Ves 47	0	403,404,405,476,522,571
+3141	Oravcová Mária r. Dedinská	zomr.6.4.1998,naposledy V.Ves 91	0	535
+3141	Oravec Ján r. Oravec	zomr.1.1.1946,manž.Elena r.Matejová, naposledy USA	0	539
+3141	Oravec Pavol r. Oravec	zomr.23.11.1969,manž.bola Mária r.Dedinská	0	523
+3141	Paálová Elena r. Urbanová	manž.Pavel	0	479,543,553
+3141	Paálová Elena r. Urbanová	vdova	0	356
+3141	Paálová Helena r. Antalíková	zomr.13.3.1978,naposledy V.Ves; zomr.13.3.1978,naposledy V.Ves	0	539
+3141	Paálová Mária r. Antalíková	manž.Pavel	0	536,541
+3141	Rafaj Ondrej r. Rafaj	zomr.28.10.1965, naposledy v Kanade	0	531
+3141	Slasiarová Mária r. Antalíková	manž.Ondrej	0	539
+3141	Strigáčová Anna	zapísaná ako maloletá,naposledy Tomášovce	0	526
+3141	Urban Ján r. Urban		0	543
+3141	Vretenička Juraj r. Vretenička	naposledy Stará Halič 165	0	160,420
+3142	Abelovský Jozef a Mária r. Radošová, SR	č.3	1	2389
+3142	BACSA Alexander	M.MAGDALÉNA R.VARGOVÁ č.61	1	2389
+3142	BACSA František	M.ANNA R.OROSZLÁNYOVÁ	1	2170,2421,2422
+3142	BACSA FRANTIŠEK /MANŽ. ANNA ROD. OROSZLÁNYIOVÁ/ m. Anna r. Oroszlányiová		0	2424,2425
+3142	BACSA FRANTIŠEK /MANŽ. ANNA ROD. OROSZLÁNYIOVÁ/ m.Anna r. Oroszlányiová		0	2088
+3142	BACSOVÁ Anna	R.OROSZLÁNYOVÁ M.FRANTIŠEK č.48	1	2109
+3142	BALLOVÁ Alžbeta	R.NAGYOVÁ M.ALEXANDER	1	2086
+3142	BALLOVÁ Alžbeta	VD. M.B.JÁN BALOG NAD IPĽOM	1	2221
+3142	BAZSOVÁ Helena	R.VILLANTOVÁ M.MICHAL č.82	1	2075
+3142	BELÁK Štefan	ST. M.ANNA R.OROSZLÁNYOVÁ č.11	1	2348,2389
+3142	BENOCZ František	MALOLETÝ, LUČENEC	1	2144
+3142	BENUŠ Ján	ML. ŠAHY,UL.J.KRÁLA	1	2347
+3142	BENUŠ Ján	ŠAHY	1	2279
+3142	Benuš Ján, Šahy, SR		0	401
+3142	BLASKO Jozef	M.MATILDA R.CSÁKIOVÁ VINICA	1	2283
+3142	BLASKOVÁ Matilda	R.CSÁKIOVÁ M.JOZEF VINICA	1	2283
+3142	BLAŽKO Jozef	M.MATILDA R.CSÁKIOVÁ HORNÉ TÚROVCE	1	2043
+3142	BLAŽKOVÁ Matilda	R.CSÁKIOVÁ M.JOZEF HORNÉ TÚROVCE	1	2043
+3142	BODONYI František	ST. M.ROZÁLIA R.VILLANTOVÁ č.14	1	2004
+3142	BODONYIOVÁ Rozália	R.VILLANTOVÁ M.FRANTIŠEK č.14	1	2004
+3142	BOLGÁR Juraj	M.MÁRIA R.HRAŠKOVÁ	1	2389
+3142	BOROVEN František	M.ROZÁLIA R.VILLANTOVÁ	1	2389
+3142	BOROVEN František	ML.M.ROZÁLIA R.GYENEŠOVÁ	1	2389
+3142	BOROVENOVÁ Alžbeta	VD. R.BLAŽKOVÁ M.B.ŠTEFAN č.69	1	2048,2114
+3142	BOROVENOVÁ Mária	VD. R.LACZIOVÁ M.B.JÁN, I. PREDMOSTIE č	1	2261
+3142	CSAPLÁR Irén	Kerepesi út 5 1087 Budapest MR	1	2252
+3142	CSAPLÁR Jozef	TáNCSICS ÚT 61 Budapest MR	1	2252
+3142	CSAPLÁR Ľudovít	2.1.1922 Kossúth út 32 Budapest MR	1	2252
+3142	CSAPLÁR Ondrej	M.ALŽBETA R.HEGEDUSOVÁ	1	2389
+3142	CSERI Ákos	M.FRANTIŠKA R.BALÍKOVÁ	1	2039
+3142	CSERI Alexander	M.MATILDA R.PRIBRAMSKÁ	1	2039
+3142	CSERI Pavel	M.KLÁRA R.BOJTOSOVÁ	1	2389
+3142	CSERI Štefan		1	2389
+3142	CSERIOVÁ Alžbeta	R.DEÁKOVÁ M.JOZEF KOSIHY N.I	1	2039
+3142	CSERIOVÁ Františka	R.GYENESOVÁ M.ŠTEFAN č.68	1	2158
+3142	CSERIOVÁ Katarína	VD. R.CSOKÁSOVÁ M.B.JURAJ č.68	1	2116
+3142	Csernusová Františka r. Deáková	Sečianky	1	2159
+3142	Csernusová Mária r. Szabová	Sečianky	1	2359
+3142	Csery Štefan, SR		1	2336
+3142	Csizmadiová Veronika r. Kovácsová		1	2361
+3142	DEÁK Alojz	M.MÁRIA R.CSERIOVÁ SEČIANKY č.75	1	2146
+3142	DEÁK Filip	M.MÁRIA R.HORNYÁKOVÁ SEČIANKY č.22	1	2277
+3142	DEÁK František	č.78	1	2389
+3142	DEÁK František	M.MÁRIA R.OROSZLÁNYOVÁ č.40	1	2271
+3142	DEÁK František	M.VERONA R.VELEBNÁ, SEČIANKY č.112	1	2178
+3142	DEÁK Jozef	LAJOŠ M.VERONA R.TORMAOVÁ SEČIANKY	1	2159
+3142	DEÁK Jozef	M.FRANTIŠKA R.DEÁKOVÁ, SEČIANKY č.97	1	2178
+3142	DEÁK Jozef	MIKLÓŠ M.ALŽBETA R.MRÁZOVÁ SEČIANKY č.74	1	2313
+3142	DEÁK Jozef	SYN ŠTEFANA OSTRIHOM	1	2134
+3142	DEÁK Pavel	M.VERONIKA R.BLAŽKOVÁ, SEČIANKY č.40	1	2306
+3142	DEÁK Štefan	č.78	1	2389
+3142	DEÁK Štefan	MIKLÓS M.KATARÍNA R.BACSOVÁ, SEČIANKY	1	2138
+3142	DEÁKOVÁ Mária	R.OROSZLÁNYOVÁ M.FRANTIŠEK č.40	1	2389
+3142	DEÁKOVÁ Rozália	R.DEÁKOVÁ SEČIANKY č.11	1	2377
+3142	DEÁKOVÁ Verona	R.KRASZNICOVÁ M.JÁN SEČIANKY č.118	1	2023
+3142	DEME Alexander	M.ALŽBETA R.KRASZNICOVÁ č.56	1	2084
+3142	DEME Ján		1	2398
+3142	DEMEOVÁ Teodora	R.OROSZLÁNYOVÁ č.79	1	2389
+3142	DOBOS Ján	č.79	1	2240,2256,2469,2470
+3142	DOBOS Jozef	č.79	1	2240,2256,2469,2470
+3142	DOBOŠ Ján	MLADŠÍ č.102	1	2124,2433
+3142	GREGUSOVÁ Mária	R.OROSZLÁNYOVÁ	1	2151
+3142	GYENES Ján	M.FRANTIŠKA R.NAGYOVÁ	1	2389
+3142	GYENES Jozef	č.92	1	2074,2399
+3142	Gyenes Jozef a Margita r. Reinhardtová, SR	č.92	1	2389
+3142	Gyenes Jozef, Veľká Ves nad Ipľom, č. 92, SR		0	6
+3142	GYENES Juraj	M.ANNA R.ZATYKOVÁ č.6	1	2156,2389
+3142	GYENES Ľudovít	M.MÁRIA R.OREMOVÁ č.92	1	2074,2387,2399
+3142	Gyenes Ľudovít, Veľká Ves nad Ipľom, č. 85, SR		0	6
+3142	Gyenesová Helena	č.92	1	2399
+3142	GYENESOVÁ Mária	R.OREMOVÁ M.ĽUDOVÍT č.92	1	2229,2392
+3142	GYENEŠOVÁ Františka	R.NAGYOVÁ M.JÁN č.5	1	2332
+3142	Hegedüs Alexander	manž. Alžbeta r. Villantová č.91	1	2389
+3142	Hegedüs Ján	manž. Alžbeta r. Szodová č.59	1	2389
+3142	Hegedüsová Margita r. Mrázová	manž. František	1	2288
+3142	Hegedüsová Margita r. Mrázová	manž. František, Kanada	1	2137
+3142	HEJŠMIDOVÁ Mária	R.LUKÁČOVÁ M.ŠTEFAN, NAGYPETÉNY MAĎARSKO	1	2121
+3142	HORNIAK Alexander	M.ROZÁLIA R.DEÁKOVÁ č.81	1	2209,2260
+3142	HORNIAKOVÁ Alžbeta	VD. R.URBANOVÁ M.JÁN, SEČIANKY č.22	1	2363
+3142	HORNIAKOVÁ Rozália	R.JÁSZOVÁ BALOG N.I	1	2303
+3142	Hornyák Štefan a Elena r. Mrázová, SR		1	2288
+3142	Horváth Štefan a Františka r. Szodová, SR	č.66	1	2389
+3142	HORVÁTHOVÁ Františka	R.SZODOVÁ M.ŠTEFAN č.66	1	2389
+3142	HRABOVSKÝ Ján	M.VERONA R.NAGYOVÁ č.52	1	2085,2324
+3142	HRABOVSKÝ Ján	ST. M.ROZÁLIA R.KRASZNICOVÁ č.52	1	2300
+3142	HRAPKA Jozef	ML. M.MÁRIA R.MAJEROVÁ, SEČIANKY č.101	1	2119
+3142	HRAPSKO Ján	M.ALŽBETA R.BALOGOVÁ č.16	1	2389
+3142	HRAŠKO František	I. PREDMOSTIE	1	2352
+3142	HRAŠKO Jozef	M.MATILDA R.OROSZLÁNYOVÁ č.10	1	2278
+3142	HRAŠKO Július	M.MARGITA R.ŠIMKOVÁ č.10	1	2008
+3142	HRAŠKOVÁ Mária	R.KAPASOVÁ M.MIKULÁŠ, MAĎARSKO	1	2167
+3142	HRAŠKOVÁ Matilda	R.OROSZLÁNYOVÁ M.JOZEF č.10	1	2320
+3142	JÁMBOR Jozef	MALOLETÝ SEČIANKY	1	2376
+3142	JÁMBOR Viliam	MALOLETÝ SEČIANKY	1	2376
+3142	JÁNOŠKOVÁ Margita	R.CSERIOVÁ 10.6.1948 Plášťovce 350	1	2372
+3142	JÁSZ Štefan	ST. M.APOLÓNIA R.HRABOVSKÁ č.44	1	2389
+3142	KALINOVÁ Lídia	R.BENOCZOVÁ M.JÚLIUS, BUDAPEST	1	2144
+3142	KELEMENOVÁ Margita	R.GYENESOVÁ M.MATEJ 23.8.1923 RUMUNSKO	1	2297
+3142	KIS František	M.FRANTIŠKA R.OREMOVÁ č.12	1	2002,2034
+3142	KIS Pavel	M.ALŽBETA R.TORMOVÁ č.61	1	2389
+3142	KISOVÁ Františka	R.OREMOVÁ M.FRANTIŠEK č.12	1	2218,2328
+3142	KMET Alojz	M.MÁRIA R.DOBOSOVÁ	1	2369
+3142	Košík Karol, SR		1	2333,2334
+3142	KOVÁCS Štefan	M.ANNA R.BALÍKOVÁ č.52	1	2389
+3142	KOVÁCSOVÁ Margita	MALOLETÁ SEČIANKY	1	2365
+3142	KOVÁCSOVÁ Margita	R.URBANOVÁ M.ĽUDOVÍT SEČIANKY č.73	1	2289
+3142	KOVÁCSOVÁ Margita	SEČIANKY	1	2171
+3142	KOZMOVÁ Rozália	R.ZÓLYOMIOVÁ M.ŠTEFAN,I.PREDMOSTIE	1	2075
+3142	KRAJCÁR Jozef	ST. M.ANGELA R.BODZSÁROVÁ č.29	1	2262
+3142	KRAJCÁROVÁ Angela	R.BOLGÁROVÁ M.JOZEF č.29	1	2295
+3142	Krasnica Ján	manž. Alžbeta r. Deáková	1	2023,2128
+3142	KRASNICOVÁ Alžbeta	R.CSERIOVÁ M.FRANTIŠEK č.60	1	2022
+3142	Krasnicová Alžbeta r. Cseriová, Veľká Ves nad Ipľom, č. 60, SR		0	15
+3142	KRASZNICA František	M.ALŽBETA R.CSERIOVÁ č.60	1	2023,2128
+3142	KRASZNICZA František	č.60	1	2389
+3142	KRASZNICZA Ján	č.60	1	2389
+3142	KURJAN Alexander	M.KATARÍNA R.VELEBNÁ č.58	1	2036
+3142	KURJAN Pavel	M.ROZÁLIA R.URBANOVÁ č.63	1	2389
+3142	Kurjan Štefan a Mária r. Nagyová, SR	č.56	1	2389
+3142	KURJANOVÁ Františka	R.OROSZLÁNYOVÁ M.ALEXANDER č.101	1	2322
+3142	KURJANOVÁ Mária	R.NAGYOVÁ M.ŠTEFAN č.56	1	2323
+3142	LENDVAYOVÁ Viktória	R.MRÁZOVÁ M.PAVEL č.88	1	2288
+3142	LOVY Július	ŠAHY	1	2180
+3142	LOWY Marek	č.27	1	2389
+3142	MAJER Ján	M.MÁRIA R.TRUBÍNYIOVÁ č.69	1	2389
+3142	MIŠKO Štefan	FEDÝMEŠ	1	2177
+3142	Mitsch Karol a Mária r. Annusová, Sečianky, SR		1	2191
+3142	MRÁZ František	ML. M.FRANTIŠKA R.CSERIOVÁ č.7	1	2389
+3142	MRÁZ František	ST. M.KATARÍNA R.BACSOVÁ č.51	1	2120,2389
+3142	Mráz František a Mária r. Oroszlányová, SR	č. 40	1	2054
+3142	MRÁZ Juraj	M.MÁRIA R.HRABOVSKÁ č.55	1	2389
+3142	MRÁZ Ľudovít	č.51	1	2389
+3142	MRÁZOVÁ Katarína	R.BACSOVÁ M.FRANTIŠEK ST. č.51	1	2120
+3142	NAGY Alexander	ML. M.MARGITA R.FRANKOVÁ	1	2086
+3142	NAGY František	č.83	1	2152,2446
+3142	NAGY Gabriel	M.ROZÁLIA R.VINCZEOVÁ, SEČIANKY č.21	1	2374
+3142	NAGY Ján	č.64	1	2389
+3142	NAGY Ján	ML. M.MÁRIA R.JÁSZOVÁ č.65	1	2385
+3142	NAGY Michal	M.FRANTIŠKA R.BOROVENOVÁ	1	2001
+3142	NAGY Štefan	BALOG N.I	1	2229
+3142	NAGY Štefan	VD. M.B.TERÉZIA R.DEÁKOVÁ č.83	1	2389
+3142	NAGYOVÁ Františka	R.BOROVENOVÁ M.MICHAL	1	2001
+3142	NAGYOVÁ Mária	R.JÁSZOVÁ M.JÁN č.65	1	2174
+3142	NAGYOVÁ Mária	R.ZÁBRADIOVÁ AMERIKA	1	2009
+3142	Orem František a Klára r. Konczová, SR	č.62	1	2389
+3142	OROSZLÁNY František	M.MÁRIA R.VILLANTOVÁ č.33	1	2389
+3142	OROSZLÁNY František	SLOBODNÝ MAĎARSKO	1	2279
+3142	Oroszlány František, Budapešť, MR		0	401
+3142	OROSZLÁNY Ján	ESTA M.ALŽBETA R.VARGOVÁ č.85	1	2294,2389
+3142	OROSZLÁNY Ján	JOZEF č.79	1	2389
+3142	OROSZLÁNY Ján	M.ALŽBETA R.GYENESOVÁ č.79	1	2343
+3142	OROSZLÁNY Ján	ST. č.79	1	2389
+3142	OROSZLÁNY Jozef	MLADŠÍ č.79	1	2389
+3142	OROSZLÁNY Jozef	ST. M.ALŽBETA R.MRÁZOVÁ č.32	1	2389
+3142	OROSZLÁNY Július	MALOLETÝ SEČIANKY č.93	1	2360
+3142	OROSZLÁNY Michal	č.70	1	2389
+3142	OROSZLÁNY Michal	M.ROZÁLIA R.MRÁZOVÁ č.72	1	2031
+3142	OROSZLÁNY Štefan	č.79	1	2240,2469
+3142	OROSZLÁNYOVÁ Alžbeta	MALOLETÁ SEČIANKY č.93	1	2360
+3142	OROSZLÁNYOVÁ Alžbeta	R.GYENESOVÁ M.JÁN č.79	1	2400
+3142	OROSZLÁNYOVÁ Alžbeta	R.VARGOVÁ M.JÁN ESTA č.84	1	2294
+3142	OROSZLÁNYOVÁ Františka	R.DEÁKOVÁ M.ŠTEFAN č.72	1	2178,2370
+3142	OROSZLÁNYOVÁ Rozália	R.MRÁZOVÁ M.MICHAL č.72	1	2031
+3142	Pencák Ján a Mária r. Janková, Sečianky, SR		1	2192
+3142	POTRAVNÉ Združenie		1	2033
+3142	RADOSOVÁ Rozália	R.CSERIOVÁ M.ŠIMON	1	2039
+3142	REPICKÁ Verona	R.ANNUŠOVÁ M.JÁN č.98	1	2237
+3142	REPICKÝ Ján	ML. č.50	1	2389
+3142	Repický Jozef a Alžbeta r. Nagyová, SR	č.4	1	2389
+3142	REPICZKÝ František	M.MÁRIA R.PAPOVÁ	1	2389
+3142	Repiczký František a Mária r. Papová, Žilina, SR		1	2386
+3142	REPICZKÝ Ján	M.VERONA R.ANNUSOVÁ č.98	1	2236
+3142	SIPOS Anton	BALOG N.I. č.96	1	2222
+3142	SKERLECOVÁ Alžbeta	R.HORNIAKOVÁ M.LADISLAV, BALOG N.I	1	2260
+3142	STACHOVÁ Alžbeta	č.44	1	2355
+3142	STACHOVÁ Alžbeta	SLABOMYSELNÁ č.44	1	2148,2291
+3142	SULEKOVÁ Alžbeta	R.HRASKOVÁ M.JOZEF	1	2091
+3142	SULI Ferencné	5.7.1939 Móra Ferenc u.59 Pécs MR	1	2248
+3142	SZABOVÁ Mária	R.OROSZLÁNYOVÁ M.FRANTIŠEK SEČIANKY	1	2362
+3142	SZABOVÁ Viktória	VD. R.CSERIOVÁ M.B.IMRICH SEČIANKY č.79	1	2022,2331
+3142	SZALAI Ján	BALOG N.I	1	2224
+3142	SZTACHO Ján	č.42	1	2389
+3142	Tóthová Mária r. Bacsová	manž. Ernest, Vinica	1	2173
+3142	Trník Štefan, Veľká Ves nad Ipľom, č. 18, SR	vd.,ž. b. Ilona r.Šulanová	0	26
+3142	Tuhárska Veronika r. Mrázová, Sečianky, č. 82, PSČ 991 10, SR		1	2160
+3142	TURCSÁNYI Ján	NAGYOROSZI MAĎARSKO	1	2169
+3142	Unatínyi Ján	Vecze, HU	1	2157,2309
+3142	Unatínyi Štefan	Vecze, HU	1	2157,2309
+3142	Unatínyiová Alžbeta r. Molnárová	Vecze, HU	1	2309
+3142	URBAN Tibor		1	2364
+3142	Villantová Helena r. Kapusztová, SR	m. Imrich, č. 82, zom.3.9.1959	1	2075
+3142	Zólyomi Alexander		1	2075
+3142	Žigmundová Veronika r. Dobošová		1	2101
+3143	Akša Pavel r. Akša		0	862

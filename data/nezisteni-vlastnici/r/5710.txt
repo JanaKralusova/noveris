@@ -1,0 +1,256 @@
+3209	Kósa Július		0	2978,2983,4332,4333,4365,5159,5160,5167,5168,5169,5170,5171,5172,5173,5174,5175,5176,5177,5178,5179,5180,5181,5182,5183,5186,5187,6730
+3209	Kósa Mikuláš		0	2978,2983,4332,4333,4365,5159,5160,5167,5168,5169,5170,5171,5172,5173,5174,5175,5176,5177,5178,5179,5180,5181,5182,5183,5186,5187,6730
+3209	Kósaová Alžbeta		0	2978,2983,4332,4333,4365,5159,5160,5167,5168,5169,5170,5171,5172,5173,5174,5175,5176,5177,5178,5179,5180,5181,5182,5183,5186,5187,6730
+3209	Kósaová Gizela		0	2978,2983,4332,4333,4365,5159,5160,5167,5168,5169,5170,5171,5172,5173,5174,5175,5176,5177,5178,5179,5180,5181,5182,5183,5186,5187,6730
+3209	Kósaová Mária		0	2978,2983,4332,4333,4365,5159,5160,5167,5168,5169,5170,5171,5172,5173,5174,5175,5176,5177,5178,5179,5180,5181,5182,5183,5186,5187,6730
+3209	Kósaová Mária r. Gulázsiová		0	2978,2983,5159,5160,5167,5168,5169,5170,5171,5172,5173,5174,5175,5176,5177,5178,5179,5180,5181,5182,5183,5186,5187,6730
+3209	Kósaová Rozália r. Pajorová		1	2361,3276,5230,5231,5232,5233,5234,6297,7078
+3209	Kósaová Terézia		0	2978,2983,4332,4333,4365,5159,5160,5167,5168,5169,5170,5171,5172,5173,5174,5175,5176,5177,5178,5179,5180,5181,5182,5183,5186,5187,6730
+3209	Kósaová Terézia	otec Štefan	0	5926,5931,6013
+3209	Kósaová Terézia r. Baráthová		0	5683
+3209	Kósaová Terézia r. Nagyová		0	3666
+3209	Kosár Anton		0	2670,2681,7171
+3209	Kosár Dezider		0	2384,2388,2667,5197,5198,5201,5202,5283,5284,5285,5286,5287,5292,5302,6846,7063
+3209	Kosár Dezider	manželka Alžbeta r.Vízváry	0	2384,6846,7063
+3209	Kosár Elek		0	2385,2667,2669,5197,5198,5201,5202,5283,5284,5285,5286,5287,5292,5302,6720,7003
+3209	Kosár Elek	maželka Mária r.Bögi	0	2667,5197,5198,5201,5202,5283,5284,5285,5286,5287,5292,5302
+3209	Kosár Ferdinand		0	2670,2679,2680,2681,6272,6273,7171
+3209	Kosár Karol		0	5209,5210,5211
+3209	Kosár Karol	syn Štefana	0	5502
+3209	Kosár Ľudovít		0	5291
+3209	Kosár Štefan		0	2384,4448,5206,5207,5208,5209,5210,5211,5269,5270,5271,5272,5291,6846,7063
+3209	KOSAR VILIAM		0	2371,2372,2381,2383,2384,2385,2388,2667,2669,2931,3612,3852,4448,4551,5197,5198,5201,5202,5206,5207,5208,5209,5210,5211,5269,5270,5271,5272,5283,5284,5285,5286,5287,5291,5292,5302,5397,5398,5441,6720,6846,6847,7003,7063
+3209	Kosár Viliam	maželka Karolina r.Sidó	0	2381,2383,2384,2667,3612,4448,5197,5198,5201,5202,5206,5207,5208,5209,5210,5211,5269,5270,5271,5272,5283,5284,5285,5286,5287,5291,5292,5302,5397,5398,6846,6847,7063
+3209	Kosár Vincent		0	2386,4448
+3209	Kosár Žigmund	manželka Rozália r.Fitos	0	2669,4448,5206,5207,5208,5209,5210,5211,6720
+3209	Kosárová Etela r. Barátová		0	2679,5212,5213,5923,6097,6272
+3209	Kosárová Ida		0	2385,7003
+3209	Kosárová Janka		0	2388,3591,5714,6117
+3209	Kosárová Jolana		0	2385,7003
+3209	Kosárová Julianna		0	2381,2383,2384,2385,2388,2667,2669,3612,3852,4448,5197,5198,5201,5202,5206,5207,5208,5209,5210,5211,5269,5270,5271,5272,5283,5284,5285,5286,5287,5291,5292,5302,5397,5398,6720,6846,6847,7003,7063
+3209	Kosárová Karolina r. Ráczová		0	6106
+3209	Kosárová Katarína		0	2679,6272
+3209	Kosárová Mária		0	2385,2388,3591,5707,7003
+3209	Kosárová Matilda r. Vasiová		0	5809
+3209	Kosárová Rozália		0	2385,2388,3591,5720,7003
+3209	Kosiková Janka r. Czinaová		0	3190
+3209	Kossár Elek		0	5235,5236,5237,5238
+3209	Kossár Viliam		0	5235,5236,5237,5238
+3209	Kossár Žigmund		0	5235,5236,5237,5238
+3209	Kossárová Etela r. Baráthová		0	3006,6121,6270
+3209	Kossárová Julianna		0	5235,5236,5237,5238
+3209	Kossárová Mária r. Bereczkiová		0	2869,3664,3875,5403
+3209	Kovács Albert		0	5549
+3209	Kovács Dezider		0	3554,5779,5999,6384
+3209	Kovács Eugen		0	3554,5779,5999,6384
+3209	Kovács František		0	5353
+3209	Kovács Imrich		0	3157,3809,5355,5548,5950,6068
+3209	Kovács Jozef		0	3157,3554,5779,5950,5999,6384
+3209	Kovács Jozef	ml	0	6132
+3209	Kovács Július		0	2952,2954,3809,4143,5353,5355,5548,6068,6162
+3209	Kovács Karol		0	6009
+3209	Kovács Karol	ml	0	3809,5355,5548,6068
+3209	Kovács Koloman		0	5669
+3209	Kovács Ľudovít		0	3157,5950
+3209	Kovács Rudolf		0	3554,5779,5999,6384
+3209	Kovács Vojtech		0	2952,3353,3554,3809,5353,5355,5548,5704,5779,5999,6017,6068,6384
+3209	Kovácsová Alžbeta		0	3554,6384
+3209	Kovácsová Etela r. Baráthová		0	6151
+3209	Kovácsová Eva		0	2952,4143,5353
+3209	Kovácsová Gizela		0	2952,2954,3809,4143,5353,5355,5548,6068
+3209	Kovácsová Helena		0	3157,5950
+3209	Kovácsová Jolana		0	3554,6384
+3209	Kovácsová Magdaléna		0	2952,2954,3809,4143,5353,5355,5548,6068
+3209	Kovácsová Margita		0	3157,5950
+3209	Kovácsová Margita r. Rostásová		0	3956,5419,5763,6033,6070,6114
+3209	Kovácsová Mária		0	3157,5950
+3209	Kovácsová Mária r. Földesová		0	5549,6062
+3209	Kovácsová Mária r. Lénártová		0	5979
+3209	Kovácsová Mária r. Sáriková		0	3157,5950
+3209	Kovácsová Mária r. Vízváriová		0	2867,2870,3876,5184,5185,5230,5231,5232,5233,5234
+3209	Kovácsová Mária r. Zsemlyeová		0	5983,6014
+3209	Kovácsová Rozália r. Józsaová		0	3502,6017
+3209	Kovácsová Rozália r. Méryová		0	6109
+3209	Kovácsová Veronika		0	3157,5950
+3209	Kováčová Eva		0	2954
+3209	Kováčová Judita r. Gáčová		0	4286
+3209	Kováčová Katarína r. Vidovenecová		0	3792,4891,5531,5645
+3209	Kováčová Ružena		0	5199,5200
+3209	Kramer Vojtech		0	6163
+3209	Krasztenics Jozef	ml	0	5848
+3209	Kristek Florian		0	6202
+3209	Kristek Ignác		0	6213
+3209	Kristeková Ludmila r. Koňuchová		0	6213
+3209	Kristeková Štefánia r. Ševčiková		0	6202
+3209	Krúpa Filip		0	6207
+3209	Krúpová Veronika r. Kubušová		0	6207
+3209	Kubicsek František		0	3558,3845,4058,4079
+3209	Kubicseková Estera		0	4079
+3209	Kubicseková Etela		0	3558,3845,4058
+3209	Kubicseková Mária		0	3558,3845,4058,4079
+3209	Kubla Juraj		0	6215
+3209	Kublová Vilma r. Pytelová		0	6215
+3209	Kucseraová Jolana r. Kardluberová		0	5900
+3209	Kuča Ondrej a Kučaová Dorota r. Záhoranová		0	5626
+3209	Kukorelliová Mária r. Jankóová		1	5076,5552
+3209	Kukucska Cyrill r. Kukucska a Štefánia Kukucsková r. Králiková Jedinaková		0	5247
+3209	Kukučka Matuš		0	6204
+3209	Külstlingerová Rozália r. Raabová		0	4333
+3209	Künstlinger Leopold		0	4333
+3209	Kúr Ladislav		0	5992
+3209	Kúrová Estera r. Vizváryová		1	3276,5184,5185,5230,5231,5232,5233,5234,6297
+3209	Kúrová Júlia r. Vízváriová		0	2867,2870,5184,5185,5230,5231,5232,5233,5234,5774
+3209	Kúrová Karolina		0	5992
+3209	Kutruczová Rozália r. Beluczová		0	5792
+3209	Lacaová Julianna r. Feketeová		0	5916
+3209	Ládi Eugen		0	3998,5947
+3209	Ládi František		0	2711,3739,3740,5330,5331,6000,6025,6490,6491,6588,6589
+3209	Ládi Imrich		0	5676
+3209	Ládi Jozef		0	6000,6025,6048
+3209	Ladi Július	ml	0	6194
+3209	Ládi Július		0	5947
+3209	Ládi Július	manželka Helena r. Németh	0	3998,5947
+3209	Ládi Karol		0	3162,6000,6025
+3209	Ládi Ladislav		0	3998,5947
+3209	Ládi Mario		0	5947
+3209	Ládi Vendelín		0	2713,3739,3740,6588
+3209	Ládi Vincent		0	4954
+3209	Ládi Vojtech		0	3998,5947
+3209	Ládiová Eva		0	3998,5947
+3209	Ládiová Margita		0	3998,5947
+3209	Ládiová Mária		0	3998
+3209	Ládiová Mária	ml	0	3824,6590
+3209	Ládiová Mária r. Némethová		0	3824,6590
+3209	Ládiová Terézia r. Földesová		0	3551,4079
+3209	Lakiová Malvina r. Füssiová		0	4012
+3209	Lakó Štefan		0	5864
+3209	Lakóová Anna r. Inczediová		0	5864
+3209	Laláková Helena r. Bugárová		0	2931,4551,6111
+3209	Laluštiaková Štefania r. Valková		0	6201
+3209	László Benedikt		0	5610
+3209	László Imrich		0	2843,2881,4180,5600,5602,5677,5747,5748,6243
+3209	László Imrich	manželka Alžbeta r.Szabó	0	2843,4180,5600,5677,6243
+3209	László Imrich	manželka Mária r.Sóki	0	5747,5748
+3209	László Imrich	syn Karola	0	5631
+3209	László Jozef		0	3766,5611
+3209	László Július		0	4333
+3209	László Július	ml	0	5498
+3209	László Ľudovít		0	3215,3219,3221,3222,3223,3224,4300,4763,5368,6244,6543,6552
+3209	László Vendelin		0	2834,5633
+3209	László Vendelin	syn Vendela	0	5633,6037
+3209	László Vendelín r. László		0	2835
+3209	László Vojtech		0	6119,6175
+3209	László Zoltán		0	3222
+3209	Lászlóová Estera r. Bereczová		0	5449
+3209	Lászlóová Gizela r. Némethová		0	5667
+3209	Lászlóová Helena r. Lászlóová		0	6175
+3209	Lászlóová Irena r. Józsaová		0	3502,6038
+3209	Lászlóová Jolana		0	2931,4546,4550,4551,4763,5441,5724
+3209	Lászlóová Julianna r. Orbánová		0	3833,6043
+3209	Lászlóová Katarína r. Némethová		0	3623
+3209	Lászlóová Margita r. Méryová		0	6166
+3209	Lászlóová Mária Anna		0	5570
+3209	Lászlóová Mária r. Jankóová		0	3603,3604,4030
+3209	Lászlóová Mária r. Lelkesová		0	3792
+3209	Lászlóová Mária r. Sókyová		0	2663,3198,3794,4888,4889
+3209	Lászlóová Rozália Karolína		0	2931,4418,4551,5395,5396,5441
+3209	Lászlóová Rozália r. Kocsisová		0	3804,6654
+3209	Lászlová Mária r. Sókyová		0	3793
+3209	Lehotská Emília r. Kissová		0	3796
+3209	Lelkes Peter		0	5472
+3209	Lelovičová Jolana r. Szeghyová		0	4022,5694
+3209	Lénárt Karol		0	5979
+3209	Lénárt Ľudovít		0	5979
+3209	Lénárt Vincent		0	5979
+3209	Lénártová Helena		0	5979
+3209	Lénártová Irena		0	5979
+3209	Lengyelová Mária r. Barátová		0	6011
+3209	Lipian Ondrej		0	3445,5386,5814
+3209	Lovas Július		0	6007
+3209	Lovas Štefan		0	3368,6009
+3209	Lovasová Hermina r. Olléová		0	3368,6009
+3209	Lukács Dezider		0	3701
+3209	Lukács Karol		0	4076
+3209	Lukács Vojtech		0	3701
+3209	Lukácsová Etela		0	6006,6060
+3209	Lukácsová Helena		0	6006,6060
+3209	Lukácsová Jolana		0	6006
+3209	Lukáč Dezider		0	2705,4076,5484,5811,5812,6032,6066
+3209	Lukáč Karol		0	2705,4076,5484,5811,5812,6032,6066
+3209	Lukáčová Katarína		0	2705,4076,5484,5811,5812,6032,6066
+3209	Lukovicsová Anna r. Csörgeyová		0	5426,5612
+3209	Luluščiak Ján		0	6201
+3209	Mady Žigmund		0	5840
+3209	Madyová Estera r. Bíróová		0	5840
+3209	Magyaricsová Margita r. Simonicsová		0	5632
+3209	Majorová Anna r. Nagyová		0	3499
+3209	Makó Alexander		0	6148
+3209	Makóová Justína r. Tarcsiová		0	5258,5259,5260
+3209	Marek Adolf		0	6186
+3209	Mareková Katarína r. Otahalová		0	6186
+3209	Márková Janka r. Józsaová		0	6038
+3209	Márková Justina r. Bereczkyová		0	5403
+3209	Márová Rozália r. Bögiová		0	3317,6711
+3209	Mátel Ján		0	2705,4076,5484,5607,5811,5812,5814,5912,6032,6066
+3209	Mátéová Etela r. Czinaová		0	3190,4076
+3209	Mátisová Mária r. Vargová		0	5341
+3209	Mazur Štefan		0	5437,5640
+3209	Mazurová Alžbeta r. Némethová		0	5437,5640
+3209	Mengyel Gašpar		0	6171
+3209	Mengyelová Rozália r. Görözdösová		0	6171
+3209	Méri Albert		0	3597
+3209	Méri Alexius		0	5297,5298,5299,5300
+3209	Méri Ernest		0	3597,5536,5595
+3209	Méri František		0	2952,2954,4143,5551
+3209	Méri František r. Méri		1	5075
+3209	Méri Imrich		0	2903,5551
+3209	Méri Imrich r. Méri		1	5075
+3209	Méri Ján		0	2952,2954,4143,5353
+3209	Méri Jozef		0	3597,5536,5595
+3209	Méri Ladislav		0	2903,2952,2954,4143,5353
+3209	Méri Ľudovít		0	5188,5189,5190,5191,5192,5193,5194,5195,5196
+3209	Méri Ľudovít	manželka Zuzana r.Bartalosová	0	5582
+3209	Méri Michal		0	3597,5536,5595
+3209	Méri Michal	otec Michal	0	3597,5595
+3209	Méri Rudolf		0	5551
+3209	Méri Rudolf r. Méri		1	5075
+3209	Méri Štefan		0	5551
+3209	Méri Štefan r. Méri		1	5075
+3209	Méri Vojtech		0	2903
+3209	Mériová Alžbeta		0	3597,5536,5595
+3209	Mériová Anna		0	3597,5536,5595
+3209	Mériová Anna r. Nagyová		1	2873,2874,6269
+3209	Mériová Gizela		0	2730,4343
+3209	Mériová Helena		0	3597,5536,5595
+3209	Mériová Irena		0	3597,5536,5595
+3209	Mériová Izabela		0	3597,5536,5595
+3209	Mériová Karolina		1	5075,5551
+3209	Mériová Karolina r. Nagyová		0	5621
+3209	Mériová Mária		0	3597,5536,5595
+3209	Mériová Terézia		0	2903
+3209	Méry Alexander		0	5261,5262,5263,5264,5265,5266,5267,5268
+3209	Méry Alexius		0	2693,3531,3534,4251,4792,4794,5261,5262,5263,5264,5265,5266,5267,5268,6524,6535
+3209	Méry František		0	2954,5548,6068
+3209	Méry Ján		0	2954,5548,6068
+3209	Méry Jozef		0	2777,5347,7062
+3209	Méry Július		0	3531,3534,6535
+3209	Méry Július r. Méry		1	4882,5088
+3209	Méry Karol	ml	0	6164
+3209	Méry Ladislav		0	2954,5548,6068
+3209	Méryová Jolana		0	3259
+3209	Mészáros Florian		0	6031
+3209	Mészáros Jozef		0	3317,6711
+3209	Mészárosová Margita r. Benyusová		0	6031
+3209	Miklósová Etela r. Ráczová		0	5914
+3209	Miklósová Katarína r. Bereczová		0	5484
+3209	Mikolai Dezider		0	5699
+3209	Mikolai Ernest		0	5928
+3209	Mikolai Imrich		0	3821,4960
+3209	Mikolai Ján		0	3683,3685,4072,4073,4165,4515,5239,5240,5754
+3209	Mikolai Július		0	3821,4960
+3209	Mikolai Karol		0	3682,3683,4073,6136
+3209	Mikolai Ľudovit		0	6160
+3209	Mikolai Mikuláš		0	3631,6799
+3209	Mikolai Vincent		0	6173
+3209	Mikolaiová Alžbeta		0	3683,3685,4072,4515
+3209	Mikolaiová Etela r. Mikolaiová		0	6136

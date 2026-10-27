@@ -1,0 +1,256 @@
+1422	Mihál Ferdinand		1	7053
+1422	Mihál Ferdinand	A20	0	3216,6082,6380,6477,7027,9469
+1422	Mihál Ferdinand	m.Pavlíková Helena	0	3780,5238,5927,6488
+1422	Mihál Ferdinand	ž.Helena Pavlíková	1	7053
+1422	Mihál Ferdinand r. Mihál, 908 01, Kúty, č. 1103, SR	zom.10.07.1994, ž.Helena r.Pavlíková	0	934
+1422	Mihál Ferdinand, 908 01, Kúty, č. 1103, SR	zom.10.07.1994, ž.Helena r.Pavlíková	0	932,933
+1422	MIHÁL Ferdinand, 908 01, Kúty, č. 1103, SR		0	52
+1422	Mihál Ferdinand, A 20		0	2932,2996,3027,3042,3202,3218,3715,3914,4274,4488,5190,5238,5902,6005,6035,6055,6075,6089,6095,6096,6404,7924,8602
+1422	Mihál František	A1	0	3216,5440,5490,6082,6380,6477,7027,9469
+1422	Mihál František	m.Jakubcová Helena	0	3316,3317,3320,5825
+1422	Mihál František	m.Ralbovská Štefánia /nezn./	0	5051,5689,8941
+1422	Mihál František	m.Štermenská Mária	0	6061
+1422	Mihál František	m.Vaculová Anna	0	4107,4488,4492
+1422	Mihál František	mal	0	5489
+1422	Mihál František, A 1		0	2932,2996,3027,3042,3202,3218,3314,3715,3987,4274,5439,5902,6005,6035,6038,6055,6074,6075,6089,6095,6096,6404,7924,8602
+1422	Mihál František, Kúty, č. 500, PSČ 908 01, SR	zom.29.08.1952	0	7053
+1422	Mihál Imrich	A1	0	5440,5490
+1422	Mihál Imrich	m.Baňovičová Rozália	0	3987
+1422	Mihál Imrich	m.Hnátová Mária	0	5449
+1422	Mihál Imrich, A 1		0	5439
+1422	Mihál Izidor		1	7053
+1422	Mihál Izidor	A1	0	3048,6517
+1422	Mihál Izidor	m.Vávrová Zuzana	0	6247
+1422	Mihál Izidor	mal	0	3220,8625
+1422	Mihál Izidor, A 1		0	3409,5881,6061,6724
+1422	Mihál Ján		1	3232,3328,7623
+1422	Mihál Ján	A1	0	3135,3212,6054,6517
+1422	Mihál Ján	D 292/69	0	3212
+1422	Mihál Ján	m.Pavlovičová Alžbeta	0	4026,4167,6164,9388
+1422	Mihál Ján	m.Suliková Mária	0	5875
+1422	Mihál Ján	m.Valachovičová Zuzana	0	3018,3185,3198,3327,5938,6444
+1422	Mihál Ján	m.Valovičová Zuzana	0	3047,3202,3229,3326,3328,6051,6067,6080,6089,6146,6434,6449,9359
+1422	Mihál Ján	ž.Zuzana Valachovičová	1	7053
+1422	Mihál Ján, A 1		0	3054,3231,3326,3327,3855,5190,5782,6005,6059,6391,6476,6487,8602
+1422	Mihál Ján, č.d.280, 908 01 Kúty		0	6488
+1422	Mihál Ján, č.d.282, 908 01 Kúty		0	5927
+1422	Mihál Ján, D.292/69		0	3163,3179,3217,6611
+1422	MIHÁL Ján, Jungmanova 1263/5, Ostrov nad Ohří, PSČ 363 01, ČR		0	3231
+1422	Mihál Jozef		0	5820
+1422	Mihál Jozef	A1	0	3220,6517
+1422	Mihál Jozef	m.Komorná Alžbeta	0	3357,3623,5388,6189
+1422	Mihál Jozef, A 1		0	5881,6061,6724
+1422	Mihál Marek	A1	0	3212
+1422	Mihál Marek	m.Balážová Zuzana	0	3179,3212
+1422	Mihál Marek, A 1		0	3163,3179,3217
+1422	Mihál Martin	A1	0	5819
+1422	Mihál Martin	m.Vráblová Helena	0	3086
+1422	Mihál Martin, A 1		0	3054
+1422	Mihál Michal	A1	0	3135,3212
+1422	Mihál Michal	mal	0	6473
+1422	Mihál Michal, A 1		0	3163,3179,3217,3231
+1422	Mihál Ondrej		0	3328
+1422	Mihál Ondrej	A1	0	3048,3220
+1422	Mihál Ondrej	m.Gajdová Mária	0	3176,3987,5439,5440,5489
+1422	Mihál Ondrej, A 1		0	3326,4489,5881,6724
+1422	Mihál Pavol	A1	0	6060
+1422	Mihál Pavol	m.Rišková Júlia	0	3185,5825
+1422	Mihál Pavol, A 1		0	4490
+1422	Mihál Štefan		0	3328,5820
+1422	Mihál Štefan	m.Patková Eva	0	3042,3155,3179,5313,5871,5875,6058,6475,6517,8253,8547
+1422	Mihál Štefan, A 1		0	3054,3327,5782
+1422	Mihál Štefan, č.d.161, 908 78 Kuklov		0	3258,3326
+1422	Mihálová Agneša		0	5313
+1422	Mihálová Alžbeta	r.Komorná	0	3326,3327,6016,6080,6487,9359
+1422	Mihálová Alžbeta	r.Pavlovičová	0	7924
+1422	Mihálová Alžbeta r. Komorná		1	3328,3357,3623,6189,6397,6520,7452
+1422	Mihálová Alžbeta r. Pavlovičová		0	3216
+1422	Mihálová Anna r. Čapayová		0	3168
+1422	Mihálová Anna r. Kadlicová		0	3100,3168
+1422	Mihálová Anna r. Šimkovičová		0	3341,3988,4490
+1422	Mihálová Antónia	r.Komorná	0	6089
+1422	Mihálová Antonia, A 1		0	3016,3177,6374
+1422	Mihálová Eva		0	3232
+1422	Mihálová Eva	A1	0	5938
+1422	Mihálová Eva	r.Patková	0	3155,5871,8253,8547
+1422	Mihálová Eva r. Patková		0	5313,6058,6475
+1422	Mihálová Eva, A 1		0	3042,4490
+1422	Mihálová Helena		0	3217
+1422	Mihálová Helena	mal	0	3163,3179,3212
+1422	Mihálová Helena	r.Huseková	0	3207,6077,6487
+1422	Mihálová Helena	r.Jakubcová	0	3317,5825
+1422	Mihálová Helena r. Jakubcová		0	3314,3316,3320
+1422	Mihálová Helena r. Vráblová		0	3086
+1422	Mihálová Jozefína r. Rozborilová		1	4549,5460,7053
+1422	Mihálová Júlia	r.Rišková	0	5825
+1422	Mihálová Júlia r. Malíková		0	3163,3179,3212,3217
+1422	Mihálová Júlia r. Rišková		0	3185
+1422	Mihálová Kristína	Jozefova	1	7435
+1422	Mihálová Mária r. Gajdová		0	3176
+1422	Mihálová Mária r. Hladíková		0	3217,3314
+1422	Mihálová Mária r. Hnátová		0	5358
+1422	Mihálová Mária r. Palkovičová		0	6517
+1422	Mihálová Paulína	r.Maderičová	0	6201
+1422	Mihálová Rozália		1	7053
+1422	Mihálová Rozália r. Bartalová		0	3180
+1422	Mihálová Štefánia	r.Ralbovská /nezn./	0	3003,5051,5689,5894,6395,8941
+1422	Mihálová Štefánia r. Ralbovská		1	5820,7053
+1422	Mihálová Štefánia r. Ralbovská	nezn	0	3027,3048,3051,3310,3311,3470,3884,4815,5196,5819,5824,5959,6057
+1422	Mihálová Terézia	r.Krajčírová	0	5786,6487
+1422	Mihálová Verona		0	5820
+1422	Mihálová Zuzana	r.Valachovičová	0	3198,6059,6444,6476
+1422	Mihálová Zuzana	r.Vávrová	0	3237,5786,6059,6088,6476
+1422	Mihálová Zuzana r. Balážová		0	3179,3212
+1422	Mihálová Zuzana r. Komorná		0	5313
+1422	Mihálová Zuzana r. Valachovičová		1	3185,5938,6051,7053
+1422	Mihálová Zuzana r. Vávrová		0	3027,3089,3173,3226,3233,3338,3982,4822,4823,6247,6423
+1422	Mihalovičová Anna	r.Sofková	0	3222,6390
+1422	Michaliková Katarína		0	3159
+1422	Mikloš Ján		0	1057,7094
+1422	Mikloš Ján	m.Vallová Helena	0	2923
+1422	Miklošová Helena r.Vallová		0	1057,7094
+1422	Mikulová Sabína r. Papánková	nezn	0	5492
+1422	Mikuš František	m.Horná Mária	0	5549
+1422	Mikušová Anna		0	3181
+1422	Mikušová Anna	r.Horná	0	6059,6072,6391
+1422	Mikušová Anna r. Horná		0	2986,3051,3188,5819,5820,5938,6061
+1422	Mikušová Anna r. Horná, Bratislavská 65, Kúty, PSČ 908 01, SR		0	3048
+1422	Mikušová Rozália r. Mihálová		0	6054
+1422	MIKUŠOVÁ Rozália r. Mihálová, SR		0	52
+1422	Milotta František, A 1		0	3136,3137
+1422	Milotta Michal, A 1		0	3136,3137
+1422	Milottová Františka, A 1		0	3136,3137
+1422	Mládková Alžbeta	r.Kollárová /nezn./	0	2991,3030,3031,3326,3327,5782,7137,9359
+1422	Mládková Alžbeta r. Kollárová	nezn	0	3028,5489,6389,7050
+1422	Mlazová Klementína	r.Dršková	1	5890,6136,7518,8396
+1422	Mlazová Klementína r. Dršková		0	3811,7816
+1422	Mokerová Helena r. Pernecká		1	7053
+1422	Molecová Otília	r.Palkovičová	0	3012,3136,6951
+1422	Molecová Otília r. Palkovičová		1	2993,3191,3312,3974,5879,6032,7053,7155,8203,9004
+1422	Molzerová Helena r. Pernecká		0	3528,4246,4596,5084,5402
+1422	Morávková Berta	mal	0	5800
+1422	Morávková Mária	mal	0	5800
+1422	Morávková Mária, A 1		0	3016,3177,6374
+1422	Moro Michal		0	6389
+1422	Mosčeková Alžbeta	r.Libušová	0	8253
+1422	Mosčeková Alžbeta r. Libušová		0	6475
+1422	Mosčeková Jozefína r. Šefčovičová		0	3134,3235,4519,6054
+1422	Mostek Anton		0	6053,6060,6446
+1422	Mošteková Jozefína r. Šefčovičová		1	7277
+1422	MOŠTEKOVÁ Jozefína r. Šefčovičová, SR		0	1125
+1422	Mračnová Mária	r.Juricová	0	5923
+1422	Mračnová Mária r. Vrábelová		1	7053
+1422	Mračnová Mária r. Vráblová		0	4721,4722,5257,5521,5656
+1422	Mráz Alojz	m.Hladíková Žofia	0	4956,4983
+1422	Mráz Alojz	m.Vráblová Amália	0	3237,5439,5440,5490
+1422	Mráz Anton	A 1	0	3026
+1422	Mráz Anton	A1	0	3173,3216,6544
+1422	Mráz Anton	m.Drštková Helena	0	3049,7001
+1422	Mráz Anton	m.Palkovičová Júlia	0	6077
+1422	Mráz Anton	m.Škodová Helena	0	5837
+1422	Mráz Anton, A 1		0	3021,3027,5470,5545,5972,7143,7924
+1422	Mráz Anton, č.d.495, 908 01 Kúty		0	4506,4731
+1422	Mráz Antonín	mal	0	2975,6544
+1422	Mráz Antonín, A 1		0	4509,5838,6485
+1422	Mráz Antonín, Kúty, PSČ 908 01, SR	zom.25.11.1975	0	7053
+1422	Mráz Augustín		1	71,353,7053,7145,7149
+1422	Mráz Augustín	A2	0	3034,3226
+1422	Mráz Augustín	slob	0	3206
+1422	Mráz Augustín, A 2		0	2975,5470,6485,7143
+1422	Mráz Benedikt	A1	0	5440
+1422	Mráz Benedikt	m.Slováčková Anna	0	3928
+1422	MRÁZ Benedikt /ž.Anna Slováčková/		0	231
+1422	Mráz Benedikt, A 1		0	3237,5439
+1422	Mráz Bohuš	m.Kováčová Valéria	0	4956,4983
+1422	Mráz František	m.Jakubcová Anna	0	3316,3317,3320,5825
+1422	Mráz František	mal	0	3034
+1422	Mráz František, A 1		0	2975,3023,3180,3314
+1422	MRÁZ Ivan a Anna MRÁZOVÁ r. Valachovičová, 90801, Kúty, č. 1212, SR		0	1158
+1422	Mráz Ján		1	3003,7053
+1422	Mráz Ján	A1	0	6445,6571
+1422	Mráz Ján	cviček	0	3051
+1422	Mráz Ján	m.Juricová Mária	0	2975,3051,6152
+1422	Mráz Ján	m.Pribilová Anna	0	6052
+1422	Mráz Ján	m.Pribilová Mária	0	3036
+1422	Mráz Ján, 908 01, Kúty, č. 916| 1, SR	zom.16.04.1968, ž.Florentína r.Palkovičová	0	7192
+1422	Mráz Ján, A 1		0	2975,3237,5470,5636,6053,6384,6485,6576,6621,6633,6635,6639,6645,6914,7143
+1422	Mráz Jozef		1	844,7139,7851
+1422	Mráz Jozef, A 1		0	2975,3653,5972,6485
+1422	Mráz Ladislav	A1	0	3212,6081
+1422	Mráz Ladislav	m.Hnátová Mária	0	3207,5751,6147
+1422	MRÁZ Ladislav		1	7113
+1422	Mráz Ladislav, A 1		0	3230,3327,5840
+1422	Mráz Lorenc	m.Macejková Alžbeta	0	4233
+1422	Mráz Lorenc	m.Palkovičová Mária	0	5490
+1422	Mráz Ludovít		0	3328
+1422	Mráz Ľudovít, A 1		0	3326,5895,6037
+1422	Mráz Martin	m.Rišková Rozália	0	2761
+1422	Mráz Martin	m.Valachovičová Anna	0	5409
+1422	Mráz Martin	ž.Anna Valachovičová	1	7053
+1422	MRÁZ Martin		0	161,340
+1422	MRÁZ Martin	ž.Anna, sviček	1	857
+1422	Mráz Martin, A 1		0	5439
+1422	Mráz Michal	A1	0	6081
+1422	Mráz Michal	m.Gutová Alžbeta	0	2975,3002,3034,3185,3545,3583,3615,3616,3987,4082,5470,5837,5934,6306,6427,6485,7143
+1422	Mráz Michal	mal	0	6546
+1422	Mráz Michal	ž.Alžbeta Guthová	1	7053
+1422	Mráz Michal, A 1		0	3516,5309,5946,6487,6975
+1422	Mráz Pavol	A2	0	3034
+1422	Mráz Pavol	mal	0	3232
+1422	Mráz Pavol, A 2		0	2898,2975,3023,3180,3261,3324,3615,5470,5972,6176,6306,6485,7143,7147
+1422	Mráz Pavol, Kúty, PSČ 908 01, SR	zom.04.12.1986	0	7053
+1422	MRÁZ Stanislav a Elena MRÁZOVÁ r. Knapová, 908 01, Kúty, č. 620, SR		0	1612
+1422	Mráz Štefan		0	8815
+1422	Mráz Štefan	A2	0	3051,6571
+1422	Mráz Štefan	m.Palkovičová Leopoldína	0	3467
+1422	Mráz Štefan	ž.Leopoldína Palkovičová	1	7053
+1422	Mráz Štefan, A 2		0	3007,3040,4509,5545,6504,6633,6645
+1422	Mráz Štefan, č.d.496, 908 01 Kúty		0	4506,4731
+1422	Mráz Štefan, Kúty, PSČ 908 01, SR	zom.29.06.1978	0	7053
+1422	Mráz Vendelín	A7	0	6571
+1422	Mráz Vendelín	m.Melčická Bernardína nezn	0	2991,3326,3327,3328,5864,6397,6400,6538,6546,7136,7137,9359
+1422	Mráz Vendelín	m.Melčická Bernardína, nezn	0	3047,7050
+1422	Mráz Vendelín	slob	0	3105,3141,4677,9080,9081
+1422	MRÁZ Vendelín	zomrel v r.1975	0	7192,7193
+1422	MRÁZ Vendelín	ž.Bernardína r.Melčická	1	6922
+1422	Mráz Vendelín, A 7		0	4509,4731,5636,6633,6639,6645,6914
+1422	MRÁZ Vendelín, s.č. 414, Kúty, PSČ 908 01, SR	zomrel v r.1975	0	7371
+1422	Mráz Viliam		1	7053
+1422	Mráz Viliam	A1	0	6571
+1422	Mráz Viliam	m.Poláčková Anna	0	3105,3141,3165,3168,4677,5278,5547,6632,9080,9081
+1422	Mráz Viliam	m.Poláková Anna nezn	0	2991,2993,4766,6519,6521,6546,7137,7155,8203
+1422	Mráz Viliam	m.Poláková Anna, nezn	0	7050
+1422	Mráz Viliam, A 1		0	4506,4731,5636,6047,6059,6576,6621,6633,6635,6639,6645,6914
+1422	Mrázková Mária	r.Valušková	0	5773
+1422	Mrázová Agneša	mal	0	3232
+1422	Mrázová Alžbeta		0	4531
+1422	Mrázová Alžbeta	r.Gútová	0	3002,3214,5470,5946,6427,6487,6975,7143
+1422	Mrázová Alžbeta	r.Hazlingerová	0	3326,3327,9359
+1422	Mrázová Alžbeta	slob	1	7053
+1422	Mrázová Alžbeta r. Ditrichová	nezn	0	6527,6531
+1422	Mrázová Alžbeta r. Gútová		0	3034,3051,3171,3173,3185,3212,3227,3987,4082,5893,5934,6485
+1422	Mrázová Alžbeta r. Hazlingerová		0	3328
+1422	Mrázová Amália	r.Valachovičová	0	3207,5007
+1422	Mrázová Amália r. Vrábelová		0	4762
+1422	Mrázová Anastázia r. Drštková		1	7053
+1422	Mrázová Anna		0	71
+1422	Mrázová Anna	A 109	0	3028
+1422	Mrázová Anna	A,109	0	8418
+1422	Mrázová Anna	A109	0	3226,6571,6573
+1422	Mrázová Anna	m.Ján	0	6633,6639
+1422	Mrázová Anna	r.Jakubcová	0	3317,5825
+1422	Mrázová Anna	r.Poláčková	0	4744
+1422	Mrázová Anna	r.Poláková nezn	0	2987,2991,6059,6395,6400,7136,7137
+1422	Mrázová Anna	r.Sirová	0	3007,3040
+1422	Mrázová Anna	r.Slováčková	0	3317,5695,5813,8562
+1422	Mrázová Anna r. Jakubcová		0	3314,3316,3320
+1422	Mrázová Anna r. Krajčírová		1	7053,9432,9433
+1422	Mrázová Anna r. Poláčková		0	3448,3555,5278,6368
+1422	Mrázová Anna r. Polákov	nezn	0	6546
+1422	Mrázová Anna r. Poláková	nezn	0	2993,3206,5938,6051,6519,6521,7050,7155,8203
+1422	Mrázová Anna r. Sirová		0	3051,6504
+1422	Mrázová Anna, A 109		0	6047,6397,6538,6618,8487
+1422	Mrázová Bernardína	r.Melčická nezn	0	2991,3326,3327,6400,7136,7137,9359
+1422	MRÁZOVÁ Bernardína	r.Melčická	1	6922
+1422	Mrázová Bernardína r. Melčická	nezn	0	3047,5864,6397,6538,6546
+1422	Mrázová Bernardína r. Melčícká		0	3328,7050

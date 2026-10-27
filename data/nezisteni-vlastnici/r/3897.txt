@@ -1,0 +1,256 @@
+2228	MIGAJ Ondraj		0	1329
+2228	Michalcová Rozália		0	1858
+2228	MICHALCOVÁ Terézia r. Viterčíková		0	1376
+2228	Michalec Jozef		0	1868,1870
+2228	Michalec Jozef r. Michalec		0	788
+2228	Michalec Tomáš		0	1858,1955,2006,2042,2098,2329
+2228	MICHALECOVÁ Terézia r. Lukáčiková		0	946,1054,1105,1214,1251,1256,2707,2736,2737,2738,2739,2740,2741,2790
+2228	MICHALKOVÁ Žofia	nezv	0	1347
+2228	Mintál Ján		0	1805
+2228	Mintálová Juliana		0	1805
+2228	Mintálová Mária		0	1805
+2228	MINTÁLOVÁ Terézia		0	1384
+2228	Mintálová Terézia r. Moresová		0	1752
+2228	Mintálová Zuzana	mal	0	1881,2330,2331
+2228	MINTÁLOVÁ Zuzana		0	1049,1105,1184,1221,1247,1272,1354,1391,1398,1424,1583,2592,2593,2906,3195,3226
+2228	MINTÁLOVÁ Zuzana r. Dlholucká		0	1044
+2228	Mores Chajdiak Jozef		0	1548
+2228	Mores Ján		0	1752,1942,1986
+2228	MORES Jozef		0	1092
+2228	Mores Jozef r. Mores		0	1752
+2228	Moresová Mária		0	1752
+2228	MRAZOVSKÁ Mária		0	1493
+2228	MRAZOVSKÝ Ľudvík		0	1493
+2228	Mucká Terézia		0	2077,2276
+2228	MUCKÁ Terézia r. Drndiaková		0	1476
+2228	Nábočík Ján r. Nábočík		0	888
+2228	NÁBOČIK Michal		0	1522
+2228	Nábočíková Mária		0	888
+2228	OBEC Nižná	- kostolný majetok	0	1187
+2228	OBRIMČAK Ján		0	1052
+2228	Obrinčáková Terézia		0	2000,2097
+2228	OBRINČÁKOVÁ Terézia r. Furjaková		0	1105,1344,1364,1446,2439,2992,3085
+2228	Országh Jozef		0	1865
+2228	Palek Karol	r.Palek	0	1789
+2228	Paleková Juliana		0	1789
+2228	Pazúrik Balint		0	1849,1909
+2228	Pazúrik Jozef		0	1798
+2228	Pazúrik Ondrej		0	1798
+2228	Pazúrik Valent		0	1849,1909
+2228	Pazúriková Mária	mal	0	1798
+2228	PAZÚRIKOVÁ Terézia r. Vavrečanová	Križo	0	1449
+2228	Pisoňová Mária		0	1811
+2228	RÍMSKO- Katolícka	Cirkev, obec Podbiel	0	1054,1131,1155,1258,1261,1308,1310,1311,1313,1314,1315,1316,1317,1318,1319,1320,1321,1402,1407,1417,1419,1426,1427,1546,1563,2289,2299,2443,2707,2736,2737,2738,2739,2740,2741,2783,2897,2898
+2228	Serek Peter		0	2041,2098
+2228	SCHELING Jozef		0	1353
+2228	SCHELINGOVÁ Júlia r. Lukáčiková		0	946,1054,1105,1214,1251,1256,2707,2736,2737,2738,2739,2740,2741,2790
+2228	Schelling Ján		0	1886
+2228	Sitek Haťák Magdaléna		0	1554,1589
+2228	SITEK Matej	mal	0	935
+2228	Sitek Peter	r.Sitek,mal	0	1838
+2228	SITEK Peter	mal	0	931,2703,2704,3216
+2228	SLOVENSKÁ Republika	v správe	1	1334,1352,1379,1457,1475,1479,1605,1606
+2228	ŠELLINGOVÁ Mária r. Koladová		0	1382
+2228	Šinál Ján		0	1764,2085
+2228	Šinál Jozef		0	1764,2085
+2228	Šinálová Adela		0	1764,2085
+2228	ŠKUTA Jozef		0	1380
+2228	Štefánek Tomáš		0	1878,2097
+2228	ŠURINA Ján		0	927,1831
+2228	ŠURINA Ján	Mecho	0	927
+2228	Šurina Jozef		0	1831
+2228	ŠURINA Jozef	Mecho	0	927
+2228	Šurinová Terézia		0	1831
+2228	ŠURINOVÁ Terézia	Mecho	0	927
+2228	ŠUTÁK Tomáš		0	943
+2228	ŠUTEK Štefan	nezv	0	1347
+2228	ŠUTEKOVÁ Terézia	nezv	0	1347
+2228	ŠVÁBOVÁ Barbora r. Kravská		0	945
+2228	TEŤÁKOVÁ r. Karisná		0	1249
+2228	Teťáková Terézia		0	1772,1777,2034,2099,2393
+2228	TEŤÁKOVÁ Terézia r. Karisná		0	1027,1105,1120,1246,1248,1332,1387,1388,1634,2440,2441,2771,3086,3088,3091,3092,3222
+2228	Turčák Ján		0	1834,1915
+2228	TURČÁK Jozef		0	930
+2228	TURČÁK Jozef	mlad	0	934
+2228	Turčáková Anna	r.Šurinová, nezvestná	0	1831
+2228	TURČÁKOVÁ Anna		0	934
+2228	TURČÁKOVÁ Anna r. Gračáková		0	934
+2228	TURČÁKOVÁ Anna r. Šurinová	nezvestná	0	927
+2228	TURČÁKOVÁ Cecília		0	937,1834,1915
+2228	TURČÁKOVÁ Juliana r. Cibuľáková		0	1386
+2228	TURČÁKOVÁ Terézia		0	937,1834,1915
+2228	VAVREČAN Ján		0	1357,1797,1813,1866,2085
+2228	VAVREČAN Ondrej		0	1352
+2228	Vavrečanová Terézia		0	2085
+2228	VITERČÍKOVÁ Terézia r. Drndáková		0	941
+2228	vlastník nie je známy		0	2840
+2228	Vlčák Dionýz		0	1927
+2228	Vlčáková Monika	malol	0	1927
+2228	VLČÁKOVÁ Žofia		0	1347
+2228	Vojt Alojz	O	0	1479
+2228	VOJT Alojz		0	936,943,1839,1854,3253
+2228	Vojt Franc	0	0	1479
+2228	VOJT Franc		0	936,943,1839,1854,3253
+2228	VOJT Jozef		0	936,943,1839,1854,3253
+2228	VOJT Ondrej		0	936,943,1839,1854,3253
+2228	VOJT Peter		0	936,943,1839,1854,3253
+2228	WÁGNEROVÁ Mária r. Končerová		0	945
+2228	Wilsonová Mária		0	2085
+2228	Wilsonová Mária r. Šinálová		0	1764
+2228	Záhorcová Jozefa	nar.6.3.1907	0	2840
+2228	Žuffa Tomáš		0	1759,2082
+2228	ŽUFFA Tomáš	Danielik	0	1359
+2228	Žuffová		0	2082
+2228	ŽUFFOVÁ Júlia r. Sereková	Danielik	0	1359
+2229	Adlerová Paulína r. Lövy	m.Rudolf, súrodenci:Karol,Maximilán	0	1915
+2229	Albrecht Ignác	ž.Anna r.Svätá	0	3160
+2229	ALBRECHTOVÁ Amália, SR		0	1268
+2229	ALBRECHTOVÁ Katarína r. Čederlová /manžel Ján/, SR		0	1268
+2229	ALBRECHTOVÁ Mária, SR		0	1268
+2229	ALBRECHTOVÁ Paulína, SR		0	1268
+2229	Babichová Anna		0	3626
+2229	Babichová Anna r. Jediná	súr. Ján, Pavol, dcéra Samuela	0	1371
+2229	Babichová Anna r. Jediná	súrodenci:Ján,Pavol,dcéra Samuela, nar. r.1921, bytom USA	0	776,778,1078,1081,1113,1945,1949,2269,2527,2528,2529,2530,2531,2532,2584,2908,3514
+2229	Babincová Anna r. Bašnárová	po Zuzane Bašnárovej	0	1073,1076
+2229	Bachár Ján	ž.Anna r.Pukančíková	0	3038
+2229	Bachár Miloš	posledne bytom Myjava, zom.29.03.2005	0	2360,2361,3672
+2229	Bachár Pavol	ž.Anna r.Valúchová	0	3038
+2229	Bachár Pavol	ž.Katarína r.Hurbánková	0	743,2243,2357,2359,2780,3583
+2229	Bacharová Katarína r. Chrenková	posledne bytom Sobotište, zom.23.6.2000	0	118,743,2357,2359,3580
+2229	Bacharová Viktória r. Čederlová	posledne bytom Bratislava - Dúravka, zom.22.12.2007	0	1181
+2229	Bachárová Zuzana	Podbranč, s.č.96	0	2360,3672
+2229	Bachárová Zuzana	súrodenci:Ján,Anna,Alžbeta,Kristína, zom.6.10.1970	0	118,743,2243,2357,2359,2780,3580,3583
+2229	Bachoríková Zuzana r. Rybnikárová	prv vydatá Filková, bezdetná, zom.8.11.1988	0	911,921,2039,2243,3621
+2229	Bajan Ján	ž.Mária r.Závodská, zom.7.6.1976	0	2991
+2229	Bajza Pavol	ž.Anna r.Durgalová	0	1459,1460,1461,1864
+2229	Bajza Pavol	ž.Anna r.Mičková	0	1295,1375,1377,1384,3179
+2229	Bajza Samuel	ž.Katarína r.Beblavá	0	1459,1460,1461,1864
+2229	Bajzová Anna r. Mičková	m.Pavol,sestra Zuzana	0	1375,1377,1384
+2229	Bajzová Zuzana		0	2984
+2229	Barabáš Ján	súrodenci:Michal,Mária	0	247,867,1024,1969,2273,2651
+2229	Barabáš Michal	súrodenci:Ján, Mária	0	247,867,1024,1969,2273,2651
+2229	Barbutová Mária r. Rybnikárová	po Pavlovi Rybnikárovi	0	617,1586,1940,2166,2243,2505,2799
+2229	Bašnár Ján	súrodenci:Anna,Štefan,Juraj,Pavol,Martin	0	1073,1076
+2229	Bašnár Juraj	súrodenci:Anna,Štefan,Pavol,Ján,Martin	0	1073,1076
+2229	Bašnár Martin	súrodenci:Anna,Štefan,Juraj,Pavol,Ján	0	1073,1076
+2229	Bašnár Pavol	súrodenci:Anna,Štefan,Juraj,Ján,Martin	0	1073,1076
+2229	Bašnár Štefan	súrodenci:Anna,Juraj,Pavol,Ján,Martin	0	1073,1076
+2229	Bašnárová Anna r. Jakábová	m.Ján	0	3034
+2229	Bašnárová Kristína r. Jankovýchová		0	903,2284,3044
+2229	Bašnárová Zuzana r. Hyžová	m.Pavol	0	1078,1081,1113,2584
+2229	Baumgartner Alfonz	súrodenci:Viktor,Žofia	0	1185,3136,3170
+2229	Baumgartner Antonín		0	3141
+2229	Baumgartner Emil	súrodenci:Štefan,Jakub	0	2335
+2229	Baumgartner Jakub	súrodenci:Štefan,Emil	0	2335
+2229	BAUMGARTNER Jan	/manž.Mária r.Fodorováä/	0	1268
+2229	BAUMGARTNER Ján, SR		0	1268
+2229	Baumgartner Karol	toho času v Kanade	0	2972
+2229	Baumgartner Ladislav	ž.Paulína	0	3192
+2229	BAUMGARTNER Ladislav	/žena Paula/	0	1268
+2229	Baumgartner Leopold	USA	0	2670,3161
+2229	Baumgartner Ľudevít		0	3196
+2229	BAUMGARTNER Ľudovít, SR		0	1268
+2229	Baumgartner Michal	ž.Júlia r.Vaškovičová	0	3189
+2229	BAUMGARTNER Michal r. Vaškovičová	/žena Júlia/	0	1268
+2229	Baumgartner Pavol		0	2670
+2229	Baumgartner Rudolf	Sobotište, s.č.118	0	3189
+2229	BAUMGARTNER Rudolf, SR		0	1268
+2229	Baumgartner Štefan	súrodenci:Emil,Jakub	0	2335
+2229	Baumgartner Viktor	súrodenci:Alfonz,Žofia	0	1185,3136,3170
+2229	Baumgartnerová Agneša	po Ferdinandovi Baungartnerovi	0	3187
+2229	Baumgartnerová Alžbeta r. Čederlová	m.Jozef	0	1185
+2229	Baumgartnerová Anna r. Wirthová	m.Béla	0	2055
+2229	Baumgartnerová Ľudmila r. Baumgartnerová	m.Antonín	0	3172
+2229	Baumgartnerová Mária r. Čederlová	m.Cyril	0	3148
+2229	Baumgartnerová Žofia	súrodenci:Viktor,Alfonz	0	1185,3136,3170
+2229	Beblavá Zuzana r. Kadlečíková	po Jánovi Kadlečíkovi	0	896,1073,1076,1078,1081,1113,2243,2584,2703,3370,3433
+2229	Becker Ján	ž.Anna r.Beblavá, zom.12.4.1966	0	2303,2884,3095
+2229	Becker Pavol	posledne bytom Senica, zom.9.11.2003	0	1988,3699
+2229	Beckerová Zuzana	brat Ján	0	626,1148,1149,1150,2243,2303,2304,2884,3095
+2229	Belanská Alžeta r. Mandáková		0	925
+2229	Benda Martin	po Zuzane Vaculovej	0	974,1056,1057,1142,1208,2195,2243,2430,2431,2432,2452,2643,2724,2802,2875,2878,2880,3576,3577,3578,3594,3595,3596,3597,3598
+2229	Bendová Anna r. Vaculová	posledne bytom Prietrž 165, zom.8.2.1984	0	2643
+2229	Bjelka Ján	po Anne Bjelka	0	423,1161,1165,1172,1175,1814,2243,2622,2790,2804,2808,3467,3674,3687
+2229	Bjelková Anna r. Vrablicová	m.Ján	0	1198
+2229	Bjelková Mária	posledne bytom Šaštín-Stráže 732, zom.7.3.1976	0	2243
+2229	BLAŽEKOVÁ Katarína r. Műllerová, SR		0	1268
+2229	Blažková Katarína r. Müllerová	po Antonovi Müllerovi	0	2554,3190,3193
+2229	Boorová Zuzana r. Jankovichová	po Jánovi Jankovichovi, m.Pavol	0	912,974,1400,1402,1404,1405,2430,2431,2432,2724,3576,3577,3578,3594,3595,3596,3597,3598
+2229	Boríková Zuzana r. Rybnikárová	po Zuzane Rybnikárovej r.Podmajerskej	0	3233
+2229	Bučák Ján	ž.Zuzana r.Černeková	0	3240
+2229	Bučák Ján	ž.Zuzana r.Chochlíková	0	3240,3258
+2229	Bučáková Zuzana r. Chochlíková		0	3252
+2229	Burianová Alžbeta r. Černeková	súrodenci:Anna,Ján,Kristína	0	1078,1081,1113,2584
+2229	Cablková Anna r. Tomanová	po Zuzane Tomanovej r. Súkupčákovej	0	918
+2229	Cablková Anna r. Tomanová	po Zuzane Tomanovej r.Súkupčákovej	0	778,911,919,921,3621
+2229	Cablková Zuzana r. Mičková	zom.11.1.1995	0	1333
+2229	Cichová Kristína r. Mandáková	po Pavlovi Mandákovi	0	925,1223,1225,1227,1814,2243,2790,2814,2816,3674,3687
+2229	ČEDERLE Alexander, SR		0	1268
+2229	Čederle Antonín		0	3176,3199
+2229	ČEDERLE Antonín, SR		0	1268
+2229	Čederle Jozef		0	3199
+2229	ČEDERLE Jozef, SR		0	1268
+2229	Čederle Karol	posledne bytom Skalica, zom.20.5.2005	0	1181
+2229	Čederle Ladislav	ž.Margita	0	2895
+2229	Čederlová Alžbeta r. Baumgartnerová	m.Jozef, zom.13.4.1978	0	3191,3192
+2229	ČEDERLOVÁ Alžbeta r. Baumgartnerová, SR		0	1268
+2229	Čederlová Anna r. Albrechtová	po Štefanovi Albrechtovi	0	3137
+2229	Čederlová Cecília	sestra Lýdia	0	3140
+2229	Čechová Mária r. Junasová	súrodenci Ján, Zuzana, Viktória	0	918
+2229	Čechová Mária r. Junasová	súrodenci:Ján,Zuza,Viktoria	0	778,903,2080,2081,2083,2243,3506
+2229	ČERNÁ Alojzia r. Műllerová, SR		0	1268
+2229	Černáková Anna	súrodenci:Ján,Martin,Zuzana, hluchonemá	0	1026,1027,1028,1031,1032,2243
+2229	Černáková Zuzana r. Kadlečíková	m.Michal	0	1459,1460,1461,1864
+2229	Černek Alexander	súrodenci:Pavol,Kristína,Ján,Martin,Juraj	0	1073,1076,3284
+2229	Černek Ján		0	1078,1081,1113,2584
+2229	Černek Ján	maloletosť zrušená r.1919	0	1302,1303,3690
+2229	Černek Ján	Podbranč	0	1078,1081,1113,2584
+2229	Černek Ján	posledne bytom Podbranč, zom.13.3.1997	0	1561,2526
+2229	Černek Ján	posledne bytom Skalica, zom.11.7.1997	0	1248
+2229	Černek Ján	slobodný, súrodenci:Juraj,Samuel	0	1073,1076,3287
+2229	Černek Ján	slobodný, súrodenci:Pavol,Kristína,Martin,Juraj,Alexander	0	1073,1076,3284
+2229	Černek Ján	ž.Alžbeta r.Ušiaková	0	1546
+2229	Černek Ján	ž.Anna r.Kadlečíková	0	2520
+2229	Černek Ján	ž.Mária r.Kadlečíková	0	3174
+2229	Černek Jozef	ž.Kristína r.Holičová,posledne bytom Podbranč, zom.27.2.1970	0	1586,2243
+2229	Černek Juraj	súrodenci:Pavol,Kristína,Ján,Martin,Alexander	0	1073,1076,3284
+2229	Černek Juraj	ž.Anna r.Marečková	0	1073,1076,3287
+2229	Černek Juraj	ž.Anna r.Šifflová	0	1076
+2229	Černek Juraj	ž.Zuzana r.Černeková	0	3356
+2229	Černek Juraj	ž.Zuzana r.Šefčíková	0	1073,1076,3287,3327
+2229	Černek Martin		0	1073,1078,1081,1113,2584
+2229	Černek Martin	súrodenci:Pavol,Kristína,Ján,Juraj,Alexander	0	1073,1076,3284
+2229	Černek Martin	súrodenci:Štefan,Kristína	0	952,1076,1078,1081,1113,1142,1335,1336,1873,1993,1994,2584
+2229	Černek Martin	súrodenci:Zuzana,Anna,Kristína,Pavol,Mária,Alžbeta	0	3255
+2229	Černek Martin	ž.Kristína r.Hižová	0	1078,1081,1113,2520,2584,3328
+2229	Černek Martin	ž.Kristína r.Šefčíková	0	3240
+2229	Černek Pavel	po Pavlovi Černekovi	0	1335
+2229	Černek Pavel	po Štefanovi Černekovi	0	3356
+2229	Černek Pavel	súrodenci:Zuzana,Juraj,Katarína,Kristína	0	1073,1335,1336,2520,3337
+2229	Černek Pavel	ž.Alžbeta r.Bajzová, posledne bytom Podbranč, zom.26.12.1957	0	987
+2229	Černek Pavol		0	1078,1081,1113,2584
+2229	Černek Pavol	ž.Alžbeta r.Podmajerská	0	1073,1076,3284
+2229	Černek Pavol	ž.Anna r.Chňupová	0	1727,1728,1729,3014
+2229	Černek Pavol	ž.Anna r.Jagošová	0	3327
+2229	Černek Pavol	ž.Anna r.Kadlečíková	0	1076
+2229	Černek Pavol	ž.Katarína r.Kadlečíková	0	1335,1336
+2229	Černek Samuel	súrodenci:Juraj,Ján	0	1073,1076,3287
+2229	Černeková Alžbeta r. Bajzová	m.Pavol, zom.5.2.1965	0	2243,2253
+2229	Černeková Alžbeta r. Kubíčková	posledne bytom Podbranč, zom.12.4.1975	0	1412,2207,3157
+2229	Černeková Alžbeta r. Marečková	m.Martin	0	1078,1081,1113,2584
+2229	Černeková Anna	súrodenci:Anna,Ján,Alžbeta,Kristína	0	1078,1081,1113,2584
+2229	Černeková Anna r. Kožíková	m.Ján	0	1955
+2229	Černeková Anna r. Podmajerská		0	1371
+2229	Černeková Anna r. Podmajerská	po Pavlovi Podmajerskom a Anne r.Bajzovej	0	1457,1459,1460,1461,2243,3437
+2229	Černeková Anna r. Varsíková	posledne bytom Bratislava, zom.7.8.2011	0	2516
+2229	Černeková Katarína	súrodenci:Zuzana,Pavol,Juraj,Kristína	0	1073,1335,1336,2520,3337
+2229	Černeková Kristína		0	1078,1081,1113,2584
+2229	Černeková Kristína r. Holičová	m.Jozef, zom.22.8.1976	0	1545,2166,2799
+2229	Černeková Kristína r. Hyžová	m.Martin	0	1078,1081,1113,2584
+2229	Černeková Kristína r. Kadlečíková	m.Martin	0	1076,3332
+2229	Černeková Mária r. Kadlečíková	m.Ján	0	1047,3174
+2229	Černeková Mária r. Rybnikárová	m.Pavol	0	1073,1076,3284
+2229	Černeková Zuzana	súrodenci:Kristína,Alžbeta,Pavol,Ján	0	3327
+2229	Černeková Zuzana r. Černeková	m.Juraj	0	1335,1336
+2229	Černeková Zuzana r. Mičová	súrodenci:Anna,Katarína,Juraj	0	1683,1967,1973,2650
+2229	Černeková Zuzana r. Šefčíková	m.Juraj	0	1073,1076

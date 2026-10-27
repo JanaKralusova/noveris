@@ -1,0 +1,256 @@
+3488	FEUERSTEINOVÁ Terézia		0	5548
+3488	FEUERSTEINOVÁ Terézia r. Feuermannová	zomrela	0	3688,3734,3943,3970,4646,5373,5492,5548,5611,5614,5615,5616,5617,5917
+3488	FEUERSTEINOVÁ Terézia r. Feuermannová, SR	zomrela	0	2596,2713,3620,5935,5991,5992
+3488	FICKA Pavol	neznámy	0	3870
+3488	FICKO Anton	neznámy	0	5607
+3488	FICKO Matej	zomrel	0	4667
+3488	FRANKO Ján		0	5549
+3488	FRANKO Ján, SR		0	2150,3603
+3488	FRANKOVÁ Anna r. Helová	zomrela	0	4589
+3488	FURA Jozef		0	5549
+3488	FURA Jozef, SR		0	2150,3603
+3488	FÚRA Peter		0	5549
+3488	FÚRA Peter, SR		0	2150,3603
+3488	FURINDA Dušan, 026 01, Dolný Kubín, SR		0	1465
+3488	FURINDA Ján	pôvodný zomrel	0	3673,4052
+3488	FURINDA Ján	zo Stankovian	0	3870
+3488	FURINDA Ján, SR	pôvodný zomrel	0	2792
+3488	FURINDA Ján, Stankovany Stankovany		0	5549
+3488	FURINDA Ján, Stankovany, SR		0	2150,3603
+3488	FURINDOVÁ Mária r. Babjaková, SR	zomrela	0	2770,4002
+3488	FURINDOVÁ Mária r. Lacková, SR	zomrela	0	2605,2730
+3488	FURINDOVÁ Zuzana r. Butorová, SR		0	2792
+3488	FURINDOVÁ Zuzana r. Surová, Kočiarová	zomrela	0	3942
+3488	FURINDOVÁ Zuzana r. Surová, SR	Kočiarová zomrela	0	2607
+3488	FÚROVÁ Žofia r. Malchová	zomrela	0	4296
+3488	GALANOVÁ Valéria r. Buliaková	zomrela	0	4735
+3488	GAŠPEROVÁ Žofia r. Janigová	zomrela	0	5206
+3488	GAUROVÁ Verona r. Burganová	na neznámom mieste	0	4285
+3488	HADAČ Alojz	na neznámom mieste	0	4243
+3488	HADAČ Anton	zomrel	0	4582,5549
+3488	HADAČ Anton, SR	zomrel	0	2150,3603
+3488	HADAČ Bohumil		0	3728,3730
+3488	HADAČ Cyril	zomrel	0	4953
+3488	HADAČ Ján	zomrel	0	4545
+3488	HADAČ Jozef	zomrel	0	4603
+3488	HADAČ Ladislav		0	3728,3730
+3488	HADAČ Stanislav	na neznámom mieste	0	3728,3730
+3488	HADAČOVÁ Emília	zomrela	0	4818
+3488	HADAČOVÁ Jozefína	na neznámom mieste	0	3728,3730
+3488	HADAČOVÁ Ľudmila	na neznámom mieste	0	3728,3730
+3488	HADAČOVÁ Zuzana		0	5549
+3488	HADAČOVÁ Zuzana, SR		0	2150,3603
+3488	HALAMA Jozef	zomrel	0	5549
+3488	HALAMA Jozef, SR	zomrel	0	2150,3603
+3488	HALAMA Ondrej	neznámy	0	3885
+3488	HALAMČEK Ján, SR	ml	0	2894
+3488	HALAMČEK Jozef	zomrel	0	5552
+3488	HALAMČEK Michal Ján, SR	zomrel	0	2915,3825
+3488	HALAMČEK Milan, SR	st	0	2888,2894
+3488	HALAMČEK Ondrej	zomrel	0	3998
+3488	HALAMČEKOVÁ Antónia r. Droppová, SR	zomrela	0	2894
+3488	HALAMČEKOVÁ Mária r. Kubiňanová, SR	zomrela	0	2605,2730
+3488	HALAMČEKOVÁ Mária r. Sokolová	zomrela	0	3990,5148,5360,5361,5362,5535,5836
+3488	HALAMČEKOVÁ Mária r. Sokolová, SR	zomrela	0	2878,2883,2888,2894,2928,5818,5819
+3488	HALAMČEKOVÁ Zuzana r. Bujnáková, SR	zomrela	0	2912
+3488	HANKO Michal	st. zomrel	0	3989
+3488	HANKO Michal	zomrel	0	3934,3972,3989,3990,4277,4845,5320,5321,5323,5360,5361,5362,5364,5623,5836
+3488	HANKO Michal, SR	st. zomrel	0	2883,2907,2928,5818,5819
+3488	HANKOVÁ Mária		0	3891
+3488	HANKOVÁ Mária r. Kláčová	zomrela	0	3761,3891,3971,3993,5131,5390,5424,5425,5426,5537,5610
+3488	HANKOVÁ Mária r. Kláčová, SR	zomrela	0	2915,2943
+3488	HANKOVÁ Zuzana		0	3989
+3488	HANKOVÁ Zuzana	ml. zomrela	0	3744,3761,3767,3833,4038,4227,4323,5366,5367,5368,5461,5512,5513,5516,5517,5519,5622
+3488	HANKOVÁ Zuzana	st	0	3971,3989,5390,5424,5425,5426,5537,5610,5696
+3488	HANKOVÁ Zuzana r. Kuricová	zomrela	0	3990,4607,5340,5360,5361,5362,5535,5836
+3488	HANKOVÁ Zuzana r. Kuricová, SR	zomrela	0	2883,2928,5818,5819
+3488	HANKOVÁ Zuzana, SR	ml. zomrela	0	2840,2862,2964,3011,3017,5797
+3488	HAVČO Matej	zomrel	0	4163,5549
+3488	HAVČO Matej, SR	zomrel	0	2150,3603
+3488	HAVČOVÁ Anna r. Chovancová, Gašperová	zomrela	0	4562
+3488	HAVČOVÁ Estera r. Lacková	zomrela	0	4163
+3488	HELLOVÁ Narcisa		0	4535
+3488	HELO Ondrej	Košút	0	5549
+3488	HELO Ondrej	zomrel	0	4111,5117,5549
+3488	HELO Ondrej, SR	Košút	0	2150,3603
+3488	HELO Ondrej, SR	zomrel	0	2150,3603
+3488	HELOVÁ Vilma r. Domská	zomrela	0	4111,4591
+3488	HOLDOŠ Jozef	Straka	0	5549
+3488	HOLDOŠ Jozef, SR	Straka	0	2150,3603
+3488	HOLDOŠ Karol	Straka	0	4351
+3488	HOLDOŠ Pavol	Straka zomrel	0	4860
+3488	HOLDOŠ Peter	st	0	5549
+3488	HOLDOŠ Peter, SR	st	0	2150,3603
+3488	HOLDOŠ Štefan	Straka hluchonemý zomrel	0	4309
+3488	HRAŠKO Ján		0	4036,4492
+3488	HRAŠKO Ján	najst. zomrel	0	3762,3928,4973,5446,5469,5584,5640,5641,5777,5793,5794
+3488	HRAŠKO Ján, SR	najst. zomrel	0	2781,2782
+3488	HRAŠKO Jozef	Holota zomrel	0	3942
+3488	HRAŠKO Michal	Holota zomrel	0	4663,5386,5387,5565,5567,5625
+3488	HRAŠKO Michal, SR	Holota zomrel	0	2660,5734,5868
+3488	HRAŠKOVÁ Katarína r. Kuricová, SR		0	2658
+3488	HRAŠKOVÁ Zuzana		0	4002
+3488	HRAŠKOVÁ Zuzana r. Chovanová	zomrela	0	1957,3766,3847,3849,4009,4044,4732,5327,5428
+3488	HRAŠKOVÁ Zuzana r. Chovanová, SR	zomrela	0	2753,2756
+3488	HRAŠKOVÁ Zuzana r. Lacková, SR		0	2743
+3488	HRKÚTOVÁ Katarína r. Baganová	zomrela	0	4079
+3488	HRKÚTOVÁ Pavlína r. Hadačová	zomrela	0	4243
+3488	HUNTATA Ján		0	5549
+3488	HUNTATA Ján, SR		0	2150,3603
+3488	HUNTATA Jozef		0	5549
+3488	HUNTATA Jozef	na neznámom mieste	0	4141
+3488	HUNTATA Jozef, SR		0	2150,3603
+3488	HUNTATOVÁ Mária r. Čiešková	na neznámom mieste	0	4141
+3488	HUNTATOVÁ Marta r. Plešková	na neznámom mieste	0	4155
+3488	HUSTAFA Ondrej, SR		0	2968
+3488	CHMARA Ondrej	Kutlík zomrel	0	3972,4516,5400,5459
+3488	CHMAROVÁ KRALIKOVÁ Zuzana, SR		0	2714
+3488	CHMAROVÁ Zuzana r. Brodňanská	zomrela	0	3719,3934,4465,5320,5321,5323,5459
+3488	CHMAROVÁ Zuzana r. Brodňanská, SR	zomrela	0	2907
+3488	CHMAROVÁ Zuzana r. Lomázová	zomrela	0	3719,3934,4994,5320,5321,5323,5459,5535
+3488	CHMAROVÁ Zuzana r. Lomázová, SR	zomrela	0	2907
+3488	CHOMIST Ján		0	5549
+3488	CHOMIST Ján, SR		0	2150,3603
+3488	CHOMIST Jozef	zomrel	0	5189,5549
+3488	CHOMIST Jozef, SR	zomrel	0	2150,3603
+3488	CHOMISTOVÁ Anna r. Šimová, Svrčeková	zomrela	0	3923
+3488	CHORVÁTOVÁ Mária r. Mališková	na neznámom mieste	0	4823
+3488	CHORVÁTOVÁ Zuzana	zomrela	0	3631,3658,3723,3806,3807,3808,3809,3810,3811,3812,3813,3814,3815,3816,3818,3820,3821,3841,3863,4045,4386,5553,5601,5626,5631
+3488	CHORVÁTOVÁ Zuzana, SR	zomrela	0	2727,2728,2822,2823,2830,2839,2841,2873,3170,3484,5967,5995
+3488	CHOVANOVÁ - KOPOVÁ Zuzana, SR	zomrela	0	3855,3856,3899,4571,5405,5694
+3488	CHOVANOVÁ Katarína r. Babjaková, SR		0	2716
+3488	CHOVANOVÁ KOPOVÁ Zuzana, SR	zomrela	0	2588,2598,5694
+3488	CHYLA Jozef	Kurnát zomrel	0	5314
+3488	CHYLA Karol	Kurnát zomrel	0	5314,5536
+3488	CHYLA Marián		0	5549
+3488	CHYLA Marián, SR		0	2150,3603
+3488	CHYLOVÁ Anna r. Straková	zomrela	0	5314,5536
+3488	CHYLOVÁ Mária r. Lacková	zomrela	0	5314,5536
+3488	JAKOBY Eva r. Palusková, SR		0	3424
+3488	JANIGA Anton	zomrel	0	3765
+3488	JANIGA Gerváz	neznámy	0	5291
+3488	JANIGA Ján	zomrel	0	3983,5549
+3488	JANIGA Ján, SR	zomrel	0	2150,3603
+3488	JANIGA Ondrej	zomrel	0	3983
+3488	JANIGA Peter	zomrel	0	5083
+3488	JANIGOVÁ Anna r. Dančová	zomrela	0	5008
+3488	JANIGOVÁ Berta r. Helová		0	4279
+3488	JANÍKOVÁ Pavlína r. Burganová	zomrela	0	4285
+3488	JANÍKOVÁ Žofia r. Chovancová	zomrela	0	4854
+3488	JÁNOŠÍK František	zomrel	0	3870
+3488	JÁNOŠÍK Michal	zomrel	0	3870
+3488	JÁNOŠÍKOVÁ Gizela	zomrela	0	3870
+3488	JAVORNICKÁ Katarína	zomrela	0	5662
+3488	JURÁŠ Ján		0	3666,3780,3929,5747,5916
+3488	JURÁŠ Ondrej		0	3942
+3488	JURÁŠ Ondrej, SR		0	2868
+3488	JURÁŠOVÁ Zuzana		0	3791,5420,5694
+3488	JURÁŠOVÁ Zuzana r. Brodňanská	zomrela	0	3666,3780,4045,4584,5600,5747,5916
+3488	JURÁŠOVÁ Zuzana r. Brodňanská, SR	zomrela	0	2814,3028,3628,5925,6019
+3488	JURČÍK Michal, SR		0	3424
+3488	KAJKO Michal, Krúpa	zomrel	0	3644
+3488	KAJKO Ondrej, Krúpa	zomrel	0	4461,5363,5397,5524,5694,5975
+3488	KAJKO Ondrej, SR	Krúpa zomrel	0	2758,5973
+3488	KAJKOVÁ Katarína r. Dymáková	zomrela	0	3998
+3488	KALINA Ondrej	zomrel	0	3723,3754,3755,3756,3806,3807,3808,3809,3810,3811,3812,3813,3814,3815,3816,3818,3820,3821,4045,4791,5379,5472,5481,5631
+3488	KALINA Ondrej, SR	zomrel	0	2727,2728,2829,2839,2841,2845,2873,2906,2914,2987,3170,5887,5967,5995
+3488	KALINČÁK Ondrej, Mikuš	zomrel	0	3930,4138,4139,4765,5282,5345,5347,5348,5440,5543,5628,5646
+3488	KALINČÁK Ondrej, SR	Mikuš zomrel	0	2558,2610
+3488	KALINČÁKOVÁ Katarína		0	4731
+3488	KALINČÁKOVÁ Katarína r. Kalinčáková, SR	zomrela	0	2609,2688
+3488	KALINČÁKOVÁ Katarína r. Mikušová	zomrela	0	3647,3720,4363,4883,5345,5347,5348,5380,5440,5533,5543,5628,5646
+3488	KALINČÁKOVÁ Katarína r. Mikušová, SR	zomrela	0	2558,2608,2610,2688
+3488	KALINOVÁ Verona r. Buchtiaková	neznáma	0	4221,4289
+3488	KALINOVÁ Zuzana		0	4002
+3488	KALINOVÁ Zuzana r. Čierna	zomrela	0	1957,3847,3849,4002
+3488	KANDLIKOVÁ Zuzana r. Škutová	zomrela	0	5655
+3488	KARASOVÁ Mária r. Urbanová	zomrela	0	4276
+3488	KEVEŠOVÁ Emília r. Turčinová, SR	zomrela	0	2915
+3488	KEVEŠOVÁ Mária	zomrela	0	3746,4019,4270,4870,5746
+3488	KITASOVÁ Zuzana r. Hanková	zomrela	0	3998
+3488	KITAŠOVÁ Jozefína		0	5552
+3488	KITAŠOVÁ Jozefína r. Púčeková, SR	zomrela	0	2880,2882,2883,2928,5818,5819
+3488	KITAŠOVÁ Jozefína r. Púčeková, SR, zomrela zomrela		0	5552
+3488	KLAVECOVÁ Zuzana r. Užeková	zomrela	0	3824,3969,4005,4353,5405,5633,5634,5636,5638
+3488	KLAVECOVÁ Zuzana r. Užeková, SR	zomrela	0	2613
+3488	KLENECOVÁ Ludmila r. Burošová	na neznámom mieste	0	4680
+3488	KONFALOVÁ - BETIŠOVÁ Mária r. Šimová, SR	Svrčeková neznáma	0	3923
+3488	KONÍKOVÁ Margita r. Tatárová		0	5267
+3488	KOVÁČIKOVÁ Katarína	ml	0	5549
+3488	KOVÁČIKOVÁ Katarína	st	0	5549
+3488	KOVÁČIKOVÁ Katarína, SR	ml	0	2150,3603
+3488	KOVÁČIKOVÁ Katarína, SR	st	0	2150,3603
+3488	KOVÁČOVÁ Zuzana r. Halamčeková	zomrela	0	3942,3998
+3488	KREDIČOVÁ Antonia		0	3945
+3488	KREDIČOVÁ Antonia r. Škutová	zomrela	0	4076
+3488	KROPÁČ Eugen	na neznámom mieste	0	5536
+3488	KROPÁČ Eugen, SR		0	3782
+3488	KRÚPA Anton		0	4621
+3488	KRÚPA Ján, SR		0	2712
+3488	KRÚPA Jozef	zomrel	0	4985,5549
+3488	KRÚPA Jozef, SR	zomrel	0	2150,3603
+3488	KRÚPA Ondrej, SR	Kalinčák st	0	2787
+3488	KRÚPOVÁ Ľudmila r. Poliaková	zomrela	0	4276
+3488	KRÚPOVÁ Margita r. Matulová	zomrela	0	3941
+3488	KRÚPOVÁ Mária r. Čadová, SR		0	2712
+3488	KRÚPOVÁ Mária r. Kondyová	zomrela	0	5248
+3488	Krúpová Zuzana	zomrela	0	3669,3699,3701,3702,4016,4385,5577
+3488	KRÚPOVÁ Zuzana, SR	zomrela	0	2562,2569,5816
+3488	KUBALA Jozef, SR	zomrel	0	2605,2730,2968
+3488	KUČERIAKOVÁ Antónia		0	5549
+3488	KUČERIAKOVÁ Antónia r. Špidusová	zomrela	0	4345
+3488	KUČERIAKOVÁ Antónia, SR		0	2150,3603
+3488	KUČMOVÁ Anna		0	3827
+3488	KUČMOVÁ Anna r. Zubajová	zomrela	0	5149
+3488	KUČMOVÁ Johana r. Janigová	zomrela	0	5291
+3488	KUKLOVÁ Katarína r. Škutová	zomrela	0	5655
+3488	KULICHOVÁ BRAŽINOVÁ Anna, SR		0	2616
+3488	KURIC Ján	zomrel	0	3998
+3488	KURIC Ján, SR	zomrel	0	2887
+3488	KURNOTA Ján, SR	najst. zomrel	0	2838
+3488	KURNOTA Ján, SR, najst.zomrel najst.zomrel		0	3942
+3488	KURNOTA Ondrej	Majda zomrel	0	3928,3935,4014,4029,4093,4460,5416,5446,5469,5545,5640,5641,5777,5793,5794
+3488	KURNOTA Ondrej, SR	Majda zomrel	0	2781,2828
+3488	KURNOTOVÁ Mária r. Adamcová, SR	zomrela	0	2756
+3488	KURNOTOVÁ Zuzana r. Sobeková	zomrela	0	4029
+3488	KURNOTOVÁ Zuzana r. Sobeková, SR	zomrela	0	2828
+3488	KYTAS Ján	zomrel	0	3783,3998,4011,4035,4572,5493,5495
+3488	KYTAS Ján, SR	zomrel	0	2619,2676,3094,3103,3104,5957,5958
+3488	KYTAS Ondrej, SR	st	0	2895
+3488	KYTAS Ondrej, SR	zomrel	0	2605,2730
+3488	KYTASOVÁ Zuzana r. Hanková	zomrela	0	5340
+3488	KYTASOVÁ Zuzana r. Hanková, SR	zomrela	0	2867
+3488	KYTAŠOVÁ Jozefína, SR	zomrela	0	2605,2730
+3488	LACKO Albín		0	5549
+3488	LACKO Albín	Drapčo zomrel	0	5074
+3488	LACKO Albín, SR		0	2150,3603
+3488	LACKO Anton	zomrel	0	5262,5264
+3488	LACKO Ján	Rajder	0	5549
+3488	LACKO Ján	Šuhaj zomrel	0	4820
+3488	LACKO Ján, SR	Rajder	0	2150,3603
+3488	LACKO Jozef		0	5549
+3488	LACKO Jozef	Drapčo zomrel Drapčo zomrel	0	4849
+3488	LACKO Jozef	Mudaj	0	5549
+3488	LACKO Jozef	predák	0	5549
+3488	LACKO Jozef	Suma ml	0	5549
+3488	LACKO Jozef	Suma st	0	5549
+3488	LACKO Jozef	Suma zomrel	0	4764
+3488	LACKO Jozef	Šuhaj	0	5549
+3488	LACKO Jozef	zomrel	0	5525
+3488	LACKO Jozef, SR		0	2150,3603
+3488	LACKO Jozef, SR	Mudaj	0	2150,3603
+3488	LACKO Jozef, SR	predák	0	2150,3603
+3488	LACKO Jozef, SR	Suma ml	0	2150,3603
+3488	LACKO Jozef, SR	Suma st	0	2150,3603
+3488	LACKO Jozef, SR	Šuhaj	0	2150,3603
+3488	LACKO Jozef, Stankovany Stankovany		0	5140,5262,5264
+3488	LACKO Juraj	Mudaj zomrel Mudaj zomrel	0	4781
+3488	LACKO Juraj, SR	zomrel	0	2683,2686,2689
+3488	LACKO Karol	zomrel	0	4856
+3488	LACKO Ľudevít		0	5549
+3488	LACKO Ľudevít, SR		0	2150,3603
+3488	LACKO Michal, SR	zomrel	0	2697
+3488	LACKO Ondrej	najst. zomrel	0	3930,5440,5543,5646
+3488	LACKO Ondrej	zo Stankovian	0	3870
+3488	LACKO Ondrej, Stankovany Stankovany		0	5549
+3488	LACKO Ondrej, Stankovany, SR		0	2150

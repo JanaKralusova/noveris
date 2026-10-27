@@ -1,0 +1,256 @@
+302	PALKA Jozef		0	2420,2549,2642,2663,3693,3991
+302	PALKA Jozef	1	0	3015
+302	PALKA Jozef	ž.Kušnírová Mária	0	2103
+302	PALKA Jozef	ž.Valeková Helena	0	2642
+302	PALKA Michal		0	2420,2644,2682,2691
+302	PALKA Michal	pkv 1	0	3564
+302	PALKA Michal	ž.Arpášová Helena	0	2642
+302	PALKA Ondrej		0	2682
+302	PALKA Pavol	?	0	2682
+302	PALKA Róbert		0	2682
+302	PALKA Štefan	pkv 1	0	3564
+302	PÁLKA Štefan	ž.Anna r.Čankyová	0	3015,3693,3991
+302	PALKOVÁ Anna r. Baraníková	7.7.1924	0	3727
+302	PALKOVÁ Barbora	r.Kochanová	0	2661
+302	PALKOVÁ Eva	r.Palková	0	2090,2682
+302	PALKOVÁ Františka	r.Bidelnicová	0	2690
+302	PALKOVÁ Mária		0	2682
+302	PALKOVÁ Mária	r.Čankyová	0	1901,2421,2463
+302	PALKOVÁ Mária r. Čankyová		0	3620
+302	PALKOVÁ Mária r. Ligačová		0	3564
+302	PALKOVÁ Mária r.Žigardyová		0	2549
+302	PALKOVÁ Verona r. Palková		0	3564
+302	PALKOVÁ Veronika		0	2691
+302	PALKOVÁ Veronika	r.Palková	0	2644
+302	PALÚSKOVÁ Júlia		0	2672
+302	PASEKOVÁ Katarína r. Kováčová		0	3613
+302	Patayová Júlia r. Vaňová		1	3761
+302	PATÚCOVÁ Rozália r. Žoldošová	14.3.1911	0	1777
+302	PAVELKA Ján		0	1910
+302	PAVELKOVÁ Mária	r.Núdzná	0	2295,3083
+302	PAVELKOVÁ Mária	r.Ozorovská	0	2119
+302	PAVLIŠOVÁ Alžbeta	r.Javúreková	0	2868
+302	PETRÁKOVÁ Vilma		0	3566
+302	PETROVICOVA Terezia r. Beckova		0	2976,3692
+302	PINTEROVÁ Anna	r.Slezáková	0	1970
+302	PLÁNKOVÁ Margita		0	1899,1928,2052,2429,2617,2977,3638,3989
+302	PLÁNKOVÁ Mária		0	1899,2052
+302	PLECHOVÁ Margita	r.Čuláková	0	2108
+302	PORUBSKÁ Anna	mal	0	3651
+302	PORUBSKÁ Jolana r. Hušková	vdova	0	3649
+302	PORUBSKÁ Júlia r. Cipriánová		0	3633
+302	PORUBSKÝ František		0	1877
+302	PORUBSKÝ Martin	mal	0	3651
+302	PORUBSKÝ Štefan	mal	0	3651
+302	POSPÍŠ Ján		0	2368,2373,3568
+302	POSPÍŠ Ján	ž.Mária Pospíšová	0	1978
+302	POSPÍŠ Ján	ž.Nyerecsová Mária	0	1970
+302	POSPÍŠ Štefan		0	2347
+302	POSPÍŠOVÁ Mária	m.Ján Pospíš	0	1978
+302	PRUŽINSKÁ Júlia	r.Václavová	0	2092,2213
+302	PRUŽINSKÝ Ján	ž.Václavová Júlia	0	2092,2213
+302	RAJČÁKOVÁ Mária	r.Smatanová	0	2045
+302	RAJČANI Štefan		0	1970
+302	RÉCSI Jozef		0	1971
+302	RÉCSI Jozef	ž.Trnková Paulína	0	1971
+302	REPTÍKOVÁ Mária	r.Hargášová	0	1969
+302	RIVULOVÁ Veronika	r.Kováčová	0	2590
+302	ROHÁČEK Viliam	ž.Miklasová Anna	0	2460
+302	ROHÁČEKOVÁ Anna	r.Miklasová	0	2460
+302	ROJKO Gregor	ž.Barbora Líšková	0	3625
+302	ROJKO Gregor	ž.Líšková Barbora	0	2770
+302	ROJKOVÁ Barbora r. Líšková		0	3625
+302	ROSENZWEIG Imrich		0	2960
+302	ROSENZWEIG Ladislav		0	2960
+302	RÓTHOVÁ Anna		0	2960
+302	RUŽIČKOVÁ Júlia	r.Žilíková	0	2693
+302	SEDLÁČEK Ján	ž.Sekerešová Anna	0	2171
+302	SEDLÁČIKOVÁ Františka r. Marčišová		0	3639,3640
+302	SCHWALBOVÁ Regína	r.Franklová	0	2404
+302	SCHWEIDLEROVÁ Júlia	r.Krúpová	0	2884
+302	SILLENYIOVÁ Františka	r.Adlerová	0	2404,2443
+302	SITÁR František	25.10.1922	0	3595
+302	SITÁROVÁ Filomena r. Slamka-Porubská		0	3593,3634,4108
+302	SITÁŠ Karol	ž.Kozelová Irena	0	2344,2346
+302	SKOVAJOVÁ Katarína	r.Čankyová	0	1961
+302	SKOVAJOVÁ Rozália	r.Čankyová	0	1857,1901,2420,2421,2463,2663,2782
+302	SKOVAJSOVÁ Rozália r. Čankyová		0	1540,3015,3620,3693,3991
+302	SKYČÁK Oskar		0	2052,3638
+302	SLAMKOVÁ Cecília r. Porubská		0	3593
+302	SLAŽANSKÁ Paulína	r.Medvecká	0	1850,2702
+302	SLAŽANSKÁ Paulína r. Medvecká		0	223
+302	SLEZÁK Jozef	ž.Orlíčková Mária	0	1970
+302	SLEZÁKOVÁ Anna	r.Nitryová	0	2348
+302	SLÍŠ Ján, SR		0	431
+302	SLÍŠ Jozef, SR		0	431
+302	SLÍŽ Ján		0	3753
+302	SLÍŽ Ján, SR		0	431
+302	SLÍŽ Jozef		0	2319,3753
+302	SLÍŽ Jozef	1	0	3576
+302	SLÍŽ Jozef, SR		0	431
+302	SLÍŽ Pavol		0	2319,3753
+302	SLÍŽ Pavol, SR		0	431
+302	SLÍŽOVÁ Anna		0	2319
+302	SLÍŽOVÁ Mária	r.Kováčová	0	2643,2644,2649
+302	SLÍŽOVÁ Mária r. Kováčová		0	3564
+302	SLÍŽOVÁ Verona		0	3753
+302	SLÍŽOVÁ Verona, SR		0	431
+302	SMATANA František	ž.Tasaryová Paulína	0	2756
+302	SMATANA František	žen.Paulína Tasáryová	0	3596
+302	SMATANA Štefan		0	1943
+302	SMATANOVÁ Mária	r.Cintulová	0	1934,1971,2084
+302	SMATANOVÁ Mária r. Cintulová		0	3713,3992
+302	SMATANOVÁ Paulína	r.Tasaryová	0	2756
+302	SMATANOVÁ Paulína r. Tasárová		0	3596
+302	SOKYOVÁ Paulína r. Slížová		0	3753
+302	SOKYOVÁ Paulína r. Slížová, SR		0	431
+302	SPONÁR Peter	ž.Líšková Júlia	0	2511,2512
+302	STAHEL Jozef		0	2000,2629,2657
+302	STAHEL Jozef	ž.Kľbiková Irena	0	2662
+302	STAHEL Pavol		0	2662
+302	STAHEL Štefan	ž.Demeterová Zlatica	0	2002,2655,2658
+302	STAHEL Štefan	ž.Zlatica Demeterová	0	2652
+302	STAHELOVÁ Zlatica	r.Demeterová	0	2002,2655
+302	STANK Elek	ž.Baková Mária	0	2872
+302	STANK Ján		0	1962
+302	STANKOVÁ Anna	r.Illešová	0	1962,2351,2381,2384,2385,2472,2666
+302	STANKOVÁ Anna r. Illešová		0	1763,3699
+302	STANKOVÁ Mária	r.Baková	0	2872
+302	STANKOVÁ Mária	r.Illešová	0	2381,2384,2385
+302	STANKOVÁ Natália r. Pospíšová		0	3568
+302	STEINER Gejza		0	2379,3661
+302	STEINEROVÁ Berta	r.Ehrensteinová	0	2404
+302	STRAKA Ján	ž.Mária r.Hemelová	0	3661
+302	STRASSEROVÁ Paulína	r.Cintulová	0	2295,3083
+302	SUDOVSKÁ Cecília r. Porubská		0	3244
+302	SUDOVSKÁ Cecília r. Slamka Porubsk	á	0	3593,3595,3634
+302	SÚDOVSKÝ František		0	3591
+302	SUROVKOVÁ Františka	r.Kunová	0	2420,2452,2663,3091
+302	SUROVKOVÁ Františka r. Kunová		0	3015,3693,3991
+302	SUROVKOVÁ Mária	r.Kunová	0	2420,2452,2663,3091
+302	SUROVKOVÁ Mária r. Kunová		0	3015,3693,3991
+302	SVITÁČ Július		0	2652
+302	SVITEK Jozef	žen.Mária Očovská	0	223,3717
+302	SVITEKOVÁ Mária r. Očovská		0	223,3717
+302	SVITEKOVÁ Terézia	r.Palková	0	1951
+302	SZABOVÁ Mária r. Šimová	11.1.1912	0	3711,3906
+302	SZILARD Heinrich		0	2404
+302	SZILARD Samuel	Dr	0	2404
+302	SZILARD Viliam	Dr	0	2404
+302	SZIRÁNI Arnošt	Dr	0	1914,2404,2405,2438,2443
+302	SZLATENI Imrich		0	2285
+302	SZLIZSOVÁ Anna		0	3753
+302	SZLIZSOVÁ Anna, SR		0	431
+302	SZLIZSOVÁ Verona		0	3753
+302	SZLIZSOVÁ Verona, SR		0	431
+302	ŠAŠÍKOVÁ Katarína	r.Núdzná	0	2295,3083
+302	ŠIBILLOVÁ Vilma r. Marčišová		0	3639,3640
+302	ŠIMEKOVÁ Johana	r.Neumannová	0	1958,2335,2379
+302	ŠIMEKOVÁ Johana r. Neumannová		0	3661,3711,3745,3906
+302	ŠIMKOVÁ Magdaléna	r.Nováková	0	2471,2876
+302	ŠIMOVÁ Barbora	r.Lozanová	0	2848
+302	ŠINKOVIČ František		0	1941,2039,2987,3942
+302	ŠINKOVIČ Imrich	ž.Jakubecová Anna	0	2396
+302	ŠINKOVIČ Jozef	ž.Miháliková Mária	0	2367
+302	ŠINKOVIČ Karol		0	3609
+302	ŠINKOVIČ Pavol	ž.Cyprianová Terézia	0	2935
+302	ŠINKOVIČ Štefan		0	1982
+302	ŠINKOVIČOVÁ Irma	r.Jakubcová	0	1858
+302	ŠINKOVIČOVÁ Irma r. Jakubcová		0	1611
+302	ŠINKOVIČOVÁ Mária	r.Miháliková	0	1900
+302	ŠINKOVIČOVÁ Terézia	r.Cyprianová	0	1892,1894,1895,1921,2400,2447,2600,2602,2683,2935,3773,3774
+302	ŠINKOVIČOVÁ Terézia	r.Tasaryová	0	2444
+302	ŠINKOVIČOVÁ Terézia r. Cipriánová		0	620,1544,1715,3682,3715,3963,3964,3965
+302	ŠINKOVIČOVÁ Terézia r. Tasáryová		0	3638
+302	ŠKABLOVÁ Terézia	r.Belaniová	0	2806
+302	ŠKABLOVÁ Terézia r.Belaniová		0	2871
+302	ŠOTET Ján		0	2414,2619
+302	ŠOTET Michal		0	2414,2619
+302	ŠOTETOVÁ Jozefína		0	2414,2619
+302	ŠPÁNIK Ján	ž.Šišková Veronika	0	2135
+302	ŠPÁNIKOVÁ Mária		0	2135,2806
+302	ŠTANK Ján	05.10.1902	0	3699
+302	ŠTECHOVÁ Terézia	r.Cintulová	0	1862
+302	ŠURABA Dezider		0	2659
+302	ŠURABA Ján		0	1991
+302	ŠURABA Michal	ž.Citárská Mária	0	2761
+302	Šuraba Štefan		0	1715,2281,2605,2659,3715,3965
+302	ŠURABOVÁ Júlia		0	1991
+302	ŠURABOVÁ Júlia	r.Palušková	0	2694
+302	ŠURABOVÁ Mária		0	2659
+302	ŠURABOVÁ Mária	r.Citárská	0	2761
+302	ŠURALOVÁ Mária r. Kováčová		0	3613
+302	TAKÁČ Viktor Dr.		0	3633
+302	TANČÁKOVÁ Júlia		0	1971,3713,3992
+302	TANTOŠOVÁ Katarína	r.Cintulová	0	2767
+302	TASARY Ján		0	1863,1864,1883,1932,1961,2043,2052,2087,2412,2429,2444,2539,2599,2607,2973,3567,3571,3605,3638,3898,4050,4061,4085
+302	TASARY Ján	?	0	1885
+302	TASARY Ján	ž.Agnesa r.Bariková	0	1732,3738,3739
+302	TASARY Ján	ž.Baraníková Agnesa	0	2638
+302	TASARY Ján	ž.Boríková Agnesa	0	1979,2282,2358,2390,2394,2768,2803,3527
+302	TASARY Ján	ž.Cintulová Terézia	0	1961,2412,2607
+302	TASARY Ján	ž.Šinkovičová Mária	0	2598
+302	TASÁRY Ján, SR		0	1090
+302	TASARY Jozef	ml	0	2707
+302	TASARY Jozef	ž.Baraníková Anna	0	2654
+302	TASARY Karol		0	1856
+302	TASARY Martin		0	1856
+302	TASARY Pavel		0	1873
+302	TASARY Pavol	ž.Tantošová Júlia	0	1979,2282,2358,2390,2394,2533,2638,3527
+302	TASÁRY Pavol		0	1732,1863,1864,1904,1932,1961,2043,2052,2087,2429,2444,2457,2539,2599,2973,3567,3571,3605,3638,3738,3739,3898,4050,4061,4085
+302	TASÁRY Pavol, SR		0	1090
+302	TASARYOVÁ Agnesa	r.Boríková	0	2768
+302	TASÁRYOVÁ Anna r. Baraníková		0	3694
+302	TASARYOVÁ Františka		0	1961
+302	TASARYOVÁ Júlia	r.Tantošová	0	1873
+302	TASARYOVÁ Mária	r.Gemmelová	0	1980,2391,2392
+302	TASARYOVÁ Mária	r.Lieskovská	0	2282,2288,2620,2803
+302	TASARYOVÁ Mária r. Gemmelová		0	2004,3177
+302	TASARYOVÁ Rozália	r.Cyprianová	0	2544
+302	TASÁRYOVÁ Rozália	r.Miháliková	0	1907,1908
+302	TASÁRYOVÁ Vilma r. Leskovská		0	3657
+302	TAŠKÁROVÁ Albína	r.Nitryová	0	2372
+302	TAŠKÁROVÁ Albína r. Nitryová		0	3736,3756,3994
+302	TESÁRIK Ján	ž.Šinkovičová Mária	0	2807
+302	TESÁRIK Ján	žen.Mária Sinkovičová	0	3607
+302	TESÁRIKOVÁ Mária r. Sinkovičová		0	3607
+302	TIROL Imrich	ž.Gubranová Natália	0	2573
+302	TIROL Imrich	žen.Natália Gubranová	0	3656
+302	TIROLOVÁ Mária		0	2512
+302	TIROLOVÁ Natália	r.Gubranová	0	2573
+302	TIROLOVÁ Natália r. Gubranová		0	3656
+302	Tkácsik Michal		0	1715,3715,3965
+302	Tkácsiková Júlia		0	1715,3715,3965
+302	TKÁČIKOVÁ Anna	r.Molnárová	0	2408,2711
+302	TKÁČIKOVÁ Helena r. Bibeňová	30.11.1913	0	223
+302	TONČÁKOVÁ Júlia		0	1971,3713,3992
+302	TÓTH Michal	ž.Klbiková Veronika	0	1989
+302	TYROL Ján	ž.Hambalková Katarína	0	2430
+302	TYUKOS František		0	2948
+302	TYUKOS Štefan		0	2948
+302	TYUKOSOVÁ Eva		0	2948
+302	UHÁRIKOVÁ Irena	r.Cintulová	0	3083
+302	URBANOVÁ Terézia	r.Končírová	0	2436
+302	URBANOVÁ Terézia r. Končírová		0	2137
+302	VACHULÍK Michal	žen.Anna Holecová	0	3731
+302	VACHULÍKOVÁ Anna r. Holecová		0	3731
+302	VANČEK Jozef		0	2375
+302	VAŇO Jozef	ž.Anna r.Kuchtová	0	3761
+302	VAŇO Michal	ž.Mária r.Patajová	0	3758,3761
+302	VAŇOVÁ Mária r. Patajová		0	3758
+302	VARGOVÁ Rozália r. Marčišová		0	3639,3640
+302	VAŠŠ Vincent	žen.Mária Kolečániová	0	3729
+302	VAŠŠOVÁ Mária r. Kolečániová		0	3729
+302	VESELKA Martin		0	1954,2651
+302	VESELKOVÁ Helena r. Martišová	11.08.1923	0	3639,3640
+302	VIDOVÁ Helena r. Docziová	01.02.1913	0	223
+302	VRBIAK Vendelín r. Vrbiak	9.6.1921	0	620,3963
+302	WÁGNER Vojtech		0	2054
+302	WEINFELDOVÁ Berta	r.Franklová	0	2404
+302	WEISOVÁ Berta		0	1864,2052,2266,2320,2408,2444
+302	WEISOVÁ Mária		0	1864,2052,2266,2320,2408,2444
+302	WEISOVÁ Žofia		0	1864,2052,2266,2320,2408,2444
+302	WEISSOVÁ Berta		0	1185,3571,3638,3708,3754,3898,4050,4061,4085
+302	WEISSOVÁ Mária		0	1185,3571,3638,3708,3754,3898,4050,4061,4085
+302	WEISSOVÁ Žofia		0	1185,3571,3638,3708,3754,3898,4050,4061,4085
+302	ZÁBUŠKOVÁ Helena	r.Ozorovská	0	2455

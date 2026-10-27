@@ -1,0 +1,256 @@
+3245	Sakara Peter	zomrel	1	320
+3245	Sakara Peter	zomrel 1	0	235
+3245	Sakara Peter	zomrel 2	0	229
+3245	SAKARA Peter	zomrel 1, B 18 -	1	93
+3245	SAKARA PETER		1	40,428,539
+3245	Sakara Štefan		1	320
+3245	Sakarová Anna		1	40
+3245	Sakarová Mária		1	40
+3245	Sakarová Mária r. Čepová		1	110
+3245	Sakarová Mária r. Hricková	zomrela	0	249,635
+3245	Sakarová Mária, Námestí 210, Nejdek, ČR		1	38
+3245	SAKAROVÁ Mária, r. Hricková		0	452
+3245	Sakarová Paraska r. Otrošinová	NV	1	256
+3245	SAKAROVÁ Paraska, r.Otrošinová		0	483
+3245	Sebastianová Ilona		1	307
+3245	SEBESTIANOVÁ Helena		0	497
+3245	SEKEĽ Michal		0	404
+3245	SEKEĽ Vasiľ		0	389
+3245	SEKEĽOVÁ Helena		0	573
+3245	SEKEĽOVÁ Mária		0	486
+3245	SENAJOVÁ Mária, r. Rudyová		0	361
+3245	SLIVKA Demeter		0	555
+3245	Slivka Ján		1	312
+3245	Slivka Jozef		1	312
+3245	SLIVKA Juraj, ž.Mičová Mária ž.Mičová Mária		0	438
+3245	Slivka Michal		1	312,461
+3245	Slivka Michal	zomrel	1	230,232,239,317,333,620
+3245	Slivka Peter		1	312,499
+3245	Slivka Peter	zomrel	1	230,232,239,317,333,620
+3245	Slivková Anna r. Slivková	Baková	1	312
+3245	SLIVKOVÁ Mária		0	426
+3245	Slovenská repunlika		0	620
+3245	Sokolová Mária r. Pecuchová		1	111,259
+3245	SOKOLOVÁ Mária, r. Pecuchová		0	538
+3245	STACHOVÁ Anna		0	455
+3245	Surgent Ján	NV	1	257
+3245	SURGENT Ján		0	552
+3245	Surgent Michal	NV	1	257
+3245	SURGENT Michal		0	456
+3245	Surgent Peter	NV	1	257
+3245	SURGENT Peter		0	416
+3245	Škitka Andrej		1	318,618
+3245	Škitka Michal		1	318,618
+3245	Škitka Štefan	zomrel	1	231,318,618
+3245	ŠKITKA Štefan		0	412
+3245	TERAZ Ján, ž.Slivková Mária ž.Slivková Mária		0	380
+3245	Terazová Mária	zomrela 1	0	260
+3245	Terazová Mária	zomrela 2	0	260
+3245	TERAZOVÁ Mária		0	353,365,397,475
+3245	Terazová Mária r. Slivková		1	302,327
+3245	TERAZOVÁ Mária, r. Slivková		0	501
+3245	Vaňko Andrej	zomrel	1	231,318
+3245	VAŇKO Andrej		0	494
+3245	Vaňková Anna	zomrela	1	231,318,618
+3245	VAŇKOVÁ Anna		0	565
+3245	VRÁBEĽ Fedor		0	502
+3245	Zapotocký Michal		0	309
+3246	BUKOVÝ Anton, Vršovice, Praha, ČR		0	12,24,35
+3246	Bukový Anton, Vršovice, Praha, PSČ 100 00, ČR		0	10
+3246	BUKOVÝ Anton, Vršovice, Praha, SR		0	9,26,28,40
+3246	DIAMANTOVÁ Šarlota r. Stillerová		0	22
+3246	KLAČKO Kalman		0	9,10,12,24,26,28,35,40
+3246	KOHUTOVÁ Janka r. Stillerová		0	22
+3246	MESÁROŠOVÁ Rudolfína r. Vozáriková	zom.9.12.1982	0	15
+3246	Mikulová Jozefa r. Hatalová, 034 95, Likavka, č. 658, SR	zomrela 11.7.2001	0	9,10,12,24,26,28,35,40
+3246	Moravčík Daniel		0	8,10,13,38
+3246	Moravčík Ladislav		0	8,10,13,38
+3246	Moravčík Milan		0	8,10,13,38
+3246	Moravčíková Ilona		0	8,10,13,38
+3246	Pytličko Ľudovít		0	8,10,13,19,38
+3246	SILÁDI Dávit, Dr.		0	22
+3246	STILLER Leopold		0	22
+3246	STILLER Samo		0	22
+3246	Šolcová Emília r. Multáňová	vd	0	8,10,13,38
+3246	VOZÁRIK Bohuš, Dr.		0	11,12,14,16,32,39
+3247	Badiková Mária r. Križanová	nar. 17.08.1890	1	948
+3247	BADÍKOVÁ MÁRIA r. KRIŽANOVÁ, 01861, VISOLAJE, SR	nar. 17.08.1890	0	953
+3247	Balejková Mária	R.Benková	0	1038,1051,1087
+3247	Balejková Mária r. Benková		0	953,1102
+3247	Banincová Antonia r. Kacerenková, 018 61, VISOLAJE, č. 132, SR		0	161,844,857,931,1782,1809
+3247	Banincová Mária r. Hudčeková	nar. 23.09.1883	0	937
+3247	Baránek Jakub		0	953,1102
+3247	BARÁNKOVÁ MÁRIA r. BINKOVÁ, 01861, VISOLAJE, SR	nar. 30.04.1893	0	953
+3247	Belobradová Jozefína	R.Kanisová	1	749,758,759,764,766,770,961,962,1356,1416,1438,1638,1703,1712,1713,1774,1775,1777,1778,1779,1813,1814,1815,1816,1817,1818,1819,1820,1821,1822,1823,1824,1825,1826,1827,1977,1979
+3247	Belobradová Zuzana	R.Tomášová	1	1588
+3247	Beniaková Anna		0	1103
+3247	BENKO ANDREJ r. BENKO	zom.4.6.1974	0	1038
+3247	Benko Ján		1	953,1102,1418
+3247	Benko Ladislav		0	953,1038,1051,1087,1102
+3247	Benková Alžbeta	R.Lazová	0	1045
+3247	Benková Anna	R.Masláková	0	1086
+3247	Benková Čižmárová Katarína		0	953,1102
+3247	Benková Čižmárová Mária		0	953,1102
+3247	Benková Mária r. Podolinská, 01861, Visolaje, SR	nar. 28.02.1886	0	1038
+3247	Binka Andrej		0	1038
+3247	Binková Terézia		1	953,1038,1045,1091,1102,1418,1422
+3247	Blahovská Anna	R.Beniaková	1	1108,1122,1125,1129,1434,1554,1558,1898
+3247	Blahovská Anna	R.Zigová	1	1104,1120,1428
+3247	Blahovská Anna r. Zigová		0	953,1102
+3247	Blahovská Katarína	R.Mošková	0	1103
+3247	Blahovská Mária	Muž Pavol	1	1428,1554
+3247	Blahovská Mária	R.Marková	0	1104,1118,1120,1123,1124,1125
+3247	Blahovská Mária r. Marková		0	953,1102
+3247	BLAHOVSKÝ JOZEF, SR		0	1108,1115,1116
+3247	Blahovský Michal		0	1115,1116
+3247	Blašková Žofia	R.Ganošková	1	904,1743
+3247	Blašková Žofia r. Ganošková		0	483,943,1739
+3247	Bollerová Mária r. Ganošková	Visolaje	0	1739
+3247	Bollerová Mária r. Ganošková, VISOLAJE, SR		0	483
+3247	Boritášová Alžbeta		0	953,1102
+3247	Boritášová Anna		0	953,1102
+3247	Boritášová Mária		1	953,1102,1420,1421
+3247	Botek Blažej		1	481,819,916,917,920,1091,1098,1408,1409,1411,1443,1721,1733,1760,1764
+3247	Botek Blažej	v Amerike	0	483,1739
+3247	Botek Karol		0	481,819,1733
+3247	Botek Karol	Visolaje	0	1739
+3247	Botek Karol, Visolaje, SR		0	483
+3247	Boteková Štefánia	R.Jašková	0	917,920,1091,1098,1721,1760
+3247	Brandibur Juraj		1	1358
+3247	Brindičiar János		1	1377
+3247	Bulica Jozef	nar. 28.10.1899	1	1391,1392
+3247	Bulica Juraj		0	953,1102
+3247	Bulicová Antonia		0	1076
+3247	Bulicová Mária		1	1358
+3247	BUŠÍKOVÁ MÁRIA r. BLAHOVSKÁ, 01861, VISOLAJE, SR	nar. 23.11.1901	0	953
+3247	Bušová Anna	R.Binková	0	1091
+3247	Bušová Anna r. Binková		0	953,1102
+3247	Colerová Mária	R.Ganošková 01861 Beluša	1	1375
+3247	Colerová Mária r. Ganošková	Beluša	0	943,953,1102
+3247	Colerová Mária r. Ganošková, 01861, Beluša, SR		1	1383
+3247	Čermáková Mária	R.Šistíková	0	1029,1041,1042,1048
+3247	Čermáková Mária	R.Šistíková ČR	1	1529
+3247	Čermáková Mária r. Šistíková		0	953,1102
+3247	Černuchová Anna	R.Šistík	1	1029,1041,1042,1048,1529
+3247	Černuchová Anna r. Šistík		0	953,1102
+3247	Čižmár Palacký Jozef		0	953,1102
+3247	Čižmárová Mária r. Lukáčová	nar. 10.01.1871	1	903,1363,1734
+3247	Čižmárová Rozália		0	1054,1866
+3247	Dobrodenka Koloman	ž.Jozefína	1	1337
+3247	Dubaj František		0	1040
+3247	DUBAJ FRANTIŠEK, SR		0	1649
+3247	Dubaj Pavol	Polacký	0	1040
+3247	Dubaj Polacký Pavol		1	904,1743
+3247	DUBAJOVÁ ANNA, SR		0	1649
+3247	Dubajová Eva r. Palkechová	nar. 24.12.1899	1	515
+3247	Dubajová Jozefína	R.Polacká	0	1040
+3247	Dubajová Mária	R.Šištíková Polacká	0	1081
+3247	Dubajová Polacká Jozefína		1	904,1743
+3247	Ďurasová Mária	R.Gažová	1	1229
+3247	Ďurica Emil		0	1446
+3247	Ďurica František, zom. 27.08.1988		0	1445,1446
+3247	Ďurica Ignác		0	980
+3247	Ďurica Ignác	nar. 31.01.1888	1	1356,1416,1446
+3247	Ďurica Ján, zom. 16.11.1999		0	1445
+3247	Ďurica Karol		1	1446
+3247	Ďurica Ondrej		1	1445,1446
+3247	Ďurovec Ondrej	Mladší	1	1602
+3247	Ďurovec Ondrej	Starší	1	1601
+3247	Filo Jozef	Beluša	1	1582
+3247	Frastická Zuzana	R.Hijová	1	1377
+3247	Ganoška Matúš	Visolaje	0	1739
+3247	GANOŠKA MATÚŠ		1	1337,1375,1383
+3247	GANOŠKA MATÚŠ	nar. 15.09.1888	0	943,999
+3247	Ganoška Matúš, VISOLAJE, SR		0	483
+3247	Ganošková Alžbeta r. Hudečeková		0	943
+3247	Ganošková Anna r. Krallová		0	953,1102
+3247	Ganošková Beta	Visolaje	0	1739
+3247	Ganošková Beta, VISOLAJE, SR		0	483
+3247	Gardlo Štefan	nar. 02.03.1890	1	1408,1409,1411
+3247	Gažová Alžbeta	R.Marková Kozáková	1	1364
+3247	Greguš Juraj		1	1395
+3247	Hanidžiar Ondrej	nar 26.11.1881	1	1408
+3247	Hanidžiar Ondrej	nar. 26.11.1881	1	1408
+3247	Hanidžiarová Anna	R.Lukáč	1	1421
+3247	HANIDŽIAROVÁ ANNA r. LUKÁČOVÁ, PSČ 01861, VISOLAJE, SR		0	953,1102
+3247	Hija - Kapitánová Anna, Ilava, SR		1	1352,1353
+3247	Hija Ján	ž.Zuzana Binková	1	1418,1422
+3247	HIJA JÁN	ž. Zuzana Binková	0	924,951,1038,1045,1726
+3247	HIJA JÁN	žena Zuzana Binková	0	953,1102
+3247	Hija János	Švec	1	876,1375,1697
+3247	Hija Jozef		1	1376
+3247	Hija Kapitánová Mária		1	1352,1353
+3247	Hija Kapitánová Valéria		1	1352,1353
+3247	Hija Krajči Anna r. Galanská		0	953,1102
+3247	Hija Krajčí Ján	Faragoš	1	1377
+3247	Hija Krajči Pavol		1	1375
+3247	Hija Švec Ján		1	948
+3247	Hijová Žofia		0	947
+3247	Hoferíková Alžbeta	R.Mošková	1	919,1096,1371,1485,1738,1931
+3247	Hoferíková Alžbeta r. Mošková		0	953,1102
+3247	Holenincová Alžbeta r. Hijová Krajná		0	953,1102
+3247	Holocincová Zuzana r. Vršková		0	953,1102
+3247	Hoštáková Anna r. Vršková		0	953,1102
+3247	Hôrková Mária		0	1072
+3247	Hradská Katarína		0	481
+3247	Hrušková Anna r. Marková		0	953,1102
+3247	Hudecová Anna	R.Martinková	1	830,863,868,875,939,940,1353,1751,1752,1753
+3247	Hudecová Anna r. Martinková		0	1119
+3247	Hudečková Alžbeta		1	904,1743
+3247	Hudečková Johana		0	943
+3247	Humeniková Anna	R.Polacká	1	830,863,868,875,939,940,1067,1353,1751,1752,1753
+3247	Humeniková Anna r. Polacká		0	953,1102,1119
+3247	Huňačková Anna		1	953,1102,1421
+3247	Chleban Ján, zom. 07.01.1989		0	161
+3247	Chleban Juraj		1	904,953,1040,1102,1743
+3247	CHLEBAN JURAJ, SR		0	1649
+3247	Janigová Pavlína	R.Banincová	0	925
+3247	Jankejech Ondrej		1	1572
+3247	Janošková Alžbeta	R.Hudčeková	0	821,937,1031
+3247	Janošková Alžbeta r. Hudčeková		0	953,1102
+3247	Jezberová Anna		0	953,1038,1051,1087,1102
+3247	Kacerenka Alojz	92101 Pieštany	1	161
+3247	Kacerenka Alojz	Pieštany	0	953,1102
+3247	Kacerenka Alojz, 921 01, Pieštany, SR		0	857
+3247	Kacerenka František		1	161
+3247	Kacerenka Ondrej		1	1479
+3247	Kačerenka František	Ján	0	844,857,931,953,1102,1782,1809
+3247	Kačerenka Ján		1	933,1479
+3247	Kačerenka Michal		1	953,1025,1026,1027,1028,1038,1045,1102,1416,1520,1521
+3247	Kačerenková Mária, 921 01 Pieštany		0	857
+3247	Kačerenková Terézia	R.Andrásová	1	1025,1027,1028,1038,1045,1520,1521
+3247	Kačerenková Terézia r. Andrásová		0	953,1102
+3247	Kadlec Ján		0	1091
+3247	Kadlec Jozef		1	907
+3247	Kadlecová Anna r. Kacerenková	29.11.1888	1	161
+3247	Kadlecová Anna r. Kačerenková	nar. 29.11.1888	0	931
+3247	Kanis Michal		1	1356,1416
+3247	Kanisová Mária	R.Urbanová Hijová	1	1376
+3247	Kapuš Ján		1	1573
+3247	Kapuš Štefan	D 245/67	1	1573
+3247	Karoliová Katarína r. Vršková		0	953,1102
+3247	Karolyová Mária	R.Šištíková	0	1041,1042
+3247	Kátrik Štefan	Beluša	1	1575
+3247	Komik Michal		0	953,1102
+3247	Kostalová Anna	R.Čižmárová	1	834,903,1037,1054,1112,1131,1734,1735,1866
+3247	Kozák Jozef		0	1136
+3247	Kozáková Eva r. Lukáčová		0	1364
+3247	Kozáková Mária	R.Marková	0	861,1800
+3247	Krajči Hijová Žofia		0	947,1755
+3247	Krajči Ján	Hija	1	1375,1377
+3247	Krajči Jozef		0	1102
+3247	Krajči Jozef	Hija	1	947,953,957,1375,1376,1377,1755
+3247	Krajčiová Hijová Alžbeta r. Holčincová		1	1375,1376,1377
+3247	KRAJNÁ ANNA, SR		0	1127
+3247	KRAJNÁ EMÍLIA, SR		0	1127
+3247	Krajná Kristína	R.Kubišová	0	933
+3247	Krajná Mária		0	1029
+3247	Krajná Masláková Eva		0	953,1102
+3247	Krajná Žofia		0	953,1102
+3247	KRAJNÝ FRANTIŠEK, SR		0	1127
+3247	Krajný Jozef	nar. 26.02.1896	1	1356,1416
+3247	KRAJNÝ JOZEF, SR		0	1127
+3247	Krajný Michal		0	988
+3247	Krajný Pavol		0	829
+3247	Krajný Vojtech	Maslák	0	1630
+3247	Krala Michal	nar. 2.11.1890	1	265,776

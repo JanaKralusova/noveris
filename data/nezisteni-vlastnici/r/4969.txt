@@ -1,0 +1,256 @@
+2804	Šesták Vincent r. Šesták, Rybníkova 555/1, Sečovce, PSČ 078 01, SR		0	698,861,1116,1253,1267,1286
+2804	Šestáková Mária r. Geciová		1	796,833,849
+2804	Šimčák Andrej r. Šimčák		1	713
+2804	Šimko Ján		1	867,1113,1114,1115,1265,1399
+2804	Škody Rudolf r. Škody, Blažice 10, Blažice, PSČ 044 16, SR		0	698,861,1116,1253,1267,1286
+2804	Šuchta Andrej		1	758,768,780,816,860,867,1113,1114,1115,1265,1283,1399
+2804	Šuchta Andrej r. Šuchta	ž.Darabová	1	698,861,1116,1117,1253,1267,1286
+2804	Šuchta Imrich		1	832
+2804	Šuchta Štefan r. Šuchta		1	698,861,1116,1117,1253,1267,1286
+2804	Takáč Ján		1	783
+2804	Takáč Ján r. Takáč		1	698,861,1116,1117,1253,1267,1286
+2804	Takáč Juraj		1	783,867,1113,1114,1115,1265,1399
+2804	Takáč Juraj r. Takáč	ž.Gumanová	1	698,861,1116,1117,1253,1267,1286
+2804	Takáčová Mária r. Zajacová		1	698,755,861,1116,1117,1175,1253,1267,1286
+2804	Timko Andrej		1	867,1113,1114,1115,1265,1399
+2804	Timko Jozef		1	867,1113,1114,1115,1265,1399
+2804	Timko Pavel		1	857,1363
+2804	Timko Štefan		1	867,1113,1114,1115,1265,1399
+2804	Timková Mária r. Gazsiková		1	852,1376
+2804	Timura Juraj		1	922
+2804	Tomko Andrej r. Bodiová		1	698,1253,1267,1286
+2804	Tomko Andrej r. Tomko	brat Ján	1	698,861,1116,1117,1253,1267,1286
+2804	Tomko Andrej r. Tomko	ž.Bodiová	1	861,1116,1117
+2804	Tomko Ján r. Tomko	brat Andrej	1	698,861,1116,1117,1253,1267,1286
+2804	Tomková Barbora r. Bodiová		1	698,861,1116,1117,1253,1267,1286
+2804	Tomková Mária		1	698,749,795,861,1116,1117,1253,1267,1286
+2804	Uháľ Ján		1	800,822,1407
+2804	Uháľ Ján r. Uháľ		1	698,861,1116,1117,1253,1267,1286
+2804	Uháľová Zuzana r. Kováčová		1	765
+2804	Uharčák Andrej r. Uharčák	mal	1	698,861,1116,1117,1253,1267,1286
+2804	Uhriňák Juraj		1	794,835
+2804	Uhriňák Juraj r. Uhriňák		1	698,861,1116,1117,1253,1267,1286
+2804	Uhriňák Štefan		1	794,835
+2804	Uhriňák Štefan r. Uhriňák		1	698,861,1116,1117,1253,1267,1286
+2804	Uhriňáková Margita		1	698,794,835,861,1116,1117,1253,1267,1286
+2804	Vajda Juraj r. Vajda		1	698,861,1116,1117,1253,1267,1286
+2804	Vajdová Anna		1	757,791
+2804	Válik Andrej		1	930
+2804	Váliková Alžbeta r. Gondolyová		1	698,800,861,1116,1117,1253,1267,1286,1407
+2804	Váliková Mária r. Grunwaldová		1	930
+2804	Vamos Juraj		1	766
+2804	Vamos Juraj r. Vamos		1	698,861,1116,1117,1253,1267,1286
+2804	Vámošová Barbora r. Ballová		1	753,1134
+2804	Vancák Imrich r. Vancák	ž.Saraková	1	698,861,1116,1117,1253,1267,1286
+2804	Vancáková Mária r. Gedrová		1	779,789,815,816,844,860
+2804	Vancáková Mária r. Sokolová		1	867,1113,1114,1115,1265,1399
+2804	Vanczák Juraj r. Vanczák		1	698,861,1116,1117,1253,1267,1286
+2804	Vančák Ján		1	814
+2804	Vančáková Anna r. Danielová		1	814
+2804	Vargová Mária r. Zajacová		1	698,783,861,1116,1117,1253,1267,1286
+2804	Venderková Alžbeta r. Čiderová		1	698,764,861,1116,1117,1253,1267,1286
+2804	Véreb Andrej		1	925
+2804	Vérebová Mária r. Mrohálová		1	925,926
+2804	Zajac Ján		1	867,1113,1114,1115,1265,1399
+2804	Zajacová Elena		1	698,755,861,1116,1117,1175,1253,1267,1286
+2804	Zajacová Zuzana r. Rusnáková		1	810
+2804	Zajacz Ján r. Zajacz	ž.Kundrátová	1	698,861,1116,1117,1253,1267,1286
+2804	Zajaczová Anna r. Kundrátová		1	698,861,1116,1117,1253,1267,1286
+2804	Zsigrayová Mária r. Szakszonová		0	1212
+2804	ŽOLDOŠ Andrej		1	826,867,1113,1114,1115,1265,1399
+2804	Žoldoš Andrej r. Žoldoš		1	698,861,1116,1117,1253,1267,1286
+2804	Žoldoš Juraj		1	788,826,867,1113,1114,1115,1136,1265,1399
+2804	Žoldoš Juraj r. Žoldoš		1	722
+2804	Žoldoš Juraj r. Žoldoš	ž.Anna Marcinčáková	1	698,861,1116,1117,1253,1267,1286
+2804	Žoldošová Anna r. Marcinčáková		1	722
+2805	Bagošová Júlia r. Tirpáková, SR		1	378,399,442
+2805	Balaszová Mária r. Madiová, SR		1	458
+2805	Balazsová Mária r. Madiová, SR		1	365,394,441,483
+2805	Ballók Štefan, SR		0	143
+2805	Baloghová Helena r. Terebešiová, SR		1	425,440
+2805	Barnaová Alžbeta r. Karošiová, SR		1	392
+2805	Barnaová Borbála r. Kondásová, SR		1	412
+2805	Bukus Ján, SR		1	404
+2805	Csengeri Július ž. Mária r. Abaházyová, SR		1	426
+2805	Csengeriová Mária r. Abaháziová m. Július, SR		1	426
+2805	Csiszárová Alžbeta r. Vaszilyová, SR		1	128,456
+2805	Czizmadiová Alžbeta ml., SR		1	379,384,498,509
+2805	Gécziová Júlianna, SR		1	409
+2805	Hase Aprád, SR		1	399
+2805	Hase Arpád, SR		1	378,442
+2805	Hase Gejza Jozef, SR		1	442
+2805	Hase Gejza, SR	Jozef	1	378,399
+2805	Hegedus Ján, SR		1	373,443
+2805	Hegedus Ján, SR	26.12.1900	1	412
+2805	Herman Junger, SR		1	436
+2805	Hocko Jozef, SR		1	367
+2805	Hocková Helena, SR		1	367
+2805	Hogyaová Margita r. Terebesiová, SR		1	440
+2805	Hogyová Mária r. Terebesiová, SR		1	425
+2805	Illés Alexander, SR		1	432
+2805	Illesová Mária r. Karosiová, SR		1	392
+2805	Illéš Ján	Huszár	1	371
+2805	Illéš Mikuláš, SR		1	371
+2805	Illéš Žigmund, SR		1	432,435
+2805	Illéšová Alžbeta r. Urbanová, SR		1	387,397
+2805	Illéšová Mária, SR		1	371
+2805	Ivan Ján, SR		1	448
+2805	Ivan Juraj, SR		1	448
+2805	Jarosiová Anna r. Szimková, SR		1	381
+2805	Karosi Ľudovít, SR		1	454
+2805	Karosiová Julianna r. Rontoová, SR		1	454
+2805	Kasko Bartolomej, SR		1	432
+2805	Kastély Andrej, SR		1	445
+2805	Kastélyová Margita, SR		1	380,383,403,410,445,457
+2805	Kendi Jozef Gy., SR		1	432
+2805	Kendiová Alžbeta r. Abaháziová, SR		1	432
+2805	Kiss Alexander Kendi, SR		1	427
+2805	Kiss Andrej ž. Margita r. Kendiová /Jano/, SR		1	428
+2805	Kiss Jozef Kendi, SR		1	432
+2805	Kissová Margita r. Kendiová /Jano/m. Andrej, SR		1	428
+2805	Kobori Michal, SR		1	405
+2805	Krumpolicová Júlia r. Toroková, SR		1	380,383,457
+2805	Kulcsár Alexander B., SR		1	432
+2805	Kulcsár František B., SR		1	432
+2805	Kulcsár František, SR		1	432
+2805	Kulcsár Jozef B., SR		1	432
+2805	Kulcsár Štefan, SR		1	437
+2805	Kuzmaová Helena r. Soványová, SR		1	391,446,461
+2805	Liszkaiová Barbora r. Kendiová, SR		1	429
+2805	Lutri Štefan, SR		1	455
+2805	Lutriová Mária r. Kuličová, SR		1	376
+2805	Mádi František, SR		0	128
+2805	Mádiová Alžbeta, SR		0	128
+2805	Magyar Gabriel, SR		1	423
+2805	Magyarová Zuzana r. Košcová, SR		1	423
+2805	Markusová Anna r. Karosiová-Gerolinová, SR		1	392
+2805	Nagy Jozef, SR		1	391,461
+2805	Németi František, SR		1	438
+2805	Németiová Alžbeta r. Iskiová		1	438
+2805	Pallérová Anna r. Margitová, SR		1	439
+2805	Parajoš Štefan, SR		1	432
+2805	Praščáková Alžbeta r. Lovasová, SR		1	402
+2805	Radzik Gabriel r. Radzik		1	367
+2805	Radzik Ján r. Radzik		1	367
+2805	Radzik Jozef, SR		1	367
+2805	Radzik Juliana		1	367
+2805	Radziková Mária r. Novotná, SR		1	367
+2805	Rajna Jozef, SR		1	420
+2805	Rajnaová Mária r. Fucsková, SR		1	420
+2805	Rontová Anna r. Sirokmanová, SR		1	395
+2805	Rudaš Andrej, SR		1	409
+2805	Rudašová Helena r. Trošková, SR		1	413
+2805	Sirokman Michal, SR		1	365,483
+2805	Sirokmanová Alžbeta r. Csatlošová	nar.:27.6.1901	1	365,483
+2805	Sirokmanová Juliana r. Takácsová, SR		1	395
+2805	Sovany Jozef, SR		1	446
+2805	Sovány Štefan, SR		1	391,446,461
+2805	Sovanyová Alžbeta, SR		1	446
+2805	Soványová Mária, SR		1	391,406
+2805	Soványová Oľga r. Koszaová, SR		1	391,461
+2805	Sovanyová Oľga r. Koszuová, SR		1	406
+2805	Szabová Anna r. Rontoová, SR		1	450,452
+2805	Szajko Jozef, SR		1	376
+2805	Szimko Ján, SR		1	381
+2805	Szimková Mária r. Iskiová, SR		1	447
+2805	Szucs Jozef, SR		1	432
+2805	Szucs Michal, SR		1	432
+2805	Terebesi Alexander, SR	28.05.1932	1	425,440
+2805	Terebesi Bartolomej, SR		1	425
+2805	Terebesi Ján, SR		1	425,440
+2805	Tirpaková Anna, SR		1	378,399,442
+2805	Török Jozef, SR		1	311,380,383,457
+2805	Török Ladislav, SR		1	380,383,457
+2805	Török Štefan, SR		1	311,380,383,457
+2805	Töröková Mária, SR		1	380,383,457
+2805	Trosko Andrej, SR		1	122,383,386
+2805	Trosko Ján, SR		0	121
+2805	Trosková Alžbeta, SR		1	370,500
+2805	Trosková Mária, SR		0	122
+2806	Adamovič Gerhard r. Adamovič, č.d.1997/1948 č.d.1997/1948		0	3311
+2806	Adamovič Pavol r. Adamovič, č.d.1263/1932 č.d.1263/1932		0	3470
+2806	ADAMOVIČOVÁ Mária	rod.Zaťková, Gerhard Adamovič, 8.10.1894	1	1549,1681,1781,1784,1820,1869,2126
+2806	Antalová Anna r. Vidová		0	3387
+2806	ARTZ Alojz	č.d.1750/1941	1	1549,1681,1781,1784,1820,1869,2126
+2806	Artz Alojz r. Artz, č.d.1750/1941 č.d.1750/1941		0	3485
+2806	ARTZ Rudolf		1	1549,1681,1781,1784,1820,1869,2126
+2806	ARTZ Rudolf	č.d.1750/1941	1	1549,1681,1781,1784,1820,1869,2126
+2806	ARTZ Rudolf	č.d.920/1944	1	1549,1681,1781,1784,1820,1869,2126
+2806	Artz Rudolf r. Artz		0	2210
+2806	Artz Rudolf r. Artz, č.d.1750/1941 č.d.1750/1941		0	3485
+2806	Artz Rudolf r. Artz, č.d.920/1944 č.d.920/1944		0	3485
+2806	BACO Eduard	1.1.1900	1	2124
+2806	BACO EDUARD MUDR., SVINNÁ 102		0	2124
+2806	BACO JÁN, SVINNÁ 102		0	2124
+2806	Bacová Anna r. Laššová, Svinná, 102 Svinná, 102		0	2207
+2806	BACOVÁ ANNA R.LAŠŠOVÁ, SVINNÁ 102		0	2124
+2806	Bačíková Jozefína r. Raganová, Rehor Bačík, zomrel, Svinná, 276 Rehor Bačík, zomrel, Svinná, 276		0	3462
+2806	BALTAYOVÁ Terézia	rod.Panáčeková	1	1781,1784,1869
+2806	Baltayová Terézia r. Panáčeková		0	3516
+2806	BARTÁKOVÁ Kamila	rod.Hôrková	1	1971
+2806	Belák František r. Belák, č.d.8793/1889 č.d.8793/1889		0	2681
+2806	BELÁKOVÁ Pavlína	rod.Hudecová	1	1678
+2806	Beláková Pavlína r. Hudecová		0	3516
+2806	BELEZEL Ján		1	1549,1681,1781,1784,1820,1869,2126
+2806	Belezel Ján r. Belezel		0	3362
+2806	Berecová Júlia r. Berecová, Jánošíkova Jánošíkova		0	2188
+2806	Bobušová Antónia r. Géciová, Miezgovce Miezgovce		0	2657
+2806	Bolfa Ján r. Bolfa, č.d.240/1957 č.d.240/1957		0	3312
+2806	Bolfa Jozef r. Bolfa, č.d.2062/1932 č.d.2062/1932		0	3274
+2806	Bolfa Jozef r. Bolfa, po Anne Bolfovej po Anne Bolfovej		0	2155
+2806	Bolfa Ondrej r. Bolfa, č.d.2062/1932 č.d.2062/1932		0	2845
+2806	Bolfa Ondrej r. Bolfa, po Anne Bolfovej po Anne Bolfovej		0	2155
+2806	Bolfa Ondrej r. Bolfa, po Jozef, Bolfa po Jozef, Bolfa		0	3479
+2806	Bolfa Ondrej r. Bolfa, zomrel zomrel		0	3393
+2806	Bolfa Peter r. Bolfa, Anna Hrabošová Anna Hrabošová		0	2768
+2806	Bolfová Anna r. Hrabošová, Peter Boľf Peter Boľf		0	3321
+2806	Bolfová Mária r. Košíková, manž.Imrich manž.Imrich		0	3479
+2806	BÔŽIK Július	1.1.1900	1	1549,1681,1781,1784,1820,1869,2126
+2806	BÔŽIK Štefan	Spálená č.76 Nový Kostel	1	1549,1681,1781,1784,1820,1869,2126
+2806	Bôžik Štefan r. Bôžik, zomrel, Nový Kostel, Spálená 76, Česká republika zomrel, Nový Kostel, Spálená 76, Česká republika		0	3485
+2806	BÔŽIKOVÁ Zuzana	Nad Rybníkem č.68 D. Počernice	1	1549,1681,1781,1784,1820,1869,2126
+2806	Bôžiková Zuzana r. Bôžiková, zomrela, Dolní Počernice, Nad Rybníkem 68, Česká republika zomrela, Dolní Počernice, Nad Rybníkem 68, Česká republika		0	3524
+2806	BRACHTEL Alojz	č.d.49/1902	1	1549,1681,1781,1784,1820,1869,2126
+2806	Brachtel Alojz r. Brachtel, č.d.49/1902 č.d.49/1902		0	2852
+2806	BRACHTÝR Adolf	č.d.266/1948	1	1846
+2806	Brachtýr Adolf r. Brachtýr, Anastázia Králová, zomrela Anastázia Králová, zomrela		0	3453
+2806	Brachtýr Adolf r. Brachtýr, č.d.266/1948 č.d.266/1948		0	2904
+2806	Brachtýrová Anastázia r. Králová, Adolf Brachtýr Adolf Brachtýr		0	3319
+2806	Brachtýrová Antónia r. Králová, Alojz Brachtýr, zomrela Alojz Brachtýr, zomrela		0	2765
+2806	Brachtýrová Helena r. Brachtýrová, č.d.266/1948 č.d.266/1948		0	3516
+2806	Brachtyrová Viktória r. Chuchútová		0	3506
+2806	Brachtýrová Viktória r. Chuchútová, zomrela, č.d.539/1950 zomrela, č.d.539/1950		0	3506
+2806	Brindza Jozef r. Brindza		0	3505
+2806	BROSEK Ján	č.d.784/1903	1	1549,1681,1781,1784,1820,1869,2126
+2806	Brosek Ján r. Brosek, č.d.784/1903 č.d.784/1903		0	2171
+2806	BROSEKOVÁ Rozália	rod.Matejková, č.d.784/1903	1	1549,1681,1781,1784,1820,1869,2126
+2806	Broseková Rozália r. Matejková, č.d.784/1903 č.d.784/1903		0	2709
+2806	Brožek Ján r. Brožek, zomrel, Helena Geclová zomrel, Helena Geclová		0	3375
+2806	Brožek Ľudovít r. Brožek, č.d.1756/1927 č.d.1756/1927		0	3489
+2806	BROŽEK Stanislav	č.d.342/1915,č.d.3585/34	1	1549,1681,1781,1784,1820,1869,2126
+2806	Brožeková Helena r. Geclová, Ján Brožek, zomrela Ján Brožek, zomrela		0	2888
+2806	CIMPRICH Ervín	č.d.1273/1963	1	1820
+2806	Cimprich Ervín r. Cimprich, č.d.1273/1963 č.d.1273/1963		0	3485
+2806	Cimprichová Emília r. Zaťková, manž. Vojtech manž. Vojtech		0	2552
+2806	Coufalová Božena r. Coufalová, č.d.202/1943 č.d.202/1943		0	3049
+2806	Coufalová Emília r. Jurčíková, Emil Coufal, neb Emil Coufal, neb		0	3303
+2806	Coufalová Margita r. Coufalová, č.d.202/1943 č.d.202/1943		0	3177
+2806	Coufalová Mária r. Coufalová, č.d.202/1943 č.d.202/1943		0	3088
+2806	ČAČKO Ján	Jozefína Čačko	1	1678
+2806	Čačko Ján r. Čačko		0	3516
+2806	Čačko Ján r. Čačko, č.d.1359/1963 č.d.1359/1963		0	2244
+2806	ČAČKOVÁ Jozefína	Ján Čačko	1	1678
+2806	Čačková Jozefína r. Čačková		0	3516
+2806	Čačková Jozefína r. Čačková, č.d.1384/1932 č.d.1384/1932		0	2329
+2806	ČAČKOVÁ Mária	rod.Hudecová	1	1678
+2806	Čačková Mária r. Hudecová		0	3516
+2806	Čahoj Ján r. Čahoj		0	3520
+2806	Čahoj Ján r. Čahoj, č.d.712/1913 č.d.712/1913		0	2136
+2806	Čahoj Ján r. Čahoj, Mária Klamárová Mária Klamárová		0	2951
+2806	Čahoj Jozef r. Čahoj, č.d.978/1941 č.d.978/1941		0	3436
+2806	ČAHOJ Michal	č.d.705/1924	1	1549,1681,1781,1784,1820,1869,2126
+2806	Čahoj Michal r. Čahoj, č.d.1384/1932 č.d.1384/1932		0	3516
+2806	Čahoj Michal r. Čahoj, č.d.705/1924 č.d.705/1924		0	2240
+2806	Čahoj Michal r. Čahoj, č.d.712/1913 č.d.712/1913		0	2136
+2806	Čahoj Štefan r. Čahoj, č.d.3115/1937 č.d.3115/1937		0	3516
+2806	Čahojová Júlia r. Čahojová		0	3520

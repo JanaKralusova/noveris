@@ -1,0 +1,256 @@
+2852	Ďurišová Andela r. Holodová		1	509,1367
+2852	Ďurišová Anna		1	322
+2852	Ďurišová Anna r. Ďurišová		1	753,764
+2852	Ďurišová Anna r. Trubačová		1	340,350,434,513,514,606,1401,1492,1651
+2852	Ďurišová Apolónia r. Mišáková		1	327
+2852	Ďurišová Františka		1	576
+2852	Ďurišová Hermína r. Valjentová		1	1153,1178,1208
+2852	Ďurišová Johana r. Mišáková		1	1043
+2852	Ďurišová Jozefína r. Mikušová		1	367,369,390,467,572,1154,1177,1180,1554,1555,1565,1583,1584
+2852	Ďurišová Karolína		1	332,343,345,350,390,433,469,500,503,508,515,535,542,557,569,712,728,734,739,743,853,887,1115,1156,1176,1346,1368,1380,1384,1392,1401,1420,1463,1492,1554,1555
+2852	Ďurišová Karolína	maloletá	1	350,1401
+2852	Ďurišová Katarína	Ďurčová, vl. z r. 1894	1	866
+2852	Ďurišová Pavlína		1	322
+2852	Ďurišová Serafína r. Mikušová		1	372,451,456,460,565,566,825,942,1179
+2852	Ďurišová Serafína r. Mikušová	LSR	0	826
+2852	Ďurišová Verona	od Jozefa Mikuša, Šípkov	1	652
+2852	Ďurišová Verona r. Nová	zomr., manž. Jozef	1	1383,1392
+2852	Ďurišová Zuzana r. Holá	zomr. 8.12.1945	1	390,917,1554,1555
+2852	Ďurišová Zuzana r. Hollá		1	1470
+2852	Ďurišová Zuzana r. Pavlisová		1	349,498,613,667,674,1395,1455
+2852	Ďurišová Zuzana r. Valjentová		1	340,350,434,513,514,538,539,606,1401,1492,1651
+2852	Ďurišová Zuzana r. Valjentová	Šípkov	1	753,764
+2852	Dvorská Alžbeta r. Mišáková		1	314,317,390,1037,1080,1083,1134,1139,1143,1149,1200,1204,1221,1494,1554,1555
+2852	Dvorská Alžbeta r. Nová		1	1054
+2852	Dvorská Anna	na Mikuša Gust., Šimona, Frant	1	863,864,866,1022
+2852	Dvorská Anna	po Verone, Štef., Jozefovi,Alž	1	863,864,866,1022
+2852	Dvorská Anna r. Vranková	manž. Anton	1	1389,1442,1443
+2852	Dvorská Anna r. Vrcenková		1	565,674,1472
+2852	Dvorská Apolónia r. Mikušová		1	367,463,467,691,825,863,864,866,1022,1179,1584
+2852	Dvorská Apolónia r. Mikušová	LSR	0	692,826
+2852	Dvorská Mária		1	388,1329,1330,1351,1352
+2852	Dvorská Mária r. Raganová	manž. Matúš, z. 21.12.1975	1	162
+2852	Dvorská Mária r. Valentová		1	1178,1208
+2852	Dvorská Mária r. Valentová	/m.Ján/	1	390,597,1306,1554,1555
+2852	Dvorská Mária r. Valjentová		1	243,387,389,392,484,566,578,590,597,650,653,913,1145,1211,1272,1306,1330,1351,1352,1356,1359,1452,1460,1476,1481,1597,1669
+2852	Dvorská Mária r. Valjentová	manž. Ján	1	863,864,866,1022
+2852	Dvorská Verona r. Mišáková		1	314,317,1494
+2852	Dvorský Anton		1	1389,1442,1443
+2852	Dvorský Dušan	po otcovi Štefanovi, kt. zomrel 7.3.1982, zom. 21.10.1991 po otcovi Štefanovi, kt. zomrel 7.3.1982, zom. 21.10.1991	1	447
+2852	Dvorský František		1	435,887,1088,1132,1147,1157,1175,1180,1344,1368
+2852	Dvorský František	po Matúšovi	1	753,863,864,866,1022
+2852	Dvorský Ján		1	484,1476
+2852	Dvorský Ján	ž. rod. Valentová M	1	1178,1208
+2852	Dvorský Ján	ž.Mária,rod.Valentová	1	484,1153,1476
+2852	Dvorský Jozef		1	373,390,435,448,449,809,811,862,887,1058,1088,1147,1344,1368,1413,1449,1554,1555,1640,1645
+2852	Dvorský Jozef	po Matúšovi	1	863,864,866,1022
+2852	Dvorský Jozef	po Verone, Štef., Jozefovi,Alž	1	863,864,866,1022
+2852	Dvorský Ludevik		1	435,809,811,862,1449,1640,1645
+2852	Dvorský Ľudevít		1	887,1083,1143,1154,1161,1368,1413
+2852	Dvorský Ľudevít	maloletý	1	1156,1180
+2852	Dvorský Ľudovít		1	580,1088,1132,1157
+2852	Dvorský Ľudovít	po Verone Dvorskej r. Mišákovej	1	390,1037,1080,1134,1139,1149,1200,1204,1221,1554,1555
+2852	Dvorský Ludvik		1	1147,1344
+2852	Dvorský Ludvik	po Matúšovi	1	753,863,864,866,1022
+2852	Dvorský Matúš		1	162,580,809,811,862,887,1037,1080,1083,1088,1134,1139,1143,1149,1157,1161,1177,1200,1204,1221,1368,1413
+2852	Dvorský Matúš	po Matúšovi	1	753,863,864,866,1022
+2852	Dvorský Matúš	po Verone Dvorskej r. Mišákovej	1	390,1554,1555
+2852	Dvorský Matúš	Šípkov	1	764
+2852	Dvorský Štefan		1	243,296,298,387,389,390,392,566,590,597,650,653,657,913,1045,1049,1050,1051,1054,1095,1211,1306,1330,1351,1352,1413,1450,1452,1460,1481,1544,1554,1555,1597,1643,1669,1677
+2852	Dvorský Tobiáš	po Petrovi; SP	0	863,864,866,1022
+2852	Dvorský Tobiáš	po Verone r. Vrankovej	1	863,864,866,1022
+2852	Evanjelická škola Šípkov		0	308
+2852	Fabula Ján	po Ondrejovi	1	863,864,866,1022
+2852	Fabula Ondrej	choromyselný, po Ondrejovi	1	863,864,866,1022
+2852	Fabulová Mária r. Ďurišová		1	432,499
+2852	Filová Zuzana r. Pavlisová	súr. Peter, Július, Agneša	1	338,390,431,505,506,507,554,885,976,1076,1115,1158,1176,1371,1381,1401,1414,1434,1554,1555,1662
+2852	Fodrek Jozef	vl. z r. 1894	1	863,864,866,1022
+2852	Fodrek Rudolf	po Jozefovi	1	863,864,866,1022
+2852	Fortuna Jozef	manž. Zuzana r. Makišová	1	863,864,866,1022
+2852	Gábel Ján	kúpa od Tomáša	1	866
+2852	Gábel Ján	mladší, po Gašparovi	1	704,863,864,866,1022
+2852	Gábel Ján	starší, po Gašparovi	1	704,863,864,866,1022
+2852	Gábel Jozef	kúpa od Kataríny	1	863,864,1022
+2852	Gábel Jozef	po Kataríne	1	866
+2852	Gábel Juraj		1	366,367,369,390,452,458,461,463,467,596,616,691,697,825,938,1179,1554,1555,1565,1583,1584
+2852	Gábel Juraj	LSR	0	692,826
+2852	Gábel Juraj	manž. Alžbeta r. Makišová	1	372,706,863,864,866,1022
+2852	Gábel Juraj	po Jánovi	1	863,864,866,1022
+2852	Gábel Juraj	po Verone Gábelovej r. Mikuš	1	372,706,727,863,864,866,1022
+2852	Gábel Juraj	ž.Alžbeta,rod.Makišová	1	596,691,825,1179
+2852	Gábel Juraj	ž.Alžbeta,rod.Makišová; LSR	0	692,826
+2852	Gábel Tomáš	kúpa od Jozefa	1	863,864,1022
+2852	Gábel Tomáš	po Štefanovi	1	863,864,866,1022
+2852	Gábel Tomáš	po Štefanovi / vl. z r. 1894 /	1	704
+2852	Gábela Juraj	maloletý	1	655
+2852	Gábela Juraj	ž.Alžbeta,rod.Mišáková	1	655
+2852	Gábelová Alžbeta	po Verone r. Mikušovej	1	727
+2852	Gábelová Alžbeta r. Makišová		1	366,369,390,452,458,461,463,467,596,616,691,697,825,938,1179,1554,1555,1565,1583
+2852	Gábelová Alžbeta r. Makišová	LSR	0	692,826
+2852	Gábelová Alžbeta r. Makišová	manž. Juraj	1	372,706
+2852	Gábelová Alžbeta r. Mikušová		1	367,1584
+2852	Gábelová Alžbeta r. Mišáková		1	655
+2852	Gábelová Anna	po Jozefovi Bičanovi	1	863,864,866,1022
+2852	Gábelová Apolónia	po Jozefovi Bičanovi	1	863,864,866,1022
+2852	Gábelová Eva r. Bičanová		1	863,864,1022
+2852	Gábelová Eva r. Bičanová	manž. Tomáš	1	863,864,1022
+2852	Gábelová Karolína	po Jozefovi	1	863,864,866,1022
+2852	Gábelová Katarína	po Gašparovi	1	704,863,864,866,1022
+2852	Gábelová Mária		1	366,367,369,390,452,458,461,463,467,596,616,691,697,825,938,1179,1554,1555,1565,1583,1584
+2852	Gábelová Mária	LSR	0	692,826
+2852	Gábelová Mária	maloletá	1	655
+2852	Gábelová Mária	po Jánovi	1	704,863,864,866,1022
+2852	Gábelová Mária	po Verone r. Mikušovej	1	372,706,727,863,864,866,1022
+2852	Gábelová Mária r. Bašková		1	704,863,864,866,1022
+2852	Gábelová Zuzana	po Jozefovi	1	863,864,866,1022
+2852	Gábelová Zuzana r. Maťasová	manž. Jozef Kováč	1	738,754
+2852	Gajdoš František	manž. Alžbeta r. Krchová	1	863,864,866,1022
+2852	Gajdoš František	po Ondrejovi	1	863,864,866,1022
+2852	Gajdoš Ján		1	866
+2852	Gajdoš Štefan	kúpa od Kataríny r. Maťasovej	1	863,864,866,1022
+2852	Gajdoš Štefan	po Štefanovi	1	863,864,866,1022
+2852	Gajdošová Anna	kúpa od Kataríny r. Maťasovej	1	863,864,866,1022
+2852	Gajdošová Anna r. Košinová		1	863,864,1022
+2852	Gajdošová Katarína r. Maťasová		1	863,864,866,1022
+2852	Gajdošová Mária r. Chuchútová	Hrčková	1	741,744,863,864,866,1022
+2852	Galko Štefan		1	578,1359
+2852	Gall Štefan	kúpa od Anny Galovej	1	863,864,866,1022
+2852	Gallová Štefánia r. Štefániková		1	726,863,864,866,1022
+2852	Galo Štefan		1	1153
+2852	Galo Štefan	nezvestný	1	484,1178,1208,1476
+2852	Galová Karolína		1	1481
+2852	Galová Karolína r. Lišková		1	243,296,298,387,389,390,392,566,586,590,597,648,650,653,913,1095,1211,1306,1330,1351,1352,1450,1452,1460,1544,1554,1555,1597,1643,1669
+2852	Gergel Adam		1	237,286,332,339,345,350,357,358,390,469,489,495,503,515,516,531,557,1348,1368,1393,1401,1459,1463,1554,1555
+2852	Gergel Adam	ž. Alžbeta rod. Mikušová	1	1461
+2852	Gergel Adam	ž.Antónia,rod.Ďurišová	1	551
+2852	Gergel Emanuel	maloletý	1	1158
+2852	Gergel Emanuel	po Zuzane Gergelovej r. Paulisovej	1	337,339,348,390,803,806,885,1076,1107,1115,1158,1176,1385,1401,1413,1554,1555,1613
+2852	Gergel František		1	553
+2852	Gergel Gregor	po Fortunových	1	716
+2852	Gergel Ján	po Jánovi, zomr. 9.5.1969	1	237,296,297,298,357,358,390,433,489,495,515,516,531,545,546,557,598,965,1348,1393,1439,1440,1452,1460,1481,1544,1554,1555,1669
+2852	Gergel Ján	súrodenci Ondrej, Adam	1	286,1459
+2852	Gergel Ján	Ulaš, po Matušoviž. Verona r.Pavlisová spf	0	1581
+2852	Gergel Ján	Ulaš,po Matúšovi, ž. Verona r. Pavlisová	1	511,593,654,863,864,866,1022,1423
+2852	Gergel Ján	ž.Zuzana,rod.Mikušová	1	433,551
+2852	Gergel Jozef		1	237,296,297,298,332,339,345,350,357,358,390,433,469,489,495,503,515,516,531,545,546,557,581,586,598,965,1330,1348,1368,1371,1393,1439,1440,1450,1452,1460,1481,1544,1554,1555,1643,1662,1669
+2852	Gergel Ľudevít		1	511
+2852	Gergel Ľudovít	po Matúšovi	1	654,863,864,866,1022,1581
+2852	Gergel Matúš	ž.Katarína,rod.Durčová	1	955,956
+2852	Gergel Ondrej		1	298,515,545,546,551,557,1401,1459,1460,1463
+2852	Gergel Ondrej	zomr. 29.8.1975, ž. Karolína r. Bučková	1	390,1554,1555
+2852	Gergel Ondrej	ž.Anna,rod.Ďurišová	1	551
+2852	Gergel Rehor	zomr. 9.10.1968	1	390,1554,1555
+2852	Gergel Rehor	zomr. 9.10.1968; LSR	0	822
+2852	Gergel Tomáš	po Tomášovi, zomr. 17.1.1956	1	237,336,354,357,358,390,426,495,516,531,994,996,1348,1415,1421,1431,1554,1555
+2852	Gergel Vincent		1	335,1511,1513
+2852	Gergelová Alžbeta r. Mikušová	m. Adam	1	1461
+2852	Gergelová Anna		1	237,357,358,390,489,495,516,531,1348,1554,1555
+2852	Gergelová Anna	po Matúšovi	1	654,863,864,866,1022,1581
+2852	Gergelová Irena		1	237,286,332,339,345,350,357,358,390,469,489,495,503,515,516,531,535,669,1348,1368,1393,1401,1424,1427,1446,1447,1463,1554,1555
+2852	Gergelová Jozefína		1	237,357,358,390,489,495,516,531,1348,1554,1555
+2852	Gergelová Jozefína	po Matúšovi	1	863,864,866,1022
+2852	Gergelová Júlia		1	806,885
+2852	Gergelová Katarína r. Bučková		1	656,680,793,794,863,864,866,1022
+2852	Gergelová Katarína r. Durčová		1	237,357,358,390,489,495,516,531,1348,1554,1555
+2852	Gergelová Katarína r. Jančová	Ďurčová	1	863,864,866,1022
+2852	Gergelová Katarína r. Jančová	Ďurčová, manž. Matej	1	863,864,866,1022
+2852	Gergelová Mária		1	237,286,298,332,339,345,350,357,358,390,469,489,495,503,515,516,531,535,545,546,598,669,965,1348,1368,1393,1401,1424,1427,1439,1440,1446,1447,1452,1460,1463,1481,1554,1555,1669
+2852	Gergelová Verona	po Fortunových	1	716
+2852	Gergelová Verona r. Baránková	manž. Jozef	1	704
+2852	Gergelová Verona r. Mikušová		1	336,354,366,367,369,390,426,458,461,495,531,603,616,697,706,996,1554,1555,1565,1583,1584
+2852	Gergelová Verona r. Pavlisová	zomr. 14.6.1965	1	593,1423
+2852	Gergelová Zuzana		1	237,286,339,357,358,390,489,495,516,531,669,1348,1424,1427,1554,1555
+2852	Gergelová Zuzana r. Mikušová		1	296,297,433,551,1544
+2852	Habáň Jozef	po Jánovi	1	863,864,866,1022
+2852	Habáň Tomáš	po Jozefovi	1	863,864,866,1022
+2852	Habáň Tomáš	po Kataríne r. Košibovej	1	721,722,863,864,866,1022
+2852	Habáňová Alžbeta r. Bučková		1	330,351,352,363,390,428,436,443,491,508,522,523,524,525,584,594,595,600,604,608,609,621,641,642,816,818,852,943,950,951,953,960,963,981,1004,1104,1154,1173,1174,1180,1388,1423,1432,1436,1442,1461,1554,1555,1611,1619,1660
+2852	Habánová Helena	kúpa od Štefana	1	721,722,863,864,866,1022
+2852	Habová Alžbeta r. Maťasová		1	581,1221
+2852	Halenková Verona r. Nová		1	1075
+2852	Harcer Alexander	po Alexandrovi	1	863,864,866,1022
+2852	Harcer Jozef	č.131	1	866
+2852	Harcer Jozef	po Jánovi	1	863,864,866,1022
+2852	Holá Alžbeta r. Valjentová		1	647
+2852	Holá Anna		1	162,1471
+2852	Holá Anna r. Kuchtová		1	1439
+2852	Holá Anna r. Pajtinková		1	515,535,669,1427
+2852	Holá Apolónia r. Kuchtová		1	895
+2852	Holá Apolónia r. Lišková		1	391,1329,1351,1352
+2852	Holá Elena r. Pajtinková		1	310,375,379,383,384,936,1168,1268,1285,1286,1294,1304,1578,1658,1667
+2852	Holá Jarmila		1	162,1471
+2852	Holá Petronela r. Mišáková		1	321,405,849,1182,1206,1216,1223,1493
+2852	Holá Petronela r. Mišáková	LSR	0	856
+2852	Holá Viktória		1	162,1471
+2852	Holá Zuzana r. Mikuišová		1	1459
+2852	Holenková Verona r. Nová		1	390,1554,1555
+2852	Holicková Anna r. Huchtová		1	1437
+2852	Hollá Anna r. Pajtinková		1	1424,1446,1447
+2852	Hollá Apolónia r. Lišková	m.Ján	1	387,392
+2852	Hollá Jozefa r. Pajtinková		1	312,610,614,1070,1073,1169,1279,1287,1296,1589
+2852	Hollá Mária r. Bellanová	manž. Jozef	1	1358,1411
+2852	Hollý Ján		1	624,1343
+2852	Hollý Jozef		1	1343,1358
+2852	Hollý Juraj		1	624
+2852	Hollý Štefan		1	1343,1470
+2852	Hollý Štefan	zomr. 15.2.1960, ž. Zuzana, r.Mikušová	1	1479
+2852	Holoda František	zomr. 25.9.1977	1	390,588,614,1554,1555
+2852	Holoda Ján		1	337,338,347,390,420,424,479,1160,1230,1554,1555
+2852	Holoda Matej	manž. Katarína r. Raganová	1	741
+2852	Holoda Matúš		1	1428,1489
+2852	Holoda Ondrej	manž. Alžbeta r. Holá	1	719
+2852	Holoda Štefan		1	326,337,338,347,390,416,420,424,479,588,614,763,765,768,779,802,815,1160,1172,1230,1554,1555
+2852	Holoda Štefan	LSR	0	778,801
+2852	Holodová Alžbeta r. Holá	manž. Ondrej 116	1	162,291,349,574
+2852	Holodová Eva r. Mišáková		1	1164
+2852	Holodová Hermína		1	326,337,338,347,390,416,420,424,479,588,614,763,765,768,779,802,815,1160,1172,1230,1554,1555
+2852	Holodová Hermína	LSR	0	778,801
+2852	Holodová Júlia r. Siková		1	1130,1132,1138
+2852	Holodová Júlia r. Tiková		1	1492
+2852	Holodová Katarína r. Raganová		1	592
+2852	Holodová Katarína r. Raganová	manž. Matej	1	741
+2852	Holodová Terézia r. Mišáková		1	1164
+2852	Holová Katarína r. Raganová		1	324
+2852	Holý Ernest	zomr. 17.5.1971, po Štefanovi, Alžbete	1	332,345,350,390,469,503,898,900,924,1362,1363,1368,1401,1438,1463,1470,1554,1555
+2852	Holý Gregor		1	1362
+2852	Holý Ján		1	289,549,1106,1116,1364,1464,1470,1475
+2852	Holý Ján	ž.Apolónia,rod.Lišková	1	390,1554,1555
+2852	Holý Jozef		1	289,390,549,568,622,662,898,900,917,924,1309,1361,1457,1458,1473,1554,1555,1649,1650
+2852	Holý Jozef	ž.Mária,rod.Belanová	1	1449,1640,1645
+2852	Holý Juraj		1	390,549,568,622,752,917,1106,1116,1216,1364,1457,1458,1464,1470,1473,1475,1554,1555,1649,1650
+2852	Holý Juraj	ž.Petronela,rod.Mišáková	1	321,405,849,1182,1206,1223,1493
+2852	Holý Juraj	ž.Petronela,rod.Mišáková; LSR	0	856
+2852	Homolová Júlia		1	599
+2852	Homolová Júlia r. Mesárová		1	494
+2852	Horníková Alžbeta r. Lišková		1	243,296,298,387,389,390,392,566,586,590,597,648,650,653,913,1095,1211,1306,1330,1351,1352,1450,1452,1460,1481,1544,1554,1555,1597,1643,1669
+2852	Hošeková Karolína r. Bičanová		1	863,864,866,1022
+2852	Hrubiš Ján		1	334,336,354,390,426,495,516,520,527,531,602,829,831,840,994,996,1173,1348,1421,1431,1462,1554,1555,1660
+2852	Hrubiš Jozef		1	334,390,520,527,602,829,831,840,1173,1391,1462,1554,1555,1660
+2852	Hrubiš Július		1	334,390,602,816,818,820,829,831,840,852,951,958,959,960,996,1185,1517,1518,1523,1554,1555
+2852	Hrubiš Július	maloletý	1	386,520,527,1173,1462,1588,1660
+2852	Hrubiš Juraj		1	334,390,520,602,829,831,840,1173,1391,1462,1554,1555,1660
+2852	Hrubiš Juraj	maloletý	1	527
+2852	Hrubiš Matej	manž. Zuzana r. Masaryková	1	725,863,864,866,1022
+2852	Hrubiš Michal		1	816,818,820,852,951,958,959,960,996,1517,1518,1523
+2852	Hrubiš Milan		1	334,390,602,829,831,840,1554,1555
+2852	Hrubiš Milan	maloletý	1	386,520,527,1173,1185,1462,1588,1660
+2852	Hrubiš Štefan		1	334,390,602,829,831,840,1391,1554,1555
+2852	Hrubiš Štefan	maloletý	1	520,527,1173,1462,1660
+2852	Hrubišová Alberta r. Pajtinková		1	306,310,312,384,610,611,614,936,1070,1073,1279,1287,1294,1589,1657,1658,1667
+2852	Hrubišová Alžbeta r. Pajtinková		1	375,379,383,393,646,1181,1254,1268,1292,1304,1578
+2852	Hrubišová Alžbeta r. Pajtinková	LSR	0	1255
+2852	Hrubišová Andela	po Jánovi	1	390,1554,1555
+2852	Hrubišová Anna		1	816,818,820,852,951,958,959,960,996,1517,1518,1523
+2852	Hrubišová Júlia	po Jánovi	1	390,1554,1555
+2852	Hrubišová Karolína	po Jánovi	1	390,1554,1555
+2852	Hrubišová Vincencia		1	816,818,820,852,951,958,959,960,996,1517,1518,1523
+2852	Húsková Pavlína		1	1283
+2852	Hynerová Štefánia r. Mišáková	po Jánovi	1	321,390,1194,1204,1493,1554,1555
+2852	Chuchút Jozef	po Anne r. Klačkovej	1	863,864,866,1022
+2852	Chuchút Štefan	po Anne r. Klačkovej	1	863,864,866,1022
+2852	Chuchutová Agneša r. Bučková	manžel Ján	1	330,351,352,390,428,441,471,491,508,522,584,593,608,609,620,1104,1173,1432,1461,1554,1555,1619,1660
+2852	Janáčová Alžbeta		1	641
+2852	Janáčová Alžbeta r. Mišáková	manž. Ján	1	863,864,866,1022
+2852	Janáčová Anna r. Boriková		1	1166,1167
+2852	Janáčová Helena r. Ďuračková		1	773,863,864,866,1022
+2852	Janáčová Júlia	Maťasová, Adamová, r. Maťasová	1	863,864,866,1022

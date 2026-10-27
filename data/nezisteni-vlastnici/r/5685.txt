@@ -1,0 +1,256 @@
+3197	Petrov Ondrej		1	61,277
+3197	Petrov Ondrej, SR		1	754,755
+3197	Petrová Alžbeta r. Hudáková		1	61
+3197	Petrová Alžbeta r. Hudáková, SR		1	754,755
+3197	Petrová Anna		1	61,323,1254
+3197	Petrová Anna r. Vargová		1	247,249
+3197	Petrová Anna, SR		1	145,154,413,754,755,887,1297,1299
+3197	Petrová Mária		1	61
+3197	Petrová Mária r. Fričovská		1	61
+3197	Petrová Mária r. Fričovská, SR		1	754,755
+3197	Petrová Mária r. Kollárová, SR		1	493
+3197	Petrová Mária r. Mrázová		1	16,61,92,93,764,765,1069
+3197	Petrová Mária r. Mrázová	ded. 1947, II	1	764,765
+3197	Petrová Mária r. Mrázová, SR		1	51,205,413,670,754,755,1297
+3197	Petrová Mária r. Petkačová		1	764,765,1069
+3197	Petrová Mária r. Petkačová, SR		1	51,205
+3197	Petrová Mária r. Petriková		1	61
+3197	Petrová Mária r. Petriková, SR		1	754,755
+3197	Petrová Mária, SR		1	754,755
+3197	Petrová Zuzana		1	61,319
+3197	Petrová Zuzana, SR		1	754,755
+3197	Petrovová Mária, SR		1	493
+3197	Podracká Mária r. Amrichová		1	61
+3197	Podracká Mária r. Amrichová, SR		1	754,755
+3197	Podracká Mária r. Fričovská		1	61,1238,1239,1240,1241
+3197	Podracká Mária r. Fričovská, SR		1	754,755,896
+3197	Podracká Mária r. Petriková		1	61
+3197	Podracká Mária r. Petriková, SR		1	754,755
+3197	Podracká Mária r. Rendošová		1	171,172
+3197	Podracký Andrej		1	61,764,765,1069
+3197	Podracký Andrej, SR		1	51,205,754,755
+3197	Podracký Jakub		1	61,171,172
+3197	Podracký Jakub, SR		1	754,755
+3197	Podracký Ján		1	61,171,172
+3197	Podracký Ján, SR		1	754,755
+3197	Podracký Jozef		1	61,1238,1239,1240,1241
+3197	Podracký Jozef, SR		1	253,754,755,896
+3197	Reňáková Mária r. Lenartová		0	1155
+3197	Rendosová Mária r. Podracká		1	61
+3197	Rendosová Mária r. Podracká, SR		1	754,755
+3197	Rigda Andrej		1	61
+3197	Rigda Andrej, SR		1	754,755
+3197	Rigda Jozef		1	61
+3197	Rigda Jozef, SR		1	754,755
+3197	Rigda Michal		1	61
+3197	Rigda Michal, SR		1	754,755
+3197	Rigda Ondrej		1	61
+3197	Rigda Ondrej, SR		1	754,755
+3197	Rigdová Anna		1	61
+3197	Rigdová Anna r. Fabriciová		0	189
+3197	Rigdová Anna, SR		1	754,755
+3197	Rigdová Mária		1	61
+3197	Rigdová Mária, SR		1	754,755
+3197	Rizová Zuzana r. Galová		1	61,383
+3197	Rizová Zuzana r. Galová, SR		1	754,755
+3197	Rondasová Mária r. Lenartová		0	1155
+3197	Roskovenská Anna r. Dubecká		1	61
+3197	Roskovenská Anna r. Dubecká, SR		1	754,755
+3197	Roskovenský Ján		1	764,765,1069
+3197	Roskovenský Ján, SR		1	51,205
+3197	Roskovenský Juraj		1	61,1208,1209
+3197	Roskovenský Juraj, SR		1	347,754,755
+3197	Roskovenský Michal		1	51,61,220,1069,1208,1209,1296
+3197	Roskovenský Michal	ded. 1929, II	1	764,765
+3197	Roskovenský Michal, SR		1	205,347,754,755
+3197	Roskovenský Ondrej		1	61,1208,1209
+3197	Roskovenský Ondrej, SR		1	347,754,755
+3197	Roskovenszká Anna r. Dubeczká		1	98
+3197	Sabolová Zuzana, SR		1	842
+3197	Sedláček Andrej, SR		1	620
+3197	Sedláček Jakub, SR		1	620
+3197	Sedláček Ján, SR		1	620
+3197	Sedláček Martin, SR		1	620
+3197	Sedláčeková Anna, SR		1	620
+3197	Sedláčková Mária, SR		1	620
+3197	Sedlák Andrej		1	51,61,1069
+3197	Sedlák Andrej	ded. 1905, V	1	764,765
+3197	Sedlák Andrej	ded. 1910, IX	1	764,765
+3197	Sedlák Andrej, SR		1	205,754,755,1116
+3197	Sedlák Ján		1	61,227
+3197	Sedlák Ján, SR		1	508,509,754,755,1116
+3197	Sedlák Juraj, SR		1	227,266,599,1116
+3197	Sedlák Michal		1	61
+3197	Sedlák Michal, SR		1	226,266,754,755,1116
+3197	Sedlák Ondrej		1	61
+3197	Sedlák Ondrej, SR		1	266,754,755
+3197	Sedláková Alžbeta		1	61,225,1298
+3197	Sedláková Alžbeta, SR		1	754,755
+3197	Sedláková Anna, SR		1	226,843,1116
+3197	Sedláková Mária		1	51,61,225,227,1069,1298
+3197	Sedláková Mária	ded. 1927, IV	1	764,765
+3197	Sedláková Mária r. Gregová		1	61
+3197	Sedláková Mária r. Gregová, SR		1	754,755
+3197	Sedláková Mária, SR		1	205,226,266,754,755,1116
+3197	Seman Ján		0	1156
+3197	Seman Ondrej		0	1156
+3197	Sikora Ondrej		1	61
+3197	Sikora Ondrej, SR		1	754,755,847
+3197	Simonová Katarina r. Fabriciová		1	61,189
+3197	Simonová Katarina r. Fabriciová, SR		1	754,755
+3197	Stofan Jakub		1	764,765,1069
+3197	Stofan Jakub, SR		1	51,205
+3197	Stofan Ján		1	764,765,1069
+3197	Stofan Ján, SR		1	51,205
+3197	Stofan Juraj		1	764,765,1069
+3197	Stofan Juraj, SR		1	51,205
+3197	Stofan Michal		1	61,764,765,1069
+3197	Stofan Michal, SR		1	51,205,754,755
+3197	Stofanová Alžbeta		1	764,765,1069
+3197	Stofanová Alžbeta, SR		1	51,205
+3197	Stofanová Mária r. Hudáková	ded. 1927, V	1	764,765
+3197	Stofanová Mária r. Hudáková, SR		1	51,205
+3197	Stofanová Mária r. Jarošiková		1	61,179
+3197	Stofanová Mária r. Jarošíková, SR		1	180,754,755
+3197	Stofanová Mária r. Roskovenská		1	61
+3197	Stofanová Mária r. Roskovenská, SR		1	754,755
+3197	Szemanová Anna r. Lenartová		0	1155
+3197	Šimonová Katarína r. Fariciová		0	200
+3197	Šimová Katarína r. Fabriciová		1	61,754,755
+3197	Štofanová Mária r. Hudáková		1	1069
+3197	Šuleková Milena-Emília r. Palkovová		1	240
+3197	Šutza Jozef, SR		1	840
+3197	Telepová Katarina r. Dubecká		1	61
+3197	Telepová Katarina r. Dubecká, SR		1	754,755
+3197	Terpák Ján		1	1070
+3197	Terpák Jozef		1	764,765,1069
+3197	Terpák Jozef, SR		1	51,205
+3197	Terpák Michal		1	61
+3197	Terpák Michal, SR		1	754,755
+3197	Tomašková Mária		1	61
+3197	Tomašková Mária, SR		1	754,755
+3197	Uličná Mária r. Papcunová		1	61,193,1105
+3197	Uličná Mária r. Papcunová, SR		1	440,754,755,1176,1319
+3197	Valko Michal		1	61
+3197	Valko Michal, SR		1	754,755
+3197	Varga Andrej		1	61,188,189,247,249
+3197	Varga Andrej, SR		1	754,755,1201
+3197	Varga Imrich		0	189
+3197	Varga Ján		1	61,188,189,247,249
+3197	Varga Ján, SR		1	754,755,1201
+3197	Varga Juraj		1	61,92
+3197	Varga Juraj, SR		1	754,755
+3197	Varga Michal		1	61,247,249,271
+3197	Varga Michal, SR		1	754,755,1246
+3197	Varga Václav		1	61,188,189,247,249
+3197	Varga Václav, SR		1	754,755,1201
+3197	Vargová Alžbeta		1	61,188,189,247,249
+3197	Vargová Alžbeta, SR		1	754,755,1201
+3197	Vargová Anna		1	61
+3197	Vargová Anna r. Stofanová		1	764,765,1069
+3197	Vargová Anna r. Stofanová, SR		1	51,205
+3197	Vargová Anna, SR		1	754,755
+3197	Vargová Mária		1	61
+3197	Vargová Mária r. Mrázová		1	61
+3197	Vargová Mária r. Mrázová, SR		1	754,755
+3197	Vargová Mária, SR		1	754,755
+3197	Vargová Zuzana r. Jarošiková		1	61,95,179,372
+3197	Vargová Zuzana r. Jarošiková, SR		1	754,755
+3197	Vargová Zuzana r. Jarošíková, SR	ded. 1930, II	1	180
+3197	Verba Andrej		1	16
+3197	Verba Andrej, SR		1	670
+3197	Volčan Ján		1	63,92
+3197	Volčan Ján, SR		1	904
+3197	Volčan Štefan		1	63,92
+3197	Volčan Štefan, SR		1	904
+3197	Zakutný Michal		1	764,765,1069
+3197	Zakutný Michal, SR		1	51,205
+3198	ADAMUS Andrej, SK		0	1131
+3198	ANDOR Martin, Heyrovského 2050/10, Bratislava, SK		0	724
+3198	ANDOR Martin, SK		0	1472
+3198	ANDOR Martin, Veľký Grob, SK		0	1392
+3198	ANDOROVÁ Katarína, SK		0	1392,1472
+3198	BACIGÁL Štefan, SK		0	1131,1621
+3198	BACIGÁLOVÁ Mária, Pusté Uľany, SK		0	702
+3198	BAGI Alexander r. Vozárová, SK		0	1264
+3198	BAGI Ján r. Hébortová, SK		0	1065,1176,1228,1243
+3198	BAGI Michal, SK		0	886
+3198	BAGIOVÁ Katarína, Čataj, SK		0	1436
+3198	BAGIOVÁ Mária r. Hébortová, SK		0	1065,1176,1228
+3198	BAGIPÁL Martin, SK		0	745,1173,1781,1946
+3198	BACHRATÁ Filoména r. Hrabinská, SK		0	1131
+3198	BALŠÁN Ernest, SK		0	1605
+3198	BANIČOVÁ Anna, SK		0	1584
+3198	BARTKO Gašpar, SK		0	1131
+3198	BARTKOVÁ Hermína, SK		0	1131
+3198	BATKOVÁ Anna, SK		0	1627
+3198	BATKOVÁ Ľudmila, SK		0	1627
+3198	BEDNARÍK František, SK		0	1662
+3198	BEDNARÍK Štefan, SK		0	1662
+3198	BEDNARÍK Zigmund, Pusté Uľany, SK		0	1663
+3198	BEDNARÍKOVÁ Helena, Pusté Uľany, SK		0	1662,1663
+3198	BENKOVSKÁ Justína r. Hubinská, Veľký Grob, SK		0	1084
+3198	BENKOVSKÁ Katarína r. Miklošovičová, SK		0	1131
+3198	BENKOVSKÁ Mária, SK		0	1131,1617
+3198	BENKOVSKÝ Anton, SK		0	1207,1482,2041
+3198	BENKOVSKÝ Dominik, SK		0	1397
+3198	BENKOVSKÝ Ján, Veľký Grob, SK		0	1084
+3198	BENKOVSKÝ Jozef, SK		0	1131,1617
+3198	BLAHOVÁ Jozefína r. Fartelová, SK		0	1131,1618
+3198	BLAHUTA Izidor, SK		0	1131
+3198	BLAHUTOVÁ Helena, SK		0	1131
+3198	BOCSKAI Emil, SK		0	1131
+3198	BOCSKAI Ján, SK		0	1131,1624
+3198	BOCSKAIOVÁ Emília, SK		0	1624
+3198	BOCSKAIOVÁ Jolana, SK		0	1131,1624
+3198	BOČKAIOVÁ Júlia r. Poláčeková, SK		0	1624
+3198	BOČKAIOVÁ Júlia, SK		0	1131
+3198	BRINZA Ján, SK		0	1348,1519
+3198	BRINZA Karol, 77, SK		0	425
+3198	BRINZOVÁ Mária r. Sakálová, SK		0	627
+3198	BRINZOVÁ Mária r. Szakálová, SK		0	135
+3198	BRINZOVÁ Mária, Čataj, SK		0	1001
+3198	BRNÍK Mikuláš, SK		0	1131
+3198	BRNÍKOVÁ Viktória, SK		0	1131
+3198	BRNÍKOVÁ Vincencia r. Ďurica, SK		0	1131
+3198	BUBORNÍKOVÁ Pavla r. Fartelová, SK		0	1131,1618
+3198	BUDAJ Pavol, SK		0	1439
+3198	BUDAJ Štefan, SK		0	1143,1833
+3198	BUDAJOVÁ Eva, SK		0	1439
+3198	BUDAJOVÁ Gabriela, 234, Veľký Grob, SK		0	972,973
+3198	BUDAYOVÁ Eva, SK		0	712
+3198	BUDAYOVÁ Katarína, SK		0	1540
+3198	BUDAYOVÁ Mária r. Tillingerová, SK		0	1232
+3198	BUDOŠ Ján, SK		0	1586
+3198	Bugár Jozef, 51, VEĽKÝ GROB, PSČ 92527, SK		0	570
+3198	BUKVAY Vilem, SK		0	1640
+3198	BUKVAY Viliam, SK		0	1684
+3198	BUKVAYOVÁ Katarína r. Orlíková, SK		0	1640
+3198	BUTKO Ján, Pusté Uľany, SK		0	1660
+3198	BUTKOVÁ Rozália, Pusté Uľany, SK		0	1660
+3198	ČELKO Jakub, SK		0	1131
+3198	ČERMÁK Samuel, SK		0	1665
+3198	ČERMÁKOVÁ Kristína r. Bašnárová, SK		0	1665
+3198	ČIERNA Magdalena r. Uherčíková, SK		0	1424
+3198	ČIŽMÁR Katarína r. Ženiš, SK		0	396
+3198	ČIŽMÁROVÁ Katarína r. Ženíšová, Amerika SK		0	1322
+3198	DOBROVOCKÁ Magda r. Augustínová, SK		0	1131
+3198	DOBROVODSKÁ Filoména, SK		0	1131,1578
+3198	DOBROVODSKÁ Helena, SK		0	1131,1578
+3198	DOBROVODSKÁ Magda r. Augustínová, SK		0	1578
+3198	DOBROVODSKÁ Sidónia, SK		0	1131,1578
+3198	DOBROVODSKÝ František, SK		0	1131,1578
+3198	DOBROVODSKÝ Jozef, SK		0	1131,1578
+3198	DOMKÁRSKA HOŠTÁCKA Obec, SK		0	921
+3198	DULAYOVÁ Etela r. Bagiová, Pusté Uľany, SK		0	1555
+3198	DULAYOVÁ Etela r. Bagiová, SK		0	1131
+3198	ĎURČI Ladislav, Kukučínova 539, Šaľa, SK		0	1705
+3198	DUSANIČOVÁ Mária r. Valentínová, SK		0	1607
+3198	Fábryová Marta r. Tušová, Bratislavská 28, Trenčín, PSČ 911 01, SK		0	1492
+3198	FARKAŠ Jozef, SK		0	1131
+3198	FARKAŠOVÁ Magda r. Hulíková, SK		0	1582
+3198	FARKAŠOVÁ Magda, SK		0	1131
+3198	FARTEL Anton, SK		0	1131,1618
+3198	FARTEL Jozef, SK		0	1131,1618
+3198	FEKETE Jozef, SK		0	1431
+3198	FEKETE Pavol r. Rovenská, SK		0	1021

@@ -1,0 +1,256 @@
+1864	Husár Ferdinand	rd.Martin a Helena r.Gayda	0	5737
+1864	Husár Vendelín	rd.Martin a Helena r.Gayda	0	5737
+1864	Huserek Ján	mal.D po Jozef a Anna r.Hofmanová	0	2313,2315,2317,3112,3319,4189,4272,4828,5433,5434,5453,5467,5468,7518
+1864	Huserek Ján	otec Jozef	0	3115
+1864	Husereková Anna	mal.zrušená1915 D po Jozef a Anna r.Hofmanová	0	2313,2315,2317,3112,3319,4189,4272,4828,5433,5434,5453,5467,5468,7518
+1864	Husereková Anna	otec Jozef	0	3115
+1864	Husereková Mária	D po Jozef a Anna r.Hochmanová	0	2313,2315,2317,4272,5433,5434,5453,5467,5468,7518
+1864	Hušek Alojz	mal. D po Štefan a Júlia r.Kovarík	0	3923
+1864	Hušek Ferdinand	čd.2345/1948	0	2342,2350,6866
+1864	Hušek Florián	rd.Jozef a Júlia r.Šišolák	0	4744,4748,4752
+1864	Hušek Imrich	mal.D po Jozef Matkovič m.Júlia r.Maxián	0	3125,3128,3972,4272,5433,5434,5451,5452,5467,5468
+1864	Hušek Ján	D po Vendel m.Helena r.Húsek	0	1986,7047
+1864	Hušek Ján	m.Anna r.Mihalčinyová	0	6411
+1864	Hušek Ján	m.Anna r.Vrablecová	0	1438,1691,1855,1856,1986,4623,5705,5707,6954,7045,7046,7047,7230,7456
+1864	Hušek Ján	rd.Augustín a Anna r.Linder	0	2305,2306,4748,4752,5700
+1864	Hušek Ján	slobodný syn Matúš	0	1438,1440,1691,1855,1856,4623,6954,7045,7046,7230,7456
+1864	Hušek Ján	zomrel 9.11.1983,rd.Jozef a Anna r.Klempová	0	5245,6130
+1864	Hušek Jozef	D po Pavol Benkovič m.Mária r.Vachaja	0	1999
+1864	Hušek Jozef	m.Anna r.Hušková	0	2448,5451,5452,6379
+1864	Hušek Jozef	mal.rd.Pavol a Terézia r.Markovič	0	1517,2005,2029,2031,2037,5123
+1864	Hušek Matej	D po.Ján Hušek a Helena Studenič, čd.1011/1937	0	1438,1439,1440,1651,6954
+1864	Hušek Matej	m.Agneša r.Šurinová	0	6704
+1864	Hušek Michal	m.Zuzana r.Staneková	0	4969,5449
+1864	Hušek Michal	mal.D po Jozef Matkovič m.Júlia r.Maxián	0	3125,3128,3972,4272,5433,5434,5451,5452,5467,5468
+1864	Hušek Michal	rd.Jozef a Anna r.Hušková	0	2305,2306,2449,4748,4752,5700
+1864	Húšek Michal	zomrel 1.11.1952,rd.Pavol a Terézia r.Markovič	0	2005,2029,2031,2037,5123
+1864	Húšek Michal	zomrel 19.5.2000	0	1711
+1864	Hušek Ondrej	m.Mária r.Vávrová	0	4748,4752,5699
+1864	Hušek Pavol	m.Mária r.Vrablecová	0	5685
+1864	Hušek Štefan	mal.rd.Pavol a Terézia r.Markovič	0	1517,2005,2029,2031,2037,5123
+1864	Hušek Vendelín	m.Helena r.Hušek	0	1440
+1864	Hušek Vendelín	m.Terézia č.p.346	0	3190
+1864	Hušek Vendelín	mal.zrušená 1950 D po Štefan a Júlia r.Kovarík	0	3923
+1864	Hušková Agneša	mal.Matúš a Mária r.Valla	0	1438,1440,1691,1855,1856,4623,5709,6954,7045,7046,7230,7456
+1864	Hušková Agneša r. Šurinová		0	5718,6356,6704
+1864	Hušková Alžbeta r. Antalková		0	6373,6554
+1864	Hušková Anna	mal.zrušená 1950,rd.Jozef a Anna r.Hušková	0	2305,2306,2449,4748,4752,5700
+1864	Hušková Anna r. Hajdinová		0	1752,2566,3236,3304,5317,5318,6379,7218
+1864	Hušková Anna r. Hušková	zomrela 2.2.1971,m.Jozef	0	4748,4752,5451,5452,5700
+1864	Húšková Anna r. Klempová	zomrela 6.6.1998	0	1938,4741,5451,5452
+1864	Hušková Anna r. Mihalčínyová		0	2612,2798,3178,5035,5154,5288,5375,5635,6216,6411,6431,6477
+1864	Hušková Anna r. Mihalčínyová	rd. Štefan a Terézia r. Emrich	0	4810
+1864	Hušková Anna r. Vrablecová	m.Ján	0	5707
+1864	Hušková Brigita r. Studeničová		0	1601,1639,1640,1641,2630,2631,2633,3657,4773,6360
+1864	Hušková Eva r. Hušková	m.Matúš	0	1439,1856,5686,7046,7230
+1864	Húšková Helena r. Prévayová	zomrela 3.1.1963,m.Florián	0	2350,2807,6866
+1864	Hušková Helena r. Studeničová	m.Ján	0	1641
+1864	Hušková Júlia r. Kováriková	m.Štefan	0	6632
+1864	Hušková Júlia r. Šišuláková	m.Jozef	0	1409,2269
+1864	Hušková Júlia r. Vrablecová	m.Jozef	0	1711
+1864	Hušková Katarína r. Bolfová	vdova m.Vendelín	0	5899,6454
+1864	Hušková Katarína r. Žáčková	m.Jozef vdova	0	2266
+1864	Hušková Mária r. Prelcová		0	1614,4772,4773
+1864	Hušková Mária r. Prelcová	m.Michal	0	2157,2158
+1864	Hušková Mária r. Vrablecová	m.Pavol	0	5685
+1864	Hušková Otília	mal.rd.Pavol a Terézia r.Markovič	0	1517,2005,2029,2031,2037,5123
+1864	Hušková Terézia	m.Vendelín č.p.346	0	3190
+1864	Hušková Terézia	mal.rd.Pavol a Terézia r.Markovič	0	1517,2005,2029,2031,2037,5123
+1864	Hušková Terézia r. Vrablecová		0	2342,2350,6866
+1864	Hušková Terézia r. Zelenková		0	1601,2421,3657,3882,3883,3884,3886,3887
+1864	Chovancová Anna r. Prelcová	zomrela 19.3.1992 Závod	0	3508,3509
+1864	Chovancová Terézia	m.Štefan	0	1462
+1864	Chovanec Štefan	m.Terézia	0	1462
+1864	Chren Ferdinand	č.d.108/1935,rd.Ján	0	2606,6119
+1864	Chren Imrich	č.d.108/1935,rd.Ján	0	2606,6119
+1864	Chren Ján	D po Mária r.Vajai m.Florián	0	6455,6456
+1864	Chren Jozef	č.d.108/1935,rd.Ján	0	2606,6119
+1864	Chren Jozef	D po Mária r.Vajai m.Florián	0	6455,6456
+1864	Chren Martin	D po Mária r.Vajai m.Florián	0	6455,6456
+1864	Chren Michal	D po Mária r.Vajai m.Florián	0	6455,6456
+1864	Chren Ondrej	D po Mária r.Vajai m.Florián	0	6455,6456
+1864	Chren Pavol	č.d.108/1935, rd Ján	0	2606,6119
+1864	Chren Pavol	m.Helena r.Linderová	0	2894,5451,5452,6167,6437
+1864	Chrena Ferdinand	rd. Ján	0	4871
+1864	Chrena Florian	rd. Jozef a Júlia r. Rišková	0	4871
+1864	Chrena Imrich	rd. Ján	0	4871
+1864	Chrena Jozef		0	4871
+1864	Chrena Pavol	rd. Ján	0	4871
+1864	Chrenová Alžbeta	č.d.890/1948	0	2606,6119
+1864	Chrenová Alžbeta	D po Petrovi	0	4871
+1864	Chrenová Helena	č.d.890/1948	0	2606,6119
+1864	Chrenová Helena	D po Petrovi	0	4871
+1864	Chrenová Helena r. Linderová	m.Pavol	0	2894,5451,5452,6167,6437
+1864	Chrenová Jozefína	č.d.890/1948	0	2606,6119
+1864	Chrenová Jozefína	D po Petrovi	0	4871
+1864	Chrenová Mária	D po Mária r.Vajai m.Florián	0	6455,6456
+1864	Chvala Florián	zomrel 18.1.2004 Prievidza	0	738,4961
+1864	Chvála Ján	D po Imrich m.Mária r.Šimek	0	4446,4505,5494,7272
+1864	Chvála Ján	D po Júlia r.Buček m.Jozef	0	4446,7272
+1864	Chvála Ján	m.Anna r.Červenka	0	5433,5434
+1864	Chvála Ján	zomrel 6.12.1952,m.Magdaléna ,D po Terézia r.Leskovská m.Ján	0	5433,5434
+1864	Chvála Jozef	zomrel 12.4.1978,D po Imrich m.Mária r.Šimek m.Alžbeta r.Haj	0	5494
+1864	Chvála Marek	D po Imrich m.Mária r.Šimek	0	4446,4505,5494,7272
+1864	Chvála Štefan	D po Imrich m.Mária r.Šimek	0	4446,4505,5494,7272
+1864	Chválová Alžbeta	mal.zrušená 1951,D po Imrich m.Mária r.Šimek	0	4446,4505,5494,7272
+1864	Chválová Alžbeta r. Hajdinová	m.Jozef D 1468/94	0	4272,5467,5468
+1864	Chválová Anna	D po Imrich m.Mária r.Šimek	0	4446,4505,5494,7272
+1864	Chválová Magdaléna	m.Ján č.p.46	0	1713,2012,4710,4734,6587
+1864	Chválová Magdaléna r. Rusňaková		0	3460
+1864	Chytilová Mária r. Benkovičová	zomrela 8.4.1995,rd.Ján a Helena r.Benkovičová, 5D110/07	0	5433,5434
+1864	Chytilová Pavlína r. Mihalčínyová		0	2612,2798,3178,5035,5154,5288,5375,5635,6216,6431,6477
+1864	Chytilová Pavlína r. Mihalčínyová	rd. Štefan a Terézia r. Emrich	0	4810
+1864	Izakovič Anton	D po Štefan a Augustína r.Rosípalová	0	1969,4233,6480
+1864	Izakovič Ján	kúpa čd.1031/1933	0	1938,1940,4741
+1864	Izakovič Ján	m.Mária č.p.202	0	1655
+1864	Izakovič Ján	zomrel 2.6.1979,D po Peter m.Anna r.Mihálek	0	2392,5264,5265,7398
+1864	Izakovič Ján	zomrel 4.11.1960,m.Barbora r.Miček	0	4272,5467,5468
+1864	Izakovič Jozef	D po Florián Hajdín m.Helena r.Postyéniová	0	6283
+1864	Izakovič Jozef	D po Štefan a Augustína r.Rosípalová	0	1969,4233,6480
+1864	Izakovič Jozef	m.Terézia r.Vávrová	0	5264,5265,7398
+1864	Izakovič Jozef	zomrel 11.7.2000,m.Anna r.Zajicová	0	6166
+1864	Izakovič Jozef	zomrel 17.2.1965,D po Peter m.Anna r.Mihálek	0	3284,3727,4017,4272,5391,5392
+1864	Izakovič Jozef	zomrel 25.10.1993	0	3282,3728,4272,5433,5434,5467,5468,6155,6165,6904
+1864	Izakovič Ladislav	zomrel 3.5.1995,D po Barbora r.Mičková m.Ján	0	4272,5467,5468
+1864	Izakovič Michal	zomrel 1.6.1965,D po Peter m.Anna r.Mihálek	0	4272
+1864	Izakovič Mikuláš	kúpa čd.1031/1933	0	1938,4741
+1864	Izakovič Mikuláš	m.Alžbeta r.Hajdinová	0	3284,3727
+1864	Izakovič Pavol	č.d.2503/1922, m.Mária r.Maxiánová	0	4233,6480
+1864	Izakovič Pavol	m.Anna r.Maxian zomrela	0	1969
+1864	Izakovič Peter	kúpa čd.982/1937	0	5105,5106,5107,6786,6787,7079,7435
+1864	Izakovič Peter	m.Anna r.Michálek	0	5467,5468
+1864	Izakovič Štefan	D po Alžbeta r. Hajdinová, m. Mikuláš	0	4861
+1864	Izakovič Štefan	D po Alžbetar r.Hajdinová m.Mikuláš	0	3850,6241
+1864	Izakovič Štefan	D po Florián Hajdín m.Helena r.Postyéniová	0	6283
+1864	Izakovič Štefan	m.Helena r.Hajdinová	0	1938,1940,4741,5061,5328,5439
+1864	Izakovič Štefan	zomrel 10.1.1993 D po Alžbeta r.Markovičová	0	4272,5433,5434,5451,5452,5467
+1864	Izakovičová Alžbeta r. Markovičová	č.d.4056/1930, rd.Imrich a Anna r.Švecová	0	2458,3004,5594
+1864	Izakovičová Alžbeta r. Markovičová	rd. Imrich a Anna r. Švecová	0	3002
+1864	Izakovičová Barbora r. Blažeková	manž. Ján	0	2221
+1864	Izakovičová Barbora r. Blažeková	rd.Pavlína r.Šrámková; rd.Pavlína r.Šrámková	0	2212
+1864	Izakovičová Barbora r. Blažeková	rd.Pavlína r.Šrámkováč	0	2210,2215,2216,2217,2219,2220,3195,3198,3505,3595,3633,4272,5290,5433,5434,5467,5468
+1864	Izakovičová Helena r. Hajdinová	zomrela 10.1.1979	0	4272,5061,5328,5433,5434,5439,5467,5468
+1864	Izakovičová Mária	m.Anton	0	3632
+1864	Izakovičová Mária	m.Ján č.p.202	0	1655
+1864	Izakovičová Mária r. Lisická	zomrela 4.10.1979,m.Jozef	0	1483,2204,2780,2781,3023,4272,4586,4990,5101,5220,5221,5260,5433,5434,5467,5468,5649,6942,7238
+1864	Izakovičová Mária r. Osuská	zomrela 13.7.1999	0	3440,5611
+1864	Izákovičová Terézia r. Drahošová		0	1639,1640,1641,1721,1722,1723,1724,1725,6643,7327,7328,7329
+1864	Jablonická Alžbeta r. Milacová		0	2042,2043,2044
+1864	Jablonická Alžbeta r. Milacová	m.Anton,Závod 547	0	3040
+1864	Jakubovičová Helena r. Jančiová		0	4524
+1864	Jakubovičová Helena r. Jančiová	č.d.1678/1943	0	1677,2296,3437,3438,3439,4076,4272,4522,4523,4600,4602,4604,4605,4606,4608,4610,4611,4614,4624,4834,5345,5433,5434,5451,5452,5467,5468,5528,5529,5531,5533,7081,7083,7453,7454
+1864	Janči Ján	č.p.210	0	2669
+1864	Janči Jozef		0	3915
+1864	Janči Jozef	čd.4462/1931	0	3915
+1864	Janči Jozef	D po Ján m.Mária r.Leskovská	0	3221,3376,4534
+1864	Janči Jozef	m.Alžbeta r.Osuská	0	4606,4610,4614,5531,7083
+1864	Janči Jozef	zomrel 1.2.1989,mal.zrušená 1922,D po Ján Leskovský m.Terézi	0	3458,5433,5434,5677
+1864	Janči Martin	č.d.304/1949	0	1677,2296,3437,3438,3439,4076,4272,4522,4523,4600,4602,4604,4605,4606,4608,4610,4611,4614,4624,4834,5345,5433,5434,5451,5452,5467,5468,5528,5529,5531,5533,7081,7083,7453,7454
+1864	Janči Martin	čd.304/1949	0	4524
+1864	Janči Michal		0	3915
+1864	Janči Michal	čd.4462/1931	0	3915
+1864	Janči Michal	D po Ján m.Mária r.Leskovská	0	1677,2296,4624,7081
+1864	Janči Michal	mal.zrušená 1920,D po Ján Leskovský m.Terézia r.Rusňák	0	2667,3458,3460,5433,5434,6275
+1864	Janči Peter		0	3915
+1864	Janči Peter	č.d.304/1949 D po Alžbeta r.Osuská	0	1677,2296,3437,3438,3439,4076,4272,4522,4523,4600,4602,4604,4605,4606,4608,4610,4611,4614,4624,4834,5345,5433,5434,5451,5452,5467,5468,5528,5529,5531,5533,7081,7083,7453,7454
+1864	Janči Peter	čd.304/1949	0	4524
+1864	Janči Peter	čd.4462/1931	0	3915
+1864	Janči Peter	D po Ján m.Mária r.Leskovská	0	3221,3376,4534
+1864	Janči Peter	zámenná zmluva čd.160/1943	0	6269
+1864	Janči Peter	zomrel 1.12.1977,mal.zrušená 1925,D po Ján Leskovský m.Teréz	0	2667,3458,3460,4147
+1864	Janči Peter	zomrel 14.4.1965,č.d.2042/1922	0	1876,4272,5433,5434,5467,5468
+1864	Jančiová Helena	mal.zrušená 1919, D po Ján a Terézia r.Rusňák	0	2667,3460
+1864	Jančiová Mária	č.p.210	0	2669
+1864	Jančiová Mária r. Tomeková	rd.Michal a Katarína r.Šrámková	0	4272,5433,5434,5467,5468
+1864	Jančiová Mária r. Tomková		0	3453,3456,5433,5434,5961
+1864	Janeček Blažej	D po Peter m.Helena r.Krajčír	0	6069
+1864	Janeček Engelbert	m.Anna r.Šimkovičová č.p.212	0	2669
+1864	Janeček Peter	D po Peter m.Helena r.Krajčír	0	6069
+1864	Janeček Štefan	D po Peter m.Helena r.Krajčír	0	6069
+1864	Janečková Agneša r. Šišoláková		0	1606
+1864	Janečková Anna r. Bolfová	zomrela 7.2.1997,rd.Štefan	0	1431,2909,5084,6217
+1864	Janečková Irena Rozália	mal.zrušená 1950 čd.1450/1939	0	1888,5120,5121,5122,5213,5537,5538,6016,7294
+1864	Janečková Júlia r. Janečková	Moravský Ján 187	0	1888,5120,5121,5122,5213,5537,5538,6016,7294
+1864	Janečková Mária r. Šurečková		0	1586
+1864	Janečková Markéta Mária	mal.čd.1450/1939	0	1888,5120,5121,5122,5213,5537,5538,6016,7294
+1864	Jankovičová Terézia r. Kochová	zomrela 27.10.1988, rd.Ján	0	4710
+1864	Janotková Helena r. Kochová	m.Juraj	0	5120,5213,5537,5538
+1864	Janovič Ján	D po Júlia Čederle r.Kubina m.Ondrej	0	2592,2593,2599,5188,5451,5452,7277,7470
+1864	Janovičová Anna r. Šramková	m.Ján	0	1529,1534,1535,1536,4500,5003,5433,5434,5451,5452,7170,7171,7471
+1864	Janovičová Anna r. Šrámková	zomrela 18.3.1967 D po Adam m.Mária r.Benya	0	4017
+1864	Jažková Terézia r. Hešterová		0	5589
+1864	Jensenová Helena r. Leskovská		0	1893,1894,3687,3929,4272,4529,5422,5433,5434,5467,5468
+1864	Ježek Ján	zomrel 3.2.1972,rd.Jozef a Terézia r.Škápiková	0	4272,5467,5468
+1864	Ježek Ján	zomrela 16.9.1973,m.Helena r.Vadinová	0	3620,4256
+1864	Ježek Michal	zomrel 4.7.1959,rd.Jozef a Terézia r.Škápiková	0	4272,5467,5468
+1864	Ježek Ondrej	zomrel	0	4320,5246,6932
+1864	Ježek Vendelín	D po Pavol Benkovič m.Mária r.Vachaja	0	1999,2000
+1864	Ježková Agneša r. Mračnová	zomrela 19.4.2005	0	2334,6188
+1864	Ježková Alžbeta r. Zupová		0	4272
+1864	Ježková Helena r. Benkovičová	m.Michal	0	2475
+1864	Ježková Helena r. Vadinová	m.Ján	0	1573,1999,4256,4272,4463,5433,5434,5467,5468
+1864	Ježková Terézia	mal.D po Peter čd.2780/1941	0	2081,2084,2086,4272,5092,5094,5095,5097,5098,5433,5434,5467,5468,7479
+1864	Ježková Terézia r. Hešterová	rd.Michal a Helena r. Mračnová	0	3949
+1864	Ježková Terézia r. Mračnová	zomrela 11.8.1981,m.Ondrej	0	5247
+1864	Ježková Terézia r. Škápiková	zomrela 6.9.1952,m.Jozef	0	4272,5467,5468,6237
+1864	Jirková Anna	č.d.5350/1938, rd.Ján	0	2553,4065,4066,5035,5375
+1864	Juricová Júlia r. Štvrtecká		0	1811,2382,5433,5434
+1864	Jurigová Anna r. Hesterová	m.Pavol	0	4714
+1864	Juríková Mária r. Vilemová		0	1613,1759
+1864	Jurkovič Frolián	m.Terézia r.Zelenková	0	5396
+1864	Jurkovič Jozef	dar po Mária Pavelková r.Drahošová m. Mikuláš	0	1983
+1864	Jurkovič Jozef	m.Terézia r.Stanková	0	6710
+1864	Jurkovičová Anna r. Figurová	zomrela 8.8.1996 Závod	0	1807
+1864	Jurkovičová Júlia	čd.37/1935	0	1638
+1864	Jurkovičová Leopoldína	čd.37/1935	0	1638
+1864	Jurkovičová Terézia r. Staneková		0	3359,6527
+1864	Jurkovičová Terézia r. Stanková	m.Jozef	0	6710
+1864	Jurkovičová Terézia r. Vrablecová		0	6354
+1864	Jurkovičová Terézia r. Zelenková	m.Florián	0	3886,6462
+1864	Kadlíček Jozef	D po Anna r.Švecová m.Marek	0	5451,5452
+1864	Kadlíček Jozef	zomrel 3.6.1988	0	1398
+1864	Kadlíček Štefan		0	1396
+1864	Kadlíčeková Anna r. Maxiánová		0	1584,2028,3533,3534,4854
+1864	Kadlíčeková Anna r. Maxiánová	dedila po Márii r. Ščibránovej	0	4406
+1864	Kadličeková Anna r. Švecová	m.Marek	0	5433,5434
+1864	Kadlíčeková Zuzana r. Kochová		0	6315
+1864	Kadlíčková Alžbeta r. Maďarová	zomrela 13.10.2008	0	1430,5358
+1864	Kadlíčková Anna r. Švecová		0	5433,5434,6482
+1864	Kadlíčková Mária r. Kochová	m.Martin,zomrela 13.1.1925	0	1649
+1864	Kaňová Katarína	D po Júlia Čederle r.Kubina m.Ondrej	0	2592,7277,7470
+1864	Keil Gejza	kúpa čd.3192/1942	0	6589
+1864	Kisková Alžbeta	čd.572/1914 D po Vanek Ján m.Anna r.Švecová	0	6443
+1864	Kiss Ján		0	4922
+1864	Kiss Ján	čd.1651/1947	0	6700
+1864	Klčová Mária	D po Štefan a Mária r. Maxián	0	4836
+1864	Klčová Mária	D po Štefan a Mária r.Maxián	0	3917,4546,6229,6310
+1864	Kleinedlerová Anna r. Kudlová		0	2664,2665,2667,5061,5328,5439,6371
+1864	Kleinedlerová Júlia r. Čederlová		0	5451,5452
+1864	Kleinedlerová Júlia r. Studeničová	zomrela 25.5.1990	0	5433,5434,6592
+1864	Klempa Anton	rd.Michal a Anna r.Šišoláková	0	4974,4975
+1864	Klempa Imrich	zomrel 21.4.1968,rd.Martin a Alžbeta r.Zajícová, m.Alžbeta r	0	1713,2012,4710,4734
+1864	Klempa Ján	čd.4142/1933	0	6536
+1864	Klempa Ján	rd.Jozef a Mária r.Dojčáková	0	1983,3677,3680
+1864	Klempa Jozef	m.Mária r.Dojčáková	0	3677,3680
+1864	Klempa Martin	rd.Michal a Anna r.Šišoláková	0	4974,4975
+1864	Klempa Michal	rd.Michal a Anna r.Šišoláková	0	4974,4975
+1864	Klempa Mikuláš	m.Helena r.Kopiarová	0	6688
+1864	Klempa Mikuláš	rd. Štefan a Anna r.Drahošová	0	5719,6362,6502
+1864	Klempa Pavel	rd.Jozef a Mária r.Dojčáková	0	1983,3677,3680
+1864	Klempa Pavol	m.Zuzana	0	1406,1639,1641,1734,1735,2350,2624,6674,6866,6867
+1864	Klempa Štefan	m.Mária r.Maxián	0	2292
+1864	Klempa Štefan	zomrel 19.2.1978 ,rd.Martin a Alžbeta r.Zajícová	0	5433,5434
+1864	Klempa Vendelín	m.Helena	0	1734,1735,2624,6535
+1864	Klempa Vendelín	rd.Jozef a Mária r.Dojčáková	0	1983,3677,3680
+1864	Klempová Alžbeta	rd.Michal a Anna r.Šišoláková	0	4974,4975
+1864	Klempová Alžbeta r. Vidovičová		0	3004
+1864	Klempová Barbora r. Zaicová	zomrela 28.6.1975,m.Imrich	0	2636
+1864	Klempová Barbora r. Zajícová		0	2622
+1864	Klempová Helena	m.Vendelín	0	1734,1735,2624,6535
+1864	Klempová Helena r. Kopiarová		0	1599,1600
+1864	Klempová Helena r. Kopiarová	m.Mikuláš	0	6688
+1864	Klempová Júlia	rd.Michal a Anna r.Šišoláková	0	4974,4975
+1864	Klempová Karolína	mal.rd.Michal a Anna r.Šišoláková	0	4974,4975
+1864	Klempová Mária r. Hajdínová	6D 956/05	0	2855,5314,6308
+1864	Klempová Mária r. Chrenová	zomrela 9.10.1983	0	986,2931,5633,6476
+1864	Klempová Mária r. Maxiánová	m.Štefan	0	1677,1678,2296,4272,4624,5025,5126,5433,5434,5467,5468,7081

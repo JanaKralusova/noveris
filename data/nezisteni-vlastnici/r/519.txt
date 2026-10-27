@@ -1,0 +1,256 @@
+313	ŠEPITKA Ján	zomrel	1	220,287
+313	ŠEPITKA Jozef	zomrel	1	277,322,325,326,331,332,402,403,404
+313	ŠEPITKA Peter	zomrel	1	226
+313	ŠEPITKOVÁ Anna	r LASTIVKOVÁ zomrela; ; zomrela	1	227,234,277,322,325,326,331,332,348,402,403,404
+313	ŠTEFANČÍK Andrej	zomrel	1	226
+313	ŠTEFANČÍK Jacko	zomrel	1	226
+313	ŠTEFANČÍK Ján	zomrel	1	222,226
+313	ŠTEFANČÍK Jozef	zomrel	1	212,226
+313	TKÁČ Andrej	zomrel	1	183,277,322,325,326,331,332,340,402,403,404
+313	TKÁČ Ján	zomrel 1	1	183,277,322,325,326,331,332,340,402,403,404
+313	TKÁČ Jozef	zomrel	1	183,277,322,325,326,331,332,340,402,403,404
+313	TKÁČ Jozef	ž Anna r ŠTEFANČÍKOVÁ; ; ž Anna ŠTEFANČÍKOVÁ	1	296
+313	TKÁČ Juraj	zomrel	1	226,261,324,328
+313	TKÁČ Peter	zomrel	1	226
+313	TKÁČOVÁ Anna	zomrela	1	187,195,344,357,358,390,397,411
+313	TKÁČOVÁ Mária	zomrela	1	183,277,322,325,326,331,332,340,402,403,404
+313	ULMAN Lipot	zomrel	1	226,261,324,328
+313	VANCA Juraj	zomrel	1	226
+313	VAŠKANIN Andrej	ž Mária r JACKANINOVÁ zomrel; ; zomrel; ž Mária JACKANINOVÁ	1	295
+313	VAŠKANIN Ivan	zomrel	1	288
+313	VAŠKANIN Ján		1	199,269,284,296,407
+313	VAŠKANIN Ján	zomrel	1	208,217,226,314,315,345,347
+313	VAŠKANIN Ján	zomrel MiV	1	226
+313	VAŠKANIN Jozef	zomrel	1	182,226,274,295
+313	VAŠKANINOVÁ Anna	r HARVIŠOVÁ zomrela; ; zomrela	1	226
+313	VAŠKANINOVÁ Anna	zomrela	1	226
+313	VAŠKANINOVÁ Mária	zomrela MáH	1	244
+313	VAŠKANINOVÁ Mária	zomrela MiV	1	226
+314	Adamičková Mária r. Margolienová	r.Margolienová 10.9.1909,neb.; r.Margolienová 10.9.1909,neb	0	189
+314	Adamičková Mária r. Margolienová, SR	r.Margolienová 10.9.1909,neb.; r.Margolienová 10.9.1909,neb	1	173
+314	Adamičková Mária r. Margolienová, SR neb.		0	172
+314	Adamičková Mária, Duklianskych hrdinov 10, SR		0	59,62,71,78,86,87,147
+314	Bačková Katarína r. Margolienová		1	133
+314	Bičanová Valéria r. Margolienová, Blagoevova 15, SR		0	70,211
+314	Bolfa Milan	30.5.1948	1	101
+314	Bolfa Milan, SR		1	201
+314	Danko Lukáš		1	106,128
+314	Ďurkáčová Adela r. Škerdová		1	106
+314	Ďurkáčová Andela r. Škerdová		1	114
+314	Ďurkáčová Andela r. Škerdová, SR	r.Škerdová; r.Škerdová	1	170
+314	Gyuriemková Mária r. Margolienová		1	133
+314	Hanáková Anna r. Margolienová		1	55,59,62,71,78,80,86,87,94,133,147
+314	Hanáková Anna r. Margolienová, SR		1	173,174,189
+314	Hanáková Anna r. Margolienová, SR	//	1	201
+314	Chocina Michal ml.		1	111
+314	Chocina Pavol		1	140
+314	Chocina Pavol	ž.Artzová Regina	1	131
+314	Chocinová Júlia		1	60
+314	Chocinová Regina r. Artzová		1	60,131
+314	Kleiner Roman		1	126,216
+314	Kleinerová Anna		1	126,216
+314	Kleinerová Bernardína		1	98,224
+314	Kleinerová Jolana		1	126,216
+314	Košíková Anna r. Kleinerová, s.č. 26, Otrhánky, SR	15.4.1912	0	98,224
+314	Lagin Michal		1	127,134,213,215
+314	Ľahká Jozefína r. Šimková		1	92
+314	Lahký Emil, SR	11.2.1934; 11.2.1934	1	170
+314	Ľudová Banka Bánovce, SR		0	136
+314	Margolien Michal	ž.Mária,deti z manželstva	1	62,87,125,147,163
+314	Margolien Michal, SR	c.d.740/1944; c.d.740/1944	1	171
+314	Margolien Michal, SR	ž.Mária deti z manželstva; ž.Mária deti z manželstva	1	189
+314	Margolien Peter		1	55,59,62,71,78,80,86,87,94,133,147
+314	Margolien Peter, SR	c.d.740/1944; c.d.740/1944	1	171
+314	Margolien Peter, SR	ž.Anna Bolfová; ž.Anna Bolfová	1	172,173,174,189,201
+314	Margolien Štefan		1	59,71,78,86,133
+314	Margolien Štefan, SR		1	201
+314	Margolien Vojtech	ž.Antónia Margolienová	0	189
+314	Margolien Vojtech, s.č. 34, Cimenná, PSČ 956 37, SR	ž.Antónia Margolienová	0	55,62,87,111,115,147
+314	Margolien Vojtech, s.č. 34, Cimenná, PSČ 95637, SR	ž.Antónia Margolienová	0	94,111
+314	Margolien Vojtech, s.č. 34, Cimenná, PSČ 965 37, SR	ž.Antónia Margolienová	0	80
+314	Margolien Vojtech, SR	ž.Antónia Margolienová	1	174
+314	Margolienová Angela		1	55,87,133
+314	Margolienová Angela, SR		1	173,174
+314	Margolienová Anna r. Kleinerová		1	100,126,216
+314	Margolienová Helena r. Kleinerová		1	67,68,69,73,81,82,91,96,98,100,102,126,216,223,224
+314	Margolienová Helena r. Kleinerová, SR		1	187
+314	Margolienová Helena r. Kleinerová, SR	r.Kleinerová; r.Kleinerová	1	187
+314	Margolienová Júlia		1	80
+314	Margolienová Magdaléna		1	55
+314	Margolienová Magdaléna, SR		1	174
+314	Margolienová Pavlína r. Kleinerová		1	67,68,69,70,73,81,82,96,98,100,126,211,216,223,224
+314	Mihalek Viktor, SR	neb.,nar.17.5.1925; neb.,nar.17.5.1925	1	172
+314	Miháliková Júlia r. Margolienová		1	133
+314	Miháliková Júlia r. Margolienová, SR		1	201
+314	Miháliková Júlia r. Margolienová, SR	r.Margolienová; r.Margolienová	1	173,174,189
+314	Miháliková Mária r. Margolienová		1	55,59,62,71,78,80,86,87,94,133,147
+314	Miháliková Mária r. Margolienová	zom. 03.03.1983	1	189
+314	Mihálová Júlia r. Škardová, SR	r.Škardová 19.4.1900; r.Škardová 19.4.1900	1	170
+314	Micháleková Angela r. Margolienová		1	55,59,62,71,78,80,86,94,147
+314	Micháleková Angela r. Margolienová, SR		1	201
+314	Micháleková Angela r. Margolienová, SR	r.Margolienová; r.Margolienová	1	174,189
+314	Micháleková Irena r. Danková		1	106
+314	Micháleková Júlia r. Škerdová		1	76,89,104,106,114,123,129
+314	Micháleková Júlia r. Škerdová, SR		1	170
+314	Mitická Janka r. Margolienová		1	133
+314	Ondrejkovič Štefan		1	55
+314	Ondrejkovič Štefan, SR		1	174
+314	Pražencová Alžbeta		1	139
+314	Pražencová Eva		1	139
+314	Pražencová Žofia		1	139
+314	Praženec Štefan		1	139
+314	Redekyová Vilma r. Laginová, SR	r.Laginová,nar,9.4.1926; r.Laginová,nar,9.4.1926	1	176,177,190,207
+314	Santnerová Anna r. Bôžiková		1	76,89,104,106,114,123,129
+314	Santnerová Anna r. Bôžiková, SR	r.Bôžiková vd.; r.Bôžiková vd	1	170
+314	Scheer Anton		1	60,71,80,83
+314	Scheer Gustáv		1	111
+314	Scheer Michal		1	60,71,80,83
+314	Scheerová Helena r. Exlerová		1	139
+314	Scheerová Veronika		1	60
+314	Stahl Igor		1	78
+314	Stepo Jozef		1	139
+314	Stepo Martin		1	139
+314	Stepo Štefan		1	139
+314	Šimko Jozef		1	76
+314	Škerda Jozef		1	111,129
+314	Škerdová Pavlína		1	76,89,104,106,114,123,129
+314	URBÁR Cimenná, SR		0	108
+315	Aláč Michal	syn Jána	0	931,1449,1493,1678
+315	Aláč Michal	syn Jána; syn Jána	0	759,926
+315	Aláčová Mária	dcéra Jána	0	931,1449,1493,1678
+315	Aláčová Mária	dcéra Jána; dcéra Jána	0	759,926
+315	Aláčová Zuzana	dcéra Jána	0	931,1449,1493,1678
+315	Aláčová Zuzana	dcéra Jána; dcéra Jána	0	759,926
+315	Avieská Etela r. Palečková	vd	0	1565
+315	BALKOVSKÁ Zuzana r. Salajová		0	759,931,1449,1493,1678,1820
+315	Barkáč Pavel	ž.Mária r.Korimová	0	1570
+315	Barkáč Rudolf	zomrel 12.6.2001; zomrel 12.6.2001	0	447
+315	Barkáčová Mária r. Korimová	obyv.v Poprade	0	759,931,1449
+315	Barkáčová Zuzana r. Strungová	vd	0	759,931,1449,1493,1541,1678
+315	Barkáčová Zuzana r. Strungová	vd.; vd	0	783,784,785,787,789,790
+315	BELICA Martin	ž.Mária r.Vančová	0	1493,1657,1678
+315	Belica Pavel	zomrel r.2000	0	981
+315	Belicová Dorota r. Salajová	vd	0	759,931,1449,1493,1567,1574,1601,1657,1678
+315	Belicová Dorota r. Salajová	vd.; vd	0	920,1041
+315	Benčo Ján	mal.,syn Martina	0	1519
+315	Benčo Ján	zomrel 7.10.1995	0	1518
+315	Benčo Ján	zomrel r.2004	0	981
+315	BENČO Ján	ž.Elena r.Jánošová	0	1493,1678
+315	Benčo Martin	syn Martina	0	759,931,1449
+315	Benčo Martin	syn Martina; syn Martina	0	933
+315	BENČO Martin	ž.Františka r.Ďačkynová	0	1493,1678
+315	Benčová Mária	dcéra Martina	0	759,931,1449
+315	Benčová Mária	dcéra Martina; dcéra Martina	0	933
+315	BERKI Ignác		0	1594
+315	Berki Karol	ž.Mária r.Berkiová	0	1581,1584
+315	Berkyová Mária r. Balogová	v Cinobani	0	1581,1585
+315	Betinová Mária r. Belicová	m.Ján,Ozdín č.12	0	1735,1740
+315	Bieník Ján	syn Jána,v Amerike	0	759,931,1173,1202,1203,1449,1493,1671,1678
+315	Bodzášiová Pavlína r. Moravčíková	Kanada	0	759,931,1449
+315	Bodzášiová Pavlína r. Moravčíková	Kanada; Kanada	0	120,878
+315	Brada Ján	mal	0	1766
+315	Brada Pavel	mal	0	1766
+315	Brláš Pavel	ž.Mária r.Urdová	0	759,931,1504
+315	BRLÁŠ Pavel	ž.Mária r.Šnúriková	0	1493,1678
+315	Brlášová Zuzana r. Šlichtová	Amerika	0	759,931,1449,1493,1678
+315	ČERVIENKOVÁ Mária r. Sojčiaková		0	1724
+315	Čomaj Ján	syn Jána,slobodný	0	1439
+315	Čomaj Ján	syn Jána,slobodný; syn Jána,slobodný	0	735
+315	Čomaj Ján	syn Jána,šuľan,sestra Jolana	0	1612
+315	ČOMAJ Milan	zomrel	0	1493
+315	Čomaj Ondrej	syn Jána,slobodný; syn Jána,slobodný	0	905
+315	ČOMAJ Ondrej	syn Jána,slobodný	0	1493
+315	ČOMAJOVÁ Júlia	slobodná,dcéra Michala	0	1493,1671,1678
+315	Čomajová Mária r. Salajová	Šuľan	0	1844
+315	Čomajová Zuzana r. Benčová	Amerika	0	759,931,1170,1171,1449,1493,1538,1678
+315	Čomajová Zuzana r. Benčová	Amerika; Amerika	0	65,1135
+315	Čonka Alexander	ž.Vilma r.Čonková	0	1581,1583
+315	Čonka Bálint	ž.Mária r.Berkiová	0	1590
+315	Čonka Jozef	ž.Lujza r.Berkiová	0	1581,1582
+315	Čonka Juraj	ž.Kornélia r.Horvátová	0	1579,1581
+315	Čonka Ladislav	ž.Pavlína r.Berkiová	0	1589
+315	ČSŠ - MNV Cinobaňa		0	1523
+315	Ďalogová Zuzana	Budiná	0	1766
+315	DEME Arpád		0	1592
+315	Deme Gejza	ž.Emília r.Oláhová	0	1591
+315	DOBRÍKOVÁ Elena r. Zaťková	zomrela 9.1.2001	0	1493
+315	DORNDORFER Jozef		0	654,833
+315	DORNDORFER Milan		0	654,833
+315	Dováľ Belo	ž.Elena r.Korimová	0	1438,1681
+315	Dováľ Ján	Ing.,syn Michala	0	1438,1681
+315	Dováľ Ján	zomrel 13.5.2008; zomrel 13.5.2008	0	1114
+315	DOVÁĽ Ján	zomrel 13.5.2008	0	1493,1534
+315	Dováľ Július	ž.Elena r.Karlíková	0	1438,1681
+315	Dováľ Juraj	zomrel 6.3.2000	0	1534
+315	Dováľ Martin	ž.Elena r.Korimová	0	1679
+315	Dováľ Michal	ž.Zuzana r.Marková,Cinobaňa č.175	0	1597
+315	DOVÁĽ Vojtech		0	1493
+315	DOVÁĽOVÁ Mária r. Barkáčová		0	759,931,1132,1449,1564
+315	DOVÁĽOVÁ Zuzana r. Marková		0	759,931
+315	DUBRAVCOVÁ Helena r. Mišková	zomrela 23.6.2004	0	1493,1678
+315	Dudek Ján	mal.,syn Jána; mal.,syn Jána	0	914,915,996
+315	Dudek Ján	zomrel	0	1718,1740
+315	Dudek Ján	ž.Anna r.Gondášová; ž.Anna r.Gondášová	0	914,915,973,974,996
+315	Dudek Ján	ž.Elena r.Barkáčová,USA	0	1202
+315	Dudeková Elena r. Barkáčová	m.Ján	0	759,931,1202,1203,1449,1493,1671,1678,1854
+315	FARKAŠ Aladár		0	1581,1586
+315	Farkaš Alojz	syn Margity	0	1581,1586
+315	Fiľo Ján	ž.Mária r.Salajová	0	759,931,1449,1493
+315	Fiľo Ján	ž.Mária r.Salajová,obyv.v Amerike	0	1629
+315	Fiľo Ján	ž.Mária r.Salajová; ž.Mária r.Salajová	0	1035,1036,1921
+315	Fiľo Martin	ž.Ružena r.Ogonášová; ž.Ružena r.Ogonášová	0	1921
+315	FIĽOVÁ Mária	slobodná,brat Martin	0	1493,1678
+315	Fungáčová Rozália r. Miadoková	Detv.Huta	0	1804
+315	Garaj Ján	ž.Mária r.Sýkorová	0	759,931
+315	Garaj Michal	Hudec,Amerika; Hudec,Amerika	0	1152
+315	Garaj Michal	ž.Elena r.Kucháriková,Vrútky	0	759,931
+315	Garaj Michal	ž.Elena r.Kucháriková,Vrútky; ž.Elena r.Kucháriková,Vrútky	0	969
+315	GARAJ Michal	Hudec,Amerika	0	1449,1493,1678,1856
+315	Gombala Ján		0	808,936,1413,1970
+315	Gombala Ján	fiškál,ž.Anna r.Zdechovanová,Cinobaňa	0	1688,1696,1700
+315	Gombala Ján	fiškál,ž.Anna r.Zdechovanová,Cinobaňa; fiškál,ž.Anna r.Zdechovanová,Cinobaňa	0	807
+315	Gombala Ján	Imrov,ž.Magdaléna r.Šuleková	0	1597
+315	Gombala Ján	ž.Emília r.Hrončeková; ž.Emília r.Hrončeková	0	990
+315	Gombala Juraj	Jánov,ž.Anna r.Macková	0	1640
+315	Gombala Juraj	Medzilaborce	0	1766
+315	Gombala Juraj	ž.Anna r.Odzganová	0	1763
+315	Gombala Martin	ďarmotský,ž.Anna r.Gombalová	0	808,1703
+315	GOMBALA Martin		0	807,989
+315	Gombala Matúš	starší ž.Katarína r.Gombalová	0	1701
+315	Gombala Matúš	ž.Zuzana r.Spodniaková	0	1239
+315	GOMBALA Matúš		0	808,936,1413,1970
+315	Gombala Ondrej	hluchonemý	0	1766
+315	Gombalová Anna r. Gombalová	m.Martin	0	1703
+315	Gombalová Anna r. Gombalová	zomrela	0	808
+315	Gombalová Anna r. Gombalová	zomrela; zomrela	0	807
+315	Gombalová Anna r. Macková	m.Juraj	0	1640
+315	GOMBALOVÁ Anna r. Odzganová		0	936,1970
+315	Gombalová Anna r. Zdechovanová	m.Ján,Cinobaňa 280	0	1688
+315	Gombalová Katarína r. Gombalová	m.Matúš st	0	1701
+315	GOMBALOVÁ Katarína r. Gombalová		0	808
+315	Gombalová Mária	dcéra Jána Babica	0	1758
+315	GOMBALOVÁ Mária	v Čerenčanoch	0	1493,1678
+315	GOMBALOVÁ Mária r. Miadoková		0	1766
+315	GOMBALOVÁ Pavlína r. Spodniaková		0	735,813,953,1128,2025
+315	Gombalová Terézia r. Györgyövá	vd	0	1649
+315	Gondášová Emília	mal	0	1816
+315	Gondášová Františka r. Halajová	vd.muž bol Ján	0	1807
+315	Halaj Martin	ž.Mária r.Adamcová	0	1791
+315	HALAJOVÁ Irena r. Miadoková		0	1804
+315	HARANDZA František		0	1815
+315	HARANZOVÁ Angela r. Sojčiaková		0	1724
+315	Hirgeltová Margita r. Kurčíková	m.Valent,Ozdín č.90	0	1396,1718,1740
+315	Horvát Michal	ž.Emília r.Farkašová	0	1595
+315	Horváth Barnabáš	ž.Júlia r.Folková	0	1596
+315	Hrnčiarová Elena r. Maďarová	v Mýtnej	0	1709,1711
+315	Hronček Juraj	ž.Agnesa r.Machalová	0	1809
+315	Hudecová Juliana r. Čokajová	zomrela 14.2.1988	0	931
+315	IMRE Ján	slobodný	0	1449
+315	Imre Michal	ž.Elena r.Palíková,obyvateľ v Amerike	0	759,931,1449
+315	Imre Michal	ž.Elena r.Palíková,obyvateľ v Amerike; ž.Elena r.Palíková,obyvateľ v Amerike	0	1010
+315	IMRE Pavel	ž.Elena r.Marková	0	1493,1678
+315	Imreová Mária r. Šlichtová	Kanada	0	759,931,1449,1493,1678
+315	Imreová Pavlína	dcéra Ondreja v Amerike	0	759,931,1449,1493,1678,1830
+315	Imreová Pavlína	dcéra Ondreja v Amerike; dcéra Ondreja v Amerike	0	167,783,784,785,787,788,789,790
+315	Jakuba Pavel	ž.Anna r.Gombalová	0	808
+315	JEDNOTA ĽUDOVÉ DRUŽSTVO	v Lučenci	0	1512

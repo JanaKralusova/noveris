@@ -1,0 +1,256 @@
+815	CACHAJ Ignác	vl.č.129	1	305
+815	CACHAJ Ján	Michal, Mária, Ignác	1	305
+815	CACHAJ Michal	Ján, Mária, Ignác	1	305
+815	CACHAJOVÁ Mária	Michal, Ján, Ignác	1	305
+815	CACHAR Štefan	žena Verona r. Melišková	1	305
+815	CUDÝ Jakub	žena Júlia r. Chocinová	1	433
+815	DOKTOROVÁ Mária r. Laginová		1	432
+815	ĎUŠENKOVÁ Mária r. Margolienová		1	430
+815	FAIKOVÁ Anna r. Poštrková		1	312
+815	FILO Ján	žena Jozefína r. Varhaníková	1	353
+815	FILO Ján	žena Magdaléna r. Michaleková	1	376
+815	FILO Jozef	Mária, Juliana	1	358,377,386
+815	FILO Jozef	slabomyselný	1	358,377,386
+815	FILO Jozef	Štefan, Anton, Augustín	1	358,377
+815	FILO Michal	Štefan	1	386
+815	FILO Štefan	Michal	1	386
+815	FILOVÁ Alžbeta r. Pražencová		1	105
+815	FILOVÁ Anna r. Michaleková		1	343
+815	FILOVÁ Magdaléna r. Michaleková		1	376
+815	GAJDOŠ Štefan	Michal, vl.č.26	1	252,477
+815	GAJDOŠOVÁ Anna	Mária, Alžbeta, Júlia, v Amerike Mária, Alžbeta, Júlia, v Amerike	1	252,309,477
+815	GÁLIK Justín	vl.č.202	1	79,132,161,188,189,190,191,192,193,194,195,196,233,260,372,384,396,486,515,516,517,518,545,556
+815	GÁLIKOVÁ Katarína	Justín, Margita	1	79,132,161,188,189,190,191,192,193,194,195,196,233,260,372,384,396,486,515,516,517,518,545,556
+815	GOLDNEROVÁ Mária r. Stahlová		1	105
+815	GRUTLER Michal	vl.č.124	1	311
+815	GURTLER Ignác	po Júlii,vl.č.124	1	311
+815	HALUZOVÁ Júlia r. Laginová		1	432
+815	HANÁKOVÁ Anna r. Margolienová		1	430
+815	HLOBEŇOVÁ Matilda r. Blašková		1	133,184
+815	HODÁLOVÁ Anna r. Modoriová		1	405
+815	HODÁLOVÁ Anna r. Modoriová	LSR	0	122
+815	HORÁKOVÁ Anna r. Margolienová		1	430
+815	Hospodársky a úverová ústav, Bánovce nad Bebravou, SR		1	194
+815	Hospodársky a úverový podnik, Bánovce nad Bebravou, SR		1	190
+815	Hospodársky a úverový ústav	Bánovce nad Bebravou	1	79,192,515,516,517,545
+815	Hospodársky a úverový ústav, 957 01, Bánovce nad Bebravou, SR		1	132
+815	Hospodársky a úverový ústav, Bánovce nad Bebravou, SR		1	188,189,191,193,195,196,233,260,372,396,486,518,556
+815	Husárová Mária r. Záhumenská, SR		1	432
+815	Chlivény Michael, SR	žena Anna r. Dvorecká	1	261
+815	Chocina Michal, SR	Pavol, Júlia, Štefan, vl.č.69	1	433
+815	Chocina Pavol, SR	ml. vl.č.69 B22	1	433
+815	Chocinová Hermína r. Laginová		1	432
+815	Chocinová Hermína r. Laginová, SR		1	412,414
+815	Chocinová Júlia, SR	Pavol, Michal, Štefan, vl.č.69	1	433
+815	Chocinová Júlia, SR	vl.č.69 B18	1	433
+815	Chudá Júlia r. Chocinová, SR		1	433
+815	IGAZ Ferdinand	vl.č.59	1	405
+815	IGAZ Ferdinand	vl.č.59; LSR	0	122
+815	IGAZ Ferdinand	žena Mária r. Sokoliková	1	405
+815	IGAZ Ferdinand	žena Mária r. Sokoliková; LSR	0	122
+815	IGAZ František	vl.č.59	1	405
+815	IGAZ František	vl.č.59; LSR	0	122
+815	IGAZ Imrich	vl.č.59	1	405
+815	IGAZ Imrich	vl.č.59; LSR	0	122
+815	IGAZ Ján	vl.č.59	1	405
+815	IGAZ Ján	vl.č.59; LSR	0	122
+815	IGAZ Jozef	Štefan	1	405
+815	IGAZ Jozef	Štefan; LSR	0	122
+815	IGAZ Jozef	vl.č.59 B36	1	405
+815	IGAZ Ondrej	vl.č.59	1	405
+815	IGAZ Ondrej	vl.č.59; LSR	0	122
+815	IGAZ Rudolf	vl.č.59; LSR	0	122
+815	IGAZ Rudolf	žena Gizela r. Igazová; LSR	0	122
+815	IGAZ Serafín	vl.č.59	1	405
+815	IGAZ Serafín	vl.č.59; LSR	0	122
+815	IGAZOVÁ Alojzia	vl.č.59	1	405
+815	IGAZOVÁ Alojzia	vl.č.59; LSR	0	122
+815	IGAZOVÁ Anna	Filoména, Antónia, Anton, Baláž	1	405
+815	IGAZOVÁ Anna	Filoména, Antónia, Anton, Baláž; LSR	0	122
+815	IGAZOVÁ Irena	Dionýz, Helena	1	405
+815	IGAZOVÁ Irena	Dionýz, Helena; LSR	0	122
+815	IGAZOVÁ Jozefína	vl.č.59	1	405
+815	IGAZOVÁ Jozefína	vl.č.59; LSR	0	122
+815	IGAZOVÁ Mária	vl.č.59	1	405
+815	IGAZOVÁ Mária	vl.č.59; LSR	0	122
+815	JAKUBÍKOVÁ Emília r. Novotová		1	164,165,166,168,250,251,261,262,263,264,270,274,303,307,521,522,531,532,537,538,539,540,541,542,543,544,578
+815	JAKUBÍKOVÁ Emília r. Novotová	LSR	0	408
+815	JANÍK Ignác	žena Cecília r. Gáliková	1	178,316
+815	JANÍKOVÁ Cecília r. Gáliková		1	79,161,193,316,384,518,545
+815	KIRÁLYI Kincstáv	vl.č.62; LSR	0	122
+815	KLEINER Peter	vl.č.79	1	414
+815	KOCÚROVÁ Magdaléna r. Igazová		1	405
+815	KOCÚROVÁ Magdaléna r. Igazová	LSR	0	122
+815	KONEČNÍK Štefan	po Jereš František	1	440
+815	KOPAČKA Jakub	žena Mária r. Majáková	1	161,210,384
+815	KOPAČKOVÁ Mária r. Majáková		1	161,210,384
+815	KOPECKÁ Julianna	Ján, Ján vojak, Julianna, vl.č. 31	1	261
+815	KOPECKÁ Mária	Ján, Ján vojak, Julianna, vl.č. 31	1	261
+815	KOPECKY Ján	Mária, Ján vojak, Julianna, vl.č. 31	1	261
+815	KOPECKY Ján	vojak, Ján, Mária, Julianna, vl.č. 31	1	261
+815	KOPECKÝ Ján	vl.č. 29	1	268
+815	KOŠŤÁL Ján	žena Mária r. Feketová	1	271
+815	KOŠŤÁL Jozef	po Márii r. Fekete	1	271
+815	KOŠŤÁL Rastislav	po Márii r. Fekete	1	271
+815	KOŠŤÁLOVÁ	Ján, Paulína	1	190
+815	KOŠŤÁLOVÁ Alžbeta r. Hrenáková		1	161,210,384
+815	KOŠŤÁLOVÁ Anna	Ján, Paulína	1	79,132,161,188,189,191,192,193,194,195,196,210,216,233,260,372,384,396,486,515,516,517,518,545,556
+815	KOŠŤÁLOVÁ Anna	po Márii r. Fekete	1	271
+815	KOVÁČ Pavol	žena Anna r. Poštrková	1	305
+815	KOVÁČ Štefan		1	440
+815	KOVÁČECH Ján	po Jozefovi	1	325
+815	KOVÁČECH Jozef	ml. po Jozefovi	1	325
+815	KOVÁČECH Rudolf	po Jozefovi	1	325
+815	KOVÁČECHOVÁ Paulína	po Jozefovi	1	325
+815	KOVÁČECHOVÁ Valéria	po Jozefovi	1	325
+815	KOVAČIKOVÁ Mária r. Igazová		1	405
+815	KOVAČIKOVÁ Mária r. Igazová	LSR	0	122
+815	KOVÁČOVÁ Anna r. Poštrková		1	305
+815	KOZINKOVÁ Agáta r. Bátorová		1	405
+815	KOZINKOVÁ Agáta r. Bátorová	LSR	0	122
+815	KOZINKOVÁ Mária r. Bátorová		1	405
+815	KOZINKOVÁ Mária r. Bátorová	LSR	0	122
+815	KUBIŠ Pavol	po František Jereš	1	440
+815	KUČA Ján	odsúd.,zomr	1	228
+815	KUČA Ján	žena Agneša r. Tatarová	1	161,210,384
+815	KUČÁKOVÁ Emília r. Gáliková		1	79,132,161,188,189,190,191,192,193,194,195,196,233,257,260,372,384,396,486,515,516,517,518,545,556
+815	KUČERKOVÁ Františka	vl.č.80/a	1	102
+815	KUČOVÁ Agneša r. Tatarová		1	210
+815	KUCHARČÍK Jakub	po Jozefovi a Kataríne r. Masarykovej	1	188,210,219,260,384
+815	KUCHARČÍK Štefan	po Jozefovi a Kataríne r. Masarykovej	1	161,193,210,230,384,400,518
+815	KUCHARČÍK Štefan	žena Jozefína r. Komanová	1	155,218,371,496
+815	KUCHARČÍKOVÁ Jozefína r. Komanová		1	132,155,161,188,189,190,192,193,195,196,210,218,230,233,260,371,372,384,396,400,486,496,515,516,517,518,556
+815	KUCHARČÍKOVÁ Rozália	po Jozefovi a Kataríne r. Masarykovej	1	79,132,161,188,189,190,191,192,193,195,196,210,233,255,260,372,384,396,400,486,515,516,517,518,545,556
+815	LAGIN Michal	po Jurajovi	1	412,414,432
+815	LAGINOVÁ Anna	po Františkovi	1	432
+815	LAGINOVÁ Edita	po Františkovi	1	432
+815	LAGINOVÁ Otília	po Františkovi	1	432
+815	LASTOVICA Ján	vl. 329 2133/1942 vl. 329 2133/1942	1	332
+815	LASTOVICA Ján	žena Jozefína r. Šulová	1	79,132,161,188,189,190,191,192,193,194,195,196,233,260,372,384,388,396,486,515,516,517,518,545,556
+815	Lastovica Jozef		0	212
+815	LASTOVICOVÁ Anna r. Masláková		1	161,210,384
+815	MACKO Štefan	po František Jereš	1	440
+815	MADAY Vojtech	vl.č.124	1	311
+815	MAJÁK Imrich	žena Justína r. Moskálová	1	161
+815	MAJÁK Vincent	vl.č.205	1	37,132,161,193,210,227,234,260,384,518
+815	MAJÁKOVÁ Justína r. Moskálová		1	161
+815	MARGOLIAN Ján	vl.č. 65	1	430
+815	MARGOLIAN Štefan	vl.č.65	1	430
+815	MARGOLIEN Adalbetr	Michal, Jozef	1	402
+815	MARGOLIEN Jozef	Adalbert, Michal	1	402
+815	MARGOLIEN Michal	Adalbert, Jozef	1	402
+815	MARGOLIEN Peter	vl.č.65	1	430
+815	MARGOLIENOVÁ Angela	Mária, Paula, Jozef, Magdaléna	1	430
+815	MARGOLIENOVÁ Júlia	vl.č.65	1	430
+815	MARGOLIENOVÁ Mária	Paula, Angela, Jozef, Magdaléna	1	430
+815	MARGOLIENOVÁ Paulína	Mária, Angela, Jozef, Magdaléna	1	430
+815	MASARYKOVÁ Anna	Ján, Mária	1	358,377
+815	MASARYKOVÁ Mária	Anna, Ján	1	358,377
+815	MECKOVÁ Jozefína r. Adamcová		1	320
+815	MELIŠKO Lukáš	žena Mária r. vl.č.129B 2	1	305
+815	MELIŠKOVÁ Mária	r. vl.129B 2	1	305
+815	MIHALÍK Jozef	vl.č.285	1	161
+815	MICHAL Jozef	Ján, anton	1	340
+815	MICHAL Ľudovít	po Antonovi	1	340
+815	MICHALEK Anton	Juraj, Ján	1	387
+815	MICHALEK Ján	Juraj	1	387
+815	MICHALEK Jozef	Aladár, Anna, Viktor, po Petrovi	1	348
+815	MICHALEK Jozef	Ján, vl. 220 čd 1330/1928 Ján, vl. 220 čd 1330/1928	1	343
+815	MICHALEK Jozef	Paulína, Štefan , po Štefanovi	1	387
+815	MICHALEK Jozef	po Michalovi	1	387
+815	MICHALEK Jozef	žena Františka r. Kučerková	1	102
+815	MICHALEK Juraj	Ján	1	387
+815	MICHALEK Peter	žena Paulína r. Bajzíková	1	161,345
+815	MICHALEK Štefan	Paulína, Jozef	1	387
+815	MICHALEK Štefan	vl. č. 57	1	387
+815	MICHÁLEKOVÁ Anna r. Filová		1	358,377
+815	MICHALEKOVÁ Júlia r. Margolienová		1	430
+815	MICHALEKOVÁ Júlia r. Škerdová		1	355
+815	MICHALEKOVÁ Magdaléna r. Klemanová		1	387
+815	MICHALEKOVÁ Paulína	po Michalovi	1	387
+815	MICHALEKOVÁ Paulína	Štefan, Jozef	1	387
+815	MICHALEKOVÁ Paulína r. Bajzíková		1	161,345
+815	MITICKÁ Janka r. Margolienová		1	430
+815	MODORI Anton	vl.č.59	1	405
+815	MODORI Anton	vl.č.59; LSR	0	122
+815	MODORI Rudolf	vl.č.59	1	405
+815	MODORI Rudolf	vl.č.59; LSR	0	122
+815	MODORIOVÁ Júlia	vl.č.59	1	405
+815	MODORIOVÁ Júlia	vl.č.59; LSR	0	122
+815	MORVAY Hugo	vl.č.80/a	1	102
+815	MORVAYOVÁ Anna r. Schumannová		1	401
+815	MRAVCOVÁ Anna	po Anne r. Gulčíkovej	1	185
+815	MRAVCOVÁ Eva	dos. čd619/46	1	334
+815	MRAVCOVÁ Františka r. Gašperáková		1	161,195,210,384
+815	MRAVEC Ján	žena Mária r. Zbončáková	1	317
+815	MRAVEC Šimon	dos. čd927/1950	1	291
+815	MRAVEC Šimun	žena Františka r. Gašperáková	1	161,210,384
+815	MROCEK František	žena Mária r. Balátová	1	161,193,210,384,518
+815	MUCHA Ján	vl.č. 48	1	358,377,386
+815	MUCHA Ján	žena Júlia r. Filová	1	378,381,382
+815	MUCHOVÁ Juliana r. Filová		1	358,377,381,382,386
+815	NEUMANNOVÁ Rozália r. Stahlová		1	105
+815	NOVOTA Jozef	Anna,Mária,Alžbeta,Emília,Karol; LSR	0	122
+815	NOVOTA Jozef	Štefan, Emília	1	135,136,137,138,141,143,166,168,286,328,329,367,368,380,521,522
+815	NOVOTA Jozef	Štefan, Emília; LSR	0	408,436
+815	NOVOTA Jozef	žena Helena r. Klemanová	1	411
+815	NOVOTA Karol	Anna,Mária,Alžbeta,Emília, Jozef; LSR	0	408
+815	NOVOTA Ondrej	žena Alžbeta r. Horvátová; LSR	0	122
+815	NOVOTA Štefan	Jozef, Emília	1	135,136,137,138,141,143,164,165,166,168,249,261,264,286,307,327,328,329,367,368,380,521,522,537,538,539,543
+815	NOVOTA Štefan	Jozef, Emília; LSR	0	122,408,436
+815	NOVOTA Štefan	ml. vl. 286 655/1937 ml. vl. 286 655/1937	1	249
+815	NOVOTA Štefan	vl.č.18 B3	1	166,168,303,521,522
+815	NOVOTA Štefan	vl.č.18 B3; LSR	0	122,408,436
+815	NOVOTA Štefan	žena Mária r. Verényiová	1	250,270,315,544
+815	NOVOTKOVÁ Emília r. Petríková		1	381
+815	NOVOTOVÁ Bernardína r. Mutňanská	LSR	0	408
+815	NOVOTOVÁ Emília	Štefan, Jozef	1	135,136,137,138,141,143,164,250,264,270,286,327,328,329,367,368,380,543,544
+815	NOVOTOVÁ Emília	Štefan, Jozef; LSR	0	122,408
+815	NOVOTOVÁ Mária r. Varényiová		1	137,315
+815	NOZDROVICKÝ Gašpar	žena Johanna r. Ujfalušy	1	363
+815	OLAH Jozef	vl.č. 59	1	405
+815	OLAH Jozef	vl.č. 59; LSR	0	122
+815	OLÁHOVÁ Anna r. Igazová		1	405
+815	OLÁHOVÁ Anna r. Igazová	LSR	0	122
+815	OŠKROBANÁ Anna	po Ondrejovi a Kataríne r. Kuftíková	1	79,132,161,188,189,190,191,192,193,194,195,196,210,220,233,245,254,260,372,384,396,486,515,516,517,518,545,556
+815	OŠKROBANÁ Katarína r. Kuftíková		1	161,210,384
+815	OŠKROBANÁ Klára	po Ondrejovi a Kataríne r. Kuftíková	1	79,132,161,188,189,190,191,192,193,194,195,196,210,220,233,245,254,260,372,384,396,486,515,516,517,518,545,556
+815	OŠKROBANÁ Kristína	po Ondrejovi a Kataríne r. Kuftíková	1	79,132,161,188,189,190,191,192,193,194,195,196,210,220,233,245,254,260,372,384,396,486,515,516,517,518,545,556
+815	OŠKROBANÝ Ján	po Ondrejovi a Kataríne r. Kuftíková	1	79,132,161,188,189,190,191,192,193,194,195,196,210,220,233,245,254,260,372,384,396,486,515,516,517,518,545,556
+815	OŠKROBANÝ Jozef	po Ondrejovi a Kataríne r. Kuftíková	1	79,132,161,188,189,190,191,192,193,194,195,196,210,220,233,245,254,260,372,384,396,486,515,516,517,518,545,556
+815	OŠKROBANÝ Jozef	vl.č.212 B3a	1	132,189,190,192,193,194,195,196,220,233,245,372,396,486,515,516,517,518,556
+815	OŠKROBANÝ Martin	po Ondrejovi a Kataríne r. Kuftíková	1	79,132,161,188,189,190,191,192,193,194,195,196,210,220,233,245,254,260,372,384,396,486,515,516,517,518,545,556
+815	PALÁRIK Tomáš	žena Žofia r. Ochradková	1	161,210,384
+815	PALÁRIKOVÁ Žofia r. Ochradková		1	161,210,384
+815	PETRÍK Ján	vdovec, vl.č.351	1	381
+815	PETRÍK Jozef	Štefn, Peter	1	381
+815	PETRÍK Peter	Jozef, Štefan	1	381
+815	PETRÍK Štefan	Jozef, Peter	1	381
+815	PETRÍKOVÁ Magdaléna r. Saturová		1	382
+815	POLENDE František	vl.č.62; LSR	0	122
+815	POŠTRK Ján	Paulína, Eleonóra, Mária	1	312
+815	POŠTRK Ján	žena Katarína r. Pavlenová	1	425
+815	POŠTRKOVÁ Elena r. Gurtlerová		1	311
+815	POŠTRKOVÁ Eleonóra	Mária, Paulína, Ján	1	312
+815	POŠTRKOVÁ Katarína r. Pavlenová		1	425
+815	POŠTRKOVÁ Paulína	Mária, Ján, Eleonóra, vyd. Zajková	1	312
+815	PRAŽENCOVÁ Alžbeta	vl.č.81	1	118,147,279
+815	PRAŽENCOVÁ Alžbeta	vl.č.81; LSR	0	122
+815	PRAŽENCOVÁ Cecília	po Augustínovi	1	118
+815	PRAŽENCOVÁ Mária	vl.č.81 B11; LSR	0	122
+815	PRAŽENCOVÁ Mária r. Ďurčová		1	103,104
+815	PRAŽENCOVÁ Mária r. Perecová		1	118,147,279
+815	PRAŽENCOVÁ Žofia	vl.č. 81	1	118,147,279
+815	PRAŽENCOVÁ Žofia	vl.č. 81; LSR	0	122
+815	PRAŽENEC Gustáv	vl.č.81	1	147,151
+815	PRAŽENEC Gustáv	vl.č.81; LSR	0	122
+815	PRAŽENEC Jozef	vl.č.121	1	279
+815	PRAŽENEC Jozef	žena Mária r. Perecová	1	279
+815	PRAŽENEC Karol	po Augustínovi	1	181,566
+815	PRAŽENEC Karol	vl.č.94	1	398
+815	PRAŽENEC Karol	žena Bernardína r. Mravcová	1	425
+815	PRAŽENEC Štefan	vl.č.81	1	118,147
+815	RÉDEKY Anton	Mária, Ján, alžbeta, Anna; LSR	0	122
+815	RÉDEKY Emil	po Ľudovítovi	1	331
+815	RÉDEKY Ján	Anna, Mária, Anton, Alžbeta; LSR	0	122
+815	RÉDEKY Ján	vl.č.93	1	201

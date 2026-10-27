@@ -1,0 +1,256 @@
+30	GAZDA Štefan r. Gazda	maloletý v r.1950	0	350
+30	GAZDOVÁ Mária r. Gazdová	maloletá v r.1950	0	350
+30	GDOVIN Juraj r. Gdovin	manž.Alžbeta r.Nosáľová	0	358
+30	Glücková Erna r. Friedmannová		0	411
+30	GÓNA Juraj r. Góna	manž.Anna r.Godušová	0	367,380,386
+30	GONOVÁ Anna r. Godušová	manž.Juraj	0	386
+30	Hajduk Andrej		0	209
+30	HALÁSOVÁ Anna r. Mitaľová	maloletá v r.1936; maloletá v r.1936	0	407
+30	Handza Ondrej	maloletý /syn Ondrejov/	1	211,284
+30	Handzová Alžbeta	maloletá /dcéra Ondrejova/	1	211,284
+30	Hlavatá Anna	dcéra Jánova, malolet	0	88
+30	HLAVATÁ Anna	dcéra Jánova,maloletá v r.1936	0	393
+30	Hlavatá Anna r. Forgáčová		0	88
+30	HLAVATÁ Anna r. Forgáčová	Boliarov	0	398
+30	Hlavatý Ján	ž. Alžbeta r. Štofanová	0	88
+30	HLAVATÝ Ján r. Hlavatý	manž.Alžbeta Štefanová	0	399
+30	HLAVATÝ Juraj r. Hlavatý	Knoblau	0	407
+30	Hlavatý Ondrej	ž. Anna r. Ileninová	0	88
+30	HLAVATÝ Ondrej r. Hlavatý	manž.Anna Ileninová	0	393
+30	Hreha Ondrej	manž.Alžbeta rod. Bodonská	1	211
+30	Hreha Ondrej	manž.Alžbeta rod.Bodonská	1	284
+30	Hrehor František, SR		0	88
+30	Hrehor Ján	ž. Alžbeta r. Petrilová	0	88
+30	HREHOROVÁ Alžbeta r. Mitaľ	maloletá v r.1936; maloletá v r.1936	0	407
+30	Ileninová Alžbeta r. Kačmariková		1	88,401
+30	Jednota, ľudové spotrebné družstvo v Košiciach		0	357
+30	Jednotné roľnícke družstvo v Bačkovíku		0	389,443
+30	Krištof Ján		0	88
+30	KRIŠTOF Ján r. Krištof	manž.Anna r.Petriková,Boliarov	0	405
+30	Krištofová Anna r. Hlavatá		0	88,215
+30	Krištofová Anna r. Petriková		1	211,284
+30	Kušnierik Ondrej		1	211
+30	MAČANGA Imrich r. Mačanga	manž.Alžbeta r.Lacková	0	353
+30	MAČANGOVÁ Alžbeta r. Lacková	manž.Imrich	0	353
+30	Matej Imrich		1	211,284,344
+30	Matej Imrich	manž. Mária rod.Petrová	1	284
+30	Matej Imrich	manž.Mária rod.Petrová	1	211
+30	Matej Imrich	ž. Mária Petrová	0	344
+30	Matej Ondrej	manž. Anna rod.Stašiková	1	284
+30	Matej Ondrej	manž.Anna rod.Stašiková	1	211
+30	Matej Ondrej	manž.Mária rod.Vargová	1	211,284
+30	Matej Ondrej	ž. Mária Vargová	0	344
+30	MATEJ Ondrej r. Matej	nezletilý v r.1936	0	388
+30	Matejová Mária r. Vargová		0	264
+30	Mikloš Andrej		1	127,211,284
+30	MIKLOŠ Andrej r. Mikloš		0	384
+30	MIKLÓŠ Ján r. Miklóš	manž.Anna r.Nosáľová; manž.Anna r.Nosáľová	0	365
+30	Mikloš Štefan		1	443
+30	MIKLÓŠOVÁ Anna r. Bulnová	manž.Juraj	0	384
+30	MIKLÓŠOVÁ Anna r. Nosáľová	manž.Ján	0	349
+30	MIKLÓŠOVÁ Anna r. Nosáľová	manž.Ján; manž.Ján	0	365
+30	Miklošová Helena	mal	0	326
+30	Miľo Alžbeta r. Nosáľ		0	281
+30	Miľová Alžbeta r. Nosaľová		1	211,284,382
+30	MITAĽ Ján r. Mitaľ	maloletý v r.1936,1949; maloletý v r.1936,1949	0	407
+30	MITAĽOVÁ Elena r. Mitaľová	maloletá v r.1936,1949,Helena; maloletá v r.1936,1949,Helena	0	407
+30	Nosaľ Ján	/syn Michalov/	0	281
+30	Nosáľ Ján	syn Michalov	1	211,284
+30	NOSAĽ Ján r. Nosaľ	syn Michalov	0	382
+30	NOSÁĽ Ján r. Nosáľ	PKV 3	0	350
+30	Nosaľ Ondrej		0	120
+30	NOSÁĽ Ondrej r. Nosáľ	manž.Alžbeta r.Gibová	0	375
+30	NOSÁĽOVÁ Anna r. Danielová	manž.Imrich	0	350
+30	Orosová Helena r. Hrehorová		0	88
+30	Petrila Ján		0	88
+30	PETRILA Ján r. Petrila	manž.Alžbeta r.Hrehorová,Boliarov	0	404
+30	Petrila Ondrej		1	284
+30	Petrila Ondrej	manž. Anna rod.Nosaľová	1	211
+30	PETRILA Ondrej r. Petrila	manž.Anna r.Nosáľová	0	362,382
+30	Petrilová Alžbeta r. Hrehorová		0	88
+30	PETRILOVÁ Alžbeta r. Hrehorová	manž.Ján,Boliarov	0	404
+30	Petrilová Anna r. Nosaľová		1	211,281,284
+30	PETRILOVÁ Anna r. Nosáľová	manž.Ondrej	0	362,382
+30	PETROVÁ Panna r. Furmanová	manž.Štefan	0	379
+30	Ruščák Ján	syn Jánov	0	88
+30	RUŠČÁK Ján r. Ruščák	syn Jánov	0	395
+30	Ruščák Juraj	ž. Alžbeta r. Vojtková	0	88
+30	RUŠČÁK Juraj r. Ruščák	manž.Alžbeta Vojtková	0	396
+30	SABOVÁ Alžbeta r. Stašiková		0	351
+30	ŠMOCER Ján r. Šmocer	manž.Dorota r.Birošiová	0	377
+30	ŠMOCER Jozef r. Šmocer	manž.Alžbeta r.Kovaľová	0	377,381
+30	Tamáš Jozef		0	174
+30	Tamášová Anna r. Bugoš		0	174
+30	Tomáš Jozef		0	241,441,448,451,457
+30	Tomášová Anna r. Bugošová		0	241,441,448,451,457
+30	Zuskáč Ondrej	ž. Mária r. Ferková	0	88
+30	Zuskáč Ondrej	ž. Mária r. Hricová	0	88
+30	ZUSKÁČ Ondrej r. Zuskáč	manž.Mária r.Ferková	0	403
+30	ZUSKÁČ Ondrej r. Zuskáč	manž.Mária r.Hricová	0	391
+30	Zuskár Imrich		1	211
+30	ZUSKÁR Imrich r. Zuskár		0	376
+30	Zuskár Ján	/syn Jurajov/	0	270
+30	ZUSKÁR Ján r. Zuskár	syn Jurajov	0	376
+30	ZUSKÁR Juraj r. Zuskár	manž.Barbora r.Hulveiová,zomr.1951	0	376
+30	ZUSKÁR Ondrej r. Zuskár	nezletilý v r.1936	0	352
+30	Zuzkár Imrich		1	211,284
+31	ANTAL Ján, SR	ž.Zuzana	0	113
+31	BÁTORIOVÁ Irma, SR		0	93,147
+31	Bauerová Elena r. Beerová		0	98
+31	BELÁNIOVÁ Mária r. Melišková, SR	m.Jozef	0	155
+31	Brachna Ondrej, SR	ž. Katarína, nebohý	0	114
+31	EFFENBERGER František, SR		0	127
+31	EFFENBERGEROVÁ Eleonóra, SR		0	127
+31	HUBERTOVÁ Anna r. Melišková, SR	m.Karol	0	155
+31	CHRIEN Ján	Gizela r. Demianová	0	145
+31	CHRIEN Ján r. Chrien	Gizela r. Demianová	0	128
+31	CHRIEN Ján r. Chrien	ž. Gizela r.Chrienová	0	93
+31	CHRIEN Ján r. Chrien	ž.Gizela r.Demianová	0	149
+31	CHRIEN Ján, SR		0	93,146
+31	KISEL Ján r. Kisel	Zuzana r. Kiselová	0	132
+31	KLIMENT Pavel, SR		0	93,124
+31	LIPTÁK Michal, SR	ž.bola Mária	0	132
+31	MELIŠKA Ján, SR	otec Pavel	0	147,156
+31	MELIŠKA Ján, SR	otec Pavel,nebohý	0	93
+31	MELIŠKA Jozef r. Meliška	ž. Emília r. Petríková	0	156
+31	MELIŠKA Jozef r. Meliška	ž.Emília r. Petríková	0	147
+31	MELIŠKA Jozef r. Meliška	ž.Emília r.Petríková	0	93
+31	MELIŠKA Pavel, SR	ž.Pavlína	0	147,156
+31	MELIŠKA Pavel, SR	ž.Pavlína,nebohý	0	93
+31	MELIŠKOVÁ ZUZANA, SR		0	49,93,129
+31	MOJŽIŠ Pavel, SR		0	45
+31	MOZOLOVÁ Mária r. Babjaková, SR		0	173
+31	NIGRINYOVÁ Zuzana r. Marecká, SR	m.Pavel,nebohá	0	94
+31	PELLO Jozef, SR	ž.Helena	0	139,193,194
+31	PINTÉROVÁ Emília r. Vicková, SR		0	148
+31	Siládiová Pavlína r. Vicianová, SR	zom. 20.11.1990	0	162,192
+31	TÓTH Anton r. Tóth	ž. Mária r. Morovičová	0	160
+31	TÓTHOVÁ Mária r. Morovičová, SR	m.Anton	0	160
+31	VALUŠKA Ján, SR		0	125
+31	VALUŠKA Michal, SR		0	125
+31	VALUŠKOVÁ Juliana r. Gajdošová, SR		0	125
+31	VALUŠKOVÁ Juliana r. Chriaštelová, SR		0	125
+31	VICIAN Ján, SR	syn Márii Krajčikovej	0	153,162,188,189,190,191,192
+31	Vician Martin, SR	zom. 29.6.1988	0	162,163,192
+31	VICIAN Peter, SR		0	153,162,163,188,189,190,191,192
+31	Vician Štefan r. Vician	ž. Mária r. Krajčíková	0	153,188,189,190,191
+31	VICIAN Štefan r. Vician	ž.Mária r.Krajčíková	0	162,192
+31	VICIAN Štefan, SR	ž.Mária r.Krajčíková	0	163
+31	VICKOVÁ Zuzana r. Nigrínyiová, SR		0	148
+32	Evanjelická cirkev, Počúvadlo		0	242
+32	Gecovicová Mária r. Račková	Baďan č.4	0	348
+32	Janovic Pavol	ž.Zuzana,r.Pivarčová, Baďan č.20; ž.Zuzana,r.Pivarčová, Baďan č.20	0	374
+32	Janovicová Anna r. Štetinová	Baďan č.37	0	357
+32	Janovicová Anna r. Štetinová	vd., Baďan č.37	0	365
+32	Janovicová Zuzana	r.Pivarčová, Baďan č.20	0	376
+32	Janovicová Zuzana, Beluj, SR		0	18
+32	Kollár Ondrej	Baďan č.23	0	381
+32	Kostorová Zuzana r. Obertová, Baďan, č. 22, SR		0	195
+32	Kučera Pavel, Baďan, č. 1, SR	r.1914	0	8
+32	Kučera Pavol	nar.1914, Baďan č.1	0	344,382
+32	Kučerová Zuzana	r.Kučerová, Baďan č.8	0	384
+32	Martinovic Pavel, Klastava, č. 5, SR		0	47,48,49
+32	Martinovic Pavel, Klastava, č. 58, SR		0	237
+32	Meniar Ján	ž.Anna,r.Mrázová, Baďan č.7	0	294
+32	Meniarová Anna r. Mrázová, 969 75, Baďan, č. 7, SR		0	271
+32	Meniarová Anna r. Mrázová, 969 75, Baďan, č. 7, SR	m.Ján	0	207
+32	Meniarová Anna r. Mrázová, Baďan, č. 7, SR		0	234
+32	Meniarová Anna r. Mrázová, Baďan, č. 7, SR	m.Ján	0	294
+32	Meniarová Anna r. Mrázová, Strieborná 15, Banská Štiavnica, PSČ 969 01, SR		0	18
+32	Meniarová Anna r. Mrázová, Strieborná 15, Banská Štiavnica, SR		0	17
+32	Meniarová Anna, 969 75, Baďan, č. 7, SR	r.Mrázová,,m.Ján; r.Mrázová,,m.Ján	0	204
+32	Meniarová Anna, Baďan, č. 7, SR		0	16
+32	Miškovicová Mária r. Petrovicová	Sitnianska Lehôtka	0	386
+32	Petrík Ján	r.PETRÍK,ž.Estera,r.Kolárová, Baďan	0	376
+32	Petrík Ján r. Petrík	ž.Anna,r.Gecovicová, Baďan č.17	0	305,337
+32	Pivarčová Zuzana r. Valachová	Baďan č.18	0	351
+32	Polcíková Vlasta Gizela r. Ďurianová	Baďan	0	367
+32	Taláňová Zuzana, Baďan, č. 42, SR		0	245
+32	Valachová Mária r. Valachová	Baďan	0	367
+32	Víťazová Zuzana r. Adamčíková	Baďan č.25	0	362,371
+32	Zimanová Anna r. Ondríková Baďan		0	387
+33	ADAMIŠKOVÁ Alžbeta r. Lengyelová		0	1568,1678
+33	ARPAS AUGUSTIN		0	568,1136,1137,1238,1245,1343,1344,1366,1541,1554,1568,1575,1621,1678,1701,1755,1768,1781,1782,1785
+33	ARPAS MICHAL		0	568,1131,1362,1366,1661,1755,1784
+33	ARPASOVA VERONA		0	568,1238,1245,1246,1366,1661,1701,1755,1785
+33	ARPASOVA Verona R.ARPASOVA		0	1239,1362,1365
+33	ARPÁŠ Alex	žen.Apolónia Kováčová	0	1518
+33	ARPÁŠ Andrej		0	1273,1367,1406,1407,1564,1568,1578,1622,1638,1678
+33	ARPÁŠ Andrej	čd.356/1934	0	1403,1520,1643
+33	ARPÁŠ Dionýz		0	1180,1353,1535,1550,1551,1568,1617,1640,1678
+33	ARPÁŠ Dionýz	čd.2888/1906	0	1394,1568,1591,1678,1720
+33	ARPÁŠ Dominik	čd.2881/1946	0	388,1568,1640,1642,1665,1678
+33	ARPÁŠ Dominik	ž.Hermína Gálová	0	233,1099,1103,1109,1137,1149,1155,1196,1216,1217,1331,1344,1404,1419,1426,1443,1447,1462,1475,1483,1510,1518,1536,1542,1563,1568,1590,1678,1705,1709,1710,1767,1768
+33	ARPÁŠ Dominik	ž.Hermína Gálová; ž.Hermína Gálová	0	1428
+33	ARPÁŠ Dominik, SR		0	130
+33	ARPÁŠ František	x	0	1199,1483,1518,1542,1568,1599,1678,1710,1767
+33	ARPÁŠ František	žen.Rozália Kissová	0	1614,1657
+33	ÁRPÁŠ František		0	1195,1196,1198,1272
+33	ARPÁŠ František r. Arpáš		0	1109,1462,1483,1509,1645,1710,1767
+33	ARPÁŠ Gregor	žen.Elena Gálová	0	1568
+33	ÁRPÁŠ Gregor		0	1426
+33	ÁRPÁŠ Gregor	ž.Helena r.Gálová	0	1443,1563
+33	ARPÁŠ Gyözö		0	1195,1196
+33	ARPÁŠ Jakub		0	1197
+33	ARPÁŠ Jakub	žen.Barbora Ricsková	0	1536
+33	ARPÁŠ Ján	mal	0	388,1568,1640,1642,1665,1678
+33	ARPÁŠ Ján	žen.Mária Pavlatiová	0	1547
+33	ARPÁŠ Ján	žen.Rozália Gálová	0	1499,1528,1568,1678
+33	ARPÁŠ Jozef	čd.4410/1938	0	1199,1426
+33	ARPÁŠ Jozef	ž.Agnesa r.Gálová	0	233,1110,1194,1198,1216,1272,1331,1372,1404,1447,1483,1510,1542,1568,1590,1678,1705,1709,1710,1765,1767
+33	ARPÁŠ Jozef	žen.Arpášová Agnesa	0	233,1331,1372,1404,1447,1510,1518,1568,1590,1601,1678,1705,1709
+33	ÁRPÁŠ Jozef		0	1099,1110,1198,1199,1426,1428,1475,1483,1542,1563,1568,1678,1710,1767
+33	ÁRPÁŠ Jozef	Bengyák	0	1300,1568,1678
+33	ÁRPÁŠ Jozef	manž.Agnesa r.Árpášová	0	1103
+33	ARPÁŠ Július		0	233,1195,1196,1198,1272,1331,1404,1447,1510,1590,1705,1709
+33	ARPÁŠ Július	čd.33/1910	0	1568,1678
+33	ARPÁŠ Juraj		0	1542
+33	ARPÁŠ Ladislav		0	1567,1576
+33	ARPÁŠ Matej		0	1406,1407,1622
+33	ARPÁŠ Matej	čd.356/1934	0	233,1272,1331,1403,1404,1447,1483,1510,1519,1520,1542,1568,1590,1643,1678,1705,1709,1710,1767
+33	ARPÁŠ Matej	čd.6741/1912	0	1273,1367,1564,1568,1578,1638,1678
+33	ARPÁŠ Matej	žen.Anna Fulöpová	0	1657
+33	ARPÁŠ Matúš		0	1131,1239,1365,1554,1568,1649,1661,1678,1781,1782,1784
+33	ARPÁŠ Michal	ž.Katarína Fülöpová	0	1134,1327,1568,1678
+33	ARPÁŠ Ondrej		0	233,1272,1331,1404,1447,1483,1510,1519,1542,1568,1590,1678,1705,1709,1710,1767
+33	ARPÁŠ Peter	čd.1637/1943	0	233,1099,1110,1149,1190,1191,1198,1300,1331,1404,1419,1443,1447,1483,1510,1542,1568,1590,1678,1705,1709,1710,1767
+33	ARPÁŠ Peter	čd.55/1940	0	233,1103,1155,1198,1216,1217,1331,1404,1426,1428,1447,1483,1510,1536,1542,1563,1568,1590,1678,1705,1709,1710,1767
+33	ARPÁŠ Peter	ž.Anna r.Kožíková	0	1137,1344,1768
+33	Arpáš Peter r. Arpáš		1	1099,1196,1475
+33	ARPÁŠ Štefan		0	233,1110,1149,1183,1184,1186,1187,1188,1190,1191,1194,1195,1196,1198,1199,1299,1331,1342,1364,1373,1404,1406,1407,1419,1426,1443,1447,1465,1483,1510,1542,1555,1568,1590,1622,1678,1705,1709,1710,1765,1767,1777
+33	ARPÁŠ Štefan	čd.356/1934	0	1272,1403,1483,1568,1643,1678,1710,1767
+33	ARPÁŠ Štefan	čd.6741/1912	0	1273,1367,1564,1568,1578,1638,1678
+33	ARPÁŠ Štefan	žen.Apolónia Kostialová	0	1618
+33	ÁRPÁŠ Štefan r. Árpáš		0	472,1099,1300,1428,1475,1480,1563,1568,1678
+33	ARPÁŠ Vavrinec		0	1272
+33	ARPÁŠ Vendel		0	1518
+33	ARPÁŠ Vendelín		0	1272,1483,1518,1542,1568,1622,1678,1710,1767
+33	ARPÁŠ Vendelín	čd.6741/1912	0	1273,1367,1564,1568,1638,1678
+33	ARPÁŠ Vendelín	žen.Barbora Gálová	0	1557
+33	ARPÁŠ Viktor		0	1199
+33	ARPÁŠ Viktor	čd.33/1910	0	1568,1678
+33	ARPÁŠ Vincent		0	233,1331,1404,1426,1447,1510,1518,1568,1590,1678,1705,1709
+33	ARPÁŠ Vincent	čd.160/1914	0	1273,1367,1518,1568,1678
+33	ÁRPÁŠ Víťazoslav		0	1426
+33	ARPÁŠ Vojtech	1	0	1161,1418,1788
+33	ARPÁŠ Vojtech	žen.Žofia Pirošová	0	233,1099,1103,1110,1137,1149,1155,1194,1195,1196,1197,1198,1199,1216,1217,1331,1344,1372,1404,1419,1426,1428,1443,1447,1475,1483,1510,1518,1536,1542,1563,1568,1590,1602,1678,1705,1709,1710,1765,1767,1768
+33	ARPÁŠ Vojtech	žen.Žofia Pirošová; žen.Žofia Pirošová	0	246
+33	ARPÁŠ Vojtech, SR		0	130
+33	ARPÁŠ Žigmund		0	1343,1541,1568,1575,1678
+33	ARPÁŠOVÁ Agnesa r. Arpášová		0	1518,1601
+33	ARPÁŠOVÁ Agnesa r. Bedeová	vd	0	269,1105,1161,1261,1262,1263,1264,1265,1267,1418,1449,1455,1456,1477,1493,1508,1509,1547,1568,1678,1697,1756,1779,1780,1788,1789,1790
+33	ARPÁŠOVÁ Agneša		0	1568,1678
+33	ARPÁŠOVÁ Alžbeta		0	1160,1492,1568,1587,1678,1699,1700
+33	Arpášová Anna r. Domianová		0	1103,1149,1295,1419,1428,1443,1475,1563
+33	ARPÁŠOVÁ Anna r. Fülöpová		0	1319,1390,1544,1568,1678
+33	Arpášová Anna r. Košíková		0	1231
+33	ARPÁŠOVÁ Apolónia	čd.764/1943	0	1567
+33	ARPÁŠOVÁ Apolónia r. Arpášová		0	1568,1678
+33	ARPÁŠOVÁ Apolónia r. Kováčová		0	1517
+33	ARPÁŠOVÁ Barbora r. Csaszárová		0	388,1180,1353,1535,1550,1551,1568,1617,1640,1678
+33	ARPÁŠOVÁ Barbora r. Csicsoová		0	1609,1706
+33	ARPÁŠOVÁ Barbora r. Gálová		0	388,1179,1180,1267,1285,1434,1448,1478,1550,1551,1568,1678,1748,1771,1772
+33	ARPAŠOVÁ Barbora, SR		0	130
+33	ARPÁŠOVÁ Emília r. Lehocká		0	1568,1678
+33	ARPÁŠOVÁ Etela		0	1567
+33	ARPÁŠOVÁ Helena		0	1513,1514,1568,1603,1678

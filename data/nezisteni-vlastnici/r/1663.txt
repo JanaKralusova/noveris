@@ -1,0 +1,256 @@
+965	SEMSEI Mikuláš		1	4219
+965	SERESOVÁ Katarína	rod.Ácsová,manž.Ondrej; rod.Ácsová,manž.Ondrej	1	4765
+965	SLÁVIKOVÁ Margita	rod.Kucmanová; rod.Kucmanová	1	2453
+965	SLOVENSKY POZEMKOVY FOND, BRATISLAVA, STR.LEVICE		0	3424
+965	SMEJKALOVÁ Anna Mária	rod.Szalayová,manž.Anton; rod.Szalayová,manž.Anton	1	4265
+965	SOBOLEVSKÁ Gabriela		1	4826
+965	SOKOL Jozef	manž.Anna Bachorecová; manž.Anna Bachorecová	1	3516,3517
+965	SOKOL Ľudovít	manž.Margita Kostolányiová; manž.Margita Kostolányiová	1	3224,4462
+965	SOKOLOVÁ Anna		1	3224
+965	SOKOLOVÁ Margita	rod.Kostolányiová,manž.Ľudovít; rod.Kostolányiová,manž.Ľudovít	1	4462
+965	SOLÁROVÁ Mária	rod.Šestáková,manž.Jozef; rod.Šestáková,manž.Jozef	1	4982
+965	SOLÁROVÁ Rozália	rod.Vrábelová,manž.Jozef; rod.Vrábelová,manž.Jozef	1	3257
+965	SOMÍK Imrich	manž.Helena Sviteková,čd.512; manž.Helena Sviteková,čd.512	1	4770
+965	SOMÍK Jozef		1	3425
+965	SOMÍKOVÁ Júlia	rod.Danišová,manž.Jozef; rod.Danišová,manž.Jozef	1	3334
+965	SOMOGYI Ján		1	2672,2673,4877
+965	SOMOGYI Vojtech		1	4133,4326,4799
+965	SOMOGYIOVÁ Alžbeta	rod.Bazsoová,manž.Ondrej; rod.Bazsoová,manž.Ondrej	1	4797
+965	SPORINSKÁ Margita	rod.Poništová; rod.Poništová	1	2764,3051,3699,3801,4616,5508,5668,5796
+965	SPORNÝ Július	manž.Mária Harmathová; manž.Mária Harmathová	1	671,2743
+965	STACHOVÁ Katarína	rod.Škulecová,manž.Štefan; rod.Škulecová,manž.Štefan	1	4163
+965	STANEK František	manž.Anna Siroňová; manž.Anna Siroňová	1	4616,5508,5668,5796
+965	STAVEBNE BYTOV.DRUZSTVO KOLONISTOV NA SLOVENSKU		0	1675
+965	STELLER Július	notár v Imeli; notár v Imeli	1	671,2672,2673,2743
+965	SUNYIOVÁ Mária	rod.Gregorová; rod.Gregorová	1	844,2922,2923,2926,3951
+965	SVITAČOVÁ Anna	rod.Kecskésová,manž.František; rod.Kecskésová,manž.František	1	4425
+965	SVITEK Ján	manž.Anna rod.Bednárová; manž.Anna rod.Bednárová	1	4559
+965	SVITEKOVÁ Anna	rod.Bednárová; rod.Bednárová	1	4559
+965	SVITEKOVÁ Helena	rod.Zahorecová,manž.Juraj; rod.Zahorecová,manž.Juraj	1	4340
+965	SZABO Albert		1	4765
+965	SZABO Jozef		1	4765
+965	SZABO Ľudovít		1	4765
+965	SZABOVÁ Helena	rod.Keszegová,1x vyd.za Štefana Decsi; rod.Keszegová,1x vyd.za Štefana Decsi	1	1132
+965	SZABOVÁ Karolína	rod.Kaszásová,manž.Jozef; rod.Kaszásová,manž.Jozef	1	4191
+965	SZABOVÁ Mária	rod.Žigová; rod.Žigová	1	4382
+965	SZAKÁLOVÁ Alica	rod.Ondrušková; rod.Ondrušková	1	4766
+965	SZALAYOVÁ Anna	rod.Hulková,manž.Štefan; rod.Hulková,manž.Štefan	1	4265
+965	SZANTOVÁ Mária	rod.Kovačicová; rod.Kovačicová	1	671,2743,3147
+965	SZKITOVÁ Karolína	rod.Ácsová,manž.Jozef; rod.Ácsová,manž.Jozef	1	4765
+965	SZRAPKOVÁ Margita	rod.Kovačicová; rod.Kovačicová	1	671,2743,3147
+965	SZÜCSOVÁ Júlia	rod.Böjtöšová; rod.Böjtöšová	1	4878
+965	SZÜCSOVÁ Margita	malol.v r.1935; malol.v r.1935	1	3002,3335,4133,4799
+965	SZUNYOG Ondrej	manž.Eva Jóbová; manž.Eva Jóbová	1	4987
+965	SZUNYOGOVÁ Júlia	rod.Jóbová; rod.Jóbová	1	4922
+965	SZURIOVÁ Ažbeta	rod.Pinkeová; rod.Pinkeová	1	4882
+965	ŠÁRKÖZI Štefan	manž.Helena rod.Amášiová; manž.Helena rod.Amášiová	1	4595
+965	ŠÁRKÓZIOVÁ Helena	rod.Murcinová; rod.Murcinová	1	4237
+965	ŠÁRKÖZIOVÁ Helena	rod.Amášiová; rod.Amášiová	1	4595
+965	ŠÁRKÓZIOVÁ Margita Mária	rod.Plevová; rod.Plevová	1	4237,4516
+965	ŠESTÁK Ján		1	4982
+965	ŠESTÁKOVÁ Mária	rod.Vrábelová; rod.Vrábelová	1	3290
+965	ŠIMONOVÁ Alžbeta	rod.Kisová,manž.Ondrej; rod.Kisová,manž.Ondrej	1	4918
+965	ŠKULEC Ján		1	2823,5670
+965	ŠKULEC Jozef	manž.Margita Hulková; manž.Margita Hulková	1	4163,4508
+965	ŠKULEC Michal	manž.Mária Hulková; manž.Mária Hulková	1	2966,2967,4163,4508
+965	ŠKULEC Štefan		1	4414
+965	ŠKULECOVÁ Anna		1	4163,4405,4508
+965	ŠKULECOVÁ Katarína	rod.Pšenáková,manž.Anton; rod.Pšenáková,manž.Anton	1	3525
+965	ŠKULECOVÁ Margita	rod.Hulková,manž.Jozef; rod.Hulková,manž.Jozef	1	593,3667,4510,5946
+965	ŠKULECOVÁ Mária	rod.Hulková,manž.Michal; rod.Hulková,manž.Michal	1	2966,2967
+965	ŠKULIBA Jozef		1	2772
+965	ŠKULIBOVÁ Alžbeta		1	4518
+965	ŠKULIBOVÁ Anna	rod.Turčeková,manž.Michal,vd.; rod.Turčeková,manž.Michal,vd	1	4478,4479
+965	ŠKULIBOVÁ Margita	malol.v r.1949; malol.v r.1949	1	4518
+965	ŠOMODI Štefan		1	4561
+965	ŠPÁNIK Jozef		1	1199,2612,3391,3392,4049,4730,5119,5120,5328,5808
+965	ŠTEINER Michal		1	4747
+965	ŠTEINEROVÁ Magdalena	rod.Wollnerová; rod.Wollnerová	1	2772
+965	ŠTEVLÍK Alexander	manž.Mária Csengelová; manž.Mária Csengelová	1	3065,5518
+965	ŠTEVLÍK Karol		1	3065,4422,5518
+965	ŠTEVLÍKOVÁ Amália	rod.Slováková,manž.Peter; rod.Slováková,manž.Peter	1	2772
+965	ŠTIFNEROVÁ Helena	rod.Zahorecová,manž.Michal; rod.Zahorecová,manž.Michal	1	866,935,4074
+965	ŠULÁKOVÁ Katarína	rod.Čermaniková; rod.Čermaniková	1	935
+965	ŠULÁKOVÁ Margita	rod.Borsányiová,manž.Michal,čd.54; rod.Borsányiová,manž.Michal,čd.54	1	4197
+965	ŠURÁNYI Karol		1	2865,3166
+965	ŠURÁNYI Vojtech		1	2865,3166
+965	ŠURÁNYIOVÁ Júlia	rod.Plevová; rod.Plevová	1	2796
+965	TANKA Mikuláš		1	1940
+965	TARIČ Ján	manž.Mária Brečková; manž.Mária Brečková	1	4757
+965	TARIČ Jozef		1	4757
+965	TARIČ Štefan		1	4757
+965	TARIČ Vojtech		1	4757
+965	TOPOLCSÁNYIOVÁ Júlia	rod.Matyasová; rod.Matyasová	1	4421
+965	TÓTH Blažej	manž.Zuzana Pinkeová; manž.Zuzana Pinkeová	1	5010
+965	TÓTH František	Imeľ čd.61; Imeľ čd.61	1	4875
+965	TÓTH František	manž.Alžbeta Csehová; manž.Alžbeta Csehová	1	3941
+965	TÓTH Jozef	manž.Mária Kvašnovská; manž.Mária Kvašnovská	1	1199,4049,5119,5120,5328,5808
+965	TÓTH Michal	manž.Helena Tomčanyiová; manž.Helena Tomčanyiová	1	1892,3941
+965	TÓTHOVÁ Alžbeta	rod.Bordáčová,manž.Koloman; rod.Bordáčová,manž.Koloman	1	4825
+965	TÓTHOVÁ Irena		1	1912,2877,4882,5010
+965	TÓTHOVÁ Júlia	rod.Ácsová,manž.Jozef; rod.Ácsová,manž.Jozef	1	4765
+965	TÓTHOVÁ Mária	rod.Kvašnovská,manž.Jozef; rod.Kvašnovská,manž.Jozef	1	4546
+965	TRIVALSKÝ Dominik	Tužinčin; Tužinčin	1	2612
+965	TRSTINSKÁ Zuzana	rod.Opatovská; rod.Opatovská	1	5025
+965	TURČEK Imrich	manž.Anna Gyurcsovicsová; manž.Anna Gyurcsovicsová	1	4427,4492
+965	TURČEKOVÁ Anna	rod.Gyurcsovicsová,manž.Imrich; rod.Gyurcsovicsová,manž.Imrich	1	4427
+965	VAGO Štefan		1	4765
+965	VAGOVÁ Helena		1	4765
+965	VAGOVÁ Júlia		1	4765
+965	VAGOVÁ Piroška		1	4765
+965	VACH Koloman	manž.Petronela Ballayová; manž.Petronela Ballayová	1	2772,4716
+965	VACH Koloman	ml.,manž.Alžbeta Ďurčovičová; ml.,manž.Alžbeta Ďurčovičová	1	2772
+965	VACHOVÁ Barbora		1	340
+965	VACHOVÁ Margita	rod.Danišová,manž.Imrich,vd.; rod.Danišová,manž.Imrich,vd	1	2967
+965	VACHOVÁ Petronella	rod.Ballaiová,manž.Koloman; rod.Ballaiová,manž.Koloman	1	2854
+965	VALAKOVIČ Michal	manž.Mária Kovácsová; manž.Mária Kovácsová	1	3514,3516,3517
+965	VALJAŠKOVÁ Mária	rod.Kováčová; rod.Kováčová	1	2830,5250,5251,5267
+965	VARGA Imrich	manž.Rozália Ondrušeková; manž.Rozália Ondrušeková	1	4356,4527
+965	VARGA Ján		1	4527
+965	VARGA Jozef	manž.Júlia Ondrušeková; manž.Júlia Ondrušeková	1	4259
+965	VARGA Štefan	manž.Júlia Rezová; manž.Júlia Rezová	1	4527
+965	VARGA Štefan	manž.Mária Vaneková; manž.Mária Vaneková	1	4332,4444
+965	VARGOVÁ Alžbeta		1	4458
+965	VARGOVÁ Helena	rod.Belokostolská; rod.Belokostolská	1	3439,3440
+965	VARGOVÁ Júlia	rod.Mažárová; rod.Mažárová	1	4312,4313
+965	VARGOVÁ Júlia	rod.Ondrušeková,manž.Jozef; rod.Ondrušeková,manž.Jozef	1	2952,4259,5766,5919
+965	VARGOVÁ Mária	rod.Zahorecová,manž.Jozef; rod.Zahorecová,manž.Jozef	1	4527
+965	VICZENA Jozef		1	4947
+965	VICZENOVÁ Helena	rod.Kovácsová,manž.Jozef; rod.Kovácsová,manž.Jozef	1	3079
+965	VIČÍKOVÁ Matilda	rod.Furuglašová; rod.Furuglašová	1	3525
+965	VIGOVÁ Alžbeta		1	4322
+965	VIGOVÁ Anna		1	4322
+965	VRÁBEL Gašpar	manž.Rozália Bystrická; manž.Rozália Bystrická	1	2672,2673
+965	VRÁBEL Jozef		1	844,866,935,2922,2923,2926
+965	VRÁBEL Jozef	manž.Júlia Matyusová; manž.Júlia Matyusová	1	3440
+965	VRÁBEL Jozef	manž.Mária Blahová; manž.Mária Blahová	1	2672,2673,3096
+965	VRÁBEL Karol		1	5020
+965	VRÁBEL Koloman	asi totož.s IDC 2821; asi totož.s IDC 2821	1	4880
+965	VRÁBEL Koloman	manž.Helena Vrábelová; manž.Helena Vrábelová	1	2672,2673,3096
+965	VRÁBEL Michal	manž.Júlia Németh; manž.Júlia Németh	1	5020
+965	VRÁBEL Štefan	manž.Mária Škrivaneková; manž.Mária Škrivaneková	1	4616,5508,5668,5796
+965	VRÁBEL Vendelín	asi totož.s IDC 2820; asi totož.s IDC 2820	1	4880
+965	VRÁBEL Vendelín	manž.Margita Zacharová; manž.Margita Zacharová	1	2672,2673,3096
+965	VRÁBEL Vojtech	asi totož.s IDC 2405; asi totož.s IDC 2405	1	3002,4133,4799
+965	VRÁBEL Vojtech	manž.Júlia Kovácsová,vd.; manž.Júlia Kovácsová,vd	1	4809
+965	VRÁBELOVÁ Alžbeta	asi správne Vrábel Ábel vid PKV 1319; asi správne Vrábel Ábel vid PKV 1319	1	3002,4133,4799
+965	VRÁBELOVÁ Katarína	rod.Hulánská; rod.Hulánská	1	2449,3439,5006
+965	VRÁBELOVÁ Magdaléna	rod.Gogolovaá,manž.Alexander; rod.Gogolovaá,manž.Alexander	1	3257
+965	VRÁBELOVÁ Rozália	rod.Kovácsová; rod.Kovácsová	1	3492
+965	VRTÍKOVÁ Brigita	rod.Šavrnochová,manž.Melicher; rod.Šavrnochová,manž.Melicher	1	2766,3961
+965	VÝBOCH Jozef	manž.Mária Očenášová Oravec manž.Mária Očenášová Oravec	1	4616,5508,5668,5796
+965	VÝBOCH Jozef	manž.Rozália rod.Uramkinová; manž.Rozália rod.Uramkinová	1	4566
+965	VÝBOCHOVÁ Rozália	rod.Uramkinová; rod.Uramkinová	1	4566
+965	WOLFRÁMOVÁ Mária	rod.Fölkerová,manž.Ján; rod.Fölkerová,manž.Ján	1	5047
+965	WOLLNER Gejza	manž.Vilma Kohnová; manž.Vilma Kohnová	1	2772,4233
+965	WOLLNER Ondrej		1	2772
+965	WOLLNEROVÁ Viola		1	2772
+965	WYSOPÁLOVÁ Terézia	rod.Kavaleková,manž.Ján; rod.Kavaleková,manž.Ján	1	844,2922,2923,2924,2925,4791
+965	ZÁČEK Ján	manž.Júlia Sokolová; manž.Júlia Sokolová	1	2479,2984,2985,3066
+965	ZÁČEKOVÁ Júlia	rod.Sokolová,manž.Ján; rod.Sokolová,manž.Ján	1	2948,3224,4385
+965	ZAHOREC Irena		0	2898
+965	ZAHOREC Ján	manž.Margita Kecskésová; manž.Margita Kecskésová	1	5087
+965	ZAHOREC Jozef	manž.Alžbeta Zahorecová; manž.Alžbeta Zahorecová	1	4244
+965	ZAHOREC Jozef	manž.Helena Bachorecová; manž.Helena Bachorecová	1	1199,2935,2998,3224,4049,4341,5119,5120,5328,5808,5932
+965	ZAHOREC Jozef	manž.Katarína Žigová; manž.Katarína Žigová	1	671,866,935
+965	ZAHOREC Jozef	manž.Mária Bažalíková; manž.Mária Bažalíková	1	844,2922,2923,2924,2925,2926
+965	ZAHOREC Michal		0	2898
+965	ZAHOREC Michal	manž.Katarína Čermáková; manž.Katarína Čermáková	1	4462,4463,5107
+965	ZAHOREC Pavol	manž.Margita Eleková; manž.Margita Eleková	1	3166,4488
+965	ZAHOREC Rudolf	manž.Valéria Kamencová; manž.Valéria Kamencová	1	4218
+965	ZAHOREC Štefan		0	2898
+965	ZAHOREC Štefan	malol.v r.1943; malol.v r.1943	1	2394,3762,3763,4032,4430,4462,5107,5676
+965	ZAHOREC Štefan	manž.Mária Sarková; manž.Mária Sarková	1	2825,2826,3401,3403,5672
+965	ZAHOREC Štefan	ml.; ml	1	1199,4049,5119,5120,5328,5808
+965	ZAHOREC Terézia		0	2898
+965	ZAHORECOVÁ Alžbeta	rod.Zahorecová,manž.Jozef; rod.Zahorecová,manž.Jozef	1	4244
+965	ZAHORECOVÁ Anna	rod.Gyurcsovicsová,manž.Peter; rod.Gyurcsovicsová,manž.Peter	1	2614
+965	ZAHORECOVÁ Anna	rod.Rumiová; rod.Rumiová	1	1199,2894,3015,3016,3017,3018,3019,3516,3517,4049,4154,4156,4366,5119,5120,5188,5304,5328,5772,5808
+965	ZAHORECOVÁ Gabriela	rod.Čermaníková,manž.Ľudovít; rod.Čermaníková,manž.Ľudovít	1	4245
+965	Zahorecová Helena r.Bachorecová		0	2779,2780,5903,5948
+965	ZAHORECOVÁ Júlia	rod.Bachorecová,manž.Jozef; rod.Bachorecová,manž.Jozef	1	2394,5063,5676
+965	ZAHORECOVÁ Júlia	rod.Kollárová,manž.Štefan; rod.Kollárová,manž.Štefan	1	3614
+965	ZAHORECOVÁ Katarína	rod.Kaszásová,manž.Vendelín,vd.; rod.Kaszásová,manž.Vendelín,vd	1	3084,4631
+965	ZAHORECOVÁ Katarína	rod.Žigová,manž.Jozef; rod.Žigová,manž.Jozef	1	671,866,935
+965	ZAHORECOVÁ Mária	rod.Bachorecova,manž.Štefan,vd.; rod.Bachorecova,manž.Štefan,vd	1	2612
+965	ZAHORECOVÁ Mária	rod.Bažalíková,manž.Jozef; rod.Bažalíková,manž.Jozef	1	844,2922,2923,2924,2925,2926,3300
+965	ZAHORECOVÁ Mária	rod.Kovácsová,manž.Koloman; rod.Kovácsová,manž.Koloman	1	4202,4203
+965	ZAHORECOVÁ Mária	rod.Pšenáková; rod.Pšenáková	1	3211
+965	ZAHORECOVÁ Valéria	rod.Kamencová,manž.Rudolf; rod.Kamencová,manž.Rudolf	1	4218
+965	ZACHAR Jozef	manž.Veronika Zacharová; manž.Veronika Zacharová	1	5045,5046
+965	ZACHAR Ladislav	manž.Alžbeta Zahorecová; manž.Alžbeta Zahorecová	1	5071
+965	ZACHAR Michal	malol.v r.1938; malol.v r.1938	1	4849
+965	ZACHAR Michal	manž.Júlia Zahorecová; manž.Júlia Zahorecová	1	3086
+965	ZACHAROVÁ Júlia	rod.Zahorecová,manž.Michal; rod.Zahorecová,manž.Michal	1	3084
+965	ZAJOSOVÁ Zuzana	rod.Kissová,manž.Štefan; rod.Kissová,manž.Štefan	1	4911
+965	ZÁVODSKÁ Alžbeta	rod.Habarová,manž.Jozef; rod.Habarová,manž.Jozef	1	2833
+965	ZÁVODSKÁ Viktoria	rod.Herbanská,manž.Jozef,Imeľ čd.268; rod.Herbanská,manž.Jozef,Imeľ čd.268	1	4871
+965	ZÁVODSKÝ Jozef	manž.Alžbeta Habarová; manž.Alžbeta Habarová	1	2833
+965	ZÁVODSKÝ Ondrej	nezvestný; nezvestný	1	4871
+965	ZELENÁK Ján	manž.Terézia Kaszásová; manž.Terézia Kaszásová	1	2550
+965	ZELENÁKOVÁ Mária	rod.Gyurcsovicsová,manž.Michal; rod.Gyurcsovicsová,manž.Michal	1	2990,2992,5057
+965	ZELENÁKOVÁ Terézia	rod.Kaszásová,manž.Ján; rod.Kaszásová,manž.Ján	1	2550,2554,4176,5740
+965	ZORA Rudolf	manž.Jana Braunová; manž.Jana Braunová	1	4184
+965	ZSIDÓOVÁ Alžbeta	rod.Kovácsová; rod.Kovácsová	1	2917
+965	ZSIGO Alexander		1	2894,5188,5304
+965	ZSIGÓ Júlia r. Zahorec		0	2898
+965	ŽIGO Dezider	manž.Alžbeta Danišová; manž.Alžbeta Danišová	1	2772
+965	ŽIGO Gustav	manž.Mária	1	2848,2894,2967,4198,5188,5304
+965	ŽIGO Ján	ml.; ml	1	2894,5188,5304
+965	ŽIGO Karol	manž.Anna Kádeková; manž.Anna Kádeková	1	4753
+965	ŽIGO Ladislav	malol.v r.1952; malol.v r.1952	1	4382
+965	ŽIGOVÁ Alžbeta	rod.Danišová,manž.Dezider; rod.Danišová,manž.Dezider	1	2772
+965	ŽIGOVÁ Alžbeta	rod.Kucmanová; rod.Kucmanová	1	4931
+965	ŽIGOVÁ Alžbeta	rod.Vachová,manž.Štefan; rod.Vachová,manž.Štefan	1	4794
+965	ŽIGOVÁ Helena Júlia	rod.Csergeová,manž.Vojtech; rod.Csergeová,manž.Vojtech	1	2998,5932
+965	ŽIGOVÁ Irena	rod.Kádeková; rod.Kádeková	1	1199,4049,5119,5120,5328,5808
+965	ŽIGOVÁ Júlia	rod.Pšenáková,manž.Štefan; rod.Pšenáková,manž.Štefan	1	3525
+965	ŽIGOVÁ Margita	rod.Kádeková,manž.Mikuláš; rod.Kádeková,manž.Mikuláš	1	1199,4049,5119,5120,5328,5808
+966	BALOG PAVOL		0	112,284
+966	BALOGA PAVOL		0	111
+966	Belekanič Juraj	ž. Zuzana r. Tkáčová	0	304
+966	Beňak Michal	ž. Helena r. Hlavačová	0	287,288
+966	Beňak Michal	žena Anna rodená Nastasičová	0	142
+966	Beňaková Helena r. Hlavačová	muž Michal	0	287,288
+966	BEŇAKOVÁ MÁRIA		0	193,203,319,413,450
+966	BERCIK JURAJ		0	136
+966	BERCIK PAVOL		0	136
+966	BERCIKOVA HELENA		0	136
+966	Bila Anna r. Koromlianová		0	93
+966	BOGDAN JAN		0	63
+966	Burgerová Regina		0	90
+966	CEBENAKOVA MARIA		0	200,303
+966	CEBEŇÁKOVÁ Mária	maloletá v roku 1926	0	399
+966	CEBENAKOVA MARIA MAL.		0	200
+966	Čučková Mária r. Vaľková		0	240,467
+966	FECIK JURAJ MAL.		0	104
+966	FECIKOVA MARIA R.GEMBOVA		0	57,58
+966	FECIKOVA ZUZANA R.KOVACOVA		0	54
+966	Fečik Juraj	mal	0	81,319
+966	Fečik Juraj	maloletá	0	97
+966	Fečik Juraj	maloletý	0	100,249,371
+966	Fečík Michal	maloletá	0	97
+966	Fečiková Alžbeta r. Suraničová		0	100
+966	Fečíková Anna		0	97,249,291
+966	Fečíková Anna	z Petroviec	0	416
+966	Fečiková Mária		0	126,253
+966	Fečiková Mária r. Gembová		0	81,319,415
+966	FEČIKOVÁ Mária, SR		0	420
+966	Fencik Eliaš		0	80,81,319,371
+966	FENCÍK Eliaš, SR		0	390
+966	FENCIK IVAN		0	80,81,319,371
+966	FENCÍK Ivan, SR		0	390
+966	Fencik Ján		0	80,81,120,281,319,371
+966	Fencik Ján	manž.Mária r.Komárová	0	371
+966	Fencik Ján	ž. Mária r. Komarová	0	80
+966	FENCÍK Jan, SR		0	390
+966	Fencik Juraj	mal	0	80
+966	FENCIK JURAJ		0	120
+966	Fencik Michal	ž. Anna r. Regendová	0	281
+966	FENCIK MICHAL MAL.		0	104
+966	Fencik Pavol	mal	0	81
+966	Fencik Pavol	maloletý	0	319
+966	Fencik Pavol	ml	0	80
+966	FENCIK PAVOL		0	80,81,278,319,371
+966	FENCIK PAVOL ML.		0	295
+966	FENCIK PETER		0	240,280

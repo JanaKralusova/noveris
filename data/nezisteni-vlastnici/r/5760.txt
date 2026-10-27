@@ -1,0 +1,256 @@
+3240	VERTAŠOVÁ Rozália r. Mičáková		0	4743
+3240	VERTAŠOVÁ Ružena r. Ronďošová		0	4743
+3240	VERTČAOVÁ Ružena r. Ronďošová		0	4449
+3240	Vértesová Rozália		0	4236,4308,4690,4743
+3240	Vérteš Ján r. Verteš		0	4440,4820
+3240	VERTEŠ Matiaš		0	4820
+3240	Vérteš Matúš r. Vérteš		0	4440
+3240	Verteš Pavol r. Verteš	vzdial	0	4671,4951
+3240	Vérteš Šimon r. Verteš		0	4440,4820
+3240	VERTEŠ Štefan		0	4820
+3240	Vérteš Štefan r. Verteš		0	4440
+3240	Vertešová Rozália r. Ronďošová		0	4761
+3240	Vértešová Ružena r. Ronďošová		0	4236,4690,4697,4973
+3240	Virteš Jozef		0	2978,3839,5238
+3240	Virteš Mihaly		0	2978,3839
+3240	Virteš Michal		0	5238
+3240	Vojtunová Mária r. Konová		0	4061,5947,5955
+3240	Vojtušová Mária r. Koňová		0	4420
+3240	Volanský Ladislav r. Volanský	slob	0	4620
+3240	ZEM PODKARPATSKORUSKÁ Michalovce 071 01		0	4102
+3240	Znanková Mária r. Peňáková		0	4979
+3240	ZUBÁĽ Andrej		0	4611
+3240	Zubáľ Andrej r. Zubaľ	mal	0	4611
+3240	ZUBÁĽ Ján	mal	0	4611
+3240	Zubáľ Ján r. Zubaľ		0	4725
+3240	Zubaľ Juraj		0	2978,3839,5238
+3240	ZUBÁĽ Michal		0	4611
+3240	Zubáľ Michal r. Zubaľ	mal	0	4725
+3240	Zubáľová Alžbeta		0	4611,4679,4725,4947,4975
+3240	Zubáľová Anna		0	4725
+3240	Zubáľová Anna	mal	0	4611
+3240	Zubáľová Barbora	st	0	4725
+3240	ZUBÁĽOVÁ Barbora		0	4611
+3240	Zubáľová Mária		0	4725
+3240	Zubáľová Mária	mal	0	4611
+3240	Zubaľová Mária r. Ksenyová	m. Ján	0	4609,4610
+3240	Zubaľová Mária r. Ksenyová	m.Ján	0	5946,6023
+3240	Žalobín Ján r. Žalobín		0	4120
+3240	Žalobín Jozef r. Žalobín		0	4609,4610,4611,4643,5946,6023
+3240	Žalobín Juraj		0	4461,4611
+3240	Žalobin Michal		0	4461
+3240	Žalobín Michal r. Žalobín		0	4611
+3240	Žalobin Milan r. Žalobín		0	4461,4491,4611
+3240	Žalobinová Anna r. Fencíková	vd	0	4548
+3240	Žalobinová Rozália		0	4461
+3240	Žalobinová Rozália r. Hladká	vd	0	4491,4611
+3241	Abranitschová Anna r. Edingerová		0	2566
+3241	ADELSBERGEROVÁ Gabriela r. Havelková		0	6856
+3241	ADRIANYI Juraj		0	6873
+3241	Alkucza Rudolf		0	1110
+3241	Alkuczová Anna r. Szalzingerová		0	1110
+3241	AMBRA Ladislav		0	6810
+3241	AMBROVÁ Marta r. Kathrenová		0	6810
+3241	ASTON VENTURES EUROPE LTD, 27 OLD GLOUCESTER STREET, LONDON WC1N 3AX, Veľká Británia		0	3165
+3241	Babušková Katarína r. Grančičová		0	821
+3241	Badovská Helena r. Ďurinová		0	628
+3241	Badovský Eugen		0	628
+3241	BARTOŇ Juraj		0	6873
+3241	BARTOŇOVÁ Mária r. Procházková		0	6873
+3241	BAUEROVÁ Jozefína r. Weitschellová		0	6766
+3241	BENCA Peter		0	6942
+3241	BERNÁT Ladislav		0	6766
+3241	BISKUPICOVA VILMA		0	5048
+3241	BOJANOVSKÁ Mária r. Brunnerová		0	6873
+3241	BOJANOVSKÝ Teodor		0	6873
+3241	BOŠANSKÝ Štefan		0	6897
+3241	BOUBLÍKOVÁ Tatiana r. Thomesová	Zámocká 37, 81101 Bratislava	0	6822
+3241	BUČKO Ivan	maloletý	0	6836
+3241	BUČKOVÁ Eva	maloletá	0	6836
+3241	BUREŠOVÁ Šarlota r. Danajková		0	6847
+3241	CIBOVA HELENA		0	5113
+3241	Cserenyi Jozef		0	628
+3241	Cserényiová Aranka r. Čermáčeková		0	628
+3241	CSERENYOVÁ Aranka r. Wittgruberová		0	6913
+3241	CZELINGEROVA PAVLA		0	5124
+3241	CZERE Zigmund		0	6878
+3241	CZERNINGEROVÁ Hermína r. Schallerová	Friedmangasse, 1160 Wien 16, Rakúska republika	0	6782
+3241	Čermák Fedor		0	628
+3241	Čermák Ivan		0	628
+3241	Čermák Pavol Ing.		0	628
+3241	Čermáková Viera r. Hruzová		0	628
+3241	Čuda Karol		0	628
+3241	Čudová Mária r. Nejedlová		0	628
+3241	DAXOVÁ Adela r. Hoffmanová		0	6891
+3241	DEMKOVÁ Adela		0	6847
+3241	DOBIAŠ Michal Ing.	Živnostenska 1,81106 Bratislava	0	6921
+3241	DOBIÁŠOVÁ Vlasta r. Sperlingová		0	6776
+3241	Dojelš Ján		0	821
+3241	Dolejšová Jozefína r. Sedláková		0	821
+3241	DOLLINGER Ralf		0	6801
+3241	DOLLINGEROVÁ Alžbeta r. Sokoličová		0	6801
+3241	Domonkos Jozef MUDr.	Strakova 2/B, 81101 Bratislava	0	6853
+3241	ĎURDÁKOVÁ Františka		0	6764
+3241	ĎURICA Štefan		0	6942
+3241	DVOŘAČKOVÁ Alžbeta r. Tvarožková	Mickiewiczova 18, 81107 Bratislava	0	6940
+3241	ELEFANTIOVA ERNA R.JANDOVA		0	3088
+3241	ELŠÍK Jozef		0	6773
+3241	ELŠÍKOVÁ Ľudmila r. Mascheková		0	6773
+3241	FARKAŠ Aladar		0	6757
+3241	FARKAŠOVÁ Mária r. Susková		0	6757
+3241	Felgra Rudolf		0	628
+3241	FOJT Erik Ing.		0	6802
+3241	FOJTOVÁ Anna r. Ľadová		0	6802
+3241	FOLGET Robert	maloletý	0	6873
+3241	FOLGETOVÁ Albína r. Žilinková		0	6873
+3241	Fordinál František		0	6759
+3241	Gaal Alexander		0	1563
+3241	Gaalová Mária r. Zedlová		0	1563
+3241	Gériová Hildegarda r. Kornová		0	821
+3241	Gery Ján		0	821
+3241	GREGOROVÁ Eva	Babuškova 1, 82103 Bratislava	0	6831
+3241	GROSZ Richard		0	6812,6813
+3241	GROSZOVÁ Gizela r. Ležanská		0	6812,6813
+3241	GYORGYIOVA ANNA		0	4966
+3241	GYORGYIOVÁ Anna r. Smrtníková		0	6894
+3241	GYURICKÁ Žofia		0	6766
+3241	HACKENBERGEROVÁ Etela r. Hollá		0	6753
+3241	HANZELOVÁ Hermína r. Schallerová		0	6782
+3241	HARKABUSOVÁ Mária r. Kaušitzová	Meteorova 5, 82101 Bratislava	0	6793
+3241	HAUSEROVÁ Anna r. Osvaldová		0	6785
+3241	HAVELKA August		0	6856
+3241	HAVELKA Július		0	6856
+3241	Hloža Jaroslav, ČR, Pribram, Drahlín 134		0	1183
+3241	Hoffman Edgard r. Hoffman, Ing. a Viera Hoffmanová, Tupého 15, Bratislava, PSČ 831 01, SR		0	2674
+3241	Holbik Karol		0	2566
+3241	Holbiková Irma r. Chladeková		0	2566
+3241	HOLLOŠOVÁ Júlia r. Weichherzová		0	6776
+3241	Hordossy Edmund		0	1247
+3241	Hordóssy Karol		0	1247
+3241	Hordossyová Irena		0	1247
+3241	HOROVÁ Bedriška r. Nagyová		0	6927
+3241	HORVÁTH Alexander	maloletý	0	6944
+3241	Horváth Ján		0	2922
+3241	Horváthová Viktoria r. Meszarošová		0	2922
+3241	HRABĚ Jozef		0	6781
+3241	HRABĚOVÁ Alžbeta r. Zachová		0	6781
+3241	HREBÍČEK Koloman		0	6919
+3241	HUSZAVEKOVÁ Helena r. Czévnová		0	6776
+3241	HUŠKA Jindrich		0	6823
+3241	HUŠKOVÁ Magdaléna r. Štefanovská	1.3.1907, Na Jamách 25, Bratislava	0	6823
+3241	HYBENOVÁ Viera r. Udvorková	Royova 43, 83101 Bratislava	0	6939
+3241	CHOVANEC Juraj		0	6834,6835
+3241	CHOVANECOVÁ Ružena r. Fuchsová		0	6834
+3241	CHUDÝ Vojtech a Marta CHUDÁ r. Rajnochová	Červeňova 20, 83101 Bratislava	0	6921
+3241	ILLEŠ Ján		0	6423
+3241	IMHOFOVÁ Pavlína r. Jollesová	vdova	0	6796
+3241	IMHOFOVÁ Sylvia	Valeria	0	6796
+3241	Jančárová Františka r. Hamšíková		0	821
+3241	JANDOVA KLARA		0	3088
+3241	JASTRABÍKOVÁ Anna r. Benkovičová		0	6914
+3241	Javorská Anna r.Martinková		0	3124
+3241	JELÍNEK Ján		0	6825
+3241	JELÍNEKOVÁ Františka r. Hauskrechtová		0	6825
+3241	JELINEKOVÁ Terézia r. Wittová		0	6913
+3241	JURIK Klement	Kĺzavá 7, 83101 BA	0	6923
+3241	JURÍKOVÁ Mária r. Markusová	Kĺzavá 7, 83101 BA	0	6923
+3241	JURUŠKA František		0	6925
+3241	JURUŠKOVÁ Mária r. Zezulková		0	6925
+3241	Kaderávka František		0	628
+3241	Kaderávková Milada r. Jedličková		0	628
+3241	Kalačová Otília r. Pánková		0	628
+3241	KALLAY František		0	6843
+3241	KALLAY Jozef	maloletý	0	6843
+3241	KÁLLAY Vendel		0	6764
+3241	KALLAYOVÁ Helena	maloletá	0	6843
+3241	KALLAYOVÁ Júlia		0	6843
+3241	KALLAYOVÁ Mária		0	6843
+3241	KÁLLAYOVÁ Mária r. Červenová		0	6764
+3241	KAPSA Štefan		0	6855
+3241	KAPSOVÁ Irma r. Šujdáková		0	6855
+3241	KAUŠITZ František	Malinovského 25/c, 81101 Bratislava	0	6793
+3241	KAUŠITZ Jozef	Perunova 9, 13000 Praha, ČR	0	6793
+3241	KAUŠITZ Karol	Palárikova 25, 81104 Bratislava	0	6793
+3241	KAUŠITZ Otto	Podtatranská 7, 83101 Bratislava	0	6793
+3241	KESZOCZE Eugen		0	6802
+3241	Kicrhoferová Agneša r. Kaiserová		0	821
+3241	Kirchhofer Július		0	821
+3241	KLAČANSKÝ Jozef	Babuškova 1, 82103 Bratislava	0	6831
+3241	KLEIN Juraj		0	6764
+3241	KLEINOVÁ Františka		0	6764
+3241	KLEINOVÁ Margareta		0	6764
+3241	KNOTKOVÁ Matilda r. Dudáčová		0	6848
+3241	KOCIÁN Ignác		0	6782
+3241	KOLESÁR Pavol		0	6815
+3241	KOLESÁROVÁ Františka r. Baďuriková		0	6815
+3241	KOLMAN Viliam	29. augusta 21, 83101 BA	0	6768
+3241	KOLMANOVÁ Magdaléna r. Šuchová	29. augusta 21, 83101 BA	0	6768
+3241	KOLOUŠEK Bohuslav		0	628
+3241	Koloušková Ružena		0	628
+3241	KONRÁD Jozef		0	6909
+3241	KONTSEK Juraj a KONTSEKOVÁ Jolana r. Kontseková		0	6818
+3241	KORNHAUSEROVÁ Irma r. Osterová		0	4731,6063,6842
+3241	KOSTELNIČÁK Štefan Ing.		0	6833
+3241	Kotouleková Blažena r. Hrabovská		0	2716
+3241	KOUŘIMSKÁ Ružena r. Kratochvílová		0	6873
+3241	KOVÁČ Ján		0	6764
+3241	KOVÁČOVÁ Barbora r. Vassová	vdova	0	6764
+3241	KOVÁČOVÁ Ružena	maloletá	0	6764
+3241	KOVARIKOVA KAROLA		0	5134
+3241	KOZÁNEK Peter	Padruszova 16, 81101 Bratislava	0	6921
+3241	KRAKOVSKÁ Valéria r. Kustrová	Krčméryho 9, 81104 Bratislava	0	6777
+3241	Kratochvíl Eugen		0	2922
+3241	Kreibich Karol		0	2954
+3241	KREINZOVÁ Mária r. Masarovičová		0	6942
+3241	KRONER JOZEF A TEREZIA R.HURBAN,MOYZES.1		0	2100
+3241	KRŠKO Eugen, Ing.	Justičná 9, 81107 Bratislava	0	6921
+3241	KUBÁČEK Boleslav		0	6754
+3241	KUBÁČEKOVÁ Milada r. Fleischerová		0	6754
+3241	KUŽEL Štefan	Steinerova 35, 81101 Bratislava	0	6803
+3241	LEBROVÁ Júlia		0	6766
+3241	LECHNER EMERICH		0	5136
+3241	LIPTÁK Juraj		0	6839
+3241	LIPTÁKOVÁ Judita r. Sajbenová		0	6839
+3241	LORINC Michal		0	6846
+3241	MACH Matej	Ľublanská 4, 83102 Bratislava	0	6795
+3241	MAJERNÍKOVÁ Justína r. Škulavíková		0	6847
+3241	MÁLEK Michal		0	6938
+3241	MÁLEKOVÁ Anna r. Ragalová		0	6938
+3241	MANDZÁK Michal	Dérerova 8, 81101 Bratislava	0	6921
+3241	MARAPKO Ján		0	6873
+3241	MARAPKOVÁ Mária r. Ziliziová		0	6873
+3241	MAREKOVÁ Romana		0	6918
+3241	MAREKOVÁ Romana r. Havelková		0	6921
+3241	MASAROVIČ Karol a Helena MASAROVIČOVÁ	Čajakova 37, 83101 Bratislava	0	6942
+3241	MASCHEK Ferdinand		0	6773
+3241	MASCHEKOVÁ Anna r. Solonková		0	6773
+3241	MATLÁK Ján		0	6760
+3241	MATOŠ Matej		0	6776
+3241	MATOŠOVÁ Genovéva r. Charvatová		0	6776
+3241	MATZOVÁ Margita r. Kapsová		0	6855
+3241	MAYEROVÁ Anna r. Czereyová	nar. 19.05.1899, Karadžiča 63, 82108 Bratislava	0	6878
+3241	MICHALIKOVÁ Ružena r. Kaušitzová	Bratislavská 1075, 01841 Dubnica nad Váhom	0	6793
+3241	Michalko Milan	Moyzesova 13, Liptovský Mikuláš	0	6771
+3241	Michalková Elena r. Gumuliaková	Moyzesova 13, Liptovský Mikuláš	0	6771
+3241	MIKLOVIČ Augustín, Ing.	Sibírska 38, 81101 Bratislava	0	6921
+3241	Mildorf František		0	628
+3241	Mildorfová Mária	Berta	0	628
+3241	MITROVÁ Mária r. Tobolářová		0	6837
+3241	MOLEKOVÁ Helena r. Kaušitzová	Nešporova 3, 81101 Bratislava	0	6793
+3241	MOLNÁR Ladislav		0	6760
+3241	MOLNÁROVÁ Margita r. Szabová		0	6760
+3241	MORÁVEK Viktor		0	6942
+3241	MULLEROVÁ Marketa r. Weissová		0	6817
+3241	MUŠITZOVÁ Alžbeta r. Dudášová	Važecká 37, 83108 BA	0	6775
+3241	NAGYOVA HELENA		0	5124
+3241	NEBYLIOVÁ Rozalia r. Udvorková	Holzenhilgen , Obern Bayern West - Bavorsko, NSR	0	6939
+3241	NEMCOVÁ Mária r. Krakovská		0	6423
+3241	NEMEČKA Alfonz		0	6760
+3241	NEMEČKOVÁ Štefania r. Horváthová		0	6760
+3241	OPAVSKÁ Irena r. Matzenauerová	Riazanská 62, 83102 BA	0	6769
+3241	OPAVSKÁ Kamila	maloletá, Riazanská 62, 83102 BA	0	6769
+3241	OPAVSKÝ Vladimír Ing.	Zemianské Kostoľany 97243	0	6769
+3241	OSTER Artur		0	4731,6063,6842
+3241	PASTUCHOVA KATARINA		0	5051
+3241	PATÁK Vavro		0	6749
+3241	PATÁKOVÁ Františka r. Slačálková		0	6748,6749

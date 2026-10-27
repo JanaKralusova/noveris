@@ -1,0 +1,256 @@
+3240	Kráľová Mária r. Halapiová	m. Ján	0	5022
+3240	Kráľová Mária r. Lukáčová		0	4238,4630,4660,4833,4913,5074
+3240	Kráľová Marta		0	4163,4174
+3240	Kráľová Rozália		0	4754
+3240	Kráľová Rozália	dc.Štefana	0	4432,4780,6047
+3240	Kráľová Rozália	dcéra Štefana Kráľa	0	4647,4746,4932
+3240	Kráľová Rozália r. Tomovčíková		0	4439,4869,6022
+3240	Kráľová Verona r. Ligušová		0	3951
+3240	Krály Jozef		0	2978,3839
+3240	Kramerová Agnesa r. Zubaľová		0	4738
+3240	Krasnovský Michal r. Krasnovský		0	4061,5947,5955
+3240	Krišinová Júlia r. Sečková	m. Michal	0	4049
+3240	Krutka Jakub r. Krutka		0	4675,4724,4769,4887,5002,5029
+3240	Krutka Ján r. Krutka		0	4675,4724,4769,4887,5002,5029
+3240	Krutka Jozef r. Krutka		0	4675,4724,4769,4887,5002,5029
+3240	Krutka Juraj r. Krutka		0	4675,5029
+3240	Krutka Juraj r. Krutka	mal	0	4724,4769,4887,5002
+3240	Krutka Pavol r. Krutka		0	4724,4887
+3240	Krutka Pavol r. Krutka	mal	0	4675,4769,5002
+3240	Krutka Pavol r. Krutka	malol	0	5029
+3240	Krutka Peter r. Krutka		0	4724,4769,4887,5002
+3240	Krutka Peter r. Krutka	mal	0	4675
+3240	Krutka Peter r. Krutka	malol	0	5029
+3240	Krutková Mária	Sandala Ján	0	4675
+3240	Kseňová Mária		0	4725,4949
+3240	Kuraňko Ján		0	2978,3839,5238
+3240	Kuraňko Ján r. Kuraňko		0	4662,4663,4767,5043
+3240	Kuraňko Juraj r. Kuraňko		0	4663
+3240	Kuraňko Juraj r. Kuraňko	malolet	0	4767
+3240	Kuraňko Michal		0	2978,3839,5238
+3240	KURAŇKO Michal	mal	0	4923
+3240	Kuraňková Alžbeta r. Počatková		0	4719,4766,5153,6051
+3240	Kurňová Mária	mal	0	4662
+3240	KUSNIVOVÁ Alžbeta r. Smoľáková		0	4701
+3240	Kušnír Ján r. Kušnír		0	4404,4609,4610,5946,6023
+3240	Kušnírová Alžbeta r. Smoľáková		0	972,4249,4760
+3240	KVAKOVÁ Mária		0	4949
+3240	Labanc Andras	Pavlovski	0	5238
+3240	Labanc Andras Pavlovski		0	2978,3839
+3240	Lajčák Ján r. Lajčák	ž.Verona r.Frigová	0	4126,4525
+3240	LAJČÁK Jozef	ž. Vertešová Roza	0	4820
+3240	Lajčák Lukáč r. Lajčák		0	4310
+3240	Lajčák Michal		0	5233
+3240	Lajčák Michal r. Lajčák		0	4641,4811,4915,5005
+3240	Lajčáková Rozália r. Vertešová	m.Jozef	0	4440
+3240	Lapšanská Margita r. Torhanová	m.Július	0	2819
+3240	Lapšanský Július r. Lapšanský	m.Margita r.Torhanová	0	2819
+3240	Lefkovičová Lila		0	4446,4609,4610,4633,5946,6023
+3240	Lefkovičová Lily		0	2825
+3240	Lefkovičová Regina		0	2825,4446,4609,4610,4633,5946,6023
+3240	Lefkovičová Zuzana		0	2825,4446,4609,4610,4633,5946,6023
+3240	Lenčová Anna r. Lenčová		0	4609,4610,5946,6023
+3240	Lešková Mária r. Moľovčíková		0	5146
+3240	Lozanská Margita r. Lobová		0	4008
+3240	Ľubová Mária r. Hospodárová	vd	0	5028,5042
+3240	LUGOŠ Michal	ž.Anna r.Micáková	0	4968
+3240	Lugošová Anna r. Mičáková		0	4556,4685,4733,4801,4968
+3240	Lugošová Mária	mal	0	4968
+3240	LUKAČIOVÁ Rozália r. Smoľáková		0	4041
+3240	Maďarčík Ján r. Maďarčík		0	4067,4193,4194
+3240	Maďarčík Juraj r. Maďarčík	mal	0	4193
+3240	MAĎARČÍK Michal		0	4194
+3240	Maďarčíková Anna	mal	0	4193
+3240	Maďarčíková Júlia		0	4067,4193,4194
+3240	Maďarčíková Mária r. Vasiľová	m.Ján	0	4193
+3240	Majerník Michal r. Majerník	ž. Mária r.Dvorovčíkova	0	4328
+3240	Makeľ Andrej r. Makeľ		0	4648,4855
+3240	Makeľ Andrej r. Makeľ	ž.Anna r.Štefančiková	0	5100
+3240	MAKEĽ Bartolomej	nezl	0	4925
+3240	Makeľ Bartolomej r. Makeľ		0	4711,4836,4855
+3240	Makeľ František	potomki	0	2978,3839,5238
+3240	Makeľ Ján	maloletý	0	4711,4925,5019
+3240	Makeľ Ján r. Makeľ		0	4440,4648,4678,4820,4855,4904,5076
+3240	Makeľ Jozef		0	5156,5745
+3240	Makeľ Jozef r. Makeľ	mal	0	4071
+3240	Makeľ Juraj		0	5156,5745
+3240	Makeľ Juraj	mal	0	5156,5745
+3240	MAKEĽ Matej		0	4834
+3240	Makeľ Michal	potomki	0	2978,5238
+3240	MAKEĽ Michal	nezl	0	4925
+3240	Makeľ Michal r. Makeľ		0	4626,4686,4836,4902,4941,5076,5156,5745
+3240	Makeľ Michal r. Makeľ	ž.Pavlina r.Valterová	0	5154
+3240	Makeľ Michal r. Makeľ	ž.Rozália r.Hlaváčová	0	4440
+3240	MAKEĽ Pavel	nezl	0	4757,4806
+3240	MAKEĽ Pavel	ž.Mária r.Sorokáčová	0	4757,4806
+3240	Makeľ Pavel r. Makeľ		0	4626,4757
+3240	Makeľ Pavel r. Makeľ	nezlet	0	4626
+3240	MAKEĽ Pavol		0	4056,4806,4902,4941,4981,5156,5745
+3240	MAKEĽ Pavol	nezl	0	4056,4902
+3240	Makeľ Pavol r. Makeľ		0	4686,4941,5076
+3240	Makeľ Pavol r. Makeľ	nezlet	0	4941
+3240	Makeľ Pavol r. Makeľ	ž.Mária r.Sorokáčová	0	4626
+3240	Makeľová Anna		0	4440,4678,4820,4904
+3240	Makeľová Anna r. Getliková		0	596,4013,4845,4876,4890,4891,4928
+3240	Makeľová Anna r. Meteňková		0	4779
+3240	Makeľová Anna r. Śtefaničová		0	4700
+3240	Makeľová Anna r. Štefaničová	vd	0	5019
+3240	Makeľová Elena		0	4441,5156,5745
+3240	Makeľová Júlia		0	4441,5156,5745
+3240	MAKEĽOVÁ Maria	maloleta	0	4941
+3240	Makeľová Mária		0	4711,4757,4855,4925,5039,5156,5745
+3240	Makeľová Mária	nezlet	0	4071,4626,4806,4902
+3240	MAKELOVÁ Mária r. Fantazírová		0	4276
+3240	Makeľová Mária r. Gnipová		0	4493,5052,5065
+3240	Makeľová Mária r. Soročinová		0	4941
+3240	MAKEĽOVÁ Mária r. Sorokáčová		0	4757
+3240	Makeľová Pavlína r. Valterová		0	5154
+3240	Makeľová Rozália r. Domašicová		0	4686,5111
+3240	Makeľová Rozália r. Hlaváčová		0	4163,4572,4975
+3240	Makeľová Rozália r. Sečková		0	4071
+3240	Makeľová Rozália r. Smoľáková		0	4056
+3240	Maková Mária r. Meteňková		1	5071
+3240	Mamnék Ján r. Mamnek		0	4724,4887
+3240	Mamnéková Anna		0	4724,4887
+3240	Mamnéková Mária		0	4724,4887
+3240	Mamrak Juraj	Potomki	0	5238
+3240	Mamrak Juraj potomki		0	2978,3839
+3240	Mamráková Rozália		0	4653,4724,4887,6025
+3240	MANRÁK Ján		0	5002
+3240	MANRÁKOVÁ Anna		0	5002
+3240	MANRÁKOVÁ Mária	mal	0	5002
+3240	MANRÁKOVÁ Rozália	mal	0	5002
+3240	Manzák Juraj r. Manzák		0	4769
+3240	Marcin Jozef r. Marcin		0	4727,4793,4831,4917,4962
+3240	Marcinová Mária r. Šubáková	m.Andrej USA	0	5189
+3240	Markovičová Serena r. Friedlanderová		0	4696,4776
+3240	Marton Jozef		0	4479
+3240	Matheová Anna		0	4106
+3240	MAZUR Andrej		0	5015
+3240	Mazur Ján r. Mazur		0	5015,5081
+3240	Mazur Juraj r. Mazur		0	5081
+3240	Mazur Michal r. Mazur		0	4729,5015,5081
+3240	Mazur Štefan r. Mazur		0	5081
+3240	MAZUROVÁ Anna	mal	0	4729
+3240	Mazurová Anna r. Ronďošová	m.Andrej	0	4896
+3240	Mazurová Ilona r. Chaba	m.Štefan	0	4728
+3240	Mazurová Mária		0	4769,5029
+3240	MAZUROVÁ Mária	mal	0	4729
+3240	Mesároš Dezider r. Mesaroš		0	4262
+3240	Meteňko - Jurajova		0	5238
+3240	Meteňko Jurajova		0	2978,3839
+3240	Metenko Michal r. Meteňko		0	4454,4769,4781,4812
+3240	Meteňková Anna		0	2978,3839,5238
+3240	Meteňková Anna r. Peňáková		0	4979
+3240	Meteňková Mária		0	5068
+3240	Metenková Mária r. Seková		0	4914
+3240	Micák Jozef r. Micák		0	4429,4733,4801,4865
+3240	Micák Michal r. Micák		0	4053,4061,4230,4429,4430,4609,4610,4685,4733,4758,4801,4821,4865,4903,4940,5946,5947,5955,6023
+3240	MICÁKOVÁ Alžbeta r. Maruňáková		0	4982
+3240	Mičák Andrej		0	5079
+3240	Mičak Michal		0	2978,3839,5238
+3240	Mičak Michal	potomki	0	2978,3839,5238
+3240	Mičák Michal r. Mičák	ž.Mária r.Pirkovská	0	4562
+3240	Mičáková Alžbeta r. Mamraková	m.Ján	0	1250,4865
+3240	Mičáková Alžbeta r. Mandzáková		0	4685,4733
+3240	Mičáková Mária r. Pirkovská		0	4562
+3240	MIČÁKOVÁ Rozália r. Vertéšová	Michal	0	4950
+3240	Mičáková Rozália r. Vértešová		0	4670
+3240	Miglecová Júlia r. Buráková		0	4130
+3240	Mihaličová Anna r. Getliková	muž. Jozef	0	4224
+3240	Mihaly Kočik		0	2978,3839
+3240	Michalič Jozef r. Michalič		0	4198
+3240	Michalič Jozef r. Michalič	ž. Anna r. Getliková	1	198,4217
+3240	Michalič Jozef r. Michalič	ž.Anna r.Getliková	0	5878
+3240	Michalič Michal r. Michalič		0	4967
+3240	Michaličová Anna		0	3839
+3240	Michaličová Anna r. Getlíková		0	5878
+3240	Michalská Mária r. Šubaková		0	5215
+3240	Mika Ján	ž.Rozália r.Getlíková	0	5221
+3240	Miklošová Terézia		0	4628,5015
+3240	Miková Mária r. Čorná		0	4611,4725
+3240	Miková Rozália		0	4359,4609,4610,4739,4785,5946,6023
+3240	Milliová Rozália r. Jusková		0	4647,4707,4746,4837,4932,4991,5012,6048,6049
+3240	Miločiková Mária		0	5173,5505
+3240	Miľovčík Jozef		0	1828
+3240	Miľovčik Jozef r. Miľovčík		0	4676,5145
+3240	MIĽOVČIK Mária r. Kvaková		0	5015
+3240	Miľovčik Mihaly		0	2978,3839
+3240	Miľovčik Michal		0	5238
+3240	Miľovčik Michal r. Miľovčík		0	4676
+3240	Miľovčková Agnesa		0	4676
+3240	Minarčíková Mária r. Badidová		0	5069
+3240	Mišľanová Anna r. Minarčíková		0	4468
+3240	Mišľanová Rozália r. Baranová		0	4294
+3240	Mišľanová Rozália r. Sorokáčová	m.Jozef	0	645,5323
+3240	MNISKO Jozef		0	4920
+3240	Modrak Michal r. Modrák	ž.Rozália r.Kladzanová	0	4681,4863,4964
+3240	Modrák Michal r. Modrák		0	4681,4863,4964
+3240	Modráková Barbora r. Smoľáková		0	4756
+3240	Modráková Rozália r. Kladzanová		0	4681,4863,4964
+3240	MODRÁKOVÁ Rozália r. Smoľáková		0	4496
+3240	Molokáč Pavol r. Molokáč		0	4708,4784,4881,6153
+3240	Mynzáková Alžbeta		0	4429
+3240	Myšľan Michal		0	5192
+3240	Nováková Júlia r. Miľovčíková		0	4676
+3240	OBEC Vinné		0	3991,4681,4863,4964,4998
+3240	Olexová Rozália r. Getliková		0	4207,4240,4609,4610,4652,4850,4986,5946,6023,6152
+3240	Orban Gabriel r. Orban		0	4681,4863,4964
+3240	Orbánová Mária		0	4431,4965
+3240	Padiková Anna r. Smoligová		0	4676
+3240	Pajar Bartolomej r. Pajar		0	645,5323
+3240	Pajdová Anna		0	4016
+3240	Paková Anna		0	5020
+3240	Palička Andrej r. Palička		0	4085
+3240	Palička Štefan r. Palička		0	4085
+3240	Paličková Elena		0	4085
+3240	Paličková Magdaléna		0	4085
+3240	Paľová Oľga r. Chabová, 072 16, Hatalov, č. 83, SR		0	4468
+3240	Pastorčák Juraj r. Pastoprčák		0	417
+3240	Pastorčák Juraj r. Pastorčák		0	1107,4609,4610,4627,5946,6023
+3240	Pastorčák Michal	ml., ž. Mária r. Románová	1	4942
+3240	PASTORČÁK Michal	ž.Anna r.Romanová	0	4982
+3240	Pastorčák Michal r. Pastorčák		0	4185,4451,4653,4875,4937,4993,5051,6025
+3240	Pastorčák Michal r. Pastorčák	ž.Rozália r.Kráľová	0	4115
+3240	Pastorčák Michal r. Pastorčeák		1	4684
+3240	Pastorčák Pavel r. Pastorčák		0	4185
+3240	Pastorčák Pavel r. Psatorčák		0	4451
+3240	Pastorčák Pavol r. Pastorčák		0	1107,4247,4609,4610,4627,5946,6023
+3240	Pastorčák Peter r. Pastorčák		1	4451,4684,4875,4942,5026,5083
+3240	Pastorčáková Anna		0	1107,4247,4609,4610,5946,6023
+3240	Pastorčáková Anna r. Gnipová		0	4089,4884
+3240	Pastorčáková Anna r. Pastorčáková		0	417
+3240	PASTORČÁKOVÁ Anna r. Romanová		0	4982
+3240	Pastorčáková Mária r. Pastorčáková		0	417,1107,4247,4609,4610,4627,5946,6023
+3240	Pastorčáková Mária r. Romanová		1	4942
+3240	Pastorčáková Rozália		1	4185,4405,4813,4877
+3240	Pastorčáková Rozália r. Kráľová		0	4185,4238,4660,4833,4859,4872,4913
+3240	PASTORČÁKOVÁ Rozália r. Seková		0	4982
+3240	PAULOČIK Ján		0	4834
+3240	Pauločíková Anna		0	4838
+3240	PAULOČIKOVÁ Anna r. Ferková		0	4834
+3240	Paulovčíková Anna r. Vaľová	m.Andrej	0	1090
+3240	Paulovská Júlia		0	5012
+3240	Paulovská Mihaľová Mária r. Gaňová		0	4714,4780,6050
+3240	Paulovský Michal r. Paulovský		0	4707,4714,4780,4837,6048,6049,6050
+3240	Pavelková Anna r. Hocmanová		0	4085
+3240	Pavloučiková Anna r. Ferková		0	4721,4880
+3240	Pavlovčík Ján		0	5088
+3240	Pavlovčik Ján r. Pavlovčík	ž.Anna r.Ferková	0	4402,4867
+3240	Pavlovčiková Anna r. Ferková	m.Ján	0	4402,4867
+3240	Pavlovčíková Anna r. Ferková		0	5105
+3240	Pavlovská Anna r. Tomočíková		0	4869
+3240	PAVLOVSKÁ Anna r. Tomovčíková		0	4707,4837,6048,6049
+3240	Pavlovský Michal r. Pavlovský		0	4991,5012
+3240	Peňak Ján	ž.Mateňková Mária	0	5048
+3240	Penák Ján r. Penák	ž. Mária r. Metenková	1	4638,4741,4798,4842
+3240	Penák Ján r. Penák	ž.Mária r.Metenková	0	4642,4704,4708,6153
+3240	Peňák Ján r. Peňák		0	4609,4610,4979,5946,6023
+3240	Penak Mihaľ		0	2978,3839
+3240	Penak Michal		0	5238
+3240	PENAKOVÁ Anna		0	4979
+3240	Penáková Mária r. Metenková		1	4451,4455,4684,4942
+3240	Peňáková Mária r. Meteňková	m.Ján	0	4677,4769,4875,4993,5026,5083
+3240	Pestuch Jozef r. Pestuch		0	4724,4887,4960
+3240	Pestuch Jozef r. Pestuch	ž.Mária Horaničová	0	4802
+3240	Pestuch Michal r. Pestuch		0	4609,4610,4724,4816,4887,5946,6023

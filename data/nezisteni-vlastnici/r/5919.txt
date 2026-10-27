@@ -1,0 +1,256 @@
+3324	Peterský Vendel		0	1928
+3324	PETRAS Frantisek		0	1825
+3324	PETRAS Jozef	Vys. 166	0	1820
+3324	PETRAS Martin		0	3139
+3324	PETRAS Martin	Vys.81	0	1612
+3324	PETRASOVA Anna	Vys. 166	0	1820
+3324	PETRASOVA Frantiska	Stefekova	0	3139
+3324	PETRASOVA Frantiska	Vys.81	0	1612
+3324	PIACEK Frantisek	Stup. 329	0	2929
+3324	PIACEK Jozef	Zohor 162	0	3120
+3324	PIACEKOVA Karola	Zohor 162	0	3120
+3324	PIACEKOVA Maria	Stup. 329	0	2929
+3324	PIR Jan	Stup. 106	0	2912
+3324	PIR Ladislav		0	1824
+3324	PIR Otto		0	1419
+3324	PIROVA Julia	Horvathova	0	1824
+3324	PIROVA Terezia	Stup. 106	0	2912
+3324	PLACH Rudolf	Vys. 247	0	1815
+3324	PLACHOVA Maria	Vys. 247	0	1815
+3324	Plic Stanislav	m.Mária r.Hečková	0	4148
+3324	Plicová Mária r. Hečková	m.Stanislav	0	4148
+3324	Plicová Mária r. Vlčeková	zomrela 24.3.1986	0	4147
+3324	PODSTUPKA Karol		0	1848,2034,2105,2232,2385,3422
+3324	Podstupka Karol r. Podstupka		0	3890
+3324	PODSTUPKOVA Alzbeta	Vys.263	0	1529
+3324	POGAC Jakub	Stup. 97	0	2654
+3324	POGACOVA Agnesa	Stup. 97	0	2654
+3324	POKORNA Alzbeta	Stup. 132	0	2889
+3324	POKORNA Emilia	Bystr. 106	0	3008
+3324	POKORNA Maria	Stup. 241	0	2866
+3324	POKORNY Jan	Stup. 241	0	2866
+3324	POKORNY Martin	Stup. 132	0	2889
+3324	POKORNY Stefan	Bystr. 106	0	3008
+3324	Polák Anton		0	1445,1824,4601
+3324	Polák Anton r. Polák		0	1886
+3324	POLAK Ferdinand		0	1824
+3324	Polák Frantisek	Vys.*	0	2560
+3324	Polak Frantisek r. Polak		0	1956,2356
+3324	Polák František		0	1502,1824,1911,1934,3139,3635,3636
+3324	Polák František	č.d.6005/1950, rd. Ján a Anna r.Králová	0	4206
+3324	POLAK Ignac	Vys. 313	0	1822
+3324	Polák Jakub		0	1889
+3324	POLAK Jan		0	1316,1317,1824,3315
+3324	Polák Ján	zomrel 24.7.1974	0	4248
+3324	POLAK Jozef	Vys. 5	0	2475
+3324	POLAK Jozef	Vys.5	0	1622
+3324	Polák Jozef		0	1445,1824,4601
+3324	Polák Jozef	zomrel 11.12.2003	0	4248
+3324	Polák Jozef r. Polák		0	1886
+3324	Polák Karol		0	80
+3324	POLAK Martin		0	3139
+3324	POLAK Martin	Vys. 141	0	1817
+3324	POLAK Matej		0	1911,3635,3636
+3324	Polak Matej r. Polak		0	2356
+3324	POLAK Pavel		0	2263
+3324	POLAK Robert		0	3139
+3324	POLAK Stefan		0	1824,1911,1934,2304,3139,3635,3636
+3324	Polak Stefan r. Polak		0	1956,2356
+3324	POLAK Tomas	Stup	0	2642
+3324	POLAK Vendel	Vys. 322	0	2558
+3324	POLAK Vendelin		0	3139
+3324	Polák Vendelin r. Polák	Vys.322	0	1635
+3324	Poláková Amália r. Ščepánová	m.Ignác	0	4248
+3324	POLAKOVA Anna	Kralova	0	2131
+3324	Poláková Anna	Vys.217	0	1636
+3324	POLAKOVA Frantiska	*	0	1528
+3324	POLAKOVA Johanna	Malinovska	0	1316,1317,1824,3139
+3324	Polaková Jozefina r. Antalova		0	3315
+3324	POLAKOVA Julia	Grunska	0	1824
+3324	Poláková Júlia	Vys.*	0	2560
+3324	POLAKOVA Katarina	Nespalova	0	1316,1317,1824,1941
+3324	POLAKOVA Katarina	Stepanova	0	2315
+3324	POLAKOVA Katarina	Vys. 141	0	1817
+3324	POLAKOVA Katarina	Vys. 164	0	2464
+3324	Poláková Katarina	Vys.164	0	1742,4558
+3324	Poláková Katarína r. Nespalova		0	1472,1835,3444
+3324	Poláková Katarína r. Nespalová	D z r.1932	0	4248
+3324	POLAKOVA Katerina	Benesova	0	3139
+3324	POLAKOVA Maria	Gabrisova	0	3139
+3324	Poláková Mária r. Frislovičová	m.Karol	0	4201
+3324	POLAKOVA Rozalia	Ondrejkova	0	3139
+3324	POLAKOVA Rozalia	Stup	0	2642
+3324	POLAKOVA Rozalia	Vys. 313	0	1822
+3324	POLAKOVA Rozalia	Vys. 5	0	2475
+3324	POLAKOVA Rozalia	Vys.5	0	1622
+3324	POLAKOVA Terezia	Basova	0	1824
+3324	Poláková Terézia		0	1445,1824,1886,4601
+3324	Poláková Žofia r. Nováková	m. Ján	0	4248
+3324	POLLAK Frantisek		0	2358
+3324	POLLAK Ignac		0	2358
+3324	POLLAK Jan		0	1316,1317
+3324	Pollák Ján	m. Anna r.Králová	0	4248
+3324	POLLAK Jozef		0	2263
+3324	POLLAK Lajos		0	1316,1317,1502
+3324	POLLAK Ludovit		0	1824,2269,2304
+3324	Pollák Ľudovít	rd.Jozef a Amália r.Bencová	0	4206,4248
+3324	Pollak Matej r. Pollak		0	1956,2356
+3324	POLLAK Pavel		0	2263
+3324	POLLAK Peter		0	1825,1843,2123,2258
+3324	Pollák Peter	rd.František a Eva r.Dvoráková	0	80,4186
+3324	POLLAK Vendel		0	2316
+3324	POLLAK Vendelin		0	1316,1317,1824
+3324	Pollák Vendelín	zomrel 30.8.1990	0	4248
+3324	Polláková Anna r. Králová		0	4206
+3324	POLLAKOVA Antonia	Snajdlenkova	0	2263
+3324	Polláková Eva r. Dvoráková	m.František	0	80,4186
+3324	Pollakova Frantiska	Bystr. 60	0	3018
+3324	POLLAKOVA Janka	Malinovska	0	1316,1317,1824
+3324	Polláková Janka r. Malinovská	m. Vendelín	0	4248
+3324	POLLAKOVA Julia		0	1825,1843
+3324	Polláková Katarína	rd.František a Eva r.Dvoráková	0	80,4186
+3324	POLLAKOVA Maria		0	2383
+3324	POLYEROVA Anna	Novoveska	0	1349
+3324	POSPISOVA Helena	Bystr. 267	0	3019
+3324	POZGAY Rudolf	Bystr. 190	0	2962
+3324	POZGAYOVA Rozalia	Bystr. 190	0	2962
+3324	PRASCAIOVA Julia	Dvoranova	0	1825
+3324	Prascaitsová Júlia r. Dvoranová		0	55
+3324	Prokes Barbora		0	1527
+3324	PROKES Bohumil		0	2284
+3324	Prokes Bohumil r. Prokes		0	2117
+3324	PROKESOVA Barbara	Dvoranova	0	1825
+3324	PROKOP Johanna		0	2127
+3324	PROKOP Jozef		0	1359,1833,3994
+3324	PROSNAK Emerich	Stup. 142	0	2653
+3324	PROSNAK Josef	Stup. 203	0	2641
+3324	PROSNAK Matej	Stup. 258	0	2897
+3324	PROSNAK Stefan	Stup. 58	0	2609
+3324	PROSNAKOVA Eva	Stup. 58	0	2609
+3324	PROSNAKOVA Katerina	Stup. 203	0	2641
+3324	PROSNAKOVA Maria	Stup. 258	0	2897
+3324	PSENICOVA Julia	Horinkova	0	1316,1317,1824
+3324	Psenicová Julia r. Horinkova		0	1967
+3324	Pšenicová Júlia r. Horinková	prv vydatá Ščepánová	0	4248
+3324	PUSKAC Frantisek		0	1449,1824,2367,3139
+3324	PUSKAC Jan		0	1860,1926,3851
+3324	PUSKAC Jan	Mast 65	0	3077
+3324	PUSKAC Karol	Vys. 68	0	2404
+3324	PUSKAC Michal		0	1825
+3324	PUSKACOVA Alzbeta		0	1824
+3324	PUSKACOVA Anna		0	1896,2004
+3324	PUSKACOVA Anna	Vys. 68	0	2404
+3324	PUSKACOVA Frantiska	Ivanicova	0	1449,1824,2389
+3324	PUSKACOVA Hermina		0	1860,1926,3851
+3324	PUSKACOVA Maria	Lipova	0	1987,2164
+3324	PUSKACOVA Maria	Mast 65	0	3077
+3324	RAC Alex		0	3197,3198,3249,3948
+3324	Rác Alex	m.Anna r.Hunkovičová	0	1055
+3324	RAC Frantisek	Bystr. 246	0	2960
+3324	RAC Imrich	Bystr. 31	0	2961
+3324	RAC Jan	Bystr. 39	0	2976
+3324	RAC Jan	Stup. 258	0	2865
+3324	RAC Stefan	Bystr. 276	0	2959
+3324	RAC Vendelin	Stup. 158	0	2873
+3324	RACOVA Anna	Hunkanicova	0	3249,3948
+3324	RACOVA Anna	Hurbanicova	0	3197,3198
+3324	Rácová Anna r. Hunkovičová	m.Alex	0	1055
+3324	RACOVA Juliana	Stup. 258	0	2865
+3324	RACOVA Maria	Bystr. 39	0	2976
+3324	RACOVA Maria	Stup. 158	0	2873
+3324	RACOVA Pavlina	Bystr. 246	0	2960
+3324	RACOVA Rozalia	Bystr. 39	0	2976
+3324	RADOVIC Jan		0	2251
+3324	RADOVICOVA Maria	Peskova	0	2251
+3324	Recká Mária r. Ofčarovičová		0	55,4185
+3324	RESEKOVA Emilia	Gabrisova	0	1824
+3324	Reseková Emília r. Gabrišová	rd.Jozef a Mária r.Mikulášková	0	4227
+3324	REZNA Maria	Orthova	0	3139
+3324	REZNY Frantisek		0	2358,3139
+3324	RIBAR Jan	Zohor 465	0	2830
+3324	RIBAR Jozef	Zohor 264	0	2843
+3324	RIBAROVA Dorena	Zohor 465	0	2830
+3324	RIBAROVA Dorota	Zohor 264	0	2843
+3324	RIBAROVA Frantiska	Zohor 283	0	2553
+3324	Ribarová Frantiska	Mast 35	0	3072
+3324	Ričovská Štefánia r. Fatyková	m.Augustín	0	4215
+3324	Ričovský Augustín	m.Štefánia r.Fatyková	0	4215
+3324	Ríha Ferdinand	m.Ernestína r.Hašiková	0	4178
+3324	Ríhová Ernestína r. Hašiková	m.Ferdinand	0	4178
+3324	Rímskokatolícka Farnost		0	4248
+3324	RINGL Bernard		0	2116
+3324	RISKOVIC Stefan		0	1316,1317,1824
+3324	RISKOVICOVA Alojzia		0	1316
+3324	Riškovič Štefan	zomrel 29.10.1978	0	4248
+3324	RYBAR Alojz		0	3139
+3324	Rybár Anna		0	1621,4492
+3324	RYBAR Ferdinand		0	3201
+3324	Rybár František	zomrel 26.1.1984	0	3499
+3324	Rybár Hyacint	malol. rd.Ján, D715/49	0	4248
+3324	RYBAR Ignac	Vys. 192	0	1740
+3324	Rybár Ignac r. Rybár		0	1621,4492
+3324	Rybár Ján	m.Mária r.Kopčová	0	4169
+3324	RYBAR Jozef	Zohor 264	0	2852
+3324	RYBAR Juraj	Zohor 309	0	3190
+3324	RYBAR Karel		0	2853
+3324	Rybár Martin r. Rybár		0	3202
+3324	RYBAR Robert		0	3139,3323,4425
+3324	Rybár Robert r. Rybár		0	3202
+3324	RYBAR Stefan		0	3323,4425
+3324	RYBAR Stefan	Vys.295	0	1623,2555
+3324	Rybár Stefan r. Rybár		0	3202
+3324	Rybár Štefan	rd.Juraj a Amália r. Mundoková	0	4248
+3324	RYBAROVA Agnesa	Zohor 309	0	3190
+3324	Rybárová Alžbeta r. Lokayová	č.d.6579/1944	0	4175
+3324	RYBAROVA Anastazia		0	2853
+3324	RYBAROVA Anna		0	3139
+3324	RYBAROVA Anna	Karovicova	0	3201
+3324	RYBAROVA Anna	Markovicova	0	3139
+3324	RYBAROVA Anna	Vys. 192	0	1740
+3324	RYBAROVA Dorena	Zohor 264	0	2852
+3324	RYBAROVA Frantiska	Balazova	0	3323,4425
+3324	RYBAROVA Frantiska	Loz. 106	0	2733
+3324	Rybárová Helena r. Sentgaliova		0	2105,2351
+3324	Rybárová Helena r. Szentgályová	zomrela 6.10.1983	0	3499
+3324	Rybárová Ľudmila	malol. rd.Ján, D715/49	0	4248
+3324	RYBAROVA Maria		0	1382,1824
+3324	RYBAROVA Maria	Gabrisova	0	1844,2381
+3324	RYBAROVA Maria	Kopcova	0	1824,3139
+3324	RYBAROVA Maria	Vys. 295	0	2555
+3324	Rybárová Mária r. Kopčová	zomrela 6.7.1974	0	4169
+3324	RYBOVA Anna	Cerna	0	1316,1317,1824,2019
+3324	Rybová Anna r. Černá	rd.Štefan a Rozália r.Nespalová	0	4165,4248
+3324	SABLICA Alojz		0	2002
+3324	SABLICA Frantisek		0	1825
+3324	SABLICA Jan		0	3196,3203
+3324	SABLICA Martin		0	3196,3203
+3324	SABLICOVA Anna	Drahosova	0	3269
+3324	SABLICOVA Julia	Loz. 268	0	2744
+3324	SABLICOVA Terezia	Klasova	0	1825
+3324	SABLICOVA Terezia	Kucerova	0	2002
+3324	Sabo Jan	Mast 47	0	3068
+3324	SABOL Alois	Zohor 187	0	2832
+3324	SABOL Frantisek	Zohor 40	0	2829
+3324	SABOL Ignac	Stup. 52	0	2878
+3324	SABOL Ignac	Zohor 433	0	3150
+3324	SABOL Jakub	Zohor 213	0	2836
+3324	SABOL Jozef	Zohor 272	0	2831
+3324	SABOL Michal	Zohor 187	0	2832
+3324	SABOL Stefan	Zohor 213	0	2574
+3324	SABOL Stefan	Zohor 426	0	2499
+3324	SABOL Tomas	Zohor 187	0	2832
+3324	SABOLOVA Anastazia	Zohor 187	0	2832
+3324	SABOLOVA Anastazia	Zohor 40	0	2829
+3324	SABOLOVA Anna	Zohor 213	0	2836
+3324	SABOLOVA Apolena	Zohor 213	0	2574
+3324	SABOLOVA Johana	Zohor 272	0	2831
+3324	SABOLOVA Katarina	Zohor 426	0	2499
+3324	SABOLOVA Terezia	Stup. 52	0	2878
+3324	SABOVA Maria	Dujnicova	0	3278
+3324	Sabová Maria	Mast 47	0	3068
+3324	SABOVA Rozalia	Mast 76	0	3050
+3324	SAJAN Alexander		0	3253
+3324	SAJAN Anton		0	3258
+3324	SAJAN Jan	Loz. 142	0	2764
+3324	SAJAN Jozef	Mast 51	0	3052
+3324	SAJAN Stefan	Bystr. 38	0	3011

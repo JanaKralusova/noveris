@@ -1,0 +1,256 @@
+3162	Kotora Marek		0	1067
+3162	Kotorová Justina r. Lacková		0	992
+3162	Kotorová Mária r. Horniačeková		0	454
+3162	Kotorová Mária r. Horniačková		0	1102
+3162	Kováčik Ján		0	509,680,681,1196
+3162	Kováčik Jozef		0	681
+3162	Kováčik Marek		0	680,681,1196
+3162	Kováčik Milan		0	681
+3162	Kováčiková Mária r. Hlóšková		0	970
+3162	Kováčiková Mária r. Kováčiková		0	680,681,1196
+3162	Kozmáli Štefan		0	484
+3162	Kúdelová Anna r. Bátovská		0	1107
+3162	Kúdelová Helena r. Siekelová		0	1057,1097
+3162	Kunová Mária r. Sikelová		0	1059,1124
+3162	Kvauková Paulína r. Kotorová		0	989
+3162	Lelovská Rozália r. Kováčiková		0	680,1196
+3162	Lukáčová Anna r. Žiaková		0	1054,1144
+3162	Maďar Jozef		0	1139
+3162	Majeríková Rozália r. Janíková		0	1040
+3162	Majtánová Júlia r. Povrazníková		0	436
+3162	Melicherová Anna r. Valchovičová		0	1042
+3162	Mikulais Jozef		0	645
+3162	Mikulais Jozef	Syn Lukáča	0	926,962,981
+3162	Mikulais Jozef	ž.A.Čabáková	0	1120
+3162	Mikulais Michal		0	645
+3162	Mikulaisová Anna r. Čabáková		0	1120
+3162	Mikulajsová Anna r. Havranová		0	1114
+3162	Mikulajsová Mária r. Hríbiková		0	926,962,981
+3162	Mrázová Júlia r. Pastierová		0	662
+3162	Mucha Vojtech		0	925
+3162	Murániová Alžbeta r. Kinčoková		0	1099
+3162	Muuk Ladislav		0	997
+3162	Obiczká Mária r. Bátovská		0	1002
+3162	Ondruš Ján		0	1012
+3162	Ondruška Michal	ž.J.Šebová	0	1012
+3162	Oravecová Anna r. Jančová		0	766
+3162	Oravecová Mária		0	765
+3162	Páleník Filip		0	667,674,814
+3162	Páleník Jozef		0	667
+3162	Páleník Karol		0	674
+3162	Páleník Michal		0	619
+3162	Páleníková Katarína r. Horniačeková		0	1123
+3162	Páleníková Mária r. Bohunická		0	486,574,584,674,831,832,1288
+3162	Palkovičová Anna r. Bohunická		0	486,584,831,832
+3162	Pastierová Mária r. Tarišková		0	490,613,1230
+3162	Petrík Jozef	ž.V.Horniaková	0	1043
+3162	Petrík Karol	ž.M.Leginová	0	1137
+3162	Petríková Terézia r. Ulmáková		0	972
+3162	Povrazník František		0	436
+3162	Povrazník František	Syn Michala	0	1017
+3162	Povrazník Ján		0	436
+3162	Povrazník Ján	Syn Michala	0	1017
+3162	Povrazník Michal		0	436
+3162	Povrazník Michal	Syn Michala	0	1017
+3162	Puskailerová Mária r. Hlôšková		0	706
+3162	Pustay Štefan	ž.T.Šumeráková	0	1004
+3162	Pustayová Terézia r. Šumeráková		0	1004
+3162	Selka Michal		0	589,590,591,592
+3162	Selka Urban		0	589,590,591,592
+3162	Senciová Rozália		0	960
+3162	Senciová Rozália r. Hríbiková		0	668,937
+3162	Senešová Rozália r. Nichtová		0	1086
+3162	Siekela Štefan	ž.P.Ižoldová	0	965,1126,1138
+3162	Sikela Anton		0	1099
+3162	Sikela Ján	ž.A.Trnkusová	0	1035
+3162	Sikela Karol	ž.H.Chlebová	0	976,1124
+3162	Sikela Lukáč		0	829
+3162	Sikela Marek		0	719
+3162	Sikela Michal	ž.K.Trnkusová	0	977
+3162	Síkela Štefan		0	816,1229
+3162	Síkeľa Viliam		0	1100
+3162	Sikelová Juliana r. Brumlovská		0	903
+3162	Sikelová Mária r. Povrazníková		0	436,999,1017
+3162	Sliacká Anna r. Šebová		0	472
+3162	SLIACKA ANNA R.SEBOVA		0	1268
+3162	Slušná Mária r. Kinčoková		0	1092
+3162	Slušná Mária r. Múčková		0	1121
+3162	Smatanová Mária r. Síkelová		0	964,1124
+3162	Struhár Jozef		0	35
+3162	Szikela Lukáč		0	903
+3162	Szilárd Samuel, Dr.		0	655
+3162	Šalaváry Anton r. Šalaváry		0	540
+3162	Šebo Anton		0	472,1268
+3162	Šebo Filip		0	472,1268
+3162	Šebo Michal		0	472,1268
+3162	Šebová Helena r. Selková		0	589,590,591,592
+3162	Šebová Mária r. Jančová		0	753
+3162	Števko Lukáč	ž.K.Šalaváriová	0	1045
+3162	Šumeraj Lukáč		0	703,704,925
+3162	Šumerajová Júlia		0	703,704,925
+3162	Šumerajová Paulína r. Lacková		0	704
+3162	Tariška Anton	ž.R.Hercová	0	931
+3162	Tariška Ján	ž.M.Malá	0	1026
+3162	Tariška Jozef		0	613,1230
+3162	Tariška Július		0	949,996
+3162	Tariška Štefan		0	616,1111
+3162	Tariška Štefan	ž.A.Bátovská	0	1140
+3162	Tariška Štefan	ž.E.Marčeková	0	1027
+3162	Tariška Viliam		0	616
+3162	Tariška Vincent		0	616
+3162	Tarišková Anna r. Kúdelová		0	534
+3162	Tarišková Helena r. Švecová		0	823
+3162	Tarišková Júlia r. Maľová		0	1056
+3162	Tarišková Katarína r. Tarišková		0	996,998
+3162	Tarišková Ľudmila		0	616
+3162	Tarišková Mária r. Malá		0	1056
+3162	Tarišková Rozália r. Trnkusová		0	911
+3162	Trnkus Anton		0	648
+3162	Trnkus Dominik	Syn Jána	0	909,922
+3162	TRNKUS DOMINIK		0	498,522,911
+3162	Trnkus Gabriel		0	1033
+3162	Trnkus Ján	Ž.A.Jančová	0	909
+3162	Trnkus Jozef		0	912
+3162	Trnkus Jozef	ž.B.Jančová	0	1031,1032
+3162	Trnkus Július		0	559
+3162	Trnkus Karol		0	709
+3162	Trnkus Karol	ž.B.Múčková	0	1030,1031
+3162	Trnkus Karol	ž.H.Trnkusová	0	906
+3162	Trnkus Marian		0	1028
+3162	Trnkus Michal		0	1033
+3162	Trnkus Michal	Syn Ernesta	0	1029
+3162	Trnkus Štefan		0	978,993,1018
+3162	Trnkus Vincent		0	1061
+3162	Trnkusová Anna	Dcéra Štefana	0	979
+3162	Trnkusová Antónia		0	1105
+3162	Trnkusová Barbora r. Jančová		0	1071,1072
+3162	Trnkusová Júlia r. Grausová		0	910
+3162	Trnkusová Juliana r. Halabuková		0	906
+3162	Trnkusová Mária r. Horňačeková		0	945,1249
+3162	Trnkusová Mária r. Križanová		0	978,993,994
+3162	Trnkusová Mária r. Trnkusová		0	559
+3162	Trnkusová Terézia		0	908
+3162	Trnkusová Terézia r. Šumerajová		0	558
+3162	Tuhá Anna r. Tarišková		0	1118
+3162	Tušan Ján		0	509
+3162	Tušan Pavel		0	727
+3162	Tušan Pavol		0	1065
+3162	Tušanová Apolónia r. Kotorová		0	1109
+3162	Tušanová Paulína r. Kotorová		0	773
+3162	Uramová Terézia r. Kotorová		0	1023
+3162	Vargová Karolína r. Struhárová		0	957
+3162	Žemlová Karolína r. Kinčoková		0	1038
+3162	Žemlová Karolína r.Kinčeková		0	458,1231
+3163	ABAFFY Imrich		0	415
+3163	ABAFFYOVÁ Mária	r.Bartošová	0	415
+3163	Agardyová Zlatica r. Trnková		0	656
+3163	Andorová Mária r. Hadungová		0	666
+3163	BAČÍK Alexander		0	688
+3163	BAČÍK Ján		0	688
+3163	Bagočiová Estera		0	763
+3163	Bajan Ján r. Bajan		0	925
+3163	Bajan Pavel r. Bajan	manž. Magdaléna rod. Frtusová	0	925
+3163	BAJANOVÁ Eva		0	462,839
+3163	Bajanová Mária r. Bajanová		0	925
+3163	BARTOŠOVÁ Mária	r.Števová	0	415
+3163	BENKOOVÁ Etela r. Halušková		0	415,774
+3163	BEŇO Pavol		0	688
+3163	BEŇOVÁ Judita r. Morvayová		0	688
+3163	BEŇOVÁ Júlia	r.Horniaková	0	688
+3163	BERKEŠ František	zomrel	0	473
+3163	Biela Mária		0	679
+3163	Bohovicová Rozália r. Bendíková		0	928
+3163	CIMROVÁ Mária	r.Mráziková	0	688
+3163	Černáková Júlia r. Korbelová		0	611
+3163	ČIERNA Gizela	r.Holubová	0	740
+3163	Čierna Gizela r. Holubová		0	450,953,1058
+3163	ČIERNY Martin		0	740,953,1058
+3163	ČS - v správe MNV V Krškany		0	923
+3163	Drdoš Ján r. Drdoš		0	920
+3163	Drdoš Martin r. Drdoš	mladší	0	920
+3163	Duba Štefan		0	763
+3163	DUCHINSKÁ Zuzana r. Mrázová		0	688
+3163	ĎURIŠ Anton	ž.Anna r.Lomjanska	0	462
+3163	ĎURIŠ ANTON		0	839
+3163	ĎURIŠ Ladislav		0	462,839
+3163	ĎURIŠOVÁ Estera	r.Mokošová	0	444,458
+3163	ĎURIŠOVÁ Júlia	r.Trnková	0	1047
+3163	Ďurišová Júlia r. Bendíková		0	927
+3163	Ďurišová Júlia r. Trnková		0	417,418,419
+3163	Ďurišová Júlia r. Truková		0	930
+3163	Ďurišová Mária r. Trnková	manž. Ladislav	0	930
+3163	ĎURIŠOVÁ Terézia	r.Kollárová	0	458
+3163	DVORSKÁ Emília	r.Schvarzová	0	688
+3163	DVORSKÁ Gizela	r.Schvarzová	0	688
+3163	FORGÁČ Karol		0	473
+3163	FORGÁČOVÁ Mária	r.Koniarová	0	473
+3163	Furješová Anna r. Turčanová		0	607
+3163	GUBÍK Ludovít		0	461
+3163	Haďunda Viliam r. Haďunda		0	939
+3163	Haďunga Jozef r. Haďunga		0	937
+3163	HAĎUNGA Viliam		0	662,665,910
+3163	HAĎUNGA Vojtech		0	662,665,669,910
+3163	HAĎUNGOVÁ Vilma		0	662,665,910
+3163	Haďungová Vilma r. Janáčová		0	937
+3163	HALUŠKA Ján	ž.Anna r.Zacharová	0	415
+3163	HALUŠKA Ladislav		0	415,787
+3163	HOLUBÍKOVÁ Jolana	r.Rusková	0	473
+3163	HOMOLA Pavel	ž.Magdaléna r.Horniaková	0	688
+3163	HOMOLA Štefan		0	688
+3163	HOMOLOVÁ Mária r. Štefáneková		0	688
+3163	Horňák Ján		0	652
+3163	HORŇÁK Pavel		0	462,620,839
+3163	HORŇÁK Pavol		0	484,610,652,653,887,1015,1082
+3163	HORŇÁK Štefan		0	462,484,839
+3163	Horniak Ján		0	793
+3163	Horniaková Juliana r. Petrášová		0	639
+3163	Horniaková Paulína r. Cibulková		0	793
+3163	HUBENÁK Štefan	ž.Amália r.Záhorská	0	688
+3163	HUBENÁKOVÁ Amália	r.Záhorská	0	688
+3163	HUBENÁKOVÁ Gizela		0	688
+3163	HUBENÁKOVÁ Helena		0	688
+3163	Hudoba Ján		0	685
+3163	Hudobová Mária r. Mlynáriková		0	685,686
+3163	IVANEC Jozef		0	727,733,740,953,963,1028,1058,1067
+3163	Ivanecová Anna r. Fifliková		0	498,563,917
+3163	Ivanecová Margita r. Doletinová		0	478,751
+3163	Jančová Mária r. Važanová		0	810
+3163	Karafa Ján		0	301
+3163	KARAFA Ján	ž.Rozália	0	444,458
+3163	Karafa Jozef r. Karafa	manž. Mária rod. Námesná	0	931
+3163	KLIMENTOVÁ Júlia	r.Mráziková	0	688
+3163	Koháriová Júlia r. Šebová		0	601
+3163	Koháry Ondrej r. Koháry		0	921
+3163	KOHÁRYOVÁ Helena	r.Trnková	0	462
+3163	Koháryová Helena r. Trnková	manž. Ján	0	921
+3163	KOHARYOVA HELENA R.TRNKOVA		0	839
+3163	KOHÁRYOVÁ Mária	r.Zorgovská	0	444,458
+3163	KOŠŤOVÁ Rozália	r.Tesáková	0	473
+3163	Košťová Rozália r. Tesáková		0	811
+3163	Kotrusová Mária r. Žapková		0	447,934,1026,1042,1052,1071
+3163	KOVÁČOVÁ Juliana	r.Halušková	0	473
+3163	Koza Michal		0	726
+3163	KRAJNIAKOVÁ Matilda	r.Mokošová	0	444,458
+3163	Krajniaková Matilda r. Mokošová		0	492,528
+3163	Krátka Anna r. Dubasová		0	665,860
+3163	Krátka Anna r. Ďubasová	manž. Ján	0	938
+3163	Krátky Ján		0	665
+3163	Krátky Ján	st	0	860
+3163	Krátky Ján r. Krátky	manž. Anna rod.Ďubasová	0	938
+3163	LEŠKOVÁ Júlia	r.Pomothyová	0	688
+3163	Lešták Juraj		0	687
+3163	Libo Ján		0	498
+3163	LIPTÁK Ladislav	ž.Vilma r.Udvardyová	0	688
+3163	LIPTÁKOVÁ Estera	r.Udvardyová	0	688
+3163	Lomjanská Alžbeta r. Žapková		0	934
+3163	Lomjanská Anna r. Žapková		0	934,935
+3163	Lomjanský Ján		0	644
+3163	Mačaiová Helena		0	758
+3163	MARKOVÁ Elena	r.Schvarzová	0	688
+3163	MAŤO Alexander	ž.Mária r.Ješkovská	0	688
+3163	MAŤO Ondrej	ž.Alžbeta r.Turčanová	0	688
+3163	MAŤOVÁ Mária	r.Ješkovská	0	688
+3163	MAŤOVÁ Mária r. Záhorská		0	688
+3163	MESZÁROSOVÁ Gizela	r.Mráziková	0	688
+3163	MILČÍK Pavol		0	473,809
+3163	MILČÍKOVÁ Mária	r.Lehotská	0	473

@@ -1,0 +1,256 @@
+3003	Gavelda Štefan r. Gavelda	Vujčiak	0	6003
+3003	Genšorová Mária r. Capjaková		0	302
+3003	Geššay František r. Geššay		0	5476
+3003	Geššay Jozef r. Geššay		0	5476
+3003	Gloviak Jozef r. Gloviak		0	5467,5495,5785,5935,5952
+3003	Gnidová Anna r. Drahulová		0	5998
+3003	Gočal Jozef r. Gočal		0	5476
+3003	Gočal Jozef r. Gočal	ž.Jozefína Gaššay	0	663,4122,5047,5467,5495,5937,6667,6780,6781,6853
+3003	Gočál Jozef r. Gočál	mal	0	5796
+3003	Gočál Štefan r. Gočál	mal	0	5796
+3003	Gočalová Jozefína r. Geššayová		0	5476
+3003	Gostík Ján r. Gostík		0	5862
+3003	Gostíková Mária		0	2950
+3003	Greššák František r. Greššák		0	5469
+3003	Grobarčík Karol r. Grobarčík	ml	0	5658
+3003	Grobarčíková Johana	ml	0	5658
+3003	Habovský Jozef r. Habovský		0	5515,6333,6996
+3003	Habovský Štefan r. Habovský		0	5515,6333,6996
+3003	Harvančík Róbert r. Harvančík		0	5553
+3003	Harvančíková Adela r. Blažeková		0	5553
+3003	Haťapková Katarína r. Javoreková		0	5051,5467,5495,5706,5943,6311,6480,6885,6886
+3003	Helis Štefan Jakub r. Helis		0	5467,5495,5540,5915,6400,6401,7117
+3003	Herz Samuel r. Herz		0	5916,6379
+3003	Herzová Anna r. Weinrub		0	5916,6379
+3003	Hladovčák Ján r. Hladovčák		0	5992
+3003	Hladovčáková Anna		0	302
+3003	Hladovčáková Karolína		0	302
+3003	Hladovčáková Verona		0	302
+3003	Hrbča Jozef r. Hrbča		0	5627
+3003	Hrbča Martin r. Hrbča		0	5627
+3003	Hrbča Matej r. Hrbča	mal	0	5627
+3003	Hrbča Peter r. Hrbča		0	5627
+3003	Hrbčová Terézia		0	5627
+3003	Hrbčová Veronika		0	5627
+3003	Chmeňa Jozef r. Chmeňa		0	5997
+3003	Chovancová Johana r. Liššáková		0	2450
+3003	Chovancová Mária r. Sobčáková		0	302
+3003	Chovanec Ján r. Chovanec		0	2450
+3003	Ištok Anton r. Ištok		0	2450
+3003	Ištoková Karolína r. Liššáková		0	2450
+3003	Jaňák Štefan r. Jaňák		0	6008
+3003	Janíčková Mária r. Klimeková		0	5467,5495,5771,5935,5952
+3003	Jankola Jozef r. Jankola		0	5467,5495,5523,5936,6301,6487,6488,6915,7047,7103
+3003	Jankola Štefan r. Jankola	Chraňač	0	5008,5467,5495,5949,5954,6552,6553
+3003	Jankolová Viktória r. Trstenská		0	5510,5809
+3003	Jaššušák Štefan r. Jaššušák		0	863,5467,5495,5915,6400,6401
+3003	Jašura Ignác r. Jašura	Kadaš	0	5990
+3003	Jašura Ján r. Jašura	Kadaš	0	5991
+3003	Jašurová Mária r. Gura		0	5993
+3003	Jašurová Mária r. Noga	Kadaš	0	5991
+3003	Javorek Ignác r. Javorek		0	5051,5467,5495,5706,5943,6311,6480,6885,6886
+3003	Javorek Jozef r. Javorek	ž.Anna Matušiská	0	5051,5467,5495,5706,5943,6311,6480,6885,6886
+3003	Javorek Štefan r. Javorek		0	5051,5467,5495,5706,5943,6311,6480,6885,6886
+3003	Jureková Mária r. Schifferdeckerová		0	5467,5495,5768,5919,5920,6298,6389,6424,6574,6580,6845
+3003	Kadlubová Žofia r. Paneková		0	862,5467,5495,5934,6372,6498,6499,6634,7039,7056
+3003	Kaníková Anna r. Kolejáková		0	5579
+3003	Kapjor Ján r. Kapjor		0	5742
+3003	Karpelová Jozefína		0	5886
+3003	Kasprák František r. Kasprák		0	2450
+3003	Kavuljak Jozef r. Kavuljak		0	6015
+3003	Kijovská Johana		0	545,3924,3925,5467,5495,5661,5937,6249,6667,6780,6781,6853
+3003	Klimeková Veronika r. Jarinová		0	5636
+3003	Kluzeková Žofia r. Šubjaková		0	3384,5467,5495,5805
+3003	Kmeťová Anna r. Dzureková		0	5491
+3003	Knieža Ján r. Knieža		0	5007,5467,5495,5949,5954,6552,6553
+3003	Knieža Štefan r. Knieža		0	5007,5467,5495,5949,5954,6552,6553
+3003	Kolejáková Verona		0	5829
+3003	Kolenová Alojzia r. Štefáneková		0	5566
+3003	Kolodejová Mária r. Kubáňová		0	5575
+3003	Korzeltova Mária r. Gallová		0	4995,5467,5495,5943,6480,6881,6882,6883,6884,6885,6886
+3003	Košťál Ján r. Košťál		0	5622,5624
+3003	Kovalová Verona r. Tisončíková		0	6003
+3003	Krátka Apolónia r. Krátka	r.Kolejáková	0	5735
+3003	Krátka Jozefína r. Krátka	r.Kniežová	0	5007,5467,5495,5949,5954,6552,6553
+3003	Kristofčák Jozef r. Kristofčák		0	5833
+3003	Krišáková Johana r. Bednárová		0	691,4721,5054,5467,5495,5938,6511,6947,6974,6975,6976
+3003	Kružel Ján r. Kružel		0	3841
+3003	Kruželová Johana r. Fedorová		0	3841
+3003	Kružlic Štefan r. Kružlic		0	1540,3438,5467,5495,6294,6801,6802,6803,6829
+3003	Kružlic Viktor r. Kružlic		0	3496,5467,5495,5919,5920,6298,6593,6783
+3003	Kubala Jozef r. Kubala		0	6014
+3003	Kubalová Katarína r. Kuráňová		0	5562
+3003	Kubašeková Mária r. Kulčárová		0	706,4615,4616,5467,5495,5930,6403,6419,6856
+3003	Kubeckerová Mária r. Gočálová		0	663,4122,5047,5467,5495,5937,6667,6780,6781,6853
+3003	Kubiceková Margita r. Šelianová		0	4017,4719,5467,5495,5517,5933,6295,6300,6444,6533,6534,6914
+3003	Kubiková Anna r. Helegdová		0	6002
+3003	Kubinová Margita		0	2845,5361,5362,5363,5465,5466,5554
+3003	Kubinová Mária r. Belláková		0	5536
+3003	Kubjan František r. Kubjan		0	5656
+3003	Kubjanová Apolónia r. Dedinská		0	5576,5656
+3003	Kučera Ján r. Kučera		0	5851
+3003	Kučera Ján r. Kučera	Baruta	0	5636
+3003	Kučera Štefan r. Kučera	Baruta	0	5636
+3003	Kučerová Barútová Mária r. Abafyová		0	5693
+3003	Kuhajda Kardoš Štefan r. Kuhajda Kardoš		0	5687
+3003	Kulčár Štefan r. Kulčár		0	706,4615,4616,5467,5495,5930,6403,6419,6856
+3003	Kulkovska Cecilia r. Kulkovska		0	5361,5362,5363,5465,5466,5554
+3003	Kulkovský Štefan r. Kulkovský		0	5905
+3003	Kumorová Verona		0	5811
+3003	Labošová Terézia r. Štefanidesová		0	573,5826,6065,6066
+3003	Laťáková Anna r. Gaveldová		0	2450
+3003	Laurinec Jozef r. Laurinec		0	5467,5495,5574,5937,6667,6780,6781,6853
+3003	Leny Ján r. Leny		0	5467,5495,5717,5919,5920,6298
+3003	Leny Verona r. Leny		0	5467,5495,5717,5919,5920,6298
+3003	Lepaček Andrej r. Lepaček		0	5715
+3003	Lepaček Jozef r. Lepaček		0	37,5467,5495,5928,5929,5935,5952,6070,6337,6338,6606,6777,6778,6779,6782
+3003	Lepaček Jozef r. Lepaček	ž.Žofia Kniežacká	0	172
+3003	Lepaček Štefan r. Lepaček		0	37,723,724,1544,5467,5495,5928,5929,5935,5952,6070,6088,6089,6252,6253,6337,6338,6468,6606,6777,6778,6779,6782
+3003	Lepáčeková Emília	mal	0	172,721,5467,5495,5921,6344,6345,6346
+3003	Lepačková Verona r. Fitt		0	5715
+3003	Liššák Ignác r. Liššák		0	2450
+3003	Liššák Ján r. Liššák		0	2450
+3003	Liššák Karol r. Liššák		0	2450
+3003	Liššáková Jozefína r. Nováková		0	2450
+3003	Liššová Mária r. Hajoštová		0	302
+3003	Loneková Johana r. Stahuľáková		0	1144
+3003	Lucký Gustav r. Lucký		0	5845
+3003	Lucký Ján r. Lucký		0	5513
+3003	Lucký Martin r. Lucký		0	2441,5845,5846
+3003	Mačor Viktor r. Mačor		0	5877
+3003	Mačorová Mária r. Parižová		0	5877
+3003	Mačorová Rozália r. Javoreková		0	5051,5467,5495,5706,5943,6311,6480,6885,6886
+3003	Mamirová Apolónia		0	4441,4454,5467,5495,5565,5731,5943,6064,6087,6480,6575,6885,6886
+3003	Mamirová Margita r. Šurinová		0	4441,4454,5467,5495,5565,5731,5943,6064,6087,6480,6575,6885,6886
+3003	Mamirová Žofia r. Stankovičová		0	198
+3003	Marek Ľudvik r. Marek		0	5808
+3003	Mária Pilková		0	5465,5466
+3003	Medvecká Mária r. Floreková		0	6011,6013
+3003	Medvecký František r. Medvecký		0	5210,5467,5495,5934,6498,6499,7039
+3003	Mereš Ján r. Mereš	Pašerba	0	5648
+3003	Mišák Ján r. Mišák		0	5642
+3003	Mišáková Ľudmila r. Brnčová		0	5642
+3003	Motýl Ján r. Motýl	Zimerman	0	2326,5560
+3003	Motýl Martin r. Motýl	Záhradník	0	5614
+3003	Motýl Tomáš r. Motýl	Zimerman	0	5560
+3003	Nedeľáková Johana r. Lepišová		0	5637
+3003	Nemček Ján r. Nemček		0	1253,4043,5386,5467,5495,5922,6199,6299,6828
+3003	Nemček Jozef r. Nemček	mal	0	5337,5467,5495,5943,6051,6461,6480,6885,6886
+3003	Nemček Viktor r. Nemček	mal	0	5337,5467,5495,5943,6051,6461,6480,6885,6886
+3003	Nemtušák Jozef r. Nemtušák		0	3841
+3003	Nemtušiak Ján r. Nemtušiak		0	2450,6004
+3003	Nemtušiak Karol r. Nemtušiak		0	6004
+3003	Nemtušiak Štefan r. Nemtušiak		0	6004
+3003	Nemtušiaková Mária	mal	0	6004
+3003	Nogová Mária r. Otrembjaková		0	6001
+3003	Obtulovič František r. Obtulovič		0	5459
+3003	Obtulovičová Mária r. Laurincová		0	5459
+3003	Ondrík Ján r. Ondrík		0	2161
+3003	Pajdušák František r. Pajdušák		0	5674
+3003	Pajdušák Matej r. Pajdušák		0	5619
+3003	Pajkoš Ján r. Pajkoš		0	302,6005
+3003	Pajkoš Michal r. Pajkoš		0	302
+3003	Paldia Jozef r. Paldia		0	5467,5495,5527,5940,6500,6501,6668,6671,6824
+3003	Paldiová Johana		0	5467,5495,5527,5940,6500,6501,6668,6671,6824
+3003	Paldiová Jozefína r. Dedinská		0	5576
+3003	Paldiová Mária		0	5467,5495,5527,5940,6500,6501,6668,6671,6824
+3003	Palider Michal r. Palider		0	5852
+3003	Pallová Paulína r. Paníková		0	2521,5740
+3003	Palová Paulína r. Fábryová		0	5467,5495,5781,5930,6403,6419,6504,6505,6856
+3003	Pánek František r. Pánek		0	2913
+3003	Panek Jozef r. Panek		0	861,862,5467,5495,5915,5934,6372,6400,6401,6498,6499,6634,6762,7039,7056
+3003	Paneková Mária r. Dzureková		0	5680
+3003	Pánik Alojz r. Pánik		0	5590
+3003	Pánik Jozef r. Pánik		0	5878
+3003	Pánik Jozef r. Pánik	Matušov	0	5837
+3003	Pániková Magdaléna r. Čuporáková		0	5878
+3003	Pappová Cecília r. Kniežová		0	5007,5467,5495,5949,5954,6552,6553
+3003	Pardel Karol r. Pardel		0	5994
+3003	Pardel Matej r. Pardel		0	5467,5495
+3003	Pardel Štefan r. Pardel	Brnik	0	5995
+3003	Pardelová Mária r. Laťak-Vak	Brnik	0	5995
+3003	Parec Ján r. Parec		0	5534
+3003	Pariža František r. Pariža		0	5792
+3003	Pariža Jozef r. Pariža	hluchonemý	0	5747
+3003	Paríža Juraj r. Paríža		0	4067,5101,5467,5495,5933,6300,6444,6533,6534,6914
+3003	Pariža Štefan r. Pariža		0	5696
+3003	Pariža Štefan r. Pariža	ž.Mária Králová	0	5808
+3003	Pariža Viktor r. Pariža	Brixa	0	5824
+3003	Parížová Johana		0	4067,5101,5467,5495,5933,6300,6444,6533,6534,6914
+3003	Parížová Mária		0	4067,5101,5467,5495,5933,6300,6444,6533,6534,6914
+3003	Parižová Marta		0	5792
+3003	Parižová Pavlína r. Stareková		0	5467,5495,5551,5917,6297
+3003	Pasciak Ján r. Pasciak		0	302
+3003	Pastvová Gizela r. Sameláková		0	5955
+3003	Paščak Martin r. Paščak	Kobyľak	0	6003
+3003	Paščaková Anna r. Svidroňová	Kobyľak	0	6003
+3003	Patek Ján r. Patek		0	625,5467,5495,5761,5928,5929,5931,5953,6069,6420,6421,6606,6666,6777,6778,6779,6782,6979
+3003	Patek Matej r. Patek	syn Mateja	0	625,5467,5495,5761,5928,5929,5931,5953,6069,6420,6421,6606,6666,6777,6778,6779,6782,6979
+3003	Patek Matej r. Patek	ž.Mária Čaklošová	0	5467,5495,5761,5931,5953,6420,6421,6666,6979
+3003	Pateková Anna		0	625,5467,5495,5761,5928,5929,5931,5953,6069,6420,6421,6606,6666,6777,6778,6779,6782,6979
+3003	Pazureková Mária r. Olesová		0	5867
+3003	Polhorský Martin r. Polhorský		0	4040,5276,5467,5495,5923,5937,6667,6780,6781,6853
+3003	Porubská Štefánia		0	306,1649
+3003	Profusek Štefan r. Profusek		0	198
+3003	Profuseková Apolónia		0	198
+3003	Rabčanjak Ján r. Rabčanjak		0	5999
+3003	Rabčanjak Jozef r. Rabčanjak		0	6000
+3003	Ranostaj František r. Ranostaj		0	5004,5467,5495,5933,6067,6300,6444,6533,6534,6855,6889,6914,6993
+3003	Rečická Anna r. Medvecká		0	5467,5495,5755,5919,5920,6298,6725
+3003	Rehák Martin r. Rehák		0	5853
+3003	Reháková Johana r. Šimalová		0	5390,5467,5495,5589,5934,6471,6498,6499,6843,7039
+3003	Reineltová Rozália r. Trstenská		0	5510
+3003	Revaj Jozef r. Revaj		0	5467,5495,5931,5953,6420,6421,6666
+3003	Revaj Matej r. Revaj		0	4844,5467,5495,5533,5940,6146,6159,6160,6166,6236,6500,6501,6668,6671,6824
+3003	Revajová Mária r. Stankovičová		0	4844,5467,5495,5533,5940,6146,6159,6160,6166,6236,6500,6501,6668,6671,6824
+3003	Romaňáková Mária r. Vrabčeková	Želen	0	5660,5850
+3003	Rombergerová Elena r. Kučerová-Barutová		0	5636
+3003	Rončák Peter r. Rončák		0	477,5754
+3003	Rončáková Paulína		0	477
+3003	Sameláková Emília		0	5769
+3003	Schifferdecker Anton r. Schifferdecker		0	5467,5495,5768,5919,5920,6298,6389,6424,6574,6580,6845
+3003	Schultz Štefan r. Schultz		0	5847
+3003	Smutná Viktória r. Lepačková		0	458,3445,3446,3447,3449,5367,5369,5467,5495,5923,6179
+3003	Sobčák Karol r. Sobčák		0	6010,6013
+3003	Stahuľák Ján r. Stahuľák		0	1144
+3003	Stahuľáková Mária		0	1144
+3003	Stankovič Jozef r. Stankovič		0	198
+3003	Stankovičová Mária r. Parižová		0	5467,5495,5498,5916,5951,6379
+3003	Stankovičová Viktória		0	198
+3003	Starek Anton r. Starek		0	1267,5467,5495,5922,6199,6245,6299,6828
+3003	Starek Viktor r. Starek		0	5606
+3003	Stareková Jozefína r. Furdeková		0	2102,5467,5495,5497,5915,6400,6401
+3003	Stareková Mária r. Kulichová		0	5606
+3003	Steťárová Mária		0	5700
+3003	Stroková Anna r. Benická		0	2091,3489
+3003	Stroková Irena	mal	0	5596
+3003	Šálka Ján r. Šálka a Šálková Anna r. Pačechova		0	5617,5620
+3003	Šálková Irena r. Pavláková		0	5676
+3003	Šefčíková Karolína r. Klimeková		0	5467,5495,5771,5935,5952
+3003	Šelian Ján r. Šelian		0	4017,4719,5467,5495,5517,5933,6295,6300,6444,6533,6534,6914
+3003	Šelian Jozef r. Šelian		0	4017,4719,5467,5495,5517,5933,6295,6300,6444,6533,6534,6914
+3003	Šelian Karol Marta r. Šelian Karol		0	4017,4719,5467,5495,5517,5933,6295,6300,6444,6533,6534,6914
+3003	Šelian Ľudovít r. Šelian		0	4017,4719,5467,5495,5517,5933,6295,6300,6444,6533,6534,6914
+3003	Šelian Vendelín r. Šelian		0	4017,4719,5467,5495,5517,5933,6295,6300,6444,6533,6534,6914
+3003	Šelianová Emma		0	4017,4719,5467,5495,5517,5933,6295,6300,6444,6533,6534,6914
+3003	Šelianová Jozefína		0	4017,4719,5467,5495,5517,5933,6295,6300,6444,6533,6534,6914
+3003	Šelianová Mária		0	4017,4719,5467,5495,5517,5933,6295,6300,6444,6533,6534,6914
+3003	Ševčík Jozef r. Ševčík		0	5770
+3003	Škodoň Ján r. Škodoň		0	2451
+3003	Škodoňová Mária		0	6006
+3003	Škodoňová Mária r. Sobčáková		0	3841,6008
+3003	Škultétyová Júlia r. Kulčárová		0	706,4615,4616,5467,5495,5930,6403,6419,6856
+3003	Šprla Martin r. Šprla		0	5646
+3003	Šprla Štefan r. Šprla		0	5646
+3003	Šprlak Jozef r. Šprlak		0	5467,5495,5714,5921,6344,6345,6346
+3003	Špulierová Mária r. Matejčáková		0	5675
+3003	Šrámek Anton r. Šrámek		0	2384
+3003	Štefánek Alojz r. Štefánek		0	2520,5467,5495,5937,6656,6657,6667,6780,6781,6853
+3003	Štefánek Jozef r. Štefánek		0	2520,5467,5495,5566,5937,6656,6657,6667,6780,6781,6853
+3003	Štefáneková Apolónia		0	2520,5467,5495,5566,5937,6656,6657,6667,6780,6781,6853
+3003	Štefanidesová Alojzia r. Bednárová		0	5655
+3003	Štein Bartolomej r. Štein		0	5467,5495,5752,5936,6301,6487,6488,6915,7047
+3003	Šterbiaková Johana r. Tisončíková		0	5467,5495,5944,5945,6825,6826,6827
+3003	Štrba Anton r. Štrba		0	5648,5650
+3003	Štrbáň Jan r. Štrbáň		0	1253,4043,5386,5467,5495,5922,6199,6299,6828
+3003	Štrbáň Jozef r. Štrbáň		0	1252,3645,5467,5495,5927,6665

@@ -1,0 +1,256 @@
+1203	KIZEK Ján	vrábeľkin	0	1557,4807,4808
+1203	KIZEK Ján	ž.Katarína r.Kizeková	0	1557,4080,4807,4808
+1203	Kizek Jozef	vrábelkin	0	4065,4066,4067,4068,4074,4075
+1203	Kizek Jozef	ž.Katarína r.Svinčiaková	0	4066,4068
+1203	Kizek Jozef	ž.Terézia r.Vrábeľová	0	4065,4067
+1203	KIZEK Jozef		0	1275,1557,4807,4808
+1203	KIZEK Jozef	1	0	1557,4078,4079,4807,4808
+1203	KIZEK Jozef	ml.,vrábeľkin	0	1557,4807,4808
+1203	KIZEK Juraj		0	1557,4807,4808
+1203	Kizek Martin	1	0	4073
+1203	Kizek Martin	2	0	4065,4067
+1203	KIZEK Martin		0	1275,1557,4069,4071,4073,4078,4079,4807,4808
+1203	KIZEK Martin	ž.Katarína r.Račáková	0	1557,4807,4808
+1203	Kizek Ondrej	2	0	4073
+1203	Kizek Ondrej	3	0	4065,4067
+1203	KIZEK Ondrej		0	1275,4074,4075
+1203	KIZEK Ondrej	1	0	1275,1557,4069,4071,4073,4078,4079,4807,4808
+1203	KIZEK Ondrej	4	0	1557,4066,4068,4807,4808
+1203	Kizek Pavel	1	0	4069,4071,4080
+1203	Kizek Pavel	2	0	4078,4079
+1203	KIZEK Pavel		0	1275,1557,4807,4808,4809,4810,4811,4812
+1203	KIZEK Pavol		0	4073
+1203	Kizek Tomáš	1	0	4073
+1203	Kizek Tomáš	2	0	4069,4071
+1203	KIZEK Tomáš		0	1557,4078,4079,4807,4808
+1203	KIZEKOVÁ - Hríbik Katarína r. Svinčáková		0	1557,2354,2355,4064,4807,4808
+1203	KIZEKOVÁ Anna	r.Hošková	0	1557,4807,4808
+1203	KIZEKOVÁ Anna r. Bamburová		0	4016
+1203	KIZEKOVÁ Anna r. Hošková		0	1275,2200,2201,2202,2203
+1203	KIZEKOVÁ Anna r. Pocklanová		0	4084,4085
+1203	KIZEKOVÁ Anna, Hnúšťa, SR		0	1127
+1203	KIZEKOVÁ Helena		0	4084,4085,4086,4087
+1203	KIZEKOVÁ HRÍBIK Katarína r. Svinčáková		0	2739,2740,4063
+1203	Kizeková Katarína r. Račáková	muž Martin	0	4069,4071,4073
+1203	Kizeková Katarína r. Svinčáková	muž Jozef	0	2354,2355,2739,2740,4063,4064,4065,4066,4067,4068
+1203	KIZEKOVÁ Katarína r. Svinčáková		0	1557,4640,4641,4807,4808
+1203	KIZEKOVÁ Katarína r. Svinčáková	Hríbik	0	4640,4641
+1203	KIZEKOVÁ Mária r. Rapčanová		0	4084,4085,4086,4087
+1203	KIZEKOVÁ Terézia		0	4080,4809,4810,4811,4812
+1203	Klamár Ján	kochankin	0	2947
+1203	KLAMÁR Samuel		0	2933
+1203	KLIMENTOVÁ Irena r. Antalová		0	3235
+1203	KOCKA Pavel		0	2328,2329
+1203	KOCKOVÁ Judita r. Brndiarová		0	3233
+1203	KOCKOVÁ Juliana r. Hrušková		0	3005
+1203	KOHN Jozef		1	3592,4303
+1203	Kochan		0	4290
+1203	Kochan Ján	3	0	3692
+1203	Kochan Ján	ž.Zuzana r.Struhárová	0	2622
+1203	KOCHAN Ján		1	3020,3233,3235,4303
+1203	KOCHAN Jozef		0	2170,4730
+1203	KOCHAN Juraj		0	2952,2953
+1203	Kochan Ondrej	mal	0	4223
+1203	KOCHAN Ondrej		0	3233
+1203	Kochan Pavel	ml	0	3020,4290,4303
+1203	KOCHAN Pavel		0	2952,2953,3233,3235,3260,3327,3328,4263
+1203	Kochan Pavol	brádňankin	0	3782
+1203	KOCHAN Pavol		0	3277,3429,3492,3494
+1203	KOCHANOVÁ Judita r. Brndiarová		0	3233
+1203	KOCHANOVÁ Judita r. Dovalová	muž Pavel	0	2952,2953
+1203	KOCHANOVÁ Judita r. Chudicová		0	3235
+1203	KOCHANOVÁ Judita r. Janková		0	3233
+1203	KOCHANOVÁ Judita r. Kamoďová		0	3233
+1203	KOCHANOVÁ Judita r. Lásková		0	3585,3586,3598,3653,3654
+1203	Kochanová Juliana r. Vrbinská	muž Pavel	0	3952
+1203	Kochanová Mária	1	0	2054
+1203	Kochanová Mária	mal	0	4223
+1203	KOCHANOVÁ Mária		0	3697
+1203	KOLESÁR Ján		0	2908
+1203	KOLESÁROVÁ Johana r. Textórisová		0	3235
+1203	KOLESÁROVÁ Zuzana r. Darovná		0	3235
+1203	Komenda Samuel	ž.Helena r.Hrušková	0	3790,3791,4460
+1203	KOMENDA Samuel		0	3080,3082
+1203	Komendová Helena r. Hrušková	muž Samuel	0	4460
+1203	KOMENDOVÁ Helena r. Hrušková		0	3080,3082,3790,3791
+1203	Koniar Ján	hrivnáčkin	0	3458
+1203	KONIAR Ján		0	3479,3600,3603
+1203	KONIAR Ján	ž.Zuzana r.Antalová	0	1390
+1203	KONIAR Juraj		0	3233
+1203	KONIAR Ondrej		0	2314,2315,3233
+1203	Koniar Pavel	2	0	2473,2474
+1203	Koniar Pavel	5	0	3620
+1203	Koniar Pavel	6	0	3620
+1203	KONIAR Pavel		0	3233,3806,4400
+1203	KONIAR Pavel	bútorkin	0	2241
+1203	Koniar Pavol	parobkulin	0	2474
+1203	Koniarová Judita	ihnata	0	3072
+1203	KONIAROVÁ Judita r. Parobeková		0	3098,3233
+1203	KONIAROVÁ Júlia		0	1791
+1203	KONIAROVÁ Juliana r. Antalová		0	2968,2972,3108,3233
+1203	KONIAROVÁ Juliana r. Parobeková		0	2460,2461
+1203	KONIAROVÁ Juliana r. Ulická		0	1791
+1203	KONIAROVÁ Kristína	r.Hrivnáková	0	1614,2197
+1203	KONIAROVÁ Kristína r. Hrivnáková		0	2444,2445,3233
+1203	Koniarová Mária	ihnata	0	3072
+1203	Koniarová Mária	vd.r.Ďurišová/muž Pavel	0	4354,4425
+1203	Koniarová Mária r. Ďurišová	muž Pavel	0	2635,2921
+1203	KONIAROVÁ Mária r. Ďurišová		0	3622,4688
+1203	KONIAROVÁ Mária r. Zvarová		0	2471,3532
+1203	KONIAROVÁ Zuzana r. Antalová		0	3600,3603
+1203	KONIAROVÁ Zuzana r. Antalová	muž Ján	0	1390
+1203	KONIAROVÁ Zuzana r. Bálintová	muž Ján	0	1390
+1203	KOREŇOVÁ Helena	r.Lichancová	0	2156
+1203	KOŠÚTH Ján		0	3180,3181,3258,3259
+1203	KOŠÚTHOVÁ Judita r. Hrivňáková		0	3235
+1203	KOŠÚTHOVÁ Pavlína r. Lázárová		0	3258,3259
+1203	Kotáková Zuzana r. Boholyová	muž Ambruš	0	3986,3990
+1203	Kováč Ján	1; 1	0	4416
+1203	KOVÁČ Ján		1	2916,2929,3233,4230
+1203	Kováč Jozef	r.Mária r.Doračková	0	3027,3028
+1203	Kováč Michal	ž.Juliana r.Lichancová	0	3106
+1203	KOVÁČ Michal		0	3235
+1203	Kováč Pavel		1	4230
+1203	Kováčik Ján	1	0	2170
+1203	Kováčik Ján	2	0	2202,2203
+1203	Kováčik Ján	4	0	2239,3427
+1203	KOVÁČIK Ján		0	2994,3233,3235,3290,3420,3544,3549,3878,3880,4443,4730
+1203	KOVÁČIK Ján	5	0	1557,4807,4808
+1203	Kováčik Jozef	3	0	2476
+1203	KOVÁČIK Jozef		0	1744
+1203	KOVÁČIK Jozef	1	0	2202,2203
+1203	KOVÁČIK Jozef	2	0	1557,2202,2203,4807,4808
+1203	KOVÁČIK Jozef	5	0	1557,4807,4808
+1203	KOVÁČIK Pavol	bálintkin syn	0	1773
+1203	KOVÁČIK Samuel		0	1380,3235
+1203	KOVÁČIKOVÁ Elena		0	2239,2994,3233,3235,3290,3420,3427,3544,3549,3878,3880
+1203	Kováčiková Emília r. Karabínošová		0	4337
+1203	Kováčiková Irena		0	79
+1203	KOVÁČIKOVÁ Mária r. Benediková	muž Ján	0	1799,5110
+1203	KOVÁČIKOVÁ Mária r. Kožiaková		0	1744
+1203	Kováčiková Mária r. Porubiaková	muž Štefan	0	2476
+1203	KOVÁČIKOVÁ Zuzana r. Karabinošová		0	2960
+1203	KOVÁČIKOVÁ Zuzana r. Murtinová		0	3235
+1203	Kováčová Elena r. Lichancová	muž Matej	0	4464
+1203	Kováčová Helena r. Lichancová	muž Matej	0	3216
+1203	KOVÁČOVÁ Helena r. Lichancová		0	2936,3233
+1203	Kováčová Juliana r. Lichancová	muž Michal/Kováčová	0	4464
+1203	KOVÁČOVÁ Juliana r. Lichancová		0	2936,3216,3233
+1203	Kováčová Juliana r. Slatinská	muž František	0	4288,4289
+1203	KOVÁČOVÁ Juliana r. Slatinská		0	1528
+1203	KOVÁČOVÁ Mária r. Brndiarová		0	2916,3233,4416
+1203	KOVÁČOVÁ Mária r. Doračková		0	3027,3028
+1203	KOVÁČOVÁ Mária r. Kundrová		0	2933
+1203	Kováčová Viera	zomrela,vyd.Pirníková	0	4288,4289
+1203	KOVÁČOVÁ Viera		0	1528
+1203	KOVÁČOVÁ Zuzana r. Brndiarová	muž Ondrej	0	3530
+1203	KOVÁČOVÁ Zuzana r. Parobeková		0	3098,3233
+1203	KOŽIAK Ján		0	2791,3342
+1203	KOŽIAK Martin		0	3408
+1203	Kožiak Ondrej	2	0	3342
+1203	KOŽIAK Ondrej		0	2791
+1203	KOŽIAK Pavel		0	2791,3342
+1203	Kožiak Štefan	ž.Zuzana r.Antalová	0	1799,5110
+1203	KOŽIAKOVÁ Anna	r.Vetráková /muž Martin/	0	1557,4807,4808
+1203	KOŽIAKOVÁ Judita r. Ulická		0	3534
+1203	KOŽIAKOVÁ Júlia r. Ulická		0	2991,3235,3405,3408,3536,3537
+1203	KOŽIAKOVÁ Mária		0	2791,3342
+1203	Kožiaková Zuzana	1	0	3342
+1203	KOŽIAKOVÁ Zuzana		0	2791
+1203	Kožiaková Zuzana r. Stolárová	zom.9.1.1988	0	880
+1203	KOŽIAKOVÁ Zuzana r. Stolárová		0	3233
+1203	Krémer Ignác		1	4303
+1203	KRIŠKOVÁ Zuzana r. Parobeková		0	2791,3342
+1203	KRIŠTOFÍK Ján		0	3233
+1203	KRIŠTOFÍKOVÁ Mária r. Ostricová		0	3233
+1203	Krivoš Martin	ž.Zuzana r.Kováčiková	0	2722,2723
+1203	KRIVOŠ Martin		0	3233,3583
+1203	KRIVOŠOVÁ Zuzana r. Kováčiková		0	2722,2723,3583
+1203	KUBALIAK Pavel		0	2395,2396
+1203	Kubaliak Štefan	1	0	4014
+1203	Kubaliak Štefan	2	0	4014
+1203	KUBALIAK Štefan		0	4014,4588
+1203	KUBINA Ján		0	3279
+1203	KUBÍNYIOVÁ Anna		0	1632,3233
+1203	KUNDRA Ondrej		1	2933,4218,4558,5167
+1203	Kundra Pavel		1	4331
+1203	KUNDROVÁ Anna		0	2933
+1203	KUNDROVÁ Mária		0	2933
+1203	Kunštárová Katarína r. Ridzoňová	muž Jozef	0	4069,4071
+1203	KUNŠTÁROVÁ Mária	r.Vetráková /muž Ján/	0	1557,4807,4808
+1203	Kunštárová Mária r. Ridzoňová	muž Štefan	0	4060,4061,4063,4064
+1203	KUREKOVÁ Katarína	r.Vetráková /muž Ján/	0	1557,4807,4808
+1203	KUTLIAK Štefan		0	1506,1649
+1203	Kyseľ Michal	ž.Júlia r.Ridzoňová	0	3420
+1203	KYSEĽOVÁ Júlia r. Ridzoňová		0	3420
+1203	KYSEĽOVÁ Zuzana r. Ďuríková	zomr 29.08.1990	0	4277
+1203	KYSEĽOVÁ Zuzana r. Ďuríková	zomr. 29.08.1990	0	4249,4435
+1203	KYZEK Ján		0	1557,4807,4808
+1203	KYZEK Jozef		0	1557,4807,4808
+1203	KYZEK Jozef	vrábeľkin	0	1557,4066,4068,4074,4075,4807,4808
+1203	KYZEK Martin		0	1557,4807,4808
+1203	KYZEK Pavel		0	1557,4807,4808
+1203	LACKO Ján r. Lacko, Ing a Marta LACKOVÁ		0	652
+1203	Lámer Ján	ž.Mária r.Laudárová	0	3128
+1203	LÁMER Ján		1	3233,3235,4336
+1203	LÁMER Ondrej		0	3233
+1203	LÁMEROVÁ Júlia r. Hrušková		0	3233
+1203	LÁMEROVÁ Mária r. Trnavská	muž Pavel	0	2340,2341
+1203	LANG Michal		0	1927,3233
+1203	LANG Pavel		0	2757,3233
+1203	LÁSKA Daniel		0	3586,3593,3594,3596,3598
+1203	Láska Ján	14	0	3117
+1203	Láska Ján	16	0	4022
+1203	Láska Ján	22	0	2282,2296,2300,2304,4124,4125
+1203	Láska Ján	5	0	2414,2415
+1203	LÁSKA Ján		0	1645,1647,2945,2946,3020,3021,3022,3084,3233,3235,3246,3511,3512,3513,3514,3515,3516,3517,3538,3650,4290,4392,4413,4542,4557,4933,4934,4935,4948,4949,5086
+1203	LÁSKA Ján	trnavkin	0	1378,4027,4028,4235
+1203	LÁSKA Július		0	3171
+1203	LÁSKA Juraj		0	3586,3593,3594,3596,3598
+1203	LÁSKA Matej		0	3593,3594,3598,4392
+1203	Láska Michal	4	0	1610,4767
+1203	LÁSKA Michal		0	3095,3096,3233,3235,3586,3593,3594,3596,3598,4479,4768
+1203	Láska Ondrej		1	2148,2414,2415,2988,3171,3233,3235,3538,3586,3593,3594,3596,3598
+1203	Láska Ondrej	2	0	2414,2415
+1203	Láska Ondrej	5	0	2295
+1203	Láska Ondrej	piaterkin	0	2295,2303
+1203	LÁSKA Ondrej	bálintkin	0	1702,2148
+1203	Láska Pavel	balciarkin	0	2945,2946,3021,3246
+1203	Láska Pavel	kántor	0	4494,4495
+1203	Láska Pavel	mal	0	4290
+1203	Láska Pavel	zachmata	0	3363
+1203	Láska Pavel	ž.Judita r.Kováčová	0	2611,2612
+1203	Láska Pavel	ž.Mária Trnavská	0	3216
+1203	LÁSKA Pavel		0	2945,2946,2973,3020,3021,3095,3233,3235,3499,3517,3560,3586,3593,3594,3596,3598,3621,3650
+1203	LÁSKA Pavol		0	3246,3517
+1203	LÁSKA Samuel		0	2945,2946,3021,3171,3246,3517,3650
+1203	LÁSKA Vladimír		0	3117,3235
+1203	LÁSKOVÁ Anna	r.Vlčeková	0	1557,4807,4808
+1203	LÁSKOVÁ Emília		0	3171
+1203	Lásková Johana	Janka	0	3020
+1203	LÁSKOVÁ Johana		0	2945,2946,3021,3233,3235,3246,3517,3650
+1203	LÁSKOVÁ Judita		1	1702,2148,3233
+1203	Lásková Judita r. Balciarová	muž Ondrej	0	2295
+1203	LÁSKOVÁ Judita r. Balciarová		0	3233
+1203	LÁSKOVÁ Judita r. Bencová		0	3233
+1203	LÁSKOVÁ Judita r. Dovalová	muž Pavel	0	3233
+1203	LÁSKOVÁ Judita r. Textórisová	muž Michal	0	3041
+1203	LÁSKOVÁ Júlia		0	3117
+1203	LÁSKOVÁ Júlia r. Zvarová		0	2471,3233
+1203	Lásková Juliana	1	0	4125
+1203	LÁSKOVÁ Juliana		0	3538
+1203	LÁSKOVÁ Juliana r. Hrušková		0	3233
+1203	LÁSKOVÁ Juliana r. Zvarová		0	3532
+1203	Lásková Mária	1	0	2295
+1203	Lásková Mária	mal	0	2148
+1203	LÁSKOVÁ Mária		1	1195,1702,2945,2946,3021,3096,3233,3650,4230
+1203	LÁSKOVÁ Mária r. Antalíková		0	3464
+1203	LÁSKOVÁ Mária r. Antalová		0	3235
+1203	LÁSKOVÁ Mária r. Babicová		1	1195,4230
+1203	LÁSKOVÁ Mária r. Lásková		0	3585,3586,3598
+1203	Lásková Mária r. Lichancová	muž Ján	0	4464
+1203	LÁSKOVÁ Mária r. Lichancová		0	2790
+1203	LÁSKOVÁ Mária r. Miháľová		0	3233,3235
+1203	Lásková Zuzana	vd.,r.Trnavská	0	2340
+1203	LÁSKOVÁ Zuzana		0	2945,2946,3021,3171,3650
+1203	Lásková Zuzana r. Dovalová	muž Ján	0	2910,3363

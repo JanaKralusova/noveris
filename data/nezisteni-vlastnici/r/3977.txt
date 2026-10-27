@@ -1,0 +1,256 @@
+2257	Vlček Ondrej		0	907,1038,1187,1191,1193,1220,1870,1982,1995,2131,2132,2313,2327,2352
+2257	Vlček Ondrej	Chrapek	0	1867,1892,2356
+2257	Vlček Pavol		0	782,805,825,850,903,963,970,977,1087,2059
+2257	Vlček Pavol	Chrapek	0	978,1097,1892,1996,2319,2361
+2257	Vlček Pavol	Jantuš	0	1535
+2257	Vlček Peter		1	673,764,1040
+2257	Vlček Peter	Dátum úmrtia: 17.05.1975	0	1872,2027
+2257	Vlček Peter	Dekrét	0	1316
+2257	Vlček Peter r. Vlček		1	765
+2257	Vlček Róbert		1	522,632,633,634,673,764,765,868,979,989,993,1106,1433,1868
+2257	Vlček Róbert	Jantuš	0	866,910,916,920,957,989,1041,1054,1056,1058,1059,1060,1080,1096,1180,1332,1333,1357,1362,1426,1463,1473,1476,1495,1861,1880,2255,2265,2310
+2257	Vlček Štefan		0	661,662,665,668,850,925,978,985,992,995,1097,1103,1114,1116,1164,1187,1191,1193,1278,1286,1340,1366,1373,1375,1437,1513,1537,1827,1866,1867,1872,1880,1892,1909,1993,1996,2076,2319,2345,2356,2361
+2257	Vlček Štefan	Čučolný	0	1870,1982,1995,2313,2352
+2257	Vlček Štefan	Fraňov	0	1458,1459,1491,1505,1506,1528,2289,2353
+2257	Vlček Štefan	Tadáš	0	962
+2257	Vlček Štefan	Tedáš	0	520,825,826,827,888,905,963,1057,1131,1287,1361,1671
+2257	Vlček Štefan	Tedeáš	0	1941
+2257	Vlček Tomáš		1	632,764,866,868,926,979,989,993,1040,1136,1491,1891,2353
+2257	Vlček Tomáš	Hic; Dátum úmrtia: 21.11.1975	0	1869,1981
+2257	Vlček Tomáš	Jantiš	0	1054
+2257	Vlček Tomáš	Jantuš	0	522,633,634,673,866,910,916,920,957,989,1041,1056,1058,1059,1060,1080,1096,1106,1180,1332,1333,1357,1362,1426,1433,1463,1473,1476,1495,1861,1868,1878,1880,2255,2265,2310
+2257	Vlček Vojtech		0	548,549,614,833,874,907,1189,1300,1480,1537,1928,2037
+2257	Vlček Vojtech	Hic	0	1938
+2257	Vlček Vojtech, Železničná 5, Pohronská Polhora, PSČ 976 56, SR		0	770
+2257	Vlčeková Františka r. Nepšinská		1	1372,2190
+2257	Vlčeková Sabína r. Zajaková		0	1550,1846,1914,2045,2071
+2257	Vlčeková Štefánia	Garbalová	0	1996,2361
+2257	Vlčková Adela		0	920,1041,1056,1058,1059,1060,1080,1096,1332,1357,1362,1426,1473,1476,2255,2265,2310
+2257	Vlčková Adela r. Goceliaková	Dátum úmrtia: 04.02.1987	0	2027
+2257	Vlčková Agnesa		0	979,1456,1868,2131,2132,2325,2327
+2257	Vlčková Agnesa r. Brenkusová		0	1114
+2257	Vlčková Alžbeta r. Kubizniaková	Dátum úmrtia: 04.06.1971	0	1863,1946,1947
+2257	Vlčková Alžbeta r. Vlčková, 985 06, Utekáč, SR		0	1946
+2257	Vlčková Anna		0	673,818,824,957,984,1286,1332,1357
+2257	Vlčková Anna	Po Danielovi	0	979
+2257	Vlčková Anna r. Bolčiaková		0	568,1650
+2257	Vlčková Anna r. Hrnčiariková		0	522,1433
+2257	Vlčková Anna r. Nogová		0	520
+2257	Vlčková Anna r. Smugalová		1	673,764,765,1040,1361,1671
+2257	Vlčková Anna r. Smugalová	Dátum úmrtia: 18.09.1979	0	1868
+2257	Vlčková Anna r. Veverková		0	798,810,855,1460,1473
+2257	Vlčková Anna r. Zajaková		0	548,549,614,831,833,874,907,1038,1077,1126,1189,1220,1231,1480,1537,1550,1846,1914,1928,2037,2045
+2257	Vlčková Berta r. Adámeková		0	864
+2257	Vlčková Berta r. Zajaková		0	809,913,970,1087,1119,1455
+2257	Vlčková Berta r. Zajaková	Dátum úmrtia: 23.03.1971	0	1281,1283,1822
+2257	Vlčková Elena r. Stieranková		0	1300
+2257	Vlčková Emília		0	824,853,867,903,1286,1998
+2257	Vlčková Emília r. Šebová		0	1149,1154,1155
+2257	Vlčková Emília r. Šebová	Dátum úmrtia: 30.10.1980	0	1878
+2257	Vlčková Emma		0	634,910,916,920,989,1041,1054,1056,1058,1059,1060,1080,1096,1180,1333,1357,1362,1426,1463,1473,1476,1495,2255,2265,2310
+2257	Vlčková Eva r. Kurajdová		0	1437
+2257	Vlčková Františka r. Nepšinská		0	964,1018,1370,2189
+2257	Vlčková Irma r. Korytiaková		0	615,628,632,633,635,667,756,791,803,871,874,968,1057,1069,1117,1133,1136,1144,1148,1186,1257,1260,1293,1315,1361,1403,1461,1671,1674,1869,1981,2022,2045,2357
+2257	Vlčková Jana		0	661,662,665,668,809,850,922,925,985,992,995,1114,1116,1286,1366,1373,1375,1513
+2257	Vlčková Jana r. Kofsinová		0	902
+2257	Vlčková Jana r. Korytiaková		0	1462
+2257	Vlčková Johana		0	1827,1909,2025,2060,2076
+2257	Vlčková Johana r. Ridzoňová		0	543,2060
+2257	Vlčková Jolana r. Veselovská		0	1455
+2257	Vlčková Jozefína		0	1455
+2257	Vlčková Júlia r. Nepšinská		0	1999
+2257	Vlčková Júlia r. Peniaková		0	546,950,1153,1157,1162,1382
+2257	Vlčková Júlia r. Stasíková		0	520,894,1029,1121,1140,1285,1287,1357,1360,1376,1432,1457,1483,1823,1848,1903,1904,1989,2034,2044,2071,2076,2296,2323,2346
+2257	Vlčková Júlia r. Vengrínová		0	1910,2076
+2257	Vlčková Júlia r. Vlčková	Dátum úmrtia: 17.04.2002	0	1928,2037
+2257	Vlčková Júlia r. Zajaková		0	1402
+2257	Vlčková Kristína r. Boháčiková		0	546,2056,2299
+2257	Vlčková Kristína r. Goceliaková		0	548,549,844,1044,1246,1272,1480
+2257	Vlčková Kristína r. Hrnčiariková		0	847,1530
+2257	Vlčková Kristína r. Kapajčíková	Dátum úmrtia: 15.04.1995	0	1926,2067
+2257	Vlčková Ľudmila r. Šingerová		1	762,763,881,1057,1149,1361,1671,1941
+2257	Vlčková Magdaléna		0	1550,1846,1914,2045
+2257	Vlčková Margita		0	661,662,782,850,853,992,995,1077,1126,1231,1276,1373,1375,1389,1459,1865
+2257	Vlčková Mária		0	673,818,835,876,958,979,989,1187,1191,1193,1286,1287,1291,1456,1868,1870,1914,1982,1995,2313,2325,2352
+2257	Vlčková Mária	Chrapeková	0	969,1102
+2257	Vlčková Mária	Ondríkova	0	1414,1415
+2257	Vlčková Mária Irena	Ondríková	0	2067
+2257	Vlčková Mária r. Blaženiaková		0	542,621,885,927,1058,1139,1176,1234,1296,1847,1947,2043
+2257	Vlčková Mária r. Dibdiaková		0	1943
+2257	Vlčková Mária r. Dučiaková		0	632,868,993,1891
+2257	Vlčková Mária r. Hrnčiariková		0	751,752,1140,1285,1287,1848,1992,2044,2286,2346
+2257	Vlčková Mária r. Kapajčíková		0	840,1360
+2257	Vlčková Mária r. Mutňanová		0	799,830,833
+2257	Vlčková Mária r. Odelgová		0	1968
+2257	Vlčková Mária r. Ridzoňová		0	857,861,869,910,920,957,1080,1096,1098,1180,1308,2265,2310,2349
+2257	Vlčková Mária r. Ridzoňová	Dátum úmrtia: 22.12.1987	0	1938
+2257	Vlčková Mária r. Smugalová		0	1191,1193,1305
+2257	Vlčková Mária r. Sroková		0	1985
+2257	Vlčková Mária r. Tyčiaková		0	1868,1984
+2257	Vlčková Mária r. Vraniaková		0	798,806,810,1039,1172,1303,1414,1415,1869,1886,2067,2357
+2257	Vlčková Marta r. Adámeková		0	862
+2257	Vlčková Matilda		0	673,818,979,1291
+2257	Vlčková Paulína r. Stachurová	Dátum úmrtia: 15.10.1997	0	1935,1936,2013
+2257	Vlčková Paulína r. Veverková		0	2048
+2257	Vlčková Pavlína		0	795,809,827,888,905,963,1107,1131
+2257	Vlčková Pavlína r. Goceliaková		0	984,1030
+2257	Vlčková Petronela		0	1038
+2257	Vlčková Rozália		0	1187,1191,1193,1437
+2257	Vlčková Rozália r. Šingerová		0	915,978,979,984,1278,1286,1426,1535,1862,1867,1868,1892,1958,1996,2268,2356,2361
+2257	Vlčková Sabína		0	673,952,979,1126
+2257	Vlčková Sabína r. Kurajdová		0	1446
+2257	Vlčková Sabína r. Nepšinská		0	1282
+2257	Vlčková Sabína r. Zajaková		0	1077,1231
+2257	Vlčková Štefánia	Garbalová	0	915,978,979,984,1278,1286,1426,1437,1535,1862,1867,1868,1892,2268,2356
+2257	Vlčková Štefánia	po Jozefovi	0	1187,1191,1193
+2257	Vlčková Štefánia r. Vlčková	Dátum úmrtia: 18.03.2004	0	1868
+2257	Vlčková Valéria		0	1187
+2257	Vlčková Valéria r. Odelgová		0	1207
+2257	Vlčková Verona		0	1868
+2257	Vlčková Veronika		0	979,1456,2131,2132,2325,2327
+2257	Vlčková Zuzana		0	1456,2325
+2257	Vlčková Zuzana r. Nepšinská		0	615,620,662,991,992,1373,1674
+2257	Vlčková Zuzana r. Ovčiarčiková		0	1087,1856
+2257	Vrana Michal		1	764,1143
+2257	Vrana Štefan		0	1145,1146
+2257	Vraniak Adolf		0	620,1205
+2257	Vraniak Adolf	Mišov	0	887,1097,1351,2319
+2257	Vraniak Alexander		0	1190,1851,1901,2017,2033,2051,2298
+2257	Vraniak Alexander	Jáger	0	759,1062
+2257	Vraniak Alexander, 976 56, Pohronská Polhora, SR	jáger	1	2095
+2257	Vraniak Anton		0	800,1502,1628
+2257	Vraniak Anton	Jáger	0	759,881,1062
+2257	Vraniak Anton, 976 56, Pohronská Polhora, SR	jáger	1	2095
+2257	Vraniak Berto	Jáger	0	759,800,881,1062
+2257	Vraniak František		0	2004
+2257	Vraniak Ján		0	543,620,800,858,879,936,1062,1190,1417,1508,1509,1510,1511,1534,1950,2288
+2257	Vraniak Ján	Jáger	0	759,881,1062,1373,1375
+2257	Vraniak Ján	Lapka	0	805,1895,1896
+2257	Vraniak Ján	žen.so Sabínou r.Ridzoňovou	0	2068
+2257	Vraniak Ján, Pohronská Polhora, SR	jáger	1	2095
+2257	Vraniak Jozef		0	2004
+2257	Vraniak Jozef	Dátum úmrtia: 28.04.1999	0	1835,1844,1895,1896
+2257	Vraniak Ladislav		0	924,1190,1354,1501,1502,1526,1529,1530,1531,1626,1627,1628,1629,1851,1901,1950,2033,2051,2298
+2257	Vraniak Michal		0	620
+2257	Vraniak Ondrej		0	1010,1117,1319,1353,1354,1502,1628
+2257	Vraniak Ondrej	Jáger	0	759,881,1062
+2257	Vraniak Ondrej, 976 56, Pohronská Polhora, SR	jáger	1	2095
+2257	Vraniak Štefan		0	800
+2257	Vraniaková	jágerová	1	2095
+2257	Vraniaková Agnesa r. Dučiaková		0	673,916,957,1041,1054,1059,1060,1357,1426,1861,1880,2255
+2257	Vraniaková Anna		0	1629
+2257	Vraniaková Anna	Jágerová	0	759,881,1062
+2257	Vraniaková Anna r. Goceliaková		0	543,936
+2257	Vraniaková Anna r. Nepšinská		0	1235,1373
+2257	Vraniaková Anna r. Vlčeková		0	1524
+2257	Vraniaková Berta r. Jágerová		0	858
+2257	Vraniaková Berta, 976 56, Pohronská Polhora, SR	jágerová	1	2095
+2257	Vraniaková Emília r. Stachurová	Dátum úmrtia: 28.06.1974	0	1851,1901,2017,2033
+2257	Vraniaková Františka		0	781,847,861,869,1405
+2257	Vraniaková Irena		0	620
+2257	Vraniaková Irena r. Veverková		0	800,858
+2257	Vraniaková Jana r. Vraniaková		0	1152,1158,1526,1529,1531,1629
+2257	Vraniaková Johana r. Kubizniaková		0	830,833,907,985,1038,1827,1870,1950,1982,1995,2313,2352
+2257	Vraniaková Johana r. Šebová		0	1895,1896,1940
+2257	Vraniaková Johana r. Veverková		0	887,1097,1205,1351,2319
+2257	Vraniaková Johana r. Vraniaková		0	1190,1851,1901,2017,2033
+2257	Vraniaková Johana r. Zajaková		0	548,876,878,1185,1309,1390
+2257	Vraniaková Jolana r. Šebová		0	1211
+2257	Vraniaková Katarína		0	799
+2257	Vraniaková Katarína r. Peniaková		0	985,1827
+2257	Vraniaková Katarína r. Stasíková		0	1376
+2257	Vraniaková Kristína r. Tyčiaková		0	1864
+2257	Vraniaková Kristína r. Vraniaková		0	1190
+2257	Vraniaková Kristína r. Zajaková		0	548,549,844,1196,1480,1502,1628
+2257	Vraniaková Margita		0	620,1201
+2257	Vraniaková Mária		0	781,845,847,861,869,1415
+2257	Vraniaková Paulína		0	1198,2004
+2257	Vraniaková Paulína r. Medveďová		0	1936
+2257	Vraniaková Paulína r. Vlčková		0	1869,1981,2028,2030,2357
+2257	Vraniaková Pavlína		0	847,861,869
+2257	Vraniaková Pavlína r. Medveďová		0	857,1298
+2257	Vraniaková Pavlína r. Vlčeková		0	759,891,989,994,1062,1240,1242,1246,1247,1270,1271,1434,1438,1450,1672
+2257	Vraniaková Pavlína, 976 56, Pohronská Polhora, SR		1	2095
+2257	Vraniaková Rozália		0	781,847,861,869
+2257	Vraniaková Sabína		0	781,847,861,869,1405
+2257	Vraniaková Sabína r. Ridzoňová		0	1417,2068
+2257	Vranová Anna r. Vlčeková		0	546,754,818,836,838,847,861,869,906,953,965,1039,1248,1451,1467,1520,1522,1529,1531,1575
+2257	Vranová Anna r. Vlčková	Dátum úmrtia: 11.03.1981	0	1869,1886,2053,2056,2059,2357
+2257	Vranová Anna r. Vlčková	Dátum úmrtia: 11.03.1981; Dátum úmrtia: 11.03.1981	0	845
+2257	Vranová Mária r. Telková		0	1356
+2257	Vranová Žofia		0	978
+2257	Weilová Hedviga r. Blumenthálová		0	667,1077,1126,1229,1846,1849,1851,1901,1902,1904,1905,2033,2076
+2257	Zajak Albert		0	544,1339
+2257	Zajak Alexander		0	549,945,1185,1630
+2257	Zajak Anton		0	988
+2257	Zajak Anton	Štepaniak	0	2038
+2257	Zajak Eliáš		0	1048,1181,1405
+2257	Zajak František		0	1527
+2257	Zajak Herman		0	549,823,988,1053,1191,1339,1370,1527,1528,1893,1935,2189,2289
+2257	Zajak Ignác		0	548,549,614,874,1189,1480,1537,2037
+2257	Zajak Ján		0	548,549,799,833,844,918,1122,1232,1379,1480,1533,1535,1630,1824,1916,2005
+2257	Zajak Ján	Mršina	0	1915
+2257	Zajak Jozef		0	548,549,614,759,760,761,799,833,844,874,967,988,1077,1189,1232,1454,1480,1533,1537,1630,2037
+2257	Zajak Jozef	Mršina	0	1895,1896,2038,2046
+2257	Zajak Jozef	Skaplík	1	1319,1372,1527,2190
+2257	Zajak Ľubomír		0	549
+2257	Zajak Matej		1	918,987,988,1192,1372,1630,2190
+2257	Zajak Michal		0	548,614,874,1480,1630
+2257	Zajak Ondrej		0	878,935,1058,1077,1098,1126,1231,1280,1309,1389,1550,1630,1846,1914,1948,2045,2349
+2257	Zajak Pavol		0	1077,1126,1231,1389,1550,1846,1914,2045
+2257	Zajak Pavol	Trututa	0	1249,1853,1857
+2257	Zajak Štefan		0	549,1126,1231
+2257	Zajak Štefan	Rebroš	0	1077,1126,1550,1846,1914,2045,2071
+2257	Zajak Vladimír		0	549
+2257	Zajaková Anna		0	548,549,614,874,876,878,918,1077,1126,1185,1309,1390,1480,1533,1535,1630,2037
+2257	Zajaková Anna r. Goceliaková		0	1044
+2257	Zajaková Anna r. Kováčiková		0	945
+2257	Zajaková Anna r. Peniaková		0	520,840,888,985,1287,1827
+2257	Zajaková Anna r. Pindiaková	Dátum úmrtia: 26.01.1995	0	1194
+2257	Zajaková Anna r. Veverková		0	1379,2005
+2257	Zajaková Anna r. Vlčeková		0	824,853,867,903
+2257	Zajaková Anna r. Vlčková		0	1998
+2257	Zajaková Emília		0	549,1077,1126,1231,1339,1389,1550,1846,1914,2045
+2257	Zajaková Emília r. Muránska		0	757,758,854,951,1056,1159,1257,1258,1280,1859,2071,2364
+2257	Zajaková Emília r. Polomčíková		0	830,884
+2257	Zajaková Hermína		0	1527
+2257	Zajaková Hermína	Einfachtlová	0	1527
+2257	Zajaková Jana		0	548,549,614,874,917,1048,1181,1195,1405,1480,1532,1536,1537
+2257	Zajaková Johana		0	1189,1950,2037
+2257	Zajaková Johana r. Vlčeková		0	835,907,1038,1220
+2257	Zajaková Johana r. Vlčková		0	1870,1982,1995,2313,2352
+2257	Zajaková Jolana		0	935
+2257	Zajaková Júlia		1	970,988,1053,1196,1370,1372,2189,2190
+2257	Zajaková Júlia r. Vlčková	Dátum úmrtia: 20.01.1971	0	1822,1853,1856,1868,1895,1896,1984,2025
+2257	Zajaková Júlia r. Zajaková		0	1191,1528,2289
+2257	Zajaková Júlia r. Zakaková		1	1372,2190
+2257	Zajaková Juliana r. Zajaková		0	1935
+2257	Zajaková Kristína		0	1077,1126,1231,1232,1389,1550,1846,1914,2045
+2257	Zajaková Kristína r. Goceliaková		0	1077
+2257	Zajaková Margita r. Šingerová		0	1081,1249,1341,1486,1502,1628,1853,1857,2269
+2257	Zajaková Margita r. Vlčková	Dátum úmrtia: 12.10.2002	0	1870,1914,1982,1995,2352
+2257	Zajaková Mária		1	548,861,869,876,878,935,1077,1126,1185,1309,1372,1390,1528,2190,2289
+2257	Zajaková Mária r. Nepšinská		0	1916
+2257	Zajaková Mária r. Ridzoňová		0	1527
+2257	Zajaková Mária r. Survíková		0	905,1130
+2257	Zajaková Mária r. Tyčiaková		0	861,869,1283
+2257	Zajaková Mária r. Veverková		0	861,1860
+2257	Zajaková Mária r. Vlčeková		0	833
+2257	Zajaková Mária r. Vlčková		0	1835,1839
+2257	Zajaková Matilda		0	889,988,1454
+2257	Zajaková Paulína		0	1189,2037
+2257	Zajaková Paulína r. Hrnčiariková		0	1878
+2257	Zajaková Pavlína		0	548,549,614,828,874,1339,1480,1537
+2257	Zajaková Pavlína r. Goceliaková		0	548,1480
+2257	Zajaková Pavlína r. Hrnčiariková		0	522,851,993,1106,1218,1433,2304
+2257	Zajaková Ružena r. Matejčeková		0	1370,2189
+2257	Zajaková Zuzana r. Stasíková		0	661,662,805,832,883,886,894,992,995,1026,1199,1344,1373,1375,1505,1534,2034,2296
+2258	Bačková Hermína r. Kováčiková		0	93
+2258	Balko Michal		0	93
+2258	Balko Milan		0	93
+2258	Ivaničová Emília r. Šagátová		0	101
+2258	Kováčik Anton		0	93
+2258	Peťková Antónia r. Klincová		0	94
+2258	Plško Ján		0	94
+2258	Rybár Jozef		0	91
+2258	Rybár Michal		0	91,105

@@ -1,0 +1,256 @@
+239	Jakubec Damián	sestra Alžbeta	0	1554
+239	Jakubec Damián	súr. Alžbeta, ded. po Matejovi Jakubcovi	0	1092,1116
+239	Jakubec Damián	súr. Alžbeta, Jozef, Konštantín, ded. po Matejovi Jakubcovi	0	1095
+239	Jakubec Damián	súrod. Alžbeta	0	1554,2387
+239	Jakubec Damián	súrod.Alžbeta	0	1554,2388,4410
+239	Jakubec Damián	ž. Antónia r. Baňovičová,súrod.Alžbeta	0	3197
+239	Jakubec Dezider, Farské 1224, Gbely, PSČ 908 45, SR	zom.11.7.1992	0	73,74,77,795,1083,1086,1088,1089,1090,1116,1139,1145,1163,1180,1246,1247,1248,1252,1256,1326,1388,1641,1642,1652,1692,2134,2137,2138,2143,2145,2146,2148,2483,2585,2586,2627,2765,2842,3050,3248,3645,3794,4433,4436,4444,4447,4469,4613,4614,4615,4616,4625,4643,4655,4663,4668,4929,4930,4932,4933,4991,4993,4998,4999,5103,5104
+239	Jakubec Dominik	ded. po Anne Jakubcovej	0	1091
+239	Jakubec Dominik	ž. Antónia r. Baňovičová, ded. po Anne Jakubcovej r. Čulenovej	0	2391
+239	Jakubec Ferdinand	/Mišena/; /Mišena/	0	234
+239	Jakubec Ferdinand	ded. po Anne Baňovičovej	0	1090
+239	Jakubec Ferdinand	ded. po Kataríne Jakubcovej r. Hojsíkovej	0	1087,1211,4434,4935,5822
+239	Jakubec Ferdinand	dedené po Kataríne Jakubcovej r. Hladíkovej - m. Štefan	0	1385
+239	Jakubec Ferdinand	mišena	0	3215,3216
+239	Jakubec Ferdinand	mišena, dar od Michala Jakubca	0	4436
+239	JAKUBEC Ferdinand		0	1554
+239	Jakubec Fredinand	mišena, dar od Michala Jakubca	0	1083
+239	Jakubec Ignác	ded. po Martinovi Jakubcovi	0	1091,1163
+239	Jakubec Ignác	ded. po Terézii Jakubcovej r. Štvrteckej, m. Martin	0	2606
+239	Jakubec Ignác	ded. po Terézii Jakubcovej r. Štvrteckej, súr. Terézia, Ján, Anna	0	1825
+239	Jakubec Ignác	kamének, ž. Agneša r. Štvrtecká	0	2299
+239	Jakubec Ignác	manž.Rozália r.Stachovičová	0	2433,5451
+239	Jakubec Ignác	manželka Anna r. Stachovičová, kúpa od Márie Hnátovej r. Holáskovej	0	3061
+239	Jakubec Ignác	súr. Štefan, Žofia, Agneša, Michal, Jolana, Imrich, ded. po Michalovi Jakubcovi	0	1164
+239	Jakubec Ignác	súr. Terézia, Ján, Anna, ded. po Martinovi Jakubcovi	0	1092,1113
+239	Jakubec Ignác	súrod.Terézia, Ján, Anna	0	2754
+239	Jakubec Ignác	ž. Rozália r. Lániková, súr. Imrich, Vendelín, ded. po Alžbete Jakubcovej	0	1116
+239	Jakubec Ignác	ž.Rozália r.Stachovičová, súr. Terézia, Ján, Anna , ded. po Terézii Jakubcovej r. Štvrtec	0	3779,5431
+239	JAKUBEC Ignác		0	1554
+239	Jakubec Imrich	manž. Mária r.Stachovičová, súr. Antonín, Ján, Konštantín	0	538,1083,1086,1087,1090,1140,1145,1248,1256,1338,1364,1554,1623,1693,1696,1697,1698,1890,1898,2255,3932,4434,4436,4444,4799,4929,4930,4932,4933,4935,5822
+239	Jakubec Imrich	rod. Štefan a Alžbeta r.Čulenová, súr. Vendelín, Ignác	0	2147,4992
+239	Jakubec Imrich	ž. Klotilda r.Konečná, rodičia Pavol a Filoména r.Baňovič, súr. Ondrej, Agneša, Ferdinand	0	1135
+239	Jakubec Imrich	ž.Agneša r.Trubirohová, rod.Michal a Mária r.Bartalová, súr. Ján, Štefan, Žofia, Agneša, a	0	1088,1092,1095,1113,1116,1139,1163,1164,1247,1249,1256,1326,1388,1554,1652,2137,2138,2143,2144,2145,2146,2147,2148,2483,2585,2586,3050,3429,3655,3796,4052,4433,4447,4625,4890,4991,4992,4993,5077,5495
+239	JAKUBEC Imrich		0	5018
+239	JAKUBEC Imrich	maloletý	0	5678
+239	JAKUBEC Imrich	zomr.1.1.1967, ž. Rozália r.Mrázová, súr. Štefan, Ján	0	1554,3050,3250
+239	Jakubec Imrich, maloletý maloletý		0	5018
+239	Jakubec Ján	rod. Martin a Terézia r. Štvrtecká, súr. Terézia Hesková, Ignác, Anna Komorníková	0	234,1083,1088,1089,1091,1092,1095,1113,1116,1163,1164,1403,1505,1554,1825,2144,2424,2433,2483,2602,2606,2607,2754,2755,2756,2758,3429,3705,3779,3825,3844,4409,4433,4436,4449,4890,4989,4997,5361,5431,5451,5479,5480,5655,5663
+239	Jakubec Ján	rod.Michal a Mária r.Bartalová, súr.Štefan, Žofia Pavlíková,Agneša Hladíková,Michal,Imrh	0	2146
+239	Jakubec Ján	rod.Michal a Mária r.Bartalová, súr.Štefan, Žofia Pavlíková,Agneša Hladíková,Michal,Imrich	0	1088,1092,1095,1113,1116,1139,1163,1247,1249,1256,1326,1388,1554,1652,1692,2137,2138,2143,2144,2145,2147,2148,2483,2585,2586,3050,3429,3655,3796,4052,4433,4447,4615,4625,4890,4991,4992,4993,4999,5495,5678
+239	Jakubec Ján	súr. Martin, Michal, Anna Durmayerová, Helena Komorná	0	1089,1092
+239	Jakubec Ján	zomr. 16.5.1978, manž. Anna r. Kováčová, súr. Imrich, Antonín, Konštantín	0	1083,1086,1087,1140,1145,1248,1554,3932,4434,4436,4444,4932,4933,4935,5822
+239	Jakubec Ján	zomr. 29.3.1973, bytom Brodské 731, manž. Anna r. Hojsíková, súr. Štefan, Imrich	0	1095,1554
+239	Jakubec Jozef	spoludedičia: Martin, Anna Durmayerová, Mária Jakubcová, Michal, Helena, Ján	0	1083,1088,1089,1095,1113,1116,1164,2483,4433,4436,4890
+239	Jakubec Jozef	Súrodenci: Juraj, Anna Palkovičová	0	1084,1117,1247,1251,1256,4437,5337
+239	Jakubec Jozef	ž. Mária r. Antálková, rod. Leopold a Karolína r. Rozborilová, súr. Alž., Mária, Anna, Žo	0	1085,1090,1095,1140,1145,1211,1212,1248,1476,1477,1478,1479,1480,1481,1482,1554,2338,3346,3353,3763,4375,4444,4929,4930,4932,4933,5258
+239	JAKUBEC Jozef		0	1087,1255,4434,4935,5822
+239	Jakubec Július	ž. Helena r. Stachovičová	0	1140
+239	Jakubec Juraj		0	1084,1117,1247,1251,4437,5337
+239	Jakubec Juraj	súr. Jozef, Anna Palkovičová	0	1256
+239	Jakubec Konštantín		0	2255,4799
+239	Jakubec Konštantín	ded. po Anne Gulíškovej r. Bartalovej	0	1087,4434,4935,5822
+239	Jakubec Konštantín	ded. po Štefanovi Gulíškovi, Zuzane Jakubcovej r. Gulíškovej	0	1698
+239	Jakubec Konštantín	ded. po Zuzane Jakubcovej r. Gulíškovej, Anne Bartalovej	0	1623
+239	Jakubec Konštantín	ded. po Zuzane Jakubcovej r. Gulíškovej, súr. Imrich, Antonín, Ján	0	538
+239	Jakubec Konštantín	mal. ded.po Štefanovi Gulíškovi, Zuzane Jakubcovej r. Gulíškovej	0	1890
+239	Jakubec Konštantín	mal., ded. po Zuzane Jakubcovej r. Gulíškovej, Štefanovi Gulíškovi	0	1693
+239	Jakubec Konštantín	maloletý	0	1696
+239	Jakubec Konštantín	maloletý, ded po Anne Gulíškovej r. Bartalovej	0	1090,4436,4929,4930
+239	Jakubec Konštantín	maloletý, ded. po Anne Gulíškovej r. Bartalovej	0	1083,1086,1248,4444
+239	Jakubec Konštantín	maloletý, ded. po Anne Gulíškovej r. Bartalovej - m. Štefan	0	1691
+239	Jakubec Konštantín	maloletý, ded. po Zuzane Jakubcovej r Gulíškovej	0	1083
+239	Jakubec Konštantín	maloletý, ded. po Zuzane Jakubcovej r. Gulíškovej	0	4436
+239	Jakubec Konštantín	maloletý, súr. Imrich, Antonín, Ján	0	1697
+239	Jakubec Konštantín	maloletý, súr. Imrich, Antonín, Ján, ded. po Anne Gulíškovej	0	1145,4932,4933
+239	Jakubec Konštantín	maloletý, súr. Imrich, Antonín, Ján, ded. po Anne Gulíškovej r. Bartalovej	0	1256
+239	Jakubec Konštantín	maloletý, súr. Imrich, Antonín, Ján, ded. po Zuzane Jakubcovej r. Gulíškovej	0	1086,1090,1140,1145,1248,1338,4444,4929,4930,4932,4933
+239	Jakubec Konštantín	súr.Imrich, Antonín, Ján, ded. po Zuzane Jakubcovej r.Gulíškovej -m. Štefan	0	1364
+239	Jakubec Konštantín	súr.Imrich, Antonín, Ján, ded.po: Zuzana Jakubcová r.Gulíšková, Anna Gulíšková r.Bartalová	0	1898
+239	JAKUBEC Konštantín mal.		0	1554
+239	JAKUBEC Konštantín, SR		0	1554
+239	Jakubec Konštatín	maloletý, súr. Štefan, Lenhard, Mária, Imrich, Antonín, Ján, por. Anna Gulíšková	0	1140
+239	Jakubec Leopold	ded. po Márii Jakubcovej r. Gajdovej, Eva, Rozália, Július, Petrína, Agneša, Antonín	0	1249
+239	Jakubec Leopold	ded. po Márii Jakubcovej r. Gajdovej, súr. Eva, Rozália, Július, Petrína, Agneša, Antonín	0	1139
+239	Jakubec Leopold	súr. Eva, Rozália, Július, Petrína, Agneša, Antonín, ded. po Márii Jakubcovej r. Gajdovej	0	1086
+239	Jakubec Michal	manž.Helena r.Antálk., rod.Michal a Mária r.Bartal., súr.Ján,Štefan,Žofia,Agneša, Jolana	0	64,1247,2143,2148,3928,4052,4993
+239	Jakubec Michal	manž.Mária r.Bartalová, súr.Štefan, Matej, Mária Pipová, Anna, Martin, Helena Komorná	0	1089,1091
+239	Jakubec Michal	ž. Anna r. Trubirohová	0	1388,2586,4625
+239	Jakubec Michal	ž.Anna r.Trubirohová	0	4776
+239	Jakubec Pavol	mišena	0	234,3215,3216,3705
+239	Jakubec Pavol	mišena, dar od Michala Jakubca	0	1083,4436
+239	JAKUBEC Pavol		0	1116,1554,2706,3213,5317
+239	Jakubec Štefan	bytom Palackého 3962 Chomutov,ČR, rod.Michal a Helena r.Antálková, súr. Ferdinand, Teofil	0	1554,2137,2147,2627,2842,3050,3645,4613,4992,4998
+239	Jakubec Štefan	rod. Ján a Anna r.Stachovičová, súr. Justína Kocichová a Anton	0	1088,1089,1091,1164,1554,2483,2754,4433,4436,4890
+239	Jakubec Štefan	rod. Ján a Anna Stachovičová, súr.Justína Kocichová a Anton	0	1083
+239	Jakubec Štefan	rod. Michal a Mária r.Bartalová, súr. Ján, Michal, Žofia, Jolana, Agneša, Imrich, Eva	0	1092,1164,1256,1326,1554,1692,2138,2143,2145,2146,2147,2148,2585,3050,3796,4052,4447,4615,4991,4992,4993,4999,5495,5678
+239	Jakubec Štefan	stelan, súr. Michal	0	1390,2638,4754
+239	Jakubec Štefan	zomr.17.6.1985, manž. Terézia r.Šišková, rod. Imrich a Agneša r.Trubirohová, súr.Ján, Imrh	0	3249,3250
+239	Jakubec Štefan	ž. Rozália r. Čulenová, súr. Anna, Ján, Mária, Antonín, Alojz, Milada	0	3534
+239	Jakubec Štefan	ž.Terézia r. Papánková, rod. Michal a Anna r. Trubirohová, súr. Mária, Helena, Anna, Berta	0	3942
+239	JAKUBEC Štefan		0	1084,1117,1251,4437,5018,5337
+239	Jakubec Štefan, 908 85, Brodské, č. 301, SR	zom.17.6.1985, ž. Terézia r. Šišková	0	1554,3645
+239	Jakubec Štefan, Palackého 3962, Chomutov, PSČ 430 01, ČR		0	1217,3794,5102
+239	Jakubec Štefan, Palackého 3962, Chomutov, PSČ 430 01, ČR	súrod.Ferdinand, Teofil	0	1209,1217,3368,5102
+239	Jakubec Teofil	dar od Leopolda Jakubca	0	1095,1145,4932,4933
+239	Jakubec Teofil	súr. Ferdinand, Štefan, ded. po Helene Jakubcovej r. Antálkovej	0	1211
+239	Jakubec Teofil	súr. Jozef, Alžbeta, Marie, Anna, Žofia, Leopold Agneša, Helena dar od Leopolda Jakubca	0	1554
+239	Jakubec Teofil	súr. Jozef, Alžbeta, Marie, Anna, Žofia, Leopold, Agneša, Helena	0	1085,1140
+239	Jakubec Teofil	súr. Jozef, Alžbeta, Marie, Anna, Žofia, Leopold, Agneša, Helena dar od Leopolda Jakubca	0	1482
+239	Jakubec Teofil	súr. Jozef, Alžbeta, Marie, Anna, Žofia, Leopold, Agneša, Helena, dar od Leopolda Jakubca	0	1090,1211,1248,4444,4929
+239	Jakubec Teofil	súr. Jozef, Alžbeta, Marie, Anna, Žofia, Leopold, Agneša, Helena,dar od Leopolda Jakubca	0	4930
+239	Jakubec Vendelín	ded. po Jánovi Čulenovi	0	1088,1252,2483,4433,4890
+239	Jakubec Vendelín	ded. po Štefanovi Jakubcovi	0	1091,1163,1247,1256
+239	Jakubec Vendelín	manž. Anna r. Trubirohová, ded. po Alžbete Jakubcovej	0	1088,2483,4433,4890
+239	Jakubec Vendelín	manž.Anna r.Trubirohová	0	3729,3796,4052,5452,5524
+239	Jakubec Vendelín	súr. Imrich, Ignác	0	2138
+239	Jakubec Vendelín	súr. Imrich, Ignác, ded. po Štefanovi Jakubcovi	0	1249,1326,2143,2585,4447
+239	Jakubec Vendelín	súr. Imrich, Ignác, ded. po Štefanovi Jakubcovi - ž. Alžbeta r. Čulenová	0	1692
+239	Jakubec Vendelín	súr. Imrich, Ignác, ded. po Štefanovi Jakubcovi -kamének	0	1652
+239	Jakubec Vendelín	ž. Anna r. Trubirohová, ded. po Alžbete Jakubcovej	0	1256
+239	Jakubec Vendelín	ž. Anna r. Trubirohová, súr. Imrich, Ignác, ded. po Alžbete Jakubcovej	0	1089
+239	Jakubec Vendelín	ž. Anna Trubirohová, ded. po Alžbete Jakubcovej	0	1145,4932,4933
+239	Jakubec Vendelín	ž. Anna Trubirohová, súr. Imrich, Ignác	0	1086
+239	Jakubec Vendelín	ž.Trubirohová Anna, ded. po Alžbete Jakubcovej	0	1252
+239	JAKUBEC Vendelín		0	1554,2145,2146,2147,2612,3050,4615,4991,4992,4999,5495,5678
+239	JAKUBEC Vendelín	ž. Anna r. Trubirohová	0	2403,2613,4469
+239	JAKUBEC Vendelín	ž.Anna r.Trubirohová	0	795,2148,4993
+239	Ján Kovár	ž. Alžbeta r. Hladíková	0	1145,4932,4933
+239	Jančáková Mária r. Jakubcová	dar od Leopolda Jakubca	0	1095,1145,4932,4933
+239	Jančík František	ž. Mária r. Štvrtecká	0	3190
+239	Jančíková Mária r. Štvrtecká	m. František, rodičia: Vincent a Anna r. Čulenová, súr. František, Vincent	0	1076,1085,1089,1092,1116,1163,1211,1212,1272,1273,1274,1541,1542,1554,1589,2350,2381,2881,2883,3190,3346,3542,3817,4438,4831,4905,5354,5420,5423
+239	Jančiová Rozália r. Bolebruchová		0	1407,2372,3584
+239	Jančiová Viktória r. Mundová	ded. po Žofii Mundovej r. Bartalovej	0	1087,4434,4935,5822
+239	JANIGOVÁ Rozália	r.Dujsíková	0	5257
+239	Janigová Rozália r. Dujsíková	ded. po Anne Dujsíkovej r. Dujmovičovej	0	1088,2483,3890,4433,4890
+239	Janigová Rozália r. Dujsíková	ded. po Anne Dujsíkovej r. Dujmovičovej -m. Anton	0	1588,5643
+239	Janigová Rozália r. Dujsíková	ded. po Antonínovi Dujsíkovi	0	1255
+239	Janigová Rozália r. Dujsíková	ded. po Antonínovi Dujsíkovi a Anne Dujsíkovej r. Dujmovičovej	0	3270
+239	Janigová Rozália r. Dujsíková	ded. po Antoninovi Dujsíkovi, Anne Dujsíkovej	0	2294
+239	Janigová Rozália r. Dujsíková	ded. po Antonovi Dujsíkovi a manž. Anne r. Dujmovičovej	0	2295
+239	Janigová Rozália r. Dujsíková	rod.: Antonín a Anna, r. Dujmovičová, súr. Hedviga Valúšková, Jozef, Valentín	0	1084,1089,1095,1113,1116,1145,1297,1334,1335,1336,1554,1905,2293,4437,4932,4933,4940,4941,4942,4943,5337
+239	Janigová Rozália r. Dujsíková	rod.: Antonín a Anna,r. Dujmovičová, súr. Hedviga Valúšková, Jozef, Valentín	0	1333
+239	Janigová Rozália r. Dujsíková	súr. Hedviga, Jozef, Milan, ded. po Anne Dujsíkovej r. Dujmovičovej	0	1090,1093,4929,4930,4931
+239	Janigová Rozália r. Dujsíková	súr. Jozef, Valentín, Hedviga, ded. po Antonínovi Dujsíkovi	0	1164,1338,4230
+239	Janigová Rozália r. Dujsíková	súr. Jozef, Valentín, Hedviga, ded. po Antonínovi Dujsíkovi a Anne Dujsíkovej	0	4231
+239	Janigová Rozália r. Dujsíková	súr. Jozef, Valentín, Hedvika, ded. po Antonovi Dujsíkovi - m. Anna r. Dujmovičová	0	3271
+239	Janigová Rozália r. Dujsíková	súr. Jozef, Valentín, Hedvika, ded. po Antonovi Dujsíkovi ž. Anna r. Dujmovičová	0	4107
+239	Janigová Rozália r. Dujsíková	súr. Jozef, Valentín, Hevika, ded. po Antonovi Dujsíkovi -ž. Anna r. Dujmovičová	0	1341
+239	Janigová Rozália r. Dujsíková	súr.Jozef, Valentín, Hedvika, ded. po Antonovi Dujsíkovi a manž. Anne r. Dujmovičovej	0	4944
+239	Janigová Rozália r. Dujsíková	súrod. Jozef, Valentín, Hedvika	0	3935
+239	JANIGOVÁ Rozália r. Dujsíková		0	1593,2292,3269,3748,3859,3860,3861,3862,4140,4952,5397,5433,5447
+239	Jaššová Agneša r. Šimonová	ded. po Márii Šimonovej r. Heskovej	0	3550
+239	Jaššová Agneša r. Šimonová	súr. Antónia, Ján, Anna, Sabina, Martin	0	1554,3704
+239	Jaššová Agneša r. Šimonová	súr. Antónia, Ján, Anna, Sabína, Martin, ded. po Márii Šimonovej r. Heskovej	0	1338
+239	Jaššová Agneša r. Šimonová	súrod. Antónia, Ján, Sabina, Martin, Anna	0	3413
+239	Jaššová Agneša r. Šimonová	súrod.Antónia,Ján,Anna,Sabina,Martin	0	3548,3549
+239	Jaššová Agneša r. Šimonová	súrod.Antónia,Ján,Anna.Sabina,Martin	0	3547
+239	JAŠŠOVÁ Agneša r. Šimonová		0	3913
+239	Jedličková Anna r. Hačundová		0	4984
+239	Jozefovičová Helena r. Hesková		0	1554,4342,4841
+239	Jozefovičová Helena r. Hesková	ded. po Helene Heskovej, r. Gajdovej	0	1084,4437,5337
+239	Juráček Antonín		0	1402
+239	Juráček Antonín	súr. Štefan, Ján, František, Mária, Ferdinand, Ignác	0	1186
+239	Juráček Antonín	súrod.Štefan, Ján, František, Mária, Ferdinand, Ignác	0	1921,4638
+239	Juráček Bernard		0	1090,4929,4930
+239	Juráček Bernard	ž. Anna r. Pavlíková	0	1115
+239	Juráček Bernát		0	1083,1145,1921,4436,4638,4932,4933
+239	JURÁČEK Bernát	ž. Anna r. Pavlíková	0	4511
+239	JURÁČEK Bernát	ž. Anna r.Pavlíková	0	1554
+239	Juráček František	maloletý	0	1402
+239	Juráček František	maloletý, súrod.Antonín, Štefan, Ján, Mária, Ferdinand, Ignác	0	1921,4638
+239	Juráček František	súr. Antonín, Štefan, Ján, Mária, Ferdinand, Ignác	0	1186
+239	Juráček Ignác	maloletý	0	1402
+239	Juráček Ignác	maloletý, súrod.Antonín, Štefan, Ján, František, Mária, Ferdinand	0	1921,4638
+239	Juráček Ignác	súr. Antonín, Štefan, Ján, František, Mária, Ferdinand	0	1186
+239	Juráček Ján		0	1083,1921,4436,4638,4817
+239	Juráček Ján	maloletý	0	1402
+239	Juráček Ján	maloletý, súr. Mária, Júlia, Pavol	0	1145,4932,4933
+239	Juráček Ján	manž.Jozefa r.Šimková; manž.Jozefa r.Šimková	0	4317
+239	Juráček Ján	súr. Antonín, Štefan, František, Mária, Ferdinand, Ignác	0	1186
+239	Juráček Ján	súr. Mária, Júlia, Pavol	0	1090,1115,4929,4930
+239	Juráček Ján	súrod.Antonín, Štefan, František, Mária, Ferdinand, Ignác	0	1921,4638
+239	Juráček Ján	ž. Jozefína r. Šimková, dar od Ambróza Suchovského a manž. Hedvigy Vlkovej	0	1083
+239	Juráček Ján	ž. Jozefína Šimková, dar od Ambróza Suchovského a manž. Hedvigy r. Vlkovej	0	4436
+239	Juráček Ján	ž.Jozefa r.Šimková	0	4817
+239	Juráček Pavol	súr. Mária, Ján, Júlia	0	1115
+239	Juráček Štefan	mal., súr. Antonín, Ján, František, Mária, Ferdinand, Ignác	0	1186
+239	Juráček Štefan	maloletý	0	1402
+239	Juráček Štefan	súrod.Antonín, Ján, František, Mária, Ferdinand, Ignác	0	1921,4638
+239	Juráčková Júlia	súr. Mária, Ján, Pavol	0	1090,1115,1145,4929,4930,4932,4933
+239	JURÁČKOVÁ Júlia		0	1083,1921,4317,4436,4638,4817
+239	Juráčková Mária	maloletá, súr. Júlia, Ján, Pavol	0	1145,4932,4933
+239	Juráčková Mária	súr. Ján, Júlia, Pavol	0	1115
+239	Juráčková Mária	súr. Júlia, Ján, Pavol	0	1090,4929,4930
+239	JURÁČKOVÁ Mária		0	1083,1921,4317,4436,4638,4817
+239	Juráčková Štefánia r. Čulenová		0	1554,4018
+239	Juráčková Štefánia r. Čulenová	ded. po Štefanovi Čulenovi	0	302
+239	Juráčková Štefánia r. Čulenová	ded. po Štefanovi Čulenovi a Anne r. Bartalovej	0	5324,5326
+239	Juráčková Štefánia r. Čulenová	otec: Štefan Čulen	0	1091,1092,1158,1163,1388,1554,2586,3362,4625
+239	Jurášek Ján	ž. Jozefína r. Šimková, dar od Ambróza Suchovského a manž. Hedvigy r. Vlkovej	0	1145,4932,4933
+239	Juricová Júlia		0	1388,2586,4625
+239	Jurigová Zuzana r. Šedivá	dar od Martina Šedivého	0	1113
+239	Jurigová Zuzana r. Šedivá	súr. Alžbeta, ded. po Márii Šedivej	0	1113
+239	Jurkovič Leopold	ž.Margita r. Michálková	0	2688
+239	Jurkovič Leopold	ž.Margita r.Michálková	0	1559,1560,2372,3584
+239	Jurkovič Lukáš		0	2372,3584
+239	JURKOVIČ Štefan	ž.Helena r.Šipoldová	0	4521
+239	Jurkovičová Magdalena r. Fajtáková	súrod. Jozef	0	1874
+239	Jurkovičová Magdaléna r. Fajtáková	ded. po Martinovi Fajtákovi, súr. Jozef	0	1076,4438,4905,5354
+239	Kaffka Eugen	m.Matilda	0	4022
+239	KAIZER Izidor		0	4516,4517,4518
+239	KAIZER Július		0	4516,4517,4518
+239	KAIZER Leopold		0	4516,4517,4518
+239	KAIZER Samuel		0	4516,4517,4518
+239	KAIZEROVÁ Regina		0	4516,4517,4518
+239	Kákonyiová Mária r. Mayerová		0	4022
+239	Kalčík Jozef	súr. Štefan, ded. po Františkovi Kalčíkovi	0	108
+239	Kalčík Jozef	súr. Štefan, ded. po Františkovi Kalčíkovi - ž. Mária r. Kühnová	0	5188
+239	KALČÍK Jozef		0	1106,2364,2365,5806
+239	Kalčík Štefan		0	1106,2364,2365,5806
+239	Kalčík Štefan	manž. Agneša r.Krídlová	0	108
+239	Kalčík Štefan	súr. Jozef, ded. po Františkovi Kalčíkovi -ž. Mária r. Kühnová	0	5188
+239	Kalčíková Agneša r. Krídlová	m. Štefan	0	108,5188
+239	Kalčíková Agneša r. Krídlová	m. Štefan, ded. po Pavlovi Krídlovi	0	1089
+239	Kalčíková Agneša r. Krídlová	m. Štefan, súr. Ignác, Anton, Mária, ded. po Pavlovi Krídlovi	0	1116
+239	Kalčíková Agneša r. Krídlová	m.Štefan	0	1106,5806
+239	Kalčíková Agneša r. Krídlová	manž. Štefan, súr. Ignác, Mária, ded. po Pavlovi Krídlovi	0	1554
+239	Kalčíková Agneša r. Kriedlová	m. Štefan, súr. Anton, Mária	0	2983
+239	Kalčíková Agneša r. Kriedlová	m.Štefan, dedené po Pavlovi Kriedlovi	0	3163
+239	Kalčíková Rozália r. Ondrisková	ded. po Márii Ondriskovej	0	3925
+239	Kimličková Anna r. Hačundová	zomr. 14.10.1999, prvý m. František Pavúček, rod. Jozef a Anna r. Štvrtecká	0	256,1084,1088,1090,1093,1095,1116,1141,1142,1145,1160,1254,1293,1296,1297,1307,1308,1505,1554,2483,2600,2747,3259,3888,3995,4149,4166,4235,4267,4433,4437,4439,4718,4890,4929,4930,4931,4932,4933,5337,5367,5411,5658,5780
+239	Kinkellová Klementína r. Kováčová	ded. po Anne Čulenovej r. Stachovičovej, po Helene Kováčovej	0	2237,4878
+239	Kinkellová Klementína r. Kováčová	ded. po Terézii Kováčovej r. Čulenovej	0	2687
+239	KINKELLOVÁ Klementína r. Kováčová		0	1554,1843,5648
+239	KINKELOVÁ Klementína	r.Kováčová	0	3854
+239	Kinkelová Klementína r. Kováčová	ded. po Anne Čulenovej r. Stachovičová - m. Jozef	0	4720
+239	Kinkelová Klementína r. Kováčová	ded. po Anne Čulenovej r. Stachovičovej -m.Jozef, Helene Kováčovej	0	2083
+239	Kinkelová Klementína r. Kováčová	ded. po Anne Čulenovej r. Stachovičovej a Helene Kováčovej	0	2090
+239	Kinkelová Klementína r. Kováčová	ded. po Helene Kováčovej	0	1088,2133,2176,2459,2483,2834,4433,4890,5501,5680
+239	Kinkelová Klementína r. Kováčová	ded. po Klimentovi Kováčovi, súr. Anna, Mária, Genovéva, Štefan, Kliment	0	137
+239	Kinkelová Klementína r. Kováčová	ded. po Terézii Kováčovej, Helene Kováčovej, Klimentovi Kováčovi	0	326
+239	Kinkelová Klementína r. Kováčová	súr. Anna, Mária, Genovéfa, Štefánia, Kliment, Štefan, ded. po Klimentovi Kováčovi	0	2543,2830,2832,5656
+239	Kinkelová Klementína r. Kováčová	súr. Anna, Mária, Genovéva, Helena, Štefánia, Kliment, Štefan	0	2685
+239	Kinkelová Klementína r. Kováčová	súr. Anna, Mária, Genovéva, Štefánia, Kliment, ded. po Helene Kováčovej	0	1116
+239	Kinkelová Klementína r. Kováčová	súr. Anna, Mária, Genovéva, Štefánia, Kliment, Štefan, ded. po Helene Kováčovej	0	1090,1095,1145,1248,4444,4929,4930,4932,4933
+239	Kinkelová Klementína r. Kováčová	súr. Anna, Mária, Genovéva, Štefánia. Kliment, Štefan, ded. po Klimentovi Kováčovi	0	3853,5513
+239	Kinkelová Klementína r. Kováčová	súrod. Anna, Mária, Genovéfa, Helena, Kliment, Štefánia, Štefan	0	3852,5512
+239	Kinkelová Klementína r. Kováčová	súrod.Anna, Mária, Genovéfa, Štefánia, Kliment, Štefan	0	1135
+239	KINKELOVÁ Klementína r. Kováčová		0	2375,2454,2680,2831,2833,3169,3784,3837,4077,4883,4988,4996,5468
+239	Klempa Anton	ž. Alžbeta r. Macejková	0	1093,1145,4931,4932,4933
+239	KLEMPOVÁ Alžbeta r. Macejková		0	4149
+239	Klinda Pavol	ž.Rozália r.Valachovičová	0	5067
+239	KLINGEROVÁ Anna		0	3429
+239	Klučková Klementína r. Kováčová	ded. po Anne Čulenovej r. Stachovičovej - m. Jozef, Helene Stachovičovej	0	2101
+239	Knap Anton	ž.Alžbeta r. Hačundová	0	4811
+239	Knap Anton r. Knap	ž. Alžbeta r. Hačundová, otec Ján, súr. Terézia Antálková, Matej, Ján, František, Michal	0	4005
+239	Knap Anton r. Knap	ž.Alžbeta r. Hačundová, otec Ján, súr. Terézia, Matej, Ján, František, Michal	0	5804
+239	Knap Antonín	m.Alžbeta r.Hačundová, 29.12.1879	0	4386
+239	Knap Antonín	mal., ded. po Antonovi Trubiorhovi - ž. Karolína r. Pavlíková	0	1432,5438,5542,5676,5811,5812
+239	Knap Antonín	maloletý	0	3348
+239	Knap Antonín	maloletý, ded. po Antonínovi Trubirohovi	0	3027
+239	Knap Antonín	maloletý, ded. po Antonínovi Trubirohovi - ž. Karolína r. Pavlíková	0	2714
+239	Knap Antonín	maloletý, ded. po Antonovi Trubirohovi -ž. Karolína r. Pavlíková	0	3028
+239	Knap Antonín	maloletý, súr. Matej, Ján, František, Michal, Justína, Terézia	0	1256
+239	Knap Antonín	maloletý, súrod.Matej, František, Michal, Ján, Justína, Terézia	0	1419
+239	Knap Antonín	maloletý,súrod.Matej, Ján, František, Michal, Justína, Terézia	0	1417

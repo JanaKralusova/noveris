@@ -1,0 +1,256 @@
+1997	Talapka Ondrej r. Talapka	malol	0	4802,5911,7853
+1997	Talapka Ondrej r. Talapka	žen. s Františkou r.Blahuta	0	5910
+1997	Talapka Paulina		0	5152
+1997	Talapka Štefan		0	5484
+1997	Talapka Štefan r. Talapka		0	765,4513,7120,7313
+1997	Talapka Štefan r. Talapka	malol	0	4802,5910,5911,7853
+1997	Talapka Žofia		0	4666,5910,5914,5915,7962,7965
+1997	Talapková Anna		0	5819,7923
+1997	Talapková Barbora		0	5819,7923
+1997	Talapková Paulina r. Janiková		0	5857
+1997	Terešák Serafín r. Terešák		0	378,4435,4436,4532,5488,5498,5500,5514,5518,5519,5531,5533,7137,7138,7709,7710
+1997	Terešák Zuzana r. Petrek		0	378,4435,4436,4532,5488,5498,5500,5514,5518,5519,5531,5533,7137,7138,7709,7710
+1997	Točiniar Peter-pavol r. Točiniar		0	3969,4384,5592,5597,7144,7149,7224,7618,7711
+1997	Točiniarová Štefánia	malol	0	3969,4384,5592,5597,7144,7149,7224,7618,7711
+1997	Tomčala Juraj r. Tomčala		0	1305,2217,2604,4318,4319,4651,5204,5210,5216,5218,5833,7133,7944,7946,8162
+1997	Tomčalová Cecilia r. Pišojová		0	1402,1633,1634,3067,4402,4494,5821,7120,7312,7313,7590
+1997	Turek Mária r. Boris		0	5115,5120,5307,5311,5316,5324,5981,5997,6000,6001,7162,7764,7990,7992,7995,7996
+1997	Uhrecký Štefan r. Uhrecký		0	6125
+1997	Vakula Adam r. Vakula		0	1123,4678,5434,5435,5439,5445,6063,6963,6973,6974,7634,8156
+1997	Vakula Adam r. Vakula	žen. s Katarínou r.Mackuliak	0	1123
+1997	Vakula Františka r. Petrek		0	4411,4901,4905,6315
+1997	Vakula Ján		0	4559,4678,4712,4713,4976,6063,6963,6973,6974,6978,7633,7634,8139,8156
+1997	Vakula Ján r. Vakula		0	4559,4678,4712,4713,4976,6063,6963,6973,6974,6978,7633,7634,8139,8156
+1997	Vakula Ján r. Vakula	žen. s Marinou r.Luciak	0	1123
+1997	Vakula Jozef r. Vakula		0	1123,1126,4559,4678,4712,4713,4976,5445,6063,6963,6973,6974,6978,7633,7634,8139,8156
+1997	Vakula Ľudovit r. Vakula		0	4987,7326,7730
+1997	Vakula Martin r. Vakula		0	3295,4980,4986,5056,5435
+1997	Vakula Rudolf r. Vakula		0	3295
+1997	Valeková Františka r. Krištof		0	6999
+1997	Valenčík Mária r. Sobolčiak		0	4447,5823,5828
+1997	Varšava Anna r. Chmurčiak		0	3792
+1997	Varšava Anna r. Jančula	Jánová	0	1939,3783,3792,3793,4697,4720,4742
+1997	Varšava Anna r. Medvedík		0	5987
+1997	Varšava Anna r. Talapka		0	5152
+1997	Varšava Anna r. Varšava		0	1939,2079,2179,2180,2519,4416,4417,4522,4621,4622,4623,4697,4700,4701,5127,5131,5651,5685,5959,5961,5963,5967,7094,7158,7541,7796,7797
+1997	Varšava Anton r. Varšava		0	232,4417,4419,4522,4715
+1997	Varšava Antónia r. Varšava		0	4723,5970
+1997	Varšava Eva		0	1705,1883,1939,2079,2179,2180,2519,3780,3781,3783,3787,3792,4481,4518,4522,4621,4681,4682,4697,4698,4699,4718,4720,4722,4723,4724,4735,4736,4738,4741,4744,4746,4749,5129,5682,5953,5955,5958,5959,5963,5964,5968,5970,5971,5977,7090,7094,7158,7494,7495,7762,7864,7865
+1997	Varšava Františka r. Petrek	Jozefová	0	3783,3792,3793,4697,4720,4742
+1997	Varšava Ignác r. Varšava		0	4522
+1997	Varšava Ján r. Varšava		0	1939,2079,2179,2180,2519,4416,4417,4522,4621,4622,4623,4697,4700,4701,5127,5131,5651,5685,5939,5959,5961,5963,5967,5987,7094,7158,7407,7541,7796,7797
+1997	Varšava Jozef r. Varšava		0	1939,2079,2179,2180,2519,2615,3792,4416,4417,4419,4522,4621,4622,4623,4697,4700,4701,4715,4726,5127,5129,5131,5132,5134,5651,5684,5685,5939,5959,5960,5961,5963,5966,5967,5969,5978,7094,7095,7158,7407,7496,7541,7762,7796,7797,7799
+1997	Varšava Jozef r. Varšava	žen. s Annou r.Koňuška	0	2078
+1997	Varšava Mária r. Brigala		0	2078
+1997	Varšava Mária r. Varšava		0	1939,4416,4417,4522,5963
+1997	Varšava Martin r. Varšava		0	2079,2179,2180,2519,4417,4621,4622,4623,4697,4700,4701,5127,5131,5651,5685,5959,5961,5967,7094,7158,7541,7796,7797
+1997	Varšava Ondrej r. Varšava		0	1939,2079,2179,2180,2519,4416,4417,4522,4621,4622,4623,4697,4700,4701,5127,5131,5651,5685,5959,5961,5963,5967,7094,7158,7541,7796,7797
+1997	Varšava Ondrej r. Varšava, 023 05, Nová Bystrica, č. 354, SR	zomr. 1.1.1951	0	7094
+1997	Varšava Ondrej r. Varšava, 023 54, Nová Bystrica, č. 354, SR	zomr. 1.1.1951	0	2180,7158
+1997	Varšava Ondrej r. Varšava, 023 54, Nová Bystrica, č. 354, SR	žen. s Evou r.Brhlovou zomr. 1.1.1951; žen. s Evou r.Brhlovou	0	5974,5975,7029,7094,7761
+1997	Varšava Onrej r. Varšava	žen. s Annou r.Kašuba	0	5963
+1997	Varšava Štefan r. Varšava		0	1939
+1997	Varšavová Anna r. Chmurčiaková		0	5147,5148,5150,5684,5922,5924,5925,5926,5927,5928,5963
+1997	Varšavová Anna r. Jančo		0	1705,2079,2179,2180,2519,3780,3781,3783,3787,4481,4621,4697,4718,4722,4723,4724,4735,4736,4744,4746,5129,5682,5958,5959,5964,5970,5971,5977,7090,7094,7158,7494,7495,7762,7864,7865
+1997	Varšavová Antonia	po Jánovi	0	1705,2079,2179,2180,2519,3780,3781,3783,3787,4481,4621,4697,4718,4722,4723,4724,4735,4736,4744,4746,5129,5682,5958,5959,5964,5970,5971,5977,7090,7094,7158,7494,7495,7762,7864,7865
+1997	Varšavová Eva r. Baraňáková		0	5682
+1997	Varšavová Eva r. Brhlová, 023 54, Nová Bystrica, č. 354, SR	zomr. 09.12.1936	0	232,2079,2180,4329,4621,4698,4699,4700,4701,5129,5954,5959,5966,5968,7095,7158,7762
+1997	Varšavová Paulína	malol	0	1939,4419,4715
+1997	Vasko Anna		0	3020,3043,3702,4996,5367,6004,6015,6024,6037,6041,7707,7708,8095,8098
+1997	Vasko Anna ml.		0	3696
+1997	Vasko Ján ml.		0	3696,3702
+1997	Vasko Ján r. Vasko		0	3020,3043,4996,5367,6004,6015,6024,6037,6041,7707,7708,8095,8098
+1997	Vasko Štefan ml.		0	3696,3702
+1997	Vasko Štefan r. Vasko		0	3020,3043,4996,5367,6004,6015,6024,6037,6041,7707,7708,8095,8098
+1997	Vavrečka Tomaš r. Vavrečka	žen. so Žofiou r.Čutek	0	1706
+1997	Višňovská Hančin Anna		0	3702
+1997	Vojtek Alžbeta r. Koščal		0	6219,7003,7622,7623
+1997	Vojtek Anna		0	4611,6150,6190
+1997	Vojtek Anna r. Brisuda		0	2030
+1997	Vojtek Anna r. Kolenčiak		0	2479
+1997	Vojtek Anna r. Strapáč		0	1205,2390,2543,4353,4356,4358,4627,4628,4629,4630,4631,4632,4633,4676,4689,4690,4956,5060,5074,5079,5081,5093,6182
+1997	Vojtek Barbora		0	4834,4836,4837,6470,6482
+1997	Vojtek Hermína		0	3461
+1997	Vojtek Ján		0	3461,3725
+1997	Vojtek Ján r. Vojtek		0	1134,1193,1212,1609,1637,2050,2051,2054,2388,2604,3440,3442,3890,3895,3904,3908,3909,3911,4407,4489,4529,4540,4541,4542,4543,4730,4732,4734,4777,4778,4788,4789,4834,4837,4838,4839,4840,4841,4842,4843,4844,4846,4852,4856,4858,4859,4863,4865,4866,4867,4869,4870,5209,5213,5216,5219,5546,6415,6430,6446,6470,6482,7063,7064,7065,7066,7067,7157,7160,7217,7348,7468,7514,7515,7669,7735,7900,7901,8000,8070,8162
+1997	Vojtek Jozef r. Vojtek		0	2150,2249,2397,4836,4948,6150,6190,6230,6324,6407,6427,6432,7071,7855,7856,7857
+1997	Vojtek Jozefina		0	6150,6190
+1997	Vojtek Katarína r. Jonek Bubrin		0	1690,1691,1692,5021,5026,5201
+1997	Vojtek Katarína r. Vojtek	malol	0	2262,6406,6425,7068,7070,7071,7072,7073
+1997	Vojtek Mária r. Brisuda		0	674,1181,2030,2494,6153,6156,6157,6158,6160,6162,6167,6968,6970,7014
+1997	Vojtek Mária vyd. za Jozefa Podmanického		0	3461
+1997	Vojtek Ondrej r. Vojtek		0	4836,6425
+1997	Vojtek Ondrejová Anna r. Kolenčiak		0	1087
+1997	Vojtek Štefan r. Vojtek		0	2150,2397,2604,4837,4948,5209,5213,5216,5219,6230,7160,7855,7856,7857,8000,8162
+1997	Vojtek Viktor		0	3461
+1997	Vojtek Viktor r. Vojtek		0	1212,5546
+1997	Vojteková Alžbeta r. Košťalová		0	6326
+1997	Vojteková Anna r. Strapáčová		0	1604,2426,4356,5064,5067,5077,5086,6167,6182
+1997	Vojteková Antonia		0	2150,2397,4948,6230,7855,7856,7857
+1997	Vojteková Eva		0	2150,2397,4948,6230,7855,7856,7857
+1997	Vojteková Hermína		0	1134,1212,1637,2050,3725,3895,4540,4541,4730,4732,4844,4846,4852,4858,5546,6446,7669,7900,7901
+1997	Vojteková Katarína r. Jonek Bubrinová		0	5202
+1997	Vojteková Mária		0	2150,2397,4948,6230,7855,7856,7857
+1997	Vojteková Mária r. Plaščiaková, č. 78, Nová Bystrica, PSČ 023 05, SR	nar. r. 1856, zomr. 7.8.1925	0	5029,5111
+1997	Vojteková Mária r. Plaščiaková, č. 78, Nová Bystrica, PSČ 023 05, SR	nar. r.1856, zomr. 7.8.1925	0	5031
+1997	Vojteková Verona		0	3020,5364,6030
+1997	Votava Katarína r. Držiak		0	2667,3020,3295,4986,5056,5374,5384,5386,6046,7533,7545
+1997	Vrábel Hanidžár Anna r. Pollák		0	1611,4458,4571,6529,6530,6536,6552,6556,6557,6559,6562,7319,7531,8065
+1997	Vrábel Hanidžár Martin		0	4456,4457,5482,6547,6552,6556,6557,6560,6562
+1997	Vrábel Hanidžár Ondrej	Adamov syn	0	1611,4458,4571,6529,6530,6536,6552,6556,6557,6559,6562,7319,7531,8065
+1997	Vrábel Hanidžár Vojtech		0	4457,5482
+1997	Vrábel Ján r. Vrábel	malol.,zastup. otcom Vrábel Martinom	0	6152
+1997	Vrábel Martin r. Vrábel		0	2081,4456,4457,4571,6508,6510,6511,6513,6514,6515,6519,6527,6529,6530,6532,6536,6552,6556,6557,6560,6562
+1997	Vrábel Paulina r. Petrek Janas		0	2729,4764,5641,5689,5690,6662
+1997	Vrábel Vojtech	Hanidžár	0	4378,4571,6529,6536
+1997	Vráblová Františka r. Kolenová		0	2081,4456,4457,4571,6508,6510,6511,6513,6514,6515,6519,6527,6529,6530,6532,6536,6552,6556,6557,6560,6562
+1997	Zachár Viktor r. Zachár		0	2363,2940,4215,4218,4219,4402,4728,5798,5804,5806,5809,6999,7120,7313,7754,7756,7757
+1997	Zajaček Ján r. Zajaček		0	1506,1960,2148,4534,4550,6324
+1997	Zajaček Ján r. Zajaček	malol	0	735,1961,2072,2073,2074,2151,3321,3326,3331,3333,3335,3337,3339,3343,3376,4926,4927,4931,4933,4934,4935,4942,4945,4946,6219,6233,6234,6565,7676,7677,7678,7679,7703,7907
+1997	Zajaček Ľudovit r. Zajaček		0	6624
+1997	Zajaček Mária r. Zajaček		0	6999
+1997	Zajaček Sidonia r. Kubatka		0	6624
+1997	Zajačik Eva r. Lodňan	Jozefová	0	6999
+1997	Zajačik Mária	malol	0	6999
+1997	Zarodňanská Anna	malol	0	3212,3213,3214,3215,3436,4730,4732,4849,4853,4855,4858,6264,6267,6268,6269,6271,6272,6274,7262,7263,7380,7613,7669,7898,7900,7901,8019
+1997	Zárodňanská Helena		0	4849
+1997	Zarodňanská Mária		0	3212,3213,3214,3215,3436,4730,4732,4849,4853,4855,4858,6264,6267,6268,6269,6271,6272,6274,7262,7263,7380,7613,7669,7898,7900,7901,8019
+1997	Zarodňanská Štefánia		0	3212,3213,3214,3215,3436,4853,4858,6264,6267,6268,6269,6271,6272,6274,7262,7263,7380,7898,7901
+1997	Zarodňanská Žofia r. Vojtek		0	3212,3213,3214,3215,6264,6267,6268,6269,6271,6272,6274,7262,7263
+1997	Zarodňanský Eva		0	4849
+1997	Zarodňanský Štefan r. Zarodňanský		0	3436,4730,4732,4849,4853,4855,4858,7380,7613,7669,7898,7900,7901,8019
+1997	Zaťko Adam r. Zaťko		0	1690,1691,1692,3365,5017,5021,5026,5039,5201,5202,7057,7058,7059,7360
+1997	Zaťko Anna		0	3365,5017,5021,5026,5039,7057,7058,7059,7360
+1997	Zaťko Bernard r. Zaťko		0	3365,4646,4647,4650,4688,5017,5021,5026,5039,7056,7057,7058,7059,7292,7360,7808
+1997	Zaťko Bubrin Štefan		0	1690,1691,1692,3365,5012,5021,5026,5200,5201,5202
+1997	Zaťko Huskuliak Jakub	po Štefanovi	0	4646,7056
+1997	Zaťko Huskuliak Ondrej	žen. s Evou Jonekovou	0	4646,7056
+1997	Zaťko Jozef r. Zaťko		0	5021,5039
+1997	Zaťko Jozef r. Zaťko	po Ondrejovi	0	5021,5039
+1997	Zaťko Mária		0	1690,1691,1692,5021,5026,5201
+1997	Zaťko Štefan r. Zaťko		0	3365,4646,4647,4650,4688,5017,5021,5026,5039,7056,7057,7058,7059,7292,7360,7808
+1997	Zaťková Mária		0	5202
+1997	Zbojan Mária r. Hofer		0	4629,4630,4631,4632,4633,4689,4690,6182
+1997	Zborovan Adam r. Zborovan		0	5763
+1997	Zborovan Chmúra Mária r. Hofer	Jánová	0	2543,4627,4628
+1997	Zborovan Mária r. Hofer		0	2390,4356,4358,4676
+1997	Zborovan Rusňák Anna r. Luciak		0	2005,2419,3963,3966,3967,3971,4531,4536,4537,4809,4961,5282,6085,6093,6096,6987,7295
+1997	Zelníková Anna r. Baničiaková		0	5216,5219
+1997	Zeman Anna		0	5625,5741,5743,5746,5748,5751,5752,5755,7141,7658,7687
+1997	Zeman Anton r. Zeman	malol	0	5849
+1997	Zeman Cecília		0	4322,4771,5894,5895,5897,5901
+1997	Zeman Dorota r. Kloska		0	5497,5653,5873,5876,5884
+1997	Zeman Ján r. Zeman		0	4310,5512,5873,5875,5883,6996,7002,7044,7358,7403,7886,7888
+1997	Zeman Jozef r. Zeman		0	5884
+1997	Zeman Juraj r. Zeman		0	5873,5876,5883,5884
+1997	Zeman Katarína		0	4322,4771,5894,5895,5897,5901
+1997	Zeman Katarína r. Kolenčák		0	2543,5889,7087
+1997	Zeman Martin r. Zeman		0	4310,4435,4436,4449,4818,4819,5501,5512,5873,5875,5883,6996,7002,7044,7151,7280,7281,7358,7403,7886,7888,7930
+1997	Zeman Paulina	malol	0	5849
+1997	Zeman Paulina r. Zeman		0	5344,5345,5844,5845,7133
+1997	Zeman Sidonia	malol	0	1162
+1997	Zeman Sidónia		0	4322,4771,5894,5895,5897,5901
+1997	Zeman Štefan r. Zeman		0	1162,4322,4771,5873,5876,5883,5884,5894,5895,5897,5901
+1997	Zeman Štefan r. Zeman	žen. s Barborou r.Mazur	0	3793
+1997	Zemanik Ľudovit r. Zemanik		0	6508,6511,6513,6514,6530,6532
+1997	Zemanová Anna		0	5875
+1997	Zemianka Anna r. Šulava		0	5184,5185,5857,7200,8002,8129
+1997	Ziatek Alojz r. Ziatek	Krasňan,nedospelý	0	741,1668,1672,3442,4733,4734,4859,4864,4865,4866,4868,4869,4871,4872,7157,7217,7348
+1997	Ziatek Alojz r. Ziatek	malol	0	4489,6324
+1997	Ziatek Krasňan Alojz	malol	0	3361,5479,5481,6412
+1997	Ziatek Krasňan Alojz r. Ziatek Krasňan		0	663,2523,4583,4892,6291,6361,6369,6370,6385,6402,8030
+1997	Ziateková Katarína r. Paveleková		0	5849
+1997	Zubaj Anna		0	4402,7120,7313
+1997	Zubaj Anna r. Huska		0	3295,4986,5056,6046,7533,7545
+1997	Zubaj František r. Zubaj		0	2211,4888,4898,4905,6318,6327,6328,6330,7004,7333,7672,7673,7674,7675,8116,8153
+1997	Zubaj Ján r. Zubaj		0	2211,4820,4887,4888,4897,4898,4904,4905,6318,6327,6330,6340,6412,7004,7333,7672,7673,7674,7675,8116,8153
+1997	Zubaj Jozef r. Zubaj		0	6318,7004,7333,7672,7673,7674,7675,8116,8153
+1997	Zubaj Juraj r. Zubaj	žen. s Katarínou r.Panak	0	6412
+1997	Zubaj Mária r. Griga		0	1939
+1997	Zubaj Martin r. Zubaj		0	2211,4820,4887,4888,4897,4898,4904,4905,6318,6327,6330,6340,6412,7004,7333,7672,7673,7674,7675,8116,8153
+1997	Zubaj Ondrej r. Zubaj		0	4820,6318,6330,6340,7004,7672,7673,7674,7675,8116,8153
+1997	Zubaj Štefan r. Zubaj		0	2211,4820,4887,4888,4897,6318,6330,6340,6412,7004,7333,7672,7673,7674,7675,8116,8153
+1997	Zubajová Filomena r. Petreková	vd	0	2211,4888,4898,4905,6318,6327,6328,6330,7004,7333,7672,7673,7674,7675,8116,8153
+1997	Zubajová Margita		0	1668,1672,3442,4489,4734,4859,4865,4866,4869,5479,5481,6324,6412,7157,7217,7348
+1997	Zuziak Ján		0	4356,4632,4689,4690,5066
+1997	Zuzjak Anna r. Hofer		0	2390,2543,4356,4358,4627,4628,4676
+1997	Zuzjak Ján r. Zuzjak		0	1087,2426,2479,2543,4353,4627,4628
+1997	Zuzjak Katarína r. Hofer		0	4629,4630,4631,4632,4633,4689,4690,6182
+1997	Žovin Anna r. Žovin		0	1131,5646,5679
+1997	Žovin František r. Žovin		0	1421,1515,7436,7917
+1997	Žovin Františka		0	1422
+1997	Žovin Františka r. Žovin		0	1422
+1997	Žovin Ján r. Žovin		0	1418,1422,1515,2653,3295,4469,4559,4794,4969,4978,4986,5056,6049,6066,6070,6117,7572,7582,7597,7918,8115
+1997	Žovin Ján r. Žovin	žen. s Annou Cabadajovou	0	2819
+1997	Žovin Jozef r. Žovin		0	1418,1421,1422,1499,1515,1596,2419,2653,3764,4083,4084,4469,4487,4536,4537,4822,4823,4960,6080,6085,6097,6100,6101,6102,6103,6104,6117,6122,6124,6126,6132,7294,7295,7436,7509,7571,7572,7574,7576,7581,7582,7598,7917,7918,8115
+1997	Žovin Jozef r. Žovin	vzdial	0	1422,4822
+1997	Žovin Katarína		0	1418,1421,1422,1515,2653,4469,4823,6117,7436,7572,7582,7917,7918,8115
+1997	Žovin Mária		0	1421,1422,1499,1515,2419,4083,4469,4536,4537,6080,6097,7436,7572,7582,7917,7918,8115
+1997	Žovin Mária r. Jančula		0	6412
+1997	Žovin Mária r. Plaštiak		0	6405,6406,7069,7070,7071
+1997	Žovin Martin r. Žovin		0	4083,6080,6102,6117
+1997	Žovin Mikuláš r. Žovin		0	1421,1422,1499,1515,4469,4822,4823,7436,7572,7582,7917,7918,8115
+1997	Žovin Ondrej r. Žovin		0	6124
+1997	Žovin Štefan r. Žovin		0	1421,1422,1499,1515,4469,4822,4823,6102,7436,7572,7582,7917,7918,8115
+1997	Žovin Štefan r. Žovin	syn Jozefa	0	1421,1422,1499,1515,4469,4822,4823,7436,7572,7582,7917,7918,8115
+1997	Žovin Vincent r. Žovin		0	6102
+1997	Žovinová Mária		0	4822,6102
+1997	Žovinová Paulina r. Zemanová		0	6102
+1998	Adamcová Jozefína r. Palcová	Veľký Kolačín 27	0	2804,3149
+1998	Bajčík Pavol r. Bajčík	ž. Antónia Švecová, Trenčianska Teplá 456	0	3247
+1998	Bajčík Viktor r. Bajčík	zomrel 30.3.2000, naposledy Cukrovarská 314/12, 914 01 Trenč.Teplá	0	3237,3708
+1998	Bajčíková Anna r. Bajčíková	m. Anton, Trenčianska Teplá 378	0	3237,3708
+1998	Baláž Jozef r. Baláž	manž. Magda Šeligová, zomrel 2.6.1999 V.Kolačín	0	2497,2498
+1998	Bartanusová Karolína r. Anetová	Žilina	1	3224
+1998	Bartanusová Karolína r. Anetová	Žilina, LSR	0	3225
+1998	Bednár Ján r. Bednár	č.d.3477/34	1	2803
+1998	Beláková Agnesa r. Hallová	m. Michal, Trenčianska Teplá 553	1	3186
+1998	Belková Mária r. Provazníková	m. Jakub, Trenčianska Teplá 370	1	3051
+1998	Belková Mária r. Provazníková	m. Jakub, Trenčianska Teplá 370, LSR	0	2438
+1998	Benková Alžbeta r. Hložanová	č.d.2498/1895, 1108/35	1	2574,2596
+1998	Benková Alžbeta r. Hložanová	č.d.786/08	1	2370
+1998	Beňo Juraj r. Beňo	Trenčianska Teplá 407	1	3360
+1998	Bernát Adam r. Bernát	Júlia rod.Balážová,Trenčín,čd.3248/41	1	3442
+1998	Bieliková Pavlína r. Janušová	Trenčianska Teplá 447, LSR	0	3219
+1998	Blaško Miroslav r. Blaško	posledne bytom Dubnica nad Váhom	1	2373,2498,2663,2664,2665,2666,2667,2668,2838,2853,2862
+1998	Boženec Pavol r. Boženec	ž. Mária Betáková, Trenčianska Teplá 129, LSR	0	3325,3327
+1998	Boženec Peter r. Boženec, P.O. Hviezdoslava 195, Trenčianska Teplá, PSČ 914 01, SR		0	3309,3336,3337
+1998	Brožíková Františka r. Lacková	m. Jozef, Ústí nad Orlicí, ČR LSR	0	3308
+1998	Bubeníková Katarína r. Masárová	m. Štefan, Trenčianska Teplá 213	1	2496,2614
+1998	Bubeníková Katarína r. Masárová	m. Štefan, Trenčianska Teplá 213, LSR	0	3289,3290
+1998	Burda Alojz r. Burda	naposledy Paseka 179, Makov	1	2842
+1998	Burda Alojz r. Burda	Veľký Kolačín 42	1	2882
+1998	Burdová Mária r. Burdová, SR	Veľký Kolačín 42	1	2882
+1998	Burdová Milka, SR	zomrela	1	2842
+1998	Burdová Valéria, SR	zomrela	1	2842
+1998	Čačko Ján r. Čačko	posledne bytom Most, ČR	1	2278
+1998	Čierna Alžbeta r. Pytlíková	Trenčianska Teplá 236, LSR	0	2441,3234
+1998	Čierny Jozef r. Čierny	ž. Anna Gallová, Trenčianska Teplá 168	1	3079,3175
+1998	Čierny Jozef r. Čierny	ž. Anna Gallová, Trenčianska Teplá 168, LSR	0	3080
+1998	Dianová Júlia r. Horňáková	zomrela 29.6.1991, D 86/99.-984/99, D 1289/91.-1418/99 DCA	1	2731,2732,2733
+1998	Dobiaš Jozef r. Dobiaš	Trenčianska Teplá 42	1	3201
+1998	Dobiaš Jozef r. Dobiaš	zomrel 15.12.1995	1	3226
+1998	Dobiaš Jozef r. Dobiaš	zomrel 15.12.1995, LSR	0	3227
+1998	Dobiaš Pavol r. Dobiaš	zomrel 17.3.1991	1	3226
+1998	Dobiaš Pavol r. Dobiaš	zomrel 17.3.1991, LSR	0	3227
+1998	Dobiaš Štefan r. Dobiaš	Anna Čierna, Trenčianska Teplá, LSR	0	2446
+1998	Dobiaš Štefan r. Dobiaš, 914 01, Trenčianska Teplá, č. 809, SR		0	2446
+1998	Dobiašová Anna r. Ružičková	Trenčianska Teplá 41,zomrela 6.10.1984	1	3181,3235
+1998	Dobiašová Antónia r. Hoštáková	m. Jozef, Trenčianska Teplá 42	1	3201,3253
+1998	Dobiašová Helena r. Dobiašová	maloletá, Trenčianska Teplá 401	1	3055
+1998	Dobiašová Helena r. Dobiašová	maloletá,Trenčianska Teplá 401, LSR	0	2446
+1998	Dobiášová Helena r. Dobiašová	maloletá, Trenčianska Teplá 401, LSR	0	2437,3053
+1998	Dobiašová Margita r. Dobiašová	Trenčianska Teplá 401	1	3055
+1998	Dobiašová Margita r. Dobiašová	Trenčianska Teplá 401, LSR	0	2437,2446,3053
+1998	Dobiašová Mária	Trenčianska Teplá 137	1	3182,3235
+1998	Dohnanská Katarína	č.d.7810/1886, 8249/1891	1	2681
+1998	Dubačová Mária r. Božencová	m. Ján, Trenčianska Teplá 33, LSR	0	3327
+1998	Dubničková Katarína r. Hložanová		1	2370
+1998	Dulka Lukáč r. Dulka	zomrel 5.4.1983, 1D 620/83.-43/83 V.Kolačín	1	2733
+1998	Dulka Lukáč r. Dulka	ž. Anna Palcová, zomrel v PK D 146/40	1	2786
+1998	Dulka Štefan r. Dulka	ž. Mária Marušincová, zomrel, D 263/58	1	2266,2733
+1998	Dulková Františka r. Roncová	zomrela 6.2.2001, 4D 468/01.-27/03 V.Kolačín	1	2751
+1998	Dulková Jozefína r. Šmatláková	manž. Lukáč,Veľký Kolačín 31	1	2728
+1998	Dulková Jozefína r. Šmatláková	manž.Lukáč, Veľký Kolačín 31	1	2729
+1998	Farula Martin r. Farula, Revolučná 938/6, Trenčianska Teplá, PSČ 914 01, SR		0	3282
+1998	Felkelová Anna	Bratislava,čd.2245/48 , LSR; Bratislava,čd.2245/48	0	3436

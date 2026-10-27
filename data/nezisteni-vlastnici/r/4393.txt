@@ -1,0 +1,256 @@
+2502	VIŠŇOVSKÝ Juraj		0	514
+2502	VIŠŇOVSKÝ Štefan	manž.Anna rod.Nemcová	0	19
+2502	VYŠŇOVSKÝ Michal		0	133,514,515
+2502	ZEC Michal		0	27,431
+2503	Bacsová Matilda r. Kissová	muž Štefan	0	767
+2503	Budai Štefan r. Budai		0	527
+2503	Burdiga Benjamin r. Burdiga		0	165,792
+2503	Burdiga Ján r. Burdiga		0	165,792
+2503	Burdiga Ladislav r. Burdiga		0	165,568,792
+2503	Burdiga Martin r. Burdiga		0	310,311,328,416,874,923,928
+2503	Burdiga Ondrej r. Burdiga	ml	0	568,719,792
+2503	Burdiga Ondrej r. Burdiga	st	0	772
+2503	Burdiga Štefan r. Burdiga	1	0	415,791
+2503	Burdiga Štefan r. Burdiga	2	0	165,792
+2503	Burdigová Borbála	mal	0	416,874
+2503	Burkovská Barbora		0	321
+2503	Burkovská Helena r. Burdigová		0	792
+2503	Burkovský Dezider r. Burkovský		0	165,719,792
+2503	Burkovský Ján		0	442
+2503	Burkovský Ján r. Burkovský	1	0	164,321,443,706,707,787,828
+2503	Burkovský Jozef r. Burkovský		0	164,321,443,787,828
+2503	Burkovský Ondrej		0	163,909
+2503	Burkovszki Ján r. Burkovszki		0	812
+2503	Burkovszki Jozef r. Burkovszki		0	812
+2503	Cirbes Ondrej r. Cirbes		0	165
+2503	Cirebesová Alžbeta r. Kissová		0	748
+2503	CS.STAT-ONV ROZNAVA		0	210,228,653
+2503	Csapó Ľudovít r. Csapó	manž.Alžbeta r.Geldová	0	727
+2503	Csapóová Julianna	mal	0	727
+2503	Csapóová Margita	mal	0	727
+2503	CSL. STAT - ONV ROZNAVA		0	581,582,910,938
+2503	Czirbusz Alexander r. Czirbusz	manž.Júlia r.Bajczerová	0	802
+2503	Czirbusz František r. Czirbusz	mal	0	802
+2503	Czirbusz Štefan r. Czirbusz	mal	0	802
+2503	Czirbuszová Malvina	mal	0	802
+2503	Czirbuszová Mária r. Racsková		0	753,802
+2503	Čapová Alžbeta	mal	0	727
+2503	Českoslov. štát - ONV v Rožňave		0	569
+2503	Československý štát - ONV Rožňava		0	571
+2503	Čs. štát - Slovenský pozemkový fond		0	523,524
+2503	Demény Štefan r. Demény		0	768,817
+2503	Demenyová Alžbeta		0	527,817
+2503	Deményová Barbora r. Burdigová		0	416,874
+2503	Dobos Alexander r. Dobos		0	701
+2503	Dobosová Juliana		0	298,337,415,453,701,791
+2503	Dobosová Margita		0	701
+2503	Doboš Ján r. Doboš		0	454,720
+2503	Doboš Štefan		0	653
+2503	Doboš Štefan r. Doboš		0	720
+2503	Dobošová Mária		0	720
+2503	Fulekyová Rozália r. Lörinczová, MUDr.		0	581
+2503	Gál Štefan r. Gál	mal.,ml	0	783
+2503	Galo Štefan r. Galo		0	769
+2503	Gálová Juliana r. Hicérová		0	783
+2503	Galová Vilma	1	0	720
+2503	Gálová Vilma		0	452
+2503	Gálová Vilma	1; 1	0	453,454
+2503	Gemerské železorudne bane, n.p.	Rožňava	0	749
+2503	Gotthard Ján r. Gotthard		0	164
+2503	Gotthard Martin r. Gotthard		0	731
+2503	Gotthardová Johana		0	164
+2503	Gotthardová Zuzana r. Kerekešová		0	205,540,570,573
+2503	Gotthardová Zuzana r. Kerekešová	muž Martin	0	311,816,861
+2503	Gyenesová Maria r. Kesziová		0	737
+2503	Heveši Alexander r. Heveši	Jovice	0	805
+2503	Hevešiová Helena r. Kančová		0	805
+2503	Hudáková Margita r. Kissová	muž Ján	0	767
+2503	Igaliová Rozália r. Kiššová		0	395
+2503	Iglai Emil r. Iglai	1	0	722
+2503	IGLAI IMRICH		0	846
+2503	Iglai Imrich r. Iglai	1	0	320,394,395,708,709,845
+2503	Iglai Ján r. Iglai		0	320,394,395,708,709,845
+2503	Iglai Ľudovít		0	846
+2503	Iglai Ľudovít r. Iglai		0	320,394,395,708,709,845
+2503	Iglai Štefan r. Iglai		0	320,394,395,708,709,722,845
+2503	Jakubíková Katarína r. Budaiová		0	706
+2503	Juhás Ondrej r. Juhás		0	663,820
+2503	Kecseiová Alžbeta	Vintirov	0	737
+2503	Kerekes Ján		0	846
+2503	KEREKES JOZEF		0	206,952,954
+2503	Kerekes Ľudovit r. Kerekes	manž.Julianna r.Gotthardová	0	184,310,311,328,807,834,895,923,928
+2503	Kerekes Ondrej r. Kerekes	mal	0	716,770
+2503	Kerekes Štefan		0	183,846,894,948,949
+2503	Kerekes Zoltán r. Kerekes		0	716,770
+2503	Kerekesová Borbála r. Burdigová	muž Ladislav	0	753
+2503	Kerekesová Júlia		0	183,894,948,949
+2503	Kerekesová Júlia r. Gotthardová		0	205,209,460,569,570,574,652,911,931
+2503	Kerekesová Magdalena		0	770
+2503	Kerekeš Dezider r. Kerekeš	mal	0	184,310,311,328,895,923,928
+2503	Kerekeš Gejza r. Kerekeš		0	727
+2503	Kerekeš Ján r. Kerekeš		0	727
+2503	Kerekeš Ján r. Kerekeš	1	0	708,709,845
+2503	Kerekeš Jozef r. Kerekeš		0	727
+2503	Kerekeš Juraj r. Kerekeš		0	895
+2503	Kerekeš Juraj r. Kerekeš	manž.Rozália	0	763
+2503	Kerekeš Ľudovít r. Kerekeš	ml	0	727
+2503	Kerekeš Štefan r. Kerekeš	1	0	328,923
+2503	Kerekeš Štefan r. Kerekeš	2	0	727
+2503	Kerekeš Štefan r. Kerekeš	syn Štefana	0	184,310,895,928
+2503	Kerekešová Juliana r. Kerekešová		0	184,895
+2503	Kerekešová Margita r. Burdigová		0	716
+2503	Kerekešová Mária r. Iglaiová		0	320,394,395
+2503	Kerekešová Rozália	muž Juraj	0	763
+2503	Kesi Emil r. Kesi		0	722
+2503	Kesiová Žofia r. Iglaiová		0	320,394,395,708,709
+2503	Keszi Arpad r. Keszi		0	737
+2503	KESZI JOZEF		0	209,210,228,460,569,571,574,581,582,652,653,910,911,931,938
+2503	Keszi Ludovit r. Keszi		0	737
+2503	Kesziová Alžbeta r. Kerekešová		0	183,894,948,949
+2503	Kesziová Júlia		0	209,228,460,569,571,574,581,582,652,910,911,931,938
+2503	Kesziová Júlia r. Kissová	muž Ondrej	0	809,810
+2503	Kesziová Juliana		0	210,653
+2503	Kesziová Margita	mal	0	588
+2503	Kesziova Maria		0	737
+2503	Kis Ondrej		0	939
+2503	Kisová Barbora r. Kesziová		0	210,569,571,582,653,910,938
+2503	Kisová Lidia		0	762
+2503	Kiss Albert r. Kiss	1	0	738
+2503	Kiss Ján		0	206,952,954
+2503	Kiss Ján r. Kiss	manž.Juliana r.Dobošová	0	415,791
+2503	Kiss Ján r. Kiss	manž.Mária r.Beláková	0	767
+2503	Kiss Ján r. Kiss	najml	0	727
+2503	Kiss Ladislav r. Kiss	manž.Alžbeta r.Gálová	0	373,784
+2503	Kiss Ľudovít r. Kiss		0	811
+2503	Kiss Ľudovít r. Kiss	najml	0	727
+2503	KISS MARTIN		0	228,375,569,571,574,581,582,652,653,910,931,938,939
+2503	Kiss Martin r. Kiss	1	0	808
+2503	Kiss Martin r. Kiss	manž.Margita r.Hicérová	0	798
+2503	KISS ONDREJ		0	228,569,571,574,581,582,652,653,910,931,938
+2503	Kiss Ondrej r. Kiss	manž.Terézia r.Rémiásová	0	767
+2503	Kiss Ondrej r. Kiss	ml	0	727
+2503	KISS VILIAM		0	375,523,524
+2503	Kiss Vojtech r. Kiss		0	316,320
+2503	Kissová Barbora r. Kesziová		0	209,228,460,574,581,652,911,931
+2503	Kissová Helena r. Vanyová		0	442
+2503	Kissová Irma	mal	0	314,315,316,317,318,319,320
+2503	Kissová Mária r. Kerekešová		0	310,928
+2503	Kiš Vojtech r. Kiš	mal	0	410
+2503	Kišová Alžbeta	mal	0	410
+2503	Kišová Irma	mal	0	410
+2503	Kišš Ľudovít r. Kišš	manž.Klára r.Fábianová	0	718
+2503	Kišš Martin r. Kišš	st	0	833
+2503	Kiššová Alžbeta r. Juhászová		0	663
+2503	Kiššová Klára r. Fábianová		0	718
+2503	Krištofová Katarína		0	453,454,720
+2503	Krištofová Katarína, SR		0	452
+2503	Krupinská Mária r. Jakubiková	muž bol Michal	0	706,707,787,828
+2503	Krupinský Štefan r. Krupinský	mal	0	314,315,316,317,318,319,410
+2503	Kufferová Helena r. Demenyová		0	750
+2503	Kuriánová Gizella r. Cirbuszová	muž Imrich	0	802
+2503	Lindáková Alžbeta r. Burdigová		0	416,874
+2503	Liptáková Mária r. Szöllösová		0	773,777
+2503	Lörinc Imrich r. Lörinc		0	293,294,803
+2503	Lörinc Jozef r. Lörinc	manž.Mária r.Kissová	0	746
+2503	Lörincová Mária r. Kissová	muž Jozef	0	734,746,809,810
+2503	Lörincz Jozef r. Lörincz	manž.Mária r.Kisová	0	734
+2503	Lubická Alžbeta		0	715
+2503	Lubický Ján r. Lubický		0	715
+2503	Lubický Ondrej r. Lubický		0	715
+2503	Mácik Ferdinand r. Mácik		0	801
+2503	Mácik Pavol r. Mácik		0	801
+2503	Máciková Alžbeta		0	801
+2503	Máciková Valéria	mal	0	801
+2503	Mariássy Koloman		0	442
+2503	Máriássy Koloman r. Máriássy		0	321,443,812
+2503	Mócik Ferdinand r. Mócik	1	0	828
+2503	Molnar Juraj r. Molnar		0	298,415,701,791
+2503	NAGY LADISLAV		0	653
+2503	Nagy Ladislav r. Nagy	manž.Mária r.Burdigová	0	760,790
+2503	Nagy Ladislav r. Nagy	manž.Zuzana r.Kissová	0	789
+2503	Nagy Ľudovít r. Nagy	manž.Mária r.Némethová	0	789,790
+2503	Nagy Štefan r. Nagy	manž.Helena r.Gebeová	0	527,528,584,789,790,868
+2503	Nagy Tomáš r. Nagy		0	527
+2503	Nagyová Anna	mal	0	270
+2503	Nagyová Helena r. Gebeová		0	789,790
+2503	Nagyová Irena	mal	0	270
+2503	Nagyová Júlia r. Kissová	muž Dezider	0	767
+2503	Nagyová Margita r. Kerekesová	muž Štefan	0	716,770
+2503	Oglai Ján		0	846
+2503	Oglai Štefan		0	846
+2503	Okolicsányiová Margita r. Máriássyová		0	757
+2503	ONV Rožňava		0	460
+2503	Oravec Dezider r. Oravec	manž.Mária r.Franciska	0	727
+2503	Oravec Kažimir r. Oravec		0	727
+2503	Oravec Štefan		0	206,952,954
+2503	Oravec Štefan r. Oravec	1	0	727
+2503	ORAVEC VILIAM		0	206,952,954
+2503	Paličková Juliana r. Juhásová	muž Ján	0	662,820
+2503	Paličková Julianna		0	662
+2503	Pardonová Estera r. Mačiová	vdova	0	832
+2503	Pardonová Júlia r. Kerekešová		0	832
+2503	Pardonová Julianna		0	761
+2503	Pardonová Laura	mal	0	832
+2503	Pardonová Zuzana	mal	0	832
+2503	Perlakiová Barbora r. Tóbiszová	muž Štefan	0	298,415,791
+2503	Poláková Klára r. Iglaiová		0	320,394,395,708,709
+2503	Pozman Jozef r. Pozman		0	819
+2503	Pozmanová Barbora r. Kerekešová		0	939
+2503	Pozmanová Margita r. Kerekešová		0	228,569,571,574,581,582,652,653,910,931,938
+2503	Racsko Štefan r. Racsko	mal	0	753
+2503	Regeczová Juliana r. Burdigová	muž Jozef	0	416,874
+2503	Slovenský pozemkový fond		0	302,353,375,376
+2503	Sölöšová Julianna r. Sölöšová		0	831
+2503	SR MNV RUDNA		0	257
+2503	Sušaniová Júlia r. Lubická		0	715
+2503	Szabadosová Anna	muž Ľudovít	0	807,834
+2503	Szabadošová Anna r. Kerekešová		0	184,310,311,328,895,923,928
+2503	Szabová Júlia r. Kissová, SR		0	906,940
+2503	Szabová Margita r. Fabiánová		0	353
+2503	Szabová Margita r. Kissová		0	374,375,376
+2503	Szüková Vilma r. Gálová		0	791
+2503	Šoltés Ondrej r. Šoltés		0	739
+2503	Šoltésová Alžbeta		0	739
+2503	Šoltésová Anna		0	739
+2503	Tóbisz Ondrej r. Tóbisz	mal	0	298,415,701,791
+2503	Tóbiszová Alžbeta	mal	0	298,415,701,791
+2503	Tóbiszová Zuzana	mal	0	298,415,701,791
+2503	Tothová Mária r. Tobisová		0	298,415,701,791
+2503	Vano Jan r. Vano		0	735
+2503	Vano Jozef r. Vano		0	735
+2503	Vano Ladislav r. Vano		0	735
+2504	Alexa Ján r. Alexa	II Dátum úmrtia: 08.06.1992	0	47
+2504	Alexa Ján r. Alexa	II; Dátum úmrtia: 08.06.1992	0	920,959,1116
+2504	Alexa Ján r. Alexa	II; Dátum úmrtia:08.06.1992	0	46,48,49,868,919,1121,1214,1344,1483
+2504	Alexová Mária r. Marfláková		0	39,41,42,43,44,45,46,47,48,49,96,97,98,101,104,174,461,675,868,919,920,956,958,959,1116,1121,1124,1125,1214,1344,1483
+2504	Ali Ján		0	889,902,903,923,924,940,1013,1113
+2504	Ali Štefan		0	889,902,903,923,924,940,1013,1113
+2504	Aliová Margita		0	889,902,903,923,924,940,1013,1113
+2504	Aliová Mária		0	1013
+2504	Aliová Verona		0	889,902,903,923,924,940,1013,1113
+2504	Andraško Ján		0	594
+2504	Ažalovič Justin	ž Mária r Janošová	0	109,1376
+2504	Ažalovičová Mária r. Janošová		0	109,1376
+2504	Babíková Anna r. Hudáková		0	36,512,513,1112
+2504	Babíková Anna r. Hudáková	Rudňany 97	0	572,1056,1068,1071,1085
+2504	Badányová Paula r. Máriassyová		0	1123
+2504	Bakoš Ján	I	0	594,1027
+2504	Bakoš Ján r. Bakoš		0	720
+2504	Bakoš Michal	III	0	210,768,1037
+2504	Bakoš Štefan	II	0	210,366,768,1037,1249
+2504	Bakošová Mária r. Hanuščinová	vd	0	594
+2504	Bakošová Žofia		0	210
+2504	Bálintová Mária r. Czapáková		0	109,1376
+2504	Baluch Ján	ž. Alžbeta r. Semanová,Domaňovce	0	127
+2504	Baluch Juraj	ž. Justína r. Rusňáková	0	127
+2504	Baluch Michal		0	127
+2504	Baluchová Justína r. Rusňáková		0	127
+2504	Baluchová Katarína r. Rusnáková		0	127
+2504	Banašová Anna r. Sopkovičová		0	41,42,43,44,45,46,47,48,49,97,98,101,174,868,956,958,959,1116,1121,1124,1125,1214,1344,1483
+2504	Bandyová Mária r. Jánošíková		0	1158
+2504	Barbuš Jozef		0	889,902,903,923,924,940,989,1018
+2504	Barbuš Michal r. Barbuš	II; Dátum úmrtia: 03.02.1986	0	325,1009,1259
+2504	Barbuš Michal r. Barbuš	II; Dátum úmrtia:03.02.1986	0	568,1319
+2504	Barbuščák Juraj		0	208,209,594
+2504	Barbušová Anna	IV	0	568,594,1009,1259,1319
+2504	Barbušová Anna	VI	0	325

@@ -1,0 +1,256 @@
+791	SOTAK Ján		1	397,587,638
+791	SOTÁK Juraj		1	587
+791	SOTAK Michal		1	397,587,638
+791	SOTAK Michal	1	1	587
+791	SOTÁK Pavol	1	1	587
+791	Sotáková Anna r. Kochmanová, SR	narodená 1914	1	521
+791	SOTÁKOVÁ Mária		1	415,587
+791	SOTÁKOVÁ Mária	r.Doričová 1	1	587
+791	SOTÁKOVÁ Mária	r.Imlejová	1	587
+791	SZTARAYOVÁ Irma		1	555
+791	ŠTEC Juraj		1	596
+791	Štecová Mária r. Ryniková, SR	muž.Ján	1	459
+791	ŠTOFA Juraj		1	590
+791	ŠTOFA Michal		1	590
+791	ŠTOFOVÁ Mária	r.Dulajová	1	526
+791	ŠUHAJDOVÁ Alžbeta	r.Basandová	1	382,441,587,633
+791	TELEKANIČ Ján		1	389,587
+791	TIMKO Ján		1	381,442,443,524,587,664,665
+791	TIMKO Ján, mal.		1	621
+791	Timko Ján, SR	manž.Anna r.Kotunová	1	443,587,665
+791	TIMKOVÁ Anna	r.Kotunová	1	381,524
+791	TIMKOVÁ Anna	r.Záhorčáková	1	587
+791	TIMKOVÁ Mária	malol	1	442,443,524,587,664,665
+791	TISOVÁ Mária	r.Doričová	1	587
+791	TIŽA Juraj	1	1	587
+791	TIŽOVÁ Mária	r.Sinčaková	1	587
+791	TKAČOVÁ Anna	r.Streňová	1	500
+791	TOMKO Ján		1	487
+791	TOMKO Ján	mal	1	487
+791	TOMKO Juraj		1	487
+791	TOMKOVA Anna		1	487
+791	TOMKOVA Maria	mal	1	487
+791	TOMKOVA Maria	r.Kovalova	1	487
+791	TOMKOVÁ Mária		1	487
+791	TÓTH Štefan		1	368
+791	ÚVERNÉ Družstvo r. ÚVERNÉ Družstvo		1	597
+791	VAHÁROVÁ Elena	r.Danková	1	587
+791	VAHÁROVÁ Elena r. Danková		1	398,641
+791	VARECHOVÁ Mária		1	368
+791	Varchola Michal, SR	manž.Anna r.Papová	1	503
+791	VAROŠČAK Ján		1	426,551,667
+791	Varoščák Ján, SR	manž.Anna r.Topoľančíková	1	587
+791	VASIĽOVÁ Mária r. Timková	muž Michal	1	621
+791	VIŇANSKÁ Anna		1	393,574,587
+791	VIŇANSKÁ Mária	malol	1	551,667
+791	VIŇANSKÝ Ján	malol	1	393,551,574,587,667
+791	VIŇANSKÝ Michal		1	393,574,587
+791	ZÁHORČÁK Pavol		1	587
+791	ZÁHORČÁKOVÁ Anna	r.Žužová	1	587
+791	Zalomová Alžbeta r. Doričová, SR	manž.Ján	1	452
+791	Zelinková Mária r. Korolová, Dečín, SR		1	501
+791	Zlota-Mastilak Michal, SR		1	381
+791	Zlota-Mastilaková Mária		1	381
+791	ŽOFČAK Juraj		1	383,384,440,460,470,490,587,591,596
+791	Žofčaková Mária r. Riniková	muž.Juraj	1	460,470
+791	Žofčaková Mária r. Riniková, SR	muž.Juraj	1	383,384,440,490,587,591,596
+791	Žofčáková Mária r. Ryníková, SR		1	587
+791	ŽUŽO Iľja		1	587
+792	BAKULA Andrej		0	1194
+792	BAKULA Martin		0	1194,1208
+792	BALÁŽ Cyril		0	692
+792	BALÁŽ Michal		0	692
+792	Baláž Pavol r. Baláž		0	319,517,518,603,1003,1005,1126,1161,1234
+792	BALÁŽ-HAMŠÍK Jozef		0	692
+792	Balážová Agneša r. Dohňanská		0	692
+792	BALÁŽOVÁ Alžbeta		0	692
+792	BALÁŽOVÁ Anna	r.RUSNÁKOVÁ	0	635
+792	Balážová Anna r. Chutková Chudadová		0	319,1234
+792	BALÁŽOVÁ Júlia	mal	0	692
+792	BALÁŽOVÁ Katarína	r.RUSNÁKOVÁ	0	635
+792	BALÁŽOVÁ Štefánia		0	692
+792	Balážová Žofia		0	692
+792	BAREK Ján		0	517,518,988,1090
+792	Bareková Anna r. Kučiaková		0	1130
+792	Bareková Petronela r. Detková		0	495,498,517,518,582,584,685,879,980,1135
+792	BELICA František		0	845,853
+792	BELICA Jozef	mal	0	681,1068
+792	Belicová Katarína r. Magalová		0	1210
+792	Belicová Mária r. Voleniková		0	845,853,1068
+792	Belicová Mária r. Vrabcová		0	681,1201
+792	BENKO-CHUDADA Matej		0	384,767
+792	BEŇO František	ZOMREL	0	637
+792	BEŇO Štefan		0	637
+792	BEŇOVÁ Helena		0	637
+792	Beňová Mária r. Loduhová		0	58,1327
+792	Bieliková Zuzana r. Zacharová		0	692
+792	BOGIN Matúš		0	517,518,1015,1341,1342
+792	BOGINOVÁ Karolína		0	517,518,1015,1341,1342
+792	Brnák - Adamička Ján		0	1141
+792	Brnák - Adamička Tomáš		0	521,659,662
+792	Brnák - Adamička Verona r. Danková		0	460,461,462,517,518,521,659,662,1215
+792	BRNÁK Ondrej		0	517,518,933,1147
+792	BRNÁK Tomáš		0	521,659,662
+792	Brnáková Júlia r. Šeligová		0	460,461,462,517,518,521,659,662,1215
+792	Brnáková Mária		0	1150
+792	Bývalí urbarialisti	Obce Horná Breznica	0	1107
+792	Červená Alžbeta r. Súkeníková		0	1074
+792	Červená Amália r. Karasová		0	54,629,699,855,973
+792	Červená Helena r. Karasová		0	517,518,521,659,662
+792	Červená Irena r. Karasová		0	517,518,1043
+792	Červená Štefánia r. Beňová		0	977,978,1042,1435,1436
+792	Červená Terézia r. Ivanišová		0	1153
+792	Červený Andrej r. Červený		0	54,629,699,855,973,1153
+792	Červený Anton r. Červený		0	1085
+792	Červený Ferdinand r. Červený		0	1051
+792	ČERVENÝ Ján		0	517,518
+792	ČERVENÝ Jozef		0	54,629,699,855,973
+792	Červený Rudolf r. Červený		0	699
+792	Červený Vincent r. Červený		0	79,266,517,518,521,646,649,656,659,662,665,983,1084,1123,1211,1212
+792	DÁVID Andrej		0	411
+792	DÁVID Matúš		0	411
+792	DÁVID Štefan		0	411
+792	Dávidová Mária r. Pažiteková		0	404
+792	DETKO Blažej		0	1216,1235
+792	DETKO Imrich		0	461,462,1026,1027
+792	DETKO Martin		0	685,980
+792	DETKO Peter		0	461,462,582,584,1216,1235
+792	DOHŇANSKÝ František		0	692
+792	DOHŇANSKÝ Juraj		0	692
+792	DOHŇANSKÝ Martin		0	692
+792	DRAHUTA-BAROŠ Pavol		0	203,1127
+792	DZURKO Štefan		0	981,1187
+792	Dzurková Katarína r. Holíková		0	681,1200
+792	Dzurková Katarína r. Parohová		0	1199
+792	FRANEK Jozef	mal	0	507,508,517,518,896,928,995,996,997,998
+792	FRANEK Serafín		0	507,508,517,518,896,928,995,996,997,998,1246
+792	Furová Anna r. Dzurková		0	981
+792	Gajdoš Štefan	manž.Mária r. Hazalová	0	1243
+792	Gajdošová Ocináková Mária r. Slabá		0	1189,1192
+792	GELO Ján		0	1189
+792	HABAN Marek		0	54,220,302,476,498,517,518,558,627,629,694,699,846,855,864,892,973,1010,1011,1019,1020,1046,1047,1183,1184
+792	HABAN Vincent		0	306,309,311,313,517,518,1104,1119,1129
+792	Habanová Kristína r. Beňová		0	156,472,475,517,518,977,978,991,992,1042,1043,1137,1434,1435,1436
+792	Havko Pavel r. Havko		0	411
+792	Hazala - Juda Štefánia r. Ondrichová		0	1190
+792	Hazala - Juda Vendelín		0	1190
+792	Hazala Jozef r. Hazala		0	1187,1206
+792	Hazala Štefan r. Hazala		0	1187,1205,1206
+792	Hazalová Mária r. Galková		0	1187,1205,1206
+792	Holíková Amália r. Červená		0	699
+792	HOLÍKOVÁ Henrieta	mal	0	681,906
+792	HOLÍKOVÁ Mária	mal	0	680,681
+792	HOLÍKOVÁ Mária - Anna	mal	0	681,906
+792	Holíková Vlasta - Amália	mal	0	681,906
+792	Homolová Lucia r. Struhárová		0	1207
+792	HROMÁDEK Mikuláš		0	517,518
+792	HROMÁDEKOVÁ Katarína r. BEŇOVÁ		0	637
+792	HROMÁDKA Ondrej		0	636
+792	Hurínková Margita r. Martišová		0	1197
+792	CHACHULA Ján		0	672
+792	CHACHULOVÁ Helena		0	672
+792	Chachulová Mária r. Zelenáková		0	534
+792	Chachulová Paulína r. Körmendyová		0	177
+792	CHODÚR Bohumil		0	518
+792	Chudada Cyril r. Chudada		0	844
+792	Chudada Peter r. Chudada		0	83,517,518,631,632,1385
+792	Chudadová Cecília		0	1115
+792	Chudadová Leopoldína r. Körmendyová		0	846
+792	Chudadová Terézia r. Karasová		0	631,632
+792	Chudý Emil r. Chudý		0	1210
+792	Chutko - Chudada Vincent		0	230,319,517,518,1234
+792	Chutko - Chudadová Mária r. Chudadová		0	316
+792	Jantáková Alžbeta r. Súkeníková		0	517,518
+792	Janušeková Katarína r. Sojková		0	1203
+792	Jarošová Verona r. Balážová		0	692
+792	JEŽO Anton		0	991,992
+792	JEŽO Eduard		0	939,1062
+792	JEŽO Štefan		0	939,1062
+792	Ježová Zuzana r. Šimková		0	939,1062
+792	JURÍKOVÁ Agnesa		0	465,895,989
+792	Kapralíková Zuzana r. Hazalová		0	1187,1206
+792	Karas Anton r. Karas		0	1076
+792	KARAS Augustín		0	517,518,1053,1405,1407
+792	KARAS Ferdinand		0	54,302,476,498,517,518,627,629,694,699,846,855,864,892,973,1010,1019,1020,1046,1047,1183,1184
+792	KARAS František		0	296,632
+792	KARAS Ignác		0	517,518,1058,1236
+792	KARAS Ján		0	296,632
+792	KARAS Matej		0	296,632
+792	KARAS Rudolf		0	296,632
+792	KARAS Štefan		0	92
+792	KARASOVÁ Johana		0	296,632
+792	Karasová Katarína r. Janušková		0	92
+792	KARASOVÁ Mária	hluchonemá	0	173,389,517,518,729,884,1021,1022,1023
+792	Karasová Terézia r. Chodúrová		0	1181
+792	KARASOVÁ-KOPIŠOVÁ Antónia		0	465,501,508,880,895,896,989,1180
+792	KARASOVÁ-KOPIŠOVÁ Mária		0	465,501,508,517,518,880,895,896,989,995,996,1180
+792	Kluka - Kováč Ján	mal	0	805
+792	Kluka - Kováč Michal	mal	0	805
+792	Kluková - Kováčová Anna r. Kalvíková		0	1193
+792	Kluková Anna r. Hromádková		0	517,518,591,632,1059
+792	KÖRMENDY Andrej		0	576
+792	Körmendy Benjamín r. Körmendy		0	203
+792	Körmendy František r. Körmendy	mal	0	1174
+792	Körmendy Jakub r. Körmendy	mal	0	945,1174
+792	Körmendy Ján r. Körmendy		0	387,575,576,857,858,954
+792	Körmendy Jozef		0	1151
+792	Körmendy Jozef r. Körmendy	Halač	0	1169
+792	KÖRMENDY Mikuláš		0	475,517,518,792
+792	KÖRMENDY Rudolf		0	1048
+792	Körmendy Štefan r. Körmendy	1907	0	1050
+792	Körmendy Štefan r. Körmendy	1927	0	1151
+792	KÖRMENDYOVÁ Anna	hluchonemá	0	54,517,518,589,627,629,699,844,845,846,852,853,855,886,973,1033,1034,1035,1036,1320
+792	Körmendyová Antónia r. Ivanišová		0	1145
+792	Körmendyová Barbora r. Borgovská		0	1093
+792	Körmendyová Jozefína	mal	0	517,518,526,582,584,685,945,980,1037,1038,1174
+792	Körmendyová Karolína	slabomyselná	0	517,518,526,582,584,685,980,1037,1174
+792	Körmendyová Kristína r. Körmendyová		0	1048
+792	Körmendyová Mária r. Chudadová		0	490,524
+792	Körmendyová Terézia	dcéra Vincenta	0	607,608,609
+792	Kozáčeková Mária r. Detková		0	1216,1235
+792	KRCHŇÁVEK Ján		0	1188,1189
+792	KRCHŇÁVEK Ján	mladší	0	949
+792	KUCEJ Cyril	mal	0	517,518,669
+792	KUCEJ Robert	mal	0	669
+792	KUCEJOVÁ Katarína	mal	0	517,518,669
+792	KUCEJOVÁ Petronela	mal	0	517,518,669
+792	Kuviková Anna r. Sojková		0	1203
+792	Leško Ferdinand r. Leško		0	1102
+792	LODUHA František		0	54,629,699,855,973
+792	LODUHA Juraj		0	1206
+792	Loduhová Antónia r. Riecká		0	302,517,518,627,709,846,1010,1019,1020,1113
+792	Loduhová Helena r. Karasová		0	54,302,517,518,627,629,699,709,846,855,973,1010,1011,1019,1020,1113,1160
+792	LODUHOVÁ Júlia	mal	0	1206
+792	LUKÁČ Ľudovít		0	373
+792	Lukáč Ondrej r. Lukáč		0	54
+792	Lukáčová Kristína r. Ježová		0	939,1062
+792	Magala Jozef r. Magala		0	1210
+792	Magala Pavol r. Magala		0	1210
+792	Magala Vendelín r. Magala		0	1210
+792	Magalová Margita		0	1210
+792	Magalová Margita r. Dávidová		0	411
+792	Magalová Zuzana		0	1210
+792	MAJERKO Matúš		0	692
+792	MAJERKO Mikuláš		0	692
+792	Majerková Katarína r. Bakulová		0	1194
+792	Majerková Mária r. Červená		0	855
+792	MARMAN Ignác		0	404
+792	Marmanová Františka r. Slabá	Struhárová	0	1186
+792	Marmanová Františka r. Wohlschlágerová		0	1204
+792	MARTIŠ Bartolomej		0	1197
+792	Martiš František r. Martiš		0	1197
+792	MARTIŠ Gašpar		0	406,642
+792	MARTIŠ Jozef		0	1196,1197
+792	Martiš Pavol r. Martiš	Zrubák	0	1154,1155
+792	Martišová Mária r. Pitvorcová		0	1196,1197
+792	Marušiková Amália r. Pažitková		0	404
+792	Mikulová Alžbeta r. Martišová		0	1197
+792	nie je známy		0	517,518
+792	Novosádová Mária r. Šerá		0	1139
+792	OCINÁK Vendelín		0	1209
+792	Ocináková Terézia r. Bednárová		0	1209
+792	OŠČATKA Pavol		0	1065
+792	Oščatková Mária r. Körmendyová		0	1065
+792	Parohová Antónia r. Dohňanská		0	692
+792	PAŽITEKOVÁ HORNÁ Helena		0	404
+792	POTOČNÝ Ferdinand		0	999,1000

@@ -1,0 +1,256 @@
+2825	DERCOVÁ Eva	r SIŇAROVÁ zomrela	1	177,235
+2825	DERCOVÁ Mária	r KAPCALOVÁ zomrela	1	210,231
+2825	DERCOVÁ Paraska	r SIŇAROVÁ zomrela	1	201,210,214,231,244
+2825	DERCOVÁ Štefánia	r DERCOVÁ zomrela	1	181
+2825	DRIMÁK Demeter		1	179
+2825	FECENKOVÁ Anna	r GULOVÁ zomrela	1	214
+2825	GUTTER David	zomrel	1	137,145
+2825	GUTTER Hricko	zomrel	1	137,145
+2825	GUTTEROVÁ Serena	zomrela	1	181
+2825	HOJDA Vasiľ	zomrel	1	214
+2825	HUDÁK Ján	zomrel	1	142,155,179
+2825	HUDÁKOVÁ Anna	r BURÁ zomrela	1	155
+2825	JANIŠEVSKÝ Kazimír		1	162
+2825	KAČALOVÁ Anna	zomrela	1	210,231
+2825	KAPCALA Fedor	zomrel	1	214
+2825	KAPCALA Ján	zomrel	1	207
+2825	KLIMJAKOVÁ Mária	r SLIMÁKOVÁ zomrela	1	133,155,179
+2825	LIPINSKÁ Anna	zomrela	1	210,231
+2825	LIPINSKÁ Helena	zomrela	1	210,231
+2825	LIPINSKÁ Mária	zomrela	1	210,231
+2825	LIPINSKÝ Demeter	zomrel	1	202,210,231,246
+2825	LIPINSKÝ Onufer	zomrel	1	214
+2825	MAKARA Eliáš	zomrel	1	148,217
+2825	MAKARA Ján	zomrel	1	148,217
+2825	MAKARA Peter	zomrel	1	155
+2825	NEUMANNOVÁ Mindel	r GUTTEROVÁ zomrela	1	137
+2825	ORLOVSKÁ Helena	r OZOGOVÁ zomrela	1	184,212,241
+2825	ORLOVSKÝ Vasiľ	zomrel	1	155,158,179,236
+2825	PAPAJKA Peter	Medvedzie	1	186,210,212,231,241
+2825	PAPAJKA Vasiľ	Medvedzie	1	186,210,212,231,241
+2825	PAPAJKOVÁ Júlia	r LIPINSKÁ Medvedzie	1	186,210,212,231,241
+2825	PAVLOVSKÁ Terézia	r FECENKOVÁ	1	161,210,231
+2825	POCHOPENOVÁ Mária	ČR	1	208
+2825	RAČKO Jozef	Medvedzie	1	213
+2825	RAČKOVÁ Anna	r PAPAJKOVÁ Medvedzie	1	186,210,212,231,241
+2825	RIŠKOVÁ Paraska	r DERCOVÁ zomrela	1	155
+2825	ROSENVASER Hermann		1	159
+2825	SLIMÁK Ján	zomrel	1	133,155,179
+2825	SLIMÁKOVÁ Terézia	zomrela	1	155
+2825	STRELNÍKOVÁ Helena		1	144,150,179,206,210,212,217,231,239,241
+2825	SULOVIČ Cipora	zomrel	1	181
+2825	Školský majetok, SR		1	156
+2825	TIŠKO Jozef	zomrel	1	144,174,210,217,231
+2825	VANČIŠIN Ján	Krajná Porúbka zomrel	1	152
+2825	VANČIŠIN Ján	zomrel	1	155,176,179
+2825	VANČIŠIN Jozef	Krajná Porúbka zomrel	1	210,231
+2825	VANČIŠIN Štefan	zomrel	1	155,176,179
+2825	VANČIŠIN Vladimír	zomrel	1	155,176,179
+2825	VAŠUTA Peter		1	155
+2826	Baláž Ján r. Baláž	ž. Mária r. Daňková	0	437
+2826	Baláž Štefan r. Baláž	syn Juraja	0	437
+2826	Balážová Alžbeta	dcéra Juraja	0	437
+2826	Bobrik Ján r. Bobrik	vymaz. malol. r.1944, Taľka	0	737
+2826	Bobrik Milan r. Bobrik	vymaz. malol. r.1950, Taľka	0	737
+2826	Bobrik Vladimír r. Bobrik	malol. Taľka	0	737
+2826	Bobriková Helena	vymaz. malol. r.1947, Taľka	0	737
+2826	Cimbríková Anna r. Gabčová		0	778
+2826	Cina Ján r. Cina	ž. Anna r. Šofranková	0	224,724,728
+2826	Cina Ján r. Cina	ž. Mária r. Cinová	0	789
+2826	Cina Juraj r. Cina	malol. syn Štefana	0	720
+2826	Cina Štefan r. Cina	ž. Zuzana r. Gimerová	0	224
+2826	Cinová Anna	dcéra Juraja	0	296,298,650
+2826	Cinová Buchanec Mária r. Cinová	neb. man. Ján	0	810
+2826	Cinová Katarína	vymaz mal.r .1944, vydatá Verčimaková	0	224,295,296,297,298,650,728
+2826	Cinová Mária	dcéra Juraja	0	296,298,650
+2826	Cinová Mária r. Pankuchová	m. Andrej	0	726
+2826	Čorba Ján r. Čorba	ž. Anna r. Kaňuch Ladzenská	0	224,716
+2826	Čorbová Anna r. Kaňuchová Ladzenská		0	716,755,756
+2826	David Ján r. David	ž. Helena r. Kotlárová	0	732
+2826	Dreveňáková Zuzana r. Maťašová		0	714
+2826	Dudová Helena r. Fiľaková	Bridgeford ct USA	0	297,298
+2826	Ďuraš Ondrej r. Ďuraš	po Jurajovi, Nemcovce	0	608
+2826	Ďurašová Mária	po Jurajovi mníška Bač, Nemcovce	0	608
+2826	Dzurica Andrej r. Dzurica	ž. Mária r. Kaňuchová Ladzenská	0	272,712,737
+2826	Dzurica Ján r. Dzurica	ž. Anna r. Pankuch-Miklušová	0	280
+2826	Dzurica Ján r. Dzurica	ž. Mária r. Dzuriová	0	272,712,737
+2826	Dzuricová Anna r. PAnkuchová	muž Ján	0	617
+2826	Dzuricová Mária r. Kaňuch Ladzenská		0	492,694,731,815,816,817,894
+2826	Dzuricová Mária r. Kaňuchová	muž Andrej	0	565,606,877
+2826	Fečo Ján r. Fečo		0	777
+2826	Filaková Anna r. Cinová	Babie	0	224,728
+2826	Gabčo Ján r. Gabčo		0	902,903,911,912
+2826	Gabčo Vojtech r. Gabčo	ČR	0	710,711
+2826	Gabčová Anna r. Gabčová	ČR	0	710,711
+2826	Gazdačko Juraj r. Gazdačko	po Jurajovi ž. Mária r. Matysová ml	0	529
+2826	Gečarová Alžbeta r. Pankuchová		0	530
+2826	Hamarová Mária r. Guľvasová		0	729
+2826	Handzušová Mária r. Kaňuchová		0	230,231
+2826	Hažlinská Zuzana r. Kaňuch Ladzenská		0	492,694,731,815,816,817,894
+2826	Imrichová Alžbeta r. Pankuch Miklušová	Železník	0	717
+2826	Jancala Karol r. Jancala	Nemcovce	0	563
+2826	Jancala Karol r. Jancala	ž. Mária r. Bačová, Nemcovce	0	614
+2826	Jancala Štefan r. Jancala	ž. Margita r. Bačová, Nemcovce	0	761
+2826	Jancalová Mária r. Balová	Nemcovce	0	561,562
+2826	Juskanin Juraj r. Juskanin	ž. Anna r. Kurimčáková, D 530/71-11/72	0	729
+2826	Kačmárová Mária r. Karabinová	vd. muž Andrej, Okružná	0	601
+2826	Kaňuch Andrej r. Kaňuch	ž. Anna r. Orečná	0	565,606,877
+2826	Kaňuch Ján r. Kaňuch	po Márii r. Giňovej, muž Andrej	0	545
+2826	Kaňuch Ján r. Kaňuch	syn Jána	0	565,606,877
+2826	Kaňuch Ladzenský Andrej r. Kaňuch Ladzenský	syn Jána a Márie r. Baranovej	0	492,694,731,815,816,817,894
+2826	Kaňuch Ladzenský Ján r. Kaňuch Ladzenský	syn Jána a Márie r. Baranovej	0	492,731,894
+2826	Kaňuch Ladzenský Ján r. Kaňuch Ladzenský	ž. Mária r. Bakaľárová	0	490,493,755,756,793,865
+2826	Kaňuch Maťaš Andrej r. Kaňuch Maťaš	ž. Mária r. Galová	0	728
+2826	Kaňuch Maťaš Ján r. Kaňuch Maťaš	ž. Anna r. Handzušová	0	164,168,728
+2826	Kaňuch Maťaš Ján r. Kaňuch Maťaš	ž. Mária r. Mižišinová	0	728
+2826	Kaňuch Maťaš Juraj r. Kaňuch Maťaš	syn Juraja	0	164,166,168,728
+2826	Kaňuch Maťaš Štefan r. Kaňuch Maťaš	malol. syn Juraja	0	164,166,168,728
+2826	Kaňuchová Alžbeta	dcéra Jána	0	565,606,877
+2826	Kaňuchová Alžbeta r. Vajdová	vd	0	262
+2826	Kaňuchová Anna	po Márii r. Giňovej, muž Andrej	0	545,566
+2826	Kaňuchová Anna r. Birošová	PKV 175	0	785
+2826	Kaňuchová Anna r. Birošová	zomrela	0	94
+2826	Kaňuchová Anna r. Kaňuchová	muž Ján	0	565,877
+2826	Kaňuchová Anna r. Kaňuchová	muž Štefan	0	606
+2826	Kaňuchová Anna r. Kaňuchová Ladzenská	st.1	0	492,694,731,815,816,817,894
+2826	Kaňuchová Anna r. Končárová		0	776
+2826	Kaňuchová Ladzenská Alžbeta	dcéra Jána a Anny r. Dreveňákovej	0	492,694,731,815,816,817,894
+2826	Kaňuchová Ladzenská Alžbeta	dcéra Jána a Márie r. Baranovej	0	492,694,731,815,816,817,894
+2826	Kaňuchová Ladzenská Zuzana	dcéra Jána a Márie r. Baranovej	0	492,694,731,815,816,817,894
+2826	Kaňuchová Mária	PKV-259	0	713
+2826	Kaňuchová Maťašová Mária	dcéra Juraja	0	164,166,168,728
+2826	Kaňuchová Zuzana	dcéra Jána	0	565,877
+2826	Kaňuščinová Anna r. Pivovarníková	dedič 22,36	0	719
+2826	Karabinová Alžbeta	dcéra Andreja, Nemcovce	0	601
+2826	Klima Juraj r. Klima	kúpa od Anny Klimovej, Nemcovce	0	546
+2826	Klimová Zuzana	Nemcovce	0	527
+2826	Kmecová Mária r. Cinová	Kalnište	0	296,297,298,650,728
+2826	Koločíková Helena r. Kolová		0	788
+2826	Kopáčová Verona r. Gabčová	Praha ČR	0	710,711
+2826	Kotlárová Mária r. Gabčová	ČR	0	710,711
+2826	Lacková Elena r. Gabčová	ČR	0	710,711
+2826	Majer Juraj r. Majer	výmaz maloletosti r. 1948, narodený 1919, rodisko Lada	0	748
+2826	Marcinková Alžbeta r. Juskaninová	m. Ján	0	218,220,785
+2826	Marcinová Anna r. Pivovarniková	m. Ján	0	501
+2826	Maťaš Andrej r. Maťaš	ž. Melánia	0	782
+2826	Maťaš Ján r. Maťaš	ž. Mária r. Kaňuchová	0	224
+2826	Maťaš Juraj r. Maťaš	malol	0	727
+2826	Maťaš Štefan r. Maťaš	syn Andreja, LIpníky	0	565,714,877
+2826	Maťašová Anna	dar Jána a Márie r. Kaňuchovej	0	790
+2826	Mihaľov Štefan r. Mihaľov	po Andrejovi, Nemcovce	0	530
+2826	Michaleková Mária	Nemcovce	0	540
+2826	Michalová Mária r. Kaňuch Ladzenská	Nemcovce	0	492,694,731,815,816,817,894
+2826	Novotná Veronika r. Popovňáková	Sadova 10, Karlové Vary	0	607
+2826	Ondrišková Zuzana r. Kaňuchová	muž Andrej	0	565,606,877
+2826	Paľa Ján r. Paľa	ž. Anna r. Kaňuchová	0	734
+2826	Pankuch Ján r. Pankuch	syn Michala	0	272,712,737
+2826	Pankuch Juraj r. Pankuch	syn Andreja	0	617
+2826	Pankuch Mikluš Juraj r. Pankuch	ž. Zuzana r. Jurišová	0	717
+2826	Pankuch Štefan r. Pankuch	ž. Anna r. Mižaninová	0	530
+2826	Pankuchová Alžbeta r. Pankuchová	dcéra Andreja	0	617
+2826	Pankuchová Anna r. Ferencová	m. Juraj zomrela 29.6.1973 v Kanade	0	259,736
+2826	Pankuchová Mária r. Balážová		0	437
+2826	Pankuchová Miklušová Zuzana r. Jurišová		0	617,717
+2826	Pankuchová Verona r. Cinová		0	224,295,296,297,298,650,728
+2826	Pavlík Andrej r. Pavlík	po Jánovi, Solivar	0	545
+2826	Pavlík Tomáš r. Pavlík	ž. Mária r. Kaňuchová	0	713
+2826	Pavliková Mária r. Kaňuchová	m. Tomáš	0	713
+2826	Petrič Ján r. Petrič	ž. Alžbeta r. Kaňuch Maťašová, Lada	0	604,728
+2826	Pivovarník Andrej r. Pivovarník	ž. Zuzana r. Antolíková	0	719
+2826	Plančár Andrej r. Plančár	ž. Anna r. Barloková	0	618
+2826	Plančár František r. Plančár	syn Jána a Anny r. Bačovej, Nemcovce	0	560
+2826	Plančár Ján r. Plančár	syn Jána a Anny r. Bačovej Nemcovce	0	560
+2826	Plančár Ján r. Plančár	ž. Anna r. Bačová, Nemcovce	0	560
+2826	Plančár Juraj r. Plančár	Lipníky	0	765
+2826	Plančár Štefan r. Plančár	ž. Anna r. Hudáková, po Andrejovi	0	618
+2826	Plančár Vincent r. Plančár	syn Jána a Anny r. Bačovej, Nemcovce	0	560
+2826	Plančárová Anna r. Hudáková	muž Andrej, zomrela 16.1.1954	0	519,520,926,927
+2826	Plančárová Mária	dcéra Jána a Anny r. Bačovej, Nemcovce	0	560
+2826	Popovňáková Anna		0	607
+2826	Rosypaná Anna	dcéra Blažeja	0	616
+2826	Rosypaný Blažej r. Rosypaný	ž. Mária r. Rubiščáková	0	616
+2826	Rozsypaná Anna	malol. Stupava	0	791
+2826	Rozsypaný Baláž Juraj r. Rozsypaný Baláž		0	791
+2826	Rozsypaný Juraj r. Rozsypaný	malol	0	746
+2826	Rozsypaný Štefan r. Rozsypaný	ž. Mária r. Kaňuščinová	0	247,348
+2826	Siváková Zuzana r. Dávidová	Klecany ČR	0	710,711
+2826	Šveda Juraj r. Šveda	ž. Alžbeta r. Dzuricová, Čeľovce	0	712,737
+2826	Švedová Alžbeta r. Dzuricová	Čeľovce	0	272,712
+2826	Tomáš Ján r. Tomáš	ž. Anna r. Vidumská, Nemcovce	0	613
+2826	Tverdik Ján r. Tverdik	ČR, zomrel	0	532,600
+2826	Uličný Jozef r. Uličný		0	607
+2826	Vajdová Mária r. Pankuchová	m. Ján	0	551,552
+2826	Verčimák Štefan r. Verčimák	ž. Mária r. Paľová	0	565,609,877
+2826	Verčimáková Mária r. Paľa - Kaňuchová		0	550
+2826	Vereščáková Zuzana r. Pivovarniková	Nemcovce	0	501
+2826	Vidumská Anna r. Karabinová	po Andrejovi a Anne r. Karabin, Nemcovce	0	601
+2826	Vidumská Mária r. Belišová	m. Andrej, Nemcovce	0	611
+2826	Vidumský Andrej r. Vidumský	po Andrejovi a Anne r. Karabin, Nemcovce	0	601
+2826	Vidumský Ján r. Vidumský	po Andrejovi a Anne r. Karabin, Nemcovce	0	601
+2826	Vojtaško Ján r. Vojtaško	a spol	0	788
+2827	BELIŠ Ján	manž. Mária r.Námešpetrová	0	20,104,123,172,183,252,253,263,267,273,288
+2827	BELIŠOVÁ Mária r. Námešpetrová	muž Ján	0	20,104,123,172,183,252,253,263,267,273,288
+2827	Eliáš Juraj r. Eliáš		0	21,27,33,113,118,121,123
+2827	ELIÁŠOVÁ Anna r. Talpašová	zom.31.12.1956	0	123
+2827	ELIÁŠOVÁ Gabriela r. KRIŠTOFOVÁ		0	21,27,33,113,118,121,123
+2827	FOGAŠ Ján	PKV25,09.06.1976	0	177
+2827	FOGAŠOVÁ Mária	mal	0	155,156,157,158,177
+2827	GALLOVÁ Mária r. Dadejová		0	134
+2827	GIMERA Juraj		0	191
+2827	Hric Ján	ml	0	207
+2827	INÁŠ Juraj		0	28,190
+2827	Jurečko Ján	ž.Mária r.Karabinová	0	212
+2827	KENDRA Ján		0	123
+2827	KENDRA Ján	mal., PKV1	0	27,113
+2827	KENDRA Štefan	mal., PKV1	0	113
+2827	KENDROVÁ Anna	mal	0	126
+2827	KENDROVÁ Anna r. Vraňuchová		0	175
+2827	KOVAĽOVÁ Mária		0	177
+2827	Kračunovská Zuzana r. Marušová		0	206
+2827	Kurimčák Andrej	maloletý	0	131
+2827	KURIMČÁK Andrej	mal	0	139
+2827	Kurimčák Ján	maloletý	0	131
+2827	KURIMČÁK Ján	mal	0	139
+2827	KURIMČÁK Ján	ž.Anna r.Blašková	0	131
+2827	Kurimčáková Anna	maloletá	0	131
+2827	KURIMČÁKOVÁ Anna	mal	0	139
+2827	MAJERNÍK Ján		0	211
+2827	MAJIRSKÝ Andrej		0	215
+2827	Majirský Ján	mladší	0	213
+2827	NAMEŠPETROVÁ Zuzana r. Talpašová		0	22
+2827	ONUFEROVÁ Mária r. Fogašová		0	154
+2827	Palková Alžbeta r. Nazarejová		0	210
+2827	Rakoš Juraj r. Rakoš	manž. Anna r.Centeková, zomrel 12.3.1982	0	95
+2827	STANKOVIČ Ján		0	193
+2827	STANKOVIČOVÁ Anna r. Kovaľová	zom.27.02.1974	0	177
+2827	STANKOVIČOVÁ Mária		0	193
+2827	ŠTEC Juraj		0	155,156,157,158
+2827	TALIAN Andrej	mal., PKV1	0	21,27,33,113,118,121,123
+2827	TALPAŠOVÁ Anna	mal., PKV1	0	20,104,123,172,183,252,253,263,267,273,288
+2827	TIVADÁROVÁ Mária r. Eliášová		0	121
+2827	VRAŇUCH Ján	ml	0	135
+2827	VRAŇUCH Ján	ž.Mária r.Blašková	0	135
+2827	VRAŇUCH Tomáš		0	135
+2827	ŽARNAJ Anton		0	193
+2827	ŽARNAJ Tomáš		0	193
+2827	ŽARNAJOVÁ Mária		0	193
+2828	Adamčíková Barbora r. Poláková		0	770
+2828	Babejová Anna r. Fedáková		0	770
+2828	BABINČÁK Ján	ž.Barbora r.Štecová	0	270
+2828	BABINČÁKOVÁ Barbora r. Štecová	m.Ján	0	270
+2828	Balčák Andrej	vl. 953	0	770
+2828	BALČÁK Jozef		0	770
+2828	Balčáková Mária	vydatá Stašková	0	770
+2828	Balčáková Mária r. Bogáňová	muž Ján	0	770
+2828	BALINT Juraj	ž.Mária r.Kobulnická	0	192
+2828	BALINT Štefan	Mirkovce,zomrel	0	320
+2828	BALOG Andrej		0	770
+2828	Balogová Juliana r. Šarvanová		0	770
+2828	Bednariková Margita r. Semančová		0	770
+2828	Bernacká Mária r. Poláková		0	770
+2828	Boršová Margita r. Šarvanová		0	770
+2828	BRAMUKA Ján		0	544
+2828	Bubenová Mária r. Tkáčová	m. Michal	0	770
+2828	BUDAY Jan	ž.Mária r.Čontofalská	0	404
+2828	BUDAYOVÁ Helena r. Domaničová	1x vyd.Šinaľová	0	126
+2828	BUZOGÁŇ Juraj	dátum úmrtia: 30.01.1994	0	770

@@ -50,6 +50,7 @@ function buildSitemap(outRoot, articles) {
   const entries = [];
   for (const id of Object.keys(PAGES)) {
     const p = PAGES[id];
+    if (p.hidden) continue;
     const pair = p.en
       ? [{ hreflang: 'sk', href: abs(p.sk) }, { hreflang: 'en', href: abs(p.en) }, { hreflang: 'x-default', href: abs(p.sk) }]
       : null;
@@ -96,6 +97,7 @@ function updateLlms(outRoot, articles) {
     link('Domov', PAGES.home.sk), link('O nás', PAGES.about.sk), link('Služby', PAGES.services.sk),
     link('Články', ARTICLES_URL), link('Kontakt', PAGES.contact.sk),
     link('Ochrana osobných údajov', PAGES.privacy.sk),
+    ...(PAGES.owners.hidden ? [] : [link('Nezistení vlastníci – vyhľadávanie', PAGES.owners.sk)]),
   ].join('\n')}\nAnglické verzie: ${abs(PAGES.home.en)}, ${abs(PAGES.about.en)}, ${abs(PAGES.services.en)}, ${abs(PAGES.contact.en)}.`;
 
   const list = articles.map((a) => `- [${a.title}](${SITE}/clanky/${a.slug}/): ${a.description}`).join('\n');

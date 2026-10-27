@@ -1,0 +1,256 @@
+279	Nociar Pavel	a manž.Agneša r.Nociariková	1	1044
+279	Oláh Alexander	ž.Anna r.Rigová	1	888
+279	Oláh Eugen	ž.Mária r.Marčoková	1	914
+279	Oláh Ján	syn Gregora, ž.Irma r.Oláhová	1	489,490,922
+279	Oláh Ján	ž.Terézia r.Vámosová	1	913
+279	Oláhová Agnesa		1	927
+279	Oláhová Anna	slob	1	490
+279	Oláhová Irma r. Oláhová	m.Ján	1	489,490,922
+279	Orlík Jozef	ž.Helena r.Dolová	1	486
+279	Orlíková Helena r. Dolová	m.Jozef	1	486
+279	Osterreicher Arnošt	ž.Júlia r.Krausová	1	510,677,741,908
+279	Osterreicher Ján		1	858
+279	Pál Ján		1	285
+279	Pál Matej	ž.Mária r.Gubíková	1	510,677,741,984
+279	Perencsei Pavel	ž.Veronika r.Rigová	1	486
+279	Pindúr Štefan	ž.Margita r.Kováčová	1	902
+279	Pindúrová Alžbeta r. Rigová	vd.m.bol Michal	1	909
+279	Pisák Pavel	ž.Júlia r.Vazmutová	1	486
+279	Pisáková Júlia r. Vazmutová	m.Pavel	1	486,939
+279	Pišák Michal		1	1004
+279	Pupalová Anna r. Kučerová		1	844
+279	Rácz Barnabáš		1	191
+279	Rácz Vlastimír		1	20
+279	Ráczová Júlia r. Ráczová		1	191
+279	Ráczová Mária r. Ráczová		1	20
+279	Ragáč Ján	ž.Anna r.Huďanová	1	833
+279	Ragáčová Anna r. Huďanová	m.Ján	1	833
+279	Rajko František		1	510,677,741
+279	Rajko Ladislav		1	510,677,741
+279	Rajko Štefan		1	510,677,741
+279	Rákosová Alžbeta r. Bánová		1	912
+279	Reiner Mor, Salgotarján, SR		1	846
+279	Reinerová Estera		1	846
+279	Repa Ján, Žihľava, SR	janoje,ž.Mária r.Janíková	1	880
+279	Rigo František	kuria, ž.Mária r.Kovácsová	1	817,869
+279	Rigo Ján	pulykás, ž.Terézia r.Sándorová	1	18,782,815
+279	Rigo Ján	ž.Mária r.Rigová	1	239
+279	Rigó Ján	pulykáš, manž. Terézia rod. Sándorová	1	497
+279	Rigo Jozef	konči, ž.Margita r.Tomanová	1	940,956
+279	Rigo Juraj	ž.Barbora r.Kovácsová	1	239
+279	Rigo Ladislav	honvéd, ž.Júlia r.Tothová	1	239
+279	Rigo Ladislav	ž.Anna r.Šántová, kuria	1	510,677,741,977
+279	Rigó Ladislav	pulykáš, manž. Rozália r. Vidomusová	1	497
+279	Rigóová Anna r. Bánová	manž. Michal	1	497
+279	Rigová Anna r. Sántová		1	933
+279	Rigová Etela r. Oláhová, SR	zom. 12.01.2002	0	316,923
+279	Rigová Etela r. Pindúrová, SR	zom.23.07.1951	0	510,677,741
+279	Rigová Julianna r. Tothová		1	945
+279	Rigová Margita r. Tomanová		1	830
+279	Rigová Mária r. Kovácsová		1	861
+279	Rigová Matilda r. Ozsvaldová		1	510,677,741,989
+279	Sanda Ján	sl	1	881
+279	Sanda Martin	v Kanade	1	881
+279	Sánta Albert	ž.Mária r.Trubínyiová	1	510,677,741,973,990
+279	Sántová Barbara r. Nagyová		1	874
+279	Selecky Ján		1	1056
+279	Simonová Anna r. Beňová, Veľké Straciny, SR		1	887
+279	Sinská Terézia r. Szabová	vd	1	1073
+279	Skladányiová Mária r. Krapková		1	949
+279	Šántha Ladislav	ml	1	972
+279	Šántová Mária r. Péterová		1	876
+279	Šimko Pavel		1	847
+279	Štossel Ján		1	847
+279	Štosselová Júlia r. Demušová		1	847
+279	Toth Adalbert	ž.Emília r.Bomborová	1	969
+279	Toth Ján	kupic,ž. Margita r.Kelemenová	1	1043
+279	Toth Ján	obuvník, ž.Alžbeta r.Bellová	1	966
+279	Toth Juraj	ž.Barbara r.Szabová	1	510,677,741,965,996
+279	Toth Ondrej	ž.Terézia r.Pástorová	1	965
+279	Tothová Anna r. Lorincová		1	639,640
+279	Tothová Barbora r. Szabová		1	963
+279	Tözsér František	ž.Margita r.Bomborová	1	356
+279	Trubínyiová Mária r. Sántová, SR	zom. 02.06.1960	0	910
+279	Ulmer Herman		1	49
+279	Urbánová Mária	r.Komuvesová m.Jozef	1	677
+279	Urbánová Mária r. Kömüvesová	m.Jozef	1	486,510,741
+279	Vámos Alexander	ž.Etela r.Oláhová	1	983
+279	Vámos Ján	ž.Alžbeta r.Szabová	1	486
+279	Vámos Ladislav	ž.Etela r.Dobrá	1	983
+279	Vámos Štefan	ž.Terézia r.Brundová	1	510,677,741,926
+279	Vámos Vendelín	mal	1	510,677,690,741,1070
+279	Vámosová Alžbeta r. Bánová	m.František	1	486,901
+279	Vámosová Alžbeta r. Szabová	m.Ján	1	486
+279	Vámosová Etela r. Kmetyová		1	941
+279	Vámosová Gertrúda	mal	1	510,677,690,741,1070
+279	Vámosová Helena r. Oláhová		1	825
+279	Vámosová Terézia r. Kladivíková, SR		1	486,510,677,741
+279	Vámoš František	ž.Alžbeta r.Bánová	1	486,916
+279	Vámoš Štefan	rozer	1	49
+279	Vandrovník Jozef	mal	1	486,510,677,741,982
+279	Vandrovník Štefan	a manž.Anna r.Vanková	1	1047
+279	Vandrovník Štefan	ž.Anna r.Vanková	1	510,677,741,981
+279	Vandrovníková Irena r. Bella		1	832
+279	Varga Juraj, SR	zom. 10.04.1963	0	798
+279	Varga Michal	ž.Veronika r.Péterová	1	721,1069
+279	Varga Ondrej	ž.Barbara r.Gyurová	1	510,677,741,960
+279	Vargová Mária r. Kissová	m.Ladislav	1	486
+279	Vargová Rozália r. Barnová		1	510,677,741,997
+279	Zauška František		1	608
+280	Glatz Juraj, SR SPF		1	378
+280	Gontkovič Ján		0	677
+280	Gontkovičová Jolana r. Pisarčíková		0	598
+280	Krausz Ján		0	632
+280	Krausz Michal		0	519
+280	Mareková Katarína r. Weberová		0	585
+280	Munnich Jan, SR	manželka Anna Spitková	1	369
+280	Munnich Michal		0	658
+280	Neupaver Emil, Poprad Poprad		0	596
+280	Noske Ján		0	535
+280	Nosková Anna r. Rennerová		0	514
+280	Oberlová Zuzana r. Breiová, SR	manžel Jakub	1	368
+280	Pesta Ondrej		0	629
+280	Pitvor Ján, SR SPF		1	365
+280	Reichová Evženia r. Zastková, Podolínec Podolínec		0	642
+280	Selbová Šarlot r. Kulfassová, SR SPF		1	363
+280	Turnerová Katarína r. Simonidesová		0	630
+281	Adameková Mária r.Mikóczyová		0	358
+281	Baráthová Alžbeta r. Sandorová		0	532
+281	Baráthová Alžbeta r.Sándorová		0	357
+281	Bognárová Júlia		0	357
+281	Bognárová Terézia		0	357
+281	Both Imrich		0	344
+281	Both Ján		0	344
+281	Csenkey Eugen		0	357
+281	Csenkey Ladislav		0	357
+281	Csenkey Michal		0	536
+281	Csenkeyová Agneša r.Keszőczeová		0	487
+281	Csenkeyová Emília		0	357
+281	Csenkeyová Emília, SR		0	314
+281	Csenkeyová Gizela r. Figuraová, SR		0	314
+281	Csenkeyová Gizela r.Figmaová		0	357
+281	Csibová Viera r.Bognárová		0	357
+281	Czére Otto		0	391
+281	Czéreová Rozália r.Holocsyová		0	391
+281	Dolák Jozef		0	350,358
+281	Dolák Štefan		0	358
+281	Farkasová Franciška r.Bognárová		0	357
+281	Hamarová Terézia r.Mikóczyová		0	358
+281	Hegedűs František		0	357
+281	Hegedüsová Mária	sestra Františka	0	532
+281	Hegedűsová Mária		0	357
+281	Heteckerová Žófia r.Molnárová		0	344
+281	Hideghéty Baltazár		0	358
+281	Holocsy Rezső		0	391
+281	Holocsy Rudolf		0	391
+281	Holocsy Vincent		0	391
+281	Horváth Dezider		0	490
+281	Horváth František		0	478
+281	Horváth František, Rastice, SR		0	337
+281	Horváthová Alžbeta		0	357,358
+281	Horváthová Mária		0	357,358
+281	Horváthová Terézia		0	357,358,476,540
+281	Keszőczeová Mária r.Razgyelová		0	350,358
+281	Masicza Anton		0	358
+281	Masiczaová Júlia		0	358
+281	Mesterová Brigita r.Hideghétyová		0	337,353,354
+281	Mezeiová Mária r.Csenkeyová		0	358
+281	Mezzeiová Barbora r.Csenkeyová		0	357
+281	Mezzeiová Mária r. Csenkeyová	m.František	0	535
+281	Mikóczy Alexander		0	358
+281	Mikóczy Imrich		0	358
+281	Mikóczy Ján		0	358
+281	Mikóczy Jozef		0	358
+281	Mikóczy Michal		0	358
+281	Mikóczy Vincent		0	358
+281	Mikóczyová Alžbeta r.Holocsiová		0	358
+281	Mikóczyová Alžbeta r.Holocsyová		0	358
+281	Molnár Gregor		0	344
+281	Molnárová Agneša		0	344
+281	Molnárová Estera		0	344
+281	Molnárová Júlia		0	344
+281	Molnárová Žófia		0	344
+281	Mózesová Júlia r.Hideghétyová		0	337
+281	Nagyová Cecília r.Horváthová		0	337,478
+281	Nagyová Katarína r.Berlovicsová		0	344
+281	Patayová Žofia r. Huršanová	m.Michal	0	534
+281	Polák Michal		0	358
+281	Ravasz Imrich		0	344
+281	Ravasz Ľudovít		0	344
+281	Ravaszová Alžbeta		0	344
+281	Ravaszová Rozália		0	344
+281	Razgyel František		0	480,485
+281	Razgyel Štefan		0	350
+281	Razgyelová Agneša r.Putzová		0	358
+281	Rédl Ladislav		0	402
+281	Rédl Štefan		0	402
+281	Rényei Ladislav Ing.,Dražovce		0	402
+281	Rímskokatolická cirkev na Félu		0	475
+281	Rusnáková Žofia r. Patayová		0	534
+281	Sasová Mária r.Horváthová		0	337,478
+281	Tomašovič Štefan	súrodenci Ján,Anna	0	370
+281	Tóthová Cecília r. Mikóczyová		0	537
+281	Tóthová Cecília r. Mikóczyová, SR		0	474
+281	Tóthová Mária r.Horváthová		0	357,358
+281	Zsigmond František		0	370
+281	Zsigmondová Katarína		0	370
+281	Zsigmondová Mária Magdalena		0	370
+282	Adam Elemír r. Adam, SR		1	755
+282	Adam Jozef r. Adam, SR		1	755
+282	Adam Mikuláš r. Adam, SR		1	755
+282	Adam Vojtech r. Adam, SR		1	755
+282	Adam Zoltán r. Adam, SR		1	755
+282	Adamová Katarína r. Matová, SR		1	755
+282	Adamová Šarlota, SR		1	755
+282	Áravy Ján r. Árvay, SR		1	799
+282	Árvai Alexander		1	969
+282	Árvai Jozef		1	960
+282	Árvai Štefan		1	1075,1078,1102
+282	Arvai Vojtech		1	834
+282	Arvaiová Barbora r. Koháňová		1	958
+282	Árvaiová Ema r. Dudášová		1	1168
+282	Arvaiová Eva		0	1047
+282	Árvay Alex		1	1171
+282	Arvay Štefan		1	996
+282	Arvay Zoltán		1	909,910
+282	Árvayová Alžbeta		1	834,960
+282	Arvayová Anna		1	909,910
+282	Arvayová Barbora r. Kohányová		1	996,1063
+282	Árvayová Helena	dcéra Štefana	1	834,909,910,960
+282	Arvayová Ilona		1	909,910
+282	Árvayová Margita		1	834,960
+282	Bačinský Jozef		1	934
+282	Bakši Imrich r. Bakši		1	743
+282	Bakšiová Anna r. Fazekašová		1	1045,1307
+282	Balog Dezider		1	1112
+282	Balog Jozef		1	1112
+282	Balog Július		1	1112,1171
+282	Balog Michal		1	1112
+282	Balog Štefan		1	1107
+282	Balogh Dezider		1	1167,1171
+282	Balogh Jozef		1	1149,1171
+282	Balogh Július		1	1167
+282	Balogh Michal		1	1148,1171
+282	Baloghová Barbora r. Krištofová, SR		1	787
+282	Balogová Gizela r. Molnárová		1	1107
+282	Bobáková Zuzana r. Rabatinová		1	890
+282	Bodnár Marton		1	1162
+282	Bodnárová Juliana r. Sirokiová		1	1162
+282	Bodnárová Regína r. Kocsisová, SR		1	784
+282	Bujansci Jozef		1	1155
+282	Bujansciová Mária r. Munkácsiová		1	1155
+282	Bujanská Anna r. Csepelyová, SR		1	766
+282	Bujanská Gizela r. Kavalecová		1	978,1257,1259,1262,1264,1410
+282	Bujanský Jozef		1	978,1257,1259,1262,1264,1410
+282	Bujanský Július		1	978,1257,1259,1262,1264,1410
+282	Bujanský Július	syn Štefana	1	978,1257,1259,1262,1264,1410
+282	Bujnovská Alžbeta		1	1015
+282	Bujnovská Gizela		1	1015
+282	Bujnovská Irena		1	1015
+282	Bujnovská Mária r. Harčárová		1	993,1519
+282	Bujnovská Rozália r. Aczelová		1	1015
+282	Bujnovský Štefan		1	1015
+282	Csepely Štefan	ž. Helena r. Kissová	1	1105
+282	Czako Ján		1	891
+282	Czako Jozef		1	891
+282	Czaková Verona		1	891

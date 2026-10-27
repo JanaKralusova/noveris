@@ -1,0 +1,256 @@
+3164	PIHÍK Jozef r. Pihík	maloletý	1	168
+3164	PIHÍK Július r. Pihík		1	168
+3164	PIHÍK Pavol	maloletý	1	767
+3164	PIHÍK Pavol r. Pihík	maloletý	1	168
+3164	PIHÍKOVÁ Amália	maloletá	1	168,767
+3164	PIHÍKOVÁ Antónia	maloletá	1	168,767
+3164	PIHÍKOVÁ Irena	maloletá	1	168,767
+3164	PIHÍKOVÁ Mária		1	167,168
+3164	PILÁTOVÁ Anna r. Krištínová		1	782
+3164	PILÁTOVÁ Júlia r. Pravdová		1	826
+3164	RÁCOVÁ Helena r. Pihíková, Rybany, SR		1	167,168
+3164	RIZIKY Michal r. Riziky		1	827
+3164	RYBÁROVÁ Mária r. Dávidová		1	900
+3164	STAŇO Ján	ž. Mária r. Kopálová	1	709,749,757
+3164	STANOVÁ Alžbeta, SR		0	519
+3164	STRAKA Imrich		0	499
+3164	STRAKA Imrich	ž. Mária r. Havaldová, zomr.18.1.1975	1	749,757,877
+3164	STRAKA Imrich	ž.Mária r.Havaldová, zomr. 18.1.1975	1	709
+3164	STRAKA Ľudovít	ž. Štefánia r. Uríková	1	217,679,728,749
+3164	STRAKA Štefan	ž. Mária r. Kováčová	1	217,679,728,749
+3164	STRAKOVÁ Alžbeta	r. Huntierová	1	749
+3164	STRAKOVÁ Alžbeta r. Huntierová		1	709,757
+3164	STRAKOVÁ Mária	r. Gašparovičová, zomr.30.5.1979	1	757
+3164	STRAKOVÁ Mária r. Gašparovičová	zomr	1	749
+3164	STRAKOVÁ Mária r. Gašparovičová	zomr. 30.5.1979	1	709
+3164	STRAKOVÁ Štefánia r. Uríková		1	709,749,757
+3164	STRUČKA Ján		1	217,679,728,749
+3164	STRUČKA Ján	maloletý	1	650
+3164	STRUČKA Ján	ž. Cecília r. Uríková	1	612,749,757,797
+3164	STRUČKA Ján	ž.Cecília r.Uríková	1	709
+3164	STRUČKA Pavol	v Argentíne	1	709,749,757
+3164	STRUČKOVÁ Mária	maloletá	1	649
+3164	STRUHÁROVÁ Magdaléna r. Balažková		1	709,749,757
+3164	TOMOVÁ Magdaléna r. Uríková		1	891
+3164	URÍK Jozef r. Urík		1	891
+3164	VANKOVÁ Mária r. Belianská		1	439,440
+3164	Základina Rímsko- katolíckej školy Malé Kršteňany		1	894
+3164	Základina Rímsko- katolíckej školy Veľké Kršteňany Rímsko		1	894
+3165	ÁBEL František		0	4242,4491
+3165	ÁBELOVÁ Štefánia r. Voleková		0	4242,4491
+3165	ADORJANOVÁ Alžbeta	r. Jelínková	1	2530,3105,6297
+3165	ADORJANOVÁ Alžbeta	r.Jelínková	1	3419
+3165	ADORJANOVÁ Alžbeta r. Jelínková		0	4189,4975,5630
+3165	Alena Albert	otec Martin	0	4391
+3165	ALENA Anton	nar.v r. 1850	0	3957,5790,5813,5854
+3165	Alena Antonín		1	6093
+3165	ALENA Antonín	1, otec Martin	1	2189,3295
+3165	Alena Cyril	otec Martin	0	4391
+3165	ALENA František		1	3069
+3165	Alena Ján	2	0	5911
+3165	Alena Ján	3	0	4855
+3165	Alena Ján	3; 3	0	4189
+3165	Alena Ján	4	0	5911
+3165	Alena Ján	6	0	5388
+3165	Alena Ján	7	0	5854
+3165	ALENA Ján		0	4246
+3165	ALENA Ján	1	1	3105,6297
+3165	ALENA Ján	5	1	3105,5890,6297
+3165	ALENA Ján	8	1	3110,4435,4784
+3165	ALENA Ján	9, manž. Helena	1	3106
+3165	Alena Jozef		1	6093
+3165	ALENA Jozef	1, otec Martin	1	2189,3295,5109,5680
+3165	ALENA Jozef	manž. Juliana Kalivodová, zomr	1	2189,3295,6093
+3165	ALENA Michal	1	1	3106
+3165	ALENA Michal	manž. Anna	1	3105,6297
+3165	Alenová Alžbeta	USA	1	2267,2500,3069,3105,3106,3936,4926,5937,6297
+3165	ALENOVÁ Anna	r. Chocholová, manž. Michal	1	3105,6297
+3165	ALENOVÁ Anna	r. Chocholová; 1	1	3106
+3165	ALENOVÁ Helena	r. Žáková, manž. Ján, zomr. 18.12.1966	1	3106
+3165	ALENOVÁ Helena	r.Žáková, manž. Ján, zomr.18.12.1966	1	6297
+3165	Alenová Helena r. Žáková	manž. Ján, zom.18.12.1966	0	5149
+3165	ALENOVÁ Helena r. Žáková	manž. Ján, zomr. 18.12.1966	1	3105
+3165	Alenová Júlia r. Ambrová	manž. Pavol	0	4234,5473
+3165	ALENOVÁ Juliana	r. Kalivodová, zomr	1	3105,6297
+3165	ALENOVÁ Roza r. Kuňáková		0	5151
+3165	ALENOVÁ Terézia	r. Štorová, manž. Ján, zomr	1	1849
+3165	Alenová Terézia r. Štorová	manž. Ján, zomr	0	5466,5642
+3165	Ambra Anton	manž. Anna	0	5035
+3165	AMBRA Augustín		0	4234,4559
+3165	AMBRA Jozef	zomr. 8.2.1971	1	3106
+3165	AMBRA Michal		0	4368,5508
+3165	AMBROVÁ Anna		0	4368,5435
+3165	AMBROVÁ Margita r. Zacková		0	5252
+3165	ANDERLITSCHEKOVÁ Eva r. Hölcová	zomr. 3.12.1996	1	3106
+3165	ANDRÁŠEK František		1	3106,5255,5749
+3165	BAĎUROVÁ Mária	r. Ciliaková, manž. Anton	1	3106
+3165	BAHULOVÁ Amália		1	3106,3936,4171
+3165	BÁCHOROVÁ Juliana	1, zomrela 19.7.1972, č.d. 129	1	3106
+3165	BÁCHOROVÁ Juliana	žije v kláštore, Bánovce n. Bebravou	1	3106,4906
+3165	BALÁŽ Antonín		0	5500
+3165	BALÁŽ Ferdinand		0	5026
+3165	Baláž Gregor	zomr	1	2465,3936,4004,4285,5731,5937
+3165	BALÁŽ Gregor	nar. 1.3.1895, zomr	1	1410
+3165	Baláž Jozef	zomr	1	2465,5531,5731
+3165	Baláž Matej	zomr. 1961	0	5052
+3165	BALÁŽ Rajmund		0	4543
+3165	Baláž Štefan	zom.19.12.1983	0	5938,5964
+3165	BALÁŽ Štefan	nar.13.8.1929, zomr.19.12.1983	1	3106
+3165	BALÁŽ Štefan, zom.19.12.1983 zom.19.12.1983		0	4494
+3165	BALÁŽ Zdeněk	7.1.1966. Merhautova 17, 695 00 Hodonín	1	2997,3799
+3165	BALÁŽOVÁ Anna		0	4573
+3165	BALÁŽOVÁ Anna	r. Puškáčová, manž. Jozef	1	3106
+3165	BALÁŽOVÁ Anna	r.Puškáčová, manž. Jozef	1	1410
+3165	BALÁŽOVÁ Anna r. Puškáčová	manž. Jozef	0	3936,4213
+3165	BALÁŽOVÁ Jozefína	r. Kohutková,nar.14.2.1898,zom.16.1.1990	1	3106
+3165	Balážová Magdaléna r. Kaiserová	zom.08.11.1972	0	5369
+3165	BALÁŽOVÁ Mária r. Dopierová		0	5298
+3165	BALOGHOVÁ Augustína	r. Krčmová, manž. Ondrej	1	2934
+3165	Bana Ján	manž. Alžbeta	1	1691,1693,1694,3105,3518,4249,5407,6297
+3165	BARDUN Jozef	manž. Mária	1	3106
+3165	BARDUN Róbert	manž. Alžbeta	1	3106,4168,4402
+3165	Bardún Róbert	manž.Alžbeta Hollá	1	3322,3325
+3165	BARDUNOVÁ Anna	r. Bordáčová	1	3106
+3165	BARDUNOVÁ Anna	r. Jurkovičová, manž. Michal	1	2914,3106
+3165	Bardunová Anna r. Jurkovičová		0	4168,4402
+3165	Bardúnová Anna r. Jurkovičová	manž. Michal	1	3322,3326
+3165	BARDUNOVÁ Mária		1	2319,2527,2554,3105,3106,4005,4607,6297
+3165	BARDUNOVÁ Mária	mal	1	2319,2527,2554,3105,3106,5612,6297
+3165	BARDUNOVÁ Mária	r. Alenová, manž. Jozef	1	3106
+3165	Bardununová Terézia r. Alenová	manž. Michal	0	4662
+3165	Bartoň Ján	syn Milan	0	5058,5636
+3165	BARTOŇ Ján	nar.14.6.1899, zomr.22.9.1978, č. 835	1	3106
+3165	Bartoš Matúš	č.d. 109, zom.14.12.1984	0	5839
+3165	BARTOŠ Matúš	nar.18.9.1900, zomr.14.12.1984, č.d. 109	1	2922
+3165	BARTOŠÍK Henrich	nar.3.1.1935, USA	0	3936
+3165	Bartošík Henrich r. Bartošík	nar.3.1.1935, USA	0	3010
+3165	Bartošík Henrich r. Bartošík	USA	0	4119
+3165	BARTOŠÍK Henrik	syn Augustín	1	3106
+3165	Bartošíková Helena r. Vajčovecová		1	3010,3365
+3165	Bartošíková Helena r. Vajsovecová	USA	0	4119
+3165	BARTOŠÍKOVÁ Helena r. Vajsovecová	nar. 17.12.1913, USA	0	3936
+3165	BARTOŠÍKOVÁ Rozália	r. Pellerová	1	3106
+3165	BARTOŠÍKOVÁ Rozália r. Pellerová		0	4001,4103
+3165	BARTOŠOVÁ Regina	r. Matušková	1	3106
+3165	BARTOŠOVÁ Regina r. Matušková		0	5955
+3165	BAUER Karol	manž. Jozefa	1	2986,3106,3986
+3165	BAUMGARTNEROVÁ Mária		1	1464,3694,4913,5855,5888
+3165	BAUMGARTNEROVÁ Mária r. Balážová		0	4781
+3165	BAUMGATNER František		1	1464,3694,4701,5855,5888
+3165	Bena Ján r. Bena	manž. Mária, zom.09.05.1964	0	4292,5289
+3165	BENEK Štefan		1	2984,3106,5906
+3165	BENEKOVÁ Huberta	mal	1	2984,3106,5906
+3165	BENOVÁ Mária	r. Alenová, manž. Ján	1	3106
+3165	BENOVÁ Mária r. Alenová		0	4189,4292,4994
+3165	BERNHAUSER Jozef		0	5513
+3165	Bernhauser Viktor	zomrel	1	3368
+3165	BEZÚCH Augustín		0	4966
+3165	Biksadská Alžbeta r. Kováčová	manž.Albert	0	3969
+3165	Biksadský Albert	manž. Alžbeta	0	3969
+3165	BINČÍK Pavol	manž. Mária	1	2291,4327,5931
+3165	BINČÍKOVÁ Mária	r. Hozová, manž. Pavol	1	2291
+3165	BINČÍKOVÁ Mária r. Hozová	manž. Pavol	0	4327,5931
+3165	BIRČÁK Jozef	manž. Antónia	1	3106,4317
+3165	BIRČÁKOVÁ Irena	mal	1	3106,4317
+3165	BLANÁR Michal		1	3106,3384,3815,4163,4645
+3165	Blanár Michal, SR		0	1879
+3165	BLAŽEK Anton	otec Jozef	1	3106
+3165	BLAŽEK Štefan		1	1593,2924,4641
+3165	BLAŽKOVÁ Irena	r. Miksíková, manž. Štefan	1	2924
+3165	Blažková Irena r. Miksíková	manž. Štefan	0	5596
+3165	Blažková Terézia r. Ambrová		0	5115,5647
+3165	BOKOL Jozef	zomr. 20.12.1976, Veľké Leváre 39	0	3106
+3165	BOKOL Július		1	1826,5724
+3165	BOKOL Matej		1	1826,5724
+3165	BOKOL Mikuláš		1	1826,5724
+3165	BOKOLOVÁ Františka		1	1826,5724
+3165	BOKOLOVÁ Serafína		1	1826,5724
+3165	BORDÁČ Jozef	2, manž. Katarína	1	2861,4359
+3165	Bordáčová Anna		1	3326
+3165	BORDÁČOVÁ Anna	r. Hozová	1	3106
+3165	BORDÁČOVÁ Anna r. Hozová		0	5415
+3165	Bordáčová Emília	manžel Jozef	0	4786
+3165	BORDÁČOVÁ Emília	manž. Jozef	1	3106
+3165	BORDÁČOVÁ Františka		0	4824
+3165	BORDÁČOVÁ Katarína	r. Hlavenková, manž. Jozef	1	2861
+3165	BORDÁČOVÁ Katarína r. Hlavenková		0	4359
+3165	BORDÁČOVÁ Mária	r. Alenová, manž. Pavol	1	1880,3105,6297
+3165	BORDÁČOVÁ Mária r. Alenová		0	5235
+3165	BORDÁČOVÁ Paulína r. Kováriková	manž. Ján	0	4471
+3165	Bordák Anton	manž. Paula	0	4795
+3165	BORDÁKOVÁ Helena		0	4589
+3165	BORDÁKOVÁ Juliana	r. Haffnerová	1	2977
+3165	Bordáková Paula r. Jurkovičová	manž. Anton	0	5601
+3165	BOŠANSKÁ Mária	r. Pajpachová	1	3106
+3165	BRICHTA Jozef		1	3082,3105,3320,6297
+3165	BRICHTA Štefan		0	5585
+3165	BRICHTOVÁ Anna	r.Lacová, nar.5.10.1902, zomr., č.d.459	1	3082,3105,3106,6297
+3165	BRICHTOVÁ Melánia	r. Mandlová	1	3106
+3165	BRICHTOVÁ Melánia r. Mandlová		0	4410
+3165	BRICHTOVÁ Paulína	r. Puškáčová	1	3106
+3165	BRINKÁČ Ján		0	4547,5869
+3165	BRINKÁČOVÁ Mária		0	5048,5869
+3165	BRINKÁČOVÁ Terézia		0	5472,5869
+3165	BRTINKOVÁ Helena	r. Loncúrska	1	2152,3105,6297
+3165	BRTINKOVÁ Helena r. Loncúrská		0	4323
+3165	BRUCHÁČEK Gustáv	Veľké Leváre	1	3425,5746
+3165	BRUCHÁČEK Ondrej	manž. Terézia	1	2694
+3165	BRUCHÁČEK Stanislav	Sekule	1	3425,5746
+3165	BRUCHÁČEK Štefan	1, Senec	1	3425,5746
+3165	BRUCHÁČKOVÁ Gertrúda		1	3425
+3165	BRUCHÁČKOVÁ Mária	r.Báchorová,nar.28.8.1909,zom.24.11.1982	1	3106
+3165	BRUNOVSKÁ Anna	r. Ružičková	1	2907,3106
+3165	Brunovská Anna r. Ružičková		0	5339,5642
+3165	Brunovská Anna r. Ružičková	Veľké Leváre	0	4718,5710
+3165	Brunovská Anna r. Rúžičková	manž. Miloš	1	3364
+3165	BUBNIAKOVÁ Mária	r. Tutterová	1	3106
+3165	BUČEKOVÁ Pavlína r. Hájičková		0	5839
+3165	Buraj Vendelín	manž. Anna	0	5182
+3165	BURAJOVÁ Anna	manž. Vendelín	1	3106,4491,5526
+3165	Búriková Albína r. Kuglerová	manž. Jozef	0	4339
+3165	BURSIKOVÁ Amália	r. Cavosová	1	2976,3106
+3165	BURSIKOVÁ Amália r. Cavosová		0	5622,5749
+3165	CACH Ignác		1	3106
+3165	CAVOS Ján		1	2976,3106,5622,5749
+3165	CAVOSOVÁ Júlia	mal	1	2976,3106,3491,5749
+3165	CAVOSOVÁ Karolína		1	2976,3106,5749
+3165	CAVOSOVÁ Mária		1	2976,3106,3491,5749
+3165	CILINDEROVÁ Anna	r. Pavlisová, manž.Ľudovít, zomr. v USA	1	2527,2554,3105,3106,6297
+3165	Cilinderová Anna r. Pavlisová	manž.Ľudovít, zomr. v USA	0	4318,5527
+3165	Cimo Ján	manž. Alžbeta	0	4373,5024,5885
+3165	Cimová Alžbeta r. Čermáková	manž. Ján	0	4373,5486,5885
+3165	Čederla Anton	manž. Anna	0	3943
+3165	Čederlová Anna r. Müllerová	zomr	0	3943,4173
+3165	ČECHOTOVSKÁ Jarmila	r.Balážová,22.4.1954,U školky 29,Rohatec	1	2997
+3165	ČELUSTKOVÁ Katarína	r. Jurkovičová, manž. Pavol	1	2735,2914
+3165	Čelustková Katarína r. Jurkovičová	manž. Pavol	0	4043,4060,4089
+3165	Čelustková Katarína r. Jurkovičová	manž.Pavol	1	3322,3326
+3165	ČERMÁK Alojz		0	4204
+3165	ČERMÁK Anton		0	5674
+3165	ČERMÁK Bonifác		0	4667
+3165	Čermák Ján	bydlisko: na Morave	0	5674
+3165	ČERMÁK Jozef	1	1	3105,6297
+3165	ČERMÁK Jozef	2, manž. Johana	1	3106
+3165	Čermák Metod	zomrel v USA	0	5352
+3165	Čermák Pavol		1	2279,3105,3106,4169,4483,5646,6297
+3165	Čermák Rafael	manž. Jozefína	0	4267,4895,5885
+3165	ČERMÁK Stanislav	nar.13.11.1911, zomr.27.12.1990	1	3087
+3165	Čermák Štefan	mal	0	4854
+3165	Čermák Štefan	manž. Štefánia	0	5420
+3165	Čermák Štefan	manž. Terézia	0	4415,5214
+3165	Čermák Štefan	otec Jozef	0	4204
+3165	ČERMÁK Štefan		0	4204
+3165	ČERMÁKOVÁ Johana	r. Hollá, manž. Jozef	1	3106
+3165	Čermáková Jozefína r. Gaštanová	manž. Rafael	0	4267,4788,5885
+3165	Čermáková Júlia	zomr	0	5674
+3165	ČERMÁKOVÁ Juliana	r. Polaková, manž. Pavol	1	3105,3106,6297
+3165	Čermáková Juliana r. Polaková	manž. Pavol	1	2279,4169,4940
+3165	ČERMÁKOVÁ Katarína	r. Fialová, manž. Jozef; r. Fialová, manž. Jozef	1	2981
+3165	Čermáková Katarína r. Fialová	manž. Jozef	0	5598
+3165	Čermáková Mária	mal., bydlisko: Morava	0	5674
+3165	Čermáková Mária	manž. Jozef	0	4604
+3165	ČERMÁKOVÁ Terézia	r. Brichtová	1	3082,3105,6297
+3165	Čermáková Terézia r. Brichtová	zomr.16.11.1961	1	3320
+3165	ČERMÁKOVÁ Terézia r. Puškáčová		0	4415,5595
+3165	ČERMÁKOVÁ Veronika	r. Hurbanová	1	3105,6297
+3165	ČERMÁKOVÁ Zuzana	r. Bokolová	1	1826

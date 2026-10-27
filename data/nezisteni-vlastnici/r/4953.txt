@@ -1,0 +1,256 @@
+2794	TURANSKÁ Silárda	maloletá	0	1052,1248
+2794	TURANSKÝ Bartolomej		0	1052,1248
+2794	TURANSKÝ Bruno	zom.15.6.1906,maloletý	0	1052,1248
+2794	TURANSKÝ Mikuláš	maloletý	0	1052,1248
+2794	TUTURA Ján		0	483
+2794	TUTURA Ján	maloletý	0	1068,1078,1097,1248
+2794	TUTURA Juraj	mladší	0	558
+2794	TUTURA Juraj	zom.20.4.1979,mladší	0	1068,1097,1248
+2794	TUTURA Matej		0	1068,1076,1097,1248
+2794	TUTURA Matej, SR		0	471,483
+2794	TUTUROVÁ Anna r. Droppová, Črmné, č. 37, SR		0	1161
+2794	TUTUROVÁ Anna r. Španková		0	533,1359,1360
+2794	TUTUROVÁ Anna r. Španková	zom.23.12.1979,Krokaj	0	1120
+2794	TUTUROVÁ Mária r. Palková, Lazisko, SR		0	606
+2794	ULIČNÁ Zuzana r. Kúkolová		0	1262,1267
+2794	URBAN Adam	Golias	0	601
+2794	URBAN Adam	zom.29.6.1958,Goliaš	0	1263,1265,1270
+2794	Urban Adam, SR	Goliaš, manž.Eva rod.Janičina,zom.29.6.1958	0	1326
+2794	URBAN Adam, SR		0	705,826
+2794	Urban Juraj		0	1326
+2794	URBAN Ľudovít	zom.31.3.1981	0	1265,1326
+2794	URBAN Ondrej	zom.7.10.1991	0	1263,1264,1265,1268,1326
+2794	Urbanová Anna	maloletá	0	1261,1265,1326
+2794	URBANOVÁ Eva r. Dorniaková		0	1261,1265,1326
+2794	URBANOVÁ Eva r. Janičinová		0	705,826
+2794	URBANOVÁ Eva r. Janičinová	zom.2.7.1967	0	1265,1270,1326
+2794	Urbanová Zuzana r. Matejková		0	1326
+2794	URBANOVÁ Zuzana, Rybárpole, SR		0	617,708
+2794	VARGA Adam, Lazisko, SR		0	483
+2794	VARGA Ján		0	467,483,1068,1079,1097
+2794	VARGA Juraj		0	1248
+2794	VARGA Martin Lazisko, SR		0	489
+2794	VARGA Ondrej, SR		0	467
+2794	VESELOVSKÁ Anna r. Guothová		0	818,821,836,837,844
+2794	VYŠNÁ Anna	zomrela	0	583
+2794	VYŠNÁ Anna r. Fiačanová, Lazisko, SR		0	497
+2794	VYŠNÁ Mária		0	583,590,1014
+2794	VYŠNÁ Zuzana		0	473,483,1068,1072,1097,1377
+2794	VYŠNÁ Zuzana r. Kubanová		0	473,483,1377
+2794	VYŠNÁ Zuzana r. Kubáňová	zom.30.9.1955	0	1068,1072,1097
+2794	VYŠNÝ Ján	Čujko	0	1248
+2794	VYŠNÝ Ján	z múru	0	1248
+2794	VYŠNÝ Matej	z múru	0	473,483,583,590,1014,1377
+2794	VYŠNÝ Matej	zom.1.12.1966,z múru	0	1068,1072,1097,1248
+2794	VYŠNÝ Ondrej, Lazisko, SR	ml	0	498
+2794	WEINER Mikuláš		0	727
+2794	ZAŤKO Ján, Lazisko, SR		0	603
+2794	ZAŤKO Juraj, Lazisko, SR		0	603
+2795	ANČINOVÁ Mária r. Szénášiová		0	5404
+2795	BAGIN Ignác		0	5468
+2795	BAKULÁROVÁ Mária r. Szücsová, m. Jozef m. Jozef		0	5403,5404
+2795	BÁLINT Ján		0	4266
+2795	BÁLINT Ján r. BÁLINT, ž.Mária r.Bilková ž.Mária r.Bilková		0	4266
+2795	BALINT Ján, ml., SPF ml., SPF		1	4266
+2795	BÁLINT Jozef		0	4727
+2795	BÁLINT Viliam, ž.Júlia r. Vidová ž.Júlia r. Vidová		0	4434
+2795	BÁLINT Viliam, ž.Mária r.Čereová ž.Mária r.Čereová		0	4266
+2795	BÁLINTOVÁ Helena r. Hevesiová		0	4394
+2795	BÁLINTOVÁ Júlia r. Vidová, m. Viliam m. Viliam		0	4888
+2795	BÁLINTOVÁ Mária		0	5404
+2795	BÁLINTOVÁ Mária r. Bilkóová, m.Ján m.Ján		0	5404
+2795	BÁLINTOVÁ Mária r. Gerencsériová, m .Ján m .Ján		0	5404
+2795	BALINTOVÁ Mária r. Nagyová		0	4287
+2795	BÁLINTOVÁ Rozália r. Czompóová, m. Ignác m. Ignác		0	4808
+2795	BÁLINTOVÁ Žofia r. Csalavová		0	4474
+2795	BÁLINTOVÁ Žofia r. Csalavová, m.Július m.Július		0	5404
+2795	BÁLINTOVÁ Žofia r. Csalavová, m.Juraj m.Juraj		0	4266,5468
+2795	BALOGH Ladislav, ž. Žofia r. Hevešiová ž. Žofia r. Hevešiová		0	4734
+2795	BALOGH Vincent		0	5404
+2795	BALOGH Vincent, ž. Alžbeta r. Édesová ž. Alžbeta r. Édesová		0	5006
+2795	BALOGH Zoltán, ž. Júlia r. Beseová ž. Júlia r. Beseová		0	5404
+2795	BALOGHOVÁ Alžbeta r. Édesová		0	4690
+2795	BALOGHOVÁ Júlia		0	5404
+2795	BENCZEOVÁ Mária r. Pintérová		0	4337,5404
+2795	BEŇOVSKÁ Judita r. Muržicová, vd., Svätý Peter č.529 vd., Svätý Peter č.529		0	4286,5404
+2795	BERÉNYI Ľudovít, ž.Etela r.Szalayová ž.Etela r.Szalayová		0	4287
+2795	BERÉNYIOVÁ Etela r. Szalayová, m.Ľudovít m.Ľudovít		0	4287
+2795	BIHAVY František, mal. mal.		0	5404
+2795	BIHAVY Koloman, mal. mal.		0	5404
+2795	BIHAVY Štefan, mal. mal.		0	5404
+2795	Bilkó Arpád r. Bilkó		0	5468
+2795	BILKÓ Baltazár, Poručiteľ, po ktorom sa prihlásil domnelý dedič Poručiteľ, po ktorom sa prihlásil domnelý dedič		0	5451
+2795	BILKO František		0	5403,5404
+2795	BILKÓ František, ž.Mária r.Kraslanová ž.Mária r.Kraslanová		0	4483
+2795	BILKO Ján		0	5403,5404
+2795	BILKO Jozef, ž.Helena r.Danišová ž.Helena r.Danišová		0	5403,5404
+2795	BILKÓOVÁ Juliana, mal. mal.		0	4266
+2795	BILKÓOVÁ Mária r. Plevová, m.Jozef m.Jozef		0	5404
+2795	Bilková Juliana r. Hamranová		0	5226
+2795	BILKOVÁ Klára r. Kanászová		0	5404
+2795	BLAŽEJ Denis, mal. mal.		0	4723
+2795	BOCSKAOVÁ Júlia r. Borsányiová, m.Vojtech m.Vojtech		0	5468
+2795	BOCSKAOVÁ Mária r. Mészárosová		1	879
+2795	BORDÁCS Alexander r. BORDÁCS, ž.Juliana r.Keszegová ž.Juliana r.Keszegová		0	4852
+2795	BORDÁČ Štefan, manž.Žofia r.Keseg manž.Žofia r.Keseg		0	5461
+2795	BOROZMAIOVÁ Mária		1	3387
+2795	BORSÁNYIOVÁ Júlia, mal. mal.		0	5468
+2795	BRATKÓ Alexander		0	5431
+2795	BRATKÓ Viliam, ž. Mária r.Lengyelová ž. Mária r.Lengyelová		0	4286
+2795	BRATKÓOVÁ Mária r. Lengyelová, m.Viliam m.Viliam		0	5461
+2795	BRATKOVÁ Magdaléna r. Lengyelová		0	5404
+2795	Bruder Ján r. Bruder		0	4325
+2795	BUDOVÁ Karolína r. Mészarošová		0	5242
+2795	BUGÁŇ Augustín, mal. mal.		0	5403,5404
+2795	BUGÁŇ Michal, ž. Mária r.Bilková ž. Mária r.Bilková		0	4927
+2795	CIBOROVÁ Júlia r. Balogová, m. František m. František		0	4320,4325
+2795	CSALANOVÁ Rozália r. Kelkóová, m. Ignác m. Ignác		0	4325
+2795	CSALAVAOVÁ Gizela r. Kelkóová, m. Baltazár m. Baltazár		0	5222
+2795	Csalavová Rozália r. Kelková		0	4666
+2795	CSENGELOVÁ Klára r. Pócsová, m. Ján m. Ján		0	4343
+2795	CSEREOVÁ Irena r. CSereová, m. Blažej m. Blažej		0	4778
+2795	CSEREPESOVÁ Helena r. Gerencsériová, m. Alajoš m. Alajoš		0	4325
+2795	CSIZMADIOVÁ Lýdia r. Tóthová, m. Ondrej m. Ondrej		0	5442
+2795	CZIBOR Alexander, ž. Mária r.Répásová ž. Mária r.Répásová		0	5396
+2795	CZOMPÓ Alexander		0	4287,4400,4858,5016
+2795	CZOMPÓ Ján, ž. Klára r.Vidová ž. Klára r.Vidová		0	5404
+2795	CZOMPÓ Ľudovít		0	4337
+2795	CZOMPÓ Ľudovít, ž.Rozália r.Bálintová ž.Rozália r.Bálintová		0	4320,5403
+2795	CZOMPÓOVÁ Klára r. Vidová, m. Ján m. Ján		0	5404
+2795	ČIAK Ján r. ČIAK, ž. Mária r.Šajbenová ž. Mária r.Šajbenová		0	5391
+2795	ČIAKOVÁ Mária r. Šajbenová, m. Ján m. Ján		0	5391
+2795	DANIŠ Ľudovít		0	4266
+2795	DANIŠ Štefan		0	4320,5403
+2795	DANIŠ Viliam		0	4266
+2795	DANIŠ Viliam, ž. Helena r.Ježová ž. Helena r.Ježová		0	4337
+2795	DANIŠOVÁ Helena r. Ježová, m. Viliam m. Viliam		0	4337
+2795	DANIŠOVÁ Hermína r. Hegedüšová		0	5396,5404
+2795	DIKANOVÁ Mária r. Holeczová		1	3394
+2795	DÓCEOVÁ Verona Júlia r. Docziová		0	5283
+2795	DÓCZÉ Andrej, mal. mal.		0	4450
+2795	DOCZE Ondrej		0	4320,5403
+2795	DÓCZÉOVÁ Helena r. Zajdová		0	5403,5404
+2795	DÓCZEOVÁ Júlia r. Tokodiová		0	5391
+2795	DÓCZEOVÁ Karolína r. Szabóová		0	4320
+2795	ENDRE Juraj, Svätý Peter č.314 Svätý Peter č.314		0	5071
+2795	ERDÉLYI Ondrej, ž. Judita r.Turčanová, č.d.311 ž. Judita r.Turčanová, č.d.311		0	4621
+2795	FABIAN Ondrej	ž.Mária r.Veselková	1	3447
+2795	FABIANOVÁ Judita r. Molnárová, m. Juraj m. Juraj		0	5450
+2795	FABIANOVÁ Mária r. Veselková	m.Ondrej	1	3447
+2795	FAZEKASOVÁ Mária r. Zakarová, m. Gabriel m. Gabriel		0	4867
+2795	FEDORŠOVÁ Helena r. Lendvayová, m. Ondrej m. Ondrej		0	5438
+2795	FEKETE Štefan	mal	1	3357
+2795	FEKETE Štefan, mal. mal.		0	4402
+2795	FRAŇO Ján, vd., č.d.8 vd., č.d.8		0	5203
+2795	GÁL Jozef		0	4569
+2795	GÁL Ľudovít, mal. mal.		0	5133
+2795	GERENCSÉRIOVÁ Alžbeta r. Nagyová		0	4462
+2795	GERENČÉRI Agnesa r. Szabová		0	5438
+2795	GERENDÁŠ Jonáš		0	4286
+2795	GERENDÁŠ Ľudovít		0	4286
+2795	GUBAN Ľudovít, mal. mal.		0	5307
+2795	GUBÁŇOVÁ Alžbeta		1	3393
+2795	GULÁŠOVÁ Mária r. Krnáčová, m.Pavol č.d. 22 m.Pavol č.d. 22		0	4878
+2795	HABARA Dezider, ž. Juliana r.Hamranová ž. Juliana r.Hamranová		0	4266
+2795	HABARA Gašpar, ž. Mária r.Lábska ž. Mária r.Lábska		0	5367
+2795	HABARA Vincent		0	5426
+2795	HABAROVÁ Katarína r. Hamranová, m.Ľudovít m.Ľudovít		0	4598
+2795	HABAROVÁ Mária r. Lábska, m.Gašpar m.Gašpar		0	5053
+2795	HAJABÁCS Gabriel		0	4287
+2795	HAJABÁCS Ján		0	4320,4326
+2795	HAJABÁCS Jozef		0	5344
+2795	HAJABÁCS Jozef, ž. Júlia r.Némethová ž. Júlia r.Némethová		0	5275
+2795	HAJABAČ Blažej, ž. Margita r.Armová ž. Margita r.Armová		0	4422
+2795	HAJABAČ Imrich, ž. Klára r.Compóová ž. Klára r.Compóová		0	5426
+2795	HALÁKOVÁ Karolína r. Slatinová		0	4977
+2795	HALÁSZOVÁ Klára r. Lengyelová		0	4326
+2795	HAMRAN Július, mal. mal.		0	4266
+2795	HAMRAN Silvester, ž. Mária r.Hamranová ž. Mária r.Hamranová		0	4874
+2795	HAMRAN Tomáš, mal. mal.		0	4292
+2795	HAMRAN Viliam, ž. Barbara r.Hegedüsová ž. Barbara r.Hegedüsová		0	4266
+2795	HAMRAN Vincent		0	4266
+2795	HAMRÁN Vincent, ž.Júlia r.Ježová ž.Júlia r.Ježová		0	5292
+2795	HAMRANOVÁ Anna, mal. mal.		0	4292
+2795	HAMRÁNOVÁ Juliana r. Lábskiová, m. Viliam m. Viliam		0	4480
+2795	HAMRANOVÁ Rozália r. Hamranová		0	4992
+2795	HAMRANOVÁ Rozália r. Jezsóová, m. Jozef m. Jozef		0	4292
+2795	HARVANOVÁ Helena r. Štefaniková		0	5317
+2795	HAVRANOVÁ Mária r. Gáliková, m. Matej m. Matej		0	4287
+2795	HEGEDÜS František		0	5450
+2795	HEGEDÜS Gašpar, ž. Mária r.Lábskiová ž. Mária r.Lábskiová		0	4266
+2795	HEGEDÜS Ján, ž. Alžbeta r.Lörincová ž. Alžbeta r.Lörincová		0	5426
+2795	HEGEDÜS Ján, ž.Barbora r.Szabóová ž.Barbora r.Szabóová		0	5125
+2795	HEGEDÜS Koloman, ž. Mária r.Hegedüsová ž. Mária r.Hegedüsová		0	4654
+2795	HEGEDÜS Ladisalv, ž. Anna r.Szabóová ž. Anna r.Szabóová		0	5076
+2795	HEGEDÜS Ľudovít, ž.Mária r.Szabóová ž.Mária r.Szabóová		0	4937
+2795	HEGEDÜS Michal		0	5438
+2795	HEGEDÜS Vincent, ž.Katarína r.Habarová ž.Katarína r.Habarová		0	4548
+2795	HEGEDÜSOVÁ Anna r. Szabóová, m.Ladislav m.Ladislav		0	4894
+2795	HEGEDÜSOVÁ Juliana		0	5438
+2795	HEGEDÜSOVÁ Klára r. Hevesiová		0	5450
+2795	HEGEDÜSOVÁ Margita, mal. mal.		0	5438
+2795	HEGEDÜSOVÁ Mária r. Danišová, Letecké pole č. 101 Komárno 94501 Letecké pole č. 101 Komárno 94501		0	4343
+2795	HEGEDÜSOVÁ Mária r. Hamranová		0	4343
+2795	HEGEDÜSOVÁ Mária r. Hegedüsová, m.Koloman m.Koloman		0	4337
+2795	HEGEDÜSOVÁ Mária r. Lábskiová, m.Gašpar m.Gašpar		0	4266
+2795	HEGEDÜSOVÁ Mária r. Vidová	m.Ján	1	3721
+2795	HEGEDÜSOVÁ Mária r. Vidová, m. Ján m. Ján		0	5450
+2795	HEGEDÜŠ Florián, ž.Margita r.Rusňáková ž.Margita r.Rusňáková		0	5426
+2795	HEGEDÜŠ Jozef, ž.Agnesa r.Szabová ž.Agnesa r.Szabová		0	4337,5470
+2795	HEGEDÜŠ Koloman, ž.Barbora r.Laktišová ž.Barbora r.Laktišová		0	4511
+2795	HEGEDÜŠ Ľudovít, ž.Juliana r.Dikanová ž.Juliana r.Dikanová		0	5426
+2795	HEGEDÜŠ Ondrej, ž.Rozália r.Prádlovská ž.Rozália r.Prádlovská		0	5050
+2795	HEGEDÜŠOVÁ Juliana r. Dikanová, m.Ľudovít m.Ľudovít		0	4337,5470
+2795	HEGEDÜŠOVÁ Margita r. Rusňáková, m.Florián m.Florián		0	5426
+2795	HEGEDÜŠOVÁ Mária r. Bajáková		0	5139
+2795	HENCOVÁ Estera r. Némethová, m.Štefan m.Štefan		0	4691
+2795	HENGERIČOVÁ Agnesa r. Rusňáková		0	4359,4710
+2795	HENGERIČOVÁ Helena r. Valakovičová		0	4557
+2795	HOLEC Alexander, ml. ž.Klára r.Völgyiová ml. ž.Klára r.Völgyiová		0	5450
+2795	HOLEC Jozef		1	3388,5438
+2795	HOLÉCOVÁ Alžbeta r. Takáčová		0	5450
+2795	HOLECOVÁ Helena r. Igarová		1	3388,5438
+2795	HOLECOVÁ Klára r. Völgyiová, m.Alexander ml. m.Alexander ml.		0	4320
+2795	HOLECOVÁ Mária r. Šimonová		0	5363
+2795	HOLESOVÁ Rozália r. Hamranová		0	4266
+2795	HOLEŠ Štefan, ž. Gizela r.Kučerová ž. Gizela r.Kučerová		0	4714
+2795	HOLEŠOVÁ Rozália r. Hamranová, m. Štefan m. Štefan		0	5177
+2795	HORVÁTHOVÁ Mária r. Molnárová		0	4415
+2795	IGAR Alexander, ž.Gizela r.Molnárová ž.Gizela r.Molnárová		0	4720
+2795	JAKUBÁCSOVÁ Mária		0	4292
+2795	JANÓ Valent		0	5403,5432
+2795	JANÓOVÁ Žofia r. Dóczéová, m.Valent m.Valent		0	5043
+2795	JANÓOVÁ Žofia, mal.,SPF mal.,SPF		1	4572
+2795	JEKOVÁ Verona r. Rusnáková		0	4343
+2795	JEZSÓ Izidor, ž.Alžbeta r.Habarová ž.Alžbeta r.Habarová		0	4292
+2795	JEZSÓ Ján, ž.Helena r.Hegedüsová ž.Helena r.Hegedüsová		0	4292
+2795	JEZSÓ Vojtech		0	4292
+2795	JEZSÓOVÁ Vilma		0	4292
+2795	JEŽO Florián, ž.Verona r.Rusňáková ž.Verona r.Rusňáková		0	4266
+2795	JEŽO Jozef, ž. Helena r.Hamranová ž. Helena r.Hamranová		0	4266
+2795	JEŽO Ľudovít, ž.Anna r.Hamranová ž.Anna r.Hamranová		0	4266
+2795	JEŽO Pavol, ž.Eva r.Hamránová ž.Eva r.Hamránová		0	5055
+2795	JEŽO Štefan		0	4629
+2795	JUHAS Jozef, mal. mal.		0	5468
+2795	JUHOS Alexander, mal. mal.		0	4287,5172
+2795	JUHOS Ján, mal. mal.		0	4287,5122
+2795	JUHOS Jozef		0	4287,4563
+2795	KACKO Michal		0	2966
+2795	KÁDEKOVÁ Juliana r. Bilková		0	4968
+2795	KAJAN Florián		0	4750
+2795	KAJAN Florián, ž.Mária r.Hamranová ž.Mária r.Hamranová		0	4941
+2795	KAJAN Florián, ž.Rozália r.Ježová ž.Rozália r.Ježová		0	4478
+2795	KAJÁN Gašpar, syn Juliany,SPF syn Juliany,SPF		1	4719
+2795	KAJAN Jozef		0	5426
+2795	KAJAN Ladislav, ž.Júlia r.Rusznyáková ž.Júlia r.Rusznyáková		0	5205
+2795	KAJÁN Ľudovít, ž.Alžbeta r.Dikanová,SPF ž.Alžbeta r.Dikanová,SPF		1	5045
+2795	KAJÁN Michal, ž.Mária r.Hamránová ž.Mária r.Hamránová		0	4632
+2795	KAJAN Ondrej, ž.Katarína r.Kajanová ž.Katarína r.Kajanová		0	4995
+2795	KAJAN Viliam, ž.Mária r.Kajanová ž.Mária r.Kajanová		0	4476
+2795	KAJANOVÁ Hermína r. Lábszkiová, mamžel Jozef mamžel Jozef		0	5438
+2795	KAJANOVÁ Júlia r. Rusnáková		0	4343,5391
+2795	KAJANOVÁ Katarína r. Kajanová, m.Ondrej m.Ondrej		0	5208
+2795	KAJANOVÁ Mária r. Kajanová, m.Viliam m.Viliam		0	4605
+2795	KAJANOVÁ Rozália r. Ježová, m. Florián m. Florián		0	4593
+2795	KAJANOVÁ Vilma		0	4266
+2795	KANÁSZ Baltazár	ž.Alžbeta r.Csompóová	1	2974

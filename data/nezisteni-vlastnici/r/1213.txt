@@ -1,0 +1,256 @@
+709	Štefaňák Jozef, SR		0	576
+709	Štefaňák Jozef, SR	1	1	329,501,522,574,576
+709	Štefaňák Jozef, SR	3	0	483,485,487,488,489,494,497
+709	Štefaňák Jozef, SR	4	1	294,450,452,503,504,505,506,508,519,521,540
+709	Štefaňák Vojtech		1	317
+709	Štefaňák Vojtech, SR		1	341
+709	Štefaňák Vojtech, SR	1	1	288
+709	Štefaňáková Alžbeta		0	504,508
+709	Štefaňáková Alžbeta r. Melegová		0	504
+709	Štefaňáková Alžbeta r. Melegová, SR		1	286,288,294,450,451,452,503,505,506,508,519,521,540
+709	Štefaňáková Alžbeta, SR		1	294,355,450,451,452,503,505,506,519,521,540
+709	Štefaňáková Anna		0	302,485
+709	Štefaňáková Anna r. Pisarčíková, SR		0	549,561
+709	Štefaňáková Anna, SR		0	247,352,483,486,487,488,489,494,497
+709	Štefaňáková Katarína r. Vírosteková		0	236
+709	Štefaňáková Katarína r. Výrosteková		0	565
+709	Štefaňáková Mária	2	0	460
+709	Štefaňáková Mária	3	0	451,452
+709	Štefaňáková Mária r. Kovalčíková, SR	m.Andrej	0	574
+709	Štefaňáková Mária, SR		0	550
+709	Štefaňáková Mária, SR	2	1	42,275,279,283,345,469,550,582
+709	Štefaňáková Mária, SR	3	1	288,294,355,450,503,504,505,506,508,519,521,540
+709	Štefaňáková Mária, SR	4	0	569
+709	Štefaňáková Žofia, SR	1	1	288
+709	Štefaňáková Žofia, SR	2	0	501,519,521,522,525
+709	Štefaniak Andrej	2	0	485
+709	Štefaniak Andrej, SR		0	561
+709	Štefaniak Andrej, SR	2	1	286,288,294,355,450,451,452,503,504,505,506,508,519,521,540
+709	Štefaniak Andrej, SR	3	1	290
+709	Štefaniak Ján, SR	1	1	286
+709	Štefaniak Ján, SR	2	1	355,561
+709	Štefaniak Jozef	1	0	363
+709	Štefaniak Jozef, SR	1	1	325
+709	Štefaniak Jozef, SR	4	1	288
+709	Štefaniaková Mária	1	0	246
+709	Štefaniaková Mária, SR	1	1	244
+709	Štefaniaková Mária, SR	2	1	145,582
+709	Štefaniaková Žofia, SR	1	1	355
+709	Vernarská Alžbeta r. Pisarčíková, SR		1	355
+709	Vyrostek Jakub, SR		0	548
+709	Vyrostek Jozef, SR		0	565
+709	Vyrosteková Žofia		0	519
+709	Vyrosteková Žofia, SR		1	294,355,450,451,452,503,504,505,506,508,521,540
+709	Zajonc Andrej, SR	1	1	271,272
+709	Zajonc Andrej, SR	2	0	430
+709	Zajonc Andrej, SR	3	1	295
+709	Zajonc Ondrej, SR		0	236
+709	Zajoncová Anna, SR		0	430,569
+709	Zajoncová Mária r. Ovšonková, SR		1	261
+709	Zajoncová Mária r. Vyrosteková, SR		0	430
+709	Zajoncová Mária, SR		1	295
+710	Babková Anna r. Hanková		0	851
+710	Bahurinská Mária r. Jariabková	09.10.1910	0	789
+710	Bahurinský Jozef r. Bahurinský	po Michalovi Bahurinskom	0	503,515,858,923,948
+710	Bakoš Jozef r. Bakoš	manž. Johana r. Šimová	0	805
+710	Bakoš Jozef r. Bakoš	žena Johana Šimová,obyv z Hája	0	740
+710	Bakošová Anna r. Hanková		0	475,956
+710	Bakošová Mária r. Hanková		0	646
+710	Bakošová Mária r. Kantorová	z Hája	0	741
+710	Bakošová Paulína r. Chorváthová		0	773
+710	Boďová Anna r. Ižipová	vdova, čp. 51	0	503,765
+710	Bývalí urbarialisti obce Háj		0	858
+710	Černák Stanislav r. Černák	z Viesky	0	881
+710	Čullá Mária r. Čullá	maloletá	0	45,385
+710	Čullý Jozef r. Čullý		0	854
+710	Čullyová Mária r. Čulyová	brat Juraj Čully, čd. 46	0	293
+710	Dubovec Juraj r. Dubovec		0	45,385
+710	Dubovec Michal r. Dubovec	manž. Zuzana r. Haľamová	0	872
+710	Ďurčanská Zuzana r. Rišianová		0	773
+710	Fillo Juraj r. Fillo	manž. Anna r. Keliarová	0	289,290,503,858
+710	Fillo Juraj r. Fillo	manž. Zuzana r. Hanková	0	851
+710	Fillová Zuzana r. Hanková	manž. Juraj Fillo	0	851
+710	Fojtík Ján r. Fojtík	manž. Anna r. Zibolenová	0	45,385
+710	Gajdoš Michal r. Gajdoš	po Márii Gajdošovej r.Dzurikovej	0	781
+710	Gajdošová Johana r. Bakošová		0	806
+710	Gajdošová Johanna r. Bakošová	obyv.Háj	0	725
+710	Gajdošová Mária r. Dzuriková		0	474
+710	Grom Zdenka r. Grom		0	45,385
+710	Gruzman Juraj r. Gruzman	Horný, manž. Anna r. Oravcová	0	16,503,769,858
+710	Gruzmanová Anna r. Oravcová	manž. Juraj Gruzman	0	16
+710	Gruzmanová Anna r. Sunková	manž. Ján Gruzman	0	16
+710	Haľama Ján r. Haľama	manž. Mária r. Palčeková	0	773,864
+710	Haľama Michal r. Haľama	manž. Johana r. Palčeková	0	398
+710	Halama Zuzana, SR		0	17
+710	Haľamová Zuzana		0	575
+710	Haľamová Zuzana	brat Michal Haľama	0	39,759,760,761,864
+710	Haľamová Zuzana r. Giačová		0	303
+710	Halgaš Andrej r. Halgaš		0	739
+710	Halgaš Andrej r. Halgaš	súrodenci: Michal, Juraj	0	804
+710	Halgaš Ján r. Halgaš	po Márii Halgašovej r. Lejtrichovej, v Amerike	0	301,503,630,647,858
+710	Halgaš Juraj r. Halgaš		0	739
+710	Halgaš Juraj r. Halgaš	po Márii Halgašovej r. Lejtrichovej	0	804
+710	Halgaš Michal r. Halgaš		0	739
+710	Halgaš Michal r. Halgaš	súrodenci: Andrej a Juraj	0	804
+710	Hanková Anna r. Šimová		0	858
+710	Hanková Zuzana r. Lejtrichová	Krcho	0	646
+710	Chlopáňová Anna r. Kamienová		0	88,99,503,766,858,949
+710	Ižip Ján r. Ižip	manž. Anna r. Rišianová	0	858
+710	Ižip Milan r. Ižip	manž. Mária r. Červeňová	0	279
+710	Ižipová Anna r. Lejtrichová		0	503,858,870
+710	Ižipová Mária r. Giačová		0	858
+710	Jariabková Anna		0	773
+710	Jurčíková Anna r. Petrovičová	z Dolnej Štubne	0	362,503,584,858,1003,1004,1005
+710	Kamien Ján r. Kamien	manž. Mária r. Pádejová	0	503,858
+710	Keliar Michal r. Keliar	manž. Zuzana r. Sýkorová	0	773
+710	Keliarová Anna r. Gajdošová		0	398,503,833,858
+710	Keliarová Anna r. Gajdošová, SR		0	575
+710	Keliarová Anna r. Kamienová		0	766,858,949
+710	Kleskeň Vladimír r. Kleskeň	Hornianský	0	802
+710	Kováč Jozef r. Kováč	maloletý, po Márii Kováčovej r. Ločajovej	0	858
+710	Kováčová Anna r. Kováčová	po Márii Kováčovej r. Ločajovej	0	858
+710	Králik Ján r. Králik	maloletý v r.1922	0	825
+710	Králik Jozef r. Králik	maloletý v r. 1922	0	825
+710	Králik Jozef r. Králik	mlynár z Hornej štubna	0	825
+710	Králik Ondrej r. Králik		0	825
+710	Králiková Mária	maloletá v r. 1922	0	825
+710	Králiková Zuzana	maloletá v.r. 1922	0	825
+710	Kuzmány Ján r. Kuzmány		0	735
+710	Kuzmány Ján r. Kuzmány	po Márii Kuzmanyovej r. Zorkocyovej	0	801
+710	Lejtrichová Anna r. Sýkorová	manž. Juraj, č.s. 30	0	890
+710	Lejtrichová Mária r. Sýkorová		0	45,385
+710	Letrich Ján r. Letrich	žena Júlia Košíková,obyv.z Diviak	0	734
+710	Masná Anna r. Tarašová	manž. Juraj Masný	0	779
+710	Masný Juraj r. Masný	manž. Anna r. Tarašová	0	779
+710	Michalíková Anna r. Michalíková	z Hornej Štubne	0	773
+710	Mračko Ján r. Mračko	Požeský	0	832
+710	Mračko Jozef r. Mračko	manž. Anna r. Bakošová	0	766,858,949
+710	Mračko Jozef r. Mračko	zomrel 10.03.1979	0	503,858
+710	Mračková Anna		0	800,858
+710	Mračková Zuzana r. Lejtrichová		0	465,503,629,630,647,828,832,858
+710	Nedobová Mária r. Bakošová		0	805
+710	Nedobová Mária r. Bakošová	z Hája	0	740
+710	Obec Štubnianské Teplice		0	836
+710	Obec Vieska		0	836
+710	Oravcová Anna r. Fillová	manž. Jozef Oravec	0	100,503,576,577,585,689,770,858,938,961
+710	Oravcová Anna r. Fillová, SR		0	575
+710	Oravec Ján, SR		0	128
+710	Pádej Juraj r. Pádej	manž. Mária r. Stuchlá	0	629
+710	Padejová Zuzana r. Padejová	č.61	0	630
+710	Pádejová Zuzana r. Pádejová		0	189,503,536,629,858,932
+710	Palková Mária r. Petrovičová	zo Sv. Michala 77	0	362,503,584,858,1003,1004,1005
+710	Petrovič Ján r. Petrovič	po Ondrejovi Petrovičovi	0	362,503,584,858,1003,1004,1005
+710	Podhorský Andrej r. Podhorský	manž. Mária r. Ižipová	0	45,385
+710	Rímskokatolícka cirkev v Háji		0	819,888
+710	Stachová Anna r. Petrovičová	z Diviak	0	503,639,858,975
+710	Stuchlý Ján r. Stuchlý	slobodný čp. 90	0	45,385
+710	Svitek Jozef r. Svitek	Blatnica	0	773
+710	Svitek Jozef r. Svitek	manž. Zuzana r. Niklesová	0	773
+710	Sýkora Andrej r. Sýkora	manž. Mária r. Ižipová	0	537,858
+710	Sýkora Juraj r. Sýkora	manž. Zuzana r. Keliarová	0	773
+710	Sýkorová Johana r. Chorváthová		0	773
+710	Šimková Zuzana r. Zibolenová		0	697
+710	Šimo Ján r. Šimo		0	825
+710	Šimová Anna r. Šimová		0	848
+710	Timko Pavel r. Timko	z Viesky	0	829,881
+710	Ziman Ján r. Ziman	po Jozefovi Zimanovi	0	503
+710	Žiaková Elena, SR		0	722
+711	Adam Jozef r. Adam		0	757,956,1183
+711	Adam Karol r. Adam		0	1183
+711	Adamová Alžbeta r. Bacso		0	757,956
+711	Adamová Rozália r. Mészárošová	vd	0	743
+711	Adamová Rozália r. Mészárošová	vdova	0	741,745,746,747,749,751,758,760,764,1030,1033,1034,1183
+711	Ando Alexander r. Ando		0	869,906,1193
+711	Ando Alexander r. Ando	maloletý v r.1882	0	757,956
+711	Ando Jozef r. Ando	maloletý v r.1882	0	757,956
+711	Ando Jozef r. Ando	PKV 143 B 8	0	757,956
+711	Andó Jozef r. Andó		0	852,856
+711	Ando Juliana r. Ando		0	1193
+711	Ando Juraj r. Ando		0	719,1024,1060,1079,1082,1084,1086,1087,1138,1140,1148,1157,1185,1202
+711	Andó Juraj r. Andó	mladší	0	750
+711	Ando Karol r. Ando		0	757,956
+711	Ando Martin r. Ando		0	757,956
+711	Ando Rozália r. Vartás		0	757,956
+711	Ando Štefan r. Ando		0	757,956
+711	Andová Katarína r. Andová		0	757,956
+711	Andová Margita r. Mester	m.Jozef	0	852,854,855,856,1018,1066,1071,1102
+711	Andová Zuzana r. Rákayová	muž Juraj	0	1069
+711	Bábás Alžbeta r. Falucskai		0	1052
+711	Bábás Daniel r. Bábás	maloletý v r.1899	0	898
+711	Bábas Ján r. Bábas	PKV 143	0	757,956
+711	Bábas Ján r. Bábas	ž.Mária r.Bencs	0	757,956
+711	Bábás Ján r. Bábás	maloletý v r.1921	0	898
+711	Bábás Jozef r. Bábás	maloletý v r.1899	0	898
+711	Bábás Jozef r. Bábás	maloletý v r.1914	0	898
+711	Bábás Juliana r. Bábás	maloletá v r.1914	0	898
+711	Babas Juliana r. Bartok		0	757,956
+711	Bábás Lídia r. Bábás	maloletá v r.1899	0	898
+711	Bábas Mária r. Bencs	m. Ján	0	757,956
+711	Bábas Pavol r. Bábas		0	757,956,1060,1079,1082,1084,1086,1087,1138,1140,1148,1157
+711	Bábás Rozália r. Bábás	maloletá v r.1899,1908	0	898
+711	Bábás Štefan r. Bábás	ž.Terézia r.Dedinszki	0	757,956
+711	Bábás Zuzana r. Bartók	m.Štefan	0	757,956,1051,1052
+711	Bábásová Mária r. Koltsárová		0	1132,1242
+711	Bábaš Alžbeta r. Szabo	m.Štefan	0	757,956
+711	Bábáš Ján r. Bábáš		0	898,1077,1111,1125,1279
+711	Bábáš Ján r. Bábáš	maloletý v r.1951	0	1123,1266
+711	Bábáš Ján r. Bábáš	mladší	0	1127
+711	Bábáš Jozef r. Bábáš		0	744,1195,1272
+711	Bábáš Jozef r. Bábáš	PKV 111	0	1111,1127
+711	Bábáš Jozef r. Bábáš	ž.Barbora r. Lengyel	0	757,956
+711	Bábáš Štefan r. Bábáš		0	770,771,866,867,904,1047,1077,1111,1125,1127,1175,1195,1234,1236,1245,1272,1278,1279,1280
+711	Bábáš Štefan r. Bábáš	starší, ž.Alžbeta r.Szabo	0	757,956
+711	Bábášová Barbora r. Lengyel	m.Jozef	0	757,956
+711	Babášová Rozália r. Kulčárová	m.Michal	0	1176
+711	Bábášová Terézia r. Dedinszki		0	757,956,1111,1127
+711	Babášová Zuzana r. Bartóková	m.Štefan	0	785,986,1056,1058,1145,1263,1273
+711	Bacso Ján r. Bacso	ž.Mária r.Bakošová	0	757,956
+711	Bacso Jozef r. Bacso		0	757,956
+711	Bacso Jozef r. Bacso	maloletý v r.1882	0	757,956
+711	Bacsová Mária r. Bakošová	m.Ján	0	757,956
+711	Baňas Andrej r. Baňas		0	1096,1268
+711	Banyasz Anna r. Szokoly		0	757,956
+711	Bányasz Jozef r. Bányasz		0	757,956,1204
+711	Banyasz Július r. Banyasz		0	757,956
+711	Banyasz Piroška r. Banyasz	maloletá v r.1943	0	757,956
+711	Banyasz Štefan r. Banyasz	maloletý v r.1886	0	757,956
+711	Baranyaiová Mária r. Mešterová		0	856
+711	Barnák Andrej r. Barnák		0	757,956
+711	Barnák Andrej r. Barnák	maloletý v r.1891	0	1204
+711	Barnák Fabián r. Barnák		0	757,956
+711	Barnák Ján r. Barnák	maloletý v r.1891	0	1204
+711	Barnák Ján r. Barnák	ž.Margita r.Oravcová	0	854
+711	Barnák Jozef r. Barnák	maloletý v r.1891	0	1204
+711	Barnáková Margita r. Oravcová	m.Ján	0	854
+711	Bartha Ján r. Bartha		0	1060,1079,1082,1084,1086,1087,1138,1140,1148,1157
+711	Bartók Andrej r. Bartók	maloletý v r.1909	0	1173,1174,1178
+711	Bartók Anna r. Bartók	maloletá v r.1882	0	757,956
+711	Bartók Benjamin r. Bartók	maloletý v r.1909	0	1173,1174,1178
+711	Bartók Daniel r. Bartók		0	757,956
+711	Bartók Emil r. Bartók		0	1174,1175
+711	Bartók Gizela r. Jóža		0	1074,1265
+711	Bartók Ján r. Bartók	č.d.111/1879	0	1051,1052
+711	Bartók Ján r. Bartók	č.d.920/1936	0	1049,1054
+711	Bartók Ján r. Bartók	dedenie č.d.1042/1931	0	785,986,1056,1058,1145,1263,1273
+711	Bartók Ján r. Bartók	zápis 27.7.1882 č.d.1634	0	757,956
+711	Bartók Július r. Bartók		0	1060,1079,1082,1084,1086,1087,1138,1140,1148,1157
+711	Bartók Lídia r. Bartók		0	757,956
+711	Bartók Štefan r. Bartók	zápis 27.7.1882 č.d.1634	0	757,956
+711	Bartók Vojtech r. Bartók		0	785,1132,1177,1178,1242
+711	Bartóková Juliana r. Bartóková	maloletá v r.1909	0	1173,1174,1178
+711	Bartóková Zuzana r. Bartóková		0	1049,1054
+711	Basco Štefan r. Basco		0	757,956
+711	Bernár Kazimír Peter r. Bernár Kazimír	žena Júlia r.Kazimirová	0	829,858,859,874,875,879,880,881,882,883,884,885,935,936,937,938,939,940,941,942,943,951,969,995,996,997,998,999,1208
+711	Bernárová Júlia r. Hodermarská	vdova	0	829,858,859,874,875,879,880,881,882,883,884,885,935,936,937,938,939,940,941,942,943,951,969,995,996,997,998,999,1208
+711	Bernárová Kazimírová Júlia r. Kazimírová	muž Peter	0	829,858,859,874,875,879,880,881,882,883,884,885,935,936,937,938,939,940,941,942,943,951,969,995,996,997,998,999,1208
+711	Bernát Ján r. Bernát	ž.Mária r. Kepes	0	757,956
+711	Bernáth Anna r. Kulčár		0	1028,1261
+711	Bernátová Mária r. Kepes	m. Ján	0	757,956
+711	Bojsko Ján r. Bojsko		0	1060,1079,1082,1084,1086,1087,1138,1140,1148,1157
+711	Bojsko Ján r. Bojsko	mladší	0	1221
+711	Bojskó Juliana r. Szepesi	m.Ján	0	1210
+711	Bojszko Alžbeta r. Stecz	súrodenci Jozef a Juraj	0	757,956
+711	Bojszko Ján r. Bojszko	kúpa 30.10.1942 č.d.3119	0	757,956
+711	Bojszko Ján r. Bojszko	maloletý v r.1882	0	757,956
+711	Bojszko Ján r. Bojszko	PKV 143 B 335	0	757,956
+711	Bojszko Ján r. Bojszko	PKV 143 B 70	0	757,956

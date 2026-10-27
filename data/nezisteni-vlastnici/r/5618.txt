@@ -1,0 +1,256 @@
+3166	Németh Anton		1	2113
+3166	Németh Dominik		1	1731,2303
+3166	Németh Emil		1	762,772,2569
+3166	Németh Estera		1	2569
+3166	Németh Gizela		1	2569
+3166	Németh Ján b		1	1731,2303
+3166	Németh Jozef		1	762,2179,2569
+3166	Németh Peter		1	2302
+3166	Németh Štefan		0	762,1730
+3166	Németh Štefan	Syn Štefanov	1	2569
+3166	Németh Štefan b		1	1731,2568,2569
+3166	Németh Tomáš		1	2736
+3166	Némethová Anna		1	1731,2303
+3166	Némethová Apolonia	Kováčová	1	2355
+3166	Némethová Estera		1	762,2569
+3166	Némethová Gizela		1	762,2569
+3166	Némethová Jozefína	Hanzelová	1	2434
+3166	Némethová Lýdia	Balgovics	1	2290,2364
+3166	Némethová Magdaléna		1	1787,2113,3280
+3166	Némethová Marcela	Kurucová	1	2325
+3166	Némethová Mária		1	1731,1787,2303,3280
+3166	Németová Alžbeta	Hrvolová	1	2306
+3166	Németová Mária	Kováčová	1	2356,2946,3403
+3166	Nyári Mária	Paulovics	1	2155
+3166	Oravcová Alžbeta	Liptáková Veľké Lovce 419	1	2401
+3166	Oravczová Mária		1	2425
+3166	Oravec František		0	744
+3166	Oravec Imrich		1	2432
+3166	Oravec Ján		0	744
+3166	Oravec Jozef		1	2233,2432
+3166	Oravecová Štefánia	Kurucová	1	2414,2474
+3166	Oraveczová Mária	Rohanová	1	2605
+3166	Orosz Foldhiteninteze	Bej ceg	1	2226,2711
+3166	Országos Földhitelintézet budapesti bej cég		0	3004
+3166	Otruba František	02.08.1937 Rieglová 15 Cheb - ČR	1	3026
+3166	Otruba Ján	29.09.1977 zomrel nar minulé storočie Veľké Lovce	1	2036,2456
+3166	Otruba Michal		1	2324
+3166	Otruba Pavel		1	2324
+3166	Otruba Štefan		1	1746
+3166	Otruba Terézia	Bránik	1	2597
+3166	Otrubová Alberta		1	2517
+3166	Otrubová Alžbeta		0	547
+3166	Otrubová Anna		0	32
+3166	Otrubová Berta		1	1746
+3166	Otrubová Johana	Liptáková	1	2662
+3166	Otrubová Klára	Mandíková	1	2716
+3166	Otrubová Margita		0	32
+3166	Otrubová Mária		1	1746
+3166	Otrubová Mária	Kothajová	1	2324
+3166	Pál Andrej		1	2341
+3166	Pál Gejza		1	2024,2025
+3166	Pál Ľudovít		1	2340
+3166	Pálinkáš Ján	zomrel	1	1859,2232
+3166	Pálová Estera		1	2275,2338,2818
+3166	Pálová Helena	Máteová	1	2274
+3166	Pálová Terézia		1	135,2275,2338,2818
+3166	Pálová Terézia	Čásárová	1	2551
+3166	Pálová Zuzana	Bogácsyová	1	2842
+3166	Pánisová Johanna r. Juríková		0	528
+3166	Pánisová Terézia r. Juríková		0	528
+3166	Pappová Margita	Kočiová	1	2553
+3166	Pappová Mária		1	568,2148,2149,2290
+3166	Paulovics František		1	2155
+3166	Paulovičová Petronela	Kurucová	1	2720
+3166	Paulovičová Terézia	Liptáková	1	2163,2702
+3166	Paulovičová Terézia, SR		1	2808
+3166	Pavlatovská Berta	Šuhajová	1	2729,2730
+3166	Petrányi Štefan		0	488
+3166	Pinteš Jozef		1	3031
+3166	Polák Dominik	zomrel	1	2252,2271
+3166	POLÁK KLEMENT		0	2062
+3166	Poláková Amália		0	1182
+3166	Poláková Jozefína		1	2678
+3166	Poláková Mária	Holečková	1	1992,2213,2315,2899,3408,3508
+3166	Poláková Paulína	Slováková	1	2252,2453
+3166	Poláková Valéria	Kurucová	1	2417
+3166	Pompoš Július		1	2198,2322,2359,2843
+3166	Pompoš Peter		1	2322
+3166	Pompošová Mária		1	2322,2359
+3166	Poprac Jozef		1	2912
+3166	Popracová Katarína	Šošová	1	2912
+3166	Pridalková Verona	Liptáková	1	2401
+3166	Priechodská Mária	Pálinkášová	1	2056
+3166	Pristicová Margita		1	1996
+3166	Pristič Michal		1	2809
+3166	Pristič Peter		1	2809
+3166	Prističová Jozefína		1	597,1995,1996
+3166	Radošická Mária	Wolfová manž.Michal	1	2416
+3166	Rapavá Katarína		0	514
+3166	Rapavý Ján		1	2238,2498
+3166	Rapavý Matej		1	1608,1609,3286
+3166	Rapavý Matúš		0	514
+3166	Rapavý Michal		1	2238,2498,3286
+3166	Rašmanová Justína	Haládiková	1	2487,2888
+3166	Regás Štefan		1	2564
+3166	Regásová Mária b	Kurucová	1	2564
+3166	Remišová Mária		0	963
+3166	Remišová Petronela r. Galbavá	manž. Ján	1	1136
+3166	Rybár František		1	3032
+3166	Rybár Jozef		1	1582,1977,1978,3056
+3166	Rybárová Mária	Šimuneková	1	3032
+3166	Sallaiová Rozália	Kočiová	1	2553
+3166	Sklenár Jozef		1	1203,1851,2189,2190,2342,2443
+3166	Sklenárová Katarína		1	2426
+3166	Sklenárová Mária	Galbavá	1	2550
+3166	Sklenárová Mária	Verešová	1	2562
+3166	Slávik Ján		1	1203,1851,2189,2190,2443
+3166	Slávik Jozef		1	1203,1851,2189,2190,2342,2426,2443
+3166	Sláviková Anna		1	2426
+3166	Sláviková Júlia		1	2426
+3166	Sláviková Verona	Galbavá	1	2342
+3166	Sláviková Verona	Sklenárová	1	2426
+3166	Slivoň Albert		1	2428
+3166	Slivoň Ján		1	560
+3166	Slivoňová Agneša	Sklenárová	1	1851,2189,2190,2342,2426,2443
+3166	Slivoňová Agneša r. Sklenárová		0	1203
+3166	Slivoňová Mária	Likavčanová	1	2161,3211,3359
+3166	Slobodník František r. Slobodník a Apolonia Slobodníková r. Mellen		0	3033
+3166	Slobodníková Apolonia	Mellenová	1	1854,2065
+3166	Slobodníková Apolónia		0	1182
+3166	Slobodníková Mária	14.10.1901 Kubalková zomrela Veľké Lovce 342	1	2459,2674,2893
+3166	Slobodníková Mária	Števlíková	1	1734,1736
+3166	Slováková Alžbeta	Švecová	1	1915,3001
+3166	SLOVENSKÝ POZEMKOVÝ FOND-BRATISLAVA		0	2749
+3166	Spišeková Mária r. Golhová		0	32
+3166	Sulanová Uršula	Beňovská	1	2238,2498
+3166	Sýkorová Anna	Baková Andrejská 15 36000 Karlove Vary	1	2510,2697
+3166	Szabo Ernest		1	2294
+3166	Szabo Koloman		1	2366
+3166	Szklenár František		1	2518
+3166	Szklenárová Paula		1	2518
+3166	Szokeová Viola r. Bahíková, P. Blahu 7, Nové Zámky, PSČ 940 01, SR		0	3254
+3166	Szőkeová Viola r. Bahíková, P. Blahu 7, Nové Zámky, SR		0	1768
+3166	Šafár František		1	2270,2934,3328
+3166	Šafár Ján		1	68,2272
+3166	Šafár Jozef		1	2307
+3166	Šafár Vincent	28.11.1917 zomrel	1	2307
+3166	Šafárová Anna		1	2307
+3166	Šafárová Apolonía		1	2307
+3166	Šafárová Mária		1	2307
+3166	Šafárová Mária	Ďuračová	1	2903
+3166	Šafárová Terezia	Haládiková	1	2454
+3166	Šallai Arnošt		1	2230
+3166	Šallai Dezider		1	2327
+3166	Šallai František		1	2248,2648
+3166	Šallai Ján		1	2230
+3166	Šallai Jozef		1	2245,2623
+3166	Šallai Ľudovít		1	1733,1917,2966
+3166	Šallaiová Mária	Jakubová	1	2327
+3166	Šallaiová Rozália		1	2839
+3166	Šallaiová Rozália	Korpášová	1	2248
+3166	Šallaiová Rozália	Pálinkášová	1	2703
+3166	Šallaiová Vilma	Korpášová	1	2367
+3166	Šašová Katarína	Kliská zomrela Veľké Lovce 18	1	2822,2988
+3166	Šedinár Štefan		1	2321
+3166	Ševčík František		1	2594
+3166	Ševčík Ján		1	2594
+3166	Ševčík Jozef		1	2594
+3166	Ševčík Peter		1	2594
+3166	Ševčík Štefan		1	2594
+3166	Ševčíková Etela	Šafárová	1	1889,2141,2956,3093,3172,3457,3527
+3166	Ševčíková Janka r. Liptáková		0	758
+3166	ŠIMON MATEJ		0	2062
+3166	Šimonová Bernardína	Šášová-Manž.František	1	2988
+3166	Šmýkalová Anna		1	2259
+3166	Šmýkalová Anna	Balogh	1	2412
+3166	Šmýkalová Anna r. Baloghová		0	878
+3166	Šokyová Apolonia	Kurucová	1	2417
+3166	Števlík Adam		1	1815,2269,2573,3158
+3166	Števlík Ján	11.07.1934 Lázňe 486 90000 Lipová - ČR	1	1734,1735,1736
+3166	Števlík Justína	Kuťka	1	1942
+3166	Števlíková Mária	Straňáková	1	1736,2573
+3166	Števlíková Terézia	Števlíková	1	1734
+3166	Štrbová Mária	Gyénová	1	2350
+3166	Štrbová Mária r. Gyénová		0	508
+3166	Šuhaj Jozef		1	2560
+3166	Šuhaj Peter		1	2464,2728,2730
+3166	Šuhajová Julianá	Vrábelová	1	2479
+3166	Šuhajová Juliana r. Vrábelová		0	2100
+3166	Šúchalová Júlia	Sulanová	1	2254
+3166	Šúchalová Rozália	Záhumenská	1	2542
+3166	Švec Andrej		1	1915,3001
+3166	Tárniková Mária	Kurucová	1	2406
+3166	Tináková Eva	Némethová	1	2571
+3166	Tináková Eva r. Némethová		0	751
+3166	Toiflová Alžbeta	16.11.1927 Tuchorovská 327/6 Praha 10	1	2036
+3166	Tomášiková Mária	Galbavá	1	1045
+3166	Toppel Jozef r. Toppel a Amália Toppelová r. Kuruc		0	3044
+3166	Toppelová Amália	Kurucová	1	2001,2957,3405
+3166	Torrová Mária	Prističová	1	2384
+3166	Toth František		1	2333
+3166	Toth Jozef		1	2333
+3166	Toth Mária	Otruba	1	1609
+3166	Toth Michal		1	2333
+3166	Toth Peter	zomrel Veľké Lovce 185	1	2603
+3166	TÓTH VOJTECH ml.		0	2062
+3166	Tothová Agneša	Pap	1	2148,2149
+3166	Tóthová Agneša r. Papová		0	568
+3166	Tothová Anna		1	2333
+3166	Tothová Anna	Šuhajová zomrela	1	2728,2730
+3166	Tothová Jozefína		1	2091,2092,2603
+3166	Tothová Juliana	Otrubová	1	2727
+3166	Tothová Mária		1	2603
+3166	Tothová Mária	Habermanová zomrela	1	2545
+3166	Trunelová Anna	Sláviková	1	1851,2189,2190,2342,2443
+3166	Trunelová Júlia	Sláviková	1	2189,2190
+3166	Trungelová Anna r. Sláviková		0	1203
+3166	Udvardi Helena	Loti	1	2353
+3166	Udvardi Matej		1	2259
+3166	Udvardi Štefan		1	2353
+3166	Udvardiová Anna	Tothová	1	2333
+3166	Udvardyová Anna r. Šmýkalová		0	878,895
+3166	Valentová Mária	Otrubová	1	2727
+3166	Varanyaiová Júlia r. Pálová		0	127
+3166	Varanyová Júlianna	Pálová	1	2024,3049
+3166	Vereš Imrich		1	2566
+3166	Vereš Mikuláš		1	2258
+3166	Vrábel František	zomrel	1	2247
+3166	Vrábelová Mária	dcéra Františkova	1	2100,2247,2479,2741
+3166	Wolf Ján, SR	manž. Edita Wolfová	0	2416
+3166	Wolfová Katarína		1	2416
+3166	Záhumenská Jozefína	Slováková	1	2959
+3166	Záhumenská Mária	Betáková	1	1992
+3166	Záhumenská Petronela	Kurucová	1	2310
+3166	Záhumenská Rozália	Kurucová	1	2964
+3166	Záhumenský Dominik		1	1914,1915,2351,2460
+3166	Záhumenský Jozef		1	2335
+3166	Záhumenský Štefan		1	2522
+3166	Zimula František		1	2732,2760,3016
+3166	Zimula Imrich		1	2429,2433
+3166	Zimula Ján		1	2433,2732,2760,3016
+3166	Zimula Jozef		1	2346,3016
+3166	Zimula Rozália	Mandíková	1	2429
+3166	Zimula Štefan		1	2658
+3166	Zimulová Anna	Tothová	1	2345
+3167	Also Csomor Štefan r. Also Csomor		0	2728
+3167	Alžbeta Béliková r. Klacsány		0	2024
+3167	Babindák Štefan r. Babindák	maloletý	0	2024,2420
+3167	Babindáková Alžbeta r. Istvánová	m. Jozef	0	2024
+3167	Babinec Štefan r. Babinec	ž.Mária r.Duchoňová	0	2377
+3167	Bagala Jozef r. Bagala	3	0	2469
+3167	Bagala Jozef r. Bagala	syn Jozefa	0	2560
+3167	Bagala Štefan r. Bagala		0	2469
+3167	Bagala Vojtech		0	1655
+3167	Bagala Vojtech r. Bagala		0	2511
+3167	Bagalová Mária r. Chmelová		0	2587
+3167	Bajkaiová Rozália r. Monczová	m. Štefan	0	2023
+3167	Baka Štefan		0	480
+3167	Bako Štefan r. Bako		0	2023,2655
+3167	BALAZ JAN		0	1177,1503
+3167	BALAZS JAN		0	1152,2167
+3167	Balázs Ján r. Balázs	ž.Katarína r.Bereková	0	2459
+3167	Balázs Jozef		0	2167
+3167	BALAZS STAFAN		0	1152
+3167	Balázs Štefan r. Balázs	ž. Verona r. Turánová	0	2319
+3167	Balázs Štefan r. Balázs	ž.Júlia r.Nagyová	0	2023

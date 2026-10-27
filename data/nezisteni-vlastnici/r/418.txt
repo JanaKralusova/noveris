@@ -1,0 +1,256 @@
+239	Stachovič Ján	súr. Anton, ded. po Františkovi Stachovičovi	0	1325,1508,4738,4739,4740
+239	Stachovič Ján	súr. Anton, ded. po Jánovi Mrázovi -ž. Mária r. Stachovičová	0	1630
+239	Stachovič Ján	súr. Anton, Helena, Anna, Terézia	0	1095
+239	Stachovič Ján	súr. Antonín, ded. po Františkovi Stachovičovi	0	1160,4439
+239	Stachovič Ján	súr. Júlia, Terézia, František	0	1508,4078
+239	Stachovič Ján	súrod. Anton	0	1505
+239	Stachovič Ján	súrod.Anton	0	4741
+239	Stachovič Ján	ž. Agneša r. Valachovičová	0	1508,1675,4742
+239	Stachovič Ján	ž. Agneša r. Valachovičová, súr. Júlia, František, Terézia, ded. po Anne Stachovičovej	0	1630
+239	Stachovič Ján	ž. Agneša r.Valachovičová	0	1325,5248
+239	Stachovič Ján	ž. Mária r. Antálková, kúpa od Ignáca Antálka	0	1250
+239	Stachovič Ján	ž.Agneša r.Valachovičová	0	1505
+239	Stachovič Ján	ž.Agneša r.Valachovičová, súr. Júlia, František, Terézia, ded. po Anne Stachovič r. Mráz	0	1325
+239	Stachovič Ján	ž.Agneša r.Valachovičová, súrod.Júlia, Mária, Terézia	0	4741
+239	STACHOVIČ Ján		0	1088,1505,2331,2483,4433,4890
+239	STACHOVIČ Ján mal.		0	1554
+239	Stachovič Jozef	rodičia Vendelín a Júlia r.Trubirohová, súr. Rozália Jakubcová, Ferdinand, Ján, Vendelín	0	1554,2699,2700
+239	Stachovič Jozef	zomr.10.6.1947, čd 51, manž. Klára Kováčová, rod. Ján a Mária Baňovičová	0	1554
+239	Stachovič Konštantín	mal. Súr. Ferdinand, Alojz, Ignác, kúpa od Evy Hojsíkovej r. Michálkovej	0	1092
+239	Stachovič Konštantín	maloletý	0	652,2672,4446
+239	Stachovič Konštantín	maloletý, ded. po Deziderovi Stachovičovi	0	2866
+239	Stachovič Konštantín	maloletý, kúpa od Evy Hojsíkovej	0	1387
+239	Stachovič Konštantín	maloletý, kúpa od Evy Hojsíkovej r. Michálkovej	0	1088,1163,2483,4433,4890
+239	Stachovič Konštantín	maloletý, súr. Ferdinand, Ignác, Alojz, kúpa od Evy Hojsíkovej r. Michálkovej	0	1094,4435
+239	Stachovič Ondrej r. Stachovič	zomr. 25.9.1962, ž. Helena r. Pavlíková, rod. Matej a Rozália r. Krídlová, súr. Teofil, C	0	1554
+239	Stachovič Štefan		0	1084,1087,1117,1251,4434,4437,4935,5337,5822
+239	Stachovič Štefan	súr. Vendelín	0	1338
+239	Stachovič Tomáš	súr. Antonín, Žofia, Júlia, Agneša, Albína, kúpa od Heleny Valachovičovej	0	1145,4932,4933
+239	Stachovič Tomáš	súr. Žofia, Júlia, Agneša, Helena, Anton, Albína, Cecília, ded. po Antonovi Stachovičovi	0	1145,4932,4933
+239	Stachovič Vendelín r. Stachovič	zomr. 10.9.1981, ž. Jozefína r. Králová, rod.Vendelín a Júlia r. Trubirohová, súr. Jozef,d	0	1554
+239	Stachovič Viktor	maloletý	0	2867
+239	Stachovičová /Horní/ Anna		0	1141
+239	Stachovičová /Horní/ Helena		0	1141
+239	Stachovičová /Horní/ Terézia		0	1141
+239	Stachovičová Agneša r. Valachovičová	de. po Štefanovi Valachovičovi	0	2862
+239	Stachovičová Agneša r. Valachovičová	ded. po Júlii Valachovičovej	0	3151
+239	Stachovičová Agneša r. Valachovičová	ded. po Júlii Valachovičovej r. Hladíkovej	0	1088,1089,1139,2483,2858,2859,2861,2866,2867,2868,2869,4433,4890
+239	Stachovičová Agneša r. Valachovičová	ded. po Júlii Valachovičovej r. Hladíkovej, manž. Štefan	0	2870
+239	Stachovičová Agneša r. Valachovičová	ded. po Štefanovi Valachovičovi	0	1139,1249,1412,2212,2213,2214,2215,2216,2218,2219,2220,2221,2222,2856,2857,2871
+239	Stachovičová Agneša r. Valachovičová	ded. po Štefanovi Valachovičovi a Júlii Valachovičovej r. Hladíkovej	0	1554
+239	Stachovičová Agneša r. Valachovičová	ded. po Štefanovi Valachovičovi, Júlii Valachovičovej	0	1247
+239	Stachovičová Agneša r. Valachovičová	dedené po Štefanovi Valachovičovi	0	1921,4638
+239	Stachovičová Agneša r. Valachovičová	m. Ján	0	1508
+239	Stachovičová Agneša r. Valachovičová	m. Ján, ded. po Štefanovi Valachovičovi	0	1089
+239	Stachovičová Agneša r. Valachovičová	m. Ján, ded. po Štefanovi Valachovičovi - ž. Júlia r. Hladíková	0	2200,2211,2801
+239	Stachovičová Agneša r. Valachovičová	m. Ján, ded. po Štefanovi Valachovičovi -ž. Júlia r. Hladíková	0	2217
+239	Stachovičová Agneša r. Valachovičová	m. Ján, ded.po Štefanovi Valachovičovi -ž. Júlia r. Hladíková	0	1667
+239	Stachovičová Agneša r. Valachovičová	m. Ján, súr. Margita Palkovičová, Terézia Štvrtecká, Martin	0	1115
+239	Stachovičová Agneša r. Valachovičová	m. Ján, súr. Margita, Terézia, Martin, ded. po Štefanovi Valachovičovi	0	1087,4434,4935,5822
+239	Stachovičová Agneša r. Valachovičová	m.Ján	0	1325,3754,3849,3909,4079,4183,5379,5486
+239	Stachovičová Agneša r. Valachovičová	Margita, Terézia, Martin, Helena, ded. po Štefanovi Valachovičovi	0	1255
+239	Stachovičová Agneša r. Valachovičová	súr. Margita, Terézia, Martin, ded. po Júlii Valachovičovej r. Hladíkovej	0	1095,1249
+239	Stachovičová Agneša r. Valachovičová	súr. Margita, Terézia, Martin, ded. po Štefanovi Valachovičovi	0	1090,1116,1143,1164,1338,4929,4930
+239	Stachovičová Agneša r. Valachovičová	súr. Margita, Terézia, Martin, ded. po Štefanovi Valachovičovi, Júlii Valachovičovej	0	1116
+239	Stachovičová Agneša r. Valachovičová	súr. Margita, Terézia, Martin, Franišek, Rozália, Helena, por. Júlia Valachovičová	0	1087,4434,4935,5822
+239	Stachovičová Agneša r. Valachovičová	súr. Margita, Terézia, Martin, Helena	0	1113,1254
+239	Stachovičová Agneša r. Valachovičová	súr. Margita, Terézia, Martin, Helena, ded. po Štefanovi Valachovičovi	0	1095,1141,1145,1180,1251,4932,4933,5444
+239	Stachovičová Agneša r. Valachovičová	súr. Terézia, Martin, Helena, ded. po Štefanovi Valachovičovi	0	1250
+239	STACHOVIČOVÁ Agneša r. Valachovičová		0	1406,1409,1554,1665,4792,5626
+239	Stachovičová Alžbeta r. Jakubcová		0	2338
+239	Stachovičová Alžbeta r. Jakubcová	dar od Leopolda Jakubca	0	1554
+239	Stachovičová Alžbeta r. Jakubcová	m. Michal	0	1502
+239	Stachovičová Alžbeta r. Pernecká	rod. Vendelín a Mária r. Zlámalová, súr. Ján, Štefánia Antálková, Mária Krídlová	0	505,1086,1115,1248,1338,1554,2695,4444,4595,5356
+239	Stachovičová Anna	maloletá, ded. po Deziderovi Stachovičovi, ž. Agneša r. Bartalová	0	2870
+239	Stachovičová Anna r. Hojsíková		0	1086,1088,1090,1116,1145,2483,4433,4890,4929,4930,4932,4933
+239	Stachovičová Anna r. Horná	súr. Ján, Anton, Helena, Terézia	0	1093,4931
+239	Stachovičová Anna r. Šimonová	ded. po Márii Šimonovej r. Heskovej	0	3550
+239	Stachovičová Anna r. Šimonová	súr. Agneša, Antónia, Ján, Sabína, Martin,ded. po Márii Šimonovej r. Heskovej	0	1338
+239	Stachovičová Anna r. Šimonová	súrod.Agneša,Antónia,Ján, Sabina,Martin	0	3547
+239	Stachovičová Anna r. Šimonová	súrod.Agneša,Antónia,Ján,Sabina,Martin	0	3548,3549
+239	Stachovičová Helena	súr. Cecília Turečková, Terézia	0	1095
+239	Stachovičová Helena	súr. Cecília, Terézia	0	1089,1116
+239	Stachovičová Helena r. Horná	súr. Ján, Anton, Anna, Terézia	0	1093,4931
+239	Stachovičová Helena r. Pavlíková	ded. po Jánovi Pavlíkovi, súr. Antonín, Mária, Dominik, Ignác, Ján	0	3220
+239	Stachovičová Helena r. Pavlíková	ded.po Jánovi Pavlíkovi, súr. Antonín, Mária, Dominik, Ignác, Ján	0	3244
+239	Stachovičová Helena r. Pavlíková	súr.Ján, Antonín, Mária, Dominik, Ignác, ded. po Jánovi Pavlíkovi	0	3245
+239	STACHOVIČOVÁ Helena r. Pavlíková		0	1468,1516
+239	Stachovičová Jolana r. Jakubcová	manž.Ignác, rod. Michal a Mária r.Bartalová, súr. Ján, Štefan, Agneša, Michal, Žofia, Imr	0	1088,1089,1092,1095,1113,1116,1139,1163,1164,1247,1249,1256,1554,2137,2145,2146,2147,2148,2483,3050,3429,3655,3796,4052,4433,4615,4890,4991,4992,4993,4999,5240,5495,5678
+239	Stachovičová Jozefína r. Králová		0	2309
+239	Stachovičová Júlia	súr. Ján, Terézia, František	0	4078
+239	Stachovičová Júlia r. Trubirohová	zomr. 8.1.1949, m. Vendelín, deti: Jozef, Rozália, Vendelín, Ferdinand, Ján, Mária Bartošá	0	1432,1554,2699,2714,3348,3759,5438,5441,5478,5542,5676,5811,5812,5813
+239	Stachovičová Juliana	č.d. 93	0	5311
+239	Stachovičová Klára r. Kováčová	m. Jozef, dedené po Imrichovi Kováčovi -ž.Júlia r. Michálková	0	1443
+239	Stachovičová Mária	rod. Štefan a Mária r. Krídlová, sestra Alžbeta Dujsíková	0	1083,1086,1088,1089,1090,1095,1116,1140,1145,1164,1248,1250,1251,1255,1256,1338,2483,4358,4391,4433,4436,4444,4890,4929,4930,4932,4933,5436,5437
+239	Stachovičová Mária r. Čulenová		0	1088,2483,4433,4890
+239	Stachovičová Mária r. Dujsíková	ded. po Rozálii Dujsíkovej r. Čulenovej	0	1088,1256,2483,4433,4890
+239	Stachovičová Mária r. Dujsíková	ded. po Rozálii Dujsíkovej r. Dujsíkovej	0	1089
+239	Stachovičová Mária r. Dujsíková	ded. po Rozálií Dujsíkovej, r. Čulenovej	0	1084,4437,5337
+239	Stachovičová Mária r. Dujsíková	súr. Alžbeta, Rozália, ded. po Rozálii Dujsíkovej r. Čulenovej	0	1095,1113,1164,1667
+239	Stachovičová Mária r. Dujsíková	súr. Rozália, ded. po Rozálii Dujsíkovej r. Čulenovej	0	1338
+239	Stachovičová Mária r. Hojsíková	zomr. 16.12.1939, Brodské s.č.306, m. Ferdinand, deti: Ignác, Alojz, Konštantín, Ferdinan	0	2913
+239	Stachovičová Mária r. Krídlová	m. Štefan	0	1140
+239	Stachovičová Mária r. Pavlíková	zomr. 19.12.1978, m. Jozef, rod. Jozef a Helena r. Pipová, súr. Ján, Ferdinand, Terézia	0	1090,1554,4929,4930
+239	Stachovičová Mária r. Rozborilová	m.Štefan	0	4348
+239	Stachovičová Mária r. Suchovská	ded. po Eve Suchovskej r. Rybárovej	0	1250
+239	Stachovičová Mária r. Suchovská	ded. po Jakubovi Suchovskom	0	1088,2483,4433,4890
+239	Stachovičová Mária r. Štvrtecká		0	2381
+239	Stachovičová Mária r. Štvrtecká	m. Antonín, ded. po Ferdinandovi Štvrteckom	0	1084,4437,5337
+239	Stachovičová Mária r. Štvrtecká	súr. Ladislav, Rozália, Ferdinand, rod. Ferdinand Štvrtecký a Mária r. Čulenová	0	5266
+239	Stachovičová Mária r. Štvrtecká	zom.16.6.1970	0	2351
+239	Stachovičová Mária r. Štvrtecká	zomrela 16.6.1970, m. Antonín	0	5175
+239	Stachovičová Mária r. Valachovičová	m. Anton	0	1090,1145,4932,4933
+239	Stachovičová Mária r. Valachovičová	m. Valachovičová	0	4929,4930
+239	Stachovičová Rozália r. Krídlová	m. Matej, rod. Martin a Alžbeta r. Trubirohová, ded. po Alžbete Krídlovej r. Trubirohovej	0	766,1182,1249,1421
+239	Stachovičová Rozália r. Krídlová	manž. Matej, rod. Martin a Alžbeta rod. Trubirohová, ded. po Alžbete Krídlovej r. Trubiroh	0	1139
+239	Stachovičová Rozália r. Neoveská, Brodské, č. 67, PSČ 908 85, SR	zomr. 7.4.1945, m.Tomáš, súr. Anna, Teofil	0	5406
+239	Stachovičová Rozália r. Neoveská, Brodské, č. 67, PSČ 908 85, SR	zomr.7.4.1945, m.Tomáš, súr. Anna, Teofil	0	4394
+239	Stachovičová Štefánia r. Hnátovičová	zomr. 30.3.2003, m. Ignác, bytom Brodské, Vajanského 47, rod.: Gabriel a Anna r. Jakubcov	0	1554,2836
+239	Stachovičová Terézia	Ján, Júlia, František	0	4078
+239	Stachovičová Terézia	mal. súr. Cecília Turečková, Helena	0	1095
+239	Stachovičová Terézia	súr. Cecília, Helena	0	1089,1116
+239	Stachovičová Terézia r. Horná	súr. Ján, Anton, Helena, Anna	0	1093,4931
+239	Strižová Júlia r. Čulenová		0	1554,3223,3970,4091,5062
+239	Strížová Júlia r. Čulenová	súrod.Anna, Albína, Mária	0	1724
+239	Stupavská Jozefína r. Križánková	m. Ludevít	0	1667
+239	STUPAVSKÁ Jozefína r. Križánková		0	4541
+239	STUPAVSKÁ Rozália r. Petrášová		0	4520
+239	Stupavská Terézia r. Bobotová	súr. Štefan, Mária Balgová, Václav, Emerencia Serdahelyová	0	5754
+239	STUPAVSKÁ Terézia r. Stupavská		0	1134,1138,4958
+239	STUPAVSKÝ Ján	ž.Mária r. Jurigová	0	4543
+239	Stupavský Ludevít	ž. Jozefína r. Križánková	0	1667
+239	STUPAVSKÝ Ľudevít		0	4541
+239	STUPAVSKÝ Michal	ž.Zuzana r. Vragáčová	0	4543
+239	Suchanová Helena r. Valachovičová	m. Ján, súr. Zuzana, Andrej, ded, po Gašparovi Valachovičovi	0	1250
+239	Suchanová Helena r. Valachovičová	m. Ján, súr. Zuzana, Andrej, ded. po Gašparovi Valachovičovi	0	1115
+239	Suchanová Helena r. Valachovičová	manž. Ján, súr. Andrej, Zuzana, ded. po Gašparovi Valachovičovi	0	1090,4929,4930
+239	Suchanová Helena r. Valachovičová	súr. Zuzana, Andrej, ded. po Gašparovi Valachovičovi	0	1255
+239	Suchota Andrej	ž. Mária	0	1095,1256
+239	Suchotová Katarína r. Palkovičová		0	1086,1180,1248,4444,5444
+239	Suchotová Katarína r. Palkovičová	súr. Anna Šimková, Veronika Vallová	0	1095
+239	Suchotová Katarína r. Palkovičová	súr. Anna, Veronika	0	1090,1145,4929,4930,4932,4933
+239	Suchotová Mária	m. Andrej	0	1095,1256
+239	Suchovký Štefan	ded. po Štefanovi Suchovskom, ž. Mária r. Kováčová, súr. Jozef, Anna	0	5331
+239	Suchovská Anna	dedené po Jánovi Suchovskom	0	3138,5122
+239	Suchovská Anna	maloletá, dedené po Helene Suchovskej r.Ondrejkovej	0	5121
+239	SUCHOVSKÁ Anna		0	4968
+239	SUCHOVSKÁ Anna r. Antálková		0	1554
+239	Suchovská Anna r. Kováčová	m. Jozef	0	1141
+239	Suchovská Anna r. Kováčová	m. Jozef, kúpa od Alojza a Augustína Kováčových	0	1095,1115
+239	Suchovská Anna r. Kováčová	m. Jozef, kúpa od Ľudovíta a Augustína Kováča	0	1145,1250,1251,4932,4933
+239	Suchovská Anna r. Kováčová	m. Jozef, kúpa od Ľudovíta a Augustína Kováčových	0	1254
+239	Suchovská Anna r. Kováčová	manž. Jozef, Kúpa od Alojza a Augustína Kováča	0	1090,1255,4929,4930
+239	Suchovská Anna r. Kováčová	manž. Jozef, kúpa od Ladislava a Augustína Kováča	0	1139,1249
+239	Suchovská Anna r. Kováčová	manž. Jozef, kúpa od Ľudovíta a Augustína Kováča	0	1180,5444
+239	SUCHOVSKÁ Anna r. Kováčová		0	2846,5536
+239	Suchovská Anna r. Trubirohová	m. Ján	0	1375
+239	Suchovská Anna r. Trubirohová	m. Michal	0	1372,1374
+239	Suchovská Anna r. Trubirohová	m.Michal	1	1272,3664,3920
+239	Suchovská Anna r. Trubirohová	manž. Michal	0	1076,1211,4438,4905,5354
+239	Suchovská Anna r. Trubirohová	manžel Michal	0	1211,4866
+239	SUCHOVSKÁ Anna r. Vietrová		0	1554
+239	Suchovská Eva r. Puškáčová	m. Alojz	0	1868,2847
+239	SUCHOVSKÁ Eva r. Puškáčová		0	2128
+239	SUCHOVSKÁ Eva r. Puškáčová, SR		0	1554
+239	Suchovská Eva r. Rybárová	manžel Jakub	0	1093,4931
+239	Suchovská Hedviga r. Vlková	zomr. 21.9.1958, manž. Ambróz, bytom Brodské s.č.89, deti: Milada Provodovská	0	1116,1211,1554,1622,2172,2408,2782,2784,3845,4454,5396,5660
+239	Suchovská Helena r. Ondrejková		0	1084,4437,5337
+239	Suchovská Helena r. Šišková		0	1843,2083,2090,2101,3784,4720,5648
+239	Suchovská Leopoldína r. Čulenová		0	1554
+239	Suchovská Leopoldína r. Čulenová	m. Jozef, súr. Helena, Rafael, Anton, Anna, Štefánia, ded. po Štefanovi Čulenovi - ž.Anna	0	3362
+239	Suchovská Leopoldína r. Čulenová	m.Jozef	0	1554
+239	Suchovská Leopoldína r. Čulenová	m.Jozef, súrod.Helena, Rafael, Anton, Anna, Štefánia	0	1158
+239	Suchovská Leopoldína r. Čulenová	manž. Jozef	0	1091
+239	SUCHOVSKÁ Leopoldína r. Čulenová, SR		0	1554
+239	Suchovská Mária	dar od Anny Suchovskej r. Kočiovej	0	1090,4929,4930
+239	Suchovská Mária	dar od Anny Suchovskej r. Kováčovej	0	2364,2365
+239	Suchovská Mária	kúpa od Antonína Čulena, dar od Anny Suchovskej r. Kováčovej, ded. po Alžbete Suchovskej	0	1115
+239	Suchovská Mária	kúpa od Antonína Kováča	0	1090,4929,4930
+239	Suchovská Mária	Kúpa od Antonína Kováča, dar od Anny Suchovskej r. Kováčovej	0	1180,5444
+239	Suchovská Mária	kúpa od Antonína Kováča, dar od Anny Suchovskej r. Kováčovej, ded. po Alžbete Suchovskej	0	1139,1250,1251,1255
+239	Suchovská Mária	kúpa od Antonína Kováča, dar od Anny Suchovskej, ded. po Alžbete Suchovskej	0	1095,1145,1254,4932,4933
+239	Suchovská Mária	súr. Alojz, Alžbeta, ded. po Alojzovi Suchovskom -ž.Eva r. Puškáčová	0	2847
+239	Suchovská Mária	súr. Alojz, ded. po Alžbete Suchovskej	0	1090,1141,1180,1249,4929,4930,5444
+239	Suchovská Mária	súr. Jozef, Alojz, Alžbeta, kúpa od Antonína Kováča, dar od Anny Suchovskej	0	1249
+239	SUCHOVSKÁ Mária		0	569,1106,1141,2779,2846,3592,3593,3594,4885,5329,5330,5331,5536,5806
+239	Suchovská Mária r. Antálková	ded po Eduardovi Antálkovi	0	1073
+239	Suchovská Mária r. Antálková	ded. po Eduardovi Antálkovi	0	1070
+239	Suchovská Mária r. Antálková	súr. Bohumil, ded. po Eduardovi Antálkovi - ž. Anna r. Štvrtecká	0	1489,1490
+239	Suchovská Mária r. Antálková	súr.Bohumil, ded. po Eduardovi Antálkovi - ž. Anna r. Štvrtecká	0	1488,5403
+239	Suchovská Mária r. Antálková	súrod.Bohumil	0	1069,3493
+239	SUCHOVSKÁ Mária r. Antálková		0	1492,2687,4990
+239	Suchovská Štefánia		0	1087,4434,4935,5822
+239	Suchovská Štefánia	maloletá	0	1435
+239	Suchovský Alojs		0	4836
+239	Suchovský Alojz		0	569,1106,2779,3592,3593,3594,4885,5329,5330,5331,5806
+239	Suchovský Alojz	dar od Anny Suchovskej r. Kováčovej	0	2364,2365
+239	Suchovský Alojz	kúpa od Antonína Čulena	0	1115
+239	Suchovský Alojz	kúpa od Antonína Kováča, dar od Anny Suchovskej r. Kováčovej	0	1180,5444
+239	Suchovský Alojz	manž.Anna r.Kováčová, ded. po Anne Suchovskej r. Kováčovej	0	108
+239	Suchovský Alojz	súr. Mária, ded. po Alžbete Suchovskej	0	1095
+239	Suchovský Ambróz	súr. Hedviga, ded. po Pavlovi Juráčkovi	0	1090,4929,4930
+239	SUCHOVSKÝ Ambróz		0	1369
+239	Suchovský Anton	ž. Anna r. Vietrová, ded. po Márii Suchovskej	0	2559
+239	Suchovský Anton	ž. Irena r. Sabová, ded. po Michalovi Suchovskom - ž. Anna r.Trubirohová	0	1376
+239	Suchovský Anton	ž. Irena r. Sabová, ded. po Michalovi Suchovskom -ž. Anna r. Trubirohová	0	1375
+239	Suchovský Anton	ž. Irena r. Sabová, dedené po Michalovi Suchovskom	0	1374
+239	Suchovský Anton	ž. Irena r.Sabová, dedené po Michalovi Suchovskom	0	1372
+239	Suchovský Anton	ž. Irena Sabová, ded. po Michalovi Suchovskom	0	1211
+239	Suchovský Anton	ž.Anna r.Vietrová	0	4251
+239	Suchovský Anton	ž.Irena r.Sabová	1	1554,3664,3920
+239	SUCHOVSKÝ Anton		0	1451
+239	Suchovský Jakub		0	4968
+239	Suchovský Jakub	ded. po Jakubovi Suchovskom	0	1088,2483,4433,4890
+239	Suchovský Jakub	dedené po Helene Suchovskej r.Ondrejkovej	0	5121
+239	Suchovský Jakub	dedené po Jánovi Suchovskom	0	3138,5122
+239	Suchovský Jakub	ž. Mária r. Antálková, ded. po Eve Suchovskej r. Rybárovej	0	1251
+239	Suchovský Jakub	ž.Eva r.Rybárová	0	330
+239	Suchovský Ján		0	4968
+239	Suchovský Ján	dedené po Jánovi Suchovskom	0	3138,5122
+239	Suchovský Jozef		0	2779,4836,5330
+239	Suchovský Jozef	ded. po Štefanovi Suchovskom, súr. Štefan, Anna	0	4885
+239	Suchovský Jozef	ded. po Štefanovi Suchovskom, ž. Mária r. Kováčová, súr. Štefan, Anna	0	569,5329,5330,5331
+239	Suchovský Jozef	manž. Leopoldína r. Čulenová	0	569
+239	Suchovský Jozef	ž. Leopoldína Čulenová, súr. Mária, Alojz, Alžbeta, kúpa od Antonína Kováča	0	1249
+239	Suchovský Jozef	ž. Leopoldína r. Čulenová	0	4885,5329,5330,5331
+239	Suchovský Jozef	ž. Leopoldína r. Čulenová, dar od Anny Suchovskej r. Kováčovej	0	2364,2365
+239	Suchovský Lenhard		0	4968
+239	Suchovský Lenhard	dedené po Helene Suchovskej r.Ondrejkovej	0	5121
+239	Suchovský Lenhard	dedené po Jánovi Suchovskom	0	3138,5122
+239	Suchovský Michal	dedené po Jánovi Suchovskom	0	3138,5122
+239	Suchovský Michal	ž. Anna r. Trubirohová	0	1273,1274
+239	SUCHOVSKÝ Michal		0	1076,1212,1554,3346,3413,4438,4905,4968,5116,5354
+239	Suchovský Pavol		0	1083,4436
+239	Suchovský Rudolf	dedené po Jánovi Suchovskom	0	3138,5122
+239	Suchovský Rudolf	maloletý, dedené po Helene Suchovskej r.Ondrejkovej	0	5121
+239	SUCHOVSKÝ Rudolf		0	4968
+239	Suchovský Štefan		0	2779,4836
+239	Suchovský Štefan	ded. po Štefanovi Suchovskom, súr. Jozef, Anna	0	4885
+239	Suchovský Štefan	ded. po Štefanovi Suchovskom, ž. Mária r. Kováčová, súr. Jozef, Anna	0	569,5329,5330
+239	Svrček Martin		0	1139,1249
+239	Szabo Ján	ž.Mária Hanerová	0	1373
+239	Šebesta Ján		0	2689
+239	Šebesta Ján	ded. po Jánovi Petrášovi	0	1089
+239	Šebesta Michal		0	2689
+239	Šebesta Michal	ded. po Jánovi Petrášovi	0	1089
+239	Šedivá Albína r. Lániková		0	4823
+239	Šedivý Augustín		0	1113
+239	Šedivý Benedikt	maloletý	0	4823
+239	Šedivý Damián		0	1113
+239	Šedivý František		0	1113,4823
+239	Šedivý Ján		0	1113
+239	Šedivý Martin	ž. Mária r. Mrázová, kúpa od Evy Vizváryovej a Kataríny Sekerkovej	0	1113
+239	Šefčovič Ján	ded. po Estere Šefčovičovej	0	3019
+239	Šefčovič Ján	súr. Žofia, Teofil, Ferdinand	0	1554
+239	Šefčovič Ján	súrod.Žofia, Teofil, Ferdinand	0	3413
+239	Šefčovič Michal		0	1116
+239	ŠEFČOVIČ Teofil		0	1554
+239	Šefčovičová Anna	ded.po Ferdinandovi Šefčovičovi, ž. Žofia r. Hladíková	0	3019
+239	Šefčovičová Anna	súrod.Mária	0	3548
+239	ŠEFČOVIČOVÁ Anna		0	186,338,1554
+239	ŠEFČOVIČOVÁ Ester r. Hesková		0	4492
+239	Šefčovičová Mária r. Hačundová	súr. Jozef, Šimon, Teofil, Anna, Helena, Štefan, ded. po Jozefovi Hačundovi	0	1090,4929,4930
+239	Šefčovičová Mária r. Valachovičová	dedené po Valachovičovej Ludmile r.Heskovej	0	3547
+239	Šefčovičová Mária r. Valachovičová	súr. Helena, Ignác, Anna	0	4492
+239	Šefčovičová Mária r. Valachovičová	súr. Ignác, Anna, Štefan, Hedvika, Helena	0	1554
+239	Šefčovičová Mária r. Valachovičová	súrod.Ignác,Anna,Štefan,Hedvika,Helena	0	3548,3549

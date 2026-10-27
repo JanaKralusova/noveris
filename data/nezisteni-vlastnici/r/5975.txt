@@ -1,0 +1,256 @@
+3370	Babejová Anna		1	390
+3370	BALASCAK HRICKO JAN		0	454
+3370	BALAŠČAK Andrej		1	292,367,402,459,490,523,579,620,634,635,636
+3370	BALAŠČAK Daniel		1	285
+3370	BALAŠČAK Ján		1	292,301,305,356,369,370,371,404,405,406,411,419,424,442,450,459,484,485,486,490,523,552,553,554,581,582,618,632,634,635,636,637,638,639,640,642,643,647,651,658
+3370	BALAŠČAK Ján, Praha, Slovensko		1	369,370,371,406,419,422,459,484,485,486,490,552,553,554,581,582,632,637,638,639,640,642,643,647
+3370	BALAŠČAK Juraj		1	406,432
+3370	BALAŠČAK Lukač		0	459,490
+3370	BALAŠČAK Michal		1	292,403,459,490,523,634,635,636
+3370	BALAŠČAK Mikuláš		1	305
+3370	BALAŠČAK Nečitateľné		1	292,523,634,635,636
+3370	BALAŠČÁK Peter		1	369,370,371,419,484,485,486,552,553,554,581,582,632,637,638,639,640,642,643,647
+3370	BALAŠČAK Vasiľ		1	385
+3370	BALAŠČÁKOVÁ Anna		1	369,370,371,402,405,419,484,485,486,552,553,554,581,582,632,637,638,639,640,642,643,647
+3370	BALAŠČÁKOVÁ Mária		1	369,370,371,402,404,419,484,485,486,552,553,554,581,582,632,637,638,639,640,642,643,647
+3370	BALAŠČAKOVÁ Mária r. Balaščaková		1	356,369,370,371,405,419,442,484,485,486,552,553,554,581,582,618,632,637,638,639,640,642,643,647
+3370	BALAŠČAKOVÁ Mária r. Kohutová		1	298
+3370	BALAŠČAKOVÁ Zuzana r. Demjaničová		1	302,369,370,371,375,419,484,485,486,552,553,554,581,582,632,637,638,639,640,642,643,647
+3370	BUSOVNÁ Mária		1	388
+3370	Čsl. štát		0	459,490
+3370	Čsl.štát-ONV BARDEJOV		0	459,490
+3370	Čsl.štát-ONV BRDEJOV		0	459,490
+3370	DEMJANIČ Peter		1	369,370,371,419,431,433,484,485,486,552,553,554,581,582,632,637,638,639,640,642,643,647
+3370	DEMJANIČOVÁ Anna r. Fellegiová		1	484,553
+3370	DEMJANIČOVÁ Anna r. Fellegiová, č. 21, Slovensko		1	280,369,370,371,406,419,431,484,485,486,520,537,551,552,553,554,581,582,632,637,638,639,640,642,643,647
+3370	DEMJANOVIČ Jiko		1	390
+3370	DEMJANOVIČ Peter		1	390
+3370	DRAČOVÁ Mária r. Slosarčiková		1	434
+3370	DUFEROVÁ Mária r. Juročková		1	381
+3370	FELLEGI Ján		1	304,541,611
+3370	FELLEGIOVÁ Mária, Nižný Tvarožec, Slovensko		1	369,370,371,406,419,484,485,486,552,553,554,581,582,632,637,638,639,640,642,643,647
+3370	GREŠOVÁ Anna		0	339,453,496
+3370	GREŠOVÁ PARASKA r. Sokolová		1	305
+3370	GREŠŠOVÁ Anna r. Teniková		1	369,370,371,419,484,485,486,552,553,554,581,582,632,637,638,639,640,642,643,647
+3370	HOPKO Ján		1	369,370,371,405,407,419,459,484,485,486,490,552,553,554,581,582,632,637,638,639,640,642,643,647
+3370	HOPKO Jozef		1	313,314,328,459,490
+3370	HOPKO Štefan		1	369,370,371,484,485,486,553,554,581,632,637,642
+3370	Hopková Mária		1	395
+3370	HOPKOVÁ Teodozia		1	425
+3370	HUNAKOVÁ Anna r. Nusová, Medveďov, č. 122, Slovensko		0	395
+3370	JUROČKO Ján		1	369,370,371,388,406,419,484,485,486,552,553,554,581,582,632,637,638,639,640,642,643,647
+3370	JUROČKO Jozef		1	381
+3370	JUROČKO Juraj		1	319,381,459,490,494,495,544
+3370	JUROČKO Michal		1	450
+3370	JUROČKO Silvester		1	381
+3370	JUROČKOVÁ Anastázia		1	388
+3370	KOHUTOVÁ Mária		1	317,459,490
+3370	KORPONAIOVÁ Anna		1	369,370,371,419,484,485,486,552,553,554,581,582,632,637,638,639,640,642,643,647
+3370	LAZOROVÁ Zuzana r. Balaščaková		1	292,367,459,490,523,579,620,634,635,636
+3370	MIRDALA Ján		1	453,496
+3370	MIRDALA Jozef		1	281
+3370	MIRDALA Vasiľ		1	281
+3370	MIRDALOVÁ Anna		1	281
+3370	NUŠŠ Vasiľ		1	355,595,602
+3370	RIBÁR Ján		0	459,490
+3370	ROTHMANN Linka r. Schwartz		1	281,325,378,401,459,490,545
+3370	RYBAR Ján		0	314,328,459,490
+3370	RYBAR Juraj		1	314,328,459,490
+3370	RYBAROVÁ Anna		1	314,328,459,490
+3370	RYBAROVÁ Mária		1	314,328,459,490
+3370	RYBAROVÁ Mária r. Fellegiová, KACVINSKÁ 10, BARDEJOV, Slovensko		0	459,490
+3370	RYBAROVÁ Zuzana r. Andrejčaková		1	376,395
+3370	Sokol Andrej		1	369,370,371,406,419,484,485,486,552,553,554,581,582,632,637,638,639,640,642,643,647
+3370	SOKOL Ján		1	369,370,371,406,419,484,485,486,552,553,554,581,582,632,637,638,639,640,642,643,647
+3370	SOKOL Jozef		1	362,369,370,371,405,410,412,419,429,435,451,484,485,486,552,553,554,581,582,583,601,632,637,638,639,640,642,643,647
+3370	SOKOL Juraj		1	410
+3370	SOKOL Michal		1	289,339,375,410,453,459,490,496,531,661
+3370	SOKOL Mikuláš		1	313,362,405,423,429,435,451,459,490,583,601
+3370	SOKOL Štefan		0	312,455,459,490
+3370	SOKOL Vasiľ		1	339,375,410,453,496
+3370	SOKOLOVÁ Anna		1	313,317,405,459,490
+3370	Sokolová Mária		1	317,339,375,453,459,490,496
+3370	SOKOLOVÁ Paraska r. Pidaná		1	289,459,490,531,661
+3370	SOROKA Ján		1	329,369,370,371,419,459,484,485,486,490,552,553,554,581,582,632,637,638,639,640,642,643,647
+3370	SOROKA Ján, Nižný Tvarožec, Slovensko		1	343,500,598,619
+3370	SOROKA Michal		1	450,459,490
+3370	SOROKOVÁ Zuzana r. Balaščaková		1	356,442,618
+3370	SUDIMAK Andrej		1	406
+3370	SUDIMAK Havrila		1	321,363,436,459,490,585
+3370	SUDIMAK Ján		1	290,321,363,369,370,371,419,428,436,459,484,485,486,490,521,552,553,554,581,582,585,632,637,638,639,640,642,643,647
+3370	SUDIMAK Juraj		1	436
+3370	SUDIMAK Peter		1	290,321,363,369,370,371,419,428,436,459,484,485,486,490,521,552,553,554,581,582,585,632,637,638,639,640,642,643,647
+3370	SUDIMAK Vasiľ		1	290,321,363,369,370,371,419,428,436,459,484,485,486,490,521,552,553,554,581,582,585,632,637,638,639,640,642,643,647
+3370	SUDIMÁKOVÁ Anna		1	369,370,371,419,484,485,486,552,553,554,581,582,632,637,638,639,640,642,643,647
+3370	SUDIMAKOVÁ Teodézia		0	459,490
+3370	VANIKOVÁ Mária		1	390
+3370	WEISZ Tibor		0	459,490
+3370	ZAPACH Michal		1	387
+3370	ZAPACH Peter		1	319,388,459,490,494,495,544
+3370	ZAPACHOVÁ Mária r. Sabolová		0	459,490
+3370	ZAPACHOVÁ Mária r. Sokolová		1	291,410,522
+3370	ZIMEKOVÁ Jolana r. Sudimáková, Prostejovská 89, PREŠOV, Slovensko		0	459,490
+3370	ZIMMERMAN Abrahám		1	335
+3370	ZIMMERMAN Berta		1	335
+3370	ZIMMERMAN Eliáš		1	335
+3370	ZIMMERMAN Chaskel		1	335
+3370	ZIMMERMAN Katalin		1	335
+3370	ZIMMERMANN Lea		1	369,370,371,406,419,484,485,486,552,553,554,581,582,632,637,638,639,640,642,643,647
+3370	ZIMMERMANN Wolf		1	369,370,371,406,419,484,485,486,552,553,554,581,582,632,637,638,639,640,642,643,647
+3371	Balkanyová Gizela		0	1139
+3371	Balog Andrej r. Balog	po Andrejovi Balogovi	0	1074,1075
+3371	Balog Ján r. Balog	po Andrejovi Balogovi	0	1074,1075
+3371	Balog Jozef r. Balog	po Andrejovi Balogovi	0	1074,1075
+3371	Balog Juraj r. Balog		0	1140
+3371	Balog Michal r. Balog	po Andrejovi Balogovi	0	1074,1075
+3371	Balog Štefan r. Balog	po Andrejovi Balogovi	0	1074,1075
+3371	Balon Ján r. Balon	manž.Helena r.Tabaková	0	1074,1075
+3371	BALONOVÁ Helena r. Tabaková		0	1074,1075
+3371	Bandeová Irena r. Kučová		0	582
+3371	Baníková Helena r. Siváková	manž.Ján	0	582
+3371	Baraniková Anna r. Tokárová		0	1140
+3371	Bartko Juraj r. Bartko	manž.Anna r.Miklošová, zomr	0	1140
+3371	Bartko Michal r. Bartko		0	1146
+3371	Benčo Andrej r. Benčo		0	952
+3371	Benčo Ján r. Benčo		0	89,582,828,829
+3371	Benčo Jozef r. Benčo	malol	0	89,257,582,686,790,828,829,1106,1222
+3371	Benčo Michal r. Benčo	malol	0	244,245
+3371	Benčo Pavol r. Benčo	manž.Mária r.Sotáková	0	89,582,686,790,828,829,952,1106,1222
+3371	Benčová Helena	malol	0	89,257,582,686,790,828,829,1106,1222
+3371	Bezeg Ján r. Bezeg		0	1140
+3371	Bezeg Michal r. Bezeg		0	1140
+3371	Bornstein Dávid r. Bornstein		0	1146
+3371	Brennerová Hermína r. Gutlfreundová		0	1140
+3371	Brus Juraj r. Brus	manž.Mária r.Ritochová	0	89,686,790,1106,1222
+3371	Bývalý urbariát obce Michalok		0	1168
+3371	Centková Katarína r. Kučová		0	582
+3371	Cipal Ján r. Cipal		0	686,790,1106,1222
+3371	Cipal Jozef r. Cipal		0	686,790,1106,1222
+3371	Cipal Juraj r. Cipal		0	686,790,1106,1222
+3371	Cipal Michal r. Cipal		0	686,790,1106,1222
+3371	Čeremšáková Anna r. Tokárová		0	1146
+3371	Červenák Ján r. Červenák		0	89
+3371	Červeňáková Alžbeta		0	89,284,582,742,941,942,943,944,945
+3371	Červeňáková Anna r. Handzová	ZZ 1/64	0	89
+3371	Čorej Michal r. Čorej		0	1124
+3371	Čupilová Mária r. Danková		0	172
+3371	Danková Alžbeta		0	172
+3371	Danková Terézia		0	172
+3371	Demčák Andrej r. Demčák		0	89,686,790,1106,1116,1222
+3371	Demková Alžbeta r. Hudák - Palková		0	686,790,1106,1222
+3371	Dzivák Ján r. Dzivák	manž.Mária r.Gajdošová	0	1140
+3371	Dzivák Jozef r. Dzivák		0	1140
+3371	Dzivák Michal r. Dzivák		0	1140
+3371	Dzivaková Mária r. Kučová		0	89,686,790,1106,1222
+3371	Dzurenda Andrej r. Dzurenda		0	89,113,686,790,1106,1222
+3371	Dzurendová Anna r. Oráčová		0	89,113,686,790,1106,1222
+3371	Džuková Anna r. Onderová	USA	0	1074,1075
+3371	Fečáková Anna r. Medvecová		0	89,582
+3371	Fečová Anna r. Tomková		0	1140
+3371	Fedor - Petrík Ján r. Fedor - Petrík	manž.Anna r.Varčová	0	1074,1075
+3371	Fedor Ján r. Fedor	manž.Mária r.Kalafová	0	1140
+3371	Fedor Michal r. Fedor		0	1140
+3371	Fedorová - Petríková Anna r. Fasuľková		0	1074,1075
+3371	Fedorová Mária		0	1140
+3371	Fenirová Mária r. Kopčová	manž.Ján	0	89,686,790,1106,1222
+3371	Frajterová Alžbeta r. Hermanová		0	667,745,746,1200
+3371	Freiberger Izsák r. Freiberger		0	1146
+3371	Freibergová Zála r. Lebovičová		0	1146
+3371	Gajdošová Anna r. Bezegová		0	1140
+3371	Gajdošová Júlia	dcéra Michalova	0	1074,1075
+3371	Gajdošová Mária r. Šufinková		0	582
+3371	Gajdošová Mária r. Tokárová		0	1146
+3371	Garbiš Jozef r. Garbiš	USA	0	1074,1075
+3371	GARBIŠOVÁ Anna r. Lupčová		0	1074,1075
+3371	GARBIŠOVÁ Helena		0	1074,1075
+3371	GARBIŠOVÁ Júlia r. Lupčová		0	1074,1075
+3371	Germuška Jozef r. Germuška		0	1140
+3371	Gidová Mária r. Zubková		0	1140
+3371	Gordanová Mária r. Haľková		0	67
+3371	Grósz Jakub r. Grósz	manž.Mária	0	89,113,119,125,364,582,686,714,756,767,790,889,1106,1121,1212,1213,1222,1225
+3371	Grószová Mária		0	125,756,767,1212,1213,1225
+3371	Guľaša Ján r. Guľaša	vzdial	0	582,668,745,746,1200
+3371	Guľašová Anna	vzdial	0	582,668,745,746,1200
+3371	Guttfrend Jozef r. Guttfrend	manž.Betty r.Bergerová	0	1146
+3371	Guttfrendová Betty r. Bergerová		0	1146
+3371	Guttfreund Móric r. Guttfreund	obchodník v Bratislave	0	89,125,686,756,767,790,1106,1212,1213,1222,1225
+3371	Guttfreundová Helena		0	42,402,582,711,737
+3371	Hajníková Anna r. Pavlenková		0	89,582,686,705,790,1106,1222
+3371	Haľko Juraj r. Haľko	malol	0	67
+3371	Haľko Michal r. Haľko		0	67
+3371	Harcula Michal r. Harcula		0	1166
+3371	Hašková Anna r. Kučová		0	582
+3371	Herman Michal r. Herman	manž.Mária r.Polyáková	0	708
+3371	Hermanová Mária r. Gurdaková	manž.Ján	0	89,686,790,1106,1222
+3371	Hudák Michal r. Hudák		0	89
+3371	Hudák Michal r. Hudák	manž.Anna r.Kazimirová	0	582
+3371	Hudák Pavol r. Hudák	Ján	0	475
+3371	Hudáková Alžbeta		0	582
+3371	Hudaková Anna r. Kazimirová	manž.Michal	0	582
+3371	Humenik Ján r. Humenik		0	89,686,790,1106,1222
+3371	Ihnát Ján r. Ihnát		0	1140
+3371	Ihnát Juraj r. Ihnát	manž.Anna r.Višňovská	0	1140
+3371	Ihnát Michal r. Ihnát		0	1140
+3371	Ihnátová Anna r. Višňovská		0	1140
+3371	Ihnátová Mária		0	1140
+3371	Iván Michal r. Iván	manž.Mária r.Jakimová	0	1140
+3371	Ivančák Ján r. Ivančák	malol.v roku 1924	0	582
+3371	Ivanič Jozef r. Ivanič		0	1140
+3371	Ivanič Pavol r. Ivanič	manž.Mária r.Onderová	0	1140
+3371	Ivanová Mária r. Jakimová		0	1140
+3371	Jakubčin Ján r. Jakubčin	manž.Anna r.Žipajová Pavlenková	0	315,582,970,971,972,1238,1239
+3371	Jakubčinová Anna r. Hudáková		0	582
+3371	Jenča Michal r. Jenča	manž.Mária r.Oráčová	0	1074,1075
+3371	JENČOVÁ Anna r. Hajniková		0	1074,1075
+3371	Kachman Jozef r. Kachman	ZZ 6/98	0	113
+3371	Kachman Juraj r. Kachman		0	113,857,858
+3371	Kalafa Ján r. Kalafa	manž.Mária r.Gajdošová	0	1074,1075
+3371	Kažimír Ján r. Kažimír	manž.Anna r.Demčáková	0	1074,1075
+3371	Keller Ján r. Keller	syn Jozefa	0	1074,1075
+3371	Keller Juraj r. Keller	manž.Mária r.Michalovičová	0	1074,1075
+3371	Keller Štefan r. Keller	syn Jozefa	0	1074,1075
+3371	Kettmanová Mária r. Kučová		0	582
+3371	Kľučárová Anna	malol	0	953
+3371	KMECOVÁ Anna r. Jenčová		0	1074,1075
+3371	Kocáková Mária r. Benčová		0	89,257,582,686,790,828,829,1106,1222
+3371	Kochan Michal r. Kochan		0	1140
+3371	Kolesárová Anna r. Kachmanová		0	686,790,1106,1222
+3371	Kopčo Ján r. Kopčo		0	89
+3371	Kopčo Juraj r. Kopčo		0	89
+3371	Košar Jozef r. Košar	manž.Helena r.Tabaková	0	1074,1075
+3371	Kotuľák Ján r. Kotuľák		0	805
+3371	Kotuľáková Mária r. Sedláková		0	157
+3371	Kuča Jozef r. Kuča		0	582
+3371	Kuča Michal r. Kuča		0	1128
+3371	Limbergerová Anna r. Kučová	vd	0	89,686,790,1106,1222
+3371	Macková - Parasková Anna r. Ihnátová		0	1140
+3371	Mačala Ján r. Mačala	manž.Mária r.Czmarová	0	1140,1146
+3371	Mačala Michal r. Mačala		0	1146
+3371	Mačalová Anna		0	1140,1146
+3371	Mačalová Mária		0	1140,1146
+3371	Mačalová Mária r. Czmarová		0	1146
+3371	Mačalová Zuzana r. Balogová		0	1146
+3371	Maťašovská Terézia r. Hricová		0	119,707
+3371	Maťašovský Ján r. Maťašovský		0	667,669
+3371	Maťašovský Michal r. Maťašovský	manž.Mária r.Tokárová	0	1140
+3371	Matta Andrej r. Matta	manž.Anna r.Žipaj - Sabolová	0	113,339,404,469,1137
+3371	Matta Andrej r. Matta	manž.Zuzana r.Horenská	0	89,686,790,1106,1222
+3371	Matta Juraj r. Matta		0	89,339,404,469,686,790,1106,1222
+3371	Matta Michal r. Matta		0	89,113
+3371	Mattová Anna r. Červeňáková		0	89
+3371	Mattová Anna r. Žipaj - Sabolová		0	89,125,210,479,582,686,744,756,767,790,891,1106,1212,1213,1222,1225
+3371	Mattová Mária r. Cipalová		0	89,113
+3371	Mattová Zuzana r. Horenská	manž.Andrej	0	89,686,790,1106,1222
+3371	Medvec Anton r. Medvec	malol.v roku 1948	0	89,686,790,1106,1222
+3371	Medvec Ján r. Medvec	mal	0	381,959
+3371	Medvec Ján r. Medvec	malol. v roku 1948	0	89,686,790,1106,1222
+3371	Medvec Jozef r. Medvec	USA	0	89,582,686,790,1106,1115,1222
+3371	Medvec Štefan r. Medvec	malol.v roku 1948	0	89,686,790,1106,1222
+3371	Medvecová Alžbeta		0	1140
+3371	Medvecová Ilona		0	1140
+3371	Medvecová Jolana	malol.v roku 1948	0	89,686,790,1106,1222
+3371	Medvecová Mária	malol. v roku 1948	0	89,686,790,1106,1222
+3371	Mihališinová Elza r. Kotuľáková		0	315,582,970,971,972,1238,1239
+3371	Mikloš Juraj r. Mikloš	manž.Júlia r.Raničová	0	1074,1075
+3371	Mikloš Michal r. Mikloš		0	1140
+3371	Mitaľ Ján r. Mitaľ		0	582

@@ -1,0 +1,256 @@
+584	Viczénová Agneša r. Kovácsová	vd., tuszko	0	1059,1148,1149,1150,1152,1153,1154
+584	Viczénová Alžbeta r. Bajúszová		0	511
+584	Viczénová Alžbeta r. Bajúszová	manž. Gašpar	0	1147,1148,1149,1150,1152,1153,1154
+584	Viczénová Alžbeta r. Duszová		0	511,1158
+584	Viczénová Alžbeta r. Duszová	manž. Gabriel	0	757,1148,1149,1150,1152,1153,1154,1158
+584	Viczénová Alžbeta r. Gašparová		0	511,1148,1149,1150,1152,1153,1154
+584	Viczénová Alžbeta r. Juhászová	vd. tuszko	0	511
+584	Viczénová Alžbeta r. Juhászová	vd., tuszko	0	981,1148,1149,1150,1152,1153,1154
+584	Viczénová Anna		0	511
+584	Viczénová Anna r. Viczénová		0	1147,1148,1149,1150,1152,1153,1154
+584	Viczénová Barbora	muž Mikita	0	511
+584	Viczénová Barbora r. Viczénová	manž. Mikita	0	1148,1149,1150,1152,1153,1154
+584	Viczénová Júlia r. Duszová		1	233,511,705,706,727
+584	Viczénová Juliana r. Brázová		0	1158
+584	Viczénová Juliana r. Duszová		0	1071,1148,1149,1150,1152,1153,1154,1158
+584	Viczénová Juliana r. Duszová	penta	0	924
+584	Viczénová Juliana r. Kovácsová	csuri	0	1079
+584	Viczénová Juliana r. Viczénová	mal	0	770
+584	Viczénová Magdaléna r. Sztraková		0	1155,1158
+584	Viczénová Margita r. Duszová		0	1155,1158
+584	Viczénová Margita r. Viczénová	mal	0	1003
+584	Viczénová Mária r. Brázová	manž. Jozef	0	787
+584	Viczénová Mária r. Duszová		0	1117,1158
+584	Viczénová Mária r. Gallová		0	1155
+584	Viczénová Mária r. Viczénová	dorcza	0	511,1148,1149,1150,1152,1153,1154
+584	Viczénová Terézia r. Tamásová		0	1147
+584	Viczénová Zuzana		0	511
+584	Viczénová Zuzana r. Viczénová		0	1148,1149,1150,1152,1153,1154
+584	Vincze Demeter r. Vincze	Ján	0	893
+584	Voltér Bartolomej r. Voltér		0	1127
+584	Voltér Ján r. Voltér		0	903
+584	Voltér Ondrej r. Voltér		0	951
+584	Voltér Štefan r. Voltér		0	880
+584	Zakar Štefan r. Zakar		0	1158
+584	Želiarska spoločnosť obce Držkovce		0	511
+584	Želiarská spoločnosť obce Držkovce	Zaniknutá právnicka osoba bez právneho nástupcu	0	1148,1149,1150,1152,1153,1154
+585	Andrášik Jozef	nebohý	0	206,207,208,212,213,214,215,216,219,229,230,231,257,259
+585	Andrášiková Anna	nebohá,r.Kántorová,m.Ondrej , odsťahovaná z Ďubákova; nebohá,r.Kántorová,m.Ondrej	0	206
+585	Andrášiková Anna	nebohá,r.Kántorová,m.Ondrej, odsťahovaná z Ďubákova	0	207,208,212,213,214,215,216,219,229,230,231,257,259
+585	Badinková Mária, Kolónia, Hnúšťa, PSČ 981 01, SR	Likier, r.Škrabáková,nar.1.12.1939	0	230
+585	Blahuta Gašpar	nebohý	0	206,207,208,212,213,214,215,216,219,229,230,231,257,259
+585	Blahuta Ján	nebohý	0	206,207,208,212,213,214,215,216,219,229,230,231,257,259
+585	Blahuta Ján	nebohý,ž.Gizela r.Krahulecová,z.17.4.69, naposledy -Ďubákovo č.17	0	206
+585	Blahuta Ján	nebohý,ž.Gizela r.Krahulecová,z.17.4.69, naposledy- Ďubákovo č. 17	0	207
+585	Blahuta Ján	nebohý,ž.Gizela r.Krahulecová,z.17.4.69, naposledy-Ďubákovo č.17	0	208,209,212,213,214,215,216,219,229,230,231,257,259
+585	Blahuta Jozef	nebohý	0	206,207,208,212,213,214,215,216,219,229,230,231,257,259
+585	Blahuta Jozef	nebohý,slob	0	206,207,208,212,213,214,215,216,219,229,230,231,257,259
+585	Blahuta Pavel	nebohý,slob	0	206,207,208,212,213,214,215,216,219,229,230,231,257,259
+585	Blahutová Anna	nebohá, slob., naposledy- Ďubákovo	0	209
+585	Blahutová Anna	nebohá,r.Škrabáková,m.Jozef	0	206,207,208,212,213,214,215,216,219,229,230,231,257,259
+585	Blahutová Gizela	nebohá,Krahulecová,m.Ján,nar.11.11.1893	0	206
+585	Blahutová Gizela	nebohá,Krahulecová,m.Ján,nar.11.11.1893, naposledy- Ďubákovo č.17	0	207,208
+585	Blahutová Gizela	nebohá,Krahulecová,m.Ján,nar.11.11.1893, naposledy-Ďubákovo č.17	0	212,213,214,215,216,219,229,231,257,259
+585	Blahutová Gizela	nebohá,rod.Krahulecová,m.Ján,nar.11.11.1893, naposledy-Ďubákovo č.17	0	230
+585	Blahutová Juliana	nebohá	0	206,207,208,212,213,214,215,216,219,229,230,231,257,259
+585	Blahutová Katarína	nebohá,slob	0	206,207,208,212,213,214,215,216,219,229,230,231,257,259
+585	Blahutová Katarína	nebohá,slob. naposledy - Ďubákovo	0	207
+585	Blahutová Katarína	nebohá,slob., naposledy- Ďubákovo	0	208,209
+585	Blahutová Katarína	nebohá,slob., naposledy-Ďubákovo	0	212,213,214,215,216,219,229,230,231,257,259
+585	Blahutová Rozália	nebohá,slob	0	206,207,208,212,213,214,215,216,219,229,230,231,257,259
+585	Cuper Ján	nebohý,ž.Julianna r.Bobeková	0	206,207,208,212,213,214,215,216,219,229,230,231,257,259
+585	Cuper Jozef	nebohý,zom.5.12.1954,ž.Júlia r.Dibaľová	0	206,207,208,212,213,214,215,216,219,229,230,231,257,259
+585	Cuperová Júlia	nebohá,r.Dibalová,manž.Jozef	0	206,207,208,212,213,214,215,216,219,229,230,231,257,259
+585	Donovalová Mária, 976 02, Staré Hory, SR	r.Kántorová	0	206,207,208,212,213,214,215,216
+585	Donovalová Mária, Staré Hory, SR	r.Kántorová	0	219,229,230,231
+585	Fačka Pavel	nebohý,ž.Božena r.Malčeková,zom.9.6.1989, naposledy- Ďubákovo č.34	0	206,207,208,212,213,214,215,216,219,229,230,231
+585	Fidrichová Mária	nebohá,r.Kováčiková,bezdetná	0	206,207,208,212,213,214,215,216,219,229,230,231,257,259
+585	Galdík Pavel	nebohý,ž.Anna r.Laššáková, odsťahovaný	0	207,208,212,213,214,215,216,219,229,230,231,257,259
+585	Galdík Pavel	odsťahovaný| nebohý,ž.Anna r.Laššáková	0	206
+585	Galdíková Anna	nebohá,r.Laššáková	0	206,207,208,209,212,213,214,215,216,219,229,230,231,257,259
+585	Hrončeková Terézia	nebohá,r.Kántorová,manž.Martin	0	206,207,208,209,212,213,214,215,216,219,229,230,231,257,259
+585	Ivor Ján	nebohý,ž.Mária Kuráková	0	209
+585	Ivor Ján	odsťahovaný do Kanady	0	206,207,208,212,213,214,215,216,219,229,230,231,257,259
+585	Ivor Jozef	odsťahovaný do Kanady	0	206,207,208,212,213,214,215,216,219,229,230,231,257,259
+585	Ivor Ondrej	nebohý,hluchonemý,slobodný	0	206,207,208,212,213,214,215,216,219,229,230,231,257,259
+585	Ivorová Emília	nebohá	0	206,207,208,212,213,214,215,216,219,229,230,231,257,259
+585	Ivorová Mária	Ivorová je rodné meno , odsťahovaná do Kanady; Ivorová je rodné meno	0	206
+585	Ivorová Mária	Ivorová je rodné meno odsťahovaná do Kanady; Ivorová je rodné meno	0	207
+585	Ivorová Mária	Ivorová je rodné meno, odsťahovaná do Kanady	0	208,212,213,214,215,216,219,229,230,231,257,259
+585	Jackuliak Ján	nebohý,ž.Mária r.Vantrubová	0	206,207,208,212,213,214,215,216,219,229,230,231,257,259
+585	Jackuliak Ján	nebohý,ž.Rozália r.Kántorová	0	206
+585	Jackuliak Ján	nebohý,ž.Rozália r.Kántorová, naposledy-Ďubákovo	0	207,208,212,213,214,215,216,219,229,230,231,257,259
+585	Jackuliaková Elena	nebohá,r.Škrabáková	0	206,207,208,212,213,214,215,216,219,229,230,231,257,259
+585	Jackuliaková Mária	nebohá,r.Vantrubová,manž.Ján	0	206,207,208,212,213,214,215,216,219,229,230,231,257,259
+585	Jackuliaková Rozália	nebohá,r.Kántorová,m.Ján naposledy-Ďubákovo; nebohá,r.Kántorová,m.Ján	0	206
+585	Jackuliaková Rozália	nebohá,r.Kántorová,m.Ján, naposledy- Ďubákovo	0	207,208
+585	Jackuliaková Rozália	nebohá,r.Kántorová,m.Ján, naposledy-Ďubákovo	0	209,212,213,214,215,216,219,229,230,231,257,259
+585	Jánošík Ján	nebohý,zom.8.9.1992,ž.Anna r.Zapaľačová, naposledy- Kalinovo-Hrabovo, Družstevná č.743/7	0	206
+585	Jánošík Ján	nebohý,zom.8.9.1992,ž.Anna r.Zapaľačová, naposledy-Družstevná č.743/7, Kalinovo/ Hrabovo	0	230
+585	Jánošík Ján	nebohý,zom.8.9.1992,ž.Anna r.Zapaľačová, naposledy-Družstevná č.743/7, Kalinovo/Hrabovo	0	231
+585	Jánošík Ján	nebohý,zom.8.9.1992,ž.Anna r.Zapaľačová, naposledy-Kalinovo-Hrabovo, Družstevná č. 743/7	0	208
+585	Jánošík Ján	nebohý,zom.8.9.1992,ž.Anna r.Zapaľačová, naposledy-Kalinovo-Hrabovo, Družstevná č.743/7	0	207,212,213,214,215,216,257
+585	Jánošík Ján	nebohý,zom.8.9.1992,ž.Anna r.Zapaľačová, naposledy-Kalinovo/Hrabovo, Družstevná 743/7	0	229,259
+585	Jánošík Ján	nebohý,zom.8.9.1992,ž.Anna r.Zapaľačová, naposledy-Kalinovo/Hrabovo, Družstevná č.743/7	0	219
+585	Jánošík Jozef	nebohý, nemý	0	206,208,214
+585	Jánošík Jozef	nebohý,nemý	0	207,212,213,215,216,219,229,230,231,257,259
+585	Jánošík Jozef	nebohý,otec Ján	0	206,207,208,212,213,214,215,216,219,229,230,231,257,259
+585	Jánošík Jozef	nebohý,ž.Mária r.Malinová	0	209
+585	Jánošík Matej	neb.,nar.21.2.1897,ž.neb.Rozália Macková	0	206
+585	Jánošík Matej	neb.,nar.21.2.1897,ž.neb.Rozália Macková, naposledy 976 03 Uľanka č.128	0	230
+585	Jánošík Matej	neb.,nar.21.2.1897,ž.neb.Rozália Macková, naposledy- 976 03 Uľanka č.128	0	207,219,229,259
+585	Jánošík Matej	neb.,nar.21.2.1897,ž.neb.Rozália Macková, naposledy-976 03 Uľanka č.128	0	212,213,214,215,216,231,257
+585	Jánošík Matej	nebohý,kušnier odsťahovaný; nebohý,kušnier	0	207
+585	Jánošík Matej	nebohý,kušnier, odsťahovaný	0	208,212,213,214,215,219,229,230,231,259
+585	Jánošík Matej	nebohý,nar.21.2.1897,ž.neb.Rozália Macková, naposledy- 976 03 Uľanka č.128	0	208
+585	Jánošík Matej	odsťahovaný| nebohý,kušnier	0	206
+585	Jánošík Ondrej	nebohý,ž.Margita r.Slováková odsťahovaný do Tornali; nebohý,ž.Margita r.Slováková	0	206
+585	Jánošík Ondrej	nebohý,ž.Margita r.Slováková, odsťahovaný do Tornali	0	207,208,212,213,214,215,219,229,230,231,259
+585	Jánošík Ondrej	nebohý,ž.Margita r.Slováková, odsťahovaný do Tornnali	0	216,257
+585	Jánošík Pavel	nebohý,kušnier	0	206,207,208,212,213,214,215,216,219,229,230,231,257,259
+585	Jánošíková Mária	nebohá,r.Kántorová,zomr.1982 naposledy-Ďubákovo č.6	0	206
+585	Jánošíková Mária	nebohá,r.Kántorová,zomr.1982, naposledy- Dúbákovo č.6	0	208
+585	Jánošíková Mária	nebohá,r.Kántorová,zomr.1982, naposledy-Ďubákovo č.6	0	207,212,213,214,215,216,219,229,230,231,257,259
+585	Jánošíková Rozália	nebohá,r.Macková,nar.1902, zom.20.1.1973, naposledy - Uľanka č.128	0	206
+585	Jánošíková Rozália	nebohá,r.Macková,nar.1902, zom.20.1.1973, naposledy-Uľanka č.128	0	207,208,212,213,214,215,216,219,229,230,231,257,259
+585	Juriga Ján	neb.nar.6.5.1904,z.1987,ž.ZuzanaKomorová, naposledy-Ďubákovo č.13	0	209
+585	Juriga Ján	nebohý,ž.Zuzana r.Škrabáková, naposledy- Ďubákovo č.6	0	206,214,215,216,229,230,231
+585	Juriga Ján r. Juriga	nebohý,ž.Zuzana r.Škrabáková, naposledy- Ďubákovo č.6	0	207,208,212,213,219
+585	Juriga Jozef	nebohý,ž.Mária r.Vinarčíková	0	206,207,208,212,213,214,215,216,219,229,230,231,257,259
+585	Juriga Pavel	neb. zomr.23.10.1966, ž.Terézia Kántorová, naposledy-Ďubákovo č.9	0	212
+585	Juriga Pavel	neb.zomr.23.10.1966,ž.Terézia Kántorová naposledy-Ďubákovo 9; neb.zomr.23.10.1966,ž.Terézia Kántorová	0	206
+585	Juriga Pavel	neb.zomr.23.10.1966,ž.Terézia Kántorová, naposledy- Ďubákovo č.9	0	208
+585	Juriga Pavel	neb.zomr.23.10.1966,ž.Terézia Kántorová, naposledy-Ďubákovo č.9	0	207,213,214,215,216,219,229,230,231,257,259
+585	Jurigová Mária	nebohá,r.Vinarčíková,manž.Jozef	0	209
+585	Jurigová Terézia	neb.,r.Kantoráková,m.Pavel,nar.16.2.1882, naposledy - Ďubákovo č.9	0	206
+585	Jurigová Terézia	neb.,r.Kantoráková,m.Pavel,nar.16.2.1882, naposledy-Ďubákovo č.9	0	207,208,212,213,214,215,216,219,229,231,257,259
+585	Jurigová Terézia	neb.,r.Kantoráková,m.Pavel,nar.16.2.1882, naposledy-Ďubákovo č.9 č	0	230
+585	Kantor Ján	nebohý	0	207,208,212,213,214,215,216,219,229,230,231
+585	Kántor Ján	nebohý, naposledy- Šoltýska č.71	0	206,208,212,213,229,230,231
+585	Kántor Ján	nebohý,ž.Helena r.Blahutová	0	206,207,208,209,212,213,214,215,216,219,229,230,231,257,259
+585	Kántor Ján	nebohý,ž.Juliana r.Blahutová, naposledy- Ďubákovo	0	206
+585	Kántor Ján	nebohý,ž.Juliana r.Blahutová, naposledy-Ďubákovo	0	207,208,212,213,214,215,216,219,229,230,231,257,259
+585	Kantor Ján nebohý		0	206
+585	Kántor Ján r. Kántor	nebohý, naposledy- Šoltýska č.71	0	207,215,216,219
+585	Kántor Ján, 956 05, Radošina, SR		0	206,207,208,212,213,214,215,216,219,229,230,231
+585	Kántor Jozef	neb.,nar.4.11.1921,z.19.11.1989,ž.Valéria, naposledy-Ďubákovo č.22	0	229,259
+585	Kántor Jozef	neb.nar.4.11.1921,z.19.11.1989,ž.Valéria, naposledy Ďubákovo č.22 neb.nar.4.11.1921,z.19.11.1989,ž.Valéria, naposledy Ďubákovo č.22	0	216,257
+585	Kántor Jozef	neb.nar.4.11.1921,z.19.11.1989,ž.Valéria, naposledy-Ďubákovo č.22	0	206,207,208,212,213,214,215,219,230,231
+585	Kántor Jozef	nebohý	0	206,207,208,212,213,214,215,216,219,229,230,231,257,259
+585	Kantor Jozef nebohý		0	206
+585	Kantor Matej	nebohý	0	207,208,212,213,214,215,216,219,229,230,231
+585	Kantor Matej nebohý		0	206
+585	Kántor Ondrej	nebohý	0	206,207,208,212,213,214,215,216,219,229,230,231,257,259
+585	Kántor Pavel	nebohý,/kohút/,ž.Mária r.Kántorová	0	206,207,208,212,213,214,215,216,219,229,230,231,257,259
+585	Kántor Pavel	nebohý,/macove/,ž.Mária r.Laššáková	0	206,207,208,212,213,214,215,216,219,229,230,231,257,259
+585	Kántor Pavel	nebohý,slobodný	0	206,207,208,209,212,213,214,215,216,219,229,230,231,257,259
+585	Kántor Pavel, 985 01, Veľká Ves, SR		0	209
+585	Kántor Pavel, 985 01, Veľká Ves, SR	vdovec	0	207,208,212,213,214,215,216,219,229,230,231
+585	Kántor Pavel, Veľká Ves, Veľká Ves, PSČ 985 01, SR	vdovec	0	206
+585	Kántorová Helena	nebohá,r.Blahutová,m.Ján	0	206,207,208,212,213,214,215,216,219,229,230,231,257,259
+585	Kántorová Juliana	neb., r.Macková, nar.17.9.1908, z.23.9.1950, naposledy-Ďubákovo č.63	0	209
+585	Kántorová Juliana	nebohá,r.Blahutová,m.Ján, naposledy-Ďubákovo	0	209
+585	Kántorová Mária	nebohá,r.Ivorová, odsťahovaná na Kružno	0	206,207,208,212,213,214,215,216,219,229,230,231,257,259
+585	Kántorová Valéria	nebohá,rod. Lörinczová, naposledy- Lužianky, Korytovská č.363/5	0	206,207,208,212,213,215,219,229,230,231
+585	Kapráľová Rozália	nebohá,r.Cuperová	0	206,207,208,212,213,214,215,216,219,229,230,231,257,259
+585	Knöpfler Karol	nebohý	0	210
+585	Krahuľcová Rozália	nebohá,r.Blahutová,m.Martin	0	206,207,208,209,212,213,214,215,216,219,229,230,231,257,259
+585	Kretová Mária	nebohá,r.Blahutová	0	206,207,208,212,213,214,215,216,219,229,230,231,257,259
+585	Lašáková Juliana	nebohá,r.Albertová,m.Pavel/janček/	0	215
+585	Laššák Jozef	nebohý , naposledy-Šíd; nebohý	0	206
+585	Laššák Jozef	nebohý, naposledy Šíd	0	229,259
+585	Laššák Jozef	nebohý, naposledy-Šíd	0	207,208,209,212,213,214,215,216,219,230,231,257
+585	Laššák Jozef	nebohý,n.14.9.1927,z.31.3.1992,ž.Helena, naposledy-Hnúšťa	0	209
+585	Laššák Jozef	nebohý,ž.Anna r.Laššákov	0	206
+585	Laššák Jozef	nebohý,ž.Anna r.Laššáková	0	207,208,212,213,214,215,216,219,229,230,231,257,259
+585	Laššák Jozef	nebohý/janček/,ž.r.Staníková	0	209
+585	Laššák Matej	nebohý,slobodný	0	206,207,208,209,212,213,214,215,216,219,229,230,231,257,259
+585	Laššák Ondrej		0	214
+585	Laššák Ondrej	nebohý, janček, ž. Mária r. Škrabáková	0	229,259
+585	Laššák Ondrej	nebohý,/janček/,ž.Mária r.Škrabáková	0	206,207,208,209,212,213,215,216,219,230,231,257
+585	Laššák Ondrej	nebohý,zom.11.10.1948,/kováč/	0	206,207,208,209,212,213,214,215,216,219,229,230,231,257,259
+585	Laššák Ondrej	nebohý,ž.Rozália r.Kántorová, naposledy - Ďubákovo č.38	0	208,214,215,216,219,229,230,231
+585	Laššák Ondrej r. Laššák	nebohý,ž.Rozália r.Kántorová, naposledy - Ďubákovo č.38	0	206,207,209,212,213
+585	Laššák Pavel	nebohý,/Janček/,ž.Juliana r.Albertová	0	206,207,208,212,213,214,215,216,219,229,230,231,257,259
+585	Laššák Štefan	nebohý,slobodný	0	209
+585	Laššáková Juliana	nebohá,r.Albertová,m.Pavel/janček/	0	206,207,208,212,213,214,216,219,229,230,231,257,259
+585	Laššáková Mária	nebohá,r.Škrabáková,m.Ondrej	0	206,207,208,212,213,214,215,216,219,229,230,231,257,259
+585	Laššáková Rozália	nebohá,r.Ivorová,m.Pavel	0	206,207,208,209,212,213,214,215,216,219,229,230,231,257,259
+585	Laššáková Rozália	nebohá,r.Jánošíková,m.Ondrej	0	206,207,208,212,213,214,215,216,219,229,230,231,257,259
+585	Laššáková Rozália	nebohá,r.Kántorová,m.Ondrej	0	206,207,208,212,213,214,215,216,219,229,230,231,257,259
+585	Macko Jozef	nebohý,/mišanko,/ž.Katarína r.Stupárová	0	206,207,208,212,213,214,215,216,219,229,230,231,257,259
+585	Macko Pavel	nebohý,/mišanko/,ž.Fačková Mária, naposledy-Ďubákovo č.51	0	206,207,208,212,213,214,215,216,219,229,230,231,257,259
+585	Macková Juliana	nebohá,r.Slováková	0	206,207,208,212,213,214,215,216,219,229,230,231,257,259
+585	Maňúr Ján	nebohý	0	206,207,208,212,213,214,215,216,219,229,230,231,257,259
+585	Morongová Katarína	nebohá,r.Vinarčíková, odsťahovaná	0	206,207,208,212,213,214,215,216,219,229,230,231,257,259
+585	Obročníková Róza	nebohá,r.Kováčiková,bezdetná	0	206,207,208,212,213,214,215,216,219,229,230,231,257,259
+585	Petrľa Ján	nebohý odsťahovaný do Ameriky; nebohý	0	207
+585	Petrľa Ján	nebohý, odsťahovaný do Ameriky	0	206,208,213,214,215,216,219,229,230,231,257,259
+585	Petrľa Ján	nebohý,odsťahovaný do Ameriky	0	212
+585	Ridzoňová Juliana	nebohá,r.Laššáková,m.Štefan, naposledy- Hrachovo	0	206
+585	Ridzoňová Juliana	nebohá,r.Laššáková,m.Štefan, naposledy-Hrachovo	0	207,208,209,212,213,214,215,216,219,229,230,231,257,259
+585	Roľník Štefan	nebohý,ž.Katarína r.Mesiariková	0	206,207,208,212,213,214,215,216,219,229,230,231,257,259
+585	Sihelská Juliana	nebohá,r.Škrabáková , odsťahovaná; nebohá,r.Škrabáková	0	206
+585	Sihelská Juliana	nebohá,r.Škrabáková, odsťahovaná	0	207,208,212,213,214,215,216,219,229,230,231,257,259
+585	Sláviková Elena		0	206
+585	Sláviková Elena	nebohá,r.Slováková,m.Pavel, naposledy Rimavská Baňa	0	214,216,257
+585	Sláviková Elena	nebohá,r.Slováková,m.Pavel, naposledy-Rimavská Baňa	0	207,208,212,215,219,229,230,231,259
+585	Sláviková Elena, Rimavská Baňa, SR	nebohá,r.Slováková,m.Pavel, naposledy-Rimavská Baňa	0	213
+585	Slovák Ján	nebohý, naposledy - Zvolen	0	206
+585	Slovák Ján	nebohý, naposledy-Zvolen	0	207,208,212,213,214,215,216,219,229,230,231,257,259
+585	Slovák Július	nebohý	0	206,207,208,212,213,214,215,216,219,229,230,231,257,259
+585	Slováková Mária	nebohá	0	206,207,208,212,213,214,215,216,219,229,230,231,257,259
+585	Slováková Mária	nebohá,r.Kántorová,manž.Štefan	0	206,207,208,209,212,213,214,215,216,219,229,230,231,257,259
+585	Slovenčiak Ján	nebohý	0	206,207,208,212,213,214,215,216,219,229,230,231,257,259
+585	Sojková Anna	nebohá,r.Petrľová,manž.Michal	0	206,207,208,212,213,214,215,216,219,229,230,231,257,259
+585	Sojková Rozália	nebohá,r.Laššáková, manž.Ján	0	209
+585	Staššák Ondrej	nebohý,ž.Mária /Pečiatková/	0	206,207,208,212,213,214,215,216,219,229,230,231,257,259
+585	Staššáková Zuzana, Bratislava, SR	Staššáková je rodné meno	0	206,207,208,212,213,214,215,216,219,229,230,231
+585	Steiner Samuel	nebohý, odsťahovaný	0	207,208,212,213,214,215,216,219,229,230,231,257,259
+585	Steiner Samuel	odsťahovaný, nebohý	0	206
+585	Szagan Ondrej	nebohý,ž.Katarína r.Kuráková	0	206,207,208,209,212,213,214,215,216,219,229,230,231,257,259
+585	Szoke Ján	/galdík/, odsťahovaný	0	206,207,213,215,216,229,231,257,259
+585	Szoke Ján	galdík, odsťahovaný	0	208,212,214,219
+585	Szöke Ján	galdík/, odsťahovaný	0	230
+585	Šatarová Mária	neb., r.Laššáková, nar.30.5.1905,z 22.9.1984	0	231
+585	Šatarová Mária	neb.,r.Laššáková,nar.30.5.1905,z 22.9.1984	0	215
+585	Šatarová Mária	nebohá, r. Laššáková, nar.30.5.1905,z 22.9.1984	0	216,257
+585	Šatarová Mária	nebohá, r.Laššáková, nar.30.5.1905, z 22.9.1984	0	219
+585	Šatarová Mária	nebohá, r.Laššáková,nar.30.5.1905,z 22.9.1984, naposledy-Ďubákovo č.20	0	213
+585	Šatarová Mária	nebohá, r.Laššáková,z 22.9.1984, naposledy-Ďubákovo č.20	0	208
+585	Šatarová Mária r. Laššáková	nebohá, z 22.9.1984, naposledy-Ďubákovo č.20	0	207,229
+585	Šatarová Mária r. Laššáková	nebohá,z 22.9.1984	0	206
+585	Škrabák Ján	nebohý,ž.Mária r.Staníková	0	206,207,208,212,213,214,215,216,219,229,230,231,257,259
+585	Škrabák Ján	nebohý,ž.Mária rod.Sihelská	0	209
+585	Škrabák Jozef	nebohý	0	206,207,208,212,213,214,215,216,219,229,230,231,257,259
+585	Škrabák Jozef	nebohý žena Mária rodená Šuľajová, naposl. Ďubákovo 12	0	206
+585	Škrabák Jozef	nebohý, ž.Mária r.Šuľajová, naposledy-Ďubákovo č.12	0	208
+585	Škrabák Jozef	nebohý,ž.Mária r.Jackuliaková	0	206,207,208,212,213,214,215,216,219,229,230,231,257,259
+585	Škrabák Jozef	nebohý,ž.Mária r.Šuľajová, naposledy-Ďubákovo č.12	0	207,209
+585	Škrabák Pavel	nebohý,ž.Mária r.Klimová naposledy-Piešťany; nebohý,ž.Mária r.Klimová	0	206
+585	Škrabák Pavel	nebohý,ž.Mária r.Klimová, naposledy- Piešťany	0	208
+585	Škrabák Pavel	nebohý,ž.Mária r.Klimová, naposledy-Piešťany	0	207,209,212,213,214,215,216,219,229,230,231,257,259
+585	Škrabák Pavel	odsťahovaný	0	207,212,213,214,215,216,219,229,230,231,257,259
+585	Škrabák Pavel	odsťahovaný|	0	206,208
+585	Škrabáková Mária	nebohá,r.Jackuliaková,manž.Jozef	0	206,207,208,212,213,214,215,216,219,229,230,231,257,259
+585	Šulaj Ján		0	205
+585	Šuľajová Mária, 985 07, Šoltýska, SR	r.Laššáková	0	206,207,208,209,212,213,214,215,216,219,229,230,231
+585	Tazberík Ján	nebohý,ž.Anna r.Škrabáková	0	206,207,208,212,213,214,215,216,219,229,230,231,257,259
+585	Tirala Pavel	nebohý,ž.Rozália r.Kántorová	0	206,207,208,212,213,214,215,216,219,229,230,231,257,259
+585	Tiralová Mária	nebohá,r.Vinarčíková	0	206,207,208,209,212,213,214,215,216,219,229,230,231,257,259
+585	Vargová Anna	nebohá,r.Laššáková, naposledy - Lučenec	0	206
+585	Vargová Anna	nebohá,r.Laššáková, naposledy- Lučenec	0	209
+585	Vargová Anna	nebohá,r.Laššáková, naposledy-Lučenec	0	207,208,212,213,214,215,216,219,229,230,231,257,259
+585	Veľoch Ján	nebohý	0	206,207,208,212,213,214,215,216,219,229,230,231,257,259
+585	Veľoch Matej	nebohý,ž.Anna r.Kovalančíková	0	206,207,208,212,213,214,215,216,219,229,230,231,257,259
+585	Veľochová Anna	nebohá,r.Kovalančíková,manž.Matej	0	206,207,208,212,213,214,215,216,219,229,230,231,257,259
+585	Vilhanová Margita	rod.Šulajová; rod.Šulajová	0	205
+585	Vinarčík Ján	nebohý	0	206,207,208,212,213,214,215,216,219,229,230,231,257,259
+585	Vinarčík Jozef	nebohý	0	206,207,208,212,213,214,215,216,219,229,230,231,257,259
+585	Vinarčík Jozef	nebohý, ž.Helena r.Blahutová	0	209
+585	Vinarčík Jozef	nebohý,slobodný,slabomyselný	0	206,207,208,212,213,214,215,216,219,229,230,231,257,259
+585	Vinarčík Juraj	nebohý	0	209
+585	Vinarčíková Mária	nebohá,r.Galdíková,m.Ján	0	206,207,208,212,213,214,215,216,219,229,230,231,257,259
+585	Vinarčíková Mária	nebohá,r.Veľochová	0	206,207,208,212,213,214,215,216,219,229,230,231,257,259
+585	Vinarčíková Mária	nebohá,slobodná	0	206,207,208,212,213,214,215,216,219,229,230,231,257,259
+585	Vojteková Mária		0	205

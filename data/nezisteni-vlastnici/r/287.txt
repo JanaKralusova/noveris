@@ -1,0 +1,256 @@
+191	KABAREC Jozef		1	2620,2621,2622,2623,2760,2781,3252,3392,3409,3667,3671,3678,4210,4533,4819,4820
+191	KABAREC Štefan		1	2620,2621,2622,2623,2760,2781,3252,3392,3409,3667,3671,3678,4210,4533,4819,4820
+191	KABARECOVÁ Júlia	r.Hlavenková ž.Jozefa	1	2760,2781
+191	KALNÁ Jozefína	r.Hasáková	1	3678
+191	KALUŽOVÁ Terézia	r.Cvečková ž.Bartolomeja	1	2620,2621,3678,4819,4820
+191	Kalužová Terézia r. Cvečková	ž.Bartolomeja	1	4759
+191	KAMENÍKOVÁ Alžbeta	r.Škápiková ž.Michala	1	2620,2621,4819,4820
+191	KANKOVSKÁ Terézia	r.Müllerová ž.Kalamena	1	2760,2781,3918,4628
+191	Kankovská Terézia r. Müllerová	ž.Kalamena	1	3628
+191	KARÁSKOVÁ Alžbeta	r.Cintulová	1	1353
+191	KASSAY Alojz	Petrová Ves	1	1353,1354
+191	KASSAY Ignác	ž.Júlia r.Chorváthová	1	3984,4137
+191	Kassay Ján	B.M. čp.652	1	1355
+191	Kassay Ján	B.M.čp.652 |	1	1356
+191	KASSAY Ján		1	1353,2137,2760,2781
+191	KASSAY Ján	B.M.čp.652	1	1353
+191	KASSAY Ján	syn Alžbety r.Sekáčovej	1	1354,2021,2889
+191	KASSAY Ján	syn Márie r.Cintulovej	1	1353,4070
+191	KASSAY Jozef	syn Márie r.Cintulovej	1	1353,4070
+191	KASSAY Jozef	ž.Anna r.Bulková	1	2622,2623,2760,2781
+191	KASSAY Jozef	ž.Mária r.Cintulová	1	1571,3798
+191	KASSAY Pavol		1	1223,1225,1227,2760,2781
+191	KASSAY Pavol	syn Márie r.Cintulovej	1	1353,4070
+191	KASSAY Pavol	ž.Alžbeta r.Sekáčová	1	3878
+191	KASSAY Pavol	ž.Mária	1	2620,2621,4819,4820
+191	KASSAY Rudolf	ž.Anna r.Cintulová	1	3061,4647
+191	KASSAY Štefan	syn Márie r.Cintulovej	1	1353,4070
+191	KASSAY Štefan	ž.Albína r.Cvečková	1	2620,2621,3165,3678,4092,4819,4820
+191	KASSAYOVÁ Albína	r.Cvečková ž.Štefana	1	2620,2621,2622,2623,2760,2781,3717,4819,4820
+191	Kassayová Albína r. Cvečková	ž.Štefana	1	3127
+191	KASSAYOVÁ Alžbeta	r.Sekáčová ž.Pavla	1	2620,2621,3678,4819,4820
+191	KASSAYOVÁ Anna	r.Bulková ž.Jozefa	1	2622,2623,2760,2781,3678
+191	KASSAYOVÁ Anna	r.Cintulová ž.Rudolfa	1	1353,1593,2622,2623,2760,2781,3678
+191	Kassayová Anna r. Bulková	ž.Jozefa	1	2822
+191	KASSAYOVÁ Anna r. Cintulová	ž.Rudolfa	1	2800,3077,4332,4647,5035
+191	KASSAYOVÁ Júlia	dcéra Márie r.Cintulovej	1	1353,4070
+191	KASSAYOVÁ Júlia	r.Chorváthová ž.Ignáca	1	2620,2621,3678,4819,4820
+191	Kassayová Júlia r. Chorváthová	ž.Ignáca	1	4690
+191	KASSAYOVÁ Mária	r.Poláková ž.Pavla	1	4819,4820
+191	KATZ Dávid	ž.Jozefa r.Blasová	1	3678
+191	KATZOVÁ Jozefa	r.Blasová ž.Dávida	1	3678
+191	Klena Anton		1	1373,1739,1883,2620,2621,3678,4819,4820
+191	Klena Ján		1	1373,1739,1883,2620,2621,3678,4819,4820
+191	Klena Jozef		1	1373,1739,1883,2620,2621,3678,4819,4820
+191	KLENOVÁ Helena	mal. sestra Márie	1	4538
+191	KLENOVÁ Mária	mal. sestra Heleny	1	4538
+191	KMEŤOVÁ Mária	r.Bilková	1	2620,2621,3678,4819,4820
+191	Kmeťová Mária r. Bilková		1	3426,4494
+191	KNOTKOVÁ Katarína	r.Gašparínová ž.Štefana	1	3678
+191	Knotková Katarína r. Gašparínová	ž.Štefana	1	4730,4731
+191	KOHÚTOVÁ Mária	r.Sekáčová	1	1353,2620,2621,2622,2623,2760,2781,3678,4819,4820
+191	Kohútová Mária r. Sekáčová		1	2576,2577,2578,2580,2637,3453,5307
+191	KOCHOVÁ Agneša	r.Gašpárková	1	2620,2621,3678,4819,4820
+191	Kochová Agneša r. Gašpárková		1	3165,4092
+191	KOCHOVÁ Albína	r.Hrúzová	1	3678
+191	Kochová Albína r. Hrúzová		1	4008
+191	KOCHOVÁ Alžbeta	r.Poláčková	1	2620,2621,3678,4819,4820
+191	KOLÍK Michal	ž.Katarína r.Totková	1	2620,2621,2990,3390,3678,4459,4819,4820
+191	KOLÍKOVÁ Katarína	r.Totková ž.Michala	1	2620,2621,3678,4819,4820
+191	Kolíková Katarína r. Totková	ž.Michala	1	2313,3204,3833
+191	KOPÁČ Gašpar	ž.Anna r.Bojkovská	1	2620,2621,3678,4819,4820
+191	KOPÁČ Michal	ž.Augustína r.Cintulová	1	2509,3079,3678,4425
+191	KOPÁČOVÁ Anna	r.Bojkovská ž.Gašpara	1	2620,2621,3678,4819,4820
+191	KOPÁČOVÁ Augustína	r.Cintulová ž.Michala	1	2509,3079,3678,4425
+191	KÖPPELOVÁ Mária	r.Michálková	1	3678
+191	KOVÁRIK Ján	mal. brat Heleny, Agneši a Antona	1	2622,2623,2760,2781,4819,4820
+191	KOVÁRIK Štefan		1	2091,2620,2621,2622,2623,2760,2781,3135,3678,4819,4820
+191	KOVÁRIKOVÁ Agneša	r.Benková ž.Imricha	1	3678
+191	Kováriková Anna r. Nesnadná	ž.Františka	1	4431
+191	KOVÁRIKOVÁ Helena	mal. sestra Agneše,Jána a Antona	1	2091,2620,2621,2622,2623,2760,2781,3135,3678,4819,4820
+191	KOVÁRIKOVÁ Magdaléna	r.Bízková ž.Ondreja	1	2620,2621,3678,4819,4820
+191	KOZÁNEK Ignác	syn Jozefa a Heleny r.Švajdlenkovej	1	2620,2621,3678,4819,4820
+191	KOZÁNEK Ján	ž.Emília r.Ždímalová	1	4819,4820
+191	KOZÁNEK Karol	ž.Krimhilda r.Helferová	1	2620,2621,3678,3728,4085,4541,4819,4820
+191	KOZÁNEK Pavol	ž.Alžbeta r.Černá	1	2620,2621,3678,4819,4820
+191	KOZÁNKOVÁ Alžbeta	r.Benková	1	2620,2621,3678,3728,4819,4820
+191	KOZÁNKOVÁ Alžbeta	r.Benková ž.Jána	1	2620,2621,4541,4819,4820
+191	KOZÁNKOVÁ Alžbeta	r.Černá ž.Pavla	1	2760,2781,3505
+191	Kozánková Alžbeta r. Benková		1	1883,4085
+191	Kozánková Alžbeta r. Černá	ž.Pavla	1	3220
+191	Kozlová Mária r. Šedivá		1	1287
+191	KRACINA Anton		1	1236,1237,2526,2622,2623,2760,2781
+191	KRACINA Anton	mal. brat Štefana	1	1630,2058,2059,2131,2622,2623,2760,2781,2929,3268,3296,3334,3558,3774,3793
+191	KRACINA Anton	ž.Anna r.Michálková	1	1771
+191	KRACINA Ján	ž.Terézia r.Butašová	1	2760,2781,2853
+191	KRACINA Štefan	mal. brat Antona	1	1630,2058,2059,2131,2622,2623,2760,2781,2929,3268,3296,3334,3558,3774,3793,4638
+191	KRACINA Štefan	ž.Helena r.Deščíková	1	2622,2623
+191	Kracina Viktor	BA,Dynamitka 85 tu neznámy	1	4836
+191	KRACINA Viktor	BA,Dynamitka 85 - tu neznámy	1	1236,1237,2039,2526,2622,2623,2760,2781,3334,3774
+191	KRACINOVÁ Helena	r.Deščíková ž.Štefana	1	13,2622,2623,2760,2781,4208,5265,5266
+191	Kracinová Helena r. Dečšíková		1	909
+191	Kracinová Helena r. Deščíková	ž.Štefana	1	2827,3531,4640
+191	Kracinová Magdaléna r. Poláková	ž.Jána	1	2059,3268
+191	KRACINOVÁ Mária	r.Cintulová	1	1236,1237,2622,2623,2760,2781
+191	KRACINOVÁ Mária	rod.Cintulová	1	1353,2620,2621,3195,3678,4819,4820
+191	Kracinová Mária r. Cintulová		1	1464,2526,3205,3334,3463,3774,3901
+191	KRACINOVÁ Terézia	r.Václavková ž.Martina	1	2508,2620,2621,4819,4820
+191	Krajčírová Terézia r. Krotilová		1	4522
+191	KRÁLOVÁ Helena	dcéra Augustína	1	2622,2623,2760,2781,4112
+191	KRAMÁR Jozef		1	2620,2621,4819,4820
+191	KRAMÁR Ondrej	ž.Terézia r.Antálková	1	2620,2621,2622,2623,3678,4819,4820
+191	KRAMÁROVÁ Magdaléna	dcéra Štefana	1	3678
+191	KRAMÁROVÁ Terézia	r.Antálková ž.Ondreja	1	2620,2621,2622,2623,2760,2781,3881,4819,4820
+191	Kramárová Terézia r. Antálková	ž.Ondreja	1	3240,3247,3306,3307,3569,3570,4630
+191	KRATINA Štefan	ž.Ilona r.Deščíková	1	2622,2623
+191	Krátka Alžbeta r. Baďurová		1	1911
+191	Krchňavá Jozefa r. Drinková		1	4029
+191	KRIŽANOVÁ Helena	r.Bilková	1	2620,2621,3678,4819,4820
+191	Križanová Helena r. Bilková		1	4675
+191	KROKVA Ignác	ž.Helena r.Cintulová čp.262	1	2620,2621,3143,3678,4596,4819,4820
+191	KROKVOVÁ Hermína		1	3319
+191	KROKVOVÁ Magdaléna	r.Šedivá	1	3678
+191	KUBINÁK Ján	mal. brat Mateja	1	1593,3075,5035
+191	KUBINÁK Matej	mal. brat Jána	1	1593,3075,5035
+191	Kubináková Mária r. Brezová		1	3685
+191	KUBINCOVÁ Albína	r.Andelová	1	1353,2209,2620,2621,3678,4819,4820
+191	Kubincová Albína r. Andelová		1	2205,2207,2247
+191	KUBINCOVÁ Anna	r.Bobková ž.Šimona	1	3678
+191	Kubincová Anna r. Bobková	ž.Šimona	1	1504
+191	Kubincová Anna r. Šebestová	ž.Jozefa	1	2895,3268
+191	KUBINCOVÁ Emília	dcéra Floriána a Márie r.Andelovej	1	1531,1532,1533,2247,2620,2621,3678,4819,4820
+191	KUBINCOVÁ Emília	mal. dcéra Floriána	1	1529,2248
+191	Kubincová Helena		1	3055
+191	KUBINCOVÁ Helena	mal	1	2378,2379,3412,3678
+191	KUBINCOVÁ Helena	r.Butašová ž.Juraja	1	3678
+191	KUBINCOVÁ Helena	r.Cintulová ž.Ondreja	1	4819,4820
+191	Kubincová Helena r. Butašová	ž.Juraja	1	3055,3412,3838
+191	KUBINCOVÁ Júlia	dcéra Floriána a Márie r.Andelovej	1	1531,1532,1533,2247,2620,2621,3678,4819,4820
+191	KUBINCOVÁ Katarína	r.Filípková ž.Ondreja	1	3678
+191	Kubincová Katarína r. Filípková	ž.Ondreja	1	2606
+191	KUBINCOVÁ Mária	r.Poláková ž.Štefana	1	2620,2621,3678,4819,4820
+191	Kubincová Mária r. Poláková	ž.Štefana	1	3411
+191	KUBINCOVÁ Terézia	r.Grajzová ž.Jána	1	2622,2623,2760,2781
+191	Kubincová Terézia r. Grajzová	ž.Jána	1	2230,3512,3513,3639,3775,3780,3806,4124,4302,4358,4636,4898
+191	Kubincová Terézia r. Grajzová	ž.Jána |	1	1385
+191	KUBINEC Anton		1	1529,1531,1532,1533,2248,3269
+191	Kubinec Ján	ž.Alžbeta r.Obuchová	1	4741
+191	Kubinec Ján	ž.Terézia r.Grajzová	1	4636
+191	KUBINEC Ján	syn Vavrinca	1	1529
+191	Kubinec Jozef	ž.Anna r.Šebestová	1	3268
+191	KUBINEC Juraj	syn Štefana a Alžbety r.Dudovej	1	2379,2620,2621,3678,4819,4820
+191	Kubinec Ondrej	ž.Helena r.Cintulová	1	1533,2620,2621,4819,4820
+191	KUBINEC Rudolf	syn Floriána	1	1529,1533,2248
+191	KUBINEC Rudolf	syn Floriána a Márie r.Andelovej	1	1531,1532,1533,2247,2620,2621,3678,4819,4820
+191	KUBINEC Rudolf	ž.Albína r.Andelová	1	2247
+191	KUBINEC Šimon	ž.Anna r.Bobková syn Floriána	1	2620,2621,4819,4820
+191	Kučíková Ľudmila r. Šajdíková		1	3006
+191	KUJAN Martin	ž.Júlia r.Holá	1	3678
+191	KUJANOVÁ Júlia	r.Holá ž.Martina	1	3678
+191	KUNÍKOVÁ Pavlína	r.Drinková	1	4471
+191	KUSALÍK Rudolf	ž.Alžbeta r.Sojáková	1	2620,2621,3480,3678,4819,4820
+191	LANG Jozef	brat Liny	1	1384,1593,2620,2621,2622,2623,2706,2760,2781,3152,3595,3678,4146,4612,4819,4820,5035
+191	LANGOVÁ Lina	sestra Jozefa	1	1384,1593,2620,2621,2622,2623,2706,2760,2781,3152,3595,3678,4146,4612,4819,4820,5035
+191	LASICA František		1	2760,2781,3181,3417,4118
+191	LASICA František	brat Jána a Alžbety Vaňkovej	1	2622,2623,2760,2781,3120,4644
+191	LASICA Ján	ž.Anna r.Jankovičová	1	2760,2781
+191	LASICA Ján	ž.Júlia r.Vaňková	1	3527
+191	LASICA Jozef	ž.Alžbeta r.Sekáčová	1	2622,2623,2760,2781,3417
+191	LASICA Matej		1	1208,1209,1446
+191	LASICA Matej	ž.Júlia r.Petríková	1	2760,2781,3466
+191	LASICOVÁ Anna	r.Jankovičová ž.Jána	1	1603
+191	LASICOVÁ Mária	r.Bízková ž.Jána	1	1353,2620,2621,3678,3738,4819,4820
+191	LASICOVÁ Mária	r.Bobková ž.Jozefa	1	2622,2623
+191	Lasicová Mária r. Bízková	ž.Jána	1	3368
+191	Lasicová Mária r. Cáková		1	3415
+191	LASICOVÁ Terézia	dcéra Pavla	1	1208,1211,1446,2111,2622,2623,2760,2781,3466,3760
+191	Lasicová Terézia r. Vajdová		1	2280,2478,2480,2481,2482,2483,2484,2485,2622,2623,2760,2781,5555
+191	LAUMANNOVÁ Helena	r.Mikulková	1	2620,2621,3678,4819,4820
+191	LEŠKA Ladislav	ž.Albína r.Morávková	1	2760,2781,3678,4709
+191	LEŠOVÁ Albína	r.Morávková ž.Ladislava	1	2760,2781,3678
+191	Lešová Albína r. Morávková	ž.Ladislava	1	4709
+191	Letošová Helena	r.Baďurová	1	4154
+191	Letošová Helena r. Baďurová		1	1701,1911
+191	LIČÁKOVÁ Mária	r.Drinková	1	2620,2621,3678,4819,4820
+191	Ličáková Mária r. Drinková		1	3979,4001,4011
+191	LÍNEK František	mal. syn Ondreja	1	3678
+191	LÍNEK František	ž.Emília r.Poláková	1	3375,3781
+191	LÍNEK Ignác	brat Jána a Jozefíny Veselej	1	2622,2623,2760,2781,3681
+191	LÍNEK Ján		1	2839
+191	LÍNEK Ján	brat Ignáca a Jozefíny Veselej	1	2622,2623,2760,2781,2816,3681,3781,3789
+191	LÍNEK Jozef	ž.Mária r.Šebestová	1	1571,1572,3678,5527
+191	LÍNEK Michal	brat Štefana a Jozefa	1	2622,2623,2760,2781
+191	Línek Šimon	ž.Katarína r.Búzková	1	1572,2620,2621,3039,3635,3678,4819,4820,5527
+191	LÍNEK Šimon	syn Ondreja a Verony r.Andelovej	1	2242,2620,2621,3492,3678,4819,4820,5027,5028
+191	LÍNEK Štefan	ž.Mária r.Hodáňová	1	2622,2623,2760,2781,3789
+191	LÍNEK Tomáš	syn Ondreja a Verony r.Andelovej	1	4819,4820
+191	LÍNKOVÁ Anna	r.Horváthová ž.Martina	1	2620,2621,4819,4820
+191	Línková Emília r. Poláková		1	3601
+191	Línková Júlia r. Drinková		1	3601,4466
+191	LÍNKOVÁ Katarína	r.Búzková ž.Šimona	1	3678,4819,4820
+191	LÍNKOVÁ Katarína	r.Šedivá ž.Tomáša	1	2620,2621,3678,4819,4820
+191	Línková Katarína r. Šedivá	ž.Tomáša	1	1571,2924,4745
+191	LÍNKOVÁ Magdaléna	r.Šedivá	1	2620,2621,3678,4819,4820
+191	Línková Magdaléna r. Šedivá		1	4745
+191	LÍNKOVÁ Mária	r.Šebestová	1	3678
+191	Línková Mária r. Šebestová		1	4539
+191	Lisecká Mária r. Búzková	ž.Štefana	1	4478
+191	Lisická Mária r. Búzková	ž.Štefana	1	3399
+191	LIŠKA Ján	dedí po Helene Filovej r.Liškovej	1	2620,2621,3678,4819,4820
+191	LIŠKA Ján	mal. syn Šimona a Magdalény r.Butašovej	1	1947,2620,2621,3678,4819,4820
+191	LIŠKA Ján	ž.Mária r.Deščíková	1	3800
+191	LIŠKA Jozef	ž.Hermína r.Grajzová	1	1384,1947,2620,2621,3104,3678,4444,4819,4820
+191	LIŠKA Pavol	ž.Helena r.Volárová	1	1384,2620,2621,3104,3678,4444,4819,4820
+191	LIŠKA Štefan	ž.Mária r.Vaňková	1	1384,1947,2620,2621,3104,3678,4444,4819,4820
+191	LIŠKOVÁ Anna	mal. dcéra Jozefa	1	1947
+191	LIŠKOVÁ Hermína	r.Grajzová	1	2620,2621,2622,2623,2760,2781,3678,4819,4820
+191	LIŠKOVÁ Hermína r. Grajzová		1	1384,1593,2706,3152,3451,3595,3700,4146,4235,4365,4612,5035
+191	LIŠKOVÁ Magdaléna	čp.409	1	2039,4842
+191	LIŠKOVÁ Magdaléna	r.Butašová ž.Šimona	1	2620,2621,3678,4819,4820
+191	Lišková Magdaléna r. Butašová	ž.Šimona	1	3395
+191	LIŠKOVÁ Mária	mal.dcéra Šimona a Magdalény r.Butašovej	1	1947,4819,4820
+191	LIŠKOVÁ Mária	r.Drinková ž.Štefana	1	2620,2621,3678,4819,4820
+191	LIŠKOVÁ Mária	r.Vaňková	1	2620,2621,3678,4682,4819,4820
+191	Lišková Mária r. Jankovičová		1	1532,3043,4441
+191	Lišková Mária r. Vaňková		1	3727
+191	Lištáková Mária r. Šírová		1	4651
+191	LÖWINGER Gustáv	ž.Rozália r.Lustigová	1	2760,2781,4240
+191	LÖWINGEROVÁ Rozália	r.Lustigová ž.Gustáva	1	2760,2781,4240
+191	LYSICKÁ Mária	r.Búzková	1	388,2622,2623,2760,2781,5237,5238
+191	MACEK Adam	syn Jozefa a Heleny r.Bízkovej	1	2413,2620,2621,3123,3202,3678,4819,4820
+191	Macek Anton	mal. syn Pavla	1	4686
+191	MACEK Anton		1	2620,2621,3678,4819,4820
+191	MACEK Eduard		1	3678,4819,4820
+191	MACEK Emil	mal	1	2622,2623,2650,2651,2760,2781
+191	MACEK Ján	mal	1	1384
+191	MACEK Ján	ž.Anna r.Butašová	1	2620,2621,2622,2623,3123,3678,3759,3769,4819,4820
+191	MACEK Ján	ž.Helena r.Vaňková	1	1914
+191	MACEK Jozef	čp.128	1	4173
+191	MACEK Jozef	syn Michala a Terézie r.Kusalíkovej	1	2620,2621,4819,4820
+191	MACEK Jozef	ž.Anna r.Černá	1	2620,2621,3678,4819,4820
+191	MACEK Jozef	ž.Helena r.Sekáčová	1	4535
+191	MACEK Jozef	ž.Júlia r.Deščíková	1	2622,2623,4465
+191	MACEK Matej	syn Michala a Terézie r.Kusalíkovej	1	2620,2621,3678,4819,4820
+191	MACEK Michal	syn Michala a Terézie r.Kusalíkovej	1	2620,2621,3678,4819,4820
+191	MACEK Michal	ž.Terézia r.Škápiková	1	2468
+191	Macek Ondrej	a	1	4126
+191	MACEK Ondrej	syn Michala a Terézie r.Kusalíkovej	1	2620,2621,3678,4819,4820
+191	MACEK Štefan	mladší	1	1199,2620,2621,3678,4819,4820
+191	MACEK Viktor	ž.Alžbeta r.Šedivá	1	2924
+191	MACEK Viktor	ž.Karolína r.Drábková	1	2620,2621,3678,4141,4819,4820
+191	MACEK Víťazoslav	ž.Anna r.Drinková	1	1627,1628,1629,1630,2131,2622,2623,2760,2781,3282,3487,3511,3554,3558,3583
+191	MACKOVÁ Albína		1	2620,2621,3678,4819,4820
+191	Macková Alžbeta	mal. dcéra Pavla	1	4686
+191	MACKOVÁ Alžbeta	r.Bízková ž.Antona	1	2622,2623,2760,2781
+191	MACKOVÁ Alžbeta	r.Deščíková ž.Jána	1	2620,2621,2622,2623,2760,2781,3678,4819,4820
+191	Macková Alžbeta r. Bízková	ž.Antona	1	1223
+191	Macková Alžbeta r. Deščíková	ž.Jána	1	2473,2474,2475,3045,3574,4383
+191	MACKOVÁ Anna	r.Butašová ž.Jána	1	2622,2623,2760,2781,3678
+191	Macková Anna r. Butašová	ž. Jána	1	4297
+191	Macková Anna r. Butašová	ž.Jána	1	2613,3759
+191	MACKOVÁ Eva	r.Smíkalová ž.Ondreja	1	2622,2623,2760,2781
+191	Macková Eva r. Smíkalová	ž.Ondreja	1	3164,3792
+191	Macková Helena	mal. dcéra Pavla	1	4686
+191	MACKOVÁ Helena	mal	1	2602,2606
+191	MACKOVÁ Helena	r.Vaňková ž.Jána	1	2760,2781
+191	Macková Helena r. Sekáčová	ž.Jozefa	1	4535

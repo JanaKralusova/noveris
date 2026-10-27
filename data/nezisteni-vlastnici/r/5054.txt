@@ -1,0 +1,256 @@
+2851	VARGA František, SK		0	2728
+2851	VARGOVÁ Magda, SK		0	2728
+2851	VAŠKO Alexander, SK		0	2857
+2851	VAŠKOVÁ Hermína, SK		0	2857
+2851	VAŠKOVÁ Jolana, SK		0	2396,2486,2611,2614
+2851	VAVRO Rudolf, SK		0	2827
+2851	VEDRÖDYOVÁ Štefánia, SK		0	2561
+2851	VEREŠ František, SK		0	2676,3124
+2851	VICENOVÁ Mária r. Klottonová, SK		0	3144
+2851	VILIČICOVÁ Helena, SK		0	2836,2853
+2851	VISELKA Ladislav, SK		0	2456
+2851	VISELKA Rudolf, SK		0	2456
+2851	VÖRÖS František, SK		0	3125,3130
+2851	VÖRÖS Štefan, SK		0	3125,3130
+2851	VOZÁR Ján, SK		0	2528,2531
+2851	VOZÁR Jozef, SK		0	2528,2531,2572
+2851	VOZÁR Michal, SK		0	2528,2531
+2851	VOZÁR Štefan, SK		0	2528,2531,2572
+2851	VOZÁROVÁ Anna, SK		0	1941,2427,2582
+2851	VOZÁROVÁ Helena, SK		0	2528,2531
+2851	VOZÁROVÁ Magdaléna, SK		0	1433,2403,2405,2407
+2851	VOZÁROVÁ Mária, SK		0	1895
+2851	VRANOVÁ Mária, SK		0	2964
+2851	VYVODÍKOVÁ Eva, SK		0	1701,2379,2570
+2851	Wood Miriam r. Suchánová, Banská Bystrica, PSČ 974 01, SK		0	2170,2173,2441,3045,3046,3267
+2851	ZELENÁ Etela, SK		0	1727
+2851	ZEMKO Jozef, SK		0	2371,2735,2797
+2851	ZEMKO Štefan, SK		0	2371,2797
+2851	ZEMKOVÁ Agneša, SK		0	2574
+2851	ZEMKOVÁ Anežka, SK		0	2735
+2851	ZEMKOVÁ Etela, SK		0	2371,2797
+2851	ZEMKOVÁ Jozefína, SK		0	2371,2797
+2851	ZEMKOVÁ Katarína, SK		0	2797
+2852	Adamec Ján	Suchár, manž. Anna r. Gábel	1	647,710,711,863,864,866,1022
+2852	Adamec Štefan	Suchár, kúpa od Košibových	1	863,864,1022
+2852	Adamík Adam	po Jonášovi Klačkovi a m.Márii	1	741
+2852	Adamík Ondrej	kúpa od Jozefa Vranku Beška	1	680
+2852	Adamík Peter	po Jonášovi Klačkovi a m.Márii	1	741
+2852	Adamíková Agneša		1	581
+2852	Adamíková Agneša r. Maťasová		1	306,310,375,379,384,390,393,403,612,646,851,936,1038,1043,1082,1091,1132,1134,1135,1150,1151,1152,1153,1161,1181,1184,1200,1204,1216,1221,1268,1292,1294,1304,1554,1555,1657,1658,1667
+2852	Andolenská Hermína r. Mikušová	po Andele Mikušovej r. Borik	1	390,1078,1185,1251,1259,1554,1555
+2852	Antal František	Višni, po Štefanovi Stránikovi	1	863,864,866,1022
+2852	Antala Štefan	Višni, manž. Zuzana r.Kováčová	1	863,864,866,1022
+2852	Antalová Anna r. Ďuračková		1	773,863,864,866,1022
+2852	Antalová Eva r. Lišková		1	243,296,298,387,389,390,392,566,586,590,597,648,650,653,913,1095,1211,1306,1330,1351,1352,1450,1452,1460,1481,1544,1554,1555,1597,1643,1669
+2852	Antalová Júlia r. Košibová		1	780,863,864,866,1022
+2852	Antalová Zuzana r. Kováčová	manž. Štefan	1	863,864,866,1022
+2852	Bačíková Alžbeta r. Holodová		1	326,337,338,347,390,416,420,424,479,588,614,763,765,768,779,802,815,1160,1172,1230,1554,1555
+2852	Bačíková Alžbeta r. Holodová	LSR	0	778,801
+2852	Bačiková Anna r. Ďurišová		1	432,499
+2852	Bačíková Jozefína r. Raganová		1	667
+2852	Baránková Hermína r. Hrubišová	manž. Adam	1	390,1554,1555
+2852	Barátová Anna r. Švikruhová		1	746,863,864,866,1022
+2852	Belan Adam		1	334,435,455,829,831,840,855,1461
+2852	Belan Jozef		1	237,359,521,1045,1049,1050
+2852	Belan Juraj		1	659,760,1412
+2852	Belan Juraj	po Anne r. Pajtinkovej	1	188
+2852	Belan Juraj	ž.Anna,rod.Mišáková	1	760,1412
+2852	Belan Milan		1	334,455,829,831,840,855
+2852	Belan Ondrej		1	334,430,435,493,529,606,760,831,840,1136,1137,1155,1173,1412,1462,1651,1660
+2852	Belan Štefan		1	237,334,359,390,430,493,529,606,724,739,831,840,855,970,1136,1137,1173,1462,1554,1555,1651,1660
+2852	Belan Štefan	zomr. 9.11.1969, ž.Alžbeta rod.Matejková	1	390,430,435,437,438,521,659,733,777,808,811,842,862,965,1155,1174,1274,1279,1281,1402,1404,1407,1456,1554,1555,1558,1611,1620,1680
+2852	Belan Štefan	ž.Anna,rod.Holá	1	334,390,430,493,529,606,831,840,1136,1137,1173,1462,1554,1555,1651,1660
+2852	Belanová Alžbeta r. Matejková	1903	1	334,383,430,435,437,438,493,521,529,606,659,724,733,739,777,808,811,831,840,842,855,862,965,970,1136,1137,1155,1173,1174,1274,1279,1281,1402,1404,1407,1456,1462,1558,1578,1611,1620,1651,1660,1680
+2852	Belanová Alžbeta r. Mikušová	manž. Ondrej	1	237,359,383,390,435,437,521,659,808,811,842,862,1155,1174,1274,1402,1404,1554,1555,1578,1611
+2852	Belanová Angela	po Anne r. Pajtinkovej	1	188
+2852	Belanová Anna		1	237,334,359,390,430,438,455,493,521,529,606,659,808,811,829,831,840,855,945,1136,1137,1173,1279,1281,1402,1404,1407,1456,1462,1554,1555,1558,1651,1660,1680
+2852	Belanová Anna	po Jurajovi Belanovi, s Alojzom	1	383,390,435,437,842,862,1155,1174,1274,1554,1555,1578,1611
+2852	Belanová Anna r. Kašičková		1	1045,1049,1050
+2852	Belanová Antónia		1	237,359,390,510,657,659,808,809,811,862,985,1155,1429,1449,1554,1555,1640,1645,1677
+2852	Belanová Magda r. Kuchtová		1	1373
+2852	Belanová Mária r. Valjentová		1	753,764
+2852	Belanová Mária r. Valjentová	zomr. 22.9.1971	1	237,359,390,1554,1555
+2852	Belanová Štefánia		1	237,334,359,383,390,430,435,437,438,493,521,529,606,659,808,811,831,840,842,862,970,1136,1137,1155,1173,1174,1274,1279,1281,1402,1404,1407,1456,1462,1554,1555,1578,1611,1651,1660,1680
+2852	Bellan Štefan		1	390,435,437,842,862,1155,1174,1274,1554,1555,1611
+2852	Bellan Štefan	po Anne Holej r. Bellanovej	1	390,435,437,842,862,1155,1174,1274,1554,1555,1611
+2852	Benešová Anna		1	913
+2852	Benešová Anna r. Mikušová	po Jozefovi	1	237,359,366,367,369,372,390,461,463,467,544,590,616,691,825,938,1179,1352,1452,1554,1555,1565,1583,1584,1669
+2852	Benešová Anna r. Mikušová	po Jozefovi; LSR	0	692,826
+2852	Bezáková Genoveva r. Raganová		1	390,408,592,1232,1242,1246,1256,1257,1259,1274,1406,1407,1411,1554,1555
+2852	Bezáková Genoveva r. Raganová	LSR	0	1227,1233,1258
+2852	Bičan Adam	vl. z r. 1894	1	863,864,866,1022
+2852	Bičan Ján	kúpa od Štefana a Anny	1	863,864,866,1022
+2852	Bičan Ján	po Adamovi	1	863,864,866,1022
+2852	Bičan Jozef	po Adamovi	1	863,864,866,1022
+2852	Bičan Štefan		1	312,1239,1271,1300,1589,1606
+2852	Bičan Štefan	po Adamovi	1	863,864,866,1022
+2852	Bičan Štefan	ž.Juliana,rod.Srncová	1	311,1166
+2852	Bičanová Agneša r. Boriková		1	1088
+2852	Bičanová Andela	po Štefanovi	1	863,864,866,1022
+2852	Bičanová Juliana	po Štefanovi	1	863,864,866,1022
+2852	Bičanová Juliana r. Srncová		1	311,312,1166,1271,1300,1589,1606
+2852	Bičanová Karolína	po Štefanovi	1	863,864,866,1022
+2852	Bičanová Karolína r. Mikušová		1	658
+2852	Bičanová Zuzana r. Vranková	manž. Peter	1	863,864,866,1022
+2852	Blahová Justína		1	390,1481,1554,1555
+2852	Bohúň Jozef	po Adamovi	1	647
+2852	Bohúň Ondrej	po Adamovi	1	863,864,866,1022
+2852	Bohúň Ondrej	zomr. 21.9.1966, ž. Anna r. Hanková	1	866
+2852	Bohúňová Anna	po Adamovi	1	866
+2852	Bohúňová Anna r. Hanková	m. Ondrej	1	866
+2852	Bohúňová Katarína r. Košinová		1	863,864,866,1022
+2852	Bohúňová Mária r. Pavlisová		1	337,339,348,390,803,806,885,1076,1107,1115,1158,1176,1385,1401,1413,1554,1555,1613
+2852	Bohúňová Zuzana	po Kataríne r. Košinovej	1	863,864,866,1022
+2852	Borik Gabriel		1	386,390,408,410,669,1066,1068,1188,1213,1232,1234,1241,1242,1247,1250,1278,1554,1555,1588,1678
+2852	Borik Gabriel	LSR	0	1227,1233,1240
+2852	Borik Gustáv		1	1088
+2852	Borik Ján	zomr. 21.6.1972, ž. Angela r. RAganová	1	311,312,390,395,1554,1555,1589
+2852	Borik Jozef		1	306,311,377,382,390,395,630,631,1088,1166,1167,1239,1271,1300,1554,1555,1606,1657,1674
+2852	Borik Jozef	maloletý	1	397,398,934,1088,1166,1239,1303,1676
+2852	Borik Matúš		1	630
+2852	Borik Šimon		1	306,312,374,376,390,394,396,934,1056,1554,1555,1567,1589,1617,1657,1675
+2852	Boriková Agneša		1	1088
+2852	Boriková Andelka	po Gustávovi, súr. Júlia, Mária, Štefan	1	1088
+2852	Boriková Angela r. Raganová		1	325,390,615,1241,1244,1253,1257,1554,1555,1679
+2852	Boriková Angela r. Raganová	LSR	0	1227,1240,1258
+2852	Boriková Júlia		1	312,1088,1589
+2852	Boriková Karolína		1	306,312,374,376,390,394,396,934,1056,1554,1555,1567,1589,1617,1657,1675
+2852	Boriková Mária	maloletá	1	1088,1166,1290
+2852	Boriková Mária	po Jozefovi	1	390,1554,1555
+2852	Boriková Štefánia r. Lišková		1	296,297,298,1544
+2852	Boriková Zuzana		1	320,1493
+2852	Boríková Zuzana r. Suchá	Šípkov	1	863,864,866,1022
+2852	Božiková Angela r. Raganová		1	1185
+2852	Božiková Jolana r. Hrubišová	zomr. 22.10.1957	1	334,386,390,520,527,602,829,831,840,1173,1185,1462,1554,1555,1588,1660
+2852	Bôriková Júlia r. Lišková	zomr. 11.5.1973	1	390,597,648,1095,1306,1554,1555
+2852	Bôriková Verona r. Bičanová		1	863,864,866,1022
+2852	Bučko František	po Jánovi	1	863,864,866,1022
+2852	Bučko František	po Jurajovi	1	863,864,866,1022
+2852	Bučko Ján	Gal, manž. Katarína r. Bohúň	1	656
+2852	Bučko Ján	kúpil Ondrej Adamec Suchár	1	866
+2852	Bučko Ján	maloletý	1	1180
+2852	Bučko Ján	manž. Anna r. Jančová	1	863,864,866,1022
+2852	Bučko Ján	po Alžbete	1	863,864,866,1022
+2852	Bučko Ján	po Anne Bučkovej Beňovej	1	680
+2852	Bučko Ján	po Jánovi	1	863,864,866,1022
+2852	Bučko Ján	po Jánovi a Anne r.Maťasovej,z.31.3.1968	1	328,330,351,363,390,427,436,441,447,491,508,522,593,594,595,608,609,639,641,642,777,842,944,955,956,965,976,1147,1173,1174,1344,1373,1388,1423,1432,1437,1444,1453,1454,1554,1555,1611,1619,1620,1660,1672,1681
+2852	Bučko Ján	po Jánovi a Anne r.Maťasovej,z.31.3.1968; LSR	0	822
+2852	Bučko Ján	po Jozefovi	1	863,864,866,1022
+2852	Bučko Ján	po Jurajovi	1	863,864,866,1022
+2852	Bučko Ján	po Štefanovi	1	863,864,866,1022
+2852	Bučko Ján	s Jurajom	1	630,632,642
+2852	Bučko Ján	súrodenci Štefan, Ondrej	1	511,803,835,972
+2852	Bučko Ján	vl. z r. 1881	1	866
+2852	Bučko Ján	vl. z r. 1894	1	673,863,864,1022
+2852	Bučko Jozef		1	436,441,511,522,593,639,733,803,816,835,852,943,951,953,981,1004,1174,1388,1423,1437,1439,1611
+2852	Bučko Jozef	kúpa od Apolónie Dvorskej	1	863,864,866,1022
+2852	Bučko Jozef	kúpil Ondrej Adamec Suchár	1	866
+2852	Bučko Jozef	LSR	0	822
+2852	Bučko Jozef	na Jána a Júliusa	1	866
+2852	Bučko Jozef	vl. z r. 1894	1	863,864,1022
+2852	Bučko Jozef	ž.Katarína,rod.Tuchinová	1	527
+2852	Bučko Július	po Jánovi	1	656,680,793,794,863,864,866,1022
+2852	Bučko Július	zom. 29.08.1984	1	328,330,351,353,427,436,491,508,594,595,598,608,609,621,641,642,777,842,943,944,955,956,965,976,981,1004,1147,1173,1174,1180,1344,1375,1432,1437,1440,1444,1453,1454,1611,1619,1620,1660,1672,1681
+2852	Bučko Ondrej		1	330,351,353,390,491,508,511,522,608,609,972,1173,1373,1388,1423,1432,1437,1443,1461,1554,1555,1619,1660
+2852	Bučko Ondrej	po Márii Maťášovej	1	863,864,866,1022
+2852	Bučko Ondrej	po Štefanovi	1	866
+2852	Bučko Ondrej	vl. z r. 1894	1	863,864,866,1022
+2852	Bučko Pavol	po Jánovi	1	656,680,793,794,863,864,866,1022
+2852	Bučko Štefan		1	733,976,1437,1444
+2852	Bučko Štefan	kúpa od Apolónie Dvorskej	1	863,864,866,1022
+2852	Bučko Štefan	vl. z r. 1894	1	673,863,864,866,1022
+2852	Bučková Agneša		1	328,353,436,511,594,608,609,733,777,803,816,835,842,852,943,944,951,953,955,956,965,972,976,981,1004,1174,1444,1611,1620,1672
+2852	Bučková Agneša	LSR	0	822
+2852	Bučková Alžbeta		1	328,360,390,441,593,639,944,1554,1555,1672
+2852	Bučková Alžbeta	maloletá	1	353,360,363,390,427,447,471,620,777,955,956,965,976,1147,1344,1437,1439,1440,1444,1453,1454,1554,1555,1620,1681
+2852	Bučková Alžbeta	maloletá; LSR	0	822
+2852	Bučková Anežka	maloletá	1	360,443,491,523,524,525,598,600,604,818,950,960,963,1389,1442,1443
+2852	Bučková Anna		1	360,443,491,523,524,525,594,598,600,604,608,609,816,818,852,950,951,953,960,963,1389,1442,1443
+2852	Bučková Anna	LSR	0	822
+2852	Bučková Anna r. Bučková	manžel Štefan	1	328,330,351,352,353,360,390,428,436,441,443,471,491,508,510,511,523,524,525,584,594,598,600,604,608,609,620,733,777,803,818,835,842,943,944,950,955,956,960,963,965,972,976,981,1004,1104,1173,1174,1389,1430,1432,1442,1443,1444,1461,1554,1555,1611,1619,1620,1660,1672
+2852	Bučková Anna r. Bučková	manžel Štefan; LSR	0	822
+2852	Bučková Anna r. Habáňová	manž. Ján	1	721,722,863,864,866,1022
+2852	Bučková Erža		1	842
+2852	Bučková Jozefína	po Jánovi	1	656,680,793,794,863,864,866,1022
+2852	Bučková Júlia	Ďurčová, vl. z r. 1894	1	863,864,1022
+2852	Bučková Júlia	po Jánovi	1	656,680,793,794,863,864,866,1022
+2852	Bučková Júlia	po Jurajovi	1	863,864,866,1022
+2852	Bučková Júlia	po Štefanovi	1	863,864,866,1022
+2852	Bučková Karolína	po Jozefovi	1	863,864,866,1022
+2852	Bučková Karolína	po Jozefovi Paulisovi ž. s Annou	1	656,680,793,794,863,864,866,1022
+2852	Bučková Katarína r. Bohúňová	Galová	1	656
+2852	Bučková Katarína r. Tuchinová		1	527
+2852	Bučková Lucia		1	1444
+2852	Bušíková Amália r. Ďurišová		1	543
+2852	Černáková Mária r. Bučková		1	863,864,866,1022
+2852	Čupan Jozef	zomr. 30.11.1968, ž. Eva r. Kuchtová	1	390,555,764,1272,1554,1555
+2852	Čupanová Eva r. Kuchtová		1	390,517,518,519,587,588,1344,1507,1554,1555
+2852	Čupanová Eva r. Kuchtová	manž. Jozef	1	764
+2852	ČUPANOVÁ Eva, ŠÍPKOV, SR	rod. Kuchtová	1	1347
+2852	Daniš Rudolf	kúpa od Štefana Ďurča	1	714
+2852	Daniš Štefan	kúpa od Štefana Ďurča	1	714
+2852	Daniška Alojz		1	1252
+2852	Daniška Ernest	zomr. 10.10.1974, ž. Mária r. Matejová	1	390,1554,1555
+2852	Danišková Anna r. Nová	manž. Michal	1	1484
+2852	Danišová Mária	kúpa od Štefana Ďurča	1	714
+2852	Dengová Anna r. Valjentová		1	373,390,448,449,484,594,1145,1178,1208,1356,1476,1554,1555
+2852	Doktorová Anna r. Žiklová	manž. Štefan	1	863,864,866,1022
+2852	Doktorová Júlia r. Bičanová		1	863,864,866,1022
+2852	Dorušencová Juliana r. Mikušová		1	1078,1185
+2852	Dorušincová Júlia r. Mikušová		1	1251,1259
+2852	Dorušincová Júlia r. Mikušová	po Andele Mišákovej r. Borik	1	390,1185,1251,1554,1555
+2852	Dubovská Anna r. Šiková		1	863,864,866,1022
+2852	Ďuračka Ján	po Anne r. Košibovej	1	863,864,866,1022
+2852	Ďuračka Ondrej	po Anne r. Košibovej	1	773,863,864,866,1022
+2852	Ďuračka Štefan		1	1112
+2852	Ďuračková Štefánia r. Ďuračková		1	773,863,864,866,1022
+2852	Ďurčo Adam	Janči, po Adamovi /vl.z r.1894	1	863,864,866,1022
+2852	Ďurčo Ján	Janči, manž. Anna r. Bučková	1	863,864,866,1022
+2852	Ďurčo Ján	Janči, po Eve vyd. Gergelovej	1	863,864,866,1022
+2852	Ďurčo Ján	manž. Anna r. Bučková	1	863,864,866,1022
+2852	Ďurčo Ján	od Júlie Sucharovej Bučkovej r.Ďurčovej	1	710,711
+2852	Ďurčo Ján	otec Jozef	1	863,864,866,1022
+2852	Ďurčo Ján	po Kataríne Klačkovej r. Ďurčo	1	866
+2852	Ďurčo Jozef	po Alžbete r. Habovej	1	863,864,866,1022
+2852	Ďurčo Jozef	po Jozefovi	1	863,864,866,1022
+2852	Ďurčo Michal	po Anne r. Adamcovej, m. Ján	1	863,864,866,1022
+2852	Ďurčo Ondrej	kúpa od Anny rod. Bučkovej	1	680
+2852	Ďurčo Ondrej	po Jozefovi	1	863,864,866,1022
+2852	Ďurčo Štefan	po Jánovi	1	863,864,1022
+2852	Ďurčo Štefan	po Jánovi; LSR	0	866
+2852	Ďurčová Anna r. Bučková		1	863,864,866,1022
+2852	Ďurčová Anna r. Bučková	manž. Adam	1	863,864,866,1022
+2852	Ďurčová Anna r. Bučková	manž. Ján	1	863,864,866,1022
+2852	Ďurčová Anna r. Maťasová		1	1221
+2852	Ďurčová Anna r. Paulová	m. Jozef	1	863,864,866,1022
+2852	Ďurčová Elena	po Alžbete r. Habovej	1	863,864,866,1022
+2852	Ďurčová Júlia	po Jozefovi	1	863,864,866,1022
+2852	Ďurčová Karolína	Janči, kúpa od Jána a Zuzany	1	866
+2852	Ďurčová Katarína r. Ďurčová		1	863,864,1022
+2852	Ďuriš Adam	po Jánovi, zomr. 27.12.1971	1	282,362,390,432,481,499,543,576,637,1178,1299,1358,1477,1554,1555
+2852	Ďuriš František		1	332,341,345,350,390,432,433,469,499,500,503,508,509,515,535,536,542,543,557,569,712,728,734,739,743,853,887,1115,1156,1176,1346,1367,1368,1380,1384,1392,1393,1401,1420,1463,1554,1555
+2852	Ďuriš František	kúpa od Liškových	1	390,1554,1555
+2852	Ďuriš František	maloletý, kúpa	1	340,350,434,513,514,1401,1492
+2852	Ďuriš Gejza		1	296,297,390,1481,1544,1554,1555
+2852	Ďuriš Ján	Trubač, kúpa od Ondreja Holodu	1	390,1115,1346,1554,1555
+2852	Ďuriš Ján	Trubač, sestry Mária, Anna	1	345,390,469,501,504,728,887,1156,1346,1367,1394,1463,1554,1555
+2852	Ďuriš Ján	ž.Anna,rod.Frišáková	1	515,887,1368,1397,1425,1433,1463
+2852	Ďuriš Ján	ž.Anna,rod.Irisová	1	853
+2852	Ďuriš Ján	ž.Anna,rod.Mišáková	1	1156
+2852	Ďuriš Ján	ž.Zuzana,rod.Valjentová	1	343,515,535,538,539,1492
+2852	Ďuriš Jonáš	ž.Anna,rod.Frišáková	1	1446
+2852	Ďuriš Jozef		1	296,297,341,345,350,390,469,499,503,536,543,1115,1172,1176,1346,1393,1401,1481,1544,1554,1555
+2852	Ďuriš Juraj		1	332,343,345,350,390,433,469,500,503,508,515,535,538,539,542,557,569,576,712,728,734,853,887,1115,1156,1176,1346,1368,1380,1384,1392,1401,1420,1463,1554,1555
+2852	Ďuriš Ludovít		1	362,390,481,1178,1299,1358,1477,1554,1555
+2852	Ďuriš Matej	manž. Marta r. Mikušová	1	663,664,764
+2852	Ďuriš Ondrej		1	296,297,322,390,409,411,563,613,674,1176,1401,1448,1455,1481,1544,1554,1555
+2852	Ďuriš Peter	po Márii r. Vetrovej	1	863,864,866,1022
+2852	Ďuriš Peter	ž.Anna,rod.Novotná	1	445
+2852	Ďuriš Šimon		1	341,345,350,390,432,469,499,503,536,543,1115,1176,1346,1393,1401,1554,1555
+2852	Ďuriš Štefan		1	349,390,469,498,503,536,1115,1346,1393,1395,1401,1554,1555
+2852	Ďuriš Štefan	po Verone r. Dvorskej	1	753,764
+2852	Ďuriš Vincent		1	322
+2852	Ďurišová Agneša r. Kuchtová	po Márii Kuchtovej r.Mišák	1	404,619,665,1132,1161,1195
+2852	Ďurišová Alžbeta	od Jozefa Ďuriša	1	282,362,390,481,576,637,1178,1299,1358,1477,1554,1555
+2852	Ďurišová Alžbeta	od Jozefa Ďuriša; LSR	0	1335

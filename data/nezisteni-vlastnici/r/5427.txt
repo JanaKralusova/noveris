@@ -1,0 +1,256 @@
+3048	ZICHERMAN Šimon		1	886,961
+3048	ZUZA Jozef	vym. mal.21.8.1919	1	217,218,378,379,939
+3048	ZUZA Pavol	vym. mal.28.8.1936	1	217,218,378,379,939
+3048	ZUZA Pavol	ž. Anna r. Kundrátová	1	884
+3048	ZUZA Štefan		1	883
+3048	ZUZOVÁ Alžbeta r. Chrustičová		1	138,547,664
+3048	ZUZOVÁ Anna r. Barnová		1	883
+3048	ŽEMBERSKÝ Štefan, Bratislava, SR		1	23,607
+3048	ŽEMBERY Jozef		1	23,854,897,939
+3048	ŽEMBERY Štefan		1	23
+3049	ANDREJČÍK Ján, SR	ž.Mária r.Džobáková	1	1743
+3049	ANDREJČÍKOVÁ Alžbeta r. Ducková, SR		1	1689,1697
+3049	ANDREJČÍKOVÁ Alžbeta r. Tomková, SR		1	1262
+3049	ANDREJČÍKOVÁ Mária r. Džubáková, SR		1	1717,1829
+3049	ANDREJČÍKOVÁ Mária, SR	Džubáková	1	1797,2058
+3049	BABJAKOVÁ Mária r. Sninčáková, SR		1	1290
+3049	BACÁK Ján r. Bacák, SR	ž.Zuzana r.Šalatová	1	1633
+3049	BACÁK Michal, SR	ž.Alžbeta r.Haščová	1	1359,1516
+3049	BACÁK Pavol, SR	ž.Anna r.Božidarová	1	1637
+3049	BACÁKOVÁ Pavlína r. Mackaľová, SR		1	1226
+3049	BECO Viliam, Dr., SR		1	1539,1607
+3049	BEHÚN Andrej, SR	ž.Mária r.Krajníková	1	1651,1658,1660
+3049	BEHUN Ján, SR	č.d.2902/1939	1	1797,2058
+3049	BEHUN Ján, SR	č.d.292/1939	1	1520,1524,1568,1621,1622,1717,1829
+3049	BEHUN Ján, SR	č.d.479/1936	1	1382
+3049	BEHUN Ján, SR	ž.Mária r.Jarošová	1	1660
+3049	BEHUN Ján, SR	ž.Mária r.Šenkocová	1	1656
+3049	BEHUN Michal, SR	č.d.416/1952	1	1660,1661
+3049	BEHUN Ondrej, SR	ž.Mária r.Medárová	1	1408
+3049	BEHUNOVÁ Anna, SR	č.d.458/195	1	1657
+3049	BEHUNOVÁ Anna, SR	č.d.458/1953	1	1660
+3049	BEHUNOVÁ Mária r. Medárová, SR		1	1408
+3049	BEHUNOVÁ Mária r. Pastiráková, SR		1	1641
+3049	BEHUNOVÁ Mária, SR		1	1660
+3049	BELOVIČOVÁ Cecília, Šaľa, SR		1	1378,1379
+3049	BERLECKÁ Zuzana r. Haratimová, SR		1	1564
+3049	BERTECKÁ Zuzana r. Haratimová, SR		1	1265,1717,1797,1829,2058
+3049	BERTECKÝ Pavol, SR	ž.Zuzana r.Haratimová	1	1265,1406,1962
+3049	BERTECKÝ Vojtech, SR		1	1315
+3049	BILECOVÁ Mária r. Behunová, SR		1	1660
+3049	BIRBIČ Michal, SR		1	1717,1797,1829,2058
+3049	BIRBIČ Michal, SR	č.d.3544/1912	1	1577
+3049	BRILLA Jozef, Bratislava, SR	č.d.344/1947	1	1242,2041
+3049	BRILLA Jozef, SR		1	1559,1776
+3049	BRILLA Jozef, SR	č.d.344/1947	1	1424,1665,1717,1797,1829,2058
+3049	BRUDŇÁK Ján r. Brudňák, SR	ž.Mária r.Telepčáková	1	1201
+3049	BRUDŇÁK Ján, SR	ž.Mária r.Telepčáková	1	1420,1421
+3049	BRUDŇÁKOVÁ Anna r. Petrová, SR		1	1717,1797,1829,2058
+3049	BRUDŇÁKOVÁ Mária, SR	Jozefova dcéra	1	1476
+3049	BUJAČKO Ján	ž.Mária r.Vojtková	1	1212
+3049	BUJAČKOVÁ Mária r. Vojtková, SR		1	1226
+3049	CIMŇÁKOVÁ Zuzana r. Brudňáková, SR		1	1273
+3049	ČOPANOVÁ Alžbeta r. Stupáková, SR		1	1191
+3049	ČURILA Jozef, SR	ž.Mária r.Bogdanová	1	1551
+3049	DAVIDOVIČOVÁ Etela r. Rosenberg, SR		1	1607
+3049	DAVIDOVIČOVÁ Etela r. Rosengerg, SR		1	1539
+3049	DOLOBÁČ Jozef, SR	č.d.2100/1934	1	1829
+3049	DOLOBÁČ Jozef, SR	č.d.2835/1906	1	1431,1445,1516
+3049	DOLOBÁČ Ondrej, SR	ž.Mária r.Hlubiková	1	1727
+3049	DOLOBÁČOVÁ Anna r. Sninčáková, SR		1	1349,2022
+3049	DOLOBAČOVÁ Ján, SR	ž.Zuzana r.Čurilová	1	1491
+3049	DOLOBÁČOVÁ Pavlína r. Behunová, SR		1	1741
+3049	DORUŠOV Štefan, SR	č.d.972/1938	1	1599
+3049	DORUŠOVÁ Alžbeta r. Olexová, SR		1	1600
+3049	DUCKO Cyril, SR		1	1496,1502,1515
+3049	DUCKO Juraj, SR	ž.Emília r.Šalatová	1	1391,1515
+3049	DUCKO Michal, SR	č.d.524/1943	1	1433
+3049	DUCKO Michal, SR	ž.Mária r.Paclovčáková	1	1515
+3049	DUCKO Michal, SR	ž.Mária r.Pavlovčáková	1	1496
+3049	DUCKO Pavel r. Ducko, SR	ž.Mária r.Dolobáčová	1	1197
+3049	DUCKO-HUSÁR Michal, SR		1	1717,1730,1797,1829,2058
+3049	DUCKOVÁ Alžbeta r. Liščáková, SR		1	1730
+3049	DUCKOVÁ Anna r. Orendáčová, SR	vd	1	1776
+3049	DUCKOVÁ Emília r. Šalatová, SR		1	1587,1717,1721,1797,1829,2058
+3049	DUCKOVÁ Mária, SR	č.d.1091/1932	1	1717,1797,1829,2058
+3049	DUCKOVÁ Zuzana r. Ochmanová, SR		1	1344,1402,2014
+3049	DUPÁK Michal, SR	ž.Zuzana r.Orendáčová	1	1717,1797,1829,2058
+3049	DUPÁKOVÁ Anna, SR	č.d.3983/1938	1	1362
+3049	DUPÁKOVÁ Helena, SR	č.d.3983/1938	1	1362
+3049	DUPÁKOVÁ Mária, SR	č.d.3983/1938	1	1362
+3049	DUPÁKOVÁ Verona, SR	č.d.3983/1938	1	1362
+3049	DUPAĽ Ján, SR	č.d.1745/1910	1	1717,1797,1829,2058
+3049	DUPAĽ Ján, SR	ž.Mária r.Štofčíková	1	1717,1797,1829,2058
+3049	DUPAL Michal r. Dupal, SR		1	1080
+3049	DUPAĽ Michal, SR	č.d.1192/1949	1	1512
+3049	DUPAĽ Michal, SR	ml., č.d.1192/1949	1	1717,1797,1829,2058
+3049	DUPAĽ Michal, SR	ž.Mária r.Hviždáková	1	1665
+3049	DUPAĽOVÁ Mária r. Brudňáková, SR		1	1717,1797,1829,2058
+3049	DUPAĽOVÁ Mária r. Hvizdalková, SR		1	1557,1665
+3049	EHRENREICH Jakub		1	1797,2058
+3049	EHRENREICH Jakub, SR		1	1440,1717,1829
+3049	FISCH Eugen, Dr., SR		1	1539
+3049	FRANKO Jozef r. Franko, SR	ž.Pavlína r.Mulerová	1	1829
+3049	FRANKO Jozef, SR	ž.Mária r.Komjátyová	1	1244,1717,1797,1829,2058
+3049	FRANKO Jozef, SR	ž.Pavlína r.Mullerová	1	1717,1797,2058
+3049	FRANKO Jozrf, SR	ž.Mária r.Komjatyová	1	1560
+3049	FRANKO Ondrej, SR	č.d.4831/1877	1	1244
+3049	FRANKO Ondrej, SR	ž.Anna r.Lukáčová	1	1520
+3049	FRANKO Štefan, SR	č.d.1957/1948	1	1717,1797,1829,2058
+3049	FRANKOVÁ Mária r. Komjatyová, SR		1	1286
+3049	FRANKOVÁ Pavlína r. Mullerová, SR		1	1280
+3049	FRANKOVÁ Verona, SR	dcéra Jozefa	1	1453,1869,2018
+3049	GAJDOŠ Ondrej, SR	ž.Mária r.Haratimová	1	1509
+3049	GAJDOŠ-BRUDŇÁK Jozef, SR	ž.Mária r.Šalatová	1	1617,1717,1797,1829,2058
+3049	GAZDA Ján r. Gazda, SR		1	1189
+3049	GOBANOVÁ Zuzana r. Ducková, SR		1	1433
+3049	GREŠKOVÁ Mária r. Slišová, SR		1	1190
+3049	HALUŠKA Štefan, SR	č.d.1433/1942	1	1309
+3049	HALUŠKOVÁ Pavlína r. Grešková, SR		1	1309
+3049	HARAKAĽ Ján, SR	ž.Alžbeta r.Orendáčová	1	1483
+3049	HAVRILČÁK Martin, SR	č.d.759/194	1	1717
+3049	HAVRILČÁK Martin, SR	č.d.759/1942	1	1543,1797,1829,2058
+3049	HAVRILČÁK Michal, SR	č.d.759/1942	1	1543,1717,1797,1829,2058
+3049	HERMAN-JAKOBOVIČ Mikša, SR		1	1691
+3049	HLUBIKOVÁ Alžbeta r. Hvižďáková, SR		1	1717,1797,1829,2058
+3049	HLUBIKOVÁ Mária r. Dolobáčová, SR		1	1241,1251,1424,2023
+3049	HLUBÍKOVÁ Mária r. Doplobáčová, SR		1	1349,2022
+3049	HREHOVÁ Zuzana r. Sninčáková, SR		1	1290
+3049	HRICOVÁ Anna r. Lacková, SR		1	1225
+3049	HUČKO Mikuláš r. Hučko, SR	č.d.2389/1935	1	1211
+3049	HUČKO Štefan, Šaľa, SR		1	1378,1379
+3049	HVIŽĎAK Ján r. Hvižďak, SR		1	1080
+3049	HVIŽĎAK Ján, SR	č.d.3677/1934	1	1512,1717,1797,1829,2058
+3049	HVIŽĎAK Michal r. Hvižďak, SR	ž.Anna r.Orendáčová	1	1080
+3049	HVIŽĎAK Michal, SR	ž.Anna r.Orendáčová	1	1387,1512,1665,1672,1698,1717,1797,1829,2058
+3049	JABLONSKÁ Pavlína r. Šalatová, SR		1	1587,1717,1721,1797,1829,2058
+3049	JAKUBOVIČ Alexander, SR		1	1520,1717,1797,1829,2058
+3049	JAKUBOVIČ Alexander, SR	vzd	1	1776
+3049	JAKUBOVIČ Herman r. Mor, SR		1	1776
+3049	JAKUBOVIČ Herman, SR		1	1520,1717,1797,1829,2058
+3049	JAKUBOVIČ Irena, SR	vzd	1	1776
+3049	JAKUBOVIČ Viliam, SR		1	1520,1717,1797,1829,2058
+3049	JAKUBOVIČ Viliam, SR	vzd	1	1776
+3049	JAKUBOVIČOVÁ Irena, SR		1	1520,1717,1797,1829,2058
+3049	JAKUBOVIČOVÁ Seréna r. Moškovičová, SR		1	1545
+3049	JOZEFOVIČ Ignác, SR		1	1282,1414
+3049	JOZEFOVIČ Mor		1	1536
+3049	JOZEFOVIČOVÁ Jolana r. Jozefovičová, SR		1	1282,1414
+3049	JURIČKOVÁ Marta r. Magočová, 06601, Humenné, SR		1	1733
+3049	JURIČKOVÁ Marta r. Magočová, Humenné, SR		1	1375
+3049	KARANDYSZOWSKÁ Anna r. Šalatová, SR		1	1250,1437
+3049	KARANDYSZOWSKÁ Mária r. Birbičová, SR		1	1606,1717,1797,1829,2058
+3049	KARANDYSZOWSKÁ Mária r. Vojniková, SR		1	1520,1528
+3049	KARANDYSZOWSKÝ Ondrej, SR		1	1520,1528
+3049	KARANDYŠEVSKÝ František, SR	ž.Etela r.Lenartovičová	1	1829
+3049	KARANDYŠOWSKÁ Anna r. Šalatová, SR		1	1839
+3049	KAROĽOVÁ Božena r. Sivčová, SR		1	1654,1660,2080
+3049	KIKET Štefan, SR	ž.Mária r.Eissová	1	1440
+3049	KIRETOVÁ Mária r. Eissová, SR	m.Štefan	1	1440
+3049	KLUBERT Štefan, SR	ž.Alžbeta r.Petrová	1	1674
+3049	KOHUT Ján, SR	D 671/36	1	1738
+3049	KOHUT Michal, SR	D 671/39	1	1738
+3049	KOHUTOVÁ Mária r. Brillová, SR		1	1738
+3049	KOMJATY Andrej, SR	ž.Anna r.Vološinová	1	1366,1410
+3049	KOMJATY Ondrej, SR	ž.Anna r.Dupáková	1	1545
+3049	KOMJATY Ondrej, SR	ž.Anna r.Lukáčová	1	1480
+3049	KOMJÁTY Štefan, SR	ž.Anna r.Dupáková	1	1717,1797,1829,2058
+3049	KOMJATYOVÁ Alžbeta r. Vološinová, SR		1	1459,1498
+3049	KOMJATYOVÁ Anna r. Vološinová, SR		1	1366,1691
+3049	KOROMHÁZOVÁ Mária r. Tomková, SR		1	1409
+3049	KOVAĽ Ján, SR	ž.Pavlína r.Ondisková	1	1687
+3049	KRAJNÍK Ján, SR	ž.Anna r.Kakošová	1	1648
+3049	KRAJNÍKOVÁ Mária r. Kuľusová, SR		1	1381,1717,1797,1829,2008,2058
+3049	KRÍDLA Ján r. Krídla, SR	syn Michalov	1	1223
+3049	KRIDLA Ján, SR	syn Michala	1	1797,1829,2058
+3049	KRIDLA Ján, SR	syn Michalov	1	1717
+3049	KRIDLOVÁ Mária r. Orendáčová, SR		1	1478,1479
+3049	KRÍDLOVÁ Mária r. Šalatová, SR		1	1463
+3049	KUCER Ján, SR	syn Ondrejov	1	1491
+3049	KUCER Ondrej, SR	ž.Alžbeta r.Sninčáková	1	1509
+3049	KUCEROVÁ Zuzana, SR	č.d.4775/1934	1	1491
+3049	KURUCOVÁ Anna r. Dolobáčová, SR		1	1241,1251,1349,1424,2022,2023
+3049	LABANCOVÁ Alžbeta r. Andrejčíková, SR		1	1713
+3049	LABUDOVÁ Pavlína r. Pčolová, SR		1	1539,1607,1717,1797,1829,2058
+3049	LACKO Ondrej r. Lacko, SR	ž.Mária r.Šalatová	1	1189
+3049	LECÁK Ondrej r. Lecák, SR	ž.Mária r.Lukáčová	1	1200
+3049	LECÁK Vacláv r. Lecák, Za amfiteátrom 2311/2, Košice 1-Sever, PSČ 04001, SR	ž.Jozefína r.Ficová	0	1200
+3049	LECÁKOVÁ Mária r. Lukáčová, SR		1	1200
+3049	MAGOČ Ján r. Magoč, 06601, Humenné, SR		1	1375,1733
+3049	MAJERČÍKOVÁ Anna r. Havrilčaková, SR		1	1543,1717,1797,1829,2058
+3049	MEDAR Michal, SR	č.d.1602/193	1	1717
+3049	MEDAR Michal, SR	č.d.1602/1937	1	1797,1829,2058
+3049	MEDÁR Michal, SR	ž.Pavlína r.Čižmárová	1	1408
+3049	MEDÁR Štefan	maloletý	0	2085
+3049	MEDÁROVÁ Alžbeta, SR		1	1408
+3049	MEDÁROVÁ Anna		0	2085
+3049	MEDAROVÁ Pavlína, SR	č.d.1602/38	1	1293,1446,1603,1717,1797,1829,1992,2058
+3049	MEDÁROVA Verona	maloletá	0	2085
+3049	MEDAROVÁ Verona, SR	mal., č.d,1602/38	1	1293
+3049	MEDAROVÁ Verona, SR	mal., č.d.1602/38	1	1189,1446,1603,1717,1797,1829,1992,2058
+3049	MELICHER František, Šaľa, SR		1	1378
+3049	MELICHEROVÁ Mária, Šaľa, SR		1	1378,1745
+3049	MIŠ Ondrej, SR	ž.Mária r.Dolobáčová	1	1509
+3049	MLEJČÍK Michal, SR	ž.Mária r.Andrejčíková	1	1665
+3049	MLEJČIKOVÁ Mária r. Andrejčíková, SR	m.Michal	1	1665
+3049	MOLNÁROVÁ Mária r. Gazdová, SR		1	1189
+3049	MUKA Michal, SR	ž.Mária r.Olexov	1	1829
+3049	MUKA Michal, SR	ž.Mária r.Olexová	1	1605,1717,1797,2058
+3049	MUKAOVÁ Eva r. Baulová, SR		1	1605
+3049	MUKOVÁ Eva r. Bavlová, SR		1	1717,1797,1829,2058
+3049	NÁLEPKOVÁ Pavlína r. Halušková, SR		1	1309
+3049	ORENDÁČ Ján r. Orendáč, SR	č.d.199/1955	1	1208
+3049	ORENDÁČ Ján, SR	č.d.201/1955	1	1413,1500,1518
+3049	ORENDÁČ Ondrej, SR	č.d.4018/1932	1	1723
+3049	ORENDÁČOVÁ Anna r. Sagvaničová, SR		1	1301,1578,1717,1797,1829,2058
+3049	ORENDÁČOVÁ Mária r. Ducková, SR		1	1270
+3049	ORENDÁČOVÁ Mária r. Komjatyová, SR		1	1480
+3049	ORENDÁČOVÁ Mária r. Mullerová, SR		1	1442,1464,1509
+3049	PASTIR Ján, SR	č.d.3854/1934	1	1611,1717,1725,1797,1829,2058
+3049	PASTIR Michal, SR	ž.Anna r.Bujačková	1	1665
+3049	PASTIR Michal, SR	ž.Anna r.Lukáčová	1	1717,1797,1829,2058
+3049	PASTÍR Michal, SR		1	1611
+3049	PASTIR Pavol, SR	č.d.3854/1934	1	1611,1717,1725,1797,1829,2058
+3049	PAŠKOVÁ Anna r. Petrová, SR		1	1504
+3049	PATAKI Juraj, SR		1	1509
+3049	PČOLA Štefan, SR	syn Michala	1	1539,1607,1717,1797,1829,2058
+3049	PEKALOVÁ Pavlína, SR		1	1509
+3049	PETRO Andrej, SR	č.d.717/1943	1	1580
+3049	PETRO Jozef, SR	č.d.717/194	1	1797,2058
+3049	PETRO Jozef, SR	č.d.717/1943	1	1678,1717,1829
+3049	PETRO Michal r. Petro, SR	č.d.717/1943	1	1831
+3049	PETRO Michal, SR	č.d.2633/1933	1	1694
+3049	PETRO Michal, SR	č.d.717/1943	1	1292,1570,1580,1665,1667,1678,1717,1797,1829,1991,2058
+3049	PETRO Michal, SR	D 571/92	1	1675
+3049	PETRO Ondrej, SR	ž.Anna r.Ochmanová	1	1580,1717,1797,1829,2058
+3049	PETROVÁ Anna r. Ochmanová, SR		1	1344,1402,1569,1612,1695,1717,1797,1829,2014,2058
+3049	PETROVÁ Mária r. Haratimová, SR		1	1665
+3049	PODPINKOVÁ Anna r. Brudňáková, SR		1	1476
+3049	PRUSÁKOVÁ Mária r. Šalatová, SR		1	1587,1717,1721,1797,1829,2058
+3049	PUPAN Michal r. Pupan, SR	č.d.358/59	1	1191
+3049	RAČKO Michal, SR	ž.Margita r.Krajníková	1	1627,1660
+3049	RAČKOVÁ Alžbeta r. Bilecová, SR		1	1627,1660
+3049	RAJŇAKOVÁ Verona, SR		1	1365,1430,1443
+3049	RINDZÁK Jozef, SR	ž.Anna r.Fedorková	1	1680
+3049	ROSENWASSER Vojtech, SR		1	1520
+3049	ROSENWASSEROVÁ Jolana, SR		1	1520
+3049	ROSIN Elena r. Jakubovič, SR	vzd	1	1776
+3049	ROSINOVÁ Elena r. Jakubovičová, SR		1	1520,1717,1797,1829,2058
+3049	RUŽOHORSKÝ Eugen, SR		1	1539,1607
+3049	RYDARSKÁ Mária r. Bilecová, SR		1	1628
+3049	RYDARSKÝ Michal, SR	ž.Mária r.Bilecová	1	1628
+3049	SAVKANIČ Štefan, SR		1	1342
+3049	SAVKANIČOVÁ Mária r. Ducková, SR		1	1717,1797,1829,2058
+3049	SIŇAVSKÝ Ján, SR	ž.Mária r.Černá	1	1631
+3049	SIŇAVSKÝ Michal, SR	č.d.4501/1934	1	1631
+3049	SITKOVÁ Anna r. Mankovičová, SR		1	1561
+3049	SKLENČÁR Ján, SR	ž.Verona r.Sninčáková	1	1290,1878,2040
+3049	SKLENČÁR Michal r. Sklenčár, SR	ž.Mária r.Hanuščáková	1	1203
+3049	SKLENČÁROVÁ Mária r. Hanuščáková, SR	m.Michal	1	1203
+3049	SKLENČÁROVÁ Verona r. Sninčáková, SR		1	1290,1878,2040
+3049	SLIŠ Andrej r. Sliš, SR		1	1190
+3049	SNINČÁK Pavol, SR	č.d.1495/1913, syn Jána	1	1290
+3049	SNINČÁKOVÁ Alžbeta r. Brudňáková, SR		1	1201
+3049	SNINČÁKOVÁ Anna r. Orendáčová, SR		1	1290,1878,2040
+3049	SUŠKOVÁ Anna r. Koromhazová, SR	m.Viktor	1	1587
+3049	SZABO Ibola r. Rubin, SR		1	1776

@@ -1,0 +1,256 @@
+306	MADZINOVÁ Mária		1	771
+306	MADZINOVÁ Mária	vyd HAĽKOVÁ	1	771
+306	MADZINOVA Maria NP NP		0	528,972
+306	MADZINOVA Maria vyd HALKOVA HRABOVCIK vyd. HALKOVA HRABOVCIK		0	458
+306	MARUSINOVA Anna r MICAKOVA zomrela zomrela		0	972
+306	MEDVECOVA Anna NV NV		0	528,972
+306	MERVOVA Anna r SANGRIKOVA zomrela zomrela		0	951
+306	MICAK Vasil zomrel zomrel		0	528,972
+306	MICOVA Helena NP ZSSR NP ZSSR		0	491,527,528,536,552,622,915,972
+306	MIKITKA Teodor zomrel zomrel		0	704
+306	MIKITKOVA Maria r BARANOVA zomrela zomrela		0	699
+306	MILA Julia r VIRAVCOVA zomrela zomrela		0	745
+306	MURINOVA Anna NV NV		0	543
+306	MURINOVA Anna r PRUSAKOVA		0	497,528,638,972
+306	NOGOVA Maria NV NV		0	527,528,543,915,972
+306	PAVLISIN Jan	1, zomrel	0	719
+306	PERHAC Demko zomrel NV NV zomrel		0	527,528,672,915,972
+306	PERHAC Demko zomrel NV zomrel NV		0	451
+306	PERHAC Elias NP NP		0	454
+306	PERHAC Gregor NV NV		0	496
+306	PERHAC Juraj NV NV		0	451,454,672
+306	PERHACOVA Anna r DZOGANOVA		0	527,528,915,972
+306	PERHACOVA Helena r PETRIKOVA zomrela zomrela		0	492
+306	PERHÁČ Demko		1	887
+306	PERHÁČ Juraj		1	887
+306	PETROVA Milina r HUDAKOVA		0	735
+306	PIPAS Ján		1	146
+306	PIPAS Jan zomrel zomrel		0	730
+306	PIPASOVA Anna r HUDAKOVA zomrela zomrela		0	735
+306	PISANSKA Maria r KUCHARIKOVA		0	543
+306	PISANSKY Mikulas NV NV		0	458
+306	PISANSKÝ Mikuláš		1	771,849
+306	POLAK Elias NV NV		0	543
+306	RAGAN Andrej zomrel zomrel		0	715
+306	RAGAN Juraj zomrel zomrel		0	715
+306	RAGAN Teodor zomrel zomrel		0	715
+306	RATICOVÁ Anna	r HUDÁKOVÁ	1	853,978
+306	ROMPILA Andrej		1	116
+306	ROMPILA Andrej zomrel zomrel		0	611,613
+306	ROMPILA Michal		1	116
+306	ROMPILA Michal zomrel K zomrel K		0	523
+306	ROMPILA Michal zomrel zomrel		0	527,528,915,972
+306	ROMPILOVA Anna r KRAJNAKOVA		0	528,972
+306	ROMPILOVA Helena r PISANSKA zomrela zomrela		0	649
+306	ROMPILOVA Helena zomrela zomrela		0	523
+306	ROMPILOVA Julia NV USA NV USA		0	457,493,569,611,920,921
+306	ROMPILOVA Maria NV NV		0	523,528,972
+306	SAFKOVA Helena NV NV		0	527,528,915,972
+306	SANGRIK Andrej zomrel zomrel		0	574
+306	SANGRIKOVA Helena r DURKOTOVA zomrela zomrela		0	527,528,625,915,972
+306	SANGRIKOVA Maria zomrela NV zomrela NV		0	525
+306	SANGRIKOVA Maria zomrela zomrela		0	574
+306	SASARAK Jozef zomrel zomrel		0	722
+306	SASARAKOVA Helena r ZAHARDALOVA zomrela zomrela		0	743
+306	SAVKOVA Helena r VANUSOVA zomrela zomrela		0	514,527,528,915,972
+306	SEGEDOVA Anna zomrela zomrela		0	524,527,528,915,972
+306	SLIVKA Vasil zomrel zomrel		0	728
+306	SOLANIC Fedor zomrel zomrel		0	717
+306	SOLANIC Peter	M, zomrel	0	709
+306	SOLANIC Peter	S, zomrel	0	717
+306	SOLANICOVA Maria zomrela KANADA zomrela KANADA		0	717
+306	STEFANISIN Andrej zomrel zomrel		0	744
+306	STEFANISIN Demeter zomrel USA zomrel USA		0	744
+306	STEFANISIN Michal	1, zomrel USA	0	744
+306	STEFANISIN Michal zomrel zomrel		0	744
+306	STEFANISINOVA Anna zomrela NV zomrela NV		0	744
+306	STEFANISINOVA Anna zomrela USA zomrela USA		0	744,745
+306	STEFANISINOVA Helena r STEFANISINOVA zomrela zomrela		0	744
+306	STEFANISINOVA Helena zomrela NV zomrela NV		0	744
+306	STEFANISINOVA Julia zomrela zomrela		0	744
+306	STEFANISINOVA Maria NV NV		0	744
+306	STEFANISINOVA Maria zomrela NV zomrela NV		0	744
+306	SURGENTOVA Julia r HODERMANOVA		0	747
+306	ŠANGRÍKOVÁ Helena	r DURKOTOVÁ	1	843
+306	VANSA Michal NV NV		0	747
+306	VANSOVA Anna NV USA NV USA		0	747
+306	VANUS Fedor zomrel zomrel		0	543
+306	VANUSANIK Andrej zomrel zomrel		0	737
+306	VANUSANIKOVA Maria r HUDAKOVA zomrela zomrela		0	737
+306	VANUSOVA Maria r HANINCIKOVA		0	527,528,915,972
+306	VARCHOLA Andrej zomrel KANADA zomrel KANADA		0	705
+306	VARCHOLA Fedor zomrel zomrel		0	705
+306	VASILISKOVA Maria r VIRAVCOVA zomrela zomrela		0	745
+306	VASKO Andrej NV NV		0	543,577,651,661,683
+306	VASKO Jan NV NV		0	892
+306	VASKO Juraj NV NV		0	543,577,651,661,683
+306	VASKOVA Anna NV NV		0	892
+306	VAŠKO Andrej		1	874
+306	VAŠKO Juraj		1	874
+306	VIRAVEC Juraj zomrel zomrel		0	745
+306	VOVK Jan zomrel USA zomrel USA		0	726
+306	VOVK Jozef zomrel USA zomrel USA		0	726
+306	VOVK Peter zomrel USA zomrel USA		0	726
+306	VOVKOVA Helena r MICKANINOVA zomrela zomrela		0	718
+306	VOVKOVA Helena zomrela USA zomrela USA		0	726
+306	VOVKOVA Zuzana zomrela USA zomrela USA		0	726
+306	WEISS Tibor NV NV		0	744
+306	WEISSOVA Erika r JUSZTOVA		0	744
+306	ZAHARDALA Jan NP NP		0	743
+306	ZAHARDALA Michal NP NP		0	743
+306	ZAHARDALOVA Anna NP NP		0	743
+306	ZAHARDALOVA Helena zomrela zomrela		0	743
+307	Adamišová Emma		1	1489,1693
+307	APFELOVÁ Frida r. Samková		1	1822
+307	Baďura Ján		1	1829
+307	BAĎUROVÁ Helena r. Poláčková		1	1829
+307	Bachna František		1	1608
+307	Bachna Ján		1	1606,1608
+307	Balhárková Ľudmila r. Vávrová	č.d. 433/1941	1	1180
+307	Bauer Alfréd		1	1617
+307	Bauer Alojz		1	1617
+307	Bauer Emil, Dr.		1	1617
+307	Bedová Terézia r. Srnčiková		1	1823
+307	Beňák Cyprian	ž. Mária Menkynová	1	1883
+307	Beňák Jozef	ž.Mária Režn	1	756
+307	Beňák Ľudovít	zomrel 12.01.1985	0	756
+307	Beňák Štefan	ž.Mária Hamrlíková	1	1599
+307	Beňák Vincent	zomrel, súrodenci Jozef a Hedviga Jánoš	1	808,1862
+307	Beňáková Agneša r. Mikušková	zomrela 8.5.1949	1	807,809,810,812
+307	Beňáková Anna r. Peterková	USA	1	756,1745
+307	Beňáková Katarína		1	756
+307	Beňáková Mária r. Hamrliková		1	1599
+307	Beňáková Mária r. Režnáková	manžel Jozef, zomrela 26.2.1966	1	756,1011,1013,1602,1631,1745
+307	Bílik Alojz	ž. Mária Franková	1	1912
+307	Bíliková Mária r. Franková	m. Alojz	1	1912
+307	Bilka Alexander	zomrel	1	1693,1745,1904
+307	Bilka Ján	ž. Anastázia	1	1832
+307	Bilková Margita	zomrela	1	1829
+307	Bilková Mária r. Závišová		1	1025
+307	Borovičková Helena r. Baďurová		1	1829
+307	Búranová Mária r. Sedlačková		1	1838
+307	Čavojská Katarína r. Srnčíková		1	1823
+307	Čerešník Pavol	zomrel, posl. bytom Brezová pod Bradlom	1	1069,1699
+307	Černá Terézia r. Bilková		1	1832
+307	Černý Jozef		1	1832
+307	Čičová Mária r. Jánošová	zomrela v Hornom Čipeni	1	738,739,756,1693,2197,2267,2268
+307	Dudek Cyprian	zomrel 22.11.1968	1	716
+307	Dudková Mária r. Michalicová	zom.6.05.1993	0	740,741,742,743,744,745,746,747,748,749,750,756,1648,1678
+307	Engelman Jozef		1	756,1259,1693
+307	Engelman Július		1	756,1259,1693
+307	Engelman Ladislav		1	756,1259,1693
+307	Engelman Šandor		1	756,1259,1693
+307	Engelmanová Zuzana r. Krausová		1	756,1259,1693
+307	Feldbauer Samuel, Dr.		1	1597
+307	Ferencová Mária r. Peterková		1	756,1409,1745
+307	Filip Augustin		1	1835
+307	Filip Jozef	ž. Rozália	1	1835
+307	Filipová Rozália r. Holičová	m. Jozef	1	1835
+307	Frank Anton		1	1912
+307	Frank Ján		1	1912
+307	Garett Ivan	č.d. 328/1950	1	1596,1882
+307	Gažová Mária r. Glindová	zomrela 25.4.1977 v Jablonici	0	752,763
+307	Gembeš Ján	zomrel	1	752
+307	Gerber Adolf, Dr.		1	756
+307	Grab Julius	USA	1	1698
+307	Grnavá Ludmila		1	756,1693
+307	Hájiček Viliam	zomrel 30.6.1993 v Horných Orešanoch	0	713,715
+307	Hajtmánek Pavol		1	1546
+307	Halabrín Pavol	ž.Anna Janáková, zomrel 17.9.1975	1	716
+307	Halabrínová Anna r. Janáková	zomrela	1	756
+307	Harnúšek Jozef	ž. Terézia Sovíčková	1	1693,1743,1744
+307	Holič Jozef	ž.Katerína Závodná	1	1713
+307	Holič Štefan		1	1543,1544,1545,1546
+307	Holičová Mária r. Cigánková	muž Jozef	1	1821
+307	Horňák Albert		1	756,1080,1693,2008
+307	Horňák Jozef	ž.Agneša r.Peterková	1	756
+307	Horňák Leopold	súrodenci: Hedviga, Štefan, Viliam	1	1636
+307	Horňák Štefan	súrodenci: Hedviga, Leopold, Viliam	1	1636
+307	Horňáková Agneša r. Peterková	m.Jozef	1	756,1409,1745
+307	Horňáková Agneša r. Váverková		1	1636
+307	Horňáková Hedviga	súrodenci: Štefan, Leopold, Viliam	1	1636
+307	Horňáková Katarína	č.d.1286/1890	1	1693
+307	Imrišková Katarína r. Búdová		1	970
+307	Janák Augustín		1	756
+307	Janák Florián	súrodenci: Agneša a Ignác	1	756,1508,1745,2258,2262
+307	Janák František	ž. Cecília r. Tomková	1	1925
+307	Janák Ján	ž.Mária	1	789
+307	Janák Jozef	vl. 328	1	1776
+307	Janák Karol	č.d. 1649/32, 1367/37, 1471/40, 406/42	1	9,756,782,783,784,785,788,789,1434,1745,1771,2092
+307	Janák Štefan	č.d. 1649/32, 1367/37, 1471/40, 406/42	1	9,783
+307	Janáková Anna r. Oslejová	zomrela 23.8.1959	1	756,1305,1745,2111
+307	Janáková Helena r. Jurkovičová		1	756,1693
+307	Janáková Karolína r. Peterková		1	1417,1445,1446
+307	Janáková Mária r. Krchňavá		1	782,783
+307	Janáková Mária r. Radočáková		1	783
+307	Janigová Agneša r. Peterková	zom. 14.01.1978	0	756,1050,1409,1417,1419,1445,1446,1519,1655
+307	Janigová Alžbeta r. Ochránková		1	1839
+307	Jánoš Ondrej	zom. 4.01.1959, ž. Rozália Juráňová	0	756,1289
+307	Jánoš Pavol	zomrel 2.02.1968	1	739,756,1693,2268
+307	Jánoš Štefan	zom. 2.12.1966, ž. Katarína r. Hološková	0	991
+307	Jánoš Štefan	zom.2.12.1966, ž. Katarína r. Hološková	0	745
+307	Jánoš Štefan	ž.Katarína	1	756,774,1693
+307	Janošíková Anna r. Hajtmánková		1	710
+307	Jánošíková Anna r. Nemcová		1	1743,1744
+307	Jánošová Alžbeta	vl.1625	1	961
+307	Jánošová Hedviga r. Valúchová		1	1647
+307	Jánošová Katarína r. Režnáková	zomrela 26.4.1975	1	1858
+307	Jánošová Mária r. Peterková		1	1745
+307	Jarásová Katarína r. Peterková		1	1859
+307	Jarásová Kristína r. Juráňová	zom. 2.11.1999	0	1487
+307	Jarásová Mária r. Michalicová		1	756,1457,1537,1543,1745,1867,1886,2300
+307	Jaššo Jozef	zom. 15.01.1994	0	756,844
+307	Juráň Ján	vl.130	1	1552
+307	Juráň Ján	vl.579	1	756,1693
+307	Juráň Martin	vl.579	1	756,1693
+307	Juráň Vendel	vl. 164 č.d. 422/1916	1	756,1290,1443,1693,1986
+307	Juráňová Anna r. Ondrušová	m.Ondrej	1	1487,1693
+307	Juráňová Karolína r. Mikulčíková	zom. 19.02.1995	0	702,703,745,756,991
+307	Juráňová Mária r. Keračiková		1	756,1693
+307	Juráňová Mária r. Kovalovská		1	756
+307	Juráňová Mária r. Petrášová		1	1538,1693
+307	Juráňová Mária r. Valentová		1	1859
+307	Juráňová Rozália r. Štefánková	zomrela 22.4.1973	1	756,1693
+307	Juriček Štefan	vl.84	1	1614
+307	Juriga Pavol	ž.Mária Valúchová, č.d.4994/1908,3750/18	1	1680
+307	Jurík Ján		1	1826
+307	Juríková Anna	súrodenci: Mária, Terézia Zemanová, Ján	1	1826
+307	Juríková Mária	vl.347	1	1826
+307	Jurovatá Katarína		1	1693
+307	Jurovatá Margita		1	756,1502,1745,1937,2286,2287,2309,2310
+307	Jurovatá Mária		1	756,1502,1745,1937,2286,2287,2309,2310
+307	Jurovatá Mária r. Hološková		1	1533
+307	Jurovatá Rozália	2	1	756,1502,1745,1937,2286,2287,2309,2310
+307	Jurovatý Albert		1	756,1502,1745,1937,2286,2287,2309,2310
+307	Jurovatý František		1	756,1502,1745,1937,2286,2287,2309,2310
+307	Jurovatý Jozef		1	1669,1712
+307	Jurovatý Jozef	súrodenci: Vendelín, Agneša Petrášová	1	756,1502,1745,1772,1937,2286,2287,2309,2310
+307	Jurovatý Lukáč		1	815,1712
+307	Jurovatý Pavol		1	756,1502,1745,1937,2286,2287,2309,2310
+307	Jurovatý Štefan		1	1772
+307	Jurovatý Vendelin		1	756,1502,1745,1772,1937,2286,2287,2309,2310
+307	Jurovatý Viliam		1	756,1502,1745,1937,2286,2287,2309,2310
+307	Kadličková Pavla r. Mojžišová		1	794,1050,1876,1887
+307	Kaiser Ignác		1	1611
+307	Kaiser Simon		1	1611
+307	Kanich Pavel	USA	1	756,1693
+307	Kanich Štefan	st., manž. Anna Vávrová, č.d. 3926/1905	1	756,1576,1682
+307	Kanichová Mária		1	756,1693
+307	Kanichová Rozália		1	756,1693
+307	Kencaly Kornel, Dr.		1	1882
+307	Keračík Cyprián	Nemecko	1	1097
+307	Keračík Jozef	zomrel, posl.byt.Ban.Bystrica	1	756,1451
+307	Keračík Pavel	zom. 13.03.1977, ž. Mária	0	1096,1518,1927
+307	Keračíková Helena	mal	1	756,777,1693
+307	Keračíková Karolína r. Obúlaná	zom. 5.11.1979	0	749,1467,1927
+307	Keračíková Rozália r. Viteková		1	756,777,1610,1693,2131
+307	Kiss Rudolf		1	1823
+307	Kissová Júlia		1	1823
+307	Kleinová Ella r. Winterová		1	756,931,971,1745
+307	Kohlerová Pavla r. Pavlíková		1	756,1347,1545,1693
+307	Kolarič Jakub		1	1545
+307	Kolaričová Helena r. Pavlíková		1	1545
+307	Kolníková Agneša r. Keračíková	č.d.1328/1936, USA	1	756,1451
+307	Kopúnek Štefan a Mária Kopúnková r. Janáková		0	913
+307	Kovalovská Mária r. Krchňavá		1	1914
+307	Kovalovský Jozef	ž.Mária Krchňavá	1	756,1914

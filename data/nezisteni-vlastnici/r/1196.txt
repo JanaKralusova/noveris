@@ -1,0 +1,256 @@
+694	Nagyváradyová Júlia	mal	0	71
+694	Nagyváradyová Verona	mal	0	71
+694	Nosáľ Ivan	mal. syn Juraja	0	454
+694	Nosáľ Július	mal. /syn Juraja/	0	454
+694	Nosáľ Július	Tolstého 14, Rimavská Sobota	0	457
+694	Nosáľová Mária r. Machinjaková	manž. Juraj	0	456
+694	Odler Ondrej	manž. Františka Odlerová	0	422
+694	Odlerová Františka r. Odlerová	manž. Ondrej	0	422
+694	Odlerová Verona r. Jósvaiová	čs.147, zomr	0	71
+694	Öhlbaumová Rozália r. Kleinová	manž. Adolf	0	392
+694	Olmanová Zuzana	mal. dcéra Štefana	0	440
+694	Ošvarth František	zomr	0	426
+694	Pálová Alžbeta r. Kovácsová	manž. Ignác	0	92
+694	Parteleky Gizela r. Szitaiová		0	121
+694	Pavlenková Helena		0	71
+694	Pavlenková Magdaléna	dcéra Jozefa	0	71
+694	Petrocká Irma r. Vinczeová	manž. Ján	0	92
+694	Putnokyová Mária r. Botošová	manž. Pavol	0	98,101
+694	Rabosai Štefan		0	360,394
+694	Rabosai Štefan	syn Michala	0	360,394
+694	Rabosaiová Terézia r. Čavnická	vd	0	360,394
+694	Rácz Ernest	manž. Mária Beňová	0	378
+694	Ráczová Hermína r. Danyiová	vd	0	378
+694	Rajsziová Judita r. Vinczeová	manž. Ľudovít	0	177
+694	Rajsziová Júlia r. Csotóová	manž. Ľudovít	0	71
+694	Randlíšek Ján	zomr., manž. Mária Gembická	0	371
+694	Randlíšeková Mária r. Gembická	zomr., manž. Ján	0	371
+694	Rapecová Johana r. Kuszová		0	408
+694	Sarkady Barnabáš	syn Jozefa	0	375
+694	Sarkady Štefan	manž. bola Margita Jakabová	0	375
+694	Sarkadyová Júlia r. Rabusaiová		0	215
+694	Sarkadyová Júlia r. Rabušaiová	vd	0	375
+694	Simonová Estera r. Kovácsová	manž. Štefan	0	92,382
+694	Stríček Alexander	manž. Terézia Cetnerová	0	484
+694	Stríčková Terézia r. Cetnerová	manž. Alexander	0	484
+694	Szabóová Lýdia r. Vinczeová	manž. Július	0	363,364,367,368,369,470,480
+694	Szajko Tivadar	manž. Šarlota Varadiová	0	407
+694	Szekér Štefan	st. zomr., manž. Júlia Földiová, čs.37	0	41
+694	Szirotková Gizela r. Kovácsová	manž. Jozef	0	489
+694	Szitai Alexander	zomr., čs.101	0	121
+694	Szitai Barnabáš		0	404,498
+694	Szitai Dezider		0	404,498
+694	Szitai Gejza		0	121
+694	Szitai Ladislav		0	404,498
+694	Šándor Július		0	455
+694	Šándor Ondrej	mal. syn Štefana	0	373
+694	Šándor Štefan		0	373
+694	Šándor Štefan	manž. Mária Demeterová	0	276
+694	Šándorová Mária r. Olmanová		0	373
+694	Unter Barnabáš	zomr., čs.82, Hodejovec	0	92
+694	Vargová Estera r. Vinczeová	manž. Alexander	0	482
+694	Vaszková Matilda r. Csomosová	vd. manž. Štefan	0	371
+694	Vince Ľudovít		0	177
+694	Vincze Ján	barna, syn Jána	0	370,371,398
+694	Vincze Ladislav	slabomyseľný	0	477
+694	Vincze Ľudovít	syn Štefana	0	471
+694	Vincze Ľudovít	syn Vojtecha	0	371
+694	Vincze Zoltán	manž. Anna Kulichová	0	464
+694	Vincze Zoltán	zomr., čs.130	0	472
+694	Vinczeová Alžbeta	mal	0	441
+694	Vinczeová Anna r. Kulichová	manž. Zoltán	0	464
+694	Vinczeová Helena	vd. čs.22, Gortva	0	393,406
+694	Vinczeová Júlia r. Domonkošová		0	397
+694	Vinczeová Júlia r. Rajsziová	manž. Vojtech	0	245
+694	Vinczeová Margita	dcéra Gustáva	0	177
+694	Vinczeová Margita r. Sándorová	čs.39, Hodejov	0	107
+694	Vinczeová Mária r. Gorászová	manž. Ján	0	474
+694	Vinczeová Mária r. Kovácsová	manž. Ladislav	0	92
+694	Vinczeová Terézia r. Vinczeová	manž. Július	0	264,363,364,367,368,369,371,372
+694	Visnyai Jozef	mal. Vári, syn Jozefa	0	446
+694	Völdi František		0	459
+694	Výboštek Pavol	manž. Valéria Kuszová	0	71,461
+694	Výbošteková Valéria r. Kuszová	manž. Pavol	0	71
+695	ANTOL Matej, SR		0	259,383,421,430,462,605,608,682,911,1011
+695	ANTOL Ondrej, SR	zom. 12.05.1979	0	260,383,409,421,430,461,462,605,682,684,708,857,914,936,937,952,953,977
+695	ANTOL Ondrej, SR	zom. 12.5.1979	0	259
+695	ANTOLOVÁ Zuzana r. Líšková, SR	zom. 11.06.1990	0	260,430,461,462,463,652,684,695,708,723,743,936,937,952,953,977
+695	ANTOLOVÁ Zuzana r. Líšková, SR	zom. 11.6.1990	0	259
+695	BENICKÝ JÁN r. BENICKÝ, SR	žena Antónia r. Melegová	0	581
+695	BENICKÝ Ján, SR	zom. 11.02.1964	0	827
+695	BERNÍK Adam, SR	zom. 09.01.1976, malol	0	365,421,430,462,475,605,629,717
+695	BERNÍK Adam, SR	zom. 09.04.1976, malol	0	259
+695	BERNÍK Ján, SR	zom. 29.04.1956, malol	0	259,365,421,462,475,605,638,639,651,717,864,865,973,976
+695	BERNÍK Ján, SR	zom. 29.04.1956,malol	0	430
+695	BERNÍK Ján, SR	žena Mária r. Repová	0	583
+695	BERNÍK Jozef, SR		0	259,421,430,462,475,605,868,1008
+695	BERNÍK Matej, SR	malol	0	219,583,605,638,639,651,717,955,973,976,1005
+695	BERNÍKOVÁ Božena, SR		0	863,868
+695	BERNÍKOVÁ Mária r. Húleková, SR	zom. 04.07.1998	0	260,348,358,367,421,430,445,446,462,552,553,554,579,583,605,638,639,651,716,868,936,937,952,953,973,976,977
+695	BERNÍKOVÁ Mária r. Húleková, SR	zom. 4.7.1998	0	259
+695	BERNÍKOVÁ Mária r. Mičudová, SR		0	219,259,365,421,430,462,475,605,717,955,1008
+695	BERNÍKOVÁ Mária r. Repová, SR		0	583
+695	BERNÍKOVÁ Mária, Gôtovany, č. 26, SR	malol	0	259,365,421,430,462,475,605,717
+695	BERNÍKOVÁ Vilma r. Durná, Križná 546, Žilina, PSČ 010 04, SR		0	50,421,430,500,527,552,974,978
+695	BERNÍKOVÁ Vilma r. Durná, Križná 546, Žilina, SR		0	259,462
+695	BERNÍKOVÁ Zuzana r. Lúčanová, SR	zom. 29.12.1979	0	234,259,421,430,446,462,529,531,720,863,864
+695	BERNÍKOVÁ Zuzana r. Repová, SR		0	260,409,423,914,936,937,952,953,977
+695	BRDÁR Adam, SR	žena Zuzana r. Šimko	0	664
+695	BUBNIAK Ján, SR		0	777
+695	BUBNIAK Ján, SR	Kika	0	823
+695	BUBNIAK Peter, SR		0	777
+695	BUBNIAK Štefan, SR		0	777
+695	BUBNIAKOVÁ Eva r. Hrnčiarová, SR		0	823
+695	BUBNIAKOVÁ Otília, Ľubeľa, č. 242, SR		0	782
+695	Bukovinská Ervína r. Lehocká		0	972
+695	DAŇO Marcel, Husovo nám. 113, Litoměřice, ČR		0	259,385,421,430,462,580,587,638,639,651,656,882,973,976
+695	DAŇOVÁ Anna r. Jurgošová, SR		0	638,639,651,656,882,973,976,1005
+695	DOBÁKOVÁ Helena r. Slačeková, SR	zom. 06.08.1988	0	409,914
+695	DRBIAKOVÁ Anežka r. Kubíková, SR	Ondrášova	0	769
+695	DROPOVÁ Eva r. Martinková, SR		0	770
+695	ĎURIANOVÁ Eva r. Bubniaková, Hotel Centrál, Kremnica, SR		0	782
+695	DURNÁ Anna r. Griešová, SR	zom. 22.12.1970	0	260,708,845,936,937,952,953,977
+695	DURNÁ Zuzana r. Madliaková, SR		0	860
+695	DURNÁ Zuzana r. Šebeková, SR		0	259,421,430,462,526,527,552,583,638,639,651,661,704,805,929,973,974,976,979,980,1005,1073
+695	DURNÝ Adam, SR	zom. 10.02.1981	0	260,421,461,462,583,609,743,936,937,952,953,977
+695	DURNÝ Ján r. Šebeková, SR	žena Zuzana r. Šebeková	0	651,976,1005
+695	DURNÝ Ján, SR	žena Zuzana r. Madliaková	0	860
+695	DURNÝ Ján, SR	žena Zuzana r. Šebeková	0	260,638,639,805,936,937,952,953,973,977
+695	DURNÝ Juraj, SR	zom. 08.07.1964	0	260,708,845,936,937,952,953,977
+695	DŽGAJ Andrej, SR		0	583
+695	FEKETÍK Adam, SR	zom. 18.09.1933, žena Mária r. Lúčanová	0	667
+695	FEKETÍK František, SR	malol	0	491
+695	FEKETÍK Gustáv, SR	zom. 15.09.1991	0	583
+695	FEKETÍK Ján	1	0	667,740
+695	FEKETÍK Jozef, SR		0	491
+695	FEKETÍK Martin, SR	žena Anna r. Tuturová	0	740
+695	FEKETÍK Matej, SR	zom. 14.02.1983	0	259,260,261,262,263,264,271,421,430,462,583,638,639,659,740,844,936,937,952,953,973,977
+695	FEKETÍK Ondrej, SR		0	234,259,260,358,395,421,430,462,552,553,554,555,556,557,583,629,740,844,885,936,937,952,953,977
+695	FEKETÍKOVÁ Eva, SR	malol	0	260,583,936,937,952,953,977
+695	FEKETÍKOVÁ Margita r. Janičinová, 032 14, Gôtovany, č. 3, SR	zom. 11.04.1996	0	638,639,651,973,976
+695	FEKETÍKOVÁ Mária r. Hazuchová, SR		0	260,613,936,937,952,953,977
+695	FEKETÍKOVÁ Mária r. Lúčanová, SR	zom. 12.09.1952	0	259,261,262,263,264,265,270,271,421,430,462,601,667,724,815
+695	FEKETÍKOVÁ Mária r. Lúčanová, SR	zom. 12.9.1952	0	258,990
+695	FEKETÍKOVÁ Mária, SR	malol	0	260,583,936,937,952,953,977
+695	FEKETÍKOVÁ Mária, SR	Žgajová	0	234,259,358,421,430,462,552,553,554,555,556,557,885
+695	FEKETÍKOVÁ Zuzana r. Gemzická, SR		0	638,639,651,973,976,1005
+695	FEKETÍKOVÁ Zuzana, SR	malol	0	260,583,936,937,952,953,977
+695	GEJDOŠ Adam, SR	M.M.Haragová Šimo	0	775
+695	GEJDOŠ Ondrej, SR	M.Ž.Kochláňová Šimo	0	775
+695	GEMZICKÁ Anna r. Poliaková, SR		0	848
+695	GEMZICKÁ Emília, SR	malol	0	259,385,387,392,393,421,430,462,552,580,587
+695	GEMZICKÁ Zuzana r. Feketíková, SR	zom. 31.01.1958	0	260,688,740,851,936,937,952,953,977
+695	GEMZICKÁ Žofia, SR		0	259,421,430,445,446,462,605,638,639,651,851,973,976,1005
+695	GEMZICKÝ Andrej, SR		0	259,260,385,387,421,430,462,552,580,587,936,937,952,953,977
+695	GEMZICKÝ Bartolomej, Dechtáre, SR	zom. 09.02.1986, malol	0	259,421,430,462
+695	GEMZICKÝ Eduard, SR	zom. 06.07.1992	0	583
+695	GEMZICKÝ Gustáv, SR		0	259,260,421,430,461,462,463,472,583,723,936,937,952,953,977
+695	GEMZICKÝ Ján, SR		0	259,421,430,445,446,462,605,638,639,651,851,973,976,1005
+695	GEMZICKÝ Jozef, SR		0	259,385,387,392,393,421,430,461,462,463,472,552,580,587,613,638,639,723,851,973
+695	GEMZICKÝ Ľudovít, SR		0	259,421,430,445,446,462,605,638,639,651,851,973,976,1005
+695	GEMZICKÝ Matej, SR		0	259,260,421,430,461,462,463,472,583,723,848,936,937,952,953,977
+695	GEMZICKÝ Ondrej, SR		0	259,392,393,421,430,461,462,463,472,638,639,646,651,723,973,976,1005
+695	GEMZICKÝ Ondrej, SR	zom. 31.01.1970, ž.Zuzana r.Feketíková	0	259,260,261,262,263,264,265,270,271,430,462,601,688,724,802,936,937,952,953,977
+695	GEMZICKÝ Ondrej, SR	zom. 31.01.1970,ž.Zuzana r.Feketíková	0	421,740
+695	GEMZICKÝ Ondrej, SR	zom. 31.1.1970, ž.Zuzana r.Feketíková	0	258,990
+695	GERGELY Eugen, SR		0	638,639,651,853,973,976,1005
+695	GRIEŠ Andrej, SR		0	260,422,583,708,936,937,952,953,977
+695	GRIEŠ Dušan, 032 02, Závažná Poruba, č. 377, SR	zom. 30.06.1990	0	259,347,382,383,387,393,395,396,397,421,430,462,463,464,552,583,599,605,669,723
+695	GRIEŠ Ján	2	0	605,609
+695	GRIEŠ Ján, SR		0	259,260,383,421,430,462,583,605,608,610,612,682,911,936,937,952,953,977,1011
+695	GRIEŠ Matej, SR	zom. 04.06.1951	0	583,638,639,708,850,973
+695	GRIEŠ Ondrej, 032 14, Gôtovany, č. 25, SR	zom. 04.09.1992	0	273,638,639,714,723,973
+695	GRIEŠ Rudolf, SR	zom. 02.02.1975	0	723
+695	GRIEŠOVÁ Albína, SR		0	395
+695	GRIEŠOVÁ Emília, SR	malol	0	259,385,392,421,430,462,580,587
+695	GRIEŠOVÁ Eva r. Stavšová, SR		0	259,260,421,430,462,463,476,509,552,553,554,556,610,612,675,847,936,937,938,939,952,953,977
+695	GRIEŠOVÁ Helena r. Švecová, SR		0	757
+695	GRIEŠOVÁ Ilona, SR	malol	0	610,638,639,651,657,973,976,1005
+695	GRIEŠOVÁ Mária, SR	malol.1	0	610,638,639,651,657,973,976,1005
+695	GRIEŠOVÁ Regina, SR	malol	0	610,611,638,639,651,657,973,976,1005
+695	GRIEŠOVÁ Zuzana r. Hazuchová, SR		0	393,609
+695	GRIEŠOVÁ Želmíra, SR	malol	0	259,260,273,347,381,382,383,392,393,395,396,397,421,430,461,462,464,583,599,605,609,669,714,743,862,927,936,937,952,953,977,998,999
+695	Guoth Mikuláš		0	972
+695	GUOTH Ondrej, SR		0	738
+695	Guoth Pavel		0	972
+695	GUOTH Peter, SR		0	409,914
+695	GUOTH Peter, SR	Adamov syn	0	621,749,750
+695	GUOTHOVÁ Mária, SR	Adamova dcéra	0	621,750
+695	HARAGA Adam, SR		0	757
+695	HARAGA Bernárd, SR		0	757
+695	HARAGA Daniel, SR		0	757
+695	HARAGA Ján, SR	z pustiše	0	757
+695	HARAGA Juraj	1	0	757
+695	HARAGA Juraj r. Brdárová, SR	žena Mária	0	757
+695	HARAGA Juraj, SR		0	757
+695	HARAGA Ondrej, SR	ml.,žena Eva r. Kubíková	0	757
+695	HARAGOVÁ Mária, SR		0	757
+695	HAZUCHA Ján, SR		0	259,260,385,387,392,393,421,430,462,552,580,587,637,638,639,651,840,936,937,952,953,973,976,977,1005
+695	HAZUCHA Ján, SR	v Amerike	0	771,773,791
+695	HAZUCHA Ondrej, SR	malol	0	613,840
+695	HAZUCHOVÁ Emília r. Daňová, SR		0	259,385,421,430,462,580,587,638,639,651,656,882,973,976,1005
+695	HAZUCHOVÁ Mária, SR	malol	0	259,385,387,392,393,421,430,462,552,580,587
+695	HEXNER Adolf, SR		0	620
+695	HEXNEROVÁ Natália, SR		0	626
+695	HOLLÁ Katarína r. Balážovičová, SR	zom. 26.03.1974	0	638,639,713,973
+695	HOLLÝ Jozef, SR		0	259,273,381,421,430,462,464,743,998,999
+695	HORANSKÁ Adela r. Durná, Lipt, Kríže, SR		0	616
+695	HORANSKÁ Adela r. Durná, Lipt. Kríž, SR		0	617
+695	HORANSKÁ Adela r. Durná, Lipt. Kríže, SR		0	638,639,640,651,973,975,976,1005
+695	HRNČIAR Ignác, SR	malol	0	823
+695	HRNČIAROVÁ Mária r. Bubniaková, SR		0	823
+695	HÚLEK Andrej, SR	malol	0	259,260,348,358,362,365,367,421,430,462,552,553,554,555,556,579,595,620,716,720,838,936,937,952,953,977
+695	HÚLEK Ján, SR		0	259,367,421,430,445,446,462,555,599,605
+695	Húlek Jozef, SR		0	324,325
+695	HÚLEK Jozef, SR	zom. 04.09.1995	0	259,362,421,430,462,620,638,639,651,973,976
+695	HÚLEK Juraj, SR		0	555,595,599
+695	HÚLEK Matej, SR		0	259,260,347,348,358,362,365,367,421,430,462,464,552,553,554,555,556,579,595,620,716,927,936,937,952,953,977
+695	HÚLEK Matej, SR	žena Mária r. Hazuchová	0	839
+695	HÚLEK Ondrej	1	0	259,347,348,421,430,462,464,638,639,651,927,973,976,1005
+695	HÚLEK Ondrej, SR	zom. 12.05.1971	0	658,825
+695	HÚLEKOVÁ Elena r. Berníková, Gôtovany, č. 79, SR		0	260,409,423,638,639,651,863,914,936,937,952,953,973,976,977
+695	HÚLEKOVÁ Mária r. Feketíková, SR	manž. Juraj	0	838,839,840
+695	HÚLEKOVÁ Mária r. Hazuchová, SR		0	259,260,385,387,392,393,421,430,462,552,580,587,637,638,639,651,936,937,952,953,973,976,977,1005
+695	HÚLEKOVÁ Mária r. Kostolná, SR		0	583
+695	JANČO Matej, SR		0	463,723
+695	JANČOVÁ Eva r. Lúčanová, SR		0	463,723
+695	JURIGA Adam, SR	žena Mária r. Zobková	0	754,762
+695	JURIGA Andrej, SR		0	754
+695	JURIGA Ondrej, SR		0	754,762
+695	JURIGOVÁ Mária r. Zobková, SR		0	754,762
+695	Kacian Matej	ml	0	952
+695	KACIAN Matej, SR	ml	0	260,583,634,638,639,651,714,874,936,937,952,953,973,976,977,1005
+695	KALUŠIAK Ján, SR		0	259,421,430,462,476,509,552,553,554
+695	KALUŠIAK Matej, SR		0	674
+695	KANDEROVÁ Zuzana r. Šimková, SR		0	259,421,430,462,526,527,552,664,704,929,974,979,980,1073
+695	KASANICKÁ Gizela, SR	malol	0	409,736,826,914
+695	KASANICKÁ Hana r. Guotová, SR		0	260,583,936,937,952,953,977
+695	KASANICKÝ Adam, SR	Ferencovie,žena K.Kasanická	0	371
+695	KASANICKÝ Adolf, SR	Jánov syn	0	584
+695	KASANICKÝ Adolf, SR	Martinovie	0	409,738,739,762,829,914
+695	KASANICKÝ Ján	2	0	738
+695	KASANICKÝ Ján, SR	Martinovie z múru	0	760
+695	KASANICKÝ Ján, SR	Paulovič	0	409,914
+695	KASANICKÝ Jozef, SR		0	739,832
+695	Kasanický Peter, SR	Žufovie	0	316,319
+695	KASANICKÝ Peter, SR		0	260,583,936,937,952,953,977
+695	KASANICKÝ Vendelín, SR	zom. 16.08.1970	0	371
+695	KASANICKÝ Víťazoslav, SR	zom. 10.06.1974, Palicovie	0	742
+695	KOLÁRIK Ivan, Kamenná Poruba, č. 299, SR		0	781
+695	KOPANICKÁ Mária, SR	Ambrozova	0	583
+695	KOPNÍKOVÁ Antonia r. Kasanická, SR		0	331,371,409,577,732,736,826,914,987,1051,1068
+695	Kopníková Antónia, USA		0	332
+695	KOŠO Ján	1	0	50,259,421,430,462,500,527,552,638,639,651,705,726,814,973,974,976,978,1005
+695	KOŠO Ján	2	0	259,265,270,278,421,462,601,1062
+695	KOŠO Ján, SR	zom. 30.11.1984	0	430
+695	Košo Jozef r. Košo		0	259,358,421,430,462,552,553,554,555,556,557
+695	KOŠO Juraj, SR		0	190,258,260,265,270,601,632,638,639,642,651,695,721,936,937,952,953,973,976,977,990,1005,1009,1010
+695	KOŠO Matej, SR		0	259,265,270,278,421,430,462,692,1062
+695	KOŠO Ondrej, SR	zom. 01.01.1971	0	259,265,270,278,335,421,430,462,601,603,694,713,726,1062
+695	KOŠOVÁ Božena r. Griešová, SR	zom. 03.03.1983	0	259,260,381,382,383,392,421,430,462,464,599,651,708,862,936,937,952,953,976,977
+695	KOŠOVÁ Mária r. Lúčanová, SR		0	234,259,358,421,430,462,552,553,554,555,556,557,722,885
+695	KOŠOVÁ Mária r. Šebová, SR		0	259,265,270,278,421,430,462,601,726,1062
+695	KOŠOVÁ Zuzana r. Štetková, SR	zom. 19.05.1985	0	259,260,421,430,462,476,509,552,553,554,723,858,936,937,952,953,977
+695	KOŠOVÁ Žofia, SR	zom. 26.07.1970, malol	0	260,583,638,639,695,936,937,952,953,973,977
+695	KOŠOVÁ Žofia, SR	zom.26.07.1970, malol	0	651,976
+695	KOVÁČOVÁ Mária r. Berníková, SR		0	866

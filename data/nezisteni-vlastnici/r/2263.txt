@@ -1,0 +1,256 @@
+1301	Koľvek František, SR		0	1190,1280,1396,1564,1582
+1301	Koľvek Ján		1	1639
+1301	Koľvek Ján	manž.Katarína rod.Kušnírová	1	1639
+1301	Koľvek Ján	manž.Mária rod.Macejová	1	1639
+1301	Koľvek Ján	manž.Mária rod.Marenčíková	1	1639
+1301	Koľvek Ján	tit.ded. z 30.5.1934, č.d.4902 vl.325	0	793,1496
+1301	Koľvek Ján	tit.ded. zo 4.4.1941,č.d.516 vl.č.293	0	1573
+1301	Koľvek Ján	ž.Katarína r. Kušnírová	0	793,1529
+1301	Koľvek Ján	ž.Katarína r.Kušnír	0	922
+1301	Koľvek Ján	ž.Mária r.Macejová	0	793
+1301	Koľvek Ján	ž.Mária r.Marenčíková	0	793
+1301	Koľvek Ján r. Koľvek		1	793,1319,1543,1639
+1301	Koľvek Jozef		0	421,1164
+1301	Koľvek Jozef	po Jurajovi, vl.č.241	0	1571
+1301	Koľvek Jozef	syn Jána zomrelého 29.3.1969	0	793,1319,1543
+1301	Koľvek Jozef	syn Jána, zomrelého 29.3.1969	1	1639
+1301	Koľvek Jozef	syn Jozefov	1	1639
+1301	Koľvek Jozef	syn Jozefov - vl.236, 242,418	0	176,793,1190,1259,1396,1564
+1301	Koľvek Jozef r. Koľvek	syn Jozefa	0	799,800
+1301	Koľvek Jozef, Košická Belá 191, Košická Belá, PSČ 044 65, SR	syn Jána zomrelého 29.3.1969 syn Jána zomrelého 29.3.1969	0	1322
+1301	Koľvek Jozef, Košická Belá 191, Košická Belá, PSČ 044 65, SR	syn Jána zomrelého 29.3.1969; syn Jána zomrelého 29.3.1969	0	739
+1301	Koľvek Juraj		1	1639
+1301	Koľvek Juraj	manž.Anna rod.Kupcová	1	1639
+1301	Koľvek Juraj	tit.ded. zo 7.2.1933,č.d.882	0	793,1529
+1301	Koľvek Juraj	ž.Anna r. Kupcová	0	793
+1301	Koľvek Juraj r. Koľvek, Košická Belá 66, Košická Belá, PSČ 044 65, SR	mal	0	1461,1677
+1301	Koľvek Milan r. Koľvek		0	634,1806
+1301	Koľvek Ondrej		1	1639
+1301	Koľvek Ondrej	Madar	0	922
+1301	Koľvek Ondrej	Maďar, manž.Anna rod.Šofľáková Šofjaková	1	1639
+1301	Koľvek Ondrej	Maďar, ž. Anna r.Šofľáková Šofjaková	0	793
+1301	Koľvek Ondrej	mal., po Jurajovi	0	793
+1301	Koľvek Ondrej	maloletý po Jurajovi	1	1639
+1301	Koľvek Ondrej	po Ondrejovi mal	0	739,1319,1322
+1301	Koľvek Ondrej	tit.ded. zo 7.2.1933,č.d.882	0	793,1529
+1301	Koľvek Ondrej, mal.	po Jurajovi	0	922
+1301	Koľveková Alžbeta r. Koľveková, Košická Belá 66, Košická Belá, PSČ 044 65, SR	mal	0	1461,1677
+1301	Koľveková Anna		1	1322,1639
+1301	Koľveková Anna	mal. po Jurajovi, vl.č. 241	0	1571
+1301	Koľveková Anna	tit.ded. zo 7.2.1933,č.d.882	0	793,1529
+1301	Koľveková Janoščáková Mária r. Lenárdová	tit. ded. zo 7.3.1934,č.d.2430 vl.č.406	0	1554
+1301	Koľveková Mária , Košice, Karpatská 1		0	900
+1301	Koľveková Mária r. Kašperová	m.Juraj	0	793
+1301	Koľveková Mária r. Kašperová	manžel Juraj	1	1639
+1301	Koľveková Mária r. Koľveková, Košická Belá 66, Košická Belá, PSČ 044 65, SR	mal	0	1461,1677
+1301	Koľveková Mária r. Macejová	m.Ján	0	793,1633
+1301	Koľveková Mária r. Macejová	manžel Ján	1	1639
+1301	Koľveková Mária r. Marenčíková		0	1507
+1301	Koľveková Mária r. Marjaková		0	793,1639
+1301	Kolveková Mária r. Mihoková		1	1639
+1301	Kolveková Mária r. Mihoková	vl.č.289	0	793
+1301	Koľveková Mária r. Naršanská	Jurajova	1	793,1503,1639
+1301	Koľveková Mária r. Tormásiová	Jurajova	1	793,1501,1639
+1301	Koľveková Mária, Karpatská 1, Košice, PSČ 040 01, SR		0	1048,1049
+1301	Koscelník Jozef	Parná 16,78966 Zábřeh,ČR	0	1428
+1301	Koscelníková Barbora r. Jurčáková		0	1566
+1301	Kostelník Andrej	ž.Mária r.Valenčíková	0	1428
+1301	Kovalová Mária r. Gregová	Jozefova	1	793,1639
+1301	Kozáková Katarína r. Kissová		0	1458
+1301	Krajnák Emil	mal	0	793,1567
+1301	Krajnák Emil	maloletý	1	1639
+1301	Krajnák Štefan	mal	0	793,1567
+1301	Krajnák Štefan	maloletý	1	1639
+1301	Krajnáková Anna	mal	0	793,1567
+1301	Krajnáková Anna	maloletá	1	1639
+1301	Krajnáková Helena	mal	0	793,1567
+1301	Krajnáková Helena	maloletá	1	1639
+1301	Krajník Michal	mal. po Michalovi	0	793
+1301	Krajník Michal	maloletý po Michalovi	1	1639
+1301	Krajníková Anna	mal. po Michalovi	0	793
+1301	Krajníková Anna	maloletý po Michalovi	1	1639
+1301	Krajníková Mária	mal. po Michalovi	0	793
+1301	Krajníková Mária	maloletý po Michalovi	1	1639
+1301	Krajníková Mária r. Oľhová	vdova po Michalovi	0	1467
+1301	Krištof František	ž.Anna r.Ňaršanská	0	1531,1587
+1301	Krištof Ján	manž.Mária rod.Gottfriedová	1	1639
+1301	Krištof Ján	ž.Mária r.Gottfriedová	0	793
+1301	Krištofová Katarína r. Sedláčeková		0	1557
+1301	Krištofová Mária r. Gotfriedová		0	724
+1301	Krištofová Mária r. Gottfriedová	č.d.1556 zo 7.2.1938	0	1587
+1301	Krištofová Mária r. Gottfriedová	m.Ján, č.d.774 z 24.1.1938,č.d.996 zo 14.2.1925	0	793,1531,1587
+1301	Krištofová Mária r. Gottfriedová	manžel Ján	1	1639
+1301	Krištófová Mária r. Záriková	m.Juraj	0	1495
+1301	Kurján Alžbeta r. Jergová		0	914
+1301	Kurján Anna		0	910,911,912,913,914
+1301	Kurján Anna r. Čanár		0	578
+1301	Kurján Jozef		0	910,911,912,913,914
+1301	Kurján Jozef	po Jánovi	1	793,1639
+1301	Kurján Juraj		0	910,911,912,913,914
+1301	Kurján Juraj	po Jánovi	1	793,1639
+1301	Kurján Mária		0	910,911,912,913,914
+1301	Kurján Michal		0	910,911,912,913,914
+1301	Kurján Michal	po Jánovi	1	793,1639
+1301	Kurján Ondrej		0	910,911,912,913,914
+1301	Kurján Ondrej	manž.Mária rod.Marenčíková	1	1639
+1301	Kurján Ondrej	ž.Mária r.Marenčíková	0	793
+1301	Kurjánová Alžbeta r. Jergová		0	911,912,913
+1301	Kurjánová Alžbeta r. Jergová	m.Ján	0	793
+1301	Kurjánová Alžbeta r. Jergová	manž.Ján	1	1639
+1301	Kurjánová Alžbeta r. Jergová	manžel Ján	1	1639
+1301	Kurjánová Anna		1	793,1639
+1301	Kurjánová Anna	Jánova, r.Čanárová	0	793,1201,1540
+1301	Kurjánová Anna	Jánova, rod.Čanárová	1	1639
+1301	Kurjánová Mária		1	793,1639
+1301	Kurjanová Mária r. Marenčíková		1	793,1639
+1301	Lazárová Anna r. Bardárová		1	789,790,1057,1058,1158,1639
+1301	Lazárová Anna r. Bardárová	tit.ded.z 25.3.1938 č.d.3514	0	1637
+1301	Lázarová Anna r. Bardárová	tit.ded. 7.8.1950, č.d.3073	0	793,1575
+1301	Lenárd Ondrej	manž. Katarína rod.Tomaškovičová	1	1639
+1301	Lenárd Ondrej	ž. Katarína r.Tomaškovičová	0	793
+1301	Lenártová Anna r. Koľveková		1	793,845,1639
+1301	Lenartová Mária r. Adamčiková		0	1641
+1301	Lešková Mária r. Plichcig		1	1639
+1301	Lešková Mária r. Plichcig	vl.325	0	793,1496
+1301	Liška František	manž.Anna rod.Dorková	1	1639
+1301	Liška František	ž.Anna r.Dorková	0	793,1527,1562
+1301	Liška Juraj	mal	0	793
+1301	Liška Juraj	maloletý	1	1639
+1301	Líška Juraj	manž.Margita rod.Drabiková	1	1639
+1301	Líška Juraj	ž.Margita r. Drabiková	0	793
+1301	Lörincová Júlia r. Janoščáková		0	1428
+1301	Lukáčová Anna r. Gottfriedová	Michalova	1	1639
+1301	Lukáčová Anna r. Gottfriedová	Michalova, vl.č.215,216	0	793
+1301	Macej Andrej	syn Ondrejov	0	1011,1014,1016,1018
+1301	Macej Andrej	tit.ded. 7.8.1950,č.d.3092	0	1358
+1301	MACEJ ANDREJ		0	1011
+1301	Macej František		0	1012,1018
+1301	Macej František	manž.Mária rod.Tomaškovič	1	1639
+1301	Macej František	manž.Mária rod.Tomaškovičová	1	1639
+1301	Macej František	ž. Mária Tomaškovič	0	958,1012,1017
+1301	Macej František	ž.Mária Tomaškovič	0	793,1010,1014,1018,1019,1355,1357,1358
+1301	Macej František	žena Mária Tomaškovič	0	1011
+1301	Macej František r. Macej	ž. Mária Tomaškovič	0	1016
+1301	Macej Ján	manž.Katarína rod.Mihoková	1	1639
+1301	Macej Ján	syn Ondrejov	1	793,1010,1011,1012,1014,1016,1017,1018,1019,1355,1357,1358,1639
+1301	Macej Ján	ž.Katarína Mihoková	0	793,1378,1763,1769,1770
+1301	Macej Ján r. Macej	ž. Katarína Mihoková	0	1717
+1301	Macej Johan		0	1014
+1301	Macej Jozef		1	793,958,1010,1011,1012,1014,1016,1017,1018,1019,1355,1357,1358,1639
+1301	Macej Juraj	manž.Anna rod.Marenčíková	1	1639
+1301	Macej Juraj	ž.Anna r.Marenčíková	0	793
+1301	Macej Ondrej	syn Ondrejov	1	793,958,1010,1012,1017,1019,1355,1357,1358,1639
+1301	Macej Viktor		1	793,1010,1011,1012,1014,1016,1017,1018,1019,1355,1357,1358,1639
+1301	Macejová Anna r. Marenčiková		1	729,793,1103,1104,1376,1639
+1301	Macejová Anna r. Tomaškovičová	m.Michal	0	1569,1583,1706
+1301	Macejová Katarína r. Adamčíková	Jurajova	1	793,1484,1639
+1301	Macejová Margita r. Šležáková		0	793
+1301	Macejová Mária r. Sedláčková		0	1557,1559
+1301	Macejová Mária r. Tomaškovičová		1	780,1639
+1301	Macejová Mária r. Tomaškovičová	tit.kúpy 2.4.1943,č.d.348	0	793,1617
+1301	Macejová Mária r. Záriková		0	795,797,853,1165,1258,1280,1777,1778
+1301	Mačingová Katarína	Michalova, r.Barveníková	0	793,1506
+1301	Mačingová Katarína	Michalova, rod.Barveníková	1	1639
+1301	MALICKY JOZEF		1	885,887,1639
+1301	Malický Jozef	č.p.188	0	793,1539
+1301	Marenčík Alžbeta r. Hromy		0	1087
+1301	Marenčík Andrej		1	1639
+1301	Marenčík Andrej	manž.Mária r.Marenčiková	0	793,1396
+1301	Marenčík Andrej	manž.Mária rod.Bardárová	1	1639
+1301	Marenčík Andrej	manž.Mária rod.Marenčiková	1	1639
+1301	Marenčík Andrej	tit.ded. 18.6.1935,č.d.7522	0	793,1396
+1301	Marenčík Andrej	ž.Mária r. Bardárová	0	793
+1301	Marenčik Ján		1	728,729,793,1103,1104,1376,1417,1418,1424,1639
+1301	Marenčík Ján	manž.Anna rod.Čarná	1	1639
+1301	Marenčík Ján	Tit. ded. D 530/48 čd.3077/50; Tit. ded. D 530/48 čd.3077/50	0	793
+1301	Marenčík Ján	Tit.ded. D 530/48 CD.3077/50	0	776,1252,1420,1619
+1301	Marenčík Ján	Tit.Ded. D 530/48 CD.3077/50; Tit.Ded. D 530/48 CD.3077/50	0	1419,1599
+1301	Marenčík Ján	ž.Anna Čarná	0	793,863
+1301	Marenčík Ján	ž.Anna Čarny	0	741
+1301	Marenčík Ján r. Marenčík		0	41
+1301	Marenčik Jozef		1	728,729,793,1103,1104,1376,1639
+1301	Marenčík Juraj	manž.Anna rod.Plichtová	1	1639
+1301	Marenčík Juraj	syn Jána	0	1417,1418
+1301	Marenčík Juraj	ž. Anna r. Plichtová	0	793,1419,1420,1599
+1301	Marenčík Juraj r. Marenčík		0	41
+1301	Marenčík Vladimír		0	1424
+1301	Marenčíková Alžbeta r. Hromá	Janova	1	793,1639
+1301	Marenčíková Alžbeta r. Chromá	vdova po Jánovi	1	1639
+1301	Marenčíková Alžbeta r. Chromá	vdova, m.Ján	0	793,1490
+1301	Marenčiková Anna	Jánova, r. Čarná	0	793,1402
+1301	Marenčiková Anna	Jánova, rod. Čarná	1	1639
+1301	Marenčíková Katarína r. Macejová		0	1717
+1301	Marenčíková Mária r. Horná		0	188
+1301	Marenčíková Mária r. Rzuhovská	zom.11.01.2009 zom.11.01.2009	1	1657
+1301	Margecanská Alžbeta		1	1639
+1301	Margecanská Alžbeta	mal., vl.č.369	0	1530
+1301	Margecanská Alžbeta	vl.č.370, vl.č.17	0	793,1403,1409,1642
+1301	Margecanská Anna		1	1639
+1301	Margecanská Anna	tit.ded. z 23.10.1926,č.6933	0	793,1403,1530
+1301	Margecanská Anna	vl.č.370, vl.č.17,vl.č.18	0	793,1403,1409,1642
+1301	Margecanská Anna Rose		1	1639
+1301	Margecanská Anna Rose	vl.č.370, vl.č.17	0	793,1403,1409,1642
+1301	Margecanská Katarína		1	1639
+1301	Margecanská Katarína	tit.ded. z 23.10.1926,č.6933, tit.ded.16.11.1936,č.d.13513	0	793,1403,1530
+1301	Margecanská Margita		1	1639
+1301	Margecanská Margita	mal., vl.č.369	0	1530
+1301	Margecanská Margita	vl.č.370, vl.č.17	0	793,1403,1409,1642
+1301	Margecanský Andrej	mal., vl.č.370, vl.č.17	0	793,1403,1409,1642
+1301	Margecanský Andrej	maloletý	1	1639
+1301	Margecanský Ján		1	1639
+1301	Margecanský Ján	tit.ded. z 23.10.1926,č.6933, tit.ded.16.11.1936,č.d.13513	0	793,1403,1530
+1301	Margecanský Ján	vl.13	0	793,1402
+1301	Margecanský Ján	vl.č.370, vl.č.17,vl.č.18	0	793,1403,1409,1642
+1301	Margecanský Jozef		1	1639
+1301	Margecanský Jozef	tit.ded. zo 16.11.1936,č.d.13513,tit.ded.8.2.1937,č.d.2266	0	793,1403,1409,1530
+1301	Margecanský Jozef	vl.č.370	0	1642
+1301	Margecanský Juraj		1	1639
+1301	Margecanský Juraj	vl.č.370,vl.č.17	0	793,1403,1409,1642
+1301	Margecanský Viliam	mal., vl.č.370, vl.č.17	0	793,1403,1409,1642
+1301	Margecanský Viliam	maloletý	1	1639
+1301	Margečanská Mária r. Hozová	m.Juraj	0	793,1403
+1301	Margečanská Mária r. Hozová	manž.Juraj	1	1639
+1301	Marjak František	ž.Mária r.Krištofová	0	793
+1301	Marjak Ján		0	1132
+1301	Marjak Ján	manž.Zuzana rod.Antonova	1	1639
+1301	Marjak Ján	ž.Zuzana Antonova	0	793,834,1662
+1301	Marják Juraj	manž.Júlia rod.Kašperová	1	1639
+1301	Marják Juraj	slobodný, po Jánovi	1	793,1639
+1301	Marják Juraj	ž.Júlia Kašperová	0	793
+1301	Marjaková Mária r. Gottfriedová	m.Andrej	0	793
+1301	Marjaková Mária r. Gottfriedová	manžel Andrej	1	1639
+1301	Mesárošová Anna r. Jakšová		0	1084
+1301	Mičkášová Anna r. Drábiková	m.Jozef	0	793
+1301	Mičkášová Anna r. Drábiková	manžel Jozef	1	1639
+1301	Mihaľová Mária r. Prokopová	v USA	1	793,1639
+1301	Mihok Andrej	manž.Anna rod.Findoráková	1	1639
+1301	Mihok Andrej	ž.Anna r.Findoráková	0	793
+1301	Mihok Ján		1	1639
+1301	Mihok Ján	vl.č.289	0	793
+1301	Mihók Ján	tit.kúpy z 11.2.1926,č.d.678 vl.č.311	0	793
+1301	Mihok Juraj		1	948,1290,1328,1329,1639,1782,1783,1785,1786,1815
+1301	Mihok Juraj	č.p. 110	0	793,1605
+1301	Mihok Viktor		1	1639
+1301	Mihok Viktor	vl.č.289	0	793
+1301	Mihoková Anna	nezlet., tit.ded. zo 7.3.1934,č.d.2430 vl.č.158, 405	0	1614
+1301	Mihoková Anna r. Findoráková		1	793,1434,1435,1639
+1301	Mihóková Anna r. Naršanská	Jurajova	1	793,1503,1639
+1301	Mihóková Katarína r. Kandráčová	zomr. 31.5.1966	1	793,1639
+1301	Mihoková Mária		1	716,793,1639
+1301	Mihóková Mária r. Záriková	m.Ján	0	793
+1301	Mihóková Mária r. Záriková	manž.Ján	1	1639
+1301	Milerová Mária r. Šelembová		0	1429
+1301	Mlynárová Mária r. Hajdučková	predtým vydatá Hrabkovská	1	793,1639
+1301	Moravčík Mária r. Tomaškovič		0	825
+1301	Moravčíková Mária r. Tomaškovičová		1	793,1639
+1301	NALEVANKO JOZEF		0	627
+1301	Nalevanková Mária r. Ňaršanská		0	793
+1301	Ňarjašová Veronika r. Ňaršanská		0	1211
+1301	Ňarjašová Veronika r.Ňaršanská		0	627
+1301	Ňaršanská Alžbeta r. Marenčíková		0	41,1599
+1301	Ňaršanská Alžbeta r. Marenčíková	m.Andrej Ňaršanský-Grega	0	793,1417,1418
+1301	Ňaršanská Margita r. Bardár		0	849
+1301	Ňaršanská Margita r. Bardárová		0	1576
+1301	Naršanská Mária r. Gregová	vdova po Jánovi	1	793,1503,1639
+1301	Ňaršanská Mária r. Hoza		1	793,962,1342,1639,1726
+1301	Ňaršanská Mária r. Kašper		0	668

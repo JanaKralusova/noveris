@@ -1,0 +1,256 @@
+350	SKULECOVA ALZBETA R.BRANYIKOVA		0	543
+350	Skulecová Alžbeta r. Branyiková		0	309,428,536
+350	SOLČANIOVÁ ZLATICA R.RICHTEROVÁ		0	323,732,733,788
+350	Stefankovics František		0	542
+350	SULAK JAN		0	540
+350	SULAK JOZEF		0	453
+350	SULAK STEFAN		0	453
+350	SULAKOVA HELENA R.BERTHOVA		0	412
+350	Šemelková Alžbeta r. Palinkášová	Pozba	0	817
+350	Šemnická Berta r. Bartha	č. 63	0	824
+350	Šemnický Ondrej	č. 63	0	824
+350	Šooš Ján	č. 30	0	845
+350	Šooš Jozef	č.d. 35	0	862
+350	Šoošová Alžbeta r. Szollosi	č. 30	0	845
+350	Šoošová Verona r. Pathyová	č.d. 35	0	862
+350	Tátoš Ľudovít	č. 82	0	860
+350	Tátošová Alžbeta r. Michačová	č. 82	0	860
+350	TOTH IMRICH		0	457
+350	TOTHOVA BARBORA R.BARANYOVICSOVA		0	522
+350	TOTHOVA MARIA R.LIKAVCANOVA		0	297
+350	TRNKA KAROL		0	195,447,700,867
+350	Trnka Ondrej	č.d. 15	0	835
+350	Trnková Júlia r. Kliská	č.d. 15	0	835
+350	Víghová Alžbeta r. Oravcová		0	817
+350	VODICKA PAVOL		0	454
+350	VODICKOVA BARBORA R.RICHTEROVA		0	454
+350	Vodička Pavel		0	811
+350	Vodička Pavel	č. 98	0	849
+350	Vodičková Barbora r. Richterová	č. 98	0	849
+350	Vodičková Boriša		0	811
+350	Voršányová Anna r. Šooš	č. 143	0	851
+350	WEISZ MARK		0	302
+350	ZAHUMENSKA HELENA R.PAULOVICOVA		0	706,707,708
+350	ZAHUMENSKY VINCENT		0	706,707,708
+350	Záhumenszká Helena r. Paulovicsová		0	893
+350	ZAHUMENSZKA HELENA R.PAULOVICSOVA		0	361,752
+350	ZAHUMENSZKY VINCENT		0	361,752
+350	Záhumenszky Vincent r. Záhumenszky		0	893
+351	ANTAL Alexej r. Antal	zom.27.5.1988	0	1381,1849
+351	ANTAL Michal , SR		0	1849
+351	BALIOVÁ Rozália r. Szárazová , SR		0	22
+351	BALIOVÁ Terézia r. Polinová , SR		0	77,1845
+351	BLAHOVÁ Agneša r. Šubová , SR		0	624
+351	BÓDIOVÁ Rozália r. Šubová	Branč 259	0	75,195,253,616,624,1233,1840
+351	CIEGEROVÁ Anna r. Šubová	Malý Cetín 10	0	75,195,253,616,624,1840
+351	CSAMPAIOVÁ Alžbeta r. Cseryová , SR		0	293,1333
+351	CSÁMPAIOVÁ Helena r. Csámpaiová, SR		0	198
+351	CSAMPAIOVÁ Mária	sestra Michala,Štefana,Margity	0	1372
+351	CUPÁK Jozef, SR		0	236
+351	ČALÁDYOVÁ Agneša r. Némethová , SR		0	1469,1477
+351	ČAMPAI Gábriš , SR		0	20,535,536,1586,1789,1790,1842,1885,1891
+351	ČAMPAI Jozef	ž.Alžbeta Földesyová,zom.20.10.1989	0	1290
+351	ČAMPAI Ondrej , SR		0	1848
+351	ČAMPAIOVÁ Margita r. Némethová , SR		0	1058
+351	ČAMPAIOVÁ Mária r. Tobiašová , SR		0	110,111,112,113,1395,1658
+351	ČAMPAIOVÁ Rozália r. Hajduová , SR		0	1177
+351	ČAMPAIOVÁ Terézia r. Hajduová , SR		0	1177
+351	ČAMPAIOVÁ Verona r. Počiková , SR		0	1313,1315,1747,1752,1753
+351	ČERI Štefan , SR		0	1625,1626
+351	DOBROVITS Štefan, SR		0	260
+351	DÓCIOVÁ Mária r. Šubová, SR		0	163
+351	EGYÜDOVÁ Terézia , SR		0	1894,1906,1914
+351	FŐLDESY Michal r. Földesy	zom. 1.3.1990	0	1819
+351	FÖLDEŠI Ján , SR		0	318,319,1309,1310,1678,2154,2155,2156,2157,2158,2159
+351	FÖLDEŠIOVÁ Alžbeta r. Vrabcová , SR		0	110,111,112,113,1395,1658
+351	FÖLDEŠIOVÁ Emerencia , SR		0	318,1678,2157,2159
+351	FÖLDEŠIOVÁ Emerencia r. Kluková	zom.17.12.1982	0	1343,1344,2203
+351	FÖLDEŠIOVÁ Etela , SR		0	318,319,1309,1310,1678,2154,2155,2156,2157,2158,2159
+351	FÖLDEŠIOVÁ Rozália r. Mészárošová , SR		0	1840
+351	GARTNEROVÁ Anežka r. Szárazová , SR		0	22
+351	GUGHOVÁ Rozália , SR		0	1326
+351	GUĽKOVÁ Irena r. Lörincová , SR		0	535,536,1891
+351	GUNIŠ Jozef, SR		0	288
+351	GUNIŠ Pavel, SR		0	288
+351	GUNIŠ Peter, SR		0	288
+351	GUNIŠOVÁ Helena r. Zubatá	zom. 16.10.2004	0	1095,1165,1166,1167,2230
+351	GUNIŠOVÁ Veronika, SR		0	288
+351	HALÁKOVÁ Terézia r. Plevková , SR		0	1458,1822,1853
+351	HORNIAKOVÁ Katarína r. Kluková , SR		0	789,1079,1081,1297,1528
+351	JOČIKOVÁ Emerencia r. Nagyová , SR		0	195
+351	JOČIKOVÁ Etela r. Čeriová , SR		0	228,1568,1569
+351	JRD Čechynce , SR		0	1801
+351	KELEMEN Laurenc , SR		0	708
+351	KLUKA Ferdinand r. Kluka	zom.22.9.1997	0	1303,2229
+351	KLUKOVÁ Anna r. Némethová	zom.28.5.2006	0	1197
+351	KLUKOVÁ Emerencia r. Čampaiová , SR		0	1845
+351	KLUKOVÁ Katarína r. Antalová , SR		0	1849
+351	KOBZOVÁ Mária r. Mészárošová , SR		0	1781
+351	KÓŇA Ján , SR		0	535,536,1891
+351	KÓŇA Ondrej , SR		0	535,536,1891
+351	KÓŇOVÁ Šara r. Póčiková , SR		0	1829
+351	KÓŇOVÁ Verona r. Lörincová , SR		0	535,536,1891
+351	KÓŇOVÁ Verona r. Némethová , SR		0	1885
+351	KOŠA Ľudovít , SR		0	22
+351	KUKLA Ján	ž.Mária Nagyová	0	1337
+351	KURČOVÁ Mária r. Némethová, SR		0	436
+351	LACA Ján	ž.Anna Nosáková	0	253,624,1072,1750,1751
+351	LISÁ Helena , SR		0	1500
+351	LISÁ Rozália , SR		0	1802
+351	LISZIOVÁ Alžbeta r. Mészárošová , SR		0	1840
+351	LÖRENCOVÁ Margita r. Hajdu , SR		0	501,1268
+351	LÖRENCOVÁ Mária r. Némethová , SR		0	203,1468,1476,1843
+351	LÖRINC Anton , SR		0	1292
+351	LÖRINC Ondrej , SR		0	535,536,1891
+351	LÖRINC Štefan , SR		0	1182
+351	LÖRINCOVÁ Helena , SR		0	1182
+351	LÖRINCOVÁ Mária r. Lörincová , SR		0	1182
+351	LÖRINCOVÁ Verona , SR		0	1182
+351	MÁNIOVÁ Helena r. Ťapušová , SR		0	1450,1831,1832,1833
+351	MAŤOVÁ Agneša r. Uharčeková , SR		0	1211,1343,1771,1774
+351	MÉSZAROŠ Ján, SR		0	163
+351	MÉSZAROŠ Štefan	ž.Mária Tóthová	0	75,195,253,616,624,1070,1071,1072,1735,1750,1751,1840,1926
+351	MÉSZAROŠOVÁ Júlia r. Lisiová , SR		0	1926
+351	MIKLEOVÁ Mária r. Némethová , SR		0	1158
+351	MIKLEOVÁ Rozália r. Malá , SR		0	722
+351	MIKUŠOVÁ Žofia r. Šubová , SR		0	75,195,253,616,624,1840
+351	MILO Ján	ž.Irena Némethová	0	678,1072,1570,1863
+351	MILO Pavol	č.d.56	0	1910
+351	MILO Štefan	ž.Juliana Földešiová	0	1570
+351	MILOVÁ Juliana r. Földešiová	zom.21.4.2001	0	1809
+351	MILOVÁ Lucia r. Šubová , SR		0	1750,1751
+351	NAGY Ľudovít , SR		0	724,1080,1081,1311,1314,1328,1527,1675
+351	NAGYOVÁ Etela r. Tomašeková , SR		0	1094,1095,1893,2230
+351	NAGYOVÁ Mária , SR		0	1311,1314,1328,1675
+351	NAGYOVÁ Mária r. Vrabcová , SR		0	1268,1537
+351	NÉMETH Ján	ž.Mária Čampaiová	0	1916
+351	NÉMETH Ján	ž.Rozália Čeriová	0	1245,1338,2259
+351	NÉMETH Laurinec , SR		0	1167,1533
+351	NÉMETH Štefan	ž.Júlia Tomašeková	0	535,536,1586,1842,1885,1891
+351	NÉMETH Štefan , SR		0	1055,1219
+351	NÉMETH Viliam , SR		0	617,1058,1165,1822,1823,1853
+351	NÉMETH Vincent , SR		0	1058
+351	NÉMETHOVÁ Irena r. Plevková , SR		0	595
+351	NÉMETHOVÁ Júlia r. Tomašeková , SR		0	1094,1893
+351	NÉMETHOVÁ Katarína r. Tobiašová , SR		0	110,111,112,113,505,506,1167,1395,1533,1658
+351	NÉMETHOVÁ Margita r. Čéryová, SR		0	792,793
+351	NÉMETHOVÁ Mária , SR		0	1058
+351	NÉMETHOVÁ Mária r. Čampaiová , SR		0	20,535,536,1586,1789,1790,1842,1885,1891,1916
+351	NÉMETHOVÁ Mária r. Čeriová , SR		0	292,293,472,1167,1333,1533,1822,1823,1853
+351	NÉMETHOVÁ Veronika r. Duchoňová , SR		0	472,1853
+351	OLÁHOVÁ Mária r. Plevková , SR		0	274,276,1167,1216,1808,1874
+351	PATAY Michal	ž.Barbora Šubová	0	1744
+351	PINTER František	ž.Agáta Lörincová	0	1780
+351	PINTER Jozef , SR		0	1777
+351	PINTEROVÁ Barbora r. Čampaiová , SR		0	1354
+351	PINTEROVÁ Mária r. Némethová , SR		0	20,535,1585,1586,1842
+351	PINTEROVÁ Terézia r. Némethová , SR		0	1842
+351	PLEVKA Gejza , SR		0	1925
+351	PLEVKA Ignác	č.d.22	0	1915
+351	PLEVKA Ján	ž.Mária Tóthová	0	1905
+351	PLEVKOVÁ Barbora r. Čeriová , SR		0	1625,1626
+351	PÓCSIKOVÁ Agnesa , SR		0	134,1761
+351	PÓČIK Andrej , SR		0	1762,1763
+351	PÓČIK Jozef	ž.Veronika Serzödiová	0	1908
+351	PÓČIK Michal , SR		0	1747
+351	PÓČIKOVÁ Alžbeta r. Kóňová , SR		0	535,536,1891
+351	PÓČIKOVÁ Alžbeta r. Urbanová	zom.18.8.1996	0	89,1222,2054
+351	PÓČIKOVÁ Mária , SR		0	134,1761
+351	PÓČIKOVÁ Verona , SR		0	743,1198,1473,1674,2102,2103
+351	POLÁK Štefan , SR		0	1906
+351	POLIN Michal	ž.Mária Mikačová	0	77
+351	POLINOVÁ Rozália r. Bodorová , SR		0	1185,1186,1187,1188,1879,1901
+351	POŽONI Štefan , SR		0	1238
+351	SMUTNÁ Veronika r. Ťapušová	zom.26.3.1982	0	1450,1831,1832,1833
+351	SOLČANSKÁ Agneša , SR		0	1906,1914
+351	SOLČANSKÁ Terézia , SR		0	1894,1906
+351	SOLČANSKÝ Ján , SR		0	1894,1906,1914
+351	SOLČANSKÝ Jozef , SR		0	1894,1906,1914
+351	SZÁRAZ Andrej	ž.Rozália Tobiašová	0	276,360,363,364,1241,1813,1814,1874
+351	SZÁRAZ František r. Száraz	ž.Karolína Pavelková, zom.17.7.2006	0	1896
+351	SZÁRAZ Ján	zom.2.4.1961	0	1867
+351	SZÁRAZ Lavrinec , SR		0	22
+351	SZÁRAZ Michal	ž.Emerencia Hajduová, zom.28.9.1974	0	1813,1857
+351	SZÁRAZ Pavol	ž.Alžbeta Virágová	0	1896
+351	SZÁRAZOVÁ Eva r. Chrupková	zom.7.3.2002	0	1897
+351	SZÁRAZOVÁ Margita	brat Emil	0	22
+351	SZÁRAZOVÁ Mária r. Földešiová , SR		0	75,253,624,1070,1071,1072,1735,1750,1751
+351	SZÁRAZOVÁ Verona r. Lorincová , SR		0	22
+351	SZÖKE Andrej , SR		0	1756
+351	SZÖKE František	Nitrany 20	0	1756
+351	SZÖKE Štefan , SR		0	1756
+351	SZÖKEOVÁ Barbora , SR		0	1756
+351	ŠIMONČÍK Ján , SR		0	1292
+351	ŠIMONČÍK Viliam	zom. 27.6.1984; zom. 27.6.1984	0	1913
+351	ŠIMONČÍKOVÁ Angela r. Antalová	zom. 8.7.1965	0	1411
+351	ŠIMONČÍKOVÁ Margita , SR		0	1292
+351	ŠIMONČÍKOVÁ Mária r. Némethová , SR		0	326,1757,1891
+351	ŠINKOVIČOVÁ Eva r. Milová , SR		0	190
+351	ŠUBA Andrej , SR		0	195,253,616,624,1840
+351	ŠUBA Andrej r. Šuba	zom. 8.3.1996	0	75,1766
+351	Šuba Ján		0	797
+351	ŠUBA Ján	ž.Mária Mészárošová	0	624,1072,1534,1750,1751
+351	ŠUBA Štefan , SR		0	1182
+351	ŠUBA Vavrinec , SR		0	1839
+351	ŠUBA Vincent	ž.Barbora Mészarošová	0	624,1072,1534,1750,1751
+351	ŠUBA Vincent , SR		0	75,195,253,616,624,1840
+351	ŠUBOVÁ Agneša r. Kluková , SR		0	276,1808,1874
+351	ŠUBOVÁ Alžbeta , SR		0	624
+351	ŠUBOVÁ Barbora r. Mészárošová , SR		0	1735
+351	ŠUBOVÁ Rozália r. Čampaiová , SR		0	1883
+351	ŠUBOVÁ Rozália r. Némethová , SR		0	326,1757,1891
+351	TAMAŠEK Jozef , SR		0	195,1735,1750,1751,1840,1893
+351	TAMAŠEKOVÁ Agneša r. Mészárosová , SR		0	195,1735
+351	TAMAŠEKOVÁ Etela , SR		0	1893
+351	TOBIAŠ Andrej	ž.Veronika Vrabcová	0	110,111,112,113,1395
+351	TYAPUŠ Peter , SR		0	1197
+351	UHARČEK Valentin	ž.Anna Hajduová	0	472,1058,1204,1823
+351	URBAN Ján , SR		0	1299,1300
+351	URBANOVÁ Mária r. Némethová, SR		0	329
+351	VALÁBEKOVÁ Rozália r. Počiková , SR		0	1908
+351	VALENTOVIČOVÁ Katarína r. Plevková , SR		0	1624,2098
+351	VESELIČOVÁ Veronika r. Plevková , SR		0	1216
+351	VRABCOVÁ Agneša , SR		0	110,111,112,113,1224,1395,1658
+351	VRABEC František , SR		0	111,1658
+351	VRABEC Ján , SR		0	110,111,112,113,1224,1395,1658
+351	VRABEC Vendel , SR		0	110
+351	VRABECOVÁ Mária, SR		0	705
+352	ALAKSA JAN, ARGENTÍNA		0	352,610
+352	Alakša Ján r. Alakša		0	38,505,532,556,588,615,686,800,843
+352	Alakša Ján r. Alakša	2	0	61,532,556,582,588,615,686,763,796
+352	Alakša Ján r. Alakša	m.Agneša r.Gazdíková, Argentína	0	532,615
+352	Alakša Ján r. Alakša	m.Anna r.Dobrocká,Kanada	0	506,507,852
+352	Alakša Ján r. Alakša	m.Mária , Bzovík č.75	0	881
+352	Alakša Ján r. Alakša	robotník, Bzovík 64	0	881
+352	Alakša Juraj r. Alakša	Uňatín	0	507,852
+352	Alakšová Anna r. Alakšová		0	61,532,556,582,588,615,686,763,796
+352	Alakšová Anna r. Alakšová	2	0	38,505,532,556,588,615,686,800,843
+352	Alakšová Anna r. Dobrocká	č.46	0	800
+352	Alakšová Anna r. Halásová	č.16	0	854
+352	Altperger Jozef r. Altperger	m.Mária r.Černicová č.94	0	765
+352	Ambroš Ján r. Ambroš	m.Anna r.Jančová č.83	0	869
+352	BALAZOVA KATARINA, KRUPINA, SR		0	328
+352	Baláž Ján r. Baláž	č.32	0	331,532,556,588,615,686,702
+352	Baláž Ján r. Baláž	m.Mária r.Ambrošová,č.32	0	497
+352	Baláž Ján r. Baláž	otec Michal	0	217,330,331,497,532,556,588,615,686,702,772
+352	Baláž Pavel r. Baláž	otec Michal	0	217
+352	Balážová Katarína r. Balážová	otec Michal	0	217,330,331,497,532,556,588,615,686,702,772
+352	Balážová Mária r. Ambrošová	č.32	0	331,497,532,556,588,615,686,702
+352	Baranová Katarína r. Alakšová	Bzovík č.41	0	874
+352	Bartík Michal r. Bartík	m.Mária r.Výbochová č.25	0	532,615
+352	BERES PAVEL, USA		0	362
+352	BERES STEFAN, HONTIANSKE TESARE, SR		0	362
+352	Béreš Pavel r. Béreš	m.Emília r.Luptáková	0	19,191
+352	Béreš Štefan r. Béreš	Hont.Tesáre	0	19,191
+352	Brčica Ján r. Brčica	m.Mária r.Gažovová	0	532,615
+352	Cesnaková Mária r. Hipská	č.37	0	38
+352	CESNAKOVÁ MÁRIA r. HYBSKÁ, SR		0	39
+352	Čekovce JRD		0	464
+352	Debnár Štefan r. Debnár	m.Mária r.Krudiová, Amerika	0	925
+352	Debnárová Zuzana r. Hipská	č.104	0	932
+352	DINDEŠ MATEJ, SR		0	350
+352	Dindešová Mária r. Križanová, 96242 Čekovce, SR		0	27,53,56,833
+352	DINDEŠOVÁ MÁRIA r. KRIŽANOVÁ, SR		0	349,350
+352	Dobrocká Mária r. Sarvašová	m.Ján	0	825,827
+352	Dobrocký Ján r. Dobrocký	č.74	0	138,417,418,532,561,615,750,825,826,827
+352	Dobrocký Ján r. Dobrocký	m.Mária r.Sarvašová	0	825,827

@@ -1,0 +1,256 @@
+1241	TOMA Jozef r. Toma	manž. Mária, r.Hudoková, PKV 337, 689	0	1289
+1241	TOMA Ondrej r. Toma		0	1438
+1241	TOMA Ondrej r. Toma	m.Mária,r.Jamrišková,PKV12,441,387,689	0	609
+1241	TOMA Rudolf r. Toma	manž. Irena, r.Belianská	0	210,439,1420,1437
+1241	TOMA Rudolf r. Toma	manž. Jolana, r.Gergelová, PKV 719,6	0	1407
+1241	TOMA Rudolf r. Toma	PKV 194, 711	0	427,439
+1241	TOMOVÁ Anna r. Králová		0	210,1153,1155
+1241	TOMOVÁ Berta	PKV 540	0	761
+1241	TOMOVÁ Jolana r. Gergelová	manž. Rudolf, PKV 719, 6	0	1407
+1241	TOMOVÁ Margita	PKV 540	0	761
+1241	TOMOVÁ Mária	PKV 540	0	761
+1241	TOMOVÁ Mária r. Hudoková	manž. Jozef, PKV 337	0	1289
+1241	TOMOVÁ Štefánia r. Mešinová	PKV 617	0	345,1119,1489
+1241	TÓTHOVÁ Františka r. Petríková	PKV 534	0	612
+1241	UHLÁROVÁ Anastázia r. Mešinová	manž. Štefan, Július, PKV 494, 532, 617	0	345,1489
+1241	VAČKO Anton r. Vačko	PKV 77	0	1313
+1241	VAČKO František r. Vačko	PKV 331	0	1434
+1241	VAČKO Juraj r. Vačko	manž. Františka, r.Preťová, PKV 65, 387, 452	0	609
+1241	VAČKO Klement r. Vačko	PKV 450	0	609
+1241	VAČKO Pavel r. Vačko	PKV 63, 387, 458, 478	0	345,1489
+1241	VAČKOVÁ Františka r. Preťová	manž. Juraj, PKV 452, 586	0	609
+1241	VAČKOVÁ Mária r. Čepková	manž. bol František, PKV 450, 457	0	609,1433
+1241	VAČKOVÁ Mária r. Kopálová	manž. Jozef, PKV 64	0	1255
+1241	VAČKOVÁ Mária r. Korecová	PKV 55,335, 342	0	1075
+1241	VAČKOVÁ Mária r. Tomová	vdova, PKV 7, 387	0	345,1489
+1241	ZAŤKO Július r. Zaťko	PKV 463, 661	0	1183,1184,1234
+1241	ZAŤKO Štefan r. Zaťko	manž. Anastázia, r.Tomová, PKV 465, 387	0	345,1489
+1241	ZAŤKOVÁ Mária r. Belianská	PKV 138	0	916
+1241	ŽIAK Vincent r. Žiak		0	800,1192,1193
+1241	ŽIAKOVÁ Anna r. Švecová	PKV 427, 467, 772	0	1224
+1241	ŽIAKOVÁ Štefánia r. Foltánová	PKV 311, 489, 496, 503	0	345,410,647,649,650,750,751,812,942,943,1489
+1241	ŽUCHOVSKÁ Viktória r. Belianská	manž. Ján, PKV 191, 192, 707	0	705,1062
+1241	ŽUCHOVSKÝ Ján r. Žuchovský	manž. Irena, r.Kráľová, PKV 291	0	345,856,1478,1489
+1241	ŽUCHOVSKÝ Ján r. Žuchovský	manž. Viktória, r.Belianska, PKV 191,192,707	0	705,1062
+1241	ŽUCHOVSKÝ Július r. Žuchovský	manž. Matilda, r.Duharová, PKV 291	0	1478
+1242	BÁLINTOVÁ Mária	r.Kruzslíková m.Juraj	0	453
+1242	Balková Mária r. Čeryová, SR	zom. 03.11.1976	0	456
+1242	BALLAOVÁ Rozália	r.Cseriová vd. m.b.Pavel	0	443
+1242	BELÁ František	m.Elena r.Jakusová	0	456
+1242	Belá Helena r. Kremničanová	vd	0	282
+1242	Belá Vincent		0	132
+1242	BELÁOVÁ Elena	r.Jakusová m.František	0	456
+1242	BELÁOVÁ Mária	r.Balogová m.Ján	0	429,451
+1242	BENYOVÁ Anna	r.Becsianszková m.Michal MR Szúgy	0	477
+1242	BOLÁNEOVÁ Mária	r.Kalmárová	0	37
+1242	CELLENG Andrej	šinko m.Zuzanna r.Ďurčová	0	299
+1242	CELLENGOVÁ Zuzanna	r.Ďurčová m.Andrej	0	299
+1242	CIBULYOVÁ Rozália	r.Kopcsányiová m.Štefan	0	56
+1242	CSÁKI Alexander	m.Rozália r.Vandová MR Dejtár	0	408
+1242	Csáki Ján		0	165
+1242	Csáki Ján, Koláre, SR		0	98
+1242	Csáki Ladislav		0	165
+1242	Csáki Ladislav, Koláre, SR		0	98
+1242	CSÁKI Pavel		0	71
+1242	Csáki Štefan	Francúzsko	0	279
+1242	CSÁKI Štefan		0	71,223,279,324,343
+1242	CSÁKI Štefan	syn Alexandra	0	222,425,491
+1242	CSÁKIOVÁ Elena	r.Cseriová	0	340
+1242	Csákiová Elena r. Cseriová		0	165
+1242	Csakiová Elena r. Cseriová, Koláre, SR		0	98
+1242	CSÁKIOVÁ Helena	r.Nászaliová	0	526
+1242	CSÁKIOVÁ Rozália	r.Okolenszká m.Štefan	0	500
+1242	CSÁKIOVÁ Rozália	r.Vandová m.Alexander ,MR Dejtár	0	408
+1242	Csákyová Rozália r. Vandová		0	292
+1242	CSERI Alexander	m.Alžbeta r.Beláová	0	499,505
+1242	CSERI Bartolomej	syn Štefana	0	256
+1242	CSERI František	m.Helena r.Benedeková	0	503
+1242	CSERI František	szogi	0	522
+1242	CSERI Imrich	m.Alžbeta r.Majerová	0	56
+1242	Cseri Imrich, SR	zom. 26.08.1996	0	217,392,393
+1242	Cseri Ján	manž. Elena r. Kopcsányiová	0	134,198,283
+1242	CSERI Ján	m.Barbora r.Dudásová	0	494
+1242	CSERI Ján	m.Elena r.Falusiová	0	502
+1242	CSERI Ján	nezletilý syn Jána	0	502
+1242	CSERI Jozef	antonín	0	485
+1242	CSERI Jozef	m.Helena r.Molnárová	0	53,229,519
+1242	CSERI Jozef	pásztor slobodný	0	445
+1242	CSERI Karol	m.Alžbeta r.Siketová	0	456,490
+1242	CSERI Ladislav	m.Alžbeta r.Cseriová	0	434
+1242	CSERI Ladislav	pástor	0	445
+1242	CSERI Ladislav	syn Andreja v Amerike	0	490,512
+1242	CSERI Ladislav	Štefan	0	214
+1242	CSERI LADISLAV /KTOREHO MANZ. JE ALZBETA R.JAKUSOVA/ manž. Alžbeta r. Jakusová		0	289
+1242	Cseri Ľudovít	manž. Rozália r. Legényová	0	134,198,283
+1242	CSERI Ľudovít	m.Helena r.Dénesová	0	456
+1242	CSERI Ľudovít	m.Mária r.Dobosová	0	433
+1242	Cseri Ľudovít, SR	zom. 30.04.1998	0	441
+1242	CSERI Mikuláš	m.Rozália r.Cseriová	0	513,521
+1242	CSERI Pavel	syn Pavla	0	450
+1242	CSERI Štefan	Francúzsko	0	222
+1242	CSERI Štefan	maloletý	0	487
+1242	CSERI Štefan	szogi	0	524
+1242	CSERIOVÁ Alžbeta	r.Beláová m.Alexander	0	499
+1242	CSERIOVÁ Barbora	r.Dudásová m.Ján	0	494,506
+1242	CSERIOVÁ Elena	Csákiová m.Gabriel	0	340
+1242	CSERIOVÁ Helena	r.Dénesová m.Ľudovít	0	456
+1242	CSERIOVÁ Helena	r.Dénešová	0	454
+1242	Cseriová Helena r. Molnárová, SR	zom. 19.10.1980	0	53,54,519
+1242	CSERIOVÁ Mária	maloletá	0	487
+1242	CSERIOVÁ Mária	r.Cseriová m.Štefan	0	450
+1242	CSERIOVÁ Mária	r.Kakasová m.František	0	331,463
+1242	CSERIOVÁ Mária	r.Sabadošová,Jarná č.29,Čaňa, [* 21.7.1942] r.Sabadošová,Jarná č.29,Čaňa, [* 21.7.1942]	0	233,245,397,566,573
+1242	CSERIOVÁ Rozália	r.Jakusová	0	212,488
+1242	CSERIOVÁ Rozália	r.Jakusová m.František	0	432
+1242	Cseriová Rozália r. Jakušová		0	164
+1242	Cseriová Rozália, SR	sl. zom. 02.07.1995	0	30
+1242	CSERVENÁKOVÁ Anna	r.Pálinkásová m.Pavel	0	468
+1242	CSERVENÁKOVÁ Mária	r.Lavríková m.Michal, MR Szugy	0	480
+1242	CSESZTVEN Samuel	m.Mária r.Frecskaová	0	476
+1242	CSESZTVENOVÁ Mária	r.Frecskaová m.Samuel	0	476
+1242	Čáki Štefan		0	544
+1242	ČÁKYOVÁ Mária	r.Grešinová m.Štefan	0	501
+1242	Čeri Bartolomej, SR	syn Štefana, zom. 20.08.1981	0	456,457
+1242	ČERI František	n.3.12.1908,Koláre č.129	0	245,397,566
+1242	ČERI Mikuláš	František m.Elena r.Nagyová	0	514
+1242	Čeri Pavel, SR	zom. 19.05.2003, manž. Helena r. Petényiová	0	458
+1242	ČERI Vincent	Ing.n.22.11.1941,u.Jarná č.29 Čana zomre	0	521
+1242	Čery Jozef, SR	zom. 10.08.1994	0	445
+1242	DÉNES Ján		0	454
+1242	DÉNESOVÁ Barbora	r.Kremnicsanová m.Matej	0	516
+1242	DÉNEŠ Ladislav		0	454
+1242	DÉNEŠOVÁ Alžbeta		0	454
+1242	DÉNEŠOVÁ Margita	nezletilá	0	454
+1242	DUDÁŠ František		0	231
+1242	FRANYO Ondrej	m.Rozália r.Nagyová	0	321
+1242	Grešinová Mária r. Tóthová, SR	zom. 28.08.1960, manž. Michal	0	501,509
+1242	HORNYÁK Pavel	m.Anna r.Lestyanová	0	465
+1242	HORNYÁKOVÁ Anna	r.Lestyanová m.Pavel	0	465
+1242	HUGYEC Pavel		0	478
+1242	HUGYEC Sámuel		0	478
+1242	Hutyanová Mária r. Molnárová, SR	manž. Jozef	0	53
+1242	CHALUPKOVÁ Emilia	r.Bereckiová m.Daniel	0	462
+1242	CHALUPKOVÁ Mária	r.Galátová m.Pavel	0	220
+1242	Illéšová Margita r. Čeriová, SR	zom. 1.12.1997	0	217,392,393
+1242	JAKUS Jozef	Tešmag	0	486
+1242	JAKUS JOZEF		0	198
+1242	JAKUS LADISLAV		0	198,486
+1242	JAKUSOVÁ Alžbeta	dcéra Michala	0	212,488,497
+1242	JAKUSOVÁ Juliana	r.Kopcsányiová vd. m.b.Michal	0	56
+1242	JAKUSOVÁ Rozália	nezletilá dcéra Michala	0	212,488,497
+1242	JAKUSOVÁ Terezia	nezletilá dcéra Michala	0	212,488,497
+1242	Jakušová Alžbeta		0	164
+1242	JAKUŠOVÁ HELENA		0	198,283
+1242	Jakušová Terézia		0	164
+1242	KAKASOVÁ Alžbeta	r.Csákiová	0	223
+1242	KAKASOVÁ Alžbeta	r.Cseriová m.Ladislav	0	222
+1242	KAKASOVÁ Alžbeta	r.Cseriová V.Čalomija	0	222
+1242	KALMÁR Ján		0	37
+1242	KALMÁR Pavel	maloletý	0	37
+1242	KALMÁROVÁ Anna	maloletá	0	37
+1242	KASSAI Gabriel	m.Juliana r.Cseriová	0	490
+1242	KASSAIOVÁ Juliana	r.Cseriová m.Gabriel	0	490
+1242	KOCÚROVÁ Anna	r.Csesztvenová m.Pavel MR Szúgy	0	479
+1242	KOPCSÁNYI František	syn Štefana	0	56
+1242	KOPCSÁNYI Jozef	m.Helena r.Lakatošová	0	56
+1242	KOPCSÁNYI Jozef	nezletilý	0	450
+1242	KOPCSÁNYI Štefan	Augustín syn Štefana	0	56
+1242	KOPCSÁNYI Vincent	m.Margita r.Szklenárová	0	252,543
+1242	KOPCSÁNYIOVÁ Helena	r.Beláová m.Ján	0	498
+1242	KOPCSANYIOVÁ Rozália	r.Čeriová vd. m.b.Ján	0	252,543
+1242	KOPCSÁNYIOVÁ Valeria	nezletilá	0	56
+1242	Kopčányi Jozef		0	288
+1242	Kopčányi Jozef	manž. Helena r. Lakatosová	0	288
+1242	KOVÁCS Michal	MR Szúgy	0	466
+1242	KOVÁCS Samuel	MR Szúgy	0	466
+1242	KOVÁCSOVÁ Alžbeta	r.Molnárová m.Alexander	0	53
+1242	Kováčová Helena r. Šiketová, SR	zom. 07.05.1990	0	445
+1242	KRAKOVSZKI Jozef		0	453
+1242	KRAKOVSZKI Ladislav	maloletý	0	453
+1242	KRUZSLÍK Ernest		0	453
+1242	KRUZSLIK František		0	453
+1242	KRUZSLÍK Ondrej		0	453
+1242	KRUZSLÍK Štefan		0	453
+1242	KUKÁS Ján		0	469
+1242	KUKÁS Michal	m.Zuzana r.Velkovicsová	0	469
+1242	KUKÁSOVÁ Mária	r.Mackaová m.Ján	0	469
+1242	KULUSOVÁ Helena	r.Grešinová m.Imrich MR B.Gyarmoty	0	509
+1242	Legényová Irena		0	278
+1242	LESZENICKÁ Verona	r.Csurová m.Samuel	0	482
+1242	LUKÁCS Michal	m.Mária r.Gáliková	0	464
+1242	LUKÁCSOVÁ Mária	r.Gáliková m.Michal	0	464
+1242	LUKÁCSOVÁ Mária	r.Pálinkásová m.Michal MR Szúgy	0	470
+1242	Majerová Anna r. Jakusová		0	283
+1242	Majerová Anna r. Jakusová	manž. Ján	0	198
+1242	MAJEROVÁ Rozália	r.Molnárová	0	53
+1242	MATÚŠ Ján	m.Mária r.Tucseková	0	475
+1242	MATÚŠOVÁ Mária	r.Tucseková m.Ján	0	475
+1242	MOLNÁR Bartolomej		0	53,54
+1242	MOLNÁR Ján		0	489
+1242	MOLNÁR Ondrej		0	453
+1242	MOLNÁR Štefan	m.Julianna r.Balková	0	511
+1242	MRÁZOVÁ Elena	r.Cseriová	0	274
+1242	MURÁNYI Ján		0	213
+1242	MURÁNYIOVÁ Mária		0	213
+1242	MURÁNYIOVÁ Mária	r.Pintérová	0	492
+1242	MURÁNYIOVÁ Terézia	maloletá	0	213,492
+1242	NAGY Štefan	m.Mária r.Pohánková	0	525
+1242	Nászali Gabriel, SR	zom. 06.10.1953, m.Margita r.Cseriová	0	306
+1242	ORAVECZ Jozef	m.Zuzana r.Tucseková	0	484
+1242	OSZTROVICSOVÁ Alžbeta	r.Medvegyová m.Pavel	0	484
+1242	OSZTROVICZ Pavel	m.Alžbeta r.Medvegyová	0	484
+1242	OSZTROZICS Andrej	syn Jána	0	480
+1242	OSZTROZICS Ján	syn Jána	0	480
+1242	OSZTROZICS Juraj	starší,MR Szúgy	0	467
+1242	OSZTROZICS Pavel	syn Jána v Amerike	0	480
+1242	Pásztor Jozef, SR	zom. 09.02.1974, manž. Mária r. Kováčová	0	40,218,445
+1242	PÁSZTOROVÁ Rozália	r.Jakusová m.Jozef	0	218
+1242	Pásztorová Rozália r. Jakusová		0	283
+1242	Pásztorová Rozália r. Jakusová	manž. Štefan	0	198
+1242	PAULOVICSOVÁ Johanna	r.Csukorová m.Samuel, MR Szugy	0	483
+1242	Pavlovič Štefan, SR	zom. 07.07.1981	0	58,220
+1242	Pažická Verona r. Macková, SR		0	356
+1242	PETÉNYIOVÁ Matilda	r.Dénesová m.Jozef	0	455
+1242	Petrás Gabriel		0	153
+1242	PETRÁS Gabriel	nezletilý	0	493
+1242	Petrás Imrich		0	153
+1242	PETRÁSOVÁ Mária	r.Gyurkovicsová m.Imrich	0	493
+1242	POLHOSOVÁ Mária	r.Beláová m.ALexander	0	507
+1242	SÉBEROVÁ Mária	r.Mihalovicsová m.Anton	0	510
+1242	SIKET Ladislav		0	213
+1242	SIKETOVÁ Mária	dcéra Štefanová	0	472
+1242	SZTRANYOVSZKÁ Alžbeta	r.Balgová m.Vincent	0	492
+1242	SZTRANYOVSZKI VINCENT MANZ JE ALZBETA R BALGOVA manž. Alžbeta r. Balgová		0	277
+1242	ŠIKET Ján	m.Mária r.Bugyiová	0	472
+1242	ŠIKET Ján	ml	0	459,472
+1242	Šiketová Helena r. Čákiová, SR	zom. 22.08.1997	0	71
+1242	TOROK Michal	m.Anna r.Mlinková	0	474
+1242	TUCSEK Ján	m.Mária r.Ondrejkinová	0	475
+1242	TUCSEKOVÁ Mária	r.Ondrejkinová m.Ján	0	475
+1242	URBÁN Samuel	m.Katarína r.Gyurjanová	0	390
+1242	Urbancsek Lajosné -Anna r. Jakus, Budapest, MR		0	486
+1242	URBANOVÁ Mária	r.Gajdosová m.Ján, MR Szúgy	0	321
+1242	Vargová Gizela r. Čeryová, SR	zom. 26.12.2000	0	514
+1242	VLADÁROVÁ Rozália	r.Nagyová m.Viliam	0	495
+1242	ZOLCZEROVÁ Alžbeta	r.Cseriová m.Štefan	0	487
+1242	Zolczerová Alžbeta r. Cseriová		0	154
+1243	Adamík Adam r. Adamík		0	6561
+1243	Adamík Andrej r. Adamík	malol.,maloletosť vymazaná č.d. 683/1901	0	3614,6153
+1243	Adamík Ján r. Adamík	malolet	0	6508,6897
+1243	Adamík Jozef r. Adamík		0	3460,6117,6119,6359,6397,6438,6440,6442,7512
+1243	Adamík Martin r. Adamík		0	600,1751,2076,2508,2509,2511,2741,2742,2743,4578,4585,5252,5705,5706,5888,5931,5977,6485,6737,6759,7164,7728,7729,7929,7991,8139,8570,8631
+1243	Adamík Peter r. Adamík	manželka Barbora r.Gašperová 16.1.1910 - 9.12.1986	0	281,600,804,1592,1594,1624,1704,1751,2076,2508,2509,2511,2528,2542,2550,2554,2555,2740,2741,2742,2743,4126,4302,4578,4585,4875,4902,5252,5705,5706,5888,5901,5904,5905,5931,5977,5986,5988,6151,6153,6339,6378,6472,6485,6737,6749,6759,6848,7164,7174,7175,7197,7200,7682,7727,7728,7729,7915,7929,7991,8008,8053,8079,8105,8139,8151,8507,8554,8570,8631
+1243	Adamíková Anna	malol	0	2743,7166,7171,7174,7175
+1243	Adamíková Anna r. Šupiková		0	296,587,989,2258,2264,2265,3418,5479,5481,5655,5807,5808,5811,5812,6508,6539,6540,6909,7429,7433,7435,7442,7450,7694,7893,8212,8349
+1243	Adamíková Barbora r. Gašperová		0	600,1751,2076,2508,2509,2511,2741,2742,2743,4578,4585,5252,5705,5706,5931,5977,6151,6485,6737,6759,7728,7729,7929,7991,8139,8570,8631
+1243	Adamíková Mária r. Adamíková	č. 89	0	6508,6897
+1243	Adamíková Mária r. Beláková	manžel Adamík Ondrej	0	2712,3614,3616,3623,6151,6153,6156,6259,6291,6339,7200,7988,8053
+1243	Badurová - Stachová Rozália r. Bugalová		0	4583
+1243	Batrna Adam r. Batrna		0	6715,6733
+1243	Batrna Hrehor r. Batrna		0	2570,2573,2721,5796,5913,8146
+1243	Batrna Ján r. Batrna		0	571,1293,1951,2784,3728,4730,5736,5737,5738,5839,5956,6712,7026,7604,8408,8572,8573
+1243	Batrna Michal r. Batrna	malol	0	6561
+1243	Batrna Pavol r. Batrna	manželka Mária rod. Kalužová	0	6485
+1243	Batrna Rehor r. Batrna		0	2570,2573,2721,3936,5796,5913,6178,8146
+1243	Bátrnová Katarína		0	192,1390,8216
+1243	Batrnová Serafína		0	2334,2379,4361,4959,5734,5953,5954,6316,6349,7750,7751,8580

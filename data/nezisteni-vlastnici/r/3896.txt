@@ -1,0 +1,256 @@
+2226	ĎURIAN Juraj		0	674
+2226	Ďurian Juraj r. Ďurian		0	318,321,388,424
+2226	Ďurian Juraj r. Ďurian	ž.Anna r. Struhárová	0	281
+2226	ĎURIAN Pavel		0	674
+2226	Ďurian Pavel r. Ďurian		0	388,424
+2226	Ďurian Pavel r. Ďurian	ž.Anna r.Zvolenská	0	388,424
+2226	Ďurian Pavol r. Ďurian		0	318,321,388,424
+2226	Ďurian Pavol r. Ďurian	ž. Gizela r. Zvolenská	0	321
+2226	Ďurianová Anna r. Zvolenská		0	424
+2226	Ďurianová Zuzana		0	424
+2226	Ďurianová Zuzana r. Izáková		0	74
+2226	Ďurianová Zuzana r. Račková		0	424
+2226	Ďurianová Zuzana r. Zvolenská		0	277,278,324,388,424,539,540
+2226	Gecovic Ján r. Gecovic	ž.Zuza Petrovicová	0	388
+2226	Gecovicová Alžbeta r. Miklošová		0	388,424,451
+2226	Gregáň Pavol r. Gregáň	matka Zuzana	0	388,424
+2226	Hajdamárová Mária r. Hudecová		0	634
+2226	Hlinická Zuzana r. Račková		0	378
+2226	HOLKO Ján		0	353,354,355,506
+2226	Holko Ján r. Holko	ž.Mária r.Kaniaková	0	388,424
+2226	Holko Ján r. Holko	ž.Zuzana r.Chorváthová	0	388,424,439,524
+2226	HOLKOVA Anna		0	354,388,424,506
+2226	Holková Anna	matka Mária	0	388,424,437,439,490,706
+2226	HUSÁK Ján		1	91,225,385
+2226	Husák Ján r. Husák	ž. Mária r. Dekýšová	0	491,570
+2226	HUSÁK Pavel		1	91,225
+2226	Husák Pavel r. Husák	ž.Zuzana r.Mullerová	0	491,570
+2226	HUSÁK Pavol		0	385
+2226	Husáková Zuzana	brat Ján a Pavel	0	491
+2226	KANIAK Ján		0	354,506
+2226	KANIAK Ján, Valaská, Nám.1.mája č.462/8		0	363
+2226	Kaniaková Anna r. Brnáková		0	388,424
+2226	Kaniaková Zuzana r. Valachová		0	333,388,424,513,673
+2226	KANIAKOVA Zuzana rod.Valachová		0	314,351,364
+2226	Krajč Pavel r. Krajč	ž.Mária r. Húsková	0	625
+2226	Krajčová Zuzana r. Krajčová		0	388,424,468
+2226	KRAJČOVÁ Zuzana rod. Krajčová		0	396
+2226	KROŠLÁKOVÁ Mária rod.Hajdamárová, Hont.Tesáre 143		0	377
+2226	Kršiak Ján r. Kršiak	otec Jozef mladší	0	533,534
+2226	LEŠKOVÁ Zuzana r. Kyselová		1	225,570
+2226	LEŠKOVÁ Zuzana r.Kyselová		0	91
+2226	Melichová Mária r. Janovivová	manž. Ján	0	248,259,261,333,388,424,492,672
+2226	Ondrejka Ján r. Ondrejka	otec Ján	0	326,431,712
+2226	Paukovic Juraj r. Paukovic	ž. Anna r. Gecovicová	0	654
+2226	Paukovic Juraj r. Paukovic	ž.Anna r.Gecovicová	0	301,302,304,332,388,424,499,624,640,647,653,666
+2226	Paulovicová Zuzana r. Petrovicová	manž. Juraj	0	676
+2226	Penteková Zuzana r. Vanková	manž.Ján	0	388,424,633
+2226	Petrovic Ján r. Petrovic	ž.Mária r.Račková	0	388,424
+2226	Petrovic Ján r. Petrovic	ž.Zuzana r. Krajčová	0	388,424
+2226	PETROVIC Ján, Banská Štiavnica, Pécha č.7		0	370
+2226	PETROVIC Ján, Počúvadlo 92		0	394
+2226	PETROVIC Ján, Počúvadlo č.92		0	374,417
+2226	PETROVIC Ján, Počúvadlo, č. 92, SR		0	191,231
+2226	PETROVICOVÁ Zuzana r. Krajčiová		0	427
+2226	Račko Pavel r. Račko	ž.Mária r. Struhárová	0	669
+2226	RAČKOVÁ Anna		0	81,530
+2226	Račková Mária r. Radíková		0	378
+2226	RAČKOVÁ Mária r. Struhárová		1	486
+2226	Račková Zuzana r. Holková		0	273
+2226	RAJČOKOVÁ Zuzana rod.Paukovicová		0	373
+2226	STRUHÁR Ján		0	393
+2226	STRUHÁR Ján, Počúvadlo, č. 37, SR		0	398
+2226	Struhár Pavel r. Struhár	nezletilý	0	474,638
+2226	Struhár Pavel r. Struhár	Šalkovi	0	474
+2226	Šurianová Zuzana r. Holková		0	388,424,439
+2226	ŠURIANOVA Zuzana rod.Holková		0	354,506
+2226	Tomaškovic Juraj r. Tomaškovic		0	673
+2226	Tomaškovic Juraj r. Tomaškovic	ž.Zuzana r.Zvolenská	0	241
+2226	Tomaškovic Matúš r. Tomaškovic	Amerika	0	566
+2226	Tomaškovic Matúš r. Tomaškovic	v Amerike	0	388,424
+2226	Úrek Ján r. Úrek, č.34, 96975 Počúvadlo		0	388,424,476,543,544,650
+2226	ÚREK Ladislav		0	81
+2226	Úrek Ladislav r. Úrek		0	82
+2226	Úrek Ladislav r. Úrek	syn Jána	0	388,424,443,530,570
+2226	Úreková Zuzana	dcéra Jána	0	530,570
+2226	Úreková Zuzana r. Račková, č.21, 96974 Beluj		0	388,424,443,447
+2226	VALACH Pavel		0	312
+2226	Valachová Zuzana r. Paukovicová		0	499
+2227	Árgyusi Gejza		0	970
+2227	Árgyusi Ladislav		0	970
+2227	Bíro Július	ž.Justína r.Sebóová	0	972
+2227	Bírová Etela r. Alléová	m.Vincent	0	978
+2227	Borbély Gejza	mal. v r.1905	0	964
+2227	Borbély Jozef	mal. v r.1905	0	964
+2227	Borbély Vojtech	mal. v r.1931	0	913
+2227	Borbélyová Helena	mal. v r.1905	0	964
+2227	Borbélyová Irena	mal. v r.1931	0	913
+2227	Borbélyová Terézia	mal. v r.1905	0	964
+2227	CSIBA ALEXANDER		0	824
+2227	DERZSI FERDINAND		0	841
+2227	DERZSI MICHAL		0	841
+2227	Dobroňovská Zuzana r. Šulanová		0	966
+2227	Füssiová Mária r. Hegyiová		0	814
+2227	Katonová Barbora r. Olléová		0	976
+2227	Katonová Oľga r. Navrátilová	m.Blažej	0	954
+2227	Kormancsiková Rozália r. Árgyusiová	m.Jozef	0	970
+2227	Lászlóová Julianna r. Gódányová		0	932
+2227	Mátis Gejza		0	913
+2227	Nagy Gabriel	mal. v r.1918	0	847
+2227	Nagy Vojtech	mal. v r.1918	0	847
+2227	Ollé Ferdinand		0	955
+2227	Ollé Koloman	mal. v r.1941	0	806,886,955,975
+2227	Olléová Alžbeta	mal. v r.1941	0	806,886,955,975
+2227	Olléová Janka	mal. v r.1941	0	806,886,955,975
+2227	Olléová Mária	mal. v r.1941	0	806,886,955,975
+2227	Orosz Andrej	ž.Janka r.Pódová	0	899,938,986
+2227	Orosz Ladislav		0	822,938
+2227	Orosz Štefan		0	822
+2227	Orosz Štefan	mal. v r.1941	0	835,899,938,986
+2227	Oroszová Mária		0	899,938,986
+2227	Pócsová Františka r. Pócsová		0	832
+2227	Póda Ferdinand	ž.Johana r.Oroszová	0	958
+2227	Póda František		0	798,948,1019
+2227	Póda Július		0	798,948,949,950,1019
+2227	Póda Ľudovít		0	955
+2227	Póda Móricz		0	841
+2227	Póda Pavol		0	798,948,949,950,1019
+2227	Pódová Anna r. Oroszová	m.Ferdinand	0	899,938,986
+2227	Pódová Barbora	mal. v r.1920	0	948,949,950,1019
+2227	Pódová Cecília	mal. v r.1920	0	798,948,949,950,1019
+2227	Pódová Juliana		0	971
+2227	Pódová Sidónia		0	798
+2227	Szabóová Mária r. Árgyusiová	m.Karol	0	970
+2227	Szalai Alexander		0	968
+2227	Szalai Ľudovít		0	968
+2227	Szalai Štefan		0	968
+2227	Szalaiová Mária		0	968
+2227	Takács Gašpar		0	841
+2227	Virágh Ladislav		0	863,969,979
+2227	Virágh Pavol	ž.Juliana r.Pódová	0	863,967,979
+2227	Virágh Vojtech		0	863,969,979
+2227	Virághová Alžbeta r. Katonová	m.Jozef	0	869
+2227	Virághová Anna	mal. v r.1944	0	863,969,979
+2227	Virághová Etela		0	863,969,979
+2227	Virághová Mária	mal. v r.1944	0	863,969,979
+2227	Virághová Matilda		0	863,969,979
+2228	Balina Ján	r.Balina,Garaj mal	0	1787
+2228	Balina Jozef	r.Balina,Garaj mal	0	1787
+2228	Balina Ľudvik	r.Balina,Garaj mal	0	1787
+2228	Balina Štefan	r.Balina,Garaj mal	0	1787
+2228	Balinová Mária	Garajová hluch. mal	0	1787
+2228	BENDISOVÁ Terézia r. Siteková		0	918,2214
+2228	Beňušik Alojz		0	1811
+2228	BEŇUŠIK Daniel	Kucbel	0	1296
+2228	Beňušik Ján	r.Beňušik,Šuty	0	1815
+2228	BEŇUŠIK Ján		0	1377,1811,2021,2033
+2228	BEŇUŠÍK Ján	Kudzbel	0	1296
+2228	Beňušik Mária		0	2033
+2228	Beňušík Michal		0	2097
+2228	BEŇUŠÍK Michal	Šuty	0	1105,1344,2439,2992,3085
+2228	BEŇUŠIK Peter		0	1378,1504,1505
+2228	Beňušík Štefan		0	1917,2090
+2228	BEŇUŠÍK Štefan	Hudec	0	1105,1568,2559
+2228	Beňušíková Mária		0	1917,2026,2077,2090,2276,3153
+2228	BEŇUŠÍKOVÁ Mária	Hudecová	0	1234,1425,1556,1568,2292,2559,3073,3152
+2228	BEŇUŠÍKOVÁ Mária r. Hudecová		0	1105,1178,1322,2313,3235
+2228	Beňušíková Rozália		0	1917
+2228	Beňušíková Terézia		0	1917,2090
+2228	BEŇUŠÍKOVÁ Terézia	Hudecová	0	1568,2559
+2228	BEŇUŠÍKOVÁ Terézia r. Hudecová		0	1105
+2228	BETUŠTIAKOVÁ Elena	mal	0	1105,1124,1125,1224,1232,1234,1238,1268,1322,1344,1403,1425,1816,1821,2056,2077,2097,2276,2292,2312,2439,2719,2720,2992,3006,3085,3235,3243
+2228	BETUŠTIAKOVÁ Júlia	mal	0	910,995,1105,1124,1125,1224,1232,1234,1238,1268,1322,1344,1355,1403,1425,1816,1821,2056,2077,2097,2154,2276,2292,2312,2439,2479,2480,2481,2504,2536,2719,2720,2721,2722,2727,2728,2729,2730,2731,2732,2733,2734,2735,2857,2915,2938,2992,3006,3013,3014,3041,3046,3047,3048,3067,3085,3139,3227,3228,3235,3243
+2228	Bučeková Apolónia		0	1777
+2228	Cibuľák Ján		0	1789,1790,1939,2274
+2228	CIBUĽÁK Lórenc		0	1356,1515,1797,2018
+2228	Cibuľáková Zuzana		0	1911
+2228	Cibuľáková Zuzana	mal	0	2044
+2228	Čičiri Alexander	r.Čičiri,Bakoš	0	1777
+2228	DANIEL Jozef		0	1347
+2228	DLHOLUCKÁ Juliana	mal	0	1502,2055
+2228	DLHOLUCKÁ Mária	mal	0	902,1497,1500,1922,2949
+2228	DLHOLUCKÁ Rozália	mal	0	902,1497,1500,1922,2949
+2228	Drndiaková Júlia		0	1789
+2228	Drndiaková Žofia )		0	1789
+2228	DUBJAK Ján		0	1105,1481
+2228	Dvorská Terézia		0	1831
+2228	DVORSKÁ Terézia r. Šurinová	Mecho	0	927
+2228	Dvorský Peter		0	1986
+2228	FRANKOVÁ Žofia r. Cibuláková		0	926
+2228	Furiak		0	2098
+2228	FURIAK Alexander		0	1054,1086,1105,1214,2045,2131,2482,2483,2506,2507,2707,2736,2737,2738,2739,2740,2741,2803,2936,3027,3112
+2228	FURIAK Jozef		0	1105,1344,1364,1446,2000,2097,2439,2992,3085
+2228	FURIAK Michal		0	1105
+2228	Furiaková Anna		0	1985,2035
+2228	FURIAKOVÁ Anna r. Chajdiaková		0	1040,1105,1109,1122,1126,1170,1217,1225,1226,1269,1270,1361,1374,1390,1480,1719,2773,3105,3193
+2228	FURJAK Terézia		0	1105
+2228	FURJAKOVÁ Žofia r. Beňušiková		0	1105
+2228	GABO Jozef		0	1105,1241,1266,1327,1394,1395,1396,1397,1408,1623,1624,1625,1626,1627,1628,1629,2087,2287,2288,2293,2298,2460,2785
+2228	GABOVÁ Júlia	mal	0	1105,1241,1266,1327,1394,1395,1396,1397,1408,1623,1624,1625,1626,1627,1628,1629,2087,2287,2288,2293,2298,2460,2785
+2228	Garaj Ján r. Garaj		0	1794
+2228	Garaj Ľudvík		0	1915
+2228	Garajová Anna		0	1915
+2228	Hubová Anna		0	1777
+2228	Hudec Šandor		0	1931
+2228	Chajdiak Ján		0	1554,1589,1985
+2228	Chajdiak Mária	mal	0	1554,1589
+2228	Chajdiak Štefan		0	1985
+2228	Chajdiak Štefan	mal	0	1554,1589
+2228	CHAJDIAK Štefan	Mores	0	1480
+2228	Chajdiaková Mária	mal	0	1985
+2228	Jadrievičová Zuzana		0	1842
+2228	Jednotné ľudové spotrebné družstvo, Dolný Kubín, SR		0	1827
+2228	KARISNÁ Žofia		0	1027,1105,1120,1246,1248,1249,1332,1387,1388,1634,1772,1777,2034,2099,2393,2440,2441,2771,3086,3088,3091,3092,3222
+2228	KARISNÝ Ignác		0	1027,1105,1120,1246,1248,1249,1332,1387,1388,1634,1772,1777,2034,2393,2440,2441,2771,3086,3088,3091,3092,3222
+2228	Karisný Ignác r. Karisný		0	2099
+2228	Klimčak Anton		0	1907
+2228	Kniežacká Anna	nezv., z komasácie, vl. 233	0	2838
+2228	Kniežacká Mária	nezv., z komasácie, vl. 233	0	2838
+2228	Kniežacká Terézia	nezv., z komasácie, vl. 233	0	2838
+2228	Koklesová Terézia	r.Drndiaková	0	1821
+2228	KONTROVÁ Žofia r. Švábová		0	1054,1057,1105,1167,1214,1251,1256,2707,2736,2737,2738,2739,2740,2741,2790,3154,3155,3156
+2228	KRAVSKÝ Michal		0	1379,1550,1899
+2228	Kravský Michal )		0	1763
+2228	Krúpa Ján		0	1768,1955
+2228	KRÚPA Peter		0	918,1105,1335,1563,1768,1955,2214
+2228	KRÚPOVÁ Mária	mal	0	1335
+2228	KRÚPOVÁ Rozália	mal	0	1008,1955,2451,2691
+2228	Kubošová Kristína		0	1937,1938
+2228	Kucbel Daniel		0	1789,1790
+2228	Kucbeľová Mária		0	1789,1790
+2228	LADEKOVÁ Mária r. Kucbeľová		0	1383
+2228	LIŠKA Jozef	Janov	0	936,943,3253
+2228	LÍŠKA Jozef		0	927,936,943,1839,1854,2018,2071,3253
+2228	Liška Jozef )		0	1839
+2228	LIŠKA Matej		0	936,943,1839,1854,3253
+2228	Lišková Mária		0	2018,2043,2071,2092,2098
+2228	LIŠKOVÁ Sabina r. Murcinová		0	1381
+2228	Líšková Zuzana		0	2001,2009,2098
+2228	LOFAJOVÁ Terézia r. Kudzbelová	Lukáčiková	0	1296
+2228	LOFFAJ Jozef	mal	0	966,1105,1152,1172,1188,1216,1225,1226,1295,1374,1390,1405,1406,2590,2591,2773,2789
+2228	LOFFAY Ján	Lukáčik	0	1348
+2228	Lukáčik		0	2071
+2228	LÚKAČIK Alojz		0	946,1054,1105,1214,1251,1256,2707,2736,2737,2738,2739,2740,2741,2790
+2228	LUKÁČIK Andrej	Kochuľ	0	1441
+2228	Lukáčik Anton	r.Lukáčik,mal	0	1837
+2228	LUKÁČIK Anton	mal	0	933
+2228	Lukáčik Ján		0	2018,2071
+2228	Lukáčik Jozef		0	2018
+2228	Lukáčik Matej		0	2018,2071
+2228	Lukáčik Peter		0	2018,2071
+2228	Lukáčiková Katarína		0	2018,2071
+2228	Lukáčiková Mária		0	1820,1987,2057
+2228	LUKÁČIKOVÁ Mária r. Beňušíková	Hudecová	0	1425,1496,2292
+2228	Lukáčiková Rozália	Bendis mal	0	1837
+2228	Lukáčiková Rozália r. Bendis Bendis mal.		0	933
+2228	Lukáčiková Zuzana		0	1894,2604
+2228	Lukáčiková Žofia		0	2018,2071
+2228	MACEKOVÁ Terézia r. Schelingová		0	1353
+2228	MAČŇÁK Ján		0	1355,2721,2722
+2228	Malatinka Štefan		0	1834,1860
+2228	MALATINKA Štefan	Vavrečan	0	922,937
+2228	Malatinková Anna		0	1860
+2228	MALATINKOVÁ Anna r. Majeriková	Vavrečanová	0	922
+2228	MALATINKOVÁ Mária r. Cibuľáková		0	1352,1358,1517
+2228	Malatinková Terézia		0	1831
+2228	MALATINKOVÁ Terézia r. Šurinová	Mecho	0	927

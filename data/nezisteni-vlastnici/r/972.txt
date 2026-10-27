@@ -1,0 +1,256 @@
+567	HORNÁČEK Ján	ž.Verona r.Brezovská	0	1476,3106
+567	HORNÁČEK Martin	ž.Pavlína r.Michalíková	0	3598
+567	HORNÁČEK Rudolf	po Vincencii Sedláčikovej	0	3463
+567	Hornáčik Ján	mal	0	2856,2857,2858,4407
+567	Hornáčik Ján	mal.; čd.2914/1911	0	2821
+567	Hornáčik Ján	mal.čd.2914/1911	0	2011,2820,2848,2849,2859
+567	HORNÁČIK Ján	rd Imrich a Johana	0	2827,2910,2954,3260
+567	Hornáčik Michal		0	2856,2857,2858,2859,4407
+567	Hornáčik Michal	čd.2914/1911	0	2011,2820,2821,2848,2849
+567	HORNÁČIK Michal	rd Imrich a Johana	0	2827,2910,2954,3260
+567	Hornáčiková Emerencia		0	2856,2857,2858,2859,4407
+567	Hornáčiková Emerencia	čd.2914/1911	0	2011,2820,2821,2848
+567	Hornáčiková Verona	r.Bednárová m.Peter	0	2859
+567	HORNÁČIKOVÁ Verona r. Bednárová	m.Peter	0	2011,2820,2821,2848,2849,2856,2857,2858,4407
+567	HORNÁČKOVÁ Pavlína r. Michalíková	m.Martin	0	3598
+567	Hornáčoková Emerencia	čd.2914/1911	0	2849
+567	HORSKÝ Oskár	sur.Bedrich,Oskar,Alica-predtým Haas	0	2196,2945,3635
+567	HORUCKA František	m.Mária,r.Varačková	0	3162
+567	HORÚCKA Ján	od B2,9	0	2924
+567	Horúcka Ján r. Horúcka		0	831
+567	HORÚCKÁ Jozefína	r.Holíková	0	3009
+567	HORÚCKA Marek	od Antona Vojtku čd.2305/1948	0	2980
+567	HORÚCKA Marek	zomr.27.06.1988	0	2980
+567	HORÚCKÁ Mária r. Varačková	od Emerencie Varačkovej	0	3278
+567	HORÚCKA Peter		0	2911
+567	HORÚCKA Tomáš	čd.3603/35	0	2911
+567	HORÚCKA Tomáš	ž. s Máriou Varačkovou	0	2911
+567	HORÚCKA Tomáš	ž.Oršula r.Rapavá; ž.Oršula r.Rapavá	0	1500
+567	HORÚCKOVÁ Alžbeta	od B2,9	0	2924
+567	HORÚCKOVÁ Bernardína	r.Merdová	0	3542
+567	HORUCKOVÁ Bernardina r. Merdová	zomr.03.09.1995	0	2987
+567	HORÚCKOVÁ Bernardína r. Merdová		0	3876
+567	HORÚCKOVÁ Celestína r. Vojtková	zomr.05.08.1999	0	2980
+567	HORÚCKOVÁ Hedvika	od B2,9	0	2924
+567	HORÚCKOVÁ Jozefína r. Cíferská		0	2924
+567	Horúcková Jozefína r. Holíková		0	1897,1898,3370
+567	HORUCKOVA JOZEFINA R.HOLIKOVA		0	1899
+567	HORUCKOVÁ Mária	zomr.04.10.1998	0	2011
+567	HORÚCKOVÁ Mária	od B2,9	0	2924
+567	HORUCKOVÁ Mária r. Varačková		0	3162
+567	HORÚCKOVÁ Mária r. Varačková	od Emerencie Varačkovej	0	1616,2137,2554
+567	HORÚCKOVÁ Veronika		0	2924
+567	HORÚCKOVÁ Veronika	od B2,9	0	2924
+567	Horúčka František	rd František a Helena	0	2011,2820,2821,2848,2849,2856,2857,2858,2859,4407
+567	HORÚČKA František	m.Anna	0	3413
+567	HORUČKA Jozef	zomrel 21.03.1963	0	3448
+567	HORÚČKA Jozef	ž.Jozefa	0	3414
+567	Horúčka Ľudovít	mal.čd.35/1952	0	2011,2820,2821,2848,2849,3542,3876
+567	HORÚČKA Ľudovít	mal	0	1978,2448,2856,2857,2858,2859,4407
+567	Horúčka Peter	rd František a Helena	0	2011,2820,2821,2848,2849,2856,2857,2858,2859,4407
+567	HORÚČKA Rudolf	ded.Rudolf,Filip	0	3413
+567	Horúčka Tomáš	rd František a Helena	0	2011,2820,2821,2848,2849,2856,2857,2858,2859,4407
+567	Horúčka Tomáš	ž.Oršula r.Rapavá	0	2011,2820,2821,2848,2849,2856,2857,2858,2859,4407
+567	Horúčková Berta	r.Merdová m.Teofil	0	2859
+567	Horúčková Berta r. Mardová	m.Teofil	0	2848
+567	HORÚČKOVÁ Berta r. Merdová	m.Teofil	0	1978,2011,2448,2820,2821,2849,2856,2857,2858,4407
+567	HORÚČKOVÁ Jozefa	m.Jozef	0	3414
+567	HORUČKOVÁ Jozefína	zomrela 26.08.1951	0	3448
+567	HORÚČKOVÁ Katarína	r.Rebrová m.Alojz	0	3542
+567	HORÚČKOVÁ Katarína r. Rebrová	m.Alojz	0	3876
+567	Horválová Lýdia	od Ondreja Hnilku	0	2011,2589,2820,2821,2848,2849,2856,2857,2858,2859,3336,4407
+567	Horválová Mária	od Ondreja Hnilku	0	2011,2589,2820,2821,2848,2849,2856,2857,2858,2859,3336,4407
+567	Hrobláková Katarína r. Lajchová		0	299,2011,2820,2821,2848,2849,2856,2857,2858,2859,3738,4407
+567	HUBOVIČ Jozef	ž.Apolína r.Mavenčíková	0	3599
+567	HUBOVIČOVÁ Apolína r. Mavenčíková	m.Jozef	0	3599
+567	HUDECOVÁ Helena r. Karabová		0	1777,2889,2966,2967
+567	Huttová Mária r. Lajchová		0	299,2011,2820,2821,2848,2849,2856,2857,2858,2859,3738,4407
+567	CHŇAPKA Alexander	ž.Paulína r.Talajková	0	3619
+567	CHNAPKA Ján	ž.Filoména r.Šichmáková	0	3587
+567	CHNAPKA Stanislav	ž.Štefánia r.Spálová	0	3573
+567	CHNAPKOVÁ Filoména r. Šichmáková	m.Ján	0	3587
+567	CHNAPKOVÁ Mária r. Ševečková		0	3620
+567	CHŇAPKOVÁ Paulína r. Talajková	m.Alexander	0	3619
+567	CHNAPKOVÁ Štefánia r. Spálová	m.Stanislav	0	3573
+567	CHNAPKOVÁ Viktoria	r.Uváčiková m.Emrich	0	2004
+567	CHORVÁTOVÁ Berta r. Hnilková		0	3336
+567	CHUDÁ Augustína r. Karabová	zomr.22.03.1998	0	2011,3252
+567	CHUDÁ Bernardína		0	2011,2820,2821,2848,2849,2856,2857,2858,2859,4407
+567	CHUDÁ Bernardina r. Varačková	zomr.01.10.1997	0	2011,2820
+567	Chudá Cecilia	dátum úmrtia 29.11.1997	0	2011
+567	CHUDÁ Cecilia	zomr.29.11.1997	0	2137,2138,2522
+567	CHUDÁ Cecília r. Trnková	zomr.29.11.1997	0	2977
+567	CHUDÁ Johanka	čd.4427/1937	0	3472
+567	CHUDÁ Magdaléna r. Varačková	zomr.20.11.1979	0	1852
+567	Chudá Mária r. Manáková		0	2154
+567	Chudá Pavlína	od Jána Chudíka,zomr.31.10.1984	0	2011,2820,2821,2848,2849,2856,2857,2858,2859,4407
+567	Chudá Veronika	r.Brezovská m.Ján	0	2859
+567	CHUDÁ Veronika r. Brezovská	m.Ján	0	2011,2820,2821,2848,2849,2856,2857,2858,4407
+567	CHUDÝ Anton	zomr.13.09.1997	0	2011
+567	CHUDÝ Filip	ž.Johanna, zomr.28.11.1982	0	2011
+567	CHUDÝ Filip	ž.Johanna,zomr.28.11.1982	0	2820
+567	CHUDÝ Gabriel	ž.Štefánia r.Jurišová, zomr.05.12.1972	0	2011
+567	CHUDÝ Gabriel	ž.Štefánia r.Jurišová,zomr.05.12.1972	0	2820
+567	Chudý Gašpar		0	1768
+567	CHUDÝ Hieronym		0	1726
+567	Chudý Ignác		0	1767
+567	Chudý Ján		0	1014
+567	Chudý Ján	od Jána Chudého	0	2011,2820,2821,2848,2849,2856,2857,2858,2859,4407
+567	CHUDÝ Ján	spoluded.Bednárik František,Trnka Júlia	0	537
+567	Chudý Jaroslav		0	1723,1724,1768
+567	CHUDÝ Jaroslav	rd Ignác a Paula	0	1726
+567	Chudý Jozef		0	2856,2857,2858,2859,4407
+567	Chudý Jozef	čd.3727/1932	0	2011,2820,2821,2848,2849
+567	Chudý Jozef	čd.8282/1907	0	2011,2820,2821,2848,2849
+567	Chudý Jozef	ž.Paula r.Sedláčiková	0	2011,2820,2821,2848,2849,2856,2857,2858,2859,4407
+567	CHUDÝ Jozef	čd.3002/1942	0	3227
+567	CHUDÝ Jozef	od Pauliny,od Jozefa	0	1700,1727,2011,2820,2821,2848,2849,2856,2857,2858,2859,4407
+567	Chudý Michal	od Jána Chudého	0	2011,2820,2821,2848,2849,2856,2857,2858,2859,4407
+567	Chudý Mikuláš		0	1014
+567	Chudý Mikuláš	od Jána Chudého	0	2011,2820,2821,2848,2849,2856,2857,2858,2859,4407
+567	CHUDÝ Mikuláš	ž.Cecília r.Trnková	0	2977
+567	CHUDÝ Peter		0	3514
+567	Chudý Štefan	čd.3727/1932	0	2011,2820,2821,2848,2849
+567	CHUDÝ Štefan		0	742,1699,1723,1724,1726,1727,1768,2007,2856,2857,2858,2859,4407
+567	CHUDÝ Štefan	od Ignáca Chudého	0	644,742,1725,2007
+567	CHUDÝ Teofil	zomr.01.11.1995	0	2914
+567	CHUDÝ Tomáš	ž.Johanna r.Hnilková	0	1805
+567	Chudý Vendelín	čd.3727/1932	0	2011,2820,2821,2848,2849
+567	CHUDÝ Vendelín		0	742,1699,1726,1727,2007,2856,2857,2858,2859,4407
+567	CHUDÝ Vendelín	od Ignáca Chudého	0	644,742,1725,2007
+567	IVANOFFKOVÁ Berta	r.Varačková	0	1343,1855,3079,4009,4010,4011
+567	IVANOFFKOVÁ Berta r. Varačková		0	989,1852,1854,1877,1879
+567	JABLONICKÁ Júlia r. Verešová		0	3584
+567	JAČÁKOVÁ Zuzana r. Trnková	m.Tomáš	0	3341
+567	Jakubíčková Mária		0	1912
+567	Jančičeková Anna	r.Manáková m.Rudolf	0	2858,2859
+567	JANČIČEKOVÁ Anna r. Manáková	m.Rudolf	0	2011,2820,2821,2848,2849,2856,2857,4407
+567	Jančičeková Emerencia	nezl	0	829
+567	JANČIČEKOVÁ Emerencia	ded.Emerencia,Filip	0	1992
+567	JANČIČEKOVÁ Emerencia	ded.Emerencia,Lajcha Jozef a ž.Emerencia	0	1571
+567	JANČIČEKOVÁ Emerencia	ded.Johanna Lajchová r.Bednár,Emerencia	0	3122
+567	JANIČEKOVÁ Oršula r. Rapavá	ded.Izidor,Oršula	0	189,1957,1962,2456,2506,2836,2837
+567	Jankechová Jozefa	r.Chudá m.Ján	0	2859
+567	JANKECHOVÁ Jozefa r. Chudá	m.Ján	0	2011,2820,2821,2848,2849,2856,2857,2858,4407
+567	Jankovičová Mária		0	2856,2857,2858,2859,4407
+567	Jankovičová Mária	čd..2725/1948	0	2011,2848
+567	Jankovičová Mária	čd.2725/1948	0	2820,2821,2849
+567	JURICA Augustín	m.Helena,r.Lajchová, zomrel 11.10.1983	0	3159
+567	Jurica František	ž.Katarína r.Radošinská	0	2011,2820,2821,2848,2849,2856,2857,2858,2859,4407
+567	JURICA Ján	čd.4427/1937	0	3394
+567	Jurica Peter	ded.Peter,Júlia,Mária,Ján	0	2011,2820,2821,2848,2849,2856,2857,2858,2859,4407
+567	JURICA Peter	ž.Júlia r.Sedláčková	0	2924,3232,3475
+567	JURICA Štefan	od Vendelína Juricu	0	2219
+567	JURICA Štefan	ž.Anna r.Vančová	0	3507
+567	Juricová Alojzia	po vd.Márie Juricovej r.Bolerázovej	0	2011,2820,2821,2848,2849,2856,2857,2858,2859,4407
+567	JURICOVÁ Anna r. Vančová	m.Štefan	0	3507
+567	JURICOVÁ Helena r. Lajchová	zomrela 23.02.1989	0	3159
+567	Juricová Júlia	ded.Peter,Júlia,Mária,Ján	0	2011,2820,2821,2848,2849,2856,2857,2858,2859,4407
+567	JURICOVÁ Júlia	mal.sur.Júlia,Verona	0	1670,2011,2820,2821,2848,2849,2856,2857,2858,2859,4407
+567	Juricová Mária	ded.Peter,Júlia,Mária,Ján	0	2011,2820,2821,2848,2849,2856,2857,2858,2859,4407
+567	Juricová Verona	mal.sur.Júlia,Verona,zomr.02.12.1990	0	2011,2567,2820,2821,2848,2849,2856,2857,2858,2859,4064,4407
+567	Jurišová Anna	r.Vančová-vd.,zomr.10.07.1962	0	2856,2858,2859,4407
+567	JURIŠOVÁ Anna r. Vančová	vd.,zomr.10.07.1962	0	2011,2820,2821,2848,2849,2857
+567	JURIŠOVÁ Emera	m.Jozef	0	2806
+567	Jurišová Mária	mal.ded.Ľudovít,Mária	0	2011,2820,2821,2848,2849,2856,2857,2858,2859,4407
+567	JURKOVIČOVÁ Jolana r. Weissová		0	2899,3264
+567	KABÁT Cyprian	zomr.29.10.1989	0	2890
+567	KABÁT Filip	od Jána Kabáta	0	2968
+567	KABÁT Filip	po Eve,Šafranská 1066,Praha 6,16000	0	2890
+567	KABÁT Jozef	ž.Eva	0	3356
+567	KABÁT Jozef	ž.Gertrúda,Drahovce 93	0	3171
+567	KABÁTOVÁ Gertrúda r. Janigová	Drahovce 93	0	3171
+567	KAIŠA Jozef	ž.Sydonia r.Ďuračková	0	3575
+567	KAIŠOVÁ Sydonia r. Ďuračková	m.Jozef	0	3575
+567	KARABA Cyril	m.Anna,r.Bačíková, zomrel 22.10.1992	0	3168
+567	Karaba Dominik		0	2856,2857,2858,2859,4407
+567	Karaba Dominik	čd.3156/1924	0	2011,2820,2821,2848,2849,3225
+567	KARABA Filip	mal. čd.2497/1941	0	3226
+567	KARABA Filip	od Jozefa Karabu	0	3085
+567	KARABA FILIP		0	777
+567	Karaba Florián	ded.Vincent,Florián	0	2011,2820,2821,2848,2849,2856,2857,2858,2859,4407
+567	KARABA Florián	čd.514/1916	0	2081
+567	Karaba Gabriela r. Miklová		0	1814
+567	Karaba Gašpar	sur.Emerencia,Gašpar,Vincencia	0	2011,2196,2820,2821,2848,2849,2856,2857,2858,2859,4407
+567	KARABA Gašpar	ž.Katarína r.Rusnáková	0	3552
+567	Karaba Gyorgy	ž.Magda r.Segešová	0	2011,2820,2821,2848,2849,2856,2857,2858,2859,4407
+567	KARABA Jan	nar.10.05.1921	0	196
+567	Karaba Ján		0	452,580,807,2506,2856,2857,2858,2859,4407
+567	Karaba Ján	čd.8634/1904	0	2011,2820,2821,2848,2849
+567	KARABA Ján	1	0	1084,1639
+567	KARABA Ján	čd.4427/1937	0	3367
+567	KARABA Ján	čd.65/1944	0	579,3815
+567	KARABA Ján	mal. sur.Anna,Ján,Mária	0	1854,2990
+567	KARABA Ján	od Júlie Karabovej	0	2889
+567	KARABA Ján	po Martinovi Karabovi	0	3506
+567	KARABA Ján	po Štefanovi Karabovi	0	1028,2889
+567	KARABA Ján	ž.Bernardína r.Manáková	0	2944,3297,4434
+567	KARABA Ján	ž.Irena r.Kalianková	0	1777,2889,2966,2967
+567	KARABA Jozef	od Štefana Karabu	0	1028
+567	KARABA Jozef	po Michalovi Karabovi	0	2102
+567	KARABA Jozef	po Petrovi, zomr.20.05.2000	0	2967
+567	KARABA Jozef	podľa D 111/34	0	3041
+567	KARABA Jozef	st.čd.2405/1938	0	3505
+567	KARABA Jozef	sur.Jozef,Katarina	0	1699
+567	KARABA Jozef	sur.Mária,Jozef,Bernardína	0	2047
+567	KARABA Jozef	ž.Maria r.Polakovičová	0	192,1028,1786,2011,2820,2821,2848,2849,2856,2857,2858,2859,4407
+567	KARABA Jozef	ž.Pavla	0	3459
+567	KARABA Karol	1	0	1639
+567	KARABA Karol	čd.1724/1931	0	875,1825,2269
+567	KARABA KAROL		0	1323
+567	KARABA Ľudovít	ž.Rozka r.Kováčová,zomr.09.12.1987	0	192,1786,2011,2820,2821,2848,2849,2856,2857,2858,2859,4407
+567	Karaba Martin	ž.Magda r.Holíková	0	2011,2820,2821,2848,2849,2856,2857,2858,2859,4407
+567	Karaba Michal	po Mikuláši Karabovi	0	2011,2820,2821,2848,2849,2856,2857,2858,2859,3043,4407
+567	KARABA Michal	po Vincencovi Karabovi	0	1025,1028,1786,1813,2011,2081,2820,2821,2848,2849,2856,2857,2858,2859,4407
+567	KARABA Michal	zomr.06.03.1984	0	691
+567	KARABA Michal	ž.Alžbeta r.Petrášová	0	1805
+567	KARABA Michal	ž.Magdalena r.Marcinková	0	192,1028,1786,2011,2820,2821,2848,2849,2856,2857,2858,2859,3396,4407
+567	KARABA Michal	ž.Sidonia r.Karabová	0	3079
+567	KARABA MICHAL		0	1460,1814
+567	KARABA Mikuláš	rd Martin Karaba	0	2534,2592
+567	KARABA Mikuláš	ž.Mária r.Varačková	0	2592
+567	KARABA Milan		0	2966,2967
+567	Karaba Peter	čd.507/1913	0	2011,2820,2821,2848,2849
+567	KARABA Peter	čd.100	0	3354
+567	KARABA Peter	čd.1498/1932	0	2998
+567	KARABA Peter	čd.3932/1935	0	3266
+567	KARABA Peter	čd.4427/1937	0	3393
+567	KARABA Peter	ded.Peter,Maria	0	3064
+567	KARABA Peter	od Mikuláša Karabu	0	1786
+567	KARABA Peter	zomr.11.09.1971	0	3270
+567	KARABA Peter	ž.Anna r.Michaleková	0	3205
+567	KARABA Peter	ž.Mária,Drahovce 267	0	3172
+567	KARABA PETER		0	132,133,134,555,2856,2857,2858,2859,3870,4407
+567	KARABA Rudolf	po Petrovi Karabovi	0	1028
+567	Karaba Štefan		0	1814
+567	KARABA Štefan	mal.čd.1569/14	0	1786
+567	KARABA Štefan	ž.Emera r.Majerníková,zomr.14.01.1964	0	1786,2826
+567	KARABA Tomáš	od Mária,Angela,Marg.,Jozef,Anna,Karab	0	1028,1813
+567	KARABA Tomáš	rd Tomáš a Karolína r.Trnková	0	1028
+567	KARABA Tomáš	ž.Helena r.Rusnáková	0	2889,3244
+567	Karaba Vendelín	mal	0	2856,2857,2858,2859,4407
+567	Karaba Vendelín	mal.čd.8634/1904	0	2011,2820,2821,2848,2849
+567	KARABA Vendelín	po Martinovi Karabovi	0	3506
+567	Karabová Agáta r. Segešová		0	1827
+567	KARABOVÁ Alojzia	r.Varačková m.Vendelín	0	1343,1855,4009,4010,4011
+567	KARABOVÁ Alojzia r. Varačková		0	989
+567	KARABOVÁ Alojzia r. Varačková	m.Vendelín	0	1852,1854
+567	KARABOVÁ Amália	od Mikuláša Karabu	0	192,1028,1786,2011,2820,2821,2848,2849,2856,2857,2858,2859,4407
+567	KARABOVÁ Angela	od Štefana Karabu	0	1028
+567	Karabová Anna	mal	0	2856,2857,2858,2859,4407
+567	Karabová Anna	mal.čd.8634/1904	0	2011,2820,2821,2848,2849
+567	KARABOVÁ Anna	čd.1724/1931	0	875,1825,2269
+567	KARABOVÁ Anna	čd.736/1933	0	190
+567	KARABOVÁ Anna	mal. sur.Anna,Ján,Mária	0	1854,2990
+567	KARABOVÁ Anna	od Júlie Karabovej	0	2818,2819
+567	KARABOVÁ Anna	od Štefana Karabu	0	1028
+567	KARABOVÁ Anna	po Magdaléne Karabovej	0	477,1665,1666
+567	KARABOVÁ Anna r. Bačíková	m.Cyril, zomrela 31.07.1996	0	3168
+567	KARABOVÁ Anna r. Varačková		0	3295
+567	KARABOVÁ Bernardína	sur.Mária,Jozef,Bernardína	0	2047
+567	KARABOVÁ Berta	po Magdaléne Karabovej	0	477,1665,1666,2706,2817,3632
+567	Karabová Emerencia	sur.Emerencia,Gašpar,Vincencia	0	2011,2196,2820,2821,2848,2849,2856,2857,2858,2859,4407
+567	KARABOVÁ Emerencia r. Karabová	m.Martin	0	1787
+567	Karabová Emerencia r. Kremnická		0	555
+567	KARABOVÁ Emerencia r. Kremnická	m.Peter	0	2966,2967
+567	Karabová Emerencia r. Majerníková		0	2095

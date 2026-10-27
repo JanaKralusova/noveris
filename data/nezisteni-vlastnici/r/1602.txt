@@ -1,0 +1,256 @@
+941	DROBNÝ Štefan	mal	0	3912,3913
+941	Dudík Ján	r.Dudík,urbár-N 3/2005=VZ 15/06	0	3895,3896
+941	Dudík Martin	manželka Katarína r.Popelková	0	3629,4650
+941	Dudík Martin	manželka Katarína rod. Popelková	0	3983
+941	Dudík Martin	r.Dudík,ž.Katarína r.Popelková	0	4654,4659,4661
+941	DUDÍK Martin		0	3629,4661
+941	Dudík Martin r. Dudík	manželka Katarína r.Popelková	0	4662,4730
+941	DUDÍK Štefan		0	3493,3629,4650,4654,4659,4661,4662,4730
+941	DUDÍKOVÁ Anna	r.Popelková	0	4654,4659,4661,4662,4730
+941	DUDÍKOVÁ Anna r. Popelková		0	3629,4650
+941	Dudíková Katarína r. Popelková		0	3050,3983,4289,4492
+941	Dudíková Mária	mal	0	4654,4659,4661,4662,4730
+941	Dudíková Mária	maloletá	0	3493,3629,4650
+941	Durdíková Anna r. Švachová		0	3895,3896,3922,4041
+941	ĎURIŠOVÁ Anna	r.Dedíková	0	4661
+941	ĎURIŠOVÁ Anna r. Dedíková		0	3629
+941	EISLER Šarlota r. Steinmann		0	4478
+941	EISLEROVÁ Gizela		0	3665,4568,4569,4611
+941	EISLEROVÁ Šarlota	r.Steinmannová	0	4661
+941	EISLEROVÁ Šarlota r. Steinmannová		0	3629,4568,4569
+941	Figurová Anna r. Magálová		0	4095
+941	Figurová Anna r. Magálová	dátum úmrtia 28.04.1989	0	4320
+941	FISCHEROVÁ Anna r. Polláková		0	4457
+941	FRAŇOVÁ Mária	r.Kuceková	0	4654,4659,4661,4662,4730
+941	FRAŇOVÁ Mária r. Kuceková		0	3629,4650
+941	FRUDÁKOVÁ Anna r. Volníková		0	4041
+941	FÜREDI Leopold	Dr	0	3895,3896
+941	FÜREDI Leopold, Dr.		0	4571
+941	Gábel Štefan	dátum úmrtia 25.05.1969, manželka Katarína r. Bukovčíková	0	4580
+941	Gábelová Katarína r. Bukovčíková	dátum úmrtia 21.02.1981, manžel Štefan	0	4580
+941	Gajdoštín Ján	maloletý	0	4041
+941	Gajdoštín Ján r. Gajdoštín	maloletý	0	2791
+941	GAJDOŠTÍN Štefan	maloletý	0	2791,4041
+941	GAJDOŠTÍNOVÁ Anna Emília	maloletá	0	2791,4041
+941	GAŠPARÍK Adam		0	2804,4147
+941	GAŠPARIK Ján	zomrel 1866	0	3825
+941	Gašparík Ján	1	0	3831
+941	Gašparík Ján	manželka Anna r. Ďurčová	0	3854,4555
+941	Gašparík Ján	manželka Anna rod. Ďurčová	0	1763,2008,2631,2665,3629,3827,3830,3852,3857,3909,3976,4006,4018,4028,4042,4043,4069,4746
+941	Gašparík Ján	r.Gašparík	0	3826,4661,4825,4826,4931
+941	Gašparík Ján	r.Gašparík,manž.Anna Ďurčová	0	4661
+941	GAŠPARÍK Ján		0	1763,2008,3629,3827,3832,3838,3840,3977,4042,4054,4068,4661
+941	GAŠPARÍK Ján	manželka Anna rod. Turanová	0	4555
+941	GAŠPARÍK Ján	manželka Eva r. Breznická	0	4555
+941	GAŠPARÍK Ján	manželka Katarína rod. Bačová	0	4042
+941	Gašparík Ján r. Gašparík		0	3826,3955,4825,4826,4931
+941	Gašparík Ján r. Gašparík	manželka Anna rod. Ďurčová	0	3539,3855,3856,3955,4039
+941	GAŠPARIK Martin	maloletý	0	4069
+941	Gašparík Martin	manželka Katarína r. Dedíková	0	4579
+941	Gašparík Martin	manželka Katarína r.Dedíková	0	4276
+941	Gašparík Martin	r.Gašparík	0	3830,3852,4661,4746
+941	Gašparík Martin	r.Gašparík,v USA	0	4069,4555
+941	Gašparík Martin	v USA	0	4043
+941	GAŠPARÍK Martin		0	1763,2008,2631,2665,3629,3679,3827,3854,3857,3976,4018,4028,4042,4043,4069,4555,4661
+941	GAŠPARÍK Martin	výmaz maloletosti čd.1372/11	0	1763,2008
+941	Gašparík Martin r. Gašparík		0	1763,3539,3855,3856,3909,3955,4006,4039
+941	Gašparík Martin r. Gašparík	maloletý	0	3955
+941	Gašparík Martin r. Gašparík	v USA	0	3830,3955
+941	Gašparík Štefan	manželka Katarína rod. Lišková	0	3955
+941	Gašparík Štefan	manželka Mária rod. Štefániková	0	2631,2665,3852,3909,4006,4018,4028,4746
+941	Gašparík Štefan	manželka Mária Štefániková	0	3539
+941	Gašparík Štefan	r.Gašparík,súr.Martin,Anna,Eva	0	4661
+941	Gašparík Štefan	súrodenci Martin, Anna, Eva	0	1763,2008,3629,3830,4043,4555
+941	GAŠPARÍK Štefan		0	1763,2008,3629,3827,3857,3895,3896,4042,4139,4661
+941	GAŠPARÍK Štefan	mal. star	0	3955
+941	GAŠPARÍK Štefan	maloletosti	0	1763
+941	GAŠPARÍK Štefan	maloletý	0	2008,3827,3854,3955,3976,4042,4069
+941	GAŠPARÍK Štefan	manželka Mária rod. Podhradská	0	2631,3852,3909,4006,4018,4028,4746
+941	GAŠPARÍK Štefan	ž.Mária Podhradská	0	2665,3539
+941	Gašparík Štefan r. Gašparík		0	3955
+941	Gašparík Štefan r. Gašparík	súr. Martin, Anna, Eva	0	3955
+941	Gašparík Štefan r. Gašparík	súrodenci Martin, Anna, Eva	0	3855,3856,4039
+941	Gašparíková Alžbeta		0	1763,2008,3629,3826,3827,3831,3832,3838,3955,3977,4049,4051,4052,4054,4055,4056,4068,4574,4661,4825,4826,4931
+941	Gašparíková Anna	súr.Martin,Štefan,Eva	0	4661
+941	Gašparíková Anna	súrodenci Martin, Štefan, Eva	0	1763,2008,3629,3830,3854,3855,3856,3976,4043,4069,4159,4555
+941	GAŠPARÍKOVÁ Anna		0	2631,2665,3539,3827,3852,3857,3907,3909,3955,4006,4018,4028,4039,4042,4049,4051,4052,4055,4056,4746
+941	GAŠPARÍKOVÁ Anna r. Bušová		0	3826,3838,4068,4825,4826,4931
+941	GAŠPARÍKOVÁ Anna r. Černá		0	2673
+941	GAŠPARÍKOVÁ Anna r. Miklánková		0	3678,3679,4724,4754,4907
+941	Gašparíková Anna r. Podhradská		0	4102,4445
+941	GAŠPARÍKOVÁ Anna r. Štefanovičová		0	3907
+941	GAŠPARÍKOVÁ Beta		0	3840
+941	Gašparíková Eva	rod.Gulanová, vdova	0	3895,3896,4654,4659,4661,4662,4730
+941	Gašparíková Eva r. Gulanová		0	1388,3136,3629,3630,3872,3880,3881,4106,4128,4134,4382,4650
+941	Gašparíková Katarína		0	1763,2008,3629,3827,3831,3832,3840,3857,3955,3958,4054,4558,4574
+941	Gašparíková Katarína	1	0	3895,3896,4661
+941	Gašparíková Katarína	m.Ján	0	4042
+941	Gašparíková Katarína	r.Dedíková	0	4661
+941	GAŠPARÍKOVÁ Katarína	maloletá	0	4159
+941	Gašparíková Katarína r. Bačová	manžel Ján	0	1763,2008,3629,3827,3831,3832,3955,4574,4661
+941	Gašparíková Katarína r. Dedíková		0	3629,4276
+941	GAŠPARÍKOVÁ Katarína r. Miklánková		0	4483
+941	Gašparíková Katarína, Mária r. Podhradská		0	3827
+941	GAŠPARÍKOVÁ Mária		0	3629,4049,4051,4052,4055,4056,4336,4661,4691
+941	GAŠPARÍKOVÁ Zuzana		0	1763,2008,3629,3955,4574,4661
+941	Gavalcová Anna r. Rýdza	m.Milan	0	3895,3896
+941	GAŽO Ján	mal	0	4661
+941	GAŽO Ján	maloletý	0	3629
+941	Gažo Martin		0	3629,4650
+941	Gažo Martin	r.Gažo	0	4654,4659,4661,4662,4730
+941	GAŽO Štefan	2. manž. Mária r.Pastorková	0	4661
+941	GAŽO Štefan	m.Mária Bukovčíková	0	4661
+941	GAŽO Štefan	manželka Mária r. Pastorková	0	3629
+941	GAŽO Štefan	manželka Mária rod. Bukovčíková	0	3629
+941	Gažová Anna		0	3629,3733,3911,4160,4165,4173,4244,4661,4842,4855,4878
+941	Gažová Eva	vým.malol.čd.2591/30	0	4654,4659,4661,4662,4730
+941	Gažová Eva	výmaz maloletosti č.d. 2591/30	0	3629
+941	Gažová Eva	výmaz maloletosti čd.2591/30	0	4650
+941	Geržo Martin		0	3799,4603
+941	Geržová Alžbeta r. Mitanová	manžel Ján	0	4041
+941	Geržová Anna	maloletá do r. 1929	0	4041
+941	GERŽOVÁ Anna	maloletá	0	4041
+941	GERŽOVÁ Anna r. Chovancová		0	4607
+941	Geržová Mária	r.Gulanová	0	4661
+941	Geržová Mária r. Gulanová		0	3629,3799,4292,4330,4331,4603,4704
+941	GOTZ Antonín	m.Augustína Benová	0	4661
+941	GRUNHULTOVÁ Neti r. Hahnová		0	3901
+941	Gulan Ján		0	1387,1450,2682,3046,3148,3411,3413,3414,3415,3799,3823,3824,4158,4356,4358,4385,4452,4458,4545,4546,4683,4684,4800,4812,4863,4864,4865,4873,4874,4886,4887,4888
+941	Gulan Ján	manželka Anna r. Bukovčáková	0	1387,1388,2751,2991,2994,3132,3138,3146,3148,3151,3161,3872,3879,3880,4106,4128,4132,4383,4385,4454,4650,4799,4800,4801,4812,4821,4822,4843,4873,4912
+941	Gulan Ján	manželka Anna rod. Bukovčáková	0	1384,1393,2991,3133,3136,3143,3144,3160,3629,3630,3881,3884,3885,3886,4062,4076,4106,4123,4124,4125,4128,4130,4134,4136,4798,4802,4803,4805,4806
+941	Gulan Ján	po Adamovi	0	2807,2995,4104,4126,4131,4382
+941	Gulan Ján	po Jánovi	0	1388,1393,2751,2807,2994,3132,3133,3136,3138,3146,3151,3156,3160,3161,3164,3166,3629,3872,3880,3881,3884,3885,3886,3953,4062,4076,4104,4117,4118,4125,4126,4127,4128,4130,4131,4136,4142,4382,4383,4385,4454,4603,4650,4798,4799,4801,4802,4803,4805,4806,4821,4839,4843,4848
+941	Gulan Ján	po Štefanovi	0	3156,3166,3630,3799,4106,4142,4382,4385,4603
+941	Gulan Ján	r.Gulan,manž.Anna Bukovčáková	0	3147,4654,4659,4661,4662,4730
+941	Gulan Ján	r.Gulan,po Adamovi	0	3154,3873,3895,3896,3953,3954,4849
+941	Gulan Ján	r.Gulan,po Jánovi	0	3147,3154,3873,3879,3895,3896,3954,4654,4659,4661,4662,4730,4822,4849,4912
+941	Gulan Ján	r.Gulan,po Štefanovi	0	3895,3896
+941	GULAN Ján	manželka Alžbeta r. Miklánková	0	1388
+941	GULAN Ján	manželka Alžbeta rod. Miklánková	0	3136,3881
+941	GULAN Ján	manželka Mária r. Miklánková	0	3048,3049
+941	GULAN Ján	po Anne Gulanovej r.Bušovej	0	4452
+941	Gulán Ján	r.Gulán	0	3895,3896,3930,4388
+941	GULÁN Ján	mal	0	4661
+941	GULÁN Ján	maloletý	0	4154
+941	Gulan Ján r. Gulan	manželka Anna rod. Bukovčáková	0	2998
+941	Gulan Ján r. Gulan	po Adamovi	0	2997,3799,4603
+941	Gulan Ján r. Gulan	po Štefanovi	0	2998
+941	Gulan Ján r. Gulán	po Jánovi	0	2995,2997,2998,3140,3155,3966,4847
+941	Gulan Juraj	dátum úmrtia 03.05.1991, manželka Mária r. Gulanová	0	1690
+941	Gulan Juraj	manželka Mária r. Miklánková	0	3046,3048,3049,4546
+941	Gulan Juraj	manželka.Mária r. Miklánková	0	4545
+941	Gulan Juraj	r.Gulan,po Anne Gulanovej r.Bušovej	0	4452
+941	GULAN Juraj	maloletý do r.1929	0	4452
+941	GULAN Juraj	po Adamovi	0	1387,4382
+941	Gulán Juraj		0	3351,4120,4138,4143,4158,4824
+941	Gulán Juraj	manželka Anna r. Bukovčíková	0	1384,1393,2751,2807,2991,2995,3132,3138,3143,3144,3146,3148,3151,3160,3161,3164,3629,3630,3872,3879,3884,3886,4104,4106,4123,4124,4125,4126,4127,4128,4130,4131,4132,4134,4136,4138,4143,4383,4454,4798,4799,4800,4801,4802,4803,4806,4812,4821,4822,4843,4848,4873,4912
+941	Gulán Juraj	manželka Anna r.Bukovčíková	0	2994,3154,3799,3880,4385,4603,4650
+941	Gulán Juraj	manželka Anna rod. Bukovčíková	0	2998,3133,3885,4062,4076,4805
+941	Gulán Juraj	po Jánovi, vým.mal.čd 1844/29	0	3160,4798
+941	Gulán Juraj	po Jánovi, výmaz maloletost č.d. 1844/29	0	4454,4799
+941	Gulán Juraj	po Jánovi, výmaz maloletosti č.d. 1844/29	0	1384,1387,1388,2807,2991,3132,3133,3136,3143,3144,3146,3148,3151,3156,3161,3164,3166,3629,3630,3879,3880,3881,3884,4076,4104,4106,4117,4118,4123,4124,4125,4127,4128,4130,4132,4134,4136,4142,4383,4385,4800,4801,4802,4803,4805,4806,4812,4821,4822,4839,4843,4848,4873,4912
+941	Gulán Juraj	po Jánovi, výmaz maloletosti čd 1844/29	0	1393,2751,2994,3140,3154,3155,3885,3886,3954,3966,4062,4847
+941	Gulán Juraj	po Jánovi, výmaz maloletosti čd. 1844/29	0	3872,4650
+941	Gulán Juraj	po Jánovi, výmaz maloletý č.d. 1844/29	0	3138
+941	Gulán Juraj	po Jánovi,výmaz maloletosti č.d. 1844/29	0	4382
+941	Gulán Juraj	r.Gulán	0	3930,4131
+941	Gulán Juraj	r.Gulán,po Jánovi,vým.mal.čd 1844/29	0	3147,3873,3895,3896,4654,4659,4661,4662,4730,4849
+941	Gulán Juraj	r.Gulán,ž.Anna r.Bukovčíková,vdovec	0	3147,3873,3895,3896,4654,4659,4661,4662,4730,4849
+941	Gulán Juraj	výmaz maloletosti č.d. 1844/29	0	3799
+941	Gulán Juraj	výmaz maloletosti čd 1844/29	0	3953
+941	Gulán Juraj	výmaz maloletosti čd. 1844/29	0	4603
+941	Gulán Juraj r. Gulán		0	3970
+941	Gulán Juraj r. Gulán	manželka Anna r.Bukovčíková	0	3953
+941	Gulán Juraj r. Gulán	manželka Anna rod. Bukovčíková	0	2997,3140,3155,3954,3966,4847
+941	Gulán Juraj r. Gulán	po Jánovi, výmaz maloletosti čd 1844/29	0	2997,2998
+941	Gulán Juraj r. Gulán	po Jánovi, výmaz maloletosti v roku 1929	0	2995
+941	Gulan Martin	po Martinovi	0	1384,1387,1388,1393,2751,2807,2991,2994,2995,3132,3133,3136,3138,3140,3143,3144,3146,3148,3151,3156,3160,3161,3164,3166,3629,3630,3799,3872,3880,3881,3884,3885,3886,4062,4076,4104,4106,4117,4118,4123,4124,4125,4126,4127,4128,4130,4131,4132,4134,4136,4142,4382,4383,4385,4454,4603,4650,4798,4799,4800,4801,4802,4803,4805,4806,4812,4821,4839,4843,4847,4848,4873
+941	Gulan Martin	r.Gulan,po Martinovi	0	1393,3147,3154,3873,3879,3895,3896,3953,3954,4654,4659,4661,4662,4730,4822,4849,4912
+941	GULÁN Martin		0	2673,3358,3359,3360,3629,3790,3791,3967,4416,4417,4428,4529,4580,4661
+941	GULÁN Martin	ženatý bol s Katarínou Hloškovou	0	3907
+941	Gulan Martin r. Gulan	po Martinovi	0	2997,2998,3155,3966
+941	Gulán Martin r. Gulán		0	3892
+941	Gulán Štefan		0	2673,3358,3359,3360,3629,3790,3791,4416,4417,4428,4529,4580
+941	Gulán Štefan	r.Gulán,1	0	4661
+941	GULAN Tomáš	maloletý	0	3956
+941	Gulánová Alžbeta	r.Miklánková	0	4661
+941	Gulánová Alžbeta r. Miklánková		0	1690,1691,2652,2916,3420,3421,3629,4121,4162,4418,4422,4423,4560,4765,4884
+941	Gulanová Anna	po Jánovi, vým.malol.čd.4479/33	0	3146,4130,4131,4802,4806
+941	Gulanová Anna	po Jánovi, výmaz maloletosti č.d. 4479/33	0	1384,1387,1388,2751,2807,2991,2995,3132,3133,3136,3138,3143,3144,3160,3164,3166,3879,3880,3881,3884,4104,4106,4117,4123,4124,4125,4126,4127,4128,4132,4134,4136,4142,4382,4383,4385,4454,4798,4799,4803,4805,4822,4848,4912
+941	Gulanová Anna	po Jánovi, výmaz maloletosti č.d.4479/33	0	3146,3156,3160,3630,3884,4106,4798
+941	Gulanová Anna	po Jánovi, výmaz maloletosti čd. 4479/33	0	2994,3966,4452,4650
+941	Gulanová Anna	po Jánovi, výmaz maloletosti čd.4479/33	0	1393,2997,2998,3140,3151,3154,3155,3629,3885,3886,3953,3954,4062,4076,4118,4124,4132,4839,4847
+941	Gulanová Anna	po Jánovi, výmaz maloletosti čd.4479/33 po Jánovi, výmaz maloletosti čd.4479/33	0	1393
+941	Gulanová Anna	po Jánovi, výmaz malololetosti č.d. 4479/33	0	3148,4127,4800,4812,4873
+941	Gulanová Anna	po Jánovi,vým.malol.čd.4479/33	0	3147,3873,3895,3896,3930,4654,4659,4661,4662,4730,4849
+941	Gulanová Anna	po Jánovi,výmaz maloletosti čd.4479/33	0	3885
+941	Gulanová Anna	výmaz maloletosti č.d. 165/52	0	4158
+941	Gulanová Anna	výmaz maloletosti č.d. 4479/33	0	3161,3799,4801,4821,4843
+941	Gulanová Anna	výmaz maloletosti čd. 4479/33	0	3872,4603
+941	Gulanová Anna	výmaz maloletosti čd.4479/33	0	4650
+941	GULÁNOVÁ Anna	slobodná-dcéra Jána Gbelca	0	4661
+941	Gulanová Anna r. Bušová	manžel Ján	0	900,3048,3050,3051,3461,3463,3493,3983,4289,4460,4461,4462,4463,4492,4545
+941	Gulanová Anna r. Miklánková		0	3899
+941	Gulanová Eva	po Katarína Gulanová	0	2673,3358,3360,3629,3791,4416,4417,4428,4519,4520,4580,4661
+941	Gulanová Eva	po Kataríne Gulanovej	0	3359,3790,4600
+941	Gulánová Eva	r.Štefániková	0	4661
+941	GULÁNOVÁ Eva	maloletá	0	4605
+941	GULÁNOVÁ Eva r. Bukovčíková		0	3351,4824
+941	Gulánová Eva r. Štefániková		0	2666,3493,3629,4000,4014,4019,4708,4913,4914,4917
+941	Gulanová Katarína	po Štefanovi	0	1384,1387,1388,1393,2751,2807,2991,2994,2995,2997,2998,3132,3133,3136,3138,3143,3144,3146,3147,3148,3151,3154,3156,3160,3161,3166,3629,3630,3799,3872,3873,3879,3880,3881,3884,3885,3886,3895,3896,3953,3954,4062,4076,4104,4106,4123,4124,4125,4126,4128,4130,4131,4132,4134,4136,4142,4154,4382,4383,4385,4454,4603,4650,4654,4659,4661,4662,4730,4798,4799,4800,4801,4802,4803,4805,4806,4812,4821,4822,4843,4849,4873,4912
+941	Gulanová Katarína	Štefanovi	0	4650
+941	GULANOVÁ Katarína	výmaz maloletosti čd. 3338/36	0	3956
+941	GULANOVÁ Katarína r. Chovancová		0	3475,3480,3822,4369,4755,4756,4788
+941	GULANOVÁ Katarína r. Podhradská		0	3904
+941	Gulanová Mária	po Katarína Gulanová	0	2673,3358,3629,3791,4416,4417,4428,4529,4580,4661
+941	Gulanová Mária	po Kataríne Gulanovej	0	3359,3360,3790
+941	Gulanová Mária	rod.Miklánková	0	4661
+941	GULANOVÁ Mária	r.Miklanková	0	4661
+941	Gulanová Mária r. Miklánková		0	2649,2653,3629,3849,4422,4763,4766,4767,4769,4770
+941	GURIŠOVÁ Alžbeta	r.Švehlová	0	4654,4659,4661,4662,4730
+941	GURIŠOVÁ Alžbeta r. Švehlová		0	3629,4650
+941	GYURIŠOVÁ Eva r. Zelková	manžel Adam	0	4538
+941	Halodová Elena		0	3629
+941	HALUZA Jozef	mal	0	4661
+941	HALUZOVÁ Katarína		0	3688,4262
+941	Hargaš Ján		0	2863,3629,3858,3878,3883,3895,3896,3912,3913,4650
+941	Hargaš Ján	po Martinovi	0	3629,4650
+941	Hargaš Ján	r.Hargaš	0	4654,4659,4661,4662,4730
+941	Hargaš Ján	r.Hargaš,po Martinovi	0	4654,4659,4661,4662,4730
+941	Hargaš Ján	r.Hargaš,syn Juraja a Anny rod.Slobodníkovej	0	3922
+941	HARGAŠ Ján	manželka Anna r. Skúpa	0	4478,4480
+941	HARGAŠ Ján	ž.Anna Skúpa; ž.Anna Skúpa	0	3923
+941	Hargaš Ján r. Hargaš		0	3858,3921
+941	Hargaš Juraj		0	2670,3629,4650
+941	Hargaš Juraj	r.Hargaš,urbár-N 3/2005=VZ 15/06	0	3895,3896,4659,4661,4662,4730
+941	HARGAŠ Juraj	mal., po Martinovi	0	4654,4659,4661,4662,4730
+941	HARGAŠ Juraj	maloletý	0	4650
+941	HARGAŠ Juraj	maloletý, po Martinovi	0	3629
+941	HARGAŠ Juraj	ž.Anna Bocorová	0	3912,3913
+941	Hargaš Juraj r. Hargaš		0	4654
+941	HARGAŠ Martin		0	3046,3692,3701,3858,4546
+941	Hargaš Štefan	1	0	4654,4659,4662,4730
+941	HARGAŠ Štefan		0	3629,3895,3995,4650,4654,4659,4661,4662,4730
+941	HARGAŠ Štefan	maloletý	0	3629,4654,4659,4661,4662,4730
+941	Hargaš Štefan r. Hargaš		0	3896
+941	HARGAŠOVÁ Alžbeta	po Martinovi,brat Štefan	0	3942
+941	HARGAŠOVÁ Alžbeta	r.Kubáková	0	3895,3896,4654,4659,4661,4662,4730
+941	HARGAŠOVÁ Alžbeta r. Kubáková		0	3629,3707,4650
+941	Hargašová Anna		0	3895,3896,3942
+941	Hargašová Anna	po Martinovi	0	4304,4306
+941	Hargašová Anna	r.Skúpa m.Ján	0	3912,3913
+941	Hargašová Anna r. Štefániková	dátum úmrtia 06.02.2004	0	2855
+941	HARGAŠOVÁ Eva r. Hargašová		0	3692,3701
+941	Hargašová Katarína	r.Juríková, urbár-N 3/2005=VZ 15/06	0	3895,3896
+941	HARGAŠOVÁ Katarína	r.Bocorová	0	3912,3913
+941	HARGAŠOVÁ Katarína	r.Mikulcová	0	3895,3896
+941	HARGAŠOVÁ Katarína	r.Žabčíková, m.Ján	0	4661
+941	Hargašová Katarína r. Juríková		0	3924
+941	HARMADI Anna r. Hložková		0	3415
+941	HAVALCOVÁ Eva		0	3629,4661
+941	Havalcová Helena r. Nešťáková		0	3528
+941	HELÍK Ján		0	3895,3896
+941	HELÍK Martin		0	3895,3896
+941	HELÍK Michal		0	3895,3896
+941	HELÍKOVÁ Anna r. Bačová		0	4611
+941	Helíková Katarína	r.Zelková	0	3895,3896,3912,3913

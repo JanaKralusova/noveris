@@ -1,0 +1,256 @@
+3334	Sivaková Terezia r. Sivaková		0	520,588,611
+3334	SKOLSKY MAJETOK		0	359
+3334	SKUBAN Andrej		0	255
+3334	SKUBAN Andrej, SR	ž. Anna r.Demková	0	255
+3334	SKUBAN Ján		0	37,111,189,191,255,302,396,594
+3334	Skuban Ján r. Skuban		0	502,508,535,557
+3334	Skuban Ján r. Skuban	1	0	548,567,568
+3334	Skuban Ján r. Skuban	2	0	357,549
+3334	Skuban Ján r. Skuban	čd.127/1928; čd.127/1928	0	535
+3334	SKUBAN Ján, SR		0	130,397,594
+3334	SKUBAN Peter	ž. Mária r. Šafranková	0	255
+3334	SKUBAN Peter	žena Mária r. Šafranková	0	302,396,594
+3334	SKUBAN PETER		0	37,111,130,168,189,255,302,396,397,581,583,594
+3334	Skuban Peter r. Skuban		0	502,508,548,567,568
+3334	Skuban Peter r. Skuban	1	0	357
+3334	Skuban Peter r. Skuban	manž.Mária r.Šafranková	0	357,548,567,568
+3334	SKUBAN Peter, SR		0	130
+3334	SKUBAN Peter, SR	žena Mária r. Šafranková	0	37
+3334	SKUBAN STEFAN		0	191,396,594
+3334	SKUBAN Štefan	ž. Anna r. Mičová	0	255
+3334	SKUBAN Štefan	žena Anna r. Mičová	0	37
+3334	Skuban Štefan r. Skuban		0	357,535,549
+3334	Skuban Štefan r. Skuban	manž.Anna r.Mičová	0	508,535,548,557,567,568
+3334	SKUBAN Štefan, SR		0	130
+3334	SKUBAN Štefan, SR	žena Anna r. Mičová	0	302
+3334	SKUBANOVA ANNA R MICOVA		0	191
+3334	Skubanová Anna r. Demková		0	535
+3334	Skubanová Anna r. Micová		0	357
+3334	SKUBANOVÁ Mária		0	111
+3334	SKUBANOVA MARIA R OBSASNIKOVA		0	330,460,463
+3334	SKURKOVÁ Mária, SR	malol. B 1 h	0	197
+3334	SKURLOVA ANNA R OLCAKOVA		0	208
+3334	SKURLOVA ANNA R PUHAKOVA		0	356
+3334	SKURLOVA MARIA		0	105,165,168,338,339,404,405,494,581,583,612
+3334	Skurlová Mária r. Skurlová		0	357
+3334	Skurlová Mária r. Skurlová	mal	0	357,513,553
+3334	Smerek Ján		0	324
+3334	Smerek Jan r. Smerek		0	357
+3334	SUSINKA JAN		0	195
+3334	Susinka Jan r. Susinka		0	357
+3334	SUSINKA MICHAL		0	195,351
+3334	SUSINKA MICHAL /Z ANNA R OBSASNIKOVA/		0	370
+3334	Susinka Michal r. Susinka		0	357
+3334	Susinka Michal r. Susinka	manž.Anna r.Obšajsnikova	0	542
+3334	SUSINKOVA ANNA R OBSASNIKOVA		0	133,135
+3334	Susinková Anna r. Obsasniková		0	357,507,536
+3334	SUSINKOVA MARIA R TUTOKOVA		0	166,580
+3334	Sušinka Ján r. Sušinka	1	0	546,555
+3334	Sušinka Michal r. Sušinka	1	0	546
+3334	Sušinka Michal r. Sušinka	zomrel 2.4.1968	0	533,556
+3334	Sušinková Alžbeta r. Popiková	muž Ján	0	534
+3334	SUŠINKOVÁ Zuzana r. Maruščaková		0	50,230,455,503,516,550,591
+3334	SUŠINOVÁ Anna r. Obšasniková		0	132
+3334	Škurlová Barbora r. Holenová		0	551
+3334	ŠKURLOVÁ Mária, SR	malol	0	158
+3334	TUTEK JAN		0	133,135
+3334	Tutek Jan r. Tutek		0	357,507
+3334	TUTEK Ján, Vyšná Olšava, SR		0	132
+3334	Tutek Michal r. Tutek		0	536
+3334	TUTEKOVA ANNA		0	135
+3334	Tuteková Anna r. Tuleková		0	357
+3334	TUTEKOVÁ Mária		0	132,133,135
+3334	Tuteková Mária r. Tuteková		0	357,536
+3334	Tuteková Mária r. Tuteková	1	0	507
+3334	Tutok Ján r. Tutok		0	536
+3334	Tutok Ján r. Tutok	1	0	536
+3334	Tutoková Anna r. Tutoková		0	536
+3334	Tutoková Mária r. Tutoková		0	536
+3334	Varga Ján r. Varga	manž.Zuzana r.Kušnírová	0	541
+3334	VARGA MICHAL		0	207,208,209,302,330,336,460,463
+3334	Varga Michal r. Varga	1	0	357,541
+3334	VARGA PETER		0	207,208,209,230,336
+3334	Varga Peter r. Varga		0	357,541,549
+3334	VARGOVÁ Anna		0	37,50,207,208,209,230,233,235,255,455
+3334	Vargová Anna r. Vargová		0	357,535,557
+3334	Vargová Anna r. Vargová	1	0	508
+3334	Vargová Anna r. Vargová	2	0	516,548,550,567,568
+3334	Vargová Anna r. Vargová	3	0	541
+3334	VARGOVÁ Helena		0	37,50,230,255,455
+3334	VARGOVA HELENA R DEMKOVA		0	116
+3334	Vargová Helena r. Demková	muž Pavel	0	547
+3334	Vargová Helena r. Vargová		0	508,549,557
+3334	Vargová Helena r. Vargová	1	0	516,535,548,550,567,568
+3334	Vargová Helena r. Vargová	2	0	541
+3334	VARGOVA MARIA		0	207,208,209
+3334	VARGOVA MARIA R KOVACOVA		0	207,209
+3334	Vargová Mária r. Kováčová		0	357,541
+3334	Vargová Mária r. Vargová		0	357
+3334	Vargová Mária r. Vargová	1	0	541
+3334	Vasilišinová Anna r. Bačišinová		0	540
+3334	Vašenková Helena r. Jacinová		0	224,357
+3334	VENDLOVIC VATHAN		0	160
+3334	VOK MICHAL		0	232,573
+3334	VOOK Ján		0	50,116,117,230,231,395,438,451,452,455,593
+3334	Vook Ján r. Vook	1	0	516,550
+3334	Vook Štefan r. Vook		0	357
+3334	Zajarošová Helena r. Olčaková		0	525
+3335	BIROSOVA Eva zomrela		0	144,145
+3335	BORNSTEIN Lemet		0	144,145
+3335	GREGOVA Anna		0	131,140
+3335	GREGOVA Anna zomrela		0	144,145,146,148
+3335	HOJDOVÁ Mária	r RODÁKOVÁ	1	89,93
+3335	HOLOVKOVÁ Anna	r RODÁKOVÁ	1	89,93
+3335	HOVANCOVA Helena zomrela		0	136
+3335	HOVANEC Michal zomrel		0	136
+3335	HOVANEC Stefan zomrel		0	136
+3335	HVOZDA Andrej CR		0	131,144,145
+3335	HVOZDA Andrej zomrel		0	144,145,155
+3335	HVOZDA Jan SPIRKA zomrel		0	146,148
+3335	HVOZDA Jan zomrel		0	140,144,145,155
+3335	HVOZDA Juraj zomrel		0	144,145
+3335	HVOZDA Michal NP CR		0	131,144,145
+3335	HVOZDA Mikulas zomrel		0	146,148
+3335	HVOZDA Vasil zomrel		0	144,145
+3335	HVOZDOVA Anna Helena r GAJDOSOVA CR		0	131,144,145
+3335	CHOVANCOVA Anna zomrela		0	136
+3335	CHOVANCOVA Maria CR		0	136
+3335	CHOVANCOVA Maria zomrela		0	136
+3335	KACURJAK Jan zomrel		0	142
+3335	KNAZKOVA ANNA R.TKACOVA		0	149
+3335	KOSTIK Andrej zomrel		0	142,144,145,158,160
+3335	KOSTIK Jan zomrel 1		0	142
+3335	KOSTÍK Jozef		1	171
+3335	KOSTIK Juraj zomrel		0	142
+3335	KOSTÍK Michal		1	18,99
+3335	KOSTIK Michal zomrel		0	123,142,144,145,168
+3335	KOSTÍKOVÁ Anna		1	183
+3335	KOSTIKOVA Anna zomrela		0	142,144,145
+3335	KOSTIKOVA Helena CR		0	142,144,145,158,160
+3335	KOSTIKOVA Helena zomrela		0	144,145
+3335	KOSTIKOVA Maria zomrela		0	142,144,145,158,160
+3335	KOSTIKOVA Paraska zomrela		0	142,144,145
+3335	KUCHTA Jan CR		0	168
+3335	MELLER Baruch		0	144,145
+3335	MELLER Pavol		0	144,145
+3335	OBLETILOVA Paraska r KOSTIKOVA zomrela		0	142
+3335	PANKO Rudolf		0	144,145
+3335	PANKOVA Maria r RISKOVA zomrela		0	136
+3335	REICH Jozef		0	145
+3335	RODÁK Ján		1	89,93
+3335	RODAK Jan zomrel		0	152
+3335	RODÁK Peter		1	89,93
+3335	RODAK Peter zomrel		0	152
+3335	RODÁK Vasiľ		1	89,93
+3335	RODAK Vasil zomrel		0	128,144,145,152
+3335	RODAKOVA Anna CR		0	152
+3335	RODÁKOVÁ Mária		1	89,93
+3335	RODAKOVA Maria CR		0	128,144,145,152
+3335	RODÁKOVÁ Paraska		1	89,93
+3335	RODAKOVA Paraska CR		0	128,144,145,152
+3335	RODÁKOVÁ Terézia		1	89,93
+3335	RODAKOVA Terezia CR		0	128,144,145,152
+3335	ROMANCIN Michal zomrel		0	144,145
+3335	ROMANCINOVA Paraska zomrela		0	144,145
+3335	RUDÁ Mária		1	183
+3335	SAGANOVA Anna r KOSTIKOVA zomrela		0	142
+3335	SPIRKA Andrej zomrel		0	131,144,145
+3335	SPIRKA Peter zomrel		0	131,144,145
+3335	TKAC Demeter zomrel		0	149
+3335	VANÁT Ján	ž Paraska r HUMENÍKOVÁ	1	173
+3335	VANAT Jan zomrel		0	140,141,142,144,145,146,148,155,157
+3335	VANÁT Michal	1	1	177
+3335	VANATOVA Helena zomrela		0	140,142,144,145
+3335	ZUMAROVA Anna r KUCHTOVA zomrela		0	168
+3336	....		0	301,302,340,341
+3336	ASTALOŠ Ján	Slávik	0	244,358
+3336	Astaloš Michal	USA	0	14
+3336	Astaloš Samuel r. Astaloš		0	340,341
+3336	Astalošová Alica Mgr.		0	340,341
+3336	ASTALOŠOVÁ Julianna r. Albertová		0	241,242
+3336	ASTALOŠOVÁ Paulína		0	238,365
+3336	ASTALOŠOVÁ Sabína r. Sláviková		0	226
+3336	BANSKÝ Ján		0	213
+3336	Beracko Samuel r. Beracko		0	340,341
+3336	BERACKOVÁ Mária r. Beracková		0	242
+3336	Blaho Ladislav Ing.  r. Blaho		0	340,341
+3336	Blahová Pavlina r. Házašová		0	338
+3336	CABAN Ján		0	219
+3336	CABAN Ján	Nižný	0	216,255
+3336	Caban Ján r. Caban		0	341
+3336	CABAN Pavel		0	219
+3336	CABAN Pavel	Nižný	0	216,255
+3336	CEBER Ladislav		0	272
+3336	CEBER Michal	Dvorský	0	330,363
+3336	CEBER Pavel		0	172
+3336	Eckhardtová Jolana		0	340,341
+3336	HÁZAŠ Michal		0	215,385,404
+3336	Házašová Sabina r. Cabanová	manž. Juraj	0	338
+3336	HÁZAŠOVÁ Sabína r. Cabanová		0	223
+3336	Kováčová Mária r. Astalošová		0	340,341
+3336	Krišková Margita		0	340,341
+3336	LACKO Ján		0	240
+3336	Lacko Tibor r. Lacko		0	340,341
+3336	LEHOCKÝ Juraj	Čižmár	0	246
+3336	Lehocky Pavel r. Lehocky		0	340,341
+3336	Madžová Margita r. Očovayová		0	282,283,297,340,341,406,407,408
+3336	MOLNÁR Pavel		0	246
+3336	Očovai Júlia r. Ceberová		0	266
+3336	OČOVAI Pavol	Pástor	0	179
+3336	Očovay Emil r. Očovay		0	340,341
+3336	OČOVAY Martin	Lavric - zomr. 23.12.1967 - D 814/85	0	233
+3336	OČOVAY Michal	Ferenc	0	231
+3336	OČOVAYOVÁ Julianna r. Ceberová		0	234
+3336	OČOVAYOVÁ Margita	Kyptak	0	232,395,400
+3336	Pavlík Milan r. Pavlík		0	340,341
+3336	RÁKOCY Ján		0	84
+3336	Richterová Gizela MUDr.		0	340,341
+3336	Roštár Július MVDr.  r. Roštár		0	340,341
+3336	SLÁVIK Pavel		0	235
+3336	ŠIMONOVÁ Zuzana		0	340,341
+3336	Šupová Júlia		0	340,341
+3336	Törköľ Vladimír Mgr.  r. Törköľ		0	340,341
+3336	TŐRKŐLY Ondrej		0	240
+3336	ULTIS Ondrej		0	251
+3336	Valaskai Ján	mal	0	172
+3336	VALASKAI Peter	mal	0	172
+3336	VEREJNÝ MAJETOK		0	269
+3337	....		1	506
+3337	BARNA Fedor		1	406
+3337	BREČKOVÁ Anna r. Senčáková		1	471
+3337	BUREJČÁK Ján		1	397
+3337	DUPEJ Adam		1	286,364,535,542,554,582
+3337	Dupej Fedor		1	314
+3337	DUPEJ Ján		1	286,314,364,535,542,554,582
+3337	DUPEJ Jozef		1	497
+3337	DUPEJ Maxim		1	444
+3337	DUPEJ Michal, Piešťany, Slovensko		1	497
+3337	DUPEJOVÁ Anna		1	409
+3337	DUPEJOVÁ Anna r. Romanová		1	286,364,432,444,535,542,554,557,582
+3337	DUPEJOVÁ Anna, Svidník, Slovensko		1	497
+3337	DUPEJOVÁ Eva r. Šmajda		0	257,385,399
+3337	DUPEJOVÁ Mária, Svidník, Slovensko		1	497
+3337	ELOVIČOVÁ Helena		0	485,489
+3337	FEDOROČKO Michal		1	498
+3337	FEDOROČKO Tomáš		1	498
+3337	FEDOROČKO Vasiľ		1	498
+3337	FRANKO Ján		1	350,381,398,518
+3337	GUZY Andrej		1	473,497,505
+3337	GUZY Ján		1	473,505
+3337	GUZYOVÁ - KRJAKOVÁ Mária		1	463
+3337	GUZYOVÁ Mária r. Roháčová		1	433
+3337	HAHULOVÁ - GUZYOVÁ Katarína r. Široká		1	473
+3337	IVANČIN Andrej		1	445
+3337	IVANČIN Fedor		1	445
+3337	IVANČIN Juraj		1	445
+3337	IVANČIN Michal		1	286,306,364,400,445,535,542,554,582
+3337	IVANČINOVÁ Anna		1	371,445
+3337	KALINOVÁ Olena r. Fedorková		1	403
+3337	KARMANSKÁ Mária r. Križová		1	286,364,535,542,554,582
+3337	KARMANSKÝ Andrej		1	286,364,535,542,554,582
+3337	KARMANSKÝ Jozef		1	407
+3337	KATRENIČ Jozef		1	484
+3337	KAVUĽA Michal		1	494
+3337	KLIMKOVSKÁ J		1	456
+3337	KOLIN Leško		1	311
+3337	KOLIN Peter		1	311

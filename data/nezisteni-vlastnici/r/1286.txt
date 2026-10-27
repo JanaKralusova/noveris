@@ -1,0 +1,256 @@
+758	TONČÍKOVÁ Anna	r.Brnová	1	438,783,786,821
+758	TONČÍKOVÁ Anna r. BRNOVÁ, SR		0	223
+758	TONČÍKOVÁ Emília	r.Kútiková	1	486,760,900,976
+758	TONČÍKOVÁ Emília r. KÚTIKOVÁ, SR		0	336
+758	TONČÍKOVÁ Mária		1	760,900,976
+758	TONČÍKOVÁ Mária	r.Gazdíková	1	731
+758	TONČÍKOVÁ Mária	r.Gazdíková,vzdialená	1	760,900,976
+758	TONČÍKOVÁ Mária r. GAZDÍKOVÁ, SR		0	336
+758	TONČÍKOVÁ Zuzana	r.Jakubovie,m.Ján 1	1	760,900,976
+758	TULAJOVA Mária	rodená Kútiková	0	580,643,975,996
+758	TULAJOVÁ Mária	r.Kútiková	1	760,900,976
+758	TURCAN Ján		0	419,420,462,499,504,517,523,569,589,614,616,943
+758	TURCAN Ľudovít		1	343,426,427,494,760,900,976
+758	TURCAN Viktor		0	426,427
+758	TURCANOVA Agnesa	rodená Sedliaková 1	0	538,912
+758	TURCANOVA Anna		1	343,426,427,494,760,900,976
+758	TURCANOVA Mária	rodená Tončíková	0	606
+758	TURČAN Ján	Leopold	1	288,343,344,426,427,494,760,900,976
+758	TURČAN Ján, SR		0	228
+758	TURČAN Ján, SR	Leopold	0	227,256
+758	TURČAN Ľudovít, SR		0	344,345
+758	TURČANOVÁ Agnesa	r.Sedliaková, č.106 Hiadeľ	1	471,695,697,760,766,837,839,900,976
+758	TURČANOVÁ Agnesa r. Sedliaková	č. 106 Hiadeľ; č. 106 Hiadeľ	1	826
+758	TURČANOVÁ Agnesa r. SEDLIAKOVÁ, SR		0	254
+758	Turčanová Anna	1	0	648
+758	TURČANOVÁ Anna, SR		0	344,345
+758	TURČANOVÁ Ľudmila, SR		0	345
+758	VALUŠIAKOVÁ Apolónia		1	469,488,636,760,765,851,900,976
+758	ZAŤKO Alfonz		0	318,319,320,323,324,512,514,556
+758	ZAŤKO Alfonz	maloletý	1	481,748,760,900,976
+758	ZATKO František	1	0	557,636
+758	ZAŤKO František		1	201,302,317,504,523,616,760,900,974,976
+758	ZAŤKO František	2	1	482,760,900,976
+758	ZAŤKO František	3	1	760,900,976
+758	ZAŤKO František, SR		0	202,357,385,386
+758	ZAŤKO Gašpar		1	748,760,900,976
+758	ZAŤKO Gašpar	Lehocký	1	323,324,481,512,514,556,760,900,976
+758	ZAŤKO Ján		1	201,302,412,413,414,478,504,523,524,529,554,616,648,737,760,849,900,974,976
+758	ZAŤKO Ján	2	1	693,760,830,900,976
+758	ZAŤKO Ján	3	1	705
+758	ZAŤKO Ján	5	1	482,760,900,976
+758	ZAŤKO Ján	syn Matúša	1	693,760,900,976
+758	ZAŤKO Ján, SR		0	202,250,357,385,386
+758	ZATKO Jozef	2	1	410,411,438,524,528,529,532,552,554,760,773,821,868,869,900,976
+758	ZAŤKO Jozef		1	273,316,412,413,414,648,705,737,760,849,900,976
+758	ZAŤKO Jozef	1	1	760,900,976
+758	ZAŤKO Jozef	m.Agnesa r.Sedliaková	1	760,900,976
+758	ZAŤKO Jozef	maloletý	1	760,830,900,976
+758	ZAŤKO Jozef	maloletý 1	1	481,748
+758	ZAŤKO Juraj		0	330
+758	ZAŤKO Juraj	m.Berta r.Zvarová	1	868,869
+758	ZAŤKO Juraj, SR		0	339
+758	ZATKO Ladislav	Gazdík	0	585
+758	ZAŤKO Martin, SR		0	202
+758	ZAŤKO Ondrej		1	648,760,900,976
+758	ZATKO Peter		1	504,523,616,760,830,900,976
+758	ZAŤKO Peter, SR		0	250
+758	ZATKO Tomáš	Gazdík	0	585
+758	ZAŤKO Tomáš		1	479,502,524,529,532,535,545,554,621,760,900,944,945,946,976
+758	ZAŤKO Tomáš	1	1	693,760,900,976
+758	ZAŤKO Tomáš	m.Emília r.Zaťková	1	438,478,737,760,773,849,900,976
+758	ZAŤKO Viliam		1	476,760,846,900,976
+758	ZATKOVA Agnesa	1	0	549
+758	ZATKOVA Agnesa	rodená Brnová	0	534,539,608
+758	ZAŤKOVÁ Agnesa	r.Brnová,m.Gašpar	1	760,783,786,808,821,868,869,900,976
+758	ZAŤKOVÁ Agnesa	r.Gazdíková	1	695,697
+758	ZAŤKOVÁ Agnesa	r.Gazdíková 1	1	694,697
+758	ZAŤKOVÁ Agnesa	r.Gazdíková 2	1	760,900,976
+758	ZAŤKOVÁ Agnesa	r.Sedliaková	1	468,760,814,900,976
+758	ZAŤKOVÁ Agnesa r. BRNOVÁ		0	323
+758	ZAŤKOVÁ Agnesa r. Gazdíková		1	826
+758	ZAŤKOVÁ Anna	maloletá	1	481,748,760,900,976
+758	ZATKOVA Berta	rodená Zvarová	0	455,456,492,542,606
+758	ZAŤKOVÁ Berta	r.Zvarová	1	821
+758	ZAŤKOVÁ Berta	r.Zvarová,m.Juraj	1	868,869
+758	ZAŤKOVÁ Berta r. ZVAROVÁ		0	330
+758	ZAŤKOVÁ Berta r. ZVAROVÁ, SR		0	217,339
+758	ZAŤKOVÁ Cecília	r.Zaťková,m.Ondrej	1	474,760,843,900,976
+758	ZAŤKOVÁ Cila, SR		0	209,994
+758	ZATKOVA Emília	rodená Fudorová	0	558,620
+758	ZAŤKOVÁ Emília		1	748,760,900,976
+758	ZAŤKOVÁ Emília	r.Zaťková,Lehocká	1	481,760,900,976
+758	ZATKOVA Genoveva		0	412,413,414,504,523,616
+758	ZAŤKOVÁ Genoveva, SR		0	250
+758	ZAŤKOVÁ Justína		1	317,760,900,976
+758	ZAŤKOVÁ Katarína		1	695,697,826
+758	ZAŤKOVÁ Katarína	1	1	760,900,976
+758	ZATKOVA Lili	rodená Zatková 1	0	496
+758	ZAŤKOVÁ Lili, SR		0	208,210
+758	ZAŤKOVÁ Ľudmila	r.Fudorová,m.Ján	1	718
+758	ZATKOVA Mária	rodená Kaderová	0	509,514
+758	ZATKOVA Mária	rodená Kútiková	0	530,566
+758	ZAŤKOVÁ Mária		1	317,412,413,414,478,504,523,616,705,737,760,830,849,900,976
+758	ZAŤKOVÁ Mária	1	1	760,900,976
+758	ZAŤKOVÁ Mária	r.Kaderová	1	760,800,900,976
+758	ZAŤKOVÁ Mária r. KADEROVÁ		0	288,326,995
+758	ZAŤKOVÁ Mária r. KADEROVÁ, SR		0	256,398,399
+758	ZAŤKOVÁ Mária, SR		0	250
+758	ZELINA Augustín		0	284,400,401,997
+758	ZELINA Pavel	č.111 Hiadeľ	1	760,761,762,814,844,900,976
+758	ZELINA Pavol	1	1	760,835,900,976
+758	ZELINOVA Agnesa		0	417,418
+758	ZELINOVA Agnesa	rodená Sedliaková	0	412,413,414,546,572
+758	ZELINOVÁ Agnesa	r.Zelinová,m.Jozef	1	760,900,976
+758	ZELINOVÁ Agnesa	vd.,r.Sedliaková	1	478,760,849,900,976
+758	ZELINOVÁ Agnesa r. SEDLIAKOVÁ		0	279
+758	ZELINOVÁ Augustína		0	285
+758	ZELINOVÁ Augustína	maloletá	1	760,835,900,976
+758	ZELINOVÁ Augustína, SR		0	231
+758	ZELINOVÁ Emília		1	284,285,760,835,900,976
+758	ZELINOVÁ Emília, SR		0	231,400,401,997
+758	ZELINOVA Júlia	rodená Simicková	0	497
+758	ZELINOVÁ Júlia	r.Šimičková,m.Alexander	1	720
+758	ZELINOVÁ Júlia r. ŠIMIČKOVÁ, SR		0	255,396,397,998
+758	ZELINOVA Justína		0	417,418
+758	ZELINOVÁ Ľudmila		1	284,285,417,418,760,835,900,976
+758	ZELINOVÁ Ľudmila, SR		0	231,400,401,997
+758	ZVARA Bernard		1	347,490,706,708,709,760,766,767,819,835,840,900,976
+758	ZVARA Bernardín		0	231,284,285,293,341,346,400,401,997
+758	ZVARA František		1	265,429,486,504,523,537,568,616,630,634,760,829,900,976
+758	ZVARA Gabriel		0	231,513
+758	ZVARA Ján		1	648,760,835,900,976
+758	ZVARA Jozef		1	706,707,708,709,760,766,835,900,976
+758	ZVARA Jozef	maloletý	1	468,814
+758	ZVARA Juraj		0	284,400,401,997
+758	ZVARA Juraj	m.Mária r.Štefanovie	1	708,760,835,900,976
+758	ZVARA Juraj	ml	1	706,707
+758	ZVARA Ľubomír		0	211,214,217,337,339,390,542,606
+758	ZVARA Ľubomír, SR		0	389
+758	ZVARA Martin		1	264,265,428,449,515,539,558,601,602,620,633,648,760,834,900,976
+758	ZVARA Martin	1	1	706,707
+758	ZVARA Martin	maloletý	1	476,715,730,760,846,900,976
+758	Zvara Martin r. Zvara		0	983
+758	ZVARA Michal	č.139 Hiadeľ	0	472
+758	ZVARA Pavel		0	429,504,523,573,616,630
+758	ZVARA Pavol		1	486,760,829,900,976
+758	ZVARA Pavol	m.Rozália r.Kováčiková	1	760,829,900,976
+758	ZVARA Tomáš		1	706,707
+758	ZVARA Tomáš	Fendek	1	706,707
+758	ZVARA Valent		0	435
+758	ZVAROVA Agnesa	rodená Strelcová	0	562
+758	ZVAROVÁ Agnesa		1	284,285,293,706,707
+758	ZVAROVÁ Agnesa	r.Milanová	1	760,835,900,976
+758	ZVAROVÁ Agnesa	r.Milanová 1	1	708
+758	ZVAROVÁ Agnesa	r.Zvarová,m.František	1	706,707
+758	ZVAROVÁ Agnesa	vd.,r.Zvarová	1	706,708,709,760,766,835,900,976
+758	ZVAROVÁ Agnesa r. MILANOVÁ		0	284,285
+758	ZVAROVÁ Agnesa r. MILANOVÁ, SR		0	231,400,401,997
+758	ZVAROVÁ Agnesa r. Zvarová		0	231,400
+758	ZVAROVÁ Agnesa r. ZVAROVÁ, SR		0	401,997
+758	ZVAROVA Anna		1	502,535,545,621,648,706,708,709,738,760,835,900,944,945,946,976
+758	ZVAROVÁ Anna	1	1	708
+758	ZVAROVÁ Anna	maloletá	1	479,760,900,976
+758	ZVAROVÁ Anna	r. Fudorová č.117 Hiadeľ	1	449,760,815,834,900,947,976
+758	ZVAROVÁ Anna	r.Jančíková	1	760,900,976
+758	ZVAROVÁ Anna	r.Kútiková	1	767,819
+758	ZVAROVÁ Anna	r.Kútiková,m.Juraj	1	472,490,760,840,900,976
+758	Zvarová Anna r. Fudorová	Hiadeľ 117	0	983
+758	ZVAROVÁ Anna r. JANČÍKOVÁ		0	317
+758	ZVAROVÁ Anna r. KÚTIKOVÁ, SR		0	346,347
+758	ZVAROVÁ Anna, SR		0	249
+758	ZVAROVÁ Apolónia		0	284,285,293,513
+758	ZVAROVÁ Apolónia, SR		0	231,400,401,997
+758	ZVAROVÁ Cecília		1	449,515,539,601,602,760,834,900,976
+758	ZVAROVÁ Cecília	1	1	706,707
+758	Zvarová Cecília r. Zvarová		0	983
+758	ZVAROVA Elena		0	539
+758	ZVAROVA Elena	rodená Sedliaková 1	0	403,404,405,412,413,414,454,538
+758	ZVAROVÁ Elena	r.Sedliaková, č.133 Hiadeľ	1	471,478,687,705,737,760,766,768,817,837,839,849,900,976
+758	ZVAROVÁ Elena r. SEDLIAKOVÁ, SR		0	252,254,402
+758	ZVAROVÁ Gabriela		0	284,285,293
+758	ZVAROVÁ Gabriela, SR		0	400,401,997
+758	ZVAROVA Júlia		0	429,486,504,523,526,537,568,573,601,616,630,634
+758	ZVAROVÁ Júlia	r.Oborčoková	0	486
+758	ZVAROVÁ Júlia	slobodná	1	449,515,602,706,707,760,829,834,900,976
+758	Zvarová Júlia r. Zvarová	slobodná	0	983
+758	ZVAROVA Mária	1	0	428,558,620,633
+758	ZVAROVÁ Mária	maloletá	1	476,715,730,760,846,900,976
+758	ZVAROVÁ Mária	r.Štefanovie	1	468,760,900,976
+758	ZVAROVÁ Mária, SR		0	264,265
+758	ZVAROVA Rozamaria		0	539
+758	ZVAROVÁ Vilma		1	284,285,293,513,706,707,708,709,760,766,835,900,976
+758	ZVAROVÁ Vilma, SR		0	231,400,401,997
+759	Bajak Ondrej r. Bajak		0	567
+759	Bajaková Mária r. Uhrinová, zomrela 30.07.2004 zomrela 30.07.2004		0	719
+759	Blašková Terézia r. Filipová, SR		1	42
+759	Csaky Vidor		1	57
+759	Filip Ján r. Filip	zomrel 09.11.2003, Bystrany	0	659
+759	Filip Ondrej r. Filip		0	702
+759	Filipová Mária r. Kokoráková, zomrela 11.03.2004, Hincovce zomrela 11.03.2004, Hincovce		0	430
+759	Furman Ján r. Furman		0	451
+759	Furman Ján, zomrel 16.06.2010, Spišské Podhradie zomrel 16.06.2010, Spišské Podhradie		0	639
+759	Gaduš Pavol r. Gaduš	Spišská Nová Ves	0	703
+759	Kollárová Anna r. Chovancová, zomrela 07.03.2002, Košice zomrela 07.03.2002, Košice		0	682
+759	Košík Jozef r. Košík	zomrel 07.08.2006, Spišské Podhradie	0	555
+759	Košíková Mária r. Staňová, Spišské Podhradie Spišské Podhradie		0	736
+759	Košíková Mária r. Valenčíková		0	610
+759	Košút Sebastián		1	289
+759	Košút Sebastián r. Košút		0	428
+759	Košút Sebastián r. Košút	ž.Katarína	0	428
+759	Košút Sebastian, SR		1	186,273,760
+759	Kukoľ Pavel r. Kukoľ		0	692
+759	Kukoľová Zuzana r. Ledecká		0	520
+759	Lesňák Valent r. Lesňák		0	516
+759	Melegová Mária r. Mindžová, zomrela 1990, Vítkovce zomrela 1990, Vítkovce		0	707
+759	Mindža Ján, zomrel 11.06.1991, Spišské Podhradie zomrel 11.06.1991, Spišské Podhradie		0	565
+759	Mindža Štefan r. Mindža	Spišské Podhradie	0	599
+759	Mindža Valent r. Mindža	zomrel 02.01.2003	0	720
+759	Mindžová Zuzana r. Pčelárová		0	563
+759	Olejníková Anna r. Košíková, zomrela 05.02.2010, Spišské Vlachy zomrela 05.02.2010, Spišské Vlachy		0	706
+759	Olekšáková Katarína r. Šimčáková		1	197
+759	Paluchová Mária r. Lesňaková		0	696
+759	Pavlíková Anna r. Pavolová, zomrela 07.01.2005, Bystrany zomrela 07.01.2005, Bystrany		0	605
+759	Pavolová Alžbeta r. Košíková		0	478
+759	Proks Pavol r. Proks		0	729
+759	Proksová Mária r. Richnavská, zomrela 23.09.2005, Hincovce zomrela 23.09.2005, Hincovce		0	444
+759	Richnavská Anna r. Baluchová		0	690
+759	Smik František r. Smik	zomrel 25.01.2005	0	532
+759	Smik Ján r. Smik	zomrel 18.01.2008	0	492
+759	Smik Pavol r. Smik	Spišské Podhradie	0	582
+759	Smik Valent r. Smik	zomrel 01.01.1993	0	441
+759	Smiková Alžbeta		0	630
+759	Staňa Ján r. Staňa	zomrel 10.04.2002, Spišské Podhradie	0	596
+759	Stančíková Anna r. Lichtmanová		0	606
+759	Stančíková Anna r. Lichtmanová, SR		1	78
+759	Staňová Mária r. Staňová, Spišské Podhradie Spišské Podhradie		0	714
+759	Staňová Mária r. Valenčíková, zomrela 28.10.1987, Bystrany zomrela 28.10.1987, Bystrany		0	546
+759	Suchý Emil r. Suchý	zomrel 03.10.1997	0	452
+759	Suchý Pavol r. Suchý	zomrel 02.02.2013, Spišská Nová Ves	0	583
+759	Uhrín Ján r. Uhrín	USA	0	499
+759	Uhrín Ján, zomrel 02.09.2002, Bystrany zomrel 02.09.2002, Bystrany		0	663
+759	Uhrín Ondrej r. Uhrín		0	643
+759	Uhrín Pavol r. Uhrín	Olcnava	0	527
+759	Uhrínová Mária r. Zmarzláková		1	352
+759	Uhrínová Mária r. Zmarzláková, zomrela 28.12.1992 zomrela 28.12.1992		0	507
+759	Valenčík Ondrej r. Valenčík	zomrel 02.12.1970, Bystrany	0	479
+759	Vaverčák Jaroslav r. Vaverčák	zomrel 22.01.2004, Hincovce	0	428
+760	BACHŇÁKOVÁ Mária r. Čimeková	Hanák	1	731,829,890
+760	BALÁŽIA Ján		1	731,778,2741,2742,2924
+760	BALÁŽIA Mária		1	731,814,2944
+760	BALÁŽIA Matej		1	731,778,814,2741,2742,2924,2944
+760	Bednárová Mária		0	2457
+760	BELLA Matej	Mráz	1	1067
+760	BOHNÁK Ján		1	731,842,878,894
+760	BRNUŠÁK Ján		1	991,1017
+760	BUGAJOVÁ r. Petreková		1	1083
+760	BUGAJOVÁ Verona r. Petreková		1	940
+760	BULA - JURÍKOVÁ Mária r. Balážia		1	731,778,2741,2742,2924
+760	BULOŇOVÁ Mária		1	774,829
+760	BUŠ Ján	č.vl.388	1	1526,1797
+760	BUŠ Jozef	č.vl.388	1	1526,1797
+760	BUŠ Martin		1	1526,1797
+760	BUŠ Matej		1	1526,1797
+760	BUŠOVÁ Mária		1	1526,1797
+760	BUŠOVÁ Mária r. Brnušáková		1	959
+760	ĎUBAŠÍKOVÁ Anna r. Kovaľáková		1	731,797

@@ -1,0 +1,256 @@
+1885	Petalíková Mária r. Ružániová		0	346,473,486
+1885	Petalíková Terézia		0	413,687
+1885	Petalíková Zuzana r. Vavreková		0	492,535
+1885	Poljak Ján		0	571
+1885	Poljaková Margita r. Senková		0	571
+1885	Roháriková Zuzana r. Labošová		1	343,348,369,440,523,648,649,656,690,691
+1885	Roháriková Zuzana r. Labošová	muž Matej	0	492
+1885	Rusnáková Mária r. Senková	vd	0	497,498
+1885	Senko Fabo Ondrej	žena Mária Pálová	0	492
+1885	Senko Gustáv		0	510
+1885	Senko Ján		0	108,251,367,492,511,572,577,587,671,680,693,708
+1885	Senko Ján	druhý	0	510,515
+1885	Senko Ján	Fabo	0	457,576
+1885	Senko Ján	Matejko	0	430
+1885	Senko Ján	ml	0	365,394,408,459,522
+1885	Senko Ján	prvý	0	449,488,489
+1885	Senko Ján	tretí	0	364,444,644,673,681,707
+1885	Senko Ján	ž. Zuzana r. Luspajová	0	518
+1885	Senko Juraj	kováč	0	367,444,489,587,671,681,693,708
+1885	Senko Martin		0	444,489,510,681
+1885	Senko Ondrej		0	356,492,581
+1885	Senko Ondrej	druhý	0	364,422,449,577,644,673,707
+1885	Senko Ondrej	Matejko, ž. Zuzana r. Lábajová	0	489
+1885	Senko Ondrej	prvý	0	364,437,449,488,511,521,528,644,673,680,707
+1885	Senko Ondrej	žena Júlia Lisi	0	492
+1885	Senko Ondrej	žena Mária Pálová	0	492
+1885	Senko Pavel		0	109,492
+1885	Senko Pavol		0	364,365,368,396,397,422,428,429,449,458,470,488,493,508,514,515,572,577,588,613,614,644,673,701,707
+1885	Senko Pavol	Matejko	0	367,444,489,510,577,587,671,681,693,708
+1885	Senko Peter		0	444,489,510,681
+1885	Senko Štefan		0	108,251,367,404,577,587,671,693,708
+1885	Senko Štefan	druhý	0	364,644,673,707
+1885	Senko Štefan	prvý	0	444,449,488,510,511,680,681
+1885	Senková Anna		0	388,527,574,628,642,685,715
+1885	Senková Anna	prvá	0	388,536,574,628,642,685,686,715
+1885	Senková Anna r. Žigová	m. Ján	0	572
+1885	Senková Františka		0	492
+1885	Senková Irena r. Hinduláková		0	492
+1885	Senková Irena r. Hinduláková	muž Pavol	0	492
+1885	Senková Judita r. Vavreková		0	262,416,432,492,521
+1885	Senková Mária		0	108,109,251,275,364,449,492,567,568,577,644,673,707
+1885	Senková Mária	mal	0	522
+1885	Senková Mária	najstaršia	0	367,497,498,511,587,671,680,693,708
+1885	Senková Mária	prvá	0	434,488,489
+1885	Senková Pavlína		0	492
+1885	Senková Pavlína	maloletá	0	492
+1885	Senková Valéria	mal	0	388,527,536,574,628,642,685,686,715
+1885	Senková Zuzana		0	492,518
+1885	Senková Zuzana r. Petalíková		0	492
+1885	Senková Zuzana r. Zacharová		0	492
+1885	Senková Zuzana r. Žigová		0	365,458,470,493,503,508,514,515,613,614
+1885	Senková Zuzana r. Žigová	muž Ján	0	492
+1885	Sklenárik Jozef	ž. Barbora r. Černaiová	0	496
+1885	Slovák Ján		0	375,399,416,427,442,461,467,492,684,689
+1885	Slovák Juraj	mal	0	475
+1885	Slovák Pavel		0	469,513
+1885	Slováková Johana r. Verkinová		0	375,376,402,416,492
+1885	Slováková Júlia		0	461
+1885	Sojáková Júlia r. Hinduláková		0	492
+1885	Sojáková Júlia r. Hinduliaková		0	349,590
+1885	Sojáková Mária r. Majerčíková		0	443
+1885	Sper Ján		0	492,566
+1885	Sper Juraj		0	492,566
+1885	Sper Štefan		0	492,566
+1885	Sperová Mária r. Žigová	muž Juraj	0	492
+1885	Spišák Fraňo		0	486
+1885	Spišák Ján		0	430,448,456,477
+1885	Spišák Ján	mal	0	486
+1885	Spišák Johan		0	492
+1885	Spišák Juraj		0	486
+1885	Szenko Ján		0	492
+1885	Szenko Ján	mladší	0	492
+1885	Szenko Ján	žena Zuzana Žigová	0	492
+1885	Szenko Ondrej		0	492
+1885	Szenko Štefan		0	492
+1885	Szenková Zuzana r. Žigová	muž Ján	0	492
+1885	Szlovák Anna	maloletá	0	492
+1885	Špérová Mária r. Žigová		0	365,458,470,493,503,508,514,515,613,614
+1885	Šporovvá Mária r. Žigová	m. Juraj	0	572
+1885	Štefanovský Vendelín		0	559
+1885	Švonavcová Mária r. Senková		0	367,444,489,510,587,671,681,693,708
+1885	Švoňavcová Mária r. Vrbiarová		0	478
+1885	Švonavec Martin		0	492
+1885	Švonavec Ondrej		0	438
+1885	Švonavecz Martin		0	492
+1885	Tabaková Júlia r. Vrbjarová		0	492
+1885	Tkáčiková Zuzana		0	367,587,671,693,708
+1885	Urvová Emília r. Urvová		0	396,397,412,425,535,571,623,624,625
+1885	Urvová Františka r. Vavreková		0	262,492
+1885	Vajteková Mária r. Žigová, Bagarova 28, Banská Bystrica, PSČ 841 01, SR		0	515
+1885	Valkóci Ján		0	262
+1885	Valkóci Ondrej		0	262
+1885	Valkoczi Ján	maloletý	0	492
+1885	Valkoczi Ondrej	mal	0	396,397,412,425,535,571,623,624,625
+1885	Valkoczi Ondrej	maloletý	0	492
+1885	Vavrek Ján		0	362,464,492
+1885	Vavrek Ján	druhý	0	395,459,510
+1885	Vavrek Ján	mal	0	367,444,452,456,499,579,587,671,681,692,693,708
+1885	Vavrek Ján	maloletý	0	492
+1885	Vavrek Ján	prvý	0	361,395,408,430,434,435,448,462,477,484,489,506
+1885	Vavrek Jozef		0	361,430,448,462,477,484,489,510
+1885	Vavrek Jozef	mal	0	367,444,452,456,499,579,587,671,681,692,693,708
+1885	Vavrek Jozef	maloletý	0	492
+1885	Vavrek Jozef	mladší	0	492
+1885	Vavrek Juraj		0	361,489,492
+1885	Vavrek Juraj	druhý	0	361
+1885	Vavrek Juraj	mladší	0	492
+1885	Vavrek Juraj	prvý	0	361,362,448,452,692
+1885	Vavrek Juraj	tretí	0	356,581
+1885	Vavrek Ladislav		0	459
+1885	Vavrek Michal		0	362,464,492
+1885	Vavrek Ondrej		0	361,489
+1885	Vavrek Ondrej	mimik	0	492
+1885	Vavrek Ondrej	ml	0	367,587,671,693,708
+1885	Vavrek Ondrej	mladší	0	492
+1885	Vavrek Ondrej	žena Mária Dachová	0	492
+1885	Vavrek Štefan		0	361,462,489,492
+1885	Vavrek Štefan	mal	0	367,444,456,499,579,587,671,681,693,708
+1885	Vavrek Štefan	maloletý	0	492
+1885	Vavrek Štefan	mimik	0	492
+1885	Vavrek Štefan	prvý	0	395,430,448,452,477,484,506,510,692
+1885	Vavreková Anna r. Senková		0	448,469,472,491
+1885	Vavreková Anna r. Senková	zomrela	0	592
+1885	Vavreková Johana r. Vrbiarová		0	507
+1885	Vavreková Mária		0	492
+1885	Vavreková Mária r. Kiňová		0	264
+1885	Vavreková Mária r. Senková		0	109,364,365,368,396,397,411,422,428,429,449,458,470,488,492,493,508,514,515,572,577,588,613,614,644,673,701,707
+1885	Vavreková Zuzana		1	348,361,492
+1885	Vavreková Zuzana	mal	0	459
+1885	Vavreková Zuzana r. Babelová	muž Juraj	0	492
+1885	Vavreková Zuzana r. Bábelová		0	356,581
+1885	Verkin Ján		0	376
+1885	Verkinová Johana		0	376,402,492,580
+1885	Verkinová Katarína r. Bendulová		0	491
+1885	Verkinová Mária r. Hoďáková	vd	0	367,444,489,510,526,587,671,681,693,708
+1885	Vojteková Mária r. Žigová, Bagarova 28, Banská Bystrica, PSČ 811 04, SR		0	519
+1885	Vojteková Mária r. Žigová, Bagarova 28, Banská Bystrica, PSČ 974 04, SR		0	365,458,470,493,503,508,514,613,614
+1885	Vrbiar Jozef		0	478
+1885	Vrbiar Juraj		0	478
+1885	Vrbiar Juraj	prvý	0	354,584
+1885	Vrbiar Michal		0	453
+1885	Vrbiar Štefan		0	515
+1885	Vrbiarová Anna r. Vavreková		0	590
+1885	Vrbiarová Johana		0	478
+1885	Vrbiarová Mária r. Labošová	vd	0	431
+1885	Vrbiarová Zuzana r. Vavreková		0	395,506
+1885	Vrbjar Ján		0	492
+1885	Vrbjar Ján	žena Zuzana Vavreková	0	492
+1885	Vrbjar Juraj		0	492
+1885	Vrbjar Juraj	prvý	0	626
+1885	Vrbjar Juraj	žena Mária Petalíková	0	492
+1885	Vrbjar Martin		0	492
+1885	Vrbjar Martin	žena Mária Kiňová	0	492
+1885	Vrbjar Štefan		0	492
+1885	Vrbjarová Anna r. Fabová		0	571
+1885	Vrbjarová Judita		0	492
+1885	Vrbjarová Mária r. Kiňová		0	492
+1885	Vrbjarová Mária r. Labošová	vdova	0	492
+1885	Vrbjarová Mária r. Senková		0	492
+1885	Vrbjarová Zuzana r. Vavreková	muž Ján	0	492
+1885	Weiszkopf Anton	mal	0	506
+1885	Weiszkopf Anton	maloletý	0	492
+1885	Weiszkopf Karol	maloletý	0	492
+1885	Weiszkopf Pavel	maloletý	0	492
+1885	Weiszkopf Pavol	mal	0	395,506
+1885	Weiszkopfová Irena	mal	0	395,506
+1885	Weiszkopfová Irena	maloletá	0	492
+1885	Weiszkopt Anton	mal	0	395
+1885	Weiszkopt Karol	mal	0	395,506
+1885	Žigo Ján	ž. Janka r. Luspajová	0	428
+1886	Balagová Anna r. Simanová		0	125,591
+1886	Bystrenská Zuzana r. Ladnová		0	125,974
+1886	Gordian Ján	krčmár, mišov, č.domu 40	0	990
+1886	Gordian Ján	man.Anna Sekeráková	0	125,801,1074,1202
+1886	Gordian Ján	ondrejov, č.domu 41	0	990
+1886	Gordian Juraj	man.Zuzana Simanová	0	125
+1886	Gordian Pavel	č.domu 48	0	990
+1886	Gordianová Mária	vdova, č.domu 40	0	990
+1886	Gordianová Mária r. Michalová		0	295,296,553,620,998
+1886	Gordianová Mária r. Vojtková	vdova	0	125,934
+1886	Gordianová Terézia r. Rusnáková	vdova	0	125
+1886	Gordianová Zuzana		0	448
+1886	Gordianová Zuzana r. Simanová		0	337
+1886	Gularik Ján	č.domu 96	0	990
+1886	Gulárik Karol	č.domu 4	0	990
+1886	Gularik Ondrej	č.domu 55	0	990
+1886	Gularik Pavel	č.domu 96	0	990
+1886	Gularik Pavel	man.Verona Sokolová	0	173
+1886	Gulariková Maria r. Gulariková	vdova	0	125
+1886	Gulariková Mária r. Gulariková		0	228
+1886	Guliarik Ján	man.Mária Ondrulová	0	951
+1886	Guliariková Mária r. Gordianová		0	125,295,296
+1886	Guliariková Mária r. Guliariková		0	513
+1886	Huťan Ján		0	505
+1886	Huťan Ján	Karolov, man.Mária Kubejová	0	125,956
+1886	Huťan Martin	v Amerike	0	125,443
+1886	Huťan Ondrej	man. Zuzana Gordianová	0	123,125,964
+1886	Huťan Pavel		0	125,328,1019
+1886	Huťan Pavel	Strihan, č.domu 37	0	989,990
+1886	Huťanová Verona r. Švonavcová		0	501
+1886	Huťanová Verona r. Švonavcová	zomrela	0	122,125,680
+1886	Huťanová Zuzana Alžbeta r. Gordianová		0	125
+1886	Ješová Anna r. Gordianová		0	125,295
+1886	Ješšová Anna r. Gordianová		0	446,447,448,768,1078,1079,1112,1123,1124,1129,1132
+1886	Johan Ján	man.Anna Kubejová	0	1028
+1886	Kašai Ján	Mihálik, man.Mária Švonavcová	0	125,147
+1886	Kašai Ondrej	man.Anna Vojtková	0	147
+1886	Kašaiová Anna r. Vojtková		0	935
+1886	Kašaiová Mária r. Švonavcová		0	125,992
+1886	Kašaiová Zuzana r. Simanová	vdova	0	125,939
+1886	Kaššai Ján	Michalík, č.domu 113	0	990
+1886	Kaššai Jozef		0	990
+1886	Kaššai Jozef	č.domu109	0	990
+1886	Kaššai Jozef	k.ž. Verona Smolár	0	49
+1886	Kaššai Jozef	man.Veronika Smolárová	0	125,147,955
+1886	Kaššai Ondrej	k. ž. Anna Vojtková	0	49
+1886	Kolesárová Mária r. Simanová		0	106
+1886	Kubej Ján		0	125,575,984
+1886	Kubej Ján	Kišmál	0	125,175
+1886	Kubej Ján	zabran	0	125,142
+1886	Kubej Ján	zabran syn Samuelov	0	138
+1886	Kubej Jozef	fidro, č.domu 38	0	990
+1886	Kubej Jozef	zabran k.ž. Verona Kubejová	0	138,141
+1886	Kubej Jozef	zabran, man.Verona Kubejová	0	125,142
+1886	Kubej Juraj		0	125,791,1182
+1886	Kubej Ondrej	zabran, man.Mária Zacharová	0	125,142
+1886	Kubej Pavel	biely, č.domu 99	0	426,427,428,990
+1886	Kubej Pavel	biely, k.ž.Anna Huťanová	0	507
+1886	Kubej Pavel	syn Pavlov	0	125,1022
+1886	Kubej Pavel	zabran k. ž. Mária Simanová	0	138
+1886	Kubej Pavel	Zabran k.ž. Mária Siman	0	489
+1886	Kubej Pavel	zabran, man.Mária Simanová	0	125,927
+1886	Kubej Pavol		0	246,1161,1200
+1886	Kubej Pavol	syn Pavlov	0	86
+1886	Kubej Štefan		0	260
+1886	Kubej Štefan	zabran k. ž. Zuzana Guliariková	0	138
+1886	Kubejová Anna r. Kubejová		0	138,254,258,259,260,909,1063,1075
+1886	Kubejová Mária r. Huťanová	Zabran	0	85
+1886	Kubejová Verona		0	125,791,1182
+1886	Kubejová Zuzana r. Huťanová	vdova	0	85
+1886	Kubejová Zuzana r. Poliaková	vdova	0	966
+1886	Matuch Šimon		0	230
+1886	Mensátorová Anna r. Kubejová		0	86,125,246,853,1022,1161,1200
+1886	Michal Pavel	man.Mária Huťanová	0	125,553
+1886	Michalová Mária r. Huťanová		0	125,443,550
+1886	Miková Zuzana		0	1073
+1886	Ondrula Juraj	č.domu 2	0	990
+1886	Ondruľa Juraj	man.Verona Sokolová	0	125
+1886	Ondrulová Verona r. Sokolová		0	125
+1886	Oravcová Anna	dcéra Jánová	0	63
+1886	Oravcová Anna	maloletá	0	990
+1886	Oravcová Anna r. Michalová		0	553,998
+1886	Oravcová Mária	Danielová, č.domu 47	0	990
+1886	Oravcová Mária	dcéra Jánová	0	63
+1886	Oravcová Mária	dcéra Samuelova	0	125,901,924,1058
+1886	Oravcová Mária r. Gordianová		0	920

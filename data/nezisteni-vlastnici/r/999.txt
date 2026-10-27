@@ -1,0 +1,256 @@
+581	MEZEI František	ž. Gizela r. Császáriová	0	637
+581	Mezeiová Gizela r. Császáriová		0	637
+581	MIHÁLY Štefan		0	114
+581	Mihályová Kornélia		0	115
+581	MOLNÁROVÁ Júlia r. Juhászová		0	371,450,452,456,467,478,668,669,720,751,764,794,800,804
+581	NAGY Ladislav		0	52,120
+581	NAGY Štefan		0	469,502
+581	NAGY Štefan	ž.Zuzana r.Bačová	0	606
+581	Nagy Zoltán	ml	0	24
+581	NAGYOVÁ Alžbeta r. Köviová		0	347
+581	Nagyová Alžbeta r. Lökösová	vd	0	380
+581	NAGYOVÁ Etela r. Kósová		0	533
+581	NAGYOVÁ Jolana		0	24
+581	NAGYOVÁ Júlia r. Aranyová		0	353
+581	NAGYOVÁ Mária r. Igazová		0	289
+581	NAGYOVÁ Mária r. Igová		0	100
+581	NÉMETHOVÁ Aranka r. Ruszkayová		0	586
+581	OLMAN Július	ž.Etela r.Nováková	0	465,504,506,708
+581	Olmanová Alžbeta r. Kósová	vd	0	533
+581	Olmanová Zuzana r. Anderková	vd	0	466,684
+581	PALČO Ján	ž.Margita r.Tumová	0	556
+581	PALČO Ladislav		0	556
+581	PALČO Valent, Dr.		0	556
+581	PALČOVÁ Alíza		0	556
+581	PALČOVÁ Alžbeta		0	556
+581	PALČOVÁ Alžbeta r. Szabóová		0	556
+581	PÁLOVÁ Zuzana r. Szaniszlová		0	411
+581	PAPOVÁ Angela r. Szállósiová		0	614
+581	Pelle Valentín	ml	0	276
+581	POGONYIOVÁ Rozália r. Simonová		0	580
+581	Ráczová Juliana r. Véghová	vd	0	616
+581	RAWIELOVÁ Jana r. Gaváčová		0	546
+581	REPČÍK Martin		0	52,120
+581	RUSZKAY Július		0	586
+581	RUSZKAY Štefan		0	586
+581	SAMU Július	ž.Júlia r.Czikorová	0	528,597
+581	SAMU Július	ž.Júlia r.Szücsová	0	549
+581	SAMU Mikuláš	ž.Margita r.Kocsisová	0	528,549,589
+581	SEBESTYÉN Barnabáš		0	401
+581	SEBESTYÉN Ján	ž.Priška r.Farkasová	0	443
+581	SERESOVÁ Judita		0	24
+581	SERESOVÁ Judita r. Jéneyová		0	287,329,634
+581	SIMKOVÁ Alžbeta r. Žilinská		0	287
+581	SIMON Ján		0	580
+581	SIMON Štefan	ž.Tereya r.Mészárosová	0	580
+581	SIMON Vojtech		0	580
+581	SIMONOVÁ Juliana	Ondrejová	0	470,471,472,665,682,687,688,758,759,760,761
+581	SVATNEROVÁ Lenka r. Nagyová	Pavlovce	0	303,763,774,790,795,802
+581	SZANISZLÓ Štefan		0	113
+581	Szaniszlóová Zuzana r. Janová	vd	0	398
+581	SZANISZLOVÁ Etela r. Véghová		0	622
+581	SZANISZLOVÁ Rozália r. Czikorová		0	113
+581	SZARKOVÁ Mária r. Palčová		0	556
+581	SZARVASOVÁ Gizela r. Nagyová		0	342,353,427
+581	SZEKÉROVÁ Alžbeta r. Bödová		0	559
+581	SZEKÉROVÁ Júlia		0	407
+581	SZEKÉROVÁ Lenka		0	413
+581	ŠEDÁ Lenka r. Szállósiová		0	614
+581	Šerešová Judita r. Jéney		0	110
+581	TARBAJOVSKÁ Elena		0	115
+581	TÓTH Štefan		0	556
+581	TÓTHOVÁ Terézia	manžel Ján	0	471,472,665,682,687,688,759,760,761
+581	ULJÁKOVÁ Tereza r. Simonová		0	580
+581	VARGA Ján	ž.Katarína r.Jéneyová	0	321,387
+581	VARGA Július	ž.Katarína r.Oroszová	0	465,505,708
+581	VARGA Ľudovít	ž.Zuzana r.Benedeková	0	547
+581	VARGOVÁ Apolónia r. Simonová		0	580
+581	VARGOVÁ Irma r. Balogová		0	621
+581	VARGOVÁ Júlia r. Bacskaiová		0	116
+581	VARGOVÁ Júlia r. Kósová		0	533
+581	VARGOVÁ Katarína r. Jéneyová		0	321,387
+581	VARGOVÁ Veronika		0	413
+581	VÉGHOVÁ Amália r. Anderková		0	471,472,665,682,687,688,759,760,761
+581	VINCZE Ľudovít	ž.Alžbeta r.Sebestyénová	0	456
+581	VINCZE Štefan	st., ž.Matilda r.Simonová	0	456,467,668,794
+581	VINCZEOVÁ Alžbeta r. Sebestyénová		0	289
+581	VINCZEOVÁ Matilda r. Simonová		0	398
+581	ZSÓFI Július		0	405
+581	ZSÓFI Michal	ž.Barbora r.Sándorová	0	387
+581	ZSÓFI Štefan	nagy	0	438,752
+581	ZSÓFIOVÁ Alžbeta r. Farkas	kis, nagy	0	390,404,440
+581	ZSÓFIOVÁ Alžbeta r. Farkas	kis,nagy	0	310
+581	ZSÓFIOVÁ Apolónia r. Bojánová	nagy	0	355,373,397,433,662
+581	ZSÓFIOVÁ Františka r. Tanková	kis	0	424
+582	Anna Csapóová r. Kisducsáková	manž.Ján	0	740,748,820,821
+582	Anna František	dedil po Anna Ján manž.Júlia	0	775
+582	Anna František	manž.Mária	0	776
+582	Anna Martin	manž.Klára	0	785
+582	Anna Pál	manž.Mária Kotsisová	0	681,682
+582	Anna Štefan	manž.Mária	0	766
+582	Annová Anna	manž.Jozef	0	509
+582	Annová Júlia	dedila po Júlia Annová manž.Ján	0	775
+582	Annová Júlia r. Koleszárová	manž.František	0	740,748,820,821
+582	Annová Klára	manž.Martin	0	785
+582	Annová Mária	manž.František	0	776
+582	Annová Mária r. Bašková	manž.Štefan	0	740,748,820,821
+582	Antal Ladislav	mal	0	740,748,820,821
+582	Antalová Alžbeta r. Kuchtová	manž.Ladislav	0	740,748,820,821
+582	Antalová Monika	mal	0	740,748,820,821
+582	Baffiová Margita r. Gajdošová		0	740,748,757,820,821
+582	Baffyová Margita r. Gajdošová		0	408
+582	Bakos Jozef	mal	0	740,748,820,821
+582	Bakosová Anna	mal	0	740,748,820,821
+582	Bakosová Helena r. Vanyová	manž.Štefan	0	740,748,820,821
+582	Bakoš Ján	manž.Alžbeta Bendžuchová	0	718
+582	Bakoš Karol	dedil po Anne Bakošovej r.Horváthovej	0	286,658,689
+582	Bakoš Ľudovit	zom.brat Jozefa,Gejzu a Terézie	0	506
+582	Bakošová Alžbeta r. Bendžuchová	manž.Ján	0	718
+582	Bakošová Anna r. Takáčová	manž.Štefan	0	284,612,740,748,820,821
+582	Bakošová Emília r. Stranská	vd.manž.Jozef	0	724
+582	Bakošová Terézia		0	729
+582	Balogová Margita r. Bodnárová		0	221,224,491,610,726,740,748,820,821,853
+582	Bandur Jozef	č.d.3223/1926	0	756
+582	Bányás Július	manž.Mária Szopková	0	740,748,820,821
+582	Bányasová Mária r. Szopková	manž.Július	0	740,748,820,821
+582	Baraksová Helena		0	740,748,820,821
+582	Baraksová Helena r. Knoppová	manž.Jozef	0	740,748,820,821
+582	Barczi Jozef	manž.Helena	0	798
+582	Barczi Ľudovít		0	612,740,748,820,821
+582	Barczi Ondrej	manž.Mária	0	781
+582	Barcziová Helena	manž.Jozef	0	798
+582	Barcziová Helena r. Horváthová		0	176
+582	Barcziová Mária	manž.Ondrej	0	781
+582	Baska Juraj		0	769
+582	Baska Juraj	manž.Helena Barcziová	0	623,740,748,754,820,821
+582	Baška František		0	136,697,746
+582	Baška Ján	manž.Magdaléna	0	800
+582	Bašková Magdaléna	manž.Ján	0	800
+582	Battyová Margita r. Gajdošová		0	407,865
+582	Bauhoferová Helen r. Berceliová	zom.D 354/87-Pol.VZ 7/88	0	740,748,820,821
+582	Bejnová Lujza r. Šafcsáková	manž.František	0	681,682
+582	Bekeová Mária	manž.Jozef	0	771
+582	Bekeová Mária r. Plachtová		0	387,388,660,662,740,748,820,821
+582	Bele Jozef	manž.Emília	0	778
+582	Beleová Emília	manž.Jozef	0	778
+582	Bendzsuchová Mária r. Gajdošová		0	740,748,757,820,821
+582	Bendzsuchová Mária r. Koleszárová		0	192
+582	Bendžuchová Mária r. Gajdošová		0	407,408,865
+582	Berceli František	manž.Anna Budaiová	0	740,748,820,821
+582	Berceli Ján		0	224
+582	Berceli Juraj	manž.Helena Antalová	0	284
+582	Berceli Ondrej		0	224,679
+582	Berceli Ondrej	ml	0	224
+582	Berceliová Anna r. Budaiová	manž.František	0	740,748,820,821
+582	Berceliová Katarína		0	347
+582	Berceliová Mária		0	224,347
+582	Berceliová Mária	mal	0	284,356,463,653,676,677,740,748,820,821
+582	Bercely Jozef		0	727
+582	Berczeli František	manž.Mária	0	774
+582	Berczeli Ján		0	356,463,653,676,677,740,748,820,821
+582	Berczeli Ján	dedil po Verone Berczeliovej	0	675
+582	Berczeli Július		0	168,170,388,605,740,748,820,821
+582	Berczeli Karol		0	284
+582	Berczeli Mária r. Horváth		0	447
+582	Berczeli Mikuláš	č.d.249/1916	0	740,748,820,821
+582	Berczeli Ondrej		0	676
+582	Berczeli Ondrej	mal	0	356,463,653,740,748,820,821
+582	Berczeli Ondrej	manž.Mária	0	783
+582	Berczeli Ondrej	manž.Verona Bollová	0	356,463,653,675,677,740,748,820,821
+582	Berczeli Ondrej	mladš	0	676,767
+582	Berczeli Ondrej r. mladší	dedil po Verone Berczeliovej	0	675
+582	Berczeliová Alžbeta	mal	0	284,612,631,740,748,820,821
+582	Berczeliová Emerencia	mal	0	284,612,631,740,748,820,821
+582	Berczeliová Helena r. Bélová	manž.Ján	0	284,631,740,748,820,821
+582	Berczeliová Julianna r. Berczeliová	manž.Ľudovít v Amerike	0	740,748,807,820,821
+582	Berczeliová Katarína	mal	0	284,356,463,653,740,748,820,821
+582	Berczeliová Mária	mal.č.d.249/1916	0	740,748,820,821
+582	Berczeliová Mária	mal.dedila po Verone Berczeliovej	0	675
+582	Berczeliová Mária	manž.František	0	774
+582	Berczeliová Mária	manž.Ondrej	0	783
+582	Berczeliová Mária r. Horváthová	manž.Ondrej	0	616,672,674,695,740,748,820,821
+582	Berczelly Július		0	169
+582	Béreš Ján	manž.Julianna Horváthová	0	740,748,820,821
+582	Bérešová Julianna r. Horváthová	manž.Ján	0	740,748,820,821
+582	Bernát Jozef	-	0	620,856
+582	Bernát Jozef	malol	0	390,620,740,748,820,821,856
+582	Bernát Karol		0	390,620,740,748,820,821,856
+582	Bernát Ladislav	malol	0	620,740,748,820,821,856
+582	Bernát Štefan	-	0	620,856
+582	Bernát Štefan	malol	0	390,620,740,748,820,821,856
+582	Bernáth Ladislav	malol	0	390,620,856
+582	Bernáth Ľudovit		0	390
+582	Bernáthová Mária	mal	0	740,748,820,821
+582	Bodnár František	malol	0	614,740,748,820,821,861,864
+582	Bodnár Ján		0	224
+582	Bodnár Ján	manž.Mária	0	773
+582	Bodnár Ján	vzdialený	0	221,491,610,726,740,748,820,821,853
+582	Bodnár Jozef		0	224
+582	Bodnár Jozef	mal	0	610,740,748,820,821
+582	Bodnár Jozef	vzdialený	0	221,491,740,748,820,821,853
+582	Bodnár Ladislav	manž.Irma Varjová	0	614,740,748,820,821,861,864
+582	Bodnár Ondrej	malol	0	614,740,748,820,821,861,864
+582	Bodnár Ondrej	manž.Barbora	0	221,224,491,740,748,820,821,853
+582	Bodnárová Alžbeta	mal.č.d.3242/1880	0	661,718,723,740,748,820,821
+582	Bodnárová Alžbeta	malol	0	614,672,740,748,820,821,861,864
+582	Bodnárová Anna		0	614,740,748,820,821,861,864
+582	Bodnárová Anna	mal.3242/1880	0	661,672,718,723,740,748,820,821
+582	Bodnárová Barbora	mal.č.d.3242/1880	0	661,672,718,723,740,748,820,821
+582	Bodnárová Barbora r. Bodnárová	manž.Ondrej	0	221,224,491,740,748,820,821,853
+582	Bodnárová Emerencia r. Barcziová	manž.Ján	0	221,224,491,610,726,740,748,820,821,853
+582	Bodnárová Magdaléna	mal.č.d.3242/1880	0	661,672,718,723,740,748,820,821
+582	Bodnárová Mária	manž.Ján	0	773
+582	Bodnárová Rozália r. Vozárová	vd.manž.Ondrej	0	661,672,718,723,740,748,820,821
+582	Bodnárová Zuzana	mal.č.d.3242/1880	0	661,672,718,723,740,748,820,821
+582	Bollo Štefan	manž.Mária	0	779
+582	Bollová Mária	manž.Štefan	0	779
+582	Bollová Mária r. Szappanosová	vd	0	656,740,748,820,821
+582	Brindza Ján		0	740,748,820,821
+582	Brindza Ján	mal	0	740,748,820,821
+582	Brindza Jozef		0	740,748,820,821
+582	Brindza Jozef	mal	0	740,748,820,821
+582	Brindza Jozef	manž.Alžbeta Sárogová	0	740,748,820,821
+582	Brindzová Alžbeta r. Sárogová	manž.Jozef	0	740,748,820,821
+582	Brindzová Emerencia	mal	0	740,748,820,821
+582	Brutovská Alžbeta r. Bakošová	manž.Pavol	0	740,748,757,820,821
+582	Brutovská Edita		0	407,865
+582	Brutovská Edita	mal	0	740,748,757,820,821
+582	Brutovská Emília r. Bakošová		0	407,865
+582	Brutovská Magda		0	407,865
+582	Brutovská Magdaléna	mal	0	740,748,757,820,821
+582	Brutovsky Ján	manž.Mária Vozárová	0	806
+582	Brutovský Vojtech		0	407,865
+582	Brutovský Vojtech	mal	0	740,748,757,806,820,821
+582	Bryndza Ján	manž.Ján	0	799
+582	Bryndza Netus	manž.Anna	0	791
+582	Bryndza Štefan	manž.Mária	0	801
+582	Bryndzová Anna	manž.Netus	0	791
+582	Bryndzová Helena	manž.Ján	0	799
+582	Bryndzová Mária	manž.Štefan	0	801
+582	Budai Ladislav	mal	0	740,748,820,821
+582	Budaiová Anna	mal	0	740,748,820,821
+582	Bukovics Ján		0	704
+582	Bukovič Štefan	manž.Anna Danišovská	0	740,748,820,821
+582	Bukovičová Anna r. Danišovská	manž.Štefan	0	740,748,820,821
+582	Bulik Eduard	mal	0	628
+582	Bulik Ján	mal	0	628
+582	Bulik Ján	starší	0	628
+582	Bulik Ján	zom.26.9.1973	0	740,748,820,821
+582	Bulík Ján		0	627
+582	Bulik Jozef	mal	0	740,748,820,821
+582	Bulik Jozef	zom.31.8.1985	0	740,748,820,821
+582	Bulik Július	mal	0	628
+582	Bulik Koloman		0	634,740,748,820,821
+582	Bulik Koloman	mal	0	740,748,820,821
+582	Bulik Ľudovít	mal	0	628
+582	Buliková Alžbeta	mal	0	740,748,820,821
+582	Buliková Anna r. Paczeszová		0	591,685,740,748,820,821
+582	Buliková Mária		0	591,685,740,748,820,821
+582	Buliková Mária r. Paczeszová		0	591,685,740,748,820,821
+582	Bulíková Terézia r. Csörnoková	Košice	0	634
+582	Burkušová Emma r. Lüköová	zom	0	740,748,820,821
+582	Cmorik Anton	syn Štefana	0	654,725,740,748,820,821
+582	Csatlós Ján	mal	0	232
+582	Csatlós Ladislav	mal	0	740,748,820,821
+582	Csatlós Ladislav	manž.Julianna Šebešová	0	740,748,820,821
+582	Csatlós Štefan		0	458,740,748,820,821,858

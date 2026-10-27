@@ -1,0 +1,256 @@
+3150	Urbánová Gizela r. Fodorová		0	899
+3150	Varga Barnabáš		0	561,563,878
+3150	Varga Barnabáš	1	0	561,563,565
+3150	Varga Barnabáš, 1 1		0	1105
+3150	Vašová Terézia r. Gálová		0	163,406,543
+3151	Adamcová Mária r. Rybanská	č.d. 702/45	0	607,653
+3151	Adamkovič Augustín		0	540
+3151	Adamkovič Bernard		0	871
+3151	Adamkovič Bernard	Topoľčany, ul. 14.marca	0	390
+3151	Adamkovič František	manž. Mária rod. Krajčíková, č.d. 1246/27	0	909
+3151	Adamkovič Gustáv	malol., č.d. 687/50	0	665,770,771,892,1039
+3151	Adamkovič Imrich r. Adamkovič		0	765
+3151	Adamkovič Ján		0	390,391,392,393,395,849
+3151	Adamkovič Ján	manž. Cecília rod. Rybanská	0	939
+3151	Adamkovič Ján	ml., Veľké Dvorany č. 57	0	522,921
+3151	Adamkovič Ján	vým. malol. v r. 38, č.d. 1904/19	0	525,768,769
+3151	Adamkovič Jozef		0	872,886
+3151	Adamkovič Jozef	manž. Anna r. Laciková	0	952
+3151	Adamkovič Jozef	manž. Katarína rod. Holá	0	566
+3151	Adamkovič Jozef	manž. Katarína rod. Holanová, spoluvlastníci Verona, Štefan, Jolana manž. Katarína rod. Holanová, spoluvlastníci Verona, Štefan, Jolana	0	778
+3151	Adamkovič Jozef	vým. malol. v r. 32	0	768,769
+3151	Adamkovič Jozef	vým. malol. v r. 33, č.d. 3264/29	0	540
+3151	Adamkovič Jozef,  53		0	472
+3151	Adamkovič Ľudevít	malol., Veľké Dvorany č. 59, č.d. 2329/29	0	339,340,350,440,441,551,603
+3151	Adamkovič Ľudovít r. Adamkovič		0	339,340,350,551,839
+3151	Adamkovič Martin	Veľké Dvorany	0	789
+3151	Adamkovič Michal	Bojna č. 65, č.d. 5182/31	0	855
+3151	Adamkovič Štefan	manž. Pavlína rod. Tomanová, č.d. 402/36	0	525,768,769
+3151	Adamkovič Štefan	Preseľany 109	0	810
+3151	Adamkovič Štefan	Veľké Dvorany č. 57, č.d. 2367/43	0	477,921,943
+3151	Adamkovič Štefan	vým. malol. v r. 37, č.d. 40/36	0	477,765
+3151	Adamkovič Štefan r. Adamkovič		0	339,441,839
+3151	Adamkovičová Alžbeta	vým. malol. v r. 35, č.d. 3264/29	0	540
+3151	Adamkovičová Anna r. Laciková	manž. Jozef	0	952
+3151	Adamkovičová Anna r. Tereková	manž. František, č.d. 3137/26	0	389,390
+3151	Adamkovičová Cecília r. Rybanská	manž. Ján	0	939
+3151	Adamkovičová Emília	malol., č.d. 4612/31	0	540
+3151	Adamkovičová Hermina	malol., č.d. 555/16	0	506,553
+3151	Adamkovičová Mária	vým. malol. v r. 35, č.d. 3264/29	0	540
+3151	Adamkovičová Mária r. Klasová		0	540,541
+3151	Adamkovičová Mária r. Krajčíková	manž. František, č.d. 1246/27	0	909
+3151	Adamkovičová Pavla r. Tomanová		0	490,491
+3151	Adamkovičová Pavlína r. Balajková	Bojna č. 65, č.d. 5182/31	0	855
+3151	Adamkovičová Rozália		0	472
+3151	Adamkovičová Rozália r. Adamkovičová	č.d. 2000/49	0	871
+3151	Adamkovičová Rozália r. Adamkovičová	manž. Jozef	0	886
+3151	Adamkovičová Rozália r. Adamkovičová	Veľké Dvorany č. 68, č.d. 211/51	0	872
+3151	Adamkovičová Verona r. Rusňáková	manž. Ján, č.d. 1308/27	0	345,921
+3151	Adamkovičová Veronika r. Rybanská		0	524,525,768,769
+3151	Agner Karol	manž. Mária r. Dvorská, veľké Dvorany 72	0	881
+3151	Babáčková Valéria r. Rybanská	Veľké Dvorany č. 102, č.d. 662/47	0	639,894
+3151	Bago Alžbeta r. Záhradná	manž. Ján	0	980
+3151	Bago Ján	č.d. 3610/05	0	514,1110
+3151	Bago Ján	manž. Alžbeta r. Záhradná	0	980
+3151	Bago Jozef	č.d. 5354/36	0	514,1110
+3151	Bago Ľudevít	malol., č.d. 785/34	0	514,1110
+3151	Bago Michal	manž. Mária rod. Herdová, č.d. 3610/05	0	514,966,1110
+3151	Bago Pavol	vým. malol. v r.11, č.d. 3610/05	0	514,1110
+3151	Bago Štefan	č.d. 5354/36	0	514,1110
+3151	Bago Viktor	manž. Mária r. Cifrová	0	975
+3151	Bago Vojtech	č.d. 5354/36	0	514,1110
+3151	Bagová Alžbeta r. Adamkovičová	č.d. 1202/36	0	841
+3151	Bagová Jozefína	malol., č.d. 201/40	0	514,1110
+3151	Bagová Mária r. Cifrová	manž. Viktor	0	975
+3151	Bagová Mária r. Herdová	manž. Michal, č.d. 3245/12	0	514,966,1110
+3151	Bagová Matilda	malol., č.d. 201/40	0	514,1110
+3151	Bagová Verona	č.d. 5354/36	0	514,1110
+3151	Balajka Jozef		0	794
+3151	Balajka Július		0	605
+3151	Balajková Katarína r. Adamkovičová		0	851
+3151	Barát Emil	Veľké Dvorany č. 27, č.d. 614/51	0	526,570,766,772,773,899
+3151	Bečka Ľudovít r. Bečka		0	454
+3151	Bečka Štefan		0	988
+3151	Bečková Magdaléna r. Krajčíková	č.d. 561/50	0	853
+3151	Bečková Pavlína r. Adamkovičová	manž. Štefan	0	454,525,768,769,988
+3151	Belák Štefan	manž. Pavlína rod. Dethová, Záhrady č. 1, č.d. 172/51	0	845
+3151	Belán Ján	manž. Roza rod. Rybanská, č.d. 2309/43	0	566
+3151	Bencová Verona r. Vančová	Precelany č. 206, č.d. 774/41	0	814
+3151	Beňová Anna r. Adamkovičová		0	629
+3151	Beňová Mária r. Ciferová		0	922
+3151	Blaško František	č.d. 3821/29	0	625
+3151	Brabcová Jozefína r. Krajčíková	č.d. 561/50	0	853
+3151	Butorová Alžbeta r. Krajčíková	č.d. 561/50	0	853
+3151	Cabaj František	manž. Pavlína r. Sedlárová	0	968
+3151	Cabaj Jozef	manž. Viktória r. Cabajová	0	974
+3151	Cabaj Michal	manž. Emília r. Rybanská	0	962
+3151	Cabajová Emília r. Rybanská	manž. Michal	0	962
+3151	Cabajová Pavlína r. Sedlárová	manž. František	0	968
+3151	Cabajová Viktória r. Cabajová	manž. Jozef	0	974
+3151	Ciffra Jozef PhDr.  r. Ciffra		0	791,800
+3151	Ciffra Vojtech MUDr.  r. Ciffra		0	541,791
+3151	Ciffrová Mária r. Hanzelová		0	949
+3151	Cifra Aladár	vým. malol. v r. 49, č.d. 1933/33	0	383,954
+3151	Cifra Arpád	manž. Margita r. Podobová	0	955
+3151	Cifra Koloman	manž. Margita rod. Rybanská, Veľké Dvorany č. 66, č.d. 1423/	0	380,912
+3151	Cifra Michal	slob	0	958
+3151	Cifrová Jolana	vým. malol. v r. 39, č.d. 1933/33	0	383
+3151	Cifrová Katarína r. Moringová		0	501,502,796
+3151	Cifrová Margita r. Podobová		0	955
+3151	Cifrová Margita r. Rybanská		0	912
+3151	Cifrová Mária	slob., č.d. 6086/38	0	945
+3151	Cifrová Mária r. Vančová	manž. Štefan, č.d. 2591/25	0	814
+3151	Cifrová Verona	slob., č.d. 6086/38	0	946
+3151	Damašková Adela r. Vančová	č.d. 5327/37	0	569,699,724,726
+3151	Dropeňová Katarína	č.d. 3111/37	0	890
+3151	Ďurák Ján	č.d. 40/37	0	856
+3151	Ďurák Jozef	č.d. 40/37	0	856
+3151	Ďuráková Katarína r. Jančovičová	Veľké Dvorany č. 18, č.d. 5182/31	0	856
+3151	Ďuriková Anna r. Rybanská	č.d. 91/22	0	356,803
+3151	Ďuriková Verona	malol., č.d. 86/12	0	514,1110
+3151	Filová Eva r. Spoločníková	manž. Gustáv, č.d. 5058/07	0	835
+3151	Grznárik František	č.d. 1061/37	0	554
+3151	Grznárik Gejza	č.d. 1061/37	0	554
+3151	Grznárik Štefan	manž. Katarína rod. Chudá, č.d. 7763/34	0	554
+3151	Grznárik Vít		0	554
+3151	Grznáriková Katarína r. Chudá	manž. Štefan, č.d. 159/19	0	554
+3151	Grznáriková Verona r. Ševčíková	č.d. 1331/27	0	910
+3151	Gudabová Anna r. Jančovičová	č.d. 2383/38	0	466
+3151	Huba Štefan	manž. Alžbeta r. Gregušová	0	969
+3151	Hubinská Mária r. Valachová	manž. František	0	959
+3151	Hubinský František	manž. Mária r. Valachová	0	959
+3151	Hubová Alžbeta r. Gregušová	manž. Štefan	0	969
+3151	Hubová Mária	vým. malol. v r. 31, č.d. 3362/26	0	408,670
+3151	Hubová Mária r. Habajová	vdova, Urmince č.110	0	977
+3151	Hubová Mária r. Toroková	vd., manž. Ján, č.d. 3078/22	0	903
+3151	Hubová Veronika r. Balajková	vdova	0	970
+3151	Chropeňová Anna r. Rybanská	vd., Veľké Dvorany č. 50, č.d. 3113/37	0	862
+3151	Chudá Bernardína r. Adamkovičová	vým. malol. v r. 31, manž. Koloman, č.d. 3264/29	0	540,960
+3151	Chudý Gejza r. Chudý		0	798
+3151	Chudý Jozef	slob	0	964
+3151	Chudý Koloman	manž. Bernardína r. Adamkovičová	0	960
+3151	Chudý Štefan	manž. Mária r. Bagová	0	982
+3151	Jančovič Adam	manž. Anna rod. Rybanská, č.d. 1158/27	0	384
+3151	Jančovič Gustáv	slob., č.d. 389/35	0	857
+3151	Jančovič Imrich	manž. Katarína rod. Matejková, Veľké Dvorany č. 8, č.d. 5182	0	858
+3151	Jančovič Ján	manž. Anna rod. Jančovičová, č.d. 389/35	0	857
+3151	Jančovič Jozef	č.d. 5561/34	0	864
+3151	Jančovič Jozef	slob., č.d. 2383/38	0	466
+3151	Jančovič Ľudovít	č.d. 5561/34	0	864
+3151	Jančovičová Katarína r. Jančovičová	manž. Imrich, Veľké Dvorany č. 8, č.d. 5182/31	0	858
+3151	Jančovičová Mária r. Halašová	manž. Jozef, Veľké Dvorany č. 17, č.d. 5182/31	0	466
+3151	Jančovičová Mária r. Jančovičová	Veľké Dvorany č. 18, č.d. 5182/31	0	857
+3151	Jenöfi Eugen	č.d. 1637/22	0	835
+3151	Jenöfi Irena	malol., č.d. 1637/22	0	835
+3151	Jenöfi Ján	manž. Anna rod. Halázová, č.d. 5058/07	0	835
+3151	Jenöfi Jozef	č.d. 1637/22	0	835
+3151	Jenöfi Ladislav	č.d. 1637/22	0	835
+3151	Jenöfi Margita	č.d. 1637/22	0	835
+3151	Kasalová Jolana r. Grznárová		0	398
+3151	Klasová Mária r. Martinovičová	manž. Ján, č.d. 1277/30	0	901
+3151	Klasová Marta	malol., Veľké Dvorany č. 16, č.d. 1277/30	0	901,906
+3151	Kováčik Ján	vým. malol. v r. 1909, č.d. 2851/07	0	484,861,1091
+3151	Kováčik Jozef	manž. Mária rod. Balajková, č.d. 599/19	0	795
+3151	Kováčiková Mária r. Balajková	manž. Jozef, č.d. 599/19	0	795,924
+3151	Krajčík Bernard	slob., č.d. 561/50	0	853
+3151	Krajčík František		0	897
+3151	Krajčík Ján	manž. Mária rod. Ďurišová, č.d. 561/50	0	853
+3151	Krajčík Jozef	manž. Ernestína rod. Leitlová, č.d. 561/50	0	853
+3151	Krajčík Jozef	manž. Veronika rod. Jánosová, č.d. 4568/03	0	811
+3151	Krajčík Jozef	Veľké Dvorany č. 46, č.d. 1706/50	0	919
+3151	Krajčík Štefan	Bojna č. 163, č.d. 74/50	0	440,603
+3151	Krajčík Štefan	manž. Alojzia rod. Manosová, č.d. 561/50	0	853
+3151	Krajčíková Alžbeta r. Bisáková	vd., Veľké Dvorany č. 46, č.d. 1706/50	0	897,919,920
+3151	Krajčíková Augustína r. Jánošová	Bojna č. 8, č.d. 74/50	0	440,603
+3151	Krajčíková Hermína	č.d. 1454/27	0	897,920
+3151	Krajčíková Margita	vým. malol. v r. 51, č.d. 561/50	0	853
+3151	Krajčíková Mária r. Solaňová	Bojna č. 139, č.d. 5182/31	0	853
+3151	Krajčovičová Augustína r. Adamkovičová	vým. malol. v r. 29, č.d. 1904/19	0	525,768,769
+3151	Krištofová Anna r. Rybanská	manž. Vincent, č.d. 1560/29	0	398,524,525,766,768,769,772,773
+3151	Krušinová Alžbeta r. Rybanská	Veľké Dvorany č. 60, č.d. 642/57	0	395
+3151	Kučerka Alexander		0	506
+3151	Kučerka Ján		0	611
+3151	Kučerka Jozef		0	506
+3151	Kučerka Jozef	č.d. 2104/29	0	524
+3151	Kučerková Alžbeta r. Kováčiková		0	649
+3151	Kučerková Anastázia r. Ciffrová		0	801
+3151	Kučerková Augustína	vým. malol. v r. 38, č.d. 1762/36	0	346,477,577,578
+3151	Kučerková Bernardína	č.d. 4561/35	0	354,357,458,552
+3151	Kučerková Emília r. Rybanská		0	878
+3151	Kučerková Mária r. Čergetová		0	577,900
+3151	Kučerková Róza r. Martinovičová	manž. Imrich, č.d. 2153/12	0	410,412,414,543,799
+3151	Laciková Verona r. Rybanská	Mratice, č.d. 238/49	0	404,698,812
+3151	Lukačovič Ján		0	901,906
+3151	Magulová Pavla r. Manduchová		0	346,477,522,573,577,578
+3151	Majeský Štefan	manž. Matilda rod. Šašvary, č.d. 5058/07	0	835
+3151	Martinovič Aladár r. Martinovič		0	630
+3151	Martinovič Gustáv	malol., č.d. 1664/23	0	901,906
+3151	Martinovič Gustáv	manž. Anna rod. Tomanová, č.d. 610/30	0	495
+3151	Martinovič Imrich		0	901,906
+3151	Martinovič Ján		0	911
+3151	Martinovič Ján r. Martinovič		0	386,387,435,436,437,685,686,687,688,689,690,691,692,693,739,767,797,798,799,891,911,1025,1026,1027,1141,1154
+3151	Martinovič Jozef	malol., č.d. 1664/23	0	901,906
+3151	Martinovič Jozef r. Martinovič		0	797,798
+3151	Martinovič Ľudovít	slob., č.d. 637/60	0	895
+3151	Martinovič Ľudovít r. Martinovič		0	630
+3151	Martinovičová Anastázia r. Rybanská		0	880
+3151	Martinovičová Bernardína	malol., č.d. 1664/23	0	901,906
+3151	Martinovičová Kristína	malol., č.d. 1356/27	0	906
+3151	Martinovičová Paulína r. Rybanská	č.d. 1560/29	0	398,524,525,766,768,769,772,773
+3151	Martošová Katarína r. Jánošová	Kuzmice č. 59, č.d. 74/50	0	440,603
+3151	Matejová Mária r. Krajčíková	č.d. 561/50	0	853
+3151	Mazanecová Irena r. Blahušová	č.d.1408/23	0	584
+3151	Medek Ivan	malol., č.d. 659/47	0	383
+3151	Medeková Anna r. Vančová	vým. malol. v r. 38, manž. Ján, č.d. 5327/37	0	569,699,724,726
+3151	Merašický Jozef	manž. Katarína rod. Gyuveseková, č.d. 5036/07	0	850
+3151	Michacha Ján	č.d. 386/24	0	376,652
+3151	Michalovič Anton	č.d. 6772/37	0	854
+3151	Michalovič Imrich	vým. malol. v r. 46, č.d. 6772/37	0	854
+3151	Michalovič Jozef	č.d. 6772/37	0	854
+3151	Michalovič Štefan	č.d. 6772/37	0	854
+3151	Michalovičová Alžbeta r. Kopčaková	č.d. 5182/31	0	854
+3151	Michalovičová Mária	č.d. 6772/37	0	854
+3151	Michalovičová Paulína	vým. malol. v r. 39, č.d. 6772/37	0	854
+3151	Miklovičová Amália r. Adamkovičová		0	839
+3151	Minariková Paulína r. Martinovičová		0	797,798
+3151	Minariková Vilma r. Martinovičová		0	687,797,798
+3151	Minarovičová Verona r. Ďuríková	č.d. 2037/30	0	514,1110
+3151	Moringa František	manž. Zuzana rod. Cabajová, Veľké Dvorany č. 36, č.d. 456/42	0	501,502,852
+3151	Moringa Gustáv	Veľké Dvorany č. 28, č.d. 2281/43	0	501,502,796
+3151	Moringa Imrich	vzdialený, č.d. 2281/43	0	501,502,796
+3151	Moringa Ján	ml., Veľké Dvorany č. 9, č.d. 2330/48	0	501
+3151	Moringa Ján	žen. s Veronou Streďanskou	0	501
+3151	Moringová Alžbeta	Veľké Dvorany č. 28, č.d. 2281/43	0	501,502,796
+3151	Moringová Jozefína r. Chudá		0	798
+3151	Moringová Zuzana r. Cabajová	manž. František, Veľké Dvorany č. 36, č.d. 456/42	0	813
+3151	Petrík Koloman	manž. Emília r. Beláková	0	963
+3151	Petríková Emília r. Beláková	manž. Koloman	0	963
+3151	Petrušová Alžbeta r. Adamkovičová	č.d. 4935/40	0	369
+3151	Polanská Verona r. Rybanská	manž. Michal, Veľké Dvorany č. 60, č.d. 642/57	0	395
+3151	Ringvald Ignác	manž. Hana rod. Neumannová, č.d. 5043/07	0	815
+3151	Rybanská Alžbeta	vým. malol. v r. 37, č.d. 2013/23	0	356,416,574,803
+3151	Rybánska Alžbeta r. Oravcová	manžel Michal	0	454
+3151	Rybanská Alžbeta r. Rybanská	manž. Michal, č.d. 1337/27	0	913
+3151	Rybanská Amália r. Rybanská		0	520,793,840,880
+3151	Rybanská Anastázia	č.d. 737/50	0	632
+3151	Rybánska Anna r. Martinovičová		0	901,906
+3151	Rybanská Anna r. Rybanská	manž. Ján, č.d. 1969/30	0	698
+3151	Rybanská Anna r. Rybanská	Veľké Dvorany č. 18, č.d. 614/51	0	766
+3151	Rybanská Anna r. Rybanská	Veľké Dvorany č. 27, č.d. 1274/41	0	405,699
+3151	Rybanská Augustína r. Kučerková		0	522,573,787
+3151	Rybanská Dorota r. Barátová	manž. Ján, č.d. 1184/27	0	899
+3151	Rybanská Emília	dcéra Michala, č.d. 973/37	0	503,663
+3151	Rybanská Emília	malol., Veľké Dvorany č. 54, č.d. 644/50	0	889
+3151	Rybanská Ilona	malol., č.d. 1875/44	0	363,842
+3151	Rybanská Katarína r. Grmanová	manž. Jozef, č.d. 5391/14	0	404,405,456,569,570,571,572,699,780,812,848
+3151	Rybanská Katarína r. Rybanská	č.d. 2741/32	0	863
+3151	Rybanská Katarína r. Rybanská	manž. Imrich, č.d. 2979/1896	0	497
+3151	Rybanská Katarína r. Rybanská	Veľké Dvorany č. 30, č.d. 456/42	0	356
+3151	Rybanská Margita r. Pecháčková		0	937
+3151	Rybanská Mária	č.d. 2834/33	0	459
+3151	Rybanská Mária r. Blašková	manž. Michal, č.d. 8424/13	0	875
+3151	Rybanská Mária r. Ďuráková	č.d. 40/37	0	856
+3151	Rybanská Mária r. Ondrejková		0	834
+3151	Rybanská Mária r. Oravcová	manž. Jozef	0	932
+3151	Rybanská Mária r. Rybanská	manž. Juraj, č.d. 1081/27	0	898
+3151	Rybanská Pavlína r. Rybanská		0	356,395,416,574,803

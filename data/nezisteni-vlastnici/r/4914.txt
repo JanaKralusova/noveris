@@ -1,0 +1,256 @@
+2768	VICENOVÁ Mária		1	6362,9324
+2768	VICENOVÁ Mária	Bencová	1	5584
+2768	Vicenová Terézia	Forová	1	5837
+2768	VICENOVÁ Terézia	Brezovská	1	5863
+2768	VILÉMOVÁ Jozefína	Hubeková	1	5078
+2768	VIŠVÁDER Jozef		1	6362,9324
+2768	VIŠVÁDEROVÁ Antonia		1	6362,9324
+2768	VITERČÍK Ján		1	6362,6369,9324
+2768	VITERČÍKOVÁ Františka		1	5808,6362,6369,9324
+2768	VLČEK Ignác	Zomr., Nar.31.1.1894	1	5530
+2768	VLČEK Ján		1	5370,5538
+2768	VLČEK Matej		1	6661
+2768	VLČKOVÁ Anežka		1	6362,6371,9324
+2768	VOLNÁROVÁ Helena		1	4800
+2768	VRABLEC Vojtech		1	5536
+2768	VRÁBLECOVÁ Terézia	Turčinová	1	5082,5733
+2768	Vtáček Karol r. Vtáček a Alžbeta Vtáčková r. Vrablicová		0	6085
+2768	WEINŠTUKOVÁ Barbora	Kovaničová	1	3092
+2768	WEINŠTUKOVÁ Katarína	Marošová	1	5207,5734
+2768	ZAHRADNÍČKOVÁ Anna	Gašparková	1	6492
+2768	ZAJÍČEK Dominik		1	6419
+2768	ZAJÍČEK Dominik	*	1	6387
+2768	ZAJÍČKOVÁ Helena	Kovárová	1	4509,6419
+2768	ZAJÍČKOVÁ Mária	Havlíková *	1	6362,6387,9324
+2768	ZÁLESŇÁK Marek		1	6013
+2768	ZÁLESŇÁK Tomáš		1	5517
+2768	ZALESŇÁKOVÁ Anastázia		1	3534
+2768	ZÁVRACKÁ Hermína	Vašková, Trenčín, Piešťanská 1465	1	5985
+2768	ZÁVRACKÁ Mária	Matlovičová	1	5107
+2768	ZEMAN Ján		1	4696
+2768	ZERKOVIČOVÁ Františka	Matlovičová	1	5575
+2768	ZETTELOVÁ Ružena	Suchánková	1	5385
+2768	Zúral František r. Zúral a Marta Zúralová r. Kubovičová		0	3569
+2768	ZVIRÁKOVÁ Emília		1	4696
+2768	ŽATKOVÁ Věra r. Synková		0	3132
+2768	Želipská Mária r.Sedláková /SPF/		1	3679,3738
+2768	Želipský Albert	maloletý, syn Alberta a Jozefíny Želipskej	0	5106
+2768	ŽIKLOVÁ Anna	Šteffeková	1	6445,6457,6461
+2769	Babiar Andrej		0	547,549,552,948,949
+2769	Babiar Filip		0	580,931,932,933,934,937,939,1174,1177,1178,1267,1268,1293,1294
+2769	Babiar Filip	LSR	0	938
+2769	Babiar Ondrej		0	545,548,937,939,946,947,997,998,1177,1178,1267,1268,1293,1294
+2769	Babiar Ondrej	LSR	0	553,938
+2769	Babiar Rudolf		0	580,931,932,933,934,937,939,1174,1177,1178,1267,1268,1293,1294
+2769	Babiar Rudolf	LSR	0	938
+2769	Babiar Štefan		0	580,581,931,932,933,934,937,939,1174,1177,1178,1267,1268,1293,1294
+2769	Babiar Štefan	Kucharik	0	558,762,1264,1293,1294
+2769	Babiar Štefan	LSR	0	938
+2769	Babiarová Františka r. Maková		0	1095
+2769	Babiarová Helena		0	580,931,932,933,934,937,939,1174,1177,1178,1267,1268,1293,1294
+2769	Babiarová Helena	LSR	0	938
+2769	Babiarová Katarína		0	529,530,532,575,584,1172,1173,1190,1191,1287,1288,1293,1294,1410
+2769	Babiarová Mária		0	510
+2769	Babiarová Mária r. Šterdasová		0	956,1362,1425
+2769	Babiarová Zuzana		0	545,547,548,549,552,946,947,948,949,997,998
+2769	Babiarová Zuzana	LSR	0	553
+2769	Balej František r. Balej, Stupné 155, Brvnište, PSČ 018 12, SR		0	1293,1294
+2769	Balej Karol		0	1119
+2769	Balejová Anna		0	1283,1284
+2769	Baníncová Mária r. Mikušíková, 018 12, Brvnište, č. 394, SR	nar. 01.05.1900	0	1293,1294
+2769	Barenčík František		0	718,901,902
+2769	Barenčík Ján		0	519,545,548,718,901,902,1293,1294
+2769	Barenčík Michal	ml	0	545
+2769	Barenčík Pavol		0	869,870,1489,1491,1492,1525
+2769	Barenčík Štefan		0	559,952,1293,1294
+2769	Barenčík Štefan	ml	0	548
+2769	Barenčíková Jozefína		0	935,936,1117,1293,1294,1439,1440
+2769	Barenčíková Karolína		0	718
+2769	Barenčíková Verona	Kačic	0	545,547,548,549,552,553,946,947,948,949,997,998
+2769	Barenčíková Verona r. Mišurová		0	1030
+2769	Bednárová Františka r. Mišúrová	zom.04.09.1985	0	1070
+2769	Begáň Adam		0	1218
+2769	Begáň Jozef		0	918,919
+2769	Begáň Marek		0	435,437,493,503,504,545,547,548,549,552,553,598,918,919,920,921,922,923,924,925,926,927,946,947,948,949,968,969,970,971,972,973,974,975,976,981,982,983,997,998,1026,1095,1132,1133,1139,1140,1141,1144,1145,1146,1147,1218,1293,1294,1357,1507
+2769	Begáňová Anna		0	937,1218,1636
+2769	Begáňová Mária		0	435,503,545,547,548,549,552,553,598,920,921,922,923,924,946,947,948,949,981,982,983,997,998,1132,1133,1141,1144,1145,1147,1293,1294,1507
+2769	Begáňová Mária	r Šamajová	0	1068,1069
+2769	Begáňová Mária r. Šamajová		0	174,520,979,980,1121,1253,1254,1255,1256,1262,1531,1692,1695
+2769	Beluch Dominik		0	1293,1294
+2769	Beluch Stanislav		0	1293,1294
+2769	Beluchová Verona r. Hároníková		0	559,1207,1208
+2769	Bundzík Matej		0	1132,1133
+2769	Bundzík Matúš		0	510,545,547,548,549,552,553,946,947,948,949,997,998,1293,1294
+2769	Bundzík Pavol		0	482,512,513,522,524,545,547,548,549,552,553,573,574,594,827,946,947,948,949,997,998,1017,1111,1148,1149,1156,1157,1158,1159,1160,1161,1162,1218,1270,1271,1276,1277,1291,1292,1293,1294,1459,1470
+2769	Bundzíková Katarína		0	563,716,767,1293,1294
+2769	Čamaj Karol		0	827,1125
+2769	Čamajová Anna		0	545,547,548,549,552,553,946,947,948,949,997,998
+2769	Čamajová Júlia r. Dzurianiková	zom.27.03.1996	0	1109
+2769	Čamajová Terézia r. Šterdasová		0	549
+2769	Dzurianíková Mária r. Kramáriková		0	597
+2769	Gaban Karol		0	1083
+2769	Gaban Klement		0	1083
+2769	Gaban Michal		0	545,547,548,549,552,553,946,947,948,949,997,998
+2769	Gaban Štefan		0	545,547,548,549,552,553,581,942,943,946,947,948,949,997,998,1183,1186,1187,1293,1294
+2769	Gabanová Karolína	r Šterdasová; LSR	0	938
+2769	Gabanová Karolína r. Šterdasová		0	545,547,548,549,552,553,937,939,946,947,948,949,997,998,1102,1177,1178
+2769	Gabanová Katarína		0	590
+2769	Gabanová Mária r. Lejková		0	1218
+2769	Gabanová Mária r. Šištíková		0	942,943,1183,1186,1187,1293,1294
+2769	Gablíková Agneša r. Jurdíková		0	174,1531
+2769	Gabrišová Anna	r Kuviková Vnuk	0	545,548,549,552,553,946,947,948,949,997,998,1101,1161,1162,1218,1276,1277,1293,1294
+2769	Gabrišová Anna r. Kuviková	Vnuk	0	482,512,524,547,574
+2769	Gajdošová Helena		0	558,762,1264,1293,1294
+2769	Gajdošová Ilona		0	944,945,1055,1058,1293,1294
+2769	Harciník Matúš		0	545,547,548,549,552,553,946,947,948,949,997,998
+2769	Harciník Vendelín		0	545,547,548,549,552,553,946,947,948,949,997,998
+2769	Harciníková Karolína r. Kuviková		0	1119
+2769	Hároníková Albína		0	559,1207,1208
+2769	Hároníková Viktória		0	559,1207,1208
+2769	Heldes František		0	545,547,548,549,552,553,946,947,948,949,997,998
+2769	Heldes Ján		0	552,553,1105,1279,1280,1293,1294
+2769	Heldesová Anna		0	545,547,548,549,552,553,946,947,948,949,997,998
+2769	Hermanová Verona r. Begáňová		0	437,493,503,920,921,922,923,924,1132,1133,1139,1140,1141,1144,1145,1147,1218,1357
+2769	Hladnišová Helena	r Kuviková Rybíček	0	583,940,941,1039,1075,1132,1133,1218,1290,1293,1294
+2769	Hladnišová Helena r. Kuviková	Rybíček	0	510
+2769	Hrebičíková Kristína r. Kuviková		0	545,547,549,552,553,1101
+2769	Hromadík Štefan	ml	0	545
+2769	Hucan Štefan	zom.09.11.1987	0	1070
+2769	Hucanová Katarína r. Gabanová		0	590,1216
+2769	Chmulík František		0	554,864,865,866,895,896,950,951,959,960,1107,1293,1294
+2769	Chmulík Štefan		0	554,864,865,866,895,896,950,951,959,960,1107,1293,1294
+2769	Chmulíková Terézia		0	554,864,865,866,895,896,950,951,959,960,1107,1293,1294
+2769	Chovančík František		0	545
+2769	Chovančík Jozef		0	1047
+2769	Chovančík Štefan		0	1047
+2769	Janáček Šterdas Michal		0	545,547,548,549,552,553,946,947,948,949,956,977,978,997,998,1124,1168,1169,1293,1294,1362,1363,1364,1365,1425
+2769	Janáčková Mária	r Krajčoviechová Kozík	0	1076
+2769	Janáčková Verona r. Šterdasová		0	1057
+2769	Jandík Matúš		0	850
+2769	Jandíková Františka		0	545,547,548,549,552,553,946,947,948,949,997,998
+2769	Jandíková Verona r. Krajčoviechová		0	757,758,760,888,889,899,900,1170,1171,1293,1294,1356,1414,1552
+2769	Jurčíková Verona r. Krajčoviechová		0	1019,1021,1293,1294,1478
+2769	Jurdík Andrej		0	997
+2769	Jurdík Andrej	manželka Verona Jurdíková rod.Plšeková	0	1233
+2769	Jurdík Jozef		0	146,279,539,545,547,548,549,552,553,577,581,583,946,947,948,949,961,997,998,1039,1075,1184,1185,1217,1290,1293,1294,1432
+2769	Jurdík Ondrej	manželka Verona Jurdíková rod.Plšeková	0	571,722,1235,1293,1294,1705,1706
+2769	Jurdíková Verona r. Plšeková		0	571,722,1235,1293,1294,1705,1706
+2769	Kadáková Ilona r. Kuviková		0	1107,1217
+2769	Kafrík Ľudovít		0	580,931,932,933,934,944,945,1055,1102,1174,1293,1294
+2769	Kafríková Františka r. Vatolíková		0	545
+2769	Kafríková Karolína r. Vatolíková		0	545,547,548,549,552,553,571,722,937,938,939,946,947,948,949,997,998,1055,1177,1178,1233,1235,1267,1268,1293,1294,1705,1706
+2769	Karlíková Františka r. Vatolíková	zom.25.05.1998	0	1055,1102
+2769	Kňažková Karolína r. Vnuková		0	1276,1277,1293,1294
+2769	Kozík Michal		0	545,547,548,549,552,553,946,947,948,949,997,998
+2769	Krajčoviech František	Kačinec	0	864,865
+2769	Krajčoviech František	Notariusik	0	519,529,530,532,545,547,548,549,552,553,584,585,718,901,902,946,947,948,949,997,998,1172,1173,1190,1191,1219,1293,1294
+2769	Krajčoviech František	zom.27.07.1994	0	1274,1275
+2769	Krajčoviech Ján	zom.28.09.1992	0	1098
+2769	Krajčoviech Jozef	Kozík	0	1041,1076
+2769	Krajčoviech Jozef	Kuvík	0	984,985,1293,1294
+2769	Krajčoviech Karol	Krkan	0	480,539,607,928,929,1163,1164,1184,1185
+2769	Krajčoviech Michal	Notariusik	0	1219
+2769	Krajčoviech Ondrej	Krkan	0	564,1499
+2769	Krajčoviech Ondrej	Kuvík	0	757,758,760,899,900,1170,1171,1293,1294
+2769	Krajčoviech Ondrej	zom|23.02.1981	0	1076
+2769	Krajčoviech Ondrej	ž Katarína	0	1218
+2769	Krajčoviech Ondrej, Kuvík Kuvík		0	1552
+2769	Krajčoviech Pavol	Kozík	0	888,889,891,1076,1293,1294,1356,1414,1415
+2769	Krajčoviech Štefan	Kačinec	0	1083
+2769	Krajčoviech Štefan	Krkan	0	545,547,548,549,552,553,946,947,948,949,997,998
+2769	Krajčoviech Tomáš	Notariusik	0	548,946,947,997,998,1006,1105,1219
+2769	Krajčoviechová Anna		0	1218
+2769	Krajčoviechová Anna	Kuvík	0	757,758,760,899,900,1170,1171,1293,1294
+2769	Krajčoviechová Anna	Štiavničan	0	597,898,1281,1282,1293,1294
+2769	Krajčoviechová Anna r. Begáňová		0	1216
+2769	Krajčoviechová Anna, Kuvík Kuvík		0	1552
+2769	Krajčoviechová Anna, Štiavničan Štiavničan		0	1615
+2769	Krajčoviechová Kristína	Kozík	0	564,757,758,760,899,900,1041,1076,1170,1171,1285,1286,1293,1294,1499
+2769	Krajčoviechová Kristína r. Balejová		0	480,607,928,929,1163,1164
+2769	Krajčoviechová Kristína, Kozík Kozík		0	1552
+2769	Krajčoviechová Magdaléna	r Chalan Kozík	0	765,992,993,1118,1218
+2769	Krajčoviechová Magdaléna	r. Chalan Kozík	0	472
+2769	Krajčoviechová Mária	Kozík	0	757,758,760,888,889,890,891,899,900,1170,1171,1293,1294,1356,1414,1415
+2769	Krajčoviechová Mária	Notariusik	0	545,547,548,549,552,553,946,947,948,949,997,998
+2769	Krajčoviechová Mária	r Begáňová Krkan	0	1218
+2769	Krajčoviechová Mária	r Mišurová Kozík	0	1030
+2769	Krajčoviechová Mária, Kozík Kozík		0	1552
+2769	Krajčoviechová Verona	Krkan	0	539,1022,1104,1184,1185
+2769	Kramárik Daniel		0	597
+2769	Kramárik Ferdinand		0	1063,1218
+2769	Kramárik Jozef		0	1119
+2769	Kramárik Jozef	Štiavničan	0	542
+2769	Kramárik Michal		0	582,597,599,898,966,967,987,988,989,990,994,995,1016,1057,1063,1114,1218,1293,1294,1421,1727
+2769	Kramárik Michal	Štiavničan	0	545,547,548,549,552,553,582,946,947,948,949,987,988,989,990,994,995,997,998,1057,1114,1293,1294
+2769	Kramárik Milan		0	548,1016,1293,1294
+2769	Kramáriková Eva		0	542,905,906,907,1260,1261,1293,1294
+2769	Krkaník Ján		0	545,547,548,549,552,553,946,947,948,949,997,998
+2769	Kugel Jakub		0	1218
+2769	Kucharík Štefan		0	558,762,1264,1293,1294
+2769	Kukulíkova Helena r. Gajdošová		0	1055,1058
+2769	Kurciníková Terézia r. Chmulíková		0	554,864,865,866,895,896,950,951,959,960,1107,1293,1294
+2769	Kuvik Albert		0	586,1038,1096,1263,1293,1294
+2769	Kuvik Ivan	zom.17.08.1998	0	1095
+2769	Kuvik Ján		0	524,548,1101,1218
+2769	Kuvik Ján	Rybíček	0	1022,1293,1294
+2769	Kuvik Jozef	Chmulík	0	935,936,1293,1294,1439,1440
+2769	Kuvik Jozef	ml	0	545,547,548,549,552,553,946,947,948,949,997,998
+2769	Kuvik Jozef	Rybíček	0	1039
+2769	Kuvik Ondrej		0	503
+2769	Kuvik Ondrej	Šípek	0	545,547,548,549,552,946,947,948,949,997,998
+2769	Kuvik Ondrej r. Šípek		0	553
+2769	Kuvik Štefan	Rybíček	0	1039,1075
+2769	Kuviková Alžbeta		0	586,1096,1263,1293,1294
+2769	Kuviková Anna r. Šterdasová		0	1057,1063
+2769	Kuviková Františka	Rybíček	0	539,577,581,583,864,865,866,895,896,959,960,961,1107,1184,1185,1217,1290,1293,1294
+2769	Kuviková Helena r. Begáňová		0	1218
+2769	Kuviková Ilona		0	1107,1217
+2769	Kuviková Ilona	Rybíček	0	1293,1294
+2769	Kuviková Katarína		0	935,936,1117,1293,1294,1439,1440
+2769	Kuviková Katarína r. Bundíková		0	510,542,937,938,939,1119,1177,1178,1181,1182,1267,1268,1293,1294
+2769	Kuviková Katarína r. Krajčoviechová		0	935,936,1117,1293,1294,1439,1440
+2769	Kuviková Kristína	Rybíček	0	1039,1075,1095,1293,1294
+2769	Kuviková Mária	r Krajčoviech Kozík m Štefan	0	1170,1171,1285,1286,1293,1294
+2769	Kuviková Mária	r Krajčoviech Kozík m. Štefan	0	1076
+2769	Kuviková Mária	r Krajčoviech Kozík m.Štefan	0	1041
+2769	Kuviková Mária	r Krajčoviech Kozík mŠtefan	0	1293
+2769	Kuviková Mária	r Krajčoviech Kozík, m. Štefan	0	757,758,760,899,900
+2769	Kuviková Mária	r Krajčoviech Kozík, m.Štefan	0	757,899
+2769	Kuviková Mária	r. Krajčoviech Kozík m. Štefan	0	1041
+2769	Kuviková Mária	r.Krajčoviech Kozík m. Štefan	0	564,1499
+2769	Kuviková Mária	r.Krajčoviech Kozík, m.Štefan	0	758
+2769	Kuviková Mária	r.Krajčoviech Krkan	0	279
+2769	Kuviková Mária	Rybíček	0	1075,1217
+2769	Kuviková Mária r. Balejová		0	545,547,548,549,552,553,946,947,948,949,997,998
+2769	Kuviková Mária r. Krajčoviech Kozík, manž.Štefan manž.Štefan		0	1552
+2769	Kuviková Vincencia		0	586,1038,1096,1263,1293,1294
+2769	Lazar Karol		0	519,1105
+2769	Lejko Horný Ondrej	ž Anna	0	1218
+2769	Mako František		0	1095,1120
+2769	Mako Ján		0	1132,1133,1218
+2769	Mako Ondrej		0	1024,1026,1095
+2769	Mako Štefan r. Mako	zom.14.02.1986	0	1041
+2769	Maková Františka		0	529,530,532,552,584,585,905,906,907,1019,1120,1190,1191,1260,1261,1293,1294,1478
+2769	Maková Kristína r. Begáňová		0	510,1293,1294
+2769	Maková Paulina		0	1024,1026,1095
+2769	Maková Pavlína		0	956,1362,1425
+2769	Maková Verona		0	510,545,547,549,552,553,598,946,948,949,956,968,969,971,973,976,981,997,998,1024,1026,1127,1132,1133,1218,1293,1294,1362,1365,1425
+2769	Martinková Júlia r. Mišúrová	zom.13.01.1985	0	1070
+2769	Micinikova Anna		0	545,547,548,549,552,553,946,947,948,949,997,998
+2769	Mičiníková Karolína r. Kramáriková		0	1116
+2769	Mihalač Michal		0	482,512,524,545,547,548,549,552,553,574,946,947,948,949,997,998,1101,1161,1162,1218,1276,1277,1293,1294
+2769	Michvot Michal		0	545,547,548,549,552,553,946,947,948,949,997,998
+2769	Michvotová Anna		0	545,547,549,552,553,946,947,948,949,997,998
+2769	Michvotová Katarína		0	545,547,548,549,552,553,946,947,948,949,997,998
+2769	Michvotová Mária		0	545,547,548,549,552,553,946,947,948,949,997,998
+2769	Mikušík František		0	1101
+2769	Mikušíková Terézia		0	1293,1294
+2769	Mišúr František		0	1111
+2769	Mišúr Jarolím		0	1111
+2769	Mišúr Karol	zom.24.12.1991	0	1070
+2769	Mišúr Ondrej		0	913
+2769	Mišúr Peter		0	1134,1135,1136,1137,1721
+2769	Mišurová Anna	maloletá	0	514,520,969,971,972,973,976,979,980,981,982,983,1068,1069,1121,1253,1254,1255,1256,1262,1293,1294,1692,1695
+2769	Mišúrová Anna	maloletá, Stupné	0	174
+2769	Mišúrová Katarína		0	174,514,520,598,968,969,971,972,973,974,975,976,979,980,981,982,983,1068,1069,1121,1253,1254,1255,1256,1262,1293,1294,1421,1531,1692,1695,1727
+2769	Mišúrová Katarína r. Šterdasová		0	1114,1116

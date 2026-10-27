@@ -1,0 +1,256 @@
+907	Olejár Ján	st.,LSR	0	11
+907	Olejár Ján	starší, LSR	0	11
+907	Olejár Jozef		1	69,112,113,135,230,232,233,234,288,309,313
+907	Olejár Jozef	LSR	0	11,160,165,169
+907	Olejár Michal		1	144
+907	Olejár Mikuláš		1	65,69,144,230,233,288,307,309,313,315,321
+907	Olejár Mikuláš	LSR	0	11,160,165,169
+907	Olejár Štefan	maloletý	0	66,314,320
+907	Olejár Štefan	manželka Anna r. Maníková 1, LSR	0	11
+907	Olejár Štefan	manželka Anna rod. Maníková 1, LSR	0	169
+907	Olejár Štefan	manželka Anna rod. Maníková, 1, LSR	0	160,165
+907	Olejár Štefan	manželka Anna rod. Maníková,1, LSR	0	160
+907	Olejárová Anna	Maníková manž. Štefan	1	238,332
+907	Olejárová Anna	Maníková manžel Štefan, LSR	0	165,169
+907	Olejárová Anna	Maníková, manžel Štefan, LSR	0	160
+907	Olejárová Anna	Sabolová, LSR	0	11,160,165,169
+907	Olejárová Anna r. Maníková	manžel Štefan, LSR	0	11
+907	Olejárová Anna r. Sabolová		1	274,275,328
+907	Olejárová Apolónia r. Sabolová		1	65,66,69,230,288,307,313,314,315,320,321
+907	Olejárová Apolónia r. Sabolová	Sabolová	1	233,309
+907	Olejárová Helena	maloletá	0	66,314,320
+907	Olejárová Mária r. Huszárová	manžel Adam, LSR	0	11,160,165,169
+907	Olejárová Mária r. Lukács Manýková	manžel Michal, LSR	0	11,160,169
+907	Olejárová Mária r. Lukács-Manýková	manžel Michal, LSR	0	165
+907	Olejárová Mária r. Puszdayová	LSR	0	11,160,165,169
+907	Olejárová Zuzana r. Kyselyová		1	222,266,280,301,302
+907	Palenčár Andrej		1	148,150,152
+907	Palenčár Andrej	LSR	0	15,140,265
+907	PALŠA Ján		1	101,164,226,232,234,248,255
+907	Pálša Ján	LSR	0	11,160,165,169
+907	PALŠA Jozef		1	101,126,127,128,164,226,232,234,236,242,248,255
+907	Pálša Jozef	LSR	0	11,160,165,169
+907	Palšová Alžbeta r. Lazoriková	LSR	0	11,160,165,169
+907	Palšová Mária		1	234,236,248,255,256
+907	Pažin Ján	st	1	214,251
+907	Pažin Jozef r. Pažin, Spojencov 368, Košťany u Teplic, PSČ 41723, ČR		0	160
+907	Pažin Jozef, Spojencov 368, Košťany u Teplic, ČR		0	169
+907	Pažin Jozef, Spojencov 368, Košťany u Teplic, PSČ 417 23, ČR		0	222
+907	Pažin Jozef, Spojencov 368, Košťany u Teplic, PSČ 41723, ČR		0	165,280,301,302
+907	Pažin Juraj	LSR	0	11,160,165,169
+907	Pažin Martin r. Pažin, Spojencov 368, Košťany u Teplic, ČR		0	160
+907	Pažin Martin, Spojencov 368, Košťany u Teplic, PSČ 417 23, ČR		0	222
+907	Pažin Martin, Spojencov 368, Košťany u Teplic, PSČ 41723, ČR		0	165,169,280,301,302
+907	Pažinová Alena, Spojencov 368, Košťany u Teplic, ČR		0	160
+907	Pažinová Alena, Spojencov 368, Košťany u Teplic, PSČ 417 23, ČR		0	169
+907	Pažinová Alena, Spojencov 368, Košťany u Teplic, PSČ 41723, ČR		0	165,222,280,301,302
+907	Pažinová Anna r. Husárová		1	233,309
+907	Pažinová Anna r. Olejárová		1	69,230,233,288,309,313
+907	Pažinová Anna r. Olejárová	LSR	0	11,160,165,169
+907	Pažinová Zuzana	LSR	0	11,160,165,169
+907	Petrigáč Ján		1	227
+907	Petrigáč Ján	LSR	0	11,160,165,169
+907	Petrigáč Juraj		1	215
+907	Petrigáč Juraj	LSR	0	11,160,165,169
+907	Petrov Ján		1	152
+907	Petrov Juraj	LSR	0	11,160,165
+907	Petrov Peter	LSR	0	11,160,165,169
+907	Petrov Štefan	LSR	0	150
+907	Petrová Anna r. Martinková	manžel Ján, LSR	0	11,160,165,169
+907	Petrová Zuzana r. Pribulová	manžel Peter, LSR	0	11,160,165,169
+907	Pribula Andrej	LSR	0	11,160,165,169
+907	Pribulová Mária		1	147,149,151,157,163,170,171,172,173
+907	Pribulová Mária	LSR	0	11,160,165,169
+907	Prokopková Anna	LSR	0	11,160,165,169
+907	PROKOPKOVÁ Anna		1	101,126,127,128,164,226,232,234,236,242,248,255,256
+907	Prokopková Mária r. Palšová	manž. Anton	1	236
+907	Prokopková Mária r. Palšová	manžel Anton, LSR	0	11,160,165,169
+907	Sabol Ján		1	148,150,152,204,220,311,318
+907	Sabol Ján	LSR	0	11,15,140,160,165,169,265
+907	Sabol Ján	st., LSR	0	11,160,165,169
+907	Sabol Ján	st.,LSR	0	11,160,169
+907	Sabol Ján	starší, LSR	0	11
+907	Sabol Jozef		1	148,150,152,220,311,318
+907	Sabol Jozef	LSR	0	11,15,140,160,165,169,265
+907	Sabol Juraj		1	9,153,176,204,220,228,231,259,273,274,275,308,310,311,316,317,318,327,328
+907	Sabol Juraj	LSR	0	11,160,165,169
+907	Sabol Štefan	st	1	106
+907	Sabol Štefan, Hradisko pri Terni, č. 9, PSČ 082 67, SR	Terňa	0	160
+907	Sabolová Anna		0	66,314,320
+907	Sagajdáčová Helena r. Hermanová		1	227
+907	Sagajdáčová Helena r. Hermanová	LSR	0	11,160,165,169
+907	Semaníková Anna r. Sabolová		1	148,150,152
+907	Semaníková Anna r. Sabolová	LSR	0	11,15,140,160,165,169,265
+907	Schvarcz Viliam		1	20,224,253,324
+907	Schvarcz Viliam	LSR	0	11,160,165,169
+907	Sidora Andrej		1	228,231,273,308,310,316,317
+907	Sidora Andrej	LSR	0	11,160,165,169
+907	Sidora Ján		1	228,231,273,308,310,316,317
+907	Sidora Ján	LSR	0	11,160,165,169
+907	Sinková Katarína r. Hajduková	manžel Ignác	1	200
+907	Sinková Katarína r. Hajduková	manžel Ignác, LSR	0	11,160,165,169
+907	Szabol Ján	ml., LSR	0	11,160,165,169
+907	Szambronská Anna	LSR	0	11,160,165,169
+907	Szidor Ján	LSR	0	11,160,165,169
+907	Szidor Michal	LSR	0	11,160,165,169
+907	Szidor Mikuláš	LSR	0	11,160,165,169
+907	Szidorová Mária	LSR	0	11,160,165,169
+907	Šambronská Mária r. Maníková	manž. Ján	1	235
+907	Šambronská Mária r. Maníková	manž.Ján	0	17
+907	Šambronský Ján	manž. Mária r.Maníková	1	235
+907	Šambronský Michal		1	224
+907	Šambronský Michal	LSR	0	11,160,165,169
+907	Šinková Katarína r. Hajduková		1	205
+907	Tokár Andrej		1	198
+907	Tokár Derňár Ján		1	216,223,331
+907	Tokár Ján		1	134,175,176,177,213,300
+907	Tokár Ján	LSR	0	11,160,165,169,247
+907	Tokarová Anna		1	213
+907	Tokarová Anna	LSR	0	247
+907	Tokárová Anna	Olejárová, LSR	0	169
+907	Tokárová Helena	mal., LSR	0	11,160,165,169
+907	Tokárová Helena	mal.,LSR	0	160
+907	Tokárová Mária	LSR	0	169
+907	Trojanovics Andrej	LSR	0	11,160,165,169
+907	Trojanovics Ján	LSR	0	11,160,165,169
+907	Trojanovics Matej	LSR	0	11,160,165,169
+907	Trojanovicsová Katarína r. Koscsová	manž. Andrej, LSR	0	165,169
+907	Trojanovicsová Katarína r. Koscsová	manž.Andrej	1	200
+907	Trojanovicsová Katarína r. Koscsová	manžel Andrej, LSR	0	11,160
+907	Trojanovičová Mária r. Pribulová	manž. Ján, LSR	0	165,169
+907	Trojanovičová Mária r. Pribulová	manžel Ján, LSR	0	11,160,165
+907	Uhlár Ján		0	66,314,320
+907	Uličná Alžbeta r. Pažinová	LSR	0	11,160,165,169
+907	Uličná Helena	LSR	0	11,160,165,169
+907	Uličná Helena r. Kmecová	LSR	0	11,160,165,169
+907	Uličná Verona r. Petrová		0	17
+907	Uličný Andrej	LSR	0	140,265
+907	Uličný Ján		1	243,258
+907	Uličný Jozef		1	106,222,266,280,301,302
+907	Uličný Jozef	LSR	0	11,160,165,169
+907	Uličný Juraj	LSR	0	11,160,165,169
+907	Vašková Anna r. Juričová		1	145,213,283
+907	Vašková Anna r. Juričová	LSR	0	11,160,165,169,247
+907	Vojteková Anna r. Marczinová		1	208
+907	Zambory Štefan		1	244
+908	ADAMICOVÁ Anna	r.Tylešová	1	1326
+908	Adamicová Anna r. Týlešová		0	2128,2239,2919
+908	Azbestocementové závody n.p. Nitra, I., Nitra, Slovenská republika I., Nitra, Slovenská republika, Zaniknutá právnicka osoba bez právneho nástupcu		0	2633
+908	AZBESTOCEMENTOVÉ Závody, SR	n.p. Nitra,so sídlom v Nitre	1	1027
+908	Bartoneková Františka r. Bartoneková		0	2446
+908	Bartoneková Magdaléna r. Bartoneková		0	2550
+908	BEGÁŇ Štefan	ž.Helena r.Kurilová	1	1845
+908	BEŇAČKA Pavol	ž.Anna r.Ištván	1	1472
+908	Beňačková Mária r. Kňazeová		0	2495
+908	BEZDEK Karol	ž.Anna r.Kurilová	1	1363
+908	Bezdek Karol r. Bezdek, ž.Anna r.Kurilová ž.Anna r.Kurilová		0	2536
+908	BEZDEK Karol, SR	ž.Anna r.Kurilová	1	50,625,628,936
+908	BEZDEKOVÁ Katarína	r.Šiariková m.Anton	1	1745,1820
+908	Bezdeková Katarína r. Bartoneková, m.Jozef m.Jozef		0	2251
+908	Bezdeková Katarína r. Šiariková, m.Anton m.Anton		0	2678
+908	Bittarová Paulína r. Števíková		0	2762
+908	BITTAROVÁ Paulína r. Števíková, SR		1	719
+908	BLAŠKO Rudolf		1	1219
+908	Blaško Rudolf r. Blaško		0	2429
+908	Blaško Viktor r. Blaško		0	2333,2957
+908	BLAŠKO Viktor, SR		1	782
+908	Blašková Anna r. Pinková		0	2697,2957
+908	BRATKOVIČOVÁ Mária	r.Krajčovičová m.Július	1	1263,1267
+908	Bratkovičová Mária r. Krajčovičová, m.Július m.Július		0	2942,2955
+908	Cagáň Ignác r. Cagáň		0	2511
+908	CAGÁŇ Ignác, SR		1	920
+908	Cagáň Pavol r. Cagáň		0	2146
+908	CAGÁŇ Pavol, SR		1	622
+908	CAGÁŇOVÁ Helena, SR	brat Pavol	1	622,799
+908	Cibrín Jozef r. Cibrín, ž.Katarína r.Senášová ž.Katarína r.Senášová		0	2578,2955
+908	CVEŠPER František		1	1315,1553
+908	Cvešper František r. Cvešper		0	2313
+908	CVEŠPER František, SR		1	1040,3035
+908	CVEŠPER Jozef	súr.Vincent,Michal,Valent,František,Anna	1	1315
+908	Cvešper Jozef r. Cvešper, súr.Vincent,Michal,Valent,František,Anna súr.Vincent,Michal,Valent,František,Anna		0	2416
+908	Cvešper Jozef r. Cvešper, ž.Terézia r.Peniažková ž.Terézia r.Peniažková		0	2140
+908	CVEŠPER Jozef, SR	súr.Vincent,Michal,Valent,František,Anna	1	1040,3035
+908	CVEŠPER Michal		1	1083
+908	CVEŠPER Michal	1	1	1500
+908	CVEŠPER Michal	Palmerin,St.Warwick,Austrália,27.9.1931	1	709,1390,1421,1422
+908	Cvešper Michal r. Cvešper		0	2137,2840,2899
+908	CVEŠPER Michal, SR		1	1610
+908	CVEŠPER Štefan	ž.Mária r.Pešková	1	1390
+908	Cvešper Štefan r. Cvešper, na podiel Vincenta Cvešpera na podiel Vincenta Cvešpera		0	2911
+908	Cvešper Štefan r. Cvešper, ž.Mária r.Pešková ž.Mária r.Pešková		0	2299
+908	CVEŠPER Valent		1	1083
+908	Cvešper Valent r. Cvešper		0	2137,2899
+908	CVEŠPER Valent, SR		1	1610
+908	CVEŠPER Vincent	ž.Mária r.Bezdeková, , zomrel 16.03.1953	0	625
+908	Cvešperová Mária r. Kňazeová, m.Valent m.Valent		0	2244
+908	CVEŠPEROVÁ Paulína	r.Šiariková m.František	1	1761,1820
+908	Cvešperová Paulína r. Šiariková, m.František m.František		0	2211
+908	CVOPOVÁ Paulína r. Stískalová	m. Ján	1	1083
+908	Cvopová Paulína r. Stískalová, m.Ján m.Ján		0	2137,2899
+908	CVOPOVÁ Paulína r. Stískalová, SR	m. Ján	1	1610
+908	Daniška Michal r. Daniška		0	2700,2879
+908	DANIŠKA Michal, SR		1	719
+908	DAVIDOVÁ Magdaléna	r.Šiariková m.Michal	1	1820
+908	Davidová Magdaléna r. Šiariková, m.Michal m.Michal		0	2176
+908	DOLNÁ Helena	r.Horňáková	1	1747
+908	Dolná Helena r. Havaldová, m.Ignác m.Ignác		0	2702
+908	Dolná Helena r. Horňáková		0	2358
+908	DOLNÝ Štefan, HRADIŠTE, SR	kupoval s Ignácom a manž. a Jozefom Dolným	1	1610
+908	Drábik Ján r. Drábik, maloletý maloletý		0	2149
+908	Drábik Jozef r. Drábik, Hradište, 53 Hradište, 53		0	2149
+908	DRNDZÍKOVÁ Anna	r.Dufeková m.Gábor	1	1338
+908	Drndzíková Anna r. Dufeková, m.Gábor m.Gábor		0	2690
+908	DRNDZÍKOVÁ Magdaléna	r.Struhárová 1	1	1406
+908	Drndzíková Magdaléna r. Struhárová		0	2953
+908	DRNDZÍKOVÁ Magdaléna r. Struhárová, SR		1	838
+908	DRNDZÍKOVÁ Paulína r. Fodorová		1	1083,2137,2899
+908	DRNDZÍKOVÁ Paulína r. Fodorová, SR		1	1610
+908	Dubinová Anna r. Dvončová		0	2141,2155
+908	Dubravická Anna r. Kňazeová, nezvestná nezvestná		0	2908
+908	DUFEK Jozef		1	1338,1556
+908	Dufek Jozef r. Dufek		0	2711
+908	DUFEKOVÁ Terézia	r.Cibrinová	1	1338
+908	DUFEKOVÁ Terézia r. Cibrinová		1	1083,2137,2510,2899,2955
+908	DUFEKOVÁ Terézia r. Cibrínová, SR		1	1610
+908	Dukeová Františka r. Bartoneková, m.František m.František		0	2828
+908	Ďurech Ignác r. Ďurech, ž.Mária r.Šuhajdová ž.Mária r.Šuhajdová		0	2945,2958
+908	Ďurech Ján r. Ďurech, ž.Anna r.Fodorová ž.Anna r.Fodorová		0	2195
+908	Ďurechová Anna r. Fodorová, m.Ján m.Ján		0	2195
+908	ĎURICA Ivan, M.R.Štefánika 287/99, Dolné Vestenice, SR		0	762
+908	ĎURINA Štefan	ž.Paulína r.Kňazeová	1	1800
+908	ĎURINOVÁ Paulína	r.Kňazeová m.Štefan	1	1799,3018
+908	Ďurinová Paulína r. Kňazeová, m.Štefan m.Štefan		0	2718
+908	ĎURIŠ Rudolf	ž.Anna r.Fodorová	1	1804
+908	Ďurišová Anna r. Griačová, Anastázia, m.Štefan Anastázia, m.Štefan		0	2155
+908	Ďurišová Anna r. Griačová, m.Pavel m.Pavel		0	2155
+908	Ďurišová Mária r. Šudíková, m.Ľudovít, Hradište, 144 m.Ľudovít, Hradište, 144		0	2296
+908	ĎURIŠOVÁ Paulína r. Knazeová		1	1083
+908	Ďurišová Paulína r. Kňazeová, m.Štefan m.Štefan		0	2137,2899
+908	ĎURIŠOVÁ Paulína r. Knazeová, SR	m. Štefan	1	1610
+908	Dvonč Ján r. Dvonč		0	2797
+908	DVONČ Ján, SR		1	613,922
+908	Farská Jolana r. Farská, Nitra, Rybárska 2298 Nitra, Rybárska 2298		0	2911
+908	Fodora Ján r. Fodora, ž.Margita r.Sopáňová ž.Margita r.Sopáňová		0	2174
+908	FODORA Jozef	ž.Anna r.Habalová	1	1831
+908	FODORA Jozef	ž.Mária r.Jaďuďová	1	1130,1747
+908	Fodora Jozef r. Fodora, mladší mladší		0	2868
+908	Fodora Jozef r. Fodora, ž.Anna r.Habalová ž.Anna r.Habalová		0	2710
+908	Fodora Jozef r. Fodora, ž.Mária r.Jaďuďová ž.Mária r.Jaďuďová		0	2781
+908	Fodora Jozef r. Fodora, ž.Mária r.Zuzulová ž.Mária r.Zuzulová		0	2453
+908	FODORA Ľudovít	Hradište č.71	1	1250
+908	FODORA Ľudovít	syn Michala	1	1601
+908	FODORA Michal		1	1083
+908	FODORA Michal	ž.Magdaléna r.Mekyšová	1	1130,1747
+908	Fodora Michal r. Fodora, ž.Anna r.Poliaková, Hradište, 46 ž.Anna r.Poliaková, Hradište, 46		0	2110,2682
+908	Fodora Michal r. Fodora, ž.Magdaléna r.Habalová ž.Magdaléna r.Habalová		0	2137,2899
+908	Fodora Michal r. Fodora, ž.Magdaléna r.Mekyšová ž.Magdaléna r.Mekyšová		0	2248
+908	FODORA Michal, SR	ž. Magdaléna r. Habalová	1	1610
+908	Fodora Ondrej r. Fodora		0	2155
+908	FODORA Pavol	podiel po Ľudovítovi Fodorovi	1	1421
+908	Fodora Pavol r. Fodora, maloletý maloletý		0	2163
+908	Fodora Pavol r. Fodora, ž.Magdaléna r.Bánovská, Hradište, 46 ž.Magdaléna r.Bánovská, Hradište, 46		0	2620
+908	Fodora Pavol r. Fodora, ž.Mária r.Podkamenská ž.Mária r.Podkamenská		0	2266
+908	FODORA Peter	ž.Anna r.Mekišová	1	1190,1505,2104
+908	Fodora Peter r. Fodora, ž.Anna r.Mekišová ž.Anna r.Mekišová		0	2568
+908	FODORA Peter, SR	ž.Anna r.Mekišová	1	751,752
+908	Fodora Rudolf r. Fodora, ž.Pavlína r.Bednáriková ž.Pavlína r.Bednáriková		0	2363

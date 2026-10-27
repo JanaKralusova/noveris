@@ -1,0 +1,256 @@
+409	SZÖLLÖS Jozef	mlš	0	2336,2353,2390,2454,2482,2484,2493,2501,2526,2527,2528,2531,2532,2533,2534,2574,2575
+409	Szőllős Jozef		0	51,53,54,83,96,105,276,364,382,437,514,592,604,2218,2219,2232,2245,2252,2299,2300,2319,2482,2483,2530,2531,2599
+409	Szöllös Jozef r. Szöllös		0	2422
+409	Szöllös Jozef r. Szöllös	8; 8	0	2430
+409	Szőllős Júlia		0	615
+409	Szőllős Karol		0	583,2011,2264
+409	Szöllös Ladislav	manž. Alžbeta r. Ondrejová	0	2336,2353,2389,2390,2482,2483,2484,2526,2527,2528,2530,2531,2532,2533,2534,2574,2575,2599
+409	Szőllős Ladislav		0	53,73,83,84,88,89,90,91,92,95,96,99,276,413,469,480,2331,2336,2353,2389,2390,2461,2482,2483,2484,2526,2527,2528,2530,2531,2532,2533,2534,2574,2575,2599
+409	Szőllős Martin		0	53,89,96,106,394,518,574,576,579,585,586,587,589,2331
+409	Szőllős Martin	2; 2	0	206
+409	Szöllös Michal	1; 1	0	2336
+409	Szöllös Michal	z Čučmy, manž. Mária r. Ilona	0	2475
+409	SZÖLLÖS Michal	1	0	2353,2389,2484,2526,2527,2528,2532,2533,2534,2574,2575
+409	Szőllős Michal		0	364,397,476,2245,2254,2482,2483,2530,2531,2599
+409	Szöllös Ondrej	nar. 4.7.1945 - zomr. 1.1.1995, v.z.2/97	0	2389
+409	Szöllös Ondrej	nar.4.7.1945 - zomr. 1.1. 1995, v.z. 2/97	0	2390
+409	SZÖLLÖS Ondrej	1	0	2461
+409	Szőllős Ondrej		0	84,89,106,109,110,585,586,587,589,2331,2336,2353,2456,2482,2483,2484,2520,2526,2527,2528,2530,2531,2532,2533,2534,2574,2575,2599
+409	Szőllős Pál		0	377
+409	SZÖLLÖS Paul		0	2336,2353,2389,2390,2437,2482,2483,2484,2526,2527,2528,2530,2531,2532,2533,2534,2574,2575,2599
+409	Szőllős Pavel		0	465
+409	SZÖLLÖS Pavol	ml., manž. Júlia r. Tobiszová	0	2353,2389,2390,2451,2470,2471,2475,2480,2482,2483,2484,2497,2507,2508,2526,2527,2528,2530,2531,2532,2533,2534,2573,2574,2575,2599
+409	Szőllős Pavol	ml., manž. Júlia r. Tobiszová; ml., manž. Júlia r. Tobiszová	0	2158,2336,2470
+409	Szöllös Štefan	nar. 1.8.1944 - zomr. 20.7.2003	0	2389,2390
+409	Szöllös Štefan	nar.1.8.1944 - zomr. 20.7.2003	0	2390
+409	Szőllős Štefan		0	61,62,83,476,2336,2353,2482,2483,2484,2526,2527,2528,2530,2531,2532,2533,2534,2574,2575,2599
+409	Szöllös Tibor	1; 1	0	2336
+409	Szöllös Tibor	nar. 3.11.1953 - zomr.15.9.2001	0	2389
+409	Szöllös Tibor	nar.3.11.1953 - zomr. 15.9.2001	0	2390
+409	SZÖLLÖS Tibor		0	2483,2530,2599
+409	SZÖLLÖS Tibor	1	0	2353,2482,2484,2526,2527,2528,2531,2532,2533,2534,2574,2575
+409	SZÖLLÖSOVÁ Barbora		0	2336,2353,2389,2390,2437,2482,2483,2484,2526,2527,2528,2530,2531,2532,2533,2534,2574,2575,2599
+409	Szőllősová Gabriela		0	591
+409	Szöllösová Jozef	mal	0	2390
+409	Szőllősová Julia		0	52
+409	Szőllősová Júlia	r. Tobisová, manž. Pavol; r. Tobisová, manž. Pavol	0	2158
+409	Szőllősová Júlia r. Tobisová	manž. Pavol	0	498,2336,2353,2389,2390
+409	Szőllősová Júlia r. Tóbisová		0	521,1051
+409	Szőllősová Júlia r. Tóbiszová		0	608
+409	Szöllösová Juliana	mal.; mal	0	2336
+409	SZÖLLÖSOVÁ Juliana	mal	0	2353,2389,2390,2437,2482,2483,2484,2526,2527,2528,2530,2531,2532,2533,2534,2574,2575,2599
+409	Szőllősová Juliana		0	56,364,418,523,1051,2300,2483,2524
+409	Szőllősová Juliana r. Kálmánová		0	612
+409	Szőllősová Juliana r. Tóbisová		0	523,1051
+409	Szöllösová Julianna	r. Kalmanová, manž. Michal; r. Kalmanová, manž. Michal	0	2336
+409	SZÖLLÖSOVÁ Julianna	r. Kalmanová, manž. Michal	0	2353,2482,2483,2484,2526,2527,2528,2530,2531,2532,2533,2534,2574,2575,2599
+409	Szőllősová Julianna		0	53,54,505,521,608,2336,2353,2389,2390,2482,2483,2484,2526,2527,2528,2530,2531,2532,2533,2534,2574,2575,2599
+409	Szöllösová Julianna r. Kalmanová	manž. Michal	0	2353,2389,2390,2502,2526,2531,2532,2575
+409	Szőllősová Julianna r. Kálmánová		0	2253
+409	Szőllősová Julianna r. Tóbisová		0	149,521,608
+409	Szőllősová Julianna r. Tóbiszová		0	377,555
+409	Szőllősová Julilanna r. Kálmánová		0	2253
+409	SZÖLLÖSOVÁ Margita	mal	0	2353,2389,2390,2451,2470,2471,2475,2480,2482,2483,2484,2497,2507,2508,2526,2527,2528,2531,2532,2533,2534,2573,2574,2575
+409	Szőllősová Margita		0	475,2254,2331,2483,2530,2531,2599
+409	Szőllősová Margita	mal.; mal	0	2158,2336,2470
+409	Szöllösová Mária	1; 1	0	2336
+409	Szöllösová Mária	r. Ondrejová; r. Ondrejová	0	2336
+409	SZÖLLÖSOVÁ Mária	1	0	2353,2389,2390,2482,2484,2526,2527,2528,2530,2531,2532,2533,2534,2574,2575,2599
+409	SZÖLLÖSOVÁ Mária	r. Kalmanová, manž. Jozef	0	2353,2482,2483,2484,2526,2528,2530,2531,2532,2533,2534,2574,2575,2599
+409	SZÖLLÖSOVÁ Mária	r. Ondrejová	0	2353,2482,2483,2484,2526,2527,2530,2531,2532,2533,2534,2574,2575,2599
+409	Szőllosová Mária		0	2300,2319,2331,2336,2353,2389,2390,2437,2482,2483,2484,2526,2527,2528,2530,2531,2532,2533,2534,2574,2575,2599
+409	Szőllősová Mária r. Hroneczová		0	2264
+409	SZÖLLÖSOVÁ Mária r. Ilona		0	2599
+409	Szöllösová Mária r. Kalmanová	manž. Jozef	0	2336,2389,2390,2526,2527,2528,2575
+409	Szőllősová Mária r. Kálmánová		0	476,510,589,1953,1954,1955,1958,2592
+409	Szőllősová Mária r. Kámánová		0	1958,2592
+409	Szőllősová Mária r. Ondrejová		0	264,363,374,384,467,499,2389,2390,2528
+409	Szőllősová Marta		0	579
+409	Szöllösová Michal	1	0	2390
+409	Szöllösová Rozália	r. Némethová, manž. Štefan; r. Némethová, manž. Štefan	0	2336
+409	SZÖLLÖSOVÁ Rozália	r. Hačková	0	2482,2484,2526,2527,2528,2531,2532,2533,2534,2574,2575
+409	SZÖLLÖSOVÁ Rozália	r. Némethová, manž. Štefan	0	2336,2353,2482,2483,2484,2526,2527,2528,2530,2531,2532,2533,2534,2574,2575,2599
+409	Szőllősová Rozália		0	108,2306,2331
+409	Szőllősová Rozália r. Hacsková		0	1051
+409	SZÖLLÖSOVÁ Rozália r. Hačková		0	2336,2353,2389,2390,2483,2530,2599
+409	Szőllősová Rozália r. Németh		0	12,103
+409	Szöllösová Rozália r. Némethová	manž. Štefan	0	2353,2389,2390,2461,2482,2483,2500,2526,2527,2531,2532,2534,2575
+409	Szőllősová Rozália r. Némethová		0	53,82,83,84,85,88,89,90,91,92,93,94,95,96,97,98,99,100,101,102,104,105,106,107,109,110,111,2218,2331,2333
+409	Szőllősová Zuzana r. Domiková		0	2036
+409	Szőllősová Zuzana r. Szöllösová	manž. Ján	0	413
+409	Szőllősová Zuzana r. Szöllösová	manž. Martin	0	206
+409	Szőllősová Zuzana r. Szőllősová		0	106,394,518,574,576,579,585,586,587,589,612
+409	Szőllőš Pavol		0	462,475,555,559,575
+409	Szőlős Gejza		0	2331
+409	Szölös Karol		0	2389
+409	Szőlős Martin		0	612
+409	Szőlős Ondrej		0	2331
+409	SZÖLÖSOVÁ Júlia	r. Tobisová, manž. Pavol	0	2482,2483,2484,2526,2527,2528,2530,2531,2532,2533,2534,2574,2575,2599
+409	Szölösová Juliana		0	2482
+409	SZÖLÖSOVÁ Mária	r. Ondrejová	0	2395
+409	Szőlősová Rozália r. Némethová		0	2334
+409	Szudelová Mária		0	598
+409	Šuták František		0	396,405,415,487,521,522,571,599,2003,2024,2244,2249,2263,2336,2353,2389,2390,2482,2483,2484,2526,2527,2528,2530,2531,2532,2533,2534,2574,2575,2599
+409	Šuták Ján		0	396,405,415,487,521,522,571,599,2003,2024,2244,2249,2263,2482,2483,2530,2531,2599
+409	Šuták Ján	mal	0	2336,2353,2389,2390,2482,2483,2484,2526,2527,2528,2530,2531,2532,2533,2534,2574,2575,2599
+409	Šuták Ján	mal.; mal	0	2336,2389
+409	Šutáková Mária		0	396,405,415,487,521,522,571,599,2003,2024,2244,2249,2263
+409	Švardi Ján, Ing.		0	2411
+409	Tóbis Juraj		0	754
+409	Tobisová Alžbeta r. Domiková		0	2547
+409	TOBISOVÁ Juliana	r. Sekelyová, manž. Ján	0	2353,2419,2483,2484,2526,2527,2528,2530,2532,2574,2575,2599
+409	Tóbisová Juliana r. Ondrejová		0	1051
+409	Tóbisová Juliana r. Sékeľová		0	2302
+409	Tobisová Juliana r. Sekelyová	manž. Ján	0	2336,2353,2389,2390,2482,2484,2531,2533,2534,2574
+409	Tóbisová Juliana r. Székely		0	2302
+409	Tóbisová Julianna r. Sékeľová		0	451,561,606
+409	Tóbisová Julianna r. Sékelyová		0	2236
+409	Tóbisz Michal		0	407,608
+409	Tóbiszová Juliana		0	575
+409	Tóbiszová Julianna		0	559
+409	Tobiszová Julianna r. Domiková	manž. Juraj	0	2336,2353,2389,2390,2482,2483,2484,2526,2527,2528,2530,2531,2532,2533,2534,2574,2575,2599
+409	Tóbiszová Mária		0	504
+409	Tomesz Andrej		0	2243
+409	Tomesz Ján		0	608,2243
+409	Tomesz Jozef		0	2243
+409	Tomeszová Mária		0	83,364,473,608,2243
+409	Tomeszová Zuzanna		0	473
+409	Tóthová - Szőllősová Rozália		0	402
+409	Tothová Erika, Ružová č. 10, Rožňava, PSČ 048 01, SR	r. Hatvanská; r. Hatvanská	0	2336
+409	Tóthová Szöllösová Zuzana r. Horváthová	manž. Jozef	0	2336,2353,2389,2390,2482,2483,2484,2501,2526,2527,2528,2530,2531,2532,2533,2534,2574,2575,2599
+409	Turek Roza	Kasarik; Kasarik	0	2389
+409	TUREK Roza	Kasarik	0	2336,2353,2390,2482,2483,2484,2526,2527,2528,2530,2531,2532,2533,2534,2574,2575,2599
+409	Ujháziová Juliana r. Kálmánová		0	508
+409	Ujháziová Julianna	r. Kálmanová, manž. Martin; r. Kálmanová, manž. Martin	0	2336
+409	UJHÁZIOVÁ Julianna	r. Kálmanová, manž. Martin	0	2353,2482,2483,2484,2526,2527,2528,2530,2534,2574,2575,2599
+409	Ujháziová Julianna r. Kálmanová	manž. Martin	0	2389,2390,2531,2532,2533
+409	Ujházyová Julianna r. Kálmánová		0	369,371,372,402
+409	ULICAJ Ján		0	2519
+409	ULICAJ Karol		0	2519
+409	Ulicajová Mária	r. Klimentová, vd.; r. Klimentová, vd	0	2521
+409	Ulicajová Mária r. Klimentová		0	383
+409	Ulicay Ján	mal	0	2336,2353,2389,2390,2482,2483,2484,2526,2527,2528,2531,2532,2533,2534,2574,2575
+409	ULICAY Ján		0	2530,2599
+409	Ulicay Ján r. Ulicay	mal.; mal	0	2436
+409	Ulicay Štefan	mal.; mal	0	2336
+409	ULICAY Štefan		0	2483
+409	ULICAY Štefan	mal	0	2353,2389,2390,2436,2482,2484,2526,2527,2528,2530,2531,2532,2533,2534,2574,2575,2599
+409	Ulicayová Hermína	mal	0	2336,2353,2389,2390,2436,2482,2484,2526,2527,2528,2531,2532,2533,2534,2574,2575
+409	ULICAYOVÁ Hermína		0	2483,2530,2599
+409	VANYOVÁ Margita		0	2530,2599
+409	VANYOVÁ Margita	r. Hačková, manž. Viktor	0	2353,2482,2483,2484,2526,2527,2528,2530,2531,2532,2533,2534,2574,2575,2599
+409	Vanyová Margita r. Hačková		0	385
+409	Vanyová Margita r. Hačková	manž. Viktor	0	2336,2353,2389,2390,2423,2483,2526,2527,2528,2530,2531,2532,2534,2575,2599
+409	Vládová Mária r. Zsudelová		0	598
+409	Vojtechovský Juraj		0	34
+409	Vojtechovský Štefan		0	34
+409	Vozár Martin		0	2303,2336,2353,2389,2390,2482,2483,2484,2526,2527,2528,2530,2531,2532,2533,2534,2574,2575,2599
+409	ZAJAČKOVÁ Anna		0	2518
+409	Zemanová Rozália		0	418
+409	Zemenová Julianna	r. Drenková, manž. Ján; r. Drenková, manž. Ján	0	2336
+409	ZEMENOVÁ Julianna	r. Drenková, manž. Ján	0	2353,2482,2483,2484,2527,2528,2530,2531,2532,2534,2574,2599
+409	Zemenová Julianna r. Drenková	manž. Ján	0	2389,2390,2526,2533,2575
+409	Zimmerman Ján, Michalovská 359/25, Košice 11, PSČ 040 11, SR	Ing.; Ing	0	2336,2467,2468
+410	....		1	476,477,735
+410	ABRAHAMOVIČ Jonáš	nezv.; LSR	0	659
+410	ABRAHAMOVIČOVÁ Frida	nezv.; LSR	0	659
+410	ABRAHAMOVIČOVÁ Mária	nezv.; LSR	0	659
+410	ADAMOVÁ Anna	r.Holovačová	1	386,529
+410	ADAMOVÁ Anna	r.Holovačová; LSR	0	239,770
+410	ANDREJČIKOVÁ Žofia	r.Nevolniková	1	443,444,529,624
+410	ANDREJČIKOVÁ Žofia	r.Nevolniková; LSR	0	442
+410	ANDRIJKOVÁ Anna	r.Hasič Petivová	1	504,520
+410	ANDRIJKOVÁ Anna	r.Hasič Petivová; LSR	0	505
+410	ANDRUCHOVÁ Anna	mal	1	386,460,461,544,545,657
+410	ANDRUCHOVÁ Anna	mal.; LSR	0	239,770
+410	ANDRUCHOVÁ Eva		1	386,460,461,544,545,657
+410	ANDRUCHOVÁ Eva	LSR	0	239,770
+410	ANTOCHOVÁ Mária	LSR	0	659
+410	BALANDA Vasiľ	neznámy; LSR	0	659
+410	BALAŽOVSKÁ Anna	Lipko	1	529
+410	BALINTOVÁ Helena	r.Čorňaková	1	460,544,545,549,657,663
+410	BANIKULIČ Juraj		1	674
+410	BANIKULIČ Juraj	LSR	0	659
+410	BARAN Ján	ž.Anastázia r.Timková	1	674
+410	BARAN Ján	ž.Anastázia r.Timková; LSR	0	659
+410	BARAN Juraj		1	674
+410	BARAN Juraj	LSR	0	659
+410	BARANEC Andrej		1	568
+410	BARANEC Ján		1	568
+410	BARANOVÁ Anna	r.Kresáčová; LSR	0	659
+410	BARANOVÁ Mária	mal	1	674
+410	BARANOVÁ Mária	mal.; LSR	0	659
+410	BARANOVÁ Olena	mal	1	674
+410	BARANOVÁ Olena	mal.; LSR	0	659
+410	BAVLOVČINOVÁ Mária	r.Cimová	1	232,321,322,386,399,457,458,530,536,538,560,572
+410	BAVLOVČINOVÁ Mária	r.Cimová; LSR	0	239,400,616,770
+410	BEGOVÁ Olena	r.Župová,Stokolosná,m.Ivan	1	683
+410	BEŇOVÁ Anna	r.Lattová,m.Mikuláš	1	679
+410	BILIK Ján		1	395
+410	BILIK Juraj		1	395,656
+410	BILIK Michal	mal	1	395
+410	BILIK Peter	mal	1	395
+410	BILIKOVÁ Anastázia		1	395
+410	BIĽO Andrej		1	603
+410	BIĽO Andrej	manž.Terézia r.Katana,zomr.7.9.1967	1	344
+410	BIĽO Andrej, SR	manž. Terézia r. Katanová, zomr. 7.9.1967; manž. Terézia r. Katanová, zomr. 7.9.1967	1	344,387,601
+410	BIĽO CHUDIK Andrej	manž.Anna,r.Morochovičová	1	386,492
+410	BIĽO CHUDIK Andrej	manž.Anna,r.Morochovičová; LSR	0	239,770
+410	BIĽO Ján		1	433,434
+410	BIĽO Juraj		1	138,139,585
+410	BIĽO Juraj	mal	1	732
+410	BIĽO Ladislav, SR	zom. 23.9.1979	1	433,434,484
+410	BIĽO Ladislav, SR	zom. 23.9.1979; zom. 23.9.1979	1	104
+410	BIĽO Ladislav, SR	zom.23.9.1979; zom.23.9.1979	1	732
+410	BIĽO Michal		1	132,321,322,420,422,424,426,745,747,748
+410	BIĽO Michal	LSR	0	421,423,425,746,749
+410	BIĽO Štefan		1	138,139,189,343,344,379,387,433,434,644,651,732
+410	BIĽO Vasil	manž.Olena r.Skripová	1	343
+410	BIĽO Vasil	syn Michala	1	343,344,732
+410	BIĽOVÁ Anna		1	249,500
+410	BIĽOVÁ Anna	LSR	0	501
+410	Biľová Paraska r. Huľová		1	167,386,554
+410	Biľová Paraska r. Huľová	LSR	0	239,770
+410	BLAŽOVSKÁ Mária		1	444,529,624
+410	BLAŽOVSKÁ Zuzana	r.Ferencová	1	53,247,386,610,612
+410	BLAŽOVSKÁ Zuzana	r.Ferencová; LSR	0	239,770
+410	BLAŽOVSKÝ Andrej		1	444,529,624
+410	BLAŽOVSKÝ Elek		1	444,529,624
+410	BLAŽOVSKÝ Ján		1	444,529,624
+410	BUČKO Michal	ž.Anna r.Pisová; LSR	0	659
+410	BUČKO Vasiľ	mld.; LSR	0	659
+410	BUČKOVÁ Zuzana	r.Lattová,m.Juraj	1	679
+410	BUJALA Juraj		1	676
+410	BUJALA Juraj	mal	1	676
+410	BUJALA Juraj	mal.; LSR	0	659
+410	BUNGA Peter	ž.Mária r.Volčoková; LSR	0	659
+410	BUNGOVÁ Mária	r.Volčoková,m.Peter; LSR	0	659
+410	BUŠOVÁ Mária	vzd.,r.Orlovská; LSR	0	659
+410	CIHROVÁ Anna	r.Chudik Biľová,zom.22.3.1990	1	386,395,397
+410	CIHROVÁ Anna	r.Chudik Biľová,zom.22.3.1990; LSR	0	239,770
+410	CILIP Andrej	maloletý	1	655
+410	CILIP Ján	maloletý	1	655
+410	CILIPOVÁ Mária	r.Kuriščaková	1	63,88,469,470,522
+410	CILIPOVÁ Terézia	mal	1	177,341,386,486,600
+410	CILIPOVÁ Terézia	mal.; LSR	0	239,770
+410	CIMA Fedor		1	560
+410	CIMA Fedor	LSR	0	616
+410	CIMA Juraj	syn Mikuláša	1	386
+410	CIMA Juraj	syn Mikuláša; LSR	0	239,770
+410	CIMA Michal	syn Juraja	1	386
+410	CIMA Michal	syn Juraja; LSR	0	239,770
+410	CIMA Michal	syn Ladislava	1	386,530
+410	CIMA Michal	syn Ladislava; LSR	0	239,770
+410	CIMA Ondrej		1	399,457,458,536,538,572
+410	CIMA Ondrej	LSR	0	400
+410	CIMA Ondrej	mal	1	232,321,399,422,424,426,457,458,530,536,538,572,747,748
+410	CIMA Ondrej	mal.; LSR	0	400,423,425,749
+410	CIMA Ondrej	syn Fedora	1	386
+410	CIMA Ondrej	syn Fedora; LSR	0	239,770
+410	CIMA Štefan	syn Mikuláša	1	386
+410	CIMA Štefan	syn Mikuláša; LSR	0	239,770
+410	CIMA Vasil		1	321,322,386,536,538,572
+410	CIMA Vasil	LSR	0	239,770
+410	CIMA Vasil	mal	1	132,232,321,322,399,420,422,424,426,457,458,530,536,538,572,745,747,748
+410	CIMA Vasil	mal.; LSR	0	400,421,423,425,746,749
+410	CIMA Vasil	syn Fedora	1	386

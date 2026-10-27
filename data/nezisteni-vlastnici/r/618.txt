@@ -1,0 +1,256 @@
+355	Záchenská Anna	r.Záchenská /Cicko/	1	632
+355	Záchenský Pavel		1	632
+355	Záchenský Pavel, Šiatorošská Bukovinka		1	632
+355	Zaťko Ján, Čeláre, č. 88, SR	Manž.Oľga, r. Húsenicová	0	450
+355	Zólyomi Štefan, Čeláre, č. 49, SR	Manž. Alžbeta, r. Ádámová	0	479
+355	Žembe Jozef, Zombor, č. 26, SR	Manž. Barbora, r. Klementová	0	845
+356	Čelko Alojz r. Borišin		0	884
+356	Čelko Alojz r. Čelko, Borišin Borišin		0	884
+356	Čelko Alojz r. Ferencech		0	706,881
+356	Čelko Alojz, Borišin Borišin		0	740,881
+356	Čelko Alojz, Ferencech Ferencech		0	706,707,712,778,876
+356	Čelko Anton, Čižmár Čižmár		0	707,881
+356	Čelko Florián, Čižmár Čižmár		0	774
+356	Čelko František r. Čelko, Ferencech 80000 Bratislava Ferencech 80000 Bratislava		0	706,876,881
+356	Čelko František, Ferencech 80000 Bratislava Ferencech 80000 Bratislava		0	706,707,712,747,876
+356	Čelko Imrich, Podhorec Podhorec		0	881
+356	Čelko Ivan r. Čelko, Podskalie 75 Podskalie 75		0	876
+356	Čelko Ivan, Podskalie 75 Podskalie 75		0	706,881
+356	Čelko Ján, Borišin Borišin		0	706,712,802,876,881
+356	Čelko Jozef, Čižmár Čižmár		0	707,881
+356	Čelko Jozef, Podhorec Podhorec		0	881
+356	Čelko Jozef, ž. Mária Sádecká ž. Mária Sádecká		0	706,881
+356	Čelko Karol, Borišin Borišin		0	707,712,763,821
+356	Čelko Karol, Podhorec Podhorec		0	706,881
+356	Čelko Ľudovít r. Čelko, Ferencech Ferencech		0	881
+356	Čelko Ľudovít, Ferencech Ferencech		0	881
+356	Čelko Michal, Magdech Magdech		0	884
+356	Čelko Michal, Podhorec Podhorec		0	706,881
+356	Čelko Pavol, Čižmár Čižmár		0	881,884
+356	Čelko Štefan		0	877
+356	Čelko Štefan, Ferencech Ferencech		0	706,712,849
+356	Čelko Vendel r. Čelko, Domaniža Domaniža		0	712
+356	Čelko Vendel, Domaniža Domaniža		0	706,707,712,857,876,884
+356	Čelková Agnesa		0	881
+356	Čelková Agnesa r. Borišinová		0	767
+356	Čelková Agnesa, Borišinová Borišinová		0	706,707,712,750,876,877
+356	Čelková Agnesa, Špániková Špániková		0	876
+356	Čelková Anna, Sádecká Uhrová Sádecká Uhrová		0	876
+356	Čelková Anna, Sádecká-Michále-m Ondrej Sádecká-Michále-m Ondrej		0	836
+356	Čelková Antónia r. Čelková-Ferencechová		0	877,881
+356	Čelková Františka, Iloninová Iloninová		0	706,712,724
+356	Čelková Gizela, Mikluščinová Mikluščinová		0	884
+356	Čelková Jozefína r. Čelko - Čižmárová, Borišincová, Čelkova Lehota 25 Borišincová, Čelkova Lehota 25		0	820,881
+356	Čelková Jozefína r. Čelko - Čižmárová, Borišinová, Čelkova Lehota 25 Borišinová, Čelkova Lehota 25		0	707,884
+356	Čelková Jozefína r. Čelko Čimárová, Borišinová, Čelkova Lehota 25 Borišinová, Čelkova Lehota 25		0	884
+356	Čelková Jozefína r. Čelko Čižmárová, Borišinová, Čelkova Lehota 25 Borišinová, Čelkova Lehota 25		0	706,707,712,794,876,881,884
+356	Čelková Jozefína r. Čelko-Čižmárová, Borišinová, Čelkova Lehota 25 Borišinová, Čelkova Lehota 25		0	712,726,876
+356	Čelková Jozefína r. Čelkov Čižmárová, Borišinová, Čelkova Lehota 25 Borišinová, Čelkova Lehota 25		0	766
+356	Čelková Katarína, Ferencechová Ferencechová		0	707,712,754,824
+356	Čelková Mária r. Čelko-Pristu-Ferencechová		0	706,712,838,876,881
+356	Čelková Mária r. Mikluščinová		0	881
+356	Čelková Mária r. Podhorcová		0	707,712,732,876,881
+356	Čelková Mária, Mikluščinová Mikluščinová		0	706,707,829
+356	Čelková Mária, Podhorcová Podhorcová		0	706,788,876
+356	Čelková Štefánia r. Borišinová		0	707,805,876,881
+356	Čelková Štefánia r. Svoradová-Mikluščinová		0	884
+356	Čelková Štefánia, Borišinová Borišinová		0	706,707,786,876,877
+356	Čelková Štefánia, Čižmárová Čižmárová		0	706,881
+356	Čelková Verona r. Perničková		0	712,877,884
+356	Čelková Žofia, Magdechová Magdechová		0	884
+356	Čelková Žofia, Podhorcová Podhorcová		0	706,881
+356	Čižmár Štefan, Horný Horný		0	712,859,876,877
+356	Čižmárová Mária r. Čelková Borišinová		0	881
+356	Jurenková Mária r. Čelková-Podhorcová		0	706,707,765,876
+356	Kardoš Štefan		0	881
+356	Kardošová Alžbeta r. Čelková		0	706,707,860,876
+356	Kardošová Mária r. Sádecká, Mich Turčanová Mich Turčanová		0	876,877
+356	Kremeník Jozef		0	769,877
+356	Michálková Štefánia r. Imrišíková, Sádočné 39 Sádočné 39		0	712,876,877
+356	Ondráska Anna r. Čelková-Ferencechová		0	707,712,744
+356	Pohanková Anna r. Čelková - Ferencechová		0	725
+356	Pohanková Anna r. Čelková Ferencechová		0	707,712,787,876
+356	Pohanková Anna r. Čelková-Ferencechová		0	706,876,881
+356	Pohanková Anna r. Čelková-Ferencová		0	712,881
+356	Pohanková Anna, Čelková-Ferencechová Čelková-Ferencechová		0	881
+356	Poriez Nathan		0	706,707,712,743,881
+356	Rezanina Miroslav		0	845
+356	Sádecká Anna, Michálková Michálková		0	712,876,877
+356	Sádecká Margita, Michálková Michálková		0	712,876,877
+356	Sádecká Mária r. Čelková, Domaniža 68 Domaniža 68		0	877
+356	Sádecká Mária, Michálková Michálková		0	876,877
+356	Sádecký Anton, Michálek Michálek		0	712,876,877
+356	Sádecký Daniel, Urík Urík		0	712,877
+356	Sádecký František, Urík Urík		0	712,877
+356	Sádecký Štefan, Michálek Michálek		0	712,869,876
+356	Sádecký Valentín, Michálek Michálek		0	712,876,877
+356	Svitková Mária r. Čelková - Magdechová		0	707,712,868
+356	Svitková Mária r. Čelková Magdechová		0	884
+356	Svitková Mária r. Čelková-Magdechová		0	706,707,712,785,863,876,881
+356	Špániková Mária		0	706,707,712,734,876,881
+357	Adamičová Mária	r.Lazčková /NV-/	1	490
+357	Adamík Pavel		0	424,730
+357	Adamíková Mária r. Bálintová, SR	zom. 17.11.1984	1	38,424,525,730,945
+357	Antalová Anna		0	704
+357	Babíková Mária	r.Skladániová	0	654
+357	Bahýľová Mária	mal	0	290
+357	Baláž Pavel, 991 41, Čelovce, č. 69, SR	manž. Anna r. Gregušová	1	931,932,1131
+357	Baláž Štefan		1	581,1033
+357	Balážová Anna		1	545,557,617,931,932
+357	Balážová Anna	r. Gregušová	1	1125
+357	Balážová Mária	r. Jamrišková	1	1087
+357	Balážová Mária	r.Jamrišková	0	639
+357	Balážová Mária	r.Rikinčická	0	401,511,686,875,1160
+357	Balážová Mária r. Rykinčická		1	22
+357	Bartók Ján		0	592
+357	Bartók Ján	/macov/ m. Katarína r. Urbanová	1	999,1000
+357	Bartók Ján	/Šovcov/	0	401,545,557,686,882,1160
+357	Bartók Ján	malol	1	1127
+357	Bartók Ján	Šovcov	1	931,932
+357	Bartók Ján, SR	zom. 28.01.1992	0	1002
+357	Bartók Matej		0	862
+357	Bartók Matej	/m.Mária Vajgelová/	0	455
+357	Bartók Pavel	/marci m.Katarína Sovskiová/	0	507,877
+357	Bartók Pavel	/sirotin/ml	0	401,462,545,557,686,1160
+357	Bartók Pavel	mal	0	763
+357	Bartók Pavol		1	998
+357	Bartók Pavol	/a/ ml. sirotin	1	931,932,1127
+357	Bartóková Katarína	r. Urbanová	1	931,932
+357	Bartóková Katarína	r. Urbanová m. Ján	1	1000
+357	Bartóková Katarína	r. Vajgelová	1	931,932
+357	Bartóková Katarína	r.Urbanová	0	545,557,794
+357	Bartóková Katarína	r.Vajgelová	0	401,545,557,686,1160
+357	Bartoková Mária	r. Janková	1	459
+357	Bartóková Mária	r.Jakubíková	0	719
+357	Bartóková Mária	r.Janková	0	456
+357	Bartóková Mária	r.Veigelová /manž.Matej/	0	401,686,1160
+357	Bartoš Juraj		0	793
+357	Belák Ondrej, SR	zom. 06.12.1989	1	951
+357	Beláková Anna r. Bartóková, SR	zom. 20.04.2001	1	932,938
+357	Bendík Juraj		0	650
+357	Bendik Michal		1	1101
+357	Bendík Pavel		0	401,545,557,599,601,606,686,827,1160
+357	Bendík Pavel	mal	0	337,650,824,827
+357	Bendik Pavol		1	931,932,1045,1064
+357	Bendik Pavol	malol	1	982
+357	Benša Ján		1	931,932,1106
+357	Benša Pavel	/m.Mária Sirotinová/	0	401,545,549,557,686,840,1160
+357	Benša Pavol		1	948
+357	Benša Pavol	m. Mária r. Sirotinová	1	444,931,932
+357	Benšová Katarína	mal	0	383,545,557
+357	Benšová Katarína	malol	1	931,932
+357	Bezáková Jolana	r. Jamrišková	1	1060
+357	Bizov Juraj		1	401,444,545,549,557,686,837,931,932,1160
+357	Bizov Pavol	slob	1	18
+357	Bohovicová Mária r. Bartóková, 991 41, Čelovce, č. 76, SR		1	932
+357	Bolo Ján		0	401,686,1160
+357	Boľová Mária		1	401,686,885,1127,1160
+357	Brindzová Katarína	r. Špániková	1	1071
+357	Brustová Jolana r. Šimková, SR	zom. 17.02.1988	1	1058,1114,1234
+357	Bukochová Anna		1	7
+357	Bukochová Júlia		1	7
+357	Bukochová Mária		1	7
+357	Bývalá urbárska spoločnosť, 991 41, Čelovce, SR		0	984
+357	Ceferová Zuzana	r.Šinkovičová	0	814
+357	Csepyová Irma	r. Plachá	1	1098
+357	Dolinský Jozef	m. Anna r. Ubočániová	1	1038
+357	Doloková Mária		1	401,545,557,686,931,932,1160
+357	Drozd Ján, SR	manž. Mária r. Šinkovkinová	0	677
+357	Drozd Pavol, SR	zom. 16.02.1971	1	978
+357	Dubovská Marta r. Šusteková, SR		0	337,822,824
+357	Ďurás Ján	malol	1	1006
+357	Ďurásová Anna	malol	1	1006
+357	Ďurička Ján		1	368,369,401,545,549,557,686,837,1160
+357	Ďurička Juraj		1	369,727
+357	Ďuričková Ilona	r.Bukovová	0	727
+357	Ďuriška Ján		1	444,931,932
+357	Ďurišová Mária	r.Kaderjáková	0	809
+357	Ďuroch Ján		0	690
+357	Ďuroch Jozef		0	690
+357	Ďurovkin Pavel		0	339,340,342,343,344,345,347,384,501,532,1204
+357	Ďurovkin Pavol	/otec Pavol/	1	1053,1076,1090
+357	Ďurovkin Pavol	mal./syn Pavla/	0	401,686,1160
+357	Ďurovkinová Anna	mal./dcéra Pavla/	0	345,401,686,1160
+357	Ďurovkinová Anna	r.Vargová	0	384
+357	Ďurovkinová Anna, SR	zom. 26.02.1996	1	931,932,1076,1090
+357	Ďurovkinová Mária	/dcéra Pavla/	0	401,686,1160
+357	Ďurovkinová Mária	/otec Pavol/ /Čelovce 58/	1	931,932,1076
+357	Ďurovkinová Mária, 991 41, Čelovce, č. 58, SR	otec Pavol	1	931,932,1090
+357	Gondová Katarína	r. Luciaková	1	983,1052
+357	Gregušová Anna	r.Bartóková	0	401,686,825,826,1160,1200
+357	Grnáč Ján		0	693
+357	Gyalogová Mária		0	671
+357	Gyurás Ján	mal	0	614,810
+357	Gyurás Juraj		0	614
+357	Gyurás Pavel		0	614,810
+357	Gyurásová Anna	mal	0	614,678,810
+357	Gyurásová Mária	r.Števková	0	772,773
+357	Hajtmánik Ján		1	1055
+357	Hudec Pavol		1	931,932,1048
+357	Chovan Pavol, SR	zom. 29.01.1988, manž. Anna r. Pavlovčíková	0	946
+357	Chovancová Katarína r. Benšová, SR	zom. 24.02.1990	1	931,932
+357	Chovanec Martin, SR	zom. 03.10.1990	1	931,932
+357	Chupek Jozef		0	544
+357	Chupeková Mária	r.Vričanová /NV-/	1	376
+357	Jakubík Ján		1	545,557,931,932
+357	Jakubíková Mária	r.Bartošová vd	0	286,401,545,557,653,686,1160
+357	Jakubíková Mária	vd. r. Bartošová	1	931,932
+357	Jamriška Ján	ml	1	1060
+357	Janková - Liptáková Mária r. Petríková		1	931,932,1045
+357	Jankovskyová Pavla		1	545,557,931,932
+357	Jantoška Jozef	mal	1	139
+357	Jantoška Jozef	ml	1	401,479,545,557,686,867,931,932,1160,1195,1211,1229,1239,1241
+357	Jantoška Ladislav	mal	1	139
+357	Jantoška Mikuláš, SR		0	479
+357	Jantoška Ondrej		0	401,686,1160
+357	Jantoška Tomáš		1	139,401,479,545,557,686,867,931,932,1160,1195,1211,1229,1239,1241
+357	Jantošková Mária	mal	1	139,401,479,545,557,686,867,1160,1195,1211,1229,1239,1241
+357	Jantošková Mária	malol	1	931,932
+357	Jantošková Žofia	mal	1	139,401,479,545,557,686,867,1160,1195,1211,1229,1239,1241
+357	Jantošková Žofia	malol	1	931,932
+357	Jerguš Ján		0	730
+357	Jerguš Pavol		1	931,932
+357	Jergušová Anna	r. Slavková m. Ján	1	1083
+357	Jergušová Anna	r.Slavková /m.Ján/	0	340,341,342,345
+357	Jergušová Katarína, SR	zom. 07.01.1997	1	963
+357	Juríček Jarolím	/m.Margita Babicová/	0	686,870
+357	Juríček Jarolím, SR	manž. Margita r. Babicová	0	401,1160
+357	Juríčeková Anna	r.Ďurigová vd	0	401,686,870,1160
+357	Karasová Zuzana		0	729
+357	Kaufová Anna	st. č. 11	1	977
+357	Kelnárová Júlia	r. Koháryová nar. 24.02.1899	1	1039
+357	Klein Jozef		0	437
+357	Kováč Ján	/m.Anna Tomčíková/	0	571
+357	Kováč Ján	/timár/	0	451,740
+357	Kováč Ján	/timár/ml	0	401,451,686,1160
+357	Kováč Ján	m. Mária r. Mrviaková	1	955
+357	Kováč Ján	ml	1	368,401,545,549,557,686,837,931,932,1160
+357	Kováč Ján	ml. m. Katarína r. Trníková	1	369,444
+357	Kováč Michal		1	780,1110
+357	Kováč Pavel	/m.K.Pršenicová/	0	401,545,557,638,686,740,1160
+357	Kováč Pavel	/timár/	0	401,451,686,740,1160
+357	Kováč Pavol	m. Katarína r. Praženicová	1	931,932,1086
+357	Kováč Pavol, SR	zom. 17.11.1990	1	935,956,1005,1020,1112,1118
+357	Kováčová Anna	r.Czeferová	0	401,686,1160
+357	Kováčová Anna	r.Tomčíková	0	570,806,808
+357	Kováčová Katarína	r. Trníková	1	931,932
+357	Kováčová Katarína	r. Trníková m. Ján	1	369,444,1059
+357	Kováčová Katarína	r.Trníková	0	368,401,545,549,557,683,686,837,1160
+357	Kováčová Mária	r.Bartóková /m.Pavel/	0	696
+357	Kováčová Mária	r.Jakubíková	0	713
+357	Kováčová Mária	r.Timárová	0	401,686,1160
+357	Kršniaková Mária	r.Pavlová /m.Pavel/	0	743
+357	Kulich Ján, SR	zom. 08.12.1981	0	1090
+357	Kulich Jozef		1	188,1037
+357	Kulich Jozef	mal	0	401,545,557,573,686,812,1160
+357	Kulich Jozef	malol	1	931,932,1050
+357	Kulich Pavel		0	733
+357	Kulichová Anna r. Chovanová, SR	zom. 27.01.1982, manž. Štefan	1	947
+357	Kulichová Emília		1	1037
+357	Labátová Mária r. Valentová, SR		0	401,686,1160
+357	Ľalík Jozef	/robotník/	0	833
+357	Litavská Anna	r.Antalová	0	401,620,686,704,1160
+357	Macko Urban	manž. Anna r. Vargová	1	1008
+357	Maloch Juraj		1	1042,1049
+357	Martinovic Ján, SR	zom. 21.07.1995	1	970
+357	Medveď Ján	m. Mária r. Šuľanová	1	958

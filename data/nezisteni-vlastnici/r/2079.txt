@@ -1,0 +1,256 @@
+1218	KRALIKOVÁ Zuzana	rod. Vilčková	0	525
+1218	Králová Berta r. Kollárová		0	133,1308,2107,2182,2544,2545
+1218	Králová Berta r. Kollárová	muž Anton	0	133,1308,2544,2545
+1218	Krankotová Helena r. Hvizdošová		0	104,133,1308,2544,2545
+1218	KRIVJANSKÝ Imrich		0	525,1322,2569
+1218	KRIVJANSKÝ Ján		0	525,1322,2569
+1218	KRIVJANSKÝ Jozef		0	525,1322,2569
+1218	KRIVJANSKÝ Juraj		0	525,1322,2569
+1218	KRIVJANSKÝ Štefan		0	525,1322,2569
+1218	KROKUS Ján		0	1231,1539,1709
+1218	KROKUS Michal		0	1231,1709
+1218	KROKUS Štefan		0	1231,1539,1709,2503
+1218	KROKUSOVÁ Anna		0	1231,1539,1709
+1218	KROKUSOVÁ Mária	rod. Majerníková	0	1231,1709
+1218	Krokusová Mária r. Majerníková		0	1923
+1218	KRUŽELÁKOVÁ Johanna	rod. Kakalejčiková	0	525
+1218	Kubaská Anna r. Medvecová		0	2125
+1218	Kubiková Božena		0	2012
+1218	Kučelová Anna r. Farkašová		0	1849
+1218	Kuchár Ján	nar. 20.11.1910, PKV 75	0	2012
+1218	Kuchár Štefan	PKV 75	0	2012
+1218	Kuchár Valent	PKV 75	0	2012
+1218	KURILLA Pavol	USA	0	1231,1709
+1218	Kurillová Elena r. Richnavská		0	110
+1218	KURILLOVÁ Mária	rod. Čarnoká, muž Pavol	0	1231,1709
+1218	KURILLOVÁ Mária	rod. Glovová, muž Štefan	0	1231,1709
+1218	Kurillová Mária r. Čarnoká		0	1493,1682,2542
+1218	Kurillová Mária r. Čarnoká, SR		0	2666,2667,2668
+1218	Kurillová Mária r. Glovová		0	1667
+1218	Kušnírová Mária r. Straková		0	1849
+1218	LABANC Andrej		0	1231,1709
+1218	LABANC Emil		0	1231,1709
+1218	LABANC František		0	1231,1709
+1218	Labanc Jakub		0	1961
+1218	LABANC Ján		0	1231,1709,1928
+1218	LABANC Ján	žena Františka rod. Dolbenková	0	1231,1709
+1218	LABANC Jozef		0	1231,1709,1961,2097
+1218	LABANC Ľudovít	žena Anna rod. Urbanová	0	1231,1709
+1218	LABANC Ondrej		0	1961
+1218	LABANC Pavel		0	1231,1709,1897
+1218	LABANC Štefan		0	1231,1709
+1218	Labancová Anna r. Susová		0	1897
+1218	LABANCOVÁ Apolonia	rod. Daňková, muž Ján	0	1231,1709
+1218	LABANCOVÁ Elena	rod. Ondášová	0	1231,1709
+1218	Labancová Elena r. Čarnoká		0	490,2560,2610
+1218	LABANCOVÁ Františka	rod. Dolbenková, muž Ján	0	1231,1709
+1218	Labancová Františka r. Dolbenková		0	1928
+1218	LABANCOVÁ Helena r. Čarnoká		0	280,898,899,957,973,1493,1682,2558,2561,2600
+1218	Labancová Helena r. Čarnoká, SR		0	2666,2667,2668
+1218	Labancová Helena r. Šusterová		0	1528
+1218	Labancová Johana r. Rusinová		0	1693
+1218	LABANCOVÁ Justína	rod. Poračanová	0	1231,1709
+1218	Labancová Justína r. Poračanová		0	1526
+1218	LABANCOVÁ Mária	rod. Koriová, muž Jozef	0	1231,1709
+1218	LABANCOVÁ Žofia		0	1231,1709
+1218	Labancovvá Helena r. Čarnoká		0	2542
+1218	Laciňáková Anna r. Hvizdošová		0	477
+1218	LACKOVÁ Anna	rod. Krivjanská	0	525
+1218	Lacková Anna r. Krivjanská		0	1322,2569
+1218	LACH Jozef		0	525,1322,2569
+1218	LACHOVÁ Terézia	rod. Saksová	0	525
+1218	Latimák Ján	žena Anna rod. Karasová	0	2379
+1218	Latimáková Anna r. Karasová	muž Ján	0	2379
+1218	LEGATH Jakub		0	242,509,511,512,619,745,1365,1493,1745,2254,2542,2553,2554
+1218	LEGATH Ján		0	242,509,511,512,619,745,1365,1493,1745,2254,2542,2553,2554
+1218	LEGATH Jozef		0	242,509,511,512,619,745,1365,1493,1745,2254,2542,2553,2554
+1218	LEGATH Pavol		0	242,509,511,512,619,1365,1493,1745,2254,2542,2553,2554
+1218	Legathhová Žofia		0	2554
+1218	LEGATHOVÁ Žofia		0	242,509,511,512,619,745,1365,1493,1745,2254,2542,2553
+1218	LEITNER Vendel		0	1231,1709
+1218	LESŇÁK Jozef		0	1231,1709,1959
+1218	Lešková Alžbeta	PKV 27	0	2012
+1218	Lipovský Imrich	PKV 75	0	2012
+1218	Lipovský Štefan	PKV 75	0	2012
+1218	Lipták Andrej	nar. 8.11.1919, Prešov	0	2012
+1218	Liptak Imrich		0	2012
+1218	Lipták Ján	PKV 451	0	2012
+1218	Liptak Jaroslav, Ing.		0	2012
+1218	Liptak Jozef		0	2012
+1218	Liptak Michal, Ing.		0	2012
+1218	Lipták Valent	Šuster	0	2012
+1218	Liptáková Anna, Hrabkov 76, Hrabkov, PSČ 08233, SR		0	2012
+1218	Liptáková Apolónia r. Mruzová	muž Karol	0	2012
+1218	Liptáková Katarína	mal., PKV 313	0	2012
+1218	Liptaková Maria, Ing.		0	2012
+1218	Liptáková Verona r. Hišková	muž Ján	0	2012
+1218	Liptáková Žofia	mal., PKV 313	0	2012
+1218	Lopuchovská Žofia	mal., PKV 216	0	2012
+1218	Lopuchovský Andrej	PKV 21	0	2012
+1218	LORINC Ján		0	525,1322,2569
+1218	LORINC Jozef		0	525,1322,2569
+1218	LORINC Matej	mal	0	525,1322,2569
+1218	LORINC Michal	mal	0	525,1322,2569
+1218	LORINC Štefan	mal	0	525,1322,2569
+1218	LORINCOVÁ Anna	rod. Dzurenková	0	525
+1218	Lorincová Anna r. Dzurenková		0	1322,2569
+1218	Lorincová Janka r. Králiková		0	1322,2569
+1218	LORINCOVÁ Mária	mal	0	525,1322,2569
+1218	LORINCOVÁ Mária	rod. Samelová	0	525
+1218	Lorincová Mária r. Samelová		0	1322,2569
+1218	LORINCOVÁ Zuzana	rod. Miženková	0	525
+1218	Lorincová Zuzana r. Miženková		0	1322,2569
+1218	LOVÁS Imrich		0	100
+1218	LOVÁS Ján		0	903,906
+1218	LOVÁS Michal		0	1231,1709,1959
+1218	LOVÁS Pavol		0	903,1231,1709,1955
+1218	Lovás Valent		0	129,374,636,1005,2005
+1218	Lovás Valent	žena Anna rod. Tobisová	0	104,1493,2542
+1218	LOVÁSOVÁ Anna		0	104,129,374,636,1005,1493,2542
+1218	Lovásová Anna r. Kováčová		0	133,134,1105,1107,1308,2544,2545
+1218	LOVÁSOVÁ Apolonia		0	104,129,374,636,1005,1493,2005,2542
+1218	LOVÁSOVÁ Mária		0	104,129,374,636,1005,1493,2005,2542
+1218	Lovásová Mária r. Mačugová		0	563,1523
+1218	Lovásová Žofia r. Kováčová		0	100,104,129,374,636,1005,1493,2005,2542
+1218	LUŠČÁK Ján		0	1322,2569
+1218	LUŠČÁK Mikolaj		0	525,1322,2569
+1218	MACEJKO Albert		0	525,1322,2569
+1218	MACEJKO Andrej		0	525,1322,2569
+1218	MACEJKO Andrej	ml	0	525,1322,2569
+1218	MACEJKO Bartolomej		0	525,1322,2569
+1218	MACEJKO Ján		0	525,1322,2569
+1218	MACEJKO Ján	Albert	0	525,1322,2569
+1218	MACEJKO Štefan		0	525,1322,2569
+1218	MACEJKO Štefan	Pioner	0	525,1322,2569
+1218	MACEJKOVÁ Barbora		0	525,1322,2569
+1218	MACEJKOVÁ Helena		0	1322,2569
+1218	MACEJKOVÁ Helena	rod. Rusnáková	0	525
+1218	Macejková Helena r. Rusnáková		0	1322,2569
+1218	MACEJKOVÁ Veronika		0	1322,2569
+1218	MACEJKOVÁ Zuzana		0	1322,2569
+1218	Mačugová Žofia r. Rigdová		0	1026,1051,1463,1491
+1218	Madvinová Anna r. Stahovcová	USA	0	2012
+1218	MAGDA Anton		0	1387,1413,1414,2336
+1218	MAGDA František		0	2336
+1218	MAGDA Izidor		0	1549
+1218	MAGDA Jakub		0	1849
+1218	Magda Ján		0	1549
+1218	MAGDA Matej		0	892,1193,2679
+1218	Magda Pavol		0	104,133,167,585,1192,1308,1493,1532,1549,2542,2544,2545
+1218	MAGDA Štefan		0	949,950
+1218	Magdo Jakub	PKV 379	0	2215,2571
+1218	Magdová Alžbeta		0	1549
+1218	MAGDOVÁ Anna		0	104,133,1308,1549,2544,2545
+1218	Magdová Anna r. Harčárová		0	104,133,2355,2544,2545
+1218	Magdová Anna r. Harčárová	Jurov	0	1308
+1218	Magdová Anna r. Jenčová		0	1878,2183
+1218	MAGDOVÁ Barbora r. Gabošová		0	707
+1218	MAGDOVÁ Mária	rod. Richnavská, muž Štefan	0	104
+1218	Magdová Mária r. Magdová		0	1849
+1218	Magdová Mária r. Olšavská		0	104,133,215,217,287,289,290,291,292,293,294,295,296,297,298,1131,1308,1328,1433,1493,1505,1788,1970,2255,2542,2544,2545,2619,2620
+1218	Magdová Mária r. Richnavská		0	949,950,2078
+1218	Magdová Mária r. Rychnavská		0	323,413,1493,2542,2555,2556,2557
+1218	Magurová Alžbeta r. Magdová		0	1849
+1218	Majerník Ján		0	180,1859,2483
+1218	MAJERNÍK Karol		0	104,1975
+1218	MAJERNÍK Pavel		0	272,274,1493,2542,2550,2551,2552
+1218	MAJERNÍK Pavol		0	104
+1218	MAJERNÍK Štefan		0	385,498,927,1446,1505,1788
+1218	MAJERNÍKOVÁ Barbara		0	202,2609
+1218	Majerníková Františka r. Palková	muž Jozef	0	710
+1218	MAJERNÍKOVÁ Johanna		0	2329
+1218	Majerníková Margita r. Ferencová		0	128,182,183,184,711,712,848,850,851,1531,2069,2613,2623,2712
+1218	Majerníková Margita r. Kováčová		0	104,133,267,270,271,272,273,274,384,667,1308,1493,2542,2544,2545,2546,2547,2548,2549,2550,2551,2552
+1218	MAJERNÍKOVÁ Mária		0	2329
+1218	MAJERNÍKOVÁ Mária	rod. Kollárová, muž Pavol	0	104
+1218	Majerníková Mária r. Labancová		0	2255
+1218	Majerníková Mária r. Magdová	muž Pavol	0	1859
+1218	Majerníková Mária r. Podracká		0	183,184,712,1531,2328
+1218	Majerníková Mária r. Podracká	muž Štefan	0	104,1493,2069,2542
+1218	Majerníková Žofia r. Pelesová		0	201,1737
+1218	Majerníková Žofia r. Pelesová	muž Štefan	0	1505,1788
+1218	Majerošová Barbora r. Schwartzová	muž Jozef	0	2012
+1218	Majher Franc	PKV 386	0	2012
+1218	Majher František	PKV 32	0	2012
+1218	Majher Štefan	PKV 386	0	2012
+1218	Majherová Helena	PKV 386	0	2012
+1218	Majherová Mária	PKV 386	0	2012
+1218	Majherová Verona	PKV 386	0	2012
+1218	MAJLÁTH Andrej	st	0	525,1322,2569
+1218	Majláthová Anna r. Škarbeková		0	1322,2569
+1218	MAJLÁTHOVÁ Zuzana	rod. Kontrošová	0	525
+1218	Majláthová Zuzana r. Kontrošová		0	1322,2569
+1218	MANN František		0	1231,1709
+1218	MARCINKO Andrej	žena Anna rod. Podprocká	0	525,1322,2569
+1218	MARCINKO Florián		0	525,1322,2569
+1218	MARCINKO Mikuláš		0	525
+1218	MARCINKO Žigmund		0	525
+1218	MARCINKOVÁ Anna	rod. Podprocká, muž Andrej	0	525
+1218	Mária Rigdová r. Čarnoká		0	133,1308,2544,2545
+1218	Marušák Ján	PKV 573	0	2012
+1218	Marušák Jozef	PKV 162, USA	0	2012
+1218	MARUŠÁK Štefan		0	2012
+1218	Marušáková Anna r. Liptáková		0	2012
+1218	Marušáková Apolónia	PKV 171	0	2012
+1218	Marušáková Mária r. Čigarská		0	1849
+1218	MARUŠÁKOVÁ Mária r. Rodáková		0	208,211,444,1185,1493,1965,2542
+1218	Marušáková Mária r. Schvarcová	muž Michal	0	2012
+1218	Marušáková Žofia	PKV 81	0	2012
+1218	Maslisová Mária		0	2012
+1218	Matiasová Apolónia r. Joščáková		0	2012
+1218	Matiašová Apolónia r. Joščáková	muž Jakub	0	2012
+1218	Matuščák Ferencz	PKV 178	0	2012
+1218	MATUŠČÁK Ján	č.s.17	0	1231,1709
+1218	MATUŠČÁK Ján	žena Apolonia rod. Tobisová	0	1231,1709
+1218	MATUŠČÁK Pavol		0	1956
+1218	MATUŠČÁKOVÁ Anna	č.s.17	0	1231,1709
+1218	MATUŠČÁKOVÁ Anna	rod. Labancová, muž Anton	0	1231,1709
+1218	MATUŠČÁKOVÁ Apolonia	rod. Tobisová, muž Ján	0	1231,1709
+1218	Medvec Emil		0	1709
+1218	MEDVEC Imrich		0	1840
+1218	MEDVEC Ján		0	211,554,1007,1213,1528,1840,2125
+1218	MEDVEC Ján	Hrepta	0	525,1322,2569
+1218	MEDVEC Ján	ml	0	525,1322,2569
+1218	MEDVEC Ján	mladší	0	525,1322
+1218	MEDVEC Ján	st	0	525,1322,2569
+1218	MEDVEC Ján	žena Mária rod. Richnavská	0	1231,1709
+1218	MEDVEC Jozef	Hrepta	0	525,1322,2569
+1218	MEDVEC Jozef	Kuráš	0	525,1322,2569
+1218	Medvec Martin	nar. 1929, Jahodová 23, Bratislava	0	1788
+1218	Medvec Martin, Jahodová 23, Bratislava, PSČ 831 01, SR		0	1527,1528
+1218	Medvec Martin, Jahodová 23, Bratislava, SR		0	1709
+1218	MEDVEC Michal	žena Františka rod. Medvecová	0	1231,1709
+1218	MEDVEC Štefan	Hrepta	0	525,1322,2569
+1218	MEDVEC Vincent		0	525,1322,2569
+1218	MEDVECOVÁ Anna		0	945
+1218	Medvecová Apolonia r. Lovasová		0	1950
+1218	MEDVECOVÁ Barbora		0	2125
+1218	Medvecová Beáta	Košice	0	1788
+1218	MEDVECOVÁ Františka		0	366,368
+1218	MEDVECOVÁ Františka	rod. Medvecová, muž Ján	0	1231,1709
+1218	MEDVECOVÁ Františka	rod. Medvecová, muž Michal	0	1231,1709
+1218	Medvecová Mária r. Richnavská	muž Ján	0	1505,1788
+1218	Medvecová Žofia r. Papcunová		0	35,105,237,443,447,449,453,454,455,456,457,458,459,1613,1840,2684
+1218	Medvecová Žofia r. Papcunová	muž Ján	0	1493,2542
+1218	MEDVECZ Ján		0	366,368
+1218	Megová Matilda r. Zimmermannová		0	498
+1218	MELIKÁNOVÁ Anna	rod. Borteľová	0	1231,1709
+1218	Melikanová Anna r. Bortelová		0	1539
+1218	MIHALIČKO Juraj		0	525,1322,2569
+1218	MIHALIK Albert	st	0	525,1322,2569
+1218	MIHALIK František		0	104
+1218	MIHALIK Ján		0	525,1322,2569
+1218	MIHALIK Jozef		0	525,2143,2324
+1218	MIHALIK Ladislav		0	1322,2569
+1218	MIHALIKOVÁ Agnesa	rod. Kraliková	0	525
+1218	Mihaliková Agnesa r. Kraliková		0	1322,2569
+1218	MIHALIKOVÁ Anna	rod. Kováčová, muž František	0	1231,1709
+1218	Mihaliková Anna r. Kováčová		0	90,104
+1218	MIHALIKOVÁ Katarína	rod. Palková	0	525
+1218	Mihaliková Katarína r. Palková		0	1322,2569
+1218	Mihaliková Mária r. Kandriková		0	1718,2143,2464
+1218	MIHALIKOVÁ Zuzana	rod. Belušková	0	525
+1218	Mihaliková Zuzana r. Belušková		0	1322,2569
+1218	Mihoková Barbora, SR		0	1551
+1218	Michal Jenča	žena Františka r. Jenča	0	133,1308,2544,2545
+1218	MIŽENKO Andrej		0	525,1322,2569

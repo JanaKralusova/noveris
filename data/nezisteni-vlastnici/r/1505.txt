@@ -1,0 +1,256 @@
+895	BATÍK Gabriel	v USA	0	101,102,865,877,913,962,1141,1173,1364
+895	BATÍK Ján	v USA	0	101,102,865,877,913,962,1141,1173,1364
+895	Batík Valent	manželka Anna, r.Olejníková, R1898	0	101,865,873,877,913,962,1141,1173,1295,1364
+895	BATÍKOVÁ Anna r. Jakubčinová		0	102
+895	Batíková Barbora	maloletá, PKV 75	0	101,102,865,873,877,913,962,1141,1173,1364
+895	BATÍKOVÁ Mária	slobodná, R1914	0	101,865,873,877,913,962,1141,1173,1295,1364
+895	Batíková Veronika	slobodná, R1904	0	171,865,877,913,962,1141
+895	Bátorová Anna r. Haľková		0	191,452,454,455,831,1142,1143,1145
+895	Bednarík Ján	PKV 379	0	487
+895	Bednarík Ján	PKV 7	0	63,64,494,698,756,757,1257
+895	Bednarík Martin	PKV 7	0	63,64,494,698,750,751,756,757,1257
+895	BEDNÁRIK Martin		0	1198,1199
+895	Bednaríková Anna r. Balogová		0	698,750,751,756,757,967
+895	BEDNARÍKOVÁ Anna r. Kuchárová		0	101,102,865,873,877,913,962,1141,1173,1198,1199,1295,1364
+895	Bertótyová Mária r. Roskovanyiová		0	733,855
+895	Broda Alojz	manelka Barbora r.Marušáková	0	877
+895	Broda Alojz	manželka Barbora r. Marušáková	0	74,733
+895	Broda Alojz	manželka Barbora r.Marušáková	0	203,865,913,962,1141
+895	Broda Alojz	PKV 32	0	71,686
+895	Broda Jozef	PKV 32	0	877,1141
+895	Broda Štefan	PKV 275 B38	0	569
+895	Broda Štefan	PKV 324	0	570
+895	Broda Valent	PKV 245	0	851
+895	Brodová Anna	PKV 326	0	570
+895	Brodová Anna r. Straková		0	135
+895	Brodová Apolónia	PKV 237	0	865,877,913,962,1141
+895	Brodová Apolónia r. Švarcová		0	253,598,616,639,665,744,745,1036
+895	Brodová Barbora	muž Alojz	0	283
+895	Brodová Barbora	PKV 138	0	175,1061
+895	Brodová Barbora	PKV 237	0	865,877,913,962,1141
+895	Brodová Barbora r. Marušáková		0	71,658,686,865,877,913,962,1141
+895	BRODOVÁ Barbora r. Marušáková	muž Alojz	0	73,74,118,148,203,479,627,733,844,865,877,913,962,1141,1197,1372
+895	Brodová Žofia	PKV 326	0	570
+895	Brutovská Zuzana r. Stahovcová		0	1198,1199
+895	Cehezová Verona r. Majherová		0	865,877,903,913,962,1141
+895	ČARNOKOVÁ Barbora r. Joščáková		0	101,102,865,873,877,913,962,1141,1173,1295,1364
+895	Čech - Šimková Barbora	PKV 112	0	941
+895	Čech Róbert	manželka Anna r.Človičková	0	877,1141
+895	Čech Róbert	PKV 74	0	130
+895	Čigarský Andrej	PKV 379	0	199,487
+895	Čigarský František	manželka Barbora r.Sedlačková	0	199,487
+895	Čigarský František	PKV 379	0	199,487
+895	Čigarský Karol	PKV 379	0	199,487
+895	Čigarský Štefan	PKV 379	0	199,487
+895	Človičko Filip	maloletý,PKV 180	0	962
+895	Človičko Filip	PKV 178	0	78,253,745
+895	Človičko František	PKV 178	0	300
+895	Človičko Ján	manželka Žofia r.Jašová	0	765,773
+895	Človičko Ján	PKV 36	0	616,665,744,745,1036
+895	ČLOVIČKO Ján	narodený 1920	0	135,175,177,228,300,520,598,616,665,744,745,760,865,868,877,883,895,902,913,928,942,962,1036,1061,1141
+895	Človičko Jozef	PKV 559	0	598
+895	Človičko Štefan	manželka Karolína r.Klapáčová	0	350,865,877,913,962,1141
+895	Človičko Štefan	PKV 417	0	300
+895	ČLOVIČKO Valent		0	78,598
+895	Človičková Verona r. Haľková		0	933
+895	Defsenffy Róbert	manželka Petronela r.Bertótyová	0	733
+895	Defsenffyová Petronela r. Bertótyová		0	733
+895	Dropová Mária r. Farkašová		0	64,698,750,751,756,757,1257
+895	Drozdová Mária	v USA, PKV 71	0	865,877,913,962,1141,1180
+895	Dúbravská Alžbeta r. Mihaľová		0	1213
+895	Duca - Jergová Anna r. Liptáková		0	740,741,1164
+895	Edelmann Jozef	PKV 261	0	118,135,283,740,741,822,879,919,1164
+895	Edelmann Maximilián	PKV 330	0	135,283,740,741,1164
+895	EDELMANN Móric		0	283
+895	EDELMANN Pavol		0	118
+895	Edelmannová Emília	maloletá, PKV 330	0	135,283,740,741,1164
+895	Edelmannová Etela	PKV 330	0	118,135,283,740,741,1164
+895	Edelmannová Mária	PKV 330	0	135,740,741,1164
+895	Edelmannová Terézia	maloletá, PKV 330	0	135,283,740,741,1164
+895	FALAT Vasiľ		0	1212
+895	Farkaš Andrej	PKV 379	0	199,487
+895	Farkaš Andrej	PKV 490	0	494
+895	Farkaš Andrej	PKV 7	0	63,64,698,750,751,756,757,1257
+895	Farkaš Ján	PKV 7	0	64,698,750,751,756,757,1257
+895	Farkaš Jozef	PKV 7	0	63,64,494,698,750,751,756,757,1257
+895	Farkaš Jozef	PKV 7 B244/b	0	63,64,698,750,751,756,757,1257
+895	FARKAŠ Jozef		0	1198,1199
+895	Farkaš Štefan	PKV 7	0	63,64,494,698,750,751,756,757,967,1257
+895	Farkaš Valent	PKV 7	0	63,64,698,750,751,756,757,1257
+895	FARKAŠ Valent		0	1198,1199
+895	Farkašová	vdova po Štefanovi	0	199,487
+895	Farkašová Anna	PKV 7	0	63,64,494,698,750,751,756,757,967,1257
+895	FARKAŠOVÁ Anna		0	830,1198,1199,1260
+895	Farkašová Apolónia		0	1198,1199
+895	Farkašová Apolónia	PKV 7	0	63,64,494,698,750,751,756,757,1257
+895	FARKAŠOVÁ Apolónia r. Balogová		0	63,64,494,698,750,751,756,757,967,1198,1199,1257
+895	Farkašová Barbora	PKV 7	0	63,64,698,750,751,756,757,1257
+895	FARKAŠOVÁ Barbora		0	1198,1199
+895	Farkašová Justína	PKV 7	0	63,64,494,698,750,751,756,757,967,1257
+895	Farkašová Rozália	PKV 7	0	63,64,494,698,750,751,756,757,1257
+895	FARKAŠOVÁ Rozália		0	1198,1199
+895	Farkašová Žofia	PKV 7	0	63,64,494,698,750,751,756,757,967,1257
+895	FARKAŠOVÁ Žofia		0	1198,1199
+895	Ferková Anna r. Šofranková		0	160,1141
+895	Foltýnová Zdenka r. Navrátilová, Zdounky, č. 26, PSČ 768 02, ČR		0	865,877,913,1141
+895	Foriš Ján	matka Apolónia	0	865,877,913,962,1141
+895	Foriš Jozef	manželka Mária r.Matvejová	0	494
+895	Forišová Apolónia	muž Jozef	0	1006
+895	Forišová Mária	maloletá, matka Apolónia	0	775,1006,1368
+895	FORIŠOVÁ Mária r. Matvejová	muž Jozef	0	63,494,750,751
+895	Fotta Andrej	D 721/42-5	0	877,962,1141
+895	Fotta Andrej	PKV 119	0	865,877,913,962,1141
+895	Fotta Augustín	PKV 301	0	976
+895	Fotta Benedik	PKV 75	0	101,102,865,873,877,913,962,1141,1173,1295,1364
+895	Fotta Gustáv	PKV 524	0	201
+895	Fotta Ján	D 712/68-5/69	0	127,740
+895	Fotta Ján	PKV 302	0	135
+895	Fotta Ján	PKV 331	0	135
+895	Fotta Ján	PKV 74	0	199,741,1164
+895	Fotta Ján	PKV 75	0	101,102,865,873,877,913,962,1141,1173,1364
+895	Fotta Jozef		0	101,1173,1364
+895	Fotta Jozef	PKV 330	0	741,1164
+895	Fotta Jozef	PKV 75	0	865,877,913,962,1141
+895	Fotta Michal	Hrabkov 151	0	746,765,773
+895	Fotta Michal	PKV 331 B/16b	0	1141
+895	Fotta Michal	PKV 331 B16/b	0	135
+895	Fotta Michal	PKV 501	0	737,747,865,877,913,962,1141
+895	Fotta Michal	PKV 66	0	962
+895	Fotta Pavol	maloletý, PKV 75	0	101,102,865,877,913,962,1141,1173,1364
+895	Fotta Pavol	maloletý, PKV75	0	873
+895	Fotta Pavol	PKV 75	0	101,102,865,873,877,913,962,1141,1173,1295,1364
+895	Fotta Štefan	maloletý, PKV 331	0	135,765,773
+895	Fotta Štefan	PKV 331	0	765,773
+895	Fotta Štefan	PKV 374 B18/a	0	765,773
+895	Fotta Štefan	PKV 507	0	1226
+895	Fotta Štefan	PKV 75	0	101,102,865,873,877,913,962,1141,1173,1364
+895	Fotta Teleki Juraj	PKV 66	0	962
+895	Fotta Tomáš	PKV 168	0	199
+895	Fotta Valent	PKV 331	0	135,765,773
+895	Fotta Valent	PKV 75	0	101,102,865,873,877,913,962,1141,1173,1295,1364
+895	Fottová Anna	PKV 75	0	101,102,865,873,877,913,962,1141,1173,1364
+895	Fottová Anna r. Galdunová	muž Michal	0	855
+895	Fottová Apolónia	PKV 75	0	877,913,1141,1173
+895	Fottová Barbora	PKV 66	0	962
+895	FOTTOVÁ Barbora	v USA	0	101,102,865,873,877,913,962,1141,1173,1364
+895	FOTTOVÁ Barbora r. Janigová	muž Vincent	0	95,135,315,740,760,1337
+895	Fottová Helena	PKV 331	0	135
+895	Fottová Helena r. Fottová		0	201
+895	Fottová Mária	maloletá, PKV 75	0	101,102,865,873,877,913,962,1141,1173,1364
+895	FOTTOVÁ Mária	v USA	0	101,102,865,873,877,913,962,1141,1173,1364
+895	Fottová Mária r. Balogová	muž Štefan	0	886
+895	Fottová Mária r. Klapáčová	muž Mikuláš	0	1228
+895	Fottová Verona r. Homzová		0	865,877,913,962,1141
+895	FOTTOVÁ Verona r. Krenická		0	22,609
+895	FRÄNKEL Adolf		0	135,740,741,1164,1193
+895	Galdunová Mária r. Straková		0	877,1141
+895	Gazdík Ján	PKV 88	0	61,66,67,71,88,175,176,177,520,598,616,665,686,719,744,745,865,877,902,913,962,1036,1061,1141
+895	Gazdík Ján	PKV 93	0	520
+895	Gazdík Jozef	Czivil	0	71,686
+895	Gazdík Jozef	PKV 93	0	520
+895	Gazdík Štefan	PKV 31	0	500,608,865,871,877,913,962,1141,1150,1151,1152,1174
+895	Gazdíková Mária	PKV 31	0	500,608,865,871,877,913,962,1141,1150,1151,1152,1174
+895	Ghilány László	maloletý, PKV 102	0	829
+895	Ghilány Mór	maloletý, PKV 102	0	829
+895	Ghilányová Mária	maloletá, PKV 102	0	829
+895	Gmitrová Zuzana r. Schwartzová	muž Juraj	0	71,72,73,107,686,865,877,899,913,962,1141
+895	Gočová Helena r. Kočíková		0	494
+895	Goldberger Ludovit, Dr.		0	62,914,943
+895	Hadbavná Alžbeta	PKV 301	0	976
+895	Hadbavná Alžbeta r. Schwartzová		0	71,72,107,160,686,750,751,865,877,899,913,962,1141
+895	Hadbavná Anna	PKV 301	0	160,976
+895	Hadbavná Anna	PKV 84	0	349
+895	Hadbavná Anna r. Stahovcová		0	1186,1188
+895	Hadbavná Apolónia	PKV 84	0	349
+895	Hadbavná Mária	PKV 84	0	349
+895	Hadbavná Mária	PKV 88	0	71,686,871
+895	Hadbavná Mária r. Matvejová	muž Imrich	0	848
+895	HADBAVNÁ Verona r. Stahovcová		0	47,60,61,62,63,64,73,160,698,750,751,756,757,856,865,877,899,913,962,976,1141,1188,1257,1380
+895	Hadbavná Žofia	maloletá, PKV 319	0	466
+895	Hadbavná Žofia	maloletá,PKV 319	0	67
+895	Hadbavná Žofia	maloletá,PKV319	0	349
+895	HADBAVNÁ Žofia r. Klapáčová	muž Michal	0	87,206
+895	Hadbavný Andrej	PKV 84	0	349
+895	Hadbavný František	PKV 459	0	865,877,913,1141
+895	Hadbavný Imrich	maloletý, PKV 319	0	67,349,466
+895	Hadbavný Ján	PKV 84	0	349
+895	Hadbavný Jozef	PKV 301	0	160,976
+895	Hadbavný Jozef	PKV 84	0	349
+895	Hadbavný Michal	manželka Žofia r.Klapáčová	0	87,206
+895	Hadbavný Michal	PKV 194	0	349
+895	Hadbavný Michal	PKV 485	0	206
+895	Hadbavný Michal	PKV 531	0	159,266,267,584,586,865,877,913,1141
+895	Hadbavný Štefan	maloletý	0	160,349,976
+895	Hadbavný Štefan	manželka Verona, r.Stahovcová	0	118
+895	Hadbavný Štefan	PKV 194	0	349
+895	Hadbavný Štefan	PKV 301	0	160,976
+895	Hadbavný Valent	PKV 84	0	349
+895	Hadzinová Mária r. Jenčová		0	967
+895	Haľko Anton	maloletý	0	837,955
+895	Haľko František	otec Tomáš	0	847,1370
+895	Haľko Imrich	manželka Anna r.Stahovcová	0	953
+895	Haľko Imrich	PKV 153	0	837,955
+895	Haľko Imrich	PKV 248	0	933
+895	Haľko Ján	PKV 121	0	203,574,1159,1285
+895	Haľko Ján	PKV 153	0	837
+895	Haľko Ján	PKV 207	0	574,1159,1285
+895	Haľko Ján	PKV 282	0	837
+895	Haľko Štefan	maloletý	0	837,955
+895	Haľko Štefan	PKV 207	0	574,1159,1285
+895	Haľko Štefan	PKV 248	0	933
+895	Haľko Tomáš	manželka Anna r.Švarcová, zomrel 1953	0	148,519,826,933
+895	Haľko Tomáš	PKV 67	0	126,865,877,913,962,1141
+895	Haľko Vincent	manželka Mária r.Šofranková	0	191
+895	Haľko Vincent	PKV 205, v USA	0	191
+895	HAĽKOVÁ Alžbeta r. Galdunová		0	89,160,206,207,212,720,865,877,891,913,950,962,976,1141,1218
+895	Haľková Anna r. Joščáková		0	574,1159,1285
+895	Haľková Anna r. Kazimírová	muž Andrej	0	909
+895	Haľková Anna r. Stahovcová	muž Imrich	0	953
+895	Haľková Apolónia r. Homzová		0	865,877,913,962,1141
+895	Haľková Apolónia r. Kuchárová	muž Juraj	0	135,740,741,1164
+895	Haľková Barbora r. Janigová		0	130,131,199,201,350,865,877,912,913,962,1141
+895	Haľková Helena	PKV 121	0	203
+895	Haľková Helena	PKV 135	0	880
+895	Haľková Mária	PKV 121	0	203
+895	Haľková Mária r. Haľková		0	933
+895	Haľková Veronika r. Brodová		0	899,962
+895	Hallová Anna r. Joščáková	muž Ján	0	171,178,179,214,222,264,280,287,466,865,877,913,962,1141
+895	Halmoš Bartolomej	PKV 75	0	101,102,865,873,877,913,962,1141,1173,1295,1364
+895	HARAG Andrej		0	1191
+895	HARAG Ján		0	1191
+895	Harničár Karol	PKV 129	0	971
+895	Harničár Martin	PKV 129	0	971
+895	Harničár Štefan	PKV 129	0	971
+895	Harničár Štefan	starší, PKV 129	0	971
+895	Hatala Jozef	PKV 379	0	199
+895	Holomán Andrej	PKV 32	0	865,872,877,897,903,913,962,1141,1286
+895	Holomán Ján	PKV 32	0	865,872,877,897,903,913,962,1141,1286
+895	Holomanová Verona	nezvestná	0	774,865,872,877,890,897,913,962,1141,1286
+895	Holománová Verona	maloletá, PKV 32	0	865,872,877,897,903,913,962,1141,1226,1286
+895	HOLOVÁ Anna r. Joščáková		0	101,102,865,873,877,913,962,1141,1173,1295,1364
+895	Homza Ištván	PKV 121	0	173,203,865,877,913,962,1141
+895	Homza Ján	maloletý	0	741,865,877,913,962,1141,1164
+895	Homza Ján	PKV 121	0	173,203
+895	Homza Ján	PKV 121 B83	0	203
+895	Homza Jozef	PKV 152	0	1186
+895	Homza Štefan	PKV 121	0	89
+895	Homza Štefan	PKV 226	0	962
+895	Homza Štefan	PKV 330	0	740
+895	Homza Štefan	PKV 55	0	865,877,913,1141
+895	Homza Valent	maloletý, PKV 12	0	741,865,877,913,962,1141,1164
+895	Homza Vincent	maloletý, PKV 12	0	741,865,877,913,962,1141,1164
+895	Homzová Alžbeta	PKV 242	0	850
+895	Homzová Apolónia r. Jenčová		0	135,218,658,865,877,913,962,1141
+895	Homzová Johana r. Rusňáková		0	173,197,203,865,877,913,962,1141
+895	Homzová Mária	PKV 121	0	1164
+895	Homzová Mária	PKV 137	0	173
+895	Homzová Mária r. Olejníková	muž Jozef	0	879,1186,1194
+895	Homzová Žofia	PKV 12	0	741,865,877,913,962,1141,1164
+895	Homzová Žofia r. Švarcová, Hrabkov, č. 84, PSČ 082 33, SR		0	865,877,913,962,1141
+895	Horáková Jindřiška r. Navrátilová, Količín - Holešov, č. 125, PSČ 769 01, ČR		0	865,877,913,1141
+895	HORVÁTOVÁ Anna r. Jenčová	muž Andrej	0	63,64,494,698,750,751,756,757,1257
+895	Hovan Valent	PKV 524	0	199
+895	Hovančák Andrej	PKV 27	0	775,1006,1368
+895	Hovančák Filip	PKV 324	0	570
+895	Hovančák Ján	PKV 27	0	877,1141
+895	Hovančák Michal	PKV 27	0	600

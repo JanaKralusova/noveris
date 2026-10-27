@@ -1,0 +1,256 @@
+163	Patasyová Mária	maloletá	0	949,1043
+163	Patasyová Zlatica	maloletá	0	949,1043
+163	Pázmány Karol		0	848
+163	Pázmány Ľudovít		0	1018
+163	Pázmány Peter		0	1065
+163	Pázmány Zoltán		0	1065
+163	Probstoová Estera r. Szűcsová	m.Arpád	0	14
+163	Puzsérová Emília	maloletá	0	1150
+163	Puzsérová Vilma		0	1150
+163	Roossová Ida r. Pázmányová	m.Ľudovít	0	1065
+163	Simig Ignác	slabomyselmý	0	1021
+163	Simig Imrich	slabomyselný	0	1021
+163	Simigová Helena		0	1021
+163	Szabady Ján	m.Kristina r.Farkasová	0	797,798,905,906,1045,1046,1145,1187
+163	Szabadyová Kristína r. Farkasová	m.Ján	0	797,798,1046,1145,1187
+163	Szabó František	zomrel naposledy bytom ul.Mierová č.58, Kolárovo	0	898,899
+163	Szabó Gabriel		0	1141
+163	Szabó Ignác	m.Alžbeta r.Bukorová	0	298,861
+163	Szabó Ján	m.Margita r.Vermesová	0	1047
+163	Szabóová Helena r. Bukorová	m.Imrich	0	1086
+163	Szabóová Mária r. Tóthová	m.Koloman	0	761
+163	Szabóová Terézia r. Vargová	m.Ján	0	803
+163	Szabóva Mária r. Olléová		0	896
+163	Szépe František		0	898
+163	Szépe Gejza	m.Žófia r. Lestárová	0	898
+163	Szépe Gejza	syn Gejzu	0	899
+163	Szepe Koloman	M.Rozália r. Feketeová	0	796
+163	Szépeová Irena	maloletá	0	898
+163	Sztakovics Štefan	maloletý	0	810
+163	Sztakovics Viliam		0	810,831
+163	Sztakovicsová Mária r. Tóthová	vdova m.b.Ladislav	0	1107
+163	Sztakovicsová Ružena	maloletá	0	810,831
+163	Szűcs Daniel		0	14
+163	Szűcs Jozef		0	14
+163	Szűcs Ladislav		0	14
+163	Szűcs Vojtech		0	14
+163	Szűcsová Estera r. Bajcsiová	m.Ladislav	0	14
+163	Szűcsová Júlia r. Forró	zomrela 15.5.2009,naposledy bytom Bodzianske Lúky čs.194	0	1130
+163	Takács Ágoston	maloletý	0	870,915,916
+163	Takács Dávid	mladší m.Janka r. Véghová	0	791
+163	Takács Gábor	maloletý	0	870,915,916
+163	Takács Gejza		0	1056
+163	Takács Ignác		0	870,915,916
+163	Takács Imrich	m.Mária r. Horváthová	0	1056
+163	Takács Ján		0	42,1009,1066
+163	Takács Karol	m.Emma r.Vargová	0	1009,1066
+163	Takács Karol	ž.Emma r. Vargová	0	42
+163	Takács Ladislav		0	42,1009
+163	Takács Ladislav	maloletý	0	1066
+163	Takács Vojtech		0	42,1009
+163	Takács Vojtech	maloletý	0	1066
+163	Takácsová Irena		0	870,915,916
+163	Tanczosová Irena r. Bukorová	m.Vendelín	0	44,45,46
+163	Tarová Terézia r. Pázmanyová		0	1018
+163	Téglášová Alžbeta	maloletá	0	41
+163	Téglášová Mária	maloletá	0	41
+163	Telekes Gejza	zomrel m.Mária r.Nagyová	0	870
+163	Telekes Imrich	m.Julianna r.Szabóová	0	1025,1026
+163	Telekesová Julianna r. Szabóová	m.Imrich	0	1025,1026,1033
+163	Tóth Alexander	maloletý	0	1019
+163	Tóth František		0	865
+163	Tóth Gejza	m.Mária r.Bögiová	0	761
+163	Tóth Koloman		0	320,1011,1012
+163	Tóth Ľudovít	maloletý	0	1019
+163	Tóth Mikuláš	m.Julianna r.Szabová	0	40
+163	Tóth Vincent		0	320,1011,1012
+163	Tóthová Emilia r. Szépeová		0	898,899
+163	Tóthová Jolana r. Puzsérová		0	1020
+163	Tóthová Julianna r. Szabová	m.Mikuláš	0	40
+163	Tóthová Klára		0	320,1011,1012
+163	Tóthová Margita r. Telekes		0	870
+163	Tóthová Mária r. Vermesová		0	1117
+163	Várady Jozef	m.Alžbeta r.Farkašová	0	1149
+163	Váradyová Alžbeta r. Farkašová	m.Jozef	0	1149
+163	Varga Imrich	m.Helena r.Olléová	0	1084
+163	Varga Ľudovít	m.Margita r.Takácsová	0	1038,1183
+163	Vargová Helena r. Olléová	m.Imrich	0	1084
+163	Vargová Terézia r. Szabóvá		0	893
+163	Végh Gabriel	m.Klára r.Haláfsová	0	796
+163	Végh Gustav		0	796
+163	Végh Ján	m.Klára Mihályová	0	796
+163	Végh Julius		0	57
+163	Véghová Irena r. Véghová	m.Koloman	0	57
+163	Véghová Mária	maloletá	0	53,840
+163	Véghová Terézia r. Véghová	m.Koloman	0	796
+163	Vermes Eugen		0	1077
+163	Vermes Jozef		0	298
+163	Vermes Jozef	maloletý	0	298,1104,1209
+163	Vermes Ladislav	maloletý	0	868,941,1027,1158
+163	Vermes Rudolf	zomrel 19.3.1982	0	1082
+163	Vermesová Anna r. Ottová	vdova m.b.Štefan	0	868
+163	Vermesová Barbora r. Ilcsiková	zomrela 29.5.1986	0	1106
+163	Vermesová Borbála r. Nagyová	vdova	0	1051
+163	Vermesová Ernestina		0	632,969
+163	Vermesová Ernestina	maloletá	0	1082
+163	Vermesová Gizela		0	1104,1209
+163	Vermesová Margita	maloletá	0	298,632,969,1082,1104,1209
+163	Vermešová Helena r. Pavlikovská	zomrela 12.10.2009, naposledy bytom Mlynky, Biele Vody 221	0	298,1104,1209
+163	Vermešová Rozália		0	1104,1209
+163	Vigh Ľudovít	m.Vilma r.Forroová	0	14
+163	Vighová Vilma r. Forróová	m.Ľudovít	0	13,14
+163	Vinczeová Terézia r. Vermesová	m.Ján Belanko	0	298
+163	Vörösová Hermína r. Kovácsy		0	781
+164	CARIK Aften		1	271,272,274,276,320,321,322,325,326,331,332,375,450
+164	Carik Andrej		1	254,258,271,272,274,325,326,331,332,357,374,382,444,445,446,447
+164	CARIK Ján		1	251,271,272,274,325,326,331,332,469
+164	CARIK Juraj		1	254,258,271,272,274,321,325,326,331,332,357,374,382,444,445,446,447
+164	CARIK Juraj, Zlatá Olešnice 33, Trutnov, Slovensko		0	251,271,272,274,325,326,331,332,469
+164	CARIK Peter		1	251,271,272,274,325,326,331,332,469
+164	CARIKOVÁ Anna		1	254,258,271,272,274,325,326,331,332,357,374,382,424,444,445,446,447
+164	CARIKOVÁ Zuzana		1	254,258,271,272,274,325,326,331,332,357,374,382,424,444,445,446,447
+164	ČUPA JÁN		1	182,271,272,274,292,297,299,325,326,331,332,465
+164	FERENC Juraj		1	185,452,478
+164	GERMALA Ján		1	271,272,274,282,291,325,326,331,332
+164	GUBČOVÁ Anna		1	389
+164	GUBČOVÁ Julia		1	389
+164	GUBČOVÁ Mária		1	389
+164	GUBČOVÁ Terezia		1	389
+164	Kostelnik Ján		1	271,272,274,325,326,331,332,355,370,451
+164	LOZIŇÁK Ján		1	185,452,478
+164	MAŇKO Andrej		1	264,267,268,271,272,274,325,326,331,332,426
+164	Maňko Michal		1	264,267,268,271,272,274,325,326,331,332,348,361
+164	MOCHNACKÝ Andrej		1	102,185,271,272,274,325,326,327,328,331,332,372,383,423,426,452,478
+164	MOCHNACKÝ Ján		1	102,271,272,274,325,326,327,328,331,332,372,383,396
+164	MOCHNACKÝ Peter		1	185,271,272,274,325,326,327,328,331,332,372,383,396,423,426,437,452,478
+164	MOKRIŠ Ján		1	346
+164	MOKRIŠ Peter		1	199,271,272,274,325,326,331,332,371
+164	MOKRIŠOVÁ Dorota, Vojčice, č. 222, Slovensko		0	271,272,274,282,325,326,331,332
+164	MOKRIŠOVÁ Zuzana		1	452
+164	PAVLIČKO Jozef		1	425
+164	PAVLIČKO Juraj		1	185,423,426,452,478
+164	PIZUR Peter		1	182
+164	PRITOKA Ján		1	336
+164	PRITOKA Jozef		1	336
+164	PRITOKA Peter		1	336
+164	ROHAĽ Peter		1	271,272,274,325,326,331,332,352,399,409,415
+164	ROHAĽ Vasil		1	271,272,274,325,326,331,332,352,399,409,415
+164	ROHAĽOVÁ Mária		1	271,272,274,325,326,331,332,352,399,409,415
+164	SYKOROVÁ Anna r. Cariková		1	251,271,272,274,325,326,331,332,469
+164	ŠUŤÁK Andrej		1	179,271,272,274,292,297,299,325,326,331,332,465
+164	Šuťák Michal		1	179,271,272,274,292,297,299,325,326,331,332,465
+164	ŠUŤÁKOVÁ Mária		1	179,271,272,274,292,297,299,325,326,331,332,465
+164	VACHTAROVÁ Mária r. Cariková		1	251,271,272,274,325,326,331,332,469
+164	ZAKUŤANSKÝ Ján		1	185,226,271,272,274,325,326,331,332,335,394,420,423,426,428,452,478
+164	ZAMBORSKÁ Maria		1	271,272,274,276,320,321,322,325,326,331,332,375,450
+164	ZAMBORSKÝ Jan		1	271,272,274,276,320,321,322,325,326,331,332,375,450
+164	ZAMBORSKÝ Juraj		1	271,272,274,276,320,321,322,325,326,331,332,375,450
+165	ÁCSOVÁ Helena r. Gyoriová		0	3221
+165	ANNUS Peter r. Annus	ž.Gizela r.Bognárová	0	3221
+165	Annusová Helena		0	2502
+165	ANNUSOVÁ Helena r. Krupková		0	3221
+165	BACHORECOVÁ Mária r. Csergeová		0	3153
+165	BALLA Gabriel		1	1595
+165	BALLA Gabriel r. Balla		0	2877
+165	BALLA Ján		1	1278
+165	BALLA Ján r. Balla		0	3221
+165	BALLA Karol	slabomyseľný	1	1278
+165	BALLA Karol r. Balla		0	3221
+165	BALLAOVÁ Alžbeta r. Kecskésová		0	3160
+165	BALLAOVÁ Irena		0	2888
+165	BALLAOVÁ Katarína r. Kuruczová		0	2787
+165	BALLAOVÁ Klára		0	3221
+165	BALLAOVÁ Mária r. Ilonová		1	1278,3221
+165	BILKO Jozef		1	1587
+165	BORSÁNYI Alexander		1	1736
+165	BORSÁNYIOVÁ Rebeka r. Mácsiková		0	3221
+165	CIGLEROVÁ Rozália r. Győriová		0	3221
+165	CSENGELOVÁ Helena r. Pšenáková		0	3221
+165	CSERGE Gejza r. Cserge		0	3163
+165	CSERGE Imrich r. Cserge		0	3221
+165	CSERGEOVÁ Mária r. Palusková		0	3221
+165	DEMO Ladislav		1	1195
+165	DEMO Ladislav r. Demo		0	3221
+165	DEMOVÁ Anna		1	1195,3221
+165	DURCOVICOVA Helena		0	3221
+165	ĎURČOVIČOVÁ Júlia r. Szabová		1	1404,2369,2630
+165	FARKAŠ Albert		1	1709
+165	FARKAŠOVÁ Júlia r. Lubuškiová		1	1709
+165	FEKECS Ernest r. Fekecs		0	3221
+165	GULYÁS Arpád		1	1595
+165	GULYÁS Arpád r. Gulyás		0	2604
+165	GULYÁSOVÁ Irena		1	1595,2657
+165	GYALOGHOVÁ Júlia r. Mácsiková		0	2693
+165	GYŐRI Ján r. Győri		0	3221
+165	GYŐRI Štefan r. Győri		0	3221
+165	GYŐRIOVÁ Alžbeta r. Markovičová		0	2706
+165	GYŐRIOVÁ Rozália		0	3221
+165	GYURCSOVICS Jozef r. Gyurcsovics		0	3221
+165	GYURCSOVICSOVÁ Gizela r. Kutiová		0	3221
+165	GYURCSOVICSOVÁ Margita r. Zsigová		0	2593
+165	HANZEL Peter r. Hanzel		0	3157
+165	HARCSAOVÁ Julianna r. Piskoová		0	2908
+165	ILON Benjamín r. Ilon		0	3221
+165	ILON František r. Ilon		0	3221
+165	ILON Ľudovít r. Ilon		0	3221
+165	ILON Ľudovít r. Ilon	ž.Rebeka r.Ilonová	0	3046
+165	ILONOVÁ Jolana r. Ballaová		0	3221
+165	ILONOVÁ Julianna r. Borsányiová		0	3130
+165	ILONOVÁ Mária r. Borsányiová		1	1736
+165	ILONOVÁ Terézia r. Vyskočilová		1	1870,1874
+165	Ilonová Vilma r. Borsányiová		1	1120,2497
+165	IPÓTHOVÁ Rebeka r. Gyalogová		0	3221
+165	JAKAB Gabriel r. Jakab		0	3221
+165	JAKABOVÁ Gizela		0	3221
+165	JAKABOVÁ Šarlota		0	3221
+165	JAKABOVÁ Zuzana		0	3221
+165	JEZSO Jozef r. Jezso		0	2993
+165	JEZSOVÁ Mária r. Szabadkaová		0	2729
+165	JÓBA Ondrej r. Jóba		0	3221
+165	JÓBOVÁ Anna r. Nyíróová		0	3221
+165	KASAOVÁ Rebeka r. Mácsiková		1	1741,3221
+165	KASZÁS František		1	1874
+165	KASZÁS Karol		1	1738,2466
+165	KASZÁS Karol r. Kaszás		0	2644
+165	KASZÁS Ladislav		1	1874,2465
+165	KASZÁS Ladislav r. Kaszás		0	3221
+165	KASZÁS Ľudovít		1	2466
+165	KASZÁS Ľudovít r. Kaszás		0	3221
+165	KASZÁS Štefan r. Kaszás		0	3040
+165	KASZÁSOVÁ Júlia r. Habarová		0	3221
+165	KASZÁSOVÁ Mária r. Sokolová		0	3221
+165	KECSKÉS Arnošt r. Kecskés		0	3067
+165	KECSKÉS František r. Kecskés		0	2616
+165	KECSKÉS Ľudovít r. Kecskés		0	3221
+165	KECSKÉSOVÁ Júlia r. Pšenáková		0	2950
+165	KECSKÉSOVÁ Mária r. Gyurcsovicsová		0	2870
+165	KOLLÁR Koloman r. Kollár	a KOLLÁROVÁ Gizela r.Birkušová	0	2750
+165	Kosdyová Mária r. Chovanecová	Hévíz, MR, zom.22.12.1990	0	2946
+165	KRKAN Ján r. Krkan		0	3221
+165	KUBOVICS Ladislav r. Kubovics		0	3221
+165	KURUCZ Benjamín	ž.Rebeka r.Borsányiová	1	1871
+165	KURUCZ Žigmund r. Kurucz		0	3184
+165	KURUCZOVÁ Alžbeta r. Gyalogová		1	1103,1765,2404,2778
+165	KURUCZOVÁ Jolana r. Somogyiová		0	2917
+165	KURUCZOVÁ Julianna r. Ipóthová		0	3221
+165	KURUCZOVÁ Julianna r. Máčiková		0	3221
+165	KURUCZOVÁ Katarína r. Kóšaová		0	2576
+165	KURUCZOVÁ Rebeka r. Borsányiová		1	1736,2945
+165	KURUCZOVÁ Rebeka r. Harcsaová		0	3221
+165	KURUCZOVÁ Zuzana r. Borsányiová		0	3115
+165	KVASZTULA Štefan	ž.Alžbeta r.Vazsáliková	1	1722,1724
+165	KVASZTULA Štefan r. Kvasztula		1	1720
+165	LAGIN František r. Lagin		0	2947
+165	LAGIN Jozef r. Lagin	a LAGINOVÁ Agneša r.Forgáčová	0	2650
+165	LAGINOVÁ Margita r. Vaneková		1	1610,1713,2858
+165	LAGINOVÁ Mária r. Szőkeová		0	3135
+165	MACIK Zigmund r. Macik		0	3221
+165	MÁCSIK Vojtech		1	1895
+165	MÁCSIK Vojtech r. Mácsik		0	3221
+165	MÁCSIK Zsigmund r. Macsik		0	2777
+165	MÁCSIKOVÁ Júlia r. Ballaová		1	1278,3221
+165	MÁČIK Ján r. Máčik		0	3221
+165	MÁČIK Július r. Máčik		0	3221
+165	Mačiková Julianna r. Ipóthová	Hurbanovo - Bohatá, zom.23.11.1975	0	2634
+165	MADARÁSZ Jozef r. Madarász		0	3221
+165	MADARÁSZ Štefan r. Madarász		0	3221

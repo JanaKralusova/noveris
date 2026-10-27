@@ -1,0 +1,256 @@
+3087	GABAĽ Eva		1	185
+3087	GABAĽ Helena	maloletá	1	185
+3087	GABAĽ Ileš		1	92,93,103,152,217,221,224
+3087	GABAĽ Illéš		1	189,207
+3087	GABAĽ Illéš	2	1	180
+3087	GABAĽ Illéš	3	1	180
+3087	GABAĽ Illéš	4	1	180
+3087	GABAĽ Ilona	1	1	180
+3087	GABAĽ Ilona	maloletá	1	189,207
+3087	GABAĽ Ivan		1	152,207,217,221,224
+3087	GABAĽ Ivan	2	1	180
+3087	GABAĽ Ivan	žena Škovrán Eva	1	76,92,93,103,152,180,189,207,217,221,224
+3087	GABAĽ Ján		1	186
+3087	GABAĽ Ján	1	1	205
+3087	GABAĽ Ján	2	1	205
+3087	GABAĽ Ján	4	1	185
+3087	GABAĽ Ján	5	1	180
+3087	GABAĽ Ján	6	1	180
+3087	GABAĽ Ján	maloletý	1	76,92,93,103,105,152,160,166,175,189,207,217,221,223,224,225
+3087	GABAĽ Mária		1	189
+3087	GABAĽ Mária	1	1	186
+3087	GABAĽ Mária	3	1	180
+3087	GABAĽ Mária	r. Rabajda	1	186
+3087	Gabaľ Michal		1	76,83,93,103,105,152,175,205,207,217,220,221,222,223,224
+3087	GABAĽ Michal	1	1	185
+3087	GABAĽ Michal	2	1	181
+3087	GABAĽ Olexa		1	152,207,217,221,224
+3087	GABAĽ Olexa	2	1	180
+3087	GABAĽ Pavol		1	186
+3087	GABAĽ Pavol	2	1	180
+3087	GABAĽ Pavol	maloletý	1	76,92,93,103,152,166,189,207,217,221,224,225
+3087	GABAĽ Peter		1	93
+3087	GABAĽ Peter	1	1	185
+3087	GABAĽ Peter	manželka Mária r. Mindžáková	1	93,185
+3087	GABAĽ Peter	žena Zelinka Mária	1	180
+3087	GABAĽ Štefan	1	1	205
+3087	GABAĽ Štefan	2	1	185
+3087	GABAĽ Vasiľ		1	92,189
+3087	GABAĽ Vasiľ	žena Mária Rabajda	1	187
+3087	GABAĽOVÁ Anna		1	76
+3087	GABAĽOVÁ Eva	r. Škovranová	1	76,92,93,103,152,207,217,221,224
+3087	GABALOVÁ Helena	r. Gabalová	1	205
+3087	GABAĽOVÁ Helena	maloletá	1	83,93,103,105,152,175,205,207,217,220,221,222,223,224
+3087	GABAĽOVÁ Helena	maloletá 1	1	181
+3087	GABAĽOVÁ Ilona	maloletá	1	92,93,103
+3087	GABAĽOVÁ Mária	maloletá	1	92,93,103,207
+3087	GABAĽOVÁ Mária	r. Rabajdová	1	164,166,187,225
+3087	GABAĽOVÁ Mária	r. Zelinková manžel Peter	1	76,92,93,103,152,189,207,217,221,224
+3087	GIMNÁ Anna	r. Firkaľ manžel Andrej	1	172
+3087	GUBOVÁ Mária	r. Kohútová manžel Michal	1	92
+3087	HUBCEJOVÁ Mária	r. Rabajdová vzdialená	1	83,93,103,181,186,220,222
+3087	HUDÁKOVÁ Helena	r. Salak	1	92,156,158,168,184,188,202,204
+3087	HUDINA Anna	r. Gojdič manžel Michal	1	189
+3087	HUDINA Fečo	1	1	180
+3087	HUDINA Fečo	2	1	92,93,103,152,207,217,221,224
+3087	HUDINA Fedor		1	76
+3087	HUDINA Michal		1	76,92,93,103,152,207,217,221,224
+3087	HUDINA Michal	2	1	180
+3087	CHRIPÁKOVÁ Anna	r.Kohútová manžel Andrej	1	92
+3087	JALČOVÁ Anna	r. Gabaľová	1	105,185,205
+3087	KAČÚROVÁ Anna	r. Savková	1	154,206
+3087	KOHÚT Ján		1	92
+3087	KOZA Anna	r. Bicko manžel Tomáš	1	101
+3087	LABOVÁ Mária	r. Gabaľ manžel Ivan	1	207
+3087	LAJZO Andrej		1	186
+3087	Lajzo Juraj, SR		0	177
+3087	LAJZO Michal		1	166,225
+3087	LAJZO Michal	1	1	201
+3087	LAJZO Michal	2	1	186
+3087	LAJZO Michal	3	1	186
+3087	Lašová Helena		1	101
+3087	LAZOR Mária	r. Lajzo	1	186
+3087	LAZOROVÁ Mária	r. Lajzo	1	166,225
+3087	Mihalič Milan, Lis 2N,Ajax, Ontario-Canada, SR		0	102
+3087	MUNIK Peter		1	154,206
+3087	Priganc Ivan	r.1958	1	102
+3087	Priganc Michal , Radvaň nad Laborcom, SR		1	102
+3087	Priganc Stanislav , Zb.Belá, SR		1	102
+3087	PRIGANCOVÁ Anna	maloletá	1	102
+3087	Prigancová Anna r. Holováčová, Zbudská Belá, č. 92, SR		0	102
+3087	PUŠKAR Mária	r. Savka	1	206
+3087	PUŠKAROVÁ Maria	r. Savková	1	154
+3087	RABAJDA Fedor		1	187
+3087	RABAJDA Fedor	neplnoletý	1	186
+3087	RABAJDA Helena	maloletá	1	186
+3087	RABAJDA Ján	2	1	186
+3087	RABAJDA Juraj		1	177
+3087	RABAJDA Michal		1	181
+3087	RABAJDA Michal	2	1	187
+3087	RABAJDA Michal	3	1	187
+3087	RABAJDA Michal	4	1	186
+3087	RABAJDA Michal	5	1	186
+3087	RABAJDA Michal	6	1	186
+3087	RABAJDA Michal	7	1	186
+3087	RABAJDA Michal	Alexov syn	1	184
+3087	RABAJDA Michal	manželka Zuzana Dobda	1	177
+3087	RABAJDA Michal	neplnoletý	1	186
+3087	RABAJDA Olexa		1	202
+3087	RABAJDA Peter		1	164
+3087	RABAJDA Peter	2	1	187
+3087	RABAJDA Peter	3	1	187
+3087	RABAJDA Šimon	maloletý	1	186
+3087	RABAJDA Zuzana		1	186
+3087	RABAJDOVÁ Helena		1	197
+3087	RABAJDOVÁ Helena	maloletá	1	83,93,181,220,222
+3087	RABAJDOVÁ Helena	nezletilá	1	186
+3087	RABAJDOVÁ Helena	r. Salaková	1	197
+3087	RABAJDOVÁ Iľa	r. Pajtáš manžel Andrej	1	103
+3087	RIMOVÁ Helena	r. Lajzo	1	166,177,186,225
+3087	RIMOVÁ Helena	r. Lajzo 1	1	201
+3087	SALÁK Andrej	st.,manželka Mária Revák	1	202
+3087	SALÁK Anna		1	197
+3087	SALÁK Anna	maloletá	1	172
+3087	SALÁK Anna	maloletá 1	1	182,219
+3087	SALAK Demeter		1	92
+3087	SALÁK Demeter	manželka Eva Gabaľ	1	180
+3087	SALÁK Eva	maloletá	1	202
+3087	SALAK Fedor		1	93
+3087	SALAK Fedor	manželka Elena r. Ambruch	1	83,93,170,209,220,222
+3087	SALÁK Fedor	Husarík	1	183
+3087	SALÁK Helena	maloletá	1	183
+3087	SALÁK Helena	maloletá 1	1	182,197,219
+3087	SALÁK Helena	r. Gabaľ	1	185
+3087	SALÁK Ilona	maloletá	1	197
+3087	SALÁK Ilona	maloletý	1	182,219
+3087	SALÁK Ivan		1	184
+3087	SALÁK Ivan	2	1	182,219
+3087	SALÁK Ivan	3	1	182,219
+3087	SALÁK Ivan	4	1	197
+3087	SALÁK Ivan	5	1	197
+3087	SALÁK Ivan	6	1	188
+3087	SALÁK Ivan	manželka Anna Rudík	1	177
+3087	SALÁK Juraj	maloletý	1	201
+3087	SALÁK Juraj	syn Jána, maloletý	1	177
+3087	SALAK Mária		1	93,197
+3087	SALÁK Mária	maloletá	1	202
+3087	SALÁK Mária	maloletá 1	1	172
+3087	SALÁK Mária	maloletá 2	1	183
+3087	SALÁK Mária	maloletá 3	1	182,219
+3087	SALÁK Mária	maloletá 4	1	182,219
+3087	SALÁK Mária	maloletá 5	1	197
+3087	SALÁK Mária	manžel Vasiľ Telepčák	1	197
+3087	SALAK Michal	1	1	181,205
+3087	SALAK Michal	syn Fedora	1	83,92,93,156,158,160,168,170,172,175,177,181,201,204,209,220,222,223
+3087	SALÁK Michal		1	178,183,184,188
+3087	SALÁK Michal	2	1	202
+3087	SALÁK Michal	3	1	182,197,219
+3087	SALÁK Michal	4	1	181
+3087	SALÁK Michal	Brestivčin	1	184
+3087	SALÁK Michal	maloletý	1	182,197,219
+3087	SALAK Mikuláš	maloletý	1	172,182,197,219
+3087	SALAK Mitro		1	156,188
+3087	SALAK Ondrej		1	83,181,220,222
+3087	SALÁK Ondrej	syn Jána maloletý	1	177
+3087	SALÁK Ondrej	ženatý s Annou Gabaľ	1	183
+3087	SALÁK Ondrej	ženatý s Máriou Beňo	1	183
+3087	SALAK Peter		1	92,156,158,168,184,188,204
+3087	SALÁK Peter	1	1	202
+3087	SALÁK Peter	manželka Mária Gabaľ	1	177
+3087	SALÁK Peter	ženatý s Máriou Gabaľ	1	183
+3087	SALAK Štefan		1	93
+3087	SALÁK Štefan	maloletý	1	183
+3087	SALÁK Štefan	manželka Elena r. Salák	1	93
+3087	SALÁK Štefan	manželka Mária Košuta	1	177
+3087	SALAK Teodor		1	83,93,204,220,222
+3087	SALAK Tivadar		1	103,166,186,225
+3087	SALÁK Tivadár	maloletý	1	172,182,219
+3087	SALAKOVÁ Anastázia	maloletá	1	92
+3087	SALAKOVÁ Eva	maloletá	1	156,158,168,188,204
+3087	SALAKOVÁ Eva	r. Gabaľ manžel Demeter	1	92,152,217,221,224
+3087	SALÁKOVÁ Helena	r. Gabalová	1	180
+3087	Saláková Helena, SR		0	177
+3087	SALAKOVÁ Mária	maloletá	1	92,156,158,168,172,181,184,188,204
+3087	SALAKOVÁ Zuzana	maloletá	1	172,182,197,219
+3087	SAVKA Andrej		1	154,206
+3087	SAVKA Fečo		1	180
+3087	SAVKA Fečo	2	1	92,93,103,152,189,207,217,221,224
+3087	SAVKA Fedor		1	76,154,206
+3087	SAVKA Ivan		1	154,206
+3087	SAVKA Michal		1	76,92,93,103,152,154,189,206,207,217,221,224
+3087	SAVKA Michal	2	1	180
+3087	SAVKA Peter		1	76,92,93,103,152,189,207,217,221,224
+3087	SAVKA Peter	2	1	180
+3087	SAVKOVÁ Mária	r. Prigancová	1	102
+3087	SEJKO Fedor		1	186
+3087	SERDULA Andrej		1	101
+3087	SERDULA Ivan		1	101
+3087	SERDULOVÁ Anna	r. Chomča	1	101
+3087	SIKALOVÁ Zuzana	r. Salaková	1	92,158,204
+3087	SIVÁ Helena	r. Lajzo	1	186
+3087	SLIVKA Mária	r. Salák 1	1	183
+3087	SLIVKOVÁ Mária	r. Saláková	1	204
+3087	SOLEJ Ivan	syn Juraja	1	154
+3087	SOTÁK Anna	r. Rabajda	1	186
+3087	SOTÁK Demeter		1	203
+3087	SOTÁK Helena	r. Salák	1	183,204
+3087	SOTÁK Ján	maloletý	1	205
+3087	SOTÁK Ján	maloletý 1	1	185
+3087	SOTÁK Mária	r. Salák	1	178,205
+3087	Soták Vladimír	r.1940	1	162
+3087	SOTÁKOVÁ Mária	r. Salaková	1	160,175,223
+3087	ŠKOVRÁN Eva		1	180
+3087	ŠKOVRANOVÁ Mária	r. Vatašinová 1	1	172
+3087	ŠKOVRANOVÁ Mária	r. Vatašinová 2	1	182,197,219
+3087	ŠPIRŇÁKOVÁ Anna	r. Salaková	1	92
+3087	Štulířová Mária r. Gabaľová, SR		0	180
+3087	TELEPČÁK Vasiľ	manželka Mária Salák	1	182,219
+3087	TELEPČÁKOVÁ Maria	r. Salák manžel Andrej	1	172
+3087	VID Ján		1	103
+3087	VOROBEĽ Andrej		1	76,92,93,103,152,189,207,217,221,224
+3087	VOROBEĽ Andrej	2	1	180
+3087	VOROBEĽ Mária	1	1	180
+3087	VOROBEĽ Vasiľ		1	76,92,93,103,152,189,207,217,221,224
+3087	VOROBEĽ Vasiľ	2	1	180
+3087	VOROBEĽ Vasiľ	3	1	180
+3087	VOROBEĽOVÁ Maria		1	76,92,93,103,152,189,207,217,221,224
+3087	ZAULERIČOVÁ Ilona	r. Salak manžel Michal	1	92
+3087	ZELINKA Eva	r. Savka	1	154,206
+3088	BLANÁR Ján	zomrel	1	615,663
+3088	BLANÁR Juraj	zomrel	1	663
+3088	BLANÁR Michal	zomrel	1	615,639,664,824,826,973,976
+3088	BLANÁR Vasiľ, SR	žena Helena r.Timčisková	0	613
+3088	BOHÁČOVÁ Anna r. MIKULOVÁ, SR	zomrela	1	680
+3088	DAŇKO Michal	zomrel	1	641,664,826
+3088	DAŇKO Mikuláš	zomrel	1	641,664,826
+3088	DAŇKOVÁ Anna r. GIROVSKÁ, SR	zomrela	1	655,1080
+3088	DAŇKOVÁ Mária	zomrela	1	641,664,826
+3088	DAŇKOVÁ Zuzana	zomrela	1	641,664,826
+3088	DEMČO Ján		1	951
+3088	DEMČO Ján	zomrel	1	619,951
+3088	DEMČO Ján, SR	ž. Helena r. MATVEJOVÁ	1	619
+3088	DEMČO Vasiľ	zomrel	1	619,951
+3088	DEMČOVÁ Anna	zomrela	1	619,951
+3088	DEMKOVÁ Mária r. DAŇKOVÁ, SR	zomrela	1	641,664,826
+3088	DRAGUNOVÁ Elena r. HRICOVÁ, SR	zomrela	1	662
+3088	DURKOŠ Michal	zomrel	1	628,1022,1023,1079
+3088	DVORČÁKOVÁ Zuzana r. MIKULOVÁ, SR	zomrela	1	641,664,826
+3088	GIROVSKÁ Anna	zomrela	1	617,618
+3088	GIROVSKÁ Júlia	zomrela	1	640,823,974,975,1081
+3088	GIROVSKÁ Mária r. BRUGOŠOVÁ, SR	zomrela	1	663
+3088	GIROVSKÁ Terézia r. KAŇUKOVÁ	zomrela	1	654
+3088	GIROVSKÝ Ján	zomrel	1	617,618,655,1080
+3088	GIROVSKÝ Jozef	zomrel	1	617,618
+3088	GIROVSKÝ Michal	zomrel	1	617,655,1080
+3088	GIROVSKÝ Peter		1	654
+3088	GIROVSKÝ Peter	zomrel	1	655,1080
+3088	GIROVSKÝ Vasiľ	zomrel	1	617,655,666,677,1080
+3088	Grécko -katolícka farnosť		1	616
+3088	HAJDUKOVÁ Mária r. GIROVSKÁ, SR	zomrela	1	655,1080
+3088	HAVAJOVÁ Mária r. BLANÁROVÁ, SR	zomrela	1	615
+3088	HRIC Juraj, SR	zomrel,,ž Mária r BURÁKOVÁ	1	662
+3088	HUDÁK Ján		1	619,951
+3088	HUSÁROVÁ Anna r. ŠTENKOVÁ, SR	zomrela	1	632,659,821,828
+3088	KAŇUK Jozef	žena Anna r. Timošková	0	689
+3088	KAŇUK Michal, SR	zomrel, ,ž Anna r BADANKOVÁ	1	677
+3088	KIZÁKOVÁ Paraska r. DEMČOVÁ zomrela,SPF		1	951

@@ -1,0 +1,256 @@
+2265	Munz Samuel		1	744
+2265	Obušek Andrej		1	520,618,642,695,697,754,761,764,797,807,832,849,865,872,874,875
+2265	OBUŠEK Ján		1	618,642,657,671,672,730,744,762,832,849,853,865,872,874,875,876,883,915,922,923
+2265	Obušek Jozef		1	618,657,672,730,762,832,849,865,872,874,875,915,922,923
+2265	Obušek Michal		1	642
+2265	Obušek Pavol		1	618,623,625,657,671,672,730,744,762,783,813,832,845,849,853,856,865,872,874,875,876,883,915,922,923,940,941,942,946,954,955,956,965,967
+2265	Obušeková Alžbeta		1	618,657,671,672,730,744,762,832,849,853,865,872,874,875,876,883,915,922,923
+2265	Obušeková Anna		1	642
+2265	OBUŠEKOVÁ Mária		1	642
+2265	Obušeková Paulína		1	618,672,730,762,832,849,865,872,874,875,915,922,923
+2265	Ondiaková Anna r. Harčarová		1	618,623,625,707,708,783,813,817,820,821,832,845,849,856,865,872,874,875,940,941,942,946,954,955,956,965,967
+2265	Ondkanin Ján		1	794
+2265	ONUFER Ján		1	618,832,849,865,872,874,875
+2265	ONUFEROVÁ Anna		1	627,676,711,744,746,916
+2265	Onuferová Mária r. Harčarová		1	618,832,849,865,872,874,875
+2265	PAGÁČ Andrej		1	618,689,832,849,865,872,874,875
+2265	Pekariková Anna r. Obušeková		1	618,832,849,865,872,874,875
+2265	Petruľak Michal		1	618,688,805,832,849,865,872,874,875,950,951
+2265	Petruľaková Mária r. Kahaničová		1	618,688,805,832,849,865,872,874,875,950,951
+2265	Pivovarníková Mária r. Onuferová		1	618,676,832,849,865,872,874,875,916
+2265	Popov Matyáš Jozef		1	805
+2265	Prokop Fedor		1	618,832,849,865,872,874,875
+2265	PROKOPOVIČ Štefan		1	657
+2265	Proroková Mária r. Adamčíková		1	618,832,849,865,872,874,875
+2265	Rapaport Jakub		1	746
+2265	Rubin Izrael		1	619,744
+2265	Rubin Izvada		1	619
+2265	Rubin Mozeš		1	619
+2265	Rubinová Sara		1	744
+2265	SKONC Ján		1	618,688,832,849,865,872,874,875,950,951
+2265	Skoncová Zuzana r. Skoncová		1	618,688,832,849,865,872,874,875,950,951
+2265	Sova Andrej		1	627,789
+2265	Sova Michal		1	618,832,849,865,872,874,875
+2265	Sova Peter		1	618,623,625,663,744,776,780,783,809,813,828,832,845,849,856,865,872,874,875,940,941,942,946,954,955,956,965,967
+2265	STAŠ Ján		1	618,623,625,688,783,813,832,845,849,856,865,872,874,875,940,941,942,946,950,951,954,955,956,965,967
+2265	Staš Pavol		1	618,832,849,865,872,874,875
+2265	Stašová Mária r. Tomčíková		1	800,801
+2265	Stašová Zuzana r. Hudáková		1	618,666,832,849,865,872,874,875,936
+2265	ŠIMA Andrej		1	520,618,662,695,697,754,761,764,797,807,832,849,865,872,874,875,897
+2265	Šimová Anna r. Tomčíková		1	618,666,832,849,865,872,874,875,936
+2265	Škvareková Mária		1	787,788
+2265	Šmicigová Mária r. Džubaková		1	627
+2265	Šoltésová Anna r. Mihalčinová		1	618,620,832,849,865,872,874,875,937
+2265	Šoltésová Zuzana r. Mihalčinová		1	696,744
+2265	Šoltísová Mária r. Onuferová		1	657
+2265	Šoltýs Ján		1	618,690,772,832,849,865,872,874,875,926
+2265	ŠOLTÝS Jozef		1	618,690,772,832,849,865,872,874,875,926
+2265	Šoltýs Juraj		1	618,690,772,832,849,865,872,874,875,926
+2265	Šoltysová Anna		1	618,690,772,832,849,865,872,874,875,926
+2265	Šoltysová Anna r. Onuferová		1	618,832,849,865,872,874,875
+2265	Tomčík Michal		1	801
+2265	Tomčisková Anna		1	642
+2265	TVARDZIK Jozef		1	618,832,849,865,872,874,875
+2265	Tvardzík Jozef, Kurima, č. 161, Slovensko		0	783
+2265	Tvardziková Anna r. Stašová		1	618,623,625,783,813,832,845,849,856,865,872,874,875,940,941,942,946,954,955,956,965,967
+2265	Tvardziková Mária		1	618,664,832,849,865,872,874,875,914
+2265	Tvardziková Zuzana r. Stašová		1	618,661,665,832,849,865,872,874,875,899,900,908
+2265	Vančáková Anna r. Grohoľová		1	618,689,832,849,865,872,874,875
+2265	VAŠKO Andrej		1	791
+2265	Vojčík Ján		1	652,870
+2265	VOJTEK Ján		1	618,832,849,865,872,874,875
+2265	VOJTEK Jozef		1	618,632,633,680,681,710,748,810,832,848,849,865,872,874,875,970
+2265	Vojteková Alžbeta r. Obušeková		1	520,618,695,697,754,761,764,797,807,832,849,865,872,874,875
+2265	Weinfeldová Anna r. Munzová		1	744
+2266	ADÁMEK Ján		0	2261
+2266	ADÁMEK Ján	mal	1	1856
+2266	ADÁMEK Ján	OR 2	1	1849
+2266	ADÁMEK Ján	Pavlov syn	1	1851
+2266	ADÁMEK Ján, syn Pavla a Anny r.Vičíkovej syn Pavla a Anny r.Vičíkovej		0	3246
+2266	ADÁMEK Ján, syn Samuela a Anny r.Tallo,choromyseľný syn Samuela a Anny r.Tallo,choromyseľný		0	2344
+2266	ADÁMEK Milan	syn Jána II	1	1854
+2266	ADÁMEK Pavol	mal	1	1856
+2266	ADÁMEK Pavol, syn Jána a Anny r.Vičíkovej syn Jána a Anny r.Vičíkovej		0	3246
+2266	ADÁMKOVÁ Alžbeta, dcéra Štefana a Kristíny r.Sovišovej dcéra Štefana a Kristíny r.Sovišovej		0	2579
+2266	ADÁMKOVÁ Anna r. Marková	Štefanova	1	1849,1856,1874
+2266	ADÁMKOVÁ Anna r. Marková, m.Štefan m.Štefan		0	2408
+2266	ADÁMKOVÁ Anna, dc.Samuela a Anny r.Tallovej dc.Samuela a Anny r.Tallovej		0	2344
+2266	ADÁMKOVÁ Anna, dc.Štefana a Kristíny r.Sovišovej dc.Štefana a Kristíny r.Sovišovej		0	2299
+2266	ADÁMKOVÁ Katarína, dc.Št.a Kristíny r.Sovišovej,hluchonemá dc.Št.a Kristíny r.Sovišovej,hluchonemá		0	3186
+2266	ADÁMKOVÁ Kristína r. Kutková, m.Štefan m.Štefan		0	3246
+2266	ADÁMKOVÁ Kristína r. Tallová		0	3244
+2266	ADÁMKOVÁ Kristína r. Tallová, m.Ján,pôv.vl. m.Ján,pôv.vl.		0	2293
+2266	BABIAR Daniel, ž.Anna r.Černáková,pôv.vl. ž.Anna r.Černáková,pôv.vl.		0	2768
+2266	BABIAR Martin, ž.Zuzana r.Sládeková ž.Zuzana r.Sládeková		0	3153
+2266	BABIAR Pavol, b b		0	3269
+2266	BABIAR Pavol, syn Štefana,pôv.vl. syn Štefana,pôv.vl.		0	2324
+2266	BABIAR Pavol, ž.Anna r.Šestáková ž.Anna r.Šestáková		0	2247
+2266	BABIAR Pavol, ž.Anna r.Škarítková,pôv.vl. ž.Anna r.Škarítková,pôv.vl.		0	2292,3096
+2266	BABIAR ŠTEFAN		0	3233
+2266	BABIAR Štefan, syn Daniela a Anny r.Černákovej syn Daniela a Anny r.Černákovej		0	2630
+2266	BABIÁR Štefan, ž.Kristína r.Černáková,pôv.vl. ž.Kristína r.Černáková,pôv.vl.		0	2820,3233
+2266	BABIAR Štefan, ž.Zuzana r.Škarítková ž.Zuzana r.Škarítková		0	2254
+2266	BABIAROVÁ Alžbeta r. Dugová, m.Ján m.Ján		0	2324
+2266	BABIAROVÁ Alžbeta r. Kuricová		0	2293
+2266	BABIAROVÁ Alžbeta r. Kuricová, vd.,m.bol Štefan,pôv.vl. vd.,m.bol Štefan,pôv.vl.		0	2815
+2266	BABIAROVÁ Anna r. Škarítková, m.Pavol,pôv.vl. m.Pavol,pôv.vl.		0	2851
+2266	BABIAROVÁ Anna, dcéra Štefana a Zuzany r.Sadákovej dcéra Štefana a Zuzany r.Sadákovej		0	2762
+2266	BABIAROVÁ Zuzana r. Sadáková, m.Štefan m.Štefan		0	2420
+2266	BABIAROVÁ Zuzana r. Škarítková, m.Štefan m.Štefan		0	2254
+2266	BABINCOVÁ Alžbeta r. Cíliková		1	1851,2193
+2266	BABINCOVÁ Alžbeta r. Cilíková, m.Pavol m.Pavol		0	3003
+2266	BABINCOVA ANNA EMILIA, USA		0	379
+2266	BABINCOVÁ Anna r. Štefulová, m.Pavol m.Pavol		0	2665
+2266	BABINCOVÁ Emília Anna		0	2455
+2266	BABINEC Ján, ž.Anna r.Kubíková ž.Anna r.Kubíková		0	2241
+2266	BABINEC Ján, ž.Kristína r.Ušiaková ž.Kristína r.Ušiaková		0	3185
+2266	BABINEC Pavol	ml	1	1851,2193
+2266	BABINEC Pavol, po Anna r.Adámková,m.Štefan po Anna r.Adámková,m.Štefan		0	2727
+2266	BABINEC Pavol, ž.Anna r.Štefulová ž.Anna r.Štefulová		0	2241
+2266	BABULICOVÁ Anna r. Boháčová		0	2268
+2266	BABULICOVÁ Anna r. Boháčová, PKV 6644 PKV 6644		0	2248,3137
+2266	BACHAR Ján		0	2268
+2266	BACHÁR Ján, ž.Anna r.Boháčová,pôv.vl. ž.Anna r.Boháčová,pôv.vl.		0	3166
+2266	BACHÁR Ján, ž.Zuzana r.Marková ž.Zuzana r.Marková		0	2544
+2266	BACHÁR Martin, syn Jána a Anny r.Boháčovej,pôv.vl. syn Jána a Anny r.Boháčovej,pôv.vl.		0	3166
+2266	BACHÁR Martin, ž.Zuzana r.Marková ž.Zuzana r.Marková		0	3172
+2266	BACHÁR Pavel, ž.Zuzana r.Jurášová ž.Zuzana r.Jurášová		0	2986
+2266	BACHÁR Pavel, ž.Zuzana r.Potúčková ž.Zuzana r.Potúčková		0	3215
+2266	BACHÁR Pavol, ž.Judita r.Kubovičová ž.Judita r.Kubovičová		0	3172
+2266	BACHÁR Pavol, ž.Kristína r.Ištoková ž.Kristína r.Ištoková		0	2582,3267
+2266	BACHÁR Samuel, syn Jána a Anny r,Boháčovej,pôv.vl. syn Jána a Anny r,Boháčovej,pôv.vl.		0	3166
+2266	BACHÁR Štefan, syn Jána a Anny r.Boháčovej,pôv.vl. syn Jána a Anny r.Boháčovej,pôv.vl.		0	3266
+2266	BACHÁR Štefan, syn Štefana syn Štefana		0	3133
+2266	BACHÁROVÁ Alžbeta r. Bachárová, m.Štefan m.Štefan		0	3172
+2266	BACHAROVÁ Anna r. Tallová, n. 26.8.1908 n. 26.8.1908		0	2342,2693
+2266	BACHÁROVÁ Anna, dcéra Jána a Anny r.Boháčovej,pôv.vl. dcéra Jána a Anny r.Boháčovej,pôv.vl.		0	3266
+2266	BACHÁROVÁ Judita r. Kubovičová, m.Pavol m.Pavol		0	2470
+2266	BACHÁROVÁ Judita, dcéra Jána a Anny r.Boháčovej,pôv.vl. dcéra Jána a Anny r.Boháčovej,pôv.vl.		0	3166
+2266	BACHÁROVÁ Zuzana r. Bachárová, m.Martin m.Martin		0	3172
+2266	BACHÁROVÁ Zuzana r. Potúčková, m.Pavel m.Pavel		0	2405
+2266	BACHÁROVÁ Zuzana, dcéra Jána a Anny r.Boháčovej,pôv.vl. dcéra Jána a Anny r.Boháčovej,pôv.vl.		0	3166
+2266	BALÁŽOVÁ Anna r. KADLEČÍKOVÁ	manž. Ján	1	1844
+2266	BALÁŽOVÁ Anna r. Kadlečíková, m.Ján m.Ján		0	3261
+2266	BARAN Michal		0	3186
+2266	BARAN Michal, ž.Anna r.Sovišová ž.Anna r.Sovišová		0	2772
+2266	BARÁNEK Pavol, ž.Katarína r.Prívradská ž.Katarína r.Prívradská		0	3073
+2266	BARÁNEK Štefan, ž.Anna r.Marečková,pôv.vl. ž.Anna r.Marečková,pôv.vl.		0	2270
+2266	BARÁNKOVÁ Zuzana r. Potúčková, m.Michal m.Michal		0	2794
+2266	BARANOVÁ ANNA r. SOVIŠOVÁ		1	1158
+2266	BEDNÁROVÁ Anna r. Ščibrányiová		0	2825
+2266	BEDNÁROVÁ Anna r. Ščibrányiová, m.Štefan, Brezová 410 m.Štefan, Brezová 410		0	2738
+2266	BELANOVÁ Alžbeta r. Tallová		0	2247
+2266	BELENČIAKOVÁ Anna, dcéra Pavla dcéra Pavla		0	2244
+2266	BLAHOVÁ Anna r. Suchovská, m.Ján m.Ján		0	2336
+2266	BLAHOVÁ Kristína r. Tallová		0	3193
+2266	BLATNÁK Samuel, ž.Zuzana r.Borovská ž.Zuzana r.Borovská		0	2268
+2266	BLATNÁKOVÁ Zuzana r. Borovská, m.Samuel m.Samuel		0	2268
+2266	BOBÍK Juraj, syn Juraja a Alžbety r.Vičíkovej syn Juraja a Alžbety r.Vičíkovej		0	2781
+2266	BOBÍK Juraj, ž.Anna r.Vičíková,už vdovec,pôv.vl. ž.Anna r.Vičíková,už vdovec,pôv.vl.		0	2284
+2266	BOBÍKOVÁ Alžbeta r. Vičíková, m.Juraj m.Juraj		0	2700
+2266	BOBÍKOVÁ Alžbeta, dc.Juraja a Kristíny r.Vičíkovej,pôv.vl. dc.Juraja a Kristíny r.Vičíkovej,pôv.vl.		0	2284
+2266	BOHÁČ Ján		0	3098
+2266	BOHÁČ Ján	I	1	1899
+2266	BOHÁČ Ján, mal.,po Pavlovi mal.,po Pavlovi		0	2878
+2266	BOHÁČ Ján, syn Jána a Kristíny r.Kadlečíkovej,mal. syn Jána a Kristíny r.Kadlečíkovej,mal.		0	2299
+2266	BOHÁČ Ján, ž.Alžbeta r.Babincová ž.Alžbeta r.Babincová		0	2280
+2266	BOHÁČ Ján, ž.Katarína r.Marečková ž.Katarína r.Marečková		0	2894
+2266	BOHÁČ Michal, z z		0	3260
+2266	BOHÁČ Michal, ž.Alžbeta r.Vojteková ž.Alžbeta r.Vojteková		0	2996
+2266	BOHÁČ Michal, ž.Kristína r.Otrubčiaková ž.Kristína r.Otrubčiaková		0	3234
+2266	BOHÁČ Pavol, ž.Zuzana r.Kubíková ž.Zuzana r.Kubíková		0	2338,2965
+2266	BOHAČOVÁ Alžbeta		0	3236
+2266	BOHÁČOVÁ Alžbeta r. Babiarová		1	1830
+2266	BOHÁČOVÁ Alžbeta r. Babincová, neznáma neznáma		0	3234
+2266	BOHÁČOVÁ Alžbeta, dcéra Daniela,syna,Kristíny r.Kuricovej dcéra Daniela,syna,Kristíny r.Kuricovej		0	2246,3139
+2266	BOHÁČOVÁ Alžbeta, dcéra Michala a Kataríny r.Borovskej dcéra Michala a Kataríny r.Borovskej		0	2963
+2266	BOHÁČOVÁ Anna		0	2338
+2266	BOHAČOVÁ Anna r. Boháčová		0	2336
+2266	BOHÁČOVÁ Anna r. Boháčová, m.Ján m.Ján		0	2404
+2266	BOHÁČOVÁ Anna, dcéra Daniela,syna Kristíny r.Kuricovej dcéra Daniela,syna Kristíny r.Kuricovej		0	2246,2911
+2266	BOHÁČOVÁ Emília, dcéra Michala a Kataríny r.Borovskej dcéra Michala a Kataríny r.Borovskej		0	2619
+2266	BOHÁČOVÁ Katarína, dcéra Michala a Kataríny r.Borovskej dcéra Michala a Kataríny r.Borovskej		0	2822
+2266	BOHÁČOVÁ Kristína, dcéra Michala a Kataríny r.Borovskej dcéra Michala a Kataríny r.Borovskej		0	2900
+2266	BOHÁČOVÁ Zuzana, mal.,pôv.vl. mal.,pôv.vl.		0	3000,3215
+2266	BOOR PAVOL		0	156
+2266	BOOROVÁ Alžbeta r. Zmeková		0	3074,3215
+2266	BOOROVÁ Kristína r. Adámková, m.Ján m.Ján		0	2284
+2266	BORÍK Ján		0	2330
+2266	BORÍK Pavol, syn Štefana a Judity r.Maronovej syn Štefana a Judity r.Maronovej		0	2803
+2266	BORIK Štefan, ž.Judita r.Maronová,pôv.vl. ž.Judita r.Maronová,pôv.vl.		0	2758
+2266	BOROVSKÝ Ján		0	3260
+2266	BOROVSKÝ Ján, po Ján a Alžbeta r.Bukovčanová po Ján a Alžbeta r.Bukovčanová		0	2414
+2266	BOROVSKÝ Ján, syn Pavla,pôv.vl. syn Pavla,pôv.vl.		0	2962
+2266	BOROVSKÝ Ján, ž.Anna r.Adámková ž.Anna r.Adámková		0	3061
+2266	BOROVSKÝ Pavol		0	3194
+2266	BOROVSKÝ Samuel, ž.Anna r.Blatniaková ž.Anna r.Blatniaková		0	2760
+2266	BOROVSKÝ Štefan		0	3260
+2266	BOROVSKÝ Štefan, syn Štefana a Anny r.Slanej,pôv.vl. syn Štefana a Anny r.Slanej,pôv.vl.		0	2993
+2266	BUČENCOVÁ Alžbeta r. Valášková, m.Ján m.Ján		0	2300,2863
+2266	BUNČIAK Martin		0	3182
+2266	BUNČIAK Martin, ž.Anna r.Humeníková ž.Anna r.Humeníková		0	2265
+2266	BUNČIAK Martin, ž.Zuzana r.Siváčková ž.Zuzana r.Siváčková		0	2496
+2266	Bunčiak Pavol	ž. Anna r Boorová	1	1884
+2266	BUNČIAK Pavol		0	2312
+2266	BUNČIAK Pavol r. Boor., ž.Alžbeta r.Juhásiková,pred.Anna ž.Alžbeta r.Juhásiková,pred.Anna		0	2843
+2266	BUNČIAK Štefan		1	1604
+2266	BUNČIAK Štefan	ž. Anna r. Boorová	1	1861
+2266	BUNČIAK Štefan, 1 1		0	3246
+2266	BUNČIAK Štefan, i i		0	2312
+2266	BUNČIAK Štefan, ž.Anna r.Boorová ž.Anna r.Boorová		0	2539
+2266	BUNČIAKOVÁ Anna r. Humeníková, m.Martin m.Martin		0	2559
+2266	BUNČIAKOVÁ Anna r. Juhásiková, m.Pavol m.Pavol		0	3238
+2266	BUNČIAKOVÁ Kristína r. Babiarová, m.Štefan m.Štefan		0	3024
+2266	BUNČIAKOVÁ Kristína r. Šestáková, m.Pavol m.Pavol		0	2444
+2266	BUNČIAKOVÁ Kristína r. Žemlová		1	1849,1861,2312
+2266	BUNČIAKOVÁ Kristína r. Žemlová, m.Pavol m.Pavol		0	2973
+2266	BUNČIAKOVÁ Zuzana r. Siváčková, m.Martin,pôv.vl. m.Martin,pôv.vl.		0	2775
+2266	BUNOVÁ Anna r. Vičíková		0	3143
+2266	BUNOVÁ Anna r. Vičíková	USA	1	1575
+2266	CIBULKOVÁ Zuzana r. Kozelková, po Michalovi po Michalovi		0	2692
+2266	CIBULKOVÁ ZUZANA r. KOZELKOVÁ, SR	USA	1	1176
+2266	ČERNÁKOVÁ Anna r. Kozelková, po Michalovi po Michalovi		0	2352
+2266	ČERNÁKOVÁ ANNA r. KOZELKOVÁ, SR	USA	1	1176
+2266	ČUVALA Ján, ž.Kristína r.Bobíková,pôv.vl. ž.Kristína r.Bobíková,pôv.vl.		0	3036
+2266	ČUVALOVÁ Katarína r. Bobíková, m.Pavol,pôv.vl. m.Pavol,pôv.vl.		0	2284
+2266	ČUVALOVÁ Kristína r. Bobíková, m.Ján m.Ján		0	2795
+2266	ČUVALOVÁ Kristína r. Bobíková, m.Ján,pôv.vl. m.Ján,pôv.vl.		0	2284
+2266	DINGA Ján, ž.Anna r.Pakanová ž.Anna r.Pakanová		0	2699
+2266	DINGA Ján, ž.Zuzana r.Sládečková, sc.168 ž.Zuzana r.Sládečková, sc.168		0	3052
+2266	DINGA Štefan, syn Jána a Zuzany r.Vlčkovej syn Jána a Zuzany r.Vlčkovej		0	2774
+2266	DINGOVÁ Alžbeta r. Sadáková, m.Pavol m.Pavol		0	2321
+2266	DINGOVÁ Anna, dcéra Jána a Zuzany r.Vlčkovej,pôv.vl. dcéra Jána a Zuzany r.Vlčkovej,pôv.vl.		0	2476
+2266	DINGOVÁ Zuzana r. Sládečková, m.Ján, sc. 168 m.Ján, sc. 168		0	2871
+2266	DRŽKA Ján, syn Jána a Zuzany r.Potúčkovej syn Jána a Zuzany r.Potúčkovej		0	2254
+2266	DRŽKOVÁ Darina r. Závodná		0	2254
+2266	DUDÁK Ján, ž.Kristína r.Rapantová ž.Kristína r.Rapantová		0	2288,2334
+2266	DUGÁČEK Ján, ž.Anna r.Grečnanová ž.Anna r.Grečnanová		0	2309
+2266	DUGÁČEK Pavol, ž.Alžbeta r.Kulíšková ž.Alžbeta r.Kulíšková		0	3196
+2266	DUGÁČEK Pavol, ž.Anna r.Kubovčiaková ž.Anna r.Kubovčiaková		0	2309
+2266	DUGÁČEK Štefan, ž.Katarína r.Sabová ž.Katarína r.Sabová		0	3195
+2266	DUGOVÁ Anna r. Potúčková, m.Ján m.Ján		0	2575
+2266	DURCOVÁ Anna r. Boháčová, neznáma neznáma		0	3234
+2266	DURCOVÁ Anna r. Zuščicová		0	2273
+2266	DUREC Ján, ž.Alžbeta r.Kulíšková ž.Alžbeta r.Kulíšková		0	2445
+2266	ĎUROŠKOVÁ Kristína, dcéra Jána dcéra Jána		0	2417
+2266	FIGURA Ján, 1 1		0	2266
+2266	FIGURA Ján, c c		0	3248
+2266	FIGURA Ján, l l		0	2239
+2266	FIGURA Ján, o o		0	3246
+2266	FIGURA JÁN, SR		0	806
+2266	FIGURA Ján, syn Jána a Kristíny r.Horniačkovej syn Jána a Kristíny r.Horniačkovej		0	2282,2873
+2266	Figura Michal r. Figura a Anna Figurová r. Koláriková		0	426
+2266	FIGURA MICHAL, SR		0	425
+2266	FIGURA Štefan		0	3246
+2266	FIGURA ŠTEFAN, SR		0	806
+2266	FIGURA Štefan, syn Jána a Kristíny r.Horniačkovej syn Jána a Kristíny r.Horniačkovej		0	3019
+2266	FIGURA Štefan, syn Štefana a Anny r.Kuricovej syn Štefana a Anny r.Kuricovej		0	3077
+2266	FIGUROVÁ ANNA r. KOLÁRIKOVÁ, SR		0	425
+2266	FOLTINOVÁ Zuzana r. Kutková		0	3051
+2266	FOLTINOVA ZUZANA r. KUTKOVA, SR		0	538
+2266	GÁLIK Pavol, syn Pavla a Anny r.Mertlovej syn Pavla a Anny r.Mertlovej		0	3210
+2266	GÁLIK Vladimír, syn Štefana,syna Anny r.Mertlovej syn Štefana,syna Anny r.Mertlovej		0	2312
+2266	GÁLIKOVÁ Alžbeta, dcéra Pavla a Anny r.Mertlovej dcéra Pavla a Anny r.Mertlovej		0	3210
+2266	GÁLIKOVÁ Anna, dcéra Štefana,syna Anny r.Mertlovej dcéra Štefana,syna Anny r.Mertlovej		0	3210
+2266	HALUŠKOVÁ Anna r. Sládková, m.Ján,pôv.vl. m.Ján,pôv.vl.		0	2841
+2266	HODÚL Ján, ž.Zuzana r.Kadlečíková ž.Zuzana r.Kadlečíková		0	2964

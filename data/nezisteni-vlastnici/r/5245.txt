@@ -1,0 +1,256 @@
+2953	REPICKA Veronika	ROD. NIZNANSKA	1	2322
+2953	RICHTER Jan	ZOMREL	1	3255
+2953	RICHTEROVA Julia	ROD.MAZANKOVA,ZOMRELA	1	3255
+2953	ROTH Aurelia	ROD.PERL,ZOMRELA	1	2967
+2953	RUZICKOVA Helena	ROD.PREINEROVA,ZOMRELA	1	2855
+2953	SABO Frantisek	ZOMREL	1	2831
+2953	SABO Jozef	ZOMREL	1	3024
+2953	SABO Michal	ZOMREL,[Z.PAVLINA R.HOMOLOVA-STOLAROVA]	1	2947
+2953	SABOVA Anna	ROD.CEPCOVA,ZOMRELA	1	2510,3112
+2953	SABOVA Maria	ROD.SKULOVA,ZOMRELA	1	3383
+2953	SEBENA Anton	ZOMREL	1	1250,2923,3896
+2953	SEBENA Frantisek	ZOMREL	1	1250,2923,3896
+2953	SEBENA Jozef	ZOMREL	1	1250,2923,3896
+2953	SEDIVY Lukas	ZOMREL	1	2501
+2953	SEDIVY Michal	ZOMREL	1	2502
+2953	SEIBL Vladimir		1	399
+2953	SCHVARC Karol	ZOMREL	1	3185
+2953	SCHWARZ Gejza	ZOMREL	1	3397
+2953	SCHWARZ Pavol	ZOMREL	1	3397
+2953	SCHWARZ Stefan	ZOMREL	1	3397
+2953	SIKLIENKA Alojz	ZOMREL	1	3305
+2953	SIKLIENKA Stefan	ZOMREL	1	2827
+2953	SIKLIENKOVA Maria	ROD.BIELIKOVA,ZOMRELA	1	457
+2953	SROBAROVA Barbora	ROD.CIGANOVA,ZOMRELA	1	1250,2923,3896
+2953	STEVULA Libor	ZOMREL	1	3123
+2953	STEVULA Ondrej	ZOMREL	1	1049
+2953	STIBRANSKA Maria	ROD.BIELIKOVA	1	2539
+2953	STIBRANSKA Maria	ROD.BIELIKOVA,ZOMRELA	1	2637,2752,2841,2987
+2953	STOLAROVA Anna	ROD.LAKTISOVA,ZOMRELA	1	3325
+2953	STOLAROVA Anna	ZOMRELA	1	2990
+2953	Stolárová Homolová Anna r. Laktišová		0	2951
+2953	STOLAROVA Katarina	ROD.GONDOVA,ZOMRELA	1	3315
+2953	SURDOVA Alojzia	ROD.PAVLOVICOVA,ZOMRELA	1	3173
+2953	SURDOVA Alzbeta	ZOMRELA	1	3450
+2953	SVEC Ernest	ZOMREL	1	3283
+2953	SVEC Jan	ZOMREL	1	3283
+2953	SVEC Karol	ZOMREL	1	2979
+2953	SVECOVA Anastazia	ZOMRELA	1	3147
+2953	SVECOVA Anna	ZOMRELA	1	2721,3147
+2953	SVECOVA Katarina	ZOMRELA	1	2722
+2953	SVECOVA Maria	ROD.STOLAROVA,ZOMRELA	1	3325
+2953	SVECOVA Rozalia	ZOMRELA	1	3147
+2953	SYKLENKA Jan	ZOMREL	1	2354
+2953	SYKLENKA Stefan	ZOMREL	1	3388
+2953	SYKLENKOVA Maria	ROD.BIELIKOVA,ZOMRELA	1	2354
+2953	Štekláč Augustín r. Štekláč a Ružena Štekláčová r. Ferjenčíková, č. 87, SR		1	323
+2953	TAPOLCSANYI Karol	ZOMREL	1	3210
+2953	TOPOLCSANYI Karol	zomrel	1	2328
+2953	TRUBINSKA Anna	ZOMRELA	1	2339,3051
+2953	TRUBINSKY Jan		1	2759
+2953	TURCANOVA Anna	ROD.KOMAROVA,ZOMRELA	1	2421
+2953	TURZOVA Eleonora	ROD.LUKACOVA,ZOMRELA	1	3443
+2953	TURZOVA Hermina	ROD.HERDOVA,ZOMRELA	1	2460
+2953	UHRECKA Alojzia	ROD.KRALIKOVA,ZOMRELA	1	2186,3083
+2953	UHRECKA Maria	ROD.HATAROVA,ZOMRELA	1	2922
+2953	UHRECKA Maria	ZOMRELA	1	3330
+2953	UHRECKY Jan	ZOMREL	1	1970,3330
+2953	UMLASEK Jan	ZOMREL	1	3171
+2953	VALACH Frantisek	ZOMREL	1	2982
+2953	VALACH Vojtech	ZOMREL	1	2982
+2953	VALASIKOVA Katarina		1	3066
+2953	VALENT Vavrinec	ZOMREL	1	3442
+2953	VIDA Imrich	ZOMREL	1	2281,3826
+2953	VIDA Karol	ZOMREL	1	2281,3826
+2953	VIDA Matej	ZOMREL	1	2281,3826
+2953	VIMR Anton		1	3071
+2953	VIMR Jozef		1	3071
+2953	WALDMAN Edite	ROD.PERL,ZOMRELA	1	2967
+2953	ZEMANOVIC Ondrej	ZOMREL	1	3299
+2953	ZEMANOVIC Stefan	ZOMREL	1	3299
+2953	ZLATNANSKA Anna	ROD.BENUSOVA,ZOMRELA	1	2719
+2953	ZLATNANSKA Anna	ROD.CEPCEKOVA,ZOMRELA	1	1720,1836,3026
+2954	Adamko Albert r. Adamko, SK		0	579,996
+2954	Adamko Alexander r. Adamko, SK		0	969,979,1090
+2954	Adamkó Ernest r. Adamkó, SK		0	613,622,854,991
+2954	Adamko Florián r. Adamko, SK		0	613,854,991
+2954	Adamko František r. Adamko, SK		0	691
+2954	Adamkóová Agnesa r. Pányiková, SK		0	691,1007
+2954	Adamkóová Mária r. Kelecsényiová, SK		0	991
+2954	Adamková Emerencia r. Takácsová, SK		0	1032,1090
+2954	Adamková Helena, SK		0	613,622,854,991
+2954	Adamková Irma r. Horváthová, SK		0	854,1013
+2954	Anda Alexander r. Anda, SK		0	542,543,544,574,579,712,996
+2954	Anda Anton r. Anda, SK		0	695
+2954	Anda Ignác r. Anda, SK		0	579
+2954	Anda Tibor r. Anda, SK		0	541
+2954	Anda Žigmund r. Anda, SK		0	1091
+2954	Andová Alžbeta r. Szilvásiová, SK		0	579
+2954	Andová Mária r. Freňáková, SK		0	579
+2954	Andová Mária r. Juhászová, SK		0	542,543,544,574,579,712,996,1091
+2954	Andová Terézia r. Szilvásiová, SK		0	768,962
+2954	Andová Viktória r. Szilvásiová, SK		0	974
+2954	Babosová Johana, SK		0	1124
+2954	Benes Ján r. Benes, SK		0	1119
+2954	Bergendiová Helena r. Piklerová, SK		0	1117
+2954	Bergendy Eráz r. Bergendy, SK		0	1116
+2954	Bogárová Mária r. Pipišová, SK		0	1051
+2954	Burzová Mária r. Piklerová, SK		0	1117
+2954	Csányiová Alžbeta r. Lelovicsová, SK		0	986
+2954	Császárová Estera r. Szabóová, SK		0	1068
+2954	Csemezová Sidónia r. Kissová, SK		0	579
+2954	Csizmadia Štefan r. Csizmadia, SK		0	1098
+2954	Csizmadiová Terézia r. Sedláková, SK		0	1122
+2954	Csizmár Dezider r. Csizmár, SK		0	575,695,724,768,905,964,971,1055
+2954	Csizmár Michal r. Csizmár, SK		0	1056
+2954	Csizmárová Jolana r. Mišíková, SK		0	844,964,965,1046,1065,1195
+2954	Czergeová Vesta r. Tóthová, SK		0	1126
+2954	Czulinka Štefan r. Czulinka, SK		0	579
+2954	Czulinková Mária r. Bosáková, SK		0	579
+2954	Čizmár Florián r. Čizmár, SK		0	575,695,724,768,905,964,965,1055
+2954	Čižmár Emanuel r. Čižmár, SK		0	575,695,768,905,1055
+2954	Deáková Irena r. Köszegiová, SK		0	651,652,923,924,1438
+2954	Domininszká Anna r. Bosáková, SK		0	1066
+2954	Erösová Terézia r. Piklerová, SK		0	1117
+2954	Fehér Adolf r. Fehér, SK		0	574
+2954	Fehér Gašpar r. Fehér, SK		0	990
+2954	Fehér Jozef r. Fehér, SK		0	780
+2954	Fehér Koloman r. Fehér, SK		0	574,575,576,607
+2954	Fehér Michal r. Fehér, SK		0	780
+2954	Fehérová Alžbeta, SK		0	574,780
+2954	Fehérová Juliana r. Szabadosová, SK		0	574,780
+2954	Felkesová Gizela r. Vargová, SK		0	1018
+2954	Fölnagyová Etela r. Keszegová, SK		0	626,627,808,973,1266,1421
+2954	Freňák Ladislav r. Freňák, SK		0	541,795
+2954	Freňák Štefan r. Freňák, SK		0	541,579,795
+2954	Frenyák Alojz r. Frenyák, SK		0	579
+2954	Frenyák Ernest r. Frenyák, SK		0	541,579,795
+2954	Frenyáková Matilda, SK		0	579
+2954	Futová Angela r. Kissová, SK		0	1125,1126
+2954	Futová Bernadetta r. Tóthová, SK		0	1126
+2954	Glauber Viliam r. Glauber, SK		0	1103
+2954	Göcze Dezider r. Göcze, SK		0	702
+2954	Göcze Gejza Dezider r. Göcze, SK		0	1047
+2954	Göcze Július r. Göcze, SK		0	702
+2954	Grauová Helena, SK		0	616
+2954	Grauová Markéta, SK		0	616
+2954	Grauová Valéria, SK		0	616
+2954	Grauová Viola, SK		0	616
+2954	Guzsela Ignác r. Guzsela, SK		0	782
+2954	Hajdúová Šarlota r. Kissová, SK		0	1126
+2954	Hambalko Karol r. Hambalko, SK		0	1100
+2954	Hambalko Menhard r. Hambalko, SK		0	1101
+2954	Hannikerová Mária r. Adamková, SK		0	991
+2954	Horňáková Mária r. Belická, SK		0	1035
+2954	Kamenická Jozefína r. Komrhelová, SK		0	1076
+2954	Kaszás Karol r. Kaszás, SK		0	1115
+2954	Kelecsényi Tibor r. Kelecsényi, SK		0	640,956,957,1014
+2954	Kelecsényiová Mária r. Deáková, SK		0	640,956,957,1014
+2954	Keszeg Leopold r. Keszeg, SK		0	973
+2954	Keszeg Žigmund r. Keszeg, SK		0	626,627,808,973,1266,1421
+2954	Kiss Gregor r. Kiss, SK		0	1126
+2954	Kiss Ignác r. Kiss, SK		0	978
+2954	Kiss Július r. Kiss, SK		0	579
+2954	Kiss Ladislav r. Kiss, SK		0	704
+2954	Kiss Štefan r. Kiss, SK		0	544,574,638,639,712,713,948
+2954	Kissová Alžbeta r. Modrocká, SK		0	615
+2954	Kissová Alžbeta r. Szilvásiová, SK		0	768,962
+2954	Kissová Anna r. Keszegová, SK		0	626,627,808,858,973,1266,1421,1455
+2954	Kissová Gizela r. Kissová, SK		0	615
+2954	Kissová Gizela, SK		0	615
+2954	Kissová Juliana r. Kissová, SK		0	704
+2954	Kissová Klára r. Soósová, SK		0	1050
+2954	Kissová Rozália r. Bosáková, SK		0	1066
+2954	Kišš Rafael r. Kišš, SK		0	638,639,948
+2954	Kiššová Terézia, SK		0	579
+2954	Kocsisová Verona r. Sedláková, SK		0	1099
+2954	Kočis Ján r. Kočis, SK		0	1114
+2954	Köszegi Ernest r. Köszegi, SK		0	651,652,841,923,924,1017,1438
+2954	Köszegi Štefan r. Köszegi, SK		0	651,652,923,924,1438
+2954	Köszegiová Margita r. Fehérová, SK		0	574,575,576,579,606
+2954	Kovács Eráz r. Kovács, SK		0	1121
+2954	Kovács František r. Kovács, SK		0	1096
+2954	Kovácsová Helena r. Benesová, SK		0	1096
+2954	Kovácsová Sabína r. Szilvásyová, SK		0	994
+2954	Kováčová Rozália r. Mišíková, SK		0	1046,1065,1195
+2954	Kozmér Adrián r. Kozmér, SK		0	1088
+2954	Kozmérová Alžbeta r. Ružbarská, SK		0	1088
+2954	Král Ján r. Král, SK		0	1041
+2954	Králová Juditha r. Slavková, SK		0	1041
+2954	Krebeszová Etela r. Lelovicsová, SK		0	986
+2954	Lánczová Anna r. Vargová, SK		0	656,731
+2954	Lehocký Ondrej r. Lehoczký, SK		0	988
+2954	Lelovics Ján r. Lelovics, SK		0	986
+2954	Lelovics Karol r. Lelovics, SK		0	986
+2954	Lelovics Ladislav r. Lelovics, SK		0	986
+2954	Lelovics Štefan r. Lelovics, SK		0	986
+2954	Lelovicsová Etela r. Lelovicsová, SK		0	853,855,1363,1364
+2954	Lelovicsová Justína r. Adamková, SK		0	991
+2954	Letkovičová Margita r. Csizmárová, SK		0	575
+2954	Letó Štefan r. Letó, SK		0	1123
+2954	Lukačovičová Jolana r. Mišíková, SK		0	695,964,965
+2954	Márová Sidónia r. Vargová, SK		0	911,966,967
+2954	Maršal Ignác r. Maršal, SK		0	579,996
+2954	Mervová Mária r. Kissová, SK		0	993
+2954	Mészáros Július r. Mészáros, SK		0	658,816,1062
+2954	Mészárosová Gizela r. Lénartová, SK		0	658,816,1062
+2954	Mikuš Vendelín r. Mikuš, SK		0	1074
+2954	Mikušová Margita r. Kostolányiová, SK		0	1074
+2954	Mišík František r. Mišík, SK		0	844
+2954	Mišíková Alžbeta r. Čizmárová, SK		0	575,724,768,905,1046,1055,1065,1195
+2954	Mockerová Mária r. Vargová, SK		0	911,966,967
+2954	Mogyoros Karol r. Mogyoros, SK		0	670
+2954	Molnárová Terézia r. Bosáková, SK		0	1066
+2954	Morovics Arpád r. Morovics, SK		0	651
+2954	Morovicsová Terézia r. Kocsisová, SK		0	651
+2954	Mrvová Mária r. Bosáková, SK		0	1066
+2954	Mrvová Mária r. Kissová, SK		0	574
+2954	Nejedlíková Irena r. Kamenická, SK		0	1076
+2954	Németh Karol r. Németh, SK		0	1069
+2954	Ohrensteinová Klára r. Redlichová, SK		0	1084,1127,1128
+2954	Osztényi Karol r. Osztényi, SK		0	1060
+2954	Osztényiová Terézia r. Horváthová, SK		0	1060
+2954	Papp Jozef r. Papp, SK		0	1107
+2954	Papp Karol r. Papp, SK		0	1113
+2954	Papp Štefan r. Papp, SK		0	1106
+2954	Pappová Alžbeta r. Frenyáková, SK		0	579
+2954	Pikler Anton r. Pikler, SK		0	1117
+2954	Pikler Viliam r. Pikler, SK		0	1117
+2954	Pikler Vojtech r. Pikler, SK		0	1117
+2954	Piklerová Zita, SK		0	1117
+2954	Pikusová Mária r. Keszegová, SK		0	627,858,973,1266,1421,1455
+2954	Pozsonyi Vojtech r. Pozsonyi, SK		0	756
+2954	Pozsonyiová Alžbeta r. Pappová, SK		0	64
+2954	Pozsonyiová Helena r. Kocsisová, SK		0	756
+2954	Pozsonyiová Terézia r. Bergendyová, SK		0	756
+2954	Puškel Ondrej r. Puškel, SK		0	967
+2954	Puškelová Anna r. Svetlíková, SK		0	967
+2954	Szabóová Alžbeta r. Szabadošová, SK		0	554
+2954	Szabóová Ida, SK		0	1068
+2954	Szabová Mária r. Kissová, SK		0	704
+2954	Szalay Lelovics Daniel r. Szalay Lelovics, SK		0	616
+2954	Szarka Štefan r. Szarka, SK		0	616,1012,1039
+2954	Szarková Anna r. Vargová, SK		0	911,966,967,985
+2954	Szarková Gizela, SK		0	695,768,962
+2954	Szarková Mária, SK		0	616,1012,1039
+2954	Szekinski František r. Szekinski, SK		0	1120
+2954	Szilvási Alojz r. Szilvási, SK		0	579
+2954	Szilvási Arnošt r. Szilvási, SK		0	1085
+2954	Szilvási Dezider r. Szilvási, SK		0	658,816,974
+2954	Szilvási Gejza r. Szilvási, SK		0	983,998,1024
+2954	Szilvási Ján r. Szilvási, SK		0	515
+2954	Szilvási Štefan r. Szilvási, SK		0	579,1010,1061,1089
+2954	Szilvásiová Alžbeta, SK		0	579,974
+2954	Szilvásiová Amália r. Vargová, SK		0	984,1026,1039
+2954	Szilvásiová Anna, SK		0	579
+2954	Szilvásiová Helena r. Sekáčová, SK		0	579
+2954	Szilvásiová Mária r. Köszegiová, SK		0	959
+2954	Szilvásiová Mária r. Mervová, SK		0	992
+2954	Szilvásiová Rozália r. Keszegová, SK		0	1087
+2954	Szilvássiová Anna, SK		0	695,768,962
+2954	Szilvásy Fridrich r. Szilvásy, SK		0	994
+2954	Szilvásy Leopold r. Szilvásy, SK		0	994
+2954	Szilvasy Melicher r. Szilvasy, SK		0	616,642,643
+2954	Szilvasyová Gizela, SK		0	616,642,643
+2954	Szöcs Florián r. Szöcs, SK		0	1094
+2954	Szöcsová Alžbeta r. Piklerová, SK		0	1117

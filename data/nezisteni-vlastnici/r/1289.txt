@@ -1,0 +1,256 @@
+761	Mrázek Ján r. Mrázek		0	2982
+761	Mrázek Martin r. Mrázek, manž. H.Mikulčiaková manž. H.Mikulčiaková		0	3034
+761	Mrázek Pavol r. Mrázek		0	3034
+761	Mrázková Anna r. Mrázková		0	3034
+761	Mrázková Katarína r. Mrázková		0	3034
+761	Mudrochová Mária r. Mičová, manž. Rudolf, zomr. manž. Rudolf, zomr.		0	3118,3207,4431
+761	Nečas Jozef r. Nečas, zomr.27.6.1992, Hlboké, I. zomr.27.6.1992, Hlboké, I.		0	3006
+761	Ondrčková Mária r. Pisklová, zomr. zomr.		0	3116
+761	Orgoník Ján		1	933
+761	Orgoníková Anna r. Mičová	manž. Ján, zom	1	933
+761	Orgoníková Anna r. Mičová, manž. Ján, zomr. manž. Ján, zomr.		0	3178,3858
+761	Oríšková Mária r. Andelková, manž. Martin manž. Martin		0	3107
+761	Oslej Jozef r. Oslej, manž. M.Oslejová manž. M.Oslejová		0	3194,3263,3269
+761	Oslej Martin r. Oslej, manž. H.Hlobíková manž. H.Hlobíková		0	4190
+761	Oslejová Hedviga r. Hlobíková, manž. Martin manž. Martin		0	4083
+761	Oslejová Helena r. Horváthová		0	3194,3263,3269
+761	Oslejová Júlia r. Jakubcová		0	3269,3591
+761	Otépka Martin r. Otépka, manž. A.Smrdáková, zomr. manž. A.Smrdáková, zomr.		0	4601
+761	Otépka Martin r. Otépka, manž. A.Zelenáková manž. A.Zelenáková		0	4491
+761	Otépka Martin r. Otépka, manž. K.Šajánková manž. K.Šajánková		0	4538
+761	Otépka Martin r. Otépka, zomr., Hlboké, 89 zomr., Hlboké, 89		0	2995,4182
+761	Otépková Anna r. Otépková		0	4601
+761	Otépková Kristína r. Šipkovská, zomr. zomr.		0	3034
+761	Otépková Mária r. Otépková		0	3776
+761	Otépková Oľga r. Otépková		0	4601
+761	Otépková Zuzana r. Šajánková		0	3186
+761	Pálka Martin r. Pálka, zomr. zomr.		0	4239
+761	Pálková Alžbeta	zom	1	933
+761	Pálková Alžbeta r. Pálková, zomr. zomr.		0	3799,4484,4604
+761	Pálková Anna r. Pálková, Hlboké, I. Hlboké, I.		0	3073
+761	Pálková Kristína r. Pálková, zomr. zomr.		0	4081
+761	Papánek Ján r. Papánek		0	4631
+761	Papánek Samuel r. Papánek		0	2982,4450
+761	Papánek Štefan r. Papánek, manž. A.Gažová manž. A.Gažová		0	3034,3815
+761	Papánková Alžbeta r. Gažová, manž. Štefan manž. Štefan		0	4450
+761	Papánková Anna r. Papánková		0	4550
+761	Paták Martin r. Paták, manž. B.Kabaňová manž. B.Kabaňová		0	4447
+761	Patáková Bernardína r. Kabaňová, manž. Martin manž. Martin		0	4139
+761	Patáková Mária r. Papánková, manž. Štefan manž. Štefan		0	3007
+761	Patková Serafína r. Poláková		0	4252
+761	Pavlíková Katarína r. Španková		0	3022
+761	Pernecká Benardína r. Juríčková		0	3900
+761	Petrášová Alžbeta r. Žáková	zom	1	933
+761	Petrášová Anna r. Čmelová, zomr., Senica, Domov dôchodcov I. zomr., Senica, Domov dôchodcov I.		0	3242,4479,4484
+761	Petrášová Kristína r. Petrášová	manž. Martin, zom., Senica	1	933
+761	Petrufová Agneša r. Černá		0	3774
+761	Pikalková Anna r. Drinková, Lakšárska Nová Ves, I. Lakšárska Nová Ves, I.		0	4240
+761	Piskla Ján	ž. K. Kovárová, zom	1	933
+761	Piskla Ján r. Piskla, manž. A.Morávková, zomr.USA manž. A.Morávková, zomr.USA		0	4291
+761	Piskla Ján r. Piskla, zomr., Hlboké, 114 zomr., Hlboké, 114		0	4209
+761	Piskla Martin r. Piskla, manž. A.Rehúšová manž. A.Rehúšová		0	3383
+761	Piskla Pavel r. Piskla		0	3167
+761	Piskla Pavol r. Piskla, manž. Koprlová manž. Koprlová		0	3034,3974,4669
+761	Piskla Štefan r. Piskla, zomr. zomr.		0	3636
+761	Pisklová Anna r. Filípková	manž. Štefan, zom	1	933
+761	Pisklová Anna r. Filípková, manž. Štefan, zomr. manž. Štefan, zomr.		0	3020
+761	Pisklová Anna r. Morávková, manž. Ján, zomr. manž. Ján, zomr.		0	3861
+761	Pisklová Kristína r. Kovárová, zomr., Hlboké, 124 zomr., Hlboké, 124		0	4568
+761	Pisklová Mária r. Žáková, zomr. zomr.		0	2995
+761	Poláčková Anna r. Bílková		0	3228,4032,4465,4668
+761	Poláková Aranka r. Gáliková		0	3378
+761	Potúčková Judita r. Černá, Brezová pod Bradlom, I. Brezová pod Bradlom, I.		0	3387
+761	Procházková Emília r. Lovecká		0	3673
+761	Provazníková Mária r. Čobrdová, zomr.6.1.1995 zomr.6.1.1995		0	4364
+761	Raušková Mária r. Gachová		0	3551
+761	Ravas Ján r. Ravas		0	4515
+761	Rehúš Pavol r. Rehúš		0	3016
+761	Režnák Ján r. Režnák, manž. A.Hájičková manž. A.Hájičková		0	3107,3129
+761	Roman Jozef r. Roman		0	4581
+761	Roman Michal r. Roman		0	4581
+761	Sedláček Pavol r. Sedláček, manž. A.Šullová, zomr. manž. A.Šullová, zomr.		0	3015,4570
+761	Sedláček Pavol r. Sedláček, zomr. zomr.		0	4400
+761	Sedláčková Anna r. Filípková, manž. Martin, zomr. manž. Martin, zomr.		0	4479
+761	Sekáč Ján r. Sekáč, manž. A.Režnáková manž. A.Režnáková		0	4202
+761	Sekáčová Alžbeta r. Režnáková, manž. Ján manž. Ján		0	4649
+761	Sekelová Zuzana r. Pisklová, zomr. zomr.		0	3069,4084
+761	Sekerka Pavol	ž. Hermína, evan. farárka	1	933
+761	Sláviková Karolína r. Balážová, manž. Augustín manž. Augustín		0	3699
+761	Slavkovská Kristína r. Pálková, zomr., Prievidza zomr., Prievidza		0	4272
+761	Slezák Martin r. Slezák		0	3186
+761	Slezáková Anna r. Slezáková		0	3347
+761	Smrdáková Kristína r. Sedláčková, manž. Ján manž. Ján		0	3162,4491
+761	Spitzer Michal		1	933
+761	Srnková Anna r. Tomišová, manž. Jozef manž. Jozef		0	3034
+761	Staneková Helena r. Valentová		0	3532
+761	Sukopová Kristína r. Juríková, manž. Ján, zomr. manž. Ján, zomr.		0	3192
+761	Sukupová Kristína r. Juríková	manž. Ján, zom	1	933
+761	Sunovčák Jozef r. Sunovčák		0	4669
+761	Sunovčák Michal r. Sunovčák		0	2994
+761	Sunovčáková Anna r. Sunovčáková		0	4669
+761	Sunovčáková Zuzana r. Sunovčáková		0	4669
+761	Šajánek Ján r. Šajánek		0	4550
+761	Šajánek Ján r. Šajánek, manž. A.Zíšková manž. A.Zíšková		0	3700,4491
+761	Šajánek Ján r. Šajánek, manž. K.Čobrdová, zom.5.6.1984, Hlboké, 147 manž. K.Čobrdová, zom.5.6.1984, Hlboké, 147		0	2995
+761	Šajánek Ján r. Šajánek, zomr. zomr.		0	3524
+761	Šajánek Pavol r. Šajánek, manž. A.Otépková, zomr. manž. A.Otépková, zomr.		0	4475
+761	Šajánek Pavol r. Šajánek, manž. Kristína Joríková manž. Kristína Joríková		0	3456
+761	Šajánek Pavol r. Šajánek, manž. R.Obercihrová, zomr. manž. R.Obercihrová, zomr.		0	4325
+761	Šajánek Pavol r. Šajánek, zomr. zomr.		0	3228,3570,4475,4550
+761	Šajánková Alžbeta r. Mičová		0	3837
+761	Šajánková Alžbeta r. Mičová, manž. Pavol, zomr. 1953 manž. Pavol, zomr. 1953		0	4046
+761	Šajánková Anna r. Masrnová, zomr. zomr.		0	4491
+761	Šajánková Anna r. Šajánková, zomr. 1990 zomr. 1990		0	2995,3531
+761	Šajánková Kristína r. Čobrdová		0	3262,4341
+761	Šajánková Zuzana r. Juríková		0	4601
+761	Šalíková Anna r. Zichová, manž. Ján manž. Ján		0	4009
+761	Šeliga Ján r. Šeliga, manž. H.Hamerlíková manž. H.Hamerlíková		0	3129,4210
+761	Šeligová Helena r. Hamerlíková, manž. Ján manž. Ján		0	4062
+761	Ševečková Helena r. Ševečková		0	3118,3207,3330
+761	Šimek Ján r. Šimek, manž. M.Kudláčová manž. M.Kudláčová		0	3940,4595
+761	Šimkovičová Anna r. Vaníčková		0	4187
+761	Šipkovský Pavol r. Šipkovský, manž. A.Zálešáková, zomr. manž. A.Zálešáková, zomr.		0	4281
+761	Škápik František r. Škápik, manž. M.Bílková manž. M.Bílková		0	3105,4411,4467
+761	Škápik Matúš r. Škápik		0	3293
+761	Škápiková Mária r. Hamerlíková		0	3552
+761	Škápiková Mária r. Jankovičová, manž. Štefan manž. Štefan		0	4030
+761	Škrovánková Karolína r. Škrovánková		0	4372
+761	Šlahor Pavol	ž. A. Kubicová, zom	1	933
+761	Šmahelová Kristína r. Krištofová, manž. Martin, zomr. manž. Martin, zomr.		0	3029
+761	Štefík Martin r. Štefík, manž. A.Čobrdová, zom. manž. A.Čobrdová, zom.		0	4469,4491
+761	Štefík Martin r. Štefík, manž. Z.Chomutárová, zomr. manž. Z.Chomutárová, zomr.		0	3540
+761	Štefíková Anna r. Čobrdová, manž. Martin, zomr. manž. Martin, zomr.		0	4469,4491
+761	Štefíková Kristína r. Čobrdová		0	3522
+761	Štefka Ján r. Štefka, manž. A.Chvosteková manž. A.Chvosteková		0	3091,3228
+761	Šubert Zoltán r. Šubert, Dr.		0	4515
+761	Šubertová Margita r. Šubertová		0	4515
+761	Šulla Ján	ž. A. Zelenáková	1	933
+761	Šulla Ján r. Šulla		0	3064
+761	Šulla Ján r. Šulla, manž. A.Adámková, zomr. manž. A.Adámková, zomr.		0	4397
+761	Šulla Ján r. Šulla, manž. Anna Zelenáková, Hlboké, I. manž. Anna Zelenáková, Hlboké, I.		0	2995
+761	Šulla Ján r. Šulla, manž. Zuzana Filípková manž. Zuzana Filípková		0	4654
+761	Šulla Ján r. Šulla, zomr. zomr.		0	3231
+761	Šulla Martin	ž. A. Mojíková, zom	1	933
+761	Šulla Martin	ž. A. Ševečková, zom	1	933
+761	Šulla Martin r. Šulla, manž. A.Mojíková, zomr. manž. A.Mojíková, zomr.		0	2978
+761	Šulla Pavol r. Šulla		0	3099,3448
+761	Šulla Pavol r. Šulla, manž. I.Rigová, adr. neznámy, Modra, I. manž. I.Rigová, adr. neznámy, Modra, I.		0	3523
+761	Šulla Pavol r. Šulla, manž. Zuzana Mudrochová, zomr. 1965 manž. Zuzana Mudrochová, zomr. 1965		0	4117
+761	Šulla Pavol r. Šulla, nevyžiadané, Jindřichův Hradec, Sídlisko u nádraží 781/2, Česká republika nevyžiadané, Jindřichův Hradec, Sídlisko u nádraží 781/2, Česká republika		0	4491
+761	Šulla Pavol r. Šulla, zomr. 1951 zomr. 1951		0	3112
+761	Šulla Pavol r. Šulla, zomr. zomr.		0	4669
+761	Šullová Alžbeta r. Válková	manž. Pavol, zom	1	933
+761	Šullová Alžbeta r. Válková, manž. Pavol, zomr. manž. Pavol, zomr.		0	4121,4484
+761	Šullová Anna r. Krištofová		1	933,3099,3808,4595
+761	Šullová Anna r. Sedláčková, manž. Pavol, zomr. manž. Pavol, zomr.		0	3016
+761	Šullová Anna r. Sedláčková, zomr.10.10.1957, Hlboké, I. zomr.10.10.1957, Hlboké, I.		0	3162
+761	Šullová Anna r. Šullová		0	4590
+761	Šullová Kristína r. Mikulíšková, manž. Martin, zomr. manž. Martin, zomr.		0	4495
+761	Šullová Mária r. Čobrdová, manž. Ján, zomr. manž. Ján, zomr.		0	3906
+761	Šullová Mária r. Šullová, zomr. zomr.		0	4590
+761	Šullová Zuzana r. Mudrochová, manž. Pavol, zomr. manž. Pavol, zomr.		0	3863
+761	Švárna Mária r. Švárna		0	4102
+761	Švárna Zuzana r. Kuklišová		0	4643
+761	Švárny Ján r. Švárny		0	3307
+761	Švárny Pavol r. Švárny, zomr. v USA zomr. v USA		0	3307
+761	Švrček Jozef		1	1858
+761	Švrček Milan		1	1858
+761	Švrčková Anna		1	1858
+761	Švrčková Anna r. Tomeková		1	1858
+761	Švrčková Kristína r. Tomášová, manž. Ján manž. Ján		0	3031
+761	Tallová Anna r. Šullová, manž. Michal manž. Michal		0	4439,4566
+761	Terták Pavol r. Terták, manž. Mária Krutá manž. Mária Krutá		0	4001
+761	Tomaníčková Alžbeta r. Bartoňová, manž. Ján, Senica, Čáčov I. manž. Ján, Senica, Čáčov I.		0	4159
+761	Tomáš Martin r. Tomáš, manž. A.Šajánková, zom. manž. A.Šajánková, zom.		0	3186,4590
+761	Tomáš Pavol r. Tomáš, zomr. zomr.		0	4654
+761	Tomišová Anna r. Kvačková		0	3345
+761	Turanská Kristína r. Baňárková		0	3628
+761	Tvarožek Vlastimil r. Tvarožek, mal. mal.		0	4570
+761	Uhlárik Bohumil r. Uhlárik, manž. A.Šullová manž. A.Šullová		0	3341
+761	Uhláriková Mária r. Šullová, manž. Bohumil manž. Bohumil		0	3845
+761	Valent Adam r. Valent, manž. A.Šeligová manž. A.Šeligová		0	4120
+761	Valent Ján r. Valent, manž. M.Buranová manž. M.Buranová		0	3721
+761	Valent Karol r. Valent, manž. M.Čobrdová manž. M.Čobrdová		0	3129
+761	Valentová Anna r. Šeligová, manž. Adam manž. Adam		0	4166
+761	Valentová Mária r. Burajová, manž. Pavol manž. Pavol		0	3107,3129
+761	Valentová Mária r. Buranová, manž. Ján manž. Ján		0	3374
+761	Valentová Mária r. Oslejová		0	3713
+761	Válková Anna r. Filípková		1	1476,1477,2995,3011,3105,3796,4604
+761	Válková Mária		1	933
+761	Válková Mária r. Válková		0	3228,4119
+761	Valla Vojtech r. Valla, manž. A.Šlichtová manž. A.Šlichtová		0	3481
+761	Vallová Anna r. Šlichtová, manž. Vojtech manž. Vojtech		0	3922
+761	Vávra Ján r. Vávra		0	3269
+761	Vávrová Anna r. Vandeliová		0	3269
+761	Vávrová Marta r. Vávrová		0	3269
+761	Vojáčková Anna		1	933
+761	Vojáčková Anna r. Vojáčková		0	3007,4491
+761	Windischgratz Alfred r. Windischgratz, Grof Herczeg Grof Herczeg		0	4141
+761	Zálešák Ján	zom	1	933
+761	Zálešák Ján r. Zálešák		0	2996,2997,3235,3466,4589,4631
+761	Zálešáková Anna r. Pisklová	manž. Pavol, zom	1	933
+761	Zálešáková Anna r. Rýzková		0	3705
+761	Zelenák Ján r. Zelenák		0	3873
+761	Zelenák Pavol r. Zelenák		0	4491
+761	Žák Ján	ž. A. Kovárová, zom. 1994	1	933
+761	Žák Ján r. Žák, manž. A.Čmelová, zomr., Hlboké, 129 manž. A.Čmelová, zomr., Hlboké, 129		0	3206,4298
+761	Žák Ján r. Žák, manž. A.Končitá, zomr. manž. A.Končitá, zomr.		0	4305,4604
+761	Žák Ján r. Žák, manž. A.Kovárová, zom. 1994 manž. A.Kovárová, zom. 1994		0	3717
+761	Žák Ján r. Žák, manž. A.Žáková manž. A.Žáková		0	3107
+761	Žák Ján r. Žák, manž. M.Žáková, zomr. manž. M.Žáková, zomr.		0	2995,3752
+761	Žák Jozef r. Žák, manž. K.Krištúfková manž. K.Krištúfková		0	3022,3223,3597
+761	Žák Juraj r. Žák, zomr. zomr.		0	3206,3373,4668
+761	Žák Pavol	zom	1	933
+761	Žák Pavol	ž. A. Millová, zom	1	933
+761	Žák Pavol r. Žák		0	4457,4551
+761	Žák Pavol r. Žák, manž. A.Millová, zomr. manž. A.Millová, zomr.		0	3020
+761	Žák Pavol r. Žák, manž. Kristína, nevyžiadané, Zlín, Obecniny 3120, Česká republika manž. Kristína, nevyžiadané, Zlín, Obecniny 3120, Česká republika		0	3003,3500
+761	Žák Pavol r. Žák, zomr. zomr.		0	4035,4484,4558,4570
+761	Žáková Anna		1	933
+761	Žáková Anna r. Čobrdová	manž. Pavol, zom	1	933
+761	Žáková Anna r. Čobrdová	zom	1	933
+761	Žáková Anna r. Čobrdová, manž. Pavol, zomr. manž. Pavol, zomr.		0	2994
+761	Žáková Anna r. Čobrdová, zomr. zomr.		0	3112,3853
+761	Žáková Anna r. Kovárová	zom	1	933
+761	Žáková Anna r. Žáková		1	933
+761	Žáková Katarína r. Krištúfková, manž. Jozef manž. Jozef		0	3223,3651
+761	Žáková Katarína r. Žáková, Jablonica, I. Jablonica, I.		0	4546
+761	Žáková Kristína r. Čobrdová, manž. Ján, zomr. manž. Ján, zomr.		0	4175
+761	Žáková Kristína r. Mičová		1	933
+761	Žáková Mária r. Žáková, zomr.27.6.1991 zomr.27.6.1991		0	3860
+761	Žáková Zuzana r. Kuklišová	zom	1	933
+761	Žipayová Kristína r. Sedláčková, manž. Ondrej manž. Ondrej		0	3389
+762	ADAMOV Adam, SR		1	823
+762	ADAMOV HVORECNÝ Móric, SR		1	891
+762	ADAMOV Ján, SR		1	878
+762	Adamov Karol		0	1511,1932
+762	ADAMOV Karol, SR		1	396,804,1278,1279,1280,1479
+762	Adamov Ladislav		0	1530
+762	ADAMOV Ladislav, SR		1	804
+762	Adamov Móric		0	1518,2025,2058,2060
+762	Adamov Ondrej		0	2041
+762	ADAMOV Ondrej, SR		1	790
+762	Adamov Pavol		0	1530
+762	ADAMOV PAVOL / SYN JÁNA/ r. ADAMOV, SR		1	947,2224
+762	Adamov Pavol r. Adamov, syn Jána syn Jána		0	2011,2041,2052
+762	ADAMOV PAVOL, SR		1	804
+762	ADAMOVÁ - HUBOCKÁ Katarína, SR		1	743,970
+762	ADAMOVÁ - HVOREČNÁ Juliana, SR		1	891
+762	ADAMOVÁ - HVOREČNÁ Vincencia, SR		1	891
+762	Adamová Anna r. Miháliková		0	1545,1945
+762	ADAMOVÁ Anna r. Miháliková, SR		1	451,1357,1366,1368,1384,1474,2211
+762	ADAMOVÁ HUBOCKÁ Katarína, SR		1	396,1278,1279,1280
+762	Adamová Juliana r. Hvorečná		0	1877
+762	Adamová Katarína r. Hubocká		0	1532,1671,1948
+762	Adamová Vincencia r. Hvorečná		0	1683
+762	Adamová Zuzana r. Miháliková		0	1922,1984
+762	ADAMOVÁ Zuzana r. Miháliková, SR		1	657,1277,1317,1342,1353
+762	ADAMOVÁ-HUBOCKÁ Katarína, SR		1	1282,1283
+762	Babán Viktor		0	2059
+762	BABÁN Viktor, SR		1	1074,1330
+762	Babánová Alojzia		0	1515,1518,2059
+762	BABÁNOVÁ Alojzia, SR		1	879,1074,1330
+762	Babánová Barbora		0	1515,1862,2046
+762	BABÁNOVÁ Barbora, SR		1	879,1330
+762	Babánová Verona		0	1771
+762	BABÁNOVÁ Verona, SR		1	879,1074,1330

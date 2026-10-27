@@ -1,0 +1,256 @@
+1128	Rabatin Štefan, SR	zomrel; súr. Ján, Ondrej,Žofia, Mária	1	285
+1128	Rabatin Štefan, SR	zomrel; súr. Valent, Andrej, Mária	1	11,13,279,333,359,401,404,405,406,435,475
+1128	Rabatin Štefan, SR	zomrel; súr.Ján, Ondrej, Žofia, Mária	1	13,47,262,458
+1128	Rabatin Štefan, SR	zomrel; súr.Mária, Ján	1	292
+1128	Rabatin Štefan, SR	zomrel; súr.Valent, Andrej, Mária	1	23,280
+1128	Rabatinová Alžbeta r. Bandžuchová, SR	zomrela	1	25,383,408
+1128	Rabatinová Anna r. Bandžuchová, SR	zomrela	1	13
+1128	Rabatinová Anna r. Čurillová, SR	zomrela; manžel Pavol	1	13
+1128	Rabatínová Anna r. Rabatinová, SR	zomrela; manžel Pavol	1	13
+1128	Rabatinová Františka r. Žecová, SR	zomrela	1	13
+1128	Rabatinová Júlia r. Mastavová, SR	zomrela	1	47,262,285,458
+1128	Rabatínová Juliana r. Bandžuchová, SR	zomrela; manžel Jakub	1	13
+1128	Rabatinová Mária	zomrela	1	475
+1128	Rabatinová Mária r. Črillová	zomrela; súr.Valent, Jozef	1	475
+1128	Rabatinová Mária r. Črillová, SR	zomrela; súr.Valent, Jozef	1	11,404,405
+1128	Rabatinová Mária r. Čurillová, SR		1	333,406
+1128	Rabatinová Mária r. Čurillová, SR	zomrela	1	13,176,239,240,242,279,280,312,313,323,392,393,397,401
+1128	Rabatinová Mária r. Čurillová, SR	zomrela; manžel Ján	1	13,350
+1128	Rabatinová Mária r. Čurillová, SR	zomrela; súr. Valent, Jozef	1	13,65,67,176,239,240,243,279,313,323,339,392,393,397,398,401,413,448
+1128	Rabatinová Mária r. Čurillová, SR	zomrela; súr.Valent, Jozef	1	23,242,244,245,246,280,298,359,386,387,414,415,435,447,467,468,469,470,471,472
+1128	Rabatinová Mária r. Čurillová, SR	zomrrela; súr.Valent, Jozef	1	298,386,387,447,467,469,470,471,472
+1128	Rabatinová Mária r. Rabatinová, SR	brat Ján, zomrela	1	9
+1128	Rabatinová Mária r. Rabatinová, SR	manžel Jakub, zomrela	1	9
+1128	Rabatinová Mária r. Rabatinová, SR	zomrela; brat Ján	1	13,289,290,294,330,439,456
+1128	Rabatinová Mária r. Rabatinová, SR	zomrela; manžel Jakub	1	13,25,289,290,292,294,330,383,408,439,456
+1128	Rabatinová Mária, SR	zomrela	1	11,23,333,359,404,405,406,435
+1128	Richnavská Žofia, SR	zomrela; súr. Antónia, Karol	1	13
+1128	Richnavský Ján, SR	zomrel; žena Mária r.Rabatinová	1	13
+1128	Richnavský Karol, SR	zomrel; súr.Antónia, Žofia	1	13
+1128	Saksa Andrej, SR	zomrel	1	25,383,408
+1128	Saksa Jakub		1	31,474
+1128	Saksa Jakub, SR	zomrel	1	31,222,248,335,342,389,440,453,454,474
+1128	Saksa Jozef, SR	zomrel	1	31,222,248,335,342,348,367,389,440,453,454,474
+1128	Saksa Pavol, SR	zomrel	1	25,383,408
+1128	Saksa Štefan	zomrel; súr. Klára, Antónia, Valent, Zuzana	1	367
+1128	Saksa Štefan, SR	zomrel; súr. Klára, Antónia, Valent, Zuzana	1	13,31,222,248,335,389,440,453,474
+1128	Saksa Štefan, SR	zomrel; súr.Klára, Antónia, Valent, Zuzana	1	342,348,454
+1128	Saksa Valent, SR	zomrel	1	348
+1128	Saksová Antónia, SR	zomrela	1	31,222,248,335,342,348,367,389,440,453,454,474
+1128	Saksová Júlia, SR	zomrela; súr. Alžbeta, Zuzana, Františka	1	248
+1128	Saksová Júlia, SR	zomrela; súr.Alžbeta, Zuzana, Františka	1	248,299
+1128	Saksová Klára, SR	zomrela	1	31,222,248,335,342,348,367,389,440,453,454,474
+1128	Saksová Mária r. Rabatinová, SR	m. Jakub, zomrela	1	367
+1128	Saksová Mária r. Rabatinová, SR	zomrel; manžel Jakub	1	25,383,408
+1128	Saksová Mária r. Rabatinová, SR	zomrela; manžel Jakub	1	31,222,248,335,342,348,389,440,453,454,474
+1128	Saksová Mária r. Rabatinová, SR	zomrela; manžel Jalub	1	13
+1128	Saksová Zuzana, SR	zomrela	1	31,222,248,335,342,348,367,389,440,453,454,474
+1128	Sokol Jakub, SR	zomrel	1	13,297
+1128	Sokolová Júlia, SR	zomrela	1	13,297
+1128	Sokolová Katarína, SR	zomrela	1	13,297
+1128	Sokolová Zuzana, SR	zomrela	1	13,297
+1128	Susová Alžbeta r. Saksová, SR	zomrela; súr. Zuzana, Júlia	1	299
+1128	Susová Alžbeta r. Saksová, SR	zomrela; súr.Zuzana, Júlia	1	248,299
+1128	Šefčík Jozef, SR	zomrel; manželka Agneša r.Saksová	1	248
+1128	Šefčík Jozef, SR	zomrel; žena Agneša r.Saksová	1	13,222,389
+1128	Šefčíková Agneša r. Saksová, SR	zomrela; manžel Jozef	1	13,222,248,389
+1128	Trelová Anna r. Čurillová	zomrela	1	11,404,405,475
+1128	Trelová Anna r. Čurillová, SR	zomrela	1	279,280,295,368,401,455
+1128	Trelová Anna r. Čurilová, SR	zomrela	1	13
+1128	Veseleňák Andrej, SR	zomrel; súr.Ján, Katarína, Imrich	1	13,151,377,442
+1128	Veseleňák Imrich, SR	zomrel; súr. Ján, Katarína, Andrej	1	13,151,377,442
+1128	Veseleňák Ján, SR	zomrel; súr. Zuzana, Katarína, Imrich	1	13
+1128	Veseleňák Štefan, SR	zomrel	1	25,383,408
+1128	Veseleňáková Antónia r. Glovová, SR	zomrela; manžel Štefan	1	13
+1128	Veseleňáková Katarína, SR	zomrela; súr. Jan, Andrej, Imrich	1	13,151,377,442
+1128	Vojtková Anna r. Rabatinová, SR	zomrela; súr.Mária, Michal	1	25,383,408
+1128	Zipserová Ester r. Grosmannová, SR	zomrela	1	13
+1128	Žec Jozef, SR	zomrel	1	319
+1128	Žec Michal, SR	zomrel	1	25,383,408
+1128	Žec Valent, SR	zomrel	1	25,383,408
+1128	Žecová Mária r. Čurillová, SR	zomrela; manžel Valent	1	13
+1128	Žecová Mária r. Gmucová, SR	zomrela; súr.Anna Dolná	1	13
+1129	Babicová Helena		0	1391
+1129	BALINTOVA GIZELA R. GALAMBOSOVA		0	729
+1129	Belohorcová Jolana r. Mokošová		0	1042
+1129	Bóna Ján		0	1163
+1129	Bóna Lukáč		0	1163
+1129	Bory Ondrej		0	911
+1129	Boryová Alžbeta		0	1149
+1129	Bukovičová Alžbeta r. Levková		0	1195,1203
+1129	Byrowský Jozef		0	1031
+1129	Cibulová Alžbeta r. Vidová		0	1183,1195,1203,1217
+1129	Csabay Štefan		0	1204
+1129	Csákyová Lídia r. Csontóová		0	765
+1129	Csontó Karol		0	718,719,750
+1129	Csontó Štefan		0	718,750
+1129	Daruová Jolana r. Vicencová		0	1229
+1129	Demeter Dezider		0	735
+1129	Demeter Ladislav		0	735
+1129	Demeter Ľudovít		0	735
+1129	Demeter Ondrej		0	735
+1129	DOBOŠOVÁ Mária	r. Ákošiová	1	805
+1129	Dobošová Mária r. Ákošiová		0	914
+1129	Dóka Alexander		0	906
+1129	Dóka Ján		0	906
+1129	Dóka Július		0	1372
+1129	Dóka Karol		0	906
+1129	Dóka Štefan		0	906
+1129	Dóková Etela r. Szabóová		0	1382
+1129	Dóková Julianna		0	906
+1129	Dubová Agneša r. Demeterová		0	976
+1129	Falumbenyová Katarína		0	1016
+1129	Fogadová Alžbeta r. Tóthová		0	1356
+1129	Forgáč Ján		0	1325
+1129	Franczelová Mária r. Garajová		0	1195
+1129	Frtús Zdenko		0	1018
+1129	Frtúsová Anna		0	1018
+1129	GAL JULIUS		0	786,1184,1195,1203,1207,1218
+1129	Gálová Alžbeta r. Zilayová		0	726
+1129	Gálová Rozália r. Gálová		0	1184,1195,1203,1218
+1129	Guťanová Mária r. Školníková		0	1392
+1129	GUTRAIOVA JULIANA R. GALAMBOSOVA		0	729
+1129	Gyuris Antal		0	943
+1129	Gyurisová Juliana r. Lomjanská		0	1043
+1129	Hárši Štefan		0	1331
+1129	Hegedüš Július		0	1354
+1129	Hegedüšová Julianna		0	910
+1129	Horňák Ernest		0	1326,1331
+1129	Horňák Pavel		0	1038
+1129	Horňák Štefan		0	1326
+1129	Horňáková Anna r. Lastovicová		0	1039
+1129	Horňáková Magdaléna r. Szabó		0	1326
+1129	Horši Štefan		0	1326
+1129	CHILO LADISLAV		0	710
+1129	CHILOVA MARIA		0	710
+1129	Jančová Mária r. Važanová		0	1012
+1129	Janoviczká Julianna		0	1359
+1129	Janoviczká Julianna r. Herková		0	1359
+1129	Jelenský Štefan		0	926
+1129	Juhász Ľudovít		0	1372
+1129	Juhász Štefan		0	1372
+1129	Juhászová Alžbeta		0	1372
+1129	Juhászová Julianna		0	1372
+1129	Kádar Štefan		0	1207
+1129	Kelemenová Estera r. Kelemenová		0	785,1250
+1129	KERI JAN		0	710
+1129	KLINČOKOVÁ Jolana r. Horváthová		0	1032,1033
+1129	Kmoško František		0	1235,1259
+1129	Kmoško Imrich		0	1235
+1129	Kmoško Jozef		0	1259
+1129	Kmošková Alžbeta		0	1235,1259
+1129	KNAPÍK Jozef		0	1111
+1129	KONCZ KAROL		0	716
+1129	Koncz Ľudovít		0	1392
+1129	Konczová Estera r. Dóková		0	906
+1129	Konczová Juliana r. Szabóová		0	1392
+1129	KONTA Július		1	1055
+1129	Kóša Štefan		0	1396
+1129	Košiar Jozef		1	1159,1571
+1129	Kováč Viliam		0	1195,1203
+1129	KRÁLIKOVÁ Margita r. Wolfová		0	950
+1129	KRAMMEROVA ALZBETA R. KERIOVA		0	710
+1129	Kúcs Štefan		0	1371
+1129	Kvanka Michal		0	1018
+1129	Kvanková Helena r. Frtúsová		0	1018
+1129	Lázár Ľudevít		0	1053
+1129	LENGYELOVA KATARINA R. SEPESIOVA		0	747
+1129	Liptáková Helena		0	1360
+1129	Lomjanský Ján		0	1030,1043
+1129	Lomjanszká Katarína r. Mikulová		0	1030
+1129	Lomjanszki Štefan		0	1029,1030
+1129	Lovašová Alžbeta r. Takáčová		0	1171
+1129	Madarász Ján		0	720,955
+1129	Magdolenová Irena r. Važanová		0	1012
+1129	Mészáros Ján		0	1335
+1129	Mokošová Irma		0	1042
+1129	Molnár Imrich		0	1309
+1129	Molnár Tomáš		0	1195,1203
+1129	Molnárová Rozália		0	1309
+1129	Nagy Ondrej		0	1195,1202,1203
+1129	Nagy Ondrej	mladší Vida	0	1516
+1129	Nagy Štefan		0	761,762,1271
+1129	Nagyová Gizela r. Nagyová		0	1271
+1129	Novotná Helena r. Kmošková		0	1235,1259
+1129	Ördögová Žofia r. Zilayová		0	726
+1129	Palášti Alexander		0	765
+1129	Paláštiová Estera r. Kováčová		0	1195,1203
+1129	Palko Július		0	1195,1203
+1129	Palko Ondrej		0	1233
+1129	Parobková Mária r. Mistríková		0	1162
+1129	Petrášová Irma r. Mokošová		0	1042
+1129	Petrík Alexander		0	1195,1202,1203
+1129	Petrík Alexander	manž. Estera r. Taligová	0	1516
+1129	Petrík Alexander	manž. Zlatica r. Nagyová	0	1516
+1129	Pigler Alexander		0	748
+1129	Pigler Štefan		0	748
+1129	Piglerová Alžbeta		0	748
+1129	Piglerová Juliana r. Višehradská		0	749
+1129	Pogányová Štefánia		0	933
+1129	Polčák Ján		0	1347
+1129	Polčáková Mária r. Tóthová		0	1347
+1129	Pólya Štefan		0	794
+1129	Pólyová Žofia r. Ujszásziová		0	794
+1129	Pomothy Ľudovit		0	730
+1129	Pomothyová Estera r. Dubová		0	1435
+1129	Pomothyová Zuzana		0	1164
+1129	Pomothyová Zuzana r. Udvardi		0	1306
+1129	Potančok František		0	1213
+1129	Potocká Zuzana r. Bogárová		0	784
+1129	Prikril František		0	718
+1129	Prikrilová Katarína r. Bodokyová		0	718
+1129	Régi Ľudovit		0	757
+1129	Rusko Ján		0	1331
+1129	Sabó Ján	zom. 03.12.1985	0	1301
+1129	Sallaiová Irma r. Cibulová		0	1195,1203
+1129	Saská Alžbeta r. Szabóová	zom. 15.11.1977	0	1301
+1129	Seifová Alžbeta r. Zorgovská		0	1361
+1129	Slivková Zuzana r. Mistríková		0	1128
+1129	Solár Štefan		0	923
+1129	Solárová Anna r. Bendová		0	923
+1129	SZABÓ Ján	zomrel 3.9.1999	1	1241
+1129	Szabó Jonáš		1	1301
+1129	Szabó Štefan		0	765
+1129	Szabóová Lídia r. Takácsová		0	765
+1129	Szobiová Etela r. Tóthová		0	1052
+1129	Szobiová Rozália r. Galambošová		0	1374
+1129	Šanovská Estera r. Bohovicová		0	1044
+1129	Šarköziová Etela r. Molnárová		0	1309
+1129	Šebová Katarína r. Čengerová		0	1050
+1129	ŠIMONOVIČOVÁ Judita r. Petrovičová		0	1307
+1129	Škvarka Jozef		0	915
+1129	Škvarková Mária r. Slaná		0	915
+1129	Škvarková Žofia r. Hubiaková		0	1041
+1129	Šuhajdová Júlia r. Kötelešová		0	1296
+1129	Takáčová Juliana		0	1171
+1129	Taligová Jolana r. Berková		0	766
+1129	TALIGOVA JOLANA R. BEZKOVA		0	764
+1129	Taligová Lídia r. Bartalová		0	765
+1129	TELCSIK JOZEF		0	709
+1129	TELCSIKOVA MARIA R. KAPPAJECZOVA		0	709
+1129	Tolnayová Gizela		0	1395
+1129	Tolnayová Rozália		0	1395
+1129	Tompa Štefan		0	1294
+1129	Tóth Ján		0	1356
+1129	Tóth Július		0	790
+1129	Trnková Alžbeta r. Vangová		0	1035
+1129	Trnková Juliana		0	1035
+1129	Trnková Mária		0	1035
+1129	Udvardiová Žofia		0	1306
+1129	Váczi Viliam		0	1392
+1129	Valent Ján		1	1373,1385
+1129	Valent Ondrej		1	1373,1385
+1129	Valent Vladimír		1	1373,1385
+1129	Valentová Eva		1	1373,1385
+1129	Valentová Júlia		1	1373,1385
+1129	Valentová Zlatica		1	1373,1385
+1129	Valentová Zuzanna		1	1373,1385
+1129	Vargová Alžbeta r. Huszárová		0	1345
+1129	VARGOVA JULIANA R. VAJDOVA		0	710
+1129	Vargová Mária r. Kmošková		0	1235,1259
+1129	Vargová Rozália r. Csabaiová		0	1342
+1129	Važan Ján		0	1331
+1129	Važanová Zuzana r. Žbirková		0	1331
+1129	Vékonyová Alžbeta r. Francelová		0	788
+1129	Veresová Margita r. Kmošková		0	1235,1259
+1129	Vicenc Ján		0	1229

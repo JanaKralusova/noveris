@@ -1,0 +1,256 @@
+358	Pankuch Juraj	Majer	1	184,274,370,407
+358	Pankuch Juraj	žena Mária r.Kaňuchová	1	312,313
+358	Pankuchová Anna r. Birošová Majerová		1	95,274,379,380,431
+358	Plančár Ján	kúpa od Anny r.Nazarejovej	1	312
+358	Popovňák Juraj	žena Mária r.Kočerhová	1	312,313,326
+358	Popovňáková Anna		1	312,313,326
+358	Senglárová - Olejárová Mária r. Demská		1	288
+358	Stankovič Andrej	žena Anna r.Eliašová	1	334
+358	Stankovičová Anna r. Eliašová	muž Andrej	1	334
+358	Šingliarová Mária		1	286
+358	Šingliarová Mária	1	1	286
+358	Šingliarová Mária r. Demská		1	286
+358	Talian Andrej	maloletý	1	232,235
+358	Talián Ján		1	294
+358	Talián Juraj	manželka Verona r.Maťašová	1	294
+358	Tomko Ján	žena Mária r.Portiková	1	312
+358	Tomková Mária r. Portiková	muž Ján	1	312
+358	Uličný Andrej	žena Anna r.Hudáčová	1	312,313
+358	Uličný Jozef		1	312,313,326
+358	Vaško Juraj	Majernik	1	312,313
+358	Verčimák Juraj	vl 8	1	312,313
+358	Verčimák Michal	vl 8	1	312
+358	Verčimák Štefan	vl 8	1	312
+358	Verčimáková Mária r. Paľa Kaňuchová		1	312,313
+358	Verčimáková Mária r. Paľová	muž Štefan	1	315
+358	Vidumský Andrej	vl 8	1	312,313
+358	Vraňuch Andrej		1	257
+358	Vraňuchová Mária r. Hricová		1	56,58,59,352,375
+359	ALMAŠ Ján		0	1107
+359	Almaš Ján, SR		1	355
+359	ARTIMOVÁ Anna		0	2078
+359	Bačová Anna r. Kopčová		0	1639
+359	Bačová Anna r. Kopčová, SR		1	504,721,2184
+359	BAŇACKÁ Anna		0	1502
+359	Baňacká Anna r. Timková		0	2111
+359	Baňacká Anna r. Timková, SR		1	322
+359	BAŇACKÁ Anna r. Vachaľová		0	1681
+359	BAŇACKÁ Barbora		0	1413,1779
+359	Baňacká Mária r. Zbojovská		0	1107
+359	Baňacká Mária r. Zbojovská, SR	manž.Juraj	1	322
+359	Baňacká Mária, SR	mal	1	322
+359	Baňacký Ján		0	1107
+359	Baňacký Ján, SR		1	322
+359	Baňacký Jozef		0	1830
+359	Baňacký Juraj, SR	manž.Mária r.Zbojovská	1	322
+359	Baňacký Michal		0	1479
+359	Baňacký Michal, SR		1	321,322,1009
+359	Barnová Anna r. Poláková		0	1107
+359	Barnová Anna r. Poláková, SR		1	355
+359	Bažaliková Anna r. Zbojovská		0	1107
+359	Bednáriková Mária r. Kováčová		0	2113
+359	Bednáriková Mária r. Kováčova, SR		1	907
+359	BELÁN Andrej		0	1472
+359	BEĽAN Andrej, , /manž.Mária r.Kotosová/ /manž.Mária r.Kotosová/		0	1217
+359	Beľanová Mária r. Kotosová		0	1638,2077
+359	Beluchová Johana r. Hlebašková		0	2011
+359	BEREŠ Jozef		0	1107
+359	Bereš Jozef, SR	manž.Alžbeta r.Brezová	1	322
+359	Béreš Jozef, SR	manž.Mária r.Geciová	1	322
+359	BEREŠ Michal		0	2144
+359	BEREŠČIK Juraj		0	1107,1586
+359	Bereščík Juraj, SR	manž.Anna r.Bočkorošová	1	322
+359	Béreščík Michal		0	1190
+359	BEREŠČIKOVÁ Anna r. Bočkorošová		0	1763
+359	Bereščíková Anna r. Bočkorošová, SR	manž.Juraj	1	322
+359	BEREŠOVÁ Anna		0	2144
+359	Berešová Barbora r. Baňacká		0	1812
+359	BEREŠOVÁ Júlia r. Fecová		0	1381
+359	Berešová Júlia r. Fecová, SR	manž Michal	1	902
+359	Berešová Júlia r. Fecová, SR	manž., Michal	1	902
+359	BÉREŠOVÁ Mária r. Geciová		0	1107
+359	Bérešová Mária r. Geciová, SR	manž.Jozef	1	322
+359	BERTOVÁ Anna r. Sokolová		0	1338
+359	Bertová Anna r. Sokolová, SR	manž.Ján	1	529
+359	BESTERCZY Pavol		0	1376
+359	Besterczyová Mária r. Čiderová		0	1944
+359	BIČ Štefan		0	1901
+359	Bič Štefan, SR		1	206
+359	BÍLA Anna		0	1836
+359	BÍLA Júlia		0	1311
+359	BISTRANOVÁ Anna r. Doľáková		0	1448
+359	Body Ján, , /manž.Mária r.Gondoľová/ /manž.Mária r.Gondoľová/		0	1445
+359	BONAJOVÁ Anna r. Doľáková		0	1921
+359	BORŇAKOVÁ Anna r. Tothová		0	1874
+359	BOROŠ Ján		0	1116
+359	Boroš Ján, SR		1	883
+359	BOROŠ Juraj		0	1111,1567
+359	Boroš Juraj, SR	manž.Alžbeta r.Gnapová	1	476,877,1097,1098
+359	BOROŠ Juraj, SR		1	306
+359	BOROŠ Michal		0	2030
+359	BOROŠ Štefan		0	1116
+359	Boroš Štefan, SR		1	883
+359	BOROŠOVÁ Margita		0	1116
+359	Borošová Margita, SR		1	883
+359	BOROŠOVÁ Mária		0	1613
+359	BOROŠOVÁ Mária r. Alčáková		0	1532
+359	BOROŠOVÁ Mária r. Kašová		0	1735,2143
+359	Borošová Mária r. Kašová, SR		1	883
+359	Borošová Mária, SR		1	883
+359	BREZNAIOVÁ Anna		0	2143
+359	BREZNAIOVÁ Helena		0	2062
+359	BUDAYOVÁ Mária r. Tothová		0	1654
+359	BUGATOVÁ Anna r. Kopčová, , /manž Andrej/ /manž Andrej/		0	2148
+359	Bugatová Anna r. Kopčová, SR	manž. Andrej, Kašová	1	955
+359	BUKATOVÁ Anna r. Kopčová		0	2145
+359	Bukatová Anna r. Kopčová, SR		1	756,757
+359	CIBAKOVÁ Júlia r. Hlebašková		0	1690
+359	Cibaková Júlia r. Hlebašková, SR		1	626
+359	CIFRANIČ Ján		0	1114,1768
+359	Cifranič Ján, SR	syn Jána	1	322
+359	Cifranič Michal	manž. Alžbeta Košárová	1	322
+359	CIFRANIČ Michal		0	1114
+359	Cifranič Michal, SR	manž. Alžbeta Košárová	1	322
+359	Cifranič Michal, SR	manž.Anna Ďurišinová	1	322
+359	CORONIČOVÁ Júlia r. Kováčová		0	1603
+359	Coroničová Júlia r. Kováčová, SR		1	907
+359	Čarná Anna		0	1173
+359	ČARNÝ Ján		0	1496
+359	ČARNÝ Mikuláš		0	1272
+359	ČEREP Michal		0	2148
+359	Čerep Michal, SR	manž. Mária r.Bičová	1	960
+359	Čerepová Alžbeta r. Petrová		0	1107
+359	Čikoš Bartolomej	/manž.Alžbeta r.Horváthová/	0	1107
+359	Čikošová Alžebta r. Horváthová, , /manž.Bartolomej/ /manž.Bartolomej/		0	1107
+359	ČINTALA Juraj		0	1250
+359	Čintala Juraj, SR		1	322
+359	ČINTALA Michal, , /manž.Mária r.Greculová/ /manž.Mária r.Greculová/		0	1527
+359	ČOPÁK Štefan		0	1107
+359	Čopák Štefan, SR	manž. Piroška r.Džudžová	1	948
+359	ČOPÁKOVÁ Piroška r. Džudžová		0	1107
+359	Čopáková Piroška r. Džudžová, SR	manž. Štefan	1	948
+359	DANČAKOVÁ Anna r. Sabolová		0	1927
+359	Danko Andrej		0	1867
+359	Danko Juraj		0	1291
+359	Danko Michal		0	1107
+359	Danko Michal, SR	mal	1	322
+359	Danko Rudolf		0	1916
+359	DANKOVÁ Anna r. Verebová		0	1875
+359	Danková Anna r. Verebová, SR		1	1032
+359	DANKOVÁ Mária r. Poľacká		0	1442
+359	DIENEŠOVÁ Barbora r. Tothová		0	1408
+359	Dienešová Helena r. Devaldová, SR		1	717
+359	Dociová Anna r. Malčická, , zom. zom.		0	1167
+359	DOĽÁK Andrej, , /syn Jána/ /syn Jána/		0	1107
+359	DOĽÁK Ján, , /syn Jána/ /syn Jána/		0	1107
+359	DOĽÁK Michal		0	1399
+359	DUČOVÁ Júlia r. Malčická		0	1945
+359	Dučová Júlia r. Malčická, SR		1	562
+359	Dunajská banka	filiálka Sečovce	0	932,1787
+359	Ďurišin Ján		0	1107,1377
+359	Ďurišin Ján, SR		1	543
+359	Ďurišin Ján, SR	manž.Anna r.Borovská	1	322
+359	Ďurišin Jozef		0	1107,1205
+359	Ďurišin Jozef, SR		1	322
+359	Ďurišin Jozef, SR	syn Juraja	1	709
+359	Ďurišin Juraj		0	1107,2135
+359	Ďurišin Juraj, SR	Mária r.Kičiňková	1	322
+359	Ďurišin Michal		0	1107,2100
+359	Ďurišin Michal, SR	manž.Anna r.Bereščíková	1	322
+359	ĎURIŠINOVÁ Anna r. Bereščíková		0	1107
+359	Ďurišinová Anna r. Bereščiková, SR	manž.Michal	1	322
+359	ĎURIŠINOVÁ Anna r. Borovská		0	1107
+359	Ďurišinová Anna r. Borovská, SR	manž.Ján	1	322
+359	ĎURIŠINOVÁ Anna r. Valkovská		0	1493
+359	Ďurišinová Anna r. Valkovská, SR	manž.Juraj	1	322
+359	ĎURKOVÁ Anna r. Girmanová		0	1608
+359	Ďurková Anna r. Girmanová, SR	manž.Ľudovít	1	322,1009
+359	DZUROČIN Jozef		0	1107
+359	Dzuročin Jozef, SR		1	322
+359	Džudžová Anna		0	1195
+359	Džudžová Anna r. Čopáková		0	1702
+359	Džugan Ján		0	1107
+359	Džugan Ján, SR	manž.Anna r.Polačková	1	322
+359	FARBÁR Michal, , /manž.Anna r.Ščerbová/ /manž.Anna r.Ščerbová/		0	1107
+359	Farbár Michal, SR	manž.Mária r.Bančáková	1	476,1097,1098
+359	FARBÁROVÁ Anna r. Ščerbová, , /manž.Michal/ /manž.Michal/		0	1107
+359	FARBÁROVÁ Mária r. Bančáková		0	1327
+359	Farbárová Mária r. Bančáková, SR	manž.Michal	1	476,477,1097,1098
+359	FARBÁROVÁ Mária r. Tobiašová		0	1107
+359	FAZEKAŠOVÁ Mária r. Kopčová		0	1988
+359	Fazekášová Mária r. Kopčová, SR		1	504,721,2184
+359	Fečová Mária r. Kašová		0	1370
+359	Fečová Mária r. Kašová, SR		1	668,728,1103
+359	FEDOR Július		0	1343
+359	FEDORČÁKOVÁ Anna r. Greculová		0	1824
+359	FEDOROVÁ Alžbeta r. Lukáčová		0	1976
+359	FERENČIK Andrej		0	1397
+359	Ferenčik Andrej, SR	manž.Barbora r.Tomčová	1	926
+359	FERENČIK Ján		0	1366
+359	FERENČIKOVÁ Barbora r. Tomčová		0	1455
+359	Ferenčiková Barbora r. Tomčová, SR	manž. Andrej	1	926
+359	FERENČIKOVÁ Júlia r. Begalová		0	1306
+359	Ferjová Mária r. Jakimová		0	1906
+359	FERJOVÁ Mária r. Jakimová, SR		1	283,284,476,1097,1098
+359	Ferjová Mária r. Kovačová		0	1243
+359	FORAŠOVÁ Mária r. Doľáková		0	1324
+359	GÁNOVÁ Helena r. Haščáková, , /manž.Štefan/ /manž.Štefan/		0	1107
+359	Gazdovská priemyselná banka	PSČ 957 01, Bánovce nad Bebravou 1	0	355,928,1141
+359	GECIOVÁ Barbora r. Sabadošová		0	1107
+359	Geciová Barbora r. Sabadošová, SR		1	322
+359	Gergeľ Juraj, , mal./syn Juraja/ mal./syn Juraja/		0	1107
+359	Gergeľová Anna, SR	dcéra Juraja	1	807
+359	GERMEK Štefan	/syn Jána/ /syn Jána/	0	1107
+359	Giba Ján		0	1107
+359	Giba Ján, SR		1	322
+359	Giba Michal		0	1107
+359	Giba Michal, SR		1	322
+359	Giba Peter		0	1511
+359	GIBOVÁ Anna r. Baňacká		0	1255,1624
+359	GIBOVÁ Mária		0	1107
+359	GIBOVÁ Mária r. Juhásová		0	1107
+359	Gibová Mária r. Juhásová, SR		1	322
+359	Gibová Mária, SR		1	322
+359	Girman Jozef, SR		1	322,1009
+359	Girman Mikuláš, SR	manž.Anna r.Rektorová	1	322
+359	Girman Peter		0	1157
+359	GIRMANOVÁ Mária r. Fedorová		0	2049
+359	GOMBOŠ Eugen		0	1144
+359	HAJDUK Ján		0	1587,2016
+359	HAJDUKOVÁ Johana r. Bančáková		0	1708
+359	Hajduková Johana r. Bančáková, SR		1	477
+359	HALAPIN Ján		0	2071
+359	HALAPIN Ján, , Iľko Iľko		0	1107
+359	Halapin Ján, SR	manž. Anna r.Podpinková	1	310,1028,1101
+359	Halapin Ján, SR	manž.Mária r.Kašniková	1	819
+359	HALAPINOVÁ Anna r. Podpinková		0	1265
+359	Halapinová Anna r. Podpinková, SR	manž. Ján	1	1028
+359	HANČIKOVSKÁ Anna r. Hrindová		0	2089
+359	HANČIKOVSKÝ Andrej		0	1628
+359	HASAROVÁ Alžbeta r. Ďurišinová		0	1107
+359	Hasarová Alžbeta r. Ďurišinová, SR	manž.Michal	1	322
+359	HAŠČÁK Juraj, , /manž.Mária r.Danková/ /manž.Mária r.Danková/		0	1107
+359	Haščák Juraj, SR		1	877
+359	HAŠČÁK Ladislav		0	2122
+359	HAŠČÁK Štefan		0	1107
+359	HAŠČÁK Štefan, , mlš. mlš.		0	1107
+359	Haščák Štefan, SR	str. manž.G.Torokovou	1	476,1097,1098
+359	Haščaková Emma r. Sabová		0	1279
+359	Haščáková Emma r. Sabová, SR		1	730
+359	Haščáková Mária r. Danková, , /manž.Juraj/ /manž.Juraj/		0	1107
+359	HAVRILLA Štefan		0	1107
+359	HAVRILLOVÁ Mária r. Kanalošová		0	1107
+359	HERCZ Alexander, , D D		0	1858
+359	HLATKY Andrej		0	1417
+359	Hlatký Andrej, SR	syn Andreja	1	931
+359	HLATKY Jozef		0	1910
+359	Hlatký Jozef, SR	manž.Anna r.Bajusová	1	931
+359	HLEBAŠKO Andrej		0	1326
+359	HREŠKO Ján		0	1412
+359	HUTKA Ludevit		0	1682
+359	Hutka Ludevit, SR	manž.Anna r.Balažová, zomr. 01.01.1948	1	888
+359	HUTKOVÁ Anna r. Balažová		0	1213
+359	HUZINACOVÁ Mária r. Danková		0	1960
+359	HUŽIČKOVÁ Barbora r. Valkovská		0	1107
+359	Hužičková Barbora r. Valkovská, SR		1	322
+359	IHNÁT Michal, , /manž. Barbora r. Rimarová/ /manž. Barbora r. Rimarová/		0	1398

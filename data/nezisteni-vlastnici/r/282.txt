@@ -1,0 +1,256 @@
+191	Butašová Klára	mal. sestra Františka dcéra Ignáca	1	3290
+191	Butašová Mária		1	1364
+191	Butašová Mária	dcéra Jána	1	3065
+191	Butašová Mária r. Búzková		1	2620,2621,3678,4819,4820
+191	Butašová Mária r. Búzková	ž.Františka	1	2919,4331,4581
+191	Butašová Mária r. Grajzová		1	1385,2230,2622,2623,2760,2781,3512,3513,3639,3775,4124,4242,4302,4358,4636,4898
+191	Butašová Mária r. Oravská		1	4819,4820
+191	Butašová Štefánia	brat Emílie a Márie	1	2620,2621,2900,2941,3678,4096,4819,4820,5464
+191	Butašová Terézia	dcéra Ignáca a Apolónie r.Polákovej	1	2620,2621,2639,2640,3459,4819,4820
+191	Butašovič František	ž.Katarína r.Švajdlenková	1	3632
+191	Buttaš Jozef		1	4012
+191	Búzek Anton	syn Jozefa a Heleny r.Butašovičovej	1	575,2622,2623,2760,2781,2841,2874,3058,3091,3462,4446,4558,5370
+191	Búzek Anton	ž.Alžbeta r.Včelková	1	1353,2620,2621,3402,3678,4819,4820
+191	Búzek Ferdinand	ž.Júlia r.Mrázová	1	2622,2623,2760,2781,3678
+191	Búzek František	ž.Anna r.Búzková	1	2620,2621,2622,2623,3377,3678,4411,4819,4820
+191	Búzek Ján	brat Františka,Antona,Pavla	1	575,2622,2623,2874
+191	Búzek Ján	mal. syn Jozefa a Heleny r.Černej	1	3229
+191	Búzek Ján	syn Imricha a Márie r.Kovárikovej	1	2620,2621,2760,2781,2945,4819,4820,5150
+191	Búzek Ján	syn Jána a Heleny r.Butašovej	1	1878,3726
+191	Búzek Ján	syn Jozefa a Apolónie r.Májkovej	1	3855,3868
+191	Búzek Ján	syn Jozefa a Heleny r.Butašovičovej	1	2622,2623,2760,2781,2841,3058,3091,3462,4446,4558,5370
+191	Búzek Ján	syn Matúša a Kataríny r.Gočálovej	1	3678
+191	Búzek Ján	syn Ondreja a Márie r.Hurbanovej	1	1558,1559,1561,1567,1568,1569,2760,2781
+191	Búzek Ján	syn Vendelína	1	2622,2623
+191	Búzek Ján	ž.Júlia r.Matulová	1	3619
+191	Búzek Ján	ž.Júlia r.Šedivá	1	2620,2621,3399,3678,4478,4819,4820
+191	Búzek Ján	ž.Mária r.Butašová	1	4819,4820
+191	Búzek Ján	ž.Mária r.Duffková	1	2066,3044,3678
+191	Búzek Ján	ž.Mária r.Hurbanová	1	2620,2621,3678,4819,4820
+191	Búzek Jozef		1	3423
+191	Búzek Jozef	a	1	2760,2781
+191	Búzek Jozef	syn Ondreja a Márie r.Hurbanovej	1	1558,1559,1561,1567,2760,2781
+191	Búzek Jozef	syn Vendelína	1	2622,2623
+191	Búzek Jozef	ž.Lucia r.Bakičová	1	1435,2254,4488,4769
+191	Búzek Jozef	ž.Rozália r.Smíkalová	1	4665
+191	Búzek Jozef	ž.Štefánia r.Pavlíková	1	1557,1558,1559,1561,1563,1567,1568,1569,1570,2622,2623,2760,2781
+191	Búzek Jozef	ž.Terézia r.Filípková	1	2760,2781,4665,4670
+191	Búzek Karol	mal. brat Viliama	1	2537,2538,2540,2541,2620,2621,2622,2623,2760,2781,3383,3513,3678,3714,4210,4356,4480,4502,4819,4820,4999
+191	Búzek Ondrej		1	4315
+191	Búzek Ondrej	ž.Anna r.Šajdíková	1	4488
+191	Búzek Pavol	brat Štefana,Márie a Terézie	1	2620,2621,3678,4819,4820
+191	Búzek Pavol	syn Imricha a Márie r.Kovárikovej	1	2620,2621,2760,2781,2945,4819,4820,5150
+191	Búzek Pavol	syn Jozefa a Heleny r.Butašovičovej	1	575,2622,2623,2760,2781,2841,2874,3058,3091,3462,4446,4558,5370
+191	Búzek Pavol	ž.Jozefína r.Rišková	1	2283,3081
+191	Búzek Pavol	ž.Mária r.Dobiášová	1	2066,2896,3224,3271,3274,3678,4334
+191	Búzek Peter	dedí po Alžbete Grajzovej r.Hiklovej	1	2620,2621,4819,4820
+191	Búzek Rudolf	brat Štefana a Magdalény	1	4478
+191	Búzek Štefan	a	1	3210
+191	Búzek Štefan	brat Antónie	1	1558,1559,2622,2623,2709,2760,2781
+191	Búzek Štefan	brat Rudolfa a Magdalény	1	4478
+191	Búzek Štefan	mal. syn Štefana	1	3310,4594
+191	Búzek Štefan	syn Ondreja a Márie r.Hurbanovej	1	1561,1567,1568,1569
+191	Búzek Štefan	ž.Júlia r.Dobiášová	1	3887
+191	Búzek Valent	ž.Anna r.Filová	1	2620,2621,3399,3678,4478,4819,4820
+191	Búzek Viktor	brat Terézie	1	2620,2621,3269,3678,4819,4820
+191	Búzek Viliam	mal. brat Karola	1	2537,2538,2540,2541,2620,2621,2622,2623,2760,2781,3383,3513,3678,3714,4210,4356,4480,4502,4819,4820,4999
+191	Búzková Agneša r. Cintulová		1	3113
+191	Búzková Albína r. Mikulková		1	3678
+191	Búzková Alžbeta	Včelková ž.Antona	1	1926
+191	Búzková Alžbeta r. Včelková	ž.Antona	1	1926,1927,1928,2620,2621,3678,4819,4820,5524
+191	Búzková Anna	dcéra Jána	1	1712,2622,2623
+191	Búzková Anna	sestra Júlie	1	2270,2271,2760,2781
+191	Búzková Anna	ž.Martina	1	1570
+191	Búzková Anna r. Filová	ž.Valenta	1	3165,3525,3548,3678,4220
+191	Búzková Anna r. Hlavenková		1	2809
+191	Búzková Anna r. Jurigová		1	1377,2760,2781,4665,4670,4726
+191	Búzková Antónia	dcéra Márie r.Sekáčovej	1	2760,2781
+191	Búzková Antónia	sestra Štefana	1	1558,1559,1568,1569,2622,2623,2709,2760,2781
+191	Búzková Apolónia r. Májková		1	2760,2781
+191	Búzková Júlia		1	1385,1796,1797,1798
+191	Búzková Júlia	sestra Anny	1	2270,2271,2760,2781
+191	Búzková Júlia r. Dobiášová	ž.Štefana	1	2620,2621,3678,4819,4820
+191	Búzková Júlia r. Matulová	ž.Jána	1	1571,3619,4648
+191	Búzková Júlia r. Mrázová	ž.Ferdinanda	1	2622,2623,2760,2781
+191	Búzková Katarína r. Jankovičová		1	4513
+191	Búzková Lucia r. Bakičová	ž.Jozefa	1	4769
+191	Búzková Magdaléna	dcéra Jozefa	1	1913,4762
+191	Búzková Magdaléna r. Černá	ž.Štefana	1	3678
+191	Búzková Mária	dcéra Jozefa	1	1913,4177,4762
+191	Búzková Mária	dcéra Ondreja a Márie r.Hurbanovej	1	1558,1559,1567,2760,2781
+191	Búzková Mária	mal	1	2760,2781
+191	Búzková Mária r. Bulková	ž.Štefana	1	2622,2623,3777
+191	Búzková Mária r. Butašová	ž.Jána	1	256,334,1245,1250,2613,2622,2623,2760,2781,2788,2821,2862,3500,3664,3678,4079,4297,4819,4820,4915
+191	Búzková Mária r. Dobiášová	ž.Pavla	1	1489,2896,3274,3678,4334
+191	Búzková Mária r. Dobiášová	ž.Pavlak	1	4245
+191	Búzková Mária r. Dufková	ž.Jána	1	4819,4820
+191	Búzková Mária r. Hrebenárová	ž.Matúša	1	1377
+191	Búzková Mária r. Hurbanová	sestra Štefana a Anny Nesnad, zom. 21.11.1981	0	2623
+191	Búzková Mária r. Lasicová		1	1685,2002,2005,2006,2007,2032,2622,2623,2760,2781,2910,3579,4143
+191	Búzková Mária r. Macková		1	4703
+191	Búzková Mária r. Škápiková	ž.Vendelína	1	1563,2622,2623,2760,2781
+191	Búzková Rozália	Cintulová	1	3678
+191	Búzková Rozália r. Cintulová		1	2606,3678
+191	Búzková Rozália r. Janíčková		1	3218,3678
+191	Búzková Rozália r. Janíčková	ž.Ondreja	1	1568,1569,2039,4829
+191	Búzková Rozália r. Smíkalová	ž.Jozefa	1	4665
+191	Búzková Rozália r. Šedivá		1	3678
+191	Búzková Terézia	dcéra Jozefa	1	1913,4177,4762
+191	Búzková Terézia	mal. dcéra Michala	1	2620,2621,3399,3678,4478,4819,4820
+191	Búzková Terézia	sestra Viktora	1	3269
+191	Búzková Terézia r. Filípková		1	2760,2781
+191	Búzková Terézia r. Michálková	ž.Jozefa	1	2620,2621,4819,4820
+191	Cák Ján	brat Jozefa,Jána,Štefana,Ľudovíta a Aloj	1	2620,2621,2622,2623,2760,2781,3678,4819,4820
+191	Cák Ján	kúpa od Jána Bakana,Márie Lasica,Alojza	1	3760
+191	Cák Ján	kúpa od Samka Štefana ,ž.Kat.Dufková	1	4348
+191	Cák Jozef	brat Michal,Ján,Štefan,Ľudovít a Alojz	1	2620,2621,2622,2623,3678,4819,4820
+191	Cák Michal	brat Jozefa,Jána,Štefana,Ľudovíta,Alojza	1	2620,2621,2622,2623,2760,2781,3678,4819,4820
+191	Cák Michal	ž.Helena r.Bobková	1	3678
+191	Cák Pavol	slob. syn Štefana	1	3085
+191	Cák Pavol	ž.Mária r.Matulová	1	1453,2622,2623,2760,2781,2829,3352,4510
+191	Cák Rudolf	ž.Pavlína r.Sekáčová	1	1453,2620,2621,2622,2623,2760,2781,2829,3678,4510,4819,4820
+191	Cák Štefan		1	3962
+191	Cák Štefan	brat Jozefa,Jána,Michala,Ľudovíta,Alojza	1	2620,2621,2622,2623,2760,2781,2995,3244,3678,4819,4820
+191	Cák Štefan	syn Pavla	1	3354,3413
+191	Cák Štefan	ž.Anna r.Benková,zomrel	1	2622,2623
+191	Cák Štefan	ž.Helena r.Vajdová	1	2620,2621,2622,2623,2760,2781,3678,4819,4820
+191	Cáková Helena	Vajdová ž.Štefana	1	2621
+191	Cáková Helena r. .Bobková	ž.Michala	1	3678
+191	Cáková Helena r. Vajdová	ž.Štefana	1	2620,2621,2622,2623,2760,2781,3363,4445,4819,4820
+191	Cáková Magdaléna r. Jankovičová	ž.Michala	1	1745,1748,1749,2620,2621,3678,3714,3722,4502,4819,4820
+191	Cáková Mária r. Drusánková		1	2622,2623,2760,2781
+191	Cáková Pavlína r. Sekáčová		1	1353,2584
+191	Cáková Terézia r. Cintulová	ž.Pavla	1	1353,2620,2621,3678,4819,4820
+191	Cáková Terézia r. Janíčková		1	2180,2622,2623,2760,2781
+191	Cigánek Alojz	ž.Jozefína r.Gachová	1	2620,2621,3678,4819,4820
+191	Cigánek Ignác	ž.Terézia r.Bilková	1	3678,4819,4820
+191	Cigánek Jozef	D not.223/53, N 155/93	1	4819,4820
+191	Cigánek Jozef	mal. brat Márie,Anny a Vendelína	1	3678,4491,4759,4819,4820
+191	Cigánek Jozef	syn Anny r.Bilkovej	1	2620,2621,3678,4819,4820
+191	Cigánek Jozef	ž.Katarína r.Májková	1	4819,4820
+191	Cigánek Martin	ž.Helena r.Bilková	1	2620,2621,3678,4819,4820
+191	Cigánek Martin	ž.Terézia r.Škápiková	1	2620,2621,3678,4702,4819,4820
+191	Cigánek Štefan	ž.Alžbeta r.Cvečková	1	4491
+191	Cigánek Štefan	ž.Anna r.Bilková	1	2620,2621,3678,4819,4820
+191	Cigánek Vendelín	mal. brat Márie,Anny a Jozefa	1	2620,2621,3678,4491,4759,4819,4820
+191	Cigánková Alžbeta r. Cvečková	ž.Štefana	1	3678,4491,4759
+191	Cigánková Anna	mal. sestra Márie, Vendelína a Jozefa	1	2620,2621,3678,4491,4759,4819,4820
+191	Cigánková Anna r. Drinková		1	2620,2621,3678,4819,4820
+191	Cigánková Anna r. Filípková	ž.Štefana	1	2620,2621,3678,4819,4820
+191	Cigánková Helena r. Bilková	ž.Martina	1	2620,2621,3678,4819,4820
+191	Cigánková Jozefína r. Gachová		1	3186
+191	Cigánková Mária	mal. sestra Anny,Vendelína a Jozefa	1	2620,2621,3678,4491,4759,4819,4820
+191	Cigánková Mária r. Solárová		1	3422
+191	Cigánková Terézia r. Bilková		1	4819,4820
+191	Cigánková Terézia r. Hílková	ž.Martina	1	2620,2621,3678,4819,4820
+191	Cigánková Terézia r. Škápiková		1	4702
+191	Cigánková Terézia r. Škápiková	ž.Martina	1	4702
+191	Cimmermannová Jozefína r. Hlavenková		1	2620,2621,2622,2623,3678,3955,3964,3975,4001,4819,4820
+191	Cindíková Júlia r. Matušková		1	2619,2620,2621,3678,4819,4820
+191	Cintula Adam	syn Michala a Júlie r.Drinkovej	1	3441
+191	Cintula Adam	ž.Helena r.Václavková	1	1007,2508,2509,2620,2621,3678,4819,4820
+191	Cintula Alexander	brat Juliany a Jána	1	4113
+191	Cintula Alojz	ž.Albína r.Dufková	1	3678
+191	Cintula Anton	brat Jána, Alojza, Júlie a Márie	1	2760,2781,3264,4753
+191	Cintula Anton	brat Magdalény Malenovskej a Jozefa	1	2620,2621,2946,3678,4819,4820
+191	Cintula Anton	čp.370	1	2116,2620,2621,2622,2623,2760,2781,3304,3585,3678,4819,4820
+191	Cintula Anton	mal. syn Margity r.Šedivej	1	3678
+191	Cintula Anton	ž.Alžbeta r.Blanáriková	1	1353,3907,5526
+191	Cintula Anton	ž.Alžbeta r.Nesnadná	1	1353,1881,3079,4425
+191	Cintula Anton	ž.Irena r.Nesnadná	1	3568
+191	Cintula Anton	ž.Mária r.Ruchovanská	1	1353,1464,2039,2620,2621,3195,3205,3443,3463,3678,3901,4819,4820,4835
+191	Cintula Antonín		1	3586
+191	Cintula Antonín	brat Anny Podolskej a Márie Nesnadnej	1	1353,3303,3431,3678
+191	Cintula Ferdinand	mal. syn Ondreja	1	1353,1779,1781
+191	Cintula Ferdinand	ž.Mária r.Vaňková	1	3080
+191	Cintula Florián		1	2242,2606
+191	Cintula Florián	syn Floriána	1	2242,2620,2621,2924,2925,3020,3678,3893,4725,4819,4820
+191	Cintula Florián	ž.Katarína r.Cvečková	1	2620,2621,3326,3329,3678,4246,4737,4819,4820
+191	Cintula František	a	1	3944
+191	Cintula František	brat Jozefa a Heleny Müllerovej	1	1353,1521
+191	Cintula František	brat Márie,Michala,Heleny a Floriána	1	2620,2621,3893,4819,4820
+191	Cintula František	Hurban	1	2509,3079,3678
+191	Cintula František	mal	1	2602,2606
+191	Cintula František	syn Ignáca a Márie r.Petríkovej	1	2602,2606
+191	Cintula František	syn Mateja	1	2242,2620,2621,2924,2925,3020,3678,4725,4819,4820
+191	Cintula František	ž.Cecília r.Černá	1	2620,2621,2915,3529,4526,4540,4819,4820
+191	Cintula František	ž.Helena r.Trupová	1	2620,2621,3069,3678,4819,4820
+191	Cintula František	ž.Mária r.Tomšová	1	3678
+191	Cintula František	ž.Mária r.Vaňková	1	2799,3082,5561
+191	Cintula František /ž.Helena Macková/		0	4849
+191	Cintula Ignác	brat Jozefa a Mateja	1	1353,2620,2621,3678,3923,4819,4820
+191	Cintula Ignác	syn Jozefa a Anny r.Cintulovej	1	2620,2621,3069,3678,3877,4819,4820
+191	Cintula Ignác	syn Jozefa a Kataríny r.Trávnikovej	1	2620,2621,3457,3678,4819,4820
+191	Cintula Ignác	ž.Terézia r.Baďurová	1	3968
+191	Cintula Imrich	ž.Mária r.Obuchová	1	1353,2620,2621,3678,4257,4819,4820
+191	Cintula Ján	brat Alojza,Antona,Júlie a Márie	1	2760,2781,3264,4753
+191	Cintula Ján	brat Juliany a Alexandra	1	4113
+191	Cintula Ján	brat Júlie Šedivej	1	1353
+191	Cintula Ján	brat Pavla, Evy a Márie	1	1980,2620,2621,4819,4820
+191	Cintula Ján	brat Štefana a Heleny r.Jankovičovej	1	4439,4445
+191	Cintula Ján	brat Terézie Cákovej a Márie Kassayovej	1	2431,2432,2620,2621,3678,4819,4820
+191	Cintula Ján	čp.20	1	4318
+191	Cintula Ján	čp.446	1	1353
+191	Cintula Ján	kúpa z 5.3.1938	1	2876
+191	Cintula Ján	mal. syn Ignáca	1	1976,2620,2621,4819,4820
+191	Cintula Ján	syn Jozefa a Júlie r.Totkovej	1	2620,2621,2886,4819,4820
+191	Cintula Ján	syn Vincenta a Alžbety r.Cintulovej	1	2620,2621,4819,4820
+191	Cintula Ján	titulom dražobného kúpu	1	4007
+191	Cintula Ján	ž.Alžbeta r.Cintulová	1	2620,2621,3678,4819,4820
+191	Cintula Ján	ž.Apolónia r.Mikulková	1	4113
+191	Cintula Ján	ž.Gertrúda r.Dobiášová	1	4131
+191	Cintula Ján	ž.Helena r.Filípková	1	2620,2621,2810,3678,3907,4819,4820,5525,5526
+191	Cintula Ján	ž.Mária r.Kováriková	1	1353
+191	Cintula Jozef	brat Antonína a Magdalény	1	2620,2621,3678,4819,4820
+191	Cintula Jozef	mal. syn Jána	1	1353,3195,3205,3463,3901,3927
+191	Cintula Jozef	slob	1	2620,2621,4819,4820
+191	Cintula Jozef	syn Jozefa a Heleny r.Pavlíkovej	1	2620,2621,3678,4819,4820
+191	Cintula Jozef	ž.Helena r.Pavlíková	1	2799,3080,4479,5561
+191	Cintula Jozef	ž.Helena r.Šedivá	1	2620,2621,3678,4819,4820
+191	Cintula Jozef	ž.Katarína r.Trávniková	1	3457,4718
+191	Cintula Július	mal. syn Štefana	1	1353,1822,3261
+191	Cintula Ľudovít		1	2602,2606
+191	Cintula Ľudovít	ž.Mária r.Černá	1	1321,1322,1348,2622,2623,2760,2781,2856,3301,3518,3587,4484
+191	Cintula Matej	brat Jozefa a Ignáca	1	1353,2620,2621,3678,3923,4819,4820
+191	Cintula Matej	mal. syn Ignáca	1	1976,2620,2621,4819,4820
+191	Cintula Matej	syn Štefana a Júlie r.Nesnadnej	1	2622,2623,2702,2760,2781,2800
+191	Cintula Matej	ž.Helena r.Nesnadná	1	2620,2621,4710,4819,4820
+191	Cintula Michal	syn Floriána a Heleny r.Andelovej	1	2620,2621,3893,4819,4820
+191	Cintula Michal	ž.Helena r.Deščíková	1	2242,2620,2621,2924,2925,3678,4725,4819,4820
+191	Cintula Michal	ž.Terézia r.Ohoralíková	1	2242,2620,2621,2924,2925,3020,3678,4725,4819,4820
+191	Cintula Mikuláš	ž.Magdaléna r.Samková	1	3079,3508
+191	Cintula Ondrej	mal. syn Štefana	1	1353,1822,3261
+191	Cintula Ondrej	ž.Anna r.Jurovatá	1	3678
+191	Cintula Ondrej	ž.Júlia r.Dobiášová	1	1353,2622,2623,2818,3678
+191	Cintula Ondrej	ž.Júlia r.Tihláriková	1	1353,1671,2620,2621,2912,3111,3427,3678,4819,4820,5231
+191	Cintula Pavol		1	2622,2623,2760,2781,3508,3711,4425
+191	Cintula Pavol	*	1	3678,4819,4820
+191	Cintula Pavol	brat Jozefa	1	1353
+191	Cintula Pavol	brat Márie,Júlie,Jána,Heleny,Alojza,Agne	1	1825,1828,2377,2380,2810,3678,3907,5525,5526
+191	Cintula Pavol	brat Mikuláša	1	1353
+191	Cintula Pavol	mal. syn Ondreja	1	1353,1779,1781
+191	Cintula Pavol	mal. syn Štefana	1	1353,1822,3261
+191	Cintula Pavol	syn Adama a Alžbety r.Cintulovej	1	2620,2621,4819,4820
+191	Cintula Pavol	syn Pavla a Márie r.Filípkovej	1	2620,2621,2966,3678,4819,4820
+191	Cintula Pavol	ž.Júlia r.Cintulová	1	2760,2781,3938,4753
+191	Cintula Pavol	ž.Mária r.Kozánková	1	1369,2620,2621,3678,4819,4820
+191	Cintula Štefan		1	2606,3843
+191	Cintula Štefan	b	1	2602
+191	Cintula Štefan	brat Jána a Heleny r.Jankovičovej	1	4439,4445
+191	Cintula Štefan	brat Márie Mackovej a Štefánie Rozboril	1	2610,3031,3204,3225,3678,4694
+191	Cintula Štefan	čp.350	1	4500
+191	Cintula Štefan	II	1	3978
+191	Cintula Štefan	mal	1	3337,4329
+191	Cintula Štefan	ž.Anastázia r.Pavlíková	1	1459,1511,1514,2620,2621,3678,4580,4819,4820
+191	Cintula Štefan	ž.Anna r.Dobiášová	1	2620,2621,4819,4820
+191	Cintula Štefan	ž.Helena r.Bízková	1	1353
+191	Cintula Štefan	ž.Júlia r.Bízková	1	2328,2620,2621,2966,3577,3678,4819,4820
+191	Cintula Štefan	ž.Karolína r.Chovancová	1	1349,1353,2620,2621,3678,4650,4819,4820
+191	Cintula Štefan	ž.Magdaléna r.Hlavenková	1	1353
+191	Cintula Štefan	ž.Margita r.Šedivá	1	1353,1779,1781
+191	Cintula Štefan	ž.Mária r.Bilková	1	1353,1822,3261
+191	Cintula Štefan	ž.Mária r.Kubincová	1	3205,3463,3927
+191	Cintula Štefan	ž.Marta r.Michalicová	1	3440
+191	Cintula Štefan	ž.Terézia r.Baďurová	1	1353
+191	Cintula Vendelín		1	2620,2621,4819,4820
+191	Cintulová Agneša r. Bízková	*	1	2623

@@ -1,0 +1,256 @@
+386	Kendelová Veronika, Bačíková Vrchovská Bačíková Vrchovská		0	3040
+386	Kernerova Elena		0	690,695,737,1437,1811,1854,1855,2211,2255,2264,2318,2320,2492,2805
+386	Kernerova Irena		0	690,695,737,1437,1811,1854,1855,2211,2255,2264,2318,2320,2492,2805
+386	Kernerova Remi		0	1811
+386	Kernerova Romi		0	690,695,737,1437,1854,1855,2211,2255,2264,2318,2320,2492,2805
+386	Kernerová Štefánia	Fofolová	0	694,713,714,729,781,1641,1691,1692,1704,1705,1706,1707,1730,1771,1814,1833,1836,1837,1855
+386	KERNEROVÁ ŠTEFÁNIA r. FOFOL, ČIČMANY, SR		0	2458
+386	Kernerová Štefánia r. Fofolová		0	2255,2263,2315,2328,2329,2420,2425
+386	Kernerová Štefánia, Fofolová Fofolová		0	2519
+386	Kohut Andrej	Z.Joz.Jantoska	0	1712
+386	Kohút Andrej, ž.Jozefína Jantošková ž.Jozefína Jantošková		0	3703,3782
+386	Kohút Emanuel	Pálik	0	694,713,714,729,781,1641,1691,1692,1704,1705,1706,1707,1730,1771,1814,1833,1836,1837,1855
+386	Kohút Emanuel r. Kohút	Pálik, zom. 26.05.1985, Stupava	0	2255,2263,2315,2328,2329,2420,2425
+386	Kohút Emanuel, Pálik Pálik		0	2519
+386	Kohút Emil	Cd.173	0	161,1390,1391,1394,2413
+386	Kohút Emil, čd 173 čd 173		0	3767
+386	Kohut Gregus Jan	Z.Anna Blisnova	0	916
+386	Kohut Gregus Ondrej		0	916,925,1165,1166,2047,2272,2370,2399,2529,2595,3733,3809,3937,3952
+386	Kohút Greguš Ján		0	219,1453,3733
+386	Kohút Greguš Ján	ž.Anna r.Bliznová	0	219,2428
+386	Kohút Greguš Ján, ž.Anna Blisnová ž.Anna Blisnová		0	2529,2595,3733,3809
+386	Kohut Greguš Viktor		0	1436,3033
+386	Kohut Greguš Viliam		0	1436,3595
+386	Kohut Imrich	Syn po Janovi	0	1712
+386	Kohút Imrich		0	2828
+386	Kohút Imrich	Blizno	0	694,713,714,729,781,1641,1691,1692,1704,1705,1706,1707,1730,1771,1814,1833,1836,1837,1855
+386	Kohút Imrich	Blizno, Čičmany 221	0	2255,2263,2315,2328,2329,2420,2425
+386	Kohút Imrich	Janík	0	694,713,714,729,781,1641,1691,1692,1704,1705,1706,1707,1730,1771,1814,1833,1836,1837,1855,2255,2263,2315,2328,2329,2420,2425
+386	Kohút Imrich r. Kohút	syn po Jánovi	0	2303,2356,2429,2460,3941
+386	Kohút Imrich, Blizno Blizno		0	3790
+386	Kohút Imrich, Janík Janík		0	2519
+386	Kohút Imrich, syn po Jánovi syn po Jánovi		0	3703,3782
+386	Kohut Jan	Vo Francuzku	0	1390,1391,1394,1549,1550
+386	Kohut Jan	Z.Joz.Hamalovou	0	1154,1247
+386	Kohút Ján		0	3790
+386	Kohút Ján	Greguš ž.Anna Kohútová Bl	0	694,713,714,729,781,1641,1691,1692,1704,1705,1706,1707,1730,1771,1814,1833,1836,1837,1855
+386	Kohút Ján	Greguš, ž.Anna r.Kohútová Bliznová	0	2255,2263,2315,2328,2329,2420,2425
+386	Kohút Ján	Janik ž.Alžbeta Pažická	0	694,713,714,729,781,1641,1691,1692,1704,1705,1706,1707,1730,1771,1814,1833,1836,1837,1855
+386	Kohút Ján	Janík, ž.Alžbeta r.Pažická	0	2255,2263,2315,2328,2329,2420,2425
+386	Kohút Ján	Janošík ž.Mária Chupeková	0	694,713,714,729,781,1641,1691,1692,1704,1705,1706,1707,1730,1771,1814,1833,1836,1837,1855
+386	Kohút Ján	Jánošík, ž.Mária r.Chupeková	0	2255,2263,2315,2328,2329,2420,2425
+386	Kohút Ján	syn Jána	0	161,1390,1391,1394,1549,1550,2276,2390,2403,2413,2430
+386	Kohút Ján	Švelko ž.Eva Hamalová	0	694,713,714,729,781,1641,1691,1692,1704,1705,1706,1707,1730,1771,1814,1833,1836,1837,1855
+386	Kohút Ján	Švelko, ž.Eva r.Hamalová	0	2255,2263,2315,2328,2329,2420,2425
+386	Kohút Ján	vo Francúzsku	0	161,2276,2390,2413,2430
+386	Kohút Ján	ž.Jozefína r.Hamalová	0	2396
+386	Kohút Ján	ž.Magdaléna Daňová	0	694,713,714,729,781,1641,1691,1692,1704,1705,1706,1707,1730,1771,1814,1833,1836,1837,1855
+386	Kohút Ján	ž.Magdaléna r.Daňová	0	2255,2263,2315,2328,2329,2420,2425
+386	KOHÚT JÁN r. GREGUŠ, ČIČMANY, SR		0	2112,2458
+386	Kohút Ján, Greguš, ž.Anna Kohútová Bliznová Greguš, ž.Anna Kohútová Bliznová		0	2588
+386	Kohút Ján, Janík, ž.Alžbeta Pažická Janík, ž.Alžbeta Pažická		0	2588
+386	Kohút Ján, Janošík, ž.Mária Chupeková Janošík, ž.Mária Chupeková		0	2501
+386	Kohút Ján, syn Jána syn Jána		0	2651
+386	Kohút Ján, Švelko ž.Eva Hamalová Švelko ž.Eva Hamalová		0	2588
+386	Kohút Ján, vo Francúzsku vo Francúzsku		0	2651
+386	Kohút Ján, ž.Jozefína Hamalová ž.Jozefína Hamalová		0	2996,3697
+386	Kohút Ján, ž.Magdaléna Daňová ž.Magdaléna Daňová		0	3790
+386	Kohút Ján, ž.Mária Kohútová ž.Mária Kohútová		0	2610
+386	KOHÚT JÁN, ŽILINA, SR		0	2458
+386	Kohút Janik Imrich		0	2698,2784,3900
+386	KOHÚT JANÍK IMRICH, ČIČMANY, SR		0	2458
+386	Kohút Janík Ján		0	2356,2460,2508,2698,3458,3782,3900
+386	Kohút Janík Ondrej		0	2698,2784,3900
+386	Kohút Jánošík Vendelín	ž.Zuzana r.Gocmanová	0	2255,2263,2315,2328,2329,2420,2425
+386	Kohut Jaroslav		0	1549,1550,2390
+386	Kohut Jaroslav	Syn po Janovi	0	1154,1247,2396
+386	Kohút Jaroslav	Cd.173	0	161,1390,1391,1394,2276,2413,2430
+386	Kohút Jaroslav, syn po Jánovi, čd.173 syn po Jánovi, čd.173		0	2722,3697
+386	Kohut Jozef	Z.Alzb.Duricova	0	1712
+386	Kohút Jozef	Greguš ž.Mária Piešová	0	694,713,714,729,781,1641,1691,1692,1704,1705,1706,1707,1730,1771,1814,1833,1836,1837,1855
+386	Kohút Jozef	Greguš, ž.Mária r.Piešová	0	2255,2263,2315,2328,2329,2420,2425
+386	Kohút Jozef	Janík	0	694,713,714,729,781,1641,1691,1692,1704,1705,1706,1707,1730,1771,1814,1833,1836,1837,1855,2255,2263,2315,2328,2329,2420,2425
+386	Kohút Jozef	Jantoška ž.Veronika Gocmanová	0	694,713,714,729,781,1641,1691,1692,1704,1705,1706,1707,1730,1771,1814,1833,1836,1837,1855
+386	Kohút Jozef	Jantoška, ž.Veronika Gocmanoá	0	2255,2263,2315,2328,2329,2420,2425
+386	Kohút Jozef	syn Jána	0	161,1390,1394,2403,2413
+386	Kohút Jozef	ž.Alžbeta r.Ďuricová	0	2303,2356,2429,2460,3941
+386	Kohút Jozef r. Kohút	zom.10.5.2008, Hollého 262/97, Rajec	0	2370
+386	Kohút Jozef, Greguš, ž.Mária Piešová Greguš, ž.Mária Piešová		0	2588
+386	Kohút Jozef, Janík Janík		0	2519
+386	Kohút Jozef, Jantoška, ž.Veronika Gocmanová Jantoška, ž.Veronika Gocmanová		0	2501
+386	Kohut Jozef, syn Jána syn Jána		0	2575
+386	Kohút Jozef, ž.Alžbeta Ďuricová ž.Alžbeta Ďuricová		0	3703,3782
+386	Kohut Juhas Pavel		0	923,930,2047,2370,2428,2595,2710,3852
+386	Kohut Juhas Stefan		0	923,930,2047,2292,2370,2428,2595,2710,3852
+386	Kohút Juhás Štefan r. Kohút Juhás		0	2255,2263,2315,2328,2329,2420,2425
+386	Kohút Matej		0	2744,3152
+386	Kohút Michal r. Kohút	zom.18.11.1999, Partizánske	0	211,2230,2295,2423,4006
+386	Kohút Ondrej		0	2828
+386	Kohút Ondrej	Greguš syn Ondreja	0	694,713,714,729,781,1641,1691,1692,1704,1705,1706,1707,1730,1771,1814,1833,1836,1837,1855
+386	Kohút Ondrej	Greguš ž.Mária Piešová	0	694,713,714,729,781,1641,1691,1692,1704,1705,1706,1707,1730,1771,1814,1833,1836,1837,1855
+386	Kohút Ondrej	Greguš, syn Ondreja	0	2255,2263,2315,2328,2329,2420,2425
+386	Kohút Ondrej	Greguš, ž.Mária r.Piešová	0	2255,2263,2315,2328,2329,2420,2425
+386	Kohút Ondrej	Janík	0	694,713,714,729,781,1641,1691,1692,1704,1705,1706,1707,1730,1771,1814,1833,1836,1837,1855,2255,2263,2315,2328,2329,2420,2425
+386	Kohút Ondrej r. Kohút	ž.Jozefína r.Jantoška, zom.26.08.1994, Most pri Bratislave	0	63,2303,2356,2429,2460,3941
+386	Kohút Ondrej, Greguš syn Ondreja Greguš syn Ondreja		0	2519
+386	Kohút Ondrej, Greguš ž.Mária Piešová Greguš ž.Mária Piešová		0	3790
+386	Kohút Ondrej, Janík Janík		0	2519
+386	Kohút Palik Emanuel		0	2308
+386	Kohut Palik Jan		0	1641,1826,1833,1836,3177
+386	Kohút Palík Ján	syn po Jánovi	0	2250,2251,2252,2308,2350,2356,2419,2460
+386	Kohút Palik Ján, po Jánovi po Jánovi		0	3790
+386	Kohút Palík Jozef r. Kohút Palík	zom.12.07.1989, Most pri Bratislave 42	0	2250,2251,2252,2255,2263,2308,2315,2328,2329,2350,2356,2419,2420,2425,2460,4005
+386	Kohút Palik Ondrej		0	3147
+386	Kohút Palik Štefan		0	3790
+386	Kohút Pálik Štefan	ž.Dorota Joklová	0	63,3790
+386	Kohút Pálik Štefan	ž.Mária Kohútová	0	2255,2263,2315,2328,2329,2420,2425
+386	Kohút Pálik Štefan r. Kohút	zomrel 07.12.1954, naposledy bytom Nitrianske Pravno ž. Dorota Joklová	0	2255,2263,2315,2328,2329,2420,2425
+386	Kohút Pálik Štefan r. Kohút	zomrel 18.12.1950, naposledy bytom Tužina 669 ž.Cecília r.Zaťková	0	2255,2263,2315,2328,2329,2420,2425
+386	Kohút Palík Štefan r. Kohút Palík	zom.07.12.1954, Nitrianske Pravno; zom.07.12.1954, Nitrianske Pravno	0	2356,2460
+386	Kohút Palík Štefan r. Kohút Palík	zomrel 07.12.1954, Nitrianske Pravno	0	2362
+386	Kohút Pavel		0	2255,2263,2315,2328,2329,2420,2425
+386	Kohút Pavel	Juhás	0	694,713,714,729,781,1641,1691,1692,1704,1705,1706,1707,1730,1771,1814,1833,1836,1837,1855,2255,2263,2315,2328,2329,2420,2425
+386	Kohút Pavel	syn Pavla	0	2356,2419,2460
+386	Kohút Pavel, Juhás Juhás		0	3790
+386	Kohút Pavel, Syn Pavla Syn Pavla		0	2698,3891,3900
+386	KOHÚT PAVOL, JUHÁS, ČIČMANY, SR		0	2458
+386	Kohut Stefan		0	932,2047,2105,2106,2108
+386	Kohut Stefan	Z.Anna Michalec	0	1712
+386	Kohút Śtefan, ž.Anna Michalecová ž.Anna Michalecová		0	3703,3782
+386	Kohut Svelko Matej		0	932,2047,2105,2106,2108
+386	Kohut Svelko Matej	Z.Jozefina Pies	0	925,930,933,3937
+386	Kohút Štefan	Juhás	0	694,713,714,729,781,1641,1691,1692,1704,1705,1706,1707,1730,1771,1814,1833,1836,1837,1855
+386	Kohút Štefan	Pálik ž.Mária Kohútová	0	694,713,714,729,781,1641,1691,1692,1704,1705,1706,1707,1730,1771,1814,1833,1836,1837,1855
+386	Kohút Štefan	ž.Anna r.Michalec	0	2303,2356,2429,2460,3941
+386	Kohút Štefan r. Kohút	ž.Mária Baculová, zom.28.10.1993, Ivanka pri Dunaji	0	2255,2263,2315,2328,2329,2356,2419,2420,2425,2460,4005
+386	Kohút Štefan, Juhás Juhás		0	3790
+386	Kohút Štefan, Pálik ž.Mária Kohútová Pálik ž.Mária Kohútová		0	3790
+386	Kohút Švelko Ján		0	3189,3852
+386	Kohút Švelko Matej	ž.Jozefína r.Piešová	0	235,2290,2292,2294,2370,2399,2428
+386	Kohút Švelko Matej, ž.Jozefína Piešová ž.Jozefína Piešová		0	3543
+386	Kohút Švelko Michal r. Kohút	zom.31.3.1961 Čičmany 223	0	2255,2263,2315,2328,2329,2420,2425
+386	Kohút Švelko Štefan		0	2255,2263,2315,2328,2329,2420,2425
+386	Kohút Vendel	Švelko	0	694,713,714,729,781,1641,1691,1692,1704,1705,1706,1707,1730,1771,1814,1833,1836,1837,1855,2255,2263,2315,2328,2329,2420,2425
+386	Kohút Vendel, Švelko Švelko		0	2519
+386	KOHÚT VENDEL, ŠVELKO, ČIČMANY, SR		0	2458
+386	Kohút Vendelín		0	694,713,714,729,781,1641,1691,1692,1704,1705,1706,1707,1730,1771,1814,1833,1836,1837,1855,2255,2263,2315,2328,2329,2420,2425,3790
+386	Kohút Vendelín	Janošík ž.Zuzana Gocmanová	0	694,713,714,729,781,1641,1691,1692,1704,1705,1706,1707,1730,1771,1814,1833,1836,1837,1855
+386	Kohút Vendelín, Janošík ž.Zuzana Gocmanová Janošík ž.Zuzana Gocmanová		0	3790
+386	Kohutova - Gregusova Alzbeta		0	932
+386	Kohutova - Gregusova Elgia		0	1436
+386	Kohutova - Gregusova Verona		0	932,1436
+386	Kohutova - Janosikova Stefania		0	932,2047
+386	Kohutova - Jantoskova Alzbeta		0	1602
+386	Kohutova Alzbeta	VrchovskaFilova	0	1575,1576,1577
+386	Kohútová Alžbeta	Gregušová	0	694,713,714,729,781,1641,1691,1692,1704,1705,1706,1707,1730,1771,1814,1833,1836,1837,1855,2255,2263,2315,2328,2329,2420,2425
+386	Kohútová Alžbeta	Jantošková r.Vrchovská Mlynár	0	694,713,714,729,781,1641,1691,1692,1704,1705,1706,1707,1730,1771,1814,1833,1836,1837,1855
+386	Kohútová Alžbeta	Račková	0	2255,2263,2315,2328,2329,2420,2425
+386	Kohútová Alžbeta r. Račková		0	2255,2263,2315,2328,2329,2420,2425
+386	Kohútová Alžbeta r. Vrchovská Mlynárová, Jantošková Jantošková		0	3067
+386	Kohútova Alžbeta, Hrvolová Hrvolová		0	3354
+386	Kohútova Alžbeta, Račková Račková		0	2519
+386	Kohútova Alžbeta, Vrchovská Filová Vrchovská Filová		0	3771
+386	Kohútová Anna	Hlasicová	0	694,713,714,729,781,1641,1691,1692,1704,1705,1706,1707,1730,1771,1814,1833,1836,1837,1855,2255,2263,2315,2328,2329,2420,2425
+386	Kohútová Anna	Paliková r.Vrchovská Fabry	0	694,713,714,729,781,1641,1691,1692,1704,1705,1706,1707,1730,1771,1814,1833,1836,1837,1855
+386	Kohútová Anna	Švelková r.Hrvolová Miakyšová	0	694,713,714,729,781,1641,1691,1692,1704,1705,1706,1707,1730,1771,1814,1833,1836,1837,1855
+386	KOHÚTOVÁ ANNA r. HLASICA, ČIČMANY, SR		0	2458
+386	Kohútová Anna r. Hrvolová Miakyšová, Švelková Švelková		0	2501
+386	Kohútová Anna, Hlasicová Hlasicová		0	3754
+386	Kohútová Dorota	Páliková r.Joklová	0	694,713,714,729,781,1641,1691,1692,1704,1705,1706,1707,1730,1771,1814,1833,1836,1837,1855
+386	Kohútová Dorota r. Joklová, Páliková Páliková		0	3790
+386	Kohutova Filipova Anna		0	918,3764
+386	Kohutova Gregusova Alzbeta		0	915,2567,2685,3752,3759,3829
+386	Kohutova Gregusova Verona	Po Karoline	0	915
+386	KOHÚTOVÁ GREGUŠOVÁ ALŽBETA, MAL., ČIČMANY, SR		0	2458
+386	Kohútová Gregušová Elgia		0	2511,2747
+386	Kohútová Gregušová Verona		0	2511,2747
+386	Kohútová Gregušová Verona, po Karolíne po Karolíne		0	2567,2685,3752,3759,3829
+386	KOHÚTOVÁ GREGUŠOVÁ VERONIKA, ČIČMANY, SR		0	2458
+386	Kohútová Gregušová Viktória		0	2511
+386	Kohútová Irena		0	2255,2263,2315,2328,2329,2420,2425
+386	Kohútová Janiková Alžbeta, Pažická Pažická		0	3260
+386	Kohútová Janošíková Štefánia		0	235,915,2291,2370,2398,2428,2567,2685,3752,3759,3829,3857
+386	Kohútová Jantosková Jozefína		0	2370,2428
+386	Kohútová Jantošková Alžbeta r. Vrchovská Mlynárová		0	2255,2263,2315,2328,2329,2420,2425
+386	Kohútová Jantošková Veronika r. Gocmanová		0	2255,2263,2315,2328,2329,2420,2425
+386	Kohutova Jozefina	Piesova	0	821,842,1718,1719
+386	Kohútová Jozefína r. Piešová		0	2303,2349,2352,2419,2429,3941
+386	Kohútová Jozefína, Piešová Piešová		0	2743,2744,2745,3153,3757
+386	Kohútová Katarína r. Vráblová		0	2211,2264
+386	Kohútová Magdaléna	Daňová Jantošková	0	694,713,714,729,781,1641,1691,1692,1704,1705,1706,1707,1730,1771,1814,1833,1836,1837,1855
+386	Kohútová Magdaléna	Daňová Jantošková, zom.13.8.1968	0	2255,2263,2315,2328,2329,2420,2425
+386	Kohútová Magdaléna, Daňová Jantošková Daňová Jantošková		0	2967,3736
+386	Kohutova Maria		0	932,2047,2105,2106,2108
+386	Kohútová Mária	Chupeková	0	694,713,714,729,781,1641,1691,1692,1704,1705,1706,1707,1730,1771,1814,1833,1836,1837,1855,2255,2263,2315,2328,2329,2420,2425
+386	Kohútová Mária	Vrchovská	0	694,713,714,729,781,1641,1691,1692,1704,1705,1706,1707,1730,1771,1814,1833,1836,1837,1855,2255,2263,2315,2328,2329,2420,2425
+386	Kohútová Mária	Vrchovská Cic	0	694,713,714,729,781,1641,1691,1692,1704,1705,1706,1707,1730,1771,1814,1833,1836,1837,1855,2255,2263,2315,2328,2329,2420,2425
+386	Kohútová Mária r. Cigániková	zom. 04.08.1970 Zemianske Sady	0	2255,2263,2315,2322,2326,2328,2329,2420,2425
+386	KOHÚTOVÁ MÁRIA r. VRCHOVSKÁ CICIN, ČIČMANY, SR		0	2458
+386	KOHÚTOVÁ MÁRIA r. VRCHOVSKÁ, ČIČMANY, SR		0	2458
+386	Kohútová Mária, Brundzová Brundzová		0	3644
+386	Kohútová Mária, Fábryová Difková Fábryová Difková		0	3871
+386	Kohútová Mária, Chupeková Chupeková		0	3790
+386	Kohútová Mária, po Vendelínovi po Vendelínovi		0	3411
+386	Kohútová Mária, Vrchovská Cic. Vrchovská Cic.		0	2519
+386	Kohútová Mária, Vrchovská Vrchovská		0	3790
+386	Kohútová Oľga	Cd.173	0	161,2276,2390,2413,2430
+386	Kohútová Oľga	dc.po Jánovi	0	2396
+386	Kohutova Palikova Anna	Vrchovska Fabry	0	1154
+386	Kohútová Paliková Anna r. Vrchovská		0	530,2395,2408
+386	Kohútová Paliková Anna r. Vrchovská Fabry		0	2255,2263,2315,2328,2329,2420,2425
+386	Kohútová Páliková Anna, Hanusková Hanusková		0	3807,3864
+386	Kohútová Paliková Anna, Vrchovská Fábryová Vrchovská Fábryová		0	3625
+386	Kohútová Páliková Dorota r. Joklová		0	2255,2263,2315,2328,2329,2420,2425
+386	Kohutova Palikova Maria	Fabryova	0	823
+386	Kohútová Paliková Mária r. Fábryova	zom.22.5.1995	0	2350
+386	Kohútová Paliková Mária r. Kohútová	zom.20.6.1967	0	235,2291,2428
+386	Kohútová Paliková Mária, Fábryová Fábryová		0	3807,3864
+386	Kohútová Paliková Veronika r. Ďuricová	zom.14.07.1991 Nitrianske Pravno	0	2255,2263,2315,2328,2329,2420,2425
+386	Kohútová Švelková Anna r. Hrvolová Miakyšová		0	2255,2263,2315,2328,2329,2420,2425
+386	Kohútová Švelková Margita, Kamasová Kamasová		0	3454,3852
+386	Kohútová Verona, Ďuricová Ďuricová		0	3790
+386	Kohútová Veronika	Gregušová	0	694,713,714,729,781,1641,1691,1692,1704,1705,1706,1707,1730,1771,1814,1833,1836,1837,1855,2255,2263,2315,2328,2329,2420,2425
+386	Kohútová Veronika, Gregušová Gregušová		0	3790
+386	Kohutova Vilma	Cd.173	0	1390,1391,1394,1549,1550
+386	Kohútová Vilma	dc.po Jánovi	0	161,1154,1247,2276,2283,2286,2390,2396,2413,2414,2430
+386	Kohútová Vilma, čd 173,dc. po Jánovi čd 173,dc. po Jánovi		0	2722,3697
+386	Kohutova Zuzana		0	932,2047
+386	Kohútová Zuzana	Gocmanová	0	694,713,714,729,781,915,918,949,1641,1680,1681,1682,1691,1692,1704,1705,1706,1707,1730,1771,1814,1833,1836,1837,1855
+386	Kohútová Zuzana r. Gocmanová	m.Vendelín, zom.7.12.1958	0	2057,2191,2255,2263,2293,2315,2328,2329,2370,2396,2420,2425,2428
+386	Kohútová Zuzana, Gocmanová Gocmanová		0	2567,3217,3752,3819,3829,3857,3898
+386	Kolárová Emília	Fábryová	0	694,713,714,729,781,855,1641,1680,1681,1684,1691,1692,1704,1705,1706,1707,1730,1771,1814,1833,1836,1837,1855
+386	Kolárová Emília	Fábryová I	0	2255,2263,2315,2328,2329,2420,2425
+386	KOLÁROVA EMÍLIA r. FÁBRY, ČIČMANY, SR		0	2458
+386	Kolárová Emília, Fábryová Fábryová		0	2778,3746
+386	Kopták Jozef r. Kopták, Nesluša 76, 02341, SR, zom.20.03.2012 Nesluša 76, 02341, SR, zom.20.03.2012		0	3830,3831,3832,3833,3834,3835
+386	Koptáková Alžbeta r. Poličková	zom.30.12.1989, Nesluša č.434	0	2255,2263,2315,2321,2328,2329,2417,2420,2425
+386	Kotercová Dora, Kubincová Kubincová		0	2565
+386	Kotercová Irma r. Kabátová		0	1932,2258,2259,2415,3921
+386	Kotercova Katarina	Vrchovska	0	897,1576,2220
+386	Kotercova Katarina	VrchovskaSentek	0	897,906,1569,1574,1575,1576,1577,1581,2220
+386	Kotercová Katarína	Vrchovská Senteková	0	694,713,714,729,781,1641,1691,1692,1704,1705,1706,1707,1730,1771,1814,1833,1836,1837,1855
+386	Kotercová Katarína r. Vrchovská Senteková		0	211,2230,2255,2263,2315,2328,2329,2420,2423,2425
+386	Kotercová Katarína, Vrchovská Senteková Vrchovská Senteková		0	2851,3818
+386	Kotercova Maria		0	1602
+386	Kotercová Mária	Račková	0	694,713,714,729,781,1641,1691,1692,1704,1705,1706,1707,1730,1771,1814,1833,1836,1837,1855,2255,2263,2315,2328,2329,2420,2425
+386	Kotercová Mária	Strapková, r.1911	0	2255,2263,2315,2328,2329,2420,2425
+386	Kotercová Mária	Vrchovská	0	694,713,714,729,781,1575,1576,1577,1641,1691,1692,1704,1705,1706,1707,1730,1771,1814,1833,1836,1837,1855
+386	Kotercová Mária	Vrchovská, m.Štefan	0	2255,2263,2315,2328,2329,2420,2425
+386	Kotercová Mária r. Račková	m.Imrich	0	2383,3953
+386	Kotercová Mária, Račková Račková		0	3790
+386	Kotercová Mária, Strapková,01.01.1911 Strapková,01.01.1911		0	2515
+386	Kotercová Mária, Vrchovská Vrchovská		0	3573
+386	Koterec Imrich	ž.Mária r.Račková	0	2255,2263,2315,2328,2329,2420,2425
+386	Koterec Imrich	ž.Mária Račková	0	694,713,714,729,781,1641,1691,1692,1704,1705,1706,1707,1730,1771,1814,1833,1836,1837,1855
+386	Koterec Imrich, ž.Mária Račková ž.Mária Račková		0	3195
+386	Koterec Jan	Slobodny	0	904,905,2187,4013
+386	Koterec Ján		0	694,713,714,729,781,1641,1691,1692,1704,1705,1706,1707,1730,1771,1814,1833,1836,1837,1855,2255,2263,2315,2328,2329,2420,2425,2565,3386
+386	Koterec Ján	súr. Jozef,Pavol,Viktor,Anna,Mária	0	2258,2259,2260,3921
+386	Koterec Ján, slobodný slobodný		0	2720,2932,3811
+386	Koterec Juraj	ž.Emília Hričová	0	694,713,714,729,781,1641,1691,1692,1704,1705,1706,1707,1730,1771,1814,1833,1836,1837,1855,2255,2263,2315,2328,2329,2420,2425
+386	Koterec Juraj, ž.Emília Hričová ž.Emília Hričová		0	3667
+386	KOTEREC KATARINA r. VRCHOVSKÁ SENTEK, ČIČMANY, SR		0	2458
+386	Koterec Ondrej		0	3236
+386	Koterec Ondrej	ž.Mária Strapková	0	694,713,714,729,781,1641,1691,1692,1704,1705,1706,1707,1730,1771,1814,1833,1836,1837,1855,2255,2263,2315,2328,2329,2420,2425
+386	Koterec Ondrej, ž.Mária Strapková ž.Mária Strapková		0	3790
+386	Koterec Pavel		0	694,713,714,729,781,1641,1691,1692,1704,1705,1706,1707,1730,1771,1814,1833,1836,1837,1855,3790

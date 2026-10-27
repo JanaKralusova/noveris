@@ -1,0 +1,256 @@
+990	Praščak Andrej, SR	manž.Zuzana r.Pirkovská	1	651
+990	PRAŠČAK Ján	1	1	651
+990	PRAŠČAK Juraj		1	651
+990	Praščak Juraj, SR	manž.Barbora r.Praščaková	1	651
+990	PRAŠČAK Michal	1	1	651
+990	Praščaková Barbora r. Praščaková, SR		1	651
+990	PRAŠČAKOVÁ Ilona		1	651
+990	Praščaková Zuzana r. Pirkovská, SR		1	651
+990	PROKOP Michal	1,zomrel	1	663,957
+990	PROKOP Michal	zomrel	1	663,957
+990	PSAKOVA IRENA R KUBAKOVA		0	326
+990	Pšak Ján, SR	manž.Mária r.Dulajová	1	651
+990	PŠAK Juraj		1	651
+990	Pšak Juraj, SR	manž.Alžbeta r.Štefanová	1	651
+990	PŠAK Michal		1	651
+990	PŠAK Michal	malol	1	651
+990	PŠAK Ondrej		1	651
+990	PŠAK Pavol		1	651
+990	PŠAKOVÁ Mária		1	651
+990	Pšaková Mária r. Čurpakovičová, SR		1	651
+990	Pšaková Mária r. Ryniková, SR		1	651
+990	Raciková Júlia r. Copková, SR	muž Juraj,zomrela	1	527,532,569,591,639,667,668,677,683,748,751,752,785,815,817,819,820,840,848,849,850,853,854,855,856,858,896,899,945,962,976,977,989
+990	REBIČ Jozef	zomrel	1	527,677,748,840,849,850,856,858,899,945,976,977,989
+990	REBIČ Michal	1 zomrel	1	527,677,748,840,849,850,856,858,899,945,976,977,989
+990	REBIČ Pavol	NV	1	527,667,668,677,748,752,817,820,840,848,849,850,853,856,858,899,945,976,977,989
+990	Rebič Pavol, SR	manž.Júlia r.Hamašová,zomrel	1	527,840,850,856,858,945,976,977,989
+990	REBIČ Štefan	zomrel	1	527,556,667,668,677,748,752,817,820,840,848,849,850,853,856,858,899,902,945,976,977,989
+990	Rebič Štefan, SR		0	123
+990	Rebičová Anna r. Derneková, SR	vd., manž.Štefan, NV	1	527,840,850,856,858,945,976,977,989
+990	Rebičová Anna r. Derneková, SR	vd.,muž Štefan,NV	1	748,849,899
+990	REBIČOVÁ Zuzana	1 maloletá NV	1	527,667,668,677,748,752,817,820,840,848,849,850,853,856,858,899,945,976,977,989
+990	REBIČOVÁ Zuzana	maloletá NV	1	527,677,748,840,849,850,856,858,899,945,976,977,989
+990	Rebičová Zuzana, SR	mal	0	123
+990	REBJAK Michal		1	527,667,668,677,748,752,817,820,840,848,849,850,853,856,858,899,945,976,977,989
+990	Ribnická Alžbeta r. Dorič Ďačková, SR		1	651
+990	RINIK Juraj		1	651
+990	Roľnícka vzájomná pokladnica, Sobrance, SR		1	527,667,668,677,683,684,748,751,752,785,815,817,819,820,840,848,849,850,853,854,855,856,858,899,945,976,977,989
+990	Roman Ján, SR	zomrel 29.4.1985,manž.Alžbeta r.Doliničová	1	663,957
+990	ROMAN Juraj	nar.1896,zomrel	1	663,957
+990	ROMAN Michal	zomrel	1	663,957
+990	Romančíková Mária r. Kašajová, SR	NP	1	732
+990	Rošaková Helena r. Berezňáková, SR	muž Elek NV	1	527,667,668,677,748,752,817,820,840,848,849,850,853,856,858,899,945,976,977,989
+990	ROŠKOVÁ Anna	maloletá,NV	1	663,957
+990	Roth Moric, Dr., SR		1	651
+990	Rovná Helena r. Rudová, SR	zomrela 13.2.1970	1	663,957
+990	ROVNÁ Verona	nar.1924,NP v USA	1	663,957
+990	ROVNÁ Veronika	zomrela	1	663,957
+990	Rovňáková Anna r. Berezňáková, SR	muž Illeš NV	1	508,527,606,656,667,668,675,677,691,748,752,817,820,840,848,849,850,853,856,858,899,932,945,971,976,977,989
+990	Rovný Antón, SR	zom.10.11.1985	1	663,957
+990	ROVNÝ Jozef	zomrel	1	663,957
+990	ROVNÝ Karol	zomrel	1	663,957
+990	RUDOLF František, SR		1	663,957
+990	Rudolf Jozef	maloletý,zom.14.11.1978, manž.Anna Tuňová	1	663,957
+990	RUDOLF Jozef	2,zomrel	1	663,957
+990	RUDOLF Jozef	ml.,zomrel	1	663,957
+990	RUDOLF Ľudovít	nar.1860,zomrel	1	663,957
+990	Rudolfová Fanika r. Rovná, SR	zom.6.10.1994	1	663,957
+990	RUDOLFOVÁ Jozefína	zomrela	1	663,957
+990	RUDOLFOVÁ Karolína	zomrela	1	663,957
+990	RYBNICKÁ Alžbeta		1	611,651
+990	RYBNICKÁ Anna		1	611,651
+990	Rybnická Anna r. Jackuličová, SR		1	616,619
+990	Rybnická Mária r. Babuková, SR		1	651
+990	RYBNICKÝ Andrej		1	651
+990	RYBNICKÝ Juraj		1	651
+990	RYBNICKÝ Juraj	malol	1	651
+990	RYBNICKÝ Michal		1	651
+990	RYBNICKÝ Pavol		1	651
+990	RYNIK Andrej	malol	1	651
+990	RYNIK Juraj	malol	1	651
+990	Rynik Juraj, SR	manž.Alžbeta r.Sotaková	1	651
+990	Rynik Juraj, SR	manž.Mária r.Pšaková	1	651
+990	RYNIK Michal		1	651
+990	RYNIK Michal	malol	1	651
+990	RYNIK Michal, SR	manž.Mária r.Haková	1	651
+990	RYNÍKOVÁ Alžbeta	r.Sotáková	1	651
+990	Ryniková Alžbeta r. Pšaková, SR		1	651
+990	SAVKA Ján	nar.1887,zomrel	1	663,957
+990	Savka Ján, SR	zom.4.10.1986	1	663,957
+990	Savka Juraj, SR	narodený 1885,zomrel 5.11.1932	1	663,957
+990	Savka Juraj, SR	narodený.1885,zomrel 5.11.1932	1	663,957
+990	SAVKA Michal	nar.1889,zomrel	1	663,957
+990	SAVKA Ondrej	nar.1890,zomrel	1	663,957
+990	Savková Mária r. Janusíková, SR	narodená.1869, zomrela 17.1.1945	1	663,957
+990	SAVKOVÁ Zuzana	nar.1892,zomrela	1	663,957
+990	Semivanová Zuzana r. Copková, SR	muž Juraj,NV	1	527,569,591,639,667,668,677,683,748,751,752,785,815,817,819,820,840,848,849,850,853,854,855,856,858,896,899,945,962,976,977,989
+990	Serečinová Mária r. Kasaiová, SR	NV	1	527,671,748,834,840,849,850,856,858,899,945,976,977,989
+990	SCHREINER Juraj, SR	manž.Helena r.Rušinová,NV	1	543
+990	SCHREINEROVÁ Helena r. Rušinová, SR	manž.Juraj, NV	1	543
+990	SIMONEK MATIAS		0	16
+990	Sinčáková Anna r. Krajňaková, SR		1	651
+990	SKULTETY ALZBETA R PILECKA		0	338
+990	SKYBA Michal	zomrel	1	527,677,748,840,849,850,856,858,899,945,976,977,989
+990	SLANINKOVÁ Margita		1	651
+990	Slávik Ján, SR	manž.Alžbeta r.Hamašová,zomrel	1	527,621,667,668,677,683,692,748,750,751,752,785,815,817,819,820,840,848,849,850,853,854,855,856,858,899,920,921,945,976,977,989
+990	Sláviková Alžbeta r. Doričová, SR		1	651
+990	Sláviková Alžbeta r. Hamašová, SR	muž Jan,zomrela	1	527,677,692,748,840,849,850,856,858,899,945,976,977,989
+990	Sláviková Mária r. Doričová, SR		1	651
+990	SLIVKA Ján		1	575
+990	Slivka Juraj, SR		1	575,622
+990	SOLEMAN Michal		1	651
+990	Solemanová Mária r. Nemčoková, SR		1	651
+990	SOTAK Ján		1	651
+990	SOTÁK Juraj		1	651
+990	SOTAK Michal	1	1	651
+990	Soták Michal, SR	manž.Mária r.Doričová	1	610
+990	SOTÁKOVÁ Anna		1	651
+990	Sotáková Anna r. Kochmanová, SR	n.1914 NP	1	565,641,649,664,683,751,785,815,819,854,855,869,870
+990	SOTAKOVÁ Mária		1	651
+990	Sotáková Mária r. Doričová, 073 01, Horňa, č. 140, SR		1	651
+990	Sotáková Mária r. Doričová, SR		1	651
+990	Sotáková Mária r. Imlejová, SR		1	651
+990	Stanková Zuzana r. Romanová, SR	zomrela	1	663,957
+990	STOLIČNÁ Anna r. Košťová, SR		1	551
+990	Stoličný Juraj, SR	zomrel 10.9.1990	1	663,957
+990	STOLIČNÝ Michal	zomrel	1	663,957
+990	Suchá Mária r. Fenciková, SR	NP	1	597,677,681,936
+990	SUSLOVÁ Mária, SR		1	663,957
+990	SVIDOVA ANNA R KASICOVA KOSICE		0	278
+990	ŠABAK Ján		1	549
+990	ŠABAK Juraj		1	560
+990	Šabáková Mária r. Jackuličová, SR		1	616,619
+990	Šalapková Anna r. Merganičová, SR	zomrela	1	667,752,817,820,848,853
+990	ŠIROCHMAN Ján		0	47
+990	ŠIROCHMAN Ján	maloletý NV	1	516,527,579,677,683,748,751,785,800,801,815,819,840,849,850,854,855,856,858,899,933,945,976,977,989
+990	ŠIROCHMAN Ján	NV	1	667,668,752,817,820,848,853
+990	ŠIROCHMAN Michal		0	47
+990	ŠIROCHMAN Michal	maloletý NV	1	516,527,579,677,683,748,751,785,800,801,815,819,840,849,850,854,855,856,858,899,933,945,976,977,989
+990	ŠIROCHMAN Michal	NV	1	667,668,752,817,820,848,853
+990	ŠIROCHMANOVÁ Helena	NV	1	683,751,785,815,819,854,855
+990	ŠIROCHMANOVA Mária		0	47
+990	ŠIROCHMANOVÁ Mária	maloletá NV	1	516,527,579,677,683,748,751,785,800,801,815,819,840,849,850,854,855,856,858,899,933,945,976,977,989
+990	Škultétyová Alžbeta r. Pilecká, SR	vd.zomrela	1	536,696,723
+990	Štichová Anna r. Streňová	zom.9.2.1987	1	663,957
+990	Šuhajdová Alžbeta r. Basandová, SR		1	651
+990	Šuhalková Júlia r. Fenciková, SR	NV	1	527,647,748,840,849,850,856,858,899,945,976,977,989
+990	TELEKANIČ Ján		1	651
+990	TIMKO Ján		1	651
+990	Timko Ján, SR	manž.Anna r.Kotunová	1	651
+990	TIMKO Michal	2,zomrel	1	663,957
+990	TIMKO Michal	zom.11.10.1952,m.Berta r.Maťašová	1	663,957
+990	Timko Michal, SR	zom.27.12.1987	1	663,957
+990	Timko Michal, SR	zomrel,m.Anna r.Muchová	1	663,957
+990	TIMKOVÁ Anna	r.Záhorčáková	1	651
+990	Timková Anna r. Muchová, SR	zomrela,m.Michal	1	663,957
+990	Timková Berta r. Maťašová, SR	zomrela 17.7.1971	1	663,957
+990	TIMKOVÁ Mária	malol	1	651
+990	TIMKOVÁ Mária	zomrela	1	663,957
+990	Timková Verona r. Pavluliková, SR	zomrela	1	663,957
+990	Tisová Mária r. Doričová, SR		1	651
+990	TIŽO Juraj	1	1	651
+990	Tižová Mária r. Sinčáková, SR	vd	1	651
+990	TOMČO Ján	zomrel	1	500,520,526,527,594,658,667,668,677,748,752,817,820,840,848,849,850,853,856,858,899,935,945,976,977,989
+990	TOMČO Michal	mladší,zomrel	1	526,527,667,668,677,748,752,817,820,840,848,849,850,853,856,858,899,945,976,977,989
+990	TOMČO Pavel	maloletý,zomrel	1	500,520,526,667,752,817,820,848,853
+990	TOMČO Štefan	maloletý NP	1	500,520,526,527,594,658,667,668,677,748,752,817,820,840,848,849,850,853,856,858,899,935,945,976,977,989
+990	TOMČOVÁ Anna	maloletá NP	1	500,520,526,527,748,840,849,850,856,858,899,945,976,977,989
+990	TOMČOVÁ Zuzana r. Petruničová, SR	zomrela	1	520
+990	TOMKO Ján		1	546
+990	TOMKO Ján	mal	1	546
+990	TOMKO Juraj		1	546
+990	TOMKOVÁ Anna		1	546
+990	TOMKOVÁ Mária		1	546
+990	TOMKOVÁ Mária	mal	1	546
+990	TOMKOVÁ Mária r. Kovalová, SR		1	546
+990	UBĽANSKÝ Michal, SR		1	663,957
+990	UCHNÁR Andrej	zomrel	1	595
+990	Uverné družstvo, Choňkovce, SR		1	710,818,833,910,946,952
+990	Vahárová Elena r. Danková, SR		1	651
+990	Valenta Andrej, SR	zomrel 25.1.1979, manž. Júlia r.Lucová	1	663,957
+990	VALENTA Anton	nar.1903,zomrel	1	663,957
+990	Valenta František, SR	zomrel 12.8.1988	1	663,957
+990	VALENTA Jozef	2,zomrel	1	663,957
+990	Valenta Jozef, SR	zom.12.3.1983	1	663,957
+990	Valenta Karol, SR	zom.6.7.1995	1	663,957
+990	VALENTA Ľudovít	nar.1918,zomrel	1	663,957
+990	Valentová Berta r. Rudolfová, SR	n.1894,zomrela,m.Anton	1	663,957
+990	VARGOVÁ Anna	NV	1	508,538,932,971
+990	VAROŠČÁK Andrej	1 NV	1	553,594,714,935,942
+990	VAROŠČÁK Andrej	maloletý NV	1	714,942
+990	VAROŠČÁK Ján	manž.Anna r.Topoľančíková	1	651
+990	VAROŠČÁK Ján	NP	1	677
+990	VAROŠČÁK Ján	zomrel	1	594,667,668,677,752,817,820,848,853,935
+990	VAROŠČÁK Juraj	NV	1	495
+990	Varoščák Juraj, SR	manž.Mária r.Pšáková,NV	1	527,553,594,748,840,849,850,856,858,899,935,945,976,977,989
+990	VAROŠČÁK Michal	n.r.1901,zomrel	1	748,849,899
+990	Varoščák Michal, SR	n.r.1901,zomrel	1	527,677,840,850,856,858,945,976,977,989
+990	Varoščáková Anna r. Maciková, SR	vd.zomrela	1	495
+990	Varoščáková Júlia r. Dankuličová, SR	zomrela	1	667,668,683,751,752,785,815,817,819,820,848,853,854,855
+990	Varoščáková Mária r. Copková, SR	muž Andrej, zomrela	1	527,840,850,856,858,945,976,977,989
+990	Varoščáková Mária r. Copková, SR	muž Andrej,zomrela	1	748,849,899
+990	Varoščáková Mária r. Pšáková, SR	muž Juraj,NV	1	683,751,785,815,819,854,855
+990	VASIĽ Andrej, SR	m.Mária r.Teová	1	566
+990	VASIĽ Ján, SR	m.Zuzana r.Teová	1	566
+990	VASIĽ Michal	NV	1	523
+990	VASIĽ Michal, SR	m.Mária r.Timková	1	566
+990	VASIĽ Pavol, SR	m.Mária r.Jevčáková	1	566
+990	VASIĽ Štefan		1	566
+990	VASIĽKO Juraj	2 zomrel	1	527,668,683,748,751,785,815,819,840,849,850,854,855,856,858,899,945,976,977,989
+990	Vasiľko Michal, SR	zomrel	1	721
+990	Vasiľová Verona r. Valentová, SR	narodená.1920,NP v ČR	1	663,957
+990	Velová Jolana r. Lapšanská, SR	zomrela	1	524,527,638,667,668,677,683,748,751,752,785,815,817,819,820,840,848,849,850,853,854,855,856,858,899,945,976,977,989
+990	VIŇANSKÁ Anna		1	651
+990	VIŇANSKÝ Ján	malol	1	651
+990	VIŇANSKÝ Michal		1	651
+990	Vítková Anna r. Copková, SR	muž Gustav zomrela	1	691
+990	VIXTA Andrej	nar.1883,zomrel	1	663,957
+990	VIXTA Ján	nar.1886,zomrel	1	663,957
+990	VIXTA Michal	nar.1890,zomrel	1	663,957
+990	VIXTOVÁ Helena	nar.1888,zomrela	1	663,957
+990	ZÁHORČÁK Pavol		1	651
+990	Záhorčáková Anna r. Žužová, SR		1	651
+990	Záhorčáková Zuzana r. Fedorová, SR		1	663,957
+990	ŽOFČAK Juraj		1	651
+990	Žofčáková Mária r. Riniková, SR		1	651
+990	Žofčáková Mária r. Ryníková, SR		1	651
+990	ŽUŽO Iľja		1	651
+991	Ágostonová Helena r. Ballová		0	399
+991	Agošton Ján r. Agošton	ž.Helena r. Matyová	0	792
+991	Agošton Michal r. Agošton	ž.Mária r.Vargová	0	819
+991	Agošton Štefan r. Agošton	ž.Helena r.Ballová	0	769
+991	Antal Pavol r. Antal	zomrel	0	803
+991	Antalová Mária r. Gálová		0	826
+991	Atlaszová Júlia r. Szabadošová		0	712
+991	Balázs Pavel r. Balázs	ž.Rozália r.Tóthová	0	827
+991	Balla Ján		0	640
+991	Balla Jozef		0	430
+991	Ballová Helena r. Jelenová		0	430,491,616
+991	Balog Štefan r. Balog	ž.Veronika r.Debnárová	0	707
+991	Bartuš Michal r. Bartuš	ž.Mária r.Fabová	0	818
+991	Bazsó Jozef r. Bazsó	ž.Mária r.Matyóová	0	744
+991	Bazsó Július r. Bazsó	ž.Mária r.Matyóová	0	776
+991	Bazsó Michal		0	428,452
+991	Bazsó Michal r. Bazsó	ž.Alžbeta r.Vilantová	0	745,775
+991	Bazsó Peter r. Bazsó	ž.Alžbeta r.Fábová	0	824
+991	Bazsó Viliam		0	452
+991	Bazsó Viliam r. Bazsó		0	775
+991	Bazsóová Mária r. Polyáková	Michalova	0	798
+991	Bazsová Mária r. Antalová	Jánova, Maďarsko	0	762
+991	Bazsová Mária r. Matyová	Jozefova	0	781,782
+991	Bélesová Helena r. Hegedusová	Pavlova	0	768
+991	Benedek Jozef r. Benedek	ž.Johana r. Ballová, Maďarsko	0	680
+991	Benedek Július		0	613
+991	Benedek Július r. Benedek	ž.Helena r. Péliová	0	778
+991	Benedek Pavel		0	304
+991	Benková Margita r. Záturecká		0	713
+991	Berta František r. Berta	ž.Marta r.Varsanyiová	0	797
+991	Berta Ladislav r. Berta	ž.Mária r.Kantová, Maďarsko	0	724
+991	Capák Jozef r. Capák		0	646
+991	Capáková Margita r. Vandrušová		0	646
+991	Csala František r. Csala	ž.Mária r.Šimová	0	725,730
+991	Csala Ján r. Csala	ž.Mária r.Vígová	0	667
+991	Csaudtová Alžbeta r. Petríková		0	719
+991	Csoványová Mária		0	613
+991	Csovanyová Mária r. Benedeková		0	456,778
+991	Červenáková Alžbeta r. Pšenicová		0	704

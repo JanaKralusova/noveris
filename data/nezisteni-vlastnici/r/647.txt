@@ -1,0 +1,256 @@
+376	FORGÁČ Andrej	obyvateľ v Červeňanoch	1	228,232
+376	FORGÁČOVÁ Mária	r.Krasníková,m.Ondrej	1	229,285
+376	GARAJ Ján		1	185,186,228
+376	GARAJOVÁ Mária		1	186,228
+376	GARAJOVÁ Mária	r.Babjaková,m.Juraj	1	185,186,228
+376	HRK Juraj		1	146
+376	HRKOVÁ Anna	r.Beracková,m.Ján	1	166,193,200,210,217,228,233,241
+376	HUDEC Ján	1	1	203,220,227,229,244,247,285
+376	HUDEC Ján	horný	1	174,227,229,244,247,285
+376	HUDEC Juraj	nar.8.9.1933,Bazovského 1905/15a,Zvolen	1	173
+376	HUDEC Michal	maloletý	1	227,229,247,285
+376	HUDEC Pavol		1	227,229,247,285
+376	HUDEC Pavol	ž.Mária r.Klátiková	1	172,228,239,275
+376	HUDECOVÁ Anna	mal	1	174,189
+376	HUDECOVÁ Anna	maloletá v Maďarsku	1	174,189,227,228,229,247,285
+376	HUDECOVÁ Anna	r.Kurnásová	1	139,171,213,227,228,229,247,260,282,285
+376	HUDECOVÁ Anna	r.Mlynárová,m.Ján	1	227,229,237,247,285
+376	CHOVANOVÁ Zuzana	r.Mihálová	1	227,229,247,285
+376	KANDA Adam		1	227,229,247,285
+376	KANDA Juraj	1	1	159
+376	KANDA Juraj	Červeňany 11	1	230
+376	Kandová Anna r. Huďanová, Nové Zámky, SR		1	197,228,232
+376	KANDOVÁ Zuzana		1	227,229,247,285
+376	KISEĽ Pavol		1	191,228
+376	KORČOK Pavol	maloletý	1	279
+376	KOTMAN Ján		1	205,227,229,247,285
+376	KOTMANOVÁ Anna	r.Kollárová,m.Štefan	1	227,229,247,285
+376	Kotmanová Zuzana r. Torňošová, SR		1	208,214,227,228,229,230,247,285
+376	KRAJČOV Ján		1	199,201,220
+376	KRAJČOV Juraj		1	199,201,220
+376	KRAJČOVÁ Zuzana	r.Melicherčíková	1	127,170,172,180,181,227,228,229,231,240,247,248,274,275,285
+376	KRASNÍK Andrej		1	228
+376	Krasník Ján	žiak,ml	1	127
+376	KRASNÍK Juraj		1	227,229,247,285
+376	KRASNÍK Michal	maloletý	1	148,228,258
+376	KRASNÍK Ondrej		1	127,180,181,225,227,229,231,242,247,248,285
+376	KRASNÍK Pavol		1	163,227,228,229,247,266,285,287
+376	KRASNÍKOVÁ Mária	r.Krasníková,m.Ondrej	1	209,225
+376	KRIVINOVÁ Katarína	r.Kandová	1	227,229,247,285
+376	KRNÁKOVÁ Anna	r.Kotmanová	1	205,227,229,247,285
+376	KULÍK Ján		1	127,157,180,181,228,231,248,284
+376	KURNAS Pavol	ml	1	245
+376	KURNASOVÁ Anna		1	127,180,181,231,248
+376	LABÁTOVÁ Anna	r.Krásniková,m.Ondrej	1	163,228,229,247,266,285,287
+376	Labátová Anna r. Krasníková	manž. Ondrej	1	227
+376	LISKA Ján		1	183
+376	MARTULJAKOVÁ Anna	r.Beracková	1	160,228,239
+376	MATÚŠ Ondrej		1	227,229,247,285
+376	Melicherčík Ján		1	127
+376	MELICHERČÍK Pavol		1	227,247
+376	MELICHERČÍK Pavol	ml	1	227,229,247,285
+376	Melicherčíková Anna r. Beracková		1	127
+376	MIHÁL Ján		1	238,244
+376	MIHÁL Michal		1	227,229,247,285
+376	MIHÁL Ondrej	m.r.Vajová	1	192,228
+376	MIHÁL Pavol		1	227,229,247,285
+376	MIHÁL Pavol	maloletý	1	170,228,274
+376	MIHÁL Pavol	Matúch ,Červeňany č.10	1	227,229,230,247,285
+376	MIHÁLOVÁ Anna		1	170,228,274
+376	MIHÁLOVÁ Anna	r.Párničanová	1	193,210,228,241
+376	MIHÁLOVÁ Zuzana		1	170,228,274
+376	MIHÁLOVÁ Zuzana	r.Kunštárová,m.Ondrej	1	229,285
+376	MIHÁLOVÁ Zuzana	vdova r.Vajová	1	168,224,229,247,285
+376	Mihálová Zuzana r. Vajová	vdova	1	227
+376	MLYNÁR Ján	horný	1	227,228,229,247,285
+376	MLYNÁR Ján	m.Anna r.Beracková	1	228
+376	MLYNÁR Ondrej		1	222
+376	Mlynár Pavel, SR		1	230
+376	MLYNÁROVÁ Anna	horná	1	227,229,247,285
+376	MLYNÁROVÁ Anna	horný	1	167,255
+376	MLYNÁROVÁ Mária	r.Krasníková,m.Ján	1	156,194,195,225,227,228,229,247,285
+376	MLYNÁROVÁ Zuzana	r.Beracková	1	127,141,180,181,190,221,227,228,229,231,247,248,283,285
+376	MLYNÁROVÁ Zuzana	r.Korčoková,m.Ján	1	178,223,279
+376	MÚČKOVÁ Anna	r.Melicherčíková	1	127,180,181,231,248
+376	OZGANOVÁ Mária	r.Krasníková,m.Ján	1	227,228,229,247,285
+376	Ozganová Mária r. Krasniková	manž. Ján	1	287
+376	PAĽAGA Pavol	Červeňany 18	1	230
+376	PAĽAGOVÁ Zuzana	r.Hudecová	1	229,244,285
+376	Párničan Ján	m.Katarína r.Hanusová	1	127
+376	Párničanová Katarína r. Hanusová		1	127
+376	PAVLÍKOVÁ Zuzana	r.Beracková	1	160,227,228,229,247,285
+376	PETRÁŠOVÁ Mária	r.Krasníková,Červeňany 6	1	163,227,228,229,230,247,266,285,287
+376	POLIAK Štefan		1	145
+376	POLIAKOVÁ Anna	r.Krasníková,m.Ján,turčan	1	163,227,228,229,247,266,285,287
+376	POLIAKOVÁ Margita	r.Karáseková	1	227,247
+376	RAGÁČOVÁ Mária	r.Vargová	1	227,229,285
+376	Ragačová Mária r. Vargová		1	247
+376	STEVÁK Juraj		1	159,197,227,228,229,232,247,285
+376	STEVÁKOVÁ Mária	r.Krasníková,m.Juraj	1	159,197,228,232
+376	SUCHANSKÁ Zuzana	r.Durianecová	1	200
+376	ŠANTA Juraj	kosteč,m.Zuzana r.Trniková	1	235
+376	ŠEMETKOVÁ Zuzana	r.Chovanová,m.Ján	1	169
+376	ŠIMOV Ján		1	223
+376	TORNOŠOVÁ Mária	buna	1	172,227,228,229,239,247,275,285
+376	Turčan Ján		1	127
+376	Turčan Ján, SR		1	151,180,181
+376	Turčan Pavol		1	127
+376	TURČAN Pavol	Červeňany 36	1	127,151,180,181,196,198,228,230,231,248
+376	TURČANOVÁ Mária	r.Bertošová	1	228,246
+376	VALACH Pavol	m.Mária r.Slosiarová	1	227,229,247,285
+376	VALACH Pavol	ml	1	227,229,247,285
+376	VALACHOVÁ Mária	r.Slosiarová,m.Pavol	1	227,229,247,285
+376	VRBOVÁ Božena	maloletá ,Horný Tisovník	1	217,241
+376	ZDYCHA Ján	m.Anna r.Duranová	1	202,234
+376	ZDYCHA Pavol		1	202,234
+377	Andrejčák Michal r. Andrejčák		0	182
+377	Andrejčáková Mária		0	405,513,607
+377	Antol Juraj	ž.Mária r.Hudáková	0	273,522,583
+377	Antol Juraj r. Antol	ž.Mária r.Hudáková	0	153
+377	Antolík Juraj r. Antolík		0	340
+377	Antolíková Anna r. Dolná		0	236,694
+377	ANTOLOVÁ Alžbeta		0	253,405,513,607
+377	ANTOLOVÁ Mária r. Hudáková		0	705
+377	Balint Ján, SR		0	25,653,727,728,742,743
+377	Balintová Mária r. Uhriňáková, SR		0	25,653,727,728,742,743
+377	Barňáková Anna r. Lorincová		0	137,273,405,513,522,607
+377	BASALA Andrej		0	700
+377	BASALOVÁ Mária		0	700
+377	Bednárová Mária r. Bednárová		0	328,405,513,607
+377	Bobaľová Alžbeta r. Drábová		0	137,179,339,340,341,342,405,513,607,627,721
+377	BODNÁR Juraj		0	405,513,607
+377	Bodnár Juraj r. Bodnár		0	323,328,338
+377	Bugoš Andrej	ž.Alžbeta r.Štofanová	0	405,513,607
+377	BUGOŠ Andrej		0	694
+377	Bugoš Ján r. Bugoš		0	405,513,607
+377	BUGOŠ Štefan		0	702
+377	Bugošová Alžbeta r. Štofanová	m.Andrej	0	405,513,607
+377	BUGOŠOVÁ Anna		0	405,513,607
+377	Bugošová Helena	ml	0	702
+377	BUGOŠOVÁ Mária		0	405,513,607
+377	Bulna Andrej	matka Alžbeta r.Homzová	0	405,513,607
+377	Bulna Andrej	ž.Alžbeta r.Gaľová	0	426
+377	Bulna Andrej	ž.Barbora r.Dolná	0	405,426,513,607
+377	Bulna Andrej r. Bulna	matka Alžbeta r.Homzová	0	141
+377	Bulna Andrej r. Bulna	ž.Barbora r.Dolná	0	141
+377	BULNA GAĽA Andrej		0	116
+377	BULNA CHOVAN Juraj		0	426
+377	Bulna Chovan Juraj r. Bulna Chovan		0	98,99
+377	Bulna Ján	ž.Barbara r.Jakubová	0	405,513,607
+377	Bulna Ján r. Bulna	3	0	590
+377	Bulna Ján r. Bulna	4	0	98,99
+377	BULNOVÁ Alžbeta r. Gaľová		0	426
+377	BULNOVÁ Anna		0	94,95,426
+377	Bulnová Anna r. Dubnická	m.Ján	0	94
+377	Bulnová Barbara r. Jakubová	m.Ján	0	405,513,607
+377	CICMANOVÁ Mária r. Šoltísová		0	405,513,607
+377	Čatlošová Anna		0	215,714
+377	Čulková Dorota r. Hudáková	m.Ján	0	405,509,513,607
+377	DANKOVÁ Mária r. Vargová	muž Juraj	0	697
+377	DRÁB Andrej		0	405,513,607,627,721
+377	DRÁB Andrej r. DRÁB		0	137,179,339,340,341,342,405
+377	Dráb Ján r. Dráb		0	93,94
+377	Dráb Ján r. Dráb a Helena Drábová r. Barňaková		0	95
+377	DRÁB Juraj		0	405,513,607,627,721
+377	Dráb Juraj r. Dráb		0	137,339,340,341,342,405
+377	DRÁBOVÁ Alžbeta r. Polaščáková		0	238,273,627
+377	Drabová Anna r. Fedorová	m.Ján	0	405,513,607
+377	Drábová Helena r. Barňaková		0	93,94
+377	DUBINSKÝ Andrej		0	405,513,607
+377	Evanjelický a.v. farský úrad Opiná, fília Červenica		0	144
+377	FEDOR Andrej		0	692
+377	Fedor Juraj	ž.Anna r.Beňová	0	405,513,607,692
+377	Fedorčo Juraj	ž.Helena r.Koštkašová	0	624
+377	FEDORČOVÁ Helena r. Koštkašová	m.Juraj	0	624
+377	FEDOROVÁ Alžbeta		0	405,513,607
+377	FEDOROVÁ Anna		0	405,513,607
+377	FEDOROVÁ Dorota		0	405,513,607
+377	Feldmanová Marta r. Frankelová		0	405,513,533,607
+377	Feldmanová Tina r. Geigerová		0	405,513,533,607
+377	Ficsáková Barbara r. Šišková	m.Juraj	0	179,405,513,607
+377	FRANKEL Arnošt		0	405,513,533,607
+377	FRANKEL Artur		0	405,513,533,607
+377	FRANKEL Ľudovít		0	405,513,533,607
+377	FRANKEL Marcel		0	405,513,533,607
+377	GALDUN Andrej		0	405,513,607
+377	GALDUN Ján		0	405,607
+377	Galdun Ján r. Galdun		0	513
+377	Galdun Ján r. Galdun	1	0	405,513,607
+377	GALDUN Juraj		0	405,513,607
+377	Galdunová Alžbeta	1	0	405,513,607
+377	Galdunová Alžbeta	3	0	405,513,607
+377	GALDUNOVÁ Alžbeta		0	405,513,607
+377	GALDUNOVÁ Barbora		0	405,513,607
+377	GEIGER Arnošt r. GEIGER, Dr.		0	405,513,533,607
+377	GLANKOVIČ Ján		0	717
+377	GLANKOVIČ Juraj		0	717
+377	GLANKOVIČOVÁ Helena		0	717
+377	Glankovičová Mária r. Bednárová		0	45,46,405,513,607,717,783
+377	GODOŠOVÁ Anna r. Minariková		0	705
+377	Hadbavná Anna r. Čatlošová		0	215
+377	HADBAVNOVÁ Anna r. Čatlošová		0	714
+377	HADVIŽDŽÁK Andrej		0	405,513,607
+377	Hadviždžák Ján	st	0	697
+377	Hadviždžák Ján r. Hadviždžák		0	590
+377	Hadviždžák Ján r. Hadviždžák	2	0	405,513,607
+377	HADVIŽDŽÁK Juraj		0	405,513,607
+377	Hadvižďžáková Dorota r. Kocúrová		0	224
+377	HADVIŽDŽÁKOVÁ Mária		0	405,513,607
+377	Handzová Anna r. Lorincová		0	405,513,562,591,607,744
+377	Hlivjaková Marta r. Adamčáková		0	583
+377	HREŠKOVÁ Mária r. Mináriková		0	702
+377	Hromňáková Anna r. Andrejčáková		0	405,513,607
+377	HUDÁK Andrej		0	692,705
+377	Hudáková Anna r. Halčíková		0	153,273
+377	HUDÁKOVÁ Mária r. Bugošová		0	702
+377	HUKALIK Michal		0	405,513,607
+377	CHMEĽÁROVÁ Mária r. Macková		0	710
+377	Jozef Ján	ž.Anna r.Hašková	0	588
+377	JOZEFOVÁ Anna r. Hašková		0	588
+377	Jurková Barbora r. Polaščáková		0	273
+377	KAČANEK Andrej		0	588
+377	Kačáneková Mária r. Martaniková		0	588
+377	KAJŇÁK Ján		0	405,513,607
+377	KAJŇÁK Ján r. KAJŇÁK		0	179
+377	Kmecová Alžbeta r. Lorincová		0	51,85,405,513,549,583,607
+377	Kolesárová Barbora r. Hudáková	m.Ján	0	405,509,513,607
+377	Kolivoška Juraj	USA	0	699
+377	Kolivoška Štefan	USA	0	699
+377	KOLIVOŠKOVÁ Alžbeta r. Macková		0	710
+377	Kopáčová Anna r. Haľková		0	405,513,607,627
+377	Kopasová Anna r. Hašková		0	137,405,513,607,627
+377	Kopasová Anna r. Hašková, SR		0	25,653,727,728,742,743
+377	Kostka Andrej	ž.Alžbeta r.Bugošová	0	405,513,607
+377	KOSTKAŠOVÁ Anna		0	405,513,607
+377	Kostková Alžbeta r. Bugošová	m.Andrej	0	405,513,607
+377	Kováčová Jana r. Geignerová		0	405,513,533,607
+377	Kužila Ján r. Kužila	2	0	137
+377	KUŽILIK Ján		0	513,607
+377	KUŽILIK Ján r. KUŽILIK		0	405
+377	KUŽILLA Jozef		0	278,405,513,524,607
+377	KUŽILLA Jozef r. KUŽILLA		0	63
+377	KUŽILOVÁ Anna r. Gumanová	muž Michal	0	137,405,513,607,627
+377	Kužilová Anna r. Miklušová		0	405,513,607,627
+377	LENČOVÁ Anna r. Macková		0	710
+377	Lorinc Andrej r. Lorinc		0	405,513,521,607,705
+377	Lorinc Andrej r. Lorinc	1	0	51,85,137,188,405,513,549,607
+377	Lorinc Andrej r. Lorinc	2	0	51
+377	Lorinc Andrej r. Lorinc	3	0	51
+377	LORINC Ján		0	405,513,521,549,607,705
+377	Lorinc Ján r. Lorinc		0	85,188
+377	Lorinc Ján r. Lorinc	1	0	691
+377	Lorinc Ján r. Lorinc	3	0	562
+377	Lorinc Ján r. Lorinc	5	0	51
+377	Lorinc Ján r. Lorinc	st	0	405,513,607
+377	Lorinc Jozef r. Lorinc	ž.Alžbeta r.Orosová	0	87
+377	Lorinc Juraj r. Lorinc		0	51
+377	Lorinc Juraj r. Lorinc	1	0	137
+377	Lorinc Juraj r. Lorinc	ž.Alžbeta r.Andrejčáková	0	549
+377	LORINC Štefan		0	405,513,583,607,627
+377	Lorinc Štefan r. Lorinc	1	0	51,549
+377	LORINC Štefan r. LORINC		0	85,188
+377	Lorincová Alžbeta		0	85,405,513,521,549,607,705
+377	Lorincová Alžbeta	1	0	405,513,607
+377	Lorincová Alžbeta	3	0	405,513,562,591,607,744
+377	Lorincová Alžbeta r. Andrejčáková		0	238,549
+377	Lorincová Alžbeta r. Kmecová		0	405,513,607,627

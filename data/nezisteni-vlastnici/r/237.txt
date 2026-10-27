@@ -1,0 +1,256 @@
+165	MADARÁSZ Tibor r. Madarász		0	3221
+165	NYÁRI František r. Nyári	a NYÁRIOVÁ Mária r.Borsányiová	0	3221
+165	NYÁRI Ľudovít r. Nyári		0	3221
+165	NYÁRIOVÁ Mária r. Borsányiová		0	3221
+165	NYÁRIOVÁ Rebeka r. Kaszásová		0	3221
+165	ONDRUSEK František r. Ondrusek		0	3221
+165	ONDRUSEK Ladislav r. Ondrusek		0	3221
+165	ONDRUSEK Štefan		1	1591
+165	ONDRUSEK Štefan r. Ondrusek		0	2698,3221
+165	ONDRUSEK Vendelín		1	1762
+165	ONDRUSEK Vendelín r. Ondrusek		0	3099
+165	ONDRUSEKOVÁ Anna r. Eleková		0	2998
+165	ONDRUŠEKOVÁ Júlia		0	2596
+165	PAPESOVÁ Júlia r. Annusová		0	3221
+165	PAPEZS František r. Papezs		0	3221
+165	PAPEZSOVÁ Rozália r. Petríková		0	3221
+165	PAVELKOVÁ Anna r. Toszegiová		1	1734
+165	PETRÍK Štefan r. Petrík		0	3221
+165	PINKE Michal		1	1709
+165	PINTEROVÁ Júlia r. Kósová		1	1888,1895
+165	PISKOOVÁ Jolana		0	3221
+165	Plajer Ľudovít		0	192,3412
+165	PONIŠTOVÁ Anna r. Nemčeková		1	1246
+165	PRETIOVÁ Mária r. Gyoriová		0	3221
+165	PŠENÁK František r. Pšenák		0	3221
+165	Pšenák Ladislav r. Pšenák		0	2957
+165	PŠENÁK Ondrej	slabomyselný	1	1786
+165	PŠENÁK Ondrej r. Pšenák		0	2528
+165	PŠENÁKOVÁ Mária		1	1786,2878
+165	RADOSICKÁ Hermina		0	2681
+165	RADOŠICKÝ Štefan		1	1740
+165	RADOŠICKÝ Štefan r. Radošický		0	3221
+165	RADOŠICKÝ Vojtech r. Radošický		0	3068
+165	RANGELOVÁ Mária r. Kecskésová		0	3221
+165	STERNOCKÁ Margita r. Zsigová		1	1738,2730
+165	STERNOCKY Štefan r. Sternocky		0	3221
+165	SVARC Jeff r. Svarc, nar.5.2.1928 nar.5.2.1928		0	3221
+165	SVARC Pavol r. Svarc	a SVARCOVÁ Estera r.Horňáková	0	3221
+165	SVARC Pavol r. Svarc a Estera SVARCOVÁ r. Horňáková		0	1742
+165	SVITACOVA Anna		0	3221
+165	SVITAČOVÁ Mária r. Kaszásová		1	1738,3221
+165	SZABÓ Štefan		1	1717
+165	SZEDEROVÁ Margita r. Annusová		0	3221
+165	Szobolovská Margita r. Oláhová		0	3221
+165	SZVITACS Štefan		1	1707
+165	SZVITÁCSOVÁ Anna r. Kecskésová		0	2766
+165	ŠTERNOCKÝ František r. Šternocký		0	3221
+165	ŠTERNOVSKÝ Ján r. Šternovský	a ŠTERNOVSKÁ Pavlína r.Markovičová	0	3048
+165	ŠVARC Juraj		1	1868
+165	ŠVARCOVÁ Terézia r. Lukáčová		1	1868
+165	TORNÓCZI Benjamín r. Tornóczi		0	2537
+165	TUŽINČIN Anton r. Tužinčin		0	3221
+165	TUŽINČIN Dominik		1	1143
+165	URBANEKOVÁ Eva r. Vyskočilová		1	1870,1874
+165	VANEK Jozef r. Vanek		0	3221
+165	VANEKOVÁ Mária r. Psenáková		0	2842
+165	VARGOVÁ Mária r. Vaneková		1	1713,2506
+165	VÉGHOVÁ Katarína r. Mácsiková		0	3221
+165	VENDELOVÁ Margita r. Zsigová		0	3185
+165	VICENAOVÁ Gizela r. Turcseková		1	1725
+165	VYSKOČIL František		1	1870
+165	VYSKOČIL Juraj		1	1870,1874
+165	VYSKOČIL Ladislav		1	1870
+165	VYSKOČIL Ondrej		1	1870,1874
+165	VYSKOČILOVÁ Mária r. Klapčíková		1	1870,1874
+165	ZAJOSOVÁ Etela		0	2919
+165	ZELENÁKOVÁ Helena r. Kaszásová		1	2465,3221
+165	ZELENÁKOVÁ Mária		0	2811
+165	ZELENÁKOVÁ Terézia r. Kaszásová		1	1738,2465,2584,3221
+165	ZSIGO Dezso r. Zsigo		0	3221
+165	ZSIGO František r. Zsigo		0	2533
+165	ZSIGÓ Jozef r. Zsigó		0	3221
+165	ZSIGO Ladislav r. Zsigo		0	3221
+165	ZSIGOVÁ Gizela r. Grunisová		0	3221
+165	ZSIGOVÁ Helena		1	1738,3221
+165	ZSIGOVÁ Helena r. Zsigová		0	2860
+165	ZSIGOVÁ Julianna		0	3221
+165	ZSIGOVÁ Rozália r. Štefániková		0	3221
+166	Azári Andrej		1	1055,1062,1262
+166	Azari Imrich		1	796,950,1055,1062,1176,1262,1380,1415
+166	Azari Imrich	mal	1	796,825,950,991,1055,1060,1062,1176,1262,1380,1415
+166	Azari Imrich r. Azari		1	1061
+166	Azari Juraj		1	950,991,1062,1415
+166	Azari Ladislav	mal	1	796,825,950,991,1055,1060,1062,1176,1262,1380,1415
+166	Azari Ladislav r. Azari		1	1061
+166	Azari Peter		1	950,1055,1062,1262,1415
+166	Azari Štefan		1	1055,1262
+166	Azariová Alžbeta r. Juhásová		1	950,1415
+166	Bacso Andrej		1	954
+166	Bacso Andrej	mal	1	957
+166	Bacsó Ján		1	954,956
+166	Bacso Jozef		1	951
+166	Bacsová Mária r. Belyusová		1	802,1051
+166	Bacsová Zuzana		1	954
+166	Bajusz Andrej	Zeher	1	1072
+166	Balász Andrej		1	1046,1047,1048,1049,1076,1078
+166	Balászová Katarína r. Petrovszká		1	1046,1049,1072
+166	Balazs Andrej		1	1072
+166	Baltesová Mária r. Kremerová		1	939
+166	Baltesz Michal		1	909
+166	Begáni Anton		1	911,1151
+166	Begáni Ján		1	790,1006,1270
+166	Begáni Ján	ž. Verona Vargová	1	994
+166	Begáni Ján	ž.Mária Helfenová	1	973
+166	Begániová Mária r. Helfenová		1	1006
+166	Begániová Verona r. Vargová		1	994
+166	Belyus Andrej		1	1051
+166	Belyus Andrej r. Belyus		1	802
+166	Belyus Ján	ž. Alžbeta Szabová	1	941
+166	Belyusová Alžbeta r. Szabová		1	941
+166	Blašková Anna r. Štefanová		1	1050
+166	Bocsánová Katarína r. Medveová		1	799
+166	Bodnár Brokosok		1	1057
+166	Bodnár Ernest		1	1047
+166	Bodonská Júlia r. Sokoliová		1	951,954
+166	Bojková Alžbeta		1	930,931
+166	Bolykó Ján r. Bolykó		1	930,1029
+166	Bulyková Alžbeta r. Gedrová		1	951,954
+166	Burdová Emília		1	991
+166	Cseplo Andrej	ž.Alžbeta Bacsová	1	951,952,954
+166	Cseplo Ján		1	951,952,954
+166	Cseplo Ján	ž.Alžbeta Gyongyošiová	1	951,952,954
+166	Cseplová Alžbeta r. Gyongyošiová		1	951,952,954
+166	Csorba Juraj		1	966,1214
+166	Csuri Ján		1	868,881,882,914,922,927,937,938,940,947,953,955,962,963,967,991
+166	Csuri Ján r. Csuri		1	845,1163,1164,1165
+166	Czontmárová Alžbeta r. Kočišová		1	956
+166	Čeplová Mária r. Balová		1	951,954
+166	Demovičová Mária		1	991
+166	Deutch Izrael		1	948
+166	Dobzová Zuzana r. Bodnárová		1	1047
+166	Drotár Andrej		1	957
+166	Drotár Andrej	ž.Mária Dolgošová	1	956
+166	Drotár Ján		1	957
+166	Drotár Pavol		1	957
+166	Drotárová Alžbeta r. Szokolyiová		1	969
+166	Drotárová Katarína		1	957
+166	Dudášová Mária r. Bácsová		1	956
+166	Dulová Juliana r. Kissová		1	867,910,936,1414
+166	Egedová Mária r. Mikitová		1	774,1343
+166	Farkaš Ján		1	951
+166	Farkašová Alžbeta	mal	1	951
+166	Farkašová Ilona	mal	1	951
+166	Friedmann Šalamún		1	991
+166	Garanyiová Terézia r. Kšoncová		1	1036
+166	Géciová Helena r. Belyusová		1	802,1051
+166	Gurbaľ Ján		1	949,958,1401
+166	Gurbaľ Ján	ž.Alžbeta Dulová	1	949,958,1401
+166	Gurbaľová Mária		1	949,958,1401
+166	Gurbalyová Alžbeta r. Dulová		1	817,972,991
+166	Gyongyoši Pavol		1	956
+166	Hegeduš Imrich		1	991
+166	Hegedušová Alžbeta r. Čuriová		1	868,881,882,914,922,927,937,938,940,947,953,955,963,967,1163,1164,1165
+166	Hegedušová Anna r. Sokoliová		1	949,958,962,1401
+166	Hermann Karol		1	1035
+166	Hermann Karol r. Hermann		1	784
+166	Hermanová Alžbeta r. Selingerová		1	1035
+166	Horčíková Priška r. Kováčová		1	1053
+166	Horváthová Alžbeta r. Sopková		1	1231
+166	Hudáková Mária r. Šeboková		1	949,958,1401
+166	Ignáczová Anna r. Vargová		1	790,1270
+166	Jakab Andrej	mal	1	909,1072
+166	Jakab Andrej	ž. Barbora Vitézová	1	1072
+166	Jakab Ján		1	909,1072
+166	Jakab Ján	st	1	909
+166	Jakab Ján	ž. Barbora Zeherová	1	1072
+166	Jakab Ján	ž.Barbora Zeherová	1	909
+166	Jakab Michal		1	909
+166	Jakab Michal	mal	1	909
+166	Jakabová Alžbeta		1	909,1051
+166	Jakabová Alžbeta	st	1	909
+166	Jakabová Barbora		1	909,1072
+166	Jakabová Barbora r. Vitézová		1	1072
+166	Jakabová Barbora r. Zeherová		1	909,1072
+166	Jakabová Helena		1	802,909,1051
+166	Jakabová Katarína		1	909
+166	Jakabová Mária	st	1	909
+166	Jakabová Zuzana		1	802,909,1051
+166	Jakabová Zuzana	mal	1	909
+166	Jančirová Mária r. Kováčová		1	871,926,1152
+166	Janočko Michal		1	1008
+166	Janočková Alžbeta r. Bacsová		1	954
+166	JANOČKOVÁ Anna r. Vargová		1	1008
+166	Jedlička Ján		1	966,1214
+166	Justín Ján r. Justín		0	131
+166	Justin Jozef		1	981
+166	Justínová Viera		0	131
+166	Kaduková Mária r. Jakabová		1	909,1051
+166	Kalnay Gejza		1	1047
+166	Kaščáková Mária r. Balážová		1	879
+166	Kincsár Kir		1	1036
+166	Kincsár Kir	m. Kir. Kincsár	1	898
+166	Kincsár Kir	M.Kir.Kincsár	1	812
+166	Kočiš Ján		1	956
+166	Kondasová Alžbeta r. Vargová		1	790,1270
+166	Koňová Anna		1	797,910,936,1414
+166	Konrád Jozef		1	995
+166	Kozák Ján		1	1014
+166	KOZÁKOVÁ Alžbeta r. Hudáková		1	1014
+166	Krajcár Andrej	ž.Mária Kinlovičová	1	948
+166	Krajcár Andrej r. Krajcár		1	893
+166	Krajcár Michal		1	991
+166	Krajcárová Mária r. Kinlovičová		1	948
+166	Krajcárová Mária r. Matisová		1	826,828,949,958,1401
+166	Krajczár Jozef		1	961,964,1116,1269,1416
+166	Krajczár Juraj		1	961,964,1116,1269,1416
+166	Krajczárová Mária		1	1269
+166	Krajczárová Mária	mal	1	961,964,1116,1416
+166	Kresáková Katarína r. Ferenczová		1	869
+166	Krišak Ján		1	871,872,1152
+166	Krišák Ján	Garboc	1	991
+166	Krišák Michal		1	872
+166	Krišáková Mária r. Šimčáková		1	872,948,1046,1051,1072,1078
+166	Krišáková Mária r. Šimčáková	manž.Michal	1	916
+166	Kšonc Michal		1	1036
+166	Lacková Mária r. Pásztorová		1	801,871,926,942,1029,1152
+166	Majoroš Štefan		1	1230
+166	Majorošová Alžbeta r. Klucsarová		1	1230
+166	Mako Pavol		1	1108,1166,1256,1257
+166	Mako Pavol	mal	1	880
+166	Maková Alžbeta r. Hegedušová		1	944,1167
+166	Maková Alžbeta r. Medveová		1	794,873,894,965,1150,1394,1402
+166	Marcin Jozef r. Marcin		1	774
+166	Martonová Elena		1	1055,1062,1262
+166	Maťašovský Vincent	ž. Alžbeta Olšinár	1	1231
+166	Matyašovský Vincent		1	1022
+166	Medve Jozef		1	800,845,932,1241
+166	Medve Jozef r. Medve		1	844,845
+166	Medveová Helena		1	880,1108,1166,1256,1257
+166	Medveová Katarína		1	800,845,917,932,1032,1241
+166	Medveová Katarína r. Szokoliová		1	799,800,845,881,1241
+166	Medveová Mária		1	873,1394
+166	Mikita Michal r. Mikita	ž. Mária Vatrályová	1	1343
+166	Mikita Štefan r. Mikita		1	774,1343
+166	Mikitová Mária r. Vatrályová		1	774
+166	Mozgová Helena r. Guľová		1	870,876,920,934,960,1258,1259
+166	Mrasko Jozef		1	970,1027
+166	Mrasko Jozef	mal	1	793,797,867,874,892,910,928,936,943,1414
+166	Mrasková Alžbeta		1	793,797,867,874,892,910,928,936,943,970,1027,1414
+166	Mrasková Anna		1	793,797,867,874,892,910,928,936,943,970,1027,1414
+166	Mrasková Helena		1	970,1027
+166	Mrasková Helena	mal	1	793,797,867,874,892,910,928,936,943,1414
+166	Mrázko Ján		1	991
+166	Nagyová Helena r. Olšinárová		1	1231
+166	Pálfy Jozef r. Pálfy		1	774,832,1343
+166	Pálmay Vojtech		1	1053
+166	Pálmayová Jolina		1	1053
+166	Páločková Mária		1	774,1343
+166	Pástor Ladislav		1	1071
+166	Pástor Turák Imrich		1	797,867,910,949,958,1401,1414
+166	Pástorová Alžbeta r. Majorošová		1	871,926,942,1152
+166	Pástorová Mária r. Baltesová		1	1071
+166	Pástorová Turáková Róza r. Grusová		1	1051
+166	Pásztor František		1	801,871,926,942,1152
+166	Pásztor František r. Pásztor		1	1029
+166	Pásztor Pavol r. Pásztor		1	1029

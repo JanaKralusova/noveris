@@ -1,0 +1,256 @@
+2390	Petríková Margita r. Močková	manž. Vladislav	0	1067
+2390	Pikna František r. Pikna	po Jurajovi Piknovi	0	2032
+2390	Pikna Jozef r. Pikna	po Jurajovi Piknovi	0	1494,2029,2032
+2390	Pikna Juraj r. Pikna	po Jurajovi Piknovi	0	1494,2029,2032
+2390	Pikna Pavol r. Pikna	po Jurajovi Piknovi	0	1494,2029,2032
+2390	Piknová Monika r. Kolková		0	1923
+2390	Piknová Rozália r. Piknová	po Jurajovi Piknovi	0	1494,2029,2032
+2390	Pleško Ján r. Pleško	manž. Magdaléna r. Štepková	0	1300
+2390	Pleško Tomáš r. Pleško	po Zuzane Pleškovej r. Heidingerovej	0	989
+2390	Potočná Anna r. Potočná	nezl	0	1104
+2390	Potočný Michal r. Potočný	nezl	0	1104
+2390	Potočný Teodor r. Potočný		0	1104
+2390	Praženka Viktor r. Praženka		0	1583,1814,2128,2130
+2390	Praženková Katarína r. Siváková	manž. Štefan	0	1814
+2390	Prsteková Jozefína r. Prsteková		0	1016
+2390	Psico Emil r. Psico	po Anne Psicovej r. Vlasákovej	0	1030
+2390	Psico Jozef r. Psico	manž. Mária r. Ondrášiková	0	1030
+2390	Pupák Alojz r. Pupák	rodič. Michal a Anna r. Slobodová	0	1104,1105,1488
+2390	Pupák Dominik r. Pupák	nezl.,po Pupákovi Michalovi	0	1104,1105
+2390	Pupák Dominik r. Pupák	po Rudolfovi Pupákovi	0	1104,1105
+2390	Pupák Ján r. Pupák	nezl., po Michalovi Pupákovi	0	1104,1105
+2390	Pupák Ján r. Pupák	rodič. Michal a Anna r.Slobodová	0	1104,1488
+2390	Pupák Štefan r. Pupák	nar. 15.6.1933	0	1854
+2390	Pupák Vavrinec r. Pupák	rodič. Michal a Anna r. Slobodová	0	1488
+2390	Pupák Viktor r. Pupák	po Pupákovi Michalovi	0	1104,1105
+2390	Pupák Viliam r. Pupák	po Pupákovi Michalovi	0	1104,1105
+2390	Pupák Viliam r. Pupák	po Rudolfovi Pupákovi	0	1854
+2390	Pupáková Anna r. Cviková	manž. Vavrinec	0	1609
+2390	Pupáková Anna r. Cviková	vdova, rodič. Michal a Katarína r. Vangárová	0	1200,1901,1904,2157,2199,2270
+2390	Pupáková Mária r. Cviková	rodič. Michal a Katarína r. Vangárová	0	1901
+2390	Pupáková Veronika r. Pupáková	rodič.Jozef a Zuzana r. Sigetová	0	1820
+2390	Richterová Veronika r. Pánska	po Pánskej Magdaléne r. Chalányovej	0	1258,1594,2204,2322
+2390	Robeczová Mária r. Rojková	manž. Alojz	0	2145
+2390	Roháč Eduard r. Roháč	manž.Hedviga r. Piknová	0	1792,1967,1978
+2390	Roháč Mikuláš r. Roháč	po Roháčovej Veronike r. Čamborovej	0	1978
+2390	Roháč Ondrej r. Roháč	manž. Anna r. Rehorovská	0	1492,2139
+2390	Roháč Štefan r. Roháč	po Roháčovej Veronike r. Čamborovej	0	1978
+2390	Rojko Jozef r. Rojko		0	1938
+2390	Rojko Jozef r. Rojko	manž. Antónia r. Gajdošová	0	1028
+2390	Rojko Jozef r. Rojko	manž. Valéria r. Dechetová, č.d. 310	0	2010
+2390	Rojko Pavel r. Rojko	rodič. Jozef a Anna r. Saturová	0	1018,1360,1362,1770,1771,1806,2104,2183
+2390	Rojko Peter r. Rojko	manž. Mária r. Kriváková, Radošina č. 85	0	2063
+2390	Rojko Peter r. Rojko	zomr. 17.10.1974,rodič. Jozef a Anna r. Saturová	0	1806
+2390	Rojková Anna r. Pánska	manž. Rudolf	0	1617,1717,1847,1966,2201,2275
+2390	Rojková Antónia r. Rojková	nezl	0	1938
+2390	Rojková Ella r. Rojková	nezl	0	1938
+2390	Rojková Johana r. Kováčiková	roľníčka, č.d.132	0	1071
+2390	Rojková Magdaléna r. Rojková	nezl	0	1938
+2390	Rojková Magdaléna r. Vičanová	manž. Ján	0	924
+2390	Rojková Mária r. Kriváková	manž. Peter, Radošina č. 85	0	2063
+2390	Rojková Mária r. Rojková	nezl	0	1938
+2390	Rožek Jozef r. Rožek	manž. Veronika r. Kršková, Radošina č. 228	0	2064
+2390	Rožek Michal r. Rožek	manž. Mária r. Balová	0	1944
+2390	Rožeková Alžbeta r. Slobodová	manž. Ján	0	891
+2390	Rožeková Mária r. Balová	manž. Michal	0	1944
+2390	Rožeková Rozália r. Rožeková	rodič. Michal a Mária r. Bollová	0	891,2034,2055
+2390	Rožeková Veronika r. Kršková	manž. Jozef, Radošina č. 228	0	2064
+2390	Rusková Paulína r. Laciková		0	2085
+2390	Sasin Ján r. Sasin	po Štefanovi Sasinovi	0	1259,1452,1453,1782,2252
+2390	Sasin Jozef r. Sasin	po Štefanovi Sasinovi	0	1259,1452,1453,1782,2252
+2390	Sasin Štefan r. Sasin	manž. Valéria r. Machovičová, č.d.116	0	1986,1993
+2390	Sasin Štefan r. Sasin	po Štefanovi Sasinovi	0	1259,1452,1453,1782,2252
+2390	Sasin Tomáš r. Sasin	po Štefanovi Sasinovi	0	1259,1452,1453,1782,2252
+2390	Sasinová Valéria r. Machovičová	manž. Štefan, č.d.116	0	1614,1986,1993
+2390	Seleš Alojz r. Seleš	po Petrovi Selešovi	0	2090
+2390	Seleš Július r. Seleš	po Petrovi Selešovi	0	2090
+2390	Seleš Ľudevít r. Seleš	po Petrovi Selešovi	0	2090
+2390	Seleš Peter r. Seleš	nezl., po Petrovi Selešovi	0	2090
+2390	Seleš Štefan r. Seleš	po Petrovi Selešovi	0	2090
+2390	Selešová Veronika r. Kúdelová	manž. Peter	0	2090
+2390	Selešová Veronika r. Selešová	výmaz mal. v r.1937, po Petrovi Selešovi	0	2090
+2390	Siget Andrej r. Siget		0	918,1214
+2390	Siget Milan r. Siget	Malý Cetín č.d.46	0	2045
+2390	Siget Štefan r. Siget	manž. Alžbeta r. Vajcsnerová	0	1567,1571
+2390	Sigetová Agneša r. Sigetová	malol., Malý Cetín č.d.46	0	2048
+2390	Sigetová Katarína r. Barátová	po Adamovi Barátovi	0	1007
+2390	Sigetová Mária r. Špániková Brokutová	rodič. Štefan a Terézia r. Brokutová	0	2155
+2390	Sigetová Žofia r. Tavaríková	manž. Andrej	0	918,1214
+2390	Slabihoudková Margita r. Piknová	po Jurajovi Piknovi	0	1494,2029,2032
+2390	Slezárik Ján r. Slezárik	súrodenci - Florian, Irena, Piroška, Gejza, Jozefína, Františka, Jolana, Gizela	0	1790
+2390	Slezárik Ján r. Slezárik	súrodenci - Florian, Irena, Piroška, Gejza, Jozefína, Františka, Jolana,Gizela	0	1300,1303
+2390	Slezárik Ján r. Slezárik	súrodenci - Florian, Irena, Piroška, Jozefína, Františka, Jolana, Gejza,Gizela	0	1302,1791
+2390	Slezárik Ján r. Slezárik	súrodenci Florián,Irena,Piroška,Gejza,Jozefína,Františka,Jolana,Gizela	0	1297,1299,1301
+2390	Slezáriková Gizela r. Slezáriková	súrodenci - Florian, Irena, Piroška, Gejza, Jozefína, Františka, Jolana,Ján	0	1300,1303
+2390	Slezáriková Gizela r. Slezáriková	súrodenci - Florian, Irena, Piroška, Gejza,Jozefína, Františka, Jolana, Ján	0	1790
+2390	Slezáriková Gizela r. Slezáriková	súrodenci - Florian, Irena, Piroška, Jozefína, Františka, Jolana, Ján,Gejza	0	1302,1791
+2390	Slezáriková Gizela r. Slezáriková	súrodenci Florián,Irena,Piroška,Gejza,Jozefína,Františka,Jolana,Ján	0	1297,1299,1301
+2390	Sloboda Anton r. Sloboda	manž. Mária r. Špániková	0	1933
+2390	Sloboda Emil r. Sloboda	po Anne Slobodovej r. Ridziovej	0	1382
+2390	Sloboda Pavol r. Sloboda	manž.Mária r. Novotná	0	951,1488,1762,1992
+2390	Sloboda Pavol r. Sloboda	rodič. Ján a Magdaléna r. Miháliková	0	951,1488,1762,1992
+2390	Sloboda Viliam r. Sloboda	výmaz mal. v r.1945	0	1381,1382,1488
+2390	Sloboda Vojtech r. Sloboda	rodič.Jozef a Anna r. Ridziova	0	1381,1382,1488
+2390	Slobodová Margita r. Slobodová	rodič. Ján a Magdaléna r. Miháliková	0	1488
+2390	Slobodová Margita r. Slobodová	rodič.Jozef a Anna r. Ridziova	0	1381,1382,1488
+2390	Slobodová Mária r. Novotná	manž. Pavol	0	951,1488,1762,1992
+2390	Slobodová Mária r. Slobodová	výmaz mal. v r.1948	0	1381,1382,1488
+2390	Slobodová Mária r. Špániková	manž. Anton	0	1933
+2390	Slobodová Rozália r. Slobodová	rodič. Ján a Magdaléna r. Miháliková	0	951,1488,1762,1992
+2390	Smidová Margita r. Masrnová		0	2030
+2390	Snopková Júlia r. Ballayová	manž.Jozef	0	1591
+2390	Sokolovská Apolónia r. Rolincová		0	929
+2390	Sroganová Katarína r. Miklovičová	rodič. Ján a Mária r. Pupáková	0	1549
+2390	Stančeková Emília r. Ondrejková	manž. Anton, zomr. 30.5.1984	0	958
+2390	Stančeková Rozália r. Bollová		0	891
+2390	Stískal Alojz r. Stískal	manž. Štefánia r. Dvoráková	0	1045,1675
+2390	Stískal František r. Stískal		0	2154
+2390	Stískal Jozef r. Stískal	manž. Antónia r. Horváthová	0	1045,1675
+2390	Stískalová Vilma r. Horvátová	manž. Karol, zomr.3.2.1975	0	1857,2185
+2390	Strananová Františka r. Roháčová		0	1491,1492,2139,2290
+2390	Stredáková Mária r. Horvátová		0	1937
+2390	Sziget Augustín r. Sziget	manž. Pavlína r. Matejičková	0	1012
+2390	Šimkovič Jozef		0	2288
+2390	Šimkovičová Mária r. Tomašovičová		0	2288
+2390	Šinkovičová Mária r. Tomašovičová		0	2105
+2390	Špánik Jozef r. Špánik	manž. Anna r. Funtová	0	1542,1543,1639,1921,2138
+2390	Špánik Jozef r. Špánik	rodič. Štefan a Alžbeta r. Kováčová, zomr. 24.3.1969,čd 290	0	392
+2390	Špánik Jozef r. Špánik	rodič. Štefan a Terézia r. Brokutová	0	1541,1542,1544,1546,1547,1548,2155
+2390	Špániková Alojzia r. Ocelková	manž. Pavol	0	2035
+2390	Špániková Anna r. Funtová	manž. Jozef	0	1921
+2390	Špániková Františka r. Špániková	po Márii Špánikovej	0	1096
+2390	Špániková Magdaléna r. Manduchová	manž.Ján	0	1935,2092,2148
+2390	Špániková Terézia r. Brokutová	manž. Štefan	0	1544,1546,1547,1548,2121,2155
+2390	Štefanecová Alžbeta r. Stískalová		0	1045,1675
+2390	Šteiner Jozef r. Šteiner	po Jozefovi Kosákovi	0	2099
+2390	Šteiner Michal r. Šteiner	malol., po Jozefovi Kosákovi	0	2099
+2390	Štepka Jozef r. Štepka		0	1091
+2390	Štepka Jozef r. Štepka	rodič. Ján a Katarína r. Kršková	0	1090,2011
+2390	Štepka Matej r. Štepka	manž.Matilda r. Špániková	0	1810,2143
+2390	Štepka Matej r. Štepka	rodič. Ján a Katarína r. Kršková	0	2011
+2390	Štepka Štefan r. Štepka	manž. Mária r. Gajdošová	0	2088
+2390	Štepková Katarína r. Kršková	manž. Ján	0	1862
+2390	Štepková Matilda r. Špániková	manž. Matej	0	1810
+2390	Štepková Veronika r. Rojková	manž. Ján	0	2145
+2390	Štepková Veronika r. Štepková		0	1006,1392
+2390	Štolfa Ján r. Štolfa		0	1886
+2390	Štolfová Veronika r. Dechetová	manž. Andrej	0	950
+2390	Štrba Peter r. Štrba	manž. Terézia r. Nedelková, Radošina č. 165	0	2065
+2390	Štrbová Terézia r. Nedelková	manž. Peter, Radošina č. 165	0	2065
+2390	Šugra Ján r. Šugra	ml., rodič. Ján a Veronika r. Bobulová, č.d. 54	0	884
+2390	Švecová Vilma r. Švecová	malol	0	950
+2390	Tlstá Jozefína r. Bittnerová	rodič. Andrej a Mária r. Machová	0	1241,1876
+2390	Todorová Margita r. Madarászová	po Jozefovi; po Jozefovi	0	1246
+2390	Tomašovič Rudolf r. Tomašovič		0	119,1627,2180,2291
+2390	Tomašovič Vojtech r. Tomašovič		0	119,1627,2180,2291
+2390	Tomašovičová Agneša r. Pupáková	rodič. Michal a Anna r.Slobodová	0	1104,1105,1488
+2390	Tordová Margita r. Madarászová	po Jozefovi	0	1577
+2390	Trandžík Ján r. Trandžík	výmaz mal. v r.1946	0	1972
+2390	Trandžík Jozef r. Trandžík	výmaz mal. v r.1943	0	1972
+2390	Trandžík Ladislav r. Trandžík	výmaz mal. v r. 1949	0	1972
+2390	Tranžíková Klára r. Michalíková	rodič.Jozef a Magdaléna Helena r. Orihelová	0	951,952,1762,1992
+2390	Trebatická Alžbeta r. Katriny	po Michalovi Katriny	0	1884
+2390	Turan Ján r. Turan	rodič. Matej a Mária r. Trebatická	0	1305,1968,1995
+2390	Turanová Magdaléna r. Machovičová	manž. Štefan	0	1612
+2390	Uhlík Alojz r. Uhlík	manž. Emma r. Hevešiová	0	1009,1629,1631,1632,1633,1634,1777,2196,2200,2279
+2390	Uhlík Ján r. Uhlík	rodič. Jozef a Katarína r. Bartošeková	0	1009,1629,1631,1632,1633,1634,1777,2196,2200,2279
+2390	Uhlík Tibor r. Uhlík	rodič. Jozef a Katarína r. Bartošeková	0	1009,1629,1631,1632,1633,1634,1777,2196,2200,2279
+2390	Uhlíková Rozália r. Rožeková	manž. Štefan	0	1655,1752
+2390	Vadrna Karol r. Vadrna		0	1608
+2390	Valach Filip r. Valach	manž. Katarína r. Ocelková, Radošina č. 115	0	2079
+2390	Valachová Katarína r. Ocelková	manž. Filip, Radošina č. 115	0	2079
+2390	Valovičová Genovéva r. Valovičová	po Valovičovej Márii r. Vašicovej	0	1907
+2390	Valovičová Júlia r. Bilická	Bojná č. 260	0	1907
+2390	Valovičová Katarína r. Gerhátová	manž. Šimon	0	1379,1792,1967,2122
+2390	Valovičová Mária r. Valovičová	po Valovičovej Márii r. Vašicovej	0	1907
+2390	Valovičová Uršula r. Slobodová	manž. Rudolf	0	1381,1382,1488
+2390	Vančová Katarína r. Šišková		0	1889
+2390	Vančová Mária r. Šugrová	č.d. 39 Velušovce	0	884
+2390	Vavro Štefan r. Vavro	Ardanovce č.d. 27	0	1676,1874,1878
+2390	Veľká Daniela r. Vlasáková	Petzwalova č.14, Nitra	0	1503,1504,1857,2185
+2390	Vičan Alexej r. Vičan	nar. 2.2.1929	0	879,880,1345,1399,1400,1401
+2390	Vičan Andrej r. Vičan	nezl.,rodič. Vičan Andrej a Magdaléna r. Horvátová	0	924
+2390	Vičan Anton r. Vičan		0	1399
+2390	Vičan Ferdinand r. Vičan		0	1960
+2390	Vičan Ferdinand r. Vičan	Radošina č.250	0	1960
+2390	Vičan Gabriel r. Vičan	po Michalovi Vičanovi	0	1960,2010
+2390	Vičan Ján r. Vičan	po Michalovi Vičanovi	0	921
+2390	Vičan Jozef r. Vičan	po Michalovi Vičanovi	0	1282
+2390	Vičan Matej r. Vičan	manž. Anna r. Adamkovičová, zomrel 20.9.1967	0	1276,1279,1796,1960,2187,2329,2330,2331
+2390	Vičan Matúš r. Vičan	po Michalovi Vičanovi	0	1282
+2390	Vičan Pavol Peter r. Vičan		0	2010
+2390	Vičan Pavol r. Vičan		0	1197,1282,2010
+2390	Vičan Pavol r. Vičan	po Apolónii Vičanovej r. Slobodovej	0	1488
+2390	Vičan Pavol r. Vičan	rodič. Vičan Andrej a Magdaléna r. Horvátová	0	924
+2390	Vičan Štefan r. Vičan		0	2010
+2390	Vičan Viliam r. Vičan		0	1282,2010
+2390	Vičanová Anna r. Kováčová	manž. Michal	0	921,1873
+2390	Vičanová Jozefína r. Hudečeková	č.d. 96	0	1849
+2390	Vičanová Magdaléna r. Pánska	manž. Ján	0	1012,1872,1906
+2390	Vičanová Mária r. Štepková	manž. Ján	0	1090
+2390	Vičanová Rozália r. Zaťková	manž.Pavol,rodič.Zaťko Pavol a Mária r. Vičanová	0	1078
+2390	Vičanová Štefánia r. Machovičová		0	1612,1615
+2390	Vičanová Veronika r. Janegová	manž. Pavol	0	1878
+2390	Vitková Johana r. Vitková	malol., rodič. Štefan a Mária r. Burešová	0	1606,2227
+2390	Vlasák Gustáv r. Vlasák	Radošina č.d. 292	0	1959
+2390	Vlasák Igor r. Vlasák	Ratnovce č.246	0	1955
+2390	Vlasák Ján r. Vlasák		0	1958
+2390	Vlasák Ján r. Vlasák	manž. Alžbeta r. Ferencová	0	1924
+2390	Vlasák Ján r. Vlasák	manž. Alžbeta r. Jančovičová	0	1006,1956,1957
+2390	Vlasák Ján r. Vlasák	po Vlasákovej Alžbete r. Rojkovej	0	1394,2012,2162
+2390	Vlasák Ľudovít r. Vlasák	manž.Veronika r. Balešová, Radošina č. 44	0	1909
+2390	Vlasák Michal r. Vlasák	manž. Alžbeta r. Dolníková	0	2115
+2390	Vlasák Peter r. Vlasák	Švabinského č.6, Bratislava	0	1503,1504,1857,2185
+2390	Vlasáková Alžbeta r. Jančovičová	manž. Ján	0	1956
+2390	Vlasáková Darina r. Vlasáková	účtovníčka, č.d. 305	0	1865
+2390	Vlasáková Mária r. Kováčiková		0	1071
+2390	Vlasáková Veronika r. Bálešová	manž. Ľudovít, Radošina č. 44	0	1798,1799,1909
+2390	Vlhová Anna r. Mrázová	po Alžbete Mrázovej r. Rehorovskej	0	2127
+2390	Vojtková Anna r. Vojtková	rodič. Ján a Zuzana r. Orolímová	0	1370,1371,1372,1373
+2390	Vojtková Zuzana r. Orolímová	manž. Ján	0	1371
+2390	Vražba Jozef r. Vražba	po Vražbovej Johane r. Hlaváčovej	0	2136
+2390	Vražbová Magdaléna r. Brezovanová		0	2000,2151
+2390	Vražbová Magdaléna r. Brezovanová	manž. Štefan, č.d. 72	0	1931,2028,2033
+2390	Wandová Helena r. Danišová	po Michalovi Danišovi	0	1722
+2390	Wertheimer Pavol r. Wertheimer	manž. Aurélia r. Rottensteinová	0	1788,2094
+2390	Wertheimerová Aurélia r. Rottensteinová	manž. Pavol	0	1788,2094
+2390	Westphálová Mária r. Rojková	rodič. Jozef a Anna r. Saturová	0	1771,1806,2036,2104,2183
+2390	Zaťka Michal r. Zaťka	manž. Helena r, Svoradová	0	2057
+2390	Zaťka Pavol r. Zaťka	manž. Mária r. Vičanová	0	1066
+2390	Zaťková Hermína r. Urminská		0	2026
+2390	Zaťková Mária r. Vičanová	manž. Pavol	0	1066
+2390	Zavodák Michal r. Zavodák		0	1902
+2390	Zavodák Štefan r. Zavodák		0	1902
+2390	Zavodáková Helena r. Zavodáková		0	1902
+2390	Zavodáková Katarína r. Zavodáková		0	1902
+2390	Zdenek Michal r. Zdenek	rodič. Tomáš a Anna	0	1693
+2390	Zelisková Anna r. Zaťková	manž. Štefan	0	1393
+2390	Žigová Alžbeta r. Madarászová	po Jozefovi	0	1577
+2390	Žigová Alžbeta r. Madarászová	po Jozefovi; po Jozefovi	0	1246
+2391	ADAMOVIČOVÁ Mária r. Madáková	zomrela:5. 3. 2000,posledne bytom Senica-J.Mudrocha 34	0	1355
+2391	BALAJKOVÁ Alžbeta r. Kotvanová	manž.Imrich,súrod.Margita,Štefan,Rozália	0	1538
+2391	BALÁŽ Cyprian	zomrel:3.3.2005	0	1349
+2391	BALÁŽIK Augustín	čd.614/1925	0	2792
+2391	BALÁŽIK Izidor	čd.6362/1908	0	955
+2391	BALÁŽIK Jozef	čd.614/1925	0	2791
+2391	Balážik Severín	manž.Mária r.Tokošová,bytom Vlčkovany	0	1799,2771,2798
+2391	Balážik Štefan		0	1799
+2391	BALÁŽIK Štefan	čd.3565/1910	0	2799
+2391	Balážiková Ernestína	rodičia Rozália a Štefan	0	1799
+2391	BALÁŽIKOVÁ Johanna r. Slobodová		0	2568
+2391	BALÁŽIKOVÁ Mária r. Tokošová	zomrela:168.2000,manž.Severín,bytom Vlčkovany	0	2744,2798
+2391	BALÁŽOVÁ Helena		0	1094
+2391	BALÁŽOVÁ Mária r. Laláková	súrodenci:Ján ,Pavol	0	2767
+2391	BALÁŽOVÁ Žofia r. Richlovská	manž.Martin,rodičia Pavol a Katarína r.Bandulová	0	941,2979
+2391	BARÁK Michal	manž.Mária r.Tomšová	0	1538
+2391	BARÁKOVÁ Mária r. Tomšová	manž.Michal	0	1538
+2391	BARÁNEK Ladislav	manž.Mária r.Honzová	0	2561
+2391	BARÁNKOVÁ Mária r. Honzová	manž.Ladislav	0	2561
+2391	BARTAL Severín	manž.Ludmila r.Milotová,bytom Skalica,brat Antonín	0	1982
+2391	Bartalová Jozefína r. Tokošová	zomrela:2.10.2005,posledne bytom Vieska s.č.36	0	1886
+2391	BARTOŠÍK Ignác	súr.:Žofia,Ján,Štefan,Blažej	0	2706
+2391	BARTOŠÍK Ján	súr.:Žofia,Ignác,Štefan,Blažej	0	2706
+2391	BARTOŠÍK Pavol	čd.222/41	0	955
+2391	BARTOŠÍK Štefan	súr.: Ján, Žofia, Ignác, Blažej	0	2706
+2391	BARTOŠÍKOVÁ Hermína r. Hollá		0	955
+2391	Bartošíková Štefánia r. Vallová	zomrela:13. 4. 1998	0	2022,2507

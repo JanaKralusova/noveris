@@ -1,0 +1,256 @@
+764	Petrovský Pavol	zomrel; zomrel	0	764,1278
+764	PETROVSKÝ Štefan	zomrel	0	1216,1226,1364
+764	PISTORČÁKOVÁ Štefánia r. Čujdíková		0	1041,1734
+764	PULMANOVÁ Jozefína r. Sklenárová		0	1039
+764	RÁSTOČNÁ Justína		0	889,1206
+764	Rástočná Justína r. Adamíková	m.Martin Rástočný Kozelec; m.Martin Rástočný Kozelec	0	1346
+764	Rástočný Kozelec Martin r. Rástočný Kozelec	ž.Justína r.Adamíková; ž.Justína r.Adamíková	0	1346
+764	RASTOČNÝ Martin	ž.Justína r.Adamíková	0	1228
+764	REMENÁRIKOVÁ Juliana r. Drábiková		0	1029,1209
+764	REPÁKOVÁ Štefánia r. Petrovská		0	1156,1310
+764	REŠOVÁ Anna	zomrela	0	889,999,1206,1212,1754
+764	SAKALOVÁ Štefánia r. Masariková		0	893,975
+764	SALAJKA Eliáš		0	1265
+764	SALAJKA Štefan		0	1265
+764	SALAJKOVÁ Margita		0	1265
+764	SALAJKOVÁ Mária		0	1265
+764	SALAJKOVÁ Paulína	mal	0	1099,1102
+764	SAUERMANN Ladislav	zomrel	0	1206
+764	SEDLÁKOVÁ Karolína r. Chrenková		0	1253
+764	SKLENÁR Jozef		0	1263
+764	SKLENÁR Pavol		0	1263
+764	SLANINKA Rudolf		0	1015,1155,1409
+764	STEJSKAL Imrich		0	1276
+764	STRHÁKOVÁ Paulína r. Chrenková		0	1253
+764	ŠAJTLAVOVÁ Paulína r. Salajková		0	693,1099,1102
+764	ŠAJTLAVOVÁ Pavlína		0	1099
+764	ŠMID Vladimír	zomrela	0	1206
+764	ŠPÁNYOVÁ Mária	Valéria	0	889,1206
+764	ŠPÁNYOVÁ Valéria		0	817
+764	ŠVEJDOVÁ Jozefína		0	862,1099
+764	TABAČKOVÁ Barbora r. Koracová	m.Ľudovít	0	1261
+764	TARAPČÍK Ján	zomrel	0	1206
+764	TRESKOŇOVÁ Bernardína r. Čmáriková		0	1206,1312
+764	TRESKOŇOVÁ Jozefína r. Martinická	m.Štefan	0	1279,1289
+764	TUDÍKOVÁ Helena r. Pasníková		0	817
+764	VALÚCH Viktor	zomrel	0	1206
+764	VÁSKA Anna	súrod.Mária,Jozef	0	893,1209
+764	VÁSKA Mária	súrod.Anna,Jozef	0	893,1209
+764	VÁSKY Jozef	súrod.Mária,Anna	0	893,1209
+764	VČELÁKOVÁ Kamila r. Kadáková		0	775
+764	VIŠŇOVSKÁ Hedviga r. Andašíková		0	1227
+764	WEBER Jozef		0	1305
+764	WEBER Jozef r. Weber	zomrel	0	889,1206
+764	WIESLEROVÁ Helena	zomrela	0	889,1206
+764	ZHÁNELOVÁ Štefánia r. Čmáriková		0	817,1312
+764	ZUZIKOVÁ Pavlína r. Sklenárová		0	1263
+764	ŽILOVCOVÁ Barbora	mal	0	1249
+764	ŽILOVCOVÁ Mária		0	1249
+764	ŽILOVCOVÁ Veronika	mal	0	1249
+764	ŽILOVEC Jozef		0	1249
+764	ŽILOVEC Štefan		0	1249
+765	Balog Andrej r. Balog	po Andrejovi Balogovi	0	50,547,583,584,698,715,771,776,777,779,782,783,784,786,787,788,790,791,852,853,1236,1279,1280,1281
+765	Balog Ján r. Balog	po Andrejovi Balogovi	0	50,547,583,584,698,715,771,776,777,779,782,783,784,786,787,788,790,791,833,852,853,1236,1279,1280,1281
+765	BALOG Ján r. Balog	Syn Michala	0	361,1156
+765	Balog Jozef r. Balog	po Andrejovi Balogovi	0	50,547,583,584,698,715,771,776,777,779,782,783,784,786,787,788,790,791,852,853,1236,1279,1280,1281
+765	Balog Michal r. Balog	po Andrejovi Balogovi	0	50,547,583,584,698,715,771,776,777,779,782,783,784,786,787,788,790,791,852,853,1236,1279,1280,1281
+765	Balog Štefan r. Balog	po Andrejovi Balogovi	0	50,547,583,584,698,715,771,776,777,779,782,783,784,786,787,788,790,791,852,853,1236,1279,1280,1281
+765	BALOGOVÁ Alžbeta		0	361,547,715,1156,1236
+765	BALOGOVÁ Helena	mal	0	361,547,715,1156,1236
+765	BALOGOVÁ Júlia		0	361,547,715,1156,1236
+765	Balon Ján r. Balon	ž.Helena r.Tabaková	0	50,559,560,698,771,776,777,779,782,783,784,786,787,788,790,791,852,853,1215,1216,1279,1280,1281
+765	Balon Michal r. Balon	ž.Mária r.Kostúrová	0	547,715,1236
+765	BALONOVÁ Helena r. Tabaková		0	50,698,771,776,777,779,782,783,784,786,787,788,790,791,852,853,1279,1280,1281
+765	BALONOVÁ Mária r. Kostúrová		0	547,715,1236
+765	BARTKO Michal r. Bartko		0	1113
+765	BENČ Ján r. Benč		0	1107
+765	BENČ Jozef r. Benč		0	1107
+765	Benč Pavol r. Benč	ž.Mária r.Sotáková	0	1107
+765	BENČOVÁ Helena		0	1107
+765	BENČOVÁ Mária		0	1107
+765	BENČOVÁ Mária r. Sotáková		0	1107
+765	BÍLÁ Mária r. Jenčová		0	547,715,1236
+765	BORNSTEIN Dávid r. Bornstein		0	1113
+765	BRENNEROVÁ Hermína r. Guttfreundová		0	1115
+765	ČAKAN Štefan r. Čakan		0	1098
+765	ČAKANOVÁ Anna r. Hermanová		0	1098
+765	ČEREMŠÁKOVÁ Anna r. Tokárová		0	1113,1114
+765	ČERVEŇÁKOVÁ Alžbeta		0	1075
+765	ČERVEŇÁKOVÁ Anna		0	1075
+765	ČURLÍKOVÁ Mária r. Jenčová		0	547,1137,1236
+765	DEMKO Ján r. Demko		0	1072
+765	DEMKO Juraj r. Demko		0	1092
+765	DREVEŇÁK Ján r. Dreveňák		0	1065,1080
+765	DREVEŇÁK Ondrej r. Dreveňák		0	1065,1080
+765	DUŇA Ján r. Duňa		0	83,84,547,1050,1051,1236
+765	Duňa Michal r. Duňa	ž.Anna r.Fedorová	0	242
+765	DUŇOVÁ Anna		0	547,715,1236
+765	DUŇOVÁ Anna r. Horváthová		0	715,1050,1051
+765	Džuková Anna r. Onderová	USA	0	50,242,547,571,572,648,698,715,771,776,777,779,782,783,784,786,787,788,790,791,852,853,1236,1279,1280,1281
+765	FARBARIKOVÁ Mária r. Miklošová		0	616
+765	Fedor - Petrík Jozef r. Fedor - Petrík	ž.Anna r.Tokárová	0	566
+765	FEDOR Ján r. Fedor		0	547,1236
+765	FEDOR Ján r. Fedor	ž.Alžbeta r.Sotáková	0	656,657
+765	Fedor-Petrík Ján r. Fedor-Petrík	ž.Anna r.Varčová	0	50,698,771,776,777,779,782,783,784,786,787,788,790,791,852,853,1279,1280,1281
+765	Fedor-Petrík Jozef r. Fedor-Petrík	ž.Anna r.Tokárová	0	547,715,1236
+765	FEDOROVÁ Mária r. Kalafová		0	268,547,715,1051,1236
+765	FEDOROVÁ-PETRIKOVÁ Anna r. Fasuľková		0	50,547,698,715,771,776,777,779,782,783,784,786,787,788,790,791,852,853,1236,1279,1280,1281
+765	FREIBERGER Izák r. Freiberger	ž.Sali r.Lebovičová	0	607
+765	FREIBERGER Izsák r. Freiberger		0	1113
+765	FREIBERGEROVÁ Zála r. Lebovičová		0	1113
+765	FRIEDMANN Abrahám r. Friedmann	ž.Rézi r.Grossová	0	607
+765	FRIEDMANNOVÁ Rézi r. Grossová		0	607
+765	GAJDOŠ Michal r. Gajdoš	1	0	680
+765	Gajdošová Júlia	dcéra Michalova	0	50,698,771,776,777,779,782,783,784,786,787,788,790,791,852,853,1279,1280,1281
+765	GAJDOŠOVÁ Mária r. Tokárová		0	1113
+765	Garbiš Jozef r. Garbiš	USA	0	50,698,771,776,777,779,782,783,784,786,787,788,790,791,852,853,1279,1280,1281
+765	GARBIŠOVÁ Anna r. Lupčová		0	50,160,161,600,628,698,771,776,777,779,782,783,784,786,787,788,790,791,852,853,1003,1004,1218,1279,1280,1281
+765	GARBIŠOVÁ Helena		0	50,160,161,698,771,776,777,779,782,783,784,786,787,788,790,791,852,853,1003,1004,1218,1279,1280,1281
+765	GARBIŠOVÁ Helena r. Mikulová		0	547,715,1236
+765	GARBIŠOVÁ Júlia r. Lupčová		0	50,613,698,771,776,777,779,782,783,784,786,787,788,790,791,852,853,1279,1280,1281
+765	GERMUŠKA Jozef r. Germuška		0	1115
+765	GROSZ Jakub r. Grosz		0	1106
+765	GULÁŠ Ján r. Guláš		0	1098
+765	GULÁŠOVÁ Anna		0	1098
+765	GUTTFREUND Jozef r. Guttfreund	ž.Betty r.Bergerová	0	1113
+765	GUTTFREUNDOVÁ Betty r. Bergerová		0	1113
+765	GUTTFREUNDOVÁ Helena		0	1076,1077
+765	HRABOVSKÁ Mária r. Miklošová		0	76,170,547,715,1236
+765	Hudák Ján r. Hudák	Palko	0	1073
+765	HUDÁK Michal r. Hudák		0	1067,1085,1102
+765	HUDÁKOVÁ Alžbeta		0	1069
+765	CHOMOVÁ Mária r. Tabaková		0	153
+765	IVANIČOVÁ Helena r. Kalafová		0	1051
+765	Jakubčín Ján r. Jakubčín	ml	0	1083
+765	Jakubčín Ján r. Jakubčín	ž.Anna r.Žipajová Pavlenková	0	1083
+765	JENČA Ján r. Jenča	ž.Anna r.Dolacká	0	1137
+765	Jenča Michal r. Jenča	ž.Mária r.Oráčová	0	50,698,771,776,777,779,782,783,784,786,787,788,790,791,852,853,1279,1280,1281
+765	JENČOVÁ Anna r. Hajniková		0	50,698,771,776,777,779,782,783,784,786,787,788,790,791,852,853,1279,1280,1281
+765	JENČOVÁ Helena r. Miklošová		0	76,170,547,715,1236
+765	JENČOVÁ Mária		0	547,715,1236
+765	JUROV Juraj r. Jurov	ž.Alžbeta r.Jurovová	0	565,625
+765	JUROVOVÁ Alžbeta r. Jurovová		0	565,625
+765	KALAFA Juraj r. Kalafa	ž.Mária r.Petrová	0	1166
+765	KALAFOVÁ Júlia r. Horňáková		0	547,715,1236
+765	KALAFOVÁ Mária r. Gajdošová		0	158
+765	KALAFOVÁ Mária r. Kandalová		0	547,715,1236
+765	KALMANOVÁ Anna r. Duňová		0	698,1279
+765	Kandala Ján r. Kandala	ž.Helena r.Urbanová	0	547,715,1236
+765	Kandala Jozef r. Kandala	ž.Mária r.Baníková	0	715,721,991
+765	Kandala Jozef r. Kandala	ž.Mária r.Baniková, USA	0	547,1236
+765	KANDALA Jozef r. Kandala	ž.Mária r.Baniková USA	0	570,715
+765	Kandala Michal r. Kandala	ž.Anna r.Kochanová	0	547,715,1236
+765	Kandala Michal r. Kandala	ž.Mária r.Pižontová	0	547,715,1236
+765	KANDALOVÁ Helena r. Urbanová		0	715
+765	Kandalová Mária r. Pižontová		0	547,715,861,1236
+765	Kažimír Ján r. Kažimír	ž.Anna r.Demčáková	0	771,776,777,779,782,783,784,786,787,788,790,791,852,853,1280,1281
+765	KELLER Ján r. Keller	syn Jozefa	0	45,50,211,547,698,715,771,776,777,779,782,783,784,786,787,788,790,791,852,853,1198,1236,1279,1280,1281
+765	KELLER Jozef r. Keller	syn Jozefa	0	1198
+765	Keller Juraj r. Keller	ž.Mária r.Michalovičová	0	50,698,771,776,777,779,782,783,784,786,787,788,790,791,852,853,1279,1280,1281
+765	Keller Štefan r. Keller	syn Jozefa	0	50,698,771,776,777,779,782,783,784,786,787,788,790,791,852,853,1279,1280,1281
+765	KMEC Jozef r. Kmec		0	779
+765	KMECOVÁ Anna r. Jenčová		0	50,698,771,776,777,779,782,783,784,786,787,788,790,791,852,853,1279,1280,1281
+765	KMECOVÁ Anna r. Štofová		0	241,547,1236
+765	KOPČÁKOVÁ Anna r. Raničová		0	117
+765	KOPKOVÁ Anna r. Oráčová		0	1099
+765	Košar Jozef r. Košar	ž.Helena r.Tabaková	0	50,698,771,776,777,779,782,783,784,786,787,788,790,791,852,853,1279,1280,1281
+765	KOTUĽÁKOVÁ Mária r. Sedláková		0	1082
+765	KRIVAKOVÁ Mária r. Žipajová		0	547,715,1236
+765	KUČOVÁ Mária		0	1084
+765	LUPČO Andrej r. Lupčo	syn Michala USA	0	600,1175
+765	LUPČO Michal r. Lupčo	syn Michala USA	0	600
+765	MAČALA Ján r. Mačala	ž.Mária r.Cmarová	0	681,1113
+765	MAČALA Michal r. Mačala		0	1113
+765	MAČALOVÁ Anna	mal	0	1113
+765	MAČALOVÁ Mária	mal	0	1113
+765	MAČALOVÁ Mária r. Cmarová		0	681,1113
+765	MAČALOVÁ Zuzana r. Balogová		0	1113
+765	MARENČÍN Jozef r. Marenčín		0	1077
+765	MAŤAŠOVSKÁ Helena r. Jurovová		0	547,715,1236
+765	MAŤAŠOVSKÝ Štefan r. Maťašovský	ž.Anna r.Urbanová	0	515,1203
+765	Matta Štefan r. Matta	1	0	1083
+765	MATTOVÁ Anna r. Vagaská		0	1086
+765	MATTOVÁ Anna r. Žipajová-Sabolová		0	1090
+765	Mihalčinová Margita r. Bíla	Kanada	0	1042,1243
+765	MIHALIŠINOVÁ Elza r. Kotuľáková		0	1083
+765	MICHALOVÁ Mária r. Urbanová		0	715
+765	Mikloš Ján r. Mikloš	Perstenok	0	547,715,1182,1236
+765	Mikloš Ján r. Mikloš	syn Michala, v USA	0	547,1236
+765	MIKLOŠ Ján r. Mikloš	2	0	1098
+765	MIKLOŠ Ján r. Mikloš	syn Michala v USA	0	76,170,715
+765	MIKLOŠ Ján r. Mikloš	ž.Anna r.Tabaková	0	1181
+765	Mikloš Juraj r. Mikloš	ž.Júlia r.Raničová	0	50,698,771,776,777,779,782,783,784,786,787,788,790,791,852,853,1279,1280,1281
+765	MIKLOŠ Michal r. Mikloš	ž.Anna r.Ihnátová	0	667
+765	Mikloš Štefan r. Mikloš	ž. Mária r.Ščorbová	0	715
+765	MIKLOŠ Štefan r. Mikloš	Mária r.Ščorbová	0	76,170,547,1236
+765	MIKLOŠOVÁ Anna r. Boháčová		0	547,715,1236
+765	MIKLOŠOVÁ Anna r. Tabaková		0	547,674,1181,1236
+765	Onder Ján r. Onder	ž.Mária r.Miklošová	0	50,242,698,771,776,777,779,782,783,784,786,787,788,790,791,852,853,1279,1280,1281
+765	Onder Jozef r. Onder	syn Michala	0	50,242,547,571,572,648,650,698,715,771,776,777,779,782,783,784,786,787,788,790,791,852,853,1236,1279,1280,1281
+765	ONDER Jozef r. Onder		0	647,648
+765	ONDEROVÁ Anna r. Baldovská		0	545,547,571,715,1236
+765	OPET Juraj r. Opet		0	1076
+765	ORÁČ Štefan r. Oráč		0	1109
+765	PALIŠIN Michal r. Pališin	1; 1	0	1067,1085
+765	PAULIKOVÁ Anna r. Miklošová		0	76,170,547,715,1236
+765	PAVLENKOVÁ Anna		0	1097
+765	PAVUČKOVÁ Mária r. Tabaková		0	629
+765	PEREGRÍN Ján r. Peregrín		0	1098
+765	PEREGRÍN Pavol r. Peregrín		0	1098
+765	PEREGRÍNOVÁ Mária r. Žipajová-Sabolová		0	1090
+765	Pižont Michal r. Pižont	ž.Mária r.Tabaková	0	50,698,771,776,777,779,782,783,784,786,787,788,790,791,852,853,1279,1280,1281
+765	POHLOD Andrej r. Pohlod		0	1076
+765	Pohlod Ján r. Pohlod	mal.; syn Michala	0	663
+765	POHLOD Ján r. Pohlod	mal. syn Michala	0	76,180,698,771,776,777,779,782,783,784,786,787,788,790,791,1279,1280,1281
+765	Pohlod Jozef r. Pohlod	mal.; syn Michala	0	663
+765	Pohlodová Anna	mal. dcéra Michala	0	50,76,180,698,715,771,776,777,779,782,783,784,786,787,788,790,791,852,853,1279,1280,1281
+765	Pohlodová Anna	mal., dcéra Michala	0	547,1236
+765	Pohlodová Anna	mal.; dcéra Michala	0	663
+765	POHLODOVÁ Mária r. Bíla		0	1076
+765	POSPÍŠILOVÁ Anna r. Vagaská		0	1081
+765	RANIČOVÁ Anna r. Bačišinová		0	547,715,1236
+765	RAVASOVÁ Mária r. Lupčová		0	600,1175
+765	RUSNÁKOVÁ Anna r. Suchá		0	1173
+765	SABOLOVÁ Mária r. Pohlodová		0	397,398
+765	SABOVÁ Mária r. Pohlodová		0	76,547,1236
+765	SEKUNDOVÁ Júlia		0	1098
+765	Soták Ján r. Soták	syn Jána USA	0	132,656,715,1204
+765	Soták Ján r. Soták	syn Jána, USA	0	547,1236
+765	Sotáková Anna	dcéra Jozefa	0	132
+765	STREDNÁ Anna r. Pižontová		0	771
+765	STREDNÁ Mária r. Duňová		0	1050,1051
+765	STREDNÁ-PIŽONTOVÁ Júlia r. Onderová		0	547,715,1236
+765	Stredný Juraj r. Stredný	Pižont	0	547,715,1236
+765	STREDNÝ Michal r. Stredný	po Márii Strednej r.Duňovej	0	83,84,242,547,715,825,1236
+765	STREDNÝ-PIŽONT Andrej r. Stredný-pižont		0	50,698,771,776,777,779,782,783,784,786,787,788,790,791,852,853,1279,1280,1281
+765	Stulančák Michal r. Stulančák	ž.Mária r.Matová	0	547,715,1236
+765	Štofa Andrej r. Štofa	ž.Anna r.Kažimírová	0	698,771,779,1279
+765	Štofa Ján r. Štofa	po Jánovi Štofovi-Hirčákovi	0	50,698,771,776,777,779,782,783,784,786,787,788,790,791,852,853,1279,1280,1281
+765	Štofa Jozef r. Štofa	ž.Mária r.Sabolová	0	547,715,1236
+765	Štofa Juraj r. Štofa	syn Michala USA	0	715
+765	Štofa Juraj r. Štofa	syn Michala, USA	0	547,1236
+765	Štofa Michal r. Štofa	ž.Mária r.Štofová	0	50,698,771,776,777,779,782,783,784,786,787,788,790,791,852,853,1279,1280,1281
+765	ŠTOFA Michal r. Štofa		0	515,645
+765	ŠTOFA Michal r. Štofa	ž.Mária r.Pyrochová	0	1204
+765	Štoffa Ján r. Štoffa	Hirčák	0	50,625,698,771,776,777,779,782,783,784,786,787,788,790,791,852,853,1279,1280,1281
+765	Tabaka Ján r. Tabaka	ž.Alžbeta r.Kalafová	0	144,150,151,152,153,154,547,715,1236
+765	Tabaka Michal r. Tabaka	syn Štefana	0	151,152,153,154
+765	Tabaka Štefan r. Tabaka	ž.Alžbeta r.Peregrínová	0	144,147,148,150,547,715,1236
+765	TABAKOVÁ Alžbeta r. Kalafová		0	268,547,715,1051,1236
+765	TABAKOVÁ Mária r. Stredná		0	1189
+765	TOKÁR Ján r. Tokár	ml	0	1113
+765	TOKÁR Ján r. Tokár	ž.Mária r.Veliká	0	609,611
+765	Urban Jozef r. Urban	ž.Júlia r.Kalafová	0	547,715,1236
+765	URBANOVÁ Anna r. Garbišová		0	161,1004,1218
+765	URBANOVÁ Anna r. Kalafová		0	547,715,1051,1236
+765	URBANOVÁ Helena r. Kalafová		0	698,771,779,1279
+765	VAGASKÁ Anna r. Mattová		0	1094
+765	Vagaský Ján r. Vagaský	ž.Anna r.Mattová	0	1094
+765	VAGASKÝ Juraj r. Vagaský		0	1086
+765	VAGASKÝ Michal r. Vagaský		0	1086
+765	VAGASKÝ Štefan r. Vagaský		0	1086
+765	VAGASKÝ Tomáš r. Vagaský		0	1086
+765	ZUBKOVÁ Juliana r. Garbišová		0	628
+765	Žipaj - Sabol Ján r. Žipaj - Sabol	1; 1	0	1090
+765	Žipaj Andrej r. Žipaj	ž.Mária r.Žipajová	0	1174
+765	Žipaj Ján r. Žipaj	ž.Mária r.Kalafová, Kanada	0	547,715,1236

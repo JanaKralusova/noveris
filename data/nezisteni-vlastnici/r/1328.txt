@@ -1,0 +1,256 @@
+773	BOBROVSKÁ Zuzana r. Figuliová		0	2317
+773	BOBROVSKÝ Ladislav		0	1819
+773	BOBROVSKÝ Ladislav	zomrel	0	2389
+773	BOBROVSKÝ Pavel	m.Zuzana r.Figuliová	0	1819,2389
+773	Bobrovský Pavol	mladší	0	2389
+773	BOBROVSKÝ Pavol		0	1819
+773	BOHÁČIKOVÁ Mária r. Bitalová		0	304
+773	BOHÁČIKOVÁ Mária r. Hinková		0	1490
+773	BOHNISCHOVÁ Anna r. Chalupecká		0	2156
+773	Bolčiak Michal	m.Pavlína r.Mravcová, zomrel	0	2599
+773	Bolčiaková Pavlína r. Marvcová	m. Michal, zomrela	0	2599
+773	BORDÁŠ Pavol		0	2502
+773	BORDÁŠOVÁ Zuzana		0	2502
+773	Bortel Eugen	zomrel	0	2414
+773	BORTELOVÁ Anna r. Kirschnerová		0	1864
+773	Bortelová Aurélia	zomrela	0	2414
+773	BOTTO Štefan		0	1997,1998,2603
+773	BOTTOVÁ Júlia		0	1997,1998,2603
+773	BOVETHOVÁ Júlia r. Kolesárová		0	1631
+773	Bradňanský Pavol	baliarkin	0	2290
+773	BRANSCHVEIG Arnošt	August,knieža z Luxemburgu	0	2292
+773	Brezňaková Zuzana r. Tepperová	m.Pavel	0	1476
+773	BREZŇAN Ľudovit	m.Margita r.Bodnárová	0	2237
+773	BREZŇAN Pavel		0	2583,2584
+773	BREZŇANOVÁ Margita r. Bodnárová	m.Ľudovit, zomrela	0	2237
+773	BREZŇANOVÁ Zuzana	m.Pavel,zomrela	0	1590
+773	BREZŇANOVÁ Zuzana r. Tepperová		0	1560,1727,1729
+773	BREZŇANOVÁ Zuzana r. Tepperová	m. Pavel	0	1621,1728,2547
+773	BREZŇANOVÁ Zuzana r. Tepperová	m.Pavel	0	1547,1824,2097,2545,2546
+773	BREZŇANOVÁ Zuzana r. Tepperová	m.Pavel,zomrela	0	1050
+773	BREZŇANOVÁ Zuzana r. Trepperová	m. Pavel	0	2269
+773	BREZŇANOVÁ Zuzana r. Trepperová	m.Pavel	0	2949
+773	BREZŇANOVÁ Zuzana r. Trepperová	m.Pavel,zomrela	0	1425,1483,3143
+773	BREZŇANOVÁ Zuzana r. v	m.Pavel,zomrela	0	1757
+773	Brndiar Ján	tomovkin	0	2487
+773	BRNDIAR Ján	bálintkin, zomrel	0	2319
+773	BRNDIAR Ján	bálintkin,zomrel	0	2324
+773	BRNDIAR Ján	Maša 456, Hnúšťa	0	904
+773	BRNDIAR Ján	nar.28.6.1924,zomrel	1	2350
+773	BRNDIAR Ján	suchárkin	0	2481
+773	Brndiar Ondrej	tomovkin	0	2487
+773	BRNDIAR Ondrej		0	1507,2313
+773	BRNDIAR Ondrej	m.Júlia r.Stančová	0	1679,1712
+773	BRNDIAR Pavel		0	1560,1757,1824,2097,2545,2546,2583,2584
+773	BRNDIAR Pavel	sudorkin	0	1425,1476,1483,1547,1590,2547,3143
+773	BRNDIAROVÁ Judita r. Tomová		0	1712
+773	BRNDIAROVÁ Júlia r. Lichanecová	Pavlova, zomrela	0	2350
+773	BRNDIAROVÁ Zuzana r. Balciarová		0	2303,2304
+773	BROŽOVÁ Emília		0	1757,2097
+773	Bučko Ján	zomrel	0	2410
+773	BUČKO Ján		0	1476,1810,2269,2545,2949
+773	Bučko Pavol	zomrel	0	2410
+773	BUČKO Pavol		0	1425,1476,1483,1547,1560,1590,1620,1621,1727,1728,1729,1757,1810,1824,2097,2269,2545,2546,2547,2949,3143
+773	Budinská Elena	zomrela	0	2422,2552
+773	BUDINSKÁ Helena		0	2269,2949
+773	BUKOVIČOVÁ Gizela r. Straková		0	2509
+773	BÚTORA Ján	lavdarkin	0	2335
+773	BÚTORA Ondrej	chudičkina	0	1539
+773	BÚTORA Pavol		0	2335
+773	BÚTOROVÁ Juliana r. Stolárová		0	2325,2493
+773	BYSTRIANSKY Martin		0	1728,1813,2192,2269,2949
+773	Bystriaqnsky Martin		0	1400
+773	Bývalí urbarialisti obce Likier		0	3103
+773	CABAN Pavol	m.Júlia r.Koniarová, zomrel	0	2340,2426
+773	CABAN Vincent	m.Mária r.Trnavská	0	1637
+773	CABANOVÁ Mária r. Trnavská	m.Vincent	0	1637
+773	CIBUĽOVÁ Zuzana		0	1338
+773	CSÍZI Koloman		0	1425,1483,1547,1638,1639,3143
+773	CSÍZI Koloman	mladší	0	1560,1590
+773	ČAJKA Ondrej		0	2497
+773	ČAJKA Pavel		0	2497
+773	ČEJKOVÁ Margita r. Karkušová		0	1425,1476,1483,1547,1560,1590,1757,1824,2097,2545,2547,3143
+773	ČELÁR František		0	782
+773	ČEPREGY Pavol	m.Elena r.Ľaudisová,zomrel	0	1659
+773	ČERNÁK Ján		0	1014
+773	ČERNÁK Ondrej	kariačkin	0	2339
+773	ČERNÁKOVÁ Helena r. Figulová		0	1559,2269,2949,3141,3311,3313
+773	ČERNÁKOVÁ Mária r. Samašová		0	1425,1476,1483,1547,1560,1590,1757,1824,2097,2269,2545,2546,2547,2949,3143
+773	ČERNÝ Ján		0	1602,1869,2581
+773	ČERNÝ Ján	m.Zuzana r.Kvaková	0	1602,1869,2581,2588
+773	ČERNÝ Juraj		0	1869
+773	ČERNÝ Juraj	maloletý	0	1602,2581
+773	ČERNÝ Michal		0	1602,1869
+773	ČERNÝ Ondrej	m. Judita r. Karasová	0	2581
+773	ČERNÝ Ondrej	m.Judita r.Karasová	0	1602,1869
+773	ČERNÝ Ondrej	m.Mária r.Karasová	0	1602,1869,2589
+773	ČERNÝ Pavel		0	1602,1869
+773	ČIERNA Helena		0	2587
+773	ČIERNA Mária		0	2587
+773	ČIERNY Ján		0	2587
+773	ČIPKA Martin	m.Mária r.Miklová	0	2430
+773	ČIPKOVÁ Mária r. Miklová	zomrela 9.7.1995	0	2430,2559
+773	ČOMA Štefan	m.Júlia r.Striežovská	0	188
+773	ČOMOVÁ Júlia r. Striežovská		0	188,1425,1476,1483,1547,1560,1590,1757,1824,2097,2545,2546,2547,3143
+773	ČOMOVÁ Júlia r. Striežovská	zomrela	0	2346,2428,2429
+773	Čorbaiová Emília r. Zéttyová	m.Andrej, zomrela	0	2528
+773	ČORBAIOVÁ Emília r. Zéttyová		0	2
+773	ČORBAIOVÁ Emília r. Zéttyová	m.Andrej	0	1597
+773	ČSŠ - Slovenské nerudné bane n.p. Spišská Nová Ves		0	2161
+773	ČSŠ - SMREČINA n.p. Banská Bystrica		0	2353
+773	ČSŠ Uhoľné sklady P.R., Rimavská Sobota		0	2427
+773	ČSŠ-SLOV.MAGNEZITOVÉ ZÁVODY N.P.KOŠICE,, 040 01, Košice, SR		0	2575,2576
+773	ČSŠ-SPRÁVA SPOJOV, Banská Bystrica 1		0	2165
+773	DAMRELYOVÁ Elena r. Ružiniová		0	1425,1476,1483,1547,1560,1589,1590,1757,1824,2097,2194,2269,2545,2546,2547,2949,3143
+773	DARAČKOVÁ Mária		0	2124
+773	Dedinská Juliana r. Figuli		0	3122,3124
+773	DEDINSKÁ Juliana r. Figuliová		0	2100,2101,2643,2927,2928,2929,2998
+773	DERENČÉNIOVÁ Mária r. Resubíková	m.Jozef,zomrel	0	1118
+773	DINDOFEROVÁ Júlia r. Tobiková		0	2205,2269
+773	DINDOFEROVÁ Júlia r. Tobiková	Pavlová	0	2949
+773	DINDOFEROVÁ Júlia r. Tobiková	Pavlová,zomrela	0	2440
+773	DOBOŠ Ján	m.Mária r.Hámošová	0	2328
+773	DOBOŠ Ondrej	m.Juliana r.Bálintová	0	2342
+773	Dobošová Juliana r. Bálintová	m.Ondrej	0	2342
+773	DOBOŠOVÁ Mária r. Hámošová	m. Ján	0	2328
+773	DOBOZYOVÁ Ella r. Kocková	zomrela	0	393
+773	DOBRÁ Helena		0	73,75
+773	DOBROVSKÝ Pavel		0	2583,2584
+773	DONO Štefan a Lýdia DONOVÁ		0	297
+773	DORAČKOVÁ Johana r. Slivková		0	2480,2483
+773	DOVALA Michal		0	1596,2154,2385
+773	DOVALA Pavel		0	1633
+773	DOVALA Pavol	m.Judita r.Figuliová	0	2468,2471
+773	DOVALOVÁ Judita r. Fábriová		0	2269
+773	DOVALOVÁ Judita r. Fábriová	Michalova	0	1620,2949
+773	DOVALOVÁ Júlia r. Fábriová		0	2269
+773	DOVALOVÁ Júlia r. Fábriová	Ondrejova	0	1620,2949
+773	DOVALOVÁ Mária r. Vančíková		0	1596
+773	DOVALOVÁ Sabína	r.Šprochová	1	2949
+773	DOVALOVÁ Sabína r. Šprochová		0	1430,2257,2269
+773	DOVALOVÁ Zuzana r. Dovalová		0	1497,2309,2318
+773	DREVIANKA Pavol		0	1500,1894,2247
+773	ĎURÍKOVÁ Zuzana r. Čierna		0	2587
+773	ĎURINDA Ľudovít	nar.17.6.1911,zomrel	1	2407
+773	ĎURKOVIČ Daniel		0	1543,2269,2949,3251,3261,3276
+773	ĎURKOVIČ Ivan		0	1425,1476,1483,1547,1560,1590,1757,1824,2097,2155,2183,2184,2185,2186,2214,2269,2545,2546,2547,3143
+773	ĎURKOVIČ Ivan	maloletý	0	2425,2458,2528,2949
+773	ĎURKOVIČ Ján		0	1547
+773	ĎURKOVIČOVÁ Margita		0	2155,2546,2583,2584
+773	ELBOGEN Lothar, Dr.		0	2467
+773	ELIZEUSOVÁ Júlia r. Stolárová	m.Gustáv	0	399
+773	EŠTÓKOVÁ Júlia r. Migalecová		0	1476,1483,1547,1560,1590,1824,2545,2547,3143
+773	FÁBRI Adam	m.Júlia r.Pasiarová	0	1620
+773	FÁBRI Ján		0	1620,2269,2949
+773	FÁBRI Ján	syn Jozefov	0	1620,2949
+773	FÁBRI Michal		0	1620,2269,2949
+773	FÁBRI Pavel		0	1620,2269,2949
+773	FÁBRI Štefan		0	1620,2269,2949
+773	FÁBRIOVÁ Zuzana		0	1620,2269,2949
+773	FÁBRY Adam		0	2269,2949
+773	FÁBRY Ján		0	75,83,2269,2949
+773	FÁBRY Štefan		0	2583,2584
+773	FÁBRY Štefan	m.Sabína r.Lihániová	0	517,2179
+773	FÁBRY Štefan	m.Sabína r.Lihániová,zomrela	0	2568
+773	FÁBRYOVÁ Júlia r. Tepperová		0	1425,1476,1483,1547,1560,1590,1621,1727,1728,1729,1757,1824,2097,2269,2545,2546,2547,2949,3143
+773	FÁBRYOVÁ Sabína		0	288
+773	FÁBRYOVÁ Sabína	r.Lihániová,m.Štefan,zomrela	0	1547
+773	FÁBRYOVÁ Sabína r. Lihániová	m. Štefan	0	2545
+773	FÁBRYOVÁ Sabína r. Lihániová	m.Štefan	0	1425,1476,1483,1560,1757,1824,2097,3143
+773	FÁBRYOVÁ Sabína r. Lihániová	m.Štefan,zomrela	0	1590,2546,2547
+773	FABRYOVÁ Sabina r. Lihanyiová		0	2269
+773	FABRYOVÁ Sabina r. Lihanyiová	Štefanova,zomre	0	1079
+773	Fábryová Sabina r. Lihanyiová	Štefanova	0	1683,1685,2416,2949,3161
+773	FÁBRYOVÁ Zuzana		0	283,3333,3358
+773	Fačka Ján	maloletý	0	2446
+773	FAČKO Albert		0	1390
+773	FAČKO Gustáv		0	1390
+773	FAČKO Ján		0	1390
+773	FAČKO Jozef	m.Juliana r.Pažítková,zomrel	0	2432
+773	FAČKO Ondrej	m.Helena r.Slišťanová	0	2364,3206
+773	FAČKOVÁ Emília r. Kuviková		0	2446,2544
+773	FAČKOVÁ Helena		0	1390
+773	FAČKOVÁ Helena r. Slišťanová	m. Ondrej	0	2364,3206
+773	Fačková Júliana r. Pažítková	zomrela	0	2432
+773	Fajčík Ján	zomrel	0	2597
+773	FAROŠOVÁ Sabina r. Figuli	Rudolfova	0	2100,2101,2643,2927,2928,2929
+773	FAROŠOVÁ Sabina r. Figuli	Rudolfova, zomrela	0	2998
+773	FASINGEROVÁ Sabina		0	1476
+773	FÉDER Ondrej		0	2240
+773	FÉDER Ondrej	v Likieri	0	2240
+773	FÉDEROVÁ Božena	maloletá	0	2240
+773	FEHÉROVÁ Emília r. Kamasová		0	1425,1476,1483,1547,1560,1590,1757,1824,2097,2545,2546,2547,3143
+773	FERANEC Ján		0	2464
+773	FERANEC Ján	mladší	0	2464
+773	FERENCOVÁ Juliana r. Bartošová		0	1489
+773	FERKOVÁ Júlia r. Sudorová		0	1485,1547,1757,1824,1825,2139,3068
+773	FERKOVÁ Júlia r. Sudorová	m. Ján	0	1399,1425,1560,1590,1826,2249,2269,2949
+773	FERKOVÁ Júlia r. Sudorová	m.Ján	0	1400,2097,2545,2546,2547
+773	FERKOVÁ Júlia r. Surdorová	m. Ján	0	1476,1483,3143
+773	FIALOVÁ Ema r. Gebauerová		0	1391
+773	FIGULI Ondrej		0	2100,2101,2643,2927,2928,2929,2998,3122,3124
+773	FIGULI Ondrej	m.Mária r.Vinclavová	0	2269
+773	FIGULI Ondrej	m.Mária r.Vinclavová, obuvník	0	2267
+773	FIGULI Ondrej	m.Mária r.Vinclavová,obuvník	0	1495,2293,2305,2481,2949
+773	FIGULI Samuel		0	2317
+773	FIGULIOVÁ Mária		0	283,3333,3358
+773	FIGULIOVÁ Mária	m.Ondrej	0	2210
+773	FIGULIOVÁ Mária r. Migalová	m Ondrej	0	2949
+773	FIGULIOVÁ Mária r. Migaľová	m.Ondrej	0	1812,2269
+773	FIGULIOVÁ Mária r. Migaľová	m.Ondrej,zomrela	0	1735,2573,3318
+773	FIGULIOVÁ Mária r. Vinclavová	m Ondrej	0	2293,2305
+773	FIGULIOVÁ Mária r. Vinclavová	m.Ondrej	0	2481
+773	FIGULY Ondrej		0	2583,2584
+773	FIGULY Samuel	m.Zuzana r.Laudisová	0	2327
+773	FIGULYOVÁ Zuzana r. Laudisová	m.Samuel	0	2326,2327
+773	FIĽO Ondrej		0	2100,2101,2643,2927,2928,2929,2998,3122,3124
+773	FIĽO Ondrej, Dr.		0	2623
+773	FIĽO Ondrej, Dr.	NP Praha	0	2623
+773	FIĽO Štefan		0	2100,2101,2643,2927,2928,2929,2998,3122,3124
+773	Fiľová Zuzana	nezl	0	3122,3124
+773	FIĽOVÁ Zuzana		0	2100,2101,2623,2624,2643,2927,2928,2929,2998,3122,3124
+773	FIĽOVÁ Zuzana	maloletá	0	2998
+773	FOJTÍKOVÁ Vilma r. Belicová	NP Lysá nad Labem	0	151,959,2613,2625,3233,3277
+773	FOLDESOVÁ Júlia		0	283,3333,3358
+773	FOĽK Ondrej	m.Mária r.Bieniková	0	1425
+773	FRAŇO Ondrej	m.Anna r.Hazuchová	0	2521
+773	FRAŇOVÁ Anna r. Hazuchová	m.Ondrej	0	2521
+773	FRIČOVÁ Elene r. .Klementiová	m. Viktor	0	2249
+773	FRIČOVÁ Margita r. Weiszová	m.Viktor st., zomrela	0	2248
+773	Friedel Jozef		0	75,523
+773	Friedelová Karolína		0	75
+773	FURDOVÁ Sabina r. Benčíková		0	1404
+773	GAJDOŠ Mikuláš	m.Mária r.Jamnická	0	2241
+773	GAJDOŠOVÁ Mária r. Jamnická	m.Mikuláš	0	2241
+773	GÁLUSOVÁ Pavla r. Števková	NP Kanada	0	150,151,152,1604,1605,1609,2116,3201,3202,3218,3219,3237,3238
+773	GÁSPÁROVÁ Emília		0	288
+773	GAŠPAROVÁ Emília r. Lihányiová		0	1079,1425,1476,1483,1547,1560,1590,1683,1684,1685,1757,1824,2097,2269,2416,2545,2546,2547,2949,3143,3161
+773	GAŠPAROVÁ Emília r. Lihányiová	zomrela	0	1824
+773	GEBAUER Ján		0	1391
+773	GEBAUEROVÁ Juliana r. Muráriková	vdova,zomrela	0	1391
+773	GEMEŠOVÁ Gabriela r. Takáčová		0	2235
+773	GLONEK Ján	Austrália	0	80
+773	GREGOROVÁ Emília r. Striežovská		1	186,187,1425,1476,1483,1547,1560,1562,1590,1613,1614,1615,1616,1617,1618,1619,1757,1824,2097,2269,2346,2428,2429,2545,2546,2547,2949,3143,3191
+773	GRENDEL Michal		0	1602,1869,2581
+773	GRENDELOVÁ Mária		0	2586
+773	GRENDELOVÁ Zuzana r. Likierová		0	2586
+773	GRLAK Jozef		0	501
+773	GROZER Jolana r. Mocná		0	205
+773	GRUSS Koloman	mladší	0	2386
+773	GRUSSOVÁ Irena		0	2386
+773	HABARTIKOVÁ Margita r. Bitalová		0	304,1490,1491,2269,2949
+773	HELKIN Ján		0	2927,2928,2929,3122,3124
+773	HELKINOVÁ Anna		0	632
+773	HELVIGOVÁ Johana r. Mocná		0	2583,2584
+773	Hercegová Mária r. Kizeková	Margita	0	2229,2434
+773	HERCHLOVÁ Margita	r.Kocková	1	2949
+773	HERCHLOVÁ Margita r. Kocková		0	198,1127,1425,1476,1483,1547,1560,1590,1635,1638,1639,1757,1824,2097,2269,2510,2542,2545,2546,2547,3143
+773	HINKA Jozef	m.Helena r.Migaľová, zomrel	0	2389
+773	HINKOVÁ Helena r. Migaľová	m.Jozef, zomrela	0	2389
+773	HLOŠKA Michal	m.Júlia r.Javorová,vrško	0	1727
+773	HLOŠKA Michal	Vrško č.199	0	2583,2584
+773	HLOŠKA Ondrej		0	2269,2377,2381
+773	HLOŠKA Ondrej	vrško	0	2949
+773	HLOŠKA Pavel		0	2584
+773	HLOŠKA Pavel	Bohyňa č.31	0	2583
+773	HLOŠKOVÁ Zuzana	Jánová č.87	0	2583,2584

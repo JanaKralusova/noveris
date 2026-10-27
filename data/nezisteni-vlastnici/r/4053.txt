@@ -1,0 +1,256 @@
+2288	Šafin Pavol, SR	mladší, manž.Alžbeta Šeptáková; mladší, manž.Alžbeta Šeptáková	1	648,650,651,652
+2288	Šafin Peter, SR		1	646,648,649,650,651,652
+2288	Ščerbák Andrej, SR	manž.Anna Jacková; manž.Anna Jacková	1	477
+2288	Ščerbák Ján, SR	mal.; mal	1	677
+2288	Ščerbák Martin, SR		1	677
+2288	Ščerbák Michal r. Ščerbák	mal.; mal	1	678
+2288	Ščerbák Michal, SR	mal.; mal	1	521,523,607,677,805,813,840,851,855,870
+2288	Ščerbák Michal, SR	syn Štefana; syn Štefana	1	675,676,780,786,811,823
+2288	Ščerbák Peter, SR		1	677,678
+2288	Ščerbák Peter, SR	otec Michal; otec Michal	1	677
+2288	Ščerbáková Anna, SR		1	523,607,677
+2288	Ščerbáková Anna, SR	mal.; mal	1	521,805,813,840,851,855,870
+2288	Ščerbáková Anna, SR	otec Michal; otec Michal	1	677,678
+2288	Ščerbáková Mária		1	678
+2288	Ščerbáková Mária r. Andrejková		1	765
+2288	Ščerbáková Mária r. Andrejková	manž.Michal; manž.Michal	1	765
+2288	Ščerbáková Mária, SR		1	523,607,677
+2288	Ščerbáková Pavlína r. Spišovská	m.Ján	1	616
+2288	Ščerbáková Pavlína r. Spišovská, SR		1	615
+2288	Šepták Ján, SR		1	650
+2288	Šimko Juraj, SR		1	650
+2288	Šimon Ján, SR		1	731
+2288	Šimonová Anna, SR		1	731
+2288	Škirda Juraj, SR	mladší; mladší	1	728
+2288	Školské - Ob.úrad, Vyšné Remety čs.112		0	764
+2288	Šmigová Mária r. Pandoščáková, SR	vdova; vdova	1	677,765
+2288	Šošák Michal, SR		1	518,677,796,838
+2288	Štofega Juraj, Úbrež, SR	manž.Zuzana Hadvábová; manž.Zuzana Hadvábová	1	716
+2288	Štofegová Anna, SR		1	716
+2288	Šuhajdová Anna r. Kováčová, SR		1	672
+2288	Thun František, SR		1	646,648,649,650,651,652
+2288	Tkáč Ján, SR		1	644,677,765
+2288	Tkáčová Barbora, SR		1	677,765
+2288	Tkáčová Helena, SR		1	644
+2288	Tkáčová Helena, SR	mal.; mal	1	677,765
+2288	Tofčáková Mária r. Čolinová, SR		1	678
+2288	Tomčová Mária r. Semjanová, SR	manž.Ján; manž.Ján	1	539,677,765,834,842
+2288	Tomčová Mária r. Semjanová, SR	manž.Juraj; manž.Juraj	1	552,638
+2288	Topoľančík Juraj, SR	Šmatina; Šmatina	1	732
+2288	Tovčák Michal, SR		1	676,780,786
+2288	Tovčáková Zuzana		0	561,850
+2288	Tovčáková Zuzana, SR		1	677,765,814
+2288	Tovšáková Zuzana, SR		1	678
+2288	Urbanová Ilona, SR		1	678
+2288	Urbanová Mária r. Haligmanová, SR		1	678
+2288	Urbanová Mária r. Holigmanová, SR	manž.Vasiľ; manž.Vasiľ	1	677,765
+2288	Vertes Ján, SR		1	646,648,649,650,651,652
+2288	Vinc Ján, SR		1	756
+2288	Vinc Juraj, SR	mal., matka Anna Sičová, z Bl.Revíšť; mal., matka Anna Sičová, z Bl.Revíšť	1	756
+2288	Vok Helena, SR	mal.; mal	1	677,765
+2288	Vok Štefan, SR	mal.; mal	1	677,765
+2288	Weismanová Lény r. Ehrenreichová, SR		1	645
+2288	Weiszmanová Léni r. Ehrenreichová, SR	manž.Herman; manž.Herman	1	484,631
+2288	Weiszmanová Lény r. Ehrenreichová, SR		1	591
+2288	Weiszmanová Róza r. Ehrenreichová, SR		1	629
+2288	Weiszová Katarína r. Glanczová, SR	manž.Ignác; manž.Ignác	1	503,818
+2288	Weizmanová Léni r. Ehrenreichová, SR	manž.Herman; manž.Herman	1	543,624,677,765
+2288	Záhorčák Juraj, SR	mal.; mal	1	646,648,649,650,651,652
+2288	Záhorčák Michal, SR		1	646,648,649,650,651,652
+2288	Záhorčák Pavol, SR		1	646,648,649,650,651,652
+2288	Záhorčák Pavol, SR	mal.; mal	1	648,650
+2288	Záhorčáková Anna r. Ihnátová, SR		1	677
+2288	Záhorčáková Anna, SR	mal.; mal	1	678,765
+2288	Záhorčáková Mária r. Petraniková, SR		1	709
+2288	Záhorčáková Mária, SR		1	579,646,649,651,652
+2288	Záhorčáková Mária, SR	mal.; mal	1	646,648,649,650,651,670
+2288	Žiláková Mária r. Hámorská, SR		1	547,675,677,678,765,811,823,856
+2288	Žofčák Michal, SR	ml	0	679
+2289	ADAMCOVÁ Zuzana r. Kurnotová	zomrela	0	1789
+2289	ADAMEC Ján	najst. zomrel	0	1789
+2289	ADAMEC Ondrej	zomrel	0	1787
+2289	BABIC Ján	Blaho zomrel	0	1783
+2289	BABIC Ján	zomrel	0	1783
+2289	BABICOVÁ Mária r. Brodňanská	zomrela	0	1783
+2289	BABICOVÁ Zuzana r. Adamcová, 027 21, Žaškov, č. 179, SR		0	1784
+2289	BABJAK Ondrej	zomrel	0	1788
+2289	BABJAKOVÁ Zuzana	Furindová zomrela	0	1783
+2289	BAJČI Ondrej	Vyhnan zomrel	0	1782
+2289	BAJČIOVÁ Katarína r. Krúpová	zomrela	0	1782
+2289	BAJČIOVÁ Zuzana r. Strapcová	Švábová zomrela	0	1779
+2289	BARIET Ján	zomrel	0	1781
+2289	BENCÚR Ján	Slávik, ž.Žofia Jasenová	0	1313,1775,1994
+2289	BENKOVÁ Mária	mal. Ondrejova dcéra	0	1266
+2289	BENŠOVÁ Oľga r. Pivková, SR		0	932
+2289	BOCKOVÁ Žofia	r.Holubová, Záskalie	0	19,1302,1494,1753,1804,1805,1806,1899,1990,2084
+2289	Boháčik Michal r. Boháčik	zomrel	0	1211
+2289	BRAŠEŇ Juraj	ž.Žofia Lenčová Jasenová	0	1313,1775,1994
+2289	BRNČIAK Ondrej	Veličná	0	1273
+2289	BRNČIAK Ondrej	ž.Mária r.Dudášová	0	757
+2289	Bývalí urbarialisti obce Veličná		0	1115,1143,1554,1583,1585
+2289	CALLO Ondrej	ž.Mária r.Bocková	0	1276,1284,1287,1301
+2289	CALLOVÁ Katarína	r.Vicáňová	0	527,1426
+2289	Callová Mária	r.Vicáňová Klačová; r.Vicáňová Klačová	0	149,1848,1997,2002
+2289	CALLOVÁ Zuzana r. Matláková	Zábrež 22	0	459
+2289	Cimrák Ján r. Cimrák	zomrel; Beň. Lehota	0	1211
+2289	Cimrák Mária	zomrela; vd	0	1211
+2289	CIMRÁKOVÁ Mária r. Čutková	Veličná	0	1571
+2289	ČADO Ondrej	Šimrák ml. zomrel	0	1778
+2289	ČADO Ondrej	Šimrák st. zomrel	0	1778
+2289	ČADOVÁ ŠIMRÁKOVÁ Katarína	zomrela	0	1778
+2289	ČIERNA Zuzana r. Babicová		0	1777,1784
+2289	ČIERNY Ondrej	Brveník zomrel	0	1779
+2289	ČIŽMÁR Peter		0	687,1464
+2289	ČIŽMÁROVÁ Mária r. Paplanonová	Krížiková	0	1464
+2289	ČIŽMÁROVÁ Mária r. Paplanová Krížiková		0	687
+2289	Čutka Ján r. Čutka	zomrel; Veľ.Bysterec	0	1211
+2289	DIMÁK Ján	Pavolka zomrel	0	1779
+2289	DIŠKANT Michal	zomrel	0	1789
+2289	DIŠKANT Ondrej	zomrel	0	1784,1789
+2289	DUDÁŠ Ján	II	0	1463
+2289	Dudáš Kuteš Ondrej r. Dudáš	zomrel; Veličná 112, 027 54 Veličná	0	1211
+2289	DUDÁŠ Ondrej	Hustafa	0	1213
+2289	DUDÁŠ Ondrej	ž.Mária Matláková	0	1500
+2289	Dudášová Mária	zomrela; Veličná 112, 02754 Veličná	0	1211
+2289	Durdiaková Mária	zomrela; Sedliacka Dubová 46, 027 55 Sedliacka Dubová	0	1211
+2289	FAGLIC Jozef	zomrel	0	1784
+2289	FAGLIC Vendelín	zomrel	0	1789
+2289	FAGLICOVÁ Katarína	Surová Kočiarova zomrela	0	1784
+2289	FAGLICOVÁ Zuzana	zomrela	0	1781
+2289	FARKOVÁ Katarína	Macáková zomrela	0	1786
+2289	FARKOVÁ Katarína	Majdová zomrela	0	1786
+2289	FURINDA Ondrej	najst. zomrel	0	1783
+2289	FURINDOVÁ Zuzana r. Surová Kočiarová	zomrela	0	1784
+2289	GREGUŠKOVÁ Zuzana r. Chodáková		0	1319
+2289	GRÍSA Ondrej	Zábrež	0	1148,1150,1187,1334,1581
+2289	HALAMČEK Ján	zomrel	0	1778
+2289	HALAMČEKOVÁ Mária r. Pavolková	zomrela	0	1778
+2289	Halaša Peter r. Halaša	zomrel; evanj.farár; Veličná 122, 027 54 Veličná	0	1211
+2289	HANES Michal	mal	0	1307,1697
+2289	HANES Ondrej		0	1307,1697
+2289	Hladiš Pavol r. Hladiš	zomrel; Veličná 130, 027 54 Veličná	0	1211
+2289	HOLUB Ján	Jánov syn	0	1612
+2289	HOLUBOVÁ Katarína	mal.Ondrejova dcéra	0	181
+2289	HOLUBOVÁ Mária	mal.Ondrejova dcéra	0	181
+2289	HRAŠKO Ján	najst. zomrel	0	1778
+2289	HRAŠKO Ján	Talabaj zomrel	0	1779
+2289	HRAŠKO Michal	Holota zomrel	0	1779
+2289	HUBA Ján	ž.Mária Dudášová	0	294,1273
+2289	Huba Ondrej r. Huba	zomrel; ml	0	1211
+2289	HVIZDÁK Juraj	ž.Zuzana Hvizdáková	0	1574
+2289	HVIZDÁKOVÁ Zuzana	m.juraj	0	1574
+2289	CHMARA Ján	Švrkot zomrel	0	1782
+2289	CHMARA Ondrej	Švrkot zomrel	0	1781
+2289	CHODÁK Michal	ž.Zuzana Borsuková	0	1019,1973
+2289	CHOVANOVÁ KOPOVÁ Mária	Hrašková Helotová zomrela	0	1785
+2289	CHOVANOVÁ KOPOVÁ Zuzana	zomrela	0	1785
+2289	JANČOŠKA Ján	č.d.20	0	1403
+2289	JANČOŠKA Ján	ž.Katarína Bajčiová	0	1266,1308,1406,1497,1548,2032
+2289	JURČÍK Michal		0	1569
+2289	JURČÍK Ondrej	ml	0	1569
+2289	Jurčík Ondrej r. Jurčík	zomrel; Revišné 288, 027 54 Veličná	0	1211
+2289	KAJKO Ondrej	Krúpa zomrel	0	1784
+2289	KAJKOVÁ Katarína r. Dymáková	zomrela	0	1779
+2289	KATREŇÁKOVÁ Mária, SR	NV	0	945
+2289	KEVEŠ Ondrej	Čierny zomrel	0	1787
+2289	KEVEŠOVÁ Mária	zomrela	0	1787
+2289	Kôpka Juraj r. Kôpka, Ing.	zomrel; Halašova 2263/7, 010 01 Žilina	0	1211
+2289	Krajčovic Ondrej	zomrel; rod. Krajčovic; Beňovolehotská 6, 026 01 Dolný Kubín	0	1211
+2289	Krišková Zuzana	zomrela; Clementisova 10, 040 01 Košice	0	1211
+2289	KRIŠKOVÁ Zuzana		0	1143,1554
+2289	KRÍŽIK Jozef	ml	0	1371
+2289	KRÍŽIK Jozef	st	0	1303,2070
+2289	Kubačková Zuzana	zomrela	0	1211
+2289	KUBALA Ján	zomrel	0	1789
+2289	KUBALOVÁ Zuzana	zomrela	0	1789
+2289	KUNDEKOVÁ Zuzana r. Jandurová, SR	NV	0	946
+2289	KURIŠ Michal	Ondrejov syn	0	1598
+2289	Kurišová Mária		0	1635
+2289	KURNOTA Ondrej	Majda zomrel	0	1778
+2289	KURNOTA Ondrej	st.zomrel	0	1778
+2289	KURNOTOVÁ Mária r. Turčinová	zomrela	0	1789
+2289	KYSEL Ondrej	Peťko, Jánov syn	0	1572
+2289	Kysel, Blahutík Ján r. Kysel	zomrel; rok nar. 1892; Veličná 141, 027 54 Veličná	0	1211
+2289	Kysel, Kôpka Michal r. Kôpka	zomrel	0	1211
+2289	LACKO Ján	st.zomrel	0	1777
+2289	LACKO Jozef	zomrel	0	1777
+2289	LACKO Štefan	zomrel	0	1783
+2289	LACKO Vendelín	zomrel	0	1783
+2289	LACKOVÁ Katarína r. Krúpová	Kalinčáková ,zomrela	0	1777
+2289	LACKOVÁ Katarína r. Krúpová	Kalinčáková zomrela	0	1783
+2289	LACKOVÁ Mária	Farková zomrela	0	1786
+2289	LACKOVÁ Mária r. Callová		0	459
+2289	LÁCLAV Ján	Jánov syn	0	1307,1697
+2289	Ledner Markus r. Ledner	zomrel; rok nar. 1883	0	1211
+2289	LEHOCKÝ Ondrej	mal.Veličná	0	1318
+2289	LEHOCKÝ Ondrej	ž.Zuzana Vicáňová Ranostajová	0	1423,1426
+2289	LEHOTSKÁ Zuzana r. Ranostajová		0	1423,1426
+2289	LOMÁZOVÁ Anna	zomrela	0	1777,1782
+2289	MACÁKOVÁ Zuzana	zomrela	0	1788
+2289	MACÚCHOVÁ Žofia r. Manťová	v Amerike	0	1303,2070
+2289	MANŤO Ján	Pravdis, ž.Zuzana Pobehová	0	1474
+2289	MAŤKOVÁ Mária r. Babjaková	zomrela	0	1781
+2289	MATLÁK Ján		0	1407
+2289	MATLÁK Ondrej	mal	0	1276,1284,1287,1301,1316,1635
+2289	MAŤUGA Ondrej	ž.Helena Podbrežná	0	1410
+2289	MAŤUGOVÁ Mária	Fojtová, r.Prčinová	0	877,1516,1521
+2289	MATÚŠKA Štefan		0	250,848,875
+2289	MEDZIHRADSKÁ Margita r. Mackovičová	zomrela	0	1784
+2289	MEDZIHRADSKÝ Pavol	zomrel	0	1784
+2289	MENDEL Michal	zomrel	0	1777
+2289	MESÁROŠOVÁ Mária r. Tomčová	Jurík	0	1404
+2289	MIGO Ján	najst. zomrel	0	1784,1787
+2289	MIGO Ondrej	Fusco zomrel	0	1788
+2289	MIGO Pavol	Mičko zomrel	0	1787
+2289	MIKUŠ Michal	Kalinčák zomrel	0	1781
+2289	MIKUŠOVÁ Katarína r. Žaškovská	zomrela	0	1781
+2289	MIKUŠOVÁ Zuzana r. Vicáňová	Kláč	0	1266
+2289	MIKUŠOVÁ Žofia r. Dudášová		0	39,1314,1742,1819,1838,1872,1873
+2289	MIŠEK Ján	Jánov syn	0	1456
+2289	MÍŠEK Pavel	mal. Zábrež	0	1304,2067,2072
+2289	MIŠEKOVÁ Mária	Jánova dcéra	0	1456,1457
+2289	MIŠEKOVÁ Zuzana r. Kanderová		0	1148,1150,1187,1334,1581
+2289	Mlynarčík Michal r. Mlynarčík	zomrel	0	1211
+2289	MLÝNARČÍK Mikuláš		0	632
+2289	MUŠKOVÁ Zuzana	Strapcová zomrela	0	1781
+2289	NEMČEKOVÁ Mária r. Barietová	zomrela	0	1781
+2289	OBRINOVÁ Oľga r. Macáková		0	1552
+2289	PAŠKOVÁ Mária r. Maderová, SR		0	808,1977
+2289	PAVLOVČÍKOVÁ Žofia	Ondrejova dcéra	0	1115,1148,1150,1187,1334,1581,1583,1585
+2289	PAVOLKA Ján	najst. zomrel	0	1781
+2289	PAVOLKOVÁ Zuzana		0	1786
+2289	PAVOLKOVÁ Zuzana r. Migová	zomrela	0	1777
+2289	PETRÍČEK Pavol, SR	NV	0	937
+2289	PIROH Ján	na neznámom mieste	0	1781
+2289	PIROH Ján	zomrel	0	1781
+2289	PIROH Juraj	zomrel	0	1782
+2289	PIROH Michal	zomrel	0	1781
+2289	POBEHA Ondrej		0	1654
+2289	POBEHOVÁ Katarína r. Kuricová	zomrela	0	1782
+2289	POBEHOVÁ Zuzana	zomrela	0	1787
+2289	Prílepok Ján r. Prílepok	zomrel; Veličná 78, 027 54 Veličná	0	1211
+2289	Prílepok Ondrej r. Prílepok	zomrel; rok nar. 1891; Zábrež 027 54 Veličná	0	1211
+2289	REPKA Ondrej	zomrel	0	1778
+2289	REPKOVÁ Mária r. Matušovicová, 027 21, Žaškov, č. 244, SR		0	1778
+2289	ROMANČÍK Ján	Kacko	0	1565
+2289	Rybárová Mária	zomrela; Budovateľská 26, 841 02 Bratislava	0	1211
+2289	Slabej Ján r. Slabej	zomrel; Veličná, 027 54 Veličná	0	1211
+2289	Slabej Milan r. Slabej	zomrel; rok nar. 1871; Veličná, 027 54 Veličná	0	1211
+2289	Sojka Grunovsky Ján r. Sojka	zomrel; Veličná 19, 027 54 Veličná	0	1211
+2289	Sojka Ján r. Sojka	zomrel; Zábrež, 027 54 Veličná	0	1211
+2289	Sojková Zuzana	zomrela; Veličná 23, 027 54 Veličná	0	1211
+2289	SOJKOVÁ Zuzana		0	1143,1554
+2289	SOPÚCH Ján r. Sopúch		0	1307,1697
+2289	STRAPCOVÁ Alžbeta r. Kalujová		0	1778
+2289	STRAPEC Ondrej	st. zomrel	0	1784
+2289	SUROVIAK Ján	Chovan zomrel	0	1782,1785
+2289	SUROVÝ Michal	Kočiar zomrel	0	1784
+2289	SVITKO Ján	Hraško zomrel	0	1777
+2289	SVITKO Michal	Bajči	0	1778,1781
+2289	SVITKO Milan	Helo	0	1778,1781
+2289	SVITKO Miloslav	Bajči	0	1778,1781
+2289	SVITKO Ondrej	Helo zomrel	0	1781
+2289	SVITKOVÁ Mária r. Kajková	zomrela	0	1779
+2289	SVORENČÍK Štefan	zomrel	0	1777
+2289	SVORENČÍKOVÁ Zuzana r. Hrašková	zomrela	0	1779
+2289	Šaliga Ján r. Šaliga	zomrel; Malý Bysterec	0	1211

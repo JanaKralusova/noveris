@@ -1,0 +1,256 @@
+749	Potočná Mária	mal	0	513
+749	Potočná Zuzana		0	493,513
+749	Potočný Ondrej		0	493,513
+749	Potočný Štefan		0	493
+749	Potočný Štefan	mal	0	513
+749	Richter Maxová Anna r. Sárkányová		0	528
+749	Rusnáková Júlia r. Kraková		0	431
+749	Sárkány Anna		0	528
+749	Sárkány Bedřich		0	528
+749	Sárkány Emília		0	528
+749	Sárkány Irena		0	528
+749	Sárkány Koloman, Dr.		0	528
+749	Sárkány Kolomanová Irena r. Reményiková		0	528
+749	Simon Július		0	354
+749	Sipula Ján		0	477
+749	Sipulová Júlia		0	477
+749	Slosáriková Zuzana		0	516
+749	Šestina Ondrej		0	73
+749	Šimon Ďurán Ján		0	469
+749	Šimon Ďuran Juraj		0	125
+749	Šimon Ján		0	506
+749	Šimonová Božena r. Lazorovej, Mgr., Pod Rovnicami 710/13, Bratislava, PSČ 84104, SR		0	99
+749	Šimonová Ďuránová Mária		0	469
+749	Šimunová Júlia r. Leštachová, SR		0	96
+749	Šimunová Juliana r. Leštachová		0	90,94,98
+749	Švejkovská Valéria		0	211,463,569
+749	Tirscher Szilárdová Anna r. Sárkányová		0	528
+749	Úverové družstvo s neobmedzeným ručením pre Henckovce a okolie v Henckovciach		0	403
+750	Almášiová Anna r. Zvarová, SR		1	33,127,331,382,971,974,993,994
+750	Andrássy Gejza		1	759
+750	Augustiňáková Lucia r. Lapšanská, SR		0	653
+750	Bednár Jozef		1	122,421,833
+750	Bednár Jozef, SR		1	116,120,488
+750	Bednárová Helena r. Mularčíková, SR		1	32,420,488,833,835
+750	Beláková Mária r. Šomšáková, SR		1	107,349
+750	Berczalová Ilona r. Jarabeková, SR		1	114
+750	Bočoková Zuzana r. Šomšáková, SR		1	107,329,349,350,351,352,992
+750	Bodnár Jozef		1	833,835
+750	Brejda Jozef		1	830,878
+750	Brejdová Terézia r. Kerkešová, SR		1	507,696,830,878
+750	Bujda Jozef		1	855
+750	Bujdová Terézia r. Kerkešová, SR		1	855
+750	Coplák Adolf		1	54,287,724,749,766,861,872
+750	Coplák Adolf, SR		1	357,361,362,363,602
+750	Coplák Štefan		1	873
+750	Copláková Agnesa		1	724,749
+750	Copláková Agnesa, SR		1	287,361,602,873
+750	Copláková Anna		1	758
+750	Copláková Irma, SR		1	287,357,361,362,363,602,724,749,766,861,872
+750	Fridmanská Anna r. Macková		1	195
+750	Fridmanská Anna r. Macková, SR		1	377,378
+750	Fridmanská Mária r. Mrozeková, SR		1	549
+750	Fridmanský Juraj		1	846
+750	Fridmanský Ludvík, SR		1	383
+750	Fridmanský Štefan		1	740
+750	Friedmanská Mária r. Kraková, SR		1	708
+750	Furajtálová Helena r. Sopková, SR		1	16
+750	Furajtár Ján		1	43,342,541,718,722,782,813,875
+750	Furajtár Ján, SR		1	168,266,311,342,531
+750	Furajtár Jozef		1	82
+750	Furajtár Jozef, SR		1	164,594,647
+750	Furajtár Michal		1	567,568
+750	Furajtár Michal, SR		1	52
+750	Furajtár Štefan		1	83,84,89,311,897
+750	Furajtár Štefan, SR		1	371
+750	Furajtár Vojtech		1	46
+750	Furajtárová Anna		1	40,540,541,560
+750	Furajtárová Anna r. Špinerová		1	83,84
+750	Furajtárová Anna r. Špinerová, SR		1	650,662,818
+750	Furajtárová Anna, SR		1	342,527,528,530,531,532,533
+750	Furajtárová Helena r. Krajňáková, SR		1	571,635,662,808,818
+750	Furajtárová Helena r. Mularčíková, SR		1	164,594,647
+750	Furajtárová Helena r. Sopková		1	495
+750	Furajtárová Helena r. Sopková, SR		1	15,19
+750	Furajtárová Johana, SR		1	342,531
+750	Furajtárová Jolana r. Furajtárová		1	311
+750	Furajtárová Mária r. Kraková, SR		1	40,560
+750	Furajtárová Mária r. Lopatovská, SR		1	52
+750	Furajtárová Mária r. Miškovičová, SR		1	371
+750	Furajtárová Mária r. Mrozeková, SR		1	377
+750	Furajtárová Regina r. Lendacká		1	82
+750	Furajtárová Zuzana		1	843
+750	Furajtárová Zuzana r. Dušitská, SR		1	875
+750	Furajtárová Zuzana r. Špaková		1	87,89
+750	Furajtárová Zuzana r. Špaková, SR		1	340
+750	Furajtárová Zuzana, SR		1	726
+750	Furajtárová Žofia r. Lapšanská, SR		1	40,560
+750	Gajanová Mária r. Krajňáková, SR		1	681,904
+750	Gajdošová Zuzana r. Miškovičová, SR		1	226,705
+750	Girmonová Amália r. Miškovičová, SR		1	177
+750	Glodič Ján		1	721
+750	Glodič Juraj		1	766,882
+750	Glodič Juraj, SR		1	363
+750	Glodič Michal		1	313,882
+750	Glodič Michal, SR		1	530
+750	Glodičová Helena r. Furajtárová		1	87,369
+750	Glodičová Karolína, SR		1	890
+750	Glodičová Katarína r. Zvarová, SR		1	895
+750	Glodičová Mária		1	826
+750	Glodičová Mária r. Baranová, SR		1	363,766
+750	Glovčík Ján		1	847,867
+750	Glovčík Michal		1	847,867
+750	Glovčík Štefan		1	847,867
+750	Glovčíková Karolína r. Podolinská, SR		1	847,867,894
+750	Gobelová Amália r. Jarabeková, SR		1	463,834
+750	Goblová Amália r. Jarabeková, SR		1	725
+750	Gumer Jozef		1	995,996
+750	Hajdu Dorota		1	893
+750	Hajduk Ján		1	716
+750	Hajduk Jozef		1	721
+750	Hajduk Matej		1	716,892
+750	Hajduk Štefan		1	721
+750	Hajduková Dorotti		1	716
+750	Hajduková Dorotti, SR		1	832
+750	Hajdúková Katarína r. Vajdová, SR		1	774
+750	Hajduková Mária r. Fridmanská, SR		1	900
+750	Hajduková Žofia r. Valkošáková		1	748
+750	Hanuščáková Mária r. Krajňáková, SR		1	320
+750	Hervan Alexander, SR		1	574,593
+750	Hirčko Jozef, SR		1	30,31,33
+750	Hirčko Michal, SR		1	31,33
+750	Hirčková Mária		1	864
+750	Hirčková Mária r. Majkuthová, SR		1	30
+750	Hirčková Mária r. Majkutová, SR		1	31
+750	Hlastala Michal, SR		1	359,363
+750	Hlastalová Anna		1	766
+750	Hlavová Emília r. Hirčková, SR		1	30,31,32,33,35
+750	Hozová Cecília r. Lapšanská		1	241,242,272,977,978,983,985
+750	Hozová Cecília r. Lapšanská, SR		1	104,127,141,144,270,274,275,587,968,969,970,971,974,976,979,980,981,982,1000
+750	Hričková Mária r. Majkutová, SR		1	420
+750	Jarabek Gregor		1	660
+750	Jarabek Jozef		1	763,792
+750	Jarabek Jozef, SR		1	114,485,491
+750	Jarabek Juraj		1	946
+750	Jarabek Juraj, SR		1	190,672
+750	Jarabek Michal		1	100,284,792
+750	Jarabek Michal, SR		1	114,491
+750	Jarabeková Agnesa r. Krepelková, SR		1	700,713,879
+750	Jarabeková Anna, SR		1	114
+750	Jarabeková Aranka		1	792
+750	Jarabeková Aranka r. Šomšáková, SR		1	485
+750	Jarabeková Aranka, SR		1	114
+750	Jarabeková Ilona r. Lapšanský, SR		1	284
+750	Jarabeková Mária		1	814
+750	Jarabeková Zuzana		1	834
+750	Jarabeková Zuzana r. Jurášová, SR		1	660
+750	Jarabeková Zuzana r. Krajňáková, SR		1	805
+750	Jarabeková Zuzana r. Rusnáková		1	238,241,977,978
+750	Jarabeková Zuzana r. Rusnáková, SR		1	327,403,421,422,620,621,812
+750	Jarabeková Zuzana, SR		1	463
+750	Jassuš Andrej, SR		1	360
+750	Jassuš Jozef		1	215,649,790
+750	Jassuš Jozef, SR		1	218,360,588,780
+750	Jassuš Matej		1	659,704
+750	Jassuš Štefan, SR		1	247,360
+750	Jassušová Anna		1	215
+750	Jassušová Anna, SR		1	211,218,360
+750	Jassušová Cecília, SR		1	360
+750	Jassušová Elena, SR		1	214
+750	Jassušová Helena		1	175,211,212,649,790
+750	Jassušová Helena, SR		1	41,170,171,172,173,174,177,182,588,750,800,930
+750	Jassušová Katarína		1	170,175,649,750,790,800
+750	Jassušová Katarína, SR		1	41,171,172,173,174,177,182,588
+750	Jassušová Ľudmila		1	170,175,649,790
+750	Jassušová Ľudmila r. Mrozeková, SR		1	613
+750	Jassušová Ľudmila, SR		1	41,170,171,172,173,174,177,182,432,433,436,588,649,750,800,930
+750	Jassušová Mária		1	212
+750	Jassušová Mária, SR		1	211,360
+750	Jassušová Terézia		1	649,790
+750	Jassušová Terézia, SR		1	588,750,800
+750	Jassušová Zuzana		1	215,642
+750	Jassušová Žofia		1	215,836
+750	Jassušová Žofia r. Furajtárová		1	43,311,342
+750	Jassušová Žofia r. Furajtárová, SR		1	168,266,531,722,782,813
+750	Jasuš Jozef		1	211,212
+750	Jasuš Štefan		1	170
+750	Jasušová Emília		1	683
+750	Jaššušová Ľudmila r. Miškovičová, SR		1	780
+750	Juráš Ján		1	673
+750	Juráš Jozef		1	657
+750	Juráš Jozef, SR		1	9
+750	Jurášová Helena		1	758
+750	Jurášová Ilona r. Pilátová, SR		1	114,763
+750	Jurášová Magdaléna		1	673
+750	Jurášová Magdaléna r. Zvarová, SR		1	786,904
+750	Jurášová Zuzana		1	673
+750	Kavečan Jozef		1	54,287
+750	Kavečan Jozef, SR		1	361,602
+750	Kavečan Štefan		1	788,992,993,994,995,996
+750	Kerekešová Zuzana r. Hajduková, SR		1	832
+750	Kerkeš Ján, SR		1	93
+750	Kerkeš Jozef		1	36,37,763
+750	Kerkeš Jozef, SR		1	123,374,663
+750	Kerkeš Krištof		1	825
+750	Kerkeš Ľudovít		1	874
+750	Kerkeš Rudolf, SR		1	558
+750	Kerkeš Štefan		1	371,663
+750	Kerkeš Štefan, SR		1	156,372,932
+750	Kerkeš Vojtech		1	626,630
+750	Kerkeš Vojtech, SR		1	23,507
+750	Kerkešová Emília		1	663
+750	Kerkešová Helena r. Jarabeková, SR		1	114,115
+750	Kerkešová Helena r. Rusňáková, SR		1	348,763
+750	Kerkešová Katarína		1	663
+750	Kerkešová Katarína r. Lendacká		1	82,311,369
+750	Kerkešová Katarína r. Lendacká, SR		1	651,782
+750	Kerkešová Katarína r. Miškovičová, SR		1	663,679
+750	Kerkešová Katarína, SR		1	93
+750	Kerkešová Kristína r. Rusňáková, SR		1	104,116,119,120,121,122,123,127,348,403,763,968,970,971,974
+750	Kerkešová Mária r. Gampyová		1	825
+750	Kerkešová Terézia		1	626,630
+750	Kerkešová Terézia, SR		1	23
+750	Kerkešová Zuzana r. Hajduková		1	716
+750	Kerkešová Zuzana r. Miškovičová, SR		1	874
+750	Kniznerová Anna r. Šándorová		1	779
+750	Kniznerová Anna r. Šándorová, SR		1	794,828
+750	Kniznerová Zuzana r. Skalská, SR		1	598
+750	Kočišová Mária r. Lopatovská, SR		1	756
+750	Kollárová Žofia r. Zvarová, SR		1	395,416
+750	Komorová Mária r. Králová		1	728
+750	Komorová Mária r. Králová, SR		1	725
+750	Kovaryová Ilona r. Miškovičová, SR		1	226,705
+750	Kozubová Božena r. Sopková, Podolinec, SR		1	417
+750	Krajňák Alojz		1	170,872
+750	Krajňák Alojz, SR		1	174,596,599,791,899
+750	Krajňák Andrej		1	312,313,314,315,316,317,321
+750	Krajňák Andrej, SR		1	208,311,318,967
+750	Krajňák Ján		1	992,993,994,995,996
+750	Krajňák Ján, SR		1	110,115,574,611,693
+750	Krajňák Jozef		1	311,312,313,314,316,992,993,994,995,996
+750	Krajňák Jozef, SR		1	110,115,208,315,317,318,320,321,611,691,816,967
+750	Krajňák Juraj		1	688,887
+750	Krajňák Matej		1	688,796
+750	Krajňák Michal, SR		1	110,690
+750	Krajňák Štefan		1	823
+750	Krajňáková Emília		1	314,316
+750	Krajňáková Ilona r. Miškovičová		1	783
+750	Krajňáková Ilona r. Miškovičová, SR		1	42
+750	Krajňáková Irma		1	312,313,314,315,316,317,318,321,645
+750	Krajňáková Irma, SR		1	208,311,967
+750	Krajňáková Mária		1	170,314,315,321
+750	Krajňáková Mária r. Furajtárová, SR		1	691
+750	Krajňáková Mária r. Gajanová, SR		1	816
+750	Krajňáková Mária r. Lapšanská, SR		1	8,9,14,15,110,141,144,279,687,720,844,851,976
+750	Krajňáková Mária r. Sopková, SR		1	16,19,816
+750	Krajňáková Mária, SR		1	174,318,596,599,791,807,872,899
+750	Krajňáková Regina		1	170,872
+750	Krajňáková Regina, SR		1	174,596,599,791,899
+750	Krak Ján		1	378,386,680,742,781,795,888
+750	Krak Ján, SR		1	75,549
+750	Krak Jozef		1	77
+750	Krak Jozef, SR		1	79,283,629,888
+750	Krak Michal, SR		1	75,76
+750	Krak Štefan		1	77,145,328
+750	Krak Štefan, SR		1	75,76,196,283,378,632
+750	Kraková Alžbeta r. Ruchshloss, SR		1	549

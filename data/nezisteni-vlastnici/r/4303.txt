@@ -1,0 +1,256 @@
+2433	Sojaková Angela r. Bačková		0	649
+2433	Sojaková Emília r. Piestiková		0	668
+2433	Sojaková Emília r. Rusnáková		0	274,292,440,443,602,618
+2433	Sojaková Helena	Anton, Michal, po Andele r. Rusnákovej	0	274,292,440,443,454,599,600,601,602,618,661
+2433	Sojaková Ilona		0	632
+2433	Sojáková Mária r. Chamková		0	219
+2433	Sojaková Mária r. Jablonská		0	375
+2433	Sojaková Terézia r. Pančušková		0	635
+2433	Sokolová Mária r. Chamková		0	380,701
+2433	Stanko Július r. Stanko	po Jánovi Stankovi	0	584
+2433	Stanková Amália	Ján, Július, Anna	0	579,584
+2433	Stanková Anna	po	0	284,288,289,290,291,294,393,394,410,412,413,414,579,581,582,584,606,616,658,754
+2433	Stanková Júlia r. Drobová		0	491,574,576,578,643
+2433	Stiráková Emília	po Márii r. Sojakovej	0	681
+2433	Šagát Jozef r. Šagát	po Zuzane r. Berešovej	0	728
+2433	Šagát Július r. Šagát		0	731
+2433	Šagátová Gizela r. Foltányová		0	313,337,350,507
+2433	Šagátová Mária r. Foltányová	manžel Ondrej	0	220
+2433	Šagátová Štefánia r. Longauerová		0	731
+2433	Šaňková Jolana r. Šušová		0	275,284,288,289,290,291,393,394,410,412,413,414,415,579,581,582,606,616,655,658,719
+2433	Šimko Izidor r. Šimko		0	340
+2433	Šlasová Jolana r. Kurpašová	1.písmeno ?	0	406
+2433	Šlosiariková Emília r. Siládiová		0	275,415
+2433	Šlosiariková Emília r. Siládiová	Petrova	0	284,290,294,394,410,412,413,414,507,579,606,616,658,754
+2433	Štandová Mária r. Majerčíková		0	204,273,274,425,479,489,545,680
+2433	Štrba Juraj r. Štrba		0	424,542,543,546,615
+2433	Štrbová Anna		0	239,539,544,546
+2433	Štrbová Jozefína r. Mráznicová		0	218,223,461,500,509,512,560,561,563,597,627,668
+2433	Štrbová Juliana r. Tištianová		0	238,424,444,542
+2433	Šuša Július r. Šuša		0	275,284,288,289,290,291,294,393,394,410,412,413,414,415,579,581,582,606,616,655,658,719,754
+2433	Šuša Lukáš r. Šuša	po Antónii rod. Ligasovej	0	294,754
+2433	Šušová Antónia		0	275,284,288,289,290,291,294,393,394,410,412,413,414,415,579,581,582,606,616,655,658,719,754
+2433	Šušová Jolana		0	275,284,288,289,290,291,294,393,394,410,412,413,414,415,579,581,582,606,616,655,658,719,754
+2433	Švantnerová Gizela r. Sobolová		0	218,500,596,597,627
+2433	Tištian Jozef r. Tištian		0	392
+2433	Tištian Július r. Tištian		0	638
+2433	Tištianová Juliana	čd 1686/1880	0	232,239
+2433	Tištianová Mária r. Šušová		0	275,284,288,289,290,291,294,393,394,410,412,413,414,415,579,581,582,606,616,655,658,719,754
+2433	Tokár Jozef r. Tokár	po Jánovi Tokárovi	0	309,447,647
+2433	Tokár Jozef r. Tokár	pos. bytom Hronská 17/a, Valaská	0	447,647
+2433	Tokár Jozef r. Tokár	starší	0	458,686
+2433	Tokár Július r. Tokár	I., Michal	0	309,447,647
+2433	Tokár Július r. Tokár	II	0	309,447,647
+2433	Tokár Mikuláš r. Tokár		0	191,193,194,458,554,556,557,666,668,686
+2433	Tokár Tibor r. Tokár		0	309,447,647
+2433	Tokár Viliam r. Tokár		0	309,447,647
+2433	Tokár Zoltán r. Tokár		0	647
+2433	Tokárová Emília		0	309,447,647
+2433	Tokárová Etela		0	309
+2433	Tokárová Margita r. Balíková		0	334,443
+2433	Tokárová Mária		0	647
+2433	Tomčík Michal r. Tomčík		0	288,581,582,584
+2433	Tomčík Tomáš r. Tomčík	po Márii r. Majerčíkovej	0	288
+2433	Tomčík Viliam r. Tomčík		0	288,581,582,584
+2433	Tomčíková Anna		0	288,581,582,584
+2433	Tomčíková Mária r. Kuchelová		0	461,560,561,597,627
+2433	Tomenga Jozef r. Tomenga	pos. bytom J. Kráľa 540/40, Dubová	0	684
+2433	Turčiačiková Antónia r. Jablonková		0	620,688,706,722
+2433	Urban František r. Urban	Pionierov 4, Banská Bystrica	0	701
+2433	Urban Jozef r. Urban	Anna, Mária, Emília, Štefan	0	236,252,261,262,263,264,265,266,356,378,380,426,441,685,701
+2433	Urban Jozef r. Urban	maloletosť zrušená čd 3753/39	0	262
+2433	Urban Július r. Urban		0	266,356,685
+2433	Urban Štefan r. Urban		0	266,356,685
+2433	Urbanová Anna		0	236,266,356,685
+2433	Urbanová Cecília r. Žabková		0	629
+2433	Urbanová Elena r. Piestiková		0	314,317,401,402,498,590,702
+2433	Urbanová Emília	nezletilá	0	236,252,261,262,263,264,265,378,380,426,441,701
+2433	Urbanová Helena	nezletilá	0	236,252,261,262,263,264,265,378,380,426,441,701
+2433	Urbanová Helena r. Hyrková		0	464
+2433	Urbanová Ilona r. Piestiková		0	332,443,450,453
+2433	Urbanová Mária		0	236,252,261,262,263,264,265,266,356,378,380,426,441,685,701
+2433	Vágnerová Emília r. Murgašová		0	204
+2433	Valková Katarína r. Kantorová		0	364,365,366,367,368,381,384,432
+2433	Véghová Mária r. Balíková		0	205,299,333,334,353,443,448,449,450,453
+2433	Véghová Mária r. Urbanová		0	332
+2433	Vráb Cyril r. Vráb		0	366
+2433	Vráb Ján r. Vráb		0	366
+2433	Vráb Ján r. Vráb	nezletilý	0	366
+2433	Vráb Jozef r. Vráb	nezletilý	0	366,381,432
+2433	Vráb Michal r. Vráb	po Rozálii Vrábovej r. Filipovej	0	211,212,236,261,262,263,264,265,266,267,356,365,368,378,380,381,426,432,441,572,604,685,701
+2433	Vráb Ondrej r. Vráb	po Rozálii Vrábovej r. Filipovej	0	378
+2433	Vráb Ondrej, RÁZTOKA, SR	dopl.: po Rozálii Vrábovej r. Filipovej; dopl.: po Rozálii Vrábovej r. Filipovej	0	646
+2433	Vrábová Anna r. Kuchelová		0	223,381,432
+2433	Vrábová Elena	brat Jozef	0	381,432
+2433	Vrábová Jolana		0	366
+2433	Vrábová Sabina, RÁZTOKA, SR		0	646
+2433	Wágner Ján r. Wágner	po Zuzane Šagátovej r. Berešovej	0	728
+2433	Wágner Matej r. Wágner	po Zuzane Šagátovej r. Berešovej	0	728
+2433	Wágner Ondrej r. Wágner	po ZUzane Šagátovej r. Berešovej	0	728
+2433	Wagner Štefan r. Wagner	po Zuzane Šagátovej r. Berešovej	0	728
+2433	Wagnerová Anna	po Zuzane Šagátovej r. Berešovej	0	728
+2433	Wagnerová Rozália	po Zuzane Šagátovej r. Berešovej	0	728
+2433	Zrubák Ondrej r. Zrubák	po Štefanovi	0	388
+2433	Zuštáková Emília r. Chomičová	brat Gustáv	0	262,266,356,685
+2433	Žabko Michal r. Žabko	po Jozefovi	0	608,629
+2433	Žabková Mária r. Laliková		0	608,629
+2434	Dobrovodská Etela r. Kobilicová		0	2325
+2434	Kobilic Ján	ž.Straková	0	2325
+2434	Kobilic Karol	ž.Margita Petríková	0	2325
+2434	Kobilicová Anna	nezl.,dcéra Jána	0	2325,4072
+2434	Križka Ján		0	4076
+2434	Matúška Mikuláš	Dr.Comáromy	0	2325
+2434	Matúška Peter, Dr.		0	2325
+2434	MESTO LIPTOVSKÝ MIKULÁŠ		0	4079
+2434	Ráztokay Eduard		0	2325
+2434	Ráztokay Emil		0	2325
+2434	Ráztokay Július		0	4062
+2434	Ráztokayová Blažena		0	4062
+2434	Ráztokayová Darina		0	2325
+2434	STANČEKOVÁ Jeanetta r. Kobilicová		0	2325,4072
+2434	Straka František Gregor		0	2325
+2434	Straková Gabriela r. Ráztokayová		0	2325
+2434	Straková Mária	Jurajova dcéra	0	2325
+2434	Španko Rudolf	ž.Mária Dzúrová	0	2325
+2434	Šuna Juraj		0	2325
+2434	Šunová Alžbeta r. Ďurčáková		0	2325
+2435	Anderková Alžbeta		0	1834
+2435	Andrišová Žofia	výmaz mal. v roku 1941	0	182,183,184,841,895,930,1183,1184,1738,1747,1788,2026
+2435	Andušová Anna		0	1834
+2435	Angelovičová Jozefína		0	1089
+2435	Angelovičová Mária		0	1089
+2435	Babjak Matej	manž.Alžbeta r.Jusková	0	1118,1212,1481
+2435	Babjaková Alžbeta	r.Jusková	0	1118,1212,1481
+2435	Balažová Mária		0	1834
+2435	Bašistová Žofia	r.Karnišová	0	495,1305
+2435	Beliš Ján		0	1834
+2435	Benedik Andrej		0	1313
+2435	Benediková Anna	r.Fabianová	0	876,989,994,1178
+2435	Bobková Žofia	r.Šechná	0	1322
+2435	Bujnovská Alžbeta		0	1834
+2435	Bujnovská Mária		0	1834
+2435	Bujnovská Žofia		0	1834
+2435	Bujnovský Andrej		0	1834
+2435	Bujnovský Ján		0	1834
+2435	Bujnovský Jozef		0	1834
+2435	Bujnovský Štefan		0	1834
+2435	Cehelská Anna		0	1680,1681,1946,2084,2086
+2435	Cehelská Anna	r.Hopková	0	417,890,1187,1791
+2435	Cehelská Mária	r.Šadyová	0	1680,1681,1946,2084,2086
+2435	Cicman Andrej	manž.Mária r.Župová	0	823,869,1207
+2435	Cicmanová Mária	r.Župová	0	823,869,1066,1134,1201,1207,1795
+2435	Daňková Mária	r.Gaľková	0	1099,1137,1247,1298,1332,1680,1681,1775,1837,1946,2084,2086
+2435	Demko František	zomrel 16.02.1985	0	1834
+2435	Demko Ján		0	1834
+2435	Demko Ján	ml	0	1834
+2435	Demková Alžbeta		0	1834
+2435	Demková Barbora	r.Kopasová	0	1834
+2435	Demková Helena		0	1834
+2435	Demková Mária		0	1834
+2435	Demková Marta	ml	0	1834
+2435	Demková Oľga		0	1834
+2435	Dobrovičová Helena		0	1279
+2435	Doláková Anna	r.Cehelská	0	1760
+2435	Dorko Ján		0	1834
+2435	Dorková Anna		0	1834
+2435	Dorková Mária	Veľký Šariš	0	1834
+2435	Drobňák Michal		0	1834
+2435	Drobňáková Alžbeta	r.Fabianová	0	1834
+2435	Džačovská Anna	r.Demková,Župčany	0	1834
+2435	Džačovský Andrej	manž.Anna r.Kvašňaková	0	1009,1024,1691,1701,1900,1906,1931
+2435	Džačovský Jozef	manž.Mária r.Galeštoková	0	950
+2435	Eliáš Andrej		0	486,496,841,953,1747,1762,2026
+2435	Eliaš František	výmaz mal. v roku 1947	0	812,841,986,1048,1072,1208,1691,1701,1747,1770,1900,1905,1906,1931,2026
+2435	Eliáš Ján		0	456,457,645,778,831,1035,1037,1039,1041,1042,1072,1292,1296,1534,1699,1703,1736,1767,1771,1933
+2435	Eliaš Michal		0	381,382,384,841,1077,1691,1747,1900,1906,1931,2026,2088
+2435	Fabian Andrej	manž.Mária r.Galeštoková	0	571
+2435	Fabian Ján		0	226
+2435	Fabian Juraj		0	760,1714
+2435	Fabianová Alžbeta		0	248,682,731
+2435	Fabianová Anna	r.Jusková	0	1834
+2435	Fabianová Mária	r.Galeštoková	0	571
+2435	Fabianová Žofia	r.Imrichová	0	841,1747,2026
+2435	Falat Michal	manž.Anna r.Lazorčáková	0	1598
+2435	Falatová Anna	r.Lazorčáková	0	1598
+2435	Falatová Zuzana	r.Galková	0	1099,1245,1332
+2435	Fecko Andrej	manž.Anna r.Galková	0	1755,1870
+2435	Fecko Jozef	odišiel do USA	0	139,994
+2435	Fecková Alžbeta	r.Eliašová	0	486,496,499,500,501,841,1693,1747,1827,2026
+2435	Fecková Verona	mal	0	1755
+2435	Feščák Ján	mal	0	1767
+2435	Feščáková Anna	r.Šoltysová	0	1304
+2435	Feščáková Mária	mal	0	1767
+2435	Feščáková Zuzana		0	841,1747,2026
+2435	Futej Ján	manž.Verona r.Andrišuvová	0	1191
+2435	Gabanová Anna	r.Benediková	0	841,1747,2026
+2435	Gajdoš Andrej		0	683,1018
+2435	Gajdošová Mária	vd	0	1691,1701,1900,1906,1931
+2435	Gal Bartolomej		0	570,1111,1762
+2435	Gal Matej		0	570,1111,1762
+2435	Gala Andrej	ml	0	841,1747,2026
+2435	Gaľa Ján		0	472,1021,1743
+2435	Gala Juraj		0	841,1747,2026
+2435	Gala Michal		0	1249,1680,1681,1946,2084,2086
+2435	Galeštoková Helena	mal	0	1047
+2435	Galeštoková Helena	r.Fabiánová	0	510,765,844,1168,1202,1280
+2435	Galeštoková Mária	r.Budzinkayová	0	513,1168,1202,1280
+2435	Galeštoková Zuzana	r.Gaľová	0	472,1159,1687,1743,1744,2092,2097
+2435	Galištván Ján		0	475
+2435	Galko Michal		0	1298
+2435	Galková Anna		0	1248
+2435	Galková Anna	r.Gaľová	0	1159,1246
+2435	Galková Anna	r.Janigová	0	1137,1247,1775
+2435	Gáll Mikuláš	Ján	0	778
+2435	Gállmikloš Juraj		0	841,1747,2026
+2435	Galová Anna	mal	0	570,1021,1111,1762
+2435	Galová Anna	r.Jacová	0	1249
+2435	Galová Mária	r.Galová	0	841,1747,2026
+2435	Gašparíková Alžbeta	r.Repašská	0	1074
+2435	Gaži Ján		0	1747,2026
+2435	Goldman Henrich	manž.Barbora r.Raselpachtová	0	1060,1177
+2435	Goldmanová Barbora	r.Raselpachtová	0	1060,1177
+2435	Grejtovský Ján		0	1834
+2435	Grunwald Moric		0	1257,1680,1681,1946,2084,2086
+2435	Halkovičová Mária	r.Cehelská	0	1099
+2435	Harčár Konštantín		0	1079
+2435	Hatala Štefan	manž.Mária r.Matejčíková	0	1276
+2435	Hatalová Mária	r.Matejčíková	0	501,813,1276,1827
+2435	Hatalová Mária	Ražňany 105	0	496
+2435	Hluchá Irena r. Spieglová		0	2121
+2435	Hopko Ján	manž.Anna r.Karnišová	0	1217
+2435	Hopková Anna	r.Karnišová	0	1217
+2435	Chovan Štefan	manž.Alžbeta r.Kvašňáková	0	1865
+2435	Chovanová Alžbeta	r.Kvašňáková,manž.Štefan	0	1865
+2435	Jacková Alžbeta	r.Miklošková	0	1834
+2435	Janiga Ján		0	841,1729,1747,2026
+2435	Janigová Anna	r.Rokošná	0	1775
+2435	Juhás Ján		0	486,496,499,500,501,841,1693,1747,1827,2026
+2435	Juhásová Mária	r.Eliášová	0	496
+2435	Jurčák Ján	manž.Mária r.Štofániková	0	1251,1680,1681,1946,2084,2086
+2435	Jurčák Ján	mladší D374/45-4	0	1251
+2435	Jurica Andrej		0	1786,1821
+2435	Jurica Ján	ml., Miškuv	0	1766
+2435	Juricová Helena	Ražňany 105	0	496
+2435	Jurušová Anna		0	1834
+2435	Jurušová Helena	r.Demková	0	1834
+2435	Jusko Andrej		0	241,242,291,292,606,841,1688,1689,1695,1747,1790,1941,2026
+2435	Jusková Anna	r.Benediková,vd	0	629
+2435	Jusková Helena		0	841,1747,2026
+2435	Jusková Helena	r.Pinteková	0	1834
+2435	Jusková Mária	r.Kundová	0	1153,1791
+2435	Jusková Mária	r.Lichvárová	0	1834
+2435	Jusková Verona		0	291,841,1688,1689,1747,1941,2026
+2435	Kačala Imrich		0	1252,1680,1681,1946,2084,2086
+2435	Kačalová Alžbeta	r.Kačalová	0	1252
+2435	Kandrová Anna	r.Kopčiková	0	1079
+2435	Karaffová Anna	r.Pošefková	0	594,841,1307,1723,1747,2026
+2435	Karafová Alžbeta	r.Triščová	0	775
+2435	Karniš František		0	279,306,1282,1701,1803
+2435	Karniš Ján	manž.Anna Karnišová	0	1240
+2435	Karniš Jozef		0	495,1684,1685
+2435	Karniš Juraj		0	888,2154,2155,2156
+2435	Karniš Juraj	mal	0	841,933,1747,2026
+2435	Karniš Štefan	manž.Anna r.Petríková	0	538
+2435	Karnišová Anna	r.Eliašová	0	486,496,499,500,501,841,1693,1747,1827,2026
+2435	Karnišová Anna	r.Karnišová,manž.Ján	0	1240
+2435	Karnišová Anna	r.Karnišová,manž.Juraj	0	841,1026,1094,1218,1301,1747,2009,2026

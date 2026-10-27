@@ -1,0 +1,256 @@
+25	Pravotiak Róbert, SR	Revčík	1	941
+25	Pravotiak Rudolf	Bobáň	1	1296
+25	Pravotiak Rudolf	Slza	1	1330,1630
+25	Pravotiak Štefan		1	1648
+25	Pravotiak Štefan	ml. ml	1	1629
+25	Pravotiak Štefan	Pleten,m.Cecília r.Cibulová	1	1266
+25	Pravotiak Štefan, SR		1	935
+25	Pravotiak Štefan, SR	Pleten,m.Cecília r.Cibulová	1	776,982
+25	Pravotiaková Alžbeta r. Kánová Zlúkyová		1	1247,1629
+25	Pravotiaková Alžbeta r. Kánová Zlúkyová, SR		1	942
+25	Pravotiaková Alžbeta r. Zlúkyová, SR	Hrčka	1	1121
+25	Pravotiaková Alžbeta r. Zlúkyová, SR	m.Štefan	1	942
+25	Pravotiaková Angela r. Haraburdová		1	1648
+25	Pravotiaková Anna		1	1530,1585
+25	Pravotiaková Berta, SR		1	1095
+25	Pravotiaková Cecília r. Cibulová		1	1266,1400,1558,1648
+25	Pravotiaková Cecília r. Cibulová, SR		1	491,742,743
+25	Pravotiaková Dora r. Kánová	Odkuba	1	1398
+25	Pravotiaková Emília r. Medveďová, SR	m.Matúš Prdloš,č.182	0	872,897,1131
+25	Pravotiaková Ilona r. Báboľová	m.Ján	1	1187
+25	Pravotiaková Johana r. Cabanová, SR	vd	1	741
+25	Pravotiaková Mária r. Zlúkyová		1	1247,1629
+25	Pravotiaková r. Cibulová		1	1344
+25	Predajnová Magdaléna r. Maruškinová		1	1673
+25	Pribilincová Alžbeta, SR		1	764
+25	Pribilincová Anna, SR		1	764
+25	Pribilincová Emília r. Škantárová, SR		1	761
+25	Pribilincová Helena r. Šulajová		1	1648
+25	Pribilincová Helena r. Šulajová, SR		1	764
+25	Pribilincová Mária, SR		1	764
+25	Pribilincová Pavlína, SR		1	764
+25	Pribilinec Ján, SR	maloletý	1	764
+25	Pribilinec Jozef, SR		1	764
+25	Pribilinec Štefan, SR	maloletý	1	764
+25	Pribilinec Vincent, SR		1	764
+25	Rakyta Ambróz, SR		1	508
+25	Rakyta František		1	1450,1529
+25	Rakyta František, SR		1	599,600,611,1754
+25	Rakyta František, SR	m.Zuzana r.Piliarová	1	804
+25	Rakyta Imrich, SR	m.Františka r.Jančová	1	1057
+25	Rakyta Ján	m.Agnesa	1	1529
+25	Rakyta Ján, SR	Dvoran	1	506
+25	Rakyta Ján, SR	m.Agnesa r.Švantnerová	1	804
+25	Rakyta Jozef, 976 65, Bacúch, č. 163, SR		1	599,611
+25	Rakyta Jozef, Bacúch, č. 163, SR		1	508,600,1450,1529,1754
+25	Rakyta Jozef, SR	m.Anna	1	508
+25	Rakyta Tomáš, SR		1	506
+25	Rakytová Agnesa r. Kabátová	m.Ján	1	1648
+25	Rakytová Agnesa r. Kabátová, SR	m.Ján	1	584
+25	Rakytová Agnesa r. Švantnerová, SR	m.Ján	1	804
+25	Rakytová Anna r. Ďurčíková, SR	m.Jozef	1	506
+25	Rakytová Emília		1	1326,1327
+25	Rakytová Emília, SR		1	508
+25	Rakytová Kristína r. Haraburdová		1	1545
+25	Rakytová Mária	zom. 31.10.1998	0	1625
+25	Rakytová Mária	zomr.16.1.2002	1	508,1326,1327
+25	Rakytová Zuzana r. Piliarová, SR	m.František	1	804
+25	Rekeň Ján		1	1682
+25	Rolková Anna r. Jagerčíková	m.Michal	1	1678
+25	Röstelová Zuzana	vd.,m.Anton	1	1411
+25	Röstelová Zuzana r. Turošíková	m.Anton	1	1409
+25	Röstelová Zuzana r. Turošíková	vd.,m.Anton	1	1396,1401
+25	Saksová Anna r. Gorduličová		1	1673
+25	Saksová Emília r. Brozmanová		1	1671
+25	Saubertová Adela r. Libičová, SR	m.Jozef	1	479,708
+25	Siman Jozef		1	1690
+25	Simanová Anna	mal	1	1690
+25	Skaloš Jozef	Vreskel	1	1682
+25	Skalošová Anna		1	1658
+25	Śkantárová Margita r. Zajacová, SR		1	760,767,1073
+25	Sokáčová Matilda r. Cibulová Cesnaková, SR		1	675
+25	Srnková Mária		1	1255
+25	Svantnerová Emília r. Haraburdová, SR		1	927
+25	Svetláková Magdaléna r. .Ocelová	m.Ondrej	1	1677,1690
+25	Svetláková Paulína r. Buvalová	m.Michal	1	1659
+25	Sýkorová Barbora r. Orovčíková	m.Jozef	1	1412,1417
+25	Šajgalíková Amália r. Libičová, SR	m.Ján	1	479,708
+25	Šajgalíková Anna r. Fašková		1	1606
+25	Šandorová Paulína r. Mesiarkinová		1	1659
+25	Šibalová Mária r. Cabanová		1	1648
+25	Šibalová Mária r. Cabanová, SR		1	984
+25	Škantár Alfonz		1	1177
+25	Škantár Ján, SR		1	761,855,1149
+25	Škantár Jozef		1	1177,1356
+25	Škantár Jozef	Števul	1	1356,1624
+25	Škantár Jozef, SR	Priadkoš,č.12	1	760
+25	Škantár Jozef, SR	Števul	1	713
+25	Škantár Juraj, SR		1	794
+25	Škantár Klement	Černák,m.Margita r.Zajacová	1	1500
+25	Škantár Klement, SR	maloletý	1	760
+25	Škantár Michal	Bajúz	1	1648
+25	Škantár Michal	Tisko	1	1648
+25	Škantár Michal, SR	Bajúz	1	995
+25	Škantár Rudolf	Krahulec	1	1200,1224
+25	Škantár Vincent, SR	Pikúr,m.Antónia r.Švantnerová,č.193	1	760,761,1140
+25	Škantárová Alžbeta r. Chovancová	m.Rudolf	1	1320
+25	Škantárová Anna r. Haraburdová, SR		1	556
+25	Škantárová Anna r. Švantnerová		1	1223
+25	Škantárová Anna r. Švantnerová, SR		1	584,600,611,1754
+25	Škantárová Antónia r. Cabanová, SR	m.Pavol	1	501
+25	Škantárová Antónia r. Švantnerová, SR		1	760,761
+25	Škantárová Emília		1	1177
+25	Škantárová Emília r. Bubelínyová, SR		1	761
+25	Škantárová Emília r. Medveďová, SR		1	855
+25	Škantárová Emília r. Orovčíková	vd.,z.21.11.1995	1	1346
+25	Škantárová Františka, SR	maloletá	1	855
+25	Škantárová Ilona r. Ďurčíková		1	1395
+25	Škantárová Ilona r. Ďurčíková	m.Pavol	1	1402
+25	Škantárová Júlia r. Kánová	m.František	1	1395,1402
+25	Škantárová Margita r. Zajacová		1	1315,1329,1346
+25	Škantárová Margita r. Zajacová	m.Klement	1	1500
+25	Škantárová Margita r. Zajacová Černáková, SR		1	614
+25	Škantárová Margita r. Zajacová, SR	m.Klement	1	768,861
+25	Škantárová Margita r. Zlúkyová, SR		1	761
+25	Škantárová Mária		1	1565,1578,1728
+25	Škantárová Mária	maloletá	1	1356
+25	Škantárová Mária	Števul	1	1356
+25	Škantárová Mária r. Pikurová, SR		1	760,761
+25	Škantárová Mária, SR	Števul	1	559,1107
+25	Škivra Ján		1	1356
+25	Škubáková Anna	Apoštolová	1	1687
+25	Škyvra Ľubomír, SR		1	799
+25	Šoltésová Ilona r. Chovancová, SR		1	764,765
+25	Šuchaň Jozef	Labaň	1	1652
+25	Šuchaňová Anna r. Piliarová		1	1674
+25	Šuchaňová Magdaléna r. Tokárová		1	1668
+25	Šuchanová Mária r. Kubušová	1	1	1687
+25	Švantner František, SR	zom. 20.01.2000	0	448,725,770,807,847
+25	Švantner Ján	Polónik	1	1648
+25	Švantner Ján, SR	Polónik	1	1024
+25	Švantner Jozef	1	1	1624
+25	Švantner Jozef	3	1	1299,1648
+25	Švantner Jozef	Polónik,m.Andela r.Libičová, zom. 06.08.1989	0	1182
+25	Švantner Jozef, SR	1	1	713,848
+25	Švantner Jozef, SR	2	0	1139
+25	Švantner Jozef, SR	3	1	547,1139,1141
+25	Švantner Jozef, SR	4	1	600,611,1754
+25	Švantner Jozef, SR	maloletý	1	475
+25	Švantner Jozef, SR	Polónik,m.Andela r.Libičová, zom. 06.08.1989	0	551,837,869,1123
+25	Švantner Klement	2	1	1273
+25	Švantner Ľudovít	zom. 20.09.1976	0	1648
+25	Švantner Ľudovít, SR	zom. 20.09.1976	0	547,1141
+25	Švantner Matej		1	1300,1648
+25	Švantner Matej, SR	maloletý	1	1139,1141
+25	Švantner Michal		1	1624
+25	Švantner Michal	Gordán	1	1648
+25	Švantner Michal	Jozef	1	1295
+25	Švantner Michal, SR		1	713,848
+25	Švantner Michal, SR	m.Pavlína	1	1146
+25	Švantner Rudolf	Vrabec	1	1460
+25	Švantner Valent	m.Mária r.Cesnaková	1	1384,1648
+25	Švantner Valent, SR	m.Mária r.Cesnaková	1	924
+25	Švantnerová Agnesa r. Libičová, SR		1	869
+25	Švantnerová Alžbeta		1	1648
+25	Švantnerová Alžbeta r. Zlúkyová, SR	m.František	1	807
+25	Švantnerová Andela r. Libičová, SR		1	551,869
+25	Švantnerová Emília		1	1351
+25	Švantnerová Emília r. Haraburdová		1	1273
+25	Švantnerová Gizela		1	1648
+25	Švantnerová Gizela, SR	maloletá	1	1139,1141
+25	Švantnerová Kristína r. Chovancová	Lajošová	1	559,751,1467
+25	Švantnerová Kristína r. Chovancová, SR	Lajošová	1	897
+25	Švantnerová Margita r. Švantnerová	Vrabcová,m.Jozef,č.51	1	1416
+25	Švantnerová Margita r. Švantnerová, SR	Vrabcová,m.Jozef,č.51	1	600,611,1754
+25	Švantnerová Mária	1	1	1351
+25	Švantnerová Mária	Cesnaková	1	1421
+25	Švantnerová Mária r. Cesnaková	m.Valent 1	1	1384,1648
+25	Švantnerová Mária r. Cesnaková, SR		1	762
+25	Švantnerová Mária r. Cesnaková, SR	m.Valent 1	1	924,1098
+25	Švantnerová Mária r. Cibulová		1	1421
+25	Švantnerová Mária r. Medveďová, SR		1	466,774
+25	Švantnerová Pavlína r. Kánová, SR		1	1146
+25	Švantnerová Pavlína r. Kánová, SR	Odkuba	1	1109
+25	Švantnerová r. Libičová, SR		1	837
+25	Švantnerová Zuzana r. Cabanová		1	1450
+25	Švantnerová Zuzana r. Tepperová	Gordánová, m.Ján	1	1648
+25	Švidraň Michal		1	1687
+25	Švidraň Štefan		1	1678
+25	Švoddraňová Mária r. Lovičová		1	1681
+25	Tajbošová Jana, SR	Brezno-Mazorník	1	723
+25	Teperová Anna		1	725
+25	Teperová Anna, SR		1	919,1031
+25	Tkáčiková Františka		1	1685
+25	Tkáčiková Františka, Polomka, SR		1	1685
+25	Tokár Ján	Apoštol	1	1687
+25	Tokár Jozef, SR		1	859
+25	Tokár Juraj		1	1687
+25	Tokár Michal		1	1681
+25	Tokár Ondrej	Ďurík	1	1684
+25	Tokár Štefan		1	1681
+25	Tokárová Anna r. Buvalová	m.Štefan	1	1659
+25	Tokárová Barbora	1	1	1687
+25	Tokárová Mária r. Cibuľová	vd	1	1040,1287
+25	Tokárová Mária r. Majerčíková		1	1684
+25	Tokárová Zuzana r. Tokárová		1	1681
+25	Tomajka Ján	Krupa	1	1648
+25	Tomajka Jozef, SR	Šovkiniak	1	985
+25	Tomajka Július		1	1175
+25	Tomajka Július, SR		1	623
+25	Tomajka Michal	Bešenda	1	1648
+25	Tomajka Michal, SR		1	838
+25	Tomajka Michal, SR	Bešenda	1	947
+25	Tomajka Pavel	Krupka,m.Andela	1	1377
+25	Tomajka Pavel	m. Angela r.Kánová Odkuba	1	962
+25	Tomajka Pavel, SR	m.Andela r.Kánová Odkuba	1	631
+25	Tomajka Pavol		1	1360,1612,1648
+25	Tomajka Pavol	Bešenda	1	1648
+25	Tomajka Pavol, SR		1	972
+25	Tomajka Vincent, Bacúch, SR	Fír, zom. 01.01.1965	0	1415
+25	Tomajka Vincent, Bacúch, SR	zom. 01.01.1965	0	1456,1497
+25	Tomajka Vojtech		1	1616
+25	Tomajková Angela	maloletá	1	1268,1509,1648
+25	Tomajková Angela r. Cibuľová, SR		1	576,756,794,831,884,1023,1091
+25	Tomajková Angela r. Kánová, SR	Odkuba	1	962
+25	Tomajková Angela, SR	maloletá	1	980
+25	Tomajková Anna r. Chovancová		1	1645
+25	Tomajková Anna r. Chovancová, SR		1	879
+25	Tomajková Elena r. Medveďová, SR		1	919
+25	Tomajková Emília	maloletá	1	1175
+25	Tomajková Emília, SR	maloletá	1	623
+25	Tomajková Júlia r. Bursová	zom. 09.05.1994	0	1442,1443
+25	Tomajková Júlia r. Bursová, SR	zom. 09.05.1994	0	731,750,916
+25	Tomajková Karolína r. Báboľová		1	1662
+25	Tomajková Karolína r. Kánová	Bábol	1	1640,1648
+25	Tomajková Karolína r. Kánová l	Bábol	1	573,1796
+25	Tomajková Karolína r. Kánová, SR	Bábol	1	731,907,1042
+25	Tomajková Mária r. Betková		1	1395,1559
+25	Tomajková Mária r. Čúniková	Bešendová,m.Michal	1	1648
+25	Tomajková Mária r. Čúniková, SR	Bešendová, m.Michal	1	923
+25	Tomajková Mária r. Medveďová	m.Ján	1	725,1262,1319,1382,1483,1520,1641
+25	Tomajková Mária r. Medveďová, SR	m.Ján	1	955,1080,1119,1126
+25	Tomajková Mária r. Piliarová, SR		1	756
+25	Tomajková Mária r. Piliarová, SR	vd	1	756
+25	Trendová Elena r. Libičová		1	1606
+25	Turošík Dominik, SR		1	1011
+25	Turošík Ferdinand	František,m.Kristína r.Chovancová	1	1426
+25	Turošík Ferdinand, SR	František,m.Kristína r.Chovancová	1	908,1081
+25	Turošík František, SR	maloletý	1	506,610,752,753
+25	Turošík Ján		1	659,1648,1824,1826,1827,1829
+25	Turošík Jozef		1	659,1824,1826,1827,1829
+25	Turošík Jozef	Kováč,m.Mária r.Nikelová	1	1648
+25	Turošík Jozef, SR		1	798
+25	Turošík Jozef, SR	2	0	506,752,1055
+25	Turošík Jozef, SR	Kollár	1	959
+25	Turošík Karol		1	1373
+25	Turošík Karol, SR		1	844,908
+25	Turošík Klement, SR	2 2	1	798
+25	Turošík Klement, SR	Nejtov,m.Emília r.Ševčíková,č.53	0	506,610,752,753
+25	Turošík Martin		1	1373
+25	Turošík Martin, SR		1	844,908
+25	Turošík Matej		1	1511
+25	Turošík Nándor, SR		1	844
+25	Turošík Nejt		1	1552
+25	Turošík Neto, SR	m.Eleonóra r.Javorčíková	1	798
+25	Turošík Peter, SR		1	918
+25	Turošíková Angela, SR		1	752,753

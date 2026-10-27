@@ -1,0 +1,256 @@
+1637	Mudroň Jozef		0	653,663
+1637	Mudroň Jozef	nezl	0	636,663
+1637	Mudroň Jozef	vzdialený	0	636
+1637	Mudroň Michal		0	636,653,663
+1637	Mudroň Michal	nezl	0	636,663
+1637	Murín Jozef		0	391
+1637	Murin Michal		0	670
+1637	Murinová Anna r. Kramerová		0	669
+1637	Nedzbalová Mária		0	20
+1637	Olách Andrej		0	649,659
+1637	Olach Michal		0	659
+1637	Olachová Alžbeta r. Valčová		0	269
+1637	Oláchová Anna	muž Ján	0	646
+1637	Olejárová Anna r. Baníková		0	637
+1637	Oľha Ján		0	678
+1637	Oľhová Anna r. Krajniková		0	678
+1637	Ovšaniková Agnesa r. Tkáčová		0	11,60,114,239,326,327,328,444
+1637	Paliková Elena r. Petrová		0	307
+1637	Paľko Jozef		0	672
+1637	Paľko Jozef	malol	0	654
+1637	Paľko Juraj		0	654,672
+1637	Paľko Juraj	malol	0	654
+1637	Paľko Michal		0	672
+1637	Paľko Michal	malol	0	654
+1637	Paľková Alžbeta		0	672
+1637	Paľková Alžbeta	malol	0	654
+1637	Paľková Anna		0	672
+1637	Paľková Anna	malol	0	654
+1637	Paľková Mária		0	654
+1637	Pavliščák Ján	USA	0	633
+1637	Petro - Pavelka Juraj		0	307
+1637	Petro - Pavelková Mária		0	36
+1637	Petro - Pavolková Mária		0	273
+1637	Petro- Pavelková Mária		0	626
+1637	Polák Ján		0	651
+1637	Polák Michal		0	647
+1637	Poláková Anna	malol	0	651
+1637	Poláková Erzebet		0	651
+1637	Poláková Mária r. Šebová		0	644
+1637	Politická obec Majerovce		0	682
+1637	Polyák Gergel		0	646
+1637	Ragan Michal	man.Alžbeta r.Murínová	0	669
+1637	Raganová Alžbeta r. Murínová	muž Michal	0	669
+1637	Rak Michal		0	663
+1637	Rák Michal	nezl	0	636
+1637	Raková Mária		0	663
+1637	Ráková Mária	nezl	0	636
+1637	Romanská Anna r. Petriková	muž Michal	0	614
+1637	Romanský Ján		0	258,259,367
+1637	Romanský Ján	malolety	0	84
+1637	Romansky Michal	manž. Anna r.Petriková	0	614
+1637	Romanský Michal		0	84,258,259
+1637	Rusnak Michal		0	677
+1637	Rusnáková Mária r. Ščorbiková		0	677
+1637	Sabo Jozef	Ragan žena Helena Šimková	0	659,665
+1637	Sabo Michal	ml. Ragan	0	642,659,665
+1637	Sabo Michal	Ragan žena Alžbeta Murinová	0	654
+1637	Samrenová Alžbeta r. Oláchová		0	651
+1637	Samuelné Hergely r. Novaczki		0	648
+1637	Semanová Mária r. Tirpáková		0	268,334
+1637	Slovenská Republika		0	657,672
+1637	Soták Michal		0	664
+1637	Spoločné vlastníctvo k cestám		0	399
+1637	Šeba Juraj		0	657
+1637	Šeba Michal		0	644
+1637	Šebová Mária r. Polaková		0	383
+1637	Šimko Michal		0	310
+1637	Štofko Ján r. Štofko		0	309
+1637	Štofková Mária r. Kozejová		0	311
+1637	Šuščák Ján r. Šuščák		0	274
+1637	Šuščák Štefan r. Šuščák		0	274
+1637	Tatarka Ján		0	317
+1637	TATARKA JURAJ		0	316,676
+1637	Tatarková Anna r. Ištočková		0	676
+1637	Tatarková Mária r. Paliková		0	317
+1637	Tatarková Mária r. Patriková		0	316
+1637	Tej Peter		0	639
+1637	Tejová Mária r. Andrejkovičová		0	658
+1637	Tirpak Ján	manž. Anna r.Raková	0	615
+1637	Tirpák Jozef a Mária Tirpáková r. Dzurišová		0	36,626
+1637	Tirpaková Anna r. Raková	muž Ján	0	615
+1637	Tkáč Ján		0	20,21,33,39,46,273,275,373
+1637	Tkáč Jozef		1	20,21,33,39,46,57,113,275,373
+1637	Tkáč Jozef	-	0	38,55,58,71,211,401,465,516,629
+1637	Tkáč Jozef	mal	0	263
+1637	Tkáč Jozef r. Tkáč		1	56,57,66
+1637	Tkáč Juraj		0	33
+1637	Tkáč Juraj	Malol	0	465
+1637	Tkáč Juraj	ž.Mária r.Valčo	0	516,629
+1637	Tkáč Michal	malol	0	38,55,71,211,401,629
+1637	TKÁČ Michal		1	20,21,33,39,46,55,56,57,66,71,113,263,264,275,373,516
+1637	Tkáč Štefan		0	33,36
+1637	Tkáč Štefan r. Tkáč		0	32,39,41
+1637	Tkačová Alžbeta		1	55,56,57,58,401
+1637	Tkáčová Anna		0	33,39
+1637	Tkáčová Anna	malol	0	38,465
+1637	Tkáčová Anna r. Kopčová		0	20,21,275
+1637	Tkáčová Juliana		0	56
+1637	Tkáčová Mária		1	46,55,57,58,59,66,71,373,401,630
+1637	Tkáčová Mária	mal	0	263
+1637	Tkáčová Mária	maloleta	0	71
+1637	Tkáčová Mária r. Cupríková		0	20,21,275
+1637	Tkáčová Mária r. Gajdošová		0	211
+1637	Tkačová Mária r. Gonosová		1	55,56,57,58,66,401
+1637	Tkáčová Mária r. Hudacká		0	113,275,348
+1637	Tkačová Mária r. Mikulová		0	55,58,401
+1637	Tkáčová Mária r. Valčová		0	33,516
+1637	Tkáčová Mária r. Zeleňáková		0	78,79
+1637	Tomáš - Šuščáková Anna r. Hudacká		0	274
+1637	Tomáš Ján		0	314
+1637	Tomáš Michal		0	312
+1637	Tomášová Anna r. Stanovčáková		0	646,669
+1637	Tomášová Júlia r. Zubková		0	312
+1637	Tomcanyiová Vilma - Paule r. Vladar		0	623
+1637	Tomčanyiová Alžbeta r. Vladarová		0	247,255,257
+1637	Valčo - Janová Anna r. Fabianová		0	130,251,260
+1637	Valčo Ján		0	675
+1637	Valčová Anna r. Baníková		0	675
+1637	Valčová Anna r. Vargovičová		0	393
+1637	Valčová Mária r. Mudroňová		0	636,663
+1637	Valčová Terézia r. Kramerovej		0	669,670
+1637	Varechajová Eva		0	419
+1637	Vargovič Juraj		0	393
+1637	Vaško Ján		0	84,258,259,260
+1637	Vaško Jozef		0	84,258,259,260
+1637	Vašková Anna r. Hricová		0	90,261,699
+1637	Viliam Vaš, Dr.		0	259
+1637	Zeleňák Juraj		0	662,673
+1638	Adamec Emil		0	12732
+1638	Adamec Ján		0	10310
+1638	ADAMEC Šimon		0	4969,12557
+1638	Adamec Tomáš		0	10310
+1638	Adámeková Anna		0	11056,12539
+1638	ADAMÍK KAROL	68	0	9295,10599
+1638	ADAMÍK ŠTEFAN	69	0	9295,10433
+1638	Adámková Mária r. Sojčáková, Komenského 11, 01001 Žilina Komenského 11, 01001 Žilina		0	11276
+1638	Andelová Veronika r. Veselková, nar. 15.02.1909 nar. 15.02.1909		0	12732
+1638	Arvan Jakub		0	12732
+1638	Babiš Ignác		0	11988
+1638	Babiš Ignác r. Babiš		0	13021
+1638	BABIŠ Ján		0	7248,7740,7954,11489
+1638	BABIŠ Jozef		0	7248,7740,10394,11310,12527
+1638	BABIŠ RUDOLF		0	10517
+1638	BABIŠ Vojtech		0	7248,7740,10433
+1638	Babišová Agnesa		0	10592,12505
+1638	BABIŠOVÁ ANNA		0	10433
+1638	BABIŠOVÁ Emília		0	7954,9309,11458
+1638	Babišová Emília r. Labudová		0	10589
+1638	BABIŠOVÁ Eva	ŠARBARÍKOVÁ	0	7740,12574
+1638	BABIŠOVÁ Mária		0	7954,11079
+1638	BABIŠOVÁ Paulína	R.SLÁVIKOVÁ	0	7248,7740
+1638	Babišová Paulína r. Sláviková		0	10394,10433
+1638	BABIŠOVÁ Pavlína	R.BIELIKOVÁ	0	7327,7328
+1638	Babišová Pavlína r. Bieliková		0	10849,12915
+1638	BABIŠOVÁ Verona	R.ŠUSTEKOVÁ	0	7248,7740,7954,9309
+1638	Babišová Verona r. Šusteková		0	10433,11672
+1638	Babišová Veronika r. Matejová		0	12732
+1638	Babková Veronika r. Trebuláková		0	10591
+1638	Bacul Štefan, r.č. 350130/7210 r.č. 350130/7210		0	12732
+1638	Bacul Valentín		0	12732
+1638	Bacula Filip		0	12750
+1638	BACULA IGNÁC		0	9365,11973
+1638	BACULA Jozef		0	7248,7740,9335,9365,12204
+1638	Bacula Marek		0	10588
+1638	Bacula Rudolf	ML. zomrel 27.10.1998; ML	0	9365
+1638	BACULA Rudolf		0	7248,7740,10433,12791
+1638	BACULA Štefan		0	7248,7740,9365,11139,12527
+1638	Baculáková Anna r. Janošecová		0	10074,12017,12732
+1638	BACULOVÁ Anna	R.MIČÍKOVÁ	0	7248,7740,7978,9326,9327,9328,9332,9335,9973
+1638	Baculová Anna r. Mičíková		0	11780,12747
+1638	Baculová Emília r. Bajcárová	zomrela 13.9.2003	0	9365
+1638	BACULOVÁ FRANTIŠKA		0	9365,10306
+1638	Baculová Mária		0	11976
+1638	Baculová Mariana		0	12750
+1638	BACULOVÁ MARIANA	R.LÁTKOVÁ	0	9365
+1638	Baculová Mariana r. Latková		0	12505
+1638	Baculová Štefánia		0	11799
+1638	BACULOVÁ URŠUĽA	R.PRDOVÁ	0	9326,9327,9328,9332,9335,9973
+1638	Baculová Uršula r. Prdová		0	12635
+1638	BAJCÁR MATÚŠ	USA	0	9094,9095,9205
+1638	Bajcár Ondrej		0	9094,9205
+1638	BAJCÁROVÁ ĽUDMILA	USA	0	9094,9095,9205
+1638	Bajciarová Mária r. Kubincová		0	10273,11945
+1638	Bambuch Ondrej		0	12732
+1638	Bambušková Anna r. Odnohová		0	12732
+1638	Banetka Anton		0	12732
+1638	Banetková Lucia r. Zakopčanová		0	12732
+1638	Barčák Ignác		0	12732
+1638	Bárdyová Katarína, Kališná 5, 84107 Bratislava, SR Kališná 5, 84107 Bratislava, SR		0	10288,12732
+1638	Baričák Anton		0	12732
+1638	Baričák Ján	st	0	12732
+1638	Baričák Juraj		0	12732
+1638	BARIČÁK RUDOLF		0	9217,9535,12672
+1638	BARIČÁKOVÁ FRANTIŠKA	R.LOVÁSOVÁ CESNEKOVÁ	0	9217,9535
+1638	Baričáková Františka r. Lovásová Cesneková		0	12672
+1638	Baričáková Johana r. Jašíková		0	12672
+1638	BARIČÁKOVÁ JOHANNA	R.JAŠÍKOVÁ	0	9217,9535
+1638	Baričáková Mária	st	0	12732
+1638	Baričáková Mária r. Salajová, r,č,461227/290 r,č,461227/290		0	12732
+1638	Baričáková Veronika		0	9102,9217,9535,12672
+1638	Baroš František		0	12732
+1638	Barošová Božena		0	12732
+1638	BARTEKOVÁ VERONA		0	9214,12840
+1638	Bavlšíková Anna r. Michalíková		0	12732
+1638	Bebčák Jozef, 73954 Komorní Lhotka 281, ČR 73954 Komorní Lhotka 281, ČR		0	12732
+1638	Beloň František		0	10328
+1638	Beloň Jozef	Holičár	0	11342,12402,12842
+1638	BELOŇ Michal		0	7557,7558,7561,7562,7564,7566,7571,7574,7575,10942
+1638	Beloň Milan	Holičár	0	10888,12635
+1638	Beloň Ondrej	Holičár	0	10888,12635
+1638	BELOŇ Ondrej		0	7372,7373,7374
+1638	Beloň Štefan		0	10952
+1638	Beloň Štefan	Holičár	0	10888,12635
+1638	Beloňová Anna	Kubošná	0	12732
+1638	Beloňová Karolína		0	10338
+1638	Beloňová Mária r. Hazuchová		0	11260
+1638	Beloňová Mária r. Lovásová	Holičárová	0	10259,12050
+1638	Beloňová Mária r. Lovásová Holičárová		0	10276
+1638	Beloňová Verona	Holičárová	0	11815
+1638	BELOŇOVÁ VERONA	R.KORCHÁŇOVÁ	0	9376
+1638	BENCALÍKOVÁ Anna	R.SEKÁČOVÁ	0	4869,4871,9125
+1638	Bencalíková Anna r. Sekáčová		0	10252,11219,12552,12743
+1638	Bereníková Anna r. Kubincová		0	10075
+1638	BERNÁTEKOVÁ Anna	R.MOJÍKOVÁ	0	4910
+1638	Bernáteková Anna r. Mojíková		0	12277
+1638	BERNÁTEKOVÁ Emília		0	4910,12277,12732
+1638	BERNÁTEKOVÁ Štefánia		0	4910,12277,12732
+1638	BERNÁTOVÁ ANNA		0	9106
+1638	BIELČIK JOZEF	105	0	9295,12527
+1638	BIELIK František		0	7327,7328,10849,12915
+1638	BIELIK Pavol		0	7327,7328,10849,12915
+1638	Bieliková Karolína r. Pisaríková		0	12732
+1638	BIELIKOVÁ Mária		0	7327,7328,10849
+1638	Bieliková Mária neznáma		0	12915
+1638	Bilík Jozef		0	12732
+1638	Bilík Jozef	Jurdík	0	12732
+1638	Bilík Ondrej		0	12732
+1638	Bilíková Anna		0	12732
+1638	Bilíková Anna r. Vavricová		0	12732
+1638	Bilíková Katarína		0	12732
+1638	Bilíková Mária r. Škorňová		0	12732
+1638	Bilíková Veronika		0	12732
+1638	Bitala Anton		0	12732
+1638	Bitalová Agnesa r. Pavelková		0	10273
+1638	Bitalová Anna r. Lučanová		0	10234
+1638	Bitalová Mária r. Gregušová		0	12732
+1638	Bittala Dávid		0	11137,12732
+1638	BITTALA František		0	4514,12732,12755
+1638	BITTALA Ján		0	4514,12378,12732
+1638	BITTALA JOZEF		0	9073,10225,11365,12732
+1638	Bittala Ladislav, Gajdošova 46, 70200 Ostrava, ČR Gajdošova 46, 70200 Ostrava, ČR		0	12340,12732
+1638	BITTALA Matúš		0	4514,12732,12755
+1638	Bittala Milan		0	12340,12732
+1638	BITTALA ONDREJ		0	9016,9992,12340,12732
+1638	BITTALA Pavol		0	4514,10707,12732
+1638	Bittala Peter		0	12755

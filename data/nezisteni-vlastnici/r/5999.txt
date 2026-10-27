@@ -1,0 +1,256 @@
+3388	Hujčáková Margita		0	4453
+3388	Chmelová Františka r. Vojtaššáková		0	200,418,419
+3388	Chovančák Ernest r. Chovančák	prot. 158	0	6949,7376
+3388	Chovančák František r. Chovančák	prot. 132, 150, 300	0	6949,7379,7393,7394
+3388	Chovančák Gašpar r. Chovančák	prot. 150	0	6949,7379
+3388	Chovančák Jozef r. Chovančák	prot. 124	0	6949
+3388	Chovančák Juraj r. Chovančák	prot. 150	0	6949,7379
+3388	Chovančák Martin r. Chovančák	prot. 132, 158, 300	0	6949,7376,7393,7394
+3388	Chovančák Vojtech r. Chovančák	zomr. 26.3.1993	0	7376,7393,7394
+3388	Chovančák Vojtech r. Chovančák	zomr.26.3.1993	0	6949
+3388	Chovančáková Anna	prot. 132, 158, 260, 300	0	6949,7376,7393,7394
+3388	Chovančáková Ernestína	prot. 132, 300	0	6949,7393,7394
+3388	Chovančáková Margita	prot. 150	0	6949,7379
+3388	Chovančáková Mária r. Porochnavecová	prot. 150	0	6949,7379
+3388	Chromek Anton r. Chromek	prot. 216, 217	0	6949,7405,7407
+3388	Chromek Cyril r. Chromek	prot. 216, 217 , zom. 01.10.2003	0	6949
+3388	Chromek Cyril r. Chromek	prot. 216, 217 , zomr. 1.10.2003	0	7405,7407
+3388	Chromek Ján r. Chromek	prot. 90, 97, 221, 229, 301	0	6949,7400
+3388	Chromek Juraj r. Chromek	prot. 151, 221, 301	0	6949,7400
+3388	Chromek Martin r. Chromek	prot. 221, 301	0	6949,7400
+3388	Chromek Pavol r. Chromek	prot. 188 ,zomr.8.6.1986	0	6949
+3388	Chromek Sylvester r. Chromek	prot. 90, 97, 224, 229	0	6949
+3388	Chromek Štefan r. Chromek	prot. 216, 217	0	6949,7405,7407
+3388	Chromek Štefan r. Chromek	prot. 221, 301	0	6949,7400
+3388	Chromek Tomáš r. Chromek	prot. 204	0	6949,7424
+3388	Chromek Tomáš r. Chromek	prot. 208, 303	0	6949
+3388	Chromeková Anna	prot. 203, 204	0	6949,7424
+3388	Chromeková Anna	prot. 212	0	6949,7411
+3388	Chromeková Apolonia r. Kolenčíková	prot. 90,97,224,229	0	6949
+3388	Chromeková Jozefína	prot. 212	0	6949,7411
+3388	Chromeková Kristína r. Chudobová	prot. 49	0	6949
+3388	Chromeková Mária	prot. 204	0	6949,7424
+3388	Chromeková Terézia r. Zuziová	prot. 221, 301	0	6949,7400
+3388	Chromková Agneša	prot. 216, 217	0	6949
+3388	Chudiaková Margita r. Serdelová	Novoť 599	0	7347,7354
+3388	Chudoba Bartolomej r. Chudoba	Podstavek, prot. 173, 175	0	6949
+3388	Chudoba Celestín r. Chudoba	prot. 15	0	6949
+3388	Chudoba Daniel r. Chudoba	prot. 50	0	6949
+3388	Chudoba Jakub r. Chudoba	prot. 105	0	6949
+3388	Chudoba Ján r. Chudoba	prot. 163	0	6949
+3388	Chudoba Ján r. Chudoba	prot. 50	0	6949
+3388	Chudoba Jozef r. Chudoba	prot. 157	0	6949
+3388	Chudoba Jozef r. Chudoba	prot. 163	0	6949
+3388	Chudoba Jozef r. Chudoba	prot.129	0	6949
+3388	Chudoba Michal r. Chudoba	prot. 15	0	6949
+3388	Chudoba Michal r. Chudoba	prot. 19	0	6949
+3388	Chudoba Ondrej r. Chudoba	prot. 162	0	6949
+3388	Chudoba Štefan r. Chudoba	Podstavek, prot. 173, 175	0	6949
+3388	Chudoba Štefan r. Chudoba	prot. 155	0	6949
+3388	Chudoba Štefan r. Chudoba	prot. 175	0	6949
+3388	Chudoba Štefan r. Chudoba	prot. 77	0	6949
+3388	Chudoba Štefan r. Chudoba	st., zomr.25.4.1993	0	6949
+3388	Chudoba Virgil r. Chudoba	prot. 163	0	6949
+3388	Chudobová Agneša r. Podstavková	prot. 173, 175	0	6949
+3388	Chudobová Anna	mal. prot. 213	0	6949,7409
+3388	Chudobová Anna	prot. 49	0	6949
+3388	Chudobová Anna r. Brachňáková	prot. 162	0	6949
+3388	Chudobová Anna r. Grofčíková	prot. 211	0	6949,7412
+3388	Chudobová Anna r. Lachová	Laštíková, prot. 4	0	6949
+3388	Chudobová Johana	prot. 147, 163	0	6949
+3388	Chudobová Justína	prot. 193	0	6949
+3388	Chudobová Justína	prot. 213	0	6949,7409
+3388	Chudobová Katarína	prot. 163	0	6949
+3388	Chudobová Ľudmila r. Polečová	prot. 14, 124	0	6949
+3388	Chudobová Magdaléna r. Brňáková	prot. 165	0	6949,7452,7454
+3388	Chudobová Zuzana r. Sumegová	prot. 173	0	6949
+3388	Chudobová Žofia r. Olbertová	prot. 147, 163, 167	0	6949,7450
+3388	Iglár - Bulák Kamil r. Iglár - Bulák		0	806,808,3617
+3388	Iglár Ján r. Iglár		0	2503
+3388	Iglár Ján r. Iglár	prot. 94	0	6949
+3388	Iglár Kamil r. Iglár		0	806
+3388	Iglár Ľudovít Kamil r. Iglár		0	458,808,2037,3617,6961,7482,8088
+3388	Iglar Martin r. Iglar		0	25,227,1042,4644
+3388	Iglár Štefan r. Iglár		0	25,227,1042,2162,2503,4643,4644,5314
+3388	Iglárová Mária r. Laššáková		0	25,1133,2503,4642,4646,8308
+3388	Ignaťáková Helena r. Rončáková	prot. 53	0	6949
+3388	Jaceková Eva	prot. 17	0	6949
+3388	Jaceková Mária	prot. 51	0	6949
+3388	Jakubjaková Jozefa	č 326	0	7354
+3388	Janeta Alojz r. Janeta		0	906,5723
+3388	Janeta Jozef r. Janeta		0	5173
+3388	Janoťák Štefan r. Janoťák		0	4840
+3388	Janoťáková Terezia r. Vajaková		0	906,4146,5723,7823,7824
+3388	Jantolák Alojz r. Jantolák		0	4256,4257
+3388	Jantolák Florian r. Jantolák		0	4256,4257
+3388	Jantolák Jozef r. Jantolák		0	1806,2827,2828,3630,3631,3781,3782,3783,3784,4245,4256,4257,5244,5249,5250,5251
+3388	Jantolák Vendelín r. Jantolák		0	1806,4256,4257
+3388	Jantoláková Jozefína r. Jantoláková		0	1806,2827,2828,3630,3631,3781,3782,3783,3784,4245,4256,4257,5244,5249,5250,5251
+3388	Jantoláková Kristína r. Jantoláková		0	2827,4256,4257
+3388	Jantoláková Terezia		0	789,1522,5303,6278,6611,6637
+3388	Jaroňová Žofia		0	1109
+3388	Joňáková Jana		0	7347,7354
+3388	Jurašeková Katarína r. Tereštíková	prot. 82	0	6949
+3388	Jurovjaková Žofia r. Florková		0	789,5304,6278
+3388	Kačerová Anna r. Kurčinová	prot. 24	0	6949
+3388	Kapičák Jozef r. Kapičák	prot. 65 , zom. 17.01.2008	0	6949
+3388	Kapičák Martin r. Kapičák		0	6949
+3388	Kapičák Pavol r. Kapičák	prot. 87	0	6949
+3388	Kapičáková Františka r. Murínová	prot. 23, 24, 25	0	6949
+3388	Kapičáková Katarína	nezn. prot. 65	0	6949
+3388	Kapičáková Zuzana	prot. 65	0	6949
+3388	Kapičáková Žofia r. Opartyová	prot. 65	0	6949
+3388	Kasaková Margita r. Kocúrová		0	4706
+3388	Katrenčík Ján r. Katrenčík	prot. 138, 292	0	6949
+3388	Katrenčík Štefan r. Katrenčík	prot. 139	0	6949
+3388	Katrenčík Vojtech r. Katrenčík	prot. 292	0	6949
+3388	Katrenčíková Anna	prot. 138, 139	0	6949
+3388	Katrenčíková Apolonia	prot. 29	0	6949
+3388	Katrenčíková Katarína	prot. 138, 292	0	6949
+3388	Katrincová Margita r. Paľáková	prot. 103	0	6949
+3388	Kaukičová Žofia r. Mravčáková		0	4881
+3388	Kiška Ján r. Kiška		0	5383
+3388	Kišková Rozália r. Hujčáková		0	5383
+3388	Klimčík Daniel r. Klimčík		0	4738
+3388	Klimčík Martin r. Klimčík		0	4684,6491
+3388	Klimčík Ondrej		0	752
+3388	Klimčík Serafín r. Klimčík		0	4706
+3388	Klimčík Štefan r. Klimčík		0	4706
+3388	Klimčík Viktor r. Klimčík		0	4706
+3388	Klimčíková Mária r. Kurňavková		0	4721
+3388	Klinovská Kristína	zomr. 15.1.1998	0	7398
+3388	Klinovská Kristína	zomr.15.1.1998	0	6949
+3388	Kľuska Abel r. Kľuska	prot. 105	0	6949
+3388	Kľuska Štefan r. Kľuska	prot. 227	0	6949
+3388	Kľusková Anna	prot. 105, 227	0	6949
+3388	Kľusková Katarína	prot. 105, 227	0	6949
+3388	Kľusková Mária r. Laštíková	prot. 7	0	6949
+3388	Knapčík Ján r. Knapčík		0	2466,5370,5371
+3388	Knapčík Jozef r. Knapčík		0	2466,5370
+3388	Knapčík Ondrej r. Knapčík		0	5370
+3388	Knapčíková Mária r. Lašicová		0	2323,2324,2325,6290
+3388	Knapová Valéria r. Kojdová	prot. 48	0	6949
+3388	Kocúr Vendelín r. Kocúr		0	79,446,2320,2321,2322,6012,6964
+3388	Kocúrová Otília		0	716,6873,8253
+3388	Kojda Anton r. Kojda	prot. 36, 48, 218, 216 , zomr. 17.4.1955	0	7405,7407,7408
+3388	Kojda Anton r. Kojda	prot. 36, 48, 218, 216 , zomr.17.4.1955	0	6949
+3388	Kojda Anton r. Kojda	st. prot. 37, 38, 39	0	6949
+3388	Kojda Augustín r. Kojda	prot. č. 48	0	6949
+3388	Kojda Ján r. Kojda	prot. 215, 216	0	7405,7407,7408
+3388	Kojda Ján r. Kojda	prot. 37	0	6949
+3388	Kojda Ján r. Kojda	prot. 37, 38, 39, 244, 266	0	6949
+3388	Kojda Ján r. Kojda	prot.č. 215, 216	0	6949
+3388	Kojda Jozef r. Kojda	prot. 215, 216	0	6949,7405,7407,7408
+3388	Kojda Jozef r. Kojda	prot. 37, 38, 39 zomr.7.7.1976	0	6949
+3388	Kojda Justín r. Kojda	prot. 215, 216	0	6949,7405,7407,7408
+3388	Kojda Ľudovít r. Kojda	prot. 215, 216	0	6949,7405,7407,7408
+3388	Kojda Marián r. Kojda	prot. 108	0	6949
+3388	Kojda Milan r. Kojda	prot. 37, 38, 39, 40, 110, 215, 216	0	6949,7405,7407,7408
+3388	Kojda Štefan r. Kojda	ml. prot. 37,38,39,40,108,110,291	0	6949
+3388	Kojda Štefan r. Kojda	st. prot. 38	0	6949
+3388	Kojdjak Vladimír r. Kojdjak	zomr. 17.11.2009	0	6949
+3388	Kojdjáková Terezia r. Kondelová		0	2268,4502
+3388	Kojdová Anna	mal. prot. 215, 216	0	6949,7405,7407,7408
+3388	Kojdová Anna	mal. prot. 37, 38, 39	0	6949
+3388	Kojdová Anna	mal. prot. 37,38,39,40,108,110	0	6949
+3388	Kojdová Anna	mal. prot. 71, 244, 266	0	6949
+3388	Kojdová Anna	maloletá prot. 37, 38, 39	0	6949
+3388	Kojdová Blažena r. Brňáková	prot. 37 , zomr.27.1.1994	0	6949
+3388	Kojdová Gizela r. Brachňáková	prot.36 , zomr.8.6. 1990	0	6949
+3388	Kojdová Jozefina r. Murínová	prot. 37, 38	0	6949
+3388	Kojdová Judita	prot. 37, 38, 39	0	6949
+3388	Kojdová Katarína	prot. 37, 38, 39	0	6949
+3388	Kojdová Kristína r. Svičáková	prot. 101, 103	0	6949
+3388	Kojdová Magdaléna	prot. 37, 38, 39	0	6949
+3388	Kojdová Mária	prot. 71, 244, 266	0	6949
+3388	Kojdová Mária r. Brišová	prot. 40	0	6949
+3388	Kojdová Mária r. Kolenčíková	prot. 291	0	6949
+3388	Kojdová Mária r. Lukašáková	prot. 39	0	6949
+3388	Kojdová Terézia	prot. 101	0	6949
+3388	Kojdová Terézia	prot. 37, 38, 39, 40, 108, 110	0	6949
+3388	Kojdová Žofia r. Holubčíková	prot. 209	0	6949,7404,7415
+3388	Kokošková Hortenzia r. Ladňáková	prot. 138, 292	0	6949
+3388	Koleň František r. Koleň		0	3689,5264,7645,7647,7648,8963
+3388	Koleň Jozef r. Koleň		0	3689,5264,7645,7647,7648,8963
+3388	Koleň Valentín r. Koleň	prot. 77	0	6949
+3388	Kolenčík Cyril r. Kolenčík	prot. 32	0	6949
+3388	Kolenčík Ernestín r. Kolenčík	prot. 43 , zomr.18.8.1979	0	6949
+3388	Kolenčík František r. Kolenčík	st. prot. 32	0	6949
+3388	Kolenčík Jakub r. Kolenčík	prot. 22 , zomr.1.6.1932	0	6949
+3388	Kolenčík Ján r. Kolenčík	prot. 196, 215	0	6949,7408
+3388	Kolenčík Ján r. Kolenčík	st. prot. 213	0	6949,7409
+3388	Kolenčík Jozef r. Kolenčík	najst. prot. 197	0	6949,7429
+3388	Kolenčík Jozef r. Kolenčík	Rabčaník, prot. 42	0	6949
+3388	Kolenčík Karol r. Kolenčík	prot. 32	0	6949
+3388	Kolenčík Martin r. Kolenčík	prot. 196, 255 , zomr. 11.1.1968	0	6949
+3388	Kolenčík Michal r. Kolenčík	prot. 140, 148	0	6949,7383
+3388	Kolenčík Milan r. Kolenčík	prot. 32	0	6949
+3388	Kolenčík Silvesterr r. Kolenčík	prot. 227	0	6949
+3388	Kolenčík Štefan r. Kolenčík		0	6949
+3388	Kolenčíková Anna	ml. prot. 140, 148, 213	0	6949,7383,7409
+3388	Kolenčíková Anna r. Brňáková	prot. 196, 255	0	6949
+3388	Kolenčíková Františka	prot. 196	0	6949
+3388	Kolenčíková Helena r. Laššáková	prot. 213, 218	0	6949,7403,7409
+3388	Kolenčíková Jolana	prot. 140, 148	0	6949,7383
+3388	Kolenčíková Juliana r. Laššáková		0	4084,6550,6630,7024,7734,7975,8520
+3388	Kolenčíková Juliana r. Laššáková	prot. 218	0	6949,7403
+3388	Kolenčíková Karolína	prot. 196, 255	0	6949
+3388	Kolenčíková Katarína r. Murínová	prot.26,52 zomr.15.8.1976	0	6949
+3388	Kolenčíková Klotilda r. Murínová	prot. 191	0	6949
+3388	Kolenčíková Ľudmila	prot. 42, 227	0	6949
+3388	Kolenčíková Margita	prot. 27	0	6949
+3388	Kolenčíková Mária	prot. 213	0	6949,7409
+3388	Kolenčíková Mária r. Dendisová	prot. 72	0	6949
+3388	Kolenčíková Mária r. Ratková	prot. 40	0	6949
+3388	Kolenčíková Terézia r. Murinová	prot. 184	0	6949
+3388	Kolenčíková Zuzana r. Brňáková	prot. 196	0	6949
+3388	Koleňová - Kovaľová Helena r. Polťáková		0	4914
+3388	Koleňová Katarína	prot. 77	0	6949
+3388	Koleňová Mária r. Buckulčíková		0	3608
+3388	Koleňová Otília r. Klemensová		0	446
+3388	Koleňová Terezia r. Vajaková		0	32
+3388	Kondela Anton r. Kondela		0	2268
+3388	Kondela Peter r. Kondela		0	2990,2991,4504,7458
+3388	Kondela Štefan r. Kondela		0	466,471,2268,5277,6922,8841
+3388	Kondelová Kristina		0	1602,2268,3660,3661,4252,6923
+3388	Kondelová Mária r. Štepaňáková		0	2991,5440
+3388	Konkalová Žófia r. GROFČÍKOVÁ		0	906,4142,4146,5173,5364,5723,6361,6790,7823,7824
+3388	Konkol Štefan r. Konkol		0	4861
+3388	Konkolová Žofia r. Grofčíková		0	5256
+3388	Koriťák Jozef r. Koriťák	Srogončík, prot. 55	0	6949
+3388	Kováčová Terezia r. Laššáková		0	4084,6550,6630,7024,7734,7975,8520
+3388	Kováčová Terézia r. Laššáková	prot. 218	0	6949,7403
+3388	Koval - Koleň Vendelín r. Koval - Koleň		0	72,789,5205,6278
+3388	Kovaľ Daniel r. Kovaľ		0	4914
+3388	Kovaľ Emil r. Kovaľ		0	4914
+3388	Kovaľ Jozef r. Kovaľ		0	4914
+3388	Kovaľ-koleň Emil r. Kovaľ-koleň		0	5217
+3388	Kovaľová Apolonia		0	4914
+3388	Kovaľová Emilia r. Kondelová - Štepaňáková		0	5440
+3388	Kováľová Juliana r. Kováľová		0	5303
+3388	Kovaľová Maria		0	4914
+3388	Kovalová Mária r. Kondelová		0	466,471,2268,5277,6922,8841
+3388	Kozák Milan r. Kozák		0	298
+3388	Krcheňová Jozefína		0	3714
+3388	Krivulčík Ivan r. Krivulčík	prot. 258	0	6949
+3388	Krivulčík Ján r. Krivulčík	prot. 258	0	6949
+3388	Krivulčík Pavol r. Krivulčík	prot. 209	0	6949,7404,7415
+3388	Krivulčíková Kristína	prot. 258	0	6949
+3388	Krnáčová Mária r. Brišová		0	188,189,191,193,195,3379,4097,4099,6095,6096,6228,6881,7196,7370,7371,7372,8312,8467,8468,8469,8470,8478,8479,8480,8848
+3388	Krupiasz Adam r. Krupiasz	prot. 29	0	6949
+3388	Kubacková Helena r. Boškaj		0	5274,5277
+3388	Kubačková Juliana r. Kubačková		0	397,4126,5274,5275,5277,7774
+3388	Kubačková Kristína r. Kubačková		0	5274,5277
+3388	Kubiznová Kristina r. Mravčáková		0	114,1096,4854
+3388	Kučina Jakub r. Kučina	prot. 5, 13	0	6949
+3388	Kuchťák Ondrej r. Kuchťák		0	402,5869
+3388	Kuracinová Paulina r. Mihaliaková		0	156,157,1927,1928,3462,4094,5385,5386,6353,7809,7986,8341
+3388	Kurčák Martin r. Kurčák	prot. 73	0	6949
+3388	Kurčina Anton r. Kurčina	prot. 4, 5, 13, 24, 249	0	6949
+3388	Kurčina František r. Kurčina	prot. 24	0	6949
+3388	Kurčina Ignác r. Kurčina	prot. 5, 13, 19, 249	0	6949
+3388	Kurčina Jakub r. Kurčina	prot. 13, 19, 249	0	6949
+3388	Kurčina Ján r. Kurčina	prot. 24	0	6949
+3388	Kurčina Jozef r. Kurčina	nezn.bydl. prot. 18	0	6949
+3388	Kurčina Jozef r. Kurčina	prot.4,5,13,19,24 , zomr.26.11.1989	0	6949
+3388	Kurčina Štefan r. Kurčina	prot. 18, 24	0	6949

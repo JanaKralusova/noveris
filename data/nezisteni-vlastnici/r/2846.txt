@@ -1,0 +1,256 @@
+1594	Tisza Jozef		1	344,384,394,492
+1594	Tisza Ľudovit		1	47,161,242,243,480,481,490,499
+1594	Tisza Michal		1	242,273,455,490,499
+1594	Tisza Michal	mal., Joško	1	47,161,243,322,342,344,394,480,481,492
+1594	Tisza Ondrej		1	242,273,455,490,499
+1594	Tisza Ondrej	mal., Joško	1	47,161,243,322,342,344,394,480,481,492
+1594	Tisza Štefan		1	47,344,384,394,480,481,492
+1594	Tiszová Helena		1	215,240,320,322,342,344,353,354,368,394,436,492
+1594	Tiszová Helena	rod.Kuchtová,manž.Ludovit	1	344,394,492
+1594	Tiszová Júlia		1	344,384,394,492
+1594	Tiszová Mária		1	242,273,344,384,394,455,490,492,499
+1594	Tiszová Mária	mal., Joško	1	47,161,243,322,342,344,394,480,481,492
+1594	Tomi Jozef		1	236
+1594	Tóth Alexander		1	344,388,394,492
+1594	Tóth Ján		1	344,394,492
+1594	Tóth Jozef		1	344,388,394,492
+1594	Tóth Július		1	344,388,394,492
+1594	Tóth Ludovit		1	388
+1594	Tóth Ľudovít	z Jablonova	1	344,394,492
+1594	Tóthová Barbora r. Kovácsová		1	344,388,394,492
+1594	Tóthová Klára		1	430
+1594	Tóthová Zuzana		1	54
+1594	Vaňo Ján		1	387
+1594	Vaňová Anna		1	242,387,490,499
+1594	Vaňová Anna	mal	1	47,161,243,480,481
+1594	Vaňová Helena		1	242,387,490,499
+1594	Vaňová Helena	mal	1	47,161,243,480,481
+1594	Vanyo František		1	242,371,490,499
+1594	Vanyo František	mal	1	47,161,242,243,344,394,480,481,490,492,499
+1594	Vanyo František	žena Mária Némethová	1	47,161,242,243,344,394,480,481,490,492,499
+1594	Vanyo Ján		1	297,322,332,333,342,344,394,454,464,465,492
+1594	Vanyo Ján	mal	1	47,161,242,243,344,394,480,481,490,492,499
+1594	Vanyo Ján	manž. Zuzana rod.Kerekesová	1	322,342,344,394,492
+1594	Vanyo Jozef		1	47,161,242,243,371,480,481,490,499
+1594	Vanyo Jozef	mal	1	47,161,243,344,394,480,481,492
+1594	Vanyo Ondrej		1	47,161,242,243,371,480,481,490,499
+1594	Vanyo Ondrej	mal	1	344,394,492
+1594	Vanyová Alžbeta		1	344,394,492
+1594	Vanyová Anna	mal	1	47,161,242,243,480,481,490,499
+1594	Vanyová Barbora	zom.04.03.1970, rod.Tiszová manž.Ján	0	394
+1594	Vanyová Irena		1	371
+1594	Vanyová Irena	mal	1	344,394,492
+1594	Vanyová Mária		1	47,161,242,243,371,480,481,490,499
+1594	Vanyová Mária	mal	1	47,161,243,344,394,480,481,492
+1594	Vargová Mária r. Sirotňáková		1	372
+1595	Bývalí úrbárnici Obce Lúčka		0	204
+1595	Franko Valentín r. Franko		0	15
+1595	Franko Valentín r. Franko	manželka Zuzana r. Tatarková	0	201
+1595	Franková Zuzana r. Tatarková		0	15
+1595	Franková Zuzana r. Tatarková	manžel Valentín	0	201
+1595	Hutira Ján r. Hutira		0	183,184
+1595	Chrašč Pavel r. Chrašč		0	207
+1595	Jednotné roľnícke družstvo Pokrok	Spišské Podhradie	0	183,184
+1595	Kočanová Žofia r. Salanciová		0	207
+1595	Kolárska Mária r. Krigovská		0	110
+1595	Kolársky Štefan r. Kolársky		0	110
+1595	Obec Lúčka, Lúčka, SR		0	183
+1595	Paraňová Veronika r. Slebodníková		0	207
+1595	Salanci Ján r. Salanci	zomrel 21.3.1989, manželka Helena Salanciová	0	207
+1595	Salanci Jozef r. Salanci	zomrel 17.4.1982	0	207
+1595	Salanci Štefan r. Salanci	zomrel 17.12.1980	0	207
+1595	Slebodník Pavel r. Slebodník	syn Štefana, zomrel 7.3.1995	0	207
+1595	Tatarko Ján r. Tatarko		0	183,184
+1595	Vrábel Michal r. Vrábel		0	19,22
+1596	ALMAN Ján	r.Alman ž.Majerová Emília z.17.10.1969; ž.Majerová Emília z.17.10.1969	0	2015
+1596	ALMAN Ján	r.Alman ž.Vilma Mišíková z.24.07.2000; ž.Vilma Mišíková z.24.07.2000	0	1957
+1596	ARGALÁŠ Adolf	r.Argaláš brat Adely; brat Adely	0	2298
+1596	ARGALÁŠOVÁ Anna	r.Fehérpatakyová ž.Bartolomeja; ž.Bartolomeja	0	2298
+1596	ARGALÁŠOVÁ Antónia	r.Argalášová sestra Rudolfa a Jozefa; sestra Rudolfa a Jozefa	0	2298
+1596	ARGALÁŠOVÁ Vilma	r.Pechová predtým vyd.Mrvová z.5.3.1970; predtým vyd.Mrvová z.5.3.1970	0	955,956,1054,1490,1491
+1596	BABJAKOVÁ Anna	r.Kolmanová	0	955,956,957,1054,1490,1491,2010,2274,2300
+1596	BAĎO Cyril	r.Baďo z.2.1.1987; z.2.1.1987	0	1292
+1596	BAĎO Daniel	r.Baďo st.ž.Rumana Senková z.21.11.1967; st.ž.Rumana Senková z.21.11.1967	0	955,956,957,1014,1054,1490,1491,2010,2450
+1596	BAĎO Ferdinand	r.Baďo	0	2055
+1596	BAĎO Ján	r.Baďo ž.Helena Saganová z.26.6.2003; ž.Helena Saganová z.26.6.2003	0	955,956,957,1054,1490,1491,1569,2010
+1596	BAĎO Karol	r.Baďo mal.ded.po Dominikovi; mal.ded.po Dominikovi	0	1970
+1596	BAĎO Metod	r.Baďo ž.Margita Krakovská; ž.Margita Krakovská	0	955,956,957,1054,1330,1490,1491,1903,2010,2997,3128
+1596	BAĎO Ondrej	r.Baďo ž.Katarína Pažítková; ž.Katarína Pažítková	0	1943,1948,2082,2083,2091
+1596	BAĎO Silvester	r.Baďo manž.Agneša r.Smolková zom.v USA; manž.Agneša r.Smolková zom.v USA	0	2526
+1596	BAĎO Vladimír	r.Baďo mal.; mal	0	2212
+1596	BAĎOVÁ Agneša	r.Smolková zom.v USA; zom.v USA	0	955,956,957,1054,1336,1490,1491,1497,2010,2526,2798,2982,3070,3245
+1596	BAĎOVÁ Blandína	r.Murínová z.7.11.1973; z.7.11.1973	0	2010
+1596	BAĎOVÁ Božena	r.Kršková z.24.1.1978; z.24.1.1978	0	2010,2652,3037
+1596	BAĎOVÁ Helena	mal	0	2212
+1596	BAĎOVÁ Jozefína	r.Horváthová z.13.2.1989; z.13.2.1989	0	955,956,957,1054,1490,1491,2010,2408
+1596	BAĎOVÁ Rumana	r.Senková z.4.1.1943; z.4.1.1943	0	955,956,957,1054,1490,1491,2010,2450
+1596	BAĎOVÁ Štefánia	r.Salvová zom.; zom	0	2001
+1596	BALÁŽ Jozef	r.Baláž	0	1301,2801,2802
+1596	BALÁŽ Jozef	r.Baláž mal.; mal	0	1301,2801,2802
+1596	BALÁŽOVÁ Anna		0	1301,2801,2802
+1596	BALKO Antonín	r.Balko brat Petra; brat Petra	0	2298
+1596	BALKO Eduard	r.Balko syn Johany; syn Johany	0	2298
+1596	BALKO Matúš	r.Balko syn Mateja; syn Mateja	0	2298
+1596	BALKOVÁ Mária	r.Balková	0	2298
+1596	BEDEOVÁ Emília	r.Šišková z.15.5.1978; z.15.5.1978	0	2010
+1596	BLAŠKO Pavol	mal.ded.po Kataríne r.Brčíkovej Mrázovej	0	955,956,957,1054,1490,1491,1955,2056
+1596	BLAŠKOVÁ Anna	r.Kováčiková z.11.3.1997; z.11.3.1997	0	2203
+1596	BOBČEK Jozef	ž.Bernardína Kršková z.25.5.1971	0	2010,2094
+1596	BOBČEK Laurinc	Bori, ž.Šimunová Agneša z.25.5.1942	0	1975
+1596	BOBČEK Laurinc	Buori	0	1336,2798
+1596	BOBČEK Laurinc	r.Bobček mal.; mal	0	2030
+1596	BOBČEK Laurinc	r.Bobček ž.Brigita Drusková z.29.5.1961; ž.Brigita Drusková z.29.5.1961	0	1336,2785,2786,2798
+1596	BOBČEK Silvester	r.Bobček z.7.5.1957; z.7.5.1957	0	2010
+1596	BOBČEK Štefan	r.Bobček ž.Lýdia Sliačanová z.3.10.1995; ž.Lýdia Sliačanová z.3.10.1995	0	2151
+1596	BOBČEK Vincent	r.Bobček	0	1336,2798
+1596	BOBČEK Vincent	r.Bobček ž.Mária Baďová z.4.2.1981; ž.Mária Baďová z.4.2.1981	0	2057,2193
+1596	BOBČEKOVÁ Agneša	r.Šimunová	0	1975
+1596	BOBČEKOVÁ Helena r. Michalová-Mrvovka	z.6.3.1987; z.6.3.1987	0	2010
+1596	BOBČEKOVÁ Mária	r.Baďová m.Vincent z.11.10.1991; m.Vincent z.11.10.1991	0	2193
+1596	BOBČEKOVÁ Zlatica		0	1973
+1596	BOBKA Anton	r.Bobka ž.Johana Murínová z.23.7.1974; ž.Johana Murínová z.23.7.1974	0	2010,2366,3053
+1596	BOBKA Mikuláš	r.Bobka ž.Baranová Mária; ž.Baranová Mária	0	819,955,956,957,1054,1490,1491,1983,2010,3129
+1596	BOBKA Vladimír	r.Bobka z.17.01.2004; z.17.01.2004	0	2693
+1596	BOBKA Vojtech	r.Bobka ž.Vrzgulová Marcela z.11.10.1978; ž.Vrzgulová Marcela z.11.10.1978	0	2010
+1596	BOBKOVÁ Johana	r.Murínová m.Anton z.17.11.1990; m.Anton z.17.11.1990	0	2366,3053
+1596	BOBKOVÁ Justína	r.Bobková z.8.10.1985; z.8.10.1985	0	1054,1490
+1596	BODNÁR Ernest	r.Bodnár	0	2286
+1596	BÔRY Tomáš	r.Bôry z.12.10.1976; z.12.10.1976	0	1336,2010,2791,2798
+1596	BÔRYOVÁ Irena	z.27.6.1975	0	2010
+1596	Brčík Medard	Mráz	1	1788
+1596	BRČÍK Medard	Mráz v USA	0	955,956,957,1054,1490,1491,1798,1867,1955,2010,2056,2826
+1596	BRČÍKOVÁ Amália	r.Bursová z.09.08.2001; z.09.08.2001	0	955,956,957,1054,1490,1491,1955,2010
+1596	BRČÍKOVÁ Irena	r.Fullová-Duchovný z.30.7.1990; z.30.7.1990	0	955,956,957,1054,1336,1490,1491,1955,2010,2056,2798
+1596	BRČÍKOVÁ Jozefína	r.Drusková v USA; v USA	0	955,956,957,1054,1336,1490,1491,1863,2010,2798
+1596	BUBALOVÁ Ernestína	r.Trnovská	0	2298
+1596	BUDÍNSKÁ Helena	r.Salvová	0	955,956,957,1054,1320,1490,1491,1989,2273,2659,2899
+1596	BUKOVINSKÁ Emília	r.Dobáková	0	1914
+1596	BUKOVINSKÝ Peter	r.Bukovinský ž.Emília r. Dobáková; ž.Emília r. Dobáková	0	1914
+1596	BUORYOVÁ Agneša	r.Šimunová	0	1336,2783,2790,2798
+1596	BURLASOVÁ Mária	r.Kolmanová	0	955,956,957,1054,1490,1491,2010,2274,2300
+1596	BURSA Ambróz	r.Bursa z. v USA; z. v USA	0	956,957,1054,1336,1490,1491,1502,2010,2798,3260
+1596	BURSA Anton	r.Bursa ž.Anna Samborová z.10.1.1990; ž.Anna Samborová z.10.1.1990	0	955,956,957,1054,1490,1491
+1596	BURSA Dominik	r.Bursa	0	955,956,957,1054,1349,1490,1491,1958,2010,2062,2494,2619
+1596	BURSA Ján	Huculiak ž.Hedviga Hajasová z.23.4.1958	0	956,957,1054,1490,1491,2010,2662
+1596	BURSA Ján	Uhor ml.ž.Elena Šavrnochová z.29.11.2001	0	2010,2590,2895
+1596	BURSA Kamil	r.Bursa	0	1336,2790,2798
+1596	BURSA Kamil	r.Bursa ž.Brčíková Agneša; ž.Brčíková Agneša	0	955,956,957,1054,1349,1490,1491,1958,2010,2062,2494,2619
+1596	BURSA Metod	r.Bursa Kováč z.18.9.1967; Kováč z.18.9.1967	0	955,956,957,1054,1209,1301,1490,1491,2010
+1596	BURSA Stanislav	r.Bursa ž.Helena Pavelková z.27.3.1969; ž.Helena Pavelková z.27.3.1969	0	2010
+1596	BURSA Vincent	r.Bursa z.16.03.1984; z.16.03.1984	0	1336,2010,2798
+1596	BURSA Vladimír	r.Bursa z.07.03.2009; z.07.03.2009	0	2010
+1596	BURSOVÁ Emília	mal.ded.po Hedvige r. Hajasovej	0	955,956,957,1054,1490,1491,2010,2661
+1596	BURSOVÁ Helena	r.Pavelková	0	955,956,957,1054,1490,1491,2010,2384,2696
+1596	BURSOVÁ Katarína	r.Murínová	0	520,2017,2018
+1596	Bursová Katarína r. Murínová		0	767,2843
+1596	BURSOVÁ Margita	zom.2.4.1979 sestra Jána, Johany, Ireny	0	2010
+1596	BURSOVÁ Mária	r.Pažítková z.2.8.1969; z.2.8.1969	0	2010
+1596	BURSOVÁ Zuzana	mal.ded.po Hedvige r.Hajasovej	0	955,956,957,1054,1490,1491,2010,2661
+1596	BURSOVÁ Žofia	r.Drusková	0	2010,2075
+1596	BUZÁK Anton	r.Buzák ž.Štefánia Švárna z.11.8.1985; ž.Štefánia Švárna z.11.8.1985	0	1054,1490,2010
+1596	BUZÁK Bernát	r.Buzák ž.Agneša Saláková; ž.Agneša Saláková	0	801,2209
+1596	BUZÁK Damas	r.Buzák z.15.1.1999; z.15.1.1999	0	955,956,957,1054,1490,1491,2010
+1596	Buzák Ignác r. Buzák	súr. Irena, Agneša, Bernát, Tomáš, Magita, Peter	0	2209
+1596	Buzák Ignác r. Buzák	súr. Irena, Agneša, Bernát, Tomáš, Margita, Peter	0	801
+1596	BUZÁK Jozef	r.Buzák ded.po Jozefovi inžinierovi; ded.po Jozefovi inžinierovi	0	955,956,957,1054,1234,1490,1491,1562,2010,2206,3146,3147
+1596	BUZÁK Laurinc	ded.po Jozefovi inžinierovi z.9.10.1981	0	955,956,957,1054,1234,1490,1491,1562,2010,2206,3146,3147
+1596	BUZÁK Metod	r.Buzák ded.po Zuzane r.Šavrnochovej; ded.po Zuzane r.Šavrnochovej	0	955,956,957,1054,1490,1491,1907,1950,3196
+1596	BUZÁK Metod	r.Buzák mal.inžinier; mal.inžinier	0	955,956,957,1054,1234,1490,1491,1562,2010,3146,3147
+1596	BUZÁK Metod	r.Buzák z.14.10.1971; z.14.10.1971	0	2401
+1596	BUZÁK Metod	Salák	0	1954
+1596	BUZÁK Tomáš	brat Ireny, Agneši, Bernáta, Margity	0	2010,2074
+1596	BUZÁKOVÁ Bernardína	r.Buzáková slob.z.25.5.1963; slob.z.25.5.1963	0	2010,2561
+1596	BUZÁKOVÁ Emília	sestra Anny	0	2010
+1596	BUZÁKOVÁ Jozefína	r.Sekanová z.3.10.1968; z.3.10.1968	0	2010
+1596	BUZÁKOVÁ Karolína	r.Brčíková z.20.2.1969; z.20.2.1969	0	624,955,956,957,1054,1490,1491,1585,1739,2010,2397
+1596	BUZÁKOVÁ Margita	r.Buzáková mal. z.8.5.1952; mal. z.8.5.1952	0	955,956,957,1054,1490,1491,2010,2890,2983
+1596	CENGELOVÁ Zuzana	r.Habániková	0	2311
+1596	ČESÁK František	r.Česák z.11.12.2002; z.11.12.2002	0	955,956,957,1054,1490,1491,2010,2196,2292
+1596	ČESÁK František	r.Česák zom.5.6.1972; zom.5.6.1972	0	2010
+1596	DEBNÁROVÁ Agneša	r.Milanová z.10.1.2002; z.10.1.2002	0	2010
+1596	DEVEČKOVÁ Anna	r.Devečková	0	955,956,957,1054,1368,1490,1491,2302,2303
+1596	DEVEČKOVÁ Barbora	r.Murínová z.19.2.1967; z.19.2.1967	0	2010,2706
+1596	DORNÍK Anton	r.Dorník z.12.08.1998; z.12.08.1998	0	2010
+1596	DORNÍK Ignác	r.Dorník ž.Irena Zacharová z.18.11.1988; ž.Irena Zacharová z.18.11.1988	0	2154
+1596	DORNÍK Imrich	r.Dorník z.7.4.1993; z.7.4.1993	0	2173
+1596	DORNÍKOVÁ Agneša	r.Mišíková z.06.08.1986; z.06.08.1986	0	2782
+1596	DORNÍKOVÁ Ľudmila	r.Zacharová m.Ignác z.02.11.2000; m.Ignác z.02.11.2000	0	2118,2543
+1596	DORNÍKOVÁ Vilma	r.Haličková Maranková z.22.8.1987; Maranková z.22.8.1987	0	1578,2282
+1596	DOVIČINOVÁ Helena	r.Saláková	0	955,956,957,1054,1490,1491,1616,2010,3232
+1596	DROPOVÁ Karolína	r.Salvová	0	1301,2801,2802
+1596	DROPPOVÁ Agneša	r.Gajdošová z.2.11.2003; z.2.11.2003	0	1839,2156
+1596	DROPPOVÁ Božena	r.Máliková z.10.4.1989; z.10.4.1989	0	955,956,957,1054,1490,1491,2010
+1596	DROPPOVÁ Johana	r.Vrzgulová	0	2010
+1596	DRUDIČKIN Jozef Michal	r.Drudičkin	0	2459,3020
+1596	DRUSKA Bernard	r.Druska z.15.8.1998; z.15.8.1998	0	955,956,957,1054,1490,1491,1863,2129,2586
+1596	DRUSKA Eduard	r.Druska z. 8.6.1977; z. 8.6.1977	0	2010,2401
+1596	DRUSKA František	r.Druska v USA; v USA	0	955,956,957,1054,1184,1336,1490,1491,2010,2798
+1596	DRUSKA Gustáv	r.Druska ž.Senková Helena z.6.2.1998; ž.Senková Helena z.6.2.1998	0	2152
+1596	Druska Gustáv r. Druska a Helena Drusková r. Senkova	zomr.11.4.1998, zomr. 6.2.1998	0	2152
+1596	DRUSKA Ignác	r.Druska ded.po Jozefovi žen.so Zuzanou; ded.po Jozefovi žen.so Zuzanou	0	955,956,957,1054,1184,1336,1490,1491,2010,2798
+1596	DRUSKA Ján	Kováč v Amerike	0	956,957,1054,1490,1491,2010,2379
+1596	DRUSKA Ján	r.Druska	0	1336,2798
+1596	DRUSKA Jozef	Kováč	0	1336,2798
+1596	DRUSKA Jozef	r.Druska	0	2010
+1596	DRUSKA Jozef	r.Druska z.23.08.2006; z.23.08.2006	0	2013
+1596	DRUSKA Jozef	r.Druska ž.Drusková Zuzana; ž.Drusková Zuzana	0	2129
+1596	DRUSKA Jozef	r.Druska ž.Mária Baďová z.18.11.1983; ž.Mária Baďová z.18.11.1983	0	1336,2798
+1596	DRUSKA Juraj	r.Druska	0	1336,2782,2798
+1596	DRUSKA Justín	r.Druska ded.po Jozefovi žen.so Zuzanou; ded.po Jozefovi žen.so Zuzanou	0	955,956,957,1054,1184,1490,1491
+1596	DRUSKA Justín	r.Druska ž.Dúbravcová Antónia; ž.Dúbravcová Antónia	0	955,956,957,1054,1490,1491,2010,2421
+1596	DRUSKA Kamil	r.Druska mal.ded.po Cyrilovi; mal.ded.po Cyrilovi	0	744,2107
+1596	DRUSKA Karol	r.Druska Turík; Turík	0	2010
+1596	DRUSKA Koloman	r.Druska mal.ded.po Jurajovi z.11.1.1999; mal.ded.po Jurajovi z.11.1.1999	0	955,956,957,1054,1490,1491,1924,2010
+1596	DRUSKA Koloman	r.Druska z.11.1.1999 v Čechách; z.11.1.1999 v Čechách	0	2782
+1596	DRUSKA Teodor	ž.Murínová Bernardína z.21.4.1967	0	2010
+1596	DRUSKA Vincent	r.Druska	0	1336,2010,2798
+1596	DRUSKOVÁ Agneša	r.Mišíková z.6.8.1986; z.6.8.1986	0	2010
+1596	DRUSKOVÁ Antónia	r.Dúbravcová	0	1301,1871
+1596	DRUSKOVÁ Bernardína	r.Murínová z.27.1.1976; z.27.1.1976	0	955,956,957,1054,1490,1491,2010,2442,3007
+1596	DRUSKOVÁ Františka	r.Buzáková z.24.11.1991; z.24.11.1991	0	2561
+1596	DRUSKOVÁ Františka	r.Mrvová manž.Mikuláš z.29.11.2003; manž.Mikuláš z.29.11.2003	0	955,956,957,1054,1490,1491,2010,2062,2357,2358
+1596	DRUSKOVÁ Helena	r.Senková z.11.4.1998; z.11.4.1998	0	2152
+1596	DRUSKOVÁ Irena		0	2010,2782
+1596	DRUSKOVÁ Irena	r.Fliegová m.Vincent z.7.10.1978; m.Vincent z.7.10.1978	0	2010
+1596	DRUSKOVÁ Justína		0	1336,2798
+1596	DRUSKOVÁ Mária	r.Pažítková z.2.8.1998; z.2.8.1998	0	1397,1590,2010
+1596	DRUSKOVÁ Melánia	r.Buzáková-Saláková z.20.10.1978; z.20.10.1978	0	955,956,957,1054,1490,1491,2002,2010,2657
+1596	DRUSKOVÁ Regina	r.Mäsiarová m.Izidor z.11.5.1981; m.Izidor z.11.5.1981	0	1054,1490
+1596	DRUSZKA György	r.Druzska	0	1336,2794,2798
+1596	DUBOVCOVÁ Elena	r.Čiapová	0	2175
+1596	DUBOVCOVÁ Eva	mal	0	2175
+1596	DUBOVCOVÁ Vlasta	mal	0	2175
+1596	DUBOVEC Ján	r.Dubovec kúpa r.1946; kúpa r.1946	0	2175
+1596	DÚBRAVCOVÁ Irma	ded.po Jozefovi a Márii r.Jandurovej	0	2714
+1596	DÚBRAVCOVÁ Veronika	ded.po Jozefovi a Márii r. Jandurovej	0	2713
+1596	DÚBRAVEC Beňadik	r.Dúbravec kúpa r.1937; kúpa r.1937	0	1871
+1596	DUBRAVEC Jozef	r.Dubravec	0	1301
+1596	DÚBRAVEC Matej	r.Dúbravec brat Jozefa; brat Jozefa	0	2298
+1596	DUDÁŠOVÁ Emília	r.Sojková	0	1301
+1596	DUCHOVNÁ Veronika	r.Vrzgulová z.14.11.1988; z.14.11.1988	0	955,956,957,1054,1113,1301,1490,1491,1962
+1596	DUCHOVNÝ Ignác	r.Duchovný ž.Elena Šimková z.26.2.2001; ž.Elena Šimková z.26.2.2001	0	2511,2512
+1596	DUCHOVNÝ Jozef	Fulla	0	1336,2794,2798
+1596	FEHERPATAKY Eugen	ž.Zacharová Anna z.4.2.2003	0	1994
+1596	FERIANC Adam	r.Ferianc ž.Jozefína r.Kostúriková; ž.Jozefína r.Kostúriková	0	955,956,957,1054,1490,1491,2010,2539
+1596	FERIANCOVÁ Jozefína	r.Kostúriková z.17.8.2000; z.17.8.2000	0	955,956,957,1054,1490,1491,2010,2539
+1596	FEROVÁ Margita	sestra Eduarda, Heleny, Žofie a Anny	0	2298
+1596	FIGLOŠOVÁ Bernardína	r.Jandurová v Maďarsku; v Maďarsku	0	955,956,957,1054,1490,1491,1950,2010,2622
+1596	FLIEGA Dominik	r.Fliega	0	2010
+1596	FLIEGA Izidor	r.Fliega ž.Vrzgulová Helena z.18.12.2004; ž.Vrzgulová Helena z.18.12.2004	0	1973
+1596	FLIEGA Ján	r.Fliega z.18.12.2004; z.18.12.2004	0	2040
+1596	FLIEGA Jaroslav	r.Fliega mal.; mal	0	1437,2202,2203
+1596	FLIEGA Jozef	r.Fliega brat Ondreja; brat Ondreja	0	2072
+1596	FLIEGA Karol	r.Fliega z.20.01.1995; z.20.01.1995	0	2040
+1596	FLIEGA Rafael	r.Fliega z.3.10.2002; z.3.10.2002	0	2167
+1596	FLIEGOVÁ Anna	r.Šišková m.Rafael z.9.9.1998; m.Rafael z.9.9.1998	0	1318,2749
+1596	FLIEGOVÁ Hedviga	r.Moravčíková z.10.11.1981; z.10.11.1981	0	955,956,957,1054,1286,1292,1490,1491,1921,2010,2933
+1596	FLIEGOVÁ Helena	r.Vrzgulová z.22.2.1991 manž.Izidor; z.22.2.1991 manž.Izidor	0	1054,1490
+1596	FLIEGOVÁ Lucia	r.Šavrnochová z.4.1.1977; z.4.1.1977	0	2010
+1596	FRIDRICHOVÁ Mária	r.Hazuchová	0	2298
+1596	FULA Jozef	Duchovný z.28.8.1984	0	2010
+1596	FULA Metod	Duchovný	0	955,956,957,1054,1490,1491,1869,2010,2255
+1596	FULLA Anton	r.Fulla na neznámom mieste; na neznámom mieste	0	955,956,957,1054,1490,1491,2010,2385,3061
+1596	FULOVÁ Angela	z.7.10.1959	0	2010
+1596	FULOVÁ Veronika	Duchovná r.Vrzgulová zom.14.11.1988	0	2010,2067
+1596	FURIELOVÁ Emília	r.Melková m.Štefan z.29.1.1999; m.Štefan z.29.1.1999	0	2318,3096
+1596	GLUCH Jozef	r.Gluch kúpa r.1949; kúpa r.1949	0	624,1739,2397

@@ -1,0 +1,256 @@
+1731	VAVREKOVÁ Elena		1	269,322,458
+1731	VAVREKOVÁ Maria	r.Petrová	1	246,269,322,458
+1731	VERTÁĽ Ferdinand	Havač	1	85,87,197
+1731	VERTÁĽ Štefan		1	291,322,458
+1731	VERTÁĽOVÁ Cila		1	23,100,193,202,203,224,225,226,370
+1731	VERTÁĽOVÁ Františka	r.Oravcová	1	163
+1731	VERTÁĽOVÁ Paula		1	226
+1731	VERTÁĽOVÁ Žofia	r.Oravcová	1	26,56,61,62,63,115,297,298,300,305,322,411,412,417,442,452,453,458
+1732	Borecký Peter		0	385
+1732	Dlugoš Ján		0	369,387,416,419,551
+1732	Dlugoš Ján	1	0	346,350,361,371,434,463,464,473,515,552,556,558,563,594,610,613,620
+1732	Dlugošová Anna		0	346,350,361,371,434,463,464,473,515,552,556,558,563,594,610,613,620
+1732	Dlugošová Helena		0	346,434,461,552,563
+1732	Dlugošová Helena r. Hriceňáková		0	369,387,416,419,551
+1732	Dlugošová Katarína r. Knapová		0	503
+1732	Drabecká Katarína r. Štefaňáková		0	361,594,620
+1732	Drabišin Ján		0	346,434,552,563
+1732	Drabišin Michal		0	346,434,552,563
+1732	Drabišinová Anna		0	346,364,366,434,461,552,563,581,582,583
+1732	Dudjaková Mária r. Koščová		0	367,554
+1732	Dvorožňák Michal		0	426
+1732	Dvorožňáková Anna r. Dvorožňáková		0	426
+1732	Forgáč Samuel, Dr.		0	369,377,551,575
+1732	Gbur Ján		0	369,379,388,418,551,557,565
+1732	Gbur Michal		0	369,375,384,402,410,414,418,421,424,428,453,551,557
+1732	Gbur Michal	1	0	369,551
+1732	Gbur Peter		0	369,551
+1732	Gbur Štefan		0	348
+1732	Gburová Mária r. Romaňáková		0	369,390,551
+1732	Hriceňák Ján		0	346,348,372,434,466,519,523,524,528,532,534,538,552,563,584,612
+1732	Hriceňáková Anna r. Gburová		0	369,417,551
+1732	Hriceňáková Anna r. Vitková		0	414,453
+1732	Hriceňáková Katarína r. Gburová		0	369,379,388,455,469,551,565
+1732	Juhasik Ján		0	362
+1732	Juhasik Ján	1	0	533
+1732	Juhasik Štefan		0	346,434,552,563
+1732	Juhasik Štefan	1	0	533
+1732	Juhasziková Anna		0	346,364,366,434,461,552,563,581,582,583
+1732	Juhasziková Anna	1	0	346,364,366,434,461,552,563,581,582,583
+1732	Juhasziková Katarína		0	346,364,366,434,461,552,563,581,582,583
+1732	Juhasziková Katarína	1	0	346,364,366,434,461,552,563,581,582,583
+1732	Juhasziková Mária		0	346,364,366,434,461,552,563,581,582,583
+1732	Juhasziková Verona		0	346,364,366,434,461,552,563,581,582,583
+1732	Juhasziková Veronika		0	346,364,366,434,461,552,563,581,582,583
+1732	Košč František		0	368,621
+1732	Košč Ján		0	369,418,551,557
+1732	Košč Ján	1	0	346,362,434,460,552,563
+1732	Košč Ján	2	0	470
+1732	Košč Ján	3	0	470
+1732	Košč Ján	5	0	517
+1732	Košč Ján	6	0	462,471
+1732	Košč Michal		0	369,383,551,564,567,569,572,574
+1732	Košč Michal	1	0	418,557
+1732	Košč Michal	2	0	470
+1732	Košč Michal	3	0	484
+1732	Košč Michal	4	0	477
+1732	Košč Peter		0	418,557
+1732	Koščová Anna		0	368,369,383,551,564,567,569,572,574,621
+1732	Koščová Anna	1	0	470
+1732	Koščová Anna r. Maľarčíková		0	369,392,420,551
+1732	Koščová Anna r. Maľarčíková	1	0	369,420,551
+1732	Koščová Anna r. Maľarčíková	2	0	389,412,415
+1732	Koščová Anna r. Maľarčíková	3	0	427
+1732	Koščová Anna r. Malastová		0	369,418,551,557
+1732	Koščová Katarína		0	368,369,383,551,564,567,569,572,574,621
+1732	Koščová Mária		0	368,369,383,551,564,567,569,572,574,621
+1732	Kret Michal		0	500,555
+1732	Kruk Ján	1	0	369,379,388,455,551,565
+1732	Kruk Štefan		0	369,378,551,562
+1732	Kruk Štefan	1	0	369,379,388,455,551,565
+1732	Kruková Anna		0	369,378,551,562
+1732	Kuča Ján		0	369,390,551
+1732	Kuča Ján	1	0	369,383,551,564,567,569,572,574
+1732	Leha Štefan		0	367
+1732	Lech Ján		0	346,434,552,563
+1732	Lech Štefan		0	471
+1732	Lecha Štefan		0	346,365,385,434,467,552,554,563,611
+1732	Lukačovský Alexander		0	359
+1732	Maľarčíková Anna		0	369,389,392,412,415,420,427,551
+1732	Maľarčíková Teodoria		0	369,389,392,412,415,420,427,551
+1732	Malastová Mária r. Hričová		0	489
+1732	Matviak Štefan		0	367,385,554
+1732	Matviaková Mária		0	367,385,554
+1732	Matviaková Mária r. Koščová		0	367,385,554
+1732	Matviaková Mária r. Koščová	1	0	346,364,366,434,461,552,563,581,582,583
+1732	Matviják Michal		0	509
+1732	Matviják Štefan		0	346,434,465,552,563
+1732	Matviják Štefan	1	0	346,365,434,467,480,537,552,563,611
+1732	Matviják Štefan	2	0	359,516,529
+1732	Matvijáková Anna r. Tokarčíková		0	509
+1732	Matvijáková Katarína		0	346,434,465,552,563
+1732	Matvijáková Katarína	1	0	359,516,529
+1732	Matvijáková Mária		0	369,374,551,596,608
+1732	Matvijáková Mária	1	0	346,434,465,552,563
+1732	Matvijáková Mária	2	0	359,516,529
+1732	Matvijáková Mária r. Matvijáková		0	346,365,434,467,480,537,552,563,611
+1732	Matvijáková Zuzana		0	346,434,465,552,563
+1732	Matvijáková Zuzana	1	0	359,516,529
+1732	Moškovič Bernhaut		0	369,551
+1732	Štefaňák Ján	2	0	563
+1732	Štefaňák Ján	3	0	563
+1732	Štefaňák Juraj		0	451
+1732	Štefaňák Juraj	1	0	346,434,552,563
+1732	Štefaňák Michal	10	0	523
+1732	Štefaňák Michal	12	0	348
+1732	Štefaňák Michal	2	0	367,369,373,374,385,551,554,596,608
+1732	Štefaňák Michal	4	0	346,434,466,528,552,563
+1732	Štefaňák Michal	5	0	346,434,466,528,534,552,563
+1732	Štefaňák Michal	6	0	346,434,466,528,534,552,563
+1732	Štefaňák Michal	7	0	346,365,434,457,467,521,536,537,552,563,611
+1732	Štefaňák Michal	8	0	346,434,552,563
+1732	Štefaňák Michal	9	0	534
+1732	Štefaňák Štefan		0	359
+1732	Štefaňák Štefan	1	0	418,557
+1732	Štefaňák Štefan	2	0	505
+1732	Štefaňáková Anna		0	346,357,434,552,563
+1732	Štefaňáková Anna	1	0	346,365,434,457,467,521,536,537,552,563,611
+1732	Štefaňáková Anna	2	0	346,434,552,563
+1732	Štefaňáková Anna	3	0	523
+1732	Štefaňáková Anna r. Koščová		0	531
+1732	Štefaňáková Anna r. Koščová	1	0	491
+1732	Štefaňáková Júlia		0	426
+1732	Štefaňáková Mária		0	563
+1732	Štefaňáková Mária	1	0	563
+1732	Štefaňáková Mária	2	0	563
+1732	Štefaňáková Mária	3	0	434,563
+1732	Štefaňáková Mária	6	0	361,594,620
+1732	Štefaňáková Mária r. Kretová		0	367,385,554
+1732	Štefaňáková Verona		0	419
+1732	Štefaňáková Zuzana		0	457
+1732	Štefaňáková Zuzana r. Štefaňáková		0	482
+1732	Štefančík Štefan		0	359
+1732	Vengrin Andrej		0	346,434,552,563
+1732	Vengrin Eliáš		0	346,434,552,563
+1732	Vengrin Ján		0	346,434,552,563
+1732	Vengrin Ján	1	0	515
+1732	Vikarčík Michal		0	369,381,427,551
+1732	Zagora Andrej		0	369,551
+1732	Zagorová Mária r. Romaňáková		0	497
+1733	Ander Andrej	PKV 689	1	1538
+1733	Ander Michal, Malý Šariš, č. 20, PSČ 080 01, SR	manž.Mária r.Ballová R18.4.1902	1	1396
+1733	Anderko Andrej	PKV 339,manž.Mária	1	1389,1390
+1733	Anderová Mária r. Ballová, Malý Šariš, č. 20, PSČ 080 01, SR	R17.4.1913	1	1396
+1733	Balla Matej, Malý Šariš, č. 21, PSČ 080 01, SR	manželka Barbara r.Hovanová R 17.7.1905	1	1329
+1733	Ballová Barbara r. Chovanová, Malý Šariš, č. 21, PSČ 080 01, SR	manžel Matej	1	1329
+1733	Ballová Mária r. Liptáková	PKV 109	1	1582
+1733	Bednár Andrej r. Bednár, Murárska 8, Prešov, PSČ 080 01, SR		1	1629
+1733	Bednár Ján, Murárska 8, Prešov, PSČ 080 01, SR	PKV 441, syn Štefana, R4.7.1911	1	1629
+1733	Bednár Jozef r. Bednár, Murárska 8, Prešov, PSČ 080 01, SR		1	1629
+1733	Bednár Pavol, Lindauerová 13, Plzeň, PSČ 301 00, ČR		1	1629
+1733	Bednárová Anna	PKV 391	1	1841
+1733	BEDNÁROVÁ Anna, Murárska 8, Prešov, PSČ 080 01, SR		1	1629
+1733	Bednárová Mária, Murárska 8, Prešov, PSČ 080 01, SR		1	1629
+1733	Bednárová Mária, Murárska 8, Prešov, PSČ 080 01, SR	vdova r.Dibová	1	1629
+1733	Bekečová Alžbeta r. Tóthová	PKV 356	1	1041,1390
+1733	Berdisová Helena r. Rapavá, Lažany, č. 20, PSČ 082 32, SR	PKV 371	1	1312
+1733	Bicáková Anna r. Fogašová	PKV 255	1	1844
+1733	Biczak Emil	PKV 2-594	1	1870
+1733	Blažko Štefan	ml.PKV 641, manž.Anna r.Kračanská	1	1429
+1733	Blažková Anna r. Kračanská	PKV 641	1	1429
+1733	Boczko Ferenc	PKV 2-594	1	1870
+1733	Bomba Ján	PKV 340, manž.Barbara	1	1390
+1733	Bomba Ján	PKV 340, manželka Barbara	1	1373
+1733	Bombová Barbara	PKV 340	1	1373,1390
+1733	Bove Mária r. Šimčiková	PKV 282	1	1853,1879
+1733	Bývali urbarialisti obce Župčany		0	1792
+1733	Čarná Johana r. Rapavá, Malý Šariš, č. 131, PSČ 080 01, SR	Janka,PKV 371,R27.10.1935	1	1312
+1733	Čirč František	PKV 360, manž.ALžbeta r.Kvitkovičová	1	1377
+1733	Čirč František	PKV 360, manželka ALžbeta r.Kvitkovičová	1	1390
+1733	Daňko Viktor	ž.Mária r.Klimková	1	1411
+1733	Dopirak Martin	PKV 329, mal	1	1409
+1733	Dubayová Barbora r. Vojteková	R 3.2.1924	1	1873
+1733	Dučaj Ján	PKV 341, manželka Barbara r.Galová	1	1390
+1733	Dučajová Barbara r. Galová	PKV 341	1	1390
+1733	Dudáš Imrich	PKV 180	1	1337
+1733	Dudáš Ján	PKV 179, manželka Mária r.Balogová	1	1338
+1733	Dvorčáková Mária r. Bednárová	PKV 429	1	1482
+1733	Dvorščáková Mária r. Brudňáková, Malý Šariš, č. 100, PSČ 080 01, SR	m.Jozef	1	1620
+1733	Dvorščáková Mária r. Brudňáková, Malý Šariš, č. 100, PSČ 080 01, SR	m.Jozef, PF	0	1620
+1733	Fabian Jozef, Malý Šariš, č. 106, PSČ 080 01, SR	PKV 82,R14.1.1905	1	1615
+1733	Fabian Jozef, Malý Šariš, č. 17, PSČ 080 01, SR	PKV 501, manželka Elena r.Kucharíková	1	1211
+1733	Fabian Tomáš	PKV 621, manželka Jozefína r.Senderaková	1	1770
+1733	Fabianová Elena r. Kucharíková, Malý Šariš, č. 17, PSČ 080 01, SR	PKV 501	1	1211
+1733	Fabianová Jozefína r. Senderáková	PKV 621	1	1770
+1733	Fatľová Mária r. Kropuchová, Šarišské Lužianky, č. 48, PSČ 082 32, SR	R10.4.1940	1	1544
+1733	Fecmanová Gizela r. Urbanová		1	1872
+1733	Gál Andrej	PKV 2 2563	1	1851
+1733	Gál Ján	PKV 2 2563	1	1851
+1733	Gál Ján	PKV 2 3118	1	1842
+1733	Gál Martin	PKV 2 2563	1	1851
+1733	Gál Matej	mal.,PKV 2 3118	1	1842
+1733	Gál Matej	PKV 2 2563	1	1851
+1733	Gálová Alžbeta	PKV 2 2563	1	1851
+1733	Gálová Barbora	PKV 2 2563	1	1851
+1733	Gálová Barbora	PKV 2-2563/B9	1	1851
+1733	Gálová Burka	mal.,PKV 2 3118	1	1842
+1733	Gálová Mária	PKV 2 3118	1	1842
+1733	Gladiš Jozef	PKV 252, manželka Verona r.Michnovičová	1	1410
+1733	Grega Jozef, Malý Šariš, č. 125, PSČ 080 01, SR	PKV 106,R23.5.1929	1	1251
+1733	Grega Milan	mal.PKV 652	1	1772
+1733	Gregová Ružena	mal.PKV 652	1	1772
+1733	Grejták Jozef	manželka Alžbeta r.Gumanoná	1	1332
+1733	Guľasová Mária r. Andrašková, Malý Šariš, č. 328, PSČ 080 01, SR	m.Andrej	1	891
+1733	Hajdučinová Anna, SR	dcéra Michala	1	1529
+1733	Haršanik Andrej, Malý Šariš, č. 224, PSČ 080 01, SR	ž.Margita r.Kropuchová	1	1862,1868,1874
+1733	Haršaníková Alžbeta r. Kušnírová	m.Ján	1	1866,1867
+1733	Himič Augustín	PKV 332, manželka Mária r.Tállová	1	1268
+1733	Himičová Mária r. Tállová	PKV 332	1	1080,1268,1609
+1733	Horňáková Anna	PKV 53	1	1261
+1733	Hubová Anna r. Ivanová, Malý Šariš, č. 65, PSČ 080 01, SR	m.Martin	1	1420
+1733	Hudý Juraj, Malý Šariš, č. 176, PSČ 080 01, SR	manželka Anna r.Grejtáková R23.10.1911	1	1320
+1733	Imrichová Verona	PKV 162, dcéra Jozefa	1	1351
+1733	Ivan Andrej, Malý Šariš, č. 1, PSČ 080 01, SR	manželka Mária r.Semančíková R 6.4.1919	1	991
+1733	Ivan Andrej, Malý Šariš, č. 1, SR	manželka Mária r.Semančíková R 6.4.1919	1	1279,2092,2093
+1733	Ivančinová Anna r. Kušnirová	PKV 319	1	1359
+1733	Ivanko - Macejová Anna r. Anderová, Chminianske Jakubovany, č. 111, PSČ 082 33, SR	R 21.9.1939	1	1228
+1733	Ivanko - Varmecká Margita r. Anderová	PKV 657	1	1774
+1733	Ivanko Jozef r. Ivanko, Malý Šariš, č. 259, PSČ 080 01, SR		1	1773
+1733	Ivanko Varmecký Ján	PKV 657, manželka Margita r.Anderová	1	1774
+1733	Jacko Imrich	PKV 678, manželka Verona r.Felixová	1	1264
+1733	Jacková Verona r. Felixová, Malý Šariš, č. 4, PSČ 080 01, SR	PKV 201	1	1264
+1733	Jarková Alžbeta r. Čirčová	PKV 360	1	1377
+1733	Jarková Alžbeta r. Čirčová	vd., PKV 360	1	1390
+1733	Jarkovská Anna r. Miščiková	PKV 79	1	1593
+1733	Jarkovský Andrej, Vydumanec 91, Prešov, PSČ 080 01, SR	PKV 79, manželka Anna r.Miščiková, R20.7.1894	1	1593
+1733	Juhasová Mária	PKV 551	1	1476
+1733	Kačmarík Andrej, Malý Šariš, č. 128, PSČ 080 01, SR	ž.Anna r.Bubáková R 1.7.1889	1	1286,2288,2289
+1733	Kahancová Mária r. Liptáková, Malý Šariš, č. 11, PSČ 080 01, SR	m.Ján	1	1625
+1733	Kahanec Ján, Malý Šariš, č. 11, PSČ 080 01, SR	m.Mária r.Liptáková R21.9.1906	1	1625
+1733	Kancír Jozef r. Kancír, 082 21, Medzany, č. 117, SR		1	721
+1733	Katriňák Jozef	PKV 29, manželka Alžbeta r.Balčáková	1	1258
+1733	Kijovský Jozef	PKV 52	1	1709
+1733	Kipikašová Mária r. Oršuláková		1	977
+1733	Koscelník Imrich	PKV 2 2562	1	1855
+1733	Koscelník Ján	PKV 2 1578	1	1854
+1733	Kostelník Imrich, Dr.	PKV 81	1	1588,1612,1841
+1733	Kostelníková Alžbeta	PKV 2 2562	1	1855
+1733	Kostelníková Alžbeta r. Kušnirová	PKV 36	1	1588,1841
+1733	Kostelníková Mária r. Germušková, Malý Šariš, PSČ 080 01, SR	PKV120,R19.4.1894	1	1682
+1733	Kropuchová Alžbeta r. Farkašová	m.Ján	1	1848
+1733	Kropuchová Anna r. Molčanová	PKV 133	1	598
+1733	Kropuchová Jolana	mal.PKV 10	1	961,962,1544,1588,1841,1951
+1733	Kucko Vincent	PKV 343, manželka Verona r.Fabianová	1	1390
+1733	Kucková Verona r. Fabianová	PKV 343	1	1390
+1733	Kurila Štefan	PKV 342, manželka Mária r.Mikolajová	1	1390
+1733	Kurillová Mária r. Lichvarová	PKV 146	1	943,944
+1733	Kurilová Mária r. Mikolajová	PKV 342	1	1385,1390
+1733	Kušnír - Ďurka Ján	PKV 182, manželka Mária r.Jašková	1	1390
+1733	Kušnír Andrej	ž.Barbara r.Harčárová	1	1390
+1733	Kušnír Ján	ž.Anna r.Polohová	1	1382,1390
+1733	Kušnír Ján	ž.Anna r.Tóthová	1	1381,1390
+1733	Kušnir Ján r. Kušnir, 082 21, Medzany, č. 82, SR		1	429
+1733	KUŠNIR Štefan		1	1380,1390
+1733	Kušnir Vincent	PKV 181	1	1026,1380,1390
+1733	Kušnirová - Ďuriková Mária r. Tóthová	PKV 347	1	1380
+1733	Kušnírová - Ďurková Mária r. Tóthová	PKV 347	1	1390

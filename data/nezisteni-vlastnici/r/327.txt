@@ -1,0 +1,256 @@
+205	Borik Michal		0	303
+205	Boriková Alžbeta		0	447
+205	Boriková Alžbeta r. Lencsésová		0	447
+205	Boriková Anna		0	447
+205	Boriková Ernestína r. Mellenová	manželka Jakuba	0	903,912
+205	BORIKOVA ERNESTINA R.MELLENOVA		0	418
+205	Boriková Gizela		0	447
+205	Bóriková Helena		0	385,837,838
+205	Boriková Juliana		0	447
+205	Bóriková Katarina r. Kalinová		0	881
+205	Boriková Rozália		0	447
+205	Boriková Veronika r. Gašparíková		0	303
+205	BORIKOVA VERONIKA R.GASPARIKOVA		0	466,525
+205	BORKA RUDOLF		0	449
+205	ČERŇANSKÁ MÁRIA R.BORKOVÁ		0	449
+205	Demo František		0	303,523,876,931
+205	Demo František r. Demo		0	666
+205	Demo Gašpar		0	303,886
+205	Demo Gašpar	ženatý s Barborou r. Demovou	0	885
+205	Demo Ján	ženatý s Alžbetou	0	752
+205	Demo Jozef		0	303,433,524
+205	Demo Matúš		0	303,523,666,876
+205	Demo Michal		0	303,884
+205	Demo Mikuláš		0	885
+205	Demo Štefan		0	303,524,876,884
+205	Demo Štefan	st	0	303
+205	Demo Tibor		0	934
+205	Demová Barbora		0	303
+205	DEMOVA JOHANA R.KALINOVA		0	964
+205	Demová Johanna r. Kalinová		0	933
+205	Demová Julianna		0	303
+205	Demová Magdaléna		0	303
+205	Demová Margita	manželka Štefana	0	934
+205	DEMOVA MARIA		0	524
+205	Demová Mária	maloletá	0	885
+205	Demová Mária r. Miková	manželka Štefana	0	885
+205	Dobročáni Ján	ženatý s Annou r. Čaplákovou , zomr. 21.1.1951	0	892
+205	Dobročáni Štefan	ženatý s Helenou rod. Mellenovou	0	929
+205	Dobročániová Helena r. Mellenová	manželka Štefana	0	929
+205	DRAPAN KAROL		0	543
+205	DRAPAN LUDVIG		0	542
+205	Eleková Anna r. Kuchtaová		0	884
+205	FAZEKAS JOZEF		0	534
+205	FAZEKASOVA MARIA R.KALINOVA		0	534
+205	Fišan Jozef		0	205
+205	Fišanová Anna		0	205
+205	Fišanová Katarína r. Oršulíková	vdova	0	928
+205	GASPARIKOVA JOHANA		0	467
+205	GASPARIKOVA JOHANA R.HOLUBOVA		0	423
+205	GASPARIKOVA PAULINA R.SOKOLIKOVA		0	502,661,662
+205	Gašparíková Elena r. Slobodníková	manželka Ľudovíta	0	904
+205	Gašparíková Johanna		0	303
+205	Gašparíková Johanna r. Holubová		0	907
+205	Gašparovič Andrej	ženatý s Veronou Paulovičovou	0	896
+205	Goldblatová Mária r.Bóriková		0	385,837,838
+205	Gondár Albert		0	303
+205	Gondár Albert	ženatý s Máriou	0	303,930
+205	Gondárová Anna		0	303
+205	Gondárová Mária	manželka Alberta	0	303,930
+205	Gondárová Marie		0	303
+205	GYURINA VOJTECH		0	545
+205	GYURINOVA BARBORA		0	582
+205	GYURINOVA MARIA		0	545
+205	HAJDÚK JÁN		0	589
+205	HALADIKOVA VERONIKA R.KOTHAJOVA		0	655
+205	Hatala Vincent	ženatý s Annou	0	303
+205	HATALOVA ANNA R.MELLENOVA		0	500
+205	Hoksa Štefan	ženatý s Máriou	0	927
+205	Hoksová Mária	manželka Štefana	0	927
+205	Holupová Anna r. Valachová		0	518
+205	CHRASTEL MICHAL		0	670
+205	CHRASTELOVA ANNA		0	334,1050
+205	CHRASTELOVA ANNA R.GONDAROVA		0	334,1050
+205	CHRASTYELOVA MARIA		0	524
+205	Chrášteľ Štefan		0	303,334,1050
+205	Chrášteľová Marie		0	303
+205	Jávorková Alžbeta r. Dobrocsányi	vdova, manžel Jávorka Juraj	0	892
+205	Kalina Andrej		0	933
+205	Kalina Andrej	ženatý s Veronou r. Mellenovou	0	888
+205	KALINA FRANTISEK		0	486,492
+205	Kalina František	maloletý	0	303,935
+205	Kalina Ján		0	485,964
+205	Kalina Ján	ženatý s Annou r. Gašparíkovou	0	933
+205	Kalina Jozef	zomr. 1.7.1928	0	933
+205	KALINA JOZEF		0	964
+205	Kalina Juraj		0	303
+205	Kalina Karol		0	933
+205	Kalina Michal		0	303,492,935
+205	Kalina Michal	maloletý	0	303
+205	Kalina Mikuláš		0	485
+205	Kalina Ondrej		0	879
+205	Kalina Pavol		0	935
+205	Kalina Vojtech		0	890
+205	Kalina Vojtech	maloletý	0	303,890
+205	Kalinová Alžbeta		0	485
+205	Kalinová Anna	maloletá	0	933
+205	Kalinová Anna r. Péteriová		0	901
+205	KALINOVA ANNA R.PETERIOVA		0	678
+205	Kalinová Genovéva r. Mellenová		0	474,935
+205	Kalinová Genovéva r. Mellenová	manželka Štefana Kalinu	0	890
+205	KALINOVA GENOVEVA R.MELLENOVA		0	492
+205	Kalinová Júlia r. Ožvaldová	manželka Ondreja	0	879
+205	Kalinová Karolina r. Sellárová	manželka Vojtecha Kalinu	0	890
+205	KALINOVA MARGITA		0	486
+205	KALINOVA MARIA		0	486
+205	KALINOVA PETRA		0	479,965
+205	Kalinová Verona r. Mellenová		0	888
+205	KAMPMILLER PETER		0	657
+205	KAMPMILLEROVA ANNA R.KALINOVA		0	657
+205	Klačanová Mária r. Péteriová		0	901
+205	KOCSI JONAS		0	597
+205	Kodhaj Peter	st. ženatý s Alžbetou rod. Gondárovou	0	922
+205	Kodhajová Alžbeta r. Gondárová	manželka Petra	0	922
+205	KORPASOVA EMILIA R.PALOVA		0	549
+205	Kuchta Jozef	ženatý s Máriou	0	921
+205	KUCHTA JOZEF		0	531
+205	Kuchtaová Alžbeta	maloletá	0	884
+205	Kuchtaová Anna	maloletá	0	884
+205	Kuchtaová Emerencia		0	884
+205	Kuchtaová Juliana		0	884
+205	KUCHTOVA MARIA		0	531
+205	Kuchtová Mária	manželka Jozefa	0	921
+205	KUKELOVA EVA		0	554
+205	Kukučka František	ženatý s Helenou r. Michačovou	0	898
+205	Kukučková Helena r. Michačová	manželka Františka	0	898
+205	Kuruc Gabriel	ženatý s Izabelou r. Michačovou	0	891,936
+205	Kurucová Izabela r. Michačová	manželka Gabriela	0	891,936
+205	KURUCOVA KATARINA		0	154
+205	KURUCZ JOZEF		0	557
+205	KURUCZ VOJTECH		0	618
+205	Kuruczová Anna r. Šemeláková		0	516
+205	KURUCZOVA MARIA		0	619
+205	KURUCZOVA TEREZIA		0	617
+205	Kutiková Magdaléna r. Miková		0	303
+205	Kutiková Magdaléna r. Miková	vdova	0	303
+205	LIPTAK ANTON		0	560
+205	LIPTAK PETER		0	559
+205	Liptáková Katarína r. Mellenová	manželka Michala	0	903
+205	LIPTAKOVA KATARINA R.MELLENOVA		0	418
+205	Malcovich Ján	ženatý s Margitou r. Miholičovou	0	932
+205	Malcovichová Margita	manželka Jána	0	932
+205	Mareková Brigita r. Boriková		0	447
+205	MATE MICHAL		0	656
+205	MATEOVA ALZBETA		0	155
+205	Mellen Gregor	ml	0	303
+205	Mellen Ján		0	152,303,418,500,525,903
+205	Mellen Jozef	ženatý s Esterou r. Mellenovou	0	925
+205	Mellen Michal		0	303,500
+205	Mellen Michal	ženatý s Katerinou r. Ivánovou	0	918
+205	Mellen Ondrej	ženatý s Magdalénou r. Tamašekovou	0	903
+205	MELLEN ONDREJ		0	418
+205	MELLEN PAVOL		0	525
+205	MELLEN STEFAN		0	418
+205	Mellen Štefan	ml. ženatý s Magdalénou r. Michačovou	0	903
+205	Mellen Štefan	nezvestný	0	903
+205	MELLEN VOJTECH		0	500
+205	MELLENOVA ANNA		0	503,525
+205	Mellenová Barbora	maloletá	0	903
+205	Mellenová Ernestína r. Mellenová	manželka Jozefa	0	925
+205	Mellenová Imriška	maloletá	0	903
+205	Mellenová Júlia		0	897
+205	MELLENOVA KATARINA		0	492
+205	Mellenová Katerina r. Ivánová		0	918
+205	Mellenová Magdaléna r. Michačová		0	900
+205	MELLENOVA MARIA		0	418,503,903
+205	Mellenová Mária	* manželka Františka	0	712
+205	Mellenová Mária r. Mellenová		0	303
+205	MELLENOVA MARIA R.MELLENOVA		0	492
+205	Mellenová Paula		0	903
+205	MELLENOVA VERONIKA		0	503
+205	MIHOK ANTON		0	434
+205	MIHOK MICHAL		0	562
+205	MIHOKOVA URSULA R.GALBAVA		0	153
+205	MIKOVA MAGDALENA		0	505
+205	MINARIK URBAN		0	563
+205	MOLNAR FRANTISEK		0	514
+205	Nagy František	ženatý s Martou r. Demovou	0	885
+205	NEMETH STEFAN		0	565
+205	NEMETHOVA ZOFIA		0	565
+205	OTRUBA ONDREJ		0	439
+205	Otruba Štefan		0	440
+205	Otrubová Berta		0	440
+205	Otrubová Klára		0	440
+205	Otrubová Mária		0	440,648
+205	Péterová Rozália		0	303
+205	PINKA GUSTAV		0	525
+205	Pinková Mária		0	183,525
+205	Pintér Jozef		0	303
+205	Pintér Jozef	ženatý s Bertou r. Semelákovou	0	303
+205	Pintér Jozef, SR		0	338
+205	Pintér Ľudovít		0	303
+205	Pintér Ľudovít, SR		0	338
+205	Pintér Michal	ml., ženatý s Alžbetou	0	911
+205	Pintér Štefan		0	303
+205	Pintér Štefan	ženatý s Máriou r. Fišanovou	0	303
+205	Pintér Štefan, SR		0	338
+205	Pintérová Alžbeta	manželka Michala	0	911
+205	Pintérová Berta r. Šemeláková		0	516
+205	Pintérová Judita		0	303
+205	Polák Andrej	ženatý s Jankou r. Mellenovou	0	895
+205	Polák Ondrej		0	183
+205	POLAK STEFAN		0	402
+205	Polák Štefan	ženatý s Katarínou r. Jeseničanovou *	0	895
+205	Poláková Albina	maloletá	0	895
+205	Poláková Alžbeta		0	183
+205	Poláková Janka		0	183
+205	POLAKOVA KATARINA R.JESENICANOVA		0	402
+205	Poláková Rozália	maloletá	0	895
+205	Prochácka Ján	ženatý s Máriou r. Póčovou	0	903
+205	PROCHAZKA JAN		0	418
+205	Radinská Mária r. Demová		0	885,886
+205	Radinsky Michal	ženatý s Máriou r. Demovou	0	885
+205	Ribárová Katarína	z Nového Lótu	0	383
+205	Rosival Jozef		0	893
+205	Rothová Mária r. Demová		0	885
+205	Rudinská Mária r. Demová	predtým Róthová	0	886
+205	SALAI JOZEF		0	630
+205	SALAIOVA ROZALIA		0	630
+205	SALLAIOVA ROZALIA R.SALLAIOVA		0	628
+205	SLOVAK JAN		0	635
+205	SUTKOVA ALZBETA R.TOTHOVA		0	536
+205	SZLOBODNIK FERDINAND		0	573
+205	Šemelák Karol		0	516
+205	Šemelák Štefan		0	516
+205	Šutková Alžbeta r. Tóthová		0	881
+205	Tamášeková Magdaléna r. Kuchtová		0	884
+205	TILDIOVA ROZALIA R.KORPASOVA		0	633
+205	Topel Jozef		0	645
+205	Tóth Jozef	maloletý	0	881
+205	TOTH MICHAL		0	536,881
+205	Tóthová Mária	maloletá	0	881
+205	Turchányi Imrich	Dr	0	902
+205	Turchányiová Lívia		0	902
+205	UDVARDI IMRICH		0	555
+205	UDVARDIOVA JULIANA R.BORIKOVA		0	555
+205	Valach Štefan		0	518
+205	Valachová Katarína		0	518
+205	Vavra Jozef	ženatý s Juliannou r. Tóthovou	0	303
+205	Vavrová Julianna r. Tóthová	manželka Jozefa	0	303
+205	Weiszmayerová Mária r. Mellenová	manželka Františka	0	903
+205	WEISZMAYEROVA MARIA R.MELLENOVA		0	334,418,1050
+206	Anjel Jozef, Strojko, SPF Strojko, SPF		1	2045
+206	Bacúšan Alojz, Rempiak, SPF Rempiak, SPF		1	1761
+206	Bacúšan Štefan r. Bacúšan, Rempiak, nar: 15.05.1897, zom: 4. 5. 1973, SPF Rempiak, nar: 15.05.1897, zom: 4. 5. 1973, SPF		1	1973
+206	Bacúšan Teofil, SR	Rempiak zom. 10.02.1961; Rempiak	0	483
+206	Bacúšanová Anna r. Citterbergová, SPF SPF		1	1990
+206	Bacušanová Emília, SPF SPF		1	2214
+206	Bacušanová Štefánia r. Pauliaková, SR	zom. 04.12.1976	0	483
+206	Bačíková Elena r. Gašperanová, SPF SPF		1	2206
+206	Baliak Ján, SPF SPF		1	1561
+206	Baliak Jozef, SPF SPF		1	1794
+206	Baliak Ladislav, Živoriak, SPF Živoriak, SPF		1	1905
+206	Baliak Matej, Živoriak, SPF Živoriak, SPF		1	1793
+206	Baliak Michal, SPF SPF		1	2180
+206	Baliak Ondrej, SPF SPF		1	1813
+206	Baliak Pavol, SPF SPF		1	1463,1464

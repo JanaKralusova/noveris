@@ -1,0 +1,256 @@
+410	VASIĽKO Ján	nar. v r.1960	1	10,582
+410	VASIĽKO Juraj		1	386
+410	VASIĽKO Juraj	syn Ivana, zom. 13.2.1957 LSR	0	239,770
+410	VASIĽKO Juraj	syn Jána	1	386,527
+410	VASIĽKO Juraj	syn Jána; LSR	0	239,770
+410	VASIĽKO Ondrej	mal	1	551
+410	VASIĽKO Štefan		1	551,555
+410	VASIĽKO Štefan	syn Ivana	1	386,527
+410	VASIĽKO Štefan	syn Ivana; LSR	0	239,770
+410	VASIĽKO Vasil		1	386,510,527,551,555,773
+410	VASIĽKO Vasil	LSR	0	239,770
+410	VASIĽKOVÁ Mária	rod.Skrip	1	386,582
+410	VASIĽKOVÁ Mária	rod.Skrip; LSR	0	239,770
+410	VATĽÁK Juraj	mal,1.; LSR	0	659
+410	VATĽÁK Michal	1.; LSR	0	659
+410	VATĽÁK Michal	2.; LSR	0	659
+410	VATĽÁK Michal	ž.Anna r.Stanková	1	686
+410	VATĽÁK Mikuláš	1.; LSR	0	659
+410	VATĽÁK Vasiľ	LSR	0	659
+410	VATĽÁKOVÁ Anna	LSR	0	659
+410	VATĽÁKOVÁ Anna	r.Stanková,m.Michal	1	686
+410	VATĽÁKOVÁ Zuzana	r.Kušnírová,vzd	1	673,674
+410	VATĽÁKOVÁ Zuzana	r.Kušnírová,vzd.; LSR	0	659
+410	VERBA Andrej	ž.Anna; LSR	0	659
+410	VERBA Michal	LSR	0	659
+410	VERBOVÁ Mária	LSR	0	659
+410	VERBOVÁ Mária	r.Minčičová; LSR	0	659
+410	VOCAKOVÁ Ilona	rod.Biľo Chudiková	1	386
+410	VOCAKOVÁ Ilona	rod.Biľo Chudiková; LSR	0	239,770
+410	VOHAR Ján	manž.Zuzana rod.Didičová	1	53,386
+410	VOHAR Ján	manž.Zuzana rod.Didičová; LSR	0	239,770
+410	VOHÁR Ján	ž.Zuzana Didičová	1	375,386,512,598,604,662
+410	VOHÁR Ján	ž.Zuzana Didičová; LSR	0	239,770
+410	VOHAR Juraj		1	604
+410	VOHÁR Juraj	maloletý	1	386
+410	VOHÁR Juraj	maloletý; LSR	0	239,770
+410	VOHAROVÁ Helena	rod.Andruchová	1	604
+410	VOHAROVÁ Mária	rod.Hakarová	1	608
+410	VOHAROVÁ Zuzana	rod.Didičová	1	100,429,430,490
+410	VOVČKO Ján	LSR	0	659
+410	VOVČKO Vasiľ	LSR	0	659
+410	VOVČKOVÁ Ilona	mal.; LSR	0	659
+410	VOVČKOVÁ Mária	r.Piričová,m.Štefan; LSR	0	659
+410	WEIS Gittel	r.Abrahamovičová,m.Herško; LSR	0	659
+410	WEISBERGER Lipot	LSR	0	659
+410	WEISBERGER Moric		1	602
+410	WEISBERGEROVÁ Chaja	r.Abrahamovičová,m.Simon; LSR	0	659
+410	WEME Eduard	LSR	0	659
+410	WEME Tivadar	LSR	0	659
+410	WOHÁR Ján		1	386
+410	WOHÁR Ján	LSR	0	239,770
+410	ZAJACOVÁ Anna	mal.; LSR	0	659
+410	ZBUR Andrej		1	177
+410	ZBUR Mikuláš	mal	1	177
+410	ZBUR Vasil	maloletý	1	63
+410	ZBUR Vasil	manž.Eva rod.Giričová	1	514,515
+410	ZBUR Vasiľ		1	514,515
+410	ZBUR Vasil, zom. 11.03.1945		1	63
+410	ZBUROVÁ Anna		1	177
+410	ZBUROVÁ Eva	rod.Giričová	1	386,508,534
+410	ZBUROVÁ Eva	rod.Giričová; LSR	0	239,770
+410	ZBUROVÁ Júlia	mal	1	177
+410	ZBUROVÁ Mária		1	177
+410	ZBUROVÁ Naca		1	386
+410	ZBUROVÁ Naca	LSR	0	239,770
+410	ZURIKOVÁ Olena	rod.Vasilko	1	386
+410	ZURIKOVÁ Olena	rod.Vasilko; LSR	0	239,770
+410	ZVALČÁK Vasiľ	LSR	0	659
+410	ZVALČÁKOVÁ Anna	mal.; LSR	0	659
+410	ŽÁKOVÁ Helena	rod.Zburová	1	386,662
+410	ŽÁKOVÁ Helena	rod.Zburová; LSR	0	239,770
+410	ŽÁKOVÁ Zuzana		1	386,401,403,482,523,528,535,563,565,762
+410	ŽÁKOVÁ Zuzana	LSR	0	239,402,770
+410	ŽOLOBANIČ Juraj	LSR	0	659
+410	ŽOLOBANIČ Michal	ž.Anna r.Guzaničová; LSR	0	659
+410	ŽOLOBANIČ Vasiľ	ž.Anna r.Moškurjaková; LSR	0	659
+410	ŽUPA Andrej	LSR	0	659
+411	Antalová Mária r. Andrássyová	manžel Imrich Antal	0	597
+411	Blážovitš Eugen		0	488
+411	Cséfalvay Ferdinánd		0	424,580
+411	Cséfalvayová Juliana r.Kiacsová		0	422,424,580
+411	Czagányová Alžbeta r.Sághyová		0	394
+411	Domonkos Viktor		0	424,580
+411	Feketeová Alžbeta		0	475
+411	Feketeová Alžbeta r. Feketeová	matka Berta Feketeová r. Takácsová; matka Berta Feketeová r. Takácsová	0	593
+411	Feketeová Helena r. Feketeová	matka Berta Feketeová r. Takácsová; matka Berta Feketeová r. Takácsová	0	593
+411	Földes Alexander r. Földes, SR		0	418
+411	Földes František r. Földes		0	425,430,498
+411	Földes Jozef r. Földes, SR		0	410
+411	Földes Jozef, SR		0	425,430
+411	Földes Koloman	otec Kálmán Földes st	0	417
+411	Földes Koloman r. Földes, SR		0	418
+411	Földes Ladislav r. Földes, SR		0	447
+411	Földes Pavel	matka Etela Földesová r. Ághová	0	417
+411	Földes Pavel	matka Földesová Terézia r. Ághová	0	432
+411	Földes Pavel r. Földes, SR		0	394,395,434,445
+411	Földesová Brigitta		0	590
+411	Földesová Brigitta, SR		0	454
+411	Földesová Elza r. Földesová	otec Földes Juraj	0	432
+411	Földesová Emília r. Cséfalvayová, SR		0	426,427
+411	Földesová Emília r. Földesová	matka Földesová Terézia r. Ághová	0	432
+411	Földesová Emília, SR		0	394,395,445
+411	Földesová Irena, SR		0	425,430
+411	Földesová Mária r. Cséfalvayová, SR		0	447
+411	Földesová Sydónia r. Puhaová, SR		0	410
+411	Földesová Sydónia, SR		0	425,430
+411	Földesová Terézia, SR		0	425,430
+411	Horváthová Lucia r. Kiácsová	matka Alžbeta Kiácsová r. Csuziová	0	523
+411	Húsvéth Jozef		0	394
+411	Jáger Eugen		0	494
+411	Jágerová Aranka r. Soósová, SR		0	494
+411	Jalkóczy František		0	594
+411	Kalinová Alžbeta r.Seňanová, Bratislava ,Kvačalová 14		0	472
+411	Kiács Július		0	424,580
+411	Kiácsová Juliana		0	424,580
+411	Kiácsová Mária		0	424,580
+411	Kulács Alexander		0	463
+411	Kulács Jozef		0	463
+411	Kulács Ľudovít		0	463
+411	Kulácsová Juliana		0	463
+411	Méhes Vavrinec r. Méhes a Juliana r. Andrássyová		0	348
+411	Méhes Viktor		0	394
+411	Mikuš Ladislav		0	419
+411	Molnár Karol		0	465
+411	Molnár Karol	manželka Terézia r. Jurányiová	0	506
+411	Molnár Michal		0	474
+411	Molnárová Mária		0	469
+411	Nagyová Mária r.Jágerová		0	400
+411	Paraszthyová Cecília r. Pósfayová, SR		0	452
+411	Prém Alexander		0	438
+411	Prém Ladislav		0	438
+411	Prém Štefan		0	438
+411	Prémová Gizela		0	438
+411	Prémová Helena		0	438
+411	Prémová Mária		0	438
+411	Prémová Rozália		0	438
+411	Presserová Mária r. Sághyová		0	431,435,437
+411	Ráczová Mária r. Kiácsová	matka Alžbeta Kiácsová r. Csuziová	0	523
+411	Sághy Július		0	431,435,437,483,485
+411	Sághy Ladislav		0	483,485
+411	Sághy Ľudovít		0	431,435,437,465,483,485
+411	Sághy Mehyhárt		0	478
+411	Sághy Rudolf		0	431,435,437,483,485
+411	Sághyová Helena		0	483,485
+411	Sághyová Julianna		0	468
+411	Sághyová Julianna r.Sághyová		0	449
+411	Sághyová Katarína		0	436
+411	Sághyová Mária r.Molnárová		0	478
+411	Sándorová Juliana r. Földesová	otec Földes Juraj	0	432
+411	Semešová Alžbeta r. Kardošová		0	506
+411	Takácsová Júlia r.Cséfalvayová		0	427
+411	Tésiová Anna r.Lengyelová		0	467
+411	Tóth Boldizsár r. Tóth, SR		0	451
+411	Tóth Gáspár r. Tóth, SR		0	451
+411	Tóth Vendelín	manželka Tóthová Paula	0	596
+411	Tóthová Paula	manžel Tóth Vendelín	0	596
+411	Vida Ladislav		0	436
+411	Vida Vojtech		0	436
+411	Vidová Helena		0	436
+412	Blašková Etela, SR		1	323
+412	Blašková Otília r. Stiskalová, SR		1	323
+412	Bukovanová Rudolfína	Čuklasovce 53	1	26
+412	Dolejšová Anna r. Petríková, SR		1	228,229
+412	Ďurmek Adam, SR	kúpa aj Jozef, Emil	1	288
+412	Ďurmek Ján, SR	žena Mária r. Masaryková	1	152
+412	Etlerová Mária r. Mihalová, SR	Anna	1	234
+412	Filo Jozef, SR	č. 22	1	226
+412	Filová Alžbeta r. Pražencová, SR	č. 31	1	242,255,279,318
+412	Filová Juliana r. Margulienová, SR		1	107,108,109,113,114,115,240,252,286
+412	Filová Mária r. Mihalová, SR		1	274
+412	Filová Mária r. Šaturová, SR		1	239
+412	Filová Zuzana r. Kopecká, SR		1	250
+412	Gýmešová Anna r. Filová, SR		1	270
+412	Holbay Juraj, SR	Mária, Anna, Helena, Ján, Jozef, Michal, Anton	1	222,267,367
+412	Holbayová Helena, SR	Mária, Anna, Juraj, Ján, Jozef, Michal, Anton	1	222,267,367
+412	Hrabošová Mária r. Filová, SR		1	107,109,110,111,281,286
+412	Jánošík Jozef, SR		1	152,268,310,325
+412	Jánošík Jozef, SR	vzdialený, Halačovce	1	152,268,325
+412	Marušincová Paula r. Filová, SR		1	107,110,240,270,271,286
+412	Masaryk Ján, SR	Mária	1	320
+412	Masaryková Mária r. Filová, SR SPF		1	320
+412	Masaryková Mária, SR	Anna, Ján	1	320
+412	Mihál Jozef, SR		1	189,205,226
+412	Mihál Jozef, SR	LSR	0	206
+412	Mihal Ľudevít	Čuklasovce 40, po Júlii Mihálovej r. Škerdovej	1	289
+412	Mihal Viliam, SR	Hedviga, Mária	1	152,205,258,293
+412	Mihal Viliam, SR	Hedviga, Mária; LSR	0	206,294
+412	Mihálech Aladár, s.č. 56, Čuklasovce, PSČ 956 54, SR	žena Mária r. Mihalechová	1	152
+412	Mihálech Anton, SR	v Amerike	1	152,157,231
+412	Mihálech Jozef, SR	čd 722/1927, č. 17	1	152,249,278
+412	Mihálech Jozef, SR	žena Anna r. Mihalechová	1	152,155,265
+412	Mihálech Jozef, SR	žena Justína r. Kyselicová, č. 10	1	263
+412	Mihálech Viktor, s.č. 95, Dolné Držkovce, PSČ 956 54, SR		1	152
+412	Mihálechová Anna r. Filová, SR		1	157
+412	Mihálechová Anna r. Holbayová, SR	Mária, Juraj, Helena, Ján, Jozef, Michal, Anton	1	222,267,367
+412	Mihalová Anna, SR	nezvestná, Mária Etlerová	1	234
+412	Mihalová Júlia r. Škerdová, SR		1	226
+412	Mihalová Margita r. Pavlovičová	Čuklasovce 31, vd	1	223
+412	Mihalová Mária, SR	Hedviga, Viliam	1	152,205,206,258,293,294
+412	Michalechová Augustína r. Kyselicová	Bobot 94	1	221
+412	Mitáčová Mária r. Úkosová	Zákoutí 83, Zákupy, ČR	1	219,220
+412	Mucha Ján, SR	kúpa od Júlie Muchovej r. Filovej	1	315
+412	Mucha Ján, SR	po Juliane r. Filovej	1	58,152,198,213
+412	Mucha Jozef		1	26
+412	Mucha Jozef, SR	po Juliane r. Filovej	1	58,152,198,213
+412	Muchová Juliana r. Filová, s.č. 132, Horňany, PSČ 913 24, SR		1	58
+412	Muchová Mária r. Filová	Čuklasovce 43	1	232
+412	Novota Jozef, SR	Štefan, Emília	1	314
+412	Novota Štefan, SR	Jozef, Emília	1	314,323
+412	Novotková Mária r. Petríková, SR	č. 29	1	129,201,238
+412	Novotková Mária r. Petríková, SR	č.29; LSR	0	307
+412	Novotová Emília, SR	Štefan, Jozef	1	314
+412	Petrík Anton, SR	č.15	1	152
+412	Petrík František, SR	č. 15	1	152
+412	Petrík František, SR	Jozef, Ján, Anton, František, Anna Slivová	1	228,229
+412	Petrík Ján, SR		1	152,238
+412	Petrík Ján, SR	č. 15	1	129,152,201,307
+412	Petrík Jozef, SR	čd 1649/1936	1	129,201
+412	Petrík Jozef, SR	čd 1649/1936; LSR	0	307
+412	Petrík Jozef, SR	žena Jozefína r. Malcevá č. 5	1	129,201,238
+412	Petrík Jozef, SR	žena Jozefína r. Malcevá č. 5; LSR	0	307
+412	Petrík Jozef, SR	žena Mária r. Petríková č. 15	1	152
+412	Petrík Peter, SR	č. 5; LSR	0	307
+412	Petrík Peter, SR	č.5	1	129,201,238
+412	Petrík Peter, SR	čd 1649/1936	1	129,201
+412	Petrík Peter, SR	čd 1649/1936; LSR	0	307
+412	Petrík Štefan, SR	čd 1649/1936	1	201
+412	Petrík Štefan, SR	čd 1649/1936; LSR	0	307
+412	Petrík Štefan, SR	čd 900/1944	1	129
+412	Petrík Štefan, SR	žena Terézia r. Malcevá č. 44	1	238
+412	Petríková Anna, SR	č. 15	1	152,228
+412	Prausová Žofia r. Bukovanová	Olomoucká 61, Štrenberk ČR	1	26
+412	Rédekyová Anna r. Rédekyová, SR	brat Emil	1	244
+412	Scheer Jozef, SR	žena Helena r. Filová	1	308
+412	Scheer Leopold, SR	Ján	1	323
+412	Snopek Štefan	ž. Margita r. Mihalová, Zákolany 3, ČR	1	223,224
+412	Snopek Štefan, SR	žena Augustína r. Priečínská	1	210
+412	Snopek Štefan, SR	žena Margita r. Mihalová, 3, 273 28 Zákolany	1	210
+412	Snopek Teodor	Horné Držkovce	1	209,211
+412	Snopek Vladimír	Čuklasovce 5, ž. Emília r. Sokolíková	1	209,211
+412	Snopeková Augustína r. Priečínska	Čuklasovce 3, vd	1	209,211
+412	Snopeková Augustína r. Priečínska, s.č. 3, Čuklasovce, PSČ 956 54, SR	vd	1	210
+412	Snopeková Barbora r. Rédekyiová, s.č. 130, Horné Držkovce, PSČ 956 54, SR		1	316,317,322
+412	Snopeková Margita r. Mihálová	Zákolany 3, ČR	1	223,225
+412	Snopeková Margita r. Mihálová, s.č. 3, Zákolany, PSČ 273 28, ČR		1	210
+412	Strieženec Ján, SR	Juliana, Anna, Mária, Štefan	1	152
+412	Strieženec Štefan, SR	žena Paulína r. Mihalová	1	152,249,278
+412	Šanková Anna r. Adamcová, SR		1	129,201
+412	Šanková Anna r. Adamcová, SR	LSR	0	307
+412	Šebová Mária r. Holbayová, SR		1	222,267,367
+412	Varéniová Anna, SR	Štefan, Ilona, Jozef, Ján	1	323
+412	Varényi Štefan, SR	Ján, Anna, Ilona, Jozef	1	314,323
+412	Varényi Štefan, SR	Ján, Jozef	1	323
+412	Varényiová Ilona, SR	Štefan, Anna, Jozef, Alžbeta	1	323
+413			0	1315,1330,1335
+413	BABICH František	II	1	1077

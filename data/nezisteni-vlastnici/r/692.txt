@@ -1,0 +1,256 @@
+400	MÁRYOVÁ Žofia	rod.Vorošová	1	1097
+400	MATUŠKA Ľudovít	m.Matilda rod.Imreová	1	451
+400	MATUŠKOVÁ Alžbeta	r.Mesárošová	1	269,500,770,1110,1229
+400	MEŇHÉRTOVÁ Rozália	rod.Ješková	1	1076
+400	MENKÜOVÁ Františka	r.Kováčová	1	1141
+400	MÉSÁROŠ Lukáč		1	1121
+400	MÉSÁROŠOVÁ Mária		1	1121
+400	MESZÁROŠ Blažej		1	1214
+400	MIHÁLKA František		1	1089
+400	MIHÁLKA Július		1	1089,1148
+400	MIHÁLKA Ľudovít		1	1155
+400	MIHALKOVÁ Rozália	rod.Sabová, vd	1	1193
+400	MIHÁLKOVÁ Terézia	rod.Tothová	1	617,1169,1427
+400	MOKOŠ Ján	neb	1	717
+400	MOKOŠ Viliam	m.Rozália rod. Luleyová	1	1154
+400	MOKOŠOVÁ Rozália	rod.Hajpálová, vd	1	1143
+400	MOLNÁROVÁ Mária	rod.Sabová, m.Ján	1	1069
+400	NÁDAŽDY Ladislav		1	852
+400	NÁDAŽDY Rozália	r.Hamarová zom.5.01.1981	1	852,1230
+400	NÁDAŽDY Rozália r. Hamarová	zom.5.1.1981	1	590,1074
+400	NAGY Jonáš		1	1149
+400	NAGY Július	neb	1	1144
+400	NAGY Karol		1	1107
+400	NAGY Štefan		1	617,1427
+400	NAGY Viliam		1	1120
+400	NAGYOVÁ Estera	rod.Bokrošová, vd	1	1088
+400	NAGYOVÁ Estera	rod.Orságová, vd	1	1120
+400	NAGYOVÁ Etela	rod.Lénartová	1	1149
+400	NAGYOVÁ Helena	rod.Bokrošová	1	1107
+400	NAGYOVÁ Irena	rod.Mihalková	1	617,1427
+400	NAGYOVÁ Vilma	rod.Cúdorová	1	1124
+400	NÉMET Ambroz	neb	1	851
+400	NÉMETOVÁ Veronika	neb., rod.Aghová	1	851
+400	NOVÁ Alžbeta	rod.Koššiová	1	1047
+400	OBERTOVÁ Pavlína	rod.Bošiová, m.Ľudovít	1	1109
+400	ORSÁGHOVÁ Helena	rod.Pustá, m.Jozef	1	754
+400	OTASOVÁ Mária	rod.Gécziová, m.Michal	1	685,1415
+400	PÁLENÍK Ondrej	m.Gizela rod.Fiktusová	1	617,1181,1427
+400	PALUŠKOVÁ Helena	rod.Šípošová	1	1071
+400	PASTIEROVIČ Emil		1	617,664,1427
+400	PASTIEROVIČ Ján	m.Mária rod.Obertová	1	617,1427
+400	PATIOVÁ Matilda	rod.Matúšková	1	451,1051,1244
+400	PETRÁŠ Štefan	m.Mária rod.Vipertová	1	1247
+400	PETROVIČ František		1	1072
+400	PETROVIČ Ján		1	1072
+400	PETROVIČ Ľudovít	neb., m.Irena rod.Počová	1	1072,1216
+400	PETROVIČ Ľudovít, Kpt.Nálepku 20/76, Zvolen, SR		1	383
+400	PETROVIČ Peter		1	1190
+400	PROČKOVÁ Mária	r.Oťapková	1	847
+400	PRONAY Július		1	617,1427
+400	PRONAYOVÁ Alžbeta	rod.Legová	1	617,1427
+400	PUKANOVÁ Estera	rod.Mikesová	1	1057
+400	PUKENOVÁ Jolana	rod.Cúdorová	1	1157
+400	PUSTÁ Helena	rod.Orsághová, m.Jozef	1	753
+400	PUSTÝ Ján	ml. Koháryho 28, Levice	1	535,754
+400	PUSTÝ Ľudovít	Vráble	1	535,754,1217
+400	PUSTÝ Štefan		1	258,534,535,753,754
+400	REHÁKOVÁ Estera		1	1067
+400	SABO Jonáš	m.Rozália rod.Cúdorová	1	1092
+400	SABO Ondrej	m.Rozália rod.Kišová	1	1118
+400	SALABOVÁ Katarína	vd., rod.Domjanová	1	1199
+400	SEKEREŠOVÁ Alžbeta	r.Petrašová	1	981
+400	STANO Viliam	m.Rozália rod.Ferencová,Telince	1	1038
+400	STRUHÁR Karol	m.Katarína rod.Králová	1	1180
+400	STRUHÁR Martin	m.Emília rod.Horná	1	1180
+400	SZENTKERESZTIOVÁ Helena	rod.Imreová	1	990
+400	SZORAD Juraj		1	984
+400	ŠÍPOŠ Jozef	m.Helena rod.Závodská	1	1071
+400	ŠTYRI Štefan		1	594
+400	TOTH Július		1	1154
+400	VÁŇA Ján	m.Anna rod.Husárová	1	617,1427
+400	VÁŇA Ondrej	m.Agnesa rod.Janáková	1	617,1090,1427
+400	VARGOVÁ Emerencia	rod.Košiová	1	1116
+400	VLADÁROVÁ Jolana	rod.Kováčová	1	823,824
+400	VYČÍTALOVÁ Mária	rod.Páleníková	1	1165
+400	ZBORIL František		1	1199,1235
+400	ZBORIL Jozef		1	1199,1235
+400	ZIMA Július	m.Jolana rod.Raková	1	202
+400	ZOLYOMI Ján	Malé Kozmalovce	1	1131
+401	Ambrusová Gizela r.Mészárosová		1	1450
+401	Bugárová Anna r.Nagyová		1	1405
+401	Farkas Ján		1	1450
+401	Gottlicherová Júlia r.Fűlöpová		1	1445
+401	Hancz Alexander r. Hancz, SR		0	1397
+401	Herczog František		1	1450
+401	Kálmán František		1	1450
+401	Kálmán Jozef		0	1421
+401	Kálmánová Barbora r.Hanczová		1	1450
+401	Kocsis Karol		1	1411
+401	Kocsis Karol, SR		0	1518
+401	Kőszeghyová Alžbeta r.Mészárosová		1	1450
+401	Kovács František		1	1427,1473
+401	Kovács Jozef		1	1427,1473
+401	Kovács Ľudovit František		1	1449,1450
+401	Kovács Michal		1	1449
+401	Kovácsová Alžbeta r.Horváthová		1	1450
+401	Kovácsová Alžbeta r.Nagyová		1	1450
+401	Kovácsová Anna r.Sebestyénová		1	1450
+401	Kovácsová Margita		1	1427
+401	Kovácsová Margita r.Duduczová		1	1450
+401	Marczová Alojzia		1	1432
+401	Méryová Rozália r.Duduczová		1	1412
+401	Mészáros František		1	1450
+401	Mezzei Ján		1	1450
+401	Molnár Dezider		1	1412
+401	Molnár Ján		1	1418
+401	Molnár Karol		1	1412
+401	Nagy Michal		1	1450
+401	Nagyová Júliana r.Földesová		1	1450
+401	Németh Ján		1	1450
+401	Németh Ondrej		1	1450
+401	Némethová Júlia r.Bugárová		1	1405
+401	Panda Karol		1	1450
+401	Panda Viktor		1	1450
+401	Rabayová Rozália		1	1450
+401	Reicher František		1	1450
+401	Reicherová Lucza r.Szieglová		1	1450
+401	Sándor Ján		1	1427,1473
+401	Sándorová Mária r.Galambosová		1	1427,1473
+401	Smolárová Mária r.Markotánová		0	1390
+401	SR Onv Dunajská Streda		1	1397
+401	Stern Alfréd		1	1450
+401	Takácsová Rozália r.Hanczová		1	1403
+401	Varga František		1	1432
+401	Varga Imrich		1	1435
+401	Vida Jozef		1	1450
+401	Vida Ľudovit		1	1450
+401	Vidaová Helena		1	1450
+402	Ábrahám Július		0	680,681
+402	Ábrahámová Janka r. Révészová		0	598
+402	Andaová Lídia r. Bíróová		0	544
+402	Bartosová Estera r. Vízváriová		0	642,812,1084
+402	Beke Július		0	647,755
+402	Beke Koloman		0	755
+402	Beke Koloman	bytom v Elewechanote; bytom v Elewechanote	0	1076,1412
+402	Bekeová Elena r. Füssyová		0	735
+402	Bekeová Johana		0	642
+402	Bekeová Johanna		0	1084
+402	Bekeová Jolana		0	812
+402	Bekeová Juliana		0	642
+402	Bekeová Juliana	mal. v r.1936	0	1084
+402	Bekeová Julianna		0	812
+402	Bekeová Zuzana		0	642,812
+402	Bekeová Zuzana	mal. v r.1936	0	1084
+402	Bíró Karol		0	477
+402	Bíró Károly		0	544
+402	Bíró Móric		0	926
+402	Bíróová Agneša r. Vidaová		0	659
+402	Bíróová Lýdia		0	659,926
+402	Bíróová Mária		0	544
+402	Bíróová Rozália		0	659,926
+402	Blažek Jakub	m.Františka	0	1284
+402	Blažeková Františka	m.Jakub	0	1284
+402	Blažeková Mária r. Fronková	m.Martin	0	1284
+402	Bögi Dezider		0	656
+402	Bögi Gejza		0	656
+402	Bögi Ján		0	700
+402	Bögiová Helena		0	656
+402	Bögiová Juliana		0	656
+402	Bögiová Julianna		0	689
+402	Bögiová Karolína r. Zsidóová		0	1082
+402	Both Martin		0	494,495,895
+402	Both Vilma		0	495,895
+402	Both Vincent		0	495
+402	Bothová Vilma		0	494,495,895
+402	Burián Ľudovít		0	885
+402	Csicsai František		0	678,698
+402	Csicsai Ignácz		0	648
+402	Csicsai Karol		0	648,657
+402	Csicsai Móricz		0	645,751
+402	Csicsai Peter		0	648,657
+402	Csicsai Štefan		0	648,657
+402	Csicsaiová Alžbeta		0	648,657
+402	Csicsaiová Irma		0	645,751
+402	Csicsayová Irena		0	515,516,655
+402	Csicsayová Karolína r. Lelkesová		0	566,567,1237,1406
+402	Csicsayová Margita		0	515,516,655
+402	Csikász Alexander	Čiližská Radvaň 84, zomr	0	1113
+402	Csíkászová Juliana r. Györösová		0	723
+402	Černoch Rudolf		0	1310
+402	Černochová Anna		0	1297
+402	Dékányová Johanna		0	667
+402	Diószegi Koloman		0	671
+402	Diószegi Ľudovít		0	671
+402	Diószegi Michal		0	671
+402	Diószegiová Estera		0	671
+402	Diószegiová Janka		0	669
+402	Diószegiová Julia r. Bögiová		0	670
+402	Diószegiová Julianna r. Bögiová		0	689
+402	Diószegiová Terézia		0	671
+402	Dobronyiová Katarína		0	720
+402	Duborská Gizela r. Grafelová	vdova	0	1102
+402	Duborská Terézia	mal.v r.1943	0	1102
+402	Duborski Imrich	mal. v r.1943	0	1102
+402	Duborski Jozef	mal. v r.1943	0	1102
+402	Duborszki Imrich		0	665
+402	Duborszki Jozef		0	665
+402	Duborszkiová Gizella		0	665
+402	Duborszkiová Terézia		0	665
+402	Eőzseová Karolína		0	577
+402	Erdélyiová Rozália r.Takácsová		0	646
+402	Esztergályos Ján	ž. Etela r. Módová, Dunajská Streda	0	1071
+402	Esztergályosová Júlia r. Módová	Dunajská Streda	0	1071
+402	Feketeová Irma r. Sebőová		0	130
+402	Ferenc Augustín	ž.Juliana r.Šipošová	0	470
+402	Ferencz Ernest	mal. v r.1932	0	470
+402	Ferencz Jozef	mal. v r.1932	0	470
+402	Gaál Michal		0	605
+402	Gaál Rezső		0	548
+402	Gaálová Jolana r. Milkovicsová	m.Dezider	0	1095
+402	Gaálová Katarína		0	598
+402	Gregorovičová Alžbeta r. Simonová		0	679
+402	Győriová Rozália r. Szabóová		0	555
+402	Horváthová Anna r. Lelkesová		0	703
+402	Horváthová Dina r. Lelkesová		0	558
+402	Horváthová Leopoldína		0	529,534
+402	Horváthová Leopoldína r. Lelkesová		0	526
+402	Huszár Benedikt		0	646
+402	Huszár Móricz		0	646
+402	Jádiová Margita r. Bögiová		0	661,1407
+402	Jády Karol		0	577,782
+402	Jádyová Etela r. Makóová		0	575
+402	Józsaová Alžbeta r. Csicsaiová		0	648
+402	Józsaová Julianna r. Bothová		0	895
+402	Józsaová Julianna r.Bothová		0	494,495
+402	Kaczová Katarína r. Bíróová		0	544
+402	Karácsonyiová Mária		0	721
+402	Karácsonyová Karolína r. Simonová		0	679
+402	Keszeg Ján		0	565
+402	Keszeghová Estera r. Szabóová		0	691,758
+402	Keszeghová Klára		0	691,758
+402	Keszegová Gizella r. Lantódiová		0	741
+402	Kissová Irma		0	613
+402	Kissová Judita		0	694
+402	Kissová Justina r. Szabóová		0	680,681,821
+402	Kollárová Mária r. Csicsaiová		0	645,751
+402	Komárňanska - Korunová Banka		0	546,547,1420
+402	Kovács Hynek		0	684
+402	Kovácsová Elena r. Csicsayová		0	515,516,655
+402	Kovácsová Etela r. Olláriová		0	799
+402	Kovácsová Janka r. Diószegiová		0	669
+402	Lantódiová Estera r. Kálmánová		0	741
+402	Lelkes Jozef		0	680,681,821
+402	Lelkes Peter		0	703
+402	Lelkesová Dina		0	557
+402	Lelkesová Helena		0	567,680,681,821,1237
+402	Lelkesová Irma		0	680,681,821
+402	Lelkesová Rozália r. Szombathyová		0	694
+402	Lelkesová Terézia		0	680,681,821
+402	Lelkesová Žofia		0	680,681,821
+402	Lengyelová Justína r.Bothová		0	494,495,895
+402	Makó Ľudovít		0	730
+402	Makóová Estera		0	730
+402	Mészáros Rudolf		0	759
+402	Mészáros Rudolf	mal. v r.1938	0	1103
+402	Mészárosová Gizella		0	759

@@ -1,0 +1,256 @@
+3008	Hlaváčová Žofia		0	348
+3008	Horka Vendelín		1	471
+3008	Hrenák Jozef		0	348
+3008	Jakúbeková Mária r. Majtánová		0	345
+3008	JRD Tŕstie, 018 21, Dolný Lieskov, SR		0	490
+3008	Kačíková Anna r. Tomášechová		0	345
+3008	Kardoš Ján		0	303
+3008	Kolek Juraj	ž.Margita Ďurovská	0	346
+3008	Koleková Mária r. Tordová, Horný Moštenec 145, Považská Bystrica, PSČ 017 01, SR		0	345
+3008	Krištof Jozef		0	345
+3008	Kucharík Filip		1	305,326,480
+3008	Kucharík Jozef		1	480
+3008	Kucharíkova Anna		0	265,564,583,593,601,602
+3008	Lukáčová Anna r. Majtánová, Zvolenská 1/8, Martin, PSČ 036 01, SR	R13.7.1944	0	346
+3008	Majtán Martin		0	345
+3008	Majtán Pavol		0	346
+3008	Martinka Jozef		0	264,285,308,319,588
+3008	Martinková Agnesa		0	264,285,308,319,588
+3008	Martinková Kamila		1	491
+3008	Mesiar Ján		0	309
+3008	Mesiarová Anna		1	518
+3008	Mesiarová Mária		1	309,518
+3008	Michálek Ján	R03.10.1998 ž Mária Gločka	0	348
+3008	Mikulcová Anna		1	480
+3008	Mikulcová Anna r. Stopková		0	246
+3008	Mikulcová Maria		1	480
+3008	Mikulec Ján		0	246,314
+3008	Minárčin Štefan		0	275
+3008	Minárčinová Mária r. Borišincová		0	275
+3008	Obešlová Mária	r Fandrová, nar. 05.08.1894	0	434
+3008	Obešlová Mária	R05.8.1994 r Fandrová	0	240
+3008	Olšovská Anna	r Pružincova	1	485
+3008	Olšovská Anna r. Pružincová		0	261
+3008	Pastieriková Anna r. Borišincová		0	274
+3008	Pavlicová Margita r. Krištofová		0	345
+3008	Pavlicová Mária r. Krištofová		0	345
+3008	Pavlík Augustín r. Pavlík, 031 01, Smrečany, SR	Ústav SSD	0	346
+3008	Pavlík Augustín, 031 01, Smrečany, SR	Ústav SSD	0	345
+3008	Pavlík Pavol r. Pavlík, 018 22, Podskalie, č. 1, SR		0	345
+3008	Pavlík Pavol, 1, 018 22 Podskalie		0	346
+3008	Pavlík Rudolf r. Pavlík, Športovcov 1285/2, Dubnica nad Váhom, PSČ 018 41, SR		0	345,346
+3008	Pružincová Katarína		0	539,546,565,604
+3008	Pružincová Katarína	r Borišincová	1	464,517,521
+3008	Pružincová Katarína r. Borišincová		0	290,307,331,334,584
+3008	Pružincová Mária		1	261,485
+3008	Pružincová Mária r. Ďurovská		0	272
+3008	Pružinec Ján		1	261,485
+3008	Pružinec Klement		0	272
+3008	Pružinec Ondrej		1	261,485
+3008	Pružinec Peter		1	261,485
+3008	Pružinec Štefan		1	261,485
+3008	Svitková Anna	r Hromadová	1	519,532
+3008	Svitková Anna r. Hromadová		0	256
+3008	Tomašechová Katarína r. Vavrušková		0	345
+3008	Tordo Karol		0	345
+3008	Tordo Štefan		0	345
+3008	Trník Pavol		0	345
+3008	Trníková Žofia r. Hromadová		0	345
+3008	Vavruška Tomáš		0	345
+3008	Vavrušková Mária r. Tomášková		0	345
+3008	Velič Adam		0	345
+3008	Velič Jozef		0	345
+3008	Velič Viktor	ž Emília Kurucová	0	345,346
+3008	Veličová Magdaléna r. Zábovská		0	345
+3008	Veličová Verona r. Vicenová, 018 22, Podskalie, č. 77, SR	R08.6.1895	0	346
+3008	Vicenová Mária	r Nemcová	0	346
+3008	Zelenák Štefan		0	304
+3008	Zelenáková Jozefína	r Kurucová, nar 29031897	0	304
+3009	ADAMOVIČ Ján		1	2094
+3009	Anetta Alojz		1	1613
+3009	Anetta Augustín		1	1613
+3009	ANETTA František		1	1974,2088,2610
+3009	Anetta Imrich		1	1613
+3009	ANETTA Ján		1	1709
+3009	ANETTA Jozef		1	1710,1974,2088,2610
+3009	ANETTA Pavol		1	1710,1974,2088,2610
+3009	Anettová Mária		1	1613
+3009	Anettová Zuzana		1	1613
+3009	BALÁŽIK František	28.1.1931,zomrel	1	1427
+3009	BALAŽOVIČ Ján		1	296,2525
+3009	BALAŽOVIČ Ján	žena Mária Petrovičová	1	296,2525
+3009	BALAŽOVIČ Juraj		1	296,2525
+3009	BALAŽOVIČ Mikuláš		1	2224
+3009	BALAŽOVIČOVÁ Anna		1	296,2525
+3009	BALAŽOVIČOVÁ Margita		1	296,2525
+3009	BALAŽOVIČOVÁ Mária	r.Hečková	1	2024
+3009	BALAŽOVIČOVÁ Mária	r.Petrovičová	1	204
+3009	BALAŽOVIČOVÁ Mária r. Hečková		1	2247
+3009	BALAŽOVIČOVÁ Mária r. Petrovičová		0	203
+3009	Balažovičová Mária r. Poturnayová		1	2001
+3009	BATALA Ján		1	446,2217
+3009	BATALOVÁ Karolína r.Pastuchová		1	446
+3009	BATALOVÁ Pavlína		1	446,2217
+3009	Benovič František	zomrel	0	409
+3009	BENOVIČ Jozef		1	2078
+3009	Benovič Štefan a Emília Benovičová r. Gongláková		0	2183
+3009	BLAS Michal		0	143
+3009	BLASZOVÁ Hanna /r.Rozenáková/ - /SPF/		1	217
+3009	BLASZOVÁ Regina /r.Rozináková/ - /SPF/		1	217
+3009	BLAŠKOVÁ Cecília	r.Petrovičová	1	204
+3009	BLAŠKOVÁ Cecília r. Petrovičová		0	203
+3009	BLAŠKOVIČ František		1	2170
+3009	BLAŽEKOVÁ Mária	r.Zuščáková	1	588,2088,2610
+3009	BLAŽO Július		1	2245
+3009	BLAŽOVÁ Mária		1	860,1420,1421,1422,1713,1753,1755,1811,2464
+3009	BLAŽOVÁ Mária	r.Jurišičová	1	860,1420,1421,1422,1713,1753,1755,1811,2464
+3009	BLÁŽOVÁ Mária /r.Jurišičová/ - /SPF/		1	1500,1502,1752,1754,1816
+3009	BLAŽOVÁ Mária /r.Jurišičová/- /SPF/		1	1501
+3009	BLÁŽOVÁ Mária /SPF/		1	1500,1501,1502,1752,1754,1816
+3009	BLAŽOVÁ Terézia r. Palkovičová		1	2245
+3009	BORČICKÁ Mária	r.Kotúčová	1	734
+3009	BORČICKÁ Mária r. Kotúčová		1	628,2088,2610
+3009	BOTTA Ján a Mária BOTTOVÁ r. Lenoráková, Trstín, č. 150, SR		0	2200
+3009	BOTTOVÁ Anna		1	354,1082,1083
+3009	BOTTOVÁ Anna	r.Demitrovičová	1	1083
+3009	BOTTOVÁ Anna /SPF/		1	353
+3009	BOTTOVÁ Margita		1	354,1082,1083
+3009	BOTTOVÁ Margita /SPF/		1	353
+3009	BRLÍKOVÁ Mária r. Drobná		1	1124
+3009	BURGHARDT Jozef		0	63
+3009	BURGHARDT Lenhard		0	63
+3009	BURGHARDT Michal		0	63
+3009	BURGHARDT Štefan		0	63
+3009	BURINA Jozef		1	595
+3009	BURINA Karol		1	595
+3009	BURINA Michal		1	595
+3009	CÁDER Ján		1	2088,2610
+3009	CÁDER Ján, SR		1	798,2416
+3009	CÁDER Štefan		1	2088,2610
+3009	CÁDEROVÁ Anastázia	r.Zuzčáková,nar.3.5.1923 zomr.18.3.1982	1	2088,2610
+3009	Cáderová Terézia r. Hettešová, 919 05, Trstín, č. 4, SR	zomrela 12.12.1978	0	1490,2088,2417,2610
+3009	CÍBIK Ján a Alžbeta CÍBIKOVÁ r. Opáleková, Trstín, č. 42, SR		0	2152
+3009	ČAVOJSKÁ Zuzana	r.Grečová	1	384,387
+3009	ČECHOVÁ Mária	r.Holkovičová	1	2088,2610
+3009	ČERNÚŠEK František		1	1480,1524,1525,2088,2610
+3009	ČERNÚŠEK František, SR		1	2389
+3009	DANIŠ František		1	1448,1851
+3009	DANIŠ František	žena Agneša r.Širancová	1	1312,1446,1447,1449,1450
+3009	DANIŠ František	žena Agneša Širancová	0	2082
+3009	DANIŠ František	žena Terézia r. Holúbeková	1	2223
+3009	DANIŠ František /SPF/		1	1850
+3009	DANIŠ Jozef	I	1	2049,2088,2610
+3009	DANIŠ Jozef, SR		1	1312
+3009	DANIŠ Michal	Trstín č.s.65	1	1971,2054,2088,2107,2610
+3009	DANIŠ Michal	žena Anna r. Indrišková	1	2054,2107
+3009	DANIŠ Michal	žena Anna r.Indrišková	1	2108
+3009	DANIŠ Vojtech		1	2083
+3009	DANIŠOVÁ Cecília, SR		1	1449
+3009	DETKO František	žena Mária r. Olšovská	1	2233
+3009	DETKO František /SPF/		1	38
+3009	Detko František a Ľudmila Detková r. Detková		0	2132
+3009	Detko František a Mária Detková r. Olšovská		0	38
+3009	DETKO Juraj a Agneša DETKOVÁ r. Suchánová, Trstín, č. 189, SR		0	2135
+3009	Dobrovodský Ondrej, 919 05, Trstín, č. 73, SR	m.Pavlína, zomrel 18.4.1974	0	2206
+3009	Dohan Maximilián		1	1874,2008
+3009	DROBNÁ Anastázia		1	2088,2610
+3009	DROBNÁ Anna		1	334,704,706,785,786,903,1042,1074,1973,2040,2088,2229,2610
+3009	DROBNÁ Anna - /SPF/		1	344,1160
+3009	Drobná Anna r. Beníková	USA	1	1124
+3009	Drobná Anna r. Tomašovičová		1	2005
+3009	DROBNÁ Apolónia	r.Poturnayová	1	1047
+3009	Drobná Apolónia r. Poturnayová		1	2004
+3009	DROBNÁ Etela		1	988,2554
+3009	DROBNÁ Jozefína		1	334,704,706,903,1042,1074,1973,2040,2088,2229,2610
+3009	DROBNÁ Jozefína - /SPF/		1	344
+3009	DROBNÁ Mária		1	1122,2088,2305,2610
+3009	DROBNÁ Terézia		1	334,903,1042,2088,2229,2610
+3009	DROBNÁ Terézia - /SPF/		1	344,1160
+3009	Drobný Ambróz a Alžbeta Drobná r. Gregušová		0	2147
+3009	DROBNÝ Anastázius		1	2088,2610
+3009	DROBNÝ Imrich		1	334,704,706,903,1042,1074,1973,1983,2005,2040,2088,2229,2610
+3009	DROBNÝ Imrich - /SPF/		1	344,1160
+3009	Drobný Ján	zomr.7.3.1970	1	704,706,2040
+3009	Drobný Ján	zomr.7.3.1970 | nar.,zomr. |; ,zomr.7.3.1970	1	2088,2610
+3009	Drobný Ján	zomr.7.3.1970, nar. 4.11.1882	1	1042
+3009	DROBNÝ Ján	I	1	903,1973,2088,2610
+3009	DROBNÝ Ján	nar.4.11.1882,zomr.7.3.1970	1	1074,1973,2004,2229
+3009	DROBNÝ Ján /zomrel 7.3.1970/ - /SPF/		1	1160
+3009	DROBNÝ Jozef r. Suchanová	žena Anastázia	1	1960,2088,2610
+3009	DROBNÝ Michal		1	438,442,2425,2479,2550,2553,2563
+3009	DROBNÝ Ondrej		1	594,1341,2088,2610,2700,2767
+3009	DROBNÝ Viktor - /SPF/		1	41
+3009	ĎURIŠOVÁ Mária	r.Danišová I	1	1312,1446,1447,1448,1449,1450,2082
+3009	ENGELOVÁ Hermína /r.Rozenáková/ - /SPF/		1	217
+3009	ENGELOVÁ Hermína r.Rozenáková		0	1263
+3009	FANČOVIČ Štefan		1	2051
+3009	FARKAŠOVÁ Hermína	r.Wernerová	1	1265
+3009	FEDOR Mihály		1	2088,2610
+3009	FILIPOVIČ Michal	žena Mária r. Izakovičová	1	1933
+3009	FILIPOVIČ Michal r. Izakovičová	žena Mária	1	2088,2610
+3009	FRIDRICH František		1	264,422,616,767,2088,2610,2702,2753
+3009	FRIDRICH Jozef		1	265,422,616,767,2088,2610,2753
+3009	FRIDRICH Michal	žena Anna r.Rumaneková	1	1674
+3009	FRIDRICH Michal	žena Anna Rumaneková	1	264,2702
+3009	FRIDRICH Michal r. Rumaneková	žena Anna	1	2088,2610
+3009	FRIDRICHOVÁ Anna		1	264,2088,2119,2610,2702
+3009	FRIDRICHOVÁ Anna	r.Srnková	1	1476,1972,1990,2088,2610
+3009	FRIDRICHOVÁ Anna /r.Srnková/, /SPF/		1	1157
+3009	FRIDRICHOVÁ Anna r. Srnková		1	1778
+3009	GAJAR Gustáv		1	2078
+3009	GALBA Augustín		1	2088,2610
+3009	GALBA Imrich	m.Helena r.Uhlíková	1	2088,2610
+3009	GALBOVÁ Helena	r.Uhlíková	1	2088,2610
+3009	GÁLIKOVÁ Mária		1	776,777,2017
+3009	GELBOVÁ Mária /r.Rozenáková/ - /SPF/		1	217
+3009	GELBOVÁ Mária r.Rozenáková		0	1263
+3009	GOČÁL Anton		1	372,741
+3009	GONGLÍK Alojz	žena Mária r. Selnekovičová	1	2088,2610
+3009	GONGLÍK Alojz	žena Mária Selnekovičová	1	906
+3009	GONGLÍK Alojz	žena: Mária r. Selnekovičová	1	1976
+3009	GONGLÍK Martin		1	1961
+3009	GREČ Ferdinand		1	2038,2088,2610
+3009	GREČ Ján		1	920
+3009	GREČOVÁ Anna		1	384,387,920
+3009	GREČOVÁ Cecília		1	920
+3009	GREČOVÁ Júlia	r.Poturnayová	1	2088,2610
+3009	GREČOVÁ Katarína		1	384,387,920
+3009	GREČOVÁ Mária	r.Taligová	1	2088,2610
+3009	GREČOVÁ Terézia	r.Počuchová	1	920
+3009	GREČOVÁ Zuzana		1	920
+3009	Greguš Emil		1	1942,1943
+3009	GREGUŠ Ján		1	1942,1943
+3009	GREGUŠ Ján /SPF/		1	391,1231,1541
+3009	Greguš Jozef a Alžbeta Gregušová r. Marečková		0	1948
+3009	Greguš Jozef a Anna Gregušová r. Demovičová		0	1947
+3009	GREGUŠ Karol		1	1942,1943
+3009	GREGUŠ Karol /SPF/		1	391,1231,1541
+3009	GREGUŠOVÁ Anna	r.Študencová	1	1942,2073
+3009	GREGUŠOVÁ Anna /r.Študencová/ - /SPF/		1	1231
+3009	GREGUŠOVÁ Anna r. Študencová		1	1943
+3009	GREGUŠOVÁ Mária	r.Burszíková	1	2585
+3009	GREGUŠOVÁ Mária	r.Suchánová	1	678,2376,2509
+3009	GREGUŠOVÁ Mária	r.Šimková	1	1964
+3009	GREGUŠOVÁ Mária r. Burszíková		1	1938
+3009	GREGUŠOVÁ Mária r. Suchánová		1	160,1081
+3009	GREGUŠOVÁ Mária r. Šinková, Trstín, č. 126, PSČ 919 05, SR		0	2166
+3009	GREGUŠOVÁ Rozália		0	1493
+3009	GREGUŠOVÁ Rozália	r.Opálková	1	2115
+3009	Gregušová Rozália r. Hettešová		1	2018
+3009	GREGUŠOVÁ Rozália r. Opálková		1	1103,2088,2610
+3009	HAČUNDA Severín		1	844
+3009	HAČUNDOVÁ Júlia		1	844
+3009	Hajtmánek Augustín a Eva Hajtmánková r. Repatálová		0	2180
+3009	HAJTMÁNEK Michal		1	2057
+3009	HALADOVÁ Otília		0	1467
+3009	HAZUCHOVÁ Anna	r.Machalová	1	702,703,704,706,707,2088,2610
+3009	HEČKOVÁ Rozália	r.Fornerová	1	2227
+3009	HEREZOVÁ Cecília /r.Rozenáková/ - /SPF/		1	217
+3009	Herman Anton a Melánia Hermanová r. Vajsábelová		0	2157
+3009	HERMAN Ján		1	2126
+3009	HETTEŠ Gašpar /SPF/		1	807
+3009	HETTEŠ Ján		1	702,703,704,707,1113,2058,2088,2610
+3009	HETTEŠ Ján	Anna r.Mikinicová	1	2569
+3009	HETTEŠ Ján	ž. Anna Mikiničová	0	145,146,2317,2318
+3009	HETTEŠ Ján	ž.: Anna r.Mikinicová	0	145
+3009	HETTEŠ Ján	ž.Anna Mikiničová	0	146

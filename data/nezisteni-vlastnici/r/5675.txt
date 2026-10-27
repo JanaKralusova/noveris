@@ -1,0 +1,256 @@
+3192	ŠIMONČÍKOVÁ Bernardína		0	2135
+3192	ŠIMONČÍKOVÁ Etela		0	2157
+3192	ŠIMONČÍKOVÁ Gizela		0	1903
+3192	ŠIMONČÍKOVÁ Helena		0	1795
+3192	ŠIMONČÍKOVÁ Katarína		0	2130
+3192	ŠIMONČÍKOVÁ MARGITA		0	2163
+3192	ŠIMONČÍKOVÁ Mária		0	1923
+3192	ŠPAČEKOVÁ Helena r. Slamková		0	1812
+3192	ŠPITÁLSKÁ Mária r. Koricinová, M.Ján M.Ján		0	2064
+3192	ŠTEINEROVÁ Vilma r. Braunová		0	1738
+3192	ŠTRASSER Herbert Elemer		0	2052
+3192	ŠTRASSEROVÁ Ervína		0	2211
+3192	Švihoríková Berta	Hambáleková	1	1323,2377
+3192	ŠVIHORÍKOVÁ Berta r. Hambáleková		0	2041
+3192	Švihoríková Mária		1	1324
+3192	Takáč Anton	Zomrel 95134 Báb č.329	1	1141
+3192	Takáč Matyáš		1	1646,2337
+3192	TAKÁČOVÁ Cecília r. Pobočeková		0	1936
+3192	Takáčová Mária	Kohútová	1	1093,1646,2337
+3192	TAKÁČOVÁ Mária r. Kohútová		0	2271
+3192	TALIAN Antonín		0	1772
+3192	Talian Jozef		1	114,1331,1333
+3192	TALIAN Lenghard		0	2244
+3192	Talianová Jolana	Martinková	1	1331,1333
+3192	Talianová Jolana r.Martinková		1	114
+3192	TOMŠA Blažej, M.Emília M.Emília		0	1916
+3192	Tomša Jozef	M.Mária	1	1140
+3192	Tomša Teofil		1	1646,2337
+3192	Tomšová Jozefína	02.10.1905 Stanková Báb č.330	1	1154,1155
+3192	Tomšová Mária	Bakaiová	1	1544,1646,2337
+3192	TOMŠOVÁ Mária r. Bakaiová		0	1680,2114
+3192	TOROK Dominik		0	1860
+3192	Torok Michal		1	1131,2107
+3192	Torokova Maria	Talianova-M.Dominik	1	1131
+3192	TÖRÖKOVÁ Maria r. Talianová, M.Dominik M.Dominik		0	1866
+3192	TÓTHOVÁ Júlia r. Púčiková		0	2099
+3192	Tvarožeková Eva	Martinková	1	1300
+3192	TVAROŽEKOVÁ Eva r. Martinková		0	2241
+3192	Václavovičová Viktoria	Martinková	1	1300
+3192	VÁCLAVOVIČOVÁ Viktória r. Martinková		0	1705
+3192	VALENTA Alfréd		0	2195
+3192	VÁŇA Jozef		0	2066
+3192	Vaníček Štefan		1	1337,1338
+3192	Vaníček Timot		1	1337
+3192	VÁŇO Jozef		0	2003
+3192	VÁŇOVÁ Anna r. Kuchtová		0	2228
+3192	VARGA Apollo		0	2269
+3192	Varga Ján		1	1150
+3192	VARGA Synak Juraj, M.Mária M.Mária		0	2252
+3192	VARGOVÁ Erzsa r. Degmová, M.Teofil M.Teofil		0	1740
+3192	Vargová Eva	Kamenová	1	1646,2337
+3192	Vargová Ilona		1	1308,1646,2337
+3192	VARGOVÁ Mária r. Chmelková, Synak, M.Juraj Synak, M.Juraj		0	1938
+3192	Vargová Rozália	Viskupová	1	1174,1646,2337
+3192	VARGOVÁ Rozália r. Viskupová		0	1762,2286
+3192	VARGOVÁ Verona r. Savíková, M.Gašpar M.Gašpar		0	2040
+3192	Vaško František		1	1129
+3192	VAŠUR Silvester, M.Bernardína M.Bernardína		0	1838
+3192	VAŠUROVÁ Bernardína r. Drozdová, M.Silvester M.Silvester		0	2193
+3192	VÉGELOVÁ Janka r. Braunová		0	1868
+3192	VINKLER Anton		0	2018
+3192	VINKLER Jozef		0	1782
+3192	VINKLER Michal		0	2032
+3192	VINKLER Peter		0	2278
+3192	Vinklerová Gizela	26.09.1916 Sárazová Báb	1	1163
+3192	VINKLEROVÁ Gizela r. Sárazová		0	2091
+3192	Viskup Anton		1	1646,1672,1683,2337
+3192	VISKUP Blažej		0	1701
+3192	Viskup František	Syn Františka	1	1302,1646,2337
+3192	VISKUP František, Syn Františka Syn Františka		0	2216
+3192	VISKUP Gabriel		0	1855
+3192	Viskup Imrich		1	1303,1646,2176,2303,2337
+3192	Viskup Ján		1	1302,1303,1646,2337
+3192	Viskup Jozef	Syn Františka	1	1302,1646,2337
+3192	VISKUP Jozef		0	2197
+3192	VISKUP Jozef, Syn Františka Syn Františka		0	1672,2105
+3192	Viskup Július		1	1303,1646,1806,2303,2337
+3192	Viskup Ľudovít	08.02.1900 93568 Čaka č.293	1	1646
+3192	Viskup Ľudovít	08.02.1900, 935 68 Čaka č. 293	1	2337
+3192	Viskup Ondrej		1	1646,1902,2337
+3192	VISKUP Peter		0	2061
+3192	VISKUPOVÁ Alžbeta r. Prágerová		0	2044
+3192	Viskupová Etela	Slamková	1	1330
+3192	VISKUPOVÁ Etela r. Slamková		0	1932
+3192	Viskupová Gabriela		1	1174,1646,1935,2286,2337
+3192	Viskupová Mária		1	1174,1646,1733,2286,2337
+3192	Viskupová Petronela		1	1646,2337
+3192	VISKUPOVÁ Štefánia		0	1672,1979
+3192	VISKUPOVÁ-GABRIELOVÁ Agáta r. Viskupová		0	1764
+3192	VÍTEKOVÁ Mária r. Winklerová		0	2036
+3192	VODIČKA Jozef		0	1955
+3192	VOJTECHOVÁ Katarína r. Slamková		0	1907
+3192	VOLEK Ignác, M.Viktória M.Viktória		0	2153
+3192	VOLEKOVÁ Viktória r. Vašková, M.Ignác M.Ignác		0	1922
+3192	WEISSOVÁ Cecília r. Pretzelmayerová, Vdova Vdova		0	2164
+3192	Zadrabajová Apolonia	Martinková	1	1300
+3192	ZADRABAJOVÁ Apolónia r. Martinková		0	2185
+3193	Balážová Terézia		1	2333,2430
+3193	BALCZÁREK Peter		1	1385,2376,2719,2913
+3193	Balogh Alexander		1	2375
+3193	BALOGH Ernest		1	1481,3436
+3193	BALOGH Ján		1	1481,2934,3436
+3193	BALOGH Karol		1	1481,3436
+3193	Balogh Peter		1	2375
+3193	BALOGHOVÁ Emília		1	1481,3436
+3193	Baloghová Margita		1	2934
+3193	BALOGHOVÁ Rozália		1	1481,3436
+3193	BANÁŠOVÁ Viola	rod.Sládečková	1	1505
+3193	BARTHOVÁ Mária		1	1474
+3193	BATOŠKA Ján		1	1473
+3193	Beck František		1	2839
+3193	Beck František	manž.Terézia Neszméryová	1	2660
+3193	BELOVIČ Ján	manž.Kristína Buchardová	1	1459
+3193	Belovičová Eva		1	2555
+3193	Benko Ferdinand		1	2337
+3193	BENKOVÁ Terézia	rod.Vörösová,manž.Augustín	1	1567
+3193	Bozsik Štefan		1	2751
+3193	BUCZULOVÁ Anna	rod.Baloghová,manž.Štefan	1	1485
+3193	BÚSCHOR Anton	manž.Katarína Franková	1	1474
+3193	BÚSCHOROVÁ Katarína	rod.Franková,manž.Anton	1	1474
+3193	Csomorová Margita		1	2934
+3193	Czichra František		1	2938
+3193	Czichra Ján		1	2938
+3193	DADANYIOVÁ Alžbeta	rod.Kivkovičová	1	1504
+3193	DANTER Matej	manž.Mária Leginusová	1	1524
+3193	DANTEROVÁ Mária	rod.Leginusová,manž.Matej	1	1524
+3193	Doláková Františka		1	2334
+3193	Dombovičová Mária		1	2339,2353,2416,2446
+3193	DOMBOVIČOVÁ Mária	rod.Takáčová,manž.Ľudovít	1	1018,1575
+3193	Dombovičová Terézia		1	2375
+3193	Doronyai Anton		1	2879
+3193	Doronyaiová Apolónia		1	2879
+3193	Doronyaiová Helena		1	2879
+3193	Doronyaiová Markéta		1	2879
+3193	EGYEDOVÁ Mária	rod.Leginusová	1	1472
+3193	FALUŠI Michal		1	1494
+3193	FALUŠI Viliam	manž.Terézia Janková	1	1507
+3193	FALUŠIOVÁ Františka		1	1494
+3193	Falušiová Terézia		1	2347
+3193	FALUŠIOVÁ Terézia	rod.Janková	1	1545
+3193	FALUŠIOVÁ Terézia	rod.Janková,manž.Viliam	1	1507
+3193	FANDLOVÁ Júlia	rod.Nagyová	1	1467
+3193	Farkaš František		1	2726
+3193	Farkašová Helena		1	2334
+3193	Farkašová Mária		1	2885
+3193	Filkászová Gizela		1	2371,2651
+3193	FILKÁSZOVÁ Gizela	rod.Szemelová,manž.Martin	1	1533
+3193	Fodor Alexander		1	2352
+3193	Füle Štefan		1	2371,2680,2938
+3193	Fülöp Alexander		1	2373,2382,2454,2637,2927
+3193	FÜLÖP Alexander	ml	1	1018,1258,2013
+3193	Fülöp Alexander r. Fülöp		0	2928,2950
+3193	Fülöp František		1	2382
+3193	Fülöp František r. Fülöp	maloletý	0	2928,2950
+3193	Fülöp Ján r. Fülöp		0	2928,2950
+3193	FÜLÖP Jozef	manž.Mária Tulnerová	1	1237
+3193	Fülöp Jozef r. Fülöp		0	2928,2950
+3193	Fülöp Július		1	2615,2904
+3193	Fülöp Ladislav		1	2323,2495,2625,2865
+3193	FÜLÖP Ladislav	manž.Františka Kissová	1	1538
+3193	Fülöp Ladislav r. Fülöp		0	2928,2950
+3193	FÜLÖP Ľudovít		1	1237,1258,2013
+3193	Fülöp Ľudovít r. Fülöp, Tomášovská 82/52, Nová Dedinka, PSČ 90029, SR		1	2687
+3193	FÜLÖP Vojtech		1	1556
+3193	FÜLÖP Vojtech	manž.Vilma Gálová	1	1556
+3193	Fülöpová Apolónia		1	2843
+3193	Fülöpová Etela		1	2913
+3193	Fülöpová Helena r. Komarová, Veľký Biel - Poštová 27. Nevieme určiť rod. č. 75129754 Veľký Biel - Poštová 27. Nevieme určiť rod. č. 75129754		0	2437
+3193	Fülöpová Júlia		1	2650
+3193	Fülöpová Mária		1	2298,2649
+3193	FÜLÖPOVÁ Mária	rod.Kissová,manž.Andrej	1	1469
+3193	Fülöpová Terézia		1	2938
+3193	FÜLÖPOVÁ Terézia	rod.Šimoničová,manž.Alexander	1	1512
+3193	Fülöpová Verona		1	2938
+3193	Gábrišová Anna		1	2321,2327,2356,2357,2358,2607,2893,2894,2898,2912,2923,2962,2963,2969,2977,3402,3452,3453,3462
+3193	GÁBRIŠOVÁ Anna	rod.Neszméryová	1	1170,1172,1420,3503
+3193	Geremenová Valéria		1	2314,2883,2905
+3193	Gotleberová Etela		1	2938
+3193	Gottgeisel Gašpar		1	2634,2904
+3193	Gottgeiselová Apolónia		1	2851,2904
+3193	Gottgeiselová Juliana		1	2314,2905
+3193	Hamvaiová Katarína		1	2347
+3193	HAMVAIOVÁ Katarína	rod.Vöröšová,manž.Jozef	1	1545
+3193	Hegyiová Anna		1	2334
+3193	Hegyiová Františka		1	2628
+3193	Hoboth Alexander		1	2297,2937
+3193	Hoboth František		1	2297,2937
+3193	Hoboth Ján		1	2297,2937
+3193	Hoboth Jozef		1	2297,2937
+3193	Hoboth Štefan		1	2937
+3193	Hobothová Anna		1	2297,2937
+3193	Hobothová Mária		1	2937
+3193	Hökkönová Júlia		1	2403,2933
+3193	Hokša Juraj		1	698,1470
+3193	Horváth Alexander		1	2324,2338,2344
+3193	Horváth Alexander r. Horváth, nar. 01.05.1875 nar. 01.05.1875		0	2324,2338,2344
+3193	Horváth Anton		1	2324,2338,2344
+3193	Horváth Eugen		1	2324,2338,2344
+3193	Horváth Gašpar		1	2333,2766,2783,2904
+3193	Horváth Ján		1	2324,2338,2344
+3193	HORVÁTH Jozef		1	1464,1465,2400
+3193	Horváth Juraj		1	2338,2344
+3193	Horváth Karol		1	2324,2338,2344
+3193	Horváth Ladislav		1	2324,2338,2344
+3193	Horváth Ľudovít		1	2324,2338,2344
+3193	Horváth Štefan		1	2324,2338,2344
+3193	Horváthová Anna		1	2324,2338,2344
+3193	Horváthová Júlia		1	698
+3193	HORVÁTHOVÁ Mária		1	1466
+3193	Horváthová Viktória		1	2324,2338,2344
+3193	HORVÁTHOVÁ Zuzana	rod.Panáková,manž.Ľudovít	1	1466
+3193	Hržičová Alžbeta		1	2764
+3193	Jankó Gašpar		1	2551
+3193	Janko Ľudovít		1	2323,2781,2797
+3193	Janko Pavol		1	2767
+3193	Janková Anna		1	2528
+3193	JANKOVÁ Anna	rod.Vörösová,manž.Štefan	1	1051
+3193	Janková Jolana		1	2739
+3193	Járásová Margita		1	2798
+3193	Kakaš Ján		1	2560
+3193	Kakaš Ľudovít		1	2474
+3193	Kakašová Juliana		1	2608
+3193	Kakašová Juliana r. Maršovská, 90024 Veľký Biel - Školská 29, SR 90024 Veľký Biel - Školská 29, SR		0	2568
+3193	Kamanová Helena		1	2333,2544
+3193	KARKEŠOVÁ Etela	rod.Vöröšová	1	1468
+3193	Karlovská Bella Lujza		1	2704
+3193	Karlovská Paulína		1	2459
+3193	Katonová Terézia		1	2324,2338,2344
+3193	Kellerová Mária		1	2802
+3193	KELLEROVÁ Mária	rod.Vöröšová,manž.František	1	1051,1545
+3193	Kinčešová Gizela		1	2617
+3193	Kissová Agneša		1	2733
+3193	KISSOVÁ Margita	rod.Maršovská	1	1511
+3193	Klimová Gizela		1	2621
+3193	KLINGEROVÁ Terézia	rod.Reisnerová	1	1480
+3193	Kosová Júlia		1	2938
+3193	KULÁŠOVÁ Mária		1	1467,2375
+3193	KULÁŠOVÁ Mária	rod.Valentová,manž.Gašpar	1	1467
+3193	Lassú František		1	2425
+3193	Lassú Martin		1	2425
+3193	Lassúová Viktória		1	2425
+3193	LEGINUSOVÁ Mária	rod.Čečkányová,manž.František	1	1472
+3193	LEXOVÁ Matilda	rod.Leginusová	1	1472
+3193	Lököšová Františka		1	2352
+3193	LUKÁČOVÁ Juliana	rod.Czinová,Poľovnícká 23,V.Biel	1	1487
+3193	Maceáková Mária		1	2324,2338,2344
+3193	Máderová Mária		1	2433
+3193	Majtánová Mária		1	2324,2338,2344
+3193	MARŠOVSKÁ Helena	rod.Múčková,manž.Ľudovít	1	1474
+3193	MARŠOVSKÁ Juliana		1	1474
+3193	MARŠOVSKÁ Mária		1	1474
+3193	MARŠOVSKÝ Július		1	1455,2333,2743
+3193	MARŠOVSKÝ Ladislav		1	1474
+3193	MARŠOVSKÝ Ľudovít		1	1474,2317,2393
+3193	MARŠOVSKÝ Ľudovít	manž.Helena Múčková	1	1474
+3193	Maršovský Ľudovít, SPF SPF		1	2318

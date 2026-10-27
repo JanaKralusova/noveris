@@ -1,0 +1,256 @@
+3093	SINAL FRANTISEK		0	166,229,421,539,615
+3093	SINAL JAN		0	229,391,424
+3093	SINAL JOZEF		0	394,410,692
+3093	SINAL MARTIN		0	166,229,397,421,539,615
+3093	SITAROVA VERONA		0	370
+3093	SPIRKA KAROL		0	166,615
+3093	SPIRKA STEFAN		0	166,615
+3093	SPIRKA VINCENT		0	166,615
+3093	SPIRKOVA MARIA		0	166,467,615
+3093	STODOLOVA LUDMILA r. RODANICOVA		0	154
+3093	SVEC JOZEF		0	166,615
+3093	SVIRŽOVSKÝ ŠTEFAN		0	539
+3093	ŠINAĽ JÁN	Karoľuv	0	539
+3093	Šinaľová Zuzana r. Špirková	Kohutová	0	488
+3093	Špirková Žofia		0	467
+3093	Štefačin Juraj		0	353
+3093	Štefačin Karol		0	353
+3093	Štefančin Juraj r. Štefančin	ž. Mária Záhradníková	0	646,647,708,709,745,746,814,815,816,817,843,844,845,846
+3093	Štefančin Karol r. Štefančin	ž. Anna Škotková	0	646,647,708,709,745,746,814,815,816,817,843,844,845,846
+3093	Štefančin Štefan r. Štefančin	ž. Mária Špirková	0	646,647,708,709,745,746,814,815,816,817,843,844,845,846
+3093	Štefančinová Dorota	dcéra Jána	0	646,647,708,709,745,746,814,815,816,817,843,844,845,846
+3093	Štefančinová Viktória		0	353
+3093	Štefančinová Viktória	dcéra Jána	0	646,647,708,709,745,746,814,815,816,817,843,844,845,846
+3093	Uličná Helena	dcéra Jozefa	0	646,647,708,709,745,746,814,815,816,817,843,844,845,846
+3093	Uličný Jozef r. Uličný	syn Jozefa	0	646,647,708,709,745,746,814,815,816,817,843,844,845,846
+3093	USKO ANDREJ		0	228
+3093	USKOVA MARIA		0	228
+3093	USKOVA VERONA		0	228
+3093	VANOVA ZUZANA r. FERENCOVA		0	370
+3093	VARDZALIKOVA VERONA r. BANKOVA		0	313
+3093	Vargovčíková Mária r. Gabužďová		0	430
+3093	VASKO ANDREJ		0	229,539
+3093	VASKOVA MARIA		0	229,539
+3093	VAŠKOVÁ VERONA		0	539
+3093	Verbovská Anna r. Štefačinová		0	353
+3093	Verbovská Anna r. Štefančinová		0	646,647,708,709,745,746,814,815,816,817,843,844,845,846
+3093	VESKOVA VERONA		0	229
+3093	VOJTEKOVA MARIA r. MICHALEKOVA		0	370
+3093	VOJTEKOVA ZUZANA r. LAZUROVA		0	405
+3094	Babinský Ján		0	2208
+3094	Babinský Jozef	Ištván, USA	0	2206
+3094	Babinský Štefan	Ondreja	0	2206
+3094	Baleková Anna		0	2208
+3094	Gábor Jozef st.	zomr. 02.11.1992, posledný pobyt 02952 Babín 95	0	2208
+3094	Gábor Ondrej		0	2208
+3094	GRAJCÁROVÁ Anna r. Jurovčíková		1	1373,1558,1637,1650,1715,1988,2095
+3094	GRAJCÁROVÁ Anna r. Jurovčíková |		1	1660,1934,1935,2193,2194
+3094	HURTALA Jozef		1	1373,1523,1614,1650,2229
+3094	Hurtala Jozef, Hruštín - Vaňovka, 48, SR Hruštín - Vaňovka, 48, SR		0	1988,2092
+3094	HURTALA Jozef, Vaňovka - Hruštín, č. 48, SR		1	1776,1777,1779,2196,2223,2225,2226,2227,2228
+3094	HURTALA Marek		1	1373,1523,1614,1650,2229
+3094	Hurtala Marek, Hruštín - Vaňovka, 48, SR Hruštín - Vaňovka, 48, SR		0	1988,2007
+3094	HURTALA Marek, Vaňovka - Hruštín, č. 48, SR		1	1776,1777,1779,2196,2223,2225,2226,2227,2228
+3094	HURTALA Štefan		1	1373,1523,1650,2196,2229
+3094	HURTALA Štefan	manž.Rozália Smidžárová	1	1614
+3094	Hurtala Štefan, manž.Rozália Smidžárová, Hruštín - Vaňovka, 48, SR manž.Rozália Smidžárová, Hruštín - Vaňovka, 48, SR		0	1988,2056
+3094	HURTALA Štefan, Vaňovka - Hruštín, č. 48, SR		1	1776,1777,1779,2223,2225,2226,2227,2228
+3094	Jadroňová Terézia r. Ištván Babinská		0	2206
+3094	Jurovčík Ján		0	1116
+3094	Jurovčík Ján, manž.Zuzana r.Mišániková, Hruštín - Vaňovka, SR manž.Zuzana r.Mišániková, Hruštín - Vaňovka, SR		0	1988,2009
+3094	JUROVČÍK Jozef		1	1526
+3094	JUROVČÍK Ľudovít		1	1526,1671
+3094	JUROVČÍK Štefan		1	1373,1558,1637,1650,1715,1988,2029
+3094	JUROVČÍK Štefan |		1	1660,1934,1935,2193,2194
+3094	KATRENČÍK Štefan	Nitra	1	1525,1722
+3094	KATRENČÍK Vendelín		1	1525,1722
+3094	KATRENČÍKOVÁ Helena		1	1722
+3094	Katrenčíková Mária r. Mišániková		0	1109
+3094	Kováčová Helena, zom.12.12.1987, Hruštín - Vaňovka, 764, SR zom.12.12.1987, Hruštín - Vaňovka, 764, SR		0	1988
+3094	Kováčová Mária		1	1118,1227,1373,1576,1650,1661,1669,1988,2046
+3094	Kováčová Zuzana r. Mišániková	dátum úmrtia: 07.07.1954	0	1373,1516,1650,1718,1723,1978,1988,2160,2169,2180,2185
+3094	Kukla Štefan st.		0	2208
+3094	MAĎARÍK Jozef		0	1373,1597,1701
+3094	Maďarík Jozef, manž.Rozália r.Kováčová, Hruštín - Vaňovka, 20, SR manž.Rozália r.Kováčová, Hruštín - Vaňovka, 20, SR		0	1978,1988
+3094	MAĎARÍK Jozef, Vaňovka, č. 20, SR		0	1650,1672
+3094	MAĎARIKOVÁ Ľudmila		1	1227,1373,1576,1650,1661,1669,1988,2095
+3094	Maďaríková Mária	Hruštín - Vaňovka, SR	0	1988,2095
+3094	Mišánik Jozef		1	1108,1113,1526,1671
+3094	MIŠÁNIKOVÁ Anna r. Zemenčíková	zomr.21.02.1963	1	1717,1961
+3094	Mišániková Johana		0	1108
+3094	MIŠÁNIKOVÁ Rozália		1	1672
+3094	MIŠÁNIKOVÁ Terézia r. Kuklová		1	1526,1671
+3094	Sedlárová Alžbeta r. Snováková, 05.08.1999, Hruštín - Vaňovka, 767, SR 05.08.1999, Hruštín - Vaňovka, 767, SR		0	1988,2092
+3094	SLANIČAN Cyril		1	1704,1705
+3094	SLANIČAN Ondrej		1	1667
+3094	SLANIČAN Ondrej	manž. Mária Snováková	1	1705,1716,1728
+3094	Slaničan Ondrej, manž.Mária Snováková, Vaňovka č.d.54 manž.Mária Snováková, Vaňovka č.d.54		0	2092
+3094	Slaničan Ondrej, Vaňovka, č. 54, SR	manž. Mária Snováková	1	1704
+3094	SNOVÁK František		1	1504
+3094	SNOVÁK František Vaňovka č. 46		1	1505,1951
+3094	Snovák Jozef	manž. Zuzana r. Babinská, USA	0	1716
+3094	SNOVÁK Jozef		1	1504,1667
+3094	SNOVÁK Jozef	manž.Zuzana r.Babinská, USA	1	1505,1951
+3094	SNOVÁK Jozef	manž.Zuzana r.Zemenčíková, Vaňovka	1	1641
+3094	Snovák Ondrej		0	2077
+3094	SNOVÁK Ondrej	manž.Cecília r.Valečíková, Vaňovka	1	1373,1650
+3094	Snovák Ondrej r.		1	1533,1581,1955,1972,2178
+3094	Snovák Ondrej, manž.Cecília r.Valečíková, Vaňovka manž.Cecília r.Valečíková, Vaňovka		0	1988
+3094	SNOVÁK Pavel		1	1662,1785,1874
+3094	SNOVÁKOVÁ Albína		1	1716,1728,2092
+3094	SNOVÁKOVÁ Albína, Vaňovka, č. 27, SR		0	1667
+3094	SNOVÁKOVÁ Zuzana	r.Babinská manž.Jozef Snovák, USA	1	1505,1951
+3094	SNOVÁKOVÁ Zuzana r. Babinská	manž.Jozef Snovák, USA	0	1716
+3094	Sobčák Jozef		1	1508
+3094	ŠUBOVÁ Alena r. Serdelová	Podunajské Biskupice 820/23, Bratislava 23, zomr	0	1988
+3094	ŠUBOVÁ Alena r. Serdelová	Podunajské Biskupice 820/23, Bratislava 23, zomr., SR	0	2083
+3094	Zemenčík Jozef, manž.Mária r.Ťasnochová, Osečná, Kotel 48, ČR manž.Mária r.Ťasnochová, Osečná, Kotel 48, ČR		0	2095
+3094	ZEMENČÍK Ondrej		1	1373,1558,1650,1660,1715,1934,1935,2193,2194
+3094	ZEMENČÍK Ondrej	zomr. 29.08.1967, Vaňovka	1	1717,1961
+3094	Zemenčík Ondrej, zomr.29.08.1967, Vaňovka zomr.29.08.1967, Vaňovka		0	1988,2095
+3094	ZEMENČÍKOVÁ Anna r. Snováková		1	1670,1708,1880,1881
+3094	Zemenčíková Mária r. Snováková		0	981
+3094	ZEMENČÍKOVÁ Terézia r. Maďaríková		1	1718,1723
+3095	BILAS Jan	A	0	135,148,152,232
+3095	BILAS Jan	B	0	152,232
+3095	BILAS Jan	C	0	151
+3095	BILAS Ján		1	212,213,214
+3095	BILAS Michal		1	214
+3095	BILAS Michal	1	1	212
+3095	BILAS Michal	ž.Anna r.Rišková	1	201
+3095	BILASOVA Anna		0	148
+3095	BILASOVÁ Anna	r.Rišková	1	187,193
+3095	BILASOVA Maria	A	0	161
+3095	BILASOVA Maria	B	0	152,232
+3095	BILASOVÁ Mária		1	214
+3095	HARVIS Jan	A	0	167
+3095	HARVIS Jan	C	0	134
+3095	HARVIS Jan	E	0	157
+3095	HARVIS Jan	F	0	152,232
+3095	HARVIS Michal	2	1	146,152,154,172,217,232,246
+3095	HARVIS Peter		0	154,246
+3095	HARVIS Vasil		1	167,198
+3095	HARVISOVA Anna		0	167
+3095	HARVISOVA Helena		0	167
+3095	HARVISOVA Maria	r.Sivulic	0	152,153,232
+3095	HARVIŠ Ján	1	1	198
+3095	HARVIŠ Ján	2	1	198
+3095	HARVIŠ Ján	6	1	185
+3095	HARVIŠ JOZEF	1929	1	196,216,234
+3095	HARVIŠ Jozef, Moskovska bl.406, Most, SR		0	198,218
+3095	Harviš Michal	Ostrava	1	234
+3095	HARVIŠ Michal	3	1	217
+3095	HARVIŠ Peter	1	1	218
+3095	HARVIŠ Peter	2	1	217
+3095	HARVIŠ Vasiľ	3	1	217
+3095	HARVIŠ Vasiľ	4	1	217
+3095	HARVIŠ Vasiľ	5	1	217
+3095	HARVIŠ Vasiľ	zomrel	1	218
+3095	HARVIŠOVÁ Anna	r.Ščerbová	1	198
+3095	HARVIŠOVÁ Helena	r.Ozogárová	1	189,198,209
+3095	HARVIŠOVÁ Mária	r.Bilasová	1	201,212
+3095	HOLOVACOVA Maria	r.Rodak	0	129,152,153,155,232
+3095	HOLOVAČOVÁ Mária	r.Rodáková	1	190
+3095	KANDRAVA Maria	r.Harvis	0	146,152,153,154,172,232,246
+3095	KANDRAVÁ Mária	r.Harvišová	1	196,216,217,218
+3095	Kandravá Mária r. Harvišová		1	234
+3095	KECOVA Anna		0	152,232
+3095	KECOVA Ilona	ml	0	152,232
+3095	KECOVA Ilona	st	0	152,232
+3095	KECOVA Paraska		1	123,152,153,191,207,232,238
+3095	KRAJKOVICOVA Helena	r.Mimovic	0	142
+3095	MAJDA Andrej		0	152,153,232
+3095	MAJDA Lukac		0	152,153,232
+3095	MAJDOVA Anna		0	152,232
+3095	MAJDOVA Anna	ml	0	152,232
+3095	MARTAK Sandor		0	152,153,232
+3095	MIMOVIC Vasil	A	0	133
+3095	MIMOVIC Vasil	B	0	152,232
+3095	MIMOVICOVA Helena		1	133,150,200
+3095	Mimovič Vasiľ		0	231
+3095	MIMOVIČ Vasiľ	1	1	200
+3095	MIMOVIČOVÁ Anna		1	200,231
+3095	MIMOVIČOVÁ Anna	r.Rudá	1	200
+3095	Mimovičová Helena maloletá		0	231
+3095	OZOGÁR Andrej	Havranec	1	189,209
+3095	OZOGÁROVÁ Anna	r.Vooková	1	204,215
+3095	PAJKOS Andrej	A	0	132,152,232,245
+3095	PAJKOS Andrej	B	0	162
+3095	PAJKOS Jan	A	0	141,145
+3095	PAJKOS Jan	B	0	152,232
+3095	PAJKOS Jan	z.Maria Gajdos	0	132,152,153,232,245
+3095	PAJKOS Michal		0	152,153,232
+3095	PAJKOS Michal	z.Maria Zumar	0	131,152,153,158,232
+3095	PAJKOS Mikulas		1	132,211,213,214,245
+3095	PAJKOSOVA Anna	A	0	135
+3095	PAJKOSOVA Anna	B	0	148
+3095	PAJKOSOVA Anna	C	0	152,232
+3095	PAJKOSOVA Maria		0	132,152,153,232,245
+3095	PAJKOSOVA Maria	r.Gajdos	0	141,145,168
+3095	PAJKOSOVA Maria	r.Mimovic	0	133,150
+3095	PAJKOSOVA Maria	r.Zumar	0	129
+3095	PAJKOŠ Andrej		1	211,213,214
+3095	PAJKOŠ Andrej	1	1	214
+3095	PAJKOŠ Andrej	2	1	211
+3095	PAJKOŠ Andrej	ž.Anna r.Kosťová	1	203
+3095	PAJKOŠ Ján	1	1	198
+3095	PAJKOŠ Ján	2	1	198
+3095	PAJKOŠ Ján	ž.Mária r.Gajdošová	1	211,213,214
+3095	PAJKOŠ Michal	ž.Mária r.Žumárová	1	210
+3095	PAJKOŠ Mikuláš	1	1	198
+3095	PAJKOŠ Peter		1	210
+3095	PAJKOŠOVÁ Anna		1	212,213,214
+3095	PAJKOŠOVÁ Mária	r.Gajdošová	1	198
+3095	PAJKOŠOVÁ Mária	r.Mimovičová	1	198,200,211,213,214
+3095	Pajkošová Mária r. Mimovičová		0	231
+3095	PAJKOŠOVÁ Mária r. Zumar		1	190
+3095	RISKO Jozef	A	0	139,152,229,232,239,240
+3095	RISKO Michal		0	152,153,232
+3095	RISKOVA Maria	A	0	139,140,152,229,230,232,239,240,243,244
+3095	RIŠKO Andrej		1	191,207
+3095	RIŠKO Jozef		1	193
+3095	RIŠKOVÁ Mária		1	187,193
+3095	RODAK Andrej		0	149
+3095	RODAK Jan		0	129,152,153,155,190,232
+3095	RODAK Michal		1	129,152,153,155,190,232
+3095	RODAKOVA Anna		0	129,152,153,155,232
+3095	RODÁKOVÁ Anna	r.Pavelčáková,Svidník	1	190,202
+3095	RUDÁ Anna		1	192
+3095	RUDÁ Anna	1	1	217
+3095	RUDÁ Anna	r.Sivuličová	1	191,207
+3095	RUDÁ Helena	r.Sivuličová	1	217
+3095	RUDA Maria		1	144,152,153,155,192,232
+3095	RUDÁ Mária	r.Ozogárová	1	189,209
+3095	RUDÝ Ján		1	192
+3095	RUDÝ Jozef		1	214
+3095	RUDÝ Jozef	1	1	212
+3095	RUDY Michal	A	0	144,155
+3095	RUDY Michal	C	0	152,232
+3095	RUDÝ Michal		1	192
+3095	RUDYOVA Anna		0	152,153,232
+3095	RUDYOVA Anna	r.Sivulic	0	123,238
+3095	RUDYOVA Helena	r.Sivulic	0	152,153,232
+3095	SIVULIC Andrej	A	0	123,166,238
+3095	SIVULIC Andrej	B	0	152,232
+3095	SIVULIC Andrej	C	0	152,232
+3095	SIVULIC Jan	A	0	123,166,238
+3095	SIVULIC Jan	B	0	152,232
+3095	SIVULICOVA Maria	A	0	123,166,238
+3095	SIVULICOVA Maria	B	0	152,232
+3095	SIVULIČ Andrej		1	191,207
+3095	SIVULIČ Andrej	1	1	207
+3095	SIVULIČ Ján	1	1	191,207
+3095	SIVULIČ Vasiľ		1	207
+3095	SIVULIČ Vasiľ	1	1	207
+3095	SIVULIČOVÁ Mária		1	191,207
+3095	SUPSAK Michal		0	152,153,232
+3095	VOOK Andrej	ž.Anna r.Vooková	1	197
+3095	VOOK Ján		1	204
+3095	VOOK Ján	1	1	204
+3095	VOOK Ján	2	1	204
+3095	VOOK Jozef	1	1	204
+3095	VOOK Jozef	Plzeň	1	204,215
+3095	VOOKOVÁ Anna	r.Vooková	1	197
+3095	VOOKOVÁ Mária	r.Harvišová	1	198
+3095	VOVK Michal	B	0	152,232
+3095	VOVK Vasil		0	152,153,232

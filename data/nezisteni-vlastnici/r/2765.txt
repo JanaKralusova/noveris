@@ -1,0 +1,256 @@
+1547	KUBOŠKO Ján		0	3411
+1547	KUBOŠKO Ján, SR		0	4022
+1547	KUBOŠKO Jozef		0	3411
+1547	KUBOŠKO Jozef	mal	0	3411
+1547	KUBOŠKO Marcel		0	2199,2216,2486
+1547	Kuboško Štefan		0	1496,2592
+1547	KUBOŠKO Štefan	mal	0	3411
+1547	KUBOŠKO Štefan	zomrel	0	861,1238,1239,3138,3156,4100
+1547	KUBOŠKO Štefan, SR		0	4022
+1547	KUBOŠKOVÁ Johana	zomrela	0	4100
+1547	KUBOŠKOVÁ Karolína	mal	0	3411
+1547	KUBOŠKOVÁ Mária		0	2592
+1547	KUBOŠKOVÁ Mária	mal	0	3411
+1547	KUBOŠKOVÁ Mária, SR		0	4022
+1547	KUBOŠKOVÁ Marta	mal	0	2199,2216,2486,3453
+1547	KUBOŠKOVÁ Zuzana	vd Štefanova; vd	0	3411
+1547	KUČERA Ján	obchodník	0	3972
+1547	KUČERA Ján	Smolkovie	0	3972
+1547	KUCHÁR Jozef		0	3411
+1547	KUCHÁR Jozef, SR		0	4022
+1547	KUCHÁROVÁ Katarína	r.Švárna	0	2166
+1547	KUTYEL Michal		0	3411
+1547	LACO Gustáv		0	3972
+1547	LACO Ján		0	3972
+1547	LACO MINDJAR Koloman		0	3972
+1547	LACO MINDJAR Ondrej		0	3972
+1547	LACO Peter		0	3972
+1547	LACO Tibor		0	3972
+1547	LAKOŠTÍK Eduard		0	3972
+1547	LAKOŠTÍK Jozef		0	3972
+1547	LAKOŠTÍK Ondrej		0	3972
+1547	LAKOŠTÍK Peter		0	3972
+1547	LAUKO Albert		0	2211,2425
+1547	LAUKO Andrej		0	3411
+1547	LAUKO Andrej	ml	0	3411
+1547	LAUKO Andrej	Piroh	0	3411
+1547	LAUKO Eduard	zomr	0	3391,3481
+1547	Lauko Ernest, SR		0	4022
+1547	LAUKO Ferdinand		0	3411
+1547	LAUKO Ferdinand	1	0	3474,4808
+1547	LAUKO Ferdinand	Nándor, zomr	0	3481
+1547	LAUKO Ferdinand	Nándor, zomr.; zomr	0	3391
+1547	LAUKO Ján		0	3411
+1547	LAUKO Ján	prostredný	0	3411
+1547	LAUKO Ján, SR	st	0	4022
+1547	LAUKO Jozef		0	1881,2335,3411
+1547	LAUKO Jozef	1	0	3411
+1547	LAUKO Jozef	ml	0	2341,3411,4022
+1547	LAUKO Jozef	Piroh	0	2009,2418
+1547	LAUKO Jozef	z Priehrady	0	1919
+1547	LAUKO Jozef	z Priehrady, ml., zomrel	0	3280,4521,4578
+1547	LAUKO Jozef	zomrel	0	3453
+1547	LAUKO Jozef	žen so Zuzanou Kuboško	0	3411
+1547	Lauko Jozef, SR		0	4022
+1547	LAUKO Jozef, SR	st	0	4022
+1547	LAUKO Kliment		0	3391,3481
+1547	LAUKO Marcel	Strnátka, manž. Emília r. Turan, zomrel; manž. Emília r. Turan, zomrel	0	3394
+1547	LAUKO Martin	zomr	0	3391,3481
+1547	LAUKO Michal	zomr	0	3391,3481
+1547	LAUKO Nándor	zomrel	0	1896,3474,4808
+1547	LAUKO Nándor, SR		0	4022
+1547	LAUKO Ondrej		0	2446
+1547	LAUKO Ondrej	Piroh	0	3411,4022
+1547	Lauko Róbert, SR		0	4022
+1547	LAUKO Štefan		0	3411
+1547	LAUKO Štefan	manž. Terézia r. Kutel,zomrel	0	3757
+1547	LAUKO Štefan	z Priehrady	0	2403,2563
+1547	LAUKO Štefan	z Priehrady, zomrel	0	2108,3280,3606,3609,3929,4521,4578,4687,4688
+1547	LAUKO Štefan	zomr	0	3391,3481
+1547	LAUKO Viliam	zomr	0	3391,3481
+1547	LAUKOVÁ Agneša r. Garajová, SR		0	4022
+1547	LAUKOVÁ Albína	r.Kohútová	0	3391,3481
+1547	Lauková Angela r. Hančíková		0	1879
+1547	LAUKOVÁ Anna		0	3391,3481
+1547	LAUKOVÁ Anna	r. Nemček, manž. ml. Jozef, nar. 1905?	0	2108,3609,3929,4688
+1547	LAUKOVÁ Anna	r.Nemčeková	0	2144,2403,2563
+1547	LAUKOVÁ Antónia	r.Drapáčová	0	3391,3481
+1547	LAUKOVÁ Katarína	Jánova Strnatka	0	3411
+1547	LAUKOVÁ Katarína r. Strnadová, SR		0	4022
+1547	LAUKOVÁ Margita	r. Lauko, zomrela; zomrela	0	3453
+1547	LAUKOVÁ Margita	r.Lauková	0	2335
+1547	Lauková Margita r. Slotková Šefferová, SR		0	5083
+1547	LAUKOVÁ Mária		0	2248,2335,2371
+1547	LAUKOVÁ Mária	r.Hrnčiarová, zomr	0	3481
+1547	LAUKOVÁ Mária	r.Hrnčiarová, zomr.; zomr	0	3391
+1547	LAUKOVÁ Mária	r.Chmelíková, zomr	0	3481
+1547	LAUKOVÁ Mária	r.Chmelíková, zomr.; zomr	0	3391
+1547	LAUKOVÁ Mária	r.Mišatová	0	2632
+1547	LAUKOVÁ Mária	r.Slimáková, zomr	0	3481
+1547	LAUKOVÁ Mária	r.Slimáková, zomr.; zomr	0	3391
+1547	Lauková Mária, SR		0	4022
+1547	Lauková Natália r. Šebanová, SR		0	4022
+1547	LAUKOVÁ Petronela		0	3391,3481
+1547	LEPIS Andrej		0	3411
+1547	LEPIŠ Andrej	zomrel	0	3882
+1547	LEPIŠ Ondrej		0	2035,2427,2570
+1547	LEPIŠ Ondrej, SR		0	4022
+1547	LEPIŠOVÁ Anna	r. Hrabušaj, neb. manž. Andrej, zomrela	0	3882
+1547	LEPIŠOVÁ Anna	r.Hrabušajová	0	2035,2376,2427,2570
+1547	LEPIŠOVÁ Anna r. Hrabušajová, SR		0	4022
+1547	LESÁK Andrej	Borony	0	3411
+1547	LESÁK Cyprian	Sliačan	0	1571
+1547	LESÁK Ferdinand	Poliak	0	2438,2472,2630,3411,4022
+1547	LESÁK Jakub		0	2156,2351
+1547	LESÁK Ján	Kočiš	0	3411,4022
+1547	LESÁK Ján	Kočiš žen s Annou Hrnčiar	0	3411
+1547	LESÁK Ján	Pavlov syn	0	3411
+1547	LESÁK Ján	žen Mária Kľačko	0	3411
+1547	LESÁK Ján	žen s Máriou Klačko Kocza	0	3411
+1547	LESÁK Ján, SR		0	4022
+1547	LESÁK Jozef	ml Poliak	0	3411
+1547	LESÁK Július		0	3411
+1547	LESÁK Július, SR		0	4022
+1547	LESÁK Ondrej, SR		0	4022
+1547	LESÁK Pavol		0	3411
+1547	LESÁK Pavol	žen so Zuzanou Štrbina	0	3411
+1547	LESÁK Pavol, SR		0	4022
+1547	LESÁK Štefan	Betušiak	0	1707,1720,2188,2199,2233,2285,2286,2504,4022,4463
+1547	LESÁKOVÁ Albina	r.Klačková Lubelcová	0	1497,2422,4142
+1547	LESÁKOVÁ Albína	r. Lubelec, zomrela, Lisková 71	0	3598
+1547	LESÁKOVÁ Albína	r.Lubelcová	0	2366
+1547	Lesáková Albina r. Klačková Lubelcová, SR		0	4022
+1547	Lesáková Anna r. Hrnčiar, SR, manž. Ján manž. Ján		0	5231
+1547	Lesáková Anna r. Hrnčiarová	manž. Ján	0	3411
+1547	LESÁKOVÁ Berta	vd Jánova rod Boroňová Dvorský	0	3411
+1547	LESÁKOVÁ Berta r. Boroňová Dvorská, SR		0	4022
+1547	LESÁKOVÁ Emília	rod Kralovanská	0	3411
+1547	LESÁKOVÁ Eva	r.Vígová	0	2510
+1547	Lesáková Eva r. Viga, SR	ml. Poliaková	0	5065
+1547	LESÁKOVÁ Eva r. Vígová, SR		0	4022
+1547	LESÁKOVÁ Irena	r.Lesáková	0	1779
+1547	Lesáková Irena r. Lesák, SR, zomrela zomrela		0	5224
+1547	LESÁKOVÁ Jozefína		0	4332,4333,4334,4335
+1547	LESÁKOVÁ Júlia	Betušiak Gejdoš	0	3891
+1547	LESÁKOVÁ Júlia	Betušiaková Gejdošová	0	2044,2410,2569
+1547	LESÁKOVÁ Mária	r.Klačko Kocza	0	3411
+1547	LESÁKOVÁ Mária	r.Koreňová	0	2199
+1547	LESÁKOVÁ Mária	rod Boronyová	0	3411
+1547	LESÁKOVÁ Mária	rod Klačko	0	3411
+1547	LESÁKOVÁ Mária r. Boroňová, SR		0	4022
+1547	LESÁKOVÁ Mária r. Škoblová Poliaková, SR		0	4022
+1547	LESÁKOVÁ Perpetua	Poliak rod Švárna	0	3411
+1547	Lesáková Perpetua r. Švárna Poliaková, SR		0	4022
+1547	LESÁKOVÁ Petronela	rod Chovancová	0	3411
+1547	LESÁKOVÁ Petronela r. Chovancová, SR		0	4022
+1547	LESÁKOVÁ Rozália	Betušiaková	0	1707,1720,2188,2233,2285,2286,4022,4463
+1547	Lesáková Štefánia	Betušiaková	0	4022
+1547	LESÁKOVÁ Štefánia	Betušiak, zomrela	0	3543
+1547	LESÁKOVÁ Zuzana		0	2235
+1547	LESÁKOVÁ Zuzana	r. Štrbina, zomrela	0	1582,3261,3799,3999
+1547	LESÁKOVÁ Zuzana	r.Lesáková	0	2548
+1547	LESÁKOVÁ Zuzana	r.Štrbinová	0	2208
+1547	LESÁKOVÁ Zuzana	rod Brusková	0	3411
+1547	LESÁKOVÁ Zuzana	rod Štrbina	0	3411
+1547	Lesáková Zuzana r. Štrbina, SR, zomrela zomrela		0	5248
+1547	Lesáková Zuzana r. Štrbinová		0	1819,1863
+1547	LESÁKOVÁ Žofia	r.Klačková	0	2460
+1547	Lesáková Žofia r. Balcová		0	2175
+1547	LETKOVÁ Mária	rod Dvorská	0	3411
+1547	LEXOVÁ Amália	Lexa Jozefova r. Slimák, zomrela	0	50,1535,3222,3323,4008,4572
+1547	LEXOVÁ Amália	r.Slimáková	0	1544,1716
+1547	Lexová Amália r. Slimáková		0	2067
+1547	LEXOVA AMALIA r. SLIMAKOVA, SR		0	39,4022
+1547	LIKAVCOVÁ Mária		0	2477
+1547	LIKAVCOVÁ Mária	rod Nemček Rohaj	0	3411
+1547	LIKAVCOVÁ Mária	rod Nemčeková	0	3411
+1547	Likavcová Mária r. Blašková		0	1846
+1547	LIKAVCOVÁ Mária r. Nemčeková, SR		0	4022
+1547	LIKAVCOVÁ Mária r. Nemečková Rohajová, SR		0	4022
+1547	LIKAVCOVÁ Marta	r.Mlynarčíková	0	2120,2183
+1547	LIKAVCOVÁ Pavlína	rod Hrnčiarová	0	3411
+1547	Likavec Jozef		0	1846
+1547	LIKAVEC Jozef	Boroň	0	4022
+1547	LIKAVEC Ondrej		0	2477
+1547	Likavec Ondrej, SR		0	4022
+1547	Liskovcová Pavlína r. Hrnčiarová, SR		0	4022
+1547	LISKOVEC Alojz		0	2391
+1547	Liskovec Alojz, SR		0	4022
+1547	LISKOVEC Ján		0	3411
+1547	Lubelcová Albína	Klačková	0	1576,1864,4022,4821
+1547	LUBELCOVÁ Bibiana, Železničná 830, 034 81 Lisková		0	2409
+1547	LUBELCOVÁ Pavlína		0	2395
+1547	LUBELCOVÁ Perpetua	Klačko rod Boroňová	0	3411
+1547	Lubelec Tobiaš	Klačko	0	1864,4022
+1547	LÚČANOVÁ Terézia		0	3972
+1547	LUKÁČ Adam		0	3411
+1547	LUKÁČ Adam, SR		0	4022
+1547	LUKÁČ Albín	Nižný	0	2042
+1547	LUKÁČ Andrej	Balaskin	0	3411
+1547	LUKÁČ Andrej	Pálenik	0	3411
+1547	LUKÁČ Andrej	Páleník, ml., nar.pred 1900, zomrel	0	3880
+1547	LUKÁČ Andrej	Puder žen s Máriou Mráz; žen s Máriou Mráz	0	3411
+1547	Lukáč Anton	Nižný	0	4022
+1547	Lukáč Bernard	Pastier	0	4022
+1547	LUKÁČ Bernát	Pastier žen s Johanou Vábik; žen s Johanou Vábik	0	3411
+1547	LUKÁČ Cyprián		0	2386,2412,2453
+1547	LUKÁČ Cyprián	Jandura	0	3411,4022
+1547	LUKÁČ Cyprián	Jandura 1	0	1470
+1547	LUKÁČ Ferdinand	Majerkin, zomrel	0	3910,4711
+1547	Lukáč František	obuvník	0	4022
+1547	LUKÁČ František		0	1531,1532,1533,3411
+1547	LUKÁČ Gašpar	mal	0	3411
+1547	LUKÁČ Gašpar	Puder	0	3411,4022
+1547	LUKÁČ Gašpar, SR		0	4022
+1547	LUKÁČ Gustáv	Majerkin	0	3411,4022
+1547	Lukáč Ján	Nižný	0	4022
+1547	Lukáč Ján	Puder	0	4022
+1547	LUKÁČ Ján		0	3411
+1547	LUKÁČ Ján	Drahý	0	4022
+1547	LUKÁČ Ján	Kanis ml	0	1981,2093,2125
+1547	LUKÁČ Ján	Kanis, manž. Zuzana r. Hrabušaj, zomrel	0	3857
+1547	LUKÁČ Ján	Kanis, manž. Zuzana r. Hrabušaj, zomrel; manž. Zuzana r. Hrabušaj, zomrel	0	3411
+1547	LUKÁČ Ján	Kanis, zomrel	0	3833
+1547	LUKÁČ Ján	Lučankin	0	3411,4022
+1547	LUKÁČ Ján	Nelky	0	3411
+1547	LUKÁČ Ján	Puder, manž. Emília r. Teniak, zomrel; manž. Emília r. Teniak, zomrel	0	3417
+1547	LUKÁČ Ján	Šuster	0	3411
+1547	LUKÁČ Ján	Veľký	0	4022
+1547	LUKÁČ Ján	Veľký /Nižný/	0	2479
+1547	LUKÁČ Ján	žen so Zuzanou Srsany	0	3411
+1547	Lukáč Ján, SR	Kanis	0	5065
+1547	Lukáč Ján, SR	Kanis ml	0	5230
+1547	LUKÁČ Ján, SR	najst	0	4022
+1547	LUKÁČ Ján, SR	st	0	4022
+1547	LUKÁČ Jozef		0	1533,3411
+1547	LUKÁČ Jozef	Demko	0	3411,4022
+1547	LUKÁČ Jozef	Jandura	0	3411
+1547	LUKÁČ Jozef	ml	0	3411
+1547	LUKÁČ Jozef	Pálenik žen s Máriiou Šek; žen s Máriiou Šek	0	3411
+1547	LUKÁČ Jozef	Páleník, manž. Mária r. Šeková	0	3897,4767
+1547	LUKÁČ Jozef	Páleník, manž. Mária r. Šeková; manž. Mária r. Šeková	0	3411
+1547	LUKÁČ Jozef	Puder	0	2586,4022
+1547	LUKÁČ Jozef	žen s Katarínou Nemček	0	3411
+1547	Lukáč Jozef, SR		0	4022
+1547	Lukáč Jozef, SR	Páleník	0	5065
+1547	LUKÁČ Jozef, SR	najst.; najst	0	4022
+1547	LUKÁČ Juraj	Nižný	0	3411
+1547	LUKÁČ Juraj	Páleník	0	4022
+1547	LUKÁČ Karol	Bruško	0	3411
+1547	Lukáč Ľudovít	Páleník	0	1711,2052,2152,2407,2408,2564,2567,3030,3031,3032,4022,4413
+1547	LUKÁČ Ľudovít	Puder	0	2629,3411,4022
+1547	Lukáč Ľudovít, SR	Páleník	0	5065
+1547	LUKÁČ Ondrej		0	1794,4134
+1547	LUKÁČ Ondrej	Macko	0	1620,2533,2587,3193,4022,5235
+1547	LUKÁČ Ondrej	Páleník	0	2033,2182,4022
+1547	LUKÁČ Ondrej	zomrel	0	1602,3244,4135,4507,4510
+1547	LUKÁČ Ondrej, SR		0	4022
+1547	Lukáč Ondrej, SR, zomrel zomrel		0	5231
+1547	Lukáč Pavol	Páleník	0	1466,2033,4022,4111,4131,4148
+1547	LUKÁČ Peter	Majerkin	0	1684,1791,2453
+1547	LUKÁČ Peter	zomrel	0	3444,3451
+1547	LUKÁČOVÁ Alžbeta	mal., zomrela	0	3743
+1547	LUKÁČOVÁ Anna	Jandura Cyprián, r.Slotka Poliak,zomrela	0	3262
+1547	LUKÁČOVÁ Anna	r.Lukáčová	0	1984,2406
+1547	LUKÁČOVÁ Anna	r.Slotková Poliaková	0	1717,1886,4558,4908
+1547	LUKÁČOVÁ Božena	r. Šeko, vd., zomrela	0	2097

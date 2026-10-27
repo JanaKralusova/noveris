@@ -1,0 +1,256 @@
+1972	Molčan Ján		0	24,25,113,526,547,559,571,587,588,603,606,609,622,625,627,628,661,715,717,718,719,779,957,958,979,996,1059
+1972	Molčan Ján	manželka M. Gburíková	0	720,721,722,728
+1972	Molčan Ján	manželka Mária r. Gburíková	0	203,223,225,289,358,576,632,663,723,724,725,945,1060
+1972	Molčan Ján	vojak	0	622,1059
+1972	Molčan Ján r. Molčan		0	569,667,726
+1972	Molčan Ján r. Molčan	manželka M. Gburiková	0	726,727
+1972	Molčan Jozef	1	0	784
+1972	Molčan Juraj		0	632
+1972	Molčan Michal		0	526
+1972	Molčan Michal	1	0	603,996
+1972	Molčan Vasil	Olejar	0	784
+1972	Molčanová Anna		0	526,542,549,587,588,603,609,622,625,627,629,667,779
+1972	Molčanová Anna	súrodenci Juraj, Anna, Katarína, Ján	0	405
+1972	Molčanová Anna	súrodenci Juraj, Mária, Katarína, Ján	0	24,113,114,405,715,957,996,1046,1049,1059
+1972	Molčanová Anna r. Rybárová		0	224,225,1140
+1972	Molčanová Katarína		0	526,542,549,587,588,603,609,625,627,629,667,779
+1972	Molčanová Katarína	súrodenci Juraj, Anna, Mária, Ján	0	24,405,715,957,996,1046,1049
+1972	Molčanová Katarína	súrodenci Juraj, Anna,Mária, Ján	0	405
+1972	Molčanová Katarína	súrodenci Juraj, Mária, Anna, Ján	0	113,114
+1972	Molčanová Mária		0	526,542,549,587,588,603,609,625,627,629,667,779
+1972	Molčanová Mária	súrodenci Juraj, Anna, Katarína, Ján	0	24,113,114,405,715,957,996,1046,1049
+1972	Molčanová Mária r. Fľaková		0	587,588
+1972	Olejár Jozef		0	24,25,113,547,587,588,606,609,622,625,627,628,667,715,779,957,958,979,1059
+1972	Olejár Michal		0	24,25,113,547,587,588,606,609,622,625,627,628,667,715,779,957,958,979,1059
+1972	Olejárová Mária		0	24,25,113,179,462,464,547,587,588,606,609,622,625,627,628,667,715,779,782,785,957,958,979,1059
+1972	Orincsák Imrich	Placzko	0	191
+1972	Orincsak Peter		0	191
+1972	Orinčák Ján		0	191,960
+1972	Orinčák Johan	Granatier	0	706,963,967
+1972	Orinčák Johan r. Orinčák	Granatier	0	510,619
+1972	Orinčák Michal		0	107,112,191,595,706,961,963,965,967,978,1139
+1972	Orinčák Michal	mladš	0	967
+1972	Orinčák Michal r. Orinčák		0	509,510,552,554,617,619,937
+1972	Orinčák Mikuláš	manželka Alžbeta rodená Džugan	0	191,967
+1972	Orinčák Mikuláš	manželka Alžbeta rodená Džuganová	0	107
+1972	Orinčák Peter	Tomčišin	0	966,968
+1972	Orinčáková Anna		0	595
+1972	Orinčáková Ilona		0	961
+1972	Orinčáková Mária		0	961
+1972	Orinčáková Marta		0	961
+1972	Paranová Anna r. Vasková	manžel Tomáš	0	408
+1972	Pardelya Johana r. Gburiková		0	970
+1972	Pavlik Jozef		0	500,501,605,792,931,936,938
+1972	Pavlik Juraj		0	500,501,502,514,597,605,792,931,936,938
+1972	Pavliková Anna		0	557,558,609,1045
+1972	Pavliková Anna r. Hrebíková		0	622,1059
+1972	Pavlíková Katarína r. Utľaková		0	962
+1972	Pavlov Ján		0	531,563,582,634,635,660,669,989
+1972	Pavlov Ján r. Pavlov		0	566,660,696
+1972	Pavlov Jozef		0	531,635,669
+1972	Pavlov Juraj		0	531,635,669,1003
+1972	Pavlov Michal		0	590
+1972	Pavlov Peter	zomrel 22.01.2002	0	960,983,989
+1972	Pavlov Štefan		0	563,634,989
+1972	Pavlov Štefan r. Pavlov		0	566,660,696
+1972	Pavlová Alžbeta r. Buríková		0	253,254,455,644,654,922,923,1121
+1972	Pavlová Anna		0	960,989
+1972	Pavlová Anna r. Teplicová		0	155
+1972	Pavlová Anna r. Vanacká		0	631
+1972	Pavlová Mária		0	531,579,610,635,669,960,983
+1972	Pavlová Mária r. Gurová		0	682,683,684,685,686,687,756,757,758,759,760,761,767,768,769,770,771,772,1069,1072,1074,1131,1132,1133,1134,1135
+1972	Petročková Marta r. Bobková		0	1076
+1972	Piroga Štefan		0	408
+1972	Piroga Štefan	manželka Magda r. Blašková	0	408
+1972	Pirogová Anna		0	408
+1972	Pirogová Magda r. Blašková	manžel Štefan	0	408
+1972	Plačko Ondrej r. Plačko, Za sedriou, Levoča, PSČ 054 01, SR		0	494,495,608,640,641,642,656
+1972	Plačková Anna r. Lisoňová		0	522,658,1053,1117,1118
+1972	Putová Magdaléna r. Fecková	manžel Jakub	0	408
+1972	Ribárová Anna		0	530,635
+1972	Rímskokatolícka fara		0	408
+1972	Saboľ Andrej		0	408
+1972	Slamková Anna r. Lazarová		0	430,481,611,927,928,929
+1972	Slamkovaá Anna r. Lazarová		0	611
+1972	Slebodník Ján		0	408
+1972	Slebodník Pavol		0	408
+1972	Slebodník Štefan	maloletý	0	408
+1972	Slebodník Štefan	manželka Alžbeta r. Gurová	0	408
+1972	Slebodník Tomáš		0	408
+1972	Slebodník Valent		0	408
+1972	Slebodníková Katarína		0	408
+1972	Slebodníková Mária		0	408
+1972	Spoločný majetok urbársky v Toryskách		0	1013
+1972	Stingerová Mária r. Buríková		0	253,254,455,644,654,922,923,1121
+1972	Suchá Anna	maloletá	0	408
+1972	Suchá Anna r. Griegerová		0	408
+1972	Suchá Katarína r. Gburiková		0	408
+1972	Suchý Juraj		0	408
+1972	Suchý Michal		0	408
+1972	Suchý Pavol		0	408
+1972	Suchý Pavol	maloletý	0	408
+1972	Surák Agosten		0	408
+1972	Surák Ján		0	408
+1972	Surák Ján	manželka Mária r. Vanczová	0	408
+1972	Surák Jozef		0	408
+1972	Surák Martin		0	408
+1972	Surák Peter		0	408
+1972	Surák Štefan	maloletý	0	408,1051
+1972	Surák Tomáš		0	408
+1972	Suráková Alžbeta	maloletá	0	408
+1972	Suráková Katarína		0	408
+1972	Suráková Mária		0	408
+1972	Suráková Mária r. Vanczová	manžel Ján	0	408
+1972	Šaško Jozef		0	321
+1972	Šašková Mária		0	321
+1972	Školník Štefan	maloletý	0	408
+1972	Tabaková Mária		0	257,490,493,599,600
+1972	Tabáková Mária r. Bobková		0	1025
+1972	Tabáková Mária r. Chraščová		0	1068
+1972	Teplica Michal		0	519,557,558,609,638,713,1045
+1972	Teplica Ondrej		0	224,225,1140
+1972	Teplicová Mária r. Dutková		0	91,146,536,601,948
+1972	Teplicová Mária r. Lisoňová	zomrela 15.7.1988, naposledy bytom Levoča	0	17,18,19,1087
+1972	Teplicová Mária r. Lisoňová, Levoča, Levoča, PSČ 054 01, SR	zomrela 15.7.1988	0	1103
+1972	Tureková Anna		0	1034
+1972	Tureková Mária r. Pavlová		0	541
+1972	Uľa Jozef		0	203,225,711
+1972	Uľa Peter		0	561,593
+1972	Uľová Mária		0	593
+1972	Uľová Marta		0	593
+1972	Utľak Ján		0	107,543,544,586,625,967,1043,1095,1096
+1972	Utľak Ján	1	0	1043,1095,1096
+1972	Utľak Ján	starší	0	543,586,625
+1972	Utľak Michal		0	107,112,191,544,552,554,586,625,967,978,1043,1095,1096,1139
+1972	Utľak Michal r. Utľak		0	617,937
+1972	Utľák Ondrej	manželka Katarína r. Rybárová	0	965
+1972	Utľák Ondrej	manželka Katarína rodená Rybárová	0	191
+1972	Utľák Ondrej	manželka Katarína Rybárová	0	963
+1972	Utľaková Katarína		0	463,990,1094
+1972	Utľaková Katarína	maloletá	0	79,376
+1972	Utľáková Katarína r. Rybárová		0	107,112,191,963,965,967,978,1139
+1972	Utláková Mária r. Pavlíková		0	963,965
+1972	Valko Juraj		0	525,526,603,995,996
+1972	Valková Mária r. Hanulová		0	488,524,636,637,658,659,793
+1972	Vanacká Mária r. Buriková		0	553,932
+1972	Vanacká Mária r. Lisoňová		0	438,443,780,1137
+1972	Vanacká Marta r. Orinčáková		0	87,88
+1972	Vanacký Ján		0	191
+1972	Vanacký Ján	ml	0	963,965
+1972	Vanacký Ján r. Vanacký		0	509
+1972	Vanacký Michal		0	963,965
+1972	Vanacký Michal r. Vanacký		0	509
+1972	Vanaczká Mária r. Buríková		0	5,112,617,930,937,1139
+1972	Vanaczki Ján		0	784,997
+1972	Varšová Anna r. Kaščáková		0	208,213,394,436,592,942,943
+1972	Vasko Emerich		0	408
+1972	Vasko František	maloletý	0	408
+1972	Vasko Ján		0	408
+1972	Vasko Ján	maloletý	0	408
+1972	Vasko Michal		0	408
+1972	Vasko Peter	maloletý	0	408
+1972	Vasko Tomáš	maloletý	0	408
+1972	Vasko Valentín	maloletý	0	408
+1972	Vasková Alžbeta		0	408
+1972	Vasková Alžbeta r. Repaská, Nižné Repaše 9, Nižné Repaše, PSČ 053 71, SR		0	408
+1972	Vašečková Anna r. Bečkerová		0	408
+1972	Vrabeľ Ján		0	633
+1972	Vrábeľ Ján	Lešo	0	321,419,491,493,599,600,633
+1972	Vrábel Jozef		0	75,321,491,493,599,600,633,867
+1972	Vrábeľ Juraj		0	321,419,491,493,599,600,633
+1972	Vrabeľ Martin		0	408
+1972	Vrabeľ Michal		0	633
+1972	Vrábeľ Michal	manželka Mária Lisoňová	0	963
+1972	Vrábeľ Michal	manželka Mária r. Lisoňová	0	964
+1972	Vrábeľ Michal	žena Mária r. Lisoňová	0	169
+1972	Vrábel Ondrej		0	75,321,419,451,491,493,521,599,600,795,797,955,1038
+1972	Vrábel Štefan		0	75,408
+1972	Vrabelová Alžbeta r. Vasková	manžel Jozef	0	408
+1972	Vrabeľová Anna		0	467
+1972	Vrábeľová Katarína		0	321,491,493,599,600,633,867
+1972	Vrabeľová Katarína r. Teplicová		0	519,638,713
+1972	Vrábelová Mária		0	75,467
+1972	Vrabeľová Mária r. Buriková	manžel Peter	0	408
+1972	Vrabelová Verona r. Kovalová	manžel Štefan	0	408
+1972	Žembová Anna r. Kašperová		0	1071
+1972	Žentkovičová Marta r. Chraščová		0	1068
+1973	Babič Andrej		0	1427,1737,2033,2036,2103,2744,3080
+1973	Babič Andrej	I	0	2035
+1973	Babič Andrej	ž Anna r. Pavelčáková	0	3204,3656
+1973	Babič Ján	I	0	2160
+1973	Babič Ján	XVIII	0	1427,1667,1908,2161,2204,2208,2251,2276,2301,2484,2504,2570,2795,3188,3354,3916
+1973	Babič Jozef	I	0	2484,2570,2744,3681
+1973	Babičová Anna		0	2033
+1973	Babičová Anna r. Dlubačová		0	2110
+1973	Babičová Anna r. Pavelčáková		0	90,2033,2035,2036,2103,2570,2825,3080,3262
+1973	Babičová Cecília r. Pavelčáková		0	2033,2103,2825,3162
+1973	Babičová Katarína		0	1427,1667,2160,2161,2204,2208,2301,2570,2795,3657
+1973	Babičová Mária	I	0	3015
+1973	Babičová Mária r. Bičušová		0	2570,3048,3639
+1973	Babjarčík Andrej	I	0	3166
+1973	Babjarčíková Anna r. Bohinská		0	2484,3484
+1973	Babjarčíková Barbora		0	1136,3707
+1973	Bačinská Magdaléna		0	80,2000,2009,2064,2099,2312,3188,3869
+1973	Bargovičová Anna r. Valigurská		0	1908,2013,2079,2112,2499,3690
+1973	Bičuš Jakub		0	2230,3412
+1973	Bičuš Ján		0	2484,3166
+1973	Bičuš Ján	I	0	1469,1874,2182,2515,3496,3686,3694
+1973	Bičuš Jozef		0	2379,3162,3445
+1973	Bičuš Ladislav		0	1696,2517,3185
+1973	Bičušová Anna r. Valigurská		0	1978,2449,2747,3678
+1973	Bičušová Antónia r. Hoholová		0	2379,3692,3713
+1973	Bičušová Katarína		0	3048
+1973	Bičušová Katarína r. Kolodzejová		0	3655
+1973	Bičušová Viktória		0	3048,3192
+1973	Bičušová Žofia r. Dílská		0	1874,2182,3700
+1973	Bigoš Jozef		0	3613
+1973	Bigošová Mária r. Brokloffová		0	3432
+1973	Bizubová Margita r. Fiamčíková	Podolínec 157	0	2510
+1973	Bohinská Anna r. Valigurská		0	1838,1918,1961,3406
+1973	Bohinská Katarína r. Hanečáková		0	1874,2182
+1973	Bohinská Katarína r. Hanečáková	m Pavol	0	3253
+1973	Bohinská Mária		0	1697,2123,2510,3193,3841,3855,3887,3889
+1973	Bohinský Ján		0	1697,1838,2036,2085,2088,2123,2363,2510,2744,2770,2992,3031,3116,3579,3841,3855,3887,3889
+1973	Bohinský Michal		0	1697,2123,2510,3710,3841,3855,3887,3889
+1973	Bombarová Anna r. Babičová		0	2335,3715
+1973	Bučor Jakub		0	3686
+1973	Bučor Ján		0	3716
+1973	Bučor Jozef		0	3702
+1973	Bučor Michal		0	3161
+1973	Búčorová Katarína		0	3702
+1973	Búčorová Mária		0	2379,3700
+1973	Búčorová Verona		0	2379,3700
+1973	Búčorová Žofia		0	3161
+1973	Dílská Anna r. Kubisová		0	2504,3376
+1973	Dílská Mária		0	2997,2998,2999
+1973	Dílský Andrej	III	0	1874,2182,2208,2212,2379,2484,3189,3559
+1973	Dílský Jozef		0	1918,1961,3717
+1973	Dílský Štefan		0	1978,2747,2763,2764,2997,2998,2999,3700
+1973	Dinda Emil		0	3163
+1973	Dinda Rudolf		0	3163
+1973	Dindová Irma		0	3163
+1973	Dlubáč Andrej		0	1172,1427,1525,2376,2467,3501
+1973	Dlubáč Ján		0	1427,2133,2282,2379,2467,3019,3061,3280,3689
+1973	Dlubáč Jozef		0	1427,3453
+1973	Dlubáč Michal		0	2103,2133,2134,2444,2591,3061,3160,3617,3702
+1973	Dlubáč Pavel	VII	0	90,1172,2134,3419,3677
+1973	Dlubáč Pavol		0	2033,3061
+1973	Dlubáč Pavol	I	0	2133,3061,3203,3680
+1973	Dlubáč Pavol	II	0	2110
+1973	Dlubáč Pavol	VI	0	701,965,1172,1235,2019,2103,2134,2268,2282,2376,2379,2439,2444,2467,2591,2744,3637,3685
+1973	Dlubač Štefan		0	2033,2467,3398
+1973	Dlubáčová Anna r. Gahurová		0	225,2268,3707
+1973	Dlubáčová Antónia r. Romanová		0	2999
+1973	Dlubáčová Katarína r. Valigurská		0	3175
+1973	Dúbravská Katarína r. Dlubačová		0	1365,1699,3700
+1973	Dudžík Andrej		0	2373,2912,3581
+1973	Dudžíková Karolína r. Leščinská		0	3683
+1973	Dunajová Katarína r. Matavová		0	1745,2006,2043,2099,3259
+1973	Durstinová Katarína r. Pavelčáková		0	965,1235,1892,2625,3192
+1973	Fialka Andrej		0	3700
+1973	Fialka Jozef		0	3700
+1973	Fiamčík Andrej		0	3338
+1973	Fiamčík Jozef	1	0	1918,1954,1961,3693
+1973	Fiamčíková Anna r. Pavelčáková		0	2134,2151,2379,2547,3370
+1973	Fiamčíková Anna r. Valigurská		0	2133,2148,3061,3702
+1973	Fiamčíková Katarína r. Hajosteková		0	965,1235,1892,3192

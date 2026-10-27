@@ -1,0 +1,256 @@
+2137	GOMBITA Andrej	zomrel,4	1	428
+2137	GOMBITA Andrej, SR	0	1	555
+2137	GOMBITA Andrej, SR	2	1	568,684
+2137	GOMBITA Andrej, SR	5	1	559
+2137	GOMBITA Andrej, SR	mal	1	571
+2137	GOMBITA Andrej, SR	malololetý ,zomrel	0	289
+2137	GOMBITA Andrej, SR	malololetý,zomrel	0	289,294
+2137	GOMBITA Andrej, SR	NV	0	305
+2137	GOMBITA Andrej, SR	zom	1	377,386,395,425,429,433,435,440,441,442,451,452,457,459,460,576
+2137	GOMBITA Andrej, SR	zomr	0	424
+2137	GOMBITA Andrej, SR	zomrel	1	582,584
+2137	GOMBITA Andrej, SR	zomrel, 1	1	439
+2137	GOMBITA Andrej, SR	zomrel, 4	1	590
+2137	GOMBITA Andrej, SR	zomrel,2	1	582,584
+2137	GOMBITA Andrej, SR	zomrel,3	1	575
+2137	GOMBITA HOLAN Michal, SR	ml.zomrel	1	258
+2137	GOMBITA Ivan		1	569,681,709
+2137	GOMBITA Ján		0	372,374
+2137	GOMBITA Ján	s.Michala	0	446
+2137	GOMBITA Ján	zom	0	463,464,468
+2137	GOMBITA Ján	ž.Berdáková Anna	1	428,434,446,461,464
+2137	GOMBITA Ján	ž.Ferková Anna 1909 -1989	0	464
+2137	GOMBITA Ján	ž.Ferková Anna, 1909- 1989	0	461
+2137	GOMBITA Ján	ž.Tereková Anna, zom	0	463
+2137	GOMBITA Ján	ž.Tereková Anna,zom	0	464
+2137	GOMBITA Ján	ž.Tereková Anna,zomrel	0	461
+2137	GOMBITA Ján r. Gombita	ž.Berdáková Anna	1	366,446
+2137	GOMBITA Ján r. Gombita, 094 07, Pakostov, č. 137, SR	1,zom.13.1.2000	0	565
+2137	GOMBITA Ján r. Gombita, 094 07, Pakostov, č. 26, SR	zom.01.01.1973,ž. Gombitová Zuzana 1903- 1973	0	576
+2137	GOMBITA Ján r. Gombita, 09407, Pakostov, č. 16, SR	ž. Mária r. Sopková , zom	0	575
+2137	GOMBITA Ján r. Gombita, 09407, Pakostov, č. 26, SR	ž. Zuzana Gombitová 1903- 1973	0	575,582,584
+2137	GOMBITA Ján r. Gombita, 09407, Pakostov, č. 26, SR	ž.Zuzana Gombitová, 1903-1973	0	366
+2137	GOMBITA Ján, 094 07, Pakostov, č. 83, SR	zom.12.11.1994,ž.Durillová Mária	0	573
+2137	GOMBITA Ján, SR	10	1	568,684
+2137	GOMBITA Ján, SR	11	1	568,684
+2137	GOMBITA Ján, SR	12	1	568,684
+2137	GOMBITA Ján, SR	13	1	565,571
+2137	GOMBITA Ján, SR	14	1	565
+2137	GOMBITA Ján, SR	17	1	571
+2137	GOMBITA Ján, SR	18	1	571
+2137	GOMBITA Ján, SR	19	1	559
+2137	GOMBITA Ján, SR	20	1	566,578
+2137	GOMBITA Ján, SR	3	1	557
+2137	GOMBITA Ján, SR	4	1	557
+2137	GOMBITA Ján, SR	6	1	555
+2137	GOMBITA Ján, SR	b. Michal	1	576
+2137	GOMBITA Ján, SR	b.Michal	0	377,383,395
+2137	GOMBITA Ján, SR	mal	1	571
+2137	GOMBITA Ján, SR	mal. ,1	1	571
+2137	GOMBITA Ján, SR	s. Michala	1	439,576
+2137	GOMBITA Ján, SR	s. Michala,1	1	582,584
+2137	GOMBITA Ján, SR	s.Michala	0	377,395,440
+2137	GOMBITA Ján, SR	syn Michala	1	559
+2137	GOMBITA Ján, SR	vzdialený	1	565,566,571,578
+2137	GOMBITA Ján, SR	zom	1	370,372,386,401,402,404,410,424,425,427,429,433,435,441,445,451,452,457,459,460,461,573,582
+2137	GOMBITA Ján, SR	zomr	0	374
+2137	GOMBITA Ján, SR	zomrel	1	584
+2137	GOMBITA Ján, SR	zomrel, 4	1	590
+2137	GOMBITA Ján, SR	zomrel,1	1	582,584
+2137	GOMBITA Ján, SR	zomrel,2	1	575
+2137	GOMBITA Ján, SR	zomrel,3	1	590
+2137	GOMBITA Ján, SR	zomrel,5	1	590
+2137	GOMBITA Ján, SR	ž. Berdáková Anna	1	561,581,582,584,590,672,675
+2137	GOMBITA Ján, SR	ž. Csokirda Ilona	1	580
+2137	GOMBITA Ján, SR	ž. Mária Sopko	1	568,684
+2137	GOMBITA Ján, SR	ž. Mária Sopková	1	559
+2137	GOMBITA Ján, SR	ž. Mária Takarkova	1	566,578
+2137	GOMBITA Ján, SR	ž.Alžbeta Mihaľová	1	571
+2137	GOMBITA Ján, SR	ž.Anna Ferko	1	565
+2137	GOMBITA Ján, SR	ž.Berdáková Anna	1	368,388,394,396,429,433,441,451,452,556,685,703
+2137	GOMBITA Ján, SR	ž.Csokirda Ilona	0	384
+2137	GOMBITA Ján, SR	ž.Ferková Anna ,1909- 1989	0	430,441,442
+2137	GOMBITA Ján, SR	ž.Ferková Anna ,1909-198	0	427
+2137	GOMBITA Ján, SR	ž.Ferková Anna ,1909-1989	0	452,457
+2137	GOMBITA Ján, SR	ž.Ferková Anna ,nar.1909- 1989	0	381
+2137	GOMBITA Ján, SR	ž.Ferková Anna, 1909 -1989	0	459
+2137	GOMBITA Ján, SR	ž.Ferková Anna, 1909 -89	0	429
+2137	GOMBITA Ján, SR	ž.Ferková Anna, 1909 1989	0	402
+2137	GOMBITA Ján, SR	ž.Ferková Anna, 1909- 1989	0	433
+2137	GOMBITA Ján, SR	ž.Ferková Anna, 1909-1989	0	451
+2137	GOMBITA Ján, SR	ž.Ferková Anna, nar. 1909- 1989	0	380,417
+2137	GOMBITA Ján, SR	ž.Mária Tatarková	1	565,571
+2137	GOMBITA Ján, SR	ž.Tereková Anna , zomrel	0	424,441,452,460
+2137	GOMBITA Ján, SR	ž.Tereková Anna, zomrel	0	425,429,433,451,457,459
+2137	GOMBITA Jozef		0	277,468,641
+2137	GOMBITA Jozef	ž.Gombitová Alžbeta	0	461,463,464,466
+2137	GOMBITA Jozef r. Gombita, 094 06, Pakostov, č. 103, SR	zom.15.7.1999	0	258
+2137	GOMBITA Jozef r. Gombita, 094 07, Pakostov, č. 100, SR	9,zom.9.4.1998	0	565
+2137	GOMBITA Jozef, SR	ž. Gombitová Alžbeta	1	565,582,584,590
+2137	GOMBITA Jozef, SR	ž.Gombitová Alžbeta	1	380,381,401,402,424,425,427,429,430,433,441,442,451,452,457,459,460,573
+2137	GOMBITA Juraj		0	370
+2137	GOMBITA Juraj	ž.Berdáková Mária	0	461,464
+2137	GOMBITA Juraj r. Gombita, 09407, Pakostov, č. 19, SR	ž. Mária r. Grajcárová	0	540
+2137	GOMBITA Juraj, SR	6	1	559
+2137	GOMBITA Juraj, SR	vd	1	571
+2137	GOMBITA Juraj, SR	ž.Anna Berdák	1	565
+2137	GOMBITA Juraj, SR	ž.Berdáková Mária	0	429,433,441,457,459
+2137	GOMBITA Juraj, SR	ž.Rebejová Anna	1	571
+2137	GOMBITA Michal	b.Jozef,1984	0	301
+2137	GOMBITA Michal r. Gombita	zomrel	0	277,293,641
+2137	GOMBITA Michal r. Gombita, 094 07, Pakostov, č. 51, SR	ž.Stavarová Paraska ,zomrel	0	699
+2137	GOMBITA Michal r. Gombita, 094 07, Pakostov, č. 89, SR	zom. 28.12.1984	0	589
+2137	GOMBITA Michal r. Gombita, 094 07, Pakostov, č. 89, SR	zom.28.12.1984	0	365,582
+2137	GOMBITA Michal r. Gombita, 09407, Pakostov, č. 62, SR	4	0	577
+2137	GOMBITA Michal r. Gombita, SR	NV	0	305
+2137	GOMBITA Michal, 094 07, Pakostov, č. 89, SR	zom.28.12.1984	0	590
+2137	GOMBITA Michal, SR	0	1	555
+2137	GOMBITA Michal, SR	11	1	568,684
+2137	GOMBITA Michal, SR	12	1	568,684
+2137	GOMBITA Michal, SR	13	1	565,571
+2137	GOMBITA Michal, SR	14	1	571
+2137	GOMBITA Michal, SR	15	1	571
+2137	GOMBITA Michal, SR	16	1	571
+2137	GOMBITA Michal, SR	17	1	571
+2137	GOMBITA Michal, SR	18	1	571
+2137	GOMBITA Michal, SR	19	1	560
+2137	GOMBITA Michal, SR	20	1	560
+2137	GOMBITA Michal, SR	21	1	566,578
+2137	GOMBITA Michal, SR	5	1	555
+2137	GOMBITA Michal, SR	6	1	555
+2137	GOMBITA Michal, SR	brat.Jozef, zomr. 1984	0	302
+2137	GOMBITA Michal, SR	bret.Jozef, zomr.1984	0	277,641
+2137	GOMBITA Michal, SR	s.Štefan	0	449
+2137	GOMBITA Michal, SR	zom	1	370,372,380,381,383,386,401,402,409,424,425,427,430,433,435,441,445,573,582
+2137	GOMBITA Michal, SR	zomr	0	374
+2137	GOMBITA Michal, SR	zomrel	1	584
+2137	GOMBITA Michal, SR	zomrel,1	1	575,582,584
+2137	GOMBITA Michal, SR	zomrel,2	1	582,584,590
+2137	GOMBITA Michal, SR	zomrel,3	1	590
+2137	GOMBITA Michal, SR	ž. Stavarová Paraska , zomrel	1	558,576,584,590
+2137	GOMBITA Michal, SR	ž. Stavarová Paraska, zom	1	582
+2137	GOMBITA Michal, SR	ž. Stavarová Paraska, zomrel	1	439
+2137	GOMBITA Michal, SR	ž.Anna Boľko	1	565
+2137	GOMBITA Michal, SR	ž.Priska Stavárová	1	559,560
+2137	GOMBITA Pavol		0	461,464
+2137	GOMBITA Pavol, 09407, Pakostov, č. 25), SR	ž.Stavarová Mária	0	573
+2137	GOMBITA Pavol, SR	1	1	565
+2137	GOMBITA Pavol, SR	NV	0	305
+2137	GOMBITA Pavol, SR	vzd,zomrel	0	430
+2137	GOMBITA Pavol, SR	vzd., zomrel	0	401,402,427
+2137	GOMBITA Pavol, SR	vzd.,zomrel	0	372,374,380,381
+2137	GOMBITA Pavol, SR	vzdialený	1	565,566,571,578
+2137	GOMBITA Pavol, SR	ž.Mária Stavár	1	565
+2137	GOMBITA Štefan		0	372,374,380,381,401,402,427,429,430,433,435,441,451,452,461,464,468
+2137	GOMBITA Štefan	ž.Durillová Mária	0	461
+2137	GOMBITA Štefan r. Gombita, 094 07, Pakostov, č. 92, SR	zom. 11.11.1971,ž. Krivdová Terézia,2	0	581,672
+2137	GOMBITA Štefan r. Gombita, 09407, Pakostov, č. 54, SR	ž.Krivdová Terézia	0	556
+2137	GOMBITA Štefan, 09407, Pakostov, č. 54, SR	ž.Krivdová Terézia	0	573
+2137	GOMBITA Štefan, SR	3	1	571
+2137	GOMBITA Štefan, SR	4	1	566,578
+2137	GOMBITA Štefan, SR	ž. Anna Metiľová	1	566,578
+2137	GOMBITA Štefan, SR	ž. Durillová Mária	1	582,584,590
+2137	GOMBITA Štefan, SR	ž.Anna Metiľ	1	571
+2137	GOMBITA Štefan, SR	ž.Mária Durillová	1	589
+2137	GOMBITA- HOLAN Michal, SR	ž.Bilková Anna,zomrel	0	302
+2137	GOMBITA-HOLAN Ján, SR	zom	0	411,442
+2137	GOMBITA-HOLAN Juraj		1	565
+2137	GOMBITA-HOLAN Michal	ž.Bilková Anna,zom	0	464
+2137	GOMBITA-HOLAN Michal	ž.Bilková Anna,zomrel	0	461
+2137	GOMBITA-HOLAN Michal, SR	ml. , zomrel	1	575
+2137	GOMBITA-HOLAN Michal, SR	ml., zomrel	1	435,590
+2137	GOMBITA-HOLAN Michal, SR	ml.,zomrel	0	386
+2137	GOMBITA-HOLAN Michal, SR	ž. Bilková Anna , zomrel	1	582
+2137	GOMBITA-HOLAN Michal, SR	ž. Bilková Anna ,zomrel	1	584
+2137	GOMBITA-HOLAN Michal, SR	ž.Bilková Anna, zomrel	0	433,441,451,452
+2137	GOMBITA-HOLAN Michal, SR	ž.Bilková Anna,zomrel	0	429
+2137	GOMBITA-REVÁK Andrej	zom	0	463,464,468
+2137	GOMBITA-REVÁK Andrej	zomrel	1	428,434,466
+2137	GOMBITA-REVÁK Andrej, SR	zom	0	424,425,429,441,442,451,452,457,459,460,461
+2137	GOMBITA-REVÁK Andrej, SR	zomr	0	423,433
+2137	GOMBITA-REVÁK Andrej, SR	zomrel	1	590
+2137	GOMBITA-REVÁK Ján	ž.Homolová Alžbeta .zom	0	464
+2137	GOMBITA-REVÁK Ján	ž.Homolová Alžbeta,zom	0	464
+2137	GOMBITA-REVÁK Ján	ž.Homolová Alžbeta,zomrel	1	366
+2137	GOMBITA-REVÁK Ján	ž.Homolová Alžbeta.zomrel	0	461
+2137	GOMBITA-REVÁK Ján, SR	ž. Homolová Alžbeta, zom	1	582
+2137	GOMBITA-REVÁK Ján, SR	ž. Homolová Alžbeta, zomrel	1	584
+2137	GOMBITA-REVÁK Ján, SR	ž.Homolová Alžbeta , zomrel	0	425,441,451,457,459,461
+2137	GOMBITA-REVÁK Ján, SR	ž.Homolová Alžbeta , zomrela	0	452
+2137	GOMBITA-REVÁK Ján, SR	ž.Homolová Alžbeta, zomrel	0	424,429,433,441,442
+2137	GOMBITA-REVÁK Ján, SR	ž.Homolová Alžbeta,zomrel	0	429
+2137	GOMBITA-REVÁK Jozef, SR	zomrel	1	590
+2137	GOMBITA-REVÁK Michal	zom	0	463,464,468
+2137	GOMBITA-REVÁK Michal, SR	zom	0	425,433,441,457,459,460,461
+2137	GOMBITOVÁ Alia	r. Cibuľášová m. Ján	1	562
+2137	GOMBITOVÁ Alia r. Cibuľášová	m.Ján	1	366
+2137	GOMBITOVÁ Alia r. Cibuľášová, SR	m. Ján	1	582,584
+2137	GOMBITOVÁ Alja r. Cibulášová	m.Ján,zomrela	0	446
+2137	GOMBITOVÁ Alja r. Cibuľášová	m.Ján	1	366
+2137	GOMBITOVÁ Alja r. Cibuľášová, SR	m.Ján, zomrela	0	398
+2137	GOMBITOVÁ Alja r. Cibuľášová, SR	m.Ján,zomrela	0	376
+2137	GOMBITOVÁ Alžbeta r. Buviková, SR	m.Ján	0	319
+2137	GOMBITOVÁ Alžbeta r. Palaštová, SR	Ondrejova,zomrela	0	289,294
+2137	GOMBITOVÁ Alžbeta r. Palaštová, SR	zomrel	0	294
+2137	GOMBITOVÁ Alžbeta r. Palaštová, SR	zomrela	0	289
+2137	GOMBITOVÁ Alžbeta, SR	mal	1	571
+2137	GOMBITOVÁ Alžbeta, SR	nezletila	1	566,578
+2137	GOMBITOVÁ Alžbeta, SR	zom	0	372
+2137	GOMBITOVÁ Anna		0	422,440
+2137	GOMBITOVÁ Anna	r.Turčik	1	571
+2137	GOMBITOVÁ Anna	zl	1	366
+2137	GOMBITOVÁ Anna	zomrela	0	446
+2137	GOMBITOVÁ Anna r. Gombitová, 094 07, Pakostov, č. 6, SR	zom.13.6.1982, m.Michal ,2	0	590
+2137	GOMBITOVÁ Anna r. Gombitová, 094 07, Pakostov, č. 6, SR	zom.13.6.1982, m.Michal Z,2	0	582
+2137	GOMBITOVÁ Anna r. Gombitová, 094 07, Pakostov, č. 6, SR	zom.13.6.1982,m.Michal ,2	0	589
+2137	GOMBITOVÁ Anna r. Rakarová	m.Andrej	0	301
+2137	GOMBITOVÁ Anna r. Rakarová, SR	1	1	270,593
+2137	GOMBITOVÁ Anna r. Rakarová, SR	m.Andrej	0	280,302,653
+2137	GOMBITOVÁ Anna r.Rakarová		0	480,654,655
+2137	GOMBITOVÁ Anna, 09407, Pakostov, SR	zomrel	1	366
+2137	GOMBITOVÁ Anna, SR	1	1	568,684
+2137	GOMBITOVÁ Anna, SR	2	1	439
+2137	GOMBITOVÁ Anna, SR	mal	1	571
+2137	GOMBITOVÁ Anna, SR	matka Mária Jašová	1	559
+2137	GOMBITOVÁ Anna, SR	zom	1	377,386,395,435,576,582
+2137	GOMBITOVÁ Anna, SR	zomrel,1	1	575
+2137	GOMBITOVÁ Anna, SR	zomrela	1	584
+2137	GOMBITOVÁ Anna, SR	zomrela, 1	1	584
+2137	GOMBITOVÁ Anna, SR	zomrela,1	1	582
+2137	GOMBITOVÁ HOLAN Zuzana r. Gombitová, 09407, Pakostov, č. 26, SR	m.J. 1906- 85	0	258
+2137	GOMBITOVÁ Justína		0	370,423,435
+2137	GOMBITOVÁ Justína, SR		0	386
+2137	GOMBITOVÁ Justína, SR	1	1	575
+2137	GOMBITOVÁ Justína, SR	2	1	568,684
+2137	GOMBITOVÁ Justína, SR	mal	1	571
+2137	GOMBITOVÁ Justína, SR	nezetilá	1	555
+2137	GOMBITOVÁ Mária	b.Michal	0	464
+2137	GOMBITOVÁ Mária	r. Hudáková	1	541
+2137	GOMBITOVÁ Mária	zom	0	463
+2137	GOMBITOVÁ Mária r. Durillová, SR	m. Štefan	1	582
+2137	GOMBITOVÁ Mária r. Durillová, SR	m.Štefan	1	425,574
+2137	GOMBITOVÁ Mária r. Durilová, SR	m. Štefan	1	584
+2137	GOMBITOVÁ Mária r. Gombitová, 094 07, Pakostov, č. 62, SR	zom.26.5.1982	0	572,582,589,590
+2137	GOMBITOVÁ Mária r. Hudáková, SR	zom	0	302,360,361
+2137	GOMBITOVÁ Mária, SR	2	1	571
+2137	GOMBITOVÁ Mária, SR	3	1	559
+2137	GOMBITOVÁ Mária, SR	b. Michal	1	576
+2137	GOMBITOVÁ Mária, SR	b.Michal	0	377,395,429,433,441,451,452,461
+2137	GOMBITOVÁ Mária, SR	zom	0	424,425,445,457,459,460
+2137	GOMBITOVÁ Mária, SR	zomrela	1	590
+2137	GOMBITOVÁ Pavlina		1	565
+2137	GOMBITOVÁ Pavlína	Třebenice - Litoměřice	0	569,681,709
+2137	GOMBITOVÁ Zuzana, SR	mal	1	569,575,681,709
+2137	GOMBITOVÁ Zuzana, SR	zom	0	386
+2137	GOMBITOVÁ-HOLAN Zuzana r. Gombitová, 09407, Pakostov, č. 26, SR	m.J. 1906- 85	0	556,581,672
+2137	GRAJCÁR Ján, SR	zom	1	302,540
+2137	GRAJCÁR Ján, SR	zomrel	0	262
+2137	GRAJCAR Michal		0	302
+2137	GRAJCAROVÁ - TIVADAROVÁ Mária r. Gombitová		0	446
+2137	GRAJCÁROVÁ -TIVADARO Mária r. Gombitová		1	366
+2137	GRAJCAROVÁ Mária	r.Gombitová	1	561,565,569,675,681,709
+2137	GRAJCÁROVÁ Mária r. Gombitová	vzd. ,zomrela	0	461
+2137	GRAJCÁROVÁ Mária r. Gombitová	vzd.,zom	0	464
+2137	GRAJCAROVÁ Mária r. Gombitová, SR	vzdial	1	566,578
+2137	GRAJCAROVÁ Mária r. Gombitová, SR	vzdialená	1	565,571
+2137	GRAJCÁROVÁ Mária r. Gombitová, SR	vzd. , zomrela	1	584,590

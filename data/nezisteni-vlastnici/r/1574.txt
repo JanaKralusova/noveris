@@ -1,0 +1,256 @@
+928	Korimová Zuzana r. Mrnková	Jánova	0	279,322,338
+928	Kováč Ján		0	147,182,198,199,273,279,322,358,375,439,449
+928	Kováč Ondrej		0	147,198,199,273,439,449
+928	Kováč Ondrej	zom.11.4.1985	0	279,322,375
+928	Kováčová Judita		0	160
+928	Kurianová Katarína r. Antalíková		0	257,279,322,331
+928	Kuric Ján		0	139,206,258,260,279,322,452,457
+928	Kuric Ján	ml	0	279,286
+928	Kuric Jozef		0	139,206,258,260,279,322,452,457
+928	Kuric Juraj		0	139,206,258,260,279,322,452,457
+928	Kuric Ondrej		0	139,206,258,279,322
+928	Kuricová Katarína r. Antalíková		0	159
+928	Kuriczová Zuzana		0	279,322
+928	Lešták František		0	102,279,296,322
+928	Lukáč Ondrej		0	156,329
+928	Lukáč Ondrej	mal	0	279,322,359
+928	Lukáčová Zuzana		0	156
+928	Lukáčová Zuzana	mal	0	279,322,359
+928	Lukáčová Zuzana r. Drábová		0	107,112,117,180
+928	Lukáčová Zuzana r. Drábová	Jánova	0	279,322,338
+928	Lukáčová Zuzana r. Mrnková	Jánova	0	279,322,338
+928	Masziková Anna r. Paušurová		0	95,279,322,348
+928	Mičiková Zuzana	dcéra Ondreja	0	301,322
+928	Michal Ján		0	189,279,322
+928	Michal Juraj		0	189
+928	Michal Juraj	mal	0	279,322
+928	Michal Pavol		0	189,279,322
+928	Michalová Mária		0	189
+928	Michalová Mária	mal	0	279,322
+928	Miklóda Jakub		0	279,322
+928	Mojžiš Ondrej		0	11
+928	Mojžiš Štefan		0	165,196
+928	Mojžišová Margita		0	153,192,256,279,322,326,366,423
+928	Mojžišová Mária		0	11,319
+928	Mojžišová Zuzana r. Koreňová		0	205,206
+928	Mojžišová Zuzana r. Koreňová	Štefanova	0	319
+928	Mrnka Ján		0	102,117,180,199,201
+928	Mrnka Ján	mal	0	279,322
+928	Mrnka Ján	zom.26.10.1988	0	279,303,322,338,370
+928	Mrnka Martin		0	87,107,112,117,122,180,415
+928	Mrnková Emília		0	107,112
+928	Mrnková Emília	mal	0	279,322,338
+928	Mrnková Mária r. Kováčová		0	147,198,199,273,439,449
+928	Mrnková Mária r. Kováčová	zom.17.7.1977	0	279,322,375
+928	Mrnková Zuzana		0	74,91,279,322,349,417
+928	Mrnková Zuzana r. Drábová		0	107,112,117,180,184,433,435
+928	Mrnková Zuzana r. Drábová	Jánova	0	279,322,338
+928	Mrnková Zuzana r. Drábová	manžel Ondrej	0	390
+928	Parvanová Katarína r. Drábová		0	276,364
+928	Paulíková Mária r. Filková		0	164
+928	Paušura Ján		0	87,95,415
+928	Paušura Ján	ml	0	74,279,322,342,455
+928	Paušura Johan		0	279,322,348
+928	Paušura Jozef		0	95,279,322,348
+928	Paušura Juraj		0	228
+928	Paušura Ondrej		0	74,342,455
+928	Paušurová Anna		0	94,244,279,322,347
+928	Paušurová Judita r. Šagúlová		0	114,137,184,279,315,322,390,433,435
+928	Paušurová Mária		0	74,95,111,142,200,228,342,455
+928	Paušurová Mária	mal	0	279,322,348
+928	Paušurová Zuzana		0	95,200,279,322,348
+928	Paušurová Zuzana	mal	0	279,322
+928	Paušurová Zuzana r. Antalíková		0	292,322
+928	Paušurová Zuzana r. Filková		0	87,415
+928	Paušurová Zuzana r. Filková	Jánova	0	279,322
+928	Pavko Juraj		0	150,151,152
+928	Pavko Pavel		0	23,109,226,279,280,281,283,322,378
+928	Pavková Mária r. Borošová		0	154,279,320,322,324,436,444
+928	Pervanová Katarína r. Drábová		0	133,134,151,166,177,195,204,213,225,236,277,279,322,365
+928	Poliak Ján	mal	0	353
+928	Poliaková Emília		0	353
+928	Poliaková Mária r. Cubová		0	98,103,114,223,224,225,279,288,291,322,334
+928	Poprocký Ján	zom.25.11.1989	0	279,315,322
+928	Selčan Ján		0	390
+928	Selčan Juraj		0	114,137,184,220,433,435
+928	Solčan Juraj		0	279,315,322
+928	Stempel Ján		0	184,279,322,350,390,433,435
+928	Stempel Juraj		0	184,279,322,350,390,433,435
+928	Stempelová Mária		0	184,279,322,350,390,433,435
+928	Szekerková Zuzana r. Drábová	Jánova	0	310
+928	Szolcsániová Zuzana r. Drábová		0	334
+928	Szukošdová Božena r. Paušurová		0	114,137,184,279,315,322,390,433,435
+928	Šagúl .	nečítateľné meno	0	126
+928	Šagúl Juraj		0	193
+928	Šagula Juraj		0	279,322,335
+928	Šagúlová Mária r. Homoláková		0	151,166,177,195,204,225,265,267,279,290,311,316,322,323,368,369
+928	Šagulová Mária r. Mrnková	Jurajova	0	279,322,332,333,335
+928	Šagúlová Mária r. Mrnková		0	126,146,193
+928	Šegúlová Zuzana r. Michalová		0	189,279,322
+928	Švihla Ján		0	302,307,316,323
+928	Švihlová Terézia		0	307,316,323
+928	Toman Michal		0	240
+928	Tomanová Mária r. Antalíková		0	149,279,292,322
+928	Törcsiová Mária r. Kuricová	Františkova	0	298
+928	Urbančoková Terézia r. Klimová		0	74,87,89,279,322,342,344,360,415,416,455
+928	Zacharovská Júlia r. Korimová		0	74,88,91,93,96,241,242,243,245,279,322,343,346,349,417,421,422
+929	ADÁMEK František	slobodný	0	2732
+929	ADÁMEKOVÁ Jozefína		0	2727
+929	AUGUSTIN Jozef		0	2553
+929	AUGUSTINOVÁ Rozália r. SVITKOVÁ	manž. Jozef	0	2553
+929	BABICA Jozef	malol. zruš. 1921	0	2208
+929	BABICOVÁ Irena r.Miklošovičová		0	2083
+929	BACHRATÁ Magdaléna r. GULDANOVÁ	manž.Martin	0	2853
+929	BACHRATÁ Mária r. Stranovská		0	635,1200,2350
+929	BACHRATÁ Mária r. STRÁNOVSKÁ	zom. 20.10.1977	0	2603,2620
+929	BACHRATÝ DOMINIK		0	680
+929	BACHRATÝ Ján	manž. Mária rod. Kučíková	0	2853
+929	BACHRATÝ Štefan		0	2713,2714
+929	BACHRATÝ Štefan	zom. 15.1.2000	0	2431
+929	BAJCÁR Jozef	manž. Anna rod. Čaplová	0	2724
+929	Bajcar Pavol		0	528
+929	BAJCÁR Pavol	manž. Magdalena rod. Haladová	0	525,1867,1868
+929	BAJCÁROVÁ Anna r. ČAPLOVÁ	manž.Jozef	0	1869,2724
+929	BAJOVÁ Anna r. DUBOVSKÁ		0	2863
+929	BALLON Leo	vým. malol. 1946	0	1570
+929	BAŽÁNY MICHAL		0	1031,1880,2681
+929	BAŽÍKOVÁ Terézia r. Stranovská		0	635,2350
+929	BEDNARIK FRANTISEK		0	2402,2942
+929	BEDNARIK František	vým. malol. 1922	0	2419,2420
+929	BEDNÁRIK Ján	manž. Ernestína rod. Cisárová	0	2556
+929	BEDNÁRIKOVÁ Mária r. BAŽÁNYOVÁ		0	1386
+929	BEDRICH Stanek		0	2865
+929	BELKO Michal	manž. Valeria rod. Turnerová	0	2806
+929	BELKOVÁ Valeria r. TURNEROVÁ	manž. Michal	0	2806
+929	BEMENÁROVÁ Cecília r. MANCOVÁ		0	1543
+929	BENEDIKOVIČOVÁ AMÁLIA r. BAŽANYOVÁ		0	1031,1880,2681
+929	BENKOVSKÁ Anna		0	2738
+929	BENKOVSKÁ Helena r. HORNAČEKOVÁ	manž. Martin	0	2793
+929	BENKOVSKÝ Martin	manž. Helena rod. Hornáčeková	0	2793
+929	BLAHOVÁ Zuzana r. ŠIPČIAKOVÁ		0	1828
+929	BLUDOVIČ Ján		0	190,2995
+929	BLUDOVIČ Jozef		0	636
+929	BOTÍKOVÁ Helena r.Šoporová, Trnava		0	1956
+929	BOŽIK Jozef	manž. Anna rod. Vrbovská	0	1716
+929	BOŽÍK Jozef		0	1717
+929	Božíková Marta r. Jamrichová		0	2431,2432
+929	BOŽIKOVÁ Terézia r. STRANOVSKÁ		0	1200,1426,2431,2432,2924
+929	BRESKANSKÁ Helena r. ILAVSKÁ		0	2727,2812
+929	BRIMUS Štefan, SR		0	2223
+929	BUČKOVÁ Anna r. LUKAČOVIČOVÁ		0	2683
+929	BUKOVSKÁ Irena r. PLACHÁ		0	2740
+929	CEPKOVÁ Mária r.Moderdofská		0	797
+929	CIFERSKÁ Anna		0	2810
+929	CÍFERSKÁ Bernardína r. LESKOVSKÁ	vdova	0	2762
+929	CÍFERSKÁ Klára r. GAJARSKÁ	manž. Štefan	0	2860
+929	CIFERSKÁ Marta r. KLČOVANSKÁ		0	2651
+929	CÍFERSKÝ František	manž. Magdaléna rod. Koišová	0	2645,2792
+929	CÍFERSKÝ Imrich		0	1215,1477,2115,2761,3263
+929	CIFERSKÝ Leon	malolet. zruš. 1945	0	2839,2919
+929	CIFERSKÝ Timotej		0	2839,2919
+929	CS.STAT-ONV TRNAVA		0	648,1295,1481,1621,1652,1721,3013,3068,3261
+929	CS.STAT-ONV TRNAVA, SR		0	646
+929	CS.STAT-ONV V SPRAVE ODBORU PODOHOSP.RADY ONV V TRNAVE		0	1501
+929	CUNINKOVÁ Anna r. OCHABOVÁ	zom	0	2546
+929	Čs. štát - ONV TRNAVA		0	1216,1723,1725
+929	Čsl. štát - Okresný národný výbor v Trnave		0	2
+929	ČÚPKOVÁ Zita r. MRVOVÁ	zom. 8.11.2000	0	2650
+929	DOBROVODSKÁ Cecília r. FITTOŠOVÁ	zom. 6.3.2004	0	2585,2586
+929	DOBROVODSKÁ Magdaléna r. HRAŠNOVÁ		0	489,1376,1377,2654,2716,2728,3127
+929	DOBROVODSKÁ Mária		0	199,1625
+929	DOBROVODSKÝ Ľudevit	manž. Katarina r.Brestovánská	0	199,1625
+929	DOMORÁK Florián		0	2805
+929	DOMORÁK Florián	manž. Anna rod. Císarová	0	2804
+929	DOMORÁK František	manž. Apolónia	0	2736
+929	DOMORÁKOVÁ Anna r. CÍSAROVÁ	manž. Florián	0	2804
+929	DOVIČIČ Štefan		0	600
+929	DOVIČIČOVÁ Anna		0	600
+929	DOVIČIČOVÁ Etela		0	600
+929	DROBCOVÁ Bernardína r.Šoporová, B.Bystrica		0	1956
+929	DROBNÁ Jozefína r. DROBNÁ		0	2057
+929	DROBNÁ MÁRIA		0	1066
+929	DROBNÁ ŠTEFÁNIA		0	1066
+929	DROBNÝ JÁN		0	1066
+929	DROBNý JáN, J. Alexyho 5, SR		0	6
+929	DROBNÝ ĽUDEVÍT, MODRANKA, SR		0	6
+929	DUBOVSKÝ Ján		0	2863
+929	ĎURČO Štefan		0	2783
+929	FANČOVIČ Jozef		0	1726
+929	FANČOVIČ Jozef	manž. Mária rod. Kožuchová	0	1868,2549,3102
+929	FANČOVIČOVÁ Mária r. KOŽUCHOVÁ		0	2549,3102
+929	FANČOVIČOVÁ Mária r. KOŽUCHOVÁ	manž. Jozef	0	1726
+929	FATRANSKÝ Jozef	zom. 31.10.1998	0	2674
+929	FEKETE Ján		0	2670
+929	FEKETOVÁ Mária		0	190,2995
+929	FRANKOVÁ Anna r. KOIŠOVÁ		0	2436,2437
+929	FRANTA Ľudevít	manž. Vilma rod. Nováková	0	2754
+929	FRANTOVÁ Vilma r. NOVÁKOVÁ	manž. Ľudevít	0	2754
+929	GAJARSKÁ Agneša r. OHRABLOVÁ		0	2682
+929	GAŠPAROVIČ František		0	2639,2640
+929	GERGELYOVÁ Mária, SR		0	1694,3100
+929	GLASA Ján		0	757,2741
+929	GLASOVÁ Mária r. CISÁROVÁ		0	2556
+929	GUBRICKÁ Juliana r. HALADOVÁ		0	2636
+929	GUBRICKÝ Michal		0	67
+929	HALADA CYRIL		0	558,917,2113
+929	HALADA FERDINAND		0	802
+929	HALADA FERDINAND DR.		0	802
+929	HALADA Florian	mladší	0	1960
+929	HALADA Florián		0	2849
+929	HALADA Florián	manž. Magdaléna r.Vrbovská	0	2774,2775
+929	HALADA Jan		0	1016,2825,3060
+929	HALADA Ján	manž. Helena	0	2498
+929	HALADA Jozef		0	467
+929	HALADA Martin	manž. Mária rod. Pozdechová	0	1016,3060
+929	HALADA Pavol		0	467,1436,1886
+929	HALADA VILIAM		0	802
+929	HALADOVÁ Agneša		0	467,1436
+929	HALADOVÁ Anna		0	467,1436
+929	HALADOVÁ Helena r. KYSELICOVA		0	2498,2608,2609
+929	HALADOVA Irena		0	467,1436,1648,1991
+929	HALADOVÁ Katarína		0	467,1436
+929	HALADOVÁ Mária		0	467,1377,1436,2751
+929	HALADOVÁ Mária r. HRAŠNOVÁ		0	489,1376,2421,2422,2654,2716,2728,3127,3146
+929	HAMBÁLEKOVÁ Valeria		0	2023,2697
+929	HAMBÁLKOVÁ Valéria		0	878
+929	HLAVENKOVÁ Mária r. PETRÁŠOVÁ		0	1292,2768
+929	HOBLÍK Karol	manž. Malania rod. Záková	0	554,1743,2798
+929	HOBLÍKOVÁ Melania r. ZÁKOVÁ	manž. Karol	0	554,1743,2798
+929	HORECKÁ Magdalena r. BABICOVÁ	manž. Ján	0	2526,2614,2754
+929	HORECKÝ Ján	manž. Magdalena r.Babicová	0	2526,2614,2754
+929	HORNÁČEK AUGUSTÍN		0	1594
+929	HORVÁRHOVÁ Anna r. Klčovanská		0	231
+929	HORVÁTHOVÁ Anna r. Klčovanská		0	233
+929	HORVÁTHOVÁ Leopoldína r.Miklošovičová, Malinovského č.57		0	844
+929	HORVÁTHOVÁ Mária r. HALADOVÁ	manž. Ján	0	2916
+929	HORVÁTHOVÁ MÁRIA r. ROSOVÁ		0	912
+929	HORVÁTHOVÁ Rozália		0	2776
+929	HORVÁTHOVÁ Terézia		0	2527,2641,2642
+929	HORVÁTOVÁ Františka r. BAŽÁNYOVÁ		0	2723
+929	HORVÁTOVÁ Mária r. BLUDOVIČOVÁ		0	2530
+929	HRASNA Jozef		0	1502,2519
+929	HRAŠNA František	vým. malol. 1926	0	2421,2422,3146
+929	Hrašna Michal		0	1377
+929	HRAŠNA Michal	vým. malol. 1940	0	489,1376,2421,2422,2654,2716,2728,3127,3146
+929	HRAŠNA Ondrej		0	1583
+929	Hrašna Pavel		0	1377
+929	HRAŠNA Pavol		0	489,1376,2654,2716,2728,3127
+929	Hrašna Peter	manž. Bernardina r.Horváthová, zomr. 18.8.1990	0	489,1376,2654,2716,2728,3127
+929	Hrašna Peter	manž. Bernardína rod. Horváthová	0	1377
+929	Hrašna Štefan	manž. Anna rod. Nováková	0	1377
+929	HRAŠNA Štefan	manž. Anna r.Nováková	0	489,1376,2654,2716,2728,3127
+929	HRAŠNA Vít		0	489,1376,1377,2421,2654,2716,2728,3127,3146
+929	HRAŠNOVÁ Júlia r. PALKOVIČOVÁ	manž. Imrich	0	2711
+929	HRAŠNOVÁ Katarína		0	1584
+929	Hrašnová Mária		0	1377
+929	Hrašnová Petronela		0	1377
+929	HRAŠNOVÁ Petronela	vým. malol. 1941	0	489,1376,2421,2422,2654,2716,2728,3127,3146
+929	HRAŠNOVÁ Štefania r. LANTOŠOVÁ	manž. František	0	2442,2443
+929	Hrašnová Štefánia r. Lantošová		0	1377
+929	HRAŠNOVÁ Terezia	vým. malol. 1937	0	1376
+929	Hrašnová Terézia		0	1377
+929	HRAŠNOVÁ Terézia r. HRAŠNOVÁ	zom. 8.11.1999	0	1376
+929	HRDINA Augustín	slobodný	0	2828
+929	HRDINOVÁ Augustína	slobodná	0	2849
+929	HRUŠOVSKÝ Albert		0	1561
+929	HUDEČEK Šimun		0	2582,2583

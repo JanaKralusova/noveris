@@ -1,0 +1,256 @@
+2121	Repiská Katarína r. Ďurkovová		0	1351
+2121	Repiská Katarína r. Laurová		1	683
+2121	Repiská Mária	Po Jurajovi	1	552,784,1632,1649,1650,1698
+2121	REPISKÁ Mária		1	698,756,943,962,966,967,969,973,980,984,985,1076,1546,1632,1650,1660,1698
+2121	REPISKÁ Mária	Po Jánovi	1	698,756,770,940,943,1660
+2121	REPISKÁ Mária	R.KAŠŠOVÁ	1	621,813,814
+2121	Repiská Mária po Jánovi		0	980,981,1131
+2121	Repiská Mária po Jurajovi		0	962,966,967,969,1420,1546
+2121	Repiská Mária po Zuzane		0	962,966,967,1336,1546
+2121	REPISKÁ Mária r. Kaššová		1	639,649,983,1143,1544,1673,1706
+2121	REPISKÁ Pavlína		1	698,756,760,764,770,940,943,945,973,980,981,984,1258,1660
+2121	Repiská Pavlína r. Fáreková		1	359,630,923,976,1479,1549,1551,1646
+2121	Repiská Rozália	Po Jurajovi	1	552,784,1632,1649,1650,1698
+2121	REPISKÁ Rozália		1	698,756,760,764,770,940,943,945,973,980,981,984,1491,1660
+2121	REPISKÁ Rozália	Po Andrejovi a Márii	1	764
+2121	Repiská Rozália po Andrejovi a Márii		0	973,991
+2121	Repiská Rozália po Jurajovi		0	962,966,967,969,1210,1546
+2121	Repiská Štefánia r. Budinská		0	991
+2121	Repiský Anton		0	973,991
+2121	Repiský Augustín zom.19.04.2005		0	973,980,984,985,1216
+2121	Repiský Emil		1	552,698,756,770,784,940,943,962,966,967,969,973,980,984,985,1321,1546,1632,1649,1650,1660,1698
+2121	Repiský Ján		0	965,1333
+2121	Repiský Ján	Po Jurajovi	1	552,784,1649
+2121	Repiský Ján	Po Jurajovi 2	1	552,1649
+2121	Repiský Ján	Po Zuzane	1	552,669,780,1649,1666,1669
+2121	REPISKÝ Ján	Po Jánovi a Anne	1	1632,1650,1698
+2121	Repiský Ján po Jánovi a Anne		0	962,966,967,1226,1546
+2121	Repiský Ján po Jozefovi		0	1470
+2121	Repiský Ján po Jurajovi		0	962,966,969,1024,1546
+2121	Repiský Ján po Jurajovi 2		0	962,1302
+2121	Repiský Ján po Zuzane		0	962,966,967,1121,1546
+2121	Repiský Ján zom.24.06.1999		0	991
+2121	REPISKÝ Karol		1	698,756,770,784,940,943,962,966,967,969,973,980,984,985,1362,1546,1632,1650,1660,1698
+2121	REPISKÝ Martin		1	698,760,764,940,943,945,980,981,984,985,1031,1660
+2121	REPISKÝ Martin	Po Jozefovi Bilikovi	1	755
+2121	Repiský Martin Ďurov		0	991,1546
+2121	Repiský Martin Marišinec		0	1088
+2121	Repiský Martin po Jozefovi Bilikovi		0	991
+2121	Repiský Martin žen.s Alžbetou Herkovou		0	991
+2121	Repiský Peter		1	552,962,966,973,1064,1546,1649
+2121	REPISKÝ Peter	Po Jánovi a Anne	1	1632,1650,1698
+2121	REPISKÝ Peter	zomrel 07.02.1994	1	530,621
+2121	Repiský Peter po Jánovi a Anne		0	962,966,967,1204,1546
+2121	Repiský Peter zomrel 7.2.1994		0	1443
+2121	Repiský Peter žen. s Annou Štefančovou		0	991
+2121	REPISKÝ Štefan		1	698,756,764,770,940,943,973,980,981,984,985,1508,1660
+2121	REPISKÝ Štefan	Po Pavlíne	1	770
+2121	Repiský Štefan po Alžbete		0	991
+2121	Rozenberg Jozef		0	1365
+2121	ROZENBERGOVÁ Mária	R.BIELIKOVÁ	1	813,814
+2121	Rozenbergová Mária r. Bieliková		1	658,969,1345,1346,1544,1598
+2121	Seget Anton	LSR	0	1548
+2121	SEGET Anton		1	721,985,1102
+2121	Seget Ján	po Jozefovi, LSR	0	1548
+2121	SEGET Ján	Po Jozefovi	1	721
+2121	Seget Ján Jozefov		0	980,985,1337,1338
+2121	Seget Ján po Jozefovi		0	1421
+2121	Seget Jozef	LSR	0	1548
+2121	SEGET Jozef		1	721,723,766,1327
+2121	Seget Juraj		0	991
+2121	Segetová Anna	LSR	0	1548
+2121	SEGETOVÁ Anna		1	721,980,1471,1526
+2121	Segetová Katarína		0	1288
+2121	SEGETOVÁ Mária	R.MASLENOVÁ	1	730,750
+2121	Segetová Mária r. Maslenová		0	1447
+2121	Segetová Mária r. Turčanová		0	1402
+2121	Segetová Mária r. Turčanová	LSR	0	1548
+2121	SERULA Jozef		1	652,966,967,973,989,1411,1644,1670,1671,1696
+2121	Serula Július		1	440,652,961,989,1113,1114,1644,1670,1671,1696
+2121	SERULA Július	Po Jánovi	1	813,814,1671
+2121	Serula Július po Jánovi		0	966,967,968,973,983,1544
+2121	Serula Karol		0	961,967,968,989
+2121	Serula Martin		1	440,652,961,966,967,973,989,1424,1644,1670,1671,1696
+2121	Serula Milan nar. 25.11.1957, zomrel		0	961,967,968,989
+2121	SERULA Ondrej		1	652,966,967,973,989,1391,1644,1670,1671,1696
+2121	SERULA Peter		1	652,968
+2121	Serula Štefan		1	440,652,961,966,967,973,989,1084,1644,1670,1671,1696
+2121	SERULOVÁ Anna		1	652,966,967,973,989,1146,1644,1670,1671,1696
+2121	Serulová Karolína r. Herková		0	980,984,991
+2121	Serulová Mária		1	440,652,961,966,967,973,1361,1644,1670,1671,1696
+2121	Serulová Mária r. Varsová		0	968
+2121	SEVEROVÁ Karolína	r.Herková	1	698,756,760,764,770,1660
+2121	Severová Karolína r. Herková		1	940,943,945
+2121	Smelák Anton žen. s Veronou Matuškovou		0	1032
+2121	Smelák František		0	1235
+2121	SMELÁK Ján		1	530,599,806,985,1442
+2121	SMELÁK Jozef		1	530,599,806,1289
+2121	SMELÁK Juraj		1	530,599,806,1028
+2121	Smelák Peter		0	1237
+2121	SMELÁKOVÁ Katarína	R.BALÁŽOVÁ	1	530,599,806
+2121	Smeláková Katarína r. Balážová		0	1461
+2121	Struhárová Katarína r. Štefančová		0	958,1432,1547
+2121	SUPUKOVÁ Anna	R.ŠTEFANČOVÁ	1	652,653
+2121	Supuková Anna r. Laurová		1	359,923,976,1274,1549,1551,1646
+2121	Supuková Anna r. Štefančová		0	983,1512,1513
+2121	SUPUKOVÁ Karolína	R.ŠTEFANČOVÁ-MÁDLIKOVÁ	1	606,778,1667
+2121	Supuková Karolína r. Štefančová	MÁDLIKOVÁ	1	920
+2121	Šopa Ján Včelín		0	980,991
+2121	Šopa Ján zomrel		0	980,991
+2121	Šopa Jozef Rumaneje		0	980,991
+2121	Šopa Jozef Včelín		0	980,991
+2121	ŠOPA Peter		1	652,1101
+2121	Šopa Peter z Ostrého Grúňa		0	957
+2121	Štefanča Andrej		1	593,597,603,957,1664,1678
+2121	Štefanča Anton	LSR	0	1548
+2121	ŠTEFANČA Anton		1	721,722,723,980,1249,1526
+2121	Štefanča Augustín zomrel 2.5.1997		0	1497,1533
+2121	Štefanča Ján		1	530,590,602,615,619
+2121	Štefanča Ján	mladší	1	590,595,607,608,609,615,618,1707,1708,1721
+2121	Štefanča Ján	Po Štefanovi	1	593
+2121	Štefanča Ján	Števkov	1	590,615
+2121	Štefanča Ján	žen.s Katarínou Holerovou	1	594,621
+2121	ŠTEFANČA Ján	KUČERA	1	530,600,621
+2121	ŠTEFANČA Ján	MÁDLIK	1	530,599,806
+2121	ŠTEFANČA Ján	MATEJOV	1	600
+2121	ŠTEFANČA Ján	Po Jánovi	1	530
+2121	ŠTEFANČA Ján	stredný	1	530
+2121	ŠTEFANČA Ján	žen.s Annou Štefančovou	1	609
+2121	ŠTEFANČA Ján	žen.s Máriou Repiskou	1	607
+2121	Štefanča Ján Kučera		0	959,1209
+2121	Štefanča Ján Matejov		0	959,1265
+2121	Štefanča Ján mladší		0	1517
+2121	Štefanča Ján po Jánovi		0	1319
+2121	Štefanča Ján po Štefanovi		0	991
+2121	Štefanča Ján stredný		0	992
+2121	Štefanča Ján Števkov		0	1307
+2121	Štefanča Ján žen. s Annou Štefančovou		0	1467
+2121	Štefanča Ján žen.s Katarínou Holerovou		0	1230
+2121	Štefanča Jozef	Po Štefanovi	1	593,597,603,1664,1678
+2121	Štefanča Jozef	žen.s Hermínou Melišovou	1	440
+2121	ŠTEFANČA Jozef		1	530,590,595,602,607,608,615,618,619,1125,1707,1708,1721
+2121	ŠTEFANČA Jozef	KUČERA	1	530,593,594,621
+2121	ŠTEFANČA Jozef	Po Martinovi	1	808
+2121	ŠTEFANČA Jozef	žen.s Annou Podskalskou	1	530
+2121	ŠTEFANČA Jozef	žen.s Paulínou Bielikovou	1	606,1667
+2121	Štefanča Jozef Kučera		0	958,1449,1547
+2121	Štefanča Jozef Kučera, mladší		0	1283
+2121	Štefanča Jozef po Martinovi		0	991
+2121	Štefanča Jozef po Štefanovi		0	957
+2121	Štefanča Jozef žen. s Annou Podskalskou		0	991
+2121	Štefanča Jozef žen. s Hermínou Melišovou		0	961,991
+2121	Štefanča Mária		1	590
+2121	Štefanča Martin		1	593,597,603,1149,1664,1678
+2121	Štefanča Martin	mladší	1	593,597,603,1664,1678
+2121	ŠTEFANČA Martin	JOZEFOV	1	653
+2121	ŠTEFANČA Martin	kúpil od Jána a Augustína Maslena	1	652
+2121	Štefanča Martin Jozefov		0	979,991
+2121	Štefanča Martin Kučera		0	1388
+2121	Štefanča Martin kúpil od Jána a Augustína Maslena		0	1370
+2121	Štefanča Martin mladší		0	957
+2121	ŠTEFANČA Michal		1	619,991
+2121	ŠTEFANČA Milan	nar.1938	1	652,653
+2121	Štefanča Milan nar. 1938		0	966,1360
+2121	Štefanča Ondrej		1	530,590,602,607,615,619
+2121	ŠTEFANČA Ondrej	Po Martinovi	1	808
+2121	Štefanča Ondrej po Martinovi		0	991
+2121	Štefanča Peter		0	991
+2121	Štefanča Štefan	MATEJOV	1	589,916
+2121	Štefanča Štefan	žen.s Máriou Kučerovou	1	590,615
+2121	Štefanča Štefan Matejov		0	1292,1533
+2121	Štefanča Tomáš	LSR	0	1548
+2121	ŠTEFANČA Tomáš		1	721,722,723,980,1242
+2121	Štefančová Anna r. Debnárová		0	1462
+2121	Štefančová Anna r. Štefančová- Kučerová		0	1310
+2121	ŠTEFANČOVÁ Hermína	R.MELIŠOVÁ	1	652,653
+2121	Štefančová Hermína r. Melišová		1	440,961,983,1505,1529
+2121	Štefančová Mária	Po Márii	1	159,530,595,601,608,618,1707,1708,1709,1721
+2121	Štefančová Mária	Po Štefanovi	1	593,597,603,1664,1678
+2121	ŠTEFANČOVÁ Mária		1	530,602,615,991
+2121	ŠTEFANČOVÁ Mária	KUČEROVÁ	1	530,621
+2121	ŠTEFANČOVÁ Mária	R.ROZENBERGOVÁ	1	808,813,814
+2121	Štefančová Mária Mária	KUČEROVÁ	1	594
+2121	Štefančová Mária po Márii		0	1516
+2121	Štefančová Mária po Štefanovi		0	957
+2121	Štefančová Mária r. Kučerová		0	1177
+2121	Štefančová Mária r. Maslenová		0	1049
+2121	Štefančová Mária r. Rozenbergová		0	1183,1544
+2121	Štefančová Mária Števková		0	991
+2121	Števkov Ján		0	1294
+2121	ŠTEVKOV Ján	mladší	1	530
+2121	ŠTEVKOV Ján	starší	1	530,601,1709
+2121	ŠTEVKOV Ján	stredný	1	530,601,1709
+2121	Števkov Ján mladší		0	1528
+2121	Števkov Ján starší		0	1436
+2121	Števkov Ján stredný		0	1224
+2121	Števkov Karol		0	958,1268,1547
+2121	Števkov Štefan	žen. s Máriou Kučerovou	1	159
+2121	Števkov Štefan	žen.s Máriou Kučerovou	1	595,608,618,1707,1708,1721
+2121	Števkov Štefan žen. s Máriou Kučerovou		0	1279
+2121	Števková Anna		0	1073
+2121	Števková Anna	Katarína	1	159,590,595,608,615,618,1707,1708,1721
+2121	Števková Anna Katarína		0	1194
+2121	ŠUHAJDOVÁ Mária	R.PETROVOVÁ	1	813,814
+2121	Šuhajdová Mária r. Petrovová		0	991,1544
+2121	ŠULA Jozef		1	737,991
+2121	Šula Juraj		1	248,731,737,855,1385,1544,1627,1659
+2121	ŠULOVÁ Mária		1	731,991
+2121	Tadian Jozef Mišov		0	980,991
+2121	Tadian Jozef zomrel		0	980,991
+2121	Tadian Martin		0	980,991
+2121	TRUSKA Ján		1	530
+2121	TRUSKOVÁ Anna	R.ANGLETTOVÁ	1	679,750,755,762,763,765,766,768,813,814,1690
+2121	Trusková Anna r. Angletová		1	361,1720
+2121	Trusková Anna r. Anglettová		1	435,567,574,575,983,1203,1537,1544,1689
+2121	Trusková Anna r. Kučerová		0	991
+2121	Trusková Mária		0	1509
+2121	Trusková Mária	Po Jozefovi	1	594,621
+2121	Trusková Mária po Jozefovi		0	1272
+2121	Trusková Rozália r. Baniariová		0	1315
+2121	Trvalec Ján Ďurov		0	980,991
+2121	Trvalec Ján Ondrejov		0	980,991
+2121	Trvalec Ján zomrel		0	980,991
+2121	Trvalec Jozef Mišov		0	980,991
+2121	Trvalec Jozef Terezin		0	980,991
+2121	Trvalec Juraj Terezin		0	980,991
+2121	TRVALECOVÁ Margita	R.BARBOROVÁ	1	530,597,602,603,804,808,1678
+2121	Trvalecová Margita r. Barborová		1	593,959,1007
+2121	TRVALECOVÁ Verona	R.REPISKÁ	1	650
+2121	Turčan Ján Abrahám		0	976,1545
+2121	Turčan Ján Abrahám, zomrel		0	984,1545
+2121	URAM Miroslav	zomrel 02.12.1990	1	797,798,800,873
+2121	Uram Miroslav zomrel 2.12.1990		0	959,1407
+2121	URAMOVÁ Mária	R.ABRAHÁMOVÁ	1	730
+2121	Uramová Mária r. Abrahámová		0	991
+2121	VALACHYOVÁ Jozefína	R.LIČKOVÁ	1	721,722,723,732,859
+2121	Valachyová Jozefína r. Ličková		0	980,1378,1534
+2121	Valachyová Jozefína r. Ličková	LSR	0	1548
+2121	Vida Augustín, Ostrý Grúň 68, Ostrý Grúň, PSČ 966 77, SR		0	686
+2121	Vidová Katarína		0	1053
+2121	Vrbová Veronika r. Bieliková		0	1245
+2121	Zúbek Augustín	žen.s Máriou Pavlíkovou	1	1671
+2121	Zúbek Augustín žen.s Máriou Pavlíkovou		0	991
+2121	Zúbek Ján Karolov		0	991
+2121	Zúbek Jozef		1	991,1671
+2121	Zúbek Jozef Beňov		0	980
+2121	Zúbek Jozef Janov		0	980,991
+2121	Zúbek Jozef Kalenčík		0	980,991
+2121	Zúbek Michal zomrel		0	980
+2121	Zúbek Tomáš starší		0	980,991
+2121	Zúbeková Anna r. Kotrlecová		0	980,991
+2121	Zúbeková Anna r. Segetová		0	991
+2121	Zúbeková Johana r. Trvalcová		0	980,991
+2121	Zúbeková Katarína		1	991,1671
+2121	ZÚBEKOVÁ Mária	R.ČIERŤAŽSKÁ	1	813,814
+2121	Zúbeková Mária r. Čierťažská		0	991,1544
+2121	Zúbeková Pavlína		1	991,1671
+2121	Zúbeková Terézia r. Škarbová		0	980,991
+2121	ŽILKOVÁ Terézia	R.LIŠKOVIČOVÁ	1	813,814
+2121	ŽILKOVÁ Terézia r. Liškovičová		1	649,991,1359,1706
+2121	ŽŇAVOVÁ Anna	R.BARBOROVÁ	1	530,597,602,603,804,808,1678
+2121	Žňavová Anna r. Barborová		1	593,959,1401
+2121	Žňavová Helena r. Hudečeková		0	984,985,1349
+2122	Barčák Andrej	m.Mária r.Šilonová,zomrel	0	1144
+2122	Barčák Andrej, SR	m.Mária r.Šilonová,zomrel	0	1357,1504
+2122	Barčák Andrej, SR	maloletý	0	1626
+2122	Barčák Ján, SR		0	1626

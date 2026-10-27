@@ -1,0 +1,256 @@
+698	BAJÚS Štefan	zomrel	0	1120
+698	BALÁŽOVÁ Barbora r. Šalátová	zomrela,m.Ján	0	1106
+698	BALTOVÁ Vilma r. Matheová	zomrela	0	868
+698	BARANOVÁ Mária r. Ondrejová	zomrela	0	113
+698	Bartek Ján		1	1254
+698	Bartek Jozef		1	1254
+698	Bartek Matiáš		1	1254
+698	Barteková Agnesa r. Pirohová		1	1254
+698	Bašová Margita r. Hajtolová		1	1254
+698	BEATTNEROVÁ Verona r. Šebeková	zomrela	0	1315
+698	BEBKOVÁ Barbora	zomrela	0	1313
+698	Beherová Anna r. Mikolajová		1	1254
+698	BEKEČOVÁ Mária r. Vojteková	zomrela	0	93,292,800,896,897,898,899,900,1134,1236,1311,1593
+698	BIATKOVÁ Mária r. Tomečková	zomrela	0	93,292,896,897,898,899,900,1134,1236,1311,1593
+698	BICÁK Andrej	zomrel,Štefan,Ladislav,Mária,Anna	0	832
+698	Bicák Ladislav	zomrel,súrodenci Andrej,Štefan,Mária,Anna	0	832
+698	Bicák Štefan	zomrel,súrodenci Andrej,Ladislav,Mária,Anna	0	832
+698	Bicáková Anna	zomrela,súrodenci Andrej,Štefan,Ladislav,Mária	0	832
+698	BICÁKOVÁ Apolonia r. Macková	zomrela	0	848
+698	Bicáková Mária	zomrela,súrodenci Andrej,Štefan,Ladislav,Anna	0	832
+698	BODNÁROVÁ Anna r. Safková	zomrela	0	87,888,1547
+698	BOROŠOVÁ Mária r. Mikolajová	zomrela	0	776
+698	BOSÁ Mária r. Arvajovičová	vdova,zomrela	0	851,861
+698	Brunari Helena		1	1254
+698	Brunari Mikuláš		1	1254
+698	Brunari Pavol		1	1254
+698	Brunari Verona		1	1254
+698	BUJNOVSKÁ Alžbeta r. Šalatová	zomrela	0	841
+698	BUJNOVSKÝ Ján	zomrel	0	841
+698	CSEREPY Jozef	zomrel	0	751
+698	Csiňová Mária r. Mikolajová		1	1254
+698	Čehelská Katarína r. Hopková		1	1254
+698	DANKO Jozef	zomrel	0	727
+698	DANKO Mikuláš	zomrel	0	727
+698	DANKO Viktor	zomrel	0	727,1308
+698	DANKOVÁ Marta	zomrela	0	727
+698	DANKOVÁ Vilma	zomrela	0	727
+698	DEBRECZENYI Ján		0	1300
+698	DEBRECZENYOVÁ Mária r. Adamovičová		0	1300
+698	Demeter Eduard	zomrel,súrodenci Štefan,Ján,Imrich	0	831
+698	Demeterová Alžbeta	zomrela,súrodenci Štefan,Ján,Imrich,Edo	0	831
+698	Demeterová Elena	zomrela,súrodenci Štefan,Ján,Imrich,Edo	0	831
+698	Demeterová Mária	zomrela,súrodenci Štefan,Ján,Imrich,Edo	0	831
+698	DEMETEROVÁ Mária r. Miklušová	zomrela	0	831
+698	Dienešová Mária r. Jakubeková, SPF SPF		1	1520
+698	DIRGOVÁ Mária r. Urbanová	zomrela,m.Michal	0	113,447,448,449,451,453,984
+698	DOMONKOŠOVÁ Alžbeta r. Dučajová	zomrela	0	1274
+698	DRÁB Štefan	maloletý,NP	0	1118
+698	DRÁBOVÁ Anna r. Krajňáková	NP	0	1118
+698	DROBŇÁKOVÁ Alžbeta r. Samselyová	zomrela	0	1110
+698	DROBŇÁKOVÁ Mária r. Salajdová	zomrela	0	1110
+698	DUCSAI Ján	zomrel	0	1296
+698	DUCSAI Štefan	zomrel	0	1296
+698	DUČAI Ján	zomrel,ž.Mária Straková	0	149,150,425,608,1112,1113,1114,1130
+698	Dučai Ján, ž. Mária, SPF ž. Mária, SPF		1	1512
+698	DUČAI Jozef	zomrel	0	93,187,192,193,688,689,690,691,1606,1607
+698	DUČAI Štefan	mladší,zomrel	0	722
+698	DUČAI Štefan	zomrel,ž.Alžbeta r.Segyoriová	0	1112,1113
+698	DUČAIOVÁ Alžbeta r. Segyoriová	zomrela	0	425
+698	DUČAIOVÁ Helena r. Jakabová	zomrela	0	93,187,192,193,688,689,690,691,1606,1607
+698	DUČAJ Ján	zomrel	0	737,786
+698	Dučaj Ján, ž. Mária r. Straková, SPF ž. Mária r. Straková, SPF		1	1510,1511,1512,1514
+698	Dučaj Jozef, SPF SPF		1	1514
+698	DUČAJ Štefan	zomrel	0	786
+698	DUČAJ Štefan	zomrel,ž.Verona Olejárová	0	93
+698	Dučajová Alžbeta r. Segyová, SPF SPF		1	1514
+698	DUČAJOVÁ Barbora r. Tóthová	zomrela	0	166
+698	Dučajová Helena r. Jakabová, SPF SPF		1	1514
+698	Dučajová Mária r. Straková, SPF SPF		1	1510
+698	Dučay Ján	NP,maloletý,súrodenci Juraj,Anna	0	524,980,1114
+698	DUČAY Ján	zomrel	0	239,524,1444
+698	Dučay Ján Matej	NP,súrodenci Štefan,Imrich,Mária,Ondrej	0	524,980,1114
+698	Dučay Juraj	NP,maloletý,súrodenci Ján,Anna	0	524,980,1114
+698	Dučay Ondrej	NP,súrodenci Ján,Štefan,Imrich,Mária	0	524,980,1114
+698	Dučay Štefan	NP,súrodenci Ján,Imrich,Mária,Ondrej	0	524,980,1114
+698	DUDÁŠ Kalman	zomrel	0	850
+698	DUDÁŠ Koloman	zomrel	0	844
+698	DUDÁŠ Štefan	zomrel	0	844
+698	DUDÁŠOVÁ Gizela	zomrela	0	844
+698	DUDÁŠOVÁ Mária r. Papcunová	zomrela	0	850
+698	Dudra Imrich		1	1254
+698	Dudra Imrich	maloletý	1	1254
+698	Dudra Štefan		1	1254
+698	Dudra Štefan	maloletý	1	1254
+698	EŠTOČÁK Ján	zomrel	0	1120
+698	Fabián Andrej		1	1254
+698	Fabian Jozef	maloletý	1	1254
+698	Fabian Július	maloletý	1	1254
+698	Fabian Koloman		1	1254
+698	Fabianová Anna	maloletá	1	1254
+698	Fabianová Margita r. Pirohová		1	1254
+698	Fabianová Mária	maloletá	1	1254
+698	FATĽOVÁ Zita r. Fričová	zomrela	0	85,93,119,167,183,184,187,188,189,190,191,192,193,203,207,688,689,690,691,876,1411,1549,1590,1605,1606,1607,1608,1626
+698	FECZMAN Andrej	zomrel	0	744
+698	FECZMAN Ján		0	1300
+698	FECZMANOVÁ Anna r. Orgonášová	zomrela	0	744
+698	FECZMANOVÁ Zuzana r. Copáková		0	1300
+698	FERENCOVÁ Mária r. Dučajová	zomrela	0	1274
+698	Feťková Žofia r. Senderáková		1	1254
+698	Figura Andrej	NP,súrodenci Michal,Žofia,Mária	0	354
+698	Figura Michal	NP,súrodenci Andrej,Žofia,Mária	0	354
+698	FIGUROVÁ Mária	maloletá,NP,sestra Justína	0	77,354,1111
+698	FORGAČ Samuel, Dr.		0	1061
+698	FRIČ Andrej	zomrel,ž.Margita Balážová	0	96,214,215,239,524,718,813,818,887,1055,1444,1688
+698	Frič Andrej, prvý, SPF prvý, SPF		1	1507,1513
+698	FRIČ Anton	maloletý,zomrel	0	85,167,188,207,1549,1605,1626
+698	FRIČ Ján	zomrel,ž.Anna Kovaľová	0	85,239,524,1444,1626
+698	Frič Juraj	maloletý, zomrel 0; maloletý, zomrel; 0	0	192
+698	FRIČ Juraj	maloletý,zomrel	0	85,93,119,167,183,184,187,188,189,190,191,192,193,203,207,688,689,690,691,876,1411,1549,1590,1605,1606,1607,1608,1626
+698	FRIČ Juraj	NP,ž.Anna Novotná	0	876
+698	FRIČ Juraj	zomrel,súr.Mária,Andrej,Štefan,Anna	0	799
+698	FRIČ Juraj	zomrel,ž.Zuzana Odrejová	0	85,93,119,167,183,188,207,777,876,1411,1549,1605,1608,1626
+698	FRIČ Štefan	NP	0	799
+698	FRIČ Štefan	zomrel,súr.Mária,Andrej,Juraj,Anna	0	799
+698	FRIČ Štefan	zomrel,ž.Anna Balážová	0	93,94,96,215,685,822,887,1249,1419,1592,1688
+698	FRIČ Štefan	zomrel,ž.Helena Miškufová	0	93,96,214,215,887,1688
+698	Frič Štefan, zomrel, SPF zomrel, SPF		1	1507,1517
+698	Frič Valent, SPF SPF		1	1507
+698	Fričová Alžbeta, SPF SPF		1	1507,1513
+698	Fričová Anna	maloletá,zomrela,súrodenci Juraj,Zita,Františka	0	85,93,119,167,183,184,187,188,189,190,191,192,193,203,207,688,689,690,691,876,1411,1549,1590,1605,1606,1607,1608,1626
+698	FRIČOVÁ Anna r. Balážová	zomrela	0	1249
+698	FRIČOVÁ Anna r. Kovaľová	zomrela	0	85,1626
+698	FRIČOVÁ Anna r. Novotná	zomrela	0	93,94,96,214,685,887,1419,1592,1688
+698	FRIČOVÁ Barbora r. Sobotová	zomrela	0	359,511,1534
+698	Fričová Františka	maloletá,zomrela,súrodenci Anna,Zita,Františka	0	85,93,119,167,183,184,187,188,189,190,191,192,193,203,207,688,689,690,691,876,1411,1549,1590,1605,1606,1607,1608,1626
+698	FRIČOVÁ Verona r. Macejková	zomrela	0	847
+698	FRIČOVÁ Zuzana r. Ondrejová	zomrela	0	777
+698	FRIEDRICHOVÁ Margita r. Mikolajová	zomrela	0	776
+698	Friedrichová Margita r. Mikolajová, SPF SPF		1	1484
+698	GALOCZY Jozef	zomrel	0	1120
+698	GÁLOVÁ Mária r. Sokolová	zomrela	0	542
+698	GERMUŠKOVÁ Margita r. Kovaľová	zomrela	0	735
+698	GLADIČOVÁ Mária r. Kiššová	zomrela	0	1244
+698	GMITRO Štefan	zomrel,ž.Alžbeta r.Šimološová	0	239,524,1132,1444
+698	GMITROVÁ Alžbeta r. Šimološová	zomrela	0	1132
+698	GRIEGEROVÁ Barbora r. Arvajovičová	zomrela	0	851,861
+698	GRUŠKA Ján	zomrel,ž.Mária Kiššová	0	1277
+698	Gruška Mikuláš	maloletý	1	1254
+698	GRUŠKOVÁ Mária r. Kiššová	zomrela	0	1277
+698	GULA Andrej	zomrel,ž.Alžbeta a Katarína	0	239,524,786,1133,1160,1444
+698	GULOVÁ Alžbeta r. Fričová	zomrela	0	1160
+698	GULOVÁ Katarína r. Paľová	zomrela	0	239,524,1126,1444
+698	Hajtol František	druhý	1	1254
+698	Hajtol František	prvý	1	1254
+698	Hajtol Jakub	druhý	1	1254
+698	Hajtol Jakub	prvý	1	1254
+698	Hajtol Ján		1	1254
+698	Hajtol Jozef	druhý	1	1254
+698	Hajtol Jozef	prvý	1	1254
+698	Hajtolová Katarína r. Pillárová		1	1254
+698	HALUŠKA Jozef	NP	0	779
+698	HALUŠKOVÁ Mária	NP	0	779
+698	HAPKOVÁ Verona r. Ondrejová	zomrela	0	804
+698	HARTMAN Salamon	zomrel	0	1120
+698	HAVAŠ Oskar	zomrel	0	1119
+698	Havrila Ján, SPF SPF		1	1482
+698	HAVRILLA Andrej	mladší,zomrel,ž.Anna	0	112,542,543,940,982
+698	HAVRILLA Ján	zomrel	0	1120
+698	HAVRILLA Štefan	zomrel	0	93,112,253,543,940,982
+698	HAVRILLOVÁ Alžbeta r. Safková	zomrela,n.1.8.1895	0	83,84,85,86,87,88,93,113,494,495,583,584,888,1156,1456,1472,1547,1589,1626
+698	HAVRILOVÁ Anna r. Molčanová	zomrela,Canada	0	93,113,119,183,184,185,319,797,1143,1411,1608
+698	HAVRILOVÁ Mária r. Molčanová	zomrela	0	93,113,119,183,184,185,319,797,1143,1411,1608
+698	HIMIČ Ján	zomrel	0	1120
+698	HIMIČ Michal	zomrel	0	1120
+698	HOPKO Andrej	zomrel	0	75,93,477,522,530,531,532,533,534,535,536,537,539,683,684,1554,1555,1556,1558,1682,1713
+698	Hopko Ján		1	1254
+698	Hopko Štefan	zomrel,ž.Žofia Verešpejová	0	1136
+698	HOPKO Štefan	starší,zomrel	0	239,524,1444
+698	HOPKOVÁ Katarína	zomrela	0	29,75,93,477,530,531,532,533,534,535,536,537,539,683,684,1554,1555,1556,1558,1682,1713
+698	Hopková Terézia		1	1254
+698	Hopková Žofia r. Verešpejová	zomrela	0	1136
+698	HOVANYECZOVÁ Helena r. Jankócziová	zomrela	0	748,750,751,765,847
+698	HUDÁK Ján	zomrel	0	1320
+698	Hudák Ján, SPF SPF		1	1508
+698	JANIGOVÁ Marta r. Dugasová	NP	0	775
+698	JANKÓCI Ján	zomrel	0	765,847
+698	JANKÓCIOVÁ Helena	zomrela	0	765,847
+698	JANKÓCIOVÁ Zuzana	zomrela	0	765,847
+698	JANKÓCZI Ján	zomrel	0	748,750,751
+698	Jusko Mária r. Ponik		1	1254
+698	KANCÍR Andrej	zomrel,n.v roku 1910,ž.Jašková	0	93,186,187,189,190,191,192,193,201,203,467,468,688,689,690,691,1352,1590,1606,1607,1703
+698	KANCÍR Ján	zomrel,ž.Mária Mikolajová	0	607,609
+698	KANCÍR Ján	zomrel,ž.Ravasová,n.v roku 1913	0	93,186,189,201,467,468,1352,1703
+698	KANCÍR Juraj	ml.,zomrel	0	1171
+698	KANCÍR Juraj	zomrel,ž.Anna Polohová	0	93,187,189,193,690,691,1606,1607
+698	KANCÍR Štefan	ž.Alžbeta Hajdučinová	0	1252,1310
+698	KANCÍROVÁ Alžbeta		0	93
+698	KANCÍROVÁ Alžbeta	zomrela	0	239,524,1444
+698	KANCÍROVÁ Mária r. Čechmaneková	NP,ČR	0	522
+698	KANCÍROVÁ Mária r. Sinaiová	zomrela	0	77,354,1111
+698	KARAUZOVÁ Zuzana r. Jankócziová	zomrela	0	748,750,751,765,847
+698	KARNIŠ Juraj	zomrel	0	747
+698	KAŠČÁKOVÁ Alžbeta r. Tomečková	zomrela	0	93,190,292,896,897,898,899,900,1236,1590,1593
+698	KAŠŠAI Andrej	zomrel	0	305
+698	KAŠŠAI Ján	zomrel	0	305
+698	KAŠŠAI Juraj	zomrel	0	305
+698	Kaššai Štefan	zomrel	0	93,243,877,1655
+698	KAŠŠAI Štefan	zomrel,ž.Alžbeta Šoltísová	0	305
+698	KAŠŠAIOVÁ Alžbeta r. Šoltísová		0	1157
+698	KAŠŠAIOVÁ Anna	zomrela	0	305
+698	KAŠŠAIOVÁ Mária	zomrela	0	305
+698	KAŠŠAY Juraj	zomrel	0	239,524,1444
+698	KAZIMÍR Jozef	najstarší,zomrel	0	354,1111
+698	KAŽIMÍR Michal	ž.Katarína Paľová	0	239,524,1138,1248,1444
+698	KAŽIMÍROVÁ Katarína r. Paľová		0	1248
+698	KIŠ Juraj	zomrel	0	1292
+698	KIŠŠ Juraj	zomrel	0	93,117,186,200,201,202,467,468,559,874,1352,1703
+698	KIŠŠ Štefan	ž.Mária Majerošová	0	1159
+698	KIŠŠOVÁ Anna	zomrela,brat Andrej,Jozef	0	85,93,116,117,118,186,201,202,221,222,223,239,262,467,468,555,556,557,558,559,617,618,654,874,901,902,903,904,905,1350,1351,1352,1353,1417,1418,1444,1594,1603,1612,1626,1703
+698	KIŠŠOVÁ Anna	zomrela,súr.Mária,Štefan	0	255
+698	Kiššová Anna r. Dučajová	zomrela	0	255,524,737,1114,1158
+698	Kiššová Mária	zomrela,súrodenci Anna,Juraj	0	93,117,120,186,200,201,202,222,467,468,559,874,1352,1703
+698	Kiššová Mária	zomrela,súrodenci Anna,Štefan	0	255
+698	KIŠŠOVÁ Mária r. Majerošová	zomrela	0	1159
+698	KLIMKOVÁ Mária r. Kopasová	zomrela	0	727
+698	KOLLÁR Andrej	NP	0	756
+698	KOLLÁR Ján	NP	0	756
+698	KOLLÁR Karol	NP	0	756
+698	KOLLÁR Štefan	NP	0	756
+698	KOLLAROVÁ Anna r. Vargová	zomrela	0	771
+698	KOLLAROVÁ Mária r. Vargová	zomrela	0	771
+698	KOPAS Ján	zomrel	0	727
+698	KOPAS Ľudovít	zomrel	0	727
+698	KOPAS Štefan	zomrel	0	727
+698	KOPASOVÁ Mária r. Macková	zomrela	0	848
+698	KOVAĽOVÁ Anna r. Kassaiová	zomrela	0	93,735
+698	KOVAĽOVÁ Mária r. Pravúrová	zomrela	0	1046,1047
+698	Krajňáková Margita r. Barteková		1	1254
+698	KRAJŇÁKOVÁ Mária r. Krajdovská	zomrela	0	1118
+698	KROCHMAĽ Kalman	zomrel	0	793
+698	KROCHMAĽOVÁ Mária r. Orosová	zomrela	0	791
+698	Krochmaľová Mária r. Orosová, SPF SPF		1	1515,1516
+698	Krupasová Anna r. Hopková		1	1254
+698	Lazorová Agnesa r. Lazorová		1	1254
+698	Lazorová Anna		1	1254
+698	Lazorová Mária		1	1254
+698	LENARTOVÁ Mária r. Kollárová	NP	0	756
+698	LEVENDOVSKÁ Anna r. Suvartová	zomrela	0	847
+698	LEVENDOVSKÝ Ján	zomrel	0	817,847
+698	LIBERA František	zomrel	0	760
+698	LIBERA Jozef	zomrel	0	760
+698	LIBERA Julián	zomrel	0	760
+698	LIBERA Štefan	zomrel	0	760
+698	LIBERA Viliam	zomrel	0	760
+698	LIBEROVÁ Anna	zomrela	0	760
+698	LIBEROVÁ Gizela	zomrela	0	760
+698	LIBEROVÁ Lilia	zomrela	0	760
+698	LICHVÁROVÁ Alžbeta r. Šalatová	zomrela	0	841
+698	LICHVÁROVÁ Anna	zomrela	0	841
+698	LICHVÁROVÁ Johana r. Arvajovičová	zomrela	0	851,861
+698	LIPTÁK Martin	zomrel	0	1120
+698	LIPTÁK Štefan	zomrel	0	1120
+698	MACEJOVÁ Anna r. Šimková	zomrela	0	93,341,522,530,531,532,533,539,683,684,1188,1194,1197,1226,1235,1238,1682,1683
+698	MACKO František	zomrel	0	833
+698	MACKO Ján	zomrel	0	848
+698	MACKO Štefan	ml.,zomrel	0	848

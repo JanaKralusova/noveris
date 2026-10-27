@@ -1,0 +1,256 @@
+630	Kostelanský Jozef r. Kostelanský		0	977
+630	Kostelanský Jozef, SR		1	763
+630	Kostelanský Michal r. Kostelanský		0	1031
+630	Kovaľ Mikuláš r. Kovaľ		0	977
+630	Kovaľová Anna r. Vaľová		0	969
+630	Kovaľová Anna r. Vargová		0	1404
+630	Kovaľová Mária r. Hrunčáková		0	1428
+630	Kuchár Michal r. Kuchár, syn Ján syn Ján		0	1081
+630	Kuchárová Michaela r. Beňaková, Michalová Michalová		0	1266
+630	Macková Anna r. Senková		0	970
+630	Macková Anna r. Senková	muž Ján	1	747,1572
+630	Macková Anna r. Senková, muž Ján muž Ján		0	970
+630	Macková Anna r. Senková, SR	muž Ján	0	637
+630	Magura Jozef		0	664
+630	Magura Jozef r. Magura		0	977
+630	Majorová Elena r. Ružičková	muž Jozef	1	677
+630	Marcin Andrej	žena Anna Otrošinová	1	757
+630	Marcin Andrej r. Marcin, ž.Anna Otrošinová ž.Anna Otrošinová		0	977
+630	Mašlárová Gizela r. Ružičková		1	677
+630	Maťašovská Alžbeta r. Palinská, SR	muž Juraj	1	685
+630	Mäsiarová Mária r. Havrilová		0	977
+630	Mesárošová Mária r. Štefanová		0	1540
+630	Meszarošová Zuzana r. Havrilová		0	977
+630	Micáková Mária r. Kolesárová		0	1084
+630	Mičová Mária r. Marcinová	muž Ján	1	757
+630	Mičová Mária r. Marcinová, muž Ján muž Ján		0	977,1181
+630	Mikitová Alžbeta r. Čačková		0	1198
+630	Minárik Pavol		0	664
+630	Minárik Pavol r. Minárik		0	977,1447
+630	Minárik Pavol, SR		1	689
+630	Minariková Júlia r. Marcinová	muž Michal	1	757
+630	Minariková Júlia r. Marcinová, muž Michal muž Michal		0	977
+630	Mulačová Zuzana r. Beláková		0	1525
+630	Onderko Jozef r. Onderko		0	1468
+630	Onderková Anna r. Kostelanská		0	1011
+630	Onderková Mária r. Danková		0	977
+630	Pahulaková Anna r. Červeňáková		0	977
+630	Pahulaková Anna r. Červeňáková, SR		0	148
+630	Pahuliaková Anna r. Červeňáková		0	977
+630	Patakyová Anna r. Pavlíková		1	712,1103
+630	Pavlik Ján r. Pavlik		0	1467
+630	Pavlik Ján, SR		1	712
+630	Pažejová Zuzana r. Pažejová		0	977
+630	Rapavá Margita r. Ružičková	muž Štefan, zom	1	677
+630	Ravašová Zuzana r. Kovalová		0	1356
+630	Ridoš Ján r. Ridoš		0	1497
+630	Ridoš Jozef	zom	1	743
+630	Ridoš Jozef, SR		1	741
+630	Ridoš Michal	ž. Mária Kačmarová	1	724,743,799
+630	Ridoš Michal	ž.Mária Kačmarová	1	741
+630	Ridoš Michal, SR		0	481
+630	Ridošová Mária r. Kačmárová, muž Michal muž Michal		0	1238
+630	Rošková Zuzana r. Senková		0	977
+630	Rusnák Michal r. Rusnák		0	977
+630	Rusnáková Anna r. Bajusová		0	977
+630	Senič Michal		1	951
+630	Senič Michal r. Senič		1	951,1003
+630	Seničová Mária		1	951
+630	Seničová Mária r. Seničová		0	1366
+630	Senko Andrej	syn Jána	1	747,1572
+630	Senko Andrej r. Senko		0	977
+630	Senko Andrej r. Senko, syn Jána syn Jána		0	1228
+630	Senko Andrej, SR	syn Jána	0	637
+630	Silajová Zuzana r. Tirpáková		0	1439
+630	Slot Ján		0	664
+630	Slot Ján r. Slot		0	977
+630	Slot Juraj		0	664
+630	Slot Juraj r. Slot		0	977
+630	Slot Michal		0	664
+630	Slot Michal r. Slot		0	977
+630	Slota Ján		1	690
+630	Slota Ján r. Slota		0	1132
+630	Slota Ján r. Slota, mal. mal.		0	969,977
+630	Slota Ján, SR		0	261
+630	Slota Juraj		1	690
+630	Slota Juraj r. Slota		0	1166
+630	Slota Juraj, SR		0	261
+630	Slota Michal		1	690
+630	Slota Michal r. Slota		0	1450
+630	Slota Michal r. Slota, mal. mal.		0	969,977
+630	Slota Michal, SR		0	261
+630	Slotová Mária		1	664,690
+630	Slotová Mária r. Slotová		0	977,1379
+630	Slotová Mária, SR		0	261
+630	Soguničová Zuzana r. Pavelková		0	977
+630	Starý Mária r. Starý, Gazdová, Višňov, I. Gazdová, Višňov, I.		0	1108
+630	Szenciová Anna r. Banduričová, SR		1	751
+630	Šimai Jozef		0	664
+630	Šimai Jozef	ml	1	804
+630	Šimai Jozef r. Šimai		0	977
+630	Šimai Jozef r. Šimai, ml. ml.		0	1200
+630	Šimaiová Mária r. Kačmárová, SR		1	766
+630	Šimaiová Mária r. Koscelanská		1	690,1394
+630	Šimaiová Mária r. Kostelanská		0	1117
+630	Šimaiová Mária r. Kostelanská, SR		0	261
+630	Štefan Juraj	ž. Mesarošová	1	802
+630	Štefan Juraj r. Štefan, ž.Mesarošová ž.Mesarošová		0	1170
+630	Štefanová Anna r. Kačmárová		0	977
+630	Šurmaneková Anna r. Ružičková		1	677
+630	Talajová Anna r. Kovalová		0	1432
+630	Talajová Anna r. Záhorská		1	683
+630	Tamaš Jozef r. Tamaš		0	977
+630	Tamaš Michal		0	252
+630	Tamáš Michal	syn Jána	1	806
+630	Tamaš Michal r. Tamaš		0	977
+630	Tamáš Michal r. Tamáš, syn Jána syn Jána		0	1010
+630	Tamášiková Mária r. Tomášová, Parchovany, I Parchovany, I		0	996
+630	Tamašová Mária r. Tamašová		0	1488
+630	Tamašová Mária, SR		0	222
+630	Tamašová Zuzana r. Pažejová		0	977
+630	Tirpak Juraj r. Tirpak		0	1493
+630	Tomašová Mária r. Bajusová		1	695,999
+630	Tomčíková Mária r. Rošková, muž Juraj muž Juraj		0	969
+630	Trellová Mária r. Tamášová		0	977
+630	Tynty Andrej r. Tynty		0	977
+630	Tynty Andrej, SR		0	205
+630	Tyntyová Mária r. Horvathová		0	977
+630	Tyntyová Mária r. Horvathová, SR		0	205
+630	Uherová Anna r. Ištoková		0	1330
+630	Uherová Anna r. Ištoková, SR		0	279
+630	Vaľová Anna r. Kolesarová		0	1178
+630	Vaľová Mária r. Vasiľová		0	1433
+630	Vaľovská Alžbeta r. Kočišová		0	1442
+630	Vaľovský Andrej r. Vaľovský		0	1135
+630	Vaľovský Michal r. Vaľovský, zom. zom.		0	1407
+630	Vaňo Andrej, SR		1	773
+630	Vaňová Anna r. Danková, SR		1	773
+630	Vargová Alžbeta r. Štuňová		0	1373
+630	Vasilová Anna r. Havrilová		0	977
+630	Vavreková Mária r. Pavelková		0	977
+630	Veseleny Ján r. Veseleny		0	1333
+630	Veseleny Juraj r. Veseleny		0	1036
+630	Veseleny Michal r. Veseleny		0	1214
+630	Záhorský Juraj	syn Jána	1	683
+630	Zambor Michal r. Zambor		0	1278
+630	Zambor Štefan r. Zambor		0	1474
+631	ACOVA MARIA R.KOHYLOVA		0	3661
+631	Ačková Mária r. Kohýlová		0	2512
+631	Ačková Mária r.Kohýlová		0	3660
+631	Ačová Mária r. Kohilová	manž. Michal	0	2513
+631	Ačová Mária r. Kohilová	Michal	0	2514
+631	Ačová Mária r. Kohilová	Michal, čd. 2677/25	0	329
+631	Áčová Mária r. Kohýlová		0	887,888,1034,1131,2515,3610,4040
+631	Ačová Veronika	č.38 Dvorníky, čd. 4211/35	0	3116
+631	Adameková Júlia r. Kobelárová	Peter, čd. 4483/26	0	1697
+631	Adamík Cyril	čd. 490/47, zom.6.11.2000	0	2796
+631	Adamík Ján	Mária, zom.19.7.1967, čd. 1842/32	0	430,2118,3619
+631	Adamík Jozef	zom. 2.10.1976, syn Štefana	0	775
+631	ADAMIK MARTIN		0	844,2375
+631	Adamík Martin	maloletý, čd. 5087/99	0	184,2765,3686
+631	Adámik Melicher a Matilda Adámiková r. Šugrová		0	2658
+631	Adamík Michal	zom.6.6.2006	0	188,2796,4031
+631	ADAMIK PETER		0	844,2375
+631	Adámik Peter	Júlia rod. Kobelárová, čd. 1050/43, zom. 23.12.1989	0	188,2104,3617,3678,4031
+631	Adamíková Emília r. Majková	zom.1.5.2008	0	1758
+631	Adamíková Júlia r. Kobelárová	č. 189, Peter, čd. 1842/32, zom. 23.9.1974	0	430,2118,3619
+631	Adamíková Karolína r. Chrapková	zom.26.12.1994	0	775,1142,3555,3688
+631	ADAMIKOVA KRISTINA		0	844,2375
+631	ADAMIKOVA MARCELA R.BRUNOVA		0	844
+631	Adamiková Mária	maloletá, čd. 5087/99	0	184,2765,3686
+631	Adamíková Mária	Ján, čd. 1842/32	0	430
+631	Adamíková Mária	Martin, čd. 1842/32	0	188,2104,3617,3678,4031
+631	Adámiková Mária r. Brunová		0	2375
+631	Adamíková Mária r. Fančová	zom.5.7.1998 Trnava	0	1824
+631	Adamíková Mária r. Kadlecová	čd. 5405/1899	0	1191,1192
+631	Adamíková Mária r. Majková		0	2159
+631	Adamíková Mária r. Majková	čd. 3996/30	0	3181
+631	Adamiková Mária r. Potisková		0	167
+631	Adamiková Mária r. Trnková	Ján, čd. 2011/1884	0	3374
+631	Adamiková Mária r. Vašková	Martin, čd. 579/19	0	188,2104,3617,3678,4031
+631	Adámiková Matilda r. Šugrová	zom.22.2.1980	0	188,430,2104,2118,3617,3619,3678,4031
+631	Albert Anton	zom.28.2.2002	0	188,430,2104,2118,3078,3413,3617,3619,3678,4031
+631	Albert František	zom.28.3.1997 Trnava	0	188,430,2104,2118,3078,3413,3617,3619,3678,4031
+631	Albertová Brigita r. Vrabcová	zom.17.5.1975	0	3078
+631	Antal František		0	1225,1731
+631	Antal František	čd. 3772/33	0	1793
+631	Antal František	čd.1737/43	0	2820
+631	Antal František r. Antal		0	1428
+631	Antoš Viktor	predtým Adler, čd. 898/49	0	3518,3520
+631	Augustínová Mária		0	1131,3661
+631	Bábik Jozef	malol., čd.1785/16	0	2866
+631	Bábik Karok		0	1394
+631	Bábik Karol		0	571,3904
+631	Babik Karol r. Babik a Magdaléna Babiková r. Vašková		0	236,511,3669
+631	Bábik Lengherdt		0	1763
+631	Babik Leonard	maloletý	0	2762
+631	Babik Leonard	maloletý, čd. 5024/36	0	2752,2957,3037,3685
+631	Bábik Leonard		0	1763
+631	Bábik Michal	čd.665/51	0	2866
+631	Bábik Michal	malol., čd.1785/16	0	2866
+631	Babik Štefan	Filoména, čd. 1842/32	0	188,775,2104,3617,3678,4031
+631	Babík Štefan	maloletý	0	2762
+631	Babík Štefan	maloletý, čd. 99/28	0	2752,3685
+631	Bábik Štefan		0	1763
+631	Bábiková Filoména r. Miklovičová	Štefan, č. 326 Dvorníky, čd. 1842/32	0	775,2104,2957,3037,3617,3678
+631	Bábiková Filoména r. Miklovičová	Štefan, čd. 1842/32	0	188,4031
+631	Babiková Jozefína	čd. 2014/33	0	2752,3685
+631	Bábiková Jozefína		0	1763,2762
+631	Babiková Matilda	čd. 99/28	0	2752,3685
+631	Bábiková Matilda		0	1763,2762
+631	Babina Jozef	čd.1785/16	0	2902
+631	Babina Karol	čd.7470/07	0	2902
+631	Babina Michal	čd.1785/16	0	2902
+631	Babiš Štefan	č. 326, Filoména, čd. 1842/32	0	430,2118,3619
+631	Babišová Filoména	č. 326, Štefan, čd. 1842/32	0	430,2118,3619
+631	Babka Jozef	Eva rod. Ostrovská, čd. 5442/38	0	188,2104,3617,3678,4031
+631	Babka Jozef r. Babka a Eva Babková r. Ostrovská		0	3860
+631	BABKA MARTIN		0	582,2382,2455,2456,2457,2458,2462,3857,3860
+631	Babka Rudolf	malol	0	2382,2457,2462
+631	BABKA RUDOLF		0	582,2455,2456,2458,3857,3860
+631	Babková Anna r. Crhlíková	čd. 2447/51	0	188,430,2104,2118,3068,3617,3619,3678,4031
+631	Babková Eva r. Ostrovská	manž. Jozef	0	2382
+631	Babková Eva r. Ostrovská	zom.12.10.1972, Jozef	0	188,2104,3617,3678,4031
+631	Bačová Etela r. Synaková		0	2276
+631	Balažovič Michal	Irena rod. Pavlíková, čd. 1284/51	0	204
+631	Balažovič Michal	manž. Irena rod. Pavlíková	0	2671
+631	Balažovičová Helena		0	2671
+631	Balažovičová Helena	čd. 1284/51	0	204
+631	Balentová Anna r. Očenášová	čd. 1606/51	0	2857
+631	Balentová Anna r.Očenášová		0	884
+631	Balog Štefan	čd. 2581/01	0	3400
+631	Balog Vincent	čd. 3537/11	0	3567
+631	Banková Eva r. Šándorová		0	2671
+631	Banková Eva r. Šándorová	čd. 1193/06	0	204
+631	Barák Vilém		0	2556
+631	Baráková Marta r. Mináriková	zom.13.5.1987, Viliam	0	430,2118,3619
+631	Baranovič Ján	čd. 2765/13	0	3226
+631	Baranovič Ján	maloletý, čd. 2605/31	0	3226
+631	Baranovič Jozef	č.84 Dvorníky, čd. 4211/35	0	3125
+631	Baranovič Jozef	čd. 2605/31	0	3226
+631	Baranovič Jozef	čd. 2765/13	0	3226
+631	Baranovič Jozef	maloletý, čd. 2605/31	0	3226
+631	Baranovič Michal	čd. 2605/31	0	3226
+631	Baranovič Michal	čd. 2765/13	0	3226
+631	Baranovič Michal	maloletý, čd. 2605/31	0	3226
+631	Baranovičová Anna r. Mesárošová		0	318
+631	Baranovičová Mária	maloletá, čd. 2605/31	0	3226
+631	BARCAJOVA OLGA TRNAVA BALAKOVSKA C.11		0	813
+631	Barkóczyová Katarína r. Poláková	vdova, Ján, čd. 459/05	0	204
+631	Barkóczyová Katarína r. Poláková	vdova, manž. Ján	0	2671
+631	BARTUNEKOVA ANDELA		0	2178
+631	Behulová Anna r. Kyselová	čd.880/61	0	1805,3672
+631	Bejdák Ján	Františka rod.Rybárová, zom.20.7.1996	0	3036
+631	Belák Klement		0	2199
+631	Belák Štefan		0	2199
+631	Beláková Mária		0	2199
+631	Beláková Monika		0	2199
+631	Beluský Ľudevít		0	2738
+631	Beluský Ľudevít	čd. 409/62	0	2737
+631	Beluský Ľudevít r. Beluský		0	742
+631	Beluský Michal	zom.17.2.1977 Vinohrady nad Váhom	0	742,2737,2738
+631	Beníková Emília		0	2162
+631	Beníková Kamila		0	2161
+631	Beňová Mária r. Kyselová	čd. 1758/43	0	3398,3432,3492
+631	Benová Mária r.Kyselová		0	2565
+631	Beránek Augustin	Amália rod. Malovcová, čd. 2593/44	0	3279

@@ -1,0 +1,256 @@
+1200	Trenčényiová Rozália r. Mátéová	vd	1	1240
+1200	Trenčényiová Rozália r. Oroslányová	345325	1	1162
+1200	Trenčényiová Žofia r. Čákyová		1	1094
+1200	Ujlaky Pavol	m.Margita Velebná	1	1039
+1200	Urbársky majetok		1	1258
+1200	Vajdová Mária r. Hegedüšová	305226	1	1228
+1200	Velebná Alžbeta	a	1	1031
+1200	Velebná Alžbeta	b ,; b	1	1206
+1200	Velebná Helena		1	1206
+1200	Velebná Hermína		1	999
+1200	Velebná Ilona r. Ondrejková	m.František	1	1160
+1200	Velebná Izabela r. Máková		1	1351
+1200	Velebná Margita r. Csákyová	vd	1	995,1283
+1200	Velebná Margita r. Velebná	m.Lörinc	1	1014,1192
+1200	Velebná Mária	ml	1	1031
+1200	Velebná Mária r. Berecová		1	1183,1230
+1200	Velebná Mária r. Trenčéniová	m.Karol	1	1047,1058,1272,1274
+1200	Velebná Mária r. Trenčényiová	m.Karol	1	1263
+1200	Velebná Matilda	ml	1	1031
+1200	Velebná Matilda r. Csákyová	785820	1	1000,1142,1164,1168,1209,1263,1273,1299,1302
+1200	Velebná Rozália	ml	1	1031
+1200	Velebná Rozália r. Klačová	m.Štefan	1	1097
+1200	Velebná Rozália r. Koncová	m.František	1	1132,1346
+1200	Velebná Rozália r. Nagyová	m.Jozef	1	1018,1091
+1200	Velebná Rozália r. Takáčová	vd./m.Lörinc	1	1006,1297,1309,1398,1437
+1200	Velebná Rozália r. Trenčéniová	m.Ladislav	1	1047
+1200	Velebná Rozália r. Trenčényiová	m.Ladislav	1	1163,1192,1263,1274
+1200	Velebná Rozália r. Velebná	m.Ján	1	1141
+1200	Velebná Rozália r. Velebná	vd	1	1327
+1200	Velebná Veronika r. Oroslányová		1	1071
+1200	Velebná Veronika r. Trenčényiová		1	1357
+1200	Velebný Alexander	m.Ilona Cseriová	1	1014
+1200	Velebný Alexander	m.Matilda Trencséniová	1	1205
+1200	Velebný František	m.Ilona Ondrejková	1	1160
+1200	Velebný Gustáv	m.Katarína Velebná	1	1280
+1200	Velebný Ján	/otec František/	1	1214
+1200	Velebný Ján	a ,; a	1	999
+1200	Velebný Ján	b ,; b	1	1210
+1200	Velebný Ján	m.Rozália Velebná	1	1141
+1200	Velebný Jozef		1	1206
+1200	Velebný Jozef	/otec František/	1	1214
+1200	Velebný Jozef	m.Rozália Nagyová	1	1018,1091,1166,1246,1270,1400
+1200	Velebný Jozef	ml	1	1007,1008,1171
+1200	Velebný Jozef	ml. ,; ml	1	1415
+1200	Velebný Ladislav	a ,; a	1	1206
+1200	Velebný Lörinc	m.Margita Velebná	1	1080,1480
+1200	Velebný Pongrác	/otec František/	1	1214
+1200	Velebný Štefan		1	995
+1200	Velebný Štefan	m.Alžbeta Velebná	1	1166,1400
+1200	Velebný Štefan	m.Ilona Kováčová	1	1167
+1200	Velebný Štefan	m.Rozália Klačová	1	1097
+1200	Vinczeová Rozália r. Annušová		1	1276
+1200	Vinger Jozef	m.Mária Takáčová	1	1146
+1200	Vingerová Mária r. Takáčová	m.Jozef/ 086002	1	1146,1238
+1200	Záhorská Barbora		1	1261
+1200	Záhorská Františka r. Kováčová	m.Štefan	1	1347
+1200	Záhorská Margita r. Velebná	m.Jozef	1	1206
+1200	Záhorský Jozef		1	1292
+1200	Zaťková Rozália r. Velebná		1	1166,1246,1400
+1200	Zólyomi Štefan	m.Františka Močárová	1	1085,1109,1117,1196,1240,1403
+1200	Zólyomiová Františka r. Močárová	m.Štefan/ 055312	1	1020,1085,1109,1117,1130,1173,1196,1240,1403
+1201	Adam Štefan r. Adam		0	121,130,131,132,133,134,136,137,207,368,381,567,685
+1201	Adamová Anna		0	121,130,131,132,133,134,136,137,207,368,381,567,685
+1201	Adamová Mária		0	121,130,131,132,133,134,136,137,207,368,381,567,685
+1201	Adzimová Mária r. Čuchtová		0	294,298,473,565
+1201	Adzimová Mária r. Tomaščinová		0	597
+1201	Balážová Alžbeta r. Cmorová		0	80,168,425,625,626,627,678
+1201	Baranová Mária r. Liba Ondek		0	293,295,296,297,299,300,302,469
+1201	Bekečová Anna r. Hajduková		0	294,298,473,565
+1201	Bocko Michal r. Bocko		0	91,234,235
+1201	Bocko Michal r. Bocko	1	0	564
+1201	Bocko Michal r. Bocko	ž.Mária Senčáková	0	148,596
+1201	Bocko Mikuláš r. Bocko		0	564
+1201	Bocko Štefan r. Bocko		0	564
+1201	Bocko Štefan r. Bocko	1	0	425,678
+1201	Bocková Anna		0	564
+1201	Bogdaň Ján r. Bogdaň	st	0	108,158,201
+1201	Bogdaň Ján r. Bogdaň	ž.Anna Mesarčová	0	151,155,210,417,575
+1201	Bogdaň Michal r. Bogdaň		0	92,151,155,157,169,210,340,417,575
+1201	Bogdaňová Anna r. Mesarčová		0	155,210,417,575
+1201	Buzga Ján r. Buzga	ž.Johana Grejtáková,Klenov 5	0	507
+1201	Buzgová Johana r. Grejtáková, 082 44, Klenov, č. 5, SR		0	507
+1201	Cmar Juraj r. Cmar	ž.Mária Dzuríčková,7 Klenov	0	425,488,678
+1201	Cmar Juraj r. Cmar, 08244, Klenov, č. 7, SR		0	80,626,627
+1201	Cmar Juraj r. Cmar, 08244, Klenov, č. 7, SR	ž.Mária Dzuríčková	0	168,625
+1201	Cmarová Mária r. Dzuríčková, 082 44, Klenov, č. 7, SR		0	488
+1201	Cmor Ján r. Cmor		0	80,168,425,625,626,627,678
+1201	Cmor Ján r. Cmor	ž.Anna Macková	0	80,168,625,626,627
+1201	Cmor Jozef r. Cmor		0	80,168,425,625,626,627,678
+1201	Cmor Juraj r. Cmor	ml	0	80,425,626,627,678
+1201	Cmor Juraj r. Cmor	mladší	0	168,625
+1201	Cmor Michal r. Cmor		0	80,168,425,625,626,627,678
+1201	Cmorová Alžbeta r. Mesarčová		0	80,168,425,625,626,627,678
+1201	Cmorová Mária r. Dzuričková		0	80,168,425,625,626,627,678
+1201	Čuchta Ján r. Čuchta		0	294,298,473,565
+1201	Čuchta Juraj r. Čuchta		0	4,115,257
+1201	Čuchta Michal r. Čuchta		0	294,298,473,565
+1201	Čuchtová Mária		0	4,115,257
+1201	Čuchtová Mária r. Libová		0	274
+1201	Dolinský Ján r. Dolinský		0	211,280,335,336,337,338,383,641
+1201	Dolinský Ján r. Dolinský	1	0	280,282,336,337,338,641
+1201	Dolinský Jozef r. Dolinský		0	282
+1201	Dolinský Michal r. Dolinský		0	335,337,338,641
+1201	Dolinský Michal r. Dzuričko		0	336
+1201	Dorčáková Barbora	mal	0	275,550
+1201	Dorčáková Mária r. Dzuričková		0	39,222,273,342
+1201	Drabiščák Ján r. Drabiščák	ž.Anna Kalinová,1 Klenov	0	457
+1201	Drabiščáková Anna r. Kalinová, 082 44, Klenov, č. 1, SR		0	457
+1201	Dúbravská Alžbeta r. Mihaľová		0	47,135
+1201	Ďurkaň Juraj r. Ďurkaň	ž.Mária Tkáčová	0	137,356,381
+1201	Ďurkaň Juraj r. Ďurkaň	ž.Mária Tkáčová; ž.Mária Tkáčová	0	130
+1201	Dzuričko Juraj r. Dzuričko		0	39,273,342
+1201	Dzuričko Juraj r. Dzuričko	ž.Anna Popadičová	0	211,280,282,335,336,337,338,383,641
+1201	Dzuričko Michal r. Dzuričko		0	39,222,273,342
+1201	Dzuričko Mikuláš r. Dzuričko		0	39,222,273,342
+1201	Dzuričko Mikuláš r. Dzuričko	ž.Anna Dolinská	0	518
+1201	Dzuričko Štefan r. Dzuričko		0	39,222,273,342
+1201	Dzuričková Anna		0	383
+1201	Dzuričková Anna r. Dolinská		0	335,336,337,338,518,550,641
+1201	Dzuričková Anna r. Popadičová		0	336
+1201	Dzuričková Mária		0	550
+1201	Dzurik Ján r. Dzurik		0	7
+1201	Dzurik Michal r. Dzurik		0	7
+1201	Dzurik Štefan r. Dzurik		0	7
+1201	Dzuriková Anna		0	7
+1201	Fedor Ján r. Fedor		0	151
+1201	Fedorová Anna r. Mitrová		0	153
+1201	Filakovská Anna		0	38,39,40,435
+1201	Fiľakovská Katarína r. Mesarčová		0	151
+1201	Filakovská Mária		0	38,39,40,435
+1201	Fiľakovská Mária r. Miháľová,, Klenov, č. 89, SR		0	529
+1201	Fiľakovská Verona r. Adzimová, 082 44, Klenov, č. 102, SR		0	335,535
+1201	Fiľakovská Verona r. Adzimová, 08244, Klenov, č. 102, SR		0	335
+1201	Filakovský Ján r. Filakovský		0	38,39,40,435
+1201	Filakovský Jozef r. Filakovský	ž.Alžbeta Mitrová	0	35,37,437
+1201	Fiľakovský Michal r. Fiľakovský	ž.Katarína Mesarčová	0	151
+1201	Fiľakovský Peter r. Fiľakovský	ž.Mária Miháľová, 89 Klenov	0	529
+1201	Filakovský Štefan r. Filakovský		0	38,39,40,435
+1201	Fiľakovský Štefan r. Fiľakovský	slob.syn Jozefa, 33 Klenov	0	435,537
+1201	Fiľakovský Štefan r. Fiľakovský	ž.Verona Adzimová, 102 Klenov	0	335,535
+1201	Fiľakovský Štefan r. Fiľakovský, 08244, Klenov, č. 33, SR	slob.syn Jozefa	0	38
+1201	Fiľakovský Štefan r. Fiľakovský, Klenov, č. 33, SR	slob.syn Jozefa	0	40
+1201	Grejták Juraj r. Grejták		0	478
+1201	Grejták Juraj r. Grejták	ž.Anna Jaščáková, 95 Klenov	0	505
+1201	Grejták Valentín r. Grejták	ž.Helena Libová, 28 Klenov	0	506
+1201	Grejtáková Helena r. Libová		0	506
+1201	Hajduk Andrej r. Hajduk		0	155,210,417
+1201	Hajduk Imrich r. Hajduk	ž.Helena Mihálová	0	527
+1201	Hajduk Jan r. Hajduk	2	0	575
+1201	Hajduk Ján r. Hajduk	1	0	294,298,473,565
+1201	Hajduk Jozef r. Hajduk		0	294,298,473,565
+1201	Hajduk Michal r. Hajduk		0	94,294,298,473,565
+1201	Hajduk Štefan r. Hajduk		0	575
+1201	Hajduk Štefan r. Hajduk	v Amerike	0	38
+1201	Hajduk Štefan r. Hajduk	ž.Mária Pekárová, 105 Klenov	0	497
+1201	Hajduková Alžbeta		0	174,214
+1201	Hajduková Anna		0	155,210,417,575
+1201	Hajduková Helena		0	155,210,417,575
+1201	Hajduková Helena r. Mihálová		0	527
+1201	Hajduková Mária		0	294,298,565
+1201	Hajduková Mária r. Hajduková		0	473
+1201	Hajduková Mária r. Pekarová, 082 44, Klenov, č. 105, SR		0	497
+1201	Harničák Karol r. Harničák		0	331,333
+1201	Harničák Martin r. Harničák		0	331,333
+1201	Harničák Štefan r. Harničák		0	331,333
+1201	Harničáková Alžbeta		0	331,333
+1201	Harničáková Anna		0	331,333
+1201	Harničáková Apolónia		0	331,333
+1201	Harničáková Mária		0	331,333
+1201	Hric Juraj r. Hric		0	121
+1201	Hricová Barbora r. Maričáková		0	121
+1201	Hudák Michal r. Hudák		0	553,563
+1201	Hudák Mikuláš r. Hudák		0	553,563
+1201	Hudák Štefan r. Hudák		0	91,96,98
+1201	Jánošková Barbora r. Hudáková		0	553,563
+1201	Jednotné roľnícke družstvo v Klenove		0	619,621,668
+1201	Kovaľová Anna		0	553,563
+1201	Kovaľová Mária r. Popadičová		0	120,479
+1201	Krajňák Imrich r. Krajňák		0	4,115,257
+1201	Krajňák Ján r. Krajňák		0	4,115,257
+1201	Krajňák Michal r. Krajňák	mal	0	4,115,257
+1201	Krajňák Ondrej r. Krajňák		0	4,115,257
+1201	Krajňáková Alžbeta r. Tomaščinová		0	293,295,296,297,299,300
+1201	Krajňáková Anna r. Cmorová		0	80,168,425,625,626,627,678
+1201	Krajňaková Mária r. Mikulová		0	121,148,149,150,151,566,596,620,667
+1201	Krajňáková Verona	mal	0	4,115,257
+1201	Kreheľ Andrej	Hajduk	0	172,173,174,214
+1201	Kreheľ Andrej r. Kreheľ		0	599,600
+1201	Kreheľ Imrich r. Kreheľ		0	7,91,96,98,234,235,293,295,296,297,299,300,356,469
+1201	Kreheľ Jozef	Hajduk	0	170,171,172,173,174,214,215,216
+1201	Kreheľ Jozef r. Hajduk		0	175
+1201	Kreheľ Martin r. Kreheľ	ž.Verona Tomaščinová	0	115
+1201	Kreheľ Michal		0	51
+1201	Kreheľ Michal r. Kreheľ		0	211,281,569,628,629,630,631,632,637
+1201	Kreheľ Štefan r. Hajduk	nar.6.8.1899,zom.28.10.1974	0	174
+1201	Kreheľová Anna	mal	0	7,91,96,98,234,235,293,295,296,297,299,300,469
+1201	Kreheľová Anna r. Kreheľová	mal	0	356
+1201	Kreheľová Mária	1	0	86,195
+1201	Kreheľová Mária r. Dzuriková		0	7
+1201	Kreheľová Mária r. Petrašovičová		0	187,296,300
+1201	Kreheľová Verona r. Tomaščinová		0	115
+1201	Krehľová Anna r. Pekárová		0	46,48,229,294,298,473,565,642,643
+1201	Liba Andrej	Kolodžej	0	469,473,565
+1201	Liba Andrej r. Liba		0	51,281,569,628,629,630,631,632,637
+1201	Liba Andrej r. Liba	ž.Alžbeta Libová	0	534
+1201	Liba Bartolomej r. Liba	zomrel 25.12.1965	0	409
+1201	Liba Jaroslav r. Liba		0	196,198,199
+1201	Liba Jozef r. Liba		0	330,331,332,333,426,475
+1201	Liba Michal	Graj	0	148
+1201	Liba Michal r. Liba, 082 44, Klenov, č. 49, SR	zomrel 25.12.1979	0	300
+1201	Liba Mikuláš r. Liba		0	86,195,474
+1201	Liba Mikuláš r. Liba	1	0	86,195,474
+1201	Liba Ondek Ján		0	296
+1201	Liba Ondek Ján r. Liba Ondek		0	293,295,297,299,300,302,469
+1201	Liba Ondek Jozef		0	296
+1201	Liba Ondek Jozef r. Liba Ondek		0	293,295,297,299,300,302,469
+1201	Liba Ondek Michal		0	296
+1201	Liba Ondek Michal r. Liba Ondek		0	293,295,297,299,300,469
+1201	Liba Ondek Ondrej r. Liba Ondek		0	469
+1201	Liba Peter	Graj	0	148
+1201	Liba Štefan	Graj	0	148
+1201	Liba Varga Ján	ž.Katarína Mitrová	0	511
+1201	Libová Alžbeta r. Libová, 082 44, Klenov, č. 45, SR		0	534
+1201	Libová Alžbeta r. Mihaľová		0	47,133,135,368
+1201	Libova Anna		0	295,296,300,469
+1201	Libová Anna	1	0	197,199
+1201	Libová Anna	Graj	0	148
+1201	Libová Anna	mal	0	330,331,332,426,475
+1201	Libová Anna r. Libová	mal	0	333,406,409
+1201	Libová Barbora		0	294,298,473,565
+1201	Libová Mária	Amerika	0	136,137,381
+1201	Libová Mária	Graj	0	148
+1201	Libová Mária	Plichta	0	196,197,198,199,234,235,356,603
+1201	Libová Mária r. Kreheľová		0	599,600
+1201	Libová Mária r. Libová	Amerika; Amerika	0	130
+1201	Libová Mária r. Petrašovičová		0	471
+1201	Libová Zuzana		0	294,298,473,565
+1201	Majerníková Barbora r. Pekárová		0	275,550
+1201	Marhevská Mária r. Ivanová		0	294,298,565
+1201	Marhovský Ján r. Marhovský		0	294,298,565
+1201	Marko Andrej r. Marko	ž.Barbora Dolinská	0	434
+1201	Marková Barbora r. Dolinská		0	434
+1201	Marková Zuzana r. Pekárová		0	39
+1201	Markovský Ján r. Markovský		0	121,150,408,566,596,620,667
+1201	Martočin Martočko Mikuláš r. Martočin Martočko, 08244, Klenov, č. 103, SR		0	115,256
+1201	Martočin Martočko Mikulaš, 08244, Klenov, č. 103, SR		0	257
+1201	Martočko Mikuláš r. Martočko		0	553
+1201	Martočko Mikuláš r. Martočko	ž.Mária Semaničová,Klenov 103	0	514
+1201	Martočko Štefan	ž.Mária Grejtáková	0	516
+1201	Martočko Štefan r. Martočko		0	91,96,98
+1201	Martočková Anna r. Felegyová, 9.mája 8, Svit, PSČ 059 21, SR		0	115
+1201	Martočková Anna r. Hudáková		0	553,563
+1201	Martočková Helena		0	91,96,98
+1201	Martočková Katarína	Martočin	0	4,115,256,257
+1201	Martočková Mária r. Grejtáková		0	516,567
+1201	Martočková Mária r. Semaničová, 082 44, Klenov, č. 103, SR		0	514

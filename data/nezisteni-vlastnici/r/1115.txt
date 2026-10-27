@@ -1,0 +1,256 @@
+650	ILLES Vojtech	žena Helena r.Hoduláková	1	890
+650	ILLESOVÁ Helena	r.Hoduláková,manž.Illes Vojtech	1	890
+650	Illéš Jozef		0	1300
+650	ILLEŠOVÁ Anna		1	890,1792
+650	Illéšová Margita, manž.Illéš Jozef, Kováče č.18 manž.Illéš Jozef, Kováče č.18		0	1792
+650	Imreová Mária r. Karczagová		0	1772
+650	Imrovič Ján		0	1489
+650	Kaličiak Martin, slobodný, Buzitka slobodný, Buzitka		0	1337
+650	KALOCSAI Štefan		1	900
+650	KALOCSAIOVÁ Alžbeta		1	900
+650	KALOCSAIOVÁ Mária		1	900
+650	KALOCSAIOVÁ Terézia		1	900
+650	Kapinajiová Mária r. Bartková, Mocsáryho 21, Lučenec Mocsáryho 21, Lučenec		0	1643
+650	Karczag František		0	1772
+650	Karczag Ján		0	1256
+650	Karczag Ján, žena Alžbeta Karczagová,Kováče č.16 žena Alžbeta Karczagová,Kováče č.16		0	1772
+650	Karczag Jozef		0	1256
+650	Karczag Ľudovít		0	1256,1283
+650	Karczag Vojtech		0	1772
+650	Karczag Vojtech, maloletý maloletý		0	1228,1229
+650	Karczag Vojtech, žena Etela r.Molnárová, Kováče č.20 žena Etela r.Molnárová, Kováče č.20		0	1228,1229
+650	KARCZAGOVÁ Anna		1	943
+650	Karczagová Klára, maloletá maloletá		0	1228,1229
+650	Karczágová Mária r. Bálintová		0	1283
+650	Karczagová Mária, manž.Karczag Ľudovít, Kováče č.58 manž.Karczag Ľudovít, Kováče č.58		0	1309
+650	KERESZTÉNY Jozef	maloletý	1	1072
+650	Keresztény Jozef, maloletý maloletý		0	1421
+650	KIZEKOVÁ Mária	r.Šimonová	1	896
+650	KÖKÉNY Jozef		1	591
+650	Kökény Ladislav		1	591
+650	KÖKENY Pavol	robotník	1	591
+650	KÖKÉNY Štefan		1	478
+650	Kökény Tibor, zom.21.8.1973 zom.21.8.1973		0	1242
+650	KÖKÉNY Vojtech		1	541
+650	KÖKÉNY Žigmund		1	934
+650	KORONCZI Jozef	slobodný	1	940
+650	Koroncziová Mária r. Molnárová, Radzovce 232 Radzovce 232		0	1479
+650	Kovács Jozef, Prša č.14 Prša č.14		0	1458
+650	Kovácsová Alžbeta		0	1228,1229
+650	Kovácsová Anna r. Teleková		0	1228,1229,1245,1594,1779
+650	Kurčík Jozef	Námestie Tuhárske 2903/10, Lučenec	0	1532
+650	Kurinci Štefan, žena Júlia Kurinciová,Kováče č.63 žena Júlia Kurinciová,Kováče č.63		0	1289
+650	Kurunci Štefan		0	1228,1229,1311
+650	Kurunciová Júlia r. Farkašová, manž.Kurunci Štefan manž.Kurunci Štefan		0	1228,1229,1289
+650	KURUNCIOVÁ Mária	r.Molnárová	1	173,888
+650	Mališ Ondrej, Holiša Pustatina Holiša Pustatina		0	1319
+650	Mališová Katarína r. Antalová, Holiša Pustatina Holiša Pustatina		0	1611
+650	Marčok Jozef, ž.Mária r.Molnárová, F.Kľačany č.10 ž.Mária r.Molnárová, F.Kľačany č.10		0	1710
+650	MIKLÓŠ Alexander	žena Mária r.Čomorová	1	484,1179,1180,1193,1807
+650	Miklóš Alexander, žena Mária r.Čomorová žena Mária r.Čomorová		0	1240
+650	MIKLÓŠOVÁ Mária	r.Čomorová manž.Miklóš Alexander	1	484,1179,1180,1193,1807
+650	Miklóšová Mária r. Čomorová, manž.Miklóš Alexander manž.Miklóš Alexander		0	1240
+650	Molnár Anton		0	1767
+650	Molnár Anton, F.Kováče č.77 F.Kováče č.77		0	1537
+650	MOLNÁR Barnabáš		1	721,1767
+650	MOLNÁR Dezider	Kováče č.26	1	940
+650	MOLNÁR Dezider	maloletý	1	173,888
+650	Molnár Dezider, Kováče č.26 Kováče č.26		0	1256,1600
+650	MOLNÁR Ferdinand		1	711,1070,1530
+650	MOLNÁR Florián	Kováče č.45	1	421
+650	Molnár Florián, bolgoš bolgoš		0	1552
+650	Molnár Florián, Kováče č.45 Kováče č.45		0	1228,1229,1414
+650	Molnár František, maloletý maloletý		0	1256
+650	Molnár Gönczi Ján, manž.Alžbeta r.Agostonová manž.Alžbeta r.Agostonová		0	1375
+650	MOLNÁR Ján		1	711,1228,1229,1237,1631
+650	Molnár Ján, bolgoš, Kováče č.44 bolgoš, Kováče č.44		0	1572
+650	MOLNÁR Jozef		1	711,721,1070,1228,1229,1237,1693
+650	MOLNÁR Jozef	maloletý	1	477,478,774,1214
+650	Molnár Jozef, berta berta		0	1256
+650	Molnár Jozef, F.Kováče č.77 F.Kováče č.77		0	1516
+650	Molnár Jozef, maloletý maloletý		0	1228,1229,1245,1555
+650	Molnár Jozef, žena Berta Molnárová, Kováče č.2 žena Berta Molnárová, Kováče č.2		0	1554
+650	Molnár Ladislav, maloletý maloletý		0	1228,1229,1245,1418
+650	Molnár Ľudovít, maloletý maloletý		0	1764
+650	MOLNÁR Vojtech	Kováče č.45	1	711
+650	Molnár Vojtech, Kováče č.45 Kováče č.45		0	1228,1229,1256,1638
+650	Molnárová Alžbeta		0	1228,1229,1237,1245,1689
+650	Molnárová Alžbeta r. Agoštonová, manž.Molnár Ján manž.Molnár Ján		0	1228,1229
+650	Molnárová Alžbeta r. Teleková		0	1343
+650	Molnárová Berta, manž.Molnár Jozef, Kováče č.2 manž.Molnár Jozef, Kováče č.2		0	1722
+650	Molnárová Júlia, manž.Molnár Ľudovít, Kováče č.2 manž.Molnár Ľudovít, Kováče č.2		0	1764
+650	Molnárová Magdaléna, maloletá maloletá		0	1711
+650	Molnárová Margita r. Molnárová, zom. 30. 11. 1975 zom. 30. 11. 1975		0	1242
+650	Molnárová Mária r. Bartová, manž.Molnár Ján manž.Molnár Ján		0	1303
+650	Molnárová Mária, maloletá maloletá		0	1256
+650	Molnárová Mária, manž.Molnár Anton, Kováče č.42 manž.Molnár Anton, Kováče č.42		0	1525
+650	Muránska Rozália r. Sojková, manž.Ján manž.Ján		0	1598
+650	Nagy Gejza, Prša č.9 Prša č.9		0	1746
+650	Nagy Jozef, najmladší, Prša č.10 najmladší, Prša č.10		0	1520
+650	NAGYOVÁ Etela	r.Telekiová	1	945,961
+650	NAGYOVÁ Etela	r.Teleková	1	931
+650	Nagyová Etela r. Telekiová		0	1228,1229,1400
+650	NOCIAR Pavol	slobodný	1	806,1161
+650	NOCIAROVÁ Mária	r.Spodniaková	1	1107
+650	OLÁHOVÁ Olga	r.Berkiová	1	891,892,893
+650	Patai František		0	1660
+650	Pataiová Julianna		0	1292
+650	Pataiová Mária		0	1292
+650	Patayová Julianna		0	1436
+650	PAVEL Albert		1	591
+650	PÉTER Ján		1	890
+650	Pilíši Florián, ž.Júlia r.Biková, D 933/63, D 144/95 ž.Júlia r.Biková, D 933/63, D 144/95		0	1539
+650	Pilíši Ladislav, M. Benku 17, Lučenec M. Benku 17, Lučenec		0	1668
+650	PUPAVA Jozef		1	942
+650	Pupavová Mária, Andrejová Andrejová		0	1300
+650	Pupavová Mária, Ondrejove, vdova, Kováče č.5 Ondrejove, vdova, Kováče č.5		0	1461
+650	Rubint Štefan, žena Mária, Fiľakovo č.332 žena Mária, Fiľakovo č.332		0	1280
+650	Rubintová Mária, manž.Rubint Štefan, Fiľakovo č.332 manž.Rubint Štefan, Fiľakovo č.332		0	1280
+650	Serfözö Jozef	Štefánikova 5, Lučenec	0	1493
+650	SINKOVÁ Julianna	r.Agócsová	1	491
+650	Sinková Julianna r. Agócsová		0	1228,1229,1470,1779
+650	Slovák Ján		0	1300
+650	Slováková Alžbeta r. Agócsová		0	1348
+650	SOÓS Jozef	bálint	1	498
+650	Szabó Ján		0	1228,1229,1389,1779
+650	Szabo Ján, maloletý maloletý		0	1759
+650	Szabó Ján, Pavel Pavel		0	1333
+650	Szabó Ladislav		0	1228,1229,1776
+650	Szabóová Mária, Csanyi Csanyi		0	1701
+650	Szaniszló Andrej		0	1228,1229
+650	Szepesházová Margita r. Szabová, manž.Szepesház Viliam manž.Szepesház Viliam		0	1759
+650	Szepesiová Julianna r. Szabová, manž.Szepesi Karol manž.Szepesi Karol		0	1759
+650	SZOPOCI Ondrej	ž. Elena,Fiľakovo č.179; ž. Elena,Fiľakovo č.179	1	988
+650	Szopoci Ondrej, ž. Elena, Fiľakovo č.179 ž. Elena, Fiľakovo č.179		0	1271
+650	SZOPOCIOVÁ Elena	manž.Szopoci Ondrej,Fiľakovo č.179	1	988
+650	Szopociová Elena, manž.Szopoci Ondrej, Fiľakovo č.179 manž.Szopoci Ondrej, Fiľakovo č.179		0	1271
+650	Šimková Irma, maloletá maloletá		0	1538
+650	ŠIMKOVÁ Juliana	r.Agócsová	1	940
+650	Šimonová Mária r. Tőreová		0	164
+650	Šoltésová Elena r. Svoradová, Holiša Pustatina Holiša Pustatina		0	1444
+650	ŠOÓŠ Anton		1	890,946,1244
+650	ŠOÓŠ Anton	maloletý	1	946
+650	Šoóš Anton, maloletý maloletý		0	1244
+650	ŠOÓŠ Ján		1	774
+650	Šoóš Jozef		0	1245,1301,1441
+650	ŠOÓŠ Jozef	mladší	1	478
+650	Šoóš Jozef, bálint bálint		0	1228,1229,1245,1683,1726
+650	Šoóš Jozef, mladší mladší		0	1447
+650	ŠOÓŠ Ladislav		1	890
+650	ŠOÓŠ Ľudovít		1	774,946,1228,1229,1791
+650	ŠOÓŠ Pavel	maloletý	1	946
+650	ŠOÓŠ Pavol		1	890,1228,1229,1317
+650	Šoóš Štefan, F.Kováče č.59 F.Kováče č.59		0	1428
+650	ŠOÓŠOVÁ Alžbeta	maloletá	1	721
+650	Šoóšová Alžbeta, maloletá maloletá		0	1228,1229,1617
+650	ŠOÓŠOVÁ Julianna		1	946,1228,1229,1245,1541
+650	ŠOÓŠOVÁ Magda	r.Molnárová	1	711
+650	Šoóšová Magda r. Molnárová		0	1228,1229,1237,1340
+650	ŠOÓŠOVÁ Magdaléna	r.Molnárová,manž.Šoóš Jozef	1	820
+650	Šoóšová Magdaléna r. Molnárová, manž.Šoóš Jozef manž.Šoóš Jozef		0	1667,1788
+650	ŠOÓŠOVÁ Margita		1	890,946,1228,1229,1791
+650	ŠOÓŠOVÁ Mária		1	477
+650	Števove Ilona, maloletá maloletá		0	1228,1229
+650	Šulek Michal, slobodný, Buzitka č.20 slobodný, Buzitka č.20		0	1645
+650	ŠULEK Rudolf	žena.Vilma r.Teleková	1	806,1161
+650	TAMÁŠ Anton	Fiľakovské Kováče č.221	1	943
+650	TAMÁŠ Dezider	Fiľakovské Kováče č.223	1	943
+650	TAMÁŠ František	Fiľakovské Kováče č.222	1	943
+650	TAMÁŠ Ľudovít	žena Magdaléna r.Lakoová	1	890
+650	TELEK Barnabáš		1	135,1228,1229,1561
+650	Telek Gejza		0	1527
+650	Telek Imrich		0	1316
+650	Telek Ján, Kováče č.27 Kováče č.27		0	1228,1229,1740
+650	Telek Ján, reczky reczky		0	1255
+650	Telek Ján, Rečki, Kováče č.65 Rečki, Kováče č.65		0	1296
+650	TELEK Jozef		1	135,961,1228,1229,1501
+650	Telek Jozef, žena Mária r.Csuszová žena Mária r.Csuszová		0	1728
+650	TELEK Ľudovít		1	498,761,1228,1229,1245,1378
+650	Telek Ľudovít, Andráš Andráš		0	1255
+650	Telek Ľudovít, reczki reczki		0	1255
+650	Telek Ľudovít, žena Gizela r.Šoóšová žena Gizela r.Šoóšová		0	1500
+650	Telek Peter		0	1377
+650	TELEKI Dezider		1	931,945,961,1228,1229,1628
+650	Teleki František		0	1696
+650	TELEKI Jozef		1	936,937,945,961,1228,1229,1491
+650	TELEKI Jozef	žena Margita r.Molnárová	1	937
+650	Teleki Jozef, žena Margita r.Molnárová žena Margita r.Molnárová		0	1242
+650	TELEKI Ľudovit		1	936,946,1228,1229,1357
+650	Teleki Ľudovít, bez rč. bez rč.		0	1246,1523
+650	Teleki Ľudovít, SR, Fiľakovské Kováče 9 Fiľakovské Kováče 9		0	1228,1229,1246
+650	Teleki Matej		0	1228,1229
+650	Teleki Mikuláš, Kováče č.14 Kováče č.14		0	1742
+650	Teleki Peter		0	1228,1229,1615
+650	Teleki Štefan		0	1228,1229
+650	Telekiová Irma		0	1228,1229
+650	TELEKIOVÁ Margita	r.Molnárová,manž.Teleki Jozef	1	936,937,945
+650	Telekiová Margita r. Molnárová, manž.Teleki Jozef manž.Teleki Jozef		0	1228,1229,1725
+650	Telekiová Mária		0	1228,1229,1776
+650	TELEKIOVÁ Mária	r.gálová	1	931
+650	TELEKIOVÁ Rozália	r.Telekiová	1	946
+650	Telekiová Rozália r. Telekiová		0	1228,1229,1791
+650	Teleková Júlia, Rečki ,manž.Telek Ján, Kováče č.65 Rečki ,manž.Telek Ján, Kováče č.65		0	1296
+650	TELEKOVÁ Magdaléna	maloletá	1	776
+650	Teleková Magdaléna, maloletá maloletá		0	1616
+650	TELEKOVÁ Margita	r.Molnárová	1	931,961
+650	Teleková Margita r. Molnárová		0	1242
+650	Teleky Jozef		0	1228,1229
+650	Terzna Alojz		0	1301
+650	TÖRE Ján	slobodný	1	556
+650	Tőre Ján		0	164
+650	Töroková Žofia r. Révayová		0	1738
+650	TÓTH Jozef	ž.Priska r.Bertová	1	70
+650	Tóth Peter, bóna, žena Barbora,Kováče č.92 bóna, žena Barbora,Kováče č.92		0	1281
+650	TÓTHOVÁ Alžbeta		1	491,1228,1229,1249
+650	TÓTHOVÁ Alžbeta	r.Agócsová,manž.Tóth július	1	491
+650	Tóthová Alžbeta r. Agócsová, manž.Tóth Július manž.Tóth Július		0	1228,1229,1707
+650	Tóthová Barbora, bóna, manž.Tóth Peter, Kováče č.92 bóna, manž.Tóth Peter, Kováče č.92		0	1281
+650	TÓTHOVÁ Etela	vdova,r.Teleková	1	135
+650	Tóthová Etela r. Teleková, vdova vdova		0	1228,1229
+650	Tóthová Imra r. Telekiová		0	1228,1229
+650	TÓTHOVÁ Julianna	r.Šoóšová	1	711,890,946
+650	Tóthová Julianna r. Šoóšová		0	1228,1229,1249
+650	TÓTHOVÁ Priska	r.Bertová m.Jozef	1	70
+650	TRIZNA Alojz	Kováče č.88	1	4,939
+650	TRIZNA Alojz	žena Margita r.Ferencová	1	178,229,857,1211
+650	Trizna Alojz, Kováče č.88 Kováče č.88		0	1406
+650	Trizna Alojz, žena Margita r.Ferencová žena Margita r.Ferencová		0	1228,1229,1302
+650	TRIZNA Anton		1	491,940,1299
+650	TRIZNA Florian		1	4,939
+650	TRIZNA Florián	žena Mariana r.Banbaríková	1	178,229,857,1211
+650	Trizna Florián, žena Mariana r.Banbaríková žena Mariana r.Banbaríková		0	1228,1229,1302
+650	TRIZNA František	Kováče č.88	1	4,939
+650	TRIZNA František	žena Ilona r.Gyurisková	1	178,229,857,1211
+650	Trizna František, Hviezdoslavova 8, Halič Hviezdoslavova 8, Halič		0	1670
+650	Trizna František, Kováče č.88 Kováče č.88		0	1425
+650	Trizna František, žena Ilona r.Gyurisková žena Ilona r.Gyurisková		0	1228,1229,1302
+650	TRIZNA Jozef		1	491,940,1299,1301
+650	TRIZNA Ľudovít	Kováče č.48	1	491,940
+650	Trizna Ľudovít, Kováče č.48 Kováče č.48		0	1299
+650	Trizna Ondrej, žena Mária r.Illešová žena Mária r.Illešová		0	1473
+650	TRIZNA Štefan		1	4,939
+650	Triznová Margita r. Ferencová, muž Alojz muž Alojz		0	1228,1229,1359,1779
+650	TRIZNOVÁ Mária	r.Illésová,vdova	1	890
+650	Urbanová Alžbeta r. Szabová, manž.Urban Jozef manž.Urban Jozef		0	1759
+650	VÁGÓ Jozef		1	985,1636
+650	Valentíny Pavel, manž.Mária r.Čavojová, Buzitka č.5 manž.Mária r.Čavojová, Buzitka č.5		0	1430
+650	Varga Antonín, F.Kováče č.69 F.Kováče č.69		0	1457
+650	Varga Jozef, Trieda SNP 74, 97401 Banská Bystrica Trieda SNP 74, 97401 Banská Bystrica		0	1633
+650	VARGOVÁ Mária	r.Húžová	1	700
+650	Vargová Mária r. Húžová		0	1774
+650	VAŠOVÁ Elena	r.Števove	1	135
+650	Vašová Elena r. Števove		0	1228,1229
+650	VÉG Ján	žena Mária r.Miklóšová	1	484,1179,1180,1193,1807
+650	Vég Ján, žena Mária r.Miklóšová žena Mária r.Miklóšová		0	1240
+650	VÉGOVÁ Mária	r.Miklóšová,manž.Vég Ján	1	484,1179,1180,1193,1807
+650	Végová Mária r. Miklóšová, manž.Vég Ján manž.Vég Ján		0	1240
+650	VETRÁKOVÁ Rozália	vdova	1	135
+650	Volná Mária, manž.Volný Ján, Fiľakovo č.331 manž.Volný Ján, Fiľakovo č.331		0	1274
+650	Volný Ján, žena Mária, Fiľakovo č.331 žena Mária, Fiľakovo č.331		0	1274
+650	ZAPLETALOVÁ Oľga	Husova č.603,Raihrad 664 61	1	477,478,774,1214
+650	Zapletalová Oľga, Husova č.603, Raihrad 664 61 Husova č.603, Raihrad 664 61		0	1228,1229,1503
+650	Zuborová Margita r. Šoóšová, vdova vdova		0	1228,1229,1577
+650	ZUBOVOVÁ Margita	r.Šoóšová	1	711
+651	Bobovská Katarína r. Kovačová		0	435
+651	Bobovská Katarína r. Ondrušková		0	423,435,526,888
+651	Bobovská Zuzana		0	423,500,526,536,888

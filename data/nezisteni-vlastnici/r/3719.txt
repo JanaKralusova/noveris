@@ -1,0 +1,256 @@
+2138	REICH Imrich		1	3098,3099,3151,3152
+2138	REICHOVÁ Kornélia	r. Franková	1	1354,3098,3099,3151,3152
+2138	REICHOVÁ Marta	mal	1	3098,3099,3151,3152
+2138	REIS Filip		1	2726
+2138	REIS František		1	2663
+2138	REIS Izák		1	2663
+2138	REISOVÁ Šarlota		1	2663
+2138	REISZ Karol		1	3752
+2138	REMÉNYI Štefan		1	3141
+2138	REMÉNYI Tibor		1	3141
+2138	RÉVAI Andrej		1	4145
+2138	RÉVAI Andrej	manž. Katarína r. Mádliová	1	4071
+2138	RÉVAI Koloman	manž. Katarína r. Tóthová	1	4601
+2138	RÉVAI Štefan	manž. Katarína r. Šrámeková	1	4679
+2138	RÉVAIOVÁ Alžbeta	mal	1	2352,3134,3135,5395,5398
+2138	RÉVAIOVÁ Helena		1	1833
+2138	RÉVAIOVÁ Helena	mal	1	3134,3135,5395,5398
+2138	RÉVAIOVÁ Katarína	r. Mádliová	1	4071
+2138	RÉVAIOVÁ Katarína	r. Šrámeková	1	4679
+2138	RÉVAIOVÁ Katarína	r. Tóthová	1	4601
+2138	RÉVAIOVÁ Margita	mal	1	2352,3134,3135,5395,5398
+2138	REZDOVIČ František		1	3714
+2138	REZDOVIČ František	manž. Helena r. Šlahorová	1	4722
+2138	Rezdovič František, SR		0	1849
+2138	REZDOVIČ Rudolf		1	3714
+2138	Rezdovič Rudolf, SR		0	1849
+2138	REZDOVIČ Štefan	mal	1	3714
+2138	Rezdovič Štefan, SR		0	1849
+2138	REZDOVIČOVÁ Agneša		1	3714
+2138	Rezdovičová Agneša, SR		0	1849
+2138	REZDOVIČOVÁ Helena	r. Šlahorová	1	4722
+2138	REZDOVIČOVÁ Mária		1	3714
+2138	Rezdovičová Mária, SR		0	1849
+2138	RUŽA Štefan	ml	1	4098
+2138	RUŽIČKA Adolf		1	2880
+2138	RUŽIČKA Ján		1	2880
+2138	RUŽIČKA Karol		1	2880
+2138	RUŽIČKOVÁ Rozália		1	2880
+2138	RYBÁR Imrich	mal	1	3134,3135,3623,5395,5398
+2138	RYBÁR Imrich	manž. Katarína r. Vaňáková	1	3983
+2138	RYBÁR Ján	manž. Anna r. Kucmerová	1	3886
+2138	RYBÁR Ján	manž. Zlatica r. Kalapová	1	3951
+2138	RYBÁR Jozef	manž. Hermína r. Mihóková	1	3868
+2138	RYBÁR Jozef	manž. Ružena r. Chovancová	1	4362
+2138	RYBÁR Jozef, č. d. 170, 941 11 Palárikovo, zom. 18.01.1991		1	3134,3135,5395,5398
+2138	RYBÁR Július		1	3134,3135,3623,5395,5398
+2138	RYBÁR Július	manž. Gizela r. Kucharová	1	4750
+2138	RYBÁROVÁ Albína	mal	1	3134,3135,3623,5395,5398
+2138	RYBÁROVÁ Anna	r. Kucmerová	1	2069,3886,4288
+2138	RYBÁROVÁ Gizela	r. Kucharová	1	4750
+2138	RYBÁROVÁ Hermína	r. Mihóková	1	3868
+2138	RYBÁROVÁ Katarína	r. Vaňáková	1	3983
+2138	RYBÁROVÁ Katarína, SR	D: r. Vaňáková |	1	3667
+2138	RYBÁROVÁ Mária	mal	1	3134,3135,3623,5395,5398
+2138	RYBÁROVÁ Ružena	r. Chovancová	1	4362
+2138	RYBÁROVÁ Valéria	r. Markuseková	1	4554
+2138	RYBÁROVÁ Zlatica	r. Kalapová	1	3951
+2138	SALAI Július	manž. Anna r. Babiaková	1	4315
+2138	SALAI Juraj	manž. Júlia r. Hložeková	1	4689
+2138	SALAI Karol	manž. Anna r. Jančárová	1	4744
+2138	SALAIOVÁ Anna	r. Babiaková	1	4315
+2138	SALAIOVÁ Anna	r. Jančárová	1	4744
+2138	SALAIOVÁ Júlia	r. Hložeková	1	1833,2154,3134,3135,3699,4689,5395,5398
+2138	SALLAI Karol, 941 11 Palárikovo, zom. 21.02.1982		1	3134,3135,5395,5398
+2138	SALOMEN Koloman	manž. Júlia	1	4156
+2138	SALOMENOVÁ Júlia	manž. Koloman	1	4156
+2138	SAMÁKOVÁ Agneša	r. Jančárová	1	2237,3578
+2138	SÁMENFELDOVÁ Mária	manž. Karol	1	3433
+2138	SAMUEL Gabriel		1	2610,2988
+2138	SAMUEL Jozef		1	2610,2988
+2138	SAMUEL Rudolf	manž. Magdaléna r. Kutrucová	1	4489
+2138	SAMUEL Štefan		1	1833
+2138	SAMUELOVÁ Magdaléna	r. Kutrucová	1	4489
+2138	SAMUELOVÁ Mária	manž. Imrich	1	2845
+2138	SAMUELOVÁ Mária	r. Záležáková	1	4488
+2138	SAPU Gejza		1	4239
+2138	SAPUOVÁ Anna	r. Bombicová	1	4170
+2138	SEDLÁKOVÁ Mária	r. Jančárová	1	2382
+2138	SEITLEROVÁ Ružena	vd., r. Tomšíková	1	2246
+2138	SEKAN Imrich		1	4102
+2138	SELI Karol	manž. Anna r. Dömötörová	1	3134,3135,5395,5398
+2138	SELIOVÁ Anna	r. Dömötörová	1	3134,3135,4069,5395,5398
+2138	SERSENOVÁ Barbora	r. Viteková	1	2413,3538
+2138	SESSLEROVÁ Oľga	r. Grünová	1	2200,2201,3445,3459
+2138	SCHOFFOVÁ Viktória	r. Ružičková	1	2880
+2138	SCHREIER Karol		1	4446
+2138	SCHWARC Štefan		1	3661
+2138	SCHWARC Štefan	manž. Helena r. Ježková	1	3661,4486
+2138	SCHWARCOVÁ Helena	r. Ježková	1	4486
+2138	SKOKAN Pavol	manž. Mária r. Ohradková	1	4657
+2138	SKOKANOVÁ Alžbeta	r. Rajčáková	1	3141
+2138	SKOKANOVÁ Mária	r. Ohradková	1	4657
+2138	SLÁDEK Emil	manž. Etela r. Dragúňová	1	4041
+2138	SLÁDEKOVÁ Etela	r. Dragúňová	1	4041
+2138	SLAMEN Jozef		1	1833,2154
+2138	SLAŽANSKÁ Alžbeta	r. Kováčiková	1	3930
+2138	SLAŽANSKÝ Michal	manž. Alžbeta r. Kováčiková	1	3930
+2138	SLIVOŇ Alexander	manž. Helena r. Mihóková	1	3209
+2138	Slivoň Alexander r. Slivoň		0	3210
+2138	SLIVOŇ Ján	manž. Mária r. Jarábeková	1	4608
+2138	SLIVOŇ Karol	manž. Vilma r. Klihová	1	3955
+2138	SLIVOŇ Štefan	manž. Terézia r. Štepníková	1	4184
+2138	Slivoňová Helena		0	3210
+2138	SLIVOŇOVÁ Helena	r. Mihóková	1	3209
+2138	SLIVOŇOVÁ Mária	r. Jarábeková	1	4608
+2138	SLIVOŇOVÁ Terézia	r. Štepníková	1	4184
+2138	SLIVOŇOVÁ Vilma	r. Klihová	1	3955
+2138	SLOVÁK Aladár	manž. Vilma r. Halásová	1	3862
+2138	SLOVÁK Alexander	manž. Katarína r. Cagáňová	1	1951,4082
+2138	SLOVÁK Fridrich		1	1951
+2138	SLOVÁK Imrich		1	3331
+2138	SLOVÁK Imrich	manž. Anna r. Kucharová	1	3887
+2138	SLOVÁK Imrich	manž. Mária r. Sabová	1	1951
+2138	SLOVÁK Karol	manž. Mária r. Šilhavíková	1	1951,4077
+2138	SLOVÁK Pavol		1	3378
+2138	SLOVÁK Pavol	manž. Anna r. Šafáriková	1	3378,3745
+2138	SLOVÁK Štefan	manž. Mária r. Provodovská	1	1951
+2138	SLOVÁK Viliam	manž. Barbora	1	1975
+2138	SLOVÁK Viliam	vzdialený, manž. Barbora r. Šrámeková	1	2165,3483,3791
+2138	SLOVÁKOVÁ Anna	r. Kucharová	1	3441,3619,3887
+2138	SLOVÁKOVÁ Anna	r. Šafáriková	1	3262,3378,3745,4852
+2138	SLOVÁKOVÁ Barbora	r. Šrámeková	1	3791,4158
+2138	SLOVÁKOVÁ Katarína	r. Cagáňová	1	4082
+2138	SLOVÁKOVÁ Mária	r. Provodovská	1	2006,2787,3274,3557,3584
+2138	SLOVÁKOVÁ Mária	r. Šilhavíková	1	4077
+2138	SLOVÁKOVÁ Vilma	r. Halásová	1	3862
+2138	SMOLÁRIKOVÁ Helena	r. Juríková	1	1539,3134,3135,5395,5398
+2138	SOBOSLAIOVÁ Anna	r. Burandiková	1	3571
+2138	STAHO Ján		1	1833,2154
+2138	Stacho Alexander		0	9
+2138	STACHO Ambróz	manž. Alžbeta r. Járeková	1	3798
+2138	STACHO Dionýz	mal	1	2069,2394,4295
+2138	STACHO Imrich	manž. Júlia r. Piklerová	1	4008
+2138	STACHO Ján		1	3698
+2138	STACHO Ján	manž. Katarína r. Jančárová	1	3299
+2138	STACHO Štefan		0	3357,5471
+2138	STACHOVÁ Alžbeta	r. Járeková	1	3798
+2138	STACHOVÁ Júlia	r. Piklerová	1	4008
+2138	STACHOVÁ Katarína	r. Jančárová	1	3299
+2138	STANGO František		1	4672
+2138	STRÁŽOVSKÁ Anna	r. Hrubá	1	2452
+2138	SUCHÁŇ Alexander, Štefánikova 48, 941 11 Palárikovo, zom. 18.02.1998		1	3354
+2138	SUCHÁŇ Imrich	manž. Anna	1	2069,2394
+2138	SUCHÁŇ Imrich	manž. Anna r. Garayová	1	3941
+2138	SUCHÁŇ Štefan, zom. 09.01.1992		1	1975,2863,3354,5589
+2138	SUCHÁŇ Vojtech	manž. Mária r. Provodovská	1	3366
+2138	SUCHÁŇOVÁ Anna	manž. Imrich	1	2069,2394
+2138	SUCHÁŇOVÁ Anna	r. Garayová	1	3941
+2138	SUCHÁŇOVÁ Mária	r. Provodovská	1	3366
+2138	SUCHÁŇOVÁ Mária	r. Vaňáková	1	3318
+2138	SULANOVÁ Alžbeta	r. Čerešňová	1	2663
+2138	SUROVKA Štefan	manž. Margita r. Hatinová	1	4068
+2138	SUROVKOVÁ Margita	r. Hatinová	1	4068
+2138	SÝKORA Vojtech	manž. Júlia r. Juríková	1	4387
+2138	SÝKOROVÁ Júlia	r. Juríková	1	4387
+2138	Szabo Ladislav a Eva Szabová r. Moravčíková		0	692
+2138	SZABÓ Vincent		1	4128
+2138	SZABOVÁ Anna	r. Duchoňová	1	3537
+2138	SZALAI Július	manž. Katarína r. Učenová	1	3134,3135,5395,5398
+2138	SZIPINA Vojtech		1	4428
+2138	SZÖKE František	manž. Helena r. Vargová	1	4121
+2138	SZÖKE Izidor		1	4164
+2138	SZÖKE Ladislav		1	4225
+2138	SZÖKEOVÁ Helena	r. Vargová	1	4121
+2138	SZÖLÖSI Jozef		1	3613
+2138	SZÖLÖSI Jozef	manž. Estera r. Depešová	1	3613
+2138	SZÖLÖSI Koloman	mal	1	3613
+2138	SZÖLÖSIOVÁ Etela	mal	1	3613
+2138	SZÖLÖSIOVÁ Klára	mal	1	3613
+2138	ŠAFÁRIK Alexander		1	3134,3135,5395,5398
+2138	ŠAFÁRIK Alexander	manž. Rozália r. Knošková	1	3134,3135,5395,5398
+2138	ŠAFÁRIK Amrbóz	manž. Klára r. Ulická	1	3134,3135,3905,5395,5398
+2138	ŠAFÁRIK Imrich		1	3426
+2138	ŠAFÁRIK Imrich	manž. Mária r. Machová	1	3087
+2138	ŠAFÁRIK Imrich	manž. Mária r. Učeňová	1	3796
+2138	ŠAFÁRIK Ján	mal	1	3134,3135,5395,5398
+2138	ŠAFÁRIK Jozef		1	2200,3134,3135,5395,5398
+2138	ŠAFÁRIK Jozef	manž. Mária r. Jančárová	1	4571
+2138	ŠAFÁRIK Jozef	manž. Rozália	1	1975,2069,2394,4296
+2138	ŠAFÁRIK Jozef	manž. Rozália r. Kürtiová	1	2200,2201,3544
+2138	ŠAFÁRIK Pavel	manž. Barbora r. Tisucká	1	3914
+2138	ŠAFÁRIKOVÁ Barbora	r. Tisucká	1	3914
+2138	ŠAFÁRIKOVÁ Irena	r. Puškášová	1	2084
+2138	ŠAFÁRIKOVÁ Klára	r. Ulická	1	1830,1832,3134,3135,3519,3905,5395,5398,5559
+2138	ŠAFÁRIKOVÁ Mária	r. Čviriková	1	3225,3226,3469
+2138	ŠAFÁRIKOVÁ Mária	r. Jančárová	1	4571
+2138	ŠAFÁRIKOVÁ Mária	r. Učenová	1	3134,3135,3796,5395,5398
+2138	ŠAFÁRIKOVÁ Mária	r. Valášeková	1	1975,2094,3087
+2138	ŠAFÁRIKOVÁ Rozália	manž. Jozef	1	1975,2069,2394,4296
+2138	ŠAFÁRIKOVÁ Rozália	r. Knošková	1	2479,2663,3134,3135,5395,5398,5543
+2138	ŠAFÁRIKOVÁ Rozália	r. Kürtiová	1	2200,2201,3544
+2138	ŠALLAY Július	manž. Katarína	1	4639
+2138	ŠALLAYOVÁ Katarína	manž. Július	1	4639
+2138	ŠÁTEK Emil	manž. Margita r. Kalincová	1	3134,3135,4658,5395,5398
+2138	ŠÁTEK Jozef		1	4147
+2138	ŠÁTEK Karol		1	3412
+2138	ŠÁTEK Karol	manž. Cecília	1	4148
+2138	ŠÁTEK Karol	manž. Cecília r. Jančárová	1	4475
+2138	ŠÁTEK Koloman	manž. Júlia r. Bartišeková	1	3898
+2138	ŠÁTEK Ľudevít		1	3412
+2138	ŠÁTEK Štefan		1	3412
+2138	ŠÁTEKOVÁ Cecília	manž. Karol	1	4148
+2138	ŠÁTEKOVÁ Cecília	r. Jančárová	1	3412,4475
+2138	ŠÁTEKOVÁ Júlia	r. Bartišeková	1	3898
+2138	ŠÁTEKOVÁ Margita	r. Kalincová	1	3134,3135,3254,3398,4658,5221,5395,5398,5571
+2138	ŠÁTEKOVÁ Terézia	r. Vaňáková	1	1975,3912
+2138	Ščibrániová Mária		0	1237
+2138	ŠIDULJÁK Adam		1	2828
+2138	ŠIDULJÁK Pavol		1	2828
+2138	ŠILHAVÍK Alexander	manž. Anna r. Klučková	1	4381
+2138	ŠILHAVÍK Alexander	manž. Paulína r. Haulíková	1	2084
+2138	ŠILHAVIK Gabriel	manž. Veronika r. Hrubá	1	3134,3135,5395,5398
+2138	ŠILHAVÍK Jozef	manž. Ema r. Ölvecká	1	4541
+2138	ŠILHAVÍK Jozef	ml	1	2544,3423
+2138	ŠILHAVÍK Jozef	nezvestný	1	2209,3139,5102
+2138	Šilhavík Jozef, SR		0	4967
+2138	ŠILHAVÍK Karol	mal	1	4653
+2138	ŠILHAVÍK Karol	manž. Mária r. Tomšíková	1	4594
+2138	ŠILHAVÍK Ľudovít, Štefánikova 182, 941 11 Palárikovo, zom. 17.08.1992		1	95
+2138	ŠILHAVÍK Martin		1	2161,2786,3047,3585
+2138	ŠILHAVÍK Martin	manž. Veronika r. Juríková	1	3671
+2138	ŠILHAVÍK Peter	manž. Margita r. Bartišeková	1	4600
+2138	ŠILHAVÍK Rudolf	hluchonemý	1	4581
+2138	ŠILHAVÍK Rudolf	manž. Anna r. Kollárová	1	2545
+2138	ŠILHAVÍK Štefan		1	2205,2209,3139,3423,5102
+2138	ŠILHAVÍK Štefan	1	1	4885,4888,4939,5492
+2138	ŠILHAVÍK Štefan	zom.27.09.2000, zom.27.09.2000	1	3241
+2138	Šilhavík Štefan a Anna Šilhavíková r. Babinova		0	1152
+2138	Šilhavík Štefan, SR		0	4967
+2138	ŠILHAVÍK Vojtech	manž. Alžbeta r. Šlahorová	1	4343
+2138	ŠILHAVÍKOVÁ Albína	mal	1	3231,3232
+2138	ŠILHAVÍKOVÁ Alžbeta	r. Šlahorová	1	2170,3141,4343
+2138	ŠILHAVÍKOVÁ Anna		1	1862,3231,3232
+2138	ŠILHAVÍKOVÁ Anna	r. Klučková	1	4381
+2138	ŠILHAVÍKOVÁ Anna	r. Kollárová	1	2911,2912
+2138	ŠILHAVÍKOVÁ Barbora	r. Záležáková	1	3463
+2138	ŠILHAVÍKOVÁ Ema	r. Ölvecká	1	4541
+2138	ŠILHAVÍKOVÁ Karolína	r. Šilhavíková	1	1894
+2138	ŠILHAVÍKOVÁ Katarína	r. Bartišeková	1	3458
+2138	ŠILHAVÍKOVÁ Katarína	r. Čviriková	1	3539
+2138	ŠILHAVÍKOVÁ Magdaléna	r. Ulická	1	3134,3135,4648,4653,5395,5398
+2138	ŠILHAVÍKOVÁ Margita	r. Bartišeková	1	2651,3570,3674,4600
+2138	ŠILHAVÍKOVÁ Mária		1	2199,2200,2201,2202,2203,2204,2205,2206,2207,2208,5207,5208,5209,5565,5566
+2138	ŠILHAVÍKOVÁ Mária	mal	1	1862,1897,2544,3423
+2138	ŠILHAVÍKOVÁ Mária	r. Šáteková	1	3819
+2138	ŠILHAVÍKOVÁ Mária	r. Tomšíková	1	2246,4594
+2138	Šilhavíková Mária, SR		0	4967
+2138	ŠILHAVÍKOVÁ Paulína	r. Haulíková	1	2084
+2138	ŠILHAVÍKOVÁ Rozália	mal	1	2205
+2138	ŠILHAVÍKOVÁ Veronika	r. Juríková	1	3671
+2138	ŠIMEKOVÁ Antónia	r. Hlozáková	1	4483
+2138	ŠIMKO Ján	manž. Mária r. Bilicová	1	4597
+2138	ŠIMKOVÁ Mária	r. Bilicová	1	4597
+2138	ŠIMKOVÁ Matilda	r. Janegová	1	3134,3135,5395,5398
+2138	ŠIMŠÍK Jozef		1	1975,3087,3831
+2138	ŠINDELEŠ Pavol		1	1975,3734

@@ -1,0 +1,256 @@
+693	ŠTEVKO Jozef		0	223,224,225,296,353,396,398,399,401,402,405,406,408,409,472,500,507,542,557,608,609,610,645,684,784,797,957
+693	ŠTEVKO Július		0	500,507
+693	ŠTEVKO Kamil		0	500
+693	ŠTEVKO Karol	II	1	835
+693	ŠTEVKO Lukáč		1	834
+693	ŠTEVKO Lukáč	II	1	889
+693	ŠTEVKO Lukáš		0	264,325,363,500,507,700
+693	Števko Michal		1	353,396,398,399,401,402,405,406,408,409,784,789,797,835,866,973
+693	ŠTEVKO Pavol		0	363,472,700
+693	ŠTEVKO Pius		1	265,277,353,396,398,399,401,402,405,406,408,409,468,608,609,620,621,751,752,753,761,772,784,797,836,857,884,917
+693	Števko Rudolf		1	265,277,353,396,398,399,401,402,405,406,408,409,468,608,609,620,621,751,752,753,761,772,784,797,836,857,884,917
+693	Števko Vincenc		0	353,396,398,399,401,402,405,406,408,409,784,797
+693	Števko Vojtech		0	353,396,398,399,401,402,405,406,408,409,784,797
+693	ŠTEVKOVÁ Anna		1	265,277,468,608,609,620,621,751,752,753,761,772,797,836,857,884,917
+693	ŠTEVKOVÁ Anna	rod.Nováková	1	834,867
+693	ŠTEVKOVÁ Anna	rod.Nováková st	0	223,224,225
+693	Števková Anna r. Sulačeková		0	431
+693	ŠTEVKOVÁ Antonia	rod.Pavlová	0	582,590
+693	ŠTEVKOVÁ Helena	rod.Drapková	1	836,884
+693	ŠTEVKOVÁ Helena	rod.Valentíková	1	693,861
+693	ŠTEVKOVÁ Karolína		0	500
+693	Števková Katarína		0	353,399,409,532
+693	ŠTEVKOVÁ Mária	rod.Hansková	1	227,230,469,500,609,654,681,686,687,752,753,835
+693	Števková Mária r. Hansková		0	353,396,398,399,401,402,405,406,408,409,784,797
+693	ŠTEVKOVÁ Rozália		0	684
+693	Števková Rozália r. Bédiová		0	353,396,398,399,401,402,405,406,408,409,784,797
+693	ŠTEVKOVÁ Viktoria		0	542
+693	Šulaček Jozef		0	353,396,398,399,401,402,405,406,408,409,417,594,784,797
+693	ŠVARAL Lukáš		0	764,765,766,767,769,771
+693	ŠVARAL Pavol		0	765,771
+693	ŠVARALOVÁ Rozália	rod.Jesenská	0	769
+693	TARISKOVA JULIA R.MALOVA		0	772,917
+693	TARIŠKA Ján		0	574,772,917
+693	TARIŠKOVÁ Alžbeta		0	574,772,917
+693	TITURUSOVÁ Alžbeta		0	541
+693	TITURUSOVÁ Anna	rod.Nováková	1	254,623,639,691,859
+693	Titurusová Anna r. Nováková		0	353,396,398,399,401,402,405,406,408,409,784,797
+693	Trhanová Anna r. Svetlanská		0	353,396,398,399,401,402,405,406,408,409,784,797
+693	TRŇANOVÁ Anna	rod.Svetlanská	0	220,238,336,388,483,549,552,553,554,555,556,674
+693	UDVARDYOVA DANA R.SVETIKOVA SC.25		0	772,917
+693	UHNÁK Anton		0	317
+693	UHNÁK Florián		0	746
+693	Uhnák Ján	m.Anna Pániková	0	353,396,398,399,401,402,405,406,408,409,784,797
+693	UHNÁK Ján		0	756,772,917
+693	UHNÁK Ján	I	1	830,831,832,833
+693	Uhnák Pavel		0	353,396,398,399,401,402,405,406,408,409,784,797
+693	UHNÁKOVÁ Anna	rod.Bôbová	0	434
+693	UHNÁKOVÁ Anna	rod.Šebová	0	755
+693	UHNÁKOVÁ Katarína	rod.Harmadyová	0	744
+693	Uhnáková Katarína r. Harmady		0	353,396,398,399,401,402,405,406,408,409,784,797
+693	Uhnáková Katarína r. Harmadyová		0	353,396,398,399,401,402,405,406,408,409,784,797
+693	UHNÁKOVÁ Mária		1	626,855
+693	UHNÁKOVÁ Mária	rod.Harmadyová	0	487,488
+693	UHNÁKOVÁ Mária	rod.Nováková	0	400,401
+693	Uhnáková Mária r. Harmadyová		0	431,953
+693	Uhnáková Mária r. Nováková, SR		0	402,403
+693	UHNAKOVA MARIA R.HARMADIOVA		0	784,797
+693	Uhnáková Monika r. Hrašková		0	353,396,398,399,401,402,405,406,408,409,784,797
+693	Vakentíková Terézia		0	647
+693	Valentík Florián		0	353,396,398,399,401,402,405,406,408,409,784,797
+693	Valentík Flóriš		0	353,396,398,399,401,402,405,406,408,409,784,797
+693	Valentík Ján		0	236,290,353,391,396,398,399,401,402,405,406,408,409,479,545,603,742,784,797
+693	VALENTIK JOZEF		0	772,917
+693	Valentík Laurinc		0	353,396,398,399,401,402,405,406,408,409,784,797
+693	Valentík Lukáč		0	353,396,398,399,401,402,405,406,408,409,784,797
+693	Valentík Markus		0	353,396,398,399,401,402,405,406,408,409,784,797
+693	Valentík Michal		0	353,396,398,399,401,402,405,406,408,409,784,797
+693	Valentík Pavol		0	353,396,398,399,401,402,405,406,408,409,437,784,797
+693	VALENTIKOVA ANNA		1	772,861,917
+693	Valentíková Anna	I	0	647,693
+693	Valentíková Anna r. Nováková		0	353,396,398,399,401,402,405,406,408,409,784,797
+693	Valentíková Helena		1	647,693,772,861,917
+693	Valentíková Katarína		0	353,396,398,399,401,402,405,406,408,409,784,797
+693	VALENTÍKOVÁ Katarína	rod.Brezinová	0	370,371
+693	Valentíková Mária		0	223,224,225,548,566
+693	VALENTÍKOVÁ Mária	rod.Mäsiarová	0	660
+693	VALENTÍKOVÁ Mária	rod.Slušná	0	370,371,372
+693	VALENTÍKOVÁ Terézia		1	693,772,861,917
+693	VARGA Gašpar		0	331
+693	VARGA Ján		0	331
+693	VARGA Michal		0	331
+693	VARGA PAVEL		0	772,917
+693	Varga Pavol		0	331,353,396,398,399,401,402,405,406,408,409,764,765,766,769,771,784,797
+693	VARGA Pavol	ž.Mária rod.Trňanová	1	844
+693	VARGA Štefan		0	331
+693	VARGOVÁ Anna	rod.Tarišková	0	574
+693	VARGOVA ANNA R.TARISKOVA		0	772,917
+693	VARGOVÁ Helena		0	331
+693	VARGOVÁ Karolína	rod.Valentíková	0	236,290
+693	Vargová Karolína r. Valentíková	m.Michal	0	353,396,398,399,401,402,405,406,408,409,784,797
+693	VARGOVÁ Mária		0	331
+693	VARGOVÁ Mária	rod.Vargová	0	318
+694	....		0	376
+694	Adamová Rozália r. Gubalová	zomr., čs.392, Jesenské	0	107,108,337,345
+694	Babík Barnabáš	manž. Mária r.Szabová	0	92,381
+694	Babík Dezider	mal. syn Imricha	0	92,381
+694	Babík Imrich	syn Imricha	0	92,381
+694	Babík Jozef	mal. syn Imricha	0	92,381
+694	Babíková Alžbeta	mal. dcéra Imricha	0	92,381
+694	Babíková Júlia r. Mácsová	vd. manž. Imrich	0	92,381
+694	Balog Július	manž. Elena Rácová	0	434
+694	Baloghová Zuzana r. Danyiová	manž. Ján	0	101,116
+694	Balogová Anna r. Danyiová		0	123,411,414
+694	Balogová Elena r. Rácová	manž. Július	0	434
+694	Barcziová Alžbeta r. Szabóová	Munich Ferencz 8/2/I-4, Ózd, MR	0	480
+694	Bárdošová Irena r. Bartová	vd. Gerényes, MR	0	391
+694	Barta Pavel	čs.59, Gortva	0	391
+694	Barta Pavol	ml. manž. Júlia Horváthová	0	389
+694	Bartko Jozef	manž. Magdaléna Kminiaková	0	447
+694	Bartková Magdaléna r. Kminiaková		0	448
+694	Bartková Magdaléna r. Kminiaková	manž. Jozef	0	447
+694	Bartová Júlia r. Horváthová	manž. Pavol	0	389
+694	Bartová Júlia r. Vinczeová	čs.19, Gortva 980 02	0	391
+694	Berkyová Hermína r. Danyiová	manž. Ondrej	0	101,116
+694	Bettes Ján	mal. syn Antona	0	165,170
+694	Bettes Ján	zomr., čs.159	0	165,166,170
+694	Bettes Július		0	59
+694	Bettes Július	mal. syn Júliusa	0	165,170
+694	Betteš Ján	zomr., manž. Edita Földiová	0	463
+694	Bettešová Edita r. Földiová	manž. Ján	0	463
+694	Bial Štefan		0	443
+694	Bónišová Júlia r. Kuszaová		0	375
+694	Borbášová Alžbeta r. Kováčová	manž. Alexander	0	415
+694	Boršošová Eva	zomr., čs.36	0	257,393
+694	Botoš František	ž. Aranka r.Genya	0	409
+694	Botoš Ján	mal. syn Štefana	0	101,387
+694	Botoš Jozef	mal./syn Štefana/	0	101,387
+694	Botoš Jozef	manž. Rozália Csonková	0	401
+694	Botoš Július	mal. syn Štefana	0	101,387
+694	Botoš Ondrej	manž. Rozália Portelekyová	0	101,290,386
+694	Botoš Peter		0	98,101
+694	Botoš Rudolf	mal. syn Štefana	0	101,387
+694	Botoš Štefan	manž. Oľga Dányiová	0	101,387
+694	Botošová Alžbeta	mal. dcéra Štefana	0	101,387
+694	Botošová Aranka r. Genya	manž. František	0	409
+694	Cetner Ondrej	manž. Mária Adlerová	0	433
+694	Cetnerová Mária r. Adlerová	manž. Ondrej	0	433
+694	Czene Ján	manž. Barbora Czeneová	0	374,375
+694	Czene Jozef	manž. Júlia Balážová	0	92,374,375,379
+694	Czene Štefan	manž. Júlia Lazarová	0	374,375
+694	Czeneová Júlia	dcéra Jána	0	374,375
+694	Czeneová Júlia r. Nagyová	vd. manž. Ján	0	374,375
+694	Dani Dezider	mal. syn Jána	0	411,414
+694	Dani Ján	syn Jána	0	411,414
+694	Dani Teodor	mal. syn Jána	0	123,411,414
+694	Dani Vojtech	syn Jána	0	123,411,414
+694	Daniová Eva	mal. dcéra Jána	0	123,411,414
+694	Daniová Jolana	mal. dcéra Jána	0	123,411,414
+694	Daniová Mária	mal. dcéra Jána	0	123,411,414
+694	Danyi Anton	manž. Mária Farkašová	0	43,412
+694	Danyi Arpád		0	413
+694	Danyi Arpád	syn Bernáta	0	101,116
+694	Danyi Ignác	manž. Gizela Farkašová	0	43
+694	Danyi Július	manž. Iboľa Mihályová	0	101,116
+694	Danyi Karol		0	83
+694	Danyi Koloman	manž. Rozália Danyiová	0	101,116
+694	Danyi Štefan	syn Gejzu	0	43
+694	Danyi Teodor	zomr., čs.101	0	123
+694	Danyi Vojtech	U vážné studny 8, Boskovice	0	123
+694	Dessewffy Jolana r. Gálocsiová Kubínyiová	manž. Arpád Dr	0	442
+694	Dósa Pavel	manž. Mária Šoltésová	0	476
+694	Dósová Mária r. Šoltésová	manž. Pavel	0	476
+694	Erdodyová Margita r. Vinczeová	manž. Elemér	0	441
+694	Farkašová Zlatica r. Vinczeová	manž. Arpád	0	177
+694	Fedičová Anna r. Luptáková		0	435
+694	Fekete Štefan	manž. Margita Endrödi	0	478
+694	Gencsiová Zelma r. Vinczeová	manž. Arnold	0	177
+694	Gorász Pavol	mal. syn Pavla	0	254,377
+694	Gorászová Gizela r. Kovácsová	manž. Ladislav	0	92,382
+694	Gorászová Lýdia r. Vinczeová	manž. Štefan	0	482
+694	Gregušová Estera r. Kovácsová	manž. Gustáv	0	92
+694	Gubala František	zomr., čs.14	0	107,108,337,345
+694	Gubala Jozef	ml	0	107,108,337,345
+694	Gubala Jozef	st	0	254,377
+694	Gubala Ladislav	zomr., čs.71, Pavlovce	0	176,497
+694	Gubalová Terézia		0	254,377
+694	Gyurcsík Gabriel	manž. Mária Kovácsová	0	467
+694	Gyurcsíková Mária r. Kovácsová	manž. Gabriel	0	467
+694	Hanva Kasza Alžbeta r. Vinczeová	manž. Ľudovít	0	371
+694	Haris Jozef		0	450
+694	Hariš Jozef	manž. Alžbeta Molnárová	0	466
+694	Horváth Aladár	manž. Irma Szitaiová	0	385
+694	Horváth Rudolf	manž. Mária Botošová	0	385
+694	Horváthová Irma r. Szitaiová	manž. Aladár	0	385,414
+694	Horváthová Júlia		0	83
+694	Horváthová Mária r. Danyiová	manž. Ambróz	0	101,116
+694	Igaz Štefan		0	375
+694	Igazová Mária r. Bödová		0	375
+694	Jakabová Margita	dcéra Alexandra	0	375
+694	Jakabšicová Zlatica		0	112,402
+694	Jánosi Hajnalka r. Somogyiová	/m.Mikuláš/ Pécsköi út., blok 9, Salgótarján, MR	0	300
+694	Jánošík Ján	Bottová 3, Fiľakovo	0	452
+694	Jánošík Ondrej	manž. Zuzana Maruškinová	0	125,452
+694	Karczag František	mal	0	167
+694	Karczag Jozef	mal	0	167
+694	Karczag Štefan	manž. Irena Bonómiová	0	465
+694	Karczagová Irena r. Bonómiová	manž. Štefan	0	465
+694	Karczagová Irena r. Lengyelová	vd., zomr., čs.41	0	167
+694	Karczagová Júlia		0	167,374,375
+694	Karkusz Štefan		0	394
+694	Karkuszová Mária r. Danyiová	manž. Jozef	0	101,116
+694	Kelemenová Mária r. Bettesová		0	59
+694	Kelemenová Mária r. Bettesová	manž. Ľudovít	0	165,170
+694	Kleinová Margita r. Kleinová	manž. Jozef	0	392
+694	Klemens Herman		0	392
+694	Kminiak Juraj	manž. Katarína Sujová	0	41
+694	Kminiak Martin	manž. Magdaléna Stehlíková	0	448
+694	Koós Jozef	mal. syn Jozefa	0	451
+694	Koós Ondrej	Amerika	0	431
+694	Koós Štefan	syn Jozefa	0	451
+694	Kotáková Júlia r. Bettesová	manž. Július	0	165,170
+694	Kotó Ján	mal. syn Jána	0	374,375
+694	Kotó Jozef	mal. syn Jána	0	374,375
+694	Kotó Štefan	mal. syn Jána	0	374,375
+694	Kovács Andrej	kiškováč, manž. Mária Nyitraiová	0	416
+694	Kovács Barnabáš	morvai, manž. Piroška Oroszová	0	487
+694	Kovács Jozef	manž. Barbora Helembaiová	0	92
+694	Kovács Štefan	manž. Alžbeta Hegedűšová	0	92
+694	Kovácsová Alžbeta r. Galová	manž. Ladislav	0	418
+694	Kovácsová Amália r. Bettesová		0	59
+694	Kovácsová Amália r. Bettesová	manž. Ľudovít	0	165,170
+694	Kovácsová Mária r. Bacskayová		0	112,402
+694	Kovácsová Mária r. Nyitraiová	manž. Andrej	0	416
+694	Kozma Armin	manž. Klára Ádamová	0	392
+694	Kulich Jozef	mal	0	164,514
+694	Kulichová Ilona	mal	0	164,514
+694	Kusza Benedik	manž. Klementína Kissová	0	375
+694	Kuszaová Anna		0	408
+694	Lörinczová Anna r. Koósová		0	431
+694	Lupták Jozef		0	435
+694	Ľupták Juraj		0	428
+694	Ľupták Juraj	manž. Anna Albertová	0	427
+694	Ľuptáková Anna r. Albertová		0	429
+694	Ľuptáková Anna r. Albertová	manž. Juraj	0	427
+694	Ľuptáková Dorota r. Kamenská	zomr., manž. Štefan	0	71
+694	Maďarová Ilona r. Pačmárová	manž. Barnabáš	0	445
+694	Magyarszaiová Etela r. Vinczeová		0	371,399
+694	Macholdová Margita r. Bialová		0	443
+694	Makši Július	syn Jána	0	325,326,334,458,460
+694	Mihál Július	manž. Apolónia Danyiová	0	98,99,101
+694	Mihályi Július	manž. Františka Horváthová	0	405
+694	Mihályiová Františka r. Horváthová	manž. Július	0	405
+694	Miklóšová Terézia r. Molnárová		0	432
+694	Miliánová Júlia r. Vinczeová	manž. Pavol	0	475
+694	Miliánová Mária	dcéra Pavla	0	158
+694	Miliánová Terézia r. Urbánová	manž. Štefan	0	375
+694	Mitter Štefan	krkoška, syn Pavla	0	362
+694	Mitterová Margita	krkoška, dcéra Pavla	0	362
+694	Molnár Barnabáš r. Molnár	zomr. dňa 27.4.1991	0	450
+694	Molnár Gustáv		0	432
+694	Molnárová Alžbeta r. Molnárová		0	432
+694	Molnárová Júlia r. Kovácsová	manž. Ján	0	92
+694	Molnárová Mária		0	432
+694	Nagyvárady František		0	71
+694	Nagyvárady Ladislav		0	71
+694	Nagyvárady Ondrej		0	71

@@ -1,0 +1,256 @@
+2122	Petrulák Andrej, SR		0	1564,1565,1566,1567,1905
+2122	Petrulák Jozef, SR	zomrel 10.8.1991	0	1144
+2122	Petrulák Mikuláš, SR		0	1566
+2122	Petrulák Mikuláš, SR	zomrel	0	1564,1565,1567,1905
+2122	Petruláková Anna r. Kroláková, SR	zomrela	0	1394,1913
+2122	Petruláková Mária, SR		0	1566
+2122	Petruláková Žofia, SR	maloletá,zomrela	0	1566,1567
+2122	Petruželová Margita, SR	zomrela 11.9.1991	0	1626
+2122	Pitoňáková Mária r. Barčáková, SR		0	1626
+2122	Pospíšilová Anna r. Závacká, SR		0	1514
+2122	Pospíšilová Anna, SR		0	201
+2122	Potok Jozef, SR		0	1155
+2122	Potoková Mária, SR		0	1413
+2122	Remiaš Jozef, SR	zomrel	0	1155,1538
+2122	Repčák Jakub, SR	maloletý	0	1394,1913
+2122	Repčák Juraj, SR		0	1618
+2122	Repčák Michal, SR		0	640
+2122	Repčák Šimon, SR	maloletý	0	1394,1913
+2122	Repčáková Anna r. Kroláková, SR		0	1394,1913
+2122	Romaňák Ján, SR		0	1155
+2122	Romaňák Jozef, SR	zomrel	0	1542,1632
+2122	Romaňáková Anna r. Repčáková, SR	zomrela	0	1617
+2122	Romaňáková Eva, SR	zomrela	0	1543,1603,1925
+2122	Romaňáková Mária r. Rusnáková, SR	zomrela	0	1598
+2122	Romaňáková Mária, SR		0	1155
+2122	Rusnák Jozef, SR		0	1551
+2122	Rusnák Jozef, SR	m.Anna r.Lazaráková	0	1155
+2122	Rusnák Michal		0	1144
+2122	Rusnák Michal, SR	zomrel	0	1155
+2122	Rusnák Peter, SR	m.Marta r.Fečundová,zomrel	0	1522
+2122	Rusnáková Agnesa r. Závacká, SR		0	1155
+2122	Rusnáková Anna r. Repčáková, SR	zomrela	0	1144,1617
+2122	Rusnáková Katarína r. Fečundová, SR		0	1566
+2122	Rusnáková Katarína r. Fečundová, SR	zomrela	0	1155,1567
+2122	Rusnáková Mária r. Ihnačáková, SR		0	335
+2122	Rusnáková Mária r. Rusnáková, SR	zomrela	0	1144
+2122	Rusnáková Mária r. Vaščurová, SR		0	1155
+2122	Rusnáková Marta r. Fečundová, SR	m.Peter	0	1522
+2122	Rusnáková Marta, SR		0	445,832
+2122	Rusnáková Marta, SR	zomrela	0	1144,1155
+2122	Rusnáková Zuzana r. Vaščurová, SR		0	1155
+2122	Ružičková Katarína r. Mudráková, SR		0	1144,1372
+2122	Ružičková Katarína r. Mudráková, SR	zomrela	0	1091
+2122	Smoleňák Andrej, SR		0	298,314
+2122	Smoleňák Andrej, SR	m.Katarína r.Penxová	0	1492
+2122	Smoleňák Andrej, SR	maloletý	0	1423
+2122	Smoleňák Andrej, SR	zomrel	0	1458
+2122	Smoleňáková Katarína r. Penxová, SR	m.Andrej	0	1492
+2122	Smoleňáková Mária r. Kušniráková, SR	m.Andrej	0	1364
+2122	Šimšajová Katarína r. Bednárová		0	261
+2122	Šuteková Anna r. Závacká, SR	zomrela	0	1313,1314
+2122	Tužák Ján, SR	zomrel	0	1155
+2122	Tužáková Katarína, SR	zomrela	0	1155
+2122	Vach Andrej, SR		0	381
+2122	Vach Filip, SR	zomrel	0	1155
+2122	Vach Jozef, SR	zomrel	0	1155
+2122	Vach Ondrej, SR	zomrel	0	1469
+2122	Vach Štefan, SR		0	381
+2122	Vachová Anna, SR		0	388
+2122	Vachová Marta, SR	zomrela	0	1375,1881
+2122	Vanečko Andrej, SR	I	0	1155
+2122	Vanečko Andrej, SR	m.Eva r.Závacká	0	1155
+2122	Vanečko Jakub, SR		0	723
+2122	Vanečko Jakub, SR	zomrel	0	1317,1465
+2122	Vanečko Ján, SR		0	723,895,1144
+2122	Vanečko Ján, SR	I	0	1155
+2122	Vanečko Ján, SR	m.Júlia r.Kaprálová	0	1144
+2122	Vanečko Ján, SR	manž.Júlia,zomrel	0	895
+2122	Vanečko Ján, SR	zomrel	0	1317,1465
+2122	Vanečko Michal, SR		0	723
+2122	Vanečko Šimon, SR		0	1155
+2122	Vanečková Anna r. Drugáčová, SR	m.Jakub,zomrela	0	1155
+2122	Vanečková Anna r. Ilčáková, SR	zomrela	0	1317
+2122	Vanečková Júlia r. Kaprálová	m.Ján	0	1144
+2122	Vanečková Júlia r. Kaprálová, SR	m.Ján, zomrela	0	895
+2122	Vanečková Katarína r. Mudráková, SR		0	1520
+2122	Vanečková Katarína, SR	zomrela	0	1056,1144,1440
+2122	Vanečková Mária r. Dudášová, SR	zomrela v r.1943	0	1144,1423
+2122	Vanečková Marta, SR		0	723
+2122	Vanečková Marta, SR	maloletá	0	1317,1465
+2122	Vanečková Žofia, SR		0	723
+2122	Vanečková Žofia, SR	maloletá	0	1317,1465
+2122	Vasičák Ján, SR	m.Anna r.Glevaňáková	0	1522
+2122	Vasičák Ján, SR	zomrel	0	1155
+2122	Vasičák Michal, SR	zomrel	0	1155
+2122	Vasičák Šimon, SR	m.Zuzana	0	1155
+2122	Vasičáková Anna r. Glevaňáková, SR	zomrela	0	1522,1523
+2122	Vasičáková Katarína r. Vanečková, SR		0	1413
+2122	Vasičáková Mária r. Dučáková, SR	zomrela 16.4.2006	0	1532
+2122	Vaščura Andrej, SR		0	1155
+2122	Vaščura Eliaš, SR		0	1155
+2122	Vaščura Jakub, SR		0	1155
+2122	Vaščura Jozef, SR		0	1155
+2122	Vaščura Juraj, SR		0	1155
+2122	Vaščura Vojtech, SR		0	1155
+2122	Vdovjak Andrej, SR		0	1155
+2122	Vdovjak Jozef, SR		0	1155
+2122	Vdovjak Jozef, SR	zomrel	0	1291
+2122	Vdovjaková Mária r. Závacká, SR		0	19
+2122	Vdovjaková Mária, SR		0	1291
+2122	Vdovjaková Marta r. Šilonová, SR	m.Andrej	0	1523
+2122	Vdovjaková Marta r. Šilonová, SR	m.Andrej,zomrela	0	1144,1155,1555
+2122	Vilčeková Katarína r. Harabinová, SR		0	1564,1597,1873
+2122	Vojtičková Katarína r. Krupjaková, SR	manž.Štefan	0	1158
+2122	Weindnerová Magdaléna r. Vachová		0	1144
+2122	Weindnerová Magdaléna r. Vachová, SR		0	388
+2122	Weindnerová Magdaléna r. Vachová, SR	zomrela	0	1155,1359,1380,1893,1894,1895
+2122	Závacká Anna r. Kaprálová, SR		0	1155
+2122	Závacká Anna r. Romaňáková, SR	m.Juraj	0	1155
+2122	Závacká Eva r. Harabinová, SR	m.Jakub,zomrela	0	1155
+2122	Závacká Eva, SR		0	261
+2122	Závacká Eva, SR	zomrela	0	1144,1336
+2122	Závacká Júlia r. Lešundáková, SR	m.Jakub	0	1581
+2122	Závacká Katarína r. Kušniráková, SR	zomrela	0	1314
+2122	Závacká Katarína r. Vanečková, SR		0	1155
+2122	Závacká Katarína, SR	I	0	603,1527
+2122	Závacká Mária r. Barčáková, SR	Kanada,zomrela	0	1055,1439
+2122	Závacká Mária r. Drugáčová, SR	manž.Ján,zomrela	0	1154
+2122	Závacká Mária r. Lachová, SR	zomrela 22.10.2005	0	1564,1565,1905
+2122	Závacká Mária r. Mudráková	m.Andrej,zomrela	0	1299
+2122	Závacká Mária r. Mudráková, SR	m.Andrej	0	1508
+2122	Závacká Mária r. Mudráková, SR	m.Andrej,zomrela	0	1508,1517
+2122	Závacká Mária r. Romaňáková, SR	m.Michal	0	1155
+2122	Závacká Mária r. Vanečková, SR	manž.Vasil,zomrela	0	922
+2122	Závacká Mária r. Závacká, SR	m.Ján	0	1586
+2122	Závacká Mária, SR	maloletá,zomrela	0	1607
+2122	Závacká Mária, SR	r.Vanečková,m.Vasil,zomrela	0	1534
+2122	Závacká Mária, SR	zomrela	0	603,1155,1527
+2122	Závacká Marta r. Drugáčová, SR		0	1155
+2122	Závacká Rozália r. Skibjaková, SR		0	161,1572
+2122	Závacká Žofia r. Kačmaráková, SR	m.Jozef	0	1155
+2122	Závacká Žofia, SR		0	1155
+2122	Zavacký Andrej, SR	zomrel	0	603,1155
+2122	Závacký Andrej, SR		0	201,422,445,603,1826
+2122	Závacký Andrej, SR	III., zomrel	0	1508
+2122	Závacký Andrej, SR	m.Mária r.Mudráková,zomrel	0	1299,1517
+2122	Závacký Andrej, SR	maloletý,zomrel	0	1527
+2122	Závacký Andrej, SR	zomrel 27.4.1994	0	1144,1563,1564,1565,1593,1905
+2122	Závacký Elek, SR		0	1581
+2122	Závacký Jakub, SR	zomrel 30.9.1984	0	1144
+2122	Závacký Ján, SR		0	201,213
+2122	Závacký Ján, SR	3	0	900
+2122	Závacký Ján, SR	maloletý	0	1607
+2122	Závacký Ján, SR	manž.Mária,zomrel	0	1154
+2122	Závacký Ján, SR	zomrel	0	1155,1308,1518,1603,1608,1610
+2122	Závacký Jozef, SR		0	201,213,222,1543,1583,1603,1925
+2122	Závacký Jozef, SR	II., zomrel	0	1155
+2122	Závacký Jozef, SR	m.Žofia r.Kušniráková	0	1603
+2122	Závacký Jozef, SR	maloletý	0	1579,1581,1582,1607
+2122	Závacký Jozef, SR	zomrel	0	1308,1518,1608,1610
+2122	Závacký Libor, SR		0	201,1514
+2122	Závacký Matej, SR	maloletý,zomrel	0	1155
+2122	Závacký Michal, SR		0	201,213,1308
+2122	Závacký Michal, SR	II	0	1581
+2122	Závacký Michal, SR	IV	0	1586
+2122	Závacký Michal, SR	m.Mária r.Romaňáková	0	1155
+2122	Závacký Michal, SR	maloletý	0	1144,1581
+2122	Závacký Michal, SR	maloletý,zomrel	0	1607
+2122	Závacký Michal, SR	stredný	0	1513
+2122	Závacký Mikuláš, SR		0	1155
+2122	Závacký Nikolaj, SR		0	1155
+2122	Závacký Ondrej, SR	maloletý,zomrel	0	1144
+2122	Závacký Peter, SR		0	603
+2122	Závacký Peter, SR	zomrel	0	603,1155,1527
+2123	Adamovič Ján r. Adamovič, manž. Klementína r.Ďurišová, zomrel manž. Klementína r.Ďurišová, zomrel		0	2364
+2123	Adamovič Pavol r. Adamovič, zom.21.04.1989 zom.21.04.1989		0	2434
+2123	Adamovičová Helena r. Šuttová, manž. Viliam, zom.03.02.1993 manž. Viliam, zom.03.02.1993		0	2040,2761
+2123	Adamovičová Klementína r. Ďurišová		1	1204,2040,2768
+2123	Adamovičová Magdaléna r. Macová, zomrela, zom.10.06.1963 zomrela, zom.10.06.1963		0	2040,2048,2049,2050,2051,2052,2053,2761
+2123	Balleková Helena r. Tomišová		0	2037
+2123	Barcaj Florián r. Barcaj, manž. Alžbeta r. Macová, zom.10.03.1968 manž. Alžbeta r. Macová, zom.10.03.1968		0	2040,2497,2761
+2123	Barcaj Florián r. Barcaj, manž. Katarína r.Ďurišová, zomrel manž. Katarína r.Ďurišová, zomrel		0	2761
+2123	Barcaj Florián r. Barcaj, manž. Mária r. Škrabáková, zom.24.03.1985 manž. Mária r. Škrabáková, zom.24.03.1985		0	2040,2761
+2123	Barcaj Florián r. Barcaj, zom.28.02.1986 zom.28.02.1986		0	2665
+2123	Barcaj Jakub r. Barcaj, manž. Mária r.Jurovatá manž. Mária r.Jurovatá		0	2761
+2123	Barcaj Ján		0	1204
+2123	Barcaj Ján	mal. 1.zomrel	1	1204
+2123	Barcaj Ján	mal. zomrel	1	1204
+2123	Barcaj Ján r. Barcaj, zom.14.10.1983 zom.14.10.1983		0	2040,2768
+2123	Barcaj Ján r. Barcaj, zom.22.07.1979 zom.22.07.1979		0	2040,2761
+2123	Barcaj Ján r. Barcaj, zomrel zomrel		0	2040,2042
+2123	Barcaj Jozef	ml	1	1204
+2123	Barcaj Jozef	syn Evy r. Lukáčkovej, zomrel	1	1204
+2123	Barcaj Jozef r. Barcaj		0	2037
+2123	Barcaj Jozef r. Barcaj, mladší mladší		0	2040,2768
+2123	Barcaj Jozef r. Barcaj, syn Evy r. Lukáčkovej, zomrel syn Evy r. Lukáčkovej, zomrel		0	2040,2431,2768
+2123	Barcaj Jozef r. Barcaj, syn Tomáša a Ilony r.Krajčír, zom.16.06.1958 syn Tomáša a Ilony r.Krajčír, zom.16.06.1958		0	2040,2768
+2123	Barcaj Juraj r. Barcaj, manž. Klára r. Barcajová, zom.02.09.1961 manž. Klára r. Barcajová, zom.02.09.1961		0	2040,2705,2768
+2123	Barcaj Ľudovít r. Barcaj, manž. Klára r. Huttová, zom.23.06.1962 manž. Klára r. Huttová, zom.23.06.1962		0	2040,2768
+2123	Barcaj Lukáč r. Barcaj, manž. Mária r. Barcajová, zom.28.09.1968 manž. Mária r. Barcajová, zom.28.09.1968		0	2040,2197,2761
+2123	Barcaj Martin	mal	1	1204
+2123	Barcaj Martin r. Barcaj, manž. Alžbeta r. Horváthová, zomrel manž. Alžbeta r. Horváthová, zomrel		0	2303
+2123	Barcaj Martin r. Barcaj, manž. Mária r. Vulganová, zom.12.09.1958 manž. Mária r. Vulganová, zom.12.09.1958		0	2040,2761
+2123	Barcaj Martin r. Barcaj, zomrel zomrel		0	2040,2761
+2123	Barcaj Michal	mal	1	1204
+2123	Barcaj Michal r. Barcaj, maloletý maloletý		0	2040,2761,2768
+2123	Barcaj Pavel r. Barcaj, zom.25.06.1960 zom.25.06.1960		0	2555
+2123	Barcaj Štefan r. Barcaj, manž. Helena r. Barcajová, zom.16.10.1986 manž. Helena r. Barcajová, zom.16.10.1986		0	2040,2325,2761
+2123	Barcajová Anna		0	2067
+2123	Barcajová Anna r. Kubanová, manž. Juraj, zomrela manž. Juraj, zomrela		0	2285
+2123	Barcajová Dorota r. Michelová	m. Ignác, zomrela	1	1204,1229
+2123	Barcajová Dorota r. Michelová, manž. Ignác, zomrela manž. Ignác, zomrela		0	2040,2761,2768
+2123	Barcajová Irma		0	2048,2049,2050,2051,2052,2053
+2123	Barcajová Júlia r. Barcajová, manž. Ján, zomrela manž. Ján, zomrela		0	2518
+2123	Barcajová Karolína r. Huttová, zomrela zomrela		0	2245
+2123	Barcajová Klára r. Huttová, manž. Ľudovít, zom.16.10.1966 manž. Ľudovít, zom.16.10.1966		0	2040,2607,2768
+2123	Barcajová Kristína r. Malíšková, zom.19.07.1964 zom.19.07.1964		0	2040,2768
+2123	Barcajová Mária r. Barcajová, manž. Ján, zomrela manž. Ján, zomrela		0	2042
+2123	Barcajová Mária r. Staneková	m. Juraj, zomrela	1	1204
+2123	Barcajová Mária r. Staneková, manž. Juraj, zomrela manž. Juraj, zomrela		0	2040,2334,2768
+2123	Barcajová Marta, dcéra Jána a Serafíny r. Kováčikovej dcéra Jána a Serafíny r. Kováčikovej		0	2695
+2123	Barcajová Serafína r. Kováčiková, zom.27.10.1972 zom.27.10.1972		0	2040,2761
+2123	Barčáková Mária r. Šmidková		0	2351
+2123	Bednárik Martin		1	1204
+2123	Bednárik Martin r. Bednárik		0	2040,2443,2768
+2123	Bednáriková Alžbeta r. Soboňová, manž. Jozef, zomrela manž. Jozef, zomrela		0	2157
+2123	Bedyová Marta r. Jastrabová		1	1204,2040,2761
+2123	Beňák Alojz r. Beňák, manž. Alžbeta r. Deščíková, zom.22.12.1990 manž. Alžbeta r. Deščíková, zom.22.12.1990		0	2040,2761
+2123	Benda Ondrej r. Benda, slobodný, zomrel slobodný, zomrel		0	2401
+2123	Bendová Kristína, slobodná, zomrela slobodná, zomrela		0	2629
+2123	Blanárik Pavel	zomrel	1	1204
+2123	Blanárik Pavel r. Blanárik, zomrel zomrel		0	2040,2063,2484,2768
+2123	Blanáriková Alžbeta r. Vrábelová, manž. Michal, zomrela manž. Michal, zomrela		0	2113
+2123	Bolerázsky Matúš	ž. Anna r. Jastrabová, zomrel	1	1204
+2123	Bolerázsky Matúš r. Bolerázsky, manž. Anna r. Jastrabová, zomrel manž. Anna r. Jastrabová, zomrel		0	2040,2768
+2123	Brodňanová Anna r. Huttová		0	2470
+2123	Bulganová Mária r. Huttová, zom.23.03.1991 zom.23.03.1991		0	2161
+2123	Čamrdová Agneša r. Gáliková, zomrela zomrela		0	2395
+2123	Čmaradová Eva r. Ďurišová	m. Alojz	1	1204
+2123	Čmaradová Eva r. Ďurišová, manž. Alojz manž. Alojz		0	2040,2263,2768
+2123	Ďuriš Augustín r. Ďuriš, zom.20.10.1927 zom.20.10.1927		0	2040,2768
+2123	Ďuriš Florián r. Ďuriš, zomrel zomrel		0	2296
+2123	Ďuriš Ján	ž. Mária r. Barcajová, New York	1	1204,1226
+2123	Ďuriš Ján r. Ďuriš, manž. Mária r. Barcajová, New York manž. Mária r. Barcajová, New York		0	2040,2221,2768
+2123	Ďuriš Ján r. Ďuriš, manž. Mária r. Benedikovičová, zom.25.11.1988 manž. Mária r. Benedikovičová, zom.25.11.1988		0	2040,2768
+2123	Ďuriš Ján r. Ďuriš, zom.05.11.1976 zom.05.11.1976		0	2040,2768
+2123	Ďuriš Jozef	ž. Emma r. Kutálková, New York	1	1204,1226
+2123	Ďuriš Jozef	ž. Mária r. Kováčiková	1	1204
+2123	Ďuriš Jozef r. Ďuriš, manž. Emma r. Kutálková, New York manž. Emma r. Kutálková, New York		0	2040,2549,2768
+2123	Ďuriš Jozef r. Ďuriš, manž. Mária r. Kováčiková manž. Mária r. Kováčiková		0	2040,2768
+2123	Ďuriš Juraj		0	1204
+2123	Ďuriš Martin r. Ďuriš, manž. Katarína r. Škopíková manž. Katarína r. Škopíková		0	2206
+2123	Ďuriš Pavol r. Ďuriš, manž. Anna r. Matúšková, zomrel manž. Anna r. Matúšková, zomrel		0	2536
+2123	Ďurišová Agneša r. Sasáková	zomrela	1	1204
+2123	Ďurišová Agneša r. Sasáková, zomrela zomrela		0	2040,2768
+2123	Ďurišová Amália r. Blanáriková	m. Jozef, zomrela	1	1204
+2123	Ďurišová Amália r. Blanáriková, manž. Jozef, zomrela manž. Jozef, zomrela		0	2040,2768
+2123	Ďurišová Anna	mal	1	1204
+2123	Ďurišová Anna r. Matúšeková, manž. Pavol, zomrela manž. Pavol, zomrela		0	2188
+2123	Ďurišová Anna, maloletá maloletá		0	2040,2768
+2123	Ďurišová Božena r. Kolesíková	m. Štefan	1	1204
+2123	Ďurišová Božena r. Kolesíková, manž. Štefan manž. Štefan		0	2040,2101,2768
+2123	Ďurišová Eva r. Sasáková, manž. Andrej, zom.26.04.1956 manž. Andrej, zom.26.04.1956		0	2195
+2123	Ďurišová Helena r. Lukáčeková, manž. Augustín, zom.17.06.1961 manž. Augustín, zom.17.06.1961		0	2040,2768
+2123	Ďurišová Irma r. Tomišová	zomrela r. 1964	1	1204
+2123	Ďurišová Irma r. Tomišová, zomrela r.1964 zomrela r.1964		0	2040,2761

@@ -1,0 +1,256 @@
+941	JURICA Adam		0	4650
+941	Jurica Adam r. Jurica		0	3629,4650,4654,4659,4661,4662,4730
+941	JURICA Ján		0	3629,4650,4654,4659,4661,4662,4730
+941	JURICA Jozef		0	3629,4661
+941	Jurica Martin		0	3629,4650
+941	Jurica Martin	r.Jurica	0	4654,4659,4661,4662,4730
+941	JURICA Martin	manželka Mária rod. Podolanová	0	1316
+941	Jurica Štefan	maloletý	0	3629,4650
+941	Jurica Štefan	r.Jurica,mal	0	4654,4659,4661,4662,4730
+941	JURICA Štefan	vým.mal.čd.3486/27	0	4661
+941	JURICA Štefan	výmaz maloletosti čd.3486/27	0	3629
+941	Juricová Anna		0	3629,4650,4654,4659,4661,4662,4730
+941	JURICOVÁ Anna	vým.mal.čd.3486/27	0	4661
+941	JURICOVÁ Anna	výmaz maloletosti čd.3486/27	0	3629
+941	Juricová Katarína	r.Turanová,vdova	0	3912,3913
+941	JURICOVÁ Katarína		0	3629,4650,4654,4659,4661,4662,4730
+941	JURIGOVÁ Anna	mal	0	4661
+941	JURIGOVÁ Anna	maloletý	0	3629
+941	KATONA Gejza		0	3629,4650,4654,4659,4661,4662,4730
+941	KATONOVÁ Adela	r.Tischová	0	4654,4659,4661,4662,4730
+941	KATONOVÁ Adela r. Tischová		0	3629,4650
+941	Katreniak Milan, Dr.		0	3050,3064,3463,3629,3902,3983,4241,4289,4358,4458,4463,4492,4661
+941	KATRINIAK Milan		0	4466
+941	Kišonová Mária	r. Drobná	0	3912,3913
+941	Klučár Ján	r.Klučár,syn Anny Klučárovej	0	3922
+941	KLUČÁR Ján		0	3692,3701,3854
+941	KLUČÁR Juraj		0	3692,3701,3854,3895,3896
+941	KLÚČAROVÁ Anna	r.Malíčková	0	3895,3896
+941	KLUČÁROVÁ Anna r. Hargašová		0	3858
+941	KLUČÁROVÁ Emília	mal	0	4654,4659,4661,4662,4730
+941	KLUČÁROVÁ Emília	maloletá	0	3629,4650
+941	KLUČÁROVÁ Eva r. Filhovicová	manžel Martin	0	4684
+941	KLUČÁROVÁ Katarína		0	3629,4650,4654,4659,4661,4662,4730
+941	KLUČÁROVÁ Katarína	r.Repčíková	0	4654,4659,4661,4662,4730
+941	KLUČÁROVÁ Katarína r. Repčíková		0	3629,4650
+941	Klúčarová Katarína r. Turanová		0	1456,2923,3482,3483,3947
+941	KOLÁROVÁ Mária	r.Končitá	0	4661
+941	KOPAL Martin	mal	0	4654,4659,4661,4662,4730
+941	KOPAL Martin	maloletý	0	3629,4650
+941	Kopál Martin	manželka Mária r. Dedíková	0	4650
+941	Kopál Martin	manželka Mária rod. Dedíková	0	3629
+941	KOPÁL Martin		0	3629,4661
+941	Kopál Martin r. Kopál	manželka Mária rod. Dedíková	0	4654,4659,4661,4662,4730
+941	KOPALOVÁ Anna	mal	0	4654,4659,4661,4662,4730
+941	KOPALOVÁ Anna	maloletá	0	3629,4650
+941	KOPALOVÁ Eva		0	3629,4650,4654,4659,4661,4662,4730
+941	KOPALOVÁ Eva	mal	0	4654,4659,4661,4662,4730
+941	KOPALOVÁ Eva	maloletá	0	3629,4650
+941	KOPALOVÁ Mária	r.Dedíková	0	4661
+941	KOPALOVÁ Mária r. Dedíková		0	3629
+941	KORÁK Ján	maloletý	0	4289
+941	KORYTÁR Štefan		0	3629,4661
+941	Korytár Štefan r. Korytár	Dátum úmrtia: 29.5.2004	0	3895,3896
+941	Kosová Emília r. Nešťáková		0	3476,3478,3889,4186,4210,4226,4378
+941	KOSOVÁ Emília r. Nešťáková	maloletá	0	3473
+941	Kostelánová Eva	r.Uhríková,m.Štefan	0	4661
+941	Kostelánová Eva r. Uhríková	manžel Štefan	0	3629
+941	KOTÚČ Pavol	manželka Anna r. Magálová	0	4340
+941	KOVAČICOVÁ Eva r. Štefániková	manžel Martin	0	3696
+941	KOVAČOVIC Jaroslav	maloletý	0	4157
+941	KOVAČOVIC Rudolf		0	4157
+941	Kovačovicová Anna	rod.Janigová	0	4661
+941	Kovačovicová Anna r. Janigová		0	1763,2007,2008,3629,3839,3944,3957,3975,3977,4040,4044,4827,4900,4901,4902,4903,4919,4920
+941	KOVAČOVICOVÁ Anna r. Štefániková		0	3697
+941	KOVAČOVICOVÁ Eva		0	3692,3701
+941	KOVAČOVICOVÁ Eva	r.Štefániková	0	4661
+941	KOVAČOVICOVÁ Eva r. Štefániková	manžel Martin	0	3839,4900
+941	KOVAČOVIČ Ján	Judita rod. Hrabovská	0	3983
+941	KOVAČOVIČOVÁ Anna r. Chovancová		0	3822,4369,4788
+941	Kovačovičová Eva	rod.Štefániková	0	3895,3896,4021
+941	Kovačovičová Eva r. Štefániková		0	1427,2855,3529,3629,3690,3691,3693,3694,3844,3901,3998,4003,4005,4010,4016,4021,4022,4025,4570,4612,4807,4899
+941	KOVAČOVIČOVÁ Katarína r. Kršáková		0	3779,4515
+941	KOVAČOVIČOVÁ Mária r. Krsáková	manžel Daniel	0	3714,3775,3776,3777,3780,3781,3782,3784,4655,4708,4709
+941	KOVÁŘOVÁ Mária	r.Švachová	0	4654,4659,4661,4662,4730
+941	KOVÁŘOVÁ Mária r. Švachová		0	3629,4650
+941	Kovencová Emília	r.Revayová	0	3922
+941	Kozáčková Eva	rod.Bušová	0	3930
+941	Kozáčková Eva r. Bušová	manžel Adam	0	3046,3048,3050,3461,3463,3983,4289,4460,4461,4462,4492,4546
+941	KOZÁČKOVÁ Eva r. Bušová		0	900,3048,3049,3051,3493,4462,4463
+941	KOZÁČKOVÁ Eva r. Bušová	mnažel Adam	0	4545
+941	KOZÁČKOVÁ Eva r. Tomešová		0	4463
+941	KOZÁK Ján	maloletý	0	3493
+941	KOZÁK Ján	manželka Anna r. Podhradská	0	4650
+941	KOZÁK Ján	manželka Anna rod. Podhradská	0	3629
+941	KOZÁK Ján	ž.Anna Podhradská	0	4654,4659,4661,4662,4730
+941	Kozák Ján r. Kozák		0	3895,3896
+941	KOZÁK Juraj		0	3629,4569,4650,4654,4659,4661,4662,4730
+941	KOZÁK Martin		0	3629,4569,4650,4654,4659,4661,4662,4730
+941	KOZÁKOVÁ Anna	súr.Mária,Katarína	0	4661
+941	KOZÁKOVÁ Anna	súrodenci Mária, Katarína	0	3629
+941	KOZÁKOVÁ Katarína	r.Miklánková	0	4654,4659,4661,4662,4730
+941	KOZÁKOVÁ Katarína r. Miklánková		0	3629,4527,4650
+941	KOZÁKOVÁ Katarína r. Miklánková	manžel Ján	0	4482
+941	KOZÁKOVÁ Mária		0	3629,4661
+941	Kozáková Mária r. Gašparíková		0	1763,2008,3629,3827,3831,3832,3955,4054,4574,4661
+941	KRASICKÁ Anna r. Pastorková		0	4554
+941	KRASICKÁ Katarína	po Jánovi Krasickom	0	3912,3913
+941	KRASICKÁ Mária	-	0	3912,3913
+941	KRASICKÁ Mária	r.Neštáková, Jánova	0	3912,3913
+941	KRASNECOVÁ Pavlína	r.Lužová	0	4654,4659,4661,4662,4730
+941	KRASNECOVÁ Pavlína r. Lužová		0	3629,4650
+941	KRAUS Vojtech		0	3629,4650,4654,4659,4661,4662,4730
+941	KRAUSOVÁ Hermína	r.Donáthová	0	4654,4659,4661,4662,4730
+941	KRAUSOVÁ Hermína r. Donáthová		0	3629,4650
+941	KRAVARČÍK Pavol	mal	0	4654,4659,4661,4662,4730
+941	KRAVARČÍK Pavol	maloletý	0	3629,4650
+941	Kravariková Anna	r.Sahajová,m.Pavol	0	4659,4661
+941	Kravariková Anna r. Sahajová	manžel Pavol	0	3629,4650,4654,4662,4730
+941	KRAVARIKOVÁ Mária	r.Černá Jurajova	0	4654,4659,4661,4662,4730
+941	KRAVARIKOVÁ Mária r. Černá		0	4650
+941	KRAVARIKOVÁ Mária r. Černá	Jurajova	0	3629
+941	KRIVÁ Anna	r.Černá	0	4654,4659,4661,4662,4730
+941	KRIVÁ Anna r. Černá		0	3629,4650
+941	Kropilová Katarína	r.Bušová, ž.Samuela	0	4489
+941	Kropilová Katarína r. Bušová	manžel Samuel	0	1386,2679,3141,3157,3162,3165,3414,3822,3900,4133,4171,4174,4176,4180,4182,4184,4189,4202,4211,4212,4215,4250,4253,4348,4539,4679,4778,4786,4787,4788,4789,4926
+941	KROPIVA Katarína r. Bušová		0	4250
+941	KROPIVA Samuel	manželka Katarína r. Bušová	0	4348
+941	Kubák Ján		0	3629,4650
+941	Kubák Ján	r.Kubák,1	0	3895,3896,4654,4659,4661,4662,4730
+941	KUBÁK Martin	mal	0	3895,3896,4654,4659,4661,4662,4730
+941	KUBÁK Martin	maloletý	0	3629,4650
+941	KUBÁK Michal	mal	0	4654,4659,4661,4662,4730
+941	KUBÁK Michal	maloletý	0	3629,4650
+941	KUBICOVÁ Anna r. Stachová		0	3764,4365
+941	Kubová Eva r. Stachová		0	4718
+941	Kubová Katarína	r.Chovancová	0	3895,3896
+941	Kucek Adam	r.Kucek,súr.Ján,Štefan,Martin,Anna,Juraj	0	3895,3896
+941	Kucek Adam	súrodenci Ján, Štefan, Martin, Anna, Juraj	0	4551
+941	Kucek Ján	maloletý	0	3629,4650
+941	Kucek Ján	r.Kucek,mal	0	4654,4659,4661,4662,4730
+941	Kucek Ján	r.Kucek,súr.Štefan,Martin,Anna,Juraj,Adam	0	3895,3896
+941	Kucek Ján	súrodenci Štefan, Martin, Anna, Juraj, Adam	0	4551
+941	KUCEK Ján		0	4650,4654,4659,4662,4730
+941	KUCEK Ján	m.Eva Dedíková	0	4654,4659,4661,4662,4730
+941	KUCEK Ján	manželka Eva r. Dedíková	0	3629,4650
+941	Kucek Martin	r.Kucek,súr.Ján,Štefan,Anna,Juraj,Adam	0	3895,3896
+941	Kucek Martin	súrodenci Ján, Štefan, Anna, Juraj, Adam	0	4551
+941	KUCEK Martin	mal	0	4654,4659,4661,4662,4730
+941	KUCEK Martin	maloletý	0	3629,4650
+941	KUCEK Martin	manželka Katarína r. Kulichová	0	4650
+941	KUCEK Martin	manželka Katarína rod. Kulichová	0	3629
+941	KUCEK Martin	ž.Katarína Kulichová	0	4654,4659,4661,4662,4730
+941	KUCEK Michal		0	3629,4650,4654,4659,4661,4662,4730
+941	Kucek Štefan	r.Kucek,súr.Ján,Martin,Anna,Juraj,Adam	0	3895,3896
+941	Kucek Štefan	súrodenci Ján, Martin, Anna, Juraj, Adam	0	4551
+941	KUCEK Štefan		0	3629,4127,4650,4654,4659,4661,4662,4730
+941	KUCEK Štefan	mal	0	4654,4659,4661,4662,4730
+941	KUCEK Štefan	maloletý	0	3629,4650
+941	KUCEKOVÁ Alžbeta	r.Zelková	0	3895,3896
+941	KUCEKOVÁ Alžbeta r. Zelková		0	3530
+941	Kuceková Anna	súr.Ján,Štefan,Martin,Juraj,Adam	0	3895,3896
+941	Kuceková Anna	súrodenci Ján, Štefan, Martin, Juraj, Adam	0	4551
+941	KUCEKOVÁ Anna		0	3629,3912,3913,4650,4654,4659,4661,4662,4730
+941	KUCEKOVÁ Anna	mal	0	4654,4659,4661,4662,4730
+941	KUCEKOVÁ Anna	maloletá	0	3629,4650
+941	KUCEKOVÁ Anna	maloletý	0	3629
+941	KUCEKOVÁ Anna	r.Ochodnická	0	3895,3896,3912,3913
+941	KUCEKOVÁ Beta	r.Fajnorová	0	3912,3913,4654,4659,4661,4662,4730
+941	KUCEKOVÁ Beta r. Fajnorová		0	3629,4650
+941	Kuceková Elena		0	3895,3896,3922,4551
+941	KUCEKOVÁ Elena	mal	0	4654,4659,4661,4662,4730
+941	KUCEKOVÁ Elena	maloletá	0	3629,4650
+941	KUCEKOVÁ Emília		0	3629,4650,4654,4659,4661,4662,4730
+941	KUCEKOVÁ Emília	mal.po Štefanovi	0	4654,4659,4661,4662,4730
+941	KUCEKOVÁ Emília	maloletá, po Štefanovi	0	4650
+941	KUCEKOVÁ Emília	maloletý po Štefanovi	0	3629
+941	KUCEKOVÁ Eva	r.Juricová	0	4661
+941	KUCEKOVÁ Eva r. Juricová		0	3629
+941	KUCEKOVÁ Helena	mal	0	4654,4659,4661,4662,4730
+941	KUCEKOVÁ Helena	maloletá	0	3629,4650
+941	KUCEKOVÁ Katarína		0	4650,4654,4659,4662,4730
+941	KUCEKOVÁ Katarína	r.Mažárová Janova	0	4654,4659,4661,4662,4730
+941	KUCEKOVÁ Katarína r. Mažárová		0	4650
+941	KUCEKOVÁ Katarína r. Mažárová	Janova	0	3629
+941	KUCEKOVÁ Mária	mal	0	4654,4659,4661,4662,4730
+941	KUCEKOVÁ Mária	maloletá	0	3629,3988,4650
+941	KUCKOVÁ Alžbeta	r.Zelková	0	3912,3913
+941	KUCKOVÁ Alžbeta r. Bušová		0	4040
+941	Kucková Anna	slobodná	0	3629,4650,4654,4659,4661,4662,4730
+941	KUCKOVÁ Anna		0	3530
+941	KUCKOVÁ Elena		0	3530
+941	Kucková Eva	r.Juricová, m.Ján	0	4654,4659,4661,4662,4730
+941	KUCKOVÁ Eva		0	4194
+941	Kucková Eva r. Juricová	manžel Ján	0	3629,4650
+941	KUCKOVÁ Katarína	r.Bušová	0	3912,3913,4654,4659,4661,4662,4730
+941	KUCKOVÁ Katarína r. Bušová		0	3629,4415,4650
+941	KUČEK Ján	manželka Katarína r.Bušová	0	4551
+941	KUČEK Ján	ž.Katarína r.Bušová	0	3895,3896
+941	KUČEK Štefan	nar.asi v r.1882	0	3895,3896,4551
+941	KUCHAROVIČOVÁ Mária	r.Záhorová	0	4654,4659,4661,4662,4730
+941	KUCHAROVIČOVÁ Mária r. Záhorová		0	3629,4650
+941	KULICHOVÁ Eva	r.Bušová	0	3895,3896
+941	KULÍK Branislav		0	4627
+941	Kulíková Mária	r.Bušová	0	4654,4659,4661,4662,4730
+941	Kulíková Mária r. Bušová		0	3629,4436,4650
+941	Kusenda Ján	manželka Katarína r. Zlatá	0	4650
+941	Kusenda Ján	manželka Katarína rod. Zlatá	0	3629
+941	Kusenda Ján	r.Kusenda,m.Katarína Zlatá	0	4654,4659,4661,4662,4730
+941	KUSENDA Ján		0	3629,4650,4654,4659,4661,4662,4730
+941	KUSENDA Ján	manželka Katarína r. Lahvičková	0	4650
+941	KUSENDA Ján	manželka Katarína rod. Lahvičková	0	3629
+941	KUSENDA Ján	ž.Katarína Lahvičková	0	4654,4659,4661,4662,4730
+941	KUSENDOVÁ Eva	r.Černá	0	3895,3896
+941	Kusendová Katarína	r.Gulánová	0	4661
+941	KUSENDOVÁ Katarína	r.Lahvičková	0	4654,4659,4661,4662,4730
+941	Kusendová Katarína r. Gulánová		0	2673,3358,3359,3360,3629,3790,3791,4416,4417,4428,4519,4520,4529,4580,4600
+941	KUSENDOVÁ Katarína r. Lahvičková		0	3629,4650
+941	KUSENDOVÁ Katarína r. Šimková		0	3045
+941	Lahvička Martin		0	3350,4894
+941	Lahvičková Alžbeta	r.Gažová	0	3895,3896
+941	Lahvičková Eva	r.Janigová	0	4661
+941	Lahvičková Eva r. Janigová		0	3629,3944,3957,4044,4903
+941	LANČÍK Augustín		0	3629,4650,4654,4659,4661,4662,4730
+941	Lančík Augustín r. Lančík		0	4654
+941	LÁSZLO Alžbeta		0	3629,4650,4654,4659,4661,4662,4730
+941	LÁSZLO Edita		0	3629,4650,4654,4659,4661,4662,4730
+941	Lieskovský Jozef		0	2913,3670,4393
+941	Lieskovský Koloman	maloletý	0	2913,3670,4393
+941	Lieskovský Michal		0	2913,3670,4393
+941	Lieskovský Mikuláš		0	2913,3670,4393
+941	Lieskovský Robert		0	2913,3670,4393
+941	Lieskovský Vojtech		0	2913,3670,4393
+941	LIŠKA Ján	m.Anna Turanová	0	3912,3913
+941	LIŠKA Ján	súr.Martin,Mária,Anna,Milan	0	3912,3913
+941	LIŠKA Ján	súrodenci Katarína, Eva, Alžbeta, Mária	0	4568,4569,4611
+941	LIŠKA Martin	súr.Mária,Anna,Ján,Milan	0	3912,3913
+941	LIŠKA Martin	ž.Eva Pašková	0	3912,3913
+941	LIŠKA Milan	súr.Martin,Mária,Anna,Ján	0	3912,3913
+941	LIŠKOVÁ Anna	súr.Martin,Mária,Ján,Milan	0	3912,3913
+941	LIŠKOVÁ Mária	súr.Martin,Anna,Ján,Milan	0	3912,3913
+941	LOBÍKOVÁ Eva	r. Rídza	0	4654,4659,4661,4662,4730
+941	LOBÍKOVÁ Eva r. Rídza		0	3629,4650
+941	LOBÍKOVÁ Katarína	r.Švachová	0	3895,3896
+941	LOBÍKOVÁ Katarína r. Skovajsová	súrodenci Martin a Ján Skovajsa, Anna Magálová	0	2927
+941	LOURYOVÁ Katarína r. Bergerová		0	3981
+941	Lowyová Katarína	r.Bergerová, ž.Roberta	0	3912,3913,4661
+941	Lowyová Katarína r. Bergerová	manžel Róbert	0	1456,3414,3482,3483,3629,3945,3957,3976,4348,4527
+941	Luža Ján	maloletí súrodenci Anna,Mária,Eva	0	4650
+941	Luža Ján	maloletý, súrodenci Anna, Mária, Eva	0	3629,4083
+941	Luža Ján	r.Luža,maloletý súrodenci Anna,Mária,Eva	0	4654,4659,4661,4662,4730
+941	Luža Ján	súrodenci Anna, Mária, Eva	0	4083
+941	LUŽA Ján		0	3629,4650,4654,4659,4661,4662,4730
+941	LUŽA Ján	mlad	0	3629,4650,4654,4659,4661,4662,4730
+941	LUŽA Jozef		0	3629,4650,4654,4659,4661,4662,4730
+941	LUŽA Martin		0	4650,4654,4659,4662,4730
+941	LUŽA Martin	m.Katarína Poláková	0	4654,4659,4661,4662,4730
+941	LUŽA Martin	manželka Katarína r. Bučková	0	4650
+941	LUŽA Martin	manželka Katarína r. Poláková	0	4650
+941	LUŽA Martin	manželka Katarína rod. Bučková	0	4650
+941	LUŽA Martin	manželka Katarína rod. Poláková	0	3629
+941	LUŽA Martin	ž.Bučková Katarína	0	4654,4659,4662,4730
+941	LUŽA Štefan	manželka Anna rod. Kuceková	0	3629
+941	LUŽA Štefan	ž.Anna Kuceková	0	4661
+941	Lužová Anna	r.Drobná	0	3912,3913
+941	Lužová Anna	súrodenci Ján, Mária, Eva	0	4083
+941	LUŽOVÁ Anna		0	3629,4650,4654,4659,4661,4662,4730

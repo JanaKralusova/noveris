@@ -1,0 +1,256 @@
+2529	Lukáč Ján		1	667,675,684,707,721,815,825,826
+2529	Lukáč Ján	2	1	707,815,825,826
+2529	Lukáč Ján	2 Košice Podhradová	1	651,667,675,689
+2529	Lukáč Ján	2, Košice, Podhradová	1	714
+2529	Lukáč Ján	3	1	667,714
+2529	Lukáč Ján	5	1	707,815,825,826
+2529	Lukáč Ján	Košice Podhradová	1	645,651,667,675
+2529	Lukáč Ján	Košice, Podhradová	1	689,713
+2529	Lukáč Ján	manželka Anna r.Zemančíková	1	815,825,826
+2529	Lukáč Ján	ž. Anna r. Zemančíková	0	707
+2529	Lukáč Ján r. Lukáč		1	558,559,560
+2529	Lukáč Ján r. Lukáč	2, Košice, Podhradová	1	641,644
+2529	Lukáč Ján r. Lukáč	2, Podhradová, Košice	1	558,559,560
+2529	Lukáč Ján r. Lukáč	3	1	558,559,560
+2529	Lukáč Ján r. Lukáč	5	1	641,644
+2529	Lukáč Ján r. Lukáč	Košice, Podhradová	1	641,644
+2529	Lukáč Ján r. Lukáč	manželka Anna r.Zemančíková	1	641,644
+2529	Lukáč Ján r. Lukáč	manželka Anna rod. Szemančiková, , 4	1	710
+2529	Lukáč Ján r. Lukáč	Podhradová, Košice	1	558,559,560
+2529	Lukáč János		1	650
+2529	Lukáč Michal		1	640,707,815,825,826
+2529	Lukáč Michal r. Lukáč		1	641,644
+2529	Lukáč Michal r. Lukáč	4	1	641,644,707,815,825,826
+2529	Lukáčová Alžbeta	mal	1	650
+2529	Lukáčová Anna		1	558,559,560,641,644,657,667,675,678,682,684,689,691,692,703,707,714,752,815,825,826,846
+2529	Lukáčová Anna	4	1	641,644,707,815,825,826
+2529	Lukáčová Anna r. Gajdoš		1	641,644,670,707,815,825,826
+2529	Lukáčová Anna r. Lukáč		1	640,641,644,707,815,825,826
+2529	Lukáčová Anna r. Semančíková		1	707,815,825,826
+2529	Lukáčová Anna r. Semančíková	2, , manžel Ján Lukáč	1	558,559,560,721
+2529	Lukáčová Anna r. Semančíková	a J.N Lukáť, 2	1	667
+2529	Lukáčová Anna r. Semančíková	Margecany	1	641,644,664,710,721
+2529	Lukáčová Anna r. Szemančik		1	641,644,691,707,815,825,826
+2529	Lukáčová Anna r. Szemančik	Szemančik	1	714
+2529	Lukáčová Anna r. Szemančiková	manžel Ján Lukáč	1	675
+2529	Lukáčová Anna r. Szemančiková	manžel Ján Lukáč, , 4	1	710
+2529	Lukáčová Anna r. Zemančíková		1	641,644,707,815,825,826
+2529	Lukáčová Mária r. Amrichová		1	684
+2529	Lukáčová Mária r. Čarniová		1	641,644,707,815,825,826
+2529	Lukáčová Mária r. Čarnyová		1	645,710
+2529	Lukáčová Mária r. Pajčák		1	641,644,707,815,825,826
+2529	Marjaková Maria r. Semančíková		1	644,707,815,825,826
+2529	Marjaková Maria r. Semančíková	Kavečany	1	641,689
+2529	Mesarč Andrej		1	630,665,697,707,711,815,825,826,837,838
+2529	Mesarč Andrej	3	1	668,707,815,825,826
+2529	Mesarč Andrej r. Mesarč		1	641,644,658,671,679,683,690,737,738,847
+2529	Mesarč Andrej r. Mesarč	3	1	641,644
+2529	Mesarč Ján		1	707,815,825,826
+2529	Mesarč Ján	2	1	815,825
+2529	Mesarč Ján	3	1	707,815,825
+2529	Mesarč Ján r. Mesarč		1	737
+2529	Mesarč Ján r. Mesarč	2	1	641,658,737,738,847
+2529	Mesarč Ján r. Mesarč	3	1	641,644
+2529	Mesarč Ján r. Mesarč	Kysak	1	641,644,690,738,847
+2529	Mesarč Juraj		1	630,707,711,738,815,825,826,837,838,847
+2529	Mesarč Juraj r. Mesarč		1	641,644,658,683,737
+2529	Mesarč Juraj r. Mesarč	2	1	683
+2529	Mesárč Ondrej r. Mesárč		1	683
+2529	Mesaros Michal r. Mesaros		1	658
+2529	Mésaroš Andrej		1	566
+2529	Mésaroš Andrej r. Mésaroš		1	685,724,739
+2529	Mesaroš Ján	maloletý	1	630,688,815,825,826,837,838
+2529	Mesaroš Ján	nezl	0	707
+2529	Mesaroš Ján	nezletilý	1	815,825,826
+2529	Mesároš Ján	mal	0	707
+2529	Mésaroš Ján	mladší	1	566,697
+2529	Mesaroš Ján r. Mesaroš	nezl	1	737,738,847
+2529	Mesaroš Ján r. Mesaroš	nezletilý	1	641,644,658
+2529	Mesároš Ján r. Mesároš	maloletý	1	641,644,683,737
+2529	Mésaroš Ján r. Mésaroš	ml	1	685,724,739
+2529	Mesaroš Juraj	Kysak 211	1	815,826
+2529	Mésaroš Juraj		1	566
+2529	Mesaroš Juraj r. Mesaroš	Kysak 211	1	658,737,738,847
+2529	Mésaroš Juraj r. Mésaroš		1	685,724,739
+2529	Mesaroš Juraj r. Mesaroš, Kysak 211, Kysak, PSČ 044 81, SR		1	644
+2529	Mesaroš Juraj, Kysak 211, Kysak, PSČ 044 81, SR		1	630,707,837,838
+2529	Mésaroš Mária r. Semančík	manž. Michal Mésaroš	1	644,826
+2529	Mesarošová Anna r. Gajdoš		1	641,644,670,707,815,825,826
+2529	Mesárošová Maria r. Semančíková	muž Michal	1	676
+2529	Mesárošová Mária r. Semančíková		1	644,684,826
+2529	Mesrač Ján	3	1	826
+2529	Meszaros Jan	mladši	1	707,711,815,825,826
+2529	Meszaros Jan r. Meszaros	mladší	1	641,644,665,671,679,690
+2529	Meszaros Jozef		1	630,707,815,825,826,837,838
+2529	Meszaros Jozef r. Meszaros		1	641,644
+2529	Meszaros Mathias		1	630,641,707,815,825,826,837,838
+2529	Meszaros Mathias r. Meszaros		1	644,658,737,738,847
+2529	Meszároš Ján		1	630,688,707,815,825,826,837,838
+2529	Meszároš Ján r. Meszároš	Kysak	1	641,644,737
+2529	Meszároš Štefan	mal	0	707
+2529	Meszároš Štefan	maloletý	1	815,825,826
+2529	Meszároš Štefan	maloletý, Gelnica	1	630,688,837,838
+2529	Meszároš Štefan r. Meszároš	maloletý	1	737
+2529	Meszároš Štefan r. Meszároš	maloletý, Gelnica	1	644
+2529	Mikovčik Andrej		1	661,680,687,707,815,825,826
+2529	Mikovčik Andrej	2	1	680,687,740,815,825,826
+2529	Mikovčik Andrej	maloletý	1	661,687
+2529	Mikovčik Andrej	ml	1	680,707,815,825
+2529	Mikovčik Andrej	mladší	1	826
+2529	Mikovčik Andrej r. Mikovčik		1	641,644,740
+2529	Mikovčik Andrej r. Mikovčik	2	1	641,644
+2529	Mikovčik Andrej r. Mikovčik	ml	1	641,644,740
+2529	Mikovčík Ondrej		1	672
+2529	Mikovčík Ondrej	mal	1	672
+2529	Mikovčík Štefan		1	672
+2529	Mikovičová Anna r. Semančík		1	641,644,707,815,825,826
+2529	Mrazsiková Mária r. Kovacs		1	641,644,666,701,707,778,813,815,820,825,826,827,828
+2529	Olejnik Ján	Rudohorské námestie 5/1, Košice	1	826
+2529	Olejnik Ján	Rudohorské námestie, 5/1, Košice	1	815
+2529	Olejnik Ján r. Olejnik, Rudohorské námestie 5/1, Košice, PSČ 040 01, SR		1	644,663
+2529	Olejnik Ján, Rudohorské nám. 5/1, Košice, PSČ 040 01, SR		0	707
+2529	Olejnik Ján, Rudohorské námestie 5/1, Košice, PSČ 040 01, SR		1	705
+2529	Olejniková Anna r. Pivovarnik		1	707,815,825,826
+2529	Olejniková Anna r. Pivovarnik	Veľká Lodina	1	641,644,663,705
+2529	Oroszová Mária r. Adzima		1	641,644,665,671,679,690,707,815,825,826
+2529	Oruzsinszká Dorota r. Kvaka		1	699
+2529	Oruzsinszki Andrej	mlad	1	699
+2529	Oružinská Alžbeta r. Kováč		1	673,680,707
+2529	Oružinský Ján		1	826
+2529	Oružinský Ján	2	1	826
+2529	Oružinský Ján	maloletý, Kysak 204	1	815,826
+2529	Oružinský Ján	syn Anreja	1	705
+2529	Oružinský Ján r. Oružinský	2	1	644
+2529	Oružinský Ján r. Oružinský	maloletý, Kysak 204	1	644
+2529	Oružinský Ján, Kysak 204, Kysak, PSČ 044 81, SR	mal	0	707
+2529	Oružinský Ján, Kysak 204, Kysak, PSČ 044 81, SR	maloletý	1	663,705
+2529	Oružiský Ján r. Oružinský		1	644
+2529	Pajcsaková Anna	2	1	641,644,669,707,806,815,825,826
+2529	PAJCSAKOVÁ Anna		1	636,707,718,815,825,826
+2529	Pajcsáková Anna	Malá Lodina	1	641,644,669,806
+2529	Pajcsáková Anna r. Pajcsáková	maloletá	1	718
+2529	Pivovarník Ján	Kysak 219, manželka Mária r.Benišová	1	815,826
+2529	Pivovarník Ján r. Pivovarník	manželka Mária r.Benišová, Kysak 219	1	644
+2529	Pivovarník Ján, Kysak 219, Kysak, SR	ž.Mária r.Benišová	0	707
+2529	Pivovarniková Mária r. Beniš		1	641,644,707,815,825,826
+2529	Sedlák Michal		1	648
+2529	Sedláková Maria r. Slavská		1	648
+2529	Semačik Juraj		1	815
+2529	Semačik Juraj r. Semačik		1	644
+2529	Seman Ján		1	672,673,680,707,811,815,825,826
+2529	Seman Ján r. Seman		1	634,641,644
+2529	Semančík Andrej	manž. Mária	0	707
+2529	Semančik Juraj	2	1	682,707,815,825,826
+2529	Semančík Juraj		1	656,699,707,815,825,826
+2529	Semančík Juraj	3	1	721
+2529	Semančik Juraj r. Semančik		1	641,644
+2529	Semančík Juraj r. Semančík	2	1	641,644,656
+2529	Semančík Matej		1	707,815,825,826
+2529	Semančík Matej	2	1	815,825,826
+2529	Semančík Matej r. Semančík		1	641,644
+2529	Semančík Matej r. Semančík	2	1	641,644
+2529	Semančíková Alžbeta		1	641,643,644,707,815,825,826
+2529	Semančiková Alžbeta r. Beniš		1	641,644,707,815,825,826
+2529	Semančíková Alžbeta r. Pop		1	684
+2529	Semančíková Alžbeta r. Prokopová		1	684
+2529	Semančíková Anna		1	641,643,644,707,815,825,826
+2529	Semančíková Anna r. Lukáč	3, , manžel Juraj Semančík	1	721
+2529	Semančíková Anna r. Vaľa		1	641,644,707,815,825,826
+2529	Semančíková Anna r. Vaľo		1	724
+2529	Semančiková Anna r. Vaľová		1	641,644,690,707,815,825,826
+2529	Semančíková Anna r. Vaľu		1	641,644,707,815,825,826
+2529	Semančíková Elena		1	641,643,644,707,815,825,826
+2529	Semančiková Mária		1	641,643,644,707,815,825,826
+2529	Semančiková Mária r. Lukáčová		1	641,643,644,707,815,825,826
+2529	Semančíková Verona		1	641,643,644,707,815,825,826
+2529	Semanová Anna r. Hercegová		1	636,707,815,825,826
+2529	Semanová Anna r. Hercegová	Kysak	1	641,644,669
+2529	Semanová Anna r. Hergegová	Kysak	1	806
+2529	Semanová Anna r. Kováč		1	641,644,666,707,778,813,815,820,825,826,827,828
+2529	Semanová Mária r. Gajdoš		1	641,644,707,815,825,826
+2529	Senderová Anna r. Vaľo		1	566,685,724,739
+2529	Slavkovská Anna		1	650
+2529	Slavská Anna r. Chovaníková		1	650
+2529	Slavská Verona Hela	Partizánska 4, Margecany	1	815
+2529	Slavská Verona Hela r. Gajdoš	Partizánska 4, Margecany	1	826
+2529	Slavská Verona Hela r. Gajdoš, Partizánska 4, Margecany, PSČ 055 01, SR		1	633,644,707
+2529	Slavský Ján	manželka Verona Gajdošová	1	633,815,825,826
+2529	Slavský Ján	ž. Verona Gajdošová	0	707
+2529	Slavský Ján r. Slavský	manželka Verona Gajdošová, Margecany	1	641,644
+2529	Sončíková Mária r. Liška	Malá Lodina	1	706
+2529	SVATOVÁ Alžbeta r. Pajčák		1	636
+2529	Szemancsik Ján	2	1	715
+2529	Szemancsik Juraj		1	667,675
+2529	Szemancsik Juraj	2	1	714
+2529	Szemancsik Juraj r. Szemancsik		1	558,559,560
+2529	Szemancsiková Alžbeta r. Kupecz	manžel Juraj Szemancsik, , 2	1	714
+2529	Szemancsiková Anna r. Terifaj		1	641,644,707,815,825,826
+2529	Šoffová Alžbeta r. Semančiková		1	815,825,826
+2529	Šoffová Alžbeta r. Semančiková	Kavečany	1	641,644,659
+2529	Tkačiková Verona		1	641,644,648,707,815,825,826
+2529	Tkats Jakub		1	722
+2529	Tomčíková Mária	ml	1	641,644,707,749,815,825
+2529	Tomčíková Mária	mladšia	1	826
+2529	Tomčíková Maria r. Baľák	Kysak	1	716
+2529	Tomčíková Mária r. Beľak		1	655,707,815,825,826
+2529	Tomčíková Mária r. Beľak	Kysak	1	641,644,716,749
+2529	Tomčíková Mária r. Tomčíková	maloletá	1	655
+2529	Valya Ján		1	725
+2529	Valya Matej		1	725
+2529	Valya Michal		1	707,725,815,825,826
+2529	Valya Michal r. Valya		1	641,644
+2529	Vasko Anna r. Mesáros		1	683
+2529	Vašková Anna r. Mesaroš	2	1	707,815,825
+2529	Vašková Anna r. Mesaroš	2 Malá Lodina	1	668
+2529	Vašková Anna r. Mesaroš	2, Malá Lodina	1	641,644
+2529	Vašková Anna r. Mesaroš	Malá Lodina	1	641,644,658,738,847
+2529	Vašková Anna r. Mesároš		1	566,641,644,665,671,679,685,690,697,707,711,724,737,739,815,825,826
+2529	Vašková Anna r. Mesaroš, 044 81, Malá Lodina, SR		1	630,837,838
+2529	Vašková Anna r. Mesárošová	Malá Lodina	1	697
+2529	Vulová Mária r. Mesárošová		1	697
+2529	Zavoda András		1	707,717,815,825,826
+2529	Zavoda András r. Zavoda		1	641,644
+2529	Zavoda János		1	707,717,815,825,826
+2529	Zavoda János r. Zavoda		1	641,644
+2530	BALINOVÁ Terézia r. Klimentová		0	742,948
+2530	Brťka Ján	Argentína	0	742,948,976,977,1203
+2530	Brťka Ján	m.Barbora Brťková	0	742,767,948,997,1088
+2530	BRŤKOVÁ Anna r. Smedová		0	599
+2530	BRŤKOVÁ Barbora r. Brťková	manž.Ján	0	742,948,997
+2530	BRŤKOVÁ Mária r. Plešková		0	803
+2530	Čeman Ján	m.Mária r. Králiková	0	983
+2530	Čeman Ján	m.Mária r. Varecová	0	1079
+2530	Čeman Ján	m.Mária r.Varecová	0	1068
+2530	ČMELÍKOVÁ Elena	ul.Verdiho č.152/2,PSČ 711 00 Ostrava-Hrušov,ČR	0	742,948
+2530	Dudáš Antón	m.Anna r. Smedová	0	867
+2530	ĎURČÍKOVÁ Anna r. Nvotová	ul.Cintorínska, Lučenec	0	742,924,925,948,1083
+2530	FAJČÍKOVÁ Mária r. Ivaničová		0	742,948,1047
+2530	FÍZEĽOVÁ Anna r. Fízeľová		0	767
+2530	Jamnický Ján	Divín	0	1058
+2530	KLIMÁKOVÁ Barbora r. Klimentová		0	575
+2530	Kliment Ondrej	m. Mária r. Kelementová	0	767
+2530	KLIMENTOVÁ Anna r. Križová		0	1080
+2530	Králik Ján	manž. Katarína r. Smedová	0	767
+2530	KRIŽOVÁ Anna r. Rajková		0	703
+2530	Kucej Štefan	manž. Anna r. Španielková	0	767
+2530	Líška Ján	Ďurove,manž.Katarína r.Mihalčiaková	0	742,948,1006
+2530	Líška Jozef	slob	0	579,742,902,903,905,906,907,948
+2530	Líška Pavel	m.Katarína r.Brťková	0	767
+2530	LÍŠKOVÁ Katarína r. Španielková		0	1102
+2530	LÍŠKOVÁ Mária r. Smadová		0	1106
+2530	Martinský Ján	m.Anna Klimentová	0	767,1098
+2530	PANIKOVÁ Mária r. Ivaničová		0	742,948
+2530	Paprnáková Anna r. Pentková		0	742,767,948
+2530	Rajko Jozef	m.Anna r.Ďalogová	0	703,940,941
+2530	RAJKOVÁ Mária		0	742,948,1044
+2530	Smado Ján		0	1070
+2530	Smadová Katarína r. Harauzová	vdova	0	1078,1079
+2530	Smedo Jozef	m.Anna Sujová	0	742,948,1072
+2530	Ševčíková Barbora r. Španielková		0	824
+2530	Španielková Katarína r. Kralinová		0	742,948
+2530	ŠUHAJOVÁ Anna r. Žilková		0	767
+2530	Tušim Ján	starší; starší	0	767
+2530	ŽILKOVÁ Mária r. Černá		0	742,948,1066,1081
+2531	AUGUSTÍN Viliam		0	366
+2531	AUGUSTÍNOVÁ Františka r. Koleková		1	765
+2531	BABIC Oliver		0	774

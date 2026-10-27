@@ -1,0 +1,256 @@
+265	Goffus Štefan		1	1720
+265	Gofus Michal		1	2153
+265	Gofus Mikuláš		1	2158
+265	Gofusová Alžbeta r. Eľková		1	2158
+265	Gofusová Anna r. Maďarová		1	2153
+265	Gofusová Zuzana r. Vargočiková, SR		1	2158
+265	Guba Ján r. Saboslay, SR		1	1935
+265	Guba Saboslai Ján, SR		1	2215
+265	Guba Saboslai Mikuláš, SR		1	2214
+265	Gubová Mária r. Hirková, SR	m. Ján	1	1060
+265	Gubová Mária r. Hirková, SR	m. Ján; m. Ján	1	2204
+265	Guttman Július, SR		1	1996,2483
+265	Guttmanová Žofia r. Grünbergerová, SR		1	1996
+265	Hajník Michal		0	1624,1625,2870
+265	Hakošová Mária r. Belanová, SR	m. Ján	1	188,2776
+265	Harbuľák Andrej		1	1268,2354
+265	Harbuľák Andrej, SR		1	1162
+265	Harbuľák Andrej, SR	ž.Mária r.Gonciová	1	474
+265	Harbulák Ján, SR	Iľko; Iľko	1	2334
+265	Harbuľák Juraj	ž.Anna r.Beľanová	0	2070
+265	Harbuľák Michal, SR	ž.Anna r.Bredová	1	125
+265	Harbulák Pavol, SR		1	197
+265	Harbuľák Štefan, SR	sc 142-staré, Pistarnok; sc 142-staré, Pistarnok	1	2082
+265	Harbuľák Štefan, SR	ž.Mária r.Pradová	1	125
+265	Harbuláková Anna r. Belanová, SR	m. Juraj	1	188,2776
+265	Harbuľaková Anna r. Belanová, SR		1	2158,2178
+265	Harbuľáková Anna r. Beľanová, SR	m. Juraj; m. Juraj	1	2070
+265	Harbuľáková Anna, SR		1	1616
+265	Harbuľáková Iľková Mária	mal	1	1903
+265	Harbuľáková Mária r. Gajdošová		1	1899
+265	Harbuľáková Mária r. Gencová, SR		1	1268
+265	Harbuláková Mária r. Gensová		0	2354
+265	Harbuľáková Mária r. Harbuľáková, SR		1	2314
+265	Harbuľáková Mária r. Petrová, SR		1	393
+265	Harbuľáková Mária, SR		1	474,966,1444,1616,2910
+265	Hirko Ján, SR	syn Jozefa	1	1060,2204
+265	Hirko Jozef, SR		1	1863
+265	Hirko Jozef, SR	ž.Zuzana r.Jenčíková	1	125
+265	Hirko Michal, SR	ž.Anna r.Andriščinová	1	1060,2204
+265	Hirko Štefan, SR	syn Jozefa	1	1060,2204
+265	Hirková Anna, SR	dcéra Jozefa	1	1060,2204
+265	Hojdilová Mária r. Mrázová, SR		1	125
+265	Horňák Andrej		1	621
+265	Horňák Michal, SR	slob./otec Andrej/ 28.11.1924; slob./otec Andrej/ 28.11.1924	1	1948
+265	Horňák Štefan, SR		1	69
+265	Horňáková Anna r. Kovaľová, SR	m. Andrej, 29.8.1900; m. Andrej, 29.8.1900	1	1753
+265	Horňaková Mária r. Mrázová, SR		0	2518
+265	Horňáková Mária r. Mrázová, SR	m. Ján / 24.12.1918/	1	1757
+265	Horňáková Mária r. Ondovčiková, SR		1	1436
+265	Horvátová Anna r. Benetinová, SR		1	2137
+265	Hrehová Helena r. Varjuová, SR		1	1990
+265	Hreško Andrej, SR		1	197,994
+265	Hric Ján a Anna Hricová r. Korinková		0	1068
+265	Hric Michal, SR		1	2124
+265	Hric Michal, SR	ž.Anna r.Šimková	1	188,2776
+265	Hricová Alžbeta r. Bertová, SR		1	2124
+265	Hrindová, SR		1	125
+265	Hromanik Imrich, SR	syn Michal	1	188,2776
+265	Hromanik Štefan, SR	ž.Anna r.Šaffová	1	188,2776
+265	Hubič Michal, SR	ž.Mária r.Zajacová; ž.Mária r.Zajacová	1	1820
+265	Hubičová Mária r. Zajacová, SR	m. Michal/ m. Michal/	1	1820
+265	Hvižďaková Mária r. Budaiová		1	1654
+265	Hvižďáková Mária r. Budaiová, SR		1	125,1124
+265	Hyráková Mária r. Palková		0	2676
+265	Hyráková Mária r. Paľková, SR		1	968,969
+265	Ihnátová Anna r. Lörincová, SR	m. Michal	1	1648
+265	Iľková Anna r. Hricová, SR		1	2334
+265	Iľková Anna r. Hricová, SR	vd., m. Mikuláš	1	1444,2910
+265	Iľková Anna r. Hricová, SR	vdova, m. Mikuláš	1	966
+265	Irchová Mária r. Virčiková, SR		1	2387
+265	Isa Michal, SR		1	2281,2306
+265	Iške Ján, SR		1	2435
+265	Ivan Michal, SR	ž.Mária r.Dušenicová	1	188,2776
+265	Ivanová Anna r. Gajdošiková, SR		1	2158
+265	Jacková Božena, SR		1	2328
+265	Jacková Júlia, SR		1	2347
+265	Jacková Marta, SR		1	2328
+265	Jackulič Michal	ž.Anna r.Jenčiová	0	2046
+265	Janošik Imrich, SR		1	2158,2162,2650,2651
+265	Jánošík Imrich, SR	ž.Mária r.Šaffová	1	188,2776
+265	Janošiková Mária r. Šaffová, SR		1	2158
+265	Janošiková Zuzana r. Čurmová, SR		1	1364,2158
+265	Janusko Mikuláš	ž.Zuzana r.Osifová	0	2042
+265	Janusková Zuzana r. Osifová, SR	m. Mikuláš	1	1021,2042
+265	Jenčiová Barbora r. Vojníková, SR		1	125
+265	Jeremiak Michal, SR		1	2112
+265	Jeremiaková Anna r. Benková, SR		1	2112
+265	Juhasová Anna r. Kišiková, SR		1	188,2776
+265	Juhaščik Jozef, SR	ž.Mária r.Jenčová 19.3.1909; ž.Mária r.Jenčová 19.3.1909	1	1810
+265	Juhaščiková Mária r. Jenčová, SR	m. Jozef, 19.6.1906; m. Jozef, 19.6.1906	1	1810
+265	Juraj Štefan, SR	ž.Anna r.Mrázová 23.11.1908; ž.Anna r.Mrázová 23.11.1908	1	1759
+265	Jurajová Anna r. Mrázová, SR	m. Štefan, 28.1.1911; m. Štefan, 28.1.1911	1	1759
+265	Jusková Zuzana r. Tkáčová, SR	m. Michal	1	1271,2684
+265	Kállai Juraj, SR		1	197
+265	Kállaiová Anna r. Szalokyová, SR		1	197
+265	Kallay Andrej, SR		1	197
+265	Kállay Juraj, SR		1	2379
+265	Kállayová Anna r. Szalokyová, SR		1	2379
+265	Kanalaš Jozef, SR		1	2448
+265	Kanaval Jozef	syn Michala; syn Michala	1	625
+265	Kanaval Jozef, SR		1	441,625,627
+265	Kanaval Jozef, SR	syn Michala	1	441
+265	Kanaval Juraj, SR		1	1703
+265	Kanavalová Anna r. Vojníková, SR		1	125
+265	Kanavalová Mária r. Micaková, SR		1	1703
+265	Kanavalová Mária r. Miklošová, SR	m. Andrej	1	998
+265	Kanda Andrej, SR		1	1878
+265	Kandiľáková Irena		1	289
+265	Kandová Mária r. Pleceniková, SR		1	1878
+265	Kasincová Anna, SR		1	1346
+265	Kasinec Michal, SR		1	1346
+265	Kaszonio Jozef, SR		1	2296
+265	Kaščák Július	ž.Alžbeta r.Kičinková	0	2041
+265	Kaščáková Alžbeta r. Kičinková, SR	m. Július; m. Július	1	2041
+265	Kičinka Ján	ž.Anna r.Budišová	0	2045
+265	Kičinka Ján, SR	ž.Mária r.Budišová 11.1.1909; ž.Mária r.Budišová 11.1.1909	1	1797
+265	Kičinka Jozef, SR	ž.Mária r.Harbuľáková 13.3.1922; ž.Mária r.Harbuľáková 13.3.1922	1	1788
+265	Kičinko Ján, SR		1	1992
+265	Kičinková Anna r. Budišová, SR	m. Ján; m. Ján	1	2045
+265	Kičinková Mária r. Budišová, SR	m. Ján; m. Ján	1	1797
+265	Kišík Andrej, SR	ž.Barbora r.Andrišová	1	188,2776
+265	Kišik Michal, SR	ž.Anna r.Novotňáková	1	1604
+265	Kišik Štefan, SR	syn Michala	1	188,2776
+265	Kišík, SR	ž.Anna r.Novotňáková	1	188,2776
+265	Kišiková Alžbeta r. Paľová, SR		1	1739
+265	Kišiková Alžbeta r. Praščáková, SR		1	1739
+265	Kišiková Anna r. Paľková, SR	m. Ján	1	968
+265	Klanica Michal	ž.Barbora r.Pastiráková	0	2084
+265	Klanicová Barbora r. Pastiráková, SR	m. Michal; m. Michal	1	2084
+265	Klučková Alžbeta r. Klanicová, SR		1	125
+265	Klučková Júlia r. Šutai Eštoková, SR	m. Michal	1	986
+265	Klučková Júlia r. Šutaj Eštok, SR		1	125
+265	Kmec Šutai Michal, SR		1	1000
+265	Kocková Barbora r. Bujaloš - Kovaľová, SR		1	2261
+265	Kocunová Anna r. Vagaská		0	2157
+265	Kocunová Mária r. Urbanová, SR		1	2158
+265	Kočišová Mária r. Ysaová, SR		1	2302
+265	Kontul Ján, SR		1	2380
+265	Kontuľa, SR		1	197
+265	Kontuľová Anna r. Granatová, SR		1	197,2380
+265	Korbulcová Barbora, SR	dcéra neb. Michala; dcéra neb. Michala	1	1804
+265	Koreň Michal, SR		1	1226
+265	Koreňová Anna r. Ivanová, SR		1	2327
+265	Koreňová Anna r. Šramová		0	1852
+265	Korinok Juraj, SR	ž.Mária r.Kertésová	1	271
+265	Kostičák Pavol	ž.Mária r.Štefanová	0	2054
+265	Kostičáková Mária r. Štefanová, SR	m. Pavol	1	234
+265	Kostičáková Mária r. Štefanová, SR	m. Pavol; m. Pavol	1	2054
+265	Kostočíková Barbora, SR		1	1498,2685,2753
+265	Kostovčík Andrej, SR	syn Jána	1	474
+265	Kostrejová Barbora r. Poprendová, SR		1	1875
+265	Kostsánszka Ildikó r. Kovácsová, Svinica, č. 47, PSČ 044 45, SR		1	2465
+265	Kováč Michal, SR		1	1855
+265	Kováčová Barbora r. Hrešková, SR		1	2465
+265	Kováčová Mária r. Hurčiková, SR		1	1855
+265	Kovaľ Ján		1	1602
+265	Kovaľ Ján	ž.Anna r.Lorincová	0	2037
+265	Kovaľ Ján, SR		1	1600,1601
+265	Kovaľ Ján, SR	ž.Anna r.Kovaľová 6.3.1905; ž.Anna r.Kovaľová 6.3.1905	1	1758
+265	Kovaľ Juraj, SR		1	2363
+265	Kovaľ Michal, SR		1	1603,2310,2389,2396
+265	Kovalik Michal, SR		1	2077
+265	Kovaliková Mária r. Brugašová, SR		1	2077
+265	Kovaliková Mária r. Brugošová, SR		1	943,2819
+265	Kovaľová Anna r. Kovaľová, SR	m. Ján, 11.5.1909; m. Ján, 11.5.1909	1	1758
+265	Kovaľová Anna r. Lorincová, SR	m. Ján; m. Ján	1	2037
+265	Kovaľová Barbora r. Horňaková, SR		1	1280
+265	Kovaľová Barbora, SR	vd. 13.1.1891; vd. 13.1.1891	1	1771
+265	Kovaľová Mária r. Gubová, SR		1	2389
+265	Kovaľová Mária r. Pandoščáková, SR	vd.po Jozefovi, 1910; vd.po Jozefovi, 1910	1	2076
+265	Kovaľová Mária r. Šubová, SR		1	2396
+265	Kovaľová Zuzana r. Bredová, SR		1	2363
+265	Koziot Michal, SR	ž.Anna r.Kondra 5.1.1911; ž.Anna r.Kondra 5.1.1911	1	1806
+265	Koziotová Anna r. Kondrová, SR	m. Michal, 12.3.1916; m. Michal, 12.3.1916	1	1806
+265	Krecman Pavel, SR		1	1723,2158
+265	Krecmanová Zuzana, SR		1	1723,2158
+265	Kuchár Július, SR		1	1748,2312
+265	Kuchár Július, SR	ž.Anna r.Kičinková 21.10.1903; ž.Anna r.Kičinková 21.10.1903	1	1961
+265	Kuchárová Anna r. Kičinková, SR		1	492,1628,1748,2312
+265	Kuchárová Anna r. Kičinková, SR	m. Július; m. Július	1	1961
+265	Kuchta Andrej, SR		1	125
+265	Kuchta Ján, SR	ž.Mária r.Bubnárová; ž.Mária r.Bubnárová	1	2043
+265	Kuchta Ján, SR	ž.Mária r.Čižmárová; ž.Mária r.Čižmárová	1	1822
+265	Kuchta Ondič Michal, SR		1	2019
+265	Kuchta Štefan, SR		1	125
+265	Kuchtová Barbora r. Čižmarová, SR		1	2019
+265	Kuchtová Mária r. Bubnárová, SR	m.Ján; m.Ján	1	2043
+265	Kuchtová Mária r. Čižmárová, SR	m. Ján; m. Ján	1	1822
+265	Kundračová Zuzana r. Hrešková, SR		1	2465
+265	Kundročová Zuzana		1	2465
+265	Kušnír Andrej, SR	ž.Zuzana r. Sirodimová	1	188,2776
+265	Kušnirová Anna r. Feňušová, SR		1	125,1705
+265	Kušnírová Mária r. Feňušová, SR	m. Pavol	1	188,2776
+265	Kušnirová Mária r. Guľová, SR		1	2158
+265	Labik Juraj, SR	ml.; ml	1	2459
+265	Labik Štefan, SR		1	2485
+265	Labíková Anna r. Siksová, SR		1	672
+265	Labiková Mária r. Hricová		1	1903
+265	Labiková Mária r. Hricová, SR		1	2332
+265	Lakatoš Imrich, SR		1	2294,2308
+265	Lakatoš Michal, SR		1	2290
+265	Lakatošová Piroška r. Vargová, SR		1	2293
+265	Lastomirská Mária r. Bajužiková, SR		1	1260
+265	Loch Michal, SR		1	1692
+265	Lochová Alžbeta r. Eštoková, SR		1	1692
+265	Ľochová Mária r. Pazderáková, SR		1	1689
+265	Lorinčáková Mária r. Harbuľáková, SR		1	474
+265	Ložanský Gejza	ž.Mária r.Luková	0	1980
+265	Luk Štefan, SR		1	125
+265	Lukáč Michal, SR		1	1046,2490
+265	Lukáč Štefan, SR	ž.Mária r.Feriková	1	188,2776
+265	Lukáčová Anna r. Petrová, SR		1	2490
+265	Lukáčová Anna r. Petrová, SR	m. Michal	1	1046
+265	Luková Mária r. Šamudovská, SR		1	125,1288
+265	Luková Zuzana r. Gubová, SR	vd.po Mikulášovi, 1896; vd.po Mikulášovi, 1896	1	2075
+265	Macková Mária r. Feriková, SR	m. Ján	1	1242
+265	Maďar Štefan, SR		1	2398
+265	Marcin Michal, SR		1	2158
+265	Mariščák Juraj	ž.Anna r.Berinšterová	0	2047
+265	Mariščák Juraj, SR	ž.Anna r.Berišter 30.1.1903; ž.Anna r.Berišter 30.1.1903	1	1979
+265	Mariščáková Anna r. Berinšterová, SR	m. Juraj; m. Juraj	1	2047
+265	Mariščáková Anna r. Berišterová, SR	m. Juraj, 19.1.1904; m. Juraj, 19.1.1904	1	1979
+265	Matiková Zuzana r. Pastirová, SR		1	2476
+265	Matiová Anna, SR		1	2158
+265	Matiová Mária r. Moskáľová, SR	m. Ján	1	188,2776
+265	Mattiová Anna r. Kovaľová, SR		1	2179
+265	Mattová Mária r. Novotňáková, SR		1	717,718,719,720
+265	Mattová Mária r. Ondiková, SR	m. Juraj	1	621
+265	Mattová Mária r. Ondiková, SR	m.Juraj	1	125
+265	Medvec Andrej, SR		1	2321
+265	Medvec Michal, SR		1	788,1856,2206,2320,2321
+265	Medvec Michal, SR	ž.Anna r. Belanová	1	188,2776
+265	Medvecová Anna r. Belanová, SR		1	2120
+265	Micák Ján, SR	ž.Mária r.Feňušová	1	188,2776
+265	Mihalčová Zuzana r. Kažimirská, SR	m. Andrej	1	223
+265	Mihalčová Zuzana r. Kažimirská, SR	m. Juraj	1	222
+265	Mihaľo Ján, SR		1	125,1321,1419
+265	Mihalov Juraj, SR		1	1930
+265	Michalková Anna r. Klanicová, SR	m.Michal	1	125,143
+265	Mikloš Ján, SR		1	1618,2879
+265	Mikloš Ján, SR	mal.; mal	1	124
+265	Mikloš Ján, SR	nezl. vzd	1	998
+265	Mikloš Ján, SR	vzd.mal	1	125
+265	Mikloš Ján, SR	ž.Mária r.Pavlová	1	442
+265	Mikloš Michal		1	1186,2890
+265	Mikloš Michal, SR		1	197,1185,2192,2373
+265	Mikloš Michal, SR	ž.Júlia r.Semanová	1	124,998
+265	Mikloš Štefan, SR	ž.Šarlota r.Zacná	0	998
+265	Miklošová Alžbeta r. Palinská, SR		1	2391
+265	Miklošová Júlia r. Vojniková, SR		1	2014
+265	Miklošová Júlia, SR		1	998
+265	Miklošová Júlia, SR	dcéra Štefana	1	124,998,1618,2879
+265	Miklošová Júlia, SR	mal	1	125
+265	Miklošová Mária r. Kováčová, SR		1	197,2373
+265	Miklošová Mária r. Nováková, SR		1	1618,2879
+265	Miklošová Zuzana	dcéra Pavla	1	608,609

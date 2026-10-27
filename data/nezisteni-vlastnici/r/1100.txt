@@ -1,0 +1,256 @@
+641	Zúbek Jozef	Mária	0	1682,1873,1875,1876
+641	Zúbek Jozef	Mária,Fačkov 7	0	2890
+641	Zúbek Jozef	rod.Zúbek,zom.1.10.2012,Fačkov 13	0	2900
+641	Zúbek Jozef	syn Floriána	0	2863,2983
+641	Zúbek Jozef	ž.Štefánia r.Čerňancová,zom.25.7.1976	0	2890
+641	Zúbek Juraj	Žofia	0	1682,1873,1875,1876
+641	Zúbek Juraj	Žofia,Fačkov 16	0	2890
+641	Zúbek Ladislav		0	1083,1084
+641	Zúbek Ladislav	súr.Žofia,Jozefína,Mária	0	391,3440
+641	Zúbek Michal	Františka,Fačkov 6	0	2890
+641	Zúbek Ondrej	Ded. 1900, I	0	3675
+641	Zúbek Ondrej	Mária	0	1682,1873,1875,1876
+641	Zúbek Ondrej	Mária,Fačkov 236	0	2890
+641	Zúbek Ondrej	ž.Mária r.Kuričová	0	2929
+641	Zúbek Pavel	Alojzia,Fačkov 288	0	2890
+641	Zúbek Pavol	1	0	2830
+641	Zúbek Pavol	ded. 1905, VIII	0	1465
+641	Zúbek Pavol	ded. 1906, IV	0	1360
+641	Zúbek Pavol	Mária,Fačkov 186	0	2890
+641	Zúbek Pavol	súr.Gustav,Mária	0	2739,2740,2827,3441
+641	Zúbek Pavol	ž.Mária r.Štefíková,zom.24.10.1958	0	2961,2963,2971,3369,3370,3381
+641	Zúbek Peter		0	3481
+641	Zúbek Stanislav	zom.20.11.2008,Fačkov 39	0	660,1646,1648
+641	Zúbek Šimon		0	2892
+641	Zúbek Šimon	ded. 1904, I	0	1059
+641	Zúbek Šimon	ded. 1933, II	0	1112
+641	Zúbek Štefan	Anna,Fačkov 38	0	2890
+641	Zúbek Štefan	Ded. 1944, I	0	3471,3705
+641	Zúbek Štefan	Jozefína,Fačkov 185	0	2890
+641	Zúbek Štefan	zom.22.12.1981,Fačkov 53	0	1498
+641	Zúbek Štefan	ž.Jozefína r.Štefíková	0	2739,2740,2827,2830,2842,2864,2866,2867,2982,3441
+641	Zúbek Štefan	Žofia	0	1682,1873,1875,1876
+641	Zúbek Štefan	Žofia,Fačkov 243	0	2890
+641	Zúbek Urban		0	1032,1055,1066,1108,1109,1110,1123,1167,1168,1384,1389,1845,2084,2085,2086,2087,2088,2100,2118,2289,2290,3471,3705,3755
+641	Zúbek Urban	ž.Mária r.Kašubová	0	2864,2866,2867,2982
+641	Zúbek Vincent		0	2903
+641	Zúbek Vincent	1	0	2902
+641	Zúbek Vincent	brat Ján	0	2902
+641	Zúbek Vincent	ded. 1900, VI	0	824,3684,3713
+641	Zúbek Vincent	ded. 1903, II	0	824,3684,3713
+641	Zúbek Vincent	ded. 1907, I	0	819,820,829,853,1915,1935,2039,2428,2431,3684,3713
+641	Zúbek Vincent	ž.Katarína Vrábelová	0	391,2864,2866,2867,2982,3440
+641	Zubeková Róza	Sutiaková	0	1342
+641	Zúbková Anna	rod.Holbičková,zom.9.3.1971,Fačkov 38	0	2765,2766,2908
+641	Zúbková Anna r. Holbičková	Ded. 1932, VI	0	3471,3755
+641	Zúbková Cecília	Fačkov 236	0	2890
+641	Zúbková Cecília	rod.Hollá,zom.1969	0	2864,2866,2867,2982
+641	Zúbková Cecília, 013 16 Fačkov č.236		0	1682,1873,1875,1876
+641	Zubková Jozefína r. Baránková, 013 16, Fačkov, č. 39, SR		0	924,926,927,937,1042,1056,1151,1157,1158,1479,1480,1481,1487,2078,2283,3314,3329,3330
+641	Zúbková Karolína	ded. 1928, III	0	1321,1344,1413,3164
+641	Zúbková Karolína	ded. 1943, V	0	1318
+641	Zúbková Karolína	ded. 1950, IV	0	1337
+641	Zúbková Katarína	ded. 1930, II	0	1083,1084,1091
+641	Zúbková Katarína	ded. 1934, I	0	1091
+641	Zúbková Mária		0	2864,2865,2868,2892,2982,3450,3834
+641	Zúbková Mária	2	0	2892
+641	Zúbková Mária	č.d. 6/1903 dedenie	0	3450
+641	Zúbková Mária	ded. 1887, III	0	1035,1049,1055,1066,1167,1845,2084,2085,2087,2100,2118,2262,2263,2289,2290,2502,3300,3342,3344,3471,3755
+641	Zúbková Mária	ded. 1902, II	0	925,932,936,1055,1059,1066,1110,1121,1123,1168,1613,1845,1929,2084,2085,2088,2100,2118,2226,2227,2289,2290,3206,3244,3247,3251,3289,3297,3361,3363,3424,3426,3471,3755,3837
+641	Zúbková Mária	ded. 1903, VIII	0	925,932,936,1055,1059,1066,1110,1121,1123,1168,1613,1845,1929,2084,2085,2088,2100,2118,2226,2227,2289,2290,3206,3244,3247,3251,3289,3297,3361,3363,3424,3426,3471,3755,3837
+641	Zúbková Mária	ded. 1921, VIII	0	2196,2544
+641	Zúbková Mária	ded. 1929, IX	0	1108,1109,1152,1167,2086,2087,3471
+641	Zúbková Mária	ded. 1929, X	0	1108,1109,1152,1167,2086,2087,3471
+641	Zúbková Mária	ded. 1936, I	0	978,979,1293,1322,1323,1335,1369,1422,1799,1800,1803,1856,1857,1859,1965,1998,2017,2147,2158,2166,2245,2246,2298,2392,2414,2466,2467,2505,2545,2660,2719,3157,3260,3392
+641	Zúbková Mária	ded. 1936, IV	0	1362,1401,1805
+641	Zúbková Mária	Ded. 1939, VI	0	3725
+641	Zúbková Mária	ded. 1939, VII	0	1048
+641	Zúbková Mária	ded. 1942, I	0	1112
+641	Zúbková Mária	ded. 1942, III	0	855,1064,1132,1140,1144,1405,2215,2221,2376,2445,2446,2590
+641	Zúbková Mária	ded. 1943, II	0	2199
+641	Zúbková Mária	ded. 1945, I	0	835,855,857,962,965,966,967,1005,1007,1051,1070,1074,1075,1077,1079,1080,1090,1092,1095,1097,1104,1188,1189,1314,1333,1334,1335,1343,1349,1405,1409,1412,1415,1422,1482,1594,1803,2017,2101,2199,2210,2214,2215,2220,2221,2224,2225,2308,2313,2375,2376,2377,2385,2389,2390,2391,2392,2393,2394,2424,2441,2445,2446,2551,2552,2590,2606,2641,2642,2660,3151,3160,3163,3222,3254,3262,3454,3471,3755,3831
+641	Zúbková Mária	ded. 1945, IV	0	1025
+641	Zúbková Mária	nar.1929	0	1484,2828,2838,2839,2840,2914,2916,3794
+641	Zúbková Mária	rod.Kašubová	0	1484,2828,3794
+641	Zúbková Mária	rod.Kašubová,Fačkov 243	0	2890
+641	Zúbková Mária	rod.Kuričová,m.Ondrej	0	2929
+641	Zúbková Mária	rod.Panáková,zom.5.4.1974	0	1505,2974,3678
+641	Zúbková Mária	rod.Štefíková,m.Pavol,zom.20.12.1977	0	300,660,2782,2959,2961,2963,2969,2971,2974,2977,3369,3370,3381
+641	Zúbková Mária	súr.Nora,Johana	0	2983
+641	Zúbková Mária r. Kašubová, 013 16, Fačkov, č. 243, SR		0	1682,1873,1875,1876
+641	ZUBKOVA MARIA r. KURIŠOVA, SR		0	816,2253,2396,3142,3362
+641	Zúbková Mária r. Mikešová		0	1128,1129,1807
+641	Zubková Mária r. Štefíková		0	1396,1402
+641	Zúbková Mária r. Štefíková	Ded. 1936, I	0	3471,3755
+641	Zúbková Rozália	ded. 1938, I	0	1456
+641	Zúbková Rozália r. Šutáková	Ded. 1905, II	0	3542
+641	Zúbková Štefánia		0	236,1731,2769,2955,3000,3002,3270
+641	Zúbková Štefánia	rod.Čerňancová,zom.21.7.1985,Fačkov 333	0	660,2760,2974
+641	Zúbková Vilma	Fačkov 81	0	2890
+641	Zúbková Žofia	rod.Gambošová	0	259,2775,2901
+641	Zúbková Žofia r. Gambošová		0	912,1016,1057,1062,1064,1065,1113,1119,1132,1133,1140,1144,1146,1218,1220,1236,1250,1252,1255,1256,1353,1355,1373,1378,1381,1383,1464,1471,1839,1992,2109,2110,2119,2164,2165,2264,2339,2360,2368,2470,2475,2478,2546,2578,2579,2580,2597,2604,2618,2619,2630,2670,2733,2735,3082,3093,3096,3097,3212,3253,3325,3353,3360,3388,3389,3390,3471,3755,3797,3800,3807,3808,3809,3810,3814,3815,3821,3822,3823,3824
+641	Zúbková Žofia r. Gambošová, SR		0	825,829,831,832,849,854,883,1915,1934,1935,2033,2039,2102,2431,2643
+641	Zvrškovec Ondrej		0	1484,1682,1875,1876,2828,2840,2914,2916,3794
+641	Zvrškovec Ondrej	1	0	2890
+641	Zvrškovec Ondrej	ded. 1931, I	0	835,855,857,1188,1405,1482,2101,2210,2214,2215,2220,2221,2224,2225,2313,2375,2376,2377,2391,2393,2441,2445,2446,2551,2552,2590,2606,2641,2642,3151,3160,3254,3454,3471,3481,3743,3831
+641	Zvrškovec Ondrej	Ded. 1941, II	0	3471,3743
+641	Zvrškovec Ondrej, SR		0	815,1873,1874
+641	Žáková Matilda		0	912,1201,1218,1220,1221,1373,2422,3471,3755
+641	Žáková Matilda	mal	0	1505
+641	Žiačeková Karolína		0	2808,2920,2997,3767
+641	Žiačeková Karolína	ded. 1917, I	0	872,888,1218,1220,3471,3755
+641	Žiačeková Karolína	ded. 1917, II	0	872,888,912,1218,1220,1373,3471,3755
+641	Žiačeková Karolína	ded. 1947, I	0	912,1373
+642	ADAM Ján	ž.Hrešková	0	792
+642	Adam Ján, , ž.Barlogová ž.Barlogová		0	1507
+642	Adam Ján, , ž.Ďuročíková ž.Ďuročíková		0	1788
+642	Adam Ján, , ž.Hrešková ž.Hrešková		0	2299
+642	ADAMOVÁ Zuzana, , r.Serdiová		0	1896
+642	ALEXOVÁ Anna r. Andrejová, Trhovište, č. 127, SR		0	98
+642	ANDAMIŠÍ Ján		0	1770
+642	Andrejov Andrej		0	98
+642	ANDREJOV Andrej	ml	0	98
+642	Andrejov Ján		0	2035
+642	ANDREJOV Ján	ml	0	98
+642	ANDREJOV Michal	ml	0	98
+642	Andrejov Michal, , ml. ml.		0	1675
+642	Andrejová Anna, , r.Tomková		0	1617
+642	Andrejová Barbora, , r.Jusková		0	2045
+642	ANDREJOVÁ Mária r. Škarupová		0	781
+642	Andrejová Mária, , r.Škarupová		0	2163
+642	BABEROVÁ Alžbeta, , r.Lukáčová		0	1632
+642	BABJAK Andrej, , st. st.		0	2349
+642	Babjak Andrej, SR	ž.Anna r.Hudáková	0	131
+642	BABJAK Ján	ž.Mária Jánošová	0	1098
+642	Babják Ján		0	939,1098,2349
+642	Babják Ján, , matka Anna r.Jánošová matka Anna r.Jánošová		0	1924
+642	BABJAK Ján, , ž.Alžbeta r.Horňáková ž.Alžbeta r.Horňáková		0	2349
+642	BABJAK Ján, , ž.Mária r.Jánošová ž.Mária r.Jánošová		0	1475
+642	BABJAK Michal	ž.Mária Olexová	0	1098
+642	Babják Michal		0	939,1941
+642	Babjak Michal r. Babjak	ž.Anna r.Janošová	0	2328
+642	BABJAK Michal, , ž.Mária r.Olexová ž.Mária r.Olexová		0	1731
+642	BABJAKOVÁ Alžbeta, , r.Horňáková		0	2349
+642	BABJAKOVÁ Anna, , r.Jánošová		0	1964
+642	BABJAKOVÁ Mária r. Jánošová		0	1098
+642	BABJAKOVÁ Mária r. Olexová		0	1098
+642	BABJAKOVÁ Mária, , r.Jánošová		0	2235
+642	BABJAKOVÁ Mária, , r.Olexová		0	1857
+642	BALOČKOVÁ Anna		0	2349
+642	Balogová Júlia, , r.Borková		0	2260
+642	BÁNOCI Ján		0	2200
+642	BÁNOCIOVÁ Barbora, , r.Hrešková		0	2057
+642	BARLOG Andrej	ž.Mária Kotorová	0	778
+642	BARLOG Andrej, , ž.Mária r.Kotorová ž.Mária r.Kotorová		0	1596
+642	BARLOGOVÁ Zuzana, , r.Tomášová		0	2063
+642	BARTÓKOVÁ Relle, , r.Jakubovičová		0	1391
+642	BARTOŠOVÁ Zuzana, , r.Pivarníková		0	1641
+642	BLANÁR Ján	ž.Anna Balogová	0	1098
+642	BLANÁR Ján	ž.Mária Horňáková	0	1098
+642	BLANÁR Ján, , brat Pavol brat Pavol		0	2128
+642	BLANÁR Ján, , ž.Anna r.Balogová ž.Anna r.Balogová		0	2349
+642	BLANÁR Ján, , ž.Mária r.Horňáková ž.Mária r.Horňáková		0	2349
+642	BLANÁR Pavol		0	1031,1709
+642	BLANÁROVÁ Anna r. Balogová		0	1098
+642	Blanárová Anna, , r.Balogová		0	2349
+642	BLANÁROVÁ Mária r. Fedorová		0	1031
+642	BLANÁROVÁ Mária r. Horňáková		0	1098
+642	BLANÁROVÁ Mária, , r.Fedorová		0	2087
+642	BLANÁROVÁ Mária, , r.Horňáková		0	2349
+642	Bobaľová Mária r. Šimková	m.Ján	0	808
+642	BOBAĽOVÁ Mária, , r.Šimková,muž Andrej muž Andrej		0	1708
+642	Bodnár Andrej, , ž.Anna r.Kadotová ž.Anna r.Kadotová		0	2349
+642	Bodnár Michal	ž.Mária r.Lešková	0	2026
+642	BODNÁR Michal	ml	0	569
+642	Bodnár Michal, , ml. ml.		0	1826
+642	Bodnár Michal, , ž.Jolana r.Kočišová ž.Jolana r.Kočišová		0	2253
+642	Bodnár Michal, SR	ž.Jolana r.Kočišová	0	658
+642	BODNÁR Mikuláš	syn Michala	0	569
+642	Bodnár Mikuláš, , syn Michala syn Michala		0	1797
+642	Bodnárik Andrej, , matka Anna r.Zúbková matka Anna r.Zúbková		0	1988
+642	Bodnárik Juraj		0	1871
+642	Bodnáriková Zuzana, , r.Tkáčová		0	1494
+642	BODNÁROVÁ Anna, , r.Kadotová		0	2349
+642	BODNÁROVÁ Mária, , r.Lešková, , muž Michal muž Michal		0	1908
+642	BODNÁROVÁ Mária, , r.Selecká p		0	1528
+642	BODNÁROVÁ Zuzana, , r.Tkáčová,muž.Michal muž.Michal		0	1761
+642	Borko Michal, , mal. mal.		0	1382
+642	BORKOVÁ Alžbeta	dcera Michala	0	1168
+642	BORKOVÁ Alžbeta, , dcéra Michala dcéra Michala		0	1798
+642	BORKOVÁ Anna, , mal. mal.		0	1381
+642	BORKOVÁ Júlia	dcéra Jánova	0	2027
+642	BUJABOŠOVÁ Alžbeta, , r.Šalitrošová		0	2281
+642	BURGER František, , mal. mal.		0	1391
+642	BURGER Tomáš, , mal. mal.		0	1391
+642	BUZINKAYOVÁ, Hriadky, č. 115, SR		0	98
+642	CACÁKOVÁ Júlia, , r.Bodnáriková		0	1530
+642	Cacarová Júlia, , r.Bodnáriková		0	2349
+642	CIFRANIČ Andrej		0	2285
+642	CIFRANIČ Ján		0	1098,2349
+642	CIFRANIČOVÁ Zuzana r. Olexová		0	1098
+642	CIFRANIČOVÁ Zuzana, , r.Olexová		0	2349
+642	ČIŽMÁROVÁ Anna r. Štefanková		0	1054
+642	ČIŽMÁROVÁ Anna, , r.Štefanková		0	1874
+642	DOCI Andrej		0	704
+642	DOCI Andrej, , p p		0	2318
+642	DOCI Ján		0	702,704,1755
+642	DOCI Juraj		0	702,704,1548
+642	Dociová Zuzana, , r.Hredzáková		0	2150
+642	DURSEHLÁGOVÁ Margita, , r.Fridmannová		0	1391
+642	Džugan Pavel, , ž.Mária r.Tomášová ž.Mária r.Tomášová		0	1584
+642	DŽUGAN Pavol	ž.Tkáčová	0	1097
+642	DŽUGANOVÁ Zuzana r. Tkáčová		0	1097
+642	EŠTOK Ján		0	2171
+642	FAŤOL Andrej	ž.Mária Šamudovská	0	1007
+642	FAŤOL Andrej, , ž.Mária r.Šamudovská ž.Mária r.Šamudovská		0	1646
+642	FAŤOL Ján		0	1007,1748
+642	FAŤOL Ján, , syn Andreja syn Andreja		0	2344
+642	FAŤOL Michal, , ž.Barbora r.Vlková ž.Barbora r.Vlková		0	2349
+642	FAŤOLOVÁ Barbora, , r.Vlková		0	2349
+642	FAŤOLOVÁ Mária, , r.Sotáková		0	1868
+642	FAŤOLOVÁ Mária, , r.Šamudovská		0	2242
+642	FECÁK Michal	ž.Barbora r.Andrejcová	0	1455
+642	Fecáková Anna r. Ondo-Eštoková		0	954
+642	Fecáková Anna, , r.Ondo Eštoková		0	1832
+642	Fecáková Barbora r. Andrejcová		0	1455
+642	Fedorová Anna		0	1098,2349
+642	Fedorová Ilona		0	2349
+642	Fedorová Ilona, , r.Hurčíková		0	1423
+642	Fedorová Mária r. Babjaková, SR	m.Michal	0	131
+642	FERČÁK Michal	ž.Anna r.Poľáková	0	2349
+642	FERČÁKOVÁ Anna r. Poľáková		0	2209,2349
+642	FISCHGRUND Albert		0	1097
+642	Furdák Andrej, , ž.Mária r.Tomášová ž.Mária r.Tomášová		0	1614
+642	Furdák Ján		0	2066
+642	Furdák Štefan, , ž.Tačárová ž.Tačárová		0	2191
+642	FURDÁKOVÁ Mária		0	1659
+642	FURDÁKOVÁ Mária, , r.Michalková		0	1631
+642	FURDÁKOVÁ Mária, , r.Tomášová		0	1714
+642	FURDÁKOVÁ Zuzana, , r.Tačárová		0	1567
+642	Gdovičinová Helena, , r.Hrehorová, muž Michal muž Michal		0	2133
+642	GEROČ Ján		0	1553
+642	Gidová Anna, , r.Janová		0	2349
+642	GROŠEK Karol		0	1097
+642	GROŠEK Mikuláš		0	1097
+642	Gubaňár Pavol a Anna Gubaňárová r. Majerníková		0	2349
+642	GUBAŇÁR Pavol r. Gubaňár	ž.Anna r.Majerníková	0	2349
+642	GUBAŇÁROVÁ Alžbeta		0	2349
+642	GUBAŇÁROVÁ Alžbeta, , r.Bodnáriková		0	1403
+642	Gubaňárová Anna r. Majerníková		0	2349
+642	Haburčáková Zuzana, , r.Bodnáriková		0	1805
+642	HAJDUK Juraj		0	1417
+642	Harčár Andrej, , ž.Helena ž.Helena		0	2349
+642	Harčárová Helena, , muž Andrej muž Andrej		0	2349
+642	Harman Andrej, , ž.Zuzana r.Škarupová ž.Zuzana r.Škarupová		0	1781
+642	Harman Michal		0	1510
+642	HARMANOVÁ Mária r. Koščová	muž Michal	0	170
+642	Harmanová Mária, , r.Koščová, muž Michal muž Michal		0	1881
+642	Harmanová Zuzana, , r.Škarupová		0	2306
+642	Hašková Anna, , r.Sojková		0	1776
+642	Hlasová Anna, , r.Balodžogová ,muž Michal muž Michal		0	1517
+642	HOMLITÁŠ Andrej		0	1026,1901
+642	Homlitášová Barbora, , r.Vajdová		0	2349
+642	Horňák Andrej, , ž.Mária r.Nováková ž.Mária r.Nováková		0	1730
+642	Horňák Anton		0	1046,2265
+642	Horňák Ján, , ž.Alžbeta r.Babjaková ž.Alžbeta r.Babjaková		0	2010
+642	HORŇÁK Jozef	ž.Mária Hrabovská	0	1098

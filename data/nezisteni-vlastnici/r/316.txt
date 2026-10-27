@@ -1,0 +1,256 @@
+197	KIŠŠ František		1	931,933
+197	KIŠŠ Ľudovít		1	931,933
+197	KIŠŠ Štefan		1	931,933
+197	KIŠŠ Vojtech		1	931,933
+197	KLEINOVÁ Olga		1	374
+197	KOBLOŠ Frantíšek	LSR	0	943
+197	KOCIOVA Lenka	r.Illésová	1	835
+197	KOCSANOVÁ Fani	r.Macsová	1	176,414,415,417,429,439,533,799,1034,1097,1103,1110,1126,1129,1152
+197	KOCSANY Juraj	Fani r.Macsová	1	164,411,416,428,533
+197	KOCSI Alexander		1	835
+197	KOCSI Andrej		1	970
+197	KOCSI Július		1	835,848,970
+197	KOCSI Štefan		1	835,848,961,962
+197	KOCSI Vojtech		1	961,962
+197	KOCSIOVÁ Alžbeta	mal	1	970
+197	KOCSIOVÁ Priška	mal	1	970
+197	KOCSIS Ján	ž Alžbeta r. Puškášová	1	947
+197	KOCSISOVÁ Marta	r.Medveová /21.12.1932/ neboh.; LSR	0	943
+197	KOČIŠ Štefan	LSR	0	943
+197	Koiová P Alžbeta		1	854
+197	KOLESÁROVÁ Mária	r.Csicseriová muž Benjamin	1	487,491,1134,1154
+197	KOLESZÁR Július		1	586
+197	KOLESZÁROVÁ Helena		1	586
+197	KOLESZÁROVÁ Helena	r. Tokárová	1	931,933
+197	KOLESZÁROVÁ Julianna		1	680
+197	KOLESZÁROVÁ Margita	r.Szopková	1	411
+197	KONDÁSOVÁ Margita	r. Tokárová	1	931,933,937,938
+197	KONDÁSOVÁ Verona	r. Tokárová	1	931,933,937,938
+197	KONDÁŠ Alexander	Gy. m. Julia r. Pekárová; LSR	0	943
+197	KONDÁŠ Alexander	ž. Anna r. Nagyová	1	963
+197	KONDÁŠ František	ž.Alžbeta r. Vargová; LSR	0	943
+197	KONDÁŠOVÁ Alžbeta	r.Nagyová	1	963
+197	KONDÁŠOVÁ Alžbeta	r.Vargová m.František; LSR	0	943
+197	KONDÁŠOVÁ Gizela	r.Károlyová /3.6.1939/; LSR	0	943
+197	KÓNYA Bartolomej		1	483,484,508,511,512,589,1137,1187,1190,1222
+197	KÓNYA Jozef	mal 18.3.1920	1	164,954
+197	KÓNYA Mikuláš, zom. 03.08.2000		1	585,587,913,1009,1135,1139,1158,1160,1183,1223
+197	KÓNYA Štefan, zom. 10.10.1995		1	508,589,591,1009,1224
+197	KÓNYAOVÁ Alžbeta	r.Kónyaová	1	495,1108,1147,1159,1188
+197	KÓNYAOVÁ Mária	r.Lipcseiová	1	586
+197	KÓNYAOVÁ Mária	r.Vargová muž Bartolomej	1	164,176,374,411,414,415,416,417,419,428,429,439,477,483,533,704,705,706,833,999,1041,1097,1103,1110,1126,1129,1151,1152,1189,1222
+197	KORCSMÁROSOVÁ Estera	r.Medveová; LSR	0	943
+197	KOSZEGIOVÁ Rozália r. Škorpilová		1	839,853
+197	KOSZTYU JÁGER Ľudovit	mal	1	993
+197	KOSZTYU Peter	ž.Alžbeta r.Kišová; LSR	0	943
+197	KOSZTYU Peter	ž.Rozalia r.Orosová; LSR	0	943
+197	KOSZTYUOVÁ Alžbeta	r.Kišová; LSR	0	943
+197	KOSZTYUOVÁ Rozalia	r.Orosová; LSR	0	943
+197	KOSZTYUOVÁ-JÁGER Helena		1	993
+197	KOŠČOVÁ Anna	r. Tokárová	1	931,933
+197	KOTOČ Bartolomej		1	554
+197	KOVÁCS Bartolomej	Mária r.Kissová	1	374,1020
+197	KOVÁCS Ján	ž.Zuzana	1	487
+197	KOVÁCS Štefan		1	440,1089,1150
+197	KOVÁCSOVÁ Alžbeta	r. Tobiásová, m. Ľudovít, vd	1	931,933
+197	KOVÁCSOVÁ Alžbeta	r.Csechová muž Bartolomej	1	514
+197	KOVÁCSOVÁ Barbora	r.Csicseriová muž František	1	483,484,487,489,508,511,543,544,688,689,1137,1141,1187,1190,1222
+197	KOVÁCSOVÁ Barbora	r.Kulcsárová vd	1	481
+197	KOVÁCSOVÁ Estera	r.Palágyiová	1	377,522,523,524,526
+197	KOVÁCSOVÁ Gizela	r.Szakácsová	1	518
+197	KOVÁCSOVÁ Mária	r.Kissová	1	374,1020
+197	KOVÁČOVÁ Zuzana	r.Gyüncová	1	1048
+197	KOZSÁROVÁ Monika	r.Jakubčíková 22.01.1951 VK; LSR	0	943
+197	KRAJNÍKOVÁ Julianna	r.Mészárosová /15.5.1905/	1	908,918
+197	KULCSÁR Andrej	mladší	1	515,526,527,528,1100
+197	Kulcsár Andrej ml.		1	1209
+197	KULCSÁR Ján	st	1	377,515,522,523,524,526,528,1100
+197	Kulcsár Ján st.		1	1209
+197	KULCSÁROVÁ Etelka	mal	1	680
+197	KULCSÁROVÁ Helena	r.Sopková	1	415,416,417,419,949,1097,1103,1110,1152
+197	KULCSÁROVÁ Margita	r.Sopková	1	949
+197	KULČÁROVÁ Mária	r.Čičeriová	1	166,434,489,490,491,1134,1136,1154
+197	KULČÁROVÁ Mária	r.Kolesárová muž Juraj	1	681,1032,1069,1093
+197	KULČÁROVÁ Mária	r.Ténaiová	1	969
+197	KULICS Ján		1	1000
+197	KULICS Michal	mal	1	1000
+197	KULICS Štefan	mal	1	1000
+197	KULICSOVÁ Barbora	r.Bodnárová	1	508,511,1137,1190
+197	KULICSOVÁ Helena	mal	1	1000
+197	KULICSOVÁ Júlia		1	1000
+197	KULIKOVÁ Margita	r.Raganová	1	511,1137,1190
+197	KUN Bartolomej	nar. 25.09.1936 zom	1	380,910
+197	KÚN Gabriel	mal	1	374
+197	KUN Ján	mal	1	726,729,965,1095,1195
+197	KUN Jozef	nar: 29.10.1926 zom	1	379
+197	KUN Jozef	nar. 29.10.1926 zom	1	380,383
+197	KUN Michal		1	910
+197	KUN Mikuláš		1	1052
+197	KÚN Mikuláš	mal	1	374
+197	KÚN Štefan		1	423,743
+197	KÚN Valentín	mal	1	617,1210
+197	KUNI Peter		1	931,933
+197	KÚNOVÁ Alžbeta	r.Hanková	1	912
+197	KÚNOVÁ Alžbeta	r.Karnaiová	1	772,1116,1127,1128,1164,1186
+197	KÚNOVÁ Alžbeta	r.Szabová	1	818,1033
+197	Kunová Anna r. Paňková	zom.; zom	1	1002,1208
+197	KÚNOVÁ Etela	mal	1	726,729,912,965,1095,1195
+197	KUNOVÁ Etelka	r.Kertészová m.Ján	1	483,1222
+197	KUNOVÁ Helena	r.Tothová	1	245
+197	KÚNOVÁ Helena	mal	1	394,726,729,912,965,1095,1195
+197	KÚNOVÁ Julianna	r.Bodnárová	1	623,1070,1143
+197	Kúnová Julianna r. Bodnárová		1	1207
+197	KUNOVÁ Margita	r.Zupková	1	1052
+197	KÚNOVÁ Mária	r.Fecsová	1	1001,1007
+197	KUNOVÁ Verona	r.Szakácsová	1	379,464,956
+197	KUTELÁK Ján	mal	1	1023
+197	KUTELÁKOVÁ Alžbeta	r.Oroszová	1	1023
+197	KÚTIKOVÁ Margita	r.Ragánová m.Jozef	1	481,483,1222
+197	LAKATOŠ Alexander, zom. 24.12.2000		1	943
+197	LAKATOŠ Imrich, zom. 05.06.2003		1	943
+197	Lakatoš Ladislav, SR	LSR	0	943
+197	Latran Andrej	ž.Alžbeta r. Puškásová zom.; ž.Alžbeta r. Puškásová zom	1	144
+197	Látránová Alžbeta	r.Puškásová muž.Ondrej; r.Puškásová muž.Ondrej	1	144
+197	Látránová Alžbeta r. Puškášová	manž. Ondrej /	1	142,565,578,636,637,713,714
+197	LELESZI Július	syn Jána	1	964
+197	LENGYEL Ján		1	931,933
+197	LENGYELOVÁ Terézia	r. Marcziová m. Ján	1	931,933
+197	Lipcseiová Margita r. Puškášová		0	721
+197	LIPCSEJOVÁ Jana	r.Szabová	1	448
+197	LIPCSEY Ján		1	588,1140
+197	LIPCSEY Michal		1	588,1140
+197	LIPCSEYOVÁ Františka	r.Szabová	1	447
+197	LIPICKYOVÁ Elena	r.Szakácsová	1	956
+197	LIZÁK Ján		1	931,933
+197	LIZÁK Peter	mal	1	931,933
+197	LIZÁKOVÁ Júlia	mal	1	931,933
+197	LIZÁKOVÁ Veronika		1	931,933
+197	LOKTER Ján	ž.Mária Tothová	1	1051
+197	LÖRINCZ Bartolomej		1	959
+197	MACSKOVÁ Alžbeta	r.Szilágyiová muž Štefan	1	976
+197	MACSOVÁ Mária		1	164,411,416,417,419,428,430,537,999,1097,1104,1110,1152,1189
+197	MACSOVÁ Veronika		1	419
+197	MAKAI František	ž.Mária r.Juhaszová	1	374,1010
+197	MAKAIOVÁ Mária	r.Juhaszová muž František	1	374,1010
+197	MAKULOVÁ Jolana	r. Matyiová	1	931,933
+197	MARCI Peter	P	1	931,933
+197	MARCI Vladimír	Aladár	1	931,933
+197	MARCIOVÁ Oľga	mal	1	931,933
+197	MARCZI Alexander	ž. Zuzana r. Vasová	1	931,933
+197	MARCZI Emerich	ml., ž. Alžbeta r. Jakabová	1	931,933
+197	MARCZI František	ml	1	931,933
+197	MARCZI Gábriel		1	931,933,940
+197	MARCZI Gábriel	ml	1	931,933
+197	MARCZI Peter		1	941
+197	MARCZI Vojtech		1	931,933
+197	MARCZIOVÁ Alžbeta	mal	1	931,933
+197	MARCZIOVÁ Alžbeta	r. Jakabová m. Emerich, ml	1	931,933
+197	MARCZIOVÁ Júlia	r. Tobiásová, m. Vojtech	1	931,933
+197	MATI Juraj	LSR	0	943
+197	MATI Peter	LSR	0	943
+197	MATYI Albert		1	931,933
+197	MATYI Alexander		1	931,933
+197	MATYI Andrej		1	931,933
+197	MATYI František	ž. Mária r. Homolyová	1	931,933
+197	MATYI František	ž. Rozália r. Homolová	1	931,933
+197	MATYI Ján	ž. Júlia r. Bernátová	1	931,933
+197	MATYI Jozef	LSR	0	943
+197	MATYI Jozef	ž. Helena r. Vékásiová	1	931,933
+197	MATYI Juraj		1	931,933
+197	MATYI Ondrej		1	931,933
+197	MATYI Peter	ž.Alžbeta r.Ivánová	1	931,933
+197	MATYI Peter	ž.Alžbeta r.Ivánová; LSR	0	943
+197	MATYI Stefan		1	931,933
+197	MATYIOVÁ Alžbeta	r. Pásztorová	1	931,933
+197	MATYIOVÁ Anna	mal	1	931,933
+197	MATYIOVÁ Júlia	r. Bernátová m. Ján	1	931,933
+197	MATYIOVÁ Júlia	r. Tokárová	1	931,933
+197	MATYIOVÁ Malvína	r. Pástorová	1	931,933
+197	MATYIOVÁ Mária	r. Kissiová m. Ján	1	931,933
+197	MATYIOVÁ Mária	r.Vékásiová; LSR	0	943
+197	MATYIOVÁ Rozália	r. Homolová m. František	1	931,933
+197	MEDVE Štefan	LSR	0	943
+197	MICZÁK Ján	mal	1	683
+197	MICZÁKOVÁ Mária	r.Rudasová muž Jozef	1	448,550
+197	MILOVÁ Margaréta	r.pekárová 22.10.1944; LSR	1	943
+197	MIRGOVÁ Alžbeta	č.d.3967/1935	1	372
+197	MÍRGOVÁ Alžbeta		1	373
+197	MISLAI Ján	ž.Júlia r.Macsová	1	448,550,1047
+197	MISLAIOVÁ Ilona	mal	1	1049
+197	MISLAYOVÁ Františka	mal	1	550
+197	MIŠLAIOVÁ Júlia	r.Macsóová muž Ján	1	176,414,415,417,429,439,448,533,550,799,985,1043,1097,1103,1110,1126,1129,1152
+197	MITROVÁ Mária		1	931,933
+197	MOKNÁCS Ján		1	374
+197	MOKNÁCSOVÁ Barbora	r.Mislayová	1	374
+197	MOLLAR Jan		1	947,948
+197	MOLLÁROVÁ Júlia	R.FEDOROVA	1	947,948
+197	MOLNÁR Gejza		1	848
+197	MOLNÁR Jozef	ml	1	845,846
+197	MURINOVÁ Verona	r.Gabriová muž Alexander	1	258
+197	NAGY Alexander	K.ž.Johanna r.Urbanová; LSR	0	943
+197	NAGY Ján	ml.; LSR	0	943
+197	NAGY Ján	ž.Justina r.Vargová; LSR	0	943
+197	NAGY Ludovít	mld.; LSR	0	943
+197	NAGYOVÁ Anna	r. Takáčová m. Alexander	1	931,933
+197	NAGYOVÁ Johanna	K r.Urbanová; LSR	0	943
+197	NAGYOVÁ Justina	r.Vargová; LSR	0	943
+197	NÁNÁSIOVÁ Fani	r.Kovácsová	1	566
+197	NEMETHOVA Julia	R.GALAMBOSOVA	1	834
+197	NOGRÁDYOVÁ Margita	r.Medveová; LSR	0	943
+197	NOVÁKOVÁ Barbora	r.Csicserová	1	481,483,484,508,511,688,1137,1141,1187,1190,1222
+197	NYISTOR Mikuláš	ž. Alžbeta r.Gájová; LSR	0	943
+197	NYISTOROVÁ Alžbeta	r.Gajová; LSR	0	943
+197	OROSZ František		1	833
+197	OROSZ Ján		1	922
+197	OROSZ Peter	ž.Etelka r.Kocáková; LSR	0	943
+197	OROSZ Vojtech	10.11.1944 zom	1	833
+197	OROSZOVÁ Alžbeta	r.Takácsová	1	833
+197	OROSZOVÁ Etelka	r.Kocáková; LSR	0	943
+197	OROSZOVÁ Júlia	r.Kalaposová	1	842
+197	OROSZOVÁ Rozália	mal	1	842
+197	OROSZOVÁ Rozália	r.Peszolúnskyová	1	842
+197	PALÁGYIOVÁ Honor	r. Marcziová m. Michal	1	931,933
+197	PALKOVÁ Alžbeta	r.Vargová	1	429,439,1126,1129
+197	PALLAI Ludovít	LSR	0	943
+197	PANDYOVÁ Barbora	r.Petöová	1	944
+197	PÁSTOROVÁ Elena	r.Marciová manž.Ludvik; LSR	0	943
+197	PÁSTOROVÁ Júlia	r.Szabová; LSR	0	943
+197	PÁSTOROVÁ Mária	r.Uvegešová; LSR	0	943
+197	PÁSTOROVÁ Zlatica	mal	1	931,933
+197	PÁSZTOR Albert	ž. Helena r. Sutoová	1	931,933
+197	PÁSZTOR Alexander	Gy., ž. Anna r. Matyiová	1	931,933
+197	PÁSZTOR Andrej		1	931,933
+197	PÁSZTOR Bartolomej	mld.; LSR	0	943
+197	PÁSZTOR Bartolomej	ž.Rozália r.Uvegesová; LSR	0	943
+197	PÁSZTOR Bernát		1	931,933
+197	PÁSZTOR František	ž. Alžbeta r. Juhászová	1	931,933
+197	PÁSZTOR Ján		1	931,933
+197	PÁSZTOR Ján	G.; LSR	0	943
+197	PÁSZTOR Ján	ž. Alžbeta r. Koleszárová	1	938
+197	PÁSZTOR Ľudovít	ž. Helena r. Marcziová	1	931,933
+197	PÁSZTOR Peter	A	1	931,933
+197	PÁSZTOR Peter	A.; LSR	0	943
+197	PÁSZTOR Štefan		1	931,933
+197	PÁSZTOR Štefan	ž. Julianna r. Matyiová	1	931,933
+197	PÁSZTOR Vojtech	mal	1	931,933
+197	PÁSZTOR Zoltán		1	931,933
+197	PÁSZTOR Zoltán	LSR	0	943
+197	PÁSZTOROVÁ Alžbeta	r. Matyiová m. Ľudovít	1	931,933
+197	PÁSZTOROVÁ Anna		1	977,1029
+197	PÁSZTOROVÁ Anna	r. Pásztorová	1	931,933
+197	PÁSZTOROVÁ Anna	r. Tokárová	1	937,938
+197	PÁSZTOROVÁ Barbora	r.Szabová	1	954
+197	PÁSZTOROVÁ Borbála		1	931,933
+197	PÁSZTOROVÁ Gizela	mal	1	931,933
+197	PÁSZTOROVÁ Júlia		1	931,933
+197	PÁSZTOROVÁ Júlia	r. Husztyová	1	929
+197	PÁSZTOROVÁ Júlia	r. Matyiová	1	931,933
+197	PÁSZTOROVÁ Margita		1	931,933
+197	PÁSZTOROVÁ Mária	r. Tokárová m. Ľudovít	1	931,933
+197	PÁSZTOROVÁ Rozália	r. Vékásiová	1	931,933
+197	PÁSZTOROVÁ Rozália	r.Uvegesová; LSR	0	943
+197	PÁSZTOROVÁ Žofia	r. Pásztorová	1	931,933
+197	PATAKYOVÁ Berta	r.M Katocsová	1	856
+197	PEKÁR Benjamin	K.; LSR	0	943
+197	PEKÁR Jan	ž. Mária r. Tothová; LSR	0	943
+197	PEKÁR Ľudovít, zom. 23.05.2001		1	943

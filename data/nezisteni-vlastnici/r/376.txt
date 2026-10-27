@@ -1,0 +1,256 @@
+227	Pilch Rudolf, Pavol Pavol		0	1329
+227	PILCH Rudolf, SR	Pavol	1	166
+227	PLÁŠEK Anton, SR	od Jozefa Plášeka	1	625
+227	Plášek Gustáv		0	1196
+227	Plášek Ján		0	852,853,1216
+227	Plášek Jozef		0	810,824,833,852,853,862,1005,1069,1339,1369
+227	PLÁŠEK Jozef, SR	čd 1933/1927, brezolupský obyvateľ	1	626
+227	PLÁŠEK Jozef, SR	čd 651/1918	1	126,631,1410
+227	PLÁŠEK Jozef, SR	Michal,Peter	1	120,627,630,634,635,636,637
+227	PLÁŠEK Jozef, SR	žena Antónia r. Kasalová	1	625
+227	Plášek Rudolf		0	814,879
+227	PLÁŠEK Rudolf, SR	od Jozefa Plášeka	1	635
+227	PLÁŠEK Rudolf, SR	po Petrovi	1	636
+227	Plášek Štefan		0	803,805,810,849,861,931,1041,1192,1339,1369
+227	PLÁŠEK Štefan, SR	ml., po Petrovi	1	120,537,627,634,635,636,637,689,690,699
+227	PLÁŠEKOVÁ Anna r. Boďová		1	13
+227	Plášeková Oľga		0	849,1056,1339
+227	Polonyiová Perla r. Vinklerová		0	814
+227	PRÍDAVKOVÁ Anna r. Boďová, SR		1	120
+227	Prídomková Anna r. Boďová		0	814,849
+227	Prošoková Mária		0	923
+227	Pšenák Jozef		0	1170
+227	Pšenáková Anna r. Pilchová		0	849,1258
+227	PŠENÁKOVÁ Anna r. Pilchová, SR		1	166,623
+227	PŠENÁKOVÁ Anna r. Pilchová, SR	čd 172/1939	1	623
+227	Púchorová Lýdia r. Sečanská		0	1297
+227	Rácová Mária r. Sečanská		0	1320
+227	Ragan Ján		0	1364
+227	Ragan Ján, čd 1993/1906 čd 1993/1906		0	1364
+227	RAGAN Ján, SR	čd 1993/1906	1	620
+227	Rosa Peter		0	824,833,862,900,1321
+227	ROSA Peter, SR	čd 393/1950	1	126,630,631,1410
+227	Ruisel Jozef		0	964
+227	Ruisel Jozef, čd 1788/1930 čd 1788/1930		0	1079
+227	Ruisel Klement		0	816,821,1132,1337,1355
+227	Ruisel Klement, čd 1557/1948 čd 1557/1948		0	1329
+227	RUISEL Klement, SR	čd 1557/1948	1	69
+227	Ruisel Rudolf		0	1274,1337,1355
+227	Ruiselová Helena r. Plášeková		0	1093
+227	Ruiselová Mária r. Kebisová		0	816,821,968,1337
+227	Ruislová Helena r. Valachová		0	879
+227	Ruislová Mária r. Kebisová		0	1329
+227	RUISLOVÁ Mária r. Kebisová, 957 01, Brezolupy, SR		1	69
+227	RUISLOVÁ Mária r. Kebisová, Brezolupy, PSČ 957 01, SR		1	69
+227	Rýpalová Anna r. Ondrejková, D 573/28 D 573/28		0	804
+227	Sečanská Amália		0	1320
+227	Sečanská Eleonóra		0	1320
+227	Sečanská Helena		0	1320
+227	Sečanská Verona		0	1320
+227	Sečanský Albert		0	1320
+227	Sečanský Anton		0	1320
+227	Sečanský Ferdinand		0	1320
+227	Sečanský Gejza		0	1320
+227	Sekáč Ján, žena Anna r. Ďurďovičová žena Anna r. Ďurďovičová		0	820
+227	Sekáčová Anna r. Ďurďovičová		0	820
+227	Stratený Miroslav		0	824,849,1071
+227	Ševčík Andrej		0	1109
+227	Ševčík Anton		0	829
+227	ŠEVČÍK Anton, SR	/Rudolf/, čd 554/1919	1	658
+227	Ševčík Bartolomej		0	1260
+227	ŠEVČÍK Bartolomej, SR	po Jozefovi,Jozef,Mária,Irena,Anna,Helen	1	658
+227	Ševčík Ján		0	1158
+227	Ševčík Ján, žena Štefánia r. Kajabová žena Štefánia r. Kajabová		0	1364
+227	Ševčík Jozef		0	829,855,990,1283
+227	ŠEVČÍK Jozef, SR	čd 920/1901	1	658
+227	ŠEVČÍK Jozef, SR	Verona,Antónia,Ján,Anna	1	69
+227	ŠEVČÍK Jozef, SR	žena Anna r. Vinklerová	1	69
+227	ŠEVČÍK Michal, SR	PKV 45	1	658
+227	Ševčík Ondrej		0	1364
+227	Ševčík Ondrej, čd 545/1919 čd 545/1919		0	1364
+227	ŠEVČÍK Ondrej, SR	žena Paulína r. Ondrejková	1	120,633
+227	Ševčík Ondrej, žena Paulína r. Ondrejková žena Paulína r. Ondrejková		0	859,1204,1344,1352
+227	Ševčík Štefan		0	829
+227	ŠEVČÍK Štefan, SR	čd 554/1919	1	658
+227	Ševčík Štefan, žena Anna r. Kasalová žena Anna r. Kasalová		0	1364
+227	Ševčíková Anna		0	829
+227	Ševčíková Anna r. Bobušková		0	829
+227	Ševčíková Anna r. Kebisová		0	1364
+227	ŠEVČÍKOVÁ Anna r. Raganová, SR		1	620
+227	Ševčíková Anna r. Vacvalová		0	1364
+227	ŠEVČÍKOVÁ Anna r. Valachová, SR		1	120,615,616
+227	Ševčíková Anna r. Vinklerová		0	966,1344
+227	ŠEVČÍKOVÁ Anna r. Vinklerová, SR		1	69
+227	Ševčíková Jolana		0	829
+227	ŠEVČÍKOVÁ Jolana, SR	čd 554/1919	1	658
+227	Ševčíková Magdaléna r. Boďová		0	1336
+227	ŠEVČÍKOVÁ Magdaléna r. Boďová, SR		1	120
+227	Ševčíková Pavlína r. Ondrejková		0	829
+227	Ševčíková Štefánia r. Kajabová		0	1064
+227	Ševčíková Verona		0	1219
+227	Ševčíková Zuzana		0	829
+227	ŠEVČÍKOVÁ Zuzana, SR	čd 554/1919	1	658
+227	Škurák Emil		0	992
+227	Škurák Emil, Ján,Jozef,Vojtech Ján,Jozef,Vojtech		0	1364
+227	ŠKURÁK Emil, SR	Ján,Jozef,Vojtech	1	120
+227	Škurák Jozef,  60, Brezolupy, PSČ 957 01, SR, zom.10.10.1995 zom.10.10.1995		0	1184
+227	Škuráková Mária r. Exlerová		0	1057
+227	ŠKURÁKOVÁ Mária r. Exlerová, SR		1	120
+227	TILEŠ Jozef, SR	žena Anna r. Madajová	1	69
+227	TILEŠOVÁ Andela r. Ševčíková, SR		1	658
+227	TILEŠOVÁ Anna r. Madajová, SR		1	69
+227	Tlkancová Veronika r. Ševčíková		0	1218
+227	Toscher Ján		0	1206
+227	Toscherová Mária r. Hečková		0	1007,1353,1370
+227	TÖSCHEROVÁ Mária r. Hečková, SR	identická s IČO /42/?	1	212
+227	TÖSCHEROVÁ Mária, SR	Hečková, identická s IČO /42/?	1	120
+227	Toschler Ján		0	1067
+227	TRNKOVÁ Emília, SR	D 232/1935	1	126,1410
+227	TRNKOVÁ Emília, SR	Jozef, čd 2817/1936	1	630,631
+227	Trosková Mária		0	1021,1355
+227	TROŠKOVÁ Mária, SR	čd 1185/1914, identická s IČO /44/?	1	120,212
+227	Trošoková Mária		0	1052,1353
+227	Truka Jozef		0	851
+227	Tvrdík Ján		0	1336
+227	TVRDIK Ján, SR	čd 1571/1874	1	120
+227	Vacvalová Anna		0	1364
+227	VALACH Gustáv, SR	po Ondrejovi	1	120
+227	Valach Ján		0	883,911,912,1046
+227	Valach Jozef		0	912,1222
+227	Valach Ondrej		0	912,1319,1326,1355,1362
+227	VALACH Ondrej, SR	čd 1137/1943	1	120,615,616
+227	Valach Rudolf		0	1319,1326,1355,1362
+227	VALACH Rudolf, SR	čd 1137/1943	1	120,615,616
+227	VALACH Rudolf, SR	po Ondrejovi	1	653
+227	VALACH Štefan, SR	po Jánovi, 489/1932	1	653
+227	Valachová Anna		0	951
+227	Valachová Brigita		0	912
+227	Valachová Emília		0	1144
+227	Valachová Helena		0	955
+227	VALACHOVÁ Irena r. Plášeková, SR	po Petrovi Plášekovi	1	689
+227	Valachová Viola r. Lehocká		0	851
+227	VALENT Ján, SR	po Viktórií r. Mujgošovej	1	137
+227	Valientová Mária r. Hrubišová		0	879,1336
+227	Veselková Helena r. Raganová		0	837,883,972,1301,1346
+227	VESELKOVÁ Helena r. Raganová, SR		1	115,120,619,620,622
+227	Vinkler Albert, Matej,Anna Matej,Anna		0	1364
+227	Vinkler Ivan		0	1278
+227	VINKLER Ivan, SR	po Albertovi	1	137
+227	VINKLER Ivan, SR	po Anne r. Valachovej, nar. 12.9.1937	1	117,120,615,616
+227	VINKLER Vojtech, SR	po Anne r. Valachovej	1	117,120,615,616
+227	VINKLEROVÁ Anna r. Valachová, SR		1	120
+227	VISELKA Emil, SR	čd 539/1949	1	61
+227	Viselka Ján		0	1004,1068
+227	VISELKOVÁ Emília, SR	čd 539/1949	1	61
+227	VISELKOVÁ Zuzana r. Hečková, SR		1	120
+227	Višňovcová Pavlína r. Viselková		0	1125
+227	Višňovec Dušan		0	1243
+227	Winkler Albert		0	1160,1355
+227	Winkler Matej		0	944,1355
+227	Winklerová Anna r. Kanátová		0	1329
+227	Winklerová Anna r. Valachová		0	855,912,1163,1319,1355,1362,1371
+227	Zaťko Ján		0	1197
+228	AHÁCZOVÁ Ilona r. Vilecová		1	674,807,817,922
+228	BAŇAS Tomáš		1	794
+228	BANASOVÁ Zuzana r. Mižlíková		1	780,781
+228	BARTKO ANDREJ		0	904
+228	BARTKO Ján		1	713
+228	BEDNÁROVÁ Zuzana		1	794
+228	BEDNÁROVÁ Zuzana r. Lakatová		1	765
+228	BEREZŇÁK Juraj		1	843,847,953
+228	BEREZŇÁK Juraj, Matovce, Slovensko		1	843,847,953
+228	BLEŠKOVÁ ANNA r. ČEKALOVÁ		0	904
+228	CIBULKA Ján		1	674
+228	CIGAN Ján, Lužany, Slovensko		1	794
+228	CIGANOVÁ Anna		1	794
+228	CINA Andrej		1	761,762,796,910
+228	CINOVÁ Mária r. Kmecová		1	796
+228	CVIKLÍK Ladislav		1	640,654
+228	CVIKLÍKOVÁ Anna r. Končová		1	736,907
+228	ČIŽMAR Andrej		1	687,807,922
+228	DANČIŠIN Ján, 086 14, Hažlín, Slovensko		1	869
+228	DANČIŠINOVÁ Mária r. Vagaská, 086 14, Hažlín, Slovensko		1	869
+228	DIGOŇ Michal, 094 42, Matovce, Slovensko		1	861
+228	DZURIŠOVÁ Zuzana r. Mitaľová, Giraltovce, Slovensko		1	863
+228	EVIN Adam, Lascov, Slovensko		1	695
+228	EVINOVÁ Zuzana r. Baločová, Lascov, Slovensko		1	695
+228	FEDÁKOVÁ Helena r. Berezňáková		1	847
+228	FELDMAN Adolf		1	687
+228	FIĽAKOVSKÁ - JANEKOVÁ Helena r. Spišáková, Lascov, Slovensko		1	801
+228	GAJDOŠ Andrej, Lužany, Slovensko		1	794
+228	GAJDOŠOVÁ Anna r. Valková, Lužany, Slovensko		1	794
+228	GBÚR Ján		1	794
+228	GBÚROVÁ Mária r. Hviščová, 087 01, Brezov, Slovensko		1	812
+228	GNAP Ján		1	869
+228	GOMBÁR Andrej		1	661
+228	GOMBAROVÁ Zuzana		1	661
+228	GUTMAN Samuel		1	694,697,702
+228	HADZIMA Andrej		1	618
+228	HADZIMOVÁ Anna r. Banasová		1	618
+228	HALEK Andrej		1	713,714
+228	HALEK Jozef		1	713,714
+228	HALEK Jozef, Lascov, Slovensko		1	713,714
+228	HALEK Juraj		1	713,714
+228	HALEK TOMÁŠ		0	904
+228	HARČARÍKOVÁ Zuzana r. Haleková		1	713
+228	HOLINGA Ján		1	633,660
+228	HOMULKA Ján		1	845
+228	HORVAT ANDREJ		1	696,702
+228	HORVÁT Ján		1	687,696,702
+228	IVANISKO Ján, 086 45, Lascov, Slovensko		1	699
+228	JANEKOVÁ Helena r. Spišáková, Lascov, Slovensko		1	687
+228	JANOŠKO Juraj		1	732,743,744,745,789
+228	JANOŠKOVÁ Elena		1	732,743,744,745,789
+228	KAŇUKOVÁ Anna r. Mesarošová		1	843,847,953
+228	KMEC ANDREJ		0	904
+228	KMEC Ján		1	769
+228	KMEC Jozef, 087 01, Kalnište, Slovensko		1	709
+228	KMEC Mihály		1	762,910
+228	KMEC Michal		1	769
+228	KMEC Tomáš		1	794
+228	KMECOVÁ ANNA r. MARKOVÁ		0	904
+228	KMECOVÁ MÁRIA r. GREGOVÁ		0	904
+228	KOČIŠOVÁ Zuzana r. Spišáková, 086 12, Kurima, Slovensko		1	674,687,700,703,788,801
+228	KOLCUN Ján		1	806
+228	KONTROŠOVÁ Mária r. Lešková		1	798
+228	KOVALČÍK Andrej		0	904
+228	KOVAĽOVÁ Anna r. Foltinová		1	635
+228	KOZÁK Andrej		1	623,715,731,732,743,744,745
+228	KOZÁK Ján		1	623,744
+228	KOZÁKOVÁ Zuzana r. Banásová		1	744
+228	KRASNAYOVÁ Anna r. Tomková		1	856,858
+228	KRUPOVÁ Mária		1	903
+228	KURIPLACHOVÁ Anna r. Radvanská		1	807,922
+228	LEŠŇÁK Peter, 087 01, Brezov, Slovensko		1	674
+228	LICHTENSTEIN Martin		1	852
+228	LICHTENSTEINOVÁ Agnesa		1	852
+228	LICHTENSTEINOVÁ Alica		1	852
+228	LICHTENSTEINOVÁ Greta		1	852
+228	Lukáč Andrej		1	749,807,922
+228	LUKÁČ Tomáš		1	674
+228	LUKÁČ-KOLESÁR Ondrej		1	806
+228	MAJER Ján, Giraltovce, Slovensko		1	865
+228	MÁNSKA Ela r. Marková		1	852
+228	MARCINOVÁ Zuzana r. Marková		1	714
+228	MARIŇAKOVÁ ZUZANA r. MARKOVÁ		0	904
+228	MARIŇÁKOVÁ Zuzana r. Marková, 087 01, Kalnište, Slovensko		1	713
+228	MARKO ANDREJ		0	904
+228	MARKO Andrej, 087 01, Kalnište, Slovensko		1	713,714
+228	MARKO JÁN		0	904
+228	MARKO Ján, 087 01, Kalnište, Slovensko		1	713,714
+228	MARKO JURAJ		0	904
+228	MARKOVÁ Alžbeta		1	714,904
+228	MARKOVÁ Anna		1	713,714,904
+228	MARKOVÁ ANNA r. GDOVINOVÁ		0	904
+228	MARKOVÁ Ilona		1	713,714
+228	MARTONOVÁ Alžbeta r. Haleková		1	713
+228	MITAĽ Juraj, Giraltovce, Slovensko		1	863
+228	MITAĽ Tomáš, Giraltovce, Slovensko		1	863
+228	MITAĽOVÁ Anna r. Mitaľová, Giraltovce, Slovensko		1	863
+228	MIŽLÍK Andrej		1	729,744
+228	NOVOTNÁ Mária		1	714
+228	NOVOTNÁ ZUZANA r. BOSÁKOVÁ		0	904
+228	NOVOTNÝ Ján		1	713,714,904
+228	OLEJÁROVÁ ZUZANA r. MARKOVÁ		0	904
+228	PAPAIOVÁ Terézia r. Tahyová		1	674,769
+228	PARTILA Juraj		1	720,878,974,975

@@ -1,0 +1,256 @@
+1240	Bolets Lazár		0	2588,2589,2590,2591,2592,2621,2647,2648,3388,3389,3390
+1240	Bondra Andrej		0	2246,2250,2252,2590,2591,2592,2648
+1240	Bondra Ján		0	2246,2250,2252
+1240	Bondra Ján	1	0	2246
+1240	Bondra Ján	Štefan	0	2588,2589,2590,2591,2592,2647,2648,3388,3389,3390
+1240	Bondra Juraj		0	2250,2252
+1240	Bondra Karol		0	2246,2250,2252
+1240	Bondra Maxmilián		0	2246,2250,2252
+1240	Bondra Maxmilián	*	0	2588,2589,2590,2591,2592,2648,3388,3389,3390
+1240	Bondra Mikša	*	0	2648
+1240	Bondra Peter		0	2246,2250,2252,2590,2591,2592,2648
+1240	Bondra Štefan		0	2246,2250,2252,2590,2591,2592,2648
+1240	Bondra Štefan	1	0	2246
+1240	Bondra Tomáš		0	2246,2250,2252
+1240	Bondrová Anna r. Žembová	m Jozef	0	2246,2250,2252,2588,2589,2590,2591,2592,2647,2648,2660,3388,3389,3390
+1240	Bondrová Katarína r. Kaletová		0	2250,2252
+1240	Bondrová Magda r. Kmečová		0	2250,2252
+1240	Bondrová Mária		0	2246,2250,2252,2590,2591,2592,2648
+1240	Bondrová Mária	1	0	2246
+1240	Bondrová Mária r. Štelmachová		0	2250,2252,2590,2591,2592,2648
+1240	Bondrová Rozália r. Jančiová	m Ján	0	2246
+1240	Bondrová Viktória		0	2246,2250,2252,2590,2591,2592,2648
+1240	Dlugolinská Apolónia r. Adamovičová		0	2250,2252,2590,2591,2592,2648
+1240	Dlugolinská Apolónia r. Adamovičová	m Augustín	0	2246
+1240	Donovalová Paulína r. Bolešová		0	2250,2252
+1240	Draganov Ristová Regina r. Rusiňáková		0	2246,2250,2252
+1240	Draganová Regina r. Rusiňáková		0	2590,2591,2592,2648
+1240	Duračinská Amália r. Reľovská		0	2276,2554,3421
+1240	Duračinská Anna		0	2287
+1240	Duračinská Hermína		0	2287
+1240	Duračinská Katarína r. Trembáčová		0	2276,2554,3421
+1240	Duračinská Ľudmila		0	2287
+1240	Duračinská Mária		0	2285,2287
+1240	Duračinská Terézia r. Reľovská		0	2245
+1240	Duračinská Veronika r. Reľovská		0	2246
+1240	Duračinský František	2	0	2249
+1240	Duračinský Ján		0	2276,2285,2554,3421
+1240	Duračinský Jozef		0	2285
+1240	Duračinský Juraj		0	2287,2636,3158,3414
+1240	Duračinský Juraj	1	0	2287
+1240	Duračinský Karol		0	2276,2554,3421
+1240	Duračinský Michal		0	2287
+1240	Duračinský Štefan		0	2276,2554,2672,3421
+1240	Dziak Alojz		0	2715
+1240	Dziak Andrej		0	2666,3192
+1240	Dziak František		0	2947
+1240	Dziak František	1	0	3122
+1240	Dziak Imrich		0	1199,1279,2033,2229,2246,2266,2276,2554,2581,2595,2617,2618,2619,2660,2663,2664,2672,3226,3339,3341,3342,3343,3372,3373,3421,3440
+1240	Dziak Imrich	1	0	2225,2226
+1240	Dziak Imrich	Gumula	0	2246
+1240	Dziak Imrich	ž Mária r. Sokoľáková	0	2243,2246,2264
+1240	Dziak Ján		0	3096
+1240	Dziak Ján	4	0	2219
+1240	Dziak Ján	ž Gizela	0	2246,2264
+1240	Dziak Jozef		0	2246
+1240	Dziak Jozef	1, Frankov	0	2240
+1240	Dziak Jozef	2	0	2772
+1240	Dziak Jozef	3	0	2032,2033,2276,2287,2554,2660,3015,3421
+1240	Dziak Jozef	4	0	3293
+1240	Dziak Jozef	5	0	2227,2246
+1240	Dziak Jozef	6	0	2219,2246
+1240	Dziak Jozef	7	0	2246
+1240	Dziak Jozef	8	0	2219
+1240	Dziak Jozef	Buntko	0	2216,2948
+1240	Dziak Jozef	Frankov	0	2227,2581,2767,3372
+1240	Dziak Jozef	Gumula	0	2229,2246,2266
+1240	Dziak Jozef	Maruščin	0	2276,2554,3042,3237,3421
+1240	Dziak Jozef	Maruščin, ž Anna r. Dziaková	0	2225
+1240	Dziak Jozef	Tomčík	0	2216,2220,3316
+1240	Dziak Jozef	Tomkov	0	2246
+1240	Dziak Juraj		0	2276,2283,2554,2660,2996,3421
+1240	Dziak Juraj	1	0	2246
+1240	Dziak Karol		0	2287,2711
+1240	Dziak Karol, USA		0	3240,3352
+1240	Dziak Karol, USA	Gumula, deti nebohého	0	2935
+1240	Dziak Michal		0	2232,2283,2830
+1240	Dziak Michal	1	0	2283,2863,3352
+1240	Dziak Michal	2	0	2287,2581,2660,3207
+1240	Dziak Michal	3	0	2246
+1240	Dziak Pavol		0	2247,3189,3352
+1240	Dziak Pavol	1	0	1199,2232,2572,2677,3167,3341,3342,3343,3352,3363
+1240	Dziak Pavol	1, Pjintočin	0	2672
+1240	Dziak Pavol	2	0	2247
+1240	Dziak Pavol	Pjintočin	0	2225
+1240	Dziak Pavol	Pjutočin	0	2226
+1240	Dziak Šimon		0	2216,2220,2276,2554,2581,2697,3191,3421
+1240	Dziak Štefan		0	2753
+1240	Dziak Tomáš		0	1199,1279,2032,2033,2219,2246,2276,2554,2581,2617,2618,2619,2660,2663,2664,2734,3335,3341,3342,3343,3346,3372,3380,3421
+1240	Dziak Tomáš	1	0	2225,2226,2227
+1240	Dziak Tomáš	3	0	2219,2276,2554,3421
+1240	Dziak Tomáš	4	0	1199,2276,2554,3421
+1240	Dziak Tomáš	Gumuľa	0	1199,1279,2032,2033,2219,2229,2246,2266,2276,2554,2581,2595,2617,2618,2619,2660,2663,2664,2877,3097,3341,3342,3343,3372,3373,3421,3440
+1240	Dziak Tomáš	Gumuľa, 1	0	2246
+1240	Dziak Tomáš	Gumuľa, 2	0	2246
+1240	Dziak Tomáš	Miňak	0	2217,3183,3339
+1240	Dziaková Alojzia r. Dziaková		0	2229,2264,2276,2554,2595,2660,3063,3373,3421
+1240	Dziaková Alojzia r. Dziaková	1	0	2243,2246
+1240	Dziaková Amália r. Dziaková	Miňak, m Ján	0	1199,1279,2032,2033,2227,2246,2276,2554,2581,2617,2618,2619,2660,2663,2664,2695,3171,3341,3342,3343,3372,3421
+1240	Dziaková Amália r. Reľovská		0	1199,1279,2032,2033,2229,2246,2266,2276,2554,2581,2595,2617,2618,2619,2660,2663,2664,3341,3342,3343,3372,3373,3421
+1240	Dziaková Angela r. Reľovská		0	2693
+1240	Dziaková Anna	1	0	2226,2246
+1240	Dziaková Anna	1, m Jozef	0	2225
+1240	Dziaková Anna	m Jozef	0	2672
+1240	Dziaková Anna r. Baffiková		0	1279,1366,2032,2033,2276,2554,2581,2617,2618,2619,2663,2664,3355,3421
+1240	Dziaková Anna r. Konterová	vd	0	3044
+1240	Dziaková Anna r. Reľovská		0	3328
+1240	Dziaková Anna r. Trembáčová		0	1199,1279,2032,2033,2276,2554,3421
+1240	Dziaková Anna r. Vilčeková		0	1199,2743,3341,3342,3343
+1240	Dziaková Anna r. Vilčeková	m Jozef	0	2246
+1240	Dziaková Eva		0	2693
+1240	Dziaková Eva	1	0	2225,2226
+1240	Dziaková Eva r. Vilčeková	m Andrej	0	2246
+1240	Dziaková Františka		0	1199,2276,2554,3181,3341,3342,3343,3405,3421
+1240	Dziaková Františka, 065 11, Kolačkov, č. 43, SR		0	1279,2032,2033
+1240	Dziaková Gizela		0	2660
+1240	Dziaková Gizela r. Dziaková		0	1199,1279,2032,2033,2276,2554,2581,2617,2618,2619,2663,2664,3341,3342,3343,3409,3421
+1240	Dziaková Helena	1	0	2246
+1240	Dziaková Johana r. Dziaková	m Tomáš, Gumula	0	1199,1279,2032,2033,2227,2276,2554,2581,2617,2618,2619,2663,2664,3341,3342,3343,3372,3421
+1240	Dziaková Jozefína		0	2246,2602,2660,2742
+1240	Dziaková Jozefína r. Dziaková		0	2033,2227,2246,2276,2554,2660,2998,3398,3421
+1240	Dziaková Karolína r. Reľovská		0	3372
+1240	Dziaková Karolína r. Reľovská	1	0	2245
+1240	Dziaková Karolína r. Reľovská	m Adolf	0	2222,2246
+1240	Dziaková Karolína r. Trembáčová		0	2032,2033,2239,2276,2554,2579,3327,3421
+1240	Dziaková Katarína r. Chlebáková		0	2937
+1240	Dziaková Katarína r. Chlebáková	m Jozef	0	2913
+1240	Dziaková Katarína r. Kolárová		0	2283
+1240	Dziaková Katarína r. Kolyarová	vd., m Juraj	0	2747
+1240	Dziaková Katarína r. Reľovská		0	1199,1279,2032,2033,2276,2554,3421
+1240	Dziaková Mária		0	1199,1279,2032,2033,2245,2246,2248,2276,2554,2581,2617,2618,2619,2660,2663,2664,2838,3341,3342,3343,3352,3372,3421
+1240	Dziaková Mária	1	0	2246
+1240	Dziaková Mária	2	0	2283,2624,2783
+1240	Dziaková Mária	Gomulová	0	2232
+1240	Dziaková Mária	Gumula	0	2229,2246,2266
+1240	Dziaková Mária r. Dziaková	1	0	2664,3173,3372
+1240	Dziaková Mária r. Gamulyaová		0	2695,3352
+1240	Dziaková Mária r. Imrichová		0	2227
+1240	Dziaková Mária r. Jozefíková		0	2216,2217,2220,2607,3138
+1240	Dziaková Mária r. Jozefíková	m Šimon	0	2717,3339
+1240	Dziaková Mária r. Jozefíková, 065 11, Kolačkov, č. 33, SR		0	2220
+1240	Dziaková Mária r. Madanszká	m Juraj	0	3363
+1240	Dziaková Mária r. Matišáková		0	2246
+1240	Dziaková Mária r. Matišáková	Gumuľová	0	2660,2895
+1240	Dziaková Mária r. Reľovská		0	1199,1279,2032,2033,2276,2554,3421
+1240	Dziaková Mária r. Reľovská	1	0	2246
+1240	Dziaková Mária r. Reľovská	m Jozef	0	2581,2660,2663,2664,3043,3341,3342,3343,3355
+1240	Dziaková Mária r. Scholtzová		0	2232
+1240	Dziaková Mária r. Slabikovská		0	2246
+1240	Dziaková Mária r. Sokoľáková		0	2266,3195
+1240	Dziaková Ružena r. Dziaková		0	2219
+1240	Dziaková Terézia		0	2816
+1240	Dziaková Terézia r. Dziaková		0	2033,3118
+1240	Dziaková Veronika r. Madanská		0	2032,2033,2276,2554,2806,3421
+1240	Dziaková Veronika r. Škapurová		0	2245
+1240	Dziaková Zuzana		0	3211
+1240	Dziaková Zuzana r. Duračinská		0	2287
+1240	Dziaková Zuzana r. Žoldáková	Franko	0	2276,2287,2554,2660,2776,3421
+1240	Dziaková Zuzana r. Žoldáková	m Jozef	0	2246
+1240	Elsner Ignác		0	2240,2246
+1240	Elsner Ignác	1	0	2246
+1240	Elsner Maxmilián		0	2246
+1240	Elsnerová Helena		0	2246
+1240	Farón František		0	2246
+1240	Farón Ján		0	2246,2250,2252,2588,2589,2590,2591,2592,2647,2648,2660,3388,3389,3390
+1240	Farón Ján	1	0	2246
+1240	Fedorová Rozália r. Hudáková	m Vincent	0	2246,2250,2252,2588,2589,2590,2591,2592,2647,2648,3388,3389,3390
+1240	Ferbsteinová Rozália r. Rosenbergerová	m Leopold	0	2246
+1240	Folvarčík Ferdinand		0	2246,2250,2252,2588,2589,2590,2591,2592,2647,2648,2660,3388,3389,3390
+1240	Folvarčík Gregor		0	2246
+1240	Folvarčík Gregor	1	0	2246
+1240	Folvarčík Ján		0	2250,2252
+1240	Folvarčík Ján, USA		0	2590,2591,2592,2648
+1240	Folvarčík Jozef		0	2250,2252
+1240	Folvarčík Matej		0	2246,2250,2252
+1240	Folvarčík Michal		0	2246,2250,2252
+1240	Folvarčík Tomáš		0	2246,2250,2252
+1240	Folvarčíková Ľudmila r. Štelmachová		0	2250,2252
+1240	Folvarčíková Salomea r. Mudráková		0	2246
+1240	Folvarčíková Salomei		0	2648
+1240	Francúzová Johana r. Rabatinová		0	2246,2250,2252,2590,2591,2592,2648
+1240	Francúzová Klára r. Konkoľová	m Alojz	0	2246
+1240	Francúzová Klára r. Konkoľová	m Ladislav	0	2250,2252
+1240	Francúzová Mária r. Konkoľová		0	2246,2250,2252
+1240	Frimel František		0	2246
+1240	Frimel Imrich		0	2246
+1240	Frimel Ján		0	2246,2276,2554,2660,2982,3421
+1240	Frimel Jozef		0	2246
+1240	Frimel Juraj		0	2246
+1240	Frimel Karol		0	2246
+1240	Frimel Michal		0	2246
+1240	Frimel Michal	1	0	2660,3080
+1240	Frimel Tomáš		0	2246
+1240	Frimelová Agáta r. Scholczová	m Juraj	0	3263
+1240	Frimelová Agnesa r. Scholzová	m Juraj	0	1199,1279,2032,2033,2246,2276,2554,2581,2617,2618,2619,2640,2660,2663,2664,3246,3341,3342,3343,3372,3421
+1240	Frimelová Anna r. Dziaková		0	1279,2032,2033,2276,2554,2581,2617,2618,2619,2663,2664,2836,3421
+1240	Frimelová Anna r. Dziaková	m Ján	0	1199
+1240	Frimelová Katarína		0	2246
+1240	Frimelová Katarína r. Zamišková		0	2225
+1240	Frimelová Mária		0	2246
+1240	Frimelová Mária r. Barnovská, USA		0	2276,2554,3421
+1240	Frisch Azmín, Dr.		0	2572
+1240	Gargulová Terézia r. Horanská		0	2276,2554,3421
+1240	Gargulová Terézia r. Horanská	m Andrej	0	2246
+1240	Goncsav Vincent		0	2647,2648,3388,3389,3390
+1240	Gončár Vincent		0	2246,2250,2252,2588,2589,2590,2591,2592,2648,2660
+1240	Gromovszká Zuzana r. Madanská	m Ján	0	2730
+1240	Guľašiová Rozália r. Repková		0	2246,2250,2252,2590,2591,2592,2648
+1240	Hagovská Margita r. Adamovičová		0	2250,2252,2590,2591,2592,2648
+1240	Hajasteková Antónia r. Konkoľová		0	2246,2250,2252
+1240	Harčárová Agnesa r. Mudráková		0	2648
+1240	Heinsová Františka r. Pečarková		0	2588,2589,2590,2591,2592,2647,2648,3388,3389,3390
+1240	Henisch Adolf		0	1199,1279,2032,2033,2276,2554,2581,2617,2618,2619,2663,2664,2997,3341,3342,3343,3421
+1240	Henisch Alojz		0	2246,2660
+1240	Henisch Ján		0	2276,2554,2572,2796,3421
+1240	Henischová Mária		0	2276,2554,2567,2759,3421
+1240	Henischová Mária r. Sentivanyová		0	2229,2246,2266
+1240	Herz Rudolf		0	2246
+1240	Horanská Alžbeta		0	2276,2554,3421
+1240	Horanská Helena r. Dziaková		0	2219,2229,2246,2266,2276,2554,2595,2640,2647,2648,2660,3060,3352,3373,3421
+1240	Horanská Johana r. Reľovská	m Ladislav	0	2246
+1240	Horanská Karolína r. Dziaková		0	2219,2229,2246,2266,2276,2554,2595,2640,2647,2648,2660,2740,3352,3373,3421
+1240	Horanská Klára		0	2276,2554,3421
+1240	Horanská Mária r. Blažovská	vd	0	2246
+1240	Horanská Mária r. Blažovská	vd., m Juraj	0	2240
+1240	Horanská Mária r. Repková		0	2246
+1240	Horanská Mária r. Repková	m Andrej	0	2246
+1240	Horanská Mária r. Szentiványiová		0	2246,2276,2554,3421
+1240	Horanská Mária r. Žoldáková		0	2229,2595,2606,3373
+1240	Horanská Mária r. Žoldáková	1	0	2285
+1240	Horanská Zuzana r. Dziaková		0	2247
+1240	Horanská Zuzana r. Dziaková	m Alojz	0	2247,3010
+1240	Horanská Zuzana r. Chlebáková		0	1199,1279,2032,2033,2276,2554,2581,2617,2618,2619,2626,2663,2664,3294,3341,3342,3343,3421
+1240	Horanská Zuzana r. Chlebáková	m Alojz	0	2246
+1240	Horanská Zuzana r. Reľovská		0	1199,1279,2032,2033,2229,2246,2266,2276,2554,2581,2595,2617,2618,2619,2626,2660,2663,2664,3341,3342,3343,3373,3381,3421
+1240	Horanský Alois		0	2247
+1240	Horanský Alojz		0	147,2276,2554,2605,2606,3221,3421
+1240	Horanský Andrej		0	2760
+1240	Horanský Emerich		0	2033,2276,2554,3421
+1240	Horanský Imrich	1	0	2246
+1240	Horanský Imrich	2	0	2246
+1240	Horanský Imrich	3	0	2246
+1240	Horanský Jozef		0	147,2276,2554,2843,3414,3415,3421
+1240	Horanský Jozef	2	0	2223
+1240	Horanský Jozef	3	0	2246
+1240	Horanský Juraj		0	1366,3356
+1240	Horanský Ladislav		0	2276,2554,3421
+1240	Horanský Matej		0	2246,2276,2554,3421
+1240	Horanský Pavol		0	1279,2262
+1240	Horanský Pavol	1	0	1279
+1240	Horanský Rezso		0	2246
+1240	Horanský Rezso	1	0	2246
+1240	Horanský Rudolf		0	2769
+1240	Horanský Štefan		0	532,2660,2697,2890
+1240	Horanský Štefan	1	0	2227,2246
+1240	Horčarová Agnesa r. Mudráková		0	2246
+1240	Horváth František		0	2246,2250,2252

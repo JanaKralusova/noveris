@@ -1,0 +1,256 @@
+43	TINTA Ján r. Tinta	maloletý	0	120,174,177,178,230,268,309,331,332,337,338,340,398,476,484,504,511,513,514,515
+43	TINTOVÁ Jolana		0	120,174,177,178,230,268,309,331,332,337,338,340,398,476,484,504,511,513,514,515
+43	TÓTH Vojtech r. Tóth		0	120
+43	TRNAVSKÁ Zuzana r. Balciarová		0	344,375,419
+43	TRNAVSKÝ Ján r. Trnavský a Júlia TRNAVSKÁ r. Kamoďová		0	386,387,475
+43	TRNAVSKÝ Martin r. Trnavský		0	344,375,419
+43	TRNAVSKÝ Ondrej r. Trnavský a Zuzana TRNAVSKÁ r. Piaterová		0	386,387,475
+43	TRNAVSKÝ Pavel r. Trnavský a Júlia TRNAVSKÁ r. Hrušková		0	386,387,475
+43	TRNAVSKÝ Pavol r. Trnavský		0	375
+43	VÉGH Juraj r. Végh		0	120
+43	VÉGHOVÁ Zuzana r. Kovalská		0	280
+43	VÉGHOVÁ Zuzana r. Kubanská	manž. Juraj	0	120,177,194,230,247,248,268,309,331,332,398,476,484,504,511,513,514,515
+43	VYLETELOVÁ Mária r. Wejsová		0	120,177,230,268,309,331,332,363,398,476,484,504,511,513,514,515
+43	ZEMAN Ján r. Zeman		0	386
+43	ZEMAN Jozef r. Zeman		0	120,174,178,386
+43	ZEMAN Matúš r. Zeman	mladší	0	380
+43	ZEMAN Matúš r. Zeman	slobodný	0	386
+43	ZRONIKOVÁ Mária r. Porová	Antonová	0	174,178,368
+43	ZVARA Ján r. Zvara		0	383,386
+43	ZVAROVÁ Júlia r. Struhárová	Jánova	0	120,177,208,230,268,277,278,279,280,309,331,332,398,476,484,504,511,513,514,515
+43	ŽUBRETOVSKÁ Margita r. Michalíková		0	120,174,178,264,351
+43	ŽUBRETOVSKÝ Peter r. Žubretovský		0	351
+44	Barlová Gizela r. Štubňovú	Kalištie č. 9	0	489
+44	Bohún Antonín r. Bohún	m. Katarína r. Štubňová	0	376,377
+44	Bohúnová Anna	Bully, Donovaly	0	376
+44	BOHUŇOVÁ Božena r. Kaliská		0	371,374
+44	Bohúnová Karolína r. Štubňová	m. Antonín	0	376,377
+44	BUČKO Alfonz r. Bučko		0	360,434
+44	Bučko Ivan r. Bučko	zomr. 30.1.1995; č.39	0	360,434
+44	Bukovčan Štefan r. Bukovčan	zomr. 7.1.1981	0	158
+44	BUKOVČANOVÁ Janka		0	158
+44	BULLA Alexander r. Bulla		0	365
+44	Bulla Imrich r. Bulla	m. Tereza r. Štubňová	0	357,358,383
+44	Bulla Ján r. Bulla	m. Apolónia r. Kajčiková; Bully	0	365
+44	Bulla Ján r. Bulla	m. Mária r. Štubňová	0	376,377
+44	Bulla Karol r. Bulla	m. Jana r. Mišútová; Mistríky	0	356
+44	BULLOVÁ Alojzia r. Longauerová		0	358
+44	Bullová Anna r. Longauerová	Šebastian	0	357,358
+44	Bullová Irena r. Longauerová	Šebastian	0	357,358
+44	BULLOVÁ Jozefína		0	361,375
+44	Bullová Mária r. Bullová	vdova; Donovaly, Bully č.11	0	362
+44	Bullová Mária r. Štubňová	m. Ján	0	376,377
+44	Bullová Terézia r. Štubňová	m. Imrich	0	357,358,383
+44	Bullová Valéria r. Bullová	vdova	0	364
+44	BUVALOVÁ Sabína r. Rafajová		0	228
+44	Čunderlík Alexander r. Čunderlík	zomr. 8.9.1978; Baláže č.29	0	158,160,297
+44	ČUNDERLÍK Alexander r. Čunderlík	zomr. 8.9.1978, Baláže č.29	0	568
+44	Čunderlík Gustáv r. Čunderlík	zomr. 30.8.1983; m.Mária r.Kulfasová; č.12	0	313,334
+44	Čunderlík Ján r. Čunderlík	zomr. 24.11.1978	0	137,141,228
+44	Čunderlík Karol r. Čunderlík	Zmok	0	137,141
+44	Čunderlík Koloman r. Čunderlík	zomr. 5.1.1974, m.Elena r.Tišliarová	0	137
+44	Čunderlík Koloman r. Čunderlík	zomr. 5.1.1974; m.Elena r.Tišliarová	0	228
+44	Čunderlík Milan r. Čunderlík	zomr. 8.8.1991	0	137,141,158,228,301,485
+44	Čunderlík Teodor r. Čunderlík	zomr. 5.11.1978; m. Blanka; Baláže č. 3	0	507
+44	Čunderlík Viktor r. Čunderlík	m. Anna r. Bartošová	0	338
+44	ČUNDERLÍK Viliam r. Čunderlík		0	137,141,158,228,301,485
+44	Čunderlík Vincent r. Čunderlík	zomr. 27.9.1975; m.Kornélia r.Rakytová	0	313
+44	Čunderlíková Blanka r. Palúchová	zomr. 21.8.1988; Baláže č. 3	0	214,507
+44	Čunderlíková Elena r. Tišliarová	zomr. 29.1.1966; m.Koloman	0	228
+44	Čunderlíková Kornélia r. Rakytová	zomr. 27.2.1990; m.Vincent	0	313
+44	Čunderlíková Mária r. Kulfasová	zomr. 15.7.1988; m.Gustáv; č.12	0	313
+44	Čunderlíková Viera r. Čunderlíková	zomr. 18.7.1999	0	137,141,158,228,301,485
+44	Čunderlíková Vilma r. Rusková	zomr. 13.12.1985, č.30	0	137,141
+44	Čunderlíková Vilma r. Rusková	zomr. 13.12.1985; č.30	0	159,228,485
+44	Čunderlková Anna r. Bartošová	m. Viktor	0	338
+44	DÁVIDOVÁ Elza r. Tišliarová		0	135,136,292,327,409
+44	Dobišová Anna r. Kaliská	m.František	0	397
+44	DONOVALOVÁ Emília r. Štubňová		0	393
+44	Donovalová Margita r. Longauerová	Šebastian	0	357,358
+44	DRBLÍK Ján r. Drblík		0	272
+44	DRBLÍKOVÁ Júlia		0	272
+44	DRBLÍKOVÁ Mária		0	272
+44	DRBLÍKOVÁ Vilma		0	272
+44	DUBAN Anton r. Duban		0	135
+44	DUBAN František r. Duban		0	135
+44	DVORSKÁ Cecília r. Štubňová		0	387
+44	Erdelyiová Vilma r. Rusková	Kalištie č. 37	0	385,440,535
+44	Flajová Jozefína r. Očenášová	m. Štefan	0	137
+44	GUŽINIAKOVÁ Jozefína		0	472,540
+44	GUŽINIAKOVÁ Júlia		0	472
+44	HAJDÚCH Ladislav r. Hajdúch		0	426
+44	HAJDÚCH Marian r. Hajdúch		0	426
+44	HAJDÚCHOVÁ Rozália		0	426
+44	Haliarská Albína	Kalištie č. 15	0	483
+44	Haliarská Hermína r. Kostúrová	vdova, Kalištie č. 15	0	203
+44	Haliarská Hermína r. Kostúrová	vdova; Kalištie č. 15	0	217,449
+44	Haliarská Štefánia	Kalištie č. 15	0	476
+44	Haliarský Felix r. Haliarský	Kalištie č. 15	0	474
+44	Halirská Hermína r. Kostúrová	vdova, Kalištie č. 15	0	432
+44	HANUŠKOVÁ Jana r. Štubňová		0	375
+44	Hiadlovská Alžbeta	zomr.; Baláže č.19	0	315
+44	Hiadlovská Elena r. Vyšná	m.Vojtech	0	199,215
+44	Hiadlovská Mária r. Rafajová	zomr. v r.1975; vdova; Baláže č. 18	0	228,331
+44	Hiadlovská Mária r. Slobodníková	zomr. 16.12.1991, Baláže č. 14	0	136
+44	Hiadlovská Mária r. Slobodníková	zomr. 16.12.1991; Baláže č. 14	0	175,244,302,320,328
+44	Hiadlovský Gustáv r. Hiadlovský	zomr. 16.6.1983, m. Alžbeta r. Homolová	0	136
+44	Hiadlovský Gustáv r. Hiadlovský	zomr. 16.6.1983; m. Alžbeta r. Homolová	0	155,158,187,188,189,320
+44	Hiadlovský Gustáv r. Hiadlovský	zomr. 3.10.1952; Baláže č. 19	0	315
+44	HOMOLOVÁ Ida r. Rusková		0	137,141
+44	Javorka Dominik r. Javorka	zomr. 14.1.1991; č.40	0	235,332,334,343
+44	JAVORKA Emil r. Javorka		0	137,332
+44	Javorka Ernest r. Javorka	zomr	0	235,332,334,343,426
+44	Javorka Gregor Jozef r. Javorka	zomr	0	282
+44	Javorka Ján r. Javorka	zomr. 27.12.1980	0	235,334,343
+44	Javorka Karol r. Javorka	zomr	0	235,332,426
+44	Javorka Karol r. Javorka	zomr.; m. Zlatica r. Javorková	0	228
+44	Javorka Mikuláš r. Javorka	zomr. 1.6.1988, č.19	0	137,141
+44	Javorka Mikuláš r. Javorka	zomr. 1.6.1988; č.19	0	312,332,334,343,426
+44	JAVORKA Pavel r. Javorka		0	137,332
+44	JAVORKA Žigmund r. Javorka		0	137,332
+44	JAVORKOVÁ Emília		0	235,332,334,343
+44	JAVORKOVÁ Františka r. Javorková		0	137,332
+44	Javorková Gizela r. Rusková	zomr. 24.7.1980	0	311
+44	JAVORKOVÁ Helena		0	137,332
+44	JAVORKOVÁ Jarmila		0	137,332
+44	JAVORKOVÁ Margita		0	137,332
+44	JAVORKOVÁ Sabína		0	235,332,334,343
+44	Javorková Zlatica r. Javorková	m. Karol	0	228
+44	JAVORKOVÁ Zuzana r. Slobodníková		0	136
+44	JEDNOTA ĽSD, 977 01, Brezno, SR		0	317
+44	Kahmalová Anna r. Mistríková	Kalištie č. 7	0	460
+44	Kajčíková Jozefína r. Hanesová	Kalištie č. 26	0	539
+44	Kaliská Adela	Kalištie č. 1	0	194,213,470
+44	Kaliská Adolfína r. Kaliská	m. Vincent; Kalištie	0	391
+44	KALISKÁ Albína r. Štubňová		0	361,362
+44	Kaliská Anna	č.d. 2286/1914	0	418
+44	Kaliská Anna	č.d. 3047/41	0	130,212
+44	Kaliská Anna	ml., čd. 1313/1893	0	395,399
+44	KALISKÁ Anna		0	401
+44	KALISKÁ Anna r. Slobodníková		0	136
+44	KALISKÁ Antónia r. Kaliská		0	130,212
+44	Kaliská Antónia r. Palúchová	m. Jozef	0	383
+44	KALISKÁ Apolónia		0	272,397
+44	Kaliská Blažena	Slov. Ľupča	0	515,543
+44	Kaliská Božena	po Štefanovi Kaliskom; Kalištie č. 20	0	266,471,477,478,509,525,534
+44	KALISKÁ Cecília		0	418
+44	Kaliská Cecília r. Kaliská	m. Jozef Steiner	0	383,409
+44	Kaliská Cecília r. Kaliská	m.Ján	0	397
+44	Kaliská Cecília r. Tišliarová	m. Ján	0	383
+44	Kaliská Elena	Kalištie č. 31	0	541
+44	KALISKÁ Ema r. Palúchová		0	426
+44	Kaliská Emília r. Kaliská	m. Július, Kalištie č. 34	0	403
+44	Kaliská Emília r. Kaliská	m. Július; Kalištie č. 34	0	202,519,543
+44	Kaliská Emília r. Kaliská	vdova	0	130,212,418
+44	Kaliská Emília r. Mydlová	m. Ignác	0	363
+44	Kaliská Emília r. Palúchová	m. Emil; Kalištie č. 17	0	200,209,220,228
+44	KALISKÁ Františka		0	397
+44	Kaliská Gabriela	dcéra vd. Karolíny	0	194,465,487,491
+44	Kaliská Gabriela r. Kaliská	m. Alexander	0	383
+44	Kaliská Gabriela r. Rakytová	Kalištie č. 16	0	219
+44	Kaliská Gabriela r. Rakytová	Podbrezová	0	272
+44	Kaliská Gustína r. Kaliská	Kalištie č. 31	0	424,436,498,541
+44	KALISKÁ Hermína		0	418
+44	KALISKÁ Ida		0	418
+44	Kaliská Jozefína	Kalištie č. 1	0	194,465,475,487
+44	Kaliská Jozefína r. Kaliská	m.Anton	0	270,397
+44	Kaliská Jozefína r. Palúchová	m. Jozef	0	383
+44	Kaliská Jozefína r. Tišliarová	m. Jozef	0	383
+44	Kaliská Júlia	Kalištie č. 31	0	541
+44	Kaliská Karolína r. Mistríková	Kalištie č.19	0	222,437
+44	KALISKÁ Kristína		0	418
+44	Kaliská Mária	č.d. 1740/1904	0	383
+44	Kaliská Mária	č.d. 2286/1914	0	418
+44	KALISKÁ Mária		0	130,212,412,418
+44	Kaliská Mária r. Longauerová	m. Anton	0	406
+44	KALISKÁ Mária r. Môciková		0	418
+44	Kaliská Mária r. Štubňová	vdova	0	371,374
+44	Kaliská Oľga	Kalištie č.1	0	194,213,488
+44	Kaliská Pavlína	hluchonemá; Slov.Ľupča č.37	0	211,222,505
+44	KALISKÁ Pavlína		0	397
+44	Kaliská Pavlína r. Kostúrová	Kalištie č. 15	0	203,217,218,432,532
+44	Kaliská Pavlína r. Štubňová	vdova, č.24	0	206,395,452,537
+44	Kaliská Šarlota	Kalištie č. 3	0	502
+44	KALISKÁ Terézia		0	395
+44	Kaliská Valéria r. Kajčíková	m. Eduard; Kalištie č. 26	0	529
+44	KALISKÁ Verona		0	406
+44	Kaliský Adolf r. Kaliský	m. Anna r. Švantnerová; č. 16	0	355
+44	Kaliský Alexander r. Kaliský	Horná Lehota č. 24	0	183,205,458
+44	Kaliský Alexander r. Kaliský	Kalištie č. 3	0	371,374,383,468
+44	KALISKÝ Alexander r. Kaliský		0	216,224,469,477,496
+44	Kaliský Anton r. Kaliský	m. Mária, r. Longauerová	0	406
+44	KALISKÝ Benedikt r. Kaliský		0	371,374
+44	KALISKÝ Eduard r. Kaliský		0	418
+44	Kaliský Emil r. Kaliský	m. Emília r. Kaliská; Kalištie č.19	0	220
+44	Kaliský Emil r. Kaliský	m. Emília r. Palúchová; Kalištie č. 17	0	209
+44	Kaliský Emil r. Kaliský	m. Gabriela r. Rakytová	0	183,205,531
+44	Kaliský Emil r. Kaliský	Valaská č.394	0	183,205,458
+44	KALISKÝ Emil r. Kaliský		0	200
+44	KALISKÝ Fabian r. Kaliský		0	400
+44	KALISKÝ František r. Kaliský		0	397,401
+44	KALISKÝ Izák r. Kaliský		0	270
+44	Kaliský Ján r. Kaliský	č.d. 1256/1893	0	282
+44	Kaliský Ján r. Kaliský	kováč, Kalištie č. 34	0	202,409
+44	Kaliský Ján r. Kaliský	kováč; Kalištie č. 34	0	439
+44	Kaliský Ján r. Kaliský	m. Mária r. Mydlová	0	362
+44	KALISKÝ Ján r. Kaliský		0	256
+44	Kaliský Jordán r. Kaliský	malol	0	371,374
+44	Kaliský Jozef r. Kaliský	čd. 2492/1903	0	280
+44	Kaliský Jozef r. Kaliský	čd.1313/1893	0	399
+44	Kaliský Jozef r. Kaliský	čd.5454/32	0	270
+44	Kaliský Jozef r. Kaliský	malol., č.d. 2286/1914	0	418
+44	KALISKÝ Jozef r. Kaliský		0	284
+44	Kaliský Július r. Kaliský	Kalištie č. 3	0	216,224,468,469,477,496
+44	KALISKÝ Július r. Kaliský		0	418
+44	KALISKÝ Karol r. Kaliský		0	383
+44	KALISKÝ Ľudovít r. Kaliský		0	266,471,477,478,486,534
+44	KALISKÝ Rudolf r. Kaliský		0	204,418
+44	Kaliský Štefan r. Kaliský	Kalištie č.23	0	204
+44	Kaliský Vincent r. Kaliský	m. Adolfína r. Kaliská; Kalištie	0	391
+44	Kaliský Vojtech r. Kaliský	Kalištie č.1	0	194,213,418,445
+44	Kálman Albín r. Kálman	zomr. , Baláže č. 12	0	139
+44	Kálman Albín r. Kálman	zomr., Baláže č. 12	0	140
+44	Kálman Albín r. Kálman	zomr.; Baláže č. 12	0	158,174,175
+44	Kálman Bernard r. Kálman	zomr. 29.5.1978; Baláže č. 38	0	300
+44	KALMAN Eduard r. Kalman		0	139,140,158,174,175
+44	KALMANOVÁ Barbora		0	284,338
+44	Kálmanová Božena r. Kálmanová	Baláže č. 44	0	248,249,252,253,280,282,284,319,338
+44	KÁLMANOVÁ Cecília		0	136
+44	KALMANOVÁ Elena r. Tišliarová		0	135,136
+44	KALMANOVÁ Ľudmila		0	280,282,284,338
+44	Kálmanová Mária r. Rakytová	m. Jozef	0	169,170,177
+44	Kálmanová Pavlína r. Kaliská	m.Ernest	0	397
+44	Kalmanová Rozália	Štubňová	0	387
+44	Kalmanová Veronika r. Rakytová	č. 12	0	272
+44	Kamhalová Anna r. Mistríková	Kalištie č. 7	0	447,463,537
+44	Kľučiarovská Vincenta r. Mydlová	m. Jozef	0	366
+44	KOHÁRYOVÁ Cecília r. Štubňová		0	387
+44	Kohlerová Anna r. Mydlová	Palúch	0	256
+44	Komora Viliam r. Komora	č. 19	0	221,403,414,451,454,455,493
+44	Komora Viliam r. Komora	m. Berta r. Tišliarová; Kalištie č. 13	0	214,221,270,448,450,451,454
+44	KOMOROVÁ Anna		0	214,270,398,448,450
+44	KOMOROVÁ Barbora		0	195,214,216,224,496,506
+44	KOMOROVÁ Berta		0	214,270,398,448,450
+44	Kostúr Jakub r. Kostúr	m. Adela r. Palúchová	0	200,209,530
+44	Kostúr Ján r. Kostúr	Kalištie č. 20	0	143,217,270,432,466
+44	KOSTÚR Jozef r. Kostúr		0	270
+44	Kostúr Július r. Kostúr	po Albertovi Kostúrovi	0	143,144,450,467,473
+44	KOSTÚR Ondrej r. Kostúr		0	405
+44	Kostúrová Adela r. Palúchová	m. Jakub; Kalištie č. 17	0	530
+44	Kostúrová Anna r. Kaliská	m. Ján	0	398
+44	Kostúrová Gabriela r. Komorová	m. Július; Slov.Ľupča, Hronská č. 41	0	214,270,448,450
+44	Kostúrová Gabriela r. Komorová	m. Július; Slov.Ľupča; Hronská č. 41	0	517
+44	Kostúrová Mária r. Kaliská, m.Ján		0	397
+44	Krivuš Jozef r. Krivuš	vdovec; Kalištie č. 29	0	527
+44	KRIVUŠOVÁ Božena		0	198
+44	KRIVUŠOVÁ Darina		0	198
+44	Kuba Štefan r. Kuba	m. Margita r. Kaliská	0	524
+44	Kubiš Štefan r. Kubiš	zomr. 18.10.1974; m. Ema r. Kulfasová	0	155
+44	KUBIŠ Vojtech r. Kubiš		0	136,155,188,330
+44	Kubišová Berta r. Rysová	Baláže č. 44	0	259,504
+44	KUBIŠOVÁ Vilma		0	136
+44	Kubová Margita r. Kaliská	m. Štefan; Kalištie č. 42	0	207,210,270,500,524
+44	KUBOVÁ Terézia r. Komorová		0	214,270,448,450
+44	Kulfas Alexander r. Kulfas	zomr. 28.8.1993; č.3	0	228,265,266,316,574
+44	KULFAS Alexander r. Kulfas		0	266
+44	Kulfas Anton r. Kulfas	m. Anna r. Tišliarová	0	335

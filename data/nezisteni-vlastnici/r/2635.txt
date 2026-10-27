@@ -1,0 +1,256 @@
+1502	MICHAĽÁKOVÁ Verona	r.Garbiarová	0	3143
+1502	MIKLÚŠEK Jozef	r.Miklúšek,Poláčik	0	3085,3145
+1502	MIKLUŠEK Ľudovít	r.Miklušek,Poláček	0	3145
+1502	MIKLÚŠEK Ľudovít	r.Miklúšek,Poláčik	0	3085
+1502	MIKLÚŠEK Matej	r.Miklúšek,Poľ.,kom.h.095	0	3013
+1502	MIKLUŠEK Štefan	r.Miklušek	0	2888
+1502	MIKLUŠEK Tomáš	r.Miklušek,m.Štefánia r.Nogová	0	3144
+1502	MIKLÚŠEK Tomáš	r.Miklúšek,pkv.198	0	3038
+1502	MIKLÚŠEK Tomáš	r.Miklúšek,pkv.198,por.č.148	0	3038
+1502	MIKLUŠEKOVÁ Anna	r.Ďobeková	0	3109
+1502	MIKLUŠEKOVÁ Anna	r.Vrabčeková,Suchá,pkv.198	0	3038
+1502	MIKLUŠEKOVÁ Mária	r.Stasová	0	3139
+1502	MOTÝĽ Ján	r.Motýľ,Zimmermann	0	3087
+1502	MOTÝĽ Jozef	r.Motýľ,m.Rozália r.Vavreková	0	3146
+1502	MOTÝĽ Martin	r.Motýľ,pkv.198	0	3038
+1502	MOTÝĽ Martin	r.Motýľ,pkv.198,por.č.204	0	3038
+1502	MOTÝĽ Martin	r.Motýľ,Záhradník,m.Verona r.Poláčiková,pkv.198	0	3038
+1502	MOTÝĽ Matej	r.Motýľ,pkv.198	0	3038
+1502	MOTÝĽ Matej	r.Motýľ,Záhradník,pkv.198	0	3038
+1502	MOTÝĽ Matej	r.Motýľ,Záhradník,pkv.198,por.č.163	0	3038
+1502	MOTÝĽ Tomáš	r.Motýľ,pkv.198	0	3038
+1502	MOTÝĽ Tomáš	r.Motýľ,Záhradník,čd.65/48	0	3135
+1502	MOTÝĽOVÁ Anna	čd.460/46	0	921,3134
+1502	MOTÝĽOVÁ Mária	čd.460/46	0	921,3134
+1502	MOTÝĽOVÁ Verona	r.Gensorová	0	3128
+1502	MRAČEKOVÁ Anna	r.Kubásová,kom.h.0358	0	3016
+1502	NAHAJ Matej	r.Nahaj,pkv.198	0	3038
+1502	NOGA Ján	r.Noga,čd.969/47	0	3085,3145
+1502	NOGA Ľudovít	r.Noga,čd.969/47	0	3085,3145
+1502	NOGA Martin	r.Noga,pkv.198	0	3038
+1502	NOGA Matej	r.Noga,pkv.198	0	3038
+1502	NOGA Tomáš	r.Noga,pkv.198	0	3038
+1502	NOGOVÁ Mária	čd.2806/1904	0	3134
+1502	NOGOVÁ Mária	čd.969/47	0	3085,3145
+1502	NOGOVÁ Rozália	čd.2806/1904	0	2903
+1502	ONDRIK Ján	r.Ondrik,pkv.198	0	3038
+1502	ONDRÍK Tomáš	r.Ondrík,pkv.198	0	3038
+1502	ONDRÍK Tomáš	r.Ondrík,pkv.198,por.č.190	0	3038
+1502	PAJUNG Alojz	r.Pajung,m.Anna r.Miškovičová	0	3120
+1502	PAJUNKOVÁ Anna	r.Miškovičová	0	3120
+1502	PAĽA Martin	r.Paľa,kom.h.0224	0	3079
+1502	PAREC Ján	r.Parec,pkv.198	0	3038
+1502	PARECOVÁ Verona	m.Ján,čd.3425/11	0	3107,3110
+1502	PÁSTOR Ján	r.Pástor,pkv.198	0	3038
+1502	PASTOR Jozef	r.Pastor,m.Mária r.Buľková	0	3117,3118,3457
+1502	PÁSTOR Matej	r.Pástor,pkv.198	0	3038
+1502	PASTOROVÁ Mária	r.Buľková	0	3117,3118,3457
+1502	PAŠTRNÁK Ján	r.Paštrnák,pkv.198	0	3038
+1502	PAŠTRNÁK Ján	r.Paštrnák,pkv.198,por.č.122	0	3038
+1502	PAŠTRNÁKOVÁ Mária	čd.706/26	0	3149
+1502	PATEK Ján	r.Patek,pkv.198	0	3038
+1502	PATEK Martin	r.Patek,čd.130/62	0	2233,3114,3131
+1502	PATEK Tomáš	r.Patek	0	3111
+1502	PATEK Tomáš	r.Patek,čd.852/29	0	2233,3114,3115
+1502	PATEK Tomáš	r.Patek,pkv.198	0	3038
+1502	PATEKOVÁ Anna	r.Dorcoňová,pkv.198	0	3038
+1502	PIROŽÁKOVÁ Štefánia	r.Matušíková	0	3132
+1502	PISOŇ Ján	r.Pisoň,pkv.198	0	3038
+1502	PISOŇOVÁ Karolína	pkv.198	0	3038
+1502	PISOŇOVÁ Mária	r.Tomajková,pkv. 198	0	3038
+1502	PISZONY Ján	r.Piszony,pkv.198	0	3038
+1502	PISZONY Karol	r.Piszony,pkv.198	0	3038
+1502	PISZONYOVÁ Rozália	pkv.198	0	3038
+1502	PISZONYOVÁ Verona	pkv.198	0	3038
+1502	POLAČEK Štefan	r.Polaček,pkv.198	0	3038
+1502	POLÁČEKOVÁ Anna	r.Rebidášová,Gašperová	0	3103,3105
+1502	POLÁČEKOVÁ Štefánia	Gašperová	0	3103,3105
+1502	POLÁČIK Ján	r.Poláčik,čd.1120/1902	0	3138
+1502	POLÁČIK Ján	r.Poláčik,Gasper,pkv.198	0	3038
+1502	POLÁČIK Ján	r.Poláčik,Kovalčin	0	3135
+1502	POLAČIK Jozef	r.Polačik,pkv.198	0	3038
+1502	POLÁČIK Jozef	r.Poláčik,Miklúšek	0	3139
+1502	POLÁČIK Ľudvík	r.Poláčik,Miklušek	0	3139
+1502	POLÁČIK Martin	r.Poláčik,Kovalčin	0	3138
+1502	POLAČIK Matej	r.Polačik,pkv.198	0	3038
+1502	POLAČIKOVÁ Anna	a spol.,kom.h.0282	0	3032
+1502	POLÁČIKOVÁ Anna	kom.h.0281	0	3082
+1502	POLÁČIKOVÁ Anna	r.Červenčíková,Gasperová, m.Martin	0	3153
+1502	POLÁČIKOVÁ Anna	r.Králová	0	3141
+1502	POLÁČIKOVÁ Mária	Kovalčinová	0	3138
+1502	POLÁČIKOVÁ Mária	r.Staseľová,Gasperová	0	3132
+1502	POLÁČIKOVÁ Verona	čd.1120/1902	0	3138
+1502	REBIDÁŠOVÁ Anna	r.Šteťárová	0	3142
+1502	REBIDÁŠOVÁ Mária	r.Gasperová,Poláčiková	0	3135
+1502	REPKA Martin	r.Repka,pkv.198	0	3038
+1502	REVAJ Ján	r.Revaj,kom.h.0211	0	3065
+1502	REVAJ Karol	r.Revaj,pkv.198	0	3038
+1502	REVAJ Peter	r.Revaj,pkv.198	0	3038
+1502	REVAJOVÁ Mária	Matej st.,kom.h.0221	0	3068
+1502	SAMBORSKA Verona	r.Vrabcová,pkv.198	0	3038
+1502	SAMBORSKY Martin	r.Samborsky,kom.h.0155	0	2927
+1502	SIROTOVÁ Cecília	kom.h.0175	0	3040
+1502	STANČOVSKÝ Jozef	r.Stančovský,pkv.198	0	3038
+1502	STANČOVSKÝ Jozef	r.Stančovský,pkv.198,por.č.117	0	3038
+1502	STAS Ján	r.Stas,pkv.198; r.Stas,pkv.198	0	3038
+1502	Stas Jozef r. Stas		0	1387
+1502	STAS Matej	r.Stas,pkv.198	0	3038
+1502	STASOVÁ Rozália	r.Benický	0	2901
+1502	STROKOVÁ Irena	čd.416/46	0	3150
+1502	SUČÁKOVÁ Karolína	pkv.198	0	3038
+1502	SUČÁKOVÁ Mária	pkv.198	0	3038
+1502	SUČÁKOVÁ Verona	pkv.198	0	3038
+1502	SUCHÝ Matej	r.Suchý,Vrabec,pkv.198	0	3038
+1502	ŠALKA Ján	r.Šalka,Ševec,pkv.198	0	3038
+1502	ŠÁLKOVÁ Mária	Martinova	0	3116
+1502	ŠÁLKOVÁ Mária	r.Hrkeľová,pkv.198	0	3038
+1502	ŠÁLKOVÁ Štefánia	r.Lieskovská	0	3140
+1502	ŠIMAĽA Anton	r.Šimaľa,pkv.198	0	3038
+1502	ŠINÁĽ Ján	r.Šináľ,čd.794/37	0	3129
+1502	ŠINÁĽ Ján	r.Šináľ,čd.839/48	0	3134
+1502	ŠINÁL Martin	r.Šinál,pkv.198	0	3038
+1502	ŠINÁL Matej	r.Šinál,pkv.198	0	3038
+1502	ŠINÁL Matej	r.Šinál,pkv.198,por.č.69	0	3038
+1502	ŠINÁĽOVÁ Mária	čd.839/48	0	3129
+1502	ŠINÁĽOVÁ Verona	vd.,kom.h.032	0	2957
+1502	ŠPRLÁKOVÁ Mária	č.207, pkv.198	0	3038
+1502	ŠPRLOVÁ Mária	čd.581/41	0	3125
+1502	ŠPULIER Ján	r.Špulier,pkv.198	0	3038
+1502	ŠTEFÁNIKOVÁ Mária	r.Pisoňová,pkv.198	0	3038
+1502	ŠTETÁR Ján	r.Štetár,Janov,pkv.198	0	3038
+1502	ŠTETÁR Ján	r.Štetár,Martinov,pkv.198	0	3038
+1502	ŠTETÁR Martin	r.Štetár,kom.h.0147	0	3044
+1502	ŠTETÁR Martin	r.Štetár,pkv.198	0	3038
+1502	ŠTETÁR Matej	r.Štetár,pkv.198	0	3038
+1502	ŠTEVULIAKOVÁ Verona	r.Vavreková	0	921,3134
+1502	ŠTOBER Ján	r.Štober,Lulek,pkv.198	0	3038
+1502	ŠTOBER Štefan	r.Štober,čd.813/31	0	3154
+1502	ŠTOBER Štefan	r.Štober,pkv.198	0	3038
+1502	ŠTRBIAK Vendel	r.Štrbiak,kom.h.333	0	3088,3090
+1502	ŠUHAJ Tomáš	r.Šuhaj,kom.h.0337	0	3071
+1502	ŠUVADA Ján	r.Šuvada,pkv.198	0	3038
+1502	ŠUVADOVÁ Mária	kom.h.0197	0	3088,3090
+1502	TREĽÁK Ján	r.Treľák,kom.h.0324	0	3088,3090
+1502	TRELÁK Matej	r.Trelák,pkv.198	0	3038
+1502	TRELÁK Štefan	r.Trelák	0	3132
+1502	TREĽÁKOVÁ Anna	r.Bučeková	0	3116,3126
+1502	TYSOŇOVÁ Verona	r.Šuvadová,pkv.198	0	3038
+1502	UHER Matej	r.Uher,pkv.198	0	3038
+1502	VAVREK Ján	r.Vavrek,čd.513/23	0	921
+1502	VAVREK Ján	r.Vavrek,Chudý,pkv.198	0	3038
+1502	VAVREK Ján	r.Vavrek,Chudý,pkv.198,por.č.104	0	3038
+1502	VAVREK Ján	r.Vavrek,Štober,pkv.198	0	3038
+1502	VAVREK Ján	r.Vavrek,Štober,pkv.198,por.č.169	0	3038
+1502	VAVREK Jozef	r.Vavrek,čd.513/23	0	921,3134
+1502	VAVREK Martin	r.Vavrek,pkv.198	0	3038
+1502	VAVREKOVÁ Mária	čd.513/23	0	921,3134
+1502	VAVREKOVÁ Verona		0	921
+1502	VAVREKOVÁ Verona	čd.513/23	0	3134
+1502	vlastník neznámy		0	3012
+1502	VRABCOVÁ Verona	r.Gasperová,Suchá	0	2878
+1502	VRABČEK Ján	r.Vrabček,Stroka,pkv.198	0	3038
+1502	VRABČEK Ján	r.Vrabček,Tomášov,pkv.198	0	3038
+1502	VRABČEK Juraj	r.Vrabček,pkv.198	0	3038
+1502	VRABČEK Martin	r.Vrabček,pkv.198	0	3038
+1502	VRABČEK Matej	r.Vrabček,pkv.198	0	3038
+1502	VRABČEK Tomáš	r.Vrabček,čd.811/47	0	3122
+1502	VRABČEK Tomáš	r.Vrabček,m.Anna r.Kabáčová	0	3122
+1502	VRABČEK Tomáš	r.Vrabček,Zeleň,pkv.198	0	3038
+1502	VRABČEK Tomáš	r.Vrabček,Zeleň,pkv.198,por.č.3211	0	3038
+1502	VRABČEKOVÁ Anna	čd.1358/24	0	3122
+1502	VRABČEKOVÁ Anna	r.Matušisková,Karolova	0	3121
+1502	VRABČEKOVÁ Verona	r.Dulková,pkv.198	0	3038
+1502	VRABEC Juraj	r.Vrabec,Suchy,pkv.198	0	3038
+1502	VRABEC Matej	r.Vrabec,a spol.,kom.h.0153	0	3088,3090
+1502	VRABEC Matej	r.Vrabec,Suchý,m.Verona r.Gasperová,roľník	0	2878
+1502	VRABEC Michal	r.Vrabec,roľník	0	2924
+1502	VRABEC Tomáš	r.Vrabec,pkv.198	0	3038
+1502	VRABEC Tomáš	r.Vrabec,Suchý	0	2883
+1502	VRABEC Tomáš	r.Vrabec,Suchý,kom.h.0275	0	2989
+1502	ZÁHRADNÍK Jozef	r.Záhradník,čd.785/47	0	3112,3113,3456
+1502	ZÁHRADNÍKOVÁ Anna	r.Lanďáková,Motýľová	0	3127
+1502	ZÁHRADNÍKOVÁ Karolína	r.Poláčiková,Gasperová	0	3136
+1502	ZÁHRADNÍKOVÁ Mária	r.Stroková	0	3150
+1502	ZBOJA Ján	r.Zboja,Matejov	0	3122
+1502	ZBOJA Ján	r.Zboja,roľník v Liesku	0	2515,2869
+1502	ZBOJA Jozef	r.Zboja,roľník v Liesku	0	2869
+1502	ZBOJA Matej	r.Zboja,pkv.198	0	3038
+1502	ŽIBRIDA Jozef	r.Žibrida,čd.594/48	0	3155
+1502	ŽIBRIDA Ludvik	r.Žibrida,čd.594/48	0	3155
+1503	Čujová Anna r. Sovová, SR	dcéra Michala	1	307
+1503	Dzurica Ján, USA		1	18
+1503	Galko Ján, SR	bytom Markušovce	1	77
+1503	Karchňak Tomáš, SR		1	321
+1503	Karchňaková Mária, SR		1	332
+1503	Knizner Eduard, SR		1	327
+1503	Knizner Ján	zomrel	1	328
+1503	Knizner Jozef, SR		1	327
+1503	Knizner Ondrej, SR		1	327
+1503	Knizner Tomáš, SR		1	327
+1503	Kniznerová Estera, SR		1	327
+1503	Kotlár František, SR	pôvodne bytom Lieskovany č. 52	1	65
+1503	Kotlár Ján, SR	bytom Poštovní 232, Třinec	1	65
+1503	Kotlár Jozef, SR	bytom Smižany	1	65
+1503	Kotlár Ľudovít, SR	bytom Poštovní 232, Třinec	1	65
+1503	Kotlár Rudolf, SR	bytom Gottwaldová 715/8,Třinec	1	65
+1503	Kotlárová Irma r. Horváthová, SR	bytom Krnov	1	65
+1503	Kotlárová Mária, SR	pôvodne bytom Lieskovany č.52	1	65
+1503	Mäkká Rozália r. Majerníková, SR		1	88
+1503	Pechová Anna, ČR	r. Kotlárová, bytom Třinec	1	65
+1503	Rakociová Katarína r. Fabianová, ČR	bytom v Davidove	1	312
+1503	Sova Michal, SR	nar.r.1905	1	307
+1503	Staňová Mária r. Sovová, SR	dcéra Michala	1	307
+1503	Vitková Margita r. Majerníková, SR		1	88
+1503	Wagnerová Mária r. Gazdurová, Ing., Lúčna 1656/30, Levoča, PSČ 054 01, SR		1	333
+1504	Bartoš Juraj		1	1257,1258
+1504	Beňo Juraj		0	1247,1589
+1504	Borgulová Mária		0	1257,1258
+1504	Bozalková Zuzana		1	1125,1311,1325,1326,1843
+1504	Buocová Zuzana		0	1042,1205,1387
+1504	Dávid Ján		0	1415
+1504	Dávidová Anna		0	1415
+1504	Dávidová Mária		0	1415
+1504	Dávidová Mária	mal.,čd. 2883/1889	0	1674
+1504	Demeterová Irma		0	1304
+1504	Dina Ján		0	1419
+1504	Dina Juraj		0	1419
+1504	Dina Pavol		0	1419
+1504	Dinová Anna	Mal	0	1419
+1504	Dinová Mária	Mal	0	1419
+1504	Družbacký Pavol		1	1058,1451
+1504	Ďurišová Mária		0	1215
+1504	Ďurišová Mária r. Margóčová	č.114	0	1367
+1504	Fega Juraj	Môťová 229	0	1419
+1504	Feriancová Anna		1	976
+1504	Feriancová Anna	Margočová, nar. 16.1.1910	1	976
+1504	Gajdoš Ondrej	m. E.Dobríková, Zvolen	0	1417
+1504	Garajová Zuzana		0	1254
+1504	Gaško Ondrej		1	1322
+1504	Gašková Mária		1	1407
+1504	Gašková Mária r. Horniaková		0	1286
+1504	Gažurová Anna		1	1420,1421
+1504	Gondová Mária		1	1080,1125,1181
+1504	Gondová Mária r. Miškovská	m.Juraj	0	1377
+1504	GREČOVÁ Anna		1	1666
+1504	GREČOVÁ Zuzana r. Mrvová		1	1666
+1504	Grenerová Anna		0	1451
+1504	Grenerová Mária		0	1451
+1504	Grenerová Zuzana		0	1451
+1504	Greňová Mária		0	1256,1259,1260
+1504	Grešo Ján	Ondrejov syn	0	1414
+1504	Hajdúch Ján		0	947
+1504	Hajdúch Pavol	Pavlov	0	1282
+1504	Hajdúchová Mária r. Gondová		0	1317
+1504	Hladká Zuzana		1	1437
+1504	Horniak Ondrej		1	723,1043,1233,1274,1358,1383,1424,1481,1484,1485,1758,1759,1779,1780,1829,1856,1930
+1504	Horniaková Zuzana		1	1003,1200,1314,1325,1326,1328,1358,1385,1843,1845
+1504	Horniaková Zuzana r. Jombíková	Ondrejova č.p. 10	0	481
+1504	Hrašková Zuzana r. Gondová	m.Pavol	0	1302,1303
+1504	Hudecová Mária		0	1033
+1504	Chovanová Zuzana		1	1199,1213,1249,1372,1381,1386
+1504	Chovanová Zuzana r. Mlynáriková	Zvolen	0	1316
+1504	Ištván Juraj		1	1227,1241,1349,1431,1477,1481,1485,1759,1779,1856
+1504	Ištván Ondrej		1	1481,1485,1759,1779,1856
+1504	Ištván Ondrej	Lieskovec č.151	0	1671
+1504	Ištván Ondrej	Môťová	0	1279
+1504	Ištván Pavol		0	963

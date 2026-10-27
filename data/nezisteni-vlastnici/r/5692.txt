@@ -1,0 +1,256 @@
+3200	ŠOLTÉSOVÁ Anna		1	807,808,1486
+3200	ŠOLTÉSOVÁ Mária		1	807,808,1486
+3200	ŠOLTÉSZOVÁ Alžbeta	mal	1	1486,1591
+3200	ŠOLTÉSZOVÁ Terézia		1	1486,1591
+3200	Štátny pozemkovo úverový úrad, SR	v Budapešti	1	1551
+3200	Takáčová Barbora, SR		1	400
+3200	Timková Julianna		1	617
+3200	TIMKOVÁ Julianna	r.Horváthová, /m.Štefan/	1	618
+3200	TITKO Peter		1	1440
+3200	TÓTH Alexander		1	1176,1177
+3200	TÓTH Alexander, SR		1	1501
+3200	TÓTH Andrej		1	1176,1177
+3200	Tóth František		1	778,1517
+3200	TÓTH Gabriel		1	1176,1177
+3200	TÓTH Imrich	/ž.Alžbeta Baloghová/	1	609,698,896,1590
+3200	TÓTH Ján		1	1270
+3200	TÓTH Ján	mal	1	1089
+3200	TÓTH Ján, SR		1	1489
+3200	Tóth Jozef		1	778,1452,1517
+3200	TÓTH Jozef	/ž.Katarína Domonkošová/	1	1619
+3200	TÓTH Ľudovít		1	1176,1177
+3200	Tóth Martin		1	778
+3200	TÓTH Vincent		1	1176,1177
+3200	Tóthová Alžbeta		1	778
+3200	TÓTHOVÁ Alžbeta	r.Baloghová	1	609,698
+3200	TÓTHOVÁ Alžbeta	r.Kovácsová	1	768,1232,1270,1489
+3200	TÓTHOVÁ Barbora	r.Gergelyová	1	698
+3200	TÓTHOVÁ Ester	r.Tóthová /m.Andrej/	1	550
+3200	Tóthová Helena, SR		1	1317
+3200	TÓTHOVÁ Katarína	r.Domonkošová	1	1619
+3200	Tóthová Zuzana		1	778
+3200	TÓTHOVÁ Zuzana	r.Benkóová	1	1452
+3200	TÓTHOVÁ Zuzana	r.Mátéová	1	262,550
+3200	TÓTHOVÁ Žofia	r.Bányácskiová	1	1111
+3200	Tóthová Žófia r. Bányácskiová, SR		0	96
+3200	TÓTOK Jozef		1	610
+3200	TÓTOKOVÁ Alžbeta		1	610
+3200	Tótoková Paula		1	893
+3200	UJHÁZIOVÁ Rozália	r.Pallérová	1	610
+3200	VAD Ján		1	1236
+3200	VADAOVÁ Mária	r.Viszicskóová, /m.Štefan/	1	1268
+3200	VADOVÁ Anna		1	1261
+3200	VÁRFALVY Július		1	1611
+3200	VÁRFALVYOVÁ Anna	r.Katrincsáková	1	1611
+3200	VASZILY Alexander	/ž.Mária Árvaiová/	1	610
+3200	VASZILY Alexander	mal	1	1477
+3200	Vaszily Alexander, SR		1	315
+3200	Vaszily Andrej		1	778
+3200	VASZILY Andrej	/ž.Lídia Kassaiová/	1	1407,1408
+3200	Vaszily František		1	778
+3200	VASZILY František	slob	1	1525
+3200	VASZILY Imrich		1	1416
+3200	Vaszily Ján		1	778
+3200	VASZILY Ján	/syn Ondreja/	1	1393
+3200	VASZILY Ján	/ž.Alžbeta Tótoková/	1	1392
+3200	Vaszily Jozef		1	778,1352,1477,1493
+3200	VASZILY Július		1	698
+3200	Vaszily Július, SR		1	315
+3200	Vaszily Žigmund		1	778,1475
+3200	VASZILYOVÁ Alžbeta		1	1407,1416
+3200	VASZILYOVÁ Alžbeta	mal	1	1408
+3200	VASZILYOVÁ Alžbeta	r.Salapová	1	1477
+3200	VASZILYOVÁ Barbora	r.Szabóová	1	1492
+3200	VASZILYOVÁ Emília	r.Kovácsová, /m.Alexander/	1	1402
+3200	VASZILYOVÁ Ester	r.Kassaiová, /m.Žigmund/	1	1455
+3200	VASZILYOVÁ Mária		1	1407,1408
+3200	VASZILYOVÁ Mária	mal	1	1477
+3200	VASZILYOVÁ Mária	r.Rajnová	1	1416
+3200	VASZILYOVÁ Matilda		1	1416
+3200	VASZILYOVÁ Pavla	r.Kaskóová /m.Andrej/	1	1408
+3200	VASZILYOVÁ Vilma		1	1416
+3200	WEINHOLDOVÁ Paula		1	1500
+3200	WEISZ Móric		1	1238
+3200	WEISZOVÁ Šarlota	r.Lefkovicsová	1	1238
+3200	Wirtschafter Herman		1	778
+3200	ZELEŇÁKOVÁ Alžbeta	r.Petróová	1	1340
+3200	ZOLŇANOVÁ Alžbeta	r.Kiššová	1	1560
+3200	ZOLŇANOVÁ Jolana	r.Kiššová	1	1494
+3201	Ačová Anna r. Sováková, SR		1	691,963,967
+3201	Alexiová Gizela r. Hutková, SR	m.Pavol	1	725
+3201	Anderková Mária r. Rendešová, SR		1	752
+3201	Babcsák Ján, SR	syn Jána	1	691,963,967
+3201	Babcsák Ján, SR	žena Mária r. Repovská	1	691,963,967
+3201	Babcsák Juraj, SR	syn Michala	1	691,779,963,967
+3201	Babcsák Michal, SR	vdovec	1	691,963,967
+3201	Babcsáková Anna, SR	dcéra Michala	1	691,779,963,967
+3201	Babcsáková Mária, SR	dcéra Michala	1	691,779,963,967
+3201	Babčák Ján, SR		1	744
+3201	Babčák Michal, SR		1	744
+3201	Babčáková Anna, SR		1	744
+3201	Bačová Alžbeta r. Maťašová, SR		0	573
+3201	Barna Bartolomej, SR		1	570,573,677,678,721
+3201	Barna Michal r. Zajacová, SR	žena Mária	1	691,963,967
+3201	Barna Michal r. Zajacová, SR	žena Mária r. Zajacová	1	824
+3201	Barna Michal, SR		1	570,573,677,678
+3201	Barna Michal, SR	maloletý	1	678,721
+3201	Barna Michal, SR	maloletý, maloletý	1	677
+3201	Barnaová Mária r. Zajacová, SR		1	699,700,718
+3201	Barnová Anna, SR	maloletá	1	677,678
+3201	Barnová Margita, SR		1	677,678
+3201	Barnová Mária r. Spotilová, SR		1	824
+3201	Barnová Mária r. Zajacová, SR		1	691,963,967
+3201	Bartolomejová Elena r. Hutková, SR	m.Pavol	1	725
+3201	Begala Andrej, SR		1	688,691,731,736,777,828,945,963,967
+3201	Begala Andrej, SR	žena Alžbeta r. Hajduková	1	691,815,963,967
+3201	Begala Ján, SR		1	590,731
+3201	Begala Ján, SR	zom	1	691,808,825,828,963,967
+3201	Begala Michal, SR		1	590,689,691,731,736,777,807,808,828,945,963,967
+3201	Begala Michal, SR	maloletý	1	808,831
+3201	Begala Michal, SR	syn Jána	1	691,785,963,967
+3201	Begala Mikuláš, SR		1	688,689,691,963,967
+3201	Begala Mikuláš, SR	ž.Anna Dandarová,zom	1	691,788,806,807,827,963,967
+3201	Begala Pavel, SR		0	590
+3201	Begala Pavol, SR		0	591
+3201	Begalová Alžbeta		1	828
+3201	Begalová Alžbeta, SR		1	688,736,807,808,945
+3201	Begalová Anna r. Dandárová, SR	muž Mikuláš	1	691,963,967
+3201	Begalová Anna r. Kondášová, SR		1	691,963,967
+3201	Begalová Anna, SR	maloletá	1	691,777,818,963,967
+3201	Begalová Anna, SR	muž Pavel	1	691,963,967
+3201	Begalová Barbora, SR		1	807,808,828
+3201	Begalová Mária, SR		1	854
+3201	Benyo Mikuláš, SR	ž.Mária r.Begalová	1	688
+3201	Benyová Mária r. Begalová, SR	m. Mikuláš	1	736,945
+3201	Berchtold Ladislav, SR	Gróf	1	677,916,917
+3201	Bobková Barbora r. Rimárová	muž Ján	1	691,963,967
+3201	Bobková Barbora r. Rimárová, SR	muž Ján	1	691,963,967
+3201	Bodnárová Mária r. Kondášová, SR	muž Michal	1	691,721,722,793,832,833,842,843,963,967
+3201	Bogdáň Jozef, SR	žena Mária r. Rojtášová	1	691,778,963,967
+3201	Bogdanová Anna r. Tothová	zomr	1	794
+3201	Bogdáňová Mária r. Rojtášová	muž.Jozef	1	778
+3201	Bogdáňová Mária r. Rojtášová, SR	muž Jozef	1	691,963,967
+3201	Bogdány Andrej, SR	mal	1	691,963,967
+3201	Bogdanyi Andrej, SR		1	714
+3201	Bogdanyi Ján, SR		1	714
+3201	Bogdanyi Michal, SR		1	714
+3201	Bogdanyi Pavol, SR		1	714
+3201	Bogdanyová Alžbeta r. Begalová, SR	m. Michal	1	736,945
+3201	Bogdanyová Alžbeta r. Begalová, SR	m.Michal	1	691,731,807,808,828,963,967
+3201	Bogdányová Anna r. Tóthová, SR	muž Andrej	1	691,963,967
+3201	Bogdanyová Júlia r. Janošková, SR	muž Andrej	1	691,963,967
+3201	Bogdányová Júlia r. Janošková, SR	muž. Andrej	1	684
+3201	Bývalí Želiari, SR	Spoločný pas.býv. želiarov a urbarníkov	1	691,712,963,967
+3201	Cibáková Anna r. Kolesárová, SR		0	537
+3201	Cibáková Anna, SR		1	691,798,963,967
+3201	Csicsnyei Ján	ž. Barbora r. Szováková	1	691,963,967
+3201	Csicsnyei Ján, SR		0	304,422
+3201	Csicsnyei Ján, SR	ž.Barbora r.Szováková	1	807,838
+3201	Csicsnyeiová Barbora r. Sováková, SR		0	304,422
+3201	Csicsnyeiová Barbora r. Szováková, SR	muž Ján	1	691,807,963,967
+3201	Csiscneiová Barbora r. Sováková, SR		0	422
+3201	Čebreňák Mikuláš, SR		1	691,693,963,967
+3201	Čebreňáková Barbora, SR	mal	0	564
+3201	Čišňaiová Anna r. Husárová, SR		1	691,963,967
+3201	Čižmár Michal, SR		1	677
+3201	Čižmárová Anna r. Janošková, SR	Ján	1	678
+3201	Čižmárová Anna r. Janošková, SR	m. Ján	1	691,963,967
+3201	Čižmárová Anna r. Janošková, SR	m.Ján	1	677,691,963,967
+3201	Dorogiová Alžbeta r. Rimárová	muž Juraj	1	691,963,967
+3201	Dorogiová Alžbeta r. Rimárová, SR	muž Juraj	1	691,963,967
+3201	Džupin Andrej, SR		1	675,691,963,967
+3201	Džupinová Anna r. Janošková, SR		1	675
+3201	Džupinová Anna r. Kondášová, SR	vdova	1	691,963,967
+3201	Džupinová Anna, SR	maloletá	1	691,963,967
+3201	Eperješiová Anna r. Barnová, SR		1	677,678
+3201	Eštok Michal, SR		0	293,537,934
+3201	Eštok Michal, SR	žena Mária r. Sokirová	1	691,963,967
+3201	Eštoková Mária r. Sokirová, SR		0	537
+3201	Eštoková Mária r. Sokirová, SR	muž Michal	1	691,963,967
+3201	Eštvaník Pavol, SR		1	691,963,967
+3201	Farkaš Juraj, SR		1	537,733
+3201	Farkaš Juraj, SR	maloletý	1	691,963,967
+3201	Farkašová Barbora r. Fedorová, SR		1	733
+3201	Fedor Juraj, SR		1	691,741,790,796,963,967
+3201	Fedor Michal, SR	zomr	1	794
+3201	Fedorčák Andrej, SR	žena Anna r. Jaczková	1	691,820,963,967
+3201	Fedorčáková Anna r. Jaczková, SR	muž Andrej	1	691,811,963,967
+3201	Fedorko Ondrej, SR	ml. žena Anna r. Jaczková	1	691,811,963,967
+3201	Fedorková Anna r. Jaczková, SR	muž Ondrej	1	691,811,963,967
+3201	Fedorová Alžbeta r. Pokrivňáková, SR		1	691,963,967
+3201	Fedorová Mária r. Tothová, SR		1	691,794,963,967
+3201	Gažiová Anna r. Miková, SR		1	701
+3201	Geciová Mária r. Maďarová, SR		1	852
+3201	Gočová Anna r. Zambová, SR		0	514,537
+3201	Godnkovičová Anna r. Horváthová, SR		1	678
+3201	Gondkovič Gejza, SR		1	677,678
+3201	Gondkovič Pavel, SR		1	677,678
+3201	Gondkovič Vojtech, SR		1	677,678
+3201	Gondkovičová Etela, SR		1	677,678
+3201	Haščáková Ema r. Szabová, SR		1	734
+3201	Haščáková Lucia r. Szabová, SR		1	734
+3201	Heringová Margita r. Hutková		1	677
+3201	Heringová Margita r. Hutková, SR		1	678
+3201	Heršman Ján, SR		1	710
+3201	Heršman Jozef	ž.Mária r.Herčíková	1	809
+3201	Horčíková Mária r. Sováková, SR		1	304,422,691,838,963,967
+3201	Horňák Michal, SR		1	841,842
+3201	Horňáková Barbora, SR		1	841
+3201	Horňáková Júlia, SR		1	841
+3201	Hornyak Michal, SR		1	842
+3201	Hornyaková Barbora, SR		1	842
+3201	Hornyaková Juliana, SR		1	842
+3201	Horváth Jozef, SR	žena Justína r. Kolonaiová	1	677
+3201	Horvath Koloman, SR		0	537
+3201	Horváth Štefan, SR		1	677
+3201	Horváth Vojtech, SR		1	537,677
+3201	Horváthová Anna, SR		1	677
+3201	Horvathová Irena, SR		0	537
+3201	Horváthová Margita r. Miková, SR	USA	1	701
+3201	Hrabovská Mária r. Miková, SR	muž Pavol	1	691,963,967
+3201	Hrabovská Mária r. Šimková, SR	muž Michal	1	691,963,967
+3201	Hrabovský Jozef, SR		1	697
+3201	Hrabovský Michal, SR	žena Mária r. Šimková	1	691,963,967
+3201	Hrabovszký Pavol, SR	ž.Mária r.Miková	1	703
+3201	Hrinko Ján, SR	žena Mária r. Németová	1	855
+3201	Hrinko Michal, SR	žena Mária r. Petiová	1	855
+3201	Hrivňák Michal, SR	ž.Mária r.Pokrivňáková	1	741
+3201	Hrivňáková Mária r. Pokrivňáková	m. Michal	1	963
+3201	Hrivňáková Mária r. Pokrivňáková, SR	m.Michal	1	691,796,967
+3201	Hudačka Jozef, SR		0	514
+3201	Hudačko Andrej, SR	žena Anna r. Juda Nagyová	1	691,963,967
+3201	Hudačko Ján, SR	žena Anna r. Zajaczová	1	691,696,963,967
+3201	Hudačko Michal, SR	syn Andreja	1	691,696,963,967
+3201	Hudačková Barbora r. Lešová, SR	muž Ján	1	691,696,963,967
+3201	Husár Ján, SR		1	691,963,967
+3201	Husár Pavol, SR		1	691,963,967
+3201	Hutka Zoltán, SR		1	677,678,725
+3201	Iľko Andrej, SR		1	691,727,963,967
+3201	Ištvanik Pavol	ž. Alžbeta r.Kondášová	1	704
+3201	Ištvanik Pavol, SR	ž.Alžbeta r.Kondášová	1	704
+3201	Ivicsová Mária r. Begalová, SR	muž Andrej	1	691,731,963,967
+3201	Jacko Ján, SR		1	691,811,859,963,967
+3201	Jacková Anna r. Timková, SR	vd	0	624
+3201	Jacková Mária r. Vojtková		1	862
+3201	Jaczko Michal, SR	žena Anna r. Matyasovszka	1	859,862
+3201	Jaczková Alžbeta, SR		1	862
+3201	Jaczková Mária, SR		1	691,811,963,967
+3201	Jakabová Mária r. Lovaszová, SR	muž Andrej	1	797,821,886
+3201	Jakabová Mária r. Lovaszová, SR	muž. Andrej	1	853
+3201	Janočková Mária r. Varholová, SR		1	829
+3201	Janoško Andrej, SR	žena Julinna r. Záveczki	1	684,691,963,967
+3201	Janoško Ján	ž.Zuzana r.Szenyaková	1	866
+3201	Janoško Ján, SR		1	684,691,963,967
+3201	Janoško Jozef, SR	ž.Anna r.Nechtilová	1	669
+3201	Janoško Juraj, SR		1	46,691,940,963,967
+3201	Janoško Juraj, SR	syn Michala	1	684,691,866,963,967
+3201	Janoško Michal, SR		0	46,940
+3201	Janoško Michal, SR	žena Anna r. Pasztivnyáková	1	673,691,963,967
+3201	Janoško Michal, SR	žena Barbora	1	684,691,716,866,963,967
+3201	Janošková Alžbeta, SR		1	691,801,963,967
+3201	Janošková Anna r. Suettová, SR		1	799
+3201	Janošková Barbora r. Janošková, SR	muž Michal	1	684,691,816,963,967
+3201	Janošková Elena, SR		1	819,829,868,980
+3201	Janošková Júlia, SR	dcéra Jána	1	691,963,967
+3201	Janošková Margita r. Sováková, SR		1	691,963,967
+3201	Janošková Mária, SR	dcéra Jána	1	691,802,963,967

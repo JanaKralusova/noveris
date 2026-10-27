@@ -1,0 +1,256 @@
+596	VEREŠ Andrej	v Diviakoch	0	67,68,69,70,852,853,1118
+596	VEREŠ Ján	ž.Zuzana r.Kubíková,č.40	0	1462
+596	VEREŠ Jozef	Martoneje,č.35,ž.Františka r.Sikorová	0	67,68,70,823,852,853,909,1118
+596	VEREŠ Juraj	Ivančiná	0	788
+596	VEREŠ Juraj	ž.Mária r.Selková,Ivančiná	0	866
+596	VEREŠ Ladislav		0	1570
+596	VEREŠ Ladislav	Turany-Pleso	0	788
+596	VEREŠ Michal		0	67,68,853
+596	VEREŠ Michal	v Amerike	0	67,68,69,70,852,853,909,1118
+596	VEREŠOVÁ Anna r. Rusnáková	m.Pavel,č.38	0	67,70,852,853,1118
+596	VEREŠOVÁ Anna r. Rusnáková	m.Pavel,č.38; m.Pavel,č.38	0	68
+596	VEREŠOVÁ Janka r. Jánošíková		0	1530
+596	VEREŠOVÁ Mária r. Sykorová	m.Michal,č.35	0	935,1387
+596	Verešová Mária, SR		0	21
+596	VIDOVÁ Anna r. Kmeťová	č.183	0	67,68,853
+596	ZABORSKÁ Anna r. Kevická	Mária	0	1689
+596	ZELEZNÍK Matej	ž.Anna r.Košíková,z Diviak	0	1540
+596	ZELIENKA Ján	ž.Mária r.Kapráliková, z Kaľamenovej	0	1587
+596	ZELIENKOVÁ Anna		0	1640
+596	ZELIENKOVÁ Mária		0	1640
+596	ZIBOLENOVÁ Zuzana r. Zibolenová	m.Ján,z Hája	0	1505
+596	ŽALMANOVÁ Augustina r. Kevická		0	1687,1688,1689
+596	ŽILA Vladimír		0	1640
+596	ŽILLOVÁ Mária		0	1640
+597	Balková Anna	r.Slančíková, D. Niva č. 155	0	484
+597	Bešina Martin	DUBOVÉ č.7	0	533
+597	Bešinová Zuzana	r.Kučerová, v Amerike	0	208,213,492
+597	Bešinská Mária	r.Bahýľová, vdova po Ondrejovi, Dubové č.47	0	165,503
+597	Bolová Mária	r.Kučerová, Dubové č.56	0	90
+597	Budáč Juraj r. Budáč	ž. Mária r. Šimunová, Dubové č. 54	0	514
+597	Budáčová Mária	r. Šimunová, m.Juraj, Dubové č. 54	0	514
+597	Fusková Mária	r.Valachová, D. Niva č. 51	0	549
+597	Futák Pavol	ž. Mária, r.Mozoľová, Dubové č. 41	0	46
+597	Futáková Anna	r.Kučerová, m.Pavel, Dubové č. 41	0	46
+597	Gažúr Ján	Dubové č.8	0	457
+597	Gažúr Ján, 962 61, Dubové, č. 8, Slovensko		0	108
+597	Jančovičová Anna	r.Gubančoková m.Ján, Dubové č. 30	0	98
+597	Kišš Ondrej	manž. Mária r.Majerová Dubové č. 26	0	167,207,241,242,499,512,711
+597	Kocman Ján	Horný Almáš č. 75	0	508
+597	Kučera Štefan	Hlásny, Dubové č. 11	0	242
+597	Lányi Ondrej	m.Eva Lasabová Dubové 15	0	551
+597	Lányiová Zuzana	r. Oravcová, m.Ondrej, Dubové č. 13	0	226
+597	Majer Martin	v Amerike	0	334,510,512
+597	Majer Martin	v Argentíne	0	169,188,336,338,339,512
+597	Majer Štefan	ž. Anna r. Beňová, vo Fracúzsku	0	203,448,450
+597	Majerová Anna	mal. sestra Mária, Kozelník	0	77,194,506,507,512
+597	Majerová Mária	mal.sestra Anna, Kozelník	0	77,194,506,507,512
+597	Majerová Mária	r.Slančíková, m.Štefan, Dubové č. 52	0	512
+597	Majerová Zuzana	r.Beňová, Dubové č. 52	0	512
+597	Rolnícke Družstvo SNP Dubové		0	444
+597	Slančík Ján	Dubové 4	0	548
+597	Slančík Ján	Uhrin, ž. Anna r. Poliaková, Dubové č. 28	0	521
+597	Slančík Ján	Ulický, ž.Zuzana, r.Kučerová, Dubové č. 22	0	484
+597	Slančík Ján r. Slančík, 2, 96261 Dubové, SR		0	512
+597	SLANČÍK JÁN, Dubové, č. 2, Slovensko		0	256,263
+597	Slančík Juraj	slob. Dubové č. 9 a 4	0	512
+597	Slančík Ondrej	Dubové č.4	0	473
+597	Slančík Ondrej	Mojžiš, ž.Katarína r.Jančovicová, Dubové č. 4 a 9	0	174,525
+597	Slančík Štefan	Kacian, ž.Anna r.Kútna, Dubové č.12	0	512
+597	Slančík Štefan	Mojžiš,m.Zuzana Bešinová, Dubové 4	0	531
+597	Slančík Štefan	slob	0	548
+597	Slančík Štefan r. Slančík	mal. Husár, Dubové č. 57	0	234
+597	Slančík Štefan r. Slančík	Mojžiš, ž. Zuzana r.Bešinová	0	22,195,512
+597	Slančík Štefan r. Slančík, 962 61, Dubové, č. 4, SR	Mojžiš, ž. Zuzana r.Bešinová; Mojžiš, ž. Zuzana r.Bešinová	0	18
+597	SLANČÍK ŠTEFAN r. SLANČÍK, Dubové, č. 53, SR		0	256
+597	Slančíková Anna	mal. Dubové č. 53	0	512
+597	Slančíková Anna	r.Slančíková, Jaďuď, Dubové č. 17	0	512
+597	Slančíková Anna	Štefanova, r. Slančíková, č. 53	0	215
+597	Slančíková Anna r. Slančíková, č.53, 96261 Dubové, SR		0	464
+597	SLANČÍKOVÁ ANNA, Dubové, č. 53, Slovensko		0	256
+597	Slančíková Mária	r.Kučerová, Dubové č.12	0	512
+597	Slančíková Mária	r.Šimunová, Muran, Dubové č. 53	0	41,519
+597	Slančíková Zuzana	r. Poliaková, Dubové č. 35	0	512,517
+597	Slančíková Zuzana	r.Kučerová, Ulická, m.Ján, Dubové č. 22	0	432
+597	Šimko Ján	m.Mária Krkošová D.Niva 209	0	535
+597	Šimun Štefan	ž. Anna r. Bartošová, Dubové č. 54	0	41,219,512,518
+597	Šimun Štefan, Dubové, č. 54, Slovensko		0	95
+597	Šimunová Anna	mal. Dubové č. 54	0	523
+597	Úkrop Ján	ž. Mária r. Tretiaková, Dubové č. 34	0	512,542
+597	UKROPOVÁ ANNA, Dubové, č. 34, Slovensko		0	256
+597	Ukropová Eva r. Slančíková, 33, 03823 Dubové, SR		0	493
+598	Agócs Štefan	žen. s Irenou r.Nagyovou	0	525
+598	Árvai Béla		0	591
+598	Árvaiová Ilona		0	591
+598	Árvaiová Rozália r. Gugyelková		0	591
+598	ARVAYOVÁ Rozália		0	19
+598	Balázsová Mária r. Hramanová		0	560
+598	Balog Ján		0	242,454,460
+598	Balogová Júlia r. Szanszlóová		0	242,454,460
+598	Bielak Eugen		0	276,685
+598	Bielak Jozef		0	276,685
+598	Bielak Ondrej		0	276,685
+598	Bielak Vendelín		0	276,685
+598	Bielaková Mária r. Peronová		0	272
+598	Bodnárová Margita r. Hramanová		0	560
+598	Bodonová Erzsébet r. Fűrjesová		0	592
+598	Bodorová Jolana r. Herčková		0	255
+598	Bödová Apolónia r. Balogová		0	242,454,460
+598	Bödová Zuzana r. Szekérová		0	242,454,460
+598	Bohuš Ján	žen. s Piroškou r. Mészárošovou	0	548
+598	Bohušová Piroška r. Mészárošová		0	414
+598	BREDÁROVÁ Helena r. Telgareczová		0	481,490,521,578,678,694
+598	Caban Dezider Ľudovít		0	233
+598	Caban Ladislav r. Caban	zomrel	0	233
+598	Cipruszová Anna r. Hamková		0	273
+598	Csaková Juliana r. Czipruszová		0	549,550
+598	Csépeová Katarína r. Telgareczová		0	242,454
+598	Cziprusz Bartolomej	žen. s Máriou r. Verešovou	0	603
+598	Cziprusz Ján	zomrel	0	305,383
+598	Cziprusz Ján Valent		0	602
+598	Cziprusz Jozef	žen. s Julianou r. Šerešovou	0	549,550
+598	Cziprusz Ladislav		0	549,550
+598	Cziprusz Štefan		0	602
+598	Cziprusz Zoltán		0	549,550
+598	Czipruszová Erzsébet		0	549,550
+598	Czipruszová Ilona		0	549,550
+598	Czipruszová Mária r. Bredárová		0	559
+598	Čajnáková Mária r. Kánová		0	570
+598	Dobos Jozef	zomrel	0	305,383
+598	Dobos Ludevít	žen. s Annou r.Tóthovou	0	342,453,607,704
+598	Dobos Valent		0	342,453,607,704
+598	Doboš Július	zomrel	0	576
+598	Dobošová Margita r. Bohušová		0	367
+598	Dósová Regina r. Kristályová		0	475
+598	Dožinková Juliana r. Palcsóová		0	242,454,460
+598	Dubovská Jolana r. Szmudová		0	556,614,714
+598	Fekete Štefan	žen. s Annou r. Csépeovou	0	362
+598	Fekete Štefan	žen.s Annou r. Csépeovou	0	536
+598	Feketeová Anna r. Csépeová		0	543
+598	Gácsiová Zuzana r. Hiznyanová		0	233
+598	Gálik Ján		0	20
+598	Galiková Mária r. Czipruszová		0	549,550
+598	Gallo Ondrej	Čipka	0	572
+598	Herényi Ján		0	601
+598	Herényiová Mária r. Hrapčoková		0	601
+598	Hizsnyanová Rozália r. Pappová		0	562
+598	Horváth Barnabáš		0	597,599
+598	Horváth Ján		0	598,599
+598	Horváth Viliam		0	598,599
+598	Horváthová Mária		0	598,599
+598	Hosszúréti Dezider		0	122,546
+598	Hosszúréti Dezider	zomrel	0	305,383
+598	Hosszúréti Ľudovít	zomrel	0	305,383
+598	Hosszúrétiová Alžbeta r. Hramanová		0	55
+598	Hosszúrétiová Gizela r. Kruppová		0	545
+598	HOSSZURÉTIOVÁ Gizela r. Telgareczová		0	521,578
+598	Hraman Ján		0	560
+598	Hraman Jozef		0	560
+598	Hramanová Mária r. Szmudová		0	556,614,714
+598	Hramanová Mária r. Szöke		0	560
+598	Hrivňák Július	zomrel	0	581
+598	Hrivňáková Helena r. Hosszúrétiová		0	55
+598	Hrivnyák Andor		0	58,554,681
+598	Hrivnyák Jozef	žen.s Máriou r.Csépesovou	0	567
+598	Hrivnyák Július	pipíš	0	268,269,671
+598	Hrivnyák Martin	Šimek	0	538
+598	Hrivnyák Valent	žen.s Helenou r.Hrivnyákovou	0	370
+598	Hrivnyáková Ilona		0	436
+598	Hrivnyáková Jolana r. Fekete		0	362
+598	Hrivnyáková Juliana r. Gyenesová		0	555
+598	Hrivnyáková Marta		0	58,554,681
+598	Imreczeová Irena r. Szekérová		0	242,454,460
+598	Joniak Jozef		0	276,685
+598	Joniak Milan		0	276,685
+598	Joniak Ondrej		0	276,685
+598	Joniak Peter		0	276,685
+598	Joniaková Anna		0	276,685
+598	Joniaková Irena		0	276,685
+598	Kán Pavol	Fiskál	0	469
+598	Kanta Ján	žen. s Alžbetou r.Bodnárovou	0	540
+598	Keková Juliana r. Szmudová		0	557
+598	Kisantal Béla		0	602
+598	Kisgergelyová Mária r. Czipruszová		0	549,550
+598	Klenicsová Zuzana r. Szmudová		0	556,614,714
+598	Köbölová Alžbeta r. Dobošová	zomrela	0	242,454,460,576
+598	Krejčová Emília r. Kánová	zomrela	0	270,469,675
+598	Lökösová Lívia		0	604
+598	Lőrinczová Etela	zomrela	0	585,649
+598	Magyarová Nella r. Czipruszová	zomrela	0	582
+598	Maječíková Mária r. Skladaná		0	554
+598	Mészárosová Anna r. Hramanová		0	560
+598	Molnárová Edita r. Mészárosová	Maďarsko	0	561
+598	Nagy Jozef	syn Ľudovíta	0	482
+598	Nagy Ľudovít	zomrel	0	305,383
+598	Olho Jozef		0	593
+598	Oroszová Anna Rozália r. Hrivnyáková		0	269
+598	Palcsó Ján		0	242,354,454,460,564,569,691
+598	Palcsóová Erszébet		0	242,354,454,460,564,569,691
+598	Pavlík Štefan		0	365,566
+598	Pavlíková Helena r. Matejčíková		0	365,566
+598	Pokorádiová Helena r. Herčková		0	255
+598	Pólosová Katarína r. Lökösová		0	604
+598	Rubint Ján		0	549,550
+598	SKLADANOVÁ Mária		0	19
+598	Smuda Valent	zomrel	0	305,383
+598	Styavina Jozef	žen. s Margitou r.Telgareczovou	0	302,437,608,701
+598	Styavina Ladislav		0	302,343,437,608,701
+598	Styavinová Juliana r. Tokárová		0	242,454,460
+598	Suhányi Ľudevít		0	242,454,460
+598	Suhányi Štefan		0	277,672,686
+598	Száistóková Klára		0	255
+598	Szarková Jolana r. Czabanová		0	590
+598	Szkladan Bálint		0	316
+598	Szkladan Bertalan		0	316
+598	Szkladanová Anna r. Árvaiová		0	316
+598	Szmudová Anna r. Keková		0	535
+598	Šimon Jozef		0	561,568
+598	Šimon Jozef	žen.s Máriou r. Kruppovou	0	561
+598	Šťavinová Hermína r. Tokárová		0	286,287,306,565,571,588,618,647,663,666,668,712
+598	Šťavinová Margita	zomrela	0	310
+598	Telgarec Jozef	syn Martina	0	105,478
+598	Telgarec Ladislav	zomrel	0	305,383
+598	Telgarec Ľudovít	syn Ladislava	0	282
+598	Telgarecz Ján	Csirák	0	589
+598	Telgarecz Ján	Felsó mladší	0	276,685
+598	Telgarecz Ján	syn Štefana	0	578
+598	Telgarecz Ján	žen. s Annou r.Orszaczkou	0	310
+598	TELGARECZ Ján		0	481,490,521,678,694
+598	Telgarecz Jozef		0	595
+598	Telgarecz Štefan	syn Štefana	0	578
+598	TELGARECZ Štefan		0	481,490,521,678,694
+598	Telgarecz Valent	Argentína	0	578
+598	Telgarecz Valent	Csirák	0	289,444,519,677,688,698
+598	TELGARECZ Valent		0	481,490,521,678,694
+598	Telgareczová Júlia r. Rydzoňová		0	595
+598	TELGARECZOVÁ Mária		0	481,490,521,678,694
+598	Telgareczová Mária r. Czebáková		0	310
+598	Telgareczová Mária r. Telgareczová		0	578
+598	Tokár Jozef		0	580
+598	Tokárová Mária r. Vengerová		0	580
+598	Tomhajzerová Mária r. Herčková		0	255
+598	Tóth Štefan		0	242,454,460
+598	Trelaj Jozef		0	279,280,676,687
+598	Tunyi Ján		0	534
+598	Tunyi Jozef		0	366
+598	Tunyi Juraj		0	174,470,471
+598	Tunyi Štefan	zomrel 22.05.2009, naposledy bytom Ul.Vajanského 2, Prešov	0	130
+598	Tunyiová Helena		0	366
+598	Tunyiová Margita r. Hosszurétiová		0	534
+598	Varga Július		0	347
+598	Vargová Anna r. Telgarecová		0	347
+598	Veverková Elena r. Trelajová		0	279,280,676,687
+598	Zipserová Irena r. Árvaiová		0	591
+598	Zoller Ján		0	356,692
+599	Achimovičová Anna	r BAŇASOVÁ	0	143,194,293,762,796,1429,1430,1884,1958,2171
+599	ANDREJOVÁ Anna	r MIŽENKOVÁ	0	762,917,918,1429,1430,1431,1755,1758,1761,1766,1884,1954,1955,1958
+599	ANGELOVIČOVÁ Mária	r MARTOŇÁKOVÁ	0	909
+599	ASMONDOVÁ Mária	r POSILNÁ	0	143,762,967,1429,1430,1884,1958
+599	BAŇAS Andrej	ž.Mária r.Kindžurová	0	762,1429,1430,1884,1958
+599	BAŇAS Jozef	ž.Terézia r.Dobrovičová	0	1547
+599	BAŇAS Jozef	ž.Žofia r.Martoňáková	0	143,194,293,762,796,1429,1430,1884,1958,2171
+599	BAŇAS Štefan	ž.Anna r.Kačmaríková	0	762,1429,1430,1884,1958
+599	BAŇAS Štefan	ž.Zuzana r.Hyškárová	0	293,762,1429,1430,1500,1884,1958
+599	BAŇASOVÁ Anna	dcéra Jozefa	0	293,762,1429,1430,1499,1884,1958
+599	BAŇASOVÁ Anna	r KARABINOŠOVÁ	0	1560
+599	BAŇASOVÁ Mária	r LIPOVSKÁ	0	762,1429,1430,1884,1958

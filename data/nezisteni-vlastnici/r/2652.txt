@@ -1,0 +1,256 @@
+1511	Nemčeková Albína r. Královenská		0	3646
+1511	Nemčeková Anna r. Jurčo	zom	0	2049,2090
+1511	Nemčeková Anna r. Jurčová	NV	0	1770
+1511	Nemčeková Anna r. Jurčová	zom	0	1427
+1511	Nemčeková Anna r. Jurčová	zomr	0	1711
+1511	Nemčeková Anna r. Jurčová, SR zomr.		0	1386
+1511	Nemčeková Anna r. Jurčová, zom.		0	1631
+1511	Nemčeková Anna r. Jurčová,Vendelová		0	3488,3497,3509,3779,4848
+1511	Nemčeková Anna r. Stolárová	zomr	0	2436,2461,2462
+1511	Nemčeková Anna r. Szilová		0	3283
+1511	NEMČEKOVÁ Darina		0	3550,3633,3701,3704,3719,3803,3939,3972,4781,4934
+1511	Nemčeková Eva r. Kuricová,Vojaková		0	3508,3727,4930
+1511	Nemčeková Eva Vojak r. Kuricová	zomr	0	1335,1336,2151,2152
+1511	NEMČEKOVÁ Ida		0	3508,3681,3701,3729,3860,4206,4930,4934
+1511	Nemčeková Jozefína r. Halušková	zomr	0	1691,1720,1723,1834,1846,1852,1918,2006,2112,2203,2262,2339,2349
+1511	Nemčeková Jozefína r. Halušková, SR	zomr	0	2056
+1511	Nemčeková Katarína r. Bírošová		0	3555
+1511	Nemčeková Katarína r. Javorková		0	415
+1511	Nemčeková Ľudmila	mal	0	3457,3704,3939
+1511	Nemčeková Mária	NV	0	1644,1665,2151,2152
+1511	NEMČEKOVÁ Mária		0	3681
+1511	Nemčeková Mária Kruták r. Bakošová	zomr	0	2432
+1511	Nemčeková Milica	mal.; mal	0	3372
+1511	Nemčeková Milica	NV	0	1893
+1511	Nemčeková Milica, SR		0	1335
+1511	Nemčeková Paulína r. Kellová,Vrabko		0	3550,3701,3704,3967,3972,4934
+1511	Nemčeková Pavlína r. Kellová, Vrabko	NV	0	1540
+1511	Nemčeková Pavlína Vrabko r. Kello	NV	0	1951,1952
+1511	Nemčeková Pavlína Vrabko r. Kello, SR		0	1332
+1511	Nemčeková Pavlína Vrabko r. Kellová	NV	0	1742
+1511	Nemčeková Zuzana	NV	0	2151,2152
+1511	Nemčeková Zuzana r. Banda Kuric		0	1334,2026,2028
+1511	Nemčeková Zuzana r. Banda Kuric	NV	0	1751,1752
+1511	Nemčeková Zuzana r. Bandová, Kuricová		0	3727
+1511	Nemčeková Zuzana r. Bandová,Kuricová		0	3681,3728
+1511	Nemčeková Zuzana r. Brtková	NV	0	2435,2461
+1511	Nemčeková Zuzana r. Buková	zomr	0	1846,1848,1899
+1511	Nemčeková Zuzana r. Buková, SR	zomr	0	1875
+1511	Nemčeková Zuzana r. Buková, SR zomr.		0	1368
+1511	Nemčeková Zuzana r. Klepáčová		0	3860,4206
+1511	Nemčeková Žofia r. Fajta	zomr	0	1800
+1511	Nemčeková Žofia r. Fajta, SR	zomr	0	1435,1499,1500,2183
+1511	Nemčeková Žofia r. Fajtová		0	3862,3863
+1511	Nemčeková Žofia r. Fajtová	zom	0	1433,1498
+1511	Nemčeková Žofia r. Fajtová	zomr	0	1705,1820,1871,1960,1961,2037,2334,3215
+1511	Nemčeková Žofia r. Fajtová, zom.		0	1604
+1511	neurčiteľný vlastník		0	1395,1848,1899,2298
+1511	Neurčiteľný vlastník, SR		0	1875
+1511	Ondrejčeková Erika r. Hlivová		0	1506,1673,1878
+1511	Ondrejčeková Erika r. Hlivová, 026 01, Dolný Kubín, SR		0	1820,1854,1865,1877,1904,2110
+1511	Ondrejková Pavlína r. Holdošová	zom	0	1455
+1511	Ondrejková Pavlína r. Holdošová	zomr	0	1821,1827,1830,1832,1836,1984
+1511	ONDRUŠ Ondrej a Helena ONDRUŠOVÁ		0	3846
+1511	OROLIM Arnold		1	4136,4643
+1511	OROLIM Jakub		1	4136,4643
+1511	Orolím Ondrej		1	4643
+1511	OROLIM Pavol		1	4136,4643
+1511	OROLIN Ján		1	4136,4643
+1511	OROLIN Peter		1	4136,4643
+1511	OROLIN Štefan		1	4136,4643
+1511	Paciga Juraj	NV	0	1471,1472,1728,1822,1839,4789,4790
+1511	PACIGA Juraj		0	3605,3606
+1511	Paciga Ľudik	NV	0	1822,4789
+1511	PACIGA Ludvik		0	3605,3606
+1511	Paciga Ľudvík	NV	0	1471,1472,1728,1822,1839,4789,4790
+1511	Paciga Silvester	NV	0	1471,1472,1728,1822,1839,4789,4790
+1511	PACIGA Silvester		0	3605,3606
+1511	Pacigová Anna	NV	0	1471,1472,1728,1822,1839,4789,4790
+1511	PACIGOVÁ Anna		0	3605,3606
+1511	Pacigová Jolana	NV	0	1471,1472,1728,1822,1839,4789,4790
+1511	PACIGOVÁ Jolana		0	3605,3606
+1511	Pacigová Petronela	NV	0	1471,1472,1728,1822,1839,3605,4789,4790
+1511	PACIGOVÁ Petronela		0	3606
+1511	Pačin Arnold	zom	0	1554,1764,2051
+1511	Pačin Arnold	zomr	0	1820,2393,3215
+1511	PAČIN Arnold		0	3862,3863,4152
+1511	Pačin Arnold, SR	zom	0	1902,2365
+1511	Pačin Emil	NV	0	1711
+1511	Pačin Ferdinand	NV	0	1711
+1511	Pačin František	NV,R25.6.1956	0	1820,3215
+1511	PÁČIN František		1	3863,4682
+1511	Pačin František, 034 95, Likavka, SR	d.ú.13.7.1981; d.ú.13.7.1981	0	3653
+1511	Pačin Ján	pk; pk	0	4152
+1511	Pačin Ján	zomr	0	1858
+1511	PAČIN Jozef	mal	0	4152
+1511	Pačin Ondrej	zomr	0	1862,1924,2155
+1511	PAČIN Tomáš		0	3985
+1511	Pačinová Anastázia r. Fajtová	zomr	0	1761
+1511	Pačinová Jozefína r. Hrčková Tabak	NV	0	2325
+1511	Pačinová Jozefína r. Hrčková, Tabak	NV	0	1518,1519,1568
+1511	Pačinová Jozefína r. Hrčková,Tabak		0	1402
+1511	Pačinová Jozefína r. Hrčková,Tabak	NV	0	1711,1767,1931
+1511	PAČUNOVÁ Jozefína r. Hrčková,Ondrejková		0	3445,3891
+1511	Pallová Ema r. Hrnčiarová	NV	0	2416,2461,2462
+1511	Pápežová Margita r. Drabiňáková		1	4643
+1511	Pastuchová Mária r. Kozubová		0	1849
+1511	Pastuchová Mária r. Kozubová	NV	0	1533,1535,1683,1729,1815,2033,2036
+1511	Pastuchová Mária r. Kozubová,Chovanová		0	3613,3614,3751,3760,3771,3772,3804
+1511	Páterová Štefánia r. Buková, Rajtková Rajtková		0	4914
+1511	Páterová Štefánia r. Buková,Rajtková		0	3785,4116
+1511	PAULECOVÁ Karolína		0	4092
+1511	Paulíková Anna r. Hatalová	NV	0	1890,1895,4231
+1511	PÁVEK Rudolf		0	4120
+1511	Páveková Žela r. Holková		0	4120
+1511	Páveková Želmíra r. Holková	zomr	0	2223
+1511	PAVLÍK Eduard		1	4136,4643
+1511	PAVLÍK Ján		1	4136,4643
+1511	PAVLÍK Jozef		1	4136,4643
+1511	PAVLÍK Jozef	I	0	4136
+1511	Pavlík Ladislav		1	4643
+1511	PAVLÍK Matej		1	4136,4643
+1511	PAVLÍK Ondrej		1	4136,4643
+1511	PAVLÍK Pavol		1	4136,4643
+1511	PAVLÍK Pavol	I	0	4136
+1511	PAVLÍK Pavol	II	0	4136
+1511	PAVLÍK Pavol	Ondrejov	1	4136,4643
+1511	Pavlík Peter		1	4643
+1511	PAVLÍK Štefan		1	4136,4643
+1511	PAVLÍK Štefan	zomrel 02.03.1988	0	4136
+1511	Pavlíková Anna r. Holubčíková		1	4643
+1511	Pavlíková Katarína r. Gregorová		1	4643
+1511	Pavlíková Katarína r. Lakoštíková		1	4643
+1511	Pavlíková Margita		1	4643
+1511	PAVLÍKOVÁ Margita	zomrela 30.09.1991	0	4136
+1511	PAVLÍKOVÁ Mária		1	4136,4643
+1511	PAVLÍKOVÁ Mária	I	0	4136
+1511	PAVLÍKOVÁ Mária	II	0	4136
+1511	Pavlíková Mária r. Gajdošová		1	4643
+1511	Pavlíková Paulína		1	4643
+1511	PAVLÍKOVÁ Štefánia		1	4136,4643
+1511	PAVLÍKOVÁ Terézia	r.Dubovská	0	4136
+1511	Pavlíková Terézia r. Dubovská		1	4643
+1511	PAVLÍKOVÁ Žofia	r.Kačníková	0	4136
+1511	Pavlíková Žofia r. Kačníková		1	4643
+1511	PEČNER Jozef		0	3461,3462
+1511	Pečnerová Terézia r. Sršeňová		0	3461,3462
+1511	PEJKOV Ivan		0	3516
+1511	Pekár Silvester	zomr	0	2461
+1511	Pekárová Justína	zomr	0	2461
+1511	Pekárová Ľudmila r. Durdíková		0	3785,4043,4914
+1511	Pekárová Ľudmila r. Durdíková	zom	0	1560,4194
+1511	Pekárová Ľudmila r. Durdíková	zomr	0	1615,1870,1924,2155,2357
+1511	Pekárová Ľudmila r. Durdíková, SR zomr.		0	1396,4859
+1511	Pekárová Ľudmila r. Durdíková, zomr. zomr.		0	4914
+1511	PENCIAK Karol		0	3527
+1511	Penciaková Anna r. Vlkolínská		0	3527
+1511	PETRÁK Andrej		0	3935
+1511	Petrák Ondrej	NV	0	1546,1660,1870,1974
+1511	PETRÁKOVÁ Anna r. Rošková	mal	0	3340
+1511	PETRÁKOVÁ Jozefína r. Rošková	mal	0	3340
+1511	PETRÁKOVÁ Klementína r. Rošková		0	3340
+1511	PEVNÝ Juraj		1	4136,4643
+1511	PINDURA Jozef		1	3471,4682
+1511	Pinďura Jozef st.	zomr	0	1705,1800,1871
+1511	Pinďura Jozef st., SR	zomr	0	1435,1499,1556
+1511	Pinďura Ladislav	zomr	0	2050
+1511	PINDURA Robert		0	4104,4945,4974
+1511	Pindura Štefan	zomr	0	1654
+1511	PINDURA Štefan		0	3488,3759,3795
+1511	Pinďura Štefan, SR	zomr	0	1556
+1511	Pindurová Agnesa r. Kozubová	zom	0	1517
+1511	Pindurová Alžbeta r. Hatalová	NV	0	1654,1820,1834,1852,2050,2288,3215
+1511	Pinďurová Alžbeta r. Hatalová		0	1556
+1511	PINDUROVÁ Alžbeta r. Hatalová,vd.Vrabková		0	3488,3759,3795,3862,3863
+1511	PINDUROVÁ Ida r. Hatalová		0	3254,3488
+1511	PINDUROVÁ Matilda		0	3409,3564,3574,3676,3707
+1511	Pinďurová Pavlína r. Marton, SR	zomr	0	2116
+1511	PINDUROVÁ Pavlína r. Martonová		0	3706,3794
+1511	Pinďurová Pavlína r. Martonová	zom	0	1464
+1511	PISARČÍK Alojz		0	3657,3707
+1511	PISARČÍKOVÁ Mária r. Gablerová		0	3657,3707
+1511	Plško Ondrej Mokoš	NV	0	1890,1895,4231
+1511	POBÚRENÁ Terézia r. Pagáčová		0	3460,3462,3465
+1511	Podskuba Arnold		1	4643
+1511	PODSKUBA Ján		1	4136,4643
+1511	PODSKUBA Jozef		0	3340
+1511	Podskubová Jolana r. Jurčová	zom	0	1427
+1511	Podskubová Jolana r. Jurčová	zomr	0	1631,1711,1769,1770,1871,2049,2090
+1511	Podskubová Jolana r. Jurčová, SR zomr.		0	1386
+1511	Podskubová Katarína r. Holubčíková		1	4643
+1511	Pochyba Alojz	NV	0	1889
+1511	Pochyba František	NV	0	1890,1895,4231
+1511	Poláková Ľudmila r. Pačinová	NV	0	1711
+1511	Poleksová Margita r. Hancková	zom	0	1524
+1511	Poleksová Margita r. Hancková	zomr	0	1673,1865,1877,1878,1885,2046,2402
+1511	POLONČÁK Štefan		0	3434
+1511	Potkanyiová Otília r. Jágerová	NV	0	1882,1908
+1511	Potkanyiová Otília r. Jágerová, NV		0	1604
+1511	Prančík Jozef	NV	0	1895
+1511	Prančíková Anna r. Tapsi	NV	0	1895
+1511	Prídavok Štefan	zomr	0	1495,1805,1866,1879,1880,3100,3101,3102,3103
+1511	PRÍDAVOK Štefan		0	3488,3489
+1511	PRIESOL Ján		0	3660
+1511	PRIESOLOVÁ Margita r. Nagyová	13.11.1929	0	3660
+1511	PRIESTUPOVÁ Emília r. Fajnová		0	3765,4019
+1511	PRIESTUPOVÁ Ľudmila r. Fajnová		0	3780,3927,4019
+1511	Prístupová Gabriela r. Buková, naposledy bytom Likavka 364, SR	zomrela	1	3595
+1511	Prístupová Gabriela r. Halušková	zomr	0	1597,1820,1865,1877,1878,1885,2161,3215
+1511	Prístupová Gabriela r. Halušková, 034 95, Likavka, č. 364, SR		0	3862,3863
+1511	Prístupová Gabriela r. Halušková, SR zomr.		0	1406
+1511	Prístupová Ľudmila r. Fainová, SR	ZOM	0	1662
+1511	Prístupová Ľudmila r. Fajnová	zomr	0	1643,1756,1844,1853,1868,1909,1924,1966,2155,2285,2292,2323,2380
+1511	Prístupová Ľudmila r. Fajnová, zom.		0	1436
+1511	Pšeno Albert	Kello	0	1613
+1511	Pšeno Albert	Kello, zom	0	1513,1514
+1511	Pšeno Albert, Kello	zom	0	1612
+1511	Pšeno Arnold	Brtko	0	3640
+1511	Pšeno Arnold	ZOM	0	2024
+1511	PŠENO Arnold		0	3508,3727,4930
+1511	Pšeno Arnold, SR	zomr	0	1335,1336
+1511	PŠENO Eduard	ml	0	3278,3279
+1511	Pšeno Ján	Brtko	0	1608,1797,1923,2066
+1511	Pšeno Ján	Brtko NV	0	1845
+1511	Pšeno Ján	Brtko, NV	0	1475
+1511	Pšeno Jozef	Kelo	0	3933
+1511	PŠENO Ladislav		0	3730
+1511	PŠENO Šimon	Kelo	0	3551
+1511	PŠENO Viktor	mal	0	3508,4930
+1511	PŠENOVÁ Ema	malol. Brtková	0	3465,3640,3808
+1511	Pšenová Ema r. Brtková	NV	0	1475,1608,1797,1845,1923,2066
+1511	Pšenová Emília r. Brtková		0	3510,3862,3863,4011,4017,4111
+1511	Pšenová Emília r. Brtková	NV	0	1439,1719,1820,1882,1919,2058,2099,2290,2376,3215
+1511	Pšenová Gizela		0	1338
+1511	PŠENOVÁ Johana	r.Javorková,Viktorová; Viktorová	0	3556,3557,3625
+1511	Pšenová Jolana r. Javorková		0	3556,3557,3626
+1511	Pšenová Margita r. Trepáňová	Kello	0	4914
+1511	Pšenová Margita r. Trepáňová, Kello	zom	0	1560,4194
+1511	Pšenová Toňa r. Trepáňová		0	3593
+1511	Pšenová Vilma r. Brtková		0	3465,3640,3808
+1511	Pšenová Vilma r. Brtková	NV	0	1475,1608,1797,1845,1923,2066
+1511	PUCLÍKOVÁ Ema		0	3701,3767,3898,4934
+1511	Púček Antón	zomr	0	1621
+1511	Putrovcová Oľga r. Madedová		0	3856
+1511	PUTROVEC Jozef		0	3856
+1511	Rajtko Jozef	zomr	0	1659
+1511	Rajtko Ondrej	zomr	0	1641,1902
+1511	Rajtko Vendelín	zomr	0	1319,2052
+1511	Rajtková Jolana	zomr	0	1355,2053
+1511	Rázga Ján	NV	0	1924,2155,2219,2276,2291
+1511	RÁZGOVÁ Albína		0	3816
+1511	Rázgová Ema r. Puclíková	zomr	0	1488,1582,1866,1879,1880,1884,1915,1936,2070,4780,4782,4785,4842
+1511	Rázgová Mária r. Ženčová		0	3283,3289
+1511	RÁZGOVÁ Oľga	pk	0	3640
+1511	RIŠA Ján	mal. Kurtek	0	3567,3568,4993
+1511	RIŠA Peter		0	3694,3695,3696
+1511	Riša Štefan	zomr	0	1338,1754,1871,1941,2341
+1511	RIŠA Štefan		0	3435,3730,3903
+1511	RIŠA Tomáš	mal. Kurtek	0	3491,3567,3568,3698,4950,4993
+1511	RIŠOVÁ Anna	r.Koufalová	0	3541
+1511	Rišová Anna r. Konfálová	zomr	0	1320,1354,1838,1864,1942
+1511	Rišová Anna r. Konfálová, zomr. zomr.		0	4913
+1511	Rišová Anna r. Pšenová		0	3903
+1511	Rišová Anna r. Pšenová	zomr	0	1871,1941
+1511	RIŠOVÁ Darina	mal	0	3414,3903,4026,4029
+1511	Rišová Emília r. Košková		0	3695
+1511	Rišová Irena	mal. Kurteková	0	3698

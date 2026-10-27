@@ -1,0 +1,256 @@
+1853	Vranic Ján	syn Ondreja	0	1239
+1854	BATUNA Štefan		0	4332
+1854	ČABOVÁ Mária r. Ťapajová		0	4292
+1854	Dúhová Zuzana r. Kabasová		0	4314
+1854	DURAJOVÁ Katarína r. Pápežová		0	4322
+1854	GELOŇOVÁ Helena r. Tarajová		0	2407,4254
+1854	JANČEK Michal		0	4324
+1854	JANIGOVA Maria r. Tarajová		0	4316
+1854	Jelšík Juraj r. Jelšík		0	4265
+1854	Masiarová Anna r. Jurigová		0	4117,4279
+1854	MATUŠKA Ján	Kolár	0	4275
+1854	MERAVÝ Pavol		0	4297
+1854	PAUČÁK Štefan		0	4328
+1854	PAUČÁK Štefan	otec Ján	0	4328
+1854	PAUČÁKOVÁ Anna r. Pápežová		0	4328
+1854	SALZBERGEROVÁ Malvína r. Strausová		0	4329
+1854	SOCHOVÁ Mária r. Tomovčíková		0	4324
+1854	ŠALIGA Jozef	čd.73	0	3928
+1854	ŠALIGA Michal	čd.73	0	3928
+1854	ŠALIGA Ondrej	I	0	4324
+1854	ŠALIGOVÁ Mária r. Slaneková		0	4324
+1854	ŠALIGOVÁ Žofia	čd.73	0	3928
+1854	ŠIMKOVÁ Mária r. Šaligová		0	4310
+1854	ŠUVADOVÁ Mária r. Maruňáková		0	4324
+1854	TRANČO Šimon	I	0	4324
+1854	TRNOVEC Jozef	D 340/81	0	4299
+1854	VARIVOVÁ Zuzana r. Janotíková		0	3766,4382,4383
+1854	Zoššák Ján r. Zoššák		0	4256,4291,4406
+1855	ADAMICOVÁ Anna r. Juchová, 029 52, Babín, č. 336, SR		0	4017
+1855	BABINSKÁ Mária r. Adamicová, 029 52, Babín, č. 251, SR	Bereková	0	4017
+1855	BABINSKÁ Zuzana r. Badínová, 029 52, Babín, č. 299, SR	Tomašová	0	4017
+1855	BABINSKÁ Zuzana, 029 52, Babín, č. 84, SR	Ištvánová	0	4017
+1855	BABINSKÝ Štefan, 029 52, Babín, č. 319, SR	Kitaš	0	4017
+1855	BADIN Matej, 029 52, Babín, č. 6, SR		0	4017
+1855	Balčík Jozef r. Balčík		1	4019
+1855	BALIGA Pavel, SR		0	3997
+1855	Batunová Anna r. Adamcová, zom.28.09.1994 zom.28.09.1994		0	4033
+1855	Batunová Danka r. Urbánková, Ing., zom.17.04.2010 zom.17.04.2010		0	4033
+1855	Bencúrová Emília		1	4019
+1855	BRNKAĹÁKOVÁ Zuzana r. Matláková, 029 52, Babín, č. 143, SR		0	4017
+1855	Dúha Štefan r. Dúha		1	4019
+1855	Duraj Kinkas Michal		0	3972
+1855	Duraj Kinkas Michal	manž. Anna rod. Šaligová Šimková	0	3975
+1855	DURAJ Michal, SR		0	3977
+1855	DURAJOVÁ Anna r. Šaligová, SR		0	3977
+1855	Ďurkovič Michal Miloš r. Ďurkovič		1	4019
+1855	Ďurkovičová Božena r. Mancová		1	4019
+1855	GÁBOR Ján, 029 52, Babín, č. 419, SR	Lajoš	0	4017
+1855	GÁBOR Ondrej, 029 52, Babín, č. 293, SR	Lajoš	0	4017
+1855	GÁBOR Ondrej, 029 52, Babín, č. 419, SR		0	4017
+1855	Hatalová Terézia r. Parentová		1	4019
+1855	Horná Štefánia r. Gágorová, RNDr.		1	4019
+1855	CHOMISTEK Jozef, SR		0	3985
+1855	Janček Michal r. Janček		0	4033
+1855	JANČEK Michal, SR		0	4008
+1855	Jančo Anton r. Jančo	- Kléna, manž. Rozália rod. Kapitánová, zomrel 23.12.1979	1	4019
+1855	JAVORNÍCKA Anna r. Baligová, SR		0	3969
+1855	JURIGA Štefan	manž. Žofia rod. Baligová	0	3996
+1855	JURIGOVÁ Žofia r. Baligová		0	3997
+1855	Kacko Dušan r. Kacko, DOLNÝ KUBÍN, SR		1	4019
+1855	KARKOŠKOVÁ Mária r. Babinská, 029 52, Babín, č. 82, SR	Ištvánová	0	4017
+1855	KOVÁČIK Ladislav, SR		0	3972,3976
+1855	KOVÁČIKOVÁ Anna, SR		0	3992
+1855	Kovalčíková Elena r. Martinčeková	-Zomrela 05.05.1974, naposledy bytom 02601 Dolný Kubín, Bysterecká 27	1	4019
+1855	KRÍŽIKOVÁ Anna r. Bučková, SR		0	3981
+1855	KRÍŽIKOVÁ Mária r. Palátová, SR		0	3993
+1855	Kršák Ján r. Kršák		1	4019
+1855	Kršáková Bronislava r. Sopčíková		1	4019
+1855	KUBAS Jozef	manž. Anna rod. Záhorová Fugelová	0	3989
+1855	KUBEK Štefan, 029 52, Babín, č. 302, SR	Matlák	0	4017
+1855	KUBEKOVÁ Anna, 029 52, Babín, č. 135, SR	Matláková	0	4017
+1855	KUHAJDA Ondrej, SR		0	4000
+1855	Kuhajda Štefan r. Kuhajda, zom.28.03.2007 zom.28.03.2007		0	4033
+1855	Kuhajdová Anna		0	4033
+1855	Kuhajdová Mária r. Kuhajdová, zom.08.04.2015 zom.08.04.2015		0	4033
+1855	KUNOCHOVÁ Mária, 029 52, Babín                                            B, č. 194, SR		0	4017
+1855	KURČINOVÁ Anna r. Ištvánová, 029 52, Babín, č. 139, SR		0	4017
+1855	Kutlík Milan r. Kutlík	17.04.1925	1	4019
+1855	Laurinčík Jozef r. Laurinčík, zom.26.09.2001 zom.26.09.2001		0	4033
+1855	LAURINČÍK Štefan, SR		0	3990
+1855	Lazoríková Mária r. Ťatliaková		1	4019
+1855	Maglayová Mária r. Bencúrová		1	4019
+1855	Maruňák Jozef		0	4033
+1855	MATIS Štefan, 029 52, Babín, č. 140, SR	Paľovčík	0	4017
+1855	Matúška Ján r. Matúška		0	3967
+1855	MATUŠKA Samuel, SR		0	3995
+1855	MATUŠKOVÁ Mária r. Andelova, SR		0	3995
+1855	Mayerová Ilona r. Balčíková		1	4019
+1855	MEDVECKÝ Jozef, SR		0	4008,4033
+1855	Medvecký Štefan, SR		0	4033
+1855	Meško Štefan r. Meško		1	4019
+1855	Pukalová Helena		1	4019
+1855	Pukalová Mária r. Janovicová		1	4019
+1855	SLAMENÍK Vincent, 029 52, Babín, č. 345, SR		0	4017
+1855	SMUTŇÁKOVÁ Terézia r. Baligová, SR		0	3969
+1855	Suroviak Anton r. Suroviak		1	4019
+1855	Šaliga Ondrej r. Šaliga, zom.22.08.1991 zom.22.08.1991		0	4033
+1855	ŠALIGA Ondrej, SR		0	4008
+1855	ŠALIGOVÁ Mária, SR	Slaneková	0	4008,4033
+1855	ŠUVADOVÁ Mária r. Maruňáková, SR		0	4008
+1855	Šuvadová Mária r. Maruňáková, zom.01.01.1992 zom.01.01.1992		0	4033
+1855	TARABOVÁ Zuzana r. Gáborová, 029 52, Babín, č. 419, SR		0	4017
+1855	Taraj Šimon		0	4033
+1855	Trančová Juliana r. Čuryová, zom.11.09.2004 zom.11.09.2004		0	4033
+1855	TRNKA Jozef, SR		0	4017
+1855	Trnkócyová Žofia r. Halašová		1	4019
+1855	TRNOVCOVÁ Mária r. Šaligová		0	3999,4033
+1855	TRNOVCOVÁ Mária r. Šaligová, SR	Šimková	0	4008
+1855	TRNOVEC Ondrej, SR		0	3999
+1855	Valičková Anna r. Jurigová		0	3996
+1855	Zoššák Ján		0	3967
+1855	ZOŠŠÁKOVÁ Antónia, SR		0	3966
+1856	Adrianyi Alžbeta r. Dessewffy		0	2869
+1856	Andóvá Barbora r. Zöldiová		1	1947
+1856	Bábásová Alžbeta r. Balázsová		1	2174
+1856	Bafiová Alžbeta r. Lörincová		1	1696,2469,2474,2817
+1856	Bahor Štefan		1	1713,1763,1764,1807,2224,2231,2232,2236,2238,2316,2506
+1856	Bahor Štefan r. Bahor, SR		1	2225
+1856	Baltová Anna r. Vilinská		1	2213,2221,2227,2228,2230,2582,2583
+1856	Bartóková Margita r. Bodnárová		1	2188,2218,2219,2285,2595
+1856	Bendžák Vojtech		1	1619,1630
+1856	Bendžáková Barbora r. Turňanská		1	2222
+1856	Béreš Ján		1	1907,1934,1944,2038,2125,2592
+1856	Béreš Ján r. Béreš		1	2023
+1856	Bérešová Júlia r. Horňáková		1	2015
+1856	Bérešová Terézia r. Cirbusová		1	1906,1908,2125
+1856	Beržiová Alžbeta r. Jakabová		1	1774,1853,2188,2538
+1856	Beržiová Alžbeta r. Jakabová, Dvorníky, Turňa nad Bodvou, PSČ 044 02, SR		0	2218,2219,2285,2425,2595,2867
+1856	Bodnár Ján r. Bodnár		1	1518,1773,1774,2074,2218,2219,2538,2540,2631,2822
+1856	Bodnár Jozef		1	2074,2631
+1856	Bodnár Jozef Andrej r. Bodnár		1	2233
+1856	Bodnár Jozef r. Bodnár	Andrej	1	1518,2822
+1856	Bodnárová Júlia r. Sabová		1	1773,2074,2218,2219,2540,2631
+1856	Bodnárová Mária r. Bodnárová		1	2074,2631
+1856	Bodnárová Mária r. Lörincová		1	1774,1776,1841,1906,1908,2188,2213,2218,2219,2221,2227,2228,2230,2233,2285,2538,2582,2583,2595,2662
+1856	Bodnárová Mária r. Spišáková		1	1715
+1856	Bodnárová Mária r. Tobáková		1	1733,2271,2272,2273,2288
+1856	Bokšai Jozef		1	1907,1934,1944,2038,2592
+1856	Bokšaiová Alžbeta r. Selesová		1	1567,1588,1603,1617,1630,1676,1737,1750,1848,2090,2213,2221,2227,2228,2230,2381,2420,2582,2583
+1856	Boslaiová Alžbeta r. Redvayová		1	1696,2469,2474,2817
+1856	Buček Štefan r. Buček		1	1907,1934,1944,2038,2592
+1856	Bunko Ján		1	1708
+1856	Bunková Margita r. Szelesová		1	1708
+1856	Bystrý Štefan r. Bystrý		1	1907,1934,1944,2038,2592
+1856	Cinculová Júlia		1	1557,2379,2534
+1856	Cingelyová Mária r. Fiľakovská		1	1616,1770,1789
+1856	Csécsi Jozef r. Csécsi	st	1	1773,2076,2540
+1856	Csécsi Juraj r. Csécsi	najml	1	1774,1808,2211,2538
+1856	Csécsiová Katarína r. Koscanová		1	1588,1603,1617,1737,1750,2090,2381
+1856	Czakó Eugen		1	1905
+1856	Czingely Vojtech r. Czingely		1	1696,2469,2474,2817
+1856	Čéči Dezider	ml	1	1588,1773,1853,2425,2540
+1856	Čéči František r. Čéči		1	1696,1845,2469,2474,2817
+1856	Čéči Jozef		1	1588,1907,1934,1944,2038,2592
+1856	Čéči Jozef	ml. ž. Bodnárová T	1	1567
+1856	Čéči Jozef r. Čéči	ml.; ž. Bodnárová T	1	1773,2540
+1856	Čéči Ladislav r. Čéči		1	1513,1514,1567,1773,1845,2540
+1856	Čéči Štefan	ml	1	1567,1853,2425
+1856	Čéčiová Alžbeta	ml	1	1845
+1856	Čéčiová Margita r. Župčanová		1	1514
+1856	Čečiová Regina r. Koscsová		1	1706,2218
+1856	Darvas Štefan	ž. Pappová M	1	1712
+1856	Dessewffy Mikuláš		0	2869
+1856	Dessewffy Riza r. Póka		0	2869
+1856	Dessewffy Žofia		0	2869
+1856	Dettersová Mária r. Zsupcsanová		1	2124,2202
+1856	Doboš Pavol r. Doboš		1	1864,1934
+1856	Doboš Pavol r. Doboš	ž. Bučková	1	1907,1944,2038,2592
+1856	Dobošová Alžbeta r. Jakabová		1	562
+1856	Dobošová Görcsösová Alžbeta r. Jakabová		1	2070,2072,2073,2188,2285,2389,2390,2518,2595,2865
+1856	Dobošová Markéta r. Bučková		1	1864
+1856	Dringus Michal		1	1905
+1856	Durčová Alžbeta r. Žigová		1	1905
+1856	Ferenczová Beata		1	1696,2469,2474,2817
+1856	Fiľakovská	žena Štefana Fiľakovského	1	1890
+1856	Filakovská Mária		1	1601
+1856	Franková Alžbeta r. Takáčová		1	1557,2379,2534
+1856	Franková Mária		1	1557,2379,2534
+1856	Görcsös Andrej r. Görcsös		1	2219
+1856	Görcsös Imrich r. Görcsös		1	2188,2218,2219,2233,2285,2595
+1856	Görcsöš Ján r. Görcsöš		1	2069,2519,2867
+1856	Görcsöš Ladislav	ml	1	1773,2069,2519,2540,2867
+1856	Görcsöšová Klára		1	1773,1853,2069,2070,2072,2073,2115,2163,2188,2218,2219,2233,2285,2389,2390,2425,2518,2519,2540,2595,2656,2865,2867
+1856	Görčösová Mária r. Pecuchová		1	1773,2074,2218,2540,2631
+1856	Görčöš Štefan		1	1907,1934,1944,2038,2592
+1856	Görčöšová Alžbeta r. Safková		1	1566,1587,1602,1629,1735,1788,2091,2103,2114,2468
+1856	Görčöšová Klára		1	1774,1853,2538
+1856	Greizinger František a Anna Greizingerová r. Slabejová		1	2515
+1856	Grünvald Anna r. Grinfeldová		1	2213,2228,2230,2582,2583
+1856	Grünvaldová Anna r. Grinfeldová		1	2221,2227
+1856	Gurková Mária r. Novotná		1	1635
+1856	Hagenová Mária		1	749
+1856	Hajduová Alžbeta r. Bábášová		1	2175
+1856	Horňák Štefan r. Horňák		1	1993,2056
+1856	Horňáková Alžbeta r. Bokšaiová		1	2010
+1856	Horňáková Júlia r. Čurková		1	1993
+1856	Horňáková Mária r. Mitrová		1	2056
+1856	Jakab Ondrej		1	1907,1934,1944,2038,2592
+1856	Jakab Pavol	MR	1	2233
+1856	Jakab Štefan r. Jakab		1	1773,1774,1853,1890,1907,1934,1944,2038,2069,2070,2072,2073,2074,2087,2088,2188,2218,2219,2233,2285,2389,2390,2425,2517,2518,2519,2538,2540,2592,2595,2631,2821,2865,2867
+1856	Jakabová Mária r. Kondášová		1	2074,2087,2088,2188,2233,2285,2517,2595,2631,2821
+1856	Jakabová Markéta r. Lörincová		1	2218,2219,2233
+1856	Janitor Pavol r. Janitor	st	1	1785,2290
+1856	Janitorová Alžbeta r. Benešová		1	1906,1908
+1856	Józsová Helena		1	2231,2236
+1856	Juszková Anna		1	1753
+1856	Kalináč Arnošt		1	1906,1908
+1856	Kalináč Ernest		1	1906,1908,1956,2129,2430,2785
+1856	Kamenická Alžbeta	ml	1	1773,1853,2069,2115,2188,2218,2219,2233,2285,2425,2519,2540,2595,2867
+1856	Kamenický Antonín r. Kamenický		1	2069,2070,2072,2073,2389,2390,2518,2519,2865,2867
+1856	Kamenický Ladislav r. Kamenický	ml.; ž. Tóthová Valentína	1	1773,1774,1853,2069,2070,2072,2073,2115,2188,2218,2219,2233,2285,2389,2390,2425,2518,2519,2538,2540,2595,2865,2867
+1856	Kaščák Jozef		1	1906,1908
+1856	Kaščák Štefan		1	1609,1623
+1856	Kaščáková Mária r. Begalová		1	1609,1623
+1856	Kisida František r. Kisida		1	1814
+1856	Kisida František r. Kisida	zomr. 02.07.1962	1	2406
+1856	Kiss Michal		1	1715,1808,2211
+1856	Kissová Margita		1	1715,1808,2211
+1856	Kocán Alžbeta r. Čéčiová		1	1567
+1856	Kocan Pavel r. Kocan a Alžbeta Kocanová r. Čéčiová		1	1820
+1856	Kocán Pavol r. Kocán		1	1680
+1856	Kocánová Alžbeta r. Čéčiová		1	1680,1853,2425
+1856	Kočiš Ján r. Kočiš	ž. Vojakovičová M	1	1828,2591
+1856	Kočiš Ladislav r. Kočiš		1	2216
+1856	Kočiš Pavol r. Kočiš		1	1696,2469,2474,2817
+1856	Kočišová Judita r. Tóthová		1	1696,2469,2474,2817
+1856	Kočišová Katarína r. Palenčárová		1	1668,1832
+1856	Kočišová Mária r. Vojakovičová		1	1547,1548,2334,2377,2378
+1856	Kočišová Terézia r. Szafková	vd	1	1650,1773,1774,1835,1890,2070,2072,2073,2389,2390,2518,2538,2540,2800,2865
+1856	Košč Ján	st	1	2233
+1856	Koščo Ján r. Koščo		1	1648,1706,1876,1904,1906,1908,2074,2115,2522,2523,2524,2631,2703
+1856	Koščová Gizela r. Čéčiová		1	1567,1680,1750,2090,2381
+1856	Kövariová Mária r. Bábášová		1	2175
+1856	Lacková Mária		1	1696,2469,2474,2817
+1856	Laurenčíková Anna r. Vojakovičová		1	1540
+1856	Léco Ladislav		0	1695
+1856	Leczóvá Magdaléna r. Kapituliková		0	1695
+1856	Lišovská Margita r. Kocanová	vd	1	1809
+1856	Lišovský Jozef r. Lišovský		1	2218
+1856	Lörinc Andrej		1	1765,1775,2329
+1856	Lörinc Imrich r. Lörinc		1	1774,2188,2218,2285,2538,2595
+1856	Lörinc Jozef Pavol r. Lörinc		1	2188,2213,2218,2221,2227,2228,2230,2233,2285,2582,2583,2595
+1856	Lörinc Ladislav r. Lörinc		1	1671,1774,1852,1886,2082,2085,2188,2213,2218,2219,2221,2227,2228,2230,2233,2285,2538,2555,2582,2583,2595
+1856	Lörinc Pavol r. Lörinc		1	1671,1774,1776,1853,1906,1908,2188,2213,2218,2219,2221,2227,2228,2230,2233,2285,2425,2538,2555,2582,2583,2595
+1856	Lörinc Róbert r. Lörinc		1	1696,2469,2474,2817
+1856	Lörinc Štefan	ž. Palenčárová Apolónia	0	2221
+1856	Lörinc Štefan r. Lörinc	ž. Palenčárová Apolónia	1	1774,2213,2219,2227,2228,2538,2582,2583
+1856	Lörincová Anna r. Jakabová		1	1528,1591,1620,1671,1773,1776,1852,2109,2213,2221,2227,2228,2230,2233,2540,2555,2582,2583
+1856	Lörincová Mária r. Safková		1	1645
+1856	Lörincová Mária r. Takáčová		1	1557,1727,1773,1774,2188,2219,2285,2379,2534,2537,2538,2540,2595
+1856	Lörincová Mária r. Weiszerová		1	1774,1786,2538
+1856	Lukáč Jozef	ž. Lengyelová A	1	1607,1611
+1856	Magyar Štefan	st	1	1888
+1856	Magyarová Anna r. Fiľakovská		1	1762
+1856	Magyarová Anna r. Fiľakovská	zomrela v r. 1936	1	1789
+1856	Maruščáková Mária	ml	1	1574,1755,2479,2816,2818

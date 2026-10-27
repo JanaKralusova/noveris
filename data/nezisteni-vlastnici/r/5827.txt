@@ -1,0 +1,256 @@
+3283	CHAĽ Andrej		1	685,698,1389
+3283	Chaľ Andrej, dcéra Anna Kobanová 11.2.1929-27.7.2000 dcéra Anna Kobanová 11.2.1929-27.7.2000		0	804,810,813,822,830,837,1252,1364
+3283	CHAĽ Andrej, SR		1	785
+3283	CHAĽ BEŇO Ján	M Mária C	1	685
+3283	Chaľ Beňo Ján, manželka Mária C. manželka Mária C.		0	837,846,1225
+3283	CHAĽ Daniel		1	710,1065
+3283	CHAĽ Fedor		1	660,662,698,751,760,1389
+3283	Chaľ Fedor, brat Ihnat brat Ihnat		0	804,810,813,822,830,887,1364
+3283	CHAĽ Fedor, SR		1	785
+3283	CHAĽ Ignac		1	698,1389
+3283	CHAĽ Ignac, SR		1	785
+3283	Chaľ Ihnat	Ignac	0	804,810,813,822,830,1040,1364
+3283	CHAĽ Ihnat		1	660,662
+3283	CHAĽ Ivan		1	698,1389
+3283	CHAĽ Ivan	ž.Helena r.H	1	698,1389
+3283	Chaľ Ivan, manželka Helena H. manželka Helena H.		0	804,810,813,822,830,931,1364
+3283	CHAĽ Ivan, SR		1	785
+3283	CHAĽ Ivan, SR	M Helena H	1	785
+3283	CHAĽ IVANČIK Ján		1	714
+3283	Chaľ Ivančík Ján r. Chaľ Ivančík, dátum narodenia: 27.02.1937 dátum narodenia: 27.02.1937		0	810,1123
+3283	CHAĽ Ján		1	181,283,409,415,425,657,664,682,685,698,702,703,788,1389
+3283	CHAĽ Ján	Kudlovský	1	412,415
+3283	CHAĽ Ján	Syn Jána	1	283,425,664,672,698,703,1389
+3283	CHAĽ Ján	ž.Anna r.H	1	698,1389
+3283	Chaľ Ján, manželka Anna Hoptová, dcéra Mária Migová nar. 21.12.1932 manželka Anna Hoptová, dcéra Mária Migová nar. 21.12.1932		0	804,810,813,822,830,1259,1364
+3283	CHAĽ Ján, SR		1	785
+3283	CHAĽ Ján, SR	M Anna H	1	785
+3283	CHAĽ Ján, SR	Syn Jána	1	785
+3283	Chaľ Ján, syn Jána, matka Anna syn Jána, matka Anna		0	804,810,813,817,822,830,1364
+3283	Chaľ Ján, syn Vasiľa,súrodenci Michal,Anna,Mária,m.Mária Verlichajová syn Vasiľa,súrodenci Michal,Anna,Mária,m.Mária Verlichajová		0	804,810,813,822,830,837,933,1364,1368
+3283	CHAĽ KUDLOVSKÝ Andrej		1	675,710,733,1312
+3283	CHAĽ Michal		1	181,283,409,412,415,425,657,664,682,685,698,702,703,788,1389
+3283	CHAĽ Michal	Syn Jána	1	283,425,664,671,672,678,698,703,1389
+3283	CHAĽ Michal	ž.Mária r.S	1	698,1389
+3283	Chaľ Michal, manželka Mária T. manželka Mária T.		0	884
+3283	CHAĽ Michal, SR		1	785
+3283	CHAĽ Michal, SR	M Mária S	1	785
+3283	CHAĽ Michal, SR	Syn Jána	1	785
+3283	Chaľ Michal, syn Jána syn Jána		0	804,810,813,817,822,830,1364
+3283	Chaľ Michal, syn Vasiľa,súrodenci Ján,Anna,Mária,manželka Mária S. syn Vasiľa,súrodenci Ján,Anna,Mária,manželka Mária S.		0	804,810,813,822,830,837,1249,1364
+3283	CHAĽ Tivadar		1	409,412,415,682,685,698,788,804,810,813,822,830,837,1227,1364,1389
+3283	CHAĽ Tivadar, SR		1	785
+3283	CHAĽ Vasiľ		1	409,412,415,682,685,698,751,760,788,1389
+3283	CHAĽ Vasiľ	Kudlovský	1	412,415
+3283	CHAĽ Vasiľ	ž.Helena r.Bočkoríková	1	181
+3283	Chaľ Vasiľ, manželka Helena B.,súrodenci Anna, Mária, Tivadar manželka Helena B.,súrodenci Anna, Mária, Tivadar		0	804,810,813,822,830,837,950,1364
+3283	CHAĽ Vasil, SR		1	785
+3283	Chaľová - Beňová Mária r. Compľaková		1	685
+3283	CHAĽOVÁ Anna		1	181,283,409,412,415,425,657,664,682,685,698,702,703,751,760,788,1389
+3283	CHAĽOVÁ Anna	Dcéra Jána	1	283,425,664,671,672,678,698,703,1389
+3283	Chaľová Anna, dcéra Jána dcéra Jána		0	804,810,813,817,822,830,1364
+3283	CHAĽOVÁ Anna, SR		1	785
+3283	CHAĽOVÁ Anna, SR	Dcéra Jána	1	785
+3283	Chaľová Anna, súrodenci Mária, Tivadar, Vasiľ súrodenci Mária, Tivadar, Vasiľ		0	804,810,813,822,830,837,1001,1364
+3283	Chaľová Beňová Mária r. Compľaková		0	837,846,1021
+3283	Chaľová Beňová Mária r. Koniková		0	1291
+3283	CHAĽOVÁ Ilona	r.Torhanová	1	679,698,1389
+3283	Chaľová Ilona r. Torhanová		0	804,810,813,822,830,857,1364
+3283	CHAĽOVÁ Ilona r. Torhanová, SR		1	785
+3283	Chaľová Ivančíková Anna r. Hoptová, narodená 08.11.1903 narodená 08.11.1903		0	824
+3283	CHAĽOVÁ Mária		1	181,283,409,412,415,425,657,664,682,685,698,702,703,788,1389
+3283	CHAĽOVÁ Mária	Dcéra Jána	1	283,425,664,672,698,703,1389
+3283	Chaľová Mária, dcéra Jána dcéra Jána		0	804,810,813,817,822,830,1364
+3283	Chaľová Mária, dcéra Vasiľa dcéra Vasiľa		0	1368
+3283	CHAĽOVÁ Mária, SR		1	785
+3283	CHAĽOVÁ Mária, SR	Dcéra Jána	1	785
+3283	Chaľová Mária, súrodenci Anna, Tivadar, Vasiľ súrodenci Anna, Tivadar, Vasiľ		0	804,810,813,822,830,837,974,1364
+3283	CHRIPAK Andrej	ž.Anna r.Firkaľová	1	666
+3283	CHRIPAK ANDREJ		1	301,659,698,728,1389
+3283	Chripák Andrej, bratia Ján	Kanada	0	804,810,813,822,830,1340,1364
+3283	Chripák Andrej, manželka Anna F., sestra Krutilová Anna manželka Anna F., sestra Krutilová Anna		0	1078
+3283	CHRIPAK Andrej, SR		1	785
+3283	CHRIPAK Ivan	ž.Mária r.P	1	698,1389
+3283	Chripák Ivan, manželka Mária P. manželka Mária P.		0	804,810,813,822,830,1038,1364
+3283	CHRIPAK Ivan, SR	M Mária P	1	785
+3283	Chripák Jakub		0	803
+3283	CHRIPAK Ján	1	1	666
+3283	CHRIPAK Ján	v Kanade	1	683,685,698,1389
+3283	CHRIPAK JÁN		1	301,451,659,685,698,728,1389
+3283	Chripák Ján, Kanada, bratia Andrej, Michal, Peter Kanada, bratia Andrej, Michal, Peter		0	804,810,813,822,830,837,1190,1364
+3283	CHRIPAK Ján, SR		1	785
+3283	CHRIPAK Ján, SR	V Kanade	1	785
+3283	CHRIPAK Michal		1	659,698,1389
+3283	Chripák Michal, bratia Ján	Kanada	0	804,810,813,822,830,1125,1364
+3283	CHRIPAK Michal, SR		1	785
+3283	CHRIPAK PETER		1	301,659,698,728,1389
+3283	Chripák Peter, bratia Ján	Kanada	0	804,810,813,822,830,1187,1364
+3283	CHRIPAK PETER, SR		1	785
+3283	CHRIPAKOVA ANNA		1	301,698,728,804,810,813,822,830,960,1364,1389
+3283	CHRIPAKOVÁ Anna, SR		1	785
+3283	CHRIPAKOVÁ Eva	r.Prigancová	1	666,683,685,698,1389
+3283	Chripáková Eva r. Prigancová		0	804,810,813,822,830,837,1041,1364
+3283	CHRIPAKOVÁ Eva r. Prigancová, SR		1	785
+3283	CHRIPAKOVÁ Ilona		1	698,804,813,822,830,1364,1389
+3283	CHRIPAKOVÁ Ilona, SR		1	785
+3283	CHRIPAKOVÁ Mária		1	698,803,804,810,813,822,830,1364,1389
+3283	CHRIPAKOVÁ Mária	r.Maškurišinová	1	666
+3283	CHRIPAKOVÁ Mária	r.Verlichajová	1	698,709,1389
+3283	Chripáková Mária r. Maškurišinová		0	1144
+3283	CHRIPAKOVÁ Mária r. Verlichajová		1	28,804,813,822,830,910,1364
+3283	CHRIPAKOVÁ Mária r. Verlichajová, SR		1	785
+3283	CHRIPAKOVÁ Mária, SR		1	785
+3283	Chromejová Anna r. Timuľaková, zom. Humenné, nar. 06.07.1916, Volica 25, 06701, SR zom. Humenné, nar. 06.07.1916, Volica 25, 06701, SR		0	1367
+3283	CHUDINOVÁ Mária	r.Pajtášová	1	698,700,715,1389
+3283	CHUDINOVÁ Mária r. Pajtášová		1	144,990
+3283	IVANČIK Ivan		1	714,810
+3283	Ivančiková - Chaľová Anna r. Hoptová		1	690
+3283	JABLONSKÁ Mária	r.Sijková	1	698,1389
+3283	Jablonská Mária r. Sijková		0	804,810,813,822,830,955,1364
+3283	JABLONSKÁ Mária r. Sijková, SR		1	785
+3283	JALČOVÁ Mária r. Lipčiková		1	181
+3283	Janočcová Ilona r. Spuščaková		0	810
+3283	Januch Janoš		0	1261
+3283	JAREKOVÁ Anna	r.Hoptová	1	698,1389
+3283	Jareková Anna r. Hoptová		0	804,810,813,822,830,1362,1364
+3283	JAREKOVÁ Anna r. Hoptová, SR		1	785
+3283	Jaroš Peter		0	1193
+3283	Jaroš Stanislav		0	975
+3283	JAŠIKOVÁ Iľa	r.Timuľaková	1	698,1389
+3283	Jašiková Iľa r. Timuľaková		0	804,810,813,822,830,1184,1364
+3283	JAŠIKOVÁ Iľa r. Timuľaková, SR		1	785
+3283	Jenčíková Helena r. Michaličová		0	993
+3283	JUREČKOVÁ Mária	r.Firkaľová	1	698,1389
+3283	Jurečková Mária r. Firkaľová	Juročková	0	804,810,813,822,830,837,1142,1364
+3283	JUREČKOVÁ Mária r. Firkaľová, SR		1	785
+3283	JUROČKO Ján		1	714
+3283	JUROČKOVÁ Eva		1	714
+3283	JUROČKOVÁ Eva	r.Hoptová	1	650,652,685,698,699,710,1389
+3283	JUROČKOVÁ Eva r. Hoptová		1	304,790
+3283	JUROČKOVÁ Eva r. Hoptová, SR		1	785
+3283	Juročková Eva, č.d.1760/1906, manžel Michal, syn Ján č.d.1760/1906, manžel Michal, syn Ján		0	810
+3283	Kačurová Mária r. Škovranová		0	1183
+3283	KIROVÁ Helena	r.Sijková	1	698,1389
+3283	Kirová Helena r. Sijková		0	804,810,813,822,830,941,1364
+3283	KIROVÁ Helena r. Sijková, SR		1	785
+3283	KLENOVSKÁ Helena	r.Firkaľová Januchová	1	668,685,777
+3283	KLENOVSKÁ HELENA r. FIRKAĽOVÁ JANUCHOVÁ		1	349,776
+3283	KLENOVSKÁ HELENA r. FIRKAĽOVÁ-JANUCHOVÁ		1	349,668,685,776,777,778,837,905
+3283	Klenovská Helena r. Firkaľová-Januchová, SR		1	472
+3283	KOČOVÁ Helena		1	685,989
+3283	KOČUTOVÁ Júlia r. Lipčiková		1	181
+3283	Komanická Ema r. Kralická		0	1247
+3283	KRAJŇÁK Fedor		1	181,1018
+3283	Krajňak Tivadar		0	899
+3283	KRAJŇAKOVÁ Anna	r.Krivaková	1	698,1389
+3283	Krajňaková Anna r. Krivaková		0	804,810,813,822,830,1032,1364
+3283	KRAJŇAKOVÁ Anna r. Krivaková, SR		1	785
+3283	Krajňaková Júlia r. Lipčaková		0	1345
+3283	KRAJŇAKOVÁ Mária	r.Chaľová	1	698,1389
+3283	Krajňaková Mária r. Chaľová		0	804,810,813,822,830,1133,1364
+3283	KRAJŇAKOVÁ Mária r. Chaľová, SR		1	785
+3283	Králická Mária		0	1229
+3283	KRIVKOVÁ Eva	r.Gojdičová,zomrela,D 128/86	1	657,664,668,671,672,678,685,698,702,703,777,1389
+3283	KRIVKOVÁ Eva r. Gojdičová	zomrela,D 128/86	1	283,425
+3283	KRIVKOVÁ Eva r. Gojdičová, SR		1	785
+3283	Krivková Eva r. Gojdičová, zomrela zomrela		0	804,810,813,822,830,837,1073,1364
+3283	KRUTILA Andrej		1	448,1390
+3283	KRUTILA Andrej	vzdialený	1	698,701,707,1389
+3283	Krutila Andrej, brat Michal brat Michal		0	804,810,813,822,830,1068,1364
+3283	KRUTILA Andrej, SR	Vzdialený	1	785
+3283	KRUTILA Fedor		1	448,701,1169,1390
+3283	KRUTILA Michal	vzdialený	1	701
+3283	Krutila Michal, brat Andrej brat Andrej		0	1301
+3283	KRUTILA Peter		1	448,701,855,1390
+3283	KRUTILA Vasiľ		1	448,701,1167,1390
+3283	KRUTILOVÁ Anna	r.Chripaková	1	666,685
+3283	KRUTILOVÁ Anna	r.Šemková Chripaková	1	683
+3283	Krutilová Anna r. Chripaková		0	837,994
+3283	Krutilová Anna r. Šemko Chripaková		0	804,810,813,822,830,889,1364
+3283	KRUTILOVÁ Anna r. Šemko Chripaková, SR		1	785
+3283	Krutilová Anna r. Šemková-Chripaková		1	698,1389
+3283	Krutilová Helena		0	1306
+3283	KRUTILOVÁ Ilona		1	701,1093
+3283	KRUTILOVÁ Mária		1	448,685,837,977,1390
+3283	KUCHTA Juraj	ž.Mária r.K	1	698,1389
+3283	Kuchta Juraj, manželka Mária K. manželka Mária K.		0	804,810,813,822,830,1349,1364
+3283	KUCHTA Juraj, SR	M Mária K	1	785
+3283	KUCHTA Michal	ž.Mária r.Gandžala	1	653
+3283	KULIKOVÁ Anna	r.Revaková	1	647,648,698,700,715,720,791,1389
+3283	KULIKOVÁ Anna r. Revaková		1	144,804,810,813,822,830,879,1364
+3283	KULIKOVÁ Anna r. Revaková, SR		1	785
+3283	KULIKOVÁ Helena r. Rohaľová		1	181,1218
+3283	Kumičák Ján		0	1004
+3283	Kumičák Juraj		0	1254
+3283	Kumičáková Anna r. Drevená		0	1376
+3283	Kumišák Michal		0	1376
+3283	Lajzo Andrej, zomrel 26.8.1977, naposledy bytom Valentovce 36 zomrel 26.8.1977, naposledy bytom Valentovce 36		0	1051
+3283	Lajzo Michal		0	1362
+3283	Lajzová Helena r. Rabajdová, manžel Andrej ktorý zomrel 26.8.1977 manžel Andrej ktorý zomrel 26.8.1977		0	1113
+3283	LEHOCKÁ Ilona	r.Holovačová	1	685
+3283	Lehocká Ilona r. Holovačová		0	837,1243
+3283	LENART Ján		1	701,1105
+3283	LENART Ján	1	1	688
+3283	LENARTOVÁ Helena r. Krutilová		1	448,1390
+3283	LESER Abraham		1	414
+3283	LIESKOVÁ Helena		1	653,685,686,698,699,739,1389
+3283	LIESKOVÁ Helena, SR		1	785
+3283	LIPČAKOVÁ Anna	r.Firkaľová	1	668,684,685,777,778
+3283	Lipčáková Anna r. Firkaľová		0	1223
+3283	Lipčáková Júlia r. Krajňaková		0	1378
+3283	LIPČIK Juraj		1	181,1359
+3283	LIPČIK Štefan		1	181,893
+3283	LOHINCOVÁ Mária	r.Rohaľová	1	644,699,716
+3283	LOHINCOVÁ Mária r. Rohaľová		1	409,412,415,788,1307
+3283	MACHNIK Štefan		1	422,658,708,1016
+3283	Michalič Alexej		0	1244
+3283	Michalič Alexsius		0	1211
+3283	Michalič Emil		0	1282
+3283	Michalič Ján, manželka Mária J. manželka Mária J.		0	1156
+3283	Michalisková Anna r. Škovranová		0	821
+3283	Michalisková Eva r. Čabalová		0	814
+3283	Michalisková Ilona		0	814
+3283	MLEJOVÁ Mária	r.Hirková	1	685,686
+3283	Mlejová Mária r. Hirková		1	739,837,854
+3283	NOVOTNÁ Eva r. Kusková, Ľ.Svobodu 2, Šaľa, PSČ 927 01, SR		1	283,425,664,685,703
+3283	PAJTAŠ Andrej		1	38,681,835,1387
+3283	PAJTAŠ Andrej	1	1	715
+3283	Pajtášová Anna r. Firkaľová		0	837,861
+3283	PAJTAŠOVÁ Mária	r.Chaľová	1	671,678
+3283	Pajtášová Mária r. Chaľová		0	876
+3283	PETRIKOVÁ Eva r. Rohaľová		1	181,1075
+3283	Prigancová Anna		0	1091
+3283	PRIGANCOVÁ Anna	r.Hoptová	1	644,650,652,685,698,699,710,716,1389
+3283	PRIGANCOVÁ Anna r. Hoptová		1	304,790,804,810,813,822,830,837,845,1326,1364
+3283	PRIGANCOVÁ Anna r. Hoptová, SR		1	785
+3283	PRIGANCOVÁ Mária r. Rohaľová		1	181,807
+3283	Prigancvoá Anna, VOLICA, SR		1	739
+3283	Rabajda Fedor		0	1362
+3283	Rabajda Ján, manželka Anna r.Zgiburová manželka Anna r.Zgiburová		0	1362
+3283	Rabajda Michal, manželka Anna r.Salaková manželka Anna r.Salaková		0	1106
+3283	Rabajdová Helena r. Salaková		0	1054
+3283	REVAK Andrej	syn Andreja	1	140,144,444,647,648,660,662,698,700,715,720,789,791,1389
+3283	REVAK Andrej	vzdialený	1	144,698,700,1389
+3283	Revák Andrej		0	804,810,813,822,828,830,1116,1364
+3283	REVAK ANDREJ /MAL./		0	720
+3283	REVAK Andrej, SR		1	785
+3283	REVAK Andrej, SR	Vzdialený	1	785
+3283	Revák Andrej, vzdialený vzdialený		0	804,813,822,830,834,1364
+3283	REVAK Fedor	ž.Katarína r.Javorská	1	140,660,662,698,715,1389
+3283	Revák Fedor		0	804,810,813,822,830,1053,1364
+3283	REVAK Fedor, SR		1	785
+3283	REVAK Ján	syn Andreja	1	144,444,647,648,660,662,698,700,715,720,789,791,1389
+3283	Revák Ján		0	804,810,813,822,830,1342,1364
+3283	REVÁK Ján, SR		1	785
+3283	REVAK Juraj	ž.Eva r.Beňová	1	140,144,700
+3283	Revák Juraj		0	815
+3283	Revák Juraj, manželka Eva B. manželka Eva B.		0	1130
+3283	REVAK Michal	Vzdialený	1	144,698,700,1389
+3283	REVAK Michal	ž.Anastázia r.H	1	698,1389
+3283	REVAK Michal	ž.Mária r.Torhanová	1	140,144,444,647,648,660,662,698,700,715,720,789,791,1389
+3283	REVAK Michal	ž.Mária r.Torhanová; ; Mária r.Torhanová	1	715
+3283	Revák Michal, manželka Anastázia H. manželka Anastázia H.		0	804,810,813,822,830,1089,1364
+3283	REVAK Michal, SR	M Anastázia H	1	785
+3283	REVAK Michal, SR	Vzdialený	1	785
+3283	REVAK Michal, Volica, č. 46, SR		0	785
+3283	Revák Michal, vzdialený vzdialený		0	804,813,822,830,834,1364

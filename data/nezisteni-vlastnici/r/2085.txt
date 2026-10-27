@@ -1,0 +1,256 @@
+1221	Maďarová Mária r. Hoppanová		0	571,628,1052,1053,1113,1132,1186
+1221	Magerová Margita r. Šulíková		0	350,959,1052,1053,1113,1132,1186
+1221	Machata Ján		0	363,419,514,515,766,767,796,834,874,895,1037,1052,1053,1091,1113,1132,1186
+1221	Machatová Mária r. Puškárová		0	515,1052,1053,1113,1132,1186
+1221	Majtáni Imrich	maloletý	0	454,721,774,960
+1221	Majtáni Štefan	maloletý	0	454,721,774,960
+1221	Malá Apollónia r. Bujdáková	vdova	0	454,721,774,960
+1221	Malá Mária r. Gajdošíková		0	350,850
+1221	Malý Ján		0	1052,1053,1113,1132,1186
+1221	Maňáková Mária		0	730,1011,1052,1053,1113,1132,1186
+1221	Matisová Ružena r. Sádovská		0	664,1035,1052,1053,1113,1132,1186
+1221	Mészárosová Elena r. Zrubcová		0	887,888
+1221	Miček František Dr.		0	433,780,844,988,989,1124,1171
+1221	Miček Michal	maloletý	0	319,412,764,1084
+1221	Mičeková Marcela r. Abrhanová		0	956,1052,1053,1113,1132,1183,1186
+1221	Mičeková Veronika r. Zrubcová		0	887,888
+1221	Mičková Mária r. Krúpová	vdova	0	1052,1053,1113,1132,1186
+1221	Mikla Ján	Matka Štefánia Černáková	0	393,394,761,855,856,956,1052,1053,1113,1132,1183,1186
+1221	Mikla Ján	ž.Černáková Štefánia	0	393,395,856,1052,1053,1113,1132,1186
+1221	Mikla Ondrej	ž.Švecová Agnesa	0	597,845
+1221	Miklová Agneša r. Švecová		0	1052,1053,1113,1132,1186
+1221	Mikulecová Mária r. Sádovská		0	407,408,753,822,823,1052,1053,1086,1089,1094,1113,1132,1186
+1221	Mladá Mária r. Sádovská		0	664,1035,1044,1051,1052,1053,1113,1132,1186
+1221	Mokrá Magdaléna r. Hoppanová		0	628,1051,1052,1053,1113,1132,1186
+1221	Mokrá Mária r. Hudecová		0	1052,1053,1113,1132,1186
+1221	Mokrušová Alžbeta r. Krúpová		0	433,780,844,1052,1053,1113,1124,1132,1171,1186
+1221	Mokrý Emil		0	426,1052,1053,1063,1113,1132,1186
+1221	Mokrý Štefan		0	353,426,891,892,1052,1053,1063,1113,1132,1186
+1221	Moldová Alžbeta r. Bujdáková		0	363,834,874,1091
+1221	Mrázová Veronika r. Hrašková		0	712,723,915,916
+1221	Naďová Alžbeta r. Sádovská		0	450,485,518,722,893,894,915,916,1051,1052,1053,1074,1113,1132,1186
+1221	Návojská Karolína r. Mokrá		0	353,426,1052,1053,1063,1113,1132,1186
+1221	Penešová Mária r. Gajdošíková		0	300,598,599,600,601,990,991,1052,1053,1113,1132,1186
+1221	Pukk Imrich		0	664,1052,1053,1113,1132,1186
+1221	Pukk Ján		0	664,1052,1053,1113,1132,1186
+1221	Pukková Hermína		0	664,1052,1053,1113,1132,1186
+1221	Puškárová Anna r. Hotyková		0	1045,1052,1053,1113,1132,1186
+1221	Puškárová Katarína r. Turanová		0	545
+1221	Raček Ján		0	543,545,618
+1221	Račeková Bernardína r. Šulková		0	359,464,1052,1053,1113,1132,1186
+1221	Raková Janka r. Hoppanová		0	363,471,472,766,767,796,834,874,1052,1053,1055,1091,1113,1132,1186
+1221	Raková Štefánia r. Halásová		0	1052,1053,1113,1132,1186
+1221	Rýchla Rozália r. Šulková		0	300,990,991
+1221	Sádovská Adela		0	450,453,724,998,1047,1050,1059,1066,1069
+1221	Sádovská Alžbeta	maloletá	0	399,433,761,844,893,894,1052,1053,1078,1113,1124,1132,1171,1186
+1221	Sádovská Alžbeta r. Sádovská	Manžel Dominik	0	664,1035,1052,1053,1113,1132,1186
+1221	Sádovská Anna	maloletá	0	903,1002,1052,1053,1113,1132,1186
+1221	Sádovská Anna r. Abrhanová		0	802,1056,1057
+1221	Sádovská Anna r. Švecová		0	462,465,802,1052,1053,1056,1057,1113,1132,1186
+1221	Sádovská Bernardína r. Černáková		0	761,1052,1053,1113,1132,1186
+1221	Sádovská Eva	maloletá	0	518,893,894
+1221	Sádovská Filoména r. Černáková		0	41,436,437,985,986,1052,1053,1113,1132,1186
+1221	Sadovská Helena		0	486
+1221	Sádovská Helena	maloletá	0	450,452,453,455,466,485,500,509,511,646,712,722,723,724,725,902,903,906,915,916,1001,1002,1028,1046,1047,1050,1052,1053,1066,1069,1070,1073,1074,1113,1132,1186
+1221	Sádovská Johanna r. Kačáková		0	571,956,1183
+1221	Sádovská Jozefína r. Gajdošová		0	944,945
+1221	Sádovská Katarína r. Gajdošíková		0	599,601
+1221	Sádovská Katarína r. Zrubecová		0	421,517,1177,1178,1180
+1221	Sádovská Marcela r. Bujdáková	vdova	0	454,721,774,960
+1221	Sádovská Margita	maloletá	0	992
+1221	Sádovská Mária		0	190,1033,1052,1053,1113,1132,1186
+1221	Sádovská Mária	maloletá	0	664,1051,1052,1053,1113,1132,1186
+1221	Sádovská Mária r. Bednáriková		0	664,747,917,918,919,920,1052,1053,1113,1132,1186
+1221	Sádovská Mária r. Černáková		0	526,957,973,981,1025,1052,1053,1077,1113,1132,1184,1186
+1221	Sádovská Mária r. Feješová		0	980,1013,1052,1053,1113,1132,1186
+1221	Sádovská Mária r. Kmeťová		0	676
+1221	Sádovská Monika		0	190,1033,1052,1053,1113,1132,1186
+1221	Sádovská Monika r. Černáková		0	524,525,526,527,528,563,564,565,566,957,981,1052,1053,1077,1113,1132,1184,1186
+1221	Sádovská Otília	maloletá	0	394,399,433,761,780,781,782,783,844,855,893,894,1052,1053,1078,1113,1124,1132,1171,1186
+1221	Sádovská Rozália		0	500,646,664,1003,1016,1033,1035,1046,1052,1053,1062,1113,1132,1186
+1221	Sádovská Rozália r. Černáková		0	363,767,874,1052,1053,1113,1132,1186
+1221	Sádovská Ružena r. Sádovská		0	1044,1051
+1221	Sádovská Štefánia r. Černáková		0	985,986,1052,1053,1113,1132,1186
+1221	Sádovská Veronika r. Gajdošíková		0	452,485,509,600,722,723,724,915,916
+1221	Sádovská Veronika r. Hajdušková		0	475,1047,1052,1053,1070,1113,1132,1186
+1221	Sádovská Veronika r. Vojteková		0	930
+1221	Sádovský Adolf	ž.Bednáriková Mária	0	1035,1052,1053,1113,1132,1186
+1221	Sádovský Albert		0	453
+1221	Sádovský Alex		0	92,486
+1221	Sádovský Ambróz	ž.Pápayová Gertrúda	0	454,721,774,960,1035,1051,1052,1053,1113,1132,1186
+1221	Sádovský Arnošt	ž.Černáková Mária	0	902,903,906,1052,1053,1113,1132,1186
+1221	Sadovský Benedikt		0	486
+1221	Sádovský Benedikt	ž.Kmeťová Mária	0	399,450,452,453,455,466,485,500,509,511,646,676,712,722,723,724,725,902,903,906,915,916,1001,1002,1028,1046,1047,1050,1052,1053,1066,1069,1070,1073,1074,1078,1113,1132,1186
+1221	Sádovský Dominik		0	399,471,486,943,1028,1052,1053,1078,1113,1132,1186
+1221	Sádovský Dominik	ž.Hunyadiová Alžbeta	0	472,500,664,712,723,762,1035,1044,1051,1052,1053,1113,1132,1186
+1221	Sádovský Elek	Alex	0	450,453,455,466,500,511,646,712,725,902,903,906,1001,1002,1028,1046,1047,1050,1052,1053,1066,1069,1070,1073,1074,1113,1132,1186
+1221	Sadovský Ernest		0	486
+1221	Sádovský Ernest	ž.Černáková Mária	0	450,509,511,902,903,906,921,930,1001,1002,1028,1046,1047,1050,1052,1053,1066,1069,1070,1073,1074,1113,1132,1186
+1221	Sádovský František		0	226,433,780,844,1124,1171
+1221	Sádovský František r. Sádovský		0	407,408,426,753,822,823,1052,1053,1086,1089,1094,1113,1132,1186
+1221	Sádovský Imrich		0	450,664,1050,1052,1053,1066,1073,1074,1113,1132,1186
+1221	Sádovský Imrich	ž.Zrubecová Anna	0	500,646,722,972,1019,1028,1047,1048,1052,1053,1070,1113,1132,1186
+1221	Sádovský Jakub		0	1052,1053,1065,1113,1132,1186
+1221	Sadovský Ján		0	486
+1221	Sádovský Ján	ž.Černáková Bernardína	0	450,452,453,466,485,511,664,712,722,723,902,903,906,915,916,1001,1002,1028,1035,1046,1047,1050,1052,1053,1058,1066,1069,1070,1073,1074,1113,1132,1186
+1221	Sádovský Ján	ž.Hrašková Mária	0	1052,1053,1113,1132,1186
+1221	Sádovský Ján	ž.Švecová Anna	0	802
+1221	Sádovský Jozef		0	664,1001,1002,1052,1053,1113,1132,1186
+1221	Sádovský Jozef	slobodný	0	394,399,433,761,780,781,782,783,844,855,893,894,1052,1053,1078,1113,1124,1132,1171,1186
+1221	Sádovský Jozef	ž.Bujdáková Mária	0	455,902,903,905,906,1052,1053,1074,1113,1132,1186
+1221	Sádovský Jozef	ž.Mladá Etela	0	664,1035,1044,1051,1052,1053,1113,1132,1186
+1221	Sádovský Július		0	1052,1053,1113,1132,1186
+1221	Sádovský Karol		0	486
+1221	Sádovský Karol	maloletý	0	450,453,455,466,485,500,509,511,646,722,724,725,902,903,906,915,916,1001,1002,1028,1046,1047,1052,1053,1069,1070,1074,1113,1132,1186
+1221	Sádovský Karol	ž.Bujnáková Pavlína	0	646,722
+1221	Sádovský Karol	ž.Feješová Petronela	0	646
+1221	Sádovský Karol r. Sádovský		0	1035,1052,1053,1113,1132,1186
+1221	Sádovský Ladislav r. Sádovský		0	407,408,753,822,823,1086,1089,1094
+1221	Sádovský Laurinec r. Sádovský		0	803
+1221	Sádovský Lenhart		0	486
+1221	Sádovský Leonard	ž.Kosecová Pavlína	0	511,664,1035,1044,1046,1051,1052,1053,1069,1113,1132,1186
+1221	Sádovský Ľudovít	ž.Bachová Mária	0	646,1052,1053,1113,1132,1186
+1221	Sádovský Ľudovít	ž.Bakó Mária	0	450,646,971,1028,1047,1048,1050,1052,1053,1066,1070,1073,1074,1113,1132,1186
+1221	Sádovský Marián r. Sádovský , 00002		0	485,722,915,916
+1221	Sádovský Martin	ž.Černáková Štefánia	0	362,423,424,450,985,986,1052,1053,1074,1113,1132,1186
+1221	Sádovský Martin	ž.Gajdošíková Katarína	0	1052
+1221	Sádovský Michal		0	486
+1221	Sádovský Michal	ž.Fejesová Mária	0	450,453,466,485,509,511,518,722,725,893,894,915,916,943,1046,1047,1050,1051,1052,1053,1066,1069,1070,1073,1074,1113,1132,1186
+1221	Sádovský Michal	ž.Gajdošová Mária	0	1035
+1221	Sádovský Michal r. Sádovský		0	500,509,712,722,723,724,915,916
+1221	Sádovský Ondrej		0	1052,1053,1113,1132,1186
+1221	Sadovský Pavel		0	486,664,1035,1052,1053,1113,1132,1186
+1221	Sádovský Pavol		0	780,781,782,1052,1053,1113,1132,1186
+1221	Sádovský Pavol	ž.Gajdošová Rozália	0	450,452,453,455,466,485,500,509,511,646,712,722,723,724,725,902,903,906,915,916,1001,1002,1028,1046,1047,1050,1052,1053,1066,1069,1070,1073,1074,1113,1132,1186
+1221	Sádovský Rudolf	ž.Hoppanová Rozália	0	450,452,453,455,712,723,902,903,905,906,1001,1002,1028,1052,1053,1074,1113,1132,1186
+1221	Sádovský Severín r. Sádovský		0	664,1035,1052,1053,1113,1132,1186
+1221	Sádovský Silvester	ž.Bugárová Rozália	0	965,985,986,1052,1053,1113,1132,1186
+1221	Sádovský Štefan	ž.Černáková Mária	0	1059
+1221	Sádovský Štefan r. Sádovský		0	450,485,508,722,915,916,1009,1051,1052,1053,1074,1113,1132,1186
+1221	Sádovský Vavrinec		0	455,475,725,902,903,906,1052,1053,1061,1113,1132,1186
+1221	Sádovský Viliam		0	944,945
+1221	Sádovský Vincent		0	450,452,453,455,466,485,486,500,509,511,646,664,712,722,723,724,725,902,903,906,915,916,1001,1002,1028,1035,1046,1047,1050,1052,1053,1066,1069,1070,1073,1074,1113,1132,1186
+1221	Sádovský Vít		0	1052,1053,1113,1132,1186
+1221	Skačan Vladimír r. Skačan		0	1052,1053,1113,1132,1186
+1221	Skačanová Amália r. Švecová		0	441
+1221	Sládeček Dominik		0	350,942,1052,1053,1113,1132,1186
+1221	Sládeček Jozef	otec Jozef	0	994,1027,1052,1053,1068,1113,1132,1186
+1221	Sládeček Lénard	maloletý	0	358,423
+1221	Sládeček Ľudovít		0	363,503,687,766,767,796,834,874,877,1020,1052,1053,1091,1113,1132,1186
+1221	Sládeček Martin	otec Jozef	0	994,1027,1052,1053,1068,1113,1132,1186
+1221	Sládeček Michal		0	942
+1221	Sládeček Mikuláš		0	942
+1221	Sládeček Štefan	ž.Abrhánová Mária	0	995,1027,1052,1053,1068,1113,1132,1186
+1221	Sládeček Vincent	otec Jozef	0	994,1027,1052,1053,1068,1113,1132,1186
+1221	Sládečková Alžbeta r. Švecová		0	1052,1053,1113,1132,1186
+1221	Sládečková Anna r. Halásová	vdova	0	964
+1221	Sládečková Mária r. Šebíková		0	911,1051
+1221	Sládečková Matilda Mgr.  r. Sádovská		0	646,1035,1052,1053,1113,1132,1186
+1221	Soblahovská Paulína r. Bednáriková		0	918,928
+1221	Sochorová Emerencia r. Sládečková		0	948
+1221	Sojka Imrich	mladší	0	904,1052,1053,1113,1132,1186
+1221	Sojka Ján		0	1052,1053,1113,1132,1186
+1221	Sojka Michal r. Sojka		0	1052,1053,1113,1132,1186
+1221	Sojka Vincent r. Sojka		0	1052,1053,1113,1132,1186
+1221	Sojková Alžbeta r. Gajdošová		0	432,811,898,899
+1221	Sojková Alžbeta r. Sádovská		0	399,518,608,722,893,894,1028,1051,1052,1053,1078,1113,1132,1186
+1221	Sojková Helena r. Švecová		0	490,755,1052,1053,1113,1132,1186
+1221	Sojková Katarína r. Tináková		0	1052,1053,1113,1132,1186
+1221	Sojková Mária r. Černáková		0	348,350,1052,1053,1113,1132,1186
+1221	Stano Edmund, SR		0	443
+1221	Stanová Mária r. Šafárová		0	435,596
+1221	Sulan Ján r. Sulan		0	1052,1053,1113,1132,1186
+1221	Sulanová Angela r. Černáková		0	1052,1053,1113,1132,1186
+1221	Sulka Jozef		0	373,1029,1052,1053,1113,1132,1186
+1221	Supeková Apolńia r. Zrubecová		0	1133
+1221	Supeková Johana r. Gajdošíková	Manžel Štefan	0	300,990,991,1052,1053,1113,1132,1186
+1221	Supeková Margita r. Sádovská		0	1052,1053,1113,1132,1186
+1221	Supeková Rozália r. Halászová		0	979
+1221	SVECOVA, KATARINA R.SKACANOVA		0	441
+1221	Svecz Ľudovít		0	490
+1221	Sveczová Agnesa		0	490
+1221	Sveczová Anna r. Dajvosová		0	491
+1221	Szádovsky Ernest		0	475
+1221	Szádovszká Etela		0	475
+1221	Szádovszká Helena		0	475
+1221	Szádovszká Verona r. Hajduseková		0	475
+1221	Szádovszki Michal		0	475
+1221	Szádovszky Benedikt		0	475
+1221	Szádovszky Ján		0	475
+1221	Szádovszky Karol		0	475
+1221	Szádovszky Pavol		0	475
+1221	Szádovszky Vincent		0	475
+1221	Sztano Edmund	Ödön	0	433,440,602,843,844,900,901,922,923,924,1051,1052,1053,1113,1124,1132,1171,1186
+1221	Szulanyová Angela r. Černáková		0	981,1052,1053,1113,1132,1186
+1221	Šabíková Alžbeta r. Gajdošíková		0	1052,1053,1113,1132,1186
+1221	Šišková Marcela r. Sládečková		0	942
+1221	Šponiarová Anna r. Kozárová		0	1052,1053,1113,1132,1186
+1221	Šulanová Lýdia r. Černáková		0	947
+1221	Šulíková Margita r. Tóthová		0	190,1052,1053,1113,1132,1186
+1221	Šulka Alexander r. Šulka		0	300,990,991,1051,1052,1053,1113,1132,1186
+1221	Šulka Ján		0	1051,1052,1186
+1221	Šulka Ján, SR		0	443
+1221	Šulka Jozef	ž.Kačáková Monika	0	407,753,822,1052,1053,1086,1113,1132,1186
+1221	Šulka Karol r. Šulka		0	990,1051,1052,1053,1113,1132,1186
+1221	Šulka Ľudovít		0	464,1004,1052,1053,1113,1132,1186
+1221	Šulková Anna r. Gajdošíková		0	598,599,600,601
+1221	Šulková Anna r. Hoppanová	Dcéra Alžbety Hoppanovej	0	363,766,767,796,834,874,910,963,1052,1053,1091,1113,1132,1186
+1221	Šulková Magdaléna		0	1051
+1221	Šulková Mária		0	549
+1221	Švajdová Magdaléna r. Hoppanová		0	628,1052,1053,1113,1132,1186
+1221	Švec Andrej		0	500,646,725,1028
+1221	Švec Beňadik	ž.Kunkelová Mária	0	1052,1053,1113,1132,1186
+1221	Švec Bernát	ž.Černáková Pavlína	0	1052,1053,1113,1132,1186
+1221	Švec Dominik		0	1032
+1221	Švec Elek r. Švec		0	441
+1221	Švec Emil		0	333,433,844,1052,1053,1113,1124,1132,1171,1186
+1221	Švec Ernest		0	465,1032,1052,1053,1113,1132,1186
+1221	Švec František r. Švec		0	333
+1221	Švec Imrich		0	974,1052,1053,1113,1132,1186
+1221	Švec Imrich	ž.Kunkelová Alžbeta	0	1052,1053,1113,1132,1186
+1221	Švec Jozef		0	968
+1221	Švec Jozef	Stanová Mária	0	987
+1221	Švec Jozef	ž.Kosecová Marcela	0	1052,1053,1113,1132,1186
+1221	Švec Jozef	ž.Kunkelová Františka	0	1060
+1221	Švec Jozef r. Švec		0	1052,1053,1113,1132,1186
+1221	Švec Leonard r. Švec		0	319,465,1032,1052,1053,1084,1113,1132,1186
+1221	Švec Ľudovít	matka Hoppanová Katarína	0	1052,1053,1113,1132,1186
+1221	Švec Ľudovít	matka Kristína Hoppanová	0	433,435,596,844,1052,1053,1113,1124,1132,1171,1186
+1221	Švec Ľudovít	matka Rozália	0	462
+1221	Švec Michal	ž.Martišová Mária	0	969,1052,1053,1113,1132,1186
+1221	Švec Štefan		0	483
+1221	Švec Štefan	matka Katarína r.Černáková	0	956,1183
+1221	Švec Štefan	matka Rozália	0	462,465,1052,1053,1113,1132,1186
+1221	Švec Štefan	ž.Kosecová Katarína	0	1052,1053,1113,1132,1186
+1221	Švec Štefan	ž.Sádovská Genovéva	0	500,646,725,1028
+1221	Švec Štefan r. Švec		0	441
+1221	Švec Vít	Jozef	0	465,1032,1052,1053,1113,1132,1186
+1221	Švec Vladimír		0	333
+1221	Švecová Agneša		0	1052,1053,1113,1132,1186
+1221	Švecová Alžbeta r. Sulková		0	475,1047,1052,1053,1070,1113,1132,1186
+1221	Švecová Anna		0	974,1052,1053,1113,1132,1186
+1221	Švecová Bernardína r. Malá		0	454,721,774,960
+1221	Švecová Emerencia r. Vidová		0	426,891,892,987,1052,1053,1113,1132,1186
+1221	Švecová Františka r. Kunkelová		0	1060,1067
+1221	Švecová Genovéva		0	500,646,725,1028
+1221	Švecová Hermína r. Sládečková		0	994,1027,1052,1053,1068,1113,1132,1186
+1221	Švecová Katarína r. Černáková		0	393,856,1052,1053,1113,1132,1186
+1221	Švecová Katarína r. Koszeczová		0	1005,1052,1053,1113,1132,1186
+1221	Švecová Marcella r. Koszeczová		0	1005,1052,1053,1113,1132,1186
+1221	Švecová Mária	maloletá	0	465,1032,1052,1053,1113,1132,1186
+1221	Švecová Mária r. Bujdáková		0	363,767,874,1052,1053,1113,1132,1186
+1221	Švecová Mária r. Kunkelová		0	1052,1053,1113,1132,1186
+1221	Švecová Mária r. Sádovská		0	712,723
+1221	Švecová Mária r. Vojteková		0	1032
+1221	Švecová Rozália		0	1052,1053,1113,1132,1186
+1221	Švecová Rozália r. Karolová		0	246,1051
+1221	Švecová Rozália r. Krúpová		0	433,780,844,1052,1053,1113,1124,1132,1171,1186
+1221	Švecová Terézia r. Tobiášová		0	212
+1221	Švecová Veronika		0	500,725,1028
+1221	Švecz Štefan		0	212
+1221	Takáč Ján	ž.Juríková Rozália	0	861,1051
+1221	Takáčová Karolína r. Šulková		0	996,1052,1053,1113,1132,1186
+1221	Tatai Alexander	ž.Suchá Johanna	0	930
+1221	Tatai Anna r. Szuchá		0	930
+1221	Tinák Ján		0	549,1141,1155,1156
+1221	Tinák Ján	ž.Sulková Mária	0	421,513,517,887,888,982,1051,1052,1053,1113,1132,1177,1178,1180,1186

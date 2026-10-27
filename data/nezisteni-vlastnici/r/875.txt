@@ -1,0 +1,256 @@
+488	Petrík Pavol, SR	Dolná Strehová č. d. 188	1	1264
+488	Petrík Štefan, SR		1	1264
+488	Petríková Anna, SR		1	1264
+488	Petrovič Jozef, SR	slobodný	1	979
+488	Petrovič Jozef, SR	slobodný, LSR	0	980,1160,1161
+488	Pleva Pavel, SR	manželka Anna r. Čermanová	1	1222
+488	Pleva Pavol	mladší	1	898
+488	Pleva Pavol, SR	mladší	1	887,899
+488	Pleva Pavol, SR	mladší, LSR	0	888
+488	Pleva Pavol, SR	starší	1	887
+488	Pleva Pavol, SR	starší, LSR	0	888
+488	Plevová Anna r. Čermanová, SR		1	1222
+488	Pokludová Anna, SR		1	129,414,1508,1539,1547,1561,1597
+488	Pokludová Anna, SR	LSR	0	1040,1041,1388,1567,1585
+488	Poliak Ján, 29.augusta, Bratislava, SR	LSR	0	1261,1405
+488	Poliak Juraj, SR	mladší	1	1046,1261,1405,1579
+488	Poliak Juraj, SR	mladší, LSR	0	1047,1262
+488	Poliak Pavol, SR		1	896
+488	Poliak Pavol, SR	LSR	0	897
+488	Priadka Ján, SR		1	951
+488	Priadka Ján, SR	LSR	0	952
+488	Priadková Anna, SR	maloletá	1	834,907,951
+488	Priadková Anna, SR	maloletá, LSR	0	952
+488	Priadková Dorota r. Hriňová, SR		1	1234,1237
+488	Priadková Dorota r. Hriňová, SR	LSR	0	1255
+488	Priatková Mária r. Farbiaková, SR	zomrela 1.9.1990	1	1233
+488	Pupava Ján, SR		1	425
+488	Pupava Ján, SR	manželka Agneša r. Marková	1	35,459,887,1427,1511,1560
+488	Pupava Ján, SR	manželka Agneša r. Marková, LSR	0	888
+488	Pupavová Agneša r. Marková, SR		1	35,1427,1511,1560
+488	Rác Bartolomej, SR	manželka Anna r. Husárová	1	1105
+488	Rácová Anna r. Husárová, SR		1	1105
+488	Rajciarová Anna, SR		1	912
+488	Rajciarová Anna, SR	LSR	0	913
+488	Ratková Barbora r. Vargová, SR		1	896
+488	Ratková Barbora r. Vargová, SR	LSR	0	897
+488	Resutík Ondrej, SR		1	1104
+488	Resutíková Božena r. Kováčiková, SR		1	1104
+488	Rusňák Július, SR		1	461,462
+488	Rusňáková Alžbeta r. Kupecová, SR		1	461,462
+488	Rybársky Jozef, SR		1	408,1012,1013,1021,1022,1215
+488	Rybársky Jozef, SR	LSR	0	1014
+488	Rybársky Juraj, SR		1	408,1012,1021,1022,1215
+488	Semerád Tomáš, SR	manželka Rozália r. Šimková	1	1084
+488	Semerádová Rozália r. Šimková, SR	vdova	1	1084
+488	Schnierer Michal, SR		1	408,487,600,1021,1022,1231,1244
+488	Schnierer Michal, SR	LSR	0	1219
+488	Smodek Ľudovít, SR		1	466
+488	Solín Ján, SR	zomrel 29.1.2000	1	466,600,768
+488	Somerádová Rozália r. Šimková, SR		1	1084
+488	Spodniaková Margita r. Hukeľová, SR		1	983
+488	Spodniaková Margita r. Hukeľová, SR	LSR	0	984
+488	Steinemannová Vilma r. Detterová, SR		1	951,1137,1140,1145,1265
+488	Steinemannová Vilma r. Detterová, SR	LSR	0	952
+488	Strigač Ján, SR		1	110,129,887
+488	Strigač Ján, SR	LSR	0	888
+488	Strigáč Ján, SR	manželka Katarína r. Aláčová	1	1077
+488	Strigáčová Katarína r. Aláčová, SR		1	1077
+488	Strigačová Vilma, SR	LSR	0	909
+488	Súd novohradskej župy, 992 01, Modrý Kameň, SR		0	1158,1209
+488	Suja Ján, SR		1	761,1027,1234
+488	Suja Ján, SR	LSR	0	1028
+488	Suja Ján, SR	Žiak	1	761,1027
+488	Suja Ján, SR	Žiak, LSR	0	1028
+488	Suja Jozef, SR	maloletý	1	1234
+488	Suja Matúš, SR		1	1234
+488	Suja Štefan, SR		1	761,1027
+488	Suja Štefan, SR	LSR	0	1028
+488	Sujová Elena, SR		1	1234
+488	Sujová Katarína r. Hakelová, SR	vdova	1	1234
+488	Sujová Katarína r. Hakelová, SR	Žiaková	1	1234
+488	Sujová Katarína, SR	drugda	1	761,1027
+488	Sujová Katarína, SR	drugda, LSR	0	1028
+488	Sujová Margita, SR		1	1234
+488	Sujová Mária, SR		1	1234
+488	Sujová Mária, SR	drugda	1	761,1027
+488	Sujová Mária, SR	drugda, LSR	0	1028
+488	Sutorisová Anna r. Jardeková, SR		1	896
+488	Sutorisová Anna r. Jardeková, SR	LSR	0	897
+488	Szügyi Andrej, SR		1	1065
+488	Šalamun Juraj, SR		1	896
+488	Šalamun Juraj, SR	LSR	0	897
+488	Šalamun Pavol, SR	Šimon	1	896
+488	Šalamun Pavol, SR	Šimon, LSR	0	897
+488	Šalková Mária r. Gaberová, SR	LSR	0	909
+488	Šašváriová Mária r. Szügyiová, SR		1	1065
+488	Šatarová Anna, SR		1	1207
+488	Šedro Pavol, SR		1	896
+488	Šedro Pavol, SR	LSR	0	897
+488	Šedrová Anna, SR		1	896
+488	Šedrová Anna, SR	LSR	0	897
+488	Šimko Pavol, SR		1	1102
+488	Šindliar Michal, SR	manželka Anna r. Ďurošová	1	1181
+488	Šindliarová Anna r. Ďurošová, SR		1	1065,1181
+488	Škvorák Ján, SR	manželka Alžbeta r. Jánová	1	487,1231
+488	Škvoráková Alžbeta r. Jánová, SR		1	487,1231
+488	Šufliarska Dorota r. Hukeľová, SR		1	983
+488	Šufliarska Dorota r. Hukeľová, SR	LSR	0	984
+488	Šufliarsky Mikuláš, SR		1	1238
+488	Šufliarsky Mikuláš, SR	LSR	0	1256
+488	Šuhaj Ján, SR	manželka Mária r. Mačudová	1	414,1508,1539,1547,1561,1597
+488	Šuhaj Ondrej, Ing.	zomrel 2.12.1994	1	898
+488	Šuhaj Ondrej, Ing., SR	zomrel 2.12.1994	1	889,899,953,1533
+488	Šuhaj Ondrej, Ing., SR	zomrel 2.12.1994, LSR	0	890
+488	Šulek Michal, SR		1	899
+488	Šulek Michal, SR	manželka Oľga r. Slováková	1	35,889,1427,1511,1533,1560
+488	Šulek Michal, SR	manželka Oľga r. Slováková, LSR	0	890
+488	Šuleková Jolana, SR	maloletá	1	954
+488	Šuleková Jolana, SR	maloletá, LSR	0	955
+488	Šuleková Oľga r. Slováková, SR		1	35,889,1427,1511,1533,1560
+488	Šuleková Oľga r. Slováková, SR	LSR	0	890
+488	Tancík Juraj, SR	mladší	1	1095
+488	Tanczig Ján, SR	manželka Mária r. Knochová, LSR	0	1160,1161
+488	Tanczigová Mária r. Knochová, SR	LSR	0	1160,1161
+488	Tršová Elena r. Žilková, SR	LSR	0	909
+488	Uhliar Pavol		1	898
+488	Uhliar Pavol, SR		1	899
+488	Uhorková Anna r. Balážová		1	1269
+488	Uhorková Anna r. Balážová, SR		1	430,998,1384
+488	Uhorková Anna r. Balážová, SR	LSR	0	925,999,1160,1161
+488	Uhrin Ján, SR	LSR	0	909
+488	Uhrin Ján, SR	LV, LSR	0	909
+488	Uhrín Michal, SR	LSR	0	909
+488	Uhrin Mikuláš, SR	zomrel 24.5.2002, LSR	0	909
+488	Uhrin Pavol, SR	LSR	0	909
+488	Uhrin Štefan, SR		1	896
+488	Uhrin Štefan, SR	LSR	0	897,909
+488	Uhrinová Anna, SR	dcéra Margity, LSR	0	909
+488	Uhrinová Emília r. Bystrianska, SR	LSR	0	909
+488	Uhrinová Margita, SR	Zdurná, dcéra Margity, LSR	0	909
+488	Uhrinová Pavlína r. Janšková, SR	LSR	0	909
+488	Václavíková Anna r. Drugdová, SR		1	223,224,258,480,935,937,939
+488	Václavíková Anna r. Drugdová, SR	LSR	0	936,938,940
+488	Valach Ján, SR		1	206,1090
+488	Valach Ján, SR	manželka Mária r. Herková	1	206,1090
+488	Valentová Maria, SR		1	896
+488	Valentová Mária, SR	LSR	0	897
+488	Vančo Pavol, SR		1	896
+488	Vančo Pavol, SR	LSR	0	897
+488	Vančová Mária r. Čabradská, SR	LSR	0	1160,1161
+488	Vanek Ján, SR	manželka Zuzana r. Valachová	1	1117
+488	Vaník Ján, SR		1	430,998,1384
+488	Vaník Ján, SR	LSR	0	999
+488	Veselovská Barbora r. Kminiaková, SR		1	430,998,1058,1384
+488	Veselovská Barbora r. Kminiaková, SR	LSR	0	999,1062
+488	Veselovský Ján, SR	manželka Barbora r. Kminiaková	1	430,998,1058,1384
+488	Veselovský Ján, SR	manželka Barbora r. Kminiaková, LSR	0	999,1062
+488	Viselka Ondrej, SR		1	1108,1466
+488	Viselka Pavol		1	898
+488	Viselka Pavol, SR		1	899
+488	Viselka Rudolf, SR	starší	1	1108,1466
+488	Vrábelová Mária r. Severínová, SR		1	515
+488	Vraňák Michal, SR	manželka Františka r. Barteková	1	896
+488	Vraňák Michal, SR	manželka Františka r. Barteková, LSR	0	897
+488	Vraňáková Františka r. Barteková, SR		1	896
+488	Vraňáková Františka r. Barteková, SR	LSR	0	897
+488	Vyletel Jozef, SR		1	430
+488	Vyletel Jozef, SR	manželka Helena r. Nagyová	1	1106
+488	Vyletelová Helena r. Nagyová, SR		1	1106
+488	Zdechovanová Mária r. Klimová, SR	LSR	0	909
+488	Žiak Ján		1	898
+488	Žiak Ján, SR		1	899
+488	Žilíková Mária r. Šuleková, SR	vdova	1	223,224,258,480,935,939
+488	Žilíková Mária r. Šuleková, SR	vdova, LSR	0	936,940
+489	Adamát Vavro Štefan r. Adamát Vavro	Mária rod.Ondrejičková,č.135,Luborča	0	3417
+489	Babrnák Benedikt r. Babrnák	ž.Alojzia rod.Mičáková,č.264,Horná Súča	0	4028
+489	Babrnák Ján r. Babrnák	ž.Eva rod.Babrnáková,č.264,Horná Súča	0	3995,4008,4026,4049
+489	Babrnák Jozef r. Babrnák	vd.,Mária r.Gago-Potravista,č.265,H.Súča	0	4005
+489	Babrňák Jozef r. Babrňák	ž.Júlia rod. Zavarišová, zomrel 9.11.1996	0	3966
+489	Babrnák Juraj r. Babrnák	zomr.15.06.1979,ž.Anna rod.Dražkovcová,č.690,Horná Súča	0	3956
+489	Babrnáková Alojzia r. Mičáková	zomr.16.09.1996,m.Benedikt,č.564,Horná Súča	0	4028
+489	Babrnáková Eva r. Babrnáková	m.Ján, Ústav soc.star.,Beckov č.26	0	3993,4049
+489	Babrnáková Mária r. Dobošová	m.Ondrej,č.133,Horná Súča,zomrela 05.06.1963	0	2610,3879
+489	Bahnová Agnesa	rod.Oriešková,Luborča č.27	0	3551,3672,3887
+489	Bajziková Alžbeta	rod.Oriešková,Omšena,čd.3868/35	0	3546
+489	Barátová Mária r. Kramorišová	č.48,Hrabovka,sestra OĽga Peťovská,Bavlnárska 319/34,TN	0	3576
+489	Barinek František r. Barinek	Alžbeta r.Vodičková,v Amerike,čd.92/41	0	2315,3233,3564,3628
+489	Bariš Imrich r. Bariš	č.683,Horná Súča, zomrel 25.03.1976	0	3165,3166,3167
+489	Bariš Ján r. Bariš	v Amerike,čd.128/17	0	1996
+489	Bariš Jozef r. Bariš	zomr.17.08.1975,ž.Anna rod.Serišová,č.335,Horná Súča	0	2262,2444
+489	Bariš-zajac Ján r. Bariš-zajac	čd.2413/49, zomr.10.11.1966 v Hor.Súči	0	2262,2444
+489	Bariš-zajac Jozef r. Bariš-zajac	čd.2413/49	0	2262,2444
+489	Barišová Mária r. Koprivňanská	vdova,č.683,Horná Súča, zomr.31.01.1985	0	3965
+489	Barišová Piaková Mária	vdova,rod.Koprivňanská,č.683,Horná Súča	0	3167,3936
+489	Barišová Veronika	maloletá,č.683,Horná Súča	0	3165,3166,3167
+489	Bartanus Jozef r. Bartanus		0	3214,3216
+489	Bartek Ján r. Bartek	č.255,Horná Súča,zomr.28.04.1971	0	4015,4017
+489	Bartek Ján r. Bartek	zomr.11.05.1966,ž. Anna rod.Malichová,č.609,Horná Súča	0	4033
+489	Bartek Jozef r. Bartek	Anna rod.Kocfridová,č.600,Horná Súča	0	4020
+489	Bartek Ondrej r. Bartek	zomr.26.03.1991,ž.Júlia rod.Budiaková,č.459,Horná Súča	0	4015,4017
+489	Bartek Štefan r. Bartek	zomr.11.02.1969,ž.Anna rod.Mičaková,č.578,Horná Súča	0	4019
+489	Bartek Viktor r. Bartek	Katarína rod.Juricová,č.257,Horná Súča	0	4018
+489	Barteková Anna	rod.Kocfridová,č.600,Horná Súča	0	3983
+489	Barteková Anna r. Barteková	zomr.12.03.1959 slobodná,č.255,Horná Súča	0	4015
+489	Barteková Anna r. Malichová	zomr.05.02.1979,m.Ján zomr.11.05.1966,č.609,Horná Súča	0	4027,4033
+489	Barteková Anna r. Zemanovičová	zomr.13.11.1964,m.Štefan,č.679,Horná Súča	0	2629,3095
+489	Barteková Eva r. Barteková	zomr.12.03.1959 slob.,č.255,Horná Súča	0	4015
+489	Barteková Katarína r. Chupáčová	vdova,zomr.23.03.1973,č.147,Horná Súča	0	2947,2949,3870,3871
+489	Barteková Mária	slobodná,č.6, Hrabovka, zomr.09.03.1979	0	2542
+489	Barteková Mária	zomr.27.03.1960,č.255,Horná Súča	0	4015
+489	Barteková Serafína	zomr.15.07.1995,č.550,Horná Súča	0	4052
+489	Baryšová Margita r. Kopunová, 913 33, Horná Súča, č. 328, SR		0	3989
+489	Bašová Katarína	rod.Gazdiková,v Kubre,čd.853/08	0	1537,1538,4255
+489	Beránková Anna	rod.Novomestská,Čechy,čd.3319/39	0	2374,2702,3240,3335,3336,3853,4324,4627,4697
+489	Betincová Anna	rod.Šiveňová Šalátová,čd.1157/64,zomr.29.10.1976	0	2754
+489	Betincová Anna	rod.Vavrová,v Amerike,čd.3898/14	0	3425,3618
+489	Betinec Ján r. Betinec	Anna rod.Vavrová,v Amerike,čd.3605/44	0	3618
+489	Betinec Ján r. Betinec	slob.,zomr.r.2003,č.603,Dolná Súča	0	2762,2763,3369
+489	Bilčik Jozef r. Bilčik	č.284,Dolná Súča	0	1123,3394
+489	Bilčik Štefan r. Bilčik	zomr.28.06.1979,č.191,Dolná Súča	0	1123,3394
+489	Bilčíková Agnesa r. Čičová	zomrela 13.04.1998, Dolná Súča č.226	0	2559,3235
+489	Bilčiková Alojzia r. Sasková	zomr.12.06.2000,č.357,Horná Súča	0	3177,3924
+489	Bilčiková Anna	v Čechách,čd.1117/27	0	1123,3394
+489	Bilčíková Eva	vdova,rod.Ďurigová,č.284,Dolná Súča	0	3495
+489	Biras Alojz r. Biras	zomr.17.12.1994,ž.Anna rod.Mikušincová,č.32,Horná Súča,zomr	0	2949
+489	Biras Alojz r. Biras	zomr.29.06.1981,č.217,Horná Súča	0	2947,3870,3873
+489	Biras Andrej r. Biras	Mária rod.Ondračková,č.118,Horná Súča	0	3858,3876
+489	Biras Imrich r. Biras	č.134,Horná Súča	0	2947,2949,3870,3928
+489	Biras Ján r. Biras	č.104,Horná Súča	0	2948,3870
+489	Biras Ján r. Biras	vdovec,Eva rod Birasová,č.330,Dolná Súča u Mituchov	0	1906,2154,2801,4000
+489	Biras Jozef r. Biras	Mária rod.Hejdišová,č.132,Horná Súča	0	3868
+489	Biras Jozef r. Biras	zomrel 04.12.1988,č.217,Horná Súča	0	2947,3870,3873
+489	Biras Juraj r. Biras	zomrel 02.11.1969, ž.Anna rod.Žužiová,č.104,Horná Súča	0	2947,3865
+489	Biras Matej r. Biras	zomr.27.01.1975,ž.Mária rod.Zemanovičová,č.167,Horná Súča	0	3860
+489	Biras Štefan r. Biras	zomr.09.03.1982,ž.Anna rod.Ranková,č.10,Horná Súča	0	3859
+489	Biras-košut Ondrej r. Biras Košut	zomr.04.01.1973,ž.Eva rod.Zemanovičová,č.124,Horná Súča	0	2610,3178
+489	Biras-ukum Filip r. Biras Ukum	zomr.05.01.1955,č.19,Horná Súča	0	3873
+489	Birasová Anna r. Ranková	zomr.26.06.1998,m.Štefan zomr.09.03.1982,č.10,Horná Súča	0	1503,3919
+489	Birasová Katarína r. Gagová	zomr.13.01.1966,č.203,Horná Súča	0	3866
+489	Birasová Mária r. Ondračková	zomr.24.05.1986,Ondrej,č.118,Horná Súča	0	3858
+489	Birasová Mária r. Zemanovičová	zomr.09.05.1981,č.280,Horná Súča	0	2262,3918
+489	Bizoňová Mária r. Gugová	zomr.19.01.1990,č.358,Horná Súča,čd.2393/50	0	3867
+489	Blažejová Júlia r. Šedivá	zomr.14.06.1997,Dolná Súča č.367	0	1639,1823,3885
+489	Bulejko Ján r. Bulejko	Šmeralová č.17, Bratislava	0	2815,2933
+489	Bulejková Anna	čd.3/50	0	3872
+489	Bulejková Apolonia	č.40,Horná Súča	0	2778
+489	Bulejková Emília	čd.3/50	0	2778
+489	Bulejková Katarína	čd.3/50	0	3872
+489	Bulejková Magdaléna	čd.3/50	0	3872
+489	Capák Augustin r. Capák	Čechy,čd.40/33	0	2458,2459
+489	Capák Ján r. Capák	v Amerike,čd.40/33	0	2458,2459
+489	Capák Martin r. Capák	Čechy,čd.40/33	0	2458,2459
+489	Coníková Mária	č.8,Horná Súča	0	3886
+489	Cverenkár Martin r. Cverenkár	zomr.19.04.1970,ž.Mária rod.Mikušincová zomr.8.12.1960,č.561	0	2263
+489	Cverenkár Štefan r. Cverenkár	zomr.17.06.1961,ž.Mária rod.Krovinová,č.563,Horná Súča	0	3843
+489	Čapák Jozef r. Čapák	vd.zomr.23.10.1964,Zuzana rod.Serišová,č.206,Horná Súča	0	3933
+489	Čapák Štefan r. Čapák	zomr.30.06.1983,Viktória rod.Barišová zomr.14,11,1982,č.352	0	3930
+489	Čapáková Alojzia	č.207,Horná Súča	0	3930
+489	Čapáková Anna	č.207,Horná Súča	0	3930
+489	Čechovská Mária r. Kopunová	zomr.17.03.1982,č.598,Horná Súča	0	4030,4036
+489	Čechovský Dominik r. Čechovský	zomr.25.02.1970,ž.Katarína rod.Hamajová zomr.,č.573,Horná Sú	0	3937
+489	Čechovský Martin r. Čechovský	Anna rod.Michalcová,č.221,Horná Súča	0	3957
+489	Čičová Agnesa r. Rožníková	vdova,zomr.23.12.1965,č.226,Dolná Súča	0	2559
+489	Čičová Anna	rod.Plevová,Augustín,č.31,Hrabovka	0	3663
+489	Čičová Anna	v Amerike,čd.1541/12	0	3563
+489	Čičová Anna	vdova,rod.Mikušková,č.253,Dolná Súča	0	3640

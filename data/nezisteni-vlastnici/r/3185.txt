@@ -1,0 +1,256 @@
+1860	Hoľan Ján		1	3359
+1860	Hoľan Ján, 072 03, Moravany, SR		1	1204
+1860	Hoľan Juraj		1	2754
+1860	Hoľan Juraj, 072 03, Moravany, SR	mal	1	1204
+1860	Hoľan Michal		1	1204,2402,2885
+1860	Hoľan Michal, 072 03, Moravany, SR	PK	1	1204
+1860	Hoľan Štefan		1	3334
+1860	Hoľan Štefan, 072 03, Moravany, SR	mal	1	1204
+1860	Hoľanová Alžbeta		1	2925
+1860	Holanová Alžbeta r. Jakubecová		1	2228,2253
+1860	Holanová Alžbeta r. Jakubecová	vdová	1	2077,2079
+1860	Holanová Alžbeta r. Jakubecová, 072 03, Moravany, SR	vdova	1	1011
+1860	Hoľanová Alžbeta r. Jakubocová		1	2443
+1860	Hoľanová Alžbeta r. Jakubocová, 072 03, Moravany, SR		1	1204
+1860	Hoľanová Alžbeta, 072 03, Moravany, SR		1	1204
+1860	Hoľanová Anna r. Dorová		1	3408
+1860	Hoľanová Anna r. Dorová, 072 03, Moravany, SR		1	1204
+1860	Hoľanová Anna r. Vasilová		1	2251
+1860	Hoľanová Anna r. Vasilová, 072 03, Moravany, SR	manž.Pavol	1	1204
+1860	Holinková Helena		1	3320
+1860	Holomanová Mária r. Bačáková, 072 03, Moravany, SR		1	1258
+1860	Horňák Ján		1	2255
+1860	Horňák Pavol		1	2247
+1860	Horňáková Alžbeta r. Ondová		1	3003
+1860	Horňáková Anna		1	2247
+1860	Hotovčín Andrej		1	2771
+1860	Hotovčín Andrej, 072 03, Moravany, SR	manž.Anna Ondová	1	1204
+1860	Hotovčín Michal		1	2312
+1860	Hotovčín Michal, 072 03, Moravany, SR	manž.Anna Savková	1	1204
+1860	Hovanec Jozef, 072 03, Moravany, SR		1	347
+1860	Hrabovská Anna r. Lakatošová, 072 03, Moravany, SR		1	1861
+1860	Hrabovská Zuzana r. Eľková		1	2964
+1860	Hredzák Andrej		1	1204,3240
+1860	Hredzák Juraj		1	1204,3205
+1860	Hredzák Michal		1	2265,3006,3416
+1860	Hredzák Michal, 072 03, Moravany, SR	manž.Anna Michalčiková	1	2222
+1860	Hredzáková Anna r. Barbaričová		1	2533
+1860	Hredzáková Anna r. Kirnágová		1	2077,2079,2228,2253
+1860	Hredzáková Anna r. Kirnágová, 072 03, Moravany, SR		1	1011
+1860	Hredzáková Anna r. Mihalčínová,  206, Moravany, PSČ 072 03, SR		0	2547
+1860	Hredzáková Zuzana r. Jendželovská		1	2227
+1860	Hreha Andrej,  20, Rakovec nad Ondavou, PSČ 072 03, SR		0	3143
+1860	Hricová Zuzana r. Savková		1	3033
+1860	Hrubý Andrej, 072 03, Moravany, SR		1	347
+1860	Hrubý Ján		1	2592
+1860	Humeník Michal		1	2237
+1860	Humeník Michal, 072 03, Moravany, SR	syn Michala	1	1348
+1860	Humeník Pavol		1	2248,3176
+1860	Humeník Pavol, 072 03, Moravany, SR	manž.Anna Hrehová	1	1348
+1860	Humeníková Mária r. Marcinová		1	2248,3095
+1860	Hurčík Jozef		1	2253
+1860	Hurčík Jozef, 072 03, Moravany, SR	manž.Anna Kopasová	1	1093
+1860	Hurčík Juraj		1	2230
+1860	Hurčíková Mária r. Kondášová		1	2227
+1860	Hurčíková Zuzana r. Hrubá		1	3420
+1860	Hutman Juraj		1	3126
+1860	Chovancová Anna r. Fulajtárová, 072 03, Moravany, SR		1	347
+1860	Chovancová Anna r. Proceková		1	2233
+1860	Ihnátová Zuzana r. Žofčáková		1	2261,2265,3090
+1860	Ivančík Michal		1	2336
+1860	Ivančíková Mária r. Jurková		1	2835,3409
+1860	Ivančíková Zuzana r. Čižmárová		1	3243
+1860	Ivančová Zuzana r. Savková		1	2958
+1860	Ivanická Mária r. Jurková		1	2340
+1860	Ivanická Mária r. Jurková, 072 03, Moravany, SR		1	1436
+1860	Ivaničková Anna r. Olexová		1	2827
+1860	Jakubcová Zuzana r. Barbaričová		1	3300
+1860	Jakubcová Zuzana r. Barbaričová, 072 03, Moravany, SR		1	1204
+1860	Jakubec Andrej		1	2987
+1860	Jakubec Ján		1	2228,2253,3389
+1860	Jakubec Ján	mal	1	2077,2079
+1860	Jakubec Ján, 072 03, Moravany, SR	mal	1	1011
+1860	Jakubec Juraj		1	2370
+1860	Jakubec Juraj, 072 03, Moravany, SR	manž.Alžbeta Čačková	1	1204
+1860	Jakubec Michal		1	2228,2253,2699
+1860	Jakubec Michal	PK	1	2077,2079
+1860	Jakubec Michal, 072 03, Moravany, SR	manž.Alžbeta Holanová	1	1204
+1860	Jakubec Michal, 072 03, Moravany, SR	PK	1	1011
+1860	Jakubecová Alžbeta		1	2077,2079,2228,2253,3382
+1860	Jakubecová Alžbeta, 072 03, Moravany, SR		1	1011
+1860	Jakubecová Anna r. Koščáková,  47, Tušice, PSČ 072 02, SR		1	2259
+1860	Jakubiková Alžbeta r. Volčková		1	2385
+1860	Jakubiková Alžbeta r. Volčková, 072 03, Moravany, SR		1	1348
+1860	Jakubocová Anna		1	2683
+1860	Jakubocová Zuzana r. Barbaričová		1	3338
+1860	Jančová Zuzana r. Kobová		1	2878
+1860	Jančová Zuzana r. Kobová, 072 03, Moravany, SR		1	966
+1860	Janičová Mária r. Kelčáková		1	2832
+1860	Janoško Ján		1	3431
+1860	Janoško Juraj		1	2223
+1860	Janoško Michal		1	3248
+1860	Janoško Michal, 072 03, Moravany, SR		1	1158
+1860	Janoško Michal, 072 03, Moravany, SR	manž.Anna Gorogová	1	69
+1860	Janoško Mikuláš		1	2836
+1860	Janoško Pavol		1	2337
+1860	Janošková Anna r. Gorogová		1	2271,2940
+1860	Janošková Anna r. Gorogová, 072 03, Moravany, SR		1	1158
+1860	Ješková Anna r. Eľková		1	2288
+1860	Juhás Ján		1	2248,2687
+1860	Juhás Ján, 072 03, Moravany, SR	syn Jána	1	1348
+1860	Juhás Michal		1	2236,2248
+1860	Juhás Michal, 072 03, Moravany, SR	manž.Anna Boruchová	1	1348
+1860	JURČO Andrej	ž.Zuzana Maximová	1	645
+1860	JURČO Ján		1	645
+1860	JURČO Ján	syn Andreja	1	645
+1860	JURČO Michal	ž.Anna r.Mošpánová	1	645
+1860	JURČO Štefan	ž.Mária r. Andrejová	1	645
+1860	JURČOVÁ Anna r. Michalková		1	645
+1860	JURČOVÁ Anna r. Petrová		1	645
+1860	JURČOVÁ Barbora r. Varňaková		1	645
+1860	JURČOVÁ Helena	dcéra Andreja	1	645
+1860	JURČOVÁ Mária r. Olexová		1	645
+1860	JURČOVÁ Zuzana r. Rosipajková		1	645
+1860	Jurková Anna		1	3387
+1860	Kačanovský Ján		1	2253,2700
+1860	Kačanovský Ján, 072 03, Moravany, SR	manž.Zuzana Hurčíková	1	1093
+1860	Kačanovský Juraj		1	2253,2371
+1860	Kačanovský Juraj, 072 03, Moravany, SR	manž.Alžbeta Nízka	1	1093
+1860	Kačanovský Michal		1	2253,2904
+1860	Kačanovský Michal, 072 03, Moravany, SR	manž.Mária Činčárová	1	1093
+1860	Kačkoš Pavol		1	2233
+1860	Kačkošová Anna r. Smaržíková		1	2233
+1860	Kadiľák Štefan		1	2659
+1860	Kadiľáková Mária r. Rusnáková		1	3081
+1860	Kachnič Michal		1	3390
+1860	Kachničová Zuzana r. Tirpáková		1	2735
+1860	Kalenda Jozef		1	2223
+1860	Kallai Ján		1	3415
+1860	Kallai Michal		1	3415
+1860	Kallaiová Mária r. Žofčáková		1	2227,3107
+1860	Kalo Ján		1	2233
+1860	Kalo Ján, 072 03, Moravany, SR		1	1204
+1860	Kaľuha Ján		1	2265,2580
+1860	Kaluha Ján, 072 03, Moravany, SR	manž.Barbora Valková	1	1452
+1860	Kaľuha Ján, 072 03, Moravany, SR		1	1814
+1860	Kaľuha Ján, 072 03, Moravany, SR	Barma	1	2090
+1860	Kaľuha Pavol		1	2233
+1860	Kaluhová Barbora r. Valková		1	2265,3054
+1860	Kaľuhová Zuzana		1	2568
+1860	Káša Daniel		1	3024
+1860	Káša Daniel, 072 03, Moravany, SR	syn Gabriela	1	811
+1860	Kaša Gabriel		1	2274
+1860	Kaščák Michal		1	2230
+1860	Kaščák Michal, 072 03, Moravany, SR		1	1204
+1860	Kaščák Michal, 072 03, Moravany, SR	manž.Alžbeta Gazdová	1	1204
+1860	KATANČÍK Andrej		1	645
+1860	Kato Ján		1	2751
+1860	Kato Michal		1	2415
+1860	Katová Anna r. Marinčáková		1	3331
+1860	Katová Zuzana r. Holanová		1	2889
+1860	Katová Zuzana r. Holanová, 072 03, Moravany, SR		1	1204
+1860	Kažimírová Etela r. Erdelyiová		1	2263,2721
+1860	Kelčák Juraj		1	2439
+1860	Kelčák Michal		1	2918
+1860	Keller Jakub		1	2274
+1860	Kemer Bernát		1	2974
+1860	Kertés Ján, 072 03, Moravany, SR	manž.Anna Báková	1	1093
+1860	Kertéš Ján		1	2253
+1860	Kinčovská Anna r. Kovalová		1	2807
+1860	KINČOVSKÁ Zuzana		1	777,2263,2281
+1860	Kinčovský Andrej		1	2999
+1860	Kinčovský Pavol		1	3285
+1860	Kirnág Andrej		1	2077,2079,2228,2253
+1860	Kirnág Andrej, 072 03, Moravany, SR		1	1011
+1860	Kirnág Ján		1	2077,2079,2228,2253
+1860	Kirnág Ján	ž. Zuzana r. Jakubecová	1	2077,2079
+1860	Kirnág Ján, 072 03, Miravany, SR	manž.Zuzana Jakubecová	1	1011
+1860	Kirnág Ján, 072 03, Moravany, SR		1	1011
+1860	Kirnág Jozef		1	2077,2079,2228,2253
+1860	Kirnág Jozef, 072 03, Moravany, SR		1	1011
+1860	Kirnág Juraj		1	2228,2253
+1860	Kirnág Juraj	mal., syn Jozefa	1	2077
+1860	Kirnág Juraj, 072 03, Moravany, SR	mal.syn Jozefa	1	1011,2079
+1860	Kirnág Pavol		1	2233
+1860	Kirnágová Anna r. Vaľová		1	2531
+1860	Kirnágová Zuzana r. Lešňanská		1	3413
+1860	Kiš Tomáš		1	2274
+1860	Klima Michal		1	3426
+1860	Klimová Anna		1	3413
+1860	Klimová Zuzana r. Mattiová		1	2786
+1860	Kmec Jakubec Andrej		1	2590
+1860	Kmec Ján		1	3210
+1860	Kmec Juraj		1	3408
+1860	Kmec Juraj, 072 03, Moravany, SR	Kuchár	1	1204
+1860	Kmecová Anna r. Dorová		1	3408
+1860	Kmecová Anna r. Dorová, 072 03, Moravany, SR	Kucharová	1	1204
+1860	Kmecová Anna r. Žofčáková		1	3408
+1860	Kmecová Anna r. Žofčáková, 072 03, Moravany, SR	Kuchárová	1	1204
+1860	Kmecová Zuzana r. Feríková		1	2233
+1860	Kmecová Zuzana r. Feríková, 072 03, Moravany, SR	Jakubecová	1	1204
+1860	Kmetony Jozef, 072 03, Moravany, SR	manž.Mária Kmetonyová	1	347
+1860	Koba Juraj		1	2251
+1860	Kočiš Juraj		1	2228,2253
+1860	Kočiš Juraj	Miško	1	2077,2079
+1860	Kočiš Juraj, 072 03, Moravany, SR	Miško	1	1011
+1860	Kočiš Michal		1	3123
+1860	Kočiš Michal, 072 03, Moravany, SR		1	1204
+1860	Kočišková Anna r. Hamzová		1	2465
+1860	Kočišová Alžbeta, 072 03, Moravany, SR	mal	1	347
+1860	Kohútová Anna r. Eľková		1	2261,2619
+1860	Kolibab Ján		1	3130
+1860	Kolonay Tomáš		1	2274
+1860	Kondáš Michal		1	2333
+1860	Kondáš Michal, 072 03, Moravany, SR	manž.Zuzana Koščáková	1	318
+1860	Kondáš Milan		1	2842
+1860	Kondáš Milan, 072 03, Moravany, SR	mal	1	318
+1860	Kondáš Slávko		1	3257
+1860	Kondášová Zuzana r. Koščáková		1	2345
+1860	Korčinská Anna r. Savková		1	2825
+1860	Korčinská Anna r. Savková, 072 03, Moravany, SR		1	347
+1860	Korčinská Margita r. Šimková		1	3291
+1860	Korčinský Ľudovít		1	3396
+1860	Korčinský Pavol		1	3426
+1860	Korčinský Štefan		1	2263,2377
+1860	Koscelanská Mária r. Dorovčáková		1	3408
+1860	Koscelanská Mária r. Dorovčáková, 072 03, Moravany, SR		1	1204
+1860	Kostiková Mária r. Čonková		1	2250
+1860	Koščák Ján		1	2233
+1860	Koščák Michal		1	2916
+1860	Kotfer Pavol		1	3346
+1860	Kotferová Mária r. Bérešová		1	2871
+1860	Kovačíková Mária r. Volčková		1	2822
+1860	Kovačíková Mária r. Volčková, 072 03, Moravany, SR		1	1348
+1860	Kovaľ Andrej		1	3416
+1860	Kovaľ Andrej, 072 03, Moravany, SR	manž.Anna Kučiková	1	2222
+1860	Kovaľ Ján		1	2228,2253,3415
+1860	Kovaľ Ján	ž. Zuzana r. Moskaľová	1	2077,2079
+1860	Kovaľ Ján, 072 03, Moravany, SR	manž.Zuzana Moskaľová	1	1011
+1860	Kovaľ Michal		1	3251
+1860	Kovaľ Michal, 072 03, Moravany, SR	manž.Mária Ilčiková	1	1158
+1860	Kovalík Juraj		1	2233
+1860	Kovalík Juraj, 072 03, Moravany, SR		1	1204
+1860	Kovalík Michal		1	2331
+1860	Kovaľová Anna		1	2945
+1860	Kovaľová Mária r. Bakajsová		1	2248,3259
+1860	Kovaľová Mária r. Bakajsová, 072 03, Moravany, SR		1	1348
+1860	Kovaľová Mária r. Demčáková		1	2790
+1860	Kovaľová Zuzana		1	2299
+1860	Kozelová Mária r. Juhásová		1	2248,2382
+1860	Krivá Alžbeta r. Balombényová		1	2912
+1860	Krivý Andrej		1	3378
+1860	Krupa Michal	| |	1	2900
+1860	Krupová Mária r. Olexová		1	3394
+1860	Kubáni Ján		1	2228,2745
+1860	Kubáni Ján	manž.Anna Čeklovská	0	258
+1860	Kubáni Ján	manž.Anna Sabovčíková	0	1404
+1860	Kubáni Ján, 072 03, Moravany, SR		1	67
+1860	Kubáni Ján, 072 03, Moravany, SR	manž.Anna Sabovčíková	1	1403
+1860	Kubáni Jozef		1	2228,2421
+1860	Kubáni Jozef	syn Jána	0	258,1404
+1860	Kubáni Jozef, 072 03, Moravany, SR		1	67
+1860	Kubáni Jozef, 072 03, Moravany, SR	syn Jána	1	1403
+1860	Kubáni Michal		1	2228,3065
+1860	Kubáni Michal	syn Jána	0	258,1404
+1860	Kubáni Michal, 072 03, Moravany, SR		1	67
+1860	Kubáni Michal, 072 03, Moravany, SR	syn Jána	1	1403

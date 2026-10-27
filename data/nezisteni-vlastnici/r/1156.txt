@@ -1,0 +1,256 @@
+670	BUČEK Matej, SR		1	7689
+670	Buček Rudolf	manželka Jozefína r. Lorencová	0	5050
+670	Bučková Jozefína r. Lorencová		0	9160
+670	Bučková Jozefína r. Lorencová	manžel Rudolf	0	4982
+670	Burcel Štefan, 908 85, Brodské, č. 355, SR	manželka Mária	0	9291
+670	Burián Albert		0	4278,4280
+670	Burián Albert	manž. Rudolfína r. Lambergová	0	9160
+670	Buriánová Rudolfína r. Lambergová		0	4280
+670	Burská Anna, 908 85, Brodské, č. 59, SR		0	9291
+670	Burská Helena, 908 85, Brodské, č. 56, SR	manžel Anton	0	9291
+670	Burská Terézia r. Gajdová	manžel Ambróz	0	6605,6620
+670	Burský Ambróz	manželka Terézia r. Gajdová	0	6605,6620
+670	Burský Antonín, 908 85, Brodské, č. 56, SR	manželka Helena	0	9291
+670	Burský Florián	manželka Rozália	0	2073,9291
+670	Burský Florián, 908 85, Brodské, č. 70, SR	manželka Rozália	0	9291
+670	Butaš Pavol		0	5887
+670	Butaš Pavol	ž. Anna r. Gajdúšková, zomrel 17.1.1967	0	5073,5117,7077
+670	Butaš Pavol, 908 45, Gbely, č. 380, SR	zomrel 17.1.1967 - D 166/1967, manželka Anna r. Gajduśková -nar. 8.9.1893	0	9021
+670	Butaš Pavol, 908 45, Gbely, č. 380, SR	zomrel 17.1.1967 - D-166/1967, manželka Anna r. Gajdúšková nar. 8.9.1893	0	5945
+670	Butašová Anna r. Gajdúšková, 908 45, Gbely, č. 625, SR		0	5887
+670	Cillagi Andor	dedené po Adolfovi Burianovi, Maxovi Burianovi, Hermíne Katrovej r. Burianovej	0	4163
+670	Čagánková Júlia r. Hrušecká	manžel Matej	0	6580,6581,6668,6764
+670	Čajka Jarolím	bytom: Kopčany č. 246, manželka Anna r. Grundeiová, dcéra Irena	0	5848,5853
+670	Čajková Irena	otec Jarolím	0	5853
+670	Čárska Alžbeta r. Hazlingerová		0	5946,9021
+670	Čárska Alžbeta r. Hazlingerová	manžel Imrich	0	9160
+670	Čárska Andela		0	7716
+670	Čárska Angela	dedené po Antonovi Čárskom, súrodenci Hermína, Dezider, Konštantín, Ladislav, Matej	0	4804
+670	Čarská Anna	maloletá v roku 1943	0	4171
+670	Čarská Anna	súrodenci: Viktor, Jozef, Mária, Margita	0	3962,5676
+670	Čárska Anna	súrodenci: Viktor, Jozef, Margita, Mária	0	5895,8237,8238,9423
+670	ČÁRSKA Anna		0	5945,6523,9160
+670	Čárska Helena r. Bolebruchová	manžel František	0	9160
+670	Čárska Hermína		0	7716
+670	Čárska Hermína	dedené po Antonovi Čárskom, súrodenci Angela, Dezider, Konštantín, Ladislav, Matej	0	4804
+670	Čarská Hermína r. Zajíčková	súrodenci: Alžbeta, Ján	0	6691,6692
+670	Čárska Hermína r. Zajíčková		0	6128,6565
+670	Čárska Hermína r. Zajíčková	zomrela 4.10.1969	0	9160
+670	Čárska Johana r. Čárska	zomr. 23.11.1949, naposl. bytom: Gbely, súr.: Štefan, Barbora, rodičia Vendelín a Katarína	0	6425,6622,6681,6747,7982,8262
+670	Čárska Johana r. Valachovičová	sestry: Katarína, Hermína	0	6603
+670	Čárska Johanna r. Valachovičová	manžel Štefan	0	9160
+670	Čárska Jozefína r. Kocáková		0	9160
+670	Čarská Ľudmila r. Bolebruchová	manžel Ľudovít	0	6178
+670	Čarská Mária		0	5887,5945,5946,6523,9021,9160
+670	Čarská Mária	maloletá v roku 1943	0	4171
+670	Čarská Mária	súrodenci: Viktor, Jozef, Margita, Anna	0	3962,5676,5895,6776,8237,8238,9423
+670	ČÁRSKA Mária	slobodná	0	4391
+670	Čarská Vilma r. Konečná	súrodenci: Ján, Oršula, Konštantín, Jozef, Júlia, Michal, Ferdinand	0	4926
+670	Čárska Zuzana r. Kocáková		0	7716
+670	Čársky Dezider		0	7716
+670	Čársky Dezider	dedené po Antonovi Čárskom, súrodenci Angela, Hermína, Konštantín, Ladislav, Matej	0	4804
+670	Čársky František	zomrel 11.4.1968, bytom: Gbely č.649, manž. Vilma r. Konečná, deti: Konštantín, Vladimír	0	5105
+670	Čársky František	zomrel 20.1.1959, manželka Ernestína, deti: Ladislav, Viktor, Jozef, Mária, Margita, Anna	0	4495,4884,5887,5945,5946,6206,6498,6668,6719,7472,7716,8243,8848,9021
+670	Čársky Imrich	manž. Alžbeta r. Hazlingerová	0	9160
+670	Čársky Ján	manž. Rozália r. Hojná, deti: Mária Ďurovičová, Alžbeta Kollárová	0	3991,6717,6733,9160
+670	Čársky Ján	rod. František a Helena r. Bolebruchová, súr. František, Augustín, Michal	0	4217,4965,6004,6293,6562,7821,8321,8322,8618,9160,9409
+670	Čársky Jozef		0	5945,5946,6773,9021
+670	Čársky Jozef	katolícky farár	0	4632
+670	Čársky Konštantín		0	7716
+670	Čársky Konštantín	dedené po Antonovi Čárskom, súrodenci Angela, Hermína, Dezider, Ladislav, Matej	0	4804
+670	ČÁRSKY Konštantín, Magurská 2, Banská Bystrica, PSČ 974 11, SR		0	8704,8705,9343
+670	Čarský Konštantín, MUDr.		0	5921,8166
+670	Čársky Ladislav		0	7716
+670	Čársky Ladislav	dedené po Antonovi Čárskom, súrodenci Angela, Hermína, Dezider, Konštantín, Matej	0	4804
+670	Čarský Ľudovít	m.Ľudmila, d.Mária, súr.:Mária, Stani., Ján, Alžb., Anast., Františ., Rozál., Štef., Joha	0	5874,5946,6755,6757,6950,9021
+670	Čársky Matej		0	7716
+670	Čársky Matej	dedené po Antonovi Čárskom, súrodenci Angela, Hermína, Dezider, Konštantín, Ladislav	0	4804
+670	Čarský Pavel		0	4495,6206,6498,8243
+670	Čarský Pavol		0	4254,4884,5675,6719,7716,8848
+670	Čársky Stanislav	m.Hermína, deti:Berta,Ján, súr.:Mária, Stanis., Ján, Ľudov., Alžb., Frant., Rozál., Štef	0	427,5161,5415
+670	Čarský Štefan	rodičia Michal a Eva r. Medlenová	0	9160
+670	Čársky Štefan	súr.: Mária, Ján, Ľudovít, Alžbeta, František, Rozália, Anastázia, Johanna, Stanislav	0	9160
+670	Čársky Štefan	ž. Anna r. Králová	0	3418
+670	Čársky Viktor		0	5945,5946,9021
+670	Čepková Mária r. Mokrohajská		0	4318
+670	Čepková Mária r. Mokrohajská	manžel Jozef	0	3752,9160
+670	Čermák Ján	bytom: Kollárova 16, Kopčany	0	5849,5853
+670	Černá Mária r. Jurigová	brat Bonaventur	0	3809,4152,6286
+670	Čižmárová Rozália r. Vlková	brat Ján Vlk, rodičia Michal a Mária r. Reháková	0	7408
+670	Čulen Ferdinand	ž. Júlia r.Babušeková, rod.Alojz a Anna r. Papánková, súr.Mária,Teofil,Augustína,Ignác, Se	0	6605
+670	Čulen Ferdinand	ž. Júlia r.Babušeková, rod.Alojz a Anna r. Papánková, súr.Mária,Teofil,Augustína,Ignác,Se	0	6620
+670	Čulen Ferdinand	ž. Mária r. Rišková, rod. Ferdinand a Mária r. Burská, súr. Štefan, Ignác	0	2073,9291
+670	Čulen Ignác	rod. Alojz a Anna r. Papánková, súr. Mária, Augustína, Teofil, Serafína Lániková, Ferdinad	0	6605
+670	Čulen Ignác	rod. Alojz a Anna r. Papánková, súr. Mária, Augustína, Teofil, Serafína Lániková, Ferdinan	0	6620
+670	Čulen Ignác	zomr.14.9.1977, ž. Štefánia r. Vlková, rod. Michal a Margita r. Hojsíková, súr.Štefan, Aga	0	2073,9291
+670	Čulen Ignác	ž. Mária r. Poláková, rod. Ferdinand a Mária r. Burská, súr. Štefan, Ferdinand	0	2073,9291
+670	Čulen Jakub	manželka Jozefína r. Hnátová	0	6416
+670	Čulen Ján		0	5946,9021
+670	Čulen Jozef		0	5779
+670	Čulen Jozef	manželka Pavla	0	5815
+670	Čulen Jozef, 908 85, Brodské, č. 98, SR	manželka Žofia	0	9291
+670	Čulen Martin, 908 85, Brodské, č. 194, SR	manželka Anežka	0	9291
+670	Čulen Michal	manželka Helena r. Trubirohová	0	2073,9291
+670	Čulen Štefan	manželka Helena r. Palkovičová	0	2073,9291
+670	Čulen Štefan	manželka Jozefína r. Kriedlová	0	2073,9291
+670	Čulen Teofil	manželka Mária r. Hnátová	0	6605,6620
+670	Čulen Valentín		0	5921,5946,9021
+670	Čulen Valentín	manželka Alžbeta r. Sofková	0	8166
+670	Čulenová Alžbeta r. Sofková		0	5921,5946,9021
+670	Čulenová Alžbeta r. Sofková	manžel Valentín	0	8166
+670	Čulenová Anežka, 908 85, Brodské, č. 194, SR	manžel Martin	0	9291
+670	Čulenová Helena r. Trubirohová	m.Michal, súrod.Mária, Albert-Vojtech, Anna	0	6825
+670	Čulenová Helena r. Trubirohová	manžel Michal	0	2073,9291
+670	Čulenová Jozefína		0	5946,9021
+670	Čulenová Jozefína r. Hnátová	manžel Jakub	0	6416
+670	Čulenová Jozefína r. Lániková		0	5921,6713,8166
+670	Čulenová Jozefína r. Vozňáková		0	2073,9291
+670	Čulenová Jozefína, 908 85, Brodské, č. 223, SR	manžel Martin	0	9291
+670	Čulenová Jozeína r. Lániková	súrodenci: Ferdinand, Štefan, Anton	0	2073,9291
+670	Čulenová Margita, 908 85, Brodské, č. 167, SR	manžel Michal	0	9291
+670	Čulenová Mária r. Dujsíková	súrodenci: Štefan, Anna, Helena, Terézia	0	2073,9291
+670	Čulenová Mária r. Hnátová	súr. Rozália, Ignác, Ferdinand, Štefánia, Anna, ded. po Agneše Hnátovej r. Mihálovej	0	6745
+670	Čulenová Mária r. Hnátová	súrodenci: Rozália, Ignác, Ferdinand, Štefánia, Anna	0	6605,6620
+670	Čulenová Mária r. Papánková	manžel Anton	0	6656
+670	Čulenová Mária, 908 85, Brodské, č. 18, SR		0	9291
+670	Čulenová Mária, 908 85, Brodské, č. 223, SR	manžel Teofil	0	9291
+670	Čulenová Mária, 908 85, Brodské, č. 32, SR	manžel Ferdinand	0	9291
+670	Čulenová Pavla		0	5779
+670	Čulenová Rozália r. Hojsíková		0	6713,6822
+670	Čulenová Rozália r. Hojsíková	manžel Marek	0	6719,6744
+670	Čulenová Rozália, 908 85, Brodské, č. 339, SR		0	9291
+670	Čulenová Štefánia r. Antálková	zomr. 5.2.1985, m. Anton, rod. Jozef a Mária r. Hnátová, súr. Ján, Valentín, Vendelín, Alz	0	6713
+670	Čulenová Žofia r. Šefčovičová	súrodenci: Teofil, Ferdinand, Ján	0	2073,9291
+670	Čulenová Žofia, 908 85, Brodské, č. 98, SR	manžel Jozef	0	9291
+670	Damborská Jozefína r. Ivanová		0	5779,5814
+670	Ditingerová Františka r. Kubíková		0	6075
+670	Dohnálková Alžbeta r. Štefíková		0	3620
+670	Dohnálková Alžbeta r. Šteflíková		0	2853,4092,5280,6734,8233,8235,9699,9700
+670	DOHNÁLKOVÁ Alžbeta r. Šteflíková, SR		1	2859,8532
+670	Došek Michal		0	6950
+670	Došek Michal	manželka Rozália r. Bolebruchová	0	3732,5660,6756,6775
+670	Došek Michal	manželka Terézia r. Adamovičová	0	6753,6755,6808
+670	Došková Rozália r. Bolebruchová		0	6819
+670	Došková Rozália r. Bolebruchová	manžel Michal	0	5660
+670	Drčelíková Júlia r. Lorencová		1	3984,5068,6618,7666
+670	Drčelíková Júlia r. Lorencová	súr. Mária, Ján, Rozália, Štefánia, Jozefína, Jozef	0	9160
+670	Drčelíková Júlia r. Lorencová	súrod. Mária, Ján, Rozália, Štefánia, Jozefína, Jozef	0	6820
+670	Drčelíková Júlia r. Lorencová	súrodenci: Mária, Ján, Rozália, Štefánia, Jozefína, Jozef	0	6712
+670	Drčelíková Júlia r. Lorencová	súrodenci:Mária, Ján, Rozália, Štefánia, Jozefína, Jozef	0	8498
+670	Dúbrava Dezider		0	5921,8166
+670	Dúbrava Dezider	maloletý	0	9160
+670	Dúbrava Dezider	maloletý v roku 1923	0	6619
+670	Dúbrava Ernest	slobodný	0	9160
+670	Dúbrava Ján		1	903,6103,6423,6424,6740,7701,7903,9160,9526,9527
+670	Dúbrava Ján	po Jánovi Dúbravovi	0	4978
+670	Dúbrava Ján	súrodenci: Jozef, Ladislav, Anna Kvaltínová, Sabina Krňová	0	6558
+670	Dúbrava Ján	súrodenci: Jozef, Sabina Krňová, Anna Kvaltínová	0	6712
+670	Dúbrava Ján	súrodenci: Jozef, Sabina, Anna	0	5313,5392,6822,8498
+670	Dúbrava Ján	súrodenci:Jozef, Ladislav, Anna Kvaltínová, Sabina Krňová	0	6557
+670	Dúbrava Ján r. Dúbrava	manželka Katarína r. Pradličková	0	4922
+670	Dúbrava Ján r. Dúbrava	mladší	0	7721
+670	Dúbrava Jozef	manželka Rozália r. Kollárová	0	5429
+670	Dúbrava Jozef	súrodenci: Ján, Ladislav, Anna Kvaltínová, Sabina Krňová	0	6557,6558
+670	Dúbrava Jozef	súrodenci: Ján, Sabina Krňová, Anna Kvaltínová	0	6712
+670	Dúbrava Jozef	súrodenci: Ján, Sabina, Anna	0	5313,5392,6822,8498
+670	DÚBRAVA JOZEF		0	6103,6423,6424,6740,7903,9160
+670	Dúbrava Ladislav	súrodenci: Ján, Jozef, Anna Kvaltínová, Sabina Krňová	0	6558
+670	Dúbrava Ladislav	súrodenci:Ján, Jozef, Anna Kvaltínová, Sabina Krňová	0	6557
+670	DÚBRAVA LADISLAV		0	5650,9160
+670	Dúbrava Michal		0	3576,5339
+670	Dúbrava Michal	maloletý	0	6014,9160
+670	Dúbrava Štefan	súrodenci: Alžbeta, Katarína, Magdaléna, Albín, Ludmila	0	3031,4077,4176,5259,5260,5975,6688,8077,8283,9160,9272
+670	Dubrava Tomáš	dedené po Jánovi Dúbravovi a Márii r. Macánkovej	0	4791
+670	Dúbrava Tomáš		0	5921,6760,9160
+670	Dúbrava Tomáš	manž. Mária Lorencová	0	9160
+670	Dúbrava Tomáš	manželka Mária r. Lorencová	0	8166
+670	Dúbrava Tomáš	manželka Mária r.Lorencová	0	4449
+670	Dúbrava Tomáš	zomrel 23.8.1965 - D-770/1965, manželka Mária r. Lorencová	0	4216,8357
+670	Dúbrava Tomáš	zomrel 23.8.1965, naposledy bytom Gbely č. 117, deti-Rozália, Ernest	0	9160
+670	DÚBRAVA Tomáš	manž. Mária r. Lorencová	0	4377,9160
+670	Dúbravová Anna	maloletá	0	9160
+670	Dúbravová Ernestín r. Burská	manžel Albín	0	9160
+670	Dúbravová Ernestína r. Burská		0	9160
+670	Dúbravová Ernestína r. Burská	zomrela 10.8.1967 - D 913/1967	0	6187
+670	Dúbravová Ernestína r. Búrska	manžel Albín	0	9160
+670	Dúbravová Gizela r. Serdahelyová		0	9160
+670	Dúbravová Helena r. Koričanská	manžel Jozef Dúbrava, deti: Ján, Jozef, Ladislav, Anna, Sabina	0	6558
+670	Dúbravová Helena r. Koričanská	manžel Jozef Dúbrava, deti:Ján, Ladislav, Jozef, Anna, Sabina	0	6557
+670	Dúbravová Johana r. Tomečková	m. Michal, naposledy bytom: Kollárova 292, Gbely	0	6461,6728,9160
+670	Dúbravová Jozefína		0	202
+670	Dúbravová Katarína r. Pradličková	manžel Ján	0	4922
+670	Dúbravová Magdaléna	súrodenci: Štefan, Alžbeta, Katarína, Albín, Ludmila	0	3031,4077,4176,5259,5260,5975,6688,8077,8283,9160,9272
+670	Dúbravová Mária		0	9160
+670	Dúbravová Mária r. Bolebruchová		0	6143,8655,9160
+670	Dúbravová Mária r. Jureňová		0	4420
+670	Dúbravová Rozália r. Kollárová		0	7903
+670	Dúbravová Rozália r. Kollárová	manžel Ladislav	0	9160
+670	Dúbravová Viktória r. Martinkovičová	brat Rudolf	0	5032
+670	DÚBRAVOVÁ Viktória r. Martinkovičová		0	4397,4595
+670	Dúbravová Vilma		0	9160
+670	Duchoslav Ján		0	5779
+670	Duchoslav Ján	bytom: Kopčany č. 179, manželka Margita	0	5794
+670	Duchoslav Vendelín		0	5779,5795
+670	Duchoslavová Ľudmila r. Adamovičová	manžel Štefan	0	6618
+670	Duchoslavová Margita		0	5779
+670	Duchoslavová Margita	bytom: Kopčany č. 179, manžel Ján	0	5794
+670	Duchoslavová Mária		0	8811
+670	Dujmovič Ladislav, 908 85, Brodské, č. 72, SR	manželka Mária	0	9291
+670	Dujmovičová Mária, 908 85, Brodské, č. 72, SR	manžel Ladislav	0	9291
+670	Dujsík Alojz	maloletý v roku 1913, súrodenci: Rehor, Anastázia, Augustín, Ignác	0	6637
+670	Dujsík Alojz	manželka Alžbeta r. Dujsíková	0	6798
+670	Dujsík Alojz	manželka Rozália	0	6637
+670	Dujsík Alojz	manželka Rozália r. Dujsíková, súrodenci: Rehor, Augustín, Anastázia, Ignác	0	6770
+670	Dujsík Alojz	súr. Rehor, Ignác, Anastázia, Augustín, v roku 1913 maloletý	0	6798
+670	Dujsík Alojz, 908 85, Brodské, č. 295, SR	manželka Rozália	0	9291
+670	Dujsík Ferdinand, 908 85, Brodské, č. 274, SR		0	9291
+670	Dujsík Ignác		0	2073,9291
+670	Dujsík Ignác	dedené po Rehorovi Dujsíkovi	0	6798
+670	Dujsík Ignác	maloletý a slobodný v roku 1937, súr. Mária, Klotilda, Bernardína	0	6798
+670	Dujsík Ignác	maloletý, rodičia Rehor a Alžbeta r. Dujsíková, súrodenci: Mária, Klotilda, Bernardína	0	6770
+670	Dujsík Ignác	súrodenci: Mária, Klotilda, Bernardína	0	6637
+670	Dujsík Jakub	manželka Mária r. Hladíková	0	6637,6770,6798
+670	Dujsík Ján, 908 85, Brodské, č. 169, SR	manžel Alžbeta	0	9291
+670	Dujsík Ján, 908 85, Brodské, č. 344, SR	manželka Ulina	0	9291
+670	Dujsík Jozef, 908 85, Brodské, č. 315, SR		0	9291
+670	Dujsík Martin	manželka Mária r. Gulíšková	0	6637,6798
+670	Dujsík Martin	manželka Mária r. Gulíšková, súrodenci: Teofil, Helena Gulíšková	0	6770
+670	Dujsík Martin, 908 85, Brodské, č. 304, SR	manželka Mária	0	9291
+670	Dujsík Rehor, 908 85, Brodské, č. 346, SR	manželka Alžbeta	0	9291
+670	Dujsík Štefan r. Dujsík	zomr. 9.10.1952, ž. Rozália r. Hladíková, rod.: Lenárt a Helena r. Hnátová, súr.: Mária	0	2073,9291
+670	Dujsík Teofil		0	6637,6798
+670	Dujsík Teofil	súrodenci: Martin, Helena Gulíšková	0	6770
+670	Dujsík Valentín, 908 85, Brodské, č. 315, SR		0	9291
+670	Dujsíková Alžbeta	bytom: Kopčany č. 28	0	5853
+670	Dujsíková Alžbeta r. Dujsíková	manžel Rehor	0	6637
+670	Dujsíková Alžbeta, 908 85, Brodské, č. 169, SR	manžel Ján	0	9291
+670	Dujsíková Anna r. Trubirohová		0	6794
+670	Dujsíková Anna r. Trubirohová	m. Augustín	0	6711
+670	Dujsíková Anna r. Trubirohová	m.Augustín	0	2270,6604,6794
+670	Dujsíková Bernardína	maloletá v roku 1933, dedené po Rehorovi Dujsíkovi	0	6798
+670	Dujsíková Bernardína	maloletá v roku 1933, súrodenci: Ignác, Mária, Klotilda	0	6637
+670	Dujsíková Bernardína	maloletá v roku 1937, súr. Mária, Ignác, Klotilda	0	6798
+670	Dujsíková Bernardína	maloletá, rodičia Rehor a Alžbeta r. Dujsíková, súrodenci: Mária, Ignác, Klotilda	0	6770
+670	Dujsíková Eva r. Štvrtecká	súrod.Mária, Anna, dedené po Jozefovi Štvrteckom	0	6794
+670	Dujsíková Jozefína, 908 85, Brodské, č. 315, SR		0	9291
+670	Dujsíková Klotilda	maloletá v roku 1933, dedené po Rehorovi Dujsíkovi	0	6798
+670	Dujsíková Klotilda	súrodenci: Ignác, Mária, Bernardína	0	6637
+670	Dujsíková Ludmila r. Trubirohová		0	6794
+670	Dujsíková Ludmila r. Trubirohová	m. Štefan	0	6711,6794
+670	Dujsíková Ludmila r. Trubirohová	m.Štefan	0	2270,6604
+670	Dujsíková Mária r. Gulíšková	manžel Martin	0	6637,6770,6798
+670	Dujsíková Mária, 908 85, Brodské, č. 304, SR	manžel Martin	0	9291
+670	Dujsíková Mária, 908 85, Brodské, č. 315, SR		0	9291
+670	Dujsíková Rozália, 908 85, Brodské, č. 295, SR	manžel Alojz	0	9291
+670	Dujsíková Terézia	súrodenci: Štefan, Mária, Anna, Helena	0	2073,9291
+670	Dujsíková Terézia r. Pavlíková		0	6425
+670	Dujsíková Terézia r. Pavlíková	súrodenci: Ján, Mária, Ferdinand	0	8262
+670	Dujsíková Terézia, 908 85, Brodské, č. 274, SR		0	9291
+670	Dujsíková Ulina, 908 85, Brodské, č. 344, SR	manžel Ján	0	9291
+670	Ďurčová Emerencia r. Medlenová		0	3608,4597,5686,6759,8702
+670	Ďuriš Pavol		0	5779
+670	Ďuriš Pavol	bytom: Kopčany č. 113, manželka Mária	0	5834
+670	Ďurišová Mária		0	5779
+670	Ďurišová Mária	bytom: Kopčany č. 113, manžel Pavol	0	5834
+670	Dvorská Amália		0	5767,5778,5882
+670	Dvorská Anna r. Kocáková		0	2237

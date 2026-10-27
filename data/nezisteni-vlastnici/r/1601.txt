@@ -1,0 +1,256 @@
+941	ČERNÁ Anna r. Štefanovičová		0	3629
+941	ČERNÁ Anna r. Švachová		0	4041
+941	Černá Anna r. Turanová	manžel Martin	0	3871
+941	Černá Anna r. Turanová	manžel Štefan	0	3893,4456,4691,4823
+941	ČERNÁ Anna r. Turanová		0	4579
+941	ČERNÁ Anna r. Turanová	Jurajova	0	3629
+941	ČERNÁ Anna r. Turanová	manžel Ján	0	4380
+941	ČERNÁ Eva		0	4091,4590,4608
+941	ČERNÁ Eva	mal	0	3895,3896
+941	ČERNÁ Eva	maloletá	0	4589,4609
+941	Černá Katarína	r.Podolanová	0	4707
+941	Černá Katarína	rod.Bušová, m.Ján	0	4654,4659,4661,4662,4730
+941	ČERNÁ Katarína		0	3442,3629,3895,3896,4460,4513,4661
+941	ČERNÁ Katarína	maloletá	0	4047,4091,4092,4095,4433,4450,4589,4590,4608,4609
+941	ČERNÁ Katarína	vým.mal.čd.365/41	0	4096
+941	ČERNÁ Katarína	výmaz maloletosti č.d. 365/41	0	4352,4471
+941	Černá Katarína r. Bušová	manžel Ján	0	3629,4650
+941	ČERNÁ Katarína r. Podhradská		0	2450
+941	Černá Katarína r. Podolanová		0	1439,4177,4224,4396,4398,4537,4629,4703,4706,4712,4794
+941	ČERNÁ Katarína r. Švehlová		0	4183
+941	ČERNÁ Mária		0	3629,4661
+941	ČERNÁ Mária	maloletá	0	4091,4589,4590,4608,4609
+941	Černá Mária r. Bušová	zomrela 18.12.1969	0	3930
+941	ČERNÁ Mária r. Bušová		0	3049
+941	Černá Mária r. Dedíková	dátum úmrtia 21.10.2005	0	3895
+941	Černá Mária r. Magálová	dátum úmrtia 06.04.1991	0	4320
+941	Černušková Mária r. Bocorová		0	3895,3896
+941	Černý Ján		0	2919,3442,3629,3807,4087,4092,4108,4110,4513,4610,4650,4654,4659,4661,4662,4730
+941	Černý Ján	r.Černý	0	3895,3896,3912,3913,4661
+941	ČERNÝ Ján	m.Katarína Bušová	0	4654,4659,4661,4662,4730
+941	ČERNÝ Ján	manželka Katarína r. Bušová	0	4413,4650
+941	ČERNÝ Ján	manželka Katarína rod. Bušová	0	3629
+941	Černý Ján r. Černý		0	2920
+941	Černý Ján r. Černý	žena Katarína r.Švehlová	0	3895,3896
+941	ČERNÝ Juraj		0	3442,3629,4513,4610,4661
+941	Černý Martin	maloletý	0	2671,2672,3629,4091,4589,4590,4608,4609,4650
+941	Černý Martin	r.Černý,mal	0	3912,3913,4654,4659,4661,4662,4730
+941	ČERNÝ Martin		0	4610
+941	ČERNÝ Martin	manželka Anna r. Dedíková	0	4542
+941	ČERNÝ Martin	manželka Anna r. Helíková	0	3808
+941	ČERNÝ Martin	manželka Anna rod. Drobná	0	4110
+941	ČERNÝ Martin	po Hloškovej Anne r.Černej-Jurovej ž	0	3442
+941	ČERNÝ Martin	výmaz maloletosti čd.2730/24	0	3707
+941	ČERNÝ Štefan		0	3808,4610
+941	ČERNÝ Štefan	manželka Anna Černá	0	4047
+941	ČERNÝ Štefan	manželka Anna r. Černá	0	4433
+941	Čičko Ján	r.Čičko,syn Jána	0	3912,3913,4654,4659,4661,4662,4730
+941	Čičko Ján	syn Jána	0	3629,4650
+941	ČIČKO Štefan		0	4650,4654,4659,4661,4662,4730
+941	ČIČKOVÁ Anna		0	3912,3913
+941	Čičková Anna r. Bučková		0	3046,3048,3050,3051,3461,3463,3493,3892,3983,4289,4463,4492,4545,4546,4562
+941	ČIČKOVÁ Judita	r.Podhradská m.Štefan	0	4654,4659,4661,4662,4730
+941	ČIČKOVÁ Judita r. Podhradská	manžel Štefan	0	3629,4650
+941	ČIČKOVÁ Katarína		0	4650,4654,4659,4661,4662,4730
+941	ČIČKOVÁ Mária		0	3629,4661
+941	ČIČKOVÁ Mária	maloletá	0	4083
+941	ČIČMANSKÁ Eva	r.Kucková	0	4654,4659,4662,4730
+941	ČIČMANSKÁ Eva r. Kucková		0	4650
+941	ČIČMANSKÝ Ján		0	3629,4650,4654,4659,4661,4662,4730
+941	Čičmanský Ján r. Čičmanský	manželka Eva r. Kucková	0	4650,4654,4659,4662,4730
+941	Čierna Anna	maloletá	0	1158,3441,3583,3629,3977,4115,4448,4501,4502,4505,4506,4507,4508,4750
+941	Čierna Anna	r.Čierna,malol	0	3912,3913,4661
+941	Čierna Anna	r.Drobná,r.Drobná	0	3895,3896
+941	Čierna Anna r. Čierna	maloletá	0	1763,2008
+941	ČIERNA Anna r. Čierna		0	3833
+941	ČIERNA Anna r. Magálová		0	4341
+941	ČIERNA Anna r. Turanová	manžel Ján	0	4667
+941	ČIERNA Eva		0	3441
+941	ČIERNA Eva r. Popelková		0	3493
+941	Čierna Katarína		0	4115
+941	Čierna Katarína	maloletá	0	3441,3629
+941	Čierna Katarína	r.Čierna,mal	0	4661
+941	ČIERNA Katarína	Martinova	0	4665
+941	Čierna Katarína r. Čierna	maloletá	0	3583,3833
+941	ČIERNA Mária	mal	0	4661
+941	ČIERNA Mária	maloletá	0	3441,3629
+941	Čierny Ján	maloletý	0	3629,4115
+941	Čierny Ján	r.Čierny,mal	0	3912,3913,4661
+941	ČIERNY Ján		0	3441,3629,4115,4661
+941	ČIERNY Ján	manželka Anna rod. Magálová	0	3983
+941	Čierny Juraj	manželka Mária rod. Bušová	0	3629
+941	Čierny Juraj	r.Čierny,ž.Mária Bušová	0	4661
+941	ČIERNY Juraj		0	3441,4115
+941	ČIERNY Juraj	m.Anna Švachová	0	4661
+941	ČIERNY Juraj	manželka Anna rod. Švachová	0	3629
+941	ČIERNY Martin		0	3441,3629,3985,3990,4661
+941	ČIERNY Martin	manželka Katarína rod. Popelárová	0	3583
+941	Dedík Adam		0	3629,4650
+941	Dedík Adam	r.Dedík	0	4654,4659,4661,4662,4730
+941	DEDÍK Adam	po Adamovi	0	3629,4661
+941	DEDÍK Adam	po Jurajovi	0	3629,4661
+941	DEDÍK Adam	syn Jánov	0	3629,4661
+941	DEDÍK Adam	ž.Anna Chromá	0	2908
+941	DEDÍK Anna	výmaz maloletosti čd.2889/50	0	3977
+941	Dedík Anton		0	3351,3352,3629,4519,4648,4824
+941	Dedík Anton	r.Dedík	0	4661
+941	Dedík Anton r. Dedík		0	3895,3896
+941	DEDÍK Armin		0	4457
+941	DEDÍK Augustín	maloletý	0	4073
+941	Dedík Gustáv		0	3629,3699,4638,4639
+941	Dedík Gustáv	r.Dedík,1	0	4661
+941	Dedík Ján		0	1387,2789,2790,2915,2916,2994,3138,3148,3151,3153,3161,3362,3442,3527,3582,3583,3629,3735,3872,3879,3880,3893,4062,4080,4121,4230,4380,4382,4383,4386,4454,4456,4459,4479,4604,4650,4661,4691,4716,4731,4799,4800,4801,4812,4821,4822,4823,4843,4873,4884,4912
+941	Dedík Ján	2	0	4654,4659,4661,4662,4730
+941	Dedík Ján	manželka Alžbeta r. Mišurcová	0	3629
+941	Dedík Ján	manželka Alžbeta r.Mišurcová	0	3759,4891
+941	Dedík Ján	r.Dedík	0	3629,4661
+941	Dedík Ján	r.Dedík,1	0	4661
+941	Dedík Ján	r.Dedík,ž.Alžbeta r.Mišurcová	0	4661
+941	DEDÍK Ján	mal	0	4661
+941	DEDÍK Ján	mal. do r. 1935 po Jozefovi Dedíkovi	0	3153
+941	DEDÍK Ján	mal.do r.1942	0	4330
+941	DEDÍK Ján	maloletá do r.1935, po Márii Dedíkovej	0	3153
+941	DEDÍK Ján	maloletá, po Márií rod. Turanovej	0	4147
+941	DEDÍK Ján	maloletý	0	3137,3150,3527,3629,3699,3714,3775,3776,3777,3779,3780,3781,3782,3783,3864,3865,3866,3867,3959,3964,4035,4073,4077,4080,4126,4141,4440,4515,4516,4620,4655,4708
+941	DEDÍK Ján	maloletý do r.1942	0	3784
+941	DEDÍK Ján	maloletý, po Márií Turanovej	0	2804
+941	DEDÍK Ján	manželka Anna r. Drobná	0	4620
+941	DEDÍK Ján	manželka Mária r. Margetinová	0	3153
+941	DEDÍK Ján	manželka Rozália r. Sorádová	0	4635
+941	DEDÍK Ján	manželka Rozália r. Soratová	0	3698,3699
+941	DEDÍK Ján	manželka Zuzana r. Repková	0	4711
+941	DEDÍK Ján	po Adamovi	0	3629,4661
+941	DEDÍK Ján	ž.Anna Zámečníková	0	2908
+941	Dedik Ján r. Dedík	matka Mária r.Turanová, súrodenci Martin, Štefan, Anna	0	3799,4390,4603
+941	Dedík Ján r. Dedík		0	3895,3896
+941	Dedík Ján r. Dedík	matka Mária r.Turanová, súr. Martin, Štefan, Anna	0	3629,4661
+941	DEDÍK Jozef		0	3362
+941	DEDÍK Jozef	manželka Katarína r. Nešťáková	0	4299
+941	DEDÍK Jozef	Mikušiak m.Katarína Nešťáková	0	3356,3903
+941	Dedík Jozef r. Dedík		0	3895,3896
+941	Dedík Juraj		0	4620,4631,4648,4711
+941	Dedík Juraj	maloletý	0	3527,3629,3698,4303,4729
+941	Dedík Juraj	r.Dedík,mal	0	4661
+941	DEDÍK Juraj	manželka Anna r. Ančicová	0	4330,4620,4639,4729
+941	DEDÍK Juraj	manželka Anna rod. Čierna	0	3629
+941	DEDÍK Juraj	ž. Anna Čierna	0	4661
+941	Dedík Martin		0	1387,3527,3629,3799,4080,4302,4324,4390,4603,4648,4650,4654,4659,4661,4662,4728,4730
+941	Dedík Martin	dátum úmrtia 25.12.1967	0	4650
+941	Dedík Martin	r.Dedík,.umr.25.12.1967	0	4654,4659,4662,4730
+941	Dedík Martin	r.Dedík,1	0	4654,4659,4661,4662,4730
+941	DEDÍK Martin	mal	0	4654,4659,4661,4662,4730
+941	DEDÍK Martin	mal.,Kolibák	0	4661
+941	DEDÍK Martin	maloletý	0	3629,4080,4382,4650
+941	DEDÍK Martin	maloletý, Kolibák	0	3629
+941	DEDÍK Martin	manželka Katarína r. Popelková	0	4511
+941	DEDÍK Martin	po Adamovi	0	3629,4661
+941	DEDÍK Martin	po Jánovi	0	3629,4661
+941	DEDÍK Martin	slobodný	0	3629,4661
+941	Dedík Michal		0	3629,3698,3699,4330,4635
+941	Dedík Michal	manželka Kata r. Dulinková	0	3629
+941	Dedík Michal	manželka Katarína r. Dulinková	0	3698,3699,4620
+941	Dedík Michal	r.Dedík	0	4661
+941	Dedík Michal	r.Dedík,ž.Kata r.Dulinková	0	4661
+941	Dedík Milan		0	3629,3699,4638,4639
+941	Dedík Milan	r.Dedík,1	0	4661
+941	Dedík Pavol	maloletý	0	3629,3698,3699,4635
+941	Dedík Pavol	r.Dedík,maloletý	0	4661
+941	DEDÍK Pavol	mal. do roku 1938	0	3153
+941	DEDÍK Pavol	manželka Pavlína r. Denková, po Márii Dedíkovej	0	3153
+941	Dedík Peter	r.Dedík,Ing. ,po Gustavovi	0	3895,3896,3922
+941	Dedík Štefan		0	3629,4062,4330
+941	Dedík Štefan	č.d.969	0	3583
+941	Dedík Štefan	mal.1	0	4661
+941	Dedík Štefan	maloletý	0	3629,4035
+941	Dedík Štefan	r.Dedík,č.d.969	0	1387,2994,3138,3148,3151,3161,3442,3582,3735,3799,3872,3879,3880,3893,4380,4383,4386,4390,4454,4456,4459,4603,4604,4639,4650,4654,4659,4661,4662,4691,4730,4799,4800,4801,4812,4821,4822,4823,4843,4873,4912
+941	Dedík Štefan	r.Dedík,ž.Katarína r.Macková	0	4661
+941	DEDÍK Štefan	m.Mária Poláčková	0	4661
+941	DEDÍK Štefan	manželka Anna r. Pastorková	0	4650
+941	DEDÍK Štefan	manželka Anna rod. Gulanová	0	3629
+941	DEDÍK Štefan	manželka Anna rod. Pastorková	0	3629
+941	DEDÍK Štefan	manželka Eva r. Martišová	0	3153,3629,4650
+941	DEDÍK Štefan	manželka Mária Dedíková	0	3137,3150
+941	DEDÍK Štefan	manželka Mária r. Kovačovicová	0	3699
+941	DEDÍK Štefan	manželka Mária r. Kozicová	0	4639
+941	DEDÍK Štefan	manželka Mária r. Poláčková	0	3676,3759,3761,3768,4819,4820,4891,4929
+941	DEDÍK Štefan	manželka Mária rod. Poláčková	0	3629
+941	DEDÍK Štefan	ž.Anna Gulanová	0	4661
+941	DEDÍK Štefan	ž.Anna Pastorková	0	4654,4659,4661,4662,4730
+941	DEDÍK Štefan	ž.Eva Martišová	0	4654,4659,4661,4662,4730
+941	DEDÍKOVÁ Anna		0	2804,3527,3629,3698,3699,3864,3865,3866,3867,3959,3964,4073,4077,4126,4141,4147,4440,4635,4650,4654,4659,4661,4662,4728,4730
+941	DEDÍKOVÁ Anna	mal	0	3895,3896,4654,4659,4661,4662,4730
+941	DEDÍKOVÁ Anna	maloletá	0	3527,3629,3698,3699,4650
+941	DEDÍKOVÁ Anna	r.Černá	0	3895,3896
+941	DEDÍKOVÁ Anna	r.Chovancová	0	4661
+941	DEDÍKOVÁ Anna	r.Pastorková	0	3895,3896
+941	DEDÍKOVÁ Anna r. Gulanová		0	4582,4648
+941	Dedíková Anna r. Stachová	manžel Gustav	0	4711
+941	DEDÍKOVÁ Anna r. Zámečníková		0	4728
+941	Dedíková Eva	slobodná	0	3629,4661
+941	DEDÍKOVÁ Eva		0	3137,3150,3527,3629,4511,4536,4620,4631,4639,4650,4654,4659,4661,4662,4716,4722,4728,4730
+941	DEDÍKOVÁ Eva	r.Hargašová, m.Martin	0	4654,4659,4661,4662,4730
+941	DEDÍKOVÁ Eva	r.Podolanová	0	4661
+941	DEDÍKOVÁ Eva r. Hargašová	manžel Martin	0	3629,4650
+941	DEDÍKOVÁ Eva r. Podolanová		0	2411,3629,3845,4203,4229,4446,4528,4584,4709,4773
+941	DEDÍKOVÁ Eva r. Podolanová	Jurajova	0	4639
+941	Dedíková Helena		0	3629,3699,4638,4639,4661
+941	Dedíková Katarína		0	1387,3629,4382,4650,4654,4659,4661,4662,4730
+941	Dedíková Katarína	mal	0	4661
+941	Dedíková Katarína	maloletá	0	3527,3629,3698,3699,4230,4479,4635,4711,4716,4731
+941	DEDÍKOVÁ Katarína	r.Drobná	0	3895,3896,3912,3913
+941	DEDÍKOVÁ Katarína	r.Stachová	0	4661
+941	DEDÍKOVÁ Katarína	slobodná	0	4309
+941	DEDÍKOVÁ Katarína	výmaz maloletosti čd.2166/16	0	4080
+941	DEDÍKOVÁ Katarína r. Pastorková		0	4330
+941	DEDÍKOVÁ Katarína r. Stachová		0	3629,3733,3911,4160,4165,4216,4842,4855,4878
+941	Dedíková Mária		0	3527,3629,3895,3896,4650,4654,4659,4661,4662,4711,4716,4730
+941	Dedíková Mária	r.Miklánková	0	4654,4659,4661,4662,4730
+941	Dedíková Mária	rod.Dedíková	0	1308,4661
+941	Dedíková Mária	rod.Zámečníková	0	4654,4659,4661,4662,4730
+941	DEDÍKOVÁ Mária	mal	0	3895,3896,4654,4659,4661,4662,4730
+941	DEDÍKOVÁ Mária	mal. do r. 1930 po Jozefovi Dedíkovi	0	3153
+941	DEDÍKOVÁ Mária	maloletá	0	3629,3903,4035,4650,4722
+941	DEDÍKOVÁ Mária	maloletá do r.1930, po Márii Dedíkovej	0	3153
+941	DEDÍKOVÁ Mária	maloletý	0	3629
+941	DEDÍKOVÁ Mária	r.Drobná	0	4654,4659,4661,4662,4730
+941	DEDÍKOVÁ Mária	r.Zámečníková	0	4661
+941	DEDÍKOVÁ Mária r. Brezováková	manžel Štefan	0	4035
+941	DEDÍKOVÁ Mária r. Černá		0	3489
+941	Dedíková Mária r. Dedíková		0	1367,3356,3357,3629,3903
+941	DEDÍKOVÁ Mária r. Drobná		0	3629,4650
+941	Dedíková Mária r. Miklánková		0	3487,3488,3489,3629,4650
+941	DEDÍKOVÁ Mária r. Stachová		0	1439,4168,4226,4227,4373,4629,4794
+941	Dedíková Mária r. Turanová		0	2856,3486,3871,4336,4382,4579
+941	Dedíková Mária r. Zámečníková		0	3629,4650
+941	Dedíková Pavlína	maloletá	0	3629,3698,3699,4635,4661
+941	DEDINSKÁ Anna	mal	0	3895,3896
+941	Dernešová Božena	r.Neštáková	0	4654,4659,4661,4662,4730
+941	Dernešová Božena r. Neštáková		0	3629,4650
+941	DOLEŽALOVÁ Mária	r.Krasická	0	3912,3913
+941	DOROTKA Adam		0	3912,3913
+941	DOROTKA Štefan		0	3912,3913
+941	DOROTKA Štefan	mal	0	3912,3913
+941	DOROTKOVÁ Eva	r.Ančicová	0	4654,4659,4661,4662,4730
+941	DOROTKOVÁ Eva r. Ančicová		0	3629,4650
+941	DOROTKOVÁ Katarína		0	3629,4650,4654,4659,4661,4662,4730
+941	DOROTKOVÁ Mária r. Stachová		0	3875,4745,4857,4882
+941	DRIETOMSKÁ Anna	r.Revayová	0	4654,4659,4661,4662,4730
+941	DRIETOMSKÁ Anna r. Revayová		0	3629,4650
+941	DRIETOMSKÁ Eva r. Prasličková		0	3943
+941	DROBNÁ Anna r. Černá		0	4110
+941	DROBNÁ Eva	r.Chovancová	0	4661
+941	DROBNÁ Katarína		0	3895,3896
+941	DROBNÁ Katarína	mal	0	3912,3913
+941	DROBNÁ Mária	mal	0	3912,3913
+941	DROBNÁ Pavlína	r.Prasličková	0	4661
+941	DROBNÝ Adam		0	3912,3913
+941	DROBNÝ Adam	mal	0	3912,3913
+941	DROBNÝ Adam	manželka Katarína r. Kukučová	0	4650
+941	DROBNÝ Adam	manželka Katarína rod. Kukučová	0	3629
+941	DROBNÝ Adam	ž.Katarína Kukučová	0	4654,4659,4661,4662,4730
+941	DROBNÝ Gustav	mal	0	3912,3913
+941	Drobný Juraj	r.Drobný,ž.Eva r.Chovancová,urbár-N 3/2005=VZ 15/06	0	3895,3896
+941	DROBNÝ Martin		0	3912,3913
+941	DROBNÝ Martin	ž.Kata Zámečníková	0	4661
+941	DROBNÝ Martin	ž.Katarína Zámečníková	0	4661
+941	DROBNÝ Štefan		0	3912,3913

@@ -1,0 +1,256 @@
+190	Červenka Anton		1	4778
+190	Červenková Rozália		1	4778
+190	Čup František	brat Martina	1	2273,2274,4315,5277,5625,6112,6904
+190	Čup Martin	brat Františka	1	2273,2274,4315,5625,6112
+190	Čup Michal		1	4315,4889,5203,5481,5566,5846,6098
+190	Čupová Anna r. Butašová	ž.Martina	1	4539,5197,5198,5808,6348,6636
+190	Čupová Júlia	dcéra Jána a Kataríny r.Gašparínovej	1	4315,4385,4889,5625,6904
+190	Čupová Katarína	dcéra Jána a Kataríny r.Gašparínovej	1	4315,4385,4889,5625,6904
+190	Danihelová Alojzia r. Jurdáková		1	4315,5642,6676
+190	Dávidová Mária r. Dobiášová		1	2802,2803,2805,2806
+190	Deščík Ján	ž.Pavlína r.Benková	1	2495,2496,3897,5147,5180
+190	Deščík Jozef	možno brat Márie,Magdalény,Heleny	1	6651
+190	Deščík Jozef	syn Pavla a Alžbety r.Tománkovej	1	5090,5774
+190	Deščík Jozef	ž.Júlia r.Tománková	1	6390
+190	Deščík Jozef	ž.Terézia r.Deščíková D 1095/89,1774/91	1	2502
+190	Deščík Pavol	ž.Júlia r.Tománková	1	6389
+190	Deščík Pavol	ž.Terézia r.Grajzová	1	4315,4925,5022,5596
+190	Deščík Štefan	syn Pavla a Júlie r.Tománkovej D 1256/96	1	5147
+190	Deščíková Júlia r. Matulová	ž.Vavrinca	1	6718
+190	Deščíková Júlia r. Šedivá	ž.Jozefa	1	4315,5177,5408,5553,6135
+190	Deščíková Mária r. Butašová	ž.Mikuláša D 1072/72	1	3274,3769,3770,4237,4238,5878,6189,7634,7635,7983
+190	Deščíková Mária r. Jankovičová	ž.Jozefa	1	3693,3695,4712,6409,7829
+190	Deščíková Terézia r. Grajzová		1	4601,5020,5876
+190	Diamant Leopold		1	4315,5550
+190	Diamant Maximilián		1	4315,5550
+190	Diamantová Johana r. Hoffmannová	ž.Maximiliána	1	4315,5550
+190	Dinka Ján	slob.syn Jána	1	5953
+190	Divadsá Júlia r. Grajzová		1	5152
+190	Diviak Jozef		1	4312,4315,4829,5639
+190	Dobiáš Adam	ž.Mária r.Búzková	1	2380,2504,2505,2507,2509,2510,2512,2819,4008,4141,4142,4315
+190	Dobiáš Anton	mal. syn Ondreja	1	6080
+190	Dobiáš František	mal.syn Jána	1	4052
+190	Dobiáš František	ž.Magdaléna r.Poláková	1	6160
+190	Dobiáš Gregor	r.1918 ruší mal.od Jana a Mária r.Šebest	1	2567,5986,6791
+190	Dobiáš Ignác	syn Ignáca a Heleny r.Drinkovej	1	4639,6609
+190	Dobiáš Ignác	ž.Mária r.Malenovská	1	2514
+190	Dobiáš Ignác	ž.Pavlína r.Dobiášová	1	4212,4213,5400
+190	Dobiáš Ignác	ž.Pavlína r.Vajdová D 115/98	1	4833
+190	Dobiáš Jozef	ž.Helena r.Filípková	1	5415
+190	Dobiáš Jozef	ž.Mária r.Obuchová	1	6513,6791
+190	Dobiáš Martin	syn Juraja a Júlie r.Čupovej	1	1863,3911,4315
+190	Dobiáš Martin	ž.Helena r.Jankovičová	1	5338
+190	Dobiáš Matej		1	2383
+190	Dobiáš Matej	ž.Anna r.Poláková	1	4315,4832,5583,7550
+190	Dobiáš Pavol	brat Štefana,Kataríny a Terézie	1	6430,6642
+190	Dobiáš Pavol	syn Jozefa a Mária r.Obuchová	1	5077,6513
+190	Dobiáš Štefan		1	6117
+190	Dobiáš Štefan	brat Jozefíny,Heleny,Kataríny	1	3146,4315,4763,5279,5582,6415,6472,6696,6807,6848,6926,7120
+190	Dobiáš Štefan	ž.Anna r.Benková	1	4315
+190	Dobiáš Štefan	ž.Anna r.Búzková čp.33	1	5163
+190	Dobiáš Štefan	ž.Emília r.Kratinová	1	4393
+190	Dobiáš Tomáš	brat Alojz,Michal,Ignác	1	2448,2618,2708,2709,4143,4151,4158,4159,7693
+190	Dobiáš Tomáš	ž.Anna r.Poláková	1	4212,4213,6609
+190	Dobiášová Albína		1	2380,2504,2505,2507,2509,2510,2512,2819,4008,4141,4142,4315
+190	Dobiášová Alžbeta r. Oravská	ž.Jozefa	1	4891,4982,6507
+190	Dobiášová Alžbeta r. Sekáčová		1	3945,3946,3948,3949,3950,3951,3953,6509
+190	Dobiášová Amália r. Sovová	ž.Pavla	1	2737,4031
+190	Dobiášová Anna	dedí po Márii Kracinovej r.Butašovičovej	1	4706
+190	Dobiášová Anna	mal	1	3843
+190	Dobiášová Anna r. Benková	ž.Štefana D 246/99	1	4315,4450
+190	Dobiášová Helena	dcéra Heleny r.Šajdíkovej	1	3046,3047,3394,4315,5623,6600,6693,6776,6976,7936
+190	Dobiášová Helena r. Jankovičová	ž.Martina	1	375,2151,3125,3460,3461,4315,4356,4548,4850,5338,5567,6306,6335,6346,6839,7740,7849,7850,8012,8013,8014,8015,8016,8017
+190	Dobiášová Júlia	dcéra Karola a Alžbety r.Sekáčovej	1	3464,4315,5429,5627
+190	Dobiášová Júlia r. Lišková	ž.Jána	1	5953,7050
+190	Dobiášová Mária	dcéra Karola a Alžbety r.Sekáčovej	1	3464,4315,5429,5627
+190	Dobiášová Mária r. Butašová	dce.Jozefa a Heleny r.Obuchov	1	5808
+190	Dobiášová Mária r. Obuchová	ž.Jozefa	1	5403
+190	Dobiášová Mária r. Šajdíková		1	2380,2383,2505,2507,2510,2512,2819
+190	Dobiášová Pavlína r. Vajdová	ž.Ignáca D 745/61	1	4833
+190	Dobiášová Terézia	sestra Pavla,Štefana a Kataríny	1	6430,6642
+190	Dobiášová Terézia	slob. dcéra Jána a Márie r.Šebestovej	1	2567,2570,2572,2573,5986,6791
+190	Dobiášová Terézia r. Orgoňová		1	2879,4315,4535,5621,6211,6963
+190	Dobrovodský Jozef	mal	1	2490,2493,2547,2550,3344,3515
+190	Dobrovodský Jozef	mal. syn Jána	1	2489
+190	Dobrovodský Jozef	mal. syn Jozefa	1	2484,2486,2487,2491,3341,3342,3345,4139
+190	Dopjerová Anna r. Vaňková		1	4558
+190	Dostupilová Mária r. Cvečková	ž.Františka	1	4315
+190	Dostupilová Terézia		1	4315,6755,7154
+190	Dragúnová Alžbeta r. Včelková		1	2599,2600,4315,4550,6079,6292,6312,6351,6422,7442,8031
+190	Drápal Jozef	mal	1	2490,2493,2547,2550,3344,3515,6786
+190	Drápal Jozef	syn Floriána a Kataríny r.Gočálovej	1	4787
+190	Drápal Matej	ž.Júlia r.Samková	1	4932
+190	Drápalová Anna r. Hicklová	ž.Jozefa	1	2747
+190	Drápalová Anna r. Hiklová	ž.Jozefa	1	6923,6924,7255
+190	Drexlerová Júlia r. Gočálová		1	4315
+190	Drinka Alojz	syn Jakuba	1	5992
+190	Drinka Anton	ž.Apolónia r.Butašová	1	5953
+190	Drinka Anton	ž.Júlia r.Trupová	1	5257
+190	Drinka František	mal. syn Márie r.Bilkovej	1	4315,4795,7034
+190	Drinka František	syn Vavrinca	1	4814,5175,7105
+190	Drinka František	ž.Angela r.Halásová	1	3102,5257,6908
+190	Drinka Ignác	ž.Anna r.Borovičková	1	4315,7148
+190	Drinka Imrich	brat Jána,Kataríny,Márie	1	2786,4118,4264,4265,4315,5604,6408,6757,6925,6953,7022,7023,7065,7248,7779
+190	Drinka Imrich	mal. syn Jána	1	4003,4005,4264,4265,5604,6953,7065
+190	Drinka Ján	brat Mateja,Heleny,Márie,Júlie,Joz.Anny	1	2560,2561,3016,4081,4315,4776,5676,6869,7937
+190	Drinka Ján	brat Pavla D 1363/93	1	5178,6426
+190	Drinka Ján	mal. D 844/78, D 1951/88	1	2448,4477,5071,5340,5836,6047,6225,6607,6947,6978,6988,6989,7693
+190	Drinka Ján	mal. syn Mateja a Márie r.Mikéskovej	1	3352,6412
+190	Drinka Ján	mal. syn Matúša brat Pavla	1	4315,6991
+190	Drinka Ján	syn Juraja a Heleny r.Bilkovej	1	6460,6734,6889
+190	Drinka Ján	syn Márie r.Bilkovej	1	4315,4795,7034
+190	Drinka Ján	syn Martina a Anny r.Bilkovej	1	4315
+190	Drinka Ján	syn Šimona a Júlie r.Vlkovej	1	7138
+190	Drinka Ján	syn Tomáša a Anny r.Gočálovej	1	6778
+190	Drinka Ján	syn Vendelína a Júlie r.Sojákovej	1	3704,4057,4063,4315
+190	Drinka Ján	ž.Anna	1	7035
+190	Drinka Ján	ž.Anna r.Bilková	1	4315,4799
+190	Drinka Ján	ž.Anna r.Májková	1	4315,4719,5131,6122,6769
+190	Drinka Ján	ž.Júlia r.Cintulová	1	5953
+190	Drinka Ján	ž.Terézia r.Andelová	1	6144
+190	Drinka Ján	ž.Terézia r.Cintulová	1	6869
+190	Drinka Jozef	brat Mateja,Heleny,Júlie,Márie,Anny,Jána	1	2560,2561,3016,4081,4315,4776,5676,6869,7937
+190	Drinka Jozef	brat Vavrinca syn Matúša Márie r.Baďurov	1	4315,4814,5175,7105
+190	Drinka Jozef	D 249/88	1	2448,4477,5071,5340,5836,6047,6225,6607,6978,6988,6989,7693
+190	Drinka Jozef	slob.D 1920/74	1	3102,3949,5114,5276,7151
+190	Drinka Jozef	slobodný	1	4564,4565,7328
+190	Drinka Jozef	syn Jozefa	1	6928
+190	Drinka Jozef	syn Juraja a Heleny r.Bilkovej	1	6460,6734,6889,7005
+190	Drinka Jozef	syn Márie r.Bilkovej	1	4315,4795,7034
+190	Drinka Jozef	ž.Helena r.Malenovská	1	5257,6908
+190	Drinka Jozef	ž.Hermína r.Kusalíková	1	7010
+190	Drinka Jozef	ž.Júlia r.Sovová	1	5953
+190	Drinka Jozef	ž.Mária r.Borovičková	1	5131,6122
+190	Drinka Jozef	ž.Mária r.Dufková	1	5017,5184,5257,7966
+190	Drinka Jozef	ž.Mária r.Gočálová	1	4315
+190	Drinka Jozef r. Drinka	syn Juraja a Heleny r.Bilkovej	1	2673
+190	Drinka Martin	ž.Anna r.Bilková	1	4315
+190	Drinka Matej		1	6122
+190	Drinka Matej	Amerika	1	5131
+190	Drinka Matej	syn Jána a Terézie r.Cintulovej	1	2560,2561,3016,4081,4315,4776,5676,6869,7937
+190	Drinka Matej	syn Martina a Anny r.Bilkovej	1	4315
+190	Drinka Matej	ž.Alžbeta r.Petricová	1	5953
+190	Drinka Michal	od Jána a Heleny r.Bilkovej D 1664/85	1	4315
+190	Drinka Michal	ž.Jozefína r.Borovičková	1	5043,6428
+190	Drinka Pavol	brat Jána	1	5178,6426
+190	Drinka Pavol	brat Jozefíny Drinkovej	1	4315,6887,6888
+190	Drinka Pavol	mal. syn Matúša brat Jána	1	4315,6991
+190	Drinka Pavol	syn Jána	1	6663
+190	Drinka Pavol	syn Martina a Anny r.Bilkovej	1	4315
+190	Drinka Pavol	syn Vendelína a Júlie r.Sojákovej	1	3704,4057,4063,4315
+190	Drinka Pavol	ž.Anna r.Kubincová	1	5257
+190	Drinka Pavol	ž.Mária r.Bilková	1	7034
+190	Drinka Pavol	ž.Mária r.Bobková	1	5257
+190	Drinka Rudolf		1	3333,4017,4471
+190	Drinka Rudolf	brat Rozálie Baňovičovej, Jána a Štefana	1	3859,4315,5899
+190	Drinka Šimon	brat Anny,Heleny a Márie	1	4315,6991
+190	Drinka Šimon	syn Šimona a Júlie r.Vlkovej	1	7138
+190	Drinka Štefan	brat Jozefa	1	4564,4565,7328
+190	Drinka Štefan	syn Márie r.Bilkovej	1	4315,4795,7034
+190	Drinka Štefan	ž.Júlia r.Včelková	1	5257
+190	Drinka Tomáš	ž.Terézia r.Klámiková	1	4973,7148
+190	Drinka Vavrinec	brat Jozefa	1	4315
+190	Drinka Vavrinec	syn Šimona a Júlie r.Vlkovej	1	7138
+190	Drinková Agneša r. Drinková		1	3102,3949,4870,5114,5276,5898,7151,7965
+190	Drinková Alžbeta r. Bilková	ž.Pavla D 554/92	1	4315,4662,5007,5067,5133,6343,6648,7046,7099,7947,7948
+190	Drinková Alžbeta r. Černá	ž.Jozefa	1	4315,5123
+190	Drinková Anna	dcéra Mateja a Márie r.Mikéskovej	1	3352,6412
+190	Drinková Anna	sestra Heleny,Šimona a Márie	1	4315,6991
+190	Drinková Anna	slobodná dcéra Jána	1	6663,7110
+190	Drinková Anna	ž.Jána	1	7035
+190	Drinková Anna r. Bilková		1	4967,6420
+190	Drinková Anna r. Bilková	ž.Jána	1	4315,4799
+190	Drinková Anna r. Drinková		1	3704,4057,4063,4315,7072
+190	Drinková Anna r. Kubincová	ž.Pavla	1	4315
+190	Drinková Barbora r. Fialová		1	7138
+190	Drinková Eva r. Černá	ž.Jána	1	3333,3334,4017,4471
+190	Drinková Helena		1	6122
+190	Drinková Helena	dcéra Jána a Terézie r.Cintulovej	1	2560,2561,3016,4081,4315,4776,5676,6869,7937
+190	Drinková Helena	sestra Anny,Šimona a Márie	1	4315,6991
+190	Drinková Hermína r. Kusalíková		1	3867,4315,5264,5778,6137,6628,7010
+190	Drinková Jozefína	dcéra Mateja a Márie r.Mikéskovej	1	3352,6412
+190	Drinková Jozefína	sestra Heleny Hasákovej	1	3399,3402,3430,4315
+190	Drinková Jozefína r. Drinková		1	4315,6887,6888
+190	Drinková Jozefína r. Totková	ž.Alojza	1	3435
+190	Drinková Júlia		1	6122
+190	Drinková Júlia	dcéra Jána a Terézie r.Cintulovej	1	2560,2561,3016,4081,4315,4776,5676,6869,7937
+190	Drinková Júlia	dcéra Šimona a Júlie r.Vlkovej	1	7138
+190	Drinková Júlia	slob.dcéra Matúša	1	5953
+190	Drinková Júlia r. Dobiášová		1	4122,4315
+190	Drinková Júlia r. Fojtlínová	ž.Jána	1	5953
+190	Drinková Júlia r. Včelková	ž.Štefana	1	4315,5257
+190	Drinková Júlia r. Vlková	ž.Šimona	1	4315,7138
+190	Drinková Karolína		1	3333,4017,4471
+190	Drinková Magdaléna	dcéra Šimona a Júlie r.Vlkovej	1	7138
+190	Drinková Magdaléna r. Hodáňová	ž.Augustína	1	2461,2808,3146,3165,3166,3668,3669,4315,4928,5240,5531,6316,6424,6425,6587,6679,6680,6849,7131
+190	Drinková Mária	dcéra Jána a Terézie r.Cintulovej	1	2560,2561,3016,4081,4315,4776,5676,6869,7937
+190	Drinková Mária	dcéra Mateja a Márie r.Mikéskovej	1	3352,6412
+190	Drinková Mária	dcéra Štefana a Anny r.Tománkovej	1	3102,3949,4347,4870,5114,5276,5898,7151,7965
+190	Drinková Mária	Filípková ž.Jána	1	3632
+190	Drinková Mária	mal.dcéra Mikuláša a Júlie r.Dobiášovej	1	4489,5679
+190	Drinková Mária	sestra Anny,Heleny a Šimona	1	4315,6991
+190	Drinková Mária	slobodná dcéra Antona	1	6176
+190	Drinková Mária r. Cigánková	ž.Pavla	1	2330
+190	Drinková Mária r. Drinková	ž.Jána	1	2330
+190	Drinková Mária r. Duffková	ž.Jozefa D 1920/94	1	4141,4142,5184
+190	Drinková Mária r. Filípková	ž.Jána	1	3234,3247,4315
+190	Drinková Mária r. Gočálová		1	6863
+190	Drinková Mária r. Gočálová	ž.Jozefa	1	4315,7147
+190	Drinková Mária r. Gočálová	ž.Michala	1	6925
+190	Drinková Mária r. Májková	ž.Jána	1	4315,4719,6769
+190	Drinková Mária r. Škápiková		1	3225,3228,4315,4569,6778
+190	Drinková Mária r. Vaňková	D 639/65	1	4315
+190	Drinková Pavlína	dcéra Mateja a Márie r.Mikéskovej	1	3352,6412
+190	Drinková Rozália	dcéra Jána ses Terézie Sumor,Jána a Anny	1	6663
+190	Drinková Terézia	mal.dcéra Mikuláša a Júlie r.Dobiášovej	1	4489,5679,6414
+190	Drinková Terézia r. Cintulová		1	5071
+190	Drinková Terézia r. Filípková	ž.Jána	1	4315,6813,6936,7111
+190	Drinková Terézia r. Šedivá	dcéra Jozefa a Kataríny r.Cintul	1	2233,4315
+190	Drusánek Anton	syn Jozefa a Terézie r.Vaňkovej	1	4111,4315,4500,5789,6867
+190	Dubová Jozefína		1	2484,2489,2780,3885,4250,4251
+190	Duda Jozef	ž.Terézia r.Bakanová	1	4315,5953
+190	Dudová Mária	slob.dcéra Jána	1	5953
+190	Dudová Terézia r. Bakanová		1	6696
+190	Dufek Anton	ž.Eva r.Jankovičová	1	5119
+190	Dúfek Michal	slob.syn Pavla	1	5903
+190	Dufková Eva r. Jankovičová		1	2599,2600
+190	Dufková Terézia r. Dobiášová		1	4315
+190	Dulanská Alžbeta r. Horváthová	ž.Štefana	1	2200,2202,5908,5915
+190	Durajová Jarmila r. Kubicová	prv vydatá Vaňková	1	2274,3146,4763,4771,5542,6696
+190	Dusíková Júlia r. Kubincová	ž.Antona	1	2484,2486,2487,2489,2490,2550,3344,3345,3515,4139
+190	Dvorská Ernestína	mal.brat Štefan	1	6322
+190	Dvorská Júlia r. Nesnadná	ž.Jozefa	1	3607,3611
+190	Dvorský Štefan	mal.sestra Ernestína	1	6322
+190	Erdészová Hedvika r. Grünhutová	ž.Juraja	1	4315,5618,6741
+190	Fabián Ján	ž.Helena r.Cechánková	1	4315,5401,5543,5817
+190	Fila František	brat Jozefa	1	4969,6720
+190	Fila František	brat Márie,Terézie a Jozefa	1	2903,4315
+190	Fila František	syn Jozefa	1	2232,4315,5069,5398
+190	Fila Gabriel	ž.Júlia r.Šedivá	1	2670,4511,4821,5516,5999
+190	Fila Ján	syn Jána a Terézie r.Nesnadnej	1	3805,4816,6022
+190	Fila Jozef		1	6273,6282
+190	Fila Jozef	brat Františka	1	2903,4969,6344
+190	Fila Jozef	čd.3755/37, čd.2694/43	1	2608,2609
+190	Fila Jozef	kúpa čd.3912/29	1	7157
+190	Fila Jozef	ž.Helena	1	2607,6458
+190	Fila Jozef	ž.Helena r.Frígelová	1	2232,2464,4315,5398
+190	Fila Jozef	ž.Mária r.Šedivá	1	4315,4578,5164,5319,5382,5444,5507,5556,6632
+190	Fila Ondrej	prvotný zápis	1	5909
+190	Fila Ondrej	ž.Anna r.Matulová	1	5772
+190	Fila Pavol	B.Mikuláš 148	1	4315,5492,5494,5556,6239
+190	Fila Pavol	syn Jána a Terézie r.Nesnadnej	1	3805,4816,6022
+190	Fila Štefan	kúpa Grajzu Štefana ml	1	4731,6458,6501
+190	Fila Štefan	syn Františka	1	2609,4438
+190	Fila Štefan	syn Jozefa	1	4988,6129
+190	Fila Štefan	ž.Štefánia r.Šedivá	1	2607
+190	Filip Ján	ž.Sabína r.Valachovičová	1	3648,4149,4150,4231,4232,4315,5137,5488,7304,7825
+190	Filípek Anton	ž.Mária r.Hrabalková	1	6689,6691
+190	Filípek Ignác	ž.Alžbeta r.Sovová	1	3692,5176,8049
+190	Filipek Imrich	od Kataríny Vajdovej r.Filipkovej	1	2623
+190	Filípek Imrich	ž.Júlia r.Macháčková	1	2621,2623,4137,4138
+190	Filípek Ján		1	5001,5574
+190	Filípek Ján	mal.syn Jozefa a Heleny r.Sekáčovej	1	5564
+190	Filípek Ján	od Kataríny Vajdovej r.Filipkovej	1	2623
+190	Filípek Ján	slob. syn Júlie r.Trupovej	1	2189,5061
+190	Filípek Ján	slobodný	1	2103,2203,2458,4315
+190	Filípek Ján	syn Matúša a Kataríny r.Holáskovej	1	4315,5023,5282,5781,6338

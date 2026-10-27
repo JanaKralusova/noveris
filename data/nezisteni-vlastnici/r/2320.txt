@@ -1,0 +1,256 @@
+1345	Smačko Ján		0	1972
+1345	Smačko Juraj		0	1972
+1345	Sokol Peter	M.E.Lúčanová	0	950,1854,1855
+1345	Stanovská Mária	rod.Pethoová	0	950
+1345	Staroň Juraj		0	1906,1907,1908
+1345	Staroň Ondrej		0	1906,1907,1908
+1345	Staronová Zuzana	Rod.Mrázová	0	1967
+1345	Šebo Adam	M.Z.Feketíková	0	1673
+1345	Šebová Zuzana	rod.Feketíková-M.Adam	0	1673,1676
+1345	Šimko Ondrej		0	1906,1907,1908
+1345	Šimovčiak Ján		0	1702
+1345	Škvarček Adam	zom.28.10.1978	0	797
+1345	Škvarček Ľudovít		0	386,808,821,822,828,950,985,1005,1006,1426,1427,1457,1842,1849,1850,1851,1852,1853,1854,1855,1868,1869
+1345	Škvarček Ľudovít	Adamov syn	0	386,808,821,822,828,950,985,1004,1005,1006,1259,1426,1427,1457,1842,1843,1849,1850,1851,1852,1853,1854,1855,1868,1869
+1345	Škvarček Ľudovít r. Škvarček		0	1843
+1345	Škvarček Ondrej		0	386,808,821,822,828,950,985,1005,1006,1426,1427,1457,1842,1843,1849,1850,1851,1852,1853,1854,1855,1868,1869
+1345	Škvarček Ondrej	M.Ž.Jašková	0	386,808,821,822,828,950,985,1004,1005,1006,1259,1427,1457,1842,1843,1849,1850,1851,1852,1853,1854,1855,1868,1869
+1345	Škvarček Ondrej r. Škvarček	M.Ž. Jašková	0	1426
+1345	Švec Adam	Chreňo	0	825,1063,1191,1208,1210,1537,1624,1625
+1345	Švec Adam	M.Z.Vyšňanová-Zeleň,nar.5.1.1906,zom.6.9.1978	0	1518
+1345	Švec František		0	1409,1802
+1345	Švec Ján	Kriel	0	822
+1345	Švec Juraj	Petek	0	1650
+1345	Švec Ľudovít	zom.31.1.1973	0	1906,1908
+1345	Švec Ondrej	Petek	0	1701,2123
+1345	Švec Róbert	M.M.Lejšá	0	1906,1908
+1345	Švec Štefan	Petek	0	1700,1839,2122
+1345	Švecová Mária	rod.Pavlovičová-Mal	0	1785
+1345	Švecová Zuzana	rod.Vyšňanová-M.Adam	0	1232,1233,1518
+1345	Švecová Zuzana	zom.30.4.1999	0	763
+1345	Švecová Zuzana r. Vyšňanová	M.Adam	0	1134,2243,2244
+1345	Švecová Žofia	rod.Hrnčiarová	0	1488,1573
+1345	Tomčík Juraj		0	1675
+1345	Tomčík Juraj	M.A.Urbanová	0	950,1675,1854,1855
+1345	Tomčíková Anna	Rod.Urbanová	0	1970
+1345	Tomčíková Anna	rod.Urbanová-M.Juraj	0	1675,1854,1855
+1345	Tomčíková Anna r. Urbanová	M.Juraj	0	950
+1345	Tomo Ondrej	Z Krmeša	0	1660
+1345	Turčiak Adam	M.M.Žigová	0	1713,2157
+1345	Turčiak Matej		0	1781
+1345	Turčiak Ondrej	M.M.Habarková	0	797
+1345	Tuturová Žofia r. Kubíková	zomrel 30.4.1992	0	1841
+1345	Uhlová Pavla	rod.Urbanová 03214 Ľubela č.184	0	1445,1446,2146
+1345	Urbam Milan	03214 Ľubela č.85	0	1445,1446,2146
+1345	Urban Adam		0	797
+1345	Urban Adam	Oliš,zom.15.9.1962	0	1972,1976
+1345	Urban Ján		0	797,808,821,822,828,950,985,1005,1426,1427,1842,1843,1849,1850,1851,1852,1853,1854,1855,1868,1869,1970
+1345	Urban Ján	M.J.Nemcová	0	822
+1345	Urban Ján	M.Z.Mišovičová	0	1667
+1345	Urban Juraj		0	1970
+1345	Urban Juraj	Goliáš	0	1908
+1345	Urban Juraj	Mal	0	1966
+1345	Urban Ondrej		0	1970
+1345	Urban Ondrej, SR		0	1962
+1345	Urban Richard	Ľubela č.264	0	1445,1446,2146
+1345	Urbanová Mária	Rod.Mrázová	0	1967
+1345	Urbanová Zuzana	rod.Mišovičová	0	1661,1668
+1345	Urbanová Zuzana	rod.Mišovičová-M.Ján	0	1667
+1345	Urbanová Zuzana r. Palinajová	zom.13.9.1987	0	797
+1345	Urbanová Želmíra	Mal	0	1254
+1345	Urbanová Žofia	rod.Kubíková-Lejbišová	0	1426,1427,1777,1842,1843,1849,1850,1851,1852,1853,1854,1855,1868,1869
+1345	Urbanová Žofia	Rod.Oravcová	0	1966
+1345	Urbanová Žofia r. Kubíková	Lejbišová	0	808,821,822,828,950,985,1005,1035
+1345	Urbanovič Juraj	M.M.Bezníková-Vyšný	0	1842,1843
+1345	Urbanovič Juraj	Straka ml	0	1906,1907,1908
+1345	Urbanovič Peter	Straka	0	1906,1907,1908
+1345	Veselovská Anna r. Bagová	M.Pavel	0	950
+1345	Veselovský Pavel	M.A.Bagová	0	950
+1345	Vrbenská Eva	Mal	0	785,808,821,822,828,950,985,1005,1426,1427,1458,1472,1570,1683,1691,1692,1695,1717,1722,1842,1843,1849,1850,1851,1852,1853,1854,1855,1868,1869,2277,2283
+1345	Vrbenská Kristína	Mal	0	785,808,821,822,828,950,985,1005,1426,1427,1458,1472,1570,1683,1691,1692,1695,1717,1722,1842,1843,1849,1850,1851,1852,1853,1854,1855,1868,1869,2277,2283
+1345	Vrbenská Marcela		0	1722,2277
+1345	Vrbenská Marcela	Mal	0	785,808,821,822,828,950,985,1005,1426,1427,1458,1472,1570,1683,1691,1692,1695,1717,1842,1843,1849,1850,1851,1852,1853,1854,1855,1868,1869,2283
+1345	Vrbenská Mária	rod.Bubniaková	0	808,821,822,828,950,985,1005,1212,1213,1426,1427,1503,1842,1843,1849,1850,1851,1852,1853,1854,1855,1868,1869,2082,2187
+1345	Vrbenská Mária	rod.Turčiaková-Vdova	0	1426,1427,1842,1843,1849,1850,1851,1852,1853,1854,1855,1868,1869
+1345	Vrbenská Mária r. Turčiaková	Vdova	0	808,821,822,828,950,985,1005
+1345	Vrbenská Žofia	Urbanová-M.Adam	0	1678,1683
+1345	Vrbenský Adam	Brna	0	822
+1345	Vrbenský Adam	M.Ž.Urbanová	0	1683
+1345	Vrbenský Ján		0	808,821,822,828,950,985,1005,1426,1427,1842,1843,1849,1850,1851,1852,1853,1854,1855,1868,1869,1895
+1345	Vrbenský Ján	M.E.Pustajová-Bukso	0	1657
+1345	Vrbenský Ján	Ridan	0	1720
+1345	Vrbenský Juraj	zom.15.2.1978, M.Jú.Bubniaková	0	797
+1345	Vrbenský Ladislav		0	785,808,821,822,828,950,985,1005,1426,1427,1458,1472,1570,1683,1691,1692,1695,1717,1722,1842,1843,1849,1850,1851,1852,1853,1854,1855,1868,1869,2277,2283
+1345	Vrbenský Ladislav	Mal	0	822
+1345	Vrbenský Vladimír		0	1721,2221
+1345	Vyšňan Ondrej	Adamov syn	0	763,1391
+1345	Vyšňanová Anna	Mal	0	1783
+1345	Vyšňanová Eva	rod.Bubniaková	0	1392
+1345	Vyšňanová Rozália	r.Vrbenská	0	1284,1613
+1345	Záborská Mária	rod.Kubíková	0	994,1884
+1345	Závacký Ján	nar.1.11.1902,zom.10.10.1978	0	1457
+1345	Žužiová Margita	zom.27.1.2002	0	785,821,822,828,950
+1345	Žužiová Margita r. Vrbenská	zom.27.1.2002	0	808,985,1005
+1346	....		0	8762
+1346	Abaháziová Anna r. Illésová, SR		0	1878
+1346	ABAHÁZY Ján		1	2245,2247,7234,7883,7884,9514
+1346	ABAHÁZY Jozef		1	2245,2247,7234,7883,7884,9514
+1346	ÁCS Alexander		1	7407
+1346	ÁCS Ján	ml	1	7407
+1346	ÁCSOVÁ Anna	r.Sováková	1	7407
+1346	ACSOVÁ Jolana		1	8185
+1346	ACSOVÁ Mária	r.Tóthová	1	7407
+1346	ACZEL Izidor		1	8077
+1346	AČOVÁ Žofia	r.Buttkiová	1	8266
+1346	ÁDÁM Štefan		1	7819
+1346	ADÁMOVÁ Juliana		1	7709
+1346	ADLER Ľudovít	ž.Jozefína r.Reisnerová	1	7464
+1346	ADLEROVÁ Magdaléna	r.Garaiová	1	7464
+1346	ANDOVÁ Matilda	r.Ungváryová	1	2285
+1346	Arti Július r. Arti	zomrel dňa 13.04.1984//	1	1102,7633,7709,8271
+1346	ÁRTI Michal	ž.Mária r.Illešová	1	7372
+1346	ARTI Viktor		1	2274
+1346	ARTIOVÁ Mária	r.Világyová	1	8180
+1346	AUGUSTÍNOVÁ Alžbeta	r.Kuková	1	7482
+1346	Babičová Katarína r. Szabová, SR		0	1974
+1346	BACSKAI Andrej	ž.Alžbeta r.Radiová	1	7816
+1346	BACSKAI Ján	mal	1	2597,7887,9491
+1346	BACSKAI Ján	ž.Barbara r.Horváthová	1	8056
+1346	BACSKAI Ján	ž.Barbara r.Mihóková	1	7897
+1346	BACSKAI Ján	ž.Lídia r.Tóthová	1	7988
+1346	BACSKAI Jozef		1	7946
+1346	BACSKAI Michal		1	7837,8112,8117,9442
+1346	BACSKAI Michal	ž.Alžbeta r.Eszényiová	1	8115
+1346	BACSKAI Ondrej		1	2701
+1346	BACSKAI Štefan		1	7837,7877,7898,7946,7995,8000,8112,9442
+1346	BACSKAI Štefan	ml	1	2701
+1346	BACSKAI Štefan	ž.Juliana r.Illéšová	1	7995
+1346	BACSKAI Vojtech		1	2102,8012
+1346	BACSKAI Vojtech	mal	1	2473
+1346	Bacskaiová Alžbeta	mal	0	9307
+1346	BACSKAIOVÁ Alžbeta	m.Štefan Móric	1	2473
+1346	BACSKAIOVÁ Alžbeta	r.Bacskaiová	1	8089
+1346	BACSKAIOVÁ Alžbeta	r.Dócsová m.Ján	1	7827
+1346	BACSKAIOVÁ Alžbeta	r.Mateová m.Andrej	1	7902,8042
+1346	Bacskaiová Alžbeta r. Bacskaiová, SR		0	8088
+1346	Bacskaiová Alžbeta r. Balasiová		1	2643
+1346	Bacskaiová Alžbeta, SR		0	500
+1346	BACSKAIOVÁ Barbara	r.Kovácsová	1	2695,9542
+1346	BACSKAIOVÁ Barbora		1	8112
+1346	BACSKAIOVÁ Eva	r.Illésová m.Štefan	1	8123
+1346	Bacskaiová Helena r. Varanayová, SR		1	1503,1504,2561
+1346	BACSKAIOVÁ Lenka		1	2473
+1346	BACSKAIOVÁ Lýdia	r.Miklósová m.Štefan	1	8027
+1346	BACSKAIOVÁ Lýdia	r.Tóthová m.Ján	1	7988,7997
+1346	BACSKAIOVÁ Mária		1	7886
+1346	BACSKAY Andrej	ž.Eva r.Kovácsová	1	7901
+1346	BAČINSKÁ Mária	r.Tóthová m.Ladislav	1	7430
+1346	BAČINSKÝ Ladislav	ž.Mária r.Tóthová	1	7430,7431
+1346	BAČKAI Ján		1	7839,7880,7886,7917,7946,7981,7997,8001,8037
+1346	BAČKAIOVÁ Alžbeta	mal	1	2473,2597,7887,9491
+1346	Bačkaiová Helena r. Varanaiová, SR		1	7229
+1346	BACHNAK Ján	ž.Irena r.Szabová	1	8338
+1346	BACHŇÁKOVÁ Irena	r.Szabová /vdova/	1	2293,2305,2423,8279,8338,9224
+1346	BACHNYAK Ján		1	8281
+1346	BAJUSZ Juraj		1	7280
+1346	BAJUSZOVÁ Alžbeta	r.Leczová	1	7319
+1346	BAJUSZOVÁ Alžbeta	r.Nitranszká m.Juraj	1	1158,7280
+1346	BAJUSZOVÁ Oľga	r.Turáková	1	7269
+1346	BALANOVÁ Alžbeta	r.Czincselová m.Ivan	1	7789
+1346	BALÁSZ Bartolomej		1	2287,2303,7600,7789
+1346	BALASZ Gustáv		1	7742,7789,8382
+1346	BALASZOVÁ Eva	r.Kovácsová m.Štefan	1	7810,8095
+1346	BALÁSZOVÁ Mária	r.Nadiová	1	7506,7508
+1346	BALAZS Karol		1	2287
+1346	BALÁZS Karol	ž.Alžbeta r.Vargová	1	2303,7600,7789,8291
+1346	BALÁŽOVÁ Lýdia	r.Dócsová	1	8026
+1346	BALÁŽOVÁ Mária		1	7510
+1346	BÁLINT Štefan		1	2679
+1346	BALLAIOVÁ Eva	r.Kovácsová m.Ján	1	7891
+1346	BALOG Imrich	ž.Ida r.Dácziová	1	8140
+1346	BALOG Ján		1	7289
+1346	BALOGH Bartolomej		1	7323,8328
+1346	BALOGH Ján	ž.Alžbeta r.Tóthová	1	7814
+1346	BALOGH Koloman	Kalný	1	8394
+1346	BALOGH Ľudovít		1	7323
+1346	BALOGHOVÁ Anna		1	7491
+1346	BALOGHOVÁ Gizela	r.Daková m.Andrej	1	7789,8021
+1346	BALOGHOVÁ Helena		1	7323
+1346	BALOGHOVÁ Terézia	r.Hudáková	1	8328
+1346	BALOGOVÁ Alžbeta	r.Bukušová	1	7280
+1346	BALOGOVÁ Anna	mal	1	819,820,7492,7789,9455
+1346	Balogová Anna mal.		1	9408
+1346	Balogová Anna, SR		0	821
+1346	BALOGOVÁ Eva		1	7520
+1346	BALOGOVÁ Helena	r.Ruszová	1	7280
+1346	BALOGOVÁ Ida	r.Dácziová m.Imrich	1	8140
+1346	BALOGOVÁ Magdaléna		1	7492,7789
+1346	BALOGOVÁ Magdaléna	mal	1	819,820,9455
+1346	Balogová Magdaléna mal.		1	9408
+1346	Balogová Magdaléna, SR		0	821
+1346	BALOGOVÁ Terézia		1	7282
+1346	Bányácskiová Gizela r. Géresiová, SR		0	2328
+1346	Bányácskyová Gizela, SR		0	2328
+1346	BÁRDOŠOVÁ Magdaléna	/vdova/ m. bol Gejza	1	7270
+1346	BÁRDOŠOVÁ Magdaléna	r.Ungváryová	1	2883,7340,8020
+1346	BASZTOR Ján	mal	1	7885
+1346	BASZTOROVÁ Mária	mal	1	7885
+1346	BATKA Alžbeta	r.Kešeľová	1	8230
+1346	BATKA Štefan		1	8230
+1346	BATSKAY Michal		1	8049
+1346	BELLÁNYI Štefan	ž.Júlia r.Capková	1	2727,8371
+1346	BELLÁNYIOVÁ Júlia	r.Capková	1	2727,8371
+1346	BELUŠOVÁ Jolana	mal	1	2556,2808,7824
+1346	BEĽUŠOVÁ Priška	mal	1	2556,2808,7824
+1346	BÉNI Ján		1	8164
+1346	BÉNI Ján	st	1	7789,8381
+1346	BÉNI Ján	ž.Anna r.Tóth Csengövá	1	7327
+1346	BENIOVÁ Anna	r.Tóthová	1	7558
+1346	BÉNIOVÁ Anna	r.Tóth Csengövá m.Ján	1	7327,8164
+1346	Beniová Anna r. Tóthová		1	9340
+1346	BENKÖ Eugen		1	8232
+1346	BENKÖ Július		1	8232
+1346	BENKÖVÁ Alžbeta		1	8232
+1346	BENKÖVÁ Matilda		1	8232
+1346	BERCZÍK Ján		1	7747,7789
+1346	BERCZIKOVÁ Ilona		1	8236
+1346	BERCZIKOVÁ Mária	r.Schwarczová m.František	1	7277,8286
+1346	BEREŠ Ladislav		1	998,999
+1346	BERTA Albert		1	7350
+1346	BERTA Albert	mal./Gejza/	1	2230,8311
+1346	BERTA Alexander		1	8323
+1346	BERTA Alexander	Gejza	1	8029
+1346	BERTA Alexander	Leninová 92, Košice	1	2055
+1346	BERTA Alexander	mal	1	7535,7789
+1346	BERTA Andrej		1	1997,7999
+1346	BERTA Andrej	mal	1	7839,7930
+1346	BERTA Andrej	ž.Eva r.Papová	1	7949
+1346	BERTA Barna	mal	1	7637
+1346	Berta Bartolomej		1	2683,8051,8080
+1346	BERTA Benjamín	ž.Júlia r.Šimonová	1	7348
+1346	Berta Edmund		1	1756
+1346	BERTA Edmund	mal	1	2003,7648,7776,8326
+1346	BERTA Edmund	mal. |; mal	1	1756
+1346	BERTA Eugen		1	7350
+1346	BERTA František		1	2000,2001,2002,2004,2005,7651,7789,8080
+1346	BERTA Ján		1	7925,7930,8195
+1346	BERTA Ján	/Eugen/	1	2230,8311
+1346	BERTA Ján	Kiš	1	7933
+1346	BERTA Ján	mal	1	7839
+1346	BERTA Ján	ž.Alžbeta r.Tóthová	1	7991
+1346	BERTA Ján	ž.Barbara r.Mateová	1	7929,8029
+1346	BERTA Ján	ž.Katarína r.Kovácsová	1	8104
+1346	BERTA Ján	ž.Lea r.Szabová	1	2484
+1346	Berta Jozef		1	2683,8051,8080
+1346	BERTA Jozef	Bajus ml	1	7838
+1346	BERTA Jozef	Bajusz	1	7828
+1346	BERTA Karol		1	7735
+1346	BERTA Ladislav	Leninová 18, Bratislava	1	1533,7686,7789,8021,9299
+1346	BERTA Ladislav	mal	1	7789
+1346	BERTA Ladislav	ž.Mária r.Eszényiová	1	7890
+1346	BERTA Ľudovít		1	1056,2004,2055,7204,7205,7535,7613,7647,7748,7777,7789,8305
+1346	BERTA Ľudovít	ž.Gizela r.Kendiová	1	7314
+1346	BERTA Ľudovít	ž.Lýdia r.Kendiová	1	7569
+1346	Berta Michal		1	2683,8051
+1346	BERTA Michal	mal	1	8194
+1346	BERTA Mikuláš		1	1056,1533,2055,7204,7205,7535,7789

@@ -1,0 +1,256 @@
+639	TAKÁČ Bartolomej, SK		0	931
+639	TAKÁČ Eduard, SK		0	931
+639	TAKÁČ Fridrich, SK		0	931
+639	TAKÁČOVÁ Magdaléna, SK		0	931
+639	TAKÁČOVÁ Mária r. Šeböková, SK		0	930,931,960
+639	TAKÁČOVÁ Terézia r. Halásová, SK		0	930,931
+639	TAKÁČOVÁ Viktória r. Takáčová, SK		0	898,899
+639	TÓTH Aladár r. Tóth, SK		0	828
+639	TÓTH Július, SK		0	828
+639	TÓTH Michal, SK		0	828
+639	TÓTHOVÁ Emília r. Ležovičová, SK		0	828
+639	TÓTHOVÁ Jolana, SK		0	828
+639	TÓTHOVÁ Ružena, SK		0	828
+639	TURÁNI Ján, SK		0	844
+639	VARGA Vincent, SK		0	27
+639	VARGOVÁ Anna r. Nagyová, SK		0	947
+639	VARGOVÁ Etela r. Bugárová, SK		0	27
+639	ZALKA Alojz, SK		0	898,899
+639	ZALKA Jozef, SK		0	898
+639	ZALKOVÁ Anna, SK		0	898
+639	ZALKOVÁ Emerencia, SK		0	851
+639	ZALKOVÁ Veronika, SK		0	911,985
+640	Ambrovič Daniel		1	677
+640	Ambrovičová Júlia rod.Majerová		1	677
+640	Ambrovits Ľudovit / SPF/, SR		1	497
+640	Aranyossyová Ida		1	533,744,745
+640	Balázs Michal		1	622
+640	Bartal Alexander r. Bartal, SR		0	552,787
+640	Bartal František		1	532,575,688
+640	Bartal Ignác r. Bartal, SR		0	552,787
+640	Bartal Imrich r. Bartal, SR		0	552,787
+640	Bartal Ján		1	525,674,687
+640	Bartal Ján r. Bartal, SR		0	552,787
+640	Bartal Juraj maloletý		1	525
+640	Bartal Koloman		1	684
+640	Bartal Ladislav maloletý		1	525
+640	Bartal Mikuláš r. Bartal, SR		0	552,787
+640	Bartal Peter		1	622
+640	Bartal Peter r. Bartal, SR		0	552,787
+640	Bartal Štefan		1	622,659,684,692
+640	Bartal Štefan r. Bartal, SR		0	552,787
+640	Bartalová Agneša		1	674,687
+640	Bartalová Agneša, SR		0	552,787
+640	Bartalová Alžbeta		1	575
+640	Bartalová Alžbeta, SR		0	552,787
+640	Bartalová Anna maloletá		1	525
+640	Bartalová Anna, SR		0	552,787
+640	Bartalová Barbora maloletá		1	525
+640	Bartalová Barbora, SR		0	552,787
+640	Bartalová Eleonóra, SR		0	552,787
+640	Bartalová Etela, SR		0	552,787
+640	Bartalová Helena		1	547
+640	Bartalová Helena maloletá		1	525
+640	Bartalová Katarína maloletá		1	525
+640	Bartalová Katarína, SR		0	562
+640	Bartalová Lujza rod.Gulázsiová		1	659,664
+640	Bartalová Margita, SR		0	552,787
+640	Bartalová Mária		1	525,674,684,687
+640	Bartalová Mária, SR		0	552,787
+640	Bartalová Rozália, SR		0	552,787
+640	Bartalová Ružena rod.Miklošová		1	525
+640	Bartalová Terézia, SR		0	552,787
+640	Bódisová Magdaléna rod.Görcsová		1	550,551,553
+640	Boráros Imrich		1	675
+640	Botto Peter		1	622
+640	Bugár Bálint		1	550,551,553
+640	Bugár Frantisek		1	553
+640	Bugárová Anna rod.Görcsová		1	551,553
+640	Bugárová Mária rod.Gulázsiová		1	478,661
+640	Csémy Michal		1	503
+640	Csiba Ľudovít nezletilý		1	651
+640	Csiba Štefan		1	651
+640	Csibová Alžbeta		1	651
+640	Csókaová Mária rod.Bartalová		1	532
+640	Ďurčo Ondrej		1	632,670
+640	Ďurčová Karolína rod.Gergelová		1	632,670
+640	Erdösová Justína rod.Kalmárová		1	525
+640	Erős Imrich		1	648
+640	Fehér Bertalan		1	622
+640	Forgóová Mária, SR		0	552,787
+640	Füleová Júlia maloletá		1	525
+640	Füleová Rozália		1	525
+640	Füleová Terézia rod.Lukácsová		1	668
+640	Gágóová Terézia r. Bartalová, SR		0	552,787
+640	Gányiovicsová Marta rod.Görcsová		1	550,551,553
+640	Gódányová Mária r. Bartalová, SR		0	552,787
+640	Görcs František r. Görcs, SR		0	552,787
+640	Görcs Imrich		1	622
+640	Görcs Ján		1	551,553,622,686
+640	Görcs Peter r. Görcs, SR		0	335
+640	Görcs Rudolf		1	622
+640	Görcs Vincent		1	622,693
+640	Görcs Vincent r. Görcs, SR		0	552,787
+640	Görcsová Julianna r. Bartalová, SR		0	552,787
+640	Görcsová Magdaléna		1	551,553
+640	Görcsová Marta		1	550
+640	Görcz Rezső		1	644
+640	Gulászová Žofia r. Hodosiová, SR		0	683
+640	Györődiová Julianna rod.Bartalová		1	684
+640	Holocsiová Terézia rod.Szemesová		1	626
+640	Horváth Árpád		1	690
+640	Horváth Ján		1	690
+640	Horváth Martin		1	691
+640	Horváthová Mária		1	690
+640	Horváthová Ružena		1	690
+640	Horváthová Terézia rod.Peérová		1	600
+640	Huber Ľudovit		1	521
+640	Karika Juraj		1	648
+640	Kariková Alžbeta rod.Jerigová		1	648
+640	Kásaová Terézia rod.Kariková		1	700
+640	Képesi Štefan		1	641
+640	Képesy Michal		1	641
+640	Képesyová Alžbeta		1	641
+640	Kovács Antal r. Kovács, SR		0	340
+640	Kovács Jozef r. Kovács, SR		0	340
+640	Kovácsová Marcela r. Lukácsová, SR		0	340
+640	Kulcsár Štefan st.		1	516
+640	Kušnier Ján		1	671
+640	Kušnierová Anna rod.Ďuračková		1	671
+640	Lineková Terézia rod.Búriová		1	641
+640	Lukács Elek r. Lukács, SR		0	340
+640	Lukács Vincent		1	652
+640	Lukácsová Agneša, SR		0	340
+640	Lukácsová Apolonia rod.Lukácsová		1	667
+640	Lukácsová Barbora r. Kulcsárová, SR		0	340
+640	Majer Ľudovít maloletý		1	530
+640	Majthényi Zoltán		1	571,572,573
+640	Martinová Marianna r. Bartalová, SR		0	552,787
+640	Matúšová Alžbeta rod.Gulázsiová		1	478,550,661
+640	Matúšová Terézia rod.Görcsová		1	550,551,553
+640	Mészáros Peter		1	527
+640	Mikóczi František		1	648
+640	Mozoli Ján		1	642
+640	Mozoliová Alžbeta rod.Puhová		1	642
+640	Mozoliová Alžbeta rod.Titusová		1	657
+640	Nagy Dionýz		1	660
+640	Nagy Rudolf		1	662
+640	Nagyová Mária		1	678
+640	Némethová Agneša rod.Majthényiová		1	571,572
+640	Obrecz Vincent		1	622,654
+640	Orbán Peter		1	520,521,622
+640	Orbánová Alžbeta		1	520,521
+640	Oroszová Margita rod.Görcsová		1	550,551,553
+640	Palányi Juraj		1	533,744,745
+640	Palányiová Magdaléna		1	533,744,745
+640	Palányiová Zlatica		1	533,744,745
+640	Pálfy Alexander		1	639
+640	Pálfy Alojz		1	543
+640	Pálfy Ignác		1	520,521
+640	Pálfyová Agneša		1	520,521,639
+640	Pálfyová Mária		1	520,521,639
+640	Pódaová Mária rod.Gencsová		1	682
+640	Pongráczová Katarína		1	626
+640	Pőthe Ludovít r. Pőthe, SR		0	502
+640	Puha Ján		1	681
+640	Puha Lavrinc		1	622
+640	Puha Tomáš		1	681
+640	Puhaová Mária		1	681
+640	Puhaová Mária rod.Kulcsárová		1	626
+640	Rákócziová Etela r. Bartalová, SR		0	552,787
+640	Ratzenberová Julianna rod.Csémyová		1	503
+640	Ravasz Jozef, SR		1	680
+640	Ravasz Ladislav		0	680
+640	Sáhaová Barbora rod.Bartalová		1	684
+640	Staffaová Alžbeta		1	624,625,702,703,704
+640	Szabová Alžbeta		1	550,551
+640	Szalayová Terézia r. Aranyossyová		1	744,745
+640	Szalayová Terézia rod.Aranyossyová		1	744,745
+640	Szemesová Agneša rod.Pálffyová		1	626
+640	Šimonová Amália rod.Titusová		1	657
+640	Titus František		1	657
+640	Titus Ján		1	657
+640	Titus Július		1	657
+640	Titus Ľudovít		1	657
+640	Titus Štefan		1	657
+640	Titus Vendelín		1	657
+640	Titus Vincent		1	657
+640	Tölgyessiová Mária rod.Vargová		1	533,744,745
+640	Tomaschek Vendelín		1	521
+640	Tomascheková Anna r. Szabová		0	521
+640	Tomášek Vendelín		1	622
+640	TomáŠeková Mária ROD.Kňažíková		1	626
+640	Valášek Vojtech		1	622
+640	Valašeková Helena rod.Bartalová		1	532,575
+640	Varga Imrich		1	533,744,745
+640	Vargová Irena rod.Borárosová		1	675
+641	Babčan Jozef	Anna	0	1682,1873,1875,1876
+641	Babčan Jozef	Anna,Fačkov 245	0	2890
+641	Babčan Mikuláš	Fačkov 246	0	2890
+641	BABČAN MYŠIAK TOMAŠ, SR		0	806
+641	Babčan Ondrej		0	1682,1875,1876,2890
+641	Babčan Ondrej, SR		0	815,1873,1874
+641	Babčan Pavol	ded. 1926, I, Myšiak	0	1399
+641	Babčan Pavol	Myšiak,Fačkov č.8	0	2929
+641	Babčan Štefan	Myšiak	0	660,1098,1116,1258,1277,1286,1287,1289,1294,1300,1306,1421,1427,1787,2180,2232,2692,2974,3105,3327,3481,3727
+641	Babčan Tomáš	Myšiak	0	660,1098,1116,1258,1266,1279,1286,1287,1289,1294,1300,1302,1306,1421,1427,1593,1787,1880,1881,2180,2232,2692,2974,3103,3105,3107,3108,3112,3113,3114,3202,3203,3204,3205,3327,3541
+641	Babčanová Angelika	ded. 1935, I	0	1628,1923,2148,3804,3805,3820
+641	Babčanová Angelika	ded. 1935, III	0	992,994,998,1009,1917,2336,2340,2344,2346,2348,2367,2481,2489,2490,2512,2602,2617,2623,2629,2635,2674,3228,3243,3778,3779,3780,3781,3786,3796,3806,3811
+641	Babčanová Angelika	rod.Vríčanová Kašubová	0	1901,2843,2844,3012,3266
+641	Babčanová Angelika r. Vríčanová Kašubová	Ded. 1935, I	0	3720
+641	Babčanová Angelika r. Vríčanová Kašubová	Ded. 1935, III	0	3720,3727
+641	Babčanová Anna	rod.Šúpolová,zom.12.6.1979,Fačkov č.245	0	341,2942,3038,3468
+641	Babčanová Anna r. Šúpolová		0	1113,1236,1250,1252,1255,1256,1353,1378,1381,1383,1839,2109,2110,2119,2164,2264,2339,2360,2368,2470,2478,2546,2670,2733,2735,3082,3093,3212,3325,3353,3360,3720,3727
+641	Babčanová Eva r. Myšiaková		0	1441,1444,1736,1782
+641	Babčanová Gizela	Myšiaková	0	660,2974
+641	Babčanová Gizela r. Myšiaková		0	1098,1116,1258,1266,1279,1286,1287,1289,1294,1300,1302,1306,1421,1427,1593,1787,1880,1881,2180,2232,2692,3103,3105,3107,3108,3112,3113,3114,3202,3203,3204,3205,3327,3727
+641	Babčanová Gizela r. Myšiaková, SR		0	806
+641	Babčanová Mária	ded. 1926, I	0	1399
+641	Baďurová Antónia	rod.Úradníková,zom.15.4.2015,V.Leváre	0	569,2788,2919,2931
+641	Bachnárová Františka	rod.Babčanová Myšiaková,m.Matej	0	660,2774,2945,2974,3727
+641	Bachnárová Františka r. Myšiaková		0	1116,2232
+641	Bachnárová Štefánia		0	660,1098,1116,1258,1275,1281,1286,1287,1294,1300,1427,1429,1787,2009,2111,2190,2193,2232,2234,2236,2238,2322,2543,2974,3109,3110,3111,3115,3418,3720,3727
+641	Bajzová Helena	rod.Hundáková,zom.22.12.2005	0	1498,2836,2839,2950
+641	Bakeš Cyril	Ded. 1949, I	0	3686,3710
+641	Bakeš Cyril	ded. 1949, III	0	992,994,998,1009,1917,2336,2340,2344,2346,2348,2367,2481,2489,2490,2512,2602,2617,2623,2629,2635,2674,3228,3243,3686,3710,3778,3779,3780,3781,3786,3796,3806,3811
+641	Bakeš Cyril	súr.Karolína,Alojzia	0	2843,2909,3266
+641	Bakeš František	ded. 1889, I	0	992,994,998,1009,1917,2336,2340,2344,2346,2348,2367,2481,2489,2490,2512,2602,2617,2623,2629,2635,2674,3228,3243,3720,3727,3778,3779,3780,3781,3786,3796,3806,3811
+641	Bakeš František	ded. 1900, IV	0	1628,1923,2148,3720,3804,3805,3820
+641	Bakeš František	Ded. 1934, II	0	3720,3727
+641	Bakeš František	súr.Katarína,Rozália	0	1901,2843,2844,2909,3012,3266
+641	Bakeš Ján	Fačkov č.194	0	2890
+641	Bakeš Ján	zom.2.3.1975, Fačkov č.194	0	2844
+641	Bakeš Jozef	Fačkov č.195	0	2890
+641	Bakeš Jozef, 013 16 Fačkov č.195		0	1682,1873,1875,1876
+641	Bakeš Ondrej	Fačkov č.196	0	2890
+641	Bakeš Ondrej, 013 16 Fačkov č.196		0	1682,1873,1875,1876
+641	Bakeš Urban		0	1682,1875,1876,2890
+641	Bakeš Urban	ml	0	992,994,998,1009,1901,1917,2336,2340,2344,2346,2348,2367,2481,2489,2490,2512,2602,2617,2623,2629,2635,2674,3228,3243,3518,3694,3697,3778,3779,3780,3781,3786,3796,3806,3811
+641	Bakeš Urban, SR		0	815,1873,1874
+641	Bakešová Agáta		0	3481,3727
+641	Bakešová Agáta	súr.Urban,Katarína,Karolína	0	2909
+641	Bakešová Alojzia	súr.Cyril,Karolína	0	2843,2909,3266
+641	Bakešová Karolína	súr.Cyril,Alojzia	0	2843,2909,3266
+641	Bakešová Katarína	ded. 1887, III	0	992,994,998,1009,1917,2336,2340,2344,2346,2348,2367,2481,2489,2490,2512,2602,2617,2623,2629,2635,2674,3228,3243,3481,3727,3778,3779,3780,3781,3786,3796,3806,3811
+641	Bakešová Katarína	ded. 1900, IV	0	1628,1923,2148,3481,3804,3805,3820
+641	Bakešová Katarína	Ded. 1934, I	0	3481,3727
+641	Bakešová Katarína	súr.Rozália,František	0	1901,2843,2844,2909,3012,3266
+641	Bakešová Lucia r. Kašubová	Ded. 1941, III	0	3471,3727
+641	Bakešová Rozália	ded. 1919, I	0	1628,1923,2148,3471,3804,3805,3820
+641	Bakešová Rozália	ded. 1919, IV	0	992,994,998,1009,1917,2336,2340,2344,2346,2348,2367,2481,2489,2490,2512,2602,2617,2623,2629,2635,2674,3228,3243,3677,3727,3778,3779,3780,3781,3786,3796,3806,3811
+641	Bakešová Rozália	Ded. 1934, II	0	3471,3727
+641	Bakešová Rozália	súr.Katarína,František	0	1901,2843,2844,2909,3012,3266
+641	Bakešová Štefánia r. Kašubová		0	3553,3727,3762
+641	Balej Adam	brat Pavel	0	2931
+641	Balej Adam	ded. 1900, I	0	938,952,956,1417,2133,2235,2413,3141,3156
+641	Balej Adam	ded. 1900, II	0	895,901,905,912,1218,1220,1374,1469,2411,2456,2457,2528,2730,3715,3762
+641	Balej Andrej	ded. 1911, I	0	1377,1378,1690,2662
+641	Balej Andrej	ded. 1926, II	0	1399
+641	Balej Emil		0	1399
+641	Balej František		0	888,912,1218,1373,2808,2920,2997,3505,3694,3767
+641	Balej František, SR		0	872
+641	Balej Jozef		0	901,903,907,912,1218,1220,1374,1469,2676,2730,2801,3505,3694
+641	Balej Jozef	Fačkov č.132	0	2890
+641	Balej Jozef, 013 16 Fačkov č.132		0	1682,1873,1875,1876
+641	Balej Juraj		0	938,952,956,1417,2133,2235,2413,3141,3156
+641	Balej Kamil	ded. 1910, IV	0	855,1189,1405,2215,2221,2376,2445,2446,2590

@@ -1,0 +1,256 @@
+3494	Pitoňák Anton, SR		1	14,464,554,613,614,660,663,664,665,669,674
+3494	Pitoňák Ján		0	457,670,671
+3494	Pitoňák Ján, SR		1	14,464,554,613,614,660,663,664,665,669,674
+3494	Pitoňák Jozef		0	457,670,671
+3494	Pitoňák Jozef, SR		1	14,464,554,613,614,660,663,664,665,669,674
+3494	Pitoňák Michal		0	457,670,671
+3494	Pitoňák Michal, SR		1	14,464,554,613,614,660,663,664,665,669,674
+3494	Pitoňák Milan		0	457,670,671
+3494	Pitoňák Milan, SR		1	14,554,613,614,660,663,664,665,669,674
+3494	Pitoňák Štefan		0	457,670,671
+3494	Pitoňák Štefan, SR		1	14,464,554,613,614,660,663,664,665,669,674
+3494	Pitoňáková Anna		0	457,670,671
+3494	Pitoňáková Anna, SR		1	14,554,613,614,660,663,664,665,669,674
+3494	Pitoňáková Jana, SR		1	464
+3494	Regec Pavol		0	553
+3494	Regecová Alžbeta r. Fuksová	manžel Pavol	0	553
+3494	Staňová Mária r. Farkašová		0	527
+3494	Staňová Zuzana r. Pitková	manž.Pavol	0	450
+3494	Straková Mária r. Bačová, SR		1	549
+3494	Szanto Imrich r. Szanto, Dr.		1	490
+3494	Szanto Imrich, Dr., SR		1	552
+3494	Šefčík Juraj, SR		1	540
+3494	Šefčíková Anna r. Meľuchová, SR		1	540
+3494	Šimko Štefan		0	529
+3494	Šoltysová Mária r. Tkáčová		0	370,374,394,402
+3494	Šoltysová Mária r. Tkáčová, SR		1	355,369
+3494	Štefančík Ondrej		0	430,431,569
+3494	Štefančík Ondrej, SR		1	634
+3494	Štefančíková Alžbeta r. Kočišová		0	430,431,569
+3494	Štefančíková Alžbeta r. Kočišová, SR		1	634
+3494	Štofančík Vincent r. Štofančík	zomr. 11.7.2002	1	492
+3494	Štofančíková Alžbeta r. Holováčová	zomr. 22.3.2001	1	492
+3494	Štofková Alžbeta, Francuzko	nar.1925	1	470,480,640,641
+3494	Tkáč Ján		0	527
+3494	Tkáč Ján	manž.Alžbeta Pastiranová	0	450
+3494	Tkáč Pavol		0	450
+3494	Tkáčová Alžbeta r. Pastiranová	manž.Ján	0	450
+3494	Tkáčová Helena		0	394,402
+3494	Tkáčová Katarína		0	370,374,394,402
+3494	Tkáčová Katarína, SR		1	355,369
+3494	Tkáčová Verona		0	394,402
+3494	Valko Ján		0	396,553
+3494	Valko Ján r. Valko		1	404
+3494	Valko Ján, SR		1	421
+3494	Vaľko Matej	ž.Anna r.Iľašová	0	553
+3494	Valková Anna r. Baluchová		0	396,553
+3494	Vaľková Anna r. Iľašová		0	396,553
+3494	Valková Anna r. Ilašová, SR		1	404,415,621
+3494	Valková Anna, SR		1	425
+3494	Vaľková Mária r. Janečková		0	430,431,450,527,569
+3494	Vaľková Mária r. Janečková, SR		1	442,634
+3494	Vilko Ondrej		1	462
+3494	Vilková Katarína r. Staňová		0	527
+3494	Vilková Katarína r. Staňová, SR		1	523
+3494	Wašková Alžbeta r. Wydová, SR		1	546
+3494	Wyda Štefan, SR		1	546
+3494	Wydová Helena, SR		1	546
+3494	Zahradník Ján		0	396,430,431,553,569
+3494	Zahradník Ján	manž.Mária Gomolčáková	0	450
+3494	Záhradník Ján r. Záhradník		1	393
+3494	Záhradník Ján, SR		1	605,634
+3494	Záhradník Martin		0	430,431,450,569
+3494	Záhradník Martin, SR		1	634
+3494	Zahradník Pavol	manž.Anna Jarošová	0	450
+3494	Záhradník Pavol, SR		1	436
+3494	Zahradník Štefan		0	370,374
+3494	Zahradník Štefan r. Zahradník		1	369
+3494	Záhradníková Alžbeta r. Kozliková	manž.Ján	0	396,553
+3494	Záhradníková Alžbeta, SR	manž.Ján	1	393,605
+3494	Záhradníková Mária r. Gomolčáková		0	430,431,450,569
+3494	Záhradníková Mária r. Gomolčáková, SR		1	634
+3494	Zahradníková Mária r. Kleščová	manž.Štefan	0	450
+3494	Záhradníková Mária r. Kleščová		0	40,430,431,450,527,569,591
+3494	Záhradníková Mária r. Kleščová, SR		1	440,449,634,650
+3494	Zubaľ Jozef		0	457,670,671
+3494	Zubaľ Jozef, SR		1	14,461,462,613,614,660,663,664,665,669,674
+3494	Zubaľ Pavol, SR		1	467
+3495	Adler Eugen		1	446
+3495	Agoston Ladislav	ž. Lovásová	0	605
+3495	Agoston Ladislav	ž.Lovásová	1	672,689
+3495	Balog Ondrej		1	600,1977
+3495	Baltovič Ondrej		1	2032,2168,2190,2242
+3495	Baščanová Helena r. Berešová		1	1994
+3495	Beli Jozef	mal	1	522
+3495	Beli Štefan	syn Ján	1	2031
+3495	Beliová Alžbeta	mal	1	245
+3495	Beliová Helena	mal	1	245
+3495	Belušaková Regina		1	2089
+3495	BELUŠČÁK Imrich	ž.Oravcová	1	2089
+3495	Bely Anton		1	522
+3495	Bely Kalman		1	233,234
+3495	Bely Ľudovít		1	179
+3495	Beneš Ján		1	674,675,2068
+3495	BENEŠ Michal	ž.Mária Semanová	1	2079
+3495	Beneš Pavol	mal	1	675
+3495	Benešová Alžbeta r. Šantová		1	195,243
+3495	Benešová Katarína	mal	1	675
+3495	BENEŠOVÁ Mária	r.Alčová	1	2095
+3495	BENEŠOVA Mária r. Porvazová, Jenisejská 6, Košice, SR		0	2079
+3495	Benická Alžbeta r. Balogová		1	208
+3495	Bereš Imrich	mal	1	1994
+3495	Bereš Ján		1	1994
+3495	Bereš Július	mal	1	1994
+3495	Berešová Margita	mal	1	1994
+3495	Bodnárová Mária r. Kohanová		1	508
+3495	Bučko Ján	ž.Vargová	1	609,610
+3495	Buri Ján		1	720
+3495	Buroriová Katarína r. Bajnayová		1	720
+3495	Csájiová Mária r. Kissová		1	655
+3495	Csarni Michal	ž.Zeleňáková	1	1988,2042,2163
+3495	Csarniová Margita r. Zeleňáková		1	1988,2042,2163
+3495	CSONKA Jozef		1	2185,2186,2293,2294
+3495	Čaji Vojtech		1	631
+3495	Čajiová Alžbeta		1	631
+3495	Čajiová Alžbeta r. Tóthová		1	615
+3495	Čajiová Eva		1	631
+3495	Čajiová Irma		1	731
+3495	Čardáš Juraj	ž.Ivanová	1	2015
+3495	Čižmárová Alžbeta r. Belyová		1	230,237
+3495	Čonková Mária r. Semanová		1	679
+3495	Čurilová Mária r. Vargová		1	507
+3495	Deliduk Alexander	ž.Grigerová	1	462
+3495	Deliduková Margita r. Grigerová		1	462
+3495	Fedor Andrej		1	647
+3495	Fedor Imrich		1	647
+3495	Fedorová Barbora r. Semanová		1	647
+3495	Fekete Štefan	ž.Mitrová	1	666
+3495	Fialka Ladislav	mal	1	668
+3495	Forová Ilona r. Šarosiová		1	2042
+3495	GAZDA Jozef	mal	1	2031
+3495	GAZDA Ondrej		1	2031
+3495	Gazdová Alžbeta	mal	1	2031
+3495	GAZDOVÁ Katarína	mal	1	2031
+3495	GAZDOVÁ Mária	mal	1	2031
+3495	Gaži Ján	ž.Demková	1	661
+3495	Gažiová Mária r. Demková		1	661
+3495	Gdovin Ján	ž.Matejová	1	436
+3495	Gdovin Ján	ž.Mičková	1	436
+3495	Gdovinová Anna r. Matejová		1	436
+3495	Gdovinová Anna r. Mičková		1	436
+3495	Gondoľová Mária r. Tóthová		1	442
+3495	Gregová Alžbeta r. Beluščáková		1	2241
+3495	Homonayová Anna r. Agostonová		1	605,672,689
+3495	Horňák Jozef	ž.Šimčíková	1	474
+3495	Horňáková Margita r. Šimčíková		1	474
+3495	HRICKOVÁ Mária	r.Halušková	1	2170
+3495	Ignáth Jozef		1	724
+3495	Ignáth Štefan		1	672,689
+3495	Ignáth Štefan r. Ignáth		1	652
+3495	Ignátová Alžbeta	mal	1	652
+3495	Ivanko Michal	ž.Bačová	1	512
+3495	Ivanková Helena r. Belánová		1	512
+3495	Jakab Pavol	ž.Lešková	1	718
+3495	Jakabová Mária r. Lešková		1	718
+3495	Jambor František	ž.Ceplická	1	460
+3495	Jambor Michal	ž.Zajacová	1	236,240
+3495	Jamborová Katarína r. Ceplická		1	460
+3495	Jamborová Mária r. Zajacová		1	240
+3495	Janitor Jozef		1	665
+3495	Janitor Pavol		1	665
+3495	Janitorová Alžbeta r. Vargová		1	653
+3495	Janke Ondrej	ž.Šamková	1	2122
+3495	Jankeová Agnesa		1	2093
+3495	Juraško Pavel		1	2175
+3495	Jurašková Alžbeta r. Tamášová		1	639
+3495	Jusková Zuzana r. Balogová		1	600,1977
+3495	Kappan Štefan	ž.Beluscáková	1	732
+3495	Kappanová Alžbeta r. Opálková		1	704
+3495	Karabiková Zuzana r. Hovanová		1	473
+3495	Kiss Bartolomej	ž.Kissová	1	655,729
+3495	Kiss Imrich	mal	1	655,729
+3495	KIŠOVÁ Zuzana	r.Anderková	1	729
+3495	KIŠŠOVÁ Mária r. Beliová		1	245
+3495	KLEPÁČOVÁ Barbora r. Halušková		1	2170
+3495	Kmec Ján		1	2144
+3495	Knapová Alžbeta r. Fedorová		1	647
+3495	Knapp Ján		1	668
+3495	Knapp Jozef		1	668
+3495	Kočiš Ján	ž.Bačová	1	511,518
+3495	Kočiš Štefan	ž.Žihalová	1	513
+3495	Kočišová Margita r. Česárová		1	476
+3495	Kočišová Mária r. Žihalová		1	513
+3495	Kohanová Barbora r. Fedorová		1	647
+3495	Koncová Irena r. Tothová		1	620
+3495	Kontúrová Mária r. Juhásová		1	667
+3495	Kováčová Mária r. Beliová		1	193
+3495	Krivdová Helena r. Kušnýrová		1	441
+3495	KRUŠINSKÁ Katarína	r.Benešová	1	2068
+3495	Kupcová Alžbeta r. Žigová		1	658
+3495	Kupec Michal	ž.Žigová	1	658,669
+3495	Lacko Andrej		0	2023
+3495	Lacko Ján	ž.Oravcová	1	1995
+3495	Lacko Ján	ž.Rácová	1	2140
+3495	Lacko Jozef	ž.Belušová	1	506
+3495	Lacko Ladislav	mal	1	2165
+3495	Lacko Ondrej	ž.Semanová	1	685
+3495	Lacko Pavol		1	678
+3495	Lacko Pavol	mal	1	2114
+3495	Lacko Pavol	ž.Rácová	1	2140
+3495	Lacko Tomáš	ž.Rácová Margita	1	2140
+3495	Lacková Alžbeta r. Lacková		1	678
+3495	Lacková Katarína r. Pirošková		1	650,2007,2043,2188
+3495	Lacková Margita r. Švábová		1	452,515
+3495	Lacková Mária	mal	1	1988,2007,2042,2043,2113,2163,2188
+3495	Lacková Mária r. Oravcová		1	1995
+3495	Lacková Rozália r. Belušová		1	506
+3495	Lehotai Andrej	ž.Vaszilová	1	612
+3495	Lehotaiová Alžbeta		1	612
+3495	Lehotaiová Alžbeta, Veľká Ida, č. 485, SR		0	612
+3495	Lehotaiová Klára		1	612
+3495	Lehotaiová Mária		1	612
+3495	Lechnerová Helena r. Tamášová		1	639
+3495	Lellová Mária r. Beliová		1	193
+3495	Leško Andrej		1	628
+3495	Leško Ján		1	628
+3495	Leško Jozef	mal	1	627
+3495	Leško Pavol	mal	1	628
+3495	Leško Peter		1	628
+3495	Leško Štefan		1	628
+3495	Leško Tibor	mal	1	628
+3495	Lešková Barbora		1	628
+3495	Lešková Barbora	mal	1	628
+3495	Lešková Barbora r. Winklerová		1	628
+3495	Lsško Ján		1	627
+3495	Lučaiová Barbora r. Šnírová		1	672,689
+3495	Lukáč Juraj	ž.Kandrová	1	670
+3495	Lukáčová Katarína r. Beliová		1	193
+3495	Mačinga František	ž.Mitrová	1	659
+3495	Madáková Margita r. Bálintová		1	226
+3495	Magyarová Barbora r. Terpová		1	437
+3495	Majláthová Margita r. Mačingová		1	659
+3495	Majláthová Margita r. Opálková		1	704
+3495	Majrová Mária r. Farkašová		1	663
+3495	MARIŠČÁK Ján		1	698
+3495	MARIŠČÁKOVÁ Anna	r.Turcsanyová	1	698
+3495	Martišková Alžbeta r. Farkašová		1	663
+3495	Matová Irena r. Šarošiová		1	2042
+3495	Meszárošová Barbora r. Szahálová		1	611
+3495	Mihová Alžbeta r. Šantová		1	651
+3495	Mihová Barbora r. Šantová, SR		1	651
+3495	Miškolciová Helena r. Szahálová		1	611
+3495	Mitro Ján	ž.Šantová	1	710
+3495	Moroc Ján	ž.Majniová	1	461
+3495	Morocová Helena r. Majniová		1	461
+3495	Nemet Andrej	ž.Kertezová	1	463
+3495	Németh Štefan	ml	1	701
+3495	Nemetová Alžbeta r. Kertezová		1	463
+3495	Opálko Andrej		1	704
+3495	Opálko Ondrej	ž.Lechnerová	1	644
+3495	Opálková Mária r. Csardášová		1	704
+3495	Oravcová Agnesa r. Juhásová		1	2131
+3495	Oravcová Alžbeta r. Nahajová		1	509
+3495	Oravcová Alžbeta r. Potemriová		1	2126
+3495	Oravec Michal	ž.Nahajová	1	509
+3495	OROS Ján		1	2015
+3495	Orosová Margita		1	2241

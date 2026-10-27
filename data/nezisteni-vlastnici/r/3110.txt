@@ -1,0 +1,256 @@
+1815	ŠAFRANKOVÁ Anna	mal	1	295,351
+1815	ŠAFRANKOVÁ Gizela		0	676
+1815	ŠAFRANKOVÁ Gizela	mal	1	295,351
+1815	ŠAFRANKOVÁ Kristína		1	295,351,676
+1815	ŠAFRANKOVÁ Mária		1	304,480
+1815	ŠAFRANKOVÁ Terézia		1	304,607
+1815	ŠKUBLIK Ján		0	472,611
+1815	ŠKUBLÍK Ján, ž.Mária r.Kapová ž.Mária r.Kapová		0	487
+1815	ŠKUBLÍK Michal		0	506
+1815	ŠKUBLÍK Michal	zomrel	1	295,351,352,363
+1815	ŠKUBLÍKOVÁ Mária	mal zomrela	1	278
+1815	ŠKUBLÍKOVÁ Mária, r.Kapová		0	685
+1815	ŠPAK Ján, Ing. Ing.		0	651
+1815	ŠPAKOVÁ Anna		0	425,526
+1815	ŠPAKOVÁ Barbora	r ŠAFRANKOVÁ	1	295,351
+1815	ŠPAKOVÁ Barbora, r.Šafranková		0	452
+1815	TARABČÁKOVÁ Anna	r JURKOVÁ zomrela	1	297
+1815	TARABČÁKOVÁ Anna, r.Jurková		0	594
+1815	TKÁČOVÁ Anna	r LUKÁČOVÁ zomrela	1	295,351
+1815	TKÁČOVÁ Anna r. Lukáčová		0	649
+1815	TUTEKOVÁ Anna		0	601
+1815	TUTEKOVÁ Mária	r JURKOVÁ zomrela	1	295,351
+1815	TUTEKOVÁ Mária, r.Jurková		0	422
+1815	VARGA Ján		0	538
+1815	VARGA Ján	ULIČNÝ zomrel	1	295,351
+1815	VARGOVÁ Anna	r SMOLIGOVÁ m Ján zomrela	1	295,304,351
+1815	VARGOVÁ Anna, r.Smoligová		0	588
+1815	VARGOVÁ Mária	r BRATKOVÁ zomrela	1	295,351
+1815	VARGOVÁ Mária, r.Bratková		0	668
+1815	VENDEĽOVÁ Mária, r.Potomová		0	685
+1815	Verba Andrej	zomrel	1	279
+1815	VERBA Andrej		0	350,536,743
+1815	VERBOVÁ Mária, r.Smoligová		0	527
+1815	ZELINKOVÁ Juliana, r.Šafranková		0	687
+1815	ŽELNICKÁ Juliana	r ŠAFRANKOVÁ	1	295,351
+1815	ŽELNICKÁ Juliana, r.Šafranková		0	467
+1816	Babinčák Andrej	ž. Mária Lešková	1	70
+1816	Babinčák Ján		1	72,98,104,110,211,212,214,612,773,987,1033,1079,1096,1097,1098,1140,1203,1204,1214,1226,1233
+1816	Babinčák Ján	mladší	1	70
+1816	Babinčák Ján	ž. Mária r. Hrabčáková	1	99,104,684,769,770
+1816	Babinčáková Anna r. Tomáš Ferencová		1	773
+1816	Babinčáková Barbora r. Štecová		1	98,110,987,1033,1079,1096,1097,1098,1140,1203,1204,1214,1226,1233
+1816	Bagani Imrich	nezletilý	1	72
+1816	Bajčuková Anna	nezletilá	1	31
+1816	Bajčuková Mária	nezletilá	1	31
+1816	Bajus Ján	žena Mária r.Mazáková	0	1002
+1816	Bajusová Alžbeta r. Sabolová		1	943
+1816	Balint Andrej	ž. Mária r. Lorincová	1	128
+1816	Balint Štefan		1	876
+1816	Baran Andrej	nezletilý	1	50,131,1043
+1816	Baran Juraj	ž.Mária Linurová	0	1033,1079
+1816	Baranová Anna		1	104
+1816	Baranová Anna r. Cmarová		1	880
+1816	Begani Imrich	nezletilý	1	70
+1816	Begani Juraj	ž. Anna Krišová	1	131,207,776,872,932,1043,1051,1088,1193
+1816	Begániová Alžbeta r. Lorincová		1	104,823
+1816	Begániová Emília		1	769,770
+1816	Begániová Helena	nezletilá	1	70,104,110,1140,1203,1204,1214
+1816	Begániová Mária	1	1	110,183,1140,1203,1204,1214
+1816	Beňa Juraj		1	778,780,787
+1816	Beňová Anna r. Baranová		1	778,780,787
+1816	Bilanská Mária r. Čižiková		1	915
+1816	Biroš Ján		1	818,948
+1816	Biroš Jozef		1	110,1140,1203,1204,1214
+1816	Biroš Juraj		1	818,948
+1816	Birošová Mária		1	818,948
+1816	Bučko Ján		1	70,877,1232
+1816	Bučková Anna r. Goliašová		1	70,769,770
+1816	Bulna Juraj		1	174,524,1034
+1816	Bulna Juraj	ž. Alžbeta Mušková	1	174,524,1034
+1816	Bulna-Lipták Andrej		1	174,1034
+1816	Bulnová Alžbeta		1	871,946
+1816	Bulnová Alžbeta r. Bulnová	najmladšia	1	946
+1816	Cmar Michal	ž. Alžbeta Danielová	1	70,72,769,770
+1816	Cmarová Alžbeta r. Danielová	m. Michal	1	70,72
+1816	Cmarová Anna r. Cmarová		1	54,697
+1816	Cmarová Anna r. Mitrová		1	50,54,131,697,877,1043,1232
+1816	Cmur Ján		1	776,932,1051
+1816	Čapová Anna		1	187,534,882
+1816	Česelková Katarína r. Karpiaková		1	894
+1816	Čižik Demeter	ž. Ilona Gbuňaňská	1	915
+1816	Čižik Michal		1	915
+1816	Čop Michal	ž. Mária r. Števková	1	626
+1816	Čopová Mária r. Števková		1	626
+1816	Dávid Ivan	nezletilý	1	895
+1816	Dávidová Juliana	nezletilá	1	895
+1816	Dávidová Mária		1	895
+1816	Demeková Barbora r. Gajdošová		1	778,780,787,935
+1816	Drobná Agnesa r. Sabolová	muž Jozef LSR	0	1006
+1816	Dupej Ján		1	966
+1816	Engel Andrej	maloletý	0	1033,1079
+1816	Engeľ Andrej		0	67,182,553,769,770,869,890,926,933,950,968,1014,1015,1033,1079,1113,1114,1115,1120,1185,1186,1187,1188,1205,1211,1222
+1816	Engel Ján		1	70,104,769,770,887
+1816	Engel Juraj		1	104,110,1140,1203,1204,1214
+1816	Engeľová Alžbeta r. Komárová		1	72
+1816	Engeľová Anna		1	104
+1816	Engeľová Mária r. Zahradníková		1	104
+1816	Fagula Andrej	v Amerike	1	861,1033,1079
+1816	Fagula Ján	u Behuna	1	811,1227
+1816	Fagula Juraj		1	861,1033,1079
+1816	Fagulová Anna r. Dupejová		1	861,1033,1079
+1816	Fagulová Anna r. Sabolová		1	50,131,187,1043
+1816	FAGUĽOVÁ Barbora r. Gajdošová		0	426
+1816	Fedak Michal	nezletilý	1	901
+1816	Fedaková Mária		1	901,906,914
+1816	Gajdoš Imrich		1	778,780,787
+1816	Gajdoš Štefan		1	862
+1816	Gaľa Juraj		1	356,357,778,780,787,1072
+1816	Gaľová Barbora r. Zimermanová		1	356,357,778,780,787,1072
+1816	Gaľová Dorota r. Begáni		1	104,110,883,1140,1203,1204,1214
+1816	Getzler Leopold	ž. Cily Friedmannová	1	32,899,903,918
+1816	Getzlerová Cily r. Friedmannová		1	32,899,903,918
+1816	Goliašová Anna r. Babinčáková		1	877,1232
+1816	Gulik-Guman Andrej	v Amerike	1	776,932,1051
+1816	Gulik-Guman Ján	v Amerike	1	776,932,1051
+1816	Guliková-Guman Mária	nezletilá, v Amerike	1	776,932,1051
+1816	Hominec Mária r. Markuš		1	674
+1816	Homišinová Mária		1	674
+1816	Homišinová Tekla r. Osavčuková		1	119,120,1161
+1816	Hornsteinová Estera r. Neumannová		1	211
+1816	Hudaček Andrej		1	357
+1816	Hudaček Ján		1	778,780,787,839
+1816	Hudaček Juraj		1	778,780,787,839
+1816	Hudaček Michal		1	778,780,787,839
+1816	Hudaček Štefan		1	778,780,787,839
+1816	Chomiaková Anna		1	172
+1816	Chomišin Jurko		1	1236
+1816	Chomišin Vasil		1	930
+1816	Ivanecká Agnesa	maloletá	0	1033,1079
+1816	Ivanecký Štefan	maloletý	0	1033,1079
+1816	Karas-Lorinc Ján		1	110,1140,1203,1204,1214
+1816	Karasová Anna r. Semančíková		1	139
+1816	Katko Michal		0	1008
+1816	Kolesárová Mária r. Rusinská		1	53
+1816	Korupecká Barbora		1	175,1168
+1816	Korupecký Mitro	žena Barbara	1	899
+1816	Korupecký Vasil		1	154
+1816	Korupecký Vasil	ž. Anna Bojčuková	1	173,897,902,918,925,1135
+1816	Košalko Ján		1	806,961
+1816	Košalko Ján	mladší	1	131,776,806,901,932,1043,1051
+1816	Kováč Juraj		1	104
+1816	Krajňáková Peter Alžbeta		1	357
+1816	Kučera František		1	823
+1816	KUTNOHORSKÁ Anna r. Čižiková		1	178,179,180
+1816	Lazor Ján		1	104
+1816	Lazor Michal		1	110,1140,1203,1204,1214
+1816	Lazorová - Straková Anna	muž Ján	1	104,750
+1816	Lazorová Alžbeta r. Bajusová		1	104
+1816	Lešková Anna r. Engelová		1	70,769,770
+1816	Lešková Mária r. Baranová		1	50,104,131,351,748,750,785,990,1033,1043,1079,1208,1212
+1816	Lešková Mária r. Baranová, SR		0	784,1207
+1816	Liptáková Alžbeta r. Gajdošová		1	778,780,787
+1816	Liptáková Anna r. Žulová		1	114,1033,1079,1156,1220
+1816	Lorinc Andrej		1	50,187,788,1008
+1816	Lorinc Andrej	mladší, v Amerike	1	776,788,867,932,1051
+1816	Lorinc Andrej	nezvestný	1	131,776,807,932,1043,1051
+1816	Lorinc Faguľa Ján		1	50
+1816	Lorinc Faguľa Ján	ž. Alžbeta Dupejová	1	131,187,1043
+1816	Lorinc Ján		1	50,98,104,131,881,949,958,987,988,1033,1043,1079,1096,1097,1098,1226,1233
+1816	Lorinc Ján	v Amerike	1	98,867,949,987,988,1033,1079,1096,1097,1098,1226,1233
+1816	Lorinc Juraj		1	50,104,131,776,932,1043,1051
+1816	Lorinc Michal		1	867
+1816	Lorincová Anna		1	867
+1816	Lorincová Anna r. Czmarová		1	57,696,876,1231
+1816	Lorincová Helena r. Hudáková		1	867,1008
+1816	Lorincová Mária r. Bálintová	muž Andrej	1	204,776,932,1051
+1816	Lukáčová Mária r. Birošová		1	69,70,72,104,182,769,770,1120
+1816	Mazák Štefan	ž. Anna Hucková	1	778,780,787
+1816	Mazáková Anna	Hucková	1	778,780,787
+1816	Mendzifová Alžbeta		1	778,780,787
+1816	Nemčíková Anna r. Sabolová		1	778,780,787
+1816	Neuwirth Zigmund, Dr.		1	908
+1816	Olejár Andrej	ž. Alžbeta Šišková	1	778,780,787,856
+1816	Olejárová Daniela		1	946
+1816	Oršuľák Andrej r. Oršuľák	ž.Anna r Sabolčinová LSR	0	1006
+1816	Oršuľáková Anna r. Sabolčinová	muž Andrej LSR	0	1006
+1816	Osavčuk Dimitrij		1	119,120,1161
+1816	Palaščáková Mária r. Príhodová		1	70,72,769,770
+1816	Pancuráková Alžbeta r. Lorincová		1	947
+1816	Pankievič Vladimír		1	907
+1816	Pankievičová Paraska r. Čížiková		1	915
+1816	Pavlík Ján		1	356,357,778,780,787,940,1072
+1816	Pavlík Ján	mladší	1	778,780,787
+1816	Pavlíková Anna r. Krajňáková		1	356,357,778,780,1072
+1816	Petrušák Michal		1	172
+1816	Piller Dezider	z Ličartoviec	1	858
+1816	Piller Gejza	z Pillerpeklan	1	858
+1816	Piller Mikloš		1	48,584,776,874,932,1051
+1816	Potočňáková Anna r. Príhodová		1	789,790
+1816	Príhoda Andrej		1	104,110,789,790,1140,1203,1204,1214
+1816	Príhoda Andrej	nezletilý	1	72
+1816	Príhoda Ján	nezletilý	1	104,110,1140,1203,1204,1214
+1816	Príhoda Michal		1	72,110,1140,1203,1204,1214
+1816	Príhodová Anna r. Bombíková		1	72
+1816	Príhodová Dorota r. Bombárová		1	104,115,117,771
+1816	Príhodová Mária		1	789
+1816	Rolincová Alžbeta		1	674
+1816	Rosenberg Teofil, Dr.		1	854
+1816	Sabol Imrich		1	356,357,778,787,871,939,944,1072
+1816	Sabol Ján		1	72,769,770
+1816	Sabol Ján	ž. Anna Kosečková	1	778,780,787
+1816	Sabol Ján	ž. Anna r. Dupejová	1	70,72
+1816	Sabolová Anna		1	356,357,778,780,787,871,939,944,1072
+1816	Sabolová Anna r. Dupejová		1	104
+1816	Sedláková Anna		1	622
+1816	Sendžo Ján		1	778,780,787
+1816	Schuellerová Anna r. Čižiková		1	915
+1816	Sikora Štefan		1	872
+1816	Sikorová Alžbeta r. Straková		1	351
+1816	Sirotňák Andrej		1	859
+1816	Sirotňák Ján	ž. Mária Cmarová	1	187
+1816	Smetanová Mária	otec Ján	1	778,780,787
+1816	Straka Ján	ž. Anna Mitaľová	1	104,800,829
+1816	Straka Juraj		1	70,104,109,110,241,242,639,1033,1079,1084,1140,1203,1204,1214
+1816	Straková Alžbeta r. Sikorová		1	263
+1816	Straková Anna r. Faguľová		1	263
+1816	Straková Anna r. Kmecová		1	871
+1816	Straková Anna r. Sabolová		1	72,769,770,815
+1816	Straková Barbora		1	776,932,1051
+1816	Straková Mária		1	104
+1816	Stredňáková Anna r. Begániová		1	70,104,110,1140,1203,1204,1214
+1816	Šemčišinová Hana Anna		1	554,674
+1816	Šemčišinová Mária r. Štefková		1	554,674
+1816	Šemčišinová Tekla		1	554,894
+1816	Šemešinová Hana		1	674
+1816	Šemešinová Tekla		1	894
+1816	Šiška Andrej		1	778,780,787,946
+1816	Šiška Ján		1	857,946
+1816	Škripková Mária r. Príhodová		1	104,110,1140,1203,1204,1214
+1816	Šmatová Júlia r. Bajčuková		1	32,899,918
+1816	Šmatová Mária		1	661
+1816	Šoftková Mária r. Straková		1	748,784,785,990,1207,1208,1212
+1816	Štoftková Mária r. Straková		0	1033,1079
+1816	Šutko Andrej		1	104,110,769,770,889,1140,1203,1204,1214
+1816	Vaniščáková Barbora r. Guliková		1	778,780,787
+1816	Vaňo Michal	mladší	1	853
+1816	Vaňo Michal	starší, ž. Mária Čitbajová	1	853
+1816	Zborovský Andrej		1	131,1043
+1816	Železník Michal	ž. Alžbeta Bulnová	1	778,780,787
+1816	Železníková Alžbeta r. Bulnová		1	778,780,787
+1816	Žula - Jánová		1	110,1140,1203,1204,1214
+1816	Žula Ján		1	104,114,639,1033,1079,1156,1220
+1816	Žula Štefan	nezletilý, otec Ondrej	1	778,780
+1816	Žulová Anna		1	114,1033,1079,1156,1220
+1816	Žulová Anna	maloletá	0	1033,1079
+1816	Žulová Anna	nezletilá	1	114,1156,1220
+1817	ČOBIRKA VASIL, SR		1	49,143,146,148,191
+1817	ČOBIRKOVÁ ANNA r. KUREČKOVÁ, SR		1	165,180,184
+1817	GAJDOVA ANNA, SR		1	141,210
+1817	GALAJDA JOZEF, SR		1	49,148,191
+1817	GALAJDA PETER, SR		1	49,148,191
+1817	GALAJDA STEFAN, SR		1	26,49,132,141,143,146,147,148,164,165,170,179,180,182,183,184,191,194,197,198,207,208,210,214,216
+1817	GALAJDA ŠTEFAN		1	183,184
+1817	GALAJDOVA ANNA, SR		1	26,132,141,147,165,170,180,184,210
+1817	GALAJDOVA Helena		1	170
+1817	GALAJDOVA HELENA, SR		1	26,49,132,141,143,146,147,148,164,165,179,180,182,183,184,191,194,197,198,207,208,210,214,216

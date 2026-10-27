@@ -1,0 +1,256 @@
+2860	SZABO Karol	LSR	0	2224
+2860	SZABO Karol	mal	1	2939,2942
+2860	SZABO Karol	ž.Klára rod.Csizmádiová	1	2942
+2860	SZABO Pavol	ž.Vilma rod.Benková	1	1539
+2860	SZABOVÁ Anna	rod.Ložeková m.Jozef	1	2195,2536
+2860	SZABOVÁ Estera	rod.Polgárová m.Daniel	1	2982
+2860	SZABOVÁ Ibola	dcéra Idy Szabovej	1	2947
+2860	SZABOVÁ Irena	rod.Futová	1	12
+2860	SZABOVÁ Juliana	mal	1	2335
+2860	SZABOVÁ Katarína	rod.Bopková	1	1957
+2860	SZABOVÁ Klára	rod.Csizmádiová m.Karol	1	2010,2942
+2860	SZABOVÁ Mária	rod.Fülöpová	1	1570,1571,1572
+2860	SZABOVÁ Terézia	rod.Hanáková m.František	1	2220,2361
+2860	SZABOVÁ Terézia r. Bodorová, SR		1	463
+2860	SZALAI BOPKO Karol		1	2466
+2860	SZALAY Eugen	mal	1	2106
+2860	SZALAY Július	mal	1	2106
+2860	SZALAY Július	ž.Helena rod.Baranyayová	1	2121
+2860	SZALAY Pavol	ž.Mária rod.Siposová	1	2726
+2860	SZALAY Vojtech		1	2069
+2860	SZALAYOVÁ Helena	mal	1	3014
+2860	SZALAYOVÁ Mária	rod.Siposová m.Pavol	1	2726
+2860	SZALAYOVÁ Sidonia	rod.Baranyaová m.Aladár	1	3006
+2860	SZEIFERT ERNEST		1	449
+2860	Szeifertová Etela r. Ignaczova		1	449
+2860	SZÉMAN Ján		1	2218
+2860	SZENDREI Ján		1	2424
+2860	SZENDREIOVÁ Terézia		1	2424
+2860	Szentgyörgyiová Ida r. Csernyanszky		1	2383
+2860	SZERES Dávid		1	2899
+2860	SZERES František		1	2899
+2860	SZITÁS Jozef		1	1316,1895,2343,2681,3268
+2860	SZITÁS Jozef	mal	1	2531
+2860	SZITÁSOVÁ Anna	rod.Kissová m.Laurinec	1	2705
+2860	SZITÁSOVÁ Sidonia		1	2705
+2860	SZITÁSOVÁ Viktoria	rod.Mitlíková m.Ľudovít	1	2409
+2860	SZLANCSEKOVÁ Vilma	rod.Resövá m.Ján	1	3067,3068
+2860	SZÖCS Ladislav	ž.Juliana rod.Kollárová	1	2628
+2860	SZÖCS Štefan		1	2908
+2860	SZÖCS Štefan	mal	1	1651
+2860	SZÖCSOVÁ Etela		1	2692,2693,2875
+2860	SZÖCSOVÁ Helena		1	2628
+2860	SZÖCSOVÁ Helena	mal	1	2628
+2860	SZÖCSOVÁ Karolína	rod.Tothová m.Koloman	1	2904
+2860	SZÖCSOVÁ Mária	rod.Pereczová m.Karol	1	2883
+2860	SZOKODIOVÁ Anna	rod.Patyiová m.Štefan	1	589
+2860	SZORÁD Ján	ž.Karolína rod.Molnárová	1	3005
+2860	SZORÁD Július	mal	1	3016
+2860	SZORÁD Ľudovít	ž.Karolína rod.Csizmádiová	1	2055
+2860	SZORÁD Štefan	ž.Terézia rod.Mandáková	1	208
+2860	SZORÁDI Dezider		1	2277,3007,3011
+2860	SZORÁDI Ján		1	3009
+2860	SZORÁDIOVÁ Kristína		1	2277,3007
+2860	SZORÁDOVÁ Ester	rod.Szorádová m.Vojtech	1	2897
+2860	SZORÁDOVÁ Juliana	rod.Stanová m.Baltazár	1	208
+2860	SZORÁDOVÁ Lídia	rod.Szöcsová	1	2118
+2860	SZORÁDOVÁ Vilma	mal	1	3016
+2860	SZOVICSOVÁ Terézia	rod.Csikosová m.Štefan	1	2622
+2860	SZÜCSOVÁ Barbora	rod.Narancsiková m.Ján	1	1273,2408,2734
+2860	SZUH Eugen		1	2669
+2860	SZUH Valent		1	2669
+2860	SZUH Vojtech		1	2669
+2860	SZUHOVÁ Etel		1	2669
+2860	SZUHOVÁ Helena		1	2669
+2860	SZUHOVÁ Matilda		1	2669
+2860	ŠGORICA Ján	ž.Anna rod.Pavelková	1	3095
+2860	ŠGORICOVÁ Anna	rod.Pavelková m.Ján	1	3095
+2860	ŠIMČÍKOVÁ Marta		1	282
+2860	Škabla Štefan		1	332,909,1474,1475,1476,1477,1708,1797,2107,2108,2109,2110,2175,3264,3265,3266,3269,3291,3292
+2860	ŠKABLA Štefan	LSR	0	1098
+2860	ŠTÁTNY Majetok	Trnovec nad Váhom	0	3090
+2860	Šupena Imrich r. Šupena	Selice 608	1	1223,3301
+2860	TAKÁCS Ľudovít		1	909,1474,1475,1476,1477,1708,3269
+2860	TAKÁCS Ľudovít	ž.Vilma rod.Tothová	1	1098
+2860	TAKÁCS Štefan		1	909,1474,1475,1476,1477,1708,1797,2107,2108,2109,2110,2175,2501,3264,3265,3266,3269,3291,3292,3375
+2860	TAKÁCS Štefan	LSR	0	1098
+2860	TAKÁCS Štefan	ž.Bernadeta	1	909,1708,1797,2175,3264,3291,3292
+2860	TAKÁCS Štefan	ž.Bernadeta; LSR	0	1098
+2860	TAKÁCS Žigmund	ž.Sidonia rod.Fülöpová; LSR	0	1098
+2860	TAKÁCSOVÁ Gizela	rod.Baranyaiová	1	2106
+2860	TAKÁCSOVÁ Jolana	rod.Bírová zomr.3.3.1969	1	1342
+2860	TAKÁCSOVÁ Jolana	rod.Resövá m.Ignác	1	2676
+2860	TAKÁCSOVÁ Justína	rod.Tothová m.Mikuláš	1	1187
+2860	TAKÁCSOVÁ Karolína	rod.Fülöpová m.Jozef	1	1930,2351,2582,3082
+2860	TAKÁCSOVÁ Terézia		1	1475,1476,1477,2107,2108,3266,3269
+2860	TAMASKOVICS Jozef		1	2722
+2860	TAMASKOVICS Karol		1	2722
+2860	TAMASKOVICSOVÁ Terézia		1	2722
+2860	TANÍTOVÁ Matilda	rod.Kunová m.Július	1	2528
+2860	TÁRTLER Vojtech		1	683
+2860	TESEDÍKOVÁ Helena	rod.Illésová m.Vojtech	1	2115,2117
+2860	Thuroczy Vilmos r. Thuroczy		1	1778,2434,2517,2679,2852
+2860	THUROCZYOVÁ Ilona	rod. Toth	1	2727
+2860	TOMAŠKOVIČOVÁ Júlia	rod.Siposová m.Karol	1	2410,2886
+2860	TOTH Alexander		1	1694,1695,1757,2011,2198,3128
+2860	TOTH Alojz		1	1156,1576,1577,1786,2088,2142,2347,3362
+2860	TOTH Alojz ž.Helena, SR		1	2543
+2860	TOTH Anton		1	1156,1786,2142,3362
+2860	TOTH Augustín	mal	1	3017
+2860	TOTH Ferdinand, SR		1	2086
+2860	TOTH František	mal	1	2660,3001
+2860	TOTH Július		1	2647,2741,2886
+2860	TOTH Karol	ž.Apolonia rod.Csizmádiová	1	2050
+2860	TOTH Ladislav	ž.Žofia rod.Izsáková	1	3012
+2860	TOTH Ľudovít		1	1187,2647
+2860	TOTH Ľudovít	ž.Katarína rod.Fülöpová	1	2647
+2860	TOTH Michal		1	1694,1695,1757,2011,2198,3128
+2860	TOTH Peter		1	1694,1695,1757,2011,2198,3128
+2860	TOTH Štefan	mal	1	2864
+2860	TOTH Štefan	ž.Estera rod.Décsyová	1	2459,2648
+2860	TOTH Vincent		1	1694,1695,1757,2011,2198,3128
+2860	TOTH Vojtech		1	1576,1786
+2860	TOTH Vojtech	ž.Lujza rod.Takácsová	1	3013
+2860	TOTHOVÁ Alžbeta	rod.Tothová m.Július	1	2647,2741,2886
+2860	TOTHOVÁ Alžbeta r. Mandáčková, SR		1	1340,2064,2066,3287
+2860	TOTHOVÁ Anna	rod.Tothová m.Karol	1	3017
+2860	TOTHOVÁ Apolonia	rod.Takácsová	1	1538
+2860	TOTHOVÁ Edita	rod.Nagyová m.František	1	2057,2968
+2860	TOTHOVÁ Emília	rod.Szuhová m.Imrich	1	2669
+2860	TOTHOVÁ Helena	mal	1	3017
+2860	TOTHOVÁ Júlia		1	1694,1695,1757,2011,2198,3128
+2860	TOTHOVÁ Juliana	rod.Szöcsová	1	1651
+2860	TOTHOVÁ Lujza	rod.Takácsová m.Vojtech	1	3013
+2860	TOTHOVÁ Mária	rod.Siposová m.Imrich	1	1474,2410,2741,2886
+2860	Tothová Piroška		1	1694,1695,1757,2011,2198,3128
+2860	TOTHOVÁ Rozália	rod.Lámalová m.Július	1	2014,2015,2017,2019,2022,2024
+2860	TOTHOVÁ Terézia	rod.Horárová m.Gabriel	1	2705
+2860	TOTHOVÁ Valéria r. Lukácsová, SR		1	2406,2411,2416
+2860	TOTHOVÁ Valéria r.Lukácsová, SR		1	2335
+2860	TOTHOVÁ Vilma	rod.Baranyaiová	1	2106
+2860	TOTHOVÁ Žofia	rod.Izsáková m.Ladislav	1	3012
+2860	Trieb Ján		1	1022
+2860	TRIEB Ján	ž.Margita rod.Kubicsková	1	2336
+2860	TRIEBOVÁ Margita	rod.Kubicsková m.Ján nar.5.1.1919	1	2336
+2860	Triebová Margita r. Kubičková		1	1022
+2860	UDVAROS Ján		1	3015
+2860	UDVAROS Ján	ž.Žofia rod.Kertészová	1	2236,2984
+2860	UDVAROS Ľudovít		1	2232
+2860	UDVAROS Ľudovít	ž.Jolana rod.Udvarosová	1	2231
+2860	UDVAROS Vojtech		1	3015
+2860	UDVAROSOVÁ Jolana	rod.Udvarosová	1	2232
+2860	UDVAROSOVÁ Justína		1	3015
+2860	UDVAROSOVÁ Žofia	rod.Kertészová m.Ján	1	2236,2984
+2860	ÜRGE Ľudovít	ž.Mária rod.Körösová	1	3062
+2860	ÜRGE Štefan	ž.Helena rod.ürgeová	1	2974
+2860	ÜRGEOVÁ Helena	rod.ürgeová m.Štefan	1	2974
+2860	ÜRGEOVÁ Mária	rod.Körösová m.Ľudovít	1	3062
+2860	ÜRGEOVÁ Matilda	rod. Morvaiová m. Juraj	1	2079,2987,2998
+2860	VÁCLAVÍK Michal		1	637
+2860	VADÁSZ Juliana	rod.Czániková	1	1984,1985,2127,2129
+2860	VALKÁR František		1	3096
+2860	VALKÁR Ján		1	3096
+2860	VALKÁR Jozef		1	3096
+2860	VALKÁR Ladislav		1	3096
+2860	VALKÁR Ladislav	mal	1	3096
+2860	VALKÁR Štefan	mal	1	3096
+2860	VALKOVÁ Margita	rod.Csernyanská m.Július	1	2363,2865
+2860	VANÍKOVÁ Emília	rod.Csernyanská m.Imrich	1	2363,2862
+2860	VANYA Jozef		1	1957
+2860	VANYA Jozef	ž.Etela rod.Supenová	1	1956,1958
+2860	VANYEK Július	ž.Helena rod.Haulíková	1	334,3456
+2860	VANYEKOVÁ Helena	rod.Haulíková m.Július	1	334,3456
+2860	VANYÍKOVÁ Gizela		1	296
+2860	VANYIKOVÁ Juliana		1	966
+2860	VANYIKOVÁ Margita	mal	1	966
+2860	VANYIKOVÁ Mária		1	966
+2860	VANYIKOVÁ Terézia		1	966
+2860	VANYOVÁ Terézia		1	1956,1957,1958
+2860	VÁRADIOVÁ Anna	rod.Gyepesová	1	208
+2860	VÁRADIOVÁ Františka	rod.Supenová m.Štefan	1	1223,3301
+2860	VARGA Imrich		1	1225,1607,3354
+2860	VARGA Ján	ž.Anna rod.Bírová	1	1298,2247,2553,3230
+2860	VARGA Štefan		1	2077,2934,2935
+2860	VARGOVÁ Barbora	rod.Baranyaiová nar.2.4.1882	1	1602,1606,1657,1658,2151,2153,2166,3253,3254
+2860	VARGOVÁ Cecília	rod.Ambrozyová	1	2537
+2860	VARGOVÁ Lenka		1	2077,2934,2935
+2860	VARGOVÁ Mária		1	2638
+2860	VERES Alojz		1	2508
+2860	VERES Gašpar		1	2881
+2860	VERES Ján	mal	1	2157,2340,3223
+2860	VERES Štefan	mal	1	2157,2340,3223
+2860	VERESOVÁ Anna	mal	1	2157,2340,3223
+2860	VERESOVÁ Gizela		1	2501
+2860	VERESOVÁ Rozália	mal	1	2157,2340,3223
+2860	VEREŠ Melichar		1	2364,2445
+2860	VERSEGHYOVÁ Helena	rod.Acsová m.Anton	1	1347
+2860	VIVČÍK Karol		1	2616
+2860	VIVČÍK Ladislav		1	2616
+2860	VIVČÍKOVÁ Etela	rod.Vivčíková	1	2616
+2860	VIŽĎÁKOVÁ Helena	rod.Seresová	1	1479,1916
+2860	VÖRÖS Alojz	ž.Anna rod.Morvaiová	1	2738,2742
+2860	VÖRÖSOVÁ Anna	rod.Morvaiová m.Alojz	1	2178,2179,2738,2742
+2860	VRBOVÁ Terézia	rod.Izsayová m.František	1	2639
+2860	VREBA František		1	1694,1695,1757,2011,2198,3128
+2860	VREBA Ján		1	776,2101,2309,3232
+2860	VREBA Jozef		1	2101,2344,3232
+2860	VREBA Jozef	syn Jozefa	1	2011,2198
+2860	VREBA Július		1	2101,3232
+2860	VREBA Ľudovít		1	2344
+2860	VREBA Ľudovít	mal	1	2101,3232
+2860	VREBA Pavol		1	2101,2344,3232
+2860	VREBOVÁ Etela		1	2344
+2860	VREBOVÁ Etela	mal	1	2101,3232
+2860	VREBOVÁ Etela	rod.Kubicsková m.Jozef	1	1451,2101,2344,2683,3232
+2860	VREBOVÁ Terézia	rod.Izsaiová nar.7.6.1906	1	201,2621
+2860	WEISOVÁ Edita		1	2505,2836
+2860	WEISOVÁ Jolana Irena		1	2505,2836
+2860	WEISZ Jakub		1	2836
+2860	WEISZ Jakub	ž.Berta	1	301
+2860	WEISZ Jozef		1	301,1423,2505,2836
+2860	WEISZ Leopold		1	301
+2860	WEISZ Lipot	DR	1	1423,2505,2836
+2860	WEISZOVÁ Alžbeta	mal	1	1423,2505
+2860	WILMITZEROVÁ Júlia	rod.Csernyanská	1	2318,2367
+2860	YVÁNOVÁ Juliana	rod.Mileová m.Karol	1	2966
+2860	ZAJÍČKOVÁ Juliana	rod.Koczmanová	1	1469
+2860	ZAMAROCZIOVÁ Helena	rod.Csernyanszká m.Štefan	1	2441
+2860	ZELENKA Jozef		1	1754,2535,2611
+2860	ZELENKA Jozef	ž.Juliana rod.Špendlová	1	2535
+2860	ZELENKOVÁ Anna	rod.Kosztolányiová m.Juraj	1	2611
+2860	ZELENKOVÁ Helena	mal	1	2611
+2860	ZELENKOVÁ Terézia	mal	1	2611
+2860	ZIMKA Ján		1	2626
+2861	Bartoš Jozef, Šachetná 393, Příbram, PSČ 261 00, ČR	narodený 29.1.1960	0	318,319,331,332,333
+2861	Beľo Ján	nebohý	0	243
+2861	Beľo Jozef	nebohý	0	243
+2861	Belo Michal	nebohý	1	233,251,252,254,257,286,318,319,320,331,332,333
+2861	Beľo Ondrej	nebohý	0	243
+2861	Belo Štefan	nebohý,ž.Marta	1	233,251,252,254,257,286,318,319,320,331,332,333
+2861	Beľová Katarína	nebohá	0	243
+2861	Čajan Ján	odsťahovaný	1	233,251,252,254,257,286,318,319,320,331,332,333
+2861	Čajanová Mária	odsťahovaná	1	233,251,252,254,257,286,318,319,320,331,332,333
+2861	Daniová Anna	rod.Laššáková	1	233,251,252,254,257,286,318,319,320,331,332,333
+2861	Dirbáková Elena r. Tiralová, 962 05, Hriňová, SR	narodená 18.2.1941	0	222
+2861	Dub Albert		1	255
+2861	Ďuríček Juraj	nebohý	0	222
+2861	Ďurišová Anna	rod.Pisoňová, nebohá	0	254
+2861	Ďurišová Anna	rod.Pisoňová,nebohá	1	233,251,252,257,286,318,319,320,331,332,333
+2861	Ferenčíková Rozália	nebohá, rod.Paššáková	0	286,319
+2861	Ferenčíková Rozália	rod.Paššáková,nebohá	1	233,251,252,254,257,318,320,331,332,333
+2861	Filipiak Ondrej	nebohý	0	222
+2861	Franeková Mária	nebohá	1	233,251,252,254,257,286,318,319,320,331,332,333
+2861	Gajdošová Mária	rod.Kvaková	1	257
+2861	Gajdošová Mária, 987 01, Poltár, SR	rod. Kvaková	0	233,320
+2861	Gajdošová Mária, 987 01, Poltár, SR	rod.Kvaková	0	251,252,254,286,318,319,331,332,333
+2861	Gašparová Júlia	rod. Švantnerová	0	249
+2861	Golianová Rozália	rod.Pomykalová	0	222
+2861	Grenčík Ján		1	257
+2861	Grenčík Ján, 979 01, Rimavská Sobota, SR		0	233,251,252,254,286,318,319,320,331,332,333
+2861	Grenčíková Mária	nebohá, rod.Komorová,manž.neb.Ján	1	233,251,252,254,257,286,318,319,320,331,332,333
+2861	Hedvidy Jozef	nebohý	0	254
+2861	Hedvigy Ján	nebohý	1	233,251,252,254,257,286,318,319,320,331,332,333
+2861	Hedvigy Jozef	nebohý	1	209,233,251,252,257,286,318,319,320,331,332,333
+2861	Hedvigy Jozef	nebohý,ž.Juliana rod.Staníková	0	209,223
+2861	Hedvigy Juraj	nebohý	1	233,251,252,254,257,286,318,319,320,331,332,333
+2861	Hedvigy Ondrej	nebohý	0	214

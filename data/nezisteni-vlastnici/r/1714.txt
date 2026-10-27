@@ -1,0 +1,256 @@
+1000	KOVAL MARIAN		0	269,589,639,640,692
+1000	Kovaľ Marián r. Kovaľ		0	691
+1000	Kovaľ Ondrej		0	210
+1000	Kovaľová Anna		0	210
+1000	Kovaľová Anna r. Kovaľová		0	321
+1000	Kovaľová Mária	mal	0	321
+1000	Koverová Helena r. Cibuľová		0	208,210,565
+1000	Kunc Alžbeta r. Harčár		0	396
+1000	Kunc Andrej	st	1	506
+1000	KUNC FRANTISEK		0	269,589,639,640,692
+1000	Kunc František r. Kunc		0	691
+1000	Kunc Ján		0	487
+1000	Kunc Ján	manželka Mária r.Raganová	0	483
+1000	KUNC JOZEF		0	692
+1000	KUNCOVA ALZBETA r. HARCAROVA		1	218,220
+1000	Kuncová Alžbeta		1	220
+1000	Landsman Maximilián		1	510
+1000	Lukáčová Mária r. Kovaľová		0	321
+1000	Lukáčová Regina r. Horňáková		1	218,220
+1000	Ľutková Margita r. Papáčová		0	210
+1000	Malučká Alžbeta r. Cibulová		0	208,209,210,222,565
+1000	Maľučký Michal		0	210
+1000	Mandlová Magdaléna r. Dávidovičová		1	510
+1000	Palgut Juraj		0	208,209,565
+1000	Pancurák Anna r. Peklanský		0	320
+1000	Papáč Ján		0	210
+1000	PEKLANSKY ANDREJ		0	218
+1000	Peklansky František		1	467
+1000	Pekľanský Ján		0	192,269,589,639,640,692
+1000	Pekľanský Ondrej		1	220,269,589,639,640,692
+1000	Pekľanský Ondrej r. Pekľanský		0	691
+1000	Petro Andrej	/žena Anna Kristan/	0	424
+1000	Petro Johana	mal	0	424
+1000	Petro Jolana	mal	1	244,294,296,297,298,299
+1000	PETRO JULIUS		0	269,589,639,640,692
+1000	Petro Margita r. Kunc		0	264
+1000	Petro Margita r. Kuncz		0	264
+1000	PETRO MILOS		0	269,589,639,640,692
+1000	PETRO ONDREJ		0	269,505,589,639,640,692
+1000	Petro Štefan		0	424,481
+1000	Petro Štefan	manželka Margita r. Kuncová	0	499
+1000	Petro Štefan	ž. Margita Kunc	1	304
+1000	Petrová Alžbeta r. Seňová		1	472,476
+1000	Petrová Barbora r. Seňová		1	495
+1000	Petrová Margita r. Kuncová		1	463,487,507
+1000	Petrová Panna r. Kristanová		0	306
+1000	RABATIN ANDREJ		0	482
+1000	Rabatin Ján		0	100
+1000	Rabatin Jozef	mako, manželka Barbora r. Petrová	1	475
+1000	Rabatin Juraj	manželka Alžbeta r. Petrová	1	508
+1000	Rabatin Juraj	manželka Barbora r. Doľáková	0	480
+1000	RABATINOVA ALENA		0	269,589,639,640,691,692
+1000	RABATINOVA ALZBETA		0	269,589,639,640,692
+1000	Romandy Alžbeta r. Kovaľová		0	321
+1000	Sabol Alžbeta r. Petro		1	299
+1000	Seňová Alžbeta r. Petrová		1	485
+1000	Sipaj Alžbeta	mal	0	320
+1000	Stofcsó Štefan	mal	1	248
+1000	Suhovič Barbora r. Doľák		0	334
+1000	Šmocer Alžbeta r. Kovaľ		0	104
+1000	Šmocer Alžbeta r. Kovaľová		0	321
+1000	Štofčo Anna r. Dugas		1	249
+1000	Štofčová Anna r. Miklošová		0	240
+1000	TAKACOVA HELENA		0	269,589,639,640,691,692
+1000	Takáčová Alžbeta r. Forgáčová		0	484
+1000	Tkáč Vincent		0	208,209,210,280,443,565
+1000	Ungár Alexander		1	510
+1000	Ungár Zoltán		1	510
+1000	Ungárová Berta		1	510
+1000	Vaňo Michal		1	208,209,210,490,565
+1000	Vanyová Mária r. Csidbajová	manžel Michal	0	491
+1000	Weiner Bela		1	502
+1000	Weiner Pavol		1	502
+1001	Adámeková Margita	r.Čankyová	0	2684
+1001	Antalová Albína	r.Látečková	0	2700
+1001	Antošová Katarína		0	2416
+1001	Babková Albína		0	1585
+1001	Babková Albína	mal	0	2700
+1001	Babková Alžbeta	mal	0	2700
+1001	Babková Anna	mal. a	0	1585
+1001	Babková Anna	mal. b	0	2700
+1001	Babková Irena	mal	0	2700
+1001	Babková Katarína		0	2700
+1001	Baboš Štefan	mal. a	0	2700
+1001	Baboš Štefan	mal. b	0	2700
+1001	Babošová Edita	mal. a	0	2700
+1001	Babošová Edita	mal. b	0	2700
+1001	Babošová Helena		0	2700
+1001	Babošová Helena	mal	0	2700
+1001	Bacigálová Ľudmila	r.Čuláková	0	2407
+1001	Bajerle Jozef		0	2392
+1001	Bajerle Mikuláš	/ž.Mária r.Pokorná/	0	2392
+1001	Bakita Jozef		0	2313
+1001	Bako Emil	/Alexander/	0	2828
+1001	Baková Margita		0	2828
+1001	Bali Pavol	/ž.Anna r.Földešiová/	0	1351
+1001	Baliová Anna	r.Földešiová /m.Pavol/	0	1351
+1001	Balla Florian	/ž.Katarína r.Šranková/	0	2715
+1001	Balla František	/ž.Emília r.Pitková/	0	1252
+1001	Balla Vincent		0	2762
+1001	Ballová Katarína	r.Šranková /m.Florián/	0	2715
+1001	Bartová Agneša	r.Breitnerová Dr	0	2394
+1001	Bednár František	/ž.Eva r.Fülöpová/	0	2393
+1001	Bednárová Eva	r.Fülöpová /m.František/	0	2393
+1001	Belák Štefan	/ž.Mária r.Homolová/	0	379
+1001	Beláková Mária	r.Homolová /m.Štefan/	0	379
+1001	Benc Michal	/ž. Anna r.Branikovičová/	0	2293
+1001	Benc Michal	a	0	1731,2293
+1001	Benc Michal	b	0	2293
+1001	Benc Michal	c	0	2451
+1001	Bencová Anna	r.Branikovičová /m.Michal/	0	2293
+1001	Bencová Júlia	r.Civáňová /m.Ján/ b	0	1716
+1001	Bencová Júlia	r.Civáňová a	0	1717
+1001	Bencová Júlia	r.Civáňová c	0	1716,2566
+1001	Bencová Katarína		0	2700
+1001	Bencová Veronika	r.Branikovičová	0	2456,2700
+1001	Bene Ľudovít		0	1385
+1001	Benešová Valéria	r.Brezinová	0	2700
+1001	Bereg Alexander	/ž.Mária r.Nováková/	0	2559
+1001	Beregová Mária	r.Nováková /m.Alexander/	0	2559
+1001	Bibeň Alexej		0	2690
+1001	Bibeň Gejza		0	2690
+1001	Bibeň Ján	/choromyseľný/	0	2690
+1001	Bibeň Štefan		0	2690
+1001	Biliková Anna	r.Horková a	0	1311,1550,2286,2700
+1001	Biliková Anna	r.Horková b	0	1311,1550,2286,2700
+1001	Biliková Anna	r.Horková c	0	1311,1550,2286,2700
+1001	Biliková Anna	r.Horková d	0	1311,1550,2286,2700
+1001	Bittnerová Margita	r.Moravčíková	0	1299,1300,2424,2700
+1001	Blažeková Mária	r.Ďurišová / m.Jozef/	0	2064,2065,2081,2082,2319,2333,2335
+1001	Bobová Katarína	r.Moravčíková	0	2674
+1001	Borbelyová Romana	r.Žakaiová	0	2527
+1001	Bozanová Mária	r.Laziková	0	1311,1550,2286,2700
+1001	Branikovič František	a	0	2700
+1001	Branikovič František	b	0	2700
+1001	Branikovič Ján	a	0	501
+1001	Branikovič Ján	c	0	2700
+1001	Branikovič Ján	vzdial	0	2700
+1001	Branikovič Jozef	/ž.Katarína r.Tauszová/	0	2700
+1001	Branikovič Jozef	mal. a	0	2700
+1001	Branikovič Jozef	mal. b	0	2700
+1001	Branikovič Michal	/ž.Katarína r.Dobošová/	0	379
+1001	Branikovič Michal	a	0	2655
+1001	Branikovič Michal	b	0	2700
+1001	Branikovič Štefan	mal. a	0	2700
+1001	Branikovič Štefan	mal. b	0	2700
+1001	Branikovičová Anna	r.Brezinová	0	2807
+1001	Branikovičová Helena	mal	0	2700
+1001	Branikovičová Júlia		0	2700
+1001	Branikovičová Katarína	a	0	2589,2598,2700
+1001	Branikovičová Katarína	b	0	2589,2700
+1001	Branikovičová Katarína	c	0	2626,2700
+1001	Branikovičová Katarína	r.Dobošová /m.Michal/	0	379
+1001	Branikovičová Mária	r.Hnatuchová b	0	2700
+1001	Brankovičová Anna	r.Brezinová /vd. po Jánovi/ a	0	826,1550,1746,2324,2325,2676,3347
+1001	Brankovičová Anna	r.Brezinová vd./m.Ján/ b	0	2700
+1001	Brath Jozef		0	2517
+1001	Brath Ladislav		0	2511
+1001	Brath Michal	ml. /Malý Lapáš č.26/	0	2753
+1001	Brath Michal	st. /ž.Barbora r.Ballová/	0	2745
+1001	Brathová Barbora	r.Ballová /m.Michal/	0	2745
+1001	Brathova Margita	r.Bederová	0	2517
+1001	Breitnerová Hilda	r.Kramerová a	0	2394
+1001	Breitnerová Hilda	r.Kramerová b	0	2394
+1001	Brezina František	/ž.Apolónia r.Gurmická/ a	0	2700
+1001	Brezina František	/ž.Apolónia r.Guzmická/ b	0	441
+1001	Brezina Imrich		0	2700
+1001	Brezina Ján	a	0	2700
+1001	Brezina Ján	mal. a	0	2613,2680,2700
+1001	Brezina Ján	mal. b	0	2700
+1001	Brezina Jozef	a	0	2384
+1001	Brezina Jozef	b	0	2700
+1001	Brezina Karol		0	2384
+1001	Brezina Michal		0	2700
+1001	Brezina Michal	/ž.Mária r.Vlčková/	0	2700
+1001	Brezina Pavol	mal. a	0	2384,2700
+1001	Brezina Pavol	mal. b	0	2700
+1001	Brezinová Alžbeta	r.Švecová /m.Jozef/	0	2700
+1001	Brezinová Apolónia	r.Guzmická	0	2700
+1001	Brezinová Margita	r.Ferová	0	2384
+1001	Brezinová Mária		0	2700
+1001	Brezinová Štefánia		0	2596
+1001	Brindza Viliam	/ž.Margita r.Kišová/	0	2763
+1001	Brindzová Margita	r.Kišová /m.Viliam/	0	2763
+1001	Burda Ján	/ž.Anna r.Branikovičová/ a	0	501
+1001	Burda Ján	/ž.Anna r.Branikovičová/ b	0	2588
+1001	Burdová Anna	r.Branikovičová /m.Ján/ a	0	501
+1001	Burdová Anna	r.Branikovičová /m.Ján/ b	0	2588
+1001	Bývalé urbariálne spoločenstvo obce Chrenová	spoločenstvo obce Chrenová, 949 01 Chrenová	0	2830
+1001	Cako Štefan	mal	0	1913,1915
+1001	Civáň Ján	/ž.Barbora r.Mosznárová/	0	2700
+1001	Civáň Ján	/ž.Eva r.Haringová/	0	379
+1001	Civáň Jozef	a	0	2463
+1001	Civáň Jozef	b	0	2626,2700
+1001	Civáň Štefan		0	1560,2700
+1001	Civáňová Agneša	r.Horníková vd	0	2778
+1001	Civáňová Anna	r.Muziková /m.Ján/ b	0	2700
+1001	Civáňová Eva	r.Haringová /m.Ján/ a	0	379
+1001	Civáňová Eva	r.Haringová /m.Ján/ b	0	2435,2436
+1001	Civáňová Eva	r.Haringová /m.Ján/ c	0	2257
+1001	Civáňová Eva	r.Haringová /m.Ján/ d	0	2700
+1001	Civáňová Eva	r.Haringová a	0	2257,2435,2436,2599,2700
+1001	Civáňová Eva	r.Haringová b	0	2572
+1001	Civáňová Mária		0	2683
+1001	Civáňová Mária	mal. a	0	2628,2683,2700
+1001	CIVÁŇOVÁ Mária, NITRA, SR	mal. a	1	2876
+1001	CIVÁŇOVÁ Mária, SR		1	2876
+1001	Csánki Ernest	mal	0	2684
+1001	Csánki Ján		0	2684
+1001	Csánkiová Margita		0	2684
+1001	Cseresnyeová Katarína		0	2378
+1001	Czaková Júlia		0	2316
+1001	Czaková Verona	r.Szombatová	0	2802
+1001	Cziváňová Katarína		0	2064
+1001	Čanky Ernest		0	2684
+1001	Čanky Ján	/ž.Anna r.Kiačiková/	0	2684
+1001	Černayová Kornélia	r.Szabová a	0	2542
+1001	Čič Štefan	/ž.Paulína r.Kvasnovská/	0	2524
+1001	Čičová Paulína	r.Kvasnovská /m.Štefan/	0	2524
+1001	Čmelíková Helena	Zuzíková	0	2626,2700
+1001	Čs.štát - Majetok celoštátnej poľnohospodárskej výstavy,n.p.	94901 Nitra	0	3537
+1001	Čulák Ján	a	0	2587
+1001	Čulák Ján	b	0	2700
+1001	Čulák Jozef		0	2700
+1001	Čuláková Katarína	r.Halásová	0	2422
+1001	Čuláková Katarína	r.Halásová /m.Ján/	0	1763
+1001	Depeš František	vzdial	0	2700
+1001	Depeš Ján	/ž.Júlia r.Zámecká/ b	0	1293
+1001	Depeš Ján	/ž.Júlia r.Zárnecká/ a	0	1905
+1001	Depeš Ján	b	0	1908,2700
+1001	Depeš Ján	c	0	379
+1001	Depeš Ján	e	0	2538
+1001	Depeš Michal		0	2409,2451
+1001	Depeš Michal	vzdial	0	2700
+1001	Depeš Pavol	/vzdialený/	0	826,1342
+1001	Depeš Štefan	/ž.Júlia r.Láziková/ a	0	1905
+1001	Depeš Štefan	/ž.Júlia r.Láziková/ b	0	1512
+1001	Depeš Štefan	/ž.Júlia r.Láziková/ c	0	1511
+1001	Depeš Štefan	a	0	1905
+1001	Depešová Helena	r.Brathová /m.Štefan/	0	2517
+1001	Depešová Júlia	r.Zarnecká	0	2538
+1001	Depešová Rozália	vzdial	0	2700
+1001	Dömös Jozef	mal	0	2378
+1001	Dömösová Margita	mal	0	2378
+1001	Drugová Anna	r.Záhradníková	0	2628,2683
+1001	DRUGOVÁ Anna r. Záhradníková, SR		1	2876
+1001	Druková Terézia	r.Civáňová	0	2700
+1001	Dubajová Katarína	r.Bakitová	0	2313,2315,2700
+1001	Duchoň Juraj	/ž.Paulína r.Majerčíková/	0	2716
+1001	Duchoň Matúš		0	2730
+1001	Duchoňová Paulína	r.Majerčíková /m.Juraj/	0	2716
+1001	Ďurč Juraj	mal	0	2700
+1001	Ďurč Rudolf	/ž.Irena r.Turbová/	0	2706
+1001	Ďurč Rudolf	b	0	2583
+1001	Ďurč Rudolf	c	0	2583
+1001	Ďurč Rudolf	mal	0	2583,2700

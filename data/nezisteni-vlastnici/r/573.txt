@@ -1,0 +1,256 @@
+327	TÓTHOVÁ Rozália	neb	0	440,449,450,1028,1031,1043,1044
+327	TÓTHOVÁ Rozália	r.Bolyosová,neb	1	992
+327	TÓTHOVÁ Rozália	r.Bolyóšová	0	435,440,449,450,656,761,799,1028,1031,1043,1044
+327	TÓTHOVÁ Rozália	r.Tóthová	0	440,449,450,569,629,726,822,867,874,1028,1031,1043,1044
+327	TÓTHOVÁ Rozália r. Kovácsová	m.František,výmaz malol.r.06	1	353,507,509,593,737,974,1007,1106
+327	TÓTHOVÁ Terézia	maloletá	0	450,688,1028,1043
+327	TÓTHOVÁ Zuzana		0	440,449,450,465,616,618,619,757,1028,1031,1043,1044
+327	TÓTHOVÁ Zuzana	maloletá	0	719
+327	VANKOVÁ Etela	nar.1925	1	966
+327	VARGA Alexander	maloletý,neb	0	440,441,442,450,852,1028,1031,1043,1044
+327	VARGA Alexander	slobodný	1	449,918,919
+327	VARGA Baláž	ž.Szó József Margita	1	373,983
+327	VARGA Blažej		1	373
+327	VARGA Blažej	neb.,ž.Margita Szó Jozsef	0	649,650,687,747,819,848,857,1165
+327	VARGA Eugen	neb	0	993
+327	VARGA Ján		0	440,449,450,1028,1031,1043,1044
+327	VARGA Ján	č.1	0	440,449,1031,1044
+327	VARGA Jozef	ž.Irma Salai,neb	1	919
+327	VARGA Jozef	ž.Salajová Irma,neb	0	769
+327	VARGA JOZEF		0	347
+327	VARGA Karol		1	941
+327	VARGA Ľudovít		1	373
+327	VARGA Ľudovít	č.1	0	649,650,687,724,857,1165
+327	VARGA Ľudovít	maloletý	1	649,650,687,724,747,857,983,1165
+327	VARGA Matej		0	728
+327	VARGA Matej	Čakanovce	1	420,970,992
+327	VARGA Peter	maloletý	0	440,449,450,1028,1031,1043,1044
+327	VARGOVÁ Anna	r.Pálová	0	440,449,1031,1044
+327	VARGOVÁ Estera	r.Tóthová,neb	0	433,440,449,450,465,467,470,471,586,757,836,1028,1029,1030,1031,1043,1044,1090,1157
+327	VARGOVÁ Margita		0	649,650,687,724,857,1165
+327	VARGOVÁ Margita	maloletá	1	373
+327	VARGOVÁ Regina	maloletá	0	449
+327	VARGOVÁ Vilma		0	650,724
+327	VAS Gejza	ž.Alžbeta r.Koronci	1	966
+327	VILČEKOVÁ Mária	r.Nagyová,neb	0	440,449,450,536,662,663,691,743,754,832,1028,1031,1043,1044,1072,1095,1097,1167
+327	VILČEKOVÁ Mária	r.Nagyová,neb.,m.Jozef	1	537,545,956,988
+327	WOHL Aladár	Dr	0	888
+328	Antolík Andrej		0	993
+328	Beňo Chovan Ján, Čižatice 35 Čižatice 35		0	755,1081
+328	Bodonský Andrej r. Bodonský		0	975
+328	Bodonský Ondrej r. Bodonský, dátum nar.14.07.1905 , manž.Anna r.Hrehorová dátum nar.14.07.1905 , manž.Anna r.Hrehorová		0	1023
+328	Bordáš Ján		0	805
+328	Bordášová Anna		0	867
+328	Bugošová Anna r. Vargová		0	797
+328	Buza Andrej r. Buza		0	1050
+328	Buza Ján r. Buza		0	897
+328	Buza Juraj r. Buza		0	925
+328	Buza Juraj r. Buza, malolet. malolet.		0	1079
+328	Cibula Ján, Kráľovce Kráľovce		0	755,1081
+328	Csonková Anna r. Vangorová		0	833
+328	Danielová Anna r. Vanaková		0	854,1072
+328	Demeter Andrej r. Demeter		0	838
+328	Demeter Ján r. Demeter		0	799
+328	Demeter Ondrej r. Demeter	manž.Mária	0	890
+328	Demeterová Mária r. Mihoková		0	1060
+328	Dolná Anna r. Mošková	manž. Juraj	0	891
+328	Dolná Anna r. Szabadošová	manž.Andrej	0	971
+328	Dolný Juraj		0	1079
+328	Dulina Guláš Ján, Čižatice 1 Čižatice 1		0	755,1081
+328	Fabriová Barbora r. Vangorová		0	855
+328	Gazda Ján r. Gazda		0	929
+328	Gazda Juraj r. Gazda		0	1048
+328	Gazda Štefan r. Gazda	ml	0	882
+328	Gazdová Alžbeta		0	790
+328	Gazdová Mária	ml	0	1037
+328	Gdovin Juraj		0	821
+328	Gdovinová Alžbeta r. Hrehorová	manž.Ján	0	918
+328	Gdovinová Anna r. Demeter	muž Ján	0	875,1072
+328	Gdovinová Anna r. Matejová		0	765
+328	Grofová Anna r. Demeterová		0	944
+328	Hašková Anna r. Gdovinová		0	782
+328	Hašková Anna r. Petrilová		0	960
+328	Havas Gabriel r. Havas		0	749,793
+328	Hlavatá Alžbeta r. Szabová		0	1009
+328	Hubičaková Marta r. Jakubčinová		1	341
+328	Hudáková Alžbeta		0	1053,1072
+328	Hudáková Anna r. Gazdová		0	963
+328	Chovanová Anna r. Vojtková		0	1058
+328	Jablonská Anna r. Buzová		0	1052
+328	Jakubčin Jaroslav r. Jakubčin		1	341
+328	Jakubčinová Margita r. Valiková		1	341
+328	Juhas Juraj r. Juhas		0	1011
+328	Juhasz Andrej r. Juhasz		0	784
+328	Kecerová Emília r. Jakubčinová		1	341
+328	Kolesár Ján r. Kolesár		0	749,771
+328	Kovačová Mária r. Demeterová		0	969
+328	Krištofová Anna r. Malinyaková, manž.Ján manž.Ján		0	774
+328	Lofaj Štefan r. Lofaj		0	1016
+328	Lofajová Mária		0	967
+328	Lorinc Juraj r. Lorinc		0	912
+328	Lorincová Mária r. Kunratová		0	766
+328	Michaľanský Anton r. Michaľanský		0	1005
+328	Nosaľ Andrej r. Nosaľ		0	869
+328	Nosaľ Andrej r. Nosaľ	manž.Alžbeta	0	859
+328	Nosaľová Alžbeta r. Sibová		0	829
+328	Ontková Anna		0	874
+328	Petrilla Vincent r. Petrilla		0	970,1072
+328	Petrillová Anna r. Vangorová		0	937
+328	Petrilová Alžbeta r. Petrilová	maloletá	0	749,1056
+328	Petrilová Barbora r. Danielová	manž.Ondrej	0	1038
+328	Petrilová Mária r. Baranová		0	754
+328	Rabatinová Anna r. Danielová		0	747,979
+328	Ramacová Anna r. Buzsová		0	785
+328	Ramač Ján r. Ramač	zomr. 20.04.1945	0	1040
+328	Ruščak Ján		0	953
+328	Sabadošová Anna r. Petrilová		0	754
+328	SABO Andrej		0	921
+328	Sabo Ján r. Sabo, malolet., malolet.		0	776
+328	Samko Andrej		0	792
+328	Samko Ján		0	1033
+328	Samko Juraj r. Samko		0	958
+328	Samková Dorota r. Jenčárová		0	749,788
+328	Saraka Ján r. Saraka, ž. Vancáková Anna ž. Vancáková Anna		0	1079
+328	Saraková Anna r. Vančáková, manž. Ján manž. Ján		0	1079
+328	Szabo Ján r. Szabo		0	749,807
+328	Szabo Ondrej, /manž.Barbora/ /manž.Barbora/		0	1062
+328	Szabol Andrej		0	943
+328	Szabová Alžbeta r. Szabová		0	863
+328	Szabová Mária		0	892
+328	Szamko Ján r. Szamko		0	1049
+328	Šestáková Mária r. Buzová		0	911
+328	Šimčák Pavel r. Šimčák		0	1067
+328	Šimčaková Mária r. Forgáčová		0	930
+328	Šipaj Ján r. Šipaj		0	989
+328	Tomčík Ján r. Tomčík	ml	0	908
+328	Vašková Anna r. Vašková	maloletá	0	749,1013
+329	Bergmanová Mária	r.Vargová vl.15	1	407,408
+329	Bernáth Jozef		0	660
+329	Bugár Gašpar	vl.124	1	406
+329	Bugárová Hermina	r.Vargaová vl.124	1	406
+329	Ciferiová Františka	r.Jágerová vl.124	1	406
+329	Ciferiová Františka r. Jágerová		0	760
+329	Cziferiová Mária r. Zalkaová		0	704
+329	Czmerová Mária	r.Hollósyová vl.124	1	406
+329	Faragóová Etela		0	620
+329	Faragóová Etela	vl.22	1	382
+329	Faragóová Hermina	r.Hollóssyová	1	436
+329	Faragóová Hermina	r.Hollósyová	1	406
+329	Faragóová Hermina r. Hollóssyová		0	576
+329	Formankóová Juliana	r.Cziferiová vl.120	1	406
+329	Gazdagová Magdaléna r. Kállayová		0	711
+329	Gazdagová Terézia r. Bölcsová		0	730
+329	Gódány Ondrej	vl.124	1	406
+329	Gódányová Elena	r.Mériová vl.124	1	406
+329	Gregus Jozef	vl.124	1	406
+329	Gregusová Priska	r.Fodorová vl.124	1	406
+329	Hamar Jozef	vl.124	1	406
+329	Hamarová Rozália	r.Vidaová vl.124	1	406
+329	Henyig Ernest	vl.124	1	406
+329	Hervayová Magdaléna r. Horváthová		0	680
+329	Holocsi Ján		0	674
+329	Horváth Rezső		0	587
+329	Horváthová Terézia	r.Vidaová vl.124	1	406
+329	Jáger František	vl.63	1	368
+329	Jáger Ján	vl.124	1	406
+329	Jáger Ján	vl.63	1	368
+329	Jáger Ľudovít	vl.124	1	406
+329	Jáger Štefan	vl.124	1	406
+329	Jágerová Anna	r.Schwingerová vl.48	1	406
+329	Jágerová Anna r. Schwingerová		0	732
+329	Jágerová Barbora	r.Világiová vl.124	1	406
+329	Jágerová Etela	vl.124	1	406
+329	Jágerová Irena	vl.63	1	368
+329	Jágerová Júlia	r.Putzová vl.63	1	368
+329	Jalkóczy Benő		0	708
+329	Jalkóczyová Hermina r. Mikóczyová		0	576,617
+329	Killinger Jozef	vl.124	1	406
+329	Kovácsová Blanka		0	705
+329	Kovácsová Mária		0	609
+329	Kovácsová Mária	r.Jágerová vl.124	1	406
+329	Kováčová Margita		0	720
+329	Mentelová Terézia	r.Hervaiová vl.124	1	406
+329	Mészárosová Františka	r.Hollósyová vl.124	1	406,434
+329	Mészárosová Mária	r.Mikócziová vl.124	1	406
+329	Mezzei Alexander	vl.124	1	406
+329	Mezzeiová Juliana	r.Tediová vl.124	1	406
+329	Mikócziová Alžbeta	vl.124	1	406
+329	Mikócziová Anna	vl.124	1	406
+329	Mikócziová Juliana	vl.124	1	406
+329	Mikócziová Mária	vl.124	1	406
+329	Mikóczy Benő		0	747
+329	Mikóczy Ernest		0	699
+329	Mikóczy Rezső		0	585
+329	Mikóczyova Apolónia	r.Mezeiová vl.124	1	406
+329	Mikóczyová Hermina r. Kissová		0	735
+329	Mikóczyová Rozália	r.Mucskaová vl.124	1	406
+329	Nagyová Cecília r. Horváthová		0	676
+329	Némethová Mária	r.Mikócziová vl.124	1	406
+329	Posvancz František	vl.124	1	406
+329	Posvanczová Cecília	r.Mikóczyová vl.124	1	406
+329	Ruman Ján	vl.124	1	406
+329	Rumanová Terézia	r.Racskaová vl.124	1	406
+329	Sasová Mária r. Horváthová		0	689
+329	Schwinger František		0	663
+329	Schwingerová Alžbeta r. Vidaová		0	586
+329	Sidóová Emília	r.Mikóczyová vl.165	1	378
+329	Tauberová Viktória	r.Pussová vl.124	1	406
+329	Tvarušeková Irena	r.Henyigová vl.124	1	406
+329	Varga Ernest	vl.15	1	407,408
+329	Varga Imrich	vl.15	1	407,408,432
+329	Vargová Etela	r.Bognárová vl.15	1	407,408
+329	Vida Ladislav	vl.124	1	406
+329	Vidaová Alžbeta	r.Hollósyová vl.38	1	406
+329	Vidaová Emília	r.Zalkaová vl.70	1	406
+329	Vidaová Mária	vl.124	1	406
+329	Vidaová Terézia	r.Világiová vl.124	1	406
+329	Vidaová Valéria		0	406
+329	Zuzáková Katarína	r.Kovácsová vl.124	1	406
+330	Adam Adam	čd. 134/1951	0	1843
+330	Adam Ján	čd. 134/1951	0	1843
+330	Adam Ján	ž. Alžbeta r. Dargajová v USA	0	2180
+330	Adam Juraj	ž. Mária r. Vavreková vo Vechci	0	2595
+330	Adam Michal	čd. 134/1951	0	1843
+330	Adam Štefan	čd. 134/1951	0	1843
+330	Adam Štefan	ž. Anna r. Jakubková vo Vechci	0	2620
+330	ANDREJČÁKOVÁ Zuzana r. Hudáková		0	2088
+330	Bačová Mária r. Demetrová		1	1468
+330	Baláž Juraj	ž. Helena r. Vancáková v Soli	0	1907
+330	Baníková Anna r. Miklošová	v USA	1	1184,1665,2010
+330	Baranová Anna r. Malá		1	1708,1710,2212
+330	Berinštet František	ž.Julia r.Makšinová	1	1647
+330	Berinštet František	ž.Júlia r.Makšinová ž.Júlia r.Makšinová	1	1104,1206,1620,1752,1757
+330	Berinštet Ján		1	1126
+330	Berinštet Michal	mal	1	1413,1843
+330	Berinštet Štefan		1	1413,1843
+330	Berta Ján	ž.Anna r. Malá	0	1189
+330	Berta Juraj	ž. Helena r. Plachá	0	1843,1849
+330	Berta Juraj	ž.Helena r.Plachá	1	1650
+330	Berta Michal		0	2788
+330	Berta Michal	ž. Mária r. Gogová	0	2373
+330	Bertová Anna r. Malá		1	1189
+330	Bertová Anna r. Rytková	vd	0	2123
+330	Bertová Helena r. Plachá	muž Juraj	1	1099
+330	Bertová Júlia r. Kmecová	v USA	1	1068,1070,2315
+330	Bertová Mária		1	1086
+330	Bilý Štefan	ž. Mária r. Jenčová	0	1849,1851,1852,2719
+330	Bilý Štefan	ž.Mária r.Jenčová	1	1547,1650
+330	Bilý Štefan	ž.Mária r.Jenčová ž.Mária r.Jenčová	1	1753,2777
+330	Bindasová Mária r. Gavaľová	vo Vechci	0	2016
+330	Brosová Alžbeta r. Kmecová	v USA	1	1068,1070,2292
+330	Brozová Anna r. Balážová		1	1169
+330	Bundzáková Anna r. Miklošová		1	1125,1242,1414,2076
+330	CICATKOVÁ Mária r. Demčáková		0	1843
+330	Čabala Michal	ž. Helena r. Pačutová vo Vechci	0	2221
+330	DANKO Juraj		0	2403
+330	DEMČÁK Alexej		0	1843
+330	Demčák Andrej	ž.Anna r.Kuncová ž.Anna r.Kuncová	1	1206
+330	Demčák Ján	čd. 631/1950	0	2185
+330	Demčák Ján	ž. Ružena r. Nemečková	0	1985
+330	Demčák Ján	ž.Ružena r.Nemečková	1	1300,1430
+330	DEMČÁK Ján	čd.631/1950	1	1570
+330	Demčák Jozef	ž. Anna r. Vyšňovská	0	1849
+330	Demčák Jozef	ž. Anna r. Žipajová v USA	0	2483
+330	Demčák Jozef	ž.Anna r.Vyšňovská	1	1134,1650
+330	Demčák Michal	čd. 366/1955	0	2127
+330	Demčák Michal	čd.366/1955	1	1297

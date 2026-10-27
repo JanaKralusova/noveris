@@ -1,0 +1,256 @@
+941	MIZERÁK Martin	Michalov	0	4650,4654,4659,4661,4662,4730
+941	Mizerák Štefan	manž.Eva Gulanová	0	4654,4659,4661,4662,4730
+941	MIZERÁK Štefan	malol	0	4654,4659,4661,4662,4730
+941	MIZERÁK Štefan	maloletý	0	3629,4650
+941	MIZERÁK Štefan	manželka Anna r. Sýkorová	0	4650
+941	MIZERÁK Štefan	manželka Anna rod. Sýkorová	0	3629
+941	MIZERÁK Štefan	manželka Eva r. Gulanová	0	4650
+941	MIZERÁK Štefan	manželka Eva rod. Gulanová	0	3629
+941	MIZERÁK Štefan	ž.Anna Sýkorová	0	4654,4659,4661,4662,4730
+941	MIZERÁK Štefan	ž.Eva Gulánová	0	3895,3896,4654,4659,4661,4662,4730
+941	MIZERÁKOVÁ Anna		0	3629,4650,4654,4659,4661,4662,4730
+941	MIZERÁKOVÁ Anna	mal	0	3895,3896,4654,4659,4661,4662,4730
+941	MIZERÁKOVÁ Anna	maloletá	0	3629,4650
+941	Mizeráková Mária		0	3629,4650,4654,4659,4661,4662,4730
+941	MIZERÁKOVÁ Mária	mal	0	4654,4659,4661,4662,4730
+941	MIZERÁKOVÁ Mária	maloletá	0	3629,4650
+941	MORAVOVÁ Anna	r.Gábelová	0	3895,3896,4654,4659,4661,4662,4730
+941	MORAVOVÁ Anna r. Gábelová		0	3629,4650
+941	NEBOHÁČOVÁ Anna	hluchonemá	0	3629,4650,4654,4659,4661,4662,4730
+941	NEŠTÁK Ján		0	3527,3629,3705,3706,3920,4301,4308,4480,4536,4599,4620,4631,4636,4637,4650,4654,4659,4661,4662,4663,4722,4730,4774
+941	Nešťák Ján	manželka Anna r. Dedíková	0	4731
+941	Nešťák Ján	manželka Anna r.Dedíková	0	3771
+941	Nešťák Ján	po Jurajovi Nešťákovi a Anne r.Chovancovej	0	3629,4650
+941	Nešťák Ján	r.Nešťák,po Jurajovi Nešťákovi a Anne r.Chovancovej	0	4654,4659,4661,4662,4730
+941	NEŠŤÁK Ján	mal	0	4661
+941	NEŠŤÁK Ján	maloletá	0	3528,3705,4774
+941	NEŠŤÁK Ján	maloletý	0	1439,3526,3528,3629,3706,3905,4168,4226,4227,4281,4308,4373,4622,4623,4629,4633,4776,4784,4794
+941	NEŠTÁK Jozef		0	3527,3629,4228,4661
+941	NEŠTÁK Juraj		0	3137,3150
+941	Nešták Martin		0	3137,3150,3629,3920,4536,4620,4622,4631,4650,4663,4722
+941	Nešták Martin	r.Nešták	0	4654,4659,4661,4662,4730
+941	NEŠTÁK Martin	maloletý	0	3526,4623,4776,4784
+941	NEŠTÁK Martin	manželka Agneša r. Bulíková	0	4599
+941	NEŠTÁK Martin	manželka Katarína r. Zámečníková	0	3527,4308
+941	NEŠTÁK Martin	po Martinovi	0	3527
+941	Nešťák Martin	po Jurajovi Neštákovi a Anne r.Chovancovej	0	3629,4650
+941	Nešťák Martin	r.Nešťák,po Jurajovi Neštákovi a Anne r.Chovancovej	0	4654,4659,4661,4662,4730
+941	NEŠTÁK Štefan		0	3527,4186
+941	NEŠTÁK Štefan	mal	0	4661
+941	NEŠTÁK Štefan	maloletý	0	3629,3705,3706,4774
+941	NEŠTÁK Štefan	manželka Pavlína r. Tinková	0	4650
+941	NEŠTÁK Štefan	manželka Pavlína rod. Tinková	0	3629
+941	NEŠTÁK Štefan	ž.Pavlína Tinková	0	4654,4659,4661,4662,4730
+941	Neštáková Anna	mal.v r.1949	0	4281
+941	Neštáková Anna	maloletá v r. 1949	0	3706
+941	Neštáková Anna	maloletá v r.1949	0	3526,3705,4622,4623,4633,4774,4776,4784
+941	Neštáková Anna	r.Dedíková m.Ján	0	4661
+941	NEŠTÁKOVÁ Anna		0	4480,4630
+941	NEŠŤÁKOVÁ Anna	mal	0	4661
+941	NEŠŤÁKOVÁ Anna	maloletá	0	1439,3528,3629,3905,4168,4226,4227,4373,4629,4794
+941	Neštáková Anna r. Dedíková	manžel Ján	0	2789,2790,2915,2916,3629,3771,4121,4722,4731,4884
+941	NEŠŤÁKOVÁ Anna r. Dedíková		0	3362
+941	NEŠTÁKOVÁ Emília		0	4186
+941	NEŠTÁKOVÁ Emília	maloletá	0	3526,4623,4776,4784
+941	Nešťáková Eva	r.Podolanová	0	4661
+941	Nešťáková Eva r. Podolanová		0	3153,3629,4528
+941	Neštáková Helena	maloletá	0	3526,4623,4776,4784
+941	NEŠTÁKOVÁ Katarína		0	4599
+941	NEŠTÁKOVÁ Katarína r. Valáková	manžel Matej	0	4627
+941	Neštáková Mária	r.Bulíková	0	3895,3896
+941	NEŠTÁKOVÁ Mária	maloletá	0	3526,3527,3528,3705,3706,4623,4774,4776,4784
+941	NEŠŤÁKOVÁ Mária		0	4584,4633
+941	Neštáková Mária r. Bulíková		0	4554
+941	Neštáková Pavlína	po Jurajovi Nešťákovi a Anne r.Chovancovej	0	3629,4650,4654,4659,4661,4662,4730
+941	NETUCHA Ján		0	4554
+941	NOVÁČKOVÁ Anna	r.Hrevušová	0	4661
+941	NOVÁČKOVÁ Anna r. Hrevušová		0	3629
+941	Ochodnická Anna		0	3629,4650
+941	Ochodnická Anna	nar.22.04.1925	0	4654,4659,4661,4662,4730
+941	OCHODNICKÁ Anna	mal. do r.1930	0	4654,4659,4661,4662,4730
+941	OCHODNICKÁ Anna	maloletá do r.1930	0	3629,4650
+941	OCHODNICKÁ Eva	r.Bačová	0	4654,4659,4661,4662,4730
+941	OCHODNICKÁ Eva r. Bačová		0	3629,4650
+941	Ochodnický Martin		0	3629,4650
+941	Ochodnický Martin	r.Ochodnický,nar.2.11.1923	0	4654,4659,4661,4662,4730
+941	OKRUCKÁ Katarína		0	3912,3913
+941	ONDRÁŠIK Ján		0	3895,3896
+941	Ondrejíčková Anna	r.Revayová	0	3922
+941	OPRCHAL Ján	mal	0	4661
+941	OPRCHAL Štefan	mal	0	4661
+941	OPRCHALOVÁ Mária		0	4661
+941	OPRCHALOVÁ Mária	mal	0	4661
+941	ORAVCOVÁ Anna r. Podolanová		0	3766,3769
+941	Orthová Elena r. Hargašová		0	3995,4684
+941	Pačesová Mária r. Lieskovská		0	2913,3670,4393
+941	PÁSKOVÁ Eva r. Štefániková		0	3697
+941	Pastorek Adam	manželka .Anna rod. Černá	0	3629
+941	Pastorek Adam	manželka Anna r. Černá	0	1323,2929,3527,3847,3848,3916,3917,3920,4269,4293,4295,4296,4300,4301,4307,4514,4536,4578,4620,4622,4631,4636,4651,4663,4719,4722
+941	Pastorek Adam	manželka Anna rod. Černá	0	3629
+941	Pastorek Adam	r.Pastorek,manž.Anna Černá	0	4661
+941	Pastorek Augustín	r.Pastorek,výmaz.mal.čd.595/52	0	4654,4659,4661,4662,4730
+941	Pastorek Augustín	výmaz maloletosti č.d. 595/52	0	3629
+941	Pastorek Augustín	výmaz maloletosti čd.595/52	0	3629,4650
+941	PASTOREK Augustín	syn Jána	0	4554
+941	Pastorek Ján	r.Pastorek,vymaz.mal. 4750/34	0	4654,4659,4661,4662,4730
+941	Pastorek Ján	výmaz maloletosti č.d. 4750/34	0	3629
+941	Pastorek Ján	výmaz.maloletosti čd. 4750/34	0	4650
+941	PASTOREK Ján		0	1387,1450,2682,3411,3413,3414,3415,3823,3824,3895,3896,4041,4356,4358,4385,4388,4458,4548,4554,4571,4683,4684,4863,4864,4865,4874,4886,4887,4888
+941	PASTOREK Ján	manželka Alžbeta r. Dúbravčíková	0	2106,2108,4307
+941	PASTOREK Ján	manželka Júlia r. Pomajbová	0	4216
+941	PASTOREK Ján	manželka Júlia rod. Pomajbová	0	3629
+941	PASTOREK Ján	manželka Katarína r. Chovancová	0	1323,2929,3847,3848,3916,3917,4293,4295,4296,4300,4514,4578,4651
+941	PASTOREK Ján	manželka Katarína r. Stachová	0	3412,4357,4818,4853
+941	PASTOREK Ján	manželka Katarína rod. Chovancová	0	3629,4269
+941	PASTOREK Ján	manželka Katarína rod. Stachová	0	3629
+941	PASTOREK Ján	ž.Katarína Chovancová	0	4661
+941	PASTOREK Ján	ž.Katarína Stachová	0	4661
+941	Pastorek Ján r. Pastorek		0	3895,3896
+941	Pastorek Jaroslav		0	3766,4721
+941	Pastorek Jozef	r.Pastorek,výmaz.mal.čd.1918/46	0	4654,4659,4661,4662,4730
+941	Pastorek Jozef	výmaz maloletosti č.d. 1918/46	0	3629
+941	Pastorek Jozef	výmaz maloletosti čd.1918/46	0	3629,4650
+941	Pastorek Juraj	manželka Anna r. Martáková	0	3733,4842,4878
+941	Pastorek Juraj	manželka Anna r. Mičová	0	1323,2929,3527,3847,3848,3916,3917,3920,4269,4293,4295,4296,4300,4307,4536,4578,4620,4622,4631,4636,4651,4719,4722
+941	Pastorek Juraj	manželka Anna rod. Martáková	0	3629,3911,4160,4165,4173,4855
+941	Pastorek Juraj	manželka Anna rod. Mičová	0	3629
+941	Pastorek Juraj	r.Pastorek,manž.Anna Mičová	0	4661
+941	Pastorek Juraj	r.Pastorek,ž.Anna Martáková	0	4661
+941	Pastorek Juraj	r.Pastorek,ž.Anna Pastorková pod opatrovníctvom ,urbár-N 3/2	0	3895,3896
+941	PASTOREK Juraj		0	1387,1450,2682,3411,3413,3414,3415,3629,3823,3824,3895,3896,4356,4358,4385,4388,4458,4661,4683,4684,4863,4864,4865,4874,4886,4887,4888
+941	PASTOREK Juraj	manželka Anna r. Miklánková	0	3412,4357,4818,4853
+941	PASTOREK Juraj	manželka Anna r. Mišová	0	4296,4514
+941	PASTOREK Juraj	manželka Anna rod. Miklánková	0	3629
+941	PASTOREK Juraj	manželka Katarína rod. Štefániková	0	3629
+941	PASTOREK Juraj	ž.Anna Miklánková	0	4661
+941	PASTOREK Juraj	ž.Katarína Štefániková	0	4661
+941	Pastorek Ľudevít	r.Pastorek,výmaz.mal.čd.1685/50	0	4654,4659,4661,4662,4730
+941	Pastorek Ľudevít	výmaz maloletost čd.1685/50	0	4650
+941	Pastorek Ľudevít	výmaz maloletosti č.d. 1685/50	0	3629
+941	Pastorek Ľudevít	výmaz maloletosti čd.1685/50	0	3629
+941	Pastorek Martin	manželka Anna r. Hrehušová	0	4301,4620,4622,4663,4719
+941	Pastorek Martin	manželka Anna r. Podhradská	0	4533,4614
+941	PASTOREK Martin		0	3629,3895,3896,4650,4654,4659,4661,4662,4730
+941	PASTOREK Martin	mal	0	4654,4659,4661,4662,4730
+941	PASTOREK Martin	maloletý	0	3629,4650
+941	PASTOREK Martin	manželka Mária r. Gorčíková	0	4650
+941	PASTOREK Martin	ž.Mária r.Gorčíková	0	4654,4659,4662,4730
+941	PASTOREK Matej		0	3629,4661
+941	PASTOREK Matúš		0	4650,4654,4659,4662,4730
+941	PASTOREK Michal		0	4483
+941	PASTOREK Mikuláš		0	4483
+941	PASTOREK Milan		0	3895,3896
+941	PASTOREK Miloslav		0	3629,4661
+941	PASTOREK Pavol		0	3629,4650,4654,4659,4661,4662,4730
+941	PASTOREK Pavol	manželka Pavlina r.Kališová	0	4650
+941	PASTOREK Pavol	ž.Pavlina r.Kališová	0	4654,4659,4662,4730
+941	Pastorek Štefan	r.Pastorek,vymaz.mal. 4749/36	0	4654,4659,4661,4662,4730
+941	Pastorek Štefan	r.Pastorek,výmaz.mal.čd.29/44	0	4654,4659,4661,4662,4730
+941	Pastorek Štefan	výmaz maloletosti č.d. 29/44	0	3629
+941	Pastorek Štefan	výmaz maloletosti č.d. 4749/36	0	3629
+941	Pastorek Štefan	výmaz maloletosti čd. 4749/36	0	4650
+941	Pastorek Štefan	výmaz maloletosti čd.29/44	0	3629,4650
+941	PASTOREK Štefan		0	4650,4654,4659,4662,4730
+941	PASTOREK Štefan	mal	0	4654,4659,4661,4662,4730
+941	PASTOREK Štefan	maloletý	0	3629,4650
+941	PASTOREK Štefan	manželka Anna r. Popelková	0	2106,2108,3468,3469,3470,3471,4307,4890
+941	PASTOREK Štefan	manželka Anna rod. Popelková	0	3629
+941	PASTOREK Štefan	manželka Eva r. Podhradská	0	3137,3150,4308,4697
+941	PASTOREK Štefan	manželka Katarína rod. Hrevušová	0	3629,3733,3911,4842,4855,4878
+941	PASTOREK Štefan	syn Jána	0	4554
+941	PASTOREK Štefan	ž.Anna Popelková	0	4661
+941	PASTOREK Štefan	ž.Katarína Hrevušová	0	4661
+941	PASTOREKOVÁ Mária		0	3911,4855
+941	Pastorková Agneša r. Chromá	manžel Ján	0	3057,3058,3059,3060,3063,3064,3875,4256,4257,4692,4745,4857,4882
+941	Pastorková Anna		0	3629,3733,3911,4661,4842,4855,4878
+941	Pastorková Anna	výmaz maloletosti č.d. 164/42	0	3629
+941	Pastorková Anna	výmaz maloletosti čd. 164/42	0	4650
+941	Pastorková Anna	vymaz.mal. 164/42	0	4654,4659,4661,4662,4730
+941	PASTORKOVÁ Anna	mal	0	4661
+941	PASTORKOVÁ Anna	maloletá	0	3629
+941	PASTORKOVÁ Anna	r.Gašparíková	0	4661
+941	PASTORKOVÁ Anna r. Gašparíková		0	3629
+941	PASTORKOVÁ Anna r. Hrevušová		0	4725,4727
+941	Pastorková Anna r. Martáková	manžel Juraj	0	1316,4173
+941	PASTORKOVÁ Anna r. Podhradská		0	4533,4614
+941	PASTORKOVÁ Emília		0	4307
+941	PASTORKOVÁ Eva		0	3629,4650,4654,4659,4661,4662,4730
+941	PASTORKOVÁ Eva r. Podhradská		0	3916,3917,4700
+941	PASTORKOVÁ Eva r. Podhradská	manžel Štefan	0	3527,4312,4697
+941	PASTORKOVÁ Júlia	r.Pomajbová	0	4654,4659,4661,4662,4730
+941	PASTORKOVÁ Júlia r. Pomajbová		0	3629,4650
+941	PASTORKOVÁ Katarína	r.Chovancová	0	4661
+941	PASTORKOVÁ Katarína	r.Miklánková, m.Ján	0	3895,3896
+941	PASTORKOVÁ Katarína r. Hložková		0	3415
+941	Pastorková Katarína r. Hrevušová		0	2106,2108,3468,3469,3470
+941	PASTORKOVÁ Katarína r. Chovancová		0	3412,3629,3851,4357,4382,4818,4853
+941	PASTORKOVÁ Katarína r. Juríková	vdova po Jánovi	0	3924
+941	Pastorková Mária		0	3629,3733,4216,4661,4842,4878
+941	Pastorková Mária	r.Gorčíková, ž.Martina,MLč.943	0	4654,4659,4661,4662,4730
+941	Pastorková Mária	výmaz maloletosti č.d. 2753/44	0	3629
+941	Pastorková Mária	výmaz maloletosti čd. 2753/44	0	4650
+941	Pastorková Mária	vymaz.mal. 2753/44	0	4654,4659,4661,4662,4730
+941	PASTORKOVÁ Mária	r.Krasická	0	3912,3913
+941	Pastorková Mária r. Gorčíková	manžel Martin	0	3629,4650
+941	PASTORKOVÁ Pavlína	r.Kališová,m.Pavol	0	4654,4659,4661,4662,4730
+941	PASTORKOVÁ Pavlína r. Kališová	manžel Pavol	0	3629,4650
+941	Paška Adam	manželka Anna r. Podhradská	0	4436
+941	Paška Adam	ml	0	4032
+941	Paška Adam	r.Paška,ml	0	1340,1342,4436,4437,4439
+941	Paška Adam	výmaz maloletosti č.d. 4397/32	0	3828
+941	Paška Adam	výmaz maloletosti čd. 2997/33	0	1760
+941	Paška Adam	výmaz maloletosti čd. 4397/32	0	4438
+941	Paška Adam	výmaz maloletosti čd.2997/33	0	1763,2008,3739,3830,3857,3955,4042,4043,4069
+941	Paška Adam	výmaz maloletosti čd.4397/32	0	4061,4063,4439
+941	PAŠKA Adam	Švančara, manželka Anna r. Podhradská	0	4439
+941	Paška Adam r. Paška	mladší	0	3978
+941	PAŠKA Ján		0	3629,4650,4654,4659,4661,4662,4730
+941	PAŠKA Ján	mal	0	4654,4659,4661,4662,4730
+941	PAŠKA Ján	maloletý	0	3629,4650
+941	PAŠKA Ján	manželka Eva rod. Martáková	0	4043
+941	Paška Juraj	manželka Alžbeta rod. Gašparíková	0	2645
+941	Paška Juraj	súrodenci Ján, Martin, Anna, Katarína, Adam	0	1760,3739
+941	PAŠKA Juraj	manželka Katarína r. Švorčíková	0	4042
+941	PAŠKA Juraj	manželka Katarína r.Švorčíková	0	3857
+941	PAŠKA Juraj	Švančara	0	4431,4437
+941	Paška Martin	manž.Katarína Hrevušová	0	3830
+941	Paška Martin	r.Paška,súr.Ján,Juraj,Anna,Katarína,Adam	0	4661
+941	Paška Martin	súrodenci Ján, Juraj, Anna, Katarína, Adam	0	1760,3629,3739,4061,4438
+941	PAŠKA Martin		0	3978
+941	PAŠKA Martin	manželka Katarína r. Hrevušová	0	2008
+941	PAŠKA Martin	manželka Katarína rod. Hrevušová	0	1763,3857,4042,4043,4069
+941	PAŠKA Martin	ž.Katarína Hrevušová	0	3955
+941	PAŠKA Pavol		0	4208
+941	Paška Štefan	manželka Anna r. Mazáková	0	1340,1341,1342,4436,4437,4439
+941	Paška Štefan	manželka Anna r. Miklánková	0	4498
+941	Paška Štefan	manželka Anna rod. Mazáková	0	4032,4060
+941	Paška Štefan	ž.Anna Mazáková	0	3978
+941	PAŠKA Štefan		0	1753,1756,3140,3155,3164,3629,3966,4112,4127,4661,4847,4848
+941	PAŠKOVÁ Alžbeta	maloletá	0	3718,3719,3726,4088,4100,4550,4791
+941	Pašková Alžbeta r. Gašparíková	manžel Juraj	0	3629,4438,4555,4661
+941	PAŠKOVÁ Alžbeta r. Gašparíková		0	2645
+941	PAŠKOVÁ Alžbeta r. Mičová		0	3421,3690,3691,3901,4807
+941	PAŠKOVÁ Anna	mal	0	4661
+941	PAŠKOVÁ Anna	maloletá	0	3629,3718
+941	PAŠKOVÁ Anna	výmaz maloletosti čd. 214/28	0	4439
+941	PAŠKOVÁ Anna r. Mazáková		0	3140,3155,3164,3966,4060,4127,4847,4848
+941	PAŠKOVÁ Anna r. Podhradská		0	4436
+941	PAŠKOVÁ Emília r. Rojková		0	3876
+941	PAŠKOVÁ Eva	mal	0	3937,4661
+941	PAŠKOVÁ Eva	maloletá	0	3629,3721,3724,3725,3727,4431
+941	PAŠKOVÁ Eva	r.Lužová	0	4654,4659,4661,4662,4730
+941	PAŠKOVÁ Eva	r.Lužová vdova Martinova	0	4654,4659,4661,4662,4730
+941	PAŠKOVÁ Eva r. Lužová		0	3629,4650
+941	PAŠKOVÁ Eva r. Lužová	Martinova	0	3629
+941	PAŠKOVÁ Eva r. Šimková		0	3045
+941	Pašková Eva r. Štefániková	manžel Ján	0	2855,3529,3690,3691,3692,3693,3694,3696,3701,3901,3998,4003,4010,4016,4022,4570,4612,4807,4899
+941	Pašková Katarína	brat Adam	0	1760,1763,2008,3629,3739,3828,3829,3830,3857,3955,4042,4043,4061,4063,4069,4438,4661
+941	Pašková Katarína	súr.Ján,Juraj,Martin,Anna,Adam	0	4661
+941	Pašková Katarína	súrodenci Ján, Juraj, Martin, Anna, Adam	0	1760,1763,2008,3629,3739,3828,3829,3857,3955,4042,4061,4063,4069,4438,4439
+941	Pašková Katarína	súrodenci Ján, Juraj, Martin, Anna, Adam súrodenci Ján, Juraj, Martin, Anna, Adam	0	3830,4043
+941	PAŠKOVÁ Katarína r. Štefániková	manžel Ján	0	3839,4900
+941	PAŠKOVÁ Mária r. Rojková		0	4208
+941	Paulín Ján	m.Katarína Jakubcová	0	4654,4659,4661,4662,4730
+941	Paulín Ján	manželka Katarína r. Jakubcová	0	3629,4650
+941	Paulín Ján	manželka Katarína rod. Jakubcová	0	3629
+941	Paulín Martin		0	3629,4650,4654,4659,4661,4662,4730

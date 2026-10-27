@@ -1,0 +1,256 @@
+2402	Honko Ondrej	ded.1878, V	0	3433
+2402	Honko Ondrej	ded.1883, XI	0	3433
+2402	Honko Ondrej	ded.1893, II	0	708,1545,5868
+2402	Honko Ondrej	ded.1940	0	3367,6529
+2402	Honko Vavrinec		0	1713,3948
+2402	Honko Vavrinec	ded. 1935, II	0	1695,2860,3366,3512,3948,6536
+2402	Honková Cecília	r.Bôtošová, zomrela 20.11.1968	0	3384,3401
+2402	Honková Cecília	rod.Bôtošová	0	1804,1810,1815
+2402	Honková Cecília	rod.Bôtošová, Cabajová	0	1779
+2402	Honková Cecília r. Bôtošová		0	5916,6172
+2402	Honková Mária		0	3367,6529
+2402	Honková Paulína		0	3367,6529
+2402	Honková Štefánia		0	3367,6529
+2402	Honková Vincencia		0	4250,6018
+2402	Honková Vincencia	ded. 1915, VI	0	1554
+2402	Honková Vincencia	ded.1915	0	1544,3433,3460,3554,4250,6509
+2402	Honková Žofia	r.Hulínová	0	708,1545
+2402	Honková Žofia	rod.Hulínová, ded. 1909, IX	0	1554
+2402	Honková Žofia	rod.Hulínová, ded. 1915, VII	0	1554
+2402	Honková Žofia	rod.Hulínová, ded. 1936, VIII	0	1641
+2402	Honková Žofia r. Hulínová		0	5180,6018
+2402	Houdeková Mária	r.Trsťanová	0	3462
+2402	Houdeková Mária	rod.Trsťanová	0	1644,6430
+2402	Houdeková Mária r. Trsťanová		0	4005
+2402	Hradňan Dominik		0	6189
+2402	Hradňan Dominik	ded. 1923, II, Miko	0	1978
+2402	Hradňan Dominik	Miko	0	1762
+2402	Hradňan Jozef		0	6189
+2402	Hradňan Jozef	ded. 1923, II, Miko	0	1978
+2402	Hradňan Jozef	Miko	0	1762
+2402	Hradňan Martin		0	6189
+2402	Hradňan Martin	ded. 1923, II, Miko	0	1978
+2402	Hradňan Martin	Miko	0	1762
+2402	Hradňan Šimon		0	6189
+2402	Hradňan Šimon	Miko	0	1762
+2402	Hromada Adam		0	1978
+2402	Hromada Cyril		0	5758
+2402	Hromada Cyril	ded. 1928, II	0	1737
+2402	Hromada Filip	zomrel 18.5.1988	0	3403,3650
+2402	Hromada František	Ing., zomrel 20.2.2002	0	3233,3475
+2402	Hromada Ján		0	4152,4190,5758,5942,6148,6263
+2402	Hromada Ján	ded. 1922, X	0	2093
+2402	Hromada Ján	ded. 1927, IV	0	1682,2193,2206
+2402	Hromada Ján	ded. 1927, V	0	2201,3004
+2402	Hromada Ján	ded. 1943, II	0	1962,6411,6415
+2402	Hromada Ján	ded.1927, V	0	3504
+2402	Hromada Karol		0	5758,6148
+2402	Hromada Karol	ded. 1944, III	0	1737,3685
+2402	Hromada Karol	ded.1944, III	0	706,3233,3403,3425,3475,3650
+2402	Hromada Michal		0	1962,4152,4190,4345,5758,6411,6415
+2402	Hromada Michal	ded. 1922, X	0	2093
+2402	Hromada Michal	ded. 1922, XI	0	1978
+2402	Hromada Michal	ded. 1927, IV	0	1682,2193,2206
+2402	Hromada Michal	ded. 1927, V	0	2201,3004
+2402	Hromada Michal	ded.1927	0	3310
+2402	Hromada Michal	ded.1927, IV	0	3504
+2402	Hromada Ondrej		0	1846,4102,5758,5864,5946,6148,6247,6292,6293
+2402	Hromada Ondrej	ded. 1876, IV	0	1806,1810,1815,6129
+2402	Hromada Ondrej	ded. 1904, II	0	1807,1810,1815
+2402	Hromada Ondrej	ded. 1904, III	0	1806,1810,1815,6129
+2402	Hromada Ondrej	ded. 1947, V	0	1737
+2402	Hromada Ondrej	ded.1904, II	0	6148,6247
+2402	Hromada Ondrej	ded.1904, III	0	3371,3477,6075,6290,6291
+2402	Hromada Štefan		0	4152,4190,4284,5102,5609,5758,6148,6239,6263
+2402	Hromada Štefan	ded. 1922, VI	0	2093
+2402	Hromada Štefan	ded. 1922, VII	0	1978
+2402	Hromada Štefan	ded. 1937, III	0	1682,2193,2206
+2402	Hromada Štefan	ded. 1937, IV	0	2201,3004
+2402	Hromada Štefan	Horný	0	1962,6411,6415
+2402	Hromada Štefan	zomrel 25.11.1967	0	3504
+2402	Hromada Vendelín	ded.1927	0	3310
+2402	Hromada Vendelín	ded.1927, IV	0	3504
+2402	Hromadová Alžbeta	r.Pastorková, zomrela 26.4.1966	0	1278,1515,3251,3329,3529,3538,3581,3582,3900,6330
+2402	Hromadová Alžbeta	rod.Pastorková	0	2276,2341,6343
+2402	Hromadová Alžbeta	rod.Pastorková, ded. 1894, IV	0	2281,2325
+2402	Hromadová Alžbeta	rod.Pastorková, ded. 1940, III	0	2283,6344
+2402	Hromadová Alžbeta r. Pastorková		0	4284,5758
+2402	Hromadová Alžbeta r. Pastorková	zomrela 26.4.1966	0	4284
+2402	Hromadová Anna		0	4328
+2402	Hromadová Anna r. Dorinská		0	4284
+2402	Hromadová Antónia		0	1943,1963,4208,4284,5758
+2402	HROMADOVÁ FRANTIŠKA		1	1859,2902,2907,4354,4355,4356,4357,4358,4359,4360,4361,4362,4363,4364,4365
+2402	Hromadová Jozefína		0	5758,6162
+2402	Hromadová Jozefína	ded. 1910, II	0	1618
+2402	Hromadová Jozefína	ded.1910, II	0	3412,3415,3659,3661,6463
+2402	Hromadová Jozefína	r.Bôtošová, zomrela 19.7.2001	0	3475
+2402	Hromadová Júlia		0	1962,4152,4190,4284,5758,6155,6411,6415
+2402	Hromadová Júlia	ded. 1922, VII	0	1978
+2402	Hromadová Júlia	ded. 1922, VIII	0	2093
+2402	Hromadová Júlia	ded. 1927, IV	0	1682,2193,2206
+2402	Hromadová Júlia	ded. 1927, V	0	2201,3004
+2402	Hromadová Júlia	ded.1918, II	0	3652
+2402	Hromadová Júlia	ded.1927	0	3310
+2402	Hromadová Júlia	ded.1927, IV	0	3504
+2402	Hromadová Katarína	rod.Pápežová, ded. 1937, II	0	2232
+2402	Hromadová Katarína r. Pápežová		0	4152,5275,5872,5887
+2402	Hromadová Magdaléna		0	4284
+2402	Hromadová Magdaléna	r.Bôtošová, zomrel 22.6.1956	0	3384,3391,6555
+2402	Hromadová Magdaléna	rod.Bôtošová	0	1804,1810,1815
+2402	Hromadová Magdaléna r. Bôtošová		0	5758,5872,6172
+2402	Hromadová Mária	r.Bôtošová vd	0	706,3233,3403,3425,3475,3651,6340
+2402	Hromadová Mária	rod.Bôtošová	0	3685
+2402	Hromadová Mária r. Bôtošová		0	5654,5758,6162
+2402	Hromadová Paulína r. Pekná		0	4152
+2402	Hromadová Štefánia	r.Hollá, zomrela 25.1.1999	0	313,1205
+2402	Hromadová Štefánia	r.Jančeková, zomrel 26.6.1981	0	487
+2402	Hromadová Verona	zomrela 11.2.1945	0	3403,3650
+2402	Hromadová Vincencia	rod.Sudorová	0	2201,3004
+2402	Hromadová Vincencia r. Sudorová		0	5872
+2402	Hromadová Žofia	rod.Jasenovcová	0	1692,1960,1968
+2402	Hromadová Žofia r. Jasenovcová		0	5463,5758,5872
+2402	Hudáň Jozef		0	425,3790,4328
+2402	Hudáň Jozef	Syn Štefana	0	3452
+2402	Hudan Štefan		0	3929,4328
+2402	Hudáň Štefan	Eliš	0	425,3790
+2402	HUDAŇA JÁN		1	1859,2902,2907,4354,4355,4356,4357,4358,4359,4360,4361,4362,4363,4364,4365
+2402	HUDAŇA MARTIN		1	1859,2902,2907,4354,4355,4356,4357,4358,4359,4360,4361,4362,4363,4364,4365
+2402	HUDAŇA ŠTEFAN		1	1859,2902,2907
+2402	HUDAŇOVÁ ANTÓNIA		1	1859,2902,2907,4354,4355,4356,4357,4358,4359,4360,4361,4362,4363,4364,4365
+2402	Hudaňová Eugénia		0	4101
+2402	Hudaňová Eugénia	ded. 1934, III, Eliášová	0	1578,2355,2356
+2402	Hudáňová Eugénia	ded.1934, III, Elišová	0	246,3452,3551,3552,3553,3561,6346,6363,6475
+2402	Hudaňová Eugénia, Eliášová Eliášová		0	5887
+2402	Hudaňová Jozefína		0	4101
+2402	Hudaňová Jozefína	ded. 1934, III, Eliášová	0	1578,2355,2356
+2402	Hudáňová Jozefína	ded.1934, III, Elišová	0	246,3452,3551,3552,3553,3561,6346,6363,6475
+2402	Hudaňová Jozefína, Eliášová Eliášová		0	4085
+2402	HUDAŇOVÁ MARGITA		1	1859,2902,2907,4354,4355,4356,4357,4358,4359,4360,4361,4362,4363,4364,4365
+2402	Hudáňová Margita r. Zbýňovcová		0	1533,4101,4375,6511
+2402	Hudaňová Paulína		0	4085,4101
+2402	Hudaňová Paulína	Eliášová	0	1578,2355,2356
+2402	Hudáňová Paulína	Elišová	0	246,3452,3551,3552,3553,3561,6346,6363,6475
+2402	HUDAŇOVÁ ŽOFIA		1	1859,2902,2907,4354,4355,4356,4357,4358,4359,4360,4361,4362,4363,4364,4365
+2402	Hulín Ambróz		0	6159
+2402	Hulín Ambróz	ded. 1906, III	0	1852
+2402	Hulín Ambróz	ded.1906, III	0	817,3642
+2402	Hulín Anton		0	3925,4099,4608,5744
+2402	Hulín Anton	ded. 1911, VIII, Bôtoš	0	1882,2313
+2402	Hulín Anton	ded. 1922, XIV, Bôtoš	0	2241
+2402	Hulín Anton	ded. 1937, VI, Bôtoš	0	1882
+2402	Hulín Anton	ded. 1937, VII, Bôtoš	0	1882
+2402	Hulín Anton	ded.1910, Bôtoš	0	3314
+2402	Hulín Anton	ded.1911, VIII, Bôtoš	0	2314,3177,3533,3569
+2402	Hulín Anton	ded.1920, II, Bôtoš	0	3314
+2402	Hulín Anton	ded.1937, VI, Bôtoš	0	2362,3177
+2402	Hulín Filip		0	262,767,1791,1802,3465,4099,6261,6504
+2402	Hulín Filip	Bôtoš	0	1882,2362,3177,4099
+2402	Hulín Ignác		0	5060
+2402	Hulín Ignác	Bôtoš	0	3314
+2402	Hulín Ignác	ded. 1928, II, Bôtoš	0	2241
+2402	Hulín Ignác	ded.1928, II, Bôtoš	0	3314
+2402	Hulín Imrich		0	1852,5744,6182
+2402	Hulín Imrich	Bôtoš	0	2237
+2402	Hulín Izidor		0	5752
+2402	Hulín Ján		1	4354,4355,4356,4357,4358,4359,4360,4361,4362,4363,4364,4365,5301,5744,6070
+2402	Hulín Ján	Bôtoš	0	1426
+2402	Hulín Ján	Bôtoš, zomrel 2.3.1955	0	2314,3177,3314,3533,3569,6301
+2402	Hulín Ján	ded. 1911, IV, Bôtoš	0	1882,2313
+2402	Hulín Ján	ded. 1924, VII, Bôtoš	0	2238
+2402	Hulín Ján	ded. 1927, III, Bôtoš	0	2289,6448
+2402	Hulín Ján	ded. 1928, VIII, Bôtoš	0	1882,2241,2313
+2402	HULÍN JÁN - HORNÝ		1	1859,2902,2907
+2402	Hulín Ján, Bôtoš Bôtoš		0	5473
+2402	Hulín Jozef		0	1893,3314,5229,5744
+2402	Hulín Jozef	ded. 1947, III	0	1882,2241,2313
+2402	Hulín Jozef	ded.1947, III	0	2261,3177,3925
+2402	Hulín Jozef	ž.Zuzana Kulich	0	3641
+2402	Hulin Juraj		0	6548,6551,6552
+2402	Hulín Karol		0	1882,2241,2261,2313,3177,5744
+2402	Hulín Martin		0	1882,2313,2314,3177,3533,3569,3972,4022,4099,4474,5735,5744,6159
+2402	Hulín Martin	Bôtoš	0	3314
+2402	Hulín Martin	Bôtoš Ml	0	3314
+2402	Hulín Martin	ded. 1920, XXIII, Bôtoš	0	1425
+2402	Hulín Martin	ded. 1922, XVI, Bôtoš	0	2241
+2402	Hulín Martin	ded. 1927, VI, Bôtoš	0	2289,6448
+2402	Hulín Martin	ded. 1928, XVII, Bôtoš	0	1882,2241,2313
+2402	Hulín Martin	ded. 1934, V	0	1893,1903,1927
+2402	Hulín Martin	ded. 1936, VII	0	1852
+2402	Hulín Martin	ded.1920, II, Bôtoš	0	3314
+2402	Hulín Martin	ded.1928, XVII	0	2314,3177,3533,3569,5735
+2402	Hulín Martin	ded.1934, V	0	3382,3385
+2402	Hulín Matej		0	817,1852,3642,4758,5744,6251
+2402	Hulin Mihalec Juraj		0	6550,6551,6552
+2402	Hulín Mihalec Vincent		0	6548,6550,6551,6552
+2402	Hulin Michalec Štefan	žen. so Žofiou Kozarcovou	0	6272
+2402	Hulín Mikuláš		1	1733,1735,1852,1859,2902,2907,3238,4354,4355,4356,4357,4358,4359,4360,4361,4362,4363,4364,4365,5945,6254,6356,6595
+2402	Hulín Mikuláš	ded. 1907, II	0	1733,1735,1852
+2402	HULÍN MIKULÁŠ - DOLNÝ		1	1859,2902,2907
+2402	Hulín Ondrej		0	4220,4231,4395,6033,6159,6182
+2402	Hulín Ondrej	Bôtoš	0	1882,3177,4220
+2402	Hulín Ondrej	Bôtoš; Bôtoš	0	2362
+2402	Hulín Ondrej	ded. 1934, V	0	1893,1903,1927
+2402	Hulín Ondrej	ded. 1937, IV	0	1852
+2402	Hulín Ondrej	ded.1927, II	0	3403,3650
+2402	Hulín Ondrej	ded.1934, V	0	3382,3385
+2402	Hulín Ondrej	ded.1937, IV	0	817,3642
+2402	Hulín Peter		0	1882,2241,2313,4261,5744
+2402	Hulín Peter	ded. 1930, II	0	1893,1927
+2402	Hulín Peter	ded.1930, II	0	3382
+2402	Hulín Peter	Ž.H.Sedliaková	0	2261,3177,6033
+2402	Hulín Šimon		0	3403,3650,4395,6182
+2402	Hulín Štefan		1	4099,4261,4354,4355,4356,4357,4358,4359,4360,4361,4362,4363,4364,4365,5614,5744,6182,6548
+2402	Hulín Štefan	ded. 1908, XI	0	1882
+2402	Hulín Štefan	ded. 1944, VII	0	1852
+2402	Hulín Štefan	ded.1904	0	3314
+2402	Hulín Štefan	ded.1908, XI	0	3177,3533,3569
+2402	Hulín Štefan	ded.1919	0	3642
+2402	Hulín Štefan	ded.1935, V	0	3403,3650
+2402	Hulín Štefan	ded.1944, VII	0	3642
+2402	HULÍN ŠTEFAN - HORNÝ		1	1859,2902,2907
+2402	Hulín Vincent		1	4023,4281,4354,4355,4356,4357,4358,4359,4360,4361,4362,4363,4364,4365,5903,5906,6159,6548,6550,6551,6552
+2402	Hulín Vincent	ded. 1907, II	0	1852
+2402	Hulín Vincent	ded. 1907, III	0	1903
+2402	Hulín Vincent	ded. 1907, XII	0	1903
+2402	Hulín Vincent	ded. 1931, XI	0	1733,1735
+2402	Hulín Vincent	ded.1907, I	0	3385
+2402	Hulín Vincent	ded.1907, II	0	3385
+2402	Hulín Vincent	ded.1931, XI	0	3238,4261,6356,6595
+2402	HULÍN VINCENT - HORNÝ		1	1859,2902,2907
+2402	Hulinko Juraj		0	6347,6349,6350
+2402	Hulinková Paulína r. Babčanová		0	6347,6349,6350
+2402	Hulínová Agneša		0	1852,3642,6159,6548
+2402	Hulínová Agneša	ded. 1942, IV	0	1893,1903,1927
+2402	Hulínová Agneša	ded. 1944, II	0	1893,1927
+2402	Hulínová Agneša	ded.1942, IV	0	3382,3385
+2402	Hulínová Agneša	ded.1944, II	0	3382
+2402	Hulinová Agneša r. Michalcová		0	6335
+2402	Hulínová Alojzia		0	1882,2241,2261,2313,3177,5744,5824
+2402	HULÍNOVÁ ALŽBETA		1	1859,2902,2907,4354,4355,4356,4357,4358,4359,4360,4361,4362,4363,4364,4365
+2402	Hulinová Anna		0	6548,6551
+2402	Hulinová Anna r. Michalcová		0	6335
+2402	Hulínová Barbora r. Zubeková		0	6251
+2402	Hulínová Eva		0	1893,1927,3382,4072,6159
+2402	Hulínová Eva	r.Elogová, zomrel 14.1.1939	0	817,3642
+2402	Hulínová Eva	rod.Elogová, ded. 1936, IV	0	1852
+2402	Hulínová Eva r. Elogová		0	4072
+2402	Hulínová Františka	Bôtošová	0	1882,3177,6070
+2402	Hulínová Františka	Bôtošová; Bôtošová	0	2362
+2402	HULÍNOVÁ FRANTIŠKA		1	1859,2902,2907,4354,4355,4356,4357,4358,4359,4360,4361,4362,4363,4364,4365,6070
+2402	Hulínová Jana		0	4343,5791
+2402	Hulínová Jana	ded. 1898, II	0	1893,1927
+2402	Hulínová Jana	ded. 1898, III	0	1733,1735
+2402	Hulínová Johana		0	5510,5791,6001,6159
+2402	Hulínová Johana	ded. 1898, III	0	1893,1927
+2402	Hulínová Johana	ded. 1901, IV	0	1733,1735
+2402	Hulínová Johana	ded. 1905, V	0	1810,1815
+2402	Hulínová Johana	zomrela 18.11.1941	0	3238,3381,3382,3385,4343,6356,6595
+2402	Hulínová Jozefína		0	4032,6251
+2402	Hulínová Jozefína	ded. 1898, VI	0	1893,1927
+2402	Hulínová Jozefína	ded. 1898, VII	0	1733,1735
+2402	Hulínová Jozefína	ded. 1930, III	0	1893,1927
+2402	Hulínová Jozefína	ded. 1939, IV	0	1852
+2402	Hulínová Jozefína	ded. 1942, IX	0	1893,1903,1927
+2402	Hulínová Jozefína	ded. 1944, V	0	1893,1927
+2402	Hulínová Jozefína	ded.1898, VII	0	3238,3382,4032,6356,6595
+2402	Hulínová Jozefína	ded.1930, III	0	3382

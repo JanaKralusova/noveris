@@ -1,0 +1,256 @@
+3046	Mészároš Karol	otec Štefan,Budapest,MR	0	3209
+3046	Mészároš Koloman	otec Jozef	0	2043,4121,4122,4389,5210,5211,5902,7230
+3046	Mészároš Ľudovít	brat Viktorie,Júliusa,Františka	0	4022,5635
+3046	Mészároš Ľudovít	matka Eva Vidová	0	6476
+3046	Mészároš Ľudovít	matka Mária r.Czibulková	0	5724
+3046	Mészároš Ľudovít	r.Mészároš	0	5115,5957
+3046	Mészároš Ľudovít	r.Mészároš,ž.Anna r.Baloghová; ž.Anna r.Baloghová	0	3424
+3046	Mészároš Ľudovít	r.Mészároš,ž.Viktoria r.Mojzešová; ž.Viktoria r.Mojzešová	0	5511
+3046	Mészároš Ľudovít	súr.Jozef,František	0	5649
+3046	Mészároš Martin		0	3944
+3046	Mészároš Michal	r.Mészároš,ž.Rozália r.Ludasová; ž.Rozália r.Ludasová	0	5321
+3046	Mészároš Štefan	r.Mészároš,matka Terézia r.Vinczeová; matka Terézia r.Vinczeová	0	5542
+3046	Mészároš Vincent	matka Mária r.Baloghová	0	5615,5646
+3046	Mészároš Vincent	matka Rozália r.Mészárošová	0	3209
+3046	Mészároš Vincent	r.Mészároš,mal.súr.Matilda Aghová,Jozef,Mária Bujáková, zom.; mal.súr.Matilda Aghová,Jozef,Mária Bujáková, zom	0	5567,5690
+3046	Mészároš Vincent	súr.Mária Tothová,Rozália	0	2342,2485,2486,2487,2491,5094,7134
+3046	Mészároš Vincent	vl. č. 4254	0	6013
+3046	Mészároš Vincent	ž.Katarína r.Ruzsiková	0	2477,3947
+3046	Mészárošová Alžbeta	r.Csányiová	0	2704,2705,2706,2707,2708,2868,3346,5082,5934
+3046	Mészárošová Alžbeta	súr.Matilda Aghová,Mária Bujáková	0	5567,5690
+3046	Meszarošová Alžbeta r. Hegedüsová		0	3060
+3046	Mészárošová Anna	r.Baloghová	0	3424
+3046	Mészárošová Júlia	r.Mészárošová	0	6270
+3046	Mészárošová Júlia	r.Tothová	0	2560,2561,7192
+3046	Mészárošová Katarína	r.Tothová	0	5645
+3046	Mészárošová Marcela	r.Kuruczová	0	6120
+3046	Mészárošová Margita	mal.otec Gustáv	0	2683
+3046	Mészárošová Margita	mal.súr.Matilda Aghová,Mária Bujáková	0	5567,5690
+3046	Meszárošová Mária	r.Borbélyová	0	3943
+3046	Mészárošová Mária	r.Borbélyová,m.Vincent; m.Vincent	0	3369
+3046	Mészárošová Mária	r.Tothová	0	6354
+3046	Mészárošová Mária	r.Valíčková	0	6365,6366
+3046	Mészárošová Matilda	r.Borbélyová,zom.19.02.1977, m.Štefan; zom.19.02.1977, m.Štefan	0	5621
+3046	Mészárošová Rozália	r.Mojzešová	0	2738,3069,5208,5209,6325
+3046	Mészárošová Rozália	súr.Mária Tothová,Vincent	0	2342,2485,2486,2487,2491,5094,7134
+3046	Mészárošová Viktoria		0	3648
+3046	Mészárošová Vilma	r.Benková	0	1935
+3046	Mészárošová Vilma	r.Ružíková	0	2043,2584
+3046	Mészárošová Vilma	súr.Anna,Gejza,Ján,Rozália	0	3899,7224
+3046	Mézeš Jozef	ž.Vilma r.Tothová	0	5361,5362
+3046	Mézešová Vilma	r.Tothová,zom.09.10.1969, m.Jozef; zom.09.10.1969, m.Jozef	0	5361,5362
+3046	Micsek Ľudovít, SR		0	4764
+3046	Miček Ľudovít	r.Miček,zom.03.02.1968, ž.Katarína r.Baloghová; zom.03.02.1968, ž.Katarína r.Baloghová	0	2414,5582
+3046	Miček Vincent	r.Miček,ž.Terézia r.Diosiová, zom.17.02.1959; ž.Terézia r.Diosiová, zom.17.02.1959	0	5936
+3046	Mičeková Anna	r.Juhászová	0	3651,3900,3902,3903,3904,5894
+3046	Mičeková Anna	r.Tothová	0	2994,3427,4105,4106,4107,4108,4109,4998,7174,7228
+3046	Mičeková Anna	sestra Mária	0	2577,3562,5582
+3046	Mičeková Katarína	r.Baloghová	0	4050,7094
+3046	Mičeková Mária	sestra Anna	0	2577,3562,5582
+3046	Mičeková Terézia	r.Diosiová	0	5936
+3046	Mijakičová Mária	r.Juhászová	0	3651,3900,3902,3903,3904,5894
+3046	Mindák Jozef	ž.Mária r. Kelemenová	0	2647,4995
+3046	Mindáková Mária	r.Kelemenová	0	2647,4995
+3046	Mitlík Ján		0	3736
+3046	Moder Michal	ž.Mária r.Dubajová	0	5376
+3046	Moderová Mária	r.Dubajová	0	5376
+3046	Modranská Katarína	r.Gyureková,m.Ladislav; m.Ladislav	0	3395
+3046	Modranská Vilma	r.Gyureková,m.Július; m.Július	0	6179
+3046	MOJZES FRANTISEK		0	2422,2423,2424,2425,2426,2427,3506,3599,7110
+3046	MOJZES JAN		0	2422,2423,2424,2425,2426,2427,7110
+3046	Mojzes Ján	r.Mojzes,ž.Júlia r.Kissová; ž.Júlia r.Kissová	0	6119
+3046	Mojzes Ján r. Mojzes a Júlia Mojzesová r. Kissová		0	5865
+3046	Mojzes Karol	r.Mojzes,ž.Rozália r.Mészárošová; ž.Rozália r.Mészárošová	0	5323
+3046	Mojzes Ľudovít	r.Mojzes,mal.súr.Mária Bédiová,Anna Csányiová; mal.súr.Mária Bédiová,Anna Csányiová	0	6335,6475
+3046	Mojzes Michal		0	2422,2423,2424,2425,2426,2427,7110
+3046	Mojzes Michal	maloletý	0	6335
+3046	MOJZES PAVEL		0	2422,2423,2425,2426,2428,7110
+3046	Mojzes Pavol		0	2424,2427
+3046	Mojzes Štefan r. Mojzes		0	5026
+3046	Mojzesová Helena		0	2423,2424,2425,2426,2427,7110
+3046	Mojzesová Júlia		0	2423,2424,2425,2426,2427,7110
+3046	Mojzesová Júlia	vl.č.4386	0	6423
+3046	Mojzesová Katarína	r.Juhászová	0	3074,5933
+3046	Mojzesová Katarína	r.Vanyová	0	2575
+3046	MOJZESOVA MARIA R.BOROSOVA		0	3832,3833
+3046	MOJZESOVA ROZALIA		0	2422,2423,2424,2425,2426,2427,4599,7110
+3046	Mojzesová Rozália	r.Mészárošová	0	2401,5321,5323,5998
+3046	Mojzeš František	r.Mojzeš,deti František a Štefan, zom.13.01.1954; deti František a Štefan, zom.13.01.1954	0	3995
+3046	Mojzeš František	r.Mojzeš,ml.,ž.Katarína r.Juhászová, otec František,zom.r.19; ml.,ž.Katarína r.Juhászová, otec František,zom.r.19	0	2453,2456,2922,3932,3935,3995,5996
+3046	Mojzeš František	r.Mojzeš,ž.Viktoria r.Borbélyová; ž.Viktoria r.Borbélyová	0	3697
+3046	Mojzeš Gejza		0	4599
+3046	Mojzeš Gejza	súr.Mária Baloghová,Marcela,Ľudovít,Anna	0	2533,2777,2778,5587
+3046	Mojzeš Ján	matka Barbara r.Borbélyová	0	3697
+3046	Mojzeš Ján	ž.Anna r.Kissová	0	3171,3172,5291
+3046	Mojzeš Ján	ž.Helena r.Bogdányová	0	2742
+3046	Mojzeš Jozef	r.Mojzeš,mal.; mal	0	2453,2456
+3046	Mojzeš Ľudovít		0	4599
+3046	Mojzeš Ľudovít	r.Mojzeš,mal. súr.Anna; mal. súr.Anna	0	6137
+3046	Mojzeš Ľudovít	súr.Mária Baloghová,Gejza,Marcela,Anna	0	2533,2777,2778,5587
+3046	Mojzeš Michal	mal. 1936	0	6475
+3046	Mojzeš Michal	r.Mojzeš,mal.vl.č.2127; mal.vl.č.2127	0	6137
+3046	Mojzeš Michal	r.Mojzeš,ž.Ema r.Vassová; ž.Ema r.Vassová	0	3697
+3046	Mojzeš Pavel	matka Barbara r.Borbélyová	0	3697
+3046	Mojzeš Pavol, SR		0	4852
+3046	Mojzeš Štefan	r.Mojzeš,ž.Júlia; ž.Júlia	0	6131
+3046	Mojzešová Anna		0	4599
+3046	Mojzešová Anna	mal. súr.Ľudovít	0	6137
+3046	Mojzešová Anna	r.Kišová	0	3171,5291
+3046	Mojzešová Anna	súr.Gejza,Mária Baloghová,Marcela,Tereza	0	2533,2777,2778,5587
+3046	Mojzešová Anna r. Kišová		0	3172
+3046	Mojzešová Ema	r.Pálová,predtým Borbélyová, m.František, Gejza; predtým Borbélyová, m.František, Gejza	0	2894
+3046	Mojzešová Eva	r.Bédiová,m.Gašpar; m.Gašpar	0	6334,6335
+3046	Mojzešová Eva r. Bédiová		0	2986
+3046	Mojzešová Helena	súr.Rozália,Fero,Michal,Pavol,Júlia,Ján	0	3697
+3046	Mojzešová Júlia	m.Štefan	0	6131
+3046	Mojzešová Júlia	mal.súr.Rozália,Fero,Michal,Pavol,Ján	0	3697
+3046	Mojzešová Júlia	r.Fučíková	0	2453,2456
+3046	Mojzešová Katarína	r.Ludašová	0	6330
+3046	Mojzešová Margita	mal	0	2453,2456
+3046	Mojzešová Mária		0	5596
+3046	Mojzešová Mária	r.Hamarová	0	1453,6065
+3046	Mojzešová Rozália	mal	0	2453,2456
+3046	Mojzešová Rozália	matka Barbara r.Borbélyová	0	3697
+3046	Mojzešová Terézia		0	4599
+3046	Mojzešová Terézia	súr.Gejza,Mária Baloghová,Marcela,Anna	0	2533,2777,2778,5587
+3046	Mojzešová Valéria		0	6061
+3046	Mojzešová Valéria	matka Júlia Vitková	0	6094
+3046	Mojžiš František	súr.Mária Vaňová,František,Michal,Júlia	0	6380
+3046	Mojžiš Ján	r.Mojžiš,súr.Mária Vaňová,František,Michal,Júlia; súr.Mária Vaňová,František,Michal,Júlia	0	6380
+3046	Mojžiš Michal	súr.Mária Vaňová,František,Michal,Júlia	0	6380
+3046	Mojžiš Pavol	súr.Mária Vaňová,František,Michal,Júlia	0	6380
+3046	Mojžišová Helena	súr.Mária Vaňová,František,Michal,Júlia	0	6380
+3046	Mojžišová Júlia	súr.Mária Vaňová,František,Michal,Pavol	0	6380
+3046	Mojžišová Rozália	súr.Mária Vaňová,František,Michal,Júlia	0	6380
+3046	Molnár Daniel	ž.Klára r.Ivánová	0	6276
+3046	Molnár Ján	r.Molnár,ž.Apolonia r.Korosová; ž.Apolonia r.Korosová	0	6239,6461,6511
+3046	Molnár Ľudovít		0	2766,3060
+3046	Molnár Ľudovít	r.Molnár,ž.Klára r. Andová; ž.Klára r. Andová	0	6458
+3046	Molnár Pavol	brat Štefan	0	6285
+3046	Molnár Štefan	brat Pavol	0	6285
+3046	Molnárová Apolonia	r.Korosová,m.Ján; m.Ján	0	6239,6461,6511
+3046	Molnárová Estera	matka Estera r.Seresová	0	6466
+3046	Molnárová Estera	r.Darocová	0	6493
+3046	Molnárová Estera	r.Kurthy,otec David matka Tereza r.Nagy; otec David matka Tereza r.Nagy	0	6467
+3046	Molnárová Etela	r.Rybanská	0	3977,6520
+3046	Molnárová Juliana	r.Kurthy,otec David matka Tereza r.Nagy; otec David matka Tereza r.Nagy	0	6467
+3046	Molnárová Katarína	r.Urbanová,m.Jozef; m.Jozef	0	5746,6577
+3046	Molnárová Klára	r.Ivánová,m.Daniel; m.Daniel	0	6276
+3046	MOLNAROVA KLARA R.ANDOVA		0	3299
+3046	Molnárová Lídia	r.Pálová	0	2946
+3046	Molnárová Terézia	r.Molnárová	0	6466
+3046	Moravčík Imrich		0	3480
+3046	Moravčíková Viktoria	r.Farkašová,po Florianovi; po Florianovi	0	5364,5367
+3046	Moriczová Mária	r.Vitková	0	6005
+3046	Morovič Adrian	r.Morovič,ž.Mária r.Ludašová d. úmrtia 27.10.1970; ž.Mária r.Ludašová d. úmrtia 27.10.1970	0	3361
+3046	Morvai Štefan	matka Katarína Bujáková	0	3926,5310
+3046	Morvaiová Mária	r.Lászlová,d. úmrtia 18.08.0195; d. úmrtia 18.08.0195	0	5310
+3046	MORVAIOVA MARIA R.VANYOVA		0	2555
+3046	Morvay František	manž. Helena r. Péterffiová	0	5598,6237,6521
+3046	Morvay Július	konfiškované	0	3613,4922,7186
+3046	Morvay Július	r.Morvay,otec Ján,brat Ľudovít, d. úmrtia 07.07.1982; otec Ján,brat Ľudovít, d. úmrtia 07.07.1982	0	3318,4697
+3046	Morvayová Helena	r.Péterffiová	0	6237,6521
+3046	Moyzesová Júlia r. Uzsovasová		0	1040
+3046	MRAZIKOVA MARIA R.GOMBIKOVA		0	3279
+3046	Mužíková Gabriela	r.Šalamonová	0	6123
+3046	Nagy Ambroz	r.Nagy,ž.Karolína r.Andová; ž.Karolína r.Andová	0	6281
+3046	Nagy Beno	r.Nagy	0	6487
+3046	Nagy Ján	r.Nagy,mal.; mal	0	6485
+3046	Nagy Karol	ž.Helena r.Soresová	0	2478,6188
+3046	Nagy Koloman	matka Mária r.Csicsmanová	0	6287
+3046	Nagy Ľudovít	r.Nagy,ž.Lídia r.Csizmadiová; ž.Lídia r.Csizmadiová	0	6299
+3046	Nagyová Helena	r.Soresová,m.Karol; m.Karol	0	2478,6188
+3046	Nagyová Ida	r.Birová	0	6291
+3046	Nagyová Júlia	r.Serešová,m.Koloman; m.Koloman	0	6457
+3046	Nagyová Karolína	r.Andová,m.Ambróz; m.Ambróz	0	6281
+3046	Nagyová Lídia	r.Csizmadiová,m.Ludovít; m.Ludovít	0	6299
+3046	Nagyová Mária r. Horňáková		0	4694,6984
+3046	Nagyová Terézia	r.Árendášová	0	3937,4128,5231
+3046	Nagyová Terézia r. Árendásová		0	3155,3682,4125,4127,7071
+3046	Némethová Júlia	r.Vanyová,m.Karol; m.Karol	0	4975
+3046	Neumannová Ema	r.Seboková,m.Jozef; m.Jozef	0	3395
+3046	Neznámy vlastník		0	5608,6666
+3046	Nothof František	súr.Martin,Terézia	0	3395
+3046	Nothof Martin	súr.František,Terézia	0	3395
+3046	Nothofová Terézia	súr.Martin,František	0	3395
+3046	Novák Imrich	r.Novák,ž.Anna r.Ričková; ž.Anna r.Ričková	0	5694
+3046	Nováková Anna	r.Ričková,m.Imrich; m.Imrich	0	5694
+3046	Novotová Terézia	r.Birkušová	0	5537,5542
+3046	Novotová Terézia r. Birkusová		0	3761
+3046	Oláh Ambroz	r.Oláh,ž.Helena r.Vargová; ž.Helena r.Vargová	0	6455
+3046	Oláhová Ema	r.Csandová,m.Štefan; m.Štefan	0	2495
+3046	Oláhová Helena	r.Vargová,m.Ambroz; m.Ambroz	0	6455
+3046	Oláhová Matilda	r.Farkašová,m.Štefan; m.Štefan	0	5354
+3046	Oláhová Terézia	r.Ciroková,m.Gabriel; m.Gabriel	0	5370,5371
+3046	Oltáriová Viktória r. Vargová		0	3341
+3046	OLVECKA MARIA R.REMENYIOVA		0	3409
+3046	Onyalaiová Mária	r.Farkašová,m.Ján; m.Ján	0	5354
+3046	Oravcová Gizela	r.Cibulková	0	4051,4114,6034,6434,7095
+3046	ORISKO AMBROZ		0	3398
+3046	ORISKO JOZEF		0	2728
+3046	ORISKO JULIUS		0	3398
+3046	ORISKOVA HELENA R. LENCSESOVA		0	3712
+3046	ORISKOVA MARIA R.FEHEROVA		0	2728
+3046	Oríšková Alžbeta r.Lászlóová		0	3736
+3046	Orosziová Helena		0	5347
+3046	ORSZAGOS FOLDHITELINTEZET		0	3285
+3046	Ortová Vilma	r.Gyureková,m.Benedik; m.Benedik	0	3395
+3046	Pál František	matka Rozália r.Czibulková	0	6431
+3046	Pál František	súr.Vincent,Július,Marcela,Ján,Anna	0	4114
+3046	Pál Ján	matka Rozália r.Czibulková	0	6431
+3046	Pál Ján	r.Pál,súr.Vincent,Július,Marcela,Barbora,Anna, zom.02.06.198; súr.Vincent,Július,Marcela,Barbora,Anna, zom.02.06.198	0	6165
+3046	Pál Jozef	r.Pál,ž.Estera r.Totohová; ž.Estera r.Totohová	0	6304
+3046	Pál Július	matka Rozália r.Czibulková	0	6431
+3046	Pál Július	r.Pál,ž.Vilma r.Szabová; ž.Vilma r.Szabová	0	5643
+3046	Pál Július	súr.Vincent,Marcela,František,Ján,Anna	0	5912
+3046	Pál Michal	matka Agnesa r. Uzsorásová	0	2894
+3046	Pál Vincent	matka Rozália r.Czibulková	0	6431
+3046	Pálfyová Júlia	r.Vanyiková	0	6227
+3046	Pálová Anna	matka Rozália r.Czibulková	0	6431
+3046	Pálová Anna	vl.č.1577	0	4546
+3046	Pálová Barbora	matka Rozália r.Czibulková	0	6431
+3046	Pálová Barbora	súr.Vincent,Július,Marcela	0	5512
+3046	Pálová Estera	r.Tothová,m.Jozef; m.Jozef	0	6304
+3046	Pálová Júlia	r.Szekanová,m.František; m.František	0	6136
+3046	Pálová Marcela	matka Rozália r.Czibulková	0	6431
+3046	Pálová Mária		0	4235,4623
+3046	Pálová Vilma	matka Lídia r.Andová	0	2946
+3046	Pálová Vilma	r.Szabová,m.Július; m.Július	0	3406,5643,5899,6481,6482
+3046	Pap František r. Pap		0	2075
+3046	Pap Karol	poručiteľ Marcela Benczeová r.Papová	0	5441
+3046	Pap Karol	r.Pap,ž.Mária r.Bogdányová; ž.Mária r.Bogdányová	0	2861,3121,3385,3880,3881,4892,4893,4894,4896,5631,5922
+3046	Pap Karol r. Pap		0	2075,4897
+3046	Pap Koloman	č.domu 535	0	5716
+3046	PAPAY IVAN		0	3806,4273
+3046	PAPAY JOZEF		0	2339
+3046	PAPAY MICHAL		0	3806,4273
+3046	Pápay Peter Pavol	r.Pápay,mal.; mal	0	4273
+3046	PAPAY PETER PAVOL,ml.		0	3806
+3046	PAPAYOVA GIZELA		0	3806,4273
+3046	Pápayová Magdaléna	r.Vrebová,m.Elek; m.Elek	0	6225
+3046	Papová Ema	r.Bujáková,m.Jozef; m.Jozef	0	6174
+3046	Papová Mária r. Bogdányová		0	2075,4570,4897
+3046	Papová Vilma		0	2075,4570,4897
+3046	Papová Vilma	mal	0	2861,3121,3385,3880,3881,4571,4892,4893,4894,4895,4896,5631
+3046	Papp František	súr.Karol,Vilma,Július	0	6147
+3046	Papp Ján		0	6287
+3046	Papp Július	súr.Karol,František,Vilma	0	4890,4891,4898,6147
+3046	Papp Karol	r.Papp,ž.Mária r.Bohdányová; ž.Mária r.Bohdányová	0	4890,4891,6147
+3046	Papp Miloš	r.Papp,ž.Estera r.Molnárová; ž.Estera r.Molnárová	0	6287
+3046	Pappová Emília r. Bugyíková		0	4257
+3046	Pappová Mária	r.Bogdányová,m.Karol; m.Karol	0	5954
+3046	Pappová Mária	r.Vanyová	0	2775
+3046	PAPPOVA MARIA R. VANYOVA		0	3601
+3046	Pappová Vilma		0	4696
+3046	Pappová Vilma	mal.súr.Karol,František,Július	0	4890,4891,4898,6147
+3046	Pátkay Petrovič Ján	zom.26.06.1986	0	5519
+3046	Pavliček Ladislav		0	5351,5352
+3046	Pavličková Katarína	mal	0	5351,5352
+3046	Pavúková Eva r. Mojzesová		0	3161
+3046	Petrányiová Anna	r.Uzsorášová,m.Ján; m.Ján	0	6395
+3046	Petrányiová Vilma	r.Baloghová	0	2669,2671,2673,2832,3393,3867,4236,4470
+3046	Petricsová Helena		0	6270
+3046	Pintér Anton	r.Pintér,ž.Rozália r.Hamarová, zom.15.12.1990; ž.Rozália r.Hamarová, zom.15.12.1990	0	5972
+3046	PINTER JOZEF		0	3708
+3046	Pintér Jozef	ž.Katarína r.Mešťanová	0	6196
+3046	PINTER JULIUS		0	3708

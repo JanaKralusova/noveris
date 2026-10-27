@@ -1,0 +1,256 @@
+128	Drinková Mária	súrodenci Matej, Helena, Júlia, Jozef, Anna, Ján	0	689,690,692,693,696,700,1838
+128	Drinková Mária r. Baďurová		0	1343
+128	Drinková Mária r. Borovičková	nar.11.5.1901, manž.Jozef,č.p.118 a č.p.47	0	1570
+128	Drinková Mária r. Gočalová		0	488,533,535,537,651
+128	Drinková Mária r. Gočálová	nar.1.2.1899, manž.Jozef	0	977,1679,1700
+128	Drinková Mária r. Škápiková		0	728,819,821,822,823,824,825,828,1228,1812,1825,1826
+128	Drinková Rozália r. Bilková	manž.Pavol	0	681
+128	Drinková Štefánia r. Vallová		0	1739
+128	Drinková Terézia r. Cintulová		0	696,1497
+128	Drinková Terézia r. Filípková	manž. Ján	0	421
+128	Drinková Terézia r. Filípková	manž.Ján,č.d.74	0	1323
+128	Drinková Terézia r. Filípková	manž.Šimon	0	891
+128	Drinková Terézia r. Šedivá	nar.3.5.1912, manž.Jozef	0	916
+128	Dufek Michal		0	643
+128	Filípek Anton	maloletý	0	504
+128	Filípek Anton	maloletý v r.1942,č.d.163/1942	0	503,1499
+128	Filípek Imrich		0	236
+128	Filípek Ján	č.d.1074/1915	0	1443
+128	Filípek Ján	maloletý v r.1922,č.d.1450/1922	0	1565
+128	Filípek Matej	maloletý v r.1913,otec Matej	0	1462
+128	Filípek Pavol	manž.Alžbeta r.Škápiková	0	886
+128	Filípek Pavol	súrodenci Mária,Anna,Terézia,Rozália	0	891,895,1276
+128	Filípek Rudolf		0	236
+128	Filípek Rudolf	maloletý v r.1922,č.d.1450/1922	0	1565
+128	Filípek Štefan	maloletý v r.1913,otec Matej	0	1462
+128	Filípková Alžbeta	maloletá v r.1922,č.d.1450/1922	0	1565
+128	Filípková Alžbeta r. Cvečková		0	1682
+128	Filípková Alžbeta r. Škápiková		0	562
+128	Filípková Anna		0	989,1060
+128	Filípková Anna	č.d.705/1918	0	891,895,1272,1273,1276
+128	Filípková Helena	č.d.5060/1938	0	1627
+128	Filípková Katarína r. Gachová		0	698,989,990,991,992
+128	Filipková Magdaléna r. Dobiášová		0	1454
+128	Filípková Mária	otec Ignác,brat Ondrej	0	938
+128	Filípková Mária	otec Pavol	0	1462
+128	Filípková Mária r. Májková		0	514
+128	Filípková Štefánia r. Cvečková		0	1682
+128	Filová Anna r. Mikulková		0	1441
+128	Filová Helena r. Škápiková	vdova,manž.Šimon	0	728,1605,1812
+128	Fischerová Mária r. Butašová	manž.Matyáš	0	1598
+128	Fojtlín Ján	manž.Magdaléna r.Jankovičová	0	1471
+128	Fojtlínová Anna r. Černá		0	1567
+128	Fojtlinová Helena r. Cintulová	č.d.11213/1917	0	1412
+128	Gach Ignác		0	452,453
+128	Gach Jozef		0	821
+128	Gach Jozef	D54/40-8	0	1812
+128	Gachová Viktória		0	698,989
+128	Gachová Viktória	č.d.1856/1946	0	738,990,991,992
+128	Gašparek Ján	č.d.1209/1925	0	1673
+128	Gašparek Jozef		0	631,854,1673
+128	Gašpárek Jozef	mal	0	631
+128	Gašparek Matej		0	631
+128	Gašparek Matej	č.d.1209/1925	0	1673
+128	Gašpárek Pavel	mal	0	631
+128	Gašpárek Pavol		0	854
+128	Gašpárek Pavol	č.d.3836/1927	0	910,911
+128	Gašpareková Terézia r. Butašová	vdova po manž.Michalovi	0	1598
+128	Gašparin Ján	č.d.2759/1921	0	737
+128	Gašparín Michal		0	659
+128	Gašparínová Anna r. Bilková		0	488
+128	Gašparinová Magdaléna r. Škápiková		0	1600
+128	Gašparínová Terézia r. Hrúzová	manž.Anton	0	1378
+128	Gočál Augustín	maloletý v r.1927,č.d.2935/1927	0	1288
+128	Gočal Ján	manž.Mária r.Škápiková,otec Ignác,sestra Terézia	0	1695
+128	Gočal Ján	PKV č.94,č.d.1282/1920	0	1551
+128	Gočál Ján		0	488,651,652,653,1798,1800
+128	Gočál Ján	č.p.117	0	1718
+128	Gočál Ján	manž.Mária	0	1717
+128	Gočál Ján	manž.Mária r.Petríková	0	1313
+128	Gočál Ján	manž.Zuzana r.Kolovratová	0	1094,1096
+128	Gočal Jozef		0	533,535,537
+128	Gočal Jozef	súrodenci Michal,Juraj,Magdaléna,Mária,Ján	0	977
+128	Gočál Matej	č.d.1505/1917	0	1288
+128	Gočál Matyáš	manž.Katarína r.Dudová	0	1094
+128	Gočal Michal	súrodenci Juraj, Jozef, Magdaléna,Mária,Ján	0	977
+128	Gočal Michal	súrodenci Michal a Júlia	0	767,768,769,1267,1268
+128	Gočál Michal		0	88,533,535,537
+128	Gočál Pavol		0	488
+128	Gočal Štefan		0	488,533,535,537,651,652,653,1798,1800
+128	Gočal Štefan	súrodenci Mária,Júlia,Rozália,Anna,Helena	0	977,1700
+128	Gočál Štefan	č.d.5217/1938,RI333/68	0	1313
+128	Gočalová Anna		0	488,533,535,537
+128	Gočalová Anna	súrodenci Mária,Júlia,Štefan,Rozália,Helena	0	977,1700
+128	Gočalová Helena		0	488,533,535,537
+128	Gočalová Helena	súrodenci Mária,Júlia,Štefan,Rozália,Anna	0	977
+128	Gočálová Katarína r. Baďurová		0	768,1267,1268,1621
+128	Gočálová Magdaléna r. Janíčková	manž.Juraj	0	1144
+128	Gočalová Mária		0	488
+128	Gočálová Mária	manž.Ján	0	1717
+128	Gočálová Mária r. Cintulová	manž.Ján	0	1631
+128	Gočalová Mária r. Gašpárková		0	1673
+128	Gočálová Mária r. Petríková	manž.Ján	0	1313
+128	Gočalová Mária r. Škápiková	manž.Ján	0	613,1695
+128	Gočálová Mária r. Škápiková		0	585
+128	Gočalová Róza		0	488,533,535,537
+128	Gočalová Rozália	súrodenci Mária,Júlia,Štefan,Anna,Helena	0	977,1700
+128	Gočálová Terézia	maloletá v r.1910,brat Ján,dcéra Ignáca	0	966,967
+128	Grajza Ján	č.d.4947/1938	0	1590
+128	Grajza Štefan	č.d.4947/1938	0	1590
+128	Grajza Štefan	manž.Terézia r.Vaculková	0	1504
+128	Grajzová Magdaléna r. Bízková		0	557,558,770
+128	Grajzová Rozália r. Šedivá		0	889,1663
+128	Hachová Anna r. Kochová		0	891
+128	Halmešová Helena r. Hílková	maloletosť zrušená č.d.525/36	0	1370,1619,1701
+128	Havlíková Jozefína r. Šišuláková		0	964,1603
+128	Hečková Anna r. Štvrtecká	manž.Alexander	0	1092,1093,1302,1702
+128	Heinrich August		0	792,1312,1320,1406
+128	Hílek Augustín	maloletý v r.1915,č.d.2279/1915	0	1370,1619,1701
+128	Hílek Ján	č.d.2279/1915,maloletosť zrušená č.d.303/1947	0	1370,1619,1701
+128	Hílek Matej	č.d.2279/1915,maloletosť zrušená č.d.3820/1922	0	1370,1619,1701
+128	Hílek Michal	č.d.3561/1943	0	1553
+128	Hílek Michal	maloletosť zrušená č.d.690/44	0	1370,1619,1701
+128	Hílek Pavol	č.d.2279/1915	0	1370,1701
+128	Hílek Štefan	maloletosť zrušená č.d.525/1936	0	1370,1619,1701
+128	Híleková Hermína		0	88
+128	Hilková Anna r. Bilková	vdova po manž.Štefanovi	0	1425
+128	Hilková Anna r. Macková	č.d.720/1918	0	1601
+128	Hilková Helena	č.d.5875/1936	0	1457
+128	Hílková Helena	č.d.2279/1915,maloletosť zrušená č.d.3408/1931	0	1370,1701
+128	Hílková Jozefa	maloletá v r.1933	0	1370,1619,1701
+128	Hílková Mária	maloletá v r.1915,č.d.2279/1915	0	1370,1619,1701
+128	Hílková Pavlína	maloletosť zrušená č.d.2272/50	0	1370,1619,1701
+128	Hílková Terézia	maloletosť zrušená č.d.490/39	0	1370,1619,1701
+128	Hladíková Mária r. Somoláni		0	502
+128	Hlavenka Alojz	manž.Mária r.Šedivá	0	1434
+128	Hlavenka Ján	mal	0	646
+128	Hlavenka Jozef	manž.Alžbeta r.Matulová,Borský sv. Mikuláš	0	1730
+128	Hlavenka Jozef	manž.Helena r.Filípková	0	1629
+128	Hlavenka Martin		0	554
+128	Hlavenka Matúš	č.d.5739/1936	0	1630
+128	Hlavenka Štefan	č.d.1290/1936	0	1287
+128	Hlavenka Štefan	manž.Katarína r.Sojáková,Borský S.Mikuláš č.601	0	1128
+128	Hlavenková Alžbeta r. Dufková		0	643
+128	Hlavenková Helena r. Filípková	manž.Jozef	0	1629
+128	Hlavenková Jozefína	č.d.2414/1942	0	1562
+128	Hlavenková Jozefína	č.d.5739/1936	0	1630
+128	Holásek Jozef	č.d.792/1945	0	1608
+128	Holásek Šimon	manž.Helena	0	1482,1502
+128	Holásek Štefan	manž.Mária r.Černá	0	1660
+128	Holásková Helena r. Bilková	manž.Šimon	0	1337,1482,1502,1517,1696
+128	Holásková Mária r. Černá	manž.Štefan	0	891,895,1274,1276,1361,1479,1561,1660
+128	Holásková Štefánia	maloletá v r.1945,č.d.792/1945	0	1608
+128	Holič Juraj	manž.Hermína r.Hílková	0	1579
+128	Holič Pavol	č.p.18	0	1719
+128	Holič Pavol	manž.Hermína r.Bilková	0	1124
+128	Holičová Hermína r. Hílková	manž. Juraj	0	325
+128	Holičová Hermína r. Hílková	manž.Juraj	0	1579
+128	Holisová Hermína r. Hílková		0	88
+128	Horvát Ján	č.d.3398/1914	0	1190
+128	Horvát Ján	manž.Júlia r.Fabianová	0	1575
+128	Horvát Jozef	manž.Helena r.Grajzová	0	1575
+128	Horváth Ján	č.d.1653/1948	0	851
+128	Horváth Jozef	č.d.2591/1923	0	1577
+128	Horváthová Magdaléna r. Búzková		0	710,848,849,850
+128	Horváthová Mária	č.d.2591/1923	0	1577
+128	Horváthová Mária r. Filípková		0	504
+128	Horvátová Helena	č.d.4947/1938	0	1590
+128	Horvátová Terézia r. Cintulová		0	1515
+128	Hricová Mária r. Cintulová		0	1515
+128	Hrúz Edmund	maloletý v r.1929, súrodenci Mária,Štefan,Lucia,Michal maloletý v r.1929, súrodenci Mária,Štefan,Lucia,Michal	0	1428
+128	Hrúz Michal	maloletý v r.1929, súrodenci Mária,Štefan,Lucia,Edmund	0	1428
+128	Hrúz Šimon	manž.Anna r.Sojáková	0	1378
+128	Hrúz Štefan	maloletý v r.1929,súrodenci Mária,Lucia,Michal,Edmund	0	1428
+128	Hrúzová Lucia	maloletá v r.1929,súrodenci Mária,Štefan,Michal,Edmund	0	1428
+128	Hrúzová Mária	súrodenci Štefan,Lucia,Michal,Edmund	0	1428
+128	Hrúzová Štefánia r. Bilková		0	904,905
+128	Hurban Štefan	Borský Mikuláš č.220	0	1533
+128	Husáková Anna r. Nesnadná		0	874
+128	Hušková Mária r. Škápiková		0	551,552
+128	Chorvát František	č.d.418/1929	0	1155,1156
+128	Chorvát Ján	manž.Helena r.Včelková	0	1190
+128	Chorvát Rudolf	maloletý,č.d.418/1929	0	1155,1156
+128	Chorvát Rudolf	manž.Albína r.Lasicová	0	1190
+128	Chorvát Rudolf	starší,č.d.418/1929	0	1155,1156
+128	Chorvát Štefan	maloletý,č.d.418/1929	0	1155,1156
+128	Chorvátová Júlia r. Petríková	manž.Šimon	0	888
+128	Chovancová Alžbeta r. Dobiašová	manž.Pavol	0	1646
+128	Chudá Mária r. Rudavská	č.d.1476/1925	0	768,1303,1332
+128	Jablonický Ján	manž. Anna Kabarec	0	530
+128	Jakubovičová Anna r. Cigánková	naposledy bytom Štefanov č.36	0	409,593,1154,1161
+128	Janíček Ján	manž.Terézia r.Samková,č.d.625	0	1505
+128	Janíček Jozef	č.d.1502/1944	0	1505,1672
+128	Janíčková Anna	maloletosť zrušená č.d.3664/44	0	1505,1672
+128	Janíčková Terézia r. Cintulová	rodičia Štefan Cintula a Terézia r.Baďurová	0	1664
+128	Jankovič Alojz	č.d.27/1946	0	1547,1548
+128	Jankovič Alojz	maloletosť zrušená č.d.2431/50,súrodenci Mária,Štefánia,Šte maloletosť zrušená č.d.2431/50,súrodenci Mária,Štefánia,Šte	0	1690
+128	Jankovič Ján	manž.Mária r.Cáková	0	1432
+128	Jankovič Ján	manž.Mária r.Hlavatá	0	1509
+128	Jankovič Ján	manž.Paulína r.Baďurová	0	1547,1548
+128	Jankovič Michal	manž.Terézia r.Samková	0	1689
+128	Jankovič Pavol	manž.Mária r.Sovová	0	1535
+128	Jankovič Štefan	maloletý,súrodenci Mária, Štefánia,Alojz	0	1690
+128	Jankovičová Alžbeta r. Pavlíková		0	1239,1240
+128	Jankovičová Anna		0	557,558
+128	Jankovičová Anna r. Bizková		0	558
+128	Jankovičová Apolena r. Bobková		0	1667
+128	Jankovičová Helena r. Cintulová		0	1528
+128	Jankovičová Júlia r. Gašparková		0	854
+128	Jankovičová Lucia r. Gašpárková		0	631
+128	Jankovičová Mária	č.d.4458/1938	0	1574
+128	Jankovičová Mária	maloletosť zrušená č.d.1179/50,súrodenci Štefánia,Alojz,Šte maloletosť zrušená č.d.1179/50,súrodenci Štefánia,Alojz,Šte	0	1690
+128	Jankovičová Mária r. Bízková		0	557
+128	Jankovičová Mária r. Sovová	manž.Pavol	0	1535
+128	Jankovičová Rozália r. Bízková		0	557,558
+128	Jankovičová Rozália r. Vajdová	manž.František	0	1591
+128	Jankovičová Štefánia	maloletosť zrušená č.d.1179/50,súrodenci Mária,Alojz,Štefan maloletosť zrušená č.d.1179/50,súrodenci Mária,Alojz,Štefan	0	1690
+128	Jankovičová Tereza r. Samková	manž.Michal	0	1689
+128	Jankovičová Terézia r. Turanková	manž.Štefan	0	1547
+128	Janulíková Mária	predtým vydatá Butašová	0	488
+128	Jurica Pavol	manž.Štefánia r.Sekáčová	0	1573
+128	Jurica Šimon	manž.Júlia r.Černá	0	1079
+128	Jurik Antonín	manž.Magdaléna r.Drinková	0	1182
+128	Jurík Florian	manž.Karolína r.Bilková	0	1300
+128	Jurík Martin	manž.Terézia r.Škápiková	0	1368,1369,1726
+128	Juríková Hermína	otec Anton	0	1404
+128	Juríková Karolína r. Bilková		0	1707
+128	Juríková Terézia r. Škápiková	manž.Martin	0	1726
+128	Jurkovičová Katarína r. Šedivá	č.d.502/1950	0	1534
+128	Kabarec František	č.d.5127/1938	0	1017
+128	Kabarec Jozef	č.d.5127/1938	0	1016,1017
+128	Kabarec Štefan	č.d.5127/1938	0	1016,1017
+128	Kassay Jozef	manž.Mária r.Cintulová	0	1669
+128	Kassay Štefan	manž.Albína r.Cvečková	0	1673
+128	Klamík Michal	manž.Katarína r.Stachová	0	1589
+128	Klamíková Anna r. Osuská	manž.Jozef	0	1549
+128	Klempová Agneša r. Bilková	manž.Ján	0	764
+128	Klena Antonín		0	554
+128	Klena Ján		0	554
+128	Klena Jozef		0	554
+128	Klenová Anna r. Hlavenková		0	1125
+128	Kmetová Mária r. Bilková		0	1337,1502,1517,1696
+128	Kochová Agneša r. Gašparková		0	1673
+128	Kochová Albína		0	891
+128	Kolik Jozef		0	889,1663
+128	Kolik Michal		0	889,1663
+128	Kolíková Katarína r. Totková	manž.Michal	0	741,1236,1585,1657
+128	Kopáč Gašpar	manž.Anna r.Bojkovská	0	613,1299,1321,1608
+128	Kopáč Michal		0	165,904,931
+128	Kopáčová Anna r. Bojkovská	manž.Gašpar	0	613,891,1299,1321,1608
+128	Kopáčová Augustína r. Cintulová		0	165,904,931
+128	Kovárik Ján	naposledy bytom Borský Mikuláš 62	0	1149
+128	Kovárik Jozef	manž.Mária r.Kaššayová	0	1429
+128	Kováriková Magdaléna r. Bízková		0	1429
+128	Kozánek Karol	manž.Krimhilda r.Helfer	0	922
+128	Kozánková Alžbeta r. Beneková	manž.Ján	0	922
+128	Kozlová Jozefína	maloletá v r.1932	0	1424,1427
+128	Kozlová Mária r. Šedivá		0	1414
+128	Kozlová Mária r. Šedivá	č.d.1358/1930	0	1414
+128	Kramárová Apoléna	maloletá	0	492
+128	Kramárová Apolónia r. Kramárová		0	492
+128	Kramárová Helena	maloletá	0	492
+128	Kratochvíl Václav	manž.Otília	0	1742
+128	Krchňavá Jozefa r. Drinková		0	1362,1394,1680
+128	Križan Ján	manž.Helena	0	1729
+128	Križanová Helena	manž.Ján	0	1729
+128	Križanová Helena r. Bilková		0	957,1108,1109,1110,1111,1112,1113,1114,1115,1116,1117,1143,1144,1145,1477,1620

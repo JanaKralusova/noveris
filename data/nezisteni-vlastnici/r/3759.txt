@@ -1,0 +1,256 @@
+2149	LECO Ivan		1	234,663
+2149	LECO Jozef		1	234,702
+2149	LECO Juraj		1	234,424
+2149	LECO Vasil		1	234,690
+2149	LECOVÁ Anna		1	234,435
+2149	LECOVÁ Ilona		1	234,704
+2149	LECOVÁ Mária		1	234,445
+2149	LENIKOVÁ Anastázia	rod.Hrecová	1	230
+2149	Leno-Potocká Anna r. Hrecová		1	11,228
+2149	LUKAVCOVÁ Mária	rod.Procová	1	247
+2149	MACINSKÁ Zuzana r. Hrecová, SR	D:zom.4.06.1990	0	230
+2149	MANDZÁK Andrej		1	232,309
+2149	MANDZÁK Ján		1	232,309
+2149	MANDZÁK Vasil		1	232,309
+2149	MARCIŠOVÁ Mária	rod.Mudzová	1	11
+2149	Marcišová Mária r. Mudzová		0	372
+2149	MIKA Juraj		1	248,710
+2149	MIKA Juraj	maloletý	1	11
+2149	MIKO Juraj		1	11
+2149	MIKOVÁ Anna		1	11,248,711
+2149	MIKOVÁ Anna	rod.Guľáková	1	11
+2149	MIKOVÁ Helena	mal	1	248
+2149	MIKOVÁ Helena	maloletá	1	11
+2149	Miková Helena, mal. mal.		0	404
+2149	MIKOVÁ Mária r. Jacošová, SR	D:zom.25.01.1999	0	248
+2149	Miková Mária r. Jacošová, zom.25.01.1999 zom.25.01.1999		0	611
+2149	MINDOŠOVÁ Zuzana	rod.Cilipová	1	232,309
+2149	MITRIKOVÁ Anastázia	rod.Jaleková	1	11
+2149	MITRIKOVÁ Anna	rod.Mandzáková	1	232,309
+2149	Mudzová Helena r. Holubová, zom.28.06.1977 zom.28.06.1977		0	378,525,728
+2149	MUCHOVÁ Anna	rod.Havrilišinová	1	238
+2149	Muchová Anna r. Havrilišinová		0	482
+2149	NOVÁ Zuzana	rod.Hrecová	1	11,228
+2149	OLENIČ Ján		1	257,491
+2149	OLENOČIN Fedor		1	11,372
+2149	OLENOČIN Ján		1	233
+2149	OLENOČIN Jozef		1	11,187,628
+2149	OLENOČIN Jozef	maloletý	1	11
+2149	Olenočin Jozef, maloletý maloletý		0	372
+2149	OLENOČIN Juraj		1	11
+2149	OLENOČIN Matej	vzdialený	1	187,257
+2149	Olenočin Matej, vzdialený vzdialený		0	378,627,728
+2149	OLENOČIN Vasil		1	11,234,502
+2149	OLENOČINOVÁ Anna	maloletá	1	11
+2149	OLENOČINOVÁ Anna	rod.Mitriková	1	234
+2149	Olenočinová Anna r. Mitriková		0	395
+2149	Olenočinová Anna, maloletá maloletá		0	372
+2149	OLENOČINOVÁ Mária	rod.Andruchová	1	253
+2149	OLENOČINOVÁ Mária	rod.Zozuličová,zom.12.10.1985	1	187
+2149	Olenočinová Mária r. Zozuličová		0	545
+2149	OLENOČINOVÁ Zuzana	maloletá	1	11
+2149	Olenočinová Zuzana, maloletá maloletá		0	372
+2149	OLENOVČIN Ján	manž.Olena rod.Havrilcová	1	233,257
+2149	Olenovčin Ján, manž.Olena rod.Havrilcová manž.Olena rod.Havrilcová		0	689
+2149	OLENOVČIN Jozef		1	187,400
+2149	OLENOVČIN Juraj		1	233,257,437
+2149	PACOLA Alexander		1	243,694
+2149	PACOLÁK Alexander		1	11
+2149	PETRAŠOVIČ Elek		1	284
+2149	PIRIČ Andrej		1	310,392
+2149	PIRIČ Eliáš		1	310,669
+2149	PIRIČ Juraj		1	310,566
+2149	PLÁVKA Jozef		1	187,574
+2149	POTOCKÁ Anna	rod.Hrecová	1	11,228
+2149	PROCO Andrej		1	247
+2149	Proco Andrej r. Proco		0	716
+2149	PROCO Ján		1	247
+2149	Proco Ján r. Proco		0	716
+2149	PROCO Vasil		1	247
+2149	Proco Vasil r. Proco		0	716
+2149	PROCOVÁ Mária	rod.Jacošová,manž.Andrej	1	308
+2149	Procová Mária r. Jacošová, rod.Jacošová,manž.Andrej rod.Jacošová,manž.Andrej		0	509
+2149	PROCOVÁ Milana		1	247,716
+2149	SIVÁK Fedor		1	11,308,622
+2149	SIVÁKOVÁ Júlia	rod.Jacošová,zom.10.1.1986	1	11,308
+2149	Siváková Júlia r. Jacošová		0	660
+2149	SIVÁKOVÁ Terézia	rod.Jacošová	1	11,308
+2149	Siváková Terézia r. Jacošová		0	469
+2149	SIVÁKOVÁ Uľa	rod.Jacošová	1	11,308
+2149	Siváková Uľa r. Jacošová		0	433
+2149	SOLANČINOVÁ Anna	rod.Jacošová	1	185,240
+2149	Solančinová Anna r. Jacošová		0	701
+2149	SPIEGELOVÁ Elena	rod.Jozefovičová	1	11
+2149	STANKO Eliáš		1	11
+2149	STANKO Ján	manž. Mária r.Butalová	1	11
+2149	STANKO Vasil		1	11
+2149	STANKOCIOVÁ Mária	rod.Čornáková	1	11
+2149	STANKOCIOVÁ Mária	rod.Jacošová	1	72
+2149	STANKOCIOVÁ Mária	rod.Jacošová,manž.Štefan	1	179
+2149	Stankociová Mária, rod.Jacošová,manž.Štefan rod.Jacošová,manž.Štefan		0	600
+2149	STANKOVÁ Zuzana		1	11
+2149	STARINČÁK Michal		1	239,616
+2149	ŠREJMOVÁ Helena	rod.Procová	1	247
+2149	Šuták Ján		0	372
+2149	ŠUTÁK Ondrej		1	11
+2149	ŠUTÁKOVÁ Anna	rod.Cilipová,zom.21.5.1990	1	11
+2149	ŠUTÁKOVÁ Ilona	rod.Jacošová	1	11,72,171,226
+2149	Šutáková Ilona r. Jacošová		0	649
+2149	ŠUTÁKOVÁ Olena		1	232,309,447
+2149	ŠUTÁKOVÁ Olena	maloletá	1	11
+2149	ŠUTÁKOVÁ Polaha	rod.Jacošová	1	11,232,309
+2149	ŠUTÁKOVÁ Polaha	rod.Jacošová,manž.Ján	1	11
+2149	Šutáková Polaha r. Jacošová		0	591
+2149	ZOZULIČ Andrej		1	11,237,715
+2149	ZOZULIČ Andrej	maloletý	1	253
+2149	Zozulič Andrej, maloletý maloletý		0	373
+2149	ZOZULIČ Ivan		1	237,253,378,589,728
+2149	ZOZULIČ Ján	manž.Anna rod.Ferkalová	1	11,237,253
+2149	Zozulič Ján, manž.Anna rod.Ferkalová manž.Anna rod.Ferkalová		0	378,558,728
+2149	ZOZULIČ Juraj	mal	1	237
+2149	ZOZULIČ Juraj	maloletý	1	11,253
+2149	Zozulič Juraj, mal. mal.		0	407
+2149	Zozulič Juraj, maloletý maloletý		0	373
+2149	ZOZULIČOVÁ Mária		1	11,237,253,713
+2150	Baričák Ondrej, SR	manž.Zuzana Sporková	0	2070
+2150	Bigošová Mária r. Sporková, USA		0	1957
+2150	Blažeková Zuzana r. Zelinová, č. 22, USA		0	1625
+2150	Brachnová Katarína r. Pabáčiková, SR	manž.Ondrej	0	2287
+2150	Brandebúrová Katarína r. Kafková, SR		0	2218
+2150	Brodnianský Ján	Mišák, Žaškov 45	0	1940
+2150	Buchtiaková Katarína r. Trasoňová, SR	manž.Ondrej,vd	0	1335,1928
+2150	Bujnák Ján, SR		0	2486
+2150	Bujnák Ján, SR	Nižný,m.Mária Baričiak 1x vyd.Vankúšová	0	1604,1609,1625,2297,2301,2453
+2150	Bujnák Ján, SR	Zachar,m.Mária Šenšelová Marištiak	0	1517
+2150	Bujnáková Katarína r. Mrišková, SR	manž.Ondrej	0	1211,1320,1422,1712,2195,2205
+2150	Bujnáková Katarína, SR	malol. v r.1908, tot.s IDC 16	0	2079
+2150	Bujnáková Mária r. Baričáková, SR	Nižná,manž.Ján	0	1604,1609,1625,2297,2301,2453
+2150	Bujnáková Mária r. Haklíková	manž.Michal, čd.189, 218	0	1901
+2150	Bujnáková Mária r. Haklíková, SR	manž.Michal	0	1876
+2150	Bujnáková Mária r. Šuvadová, SR	vd	0	1159
+2150	Bujnáková Mária, SR	asi r.Janigová	0	2336
+2150	Bujnáková Mária, SR	Zachar,rod.Šenšel Marištiak,m.Ján	0	1517
+2150	Bývalí urbarialisti Obce Párnica		0	2247,2658
+2150	Bývalí urbarialisti Obce Párnica, SR		0	1875
+2150	CÁLIKOVÁ Anna	Holigová	0	3027
+2150	Cirkev evanjelicko  a.v.,matkozbor, Párnica, Párnica, PSČ 027 52, SR		0	1944
+2150	Cubinková Jolana r. Kováčiková, SR		0	2218
+2150	Červeň Jozef, SR		0	2353,2358
+2150	Červeňová Mária, SR	rod.Zaťko	0	2376
+2150	Čierny Ján, SR	Žaškov	0	1933
+2150	Čučiak Ondrej	Kocman,manž.Zuzana Bujnáková,čd.85; Kocman,manž.Zuzana Bujnáková,čd.85	0	3151
+2150	Čučiak Ondrej, SR	Kocman,asi manž.Mária Konitrášová,čd.129	0	1300,1377,2324
+2150	Čučiak Ondrej, SR	Kocman,manž.Zuzana Bujnáková,čd.85	0	1159,1377,1749,2038,2149,2184,2215,2345,2573
+2150	Čutka Michal, SR	Istebné,malol.v r.1947	0	1604,1609,2301,2325
+2150	Datko Ondrej, SR	manž.Zuzana Zacharová	0	2194
+2150	Dlugošová Mária r. Kováčiková, SR		0	2218
+2150	Drga Ondrej, SR	asi manž.Katarína Kalinčiaková	0	1963
+2150	Drgová Žofia r. Michalicová, SR		0	1955
+2150	Dudáš Ján, SR	manž.Mária Janigová Uradníčková	0	1211,1320,1623,2061,2267,2595
+2150	Dudášová Katarína, SR	malol.v r.1918	0	2061,2267,2595
+2150	Dudášová Mária r. Janigová, SR	Úradničková,manž.Ján	0	1448,2219,2313
+2150	Fačuliak Ondrej, SR	manž.Mária Harmaniaková	0	2244
+2150	Falát Ján, SR	ml.,manž.Zuzana Flajšová	0	2378
+2150	Farbáková Zuzana r. Hanušniaková, Zábrež, Oravská Poruba, PSČ 027 54, SR		0	1604,1804,2326,2538
+2150	Fašianková Rozália r. Čerňanová, SR	manž.Ondrej	0	2353,2358,2360
+2150	Fašianok Adam, SR	Flajskin	0	2353,2358,2360
+2150	Fašianok Ondrej, SR	manž.Rozália Čerňanová	0	2341,2373,3195
+2150	Ferancová Mária, SR	rod.Zelinová Brodňanská,m.Michal,čd.22	0	1625
+2150	Foltýn Ján, SR	čd.24	0	1629,1909,2067,2442
+2150	Foltýnová Mária, SR	rod.Ševčíková Krátka,čd.24	0	1629,1909,2067,2442
+2150	Franko Ján, SR	manž.Božena Chovancová,čd.220	0	1448,2085,2101
+2150	Franková Zuzana	rod.Hanková Hauková	0	2091
+2150	Franková Zuzana, SR	Bútorová,rod.Kalinčiak Mikuš,manž.Ondrej	0	2068
+2150	Galbavá Katarína, SR	rod.Marištiaková,Púchov	0	1482,1893,1981,2029,2032,2128,2142,2143,2192,2204,2229,2231,2232,2241,2277,2304,2305,2309,2498,3116
+2150	GALLO Ján		0	3027
+2150	GALLO Ondrej	Dolný	0	3027
+2150	GALLOVÁ Mária		0	3027
+2150	GALLOVÁ Zuzana r. Bellová		0	3027
+2150	Grechová Lýdia, SR	rod.Balážová,MUDr	0	2218
+2150	HAD Ján	Adam	0	3027
+2150	HAD Ján	Cálik	0	3027
+2150	HAD Ján	Horný	0	3027
+2150	HAD Ján	Špirka	0	3027
+2150	HAD Ondrej	Furták	0	3027
+2150	Hadáš Ján, SR	nadobud.v r.1877 ako maloletý	0	936
+2150	HADOVÁ Emília	Svitová	0	3027
+2150	HADOVÁ Helena	Adamová	0	3027
+2150	HADOVÁ Helena	Špirková	0	3027
+2150	HADOVÁ Mária	Adamová	0	3027
+2150	HADOVÁ Mária	Furtáková	0	3027
+2150	HADOVÁ Mária	Špirková	0	3027
+2150	HADOVÁ Mária r. Gallová		0	3027
+2150	HADOVÁ Mária r. Hadová	Svitová	0	3027
+2150	HADOVÁ Žofia r. Hadová	Sviteková	1	3027
+2150	Hajníčková Katarína, SR	rod.Janovicová,manž.Ján	0	2285
+2150	Haklík Ján, SR	Krátky,čd.19	0	1629,2067,2442
+2150	Haklík Ján, SR	manž.Zuzana Pavlíková,čd.189	0	1206,1331,1332
+2150	Haklík Michal, SR	Krátky,čd.19	0	1629,2067,2442
+2150	Haklíková Mária, SR	Krátka,rod.Mrišková,manž.Ján,čd.19	0	1629,2067,2442
+2150	Haklíková Zuzana r. Ševčíková-Kašová	Krátka,čd.19	0	2848,2861,2862
+2150	Haklíková Zuzana, SR	Krátka,rod.Ševčíková Kašová,čd.19	0	1517,1625,1663,2008,2030,2099,2108,2265,2310,2443,2449,2504
+2150	Hanák Ondrej, SR		0	2046
+2150	Hančiak Ondrej, SR	Slimák,manž.Zuzana Hazuchová Števonka	0	1737
+2150	Hančiaková Zuzana, SR	Slimák,r.Juráška Ševčík,asi m.Ján,čd.88	0	1983,2199,2206
+2150	Hančiaková Zuzana, SR	Slimák,rod.Hazuchová,manž.Ondrej,čd.88	0	1352,2244,2417,2616
+2150	Hanková Mária, SR	rod.Kláčová,manž.Ján,čd.214	0	983
+2150	HANUŠNIAK Ján		0	2393
+2150	Hanušniak Ján, SR		0	2045,2083,2106,2390,2441,2459,2565,3084
+2150	Hanušniak Ján, SR	manž.Mária Datkuliaková,nadobud.v r.1908	0	2088
+2150	Hanušniak Ján, SR	nadobud.v r.1945	0	2432,2434
+2150	Hanušniak Ondrej, SR	manž.Zuzana Janigová,Istebné	0	1929
+2150	Hanušniaková Zuzana, SR	Kolár,rod.Mišurová,manž.Ján,čd.251	0	2372
+2150	Hanušniaková Zuzana, SR	rod.Franková Bútorová,manž.Ondrej,čd.48	0	2045,2083,2106,2390,2425,2428,2454,2459,2565,3084
+2150	Hanušniaková Zuzana, SR	rod.Števonková Palčeková,nadob.v r.1889	0	2241
+2150	Harmaniak Ondrej, SR	u Chyľkov,čd.112	0	1422,1968
+2150	Harmaniak Vladislav, SR	406,Markham,St.Toronto,Kanada	0	2228,2247,2658
+2150	Harmaniaková Mária, SR	rod.Harmaniaková,manž.Ján ml.u Mäsiarov	0	2460
+2150	Harmaniaková Miloslava, SR	maloletá v r.1933,čd.42	0	1482,2476
+2150	Harmaniaková Zuzana, SR		0	936
+2150	Hauko Ján	m.Žofia Hančák Slimák	0	2107,2330,2334
+2150	Hauko Ján	m.Žofia Hančák Slimák m.Žofia Hančák Slimák	0	2221,2385,2387
+2150	Hauko Ján	nadobud.v r.1904	0	1697
+2150	Hauko Ján, SR	m.Žofia Hančák Slimák,možno tot.sIDC1219	0	1204,1416,1466,2404,2405,2654,2655,2687,3176
+2150	Hauko Ján, SR	nadobud.v r.1904,možno tot.s IDC 822	0	1708
+2150	Hauko Michal, SR	Kurcin	0	2151
+2150	Hauko Ondrej	Záskalan	0	1659
+2150	Hauko Ondrej, SR	Blizňák,ml.manž.Žofia Haklíková,čd.114	0	1448,2101,2262
+2150	Hauko Ondrej, SR	Kurcin,manž.Mária Nemčeková,čd.129	0	719,2025,2157,2235,2280,2281
+2150	Hauko Ondrej, SR	Laura Záskalan,asi manž.Mária Nemčeková	0	2448
+2150	Hauko Ondrej, SR	Laura,ml.manž.Zuzana Šaliga 2x vyd.Kubek	0	1422,1876,2043,2166,2176,2195,2254,2289,2295,2503,2947
+2150	Hauko Ondrej, SR	manž.Katarína Hančiaková Slimáková	0	2551,2926,3253
+2150	Hauko Ondrej, SR	manž.Zuzana Pobrežná Konitráš-?	0	2404
+2150	Hauko Ondrej, SR	nadob.v r.1911	0	2336
+2150	Hauková Mária, SR	Kurcin,rod.Mičík,manž.Ondrej,vd.,čd.129	0	1300
+2150	Hauková Mária, SR	Laurová,rod.Bujnák,manž.Ondrej st.,čd.57	0	1422,1868,1876,2043,2072,2079,2166,2176,2195,2254,2289,2294,2295,2316,2319,2321,2336,2488,2503,2947,2948
+2150	Hauková Mária, SR	rod.Melicherčíková,manž.Ján	0	2337
+2150	Hauková Zuzana, SR	Blizňák,rod.Sporková,manž.Ondrej,čd.114	0	1335,1448,2018,2084,2101,2181,2183,2262,2264,2273,2298,2314,2954
+2150	Hauková Zuzana, SR	Laurová,nadobudnuté v r.1870	0	2469
+2150	Hauková Žofia, SR	rod.Hančiaková Slimáková,manž.Ján	0	2146,2192,2204,2230
+2150	Havko Ondrej, SR	manž.Mária Mahútová,čd.83	0	1954,2532
+2150	Havková Mária, SR	rod.Mahútová,manž.Ondrej,čd.83	0	1954,2532
+2150	Heretíková Irma, SR	rod.Mešťanková,manž.Jozef,čd.139	0	1039,3231
+2150	HERMANOVÁ Zuzana r. Babušiaková		0	3027
+2150	Hlbočan Ján, SR	Jánov	0	2339,2368
+2150	Hlbočan Ondrej, SR		0	2353,2359,2365
+2150	Hlina Ondrej, SR	manž.Mária Melicherčík,nadobud.v r.1864	0	2233
+2150	HOLIGA Jozef	Špirko	0	3027
+2150	Holub Ondrej, SR	asi manž.Mária Tesáková,Zábrež čd.24	0	2248
+2150	Hrabuška Ondrej, SR	Lábik,nadobud.v r.1897	0	2450,2460
+2150	Hricko Ondrej, SR	manž.Zuzana Zdráhelová,čd.123	0	1300,1377,1772,2031,2033,2066,2161,2235,2280,2306,2483,2590,3004,3005,3006,3025
+2150	Hricková Zuzana, SR	rod.Zdrahelová,manž.Ondrej,čd.123	0	1300,1377,2589,2590
+2150	Hubka Ondrej, SR	ml.,asi totož s IDC 203	0	2402
+2150	Hubka Ondrej, SR	ml.m.Zuzana Melicherčík Kováčik,čd.109	0	1335
+2150	Hubková Zuzana	rod. Haklíková,manž.Adam,čd.189	0	2701
+2150	Hubková Zuzana, SR	rod.Haklíková,manž.Adam,čd.189	0	939,1701,1876,2040,2041,2074,2098,2295,2319,2320,2478,2494,2503,2507,2508,2594,2719,2948,3156
+2150	Hubková Zuzana, SR	rod.Melicherčík Kováčik,m.Ondrej,čd.109	0	1335
+2150	Hucko Ján, SR	manž.Zuzana Kubačková	0	2580
+2150	Hucková Zuzana, SR	Plešková,rod.Kubačková,manž.Ján	0	2452
+2150	Hvezduľ Ondrej, SR	st.manž.Zuzana Hazuchová,čd.138	0	1448
+2150	Chovanec Ján, SR	manž.Katarína Ševčíková	0	2039
+2150	Chylka Ondrej, SR	ml.,manž.Zuzana Babjaková	0	1676,1677,1679,1719,2043,2083,2087,2165,2176,2195,2198,2207,2252,2289,2432,2438,2459,2467,2469,2490,2491,2947,3084,3131
+2150	Chylková Zuzana r. Konitrášová, SR	manž.Ondrej	0	2438
+2150	Chylková Zuzana r. Zuberská, SR		0	1707
+2150	Jambor Ján, SR	manž.Zuzana Mičáková	0	2071,2180
+2150	Jancková Mária, SR	Lauríková,rod.Úradníčková,manž.Ondrej	0	2400
+2150	Jancková Zuzana, SR	Lauríková,rod.Lacko Havko,manž.Ján	0	2595

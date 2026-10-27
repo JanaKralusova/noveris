@@ -1,0 +1,256 @@
+2941	Kúdeľa Ján, Galier Galier		0	909,910,911,912
+2941	Kúdeľa Ján, gálik gálik		0	913,914,915
+2941	Kúdeľa Ján, Galis Galis		0	587,606,663,913,914,915,916,917,918
+2941	Kúdeľa Ján, Galis I Galis I		0	774,886,887,888
+2941	Kúdeľa Ján, Galo Galo		0	927,928,929,930,931,932
+2941	Kúdeľa Ján, slobodný slobodný		0	606,913,914,915
+2941	Kúdeľa Juraj		0	787,913,914,915
+2941	Kúdeľa Juraj	slobodný	0	185,327
+2941	Kúdeľa Juraj, maloletý maloletý		0	606,913,914,915
+2941	Kúdeľa Juraj, najmladší najmladší		0	927,928,929,930,931,932
+2941	Kúdeľa Juraj, slobodný slobodný		0	587,606,841,886,887,888,909,910,911,912,913,914,915,916,917,918,936
+2941	Kúdeľa Martin		0	827
+2941	Kúdeľa Michal, domár domár		0	886,887,888
+2941	Kúdeľa Ondrej	Galis	0	412
+2941	Kúdeľa Ondrej, Galis Galis		0	587,916,917,918
+2941	Kúdeľa Ondrej, Galis,m. Irena, 985 22 Točnica č.54 Galis,m. Irena, 985 22 Točnica č.54		0	891
+2941	Kúdeľa Ondrej, Galis,m.Irena, 985 22 Točnica č.54 Galis,m.Irena, 985 22 Točnica č.54		0	890
+2941	Kúdeľa Ondrej, m. Mária, 985 22 Točnica č.74 m. Mária, 985 22 Točnica č.74		0	890,891
+2941	Kúdeľa Pavel, Galier Galier		0	909,910,911,912
+2941	Kúdeľa Pavel, Galis Galis		0	900,906,907
+2941	Kúdeľa Pavel, maloletý maloletý		0	606,913,914,915
+2941	Kúdeľová Dorota r. Salajová		0	606,913,914,915
+2941	Kúdeľová Elena		0	606,808,913,914,915
+2941	Kúdeľová Elena r. Lörinčíková		0	606,913,914,915
+2941	Kúdeľová Elena, Beňo Beňo		0	886,887,888
+2941	Kúdeľová Elena, Galo Galo		0	927,928,929,930,931,932
+2941	Kúdeľová Elena, galove galove		0	816
+2941	Kúdeľová Helena		0	185,704,936
+2941	Kúdeľová Irena r. Galisová, m. Ondrej, 985 22 Točnica č.54 m. Ondrej, 985 22 Točnica č.54		0	890,891
+2941	Kúdeľová Irena r. Oždániová	m. Andrej	0	317,411
+2941	Kúdeľová Irena r. Oždániová, m. Andrej m. Andrej		0	587,916,917,918
+2941	Kúdeľová Júlia		0	882
+2941	Kúdeľová Julianna	maloletá	0	410,411
+2941	Kúdeľová Julianna, maloletá maloletá		0	606,786,886,887,888,913,914,915,927,928,929,930,931,932
+2941	Kúdeľová Mária		0	410,411,606,653,886,887,888,913,914,915,927,928,929,930,931,932
+2941	Kúdeľová Mária r. Červenáková, domár domár		0	738
+2941	Kúdeľová Mária r. Galová, m. Juraj m. Juraj		0	606,627,879,913,914,915
+2941	Kúdeľová Mária r. Galová, m.Pavel m.Pavel		0	886,888,909,910,911,912
+2941	Kúdeľová Mária r. Galová, manž.Pavel manž.Pavel		0	887
+2941	Kúdeľová Mária r. Králiková, m. Pavel m. Pavel		0	606,886,888,909,910,911,912,913,914,915
+2941	Kúdeľová Mária r. Králiková, manž. Pavel manž. Pavel		0	887
+2941	Kúdeľová Mária r. Šarkanová		0	768
+2941	Kúdeľová Mária, 194 194		0	587,916,917,918
+2941	Kúdeľová Mária, Galove m. Ján, 985 22 Točnica č.59 Galove m. Ján, 985 22 Točnica č.59		0	891
+2941	Kúdeľová Mária, Galove, m. Ján, 985 22 Točnica č.59 Galove, m. Ján, 985 22 Točnica č.59		0	890
+2941	Kúdeľová Paulína	maloletá	0	410,411
+2941	Kúdeľová Paulína, maloletá maloletá		0	606,856,886,887,888,913,914,915,927,928,929,930,931,932
+2941	Kúdeľová Pavlína		0	797
+2941	Kúdeľová Zuzana		0	635
+2941	Kudlák Ján		0	406,886,887,888
+2941	Kudlák Ján, 194 194		0	587,916,917,918
+2941	Kudlák Ondrej		0	888
+2941	Kudlák Ondrej, 194 194		0	917,918
+2941	Kudlák Ondrej, 985 22, Točnica č.67 985 22, Točnica č.67		0	890,891
+2941	Kudláková Katarína r. Gvajzelová, m. Juraj m. Juraj		0	606,690,886,887,888,909,910,911,912,913,914,915
+2941	Kudláková Zuzana r. Šoltésová		0	886,887,888
+2941	Kuzmová Mária, maloletá maloletá		0	587,678,886,887,888,913,914,915,916,917,918,927,928,929,930,931,932
+2941	Laco Adam		0	606,913,914,915
+2941	Laco Ján		0	606,913,914,915
+2941	Laco Michal		0	606,913,914,915
+2941	Laco Michal, m. Elena r. Lacová m. Elena r. Lacová		0	606,913,914,915
+2941	Laco Ondrej, dlhý dlhý		0	886
+2941	Lacová Elena r. Lacová, m. Michal m. Michal		0	606,913,914,915
+2941	Lacová Katarína		0	381,574,723
+2941	Lacová Katarína, maloletá maloletá		0	606,913,914,915
+2941	Lančok Ján	m. Elena r. Marková	0	57,394
+2941	Lančok Ján, 194 194		0	886,887,888
+2941	Lančok Ján, 985 22, Točnica č.27 985 22, Točnica č.27		0	890,891
+2941	Lančok Ján, 985 22, Točnica č.68 985 22, Točnica č.68		0	890,891
+2941	Lančok Ján, m. Elena r. Červenáková m. Elena r. Červenáková		0	606,886,888,909,910,911,912
+2941	Lančok Ján, maloletý maloletý		0	927,928,929,930,931,932
+2941	Lančok Ján, manž. Elena rod. Červenáková manž. Elena rod. Červenáková		0	887
+2941	Lančok Juraj	v USA	0	498
+2941	Lančok Juraj, v USA v USA		0	909,910,911,912
+2941	Lančok Michal		0	606,859,913,914,915,935
+2941	Lančok Michal	slobodný	0	370
+2941	Lančok Michal, m. Elena, r. Jánošová m. Elena, r. Jánošová		0	606,913,914,915
+2941	Lančok Michal, slobodný slobodný		0	587,606,645,886,887,888,909,910,911,912,913,914,915,916,917,918,926,927,928,929,930,931,932
+2941	Lančoková Elena	slobodná	0	370
+2941	Lančoková Elena r. Ivaničová, m. Michal m. Michal		0	751,886,887,888
+2941	Lančoková Elena r. Jánošová, m. Michal m. Michal		0	606,886,887,888,909,910,911,912,913,914,915
+2941	Lančoková Elena r. Marková	m. Ján	0	57,394,395
+2941	Lančoková Elena r. Marková, m. Ján m. Ján		0	577,772,886,888,909,910,911,912
+2941	Lančoková Elena r. Marková, manž. Ján manž. Ján		0	887
+2941	Lančoková Elena, slobodná slobodná		0	587,600,606,744,886,887,888,909,910,911,912,913,914,915,916,917,918,927,928,929,930,931,932
+2941	Lančoková Helena r. Ivaničová		0	913,914,915
+2941	Lančoková Mária r. Balašková	m. Ondrej	0	287,318
+2941	Lančoková Mária r. Balašková, m. Ondrej m. Ondrej		0	574,782,886,888,900,906,907
+2941	Lančoková Mária r. Balašková, manž. Ondrej manž. Ondrej		0	887
+2941	Lauko Ján, 985 22, Točnica č.53 985 22, Točnica č.53		0	890,891
+2941	Líšková Mária r. Ivaničová		0	886,887,888
+2941	Magincová Elena r. Galádová, m. Juraj m. Juraj		0	913,914,915
+2941	Marko Pavel, m. Zuzana r. Galádová m. Zuzana r. Galádová		0	606,913,915
+2941	Marko Pavel, m. Zuzana, r. Galádová m. Zuzana, r. Galádová		0	914
+2941	Marková Elena r. Salajová, m.Juraj m.Juraj		0	909,910,911,912
+2941	Marková Katarína r. Lacová, m. Michal m. Michal		0	886,887,888,909,910,911,912
+2941	Marková Mária	maloletá	0	381
+2941	Marková Zuzana	maloletá	0	381
+2941	Marková Zuzana r. Galádová		0	395,577,752
+2941	Marková Zuzana r. Galádová, m. Pavel m. Pavel		0	606,913,914,915
+2941	Marková Zuzana, maloletá maloletá		0	577,785,886,887,888
+2941	Mázor Michal, maloletý maloletý		0	606,913,914,915
+2941	Mičian Ján, m. Mária r. Červenáková m. Mária r. Červenáková		0	606,913,915
+2941	Mičian Ján, m. Mária, r. Červenáková m. Mária, r. Červenáková		0	914
+2941	Mičian Michal		0	587,886,887,888,909,910,911,912,916,917,918
+2941	Mičianová Mária r. Červenáková, m. Ján m. Ján		0	606,913,914,915
+2941	Nándory Pavel, 985 22 Točnica č.45 985 22 Točnica č.45		0	890,891
+2941	Natikovská Zuzana r. Galová, m. Karol m. Karol		0	606,913,914,915
+2941	Oravcová Zuzana r. Kúdeľová	nebohá	0	288,412
+2941	Oravcová Zuzana r. Kúdeľová, nebohá nebohá		0	587,606,652,913,914,915,916,917,918,927,928,929,930,931,932
+2941	Oravec Ján		0	606,913,914,915
+2941	Oravec Ján, I I		0	606,913,914,915
+2941	Pivarči Ján	maloletý	0	185
+2941	Pivarči Ján, maloletý maloletý		0	600,848
+2941	Pivarči Juraj		0	886,887,888
+2941	Pivarčiová Mária	maloletá	0	185
+2941	Pivarčiová Mária r. Šípošová, hrbeľ hrbeľ		0	606,886,887,888,909,910,911,912,913,914,915
+2941	Pivarčiová Mária, maloletá maloletá		0	600,842
+2941	Polóniová Karolína r. Čupkayová, 194 194		0	587,916,917,918
+2941	Repčoková Zuzana r. Šárkanová		0	909,910,911,912
+2941	Salaj Ján		0	576,606,913,914,915
+2941	Salaj Ján	mladší, maloletý	0	561
+2941	Salaj Ján, mladší, maloletý mladší, maloletý		0	576,881
+2941	Salaj Michal		0	606,886,887,888,909,910,911,912
+2941	Salaj Ondrej		0	886,887,888
+2941	Salaj Pavel, 985 22 Točnica č.16 985 22 Točnica č.16		0	890,891
+2941	Salaj Pavel, I I		0	606,886,887,888,909,910,911,912
+2941	Salaj Pavel, Libent Libent		0	606,886,887,888,909,910,911,912,913,914,915
+2941	Salaj Pavel, Libent, 194 Libent, 194		0	587,916,917,918
+2941	Salaj Pavel, libent, 985 22 Točnica č.13 libent, 985 22 Točnica č.13		0	890,891
+2941	Salaj Pavel, mladší, 194 mladší, 194		0	587,916,917,918
+2941	Salajová Mária r. Libentová, m. Ondrej m. Ondrej		0	886,887,888,909,910,911,912
+2941	Salajová Zuzana r. Marková, m. Pavel m. Pavel		0	886,887,888
+2941	Sekereš Pavel, m. Margita r. Zdurná m. Margita r. Zdurná		0	909,910,911,912
+2941	Sekerešová Margita r. Zdurná, m. Pavel m. Pavel		0	909,910,911,912
+2941	Silassy Vojtech, Dr.		0	854,893
+2941	Silassy Vojtech, maloletý maloletý		0	767,893
+2941	Svoradová Elena r. Kúdeľová	nebohá	0	288,412
+2941	Svoradová Elena r. Kúdeľová, nebohá nebohá		0	587,606,707,913,914,915,916,917,918,927,928,929,930,931,932
+2941	Šárkan Juraj		0	511,606,687,886,900,906,910,912,913,914,915
+2941	Šárkan Juraj, mladší mladší		0	606,608,609,817,900,906,907,913,914,915
+2941	Šárkan Michal		0	888
+2941	Šárkan Michal, maloletý maloletý		0	917
+2941	Šárkan Pavel	najmladší	0	397
+2941	Šárkan Pavel, Bartók, mladší Bartók, mladší		0	927,928,929,930,931,932
+2941	Šárkan Pavel, m. Mária r. Lacová m. Mária r. Lacová		0	913,915
+2941	Šárkan Pavel, m. Mária, r. Lacová m. Mária, r. Lacová		0	914
+2941	Šárkan Pavel, maloletý maloletý		0	913,914,915,927,928,929,930,931,932
+2941	Šárkan Pavel, starší starší		0	909,910,911,912
+2941	Šárkanová Elena r. Kúdeľová		0	606,913,914,915
+2941	Šárkanová Elena r. Lacová, m. Pavel m. Pavel		0	886,887,888,909,910,911,912
+2941	Šárkanová Mária		0	900,906,907
+2941	Šárkanová Mária r. Galová, m. Juraj m. Juraj		0	606,913,914,915
+2941	Šárkanová Mária r. Lacová, m. Pavel m. Pavel		0	606,913,914,915
+2941	Šárkanová Mária r. Salajová, m. Ján m. Ján		0	909,910,911,912
+2941	Šárkanová Mária r. Šárkanová		0	913,915
+2941	Šárkanová Mária r. Šárkanová, m. Ondrej m. Ondrej		0	608,609
+2941	Šárkanová Mária r. Šárkanová, manž. Ondrej manž. Ondrej		0	927,928,929,930,931,932
+2941	Šárkanová Mária r. Šárkanová, vdova vdova		0	914
+2941	Šárkanová Mária, maloletá maloletá		0	608
+2941	Šípoš Ján		0	913,914,915
+2941	Šípoš Ján, mladší, nebohý mladší, nebohý		0	606,627,647,886,887,888,909,910,911,912,913,914,915
+2941	Šípošová Elena r. Kúdeľová	m. Juraj	0	411
+2941	Šípošová Elena r. Kúdeľová, m. Juraj m. Juraj		0	656,886,887,888,909,910,911,912
+2941	Turčan Ján		0	900,906,907
+2941	Turčan Ján, 194 194		0	587,900,916,917,918
+2941	Turčan Ján, 985 22 Točnica č.9 985 22 Točnica č.9		0	890,891
+2941	Turčan Ondrej, 985 22 Točnica č.9 985 22 Točnica č.9		0	890,891
+2941	Turčan Ondrej, I I		0	927,928,929,930,931,932
+2941	Turčan Ondrej, maloletý maloletý		0	736,886,887,888,909,910,911,912,927,928,929,930,931,932
+2941	Turčan Pavel		0	606,913,914,915
+2941	Turčanová Elena r. Kúdeľová, m.Ján m.Ján		0	606
+2941	Urban Ján		0	927,928,929,930,931,932
+2941	Urban Ján	maloletý	0	287,318,381
+2941	Urban Ján, maloletý maloletý		0	606,802,886,887,888,900,906,907,909,910,911,912,913,914,915,927,928,929,930,931,932
+2941	Urbančoková Mária		0	400
+2941	Urbanová Zuzana r. Balašková		0	606,913,914,915
+2941	Vančová Mária r. Kúdeľová		0	412,587,606,858,913,914,915,916,917,918,927,928,929,930,931,932
+2941	Vargic Jozef, 985 22 Točnica č.33 985 22 Točnica č.33		0	890,891
+2941	Voťoupal Jozef	m. Emília	0	11
+2941	Voťoupalová Emília	m. Jozef	0	11
+2941	Vrabcová Mária r. Urbančoková	m. Ján	0	327,400
+2941	Vrabcová Mária r. Urbančoková, m. Ján m. Ján		0	600,627,868
+2941	Vrabcová Mária, maloletá maloletá		0	606,913,914,915
+2941	Vrabcová Žofia, maloletá maloletá		0	606,913,914,915
+2941	Vrabec Ondrej, maloletý maloletý		0	606,913,914,915
+2941	Vrbiniaková Mária r. Kúdeľová		0	875
+2941	Zacharová Mária r. Kúdeľová, m.Emil m.Emil		0	886,888
+2941	Zacharová Mária r. Kúdeľová, manž.Emil manž.Emil		0	887
+2942	BEREŽNÁ Mária		1	184,216,261
+2942	Čarná Anna r. Labancová		0	215
+2942	Čarná Anna r. Labancová	zomrela	1	259,279,281
+2942	ČEČKO Ján		1	161,171,194,219,227,228,231,232,238,259,260,283
+2942	Čečko Michal		1	259,260,270,283
+2942	Čečko Mikuláš		1	283
+2942	Čečko Mikuláš	ž.Zuzana r.Medvecová	1	283
+2942	Čečková Anna r. Klebanová		0	228,232
+2942	Čečková Anna r. Piskoríková		0	167
+2942	Čečková Mária		1	259,283
+2942	Čečková Zuzana r. Medvecová		0	172,220
+2942	ČERNÁ Anna r. Labancová		0	171,180,194,221,227,228,232
+2942	FINANČNÝ Odbor	Čs štát odbor finančný Svidník	0	171,192,194,198,204,208,218,224,228,231,232
+2942	Gonošová Júlia r. Bodnárová		0	206,231
+2942	Homoľová Anna		1	259
+2942	HORŇÁKOVÁ Mária	r. Medvecová	0	176,225
+2942	HORŇÁKOVÁ Mária r. Medvecová		1	171,174,175,186,194,196,205,213,214,226,227,228,231,232,254,255,259,271,272,274,299,310
+2942	HORŇÁKOVÁ Mária r. Medvecová, SR		1	273
+2942	Hudák - Vlábeľ Ján		1	273
+2942	Hudák - Vrábeľ Michal	zomrel	1	259
+2942	Hudák - Vrábeľ Vasiľ		1	273
+2942	Hudák Ján		1	171,204,259,265,266
+2942	Hudák Ján	ž. Anna r. Daňková	0	231
+2942	Hudák Ján	ž.Terézia r.Dilyová,zomrel	1	261
+2942	HUDÁK Ján	ž. Terézia r. Dylová	0	169,171,182,184,185,194,195,196,202,203,208,216,218,219,223,226,227,228,231,232
+2942	HUDÁK Ján, SR	ž. Terézia r. Dylová	0	225
+2942	Hudák Juraj		0	216,223,224
+2942	HUDÁK Michal		1	182,194,223,224,226,266,273
+2942	HUDÁK Michal	I	0	225
+2942	HUDÁK Michal	II	0	225
+2942	HUDÁK Michal, SR	ž. Mária r. Čečková	0	176
+2942	HUDÁK Olexa		0	195,196,203,208,218,219
+2942	Hudák Peter		1	259,265,266
+2942	Hudákková Anna r. Hudáková		0	228
+2942	Hudáková - Vrábelová Anna		1	273
+2942	Hudáková Anna		1	259
+2942	Hudáková Anna	dcéra Juraja,m.Terézia r.Medvedz	0	169
+2942	Hudáková Anna r. Daňková		0	198,227,228,232
+2942	Hudáková Anna r. Hudáková	zomrela	1	269,287
+2942	HUDÁKOVÁ Anna r. Hudáková		0	189,194
+2942	Hudáková Helena r. Medvecová		0	172,220
+2942	Hudáková Iľa r. Medvecová		0	195,196,203,218,219
+2942	Hudáková Mária r. Bodnárová		0	184
+2942	Hudáková Oľga r. Medvecová		0	208
+2942	IHNÁT Ján		1	173,194,258,285,301,302,303,304
+2942	IHNÁT Mikuláš		1	171,258
+2942	IHNÁTOVÁ Anna	r. Vrabeľová	0	176
+2942	Ihnatová Anna r. Vrabeľová		0	171,194,227,228,231,232
+2942	Kaňuková Anna r. Medvecová		0	218,224,231
+2942	Kasarda Juraj	ž. Mária r.Pánova,zomrel	1	268
+2942	Kasardová Mária r. Pánova	zomrela	1	268
+2942	Klebanová Anna		1	259
+2942	Koscelníková Anna r. Hudáková		0	233
+2942	LABANC Havrila		0	215
+2942	Labanc Juraj		1	171,215,259,279
+2942	Labanc Michal		0	231
+2942	LABANCOVÁ Iľa		0	215
+2942	LABANCOVÁ Mária		1	171,180,215,221,227,228,232,259,279,281
+2942	LABANCOVÁ Zuzana		1	171,180,194,215,221,227,228,232,259,279,281
+2942	Medvec Ján	ž.Mária r.Šatníková	1	254,255,259,271,272,274,310
+2942	MEDVEC Ján		1	161,171,194,204,211,212,219,227,228,232,254,255,259,260,272,274,310
+2942	MEDVEC Ján, SR	ž.Mária r.Šatníková	1	273
+2942	MEDVEC Jozef		0	171,174,175,186,194,196,205,213,214,226,227,228,231,232,299
+2942	MEDVEC Jozef	syn Jozefa	0	176,225
+2942	Medvec Juraj	ž. Alžbeta r. Medvecová	0	162
+2942	MEDVEC Juraj		1	176,194,258
+2942	MEDVEC Juraj, SR	ž. Alžbeta r. Medvecová	0	225

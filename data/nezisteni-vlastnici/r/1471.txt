@@ -1,0 +1,256 @@
+871	Branický Jozef, SR		1	781,802,826,827,828,850,864,1035,1467
+871	Branický Jozef, SR	č.vl.205	1	548
+871	Branický Jozef, SR	st	1	633,636,705,706
+871	Branický Karol, SR		1	666,668
+871	Branický Ľudovít, SR		1	600
+871	Branický Štefan, SR		1	666,668
+871	Brunčák Ľudovít r. Brunčák		0	1080
+871	Brunčáková Margita, SR		1	308,547,556,558,567,570,802,807,808,818,1050,1051,1229,1244,1245,1246,1247,1250,1251,1349,1364,1365,1366,1367,1410
+871	Brunčáková Mária, SR		1	308,570,1364
+871	Brunčáková Rozália r. Kuloštiaková, SR		1	844
+871	Bučeková Apolónia		0	1080
+871	CIEKEROVÁ Mária		0	977
+871	ČAPEK Ján		0	977
+871	DOMIŇÁK Andrej		0	977
+871	DOMIŇÁK Andrej	Čižmár	0	977
+871	DOMIŇÁK Jozef		0	977
+871	DOMIŇÁKOVÁ Mária		0	977
+871	DULKA Ján	Čílek	0	977
+871	DULKA Štefan		0	977
+871	DURAJOVÁ Mária		0	977
+871	FERENČÍK Ján		0	977
+871	FERENČÍKOVÁ Johana		0	977
+871	FORTUNA Ján		0	977
+871	GABARÍK Jozef		0	977
+871	GABAROVÁ Terézia		0	977
+871	Gavran Anton, SR		1	761,762,767,795,802,955,957,1062,1063,1117,1118,1119,1165,1178,1379,1385,1387,1388
+871	Gavranová Mária, SR		1	523
+871	Geburová Johana r. Jesenská, SR		1	560,564,565,568,784,802,951,1107,1108,1109,1110,1111,1112,1113,1114,1115,1462,1463
+871	GLAJSOVÁ Rozália		0	977
+871	GLONEKOVÁ Mária		0	977
+871	Gloneková Mária r. Klusová, SR		1	661
+871	Gloneková Veronika, SR		1	539
+871	Haramová Justína r. Kakačková, SR		1	847
+871	Heller Jakub, SR		1	597,751,757,758,760,802,868
+871	Heller Jakub, SR	LSR	0	756
+871	Hlušák Štefan, SR		1	802,809
+871	Hlušáková Mária r. Kuloštiaková, SR		1	844
+871	Hmyzák Štefan, SR	č.vl.48	1	538
+871	HORVÁTH Jozef	Šikala	0	977
+871	Imrišková Žofia r. Pačiková, SR		1	511,512,745,802,917,918,1355
+871	Jesenský Vendelín, SR		1	560,564,565,568,784,802,951,1107,1108,1109,1110,1111,1112,1113,1114,1115,1462,1463
+871	KACHÚT František		0	977
+871	KAJANOVÁ Žofia		0	977
+871	Kakačka Alojz, SR		1	645
+871	Kakačka Alojz, SR	č.vl.209	1	847
+871	Kakačková Apolónia, SR		1	847,848
+871	Kakačková Justína r. Holmová, SR SPF		1	848
+871	Kakačková Justína, SR		1	645
+871	Kakačková Terézia r. Majerčíková, SR		1	848
+871	KLus Jozef, SR		1	661
+871	Klusová Apolónia, SR		1	661
+871	Klusová Katarína, SR		1	661
+871	Knofličková Mária r. Rýdziková, SR		1	569
+871	Kokošková Justína r. Holmová, SR		1	847
+871	KOVÁČOVÁ Žofia		0	977
+871	Kovalčík Jozef, SR		1	538,607
+871	Kovalčík Štefan, SR		1	618
+871	Kovalík Anton, SR	č.vl.26	1	589,659,662,698,802,813,856,980,1033,1255,1279,1372,1377,1378,1386,1392,1399,1400
+871	Kovalík Ján r. Kovalík		0	1080
+871	Kovalík Karol r. Kovalík		0	1080
+871	Kovalíková Margita r. Kovalíková		0	1080
+871	Kovalíková Milina, SR		1	802
+871	Krasuľová Johana r. Kordiaková, SR		1	1278,1280
+871	Kuloštiaková Apolónia, SR		1	842
+871	Kuloštiaková Emília, SR		1	844
+871	Kuloštiaková Irena r. Kakačková, SR		1	810
+871	Kuloštiaková Justína, SR		1	619,621,622,714,715,780,802,816,842,863,865,897,912,913,935,940,941,1026,1027,1055,1056,1089,1094,1096,1137,1145,1151,1168,1174,1221,1222,1238,1256,1262,1291,1307,1308,1309,1310,1311,1313,1314,1318,1332,1333
+871	Kuloštiaková Rozália, SR		1	842
+871	Kuloštiaková Terézia, SR		1	842
+871	Leporis Alojz, SR		1	663,665,673,675,679,681,686,694,695,802,997,1002,1071,1299,1300,1361,1438,1475
+871	Levandovská Johana r. Pačiková, SR		1	509,933,1225,1342
+871	LUCKÁ Terézia		0	977
+871	LUCKÝ Štefan		0	977
+871	MAGERČÁK Jozef		0	977
+871	MAGERČÁK Štefan		0	977
+871	Majerčíková Terézia r. Kakačková, SR		1	847
+871	MATULÁKOVÁ Magdaléna		0	977
+871	MAYEROVÁ Žofia		0	977
+871	Medvecká Terézia r. Bullová, SR		1	848
+871	MEDVECKÝ Štefan	Matejek	0	977
+871	Medvecký Vendelín, SR		1	848
+871	Mesterová Katarína r. Langerová, SR		1	560,564,565,568,784,802,951,1107,1108,1109,1110,1111,1112,1113,1114,1115,1462,1463
+871	Mišicová Apolónia r. Polačiková, SR		1	625
+871	Mišicová Mária r. Mikušková, SR		1	526,531,533,535,536,747,748,774,802,808
+871	MÚDRA Žofia		0	977
+871	Obroptová Otília r. Obroptová		0	1080
+871	Ončák Ján, SR	č.vl.30	1	597,751,756,757,758,760,802,868
+871	Ončáková Katarína, SR		1	597,751,757,758,760,802,868
+871	Ončáková Katarína, SR	LSR	0	756
+871	Ončáková Mária, SR	č.vl.30	1	597
+871	Ončáková Žofia r. Kovalčíková, SR		1	643,644,802,1068,1069,1070,1139,1149,1449
+871	Orčík Štefan r. Orčík		0	1080
+871	ORČOVÁ Katarína		0	977
+871	PACULIAKOVÁ Rozália		0	977
+871	Palider Štefan r. Palider		0	1080
+871	PETREK Jozef		0	977
+871	PETREKOVÁ Anna		0	977
+871	Pojtek Štefan r. Pojtek		0	1080
+871	Polačik Alexander, SR		1	643
+871	Polačik Anton, SR	č.vl.201	1	609
+871	Polačik Jozef, SR	č.vl.201	1	609
+871	Polačik Karol, SR		1	833
+871	Polačik Štefan, SR	č.vl.175	1	836
+871	Polačik Štefan, SR	č.vl.41	1	549,550,552,566,569,802,807,819,838,866,971,1350,1369
+871	Polačik Štefan, SR	mal	1	643
+871	Polačik Vendelín, SR		1	609
+871	Polačiková Apolónia, SR		1	833
+871	Polačiková Johana r. Tilková, SR		1	599
+871	Polačiková Margita, SR		1	560,564,565,568,784,802,833,951,1107,1108,1109,1110,1111,1112,1113,1114,1115,1462,1463
+871	Polačiková Mária, SR	č.vl.175	1	836
+871	PÚČEK Ondrej		0	977
+871	PUČEKOVÁ Zuzana		0	977
+871	Rýdzik Ján, SR		1	569,576,579,583,727,771,802,810,840,972,1044,1045,1402
+871	Rýdziková Justína, SR		1	569
+871	Sahul Ján, SR		1	523
+871	SIVINKOVÁ Terézia		0	977
+871	Slováková Mária r. Hmyzáková, SR		1	857
+871	Slovík Štefan r. Slovík	ž. Margita Kakačková-Hlušiak	0	1080
+871	STAREK Ondrej		0	977
+871	Sumega Martin, SR		1	674
+871	ŠEVČÍKOVÁ Mária		0	977
+871	ŠKUMAT Andrej		0	977
+871	ŠKUMAT Jozef		0	977
+871	Štipta Ignác, SR		1	847,848
+871	Štiptová Angela, SR		1	847,848
+871	Štiptová Justína, SR		1	847,848
+871	Štiptová Mária r. Huráková, SR	č.vl.209	1	847,848
+871	Štiptová Mária, SR		1	525,802,814,1013
+871	TARČÁKOVÁ Helena		0	977
+871	Tereššáková Apolónia r. Kristofčák, SR		1	630,636,705,706,751,757,758,760,781,802,826,827,828,850,864,868,1035,1057,1095,1138,1148,1169,1175,1467
+871	Tereššáková Apolónia r. Kristofčák, SR	LSR	0	756
+871	VÁRADY Jozef		0	977
+871	Vrana Alojz, SR		1	671,859
+871	Vranová Justína r. Brunčáková, SR		1	670
+871	Zimenová Cecília r. Pačiková, SR		1	917,933,1225,1342
+871	Zychová Mária r. Pačiková, SR		1	491,511,512,745,802,917,918,1355
+871	ŽUFFOVÁ Helena		0	977
+871	ŽUFFOVÁ Mária		0	977
+872	Bahíková Agneša r. Vidová	manž.Ľudovít	0	402,427
+872	Baláž Ondrej r. Baláž	ž.Mária r.Vajgelová	0	427
+872	Balážová Mária r. Vajgelová		0	391,427
+872	BARAMYAIOVÁ Lenka		0	427
+872	Bera Pavel		0	105,106
+872	Berová Etela		0	105,106
+872	Bógner Gyula r. Bógner		0	409
+872	BÓGYIEROVÁ Erzébet r. Széová		0	409
+872	Brenza Ľudovít r. Brenza	manž.Irena Bokrošová	0	380
+872	Brenzaová Jolana r. Szabolová	vd	0	380
+872	Domány Ondrej r. Domány	manž.Agneša Nagyová	0	389,427
+872	Dvorský Jozef r. Dvorský	syn Julianny	0	405
+872	GALAMBOSOVÁ Jolana r. Lócsaiová		0	397
+872	Hulvej Michal r. Hulvej		0	388
+872	Hulvej Michal r. Hulvej	mal	0	388
+872	Hulvejová Elena	mal	0	388
+872	HULVEJOVÁ Mária		0	388
+872	HULVEJOVÁ Zuzana r. Školníková		0	388
+872	Karika Ľudevít r. Karika	manž.Rozália Tóthová	0	396,427
+872	Kašník Pavol r. Kašník	ml	0	392,427
+872	KAŠNÍKOVÁ Alžbeta r. Paličková		0	392,427
+872	Kresťanko Michal r. Kresťanko		0	378
+872	Marfoldiová Zuzana r. Hulvejová		0	388
+872	Mrázová Ida r. Vorosová	vdova po Jánovi	0	400
+872	Nagyová Alžbeta r. Hanzaová	m.Ľudovít	0	384
+872	Nagyová Gizela	dcéra Ľudovíta	0	384
+872	Némethová Margita r. Konczová		0	398,427
+872	Ordogová Rozália r. Bílenková		0	403,427
+872	Sinó Ján r. Sinó	manž.Gizela Tormanová	0	386
+872	Slovesnká republika		0	349
+872	Spišiak Jozef r. Spišiak	mal	0	381
+872	Spišiak Ondrej r. Spišiak	mal	0	381
+872	Spišiaková Alžbeta r. Adamiová	vd	0	381
+872	Szabó Štefan r. Szabó	manž.Estera r.Balníková	0	394
+872	Šimo Michal r. Šimo	manž.Alžbeta r.Litavská	0	393
+872	Tóthová Terézia r. Haraová	manž.Ondreja	0	406
+872	Uhrinová Helena r. Szidóvá	manž.Július	0	379
+872	Veres Július r. Veres		0	383
+872	Veres Viliam r. Veres		0	383
+873	Adamik Ján	ml. obyvateľ z Bratislavy	0	648,665,666,859,860,1195
+873	Adamík Ján	syn Jána	0	648,665,666,859,860,1127,1235
+873	Adamiková Katarina	maloletá	0	648,665,666,859,860,1195
+873	Adamíková Katarína	slobodná, dcéra Jána	0	648,665,666,859,860,1122,1127
+873	Antoš Ján	m.Zuzana r.Zelenčíková	0	1334
+873	Antoš Pavol	m.Anna r.Ragačová čp.146, na lúke	0	363
+873	Antoš Pavol	zomrel	0	1333
+873	Antošová Anna r. Ficková		0	667
+873	Antošová Mária	maloletá	0	648,665,666,859,860,1320
+873	Antošová Zuzana r. Babiaková	m.Juraj	0	671,999
+873	Babiaková Anna		0	667
+873	Babiaková Zuzana r. Slováková		0	117,667
+873	Babuchna Jozef	čavoj,m.Mária r.Ďurišová,obyvateľka zo Starej Huty	0	363
+873	Badínková Mária r. Śtebáková	zomrela, naposledy bytom Podjavorinskej 2210/3 Zvolen	0	648,665,666,671,859,860,1084,1085
+873	Balogová Anna r. Marková	naposledy bytom Zvolen-Sekier č.1944/1	0	526,645,648,665,666,859,860
+873	Bánik Pavel r. Bánik	zomrel	0	478,648,665,666,742,821,859,860,1197
+873	Baník Pavol	m.Zuzana r.Vrbová čp.43	0	667
+873	Baníková Mária r. Antošová	z Madačky	0	667
+873	Bartoš František	naposledy bytom Plzeň Sokolovská 21	0	648,665,666,671,859,860,1071,1462
+873	Bartoš Ján	syn Jána,m.Zuzana r.Malá	0	648,665,666,671,859,860
+873	Bartoš Pavel	syn Jána, m.Mária r.Kanda	0	1079
+873	Bartoš Pavol	hrubý,m.Mária r.Kandová	0	60,648,665,666,859,860
+873	Bartoš Pavol	košian, m.Anna r.Melicherčíková	0	1292
+873	Bartoš Pavol	m.Mária r.Kandová	0	671
+873	Bartoš Pavol	m.Mária r.Kandová,syn Jána	0	57,449,648,665,666,671,859,860,911,1080,1081,1175,1441,1443
+873	Bartoš Pavol	m.Mária r.Kičinová,čd.202	0	1289
+873	Bartoš Pavol	pukan,m.Mária r.Petrusová,obyv. v Slov. Kľačanoch	0	667,1139
+873	Bartoš Štefan		0	648,665,666,671,859,860,1071,1462
+873	Bartošová Anna r. Antošová	m.Juraj	0	61,405,648,665,666,671,859,860,1096,1097
+873	Bartošová Anna r. Melicherčíková	čp.174	0	1092,1093,1300
+873	Bartošová Mária r. Kandová		0	61,404,405,648,665,666,859,860,1096,1097,1439
+873	Bartošová Mária r. Kandová	hrubý	0	65,67,68,648,665,666,671,859,860,924
+873	Bartošová Mária r. Kandová	m.Pavol	0	671
+873	Bartošová Zuzana r. Burdová		0	648,665,666,671,859,860,1170
+873	Bartošová Zuzana r. Ragačová	vdova čp.205	0	648,665,666,692,859,860,1161
+873	Bartošová Zuzana r. Ragačová	vdova,hero	0	667
+873	Belov Juraj	gabaj m.Zuzana r.Ragačová čd.93	0	667
+873	Belov Juraj	gabaj, obyvateľ z Maďarska	0	1198
+873	BELOV JURAJ		0	18
+873	BELOV JURAJ, HORNÝ TISOVNÍK, SR		0	937
+873	Belov Pavol	maloletý, syn Jána	0	648,665,666,826,827,859,860
+873	Belová Anna	gabaj , slobodná	0	648,665,666,827,859,860,938
+873	Belovová Helena r. Galajdová	m.Pavol, Horný Tisovník č.66	0	665,667,692,859,860,1146
+873	Beňo Ján		0	252
+873	Beňo Ján	gažo,slobodný	0	648,665,666,859,860,1260
+873	Beňo Ján	hoľko, čp.84	0	648,665,666,859,860
+873	Beňo Ján	m.Anna r.Kluková	0	798
+873	Beňo Ján	naposledy bytom H.Tisovník č.162	0	648,665,666,859,860
+873	Beňo Juraj	petráš,m.Mária r.Hrková	0	236,237,648,665,666,701,859,860,1065
+873	Beňo Milan	naposledy bytom H.Tisovník č.162	0	648,665,666,859,860,870,1064
+873	Beňo Pavel		0	270,418,941,942,972,1364
+873	Beňo Pavel	m.Katarína r.Káková	0	648,665,666,798,808,809,859,860,863,1376
+873	Beňo Pavel	syn Juraja	0	418,648,665,666,667,859,860,940,942,972,1244
+873	Beňo Pavol	pliesenka, m.Zuzana r.Bartošová	0	667
+873	Beňo Pavol	pliesenka,slobodný	0	648,665,666,859,860
+873	Beňo Pavol	richtarik,m.Anna r.Števáková čp.101	0	667
+873	Beňová Anna	holko, vyd.Čemanová	0	648,665,666,671,859,860,1337
+873	Beňová Anna	rozvedená, dcéra Juraja	0	418,648,665,666,667,859,860,941,972
+873	Beňová Anna r. Kluková		0	648
+873	Beňová Anna r. Koreňová		0	701,738,1065
+873	Beňová Anna r. Miklecová	zomrela	0	49,50,722,815,1078
+873	Beňová Anna r. Miklecová, Horný Tisovník, č. 75, SR		0	46
+873	Beňová Anna r. Strelková	vdova	0	418,648,665,666,667,859,860,940,941,942,972
+873	Beňová Katarína r. Koreňová	m.Ján	0	1054
+873	Beňová Katarína r. Koreňová	vdova ,Janovej, čp.195	0	251,667,700,1054
+873	Beňová Mária	gažo	0	648,665,666,859,860,1260
+873	Beňová Mária r. Beňová	vdova	0	648,665,666,667,859,860
+873	Beňová Mária r. Števáková	Zvolenská Slatina čd.378	0	98
+873	Beňová Zuzana r. Kluková		0	648,665,666,671,859,860,966,1294,1426
+873	Beňová Zuzana r. Melicherčíková		0	667,874,1364
+873	Beňová Zuzana r. Števáková	Horný Tisovník č.266	0	133,648,665,666,859,860,1090,1091,1495
+873	Beňová Zuzana r. Števková	stančík, obyvateľ z Turieho Poľa	0	667
+873	Blaško Ondrej	krajči,m.Anna r.Gondová	0	667
+873	Blaško Pavel	slobodný, obyvateľ zo Starej Huty	0	1365
+873	Blechová Zuzana r. Slováková	vdova, obyvateľka v Záhorskej Bystrice	0	443,648,665,666,859,860,967,968
+873	Bombalová Anna r. Vreštiaková		0	648,665,666,859,860,1319
+873	Brtko Jozef		0	363
+873	Brťko Jozef	zomrel	0	363,1351
+873	Brtková Irma		0	363

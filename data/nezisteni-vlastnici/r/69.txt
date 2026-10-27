@@ -1,0 +1,256 @@
+53	Vybochová Vilma		0	1190
+53	Weinerová Malvina	R Klopstock	0	3000,3406
+53	Závodská Anna	R Šlahorová	0	3008
+53	Závodská Berta	R Gazdíková	0	1037,2225,3511
+53	Závodská Jozefína	R Labudová	0	1923
+53	Závodská Jozefína	R Turjanová	0	2207
+53	Závodská Mária	R Pecková zom 16.7.2007	0	1233,1923,2838
+53	Závodský Anton		0	2207
+53	Závodský Daniel		0	2981
+53	Závodský Daniel	ž.A.Šlahorová	0	3008
+53	Závodský Miček Andrej		0	2842
+53	Závodský Turian Ján		0	2213
+53	Zbyňovčíková Žofia	R Horecká Ferencová	0	1190
+53	Zelník František		0	2874
+53	Zelník Štefan		0	299,976,985,1020,1021,1189,1335,1359,1440,1547,1652,1664,1925,1926,2000,2114,2140,2184,2185,2186,2250,2251,2253,2254,2286,2330,2444,2472,2473,2474,2477,2478,2479,2480,2485,2486,2488,2527,2645,2647,2650,2651,2652,2655,2656,3000,3037,3041,3065,3081,3082,3094,3148,3150,3356,3367,3368,3395,3397,3398,3399,3404,3406,3410,3411,3560,3561,3573,3602,3878
+53	Zelníková Anna	R Turčeková	0	1021,1101,1335,1547,1620,1652,1664,1925,1926,2114,2140,2184,2185,2253,2254,2472,2473,2474,2477,2478,2479,2480,2485,2486,2645,2647,2655,2656,3041,3065,3081,3082,3094,3356,3367,3395,3397,3398,3404,3411,3573,3602
+53	Zemčík František		0	3037
+53	Zemčíková Alojzia	R Kejmarová	0	1021,1335,1523,1564,1566,1664,1925,2114,2254,2472,2474,2645,2647,3041,3065,3398,3411,3602
+53	Zvarík Adam		0	1015,3037
+53	Zvarík Daniel		0	985,1440,2186,2286,2330,2472,2474,3000,3037,3041,3398,3406
+53	Zvarík Emil		0	1262,2694
+53	Zvarík František	ž.M.Sidorová	0	1523,1564,1566,2472,2474,2698,3398
+53	Zvarík Jaššo Jozef		0	689
+53	Zvarík Jaššo Pavol		0	689,976,985,1020,1101,1189,1394,1440,1620,1652,1925,1926,2140,2184,2185,2186,2253,2254,2286,2330,2444,2472,2473,2474,2479,2480,2485,2486,2488,2628,2650,2651,2652,2799,3000,3037,3041,3065,3071,3081,3082,3143,3148,3150,3287,3367,3368,3372,3395,3397,3398,3399,3406,3410,3573,3878
+53	Zvarík Jaššo Štefan		0	977,979,1358,1547,2477,2478,2592,2655,2656,2800,3000,3037,3056,3094,3356,3404,3406,3476,3488
+53	Zvarík Jaššo Vincent		0	689,976,1020,1101,1189,1394,1496,1620,1652,1851,1925,1926,2140,2150,2184,2185,2253,2254,2444,2472,2473,2474,2479,2480,2481,2485,2486,2488,2564,2566,2628,2650,2651,2652,2798,3000,3041,3065,3081,3082,3143,3148,3150,3189,3286,3367,3368,3371,3395,3397,3398,3399,3406,3410,3432,3456,3573,3866,3878
+53	Zvarík Jozef		0	3037
+53	Zvarík Jozef	ž.J.Štaffenová	0	2699,2819
+53	Zvarík Kováč Pavol		0	1991,1993,1995,3005
+53	Zvarík Kováč Štefan		0	3037
+53	Zvarík Kováč Vinco		0	3037
+53	Zvarík Ondrej		0	1261,1262,2694,2807,2954,3532
+53	Zvarík Ondrej	Ž B Zelníková zom 9.8.1987	0	1021,1335,1523,1564,1566,1664,1851,2114,2481,2645,2647,2712,3411,3602
+53	Zvarík Pavol		0	976,985,1020,1101,1189,1440,1496,1620,1993,2150,2186,2286,2330,2444,2488,2650,2651,2652,2807,2954,3000,3005,3037,3148,3150,3368,3399,3406,3410,3532,3878
+53	Zvarík Pavol	ž.A.Štaffenová	0	2699,2819
+53	Zvarík Vincent		0	1077,1078,2699,2819,2833,3037
+53	Zvarík Vincent	ž.J.Pecková	0	985,1440,2186,2286,2330
+53	Zvarík Vincent	ž.J.Štaffenová	0	1496,2150
+53	Zvaríková Jaššová Alžbeta		0	689,976,1020,1101,1189,1394,1620,1652,1925,1926,2140,2184,2185,2253,2254,2444,2472,2473,2474,2479,2480,2485,2486,2488,2628,2650,2651,2652,2892,3000,3041,3065,3081,3082,3143,3148,3150,3367,3368,3395,3397,3398,3399,3406,3410,3573,3878
+53	Zvaríková Jaššová Anna		0	689
+53	Zvaríková Jaššová Eržika		0	1496,1851,2150,2481,2564,2566,2798,3189,3286,3371,3432,3456,3866
+53	Zvaríková Jaššová Johana	R Štaffenová	0	1394,2628
+53	Zvaríková Jaššová Zuzana		0	689
+53	Zvaríková Jozefína	R Pecko Rapková	0	976,1020,1101,1189,1494,1510,1544,1554,1620,1652,1763,1925,1926,2140,2184,2185,2253,2254,2444,2472,2473,2474,2479,2480,2485,2486,2488,2613,2650,2651,2652,3000,3041,3065,3070,3081,3082,3148,3150,3367,3368,3395,3397,3398,3399,3406,3410,3573,3878
+53	Zvaríková Júlia	R Dorčíková	0	2694
+53	Zvaríková Mária		0	1205
+53	Zvaríková Mária	R Dorčíková	0	1262
+53	Zvaríková Matilda		0	1262,1652,1925,1926,2140,2184,2185,2253,2254,2472,2473,2474,2479,2480,2485,2486,2694,3041,3065,3081,3082,3367,3395,3397,3398,3573
+53	Zvaríková Oľga	R Gazdíková	0	1164,1233,2472,2474,3041,3398
+53	Zvaríková Zuzana	R Škubáková	0	1511
+53	Žilinčíková Jozefina	R Horecká	0	1190
+53	Žureková Rozália	R Senková	0	1190
+54	ADAMOVIČ Stanislav	Gen.Svobodu 815, Pečky, ČR	0	3851
+54	ADAMOVIČ Stanislav	Gen.Svobodu č.815, Pečky, ČR	0	3865
+54	ANTALA Ignác	sl., z Prus, vl.č.207	0	3992
+54	ANTALA Ján	ml., vl.č.1388	0	4141
+54	ANTALA Ján	vl.č.494	0	4222
+54	ANTALA Michal	po Ondrejovi, vl.č.494	0	4222
+54	ANTALOVÁ Mária	r. Tkáčová	0	4222
+54	AŠVERUSOVÁ Daniela	r. Beňačková, Bánovce n/B	0	3834,3835
+54	AUGUSTÍNOVÁ Štefánia	r. Igazová, Domaniža, 151	0	4176
+54	BAJZÍKOVÁ Júlia	r. Kozinková	0	2206
+54	BALÁŽI Július	ml., vl.č.481	0	59
+54	BALÁŽI Ladislav	vl.č.481	0	59
+54	BALÁŽIOVÁ Margita	vl.č.481	0	59
+54	BALÁŽOVÁ Ružena	r. Geletová, J.Kráľa 707, Bánovce n.B	0	3891
+54	BALAŽOVIECH Juraj	Dr., v Bratislave, Hodžova, 8	0	4098
+54	BALAŽOVIECHOVÁ Antónia	r. Žitňanová, čd.320, D 289/71	0	3977,4131
+54	BARÁNKOVÁ Božena	r. Adamovičová, Malé Chlievany 51	0	3851
+54	BARÁNYOVÁ Mária	r. Ďurechová	0	4159
+54	BARÉNYIOVÁ Antónia	r. Pietriková, v Trenčíne	0	1987,4061
+54	BARTOŠKOVÁ Klára	r. Havlíková, Szabova 16, Bratislava	0	3957
+54	BÁTORA Anton	žena Amália r. Kozinková	0	4185
+54	BÁTORA Anton	žena Margita r. Bátorová, Biskupipce, 8	0	4180
+54	BÁTORA Anton	žena Mária r. Igazová, Biskupice, 38	0	4168
+54	BÁTORA Dionýz	žena Bernardína r. Bátorová,D.Naštice,24	0	4122
+54	BÁTORA Ján	žena Alžbeta r. Adamovičová,Biskupice,19	0	4167
+54	BÁTORA Jozef	Hermína, Anna, vl.č.739	0	4203
+54	BÁTORA Jozef	PhDr., Tribečská 15, Nitra	0	1712
+54	BÁTORA Jozef	vl.č.830	0	4121
+54	BÁTORA Rudolf	Anastázia	0	4160
+54	BÁTOROVÁ Amália	r. Kozinková, Dolné Naštice 26	0	4143,4185
+54	BÁTOROVÁ Anna	Jozef, Hermína, vl.č.739	0	4203
+54	BÁTOROVÁ Anna	r. Igazová, Dolné Naštice 146	0	3230
+54	BÁTOROVÁ Eleonóra	r. Žatková, Dol.Naštice, 58	0	4121
+54	BÁTOROVÁ Helena	r. Igazová, Dolné Naštice 10	0	3230
+54	BÁTOROVÁ Juliana	Dol.Naštice, 47, vl.č.830	0	4121
+54	BÁTOROVÁ Mária	r. Gunišová	0	4181,4203
+54	BÁTOROVÁ Paulína	r. Štrbavá, D.Naštice, 47	0	2107
+54	BEŇAČKA Anton	žena Antónia r. Kasalová, D 148/78	0	3718
+54	BEŇAČKA Jozef	Biskupice, 16, vl.č.635	0	4162,4169
+54	BEŇAČKA Jozef	Šimon, Mária, Anna, Michal, Oľga	0	1860
+54	BEŇAČKA Michal	Mária, Šimon, Jozef, Anna, Oľga	0	1860
+54	BEŇAČKA Michal	vl.č.819	0	2750,3053
+54	BEŇAČKA Peter	Biskupice, 16, vl.č.637	0	1578
+54	BEŇAČKA Peter	vdovec, v Amerike	0	2684
+54	BEŇAČKA Šimon	Jozef,Mária, Anna, Michal, Oľga	0	1860
+54	BEŇAČKOVÁ Elena	po Michalovi aj Daniela,Marta, Bánovce	0	3834,3835
+54	BEŇAČKOVÁ Emília	r. Stránska	0	3933,5396
+54	BEŇAČKOVÁ Jozefína	r. Beňačková, vd.,A.Kmeťa 3,Bánovce n.B	0	3833
+54	BEŇAČKOVÁ Marta	po Michalovi aj Daniela,Elenam, Bánovce	0	3834,3835
+54	BEŇAČKOVÁ Oľga	Mária, Šimon, Jozef, Michal, Anna	0	1860
+54	BEŇAČKOVÁ Paulína	r. Kračmerová	0	1944
+54	BENKOVÁ Ľubica	mal.,u pest. Štefana Oravca,Chalmová 82	0	4221
+54	BERECOVÁ Mária	r. Jedličková,1.mája 1945/55,Lip.Mikuláš	0	2921,2922
+54	BEREŠ Peter	žena Gabriela r. Matušková,M.Urbana 9,BN	0	3896,3897
+54	BEZÁK Rudolf	vl.č.990	0	3755
+54	BEZÁKOVÁ Júlia	r. Ďurechová	0	4159
+54	BIELIKOVÁ Adela	r. Žitňanová, Sever 6, Bánovce n.B	0	3876
+54	BIELY Anton	z Prus čd.93, vl.č.240	0	4002
+54	BIELY Štefan	žena Anna r. Kyselicová	0	2051
+54	BIZOVÁ Eva	r. Jedličková	0	4075
+54	BLASCHKE Karol	vl.č.411	0	3750
+54	BLASCHKEOVÁ Mária	r. Dvořáková	0	3750
+54	BLAŽOVÁ Alžbeta	r. Tomanová	0	2224
+54	BOBUŠOVÁ Katarína	r. Hederová	0	4033
+54	BODNÁR Michal	žena Anna r. Pietriková	0	3427
+54	BRIDA Alojz	Ján,Pavol,Koloman,Karol,Juliana	0	3790
+54	BRIDA Karol	Alojz,Ján,Pavol,Koloman,Juliana	0	3790
+54	BRIDA Koloman	Alojz,Ján,Pavol,Karol,Juliana	0	3790
+54	BRIDA Pavol	Alojz,Ján,Koloman,Karol,Juliana	0	3790
+54	BRIDOVÁ Juliana	Alojz,Ján,Pavol,Koloman,Karol	0	3790
+54	BRNOVÁ Anna	r. Stránska	0	3933,5396
+54	BROČKOVÁ Emília	r. Laurincová, Hviezdoslavova 13,Bánovce	0	3892,3908
+54	BUJNA Jozef	po Rudolfovi	0	4116
+54	BUJNA Jozef	žena Štefánia r. Šujanová, Biskupice, 51	0	4144
+54	BURDA Pavol	žena Terézia r. Blahová, Vrštek 2, BN	0	2419
+54	BURIKOVÁ Paulína	r. Šinská, v Amerike	0	3767
+54	BURZOVÁ Oľga	r. Sliepková, M.Urbana 15, Bánovce n/B	0	3905
+54	CIBULOVÁ Mária	r. Števanková, Tatranská 4, Trenčín	0	1971,2205,3968
+54	ČERNÁKOVÁ Emília	r. Valientová, vd., Prusy 117	0	2037
+54	ČERNO Jozef	žena Zuzana r. Ševčíková	0	4062
+54	ČERNOVÁ Zuzana	r. Ševčíková	0	4062
+54	DANIŠ Anton	Cyrila a Metoda 1310/9, Bánovce n.B	0	3890
+54	DANIŠ Pavel	Ing.,ž. Daniela r. Herdová,Vystrkov 1147	0	3890
+54	DANIŠOVÁ Agneša	r. Michalková, vd.,Mila Urbana 1032/7,BN	0	3890
+54	DILAOVÁ Mária	r. Dubnická	0	2355
+54	DLHÁ Jozefína	r. Schmidtová,Kpt.Nálepku 7,Bánovce n/B	0	3937
+54	DOHNÁLEKOVÁ Hermína	r. Lihocká	0	2083
+54	DOKTOROVÁ Juliana	r. Adameová	0	4181
+54	DOLEŽALOVÁ Antónia	r. Janáčová, v Amerike	0	2480,2684,3688,3965,4148,4211
+54	DUBNICKÝ Štefan	po Jánovi, M.R.Štefánika 51/14, BN	0	3912
+54	DUJČÍKOVÁ Emília	r. Schmidtová	0	3937
+54	ĎURAČKA Daniel	Ľubomír, po Ondrejovi	0	4095
+54	ĎURAČKA Ľubomír	Daniel, po Ondrejovi	0	4095
+54	ĎURECH Ján	Jozef, Pavol, Juliana, vl.č.423	0	362
+54	ĎURECH Ján	Mária, Anna, Jozef, Júlia, Helena, Karol	0	4159
+54	ĎURECH Jozef	Mária, Anna, Ján, Júlia, Helena, Karol	0	4159
+54	ĎURECH Karol	Mária, Anna, Jozef, Júlia, Ján, Helena	0	4159
+54	ĎURECH Karol	po Anne r. Ďurechovej, Biskupice 23	0	4159
+54	ĎURECHOVÁ Anna	r. Ďurmechová	0	362
+54	ĎURECHOVÁ Helena	Mária, Anna, Jozef, Júlia, Ján, Karol	0	4159
+54	ĎURECHOVÁ Juliana	Pavol, Jozef, Ján, vl.č.423	0	362
+54	ĎURECHOVÁ Juliana	sl., vl.č.1044	0	4129
+54	ĎURECHOVÁ Juliana	vl.č.1125	0	3970
+54	ĎURECHOVÁ Magdaléna	r. Horňová, Biskupice	0	4159
+54	ĎURIAČOVÁ Irena	r. Farkašová, Bernoláková 310/1, Bánovce	0	3914
+54	ĎURKÁČ Emil	ž. Oľga r.Kormancová,Sládkovičova 746/32	0	3904
+54	ĎURMEKOVÁ Anna	po Jánovi, Hollého E 6/8, Bánovce n.B	0	3796
+54	DZURÍKOVÁ Juliana	r. Gerbelová	0	1835
+54	ERHARTOVÁ Mária	r. Stránska	0	3934
+54	FÁNDLY Ján	žena Hedviga r. Suchajová	0	3715
+54	FÁNDLYOVÁ Hedviga	r. Suchajová	0	3715
+54	FIALA František	Ľ.Štúra 2674/30, Nové Zámky	0	3968
+54	FISCHEROVÁ Marta	r. Nemlahová, Račianská 29, Bratislava	0	1867,1868,1869,3759,5471
+54	FODORA Jozef	vl.č.1327	0	3776
+54	FOJTÍK Ján	žena Marta r. Vaceková	0	2980
+54	FOJTÍKOVÁ Antónia	r. Žitňanová, A.Kmeťa 17, Bánovce n/B	0	3983
+54	FOJTÍKOVÁ Paulína	r. Janáčová	0	3935
+54	FOJTÍKOVÁ Veronika	r. Stránska, v Amerike	0	3947
+54	FRAŇO Ján	Michal,Irena, D 155/1939	0	3805,5050,5051
+54	FRAŇO Michal	Ján,Irena, D 188/1939	0	3805,5050,5051
+54	FRAŇO Michal	Ján,Ondrej čd 373/1895, čd 207/1896	0	2224
+54	FRAŇO Michal	Ondrej, D 41/24	0	2224
+54	FRAŇO Ondrej	Michal, D 41/24	0	2224
+54	FRAŇOVÁ Irena	Ján,Michal, D 188/1939	0	3805,5050,5051
+54	GÁBRIŠKA Eliáš	žena Irena r.Litavská,Partizánska 54,Bce	0	4082
+54	GALBO Jozef	Štefan, po Pavlovi, vl.č.405	0	1498
+54	GALBO Štefan	Jozef, po Pavlovi, vl.č.405	0	1498
+54	GÁLISOVÁ Anastázia	r. Bátorová	0	4160
+54	GÁLISOVÁ Antónia	r. Horná, D.Naštice	0	4117
+54	GÉCI Ignác	žena Paulína r. Žáková, Prusy č.89	0	3101,3102,3103,3105
+54	GÉCI Jozef	žena Mária r. Tomášiková	0	2051
+54	GÉCI Ondrej	Prusy č.d.92, vl.č.51	0	3999
+54	GÉCI Peter	vl.č.1005	0	2005
+54	GÉCIOVÁ Mária	r. Géciová, Prusy	0	1768,1769,1932
+54	GÉCIOVÁ Paulína	r. Žáková, Prusy č.89	0	3101
+54	GIECI Jozef	Gabriela, vl.č.1240	0	2556
+54	GIECIOVÁ Angela	r. Gálisová	0	4153
+54	GIECIOVÁ Filoména	r. Kasalová	0	4006
+54	GLODŽIAKOVÁ Mária	r. Ďurišová, Gen.Viesta 6, Trenčín	0	3866
+54	GRÁČ Ondrej	žena Amália r. Kuricová, Bánovce n/B	0	3693
+54	GRMELOVÁ Mária	r. Janáčová, Ľ.Milícií, Prostějov	0	4131
+54	GURAŇ Ján	ž. Marta r. Ďuračková,Partizánska 308/12	0	4095
+54	HABIGEROVÁ Anna	r. Janáčová, v Amerike	0	3688,3965,4148,4211
+54	HABIGEROVÁ Anna	r. Kobidová	0	3969
+54	HAGAROVÁ Mária	r. Pavlíková	0	3815
+54	HARINEKOVÁ Mária	r. Mištinová, v Amerike	0	3677
+54	HARINEKOVÁ Mária	r. Žitňanová,Opatovská cesta 115,Trenčín	0	3867
+54	HARINEKOVÁ Matilda	r. Zelinková,A.Hlinku 1120/7,Bánovce n/B	0	3832
+54	HAVLÍKOVÁ Gizela	po Gizele r.Zeiselovej,Dobšinského,Nitra	0	3957
+54	HEDERA Albert	Nita, vl.č.632	0	4031,4034
+54	HEDERA Ján	v Amerike, vl.č.507	0	4032
+54	HEDERA Ján	vl.č.798	0	1950
+54	HEDERA Ján	žena Štefánia r.Brišková, Hor.Naštice 81	0	4044
+54	HEDERA Peter	žena Mária r. Mináriková, H. Naštice	0	4038
+54	HEDEROVÁ Anna	mal., Hor.Naštice	0	3756
+54	HEDEROVÁ Anna	r. Kšiňanová, Hor.Naštice, čd.29	0	4045
+54	HEDEROVÁ Anna	r. Mináriková	0	4050
+54	HEDEROVÁ Juliana	r. Korbelová, H.Naštice, 79	0	3054
+54	HEDEROVÁ Mária	r. Gieciová	0	1769
+54	HEDEROVÁ Mária	r. Mináriková	0	4038
+54	HEDEROVÁ Mária	v Pešti, vl.č.763	0	4034
+54	HEDEROVÁ Štefánia	r. Brišková, Hor.Naštice, 81	0	4044
+54	HEJTMÁNEK Milan	Partizánska cesta, Bánovce n.B	0	4088
+54	HEJTMÁNKOVÁ Mária	r. Rejáková, Partizánska 302/26, Bánovce	0	3791
+54	HOGEN František	žena Alžbeta r. Stránska, vd., Bánovce	0	3952
+54	HOLASOVÁ Oľga	r. Pavlacká, vd., SNP 27, Trenč. Teplice	0	3989
+54	HOMOLOVÁ Danuša	vl.č.913	0	3919,4084
+54	HORVÁTHOVÁ Anna	r. Laurincová, Radlinského 66, Piešťany	0	3820,3930,4021
+54	HUČINOVÁ Mária	r. Šubová, v Amerike	0	4204
+54	HUDEC Metod	Paulína, Pavol, po Verone	0	4043
+54	HUDEC Pavol	Paulína, Metod, po Verone	0	4043
+54	HUDECOVÁ Paulína	Pavol, Metod, po Verone	0	4043
+54	IGAZ Aladár	Viliam, Michal, Anton, Jozef, Július	0	2110
+54	IGAZ Anton	Viliam, Michal, Jozef, Aladár, Július	0	2110
+54	IGAZ Anton	žena Mária r. Bátorová, D. Naštice, 2	0	4184
+54	IGAZ Filip	Fridrich, Terézia, Emília, Adela	0	1540,1541
+54	IGAZ Ján	v Amerike, vl.č.53	0	1664
+54	IGAZ Ján	žena Magdaléna r. Birešová, Biskupice, 0	0	4183
+54	IGAZ Jozef	Biskupice, 4	0	3230
+54	IGAZ Jozef	Viliam, Michal, Anton, Aladár, Július	0	2110
+54	IGAZ Jozef	Viliam, vl.č.134	0	4175
+54	IGAZ Jozef	žena Helena r. Podmanická, Biskupice, 25	0	4163
+54	IGAZ Ondrej	sl., Biskupice, 23, vl.č.396	0	4165
+54	IGAZ Peter	žena Mária r. Igazová, Biskupice, 5	0	4161,4171,4193
+54	IGAZ Peter	žena Terézia r. Escherová, Biskupice, 33	0	1664,1665
+54	IGAZ Rudolf	č.d.14, vl.č.1082	0	2018
+54	IGAZ Rudolf	Michale, vl.č.385	0	4156
+54	IGAZ Šimon	žena Terézia r. Hanová, Biskupice, 29	0	4174
+54	IGAZ Štefan	žena Anna r. Dzúriková, Biskupice, 15	0	4170
+54	IGAZ Viliam	Jozef, vl.č.134	0	4175
+54	IGAZ Viliam	Michal, Anton, Jozef, Aladár, Július	0	2110
+54	IGAZOVÁ Adela	Fridrich, Terézia, Emília, Filip	0	1540,1541
+54	IGAZOVÁ Anastázia	r. Lukáčová	0	4165
+54	IGAZOVÁ Anna	r. Dzúriková, Biskupice, 15	0	4177
+54	IGAZOVÁ Anna	r. Kozinková	0	2206
+54	IGAZOVÁ Brigita	Helena, Anna, Jolana	0	3230
+54	IGAZOVÁ Emília	Fridrich, Terézia, Adela, Filip	0	1540,1541
+54	IGAZOVÁ Ernestína	r. Igazová, Biskupice, 4	0	4182
+54	IGAZOVÁ Filoména	vl.č.389,Bánovce n/B	0	4173
+54	IGAZOVÁ Hermína	r. Bátorová, Biskupice	0	4203
+54	IGAZOVÁ Irena	mal., Helena, Biskupice, 6	0	4146
+54	IGAZOVÁ Jolana	Helena, Anna, Brigita, Biskupice 129	0	2536
+54	IGAZOVÁ Margita	r. Kasalová, Biskupice 63	0	3714
+54	IGAZOVÁ Mária	r. Bátorová, D.Naštice, 80	0	2004

@@ -1,0 +1,256 @@
+52	MRÁZOVÁ Mária	rod. MOKRÁŠOVÁ	0	3169,3251
+52	MRÁZOVÁ Mária	rod. RACKOVÁ ZA PAVLA	0	3659
+52	MRÁZOVÁ Mária	rod. VITEKOVÁ ZA MICHALA	0	3063,3972,4766
+52	Mrázová Mária r. Juríková		0	4501,4502
+52	Mrázová Mária r. Mokrášová		0	2787
+52	Mrázová Mária r. Petrániová		0	4460
+52	Mrázová Mária r. Szláviková		0	4488
+52	Mrázová Mária r. Šáteková		0	4561
+52	Mrázová Mária r. Tvrdoňová		0	2842
+52	Mrázová Mária r. Viteková		0	3029,4767
+52	MRÁZOVÁ Pavlína	rod. MICHÁČOVÁ	0	2799
+52	MRVANOVÁ Johana	rod. MORAVČÍKOVÁ	0	3727
+52	MUCHA Ferdinand		0	2716,3502
+52	Mucha Štefan	ž.Petrániová Agneša	0	1941,4283,4284,4521
+52	MUCHA Štefan		0	3322,3824
+52	MUCHOVÁ Agnesa	rod. PETRÁNIOVÁ	0	3322
+52	Muchová Agneša r. Petrániová		0	1941,3871,4283,4284,4521
+52	MUCHOVA Mária		0	2716
+52	MUCHOVA Mária	rod. TOMEČEKOVA	0	3502
+52	Namešová Anna r. Palacková		0	3777
+52	NAVRÁTILOVÁ Margita		0	3383
+52	NOVÁK Jozef	Ž.JOZEF. ŠVAJDOVÁ	0	3975
+52	NOVÁK Karol		0	3386
+52	NOVÁKOVÁ Jozefína	rod. ŠVAJDOVÁ ZA JOZEFA	0	3975
+52	ONDRUŠEK Ján		0	3847
+52	ONDRUŠEK Jozef		0	3847
+52	Ondrušek Ľudovít	maloletý	0	4576
+52	ONDRUŠEK Michal		0	3221,3240,3518,3638,4101
+52	ONDRUŠEK Pavel	Ž.ALŽBETA FEJEŠOVÁ	0	3912
+52	ONDRUŠEK Štefan		0	3847
+52	Ondrušekova Júlia		0	2700
+52	ONDRUŠEKOVÁ Júlia	rod. ZELENÁKOVÁ	0	2962,3504,3845
+52	ONDRUŠEKOVÁ Mária	rod. FEDERIČOVÁ ZA IMRICHA	0	2987,3854
+52	Ondrušeková Paulína		0	3638
+52	ONDRUŠKA Ján	Ž.MÁRIA MORAVČÍKOVÁ	0	3912
+52	ONDRUŠKOVÁ Paulína		0	3847
+52	ONDRUŠKOVÁ Paulína	rod. ROSIVALOVÁ ZA GAŠPARA	0	3581
+52	Ondrušková Paulína r. Rosivalová		0	3008
+52	ONDRUŠKOVÁ Valéria		0	2731
+52	ONDRUŠKOVÁ Valéria	rod. ŠVAJDOVÁ	0	3054
+52	Oravec Michal	ž.Bednáriková Helena	0	463,4482
+52	Oravecová Helena r. Bednáriková		0	463,4482
+52	OREMUS Gašpar		0	3210
+52	OREMUS Helena		0	3630,3700
+52	OREMUS Margita		0	3630
+52	OREMUS Michal		0	2699,3141
+52	OREMUS Michal	Ž. MAGDA	0	4003
+52	OREMUS Štefan		0	3210
+52	OREMUSOVA Františka	rod. RACEKOVA	0	3274
+52	OREMUSOVÁ Františka		0	3744
+52	OREMUSOVÁ Františka	rod. RACKOVÁ	0	2937
+52	OREMUSOVA Helena		0	3119,3141
+52	OREMUSOVA Helena	rod. ČEBÍKOVA	0	3267
+52	OREMUSOVÁ Magda	ZA MICHALA	0	4003
+52	OREMUSOVA Margita		0	3119,3141,3700
+52	Osvaldová Mária r. Rosivalová		0	2790
+52	OZORÁKOVÁ Katarína		0	3555
+52	PALACKA Anton		0	2649,3622
+52	PALACKA Ernest		0	3027,3028,3426,3429,3589,3600,3717
+52	PALACKA František		0	2728,3053,3508,3580,3813,3830
+52	PALACKA František	Ž. APOLÓNIA TCHOROVÁ	0	3984,3992
+52	PALACKA Gašpar	Ž. AURÉLIA TCHOROVÁ	0	3202
+52	PALACKA Imrich		0	2665
+52	PALACKA Imrich	Ž.MAGD. ŠIMUNEKOVÁ	0	2929
+52	Palacka Ján	ž.Jančovičová Helena	0	4510
+52	PALACKA Ján		0	3186,3298,3410,3599,3718
+52	PALACKA Ján	1	0	3186
+52	PALACKA Ján	Ž.ANNA KLOBUČNÍKOVÁ	0	3599
+52	PALACKA Ján	Ž.BAR. TCHOROVÁ	0	3409
+52	PALACKA Jozef		0	3426,3648
+52	PALACKA Jozef	SYN PAVLA PALACKA	0	3781
+52	PALACKA Jozef	Ž. JOHANA VILLAROVA	0	3226
+52	PALACKA Jozef	Ž.JÚLIANA ŠČEVLÍKOVÁ	0	3304
+52	Palacka Júlia		0	3622
+52	Palacká Júlia	maloletá	0	4168,4494,4527
+52	PALACKA Juraj		0	3027,3028,3426,3429,3589,3600,3717
+52	PALACKA Karol		0	2728,3622,3648
+52	PALACKA Karol	1	0	3053,3580
+52	PALACKA Karol	SYN PAVLA PALACKA	0	3781
+52	PALACKA Matej		0	3121,3550,3777
+52	PALACKA Michal		0	2728,3053,3508,3580
+52	PALACKA Michal	Ž.MÁRIA MICHAČOVÁ	0	3983
+52	PALACKA Pavol		0	2655,3092,3413,3648,3807
+52	PALACKA Pavol	SYN PAVLA PALACKA	0	3781
+52	PALACKA Peter		0	2647,3028,3109,3426,3429,3600,3685,3717,3807
+52	Palacka Štefan	ž.Čelková Anna	0	4546
+52	PALACKA Štefan	Ž. PAULÍNA ŠIMUNEKOV	0	3028
+52	PALACKA Tomáš	Ž. KATARÍNA SÁDECKÁ; Ž. KATARÍNA SÁDECKÁ	0	3367
+52	PALACKA Viliam		0	3027,3028,3426,3429,3589,3600,3717
+52	Palacka Vincent		0	2727,2728,2918,3053,3174,3352,3490,3580,3644,3646,3648,3675,3754,3779
+52	PALACKA Vincent	SYN PAVLA PALACKA	0	3490,3781
+52	PALACKA Vincent	Ž. ANNA HOLECOVÁ	0	3508
+52	PALACKA Vincent	Ž. MAGDALÉNA MRÁZOVÁ	0	3508
+52	PALACKA Vojtech		0	2728
+52	PALACKA Vojtech	1	0	3053,3508,3580
+52	PALACKOVÁ Anastázia		0	2646
+52	PALACKOVÁ Anastázia	rod. PETRÁNIOVÁ ZA VINCENTA	0	3337
+52	PALACKOVÁ Anna	rod. MANCUŠKOVÁ	0	3773
+52	Palacková Anna r. Čelková		0	4546
+52	PALACKOVÁ Apolónia	rod. TCHOROVÁ ZA FRANTIŠKOM	0	3984
+52	PALACKOVÁ Apolónia	ZA FRANTIŠKA	0	3992
+52	PALACKOVÁ Bernardína	rod. MOKRÁŠOVÁ	0	4011
+52	PALACKOVÁ Františka	rod. MOKRÁŠOVÁ ZA JÁNA	0	3796
+52	Palacková Františka r. Mokrášová		0	1987
+52	PALACKOVÁ Genoveva	rod. ONDRUŠEKOVÁ	0	3002
+52	Palacková Genoveva r. Ondrušeková		0	2790
+52	Palacková Genovéva r. Ondrušková		0	1987
+52	PALACKOVÁ Helena	rod. CMAROVÁ ZA PAVLA	0	3236
+52	Palacková Helena r. Cmarová		0	3413
+52	Palacková Helena r. Jančovičová		0	4510
+52	Palacková Júlia	maloletá	0	4169
+52	Palacková Júlia	vdova	0	4518,4519,4520
+52	PALACKOVÁ Júlia		0	2724,2787,3358,3510,4379
+52	Palacková Júlia r. Klobúčníková		0	2304
+52	PALACKOVÁ Juliana	rod. ŠČEVLÍKOVÁ ZA JOZEFA	0	3304
+52	PALACKOVÁ Kristína	rod. KAŇÁKOVÁ	0	3588
+52	Palacková Magdaléna	maloletá	0	4392,4518,4519,4520
+52	PALACKOVÁ Magdaléna		0	2665,2727
+52	PALACKOVÁ Magdaléna	rod. KVASŇOVSKÁ ZA JÁNOM	0	3097
+52	PALACKOVÁ Magdaléna	rod. MRÁZOVÁ ZA VINCENTA	0	2918,3580,3754
+52	PALACKOVÁ Magdaléna	rod. ONDRUŠEKOVÁ ZA PAVLA	0	3002,3502,3619,3646
+52	PALACKOVÁ Magdaléna	rod. ŠIMUNKOVÁ ZA IMRICHA	0	2929
+52	Palacková Magdaléna r. Kvasňovská		0	3801,3838,4168,4169,4494,4527
+52	Palacková Magdaléna r. Ondrušeková		0	2790
+52	Palacková Magdaléna r. Ondrušková		0	1987
+52	PALACKOVÁ Mária		0	2704,3121,3171,3550,3676,3777,3867,4726
+52	PALACKOVÁ Mária	rod. MAZUCHOVÁ	0	3340,3723
+52	PALACKOVÁ Mária	rod. MICHAČOVÁ ZA MICHALA	0	3983
+52	PALACKOVÁ Paulina		0	2647
+52	PALACKOVÁ Paulína	rod. ŠIMUNKOVÁ ZA ŠTEFANA	0	3028
+52	Palacková Paulína r. Šimuneková		0	3989
+52	Palacková Pavlína r. Šimuneková	vdova	0	4510
+52	PALACKOVÁ Petrina		0	3777
+52	PALACKOVÁ Petronella		0	3777
+52	PALACKOVÁ Rozália		0	3777
+52	PALACKOVÁ Rozália	rod. JANEČEKOVÁ	0	2859,3591
+52	Palacková Rozália r. Janečeková		0	3136
+52	Palacková Rozália r. Janečková		0	2682,4299
+52	PALACKOVÁ Uršula	rod. HAULIKOVEJ ZA AUGUSTÍNA	0	3276
+52	PALACKOVÁ Zuzana		0	3777
+52	PALACKOVÁ Žofia		0	3820
+52	PALACKÝ Imrich		0	3027
+52	PALACKÝ Peter		0	3027
+52	Palaky Juraj	ž.Bursaková Mária	0	4567
+52	Palaky Štefan		0	4567
+52	Paška Ján		0	4280
+52	Paška Jozef	ž.Šimková Mária	0	4280
+52	Pavla Holubecová r.Raceková		0	4223
+52	PETRÁNI František		0	3810,3817,4476
+52	PETRÁNI Gašpar		0	3414
+52	PETRÁNI Ján		0	2724,3817
+52	Petráni Michal	ž.Simmerová jozefína	0	86,4486,4487
+52	PETRÁNI Štefan		0	3817
+52	Petrániová Alžbeta r. Šimúneková		0	4520
+52	Petrániová Anna r. Mrázová		0	4538
+52	PETRÁNIOVÁ Apolónia		0	3817,3840
+52	PETRÁNIOVÁ Apolónia	rod. KLUČKOVÁ	0	3211,3349,3350
+52	PETRÁNIOVÁ Barbora		0	3871
+52	PETRÁNIOVÁ Jozefína	rod. ŠIMUNEKOVÁ	0	3094,3113,3806,3982
+52	Petrániová Jozefína r. Simmerová		0	86,4486,4487
+52	PETRÁNIOVÁ Jozefína r. ŠIMUNEKOVÁ		0	2974,3806
+52	PETRÁNIOVÁ Júlia		0	3817,3871
+52	PETRÁNIOVÁ Katarína	rod. PALACKÁ DCÉRA PAVLA PALAC	0	3781
+52	Petrániová Katarína r. Palacká		0	3648
+52	PETRÁNIOVÁ Mária		0	3817,3840
+52	PETRÁNIOVÁ Pavlína		0	3817
+52	PETRANIOVA Verona	rod. VILLAROVA	0	3877
+52	Petrányi G ašpar		0	2462
+52	PETRÁNYIOVÁ Apolonia	rod. KLUCSKA	0	3211
+52	PETRÁNYIOVÁ Apolónia		0	3842
+52	Petrányiová Jozefína r. Šimuneková		0	4280,4487
+52	PETRÁNYIOVÁ Kristína	rod. ONDRUŠKOVÁ ZA URBANA	0	2778
+52	PETRÁNYIOVÁ Mária		0	3842
+52	PETRÁNYIOVÁ Paulína		0	3842
+52	Petrik Michal	ž.Svajdová Katarína	0	4242,4492
+52	Petrik Peter	na neznámom mieste	0	4242,4492
+52	Petríková Alžbeta r. Morvayová		0	4242,4492
+52	Petriková Františka		0	4242,4492
+52	PILEK Imrich	Ž. ALŽBETA BAKOVÁ	0	3916
+52	PILEKOVÁ Barbora	rod. BURANSKÁ ZA MICHALA	0	3909
+52	PIRŠELOVÁ Mária	rod. ŠTÓCOVÁ ZA JOZEFA	0	3963
+52	PLEVKOVA Agneša	rod. ŠIMUNEKOVA	0	3501
+52	POALACKA Anton		0	3719
+52	POLACSEKOVÁ Anna	rod. TVRDOŇOVÁ	0	4766
+52	Polacseková Anna r. Tvrdoňová		0	3029,4767
+52	POLÁČEK Pavol	Ž. APOLÓNIA	0	3993
+52	POLÁČEK Štefan		0	2795,2822
+52	POLÁČEKOVÁ Mária	rod. MAIEROVÁ	0	2795
+52	Poláčeková Mária r. Poláčeková		0	4515
+52	Poláčeková Mária r. Šimúneková		0	4513,4514
+52	POLÁČKOVÁ Apolonia	rod. MORAVČÍKOVÁ	0	3727
+52	POLÁČKOVÁ Apolónia	ZA PAVLA	0	3993
+52	POLÁK Imrich		0	2693,3221
+52	POLÁK Jozef	Ž. KAT. ŠIMUNEKOVÁ	0	3750
+52	POLÁK Martin		0	3931
+52	POLÁK Pavol		0	2693,3221
+52	POLÁK Pavol	Ž.JÚLIA BOTKOVÁ	0	3913
+52	POLÁK Štefan		0	2693,3221
+52	POLÁK Vincent		0	2693,3221
+52	POLÁKOVÁ Anna	rod. PETRÁNIOVÁ	0	3884
+52	POLÁKOVÁ Apolonia	rod. MOKRÁŠOVÁ	0	3700,3804,3863
+52	POLÁKOVÁ Jolana		0	2693
+52	POLÁKOVÁ Júlia	rod. BOTKOVÁ ZA PAVLA	0	3913
+52	POLÁKOVÁ Katerína	rod. ŠIMUNEKOVÁ ZA JOZEFA	0	3750
+52	POLÁKOVÁ Mária	rod. RUŽIČKOVÁ ZA JURAJA	0	3969
+52	POLLÁKOVÁ Katarína	rod. ŠIMUNKOVÁ ZA JOZEFA	0	3479
+52	POROČÁK Anton		0	3823,4472
+52	POROČÁK Dominik		0	3090
+52	POROČÁK Dominik	Ž.PETRINA VITEKOVÁ	0	3879
+52	Poročák František	maloletý	0	4472
+52	POROČÁK František		0	3823
+52	POROČÁK Imrich		0	3823,4472
+52	Poročák Ján	maloletý	0	4472
+52	POROČÁK Ján		0	3823
+52	Poročák Karol	maloletý	0	4472
+52	POROČÁK Karol		0	3518,3823,3831,4101
+52	Poročák Michal	maloletý	0	4472
+52	POROČÁK Michal		0	3518,3823,3831,4101
+52	Poročák Pavol	maloletý	0	4472
+52	POROČÁK Pavol		0	3518,3823,3831,4101
+52	Poročák Štefan	maloletý	0	4472
+52	POROČÁK Štefan		0	3518,3823,3831,4101
+52	POROČÁKOVÁ		0	2731
+52	POROČÁKOVÁ Anna	rod. ŠVAJDOVEJ	0	3054
+52	POROČÁKOVÁ Františka		0	3518,3831,4101
+52	POROČÁKOVÁ Františka	rod. VRANČÍKOVÁ ZA JÁNA	0	3770
+52	Poročáková Helena	maloletá	0	4472
+52	POROČÁKOVÁ Helena		0	3518,3823,3831,4101
+52	POROČÁKOVÁ Mária		0	3823,4472
+52	Poročáková Mária r. Klobučníková		0	4101
+52	Poročáková Mária r. Klobučníková	za Dominika; za Dominika	0	3518
+52	POROČÁKOVÁ Petrina	rod. VITEKOVÁ ZA DOMINIKA	0	3879
+52	PROCHÁZKOVÁ Jozefína	rod. HOLUBOVÁ	0	3783
+52	Procházková Mária r. Horváthová		0	3555
+52	PÚALACKA František		0	3490
+52	PÚALACKA Jozef		0	3490
+52	PÚALACKA Karol		0	3490
+52	PÚALACKA Michal		0	3490
+52	PÚALACKA Štefan		0	3490
+52	PÚALACKA Vojtech		0	3490
+52	RACEK Arnošt		0	3433,3642
+52	RACEK František		0	3143,3573,3614,3642,3802,4276,4618
+52	RACEK František	Ž. KATARÍNA	0	3507
+52	RÁCEK Ján		0	3438,3573,3802
+52	RACEK Jozef		0	3143,3432,3614,3642,4276,4618
+52	RACEK Jozef	Ž.BARBORA ŠIMUNKOVÁ	0	3613,3668
+52	RÁCEK Jozef	Ž. BAR. ŠIMUNKOVÁ	0	3198,3199,3761
+52	Rácek Karol		0	2729,2730
+52	Racek Michal	ž.Šimuneková Genovéva	0	4516
+52	Rácek Stanislav	maloletý	0	4566
+52	RÁCEK Stanislav		0	2639,3027,3429,3676,4726
+52	Rácek Tomáš	ž.Hlavatá Mária	0	4500,4501
+52	RÁCEK Tomáš		0	2695,2697,3642
+52	RACEKOVÁ Anna	rod. MRÁZOVÁ	0	2694,3246,3539,3701,3749
+52	RACEKOVÁ Anna	rod. RIBAROVÁ	0	3614
+52	RACEKOVÁ Anna	rod. ŠIMUNEKOVÁ	0	3420,3643,3701

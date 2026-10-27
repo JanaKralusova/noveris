@@ -1,0 +1,256 @@
+384	Szakacs Ernest	syn Jána, zom	1	1678
+384	Szakács Ernest		1	596
+384	Szakács Ján		1	594,2102
+384	Szakács Ján	ž.Júlia r.Tothová	1	1026
+384	Szakács Peter	Kertaljasi	1	1918
+384	Szakács Peter	ž.Júlia r.Nagyová	1	594,2102
+384	Szakács Štefan	mal	1	1488,1489
+384	Szakácsová Júlia r. Nagyová		1	759
+384	Szakácsová Zuzana r. Bodnárová	m.Andrej	1	1546
+384	Szakala Alexander	ž.Alžbeta r.Juhászová	1	767
+384	Szakalaová Alžbeta r. Juhászová	m.Alexander	1	767
+384	Szakalaová Helena r. Hornyáková	m.Ján	1	783
+384	Szallár Michal		1	1324
+384	Szallár Michal	ž.Alžbeta r.Harajdová	1	767,769
+384	Szanyo Imrich	ž.Mária r.Szanyová	1	696,2158
+384	Szanyo Ján		1	696,2158
+384	Székelyová Ilona r. Szűcsová	m.Alexander	1	327,696,1296,2080,2087,2136,2139,2140,2158
+384	Szentimrey Ľudovít	ž.Karolína r.Lakatošová	1	694
+384	Szilajová Veronika r. Korcsmárosová	m.Endre	1	1647
+384	Szilvásiová Alžbeta r. Hornyáková		1	607,608,609,610,611,622,1760
+384	Szilvásyová Zuzana r. Vargová	m.Peter	1	1535
+384	Szilváši Alexander		1	1551
+384	Szilváši Alexander	ž.Zuzana r.Szotáková	1	124,125,126,721,722
+384	Szilváši Antal	ž.Mária r.Gyurócsiková	1	124,125,126,721,722
+384	Szilváši František	mal.,ž.Alžbeta r.Majorošová	1	1528
+384	Szilváši František	ž.Alžbeta r.Majorošová	1	127,703
+384	Szilváši Gabriel	ž.Mária r.Vargová	1	122,123,124,125,126,127,703,722,1528
+384	Szilváši Michal		1	127
+384	Szilváši Michal	ml	1	1535
+384	SzilvášiI Gabriel	ž.Mária r.Vargová	1	721
+384	Szilvášiová Alžbeta r. Vesselényiová	m.Andrej	1	1621
+384	Szilvášiová Zuzana r. Lencsésová	m.Alexander	1	122,123,127
+384	Szilvášiová Zuzana r. Szotáková		1	275,505,537,541,1535
+384	Szilvášiová Zuzana r. Vargová	m.Peter	1	563,620
+384	Szilvašši Andrej	ž.Alžbeta r. Tobiašová, zom	1	1688
+384	Sziszáková Mária r. Mikulová	m.Andrej	1	1882
+384	Szivásyová Zuzana	sestra Andreja, Jána a Barbory	1	946
+384	Szoták Ján		1	505,596
+384	Szoták Juraj	mal	1	505,596
+384	Szoták Michal		1	596
+384	Szotáková Mária r. Ontková	m.Michal	1	654,656,1182,1183,1535
+384	Szotáková Zuzana	mal	1	596
+384	Szucs Alexander	ž.Zuzana r. Lengyelová, zom	1	1701
+384	Szücs Alexander	ž.Alžbeta r.Pallaiová	1	729,1646
+384	Szűcs Alexander		1	327,602,696,1296,1518,2080,2087,2124,2125,2136,2139,2140,2158,2172
+384	Szucs Gabriel	ž.Alžbeta r.Zahariová, zom	1	1701
+384	Szücs Gabriel		1	594,620,1355,2102
+384	Szücs Gabriel	mlad	1	620,1935
+384	Szucs Július	ž.Zuzana r. Dioszeghy, zom	1	1714
+384	Szűcs Július		1	327,696,2080,2087,2136,2139,2140,2158
+384	Szűcs Július	ž.Zuzana r.Dioszeghyová	1	327,696,2080,2087,2136,2139,2140,2158
+384	Szucs Štefan	ž.Zuzana r.Venesová, americký občan	1	1584
+384	Szücsová Alžbeta r. Zaknárová	m.Gabriel	1	1386
+384	Szűcsová Elena	mal	1	327,602,696,1156,1296,2080,2087,2122,2123,2136,2139,2140,2158
+384	Szűcsová Zuzana	mal	1	327,602,696,1156,1296,2080,2087,2122,2123,2136,2139,2140,2158
+384	Szücsová Zuzana r. Diószeghiová		1	1990
+384	Szücsová Zuzana r. Kertészová	m.Štefan	1	1156
+384	Szücsová Zuzana r. Krtészová	m.Štefan	1	2122,2123
+384	Szűcsová Zuzana r. Lengyelová	m.Alexander	1	221
+384	Szucsová Zuzana r. Venesová	americká občanka, m.Štefan	1	1584
+384	Szuligánová Ilona	nezl	1	560
+384	Szuliganyová Helena	mal	1	505,1525
+384	Šipoš Alexander		1	696,711,1348,1502,1525,2112,2158
+384	Šipoš Alexander	mal	1	560,696,711,1525,1537,2158
+384	Šipoš Štefan	ž.Barbora r.Nagyová	1	1525
+384	Šipoš Toth Andrej		1	1535
+384	Šipošová Alžbeta r. Reveszová	vd.,m.Ján	1	1535
+384	Šipošová Alžbeta r. Šipošová	vdova	1	1525
+384	Šmajdová Mária r. Szotáková	m.Ján	1	505,596,1335
+384	Štica Michal	ž.Mária rod.Bujdošová	1	1646
+384	Štofa Ján	ž.Mária r.Pálová	1	1646
+384	Takácsová Ilona r. Kassaiová, SR	m.Eugen	1	1473
+384	Tamášová Alžbeta	mal	1	560,603
+384	Tamášová Alžbeta r. Szilvášiová		1	946,1079,1172,1235,1621,1909
+384	Tamášová Júlia		1	560,594,603,696,711,1171,1172,1174,1175,1525,1549,2102,2158
+384	Tamášová Mária		1	1172
+384	Tara Michal	ž.Alžbeta r.Márková	1	1253
+384	Tárcziová Mária r. Bodnárová	m.Ľudovít	1	1569,2169
+384	Teru Dezider	ž.Margita r.Šándorová	1	79
+384	Timková Alžbeta r. Vojtková	m.Ján	1	1229,1230,1545
+384	Titka Andrej		1	560,603
+384	Titka Jozef		1	1852
+384	Titka Štefan	mlad., ž.Alžbeta r.Bárányová	1	1849
+384	Titková Alžbeta r. Bárányová	m.Štefan, mlad	1	1849
+384	Tobias Jozef	ž.Helena r.Vargová	1	1535
+384	Tobias Štefan	ž.Anna r.Horváthová	1	1824
+384	Tobias Štefan	ž.Helena r.Vargová	1	700
+384	Tobiasová Alžbeta r. Csatlošová	m. Štefan	1	975
+384	Tobiasová Alžbeta r. Csatlošová	m.Štefan	1	603,1525
+384	Tobiasová Alžbeta r. Čatlošová		1	133,136,422,1049,1561,1631,2099
+384	Tobiasová Helena	r.Vargová	1	711
+384	Tobiasová Helena r. Vargová	m.Jozef	1	328
+384	Tobiasová Irena		1	594,1797,2102
+384	Tobiasová Irena	mal	1	583,584
+384	Toháti Alexander		1	1105
+384	Toháti Alexander	ž. Barbora r.Gyüreová	1	1105,1542
+384	Toháti Ján		1	603
+384	Toháti Michal	ml	1	603
+384	Tóháti Michal		1	603
+384	Tohátiová Elena		1	815
+384	Tohátiová Katarína r. Tóthová	m.Michal, vd	1	560,596,603,1525,1801
+384	Tóhátiová Otilia r. Matyiová		1	1847
+384	Toháty Ján		1	560,822
+384	Tohátyová Alžbeta		1	668
+384	Toth Alexander	ž.Alžbeta r.Fekésházyová	1	1646
+384	Tóth Alexander		1	1067
+384	Tóth Alexander	ž.Alžbeta r.Kaššayová	1	1826
+384	Toth Andrej	st	1	696,711,2158
+384	Toth Buza Ján		1	560,603,1525
+384	Toth Buza Vojtech	nezl	1	1525
+384	Toth Ján	1	1	268
+384	Toth Ján	ž.Alžbeta r.Tothová	1	602
+384	Tóth Ján		1	294,1216,1491,1492,1608,1744,1835
+384	Tóth Ján	ž.Alžbeta r.Szabová	1	560,603
+384	Tóth Ján	ž.Alžbeta r.Vargová	1	268,294,596,785,857,1491,1492,1744
+384	Tóth Ján, SR		1	784
+384	Tóth Ján, SR	ž.Alžbeta r.Vargová	1	784
+384	Toth Július	ž. Emma r. Lengyelová, zom	1	1672
+384	Toth Štefan		1	560
+384	Toth Štefan	brat Alžbety, Barbory, Zuzany	1	1525
+384	Tóth Štefan	ž.Alžbeta r.Jakubová	1	596
+384	Tothová Alžbeta	dcéra Jána, zom	1	1712
+384	Tothová Alžbeta r. Moreová		1	294,335,1249
+384	Tóthová Alžbeta r. Móreová	m.Ján	1	1491,1492
+384	Tothová Alžbeta r. Morová, SR	m.Ján	1	784
+384	Tothová Alžbeta r. Tothová		1	294
+384	Tothová Alžbeta r. Tothová	m.Ján	1	602
+384	Tothová Buza Alžbeta	nezl	1	1525
+384	Tothová Cs. Júlia		1	268
+384	Tóthová Elena		1	1109
+384	Tothová Elena r. Tohatyová		1	667,1103,1105,1106,1108
+384	Tóthová Emma r. Kišová		1	327,685,698,733,759,988,1596,1639,1820,2080,2087,2136,2139,2140
+384	Tothová Helena r. Tohatyová		1	1104,1105,1107
+384	Tothová Helena r. Tohatyová	m.Albert	1	668
+384	Tothová Helena r. Tohatyová, SR		1	1110
+384	Tothová Jolana r. Olcsváryová	m.Ladislav	1	694
+384	Tothová Jolana r. Olehvaryová		1	694
+384	Tothová Júlia r. Sándorová	m.Štefan	1	889,1364
+384	Trácsová Anna r. Korcsmárosová	m.Michal	1	1647
+384	Tušayová Zuzana r. Krajníková		1	1387
+384	Urbančoková Barbora r. Vojtková, Hosová 12, Hrádek nad Nisou, ČR		0	1545
+384	Urbančoková Barbora r. Vojtková, Husová 12, Hrádek nad Nisou, PSČ 463 34, ČR		0	1229,1230,1495
+384	Vajo Ján		1	380,780,1790
+384	Vajo Ján	ž. Júlia r. Vojtková, zom	1	1666
+384	Vajo Ján	ž.Júlia r.Vojtková	1	1773
+384	Vajo Michal		1	380,759,780,1790
+384	Vajo Michal	americký občan	1	575,577
+384	Vajo Michal	ž.Alžbeta r.Bajusová	1	1293
+384	Vajo Michal	ž.Mária r.Kosztyová	1	1791
+384	Vajo P. Michal		1	327,328,596,660,696,711,884,1944,2080,2082,2087,2136,2139,2140,2158
+384	Vajo Pivo Andrej	ž.Mária r.Réktoriková	1	1649
+384	Vajo Pivo Ján	mlad	1	1792
+384	Vajo Pivo Michal		1	1535,1792
+384	Vajo Pivo Michal	ž.Alžbeta r.Bajuszová	1	1270
+384	Vajová Júlia r. Vajová		1	380,780,1790
+384	Vajová Júlia r. Vojtková		1	1229,1230,1495,1545
+384	Vajová Júlia r. Vojtková	m.Ján	1	1773
+384	Vajová Mária		1	380,780,1790
+384	Vajová Mária r. Kosztyová	m.Michal	1	1791
+384	Vajová Pivová Mária r. Rétoriková	m.Andrej	1	1649
+384	Valiová Alžbeta r. Kašová		1	774
+384	Valiová Alžbeta r. Kašová	m.Koloman	1	774
+384	Valiová Ida r. Bosnyáková		1	774
+384	Valiová Júlia r. Horváthová	m.Michal	1	575,577
+384	Váradiová Barbora r. Galgoczyová	m.Štefan	1	694
+384	Varga František		1	696,711,2158
+384	Varga Ján		1	596
+384	Varga Ján	syn Štefana, mal., zom	1	1707
+384	Varga Ján	z Ameriky, otec Michal	1	1525
+384	Varga Štefan	ž.Alžbeta r.Móreová	1	1931
+384	Vargová Alžbeta r. Luteránová	m. Štefan	1	1525
+384	Vargová Alžbeta r. Luteránová	m.Štefan	1	603
+384	Vargová Alžbeta r. Móréová	m.Štefan, ml	1	1931
+384	Vargová Alžbeta r. Szűcsová	m.Július	1	327,696,1296,2080,2087,2136,2139,2140,2158
+384	Vargová Estera r. Szűcsová		1	327,602,696,1156,1296,2080,2087,2122,2123,2136,2139,2140,2158
+384	Vargová Ilona r. Tobiášová		1	135,136
+384	Vargová Jolana	otec Štefan, mal	1	1707
+384	Vargová Júlia r. Csatlošová	m.František	1	560,603,700,975,1048,1525
+384	Vargová Júlia r. Čatlošová		1	1046,1047,1561,2099
+384	Vargová Mária r. Kalánová	vd., m.Ján	1	1525
+384	Vasil Andor, Andrej		1	1960
+384	Vasil Andrej	ml.,ž.Alžbeta r.Moreová	1	157
+384	Vasil Ján		1	620
+384	Vasil Július		1	1762
+384	Vasiľ Július	ž.Barbora r. Bodnárová, zom	1	1719
+384	Vasilová Alžbeta r. Buksárová		1	571
+384	Vasilová Alžbeta r. Hornyáková		1	413,977,981,1625
+384	Vasilová Barbora r. Bodnárová		1	622
+384	Vaszil Július		1	976,977,981,982,1555
+384	Vaszil Július, SR		1	979
+384	Vaszily Andrej		1	596
+384	Vaszily Cs. Július, SR		1	979
+384	Vaszily Ján		1	537,621,1214,2048
+384	Vaszily Ján, SR		1	1190
+384	Vaszily Július		1	980,1240,2048
+384	Vaszily Július	ž.Barbora r.Bodnárová	1	152,568,740,753,754
+384	Vaszily Július, SR	ž.Barbora r.Bodnárová	1	652,1976,2104
+384	Vaszily Juraj		1	984
+384	Vaszilyová Alžbeta r. Bukszárová	m.Ján	1	842
+384	Vaszilyová Alžbeta r. Majorošová	m.Ján	1	596,1330,1331,1471,2053
+384	Vaszilyová Alžbeta r. Tohatiová	m.Juraj	1	594,667,696,711,815,817,818,819,821,822,829,831,1104,1105,1106,1107,1108,1502,1525,2102,2112,2158
+384	Vaszilyová Alžbeta r. Tohatiová, SR	m.Juraj	1	830,1110
+384	Vaszilyová Barbora r. Bodnárová	m.Július	1	345
+384	Vaszilyová Barbora r. Bodnárová, SR	m.Július	1	1976
+384	Vaszilyová Júlia r. K.Bodnárová	m.Juraj	1	143,316,343,1608
+384	Vaszilyová Júlia r. Kovácsová Bodnárová	m.Juraj	1	889,1364
+384	Veres Nagy Alexander	mal	1	560,1525
+384	Veresová Nagyová Alžbeta	mal	1	1525
+384	Verner Alexander		1	199,200,772,1535,1648,2035,2115
+384	Verner Alexander, SR		1	1861
+384	Verner Július		1	1771
+384	Vernerová Alžbeta r. Vajová, SR		1	1979
+384	Visnyei Johan		1	1907
+384	Vojtko Alexander		1	877,959,1511,1535,1772
+384	Vojtko Andrej		1	1210,1229,1495,1545
+384	Vojtko Imrich	ž.Zuzana r.Szilvášiová	1	683,1234,1235,1236,1238,1572
+384	Vojtko Ján		1	1495,1921
+384	Vojtko Ján	ž.Alžbeta	1	1572
+384	Vojtko Július		1	1535
+384	Vojtko Július	ž.Júlia rod.Ivanová	1	1646
+384	Vojtko Juraj		1	1229,1230,1545
+384	Vojtko Juraj	mal	1	877,1511
+384	Vojtko Juraj	ž.Taisa r.Vochminová	1	1646
+384	Vojtková Alžbeta		1	1511
+384	Vojtková Alžbeta	m.Ján	1	1572
+384	Vojtková Alžbeta r. Vasilyová	m. Alexander, zom	1	1711
+384	Vojtková Alžbeta r. Vaszilyová	m.Alexander	1	154,741,1500,2048
+384	Vojtková Elena r. Goncziová	m.Imrich, zom	1	1705
+384	Vojtková Helena	mal	1	877,1511
+384	Vojtková Helena r. Gönczyová	m.Imrich	1	1304,1315,1316,1317,1496
+384	Vojtková Júlia r. Fekesháziová	m. Ján, zom	1	1688
+384	Vojtková Margita		1	877,1511
+384	Vojtková Zuzana r. Szilvásiová	m.Imrich	1	1535
+384	Vojtková Zuzana r. Vasilová		1	977,981,982,1240,1555
+384	Vojtková Zuzana r. Vaszilyová	m. Michal	1	2048
+384	Werner Alexander, SR	ž.Ilona r.Miroková	1	1885
+384	Žebinyanská Mária r. Szilvášiová	m.Jozef	1	1551
+385	ANTUŠ Ján	čd.2823/1902 mal	1	526
+385	ANTUŠ Juraj	čd.2823/1902	1	526
+385	ANTUŠ Michal	čd.6121/1900	1	526
+385	Bartošová Anna r. Bindasová		1	408,578
+385	BERTA Ján	ž.Mária r.Čizyová	1	409
+385	Bertová Mária r. Čizíková		1	404,405,578
+385	BLAŠKOVÁ Mária	r.Kosturová	1	527
+385	Bučák Fedor	čd.3674/1934	1	552
+385	BUČÁKOVÁ Mária	r.Trebuňáková	1	463
+385	BURDEL Albert	čd.1074/1930	1	475
+385	BURDEĽ Vojtech	čd.370/1935	1	479
+385	Csurpák Andrej		1	392,623,628
+385	ČAKAN Ján	mal	1	542
+385	Čizy Ján	čd.452/1922	1	391
+385	Čizy Ladislav	čd.452/1922	1	391
+385	ČIZYOVÁ Alžbeta	r.Stuňová	1	409
+385	Čizyová Alžbeta r. Stuňová		1	391,578
+385	Čizyová Mária		1	578
+385	Čizyová Mária	mal	1	391,409

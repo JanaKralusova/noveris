@@ -1,0 +1,256 @@
+29	Mačuga Michal, SR	ž.Mária r.Timčová	1	1298
+29	Mačuga Peter		1	1346,1378
+29	Mačugová Alžbeta		1	1346,1378
+29	Mačugová Alžbeta r. Ivančová		1	1328,1346
+29	Mačugová Alžbeta r. Ivančová, SR		1	813,1198
+29	Mačugová Alžbeta, SR		1	885,961,1504,1542,1554
+29	Mačugová Anna		1	1346,1378,1470
+29	Mačugová Anna	3	1	961
+29	Mačugová Anna r. Dubrovičová, SR		1	1032
+29	Mačugová Anna r. Kovalčíková, SR		1	1379
+29	Mačugová Anna r. Lukáčová, SR		1	241,1543
+29	Mačugová Anna, SR	2	1	885,1237,1504,1542,1554
+29	Mačugová Helena, SR		1	1012
+29	Mačugová Mária r. Bajusová		1	1099
+29	Mačugová Mária r. Bajusová, SR		1	1012,1064,1112,1169
+29	Mačugová Mária r. Kondášová		1	1346
+29	Mačugová Mária r. Kondášová, SR		1	907
+29	Mačugová Mária r. Timčová		1	1378
+29	Mačugová Mária r. Timčová, SR		1	1298
+29	Mačugová Zuzana		1	1378
+29	Magala Ján		1	1378
+29	Magala Ján, SR	ž.Mária r.Adamová	1	1379
+29	Magalová Anna, SR	dcéra Pavla	1	1379
+29	Magalová Mária r. Jakubová		1	1378
+29	Majerník Ján	3	1	986
+29	Majerník Ján, SR		1	1059
+29	Majerníková Mária, SR	dcéra Michala	1	992
+29	Majovská Anna r. Slivková		1	1346
+29	Majovská Mária r. Tothová, SR		1	1376
+29	Majovská Zuzana r. Majovská		1	1378
+29	Majovský Andrej		1	1378
+29	Majovský Ján		1	1378
+29	Majovský Ján, SR	ž.Jozefína r.Maslejová	1	862,1497,1548,1586,1599
+29	Majovský Michal		1	417,1378
+29	Majovský Michal, SR	ž.Alžbeta r.Pauliková	1	862,1497,1548,1586,1599
+29	Majovský Štefan		1	1378
+29	Majovský Štefan, SR	syn Andreja	1	862,1497,1548,1586,1599
+29	Marcin Michal, SR	ž.Mária r.Matiová	1	1000
+29	Marcinová Mária r. Mrázová, SR		0	637
+29	Marčanová Anna r. Sirková, SR		1	1218
+29	Mardzin Ján, SR	nezl	0	637
+29	Mardzinová Alžbeta r. Šimčáková, SR		1	1117,1144
+29	Mašlej Andrej		1	1378
+29	Mašlej Andrej, SR	ž.Alžbeta r.Koscelníková	1	1379
+29	Mašlejová Alžbeta r. Koscelníková		1	1378
+29	Mašlejová Alžbeta r. Koscelníková, SR		1	1379
+29	Mati Juraj, SR		1	1346
+29	Mati Juraj, SR	ž.Anna r.Magurová	1	938
+29	Matiová Anna r. Magurová, SR		1	938
+29	Mattová Anna r. Starygazdová, SR		1	1158
+29	Meszároš Ján, SR		1	1379
+29	Meszároš Michal, SR		1	1379
+29	Meszárošová Anna, SR		1	1379
+29	Mihalko Juraj		1	1378
+29	Mihalko Michal		1	1378
+29	Mihalko Michal, SR	syn Juraja	1	1379
+29	Mihalková Anna r. Ferjová, SR		1	1379
+29	Mihalková Mária r. Rohaľová		1	1346,1378
+29	Mihalková Mária r. Rohaľová, SR		1	1206
+29	Michalič Juraj, Šupmerk, SR		1	1293
+29	Michalič Milan, SR		1	1293
+29	Michalič Peter, SR		1	1293
+29	Mikitová Anna r. Stroková, SR		1	833
+29	Mikula Andrej, SR	2	1	819,820,909
+29	Mikula Ján, SR		1	909
+29	Mikula Jozef, SR		1	819
+29	Mikula Jozef, SR	1	1	1379
+29	Mikula Jozef, SR	2	1	1358
+29	Mikula Jozef, SR	3	1	1161
+29	Mikula Juraj		1	1195,1346
+29	Mikula Juraj, SR		1	840
+29	Mikula Michal		1	1346
+29	Mikula Michal, SR		1	1379
+29	Mikulová Alžbeta		1	1346,1378
+29	Mikulová Alžbeta r. Kucová, SR		1	1378,1379
+29	Mikulová Alžbeta, SR	1	1	840,1195
+29	Mikulová Alžbeta, SR	2	1	840
+29	Mikulová Anna r. Danková		1	1195
+29	Mikulová Anna r. Kordiaková, SR		1	1358
+29	Mikulová Mária r. Košiková, SR		1	840
+29	Mikulová Mária r. Labanová		1	220
+29	Mikulová Mária r. Majerniková		1	1378
+29	Mikulová Mária r. Majerniková, SR		1	819,820,1161
+29	Mikulová Verona		1	1346
+29	Mikulová Verona, SR		1	840
+29	Mikulová Zuzana		1	1378
+29	Miľo Juraj, SR	1	1	1379
+29	Miľo Juraj, SR	ž.Mária r.Adamová	1	812,1199
+29	Miľová Mária r. Adamová, SR		1	812,858,899,939,952,1163,1199,1231,1334,1587
+29	Miľová Mária, SR		1	1207
+29	Miľová Zuzana, SR		1	782,1207
+29	Mňahunčák Peter		1	1346
+29	Molnár Belo, SR	ž.Margita r.Barthosová	1	1394
+29	Molnár Jozef		1	1346,1378
+29	Molnár Jozef, SR		1	845,1255,1555
+29	Molnár Jozef, SR	ž.Mária r.Ivančová	1	1373,1374
+29	Molnár Michal		1	1346,1378
+29	Molnárová Alžbeta		1	1346,1378
+29	Molnárová Alžbeta, SR		1	845,1555
+29	Molnárová Anna		1	296,1346,1378
+29	Molnárová Anna, SR	2	1	1333
+29	Molnárová Mária r. Ivančová		1	1346,1378
+29	Molnárová Mária r. Ivančová, SR		1	813,1328,1373
+29	Morovič Andrej, SR		1	1379
+29	Morovič Jozef		1	1378
+29	Morovič Jozef, SR		1	930,1410
+29	Morovič Michal		1	1378
+29	Morovičová Alžbeta, SR		1	1378
+29	Morovičová Anna, SR	1	1	1378
+29	Morovičová Anna, SR	2	1	1378
+29	Morovičová Mária		1	1378
+29	Morovičová Mária r. Mačugová		1	1378
+29	Morovičová Mária r. Mačugová, SR		1	930,1379
+29	Morovičová Mária, SR	1	1	1378
+29	Morovičová Mária, SR	2	1	930,1410
+29	Morovičová Tereza r. Sobošová, SR		1	1378
+29	Mráz Michal, SR	nezl	0	637
+29	Mrázková Mária r. Wéberová		1	1343,1378
+29	Mrázková Mária r. Wéberová, SR		1	841,881,908,1180,1194
+29	Múdra Zlatica r. Džmurová, SR		1	925,1163,1199,1201,1231
+29	Múdra Zlatica, SR	Džmurová	1	899,1587
+29	Múdra Zlatica, SR	r.Džmurová	1	1336
+29	Muľovský Andrej		1	1346
+29	Muľovský Ján, SR		1	1346
+29	Nemcovská Anna r. Havrilová		1	1346,1378
+29	Nemcovská Anna r. Havrilová, SR		1	1379
+29	Nemcovská Zuzana r. Jenčová		1	1378
+29	Nemcovský Ján		1	1378
+29	Nemcovský Jozef		1	1346,1378
+29	Nemcovský Jozef, SR	ž.Mária r.Sokirová	1	924,1487,1549
+29	Németh Ján, SR	ž.Margita r.Maltranská	1	829,830
+29	Némethová Margita r. Maltzoská, SR		1	829,830
+29	Nováková Anna r. Štimecová		1	1266
+29	Ondrejko Gustáv	ž.Anna r.Štichlová	1	1223
+29	Ondrejková Anna r. Štichlová, SR		1	1223
+29	Onufer Ján, SR		1	1346
+29	Onušková Mária r. Pristášová, SR		1	1009,1037,1114,1118,1119
+29	Orendáš Ján, SR	syn Michala	1	1378
+29	Orendáš Jozef, SR	1	1	1060
+29	Orendáš Jozef, SR	syn Michala	1	848
+29	Orendáš Pavol, SR		1	1029
+29	Orendášová Alžbeta r. Orendášová		0	1572
+29	Orendašová Anna, SR	dcéra Michala	1	1378
+29	Orendášová Mária, SR	dcéra Michala	1	1378
+29	Oreničová Mária r. Gajdošová, SR		1	999,1120
+29	Palkovič Jozef		1	1378
+29	Pálkovičová Mária r. Meszárošová, SR		1	1379
+29	Paľová Alžbeta r. Korytková, SR		1	1014
+29	Paniková Mária r. Sotakovičová, SR		1	1378
+29	Pastely Ladislav, SR		1	1378
+29	Pastelyová Matilda r. Simoniová, SR		1	1378
+29	Patkaň Ján, SR		1	1065
+29	Patkaňová Mária, SR		1	1065
+29	Pauliščák Andrej, SR		1	1378
+29	Pauliščák Michal, SR	ž.Anna r.Danková	1	822
+29	Pauliščáková Anna r. Danková, SR		1	822
+29	Pauliščáková Anna r. Karafová, SR		1	1378
+29	Pavlík Michal, SR		1	855,1067
+29	Pavlík Pavol	ž.Zuzana r.Tomková	1	1049
+29	PAVLÍK Pavol		1	1067
+29	Pavlík Pavol, SR		1	855,1034,1075
+29	Pavlíková Alžbeta r. Pristášová, SR		1	1077
+29	Pejo Andrej, SR	ž.Mária r.Vasiľová	1	1154
+29	Pejo Michal, SR		1	980
+29	Petruščáková Mária r. Koščová		1	1346
+29	Petruščáková Mária r. Koščová, SR		1	1379
+29	Pištejová Mária r. Makuchová, SR		1	913
+29	Popaďák Ján, SR		1	1033
+29	Popaďák Ján, SR	ž.Anna r.Štofková	1	1033
+29	Popiková Anna r. Rusnáková, SR		1	1379
+29	Popovič Andrej		1	1346,1378
+29	Popovič Ján		1	1378
+29	Popovičová Anna r. Adamová, SR		1	1379
+29	Popovičová Anna r. Sojková		0	958
+29	Popovičová Mária		1	1378
+29	Populová Helena r. Michaličová, SR		1	1293
+29	Prisašová Anna	dcéra Michala	1	1074
+29	Pristaš Andrej, SR		1	1073
+29	Pristáš Andrej, SR	ž.Alžbeta Rusnáková	1	1019
+29	Pristaš Ján, SR		1	853,1106
+29	Pristaš Ján, SR	ž.Anna r.Birešová	1	997
+29	Pristáš Ján, SR	meš	1	1037,1114,1118
+29	Pristáš Ján, SR	ž.Alžbeta r.Ihnatová	1	1114
+29	Pristáš Jozef, SR	vzdial	1	1119
+29	Pristáš Michal	3	1	1074
+29	Pristáš Michal, SR	1	1	1119,1378
+29	Pristáš Michal, SR	2	1	855,996,1016,1067
+29	Pristáš Michal, SR	3	1	1010
+29	Pristašová Anna		1	1074
+29	Pristášová Anna r. Matiová, SR		1	1084
+29	Pristášová Anna r. Pristášová, SR		1	1077
+29	Pristášová Anna r. Remenická, SR		1	1314
+29	Pristášová Anna r. Rusnáková, SR		1	1321
+29	Pristašová Anna r. Žipajová, SR		1	849,997,1080
+29	Pristášová Anna, SR		1	855,1016,1067,1074
+29	Pristášová Margita, SR		1	855,996,1016,1067,1074
+29	Pristášová Mária r. Ferenčíková, SR		1	1301
+29	Pristašová Mária r. Kmecová, SR		1	852
+29	Pristášová Mária r. Orendášová, SR		1	1062,1068
+29	Puhajdová Elena r. Korytková, SR		1	996,1050
+29	Rabatinoá Verona r. Wéberová		1	1378
+29	Rabatinová Verona r. Wéberová, SR		1	841,881,908,1180,1194,1343
+29	Rásová Zuzana r. Koščová		1	1378
+29	Rásová Zuzana r. Koščová, SR		1	1206,1379
+29	Rohaľ Juraj, SR		1	1378
+29	Rohaľ Juraj, SR	ž.Mária r.Tkačiková	1	1378
+29	Rohaľ Michal, SR	1	1	1346,1379
+29	Rohaľ Michal, SR	2	1	935
+29	Rohaľ Michal, SR	3	1	1340
+29	Rohaľ Michal, SR	syn Michala	1	885,1340,1504,1542
+29	Rohaľová Anna, SR	dcéra Michala	1	885,1340,1504,1542
+29	Rohaľová Mária r. Tkačiková, SR		1	1378
+29	Rudľai Andrej		1	1346,1378
+29	Rudľai Andrej, SR	1	1	1378
+29	Rudľai Andrej, SR	2	1	1379
+29	Rudľai Andrej, SR	syn Andreja	1	877,888,899,925,1163,1199,1201,1231,1336,1587
+29	Rudľai Andrej, SR	ž.Anna r.Petrová	1	925
+29	Rudľai František		1	1346,1378
+29	Rudľai František, SR	1	1	1201
+29	Rudľai Ján		1	1346,1378
+29	Rudľai Ján, SR		1	1199
+29	Rudľai Ján, SR	1	1	1378
+29	Rudľai Ján, SR	3	1	1327,1331,1338
+29	Rudľai Ján, SR	ž.Anna r.Nemcovská	1	877,888
+29	Rudľai Jozef		1	1346,1378
+29	Rudľai Jozef, SR		1	889,1233,1336
+29	Rudľai Juraj, SR	ž.Anna r.Ihnačíková	1	1365
+29	Rudľai Juraj, SR	ž.Zuzana r.Košíková	1	864,889,1331,1338,1500,1547
+29	Rudľai Michal		1	1346
+29	Rudľai Michal, SR		1	864,879,1378,1379,1500,1547
+29	Rudľai Michal, SR	Pol.v.z.25/79	1	1173,1327,1331,1338
+29	Rudľai Štefan		1	1197
+29	Rudľaiová Alžbeta		1	1346,1378
+29	Rudľaiová Alžbeta, SR	dcéra Andreja	1	877,888,925,1163,1199,1201,1231,1336
+29	Rudľaiová Anna		1	1346,1378
+29	Rudľaiová Anna r. Bučková, SR		1	1197,1201
+29	Rudľaiová Anna r. Ihnačíková, SR		1	1365
+29	Rudľaiová Anna r. Iľková		1	1346
+29	Rudľaiová Anna r. Iľková, SR		1	1182,1379
+29	Rudľaiová Anna r. Jenčová		1	1378
+29	Rudľaiová Anna r. Nemcovská		1	1346,1378
+29	Rudľaiová Anna r. Nemcovská, SR		1	924,1379,1487,1549
+29	Rudľaiová Anna, SR	dcéra Andreja	1	877,888,925,1163,1199,1201,1231,1336
+29	Rudľaiová Elena		1	1346,1378
+29	Rudľaiová Helena		1	1378
+29	Rudľaiová Helena, SR	mal.dcéra Andreja	1	877,888,925,1163,1199,1201,1231,1336
+29	Rudľaiová Mária r. Štimecová, SR		1	1203,1473
+29	Rudľaiová Zuzana r. Košíková		1	1346,1378
+29	Rudľaiová Zuzana r. Košíková, SR		1	889,1233,1336
+29	Rudľaj Ján, SR		1	899,925,1163,1201,1231,1336,1587
+29	Rusinková Anna r. Mikulová		1	1378
+29	Rusinková Anna r. Mikulová, SR		1	899,1163,1199,1231,1587
+29	Rusnáková Anna r. Koľabová, SR		1	1389
+29	Sabol Ján		1	1346,1378
+29	Sabolová Alžbeta r. Koščová		1	1378
+29	Sabolová Alžbeta r. Koščová, SR		1	1206,1379

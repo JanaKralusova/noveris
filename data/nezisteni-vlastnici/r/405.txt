@@ -1,0 +1,256 @@
+239	Hnát Anton	bixa, súr. Rozália, Alžbeta, Štefan, Šimon	0	4929
+239	Hnát Anton	slobodný, ded. po Ondrejovi Hnátovi	0	1143
+239	Hnát Anton	slobodný, súr. Štefan, Mária, ded. po Ondrejovi Hnátovi	0	1116,1145,1180,1182,1250,4932,4933,5444
+239	Hnát Anton	slobodný, súrod.Štefan, Mária	0	2466,4464
+239	Hnát Anton	zomrel slobodný	0	4183
+239	Hnát Anton	ž. Anna r. Dujsíková	0	1462,1464,1466,1515,4373,4893,5407
+239	Hnát Anton	ž. Mária r. Pavlíková	0	1461,4760
+239	Hnát Anton	ž. Mária r.Pavlíková	0	1460,5482
+239	Hnát Anton	ž.Anna r. Dujsíková	0	1467,4894
+239	Hnát Anton	ž.Mária r.Pavlíková, súrod. Rozália, Agneša	0	2268,4158
+239	HNÁT Anton	manž. Anna r. Dujsíková	0	1554
+239	HNÁT Anton	manž. Anna r. Pavlíková	0	1554
+239	HNÁT Anton	manž. Mariana r. Pavlíková	0	1554
+239	HNÁT Anton	manž.Anna r.Dujsíková	0	2538
+239	HNÁT Anton	ž.Anna r.Dujsíková	0	1463,2927,4761,4895
+239	Hnát Anton, Brodské, SR	ž.Anna r. Dujsíková	0	1465
+239	Hnát Antonín	slob. súr. Štefan, Mária, ded. po Margite Čulenovej r. Hojsíkovej	0	1092
+239	Hnát Antonín	slobodný	0	1402
+239	Hnát Antonín	slobodný, súr. Štefan, Mária	0	1090,4929,4930
+239	Hnát Antonín	slobodný, súr. Štefan, Mária, ded. po Ondrejovi Hnátovi	0	652,4446
+239	Hnát Ferdinand	zomr. 12.3.1967, ž. Klotilda r. Dujsíková, súr. Mária Čulenová, Rozália Baňovičová,IgnácŠ	0	1086,1554,5416
+239	HNÁT Ferdinand, 691 53, Tvrdonice, č. 404, ČR		0	652,1076,1086,1090,1095,1133,1135,1145,4438,4446,4905,4929,4930
+239	Hnát Ferdinand, Ružová 10, Tvrdonice, PSČ 691 53, ČR		0	2133,2458,2459,2697,2814,3058,3169
+239	Hnát Ignác	bixa, nar. 28.6.1875, zomr. 26.3.1954, bytom Brodské č. 298	0	1297
+239	Hnát Ignác	ded. po Agneši Mihálovej, r. Hnátovej	0	1084,4437,5337
+239	Hnát Ignác	manž. Agneša r. Mihálová	0	1554
+239	Hnát Ignác	manželka Agneša r. Mihálová	0	1554
+239	Hnát Ignác	otec: Ján, súr. Anna, Agneša, Rozália, Jozef	0	5132
+239	Hnát Ignác	Spolunadobúdatelia: Helena Dujsíková, Jozef Hnát, Žofia Trubirohová, Štefan Hnát	0	1087,1089,1095,1183,1251,1291,1554,2077,2345,4434,4935,5822
+239	Hnát Ignác	zomr. 27.9.1965, ž. Štefánia r. Hnátová, rod. Štefan a Rozália r. Štvrtecká	0	1554,2356
+239	Hnát Ignác	ž. Agneša Mihálová, ded. po Martinovi Hnátovi	0	1145,4932,4933
+239	Hnát Ignác	ž. Agneša r. Mihálová	0	1554
+239	Hnát Ignác	ž. Mária r. Neoveská	0	2182,3011,3012,5179,5267
+239	Hnát Ignác	ž. Marta r. Čulenová, súr. Anton, Anna Agneša, Rozália	0	1084,1247,1249,3630,4437,5337
+239	HNÁT Ignác		0	1084,1250,1554,2351,2352,2353,2354,2885,4437,5207,5336,5337,5421,5422,5667,5668
+239	Hnát Imrich	bixa, rod. Imrich a Jozefína r. Antálková, súr. Rozália, Alžbeta, Štefan, Šimon, Anton	0	1197,3129
+239	Hnát Imrich	maloletý, ded. po Anne Stachovičovej r. Hojsíkovej	0	1139,1143
+239	Hnát Imrich	maloletý, súr. Žofia, Júlia, Helena, Agneša, Antonín, Albín, Tomáš	0	1142
+239	Hnát Imrich	manž. Helena	0	1088,2483,4433,4890
+239	Hnát Imrich	manž. Helena r. Jureňová	0	1139
+239	Hnát Imrich	rod. Jozef a Alžbeta r. Štvrtecká, súr. Anna Dujsíková, Mária Mihálová	0	1088,1089,1116,1322,1323,1351,1356,1554,2365,2483,2733,3398,4433,4890,5073,5400,5429,5672
+239	Hnát Imrich	zomr. 18.6.1990, súr. Alžbeta Adamovičová, Ferdinand, Jozef, Ján	0	1141,1554,1843,2083,2374,4720,4886,5648
+239	Hnát Imrich	ž. Helena	0	1089,1116,1249
+239	Hnát Imrich	ž. Helena r. Jureňová	0	1095,1589
+239	Hnát Imrich	ž. Mária r. Jankovičová	0	5339
+239	Hnát Imrich	ž. Mária, naposledy bytom Brodské s.č.86	0	5286
+239	HNÁT Imrich		0	1388,2586,4625
+239	Hnát Ján	ded. po Jánovi Hnátovi	0	1084,1088,2483,4433,4437,4890,5337
+239	Hnát Ján	ded. po Jozefovi Hnátovi	0	1183,2077
+239	Hnát Ján	ded. po Kataríne Hnátovej	0	1088,1089,1095,1116,1251,2483,4433,4890
+239	Hnát Ján	ded. po Márii Hnátovej r. Palkovičovej	0	1088,2483,4433,4890
+239	Hnát Ján	ded. po Márií Hnátovej, r. Palkovičovej	0	1084,4437,5337
+239	Hnát Ján	ded. po Márii Palkovičovej	0	1326,2585,4447
+239	Hnát Ján	ded.po Kataríne Hnátovej	0	1589
+239	Hnát Ján	Júlia r.Trubirohová	0	3291
+239	Hnát Ján	manž. Mária Jakubcová, ded. po Cecílii Hnátovej r. Gajdovej	0	1247
+239	Hnát Ján	manž.Júlia r.Trubirohová	0	675,3992,5801
+239	Hnát Ján	Marek	0	1251
+239	Hnát Ján	marek, ž.Mária r.Palkovičová	0	1117
+239	Hnát Ján	otec: Ján, súrodenci: Štefan, Jozef	0	766,1095,1116,1139,1247,1249,1421,1468,1516,1652,2778,2779,2780,4379,5535,5537
+239	Hnát Ján	pukanec, ž. Alžbeta	0	1116
+239	Hnát Ján	rod. Štefan a Mária r. Kováčová	0	2330,2579
+239	Hnát Ján	súr. Genovéva Baňovičová, ded. po Márii Hnátovej r. Palkovičovej	0	1164
+239	Hnát Ján	súr. Genovéva, ded. po Jánovi Hnátovi	0	1089,1164,1326,2585,4447
+239	Hnát Ján	súr. Genovéva, ded. po Márie Hnátovej r. Palkovičovej, po Jánovi Hnátovi	0	1251
+239	Hnát Ján	súr. Genovéva, ded. po Márii Hnátovej r. Palkovičovej	0	1089
+239	Hnát Ján	súr. Jozef, Jozefína, ded. po Jánovi Hnátovi	0	1254
+239	Hnát Ján	súrod. Genovéva	0	744
+239	Hnát Ján	súrod.Genovéva	0	3893,5532
+239	Hnát Ján	súrod.Štefan, Agneša, Mária	0	3291
+239	Hnát Ján	ž. Júlia r. Hnátová, rod. Pavol a Mária r. Valachovičová, súr. Ondrej, Terézia Štvrtecká	0	1113,1116,1164,1255,3148
+239	Hnát Ján	ž. Mária Jakubcová ded. po Cecílii Hnátovej r. Gajdovej	0	1142
+239	Hnát Ján	ž. Mária r. Jakubcová, ded. po Cecílii Hnátovej r. Gajdovej	0	1087,1143,4434,4935,5822
+239	Hnát Ján	ž. Mária r. Jakubcová, ded. po Cecílii Hnátovej r. Gajdovej - m. Jozef	0	4631
+239	Hnát Ján	ž. Terézia r. Stachovičová, rod. Ján a Júlia r. Hnátová, súr. Jozefína Čulenová, Jozef	0	652,726,766,1083,1084,1088,1089,1090,1091,1092,1095,1115,1116,1139,1141,1142,1143,1145,1163,1180,1182,1249,1250,1251,1252,1297,1338,1402,1406,1412,1421,1554,1589,1667,1921,2200,2201,2203,2210,2212,2213,2214,2215,2216,2217,2218,2219,2220,2221,2222,2397,2466,2483,2801,2857,3059,3754,3819,4152,4183,4433,4436,4437,4446,4464,4638,4890,4929,4930,4932,4933,5096,5337,5444,5486,5626
+239	Hnát Ján	ž.Mária r.Jakubcová, súrod.Jozef, Genovéfa	0	2777
+239	HNÁT Ján		0	1088,1089,1095,1116,1139,1249,1291,1388,1554,1652,2345,2483,2586,4433,4625,4890
+239	HNÁT Ján	manž. Mária r. Jakubcová	0	1554
+239	HNÁT Ján r. HNÁT		0	1554
+239	Hnát Ján, Brodské, SR	otec: Ján, súrodenci: Štefan, Jozef	0	1554
+239	Hnát Jozef	m. Mária r.Stachovičová, deti: Valéria Rusnáková	0	3429
+239	Hnát Jozef	otec: Ján, súrod. Ignác, Anna, Agneša, Rozália	0	5132
+239	Hnát Jozef	Pukanec, manž. Alžbeta	0	1088,2483,4433,4890
+239	Hnát Jozef	zomr. 1943, ž. Mária, rod. Jozef a Cecília r. Gajdová, súr. Ján, Genovéva Prušanská	0	1089,1142,1247,1291,1554,2077
+239	Hnát Jozef	zomr. 9.5.1978, ž. Anna r. Hladíková, rod. Ignác a Štefánia Hnátová	0	1087,1088,1095,1116,1142,1183,1247,1251,1554,2345,2483,4433,4434,4626,4890,4935,5822
+239	Hnát Jozef	ž. Mária r. Hnátová, otec Ján, súr.: Ján, Štefan	0	766,1139,1247,1249,1421,2778,2779,4379,5537
+239	Hnát Jozef	ž. Rozália r. Poláková, rod. Štefan a Mária r. Macejková, súr. Rafael, Štefan, Júlia	0	1084,1089,1090,1252,1554,3059,4437,4929,4930,5337
+239	Hnát Jozef	ž. Serafína r. Trubirohová, súr.: Ján, Jozefína Čulenová	0	1083,4436
+239	Hnát Konštantín	maloletý, súr. Štefánia, ded. po Uline Hnátovej r. Trubirohovej	0	1116
+239	Hnát Konštantín	súr. Štefánia, ded. po Uline Hnátovej r. Trubirohovej	0	1143
+239	Hnát Lukáč r. Hnát	zomr. 31.1.1951, ž.Anna r. Prokopová, rod. Ján a Alžbeta r. Tobiašová, súr. Justína, Štef	0	1087,1352,1353,1354,1355,3749,4322,4434,4935,5404,5822
+239	Hnát Marek		0	1326,2585,4447
+239	Hnát Martin	bixa, ž. Alžbeta r. Papánková	0	2552,2660
+239	Hnát Ondrej		0	1554
+239	Hnát Ondrej	ded. po Márii Hnátovej r. Valachovičovej	0	1088,2483,4433,4890
+239	Hnát Ondrej	ded. po Martinovi Valachovičovi	0	2856
+239	Hnát Ondrej	manž. Mária r.Holásková	0	3059
+239	Hnát Ondrej	súr. Terézia, Ján	0	1113
+239	Hnát Ondrej	súr. Terézia, Ján, ded. po Márii Hnátovej r. Valachovičovej	0	1338
+239	Hnát Pavol	ž. Anna Valachovičová, súr. Anna	0	1094,4435
+239	Hnát Šimon	bixa, súr. Rozália, Alžbeta, Štefan, Anton, Imrich, ded. po Imrichovi Hnátovi	0	1145,4932,4933
+239	Hnát Šimon	mal. ded. po Martinovi Hnátovi	0	1095
+239	Hnát Šimon	maloletý, súr. Ignác, Rozália, Alžbeta, Štefan, Anton, ded. po Martinovi Hnátovi	0	1116
+239	Hnát Šimon	súr. Rozália, Alžbeta, Štefan, Anton, ded. po Martinovi Hnátovi	0	1145,4932,4933
+239	Hnát Šimon	súr. Rozália, Alžbeta, Štefan, Antonín	0	1145,4932,4933
+239	Hnát Štefan	ded.po Štefanovi Hnátovi	0	1652
+239	Hnát Štefan	m. Anna r. Knappová	0	1083
+239	Hnát Štefan	otec Ján, súr. Ján, Jozef	0	1095,1139,1247,1249,1468,1516,1554,1652,2778,2779
+239	Hnát Štefan	rod. Ján a Alžbeta r. Tobiašová, súr. Justína Valachovičová, Lukáš, Anna	0	1087,1322,1351,1352,1353,1354,1355,1356,3749,4322,4434,4935,5400,5404,5672,5822
+239	Hnát Štefan	rod. Lukáš a Anna r. Prokopová, súr. Ján, Anton, František, Ignác	0	1088,1089,1095,1116,1290,1322,2483,2969,3141,3143,3876,4433,4716,4812,4890,5400,5672
+239	Hnát Štefan	Spolunadobúdatelia: Helena Dujsíková, Jozef, Ignác, Žofia Trubirohová	0	1089,1183,1251,1291,2077,2345,4935
+239	Hnát Štefan	zomr. 16.11.1965, ž. Serafína r. Gulíšková, rod. Štefan a Mária r. Kováčová, súr. Ján, Má	0	1095,1116,1139,1247,1249,1468,1516,1554,1652,2778,2779
+239	Hnát Štefan	zomr. 23.9.1988, ž. Štefánia r.Sedalíková, rod. Jozef a Mária r.Hnátová, súr.Rozália, Štea	0	1116
+239	Hnát Štefan	zomr. 26.7.1935, ž. Albína r. Hladíková, súr. Agneša, Mária, Dominik, Lukáš	0	3291
+239	Hnát Štefan	ž. Anna r. Knappová	0	1087,4434,4436,4935,5822
+239	Hnát Štefan	ž. Mária r. Suláková súr. Mária, ded. po Anne Baňovičovej	0	1145,4932,4933
+239	Hnát Štefan	ž. Mária r. Suláková, súr. Mária, ded. po Anne Baňovičovej	0	1095
+239	Hnát Štefan	ž. Zuzana r. Valachovičová, rod. Ladislav a Mária r. Papánková, súr.Vendelín, Mária Dujsíá	0	1663
+239	Hnát Štefan	ž.Mária Šuleková, ded. po Anne Baňovičovej	0	3429
+239	HNÁT Štefan	manž. Mária r. Suláková	0	1554
+239	Hnát Štefan r. Hnát	zomr. 16.10.1956, ž. Rozália r. Štvrtecká, rod. Martin a Anna r. Baňovičová	0	1554,2172,4388
+239	Hnát Štefan r. Hnát	zomr. 22.5.1979, I.ž.Anna r. Papánková, II.ž.Mária r. Rehortová súr. Anton, Mária Pavlíkoá	0	1084,1090,1092,1095,1115,1116,1296,1554,1835,1839,3429,4152,4437,4929,4930,5337
+239	Hnát Vendelín	ž. Alžbeta	0	1116
+239	Hnát Vincent	archandel, ž. Kristína r. Hnátová	0	2440,3038
+239	Hnát Vincent	kúpa od Úverového družstva pre Kúty	0	1092
+239	Hnát Vincent	kúpa od Úverového družstva pre Kúty a okolie v Kútoch	0	1163
+239	Hnát Vincent	kúpa od Úverového družstva v Kútoch	0	652,4446
+239	Hnát Vincent	manž. Kristína Hnátová	0	5345
+239	Hnát Vincent	ž. Kristína Hnátová	0	1353,1354,1355
+239	Hnát Vincent	ž. Kristína r. Hnátová, č.d. 247	0	5323
+239	Hnát Vincent	ž. Kristína r. Hnátová, súr. Jozef, ded. po Michalovi Hnátovi - ž. Anna r. Antálková	0	1351
+239	Hnát Vincent	ž.Kristína r.Hnátová	0	1323,1554,5429
+239	HNÁT Vincent		0	1554,4524,4855,5034
+239	HNÁT Vincent	ž. Kristína r. Hnátová	0	1356,1554,1662,3365
+239	Hnátová Agneša	otec Ján, súrod. Jozef, Ignác, Anna, Rozália	0	5132
+239	Hnátová Agneša	súr. Ignác, Anton, Rozália, Anna	0	1460,1554,4158,4760,5482
+239	Hnátová Agneša	výmaz malolet. v r. 1906, súr. Dominik, Lukáš, Štefan, Mária	0	3291
+239	Hnátová Agneša r. Antálková	m. Štefan	0	5153
+239	Hnátová Agneša r. Mihálová	súr. František, Ján, ded. po Štefanovi Mihálovi	0	652,1086,4446
+239	Hnátová Albína r. Hladíková	č.d. 195, ded. po Ondrejovi Hladíkovi a Anne r. Čulenovej	0	5333
+239	Hnátová Alžbeta	bixa, maloletá v roku 1910, aj v roku 1916, otec: Imrich	0	1087,1090,1095,1113,1116,1145,1183,1197,1251,1297,3129,4434,4929,4930,4932,4933,4935,5822
+239	Hnátová Alžbeta	m. Ján	0	1116
+239	Hnátová Alžbeta	m. Vendelín	0	1087,1256,4434,4935,5822
+239	Hnátová Alžbeta	m.Vendelín	0	1089
+239	Hnátová Alžbeta	manž. Vendelín	0	1088,2483,4433,4890
+239	Hnátová Alžbeta	manžel Jozef	0	1088,2483,4433,4890
+239	Hnátová Alžbeta	manžel Vendelín	0	1139
+239	Hnátová Alžbeta	Spolunadobúdatelia: Ján, Mária	0	1088,1388,2483,2586,4433,4625,4890
+239	Hnátová Alžbeta	vdova	0	1095,1139
+239	Hnátová Alžbeta	vdova, m. Ján	0	1089
+239	Hnátová Alžbeta	vdova, m. Pavol	0	1249
+239	Hnátová Alžbeta	vdova, manžel Pavol	0	1247
+239	Hnátová Alžbeta r. Štvrtecká	m. Jozef, súr. Jozef, Ján, Štefan, Agneša Králová	0	1091,1115,1117,2364,2365
+239	Hnátová Alžbeta r. Vendelínová		0	1095
+239	Hnátová Anna	č.d. 236	0	5285
+239	Hnátová Anna	maloletá v roku 1939, rod. Ignác a Agneša r. Mihálová, naposl	0	5036
+239	Hnátová Anna	maloletá v roku 1939, rod. Ignác a Agneša r. Mihálová, naposl. bytom Brodské s.č. 298	0	3131
+239	Hnátová Anna	rod. Ján a Alžbeta r. Tobiašová, súr. Justína Valachovičová, Štefan, Lukáš	0	1087,1351,1352,1353,1354,1355,1356,3749,4322,4434,4935,5404,5822
+239	Hnátová Anna	súrod. Ignác, Agneša, Rozália, Jozef, dedené po Jánovi Hnátovi	0	5132
+239	Hnátová Anna	súrodenci: Júlia, Katarína	0	1088,1089,1095,1116,1589,2483,4433,4890
+239	HNÁTOVÁ Anna	r.Pavlíková/m.Anton,R17.1.1879	0	2538
+239	Hnátová Anna r. Antálková		0	652,4446
+239	Hnátová Anna r. Bartalová	m. Ján, súr. Ján, Helena, Jozef, Štefan, Mária	0	1388,2586,4625
+239	HNÁTOVÁ Anna r. Čulenová		0	1554
+239	Hnátová Anna r. Hačundová	mašin, m. Ján	0	5127
+239	Hnátová Anna r. Horná		0	1297,2466,4464
+239	Hnátová Anna r. Jakubcová	m. Gabriel	0	2091
+239	Hnátová Anna r. Knappová	m. Štefan	0	1083,1087,4434,4436,4935,5822
+239	Hnátová Anna r. Papánková	dar od Anny Hojsíkovej r. Štvrteckej	0	1174,1381,1396,1397
+239	Hnátová Anna r. Papánková	dar od Jozefa Hojsíka	0	1076,1083,1086,1139,1164,1211,1241,1249,1250,1251,1252,1255,4436,4438,4905,5354
+239	Hnátová Anna r. Papánková	dar od Jozefa Hojsíka, kúpa od Tekly Šimoničovej	0	1160,1256,4439
+239	Hnátová Anna r. Papánková	dar od Jozefa Hojsíka, kúpa od Tekly Šimoničovej r. Hojsíkovej	0	1247
+239	Hnátová Anna r. Papánková	ded. po Anne Hojsíkovej r. Štvrteckej	0	1474
+239	Hnátová Anna r. Papánková	ded. po Jozefovi Hojsíkovi	0	2199,5760
+239	Hnátová Anna r. Papánková	kúpa od Tekly Šimončiovej r. Hojsíkovej	0	1211
+239	Hnátová Anna r. Papánková	Kúpa od Tekly Šimoničovej r. Hojsíkovej	0	1076,1083,1086,1139,1164,1249,1250,1251,1252,1255,4436,4438,4905,5354
+239	Hnátová Anna r. Papánková	kúpa od Tekly Šimoničovej r.Hojsíkovej	0	1241
+239	HNÁTOVÁ Anna r. Papánková		0	1087,1104,1140,1141,1239,1240,1245,1246,1248,1262,1264,1380,1398,1554,2257,2258,2361,3009,3943,4434,4444,4585,4935,5357,5563,5613,5614,5759,5822
+239	HNÁTOVÁ Anna r. Papánková, SR		0	1554
+239	Hnátová Anna r. Pavlíková	ded. po Márii Pavlíkovej r. Dujsíkovej	0	1088,1142,1143,2483,4433,4890
+239	Hnátová Anna r. Pavlíková	ded. po Štefanovi Pavlíkovi	0	1140,1248,4444
+239	Hnátová Anna r. Pavlíková	ded. po Štefanovi Pavlíkovi a manž. Márii r. Dujsíkovej	0	5182
+239	Hnátová Anna r. Pavlíková	m. Anton	0	1462,1464,1466,1515,3630,4373,4893,5407
+239	Hnátová Anna r. Pavlíková	m.Anton	0	1467,4761,4895
+239	Hnátová Anna r. Pavlíková	m.Anton,R 17.1.1879	0	2927
+239	HNÁTOVÁ Anna r. Pavlíková		0	1140,1248,1270,1463,1468,1516,4258,4444,4934,5238
+239	HNÁTOVÁ Anna r. Pavlíková	manž. Anton	0	1554
+239	Hnátová Anna r. Prokopová	zomr. 19.11.1957, m. Lukáš, rod. Michal a Anna r. Hnátová, súr. Karolína, Ján, Štefan	0	1088,1089,1095,1116,1297,2483,3044,3140,4433,4890
+239	Hnátová Anna r. Valušková		0	1405,2454,3295,4448
+239	Hnátová Anna r. Valúšková	ded. po Gašparovi Valúškovi, súr. Agneša, Ondrej, Eva, Mária	0	1326,2585,4447
+239	Hnátová Anna r. Valúšková	súr. Agneša Gajdová, Ondrej, Eva Hnátovičová, Mária Horáková, ded. po Gašparovi Valúškovi	0	1084,4437,5337
+239	Hnátová Anna r. Valúšková	súr. Agneša, Ondrej, Eva, Mária, ded. po Gašparovi Valúškovi	0	1404,2379
+239	HNÁTOVÁ Barbora		0	1468,1516
+239	Hnátová Berta r. Jakubcová	ded. po Kataríne Jakubcovej r. Hojsíkovej	0	1087,1211,4434,4935,5822
+239	Hnátová Berta r. Jakubcová	dedené po Kataríne Jakubcovej r. Hladíkovej - m. Štefan	0	1385
+239	Hnátová Cecília	č.d. 46	0	5288
+239	Hnátová Cecília r. Gajdová	zomr. 27.5.1947, m. Jozef, rod. Ján a Mária r. Burská	0	1087,1143,1247,4434,4935,5822
+239	Hnátová Ernestína	súr. Mária, ded. po Kataríne Hnátovej r. Antálkovej	0	1489
+239	HNÁTOVÁ Ernestína		0	1554
+239	Hnátová Hedviga r. Čulenová		0	1270,3485,3490,4934
+239	Hnátová Hedviga r. Čulenová	ded. po Antonínovi Čulenovi	0	1247,1335
+239	Hnátová Hedviga r. Čulenová	rod. Antonín a Anna r. Valachovičová, súr. Ferdinand, Agneša, Štefánia, Mária	0	5804
+239	Hnátová Hedviga r. Čulenová	rod. Antonín a Anna r. Valachovičová, súr.Ferdinand, Agneša, Mária, Štefánia	0	4005
+239	Hnátová Hedviga r. Čulenová	súr. Ferdinand, Agneša Šimkovičová, Mária Trubirohová, Štefánia Hladíková	0	1084,4437,5337
+239	Hnátová Hedviga r. Čulenová	súr. Ferdinand, Agneša, Mária, Štefánia, ded. po Antonínovi Čulenovi	0	1087,1251,4434,4935,5822
+239	Hnátová Hedviga r. Čulenová	súr. Ferdinand, Agneša, Štefánia, Mária, ded. po Antonínovi Čulenovi	0	3488
+239	HNÁTOVÁ Hedviga r. Čulenová, miesto v| miesto v cudzine, neznáme, SR		0	2116
+239	Hnátová Hedvika r. Čulenová		0	1554
+239	Hnátová Hedvika r. Čulenová	súr. Ferdinand, Agneša, Štefánia, Mária, ded. po Antonínovi Čulenovi	0	3486
+239	Hnátová Hedvika r. Čulenová	súrod. Ferdinand, Agneša, Mária, Štefánia	0	1161
+239	Hnátová Helena		0	1116,1388,2586,4625
+239	Hnátová Helena	kovár	0	1554
+239	Hnátová Helena	m. Imrich	0	1089,1249
+239	Hnátová Helena	maloletá	0	1087,4434,4935,5822
+239	Hnátová Helena	manžel Imrich	0	1088,2483,4433,4890
+239	Hnátová Helena r. Dujmovičová		0	1088,2483,4433,4890
+239	Hnátová Helena r. Hačundová		0	1334,1554
+239	Hnátová Helena r. Hačundová	17.05.1898, ded. po Martinovi Hačundovi - ž. Klára r. Hladíková	0	4105,4107
+239	Hnátová Helena r. Hačundová	ded. po Martinovi Hačundovi	0	766,1421,4743,4744
+239	Hnátová Helena r. Hačundová	dedené po Martinovi Hačundovi	0	1708
+239	Hnátová Helena r. Hnátová	m. Imrich	0	1116
+239	Hnátová Helena r. Jureňová	m. Imrich	0	1095,1589
+239	Hnátová Helena r. Jureňová	manžel Imrich	0	1139
+239	Hnátová Jozefína	súr. Ján, Jozef, ded. po Jánovi Hnátovi	0	1090,4929,4930
+239	Hnátová Júlia		0	1088,1089,1095,1116,2483,4433,4890
+239	HNÁTOVÁ Júlia r. Hladíková		0	1554,1724,4773
+239	Hnátová Katarína r. Antálková	ded. po Michalovi Antálkovi	0	1070
+239	Hnátová Kristína r. Hnátová	m. Vincent	0	2440
+239	Hnátová Kristína r. Hnátová	m. Vincent, archandel	0	3038
+239	Hnátová Mária	č.d. 27	0	5289
+239	Hnátová Mária	č.d.314, manžel Jozef	0	4633
+239	Hnátová Mária	č.d.86	0	5286
+239	Hnátová Mária	hluchonemá, v roku 1944 maloletá, rod. Štefan a Rozália r. Štvrtecká	0	32,33,1084,1250,1554,2350,2351,2352,2353,2354,2355,2356,2357,2359,2881,2883,3542,3817,4382,4437,5207,5337,5420,5421,5422,5423,5427,5667,5668
+239	Hnátová Mária	súrodenci: Štefan, Agneša, Dominik, Ján	0	3291
+239	Hnátová Mária	v roku 1930 maloletá, rod. Martin a Helena r. Čulenová	0	1084,1250,1554,2351,2352,2353,2354,2885,4437,5207,5336,5337,5421,5422,5667,5668
+239	HNÁTOVÁ Mária		0	1088,1089,1388,1589,2483,2586,4433,4625,4890
+239	Hnátová Mária r. Baňovičová		0	1095
+239	Hnátová Mária r. Hnátová	súrod. Helena, ded. po Márii Hnátovej r. Kováčovej -m. Michal	0	2342
+239	HNÁTOVÁ Mária r. Hnátová		0	1554
+239	HNÁTOVÁ Mária r. Jakubcová		0	1554
+239	Hnátová Mária r. Kováčová	m. Štefan	0	1182
+239	Hnátová Mária r. Kováčová	manž. Štefan	0	1139,1249
+239	Hnátová Mária r. Kováčová	zomr. 12.9.1985, I.m. Štefan Jakubec, II.m. Michal Hnát, rod. Ondrej a Mária r. Holáskov	0	652,1088,1116,1142,1554,2483,3059,4433,4446,4890
+239	Hnátová Mária r. Kovárová	zom.14.2.1976	0	2381
+239	Hnátová Mária r. Neoveská	zomr. 1.2.1953, m. Ignác, naposl. bytom Brodské s.č. 330	0	1436,1554,5809
+239	Hnátová Mária r. Palkovičová	m.Ján	0	1117
+239	Hnátová Mária r. Valachovičová		0	1139
+239	Hnátová Mária r. Valachovičová	m. Pavol	0	1141
+239	Hnátová Mária r. Valachovičová	manž. Pavol	0	1090,4929,4930
+239	Hnátová Mária r. Valachovičová	zomr. 24.2.1976, Brodské č. 816, m. Anton, rod. Martin a Mária r. Hnátovičová, brat Štefan	0	1087,1089,1095,1116,1139,1145,1247,1249,1667,4434,4932,4933,4935,5822
+239	Hnátová Marta r. Čulenová	ded. po Antonínovi Čulenovi	0	1083,1084,1088,1139,2483,4433,4436,4437,4890,5337
+239	Hnátová Marta r. Čulenová	dedenie po Antonínovi Čulenovi	0	1260
+239	Hnátová Marta r. Čulenová	m. Ignác	0	1084,4437,5337
+239	Hnátová Marta r. Čulenová	m.Ignác	0	3630
+239	Hnátová Marta r. Čulenová	manžel Ignác	0	1247
+239	Hnátová Marta r. Čulenová	rodičia Anton a Mária r. Papánková, súr. Ignác, Marek, Jozef	0	4186

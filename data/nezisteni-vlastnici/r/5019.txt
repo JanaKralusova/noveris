@@ -1,0 +1,256 @@
+2831	Berezňáková Mária r. Policianová		0	1549
+2831	Bobalík Vasil		0	1643
+2831	Bodnárová Mária r. Gibartiová		0	1846,1957,2294,3499,3691,3692,3693
+2831	Bosáková Anna r. Ščerbáková		0	1549
+2831	Bubenová Júlia		0	1436
+2831	Bubenová Zuzana		0	1436
+2831	Buchala Juraj	1	0	1553,3279,3280,3281
+2831	Buchala Juraj	2	0	1553,3279,3280,3281
+2831	Buchala Juraj	3	0	1555
+2831	Buková Mária r. Čižíková		0	1549
+2831	Cenker Ján		0	1762
+2831	Cenker Michal		0	1762
+2831	Cenkerová Helena		0	1762
+2831	Cenkerová Mária		0	1762
+2831	Cenkerová Zuzana		0	1762
+2831	Cicoňová Mária r. Dučáková		0	1549
+2831	Cigáňová Mária r. Havrilová		0	1775,1846,1957,3499
+2831	Cigáňová Mária r. Havrilová	1	0	1581,1618,1775,3096,3099,3100,3101,3106,3135,3331
+2831	Cigerčová Mária r. Havrilová		0	3331
+2831	Cirčská Mária r. Kopčíková		0	3623
+2831	Cuprák Ján		0	1741
+2831	Cuprák Michal		0	1406,3487
+2831	Cuprák Michal	1	0	3069,3445
+2831	Cuprák Michal	2	0	1203,1846,2393,2667,3431
+2831	Cuprák Michal	3	0	3413,3930
+2831	Cuprák Peter		0	1396,1502,1964,3453,3454,3463,3635
+2831	Cuprák Peter	1	0	1203
+2831	Cuprák Štefan		0	1406,3487
+2831	Cuprák Štefan	1	0	3069,3071,3445
+2831	Cuprák Štefan	2	0	1846,1957,2393,3431,3499
+2831	Cuprák Štefan	3	0	3413,3930
+2831	Cupráková Anna r. Kerbčárová	1	0	3419,3420
+2831	Cupráková Anna r. Kerbčárová	2	0	1846,1957,2086,2087,3166,3499,3758
+2831	Cupráková Anna r. Kerbčárová	3	0	1205,1492,1494,1846,1928,1957,1976,1978,2388,2667,2740,3398,3399,3401,3428,3499,3631,3653,3805,4069,4080
+2831	Cupráková Mária r. Kravcová		0	1396,1502,1964,3453,3635
+2831	Cupráková Mária r. Kravecová		0	3454,3463
+2831	Cvanciger Eliáš		0	3699
+2831	Cvanciger Eliáš	1	0	1396,1502,1964,3453,3454,3463,3635
+2831	Cvanciger Ján		0	18,3027,3732
+2831	Cvanciger Ján	2	0	1846
+2831	Cvanciger Ján	3	0	1846
+2831	Cvanciger Ján	4	0	1396,1502,1964,3453,3454,3463,3635
+2831	Cvanciger Ján	5	0	1396,1502,1964,3453,3454,3463,3635
+2831	Cvanciger Ján	6	0	1396,1502,1964,3453,3454,3463,3635
+2831	Cvanciger Ján	7	0	1846,3294
+2831	Cvanciger Juraj		0	18,3633,3634,3732
+2831	Cvanciger Juraj	1	0	1119,1770,1846,3570,3599,3734,3769,3788,3793,4019
+2831	Cvanciger Michal		0	3635
+2831	Cvanciger Michal	4	0	1396,1502,1964,3453,3454,3463,3635
+2831	Cvanciger Michal	5	0	1186,1649,1846,3294,3597,3663,3747
+2831	Cvancigerová Anna r. Kopčíková		0	1396,1502,1964,3453,3454,3463,3635
+2831	Cvancigerová Anna r. Ženčová		0	1844
+2831	Cvancigerová Helena r. Šoltýsová		0	1396,1502,1964,2042,3234,3235,3453,3454,3463,3635
+2831	Cvancigerová Helena r. Šoltýsová	1	0	1396,1502,1964,2244,2252,2604,2892,3453,3454,3463,3517,3520,3635
+2831	Cvancigerová Helena r. Šoltýsová	2	0	3704,3705
+2831	Cvancigerová Júlia		0	1805
+2831	Cvancigerová Júlia	1	0	2285,3781
+2831	Cvancigerová Júlia r. Kopčíková		0	1396,1502,1964,3453,3454,3463,3635
+2831	Cvancigerová Júlia r. Šenitková		0	18,1396,1502,1964,3453,3454,3463,3635
+2831	Cvancigerová Júlia r. Šenitková	1	0	1396,1502,1964,3453,3454,3463
+2831	Cvancigerová Júlia r. Zavacká		0	3074,3076
+2831	Cvancigerová Júlia r. Zavacká	1	0	3074
+2831	Cvancigerová Júlia r. Zavacká	2	0	3074
+2831	Cvancigerová Mária r. Lazorová		0	1446
+2831	Cvancigerová Mária r. Macurová		0	1396,1502,1846,1964,2145,2152,2155,2925,3308,3375,3453,3454,3463,3635,3786,3829
+2831	Cvancigerová Mária r. Sovičová		0	3699
+2831	Cvancigerová Mária r. Ženčová		0	1203
+2831	Cvancigerová Zuzana		0	18,1770,1846,3570,3599,3633,3634,3769,3788,3793,4019
+2831	Cvancigerová Zuzana r. Kopčíková		0	3756
+2831	Čajkovská Anna r. Kurucová		0	1549
+2831	Čerkala Ján		0	1586,1587,1588,3983
+2831	Čerkala Ján	2	0	1588,3983
+2831	Černáková Anna r. Židovská		0	1481
+2831	Červeňák Ján		0	1406,1823,1846,1957,1958,3419,3499
+2831	Červeňák Ján	1	0	1625
+2831	Červeňák Ján	2	0	3069,3071,3072,3445
+2831	Červeňáková Anna r. Čuriová		0	1823,1846,1957,1958,2388,2389,2740,2745,3399,3428,3429,3499,3805,3814
+2831	Červeňáková Gizela		0	1406,1823,1846,1957,1958,3419,3499
+2831	Červeňáková Gizela	1	0	1625
+2831	Červeňáková Gizela	2	0	3069,3071,3072,3445
+2831	Čirčanová Mária		0	1607
+2831	Čirčanová Mária r. Kerbčárová		0	1510,3688
+2831	Čirčanová Mária r. Kerbčárová	1	0	1643
+2831	Čirčanová Mária r. Kerbčárová	2	0	3243,3245
+2831	Čirčanová Mária r. Kerbčárová	3	0	1155,1846,3689
+2831	Čirčanová Mária r. Kerbčárová	4	0	1759,3188,4040
+2831	Čirčanová Mária r. Kerbčárová	6	0	1396,1502,1964,3453,3454,3463,3635
+2831	Čirská Mária r. Kopčíková		0	1237,1396,1502,1844,1964,2016,3453,3454,3463,3635
+2831	Čislikovský Ján		0	1553,3279,3280,3281
+2831	Čižík Eliáš		0	1549
+2831	Čižík Ján		0	1549
+2831	Čižík Ján	2	0	1549
+2831	Čižík Juraj		0	1549
+2831	Čižík Pavol		0	1549
+2831	Čižík Pavol	1	0	1549
+2831	Čižík Pavol	2	0	1549
+2831	Čižíková Anna r. Kotuľová		0	1549
+2831	Čižíková Mária r. Lazorčáková		0	1549
+2831	Čižmárová Júlia r. Volková		0	1555
+2831	Čorňák Ján		0	3027
+2831	Čorňák Ján	1	0	1106,1656,1823,1846,1957,1958,1979,1990,3494,3499,4002,4078,4123
+2831	Čorňák Ján	2	0	3495,3496
+2831	Čorňaková Anna r. Gibartiová		0	2922,2923
+2831	Čorňáková Zuzana		0	3500
+2831	Čuba Ján		0	1762
+2831	Čuba Ján	1	0	1690
+2831	Čuba Ján	3	0	1690
+2831	Čuba Jozef	2	0	1762
+2831	Čuba Juraj	3	0	1499
+2831	Čuba Juraj	4	0	1503
+2831	Čubíková Anna r. Macurová		0	1762
+2831	Čubová Anna		0	1482,1499
+2831	Čubová Anna r. Krajňáková		0	1695
+2831	Čubová Anna r. Pavlovská		0	1686
+2831	Čubová Anna r. Petríková	1	0	1487
+2831	Čubová Helena		0	1762
+2831	Čubová Helena	2	0	1697
+2831	Čubová Helena r. Šuťáková		0	1762
+2831	Čubová Katarína r. Petríková		0	1480
+2831	Čubová Katarína r. Petríková	1	0	1480,1501
+2831	Čubová Katarína r. Petríková	2	0	1501
+2831	Čubová Katarína r. Petríková	3	0	1762
+2831	Čubová Mária r. Hovancová		0	1690
+2831	Čubová Zuzana		0	1499
+2831	Čubová Zuzana r. Semančíková		0	1762
+2831	Čurejová Helena r. Čuriová		0	1846,1957,1958,3499
+2831	Čurejová Irena r. Čuriová		0	1823,1846,1957,1958,2388,2389,2740,2745,3399,3428,3429,3499,3805,3814
+2831	Čurejová Paulína r. Čuriová		0	1823,1846,1957,2388,2389,2740,3399,3428,3429,3805
+2831	Čurejová Pavlína r. Čuriová		0	1958,3499,3814
+2831	Čuri Ladislav		0	3805,3814
+2831	Čuri Ladislav	1	0	1823,1846,1957,1958,2388,2389,2740,2745,3399,3428,3429,3499
+2831	Davidčin Jozef		0	1549
+2831	Dejdová Kristína r. Kopčíková		0	3756
+2831	Demčák Andrej		0	3108
+2831	Demčák Andrej	2	0	1396,1502,1964,2097,2103,2104,2970,3453,3454,3463,3635,3728,4055
+2831	Demčák Andrej	4	0	2616,2617
+2831	Demčák Ján		0	1846,3460,3461
+2831	Demčák Ján	1	0	3108
+2831	Demčák Ján	10	0	2097,2964,3728,4055
+2831	Demčák Ján	11	0	2097,2104,3728,4055
+2831	Demčák Ján	12	0	2097,2104,3728,4055
+2831	Demčák Ján	13	0	2616,2617
+2831	Demčák Ján	14	0	1396,1502,1964,3453,3454,3463,3635
+2831	Demčák Ján	15	0	1396,1502,1844,1964,2625,2626,2628,2629,2987,3453,3454,3463,3617,3635
+2831	Demčák Ján	16	0	1846
+2831	Demčák Ján	2	0	1846
+2831	Demčák Ján	3	0	2616,2617
+2831	Demčák Ján	4	0	1656
+2831	Demčák Ján	6	0	1344
+2831	Demčák Ján	7	0	2964
+2831	Demčák Ján	8	0	1396,1502,1964,3453,3454,3463,3635
+2831	Demčák Ján	9	0	2616,2617
+2831	Demčák Juraj		0	3065,3624
+2831	Demčák Juraj	1	0	3108
+2831	Demčák Juraj	2	0	3259,3260
+2831	Demčák Juraj	3	0	2616,2617
+2831	Demčák Juraj	4	0	1396,1502,1964,2967,3453,3454,3463,3635
+2831	Demčák Juraj	5	0	1396,1502,1824,1959,1964,3453,3454,3463,3635
+2831	Demčák Juraj	6	0	1396,1502,1964,3453,3454,3463,3635
+2831	Demčák Juraj	7	0	1396,1502,1964,3453,3454,3463,3635
+2831	Demčák Juraj	8	0	2616
+2831	Demčák Juraj	9	0	1075,1389,1396,1502,1846,1964,2106,2115,3235,3453,3454,3463,3635,3727,3760
+2831	Demčák Michal		0	3108
+2831	Demčák Michal	1	0	1846
+2831	Demčák Michal	2	0	1396,1502,1964,3453,3454,3463,3635
+2831	Demčák Michal	3	0	1203,3052
+2831	Demčák Michal	6	0	2967
+2831	Demčák Michal	7	0	2097,2104,3728,4055
+2831	Demčák Michal	9	0	2616,2617
+2831	Demčák Peter		0	3065
+2831	Demčák Peter	1	0	3108
+2831	Demčák Peter	2	0	3065
+2831	Demčák Peter	5	0	2097,2103,2104,3728,4055
+2831	Demčák Peter	7	0	2616,2617
+2831	Demčák Peter	8	0	1846
+2831	Demčáková Anna		0	2097,2104,3728,4055
+2831	Demčáková Anna	1	0	1823,1846,1958
+2831	Demčáková Anna	3	0	2616,2617
+2831	Demčáková Anna	4	0	3480
+2831	Demčáková Anna	5	0	1396,1502,1964,2970,3453,3454,3463,3635
+2831	Demčáková Anna r. Bašarová		0	1319,1511,1522,1684,3060,3391,3393,3827
+2831	Demčáková Anna r. Bašarová	1	0	1396,1502,1759,1846,1964,2159,2589,3453,3454,3463,3635,3717,4040
+2831	Demčáková Anna r. Pjataková		0	1396,1502,1964,2485,3453,3454,3463,3635
+2831	Demčáková Júlia r. Cupráková		0	1075,1389,1396,1502,1964,3052,3453,3454,3463,3635
+2831	Demčáková Júlia r. Filičková		0	1619
+2831	Demčáková Júlia r. Hricová		0	1128,1846,2145,2155,2844,2847,3375,3724,3786,3829
+2831	Demčáková Júlia r. Hricová	2	0	1396,1502,1964,2925,3308,3453,3454,3463,3635
+2831	Demčáková Kristína		0	1341
+2831	Demčáková Mária		0	3108
+2831	Demčáková Mária	1	0	1846
+2831	Demčáková Mária	12	0	1129,2134,3515,3723,3785
+2831	Demčáková Mária	13	0	1396,1502,1964,2967,3453,3454,3463,3635
+2831	Demčáková Mária	14	0	1396,1502,1964,2097,2104,3453,3454,3463,3635,3728,4055
+2831	Demčáková Mária	16	0	2616,2617
+2831	Demčáková Mária	17	0	2097,2104,3728,4055
+2831	Demčáková Mária	2	0	3108
+2831	Demčáková Mária	3	0	1846
+2831	Demčáková Mária	4	0	2616,2617
+2831	Demčáková Mária	5	0	2616,2617
+2831	Demčáková Mária	6	0	1846
+2831	Demčáková Mária	8	0	1129,1396,1502,1964,2134,3453,3454,3463,3515,3635,3723,3785
+2831	Demčáková Mária	9	0	3065
+2831	Demčáková Mária r. Macurová		0	1845
+2831	Demčáková Mária r. Somičová		0	3259,3611
+2831	Demčáková Mária r. Somičová	1	0	1396,1502,1742,1845,1846,1964,2983,3002,3004,3005,3006,3007,3010,3152,3376,3377,3453,3454,3463,3525,3526,3527,3635
+2831	Demčáková Zuzana r. Križalkovičová		0	1128,1396,1502,1718,1844,1846,1964,2145,2152,2154,2155,2925,3308,3375,3453,3454,3463,3635,3724,3786,3829
+2831	Demčiková Júlia r. Filičková		0	1629,3304
+2831	Didík Michal		0	1586,1587,1588,3983
+2831	Diňa Andrej	1	0	1553,3279,3280,3281
+2831	Diňa Andrej	2	0	1553,1555,3279,3280,3281
+2831	Diňa Ján	1	0	1049
+2831	Diňa Ján	2	0	1553,1555,3279,3280,3281
+2831	Diňa Jozef		0	1041
+2831	Diňa Jozef	1	0	1062
+2831	Diňa Jozef	3	0	1555
+2831	Diňa Jozef	4	0	1055,1058,1062
+2831	Diňa Jozef	Juskuv	0	3937
+2831	Diňa Juraj		0	1558
+2831	Diňa Juraj	1	0	1553,3279,3280,3281
+2831	Diňa Juraj	2	0	1553,1555,3279,3280,3281
+2831	Diňa Michal		0	1049
+2831	Diňa Michal	1	0	1553,1555,3279,3280,3281
+2831	Diňa Michal	2	0	1558
+2831	Diňa Peter		0	1049
+2831	Diňová Helena r. Rabiková		0	1041,3937
+2831	Diňová Helena r. Rabiková	1	0	1055,1058,1062
+2831	Diňová Mária		0	1049
+2831	Diňová Mária r. Rabiková		0	1684
+2831	Diňová Mária r. Rabiková	1	0	1846,3483
+2831	Diňová Veronika		0	1049
+2831	Diňová Zuzana r. Zreľáková	1	0	1555
+2831	Dirga Andrej		0	1487
+2831	Dirga Ján	3	0	1487
+2831	Dirga Juraj	3	0	1697
+2831	Dirga Juraj	4	0	1496,1497,1720,1762
+2831	Dirga Juraj	5	0	1762
+2831	Dirga Juraj	6	0	1688
+2831	Dirga Juraj	7	0	1695
+2831	Dirga Michal	5	0	1688
+2831	Dirgová Elena		0	1762
+2831	Dirgová Helena r. Polaščinová		0	1687
+2831	Dirgová Mária r. Čubová		0	1695
+2831	Dirgová Mária r. Čubová	2	0	1697
+2831	Dirgová Mária r. Komlošová		0	1436
+2831	Dirgová Mária r. Krajňáková		0	1487
+2831	Dirgová Mária r. Krajňáková	1	0	1762
+2831	Dirgová Mária r. Šoltésová		0	1496
+2831	Dirgová Zuzana		0	1697
+2831	Dirgová Zuzana	1	0	1695
+2831	Dirgová Zuzana	2	0	1503
+2831	Dirgová Zuzana r. Komlošová		0	1436
+2831	Dirgová Zuzana r. Mikitová		0	1692
+2831	Dirgová Zuzana r. Mikitová	1	0	1495
+2831	Dirgová Zuzana r. Mikitová	2	0	1719
+2831	Dirgová Zuzana r. Petríková		0	1480,1501
+2831	Dopirák Peter		0	1075,1389,1396,1502,1718,1844,1964,3453,3454,3463,3500,3635

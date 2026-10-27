@@ -1,0 +1,256 @@
+2272	DANIELIČ Ján	č.531 I	0	2468,2470,2471,3973,4485
+2272	DANIELIČ Ján	I	0	1669
+2272	DANIELIČ Ján	IV	0	2474
+2272	DANIELIČ Ján	V	0	3126
+2272	DANIELIČ Jozef		0	4376,4929
+2272	DANIELIČ Jozef	IV	0	2474
+2272	DANIELIČ Jozef	manž.Paulína r.Švidraňová	0	3531,5249,5749,5793,5846
+2272	DANIELIČ Jozef	VII	0	3126
+2272	DANIELIČ Juraj		0	3889,4336,4751
+2272	DANIELIČ Michal		0	4064
+2272	DANIELIČ Mikuláš		0	1382
+2272	Danielič Ondrej	manž.Mária r.Oceľová	0	2073,5283
+2272	DANIELIČ Ondrej		0	2470,2471,3973,4485
+2272	DANIELIČ Ondrej	I	0	2467,5962
+2272	DANIELIČ Ondrej	II	0	6027
+2272	DANIELIČ Ondrej	IV	0	4596
+2272	DANIELIČ Ondrej	VI	0	2468
+2272	DANIELIČ Štefan	manž.Zuzana r.Miklošková	0	2468,4064
+2272	DANIELIČ Štefan	Maruškin	0	2453,2454,2474,2687,3531,4695,4929,5793,5822
+2272	DANIELIČ Štefan	V	0	2468,4064
+2272	DANIELIČ Štefan	VI	0	3099,6841
+2272	DANIELIČOVÁ Anna		0	5094
+2272	Danieličová Anna r. Horváthová	I	0	3566
+2272	Danieličová Anna r. Medveďová	I	0	2424,4857
+2272	Danieličová Anna r. Medveďová	manž.František	0	2626
+2272	Danieličová Anna r. Omastová		0	5705
+2272	DANIELIČOVÁ Barbora		0	2745
+2272	Danieličová Barbora r. Maruškinová		0	3126
+2272	Danieličová Barbora r. Zubáľová		0	2453,2454,3898,5440
+2272	DANIELIČOVÁ Magdaléna		0	2687
+2272	DANIELIČOVÁ Magdaléna	I	0	2453,2474,3531,4695,5793,5822
+2272	Danieličová Magdaléna r. Vengerová		0	2808,3346
+2272	Danieličová Mária r. Oceľová	manž.Ondrej	0	2468
+2272	Danieličová Paulína r. Švidraňová		0	5042
+2272	Danieličová Zuzana r. Miklošková		0	5640
+2272	Danieličová Zuzana r. Miklošková	manž.Štefan	0	2877,4078,4079,4991,5559,6433,6665,6670
+2272	DAXNEROVÁ Judita	Bartošíková	0	2885
+2272	DAXNEROVÁ Mária	Michalková	0	3024
+2272	DUDÁŠ Anton		1	2885,3017,6316
+2272	Dudáš Dudáš Ján	IV	0	3017
+2272	DUDÁŠ Filip		1	2885,6316
+2272	Dudáš František	II	0	6316
+2272	DUDÁŠ František		0	2885,3017
+2272	DUDÁŠ Ignác		1	3017,6316
+2272	Dudáš Ján	I	0	2885,3017,6316
+2272	Dudáš Ján	III	0	3017,6316
+2272	Dudáš Ján	IV	0	2885
+2272	Dudáš Ján	V., manželka Pavlína r. Kohútová	0	3017,6316
+2272	Dudáš Ján	VII	0	3018
+2272	Dudáš Ján	X	0	3017,6316
+2272	Dudáš Ján	XIII	0	6316
+2272	Dudáš Jozef	I	0	2885,6316
+2272	Dudáš Jozef	II	0	2885,3017,6316
+2272	Dudáš Jozef	V., m. Františka r. Makovičová	0	3017
+2272	Dudáš Jozef	VII	0	6316
+2272	Dudáš Juraj	I	0	3017,6316
+2272	Dudáš Juraj	II	0	3017,6316
+2272	Dudáš Juraj	V	0	3018,6316
+2272	Dudáš Juraj	VI	0	6316
+2272	Dudáš Ľudovít	I	0	2885,3017,6316
+2272	Dudáš Ľudovít	II	0	6316
+2272	DUDÁŠ Matej		0	3017
+2272	DUDÁŠ Ondrej		1	2885,6316
+2272	DUDÁŠ Pavol		1	3017,6316
+2272	Dudáš Štefan	II	0	6316
+2272	Dudáš Štefan	IX	0	6316
+2272	Dudáš Štefan	VII	0	3014,6316
+2272	Dudáš Štefan	VIII	0	3017,6316
+2272	Dudášová Anna		1	6316
+2272	DUDÁŠOVÁ Barbora	Bartošíková	0	3014
+2272	DUDÁŠOVÁ Barbora	Hrušková	0	3238
+2272	Dudášová Barbora r. Bartošíková		1	6316
+2272	Dudášová Barbora r. Hrušková		1	6316
+2272	Dudášová Helena		1	6316
+2272	Dudášová Júlia	I	0	3017,6316
+2272	Dudášová Júlia	II	0	6316
+2272	DUDÁŠOVÁ Kristína	Hrušková	0	3236
+2272	Dudášová Kristína r. Hrušková		1	6316
+2272	DUDÁŠOVÁ Mária		1	3017,6316
+2272	DUDÁŠOVÁ Mária	Bartošíková	0	3014
+2272	DUDÁŠOVÁ Mária	Nosková	0	3014
+2272	Dudášová Mária r. Bartošíková		0	3014
+2272	Dudášová Mária r. Nosková		1	6316
+2272	DUDÁŠOVÁ Pavlína	Kohútová	0	2921
+2272	Dudášová Terézia		1	6316
+2272	DUPÁK Ján		0	1201,3929,6889,6892
+2272	DUPÁK Ján	manž.Anna r.Oceľová	0	1201,1203,1204,4001,6892
+2272	DUPÁK Jozef		0	1201,6892
+2272	DUPÁK Michal	manž.Vernárska Magdaléna	0	1204
+2272	Dupáková Anna r. Oceľová	manž.Ján	0	1388,1618,1713,1884,2772,3160,5205,5928
+2272	DUPÁKOVÁ Emília		0	2598,4007
+2272	DUPÁKOVÁ Mária		0	1201,6892
+2272	DUPÁKOVÁ Mária	zom.8.2.1993	0	1521,2145,4506,5251,5412,6562,6677
+2272	Dupáková Mária r. Dupáková		0	2598,4778
+2272	Dupáková Mária r. Šuchanová	manž.Jozef	0	1353,1354,1966,3819,3989,5798
+2272	Dupáková Mária r. Šuchaňová		0	1341,2662
+2272	DUPEJ Andrej	ž.Anna Veštúrová	0	5786
+2272	DUPEJ František		0	1832,5888,6741,6742
+2272	DUPEJ František	I	0	1832,5888,6741,6742
+2272	DUPEJ František	Janov	0	2244,3393,5106,5118,5942
+2272	DUPEJ Ján		0	2664,2665,5432
+2272	DUPEJ Ján	I	0	1832,5888,6741,6742
+2272	DUPEJ Ľubomír		0	3764
+2272	DUPEJ Michal		0	2665,5432
+2272	DUPEJ Michal	I	0	5432
+2272	DUPEJ Michal	II	0	5432
+2272	DUPEJ Ondrej		0	1832,5888,6741,6742
+2272	Dupej Štefan		0	2099
+2272	DUPEJ Štefan	I	0	2665,5432
+2272	DUPEJ Štefan	II	0	2664,5432
+2272	DUPEJ Štefan	III	0	1832,5888,6741,6742
+2272	DUPEJ Štefan	Janov	0	5490
+2272	DUPEJ Štefan	VI	0	2634
+2272	DUPEJOVÁ Anna	maloletá	0	5786
+2272	DUPEJOVÁ Mária		0	3513
+2272	DUPEJOVÁ Mária	I	0	2664,2665,5432
+2272	Dupejová Mária r. Pohančaníková		0	4257
+2272	DUPEJOVÁ Zuzana		0	5786
+2272	Ďurčeková Anna r. Sekerková		1	6316
+2272	ĎURČENKA František		0	3027
+2272	ĎURČENKA František	Kaštel	0	5668
+2272	ĎURČENKA František	Kaštiel	0	2734
+2272	DURČENKA Ján	Dolný	0	1810,5225,5226
+2272	DURČENKA Ján	Kaštiel	0	3861
+2272	DURČENKA Ján	mladý	0	1810
+2272	Ďurčenka Ján		0	2119
+2272	ĎURČENKA Ján	Dolný II	0	5452
+2272	ĎURČENKA Ján	Durbák	0	5177,5181
+2272	ĎURČENKA Ján	Durbák II	0	5200,5201
+2272	ĎURČENKA Ján	Ďurbák III	0	3255,3409
+2272	ĎURČENKA Ján	Durbák ml	0	2634
+2272	ĎURČENKA Ján	Durbák VIII	0	5124
+2272	ĎURČENKA Ján	Feriger	0	5694,6579
+2272	ĎURČENKA Ján	Horný	0	5336
+2272	ĎURČENKA Ján	I	0	4920
+2272	ĎURČENKA Ján	II	0	5037
+2272	ĎURČENKA Ján	III	0	4008
+2272	ĎURČENKA Ján	IX	0	1560
+2272	ĎURČENKA Ján	manž.Barbora r.Lihanová	0	3324,4967,5175
+2272	ĎURČENKA Ján	manž.Paulína r.Simanová	0	1506,5452,5457
+2272	ĎURČENKA Ján	manž.Paulína r.Švidranová	0	3816
+2272	ĎURČENKA Ján	V	0	1505,2200,3358,4810,4884,5694,6007,6424,6560,6579
+2272	ĎURČENKA Ján	V.; 0	1	3896
+2272	ĎURČENKA Ján	VI	0	5631
+2272	ĎURČENKA Ján	Vyšný	0	4548
+2272	ĎURČENKA Ján	XI	0	2787
+2272	ĎURČENKA Ján	XIV	0	5629
+2272	ĎURČENKA Ján	XV	0	4397
+2272	ĎURČENKA Ján	XVI	0	5050
+2272	ĎURČENKA Ján	XVII	0	4815
+2272	ĎURČENKA Ján	XX	0	1388,1618,1713,1884
+2272	ĎURČENKA Ján	XXII	0	1066,2337,5730,5930,6913,6917
+2272	ĎURČENKA Ján	XXIII	0	2616
+2272	ĎURČENKA Ján	XXIV	0	3941
+2272	ĎURČENKA Jozef		0	5361
+2272	ĎURČENKA Jozef	2019	0	4623
+2272	ĎURČENKA Jozef	Čert	0	3083,4733,4948
+2272	ĎURČENKA Jozef	Durbák	0	4648,4649
+2272	ĎURČENKA Jozef	Durbák I	0	2515,5851
+2272	ĎURČENKA Jozef	Durbák II	0	5019
+2272	ĎURČENKA Jozef	I	0	5308
+2272	ĎURČENKA Jozef	Kaštiel	0	2734
+2272	ĎURČENKA Juraj		0	1593,4816,6047,6748
+2272	ĎURČENKA Michal		0	5756
+2272	ĎURČENKA Michal	I	0	4003
+2272	ĎURČENKA Michal	Kaštel	0	5668
+2272	ĎURČENKA Michal	Mejkoš	0	1593,3083,3164,4733,4816,4950,5321,5625,6047,6748,6930,6964
+2272	ĎURČENKA Michal	Mejkoš I	0	1184
+2272	ĎURČENKA Michal	na Kaštieľ	0	2733
+2272	ĎURČENKA Štefan	Kaštiel	0	2734
+2272	Ďurčenková Anna r. Rolková		0	985,1094,1375,1376,1377,1378,2672,3593,6456,6558,6773
+2272	Ďurčenková Barbora r. Lihanová		0	4788,5444
+2272	Ďurčenková Barbora r. Lihanová	II	0	4788
+2272	Ďurčenková Emília r. Rolková		0	1194,2033,3155,5566,6453,6792
+2272	Ďurčenková Františka r. Mesarkinová	manž.Jozef	0	5212
+2272	Ďurčenková Františka r. Mesiarkinová		0	3998
+2272	Ďurčenková Mária r. Liptáková	manž.Michal	0	3829
+2272	Ďurčenková Mária r. Saksová	IV	0	3409
+2272	Ďurčenková Mária r. Saksová	manž. Jozef	0	2634
+2272	Ďurčenková Mária r. Saksová	manž.Jozef	0	2514,2518,2636,2905,3027,5352,5899
+2272	Ďurčenková Mária r. Simanová	manž.Ján	0	4050,4786
+2272	Ďurčenková Mária r. Švidraňová	manž.Michal	0	2200,2680,2760,3816,5037,5225,5452,5713,6532,6533
+2272	ĎURČÍK František		0	1876
+2272	ĎURČÍK Ignác		0	4241
+2272	ĎURČÍK Ignác	I	0	4275
+2272	ĎURČÍK Ignác	Krajčír	0	4391
+2272	Ďurčík Jozef	maloletý,Macove	0	2800
+2272	ĎURČÍK Jozef		0	1876
+2272	ĎURČÍK Ľudovít		0	3469
+2272	ĎURČÍK Matej	manž.Emília r.Cabanová	0	4064
+2272	ĎURČÍK Ondrej		0	5678
+2272	ĎURČÍKOVÁ Alžbeta		0	1876
+2272	ĎURČÍKOVÁ Anna		0	1876
+2272	Ďurčíková Ilona r. Medveďová	manž.Matúš	0	4124
+2272	ĎURČÍKOVÁ Juliana		0	1876
+2272	ĎURČÍKOVÁ Margita	maloletá,Macove	0	2800
+2272	Ďurčíková Mária r. Brtanová		0	4012
+2272	Ďurčíková Mária r. Obrtancová		0	4031,4032
+2272	Ďurčíková Uliana r. Piliarová		0	5678
+2272	ĎURČO Ján	III	0	2771
+2272	ĎURČO Ján	man.Lovičová Anna,otec Jána Ďurča,Slad45	0	2668
+2272	Ďurčo Jozef		1	6316
+2272	ĎURČO Jozef	manž.Mária r.Remeníková	0	5230
+2272	ĎURČOVÁ Gizela		0	2864
+2272	Ďurčová Klára		1	6316
+2272	ĎURČOVÁ Mária	Remeniaková	0	2714,2919
+2272	ĎURČOVÁ Mária	Žáková	0	2919
+2272	Ďurčová Mária r. Remeníková		0	5222
+2272	Ďurčová Mária r. Remeníková	manž.Jozef	0	5230
+2272	ĎURICA František		0	3236
+2272	ĎURICA Karol		0	3236
+2272	ĎURICOVÁ Anna	Jacková	0	3236
+2272	Ďuricová Anna r. Jacková		1	6316
+2272	ĎURICOVÁ Emília	Nosková	0	3038
+2272	Ďuricová Helena r. Zubáková		1	6316
+2272	Ederová Anna r. Pinková		0	3070,3663,3667,5918,6425,6477
+2272	Fabianová Emília r. Suha	manž.František	0	1985
+2272	FAYKIŠŠ Ladislav	Dr	0	4471
+2272	Fergelcová Anna r. Pohančaniková	manž.Jozef	0	3536
+2272	Fergelcová Anna r. Šulejová	manž.Jozef	0	2840,2887
+2272	Fergelcová Barbora r. Zubálová	manž.Tomáš	0	3928,6893
+2272	FERGELEC František		0	2939
+2272	FERGELEC Ján		0	5292
+2272	FERGELEC Ján	manž.Mária r.Tokárová	0	4564
+2272	FERGELEC Juraj		0	2887,2902
+2272	FERGELEC Juraj	I	0	3633
+2272	FERGELEC Štefan		0	2885,2939,2953,3043,3976
+2272	FERGELEC Štefan	žena Dupáková Zuzana	0	5292
+2272	FERGELECOVÁ Judita	Babničová	0	2717
+2272	FERGELECOVÁ Kristína	Becherová	0	2885
+2272	FERGELECOVÁ Mária	Baričová	0	2954
+2272	FERGELECOVÁ Mária	Kohútová	0	2921
+2272	FERGELECOVÁ Mária	Kršačoková	0	2953,3043
+2272	FERGELECOVÁ Mária	Semenáková	0	2939,2953,3043
+2272	FERIENČÍK Elemír		0	5756
+2272	FERIENČÍK Július		0	3865,5756
+2272	Ferienčíková Gizela		1	6316
+2272	FERJENČÍK Mikuláš	Dr	0	1159,1275,2532,2564,2839,2840,2850,2851,2986,3138,3337,3516,3546,3601,3609,3612,3663,3868,4749,5006,5084,5109,5157,5236,5363,5676,5882,5933,5955,6019,6425,6512
+2272	FERJENČÍK Samuel	I	0	5882
+2272	FERJENČÍK Samuel	II	0	5137
+2272	FERJENČÍKOVÁ Elemíra		0	3865
+2272	Fialová Angela r. Cesnaková		0	2508
+2272	FILLO Anton	manž.Anna r.Tokárová	0	4959,4960
+2272	FILLO Peter	Hlavatý	0	985
+2272	Fillová Anna r. Tokárová	manž.Anton	0	4959,4960
+2272	Fillová Barbora r. Rolková		0	1191,1192,1193,1194,1195,1196,1377,1378,2069,2070,2391,2584,4600,4876,5029,5349,5434,5786,6041,6801
+2272	Filová Anna r. Tokárová		0	2747,6028
+2272	Fodor Albert		0	2008
+2272	Fodor František		0	2008
+2272	FODOROVÁ Elena	Polomka 343	0	3394,3870
+2272	Fojnorová Izabela r. Ferjenčíková		0	1275,2564,3546
+2272	Fortiaková Mária		1	6316
+2272	Frgelcová Anna r. Šulejová	manž.Jozef	0	2208,3136
+2272	Frgelcová Barbora r. Vengerová		0	2808,3346
+2272	Frgelcová Kristína r. Becherová		1	6316
+2272	Frgelcová Mária r. Kohútová		1	6316

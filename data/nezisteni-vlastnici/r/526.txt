@@ -1,0 +1,256 @@
+317	ŽUKOVIČ Andrej, SR		1	662
+317	Žukovič Fedor	ž.Nasťa r.Gubová	1	905
+317	ŽUKOVIČ Fedor, SR	ž.Nasťa r.Gubová	1	540
+317	Žukovič Michal		1	905
+317	ŽUKOVIČ Michal, SR		1	540,571,661
+317	Žukovič Šimko		1	905
+317	ŽUKOVIČ Šimko, SR		1	540,571
+317	ŽUKOVIČ Vasiľ		1	799,847,905
+317	ŽUKOVIČ Vasiľ, SR		1	540,571
+317	ŽUKOVIČOVÁ Anastázia	r.Gubová	0	865,877,894
+317	ŽUKOVIČOVÁ Anastázia r. Gubová		1	799
+317	ŽUKOVIČOVÁ Anastázia r. Gubová, SR		1	616,617,715,745,937
+317	ŽUKOVIČOVÁ Mária r. Banyo, SR	m.Andrej	1	669
+317	ŽUKOVIČOVÁ Mária r. Burcinová, SR		1	590
+317	ŽULEVIČ Andrej, SR		1	676,898
+317	ŽULEVIČ IVAN		1	287,817
+317	ŽULEVIČ Ivan, SR		1	502,503,504,575,657,658,662,663,669,676,891,892,898,932
+317	ŽULEVIČ Ivan, SR	ž.Elena r.Malíková	1	501,931
+317	ŽULEVIČ Juraj, SR		1	678,912
+317	ŽULEVIČ Michal, SR		1	502,575,669
+317	ŽULEVIČ Michal, SR	ž.Anna r.Košutová	1	618,619,633
+317	ŽULEVIČ ŠTEFAN		1	287
+317	ŽULEVIČ Štefan, SR		1	503,504,575,657,658,663,669,676,892,898
+317	ŽULEVIČOVÁ Mária r. Lazorčíková, SR		1	500
+317	Žurkovičová Anna r. Guzanová, Čabalovce, SR		1	695
+318	Andrásy Mano r. Andrásy, gróf gróf		0	2822
+318	ASTERTOVÁ Anna	r.Kopková	1	1282,2840
+318	ASTERTOVÁ Anna r. Kopková		1	602,1536,1537
+318	Astertová Anna r. Kopková, SR		0	1038,1108
+318	Bačová Helena		0	2731
+318	BAČOVÁ Mária r. Suchá		1	602,1536,1537
+318	Bačová Mária r. Sucha, SR		1	1038,1108,1282,2840
+318	BAJCURA Andrej	ž.Helena r.Gavulová	1	602,1336
+318	BAJCURA Ivan	ž.Mária r.Kačurová	1	1276,1335
+318	Bajcura Ivan /PKV 1-84/, SR /PKV 1-84/		0	1036
+318	Bajcura Ivan /ž.Mária r.Kačurová/, SR /ž.Mária r.Kačurová/		0	958,1108
+318	Bajcura Ivan /ž.Mária r.Kačurová/, SR ž.Mária r.Kačurová/		0	958
+318	Bajcura Ivan r. Bajcura, PKV 1-84 PKV 1-84		0	1974
+318	Bajcura Ivan r. Bajcura, ž. Mária r. Kačurová ž. Mária r. Kačurová		0	1502,1952,2691,2692,2693,2694
+318	BAJCURA Ján	ž.Mária r.Kačurová	1	602,1282,2840
+318	Bajcura Ján /ž.Mária r.Kačurová/, SR /ž.Mária r.Kačurová/		0	1038
+318	Bajcura Ján r. Bajcura, ž. Mária r. Kačurová ž. Mária r. Kačurová		0	1536,1537
+318	BAJCURA Ján, SR	ž.Mária r.Kačurová	1	1282,2840
+318	BAJCUROVÁ Anna		1	1357,2412
+318	Bajcurová Anna, SR		0	1027
+318	Bajcurová Eva r. Kohutová /m.Andrej/, SR /m.Andrej/		0	1036
+318	Bajcurová Eva r. Kohutová, m. Andrej m. Andrej		0	2622
+318	BAJCUROVÁ Helena	r.Gavulová	1	1379
+318	BAJCUROVÁ Helena r. Gavulová		1	602
+318	BAJCUROVÁ Mária	r.Kačurová	1	1333
+318	BAJCUROVÁ Mária r. Kačurová		1	454,1502,1815,2691,2692,2693,2694
+318	Bajcurová Mária r. Kačurová, SR		0	947
+318	BAJCUROVÁ Nasťa		1	1276,1335
+318	Bajcurová Nasťa, SR		0	958,1036
+318	BAJCUROVÁ Uľa		1	1276,1335,1502,1810,2691,2692,2693,2694
+318	Bajcurová Uľa, SR		0	958,1036
+318	Baloková Gabriela r. Ivančíková		0	1468
+318	BARAN Ivan		1	1096
+318	BARAN Ivan	PKV 1-67	1	1258
+318	Baran Ivan r. Baran		0	1502,2131,2691,2692,2693,2694
+318	Baran Ivan r. Baran, PKV 1-67 PKV 1-67		0	2822
+318	Baran Ivan, SR		0	925,1395
+318	BARANOVÁ Helena		1	1381
+318	BARANOVÁ Helena	mal	1	1096,1258
+318	Baranová Helena r. Baranová, mal. mal.		0	1502,2598,2691,2692,2693,2694
+318	Baranová Helena, mal., SR mal.		0	925,1395
+318	BARNA Andrej		1	338,602,1253,1254,1282,1370,2840
+318	BARNA Andrej	PKV 14	1	1228
+318	BARNA Andrej	PKV 30	1	1214,1215
+318	Barna Andrej /syn Ivana/, SR /syn Ivana/		0	1050,1062,1108
+318	Barna Andrej r. Barna		0	1502,1536,1537,2298,2691,2692,2693,2694
+318	Barna Andrej r. Barna, PKV 14 PKV 14		0	2724,2764
+318	Barna Andrej r. Barna, PKV 30 PKV 30		0	2513,2724,2764
+318	Barna Andrej r. Barna, syn Ivana syn Ivana		0	2032
+318	Barna Andrej, SR		0	885,917,918,1001,1017,1038
+318	BARNA Fedor		1	1370
+318	BARNA Fedor	PKV 14	1	1228
+318	BARNA Fedor	PKV 30	1	1214,1215
+318	Barna Fedor r. Barna		0	2450
+318	Barna Fedor r. Barna, PKV 14 PKV 14		0	2724,2764
+318	Barna Fedor r. Barna, PKV 30 PKV 30		0	2223,2724,2764
+318	Barna Fedor, SR		0	885
+318	BARNA Michal	ž.Anna r.Husarová	1	338,602,1254,1282,1363,2840
+318	Barna Michal /PKV 1-225/, SR /PKV 1-225/		0	1050
+318	Barna Michal /ž.Anna r.Husarová/, SR /ž.Anna r.Husarová/		0	918,1038,1108
+318	Barna Michal r. Barna, PKV 1-225 PKV 1-225		0	1755
+318	Barna Michal r. Barna, ž. Anna r. Husarová ž. Anna r. Husarová		0	1502,1536,1537,2691,2692,2693,2694
+318	BARNA Teodor	ž.Helena r.Knobová	1	602
+318	Barnová Anna r. Husarová, m. Michal m. Michal		0	2444
+318	Barnová Anna r. Zelinková, C C		0	2725,2735
+318	Barnová Mária		0	2615
+318	BARNOVÁ Mária	PKV 1 180	1	338
+318	BARNOVÁ Mária	PKV 1-261	1	1363
+318	BARNOVÁ Mária	PKV 30	1	1214,1215
+318	BARNOVÁ Mária	vzd	1	338,1253,1254,1278,1370
+318	Barnová Mária, PKV 30 PKV 30		0	2596,2724,2764
+318	Barnová Mária, SR		0	1001
+318	Barnová Mária, vzd. vzd.		0	1502,1970,2691,2692,2693,2694
+318	Barnová Mária, vzd., SR vzd.		0	917,918,985
+318	BAZALOVÁ Júlia	r.Kisková	1	1237,1379
+318	Bazalová Júlia r. Kisková		0	1502,2691,2692,2693,2694
+318	Bazalová Júlia r. Kisková, SR		0	897
+318	BELAS Michal	ž.Helena r.Rimová	1	1244,1299,2838
+318	Belas Michal /ž.Helena r.Rimová/, SR /ž.Helena r.Rimová/		0	907
+318	Belas Michal r. Belas, ž. Helena r. Rimová ž. Helena r. Rimová		0	1502,1922,2691,2692,2693,2694
+318	Beňková Anna r. Čvihinková		0	2378
+318	Beňková Anna r. Čvihinková, SR		0	897
+318	BEŇO Andrej		1	1260
+318	BEŇO Andrej	mal	1	1260
+318	BEŇO Andrej	PKV 1 71	1	63
+318	BEŇO Andrej	PKV 1-152	1	1093
+318	BEŇO Andrej	PKV 1-298	1	1370
+318	BEŇO Andrej	PKV 1-66	1	1279
+318	BEŇO Andrej	ž.Helena r. Škovranová	1	602
+318	BEŇO Andrej	ž.Iľa r.Škovranová	1	63
+318	Beňo Andrej r. Beňo		0	1502,2560,2691,2692,2693,2694
+318	Beňo Andrej r. Beňo, mal. mal.		0	1502,2065,2691,2692,2693,2694
+318	Beňo Andrej r. Beňo, PKV 1-145 PKV 1-145		0	2309
+318	Beňo Andrej r. Beňo, PKV 1-298 PKV 1-298		0	2822
+318	Beňo Andrej r. Beňo, PKV 1-66 PKV 1-66		0	1502,2691,2692,2693,2694
+318	Beňo Andrej, mal., SR mal.		0	927
+318	Beňo Andrej, SR		0	927,928,989
+318	BEŇO Ján	mal.syn Michala	1	63,602,1093,1260,1282,2840
+318	Beňo Ján /mal.syn Michala/, SR /mal.syn Michala/		0	927,928,1037,1108
+318	Beňo Ján /syn Michala/, SR /syn Michala/		0	1038
+318	Beňo Ján r. Beňo, mal., syn Michala mal., syn Michala		0	1502,1536,1537,2559,2691,2692,2693,2694
+318	BEŇO Juraj		1	1252,1253,1370
+318	BEŇO Juraj	PKV 1 297	1	602
+318	BEŇO Juraj	syn Michala	1	63,1093,1260,1279,1282,2840
+318	Beňo Juraj /syn Michala/, SR /syn Michala/		0	927,928,989,1037,1038,1108
+318	Beňo Juraj r. Beňo		0	1502,2520,2691,2692,2693,2694
+318	Beňo Juraj r. Beňo, mal. mal.		0	1429
+318	Beňo Juraj r. Beňo, syn Michala syn Michala		0	1502,1536,1537,1651,2691,2692,2693,2694
+318	Beňo Juraj, SR		0	916,917
+318	BEŇO Michal	PKV 1-57	1	1260
+318	Beňo Michal r. Beňo		0	2264
+318	Beňo Michal r. Beňo, mal. mal.		0	1502,2381,2691,2692,2693,2694
+318	Beňo Michal r. Beňo, PKV 1-54 PKV 1-54		0	1502,2691,2692,2693,2694
+318	Beňo Michal r. Beňo, PKV 1-57 PKV 1-57		0	1502,2691,2692,2693,2694
+318	Beňo Michal, mal., SR mal.		0	938
+318	Beňo Michal, SR		0	927,938
+318	BEŇO Štefan	mal	1	63,1093,1260
+318	BEŇO Štefan	ž.Júlia r.Chamaďaková	1	602
+318	Beňo Štefan /ž.Júlia r.Chamaďaková/, SR /ž.Júlia r.Chamaďaková/		0	1108
+318	Beňo Štefan r. Beňo, mal. mal.		0	1502,2273,2691,2692,2693,2694
+318	Beňo Štefan r. Beňo, ž. Júlia r. Chamaďaková ž. Júlia r. Chamaďaková		0	2822
+318	Beňo Štefan, mal., SR mal.		0	927,928,1037
+318	BEŇOVÁ Anna	r.Bedová m.Ivan	1	1093
+318	BEŇOVÁ Anna	r.Čvihinková	1	1237,1379
+318	BEŇOVÁ Anna r. Bajcurová		1	63
+318	Beňová Anna r. Bedová /m.Ivan/, SR /m.Ivan/		0	928
+318	Beňová Anna r. Bedová, m. Ivan m. Ivan		0	1666
+318	Beňová Anna r. Čvihinková		0	1502,2691,2692,2693,2694
+318	BEŇOVÁ Júlia	r.Chamaďaková	1	1248,1419
+318	Beňová Júlia r. Chamaďaková		0	1502,2642,2691,2692,2693,2694
+318	Beňová Júlia r. Chamadaková, SR		0	912
+318	BEŇOVÁ Mária r. Compľaková		1	63
+318	BERKOVSKÁ Anastázia r. Kohutová	vzd	1	602
+318	BERLINER Ignác		1	1348
+318	Berliner Ignác r. Berliner		0	2755
+318	Bilanič Štefan r. Bilanič, PKV 1-63 PKV 1-63		0	1502,2691,2692,2693,2694
+318	Bilanič Štefan r. Bilanič, Rudňany č. 176 Rudňany č. 176		0	1650
+318	Bilaničová Mária r. Kusková		0	1689
+318	Bilaničová Mária r. Kusková, SR		0	1052,1057,1059
+318	BOČKARIK Štefan		1	1235
+318	Bočkarik Štefan r. Bočkarik		0	1989,2724,2764
+318	Bočkarik Štefan, SR		0	892
+318	BOČKARIKOVÁ Mária r. Chorošová		1	89
+318	BOČKORIK Ján		1	119,1303
+318	BOČKORIK Ján	PKV 21	1	97,119,1221,1337
+318	BOČKORIK Ján	vzd	1	1303
+318	Bočkorik Ján r. Bočkorik		0	2285
+318	Bočkorik Ján r. Bočkorik, mal. mal.		0	2822
+318	Bočkorik Ján r. Bočkorik, PKV 21 PKV 21		0	1604,2724,2764
+318	BOČKORIK Michal		1	119,1303
+318	BOČKORIK Michal	PKV 206 B 1f	1	119,1303
+318	BOČKORIK Michal	PKV 21	1	97,1221,1337
+318	Bočkorik Michal r. Bočkorik		0	1850
+318	Bočkorik Michal r. Bočkorik, mal. mal.		0	2822
+318	Bočkorik Michal r. Bočkorik, PKV 21 PKV 21		0	1604,2724,2764
+318	Bočkorik Michal r. Bočkorik, ž. Eva r. Taptičová ž. Eva r. Taptičová		0	2822
+318	BOČKORIK Štefan		1	108
+318	BOČKORIKOVÁ Anna		1	1303,2728
+318	BOČKORIKOVÁ Anna	mal	1	97,119
+318	BOČKORIKOVÁ Anna	PKV 206 B 1h	1	119,1303
+318	BOČKORIKOVÁ Anna	PKV 21	1	97,1221,1337
+318	BOČKORIKOVÁ Anna	r.Gajdošová	1	1345,1348
+318	Bočkoriková Anna r. Gajdošová		0	1951,2724,2747,2748,2755,2764,2812
+318	Bočkoriková Anna, PKV 21 PKV 21		0	2724,2728,2764
+318	BOČKORIKOVÁ Eva	r.Batiková	1	970,1210
+318	Bočkoriková Eva r. Batiková		0	2616,2724,2764
+318	Bočkoriková Ilona		0	2728
+318	BOČKORIKOVÁ Ilona	PKV 21	1	97,119,1221,1303,1337
+318	Bočkoriková Ilona r. Bočkoriková, mal. mal.		0	2822
+318	Bočkoriková Ilona, PKV 21 PKV 21		0	2724,2728,2764
+318	Bočkoriková Mária r. Bočkoriková, mal. mal.		0	2822
+318	BOČOVÁ Mária	r.Suchá m.Ján	1	1273
+318	Bočová Mária r. Sucha /m.Ján/, SR /m.Ján/		0	955
+318	Bočová Mária r. Suchá, m. Ján m. Ján		0	1502,2691,2692,2693,2694
+318	BORKOVSKÁ Anastázia	vzd.,r.Kohútová	1	722,1093,1230,1282,2840
+318	BORKOVSKÁ Anastázia	vzd.,r.Kohútová; ; vzd	1	1265,1361,2833
+318	BORKOVSKÁ Anastázia	vzd.,r.Kohútová; vzd	1	722,723
+318	Borkovská Anastázia r. Kohutová		0	1537,2114
+318	BORKOVSKÁ Anastázia r. Kohútová	vzd	1	348
+318	Borkovská Anastázia r. Kohutová, SR		0	928,1030,1038,1108,2832
+318	Borkovská Anastázia r. Kohutová, vzd. vzd.		0	1502,1536,1716,2691,2692,2693,2694,2724,2764
+318	Borkovská Anastázia r. Kohutová, vzd., SR vzd.		0	887,935
+318	Bošková Mária r. Suchá /m.Ján/, SR /m.Ján/		0	1024
+318	Bošková Mária r. Suchá, m. Ján m. Ján		0	1871
+318	Bučo Ján r. Bučo, ž. Mária r. Suchá ž. Mária r. Suchá		0	1502,2691,2692,2693,2694
+318	Bulková Mária r. Bilaničová, Lipová 7, Spišská Nová Ves Lipová 7, Spišská Nová Ves		0	1795
+318	BURCINOVÁ Anna	r.Doničová	1	713
+318	BURCINOVÁ Anna	r.Zozuľaková	1	1369
+318	Burcinová Anna r. Doničová		0	1429
+318	Burcinová Anna r. Zozuľaková		0	1502,2328,2691,2692,2693,2694
+318	Burcinová Anna r. Zozuľaková, SR		0	932
+318	Burjak Jan		1	753,1343
+318	Burjak Ján r. Burjak		0	1792,2812
+318	Burjak Michal		1	753,1343
+318	Burjak Michal r. Burjak		0	2368,2812
+318	Burjaková Eva r. Vicová		0	1502,2398,2691,2692,2693,2694
+318	Burjaková Eva r. Vicová, SR		0	940
+318	Burkovská Anastázia r. Kohútová		0	2341
+318	BURKOVSKÁ ANASTÁZIA ROD.KOHÚTOVÁ		0	1030,2832
+318	BURNATOVSKÁ Mária	r.Doničová	1	1135
+318	Burnatovská Mária r. Doničová		0	788,1580,2465
+318	BURNATOVSKÝ František	mal	1	1348
+318	Burnatovský František r. Burnatovský, mal. mal.		0	2755
+318	BURŠČOVÁ Anna	r.Rudiková	1	725,729,1202,1314,2829
+318	BURŠČOVÁ Anna r. Rudiková		1	379,730,2525,2766,2812,2828,2831
+318	Butková Mária r. Bilaničová		0	1502,2691,2692,2693,2694
+318	Bývalí urbarialisti Čabiny Zaniknutá právnicka osoba bez právneho nástupcu		0	2488
+318	COMPĽAK Fedor		1	487,701
+318	COMPĽAK Fedor	ž.Mária r.Prokopová	1	82,487,701
+318	Compľak Fedor r. Compľak, ž. Anna r. Prokopová ž. Anna r. Prokopová		0	2335,2747,2748,2764
+318	Compľak Fedor r. Compľak, ž. Mária r. Prokopová ž. Mária r. Prokopová		0	1991,2724
+318	CUDZAK Štefan		1	1264,1367
+318	Cudzak Štefan r. Cudzak		0	1502,1930,2691,2692,2693,2694
+318	Cudzak Štefan, SR		0	934
+318	Čabala Michal		1	730,1202,1348,2828,2829
+318	ČABALA Michal	mal	1	280,281,607,1118,1218,2827,2830
+318	Čabala Michal r. Čabala		0	1580,1965,2755,2766,2831
+318	Čabala Michal r. Čabala, mal. mal.		0	2160,2724,2764
+318	Čabalová Anna		1	730,1202,1348,1580,2632,2755,2766,2828,2829,2831
+318	ČABALOVÁ Mária		1	607
+318	ČABALOVÁ Mária	mal	1	280,281,1118,1218,2827,2830
+318	Čabalová Mária r. Čabalová, mal. mal.		0	2600,2724,2764
+318	Čabalová Mária r. Mihalisková		0	1580,1800,2766,2831
+318	Čeremeta Fedor r. Čeremeta		0	2221,2747,2748
+318	ČEREMETOVÁ Anna r. Morozová		1	602
+318	ČEREVKOVÁ Anna	r.Solejová	1	1098,1219,1284,1338,1426
+318	ČEREVKOVÁ Anna r. Solejová		1	131,272,1502,1842,2691,2692,2693,2694,2724,2764
+318	Čerevková Anna r. Solejová, SR		0	873,923,998,1074
+318	ČUMA Andrej		1	1240
+318	ČUMA Andrej	ž. Helena r.Halahuričová	1	602,1240,1282,1294,2840
+318	ČUMA Andrej	ž.Mária r.Solejová	1	602,1282,2840

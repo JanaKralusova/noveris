@@ -1,0 +1,256 @@
+1305	Ferková Zuzana r. Šimková		1	258
+1305	Fernár Ondrej		1	388
+1305	Hovan Ján		1	373
+1305	Hudák Ján		1	347
+1305	Ignacová Anna r. Tkadlecová		1	256,260,290
+1305	Jakub Juraj		1	388
+1305	Jakubčaková Alžbeta r. Reváková		1	231,249,255,264,269,287,289,292,408,409,510,513,514
+1305	Jecko Ján		1	354
+1305	Jecková Mária r. Olšinarová		1	354
+1305	Juhásová Mária r. Rečová		1	231,248,271,278,279,280,281,414,415,425,486,488,509
+1305	Kačur-Ferko Andrej		1	247,288
+1305	Kačur-Ferko Ján		1	288,293
+1305	Kolesárová Alžbeta r. Ferková-Kačurová		1	252
+1305	Kováč Jozef		1	271
+1305	Kováčová Anna r. Rečová		1	271,278,280,281,414,415,488,509
+1305	Krutillová Anna		1	391
+1305	Krutillová Mária		1	391
+1305	Kumerová Mária r. Tkadlecová		1	256,290
+1305	Kundrátová Anna r. Havrišová		1	242
+1305	Kundratová Anna r. Havrišová, SR		0	91
+1305	Kušnir Ján		1	288
+1305	Kušnír-Ferko Andrej		1	271
+1305	Kušnírová Anna		1	247,267,271
+1305	Lechman Ján		1	254,270,405,406,507,508
+1305	Lorinc Juraj		1	331
+1305	Magoč Štefan		1	388
+1305	Majorská Mária r. Reváková		1	264,269,292,408
+1305	Martonová Anna r. Véberová		1	362
+1305	Mašlej Ján		1	252
+1305	Mašlej Michal		1	248,486
+1305	Mašlejová Anna		1	248,271,278,279,280,281,414,415,425,486,488,509
+1305	Mašlejová Anna r. Kundráthová		1	248,486
+1305	Mašlejová Júlia		1	248,271,279,425,486
+1305	Mašlejová Mária		1	248,271,278,279,280,281,414,415,425,486,488,509
+1305	Matisková Verona r. Rečová		1	231,248,271,278,279,280,281,414,415,425,486,488,509
+1305	Mikulka Ondrej		1	388
+1305	Mňahunčák Jozef		1	279,425
+1305	Pálfyová Zuzana r. Rečová		1	248,271,278,279,280,281,414,415,425,486,488,509
+1305	Petro Ján		1	361
+1305	Petrová Anna r. Šofová		1	361
+1305	Petruška Mária r. Roško		0	270
+1305	Petrušková Mária r. Rošková		1	250,254,271,278,279,280,281,405,406,407,414,415,425,488,507,508,509
+1305	Rakociová Mária r. Mašlejová		0	280,281
+1305	Rečo Imrich		1	231,248,271,278,279,280,281,414,415,425,486,488,509
+1305	Rečo Ján		1	231,248,251,271,278,279,280,281,414,415,425,486,488,509,524
+1305	Rečo Jozef		1	278,279,280,281,414,415,425,488,509
+1305	Rečová Anna		1	425
+1305	REČOVÁ Anna	malol	0	271,279
+1305	Rečová Helena r. Slivková		1	271,278,280,281,414,415,488,509
+1305	Rečová Zuzana		1	248,271,278,279,280,281,414,415,425,486,488,509
+1305	Repko Andrej		1	258
+1305	Repko Pavel		1	258
+1305	Revák Andrej		1	269
+1305	Revák Ján		1	264,292,408
+1305	Revák Jozef		1	231,249,255,264,269,287,289,292,408,409,510,513,514
+1305	Revák Juraj		1	249,255,264,269,287,289,292,408,409,510,513,514
+1305	Revák Juraj	zomrel	1	231
+1305	Revák Mária r. Feňár		0	270
+1305	Revák Michal		1	249,292,408
+1305	Revák Ondrej		1	249,255,264,287,289,292,408,409,510,513,514
+1305	Revák Pavel		1	249,255,264,269,287,289,292,408,409,510,513,514
+1305	Revák Štefan		1	249,255,264,269,287,289,292,408,409,510,513,514
+1305	Revák Vasiľ		1	249,255,264,269,287,289,292,408,409,510,513,514
+1305	Reváková Mária		1	255,269,289,409,510,513,514
+1305	Reváková Mária r. Slivková		1	271,278,280,281,414,415,488,509
+1305	Reváková Verona r. Kampeová		1	255,409,513,514
+1305	Roško Anna		0	270
+1305	Roško Jolana		0	270
+1305	Rošková Anna		1	250,254,271,278,279,280,281,405,406,407,414,415,425,488,507,508,509
+1305	Sceranka Ján		1	323,335,388
+1305	Sceranko Ján		1	302
+1305	Sceranková Alžbeta r. Jakubová		1	302
+1305	Sceranková Julia r. Mašlejová		1	278,280,281,297,323,334,335,382,414,415,488,509
+1305	Sceranková Julia r. Mašlejová	zomrela	1	465,466
+1305	Slivka Michal		1	251,258,261,316,524
+1305	Šimko Ján		1	231
+1305	Šinglár Ján r. Šinglár		1	357,526
+1305	Timura Andrej		1	310
+1305	Tkáč Anna r. Jakab		0	270
+1305	Tkač Ján		1	250,270,271,407
+1305	Tkačová Anna r. Jakabová		1	250,254,405,406,407,507,508
+1305	Tkadlec Ján		1	253,256,260,266,290,396,516
+1305	Tkadlec Jozef		1	253,256,259,260,266,290,396,516
+1305	Tkadlecová Alžbeta		1	253,266,396,516
+1305	Tkadlecová Anna		1	253,266,396,516
+1305	Tkadlecová Mária		1	253,266,396,516
+1305	Tkadlecová Mária r. Repková		1	253,260,266,290,396,516
+1305	Tomčík Jozef		1	325
+1305	Tomčíková Barbora r. Ferková		1	253,256,259,260,266,271,278,279,280,281,290,396,414,415,425,488,509,516
+1305	Vasil Ján		1	388
+1305	Vasiľ Juraj		1	308
+1305	Vasiľová Alžbeta r. Tkadlecová		1	256,260,290
+1305	Vasilová Anna r. Repková		1	308
+1305	Zambori Michal	maloletý	1	251,261,524
+1305	Zambori Pavel		1	279,425
+1305	Zamboriová Mária r. Mihočková		1	271
+1306	BAČKO Michal	nebohý	1	748
+1306	BAČKOVÁ Anna	Hankovce	1	684
+1306	BAČKOVÁ Anna	nebohá	1	46,606
+1306	BAČKOVÁ Anna	USA nebohá	1	640,803
+1306	BARNÍK Ján		1	536,539,617,627,905
+1306	BARNÍK Jozef		1	536,539,617,905
+1306	BARNÍK Jozef	nebohý	1	627
+1306	BARNIK Ondrej		1	536,539,617,905
+1306	BARNIK Štefan		1	536,539,617,905
+1306	BARNÍK Štefan	nebohý	1	627
+1306	BARNIKOVÁ Anna		1	536,539,617,627,905
+1306	BARNIKOVÁ Mária		1	536,539,617,905
+1306	BELCAK Ján	syn Jozefa-USA	1	536,539,617,905
+1306	BELCAK Ján	USA	1	613,773,891
+1306	BELCAKOVÁ Anna	r.Bilá	1	536,539,617,905
+1306	BELCAKOVÁ Anna	r.Bilá nebohá	1	182,536,539,617,905
+1306	BELCAKOVÁ Mária r.Jenčiková, Koškovce čs.40		0	769,804
+1306	BERKOVIČ Dezider		1	536,539,617,905
+1306	BERKOVIČ Ignác		1	536,539,617,905
+1306	BERKOVIČ Izidor		1	536,539,617,905
+1306	BERKOVIČOVÁ Margita	r.Weiszbergerová nebohá	1	821
+1306	BLUM Edmund	Ing	1	536,539,617,905
+1306	BOBER Martin	r.Šefčíková	1	779
+1306	BODNÁROVÁ Rozália	r.Micanková, muž Štefan	1	781
+1306	DANKO Martin	nebohý	1	652
+1306	DANKOVÁ Anna	r.Danková	1	536,539,617,905
+1306	DZUPINA Jan		1	536,539,617,905
+1306	ENGLANDEROVÁ Etela	r.Berkovičová	1	536,539,617,905
+1306	FURSTOVÁ Helena	r.Blumová	1	536,539,617,905
+1306	GAJDOŠ Jozef	nebohý ž.Mária r.Barnová	1	536,539,617,905
+1306	GAJDOŠ Štefan	Čorny nebohý	1	536,539,617,624,905
+1306	GAJDOŠ Štefan	nebohý USA	1	622,690,752,771
+1306	GAJDOŠOVÁ Anna		1	536,539,617,622,623,633,722,905
+1306	GAJDOŠOVÁ Mária	nebohá	1	536,539,617,623,905
+1306	GAVAĽA Ján	nebohý	1	721
+1306	GAVAĽOVÁ Anna	r.Danková nebohá	1	652,817
+1306	GAZDÍK Ján	syn Jána	1	774
+1306	GAZDÍKOVÁ Mária	r.Gutterová	1	774
+1306	GRENFIELD Ernest		1	536,539,617,905
+1306	GREŠ Ján		1	536,539,617,905
+1306	GREŠ Ján	nebohý	1	536,539,617,636,734,905
+1306	GREŠ Jozef		1	536,539,617,905
+1306	GREŠ Michal	nebohý	1	766,903
+1306	GREŠ Michal	USA	1	689,752
+1306	GREŠ Michal	ž.Zuzana r.Gužiková nebohý	1	536,539,617,740,905
+1306	GREŠ Pavol		1	536,539,617,905
+1306	GREŠ Pavol	USA	1	636,734
+1306	GREŠOVÁ Alžbeta	r.Bila USA	1	181,182,189,191,536,539,608,617,730,905
+1306	GREŠOVÁ Mária	r.Gajdošová nebohá	1	814
+1306	GREŠOVÁ Zuzana	r.Gužiková nebohá	1	536,539,615,617,621,740,765,905
+1306	GUTER Michal	USA	1	536,539,617,647,770,905
+1306	GUTER Štefan	USA	1	536,539,617,647,770,905
+1306	GUTEROVÁ Anna	r.Kačmarová	1	647
+1306	GUTEROVÁ Mária	USA	1	536,539,617,647,770,905
+1306	GUŽIK Michal	syn Michala	1	536,539,617,905
+1306	GUŽÍK Michal	USA nebohý	1	74
+1306	HARVILOVÁ Zuzana	r.Bačková	1	804
+1306	HORVATOVÁ Zuzana	r.Čihuľová	1	536,539,617,905
+1306	HRERKOVIČOVÁ Šára	r.Berkovičová	1	536,539,617,905
+1306	CHROMÁ Mária	r.Meždejová	1	171
+1306	CHROMÁ Mária	r.Sabová m.Ján	1	539
+1306	JASIK Ján	nebohý	1	536,539,617,767,905
+1306	JASIKOVÁ Mária	r.Gajdošová-nebohá	1	536,539,617,767,905
+1306	JAVORSKÁ Mária	r.Jenčová, muž Jozef	1	778
+1306	JAVORSKÝ Jozef	R.JENČOVÁ	1	778
+1306	JENČIK Ján	nebohý USA	1	622
+1306	JENČIK Ján	ž.Zuzana r.Kovačová	1	536,539,617,905
+1306	JENČÍK Ján	Humenné	1	695
+1306	JENČÍK Ján	nebohý	1	754
+1306	JENČÍK Ján, Koškovce čs.26		0	901
+1306	JENČIK Štefan	ž.Anna r.Grundzová	1	536,539,617,905
+1306	JENČÍK Štefan		1	536,539,617,905
+1306	JENČÍK Štefan	nebohý	1	739,772
+1306	JENČIKOVÁ Alžbeta	r.Eštuková	1	536,617,905
+1306	JENČIKOVÁ Anna	nebohá	1	697
+1306	JENČIKOVÁ Mária		1	684
+1306	JENČIKOVÁ Mária	nebohá	1	697
+1306	JENČIKOVÁ Mária	r.Andrejová nebohá	1	622,695
+1306	JENČÍKOVÁ Zuzana	r.Kováčová	1	536
+1306	JURAŠOVÁ Mária	r.CHromá nebohá	1	171,203
+1306	KARŠKO Martin	nebohý	1	768
+1306	KARŠKOVÁ Verona	r.Balintová nebohá	1	664,768
+1306	KAVČAK Michal	ž.Zuzana r.Marková	1	536,539,617,905
+1306	KOVÁČ Ján		1	536,539,617,905
+1306	KOVÁČ Jozef	ž.Mária r.Gajdošová	1	536
+1306	KOVÁČ Juraj	Martin ž.Mária r.Chovancová	1	536
+1306	KOVAČIKOVÁ Júlia	r.Makarová nebohá	1	611
+1306	KOVAČOVÁ Mária	r.Gajdošová nebohá	1	536,539,617,690,736,752,766,903,905
+1306	MAKAR Andrej		1	536,539,617,905
+1306	MAKAR Andrej	nebohý	1	44,234,611,619
+1306	MARKO Ján		1	536,539,617,905
+1306	MARKO Štefan		1	536,539,617,905
+1306	MARKOVÁ Mária	r.Hrinová	1	536,539,617,905
+1306	MARTINOVÁ Alžbeta	r.Grešová	1	536,539,617,636,734,905
+1306	MATALIK Andrej	nebohý	1	703,805
+1306	MELLEROVÁ Júlia	r.Neuman nebohá	1	787
+1306	MICHALIKOVÁ Mária	r.CHovancová nebohá	1	704
+1306	PAPUŠČÁK Ján	nebohý	1	704,727
+1306	PAPUŠČAKOVÁ Anna	r.Chovancová nebohá	1	704,727
+1306	PLATKO Michal	nebohý USA	1	622,641
+1306	PLATKOVÁ Anna	nebohá USA	1	622,641
+1306	SABO Andrej	nebohý	1	677
+1306	SABO Ján		1	769
+1306	SABO Ján	USA	1	642
+1306	SABO Jozef	USA	1	642
+1306	SABOVÁ Alžbeta	r.Čihuľová nebohá	1	642
+1306	SABOVÁ Mária	mal	1	536,539,617,905
+1306	SABOVÁ Mária	USA	1	642
+1306	SABOVÁ Zuzana	Učinková r.Horvátová	1	536,539,617,905
+1306	TIMAK Michal	nebohý	1	218,609
+1306	TIMAK Michal	Snina	1	536,539,617,905
+1306	VEĽASOVÁ Anna	nebohá USA	1	652
+1306	WEITZENOVÁ Irena	r.Berkovičová	1	536,539,617,905
+1307	ÁCS Anton		0	145
+1307	ÁCSOVÁ Katarína		0	145
+1307	ÁČ Anton		0	776
+1307	ÁČOVÁ Katarína		0	776
+1307	BAČIK Ján		0	752
+1307	BAČÍK Jozef		0	821
+1307	BAČÍK Štefan		0	184
+1307	BALAŽÍKOVÁ Mária r.Lenhartovičová		0	672
+1307	BANÁROVÁ Agneša r.Maštalírová		0	684
+1307	BANIČOVÁ Vincencia		0	534
+1307	BELICA Jozef		0	668,885
+1307	BELICA Justín		0	472,473
+1307	BELICA Karol		0	133,472,473,824,885
+1307	BELICA Pavol		0	133,272,703,757,773,885,918,919
+1307	BELICOVÁ Agneša		0	472,473
+1307	BELICOVÁ Anna		0	133,885
+1307	BELICOVÁ Cecília r.Žáková		0	845
+1307	BELICOVÁ Helena		0	133,885
+1307	BELICOVÁ Helena r.Janktová		0	745,746
+1307	BENOVIČ Florián		0	560
+1307	BENOVIČ Imrich		0	560
+1307	BENOVIČOVÁ Emerencia r.Denkocyová		0	652
+1307	BENOVIČOVÁ Zuzana r.Hodulíková		0	686
+1307	BIZMAJER Rudolf		0	782
+1307	BLAHÚT Jozef		0	808
+1307	BLAŽOVÁ Anna		0	662,717
+1307	BLÁŽOVÁ Jozefína r.Speváková		0	664,709,720
+1307	BRANIŠOVÁ Anna r.Miklošovičová		0	28
+1307	BRANIŠOVÁ Mária r.Hornáčeková		0	665,672
+1307	BRANIŠOVÁ Mária r.Hornáčková		0	131
+1307	BRESTIČOVÁ Mária r.Burská		0	675
+1307	BRUNOVSKÁ Mária r.Tomašovičová		0	785,831
+1307	BUBANOVÁ Apolónia r.Štaigerová		0	10
+1307	BUČIČOVÁ Rozália r.Maštalírová		0	684
+1307	BURKOVIČ Michal		0	812
+1307	BURKOVIČOVÁ Mária r.Heribanová		0	812
+1307	BURSKÁ Helena r.Belicová		0	738
+1307	BURSKÝ Rudolf		0	675
+1307	BURSKÝ Vendelín		0	676
+1307	CIBOLKOVÁ Terezia r. Cisárová , SR		0	1014
+1307	CISÁR Martin		0	569
+1307	CISÁR Martin , SR		0	1014
+1307	CISÁR Vendelín		0	569
+1307	CISÁR Vendelin , SR		0	1014
+1307	CÍSAROVÁ Terézia r.Nováková		0	813
+1307	CSÍPEL Karol		0	658
+1307	ČIPEL Pavel		0	670

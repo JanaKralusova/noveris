@@ -1,0 +1,256 @@
+913	Mozolák Samuel	s.Ján,Zuzana	0	337,509,619,620,776,873,888,1075,1338,1339,1367,1597,1598,1600,1601,1797,1958,2154,2248,2324,2389,2390,2684,2690,3539,3879,3884
+913	Mozoláková Anna	r.Dlhá m.Samuel	0	2662
+913	Mozoláková Zuzana	r.Plesníková m.Martin	0	2495
+913	Mozoláková Zuzana	s.Ján,Samuel	0	337,509,619,620,776,873,888,1075,1338,1339,1367,1597,1598,1600,1601,1797,1958,2154,2248,2324,2389,2390,2684,2690,3539,3879,3884
+913	Možuchová Johanna	r.Krištofová	0	2252
+913	Múdra Anna	r.Čuvalová	0	1515,1833,2382,2739,3335,3866
+913	Muchová Mária	r.Koláriková	0	3081
+913	Müllerová Eva	r.Plešková	0	567
+913	Myjavská Banka	na Myjave	0	733
+913	Naď Ján	Hrachovište č.212	0	598,1676,1849,3433
+913	Naď Ján	m.Eva r.Hučková	0	3220
+913	Naď Ján	m.Katarína r.Sadloňová	0	3221
+913	Naď Ján	s.Zuzana,Mária,Jozef	0	1280,2307,2604,3279,3433,3596
+913	Naď Jozef	s.Zuzana,Mária,Ján	0	1280,2307,2604,3279,3433,3596
+913	Naď Juraj	spol.Ignác Straka	0	2382,2536
+913	Naď Michal	spol.Katarína	0	3222
+913	Naď Pavol	Hrachovište č.188	0	1268,1276,1927,1942
+913	Naď Štefan	s.Pavol,Anna,Ján,Daniel,Judita,Alžbeta	0	567,597,598,893,904,1115,1116,1165,1267,1272,1273,1278,1279,1280,1281,1282,1303,1674,1675,1676,1699,1700,1849,2020,2191,2192,2376,2913,2914,2915,2916,3433,3692,3730,3731,3877,3896
+913	Naďová Alžbeta	r.Petrovičová m.Tomáš	0	1066,1416,1421,3201
+913	Naďová Anna	s.Pavol,Ján,Katarína,Daniel,Judita	0	567,597,598,893,904,1115,1116,1165,1267,1268,1272,1273,1276,1278,1279,1280,1281,1282,1303,1674,1675,1676,1699,1700,1849,1927,1942,2020,2191,2192,2376,2913,2914,2915,2916,3433,3692,3730,3731,3877,3896
+913	Naďová Eva	r.Pilátová m.Michal	0	3329
+913	Naďová Judita	r.Predná m.Ján,Hrachovište č.180	0	1082,1083,1242,1927,1942,2017
+913	Naďová Katarína	r.Bielčíková	0	1267,1392,1675,2017,2191,2192,2913,2914,2915,2916,3139,3692
+913	Naďová Katarína	r.Predná Hrachovište č.188	0	780,1018,1119
+913	Naďová Katarína	r.Predná Hrachovište č.188; r.Predná Hrachovište č.188	0	2718,2727,3101,3255,3259
+913	Naďová Katarína	s.Pavol,Anna,Ján,Daniel,Judita,Alžbeta	0	567,597,598,604,893,904,1115,1116,1165,1267,1268,1272,1273,1276,1278,1279,1280,1281,1282,1303,1673,1674,1675,1676,1699,1700,1849,2020,2191,2192,2376,2913,2914,2915,2916,3433,3692,3730,3731,3877,3896
+913	Naďová Kristína	r.Čuvalová m.Juraj	0	1273,1833,1837,2382,2532,2739,3860,3866
+913	Nebeský Samuel	m.Anna r.Rajnohová	0	782,1804
+913	Nemšák Ivan		0	2627,3514
+913	Novotná Mária	r.Nagyová	0	1280,2307,2604,3279,3433,3596
+913	Ondráška Juraj	čd.3825	0	1709,3216
+913	Ondráška Juraj	m.Zuzana r.Nagyová	0	930,1082,1083,1108,1120,1131,1501,1506,3286,3289,3383
+913	Ondráška Juraj	spol.Pavol Červenka,Eva Červenková	0	1670,2140,3382
+913	Ondráška Juraj	spol.Zuzana,Katarína	0	1152
+913	Ondrušková Apolónia	r.Markovičová m.Tomáš	0	1513,2939,3310
+913	Orlichová Anna	r.Petrovičová	0	793
+913	Otruba Adam	m.Zuzana r.Drahošová	0	2275,2277,3455
+913	Otruba Ján	m.Zuzana r.Kubová	0	937
+913	Otruba Ján	s.Anna,Katarína,Alžbeta,Pavol	0	933,935,936,938,942,943,948,1920,1921,1923,1924,1925,1926,2273,2283,2296,3768
+913	Otruba Ján r. Otruba	Hrachovište č.359	0	2663
+913	Otruba Martin	s.Pavol,Paulína,Judita,Zuzana	0	935
+913	Otruba Pavol	po Martinovi,č.d.206	0	3437
+913	Otruba Pavol	s.Anna,Katarína,Alžbeta,Ján	0	933,936,937,938,942,943,948,1920,1921,1923,1924,1925,1926,2273,2283,2296,3768
+913	Otruba Pavol	s.Zuzana,Judita,Adam,Paulína	0	933,935,936,937,938,2273,2275,2277,2279,2933,3455,3675
+913	Otruba Štefan	m.Anna r.Macková	0	933,935,936,938,2273
+913	Otruba Štefan	m.Zuzana r.Kávičková	0	933,935,936,937,938,2273
+913	Otrubová Anna	r.Štefanechová,Hrachovište č.6	0	2622
+913	Otrubová Judita	s.Zuzana,Adam,Pavol,Paulína	0	2275,3455
+913	Otrubová Katarína	r.Otrubová	0	937
+913	Páleník Martin	m.Katarína r.Čuvalová	0	2382
+913	Páleník Michal	s.Kristína	0	3334
+913	Páleníková Katarína	r.Čuvalová m.Martin	0	1273,1316,1833,1837,2382,2532,2739,3335,3860,3866
+913	Páleníková Ľudmila	r.Kolníková Potvorice č.168	0	1977,2048,3032
+913	Palíková Ľudmila	r.Trubačíková m.Anton,Hrachovište č.124	0	3182
+913	Panková Anastázia	r.Slezáková m.Michal	0	397,544,545,546,548,550,551,553,554,565,566,1036,1042,1043,1045,1050,1051,1052,1058,1062,1063,1531,1534,1535,1537,1538,1539,1546,1547,1548,1863,1957,1958,1959,1960,1961,1966,2048,2162,2164,2168,2169,2313,2449,2452,2738,2942,3509,3764,3892
+913	Papayová Mária	r.Arbetová Hrachovište č.82	0	1788,2086,2393,2521,2553,2710,2712,3205,3292,3301,3474
+913	Parči Anton	Čachtice	0	2658
+913	Parči Dušan	Hrachovište č.47	0	2658
+913	Parči Ladislav	Krajné	0	2658
+913	Parči Ľuboš r. Parči	Hrachovište č.547	0	2658
+913	Parči Milan	Tylov,ŠM okr.Bruntál	0	2658
+913	Parči Rudolf	m.Paulína r.Balážová,Hrachovište č.158	0	2750
+913	Parči Štefan	Krajné č.640	0	2658
+913	Parčiová Anna r. Poláková	Krajné č.640	0	2658
+913	Parčiová Irena	Tylov,ŠM,okr.Prachatice	0	2658
+913	Parčiová Paulína r. Balážová	Hrachovište č.133	0	2750
+913	Pardavá Anna	r.Kolníková Želovany č.1082,Čachtice	0	1994,3262,3913
+913	Pavlech Emanuel	m.Helena	0	3554
+913	Pavlech Emanuel r. Pavlech	zomr. v r. 1945	0	3491
+913	Pavlech František	m.Anna r.Miklášová	0	2549
+913	Pavlech Ján	m.Johanna r.Kolníková	0	575,588,589,915,1168,1170,1209,1210,1213,1270,1334,1336,1954,2159,2246,2247,2268,2335,2350,2387,3803,3873
+913	Pavlech Martin	Krajné č.662	0	1011,1014,2292,2298,2304,2305,2403,2761,3576,3799,3871
+913	Pavlech Matej	m.Eva r.Kolníková	0	575,588,589,687,915,967,969,1168,1170,1209,1210,1213,1270,1336,1954,1981,2118,2154,2159,2246,2247,2268,2292,2335,2350,2387,3625,3803
+913	Pavlech Matej r. Pavlech	m.Zuzana r.Aksamitová	0	1014,1586
+913	Pavlech Matúš	spol.Anna	0	1687
+913	Pavlech Pavol	spol.Magdaléna	0	3306
+913	Pavlech Štefan	m.Judita r.Kraváriková	0	1011,1726,2403
+913	Pavlechová Eva	r.Kolníková	0	1797
+913	Pavlechová Johanna	r.Kolníková m.Ján,Hrachovište č.258; r.Kolníková m.Ján,Hrachovište č.258	0	3195
+913	Pavlechová Judita	r.Kraváriková m.Štefan,Hrachovište č.47	0	1247,2459,2665
+913	Pavlechová Magdaléna	čd.523	0	1561,1623,1629
+913	Pavlechová Magdaléna	mníška	0	726,1188,1285,1374,1858,2342,2468,2854,2935,2936,2937,3306,3585,3645,3751
+913	Pavlechová Terézia	r.Slezáková m.Jozef,Hrachovište č.326	0	728,736,737,1653,1723,1981,2118,2154,2499,3085,3173,3257,3319,3379,3625,3639,3875
+913	Pavlechová Zuzana	r.Ondrášková m.Tomáš	0	1152
+913	Pavlíková Alžbeta	r.Babušková	0	2749
+913	Pavlíková Alžbeta	r.Kurtišová m.Ján	0	150,296,544,545,546,548,566,635,718,733,734,735,850,1042,1043,1045,1520,1762,1777,1788,1790,1966,2162,2169,2208,2214,2215,2391,2393,2433,2505,2515,2521,3536,3888,3893
+913	Peláčiková Judita	r.Straková m.Ján	0	622,765,1510,1511,1512,1515,1520,1521,1522,2182,2184,2445,2622,2707,2754,2875,2991,3313,3530,3531,3546,3777,3807,3808,3809,3810,3811,3903
+913	Peláčiková Katarína	r.Straková m.Michal	0	622,765,1510,1511,1512,1515,1520,1521,1522,2182,2184,2445,2622,2707,2754,2875,2991,3313,3530,3531,3546,3777,3807,3808,3809,3810,3811,3903
+913	Petrovič Ján	č.d.2	0	3215
+913	Petrovič Ján	čd.6394	0	3200
+913	Petrovič Ján	m.Zuzana r.Predná	0	1272,1279,1600,1676,3218
+913	Petrovič Ján	maloletý,s.Katarína	0	746,1090,1108,1109,1110,1111,1120,1152,1169,1486,1600,1709,1710,1712,1713,2992,3347,3827,3828,3830
+913	Petrovič Ján	mladší	0	1131
+913	Petrovič Ján	syn Jána a Zuzana r.Prednej	0	1928,1944
+913	Petrovič Ján	z Vaďoviec,č.d.2	0	3238
+913	Petrovič Michal	m.Alžbeta r.Petrovičová	0	1066,1416,1421
+913	Petrovič Tomáš	m.Anna r.Machovičová	0	1066,1416,1421
+913	Petrovičová Alžbeta	r.Miklášová m.Tomáš	0	620,873,888,1075,1598,2248
+913	Pilát Adam	mal.,syn Jána	0	1945
+913	Pilát Adam	maloletý,s.Katarína	0	1066,1416,1421
+913	Pilát Ján		0	3396
+913	Pilát Ján	m.Alžbeta r.Puškárová	0	3275
+913	Pilát Ján	m.Anna r.Miklášová	0	3288
+913	Pilát Ján	m.Katarína r.Hluchá	0	3405
+913	Pilát Ján	m.Katarína r.Kachlecová	0	3295
+913	Pilát Ján	m.Mária r.Držíková	0	3331
+913	Pilát Ján	po Kataríne Pilátovej r.Hluchej	0	3405
+913	Pilát Ján r. Pilát		0	1945
+913	Pilát Michal	maloletý,po Michalovi	0	1573
+913	Pilát Michal	po Anne Pilátovej r.Pilátovej	0	3329
+913	Pilát Michal	spol.Matej	0	3324
+913	Pilát Pavol	spol.Anna,Milan,Katarína,Ľudmila	0	1594
+913	Pilát Samuel	m.Katarína r.Šimovičová	0	3396
+913	Pilát Tomáš	m.Emília r.Nagyová	0	3296
+913	Pilátová Alžbeta	po Tomášovi	0	3329,3396
+913	Pilátová Anna	mal.,po Kataríne Pilátovej r.Hluchej	0	3405
+913	Pilátová Emília	po Kataríne Pilátovej r.Hluchej	0	3405
+913	Pilátová Eva	r.Lisá m.Michal	0	3332
+913	Pilátová Katarína	maloletá,dcéra Jána,č.d.118	0	1066,1416,1421,3239,3240
+913	Pilátová Kristína	r.Valentová m.Michal,Hrachovište č.50	0	3406
+913	Pišková Júlia	r.Hletková	0	3081
+913	Plesník Daniel	m.Dorota r.Janeková	0	3589
+913	Plesník Ján	mal.,spol.Pavol,Anna,Štefan,Martin,Zuza	0	782,1804,3588
+913	Plesník Martin	mal.,spol.Ján,Pavol,Anna,Štefan,Zuza	0	782,1804,3588
+913	Plesník Pavol	m.Dorota r.Mozoláková	0	3644
+913	Plesník Pavol	mal.,spol.Ján,Anna,Štefan,Martin,Zuza	0	782,1804,3588
+913	Plesník Pavol	spol.Štefan	0	782
+913	Plesník Samuel	m.Katarína r.Vičíková	0	1804
+913	Plesník Samuel	spol.Ján,Pavol,Anna,Štefan,Martin,Zuzana	0	782,1804,3588
+913	Plesník Štefan	mal.,spol.Ján,Pavol,Anna,Martin,Zuza	0	782,1804,3588
+913	Plesník Štefan	syn Štefana	0	1804
+913	Plesníková Anna	mal.,spol.Ján,Pavol,Štefan,Martin,Zuza	0	782,1804,3588
+913	Plesníková Anna	r.Predná m.Samuel	0	948,956,1134,1139,1140,1142,1143,2281,2330,2547,2558,3590
+913	Plesníková Anna	spol.Zuzana,Judita,Alžbeta,Katarína	0	3590
+913	Plesníková Zuzana	mal.,spol.Ján,Pavol,Anna,Štefan,Martin	0	3588
+913	Pleško Jozef	m.Eva r.Ševcechová,Hrachovište č.22	0	810
+913	Pleško Michal		0	250
+913	Pleško Michal	Krajné č.63	0	363,600,1063
+913	Pleško Michal	spol.Pavol,Ján,Katarína,Eva	0	567
+913	Pleško Pavol	m.Anna r.Dlhá	0	363,600,888,891,1063,1601,1872,2005,2084,2223,2226,2324,2417,2579,2662,3277,3440,3721
+913	Pleško Pavol	manž. Anna r. Dlhá	0	250
+913	Pleško Pavol	spol.Ján,Michal,Katarína,Eva	0	567
+913	Pleško Štefan	po Adamovi Pleškovi	0	600,601,604,605,606,743,1115
+913	Plešková Anna	r.Dlhá m.Pavol	0	337,509,888,891,1601,1872,1958,2154,2223,2226,2324,2417,2684,3277,3440
+913	Plešková Anna	r.Meďová	0	3588
+913	Plešková Eva		0	250
+913	Plešková Eva	Hrachovište č.19	0	810
+913	Plešková Eva	maloletá,s.Katarína,Anna,Pavol	0	363,600,1063,2005,2084,2579,3721
+913	Plešková Eva	r.Meďová m.Adam	0	1063,1874,2000,2001,2003,2008,2009,2011,2071,2660
+913	Plešková Eva	r.Meďová m.Ján	0	363,750,2005,2084,2579,3721
+913	Plešková Eva r. Medová	manž. Ján	0	250
+913	Poláčeková Alžbeta	s.Monika,Anna,Mária	0	994,1054,1055,1059,2311,2312,2315,2316,2637
+913	Potoček Ján	m.Anna r.Gašparová	0	360,720,723,728,736,737,738,1423,1723,1822,1824,1914,2096,2499,3143,3150,3180,3875
+913	Potoček Ján	spol.Agneša,Mária,Anna,Pavol,Alžbeta	0	3108
+913	Potoček Martin	m.Mária r.Kolníková	0	728,2499,3143,3197,3875
+913	Potoček Martin	spol.Matej Kolník	0	3108
+913	Potoček Pavol	spol.Agneša,Mária,Anna,Ján,Alžbeta	0	3108
+913	Potoček Pavol	spol.Anna	0	1831,3202
+913	Potočková Agneša	spol.Mária,Anna,Ján,Pavol,Alžbeta	0	3108
+913	Potočková Alžbeta	spol.Agneša,Mária,Anna,Ján,Pavol	0	3108
+913	Potočková Anna	r.Kolníková m.Ján	0	1559
+913	Potočková Anna	spol.Agneša,Mária,Ján,Pavol,Alžbeta	0	3108
+913	Potočková Emília	r.Kolníková m.Pavol	0	1372,1373
+913	Potočková Ľudmila	r.Kolníková m.Pavol	0	1338,2791,2792
+913	Potočková Mária	r.Dlhá Hrachovište č.206	0	1337,1368,1369,1828,1994,2094,2258,2476,2739,3866,3913
+913	Potočková Mária	r.Kolníková m.Martin	0	1170,1204,1627,1630,2090,2342,2344,2346,2854,3082,3086,3790
+913	Potočková Mária	spol.Agneša,Anna,Ján,Pavol,Alžbeta	0	3108
+913	Potočková Mária r. Dlhá	Hrachovište č.206	0	1373,1832,1843
+913	Pražienková Anna	maloletá,s.Antónia	0	3232
+913	Pražienková Antónia	maloletá,s.Anna	0	3232
+913	Predná Agneša	spol.Martin,Anna	0	916
+913	Predná Alžbeta	maloletá,s.Mária,Gustáv,Peter,Agneša	0	1537,1671,1774
+913	Predná Alžbeta	maloletá,spol.Anna,Júlia	0	723,738
+913	Predná Alžbeta	r.Bielková m.Pavol	0	2162,2738,3509
+913	Predná Alžbeta	r.Dlhá m.Štefan,Hrachovište č.77	0	2460,2749
+913	Predná Alžbeta	r.Mozoláková Hrachovište č.18	0	832,871,879,1598,2649,2718
+913	Predná Alžbeta	r.Petrovičová m.Ján	0	3635
+913	Predná Anna	r.Gašparová m.Ján,Hrachovište č.233	0	454,848,1724,1797,2126,2155,2340,2472,2921,2967,3010,3722,3726,3727,3756,3801,3912
+913	Predná Anna	r.Juhásová Hrachovište č.65	0	1111,1485,3321,3828
+913	Predná Anna	r.Kováčiková m.Daniel,č.d.12	0	470,544,545,546,548,550,551,553,554,565,566,1036,1042,1043,1045,1050,1051,1052,1058,1062,1063,1337,1367,1368,1369,1370,1372,1373,1380,1381,1382,1832,1863,1957,1958,1959,1960,1961,1966,1992,1994,2048,2094,2162,2164,2168,2169,2313,2399,2407,2409,2476,2597,2598,2699,3056,3511,3764,3913
+913	Predná Anna	r.Petrovičová m.Ján	0	3572
+913	Predná Anna	r.Predná m.Daniel	0	1120
+913	Predná Anna	r.Predná m.Ján	0	1709,1710,1713
+913	Predná Anna	spol.Pavol,Katarína	0	1895,2289,2290,3759
+913	Predná Anna r. Kostolanská	Hrachovište 163	0	1066,1420,1421,1825,3079,3305
+913	Predná Eva	mal.,s.Zuza,Paula,Pavol,Samuel,Judita	0	2669,2680,2682,2683,3290,3658
+913	Predná Eva	spol.Anna,Paulína	0	2669,2683,3658
+913	Predná Judita	r.Plesníková m.Pavol	0	789,1893
+913	Predná Judita	r.Remiášová	0	3101
+913	Predná Júlia	r.Kolníková	0	1196,2090
+913	Predná Júlia	spol.Anna,Alžbeta	0	723,738,1725,3084,3123
+913	Predná Justína	spol.Agneša,Mária	0	773,945,1034,1147,1166,1239,1568,1642,1762,2054,2212,2213,2325,2401,2434,2732,2743,2953,2954,3247,3302,3371,3386,3530,3531
+913	Predná Justína	spol.Agneša,Mária; spol.Agneša,Mária	0	3381
+913	Predná Katarína	r.Dlhá	0	3146
+913	Predná Katarína	r.Minárechová m.Peter	0	758,773,945,1034,1166,1642,1758,2054,2325,2434,2820,2918,2981,3212,3371,3381,3386,3530,3531
+913	Predná Katarína	r.Minárechová m.Peter; r.Minárechová m.Peter	0	3381
+913	Predná Katarína	r.Predná	0	3101
+913	Predná Katarína	r.Predná Hrachovište č.66	0	790,2718,3263
+913	Predná Katarína	spol.Pavol,Anna	0	1895,2289,2290,3759
+913	Predná Mária	r.Arbetová m.Michal,Hrachovište č.336	0	1417,1564,1568,1736,2759,2835,3111,3300,3922
+913	Predná Mária	r.Hletková m.Martin,Puškinova 18,Žilina	0	3343
+913	Predná Mária	r.Straková	0	470,800,802,1273,1314,1337,1368,1369,1372,1373,1677,1832,1833,1837,1843,1847,1992,1994,2079,2094,2157,2178,2228,2231,2232,2382,2407,2474,2476,2488,2532,2534,2538,2588,2597,2598,2739,2743,3055,3070,3090,3122,3198,3230,3342,3377,3451,3487,3567,3582,3848,3849,3850,3853,3859,3860,3863,3866,3913
+913	Predná Mária	s.Ján,Anna	0	3601
+913	Predná Paulína	od Jána Predného	0	3476
+913	Predná Paulína	s.Anna,Judita	0	930,1082,1083,1242
+913	Predná Rozália	r.Predná m.Peter	0	1285,1858,2468
+913	Predná Veronika	r.Slezáková	0	994,1054,1055,1059,2311,2312,2315,2316,2637
+913	Predná Zuzana	r.Dlhá m.Pavol	0	620,873,888,1075,1339,1598,2248
+913	Predná Zuzana	r.Dlhá m.Štefan	0	619,1338,1598,1958,2154,2662
+913	Predná Zuzana	r.Nagyová	0	1280,2307,2604,3279,3433,3596
+913	Predná Zuzana	s.Eva,Paulína,Pavol,Samuel,Judita	0	2669,2680,2682,2683,3290,3658
+913	Predná Zuzana	spol.Katarína Meďová r.Miková	0	1874,2660
+913	Predný Adam	spol.Juraj Marušic a m.Katarína	0	1353
+913	Predný Adam	spol.Martin	0	3656
+913	Predný Anton	Jablonského 1224,Čáslav	0	1062,1063,1957,1958,1959,1960,1961,1966,2048,2744
+913	Predný Daniel	m.Anna r.Kováčiková	0	544,548,550,551,553,554,566,1042,1043,1062,1437,1454,1957,1958,1959,1961,2048,2168,2313,2420,2421,2732,2953,2954,3284,3434,3765
+913	Predný Daniel	m.Anna r.Predná,Hrachovište č.12	0	2682
+913	Predný Daniel	m.Zuzana r.Jánošová	0	2287,3752
+913	Predný Daniel	s.Ján,Pavol,Štefan,Zuzana,Judita	0	1090,3827
+913	Predný Daniel	s.Pavol,Katarína	0	3660
+913	Predný Daniel	syn Pavla,č.d.8	0	3487,3570
+913	Predný Daniel r. Predný	s.Ján,Sidónia; s.Ján,Sidónia	0	3370
+913	Predný Eduard	m.Anna r.Kostolanská	0	2637
+913	Predný Emil	m.Anna r.Bačová,Višňové č.100	0	2677,3513
+913	Predný Ervín	Hrachovište č.336	0	2849,2850
+913	Predný Gustáv	maloletý,súr.Alžbeta,Mária,Peter,Agneša	0	1537,1671,1774
+913	Predný Ján	čd.1730	0	2743
+913	Predný Ján	čd.576	0	2732,2953,2954
+913	Predný Ján	Hrachovište č.25	0	1020
+913	Predný Ján	Hrachovište č.25; Hrachovište č.25	0	2307,2604,2718,3101
+913	Predný Ján	m.Alžbeta r.Petrovičová	0	662,746,752,1109,1110,1111,1121,1442,1486,1504,2428,2703,3286,3461,3828,3830
+913	Predný Ján	m.Anna r.Gašparová	0	544,545,546,548,550,551,553,554,566,681,1042,1043,1045,1365,1366,1377,1437,1445,1454,1957,1958,1961,1966,2048,2169,2456,2457,2732,2743,2954,3219,3284,3351
+913	Predný Ján	m.Anna r.Petrovičová	0	1108,1131,2992
+913	Predný Ján	m.Katarína r.Dlhá	0	1533,1541
+913	Predný Ján	m.Veronika r.Slezáková	0	832,1147,1454,1541,2398,2732,2743,2953,2954,3247,3303
+913	Predný Ján	maloletý,čd.644	0	3342
+913	Predný Ján	po Anne,Jánovi Predných	0	2206,2581,2634,3641,3814,3901
+913	Predný Ján	po Martinovi	0	3101
+913	Predný Ján	po Zuzane Ondráškovej r.Nagyovej	0	3286
+913	Predný Ján	s.Anna,Katarína	0	2123
+913	Predný Ján	s.Daniel,Pavol,Štefan,Zuzana,Judita	0	1090,3827
+913	Predný Ján	s.Katarína	0	1021
+913	Predný Ján	s.Mária,Anna	0	3601
+913	Predný Ján	spol.Anna,Katarína,Michal	0	948,956,1134,1139,1140,1142,1143,2281,2330,2547,2558
+913	Predný Ján	spol.Juraj	0	1108,1131
+913	Predný Ján	spol.Martin a Gašpar Slezák	0	3359
+913	Predný Ján	spol.Pavol,Juraj,Martin	0	1152,1169,1709,1710,1888
+913	Predný Ján	syn Jozefa	0	2708,2709,3507,3508,3603,3604,3640,3648
+913	Predný Ján r. Predný	107 Brower Aven.,Rockville Ctr.11570,NY	0	746,789,1079,1080,1090,1108,1109,1110,1111,1120,1122,1152,1169,1470,1486,1504,1709,1710,1713,1888,1890,1893,1895,2289,2290,2495,3759,3827,3828,3829,3830
+913	Predný Jaroslav	Obrancov Mieru 17,Detva	0	2984
+913	Predný Jozef	Myjava,Dolná štvrť 505/38	0	565,1051,1957,2627,2699,2791,2792,2839,3256,3514
+913	Predný Juraj	m.Katarína r.Bednáriková	0	3289
+913	Predný Juraj	m.Katarína r.Predná	0	1131,2992,3347
+913	Predný Juraj	spol.Pavol,Ján	0	1109,1110
+913	Predný Juraj	spol.Pavol,Martin,Ján	0	1152,1169,1709,1710,1713,1888
+913	Predný Martin	m.Alžbeta r.Ondrášková	0	3283,3656

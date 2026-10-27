@@ -1,0 +1,256 @@
+3079	Terpo Ondrej		0	558
+3079	Terpo Štefan		0	558
+3079	Terpová Alžbeta r. Gedrová		0	465,466
+3079	Terpová Mária r. Poračová		0	544
+3079	Varga Andrej	mal.syn Juraja	0	1089,1090
+3079	Varga Andrej	syn Juraja	0	524,1091
+3079	Varga Imrich	malolet	0	622
+3079	Varga Imrich	malolet. malolet	0	629
+3079	Varga Michal		0	524,628,1085,1089,1090,1091
+3079	Vargová Barbora	malolet	0	524,1089,1090,1091
+3079	Zatorska Anna r. Vargová		0	524,625,1089,1090,1091
+3079	Zatorsky Andrej	manž.Anna	0	524,625,1089,1090,1091
+3080	Antaličová Agneša r. Benčičová		0	5440
+3080	Antaličová Mária r. Gloncová	zomrela	0	5726
+3080	Arenbergová Júlia r. Hunyadyová		0	5467
+3080	Axamitová Jozefína	zomrela	0	5432
+3080	Bachratá Katarína r. Brúderová, Jamnického 18, Bratislava Jamnického 18, Bratislava		0	7056
+3080	Balážová Anna r. Kudlová, Nad jazierkom 5, Bratislava Nad jazierkom 5, Bratislava		0	7056
+3080	Baránek František r. Baránek, Dorastenecká 48, Bratislava Dorastenecká 48, Bratislava		0	7334,7402
+3080	Baránková Ľudmila r. Zemanová, Dorastenecká 48, Bratislava Dorastenecká 48, Bratislava		0	7056
+3080	Baštrnáková Margita r. Číková	zomrela	0	4634,6176
+3080	Bednár Alojz		0	4634,6176
+3080	Bednár Florián	zomrel 21.02.1991	0	4612
+3080	Bednár Martin	manž. Rozália, rod. Belajová	0	4634,6176
+3080	Bednár Róbert		0	4634,6176
+3080	Bednárová Alžbeta r. Svitničová		0	4634,6176
+3080	Bednárová Hermína r. Komendová		0	5557
+3080	Bednárová Jozefína r. Benčičová		0	45,5442,5685
+3080	Bednárová Jozefína, Tupolevová 3, Bratislava Tupolevová 3, Bratislava		0	7375
+3080	Bednárová Ľudmila r. Belajová, Hospodárska 3, Bratislava Hospodárska 3, Bratislava		0	7056
+3080	Belaj Daniel	zomrel 15.05.1980	0	4634,5568,6176
+3080	Belaj Ignác		0	4634,6176
+3080	Belaj Ján r. Belaj, Ivánka pri Dunaji Ivánka pri Dunaji		0	7056
+3080	Belaj Karol	zomrel 09.02.1983	0	4634,6176
+3080	Belaj Ľudovít	zomrel 19.07.1969	0	4634,6176
+3080	Belaj Matej	zomrel	0	4634,6176
+3080	Belaj Rudolf r. Belaj, Beňadická 3006/11, Bratislava, zom.17.02.1997 Beňadická 3006/11, Bratislava, zom.17.02.1997		0	6982,7005
+3080	Belaj Václav r. Belaj, M.Medvedovej 18, Bratislava M.Medvedovej 18, Bratislava		0	7056
+3080	Belajová Alžbeta r. Vitálošová	zomrela 02.03.1967	0	4634,6176
+3080	Belajová Mária r. Kovárová, Roľnícka 346, Bratislava Roľnícka 346, Bratislava		0	7056
+3080	Belajová Uršula r. Zemanová	zomrela 16.05.1983 Roľnícka 7, 831 07Bratislava; zomrela 16.05.1983	0	4634
+3080	Belajová Uršula r. Zemanová	zomrela 21.04.1973	0	5495
+3080	Belajová Uršula r. Zemanová	zomrela 21.4.1973, Roľnícka 7, 831 07 Bratislava	0	6176
+3080	Belay Ignác	manž. Terézia	0	4634,6176
+3080	Belay Ignác	zomrel	0	5413
+3080	Belay Jozef		0	2037,2987
+3080	Belay Jozef	zomrel 05.07.1969	0	5713
+3080	Belay Teofil	zomrel 17.05.1976	0	4634,6176
+3080	Belayová Terézia r. Zemanová		0	4634,6176
+3080	Belzárová Anna r. Orthová	zomrela 27.02.1982, manž. Ján	0	4634,6176
+3080	Benčič Bedrich		0	5382
+3080	Benčič František	zomrel 08.03.1964	0	5442,5685
+3080	Benčič Fridrich r. Benčič		0	7217
+3080	Benčič Ján	manž. Antonia, rod. Svatoňová	0	5700
+3080	Benčič Jozef		0	4634,6176
+3080	Benčič Jozef	zomrel	0	5426
+3080	Benčič Matej	zomrel 08.06.1970	0	5479
+3080	Benčič Štefan		0	4634,6176
+3080	Benčič Štefan	zomrel 28.04.1969	0	5440
+3080	Benčič Vendelín	Viničné	0	3292
+3080	Benčičová Agneša		0	4634,6176
+3080	Benčičová Anna r. Kouklíková		0	5382
+3080	Benčičová Anna r. Nádaždyová	zomrela 12.04.1956	0	2322,5534
+3080	Benčičová Antonia r. Svatoňová	zomrela 12.12.1992	0	5700
+3080	Benčičová Johanna r. Zemanová		0	5442
+3080	Benčičová Katarína r. Fašungová		0	4634,6176
+3080	Benčičová Katarína r. Poláková	zomrela 05.01.1995	0	5545
+3080	Bernadič Peter		0	5528
+3080	Bernadičová Agneša r. Brúderová	zomrela 29.05.1980	0	5528
+3080	Bieliková Pavlína r. Zemanová, Pri mlyne 1, Bratislava Pri mlyne 1, Bratislava		0	7056
+3080	Biskupič Ladislav		0	5582
+3080	Biskupičová Jarmila r. Achbergerová		0	5582
+3080	Biskupičová Katarína r. Soboličová	zomrela 26.09.1983	0	4634,6176
+3080	Bláha Karol		0	5381
+3080	Blahová Amália r. Nováková		0	5504
+3080	Blažeková Elena r. Fašungová		0	5651
+3080	Brenčičová Ľudmila r. Zemanová	zomrela 18.04.1971	0	4634,6176
+3080	Brúder Dušan r. Brúder, Matejkova 16, Bratislava Matejkova 16, Bratislava		0	7126
+3080	Brúder Marian r. Brúder, Ing., Uhliská 19, Bratislava, zom.17.06.2013 Uhliská 19, Bratislava, zom.17.06.2013		0	7056
+3080	Brúder Martin	zomrel	0	4634,5444,6176
+3080	Brúder Matej		0	4634,5519,6176
+3080	Brúder Matej	manž. Katarína	0	4634,6176
+3080	Brúderová Agnesa r. Feketeová	zomrela 06.07.1967	0	4634,5444,6176
+3080	Brúderová Katarína r. Matulová		0	4634,6176
+3080	Brúderová Magda r. Zemanová, Pavlovská 7, Bratislava, zom.01.04.2003 Pavlovská 7, Bratislava, zom.01.04.2003		0	7056
+3080	Brúderová Mária r. Hlavatá	zomrela 12.06.1993	0	4634,5557,5714,6176
+3080	Brúderová Mária r. Zemanová, Roľnícka 271, Bratislava Roľnícka 271, Bratislava		0	7367
+3080	Butyková Ľudmila, RNDr., Príjazdná 31, Bratislava Príjazdná 31, Bratislava		0	7056
+3080	Cabániková Mária r. Nádaždyová, Osloboditeľská 30, Bratislava Osloboditeľská 30, Bratislava		0	7334,7402
+3080	Cagaňová Matilda r. Nováková		0	5504
+3080	Ciglan Gejza		0	5721
+3080	Ciglan Juraj		0	5721
+3080	Ciglan Michal	zomrel 25.01.2000	0	5721
+3080	Čaputa Ján r. Tóthová, Estónska 48, Bratislava Estónska 48, Bratislava		0	7056
+3080	Čaputa Miloslav r. Čaputa, Podzáhradná 54, Bratislava Podzáhradná 54, Bratislava		0	7056
+3080	Čaputa Róbert r. Čaputa, Hlavná 13, Slovenský Grob Hlavná 13, Slovenský Grob		0	7056
+3080	Čaputová Katarína r. Panáková	zomrela 22.05.1990	0	4634,6176
+3080	Červenka Šebastián	manž. Ernestína	0	5703
+3080	Červenková Ernestína r. Fajnorová		0	5703
+3080	Čierna Viktória r. Bačová		0	5620
+3080	Čík František		0	5675
+3080	Čík Ján		0	4634,6176
+3080	Čík Jozef		0	1963
+3080	Čík Ľudovít r. Čík, Astrova 56, Bratislava Astrova 56, Bratislava		0	7056
+3080	Čík Štefan		0	4634,6176
+3080	Dolejší Eugen	manž. Mária, rod. Setnická	0	5370,5501
+3080	Dolejšiová Mária r. Setnická		0	5370,5501
+3080	Doležal Milan		0	4634,6176
+3080	Doležalová Pavlína r. Krajčiová		0	4634,6176
+3080	Drusková Ľudmila r. Benčičová		0	5566
+3080	Dubanová Ľudmila, Uhliská 3, Bratislava Uhliská 3, Bratislava		0	7056
+3080	Ďuríčková Mária r. Brúderová, Roľnícka 247, Bratislava Roľnícka 247, Bratislava		0	7056
+3080	Elbogen Izidor		0	5557
+3080	Fašung Albert r. Fašung, Jakubovo námestie 1, Bratislava Jakubovo námestie 1, Bratislava		0	7056
+3080	Fašung Cyprián	zomrel 01.03.2000	0	5582
+3080	Fašung Jozef	manž. Mária, rod. Tesárová	0	4634,6176
+3080	Fašung Ľudovít	zomrel	0	5638
+3080	Fašung Martin		0	5405
+3080	Fašung Matej	zomrel 01.08.1980, manž. Albína	0	3873,4634,5053,5399,5647,6176
+3080	Fašung Miroslav		0	5651
+3080	Fašung Štefan	zomrel	0	5609
+3080	Fašung Štefan	zomrel 01.09.1967	0	4634,6176
+3080	Fašung Valér r. Fašung, Roľnícka 121, Bratislava Roľnícka 121, Bratislava		0	7080
+3080	Fašung Vladimír	I	0	5651
+3080	Fašungová Alžbeta r. Belajová	zomrela 04.03.1985	0	4634,6176
+3080	Fašungová Alžbeta r. Feketeová		0	5715
+3080	Fašungová Alžbeta r. Panáková		0	1242
+3080	Fašungová Anna r. Hlavatá		0	4634,6176
+3080	Fašungová Etela r. Belajová	zomrela 04.11.1992	0	4634,5405,5598,6176
+3080	Fašungová Mária r. Feketeová	manž. František	0	2448,5420
+3080	Fašungová Mária r. Glonecová		0	4634,5573,6176
+3080	Fašungová Mária r. Tesárová	zomrela 05.12.1972	0	4634,6176
+3080	Fašungová Mária r. Tichá		0	7056
+3080	Fašungová Mária r. Zemanová, Baničova 52, Bratislava Baničova 52, Bratislava		0	7076
+3080	Fašungová Terézia, Novohorská 17, Bratislava Novohorská 17, Bratislava		0	7056
+3080	Fašungová Vlasta		0	5651
+3080	Fašungová Zdenka		0	5651
+3080	Fekete Bedrich		0	3844,5231,5239
+3080	Fekete Cyril r. Fekete, Dolná 121, Zohor Dolná 121, Zohor		0	7056
+3080	Fekete František r. Fekete, Ing., Komenského 18, Michalovce Komenského 18, Michalovce		0	7056
+3080	Fekete František r. Fekete, Mlynarovičova 11, Bratislava Mlynarovičova 11, Bratislava		0	7056
+3080	Fekete Fridrich r. Fekete, Dunajská 58, Bratislava Dunajská 58, Bratislava		0	7056
+3080	Fekete Jozef		0	5553
+3080	Fekete Jozef	zomrel	0	3216,3689
+3080	Fekete Jozef	zomrel 09.08.1989	0	5555
+3080	Fekete Jozef r. Fekete, Riazanská 81, Bratislava Riazanská 81, Bratislava		0	7056
+3080	Fekete Martin	I	0	2459,4634,6176
+3080	Fekete Štefan	zomrel	0	2333
+3080	Fekete Štefan	zomrel 04.03.1982, manž. Mária, rod.Brúderová	0	4634,6176
+3080	Feketeová Agnesa r. Axamitová	zomrela 19.06.1968	0	2630
+3080	Feketeová Apolonia r. Zemanová	zomrela 24.11.1984	0	4827,5490
+3080	Feketeová Júlia r. Mezzeiová		0	5732
+3080	Feketeová Katarína r. Vitálošová	zomrela	0	4634,6176
+3080	Feketeová Katarína r. Žišková	zomrela 24.05.1968	0	5508
+3080	Feketeová Kristína r. Orthová		0	5567
+3080	Feketeová Mária r. Brúderová	zomrela 09.03.1981	0	4634,5560,6176
+3080	Feketeová Terézia r. Vlčeková	manž. Ján	0	5604
+3080	Feketeová Terézia r. Zemanová	zomrela 17.02.1993	0	4634,6176
+3080	Feketová Katarína, Roľnícka 131, Bratislava Roľnícka 131, Bratislava		0	7080
+3080	Fialová Anna r. Brichtová	zomrela 19.05.1977	0	5646
+3080	Franková Ľudmila r. Grebečiová, Tranovského 43, Bratislava Tranovského 43, Bratislava		0	7056
+3080	Fulop Daniel		0	5669
+3080	Fulopová Albína r. Zemanová		0	5669
+3080	Gloncová Viktória r. Feketová, Roľnícka 25, Bratislava Roľnícka 25, Bratislava		0	7080
+3080	Glonec Jozef		0	5502
+3080	Glonec Ľudovít		0	4634,6176
+3080	Glonec Štefan		0	4634,6176
+3080	Glonecová Kristína r. Benčičová	zomrela	0	2547,4634,5479,6176
+3080	Golecová Uršula r. Zemanová	zomrela 03.05.1991	0	4634,6176
+3080	Grebeči Alojz	zomrel 02.08.1968	0	4634,6176
+3080	Grebeči Ernest	zomrel 19.11.1992	0	5584
+3080	Grebeči František r. Grebeči, Pri starom letisku 32, Bratislava Pri starom letisku 32, Bratislava		0	7384
+3080	Grebeči Ján		0	3228
+3080	Grebeči Jozef	zomrel 12.07.1995	0	4438
+3080	Grebeči Jozef	zomrel 25.04.1973	0	4217,5500
+3080	Grebeči Štefan		0	4634,6176
+3080	Grebeči Vavrinec		0	4634,6176
+3080	Grebečiová Albína r. Fašungová		0	5680
+3080	Grebečiová Alžbeta		0	5412
+3080	Grebečiová Amália, Baničova 34, Bratislava Baničova 34, Bratislava		0	7056
+3080	Grebečiová Anna r. Vitálošová		0	5422
+3080	Grebečiová Mária r. Nádaždyová	zomrela 15.06.1975	0	7384
+3080	Grebečiová Mária r. Zemanová	zomrela	0	3228
+3080	Grebečiová Terézia r. Filipovičová		0	5427
+3080	Grof Bedrich		0	5395
+3080	Grof Karol		0	5395
+3080	Grofová Marta r. Štegerová		0	5395
+3080	Gscheweng Pavol		0	5379
+3080	Haverlová Terézia r. Vitálošová	zomrela 04.11.1957	0	2250,2686,4634,6176,6552
+3080	Hlavatá Jozefína r. Bajbárová	zomrela 30.09.1976	0	2547
+3080	Hlavatá Katarína r. Danihelová		0	5581
+3080	Hlavatý Štefan	zomrel 23.12.1975	0	4634,6176
+3080	Horáček Ján	ml	0	5679
+3080	Horáček Ján	st	0	5679
+3080	Horáček Jozef		0	5679
+3080	Horáčková Hedviga r. Feketeová	zomrela 18.08.1977	0	3031
+3080	Horáková Vilma r. Poppyová		0	5695
+3080	Hordossyová Margita r. Sedláková		0	5384
+3080	Horváth Imrich Ing.	Ivánka pri Dunaji 42	0	5483
+3080	Horváthová Agneša r. Grebečiová, Šaldova 9, Bratislava Šaldova 9, Bratislava		0	7384
+3080	Hoššová Alžbeta r. Molnárová		0	5697
+3080	Hríň Anton	manž. Irena	0	5701
+3080	Hríňová Irena		0	5701
+3080	Hudecová Paulína r. Zemanová, Tolstého 1, Bratislava Tolstého 1, Bratislava		0	7080
+3080	Hudeková Mária r. Rybárová	zomrela 03.07.1983	0	4163
+3080	Jajcai Florián	zomrel	0	5636
+3080	Jajcaj Martin	manž. Karolína	0	4634,6176
+3080	Jajcajová Karolína r. Vitálošová		0	4634,6176
+3080	Janderla Cyril r. Janderla, Sibírska 31, Bratislava Sibírska 31, Bratislava		0	6984,7005
+3080	Janderla František	zomrel, I	0	5332
+3080	Janderla František	zomrel, II	0	4634,5332,5642,6176
+3080	Janderla František r. Janderla	zomrel, I	0	7384
+3080	Janderla František r. Janderla	zomrel, II	0	7384
+3080	Janderla Michal	zomrel	0	5434
+3080	Janderlová Františka	zomrela	0	4634,5332,5642,6176,7384
+3080	Janderlová Mária r. Tolová		0	4634,5434,6176
+3080	Janderlová Terézia r. Matulová	zomrela 19.08.1982	0	4634,5516,6176,7384
+3080	Janderlová Terézia r. Matulová	zomrela 19.08.1982; zomrela 19.08.1982	0	5332
+3080	Janderlová Viera r. Panáková, Veľké Štepnice 9, Bratislava Veľké Štepnice 9, Bratislava		0	7384
+3080	Jaroš Jozef	manž. Allaina	0	5678
+3080	Jarošová Allaina r. Kudrnáčová		0	5678
+3080	Jaslovská Amália r. Antalicová		0	5335
+3080	Jaslovská Amália r. Antalicová	zomrela 19.01.1988	0	2390
+3080	Jaslovská Amália r. Antalicová	zomrela 19.01.1988; zomrela 19.01.1988	0	2113
+3080	Jaslovská Emília r. Glonecová	zomrela 01.07.1993	0	4634,5729,6176
+3080	Jaslovská Mária r. Feketeová		0	4634,5038,6176
+3080	Jaslovský Robert		0	4634,6176
+3080	Jeleňová Jozefína r. Fašungová, Hutnícka 221, Most v Čechách Hutnícka 221, Most v Čechách		0	7384
+3080	Ježo Ferdinand		0	5527
+3080	Ježo Milan		0	5527
+3080	Jurkovič Jozef r. Jurkovič, Roľnícka 234, Bratislava Roľnícka 234, Bratislava		0	6993
+3080	Jurkovičová Mária r. Vlčková		0	4634,6176
+3080	Kadnárová Alžbeta r. Barečková		0	4634,6176
+3080	Katulincová Mária r. Preisingerová		0	5557
+3080	Katulinec Martin	manž. Mária	0	5557
+3080	Kloučeková Gabriela r. Jaslovská, J. Smreka 26, Bratislava, zom.23.10.2007 J. Smreka 26, Bratislava, zom.23.10.2007		0	7384
+3080	Kozubová Hedviga r. Poláková	zomrela 17.09.1985	0	5565
+3080	Krištofič František	zomrel 22.12.1960	0	4634,6176
+3080	Krištofič Ján		0	2553
+3080	Krištofič Jozef r. Krištofič, Blumentálska 4, Bratislava Blumentálska 4, Bratislava		0	7384
+3080	Krištofič Ľudovít	zomrel	0	3530
+3080	Krištofič Štefan	zomrel 20.05.1984	0	4634,6176
+3080	Krištofičová Karolína r. Pelikánová, Hlavná 998, Stupava Hlavná 998, Stupava		0	7384
+3080	Krištofičová Mária r. Belaiová		0	4634,5376,6176
+3080	Krištofičová Mária, Roľnícka 216, Bratislava Roľnícka 216, Bratislava		0	7384
+3080	Krištofičová Rozália	zomrela	0	5666
+3080	Krištofičová Rozália r. Nádaždyová	zomrela	0	5476
+3080	Kršáková Mária r. Rozehnalová, Kukučínova 523, Kolta, zom.20.02.2013 Kukučínova 523, Kolta, zom.20.02.2013		0	7384
+3080	Lelovský Štefan		0	5696
+3080	Lešková Amália r. Zemanová, Roľnícka 148, Bratislava Roľnícka 148, Bratislava		0	7184
+3080	Lešková Serafína r. Zemanová		0	5740
+3080	Lobpreisová Terézia r. Kudrnáčová	zomrela 06.08.1973	0	5405
+3080	Lopoš Juraj	manž. Katarína	0	5676
+3080	Lopošová Katarína r. Brúderová		0	5676
+3080	Machálková Oľga, Roľnícka 320, Bratislava Roľnícka 320, Bratislava		0	7384
+3080	Markúsková Ľudmila, Studenohorská 43, Bratislava Studenohorská 43, Bratislava		0	7056

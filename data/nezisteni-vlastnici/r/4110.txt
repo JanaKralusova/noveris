@@ -1,0 +1,256 @@
+2325	Podolinská Eva r. Kurecová		0	1957
+2325	Podolinská Eva r. Kurecová, SR		1	837,1400,1455,1770,1771,1772
+2325	Podolinský Ondrej	ž.Mária r.Michná	1	837,1455,1770
+2325	Podolinský Ondrej r.	ž.Mária r.Michná	1	1771
+2325	Podolinský Ondrej, SR	ž.Mária r.Michná	1	1772
+2325	Podolinský Ondrej, SR	ž.Mária r.Michná ž.Mária r.Michná	1	1400
+2325	Podolinský Ondrej, ž.Mária, r.Michná ž.Mária, r.Michná		0	1957
+2325	Praženicová Mária, SR	zom.15.04.1982; Lovíšková zom.15.04.1982; Lovíšková	1	1618
+2325	Praženicová Paulína, SR	Furendová Furendová	1	1717
+2325	Rovňanová Alžbeta, SR	Dúbravková; zom. Dúbravková; zom	1	1478
+2325	Salakova Maria r. Acjakova, SR		0	920
+2325	Slanička Ján, SR	zom.12.11.1975 zom.12.11.1975	1	1621,2727
+2325	Slaničková - Šnajdrová Jozefína, SR		0	1081,2839
+2325	Slaničková Šnajdrová Jozefína		0	2159
+2325	Smolka Rastislav		0	1923,1924,1925,1926,1927,1928,1933,2050
+2325	Smolka Rastislav Jozef, SR	zom. zom	1	1732
+2325	Smolková Štefánia r. Dubravková		0	2117
+2325	Staníček Ondrej		0	2607
+2325	Staníček Štefan		0	2607
+2325	Sutoricova Anna, SR		0	911
+2325	Šamaj Frantisek r. Šamaj	o.Ján m. Barbora r. Holáš	0	884
+2325	Šamaj František		0	1922
+2325	Šamaj Jozef, o.Imrich , m. Mária r. Husárová o.Imrich , m. Mária r. Husárová		0	1961
+2325	Šamaj Jozef, SR		0	1447
+2325	Šamaj Michal		0	1922
+2325	Šamaj Štefan r. Šamaj		0	1961
+2325	Šamaj Štefan, SR		0	1447
+2325	Šamajová Agnesa r. Mitašová		0	1961
+2325	Šamajová Agnesa, SR	Mitašová	0	1447
+2325	Šamajová Anna		0	1961
+2325	Šamajová Anna, SR		0	1447
+2325	Ševčík Jurina Pavel		0	1959
+2325	Ševčík Jurina Pavel, SR		0	1015,1016
+2325	Šipka Ľudovít		0	1915,2121
+2325	Škola Ján		0	1959
+2325	Škola Ján, SR		0	1015,1016
+2325	Škripcová Agnesa		0	2264
+2325	Škripcová Agnesa, SR		0	1275,1343
+2325	Škripcová Mária r. Slaničková		0	1923,1924,1925,1926,1927,1928,1935,1952
+2325	Škripcová Mária, SR	Slaničková	0	1217,1506,1539,1540,1541
+2325	Škripcová Zuzana r. Cvašková		0	1923,1924,1925,1926,1927,1928,2006
+2325	Škripcová Zuzana, SR	Cvašková	0	1506,1539,1540,1541
+2325	Škripcová Zuzana, SR	Cvašková; zom. Cvašková; zom	1	1632
+2325	Škripcová Zuzana, SR	zom.; Cvašková zom.; Cvašková	1	1631
+2325	Šukalová Mária		0	1910
+2325	Šušolová Jozefína r. Šamajová o.Imrich , m. Mária r. Husárová		0	1922
+2325	Šutoris Pavel		0	2583
+2325	Šutoris Pavel, SR		0	1245
+2325	Šutorisová Gabriela		0	2583
+2325	Švecová Žofia r. Nováková	otec Jozef	1	1455
+2325	Švecová Žofia r. Nováková, otec Jozef otec Jozef		0	1957
+2325	Švecová Žofia r. Nováková, PREDMIER, SR	otec Jozef otec Jozef	1	837,1770,1771,1772
+2325	Švecová Žofia r. Nováková, SR	otec Jozef otec Jozef	1	1400
+2325	Švíková Jozefína r. Ďurišová		0	1957
+2325	Švíková Jozefína r. Ďurišová, PREDMIER, SR		1	837,1770,1771,1772
+2325	Švíková Jozefína r. Ďurišová, SR		1	1400,1455
+2325	Tarhaj A Ján		0	2085
+2325	Tarhaj B Ján		0	1923,1924,1925,1926,1927,1928,2391
+2325	Tarhaj B Ján, SR		0	1209,1506,1539,1540,1541
+2325	Tarhajová Anna r. Čičková		0	1923,1924,1925,1926,1927,1928
+2325	Tarhajová Anna, SR	Čičková	0	1506,1539,1540,1541
+2325	Tarhajová Tekla r. Čičková		0	1923,1924,1925,1926,1927,1928,2181
+2325	Tarhajová Tekla, SR	Čičková	0	1209,1506,1539,1540,1541
+2325	Tatranský Alexander		0	2026
+2325	Tomaník Ján, SR	zom.01.08.1988 zom.01.08.1988	1	1609
+2325	Tomaníková Anna, SR	zom.27.09.1986; Smolková zom.27.09.1986; Smolková	1	1609
+2325	Trúchla Anna r. Bacmaňáková		0	1959
+2325	Trúchla Anna, SR	Bacmaňáková	0	1015,1016
+2325	Uhrínová Jaroslava r. Chladná		0	2562
+2325	Uhrínová Jaroslava, SR	Chladná Chladná	1	1687
+2325	Uricek Rudolf, SR		0	919
+2325	Urickova Maria r. Smolkova, SR		0	919
+2325	Uríčková Johanna, SR	Michalcová Michalcová	1	1709
+2325	Václavík Cyril	- v Amerike	1	1604
+2325	Václavík Cyril	-v Amerike	1	1605
+2325	Václavík Demeter, nar. 30.11.1885, MANŽ. AGNEŠA R. VOZATÁROVÁ nar. 30.11.1885, MANŽ. AGNEŠA R. VOZATÁROVÁ		0	1923,1924,1925,1926,1927,1928
+2325	Václavík Justín		0	1923,1924,1925,1926,1927,1928,2052
+2325	Václavík Justín, SR		0	1224,1506,1539,1540,1541,2629
+2325	Václavíková Jozefína, SR	zom. zom	1	1604
+2325	Valášek Anna r. Václavík		0	2777
+2325	Valášek František, SR		0	1333
+2325	Veselá Štefánia		0	1915,2583
+2325	Veselá Štefánia, SR		0	1045,2842
+2325	Višňáková Katarína Vd. r. Kučáková, Maršová, č. 86, SR		0	1755
+2325	Vrbovská Anna Ďurišová, SR		1	1400
+2325	Vrbovská Anna r. Ďurišová		0	1957
+2325	Vrbovská Anna r. Ďurišová, PREDMIER, SR		1	837,1770,1771,1772
+2325	Vrbovská Anna r. Ďurišová, SR		1	1400,1455
+2325	Zrebný Ondrej, SR		0	1283
+2326	Bačurík Andrej r. Bačurík		0	2276
+2326	Bačurik Ondrej r. Bačurik		0	2275,2277,2844,3144,3145,3236
+2326	Bačúrik Pavel r. Bačúrik	zomrel 6.5.1987, D 906/87.- 7/88	0	3144,3145
+2326	Bagín Štefan r. Bagín	zomrel 10.5.1997, D 1256/97.-19/99, D 656/00.-82/00	0	3738
+2326	Bahna Andrej r. Bahna		0	2444
+2326	Bahna Anton r. Bahna, JUDr.	zomrel 9.4.1999, D 884/99.-48/00 Prejta	0	3030
+2326	Bahna Jozef r. Bahna	Ondrej,Alžbeta	0	2444,2451,3198,3199,3200
+2326	Bahna Ondrej r. Bahna		0	2451,2818
+2326	Bahna Rudolf r. Bahna		0	2806
+2326	Bahnová Alžbeta		0	2444,2451
+2326	Bahnová Mária r. Bridíková	manž.Ondrej, dcéra Rozália Bridíková r. Bahnová 1909	0	2517,2816,3097,3205,3406
+2326	Bahnová Mária r. Makásová	m.Jozef	0	2448
+2326	Bakoš Jozef r. Bakoš	zomrel 19.1.1996, D 300/96.- 68/97 Prejta	0	2093,2446
+2326	Bakoš Štefan r. Bakoš		0	2093,2446
+2326	Bakošová Mária		0	2093,2446
+2326	Balážová Anna	Prejta č.86	0	3361
+2326	Bartáková Mária		0	2378,3185
+2326	Baško Ondrej r. Baško	Lieskovec č.38	0	2492,2617,3305
+2326	Benešová Margita r. Bieliková	zomrela 23.3.2007, 29D 275/07.-203/07	0	3738
+2326	Beniak Ján r. Beniak	zomrel 4.7.1976, D 1502/88.-19/89	0	3040
+2326	Bezecná Katarína		0	2407,2408,3055,3056
+2326	Bezecný Jozef r. Bezecný	zomrel 5.3.1975, D 340/75.-165/79 Dca	0	2407,2408
+2326	Bielik Jozef r. Bielik	zomrel 2.9.1971, D 799/71.-12/72	0	2844
+2326	Bielik Pavol r. Bielik	matka Agnesa Bieliková r. Repková	0	2379
+2326	Bieliková Agnesa r. Repková	manžel Jozef	0	2379,3279
+2326	Blaško Adam r. Blaško	zomrel 24.1.1988, D 970/94.-17/95	0	3139
+2326	Bridík Adam r. Bridík	starší, zom. 25.07.1942	0	2357,2512,3179,3721
+2326	Brídik Adam r. Brídik	ž.Katarína Žiačeková, zomrel 15.1.1984,1D 538/84.-25/85	0	2466
+2326	Brídik Ján r. Brídik	Zigo,zomrel 28.1.1970, D 161/70.-16/71	0	3344
+2326	Bridík Martin r. Bridík		0	2466,3379
+2326	Bridík Ondrej r. Bridík	zomrel 19.12.1985, 1D 145/86.-36/86 Prejta	0	2818
+2326	Bridík Pavol r. Bridík		0	3345
+2326	Bridíková Anna		0	2582
+2326	Bridíková Katarína r. Zigová	m.Adam	0	2320,2333,3153
+2326	Brídiková Katarína r. Žiačeková		0	2655
+2326	Bridíková Mária		0	3343
+2326	Brídiková Mária r. Žilková	zomrela 11.10.1962, D 1336/84.-6/87	0	2214
+2326	Briestenská Anna r. Kamasová	zomrela 22.2.1990, D 789/90.-41/92 Klobušice	0	2116,2376,3093,3486,3876,3877
+2326	Briestenský Anton r. Briestenský	zomrel 29.6.2003, naposledy Okružná 61/41, Ilava - Klobušice	0	3197
+2326	Briestenský Emil r. Briestenský	zomrel 13.7.2005, 10D 1264/05.-15/08	0	3738
+2326	Brtišová Helena r. Kubovičová	zomrela 6.11.2003, 23D 1061/03.-40/05	0	3738
+2326	Bušík Ján r. Bušík	zomrel 21.07.1997, 9D 1887/99.-51/00	0	3249,3307,3444,3446,3447
+2326	Bušík Ondrej r. Bušík		0	3249
+2326	Bušíková Mária r. Pitvorcová	zom. 26.10.1967,D 886/67.-2/71	0	2386,2530,2531,2634,3149,3163,3164,3577
+2326	Capák Ján r. Capák		0	2229,2327
+2326	Černayová Anna r. Bašková		0	2492
+2326	Čuga Baltazár r. Čuga		0	3253
+2326	Dian Adam r. Dian		0	3570
+2326	Dian Adam r. Dian	2	0	3570
+2326	Dian Adam r. Dian	na neznámom mieste	0	3570
+2326	Dian Adam r. Dian	Nagykoru	0	2323,2324,2327,2545,3152,3899
+2326	Dian Adam r. Dian	ž. Anna Solíková, zomrel 20.12.1964, D 519/67.-6/71	0	2323,2327,2549,2550,2624,2857,2858,2859,3152,3250,3251,3282,3299,3622,3623,3888,3889,3899
+2326	Dian Andrej r. Dian		0	3570
+2326	Dian Andrej r. Dian	maloletý	0	3570
+2326	Dian Ján r. Dian		0	2295,2296,2494,2618,3299,3316,3317,3421,3447
+2326	Dian Ján r. Dian	maloletý	0	2618,3316,3317,3421
+2326	Dian Ján r. Dian	nezvestný	0	3048,3049,3050,3260,3318
+2326	Dian Jozef r. Dian	manž. Anna Dobošová	0	2545
+2326	Dian Jozef r. Dian	manž. Anna r. Dobošová	0	2545
+2326	Dian Jozef r. Dian	súrodenci Juraj, Ján, Katarína	0	3048,3049,3050,3260,3318
+2326	Dian Jozef r. Dian	súrodenci Ondrej, Anna	0	3250
+2326	Dian Jozef r. Dian	zomrel 7.8.1967	0	3250,3251,3282
+2326	Dian Martin r. Dian	ž. Alžbeta r. Záhradníková,zomrel 11.1.1958,D 1852/95.-42/98.- 50/00	0	3251
+2326	Dian Ondrej r. Dian	naposledy Za štadiónom 192/17, 029 57 Demänová	0	3570
+2326	Dian Ondrej r. Dian	zomrel 5.6.1969, D 613/69.- 19/70	0	2327,2332,2549,2550,2624,2857,2858,2859,3152,3250,3251,3282,3622,3623,3888,3889
+2326	Dian Ondrej r. Dian, SR	Andrej	0	3570
+2326	Dian Štefan r. Dian	m.Katarína r.Žiačeková	0	2295,2296
+2326	Dianová Alžbeta r. Zahradníková	m.Martin	0	2633,3617
+2326	Dianová Anna r. Domáňová	zomrela 8.5.2006, 29D 605/06.-73/07	0	3738
+2326	Dianová Anna r. Mutalová		0	3246,3247
+2326	Dianová Anna r. Porubská	Lieskovec č.16	0	2657,3183
+2326	Dianová Anna r. Pšeneková		0	2407,2408
+2326	Dianová Anna r. Solíková	zomrela 26.1.1973, D 487/73.-11/74	0	3245
+2326	Dianová Katarína r. Pučeková	vdova	0	2295,2296
+2326	Dianová Katarína r. Žiačeková		0	3292,3316
+2326	Dianová Mária r. Dianová	m.Jozef	0	2466
+2326	Dianová Mária r. Gáborová	zomrela 10.11.1983,1D 216/83.-20/84, D 1851/95.-25/98	0	3247,3248
+2326	Dianová Matilda		0	2618,3316,3317,3421
+2326	Doboš Martin r. Doboš	zomrel 27.4.1992, 2D 1262/92.-119/92	0	2428
+2326	Doboš Ondrej r. Doboš	zomrel 5.9.1969, D 826/69.-10/72	0	2428,2648
+2326	Doboš Pavol r. Doboš	zomrel 23.12.1967, 9D 358/00.-141/00 Prejta	0	3223
+2326	Doboš Štefan r. Doboš	zomrel 12.5.1988, D 842/91.-53/92	0	2428
+2326	Dobošová Alžbeta r. Prekopová	zomrela 9.11.1954, D 599/67.-60/67, D 1333/91.-40/00	0	2806
+2326	Dobošová Katarína r. Tomaničková	m.Jozef	0	2306,2308,2310,2311,2312,2313,2314,2388,2634,3149,3163,3164,3241,3887
+2326	Dobošová Mária r. Žilková		0	2275,2276,2277,2844,3144,3145,3199
+2326	Dobošová Veronika r. Čugová	zomrela 30.8.2001, naposledy Prejtská 103/110, Dubnica nad Váhom - Prejta	0	3738
+2326	Dolinská Katarína r. Mináriková	m.Martin	0	2492,2658
+2326	Dubničková Katarína r. Zigová		0	2459,3457
+2326	Dudáčková Anna r. Opátová	zomrela 28.12.1988, D 1485/91.- 24/92, D 336/90.- 46/91	0	2383,3238
+2326	Ďurinová Mária r. Porubszká	Sládkovičovo 251	0	2549,2857,3282,3623,3888
+2326	Duschnitzová Františka r. Rothová		0	2685
+2326	Duvač Adam r. Duvač	zomrel 3.1.1975, D 856/78.- 92/79 Dca	0	2122,2229
+2326	Duvač Ján r. Duvač	zomrel 14.5.1994, naposledy 053 11 Iliašovce 76	0	1846
+2326	Duvač Jozef r. Duvač	Štefánia r. Špániková, Prejta č.79	0	2093,2229,2818,3170,3171,3200
+2326	Duvač Rudolf r. Duvač	zomrel 21.3.1981, 2D 460/81.- 31/84	0	2093,2122
+2326	Duvačová Zuzana		0	3343
+2326	Fajtová Rozália r. Kvasnicová	údernícke domy 889 DCA	0	3343
+2326	Fulecová Anna r. Šlesárová		0	2323,2545,2852,3207,3208,3899
+2326	Fulecová Margita r. Pavlačková		0	3351
+2326	Gáborová Anna r. Tomaničková		0	3149,3163,3164,3241
+2326	Gáborová Anna r. Zigová	zomrela 23.11.1955, D 447/94.-29/98	0	3139
+2326	Gallová Anna r. Mutalová	zomrela 12.3.2001, 4D 546/01.-132/01 Prejta	0	3026
+2326	Gažová Katarína r. Šlesarová	Prejta č.17	0	2545
+2326	Gogová Helena r. Kamasová	zomrela 15.7.2000, 4D 1331/00.-40/01 Prejta	0	3486
+2326	Gulíková Mária r. Záhradníková		0	3301
+2326	Gurica Ondrej r. Gurica		0	2657,3183
+2326	Guricová Katarína r. Hudcovská	zomrela 7.1.1968, D 59/68.-28/69	0	2490,2657,3183
+2326	Gyözöová Ilona r. Rothová	m.Dezider	0	2685,3284,3352
+2326	Habšuda Adam r. Habšuda	Lieskovec č.17	0	2422,3261
+2326	Habšuda Ján r. Habšuda		0	3261
+2326	Habšuda Jozef r. Habšuda		0	3261
+2326	Habšuda Ondrej r. Habšuda		0	2422,3261
+2326	Habšuda Štefan r. Habšuda		0	2422,3261
+2326	Habšudová Magdaléna r. Mináriková		0	3431
+2326	Hladká Anna r. Hladká	zomrela 7.6.1999, naposledy Trenčianska 727/45, Nová Dubnica	0	2848,3279
+2326	Hladká Gizela r. Plesnivá		0	2848
+2326	Horečný Ján r. Horečný	zomrel 4.2.2002, naposledy Prejtská 144/169, 018 41 Dubnica nad Váhom - Prejta	0	3252
+2326	Horečný Jozef r. Horečný	Lieskovec č.47	0	3252
+2326	Horňáková Anna r. Žiačková		0	2450,3003,3169,3875,3878
+2326	Hrehušová Anna r. Mináriková		0	2674,3296,3308
+2326	Hrubá Ľudmila r. Kolmanová	zomrela 9.4.2006, naposledy Dca, Lieskovska 162/7	0	3438
+2326	Hudcovská Anna r. Tomaničková	zomrela 11.2.1987, D 405/87 chýba, D 118/94.- 49/95	0	2306,2388,3887
+2326	Hudcovský Jakub r. Hudcovský	zom. 13.05.1987	0	2490,3183
+2326	Hudecová Anna r. Zigová		0	1277
+2326	Chalupek Ján r. Chalupek		0	3471
+2326	Chalupek Jozef r. Chalupek		0	3471
+2326	Chalupek Ondrej r. Chalupek	nezvestný	0	3471
+2326	Chalupka Ondrej r. Chalupka	maloletý	0	3325
+2326	Chalupková Anna r. Mutalová		0	3394
+2326	Chlebana Jozef r. Chlebana	Košice , Trieda sov.armády 68/A	0	2450,2638,3276
+2326	Chrasta Ondrej r. Chrasta		0	2618,2619,2621
+2326	Chrasta Štefan r. Chrasta		0	2618,2619,2621
+2326	Chrastová Anna r. Zigová		0	3334,3335
+2326	Chrastová Mária		0	2618,2619,2621
+2326	Jančiová Anna	Bakošová, zomrela 1.9.1987, D 297/88.- 31/88	0	2093
+2326	Jendrašák Jozef r. Jendrašák	Jidrichova 1, Brno	0	3392
+2326	Juríková Magdaléna r. Chalúpková	Prejta č.27	0	2451,2524
+2326	Kadlečík Ondrej r. Kadlečík	m.Rozália r.Kvasnicová m.Rozália r.Kvasnicová	0	3065
+2326	Kadlečík Vojtech r. Kadlečík	zomrel 14.7.1997, naposledy Okružná 293/16, 018 41 Dubnica nad Váhom	0	3738
+2326	Kadlečíková Rozália r. Kvasnicová	m.Ondrej	0	3065
+2326	Kamas Ján r. Kamas	zom. 06.02.1958, m.Mária r. Pšeneková	0	2146,2446,2808,2810,3003,3195,3196,3197,3875,3878
+2326	Kamas Ján r. Kamas	zomrel 11.2.1971, D 237/71.-4/71, 1D 877/84.-4/85	0	2116,2376,2443,2446,2812,2813,2815,3093,3165,3486,3876,3877
+2326	Kamasová Mária r. Pšeneková	m.Ján, zomrela 16.6.1952	0	2831,3195
+2326	Kamenár Ján r. Kamenár	Prejta č.67	0	2376,3486
+2326	Kamenár Štefan r. Kamenár		0	2371
+2326	Kernová Magdaléna r. Opatíková		0	2431,2432,2453,3755
+2326	Kohút Ondrej r. Kohút	m. Alžbeta r.Gašparová	0	2446
+2326	Koníčková Anna r. Makásová	naposledy Pionierska 11, Dubnica nad Váhom	0	1673,2524
+2326	Kontrová Matilda r. Radichová		0	3065
+2326	Košútová Magda r. Opatová		0	2381,2382,2383
+2326	Koyšová Antónia r. Kvasnicová		0	3351,3356
+2326	Králik František r. Králik	zomrel 29.4.1981, 4D 551/81.- 130/81 Dca	0	2287,3303,3366
+2326	Králik Ján r. Králik	zomrel 19.10.1974, D 555/75.-5/76	0	2287,3303,3366
+2326	Králik Jozef r. Králik		0	1031,2120,2229,3883,3884
+2326	Králik Jozef r. Králik	m. Anna r.Kuciaková	0	3169,3170,3171,3255
+2326	Králik Ladislav r. Králik	naposledy Slavnica 5, zomrel 15.7.1991, D 1579/91.- 38/94 Slavnica	0	2287,3303,3366
+2326	Králiková Anna r. Kuciaková	zomrela 20.1.1953, D 366/73. - 46/74	0	3170,3171
+2326	Kubovič Ján r. Kubovič	Jakub, m.Katarína r.Mutalová	0	2303,2433
+2326	Kubovič Ján r. Kubovič	ml. č.60	0	2383
+2326	Kubovič Ján r. Kubovič	zomrel 26.7.1985, 1D 1494/85.-28/86, D 1483/91.- 22/92	0	2854
+2326	Kubovič Jozef r. Kubovič	zomrel 28.02.1992, D 825/92.- 14/94	0	2854
+2326	Kubovič Rudolf r. Kubovič	zomrel 31.12.1991, D 930/98.-54/99	0	2638
+2326	Kubovičová Eva r. Mutalová		0	2431,2432,2433,2453,3755
+2326	Kubovičová Katarína r. Mutalová	m. Ján,Jakub	0	2303,2854
+2326	Kubovičová Mária r. Kubovičová	r. Jakub a Katarína r. Mutalová, zomrela 16.9.1996, naposledy Stupava, Hlavná 380/13	0	2357,2431,2432,2433,2450,2453,2466,2467,2470,2638,2854,3755
+2326	Kubovičová Mária r. Kvasnicová	Prejtská 166/191, Dubnica nad Váhom - Prejta	0	3526
+2326	Kundová Katarína r. Opátová	zomrela 24.11.1977, D 173/78.-367/78 Dca	0	2381,2382,2383

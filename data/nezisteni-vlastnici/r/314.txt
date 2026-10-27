@@ -1,0 +1,256 @@
+196	Pašková Anna	č.d.894/31	0	912
+196	Pašková Antónia	č.d.514/20,mal	0	909
+196	Pavliatková Mária r. Horníková	č.d.1697/41	0	899,918,920
+196	Peťková Anna r. Petruchová	č.d.1154/30,manž.Jozef	0	888
+196	Peťovská Anna r. Mihalová	Bošianska Neporadza č. 269, č.d.1089/41,zomrela 1.4.1991	0	431
+196	Peťovská Antonia	Bošianska Neporadza č. 287, č.d.1985/46,zomrela 27.2.1978	0	1128
+196	Peťovská Antónia	č.d.1651/41,slobodná	0	1128
+196	Peťovská Aurelia	č.d.1651/41,vym.mal.č.d.1208/46	0	1128
+196	Peťovská Ilona	č.d.498/07,vym.mal.183/15	0	431,873,876,1033
+196	Peťovská Julia r. Pšenáková	č.d.3075/36,vd., manž Vendelín	0	426,428,1110
+196	Peťovská Maria r. Janošík	č.d.604/28	0	695
+196	Peťovská Maria r. Rychtárechová	č.d.604/28,manž.Štefan	0	695
+196	Peťovská Mária r. Rychtárechová	č.d.1640/41,čd.18	0	512,513,514,517,519,520,524,526,903,929,968,1020,1074,1075,1087,1107,1108,1250,1251,1252,1254,1255,1256
+196	Peťovská Zlatica	č.d.1985/46	0	1128
+196	Peťovský František	Bošianska Neporadza č. 269, č.d.1089/41,zomrel9.8.1995 Moteš	0	431
+196	Peťovský František	č.d.2454/33	0	431
+196	Peťovský František	č.d.582/43	0	431,1033
+196	Peťovský Ján	č.d.498/07	0	431
+196	Peťovský Ján	zomrel 1.4.2000 Svinná	0	431,642,695,858,873,874,876,1033
+196	Peťovský Jozef	č.d.1651/41,manž.Alojzia rod.Kučerková	0	1128
+196	Peťovský Jozef	č.d.1985/46	0	1128
+196	Peťovský Štefan	Bošianska Neporadza, č.d.523/07,vym.mal.č.d.873/08,zomrel 9	0	431,874
+196	Peťovský Štefan	č.d.2124/35	0	643
+196	Peťovský Vendel	č.d.1089/41	0	431
+196	Peťovský Vendel	č.d.1625/38	0	431,858,873,874,876,1033
+196	Peťovský Vendelín	č.d.2454/33,vym.mal.č.d.3491/34	0	431,642,695,858,873,874,876,1033
+196	Peťovský Vendelín	č.d.582/43	0	431,858,873,874,876,1033
+196	Práznovská Anna r. Rychtárechová	č.d.2685/29,manž.Michal,rodičia Michal a Mária rod.Hlobeňová	0	584,954,955,1004,1228
+196	Pšenáková Filomena r. Kopecká	Bošianska Neporadza č. 204, zomrela 29.9.1995	0	1048
+196	Rehak Kelement	č.d.173/56	0	1110
+196	Reháková Štefánia r. Tunegová	č.d.645/50,Bošianska Neporadza č.148	0	869,952
+196	Richtarech Ján	č.d.1675/07,manž.Anna rod.Hlobeňová	0	1091
+196	Richtarech Ján	č.d.891/21,manž.Julia rod.Kučerková	0	621
+196	Richtarech Jozef	č.d.475/07,vym.mal.č.d.89/25	0	956
+196	Richtarech Jozef	č.d.479/07	0	1024
+196	Richtarech Jozef	č.d.492/07,vym.mal.č.d.19/36	0	1116
+196	Richtarech Jozef	č.d.858/47	0	954,955,1228
+196	Richtarech Jozef	č.d.956/07	0	1024
+196	Richtarech Júlia	č.d.1741/13,mal	0	1116
+196	Richtarech Michal	č.d.858/47	0	954,955,1228
+196	Richtarech Ondrej	č.d.858/47	0	954,955,1228
+196	Richtárech Pavel	č.d.373/55	0	1052
+196	Richtarech Pavol	č.d.1741/13,vym.mal.č.d.384/29	0	1116
+196	Richtárech Pavol	č.d.895/21	0	1052
+196	Richtárech Vincenc	č.d.873/47	0	406,881,954,955,956,1100,1228
+196	Richtarechová Anna r. Hlobeňová	č.d.1675/07,manž.Ján	0	1091
+196	Richtárechová Helena r. Galková	č.d.645/23	0	1126
+196	Richtarechová Piroška	č.d.1741/13,mal	0	1071,1116
+196	Rybáry Jozef	č.d.2124/35	0	1139
+196	Rychtarech František	č.d.519/56	0	762
+196	Rychtarech Ignác	č.d.2514/34	0	514,517,526,527,1087,1251
+196	Rychtárech Ignác	č.d.1158/30,manž.Anna rod.Jánošíková	0	1070
+196	Rychtárech Ignác	č.d.2589/34	0	1107,1108,1254
+196	Rychtárech Ignác	č.d.3282/35	0	518
+196	Rychtárech Ignác	č.d.462/43,manž.Pavlina rod.Rychtarechová	0	1018
+196	Rychtárech Ignác	čd.54,č.d.1640/41	0	513,514,517,519,520,524,903,929,968,1020,1074,1087,1250,1251,1252,1255
+196	Rychtarech Ján	č.d.2079/36	0	865
+196	Rychtarech Ján	č.d.2589/34	0	1108
+196	Rychtarech Ján	č.d.335/55	0	839,1061
+196	Rychtárech Jan	č.d.2022/43	0	944
+196	Rychtárech Ján	č.d.1364/30,manž.Anna rod.Hlobenová	0	954,955,1228
+196	Rychtárech Ján	č.d.1640/41,čd.54	0	903,968
+196	Rychtárech Ján	č.d.2137/63	0	1066
+196	Rychtarech Jozef	č.d.2317/36	0	415
+196	Rychtarech Jozef	č.d.254/56	0	1057
+196	Rychtarech Jozef	č.d.916/26,murár	0	511
+196	Rychtárech Jozef	č.d.1542/23,syn Jána	0	1129
+196	Rychtárech Ľudevit	č.d.1937/38,vym.mal.č.d.653/40	0	1118
+196	Rychtarech Michal	č.d.1651/41,manž.Anna rod.Obrancová	0	1004,1013
+196	Rychtarech Michal	č.d.2589/34	0	1107,1108,1254
+196	Rychtarech Ondrej	č.d.2685/29,rodičia Michal a Mária rod.Hlobeňová	0	954,955,1004,1228
+196	Rychtarech Pavel	č.d.2514/34	0	514,517,526,527,1026,1087,1251
+196	Rychtarech Pavel	č.d.2589/34	0	1107,1108,1254
+196	Rychtarech Pavol	č.d.1651/41,slobodný	0	708
+196	Rychtarech Pavol	č.d.337/55	0	1131
+196	Rychtárech Pavol	čd.22,č.d.1640/41	0	512,513,514,517,968,1075,1087,1250,1251,1256
+196	Rychtarech Štefan	č.d.509/41,vym.mal.č.d.1079/46	0	951,1019,1094
+196	Rychtarech Vincenc	č.d.2390/43,mal	0	951,1019
+196	Rychtarechová Alžbeta	č.d.509/41,vym.mal.č.d.1079/46	0	1094
+196	Rychtárechová Alžbeta	č.d.2390/43	0	951,1019
+196	Rychtarechová Alžbeta r. Rychtarechová	č.d.452/31	0	509,1198,1232
+196	Rychtarechová Anastazia	č.d.2311/42,vym.mal.č.d.153/52	0	563
+196	Rychtarechová Anna	č.d.2311/42,vym.mal.č.d.801/50	0	563
+196	Rychtárechová Anna	č.d.326/28	0	563
+196	Rychtárechová Anna r. Hlobenová	č.d.1364/30,manž.Ján	0	955
+196	Rychtarechová Anna r. Obrancová	č.d.11/43	0	954,955,1228
+196	Rychtárechová Anna r. Pšenáková	č.d.1542/23	0	1129
+196	Rychtarechová Božena	č.d.2311/42,vym.mal.č.d.1695/50	0	563
+196	Rychtarechová Helena	č.d.509/41,vym.mal.č.d.1079/46	0	1094
+196	Rychtárechová Helena	č.d.2390/43	0	1019
+196	Rychtárechová Júliana r. Dučáková	č.d.1396/62	0	942
+196	Rychtarechová Mária	č.d.2124/35,mal	0	1137,1253
+196	Rychtarechová Mária r. Rychtarechová	č.d.1651/41,manž.Jánco	0	1120
+196	Rychtárechová Mária r. Rychtárechová	Bošianska Neporadza č. 226, zomrela 11.10.2003 Horné Srnie	0	524,929,1020,1107,1135,1254
+196	Rychtarechová Michaela	č.d.2079/36	0	865
+196	Rychtárechová Valéria r. Kopecká	č.d.2253/47	0	473
+196	Rychtarechová Valéria r. Kopecký	č.d.862/48	0	473
+196	Rychtarechová Zdenka	č.d.2311/42,vym.mal.č.d.801/50	0	563
+196	Súkeníková Anna r. Rychtarechová	č.d.273/57	0	712,761,765,767,907,965,1032,1065
+196	Svojčíková Vilma r. Horníková	č.d.361/50	0	761
+196	Šabatová Emília r. Laššová	Bohatcova č. 39, Brno 13 - Černá Pole, zomrela 17.9.2008 Tre	0	599
+196	Ševčíková Helena	č.d.1771/26	0	431
+196	Ševčíková Mila	č.d.1999/10,Bošianska Neporadza	0	431
+196	Šinková Antonia r. Obranecová	č.d.834/41	0	354,1069
+196	Tobolková Antonia r. Rychtárechová	č.d.2963/34	0	512,513,514,517,519,520,524,526,903,929,968,1020,1057,1074,1075,1087,1107,1108,1250,1251,1252,1254,1255,1256
+196	Tobolková Juliana r. Rychtárechová	č.d.2963/34	0	514,1087
+196	Tobolková Katarína r. Laššová	č.d.523/07	0	942
+196	Tunega Antónia	č.d.252/15,mal	0	948
+196	Tunega Gašpar	č.d.40/19,vym.mal.č.d.1594/33	0	371,476,479,480,482,880,1072,1073,1175,1176
+196	Tunega Ján	č.d.523/07,ml.,manž.Anna rod.Laššová	0	371,476,479,480,482,880,1072,1073,1175,1176
+196	Tunega Ján	č.d.645/50	0	869,952
+196	Tunega Jozef	č.d.1667/14,vym.mal.č.d.2296/31	0	869
+196	Tunega Jozef	č.d.2297/37	0	859,860,861,862,863,864
+196	Tunega Jozef	č.d.252/15,mal	0	948
+196	Tunega Jozef	č.d.437/07	0	949
+196	Tunega Jozef	č.d.842/22,mal	0	948
+196	Tunega Pavel	č.d.2297/37,zomrel 29.8.1988,Bošianska Neporadza240	0	859,860,861,862,863,864
+196	Tunega Pavol	Bošianska Neporadza č. 111, č.d.437/07,zomrel 28.10.1974	0	949
+196	Tunega Pavol	Bošianska Neporadza, č.d.1150/23,zomrel 22.10.1970	0	371
+196	Tunega Pavol	č.d.252/15,mal	0	948
+196	Tunega Robert	č.d.1653/24,mal	0	1043
+196	Tunega Vendelín	č.d.645/50	0	869,952
+196	Tunega Vincent	č.d.203/48	0	545,761,762,765,767,812,905,906,907,965,1032
+196	Tunegová Anna r. Pašková	č.d.767/47	0	482,879
+196	Tunegová Antonia	č.d.2297/37	0	859,860,861,862,863,864
+196	Tunegová Antonia	č.d.437/07	0	949
+196	Tunegová Antonia	č.d.842/22,mal	0	948
+196	Tunegová Antónia	č.d.1667/14,vym.mal.č.d.1875/27	0	869
+196	Tunegová Katerina r. Žemberová	č.d.1653/24,manž.Pavol	0	1043
+196	Tunegová Otília	č.d.1149/23,mal	0	479
+196	Tunegová Otília	č.d.40/19,vym.mal.č.d.1408/35	0	371,476,480,482,880,1072,1073,1175,1176
+196	Tunegová Štefania	č.d.2297/37	0	859,860,861,862,863,864
+196	Tunegová Štefánia	č.d.1667/14,vym.mal.512/29	0	869
+196	Tunegová Štefánia	č.d.252/15,mal	0	948
+196	Tunegová Štefánia	č.d.437/07	0	949
+196	Tunegová Štefánia	č.d.842/22,mal	0	948
+196	Uhrová Magdalena r. Richtárechová		0	940,942
+196	Urban Undraš Jozef	č.d.1369/38	0	505,506,691,904,916,1098,1239,1245
+196	Urbanovská Oľga	Trenčianské Jastrabie č.49	0	877
+196	Vranková Veronika r. Kováčiková	č.d.2843/32	0	1042
+196	Zavodská Vincencia r. Rychtarechová	č.d.1699/41	0	612,1046
+196	Zieger Jozef	č.d.1234/40	0	877,1174
+196	Zieger Jozef	č.d.1693/32	0	877,1174
+196	Zieger Štefan	č.d.1967/30	0	1085
+196	Žáčiková Alžbeta r. Martíšková	č.d.422/25,manž.Jozef	0	688
+196	Žáčiková Anna r. Sermová	č.d.800/33,manž.Ján	0	643
+196	Žáčiková Pavlína r. Ševčiková	č.d.633/34	0	479
+196	Žáčiková Pulína r. Ševčiková	č.d.2634/36	0	482,974
+197	....		0	464,989,1085
+197	ÁDÁMOVÁ Alžbeta	r. Matyiová m. Štefan	1	931,933
+197	ADI Jozef		1	374,1018
+197	ADIOVÁ Agnesa	r.Lakatosová	1	374,1018
+197	ANDERKOVICSOVÁ Mária	r.Bodnárová	1	484,512,1187
+197	BAJUSZOVÁ Alžbeta	r.Szabová zom. 8.6.1925	1	369
+197	BAKUROVÁ Helena	r.Kulcsárová	1	527
+197	BÁLINT Andrej		1	226,374,1016
+197	BÁLINT Ján, zom. 08.08.1996		1	226,374,763,1016
+197	BÁLINT Jozef		1	226,374,1016
+197	BÁLINT Jozef	ž.Zuzanar.Fincsiková	1	675,1091
+197	BÁLINT Štefan		1	931,933,940
+197	BÁLINT Vojtech	mal	1	931,933,940
+197	BÁLINTOVÁ Elena	r.Fečová	1	374,763,764,765
+197	BÁLINTOVÁ Irena	mal	1	931,933,940
+197	BÁLINTOVÁ Jolana	r.Illárová	1	940
+197	BÁLINTOVÁ Julianna	r.Tokárová	1	508,511,1009,1137,1190
+197	BÁLINTOVÁ Margita	mal	1	374
+197	BÁLINTOVÁ Rebeka	mal	1	931,933,940
+197	BÁLINTOVÁ Rozalia	r.Mišlaiová	1	244,433,469,715
+197	BÁLINTOVÁ Rózalia	r.Lajosová,muž Ondrej	1	374,1016
+197	BÁLINTOVÁ Viola	mal	1	931,933,940
+197	BALOGOVÁ Alžbeta	r.Stefanová; LSR	0	943
+197	BALOGOVÁ Mária	LSR	0	943
+197	BALOGOVÁ Mária	r. Kisová m. Karol	1	931,933
+197	BANGOVÁ Júlianna	r. Matyiová	1	931,933
+197	BARKO Alexander	č.d.4753/1912	1	156,440,1044,1089,1150
+197	BARKO Ján	č.d.2785/1913	1	156,440,1044,1089,1150
+197	BECKOVÁ Irma	r.Kleinová	1	374,925
+197	BENKÖOVÁ Helena	r.Czombosová	1	264,374,1166,1167
+197	BERCIK Gabriel	ž. Alžbeta r. Husztiová	1	931,933
+197	BERCIK Karol	ž.Zofia r.Bodnárová; LSR	0	943
+197	BERCIKOVÁ Alžbeta	r. Husztiová m. Gabriel	1	931,933
+197	BERCZIK Bartolomej		1	931,933
+197	BERCZIK Gábriel		1	931,933
+197	BERCZIK Juraj		1	931,933,934
+197	BERCZIK Karol		1	931,933
+197	BERCZIK Štefan		1	931,933
+197	BERCZIKOVÁ Žofia		1	931,933
+197	BERCZIKOVÁ Žofia	r. Bodnárová m. Karol	1	931,933
+197	BERCZIKOVÁ Žofia	r. Bodnárová m. Karol; LSR	0	943
+197	BERČÍK Alexander		1	931,933
+197	BÉRES Alexander		1	967
+197	BÉRESOVÁ Mária	mal	1	967
+197	BÉRESOVÁ Mária	r. Kiss m. František	1	931,933
+197	BÉRESOVÁ Žofia	r.Oroszová	1	833
+197	BÉREŠ Ján	ž.Jankovičová Maria; LSR	0	943
+197	Béreš Miloš		0	943
+197	BÉREŠ Ondrej	ž.Mária r.Czapová; LSR	0	943
+197	BÉREŠOVÁ Mária	r.Czapová; LSR	0	943
+197	BÉREŠOVÁ Mária	r.Jankovičová; LSR	0	943
+197	Berta Alexius		1	900
+197	Berta Elex		1	900
+197	Berta Gejza		1	900
+197	BERTA Ladislav		1	827
+197	BERTA Ľudovít		1	827
+197	Bertaova Alžbeta r. Czetoová		1	901
+197	BERTOVÁ Margita	roSzakácsová	1	956
+197	BODNÁR Alexander		1	415,1103
+197	BODNÁR Alexander	ž.Fani r.Fecsová	1	428,996,1015
+197	BODNÁR Alexander	ž.Mária r.Fecsová	1	164
+197	BODNÁR Bartolomej	vzd	1	996
+197	BODNÁR Gejza	mal	1	415,1103
+197	BODNÁR Ján		1	374,415,1103
+197	BODNÁR Ján	ptr.; LSR	0	943
+197	BODNÁR Ján	ž. Mária r. Tokárová	1	931,933
+197	BODNÁR Ján	ž.Helena Csubáková	1	415,1103
+197	BODNAR Jozef	14.08.1931 zom	1	415,1103
+197	BODNÁR Michal	vzd	1	996
+197	BODNÁR Michal	ž.Alžbeta r.Szovnosová	1	681,978,1069,1093
+197	BODNÁR Michal, 980 44, zom. 13.06.2001		1	291,415,484,512,753,755,1103,1187
+197	BODNÁR Mikuláš	ž. Mária r. Béresová	1	931,933
+197	BODNAR Ondrej	zom	1	618
+197	BODNAR Ondrej	zom. zom	1	618
+197	BODNÁROVÁ Alžbeta	r.Szovnasová muž Michal	1	165,166,978,1130
+197	BODNÁROVÁ Alžbeta	r.Tomasová	1	374
+197	Bodnárová Alžbeta r. Puškášová	manž. Ján /	1	714
+197	Bodnárová Barbora r. Puškášová	manž. Ján /	1	140,142,565,578,636,637,713
+197	BODNÁROVÁ Františka	r.Fecsová muž Alexander	1	374,1015
+197	BODNÁROVÁ Gizela		1	415,1103
+197	BODNÁROVÁ Ilona	mal	1	415,1103
+197	BODNÁROVÁ Ilona	r.Illešová	1	501,502,1105
+197	BODNÁROVÁ Ilona	r.Joszaiová muž Bartolomej	1	500
+197	BODNAROVA Julia	r.Fedorová 6.10.1919 zom	1	477
+197	BODNÁROVÁ Julianna	r.Kúnová	1	618
+197	BODNÁROVÁ Mária	r. Béresová m. Mikuláš	1	931,933,939
+197	BODNÁROVÁ Mária	r. Tokárová m. Ján	1	931,933
+197	BODNÁROVÁ Mária	r.Miczáková m.Ján	1	481
+197	BOHUTOVÁ Johanna	r. Illárová	1	931,933
+197	BÖLCSHÁZY Juraj	LSR	0	943
+197	BÖSÖRMÉNYI František	LSR	0	943
+197	BÖSÖRMÉNYI Jozef	ž.Zuzana r.Tarciová; LSR	0	943
+197	BÖSZÖRMÉNYIOVÁ Zuzana	r.Tárciová; LSR	0	943
+197	BRÉDOVÁ Mária	r.Vlasáčová; LSR	0	943
+197	BREDY Andrej	ž.Mária r.Vlasáčová; LSR	0	943
+197	BREDY Ján	LSR	0	943
+197	BREZO Pavol		1	374,1014
+197	BREZO Stefan	Mária r.Gabriová	1	374,1013
+197	BREZO Štefan	ž.Nina r.Rehová; LSR	0	943
+197	Brezo Štefan, SR		0	271
+197	BREZOVÁ Mária	r.Gabriová muž Štefan	1	374,1013
+197	BREZOVÁ Nina	r,Rehová; LSR	0	943
+197	CISNEROVÁ Gizela	r.Filipovicsová	1	925
+197	CSEHIOVÁ Mária	r. Kissová m. Štefan	1	931,933
+197	CSICSÁKOVÁ Júlia	r. Matyiová	1	931,933
+197	CSICSERI Bertalan		1	481,483,1222
+197	CSICSERI Ján	nar. 12.01.1917 zom	1	477,487,489
+197	CSICSERI Július		1	483,484,508,511,610,612,689,1137,1187,1190,1222

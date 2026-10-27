@@ -1,0 +1,256 @@
+2138	Šindelešová Barbora		1	3449,3489
+2138	ŠIPEKY František		1	3134,3135,5395,5398
+2138	ŠIPEKY František	mal	1	3134,3135,3650,5395,5398
+2138	ŠIPEKY Jozef		1	3134,3135,5395,5398
+2138	ŠIPEKY Michal	mal	1	3134,3135,5395,5398
+2138	ŠIPEKYOVÁ Helena	mal	1	3134,3135,5395,5398
+2138	ŠIPEKYOVÁ Mária	mal	1	3134,3135,5395,5398
+2138	Škudrna Ján		0	2907
+2138	Škudrnová Františka		0	2907
+2138	ŠKUDRNOVÁ Mária	r. Burandiková	1	3571
+2138	ŠKULEC Karol	mal	1	3468
+2138	ŠKULECOVÁ Helena	mal	1	3468
+2138	ŠKULECOVÁ Mária	mal	1	3468
+2138	ŠLAHOR Eduard		1	3381
+2138	ŠLAHOR Ferdinand		1	3381
+2138	Šlahor Gabriel		0	1206
+2138	ŠLAHOROVÁ Eda		1	3381
+2138	ŠLAHOROVÁ Helena	r. Rajčáková	1	3141
+2138	ŠLAHOROVÁ Júlia		1	3381
+2138	ŠLAHOROVÁ Mária		1	3381
+2138	ŠLAHOROVÁ N	manž. Peter	1	3087
+2138	ŠLAHOROVÁ Rozália		0	2084
+2138	ŠLICHTOVÁ Margita	r. Vitková	1	3341
+2138	ŠRÁMEK Alexander	manž. Emília r. Fraňová	1	1975
+2138	ŠRÁMEK Alexander	manž. Mária r. Jančárová	1	4795
+2138	ŠRÁMEK Bedrich		0	2316
+2138	ŠRÁMEK Bedrich	mal	1	3465
+2138	ŠRÁMEK Cyril		1	2038,2091,3231,3232
+2138	ŠRÁMEK Cyril	mal	1	3322
+2138	Šrámek Cyril, SR		0	1841,1849,5147
+2138	ŠRÁMEK Gabriel		1	3320
+2138	ŠRÁMEK Gabriel	manž. Mária r. Provodovská	1	3320
+2138	ŠRÁMEK Imrich	ml	1	2902
+2138	ŠRÁMEK Ján		1	1867,3274,3291,3465,3471
+2138	ŠRÁMEK Ján	mal	1	1975,2606,3087
+2138	ŠRÁMEK Ján	manž. Alojzia	1	3087
+2138	ŠRÁMEK Ján	manž. Barbora r. Viteková	1	2269
+2138	ŠRÁMEK Ján	manž. Júlia	1	2394
+2138	ŠRÁMEK Jozef		1	1975,3087,3411,5353
+2138	ŠRÁMEK Jozef	manž. Anna r. Kelebercová	1	4637
+2138	ŠRÁMEK Jozef	manž. Helena r. Tomšíková	1	1975,3087
+2138	ŠRÁMEK Jozef	manž. Mária r. Machová	1	4287
+2138	ŠRÁMEK Jozef	manž. Terézia r. Švecová	1	3225,3226,3227
+2138	Šrámek Jozef r. Šrámek		0	5144,5178
+2138	ŠRÁMEK Karol		1	1433,1842,2084,2092,2097,2605,3136,3137,3179,3575,4954,4955,5142,5562,5573
+2138	ŠRÁMEK Karol	manž. Anna r. Chovancová	1	1975,2606,3087,4777
+2138	ŠRÁMEK Karol	manž. Mária r. Gašparíková	1	4076
+2138	ŠRÁMEK Kazimír	manž. Anna r. Kürtyová	1	4279
+2138	ŠRÁMEK Koloman	manž. Helena r. Ožvaldová	1	1975,2606,3087
+2138	ŠRÁMEK Koloman	manž. Katarína r. Jakubíková	1	3802
+2138	ŠRÁMEK Koloman	vd	1	4628
+2138	ŠRÁMEK Kolos		1	2269,3197
+2138	ŠRÁMEK Michal		1	1433,1842,2092,2097,3136,3137,3179,4954,4955,5142,5562,5573
+2138	ŠRÁMEK Pavol	mal	1	3322
+2138	ŠRÁMEK Pavol	manž. Alžbeta r. Kočkovičová	1	3231,3232
+2138	ŠRÁMEK Pavol	manž. Mária r. Tomšíková	1	3919
+2138	ŠRÁMEK Peter		1	3485,3581,3584
+2138	ŠRÁMEK Rudolf		1	2084,2316
+2138	ŠRÁMEK Rudolf	mal	1	3465
+2138	ŠRÁMEK Štefan	manž. Barbora r. Klučková	1	3739
+2138	ŠRÁMEK Štefan	manž. Cecília r. Kvasnovská	1	4638
+2138	ŠRÁMEK Štefan	manž. Katarína r. Šrámeková	1	4502
+2138	ŠRÁMEK Štefan	manž. Rozália r. Tomšíková	1	3841,4030
+2138	Šrámek Tomáš	manž.Karolína r.Šilhavíková manž.Karolína r.Šilhavíková	1	2647
+2138	ŠRÁMEK Tomáš	manž. Anna r. Učeňová	1	4018
+2138	ŠRÁMEK Vincent		0	2316
+2138	ŠRÁMEK Vincent	mal	1	3465
+2138	ŠRÁMEKOVÁ Agneša	r. Jančárová	1	2202,3759
+2138	ŠRÁMEKOVÁ Alojzia	manž. Ján	1	3087
+2138	ŠRÁMEKOVÁ Anna	mal. mal	1	3229
+2138	ŠRÁMEKOVÁ Anna	manž. Kazimír	1	3087
+2138	ŠRÁMEKOVÁ Anna	r. Chovancová	1	4777
+2138	ŠRÁMEKOVÁ Anna	r. Kollárová	1	728
+2138	ŠRÁMEKOVÁ Anna	r. Kürtyová	1	3087,3229,4279
+2138	ŠRÁMEKOVÁ Anna	r. Markuseková	1	2227,2230,3682
+2138	ŠRÁMEKOVÁ Anna	r. Učeňová	1	4018
+2138	ŠRÁMEKOVÁ Anna	vd., r. Domorádová	1	3087,3848
+2138	ŠRÁMEKOVÁ Barbora	r. Klučková	1	3739
+2138	ŠRÁMEKOVÁ Barbora	r. Piskalíková	1	3781
+2138	ŠRÁMEKOVÁ Gabriela		1	3337
+2138	ŠRÁMEKOVÁ Helena		0	2316
+2138	ŠRÁMEKOVÁ Helena	mal	1	3465
+2138	ŠRÁMEKOVÁ Helena	r. Provodovská	1	3779
+2138	ŠRÁMEKOVÁ Júlia		1	3467,3591
+2138	ŠRÁMEKOVÁ Júlia	manž. Ján	1	2394
+2138	ŠRÁMEKOVÁ Katarína		1	2069,2394,4638
+2138	ŠRÁMEKOVÁ Katarína	mal	1	3322
+2138	ŠRÁMEKOVÁ Katarína	r. Jakubíková	1	3802
+2138	ŠRÁMEKOVÁ Katarína	r. Rybárová	1	1843
+2138	ŠRÁMEKOVÁ Katarína	r. Šrámeková	1	4502
+2138	ŠRÁMEKOVÁ Margita		1	4593
+2138	ŠRÁMEKOVÁ Margita	vd., r. Machová	1	3507,3615,3815,5126
+2138	ŠRÁMEKOVÁ Mária		1	2269,3197,3252
+2138	ŠRÁMEKOVÁ Mária	r. Čviriková	1	3011,5217
+2138	ŠRÁMEKOVÁ Mária	r. Gašparíková	1	4076
+2138	ŠRÁMEKOVÁ Mária	r. Jančárová	1	4795
+2138	ŠRÁMEKOVÁ Mária	r. Machová	1	4287
+2138	ŠRÁMEKOVÁ Mária	r. Tomšíková	1	3919
+2138	ŠRÁMEKOVÁ N	manž. Alexander	1	1975,3087
+2138	ŠRÁMEKOVÁ Rozália	r. Čviriková	1	2097,3136,3137,3179,3582
+2138	ŠRÁMEKOVÁ Rozália	r. Tomšíková	1	4030
+2138	ŠRÁMEKOVÁ Ružena	mal	1	1975,2606,3087
+2138	ŠRÁMEKOVÁ Ružena	r. Čviriková, manž. Michal	1	2092,3011,3516,5217,5572
+2138	ŠRÁMEKOVÁ Terézia	r. Švecová	1	3225,3226,3227
+2138	ŠRÁMEKOVÁ Zlatica	r. Járeková	1	1833,2154,2249
+2138	ŠRANKA Štefan	manž. Mária r. Gajdošíková	1	4647
+2138	ŠRANKOVÁ Mária	r. Gajdošíková	1	4647
+2138	ŠTECKL Rudolf		1	1354,3098,3099,3151,3152
+2138	ŠTEPNÍK Alexander		1	1833,2596,2597
+2138	ŠTEPNÍK Alexander	mažn. Helena r. Vitková	1	3882
+2138	ŠTEPNÍK Jozef		1	1833,2596,2597
+2138	ŠTEPNÍK Ľudovít	manž. Júlia r. Hotárová	1	4676
+2138	ŠTEPNÍK Ľudovít	manž. Mária r. Olajcová	1	3993
+2138	ŠTEPNÍKOVÁ Helena	r. Vitková	1	3882
+2138	ŠTEPNÍKOVÁ Júlia	manž. Martin	1	2596
+2138	ŠTEPNÍKOVÁ Júlia	r. Hotárová	1	4676
+2138	ŠTEPNÍKOVÁ Karolína	r. Šimeková	1	1925
+2138	ŠTEPNÍKOVÁ Mária	r. Olajcová	1	3993
+2138	ŠTEVUŠKA Alexander	manž. Gizela r. Cagáňová	1	3979
+2138	ŠTEVUŠKOVÁ Gizela	r. Cagáňová	1	3979
+2138	ŠTURCOVÁ Helena	r. Reichová	1	1354,3098,3099,3151,3152
+2138	ŠUTKA Gašpar	manž. Matilda r. Domorádová	1	3134,3135,5395,5398
+2138	ŠUTKA Štefan	manž. Júlia	1	1975,3087
+2138	ŠUTKA Štefan	manž. Juliana r. Lukáčová	1	3134,3135,4448,5395,5398
+2138	ŠUTKOVÁ Júlia	manž. Štefan	1	1975,3087
+2138	ŠUTKOVÁ Juliana	r. Lukáčová	1	4448
+2138	ŠUTKOVÁ Mária	slob., dc. Štefana	1	4745
+2138	ŠUTKOVÁ Matilda	r. Domorádová	1	3134,3135,5395,5398
+2138	ŠVECOVÁ Anna	r. Rajčáková	1	3141,3347
+2138	ŠVECOVÁ Helena	r. Markuseková	1	2306
+2138	TAKÁČ Ľudovít	manž. Katarína r. Bilicová	1	4466
+2138	TAKÁČ Štefan	manž. Irena r. Chlpíková	1	4516
+2138	TAKÁČOVÁ Irena	r. Chlpíková	1	4516
+2138	TAKÁČOVÁ Katarína	r. Bilicová	1	3270,4466
+2138	TAMAŠKOVÁ Barbora	r. Chiliová	1	3481
+2138	TANTOS MILAN		0	5144,5178
+2138	TANTOŠ Ján	manž. Mária	1	1975,3087,3821
+2138	TANTOŠ Karol		1	3289
+2138	TANTOŠ Karol	manž. Júlia r. Mészárosová	1	3200
+2138	TANTOŠ Karol	manž. Mária	1	1975,3087
+2138	TANTOŠ Ľudovít		1	3856
+2138	TANTOŠ Ľudovít	manž. Mária r. Tóthová	1	4395
+2138	Tantošová Jozefína		0	127,128
+2138	TANTOŠOVÁ Júlia	r. Mészárosová	1	3200
+2138	TANTOŠOVÁ Katarína	r. Šilhavíková	1	1862
+2138	TANTOŠOVÁ Mária	manž. Karol	1	1975,3087
+2138	TANTOŠOVÁ Mária	r. Gregorová	1	3216
+2138	TANTOŠOVÁ Mária	r. Tóthová	1	4395
+2138	Tantošová Silvia		0	255
+2138	TENCZER Samuel		1	2306,3110,3352,5389
+2138	THUNHARDTOVÁ Margita	r. Ružičková	1	2880
+2138	TISUCKÁ Mária	r. Samuelová	1	4064
+2138	TOMASKOVÁ Barbora	r. Chiliová	1	2520,4799,4800,4801,4802
+2138	TOMŠÍK Alexander		1	3319
+2138	TOMŠÍK Emanuel	vzdialený	1	2246
+2138	TOMŠÍK Emil	manž. Anna r. Valachovičová	1	3928
+2138	TOMŠÍK František	slob., syn Emila	1	4762
+2138	TOMŠÍK Gabriel		1	2246
+2138	TOMŠÍK Gabriel	manž. Valéria r. Slamenová	1	4735
+2138	TOMŠÍK Ján		1	2246
+2138	TOMŠÍK Jozef		1	2814,3754
+2138	TOMŠÍK Jozef	manž. Helena r. Kreháková	1	2489,4452
+2138	TOMŠÍK Jozef	manž. Uršula r. Šafáriková	1	4134
+2138	TOMŠÍK Jozef	ml	1	2488,2489,2814
+2138	TOMŠÍK Karol		1	1852,3319,3767,5148
+2138	TOMŠÍK Karol	manž. Mária r. Klučková	1	3962
+2138	TOMŠÍK Michal		1	3147,5116
+2138	TOMŠÍK Michal	manž. Anna r. Vaňáková	1	4746
+2138	TOMŠÍK Michal	manž. Katarína	1	1833,2154,2394,3087
+2138	TOMŠÍK Rudolf		1	2487,2490,2814
+2138	TOMŠÍK Štefan		1	2246
+2138	TOMŠÍK Štefan	manž. Barbora r. Markuseková	1	3939
+2138	TOMŠÍK Štefan	manž. Margita r. Valachovičová	1	4620
+2138	TOMŠÍKOVÁ Anna		1	2246
+2138	TOMŠÍKOVÁ Anna	mal	1	2663,3067,3327,3378
+2138	TOMŠÍKOVÁ Anna	r. Kucharová	1	2668
+2138	TOMŠÍKOVÁ Anna	r. Valachovičová	1	3928
+2138	TOMŠÍKOVÁ Anna	r. Vaňáková	1	4746
+2138	TOMŠÍKOVÁ Barbora		1	2246
+2138	TOMŠÍKOVÁ Barbora	r. Markuseková	1	3134,3135,3939,4664,5395,5398
+2138	TOMŠÍKOVÁ Hedviga r. Jozefíková		1	2091
+2138	TOMŠÍKOVÁ Helena	mal	1	2663,3327,3378
+2138	TOMŠÍKOVÁ Helena	r. Kreháková	1	4452
+2138	TOMŠÍKOVÁ Helena	r. Sucháňová	1	1975,2863,3354,5589
+2138	TOMŠÍKOVÁ Katarína	manž. Michal	1	1833
+2138	TOMŠÍKOVÁ Margita	r. Valachovičová	1	4620
+2138	TOMŠÍKOVÁ Mária		1	2246
+2138	TOMŠÍKOVÁ Mária	manž. Jozef	1	1975,2458,3087
+2138	TOMŠÍKOVÁ Mária	r. Fojtová	1	3280,4568
+2138	TOMŠÍKOVÁ Mária	r. Klučková	1	1975,2069,2476,2477,3962,4163
+2138	TOMŠÍKOVÁ Mária	r. Slamenová	1	3696,5157
+2138	TOMŠÍKOVÁ Mária	vd., r. Kapušová	1	2522,3304
+2138	TOMŠÍKOVÁ Marta, Silvánska 19, 811 01 Bratislava, zom. 06.07.2000		1	2035
+2138	TOMŠÍKOVÁ Rozália		1	2246
+2138	TOMŠÍKOVÁ Rozália	r. Šilhavíková	1	2246
+2138	TOMŠÍKOVÁ Uršula	r. Šafáriková	1	4134
+2138	TOMŠÍKOVÁ Valéria	r. Slamenová	1	4735
+2138	TÓTH Imrich	manž. Margita r. Janáčová	1	4613
+2138	TÓTH Ján	manž. Katarína r. Bóriková	1	4740
+2138	TÓTH Ján	manž. Mária	1	2069,4289
+2138	TÓTH Ján	ml	1	4401
+2138	TÓTH Karol	manž. Magdaléna r. Slováková	1	3206
+2138	TÓTH Ľudovít	manž. Paulína r. Zambová	1	4481
+2138	Tóthová Anna		0	1480
+2138	TÓTHOVÁ Anna, Komárňanská 57, 940 01 Nové Zámky, zom. 02.03.1993		1	3564
+2138	TÓTHOVÁ Katarína	r. Bóriková	1	4740
+2138	TÓTHOVÁ Magdaléna	r. Slováková	1	3206
+2138	TÓTHOVÁ Margita	r. Janáčová	1	4613
+2138	TÓTHOVÁ Mária	manž. Ján	1	2069,4289
+2138	TÓTHOVÁ Paulína	r. Zambová	1	4481
+2138	TÚROCZI Július		1	4106
+2138	UČEŇ Imrich	manž. Anna r. Chňapková	1	4625
+2138	UČEŇ Ján	manž. Katarína r. Marenčáková	1	4464
+2138	UČEŇ Jozef	manž. Helena r. Eliášová	1	4352
+2138	UČEŇ Jozef	manž. Mária r. Markuseková	1	4090
+2138	UČEŇ Štefan		1	3377
+2138	UČEŇ Štefan	manž. Barbora	1	2394,4300
+2138	UČEŇ Štefan	manž. Barbora r. Záležáková	1	3377
+2138	UČEŇ Štefan	manž. Mária r. Porubská	1	4709
+2138	UČEŇOVÁ Anna	r. Chňapková	1	4625
+2138	UČENOVÁ Barbora	r. Záležáková	1	3262,3377,3746,4852
+2138	UČEŇOVÁ Barbora	manž. Štefan	1	2394,4300
+2138	UČEŇOVÁ Helena	r. Eliášová	1	4352
+2138	UČEŇOVÁ Katarína	r. Marenčáková	1	4464
+2138	UČEŇOVÁ Mária	r. Markuseková	1	4090
+2138	UČEŇOVÁ Mária	r. Porubská	1	4709
+2138	UHRIN Gabriel	manž. Etela r. Cabanová	1	4337
+2138	UHRINOVÁ Etela	r. Cabanová	1	4337
+2138	ULICKÁ Anna	manž. Imrich	1	3701
+2138	ULICKÁ Anna	r. Šafáriková	1	3805
+2138	ULICKÁ Apolónia		1	1830
+2138	ULICKÁ Klára		1	1830
+2138	ULICKÁ Mária	r. Domorádová	1	3134,3135,4648,5395,5398
+2138	ULICKÝ Imrich		1	2154
+2138	ULICKÝ Imrich	manž. Anna	1	3701
+2138	ULICKÝ Imrich	manž. Anna r. Šafáriková	1	3805
+2138	ULICKÝ Jozef		1	1830,1832,3134,3135,3519,4648,5395,5398,5559
+2138	ULICKÝ Karol	manž. Mária r. Markuseková	1	4135
+2138	Urban Ján	manž.Júlia r.Poláková	1	4544
+2138	VADINOVÁ Helena		1	2200,3421,3426
+2138	VALACH Andrej	manž. Katarína r. Holubicová	1	3612
+2138	VALACH Ondrej	manž. Katarína r. Martišová	1	4655
+2138	VALACHOVÁ Katarína	r. Holubicová	1	3612
+2138	VALACHOVÁ Katarína	r. Martišová	1	4655
+2138	VALACHOVÁ Katarína	r. Martyová /Rezdovič/	1	4605
+2138	Valachová Katarína r. Martišová, SR		0	1849
+2138	VALACHOVIČ Imrich		1	3982
+2138	VALACHOVIČ Ján	manž. Anna r. Pápežová	1	4179
+2138	VALACHOVIČ Ján	st	1	4066
+2138	VALACHOVIČOVÁ Anna	r. Pápežová	1	4179
+2138	VALÁŠEK Alexander		1	1975,2094,3087
+2138	VALAŠEK Imrich	manž. Mária	1	2069,2394,4299
+2138	VALÁŠEK Imrich	manž. Mária r. Záležáková	1	4036
+2138	VALÁŠEK Ján		1	1975,2094,3087
+2138	VALÁŠEK Ján	manž. Mária	1	1975,2094,3087
+2138	VALÁŠEK Ján	manž. Mária r. Jesková	1	3797

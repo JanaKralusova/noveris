@@ -1,0 +1,256 @@
+2700	PETRIS Anastazia SPF		1	315,325,336,337,339,344,355,358,359,369,378,379,385
+2700	PETRIS Anna SPF		1	315,325,336,337,339,344,355,358,359,369,378,379,385
+2700	PETRIS Elias Mal.,SPF		1	359,379
+2700	PETRIS Juraj		1	315,325,337,344,355,358,379,385,474,476,482
+2700	PETRIS Juraj SPF		1	309,310,312,315,325,336,337,339,344,355,358,359,369,378,379,385
+2700	PETRIS Juraj vzdial.,SPF		1	315,339,358
+2700	PETRIS Maria Mal.,SPF		1	336,337,358,369
+2700	PETRIS Maria SPF		1	315,325,336,337,339,344,355,358,359,369,378,379,385
+2700	PETRIS Mikulas SPF		1	325,344,385
+2700	PETRIS Peter		1	315,325,336,337,339,344,355,358,359,369,378,379,385,474,476,482,527
+2700	PETRIS Peter SPF		1	310,315,325,336,337,339,344,355,358,359,369,378,379,385
+2700	PETRIS Vasil		1	305
+2700	PETRIS Vasil ml.,SPF		1	304,306,307,320,372
+2700	PETRISOVA Anastazia r. Mandzak		1	314,380,387
+2700	PETRISOVA Maria r. Paraska		1	317,335,345,356,361,387
+2700	PETRIŠ Andrej		1	480,483
+2700	PETRIŠ Eliáš	mal	1	476
+2700	PETRIŠ Juraj	/manž.Mária Kubátová/	1	474,476,482,527
+2700	PETRIŠ Mikuláš		1	474,482
+2700	PETRIŠ Peter	/manž.Naca Mandzáková/	1	474,476,482
+2700	PETRIŠ Peter	ž.Anastázia r.Mandzáková	1	527
+2700	PETRIŠ Vasiľ	ml	1	525,629
+2700	PETRIŠOVÁ Anastázia		1	474,476,482,527
+2700	PETRIŠOVÁ Anastázia	rod.Mandzáková	1	52,481,484,530,534,549,591
+2700	PETRIŠOVÁ Anna	mal	1	474,476,482,527
+2700	PETRIŠOVÁ Mária	mal	1	474,476,482,527
+2700	PETRIŠOVÁ Mária	rod.Parasková	1	501
+2700	PITEL Anastazia r. Blasko		1	318
+2700	Piteľ Andrej	nebohý	0	638
+2700	PITEĽ Andrej		1	474,476,482,527
+2700	PITEĽ Andrej	nabohý	1	286,468,474,476,515,587,597
+2700	PITEL Andrej nebohy		0	315,325,336,337,339,344,355,358,359,369,378,379,385
+2700	PITEL Andrej SPF		1	315,325,336,337,339,344,355,358,359,369,378,379,385
+2700	PITEL Anna r. Fedin		1	335,345,356,361,387
+2700	PITEL Anna SPF		1	308,333
+2700	PITEĽ Ján		1	475,527
+2700	PITEĽ Ján	vzdial	1	474,476,482
+2700	Piteľ Ján r. Piteľ, Koupalište 809, Chodov, ČR		0	11,479,493
+2700	PITEL Jan SPF		1	291,316,360
+2700	PITEL Jan vzdial.,SPF		1	315,325,336,337,339,344,355,358,359,369,378,379,385
+2700	PITEĽ Jozef		1	475,479,515
+2700	PITEĽ Juraj		1	11,286,468,479,493,587,597,638
+2700	PITEĽ Juraj	mal	1	475
+2700	PITEĽ Juraj	vzdial	1	515
+2700	PITEL Juraj Mal.,SPF		1	291,310,316,360
+2700	PITEL Lukac		1	11,286,468,479,493,515,587,597,638
+2700	PITEL Maria r. Blasko		1	318
+2700	PITEL Maria r. Paraska		1	283,315,317,334,335,344,345,361,385,387,638
+2700	PITEL Maria SPF		1	310
+2700	PITEL Michal		1	11,286,468,474,475,476,479,482,493,515,527,587,597,638
+2700	PITEĽ Michal	/manž.Zuzana Sentivanová/	1	515
+2700	PITEL Michal SPF		1	291,336,339,359,360,364,378
+2700	PITEL Mikulas ml.,SPF		1	311,333
+2700	PITEĽ Mikuláš		1	286,468,587,597,638
+2700	PITEĽ Mikuláš	vzdial	1	515
+2700	PITEĽ Peter		1	468,515,587
+2700	PITEĽ Peter	mal	1	11,475,479,493
+2700	PITEL Peter Mal.,SPF		1	291,316,360
+2700	Piteľ Tomáš	NP, Kadaň ČR	0	638
+2700	PITEĽ Tomáš	NP Kadaň ČR	1	286,468,474,476,515,587,597
+2700	PITEĽ Vasiľ		1	286,468,511,512,587,597,638
+2700	PITEL Vasil SPF		1	318
+2700	PITEL Zuzana SPF		1	308,315,325,333,336,337,339,344,355,358,359,369,378,379,385
+2700	PITEĽOVÁ Anastázia	rod.Blašková	1	511,512
+2700	Piteľová Anastázia r. Vajdová		1	638
+2700	PITEĽOVÁ Anna	rod.Fedinová	1	490,498,501
+2700	PITEĽOVÁ Anna	rod.Turbáková	1	491
+2700	PITELOVA Helena		1	364
+2700	PITEĽOVÁ Helena	rod.Sentivanová	1	286,468,474,476,482,515,527,587,597
+2700	PITELOVA Helena r. Sentivan		1	364
+2700	PITEĽOVÁ Mária	rod.Blašková	1	512
+2700	PITEĽOVÁ Mária	rod.Parasková	1	472,477,495,499,511,526,578,608
+2700	PITEĽOVÁ Mária r. Parasková		1	160
+2700	PITELOVA Maria r. Surova		1	329,333
+2700	PITEĽOVÁ Zuzana		1	474,476,482
+2700	PITEĽOVÁ Zuzana	mal	1	527
+2700	PLANK Elias SPF		1	329,333
+2700	PLANKOVA Alena r. Senteliková		1	329
+2700	PLANKOVA Alena r. Sentelikova|		1	333
+2700	PSAR Maria r. Blasko		1	318
+2700	PSAROVÁ Mária	rod.Blašková	1	511,512
+2700	PUSKAR Helena r. Kalinič		1	316
+2700	PUSKAR Michal		1	317
+2700	PUŠKAR Michal	v Príslope	1	475,501
+2700	Ridos Juraj	mal	1	638
+2700	RIDOS Juraj Mal.,SPF		1	375
+2700	RIDOS Juraj SPF		1	283,318,320,334,363
+2700	RIDOS Maria r. Piteľ		1	315,325,336,337,339,358,369,379,385
+2700	RIDOS Maria r. Pitelova		1	344,355,378
+2700	RIDOS Peter	MARIA PITEL Z	1	497
+2700	RIDOŠ Juraj		1	472,495,502,544,596,608
+2700	RIDOŠOVÁ Mária	rod.Piteľová	1	474,476,482,527
+2700	ROSICOVA Eva r. Hakošová		1	320
+2700	ROŠKO Ján		1	515
+2700	ROŠKO Ján	mal	1	286,468,587,597
+2700	SALAGANIČ Andrej		1	468,587
+2700	SALAGANIČ Andrej	mal	1	286,515,597
+2700	SALAGANIČ Juraj		1	468,587
+2700	SALAGANIČ Juraj	mal	1	286,515,597
+2700	SALAGANIČ Michal	mal	1	286,468,515,587,597
+2700	SALAGANIČ Vasiľ		1	286,468,515,587,597
+2700	SALAGANIČOVÁ Anna	mal	1	286,468,515,587,597
+2700	SALAGANIČOVÁ Júlia	mal	1	286,468,515,587,597
+2700	SALAGANIČOVÁ Mária	mal	1	286,468,515,587,597
+2700	SEBA Naca r. Piteľová		1	318
+2700	SEDLACEK Maria r. Mandzak		1	357,387
+2700	SEDLÁČKOVÁ Mária r. Mandzáková		1	313
+2700	SENTIVAN Jozef		1	475,501
+2700	SENTIVAN Jozef	mal	1	494
+2700	SENTIVAN Jozef Mal.,SPF		1	301,302,366
+2700	SENTIVAN Jozef SPF		1	291,310,316,317,335,345,356,360,361,387
+2700	SENTIVAN Juraj SPF		1	316,340
+2700	SENTIVAN Juraj vzdial.,SPF		1	340
+2700	SENTIVAN Maria Mal.,SPF		1	340
+2700	SENTIVAN Mikulas SPF		1	283,318,327,334,347,349,384
+2700	SENTIVAN Mikuláš		1	504,506
+2700	SENTIVAN Mikuláš	mal	1	504
+2700	SENTIVAN Peter SPF		1	323,331,340,341,354,357,381,387
+2700	SENTIVAN Simon Mal.,SPF		1	323,331,340,341,354,357,387
+2700	SENTIVAN Simon SPF		1	283,318,327,334,347,349,362,384
+2700	SENTIVAN Šimon		1	504
+2700	SENTIVAN Šimon	mal	1	506
+2700	SENTIVAN Vasiľ		1	504,506
+2700	SENTIVAN Vasil ml.,SPF		1	340
+2700	SENTIVAN Vasil SPF		1	283,318,327,334,347,349,362,384
+2700	SENTIVAN Vasil vzdial.,SPF		1	340
+2700	SENTIVAN Zuzana mal.,SPF		1	318
+2700	SENTIVAN Zuzana r. Vasilenko		1	334,384
+2700	SENTIVAN Zuzana r. Vohar		1	334
+2700	SENTIVAN Zuzana r. Voharova		1	384
+2700	SENTIVAN Zuzana rod.Vasilenko,SPF		1	318,327,347,349,362
+2700	SENTIVAN Zuzana rod.Vohar,SPF		1	318,327,347,349,362
+2700	SENTIVAN Zuzana SPF		1	384
+2700	SENTIVAN Zuzana Vasilenko		1	283
+2700	SENTIVAN Zuzana Vohar		1	283
+2700	SENTIVANOVÁ Anna	mal	1	504
+2700	SENTIVANOVA Anna Mal.,NP		0	301,302,366
+2700	SENTIVANOVA Anna Mal.,SPF		1	327,347,349
+2700	SENTIVANOVA Maria Mal.,SPF		1	301,302,323,331,340,341,354,357,366,381,387
+2700	SENTIVANOVÁ Zuzana	rod.Vasilenková	1	504,506
+2700	SENTIVANOVÁ Zuzana	rod.Vohárová	1	504,506
+2700	Stakčínska Roztoka spoločný urbársky majetok		0	620
+2700	SUCHÁ Anna	rod.Mandzáková	1	484
+2700	SUCHA Anna Mandzak,SPF		1	314
+2700	SUCHA Anna r. Mandzak		1	387
+2700	SUCHÁ Anna r. Mandzáková		1	530
+2700	SURA Maria r. Ridos		1	329,333
+2700	SURA Maria Ridos,SPF		1	311
+2700	SUROVÁ Anna		1	479
+2700	Svab Anna	mal., dcéra Petra	1	638
+2700	SVAB Anna		1	324,363,375
+2700	Svab Ján		1	638
+2700	SVAB Jan SPF		1	329,333,340
+2700	SVAB Maria		1	324,363,375
+2700	Svab Mária	mal., dcéra Petra	1	638
+2700	Svab Michal	syn Petra	1	638
+2700	SVABOVA Anna		1	283,334
+2700	SVABOVA Anna r. Pitelova		1	329,340
+2700	SVABOVA Maria		1	283,334
+2700	SVABOVA Maria r. Mandzakova		1	338
+2700	SVITIČOVÁ Anna	rod.Ridošová Ladomírov	1	490,501,526
+2700	ŠEBOVÁ Naca	rod.Piteľová	1	511,512
+2700	ŠVÁB Michal	/syn Petra/	1	472,608
+2700	ŠVÁB Peter		1	486
+2700	ŠVÁBOVÁ Anastázia	rod.Guzejová	1	486
+2700	ŠVÁBOVÁ Anna	mal./dcéra Petra/	1	472,495,608
+2700	ŠVÁBOVÁ Mária	rod.Mandzáková	1	481
+2700	TURBAK Anna r. Pitel		1	333
+2700	TURBAK Maria r. Paraska		1	317,335,345,356,361,387
+2700	TURBÁKOVÁ Mária	rod.Parasková	1	490,498,501
+2700	TURBAKOVA Maria rod.Cernegova,NP		0	309,310,385
+2700	URBAN Maria r. Pitel		1	336,337,344,369,379,385
+2700	URBAN Maria r. Pitelová		1	355,358,378
+2700	URBAN Michal		1	52,481,484,534,549,591
+2700	URBAN Michal SPF		1	338
+2700	URBAN Mikulas Mal.,SPF		1	322,374,376,377
+2700	URBAN Mikuláš	mal	1	487,535,598,601,627,638
+2700	URBANOVÁ Anna	rod.Ridošová	1	490
+2700	URBANOVA Anna rod.Petrisova,SPF		1	340
+2700	URBANOVÁ Mária	rod.Mandzáková	1	52,481,484,534,549,591
+2700	URBANOVÁ Mária	rod.Piteľová	1	474,476,482,527
+2700	URBANOVA Maria r. Mandzaková		1	338
+2700	VAJDOVÁ Naca		1	286,468,515,587,597,638
+2700	VAJDOVA Naci SPF		1	364
+2700	ZUBAĽOVÁ Anna	rod.Telehaničová	1	494
+2701	AMRICHOVÁ Helena r. Demková		0	959
+2701	ANDRÁŠ Ján		0	1256
+2701	Andrašová Júlia r. Padličová	zomr. 2.1.2005	0	956,957
+2701	ANTAL Alexander		0	1256
+2701	Antalová Alžbeta r. Ferková		1	760,1256
+2701	Antalová Alžbeta r. Ferková	zomr. 25.7.1995	0	1242
+2701	BADANI Ján		0	1256
+2701	Badanyová Mária r. Kurucová		1	899
+2701	Baku Andrej		1	790,1198
+2701	Baku Ján		1	790,1056
+2701	Baku Michal		1	790,1032
+2701	Baku Mikuláš		1	790,1164
+2701	Bakuová Mária		1	790,1194
+2701	Bobiková Mária r. Nadubinská	m. Pavol	1	899
+2701	Brinzaová Barbora r. Gubaová	m. Jozef	0	959
+2701	BRINZAOVÁ Barbora r. Gubaová, SR	m.Jozef	1	328
+2701	Bývalí urbárnici Obce Stanča	Zaniknutá právnická osoba bez právneho nástupcu	0	1207
+2701	Bývalým urbárom	v Stanči	1	805
+2701	Cibaková Barbora r. Macková	m. Ján	1	802
+2701	Cibaková Barbora r. Macková	m.Ján	0	1109
+2701	Čičik Ján	syn Michala	1	797,1168
+2701	Danková Anna r. Timková		1	901
+2701	DEMKOVÁ Helena		0	959
+2701	Farbarová Júlia r. Ivaskovičová	zomr. 18.4.1999	0	956,957
+2701	Fečojager Ján		1	780
+2701	Fečojager Ján	manž. Mária r. Kolesárová	0	1066
+2701	Fečojagerová Mária r. Kolesárová	m. Ján	0	1190
+2701	Fečojagerová Mária r. Kolesárová	m.Ján	1	780
+2701	Fečová Anna r. Raganová	m. Andrej	1	895
+2701	Fedák Andrej r. Kersanovičová	ž. Mária	0	1224
+2701	Ferenc Juraj		1	923,959
+2701	Ferencová Anna r. Zlatnícká		1	924,925,926,959
+2701	Ferencz Michal	ž. Anna r. Zlatnická	1	924,926
+2701	Ferko Ján		1	760,1146
+2701	Ferko Juraj	syn Juraja	1	760,1238
+2701	FERKOVÁ Alžbeta r. Suchožová		0	1256
+2701	Ferková Juliana r. Poľačková	vdova m. Juraj	1	760
+2701	Ferková Juliana r. Poľačková	vdova, m. Juraj	0	995
+2701	Filová Mária r. Kolesárová		1	743,1089
+2701	Granic Ján		1	780,964
+2701	Granicová Anna r. Kolesárová	m. Elemír	1	751,1151
+2701	GRANITZ Elemír		0	1227
+2701	Guba Andrej	syn Andreja	0	959
+2701	GUBA Andrej, SR	syn Andreja	1	328
+2701	Guba Michal	syn Andreja	0	959
+2701	GUBA Michal, SR	syn Andreja	1	328
+2701	Gubaová Anna	dcéra Andreja	0	959
+2701	GUBAOVÁ Anna, SR	dcéra Andreja	1	328
+2701	Halmoš Bartolomej		1	760,959
+2701	Hančin Andrej		1	147,1191
+2701	Hančin Ján	slobodný	1	400,671,1034
+2701	HANČIN Ján		0	1059
+2701	Hančin Jozef		1	400,1054
+2701	HANČIN Maximilian		0	959
+2701	Hančin Michal		1	671,793,818,1036,1161
+2701	Hančin Michal, SR		0	729
+2701	Hančin Mikulaš		1	819,958
+2701	Hančin Milan	Banská Bystrica	0	1196
+2701	Hančin Pavel	syn Michala	1	400,1026
+2701	Hančinová Anna		1	400,1248
+2701	Hančinová Anna	Z.Klečenov, PKV 109	0	959
+2701	Hančínová Anna r. Meďašová		1	793,1213
+2701	Hančinová Anna r. Megyesová		1	818,990
+2701	Hančinová Mária	Z.Klečenov, PKV 109	0	959
+2701	Hančinová Mária r. Hančinová	m. Ján	1	754,1079
+2701	Hasarová Mária r. Hančinová		1	671,1106
+2701	Horváthová Anna r. Bujnovskyová		1	798,970
+2701	Chovancová Mária r. Ivaškovičová		1	407,1203
+2701	Ivaškovičová Barbora r. Miglešová		1	679,1040
+2701	IŽAK Andrej		0	959
+2701	IŽAK Andrej, SR		1	328

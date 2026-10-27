@@ -1,0 +1,256 @@
+239	Antálková Anna	č.d.249	0	5268
+239	Antálková Anna	č.d.332	0	5269
+239	Antálková Anna	manž. Tomáš	0	1338
+239	Antálková Anna	súr. Ján, Rozália, Antonín, ded. po Žofii Stachovičovej r. Kováčovej	0	1143
+239	Antálková Anna	súr. Jozefína, Konštantín, Ondrej, Simeon, ded. po Valentínovi Antálkovi	0	1070
+239	Antálková Anna	súr. Jozefína, Konštantín, Ondrej, Simeon, ded. po Valetnítovi Antálkovi	0	1489
+239	Antálková Anna	súr.Jozefína, Konštantín, Ondrej, Simeon, ded.po Valentínovi Antálkovi -ž. Júlia r.Stupavs	0	1554
+239	ANTÁLKOVÁ Anna		0	64,1554,3210
+239	ANTÁLKOVÁ Anna	r.Kováčová R17.5.1899	0	5492
+239	Antálková Anna r. Čulenová	súr. Imrich, Anton, Ignác, Rozália, Terézia	0	1090,1145,1180,1256,1338,4929,4930,4932,4933,5444
+239	ANTÁLKOVÁ Anna r. Čulenová		0	1086,1252,1554
+239	Antálková Anna r. Fajtáková	manž. Michal	0	1091
+239	Antálková Anna r. Kováčová	ded. po Žofii Kováčová r. Stachovičovej, súr. Ján, Rozália, Antonín	0	2459
+239	Antálková Anna r. Kováčová	ded. po Žofii Kováčovej r. Stachovičovej	0	2237,4878
+239	Antálková Anna r. Kováčová	ded. po Žofii Kováčovej r. Stachovičovej, súr. Ján, Rozália, Antonín	0	1076,1091,1139,1163,2090,2101,2176,2374,4438,4886,4905,5354
+239	Antálková Anna r. Kováčová	m. Teofil	0	1085,1217,1831,3346,5102
+239	Antálková Anna r. Kováčová	m. Teofil, kúpa od Márie Ondriskovej r. Antálkovej	0	1076,1211,4438,4905,5354
+239	Antálková Anna r. Kováčová	m. Teofil, súr. Ján, Rozália, Antonín, ded. po Žofii Kováčovej r. Stachovičovej	0	64,2375,3735,3736,3737,3784,3928,4077,4387,5764
+239	Antálková Anna r. Kováčová	m. Teofil, súr. Ján, Rozália, Antonín, ded. po Žofii Kováčovej r.Stachovičovej	0	2406
+239	Antálková Anna r. Kováčová	m. Teofil, súr. Ján, Rozália, Antonín, ded.po Žofii Kováčovej r. Stachovičovej	0	1132
+239	Antálková Anna r. Kováčová	m.Teofil	0	1208,1212
+239	Antálková Anna r. Kováčová	R 17.5.1899	0	3169
+239	Antálková Anna r. Kováčová	súr. Ján, Rozália, Antonín	0	1135
+239	Antálková Anna r. Kováčová	súr. Ján, Rozália, Antonín, ded. po Žofií Kováčovej r. Stachovičovej	0	652,1140,1141,1248,2083,4444,4446,4720
+239	Antálková Anna r. Kováčová	súr. Ján, Rozália, Antonín, ded. po Žofii Stachovičovej	0	1090,4929,4930
+239	Antálková Anna r. Kováčová	súr. Ján, Rozália, Antonín, ded. po Žofii Stachovičovej r. Kováčovej	0	1086,1093,1095,1142,1145,4931,4932,4933
+239	Antálková Anna r. Kováčová	súr. Rozália, Ján, Antonín, ded. po Žofii Kováčovej r. Stachovičovej	0	1843,5648
+239	ANTÁLKOVÁ Anna r. Kováčová		0	1133,1554
+239	Antálková Anna r. Neoveská	m. Florián	0	1087,4434,4935,5822
+239	Antálková Anna r. Palkovičová	zomr. 22.2.2003, Drahy 455/5, Brodské	0	1554
+239	Antálková Anna r. Štvrtecká	m. Eduard	0	3409
+239	Antálková Eva r. Palkovičová	manž. Michal	0	1076,4438,4905,5354
+239	Antálková Helena	ded. po Rozálii Antálkovej	0	1090,4929,4930
+239	Antálková Helena	ded. po Rozálii Antálkovej r. Vajayovej	0	1095,1145,4932,4933
+239	Antálková Helena	mal. súr. Štefan, Ján, Valentín, Karol, ded. po Štefanovi Antálkovi	0	1070
+239	Antálková Helena	mal., súr. Štefan, Ján, Valentín, Karol	0	1488,1490,3764,5403
+239	Antálková Helena	maloletá	0	1486,3592
+239	Antálková Helena	súr. Ferdinand, Anton, Cecília, ded. po Jánovi Antálkovi	0	1094,4435
+239	ANTÁLKOVÁ Helena		0	1039,4538
+239	Antálková Helena r. Palkovičová	súr. Mária, Anton, Ján, Anna, Alojz, ded. po Anne Palkovičovej	0	1251
+239	Antálková Helena r. Vlková		0	1211
+239	Antálková Helena r. Vlková	manžel Ján, súr. František	0	1181
+239	Antálková Helena r. Vlková	súrod.František, Valentín	0	1420
+239	Antálková Júlia r. Fajtáková	m. Michal	0	1092
+239	Antálková Júlia r. Hladíková	m. Pavol, súr. Amália, Alžbeta, Ján, Matej, Mária, ded. po Michalovi Antálkovi	0	1092
+239	Antálková Mária	hluchonemá	0	64
+239	Antálková Mária	spolunadobúdatelia: Štefan, Ján, Helena, Rudolf	0	1486,3592
+239	Antálková Mária	súr. Ján, Gašpar	0	652,1091,1092,1094,1163,4435,4446
+239	ANTÁLKOVÁ Mária		0	652,4446
+239	Antálková Mária r. Hladíková	m. Ján, súr. Anna Čulenová, Rozália Burská	0	1724
+239	Antálková Mária r. Hojsíková	m. Ferdinand	0	3001
+239	Antálková Mária r. Jakubcová	m.Valentín	1	4972
+239	Antálková Mária r. Pekárková	m. Gašpar	0	64
+239	Antálková Rozália r. Fajtáková		0	64,1076,4438,4905,5354
+239	Antálková Rozália r. Fajtáková	m. Matej	0	1094,4435
+239	Antálková Rozália r. Fajtáková	m.Matej	0	5081
+239	ANTÁLKOVÁ Rozália r. Fajtáková	manž. Matúš	0	1554
+239	Antálková Rozália r. Knapová		0	1270,1335,4934
+239	Antálková Rozália r. Knapová	súr. Ján, Jozef, Anna Čulenová	0	4005,5804
+239	Antálková Rozália r. Knapová	súr. Jozef, Ján, Anna, ded. po Anne Knapovej	0	4437
+239	Antálková Rozália r. Knapová	súr. Jozef, Ján, Anna, poričiteľ Anna Knapová	0	1084
+239	Antálková Rozália r. Knapová	súr. Jozef, Ján, Anna, poručiteľ Anna Knapová	0	5337
+239	Antálková Rozália r. Trubirohová	ded. po Antonínovi Trubirohovi	0	3027
+239	Antálková Rozália r. Trubirohová	ded. po Antonínovi Trubirohovi - ž. Karolína r. Pavlíková	0	2714
+239	Antálková Rozália r. Trubirohová	ded. po Antonovi Trubiorhovi - ž. Karolína r. Pavlíková	0	1432,5438,5542,5676,5811,5812
+239	Antálková Rozália r. Trubirohová	ded. po Antonovi Trubirohovi - ž. Karolína r. Pavlíková	0	3028
+239	Antálková Rozália r. Trubirohová	ded. po Jozefovi Trubirohovi	0	1554
+239	Antálková Rozália r. Trubirohová	otec Jozef	0	4573
+239	Antálková Rozália r. Trubirohová	súr. Helena, Terézia, Mária, ded. po Jozefovi Trubirohovi	0	1115
+239	ANTÁLKOVÁ Rozália r. Trubirohová		0	1554,3348
+239	Antálková Rozállia r. Trubirohová	ded. po Jozefovi Trubirohovi - ž. Eva r. Pavlíková	0	1685
+239	Antálková Štefánia r. Balážová		0	4836
+239	Antálková Štefánia r. Balážová	súr. Ludevít, Ferdinand, Antonín, Agneša	0	4885
+239	Antálková Štefánia r. Pernecká	zom. 20.6.1990, m. Ján, rod. Vendelín a Mária r. Zlámalová, súr. Ján, Alžbeta, Mária	0	505,1086,1115,1248,1338,1554,4444,4595
+239	Antálková Terézia	manžel Tomáš	0	1338
+239	Antálková Terézia r. Antálková	súr. Eva, Anna, Zuzana, ded. po Alžbete Antálkovej r. Rybárovej	0	1250
+239	Antálková Terézia r. Antálková	vdova	0	5156
+239	Antálková Zuzana		0	5156
+239	Antálková Zuzana	súrod.Anton, Anna, Terézia, Eva	0	1208
+239	Antalová Helena r. Vlková	1xvyd. Ralbovská, m.Ján, súr.Júlia, Mária, Hedviga, Agneša, Ján, Teofil, Valent, Rozália	0	1554
+239	AUSPITZEROVÁ Regina r. Neumannová		0	4516,4517,4518
+239	Bačová Rozália r. Gulíšková, Tvrdonice, PSČ 691 53, ČR		0	3949
+239	Bajorová Mária r. Krídlová	m. Juraj, ded. po Pavlovi Krídlovi	0	1089
+239	Bajorová Mária r. Krídlová	m. Juraj, Ignác, Anton, Agneša, ded. po Pavlovi Krídlovi	0	1116
+239	Bajorová Mária r. Krídlová	manž. Juraj, súr. Ignác, Agneša, ded. po Pavlovi Krídlovi	0	1554
+239	Bajorová Mária r. Kriedlová	m. Juraj, súr. Anton, Agneša	0	2983
+239	Bajorová Mária r. Kriedlová	m.Juraj, dedené po Pavlovi Kriedlovi	0	3163
+239	Baláž Ferdinand	súr. Ludevít, Antonín, Štefánia, Agneša	0	4885,5329,5330,5331
+239	Baláž Ferdinand	súr. Ludevít, Štefánia, Agneša	0	1451
+239	Baláž Ferdinand	súr.Ludevít, Antonín, Štefánia, Agneša, ded. po Jánovi Kováčovi	0	3593
+239	Baláž Ferdinand	súrod.Ludevít, Antonín, Štefánia, Agneša	0	1435
+239	BALÁŽ Ferdinand		0	2558,2779,3594,4836
+239	Baláž Ludevít	manž. Hedvika r. Cveková, ded. po Ferdinandovi Balážovi	0	569
+239	Baláž Ludevít	ž. Heviga r. Cveková, súr. Ferdinand, Antonín, Štefánia, Agneša	0	4876
+239	Baláž Ľudovít	ž. Helena r. Cveková, ded. po Ferdinandovi Balážovi	0	2561,5786
+239	Balážová Agneša	ded. po Márii Balážovej r. Suchovskej a Antonínovi Balážovi	0	2561,5786
+239	Balážová Agneša	Ludevít, Ferdinand, Antonín, Štefánia	0	5329,5331
+239	Balážová Agneša	súr. Ludevít, Ferdinand, Antonín, Štefánia	0	569,4876,4885,5330
+239	Balážová Agneša	súr. Ludevít, Ferdinand, Štefánia	0	1451
+239	Balážová Agneša	súr.Ludevít, Ferdinand, Antonín, Štefánia, ded. po Jánovi Kováčovi	0	3593
+239	Balážová Agneša	súrod.Ludevít, Ferdinand, Antonín, Štefánia	0	1435
+239	BALÁŽOVÁ Agneša		0	2558,2779,3594,4836
+239	Balga Ján		0	2996,2997
+239	BALGA Ján	ž.Irena r. Šebestová	0	4524
+239	Balga Jozef	súr. Mária, Rozália, Júlia, Zuzana, Štefan, Helena	0	1090,1140,1145,1248,4444,4929,4930,4932,4933
+239	Balga Jozef	súr. Mária, Rozália, Júlia, Zuzana, Štefan, Kristína	0	1256
+239	BALGA Jozef		0	1083,1086,1180,3401,4436,5444
+239	Balga Kliment	maloletý	0	2996,2997
+239	Balga Kliment, 908 42, Smolinské, č. 179, SR		0	2196
+239	Balga Štefan		0	1083,1086,1180,4436,5444
+239	Balga Štefan	súr. Mária, Rozália, Jozef, Júlia, Zuzana, Helena	0	1090,1140,1145,1248,4444,4929,4930,4932,4933
+239	Balga Štefan	súr. Mária, Rozália, Jozef, Júlia, Zuzana, Kristína	0	1256
+239	Balgová Alžbeta r. Valovičová	m.Matej	0	2996
+239	Balgová Anna	maloletá	0	1083,1086,1180,4436,5444
+239	Balgová Anna	maloletá, sestra Rozália	0	1248,4444
+239	Balgová Anna	maloletá, súr. Rozália	0	1090,1145,1256,4929,4930,4932,4933
+239	BALGOVÁ Irena r. Šebestová	m.Ján	0	4524
+239	Balgová Mária r. Bobotová	súr. Štefan, Václav, Terézia Stupavská, Emerencia Serdahelyová	0	5754
+239	BALGOVÁ Mária r. Valachovičová		0	3401
+239	Balgová Rozália	maloletá	0	1083,1086,1180,4436,5444
+239	Balgová Rozália	maloletá, sestra Anna	0	1248,4444
+239	Balgová Rozália	maloletá, súr. Anna	0	1090,1145,1256,4929,4930,4932,4933
+239	BALOG Ján		0	1134
+239	BALUCHOVÁ Agneša r. Zemánková		0	4533
+239	Baňovič Antonín	ded. po Jozefovi Baňovičovi	0	1092
+239	Baňovič Antonín	ded. po Martinovi Baňovičovi	0	1088,2483,4433,4890
+239	Baňovič Antonín	súr. Jozefína, Ján, Daniel, ded. po Martinovi Baňovičovi	0	1095,1116,1164,1251
+239	Baňovič Antonín	súr. Jozefína, Ján, Martin, Daniel, ded. po Genovéve Baňovičovej r. Hnátovej	0	1164
+239	BAŇOVIČ Antonín		0	1158,1590,2333,5141,5530
+239	Baňovič Daniel	ded. po Genovéve Baňovičovej r. Hnátovej	0	1088,2483,4433,4890
+239	Baňovič Daniel	ded. po Kataríne Hnátovej	0	1089
+239	Baňovič Daniel	ded. po Kataríne Hnátovej, Martinovi Baňovičovi	0	1589
+239	Baňovič Daniel	ded. po Martinovi Baňovičovi	0	1088,2483,4433,4890
+239	Baňovič Daniel	ded. po Martinovi Baňovičovi,Genovéve Baňovičovej r. Hnátovej	0	1588,5643
+239	Baňovič Daniel	kúpa od Martina Čulena, ded. po Martinovi Baňovičovi	0	3890
+239	Baňovič Daniel	mal. súr. Jozefína, Antonín, Ján, Martin, ded. po Kataríne Hnátovej	0	1251
+239	Baňovič Daniel	maloletý	0	3291
+239	Baňovič Daniel	maloletý, ded. po Kataríne Hnátovej	0	1088,1095,2483,4433,4890
+239	Baňovič Daniel	maloletý, súr. Jozefína, Antonín, Ján, Martin, ded. po Kataríne Hnátovej	0	1116
+239	Baňovič Daniel	súr. Antonín, Ján, ded. po Martinovi Baňovičovi	0	2334
+239	Baňovič Daniel	súr. Jozefína Čulenová, Antonín, Ján, Martin	0	5821
+239	Baňovič Daniel	súr. Jozefína, Antonín, Ján, ded. po Geniovéve Baňovičovej, r. Hnátovej	0	4437
+239	Baňovič Daniel	súr. Jozefína, Antonín, Ján, ded. po Genovéve Baňovičovej, r. Hnátovej	0	1084,5337
+239	Baňovič Daniel	súr. Jozefína, Antonín, Ján, ded. po Martinovi Baňovičovi	0	1084,1089,1095,1116,1164,1251,1326,2585,4437,4447,5337
+239	Baňovič Daniel	súr. Jozefína, Antonín, Ján, Martin	0	1326,1587,2585,4447
+239	Baňovič Daniel	súr. Jozefína, Antonín, Ján, Martin, ded. po Genovéve Baňovičovej r. Hnátovej	0	1089,1164,1251
+239	Baňovič Daniel	súrod.Jozefína, Anton, Ján, Martin	0	3935
+239	Baňovič Daniel	súrod.Jozefína, Antonín, Ján, Martin	0	3893,5532
+239	Baňovič Daniel	súrod.Jozefína, Ján, Martin, Antonín	0	744
+239	BAŇOVIČ Daniel		0	1554,1591,1593,3269,3570,5257
+239	BAŇOVIČ Daniel r. BAŇOVIČ		0	1554
+239	Baňovič Ferdinand		0	3429
+239	Baňovič Gabriel	ded. po Anne Baňovičovej	0	1090,1095,1145,3429,4929,4930,4932,4933
+239	Baňovič Gabriel	ded. po Helene Baňovičovej r. Stachovičovej	0	2237,4878
+239	Baňovič Gabriel	m.Mária r.Palkovičová	0	3429
+239	Baňovič Gabriel	ž. Mária Palkovičová	0	1247
+239	Baňovič Gabriel	ž. Mária Palkovičová, kúpa od Heleny Mihálovej	0	1090,4929,4930
+239	Baňovič Gabriel	ž. Mária r. Palkovičová	0	1256
+239	Baňovič Gabriel	ž.Mária Palkovičová, kúpa od Márie Hačundovej r. Mihálovej	0	1090,4929,4930
+239	BAŇOVIČ Gabriel		0	1293,1554,2994,4280
+239	BAŇOVIČ Gabriel	manž. Mária r. Palkovičová	0	1554
+239	BAŇOVIČ Gabriel malol.		0	1293
+239	Baňovič Ján	ded. po Genovéve Baňovičovej r. Hnátovej	0	1088,2483,4433,4890
+239	Baňovič Ján	ded. po Helene Baňovičovej r. Krídlovej	0	1088,1251,2483,4433,4890
+239	Baňovič Ján	ded. po Kataríne Hnátovej, Martinovi Baňovičovi	0	1589
+239	Baňovič Ján	ded. po Martinovi Baňovičovi	0	1088,2483,4433,4890
+239	Baňovič Ján	ded. po Martinovi Baňovičovi, Genovéve Baňovičovej r. Hnátovej	0	1588,5643
+239	Baňovič Ján	kúpa od Martina Čulena, ded. po Martinovi Baňovičovi	0	3890
+239	Baňovič Ján	mal. ded. po Kataríne Hnátovej	0	1089
+239	Baňovič Ján	mal. súr. Jozefína, Antonín, Martin, Daniel, ded. po Kataríne Hnátovej	0	1251
+239	Baňovič Ján	maloletý	0	3291
+239	Baňovič Ján	maloletý, ded. po Kataríne Hnátovej	0	1088,1095,2483,4433,4890
+239	Baňovič Ján	súr. Amália, Eva, Helena, Justína, ded. po Helene Baňovičovej r. Krídlovej	0	1089,1095,1116,1164,1250
+239	Baňovič Ján	súr. Amália, Eva, Helena, Justína, ded. po Jozefovi a Helene Baňovičovej	0	1255
+239	Baňovič Ján	súr. Amália, Eva, Helena, Justína, ded. po Márii a Jozefovi Baňovičovcoch	0	1326,2585,4447
+239	Baňovič Ján	súr. Antonín, Daniel, ded. po Martinovi Baňovičovi	0	2334
+239	Baňovič Ján	súr. Jozefína Čulenová, Antonín, Martin, Daniel	0	5821
+239	Baňovič Ján	súr. Jozefína, Antonín, Daniel, ded. po Genovéve Baňovičovej, r. Hnátovej	0	1084,4437,5337
+239	Baňovič Ján	súr. Jozefína, Antonín, Daniel, ded. po Martinovi Baňovičovi	0	1084,1116,1164,1251,1326,2585,4437,4447,5337
+239	Baňovič Ján	súr. Jozefína, Antonín, Daniel, ded.po Martinovi Baňovičovi	0	1095
+239	Baňovič Ján	súr. Jozefína, Antonín, Daniel,ded. po Martinovi Baňovičovi	0	1089
+239	Baňovič Ján	súr. Jozefína, Antonín, Martin, Daniel	0	1326,1587,2585,4447
+239	Baňovič Ján	súr. Jozefína, Antonín, Martin, Daniel, ded. po Genovéve Baňovičovej r. Hnátovej	0	1164,1251
+239	Baňovič Ján	súr. Jozefína, Antonín, Martin, Daniel, ded. po Kataríne Hnátovej	0	1116
+239	Baňovič Ján	súr. Mária, Vendelín, Matej, ded. po Matejovi Baňovičovi	0	1092,1388,2586,4625
+239	Baňovič Ján	súr. Vendelín, Mária, Matej	0	1344,1719
+239	Baňovič Ján	súr. Vendelín, Matej	0	3919
+239	Baňovič Ján	súrod.Amália, Eva, Helena, Justína	0	2582
+239	Baňovič Ján	súrod.Jozefína, Anton, Martin, Daniel	0	3935
+239	Baňovič Ján	súrod.Jozefína, Antonín, Martin, Daniel	0	3893,5532
+239	Baňovič Ján	súrod.Jozefína, Martin, Daniel, Anton	0	744
+239	Baňovič Ján	súrod.Mária, Vendelín, Matej, dedené po Matejovi Baňovičovi-ž.Terézia r. Stachovičová	0	1343
+239	Baňovič Ján	súrodenci-Vendelín a spol.; súrodenci-Vendelín a spol	0	4090
+239	Baňovič Ján	ž. Alžbeta r. Burská, súr. Amália, Eva, Helena, Justína, ded. po Jozefovi Baňovičovi	0	1388,2586,4625
+239	Baňovič Ján	ž. Alžbeta, súr. Amália, Eva, Helena, Justína, ded. po Jozefovi Baňovičovi	0	1092
+239	Baňovič Ján	ž.Alžbeta r. Burská	0	2579
+239	Baňovič Ján	ž.Alžbeta r.Burská, súr. Amália, Eva, Helena, Justína	0	1277
+239	Baňovič Ján	ž.Alžbeta r.Burská, súr. Amália, Eva, Helena, Justína, ded. po Jozefovi Baňovičovi	0	4284
+239	Baňovič Ján	ž.Alžbeta r.Burská, súr.Amália, Eva, Ján, Justína, ded.po Jozefovi Baňovičovi -ž. Helena	0	2581
+239	Baňovič Ján	ž.Alžbeta r.Burská, súrod.Amália, Eva, Helena, Ján, Justína	0	4358,5436
+239	Baňovič Ján	ž.Alžbeta r.Burská,súrod.Amália,Eva,Helena,Justína	0	2584
+239	BAŇOVIČ Ján		0	1347,1554,1591,1593,1829,3269,3570,4719,5257
+239	BAŇOVIČ Ján	manž. Alžbeta r. Burská	0	1554
+239	BAŇOVIČ Ján	manž.Alžbeta r.Burská	0	4204
+239	BAŇOVIČ Ján	ž.Alžbeta r.Burská	0	1158
+239	BAŇOVIČ Ján r. BAŇOVIČ		0	1554
+239	Baňovič Jozef	súr. Ľudovít, Anna, Terézia, ded. po Jánovi Baňovičovi	0	1388,2586,4625
+239	BAŇOVIČ Jozef		0	1388,1554,2586,4625
+239	Baňovič Ludevít	súr. Anna, Jozef, Terézia, ded. po Márii Baňovičovej r. Dujmovičovej-m. Anton	0	1588,5643
+239	Baňovič Ludevít	súrod. Anna, Terézia, Jozef	0	3935
+239	BAŇOVIČ Ludevít		0	1554,1593,3269
+239	Baňovič Ľudovít	ded. po Márii Baňovičovej r. Dujmovičovej	0	3890
+239	BAŇOVIČ Ľudovít	čd.411/29	0	5257
+239	Baňovič Martin	maloletý	0	3291
+239	Baňovič Martin	súrod.Jozefína, Antonín, Ján, Daniel	0	3893,5532
+239	Baňovič Martin	súrod.Jozefína, Ján, Daniel, Antonín	0	744
+239	Baňovič Matej	súr. Ján, Vendelín, Mária	0	1344
+239	Baňovič Matej	súr. Vendelín, Ján	0	3919
+239	Baňovič Matej	súrod. Mária, Vendelín, Ján, dedené po Matejovi Baňovičovi -ž.Terézia r. Stachovičová	0	1343
+239	BAŇOVIČ Matúš		0	1554
+239	Baňovič Štefan	maloletý	0	1829,4719
+239	BAŇOVIČ Štefan malol.		0	1293
+239	Baňovič Vendelín	m.Mária r.Hladíková	0	3919
+239	Baňovič Vendelín	Mária, Ján, Matej, dedené po Matejovi Baňovičovi-ž.Terézia r. Stachovičová	0	1343
+239	Baňovič Vendelín	súr. Mária, Ján, Matej, ded. po Matejovi Baňovičovi	0	1092,1388,2586,4625
+239	Baňovič Vendelín	ž. Mária r. Hladíková	0	416,5346
+239	Baňovič Vendelín	ž. Mária r. Hladíková, kúpa od Mateja Baňoviča	0	1092
+239	Baňovič Vendelín	ž. Mária r. Hladíková, kúpa od Matyáša Baňoviča	0	1388,2586,4625
+239	Baňovič Vendelín	ž. Máriar. Hladíková, súr. Ján, Mária, Matej	0	1344
+239	Baňovič Vendelín	ž.Mária r.Hladíková	0	1158,4090
+239	BAŇOVIČ Vendelín		0	1554,5069
+239	Baňovič Vincent	ded. po Helene Baňovičovej r. Stachovičovej	0	1090,2090,2237,4878,4929,4930
+239	Baňovič Vincent	ded. po Helene Baňovičovej r. Stachovičovej - m. Michal	0	2083,2101,4720
+239	Baňovič Vincent	ded. po Helene Baňovičovej r. Stachovičovej, m. Michal	0	2133,2176,2459,5501,5680
+239	Baňovič Vincent	ded. po Jánovi Baňovičovi	0	1090,1841,1844,1845,2090,2091,2092,2100,2101,2133,2176,2459,4929,4930,5501,5680
+239	Baňovič Vincent	ded. po Jánovi Baňovičovi, súr. Anna	0	2237,4878
+239	Baňovič Vincent	ded. po Michalovi a Jánovi Baňovičovi	0	4403
+239	Baňovič Vincent	ded. po Michalovi Baňovičovi	0	1254,2092
+239	Baňovič Vincent	ded. po Michalovi Baňovičovi - ž. Helena r. Stachovičová	0	2100
+239	Baňovič Vincent	ded. po Michalovi Baňovičovi a Helene r. Stachovičovej	0	2091
+239	Baňovič Vincent	ded. po Michalovi Baňovičovi a manž. Helene r. Stachovičovej	0	2075
+239	Baňovič Vincent	ded. po Michalovi Baňovičovi, ž. Helena r. Stachovičová	0	1839,1841
+239	Baňovič Vincent	ded.po Martinovi Polákovi	0	3323
+239	Baňovič Vincent	ded.po: Michal Baňovič a mnaž.Helena r. Stachovičová, Ján Baňovič	0	1831
+239	Baňovič Vincent	dedené po Helene Baňovičovej r. Stachovičovej -m. Michal	0	1213
+239	Baňovič Vincent	dedené po Helene Baňovičovej r.Stachovičovej	0	1135
+239	Baňovič Vincent	dedené po Jánovi Baňovičovi	0	1213
+239	Baňovič Vincent	dedené po Michalovi Baňovičovi - ž. Helena r. Stachovičová	0	2084
+239	Baňovič Vincent	dedené po Michalovi Baňovičovi - ž.Helena r. Stachovičová, Jánovi Baňovičovi	0	3791
+239	Baňovič Vincent	dedené po Michalovi Baňovičovi -ž. Helena r. Stachovičová, Jánovi Stachovičovi	0	4361
+239	Baňovič Vincent	dedené po Michalovi Baňovičovi -ž. Helena r.Stachovičová	0	1213
+239	Baňovič Vincent	súr. Anna, ded. po Jánovi Baňovičovi	0	1095,1145,1254,1307,1308,2083,2084,4720,4932,4933
+239	Baňovič Vincent	súr. Štefan, Ján, ded. po Helene Baňovičovej r. Stachovičovej	0	1145,4932,4933
+239	Baňovič Vincent	súr. Štefan, Ján, ded. po Helene Baňovičovej r. Szachovičovej	0	1095
+239	Baňovič Vincent	súrod.Anna	0	1135
+239	BAŇOVIČ Vincent		1	1293,1307,1308,1554,1829,1830,1835,1836,1838,1840,1842,1843,1844,1845,2093,2322,2375,2994,3169,3429,3780,3782,3783,3784,3790,4077,4719,5378,5464,5647,5648

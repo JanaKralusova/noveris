@@ -1,0 +1,256 @@
+1469	Bača Cyprián		0	450,490,547,664,1031,1072,1074
+1469	Bača Iľko		0	849
+1469	Bača Jakub		0	850,1008
+1469	Bača Ján	I	0	734,827
+1469	Bača Jozef		0	562,692,776,934,1007,1037,1063
+1469	Bača Marek		0	715,724,734,759,790,827,892,896,1005
+1469	Bača Michal		0	715,724,759,790,892,896,1005
+1469	Bača Michal	1	0	734
+1469	Bača Michal	2	0	827,896
+1469	Bača Michal	7	0	450,664,1072,1074
+1469	Bača Michal	8	0	490,547
+1469	Bača Osif		0	1008
+1469	Bača Peter		0	540,733,796,1007,1037,1058
+1469	Bača Peter	3	0	488,692,851,934,1008,1061,1064
+1469	Bača Peter	7	0	562,776,821,935,1063
+1469	Bačová Anna r. Hricová		0	822
+1469	Bačová Helena		0	711,767,1067
+1469	Bačová Helena	1	0	486,668,1104
+1469	Bačová Magdaléna r. Knapová		0	636
+1469	Bačová Mária		0	747
+1469	Bačová Mária r. Hatalová		0	920
+1469	Bačová Mária r. Kundratová		0	486,563,1104
+1469	Bačová Mária r. Vargová		0	827,896
+1469	Balková Helena r. Hricová		0	822
+1469	Barčáková Anna r. Vrábľová		0	493
+1469	Barnovský Eliáš		0	630,749,775,831
+1469	Berčáková Anna r. Vrabľová		0	952
+1469	Birčáková Anna r. Kičurová	3	0	450,664,1072,1074
+1469	Birčáková Anna r. Kičurová	4	0	490,547
+1469	Bodnár Michal		0	753,1027
+1469	Bodnár Michal	2	0	1016
+1469	Bodnárová Barbora		0	1027
+1469	Bodnárová Mária r. Hlipalová		0	714
+1469	Bodnárová Zuzana		0	450,664,1072,1074
+1469	Bodnárová Zuzana	1	0	490,547
+1469	Bortňaková Mária r. Olejárová		0	502,572,779,1062
+1469	Daňko Juraj		0	913
+1469	Daňko Lorinc		0	703
+1469	Daňko Vavrinec		0	913
+1469	Daňková Ilona r. Mikolajová		0	998
+1469	Dopiráková Mária r. Soročinská		0	755
+1469	Dopiráková Mária r. Soročinská	1	0	673
+1469	Dopiráková Mária r. Soročinská	2	0	1027
+1469	Dopiráková Mária r. Soročinská	3	0	450,664,1072,1074
+1469	Dopiráková Mária r. Soročinská	4	0	490,547
+1469	Džundová Anna r. Pažinová		0	832
+1469	Džundová Anna r. Pažinová	1	0	871
+1469	Džundová Anna r. Pažinová	2	0	756
+1469	Džundová Anna r. Poradišinová		0	1029
+1469	Džundová Anna r. Poradišinová	1	0	450,664,1072,1074
+1469	Džundová Anna r. Poradišinová	2	0	490,547
+1469	Fiľ Jop		0	450,490,547,664,1072,1074
+1469	Grusková Zuzana r. Vrabľová		0	493
+1469	Grusková Zuzana r. Vrabľová	1	0	952
+1469	Halík Ján		0	372,604,769,889,1095
+1469	Halík Ján	1	0	629,1000,1019
+1469	Halík Ján	2	0	490,547
+1469	Halík Ján	3	0	737
+1469	Halík Ján	4	0	737,1019
+1469	Halík Ján	5	0	655,837
+1469	Halík Ján	7	0	882
+1469	Halík Ján	8	0	1031
+1469	Halík Ján	9	0	450,664,1072,1074
+1469	Halík Jozef		0	837
+1469	Halík Jozef	1	0	562,776,1063
+1469	Halík Lukáč		0	490,547,655,837
+1469	Halík Lukáč	2	0	1031
+1469	Halík Lukáč	3	0	450,664,1072,1074
+1469	Halík Mária		0	491
+1469	Halík Michal	2	0	655,837
+1469	Halík Michal	4	0	1031
+1469	Halík Miroslav		0	372
+1469	Halíková Helena r. Hopková		0	633,1029
+1469	Halíková Helena r. Hopková	1	0	450,664,1072,1074
+1469	Halíková Helena r. Hopková	2	0	490,547
+1469	Halíková Mária r. Čabrová		0	914
+1469	Halíková Verona r. Jančišinová		0	461,462,612,630,643,726,735,772,775,1034
+1469	Halíková Verona r. Jančišinová	1	0	570,932
+1469	Halíková Verona r. Jančišinová	2	0	780,946
+1469	Haščáková Anna r. Krompaská		0	558,778,783,932,937,1021,1079
+1469	Haščáková Anna r. Krompaská	2	0	657,741
+1469	Hatala Ján		0	604,769,889,1095
+1469	Hatala Ján	1	0	711,767,1067
+1469	Hatala Ján	2	0	711,767,1067
+1469	Hatala Ján	4	0	526
+1469	Hatala Ján	5	0	790
+1469	Hatala Ján	6	0	781
+1469	Hatala Ján	7	0	949
+1469	Hatala Jozef		0	711,767
+1469	Hatala Jozef	1	0	711,767
+1469	Hatala Jozef	2	0	787,919
+1469	Hatala Jozef	3	0	481
+1469	Hatala Jozef	4	0	808
+1469	Hatala Marek		0	526,711,767,1023,1067
+1469	Hatala Marek	1	0	653
+1469	Hatala Marek	2	0	1021
+1469	Hatala Štefan		0	711,767,1067
+1469	Hatala Štefan	1	0	711,767,1067
+1469	Hatala Štefan	11	0	481
+1469	Hatala Štefan	12	0	653
+1469	Hatala Štefan	13	0	809
+1469	Hatala Štefan	14	0	1023
+1469	Hatala Štefan	15	0	1021
+1469	Hatala Štefan	16	0	450,664,1072,1074
+1469	Hatala Štefan	17	0	490,547
+1469	Hatala Štefan	2	0	528,530,711,767,1067
+1469	Hatala Štefan	4	0	787
+1469	Hatala Štefan	5	0	526
+1469	Hatala Štefan	6	0	526
+1469	Hatala Tivadar		0	526,830
+1469	Hatala Tivadar	1	0	882
+1469	Hatala Vasil		0	490,547
+1469	Hatala Vasil	1	0	450,664,1072,1074
+1469	Hatalčin Ján		0	928
+1469	Hatalová Anna		0	481,787
+1469	Hatalová Anna	1	0	481,905
+1469	Hatalová Anna	4	0	450,481,490,547,653,664,1023,1072,1074
+1469	Hatalová Helena		0	712,765
+1469	Hatalová Helena	1	0	481,787
+1469	Hatalová Helena r. Kičurová	1	0	875
+1469	Hatalová Helena r. Kičurová	3	0	450,664,1072,1074
+1469	Hatalová Helena r. Kičurová	4	0	490,547
+1469	Hatalová Helena r. Poradišinová		0	795
+1469	Hatalová Helena r. Poradišinová	1	0	825
+1469	Hatalová Mária		0	781,949
+1469	Hatalová Mária r. Bačová		0	719,771,941,1003,1058
+1469	Hatalová Paraska r. Pažinová		0	730,829
+1469	Hatalová Piroška r. Pažinová		0	490,547,835,1023
+1469	Hatalová Piroška r. Pažinová	1	0	450,664,1072,1074
+1469	Hatalová Verona		0	481,787
+1469	Hatalová Verona r. Štefančíková		0	450,664,816,1072,1074
+1469	Hatalová Verona r. Štefančíková	1	0	490,547
+1469	Havrilová Mária r. Hatalová		0	889
+1469	Havrilová Mária r. Hlipalová		0	604,769,1095
+1469	Hlavačová Helena r. Mišková		0	490,547
+1469	Hlipala Jozef		0	604,769,889,1095
+1469	Hlipala Lukáč	1	0	584,766,1075
+1469	Hlipala Michal		0	584,766,1075
+1469	Hlipalová Katarína r. Soročinská		0	838
+1469	Hlipalová Piroška r. Kravcová		0	685
+1469	Hnat Peter		0	501,578,757,814,1029,1066,1110
+1469	Hnatová Zuzana		0	501,578,757,814,1029,1066,1110
+1469	Holavačová Helena r. Mišková		0	752
+1469	Holavačová Helena r. Mišková	1	0	450,664,1072,1074
+1469	Holavačová Helena r. Mišková	2	0	1023
+1469	Hopko Ján		0	780
+1469	Hopko Ján	2	0	570
+1469	Hopko Ján	7	0	882
+1469	Hopko Marek		0	570
+1469	Hopko Marek	2	0	450,490,547,633,664,882,1029,1072,1074
+1469	Hopko Michal		0	450,463,464,465,468,469,470,471,472,473,474,475,476,490,547,551,647,664,846,890,933,1014,1072,1074
+1469	Hopko Mikuláš	1	0	570
+1469	Hopko Mikuláš	2	0	570
+1469	Hopko Mikuláš	5	0	820,1068
+1469	Hopko Mikuláš	6	0	716,1042
+1469	Hopko Vasil		0	450,463,464,465,468,469,470,471,472,473,474,475,476,490,547,551,647,664,846,890,933,1014,1072,1074
+1469	Hopková Verona r. Filová		0	820,1068
+1469	Hopková Zuzana r. Kurucová		0	918
+1469	Hric Ján		0	501
+1469	Hric Lukáč		0	501
+1469	Hric Mikuláš		0	501
+1469	Hricov Ján		0	501
+1469	Hricov Ján	1	0	450,664,1072,1074
+1469	Hricov Ján	2	0	490,547
+1469	Hricov Jozef		0	450,664,1072,1074
+1469	Hricov Jozef	1	0	490,547
+1469	Hricov Lukáč		0	501
+1469	Hricov Mikuláš		0	501
+1469	Hricov Mikuláš	3	0	446
+1469	Hricov Pavol		0	603
+1469	Hricov Štefan		0	437,439,1099
+1469	Hricová Anna	2	0	682
+1469	Hricová Anna	3	0	1010
+1469	Hricová Elena r. Vartková		0	565,615,641,793,842
+1469	Hricová Elena r. Vartková	I	0	565,793
+1469	Hricová Helena		0	558,682,783,1079
+1469	Hricová Helena	1	0	778,932,937,1010,1021
+1469	Hricová Helena	2	0	657,741
+1469	Hricová Ilona		0	717
+1469	Hricová Ilona	I	0	717
+1469	Hricová Mária		0	995
+1469	Hricová Mária	1	0	511
+1469	Hricová Mária r. Kičurová		0	716,723,781,787,820,909,918,949,1042,1068
+1469	Hricová Mária r. Šimová		0	690
+1469	Hricová Mária r. Šimová	1	0	1008
+1469	Hricová Zuzana		0	501,717
+1469	Hricová Zuzana	3	0	682,1010
+1469	Hricová Žofia		0	501
+1469	Hricovová Zuzana		0	501
+1469	Hricuv Mária		0	787
+1469	Hricuv Michal		0	918
+1469	Hvartko Štefan		0	703
+1469	Ilčinová Anna		0	447,601
+1469	Ilčinová Žofia r. Murínová		0	627,777,1084,1087
+1469	Ilčinová Žofia r. Murínová	I	0	627,675,739,777,804,805,1084,1087
+1469	Ilčinová Žofia r. Pažinová		0	790
+1469	Ilčinová Žofia r. Pažinová	1	0	666
+1469	Ilčinová Žofia r. Pažinová	2	0	1010
+1469	Ilčišák Ján		0	453,839
+1469	Ilčišák Ján	1	0	498,749,831
+1469	Ilčišák Ján	2	0	639
+1469	Ilčišák Ján	3	0	1016
+1469	Ilčišák Ján	4	0	450,664,1072,1074
+1469	Ilčišák Ján	5	0	490,547
+1469	Ilčišák Ján	I	0	712,765
+1469	Ilčišák Michal		0	840
+1469	Ilčišák Michal	1	0	639
+1469	Ilčišák Michal	2	0	1016
+1469	Ilčišák Michal	3	0	450,664,1072,1074
+1469	Ilčišák Michal	4	0	490,547
+1469	Ilčišák Mikuláš		0	1031
+1469	Ilčišák Mikuláš	1	0	450,664,1072,1074
+1469	Ilčišák Mikuláš	2	0	490,547
+1469	Ilčišák Peter		0	1016
+1469	Ilčišák Peter	1	0	450,664,1072,1074
+1469	Ilčišák Peter	2	0	490,547
+1469	Ilčišáková Anna		0	749,831
+1469	Ilčišáková Helena		0	498,749,831
+1469	Ilčišáková Mária		0	749,831
+1469	Ilčišáková Mária r. Vargová		0	630,775
+1469	Ilčišáková Mária r. Vargová	1	0	450,664,1031,1072,1074
+1469	Ilčišáková Mária r. Vargová	2	0	490,547
+1469	Ilčišáková Verona		0	498,749,831
+1469	Ilčišáková Žofia r. Hricová		0	501,578,1066,1110
+1469	Ilčišin Ján		0	608,770,1010
+1469	Ilčišin Marek		0	1016
+1469	Ilčišin Peter		0	599
+1469	Ilčišin Peter	1	0	1010
+1469	Ilčišinová Helena		0	450,664,1072,1074
+1469	Ilčišinová Helena	1	0	490,547
+1469	Ilčišinová Helena r. Žačková		0	600,710,1076,1088
+1469	Jančišin Ján		0	461,462,612,630,726,735,772,775,1034
+1469	Jančišin Ján	1	0	461,462,612,630,726,735,772,775,1034
+1469	Jančišin Ján	5	0	450,664,1072,1074
+1469	Jančišin Ján	7	0	490,547
+1469	Jančišin Ján	I	0	604,769,889,1095
+1469	Jančišin Jozef		0	565,615,641,660,726,735,854,944
+1469	Jančišin Jozef	1	0	448,841,889,944
+1469	Jančišin Jozef	3	0	752
+1469	Jančišin Marek		0	606,768,915
+1469	Jančišin Marek	1	0	901
+1469	Jančišin Marek	2	0	513
+1469	Jančišin Marek	3	0	513
+1469	Jančišin Marek	5	0	708,762
+1469	Jančišin Michal		0	558,565,615,641,726,735,783,944,1079
+1469	Jančišin Michal	1	0	841,944
+1469	Jančišin Mikuláš		0	461,462,612,630,726,735,772,775,1034,1052
+1469	Jančišin Mikuláš	1	0	525,1065,1106
+1469	Jančišin Mikuláš	I	0	461,462,612,630,726,735,772,775,1034
+1469	Jančišin Peter		0	450,502,572,664,726,735,779,1062,1072,1074
+1469	Jančišin Peter	1	0	490,547,643
+1469	Jančišin Peter	3	0	799,932
+1469	Jančišin Peter	5	0	1014
+1469	Jančišin Peter	6	0	450,664,1072,1074
+1469	Jančišin Peter	7	0	490,547
+1469	Jančišin Peter	I	0	615

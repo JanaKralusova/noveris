@@ -1,0 +1,256 @@
+767	Staríček Ernest		0	9580
+767	Staríček Imrich Dr.		0	9580
+767	Staríček Kornel Ing.		0	9580
+767	Stolár Jozef	ml	0	9000,9001
+767	Straková Ema r. Kostková	m.Ján, predtým Vajčíková m.František	0	9979
+767	Strečko Ján		0	9000,9001,9461,10946,10947
+767	Strečko Ľudovít r. Strečko		0	9000,9001,9305,9461,10946,10947
+767	Strhák Štefan		0	6542,8088
+767	Strhák Viliam		0	6542,8088
+767	Strháková Emília		0	6542,8088
+767	Strháková Helena r. Bodoríková		0	9401,9487
+767	Strháková Lena		0	6542,8088
+767	Strižincová Mária r. Strižincová		0	9000,9001
+767	Strižinec Anton		0	9000,9001
+767	Strižinec Karol		0	9000,9001
+767	Strižinec Štefan		0	9000,9001
+767	Strižinec Štefan r. Strižinec		0	9082
+767	Strnad František		0	9949,10017
+767	Strnad Rudolf		0	9949,10017
+767	Strnadová Helena		0	9000,9001
+767	Strnadová Mária		0	9949,10017
+767	Strnisko Anton		0	2338,8886,8887,8888,9000,9001
+767	Strnisko Arpád Štefan MUDr.		0	9000,9001
+767	Strnisko Emil	ž.Mária Munková	0	9000,9001
+767	Strnisko František, SR		0	4904
+767	Strnisko Ján		0	5955
+767	Strnisko Jozef		0	2841
+767	Strnisko Jozef	ž.Alžbeta Rusová	0	9159
+767	Strnisko Jozef r. Strnisko		0	9000,9001
+767	Strnisko Jozef r. Strnisko	ž.Jolana Szabová	0	9000,9001
+767	Strnisko Štefan r. Strnisko	syn Jozefa a Alžbety Rusovej	0	9000,9001
+767	Strnisková Anna r. Závodská		0	4646
+767	Strnisková Johana r. Bahulová		0	5955
+767	Strnisková Jolana r. Szabová	m.Jozef	0	9000,9001
+767	Strnisková Margita r. Strnisková		0	9000,9001
+767	Strnisková Mária r. Halásová	m.František	0	9508
+767	Strnisková Mária r. Munková	m.Emil	0	9000,9001,9888
+767	Strnisková Mária r. Turanovičová		0	9000,9001
+767	Strnisková Terézia		0	9000,9001
+767	Struk František		0	8993
+767	Struk František	ž.Anna Panáková	0	8992,8993
+767	Struk Ján	ml	0	8993
+767	Struk Ján	ž.Rozália Majzelová	0	8992,8993,9067
+767	Struk Ján r. Struk		0	592,4885,9067,9090
+767	Struk Michal	ž.Anna Šulhinová	0	8992,8993
+767	STRUK MICHAL		0	4883,4889
+767	STRUK PAVOL		0	4883
+767	Struk Vladimír		0	4886,4889
+767	STRUK VLADINIR		0	4883
+767	Struková Anna r. Panáková		0	5446
+767	Struková Anna r. Panáková	m.František	0	8992,8993,9452
+767	Struková Anna r. Šulhinová		0	8992,8993,9107,10748
+767	Struková Apolónia		0	592,4885
+767	Stuchal Viliam	ž.Katarína Bridová	0	9000,9001
+767	Stuchalová Katarína r. Bridová	m.Viliam	0	9000,9001
+767	Suchánek Ján	ž.Mária Pavlovičová	0	8993
+767	Suchánek Jozef		0	3046
+767	Sucháneková Mária r. Pavlovičová	m.Ján	0	8993
+767	Sucháneková Mária, SR		0	4581
+767	SUCHOMER EMIL		0	7718
+767	Suchomer Ferdinand	ž.Serafína Tóthová	0	9000,9001
+767	Suchomer František		0	9000,9001
+767	SUCHOMER FRIDRICH		0	5371,5373
+767	SUCHOMER JAN		0	5371,5373
+767	SUCHOMER JOZEF		0	5371
+767	Suchomer Karol	ž.Magdaléna Bardiovská	0	9000,9001
+767	Suchomer Vojtech		0	9000,9001
+767	Suchomerová Jozefína		0	9000,9001
+767	Suchomerová Magdaléna r. Bardiovská	m.Karol	0	9000,9001
+767	Suchomerová Mária		0	9000,9001
+767	Suchomerová Serafína r. Tóthová	m.Ferdinand	0	9000,9001
+767	Sukuba Viliam r. Sukuba	ž.Anna Krčkemetyová	0	9153
+767	Sukubová Anna r. Kečkemetyová	m.Viliam	0	9153
+767	Suláková Mária r.Kubičková		0	7573
+767	Sury Jozef	ž.Júlia Zelinková	0	9000,9001
+767	SURY JOZEF		0	6483
+767	Suryová Helena		0	9000,9001
+767	Suryová Jozefína r. Závadanová	m.Michal	0	9000,9001
+767	Suryová Júlia r. Zelinková	m.Jozef	0	9000,9001
+767	Suryová Mária r. Rýdza	m.Ján	0	9000,9001
+767	Svan Pavol r. Svan		0	5887
+767	Svätopeterský spolok		0	9078
+767	Svetková Anna r. Šurinová		0	9000,9001,10034
+767	Svetlík Anton	ž.Mária Divincová	0	8980,10470
+767	Svetlík Ján Pavol		0	8392
+767	Svetlík Peter		0	7547
+767	Svetlík Rudolf r. Svetlík		0	8445
+767	Svetlíková Katarína r. Opetová		0	5826
+767	Svetlíková Katarína r. Opetová	m.Marek	0	9181,9250,9261,9276,9277
+767	Svetlíková Katarína r. Opetová, SR		0	8144,8145
+767	Svetlíková Mária r. Divincová		0	9102,9267,9299
+767	Svetlíková Mária r. Divincová	m.Anton	0	8980,10470
+767	Svetlíková Mária r. Šoková		0	8445
+767	Svetová Anna Mária		0	9935
+767	Svetová Margita r. Galicová		0	9935
+767	Svibová Mária r. Garguláková		0	8755,8992,8993,9042
+767	Sviečka Jozef		0	9627,9629
+767	Svitek Otto r. Svitek		0	9000,9001
+767	Sviteková Mária r. Samohylová		0	9000,9001
+767	Sviteková Mária r.Samohýlová		0	7011
+767	Sviteková Paulína r. Bednárová		0	9000,9001
+767	Sviteková Štefánia		0	9000,9001
+767	Svorad Rudolf r. Svorad		0	9000,9001,9305
+767	Svoradová Júlia r. Strečková	m.Pavel	0	9000,9001,9461,10946,10947
+767	Svrček Izidor		0	8993,9106,9231
+767	Sýkora Karol	ž.Eva Bedečová	0	9000,9001
+767	Symavická Mária r. Bilinská	m.Peter	0	9000,9001
+767	Symavický Peter	ž.Mária Bilinská	0	9000,9001
+767	Synak Ján, SR		0	5600
+767	SYNAK MICHAL		0	5214
+767	Synák Michal	ž.Mária Rybová	0	10189,10193
+767	Synák Michal	žen s Emíliou Synákovu	0	5215
+767	Synák Michal r. Synák	ženatý Rybovou Máriou	0	5217
+767	Synák Michal r. Synák	ženatý s Emíliou Synákovou	0	5217
+767	SYNAK VILEM		0	5451
+767	SYNAK VILIAM		0	5214,5215,5216
+767	Synák Viliam r. Synák		0	5217
+767	Synáková Etela r. Ondrejičková		0	2113
+767	Synáková Katarína		0	8096
+767	Szabová Katarína r. Polakovičová		0	9000,9001
+767	Szemenyi Dušan r. Szemenyi		0	9000,9001
+767	Szemenyi Ján r. Szemenyi		0	9000,9001
+767	Szemenyi Juraj r. Szemenyi		0	9000,9001
+767	Šajtlava Anton		0	9658
+767	Šajtlava Ivan		0	9658
+767	Šajtlava Jozef	ž.Terézia Goldová	0	9859
+767	Šajtlava Jozef, SR		0	569
+767	Šajtlavá Margita r. Zelinková		0	4139
+767	Šajtlavová Magdaléna r. Kleimanová		0	2201,6508,6509,10779
+767	Šajtlavová Marta		0	9658
+767	Šajtlavová Marta r. Šajtlavová		0	3520
+767	Šándor Štefan r. Šándor	9. mája 1850/30, 92001 Hlohovec, SR	0	9349
+767	Šandorová Alžbeta r. Ondrejková		0	9000,9001,9389,9393
+767	Šandorová Helena r. Petrovičová		0	9491
+767	Šandorová Margita		0	9000,9001
+767	Šandorová Mária r. Hudecová		0	9000,9001
+767	Ščasná Alžbeta r. Štefanovičová		0	8265
+767	ŠČASNÁ Petronela r. Gulová		0	8263
+767	Ščasná Vilma r. Hlavnová		0	9256
+767	Ščasnár Ján		0	9000,9001,10218
+767	Ščasnár Jozef		0	9000,9001,10218
+767	Ščasnár Michal		0	8962,9000,9001,10061
+767	Ščasnár Pavol		0	9000,9001,10218
+767	Ščasnárová Františka ml., SR		0	7965
+767	Ščasnárová Františka r. Vavrová		0	9000,9001,10009,10168
+767	Ščasnárová Františka r. Vavrová, SR		0	7965
+767	Ščasnárová Margita		0	10233
+767	Ščasnárová Mária r. Kadlečíková	m.Jozef	0	9000,9001,10218
+767	Ščasnárová Mária, SR		0	7965
+767	Ščasnárová Terézia		0	9000,9001
+767	Ščasnárová Valéria	dcéra Ferdinanda a Františky Vavrovej	0	9000,9001,10009,10168
+767	Ščasnárová Valéria	dcéra Jozefa a Mária Kadlečíkovej	0	9000,9001,10218
+767	Ščasnárová Valéria, SR		0	7965
+767	Ščipák Ambróz		0	9000,9001
+767	Ščipák Eva		0	4983
+767	Ščipák Ján		0	4983
+767	Ščipák Jozef		0	4983,9256
+767	Ščipák Michal		0	4983
+767	Ščipák Michal r. Ščipák		0	9000,9001
+767	Ščipák Silvester		0	9256
+767	Ščipák Štefan	syn Jozefa a Gabriely Hlavnovej	0	9256
+767	Ščipák Štefan r. Ščipák		0	10109
+767	Ščipáková Margita r. Blašková		0	9000,9001
+767	Ščipáková Valéria r. Nitranová		0	9205,10166,10201
+767	Šebesta František		0	9000,9001,9976
+767	Šebesta Ján		0	7563,9000,9001
+767	Šebesta Jozef		0	9000,9001,9976
+767	Šebesta Michal		0	9000,9001,9976
+767	Šebesta Pavol r. Šebesta		0	5844
+767	Šebesta Štefan		0	7563,9000,9001
+767	Šebestová Františka		0	9000,9001,9976
+767	Šebestová Júlia		0	7563,9000,9001
+767	Šebestová Mária		0	7563
+767	Šebestová Mária	dcéra Antona a Mária Zahorecovej	0	9000,9001,9976
+767	Šebestová Mária	dcéra Jozefa a Kornélie Hromadovej	0	9000,9001
+767	Šebestová Mária r. Zahorecová	m.Anton	0	9000,9001
+767	Šebestová Paulína r. Neščáková		0	5844,9000,9001
+767	Šebestová Pavlína r. Neščáková		0	5845
+767	Šebo Milan		0	9024
+767	Šellerová Mária r. Karabová		0	9000,9001
+767	Šemelák Jozef	ž.Mária Vachanová	0	9607
+767	Šemelák Štefan		0	8730,8731
+767	Šemeláková Jozefína r. Vachanová		0	6706
+767	Šemeláková Mária r. Vachanová		0	2172,8941,10272
+767	Šemeláková Mária r. Vachanová	m.Jozef	0	9607
+767	Šerešová Mária r.Balážová		0	5238
+767	Šery Imrich		0	9000,9001
+767	Ševčíková Malvína r. Slováková- Halásová		0	9174
+767	Ševčíková Mária		0	5784
+767	Ševčíková Valéria		0	9000,9001,10105
+767	Šiatkovská Amália r. Štipáková		0	9000,9001
+767	Šimáková Milada		0	6964,6965,7718
+767	Šimo Jozef r. Šimo		0	8935
+767	Šimo Michal	ž.Mária Maráková	0	9329
+767	Šimorová Anna r. Martišková		0	9000,9001
+767	Šiška Anton r. Šiška		0	9000,9001,9203
+767	Šiška Ján r. Šiška	ž.Mária Prchlíková	0	10035
+767	Šišková Alžbeta r. Strnisková		0	3255,3308
+767	Šišková Cecília r. Gerdnecová	m.Rudolf	0	9000,9001
+767	Šišková Mária r. Prchlíková	m.Ján	0	9000,9001,10035
+767	Šišovská Helena r. Ráciková		0	10155
+767	Šitzová Františka r. Šurinová		0	1369,6423
+767	Šitzová Františka r. Šurinová	m.Arpád	0	9000,9001,9651,9881
+767	Škavková Margita r. Munková		0	2264
+767	Škublová Bernardína r. Marcinková		0	8609
+767	Škultíková Emília r. Srnková	m.Štefan	0	8992,9052
+767	Šmid Michal		0	1321,4779,7721,8992,8993,9052
+767	Šmid Štefan		0	3296,3557,4967,8966,8992,8996,9077,9096
+767	Šmidová Valéria		0	3296,3557,4967,8966,8992,8996,9077,9096,10783
+767	Šmitala Jozef		0	5772
+767	Šmitala Jozef	ž.Cecília Zudorová	0	9780
+767	Šmitalová Cecília r. Zudorová	m.Jozef	0	9780
+767	Šoka Florián r. Šoka		0	9245
+767	Šoka Michal		0	9283,9284
+767	Šoka Rudolf	ž.Vilma Košťálová	0	9246
+767	Šoka Teofil	ž.Mária Pestúnová	0	9247
+767	Šoková Agneša r. Divincová		0	9236
+767	Šoková Anna r. Vargová		0	9000,9001
+767	ŠOKOVÁ Františka r. Hromadová		0	8244
+767	Šoková Františka r. Lazová		0	10239
+767	Šoková Mária r. Nemcová	m.Anton	0	9947,9948
+767	Šoková Veronika r. Ješková		0	1632,8657,10783
+767	Šoková Veronika r. Ješková, SR		0	4416,4975,4976,8659,8660
+767	Špalek Jozef		0	9194
+767	Špánik Jozef r. Špánik		0	9000,9001,9986
+767	Špánik Štefan	ž.Štefánia Fireková	0	9986
+767	Špánik Tibor r. Špánik		0	9986
+767	Štanda Jozef		0	5127,6426
+767	Štanda Július		0	1369,5127,6426,7923
+767	Štanda Michal		0	10030
+767	Štanda Michal r. Štanda		0	9000,9001
+767	Štandová Anna r. Šurinová		0	6425
+767	Štandová Štefánia		0	9000,9001
+767	Šťastná Cecília r. Branická	m.Štefan	0	9000,9001
+767	Šťastný Ján		0	9685
+767	Šťastný Ján	ž.Ľudmila, Horné Zelenice 87	0	9685
+767	Štefančíková Mária r. Masaryková		0	8949,8950,9000,9001,9386
+767	Štefánek Rudolf		0	9000,9001
+767	Štefáneková Emília		0	9000,9001
+767	Štefáneková Františka		0	9000,9001
+767	Štefáneková Mária		0	9000,9001
+767	Štefanka Ján		0	9000,9001
+767	Štefanka Ján	ž.Amália Krečeková	0	9000,9001
+767	Štefanka Ladislav r. Štefanka	Bratislava, Osadná 15	0	9000,9001
+767	Štefanka Štefan r. Štefanka		0	9000,9001
+767	Štefanková Paulína r. Petrovičová		0	8506
+767	Štefanková Valéria r. Belanská		0	9000,9001
+767	Štefanová Mária r. Kubišeková		0	9000,9001
+767	Štefanovič Ferdinand	ž.Veronika Černá	0	9306
+767	Štefanovič František		0	9521
+767	Štefanovič Ján r. Štefanovič		0	8799,9000,9001
+767	Štefanovič Jozef		0	5187
+767	Štefanovič Jozef r. Štefanovič	ž.Helena Nauková	0	9313
+767	Štefanovič Pavol	ž.Magdaléna Nagyová	0	9000,9001
+767	Štefanovičová Anna r. Cepková	m.František	0	10240
+767	Štefanovičová Anna r. Miklovičová		0	8993

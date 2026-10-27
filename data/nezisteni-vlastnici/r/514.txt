@@ -1,0 +1,256 @@
+309	Šándorová Margita		1	1842
+309	Šimko Štefan		1	1650
+309	Šimková Katarína r. Fedorová		1	881,1773,1931,1951
+309	Šváb Pavol		1	1031
+309	Šváb Pavol, SR		1	1344
+309	Švábová Alžbeta		1	1217,1794,1842
+309	Švábová Alžbeta	mal	1	839,1935
+309	Švábová Helena		1	1217,1770,1842
+309	Švábová Helena	mal	1	839,1935
+309	Tamás Andrej, SR		1	1652
+309	Tamásová Katarína r. Ballová		1	816,1628
+309	Tamáš Vojtech		1	192,1007,1527,1899
+309	Tamášová Katarína r. Ballová, SR		1	1811
+309	Ternaiová Klára r. Vajányiová		1	904,940,942,1167,1862
+309	Ternaiová Klára r. Vajányiová, SR		1	1522
+309	Terneiová Alžbeta r. Lucskaiová		1	842
+309	Terneiová Alžbeta r. Lucskaiová, SR		1	1792
+309	Terneiová Klára r. Vajanyiová		0	192
+309	Timková Barbora r. Fedorová		1	881,1597,1931,1951
+309	Tobákosová Alžbeta r. Takácsová		1	1341
+309	Tobákosová Helena		1	932,1195,1842,1859,1930
+309	Tóth Štefan	st	1	932,1195,1859,1930
+309	Tóth Štefan r. Tóth	st	1	1042
+309	Tóthová Barbora r. Simková		1	1609
+309	Varga Arpád		1	192,1009,1703
+309	Varga Imrich		0	192
+309	Varga Imrich, SR, Cestice Cestice		0	1226
+309	Vaszilová Katarína r. Saniszlová, SR, Moldava nad Bodvou Moldava nad Bodvou		0	1458
+309	Vavreková Barbora r. Fedorová		1	1026
+309	Vavreková Barbora r. Fedorová, SR		1	1222,1842
+309	Weiszer Julianna r. Takács		1	817,1404
+309	Weiszerová Júlia r. Fedorová		1	881,1477,1931,1951
+310	ADAMEC Ján	čd.6658/03	0	3241
+310	ANDELOVÁ Mária, Bernolákova 8/13, Prievidza, SR		0	283,2155
+310	BAGY Ján	manž.Judita, Čataj č.14, čd.3432/37	0	3235
+310	BAGY Ján	st., manž.Anna, Čataj č.18, čd.3432/37	0	3232
+310	BAGYOVÁ Anna	manž.Ján, Čataj č.18, čd.3432/37	0	3232
+310	BAGYOVÁ Judita	manž.Ján, Čataj č.14, čd.3432/37	0	3235
+310	BAGYOVÁ Klára	manž.Ján, Čataj č.84, čd.3432/37	0	777
+310	BACHRATÁ Helena r. KOVAČOCYOVÁ	čd.4153/38, čd.5273/38	0	1823
+310	BAJUSOVÁ Judita r. TILLINGEROVÁ	manž.Ján, čd.7391/39	0	2180
+310	BANIČ Anton	manž.Veronika rod.Krajčovičová, čd.3564/50	0	1909,2013,2695,2696,2697,2707,2708,3369
+310	BANIČOVÁ Veronika r. KRAJČOVIČOVÁ	manž.Anton, čd.3564/50	0	1909,2013,2695,2696,2697,2707,2708,3369
+310	BARAN Augustín	čd.1418/26	0	3119
+310	BARAN Augustín, SR		0	1129
+310	BARAN Emil		0	333
+310	BARAN Jozef	čd.2444/27, výmaz malol. čd.1041/45	0	333
+310	BARAN Štefan		0	2839
+310	BARAN Viliam		0	2839
+310	BELAVÝ Jozef	malol., čd.1515/54	0	3102
+310	BENKOVSKÝ Michal		0	3244
+310	BERNADIOVÁ Anna	Taliansko	0	2935
+310	BILČÍKOVÁ Mária	čd.2923/20	0	1970
+310	BODORÍKOVÁ Emília r. GOGOLÁKOVÁ	čd.1108/51	0	3053
+310	Bošmanský Gejza		0	393,398,409,3426
+310	BOŠMANSKÝ Gejza	čd.1085/17	0	1840,1841
+310	BOUDOVÁ Helena r. PÁLENÍKOVÁ		0	2993
+310	BRICHTOVÁ Bernardína	malol., čd.4815/42	0	1666
+310	BUDAJOVÁ Katarína r. KIPSOVÁ	čd.4365/48	0	1848
+310	BUDAY Michal	manž.Katarína, Čataj č.101, čd.3432/37	0	3231
+310	BUDAYOVÁ Katarína	manž.Michal, Čataj č.101, čd.3432/37	0	3231
+310	BURAN Augustín		0	1298
+310	BZINKOVÁ Etela r. ZUBÁKOVÁ	čd.1387/46	0	3216
+310	BZINKOVÁ Katarína r. ZUBÁKOVÁ	čd.1387/46	0	3216
+310	BZINKOVÁ Mária	malol., čd.1387/46	0	3216
+310	CABADAJOVÁ Anna		0	2831
+310	CÍSAR Anton		0	245,668
+310	CÍSAR Imrich	manž.Aurélia rod.Zmajkovičová, čd.4279/50	0	2807
+310	CÍSAR Štefan	čd.3564/50, manž.Helena rod.Trtolová	0	1909,2013,2695,2696,2697,2707,2708,3369
+310	CÍSAR Viliam		0	2862
+310	CÍSAROVÁ Helena r. TRTOLOVÁ	manž.Štefan, čd.3564/50	0	1909,2013,2695,2696,2697,2707,2708,3369
+310	CZEDL Štefan		0	2725
+310	ČECHOVIČ Ferdinand	manž.Jozefína rod.Mizerová, čd.432/42, zom.7.3.1973	0	1909,2013,2695,2696,2697,2707,2708,3369
+310	ČECHOVIČ Ján	Gocnod č.14, čd.3432/37	0	3169
+310	ČECHOVIČ Ján	manž.Mária rod.Bacigálová, čd.1629/48	0	3168
+310	ČECHOVIČ Jozef	čd.4081/26	0	3185
+310	ČECHOVIČ Karol	manž.Anna rod.Koláriková, čd.3432/37	0	3257
+310	ČECHOVIČ Rudolf	čd.1581/31	0	1294,2820
+310	ČECHOVIČ Silvester	čd.364/44	0	2814
+310	ČECHOVIČOVÁ Anna	čd.4081/26	0	3185
+310	ČECHOVIČOVÁ Anna r. KOLÁRIKOVÁ	manž.Karol, čd.3432/37	0	3257
+310	ČECHOVIČOVÁ Mária	manž.Ján, čd.1629/48	0	3168
+310	ČECHOVIČOVÁ Štefánia r. ONDREJIČKOVÁ	manž.Ján, čd.1817/64	0	2817
+310	ČECHVALOVÁ Eleonóra r. BLUDOVIČOVÁ	čd.3455/47	0	3125
+310	ČERNÝ Vendel		0	1186
+310	Čs. štát - Ústredný kontrolný a skúšobný ústav poľnohospodársky, Bratislava, SR		0	398
+310	ČUKLOVIČ Karol		0	245,1275
+310	ČUKLOVIČOVÁ Mária r. Šebeková		0	245,1275
+310	ČUPERKOVÁ Katarína r. BRUNOVSKÁ		0	2898
+310	DOROTA Ján a DOROTOVÁ Mária r. KAČÁNIOVÁ		0	2900
+310	DUGOVIČ Jozef	čd.1630/18, čd.3878/49	0	2707,2708
+310	DUGOVIČOVÁ Emerencia r. KLAČANOVÁ	čd.3564/50	0	1909,2013,2695,2696,2697,2707,2708,3369
+310	DUGOVIČOVÁ Magdaléna		0	1909,2013,2695,2696,2697,3369
+310	DUGOVIČOVÁ Magdaléna	čd.2410/23	0	2791
+310	ĎURIŠOVÁ Helena r. RYBANIČOVÁ	manž.Štefan, čd.2161/54	0	1596,2812
+310	DZÍBELA Ján	manž.Ľudmila rod.Ochabová, Halmeš č.84, čd.3383/37	0	1676
+310	DZÍBELOVÁ Magdaléna r. Horváthová		0	1968
+310	FEKETEOVÁ Pavlína r. HINCOVÁ	manž.Jozef, Halmeš č.86, čd.3432/37, zom.1.2.1973	0	1737
+310	FEKETEOVÁ Rozália r. HORVÁTHOVÁ	čd.1177/48	0	3179
+310	FEKETEOVÁ Serafína r. NOVOSEDLÍKOVÁ	manž.Ján, Halmeš č.85, čd.3432/37	0	3184
+310	FIALA Jozef	manž.Anna rod.Letovanská, Rožindol č.172, čd.3432/37	0	1915
+310	FIALA Rudolf	čd.2463/47	0	2316
+310	FIALA Štefan	čd.2463/47	0	2316
+310	FIALOVÁ Pavlína	malol., čd.2463/47	0	2316
+310	FIALOVÁ Terézia		0	2316
+310	FULIER Jozef		0	1909,2013,2695,2696,2697,2707,2708,3369
+310	FULIEROVÁ Filoména r. HULÁKOVÁ	manž.Jozef, čd.3229/49	0	1909,2013,2695,2696,2697,2707,2708,3369
+310	GAJARSKÁ Magdaléna r. IZAKOVIČOVÁ	manž.František, Halmeš č.104, čd.3383/37	0	3152
+310	GAJARSKÝ František	manž.Magdaléna rod.Izakovičová, Halmeš č.104, čd.3383/37, zo	0	3152
+310	GÁL Ján	čd.1509/37	0	2796
+310	GÁL Ján	manž.Vilma rod.Kovačocyová, čd.3321/25, čd.4249/37, zom.4.2	0	1909,2013,2695,2696,2697,2707,2708,3369
+310	GALBA Ján	čd.103/15, čd.679/43,výmaz malol. čd.868134	0	1909,2013,2695,2696,2697,2707,2708,3369
+310	GÁLOVÁ Vilma r. KOVAČOCYOVÁ	čd.7011/33	0	2698
+310	GAPČOVÁ Klotilda r. Šustová, Nádražna 11, SR		0	22
+310	GAŠPAROVIČ Tomáš	manž.Izabela, Kaplna č.55, čd.3432/37	0	3204
+310	GAŠPAROVIČOVÁ Izabela	manž.Tomáš, Kaplna č.55, čd.3432/37	0	3204
+310	GÉCIOVÁ Oľga r. MONCMANOVÁ	čd.2305/47	0	2285
+310	GERYOVÁ Terézia r. KUCMANOVÁ	malol., čd.5379/44, Budovateľská štvrť č.575, Cífer	0	2774,2992
+310	GLASA LIBOR		0	484
+310	Goldbergerová Regina r. Duschinská		0	88,1269
+310	GRUPÁČOVÁ Margita r. MARTINCOVÁ		0	2801
+310	HALAČ Viliam		0	2957
+310	HARČÁROVÁ Vilma r. SLOVÁKOVÁ	zdravotná sestra, čd.2342/45	0	1909,2013
+310	HASÍK Jozef	Halmeš č.33, čd.3432/37	0	3180
+310	HEBORTOVÁ Judita r. ZUBÁKOVÁ	čd.1387/46	0	3216
+310	HLAVATÁ Margita r. KUČERÁKOVÁ	čd.1339/47	0	3132
+310	HORŇÁK František	manž.Sidónia rod.Jankovičová, čd.216/61	0	3036
+310	Horníková Rozália r. Köszeghyová		0	2111,2112
+310	HORVÁTH Alojz	malol., čd.1177/48	0	3179
+310	HORVÁTH František	čd.1177/48	0	3179
+310	HORVÁTH Imrich		0	1968
+310	HORVÁTH Imrich	malol., čd.1177/48	0	3179
+310	HORVÁTH Jozef	čd.1177/48, výmaz malol. čd.1668/48	0	3179
+310	HORVÁTH Ľudovít	čd.3502/43	0	1243
+310	HORVÁTHOVÁ Amália r. RAKÚSOVÁ	manž.Ladislav, čd.1894/23	0	1909,2013,2695,2696,2697,2707,2708,3369
+310	HORVÁTHOVÁ Magdaléna r. KRUTÁ	manž.Ján, Halmeš č.44, čd.3432/37	0	3179
+310	HORVÁTHOVÁ Mária r. BLUDOVIČOVÁ	čd.3455/47	0	3130
+310	HORVÁTHOVÁ Monika r. BERNADIČOVÁ	manž.Ferdinand, čd.6522/03, 6531/40	0	1909,2707,2708
+310	HRADSKÁ Amália	čd.975/31, výmaz malol. čd.5232/40	0	2700,3810
+310	HRIČOVSKÝ Ján		0	3193
+310	HRUŠOVSKÁ Agneša r. BADÁČOVÁ		0	3051
+310	HRUŠOVSKÁ Anna r. FRANCOVÁ	manž.Rudolf, čd.1215/60	0	2904
+310	HRUŠOVSKÁ Jarmila r.Lanáková, Brestovany,Staničná 23		0	1973
+310	HRUŠOVSKÝ Ferdinand		0	3051
+310	HRUŠOVSKÝ Rudolf	manž.Anna rod.Francová, čd.1215/60	0	2904
+310	HUJSIOVÁ Blažena		0	489
+310	HUSTÁ Anna r. KRÁLOVÁ	manž.Ambróz, Pác č.37, čd.3432/37	0	3240
+310	HUSTÝ Ambróz	manž.Anna rod.Králová, Pác č.37, čd.3432/37	0	3240
+310	HYNKOVÁ Mária r. Viršíková		0	1287
+310	HYNKOVÁ Mária r. VIRŠÍKOVÁ	čd.2065/63	0	2747
+310	CHALUPKA Jozef	manž.Alžbeta rod.Hanidžarová, čd.8322/37	0	3178
+310	CHALUPKOVÁ Alžbeta r. HANIDŽAROVÁ	manž.Jozef, čd.8322/37	0	3178
+310	CHMUROVÁ Mária r. BAKAYOVÁ	manž.Rudolf, čd.2302/51, čd.2012/62	0	3249
+310	CHUDOBINEC	Cífer, čd.3432/37	0	3265
+310	IVČIČ Ján		0	1909,2013,2695,2696,2697,2707,2708,3078,3369
+310	Jankovič Ján		0	1957,2776
+310	JANKOVIČ Jozef	čd.3564/50	0	1909,2013,2695,2696,2697,2707,2708,3369
+310	JANKOVIČOVÁ Rozália r. KOLLÁROVÁ	čd.3564/50	0	1909,2013,2695,2696,2697,2707,2708,3369
+310	JANOŠOVIČOVÁ Terézia r. ČECHOVIČOVÁ	čd.1581/31	0	2811
+310	Jantulová Katarína r. Klučková, č. 350, SR		0	494
+310	JURÁK Ján	manž.Štefánia rod.Gašparovičová, Modranka, čd.3432/37	0	3147
+310	JURÁKOVÁ Štefánia r. GAŠPAROVIČOVÁ	manž.Ján, Modranka, čd.3432/37	0	3147
+310	Jurišičová Terézia r. Lošonská		0	542
+310	JURSOVÁ Mária r. VIDOVIČOVÁ		0	1846
+310	KIPSO Juraj	manž.Alžbeta, Čataj č.99, čd.3432/37	0	3237
+310	KIPSOVÁ Alžbeta	manž.Jurja, Čataj č.99, čd.3432/37	0	3237
+310	KIPSOVÁ Katarína	manž.Michal, Čataj č.101, čd.3432/37	0	1848
+310	KLAMO Celestin	manž.Paulína rod.Teicnerová, čd.4153/38	0	1823
+310	KLAMO Celestín	čd.3432/37, Cífer č.195	0	2789
+310	KLAMOVÁ Pavlína r. TAJCNEROVÁ	čd.2040/46	0	3262
+310	KOLLÁR Ján	čd.732/56	0	3123
+310	KOLLÁR Jozef	čd.3564/50	0	1909,2013,2695,2696,2697,2707,2708,3369
+310	KOLLÁRIKOVÁ Pavlína r. BARANOVÁ	manž.Ján, Cífer č.204, čd.3432/37, čd.3986/41	0	3209
+310	KOLLÁROVÁ Margita r. JURČOVIČOVÁ	čd.2304/12, čd.2947/62, zom.18.5.1972	0	3123
+310	KOLLÁROVÁ Mária Marta r. KOSNÁČOVÁ	čd.2137/59	0	2779,3028
+310	KOLLÁROVÁ Rozália r. LUNÍČKOVÁ	čd.2168/37	0	2777
+310	KOSTECKÁ Emília r. BARÁNKOVÁ		0	2981
+310	KÖSZEGHY Anton, Bernolákova 6/10, Prievidza, SR		0	283,2155
+310	Köszeghy Jozef		0	2112
+310	KÖSZEGHY Miroslav, Janderská 199, Kamenec pod Vtáčnikom, SR		0	283,2155
+310	KÖSZEGHY Peter, Čereňany, č. 592, SR		0	283,2155
+310	Köszeghy Rudolf	ž. Emília r.Beluská	0	2111,2112
+310	Köszeghy Štefan	ž. Štefánia r.Pravdová	0	2111,2112
+310	KOSZEGHYOVÁ Mária r. HANZELOVÁ		0	2740
+310	KÖSZEGHYOVÁ Mária r. MORVAYOVÁ	čd.6514/43	0	1909,2013,2695,2696,2697,2702,2707,2708,3369,3414,3765,3804
+310	KOŠÍKOVÁ Vilhelmina r. MIZEROVÁ	čd.673/34, čd.803/47, výmaz malol. čd.1119/42	0	2973
+310	KOVAČIČ František	čd.3564/50	0	1909,2013,2695,2696,2697,2707,2708,3369
+310	KOVAČIČ Štefan	manž.Terezia rod.Dugovičová, čd.264/25, zom.24.3.1946	0	2793
+310	KOVAČIČOVÁ Amália	čd.5390/35	0	2774
+310	KOVAČIČOVÁ Terézia r. DUGOVIČOVÁ	manž.Štefan, čd.264/25	0	2793
+310	KOVÁČIK Ľubomír, UL. 15, Nováčany, SR		0	51
+310	KOVAČOCY František	manž.Vilma rod.Slováková, čd.4153/38, čd.4153/38, 2459/47	0	1823,3117
+310	KOVAČOCY Imrich	čd.1485/37, čd.2341/45, výmaz malol. čd.2482/43	0	1909,2013,2695,2696,2697,2707,2708,3369
+310	KOVAČOCY Ján	čd.3564/50 B1tt	0	1909,2013,2695,2696,2697,2707,2708,3369
+310	KOVAČÓCY Ján	čd.3564/50 B1nn	0	1909,2013,2695,2696,2697,2707,2708,3369
+310	KOVAČOCY Ľudovít	čd.1681/26, výmaz malol. čd.3100/27, manž.Amália rod.Hanzelo	0	1693,1909,2013,2695,2696,2697,2707,2708,3369
+310	KOVAČOCY Rozália r. JANKOVIČOVÁ	čd.3564/50	0	1909,2013,2695,2696,2697,2707,2708,3369
+310	KOVAČOCY Vít	čd.3564/50	0	1909,2013,2695,2696,2697,2707,2708,3369
+310	KOVAČOCYOVÁ Anna r. Morvayová		0	262
+310	KOVAČOCYOVÁ Anna r. MORVAYOVÁ	č.3564/50	0	1909,2013,2695,2696,2697,2707,2708,3369
+310	KRAJCINGEROVÁ Rozália r. KUPKOVIČOVÁ	manž.Michal, čd.1309/51	0	3025
+310	KRAJČOVIČ Jozef		0	673
+310	KRAJČOVIČ Jozef	čd.3564/50	0	1909,2013,2695,2696,2697,2707,2708,3369
+310	KRAJČOVIČ Michal	čd.3022/38	0	3065
+310	KRAJČOVIČ Michal	čd.3564/50	0	1909,2013,2695,2696,2697,2707,2708,3369
+310	KRAJČOVIČ Michal	čd.4081/26	0	3263
+310	KRAJČOVIČ Tibor		0	2993
+310	KRAJČOVIČ Vladimír		0	2993
+310	KRAJČOVIČOVÁ Mária	čd.3564/50	0	1909,2013,2695,2696,2697,2707,2708,3369
+310	KRAMÁR František	čd.3564/50	0	1909,2013,2695,2696,2697,2707,2708,3369
+310	KRAMÁR Gejza		0	3029
+310	KRAMÁR Jozef		0	2869
+310	KRAMÁR Michal	manž.Apolónia rod.Uhlárová, čd.1794/1900	0	2773
+310	KRAMÁR Štefan		0	3206
+310	KRAMÁR Štefan	čd.3131/47	0	3127
+310	KRAMÁR Štefan	čd.7431/38	0	3206
+310	KRAMÁR Vít		0	1909,2697,2707,2708
+310	KRAMÁROVÁ Cecília r. KUCMANOVÁ	čd.5379/44	0	2774,2992
+310	KRAMÁROVÁ Jozefína r. KOIŠOVÁ	manž.František, čd.135/32, výmaz malol. čd.2582/32, zom.14.2	0	1443,2295
+310	KRCHNÁK Peter	manž.Barbora, Halmeš č.12, čd.3432/37	0	3160
+310	KRCHNÁKOVÁ Barbora	manž.Peter, Halmeš č.12, čd.3432/37	0	3160
+310	KRIŠTOFOVIČ Štefan	manž.Katarína rod.Šuttová, čd.3519/38	0	3176
+310	KRIŠTOFOVIČOVÁ Katarína r. ŠUTTOVÁ	manž.Štefan, čd.3519/38	0	3176
+310	KRIŽAN Ľudovít		0	1840,3082
+310	Križanová Magdaléna r. Orlická		0	393,3426
+310	KRIŽANOVÁ Magdaléna r. ORLICKÁ	čd.4357/48	0	1840,1841,1909,2013,2695,2696,2697,2707,2708,3252,3369
+310	KRUTÁ Rozália r. KRAJČOVIČOVÁ		0	474,2092,3053
+310	KRUTÝ VOJTECH		0	1026
+310	KUCMAN Ferdinand	čd.1542/51	0	2772
+310	KUPKOVIČ Jozef	čd.4988/47	0	1909,2013,2695,2696,2697,2707,2708,3369
+310	KUPKOVIČ Michal	Cífer č.75, čd.3432/37	0	3259
+310	KUPKOVIČ Štefan	čd.4988/47	0	1909,2013,2695,2696,2697,2707,2708,2775,3369,3771
+310	KUSÁ Apolena	manž.Jozef, Halmeš č.49, čd.3383/37	0	3154
+310	KYPSO Michal	ml., Čataj č.106, čd.3432/37	0	3218
+310	LANČARIČOVÁ Terézia r. SLOVÁKOVÁ	manž.František, čd.2004/07	0	349
+310	LANTAJ Martin	malol., čd.6463/43	0	3236
+310	LANTAJ Milan	malol., čd.6463/43	0	3236
+310	LANTAJOVÁ Klára	manž.Martin, Čataj č.13, čd.3432/37	0	3236
+310	LEHOCKÁ Mária	manž.Ján, Čataj č.57, čd.3432/37	0	3229
+310	LEHOCKÝ Ján	manž.Mária, Čataj č.57, čd.3432/37	0	3229
+310	LOFFLEROVÁ Angela r. CÍSAROVÁ	čd.3564/50	0	1909,2013,2695,2696,2697,2707,2708,3369
+310	MARKO Ján	čd.5269/36	0	2791
+310	MARKOVÁ Magdaléna, Pác		0	2011
+310	MARTIŠ Michal	manž.Judita, Čataj č.96, čd.3432/37	0	3234
+310	MARTIŠOVÁ Judita	manž.Michal, Čataj č.96, čd.3432/37	0	3234
+310	MATISKO Juraj	Kaplna č.53, čd.3432/37	0	3203
+310	MERAVÁ Pavla r. SLOVÁKOVÁ	čd.385/47, čd.2449/51	0	591
+310	MIHÁLEKOVÁ Magdaléna r. ŠALGOVIČOVÁ	čd.3810/49	0	3141
+310	MIHÁLOVA Ľudmila, Nám. Sv. Cyrila 20/16, Prievidza, SR		0	283,2155
+310	MOČOL Karol	manž.Margita rod.Točíková, čd.1744/54	0	3100
+310	MOČOLOVÁ Margita r. TOČÍKOVÁ	manž.Karol, čd.1744/54	0	3100
+310	MONCMAN František	manž.Eleonóra rod.Poláčková, čd.3432/37	0	3144
+310	MONCMANOVÁ Eleonóra r. POLÁČKOVÁ	manž.František, čd.3432/37	0	3144
+310	MORVAY František	čd.2272/44	0	2787
+310	MORVAY Imrich		0	2702,3414,3765,3804
+310	MORVAY Ján	manž.Terézia rod.Mašejová, čd.6514/43	0	1909,2013,2695,2696,2697,2707,2708,3369

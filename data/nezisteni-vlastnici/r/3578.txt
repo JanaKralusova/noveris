@@ -1,0 +1,256 @@
+2055	Kissová Katarína		0	291
+2055	Kolbová Margita r. Polláková		0	301
+2055	Krivosik Jozef		0	283,294
+2055	Krivosik Zoltán		0	283,294
+2055	Kunyi Ján		0	347,470
+2055	Kunyi Ladislav		0	347,470
+2055	Majthényiová Žofia r. Pötheová		0	275,356
+2055	Marinkaová Paulina r. Zendlerová		0	399
+2055	Méry Eugen		0	293
+2055	Méryová Agneša		0	206,207
+2055	Méryová Johana		0	238
+2055	Mester Ján		0	275,277
+2055	Mészáros Štefan		0	326
+2055	Mészárosová Alžbeta		0	326
+2055	Mezei Štefan		0	353
+2055	Mezzey Šimon		0	290
+2055	Mezzeyová Jozefína		0	290
+2055	Mezzeyová Veronika		0	290
+2055	Mikóciová Matilda r. Csehyová		0	376
+2055	Mikóczi Ignác		0	322
+2055	Mikócziová Matilda r. Csehyová		0	373
+2055	Molnárová Mária		0	681
+2055	Móroczová Mária		0	268
+2055	Morvay Ján		0	359
+2055	Morvay Ladislav		0	359
+2055	Nagy Rudolf		0	403
+2055	Nagyová Helena		0	326
+2055	Nagyová Marianna r. Pyberová	m.Dezider	0	682
+2055	Németh Michal		0	345
+2055	Némethová Terézia r. Magyarová		0	249
+2055	Olgyay František		0	269,281
+2055	Osztráczky Ján		0	360
+2055	Osztráczky Štefan		0	360
+2055	Osztraczkyová Irena		0	360
+2055	Päck Mandel		0	323
+2055	Pigyverová Mária r. Csivreová		0	202
+2055	Politzerová Irma r. Polláková		0	301
+2055	Polláková Alžbeta		0	301
+2055	Sáhová Mária r. Czifferyová		0	250
+2055	Salamon František		0	367
+2055	Sándor František		0	370
+2055	Sándor Štefan		0	372
+2055	Sill Július		0	336
+2055	Sillová Mária r. Mikóczyová		0	336
+2055	Simoničová Gizela r. Csivreová		0	197,738
+2055	Steinczová Rozália		0	323
+2055	Szabó František		0	229,262,739,917
+2055	Szabó Imrich		0	229,739,917
+2055	Szabó Ľudovít		0	229,739,917
+2055	Szabóová Alžbeta		0	327
+2055	Szabóová Júlia r. Csivreová		0	199
+2055	Szabóová Juliana r. Csivreová		0	204
+2055	Szabóová Mária r. Bognárová		0	242
+2055	Szeifová Alžbeta r. Cziferyová		0	366
+2055	Szilinszkyová Rozália r. Osztráczkyová		0	360
+2055	Sziliová Alžbeta r. Csivreová		0	202
+2055	Šimončičová Gizela r. Csivreová		0	198,199,201,251
+2055	Takács Dezider		0	314
+2055	Takácsová Júlia r. Cséfalvayová		0	379
+2055	Takácsová Mária r. Katonaová		0	313
+2055	Tánczosová Mária r. Maczalová		0	177
+2055	Tóthová Margita r. Weingärtner		0	248
+2055	Tóthová Margita r. Weingärtnerová		0	248
+2055	Tóthová Priska r. Kissová		0	291
+2055	Tvaroskóová Alžbeta r. Katonaová		0	313
+2055	Valková Mária r. Janková		0	313
+2055	Valková Terézia r. Janková		0	313
+2055	Varga Gašpar		0	384
+2055	Varga Viktor		0	404
+2055	Világi Ján		0	274
+2055	Világiová Gizela		0	274
+2055	Weingärtner Eugen		0	248,257
+2055	Weingärtner Jozef		0	248
+2055	Weiszová Irma r. Polláková		0	301
+2055	Weiszová Rozália r. Polláková		0	301
+2055	Zelenka František		0	273
+2056	ADAM Andrej		0	426
+2056	ADAM Juraj		0	426
+2056	ADAMOVÁ Anna	maloletá	0	426
+2056	ADAMOVÁ Mária	maloletá	0	426
+2056	ADAMOVÁ Mária	r.Džubáková	1	355,356,426,551
+2056	ADAMOVÁ Pavlína		0	426
+2056	ADAMOVÁ Verona	r.Hrabčáková	1	745,909
+2056	AMSEKOVÁ Zuzana	r.Hitter	1	707
+2056	ANGELOVIČOVÁ Hermína	r.Tomčíková	0	268,843,852
+2056	ANTAL Michal		1	88
+2056	ANTOL Juraj		0	712
+2056	BACSA István	č.d.287/1919	0	882
+2056	BAČOVÁ Katarína	r.Antolová	1	583
+2056	BALADIANSKÁ Anna	r.Osifová	1	556,768,854,855
+2056	BAŇAS Štefan		0	268,313
+2056	BARATKOVÁ Anna	r.Čekanová	1	721
+2056	BARČOVÁ Verona	r.Falatová ČR; ČR	0	909
+2056	BARTOŠ Andrej		1	5,211,213,529,537,538,596,599,815,816,817,818,849,879,1105
+2056	BARTOŠ Andrej	mal	0	904
+2056	BARTOŠ Ján		0	211,818
+2056	BARTOŠ Ján	mladší	1	5,109,213,529,531,532,533,537,538,592,744,815,816,817,879,1017,1105
+2056	BARTOŠ Ján	PKV	1	5,213,529,537,538,596,599,815,816,817,849,879,909,1105
+2056	BARTOŠ Štefan		1	5,529,744,879,1017
+2056	BARTOŠ Štefan	man.Mária r.Trojanovičová	1	744
+2056	BARTOŠ Štefan	mpč.Ľutina	0	909
+2056	BARTOŠ-HRAPKO Andrej		0	931
+2056	BARTOŠOVÁ Alžbeta	maloletá	1	529,904
+2056	BARTOŠOVÁ Alžbeta	r.Krajňáková	1	596,904
+2056	BARTOŠOVÁ Mária	r.Trojanovičová	1	744,909
+2056	BARTOŠOVÁ Zuzana		1	5,102,213,529,534,537,596,599,809,810,811,849,858,879,904,1105
+2056	BATYISOVÁ Alžbeta	r.Bartošová	1	537,1105
+2056	BELIŠ Ján		0	909
+2056	BELIŠ Ján	maloletý	1	730,909
+2056	BELIŠ Matej		0	909
+2056	BELIŠ Štefan	maloletý	1	730,909
+2056	BELIŠOVÁ Alžbeta	r.Bartošová	1	213
+2056	BELIŠOVÁ Alžbeta r. Bartošová	m.Ján	0	5,599,849,879
+2056	BELIŠOVÁ Mária	r.Tutokyová	1	92,109,531,532,533,584,592,599,842
+2056	BENCKO Ján	mladší	1	556,854,855
+2056	BENCKO-HRABČÁK Peter		1	754,909
+2056	BENCKO-HRABČÁKOVÁ Mária		1	754,909
+2056	BENCKO-HRABČÁKOVÁ Zuzana		1	754,909
+2056	BIRČÁK Andrej	maloletý	0	295,359,1011,1012,1013
+2056	BIRČÁK Ján		0	295,359,1011,1012,1013
+2056	BIRČÁK Ján	man.Alžbeta r.Krajňáková	0	295,359,1011,1013
+2056	BIRČÁK Ján	od Birčák Ján	0	295,359,1011,1012,1013
+2056	BIRČÁK Ján r. Krajňáková	man.Alžbeta r.Krajňáková	0	1012
+2056	BIRČÁK-MARCIN Andrej		0	295,359,1011,1012,1013
+2056	BIRČÁKOVÁ Alžbeta	r.Krajňáková	0	295,359,1011,1012,1013
+2056	BIRČÁKOVÁ Mária	r.Gajdošová po mame Márii r.Hovanovej; po mame Márii r.Hovanovej	0	295,359,1011,1012,1013
+2056	BIROŠ Michal		0	304
+2056	BLAŠČÁK Fedor		0	909
+2056	BLAŠČÁK Ján		1	30,67,295,359,696,1011,1012,1013
+2056	BLAŠČÁK Ondrej		1	477
+2056	BLAŠČÁK Peter		1	67,696
+2056	BLAŠČÁK Štefan		1	67
+2056	BLAŠČÁKOVÁ Alžbeta	mal	0	295,359,989,1011,1012,1013
+2056	BLAŠČÁKOVÁ Anna	r.Jašenská	1	702,705
+2056	BLAŠČÁKOVÁ Helena	r.Ploskuňáková	0	295,359,1011,1012,1013
+2056	BLAŠČÁKOVÁ Helena	r.Timurová	1	478,991,993
+2056	BLAŠČÁKOVÁ Katarína	r.Záletová	0	909
+2056	BORECKÁ Anna	r.Fecková	1	766,767
+2056	BORECKÁ Helena	maloletá	1	766
+2056	BORECKÁ Terézia		1	766
+2056	BORECKÝ Ján		1	766
+2056	BORECKÝ Jozef	maloletý	1	766
+2056	BORECKÝ Juraj		1	766
+2056	BORECKÝ Juraj	man.Anna r.Fecková	1	766,767
+2056	BORECKÝ Michal		1	766
+2056	BORECKÝ Mikuláš	maloletý	1	766
+2056	BORECKÝ Pavol	maloletý	1	766
+2056	BORECKÝ Peter	maloletý	1	766
+2056	BORECKÝ Vasiľ	maloletý	1	766
+2056	BORNEMISSZA Lajos		1	760
+2056	BORNEMISZA Koloman	č.d.2691/1941	0	884
+2056	BORNEMISZA Mikuláš	č.d.2691/1940	0	884
+2056	BORNEMISZOVÁ Mária	r.Péchy	0	900
+2056	BORODÁČ Ján		1	733,909
+2056	BORODÁČ Ján	man.Mária r.Záletová	1	727,755,908,909
+2056	BORODÁČ Juraj		1	727,755,757,908,909
+2056	BORODÁČ Michal		1	556,854,855,909
+2056	BORODÁČOVÁ Alžbeta		1	727,755,757,908,909
+2056	BORODÁČOVÁ Anna		1	727,755,757
+2056	BORODÁČOVÁ Anna	r.Falatová	1	768,909
+2056	BORODÁČOVÁ Anna	r.Krajňáková	0	908,909
+2056	BORODÁČOVÁ Hana	r.Krajňáková	1	102,534,599,809,810,811,904,933
+2056	BORODÁČOVÁ Mária	r.Záletová	1	727,755,908,909
+2056	BORODÁČOVÁ Zuzana		1	733
+2056	BORODÁČOVÁ Zuzana	r.Labašíková	0	909
+2056	BRATKO Ján		1	88,536,599,863,878
+2056	BUJŇÁKOVÁ Františka	r.Tomčíková	0	268
+2056	BURÍKOVÁ Anna		1	30,477,478,696,991
+2056	CZAPKAY Gejza		0	945
+2056	CZAPKAY Gejza SPF, SR		1	610
+2056	CZÁRICH Paulína r. Péchy	man.Eugen Czárich	1	575
+2056	CZARIK Ján		1	626
+2056	CZARIK Peter		1	626
+2056	ČAPISTRÁK Štefan		0	4
+2056	ČAPISTRÁKOVÁ Verona		0	4
+2056	ČARNICKÁ Pavlína	r.Pechy	1	571,889,1127
+2056	ČARNICKÁ Verona	r.Birčáková	0	295,359,1011,1012,1013
+2056	ČEKAN Andrej		1	721
+2056	ČEKAN Demeter		1	721,729
+2056	ČEKAN Dominik		0	721
+2056	ČEKAN Ján		0	909
+2056	ČEKAN Ján	nezletilý	1	712,762
+2056	ČEKAN Jozef		0	729
+2056	ČEKAN Juraj		1	721,729
+2056	ČEKAN Juraj	mladší	1	729
+2056	ČEKAN Michal		1	714
+2056	ČEKAN Michal	maloletý	1	714
+2056	ČEKAN Peter		1	721,729,762,909
+2056	ČEKAN Štefan		1	714
+2056	ČEKAN Štefan	nezletilý	1	729
+2056	ČEKANOVÁ Alžbeta		1	729
+2056	ČEKANOVÁ Alžbeta	nezletilá	1	729
+2056	ČEKANOVÁ Alžbeta r.Čekanová		0	721,729
+2056	ČEKANOVÁ Anna		1	102,534,599,809,810,811
+2056	ČEKANOVÁ Anna	r.Čekanová	1	714
+2056	ČEKANOVÁ Anna	r.Osifová	0	909
+2056	ČEKANOVÁ Anna	r.Slaninová	0	906
+2056	ČEKANOVÁ Mária		1	721
+2056	ČEKANOVÁ Mária	r.Dujčáková	1	721
+2056	ČEKANOVÁ Mária	r.Mitvijová	0	712
+2056	ČEKANOVÁ Mária	r.Mizeráková	1	721
+2056	ČEKANOVÁ Mária	r.Osifová	0	909
+2056	ČEKANOVÁ Verona	r.Štefčíková	1	714
+2056	ČEKANOVÁ Zuzana		1	762,909
+2056	ČERVEŇÁK Ján		1	625,962,963
+2056	ČERVEŇÁKOVÁ Anna	r.Mackaničová	1	625
+2056	ČIKOŠ-PAVLIČKO Michal		1	626,962,963
+2056	ČORŇÁK Andrej		1	745
+2056	ČORŇÁK Andrej	č.d.1916,1936,1941	0	909
+2056	ČORŇÁK Andrej	mal.v r.1918	0	909
+2056	ČORŇÁK Andrej	zomrel č.d.1906	0	909
+2056	ČORŇÁK Ján		0	909
+2056	ČORŇÁK Juraj		0	909
+2056	ČORŇÁK Juraj	Andrejov	1	556,749,854,855
+2056	ČORŇÁK Juraj	maloletý	1	749
+2056	ČORŇÁK Michal		1	749,909
+2056	ČORŇÁK Michal	maloletý	0	909
+2056	ČORŇÁK Michal	ml	0	909
+2056	ČORŇÁK Peter		1	749
+2056	ČORŇÁKOVÁ Alžbeta	r.Tutokyová	1	556,854,855
+2056	ČORŇÁKOVÁ Anna		0	909
+2056	ČORŇÁKOVÁ Anna	maloletá	0	909
+2056	ČORŇÁKOVÁ Mária	maloletá	1	745,909
+2056	ČORŇÁKOVÁ Pavlína		1	749,909
+2056	ČORŇÁKOVÁ Verona	maloletá	1	745,909
+2056	ČORŇÁKOVÁ Zuzana	r.Semanová	0	909
+2056	DANČÁK Ján		1	593,594
+2056	DANEČKO Andrej		1	626
+2056	DANISKO Andrej		0	962,963
+2056	DAŇKO Ján	mladší	1	300,535,845,1072
+2056	DAŠEK Irena r. Péchy, Dr.	r.Péchy,man.Dr.Valentín Dašek	1	575
+2056	DESSENFFY Albert		1	603
+2056	DIRCOVÁ Mária	r.Matvijová	0	712
+2056	DRAGANOVÁ Mária	r.Záletová	0	909
+2056	DRUTAROVSKÁ Anna	r.Záletová	0	893
+2056	Drutarovská Katarína r. Trojanovičová		0	4
+2056	DRUTAROVSKÁ Mária	r.Pulščáková	1	754,909
+2056	DUHAŇ Andrej	mal	0	909
+2056	DUHAŇ Andrej	mladší	1	556,854,855
+2056	DUHAŇ Ján		1	745,909
+2056	DUHAŇ Matej		0	909
+2056	DUHAŇ Michal	mldší	1	556,854,855
+2056	DUHAŇ Štefan		0	909
+2056	DUHANČÍK Andrej	man.Mária r.Čekanová	1	757
+2056	DUHANČÍK Andrej	USA	0	909
+2056	DUHANČÍK Ján		1	556,854,855,909
+2056	DUHANČÍK Jozef	man.Mária r.Tutokyová	1	556,854,855
+2056	DUHANČÍKOVÁ Anna		0	909
+2056	DUHANČÍKOVÁ Mária		1	590,608,943
+2056	DUHANČÍKOVÁ Mária	r.Tutokyová	1	556,854,855
+2056	DUHAŇOVÁ Alžbeta	r.Radačovská	1	556,854,855
+2056	DUHAŇOVÁ Alžbeta	r.Záletová	0	909
+2056	DUHAŇOVÁ Anna	r.Falatová	0	882
+2056	DUHAŇOVÁ Anna	r.Radačovská	1	763
+2056	DUHAŇOVÁ Anna	r.Vavreková	1	756,763,909
+2056	DUHAŇOVÁ Margita	maloletá	1	745,909

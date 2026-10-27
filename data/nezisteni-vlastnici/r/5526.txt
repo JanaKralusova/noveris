@@ -1,0 +1,256 @@
+3110	ENDRÖDY Gejza		0	231
+3110	FEBEDIOVÁ Margita r. Deáková		0	201
+3110	HAJDÁROVÁ Mária r. Deáková	m.Ján	0	207,250,263,276,303,437
+3110	HULITKA Arnošt		0	230
+3110	HULITKA Jozef		0	239
+3110	HULITKA Jozef	1	0	240
+3110	HULITKA Jozef	2	0	311
+3110	HULITKA Jozef	maloletý	0	230
+3110	HULITKA Juraj		0	241,423
+3110	HULITKA Ondrej		0	230,264
+3110	HULITKA Štefan		0	230
+3110	HULITKA Vojtech		0	230,288,310,311,402,419
+3110	HULITKOVÁ Alžbeta r. Jakabová		0	206
+3110	HULITKOVÁ Barbora r. Véghová	m.Stefan	0	196,204,256,299,315,379,442,448
+3110	JAKAB Alexander		0	206,235,251,293,304,377,408,420,421,443
+3110	JAKAB Alexander	major	0	225
+3110	JAKAB Gejza		0	199
+3110	JAKAB Gejza	naposledy bytom:Dliborova 23 Ostrava ČR	0	207
+3110	JAKAB Ján		0	263,293
+3110	JAKAB Ján	1	0	310,311,402
+3110	JAKAB Ján	2	0	311
+3110	JAKAB Menhard		0	206,235,251,293,304,377,408,420,421,443
+3110	JAKAB Michal		0	207,276,304
+3110	JAKAB Peter		0	276
+3110	JAKAB Peter	2	0	293
+3110	JAKAB Peter	maloletý	0	207,235,251,304,377,408,420,421,443
+3110	JAKAB Štefan		0	276
+3110	JAKAB Valent		0	199,206
+3110	JAKAB Vojtech		0	206,235,251,293,304,377,408,420,421,443
+3110	JAKABOVÁ Juliana r. Véghová	m.Menhard	0	204,242,256,299,315,379,424,442
+3110	JAKABOVÁ Mária r. Bozóová	zomr. 18.2.1982	0	309,404
+3110	JAKABOVÁ Mária r. Medeová	m.Ján	0	232,270,275
+3110	JAKABOVÁ Mária r. Véghová	m.Štefan	0	204,242,256,299,315,379,424,442
+3110	JUHÁSZ František		0	203,211
+3110	JUHÁSZ Ignác		0	203,211
+3110	JUHÁSZ Ignác	1	0	309,404
+3110	JUHÁSZ Ignác	zomr. 31.12.1955	0	211
+3110	JUHÁSZ Imrich		0	264,288,297,419
+3110	JUHÁSZ Imrich	1	0	211
+3110	JUHÁSZ Pavol		0	304
+3110	JUHÁSZ Štefan	1	0	293
+3110	JUHÁSZ Tivadar		0	243,257,445
+3110	JUHÁSZOVÁ Anna r. Véghová		0	203,211
+3110	JUHÁSZOVÁ Mária r. Bozóová	vdova	0	303
+3110	JUHÁSZOVÁ Marta	maloletá	0	203,211,238,252,288,297,304,343,369,386,399,419
+3110	JUHÁSZOVÁ Priška r. Juhászová	m.Štefan	0	288,419
+3110	JUHÁSZOVÁ Terézia r. Bozóová	m.Ladislav	0	211,252,264,288,297,304,343,369,386,399,419
+3110	JUHÁSZOVÁ Terézia r. Bozóvá	m.Ladislav	0	238
+3110	KADLÓFOVÁ Apolónia r. Véghová	m.Ján	0	196,204,242,256,299,304,315,379,424,442,448
+3110	KOČIŠOVÁ Mária r. Véghová	m.Valent	0	237,292,367
+3110	Kovács Antónia		0	243
+3110	Kovács Jozef	ž.Albína r.Pálová,naposledy bytom:Nová Bašta č.85	0	321
+3110	KOVÁCS Jozef		0	200,208,234,415,429,453
+3110	KOVÁCS Július	miksa	0	310,311,402
+3110	KOVÁCS Matej		0	319
+3110	KOVÁCS Menhard	ordog	0	200,304,310,311,402
+3110	KOVÁCS Peter		0	205,227,245,259,269,300,373,385,454
+3110	KOVÁCS Peter	1	0	304
+3110	KOVÁCS Štefan	2	0	208,234,415,429,453
+3110	KOVÁCSOVÁ Alžbeta r. Lazarová		0	203,211,235,251,408,420,421,443
+3110	KOVÁCSOVÁ Antónia		0	195,452
+3110	KOVÁCSOVÁ Apolónia		0	200,208,234,415,429,453
+3110	KOVÁCSOVÁ Gizela	mal	0	213
+3110	KOVÁCSOVÁ Julianna	maloletá	0	213
+3110	KOVÁCSOVÁ Katarína r. Kováčová	m.Jozef	0	230
+3110	KOVÁCSOVÁ Mária r. Véghová	m.Ján	0	213,240,247,254,265,272,273,289,298,376,382,390,416,428
+3110	KOVÁČ Štefan	ml.kasza	0	211
+3110	Liptayová Barbora r. Suleová	m.Anton	0	197
+3110	LIPTAYOVÁ Barbora r. Suleová	m.Ján	0	247,273,376,382,416
+3110	MEDE Július	kis	0	321
+3110	MEDEOVÁ Barbora		0	321
+3110	Medeová Gizela	bakonyi	0	323
+3110	MEDEOVÁ Gizela r. Medeová	m.Július	0	323
+3110	MEDEOVÁ Jana r. Szabová	m.Tomáš	0	317
+3110	MEDEOVÁ Margita r. Véghová	vd.,m.Ján	0	196,204,242,256,299,315,379,424,442,448
+3110	Medeová Mária r. Deáková	m.Štefan	0	201
+3110	MEDEOVÁ Mária r. Juhászová	m.František	0	243,257,445
+3110	MICHALOVÁ Lenka r. Szilagyiová		0	320
+3110	MOLNÁR František		0	281,284,396
+3110	MOLNÁR Jozef		0	284
+3110	MOLNÁR Štefan		0	282,387
+3110	MOLNÁROVÁ Julianna r. Pálová	tajti,m.Michal	0	285
+3110	MOLNÁROVÁ Rozália	maloletá	0	281,284,396
+3110	NAGYOVÁ Julianna	r.Bozóová,m.František	0	202
+3110	OFFERTOVÁ Julianna	r.Deáková,m.Ján	0	201
+3110	OFFERTOVÁ Julianna r. Deáková	m.Ján	0	209,244,304,355,357,375,381
+3110	OLÁH Ján		0	228
+3110	Oláh Štefan	ž.Zuzana	0	216
+3110	PÁL Bartolomej	ž.Alžbeta r.Pálová	0	283,284
+3110	PÁL Elek		0	283,284
+3110	PÁLOVÁ Rozália r. Hulitková		0	264,288,310,311,402,419
+3110	PÓCSA Jozef	maloletý	0	206,235,251,293,304,377,408,420,421,443
+3110	RACZ Silvester		0	216
+3110	RÁCZ Viliam		0	216
+3110	RACZOVÁ Margita		0	216
+3110	SIMON Ján		0	210,266,383
+3110	SIMONOVÁ Julianna r. Bozóová		0	255
+3110	SIMONOVÁ Mária r. Bozóová	m.Jozef	0	208,234,304,311,415,429,453
+3110	SIMONOVÁ Mária r. Medeová	m.Menhard	0	255
+3110	SIMONOVÁ Terézia r. Deáková	m.Ľudovít	0	290,400
+3110	Somogyiová Katarína	naposledy batom:Csalogány út. 6-10,Budapest,MR	0	313
+3110	Somogyiová Katarína	naposledy bytom:Csalogány út 6-10 Budapest MR	0	249,422
+3110	Somogyiová Katarína	naposledy bytom:Csalogány út 6-10,Budapest MR	0	308,380,398
+3110	Somogyiová Katarína	naposledy bytom:Csalogány út 6-10,Budapest,MR	0	307,403
+3110	Somogyiová Katarína	naposledy bytom:Csalogány út.6-10,Budapest,MR	0	312,371
+3110	Somogyiová Katarína	naposledy bytom:Csalogányi út 6-10 Budapest MR	0	262
+3110	Somogyiová Katarína	naposledy bytom:Csalogányi út.6-10,Budapest MR	0	287,405
+3110	Somogyiová Katarína	naposledy bytom.Csalogány út. 6-10,Budapest MR	0	309,404
+3110	SOMOSKOI Ján		0	213
+3110	SOMOSKOI Július		0	213,311
+3110	SOMOSKOIOVÁ Anna r. Tóthová	m.Michal	0	213
+3110	SOMOSKOIOVÁ Gizela	1	0	213,287,307,310,311,402,403,405
+3110	SULE Anton		0	197
+3110	SULE Michal	m.mária r.Podhragyaiová	0	304
+3110	SZABÓOVÁ Amália r. Šimonová	m. Štefan	0	210
+3110	Szilágyi Alexander		0	320
+3110	Szilágyiová Alžbeta		0	320
+3110	Szóová Mária r. Somoskoiová	naposledy bytom:Dubno	0	213,287,307,308,309,310,311,312,313,371,398,402,403,404,405
+3110	ŠOTEROVÁ Mária r. Kováčová	m.František	0	208,234,415,429,453
+3110	TÓTHOVÁ Alžbeta r. Bozóová	m.Tomáš	0	247,273,304,376,382,416
+3110	TÓTHOVÁ Barbora r. Simonová	m.Ján	0	241,296,423
+3110	TÓTHOVÁ Františka r. Véghová	m.František	0	237,268,292,367,439
+3110	Tóthová Jolana r. Somoskoiová	naposledy bytom:Stará Bašta	0	213,287,308,309,310,311,312,313,371,398,402,404,405
+3110	Tóthová Jolana r. Somoskoiová	naposledy bytom.Stará Bašta	0	307,403
+3110	TÓTHOVÁ Veronika r. Bozóová	m.Peter	0	247,273,376,382,416
+3110	VARGA Matej	maloletý	0	231,304
+3110	VARGA Michal	maloletý	0	200,208,234,304,415,429,453
+3110	VARGA Štefan	mal	0	304
+3110	VARGA Štefan	maloletý	0	200,208,234,415,429,453
+3110	VÉGH Alexander		0	219,237,268,292,304,367,439
+3110	VÉGH Bartolomej		0	204
+3110	VÉGH Ignác		0	204,242,256,299,315,379,424,442
+3110	VÉGH Ján		0	196,219,237,268,292,304,367,439,448
+3110	VÉGH Ján	boris	0	212,239,253,393,394,407,427,438
+3110	VÉGH Ján	maloletý	0	304
+3110	VÉGH Július	ž.Amália r.Bozóová	0	239,240
+3110	VÉGH Juraj		0	219
+3110	VÉGH Martin	ml	0	227
+3110	VÉGH Menhard		0	304
+3110	VÉGH Michal		0	213
+3110	VÉGH Štefan	brat Menhart,Ján	0	304
+3110	VÉGH Štefan	ml	0	203,211,238,252,264,288,304,343,369,386,399,419
+3110	VÉGH Vojtech		0	202,246,260,304,359,360,372,374,388,417
+3110	VÉGHOVÁ Alžbeta	mal	0	239
+3110	VÉGHOVÁ Alžbeta	maloletá	0	212,393
+3110	Véghová Alžbeta r. Bozóová	m.Ignác,naposledy bytom:Večelkov č.13	0	242,424
+3110	VÉGHOVÁ Alžbeta r. Bozóová	m.Štefan	0	204,256,299,315,379,442
+3110	VÉGHOVÁ Apolónia		0	219,237,268,292,304,367,439
+3110	VÉGHOVÁ Margita	výčapníčka	0	196,448
+3110	Véghová Margita r. Juhászová	naposledy bytom:Večelkov č.83	0	203,211
+3110	VÉGHOVÁ Mária	3	0	213,240,254,265,272,289,298,390,428
+3110	VÉGHOVÁ Mária	maloletá, 2	0	256,299,315,379,442
+3110	VÉGHOVÁ Mária	maloletá,2	0	242,424
+3110	VÉGHOVÁ Mária	maloletá2	0	204
+3110	VÉGHOVÁ Mária	maloletá3	0	207
+3110	VÉGHOVÁ Mária r. Bozóová	m.František	0	204,256,299,315,379,442
+3110	VÉGHOVÁ Mária r. Brestyánska		0	227
+3110	VÉGHOVÁ Mária r. Jakabová		0	206
+3110	VÉGHOVÁ Mária r. Véghov	m.Ondrej	0	288,419
+3110	VÉGHOVÁ Mária r. Véghová	m.Ondrej	0	203,238,252,264,297,304,343,369,386,399
+3110	VÉGHOVÁ Rozália		0	219,237,268,292,367,439
+3110	VÉGHOVÁ Rozália r. Galbacsová		0	212,393
+3110	VÉGHOVÁ Rozália r. Simonová	m.Štefan	0	304
+3110	VEGOVÁ Mária	maloletá	0	271,276,384
+3110	VINCZEOVÁ Alžbeta r. Bozóová		0	248,261,270,274,277,295,301,368,370,391
+3110	VIRÁGOVÁ Margita r. Brestyánska		0	205
+3110	ZSIROŠOVÁ Barbora r. Kováčová	m.Štefan	0	208,234,415,429,453
+3111	ADAM Ján	žena Anna rod. Vasiľová	1	1264
+3111	ADAM Ján	žena Mária rod. Pelančíková	1	943,1492,1557
+3111	Adam Ján r. Adam		1	844
+3111	ADAM Juraj	st	1	827
+3111	ADAM Juraj	žena Mária rod. Vavreková	1	1253
+3111	ADAM Juraj	žena. Mária rod. Ivaničová	1	1269
+3111	ADAM Michal	žena Anna rod. Bindasová	1	1267
+3111	ADAM Michal	žena Anna rod. Kalmanová	1	943,1492,1557
+3111	ADAMOVÁ Anna	dcéra Jána	1	711,1582
+3111	ADAMOVÁ Anna	rod. Bindasová	1	1267
+3111	ADAMOVÁ Anna	rod. Kalmanová, USA	1	437,1702
+3111	Adamová Helena r. Bartková		1	696
+3111	ADAMOVÁ Mária	rod. Ivaničová	1	1269
+3111	ANDREJCO Michal		1	1238,1575
+3111	ANDREJČÁK Michal		1	1247
+3111	ANTUŠ Ján	žena Mária rod. Kalmanová	1	957,1694
+3111	ANTUŠOVÁ Anna	rod. Pačutová	1	1218
+3111	ANTUŠOVÁ Anna	rod. Pačutová; LSR	0	1217,1219
+3111	ANTUŠOVÁ Mária	rod. Kalmanová	1	957,1694
+3111	BAČA Juraj	žena Mária rod. Šimkaninová	1	904,905,1541
+3111	BARÁT Ján	mal	1	1329
+3111	BARAT Ľudovít		1	1329
+3111	BARNÍK Eliáš		1	1383
+3111	BARNÍKOVÁ Anna	rod. Lukačinová	1	1383
+3111	BARTKO - FIGEĽ Ján		1	1263
+3111	BARTKO Jozef	č.d.1169/1944	1	1218
+3111	BARTKO Jozef	č.d.1169/1944; LSR	0	1217,1219
+3111	BARTKO Pavol	č.d.1169/1944	1	1218
+3111	BARTKO Pavol	č.d.1169/1944,syn Márie r.Pačutovej	1	1218
+3111	BARTKO Pavol	č.d.1169/1944,syn Márie r.Pačutovej; LSR	0	1217,1219
+3111	BARTKO Pavol	č.d.1169/1944; LSR	0	1217,1219
+3111	BARTKO Pavol	LV 695	1	695
+3111	Bednár Juraj	žena Anna r. Michalčinová	1	1222
+3111	BERKOVIČ Alexander	žena Berta rod. Mandelová	1	1319
+3111	BERKOVIČ Rudolf	žena Hermína rod. Grunbergerová	1	1319
+3111	BINDAS Andrej	žena Mária rod. Kalmanová	1	1298
+3111	BINDAS Ján	žena Anna rod. Feriová	1	1331
+3111	BINDAS Jozef	žena Mária rod. Bartková	1	1333
+3111	BINDAS Juraj	žena Helena rod. Guziová	1	1332
+3111	BINDAS Michal	mal.č.d.2568/1939	1	581,889
+3111	BINDAS Michal	USA	1	614,694,695,696,697,1622,1628
+3111	BINDASOVÁ Mária	rod. Bartková	1	1333
+3111	BINDASOVÁ Mária	st., rod. Kalmanová	1	1296
+3111	BOČKO Michal	č.d.1169/1944	1	1218
+3111	BOČKO Michal	č.d.1169/1944; LSR	0	1217,1219
+3111	BOLDIŽÁR Ján	vzdial., č.d.1172/1950	1	309,310
+3111	BONBLIKOVÁ Oľga	rod. Hahnová	1	371
+3111	CABOVSKÝ Juraj	žena Anna rod. Pribulová	1	1268
+3111	ČARNÁ Helena	rod. Bartková	1	131
+3111	Dreveňák Michal		1	139
+3111	Dreveňáková Anna r. Moricová		1	139
+3111	DREVEŇÁKOVÁ Žofia	rod. Jakrejčíková	1	1268,1380
+3111	DREVŇÁK Ján	č.d. 974/1946	1	1268
+3111	DREVŇAKOVÁ Anna	rod. Moricová	1	1265
+3111	DUDÁŠ Andrej	č.d.1169/1944	1	1218
+3111	DUDÁŠ Andrej	č.d.1169/1944; LSR	0	1217,1219
+3111	DUDÁŠ Michal	č.d.1169/1944	1	1218
+3111	DUDÁŠ Michal	č.d.1169/1944; LSR	0	1217,1219
+3111	DUDÁŠ Pavol	č.d.1169/1944	1	1218
+3111	DUDÁŠ Pavol	č.d.1169/1944; LSR	0	1217,1219
+3111	DUDAŠČÍK Jozef	žena Alžbeta rod. Strugalová	1	1336
+3111	DUDÁŠOVÁ Mária	rod. Vasiľová	1	951
+3111	DUNLOP Mary	rod. Bindasová	1	614,694,695,696,697,1622,1628
+3111	DUTKOVIČ Juraj		1	179,1158,1566,1567
+3111	DUTKOVIČ Mikuláš	ml	1	179,1158,1566,1567
+3111	DUTKOVIČOVÁ Zuzana	rod. Kováčová	1	560
+3111	DZURKO Michal	žena Anna rod. Cabovská	1	1268
+3111	DZURKOVÁ Anna	rod. Cabovská	1	144,1268
+3111	DŽATKO Ján	vzdial.,č.d.3183/1942	1	275,276
+3111	DŽATKO Michal	vzdial.,č.d.3183/1942	1	275,276
+3111	DŽATKOVÁ Anna	rod Sopková	1	1272
+3111	DŽATKOVÁ Júlia	dcéra Jana	1	1046,1295,1326
+3111	DŽATKOVÁ Mária	dcéra Jána	1	1046,1295,1326
+3111	FAKO Štefan	č.d.5/1955	1	1306
+3111	Ferko - Hominda Ján	žena Mária r. Maximovičová	1	1080
+3111	FIRMA SCHVARTZ Ignác	č.d.3875/1938	1	1319
+3111	Frajkor Ján	žena Mária r.Onderíková	1	655
+3111	FRAJKOR Ján	žena Mária rod. Onderíková	1	654,657,812,1211
+3111	FRAJKOROVÁ Anna	rod. Lukačinová	1	448,1381
+3111	FRAJKOROVÁ Helena	rod. Bartková	1	449
+3111	FRAJKOROVÁ Margita, Čemernianska, Vranov n/T, SR		0	1233
+3111	FRAJKOROVÁ Mária	rod. Gavaľová	1	654,812,1211
+3111	GAJDZIKOVÁ Mária	rod. Adamová	1	711,1188,1191,1582
+3111	GAVAĽOVÁ Helena	č.d.2549/1910	1	586,1684
+3111	GAVAĽOVÁ Zuzana	rod. Adamová	1	1334
+3111	Gavaľová Zuzana r. Adamová		1	926
+3111	GAZDA ONDO Michal	žena Mária rod. Kažiková	1	1218
+3111	GAZDA ONDO Michal	žena Mária rod. Kažiková; LSR	0	1217,1219
+3111	GAZDOVÁ - ONDOVÁ Anna r. Orosziová		1	1218

@@ -1,0 +1,256 @@
+618	Guttová Anna	mal	0	432
+618	Guttova Helena		0	499
+618	Guttová Helena	mal	0	432
+618	Guttova Maria		0	499
+618	Guttová Maria	mal	0	432
+618	HRIBOVA Maria	r.Dupejova	1	486,508,670,671
+618	HRICKO Jan		1	486,508,670,671
+618	HRICKOVA Maria		1	486,508,670,671
+618	HUDÁK Andrej		1	670
+618	Hudak Michal		0	521
+618	HUDAK Michal	z.Maria r.Kacmarova	0	572
+618	HUDAK Michal	zomrel	0	514
+618	JENDROL Jan	zomrel	0	499,529,551,568,570,652,696
+618	JENDROĽ Ján		0	432,499,557,568
+618	JENDROĽ Ján /zomrel/		0	432
+618	JENDROL Stanislav	zomrel	0	568
+618	Jendroľ Stanislav		0	557
+618	KALAS Ján		1	670
+618	KARAMANOVA Anna	r.Morgosova	0	508
+618	KARAMANOVÁ Anna		1	670,671
+618	Karamanova Anna r. Morgosova		0	486
+618	KARAMANOVÁ Mária	r.Morgošová	1	670,671
+618	KAŠČÁKOVÁ Mária	r.Kalasová	1	670
+618	Kaščáková Mária r. Kalacova		1	509,520
+618	Kizák Ján		0	596
+618	KLAP Peter, SR		1	470
+618	KOBZANOVÁ Maria		0	432,499,533,558,561,568,652,817
+618	KOBZANOVÁ Michalina		0	432,499,533,558,561,568,652,817
+618	Kolátova Rozália		1	566
+618	KOLLAT Stanislav		0	568
+618	KOLLATOVA Rozália		0	568
+618	KONRÁD Agoston		1	465
+618	KUKOĽ Andrej		1	670,671
+618	KUKOĽ Ján		1	670,671
+618	KUKOLY Andrej		0	486,508
+618	Kukoly Jan		0	486,508
+618	KUKOLY Jan, SR		1	482
+618	LESKO Mikulas	NV- A	1	452,747
+618	LESKOVA Julia		0	486,508
+618	Leško Mikulaš		1	486,508,670,671
+618	LUTELITOVA Lejba	r.Matiasova NV-	1	537,556,564
+618	LUTELITOVÁ Lejba	r.Matiasová	1	677
+618	MAGULAK Andrej		1	486,671
+618	MAGUĽÁK Michal		1	670
+618	MAGULAK Michal, SR		1	514,521,523
+618	MAGULAKOVA Maria		0	508
+618	MAJEROVIČ Herman		1	666
+618	MAJEROVIČOVÁ Frida	r.Friedmannová	1	666
+618	MANDEĽOVÁ Júlia	r.Lešková	1	670,671
+618	MARCENYI Andrej		1	670,671
+618	MARECENY Ambroz		0	486,508
+618	MARTENY Andrej	zomrel	0	568
+618	MERGOS Terezia		0	475,623,796
+618	MORGOS Terezia	NV- A	1	480,624,700,701,797
+618	Morgosova Anna		1	486,670,671
+618	MORGOSOVA Anna	A	0	508
+618	MORGOSOVA Anna	B	0	508
+618	MORGOSOVA Terezia	B	0	486,508
+618	MORGOŠOVÁ Terézia		1	671
+618	OBLAZNÁ Helena /r.Lacková zomrela/		0	432
+618	Oblazníkova Helena r. Lackova		0	568
+618	Oblažná Helena r. Lacková		0	432,499,568,652
+618	OČIPKOVÁ Zuzana r. Bezeková, 091 01, Duplin, č. 10, SR		0	483
+618	PABIN Ludvik	zomrel	0	565
+618	PABIN Stanislav	zomrel	0	565
+618	PABIN Stanislav, SR	D: z.Margita r.Patocka NV	1	499,543,546,565,567,568,652
+618	PABIN Stanislav, SR	D:/ ž. Margita r.Potocká/	0	432
+618	PABIN Stanislav, SR	D:/ ž.Margita r.Potocká/	0	432
+618	PABINOVA Margita	r.Kapuchova zomrela	0	543,549,550,565,568,652
+618	PABINOVÁ Margita r. Kapuchová	zomrela	0	432
+618	Pabínova Margita r. Kapuchova		0	499
+618	PABINOVA Maria, SR		1	546
+618	PETRIK Michal		1	486,508,670,671
+618	PIASECKA Ludviga	r.Pabinova zomrela	0	565
+618	POPIK Andrej		1	670,671
+618	POPIK Andrej	B	0	494,535,562
+618	POPIK Andrej	C	0	486,508
+618	POPIK Andrej	NV- A	1	498,568
+618	POPIK Ján		1	483,499,535,562,652
+618	POPIK Ján	mal	0	432,568
+618	POPIK Jan, SR		1	487
+618	POPIK Jozef		0	516
+618	POPIK Juraj		1	152,432,490,499,509,535,562,568,652
+618	POPIK Juraj	NV- A	1	463
+618	POPIK Juraj	NV- B	1	463
+618	POPIK Juraj, SR		1	505,511,520,522,629,630
+618	Popik Michal		1	486,670,671
+618	POPIK Michal	1	0	508
+618	POPIK Michal, SR		1	487
+618	Popik Peter		0	486
+618	POPIK Peter	z.Anna r.Buckova	0	508
+618	POPIK Vasil		1	486,508,670,671
+618	POPIKOVÁ Anna	r.Bučková	1	670,671
+618	POPIKOVA Helena	r.Gajdosova	0	505
+618	POPIKOVA Helena	r.Vargova	0	508
+618	POPIKOVA Helena r. Gajdosova		0	630
+618	Popikova Helena r. Vargova		0	486
+618	POPIKOVÁ Júlia	r.Vargová	1	670,671
+618	RAZAMAN Anna		0	486,508
+618	RISKOVA Ivanimla	Pabin	0	543
+618	RUDA Anna r. Popiková, 090 21, Vyškovce, SR		0	473
+618	SIMOVA Maria		1	486,508,670,671
+618	Sližova Mária r. Gonšenicova		1	486,508,670,671
+618	STASEL Jan		0	568
+618	STASELOVA Agnesa	r.Slodicka NV-	1	499
+618	Staselova Agnesa r. Slodycka		1	545,553
+618	STAŠEL Vladislav		1	432,499,545,553,652,674
+618	STAŠEĽOVÁ Agnesa	r.Slodická	1	674
+618	STAŠELOVA Agnesa r. Slodicka		1	568,652
+618	STAŠELOVÁ Agnesa r.Slodická		0	432
+618	STAŠELOVÁ Filomena		1	432,499,545,553,652,674
+618	STAŠELOVÁ Helena		1	432,499,545,553,652,674
+618	STAŠELOVÁ Mária		1	432,499,545,553,652,674
+618	STAVNICKA Helena	r.Zahurska	0	508
+618	Stavnicka Helena r. Zahurska		0	486
+618	Suchanic Peter		1	486,488,670,671
+618	SUCHANIC Peter	A	0	483
+618	SUCHANIC Peter	B	0	508
+618	SUCHANIC Peter	z.Maria r.Gajdosova	1	508,670,671
+618	Suchanic Vasil		1	486,488,670,671
+618	SUCHANIC Vasil	A	0	483
+618	SUCHANIC Vasil	B	0	508
+618	SUCHANIC Vasil	C	0	508
+618	SURINOVA Maria	r.Magulakova zomrela	0	578
+618	ŠAFRANKOVÁ Anna	r.Šimková	1	671
+618	Šafránkova Anna r. Simkova		0	486
+618	Šimko Ján		1	486,508,671
+618	Šimkova Anna r. Šafránkova		0	508
+618	Štefaňáková Viktoria r. Oblažná		0	432,499,568,652
+618	ŤAHLA Gregor		1	497,673
+618	ŤAHLOVÁ Terézia	r.Červeňáková	1	673
+618	ŤAHLOVA Terezia r. Červeňakova		1	497
+618	TALIANOVA Anna	r.Popikova	1	486,671
+618	TALIANOVÁ Helena	r.Franasová	1	670
+618	TARABČÁKOVA Alka	mal	0	568,595
+618	Tarabčáková Alka		0	51,432,499,652
+618	TARABČAKOVÁ Elena		1	432,680,724
+618	Tarabčaková Helka		0	531,720,721,722,723,724
+618	TARABČAKOVÁ Helka, SR		0	680,719
+618	Tarabčáková Margita	mal	0	595
+618	TARABČÁKOVÁ Margita		0	51,432,499,531,568,652,719,720,721,723,724
+618	TARABČAKOVÁ Margita, SR		0	680,722
+618	TARABČÁKOVA Maria	mal	0	568
+618	Tarabčáková Mária		1	51,432,499,531,652,680,719,720,721,722,723,724
+618	TARABČÁKOVA Zuzana	mal	0	568,595
+618	Tarabčáková Zuzana		1	51,432,499,531,652,680,719,720,721,722,723,724
+618	TKACIK Andrej		1	486,508,670,671
+618	TOMAS Michal		1	486,508,670,671
+618	TOMKO Jan		1	486,508,670,671
+618	TOMKO Tomas		1	486,508,670,671
+618	TOMKOVA Maria r. Gajdosova, SR	D: zomrela	0	579
+618	VATRAL Peter		1	486,508,670,671
+618	VAVRINEC Piton		0	568
+618	VERBA Michal	syn Andreja	0	479
+618	VOROBEL Jan		1	486,508,670,671
+618	VOROBEL Jan	NV-	1	482
+618	VOROBELOVA Anna		1	486,508,670,671
+618	VOROBELOVA Anna, SR		1	482
+618	Vorobelová Maria		1	482,486,508,670,671
+618	WASSERMANOVÁ Jolana	r.Friedmannová	1	666
+618	ZAHURSKÁ Helena	r.Ščavnická	1	670,671
+618	ZAHURSKA Maria		0	516
+618	ZAHURSKA Maria	r.Kuslikova	0	458
+618	ZAHURSKY Andrej, SR		1	461,718
+618	Zahursky Jan		1	486,508,670,671
+618	ZAHURSKY Jan	A	0	458,461,718
+618	ZAHURSKY Jan	B	0	458
+618	ZAHURSKY Jan	C	0	458
+618	ZAHURSKY Jan	E	0	486,508
+618	ZAHURSKY Juraj	NV-	1	718
+618	Zahurský Juraj		1	486,487,508,670,671
+618	ZAHURSKY Juraj, SR		1	458,461
+618	Zahursky Michal		1	486,487,508,670,671
+618	ZAHURSKY Michal	A	0	508
+618	ZAHURSKY Michal	B	0	508
+618	ZAHURSKY Michal	NV- A	1	458,461,462,718
+618	ZAHURSKÝ Michal	ž.Anna r.Stavrovská	1	671
+618	Zahursky Stefan		0	486
+618	ZAHURSKY Stefan	E	0	508
+618	ZAHURSKY Stefan	zomrel	0	519
+618	Zámiškova Mária r. Tarabčákova		0	595
+619	Adamovská Antónia		1	2127
+619	Adamovská Žofia r. Jakubesová		1	2127
+619	Adamovský Cyril		1	2127
+619	Adamovský Mikuláš		1	2127
+619	Adamská Agneša		0	3836
+619	Adamská Agneša, SR		0	1412
+619	Adamský Šimon, Blunár, Horná, Dorinský Blunár, Horná, Dorinský		0	3047
+619	Adamský Štefan		0	3288
+619	Adamský Tomáš, Dorinský Dorinský		0	3871
+619	Akay Alojz	Budapešť	0	2826
+619	Akay Alojz obyv.BUDAPEŠTI, SR		0	1540
+619	Akay Alojz, Budapešť Budapešť		0	3444
+619	Albert Ján	Ďurčanský	0	2471
+619	Albert Ján ĎURČANSKÝ, SR		0	2330
+619	Albert Ján, Ďurčanský Ďurčanský		0	2873
+619	Albert Jozef ĎURČANSKÝ, SR		0	1400
+619	Albert Mária	Ďurčanská	0	4198
+619	Albert Michal	Ďurčanský	0	2342,2471,2590
+619	Albert Michal ĎURČANSKÝ, SR		0	2330
+619	Albert Michal, Ďurčanský Ďurčanský		0	2873
+619	Albert Mikuláš	Ďurčanský	0	2342,2471,2590
+619	Albert Mikuláš ĎURČANSKÝ, SR		0	2330
+619	Albert Mikuláš, Ďurčanský Ďurčanský		0	2873
+619	Albert Šimon r. Albert	Ďurčanský	0	4197
+619	Albert Štefan		0	2604,3906
+619	Albert Štefan	Ďurčanský	0	2342,2471,2590
+619	Albert Štefan ĎURČANSKÝ, SR		0	2330
+619	Albert Štefan, 015 01, ĎURČINÁ, č. 174, SR		0	1077,2309
+619	Albert Štefan, Ďurčanský Ďurčanský		0	2873
+619	Albert Tomáš		0	926
+619	Albertová Štefánia	Ďurčanská	0	4197
+619	Babčan František		0	926
+619	Babčan Kornel		0	3236
+619	Babčan Štefan, Žiaček Žiaček		0	3643
+619	BABČANCOVÁ ANNA, SR		0	2239,2295,4122,4123
+619	Babčancová Žofia r. Michalecová		0	3935
+619	BABČANEC ALOJZ	ŽIAČEK ĎURČANSKÝ	0	2386,2387
+619	Babčanec František		0	356,2542,2544,3522
+619	Babčanec František, SR		0	878,1224,2224,2229,2272
+619	Babčanec Štefan		0	3938
+619	BABČANOVÁ - ŽIAČKOVÁ MÁRIA r. JANEKOVÁ, SR		0	431
+619	Babčanová Anna	r.Mičudová,Ďurčanská	0	356
+619	BABČANOVÁ ANNA r. MIČUDOVÁ , SR		0	2382,2383
+619	Babčanová Mária r. Janeková Žiačeková		0	3454
+619	Babčanová Mária r. JANEKOVÁ ŽIAČEKOVÁ, SR		0	1412
+619	Babčanová Žofia	r.Blunárová,Horná	0	2461,2472,2518,2602,2758,3998,4237
+619	Babčanová Žofia BLUNÁR HORNÁ, SR		0	1069,1084,1122,3997
+619	Babčanová Žofia, Blunár Horná Blunár Horná		0	2897
+619	Bakala František		0	2894
+619	Bakala František, SR		0	1458,1459,1460,1461
+619	Bakalová Jozefína	r.Vysoká	0	2503,2683
+619	Bakalová Jozefína r. Vysoká		0	2915
+619	Bakalová Jozefína r. VYSOKÁ, SR		0	1325,1460,2137,2844,4189
+619	Baláž Andrej, SR		0	1168,4055,4056
+619	Baláž Izidor		0	2871,2988
+619	Baláž Izidor, ž. Žofia r. Šujanová ž. Žofia r. Šujanová		0	2871
+619	Baláž Jozef	ž.Aneška r.Ďurčanská,Kozárecová	0	2818
+619	Baláž Jozef r. Baláž		0	4197
+619	Baláž Ľudovít		0	2857
+619	Baláž Ľudovít, SR		0	1168,1181,1182,2041,4055,4056,4285
+619	Baláž Ondrej		0	2857
+619	Baláž Ondrej st., SR		0	1181,1182,2041,4285
+619	Baláž Šimon		0	387,871,2818,2857,3922
+619	Baláž Šimon, SR		0	234,236
+619	Baláž Štefan		0	871,3946
+619	Baláž Vincent		0	871
+619	Balážová Agneša r. Kozarecová		0	4197
+619	Balážová Anna r. Smudáková		0	3723
+619	Balážová Anna r. Smudáková, m. Juraj m. Juraj		0	3738
+619	BALÁŽOVÁ ANNA r. SMUDÁKOVÁ, SR		0	1341
+619	Balážová Mária	r.Mihalcová	0	2623
+619	Balážová Paulína r. Králová		0	3081,4197
+619	Balážová Paulína r. KRÁLOVÁ, SR		0	1077,2309
+619	Balážová Pavlína	r.Králová	0	2604
+619	Balážová Štefánia r. Zadňanová		0	3330

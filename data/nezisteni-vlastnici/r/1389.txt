@@ -1,0 +1,256 @@
+804	PALUŠNÝ Ondrej	Horná Súča č.256	0	4680,4728,4735,4775
+804	PANÁK Adam	slobodný,Horná Súča č.263 Istrebník	0	4759,4762,4763,4829,4943,4964,6933
+804	PANÁK Andrej	Maršálka,slobodný,Horná Súča č.658	0	5684
+804	PANÁK Andrej	Maršalko,Horná Súča	0	3768,6938
+804	PANÁK Andrej	vd.,Horná Súča č.436	0	1973,5564,5883,5884,5885,5916
+804	Panák Gašpar, SR		0	1433
+804	Panák Ján r. Panák	Horná Súča 65, 91333 Horná Súča	0	7734
+804	Panák Ján r. Panák, 91333, Horná Súča, č. 435, SR		0	5884
+804	Panák Ján r. Panák, 91333, Horná Súča, č. 515, SR		0	5570,5670
+804	Panák Ján, SR		0	903
+804	Panák Jozef r. Panák, 913 33, Horná Súča, č. 510, SR		0	6939,7074
+804	Panák Jozef r. Panák, 91333, Horná Súča, č. 510, SR		0	3768,3769,3770,3774,5684,6936,6938
+804	PANÁK Juraj	slobodný,Horná Súča č.510	0	3768,3769,3770,5684,6936,6938
+804	Panák Juraj, 913 33, Horná Súča, č. 510, SR	slobodný	0	3774,6939,7074
+804	PANÁK Michal	malol.,Horná Súča č.439	0	2795,5884
+804	PANÁK Milan	malol.,Horná Súča č.439	0	2795,5884
+804	Panák Ondrej	Horná Súča č.942	0	5659
+804	PANÁK Ondrej	Horná Súča č.681	0	1155,1452,4308,5472,5853
+804	Panák Štefan, SR		0	1433
+804	PANÁK VILIAM, č. 63, SR		0	2349
+804	PANÁKOVÁ Anastázia	slobodná,Horná Súča č.436	0	3921,5883,5884,5885
+804	Panáková Anastázia, SR		0	903
+804	Panáková Anna r. Žáčková, 91333, Horná Súča, č. 515, SR		0	5670
+804	Panáková Anna, SR		0	903
+804	Panáková Eva, SR		0	903
+804	Panáková Hedviga r. Krausová, Okružná 23, Trenčín, PSČ 91105, SR		0	3325
+804	Panáková Katarína r. Pavlíková, 91333, Horná Súča, č. 65, SR		0	4233,5509,6476
+804	Panáková Katarína r. Zemanovičová	Horná Súča 77, 91333 Horná Súča	0	7718
+804	PANÁKOVÁ Katarína r. Zemanovičová, 91333, Horná Súča, č. 77, SR		0	4299
+804	Panáková Katarína, SR		0	903
+804	PANÁKOVÁ Magdaléna	sl.,Horná Súča č.613	0	5581
+804	PANÁKOVÁ Mária	slobodná,Horná Súča č.436	0	3921,5883,5884,5885
+804	Panáková Mária r. Barišová, 91333, Horná Súča, č. 437, SR		0	5882
+804	Panáková Mária r. Danišová, 91333, Horná Súča, č. 717, SR		0	5678
+804	Panáková Mária, SR		0	903
+804	Panáková Pavlína r. Dražkovcová, SR		0	1433
+804	Paulejková Júlia r. Bulejková, 91333, Horná Súča, č. 408, SR		0	5280
+804	Pavlík Jozef r. Pavlík, 91333, Horná Súča, č. 665, SR		0	1714
+804	PAVLÍK Karol	slobodný, Horná Súča č.192	0	3847,3849,4406
+804	Pavlíková Kristína	Horná Súča č.107, r.Serišová	0	4992,5004,5030,5036
+804	Peliešková Irena	r.Mikušincová,Horná Súča č.993	0	3170,4337,5688,5931,5970,6015,6016,6017,6020,6021,7470
+804	PEVNÁ MAGDALENA r. POLÁČKOVÁ, SR		0	442
+804	POLACKOVA HELENA r. FARYOVA, TRNAVKA, č. 925, SR		0	743
+804	POLÁČEK Andrej	Chovančík,sl.,Horná Súča č.489	0	5786
+804	Poláček Andrej r. Poláček, 91333, Horná Súča, č. 474, SR		0	5747
+804	POLÁČEK IMRICH, SR		0	442
+804	POLÁČEK Ján	Horná Súča č.472	0	5559
+804	POLÁČEK Ján	Chovančík,sl.,H.Súča č.489	0	5786
+804	POLÁČEK Ján	sl.,H.Súča č.459	0	3810
+804	Poláček Ján r. Poláček, 91333, Horná Súča, č. 476, SR		0	5796
+804	POLÁČEK Jozef	Juráček,ml.,H.Súča č.437	0	5568
+804	Poláček Jozef r. Poláček, 91333, Horná Súča, č. 453, SR		0	5560,5804
+804	POLÁČEK JOZEF, SR		0	442
+804	POLÁČEK Juraj	Chovančík,ml.sl.,Horná Súča č.489	0	5786,5836
+804	POLÁČEK Juraj	zák.tútor Poláčková Mária, Stará Ves 44	0	5753,5755
+804	Poláček Juraj r. Poláček, 91333, Horná Súča, č. 521, SR		0	3649,5632,5641,5644,5646,5688,8096,8097
+804	POLÁČEK Martin	slobodný,Horná Súča č.472	0	3566,3567,3568,3570,4085,4086,5559,7532,8010
+804	POLÁČEK Martin	Valšov č.12	0	3036,3037,3437,3901,4085,5559,7532,8010
+804	Poláček Martin, 913 33, Horná Súča, č. 472, SR	slobodný	0	3569,7073
+804	Poláček Matej	H.Súča č.472	0	7586
+804	Poláček Matej	H.Súča č.472, zom.10.5.1978	0	3036,3037,3437,3901,4085,5559,8010
+804	POLÁČEK Rudolf	zák.tútor Poláčková Mária, Stará Ves 44	0	5753,5755
+804	POLÁČEK Štefan	sl.,Horná Súča č.459	0	3810
+804	Poláček Štefan r. Poláček, 91333, Horná Súča, č. 411, SR		0	5225,5837
+804	POLÁČEK Vavrinec	sl. Horná Súča č.459	0	5799,7579
+804	POLÁČEK Vlastimil	zák.tútor Poláčková Mária, Stará Ves 44	0	5753,5755
+804	POLÁČKOVÁ Alojzia	sl.Horná Súča č.459	0	3810
+804	POLÁČKOVÁ ALOJZIA, SR		0	442
+804	POLÁČKOVÁ Alžbeta	sl.,Horná Súča č.459	0	3810
+804	Poláčková Alžbeta r. Vašíčková, 91333, Horná Súča, č. 153, SR		0	5706,5804
+804	POLÁČKOVÁ Apolónia	sl.,Horná Súča č.459	0	3810
+804	POLÁČKOVÁ Eva	sl.,Horná Súča č.459,zomrela	0	3810
+804	Poláčková Helena r. Fáryová	Trnávka 925, 91333 Horná Súča	0	7538
+804	POLÁČKOVÁ Júlia	mal.,.tútor vd.Anna Poláčková r.Dobošová	0	4501
+804	POLÁČKOVÁ Júlia	slobodná, Horná Súča č.472	0	3036,3037,3437,3566,3567,3568,3570,3901,4085,4086,5559,7586,8010
+804	Poláčková Júlia, 913 33, Horná Súča, č. 472, SR	slobodná	0	3569,7073
+804	POLÁČKOVÁ Katarína	sl.,Horná Súča č.131	0	3592,4302,4501
+804	Poláčková Katarína r. Mikušincová, 91333, Horná Súča, č. 131, SR		0	5854
+804	POLÁČKOVÁ Kristína	sl.,Horná Súča č.131	0	3592,4501
+804	Poláčková Margita	r.Poláčková,Horná Súča č.879,Trnávka	0	3036,3437,3901,5559,5748,5759
+804	POLÁČKOVÁ Margita	Horná Súča č.472	0	5559
+804	Poláčková Margita r. Poláčková	Horná Súča, Trnávka č.879	0	3037
+804	POLÁČKOVÁ Mária	Chovančík,sl.,Horná Súča č.489	0	5786
+804	POLÁČKOVÁ Mária	malol.,Horná Súča č.411	0	3525,3881,5225,8237,8238
+804	POLÁČKOVÁ Mária	sl.,Horná Súča č.459	0	1825,3810
+804	POLÁČKOVÁ MÁRIA, SR		0	442
+804	POLÁČKOVÁ Marta	zák.tútor Poláčková Mária, Stará Ves 44	0	5753,5755
+804	Poláčková Zuzana r. Čepelová, 91333, Horná Súča, č. 392, SR		0	5307
+804	Poláčková Zuzana r. Panáková, SR		0	1433
+804	POLOMSKÁ Anna	r.Kopúňová, Lesnícka 19, Košice	0	3306,4826,4965,7493,7835,7856
+804	Probštová-Rokšová Ľudmila r. Vincúrová, 68774, Starý Hrozenkov, č. 88, SR		0	5375
+804	RANKO Ján	vd.,Horná Súča č.150	0	4276
+804	RANKOVÁ Mária	mal.,Horná Súča č.7, Prejta, zomrela	0	5859
+804	REPA Adam	Ševo,sl.,Dolná Súča č.315	0	4364
+804	REPA Andrej	Chupáč; sl.,Horná Súča č.22	0	3339,4599,6048
+804	REPA Andrej	Vrablačka,ssl.,Dolná Súča č.312	0	4316,4344
+804	Repa Filip r. Repa, 91332, Dolná Súča, č. 323, SR		0	5991
+804	REPA Gustáv	Kohút,sl.,Horná Súča č.313	0	4340
+804	REPA Gustáv	Šopka,sl.,Horná Súča č.327	0	3793,6027
+804	Repa Chupáč Gustáv, SR		0	994
+804	Repa Chupáč Ján, SR		0	994
+804	Repa Chupáč Jozef		0	257
+804	Repa Chupáč Jozef, SR		0	994
+804	Repa Chupáč Juraj		0	257
+804	Repa Chupáč Juraj, SR		0	994
+804	Repa Chupáč Katarína		0	257
+804	Repa Chupáč Mária		0	257
+804	Repa Chupáč Mária r. Tarabus		0	257
+804	Repa Chupáč Matej	mal	0	994
+804	Repa Chupáč Ondrej		0	257
+804	Repa Chupáč Ondrej	mal	0	994
+804	REPA Ján	Kohút,vd.,Horná Súča č.313	0	4333
+804	REPA Ján	sl.,Horná Súča č.21	0	5558
+804	Repa Ján r. Repa, 91332, Dolná Súča, č. 315, SR		0	4338,4364,5977
+804	REPA Jozef	Chupáč; sl.,Horná Súča č.22	0	3339,4599,6048
+804	REPA Jozef	Kohút,st.vd.,Dolná Súča č.325	0	5981
+804	Repa Jozef r. Repa, 91332, Dolná Súča, č. 338, SR		0	3754,5859,6006,6008
+804	Repa Juraj	Chupáč,sl., Horná Súča č.22	0	4599,5534,5535
+804	Repa Juraj r. Repa, 91333, Horná Súča, č. 313, SR		0	4340
+804	REPA Martin	Hornist,vd.,Dolná Súča č.311	0	4316,4345
+804	Repa Ondrej	Repákovci č.800, Dolná Súča, zomrel	0	4411,5473,5977
+804	Repa Pavol	Ku kyselke 17, Záblatie, Trenčín	0	4341,5979,5998,6008,6011,6785
+804	Repa Štefan r. Repa, 91333, Horná Súča, č. 313, SR		0	4340
+804	REPÁKOVÁ Mária	Čapáková, Dolná Súča	0	4572,8306
+804	REPOVÁ Agnesa		0	1368,2828,4024,4061,5665,5921,5938,5939,5944,5951,5952,6690,6691,6692,6693,6694,6695,7130,7364,7365,7566,7767,8270
+804	Repová Alžbeta r. Chupáčová, 91332, Dolná Súča, č. 313, SR		0	3825
+804	REPOVÁ Anna	mal.,Horná Súča č.328	0	5978
+804	REPOVÁ Anna	Sásková,vd.,Dolná Súča č.320,zomrela	0	5031
+804	REPOVÁ Anna r. Barišová, 91332, Dolná Súča, č. 315, SR		0	1566,4318
+804	REPOVÁ Eva	sl.,Dolná Súča č.311	0	4316
+804	REPOVÁ Eva	Šopka,sl.,Dolná Súča č.320	0	4341,5979,5998,6008,6785
+804	Repová Eva r. Krovinová, 91333, Dolná Súča, č. 226, SR		0	5978
+804	Repová Chupáčová Františka, SR		0	994
+804	Repová Chupáčová Katarína, SR		0	994
+804	Repová Chupáčová Magdaléna, SR		0	994
+804	Repová Chupáčová Margita	mal	0	994
+804	REPOVÁ Katarína	Chupáč; sl.Horná Súča č.22	0	3756,3872,4477,6478,6479,7175
+804	REPOVÁ Mária	Čapáková,Dolná Súča	0	1873,3273,5176,5191,5236,5446,6800
+804	Repová Mária r. Čapáková, 91333, Dolná Súča, č. 320, SR		0	6038
+804	Repová Mária r. Chupáčová, 913 32, Dolná Súča, č. 324, SR		0	6011
+804	Repová Mária r. Chupáčová, 91332, Dolná Súča, č. 324, SR		0	3827,6003,6008
+804	Repová Mária r. Krovinová, 91332, Dolná Súča, č. 338, SR		0	5978,6005
+804	ROSENFELD ZSIGMEND, SR		0	3484
+804	SÁDECKÁ Anna	Kašlíková,vd.,Horná Súča č.130	0	3646,3848,3910
+804	Sádecká Eva	Horná Súča 56, 91333 Horná Súča	0	7611
+804	Sádecká Eva	Sásková Štefan Kobzík ,Horná Súča č.56	0	3251,3830
+804	Sádecká Eva r. Sáskavá, 91333, Horná Súča, č. 56, SR		0	5633
+804	Sádecká Eva, 91333, Horná Súča, č. 56, SR		0	3252,3253,3831,3832,3945,3946,3950
+804	Sádecká Katarína	Kobzíková,Horná Súča č.85,zomrela	0	4528
+804	Sadecká Mária	Gagová, Štefan , Horná Súča 56, zom	0	3198,4863,8011
+804	Sádecká Mária r. Gagová, 91333, Horná Súča, č. 56, SR		0	3832,3835,3946,3948,3951,4382,4528,4600,6054
+804	Sádecká Mária r. Mária, 91333, Horná Súča, č. 56, SR		0	5540
+804	Sádecká Mária, 91333, Horná Súča, č. 56, SR		0	3251,3252,3253,5449,5482,5633
+804	SÁSKA Alojz	mal.,Amerika	0	5472,5481,5853,6244
+804	Sáska Alojzia		0	1506
+804	Sáska Anna		0	1506
+804	SÁSKA Augustín	mal.,Horná Súča č.50	0	5472,5481,5853,6244
+804	SÁSKA Ferdinand	sl.,Horná Súča č.184	0	5031
+804	Saska Jozef, SR		0	314
+804	Sáska Mária		0	1506
+804	SÁSKAVÁ Katarína	sl.,Horná Súča č.147,z.8.10.1990	0	5859
+804	SÁSKO Augustín	mal.,Tútor:vd.Sásko Jozef Bakula mal.,Tútor:vd.Sásko Jozef Bakula	0	1155,1452
+804	Sásko František, 913 33, Horná Súča, č. 151, SR	mal.,tútor:vd.Sásko Jozef Bakula ,zom. 28.08.1999	0	1155
+804	SASKOVÁ Alojzia	sl.,Horná Súča č.209,zomrela	0	3828
+804	Sásková Alojzia		0	1506
+804	Sásková Alojzia	sl., Horná Súča č. 209	0	4381
+804	SÁSKOVÁ Alojzia	mal.,Tútor:vd.Sásko Jozef Bakula mal.,Tútor:vd.Sásko Jozef Bakula	0	1155,1452
+804	Sásková Anna		0	1506
+804	SÁSKOVÁ Anna	sl.,Horná Súča č.209	0	3816,3819,4026,4381
+804	Sásková Anna r. Mikušincová, 91333, Horná Súča, č. 615, SR		0	5854
+804	SÁSKOVÁ Katarína	sl; ,Horná Súča č.52	0	4220,5523
+804	Sásková Mária		0	1506
+804	SÁSKOVÁ Viktória	mal.,Tútor:vd.Sásko Jozef Bakula mal.,Tútor:vd.Sásko Jozef Bakula	0	1155,1452,5472,5481,5853,6244
+804	SATINOVÁ Eva	Gagová,vd.,Štefan Satin,H.Súča č.303	0	3439,4515,4648,5026
+804	SATINOVÁ Mária r. Gagová, 91333, Horná Súča, č. 303, SR		0	4535,4648,5026
+804	SATINOVÁ Paulína	Bučeková,Jozef Satin,Horná Súča č.303	0	5026
+804	Satytár Jánová Anna r. Kašlíková		0	1506
+804	Sedláčiková Anna r. Vincúrovská, 91333, Horná Súča, č. 146, SR		0	5376
+804	SEDLÁČIKOVÁ Katarína	sl., Žitková č.150	0	5395
+804	Seriš Albert		0	1506
+804	Seriš Ján		0	1506
+804	Seriš Ján	Horná Súča č.377,zomrel	0	2060,3967
+804	SERIŠ Ján	roľ.,Horná Súča č.631	0	3744,6553,8308
+804	SERIŠ Ján	Satin, Horná Súča č.423	0	1503,2432,2450,3744,6553,8308
+804	Seriš Ján r. Seriš, 91333, Horná Súča, č. 351, SR		0	5153
+804	SERIŠ Jozef	Horná Súča	0	5031,5148,5149
+804	Seriš Juraj		0	1506
+804	Seriš Juraj	syn Jurajovej Seriš r.Marie Sadecky	0	1506
+804	SERIŠ JURAJ, SR		0	3484
+804	Seriš Ondrej		0	1506
+804	SERIŠ Ondrej	roľ.,Horná Súča č.708	0	3744,6553,8308
+804	Serišová Alžbeta		0	1506
+804	Serišová Anna		0	1506
+804	Serišová Anna r. Škundová, 91333, Horná Súča, č. 369, SR		0	1924,5128,5780,6831,6917
+804	Serišová Brigita	Horná Súča	0	5031,5148,5149
+804	SERIŠOVÁ Katarína	r.Čelinská,Horná Súča č.760	0	3170,4337,5013,5970
+804	Serišová Mária		0	1506
+804	SERIŠOVÁ Mária	sl.,Horná Súča č.351	0	3930
+804	SERIŠOVÁ Mária r. Sádecká	Juraj , Horná Súča č. 191; Juraj	0	4381
+804	Schvantnerová Mária	Mikušincová, Štefan Schvantner , H Súča 492	0	7586
+804	SCHVANTNEROVÁ Mária	Mikušincová, Štefan Schvantner , Horná Súča 492	0	1757,3891
+804	SIROTNÝ ANTON, HRABOVKA, č. 99, SR		0	3484
+804	SITÁROVÁ Karolína	r.Žideková, Trunnbull USA	0	4129,5486
+804	STARÁ Apolena	Gugová, Jozef , Česká Republika	0	5612
+804	STAŠÁK Andrej	sl.,Horná Súča č.392	0	5294
+804	STAŠÁK Ján	slobodný, zomrel 4.7.1993,H.Súča č.388	0	2757,2916,5299,5307,5311,5326,5328,5358,8091
+804	Stašák Jozef r. Stašák, 91333, Horná Súča, č. 389, SR		0	5307
+804	STAŠÁKOVÁ Agnela	sl.,Horná Súča č.458	0	5581,5910
+804	STAŠÁKOVÁ Alžbeta	Nové Mesto n/Váhom	0	5301
+804	STAŠÁKOVÁ Alžbeta	slobodná, Horná Súča č.458	0	5581,5908,5909,5910,5912
+804	STAŠÁKOVÁ Angela	slobodná, Horná Súča č.458	0	5908,5912
+804	STAŠÁKOVÁ Júlia	Horná Súča č.388	0	2757
+804	STAŠÁKOVÁ Katarína	Bulejková,vd.,Horná Súča č.388	0	3318,3321,4981,5325,5352,5368,7359,8006
+804	STAŠKOVÁ Mária	sl.,Horná Súča č.388	0	5299,5307,8091
+804	Stašková Mária r. Švajdová, 91333, Horná Súča, č. 389, SR		0	5214
+804	Stehlík Augustín	Jahodova 30, Trenčín, zomrel	0	3318,5403,5413,5415,6363,6364,7359,8006,8104
+804	STEHLIK AUGUSTIN, SR		0	6112
+804	STEHLIK FERDINAND, SR		0	6112
+804	Stehlík Juraj r. Stehlík, 91333, Horná Súča, č. 615, SR		0	5406
+804	STEHLÍK Štefan	mal.,Horná Súča č.395	0	5393
+804	STEHLÍKOVÁ Agneša	sl.,Horná Súča č.394	0	5440
+804	STEHLÍKOVÁ Anna	mal.,Horná Súča č.395	0	5391,5413
+804	Stehlíková Magda r. Macharová, 91333, Horná Súča, č. 395, SR		0	3306
+804	Stehlíková r. Habániková, SR	Juraj	0	1513
+804	Sternová Alojzia r. Birasová, 91333, Horná Súča, č. 68, SR		0	4059,4114,4243
+804	STRAPÁKOVÁ Mária	Sásková, Martin , Horne Srnie	0	5031
+804	STRÁPEK Ján	Bakulík,sl.,Horná Súča č.540	0	4133
+804	STRÁPEK Ján	Bikula, Morava	0	5630
+804	STRÁPEK Juraj	sl.,Horná Súča č.210	0	4588,5634
+804	Strápek Martin	Mária Sásková	0	4588,5622
+804	Strápek Martin	Mária Sásková, Horná Súča 210, zom	0	7618
+804	STRÁPEK Martin	vd.,Horná Súča č.592,zomrel	0	5840
+804	Strápek Štefan	Horná Súča, zom. 26.03.1973	0	3926
+804	Strápková Mária r. Sásková, 91333, Horná Súča, č. 210, SR		0	4263
+804	SUNTYCHOVÁ JÚLIA r. MARŠALKOVÁ, Hradec Králové, ČR		0	442
+804	Sypták Karol	Mária Birasová	0	1813
+804	ŠEDIVÝ MARTIN	manž. Anna Gago	0	3484
+804	Ševčík Andrej r. Ševčík, 91333, Horná Súča, č. 105, SR		0	6055
+804	Ševčík Imrich	Horná Súča č.132	0	1717,3394,4289,4417,7686
+804	ŠEVČÍK Jozef	sl.tútor vd.Mária Ševčíková r.Fáryová	0	3394,4289,4417
+804	ŠEVČÍK Štefan	sl.tútor Mária Ševčíková r.Fáryová	0	3394,4289,4417
+804	ŠEVČÍKOVÁ Lujza	mal.tútor Mária Ševčíková r.Fáryová	0	3394,4289,4417
+804	Šičáková Mária r. Drhová, SR		0	903
+804	ŠIČINANOVÁ Anna	Židková,Gašpar Šičinan, Lok u Tornoku	0	4235
+804	ŠKUNDA Andrej	Kohút,slobodný, Horná Súča č.481, zom	0	3897,5781,5782,5783,5785
+804	ŠKUNDA Hrehor	vd.,Horná Súča č.459	0	5826
+804	ŠKUNDA Ján	Horná Súča č.482	0	5918
+804	ŠKUNDA Ján	sl.,Horná Súča č.459	0	5860,5874,5876
+804	Škunda Ján r. Škunda, 91333, Horná Súča, č. 481, SR		0	3897,5785,5849
+804	Škunda Ján r. Škunda, 91333, Horná Súča, č. 624, SR		0	5847,5857
+804	ŠKUNDA Jozef	z.7.4.1978, Horná Súča č.592	0	5565,5566,5569,5574,5805,5820,5826,5830,5918
+804	Škunda Jozef r. Škunda, 91333, Horná Súča, č. 485, SR		0	5773,5776,5847,5857
+804	Škunda Jozef r. Škunda, 91333, Horná Súča, č. 624, SR		0	5847,5857
+804	ŠKUNDA Ondrej	Kohút,sl.,Horná Súča č.481	0	5849
+804	ŠKUNDA Pavol	sl.,Horná Súča č.461	0	5834
+804	ŠKUNDA Štefan	sl.,Horná Súča č.459	0	5860,5868,5874

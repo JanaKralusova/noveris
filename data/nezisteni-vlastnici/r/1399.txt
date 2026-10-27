@@ -1,0 +1,256 @@
+810	Knopp Jozef	Ondrejov	0	1116
+810	Knopp Pavel		0	1397
+810	Knopp Pavol		0	698,1003
+810	Knopp Pavol	zom.20.01.1977	0	1002
+810	Knoppová Anna r. Čavojcová		0	1009,1165
+810	Knoppová Anna r. Foltánová	zom.02.02.1999	0	838
+810	Knoppová Anna r. Marichelová		0	824
+810	Knoppová Emília, 966 04, Horná Ždaňa, č. 42, SR	zom.24.04.2000	0	995
+810	Knoppová Veronika		0	1196
+810	Knoppová Veronika r. Krčmáriková		0	1478
+810	Knoppová Veronika r. Prôčková		0	1404
+810	Kopčan Imrich, 966 04, Horná Ždaňa, č. 94, SR	zom.23.12.2003	0	1003
+810	Kopčan Ladislav		0	934,1178
+810	Kopčan Pavol		0	170,852,990
+810	Kopčan Peter		1	370,702,1250,1589
+810	Kopčanová Mária		0	1306
+810	Kopčanová Mária	mal	0	239,702,753,929
+810	Kopčanová Mária	mal.,naposl. bytom Zvolen	0	575
+810	Kopčanová Mária r. Beňová	zom.29.06.2002	0	934,1374
+810	KOPČANOVÁ Mária, Zvolen, SR	mal	0	167
+810	Kopčanová Rozália		0	997
+810	Korál Imrich	Kúšik	0	1023,1320
+810	Koral Imrich r. Kúšik		0	932
+810	Koral Kupec Michal		0	694,702
+810	Koral Kupecová Paula		0	694,702
+810	Koral Kúšik Ján		0	702
+810	Koral Kúšiková		0	702
+810	Koral Kúšiková Katarína r. Kopčanová, SR		0	167
+810	Koral Martin	Kúšik	0	1360
+810	Korál Martin		0	1426
+810	Korál Michal		0	62,702,1487
+810	Korál Michal	Kupec	0	1187
+810	Korálová Alžbeta r. Gallová		0	293,702,1202,1633,1644
+810	Korálová Katarína r. Kopčanová	Kúšik	0	1158
+810	Korálová Mária		0	702
+810	Korálová Mária r. Glezgová		0	589,695,702,1137
+810	Koralová Mária r. Koralová		0	588,1437
+810	Koralová Paulína	Kupec	0	1497
+810	Korálová Paulína r. Kupcová		0	1447
+810	Korálová Pavlína r. Kupecová		0	930
+810	Kosová Mária r. Kopčanová		0	1004
+810	Košta Štefan		0	1458
+810	Koštová Paulína r. Čierna		0	1293
+810	Kováč Ján, 966 21, Dolná Trnávka, č. 2, SR	zom.19.10.1995	0	996
+810	Král Jozef	mal	1	306,370,427,694,702,1589
+810	Kráľ Jozef		0	1006,1545
+810	Král Ladislav	neb	0	268
+810	Král Ladislav	zom.15.06.1994	0	299,1642
+810	Kráľ Ladislav, 96604, Horná Ždaňa, č. 51, SR	zom.15.06.1994	0	1522
+810	Kráľová Alžbeta r. Gallová		0	1387
+810	Králová Mária r. Glezgová		0	702
+810	Kráľová Paulína		0	1295
+810	Králová Rozália	mal	1	370,1589
+810	Kráľová Rozália		0	1502
+810	Kráľová Rozália r. Antalová		0	1371
+810	Krčmáriková Terézia r. Prôčková		0	1561
+810	Kružic Ján		0	1120
+810	Kružic Lukáš		0	692,996
+810	Kružicová Karolína		0	692,996
+810	Kružicová Katarína		0	1113
+810	Kružicová Mária r. Dekýšová		0	1218
+810	Kružicová Paulína r. Tesáková		0	986
+810	Kučera Ján		0	742,1234
+810	Kučerová Anna r. Marichelová		0	1586
+810	Kukučková Anna r. Kupecová		0	938,1402
+810	Kukučková Magdaléna		0	1006
+810	Kupcová Anna		0	1185
+810	Kupcová Anna	mal	0	320,702
+810	Kupcová Anna	Števka	0	440,1070
+810	Kupcová Anna r. Varsová	Janova	0	1243
+810	Kupcová Anna r. Varsová, SR	Janova	0	402
+810	Kupcová Cecília Fabová, Jozefova		0	997
+810	Kupcová Cecilia r. Fabová	Kúšik; Jozefová	0	881
+810	Kupcová Katarína		0	702,1352
+810	Kupcová Katarína	mal	0	407
+810	Kupcová Katarína r. Dražová		0	320,1069
+810	Kupcová Katarina, SR	mal	0	402
+810	Kupcová Paulina	Koral; mal	0	889
+810	Kupcová Paulína		0	1004
+810	Kupcová Paulína	Koral	0	1344
+810	Kupcová Paulína r. Kúšová		0	1089
+810	Kupcová Pavlina		0	702
+810	Kupcová Veronika		0	1004
+810	Kupcová Veronika	mal	0	608
+810	Kupec - Korálová Paulína	mal	0	609
+810	Kupec Ján		0	702
+810	Kupec Ján	ml	0	320,1504
+810	Kupec Jozef	Kúšik	0	881
+810	Kupec Kúšik Peter		0	374,614,702,826
+810	Kupec Kúšik Štefan		0	374,427,614,702
+810	Kupec Michal		0	320,608,702,1032
+810	Kupec Pavel		0	320,702,1004
+810	Kupec Peter		0	1584
+810	Kupec Peter	Kúšik	0	1421
+810	Kupec Štefan	Kúšik	0	1144
+810	Kupec Štefan	zom.03.02.1979	0	934
+810	Kupec Štefan, 96604, Horná Ždaňa, č. 102, SR	zom.03.02.1979	0	1181
+810	Kupecová Paulína		0	1493
+810	Kupecová Paulína Koral		0	997
+810	Kupecová Pavlína		0	320
+810	Kupecová Veronika		0	1163
+810	Kupecová Veronika	mal	0	320,702
+810	Kúš Andrej		0	1006
+810	Kúšik Jozef		0	1224
+810	Kúšik Kupec Peter		0	374,614,702
+810	Kúšik Štefan		0	1284,1580
+810	Kúšiková Ilona		0	881
+810	Kúšiková Katarína r. Tesáková, Olbrachtova 1052/7, Bratislava, PSČ 831 04, SR	zom.02.06.2004	0	996
+810	Kúšiková Mária r. Bugárová		0	702,1006
+810	Kúšiková Mária r. Kopčanová		0	306,347,702,927,950,1045,1046,1580
+810	Kuzmínová Emília		0	1276
+810	Kysel Ondrej		0	1062
+810	Kysel Štefan		0	986
+810	Kyselová Anna r. Kabinová, Partizánska 1931/36, Handlová, PSČ 972 51, SR	zom.18.01.2005	0	925,1005
+810	Kyselová Mária r. Kúsková		0	996
+810	Lesné majiteľstvo		0	1040
+810	Ličko Ján		0	1499
+810	Ličko Ján	ž.P.Vincencová	0	1375
+810	Ličková Veronika	m.Michal	0	1085
+810	Luptáková Anna r. Harachová		0	1337
+810	Macko Michal		0	690,1101
+810	Macková Matilda		0	692,996
+810	Magula Augustín, 966 21, Dolná Trnávka, č. 52, SR	zom.13.11.2003	0	996
+810	Magula Ján		0	692,996
+810	Magula Ján, 966 21, Dolná Trnávka, č. 8, SR	zom.07.02.1958	0	991
+810	Magula Jozef		0	692,996
+810	Magulová Mária		0	1201
+810	Magulová Mária r. Tesáková, Dyčka 77, Vráble, PSČ 952 01, SR		0	692
+810	Magulová Mária r. Tesáková, Dyčka 77, Vráble, PSČ 952 01, SR	zom.21.02.1999	0	996
+810	Majerský Emil, 966 21, Dolná Trnávka, č. 73, SR	zom.14.04.1998	0	1074
+810	Majerský Ondrej	zom.22.03.1998	0	1005
+810	Mališ Ján		0	621,997
+810	Mališ Jozef		0	621,997
+810	Mališ Michal		0	621,1566
+810	Mališová Katarína		0	621,997
+810	Mališová Margita		0	621,997
+810	Masná Anna r. Gallová	Štefanova	0	293,702,1026,1633,1644
+810	Mastík Ján, 966 01, Horná Trnávka, č. 61, SR		0	786,822
+810	Mastík Ján, Horná Trnávka 61, Prestavlky, PSČ 966 05, SR	zom.23.05.1997	0	995
+810	Mastiková Katarína r. Čierna		0	1424
+810	Matušková Mária Kaššová		0	997
+810	Matušková Mária r. Hanusová	Štefanova	0	1161
+810	Miháliková Terézia r. Dekýšová, Na Gremenici 25, Žarnovica, PSČ 966 81, SR	zom.21.10.1998	0	993
+810	Minich Andrej		0	1231
+810	Minich Juraj		0	164,866
+810	Minich Štefan		0	164,702
+810	Minich Štefan	mal	0	866
+810	Minichová Anna		0	1006,1587
+810	Minichová Anna r. Bellanová, 966 04, Horná Ždaňa, č. 84, SR	zom.16.01.1996	0	786,822,995
+810	Minichová Mária		0	1302
+810	Mlčal Ľudovít	zom.04.03.2001	0	843
+810	Mlčalová Emília r. Karvašová		0	311
+810	Mlčalová Emília r. Karvašová, 966 01, Dolná Ždaňa, č. 18, SR		0	309
+810	Mlčalová Rozália r. Gallová		0	309,1043
+810	Moška Andrej, Sládkovičova 501/40, Žiar nad Hronom, PSČ 96501, SR	zom.04.03.1996	0	1588
+810	Moška Jozef, 966 01, Dolná Ždaňa, č. 10, SR		0	167
+810	Moška Jozef, 96601, Dolná Ždaňa, č. 10, SR	zom.10.01.1988	0	1252
+810	Moška Maximilián, 96601, Dolná Ždaňa, č. 215, SR	zom.25.05.1996	0	1514
+810	Nemčík Ján		0	1586
+810	Nemčík Jozef	ž.M.Mikulová	0	1006,1587
+810	Nemčík Lavrinc		0	1006,1587
+810	Nemčík Štefan		0	1006,1587
+810	Nemčíková Anna		0	1586
+810	Nemčíková Anna r. Packová		0	1006,1587
+810	Nemčíková Katarína		0	1006,1587
+810	Nemčíková Mária		0	1006,1587
+810	Nemčíková Paulína		0	1006,1587
+810	Neumannová Katarína r. Dekýšová		0	1435
+810	Obertášová Mária		0	996
+810	Oobertášová Mária		0	692
+810	Oťapková Anna r. Pejsová		0	836
+810	Oťapková Margita		0	932,933,1422
+810	Oťapková Veronika		0	932,933,1146
+810	Paneková Amália		0	1418
+810	Pasminková Katarína r. Tesáková, Malinovského 2, Nové Mesto nad Váhom, PSČ 91501, SR		0	1585
+810	Pastor Ondrej	zom.15.02.1991	0	848,879
+810	Pecko Imrich		0	1338
+810	Pecko Ján		0	1086
+810	Pecková Mária		0	1586
+810	Pejs Andrej		0	293,824,1061,1633,1644
+810	Pejs Ján	manž.M.Solgová	0	567,702
+810	Pejs Ján	ž.M.Solgová	0	1254
+810	Pejs Jozef	manž.A.Koralová; zom.07.04.1998	0	859
+810	Pejsz Ondrej		0	934
+810	Pejszová Anna		0	934
+810	Prôčka Emil		0	992
+810	Prôčka Ján		0	992
+810	Prôčka Stanislav		0	992
+810	Prôčková Emília		0	992
+810	Prôčková Katarína r. Gregušová		0	992
+810	Prôčková Mária		0	992
+810	Prôčková Marta		0	992
+810	Prôčková Rozália		0	992
+810	Prôčková Rozália r. Kaššová		0	1233
+810	Putišová Katarína r. Korál-Kúšiková		0	1370
+810	Rapková Katarína		0	1368
+810	Rozenberg Jozef		0	1006
+810	Rozenberg Martin		0	1006
+810	Sásová Rozália r. Gallová		0	927,950
+810	Skopcová Rozália r. Minichová		0	1586
+810	Solga Jozef, Horná Trnávka 12, Prestavlky, PSČ 966 05, SR	zom.19.03.2003	0	995
+810	Solga Juraj		0	1246
+810	Solga Michal		0	1557
+810	Solga Štefan		0	1353
+810	Staroňová Terézia	zom.13.12.1998	0	692,996
+810	Stračinová Veronika		0	692,996
+810	Suliková Helena r. Kráľová, Krížna 3, Bratislava, PSČ 81107, SR	zom.02.01.2006	0	1228
+810	Szuchi Jozef		0	859
+810	Ševčíková Anna r. Kukučková, Čerešňová 79, Kolíňany, PSČ 951 78, SR	zom.27.11.1995	0	995
+810	Škriniarová Mária r. Kúšiková		0	1079
+810	Tatranská Anna r. Knoppová, 966 04, Horná Ždaňa, č. 79, SR	zom.05.10.2006	0	988
+810	Tekovská ľudová banka		0	1394
+810	Tesák Jozef		0	986
+810	Tesák Michal		0	1200
+810	Tesáková Anna		0	1206
+810	Urblíková Mária r. Korálová	zom.11.06.1996	0	826,1584
+810	Vandlíková Katarína r. Bugárová	zom.22.01.2003	0	370
+810	Vandlíková Katarína r. Bugárová	zom.22.01.2003; naposl.bytom Bzenica č.147	0	1030
+810	Vandlíková Katarína r. Bugárová, 966 01, Bzenica, č. 147, SR	zom.22.01.2003	0	989
+810	Varsa Jozef		0	990
+810	Varsa Štefan		0	1560
+810	Varsová Anna r. Škopcová		0	1066
+810	Varsová Cecília r. Finková		0	695,696,1345
+810	Varsová Mária r. Búciová		0	1273
+810	Vaššová Mária r. Buchtová, 966 01, Dolná Ždaňa, č. 9, SR	zom.12.04.1998	0	1005
+810	Vavrová Zdena Dudášová		0	997
+810	Vincenc Anton		0	1006,1577
+810	Vincenc Anton	Ličko	0	1006,1577
+810	Vincenc Ján		0	1006
+810	Vincenc Ján	I.; zom.17.06.2001	0	925
+810	Vincenc Ján	Ličko	0	1006,1577
+810	Vincenc Ján	zom.17.06.2001	0	1005
+810	Vincenc Pavol	Ličko	0	1006,1577
+810	Vincenc Štefan	Ličko	0	1006,1577
+810	Vincencová Cecília r. Bugárová		0	1565
+810	Vincencová Paulína r. Ténešová		0	826,933,1347,1584
+810	Vlčeková Anna r. Lauková	zom.15.01.1990	0	347,1010,1599
+810	Vozárová Bernardína r. Kaššová, 966 71, Župkov, č. 98, SR	zom.05.01.2005	0	1002
+810	Záhorcová Mária		0	692,996,1073
+810	Záhorec Emil	zom.28.10.2001	0	1540
+810	Záhorec Gabriel		0	692,986,996
+810	Zámora Jozef	zom.01.09.2001	0	925,1005
+810	Zimanová Mária		0	692,996
+810	Žiaková Róza r. Gallová		0	697,702
+810	Žiaková Rozália r. Gallová		0	170,852,1003
+811	Adamcová Jozefína r. Stupaničová		0	905
+811	AMBROVÁ Anna		0	1151
+811	BACOVÁ Anna	r.Kasalová	0	214
+811	Bacová Anna r. Kasalová		0	1037
+811	Belák Albín	manž.Anna r.Jakubíková	0	1057
+811	Belák Ján	vdovec, manž. Mária r. Korbelová	0	1141
+811	BELÁK Ján		0	1245
+811	Belák Jozef r. Belák	manž. Pavlína r. Beláková	0	861
+811	Belák Jozef r. Belák	manž.Pavlína r.Hudecová	0	1071,1283
+811	BELÁK Ludovít		0	1231
+811	Belák Ondrej r. Belák	manž. Karolína r. Juráková	0	1122

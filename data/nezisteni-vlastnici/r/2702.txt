@@ -1,0 +1,256 @@
+1530	Soltesova Zuzana	r.Slaukova	0	1334
+1530	Soltys Alexander	malolety	1	1395,2110
+1530	Soltys Benjamin		1	1017,2045,2223,2475,2850
+1530	Soltys Ferdinand	Bartos	1	1194,2111,2234,2295
+1530	Soltys Ferdinand	malolety	0	1395
+1530	Soltys Frantisek		0	1059,1111,1339
+1530	Soltys Jan	Bartos	1	1194,2111,2234,2295
+1530	Soltys Jan	malolety	0	1395
+1530	Soltys Jan	Paglus	0	1224
+1530	Soltys Jan	u Slosiara,Bartos	0	1194
+1530	Soltys Jan	Vladimir	0	1319
+1530	Soltys Jozef		1	1395,2227,2288
+1530	Soltys Julius		1	1194,1286,2111
+1530	Soltys Martin		1	1017,2045,2223,2475,2850
+1530	Soltys Matej		1	1224,2093
+1530	Soltys Matej	Paglus	1	1395,2110
+1530	Soltys Milan	malolety	0	1395,2615
+1530	Soltys Pavol	malolety	0	1395
+1530	Soltys Peter		0	1281,1282,1283,1284
+1530	Soltys Stefan		1	1017,1059,1111,1124,1130,1395,2065,2116,2288,2838
+1530	Soltys Stefan	malolety	1	1395,2110
+1530	Soltys Vladimir	malolety, R22.2.1921	0	1017
+1530	Soltysova Anna	r.Hulanova	0	1360,2623
+1530	Soltysova Emilia	r.Haluskova	0	1282,1283
+1530	Soltysova Eva	r.Catlosova	0	1109,1319
+1530	Soltysova Maria		1	1017,2045,2223,2288,2475,2850
+1530	Soltysova Maria	maloleta	1	1395,2110
+1530	Soltysova Maria	r.Hulanova	0	1360,2623
+1530	Soltysova Maria	r.Supalova	0	1541
+1530	Soltysova Maria	r.Tekelova	0	1169,1356
+1530	Soltysova Marta	maloleta	1	1395,2110
+1530	Soltysova Rozalia	r.Lisa	0	1291
+1530	Soltysova Zuzana	r.Slaukova	0	1075
+1530	Sopkova Dorota	r.Moravcikova	0	1402
+1530	Spaanova Maria	r.Frniakova	0	1391
+1530	Sramo Daniel, SR		0	1155,2571
+1530	Sramo Matej		0	1079,1255,1305,1306,2592
+1530	Sramova Karolina	r.Chomova	0	1154,1156,1305,1306
+1530	Sramova Maria	r.Jambrichova	0	1274,1309
+1530	Sramova Maria	r.Kondrtova	0	1154,1156,1201
+1530	Sramova Zuzana	maloleta	1	1155,1923,2144,2145,2147,2571
+1530	STANČEKOVÁ Margita, zom. 15.04.1997		0	2397,2398
+1530	Stanislavova Darina	r.Masiarova	0	991,993,996,1127,1128,1203,1243,1244,1405,1417,2467
+1530	STANISLAVOVÁ Darina	rod. Mesiarová	0	1487,2082,2083,2155,2312,2313
+1530	STANOVÁ Margita, zom. 24.03.1998		0	2397,2398
+1530	Stanová Mária, Liptovský Hrádok, SR		0	1517
+1530	Straka Jan		1	1126,1228,1276,2353
+1530	STRANZ Marek		1	2072
+1530	STRAPCOVÁ Zuzana		1	1078,1158,2228,2476
+1530	Strapkova Anna	r.Chomova	0	1102
+1530	Strcula Ondrej r. Strcula	ž.Zuzana r.Vechterová	0	2638,2648,2649
+1530	STRCULOVÁ Ľudmila	rod. Piovaričová	1	1505,1506,1508
+1530	Striskova Anna	maloleta	0	1467
+1530	Striskova Eva	maloleta	0	1467
+1530	Striskova Maria	maloleta	0	1467
+1530	Striskova Rozalia	r.Jurisova	0	1467
+1530	Stropko Michal		0	1513
+1530	Sulek Daniel		0	1110,1146,1318,1355
+1530	Sulek Jan	krajcir	0	1366
+1530	Sulek Ludvik		0	1110
+1530	Sulek Ludvik	malolety	0	1318
+1530	Sulek Mikulas		0	1238,1327,1340
+1530	Sulek Pavol Liptovska Porubka		0	1110
+1530	Sulek Peter	Pavol	0	1015,1105,1166,1265
+1530	Sulekova Maria	r.Kompisova	0	1279,1355
+1530	Sulekova Zelmira	maloleta	0	1536
+1530	Supala Jan		0	1211,1540,1541
+1530	Supala Jan	Krivy	1	1208,2158
+1530	Supala Jan	malolety	0	1211
+1530	Supala Jan	mladsi,Babiak	0	979,1209,1381
+1530	Supala Martin		1	1211,1353,1540,1541,2274,2834
+1530	Supala Martin	Kukurik	1	1109,1541,2116,2838
+1530	Supala Martin	malolety	0	1211
+1530	Supala Peter	malolety	0	1126,1276
+1530	Supalova Anna		1	1058,1062,1205,1328,1345,1346,1416
+1530	Supalova Anna	r.Borosova	0	1192
+1530	Supalova Anna	r.Holeciova	0	1050,1059,1111,1249,1259,1343,1395,1416,2630
+1530	Supalova Barbora	r.Chomova	0	1031
+1530	Supalova Barbora	r.Mackova	0	999
+1530	Supalova Maria	maloleta	1	1050,1062,1209,1381,1412,1541
+1530	Supalova Zelmira		0	1046,1058,1205,1328,1333,1345,1346,1416,1489,2762
+1530	Supalova Zelmira	maloleta	0	1046,2762
+1530	Supalova Zofia		0	1208,1540,1541
+1530	Supalova Zuzana	r.Borosova	0	1174
+1530	Supalova Zuzana	r.Haluskova	0	1307
+1530	Sutvajova Bozena	r.Kovacova	0	1213,1323,1357
+1530	SVRČEK Ján		1	1908
+1530	Szentivanyho	verejny majetok	0	1531
+1530	Szentivanyi Alexander		0	1530,1532
+1530	Szentivanyi Jozef	mladsi	0	1530,1532
+1530	Szentivanyi Karol		0	1530,1532
+1530	Szentivanyi Stefan	mladsi	0	1504
+1530	Szentkeresty Vojtech		0	1020,1144,1223,1295,1337,1457
+1530	Szentkerestyova Zelmira		0	1337
+1530	ŠEBESTOVSKÁ Karolína	rod. Chovanová,Rumunsko	1	2119,2120,2121,2294,2328,2601,2602,2603
+1530	ŠEBO Ján	č.1	0	1935
+1530	ŠEBO Ľudovít		1	2223,2475,2850
+1530	ŠEBOVÁ Jolana	rod. Petreková	0	2322
+1530	ŠEBOVÁ Mária	rod. Šoltýsová č.1	1	2203
+1530	Ševčíková Adela r. Ševčíková	mal	0	2642
+1530	ŠIKULAJOVÁ Oľga	rod. Šimovčeková	0	1987
+1530	Šimovček Ján	mladší	0	1400,1987,2355,2356,2761
+1530	ŠIMOVČEK Ján, zom. 02.05.1931		0	2157
+1530	ŠIMOVČEKOVÁ Zuzana	rod. Kováčová	1	1987,2157,2406
+1530	ŠKROPKOVÁ Anna	rod. Chomová	0	980,1085,1165,1905,2140,2224,2239,2240,2241
+1530	ŠKROPKOVÁ Anna	rod. Chomová č.1	1	2226,2238
+1530	ŠKROPKOVÁ Eva	rod.Lenártová	1	1085,1905
+1530	ŠKUTOVÁ Mária r. Brezniaková, zom. 20.05.1997, SR		0	1996,1997
+1530	ŠLAUKA Dušan, zom. 28.04.1993		0	1172,2190,2192
+1530	ŠLAUKA Ferdinand, zom. 28.04.1990		0	1929,1993,2134,2190,2192
+1530	ŠLAUKA Ján	č.1	0	1978,1993,2134
+1530	ŠLAUKA Ján	č.2	0	1978,1993,2157
+1530	ŠLAUKA Ján	č.4	1	2193,2194,2235,2888
+1530	ŠLAUKA Ján, zom. 21.10.1918		0	1974,1978,1993,2134
+1530	ŠLAUKA Jozef, zom. 22.04.1970		0	1975,1978
+1530	ŠLAUKA Matej	č.1	1	1970,1971,1993,2453
+1530	ŠLAUKA Matej	č.2	0	1974,1975,1978,1993
+1530	ŠLAUKA Matej	č.3	1	2193,2194,2235,2888
+1530	ŠLAUKA Matej	č.4	1	2134
+1530	ŠLAUKA Matej	ženatý s Annou Chovanovou	1	1978
+1530	ŠLAUKA Pavel	č.1	1	1978,1993
+1530	ŠLAUKA Peter	Maduda	1	1925
+1530	ŠLAUKA Samuel, zom. 25.05.1974		0	1836,1837,2152,2154,2161,2179,2210,2654
+1530	ŠLAUKOVÁ Anna	rod. Probierová	1	1968
+1530	ŠLAUKOVÁ Barbora	č.1	1	1975,1978,1993,2134
+1530	ŠLAUKOVÁ Helena	rod. Šlauková	0	1929,1993,2008,2134,2190,2192
+1530	ŠLAUKOVÁ Mária	rod. Halušková	0	1037,1867,2072,2286
+1530	ŠLAUKOVÁ Mária	rod. Halušková č.1	1	1130,1236,1413,2116,2838
+1530	ŠLAUKOVÁ Zuzana	rod. Macková, vdova	1	1970,1971,1993,2453
+1530	ŠLAUKOVÁ Želmíra	rod. Jurišová	0	1927,1929,1978
+1530	ŠLAUOVÁ Mária	maloletá	1	1062,1412
+1530	ŠMIHULOVÁ Mária		1	1993
+1530	ŠOLTÉS Ferdinand		1	2288
+1530	ŠOLTÉS Ferdinand	Bartoš, maloletý	1	2046
+1530	ŠOLTÉS Ján	Bartoš,maloletý	1	2046
+1530	ŠOLTÉS Ján	Mackulin	1	1996,2187
+1530	Šoltés Karol r. Šoltés, zomr.	5.5.1990	0	1996
+1530	ŠOLTÉS Matej	Hulan, mladší	0	1069,2042,2621
+1530	ŠOLTÉS Peter	č.1	1	2227
+1530	Šoltés Štefan, SR		0	1132,2614,2615,2616
+1530	ŠOLTÉSOVÁ Anna	Hulán	1	1264,2166,2620
+1530	Šoltésová Kornélia r. Handelová, vd.		0	1054
+1530	ŠOLTÉSOVÁ Mária	č.1	1	2045,2288
+1530	ŠOLTÉSOVÁ Mária	maloletá, Hulán	1	1264,2166,2620
+1530	ŠOLTÉSOVÁ Mária	rod. Handelová	1	2041,2042,2044
+1530	Šoltésová Mária, SR		0	1132,2614,2615,2616
+1530	ŠOLTÉSOVÁ Zuzana	Šlauko	1	2134
+1530	ŠOLTÉSOVÁ Zuzana	Šlauko č.1	1	1975,1978,1993
+1530	Šoltýs Benjamín, SR		0	1132,2614,2615,2616
+1530	ŠOLTÝS Fero		1	2171,2288
+1530	ŠOLTÝS Ján		1	584,1053,1181,1246,1263,1288,1401,1606,1810,1919,2114,2299,2500,2868
+1530	ŠOLTÝS Ján	Jambrich	1	2093
+1530	Šoltýs Jozef	č.2	1	2299,2500
+1530	ŠOLTÝS Jozef	č.1	1	2110
+1530	ŠOLTÝS Jozef	č.3	1	2166,2204,2247,2620,2628
+1530	Šoltýs Jozef, SR		0	1181,1246,1263
+1530	ŠOLTÝS Karol, zom. 05.05.1990		0	1970,1993,2187,2193,2194,2297,2321,2453
+1530	Šoltýs Martin, SR		0	1132,2614,2615,2616
+1530	ŠOLTÝS Matej	č.1	1	2110
+1530	ŠOLTÝS Matej	Huláň, mladší	1	1264,2043
+1530	Šoltýs Milan r. Šoltýs, Ing.neb.zomr.	13.11.2007	0	1246,2257
+1530	ŠOLTÝS Pavel	maloletý	1	2110
+1530	ŠOLTÝS Peter	Bartoš	0	2234,2295
+1530	ŠOLTÝS Štefan	č.1	1	2223,2288,2475,2850
+1530	ŠOLTÝS Štefan č. 1		1	2045
+1530	Šoltýs Štefan, SR		0	1132,2614,2615,2616
+1530	Šoltýs Vladimír		0	333
+1530	Šoltýs Vladimír	maloletý	0	1132,2614,2615,2616
+1530	ŠOLTÝSOVÁ Barbora	rod. Jambrichová	1	2093
+1530	ŠOLTÝSOVÁ Barbora	rod. Slosiarová	1	1977
+1530	ŠOLTÝSOVÁ Emília	rod. Halušková	0	2072
+1530	ŠOLTÝSOVÁ Eva	maloletá	1	1943,1944
+1530	ŠOLTÝSOVÁ Eva	rod. Čatlochová	1	1867,2286
+1530	ŠOLTÝSOVÁ Eva	rod.Čatlošová	1	1236,1413
+1530	ŠOLTÝSOVÁ Jana	rod. Slosiarová, Bartoš	1	2111
+1530	Šoltýsová Kornélia r. Handelová		0	2306
+1530	ŠOLTÝSOVÁ Mária	rod. Handelová, Matejova	0	1838,2190,2192,2379,2544
+1530	ŠOLTÝSOVÁ Mária	rod. Handelová, Matejova č.1	1	2203
+1530	ŠOLTÝSOVÁ Mária	rod. Šupalová	1	1600,2158
+1530	ŠOLTÝSOVÁ Mária	rod. Tekelová, Samova	0	1062,1412,2136,2161,2264,2654
+1530	Šoltýsová Mária r. Šupalová		0	1540
+1530	Šoltýsová Mária, SR		0	1132,2614,2615,2616
+1530	ŠOLTÝSOVÁ Žofia	rod. Borošová	1	2065,2066,2081,2086,2152,2154,2854
+1530	Šramková Oľga, neb.	zomr.29.8.2003	0	2250
+1530	Šramo Daniel		1	2144,2145,2147
+1530	Šramo Ján, zom. 02.11.1994, SR		0	2046,2149,2295,2351
+1530	Šramo Milan		1	2111
+1530	Šramová Anna r. Bartošová č. 1		1	2111
+1530	Šramová Anna r. Bartošová, vd., SR		0	1151,1160,1194,1206,2858
+1530	Šramová Anna r. Bartošová, zom. 25.03.1929, SR		0	2046,2234,2295,2351
+1530	ŠRAMOVÁ Júlia	rod. Skokanová	0	2107
+1530	ŠRAMOVÁ Karolína	rod. Chomová	1	2146
+1530	ŠRAMOVÁ Mária	rod. Kondrtová,Kováč	0	1924,2146
+1530	ŠULCOVÁ Emília	Jarošove	1	1908
+1530	ŠULEK Daniel	tesár	0	1034,1062,1172,1232,1279,1355,1378,1412,1547,1857,1970,1993,2185,2193,2194,2287,2453,2543,2655
+1530	ŠULEK Gašpar	maloletý	1	1069,1176,1264,1536,1836,1837,2621
+1530	Šulek Ludvik, SR		0	1033
+1530	ŠULEK Mikuláš, zom. 19.12.1991		0	2190,2192
+1530	ŠULEK Peter Pavel, zom. 17.02.1952		0	1993,2132
+1530	ŠULEK Samuel, zom. 19.10.1936		0	1971
+1530	ŠULEKOVÁ Anna	rod. Šlauková	0	1970,1975,1993,2193,2194,2453
+1530	ŠULEKOVÁ Anna	rod. Šlauková č.1	1	2235,2888
+1530	ŠULEKOVÁ Emília	rod. Gereková, vdova	0	2291,2329
+1530	ŠULEKOVÁ Emília	rod. Halušková, Macko	0	1996,2187
+1530	ŠULEKOVÁ Emília r. Halušková, Macko, zom. 16.01.1949, SR		0	1998
+1530	Šuleková Margita	maloletá	1	1033,1034,1110,1172,1232,1318,1378,1838,2544
+1530	ŠULEKOVÁ Mária	rod. Búdová	0	1971
+1530	ŠULEKOVÁ Mária	rod. Kompišová	1	1062,1069,1412,1547,1548,2162,2621,2655
+1530	ŠUPALA Alexander		1	1062,1209,1381
+1530	ŠUPALA Ján	Babiak,mladší	1	1062,1085,1412,1905
+1530	ŠUPALA Ján	č.1	1	1352,1947,1949,2159
+1530	ŠUPALA Ján	č.2	1	2118
+1530	ŠUPALA Ján	č.3	1	2228,2476
+1530	ŠUPALA Ján	Krajčír	1	1062,1280,1412
+1530	ŠUPALA Ján	Kukurik	1	1062,1352,1412,1541,1947,1949,2159
+1530	Šupala Ján r. Šupala, neb.zomr.	24.3.1974	0	1050,2630
+1530	ŠUPALA Ján, zom. 24.03.1974		0	935,1062,1078,1158,1600
+1530	ŠUPALA Martin	č.1	1	2118
+1530	ŠUPALA Martin	č.2	1	2116,2838
+1530	ŠUPALA Martin	č.3	1	1062,1352,1947,1949,2159
+1530	ŠUPALA Martin	Kukurik č.1	1	1947,1949,2159
+1530	ŠUPALA Matej, zom. 15.02.1905		1	2159
+1530	ŠUPALA Matwj		1	1062,1412
+1530	ŠUPALA Michal		1	1062,1208,1412
+1530	ŠUPALA Peter		1	1062,1208,2158,2265
+1530	ŠUPALA Peter	č.1	1	1228,1930,1932,2353
+1530	ŠUPALA Samuel		1	1062,1412
+1530	ŠUPALA Samuel	Babiak	1	1062,1412
+1530	ŠUPALOVÁ Anna	Gabaj	1	1932
+1530	ŠUPALOVÁ Anna	maloletá	1	1062,1209,1333,1381
+1530	ŠUPALOVÁ Anna	rod. Holéciová	0	2288
+1530	ŠUPALOVÁ Anna	rod.Standerová	1	1062
+1530	ŠUPALOVÁ Anna	Sajták	1	1062
+1530	ŠUPALOVÁ Anna r. Holéciová, zom. 03.06.1986, SR		0	825
+1530	ŠUPALOVÁ Barbora	rod. Macková, Krajči, Janova	0	2326
+1530	ŠUPALOVÁ Barbora	Stander	1	1062,1412
+1530	ŠUPALOVÁ Božena	slabomyseľná	1	1062,1208,1412,1579,1580,1581,1582,2158
+1530	ŠUPALOVÁ Emília		1	1062,1208,1412
+1530	ŠUPALOVÁ Judita	rod.Halušková	1	1037
+1530	ŠUPALOVÁ Mária	rod. Lenartová	0	2363
+1530	ŠUPALOVÁ Oľga	rod. Šlauková	0	1975
+1530	ŠUPALOVÁ Zuzana	rod. Lenártová	0	2363
+1530	ŠUPALOVÁ Zuzana	rod.Jambrichová,Sajták	1	1062
+1530	ŠUPALOVÁ Zuzana	Štander	1	1062
+1530	ŠUPALOVÁ Žofia	maloletá	1	1062,1412,1541,2158,2267
+1530	ŠUTVAJOVÁ Božena	rod. Kováčová	1	2042,2043,2204,2247,2628
+1530	ŠUTVAJOVÁ Želmíra	rod.Kováčová	1	870
+1530	Švanda Ján r. Švanda	ž.Mária r.Hellebrandtová	0	2650
+1530	Tekel Adam		0	1001,1002,1019,1102,1149,1169,1269,1312,1329,1372,1454,1494,2570
+1530	Tekel Adam	malolety	0	1168,1220,2509
+1530	Tekel Adam	mladsi	0	1220
+1530	TEKEL Adam	č.1	1	2113,2238,2529
+1530	TEKEL Adam, zom. 31.05.1966		0	2140
+1530	Tekel Alexander		0	1237,1241,1348,2794
+1530	Tekel Ferdinand		1	1149,1169,1372,2113,2529
+1530	Tekel Ferdinand	malolety	0	1220,1312,1329,1493

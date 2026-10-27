@@ -1,0 +1,256 @@
+3382	Garaj Jozef		1	1672
+3382	Garaj Martin, SR		1	1132,1993
+3382	Garaj Martin, SR	2	1	1507
+3382	Garaj Martin, SR	LSR	0	1133
+3382	Garaj Pavol	1	1	1479
+3382	Garaj Pavol, SR		1	1028
+3382	Garaj Pavol, SR	2	1	1511,1767
+3382	Garaj Pavol, SR	4	1	351,529,1875,1935,1937,2062
+3382	Garaj Štefan, SR		1	1507
+3382	Garajová Verona r. Andrušová, SR	muž Jozef, LSR	0	1149
+3382	Goda Pavol, SR	žena Mária r. Bojová	1	512,1861,1936
+3382	Godová Mária r. Bojová, SR	muž Pavol	1	512,1861,1936
+3382	Horlíková Rozália r. Erlacherová, SR	LSR	0	1308
+3382	Hriech Samuel, SR	Dezopusta	1	1495
+3382	Hriechová Anna r. Vereskiová, SR		1	1495
+3382	Hromada Ján, SR	vojak	1	351,529,1875,1935,1937,2062
+3382	Hromada Juraj, SR		1	1477
+3382	Hromada Juraj, SR	1	1	1501
+3382	Hromada Juraj, SR	LSR	0	1631
+3382	Hromada Pavel		1	36
+3382	Hromada Pavol, SR	1	1	8
+3382	Hromada Pavol, SR	2	1	1499
+3382	Hromada Štefan, SR	1	1	1026
+3382	Hromadová Anna		1	36
+3382	Hromadová Anna r. Cesnaková, SR	muž Juraj	1	1089,1953,1972
+3382	Hromadová Anna r. Cesnaková, SR	muž Juraj, LSR	0	1090
+3382	Hromadová Anna r. Šramková, SR		1	1030,1487
+3382	Hromadová Anna r. Vereská, SR		1	345,379,422,1083,1118,1141,1200,1458,1520,1665,1955
+3382	Hromadová Anna r. Vereská, SR	LSR	0	696,1084,1119,1142,1521
+3382	Hromadová Anna, SR		1	8,568
+3382	Hromadová Mária		1	36
+3382	Hromadová Mária, SR	1	1	1499
+3382	Hromadová Mária, SR	2	1	8
+3382	Hromadová Zuzana r. Červenáková, SR		1	351,529,1364,1875,1934,1935,1937,2062
+3382	Hromadová Zuzana r. Červenáková, SR	LSR	0	1351
+3382	Hrubčová Mária r. Vereská, SR		1	345,419,422,1118,1314,1458,1665
+3382	Hrubčová Mária r. Vereská, SR	LSR	0	392,696,1119,1315,1521
+3382	Chmelovská Zuzana, SR	mladšia	1	631
+3382	Ivanič Štefan, SR		1	1650,1672
+3382	Jakabová Anna, SR		1	1327
+3382	Jakabová Anna, SR	LSR	0	1310
+3382	Jakabová Mária, SR	1	1	1327
+3382	Jakabová Mária, SR	1, LSR	0	1310
+3382	Jambrichová Mária r. Rozkošová, SR	muž Juraj	1	1186
+3382	Jambrichová Mária r. Rozkošová, SR	muž Juraj, LSR	0	1187
+3382	Jánošík Martin, SR		1	545
+3382	Jánošík Martin, SR	1	1	1481
+3382	Jánošíková Mária r. Benediková, SR	muž Martin	1	1502
+3382	Jednota, 984 01, Lučenec, SR		1	1019
+3382	Jeleňová Anna r. Erlacherová, SR	LSR	0	1308
+3382	Jonáš Ján, SR		1	1279
+3382	Jonáš Ján, SR	LSR	0	1280
+3382	Juhász Štefan, SR		1	1257
+3382	Juhász Štefan, SR	LSR	0	1258
+3382	Juhász Štefan, SR	syn Jozefa	1	1430
+3382	Kaderiaková Mária r. Mahusová, SR		1	1019
+3382	Kajtorová Zuzana r. Vargová, SR		1	390,1789
+3382	Kaličiaková Mária r. Olšiaková, SR		1	1613,1626
+3382	Kaličiaková Mária r. Olšiaková, SR	LSR	0	1600
+3382	Keťko Ján, SR	žena Anna Keťková	1	512,1861,1936
+3382	Keťko Pavel		1	351,491,492,529,1875,1935,1937,2062
+3382	Keťko Štefan, SR		1	351,491,492,529,1875,1935,1937,2062
+3382	Keťková Anna, SR		1	512,1861,1936
+3382	Kirchmajer Ladislav, SR	žena Gizela r. Turocyová	1	1287
+3382	Kirchmajer Ladislav, SR	žena Gizela r. Turocyová, LSR	0	1288
+3382	Kirchmajerová Gizela r. Turocyová, SR	muž Ladislav	1	1287
+3382	Kirchmajerová Gizela r. Turocyová, SR	muž Ladislav, LSR	0	1288
+3382	Kišová Mária r. Šuthová, SR		1	1500
+3382	Klein Samuel, SR		1	351,529,1004,1352,1875,1935,1937,2062
+3382	Klein Samuel, SR	LSR	0	1373
+3382	Klein Samuel, SR	žena Malvína r. Hekschová	1	351,529,1372,1875,1935,1937,2062
+3382	Klein Samuel, SR	žena Malvína r. Hekschová, LSR	0	1349
+3382	Kleinová Malvína r. Hekschová, SR	muž Samuel	1	351,529,1372,1875,1935,1937,2062
+3382	Kleinová Malvína r. Hekschová, SR	muž Samuel, LSR	0	1349
+3382	Kmeťková Zuzana r. Majorošová, SR		1	1332
+3382	Kmeťková Zuzana r. Majorošová, SR	LSR	0	1307
+3382	Kočíková Anna, SR		1	1190,1234
+3382	Kočíková Anna, SR	LSR	0	1191
+3382	Kočíková Anna, SR	mladšia	1	1014
+3382	Kočíková Mária, SR	mladšia	1	1014
+3382	Kohn David, SR	žena Antónia Kohnová	1	1127
+3382	Kohn David, SR	žena Antónia Kohnová, LSR	0	1128
+3382	Kohnová Antónia, SR	muž David	1	1127
+3382	Kohnová Antónia, SR	muž David, LSR	0	1128
+3382	Kolesár Ján, SR		1	1293
+3382	Kolesár Ján, SR	LSR	0	1294
+3382	Kolesár Pavol, SR		1	1293
+3382	Kolesár Pavol, SR	LSR	0	1294
+3382	Kollárová Anna r. Licherová, SR	predtým Cesnaková	1	1328,1388
+3382	Kollárová Anna r. Licherová, SR	predtým Cesnaková, LSR	0	1304
+3382	Komár Pavel, SR		1	1532
+3382	Kosacki Arnold, SR	mladší	1	1443
+3382	Kosacki Emil, SR	mladší	1	1443
+3382	Kosacki Oskar, SR	mladší	1	1443
+3382	Košík Jozef, SR	Záhorce č. 30	1	1129
+3382	Košík Jozef, SR	Záhorce č. 30, LSR	0	1130
+3382	Kotík Ján, SR		1	1221
+3382	Kotík Ján, SR	LSR	0	1225
+3382	Kováč František, SR		1	351,529,1875,1935,1937,2062
+3382	Kováč Ján, SR	žena Mária r. Ďurčanová	1	1285
+3382	Kováč Ján, SR	žena Mária r. Ďurčanová, LSR	0	1286
+3382	Kováčová Anna r. Slezáková, SR	muž Ján	1	1277
+3382	Kováčová Anna r. Slezáková, SR	muž Ján, LSR	0	1278
+3382	Kováčová Mária r. Ďurčanová, SR	muž Ján	1	1285
+3382	Kováčová Mária r. Ďurčanová, SR	muž Ján, LSR	0	1286
+3382	Kováčová Mária r. Vargová, SR		1	1018
+3382	Kozmová Vilma r. Ďurkovičová, SR		1	1434
+3382	Kukáčová Mária r. Byčianska, SR		1	1419
+3382	Kullová Ilona, SR		1	1265,1267
+3382	Kullová Ilona, SR	LSR	0	1266,1268
+3382	Kullová Margita, SR		1	1265
+3382	Kullová Margita, SR	LSR	0	1266
+3382	Lajtošová Alžbeta r. Badová, SR	muž Štefan	1	1437
+3382	Lančíková Zuzana r. Šimková, SR	muž Jozef	1	1158
+3382	Levay Zoltán, SR	mladší	1	1297
+3382	Levay Zoltán, SR	mladší, LSR	0	1298
+3382	Lisková Zuzana r. Flašková, SR		1	628,629
+3382	Líška Štefan, SR	žena Anna r. Balgová	1	1125
+3382	Líška Štefan, SR	žena Anna r. Balgová, LSR	0	1126
+3382	Litavský Michal, SR		1	1402
+3382	Macka Ján, SR		1	351,529,1875,1935,1937,2062
+3382	Macka Ján, SR	maloletý, Selešťany	1	1454
+3382	Macka Ján, SR	maloletý, Selešťany 131, LSR	0	1482
+3382	Macka Ján, SR	mladší, Záhorce 11	1	1347
+3382	Macka Ján, SR	mladší, Záhorce 11, LSR	0	1380
+3382	Macka Martin, SR		1	693
+3382	Macka Martin, SR	mladší	1	1347
+3382	Macka Martin, SR	mladší, LSR	0	1380
+3382	Macka Pavol, SR	maloletý, Selešťany 131	1	1454,1482
+3382	Macka Pavol, SR	mladší	1	351,529,1875,1935,1937,2062
+3382	Macka Pavol, SR	mladší, Záhorce 131	1	1347
+3382	Macka Pavol, SR	mladší, Záhorce 131, LSR	0	1380
+3382	Macka Pavol, SR	žena Mária r. Mihaličková	1	351,529,1875,1935,1937,2062
+3382	Macková Anna r. Šuthová, SR	muž Ondrej	1	1511,1767
+3382	Macková Katarína r. Flašková, SR	muž Juraj	1	693
+3382	Majoroš Ján, SR	č. d. 549/1933	1	351,529,1875,1935,1937,2062
+3382	Majoroš Ján, SR	mladší	1	1506,1758
+3382	Majoroš Ján, SR	žena Zuzana r. Matúšová	1	512,1218,1861,1936
+3382	Majoroš Ján, SR	žena Zuzana r. Matúšová, LSR	0	1224
+3382	Majoroš Pavel, SR		1	1588
+3382	Majorošová Mária, SR	mladšia	1	1506,1758
+3382	Majorošová Zuzana r. Matúšová, SR	muž Ján	1	512,1218,1861,1936
+3382	Majorošová Zuzana r. Matúšová, SR	muž Ján, LSR	0	1224
+3382	Markovič Odon, SR		1	1329
+3382	Marton Ján, SR	žena Margita r. Danociová	1	1437
+3382	Marton Ján, SR	žena Rozália r. Martonová	1	1437
+3382	Mäsiar Martin, SR		1	370
+3382	Mäsiar Martin, SR	1	1	609
+3382	Mäsiar Ondrej, SR	žena Zuzana r. Cellengová	1	1141
+3382	Mäsiar Ondrej, SR	žena Zuzana r. Cellengová, LSR	0	1142
+3382	Mäsiar Pavel, SR	žena Zuzana r. Babelová	1	1667,1668
+3382	Mäsiar Pavol, SR		1	1320,1457
+3382	Mäsiar Pavol, SR	LSR	0	1321
+3382	Mäsiarová Anna r. Babková, SR	vdova	1	1457
+3382	Mäsiarová Anna, SR		1	512,1861,1936
+3382	Mäsiarová Mária r. Mäsiarová, SR	muž Juraj	1	1457
+3382	Mäsiarová Mária, SR	2	1	348
+3382	Mäsiarová Mária, SR	maloletá	1	1457
+3382	Mäsiarová Mária, SR	mladšia	1	1320
+3382	Mäsiarová Mária, SR	mladšia, LSR	0	1321
+3382	Mäsiarová Zuzana r. Cellengová, SR	muž Ondrej	1	568
+3382	Mäsiarová Zuzana, SR		1	932,933
+3382	Mäsiarová Zuzana, SR	LSR	0	1100
+3382	Medveďová Zuzana r. Plevová	Maďarsko	1	964
+3382	Medveďová Zuzana r. Plevová	Maďarsko, LSR	0	965
+3382	Móc Štefan, SR	2	1	1451
+3382	Móc Štefan, SR	žena Mária r. Antalíková	1	1517
+3382	Móc Štefan, SR	žena Mária r. Antalíková, LSR	0	1515
+3382	Mocnajová Emília r. Kolesárová, SR	LSR	0	1309
+3382	Mócová Anna	maloletá,; maloletá	1	1416
+3382	Mócová Mária	mladšia,; mladšia	1	1416
+3382	Mócová Mária r. Antalíková, SR	muž Štefan	1	1517
+3382	Mócová Mária r. Antalíková, SR	muž Štefan, LSR	0	1515
+3382	Molnárová Anna r. Filipová, SR	muž Ján	1	1483
+3382	Molnárová Anna r. Filipová, SR	muž Ján, LSR	0	1484
+3382	Nagy Jozef, SR	žena Božena r. Nemčoková	1	1337
+3382	Nagy Jozef, SR	žena Verona r. Nemčoková	1	1031
+3382	Nagy Juraj, SR	žena r. Balogová	1	1289
+3382	Nagyová Rozália r. Balogová, SR		1	1289
+3382	Nagyová Verona r. Nemčoková, SR	muž Jozef	1	1337
+3382	Omasta Tobiáš, SR	žena Zuzana r. Vitálišová	1	1325
+3382	Omasta Tobiáš, SR	žena Zuzana r. Vitálišová, LSR	0	1326
+3382	Omastová Zuzana r. Vitálišová, SR	muž Tobiáš	1	1325
+3382	Omastová Zuzana r. Vitálišová, SR	muž Tobiáš, LSR	0	1326
+3382	Ondrušová Anna r. Filipová, SR		1	1169,1954
+3382	Oravec Štefan, SR		1	351,529,1345,1875,1935,1937,2062
+3382	Oravec Štefan, SR	LSR	0	1376
+3382	Oros Juraj, SR		1	1672
+3382	Osztrovicz Juraj, SR		1	1428
+3382	Osztrovicz Ondrej, SR		1	1436
+3382	Osztrovicz Ondrej, SR	mladší	1	1436
+3382	Osztrovicz Pavol, SR		1	1436
+3382	Pastorok Ján, SR	žena Rozália r. Baciová	1	1281
+3382	Pastorok Ján, SR	žena Rozália r. Baciová, LSR	0	1282
+3382	Pastoroková Rozália r. Baciová, SR	muž Ján	1	1281
+3382	Pastoroková Rozália r. Baciová, SR	muž Ján, LSR	0	1282
+3382	Pavlusová Anna r. Piatriková, SR		1	1323
+3382	Pavlusová Anna r. Piatriková, SR	LSR	0	519,1324
+3382	Piatrik Ján, SR	LSR	0	1305
+3382	Piatrik Ján, SR	mladší	1	1329
+3382	Piatrik Michal, SR	mladší	1	1329
+3382	Piatrik Pavol, SR	mladší	1	1329
+3382	Piatriková Mária r. Lomeňová, SR		1	1329
+3382	Piatriková Mária r. Šramková, SR		1	921
+3382	Piatriková Mária r. Šramková, SR	muž Ján	1	1487
+3382	Piatriková Mária r. Šramková, SR	muž Ján, LSR	0	1305
+3382	Plachy Ján, SR	LSR	0	1311
+3382	Pohanka Ján, SR		1	1465
+3382	Pohanka Ján, SR	žena Anna r. Flašková	1	345,1458
+3382	Pohanka Juraj, SR		1	1325
+3382	Pohanka Juraj, SR	LSR	0	1326
+3382	Pohanka Pavel, SR	Nový sad 47, Buzitka	1	379,391,468,469,581,582,583,964,1083,1085,1118,1139,1141,1163,1200,1236,1756,1931,1957
+3382	Pohanka Pavel, SR	Nový sad 47, Buzitka, LSR	0	965,1084,1086,1112,1117,1119,1140,1142
+3382	Pohanka Pavel, SR	Záhorce č. 6, LSR	0	1521
+3382	Pohanka Pavol, SR	LSR	0	696
+3382	Pohanka Pavol, SR	žena Zuzana r. Hláčoková	1	345,1163,1458,1503,1756,1957
+3382	Pohanková Anna r. Kočíková, SR	muž Ján	1	1192,1234
+3382	Pohanková Anna r. Kočíková, SR	muž Ján, LSR	0	1193
+3382	Pohanková Anna, SR		1	440
+3382	Príbeli Ján	1	1	1917
+3382	Príbeli Ján, SR	1	1	562,1448,1472,1660,1776,1790,1887,1916
+3382	Príbeli Michal	1	1	879
+3382	Príbeli Michal	3	1	1416
+3382	Príbeli Michal, SR	1	1	1405,2041
+3382	Príbeli Michal, SR	1, LSR	0	1406
+3382	Príbeli Michal, SR	mladší	1	448,1844,1864,2037,2039
+3382	Príbeli Michal, SR	mladší, LSR	0	447
+3382	Príbeli Michal, SR	žena Mária r. Baliková	1	388,390,1393,1446,1639,1692,1786,1789
+3382	Príbeli Michal, SR	žena Mária r. Frečková	1	448,1405,1844,1864,2037,2039,2041
+3382	Príbeli Michal, SR	žena Mária r. Frečková, LSR	0	447,1302,1406
+3382	Príbeliová Mária r. Frečková, SR	muž Michal	1	448,536,1400,1405,1489,1661,1844,1864,2023,2037,2039,2041,2045
+3382	Príbeliová Mária r. Frečková, SR	muž Michal, LSR	0	447,1302,1406
+3382	Rothová Helena r. Domanová, SR	Johana	1	859,1967
+3382	Rothová Helena r. Domanová, SR	Johana, LSR	0	1075
+3382	Rotrik Samuel, SR		1	351,529,1875,1935,1937,2062
+3382	Rozkoš Ján, SR		1	1186
+3382	Rozkoš Ján, SR	LSR	0	1187
+3382	Rugová Mária r. Takáčová, SR	muž Ján	1	1455
+3382	Sabo Juraj, SR		1	1331
+3382	Sabo Pavol, SR	mladší	1	351,529,1344,1875,1935,1937,2062
+3382	Sabová Anna r. Töröková, SR		1	448,1844,1864,2037,2039
+3382	Sabová Anna r. Töröková, SR	LSR	0	447
+3382	Sámelová Alžbeta r. Rozkošová, SR	muž Ján	1	1186
+3382	Sámelová Alžbeta r. Rozkošová, SR	muž Ján, LSR	0	1187
+3382	Sámelová Mária r. Vargová, SR	muž Jozef	1	1448
+3382	Semeníková Anna r. Gergelyová, SR	muž Pavol	1	523
+3382	Sendrová Ilona r. Schwarcová, SR	muž František, LSR	0	1301
+3382	Schindlerová Paula r. Folkusharyová, SR		1	1418
+3382	Schwarz Ignác, SR		1	1006
+3382	Skarvanová Emília, SR		1	1504
+3382	Stiebel Pavol, SR		1	687
+3382	Strhár Ján, SR	maloletý	1	378,1141
+3382	Strhár Ján, SR	maloletý, LSR	0	1142
+3382	Strhár Juraj		1	1557
+3382	Strhár Juraj	m. Helena r. Víziová, LSR	0	1603
+3382	Strhár Juraj, SR		1	1163,1756,1957

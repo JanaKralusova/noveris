@@ -1,0 +1,256 @@
+3179	Meszaros Jan		0	1236
+3179	Meszaros Julius		0	1298
+3179	Meszaros Ludovit		0	1235
+3179	Meszaros Michal		0	896
+3179	Meszarosova Estera r. NAGYOVA		0	1105,1328
+3179	Meszarosova Estera r. PASZTOROVA		0	815,1029
+3179	Meszarosova Lidia		0	1027
+3179	Meszarosova Lidia r. KAJTAROVA		0	1254
+3179	Meszarosova Zofia r. VARADIOVA		0	869
+3179	Mikulasova Estera r. PASZTOROVA		0	1223
+3179	Mikus Jonas		0	1053
+3179	Mikuš Ján		1	1018
+3179	Molnarova Gizela r. SERFOZOOVA		0	1293
+3179	Nadasdi Jan		0	1266
+3179	Nadasdi Ondrej		0	1178
+3179	Nadasdiova Sara		0	1234
+3179	Nadasdiova Zofia r. OROSZIOVA		0	828,1231,1297,1315
+3179	Nagy Frantisek		0	947
+3179	Nagy Jan		0	813,1126,1323
+3179	Nagyova Alzbeta		0	813,1323
+3179	Nagyova Zofia r. KAJTAROVA		0	1129
+3179	Pappova Estera r. KAJTAROVA		0	880
+3179	Pasztor Dezider		0	1222
+3179	Pasztor Gabriel		0	973
+3179	Pasztor Ludovit		0	813
+3179	Pasztor Vojtech		1	1139,1274
+3179	Pasztorova Alzbeta r. TOTHOVA		0	817,1167
+3179	Pasztorova Estera		0	815
+3179	Paulikova Alzbeta r. GOBODYOVA		0	813,998
+3179	Psota Ladislav		0	412
+3179	Psotová Mária		0	412
+3179	Psotová Mária r. Szúnyogová		0	412
+3179	Ridl Michal		1	1256
+3179	Rozsaova Estera r. DUBAOVA		0	1055
+3179	Sallaiova Alzbeta r. PASZTOROVA		0	1315
+3179	Serfőző Ľudovít		1	890
+3179	Serfőzőová Mária r. Balcíková		1	1100
+3179	Siko Michal		0	875
+3179	Sikova Maria r. KOLAROVCOVA		0	1086
+3179	Sipos Ondrej		0	1186
+3179	Somogyi Jan		0	1022
+3179	Somogyi Ludovit		0	1205
+3179	Somogyi Stefan		0	825,1336
+3179	Somogyiova Estera		0	825,1336
+3179	Somogyiova Julianna		0	825,1336
+3179	Somogyiova Zofia		0	825,1336
+3179	Somogyiova Zofia r. BANAIOVA		0	832,1009
+3179	Sulekova Irma r. BAKAOVA		0	1204
+3179	Szakál Michal		1	1110
+3179	Szakálová Júlia r. Regačová		1	1279
+3179	Šuchaňová Jolana r. MUŽIKOVA		0	913
+3179	Taligova Etela r. MESZAROSOVA		0	1006,1328
+3179	Tamas Stefan		0	835
+3179	Tatosova Alzbeta		0	1246
+3179	Tátošová Estera r. Kišová		1	1273
+3179	Toth Ludovit		1	1073,1138
+3179	Tothova Helena r. VARGOVA		0	854
+3179	Tóthová Mária r. Dudásová		1	837,852,1327
+3179	Tothová Rozália r. Vanková		1	1079
+3179	Vajančeková Alžbeta		0	435
+3179	Valach Jozef		0	831,871
+3179	Vankova Irma		0	1226
+3179	Varadiova Maria r. BURDOVICSOVA		0	934
+3179	Várady Ondrej		1	908
+3179	Vojacsek Ludovit		0	837,951
+3179	Vojacsekova Alzbeta		0	1094
+3179	Vojacsekova Helena		0	978
+3179	Wilheim Ernest		0	1171
+3179	Zibrínová Rozália		0	1310
+3179	Zolyomi Jan		0	1217
+3179	Zolyomiova Estera r. OROSZIOVA		0	1215,1313,1315
+3179	Zubakova Alžbeta r. OROSZIOVA		0	1200,1313,1315
+3180	ACHBERGEROVÁ Paulína r. Žilinská, SK		0	4114
+3180	AKSAMIT František, SK		0	2037
+3180	AKSAMIT Lukáš, SK		0	2037
+3180	AKSAMITOVÁ Anna r. Noskovičová, SK		0	2037
+3180	ANDRÁSSY Nečitateľné, SK		0	4114
+3180	ANDRASSYOVÁ Mária, SK		0	4143
+3180	ANDRIAŠOVÁ Alžbeta r. Podhorská, SK		0	4371
+3180	AUGUSTINIČ August, SK		0	4224
+3180	AUGUSTINIČ Ján, SK		0	4100
+3180	AUGUSTINIČ Jozef, SK		0	4114,4693
+3180	AUGUSTINIČ Pavel, SK		0	1645
+3180	AUGUSTINIČ Peter, SK		0	4100,4114
+3180	AUGUSTINIČ Štefan, SK		0	1861
+3180	AUGUSTINIČOVÁ Agnesa r. Nemcová, SK		0	1645
+3180	AUGUSTINIČOVÁ Anna r. Voleková, SK		0	4224
+3180	AUGUSTINIČOVÁ Anna r. Zmajkovičová, SK		0	3457,3565,4130
+3180	AUGUSTINIČOVÁ Gabriela, SK		0	4100,4114
+3180	AUGUSTINIČOVÁ Júlia r. Figurová, SK		0	4100
+3180	AUGUSTINIČOVÁ Terézia, SK		0	3440
+3180	AUGUSTINIČOVÁ Veronika r. Kukumbergová, SK		0	2342,4100,4114
+3180	AUGUSTINIČOVÁ Veronika, SK		0	3113
+3180	AUGUSTOVIČ František, SK		0	3144
+3180	AUGUSTOVIČ Imrich, SK		0	3144
+3180	AUGUSTOVIČ Jozef, SK		0	4187
+3180	AUGUSTOVIČOVÁ Anna r. Baričičová, SK		0	2037
+3180	AUGUSTOVIČOVÁ Hedviga r. Dugovičová, SK		0	1805,2009
+3180	AUGUSTOVIČOVÁ Hedviga, SK		0	4187
+3180	AUGUSTOVIČOVÁ Katarína r. Dugovičová, SK		0	3144
+3180	AUGUSTOVIČOVÁ Mária, SK		0	2037
+3180	AUGUSTOVIČOVÁ Rozália r. Fitzová, SK		0	4114
+3180	AUGUSZTINICS Peter, SK		0	4114
+3180	AXAMIT Michal, SK		0	2037
+3180	Bacigál František r. Bacigál, Šenkvice, PSČ 90081, SK		0	2161,2162
+3180	BACIGÁL Jozef, SK		0	3144
+3180	BACIGÁL Michal, SK		0	4355
+3180	Bacigál Vít r. Bacigál, Modra, PSČ 90001, SK		0	2161,2162
+3180	BACIGÁLOVÁ Kristína, SK		0	2161,2162
+3180	BACIGÁLOVÁ Magdaléna, SK		0	3144
+3180	BACIGÁLOVÁ Valéria r. Nováková, SK		0	2161,2162
+3180	BACIGÁLOVÁ Valéria, SK		0	4206
+3180	BAGIOVÁ Ľudmila r. Fričová, SK		0	2037
+3180	BACHRATÁ Emília r. Kováčocyová, SK		0	2525
+3180	BACHRATÁ Helena r. Kovačočiová, SK		0	4291
+3180	BACHRATÁ Mária r. Krajčovičová, SK		0	3144
+3180	BACHRATÝ Vincent, SK		0	4291,4325
+3180	BAKSZOVÁ Agnesa, SK		0	2894
+3180	BALÁŽOVÁ Klára r. Bilská, SK		0	3417,3418,4256
+3180	BANIČOVÁ Františka r. Nemčovičová, SK		0	3440
+3180	BANIŠ Ferdinand, SK		0	3440
+3180	BANIŠ Jozef, SK		0	3440
+3180	BANIŠ Michal, SK		0	3440
+3180	BANIŠ Rudolf, SK		0	3440
+3180	BANIŠ Tibor, SK		0	3440
+3180	BANIŠ Viliam, SK		0	3440
+3180	BÁNOVSKÁ Mária r. Sekáčová, SK		0	1921,4114
+3180	BARIČIČ Bohuš, SK		0	2037
+3180	BARIČIČ František, SK		0	2037,2492,4114
+3180	BARIČIČ Ignác, SK		0	2037
+3180	BARIČIČ Ján, SK		0	2037
+3180	BARIČIČ Matúš, SK		0	4100,4114
+3180	BARIČIČ Pavol, SK		0	2037
+3180	BARIČIČ Peter, SK		0	2037,4485
+3180	BARIČIČ Rafael, SK		0	4520
+3180	BARIČIČ Servác, SK		0	2037
+3180	BARIČIČ Štefan, SK		0	2037
+3180	BARIČIČ Vavrinec, SK		0	2037
+3180	BARIČIČOVÁ Agnesa r. Zápražná, SK		0	2037
+3180	BARIČIČOVÁ Alžbeta, SK		0	2037
+3180	BARIČIČOVÁ Anna r. Stankovičová, SK		0	2894,4485
+3180	BARIČIČOVÁ Emília, SK		0	2037
+3180	BARIČIČOVÁ Johana, SK		0	2037
+3180	BARIČIČOVÁ Júlia r. Vlníková, SK		0	4114
+3180	BARIČIČOVÁ Juliana, SK		0	3053
+3180	BARIČIČOVÁ Karolína, SK		0	2037
+3180	BARIČIČOVÁ Katarína, SK		0	2037
+3180	BARIČIČOVÁ Mária r. Brunovská, SK		0	4100,4114
+3180	BARIČIČOVÁ Terézia, SK		0	2037
+3180	BARIČIČOVÁ Veronika r. Jajcayová, SK		0	2037
+3180	BARTOŠOVÁ Jozefína r. Jajcajová, SK		0	2037
+3180	BARTOVIČOVÁ Pavlína r. Sabová, SK		0	3144
+3180	BEDERKOVÁ Etela r. Lančaričová, SK		0	2398
+3180	BEDNÁR Štefan r. Bednár, SK		0	2037
+3180	BELKO Emil, SK		0	4412,4413
+3180	BELKO Ján, SK		0	2872
+3180	BELKO Jozef, SK		0	3066
+3180	BELKOVÁ Monika r. Štellárová, SK		0	3144
+3180	BELKOVÁ Štefánia r. Dechtická, SK		0	4412,4413
+3180	BENČIČOVÁ Mária r. Číková, SK		0	2037
+3180	BENKOVSKÁ Anna r. Glasová, SK		0	3144
+3180	BENKOVSKÁ Františka, SK		0	3144
+3180	BENKOVSKÁ Kristína r. Stojanová, SK		0	3144
+3180	BENKOVSKÁ Mária r. Parajková, SK		0	3144
+3180	BENKOVSKÝ František, SK		0	3144
+3180	BENKOVSKÝ Jozef, SK		0	3144
+3180	BERNÁTOVÁ Alojzia r. Herzfeldová, SK		0	4113
+3180	BILSKÁ Gizela, SK		0	4114
+3180	BILSKÁ Jozefína, SK		0	4114
+3180	BILSKÁ Julia r. Mocková, SK		0	4136
+3180	BILSKÁ Juliana, SK		0	4134
+3180	BILSKÁ Mária r. Figurová, SK		0	4135
+3180	BILSKÁ Mária, SK		0	4114
+3180	BILSKÁ Sidónia, SK		0	4121
+3180	BILSKÁ Terézia r. Mesarošová, SK		0	4114
+3180	BILSKÁ Vilma, SK		0	3417,3418,4256
+3180	BILSKÝ Fridrich, SK		0	4114
+3180	BILSKÝ Jozef, SK		0	4114,4135
+3180	BILSKÝ Július, SK		0	4114
+3180	BITTNER František, SK		0	1825,4572
+3180	BITTNER Fridrich, SK		0	4423
+3180	BITTNER Jozef, SK		0	4457
+3180	BITTNER Rudolf, SK		0	1779,1781
+3180	BITTNER Šimon, SK		0	4436
+3180	BITTNEROVÁ Františka r. Rovenská, SK		0	4436
+3180	BITTNEROVÁ Gizela, SK		0	1825,4572
+3180	BITTNEROVÁ Johana, SK		0	2724
+3180	BITTNEROVÁ Magda, SK		0	152
+3180	BITTNEROVÁ Mária r. Belková, SK		0	4225
+3180	BITTNEROVÁ Terézia r. Nemcová, SK		0	4423
+3180	BIZNÁR František, SK		0	2037
+3180	BIZNÁROVÁ Alžbeta r. Pätoprstá, SK		0	2037
+3180	BIZNÁROVÁ Kristína r. Glausová, SK		0	2037
+3180	BIZNÁROVÁ Terézia r. Baričičová, SK		0	2037
+3180	BLAHOVÁ Terézia r. Snavická, SK		0	4100
+3180	BLUMENTÁLOVÁ Anna r. Šteklová, SK		0	3144
+3180	BLUMENTÁLOVÁ Terézia r. Sommerfeldová, SK		0	3144
+3180	BLUMENTHÁLOVÁ Anna r. Šteklová, SK		0	3144
+3180	BLUMENTHÁLOVÁ Terézia r. Sommerfeldová, SK		0	3144
+3180	BOBEK Jozef, SK		0	2461,4100
+3180	BOBRÍKOVÁ Rozália r. Polakovičová, SK		0	3144
+3180	BOČKO Adolf, SK		0	4114
+3180	BOČKO Ferdinand, SK		0	1700,1703,3756,4046,4100,4114,4454,4770
+3180	BOČKO Ján, SK		0	4100,4114,4119,4389
+3180	BOČKO Rudolf, SK		0	4046
+3180	BOČKOVÁ Alojzia r. Stankovičová, SK		0	4114,4119
+3180	BOČKOVÁ Johana r. Dugovičová, SK		0	3144
+3180	BOHUŠ Alexander, SK		0	2678
+3180	BOHUŠ Michal, SK		0	4228
+3180	BOHUŠOVÁ Barbora r. Senková, SK		0	4228
+3180	BOHUŠOVÁ Júlia r. Figurová, SK		0	2678
+3180	BOKROŠ Jozef, SK		0	4368
+3180	BOTTANOVÁ Valéria r. Zmajkovičová, SK		0	2894
+3180	BRAGIOVÁ Ľudmila r. Fričová, SK		0	2037
+3180	BRANIŠ Pavol, SK		0	2894
+3180	Branná	malol	0	4067
+3180	Branná Emília, SK		0	4067
+3180	BRANNOVÁ Žofia r. Galiková, SK		0	4100
+3180	BRATEK František, SK		0	3144
+3180	BRATEK Ján, SK		0	3144
+3180	BRATIA Fürst, SK		0	4370
+3180	BRAUN Alexander, SK		0	4360
+3180	BRAUN Vincent, SK		0	4100,4114
+3180	BRAUNOVÁ Anna r. Káričová, SK		0	4114
+3180	Braunová Silvia r. Braunová, Záhradná 59, Šenkvice, PSČ 900 81, SK		0	2858
+3180	BRAUNOVÁ Žofia r. Gáliková, SK		0	4100
+3180	BRINZOVÁ Anna r. Pätoprstá, SK		0	2037
+3180	BRUNOVSKÁ Anna r. Strašiftáková, SK		0	4149
+3180	BRUNOVSKÁ Etela r. Šuplatová, SK		0	3144
+3180	BRUNOVSKÁ Katarína, SK		0	1861
+3180	BRUNOVSKÁ Mária r. Galková, SK		0	152,4114
+3180	BRUNOVSKÝ Ján, SK		0	660,1861,3028,3605,4100,4114,4120,4372
+3180	BRUNOVSKÝ Jozef, SK		0	4149
+3180	BRUNOVSKÝ Štefan, SK		0	1787,4114
+3180	BRYCHTOVÁ Hedviga r. Červenková, SK		0	1628
+3180	BUCURIČ Jozef, SK		0	2037
+3180	BUCURIČOVÁ Mária r. Chvosteková, SK		0	2037
+3180	BUČEK Gregor, SK		0	3361
+3180	BUČEK Imrich, SK		0	2037
+3180	BUČEK Jozef, SK		0	3361
+3180	BUČKO František, SK		0	2037
+3180	BUČKO Ján, SK		0	2037
+3180	BUČKO Štefan, SK		0	2037
+3180	BUČKOVÁ Agnesa, SK		0	3361
+3180	BUČKOVÁ Alojzia r. Ondrejkovičová, SK		0	2037
+3180	BUČKOVÁ Kristína r. Pätoprstá, SK		0	2037
+3180	BUDAJ Ladislav, SK		0	3144
+3180	BUDAJOVÁ Agnesa r. Krajčovičová, SK		0	3144
+3180	BUDAJOVÁ Júlia r. Červenková, SK		0	1839
+3180	BUDAJOVÁ Magdaléna r. Milošovičová, SK		0	3144
+3180	BUDAJOVÁ Margita r. Milošovičová, SK		0	3144
+3180	BUDAY Ján, SK		0	3144
+3180	BUDAY Jozef, SK		0	3144
+3180	BUDAYOVÁ Anna r. Koričová, SK		0	3144
+3180	BUDAYOVÁ Juliana r. Červenková, SK		0	2288,2289,2290
+3180	BUDAYOVÁ Mária, SK		0	3144

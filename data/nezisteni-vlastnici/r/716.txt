@@ -1,0 +1,256 @@
+415	Krivý B Jozef		1	33,123,124,136,174,180,189,283,284,285,292
+415	Krivý Ján		1	177
+415	Krivý Jozef		1	180,283,284,285
+415	KRIVÝ Jozef r. Krivý		0	296
+415	Krivý Vincent		1	177
+415	Kušnírová Mária	Bekečová	1	254
+415	KUŠNIROVÁ Mária r. Bekečová		0	301
+415	Leššo Andrej		1	55,66,174,177,178,180,283,284,285
+415	Leššo Ján		1	55,66,174,177,178,180,283,284,285
+415	Leššo Štefan		1	66
+415	Leššová Anna		1	55,66,174,177,178,180,283,284,285
+415	Lipovský Andrej	m. Alžbeta	1	230
+415	Lipovský Jozef		1	27,212,264,265,266,267
+415	LUKAČ Bartolomej r. Lukač	Bernat,manž.Mária r.Kundriková	0	296
+415	Lukáčová Mária	Leššová	1	55,66,174,177,178,180,283,284,285
+415	Macejová Alžbeta		1	41,153,174,180,215,283,284,285
+415	Majerník Ján		1	174,180,283,284,285
+415	MAJERNÍK Ján	PKV 337	0	296
+415	Majerníková Mária	Fedorková	1	174,180,283,284,285
+415	Martonová Alžbeta	Onderová	1	174,180,184,201,208,210,211,223,283,284,285
+415	Novotná Anna	Leššová	1	55,174,177,178,180,283,284,285
+415	Onder Ján		1	174,180,184,201,208,210,211,223,283,284,285
+415	Onder Jozef		1	174,180,184,201,208,210,211,223,283,284,285
+415	Onder Juraj		1	174,180,283,284,285
+415	ONDERKO Štefan r. Onderko	PKV 337	0	296
+415	Onderová Mária	Lipovská	1	174,180,283,284,285
+415	Onderová Verona		1	174,180,184,201,210,283,284,285
+415	ONDEROVÁ Verona r. Onderková		0	296
+415	Ondrejková Apolonia	Krivá	1	177
+415	Porvazníková Apolonia		1	194
+415	Priščáková Anna	Onderová	1	174,180,184,201,208,210,211,223,283,284,285
+415	Ružbarská Anna	Leššová	1	55,66,174,177,178,180,204,283,284,285
+415	Ružbarský Ján		1	205,217
+415	RUŽBARSKÝ Ján r. Ružbarský	manž.Anna Lešová	0	296
+415	Šalamon Matej		1	244
+415	Šalamonová Mária	Straková	1	244
+415	ŠČAVNICKÁ Anna r. Krivy	vd.,PKV 335,337	0	296
+415	Štefanová Anna	Priščáková	1	174,180,201,208,210,211,223,283,284,285
+415	Triščiková Mária	Krivá	1	177
+415	Vagacká Žofia	Onderová	1	174,180,184,201,208,210,211,223,283,284,285
+415	Vaľko Ján		1	55,174,177,178,180,283,284,285
+416	Bahonová Anna, zomrela, Odorín 49, narodená v 1924	brat Michal Fabián	0	890
+416	Balla Štefan	bytom v Austrálii	0	890
+416	Bušbacherová Anna	bytom Staničná č. 6/757, Smižany	0	890
+416	Dibová Mária	bytom v USA	0	890
+416	Dzurej Štefan	zomrel, bytom Rázusová 40/1, Spišská Nová Ves	0	890
+416	Fabián František		0	890
+416	Fabiánová Mária		0	890
+416	Farkašovská Mária	bytom v Kremnici	0	890
+416	Farkašovský Ján r. Farkašovský		0	890
+416	Farkašovský Pavol	žena Alžbeta r. Šimkovičová, bytom Jamník 17, žil v r. 1896 a Farkašovská Alžbeta r. Šimkovičová žena Alžbeta r. Šimkovičová, bytom Jamník 17, žil v r. 1896	0	890
+416	Franko Michal		0	890
+416	Franko Štefan	žena Anna r. Hovancová, bytom Danišovce	0	890
+416	Franková Anna r. Pavľanská, USA USA		0	874,899
+416	Gavura Michal	syn Michala	0	890
+416	Gavura Štefan		0	890
+416	Gavurová Anna	dcéra Michala	0	890
+416	Gavurová Katarína	dcéra Michala	0	890
+416	Gavurová Mária	dcéra Michala	0	890
+416	Hovancová Verona		0	890
+416	Hynková Alena r. Turociová		0	793
+416	Janečková Verona r. Močková, ČR ČR		0	890
+416	Jenčová Mária		0	170,575
+416	Karchňák Jozef		0	890
+416	Kozák Ján		0	890
+416	Kozák Jozef		0	890
+416	Liptáková Mária r. Kapalková		0	692
+416	Mihalová Alžbeta r. Puškarová		0	890
+416	Mocková Verona r. Janečková		0	791,897,899
+416	Pavliková Žofia r. Rerková		0	890
+416	Puškár Ján	I	0	890
+416	Puškár Jozef		0	890
+416	Rusnák Andrej		0	890
+416	Sanetrik Štefan	žena Mária r. Stašová, v USA	0	170,575
+416	Sova Ján	zomrel, dedila matka Sovová Anna r. Lesňáková: DD- Poklembov	0	170,575
+416	Sova Jozef	v USA	0	890
+416	Sova Štefan	I	0	460
+416	Sova Štefan	žena Anna r. Stašová	0	890
+416	Sovová Mária	bytom Danišovce	0	890
+416	Sovová Mária	muž Štefan	0	170,309,460,575
+416	Staš Štefan	maloletý v r. 1960	0	890
+416	Stašš Jozef	mladší	0	460
+416	Staššová Mária	r. Kocúrová	0	460
+416	Staššová Mária r. Kocúrová		0	170,575
+416	Streber Pavol	umrel	0	890
+416	Šuc František		0	868
+416	Tarajčák Juraj	bytom Danišovce č.53	0	890
+416	Trunková Anna	bytom v Levoči	0	671
+417	AUGUSTÍNIOVÁ Aranka	r.Thomková	0	757
+417	Barát František	ž.Mária r.Klučiarová, Ďanová 92	0	689
+417	Barátová Mária r. Klučiarová	m.František, Ďanová 92	0	689
+417	BELIČKOVÁ Viera	r.Šušlíková,nar.2.6.1928,zomr.19.8.2006	0	745
+417	Bendisová Mária r. Kováčiková, SR		1	501
+417	BLAHO Ladislav		0	757
+417	BLAHO Ludvik		0	757
+417	BLAHOVÁ Anna	r.Macková	0	757
+417	BROČKOVÁ Anna	r.Holešová	0	526
+417	BUOCIK Ondrej	kováčsky majster	0	748
+417	CÍGER Jozef	n.4.8.1921,Turany	0	22,667
+417	Čierny Miloslav	ž.Mária r.Móricová	0	628
+417	ČILLOVÁ Anna	r.Cígrová,n.15.9.1923,Blatnica 76	0	22
+417	Čillová Anna r. Cígrová	Blatnica 94, nar. 17.9.1923	0	667
+417	ĎANOVSKÁ Judita	r.Ďanovská, vdova, Ďanová 20	0	716
+417	Ďanovská Zuzana r. Klučiarová	č.62; č.62	0	619
+417	ĎANOVSKÝ Ján	Ďanová 20	0	703
+417	DIANIS Jozef		0	761
+417	DIANIS Juraj		0	759,762
+417	DIANIŠ Pavel	Folkušová 17	0	541,553,795
+417	DIANIŠ Pavol		0	757
+417	DOLINAJECOVÁ Anna	r.Junasková	0	121
+417	DUCHAJ Matúš	nar.19.12.1941,zomr.29.12.1997,Martin	0	308,309
+417	DUCHAJOVÁ Oľga		0	303
+417	Ďurdík Dionýz, 038 42, Folkušová, č. 8, SR	zomrel: 06.04.1978	0	293,868
+417	ĎURDÍK František		0	765
+417	ĎURDÍK František	n.5.8.1919,súr.Vilma,Ľudovít,Jozef,Pavol	0	469
+417	Ďurdík Jozef	r.Ďurdík,zomr.3.11.2007,Piešťany; r.Ďurdík,zomr.3.11.2007,Piešťany	0	549,754
+417	Ďurdík Jozef r. Ďurdík	zomr.3.11.2007,Piešťany; zomr.3.11.2007,Piešťany	0	163,293,376,470,868
+417	Ďurdík Pavol	Remiše,n.23.12.1924; Remiše,n.23.12.1924	0	594
+417	Ďurdíková Emília r. Záborská, 038 42, Folkušová, č. 8, SR	zomrela: 03.10.1954	0	529
+417	ĎURKOVIČ Ján		0	677
+417	ERTL Jozef	ž.Mária r.Samčíková, Ďanová 101	0	704
+417	ERTLOVÁ Mária	r.Samčíková, m.Jozef, Ďanová 101	0	704
+417	Fejová Anna, Plavecová, SR		1	489
+417	FOGOLYOVÁ Mária	r.Bukovská, Turč.Sv.Martin	0	740
+417	FROĽO Ján		0	757
+417	Froľová Anna r. Klučiarová	č.62; č.62	0	619
+417	Froľová Emília r. Ďanovská, SR		1	490
+417	FUZÁK Juraj	ž.Anna r.Černáková, Ďanová 4	0	722
+417	FUZÁKOVÁ Anna	r.Černáková, m.Juraj, Ďanová 4	0	722
+417	GALOVÁ Anna	r.Froľová	0	757
+417	Halienová Malvína r. Thomková	zomrela: 6.3.2003, Belá-Dulice	0	310
+417	HANKO Pavel	vdovec,Ďanová č.108	0	712
+417	HEČKO Július		0	746
+417	HEČKO Vladimír	Príbovce	0	747
+417	HLINKA Ján	č.74	0	114
+417	HLOBEJ Ján	č.p.54	0	424
+417	HLOBEJ Ondrej	č.p.54	0	424
+417	HLOBEJOVÁ Emília	r.Matulová,m.Ján,Ďanová 90	0	751
+417	Hogh Jozef	ž.Anna,r.Sumková, Ďanová 27	0	700
+417	Hoghová Anna r. Sumková	m.Jozef, Ďanová 27	0	700
+417	Holeš Jozef	n.14.6.1907, zomrel, Ďanová 64	0	648
+417	Hrabušajová Anna	r.Šmálová; r.Šmálová	0	97,735
+417	Hradská Mária	r.Valachová, m.Ján č.26	0	363
+417	Hradský Ján	ž.Mária, r.Valachová č.26	0	363
+417	HRIVNÁK Ján	maloletý, Necpaly 60	0	743
+417	HRIVNÁK Ján	ž.Irena,r.Ševrlová, Ďanová 58	0	713
+417	HRIVNÁK Ondrej	ž.Anna,r.Šutiarová, Ďanová 100	0	707
+417	HRIVNÁKOVÁ Anna	r.Šutiarová, M.Ondrej, Ďanová 100	0	707
+417	HRIVNÁKOVÁ Irena	r.Ševrlová, m.Ján, Ďanová 58	0	713
+417	HRIVNÁKOVÁ Mária	maloletá, Necpaly 60	0	743
+417	HUSÁROVÁ Anna	r.Ďanovská	0	671
+417	HUSOVÁ Anna	r.Dianovská	0	377
+417	Chromčík Milan	zomr.14.4.1995; zomr.14.4.1995	0	738
+417	CHVOJKOVÁ Alojzia	r.Hrivnáková	0	743
+417	CHYLLA Ondrej	ž.Božena r.Socovská č.44	0	121
+417	CHYLOVÁ Zuzana	r.Klučiarová, Turč. Blatnica 174	0	22,687
+417	Ivaška Gustáv	ž.Mária r.Pakánová	0	669
+417	Ivaška Ján	ž.Mária r.Bobčeková; ž.Mária r.Bobčeková	0	734
+417	JAKUBEC Ladislav	Ing.,nar.04.02.1919, zomrel	0	336,337,338,339
+417	JAKUBEC Ladislav	Ing.,nar.04.02.1919, zomrel; Ing.,nar.04.02.1919, zomrel	0	310
+417	Jamriška Pavol	Necpaly; Necpaly	0	616,617
+417	Janotová Viera r. Šmálová	n.15.11.1942, J.Mazúra 26,Martin; n.15.11.1942, J.Mazúra 26,Martin	0	624
+417	JESENSKÁ Elena	Pavke	0	757
+417	JESENSKÁ Mária	Pavke	0	757
+417	JESENSKÝ František	nar.24.5.1910	0	757
+417	JESENSKÝ Ján	Pavke	0	757
+417	Kačenáková Anna	r.Šmálová	0	198,201
+417	Kačenáková Anna r. Šmálová		0	22,601,602,624
+417	Kačenáková Anna r. Šmálová	r. Šmálová	0	200
+417	Kalnická Darina	r.Šimková,zomr.29.12.2005,Folkušová; r.Šimková,zomr.29.12.2005,Folkušová	0	757
+417	Kalnická Oľga	r.Thomková,zomr.14.8.2008,Bratislava; r.Thomková,zomr.14.8.2008,Bratislava	0	757
+417	KLUČIAR Andrej	z.Priehrady	0	22
+417	KLUČIAR Miloslav	Bratislava, Nálepkova 12	0	711
+417	Kochrdová Božena	r.Vaňová,zomr.23.5.2008,Galanta; r.Vaňová,zomr.23.5.2008,Galanta	0	767
+417	KOVÁČIKOVÁ Anna	r.Maková,Benice	0	541,553,795
+417	Kováčiková Zuzana	nezvestná; nezvestná	0	616,617
+417	KOVÁČIKOVÁ Zuzana	r.Palová,č.80	0	739
+417	KUBOVÁ Anna	r.Bernáthová	0	22
+417	LAČNÁ Mária	r.Koišová, m.Ladislav	0	310
+417	LAČNÝ Ladislav	ž.Mária r.Koišová	0	310
+417	LAUČEK Ján		0	88,247,369,826
+417	LAUČEK Michal	ž.Anna r.Šalátová	0	88,247,369,826
+417	Lehotská Vilma	r.Thomková,zomr.7.2.2004,Ďanová; r.Thomková,zomr.7.2.2004,Ďanová	0	757,768
+417	Majer Ján	ž.Zuzana r.Šmálová; ž.Zuzana r.Šmálová	0	201
+417	MAJER Rudolf		0	198,200,201
+417	MAJERČIKOVÁ Mária	r.Šimková,Necpaly	0	740
+417	Maková Anna r. Lipovská	zomr.1.9.09,Košťany n./Turcom; zomr.1.9.09,Košťany n./Turcom	0	553
+417	MAŇKOVÁ Emília	r.Sopóciová; r.Sopóciová	0	467
+417	MÓRICOVÁ Mária	r.Štrbová,n.11.9.1920,Ďanová 31	0	650
+417	Móricová Mária r. Ďanovská	vdova, Ďanová 43	0	629
+417	Pakán Emil	ž.Emília r.Laučeková	0	630
+417	PAKÁN Ján		0	625
+417	PAKÁN Ján	Horný, ž.Zuzana r.Ivašková	0	726
+417	Pakán Jozef	ž.Mária r.Moreniová	0	674
+417	PAKÁN Jozef		0	797
+417	PAKÁN Jozef	ž.Božena r.Konrádová, Príbovce	0	797
+417	Pakáň Jozef	n.10.6.1901,zomr.,Moyzesova 5,Michalovce	0	647
+417	PAKÁN Juraj	Ing.,ž.Anastázia r.Komáreková, Prešov	0	797
+417	PALA Ján	č.p.9	0	104
+417	PALA Jozef	slobodný,č.p.9	0	104
+417	PÁLEŠ Ján		0	526,595
+417	PÁLEŠ Jozef		0	526,595
+417	PÁLEŠ Milan		0	526,595
+417	Pálešová Anna	maloletá; maloletá	0	595
+417	PÁLEŠOVÁ Anna	maloletá	0	526
+417	PALOVČÍKOVÁ Anna	r.Dianišová	0	757
+417	PARENIČKA Daniel		0	757
+417	PARENIČKA Jozef	nar.5.2.1925,zomr.20.7.2002,Folkušová 3	0	757,766
+417	PARENIČKOVÁ Mária	r.Dianišová	0	757
+417	PAVLÍK Jozef	ž.Anna r.Ludíková, Turč. Blatnica 211	0	308,309
+417	PAVLÍK Jozef	ž.Božena r. Lavčeková	0	308
+417	Plavec Ján, SR	ž.Anna r. Zelienková	1	489
+417	Putra Ivan	malol	0	258
+417	Putra Ján	ž.Anna r.Kováčiková, Ďanová 102	0	698
+417	PUTRA Miloslav	ž.Emília r.Samčíková, Ďanová 13	0	719
+417	Putrová Anna r. Kováčiková	m.Ján, Ďanová 102	0	698
+417	PUTROVÁ Emília	r.Samčíková,nar.22.12.1913,Ďanová 13	0	22
+417	PUTROVÁ Emília	r.Samčíková,nar.22.12.1913,Ďanová 13; r.Samčíková,nar.22.12.1913,Ďanová 13	0	719
+417	RUPPOVÁ Mária	r.Stachová	0	727
+417	Rúriková Zuzana r. Suráňová		0	591
+417	Samčíková Anna	r.Buocíková; r.Buocíková	0	445
+417	SEDLÁKOVÁ Mária	r.Hnilicová	0	22,314
+417	SOMORA Ján	Spišská Belá	0	309
+417	SOMORA Ján	v Amerike	0	308,309
+417	SOMORA Jozef	v Amerike	0	308,309
+417	SOMORA Michal	Turč.Sv.Martin	0	308
+417	SOMORA Miloslav	Turč.Sv.Martin	0	309
+417	SOMORA Vladimír	Dr. Bratislava	0	309
+417	SOMOROVÁ Mária	Turč.Blatnica	0	308,309
+417	SOMOROVÁ Terézia	r.Šmálová č.p.33	0	198
+417	SOPOCI Alexander		0	469
+417	SOPÓCI František		0	411
+417	SOPÓCI Imrich		0	467
+417	STACHOVÁ Mária	r.Pakánová,manž.Jozef	0	727
+417	SUMKOVÁ Mária	r.Froľová	0	757
+417	Ševrla Vladimír	zomr.22.11.2006,Ďanová; zomr.22.11.2006,Ďanová	0	627
+417	ŠIMKOVÁ Mária	r.Grosmanová, Necpaly	0	740
+417	Šimková Mária r. Ševrlová		0	627
+417	Šípka Ján, SR		1	489
+417	Šmál Pavel	zomr.26.11.2007,Ružomberok; zomr.26.11.2007,Ružomberok	0	97,735
+417	ŠMÁLOVÁ Judita	r.Ďanovská, č.20	0	741
+417	Šplho Ján	nar.10.4.1901	0	683
+417	Štancelová Anna r. Adamišová	Blatnica; Blatnica	0	616,617
+417	ŠTEFANIDES Ján	ž.Elena r.Valachová, Ďanová 28	0	708
+417	ŠTEFANIDESOVÁ Elena	r.Valachová, m.Ján, Ďanová 28	0	708
+417	ŠULEKOVÁ Mária	r.Prokšová	0	785
+417	THOMKA František	Škorkeje,ž.Jozefína r.Bullovská	0	209
+417	THOMKA Jozef	brat Bartolomej	0	768
+417	THOMKOVÁ Jolana	r.Kevická,n.8.6.1922,zomr.Martin,Sládk.8	0	757
+417	VALOVIČOVÁ Anna	r.Šimková	0	740
+417	Vanko Jozef	ž.Mária r.Šramcová, Ďanová 78	0	693
+417	Vanková Mária r. Šramcová	Šramcová, m.Jozef, Ďanová 78	0	693
+417	VRTIAKOVÁ Mária	r.Ďanovská	0	671
+417	VRTIAKOVÁ Mária	r.Dianovská	0	377
+417	ZELIENKOVÁ Anna	r.Prokšová	0	785
+417	Zvedela Vladimír	zomr.21.10.1951,Dolný Kubín; zomr.21.10.1951,Dolný Kubín	0	757

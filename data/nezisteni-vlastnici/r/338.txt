@@ -1,0 +1,256 @@
+213	Macickova Eva r. Chomco		1	227,323
+213	Macicková Eva r. Chomcová, SR		1	220
+213	Mandel Emanuel		1	229
+213	Mandel Emanuel, SR		1	347
+213	Mandel Schulim		1	229
+213	Mandel Schulim, SR		1	347
+213	Mandlova Eva		1	229
+213	Mandlová Eva, SR		1	347
+213	Mandzak Juraj		1	323
+213	Marko Ján, Koškovce, č. 23, SR		1	234,311,387,398
+213	MIHALCIK Andrej, 066 01, Humenne, SR		1	235,237,245,323
+213	Mihalcik Michal		1	240
+213	Mihalcik Vasil		1	237,323
+213	MIHALCIKOVA Anna r. Hamadakova, 066 01, Humenne, SR		1	245,267
+213	Mihalčík Andrej, Humenné		0	334,354
+213	Mihalčik Michal, SR		1	337
+213	Mihalčík Vasiľ, SR		1	354
+213	Michalcik Vasil		1	271
+213	MICHALCIKOVA Anna, 066 01, Humenne, SR		1	228,316
+213	Mikijarova Maria r. Hudak		1	225,240,261,323
+213	Mikijarová Mária r. Hudáková, SR		1	337
+213	Mlej Jan		1	297
+213	Mlej Vasil		1	269
+213	Mlej Vasil	ž.Anna rod.Revtak	1	302
+213	Mlejova Anna		1	297
+213	Mlejova Anna r. Revtakova		1	269
+213	Mlejova Eva		1	297
+213	Mlejova Helena		1	297
+213	Mlejova Katarina		1	297
+213	Mlejova Maria		1	297
+213	Murdzik Vasil		1	253
+213	Murdzikova Helena r. Culy		1	253
+213	Nedelsky Gustav		1	286
+213	Nedelsky Jan		1	286
+213	Nedelsky Karol		1	286
+213	Nedelsky Martin		1	286
+213	Pancura Jan		1	228,245
+213	Pancura Jan, mladsí		1	323
+213	Pancurova Maria r. Chomca		1	323
+213	Pancurova Maria r. Chomco		1	279,312
+213	Pančurová Mária r. Chomčová, SR		1	365
+213	Patajova Otília r. Kazinci		1	248
+213	Petrun Fedor	/ž.Mária rod.Hnat/ /ž.Mária rod.Hnat/	1	323
+213	Petrun Michal		1	323
+213	Polsterova Etela r. Duchslay		1	241,388,389
+213	Postihacova Ilona		1	228,245
+213	Postihacova Maria		1	228,245
+213	Revtak Juraj		1	288
+213	Revtak Michal	ž.Helena rod.Hricak	1	301
+213	Revtakova Anna r. Valalik		1	288
+213	Rosenblum Samuel		1	323
+213	Rudisin Andrej		1	293
+213	Rudisin Maria r. Valalik		1	222,243
+213	Rudisinova Anna r. Stim		1	293
+213	Rudisinova Helena r. Hudak		1	323
+213	Rudisinova Maria r. Valalik		1	229
+213	Rudišinová Mária r. Valalíková, SR		1	347,353
+213	Rusinko Andrej		1	323
+213	Rusinko Jan		1	323
+213	Rusinko Michal		1	239,323
+213	Rusinko Peter		1	239,240,323
+213	Rusinko Peter, SR		1	337
+213	Rusinkova Maria r. Valalik		1	323
+213	Sarova Anna r. Mihalcik		1	240
+213	Sarová Anna r. Mihalčíková, SR		1	337
+213	Savulakoa Maria r. Hudak		1	242
+213	Savulakova Maria r. Hudak		1	233,242,257,323
+213	Stankovský Jozef, SR		1	340
+213	Sukivcak Michal		1	298
+213	Sukivcakova Maria r. Hirko		1	298
+213	Terek Michal		1	224
+213	Terek Michal, SR		1	349
+213	Terekova Anna		1	224
+213	Tereková Anna, SR		1	349
+213	Terekova Maria		1	224
+213	Tereková Mária, SR		1	349
+213	Valalik Jan		1	239,276,323
+213	Valalík Ján, SR	2; 2	1	362
+213	Valalík Ján, SR	3; 3	1	362
+213	Valalik Michal	/ž.Anna rod.Hnat/ /ž.Anna rod.Hnat/	1	323
+213	VALALÍK Michal		1	114,222,223,229,243
+213	Valalik Michal r. Valalik		1	306,307
+213	Valalík Michal, SR		1	353
+213	Valalík Michal, SR	ž.Anna r.Hnatová	1	347
+213	Valalik Vasil		1	223,226,317
+213	Valalík Vasiľ, SR		1	343
+213	Valalikova Anna		1	222,243
+213	Valalikova Anna r. Cabala		1	275
+213	Valaliková Anna r. Valalik		1	223,237,323
+213	Valalíková Anna r. Valalíková, SR		1	353,354,361
+213	Valalikova Helena		1	243
+213	Valalíková Helena, SR		1	353
+213	Veichparova Anna r. Nedelsky		1	286
+213	VODICKOVA Maria	r.Michalcik	0	237
+213	Vodičková Mária r. Michalčíková, nám.Slobody 20/40, Humenné		0	354
+213	Zakova Helena r. Pertun		1	245
+213	Zakova Helena r. Petrun		1	227,323
+213	Zakova Helena r. Petrun	DSPF	1	228
+213	Zubal Jan r. Zubal		1	323
+213	Zubaľ Ján, SR	ž.Katarína r.Rubrichová; ž.Katarína r.Rubrichová	1	335
+213	Zubalova Ilona		1	323
+214	ANDISOVÁ Estera		0	635
+214	Andrisová Margita r.Molnárová		0	9,352,376
+214	BAJCSI Imrich	maloletý	0	436
+214	Bajcsi Ladislav		0	413
+214	BAJCSY Ľudovít		0	581,582
+214	BAJCSYOVÁ Rozália		0	644
+214	BALOGH Karol		0	612,614
+214	Balogh Ladislav		0	351,416,612,614
+214	BALOGH Štefan		0	612,614
+214	Baloghová Alžbeta		0	351,416,612,614
+214	Baloghová Anna		0	351,416,612,614
+214	Baloghová Helena		0	351
+214	BALOGHOVÁ Helena	maloletá, Rimanská Sobota	0	612,614
+214	Baloghová Julianna		0	351,416,612,614
+214	Baloghová Margita		0	351,416,612,614
+214	BALOGHOVÁ Rozália		0	612,614
+214	BARTALOVÁ Agnesa r. Almásiová	m.Ľudovít	0	684
+214	Bartalová Agneša r.Almásiová		0	388,389,390,392,393,426,427,552
+214	BAZSÓ Kornel		0	440
+214	BEDECSOVÁ Júlia r. Nagyváthyová		0	180,452,453,591,592,593,625,626,724,725
+214	Bedecsová Júlia r.Nagyváthyová		0	367,563
+214	Beke Ľudovít		0	246,406,408
+214	BEKE Ľudovít	n.v roku 1875 z.6.6.1955	0	668
+214	BEKE Žigmund		0	668
+214	Bereznaiová Klára r.Tornyaiová		0	197,392,393
+214	BESEOVÁ Mária r. Csepiová	m.b.Koloman vdova	0	658
+214	Borsányiová Júlia		0	323
+214	BORŠ Imrich		0	647
+214	Bothová Terézia r.Vasová		0	369
+214	Brinziková Juliana r.Szuhová		0	404
+214	Bugár Jozef		0	402
+214	Bugárová Agnesa		0	402
+214	Bugárová Margita		0	402
+214	Bugárová Mária		0	402
+214	Bugárová Terézia		0	402
+214	Bugárová Verona		0	402
+214	CSÁKYOVÁ Juliana	nezletilá	0	472
+214	CSÁSZÁR Štefan	n.4.9.1907 z.18.2.1986	0	611
+214	CSÁSZÁROVÁ Gizela r. Panyiová	n.23.1.1915 z.13.2.1975	0	611
+214	CSASZÁROVÁ Janka r. Csehová	n.16.7.1913 z.12.1.2000 , m.Imrich	0	610,611
+214	CSEH Július	n.12.6.1922 z.17.3.1997,m.Magdaléna r.Györiová	0	623
+214	CSEH Karol	Sokolce	0	106,610,611
+214	CSEH Michal	Bodza	0	106,610,611
+214	CSEHOVÁ Ida		0	106,610,611
+214	CSEHOVÁ Magdaléna r. Györiová	n.16.5.1923 z.22.5.1989,m.Július	0	623
+214	CSERE Arpad		0	440
+214	CSERE Jozef		0	440
+214	CSERE Vincent		0	440
+214	Csornaová Kristína r.Lászlóová		0	209
+214	CZAFIK Július		0	525,628,647
+214	Deák Štefan		0	360
+214	Deáková Anna r.Hamová		0	360
+214	Deáková Ida		0	360
+214	Deáková Julianna		0	360,422
+214	Deáková Mária		0	360,422
+214	DUDÁŠOVÁ Mária r. Filkóová		0	643
+214	Erdélyi Mikuláš		0	344
+214	FÁBRIK Eugen	maloletý	0	532
+214	FÁBRIKOVÁ Alžbeta r. Némethová		0	532
+214	Farkas Július		0	182
+214	FARKASOVÁ Emma	maloletá	0	653
+214	FARKASOVÁ Irma r. Ferencziová		0	653
+214	Farkasová Juliana r.Bartalová		0	182
+214	Fehérová Mária r.Borsová		0	384
+214	FERENCI Ľudovít	n.19.6.1922 z.20.6.2002 , m.Helena r.Lakóová	0	667
+214	Ferenczi Karol		0	362
+214	FILKÓ Ján	Sokolce	0	484
+214	Filkó Jozef		0	67,378
+214	FILKÓ Karol	Okoličná n.O	0	643
+214	Filkó Ĺudovít		0	67,378
+214	FILKÓ Ľudovít	n.28.2.1923	0	643
+214	FILKÓ Vincent	Nová Stráž	0	643
+214	FILKÓOVÁ Mária r. Sztahová	n.12.12.1874, m.Karol	0	643
+214	Filkóová Terézia		0	67,378
+214	Filkóová Vilma r.Molnárová		0	171
+214	FONÓD Antonín		0	665,681
+214	FONÓD Ľudovít	mladší	0	665
+214	FONÓDOVÁ Julianna	maloletá	0	665,681
+214	FÓNODOVÁ Mária		0	440
+214	FÜSIOVÁ Julianna r. Fonódová		0	681
+214	FÜSSY Alexander		0	681
+214	GRADODOVÁ Hermína r. Filkóová		0	643
+214	GRADSÁKOVÁ Klára	n.19.3.1878	0	645
+214	Győri Imrich		0	323
+214	Györiová Júlia r. Forrová	m.Imrich z.12.1.1996	0	660
+214	HAVAŠIOVÁ Helena r. Filkóová		0	643
+214	Horváthová Helena		0	345
+214	HORVÁTHOVÁ Julianna r. Filkóová	vdova n.14.11.1896	0	643
+214	Horváthová Karolína		0	345
+214	Horváthová Karolina r.Rákócziová		0	344
+214	Horváthová Mária		0	345
+214	Horváthová Róza r.Tornyaiová		0	393
+214	Horváthová Rozália		0	345
+214	Kacz Karol		0	258,391,409,636
+214	KÁKICSOVÁ Julianna r. Almásiová	n.20.8.1884 z.7.6.1955	0	636
+214	KENESEIOVÁ Agnesa r. Véghová	m.Gabriel	0	472
+214	KENESSEYOVÁ Agnesa r. Véghová		0	663
+214	KESZEG Antonín	n.1.12.1878 z.9.2.1954	0	640
+214	KIRÁLYOVÁ Rozália		0	598
+214	KONCZOVÁ Matilda r. Rákóczová		0	510
+214	KONKOLYOVÁ Zuzana r. Bajcsyová	m.Ondrej	0	581,582
+214	KOPECZKYOVÁ Julianna r. Kovácsová		0	638
+214	Kórosiová Alžbeta r.Rákócziová		0	344
+214	Kósa Imrich		0	364
+214	KÓSA Július	n.11.7.1908 z.1997	0	465
+214	KÓSA Ladislav	maloletý n.18.3.1936	0	655
+214	KÓSA Ladislav	n.2.4.1952,Príbram,Drkolnovská 256	0	470
+214	KÓSA Ladislav	n.2.4.1952,Príbram,Drkolnovská 256; n.2.4.1952,Príbram,Drkolnovská 256	0	556
+214	KÓSA Vincent	m.Agneša r.Benedeková n.2.1.1922 z.14.1.1999	0	494
+214	KÓSAOVÁ Karolína		0	626
+214	KÓSAOVÁ Katarína		0	626
+214	Kósaová Markéta r.Kaszaová		0	348
+214	Kósaová Terézia r.Susíková		0	382
+214	KÓSOVÁ Agneša r. Benedeková	m.Vincent n.5.7.1925 z.24.1.1995	0	494
+214	Kósová Jolana r. Mészárosová	z.31.8.2005	0	506,507
+214	KÓSOVÁ Justina r. Bucová	m.Vendelin n.23.9.1928 z.30.10.1968	0	494
+214	KOSOVÁ Klára r. Palffyová	n.11.7.1906 z.25.1.1991	0	642
+214	KÓSOVA Magdaléna	maloletá, n.20.9.1939	0	655
+214	Kósová Mária		0	364,365,677
+214	Kóssová Elvíra r.Menyhártová		0	397
+214	Kovács Štefan		0	358
+214	KOVÁČOVÁ Margita r. Filkóová	n.19.7.1912 z.5.12.2001	0	643
+214	KÜRTIOVÁ Estera r. Csereová	m.Alexander	0	440
+214	LAKÓ Jozef	n.9.3.1890 z17.11.1966,m.Mária r.Bridiková; n.9.3.1890 z17.11.1966,m.Mária r.Bridiková	0	614
+214	LAKÓOVÁ Mária r. Csémiová	n.24.7.1900 z.12.4.1996	0	667
+214	Lászlóová Alžbeta r. Mészárosová	z.11.4.2008	0	506,507
+214	Lászlóová Janka r.Tarcsiová		0	358
+214	LÉNÁRTHOVÁ Helena r. Toková	m.Július	0	661
+214	LÉNÁRTHOVÁ Julianna r. Csereová	m.Vincent	0	440
+214	LUKÁCS Štefan		0	581,582
+214	LUKÁCSOVÁ Mária		0	581,582
+214	Markóová Margita r.Tornyaiová		0	393
+214	MARKOVICSOVÁ Alojzia r. Kósaová	m.Ján	0	626
+214	MÉSZÁROS Eugen	n. 15.4.1901 z. 7.5.1990	0	637
+214	MÉSZÁROS Gejza	n.19.12.1872 z.30.10.1960, m.Anna r.Gerhátová	0	654
+214	MÉSZÁROŠ Gejza	n.3.4.1904 z.31.3.1985, m.Anna r.Köváriková	0	637
+214	Molnár Jozef		0	323,400,769
+214	MOLNÁR Jozef	mladší syn Jána	0	651
+214	MOLNÁR Jozef	n.4.4.1898 z.9.8.1988	0	623
+214	Molnár Július		0	323,400,623,769
+214	Molnár Michal		0	171,354
+214	Molnárová Gizela		0	323,400,769
+214	MOLNÁROVÁ Gizella		0	623
+214	Molnárová Margita		0	9,171,354
+214	Molnárová Vilma		0	354
+214	NAGY Jozef	maloletý	0	440
+214	Nagy Ladislav r. Nagy		0	614,728
+214	NAGY Ľudovít	maloletý,n.10.5.1935	0	440
+214	NAGY Vincent	m.Margita r.Brinziková	0	669
+214	NAGY Vincent	m.Mária r.Kósaová	0	653
+214	NAGYOVÁ Ella r. Pethesová		0	685
+214	NAGYOVÁ Irena r. Véghová	Žigmund, Bicske	0	472,679
+214	Nagyová Kornélia		0	74
+214	NAGYOVÁ Margita	maloletá	0	440
+214	Nagyová Margita r.Szuhaová		0	240

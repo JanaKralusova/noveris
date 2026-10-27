@@ -1,0 +1,256 @@
+2295	Bily - Prekrest Michal		1	989,990,1030,1033,1034,1045,1051,1053,1060,1065,1125,1133,1185
+2295	Bilý - Prekresta Juraj		1	1107,1135,1168,1197,1340,1697,1698
+2295	Bilý - Prekresta Michal		1	1107,1135,1168,1197,1340,1697,1698
+2295	Bily - Prekrestová Anna		1	989,990,1033,1034,1053,1125,1133,1185,1204,1302
+2295	Bíly - Prekrestová Anna r. Dudanová		1	1185,1200
+2295	Bilý - Prekrestová Anna r. Dudová		1	949,1034,1133,1204,1340
+2295	Bily - Prekrestová Helena		1	989,990,1033,1034,1060,1133,1185,1204,1301,1322
+2295	Bily - Prekrestová Mária		1	989,990,1033,1034,1060,1133,1185,1204,1301,1322
+2295	Bilý - Prekrestová Mária r. Borová		1	1126
+2295	Bily - Timková Anna		1	936
+2295	Bily - Timková Mária		1	936
+2295	Bily - Timková Paulina		1	936
+2295	BILÝ PREKREST Juraj	mal	1	949,1204,1302,1340
+2295	BÍLY PREKREST Juraj		1	1124
+2295	BILY PREKREST Michal	2	1	989,1204,1301,1313,1322
+2295	BILÝ PREKREST Michal	mal	1	949,1204,1302,1340
+2295	BÍLY PREKREST Michal		1	926
+2295	BÍLY PREKRESTA Juraj	ž.Anna r.Hudáková	1	1340
+2295	BILY TIMKO Ján	vzdialený nezl	1	936
+2295	BÍLÝ-PREKRESTA Juraj		1	965
+2295	BÍLÝ-PREKRESTA Michal		1	965
+2295	BIREŠOVÁ Anna	r.Prekrestová	1	1242
+2295	BLUMOVÁ Sali	r.Wintnerová vzdialená	1	1249,1266,1340,1802
+2295	BORO Ján		1	1369
+2295	BORO Juraj		1	1369
+2295	BORO Michal		1	1369
+2295	BORO Michal	2	1	1369
+2295	BORO Michal	ž.Mária r.Prekrestová	1	1335,1536
+2295	BORONKAYOVÁ Anna	r.Paľová m.Ján	1	1341
+2295	BOROV Ján		1	1337,1421
+2295	BOROVÁ Anna	r.Olchová	1	1533
+2295	Borová Mária r. Bily - Prekrestová		1	991,1126
+2295	Borová Mária r. Bily-Prekrestová		1	1153
+2295	Brunber Ján		1	1023
+2295	BRUNBER Ján	mal	1	1122
+2295	BRUNBER Juraj	mal	1	1122
+2295	BRUNBER Michal	mal	1	1122,1209
+2295	BRUNENÁ Anna	r.Fugová	1	949,1165,1340
+2295	BRUNENÁ Anna	r.Fugová vzdialená	1	931,1028,1045,1053,1065,1123,1134
+2295	Bumbera Ján		1	1023,1027
+2295	BUMBERA Ján	ž.Anna r.Nadzámová	1	895
+2295	BUMBERA Ján	ž.Anna r.Stuľák	1	963,1182,1209,1340,1783
+2295	BUMBERA Juraj	ž.Mária r.Janočková	1	949
+2295	BUMBERA Michal		1	1373
+2295	BUMBERA Michal	ž.I. Rošková II. Rokytová	1	963,1783
+2295	BUMBERA Michal	ž.Mária r. I Rokytová	1	949,1340
+2295	BUMBERA Michal	ž.Mária r.Rošková	1	1340
+2295	Bumbera Mikuláš		1	1023,1027,1288
+2295	BUMBEROVÁ Anna	r.Nadzamová m.Ján	1	916,941,1004,1047,1111,1131,1143,1166,1260,1266,1340,1719,1791,1799,1802
+2295	BUMBEROVÁ Anna	r.Nadzamová m.Ján; ; m.Ján	1	950,956
+2295	BUMBEROVÁ Anna	r.Stuľáková m.Ján	1	949,963,1030,1182,1209,1276,1340,1341,1783
+2295	Bumberová Anna r. Kondášová		1	1127
+2295	Bumberová Anna r. Stuľáková		1	1023,1027,1288
+2295	BUMBEROVÁ Mária	r.Janočková m.Juraj	1	949,1145
+2295	BUNBERA Mikuláš		1	949,963,1182,1209,1783
+2295	CARMOVÁ Helena	r.Hudáková	1	1558
+2295	CIBUR Andrej		1	1340
+2295	CICHY Mikuláš		1	1666
+2295	COPOVÁ Viera	r.Petrová	1	1598
+2295	ČARNÝ Ján	ž.Mária r.Hricová	1	1242
+2295	ČASARIKOVÁ Mária	r.Bobiková vdova	1	1458
+2295	ČEBOVÁ Mária	r.Fenčáková m.Ján	1	1403,1452
+2295	ČEREMŠÁK Juraj	ž.Mária r.Hricová	1	1527
+2295	ČEREMŠÁKOVÁ Anna	r.Frenová	1	1616
+2295	ČEREMŠÁKOVÁ Anna	r.Jachymová	1	1517
+2295	Čeremšáková Helena r. Tkáčová		0	1614
+2295	ČIŽMÁR Ján	ž.Anna r.Janošková	1	1294
+2295	ČIŽMÁROVÁ Anna	r.Janošková m.Ján	1	1294
+2295	ČIŽMÁROVÁ Anna	r.Smolejová	1	1565
+2295	ČORMOVÁ Helena	r.Hudáková	1	949,962,1013,1025,1159,1183,1208,1340,1341,1758,1779
+2295	DANKO Andrej		1	1226
+2295	DANKOVÁ Anna	r.Čižmárová m.Juraj	1	1409
+2295	DANKOVÁ Júlia	r.Mastiláková	1	1097,1226,1239,1344,1428
+2295	DARGAJ Ján		1	1529
+2295	DARGAJ Juraj	ž.Anna r.Kurucová	1	1529
+2295	DARGAJOVÁ Mária	r.Prokopová	1	1544
+2295	DOĽACKÁ Helena	r.Bily Prekrestová m.Michal	1	949,1126,1153,1186,1340
+2295	Doľacká Helena r. Bílá - Prekrestová		1	1206
+2295	Doľacká Helena r. Bily - Prekrestová		1	1032
+2295	DOĽACKÁ Júlia	r.Bili Prekrestová m.Michal; ; m.Michal	1	949
+2295	DOĽACKÁ Zuzana	r.Kužmová m.Ján	1	1115,1140
+2295	DROBŇÁK Ján		1	1097,1428
+2295	DROBŇÁKOVÁ Mária	r.Mastiláková	1	1097,1239,1428
+2295	DUDÁŠOVÁ Mária	r.Belejová	1	949,1340
+2295	DZUBAK Ján		1	1054,1341
+2295	DZUBÁKOVÁ Mária	r.Monockiová m.Ján	1	949,1340
+2295	DZUKOVÁ Mária	r.Nadzámová m.Ján	1	1150
+2295	DZURJANIN Ján	ž.Mária r.Fugová	1	955,1053,1065,1302
+2295	DZURJANIN Juraj	ž.Helena r.Kolesárová	1	1266,1802
+2295	DZURJANIN Michal	vzdialený	1	1251,1266,1450,1802
+2295	DZURJANINOVÁ Mária	r.Fugová m.Ján	1	931,1045,1053,1123
+2295	DZURJOV Michal		1	1340
+2295	Džubajko - Ferková Mária r. Bedejová		1	1121
+2295	Džubajko - Ferková Mária r. Kosťa		1	1121
+2295	DŽUBÁKOVÁ Mária	r.Nadzamová	1	1118,1151,1193
+2295	FEČKOVÁ Mária	r.Mastiláková	1	1019,1437,1449,1803
+2295	FEČKOVIČOVÁ Mária	r.Jakubová m.Jozef	1	949,992,1067,1105,1110,1173,1242,1340,1793
+2295	FEJKO Andrejko		1	1404
+2295	FEJKO Ján	-	1	1514
+2295	FEJKO Ján	syn Jána	1	1417,1780
+2295	FEJKO Michal	vzdialený ž.Anna r.Bačíková	1	1417,1780
+2295	FEJKO Michal	ž.Anna r.Baciková	1	1514
+2295	FEJKO Pavol	nezl	1	1404
+2295	FEJKO Teremun		1	1508
+2295	Fejková - Teremunová Anna r. Fejková		1	1508
+2295	FEJKOVÁ Anna		1	1404
+2295	FEJKOVÁ Anna	r.Valková	1	1527
+2295	FEJKOVÁ Mária	nezl	1	1404
+2295	FEJKOVÁ Zuzana	nezl	1	1404
+2295	FENČÁK Ján		1	901
+2295	FENČÁK Ján	4	1	1340
+2295	FENČÁK Ján	mal. 5	1	1340
+2295	FENČÁK Juraj	2	1	1158
+2295	FENČÁK Juraj	5	1	1166,1719,1799
+2295	FENČÁK Juraj	6	1	949,1340
+2295	FENČÁK Juraj	ml	1	892
+2295	FENČÁK Juraj	ml. vojak	1	892
+2295	FENČÁK Juraj	USA	1	1183
+2295	FENČÁK Juraj	ž.Helena r.Joneková	1	919,1049,1306,1769
+2295	FENČÁK Michal		1	1523,1577,1618,1670
+2295	FENČÁK Michal	5	1	1340
+2295	FENČÁK Michal	mal	1	1403,1452
+2295	FENČÁK Michal	vzd	1	1480
+2295	FENČÁK Michal	ž.Alžbeta r.Rošková	1	1497
+2295	FENČÁK Michal	ž.Anna r.Marcinová	1	1049,1769
+2295	FENČÁK Michal	ž.Helena r. Joneková	1	1166,1719,1799
+2295	Fenčák Michal r. Fenčák		1	919,1306
+2295	FENČÁK Michal, SR		1	939,950,1127,1131,1143,1340,1808
+2295	FENČÁK Mikuláš	5	1	1340
+2295	FENČÁKOVÁ Alžbeta	mal	1	949,1340
+2295	FENČÁKOVÁ Alžbeta	r.Rošková	1	919,935,1049,1149,1158,1306,1340,1341,1497,1670,1769
+2295	FENČÁKOVÁ Alžbeta	r.Sotáková	1	1480
+2295	FENČÁKOVÁ Anna	r.Marcinová	1	1577
+2295	FENČÁKOVÁ Anna	r.Muchová m.Ján	1	902
+2295	FENČÁKOVÁ Helena	r.Joneková m.Juraj	1	920
+2295	FENČÁKOVIČOVÁ Mária	r.Jakulová	1	1262,1270,1351
+2295	FERENCOVÁ Anna	r.Petriková m.Jozef	1	1526
+2295	FERENCOVÁ Mária	r.Stuľáková m.Ján	1	1030,1276
+2295	FETKANIČOVÁ Helena	r.Kolesárová	1	1673
+2295	FETKOVIČ Ján	2	1	1242
+2295	FETKOVIČ Ján	3	1	1266,1802
+2295	FETKOVIČ Ján	mal	1	919,943,1049,1104,1266,1306,1340,1769,1802
+2295	FETKOVIČ Ján	vzdialený	1	1246
+2295	FETKOVIČ Juraj	mal	1	1246
+2295	FETKOVIČ Mikuláš	mal	1	1049,1769
+2295	FETKOVIČOVÁ Alžbeta	mal	1	1246
+2295	FETKOVIČOVÁ Anna	r.Mezejová m.Juraj	1	949,1340
+2295	FETKOVIČOVÁ Ilona	mal	1	1246
+2295	FETKOVIČOVÁ Mária	r.Kolesárová	1	919,932,1039,1049,1059,1192,1305,1306,1315,1316,1769
+2295	FETKOVIČOVÁ Mária	r.Kolesárová vdova	1	1341,1500
+2295	FETKOVIČOVÁ X	vdova m.Juraj	1	1242
+2295	FETKOVIČOVÁ Zuzana	mal	1	919,943,1049,1104,1266,1306,1340,1769,1802
+2295	FLORIAN Ján		1	1573
+2295	FLORIANOVÁ Mária	r.Pavlaninová	1	1573
+2295	FLORIANOVÁ Mária	r.Tkáčová	1	1581
+2295	FLORIANOVÁ Mária	r.Tkáčová vzd	1	1084,1103,1242,1266,1340,1770,1802
+2295	FRÉNOVÁ Alžbeta	r.Srotáková m.Jozef	1	1294
+2295	FRIEDMANNOVÁ Etela	r.Wintnerová	1	1249,1266,1340,1802
+2295	Fuga - Michalov Ján		1	1028,1123,1134
+2295	Fuga - Michalov Michal		1	1028,1043
+2295	Fuga - Michalová Mária r. Miklošová		1	1266,1802
+2295	Fuga - Michalová Mária r. Miklošová	m.Michal	1	1455
+2295	FUGA Anna		1	1449
+2295	FUGA Ján	syn Ján	1	955
+2295	FUGA Juraj	mal	1	1262,1270
+2295	FUGA Juraj	mal. 2	1	1340
+2295	FUGA Michal		1	992,1105,1110,1266,1793,1802
+2295	FUGA Michal	mal. 3	1	949,1340
+2295	FUGA Michal	vzd	1	931,949,1123,1165,1340
+2295	FUGA Michal	vzdialený	1	1045
+2295	FUGA Michal	vzdialený 2	1	1028,1053,1065,1134
+2295	FUGA Michal	ž.Verona r.Fuňáková	1	1266,1802
+2295	FUGA MICHALOV Ján	vzd	1	1259,1266,1340,1802
+2295	FUGA MICHALOV Michal	ž.Alžbeta r.Nadzamová	1	1266,1802
+2295	FUGA MICHALOV Michal	ž.Alžbeta r.Nadzanová	1	1259,1340
+2295	FUGA Mikuláš	2	1	1242
+2295	FUGOVÁ Anna	r.Stuľáková	1	1340
+2295	FUGOVÁ Anna	r.Stuľáková m.Juraj	1	885,919,1049,1306,1769
+2295	FUGOVÁ Verona	r.Fuňáková m.Michal	1	1266,1802
+2295	FUCHSOVÁ Hana	r.Wintnerová	1	1249,1266,1340,1802
+2295	GARAY Karol		1	1495
+2295	GÁRBELY Andrej		1	1505
+2295	GEROVÁ Alžbeta	r.Jacková Mižiková	1	1656
+2295	GRADOSOVA Maria	R.LAKATOSOVA	1	1662
+2295	GRUNWALD Jozef	ž.Táňa r.Moškovitšová	1	1369
+2295	GRUNWALDOVÁ Táňa	r.Moškovitšová m.Jozef	1	1369
+2295	HAJDUČKOVÁ Anna	r.Smolejová	1	1033
+2295	HAJDUČKOVÁ Mária	r.Smolejová	1	926,952,989,990,991,999,1034,1051,1114,1124,1125,1126,1133,1147,1185,1286,1301,1313,1322,1340,1708,1767,1786
+2295	HAKOŠ Juraj		1	1469
+2295	HAKOŠ Juraj	2	1	1370
+2295	HAKOŠ Juraj	3	1	1340
+2295	HAKOŠ Juraj	5	1	1490
+2295	HAKOŠ Juraj	ml	1	1266,1469,1802
+2295	HAKOŠ Juraj	ž.Alžbeta r.Miščíková	1	1033
+2295	HAKOŠ Michal	-	1	1541
+2295	HAKOŠ Michal	mal	1	949,966,1010,1222,1340,1371
+2295	HAKOŠ Michal	ž.Mária r.Joneková	1	984,1455
+2295	HAKOŠOVÁ Alžbeta	r.Miščiková m.Juraj	1	1033
+2295	HAKOŠOVÁ Alžbeta	r.Mižčíková	1	1643
+2295	HAKOŠOVÁ Mária	r.Joneková	1	949,1160,1261,1340,1541
+2295	HAKOŠOVÁ Mária	r.Joneková m.Michal	1	984,1455
+2295	HAKOŠOVÁ Mária	r.Joneková vzdialená	1	1118,1151,1193
+2295	HARBUĽA Ján		1	1467
+2295	HARBUĽOVÁ Mária		1	1467
+2295	HARMANOVÁ Anna	r.Mastiľáková	1	1344,1390,1428
+2295	HARMANOVÁ Anna	r.Mastiláková vzdialená	1	1097,1239
+2295	HARMANOVÁ Ilona	mal	1	949,1154,1167,1187,1223,1340
+2295	HARMANOVÁ Ilona	mal. 2	1	1130
+2295	HARMANOVÁ Mária		1	1015
+2295	HARMANOVÁ Mária	r.Smolejová	1	949,1340
+2295	HAŠŠO Michal	syn Jána	1	1440,1441
+2295	HAŠŠOVÁ Mária	r.Pavliščáková m.Ján	1	912,1121,1152,1340,1695
+2295	HLAVÁČIKOVÁ Alžbeta	r.Baranová	1	1544
+2295	HLAVATÝ Ján		1	1602,1612
+2295	HLAVATÝ Michal		1	1602,1612
+2295	HOLOMANČIK Ján		1	949
+2295	HOLOMANČIK Ján	2	1	1340
+2295	HOLOMANČIK Juraj	mal	1	949,954,1001,1213,1340,1815
+2295	HOLOMANČIKOVÁ Mária	mal	1	949,954,1001,1340,1815
+2295	HOLOMANČIN Bartolomej r. HOLOMANČIN		0	1748
+2295	HOLOMANČIN Ján		1	1634
+2295	HOLOMANČIN Ján	vzdialený	1	953,1021,1119,1184,1771
+2295	HOLOMANČIN Ján	vzdialený 2	1	1020,1210
+2295	HOLOMANČIN Ján	vzdialený 3	1	1214
+2295	HOLOMANČIN Ján	ž.Mária r.Puchyová	1	1150
+2295	HOLOMANČIN Juraj	ž.Anna r.Bavolarová	1	1634
+2295	HOLOMANČIN Juraj	ž.Ilona r.Mrusková	1	949,954,1001,1150,1213,1340,1815
+2295	HOLOMANČIN Juraj r. HOLOMANČIN	ž.Helena r.Mrusková	0	1748
+2295	HOLOMANČÍN Michal	maloročný 2	1	949
+2295	HOLOMANČINOVÁ Anna	nezl. dcéra Juraja	1	953,1020,1021,1119,1184,1771
+2295	HOLOMANČÍNOVÁ Anna	r.Peštová m.Juraj	1	1210
+2295	HOLUB Michal		1	1357
+2295	HOLUBOVÁ Mária	r.Kebová	1	1513
+2295	HORNÁK Ján	nezl. vzdialený	1	1252,1266,1802
+2295	HORŇÁK Ján	2	1	1127
+2295	HORŇÁK Ján	3	1	1166,1719,1799
+2295	HORŇÁK Ján	4	1	949,997
+2295	HORNÁKOVÁ Anna	nezl. vzdialená	1	1252,1266,1802
+2295	HORNÁKOVÁ Mária	nezl. vzdialená	1	1252,1266,1802
+2295	HORNYÁK Ján		1	1131,1143
+2295	HORNYÁK Ján	mal	1	949,950,997,1127,1131,1143,1166,1340,1719,1799
+2295	HORNYÁKOVÁ Anna	mal	1	949,950,997,1127,1131,1143,1166,1340,1719,1799
+2295	HORNYÁKOVÁ Mária	mal	1	949,950,997,1127,1131,1143,1166,1340,1719,1799
+2295	HREHA Ján	vzdialený	1	1252,1266,1802
+2295	HRIC Juraj		1	1369
+2295	HRICOVÁ Anna	R.KOŽEJOVÁ	1	1394
+2295	HRICOVÁ Anna	r.Maťaščiková	1	1369
+2295	HROMUĽÁK Ján	mal	1	1266,1435,1802
+2295	HROMUĽÁKOVÁ Anna	r.Bílá Prekrestová m.Ján	1	919,926,949,1204,1205,1266,1271,1306,1340,1802
+2295	Hromuľáková Anna r. Bílá - Prekrestová		1	990,1030,1034,1049,1051,1769
+2295	Hromuľáková Anna r. Bílá Prekrestová		1	1185
+2295	HUBCEJOVÁ Ilona	r.Joneková m.Juraj	1	1340
+2295	HUDÁK Michal		1	1183,1208
+2295	HUDÁK Michal	-	1	1558
+2295	HUDÁK Michal	3	1	949,1340
+2295	HUDÁKOVÁ Anna	r.Štefanková m.Michal	1	949,1013,1159,1779

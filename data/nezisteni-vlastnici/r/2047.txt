@@ -1,0 +1,256 @@
+1203	VRBIAROVÁ Zuzana r. Laudárová		0	437,3127,3233
+1203	VRBINA Ján		0	2863,3009,3233
+1203	VRBINSKÁ Judita		0	3233,3952
+1203	VRBINSKÁ Judita r. Gavallérová		0	3235
+1203	VRBINSKÁ Judita r. Mináčová		0	2109,2111,2112
+1203	VRBINSKÁ Juliana r. Mináčová		0	2109
+1203	VRBINSKÁ Mária r. Kamoďová		0	3235
+1203	Vrbinský Michal	uličiankin	0	3784,3952
+1203	VRBINSKÝ Michal		0	3948,3951,3952
+1203	VRBINSKÝ Ondrej		0	2999,3634
+1203	Výrostek Ján	ž.Juliana r.Ostricová	0	3337
+1203	Výrosteková Juliana r. Ostricová		0	3337
+1203	ZAJAC Ján		1	1610,3220,3233,4479,4767,4768
+1203	ZIMAN Ondrej		0	3235
+1203	ZOČKÁROVÁ Juliana		0	2938,2941
+1203	ZOČKÁROVÁ Zuzana r. Štefániková		0	2941,3235
+1203	ZÚRIK Ján		0	3233,3235
+1203	ZÚRIK Samuel		0	3233
+1203	Zúriková Elena r. Mináčová		0	2054
+1203	ZÚRIKOVÁ Helena r. Hrivnáková		1	1689,2314,2315,3233,4254,4255
+1203	ZÚRIKOVÁ Sabina r. Hlošková		0	2328,2329,2330,2331,2332,2333,3233,4265,4381
+1203	ZVARA Daniel		0	604,1874,2731,2732,2733,2734,2844,2845,2954,3162,3471
+1203	ZVARA Gregor		0	2729,2730,5216
+1203	Zvara Ján	černáčkin	0	2471
+1203	ZVARA Ján		0	604,1634,2731,2732,2733,2734,3233,3235,3482
+1203	ZVARA Michal		0	2729,2730,5216
+1203	ZVARA Ondrej		0	2576
+1203	ZVARA Pavel		0	3233
+1203	ZVARA Pavol		0	2954,3471
+1203	ZVAROVÁ Helena		0	604,2731,2732,2733,2734
+1203	ZVAROVÁ Judita		0	2471
+1203	ZVAROVÁ Judita r. Štefániková		0	3235
+1203	ZVAROVÁ Júlia		0	604
+1203	ZVAROVÁ Júlia r. Černáková		0	1634
+1203	ZVAROVÁ Mária r. Hrivňáková		0	3233,3467,3532
+1203	ZVAROVÁ Zuzana		0	604,2263,2731,2732,2733,2734,3865,3866
+1204	ADAMČÍK FLORIÁN		0	658,660,694,700,726,765,958,959
+1204	Adamčíková Anastázia r. Kostrbíková	nar. 31.12.1885	0	658,660,694,700,726,765,958,959
+1204	BAČÍK FERDINAND		0	185,401,403,724,734,751,752,754,763,773,959,961,1112,1113,1115
+1204	Bačík František r. Bačík	dát. úmrtia 20.3.1995	0	777,796
+1204	Bačík Ján r. Bačík	23.09.1882	0	750
+1204	Bačík Ján r. Bačík	nar. 23.09.1882	0	36,147,148,197,306,361,384,533,544,545,625,627,647,657,674,710,749,751,752,782,784,805,854,914,949,954,961,1020,1112,1115,1136
+1204	Bačík Matúš	ž. M. Katunínec	0	197,657,778,838,847,954
+1204	BAČÍK MATÚŠ		0	796
+1204	Bačík Ondrej	ž. A. Blahová	0	147,148,197,589,647,656,657,674,779,782,784,805,808,949,954,1020,1148
+1204	Bačík Štefan	Panovec	0	197
+1204	Bačík Štefan	Rakovec	0	792
+1204	Bačík Štefan	Šemega	0	766
+1204	Bačík Štefan	Šemega, ž. E. Rachlíková	0	197,949,954,1020
+1204	Bačík Štefan	Šumega, ž. E. Rachlíková	0	147,148,647,657,782,784,805
+1204	Bačík Štefan	Švibo	0	197,655,657,954
+1204	BAČÍK ŠTEFAN		0	197,306,533,657,674,954
+1204	Bačíková Anna r. Blahová	nar. 06.10.1879	0	197,201,491,589,598,602,603,658,670,698,712,733,737,741,838,959,1148,1152
+1204	Bačíková Eva r. Rachlíková	Šemegová	0	960
+1204	Bačíková Eva r. Rachlíková	Šumegová	0	736,738,740,1022
+1204	Bačíková Mária	Šumegová, r. Juríková	0	36
+1204	Bačíková Mária r. Juríková	nar. 04.12.1885	0	749,750,751,752,754,763,773,959,961,1112,1113,1115
+1204	Bačíková Mária r. Juríková	Šemegová	0	752,914,961
+1204	Bačíková Mária r. Juríková	Šumegová	0	710,749,750,751,1112,1115,1136
+1204	Bačíková Zuzana r. Blahová	nar. 14.03.1879	0	942
+1204	Behrová Anna r. Janigová		0	967,968
+1204	BLAHO ANDREJ		0	967,968
+1204	BLAHO CYRIL		0	197,201,491,589,598,602,603,658,670,698,712,741,838,959,1148,1152
+1204	Blaho Fridrich r. Blaho	dát. úmrtia 11.2.1991	0	491,598,658,670,698,712,733,734,735,737,738,740,741,751,752,754,763,773,838,928,959,960,961,1112,1113,1115,1152
+1204	Blaho Ján r. Blaho	Evin syn	0	882
+1204	Blaho Jozef	Dzubin	0	735,738,740,751,752,755,757,960,961,1109,1112,1115
+1204	Blaho Karol	Vojačinec	0	733
+1204	BLAHO KAROL		0	624,776,794,798,840,967,968
+1204	Blaho Pavol r. Blaho	dát. úmrtia 12.3.1997	0	757
+1204	Blaho Vendelín r. Blaho	nar. 27.03.1896, Vojačinec, ž. M. Rakovecová	0	598,712,733,737,959
+1204	Blahová Hermína r. Jarošincová		0	892
+1204	Blahová Hermína r. Jarošincová	Dátum úmrtia: 23.01.1975	0	891
+1204	Blahová Jozefína r. Koštialiková	dát. úmrtia 29.10.1995	0	197,598,624,776,794,798,838,840,967,968
+1204	Blahová Katarína	Džubinová	0	197,201,589,598,602,603,670,712,838,1148,1152
+1204	Blahová Katarína	Štefanova dcéra	0	239,491,601,658,698,733,734,735,737,738,740,741,751,752,754,763,773,861,876,928,959,960,961,1045,1112,1113,1115
+1204	Blahová Katarína r. Ištoková		0	197
+1204	Blahová Katarína r. Ištoková	nar. 08.03.1886	0	197,345,405,406,407,589,647,679,949,954,1020,1148
+1204	Blahová Terézia r. Šiková		0	967,968
+1204	Blahová Verona	nar. 01.12.1891, Vojačinecová	0	733,737,741
+1204	Blahová Verona	Vojačinecová, nar. 01.12.1891	0	201
+1204	Bordzík František	ž. A. Sršíková	0	751,752,755,757,888,961,1109,1112,1115
+1204	Bordzík Matej	ž. A. Sršíková	0	748,751,752,755,757,762,961,1109,1112,1115
+1204	Bordzíková Agáta r. Sršíková		0	751,752,961,1112,1115
+1204	BRHELOVÁ JOZEFÍNA		0	963
+1204	Britvík Ján	ž. M. Repíková	0	889,922,1012
+1204	BRITVÍK JÁN		0	889,922,1012
+1204	Britvík Michal	Jánov syn	0	889,1012
+1204	BRITVÍK MICHAL		0	888,889,922,1012
+1204	Britvík Štefan	Jánov syn	0	889,922,1011,1012
+1204	Britvík Štefan	syn Jána	0	879
+1204	Britvík Štefan r. Britvík		0	307,473
+1204	Britvíková Mária r. Pavlíková	nar. 08.12.1896	0	473,924
+1204	Bučeková Katarína r. Michalecová		0	751,752,754,867,961,1112,1115
+1204	Budayová Viktória r. Galková		0	197,288,295,598,776,792,815,832,838
+1204	Burjanová Anna r. Michalecová		0	751,752,754,867,961,1112,1115
+1204	Čačíková Katarína r. Mráziková		0	967,968
+1204	Čálik Ján	ž. V. Praštinová	0	36,677,768,914,915
+1204	ČÁLIK JÁN		0	706,708,923
+1204	Čálik Matúš r. Čálik	nar. 30.09.1900, ž. M. Bratiniková	0	36,278,914,915
+1204	ČÁLIKOVÁ ADELA		0	327,336,589,662,663,687,688,703,706,708,937,947,1025,1026,1027,1028,1101,1106,1148
+1204	Čáliková Anna r. Galusová		0	642,702
+1204	Čáliková Anna r. Ištoková	nar. 05.06.1896	0	197,345
+1204	Čáliková Mária	nar.19.05.1895, Jurajova dcéra	0	36
+1204	ČÁLIKOVÁ MÁRIA		0	617,620,703
+1204	Čáliková Mária r. Braciníková		0	681
+1204	Čáliková Mária r. Galusová		0	658,747,764,872
+1204	Čáliková Sidónia r. Koštialiková		0	662,663,703,706,708
+1204	Duník Štefan	ž. A. Ďurišová	0	921
+1204	Duníková Anna r. Ďurišová		0	921
+1204	Dvoriak Andrej	ž. A. Pobežalová	0	967,968
+1204	Dvorjaková Katarína r. Kocmaníková		0	902
+1204	Džubinová Amália	Blahová	0	491,602,603
+1204	Džubinová Berta	Blahová	0	601,658,698,733,734,735,737,738,740,741,751,752,754,763,773,861,959,960,961,1112,1113,1115
+1204	Džubinová Katarína	Blahová, nar. 22.03.1899	0	491,601,658,698,733,734,737,738,740,741,751,752,754,763,772,773,861,959,960,961,1112,1113,1115
+1204	Džubinová Katarína	Blahová, nar.22.03.1899	0	735
+1204	Ficová Verona r. Rachlíková		0	607,736,738,740,866,960
+1204	Figliková Agneša r. Vlčíková		0	898
+1204	Gabrišová Verona r. Dvorjaková		0	867
+1204	Galánková Katarína r. Kováčová		0	967,968
+1204	Galko Anton	ž. V. Katuninec	0	197,589,598,776,794,798,831,838,840,1148
+1204	Galko Silvester		0	778,842
+1204	Galková Helena	Blahová - Dzubinová	0	929
+1204	Galková Helena	r. Blahová - Dzubinová	0	960,961
+1204	Galková Helena r. Blahová	Dzubinová	0	735,738,740,751,752,755,757,1109,1112,1115
+1204	Galková Júlia	Maňusová	0	197,288,295,598,776,792,796,800,815,838
+1204	Galková Veronika r. Katuninecová	06.06.1894	0	751
+1204	Galková Veronika r. Katuninecová	nar. 06.06.1894	0	751,752,805,1112,1115
+1204	Galková Veronika r. Katuninecová	nar.06.06.1894	0	1115
+1204	Galková Viktória r. Ištoková	Baňková, nar. 01.01.1884	0	197,647,784,791,837,949,1020
+1204	Galková Viktória r. Ištoková	Baňková, nar.01.01.1884	0	406
+1204	Galus Ján	nar. 31.08.1900, ž. A. Ješíková	0	192,642,658,702,747,764
+1204	Galus Melichar	Štefanov syn	0	658
+1204	Galus Melichar r. Galus		0	702
+1204	GALUS ONDREJ		0	192,642,658,702
+1204	Galus Štefan r. Galus	nar. 26.08.1895, ž. V. Juríková	0	702,747,764
+1204	Galusová Agnesa r. Ješíková	nar. 16.01.1897	0	764
+1204	Galusová Emília r. Paholíková		0	712
+1204	Galusová Verona r. Blahová		0	491,698,712,733,734,737,738,740,751,752,754,763,772,773,928,959,960,1112,1113,1115
+1204	Galusová Verona r. Džubinová	nar. 03.08.1901	0	601,735,741,751,861,1112,1115
+1204	Galusová Verona r. Juríková	nar. 26.12.1901	0	961
+1204	Hehejík Rajmund r. Hehejík	dát. úmrtia 16.8.1996	0	751,752,1112,1115
+1204	Hlatký Štefan	Ignácov syn	0	147,148,197,418,557,589,635,637,639,647,780,782,784,805,824,835,836,949,1020,1044,1125,1146,1148
+1204	Hospodáriková Anna r. Zemančíková		0	197,657,709,944,954
+1204	HRABEC ŠTEFAN		0	716,749,750,751,752,859,961,1112,1115
+1204	CHALUPKA ALEXANDER		0	868
+1204	CHALUPKA JOZEF		0	868
+1204	CHALUPKA MARTIN		0	868
+1204	CHALUPKOVÁ OĽGA		0	868
+1204	IŠTOK BEDRICH		0	595,766
+1204	Ištok Eduard	Pavlov syn	0	402
+1204	Ištok Jozef r. Ištok	po Jánovi	0	147,148,197,595,647,674,773,782,784,845,949,954,961,1020
+1204	Ištok Juraj	ž. E. Pavlíková	0	147,148,197,532,533,536,647,657,674,750,751,752,761,763,772,773,782,784,805,949,954,961,1020,1112,1113,1115
+1204	Ištok Ondrej	ž. M. Bačíková	0	401,785,803,846,949
+1204	Ištok Ondrej r. Ištok	nar. 12.04.1898	0	197,664,668,724,734,751,752,754,763,773,802,803,959,961,1112,1113,1115
+1204	Ištok Pavel r. Ištok	nar. 05.03.1893, ž. K. Čáliková	0	197,214
+1204	IŠTOK PAVOL		0	595,766,846
+1204	Ištok Pavol r. Ištok	nar. 25.08.1902, ž. M. Hlatká	0	402,802,846
+1204	Ištok Pavol r. Ištok	nar. 25.08.1902, ž.M. Hlatká	0	849
+1204	Ištok Štefan	ž. J. Šibíková	0	197,345,405,806,954
+1204	IŠTOK ŠTEFAN		0	197,406,407,589,647,740,805,949,960,1020,1148
+1204	Ištoková Anna	Štefanova dcéra	0	36,361,625,710,749,750,751,752,854,914,961,1112,1115,1136
+1204	IŠTOKOVÁ EMÍLIA		0	197,306,533,595,657,674,766,954
+1204	Ištoková Eva r. Bačíková	nar. 06.03.1874	0	197,657,674,954
+1204	Ištoková Jozefína r. Šibíková		0	663,672,946
+1204	IŠTOKOVÁ KAROLÍNA		0	197,306,533,595,657,674,766,954
+1204	Ištoková Katarína	r. Blahová - Dzubinová	0	960
+1204	Ištoková Katarína	r. Čáliková, nar. 21.05.1898	0	36,278,589,618,620,677,885,914,923,1148
+1204	Ištoková Katarína	r. Čáliková, nar.21.05.1898	0	915
+1204	Ištoková Katarína r. Blahová	Dzubinová	0	735,738,740
+1204	Ištoková Katarína r. Hontalová		0	768,938
+1204	Ištoková Katarína r. Koštialiková	nar. 31.07.1894	0	491,647,658,670,712,716,733,737,741,751,752,784,927,959,1112,1115,1152
+1204	Ištoková Katarína r. Štrháková		0	959
+1204	Ištoková Mária	Pavlova dcéra	0	197,402,846,949
+1204	Ištoková Mária r. Bačíková	nar. 18.03.1898	0	185,399,403,664,668,724,734,751,752,754,763,772,773,802,803,959,961,1112,1113,1115
+1204	Ištoková Mária r. Hlatká		0	782,849
+1204	Ištoková Mária r. Štrháková		0	312,313,651,699,733,751,752,754,763,773,961,1066,1073,1112,1113,1115
+1204	Ištoková Matilda r. Cabajová		0	751,752,763,772,773,1112,1113,1115
+1204	Ištoková Matilda r. Cabajová	dát. úmrtia 21.1.1989	0	761
+1204	Ištoková Matilda r. Čáliková	dát. umrtia 12.9.1990	0	708
+1204	Janiga Ján	ž. A. Orgoníková	0	967,968
+1204	JÁNOŠKO ONDREJ		0	967,968
+1204	JÁNOŠKOVÁ ZUZANA		0	967,968
+1204	Juršíková Sidónia	r. Paceková	0	36
+1204	Juršíková Sidónia r. Paceková		0	653,654,682,768,914,915,938
+1204	Karumník Andrej	ž. E. Šulavíková	0	967,968
+1204	Katunincová Eva	r. Koštialiková	0	36
+1204	Katuninec Adam	Capin, ž. M. Bačíková	0	147,197,647,751,752,782,805,851,949,961,1020,1112,1115
+1204	KATUNINEC JURAJ		0	147,197,647,755,757,782,805,810,949,1020,1109
+1204	Katuninec Ondrej r. Katuninec	nar. 26.05.1886, Capin, ž. A. Vlčíková	0	445,447,727,728,751,752,857,961,1079,1112,1115,1127
+1204	Katuninec Štefan	Krišo, ž. B. Kocmaníková	0	197,589,639,647,780,805,1125,1148
+1204	Katuninec Štefan	Krišo, ž. V. Slavíková	0	635,824
+1204	Katuninec Štefan	ž. B. Kocmaníková	0	949,1020
+1204	Katuninecová Eva r. Koštialiková		0	906,907,914,916,935
+1204	Kocmaník Jozef r. Kocmaník	nar. 08.12.1897	0	751,752,763,772,773,1112,1113,1115
+1204	KOCMANÍK JURAJ		0	670,1152
+1204	Kocmaník Štefan	ž. B. Kocmaníková	0	418,637,834,835,836,1044,1146
+1204	KOCMANÍK ŠTEFAN		0	751,752,1112,1115
+1204	Kocmaníková Veronika	Štefanova dcéra	0	902
+1204	KOPENCOVÁ ANNA		0	868
+1204	KOPENCOVÁ BOŽENA		0	868
+1204	KOPENEC EMIL		0	868
+1204	KOPENEC JÁN		0	868
+1204	Kopšíková Anna r. Paholíková		0	582
+1204	Kostrbík Florián r. Kostrbík		0	93,629,658,660,694,700,726,765,958,959
+1204	Kostrbík Matúš r. Kostrbík	nar. 24.09.1901	0	629,660,765,958,959
+1204	Kostrbíková Amália	Blahová - Džubinová	0	197,201,239,491,589,598,600,601,658,670,698,712,733,734,735,737,738,740,741,751,752,754,763,773,838,861,870,876,928,959,960,961,1045,1112,1113,1115,1148,1152
+1204	Koštialik Ján	ž. A. Galková	0	598,698,712,733,737,959
+1204	Koštialik Jozef	B	0	967,968
+1204	Koštialik Jozef r. Koštialik	nar. 13.12.1890	0	197,598,776,794,798,833,838
+1204	Koštialik Juraj	dát. úmrtia 16.6.1979	0	752
+1204	Koštialik Juraj r. Koštialik	dát. úmrtia 16.6.1979	0	716,733,737,741,751,752,754,1112,1115
+1204	Koštialik Matúš r. Koštialik		0	776
+1204	KOŠTIALIK ONDREJ		0	36,724,906,907,914,916,935
+1204	Koštialiková Anna r. Dvorjaková		0	610,611,613,615,616,751,752,763,772,773,961,1112,1113,1115,1149,1150
+1204	Koštialiková Brigita	Ondrejova dcéra	0	716,733
+1204	Koštialiková Katarína r. Šibíková		0	589,663,672,706,708,886,890,946,1148
+1204	Koštialiková Mária r. Ištoková	nar. 20.09.1892	0	197,776
+1204	Koštialiková Sidónia	A	0	712,733,737,738,960
+1204	Koštialiková Sidónia	B	0	967,968
+1204	Koštialiková Viktória r. Blahová		0	491,598,602,658,670,698,712,733,737,776,798,840,959,1152
+1204	Kresániková Katarína r. Zemančíková		0	197,657,709,944,954
+1204	Kurejdenejová Mária r. Dvorjaková		0	616,752,961
+1204	Kurejdenjová Mária r. Dvorjaková		0	751,1112,1115
+1204	Kurejová Mária	r. Dvoriaková	0	703
+1204	Kurejová Mária r. Dvoriaková		0	763,773,1113
+1204	Kušnieriková Veronika r. Ištoková	nar. 16.02.1889	0	345,406
+1204	Macúch Michal	ž. V. Paceková	0	36,124,571,589,679,914,1148
+1204	Macúchová Verona	r. Paceková	0	36,124,589,1148
+1204	Macúchová Verona r. Paceková		0	571,653,654,682,768,914,915,938
+1204	Matučik Jozef	Civka	0	393,633,901
+1204	Melicheríková Anna r. Katunincová		0	197,370,589,678,751,752,954,961,1112,1115,1148
+1204	Melicheríková Mária r. Koštialiková	nar. 17.06.1898	0	616,658,670,705,712,716,733,737,741,751,752,754,760,763,773,959,961,1112,1113,1115,1152
+1204	MICHALEC FRANTIŠEK		0	751,752,754,867,961,1112,1115
+1204	Orgoníková Zuzana r. Behrová		0	967,968
+1204	Pacek Adam	Štefanov syn	0	913
+1204	Pacek Adam	ž. M. Ficová	0	940
+1204	Pacek Bazilej	Šanov	0	36,586,653,654,682,768,910,914,915,938
+1204	PACEK SILVESTER		0	768,912,914
+1204	Pacek Štefan	ž. K. Juričeková	0	36,914
+1204	Pacek Štefan	ž. V. Galková	0	778,838,917
+1204	Paceková Eva	r. Ondrišíková	0	36,676,768,908,914,915
+1204	Paceková Katarína	nar. 11.01.1874, Jánova dcéra	0	36,477,676,768,914,915,938
+1204	Paceková Mária	r. Žilinčíková	0	36,124
+1204	Paceková Mária r. Žilinčíková		0	571,589,914,1148
+1204	PACEKOVÁ SIDÓNIA		0	36,586,768,910,914,938
+1204	Paceková Verona	Galková	0	295,598
+1204	Paceková Verona r. Galková		0	197,282,288,295,598,776,778,792,793,798,815,832,838
+1204	Packová Mária r. Katunincová	nar. 18.10.1897	0	727,751,752,961,1112,1115
+1204	PAHOLÍKOVÁ EMÍLIA		0	582
+1204	Paholíková Pavlína r. Štrháková		0	658,699,737,752,754,763,772,773,959,1113
+1204	Pobežal Štefan	ž. Z. Kováčová	0	967,968
+1204	POBEŽALOVÁ EMÍLIA		0	967,968
+1204	Pobežalová Zuzana r. Malinová		0	967,968
+1204	Rachlík Jozef	ž. M. Donátová	0	607,736,738,740,865,960
+1204	Rachlík Ondrej	syn Márie	0	607,736,738,740,865,960
+1204	Rakovec Jozef r. Rakovec		0	147,148,736,738,740,751,782,784,805,960,961,1112,1115

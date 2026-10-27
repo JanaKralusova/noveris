@@ -1,0 +1,102 @@
+<section class="px-8 pt-14 pb-10">
+<div class="max-w-7xl mx-auto">
+<p class="font-label uppercase tracking-widest text-xs text-secondary mb-4">Nezistení vlastníci · údaje SPF k {{owners:asOf}}</p>
+<h1 class="font-headline text-4xl md:text-6xl leading-tight max-w-3xl">Patrí pozemok <span class="italic text-primary">vašej rodine?</span></h1>
+<ol class="mt-8 grid md:grid-cols-3 gap-6 max-w-4xl text-sm text-on-surface-variant">
+<li class="flex gap-3"><span class="font-headline text-2xl text-secondary">1</span><span>Zadajte priezvisko predka, prípadne aj obec alebo číslo LV – hľadáme aj v rodných menách a poznámkach.</span></li>
+<li class="flex gap-3"><span class="font-headline text-2xl text-secondary">2</span><span>Pridajte nájdené záznamy do žiadosti.</span></li>
+<li class="flex gap-3"><span class="font-headline text-2xl text-secondary">3</span><span>Odošlite ich advokátke – údaje vyplníme za vás.</span></li>
+</ol>
+</div>
+</section>
+
+<section class="px-8 pb-24">
+<div class="max-w-7xl mx-auto grid lg:grid-cols-12 gap-10 items-start">
+<div class="lg:col-span-7 min-w-0">
+<label class="flex items-center gap-3 border-b-2 border-outline-variant focus-within:border-secondary pb-2 mb-3">
+<svg class="w-6 h-6 shrink-0 text-primary" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" aria-hidden="true"><circle cx="11" cy="11" r="6.5"/><path d="m16 16 4.5 4.5"/></svg>
+<input id="owners-q" type="search" class="w-full bg-transparent border-0 p-0 focus:ring-0 text-xl" placeholder="Priezvisko, obec alebo číslo LV" aria-label="Hľadať v zozname nezistených vlastníkov" autocomplete="off" autocapitalize="off" spellcheck="false"/>
+</label>
+<p class="text-xs text-outline mb-6">{{owners:stats}}</p>
+<noscript><p class="text-sm text-on-surface-variant mb-6">Vyhľadávanie vyžaduje zapnutý JavaScript. Úplný zoznam nájdete na stránke <a class="underline underline-offset-2 hover:text-secondary" href="{{owners:sourcePage}}" rel="noopener">Slovenského pozemkového fondu</a>.</p></noscript>
+<div id="owners-status" class="text-sm text-outline mb-4 min-h-[1.25rem]" role="status" aria-live="polite"></div>
+<div id="owners-area-wrap" class="hidden mb-4">
+<label for="owners-area" class="font-label uppercase tracking-widest text-[11px] text-outline">Katastrálne územie</label>
+<select id="owners-area" class="editorial-input w-full sm:max-w-md py-2 px-0 bg-transparent focus:ring-0"></select>
+</div>
+<div id="owners-results" class="space-y-3"></div>
+<div class="mt-6 text-center">
+<button id="owners-more" type="button" class="hidden font-label uppercase tracking-widest text-xs text-secondary border border-secondary/40 hover:bg-secondary-fixed/40 transition-colors px-6 py-3 rounded-lg"></button>
+</div>
+<div class="mt-12 border-t border-outline-variant/40 pt-6 text-xs text-outline leading-relaxed">
+<span class="font-label uppercase tracking-widest text-[10px] text-secondary">Zdroj údajov</span><br/>
+Slovenský pozemkový fond – <a class="underline underline-offset-2 hover:text-secondary" href="{{owners:sourcePage}}" target="_blank" rel="noopener">Zoznam nezistených vlastníkov</a>, stav k {{owners:asOf}}. Údaje preberáme bez úprav; záväzné sú údaje v katastri nehnuteľností. Noveris Legal nie je prevádzkovateľom registra.
+</div>
+</div>
+
+<aside id="owners-panel" class="lg:col-span-5 lg:sticky lg:top-28 scroll-mt-28" aria-labelledby="owners-panel-h">
+<div class="bg-white editorial-shadow rounded-xl overflow-hidden">
+<div class="flex items-center gap-4 p-6 border-b border-outline-variant/30 bg-surface-container-low">
+<picture>
+<source type="image/avif" srcset="/assets/photos/avatar.avif"/>
+<img src="/assets/photos/avatar.jpg" alt="" width="320" height="320" loading="lazy" decoding="async" class="w-14 h-14 rounded-[50%] object-cover bg-surface-container"/>
+</picture>
+<div><h2 id="owners-panel-h" class="font-headline text-xl">Vaša žiadosť</h2><div class="text-xs text-outline">Mgr. Jana Králusová, advokátka</div></div>
+</div>
+<div class="p-6 lg:max-h-[calc(100vh-14rem)] lg:overflow-y-auto">
+<div id="owners-thanks" class="hidden text-center py-10" role="status" tabindex="-1">
+<svg class="w-12 h-12 mx-auto text-secondary" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 9.5 12 3l9 6.5V19a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1z"/><path d="m8 12.5 3 2.5 5-5"/></svg>
+<h3 class="font-headline text-3xl mt-4">Ďakujeme</h3>
+<p class="text-sm text-on-surface-variant mt-2">Žiadosť sme prijali. Advokátka sa vám ozve.</p>
+</div>
+<form id="owners-form" class="space-y-7" action="https://api.web3forms.com/submit" method="POST" novalidate>
+<div>
+<div id="owners-sel-label" class="font-label uppercase tracking-widest text-[11px] text-outline mb-2">Vybrané záznamy</div>
+<ul id="owners-selected" class="bg-surface-container-low rounded-lg px-4 hidden" aria-labelledby="owners-sel-label"></ul>
+<div id="owners-empty" class="text-sm text-outline border border-dashed border-outline-variant rounded-lg p-5 text-center">Zatiaľ ste nevybrali žiadny záznam.<br/>Kliknite na <b>Riešiť</b> pri výsledku vyhľadávania.</div>
+</div>
+<div class="grid sm:grid-cols-2 gap-6">
+<div class="space-y-1">
+<label for="owners-name" class="font-label uppercase tracking-widest text-[11px] text-outline">Meno a priezvisko</label>
+<input id="owners-name" name="name" type="text" required autocomplete="name" class="editorial-input w-full py-2 px-0 bg-transparent focus:ring-0" placeholder="Ján Nový"/>
+<div id="owners-name-error" class="hidden font-body text-error text-[11px] mt-1">Prosím, zadajte svoje meno a priezvisko</div>
+</div>
+<div class="space-y-1">
+<label for="owners-phone" class="font-label uppercase tracking-widest text-[11px] text-outline">Telefón</label>
+<input id="owners-phone" name="phone" type="tel" autocomplete="tel" class="editorial-input w-full py-2 px-0 bg-transparent focus:ring-0" placeholder="+421"/>
+<div id="owners-phone-error" class="hidden font-body text-error text-[11px] mt-1">Prosím, zadajte platné telefónne číslo (napr. +421 900 123 456)</div>
+</div>
+</div>
+<div class="space-y-1">
+<label for="owners-email" class="font-label uppercase tracking-widest text-[11px] text-outline">E-mail</label>
+<input id="owners-email" name="email" type="email" required autocomplete="email" class="editorial-input w-full py-2 px-0 bg-transparent focus:ring-0" placeholder="jan.novy@email.sk"/>
+<div id="owners-email-error" class="hidden font-body text-error text-[11px] mt-1">Prosím, zadajte platnú e-mailovú adresu</div>
+</div>
+<div class="space-y-1">
+<label for="owners-relation" class="font-label uppercase tracking-widest text-[11px] text-outline">Váš vzťah k vlastníkovi</label>
+<select id="owners-relation" name="relation" class="editorial-input w-full py-2 px-0 bg-transparent focus:ring-0"><option>Som potomok / dedič</option><option>Som spoluvlastník pozemku</option><option>Chcem pozemok kúpiť</option><option>Iné</option></select>
+</div>
+<div class="space-y-1">
+<label for="owners-message" class="font-label uppercase tracking-widest text-[11px] text-outline">Správa (predvyplnená, môžete upraviť)</label>
+<textarea id="owners-message" name="message" rows="6" required class="editorial-input w-full py-2 px-0 bg-transparent focus:ring-0 text-sm leading-relaxed resize-y"></textarea>
+<div id="owners-message-error" class="hidden font-body text-error text-[11px] mt-1">Prosím, napíšte nám správu</div>
+</div>
+<div>
+<button id="owners-submit" type="submit" disabled class="w-full satin-button text-white font-label uppercase tracking-widest text-xs py-4 rounded-lg disabled:opacity-40 flex items-center justify-center gap-2"><span>Odoslať advokátke</span><svg class="w-[18px] h-[18px]" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14m-6-6 6 6-6 6"/></svg></button>
+<div id="owners-form-status" class="mt-4 font-body text-sm hidden" role="status"></div>
+</div>
+<p class="text-[11px] text-outline leading-relaxed">Odoslaním súhlasíte so spracovaním údajov podľa <a href="{{url:privacy}}" class="underline underline-offset-2 hover:text-primary">zásad ochrany osobných údajov</a>. Odpoveď dostanete e-mailom alebo telefonicky.</p>
+<input type="hidden" name="access_key" value="bfe1ae07-8f6f-4183-afb5-1ef348205f74">
+<input type="hidden" name="subject" value="Nezistení vlastníci – žiadosť z webu">
+<input type="hidden" name="from_name" value="Noveris Legal Website">
+<input type="hidden" name="search_queries" value="">
+<input type="hidden" name="records" value="">
+<input type="checkbox" name="botcheck" class="hidden" style="display:none">
+</form>
+</div>
+</div>
+</aside>
+</div>
+</section>
+
+<a href="#owners-panel" id="owners-mbar" class="lg:hidden fixed bottom-4 inset-x-4 z-40 satin-button text-white text-center font-label uppercase tracking-widest text-xs py-4 rounded-lg shadow-xl hidden"></a>

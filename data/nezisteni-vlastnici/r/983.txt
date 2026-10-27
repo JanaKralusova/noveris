@@ -1,0 +1,256 @@
+571	VNUČKOVÁ Eva	r.Fogadová	1	2874,2877,3592,3663,3695,3696,3697,3706,3810,3831,3843,3844,3845,3871,3924,3925,3926,3927,3928,3929,3930,3933,3934,3935,3936,3937,3938,3939,3940,4343,4345
+571	VNUČKOVÁ Eva	r.Privalincová	1	2874,2877,3592,3663,3695,3696,3697,3706,3810,3831,3843,3844,3845,3871,3924,3925,3926,3927,3928,3929,3930,3933,3934,3935,3936,3937,3938,3939,3940,4343,4345
+571	VNUČKOVÁ Františka	r.Burdová	1	2877,3592,3663,3810,3844,3928,3929,3930,3933,3934,3935,3936,3937,3938,3939,3940,4343,4345
+571	VNUČKOVÁ Magdaléna		1	2874,2877,3592,3663,3695,3696,3697,3706,3810,3831,3843,3844,3845,3871,3924,3925,3926,3927,3928,3929,3930,3933,3934,3935,3936,3937,3938,3939,3940,4343,4345
+571	VNUČKOVÁ Margita	r.Jakabová	1	2877,3592,3663,3810,3844,3928,3929,3930,3933,3934,3935,3936,3937,3938,3939,3940,4343,4345
+571	VNUČKOVÁ Margita r.Martišková		1	2951,3818
+571	VNUČKOVÁ Mária		1	2174,2874,2877,2924,3592,3663,3695,3696,3697,3706,3810,3831,3843,3844,3845,3871,3924,3925,3926,3927,3928,3929,3930,3933,3934,3935,3936,3937,3938,3939,3940,4343,4345
+571	VNUČKOVÁ Mária	mal	1	2874,2924,3695,3696,3697,3706,3831,3843,3845,3871,3924,3925,3926,3927
+571	VNUČKOVÁ Mária	mal.; LSR	0	1618,3745,3762
+571	VNUČKOVÁ Mária	r.Fogadová	1	2874,2877,3592,3663,3695,3696,3697,3706,3810,3831,3843,3844,3845,3871,3924,3925,3926,3927,3928,3929,3930,3933,3934,3935,3936,3937,3938,3939,3940,4343,4345
+571	VNUČKOVÁ Mária	r.Molnárová	1	2874,2877,2924,3592,3663,3695,3696,3697,3706,3810,3831,3843,3844,3845,3871,3924,3925,3926,3927,3928,3929,3930,3933,3934,3935,3936,3937,3938,3939,3940,4343,4345
+571	VNUČKOVÁ Mária	r.Vnučková	1	2874,2877,2924,3592,3663,3695,3696,3697,3706,3810,3831,3843,3844,3845,3871,3924,3925,3926,3927,3928,3929,3930,3933,3934,3935,3936,3937,3938,3939,3940,4343,4345
+571	VNUČKOVÁ Mária	r.Vnučková; LSR	0	1618,3745,3762
+571	VNUČKOVÁ Mária mal.		1	2951,3818
+571	VNUČKOVÁ Mária r.Molnárová		1	2951,3818
+571	VNUČKOVÁ Mária, SR		1	2951,3818
+571	VNUČKOVÁ Pavlína		1	2874,2877,3592,3663,3695,3696,3697,3706,3810,3831,3843,3844,3845,3871,3924,3925,3926,3927,3928,3929,3930,3933,3934,3935,3936,3937,3938,3939,3940,4343,4345
+571	VNUČKOVÁ Pavlína	r.Krajancová ++	1	2874,2877,2924,3239,3408,3592,3663,3695,3696,3697,3706,3810,3831,3843,3844,3845,3871,3924,3925,3926,3927,3928,3929,3930,3933,3934,3935,3936,3937,3938,3939,3940,4343,4345
+571	VNUČKOVÁ Pavlína	r.Krajancová ++; LSR	0	1618,3745,3762
+571	VNUČKOVÁ Terézia		1	2874,2877,2916,2960,3592,3663,3695,3696,3697,3706,3810,3831,3843,3844,3845,3871,3924,3925,3926,3927,3928,3929,3930,3933,3934,3935,3936,3937,3938,3939,3940,4343,4345
+571	VNUČKOVÁ Terézia	mal	1	2924
+571	VNUČKOVÁ Terézia	r.Fogadová; LSR	0	1618,3745,3762
+571	VNUČKOVÁ Terézia	r.Sklenárová	1	3274,3346,3347
+571	VNUČKOVÁ Terézia mal.		1	2951,3818
+571	VOROS Pavol		1	2772,2874,2877,3470,3592,3663,3695,3696,3697,3706,3810,3831,3843,3844,3845,3871,3924,3925,3926,3927,3928,3929,3930,3933,3934,3935,3936,3937,3938,3939,3940,4343,4345
+571	VOROSOVÁ Helena		1	2772,2874,2877,3470,3592,3663,3695,3696,3697,3706,3810,3831,3843,3844,3845,3871,3924,3925,3926,3927,3928,3929,3930,3933,3934,3935,3936,3937,3938,3939,3940,4343,4345
+571	VOROSOVÁ Verona		1	2772,2874,2877,3470,3592,3663,3695,3696,3697,3706,3810,3831,3843,3844,3845,3871,3924,3925,3926,3927,3928,3929,3930,3933,3934,3935,3936,3937,3938,3939,3940,4343,4345
+571	VOROŠOVÁ Agnesa		1	3928
+571	VRABCOVÁ Paulína	r.Molnárová	1	3390
+571	VÝPALOVÁ Helena		1	3522,3541
+571	Výpalová Mária r. Homolová		0	4411
+571	VÝPALOVÁ Matilda	r.Porubská	1	3522,3541
+571	VÝPALOVÁ Vilma	mal	1	3522
+571	ŽÁK Štefan		1	2877,2924,3592,3663,3810,3844,3928,3929,3930,3933,3934,3935,3936,3937,3938,3939,3940,4343,4345
+571	ŽÁKOVÁ Helena	mal	1	1883,2874,2877,2924,2944,2945,3427,3592,3663,3695,3696,3697,3706,3810,3831,3843,3844,3845,3871,3924,3925,3926,3927,3928,3929,3930,3933,3934,3935,3936,3937,3938,3939,3940,4343,4345
+571	ŽÁKOVÁ Romana	r.Ivančíková	1	2874,2877,3592,3663,3695,3696,3697,3706,3810,3831,3843,3844,3845,3871,3924,3925,3926,3927,3928,3929,3930,3933,3934,3935,3936,3937,3938,3939,3940,4343,4345
+571	ŽEMBEROVÁ Jozefína	r.Škvareninová	1	2909
+571	ŽEMBEROVÁ Terézia	r.Vnučková	1	2909
+572	Ambož Ján	ž.Zuzana r.Riečanová z Ladzian	0	298
+572	Babic Ján r. Babic	zomr.1.6.2012,naposledy bytom Drážovce č.52	0	293
+572	Balovicová Zuzana		0	106
+572	Bartoš Pavel	ž.Anna r.Liptáková z Ladzian	0	329,331
+572	Bendik Ján	ž.Mária r.Menjárová	0	110,399
+572	Blcha Pavel	ž.Zuzana rod.Bálintová	0	5,237,242,260,261,277,278,354,394,395,397
+572	Buchanová Zuzana r. Liptáková	m.Martin	0	281,282
+572	Demian Pavol	v Belgicku	0	341
+572	Demianová Zuzana	maloletá, otec Pavel, z Hor.Jablonca	0	5,237,242,260,261,277,278,394,395,397
+572	DEMIANOVA ZUZANA, HORNY JABLONEC, SR		0	98
+572	Dlhopolcová Anna r. Valušková	m.Ján	0	180
+572	Dudková Anna r. Bernátová	zomr.29.4.1993, z Ladzian	0	369,370
+572	Filip Ján	ž.Anna r.Murínová	0	126,283,284,409
+572	Fojtíková Mária r. Halgašová	manž.neb.Ondrej	0	182,213,214
+572	FOLTAN MARTIN, SR		0	68
+572	Hámorská Zuzana r. Klimentová	m.Ján	0	319,351
+572	Hámorský Ján	ž.Zuzana r.Klimentová z Ladzian č.43	0	351
+572	Heclová Mária r. Lencová	naposledy bytom Krupina	0	90,302
+572	Hlaváč Štefan	zomr.20.5.1967,ž.Anna r.Šušková	0	5,23,114,235,237,250,252,261,391,393,397,398
+572	Hudec Ján	ž.Katarína r.Luptáková	0	182,213
+572	Husák Pavel	ž.Anna r.Liptáková	0	5,237,242,260,261,277,278,355,394,395,397
+572	Chrien Ján	ž.Zuzana r.Chrienová z Ladzian	0	374,375,379
+572	Chrien Ján	ž.Zuzana r.Miklošová	0	364,365
+572	Chrien Július	maloletý z Báčoviec	0	120
+572	Chrien Július	z Modrého Kameňa	0	120
+572	Chrien Pavel	z Báčoviec	0	120
+572	Chrienová Zuzana	slobodná, Báčovce č.d.17	0	90
+572	Chrienová Zuzana r. Miklošová	m.Ján	0	376,377,380
+572	Chrienová Zuzana r. Talajová	z Horných Šipíc	0	361
+572	Chumajová Zuzana r. Chrienová	m.Ján	0	379
+572	Jankovicová Zuzana		0	381
+572	Jankovicová Zuzana r. Francistiová	zomr.3.2.1979, m.bol Ján	0	353
+572	JANKOVICOVA ZUZANA r. FRANCISTIOVA, SR		0	85
+572	Kanková Zuzana r. Meniárová	zomr.15.3.1988	0	114,281,282,305
+572	Keľhová Anna r. Miškovicová		0	106
+572	Kiseľ Ján		0	5,23,113,235,237,242,250,252,260,261,277,278,281,282,356,391,393,394,395,397,398
+572	Kiseľová Zuzana r. Meniarová		0	23,113,235,250,252,391,393,398
+572	Klimentová Zuzana r. Krajčová	m.Ján,z Ladzian	0	319,326,351
+572	KMET JOZEF, SR		0	68
+572	Kohútová Zuzana	maloletá z Drážoviec č.d.18	0	106,321,347
+572	Kohútová Zuzana r. Majnová	m.Ján	0	106,321
+572	KOHUTOVA ZUZANA, ZVOLEN, SR		0	21,249,253,259
+572	Kolárová Zuzana r. Kučerová	z Ladzian,zomr.30.6.1987	0	361
+572	Kostor Ján	ž.Zuzana r.Vidová z Lišova č.72	0	324,325
+572	Kostorová Zuzana r. Fačarová	z Ladzian	0	322
+572	Kováč Koloman	ž.Paulína r.Glonerová	0	362
+572	Králiková Emília r. Tomišovičová		0	192
+572	Kučara Ján	ž.Zuzana r.Kučarová z Ladzian	0	320
+572	Kučarová Zuzana r. Kučarová	m.Ján z Ladzian	0	320
+572	Kyseľ Ján		0	114
+572	Lipták Ján		0	281,282
+572	Líšková Anna r. Chrienová		0	23,235,250,252,391,393,398
+572	Lišková Zuzana r. Chrienová	zomr.14.11.1980,m.bol Ján	0	113
+572	Lucina Ján	zomr.16.10.1991,ž.Zuzana r.Husáková z Drážoviec č.26	0	5,23,113,114,168,235,237,242,250,252,260,261,277,278,281,282,335,355,391,393,394,395,397,398
+572	Lucina Ján r. Lucina	zomr.3.4.1999	0	90,302
+572	Lucina Juraj	z Ladzian	0	373
+572	Lucina Juraj	ž.Zuzana r.Miklošová	0	373
+572	Meniarová Anna r. Kostorová	zomr.8.8.1952,naposledy bytom Drážovce 16	0	23,106,113,114,132,235,238,250,252,281,282,391,393,398
+572	Meniarová Zuzana r. Smelá	Dolné Šipice č.d.10	0	5,237,242,260,261,277,278,394,395,397
+572	Meniarová Zuzana r. Smelá	zomr.26.12.1975,z Dolných Šipíc č.8	0	5,195,237,242,260,261,277,278,394,395,397
+572	MENJAROVA ANNA r. KOSTOROVA, SR		0	77
+572	Menjárová Anna r. Lucinová	m.Ján	0	5,237,242,260,261,277,278,394,395,397
+572	Menjárová Anna r. Lucinová	vdova	0	346,350
+572	Mikloš Ján	ž.Zuzana r.Víťazová z Ladzian	0	327
+572	Mikloš Ľudovít	ž.Mária r.Kováčová	0	363
+572	MINKOSOVA KAROLINA, Drážovce, č. 34, SR		0	66
+572	Minkošová Karolína	z Drážoviec č.34	0	294
+572	Moravík Jozef	mlynár v Drážovciach	0	310
+572	Moravík Július	zomr.9.5.2007,naposledy bytom Drážovce č.49	0	311
+572	Mráz Pavol	zomr.22.11.1970, ž.bola Alžbeta r.Polečková	0	293
+572	Nemcová Juliana r. Maťová	naposledy Ladzany	0	23,113,114,235,250,252,281,282,314,391,393,398
+572	Nemcová Zuzana r. Smelá	z Hont.Tesár	0	384
+572	Nemec Pavel r. Nemec		0	315
+572	Nemec Pavol	maloletý	0	23,113,114,235,250,252,281,282,315,391,393,398
+572	Nemec Pavol	zomr.7.9.1971,ž.bola Zuzana r.Husáková	0	23,113,114,235,250,252,281,282,391,393,398
+572	Ondrik Pavel	ž.Mária rod.Gálová	0	5,237,242,260,261,277,278,334,352,394,395,397
+572	Ondriková Mária r. Gálová	m.Pavel	0	106,242,260,312,334,394,395
+572	Ondriska Ján	ž.Anna r.Ratkovská	0	127
+572	Oravcová Zuzana r. Paulovičová		0	330,332
+572	Pagáč Juraj	ž.Anna r.Smelá z Lišova	0	384
+572	Pagáčová Anna r. Smelá	m.Juraj z Lišova	0	384
+572	Palovicová Zuzana r. Bendíková	zomr.1.7.1966, m.bol Ján	0	106
+572	PASTRNAK JOZEF r. PASTRNAK, BACOVCE, č. 20, SR		0	19
+572	Paulínyová Anna r. Pivarčová	zomr.6.5.2005,naposledy bytom Drážovce č.38	0	300
+572	Pekárová Anna r. Ambrošová	z Ladzian,vdova	0	297
+572	Pivarčová Anna r. Mäsiarová	z Lišova,vdova	0	385
+572	Plachtinský Pavol	Drážovce č.46	0	343
+572	Pleva Jozef r. Pleva	zomr.5.11.2001,naposledy bytom Terany č.1	0	182,272
+572	Pleva Štefan r. Pleva		0	155,182,213,214,217,272,285
+572	Plevová Anna r. Vargová		0	217
+572	Ružová Zuzana r. Blchová	zomr.6.5.1980, m.bol Pavel	0	354
+572	Sabová Zuzana r. Zorkovská	z Ladzian	0	299
+572	Samuelová Zuzana r. Miklóšová		0	178,289,290
+572	Sekerešová Anna r. Žiaková		0	367,368
+572	Smelá Anna r. Urbánová	z Lišova,vdova	0	384
+572	Smelý Ján	ž.Zuzana r.Vrcová	0	106
+572	Stěhulová Zuzana r. Kohútová	zomr.27.12.2005,naposledy bytom Ľ.Fullu č.1988/20, Zvolen	0	90,302,347
+572	Šinkovic Ján	zomr.3.8.1979,ž.Zuzana r.Kocmanová,obyv.Drážoviec	0	281,282
+572	Šinkovicová Zuzana r. Kocmanová		0	90,302
+572	Tomišovicová Zuzana r. Turčanová	z Ladzian	0	371,372
+572	Turčanová Zuzana r. Jankovičová	zomr.20.6.1989	0	5,237,261,397
+572	Uhrínová Anna r. Pinterová	zomr.13.5.2011,naposledy bytom Báčovce č.23	0	73,418
+572	Urbanská Anna r. Demianová	z Ladzian	0	344
+572	Valachová Anna r. Gvočová	zomr.21.2.1966,vdova z Ladzian č.87	0	317
+572	Valušková Anna r. Kostorová	m.Ján	0	180
+572	Vicková Zuzana r. Nigrínyiová	m.Pavol	0	287,288
+572	Vrbinská Zuzana r. Balovicová		0	5,237,242,260,261,277,278,394,395,397
+572	Záborská Emília r. Pavlovicová	zomr.9.4.2007	0	90,347
+572	Záhorec Dušan r. Záhorec	zomr.12.5.2004,naposledy bytom Drážovce č.53	0	90,302,353,381
+572	ZAHOREC JOZEF, SR		0	68
+572	Závor Ján	ž.Anna r.Janovicová	0	242,260,277,278,394,395
+572	Zorkovská Zuzana r. Kohútová	z Ladzian	0	323
+572	Židíková Mária r. Šovčíková	dátum úmrtia 15.5.1992, naposledy bytom Sebechleby č.92	0	181,182,383
+573	BEJDA Demeter	zomrel	1	170,192
+573	BEJDA DEMETER		1	5
+573	BEJDA Michal	zomrel	1	170,192
+573	BEJDA MICHAL		1	5
+573	BEJDA Peter	zomrel	1	170,192
+573	BEJDA PETER		1	5
+573	BEJDA VASIL		1	5
+573	BEJDA Vasiľ	zomrel	1	170,192
+573	BEJDOVA MARIA		1	5
+573	BEJDOVÁ Mária	zomrela	1	170,192
+573	BEREŽNÁ Katarína	zomrela M.Driečna	1	198,253,312
+573	BOCHŇOVÁ Františka	r BUČKOVÁ zomrela	1	236,267
+573	BOKŠA Michal	ČR	1	195
+573	BOKŠA Michal	zomrel	1	171,263,271
+573	BOKŠA Michal	zomrel 1	1	243
+573	BOKŠA Michal, Dobkovice,ok.Dečin, č. 95, ČR		0	199
+573	BOKŠA Štefan	ČR	1	195
+573	BOKŠA Štefan	zomrel	1	259,261,357
+573	BOKŠA Štefan	zomrel 1	1	199,263,271
+573	BOKŠA ŠTEFAN		0	3
+573	BOKŠA Vasiľ	zomrel	1	195
+573	BOKŠOVÁ Anna	r ČIŽMÁROVÁ zomrela	1	243
+573	BOKŠOVÁ Mária	ČR	1	195
+573	BOKŠOVÁ Uľa	zomrela	1	171,263,271
+573	BRENIŠOVÁ Júlia	r BUČKOVÁ	1	236
+573	BUČKO Andrej	zomrel	1	199,219,223,267
+573	BUČKO Andrej	zomrel 1	1	171,263,271
+573	BUČKO Ján	zomrel	1	219,223
+573	BUČKO Ján	zomrel 1	1	171,263,267,271
+573	BUČKO Ján	ž Eva r MULÍKOVÁ zomrel	1	236
+573	BUČKO Michal	zomrel	1	171,236,263,267,271
+573	BUČKO Peter	Košice	1	236,267,271
+573	BUČKOVÁ Anna	zomrela	1	219,223
+573	BUČKOVÁ Fedosia	zomrela	1	219,223
+573	BUČKOVÁ Júlia	Hunkovce	1	267,271
+573	BUČKOVÁ Júlia	r SLIVKOVÁ zomrela	1	199
+573	BUČKOVÁ Júlia	zomrela 1	1	219,223
+573	BUČKOVÁ Mária	Trebišov	1	267,271
+573	BURCÁK Ján	zomrel	1	240
+573	BURCÁK Jozef		1	240
+573	BURCÁK Michal		1	240
+573	BURCÁK Peter		1	240
+573	BURCÁK Vasiľ		1	240
+573	BURCÁKOVÁ Anna		1	240
+573	BURCÁKOVÁ Elena		1	240
+573	BURCÁKOVÁ Terézia		1	240
+573	CAPJAK Ján	zomrel	1	267
+573	CAPKOVÁ Anna	r HAČKOVÁ zomrela M.Driečna	1	180,253
+573	CIZMAROVA HELENA r. SEMANCIKOVA		0	4
+573	Cullak Michal		1	20
+573	Cullak Mikuláš		1	20
+573	Cullak Onufer		1	20
+573	Cullaková Júlia		1	20
+573	Cullaková Mária		1	20
+573	ČIŽMÁROVÁ Helena	r SEMANČÍKOVÁ zomrela	1	197
+573	ČIŽNIAROVÁ Anna r. BOKŠOVÁ, Otovice 99, Karlové Vary, ČR		0	199
+573	ČULÁK Andrej	ž Júlia r Závadská zomrel	1	189
+573	ČULAK ANTON		0	3
+573	ČULAK Ján	zomrel	1	267
+573	ČULAK ONUFER		0	3
+573	ČULAK Vasiľ	zomrel	1	267
+573	ČULLÁK Michal	zomrel	1	174,245,261,331,353,356,357
+573	ČULLÁK Mikuláš	zomrel	1	174,245,261,331,353,356,357
+573	ČULLÁK Onufer	zomrel	1	174,245,261,331,353,356,357
+573	ČULLÁKOVÁ Júlia	zomrela	1	174,245,261,331,353,356,357
+573	ČULLÁKOVÁ Mária	zomrela	1	174,245,261,331,353,356,357
+573	DANČO Ján	zomrel M.Driečna	1	173,234,253
+573	DANČO Mazut		1	206,253
+573	Dančo Michal		1	20
+573	DANČO Michal	2	1	206,253
+573	DANČO Michal	zomrel	1	174,186,200,238,245,261,262,263,265,273,274,275,276,277,331,335,353,356,357
+573	DANČO Michal	zomrel M.Driečna	1	173,234,253
+573	DANČO Štefan	zomrel M.Driečna	1	173,234,253
+573	DANČOVÁ Anna	r RUSINOVÁ zomrela	1	174,245,261,331,353,356,357
+573	DANČOVÁ Anna	zomrela M.Driečna	1	173,234,253
+573	Dančová Anna r. Rusinová		1	20
+573	DANČOVÁ Júlia	zomrela M.Driečna	1	202
+573	DANČOVÁ Mária	r ŠAFRANOVÁ zomrela	1	215,242,246,259,261,262,335,357
+573	DANČOVÁ Mária	zomrela M.Driečna	1	173,234,253
+573	DANKOVÁ Helena	r DUROVÁ zomrela	1	168,248,249,330,337
+573	DARIVČÁKOVÁ Mária	r DUROVÁ zomrela	1	208
+573	DEMCOVA MARIA r. SVIDEROVA		1	4,5
+573	DEMČOVÁ Mária	r ŠVIDEROVÁ zomrela	1	170,192,197
+573	DIMUN Michal	zomrel M.Driečna	1	198,253,312
+573	DIMUN Mikuláš	zomrel M.Driečna	1	198,253,312
+573	DIMUNOVÁ Anna	r BUČKOVÁ ČR	1	236
+573	DIMUNOVÁ Eva	zomrela M.Driečna	1	198,253,312
+573	DUBAS Ján	zomrel	1	267
+573	DUBAS Michal	zomrel	1	267
+573	DUBASOVÁ Helena	zomrela	1	267
+573	DUDOVÁ Helena	r SLIVKOVÁ	1	239
+573	DURA Andrej	M.Driečna	1	185,214,253
+573	DURA Andrej	zomrel 1	1	240
+573	DURA Feco	zomrel	1	249
+573	Dura Ján		1	20
+573	DURA Ján	zomrel	1	240
+573	DURA Ján	zomrel 1	1	174,245,261,331,353,356,357
+573	DURA Ján	zomrel 2	1	267
+573	DURA Michal	USA	1	240
+573	DURA Michal	zomrel	1	168,248,249,330,337
+573	DURA Mitro	zomrel	1	168,248,249,330,337
+573	Dura Pavol		1	20,168,174,245,248,249,261,330,331,337,353,356,357
+573	DURA Vasiľ	M.Driečna	1	185,214,253
+573	DURA Vasiľ	zomrel 2	1	267
+573	DURA Vasiľ	ž Anna r ČURPEKOVÁ zomrel	1	208

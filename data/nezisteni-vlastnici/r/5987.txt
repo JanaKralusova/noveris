@@ -1,0 +1,256 @@
+3382	Strhár Juraj, SR	1	1	378
+3382	Strhár Juraj, SR	maloletý	1	351,370,529,1110,1157,1785,1875,1935,1937,2062
+3382	Strhár Juraj, SR	maloletý, LSR	0	1111
+3382	Strhár Juraj, SR	Záhorce č. 65, LSR	0	1521
+3382	Strhár Martin, SR		1	1083
+3382	Strhár Martin, SR	LSR	0	1084
+3382	Strhárová Anna r. Mäsiarová, SR	muž Ján	1	1180
+3382	Strhárová Anna r. Mäsiarová, SR	muž Pavol	1	1232
+3382	Strhárová Mária r. Bodišová, SR	muž Juraj, LSR	0	634
+3382	Strhárová Mária r. Pravdová, SR	LSR	0	1313
+3382	Strhársky Ján, SR		1	1393
+3382	Sunar Ján, SR		1	1512
+3382	Surovcová Anna r. Hajnáková, SR	muž Pavol	1	1283
+3382	Surovcová Anna r. Hajnáková, SR	muž Pavol, LSR	0	1284
+3382	Sutorisová Terézia r. Račková, SR	muž Aladár	1	1255
+3382	Sutorisová Terézia r. Račková, SR	muž Aladár, LSR	0	1256
+3382	Sýkorová Mária, SR		1	1053
+3382	Szabo Ján, SR	žena Mária r. Chrapková	1	1415
+3382	Szabo Ján, SR	žena Mária r. Chrapková, LSR	0	1407
+3382	Szabo Juraj, SR	mladší	1	512,1214,1861,1936
+3382	Szabo Juraj, SR	mladší, LSR	0	1215
+3382	Szabó Pál		1	528
+3382	Szabo Pavol, SR		1	1173,1468
+3382	Szabo Pavol, SR	1	1	367,868,1847,1948,1949
+3382	Szabo Pavol, SR	mladší	1	512,1213,1861,1936
+3382	Szabo Pavol, SR	mladší 1	1	1369
+3382	Szabo Pavol, SR	mladší, LSR	0	1212
+3382	Szabóová Zuzana r. Balgová	m. Juraj	1	528
+3382	Szabová Anna, SR		1	869,1870
+3382	Szabóvá Mária r. Balgaová, SR	muž Jozef	1	1488
+3382	Szabóvá Mária r. Chrapková, SR	muž Ján	1	1415
+3382	Szabóvá Mária r. Chrapková, SR	muž Ján, LSR	0	1407
+3382	Szabová Mária r. Kočíková, SR	muž Pavol	1	1192,1234
+3382	Szabová Mária r. Kočíková, SR	muž Pavol, LSR	0	1193
+3382	Szabová Zuzana r. Balgová, SR	muž Juraj	1	367,868,1173,1847,1948,1949
+3382	Szabová Zuzana, SR		1	512,1861,1936
+3382	Šebian Michal, SR		1	1036
+3382	Šimko Ján, SR	Slovenské Ďarmoty	1	1010
+3382	Šovčík Jozef, SR	žena Zuzana r. Toroková	1	1259
+3382	Šovčík Jozef, SR	žena Zuzana r. Toroková, LSR	0	1260
+3382	Šovčíková Zuzana r. Toroková, SR	muž Jozef	1	1259
+3382	Šovčíková Zuzana r. Toroková, SR	muž Jozef, LSR	0	1260
+3382	Šramka Ján, SR	1	1	506
+3382	Šramka Ján, SR	2	1	896,897,974,1765,1792
+3382	Šramka Ján, SR	2, LSR	0	901,1061,1120
+3382	Šramka Ján, SR	3, LSR	0	1305
+3382	Šramka Ján, SR	4, zomrel 03.11.1972	0	1143,1459
+3382	Šramka Ján, SR	Combel	1	183,685
+3382	Šramka Ján, SR	gyurcsi	1	888
+3382	Šramka Ján, SR	najmladší	1	1132,1237,1993
+3382	Šramka Ján, SR	najmladší, LSR	0	1133
+3382	Šramka Ján, SR	žena Mária r. Plevová	1	223,1153
+3382	Šramka Juraj	mladší 1	1	1459
+3382	Šramka Juraj, SR	1	1	351,529,1353,1875,1935,1937,2062
+3382	Šramka Juraj, SR	1, LSR	0	1374
+3382	Šramka Juraj, SR	Folyoš	1	351,529,1027,1875,1935,1937,2062
+3382	Šramka Juraj, SR	mladší	1	921
+3382	Šramka Juraj, SR	mladší 1	1	1143
+3382	Šramka Juraj, SR	mladší, LSR	0	1305
+3382	Šramka Juraj, SR	zomrel 30.08.1950, Gyurcsi	0	888,964,965
+3382	Šramka Martin, SR		1	896,897,974,975,976,1081,1765,1792
+3382	Šramka Martin, SR	LSR	0	901,1061,1082,1120
+3382	Šramka Martin, SR	žena Katarína r. Štefankinová, nar. 10.4.1887	1	351,529,1358,1526,1875,1935,1937,2062
+3382	Šramka Pavol, SR		1	1040
+3382	Šramka Pavol, SR	1, zomrel 09.10.1966	0	351,529,964,965,1030,1353,1374,1487,1875,1935,1937
+3382	Šramka Pavol, SR	Kocúr	1	351,529,1875,1935,1937,2062
+3382	Šramka Pavol, SR	mladší	1	1237
+3382	Šramka Pavol, SR	mladší 2	1	351,529,1875,1935,1937,2062
+3382	Šramka Pavol, SR	žena Mária r. Strelníková	1	1562,1619
+3382	Šramka Štefan, SR	starší	1	1381
+3382	Šramková Anna r. Kocúrová, SR	muž Pavol	1	921
+3382	Šramková Anna r. Kocúrová, SR	muž Pavol, LSR	0	1305
+3382	Šramková Anna r. Plevová, SR		1	964
+3382	Šramková Anna r. Plevová, SR	LSR	0	965
+3382	Šramková Katarína r. Štefankinová, SR		1	351,529,1358,1875,1935,1937,2062
+3382	Šramková Katarína, SR	1	1	568
+3382	Šramková Mária r. Oravcová, SR		1	1172
+3382	Šramková Mária r. Plevová, SR		1	223,1153
+3382	Šramková Mária r. Puškárová, SR	muž Pavol	1	974,976
+3382	Šramková Mária r. Puškárová, SR	muž Pavol, LSR	0	901,1120
+3382	Talpaš František, SR		1	1423
+3382	Talpaš Ján, SR	Bado	1	1432
+3382	Talpaš Ján, SR	Čajka	1	1435
+3382	Talpaš Július, SR	Vrbovka č. 81	1	740
+3382	Talpaš Michal, SR	Čajka, žena Júlia r. Martonová	1	1425
+3382	Talpaš Pavol, SR		1	740
+3382	Talpašová Juliana r. Martonová, SR		1	1437
+3382	Tantoš Emil, SR		1	1330
+3382	Tantoš Gejza, SR		1	1330
+3382	Tantoš Július, SR		1	1330
+3382	Tantoš Vojtech, SR		1	1330
+3382	Tederer Moric, SR		1	1161
+3382	Timari Matej, SR		1	1297
+3382	Timari Matej, SR	LSR	0	1298
+3382	Toldi Ondrej, SR	1	1	1511,1767
+3382	Toldi Ondrej, SR	maloletý	1	966,967,1796,1968
+3382	Toldi Ondrej, SR	maloletý, LSR	0	1074
+3382	Tomišová Mária r. Filipová, SR	muž Samuel	1	1483
+3382	Tomišová Mária r. Filipová, SR	muž Samuel, LSR	0	1484
+3382	Töröková Anna r. Hriechová, SR		1	1495
+3382	Tóth Ondrej, SR	Malá Čalomija č. 71	1	933
+3382	Tóthová Zuzana r. Bytčianska, SR		1	1419
+3382	Trníková Zuzana, SR	Záhorce č. 176	1	1532
+3382	Tuček Štefan, SR		1	1046
+3382	Turčan Ján, SR		1	1273
+3382	Turčan Ján, SR	LSR	0	1274
+3382	Turčanová Mária r. Jančoková, SR	muž Štefan	1	1275
+3382	Turčanová Mária r. Jančoková, SR	muž Štefan, LSR	0	1276
+3382	Ulč Václav, SR		1	1469
+3382	Urgula Ján, SR		1	1290
+3382	Urgula Ján, SR	LSR	0	1291
+3382	Vajdíková Emília r. Jonášová, SR		1	1279
+3382	Vajdíková Emília r. Jonášová, SR	LSR	0	1280
+3382	Varga Juraj, SR		1	1137
+3382	Varga Juraj, SR	LSR	0	1138
+3382	Varga Juraj, SR	maloletý	1	1448
+3382	Varga Pavol, SR		1	388,1018,1500,1786
+3382	Varga Pavol, SR	1	1	351,529,1355,1693,1875,1935,1937,2062
+3382	Varga Pavol, SR	1, LSR	0	1350,1694
+3382	Vargová Anna	maloletá	1	1448
+3382	Vargová Anna r. Bodišová, SR	zomrela 11.04.1981	0	964,965,973
+3382	Vargová Zuzana r. Detvanová, SR		1	1295
+3382	Vargová Zuzana r. Detvanová, SR	LSR	0	1296
+3382	Vargová Zuzana r. Filipová, SR		1	1491
+3382	Vereská Alžbeta, SR		1	1558
+3382	Vereski Ján, SR		1	963
+3382	Vereski Ján, SR	1	1	731
+3382	Vereski Ján, SR	2	1	637
+3382	Vereski Ján, SR	3	1	1195
+3382	Vereski Ján, SR	LSR	0	962
+3382	Vereski Juraj, SR		1	963
+3382	Vereski Juraj, SR	1	1	932,979
+3382	Vereski Juraj, SR	1, LSR	0	1100
+3382	Vereski Juraj, SR	2	1	1195
+3382	Vereski Juraj, SR	LSR	0	962
+3382	Vereski Martin, SR		1	963
+3382	Vereski Martin, SR	1	1	637
+3382	Vereski Martin, SR	LSR	0	962
+3382	Vereski Michal, SR		1	1188
+3382	Vereski Michal, SR	1	1	352
+3382	Vereski Michal, SR	LSR	0	1189
+3382	Vereski Michal, SR	maloletý	1	963
+3382	Vereski Michal, SR	maloletý, LSR	0	962
+3382	Vereski Michal, SR	žena Alžbeta r. Šramková	1	1371,1502
+3382	Vereskiová Alžbeta r. Šramková, SR		1	1188,1371,1502
+3382	Vereskiová Alžbeta r. Šramková, SR	LSR	0	1189
+3382	Vereskiová Anna r. Benediková, SR	muž Michal	1	1502
+3382	Vereskiová Mária, SR		1	963
+3382	Vereskiová Mária, SR	1	1	637
+3382	Vereskiová Mária, SR	LSR	0	962
+3382	Vereskiová Zuzana, SR		1	1318
+3382	Vereskiová Zuzana, SR	LSR	0	1319
+3382	Vido Juraj, SR		1	1471
+3382	Vido Martin, SR		1	1471
+3382	Vido Ondrej, SR		1	1471
+3382	Vido Pavol, SR		1	1508
+3382	Vidová Mária r. Balgová, SR		1	1471
+3382	Vidová Mária r. Balgová, SR	LSR	0	1308
+3382	Višniar Jozef, SR		1	1015
+3382	Višniar Pavol, SR		1	1480
+3382	Zvinyiová Anna r. Ruszová, SR	vdova, muž Jozef	1	1253
+3382	Zvinyiová Anna r. Ruszová, SR	vdova, muž Jozef, LSR	0	1254
+3383	Almassyová Anna, nar.10.09.1916 nar.10.09.1916		0	8688
+3383	Andrejčíková Oľga r. Turanská, nar. 4.6.1955, posledne bytom Potočná 37, Báhoň, zom.28.04.2018 nar. 4.6.1955, posledne bytom Potočná 37, Báhoň, zom.28.04.2018		0	8688
+3383	Antalová Mária r. Rácová		0	8708,8846
+3383	Bartek František r. Bartek	ž. Jozefína r. Papšíková	0	8688,8715
+3383	Barteková Jozefína r. Papšíková	m. František	0	8688,8715
+3383	Belešová Mária r. Saboová	malol. 1936, po Františkovi a Rozálii	0	7605
+3383	Belzárová Mária r. Zárecká		0	2149,5520,8724,8728
+3383	Beňo Jozef r. Beňo, ž.Mária,r.Sithová,nar.16.7.1908,posl.bytom Na Vlkovkách 7,BA, zom.13.04.1993 ž.Mária,r.Sithová,nar.16.7.1908,posl.bytom Na Vlkovkách 7,BA, zom.13.04.1993		0	8688,8715
+3383	Besedič Ján r. Besedič	po Kataríne	0	6249,6338
+3383	Besedič Ján, Záhorská Bystrica Záhorská Bystrica		0	8688
+3383	Besedič Jozef r. Besedič, nar.03.06.1922, zom.11.11.1974 nar.03.06.1922, zom.11.11.1974		0	8688,8715
+3383	Besedič Štefan r. Besedič		0	2618,6249,6338
+3383	Besedič Štefan, Záhorská Bystrica Záhorská Bystrica		0	8688
+3383	Besedičová Emília r. Bilačičová	m. Pavol, ZB 380, zom. 18.4.1972	0	7209
+3383	Besedičová Katarína r. Maderová		0	8688
+3383	Besedičová Katarína r. Tadamová	m. Ján	0	2619
+3383	Besedičová Mária r. Ščepánová, zom.17.01.2013 zom.17.01.2013		0	8688
+3383	Besedičová Pavlína r. Jarošová	m. Ladislav	0	4495,6249,6338
+3383	Besedičová Pavlína r. Jarošová, Záhorská Bystrica, zomrela 1968 Záhorská Bystrica, zomrela 1968		0	8688
+3383	Bezvodová Katarína r. Maďarová	m. Jakub	0	6249,6338
+3383	Bezvodová Štefánia r. Maderová, zom.07.08.1983 zom.07.08.1983		0	8688
+3383	Bielovič Florián r. Bielovič		0	7603
+3383	Bielovič Matej r. Bielovič	ž. Mária r. Liďáková	0	8688,8715
+3383	Bielovič Rudolf r. Bielovič		0	7324
+3383	Bielovič Rudolf, narodený 6.4.1907 narodený 6.4.1907		0	8688
+3383	Bielovičová Alžbeta r. Sajanová, m. Ladislav m. Ladislav		0	8724
+3383	Bielovičová Františka		0	6249,6338
+3383	Bielovičová Františka r. Bielošičová, nar. 30.3.1907 nar. 30.3.1907		0	8688
+3383	Bielovičová Františka r. Drahošová, nar.12.2.1915 nar.12.2.1915		0	8688
+3383	Bielovičová Františka, Záhorská Bystrica Záhorská Bystrica		0	8688
+3383	Bielovičová Mária		0	6249,6338
+3383	Bielovičová Mária r. Liďáková	m. Matej, zomrela 17,1,1966	0	6249,6338
+3383	Bielovičová Mária r. Liďáková, manžel Matej, zom.17.01.1966 manžel Matej, zom.17.01.1966		0	8688
+3383	Bielovičová Mária, Záhorská Bystrica Záhorská Bystrica		0	8688
+3383	Bielovičová Pavlína r. Jurašičová	m. Rudolf	0	8688,8715
+3383	Bilačič František r. Kristlová, manž.Amália manž.Amália		0	8688
+3383	Bilačič Ján r. Bilačič		0	4484,6247,7798
+3383	Bilačič Ján r. Bilačič	po Pavlíne r. Mihalovičovej	0	6249,6338
+3383	Bilačič Ján, Záhorská Bystrica Záhorská Bystrica		0	8688
+3383	Bilačič Jozef r. Bilačič		0	3881
+3383	Bilačič Jozef r. Bilačič	po Pavlíne Rácovej r. Mihalovičovej	0	6249,6338
+3383	Bilačič Jozef r. Bilačič, ž. Anna r. Ivánková, nar.07.03.1901, ČA 42, Bratislava, zom.08.07.1981 ž. Anna r. Ivánková, nar.07.03.1901, ČA 42, Bratislava, zom.08.07.1981		0	8688,8695,8715
+3383	Bilačič Jozef, Dr.		0	8076
+3383	Bilačič Jozef, Záhorská Bystrica Záhorská Bystrica		0	8688
+3383	Bilačič Martin r. Bilačič		0	7434
+3383	Bilačič Štefan r. Bilačič		0	3881
+3383	Bilačič Štefan r. Bilačič	ml., po Štefanovi	0	6249,6338
+3383	Bilačič Štefan, Záhorská Bystrica Záhorská Bystrica		0	8688
+3383	Bilačičová Alžbeta r. Mišovská		0	8688
+3383	Bilačičová Alžbeta r. Mišovská	vd	0	6249,6338
+3383	Bilačičová Amália r. Kristlová, m. František, nar. 10.11.1894 m. František, nar. 10.11.1894		0	8688,8715,9257,9484
+3383	Bilačičová Anna r. Ivánková	m. Jozef	0	8688,8715
+3383	Bilačičová Anna r. Neradovičová	m. František, zomrela 13.12.1967	0	6249,6338
+3383	Bilačičová Anna r. Neradovičová, nar.4.1.1919 nar.4.1.1919		0	8688
+3383	Bilačičová Eva r. Rácová		0	7434
+3383	Bilačičová Jozefína r. Jánošíková		0	8076
+3383	Bilačičová Mária	malol. 1938, po Štefanovi	0	6249,6338
+3383	Bilačičová Mária, malol. 1938, po Štefanovi malol. 1938, po Štefanovi		0	8688
+3383	Bilačičová Mária, nar.06.09.1920, zom.10.05.1971 nar.06.09.1920, zom.10.05.1971		0	8688,8715
+3383	Black Andela r. Mihalovičová, nar.21.09.1921, posl.bytom Šancová 88, BA nar.21.09.1921, posl.bytom Šancová 88, BA		0	8715
+3383	Blaho Rudolf r. Blaho	malol., po Jánovi a Kataríne	0	8688,8715
+3383	Blahová Katarína r. Lukáčová	vd., zomrela 16.12.1971	0	6249,6338
+3383	Blahová Katarína r. Lukáčová, zomrela 1971 zomrela 1971		0	8688
+3383	Blažejová Rozália r. Ščepanová	po Martinovi a Eve, Záhorská Bystrica 314	0	7372
+3383	Blažejová Rozália r. Ščepanová, po Martinovi a Eve, Záhorská Bystrica 314 po Martinovi a Eve, Záhorská Bystrica 314		0	9416
+3383	Blažek Ondrej		0	8688
+3383	Blažeková Jozefína r. Petrášková		0	6249,6338
+3383	Blažeková Rozália r. Poláková		0	6721,6883,7180,7182,7377,7446,8688,8708,8889,9484,9887,9899,9925,9927
+3383	Blažková Rozália r. Poláková		0	6249,6338
+3383	Blecha Anton r. Blecha	malol. 1924, s Františkou a Jánom	0	6249,6338
+3383	Blecha Anton, malol.1924 malol.1924		0	8688
+3383	Blecha Ján r. Blecha	Štefan, Viliam Rudolf	0	4021,5845,5861,5862,6249,6338
+3383	Blecha Ján r. Blecha, Štefan, Viliam Rudolf... Štefan, Viliam Rudolf...		0	8679,8985
+3383	Blecha Jozef r. Blecha	malol. 1931, po Anne r. Ščepánovej	0	6249,6338
+3383	Blecha Jozef r. Blecha, plnoletý už v r. 1937, nar.14.11.1909, Trstínska 19, BA, zom.11.07.1991 plnoletý už v r. 1937, nar.14.11.1909, Trstínska 19, BA, zom.11.07.1991		0	9365
+3383	Blecha Jozef, nar. 14.11.1909 nar. 14.11.1909		0	8688
+3383	Blecha Jozef, Záhorská Bystrica Záhorská Bystrica		0	8688
+3383	Blecha Marián r. Blecha, nar. 26.3.1962, Richmond, Canada nar. 26.3.1962, Richmond, Canada		0	8688,8715
+3383	Blecha Ondrej r. Blecha		0	7189
+3383	Blecha Viliam r. Blecha, nar.26.11.1910, posl.bytom Fraňa Krála 7, BA, zom.04.01.1975 nar.26.11.1910, posl.bytom Fraňa Krála 7, BA, zom.04.01.1975		0	8688,8715
+3383	Blechová Anna r. Osuská	m. Albert, zomrela v USA	0	3495,7443
+3383	Blechová Anna r. Osuská, m. Albert, zomrela v USA m. Albert, zomrela v USA		0	8817,9484
+3383	Blechová Mária r. Brliťová		0	8688
+3383	Bomba Ján r. Bomba	ž. Františka r. Ondrejkovičová	0	8688,8715
+3383	Bombová Františka r. Ondrejkovičová	m. Ján	0	8715
+3383	Bombová Františka r. Ondrejkovičová, nar.10.12.1919 nar.10.12.1919		0	8688
+3383	Borák Ján r. Borák	mladší, po Margite	0	6249,6338,7296
+3383	Borák Ján r. Borák, nar.14.09.1922, posl.bytom Riazanská 8, BA, zom.02.05.1987 nar.14.09.1922, posl.bytom Riazanská 8, BA, zom.02.05.1987		0	8688,8715
+3383	Borák Ján, ml., po Margite, nar.09.06.1924 ml., po Margite, nar.09.06.1924		0	8688
+3383	Borák Ján, po Rudolfovi, nar.22.7.1882 po Rudolfovi, nar.22.7.1882		0	8688
+3383	Borák Jozef r. Borák, nar.21.8.1937, posl.bytom Pútnická 132, BA, zom.21.09.2016 nar.21.8.1937, posl.bytom Pútnická 132, BA, zom.21.09.2016		0	8688
+3383	Boráková Jozefína r. Požgayová		0	6249,6338
+3383	Boráková Jozefína r. Požgayová	zomrela 5.2.1982	0	7515
+3383	Boráková Jozefína r. Požgayová, zom.05.02.1982 zom.05.02.1982		0	8688,8921,9477

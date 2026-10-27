@@ -1,0 +1,256 @@
+3011	Káka Ján	sokolík, mladší	0	577,578
+3011	Káka Ján	ž. Anna, r. Ďalogová	0	577,578
+3011	Káka Ján	ž. Mária r. Aláčová	0	577
+3011	Káka Ján	ž. Mária, r. Aláčová	0	578
+3011	Káka Ján	židík	0	577,578
+3011	Káka Juraj		0	577,578
+3011	Káka Juraj	ember	0	577,578,579
+3011	Káka Juraj	mal	0	577,578
+3011	Káka Juraj	ž. Anna, r. Káková	0	579
+3011	Káka Juraj	ž. Anna, r. Sumráková-ember	0	577
+3011	Káka Juraj	ž. Anna, r. Sumráková, ember	0	578
+3011	Káka Ondrej		0	577,578
+3011	Káka Ondrej	mal	0	577,578
+3011	Káka Ondrej	ž. Mária r. Lacková	0	577
+3011	Káka Ondrej	ž. Mária, r. Lacková	0	578
+3011	Káka Pavel		0	577,578,579
+3011	Káka Pavel	židík	0	577,578
+3011	Káka Zuzana r. Lacko		0	431
+3011	Káková Anna		0	577,578
+3011	Káková Anna	cumrák	0	579
+3011	Káková Anna	mal	0	577,578
+3011	Káková Anna r. Aláčová	židík	0	577,578
+3011	Káková Anna r. Bobálová	m. Juraj	0	588
+3011	Káková Anna r. Hanusová	m. Ondrej	0	577,578
+3011	Káková Anna r. Košková	m. Ján	0	590
+3011	Káková Anna r. Košková	m.Ján	0	920
+3011	Káková Anna r. Považancová	m. Ján	0	577,578
+3011	Káková Anna r. Sumráková	m. Juraj	0	577,578
+3011	Káková Anna r. Svoreňová, 991 21, Závada, SR		0	577,578
+3011	Káková Anna r. Zvarová		0	577,578
+3011	Káková Mária r. Svoreňová		0	577,578
+3011	Káková Mária r. Zvarová		0	577,578
+3011	Káková Mária r. Zvarová, 985 12, Budiná - lazy, č. 149, SR	nebohá	0	577,578
+3011	Káková Zuzana r. Káková	m. Juraj	0	577,578
+3011	Káková Zuzana r. Lacková		0	577,578
+3011	Kalinová Katarína r. Sýkorová	naposledy bytom, Rudlovská 82, B.Bystrica	0	170
+3011	Kanda Ondrej		0	577,578
+3011	Kandová Anna r. Kandová	m. Martin	0	577,578
+3011	Kandová Katarína r. Peťková		0	577,578
+3011	Kandová Zuzana r. Čerpáková	m. Ján	0	577,578
+3011	Kapcátová Mária r. Aláčová	nebohá	0	577,578
+3011	Kelement Juraj r. Kelement	naposledy bytom Tuhár 8	0	379,568,692,783,784,1124
+3011	Kelementová Zuzanna r. Banašová	naposledy bytom, Tuhár 24	0	568
+3011	Kiseľová Mária r. Chabina		0	909
+3011	Klein Aladár r. Klein	Čadca	0	795
+3011	Klein Eugen r. Klein	Bratislava	0	795
+3011	Klein Oskar r. Klein		0	795
+3011	Kleinová Terézia	v Amerike	0	795
+3011	Kliment Ján r. Kliment	ž.Zuzana r.Čemanová	0	107,512,568,767,768,797,828,912
+3011	Kliment Jozef r. Kliment	naposledy bytom Tuhár 20	0	889
+3011	Kliment Pavel r. Kliment	ž.Mária r.Koporecová	0	636,637
+3011	Klimentová Katarína r. Hrnčiarová	Dcéra Jána Jedličku	0	360,361,363,364,1101,1106,1107
+3011	Klimentová Mária r. Fízeľová	m.Ján	0	855
+3011	Klimentová Zuzana r. Čemanová	naposledy bytom Tuhár	0	568
+3011	Kocianová Mária r. Sýkorová	Brno	0	170
+3011	Konôpková Anna r. Hašková	m. Ondrej	0	577,578
+3011	Koporec Jozef r. Koporec	syn Márie	0	857
+3011	Koporecová Anna	dcéra Pavla	0	568,816
+3011	Koška Ján	čajo	0	577,578,590
+3011	Koška Ján	horný	0	577,578,579
+3011	Koška Ján	ž. Mária, r. Košková	0	579
+3011	Koška Ján r. Koška	Čajo	0	920
+3011	Koška Ján r. Koška	Dolná Fabianka	0	878
+3011	Koška Ján r. Koška	Horný	0	878
+3011	Koška Ján r. Koška	ž.Mária r.Košková,čd 2983/1897	0	878
+3011	Koška Ján r. Koška, Dolná Fabianka, Lučenec, PSČ 984 01, SR	nebohý	0	491,577,578,579,591,592,945,946
+3011	Koška Juraj		0	577,578,579
+3011	Koška Juraj	nebohý, pleva	0	577,578
+3011	Koška Juraj r. Koška		0	878
+3011	Koška Pavel	Ďurov	0	577,578
+3011	Koška Pavel	nebohý, ž. Anna	0	587
+3011	Koška Pavel	pleva	0	577,578
+3011	Koška Pavel	spodný	0	591
+3011	Košková Anna		0	577,578,579,590
+3011	Košková Anna	čajo	0	591
+3011	Košková Anna	čd 1705/23	0	878,920
+3011	Košková Anna	čd 2568/27	0	878
+3011	Košková Anna	prešpán	0	577,578
+3011	Košková Anna r. Melicherčíková		0	577,578,591
+3011	Košková Elena r. Ďalogová		0	577,578
+3011	Košková Mária	čd 1115/1880	0	921
+3011	Košková Mária	mal	0	577,578
+3011	Košková Zuzana	bosniak	0	579,592,878
+3011	Košková Zuzana r. Košková	m. Pavel	0	590
+3011	Košková Zuzana r. Košková	m.Pavel	0	920
+3011	Košková Zuzana r. Palagová	m. Ján	0	578
+3011	Košková Zuzana r. Palagová	m.Ján	0	577
+3011	Kováčiková Mária r. Barcajová, 980 41, Bottovo, SR		0	577,578
+3011	Kozaová Anna r. Stančíková		0	612,887
+3011	Kučera Juraj		0	577,578
+3011	Kučera Juraj	svrškár	0	577,578
+3011	Kučerová Zuzana	mal	0	577,578
+3011	Kukla Juraj	aláč	0	577,578
+3011	Kuric Jozef		0	577,578
+3011	Lacko Ján		0	577,578
+3011	Lacko Ján r. Lacko	ž.Zuzana, naposledy bytom Budiná 36	0	878
+3011	Lacko Martin		0	577,578
+3011	Lacko Ondrej	nebohý, katolík	0	577,578
+3011	Lacko Pavel		0	577,578
+3011	Lacko Pavel	katolík	0	577,578,579
+3011	Lacko Pavel r. Lacko	katolík	0	878
+3011	Lacková Anna	goliš	0	577,578
+3011	Lacková Anna	mal	0	577,578
+3011	Lacková Mária	goliš	0	577,578,579,878,921
+3011	Lacková Mária	mal., goliš	0	578
+3011	Lacková Mária r. Aláčová	m.Ján	0	878
+3011	Lacková Mária r. Hrudková	m.Pavel	0	878
+3011	Lacková Mária r. Palagová		0	577,578
+3011	Lacková Zuzana	goliš	0	577,578
+3011	Lacková Zuzana r. Galová		0	577,578
+3011	Lapin Ondrej	mal	0	577,578
+3011	Lauko Ján		0	577,578
+3011	Lauko Pavel		0	577,578
+3011	Lauková Anna r. Považancová		0	577,578
+3011	Lauková Eva r. Sujová		0	577,578
+3011	Lauková Johana	mal	0	577,578
+3011	Lauková Katarína		0	577,578
+3011	Lauková Katarína	mal	0	577,578
+3011	Lauková Katarína r. Kandová	m. Štefan	0	577,578
+3011	Lauková Katarína r. Lapinová		0	577,578
+3011	Lauková Mária		0	577,578
+3011	Lauková Mária	mal	0	577,578
+3011	Lupkan Juraj		0	577,578
+3011	Majeríková Viera r. Pentková	naposledy bytom Lazná 271/20 Divín	0	688,1129
+3011	Martinská Anna r. Hrnčiarová	naposledy bytom Tuhár 140	0	205
+3011	Martinská Mária r. Čemanová	naposledy bytom Tuhár 135	0	568
+3011	Martinská Mária r. Klimáková		0	444
+3011	Martinská Mária r. Stančíková		0	612
+3011	Martinský Matúš r. Martinský	naposledy bytom, Tuhár 43	0	459,639,771,772,877,1023
+3011	Maťovský Ján	ž. Anna, r. Sýkorová	0	577,578
+3011	Melicherčík Ján	nebohý, ž. Anna r. Bobálová	0	577
+3011	Melicherčík Ján	nebohý, ž. Anna, r. Bobálová	0	578
+3011	Melicherčík Juraj		0	577,578,591
+3011	Melicherčík Ondrej		0	579
+3011	Melicherčík Ondrej	slob	0	577,578
+3011	Melicherčík Pavel		0	577,578
+3011	Melicherčík Pavel	ž. Alžbeta r. Švarcová	0	577
+3011	Melicherčík Pavel	ž. Alžbeta, r. Švarcová	0	578,591
+3011	Melicherčíková Terézia r. Surovcová	nebohá	0	577,578,579,591
+3011	Moravčík Ján		0	577,578
+3011	Moravčík Juraj	cukor, mladší	0	577,578
+3011	Moravčík Lukáč		0	577,578
+3011	Moravčíková Katarína		0	577,578
+3011	Moravčíková Mária r. Môťovská	m. Pavel	0	577,578
+3011	Moťovský Pavel		0	577,578
+3011	Nôťová Mária r. Peťková		0	577,578
+3011	Oravec Ján r. Oravec	naposledy bytom Tuhár 181	0	448,480
+3011	Paceková Katarína r. Smädová	Ružiná	0	568
+3011	Palaga Adam		0	577,578
+3011	Palaga Adam	mal	0	577,578
+3011	Palaga Ján		0	577,578
+3011	Palaga Juraj	Jurajov syn, mravec	0	584
+3011	Palaga Ondrej	mladší	0	577,578
+3011	Palaga Pavel		0	577,578,579
+3011	Palaga Pavel	mal	0	577,578
+3011	Palaga Pavel r. Palaga	čd 2983/1897	0	878
+3011	Paľaga Vladimír r. Paľaga	naposledy bytom, Budiná-Lazy 208	0	334,335
+3011	Paľaga Vladimír r. Paľaga	naposledy bytom, Budiná-Lazy 208; naposledy bytom, Budiná-Lazy 208	0	785,786,941
+3011	Palagová Anna r. Bobálová		0	587
+3011	Palagová Anna r. Sýkorová		0	577,578
+3011	Palagová Mária r. Lacková	m. Ondrej	0	577,578
+3011	Palagová Mária r. Palagová		0	577,578,584
+3011	Palagová Mária r. Sýkorová	m. Pavel	0	584
+3011	Palagová Zuzana r. Káková	m. Ján	0	577,578
+3011	Palagová Zuzana r. Lacková		0	577,578,579,878
+3011	Pavlová Mária r. Ďalogová		0	577,578
+3011	Peťka Ján		0	577,578,579
+3011	Peťka Ján	Ďurov	0	577,578
+3011	Peťka Ján	mal	0	577,578
+3011	Peťka Ján	šibien	0	579,591
+3011	Peťka Ján r. Peťka	čd 2470/25	0	878,921
+3011	Peťka Ján r. Peťka	čd 2674/42	0	878
+3011	Peťka Ján r. Peťka	Šibien	0	878
+3011	Peťka Juraj		0	577,578
+3011	Peťka Pavel		0	577,578,579
+3011	Peťka Pavel	Ďurov	0	577,578
+3011	Peťka Pavel	šibien	0	579
+3011	Peťka Pavel r. Peťka	čd 2470/25	0	921
+3011	Peťka Pavel r. Peťka	čd 2983/1897	0	878
+3011	Peťka Pavel r. Peťka	Šibien	0	878
+3011	Peťková Anna r. Čerpáková	m. Juraj	0	577,578
+3011	Peťková Anna r. Košková	m. Ján	0	577,578
+3011	Peťková Anna r. Košková	m.Ján	0	921
+3011	Peťková Dorota		0	577,578
+3011	Peťková Katarína		0	577,578
+3011	Peťková Mária		0	577,578,579
+3011	Peťková Mária	čd 2470/25	0	878,921
+3011	Peťková Zuzana		0	577,578,579
+3011	Peťková Zuzana	čd 2470/25	0	878,921
+3011	Pivka Martin		0	577,578
+3011	Pivka Matej	mal	0	577,578
+3011	Považancová Mária r. Ambrošová	naposledy bytom Budiná 37	0	878
+3011	Považancová Mária r. Barcajová	nebohá	0	577,578
+3011	Považancová Mária r. Košková	nebohá	0	921
+3011	Považanec Ján		0	577,578
+3011	Považanec Ján r. Považanec	čd 2983/1897	0	878
+3011	Považanec Juraj		0	577,578
+3011	Považanec Juraj	nebohý	0	577,578
+3011	Považanec Ondrej		0	577,578
+3011	Považanec Pavel		0	577,578
+3011	Považanec Pavel	nebohý, ž. Zuzana r. Ambrošová	0	577
+3011	Považanec Pavel	nebohý, ž. Zuzana, r. Ambrošová	0	578
+3011	Rajková Anna r. Moravčíková	m. Ján	0	577,578
+3011	Raková Anna r. Zvarová	židík	0	577,578
+3011	Raková Mária r. Zvarová	boháč	0	577,578
+3011	Rakytka Mária r. Čemanová	v Maďarsku	0	520,568
+3011	Rapšická Anna	Budapešť	0	205,419,420,444,568,793,865,910
+3011	Sekereš Ján		0	577,578
+3011	Sekereš Jozef		0	577,578
+3011	Sekereš Juraj		0	577,578
+3011	Sekereš Tomáš		0	577,578
+3011	Sekerešová Anna		0	577,578,579
+3011	Sekerešová Anna r. Pivková		0	577,578
+3011	Sekerešová Dorota r. Budáčová		0	577,578
+3011	Sekerešová Katarína r. Faršangová		0	577,578
+3011	Sekerešová Katarína r. Hašková	nebohá, m. Štefan	0	577,578
+3011	Sekerešová Katarína r. Svoreňová	m. Jozef	0	577,578
+3011	Sekerešová Margita r. Luptáková		0	577,578
+3011	Sekerešová Mária		0	577,578,579
+3011	Sekerešová Mária r. Barcajová		0	577,578
+3011	Sekerešová Zuzana		0	577,578
+3011	Sluková Mária r. Uhrínová	Budiná 85	0	878
+3011	Stančík Andrej r. Stančík	ž.Marta r.Brťková	0	619
+3011	Stančík Jozef r. Stančík	ž.Mária r.Sýkorová	0	895
+3011	Stehlíková Emília r. Tkáčová		0	577,578
+3011	Strečko Ján	nebohý	0	577,578
+3011	Strečko Ján r. Strečko	čd 1993/34	0	878
+3011	Strečko Ján r. Strečko	čd 5441/31	0	878
+3011	Strečková Katarína r. Sekerešová	nebohá	0	577,578,579
+3011	Suja Ján	Ďurov	0	577,578
+3011	Suja Ján r. Suja	Grešo	0	878
+3011	Suja Juraj r. Suja	č.d.2983/1897	0	878
+3011	Suja Ondrej		0	577,578
+3011	Sujová Anna r. Hronská	m. Juraj	0	577,578
+3011	Sujová Mária r. Kandová	nebohá	0	577,578
+3011	Sujová Zuzana		0	577,578
+3011	Svorad Andrej r. Svorad	pozastavca bez dedičov	0	568
+3011	Svorad Ján r. Svorad	pozastavca bez dedičov	0	568
+3011	Svorad Tomáš r. Svorad	pozastavca bez dedičov	0	568
+3011	Svoreň Ján		0	577,578
+3011	Svoreň Ján	Ďurov, mal	0	577,578
+3011	Svoreň Ján	mlynár	0	577,578
+3011	Svoreň Ján	tretjak	0	577,578
+3011	Svoreň Ján	ž. Anna, r. Sýkorová	0	577,578
+3011	Svoreň Ján r. Svoreň	Ďurnoš,ž.Katarína r.Kuriš,Budiná č.257	0	937
+3011	Svoreň Juraj		0	577,578,579
+3011	Svoreň Juraj r. Svoreň		0	878
+3011	Svoreň Juraj r. Svoreň	čd 2983/1897	0	878
+3011	Svoreň Martin		0	577,578
+3011	Svoreň Ondrej		0	577,578
+3011	Svoreň Ondrej r. Svoreň	Mikuš	0	878
+3011	Svoreň Pavel	nebohý, mlynár	0	577,578
+3011	Svoreň Pavel	ž. Mária, r. Čemeričková	0	577,578
+3011	Svoreň Tomáš		0	577,578
+3011	Svoreňová Anna		0	577,578
+3011	Svoreňová Anna	Ďurova, mal	0	577,578

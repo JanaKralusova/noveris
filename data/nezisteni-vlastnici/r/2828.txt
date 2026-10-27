@@ -1,0 +1,256 @@
+1581	URMÍN Ondrej		0	384,610,623,631
+1581	URMÍNOVÁ Anna		0	384,631
+1581	VÁBIK Ján		0	586
+1581	VÁBIK Jozef	mal	0	586
+1581	VÁBIK Ondrej		0	586
+1581	Vámberyová Oľga r. Vamossyová, Dr.		1	1202
+1581	Vámossy Karol		1	1202
+1581	Vámossyová Boriška		1	1202
+1581	Vámossyová Katarína		1	1202
+1581	Vámossyová Klára		1	1202
+1581	VANČOVÁ Mária		0	861
+1581	VAŇKO Ondrej		0	387,727,729
+1581	VAŇKOVÁ Anna	Ondrejova rod. Záveská	0	387
+1581	Vaňková Anna r. Záveská	Ondrejova	0	727,729
+1581	Vanoch Anton	žen. s Máriou rod. Cuperovou z Ľubochne	1	1101
+1581	Vaňoch Anton	mal	0	847
+1581	Vanoch Jozef	žen.s Annou Okálovou z Ľubochne, zomrel	1	1101
+1581	Vaňochová Anna	mal	0	847
+1581	Vaňochová Mária	mal	0	847
+1581	Videcká Žofia r. Letková		0	731
+1581	Videcká Žofia r. Letková	zom. 08.10.1998 nepr. v D 3171/98	0	932
+1581	Víťazová Anna r. Chyla		0	602,623
+1581	VÍŤAZOVÁ Helena	rod. Švindrová	0	401,700
+1581	Víťazová Helena r. Švindrová		0	635
+1581	VÍŤAZOVÁ Mária	Jozefova, rod. Zubajová	0	340,344,1387
+1581	VÍŤAZOVÁ Mária	rod. Kuderová	0	700
+1581	Víťazová Mária r. Zubajová	Jozefova	0	365
+1581	Vladárová Jozefína		1	1219
+1581	VLADÁROVÁ Jozefína	rod. Kútniková	0	340,344,365,1387
+1581	Vladárová Jozefína r. Kútniková		1	324,555,1119,1146,1147,1167
+1581	Vrlík Antal		0	560
+1581	Vrlík Ján		0	617,623
+1581	Vrlík Ján	1	0	638
+1581	Vrlík Ján	2	0	560
+1581	Vrlík Ján	sestra Mária	0	632,638
+1581	Vrlík Ján	ženatý s Máriou rod. Húskovou; ženatý s Máriou rod. Húskovou	0	560
+1581	VRLÍK Ján	ženatý s Máriou rod. Húskovou	0	372,381,388,1489
+1581	Vrlík Jozef	mal	0	560
+1581	VRLÍK Jozef	Huraj	0	593,623
+1581	Vrlík Ondrej		0	617,623
+1581	Vrlík Ondrej	1	0	560
+1581	Vrlíková Anna	mal	0	560
+1581	Vrlíková Katarína	Jánova	0	606,623
+1581	Vrlíková Mária	mal	0	632
+1581	Vrlíková Mária	Múková	0	639
+1581	VRLÍKOVÁ Mária	Jánova Hurajová, rod. Húsková	0	372,381,388,1489
+1581	VRLÍKOVÁ Mária	rod. Bražinová	0	372,381,388,1489
+1581	VRLÍKOVÁ Mária	rod. Kulichová	0	384
+1581	Vrlíková Mária r. Húsková	Jánova Hurajová; Jánova Hurajová	0	560
+1581	Vrlíková Mária r. Kulichová		0	623,631
+1581	VYDUREKOVÁ Irena	rod. Murínová	0	586
+1581	Zador Fridrich		1	1193
+1581	Zahora Ján		0	380
+1581	Zahora Jozef		0	380
+1581	Zahorová Mária		0	380
+1581	Zacharová Emília r. Šebanová		0	586
+1581	Zajac Jozef		0	542
+1581	Zaťko Ján		0	744,771,774,1412
+1581	Zaťko Ján	Šuster	1	1119,1146,1219
+1581	Zaťko Ján	Šuškár	0	340,344,355,365,742,771,774,1387,1412
+1581	Zaťko Jozef		0	362
+1581	Zaťková Anna r. Čamatejová		0	358
+1581	Zaťková Mária	Chylová	0	340,344,364,365,1387
+1581	Záveská Mária r. Matušeková		0	730
+1581	Záveský Jozef		0	730
+1581	ZGUNDA Ján		1	340,344,365,558,1119,1146,1219,1387
+1581	ZGUNDOVÁ Anna		0	367
+1581	Zrník Cyril		1	717,1003,1004
+1581	Zrník Ján	Pekár	1	553,554,581,927,1026,1027,1128
+1581	Zrník Ján	Pekár 1	1	1002,1017
+1581	ZRNÍK Ján		1	668,673,1084
+1581	Zrník Jozef	Šedivec	1	1084
+1581	Zrník Jozef	študent	1	1084
+1581	ZRNÍK Jozef		1	432,1049
+1581	ZRNÍK Jozef	1	0	540
+1581	ZRNÍK Jozef	2	0	371,535,572,573,575,576,577,578,579,669,673,678
+1581	ZRNÍK Jozef	ml	0	432
+1581	ZRNÍK Jozef	mlad	0	691
+1581	Zrník Jozef a manželka Mária, SPF		1	1084
+1581	Zrník Karol	Pekár	0	553,554,581,661,719,1437,1456
+1581	Zrník Ondrej		1	1084
+1581	Zrník Ondrej	a Mária	1	1084
+1581	ZRNÍK Ondrej	Pekár	1	665,1002,1017
+1581	ZRNÍK Ondrej	Pekár 1	1	661,719,1084,1437,1456
+1581	Zrník Peter	a Karol	1	1084
+1581	Zrník Peter	Pekár	1	1002
+1581	Zrník Peter	Pekár, mal	0	553,554,581,661,719,1437,1456
+1581	ZRNÍK Štefan		0	673
+1581	Zrníková Anna	Pekárová	0	553,554
+1581	ZRNÍKOVÁ Anna	Pekárová rod. Čiešková	0	581
+1581	Zrníková Antónia r. Balejová	zom. 26.05.1994	1	1017
+1581	ZRNÍKOVÁ Estera	rod. Holdošová Straková	0	540
+1581	Zrníková Helena	mal	1	1002,1017
+1581	Zrníková Katarína	Pekárová, mal.; Pekárová, mal	0	553,554
+1581	Zrníková Katarína	Pekárová, súr. Peter, Karol	1	1002,1017
+1581	ZRNÍKOVÁ Katarína	Pekárová, mal	0	581,661,1437,1456
+1581	ZRNÍKOVÁ Magdaléna	rod. Balejová	1	919,920
+1581	Zrníková Magdaléna r. Balejová		1	983,1023
+1581	Zrníková Mária	pri kostole	1	1084
+1581	ZRNÍKOVÁ Mária		0	412,548,572,573,575,576,578,579,669,678,679
+1581	ZRNÍKOVÁ Mária	Pekárová rod. Holdošová	0	689
+1581	ZRNÍKOVÁ Mária	rod. Galanová	0	503
+1581	Zrníková Mária r. Babalová	Ondrejova	0	718
+1581	Zrníková Mária r. Holdošová	Jánova Pekárova	1	915,1024
+1581	Zrníková Mária r. Lacková	vd.,zomrela	1	938
+1581	Zrníková Mária r. Lacková, vd.,zomrela		1	1012
+1581	Zrníková Oľga	Pekárová	1	1002,1017
+1581	ZRNÍKOVÁ Žofia	mal	0	663
+1581	ZRNÍKOVÁ Žofia	rod. Čiešková	0	681,1464,1465
+1581	ZRNÍKOVÁ Žofia	rod. Lacková	0	429,532
+1581	Zrníková Žofia r. Lacková		0	734
+1581	Zrníková Žofia r. Lacková	súr. Jozef,Helena,Anna	1	950,1078,1079
+1581	Zrníková Žofia r. Lacková, súr.Jozef,Helena,Anna		1	1034
+1581	Zubaj Anton	súr. Mária, Jozef, Katarína, Anna,zomrel	1	1119,1146,1219
+1581	ZUBAJ Anton		0	340,344,365,762,771,774,1387
+1581	ZUBAJ Anton	1	0	546
+1581	Zubaj Ján	žen. so Zuzanou rod. Porubskou	0	344,365,537,771,774,829,1386,1387
+1581	Zubaj Ján r. Zubaj	ženatý so Zuzanou rod. Porubskou	0	286,340
+1581	Zubaj Jozef	1	1	1119,1146,1219
+1581	Zubaj Jozef	Lelek 1	1	1119,1146,1219
+1581	Zubaj Jozef	st., 2x ženatý	1	1119,1146,1219
+1581	Zubaj Jozef	žen. s Annou rod. Rajsošovou; žen. s Annou rod. Rajsošovou	0	567
+1581	Zubaj Jozef	žen. s Katarínou rod. Plškovou	0	344,365,1387
+1581	Zubaj Jozef	žen.s Katarínou rod. Plškovou	0	286,365,537,771,774
+1581	Zubaj Jozef	ženatý s Máriou rod. Černekovou, zomrel	1	1119,1146,1219
+1581	ZUBAJ Jozef		0	340,344,365,407,1387
+1581	ZUBAJ Jozef	Martinov	1	340,344,365,1119,1146,1219,1387
+1581	ZUBAJ Jozef	Šepták, ml	0	340,344,365,1387
+1581	ZUBAJ Jozef	u Koškárov	1	340,344,365,832,1119,1146,1219,1387
+1581	ZUBAJ Jozef	žen. s Annou rod. Rajsošovou	0	344,365,407,505,806,1387
+1581	Zubaj Jozef r. Zubaj	ženatý s Annou rod. Rajsošovou	0	340
+1581	Zubaj Jozef r. Zubaj	ženatý s Katarínou rod. Plškovou	0	340
+1581	Zubaj Ondrej	mal	0	286,771,774
+1581	ZUBAJ Štefan		0	286,340,344,365,403,771,774,829,830,1386,1387
+1581	Zubaj Tomáš r. Zubaj, JUDr., ul. Rumana 14, Liptovský Mikuláš, PSČ 031 01, SR	zomrel dňa 01.12.2005	0	344,541,1146,1219
+1581	Zubajová Anna	súr. Mária, Jozef, Katarína, Anton	1	1119,1146,1219
+1581	ZUBAJOVÁ Anna		0	340,344,365,1387
+1581	Zubajová Anna r. Chovanová	Jozefova Lelek; Jozefova Lelek	0	567
+1581	Zubajová Helena	zomr.2.9.1994; zomr.2.9.1994	0	749
+1581	ZUBAJOVÁ Helena	rod. Jarinová	0	340,344,359,365,771,774,1387
+1581	Zubajová Helena, SR	zomr.2.9.1994	0	771,774
+1581	Zubajová Irena r. Malá		0	560,650
+1581	Zubajová Katarína, zom. 18.12.1983		1	1119,1146,1219
+1581	Zubajová Margita	súr. Jozef, Ján	1	1119,1146,1219
+1581	ZUBAJOVÁ Margita		0	340,344,365,1387
+1581	Zubajová Mária	Barbušová	1	286,340,344,365,771,774,829,1119,1146,1386,1387
+1581	ZUBAJOVÁ Mária	rod. Matulová	0	340,344,365,403,558,771,774,1387
+1581	ZUBAJOVÁ Mária	rod. Ondrušová Hrkútová	0	360,378
+1581	Zubajová Mária r. Barbušová		1	1219
+1581	Zubajová Mária r. Matulová		0	583,748
+1581	Zubajová Mária r. Matulová	zom. 01.01.1968	1	1119,1146,1219
+1581	Zubajová Mária r. Plšková	zomrela	1	1219
+1581	Zubajová Mária r. Plšková, zomrela		1	1119
+1581	Zubajová Mária r. Plšková, zomrela, SPF		1	1146
+1581	Zubek Jakub	žen. s Annou rod. Velgánovou	1	948
+1581	Zubeková Anna r. Velgánová	Jakubova	1	948
+1581	ZVERECOVÁ Mária	Gerecová	0	636
+1581	Žiaková Katarína	Brdová	0	549
+1581	Žiara Andrej		0	522
+1581	Žiara Ján		0	401
+1581	Žiara Ján	1	0	597
+1581	Žiara Ján	Brdo	0	340,344,365,452,1387
+1581	Žiara Ján	Brdo 1	0	386
+1581	Žiara Ján	Brdo 4	0	386,699
+1581	Žiara Ján	nepr. v D 524/78 zom. 14.04.1978; nepr. v D 524/78	0	1119,1146,1219
+1581	Žiara Ján	Urmín	0	623
+1581	Žiara Jozef	mal	0	363
+1581	Žiara Matej	Brdo	0	340,344,365,386,452,699,767,771,774,1387,1412
+1581	Žiara Matej	Brdo 1	0	340,344,365,386,1387
+1581	Žiara Matej	Brdo 3	0	699
+1581	Žiara Matej	Brdo 4	0	386
+1581	Žiara Matej	Brdo 5	0	701
+1581	Žiara Matej	Urmín	0	623
+1581	Žiara Ondrej	1	0	597,623
+1581	Žiara Ondrej	Brdo 2	0	340,344,365,1387
+1581	Žiara Ondrej	Halama	0	527
+1581	Žiara Ondrej	Urmín	0	608,623
+1581	Žiara Ondrej	Urmín 1	0	653
+1581	Žiarová Amália	Brdová, rod. Jarinová	1	340,344,365,452,1119,1146,1387
+1581	Žiarová Amália r. Jarinová	Brdová	1	1219
+1581	Žiarová Katarína	Brdová	0	733
+1581	Žiarová Mária	mal	0	363
+1581	ŽIAROVÁ Mária	rod. Pompášová	0	659
+1581	Žiarová Mária r. Pompášová		0	601,604,623,644,645
+1581	Žiarová Mária r. Sidorová	nepr.v D 500/1963; nepr.v D 500/1963	0	623
+1581	Žiarová Zuzana		0	558
+1581	Žihlavník Cyprián	Chovan	0	817
+1581	Žihlavník Jozef	Bugan	0	340,344,365,1387
+1581	ŽIHLAVNÍK Jozef	nepr. v D 478/74	0	1219
+1581	ŽIHLAVNÍK Jozef	nepr. v D 478/74 , zom. 25.04.1974; nepr. v D 478/74	0	1119,1146
+1581	Žihlavníková Anna	rod. Chylová Zaťková	1	340,344,365,487,752,771,774,779,800,806,821,857,1119,1146,1219,1387,1412
+1581	Žihlavníková Jozefína	nepr. v D 1301/83	0	1219
+1581	Žihlavníková Jozefína	nepr. v D 1301/83 , zom. 22.09.1983; nepr. v D 1301/83	0	1119,1146
+1581	Žihlavníková Mária		1	340,344,365,558,1119,1146,1219,1387
+1581	Žihlavníková Mária	Bugan, slabomyseľná; Bugan, slabomyseľná	0	558
+1581	Žihlavníková Mária	Jánova	0	374,377
+1581	Žihlavníková Žofia r. Sordiliaková		0	340,344,365,1387
+1581	Žiliková Anna r. Štúrová Kulišanová		0	681,1464,1465
+1581	Žištiaková Antonia r. Jandurová, Nová Hrboltová 6162/48, Ružomberok-Rybárpole, PSČ 034 05, SR	zomrela 4.2.2005	0	586
+1582	ADAMCOVÁ Júlia	rod.Gurínová	0	768
+1582	Adamcová Júlia r. Gurínová		0	1691,2377
+1582	Adamec Jozef, č.d.1955/1937 č.d.1955/1937		0	1919
+1582	Adamec Jozef, č.d.77/1941 č.d.77/1941		0	2504
+1582	ADAMIČKA Juraj		0	1856
+1582	BAHNO Ján	č.d.347/1920	0	1298
+1582	Bahno Ján, č.d.1010/1885 č.d.1010/1885		0	2046
+1582	BAHNOVÁ Alžbeta	č.d.2594/1908	0	690
+1582	Bahnová Alžbeta, č.d.2594/1908 č.d.2594/1908		0	2020
+1582	Bahnová Eva r. Bahnová		0	1860
+1582	Begáň Alexander, č.d.1252/1919 č.d.1252/1919		0	2488
+1582	Begáň Ondrej		0	1827
+1582	BEGÁŇ Viktor		0	1347
+1582	BEGÁŇOVÁ Katarína	rod.Chmelinová, zom. 27.7.1946 Ľuborča Nemšová	0	1290
+1582	BEGÁŇOVÁ Mária		0	2488
+1582	BEGÁŇOVÁ ZUZANA R.ŠTEFANKOVÁ		0	217
+1582	Belha František, Nemšová, Ľuborča I. Nemšová, Ľuborča I.		0	1706
+1582	BELKO Jozef	č.d.766/1918	0	1323
+1582	Belko Jozef, č.d.766/1918 č.d.766/1918		0	1759
+1582	Belko Štefan, č.d.1287/1935 č.d.1287/1935		0	2504
+1582	Belko Štefan, č.d.2642/1901 č.d.2642/1901		0	2470
+1582	BELKOVÁ Agneša		0	1323
+1582	Belková Anna, č.d. 2642/1901 č.d. 2642/1901		0	2473
+1582	BELKOVÁ Eva	rod.Patková	0	759
+1582	Belková Ilona, č.d. 2642/1901 č.d. 2642/1901		0	2473
+1582	Belková Katarína, č.d. 2642/1901 č.d. 2642/1901		0	2473
+1582	Belková Mária, Prievidza, Bjornsonova 1 Prievidza, Bjornsonova 1		0	1710
+1582	BLAHÚT Štefan		0	2259
+1582	BLAHÚTOVÁ Anna	rod.Patková	0	759
+1582	BLAŽEJ Ján	č.d.990/1919	0	1365
+1582	Blažej Ján, č.d.2859/1901 č.d.2859/1901		0	1907
+1582	Blažej Ján, č.d.913/1919 č.d.913/1919		0	2280
+1582	Blažej Ján, č.d.990/1919 č.d.990/1919		0	1719
+1582	BLAŽEJ Jozef		0	1530
+1582	BLAŽEJ Jozef	č.d.523/1925	0	1296
+1582	BLAŽEJ Jozef	č.d.990/1919	0	1365
+1582	Blažej Jozef, č.d.913/1919 č.d.913/1919		0	2257
+1582	Blažej Jozef, č.d.990/1919 č.d.990/1919		0	1719
+1582	BLAŽEJ Michal		0	1530,2486
+1582	BLAŽEJ Štefan	č.d.990/1919	0	1365
+1582	Blažej Štefan r. Blažej, NEMŠOVÁ, SR		0	1984
+1582	Blažej Štefan, č.d.990/1919 č.d.990/1919		0	1719
+1582	Blažejová Agneša, Nemšová I., Nemšová, Slovenská republika, zom.13.02.1964 zom.13.02.1964		0	1995
+1582	BLAŽEJOVÁ Anna		0	1533,2321
+1582	BLAŽEJOVÁ Júlia	č.d.990/1919	0	1365
+1582	Blažejová Júlia, č.d.913/1919 č.d.913/1919		0	1842
+1582	Blažejová Júlia, č.d.990/1919 č.d.990/1919		0	1719
+1582	BLAŽEJOVÁ MÁRIA R.ŠTEFANKOVÁ		0	217
+1582	Blažejová Pavlína, č.d.2587/1908 č.d.2587/1908		0	1687
+1582	BLÍZIK Jozef		0	1240
+1582	BLÍZIKOVÁ Júlia	č.d.1161/1949	0	1240
+1582	Blíziková Júlia, č.d.1161/1949 č.d.1161/1949		0	2502
+1582	BOBOTOVÁ Katarína	rod.Koníčková	0	1267,1398
+1582	Bobotová Katarína r. Koníčková		0	2102
+1582	Bončin Jozef, ul. Závadská č. 863/34, Nemšová, PSČ 914 41, SR		0	1604
+1582	Bončin Pavol		0	1628
+1582	BONČINA Pavol		0	407,1604

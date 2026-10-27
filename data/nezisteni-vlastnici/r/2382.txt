@@ -1,0 +1,256 @@
+1372	Mňachká Mária	mal.ded.po Michalovi	1	322,341,358
+1372	Mňachký Andrej	mal.ded.po Michalovi	1	322,341,358
+1372	Mňachký Ján	ded. po Michalovi	1	341
+1372	Mňachký Ján	ded.po Michalovi	1	322,358
+1372	Moroz Mikuláš	ž.Mária r. Ficková	1	400
+1372	Moroz Štefan	kúpa od Márií r. Vasilenkovej	1	382,395
+1372	Morozová Anna	ded.po Michalovi	1	382,395
+1372	Morozová Helena		1	398,399
+1372	Moskorušinová Anna		1	403
+1372	Motiľová Mária		1	393
+1372	Nergeš Andrej	syn Štefana	1	399
+1372	Nergeš Andrej	synŠtefana	1	398
+1372	Nergeš Ján	mal.ded.po Márií r. Kasanderovej	1	398
+1372	Nergeš Ján	mal.ded.po Márií r. Kasanderovej , SR mal.ded.po Márií r.Kasanderovej	1	398
+1372	Nergeš Juraj	mal.ded.po Márií r. Kasanderovej	1	398
+1372	Nergeš Juraj	ž.Mária r. Kuzmová,r.21.4.1898	1	370,398,399
+1372	Nergeš Michal	ž.Mária r. Gondová	1	398,399
+1372	Nergešová Anna	mal.ded.po Márií r. Kasanderovej	1	398
+1372	Nergešová Helena		1	388
+1372	Nergešová Justína	dcéra Štefana	1	398,399
+1372	Nergešová Justína	mal.ded.po Márií r. Kasanderovej	1	398
+1372	Nergešová Mária	mal.ded.po Márií r. Kasanderovej	1	398
+1372	Polivka Ján	Lipčák ž.Anna r. Kubová	1	380
+1372	Polivka Ján	st.kúpa od Karola Škodu	1	380
+1372	Polivka Štefan	ž.Justína r. Lipčáková	1	372
+1372	Polivková Anna		1	380
+1372	Polivková Helena		1	394
+1372	Polivková Mária		1	380
+1372	Polivková Mária	mal	1	380
+1372	Polivková Mária	mal.st	1	380
+1372	Rapoš Andrej	mal	1	322,341,358
+1372	Rapoš Ján	mal	1	322,341,358
+1372	Rapoš Vasiľ	mal	1	322,341,358
+1372	Rapošová Helena	mal	1	322,341,358
+1372	Ritter Emanuel		1	373
+1372	Sás Eliás	mal	1	306,316
+1372	Sás Ján		1	306,316
+1372	Sás Štefan	mal	1	306,316
+1372	Sásová Helena	mal	1	306,316
+1372	Sásová Justína	mal	1	306,316
+1372	Sásová Mária	mal	1	306,316
+1372	Seňutová Helena	mal.ded.po Michalovi	1	370
+1372	Sirý Juraj	vzd	1	388
+1372	Sitár Ján	mal.ded.po Štefanovi	1	378
+1372	Sitár Juraj		1	396
+1372	Sitár Michal	ded.po Helene r. Lucikovej	1	328,354
+1372	Sitár Štefan	mal.st.ded.po Štefanovi	1	378
+1372	Sitárová Anna		1	328,354
+1372	Sitárová Anna	držba po Sitárových	1	378
+1372	Sitárová Helena		1	378,383
+1372	Sitárová Mária		1	376
+1372	Sitenová Anna		1	314,352
+1372	Smeczi Ján		1	369
+1372	Staraj Michal	syn Jána	1	376
+1372	Staraj Michal	syn Vasiľa	1	376
+1372	Staraj Peter	vzd	1	376
+1372	Staraj Štefan	vzd	1	376
+1372	Starajová Mária	mal.ml	1	376
+1372	Starčovič Štefan	ž.Anna r. Micanová	1	396
+1372	Starčovičová Helena	dcéra Jána	1	396
+1372	Starčovičová Mária	dcéra Jána	1	396
+1372	Stezár Andrej	ded.po Anne r. Burdovej	1	314,325,352
+1372	Stézarová Anna		1	325,340,408
+1372	Surňák Michal	ded.po Jánovi	1	338
+1372	Surňák Michal	ded.po Štefanovi	1	356
+1372	Surňák Michal	kúpa	1	364
+1372	Surňáková Anna		1	375
+1372	Surňáková Anna	mal.ded.po Jánovi	1	338
+1372	Surňáková Anna	mal.ded.po Štefanovi	1	356
+1372	Surňáková Helena	ded.po Štefanovi	1	356
+1372	Surňáková Helena	mal.ded.po Štefanovi	1	356
+1372	Surňáková Helena	mal.ded.poJánovi	1	338
+1372	Surňáková Justína	mal.ded.po Jánovi	1	338
+1372	Surňáková Justína	mal.ded.po Štefanovi	1	356
+1372	Surňáková Mária	ded.po Jánovi	1	338
+1372	Surňáková Mária	ded.po Štefanovi	1	356
+1372	Surňáková Mária	mal.ded.po Štefanovi	1	356
+1372	ŠALAP Ján, Oľka, č. 48, SR		1	377
+1372	ŠALAP Ján, Oľka, č. 48, SR	ml. syn Jána ml. syn Jána	1	396
+1372	Šalapová Mária		1	401
+1372	Šlachta Michal	ded.po Anne r. Starajovej	1	376
+1372	Šlachtová Anna		1	376
+1372	Šmulovič Samuel		1	382
+1372	Štimová Anna		1	392
+1372	Štimová Anna r. Gajdová	muž Elek	1	384
+1372	Štimová Helena	r.23.6.1924	1	376
+1372	Šurňák Michal		1	403
+1372	Švárna Anna	mal.ded.po Justíne, Čakanišinovej	1	314,352
+1372	Švarná Mária	r.9.9.1935	1	310
+1372	Švárna Mária	dcéra Jozefa	1	403
+1372	Švárny Andrej	syn Jozefa	1	403
+1372	ŠVARNÝ Michal	nar.4.5.1939 /Oľka 103/	1	343
+1372	Švigár Ján	mal.ded.po Anne r. Barnovej	1	382,395
+1372	Švigár Juraj	mal.ded.po Anne r. Barnovej	1	382,395
+1372	Švigár Štefan	mal.ded.po Anne r. Barnovej	1	382,395
+1372	Švigárová Anna		1	396
+1372	Tekošová Justína		1	391
+1372	Terkoš Ján	ded.po Justíne	1	389
+1372	Terkoš Ján	ž.Anna r. Burdová	1	389
+1372	Terkoš Štefan	ž.Anna r. Morozová	1	395
+1372	Terkošová Anna		1	389
+1372	Terkošová Mária	r.9.1.1931	1	398
+1372	Tutko Michal	st	1	390
+1372	Vasilenko Juraj	od Jána a Heleny r. Morozovej	1	387
+1372	Vasilenko Peter		1	387
+1372	Vasilenková Helena	r.28.3.1955	1	391,392
+1372	Vočová Mária	mal	1	314,352
+1372	Vogtová Mária		1	328,354
+1372	Žigová Mária	r.28.11.1938	1	391,392
+1373	Adamec Jozef r. Adamec	sl. /čd.28/	0	2548,2550
+1373	Babic Mikuláš r. Babic	SNP č.28, Zvolenská Slatina	0	1991
+1373	Babicová Magdaléna r. Fekiačová	Jurajová	0	554,555,2494
+1373	Bakanová Mária r. Kočalková		0	2557
+1373	Baláž František r. Baláž	zom. 28.11.2007, Kriváň 128	0	2284,3154
+1373	Balaž Pavol r. Balaž	/ž.Mária r.Krnáčová/	0	2702
+1373	Baláž Peter r. Baláž		0	2335
+1373	Baláž Peter r. Baláž	/čd.486/	0	704,3257
+1373	Baláž Vojtech r. Baláž	Kriváň č.831	0	181,2744,2863
+1373	Balážová Anna	/slob., čd.822/	0	2518,2519,2520
+1373	Balažová Anna r. Krnáčová	/Jánová/	0	2437
+1373	Balážová Margita r. Mudráková	zom. 11.1.2006, Kriváň 135	0	181,2744,2745,2863,3156
+1373	Balážová Mária		0	2504
+1373	Balážová Marta		0	1341,1932,2283,2284,3146,3153,3154,3157,3211,3212,3284
+1373	Balážová Zuzana r. Nôtová	zom. 24.6.1994, Kriváň 162	0	2283
+1373	Baranková Margita r. Košutová	/m.Štefan/	0	456,2809,2815
+1373	Barciaková Katarína r. Tršová	/m.Ondrej/, vd	0	554,555,2605
+1373	Bariak Ján r. Bariak	Jesenské /Nšn G 638/92/	0	2748,3241
+1373	Bariaková Alžbeta	/otec Imrich/	0	2750,3183,3242
+1373	Barjak Štefan r. Barjak	otec Imrich, čd.888	0	513,3181
+1373	Belajová Mária r. Ďuricová	/m.Jozef/	0	2690
+1373	Bella Jozef r. Bella	Myškár	0	2559
+1373	Beňovicová Mária r. Bohumelová	zom. 13.92008, Prečov č.10	0	2548,2550
+1373	Berky Ján r. Berky	mal., /otec Mikuláš/	0	554,555,2494
+1373	Berky Juraj r. Berky	mal., /otec Mikuláš/	0	554,555,2494
+1373	Bosiaková Júlia r. Balážová	/m.Jozef/	0	760
+1373	Budáčová Anna r. Mitterová	/čd.743/	0	697,2815
+1373	Bystrianská Anna r. Rybárová	Lúčna štvrť č.3, Detva	0	554,555
+1373	Cerovsky Ján r. Cerovsky	zom. D 178/87	0	841
+1373	Cerovský Štefan r. Cerovský	/ž.Emília r.Golein/	0	841
+1373	Černáková Anna r. Fekiačová	/m.Michal/	0	554,555,2490
+1373	Danko Martin r. Danko	nebohý, zom. 1.1.2000	0	2560
+1373	Danko Martin r. Danko	nebohý, zom.1.1.2000	0	2560
+1373	Danko Štefan r. Danko	/ž.Mária r.Tršo/	0	2824
+1373	Danková Katarína	slobodná, zom.12.2.2002	0	2560
+1373	Dianičková Zlatica r. Hunčiková	/Podkriváň čd.51/	0	2763
+1373	Dianišková Margita r. Kupecová	m.Jozef, čd.103	0	554,555,2589
+1373	Dobrocská Anna r. Bellová		0	2851
+1373	Dožová Anna r. Kulichová	Zvol.Slatina č.118	0	1862,1925,3217
+1373	Drugda Ján r. Drugda	ž.Zuzana r.Hanusková	0	554,555,2252
+1373	Duduc Matúš r. Duduc		0	2017
+1373	Dufalová Vlasta r. Bariaková	/Nšn G 638/92/	0	2748,3241
+1373	ĎURICA BRANISLAV, s.č. 240, KRIVÁŇ, SR		0	1471
+1373	Ďurica Imrich r. Ďurica	ž.Mária r.Žilková	0	554,555,2596
+1373	Ďurica Ján r. Ďurica	/ž.Paulína r.Golianová/	0	554,555,2596
+1373	Ďurica Jozef r. Ďurica	zom. 15.2.1987,Partizánska 79/43,Detva	0	554,555,1598
+1373	Ďurica Jozef r. Ďurica	zom. 9.5.1988, Jilemnického 20, Detva	0	554,555
+1373	Ďurica Juraj r. Ďurica	ž.Zuzana r.Halajová	0	1888
+1373	Ďurica Martin r. Ďurica	/otec Peter/	0	2246
+1373	Ďurica Pavel r. Ďurica	/ž.Emília r.Gáboríková/	0	1465,1470,3136
+1373	Ďurica Peter r. Ďurica, Nam.slobody 1935/10, 96001 Zvolen		0	554,555,1598
+1373	Ďurica Štefan r. Ďurica	zom. 7.7.2005, Kriváň 240	0	2683
+1373	Ďuricová Mária r. Lakotová	/čd.117/	0	554,555,2049
+1373	Ďuricová Vilma	/otec Juraj čd.120/	0	1832
+1373	Ďuriš Juraj r. Ďuriš		0	554,555,2588
+1373	Duspivová Anna r. Luptáková		0	554,555
+1373	Fašangová Mária r. Odrganová	/m.Ján/	0	554,555,2424
+1373	Fašiangová Mária	/m.Jozef/	0	554,555,2610
+1373	Fekiač Ján r. Fekiač	mal. /otec Jozef, čd.209/	0	2059
+1373	Fekiač Jozef r. Fekiač	mal. ,otec Jozef, čd.209	0	2059
+1373	Fekiač Jozef r. Fekiač	zom. 29.10.1990, Kriváň 196	0	2076
+1373	Fekiač Juraj r. Fekiač	/ž.Amália r.Vilhanová/	0	554,555,2494
+1373	Fekjačová Anna r. Nôtová	/m. Augustín/ otec Juraj	0	2650
+1373	Fekjačová Margita r. Nôtová	/m.Martin/	0	2800
+1373	Fridrich Jozef r. Fridrich		0	2852
+1373	Gáborík Štefan r. Gáborík	/čd.871/	0	2076
+1373	Gáboríková Margita r. Malatinová		0	2076
+1373	Gelnerová Emília r. Výbochová	/m.Jozef/	0	2659,2781
+1373	Giertl Stanislav r. Giertl	Bytovka č.12, Hriňová	0	704,3257
+1373	Golian Imrich r. Golian	ž.Magda r.Lapinová	0	2548,2550
+1373	Golian Ján r. Golian	Pleštiak	0	554,555,2615
+1373	Golianová Anna r. Matušková	/m.Juraj/ 1	0	2548,2550
+1373	Golianová Verona r. Matušková	/m.Anton/	0	2548,2550
+1373	Golianová Zuzana r. Melichová	/m.Juraj/	0	2548,2550
+1373	Goljan Vojtech r. Goljan	/ž.Mária r.Fridrichová/	0	554,555,1610
+1373	Goljanová Veronika	/otec Jozef/	0	554,555,1610
+1373	Goljanová Vilma	otec Jozef	0	554,555,1610
+1373	Gonda Mikuláš r. Gonda	/ž.Katarína r.Sekerašová/	0	1921
+1373	Gondová Anna r. Krnáčová	/Mikulášová, čd.51/	0	554,555,2582
+1373	Goudová Magdaléna r. Lalíková	/m.Jozef/	0	2629
+1373	Gruda Laurinec r. Gruda	/ž.Hermina r.Goljanová/	0	2700
+1373	Gužmerová Mária r. Ratecová	/m.Anton/	0	2793
+1373	Halaj Jozef r. Halaj	slob., /otec Štefan/	0	2636
+1373	Halaj Jozef r. Halaj	zom. 22.2.1987, Kriváň 386	0	1991
+1373	Halaj Martin r. Halaj	zom. 4.9.1951, Korytárky 222/941	0	1790,2637
+1373	Halaj Mikuláš r. Halaj	/Kriváň, čd.218/	0	2636
+1373	Halaj Štefan r. Halaj	Športová 203, Zvolenská Slatina	0	126,1450,1991,2544,2632
+1373	Halajová Anna r. Lacková	zom. 16.7.1990, Korytárky 244, nar. 06. 06. 1900	0	2632
+1373	Halajová Anna r. Lacková	zom. 16.7.1990, Korytárky 244, nar. 16. 06. 1900	0	126,1450,1991,2209,2544
+1373	Halajová Dora r. Nôtová	zom. 8.1.1974, Kriváň 131, nar. 03. 04. 1897	0	2624
+1373	Halajová Dorota r. Nuotová	/čd.518/	0	1790
+1373	Hanes Jozef r. Hanes	zom. 27.1.2010, Piešť I č.168, Detva	0	2501,2503
+1373	Hanes Juraj r. Hanes	/ž. A.Fašanga/	0	2479
+1373	Hanes Juraj r. Hanes	Stožok č.197	0	2501,2503
+1373	Hanesová Dorota r. Gužmerová	Piešť II.č.12, Detva	0	2501,2503
+1373	Hanuska Jozef r. Hanuska	zom.28.3.2006, Kpt.Nálepku 2, Detva	0	554,555,2548,2550
+1373	Hanuska Štefan r. Hanuska	otec Štefan, č.392	0	554,555,2268
+1373	Hliva Matúš r. Hliva	zom. , Kriváň 265	0	2680,3259
+1373	Hliva Mikuláš MUDr.  r. Hliva	zom., Ul. mierová 960, Trstená	0	554,555,2789
+1373	Horová Pavlina r. Murinová	/m.Štefan/	0	2675,3270,3275
+1373	Horváthová Madlena r. Žiliková		0	554,555,2580
+1373	Horvatová Ema		0	554,555,2580
+1373	Hroncová Emília r. Lalíková	zom. 10.8.2010, Kriváň 205	0	2037,2716
+1373	Hukel Juraj r. Hukel	/čd.416/	0	704,3257
+1373	Hukel Martin r. Hukel	zom., Ružiná 67	0	2240,2242,2652
+1373	Hukeľ Štefan r. Hukeľ	zom., Kriváň 524	0	1434,2240,2242,2652,3145
+1373	HUKEĽ ŠTEFAN,KRIVÁŇ Č.524		0	2269
+1373	Hukelová Magdaléna	mal., /otec Juraj/	0	2709
+1373	Hulina Martin r. Hulina	č.d.949	0	554,555,2602
+1373	Hulina Pavol r. Hulina	/ž. Madlena r.Klimová/	0	1715
+1373	Hunčik Ján r. Hunčik	/ž.Paulína r.Dulová, v Amerike/	0	2763
+1373	Chamula Peter r. Chamula	/ž.Katarína r.Zvarová/	0	554,555,2581
+1373	Chamulová Mária r. Goljanová	/m.Karol/	0	554,555,1610
+1373	Chelbničan Ján r. Chelbničan	Gnár /čd.442/	0	704,3257
+1373	Chlebničan Ján r. Chlebničan	/čd.481/	0	704,3257
+1373	Chlebničan Ján r. Chlebničan	zom. 7.11.1967	0	1909,2139,2394,3096,3253,3254,3255
+1373	Chlebničan Jozef r. Chlebničan	/čd.480/	0	704,3257
+1373	Chlebničan Jozef r. Chlebničan	slob., zom.7.10.1980	0	2139,3096
+1373	Chlebničan Valent r. Chlebničan	zom. 30.6.1990, Krivec 135	0	2139,3096
+1373	Chlebničanová Agnesa r. Nociarová	Detvianska Huta č.129	0	561,1909,2394,2998,3149,3253,3254,3255
+1373	Chlebničanová Amália		0	561,1909,2998,3149,3253,3254,3255
+1373	Chlebničanová Anna		0	1909,3253,3254,3255
+1373	Chovancová Anna r. Nôtová	m.Jozef, zomrela	0	2035,3164
+1373	Chovanec Ján r. Chovanec	Gottwaldova č.7, Detva	0	1540
+1373	Chovanecová Anna r. Nôtová	/m.Jozef/	0	1540,2827
+1373	Jarvaš Martin r. Jarvaš	/ž.Zuzana r.Bela/	0	2833
+1373	Jurej Jozef r. Jurej	zom., Orlová 143/7, Detva	0	2548,2550
+1373	Kaličiaková Margita r. Mitterová		0	697,2815
+1373	Kopšivová Jolana r. Fekiačová	/m.Rychard/	0	554,555,2490
+1373	Korená Júlia r. Chlebničanová	m.Peter, čd.830	0	751
+1373	Korená Júlia r. Uhrinová	/Goljan,m.Pavol/	0	507,2065,2067,2477,2688,2960,3207
+1373	Korený Peter r. Korený	ž.Julia r.Chlebničanová, čd.830	0	751
+1373	Košut Ján r. Košut	/Bačík, ž.Karolína r.Macková/	0	2807,2815
+1373	Košút Ľudovít r. Košút	1 /ž.Mária r.Balážová/	0	2817
+1373	Košút Ľudvik r. Košút	/ž.Ružena r.Vlčeková/	0	456
+1373	Košút Mikuláš r. Košút	/Báčik, v Rusku/	0	2811
+1373	Košút Peter r. Košút	/Bačik/	0	2810
+1373	Košútová Paulina r. Lalíková	/m.Karol/	0	2812
+1373	Kováčová Katarína r. Kaiserová		0	181,2744,2745,2863,3156
+1373	Král Štefan r. Král	Rapčan, /ž.Mária r.Vasilová-Fajčíková/	0	2770
+1373	Králová Amália	/otec Ondrej/	0	2731
+1373	Králová Júlia	v Budapešti	0	1855,2732
+1373	Králová Magdaléna	/otec Ondrej/	0	1855
+1373	Kráľová Mária r. Vasiľová	Fajčíková	0	2769
+1373	Krekáň Viliam r. Krekáň	zom., Kriváň 69	0	2726
+1373	Krekáňová Júlia r. Falťanová	zom., Kriváň 69	0	2726
+1373	KREKÁŇOVÁ JÚLIA R.FALŤANOVÁ		0	395

@@ -1,0 +1,256 @@
+1214	ŠTEFIKOVÁ Sidónia	r.Králiková	1	505,526,531,798,804,807,822,842,855,1050,1087,1223,1224
+1214	Štefiková Sidónia r. Králiková		1	1210
+1214	ŠULJAKOVÁ Eva		1	531,1087,1223,1224
+1214	ŠULJAKOVÁ Žofia		1	531,1087,1223,1224
+1214	ŠURINA Filip		1	639
+1214	ŠURINA Ľudovít		1	639
+1214	ŠURINA Štefan		1	639
+1214	ŠURINOVÁ Alojzia	r.Krupová	1	818
+1214	ŠURINOVÁ Anna		1	505,526,531,779,790,791,865,866,1087,1135,1190,1223,1224,1280,1288,1331,1437,1630,1635
+1214	ŠURINOVÁ Karolína	r.Pastieriková	1	798,809,820,822,830,855,1077
+1214	ŠUSTEKOVÁ Margita		1	506,1501
+1214	ŠVÁBIKOVÁ Apolónia	r.Macejková	1	518,886
+1214	ŠVÁBIKOVÁ Verona	r.Dirbáková	1	885
+1214	TOMČALA Alojz	ž.Alojzia Dudeková	1	513
+1214	TOMČALA Štefan		1	610,904
+1214	TOMČALOVÁ Katarína		1	526,531,1087,1223,1224
+1214	TOMČIAK Cyril		1	869,871
+1214	TOMČIAK Ernestína		1	763,790,795,796,832,1135,1187,1188,1190,1552,1617
+1214	TOMČIAK Gabriel		1	531,865,866,1087,1223,1224
+1214	TOMČIAK Ján		1	505,506,515,517,526,531,534,605,610,630,636,641,779,790,791,865,866,897,899,903,905,977,978,1068,1087,1135,1160,1161,1162,1190,1223,1224,1288,1331,1437,1501,1630,1635
+1214	TOMČIAK Ján	ž.Žofia Capková	1	505,531,1087,1223,1224
+1214	TOMČIAK Jozef		1	506,526,531,1087,1223,1224,1501
+1214	TOMČIAK Jozef	zomrel v r.1854	1	505
+1214	TOMČIAK Leopold		1	832,866
+1214	TOMČIAK Štefan		1	526,531,761,769,783,790,795,832,856,864,865,866,1087,1135,1188,1190,1223,1224,1330,1590
+1214	TOMČIAKOVÁ Agneša		1	447,453,462,474,489,494,496,502,508,511,912,1014,1098,1099,1145,1186,1260,1261,1289,1584,1604,1605,1606,1607
+1214	TOMČIAKOVÁ Ernestína		1	865,866
+1214	TOMČIAKOVÁ Katarína		1	505
+1214	TOMČIAKOVÁ Mária	r.Škorvagová	1	515,534,599,605,630,636,641,897,899,905,977,978,1068,1160,1161,1162
+1214	TOMČIAKOVÁ Žofia	r.Králiková	1	531,1087,1223,1224
+1214	TOMČJAK Ján	ž.Žofia Capková	1	865,866
+1214	TOMČJAK Štefan		1	865,866
+1214	TVRDÍK Alojz		1	515,517,526,529,531,659,676,1087,1223,1224
+1214	TVRDÍK Andrej		1	642,652,657,962,963,1061,1543
+1214	TVRDÍK Lukáč		1	470,502,505,514,515,517,522,526,529,531,536,642,652,657,659,676,962,963,1061,1087,1101,1102,1111,1223,1224,1311,1543
+1214	TVRDÍK Ondrej		1	515,517,526,529,659,676
+1214	TVRDÍK Štefan		1	488
+1214	TVRDÍK Vincent		1	642,652,657,962,963,1061,1543
+1214	TVRDÍKOVÁ Alžbeta	r.Macejková	1	1020
+1214	TVRDÍKOVÁ Eva		1	447,452,462,494,496,502,510,511,516,912,1009,1014,1098,1099,1145,1260,1261,1584,1649
+1214	TVRDÍKOVÁ Eva	r.Koňuchová	1	470,502,505,514,522,526,531,536,1087,1101,1102,1111,1223,1224,1311
+1214	TVRDÍKOVÁ Mária		1	447,452,462,494,496,510,912,1009,1014,1098,1099,1145,1260,1261,1584,1649
+1214	TVRDÍKOVÁ Mária	mal	1	502,508,511,516
+1214	VAKULA František	ž.Bara Čutková	1	506,1501
+1214	VAKULA Gregor		1	506,1501
+1214	VAKULA Gregor	mal	1	505,531,1087,1223,1224
+1214	VAKULA Jozef		1	506,534,1501
+1214	VAKULA Ondrej		1	506,1501
+1214	VAKULA Ondrej	ž.Mária Kolembusová	1	534
+1214	VAKULA Štefan		1	506,534,714,717,738,868,873,890,967,1066,1501,1655
+1214	VAKULOVÁ Alžbeta		1	505,522,526,531,534,686,702,706,707,881,1026,1087,1174,1175,1176,1223,1224,1540
+1214	VAKULOVÁ Alžbeta	mal	1	505,522,531,700,1087,1223,1224
+1214	VAKULOVÁ Anna		1	506,534,1501
+1214	VAKULOVÁ Anna	r.Gajdošíková	1	526
+1214	VAKULOVÁ Anna	r.Kristeková	1	525,526,531,789,865,866,1087,1223,1224
+1214	VAKULOVÁ Anna	r.Kristeková Gajdošíková	1	768,776,790,856,857,1135,1189,1190,1595,1624
+1214	VAKULOVÁ Anna	r.Kristeková Gajdošová	1	865,866
+1214	VAKULOVÁ Anna	r.Piastková	1	526,534
+1214	VAKULOVÁ Jozefína		1	505,522,526,531,534,706,707,713,881,945,1020,1087,1174,1223,1224
+1214	VAKULOVÁ Jozefína	mal	1	700
+1214	VAKULOVÁ Júlia		1	534
+1214	VAKULOVÁ Mária		1	506,534,1501
+1214	VAKULOVÁ Mária	r.Podoláková	1	714,717,738,740,868,873,967,1066,1629,1655
+1214	VÁLEK Matúš		1	447,456,467,497,502,507,510,511,516,526,531,912,1087,1098,1099,1145,1223,1224,1610
+1214	VÁLEK Šimon		1	447,456,467,497,502,507,510,511,516,526,531,912,1087,1098,1099,1145,1223,1224,1610
+1214	VÁLEKOVÁ Štefánia		1	467
+1214	VALIGURČIN Ondrej		1	833
+1214	VALIGURČIN Štefan	mal	1	833
+1214	VALIGURČINOVÁ Johana	mal	1	833
+1214	VAŇOVCOVÁ Anna	r.Tvrdíková	1	531,1087,1223,1224
+1214	VAŇOVCOVÁ Zuzana		1	502,504,505,519,526,531,536,544,563,906,908,910,1008,1087,1101,1102,1111,1223,1224,1311,1646
+1214	VAŇOVCOVÁ Žofia		1	502,504,505,514,519,526,531,536,544,563,906,908,910,1008,1087,1101,1102,1111,1223,1224,1311,1646
+1214	VAŇOVEC Jozef		1	502,504,505,519,526,531,536,544,563,906,908,910,1008,1087,1101,1102,1111,1223,1224,1311,1646
+1214	VAŇOVEC Štefan		1	531,910,1087,1223,1224
+1214	VOLFOVÁ Priška	r. Kristeková	1	722
+1214	VOLFOVÁ Priška	r.Kristeková	1	502,513,518,525,534,535,714,723,726,730,731,733,737,742,757,868,872,873,886,967,1462,1614
+1214	ZACHAROVÁ Helena	mal	1	1008
+1214	ZACHAROVA Jozefína	mal	1	1008
+1214	ZAJAČIK František		1	636,1068
+1214	ZAJAČIK Gašpar		1	883
+1214	ZAJAČIK Jozef		1	534
+1214	ZAJAČIK Ľudovít	Škorvag	1	798
+1214	ZAJAČIK Ľudovít	Škorvaga	1	798
+1214	ZAJAČIK Matej	Škorvag	1	807,812,823,829,843,850,855,1048,1367
+1214	ZAJAČIK Matej	Škorvaga	1	531,697,705,707,713,798,805,807,808,822,823,838,843,850,855,1020,1049,1051,1087,1223,1224,1235,1236,1237,1238,1239,1244
+1214	ZAJAČIK Peter	Škorvag mal	1	807,808,812,822,823,829,843,850,1048,1367
+1214	ZAJAČIK Peter	Škorvaga	1	805,807,808,822,823,829,838,843,850,1044,1049,1051,1240,1242,1243,1368,1370,1371,1573
+1214	ZAJAČIK Štefan		1	517,526,531,588,602,605,897,905,978,1087,1160,1161,1162,1223,1224,1245,1246,1247,1458
+1214	ZAJAČIK Štefan	ž.Anna Buganyová	1	642,647,655,663,669,962,963,994,1060,1061,1427,1529,1543,1564,1571
+1214	ZAJAČIKOVÁ Anna	r.Bugáňová	1	526,531,580,588,602,605,621,897,900,905,978,1087,1160,1161,1162,1223,1224,1245,1246,1247,1458
+1214	ZAJAČIKOVÁ Anna	r.Bugányová	1	517,534,642,647,655,663,669,962,963,994,1060,1061,1427,1529,1543,1564,1571
+1214	ZAJAČIKOVÁ Júlia	Škrovagová	1	1087
+1214	Zajačiková Júliana		1	1210
+1214	ZAJAČIKOVÁ Mária	r.Krupová	1	883
+1214	ZBOROVEN Martin		1	526
+1214	ZBOROVEN Martin	ž.Mária Tabačárová	1	531,1087,1223,1224
+1214	ZUZČÁK Adam		1	883,885
+1215	Balázs Michal		1	647
+1215	Bartal Alexander, SR		1	596
+1215	Bartal František		1	747
+1215	Bartal Ignác, SR		1	596
+1215	Bartal Ignácz		1	743
+1215	Bartal Imrich		1	580,743
+1215	Bartal Imrich, SR		1	596
+1215	Bartal Ján, SR		1	596
+1215	Bartal Juraj		1	513,564,565,566,803,818,819,889
+1215	Bartal Koloman		1	781
+1215	Bartal Ladislav		1	513,564,565,566,803,818,819,889
+1215	Bartal Mikuláš, SR		1	596
+1215	Bartal Pavol		1	781
+1215	Bartal Peter		1	743,779
+1215	Bartal Peter, SR		1	596
+1215	Bartalová Agneša		1	779
+1215	Bartalová Agneša, SR		1	596
+1215	Bartalová Alžbeta		1	779
+1215	Bartalová Alžbeta r. Bartalová		1	747
+1215	Bartalová Alžbeta, SR		1	596
+1215	Bartalová Anna		1	513,564,565,566,779,803,818,819,889
+1215	Bartalová Anna r. Görcsová		1	779
+1215	Bartalová Anna, SR		1	596
+1215	Bartalová Barbora		1	513,565,566,819,889
+1215	Bartalová Barbora, SR		1	596
+1215	Bartalová Borbála		1	743
+1215	Bartalová Borbála, SR		1	596
+1215	Bartalová Eleonóra		1	755,779
+1215	Bartalová Eleonóra, SR		1	596
+1215	Bartalová Etela, SR		1	596
+1215	Bartalová Helena		1	513,564,565,566,580,803,818,819,889
+1215	Bartalová Júlia r. Lukácsová, SR		1	627
+1215	Bartalová Katarína		1	513,564,565,803,818,889
+1215	Bartalová Mária		1	513,564,565,566,803,818,819,889
+1215	Bartalová Mária r. Gódányová, SR		1	596
+1215	Bartalová Rozália		1	779
+1215	Bartalová Rozália, SR		1	596
+1215	Bartalová Ružena r.Miklósová		1	513,564,565,803,818,889
+1215	Bartalová Terézia, SR		1	596
+1215	Borbélyová Katarína		1	580
+1215	Bott Peter		1	647,799
+1215	Csenkeiová Juliana		1	573
+1215	Csenkeiová Juliana r. Kulcsárová		1	770,836
+1215	Csenkeiová Juliana r.Kulcsárová		1	771
+1215	Csókaová Mária r. Bartalová		1	747
+1215	Eberhárdtová Katarína r. Bernáthová		1	740
+1215	Erdős Peter		1	745
+1215	Erős Imrich		1	599
+1215	Fehér Bertalan		1	647
+1215	Fekete Ján		1	711
+1215	Fekete Jozef		1	732
+1215	Forgóová Mária		1	779
+1215	Forgóová Mária, SR		1	596
+1215	Füle Ján		1	513,564,565,566,803,818,819,889
+1215	Füle Štefan		1	656,657
+1215	Füleová Aloizia r.Bartalová		1	513
+1215	Füleová Alojzia r. Bartalová		1	566,819
+1215	Füleová Júlia		1	513,564,565,566,803,818,819,889
+1215	Füleová Rozália		1	513,564,565,566,803,818,819,889
+1215	Gagóová Terézia r. Bartalová, SR		1	596
+1215	Gálffy Koloman		1	788
+1215	Gódányová Mária r. Bartalová, SR		1	596
+1215	Görcs František		1	753
+1215	Görcs František, SR		1	596,597,598
+1215	Görcs Imrich		1	647
+1215	Görcs Ľudovít		1	753
+1215	Görcs Peter		1	752
+1215	Görcs Vincent		1	647,753
+1215	Görcs Vincent, SR		1	596,597,598
+1215	Görcsová Juliana r. Bartalová		1	779
+1215	Görcsová Julianna r. Bartalová, SR		1	596
+1215	Görcsová Mária r. Bartalová		1	743
+1215	Görödiová Juliana r. Bartalová		1	781
+1215	Gulázsi Vendel		1	715
+1215	Gulázsi Vendelín		1	757
+1215	Gulázsy Vendelín		1	794
+1215	Haár Emanuel		1	765
+1215	Haár Leba Mojžiš		1	754
+1215	Haárová Terézia r. Goldsteinová		1	754,765
+1215	Hanibalová Mária r.Feketeová		1	734
+1215	Holocsi Jozef		1	549,591,654,849,850
+1215	Holocsi Jozef, SR		1	503,872
+1215	Horváth Martin		1	796
+1215	Horváth Vojtech		1	572,574,575,577
+1215	Horváthová Margita		1	766
+1215	Horváthová Mária r. Kovácsová		1	579
+1215	Horváthová Terézia r. Peerová		1	678,842,843
+1215	Iván Zoltán		1	721
+1215	Jágoová Terézia r. Bartalová		1	743
+1215	Jeszenszky Gabriel		1	700
+1215	Kalmár Július		1	736,870
+1215	Kásaová Terézia r. Karikaová		1	749
+1215	Kohn Július		1	765
+1215	Kovács Antal		1	708
+1215	Kovács Anton		1	783,791
+1215	Kovács Jozef		1	703
+1215	Kovács Július		1	726
+1215	Kovácsová Alžbeta		1	792
+1215	Kovácsová Anna r.Kulcsárová		1	675
+1215	Kovácsová Juliana r. Lukácsová		1	786
+1215	Kovácsová Marcela r. Lukácsová		1	791
+1215	Kovácsová Mária		1	576
+1215	Kovácsová Mária r. Lukácsová		1	758
+1215	Kovácsová Terézia		1	722
+1215	Kovarík Ján		1	584
+1215	Kulcsár Ján		1	675
+1215	Kulcsár Juraj		1	675
+1215	Kulcsár Pavol		1	787
+1215	Kulcsárová Alžbeta r. Ivanová		1	705
+1215	Kulcsárová Terézia		1	495
+1215	Kulcsárová Terézia r. Bognárová		1	770,836
+1215	Kulcsárová Terézia r.Bognárová		1	771
+1215	Lukács Ján		1	766
+1215	Lukács Moricz		1	786
+1215	Lukácsová Barbora r. Kulcsárová		1	613
+1215	Lukácsová Verona r. Mozoliová		1	786
+1215	Lukácsová Veronika r. Mozoliová		1	786
+1215	Lukovics Július		1	550
+1215	Lusztig Alexander		1	719
+1215	Martinová Mária r. Bartalová		1	779
+1215	Martinová Mariana r. Bartalová, SR		1	596
+1215	Matus Ľudovít		1	734
+1215	Mayerová Šarolta r. Lusztigová		1	719
+1215	Mériová Mária		1	559
+1215	Mészáros Aurel		1	570
+1215	Mészárosová Cecília		1	551,552,652,851,873,874
+1215	Mészárosová Cecília r.Puhaová		1	521
+1215	Mikóczi František		1	599
+1215	Mórocz Alexander		1	759
+1215	Mórocz František		1	759
+1215	Mórocz Jozef		1	759
+1215	Móroczová Agneša		1	759
+1215	Móroczová Alžbeta r. Orbánová		1	759
+1215	Mozoli Alex		1	736,870
+1215	Mozoli František		1	736,870
+1215	Mozoli Ján		1	736,786,870
+1215	Mozoli Vavrinec		1	736,870
+1215	Mozoliová Alžbeta r. Titusová		1	736,870
+1215	Mozoliová Katarína		1	736,870
+1215	Nadácia Bartal		1	761
+1215	Nagy Árpád		1	585
+1215	Nagy Ladislav		1	585
+1215	Obercová Alžbeta		1	599
+1215	Obrecz Vincent		1	647
+1215	Ollé Ladislav		1	504
+1215	Oroszová Verona r. Sidóová		1	715
+1215	Pálffy František		1	768
+1215	Pálffy Koloman		1	676
+1215	Pálffyová Margita		1	768
+1215	Pálfi František r. Pálfi		0	855
+1215	Pálfi Koloman r. Pálfi		0	855
+1215	Pálfyová Terézia r.Puhová		1	552,874
+1215	Patakyová Alžbeta r. Kulcsárová		1	793
+1215	Patakyová Margita r. Lukácsová		1	766
+1215	Peer František		1	678,842,843
+1215	Petényiová Aranka, SR		1	648
+1215	Petényiová Magdaléna, SR		1	648
+1215	Póda Vendelín		1	774
+1215	Pódaová Mária r. Gencsová, SR		1	606

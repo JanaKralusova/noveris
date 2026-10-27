@@ -1,0 +1,256 @@
+915	Girman Michal	ž.Alžbeta r.Marcinová	1	1432
+915	Girman Michal	ž.Mária r.Stašková	1	1416
+915	Girman Michal, SR	ž. Alžbeta r Marcinová	1	1209,1935
+915	Girman Michal, SR	ž.Alžbeta r. Marcinová	1	1727,1934
+915	GIRMAN Michal, SR	1930	1	1209,1935
+915	GIRMAN Michal, SR	r.1930	1	1608,1727,1934
+915	GIRMAN Michal, SR	ž.Alžbeta r.Marcinová	1	1213
+915	GIRMAN Michal, SR	ž.Mária r.Stašková	1	1364,1600
+915	GIRMANOVÁ Alžbeta r. Marciová, SR		1	1608
+915	Girmanová Anna		1	1414,1430
+915	Girmanová Anna	nezl	1	1416
+915	GIRMANOVÁ Anna, SR		1	1333,1399,1414
+915	GIRMANOVÁ Mária r. Čičiková, SR		1	1624
+915	GIRMANOVÁ Mária r. Stašková, SR		1	1364,1600
+915	Girmanová Paulina	mal	1	1791
+915	GIRMANOVÁ Paulina, SR	mal	1	1599
+915	GIRMANOVÁ Pavlina		1	1209,1432,1935
+915	GIRMANOVÁ Pavlina, SR		1	1363,1581,1727,1934
+915	GIRMANOVÁ Zuzana r. Raková, SR	m.Michal	1	1215
+915	Girmanová Zuzana r. Rebová		1	1437
+915	GIRMANOVÁ Zuzana r. Rebová, SR		1	1655
+915	GREGOVÁ Irena r. Baranová, SR		1	1503
+915	GRIBOVSKÁ Mária r. Rešetárová, SR		1	1152
+915	GRIMANOVÁ Rosa r. Lajošová, SR		1	1630
+915	HAJAŠ Vojtech, SR		1	1133
+915	HAJAŠOVÁ Priska, SR		1	1133
+915	HAJTO BEREŠ Andrej, SR		1	1220,1659
+915	HAJTO BEREŠ Ján, SR		1	1124
+915	HAJTO BEREŠ Štefan, SR		1	1220,1659
+915	HAJTO Michal, SR		1	1382,1647
+915	HAJTO Michal, SR	ž.Zuzana r.Eštuová	1	1659
+915	Hajtová Alžbeta r. Berešová		1	1454
+915	HAJTOVÁ Alžbeta r. Berešová, SR		1	1124
+915	HAJTOVÁ Barbora, SR		1	1382,1647
+915	HALAS - BAKUROVÁ Alžbeta, SR		1	1162
+915	HALAS Andrej, SR	ž.Alžbeta r.Rešková	1	1583
+915	HALAS BAKURA Juraj, SR		1	1162
+915	HALAS BAKURA Michal, SR		1	1162
+915	HALAS Ján, SR		1	1163
+915	HALAS Ján, SR	ž.Žofia r.D.Nagyová	1	1464,1783,1887,1921,1922
+915	HALAS Juraj, SR	ž.Mária r.Sakal Valeková	1	1395
+915	HALASOVÁ Mária r. Sakal Valeková, SR		1	1395
+915	HARČÁR Ján, SR	ž.Anna r.Širotníková	1	1511
+915	HARČÁROVÁ Anna r. Širotníková, SR		1	1511
+915	HART Alfred, SR		1	1119,1344,1345,1353,1382,1663
+915	HATALA Juraj, SR		1	1382
+915	HATALOVÁ Mária r. Sakal Šegová, SR		1	1382
+915	HEGEDUŠ Andrej, SR		1	1165,1313,1831
+915	HEGEDUŠ Imrich, SR	m.Anna r.Čorová	1	1523
+915	Hegeduš Ján		1	1455
+915	HEGEDUŠ Ján, SR		1	1165,1313,1831
+915	HEGEDUŠOVÁ Alžbeta r. Jankovská, SR	r.m.Andrej	1	1165
+915	HEGEDUŠOVÁ Alžbeta r. Jankovszká, SR		1	1313,1831
+915	Hegedušová Mária r. Jurošová		1	1455
+915	HERŠKOVIČOVÁ Žeňa r. Leizorovičová, SR		1	1345
+915	HORŇÁK Juraj, SR	ž.Alžbeta r.Lajošová	1	1547
+915	HORŇÁKOVÁ Alžbeta r. Lajošová, SR		1	1547
+915	HOVANECOVÁ Mária r. Popelášová, SR		1	1088,1089
+915	HREHA Andrej, SR		1	1485
+915	HREHA Ján, SR		1	1485
+915	HREHA Michal, SR	ž.Zuzana r.Feketová	1	1592
+915	HREHOVÁ Zuzana r. Feketová, SR		1	1592
+915	HREŠKO Andrej, SR		1	1605
+915	HREŠKOVÁ Alžbeta r. Kováčová, SR		1	1605
+915	Hricová Anna r. Kerekešová		1	1610
+915	HRICOVÁ Zuzana r. Tomko Fekete, SR		1	1313,1831
+915	HRUBOVSKÁ Anna r. Mokáňová, SR		1	1462,1464,1783,1887,1921,1922
+915	HRUBOVSKÝ Andrej, SR	ž.Anna r.Mokáňová	1	1462,1464,1783,1887,1921,1922
+915	Hutmanová Mária r. Kašková	m.Ján	1	1430
+915	HUTMANOVÁ Marta, 113, SR		1	1507
+915	IVANOVÁ Mária r. Paricsiová, SR	muž Jozef	1	1313,1831
+915	IVANOVÁ Mária r. Paričiová, SR	m.Jozef	1	1120,1224,1863
+915	Jacko Aandrej, SR		0	788
+915	Jacko Andrej		0	787
+915	JACKO Andrej, SR		1	1382
+915	Jacko Ján, SR		1	787,788,1382,1629
+915	JACKO Ján, SR	ž.Mária r.Demjanová	1	1382
+915	JACKO Juraj, SR		1	1382
+915	JACKO Michal, SR	ž.Anna r.Girmanová	1	1565
+915	JACKOVÁ Anna r. Girmanová, SR		1	1565
+915	JACKOVÁ Anna r. Papaiová, SR	muž Andrej	1	1382
+915	JACKOVÁ Mária r. Demjaková, SR		1	1629
+915	JACKOVÁ Zuzana r. Tatarková, SR		1	1382
+915	JAGER Andrej, SR	ml	1	1313,1646,1831
+915	JAGER BILI Ján, SR		1	1313,1831
+915	JAGER BILI Ján, SR	ml	1	1313,1831
+915	JAGER Ján, SR	Bilý /ž. Mária r. Juhásová	1	1305
+915	JAGEROVÁ Alžbeta, SR		1	1173,1313,1831
+915	JAGEROVÁ Alžbeta, SR	mal	1	1382
+915	JAGEROVÁ BÍLA Mária r. Juhasová, SR		1	1305,1313,1641,1831
+915	JAKAB Ján, SR	ž.Alžbeta r.Feketová	1	1313,1831
+915	JAKIM Michal, SR	ž.Mária r.Paričiová	1	1502
+915	JAKIMOVÁ Mária r. Paričiová, SR		1	1502
+915	Jakubová Alžbeta r. Feketová		1	1431
+915	JAKUBOVÁ Alžbeta r. Feketová, SR		1	1650
+915	JAKUBOVIČ Menhart, SR	ž.Rozália r.Herškovičová	1	1362
+915	JANKOVSKÁ Alžbeta r. Feketeová, SR		1	1313,1831
+915	JANKOVSKÁ Anna r. Fazekašová, SR		1	1382
+915	JANKOVSKÁ Anna r. Fzekašová, SR		0	1382
+915	JANKOVSKÁ Anna r. Repovská, SR		1	1460,1464,1783,1887,1921,1922
+915	JANKOVSKÁ Jozef, SR		1	1382
+915	Jankovská Mária r. Babinčaková		1	1447,1455
+915	JANKOVSKÁ Mária r. Figľová, SR		1	1261,1313,1382,1831
+915	JANKOVSKA Mária r. Jurošová, SR		1	1150
+915	JANKOVSKÁ Mária r. Prihodová, SR		1	1147,1313,1464,1783,1831,1887,1921,1922
+915	JANKOVSKI Ján, SR		1	1382
+915	JANKOVSKI Michal, SR		1	1382
+915	JANKOVSKÝ Andrej, SR		1	1148,1276,1313,1464,1783,1831,1887,1921,1922
+915	JANKOVSKÝ Andrej, SR	ž.Mária r.Prihodová	1	1147
+915	Jankovský Ján		1	1447
+915	Jankovský Ján	ž.Mária r.Babinčáková	1	1455
+915	JANKOVSKÝ Ján, SR		1	1313,1831
+915	JANKOVSKÝ Ján, SR	ž.Mária r.Figeľová	1	1236,1261
+915	JANKOVSKÝ Jozef, SR		1	1382
+915	JANKOVSKÝ Jozef, SR	ž.Anna r.Fazekašová	1	1096,1382
+915	JANKOVSKÝ Michal, SR		1	1349,1667
+915	JANKOVSKÝ Michal, SR	ž.Anna r.Repovská	1	1464,1783,1887,1921,1922
+915	Jankovský Štefan	ž.Anna r.Prihodová	1	1418
+915	JANKOVSKÝ Štefan, SR		1	1096,1184,1308,1313,1349,1667,1831
+915	JANKOVSKÝ Štefan, SR	r.1935	1	1464,1783,1887,1921,1922
+915	JANKOVSZKI Ján, SR	ž.Mária r.Figelyová	1	1313,1831
+915	JANKOVSZKÝ Ján, SR	ž.Mária r.Figelyová	1	1382
+915	JAŠO Andrej, SR		1	1313,1382,1831
+915	JAŠOVÁ Mária r. Szakalová, SR		1	1313,1382,1831
+915	Ješo Andrej	ž.Mária r.Sakalová	1	1428
+915	Ješová Mária r. Sakalová	m. Andrej	1	1428
+915	JUHAASOVÁ Irena, SR		1	840
+915	JUHAS Andrej, SR	r.1910	1	1090
+915	JUHAS Gabriel, SR		1	1313,1831
+915	JUHÁS Michal, SR		1	1325
+915	JUHÁS Ondrej, SR	ml	1	1473
+915	JUHASOVÁ Alžbeta r. Lajošová, SR		1	1091,1093
+915	JUHÁSOVÁ Mária r. Kováčová, SR		1	1464,1921
+915	JUHASZ Andrej, SR	ž.Alžbeta r.Hrabovská	1	1831
+915	JUHASZ Andrej, SR	ž.Mária r.Kovacsová	1	1382
+915	Juhasz Gabriel, SR		1	638,1090,1091,1094,1785
+915	JUHASZ Imrich, SR	ž. Mária r.Hajtová	1	1382
+915	JUHASZ Michal, SR		1	1382
+915	JUHASZOVÁ Mária, SR	mal	1	1382
+915	Juroš Andrej	r.1910,neb	1	1436
+915	JUROŠ Andrej, SR	r.1910,neb	1	1281
+915	Juroš Ján	r.1940	1	1436
+915	Juroš Ján	r.1944	1	1433
+915	JUROŠ Ján, SR		1	1313,1382,1831
+915	JUROŠ Ján, SR	r.1940	1	1653
+915	JUROŠ Ján, SR	ž.Mária r.Bobiková	1	1306,1313,1653,1831
+915	Juroš Juraj	r.1940	1	1436
+915	JUROŠ Juraj, SR	r.1940	1	1393,1653
+915	Juroš Michal	r.1927	1	1433,1436
+915	Juroš Michal	r.1940	1	1436
+915	Juroš Michal, SR		1	578,1150,1313,1464,1783,1831,1887,1921,1922
+915	JUROŠ Michal, SR	1936	1	1228
+915	JUROŠ Michal, SR	manž.Anna r. Barcalová	1	1250
+915	JUROŠ Michal, SR	r.1927	1	1226
+915	JUROŠ Michal, SR	r.1936	1	1306
+915	JUROŠ Michal, SR	r.1940	1	1393,1653
+915	JUROŠ Michal, SR	ž,Anna r.Janošková	1	1382
+915	JUROŠ Michal, SR	ž.Anna r.Džuganová	1	1464,1783,1887,1921,1922
+915	JUROŠ Michal, SR	ž.Anna r.Janošková	1	1666
+915	JUROŠOVÁ Anna r. Barcalová, SR	m.Michal	1	1313,1831
+915	JUROŠOVÁ Anna r. Džuganová, SR		1	1464,1783,1887,1921,1922
+915	JUROŠOVÁ Anna r. Jankovská, SR	r	1	840
+915	JUROŠOVÁ Anna r. Jurošová, SR	m.Andrej	1	1281,1654
+915	JUROŠOVÁ Anna r. Otročinová, SR		1	1464,1660,1726,1783,1887,1921,1922
+915	JUROŠOVA Anna, SR	r.1944	1	1150
+915	JUROŠOVÁ Jolana r. Barcalová, SR		1	1464,1783,1887,1921,1922
+915	Jurošová Mária r. Bobiková		1	1436
+915	JUROŠOVÁ Mária r. Bobiková, SR		1	1322,1382,1653,1666
+915	JUROŠOVÁ Maria r. Fečková, SR		1	1098,1101,1102
+915	JUROŠOVÁ Mária r. Kanavalová, SR		1	1464,1783,1887,1921,1922
+915	KACSO - KANOCZOVÁ Alžbeta r. Berešová, SR	muž Juraj	1	1382
+915	KAČO - KANOCOVÁ Alžbeta r. Berešová, SR	m.Juraj	1	1133
+915	KAJEL Elemír, SR		1	1319,1382
+915	KALMÁN Andrej, SR	ž.Zuzana r.Pajtášová	1	1579
+915	KALMÁNOVÁ Zuzana r. Pajtášová, SR		1	1579
+915	KANAVALOVÁ Anna, SR	otec Juraj	1	1464,1783,1887,1921,1922
+915	KANAVALOVÁ Mária r. Mihľová, SR		1	1104,1105,1639
+915	KANAVALOVÁ Mária r. Mihlyová, SR		1	1382
+915	KAPAJKA Andrej, SR	ž.Mária r.Mišková	1	1553
+915	KAPAJKOVÁ Mária r. Mišková, SR		1	1553
+915	KASSAI Ján, SR		1	1313,1831
+915	KASSAI Juraj, SR	ž. Anna r.Horňaková	1	1382
+915	KASSAIOVÁ Anna r. Horňáková, SR	m. Juraj	1	1278
+915	KASSAIOVÁ Anna r. Lukačová, SR		1	1313,1831
+915	KAŠKO Andrej, SR		1	1265,1313,1831
+915	KAŠKO Andrej, SR	ml	1	1465
+915	Kaško Ján	ž.Mária r.Džuganová	1	1421
+915	KAŠKO Ján, SR		1	1265,1313,1831
+915	Kaško Juraj		1	1415,1430
+915	Kaško Michal	ž.Mária r.Hrubovská	1	1482
+915	KAŠKO Michal, SR		1	1265,1313,1831
+915	Kašková Anna		1	1415,1430
+915	KAŠKOVÁ Anna r. Banovská, SR		1	1465
+915	KAŠKOVÁ Anna r. Vladičová, SR		1	1171
+915	KAŠKOVÁ Anna r. Vlasáčová, SR		1	1285
+915	KAŠKOVÁ Anna r. Vlasašová, SR		1	1313,1831
+915	Kašková Mária r. Hrubovská		1	1482
+915	KAŠKOVÁ Mária r. Jagerová, SR		1	1282,1313,1646,1831
+915	KAŠKOVÁ Mária r. Kašková, SR		1	1507
+915	KIS - VARGAEŠTOKOVÁ Alžbeta r. Kovačová, SR		1	1382
+915	KIS VARGAEŠTOK Juraj, SR		1	1382
+915	Kissová Gizela r. Lantošová	r.20.9.1926	1	1783
+915	KISSOVÁ Gizela r. Lantošová, SR	r.20.9.1926	1	1464,1887,1921,1922
+915	KIŠ - LAJOŠOVÁ Barbora r. Tudjová, SR		1	1572
+915	KIŠ - VARGAEŠTOKOVÁ, SR		1	1464,1921
+915	KIŠ LAJOŠ Michal, SR	ž.Barbora r.Tudjová	1	1572
+915	KIŠ VARGA EŠTOK Andrej, SR		1	1313,1831
+915	Kiš Varga Eštok Michal	ž. Mária r.Juhasová	1	1409
+915	Kiš Varga Eštoková r. Eštuová	m.Andrej	1	1406
+915	KIŠ VARGA EŠTOKOVÁ r. Eštuová, Alžbeta, SR	m.Andrej	1	1879,1883
+915	KIŠ VARGAEŠTOK Andrej, SR		1	1382
+915	KLEINOVÁ Margita, SR		1	1119,1344,1345,1353,1382,1663
+915	KOLODI Andrej /ž. Anna r. Girmanová/		1	1160
+915	KOLODIOVÁ Anna r. Girmanová, SR		1	1160
+915	KOLODIOVÁ Anna r. Girmanová, SR	muž Andrej	1	1382
+915	KONTRA Juraj, SR	ž.Alžbeta r.Fečová	1	1831
+915	KOSTRUB Jozef, SR	ž.Barbora r.Sakalová	1	1201
+915	KOSTRUBOVÁ Anna r. Kelemenová, SR		1	1543
+915	Kosztrub Jozsef		0	1854
+915	Koško Andrej	ž.Anna r.Banovská	1	1455
+915	Košková Anna r. Banovská		1	1455
+915	KOŠKOVÁ Mária r. Jagerová, SR		1	1382
+915	KOVACS Andrej, SR		1	1382
+915	KOZARA Andrej, SR	ž.Alžbeta r.Sakálová	1	1157
+915	KOZAROVÁ Alžbeta r. Sakálová, SR		1	1157
+915	Kraus Dezider		1	1206,1403,1423
+915	KRAUS Dezider, SR		1	1119,1345,1391,1396,1637
+915	KRAUS Eugen, SR		1	1119,1345,1396
+915	Kraus Leopold		1	1423
+915	KRAUS Leopold, SR		1	1206,1345,1958
+915	Krištof Andrej		1	1455
+915	KRIŠTOF Andrej, SR	ž.Anna r.Takačová	1	1487
+915	KRIŠTOFČIK Ján, SR	ž.Mária r.Takáčová	1	1488
+915	KRIŠTOFČIKOVÁ Mária r. Takáčová, SR		1	1488
+915	KRIŠTOFOVÁ Anna r. Takačová, SR		1	1487
+915	KURTI Ján, SR	ž.Anna r.Fiľová	1	1567
+915	KURTIOVÁ Anna r. Fiľová, SR		1	1567
+915	KUŽMOVÁ Anna r. Feketeová, SR		1	1313,1831
+915	Kužmová Anna r. Feketová		1	1431
+915	KUŽMOVÁ Anna r. Feketová, SR		1	1650
+915	LAJOŠ Andrej, SR	ž.Mária r.Horosová	1	1570
+915	Lajoš Ján		1	1539
+915	LAJOŠ Ján, SR	ž.Barbora r.Kovačová	1	1535
+915	LAJOŠ Michal, SR	ž.Mária r.Rusnaková	1	1622
+915	Lajošová Barbora r. Kovačová		1	1539
+915	LAJOŠOVÁ Barbora r. Kovačová, SR		1	1535
+915	LAJOŠOVÁ Mária r. Horosová, SR		1	1570
+915	LANTOŠ František, SR		1	1464,1783,1887,1921,1922
+915	LANTOŠ Ladislav, SR		1	1464,1783,1887,1921,1922
+915	LASEKOVÁ Anna r. Domaracká, SR		1	1088,1089
+915	LASEKOVÁ Mária, SR	r..1935	1	1088
+915	LASEKOVÁ Mária, SR	r.1935	1	1089
+915	LASZTOMERSZKI Ján, SR		1	1652
+915	Magneszová Mária r. Tomko Králová	manž. Jozef	0	1853
+915	MAJCHER Ján, SR		1	1578
+915	MAJCHEROVÁ Anna r. Obščinčová, SR		1	1578

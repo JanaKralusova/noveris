@@ -1,0 +1,256 @@
+340	SR-MNV Častkov		0	1
+340	SR-Slovenský pozemkový fond Bratislava		0	559,562,798,799,1107,1420
+340	Sukup Ján	maloletý	0	1604
+340	Sukupčák Ján	m. Zuzana Vojtková	0	971,1827
+340	Súkupčák Ján		0	766,1778
+340	Sukupčak Samuel	maloletý	0	1525,1527
+340	Sukupčák Štefan		0	1525,1670
+340	Sukupčáková Anna r. Dermišková		0	607,1710
+340	Sukupčáková Anna r. Mičová Zlochová		0	278,280,281,326,547,946,947,948,949,953,956,957,958,1488,1489,1582,1650,1776
+340	Súkupčáková Zuzana r. Vojtková	m. Ján	0	548,583,584,585,813,814,1625
+340	Šaliková Katarína r. Španková	rd. Ján a Mária r. Smetanová	0	594,597,636,765,967,1243,1244,1245,1246,1366,1503,1871,1872
+340	Šarabok Jozef	maloletý	0	1751
+340	Šaraboková Oľga		0	1795
+340	Šefčíková Kristína r. Vojteková		0	548,1216,1291,1622
+340	Šefčíková Zuzana r. Mičová-Zlochová	m.Juraj	0	1117
+340	Šifla Ján		0	1779
+340	Šifla Martin		0	1779
+340	Šifla Pavol		0	1779
+340	Šiflová Kristína		0	1779
+340	Šimek Ján	m.Mária r.Tomešová	0	1703
+340	Šimek Pavel	m.Anna r.Kuchtová	0	1554,1684,1734
+340	Šimek Pavel	m.Anna r.Teplicová	0	1654
+340	Šimeková Anna r. Teplicová	m.Pavel	0	1654
+340	Šiška Ján	m.Kristína r.Tomečeková, zomrel 28.5.1991	0	1783
+340	Šiška Martin Ivan		0	1816
+340	Šišková Anna		0	1740
+340	Šišková Kristína r. Tomečeková	zomrela 14.1.1986	0	1783
+340	Škarítka Ján		0	1546
+340	Škvorák Pavel	slobodný	0	903,904,905,910,1310,1474,1478,1576,1711
+340	Škvoráková Kristína r. Hulková		0	1756
+340	Šmorancová Mária r. Balážová		0	1697
+340	Španek Ján	m.Anna Kalamenová	0	594,597,636,765,967,1243,1244,1245,1246,1366,1503,1871,1872
+340	Španek Michal	rd.Ján a Mária r. Smetanová	0	594,597,636,765,967,1243,1244,1245,1246,1366,1503,1871,1872
+340	Špankovič Antonín	m.Anna r.Teplicová	0	1238,1430,1632,1641,1663
+340	Špankovič Ján	m.Emília r.Potúčková	0	1632
+340	Špankovičová Anna r. Teplicová		0	594,597,636,765,967,1243,1244,1245,1246,1366,1503,1660,1737,1743,1825,1871,1872
+340	Špankovičová Zuzana r. Krištofíková	m.Štefan	0	134,1428,1430,1638,1641
+340	Štefek Martin	m. Zuzana Mičová, zomrel 28.6.2010	0	1713
+340	Štefík Eduard		0	594,597,636,765,967,1243,1244,1245,1246,1366,1503,1871,1872
+340	Štefík Emil		0	594,597,636,765,967,1243,1244,1245,1246,1366,1503,1871,1872
+340	Štefík Ján	súrodenci Magdaléna a Ondrej	0	594,597,636,765,967,1243,1244,1245,1246,1366,1503,1871,1872
+340	Štefík Jozef	zomrel 19.8.2003	0	967
+340	Štefík Ľudovít		0	594,597,636,765,967,1243,1244,1245,1246,1366,1503,1871,1872
+340	Štefíková Kristína r. Krištofíková		0	594,597,636,765,967,1243,1244,1245,1246,1366,1503,1777,1871,1872
+340	Štepanovská Ernestina r. Lovecká		0	1843
+340	Štepanovská Salezia r. Mikulová		0	1821
+340	Štepanovská Štefánia r. Polláková	m.Stanislav	0	1814
+340	Štepanovský Stanislav	m.Štefánia r.Polláková	0	1814
+340	Švarná Zuzana r. Praskačová		0	1280
+340	Teplica Ján	maloletý	0	1141,1706
+340	Teplica Martin	zomrel 26.1.1972	0	1718
+340	Teplica Pavol		0	594,597,636,765,967,1243,1244,1245,1246,1366,1503,1871,1872
+340	Teplicová Alžbeta r. Sukupová	zomrela 31.10.2007	0	1523
+340	Teplicová Anna r. Vojtková	zomrela 11.7.2010	0	645
+340	Teplicová Anna r. Zálešáková		0	1691
+340	Tomečková Alžbeta r. Vrablicová	m.Ján	0	1317
+340	Trimel Anton		0	1704
+340	Trímel Ján		0	1760
+340	Trimel Pavol		0	1214
+340	Turčinová Mária r. Matejovičová	zomrela 21.7.1976	0	62
+340	Valenta Ján	m.Alžbeta r. Súkupčáková	0	583,813
+340	Valenta Juraj	m.Andela r.Martinkovičová	0	583,813
+340	Valentová Alžbeta r. Sukupčáková	m.Ján	0	1628
+340	Valková Anna r. Ilčíková	m.Pavol Valka	0	1543
+340	Vávra Celestýn		0	702
+340	Vávra Ferdinand r. Vávra	zomrel	0	702
+340	Vávrová Mária r. Rafajová		0	1808
+340	Vlčej Ondrej	m.Mária r.Hurbanová	0	1819
+340	Vlčej Pavel		0	594,597,636,765,967,1243,1244,1245,1246,1366,1503,1871,1872
+340	Vlčej Šimon	m.Justína r.Ščítna	0	1819
+340	Vlčejová Justína r. Štítna		0	1815
+340	Vlčková Zuzana r. Sukupová	zomrela 31.12.2000	0	1523
+340	Vojtek Ján	m.Alžbeta Vojtková	0	1849
+340	Vojtek Ján	rd. Martin a Anna r. Podzámska	0	1265
+340	Vojtek Ján r. Vojtek	zomrel	0	970,971
+340	Vojtek Juraj	m. Zuzana r. Sukupčáková	0	813
+340	Vojtek Juraj	m.Zuzana r.Súkupčáková	0	583,585,814,971,1257,1260
+340	Vojtek Juraj	zomrel 29.5.1991	0	1694
+340	Vojtek Juraj	zomrel 7.2.1989	0	1845
+340	Vojtek Martin	rd. Ján a Zuzana r.Šimková	0	1750
+340	Vojtek Martin	zomrel 21.6.1998	0	1291
+340	Vojtek Pavel	rd.Juraj a Mária r. Roháčková	0	971,1828,1830,1846,1849
+340	Vojtek Pavol	zomrel 5.4.1989	0	1666
+340	Vojteková Anna r. Mičová-Zlochová	zomrela 10.1.1989	0	380,547,946,947,948,949,956,957,971,1488,1489,1490,1582,1650
+340	Vojteková Anna r. Teplicová	m.Martin	0	594,597,636,765,967,1243,1244,1245,1246,1366,1503,1871,1872
+340	Vojtková Anna	rd. Martin a Anna r. Podzámska	0	1265
+340	Vojtková Anna	slabomyselná, rd.Juraj a Mária r.Roháčková	0	1828,1830,1846,1849
+340	Vojtková Anna r. Gabrielová		0	1667
+340	Vojtková Emília	rd. Martin a Anna r. Podzámska	0	1265
+340	Vojtková Katerina r. Vojtková		0	971,1829
+340	Vojtková Mária	rd. Martin a Anna r. Podzámska	0	1265
+340	Zálešák Martin		0	1690
+340	Zálešáková Anna r. Vojtková	m.Ján	0	303
+340	Závodská Helena r. Španková	rd. Ján a Mária r. Smetanová	0	594,597,636,765,967,1243,1244,1245,1246,1366,1503,1871,1872
+340	Zimka Antonín	maloletá	0	1157
+340	Zimka Ignác		0	1841
+340	Zimková Viktória	maloletá	0	1157
+340	Zinková Agneša r. Harnošová	m.Karol	0	594,597,636,765,967,1243,1244,1245,1246,1366,1503,1871,1872
+340	Zona Ján	zomrel 9.7.2005	0	461,1716,1823
+340	Žáková Anna	maloletá	0	1123,1600
+341	Augustín Alojz r. Augustín	maloletý v roku 1929	0	898,1950
+341	Augustín Jozef r. Augustín	ž.Agnesa r.Štefánková	0	3402
+341	Augustín Jozef r. Augustín	ž.Anna r.Ondrejechová	0	3496
+341	Augustín Juraj r. Augustín		0	3739
+341	Augustín Juraj r. Augustín	ž.Anna r.Madrová	0	898,1950
+341	Augustín Michal r. Augustín		0	3215
+341	Augustín Michal r. Augustín	so Zuzanou, Gašparom	0	1969,3056
+341	Augustínová Alžbeta r. Hrušovská		0	4138
+341	Augustínová Alžbeta r. Križáková		0	3676
+341	Augustínová Anna r. Gonová		0	3624
+341	Augustínová Anna r. Klčová	m.Jozef, Podolie 263	0	3167
+341	Augustínová Anna r. Mikušová	m.Gašpar	0	4054
+341	Augustínová Emerencia r. Červenanská	vdova, po Anne Červenanskej r. Čechvalovej	0	4063
+341	Augustínová Helena r. Matyášová		0	3168,4224
+341	Augustínová Margita	maloletá v roku 1929	0	898,1950
+341	Augustínová Margita r. Palcútová		0	1520
+341	Augustínová Mária r. Hanícová	m.Juraj	0	3600
+341	Barančík Juraj r. Barančík		0	3639,4240
+341	Bielik František r. Bielik	ž.Anna r.Ščepková	0	3572
+341	Bieliková Anna r. Augustínová		0	3765
+341	Bieliková Anna r. Kadlecová	po Cecílii Kadlecovej r. Bielikovej	0	3026
+341	Bobocká Štefánia	s Jánom, Agnešou a Jozefom	0	3103
+341	Bobocký Ján r. Bobocký	ž.Jozefína r.Hrušovská	0	3646
+341	Bobocký Ján r. Bobocký	ž.Štefánia r.Ševcechová, Podolie 459	0	3148
+341	Bobocký Jozef r. Bobocký	maloletý v roku 1944	0	3259
+341	Bublavá Agáta r. Lišková	Častkovce 203	0	4225
+341	Bublavá Alžbeta r. Ondrejková		0	1949
+341	Bublavá Alžbeta r. Ondrejková	Ján	0	1947,1948
+341	Bublavá Apolónia r. Macháčová	Častkovce 268	0	4113
+341	Bublavá Apolónia r. Macháčová	m.Gašpar, Častkovce 204	0	3189
+341	Bublavá Katarína r. Bublavá	m. Michal	0	3734
+341	Bublavý Ján r. Bublavý	ž.Alžbeta r.Ondrejková, znovu vydatá Piscová	0	4160
+341	Bublavý Juraj r. Bublavý	ž.Zuzana r.Čechvalová	0	3234
+341	Bublavý Michal r. Bublavý	ž.Katarína r.Bublavá	0	3694
+341	Bublavý Michal r. Bublavý	ž.Mária r.Zemková	0	3262
+341	Bublavý Vojtech r. Bublavý	ž.Etela r.Masárová	0	1952,3533
+341	Burza Alojz r. Burza	maloletý v roku 1927, Očkov 6, Podolie	0	3066,3297
+341	Burza Alojz r. Burza	staré sč. 53	0	3740
+341	Burza Ján r. Burza		0	2970,4190
+341	Burza Ján r. Burza	ž.Irena r.Palcútová	0	1520,2970,3432
+341	Burza Jozef r. Burza	maloletý v roku 1919	0	1888
+341	Burza Juraj r. Burza	maloletý do roku 1929, Rybník 688, Častkovce	0	3066,3273
+341	Burza Michal r. Burza	ž. Zuzana r. Krajčechová	0	3453
+341	Burza Vincent r. Burza	zomr.19.10.1969	0	1889
+341	Burzová Helena	maloletá v roku 1950	0	3302
+341	Burzová Ilona		0	3879
+341	Burzová Irena r. Palcútová		0	1520,2970,3958
+341	Burzová Jana r. Mišáková	Potvorice 58	0	3478
+341	Burzová Serafína r. Hevjerová	vdova	0	3411
+341	Burzová Zuzana r. Krajčechová	m. Michal	0	3987
+341	Cagala Ján r. Cagala		0	1931
+341	Cagala Ján r. Cagala	ž.Alžbeta r.Bublavá, Častkovce 61	0	4010
+341	Cagala Michal r. Cagala		0	1931,1932,3901
+341	Cagala Michal r. Cagala	ž. Anna r.Piscová, sč. 67	0	3826
+341	Cagala Michal r. Cagala	ž.Katarína r.Matyášová	0	3404
+341	Cagalová Alžbeta r. Bublavá	m.Ján	0	4181
+341	Cagalová Anna r. Masárová		0	3929
+341	Cagalová Anna r. Piscová	sč. 67, m. Michal	0	3203
+341	Cagalová Emerencia r. Masárová		0	3460
+341	Cagalová Emília r. Kováčiková	m. Michal	0	3510
+341	Cagalová Katarína r. Matiášová	m.Michal	0	3241
+341	Cagalová Katarína r. Matyášová	Častkovce 62	0	3545
+341	Cagalová Valéria		0	1931
+341	Cagalová Zuzana r. Kuchtová	vdova po Jánovi	0	1931,1932,1939
+341	Cagalová Zuzana r. Ondrejková	Podolie 240	0	3631
+341	Cibulka Michal r. Cibulka	ž.Cecília r.Čechvalová	0	4070
+341	Čechvala Albert r. Čechvala	ž.Anna	0	4019
+341	Čechvala Alojz r. Čechvala	maloletý v roku 1950	0	3390
+341	Čechvala František r. Čechvala		0	3328
+341	Čechvala František r. Čechvala	po Kataríne	0	3342
+341	Čechvala Ján r. Čechvala	ž.Mária r.Plencnerová	0	3361
+341	Čechvala Jozef r. Čechvala		0	3962
+341	Čechvala Jozef r. Čechvala	po Margite Kostolányovej	0	3463
+341	Čechvala Juraj r. Čechvala		0	3855
+341	Čechvala Martin r. Čechvala	ž.Johana r.Havierová	0	3310
+341	Čechvala Michal r. Čechvala	maloletý v roku 1950	0	3887
+341	Čechvalová Agáta r. Palkechová		0	1349,1351,3945
+341	Čechvalová Anna r. Barančíková	Častkovce 142	0	3134,4225
+341	Čechvalová Anna r. Hladká		0	3405
+341	Čechvalová Anna r. Jurdová	po Gašparovi	0	3823
+341	Čechvalová Anna r. Križáková		0	3334
+341	Červeňanská Agáta		0	3056
+341	Červeňanská Agáta	maloletá v roku 1908	0	3270
+341	Červeňanská Agáta	maloletá v roku 1908, s Máriou Alojziou	0	3689
+341	Červeňanská Alžbeta r. Zemková	m.Štefan	0	4129
+341	Červeňanská Anna r. Čechvalová	m.Ján	0	3570
+341	Červeňanská Jozefína r. Gonová	manž.Ľudovít, Častkovce 152	0	3663
+341	Červenanská Jozefína r. Rákayová		0	3984
+341	Červeňanská Mária		0	3056
+341	Červeňanská Mária	maloletá v roku 1908	0	3196
+341	Červeňanská Mária Alojzia	maloletá v roku 1908, s Agátou	0	4155
+341	Červeňanská Mária r. Fogašová	m.Ján, o.č.221	0	2013,3516
+341	Červeňanský Ján r. Červeňanský	m.Mária r.Fogašová, o.č.221	0	2012,2013,3970
+341	Červenanský Jozef r. Červenanský	ž.Jozefína r.Augustínová	0	2197,3793
+341	Červenanský Michal r. Červenanský	manželka Anna r.Plichtová	0	1896,1897
+341	Červenanský Štefan r. Červenanský	ž.Alžbeta r.Zemková	0	3578
+341	Červenanský Štefan r. Červenanský	ž.Zuzana r.Čechvalová	0	4044
+341	Dudík Pavel	664 42, Modřice, ČR	0	4230
+341	Ďurochová Katarína r. Jurinová	Juraj, vdova	0	3267
+341	Endrisová Alžbeta r. Ševcechová		0	761,4146
+341	Fogaš Gašpar r. Fogaš	ž.Ilona r.Halienková	0	3468
+341	Fogaš Michal r. Fogaš	po Jánovi ž. s. Apolou r. Augustínovou	0	3937
+341	Fogašová Angela r. Burzová		0	3252
+341	Fogašová Valéria	Rumburská č.796, 40777 Šluknov, ČR	0	4013
+341	Gábor Július r. Gábor		0	2615
+341	Gašpar Matyáš r. Gašpar		0	1884
+341	Gonová Jana r. Barančíková		0	4178
+341	Gučík Imrich r. Gučík	ž.Alžbeta r.Mašánová	0	3340
+341	Gučík Ján r. Gučík	maloletý v roku 1928	0	3396
+341	Gučík Jozef r. Gučík	po Jánovi Gučíkovi	0	2748,3190
+341	Gučík Marián r. Gučík	maloletý v roku 1946	0	4028
+341	Gučík Peter r. Gučík	ž.Alžbeta r.Ondrejková	0	3070
+341	Gučík Rudolf r. Gučík	maloletý v roku 1927, po Jánovi Gučíkovi	0	2748,3523
+341	Gučík Štefan r. Gučík	maloletý v roku 1927	0	2748,4199
+341	Gučíková Alžbeta r. Ondrejková	m.Peter	0	3070
+341	Gučíková Jozefína	maloletá v roku 1934, po Františkovi Gučíkovi	0	3532
+341	Gučíková Jozefína r. Hanícová		0	4102
+341	Gučíková Katarína r. Macháčová	Gašpar	0	4123
+341	Gučíková Zuzana	malolet v roku 1928, s Anna, Filoména, Mária, Štefánia,Ján	0	3235
+341	Halienka Arnošt r. Halienka	Čachtice	0	4159
+341	Halienka Ernest r. Halienka	žPavlína r.Jurinová,zomrel,Častkovce č.194,Častkovce 91627	0	3657
+341	Halienka František r. Halienka	maloletý v roku 1945	0	3186
+341	Halienka František r. Halienka	s Jánom	0	3521
+341	Halienka Ján r. Halienka		0	3604
+341	Halienka Ján r. Halienka	brat Jozef a Timotej, zom.,Švermova č.17,Litvínov 43601,ČR	0	3106
+341	Halienka Ján r. Halienka	ž.Anna r.Hanícová, sč. 112	0	1972,4085
+341	Halienka Ján r. Halienka	ž.Filoména r.Čechvalová	0	2015,2016,3814
+341	Halienka Jozef r. Halienka	ž.Mária r.Cibulková	0	3292
+341	Halienka Juraj r. Halienka	Anna r.Jankechová	0	4114
+341	Halienka Juraj r. Halienka	po Márii r. Hevierovej, vdove po Jurajovi	0	2016,3129
+341	Halienka Juraj r. Halienka	s Jánom, Timotom, Jozefom	0	1894
+341	Halienka Juraj r. Halienka	ž. Anna r.Jankechová, o.č.76	0	3924
+341	Halienka Milan r. Halienka	zom.,nepresný dátum úmrtia,Častkovce č.258,Častkovce 91627	0	3146
+341	Halienka Štefan r. Halienka		0	3049
+341	Halienka Timotej r. Halienka	ž. Pavlína r. Šimová, Častkovce 91	0	3407
+341	Halienka Vojtech	nar. v r.1930, bytom Horná Streda	0	3073
+341	Halienková Anna r. Hanícová	m.Ján, sč. 112	0	1972
+341	Halienková Anna r. Jankechová	m.Juraj, o.č.71, D 729/61-chýba	0	3848
+341	Halienková Filoména r. Makarová	m.Juraj	0	3427
+341	Halienková Hedviga		0	3073
+341	Halienková Pavlína r. Šimová	m.Timotej, sč. 91, zomrela	0	3336
+341	Haníc Albert r. Haníc	po Anne, staré sč. 17	0	3449
+341	Hanic František r. Hanic		0	3840
+341	Hanic František r. Hanic	po Alžbete Hanicovej r. Burzovej, s Jánom	0	3277
+341	Hanic František r. Hanic	po Michalovi, s Jánom	0	3889
+341	Haníc Gašpar r. Haníc	ž.Mária r.Ondresková	0	3905
+341	Hanic Imrich r. Hanic	manž.Anna Babušková	0	3331
+341	Haníc Imrich r. Haníc		0	3028
+341	Haníc Imrich r. Haníc	manž.Anna r.Babušková	0	3979
+341	Hanic Ján r. Hanic	po Michalovi ž. s Alžbetou r. Burzovou, s Františkom	0	4260
+341	Haníc Ján r. Haníc		0	3414
+341	Haníc Ján r. Haníc	maloletý v roku 1938	0	3049
+341	Haníc Ján r. Haníc	syn Jozefa, nar. 27.1.1922	0	1914
+341	Haníc Ján r. Haníc	ž.Brigita r.Masárová	0	3628
+341	Hanic Jozef r. Hanic		0	1919
+341	Hanic Jozef r. Hanic	manž.Mária r.Bolješíková	0	4060

@@ -1,0 +1,256 @@
+950	SVÝBA Ján		0	2454,2495,2555,4809,4820,5068,5307,5643,6325
+950	SVÝBA Ján /čd. 1217/18/, SR		0	3959,3960,6189,6190,6191,6232
+950	SVÝBA Ján /čd. 1217/1918/, SR		0	2777,6183,6184,6354,6356,6404,6457,6458,6459
+950	SVÝBA Ján, SR		0	1909,2217,2443,2781,2782,2783,3218,3385,3559,3605,3636,3700,3849,4186,4549,4819,5630,5736,5924,5925,5932,6030,6096,6107,6179,6180,6181,6182,6185,6186,6187,6188,6192,6481
+950	Svýba Ondrej		0	6325
+950	SVÝBA Ondrej, SR		0	3626,5567,6223
+950	SVÝBA Štefan		0	2454,2495,2555,4809,4820,5088,5307,5643,6325
+950	SVÝBA Štefan /čd. 1110/19/, SR		0	3959,3960,6189,6190,6191,6232
+950	SVÝBA Štefan /čd.1110/1919/, SR		0	2777,6183,6184,6354,6356,6404,6457,6458,6459
+950	SVÝBA Štefan, SR		0	1909,2217,2443,2781,2782,2783,3037,3218,3385,3559,3605,3636,3700,3849,4186,4549,4819,5630,5736,5924,5925,5932,6030,6096,6107,6179,6180,6181,6182,6185,6186,6187,6188,6192,6481
+950	SVÝBA Tomáš		0	2454,2495,2555,4809,4820,5086,5307,5643,6325
+950	SVÝBA Tomáš /čd. 110/19/, SR		0	3960,6190,6191
+950	SVÝBA Tomáš /čd. 1110/19/, SR		0	3959,6189,6232
+950	SVÝBA Tomáš /čd.1110/1919/, SR		0	2777,6183,6184,6354,6356,6404,6457,6458,6459
+950	SVÝBA Tomáš, SR		0	1909,2217,2298,2423,2443,2486,2781,2782,2783,3218,3288,3385,3559,3605,3636,3700,3832,3849,4186,4549,4819,5630,5736,5924,5925,5932,6030,6096,6107,6179,6180,6181,6182,6185,6186,6187,6188,6192,6481
+950	Svýbová Anna r. Tomáňová		0	6325
+950	SVÝBOVÁ Anna r. Tomáňová, SR		0	3626,5567,6223
+950	SVÝBOVÁ Elena r. Smidžárová, SR		0	2530
+950	SVÝBOVÁ Johana		0	2443
+950	SVÝBOVÁ Zuzana r. Radzová		0	4687,5059
+950	SVÝBOVÁ Zuzana r. Radzová, SR		0	2059,2202,2323,3588,3768,3771,3817,6672,6673,6674,6675,6676,6677
+950	ŠALÁT František, SR		0	3722,4112
+950	ŠALÁT Ondrej, SR		0	3722,4112
+950	ŠALÁT Štefan, SR		0	3722,4112
+950	ŠALATA Juraj		0	2442
+950	ŠALATA Juraj, SR		0	3836
+950	ŠALATA Štefan, SR		0	2557,3440,3442
+950	ŠALATOVÁ Katarína, SR		0	3442
+950	ŠALATOVÁ Mária, SR		0	3442
+950	ŠELIGA Firic Ján		0	2434
+950	ŠELIGA Firic Ján, SR		0	2236
+950	ŠELIGA František, SR		0	3074
+950	ŠELIGA Ján, SR		0	3092
+950	ŠELIGA Michal, SR		0	3074
+950	ŠELIGA Štefan, SR		0	3074,3835
+950	ŠELIGOVÁ Mária, SR		0	3074
+950	ŠELIGOVÁ Rozália, SR		0	3184
+950	ŠKAPCOVÁ Firic Rozália, SR		0	2159
+950	ŠKAPCOVÁ Janka r. Kupčuláková, SR		0	2194
+950	ŠKAPCOVÁ Kupčo Rozália r. Dubovenová, SR		0	2468
+950	ŠKAPEC Ján /čd.651/07/, SR		0	2081
+950	ŠKAPEC Jozef		0	2495,2555
+950	ŠKAPEC Jozef /čd.282/22/		0	2021,6071
+950	ŠKAPEC Jozef /čd.282/22/, SR		0	4419,4516,4669,5926,5973
+950	Škapec Jozef, čd. 282/22 čd. 282/22		0	5226
+950	ŠKAPEC Jozef, SR		0	2465,3618
+950	ŠKAPEC Ľudovít		0	2495,2555
+950	ŠKAPEC Ľudovít /čd.2706/33/		0	2021,6071
+950	Škapec Ľudovít, čd. 2706/33 čd. 2706/33		0	5226
+950	ŠKAPEC Ľudovít, SR		0	3618
+950	ŠKAPEC Štefan, SR		0	2468,3219
+950	ŠKAPEC Tomáš /čd.651/07/, SR		0	2081
+950	ŠKAPECOVÁ Rozália r. Dubovenová		0	3219
+950	ŠKAPECOVÁ Zuzana r. Kupčuláková		0	2495,2555
+950	ŠTAJER Matej /čd.886/1905/, SR		0	2793,2794
+950	ŠTAJER Matej, SR		0	2144
+950	ŠTAJER Štefan		0	2495,2555
+950	ŠTAJER Štefan /čd.1979/1924/, SR		0	2087
+950	ŠTAJER Štefan /čd.1979/24/, SR		0	2787,2788,2789,2790,2791,2792,5910,6704,6705
+950	ŠTAJER Štefan /čd.871/1921/, SR		0	2794
+950	ŠTAJER Štefan /čd.871/21/, SR		0	2793
+950	ŠTAJER Štefan SPF		1	4311
+950	ŠTAJER Štefan, SR		0	2144,2369,2411,3409,3449,5573,5807,5911
+950	ŠTAJEROVÁ Františka /čd.886/1905/, SR		0	2793,2794
+950	ŠTAJEROVÁ Františka, SR		0	2144
+950	ŠTAJEROVÁ Mária /čd.886/1905/, SR		0	2793,2794
+950	ŠTAJEROVÁ Mária, SR		0	2144
+950	ŠTAJEROVÁ Zuzana /čd.886/1905/, SR		0	2793,2794
+950	ŠTAJEROVÁ Zuzana, SR		0	2144
+950	Štefančíková Mária		0	6325
+950	ŠTEFANČÍKOVÁ Mária /čd.1323/24/		0	4084,4751,5294
+950	ŠTEFANČÍKOVÁ Mária /čd.1323/24/, SR		0	1965,3988,4339,4706,5474,5793,6097,6708,6709,6710,6747
+950	ŠTEFANČÍKOVÁ Mária r. Tomáňová		0	2495,2555,4796,5052,6325
+950	ŠTEFANČÍKOVÁ Mária r. Tomáňová, SR		0	1883,2179,2192,2216,2351,2397,2467,2558,3099,3573,3594,3619,3704,3788,3870,4194,4204,4633,4705,4945,5298,5473,5983
+950	ŠTRAUSOVÁ Margita		0	2234
+950	ŠTRAUSOVÁ Margita, SR		0	3078
+950	ŠTRBÁK Štefan		0	2534
+950	ŠUBJAK Ján, SR		0	2119
+950	Šutarová Zuzana r. Kupčová, Praha 5, Holečkova 95, ČR Praha 5, Holečkova 95, ČR		0	6274
+950	ŤASNOCHA Jozef, SR		0	3065
+950	ŤASNOCHA Vendelín, SR		0	3411
+950	ŤASNOCHOVÁ Pavlína, SR		0	3411
+950	ŤASNOCHOVÁ Rozália, SR		0	3065
+950	TEŤÁK Andrej, SR		0	3291
+950	TEŤÁK Ján, SR		0	3296
+950	TEŤÁK Pavol		0	2377,2495,2555,2558,4221,4750,4796,4858,5512,6250
+950	TEŤÁK Pavol /čd.2443/07/, SR		0	1966
+950	TEŤÁK Pavol, SR		0	3099,3620,3758,4130,4231,4945,5409
+950	TEŤÁK Štefan, SR		0	3541
+950	TEŤÁKOVÁ Mária		0	2163
+950	TEŤÁKOVÁ Mária, SR		0	3541
+950	TEŤÁKOVÁ Rozália r. Drígeľová, SR		0	3409,5573
+950	Teťáková Terézia		0	2555,2575,5061
+950	TEŤÁKOVÁ Terézia  /čd.1097/1916/, SR		0	2092,5649,6230
+950	TEŤÁKOVÁ Terézia r. Teťáková		0	2495
+950	TEŤÁKOVÁ Terézia, SR		0	3296,3323,3563,3740,4453,5651
+950	TEŤÁKOVÁ Zuzana, SR		0	3541
+950	TOMÁŇ Barek Ján, SR		0	2430
+950	TOMÁŇ Ján		0	2495,2555,5056
+950	Tomáň Ján, Ostrov Nad Ohří Ostrov Nad Ohří		0	5059,6274
+950	TOMÁŇ Ján, SR		0	2223
+950	TOMÁŇOVÁ Mária		0	2149,2205,2555,2580,5970,5971,6114,6115,6116,6117,6172,6240
+950	TOMÁŇOVÁ Mária r. Martvoňová, SR		0	3055,3546,5275,5276
+950	Tomáňová Mária r. Tomáňová		0	2495
+950	TOMÁŇOVÁ Mária r. Žilincová, SR		0	2184,3406
+950	TOMÁŇOVÁ Mária, SR		0	3216,3600,3641,3642,4188,4551,5270,6113
+950	Tomaňová Zuzana r. Kľusková, Hruštín Hruštín		0	5068
+950	TOMÁŇOVÁ Zuzana r. Žilincová, SR		0	3577
+950	TOMAŠÁK František, SR		0	3182
+950	TOMAŠÁK Pavol, SR		0	3182
+950	TOMAŠÁK Tomáš, SR		0	3182
+950	TOMAŠÁKOVÁ Mária, SR		0	3182
+950	TOMULCOVÁ Helena r. Martvoňová, SR		0	3409,5573
+950	Tomulec Ján, Malé Orvište, 55 Malé Orvište, 55		0	6250
+950	TOMULEC Ján, SR		0	3115
+950	TOMULEC Jozef, SR		0	3115
+950	TRIBEL Šináľ Šimon, SR		0	2356,3678
+950	TRIBELOVÁ Šináľová Zuzana		0	2331,5031,5048,5420,5535,5612,5657
+950	TRIBELOVÁ Šináľová Zuzana, SR		0	2356,3360
+950	TRIBELOVÁ Zuzana r. Šináľová, SR		0	3678
+950	TROJÁK František	manž. Mária rod. Hrubošová	0	3059
+950	Trojáková Františka r. Škapcová		0	6250
+950	TROJÁKOVÁ Helena   /čd.42/1896/, SR		0	2022
+950	TROMINCOVÁ Katarína		0	2487
+950	TROMINCOVÁ Katarína, SR		0	3550,6643
+950	TROMINCOVÁ Mária		0	2487
+950	TROMINCOVÁ Rozália		0	2487
+950	TROMINEC Ondrej		0	2487
+950	Vajzerová Mária r. Snováková		0	5052
+950	VAJZEROVÁ Mária r. Snováková, SR		0	2212
+950	VALEK Ján, Ing. arch., SR		0	3539
+950	VALEK Ján, Ing.arch., SR		0	3802
+950	VALEK Štefan, SR		0	3312
+950	VALENTOVÁ Kupčo Zuzana r. Jurinová		0	2555
+950	VALENTOVÁ Kupčo Zuzana r. Jurinová, SR		0	2326
+950	VALENTOVÁ Zuzana r. Kupčo Jurinová, SR		0	2265,3337,4040
+950	Valentová Zuzana r. Kupčová	Jurinová	0	2495
+950	VALENTOVÁ Zuzana r. Kupčová Jurinová, SR		0	1904
+950	VILHELMOVÁ Rozália r. Kleinová, SR		0	3550,6643
+950	Viverka Slivčák Andrej		0	6274
+950	VIVERKA Slivčák Andrej, SR		0	2379,2380,2381,3762
+950	Viverková Mária r. Kupčová		0	6325
+950	VIVERKOVÁ Mária r. Kupčová, SR		0	3762
+950	VIVERKOVÁ Slivčák Mária r. Kupčová, SR		0	2379,2381
+950	VIVERKOVÁ Slivčáková Mária r. Kupčová, SR		0	2380
+950	VLŽÁK Ján, SR		0	2450,3843
+950	VLŽÁK Štefan /čd.918/37/, SR		0	2062
+950	VLŽÁK Štefan Teťák		0	2588,4896,4897,4898
+950	VLŽÁKOVÁ Mária r. Smidžárová		0	2588,4896,4897,4898
+950	VLŽÁKOVÁ Zuzana r. Kušnierová, SR		0	3061
+950	VOJČIK Andrej		0	2263,2289,2295,2327,2495,2555,2594,2595
+950	VOJČIK Andrej /čd.1809/1897/, SR		0	2033
+950	VOJČIK Andrej, SR		0	3672
+950	VOJČÍK Anton, SR		0	2138,3298
+950	VOJČÍK Štefan, SR		0	2138,3298
+950	VOJČÍKOVÁ Mária r. Diškancová, SR		0	2138,3298
+950	VOJČÍKOVÁ Mária r. Chovancová		0	2555
+950	Vojčíková Mária r. Chovanová		0	2495
+950	VOJČÍKOVÁ Mária r. Chovanová, SR		0	2033,2263,2289,2295,2327,2594,2595,3672
+950	VOJČÍKOVÁ Mária, SR		0	2138,3298
+950	Vraštiak Jozef, Hruštín, Hrnčiarka 520/19, zom. 21.07.2018 Hruštín, Hrnčiarka 520/19, zom. 21.07.2018		0	6250
+950	ZEMANČÍKOVÁ Mária r. Martikánová		0	2495,2555,3043,6325,6420
+950	ZEMANČÍKOVÁ Mária r. Martikánová, SR		0	3045,3200,3579,3719
+950	Zemenčíková Mária r. Martikáňová		0	30
+950	ŽILINCOVÁ Margita r. Janceková, SR		0	3614,5692
+950	ŽILINCOVÁ Mária r. Kupčuláková		0	3060
+950	ŽILINCOVÁ Mária r. Teťáková, SR		0	2464,3860
+950	ŽILINEC Fori Štefan, SR		0	2378
+950	Žilinec Ján, Rabčan Rabčan		0	6250
+950	Žilinec Ján, Rabčan, čd. 842/24 Rabčan, čd. 842/24		0	5211
+950	ŽILINEC Ondrej, SR		0	3147
+950	ŽILINEC Rabčan Ján		0	2276,2555
+950	ŽILINEC Rabčan Ján /čd. 842/24/		0	1928,4758
+950	ŽILINEC Rabčan Ján /čd. 842/24/, SR		0	4282,4404,4567,6242
+950	ŽILINEC Rabčan Ján /čd.842/1924/, SR		0	2819
+950	ŽILINEC Rabčan Ján, SR		0	2333,2495,2554,3197,3467,3661,3663,4286,4405,4450,5378,6177
+950	Žilinec Štefan		0	6325
+950	ŽILINEC Tomáš /čd.1713/1929/, SR		0	2819
+950	ŽILINEC Tomáš, SR		0	2235,2554,3661,6177
+950	ŽILINECOVÁ Rozália r. Macáková, SR		0	3119
+951	Csenkei Gabriel		0	377
+951	Csóka Benő		0	127
+951	Dolmál Rudolf	manž. Dräxlerová Gizela	0	127
+951	Dolmálová Gizela r. Dräxlerová	manž. Dolmál Rudolf	0	127
+951	Dömötörová Mária r. Stermenszká	zomrela dňa 01.04.1973	0	112,152,212,433,434,501
+951	Fekete Štefan		0	127
+951	Hideghétyová Terézia r. Nagyová	zomrela dňa 26.08.1980	0	127
+951	Horony Ernest	zomrel dňa 07.06.2002	0	162,163,168
+951	Horony Eugen	zomrel v roku 1992	0	162,163,168
+951	Horony Ján	zomrel v r.1936, manž. Gizela Horonyová r. Katonaová	0	161,162
+951	Horonyová Gizela r. Katonaová	zomrela dňa 08.04.1977, manž. Horony Ján	0	164
+951	Horonyová Júlia r. Nagyová	manž. Horony Ján st	0	168
+951	Horváthová Mária r. Nagyová	manž. Horváth Ondrej	0	127,168,169,170,171,172,173,204
+951	Mikóczy Imrich		0	375
+951	Molnár Titus	zomrel dňa 20.01.1998	0	127
+951	Molnár Vincent		0	127,247
+951	Molnárová Emília r. Molnárová	otec Molnár Joachim	0	127
+951	Molnárová Mária r. Dömötörová	manž. Molnár Joachim	0	168
+951	Molnárová Terézia r. Molnárová	otec Molnár Joachim	0	127
+951	Nagy Ernest		0	380
+951	Németh Rudolf		0	127
+951	Németh Štefan		0	127
+951	Némethová Šarolta r. Némethová		0	127
+951	Pintérová Mária r. Csókaová	manž. Pintér Alexander	0	168
+951	Schicková Šarlota r. Ehrenfeld	manžel Schick Jozef	0	168
+951	Stermenszký Vincent	zomrel dňa 19.01.1955	0	211,435
+951	Vargová Mária r. Mikóczyová		0	375
+951	Vércseová Mária r. Horonyová	matka Gizela Horonyová rod. Katonaová, zomrela v r.1947	0	161,162
+952	Adamech Gabriel		0	1742
+952	Achác Jozefína r. Benechová	Benka	0	1483
+952	Antalová Verona r. Lacková		0	921,1329
+952	Baláž Anton		0	1069
+952	Baláž Ján		0	769,1481
+952	Baláž Ján	maloletý	0	1069,1655
+952	Baláž Ján	žena Anna Benešová	0	769
+952	Baláž Martin		0	766
+952	Baláž Michal		0	1069
+952	Baláž Štefan		0	176,283,311,406,658,769,889,1069,1345,1395,1396,1406,1407,1677,1716
+952	Balážik Ján	žena Etela r. Kusovská	0	1069
+952	Balážik Jozef		0	824,1069
+952	Balážik Peter		0	379,889,958,1069,1406,1445,1680,1682
+952	Balážik Rudolf	žena Johana Macková	0	824
+952	Balážiková Pavlína		0	1542
+952	Balážová Emília r. Bílená		0	237
+952	Balážová Irena	maloletá	0	283,379,658,880,958,1069,1433
+952	Balážová Jozefína r. Benková		0	658
+952	Balážová Mária r. Jančíková		0	1069,1476,1774
+952	Baššayová Augustína r. Bednáriková		0	1565
+952	Batiesová Rozália r. Galbavá		0	1069,1109
+952	Bednárik Gašpar		0	1069
+952	Bednárik Jozef		0	1069,1565
+952	Bednáriková Cecília		0	1069,1316,1317,1331,1626
+952	Bednáriková Paulína r. Tamajková		0	1159
+952	Bednáriková Pavla		0	1069,1331,1626
+952	Benáková Alžbeta		0	1069
+952	Benáková Matilda r. Topolčániová		0	105,431
+952	Benáková Zuzana		0	1069
+952	Benech Peter		0	1069
+952	Benka Acháč Augustín		0	1069
+952	Benko Acháč		0	1596
+952	Benko Ján		0	1069
+952	Benko Karol		0	176,283,311,406,606,658,769,1069,1345,1395,1396
+952	Benková Anna r. Kobelárová		0	1585
+952	Benková Helena r. Michalovská		0	283,1069,1721
+952	Benková Jozefína r. Benechová		0	1596,1721
+952	Benková Mária r. Drličková		0	1069
+952	Benková Mária r. Dzuráková		0	1069,1553,1578
+952	Benová Cecília r. Petláková		0	1069
+952	Bieliková Mária r. Galbavá		0	1194
+952	Bilená Mária r. Miškechová		0	1207,1307
+952	Bilená Monika r. Poláková		0	118
+952	Blauová Anna		0	1653
+952	Bodová Angela r. Lacková		0	1403,1404
+952	Borová Anna r. Blauová		0	1541,1653
+952	Borovský Karol	zomrel 5.5.2011; zomrel 5.5.2011	0	1069
+952	Borovský Karol	ž. Jozefína Štefancová	0	1506

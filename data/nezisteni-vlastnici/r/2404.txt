@@ -1,0 +1,256 @@
+1391	Hriž Juraj		0	31,176,180,517,571,572
+1391	Hriž Juraj	mal	0	321
+1391	Hriž Juraj r. Hriž		0	383,401,496,504,534,535,573,609
+1391	Hriž Juraj r. Hriž	Kručov	0	446
+1391	HRIŽ Michal		0	176,180
+1391	Hriž Michal r. Hriž		0	383,401,496,504,534,535,573,609
+1391	Hriž Michal r. Hriž	Lomné	0	445,446
+1391	Hríž Michal r. Hríž, Lomné, SR	1952	0	446
+1391	Hriž Peter r. Hriž		0	431
+1391	Hrižová Anna		0	46,405,466
+1391	Hrižová Anna	Kručov	0	446
+1391	Hrižová Helena		0	446
+1391	Hrižová Júlia r. Rjaba		0	421
+1391	Hrižová Mária r. Capová		0	485
+1391	Hrižová Mária r. Hrižová		0	31,45,64,249,250,321,383,405,466,496,504,517,534,535,559,571,572,573,609
+1391	Hudý Peter r. Hudý	manž.Helena r.Capová	0	396
+1391	Ján Cap r. Cap		0	400
+1391	Jurko Michal r. Jurko		0	451,452
+1391	Jurko Michal r. Jurko	manž.Anna r.Hrižová	0	439
+1391	Kasardová Mária r. Kokindová		0	451,452
+1391	Katriňaková Mária		0	447
+1391	Kavalcova Anna		0	321
+1391	Kavalcova Helena		0	275
+1391	Kavalcova Juliana		0	275
+1391	Kavalec Ján		0	476
+1391	Kavalec Ján r. Kavalec		0	398
+1391	Klebanová Helena		0	446
+1391	Klepáčová Helena r. Piskoríková		0	444
+1391	KLUČAROVA Mária		0	135
+1391	Krucík Ján		0	31,321,517,571,572
+1391	Krucik Štefan r. Krucik	4.3.1901	0	492,493
+1391	Lajčaková Júlia r. Fečková		0	424
+1391	Loziňáková Helena		0	450
+1391	Marcin Ján		0	31,108,109,111,176,321,517,571,572,606
+1391	Marcin Jan r. Marcin		0	383,399,401,496,504,534,535,573,609
+1391	Marcin Juraj		0	31,111,321,517,571,572
+1391	Marcin Michal		0	31,111,321,517,571,572
+1391	MARCIN Michal	manž. Helena	0	295
+1391	MARCIN Peter	syn Jána	0	295
+1391	Marcinová Helena r. Petrášová		0	401
+1391	Maťaská Júlia r. Verbová		0	451,452
+1391	Maťašská Júlia		0	423
+1391	Maťašská Mária r. Piskoríková	muž Ján	0	443
+1391	MIHALICOVA Mária r. Capova		0	126,366,590
+1391	Michalič Ján r. Michalič		0	422
+1391	Michaličová Mária		0	422
+1391	Mikulová Mária r. Zajarošová, Vyš.Ollšava, SR		0	474
+1391	Miženková Mária		0	431
+1391	OBEC KRUCOV		0	265
+1391	Pavlíčková Anna r. Demková		0	439,451,452
+1391	Petráš Ján		0	31,321,517,571,572
+1391	Petráš Michal		0	31,321,517,571,572
+1391	Petráš Michal r. Petráš		0	401,412
+1391	Petričko Michal r. Petričko		0	436
+1391	Petričková Helena r. Maťašská		0	436,437,451,452
+1391	Piskorík Ján r. Piskorík	Juhás	0	430,431,443,444,451,452
+1391	Piskorík Ján r. Piskorík	Juhás, Rabi	0	443
+1391	Piskorík Michal r. Piskorík	Juhás	0	430,431,439,443,444,451,452
+1391	Piskorík Michal r. Piskorík	Juhás, Rabi	0	443
+1391	Piskorík Michal r. Piskorík	manž.Anna r.Štefaniková	0	430
+1391	Piskorík Michal r. Piskorík	manž.Mária r.Gojdičová	0	451,452
+1391	Piskoriková - Capová Anna r. Chudá		0	31,321,517,571,572
+1391	Piskoríková Anna		0	430,431,443,444,451,452
+1391	Piskoríková Helena r. Fedorová		0	452
+1391	Piskoríková Mária		0	430,431,443,444,451,452
+1391	Poľak Andrej r. Poľak		0	430,431,442
+1391	Poľaková Helena		0	431,442
+1391	Poľaková Helena r. Dzurajninová		0	430
+1391	Poláková Juliana	dcéra Michala	0	442
+1391	Poľaková Mária		0	430,431,442
+1391	PRAVOSLAVNA. CIRKEV		0	475
+1391	RUSIN MICHAL		0	197,279,280
+1391	RUSIN MIKULAS		1	82,85,89,474,565
+1391	Rusin Mikuláš r. Rusin		0	383,392,418,486,487,488,489,490,496,504,534,535,573,592,609
+1391	RUSINOVA ANNA		0	85,383,392,487,488,489,490,496,504,534,535,573,609
+1391	RUSINOVA HANA		1	82,89,383,418,474,486,496,504,534,535,565,573,592,609
+1391	SENAJOVA MARIA R CAPOVA		0	518
+1391	SENAJOVA Mária r. Capová		0	77,383,468,496,504,519,534,535,573,576,609
+1391	SCHVARCOVA IRENA R SATTLEROVA		0	321
+1391	SCHVARCOVA Irena r. Satlerova		0	270
+1391	SCHVARCOVA Irena r. Sattlerova		0	271,290
+1391	SCHwarcová Irena r. Sattlerová		0	31,517,571,572
+1391	Schwartz Aron		0	275
+1391	Schwartz Aron r. Schwartz	manž. Margita Grünwaldová	0	482
+1391	Schwartz Aron r. Schwartz	manž. Margita r. Grünwaldová	0	483
+1391	Schwartz Aron r. Schwartz	manž.Margita r.Grünwaldová	0	398,476
+1391	Schwartz Áron r. Schwartz		0	383,496,504,534,535,573,609
+1391	Schwartz Moric		0	275
+1391	Schwartz Moric r. Schwartz		0	383,496,504,534,535,573,609
+1391	Schwartz Móric r. Schwartz	manž. Serena Schlamovitsová	0	482,483
+1391	Schwartz Móric r. Schwartz	manž.Serena r.Schlamovitsová	0	398,476
+1391	SCHWARTZOVA IRENA R SATTLEROVA		0	220
+1391	SCHWARTZOVA Irena r. Satlerová		0	180
+1391	Simčo Demeter r. Simčo		0	420
+1391	Simčová Ilona		0	420
+1391	Sinajová Mária r. Capová		0	387,409
+1391	Tarabčáková Mária r. Hospodárová		0	451,452
+1391	Verba Michal r. Verba		0	451,452
+1391	Verba Michal r. Verba	manž.Mária r.Hrižová	0	448,451,452
+1391	WEINSTOKOVA LENKA R SCHWARTZOVA		0	220
+1391	WEISTOCK BERNAT		0	291,292
+1391	ZABAC MICHAL		0	105,513,530
+1391	Zabač Michal r. Zabač		0	383,397,496,504,534,535,573,609
+1391	Zajaroš Štefan r. Zajaroš		0	489
+1391	Zajarošova Anna r. Rusinová		0	95,416
+1391	Zajarošová Mária r. Klebanová		0	446
+1392	ALAKSA JULIUS, SR		0	2696,8439
+1392	ALAKSA STEFAN, SR		0	2696,8439
+1392	ALAKŠA Ján, Krupina, SR		0	3910
+1392	ALAKŠA Oskar, Krupina, SR	18.ročný	0	3910
+1392	ALAKŠA Pavol, Krupina, SR		0	4898
+1392	ALAKŠA Štefan, Krupina, SR		0	4764
+1392	ALAKŠOVÁ Alžbeta, MAĎARSKO	16.ročná	0	3910
+1392	ALAKŠOVÁ Mária r. Rusnáková, Krupina, SR		0	3471
+1392	ARGAY Samuel, Krupina, SR	ž.Anna r.Satropová	0	5276,5277,5848
+1392	BACULÍK Ján	ž.Anna, r.Kžunariková Výboch	0	4534
+1392	BACULÍK Ján, Krupina, SR	ž.Anna r.Krčmáriková	0	4169
+1392	BACULÍK Jozef, Červená Hora 840, Krupina, PSČ 963 01, SR		0	6231
+1392	BACULÍK Jozef, Dolné Pijavice 843, Krupina, SR	ž.Mária r.Konopková	0	4170
+1392	BACULÍK Jozef, Krupina, SR	Matúšov	0	3194,4169
+1392	BACULÍK Matúš	ž.Anna r.Kocková	0	3191
+1392	BACULÍKOVÁ Anna r. Antošíková, Dolné Pijavice 843, Krupina, PSČ 963 01, SR		0	6268
+1392	BALKO Ján, Nové Hrady Obora 2, České Budejovice, ČR		0	3262
+1392	BALKO Jozef, Rokytná 56, Pardubice, ČR		0	3262
+1392	BALKOVÁ Irena r. Filovkinová, M. R. Štefánika 3385/85, Zvolen, PSČ 960 01, SR		0	3262
+1392	BALLOVÁ Pavlína r. Alakšová, Krupina, SR		0	4889
+1392	BARANČOKOVÁ Anna r. Kocmanová, Krupina, č. 972, SR		0	5057
+1392	BARTÍKOVÁ Agneša r. Jánovská, Horný Jalšovík, č. 16, SR		0	6484
+1392	BARTOŠOVÁ Margita r. Orgonyová, 963 01, Krupina, SR		0	5899
+1392	BENKO Eduard, Svätotrojičné nám. 22, Krupina, PSČ 963 01, SR		0	6170
+1392	BENKO Pavel, Krupina, SR	ž.Irma Mikačová	0	4068
+1392	BEŇOVÁ Zuzana r. Prajdáková, Krupina, SR	manž.Ondrej	0	5444
+1392	BERGEROVÁ Magdaléna r. Varádyová, Krupina, SR		0	4597
+1392	BLAŠKOVIČ Štefan, Krupina, SR		0	6476
+1392	BLAŠKOVIČOVÁ Jolana r. Kučerová, 963 01, Krupina, SR		0	6476
+1392	BLÁZY Peter, Bzovík, č. 56, SR		0	5607,7997
+1392	BOĎA Ján, Červená Hora 915, Krupina, PSČ 963 01, SR		0	6326
+1392	BOĎA Jozef, Krupina, č. 787, SR		0	4584
+1392	BOHUŠ Pavol, Zvolen, SR		0	6541
+1392	BOHUŠOVÁ Malvína r. Sečkárová, Krupina, SR		0	4721,5892
+1392	BREZÁNYOVÁ Mária r. Mozolová, 963 01, Krupina, SR		0	6162
+1392	BREZÁNYOVÁ Mária r. Mozolová, Krupina, SR		0	5825
+1392	BRHLÍK Ján, Ilija, č. 78, SR	ž.Alžbeta	0	4392
+1392	BRHLÍK Jozef, M. Belu 1, Banská Bystrica, SR		0	4392
+1392	BRHLÍKOVÁ Emília, Krupina, SR		0	4392
+1392	BRODNIANSKA Mária r. Adamovičová, Horné kopanice 586, Krupina, SR	m.Ján	0	5267
+1392	BRODNIANSKY Ján		0	1828,1831,6725
+1392	BRODNIANSKY JÁN	Kanada	0	1829,4202,4204,5265
+1392	BRODNIANSKY Ján, Horné kopanice 586, Krupina, SR	ž.Mária r.Adamovičová	0	1828,5259,5266,5268,6725
+1392	BRODNIANSKY Ján, KANADA		0	5256,5259
+1392	BRODNIANSKY Jozef	Krupina	0	5265
+1392	BRODNIANSKY Jozef, Kopanice 1257, Krupina, SR	ž.Anna r.Fojtíková	0	5265
+1392	BRODNIANSKÝ Pavel, Krupina, SR	ž.Mária r.Tkáčiková	0	5275
+1392	BRODNIANSKY Pavol		0	659,1828,6725
+1392	BRODNIANSKY Pavol	Kanada	0	1829,1831,5265
+1392	BRODNIANSKY Pavol, KANADA		0	5256,5259
+1392	BRODNIANSKY Pavol, Krupina, SR	syn Štefana	0	5259
+1392	BRODNIANSKY PAVOL, SR		0	1831
+1392	BRODNIANSKY PETER	Kanada	0	4202,4204
+1392	BRODNIANSKY ŠTEFAN		0	1831
+1392	BRODNIANSKY Štefan, Krupina, SR	syn Štefana	0	1828,5259,5268,6725
+1392	BRZA Štefan, Ambroseho 11, Bratislava, SR		0	4952
+1392	BÚLIK Jozef, Červená Hora 829, Krupina, PSČ 963 01, SR	ž.Emília,r.Dadová	0	5998
+1392	BÚLIK Jozef, Červená Hora 829, Krupina, SR	ž.Emília,r.Dadová	0	291
+1392	BÚLIK Ľudovít, Šváb-Široké lúky 1323, Krupina, SR	ž.Anna,r.Gregáňová	0	4153
+1392	BÚLIKOVÁ Katarína r. Gregáňová, Krupina, SR		0	5512
+1392	BÚLIKOVÁ MÁRIA r. MELICHOVÁ, Fučíkova 3, SR		0	257,7826
+1392	CIBULOVÁ Anna r. Melichová, Krupina, č. 566, SR		0	5247
+1392	CIBUĽOVÁ Katarína r. Tanečková, Kopanice 1214, Krupina, PSČ 963 01, SR		0	2213,5034,8225
+1392	CIBUĽOVÁ Katarína r. Tanečková, Krupina, SR		0	2211,5034
+1392	CIBUĽOVÁ Katarína, Krupina, SR		0	2213,5035,6915,8225
+1392	CIBULOVÁ Mária r. Melichová, Krupina, SR		0	5312
+1392	CIBUĽOVÁ Mária, Krupina, SR		0	2213,5035,6915,8225
+1392	CS.STAT-KOMUNALNE SLUZBY OKRESU ZVOLEN		0	971
+1392	ČERMÁKOVÁ ANNA r. FOJTÍKOVÁ, SR		0	163
+1392	ČERMÁKOVÁ ANNA, SR		0	163
+1392	ČESKOSLOVENSKÝ Štát	Krajský priemyselný podnik MH	0	4643
+1392	ČESKOSLOVENSKÝ Štát	ministerstvo vnútra	0	4595
+1392	ČESKOSLOVENSKÝ ŠTÁT Operatívna Správa	Bazaltových kameňolomov n.p	0	5437
+1392	ČESKOSLOVENSKÝ ŠTÁT Stavoinvesta	správa Stavoinvesti III	0	4648
+1392	ČESKOSLOVENSKÝ Štát, Zvolen, SR	okresná vodohospodárska správa	0	6174
+1392	DADO Ján	maloletý	0	6721
+1392	DADO Ján, Krupina, SR	maloletý	0	3095,3097,3098,4840,5297
+1392	DADO Jozef, Krupina, SR	matka Anna r.Tkáčiková	0	6367
+1392	DADO Juraj, Krupina, SR	matka Anna r.Tkáčiková	0	6367
+1392	DADO Peter, Februárového víťazstva, Detva, SR	otec Ondrej, zom. 3.8.1973	0	6065
+1392	Dado Peter, KRUPINA, SR		0	3418
+1392	Dado Peter, SR	otec Ondrejov	0	6367
+1392	DADO Štefan, Krupina, SR	matka Anna r.Tkáčiková	0	6367
+1392	DADOVÁ Jolana	maloletá	0	6721
+1392	DADOVÁ Jolana, Krupina, SR	maloletá	0	3095,3097,3098,4840,5297
+1392	Dadová Katarína r. Strelcová, Krupina, SR		0	1527
+1392	DADOVÁ Margita, Havran 820, Krupina, SR		0	6367
+1392	DADOVÁ Mária	maloletá	0	6721
+1392	DADOVÁ Mária r. Žilková, Krupina, SR		0	5108,5110
+1392	DADOVÁ Mária, Krupina, SR	maloletá	0	3095,3097,3098,4840,5297
+1392	DADOVÁ Mária, Krupina, SR	matka Anna r.Tkáčiková	0	6367
+1392	DADOVÁ Pavlína, Krupina, SR		0	6045
+1392	DANANAJOVÁ Malvína r. Lodererová, 963 01, Krupina, SR		0	6203
+1392	DANKOVÁ Anna r. Severová, Biely Kameň 716, Krupina, SR		0	4926
+1392	DENDIŠ Ján	ž.Zuzana r.Kvaková	0	3659
+1392	DILÍKOVÁ Gabriela, Krupina, SR		0	5611,5845
+1392	DILIKOVA MARGITA, HORNÉ KOPANICE 567, Krupina, SR		0	5106
+1392	DILÍKOVÁ Mária, Krupina, SR		0	5611,5845
+1392	DLHOŠ Ján, Krupina, SR		0	5446
+1392	DLHOŠ Martin, Krupina, SR	nezletilý	0	5446
+1392	DOBRÍK Ján, Kalinčiakova 781/2, Krupina, SR		0	4583
+1392	DOBROCKÁ Mária r. Šebňová, Krupina, SR		0	6485
+1392	DOLEŽAL Vojtech, Hviezdoslavova 756/35, Krupina, SR	ž.Irena r.Forgáčová	0	4757
+1392	DOŠELLOVÁ Mária r. Jasovská, Podvažie, SR		0	5499,5507,5538,5539
+1392	DRÁB VOJTECH, K. Marxa 9, SR		0	2032
+1392	DRÁB VOJTECH, SR		0	2032
+1392	DRÁČIK Ján, Krupina, SR		0	5463
+1392	DRÁČIKOVÁ Anna, Krupina, SR		0	5463
+1392	DRÁČIKOVÁ Mária r. Turocyová, Krupina, SR	vdova	0	5463,5487
+1392	DRÁČIKOVÁ Mária, Košice, SR	milosrdná sestra	0	5429,5487
+1392	Dráčiková Zuzana		0	261
+1392	DRÁČIKOVÁ Zuzana, Krupina, SR		0	6125
+1392	DUBOVÁ Zuzana r. Beláková, Krupina, SR	vd	0	5505
+1392	DUBOVSKÝ Ján, Babiná, č. 136, SR	u Cupíkov	0	5369
+1392	DUBOVSKÝ Ondrej, Krupina, SR	ž.Anna r.Schvarcová	0	3633
+1392	ĎURICA JÁN	č. 720	0	597
+1392	ĎURICA Ján, Ficberg 740, Krupina, SR	ž.Katarína r.Slobodová	0	596,5654
+1392	ĎURICA JÁN, FITZBERG 740, KRUPINA, SR	m.KATARÍNA R.SLOBODOVÁ	0	7198
+1392	ĎURICA JÁN, FITZBERG 740, SR		0	309
+1392	ĎURICA Ján, Krupina, SR		0	5243
+1392	ĎURICA Ján, Krupina, SR	ž.Zuzana r.Králiková	0	3055,5696
+1392	ĎURICOVÁ Katarína, Čierne Blato 1550, Krupina, PSČ 963 01, SR		0	6084
+1392	ĎURICOVÁ PAULÍNA r. RUMANOVÁ, KOPANICE, č. 1269, SR		0	5164
+1392	ECKERTOVÁ Mária r. Benková, M. R. Štefánika 860/27, Krupina, SR		0	4620
+1392	FABIÁN Laurinc, Krupina, SR		0	6479
+1392	FAJČÍKOVÁ Anna r. Fojtíková, Krupina, SR		0	5321,5332,7830,7831
+1392	FAJČÍKOVÁ Katarína r. Pálková, Krupina, SR		0	5325
+1392	Fajčíková Mária r. Hrdlicová, Starý Háj 1374, Krupina, PSČ 963 01, SR		0	6289,6295,7980
+1392	FEKUŠ Ján, Gliarska 532/9, Krupina, SR	ž.Zuzana r.Ďurišová	0	5791
+1392	FEKUŠOVÁ Zuzana r. Ďurišová, Fitzberg 735, Krupina, PSČ 96301, SR		0	5791
+1392	FICHNIAKOVÁ Margita r. Sviatková, Krupina, SR	vdova	0	5518
+1392	FICHNIAKOVÁ PAULÍNA r. SVIATKOVÁ, SR		0	2698
+1392	FILIP Ján, Krupina, SR		0	6402
+1392	FILIPOVÁ Cecília r. Lendvayová, Červená hora 851, Krupina, PSČ 963 01, SR	m.Ján	0	6425
+1392	FILIPOVÁ Emília r. Lukáčová, Majerský Rad 55, Krupina, PSČ 963 01, SR		0	6252,6454
+1392	FILIPOVÁ Matilda r. Jasovská, Rusovska 58, Brarislava, SR		0	5538
+1392	FILIPOVÁ Matilda r. Jasovská, Rusovska 58, Bratislava, SR		0	5499,5507,5539
+1392	FILIPOVÁ Terézia r. Valová, Líška 782, Krupina, SR		0	5460,5475
+1392	FODOR Ladislav, Krupina, SR		0	6222
+1392	FODOR Viliam, Krupina, SR		0	6222
+1392	FORGÁČOVÁ Emília r. Selecká, 963 01, Krupina, SR	vdova	0	5960,5978
+1392	FRANCISCI Štefan, ARGENTÍNA	ž.Zuzana	0	4742
+1392	FRANCISTY Štefan	ž.Zuzana	0	7009
+1392	FRANCISTY Štefan, ARGENTÍNA	ž.Zuzana	0	4845
+1392	FRANCISTY Štefan, Krupina, SR		0	3936,4440,4703,5857,6497
+1392	FRANCISTY Štefan, ž.Zuzana, Argentína	ž.Zuzana	0	7577
+1392	FROHLICH Ľudovít, 963 01, Krupina, SR		0	5933
+1392	GAJDOŠOVÁ Anna r. Brhlíková, Račianska 13/8, Bratislava, SR		0	4392
+1392	GÁLTY Alžbeta r. Fodorová, Krupina, SR		0	6222
+1392	GAŽO Štefan, Majerský rad 42, Krupina, PSČ 963 01, SR	ž.Emília r.Krajčíková	0	7874

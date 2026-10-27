@@ -1,0 +1,256 @@
+669	BALOGHOVÁ Mária r. Szallerová		1	2556,2760
+669	BALOGOVÁ Mária	r.Mitlíková	1	2405
+669	BARÁK Gašpar	ž.Barbora r.Benyusová	1	2152
+669	Barák Imrich		1	2400,2835
+669	BARÁK Imrich	ž.Anna r.Bircsáková	1	2405
+669	BARÁKOVÁ Anna	r.Bircsáková	1	2405
+669	BARÁKOVÁ Barbora	r.Benyusová manž.Gašpar	1	2152
+669	Baranovičová Margita r. Izsáková		1	2432
+669	Barantal Ján		1	2938
+669	Barantalová Alžbeta r. Zúborová		1	2938
+669	BARGÁR Vladimír		1	2154
+669	BARGÁROVÁ Soňa		1	2154
+669	BARTA Alexander		1	2100,2427,2785
+669	BARTA František	st	1	1519,1522,2490,3451,3454
+669	BARTA František	ž.Anna r.Rokomózerová	1	2151
+669	BARTA FRANTIŠEK		1	1509,2102,2104,2105
+669	Barta František r. Barta	ž.Helena r.Bašťovanská	1	1835,2103,2232,2317,2357,3113,3418,3520,3530,3534,3587,3588
+669	Barta Gašpar		1	2490,2848
+669	BARTA JÁN		0	1509
+669	Barta Jozef		1	1970,2847
+669	Barta Július		1	2226,2667,2749
+669	Barta Karol		1	1509,1514,1519,1520,1521,1876,2406,2490,2922,3009
+669	Barta Karol, Gbelce, SR		0	1901
+669	Barta Štefan		1	2381,2409,2411,2590
+669	BARTA Štefan	ž.Terézia r.Hózová	1	2405
+669	Barta Vavrinec		1	2409,2411
+669	Bartal Štefan		1	2205
+669	Bartalová Mária r. Mátéová		1	2205
+669	BARTOVÁ Alžbeta	r.Elzerová	1	1876,2406,3009
+669	BARTOVÁ Anna	r.Lisziová	1	2405
+669	BARTOVÁ Anna	r.Rokomózerová	1	2151
+669	BARTOVÁ Anna	r.Vargová	1	2548
+669	Bartová Anna r. Bikszaczki		1	2590
+669	Bartová Anna r. Gedaiová		1	2466
+669	BARTOVÁ Helena		1	1876,2406,3009
+669	Bartová Irena		1	2667
+669	Bartová Margita		1	2409,2411
+669	Bartová Margita r. Feketeová		1	2423,2904
+669	BARTOVÁ Regina		1	1876,2406,3009
+669	BARTOVÁ Terézia	r.Hortaiová	1	1876,2030,2235,2406,2801,2809,2851,3009,3353
+669	Báthyová Anna r. Kubiczová		1	1787
+669	BEBIAK Florian		1	1876,2406,3009
+669	Bebiáková Mária r. Pásztorová		1	2670
+669	Bednár František		1	2858,2875,2883,3200,3201,3202,3206
+669	Bechýnka Rudolf		1	2875,2887,3200,3201,3202
+669	BECHÝNKA Rudolf	ž.Žofia	1	2888
+669	Bencsiková Alžbeta		1	2453
+669	Benedeková Rozália r. Szabová		1	1630,2486
+669	Benyus Ján		1	2426
+669	Benyusová Alžbeta		1	2426
+669	Benyusová Helena		1	2426
+669	Benyusová Karolína r. Bábska		1	2426
+669	BENYUSOVÁ Mária	r.Vargová	1	1912,2704,3456,3457
+669	Berényiová Alžbeta r. Kubiczová		1	2531
+669	Béres Alexander r. Béres		1	2088
+669	Béres Bálint		1	2835
+669	Béres Benedikt		1	2236,2835
+669	Béres Dezider		1	1595,3106
+669	Béres František		1	2565,2939
+669	Béres Gabriel		1	1595,3106
+669	BÉRES Gejza		1	1416,1627,1629,1876,2087,2088,2406,2530,2790,2791,3009,3496
+669	BÉRES Gejza, SR		0	822
+669	Béres Ilona, 943 42, Gbrlce, SR		0	1901
+669	BÉRES Imrich	ž.Gertrúda r.Kainesdorferová	1	1426,2162,2405
+669	BÉRES Ján		1	1028,1900,2407,2451
+669	BÉRES Ján	ž.Helena r.Zalabová	1	2133
+669	Béres Július		1	2835
+669	BÉRES Július	ž.Mária r.Süliová	1	2515
+669	BÉRES Karol		1	951,1218,1389,1850,3266
+669	BÉRES Karol	ž.Mária r.Szabová	1	1426,2162,2405
+669	Béres Ľudovít		1	2852
+669	Béres Michal		1	2354,2418
+669	BÉRES Ondrej	ž.Eva r.Bartová	1	1876,2406,3009
+669	Béres Štefan		1	1426,1699,1700,1989,2162,2405,2835,2917
+669	Béres Vojtech		1	2330,2835
+669	Béres Zigmund		1	1955,1957,1958,2211,2584
+669	BÉRESOVÁ Alžbeta		1	1028,1876,2407,2451
+669	BÉRESOVÁ Alžbeta	r.Szöcsová	1	2258,2406,2643,2669,2722,3009
+669	Béresová Anna		1	2443
+669	Béresová Anna r. Linterová		1	2307
+669	Béresová Anna r. Plajerová		1	2468
+669	Béresová Etela		1	3106
+669	BÉRESOVÁ Helena		1	1054,1055,1413,1415,1416,1512,1514,1515,1517,1520,1521,1522,1625,1626,1627,1629,1705,1835,1836,1876,1902,1903,2009,2011,2087,2088,2091,2092,2103,2105,2134,2135,2138,2139,2232,2251,2357,2406,2490,2530,2756,2790,2791,3009,3107,3108,3110,3111,3112,3113,3114,3372,3373,3412,3415,3416,3417,3418,3434,3437,3452,3453,3454,3493,3496,3506,3507,3508,3510,3514,3516,3520,3523,3530,3531,3534,3587,3588
+669	BÉRESOVÁ Helena	r.Csikósová	1	2836
+669	BÉRESOVÁ Helena	r.Szöcsová	1	2258,2406,2643,2669,2722,3009
+669	BÉRESOVÁ Helena, SR		0	822
+669	BÉRESOVÁ Júlia	r.Bartová	1	1519,3451
+669	Béresová Júlia r. Bartalová		0	3492
+669	Béresová Júlia r. Bartová		1	1510,1513,2102
+669	Béresová Katarína r. Bujnová		1	2452
+669	BÉRESOVÁ Mária	r.Moráveková	1	1876,2090,2271,2406,3009,3126,3413,3414
+669	BÉRESOVÁ Mária	r.Süliová	1	2515
+669	Béresová Mária r. Moráveková		1	2431
+669	BÉRESOVÁ Rozália		1	822,1416,1627,1700,1876,1986,1989,2406,2530,2790,3009
+669	BÉREŠ Eduard		1	1625,1626
+669	Bérešová Alžbeta r. Szücsová		1	2939
+669	BÉREŠOVÁ Eva		1	1625,1626
+669	BÉREŠOVÁ Júlia		1	1625,1626
+669	BEREŠOVÁ JÚLIA r. BARTAOVÁ		0	1509
+669	BEREŠOVÁ JULIANA r. BARTAOVÁ		0	1509
+669	BÉREŠOVÁ Julianna	r.Bartová	1	2799
+669	Bérešová Magdaléna	r.Racsková	1	2399,2419,2579
+669	BEREŠOVÁ MARGITA		1	1514,2490,2530
+669	Bernát Štefan		1	1508
+669	Bernát Vincent		1	1508
+669	Bernátová Alžbeta		1	1508
+669	BERNÁTOVÁ Magdaléna	r.Vargová	1	1876,2406,2555,3009
+669	Bernátová Rozália		1	1508
+669	Bérosová Etela		1	1595
+669	Berta Ján		1	2449
+669	Bertová Zuzana r. Kasznerová		1	2449
+669	Bílek Hynek		1	2871,2881
+669	BÍLEK Hynek	ž.Anna r.Motyčková	1	2862
+669	Bircsák Alexander		1	2587,2608
+669	Bircsák Martin		1	2398,2400
+669	BIRCSÁK Martin	ž.Rozália r.Kaziová	1	2405
+669	Bircsák Silvester		1	2400,2405,2602,2621
+669	Bircsák Štefan		1	927,1513,2602,3492
+669	BIRCSÁK Tomáš		1	1876,2406,3009
+669	BIRCSÁK Tomáš	nar.1938	1	1876,2406,3009
+669	Bircsák Viliam		1	2602
+669	BIRCSÁK Viliam	st	1	2405
+669	Bircsáková Anna		1	2400,2405
+669	Bircsáková Gizela		1	2486
+669	BIRCSÁKOVÁ Gizela	r.Bagalová	1	2422
+669	Bircsáková Gizela r. Bagalová		1	2416,2518,2597
+669	Bircsáková Gizela r. Bagalová)		1	2517
+669	Bircsáková Magdaléna		1	2400,2405,2602,2621
+669	Bircsáková Mária r. Béresová		1	2914
+669	Bircsáková Rozália		1	2400,2405,2602,2621
+669	BIRCSÁKOVÁ Rozália	r.Kaziová	1	2405
+669	Bircsáková Rozália r. Kaziová		1	2398,2400
+669	Bircsáková Terézia		1	2400,2405,2602,2621
+669	Birčák Silvester		1	2835
+669	BITTER Anton		1	2422
+669	Bitter Ján		1	2370,2405
+669	Bitter Ján r. Bitter	ž.Margita r.Vodičková,|	1	2481,2482,2486,2596
+669	Bitter Karol		1	2416,2422,2596
+669	BITTER Karol	ž.Barbora r.Szalaiová	1	1885
+669	BITTER Martin		1	1876,2406,3009
+669	Bitter Michal		1	2370,2377,2405
+669	Bitter Pavol		1	1703,2476,2578
+669	Bitterová Anna		1	2416,2486,2597
+669	BITTEROVÁ Barbora	r.Szalaiová	1	1885
+669	BITTEROVÁ Eva	r. Vargová	0	3499
+669	BITTEROVÁ Eva	r.Vargová	1	1876,2406,2802,3009
+669	BITTEROVÁ Gizela	r.Bérešová	1	2236
+669	BITTEROVÁ Helena	r.Szabová	1	2374
+669	BITTEROVÁ Katarína	r.Mészárosová	1	2405
+669	Bitterová Katarína r. Mészárosová		1	2389
+669	Bitterová Mária		1	22
+669	Bitterová Rozália		1	1787
+669	BLASKOVICSOVÁ Rozália	r.Zimonová	1	2455
+669	BLEŽÁKOVÁ Anna	r.Buglošová	1	2319
+669	Blunárová Rozália r. Bitterová		1	2478
+669	Bócz Karol		1	2947
+669	Bóczová Gizela r. Lukáčová		1	2947
+669	Bokorová Mária r. Dulová		1	2448
+669	Boldizsárová Eva r. Bartová		1	2409,2411
+669	Bolyová Barbora r. Mányová		1	1787
+669	Bordácsová Mária r. Borzová		1	1537
+669	BORDÁCSOVÁ Rozália	r.Pleiningerová	1	2575
+669	BOROSOVÁ Terézia	r.Béresová	1	1700,1989
+669	Böszörményová Katarína r. Dulová		1	2448
+669	BOTKA Beňadik	ž.Mária r.Vodičková	1	1936
+669	BOTKOVÁ Mária	r.Vodičková	1	1936
+669	BOZSOVÁ Helena	r.Szalaiová	1	2160
+669	BRÉDOVÁ Júlia	r.Szallerová	1	1876,2406,3009
+669	Bruteková Mária r. Tégenová		1	2459
+669	BUGLOS Ján		1	2319
+669	BUGLOS Ľudovít		1	1876,2406,3009
+669	BUGLOS Štefan	ž.Gizela r.Fodorová	1	2406
+669	BUGLOSOVÁ Mária		1	1623,1640,1876,2054,2056,2406,2540,2774,2965,3009,3118,3277
+669	BUGLOŠ Vojtech		1	2319
+669	BUGLOŠOVÁ Gizela	r.Fodorová	1	2405
+669	BUGLOŠOVÁ Mária	r.Najdliková	1	2319
+669	BUKOR Ján		1	2777
+669	BUKOROVÁ Gizela	r.Szallerová	1	1876,2406,3009
+669	Bukorová Gizela r. Szallerová		1	2535,2907
+669	Burányová Petronella r. Mátéová		1	2498
+669	Cabanová Žofia r. Cucorová		1	2926
+669	CIDOROVÁ Mária	r.Visztová	1	2405
+669	Cidorová Mária r. Visztová		1	2288
+669	CSÁKVÁRI Jozef	ž.Mária r.Baruszová	1	2150
+669	CSÁKVÁRYOVÁ Mária	r.Baruszová	1	2150
+669	Csávkári Jozef		1	2736
+669	Cseh Vilma r. Baráková		1	246,2400,2780,2781
+669	Csermák Gustav		1	2835
+669	Cservenáková Anna r. Muszelová		1	2510
+669	Csíkos Jozef		1	2835
+669	CSÍKOVÁ Marta	r.Bartová	1	1876,2406,3009
+669	Csíková Marta r. Bartová		1	2694
+669	Csilling Jozef		1	2835
+669	Csomorová Mária r. Zalabová		1	2479
+669	CSORDÁSOVÁ Anna	r.Téglásová	1	2513
+669	Csordásová Anna r. Teglásová		1	826,1942
+669	CSUTORA Alexander		1	2748,3139
+669	Csutora Jozef		1	2454
+669	Csutorová Helena r. Vodicsková		1	1835
+669	CSUTOROVÁ Karolína	r.Vasová	1	2207
+669	Czabán Ladislav		1	2926
+669	Czabánová Žofia r. Czuczorová		1	2342
+669	Čejka Jozef		1	2871,2875,2881,2933,3200,3201,3202
+669	Čermák Václav		1	2858,2871,2875,2881,2882,3200,3201,3202,3206
+669	Černák František		1	2533
+669	Černák Jozef		1	2533
+669	Daniš Jozef		1	2835
+669	Dávid Jozef		1	1508,1876
+669	DÁVID Jozef	ž.Anna r.Bernetová	1	2406,3009
+669	DÁVIDOVÁ Margita		1	1210,1508,1876,2086,2406,3009,3148
+669	DÉKÁNYOVÁ Helena	r.Bartová	1	1521
+669	DÉKÁNYOVÁ Helena	r.Hogenbuchová	1	1617,1876,2406,3009
+669	Dékányová Helena r. Bartová		1	1520,1970,2299
+669	Dékányová Helena r. Hogenbuchová		1	2229,2636
+669	Dékányová Helena r. Plajerová		1	2755
+669	Déneš Karol		1	2222
+669	Dénešová Alžbeta r. Godová		1	2222
+669	Dudáš Štefan r. Dudáš	ž.Gizela r.Ježová	1	2216
+669	Dulo Alexander		1	2448
+669	Dulo Andrej		1	2447,2448
+669	Dulo Štefan		1	2448
+669	Dulová Gizela		1	2448
+669	Dulová Júlia		1	2448
+669	DVORNYIKOVÁ Ema	r.Illiková	1	1876,2406,3009
+669	DVORNYIKOVÁ Ema r. Illiková		1	1103
+669	Elšíková Júlia r. Bitterová		1	1787
+669	ELZER Ferdinand		1	888,2405
+669	ELZER Štefan		1	888,2405
+669	Eperješiová Helena r. Černáková		1	2533
+669	Equity Capital, a.s., Zámocká 5, Bratislava, PSČ 811 01, Slovensko		1	2224
+669	Fabian Martin		1	2298
+669	Farkasová Irena		1	2826
+669	Fehérová Anna r. Borzová		1	1537,1538
+669	Fekete František		1	2397
+669	Fekete Gejza		1	2676,2835
+669	FEKETE Gejza	ž.Anna r.Hogenbuchová	1	2405
+669	Fekete Ján		1	2646
+669	Fekete Jozef	ž.Mária r.Laczová	1	2125
+669	FEKETE Jozef		1	1508,3102,3109,3149
+669	FEKETE Jozef	ž.Magdaléna r.Hegyiová	1	1314
+669	Fekete Štefan		1	2417
+669	Fekete Vojtech		1	2627
+669	FEKETEOVÁ Anna	r.Hogenbuchová	1	2405
+669	FEKETEOVÁ Anna	r.Vargová	1	1003
+669	Feketeová Anna r. Hogenbuchová		1	2371
+669	Feketeová Anna r. Vargová		1	2417
+669	Feketeová Emerencia		1	2591
+669	FEKETEOVÁ Emerencia	r.Halbauerová	1	1876,2406,3009
+669	FEKETEOVÁ Helena	r.Mátéová	1	1876,2406,3009
+669	Feketeová Juliana r. Kovácsová		1	2507
+669	FEKETEOVÁ Magdaléna	r.Hegyiová	1	1314
+669	FEKETEOVÁ Mária		1	2455
+669	FEKETEOVÁ Mária	r.Holotová	1	2405
+669	Feketeová Mária r. Bajzová		1	2562
+669	FEKETEOVÁ Terézia	r.Szakállasová	1	1454
+669	Feketeová Terézia r. Bernátová		1	1508

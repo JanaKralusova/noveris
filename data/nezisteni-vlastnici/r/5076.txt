@@ -1,0 +1,256 @@
+2861	Škvareniak Ondrej	nebohý	1	233,251,252,254,257,286,318,319,320,331,332,333
+2861	Škvareniak Pavel	nebohý	1	233,251,252,254,257,286,318,319,320,331,332,333
+2861	Škvareniaková Anna	nebohá	1	233,251,252,254,257,286,318,319,320,331,332,333
+2861	Škvareniaková Anna	nebohá,rod.Palečková,manž.Ján	1	233,251,252,254,257,286,318,319,320,331,332,333
+2861	Škvareniaková Rozália	rod.Komorová,manž.Jozef	0	233,251,252,254,286,318,319,320,331,332,333
+2861	Škvareniaková Rozália r. Komorová	manž.Jozef	1	257
+2861	Šlajferčík Ján	ml	0	222
+2861	Šlajferčík Ján	nebohý,ž.Anna r.Tyralová,nar.7.2.1896, naposledy-Lovinobaňa 32	0	222
+2861	ŠLAJFERČÍK Ján		0	222
+2861	Šlajferčík Jozef	ž.Anna rod.Sihelská	0	222
+2861	Šlajferčík Juraj	ž.Mária r.Tyralová	0	222
+2861	Šlajferčík Ondrej	nebohý,zomr.27.1.1994, Pražská č.455 naposledy-Pelhřimov	0	222
+2861	Šlajferčík Ondrej	ž.Rozália rod.Kántorová	0	222
+2861	Šlajferčík Pavol	nebohý,ž.Rozália r.Tyralová	0	222
+2861	Šlajferčíková Anna	nebohá,r.Tyralová,manž.Ján,zom.24.1.1990	0	222
+2861	Šlajferčíková Anna	rod.Sihelská,manž.Jozef	0	222
+2861	Šlajferčíková Katarína	nebohá,rod.Hlušáková	1	257
+2861	Šlajferčíková Katarína	nebohá,rod.Hlušáková, naposledy - Kokava nad Rimavicou	0	233,251,320
+2861	Šlajferčíková Katarína	nebohá,rod.Hlušáková, naposledy-Kokava nad Rimavicou	0	252,254,286,318,319,331,332,333
+2861	Šlajferčíková Mária	nebohá,rod.Laššáková	1	233,251,252,254,257,286,318,319,320,331,332,333
+2861	Šlajferčíková Rozália	nebohá,rod.Tyralová,m.Pavol	0	222
+2861	Štefková Rozália	rod.Kovalančíková	1	257
+2861	Štefková Rozália, 979 01, Rimavská Sobota, SR	rod.Kovalančíková	0	233,251,252,254,286,318,319,320,331,332,333
+2861	Štromajerová Katarína	nebohá,r.Kvaková,manž.Emil	1	233,251,252,254,257,286,318,319,320,331,332,333
+2861	Šustek Ján	nebohý	1	233,251,252,254,257,286,318,319,320,331,332,333
+2861	Šustek Ján	nebohý,ž.Mária Sirotiaková	1	233,251,252,254,257,286,318,319,320,331,332,333
+2861	Šustek Juraj	nebohý,ž.Anna r.Vrábeľová	1	233,251,252,254,257,286,318,319,320,331,332,333
+2861	Šustek Ondrej	nebohý	1	233,251,252,254,257,286,318,319,320,331,332,333
+2861	Šusteková Anna	nebohá,rod.Vrábľová,manž.Juraj	1	233,251,252,254,257,286,318,319,320,331,332,333
+2861	Šusteková Helena	nebohá,Šusteková je rodné meno	1	233,251,252,254,257,286,318,319,320,331,332,333
+2861	Šusteková Marcela, Rovienka, Slopovo, Kokava nad Rimavicou, PSČ 985 05, SR	rod.Luptáková ,nar.7.7.1972	0	319
+2861	Šusteková Marcela, Rovienka, Slopovo, Kokava nad Rimavicou, PSČ 985 05, SR	rod.Luptáková,nar.7.7.1972	0	233,318,320
+2861	Šusteková Mária	rod.Slančíková	1	257
+2861	Šusteková Rozália	nebohá	1	233,251,252,254,257,286,318,319,320,331,332,333
+2861	Šusteková Rozália	nebohá,Šusteková je rodné meno	1	233,251,252,254,257,286,318,319,320,331,332,333
+2861	Šusterová Mária	rod.Slančíková	0	233,251,252,254,286,318,319,320,331,332,333
+2861	Tazberík Ján	nebohý	1	233,251,252,254,257,286,318,319,320,331,332,333
+2861	Tazberík Jozef	nebohý	1	233,251,252,254,257,286,318,319,320,331,332,333
+2861	Tazberíková Anna	nebohá,rod.Chovancová	1	233,251,252,254,257,286,318,319,320,331,332,333
+2861	Tirala Ján	nebohý,ž.Katarína Albertová	1	233,251,252,254,257,286,318,319,320,331,332,333
+2861	Tirala Jozef	nebohý,ž.Rozália r.Juričeková	0	222
+2861	Tirala Jozef	sklár	1	233,251,252,254,257,286,318,319,320,331,332,333
+2861	Tirala Juraj	nebohý,slobodný	0	222
+2861	Tirala Ondrej	nebohý	1	233,251,252,254,257,286,318,319,320,331,332,333
+2861	Tirala Ondrej	nebohý,ž.Mária Vinarčíková	1	233,251,252,254,257,286,318,319,320,331,332,333
+2861	Tiralová Anna	nebohá,r.Šlajferčíková,m.Ondrej, naposledy-Hrachovo	0	222
+2861	Tiralová Mária	nebohá,rod. Porubeková	0	252,318
+2861	Tiralová Mária	nebohá,rod.Porubeková	1	233,251,254,257,286,319,320,331,332,333
+2861	Tiralová Mária	nebohá,rod.Šusteková,manž.Ján	1	233,251,252,254,257,286,318,319,320,331,332,333
+2861	Tiralová Verona	nebohá,rod.Pomykalová	1	233,251,252,254,257,286,318,319,320,331,332,333
+2861	Trhan Ján	nebohý	1	233,251,252,254,257,286,318,319,320,331,332,333
+2861	TRHAN Pavel		0	250
+2861	TYRALA Ján		0	222
+2861	Tyralová Mária	rod.Šlajferčíková	0	222
+2861	Uhrínová Mária r. Vojteková, Záhradnícka 12, Rimavská Sobota, PSČ 979 01, SR	narodená 11.6.1940	0	319
+2861	Uhrínová Mária, Záhradnícka 12, Rimavská Sobota, PSČ 979 01, SR	rod.Vojteková,narodená 11.6.1940	0	318
+2861	VANTRUBOVÁ Elena		0	222
+2861	VANTRUBOVÁ Júlia		0	222
+2861	Vantrubová Mária	nebohá,rod	0	331,332,333
+2861	Vantrubová Mária	nebohá,rod.Škvareňáková	1	233,251,252,254,257,286,318,319,320
+2861	Varechová Mária	rod. Sivičeková	0	212,324
+2861	Vengrínová Rozália	nebohá,rod.Slamčíková	1	257
+2861	Vengrínová Rozália	nebohá,rod.Slamčíková, naposledy v Utekáči	0	233,251,254,320
+2861	Vengrínová Rozália	nebohá,rod.Slamčíková, naposledy- v Utekáči	0	286,319
+2861	Vengrínová Rozália	nebohá,rod.Slamčíková, naposledy-Utekáč	0	252,318
+2861	Vengrínová Rozália	nebohá,rod.Slamčíková, naposledy-v Utekáči	0	331,332,333
+2861	Vinarčík Ján	nebohý	1	233,251,252,254,257,286,318,319,320,331,332,333
+2861	Vinarčík Jozef	nebohý	1	233,251,252,254,257,286,318,319,320,331,332,333
+2861	Vinarčík Pavel	nebohý	1	233,251,252,254,257,286,318,319,320,331,332,333
+2861	Vorechová Mária r. Sivičeková		0	208
+2861	Vrbiniak Ján	nebohý,ž.Škrabáková Katarína	1	233,251,252,254,257,286,318,319,320,331,332,333
+2861	Vrbiniak Ondrej	nebohý,ž.Alžbeta	1	257
+2861	Vrbiniak Ondrej	nebohý,ž.Alžbeta, naposledy - Tehla-Lula	0	233,251,286,319,320
+2861	Vrbiniak Ondrej	nebohý,ž.Alžbeta, naposledy-Tehla-Lula	0	252,254,318,331,332,333
+2861	Vrbiniak Pavel	nebohý,ž.Elena	1	257
+2861	Vrbiniak Pavel	nebohý,ž.Elena, naposledy - Želiezovce, Komenského 43/129	0	233,251,320
+2861	Vrbiniak Pavel	nebohý,ž.Elena, naposledy Komenského 43/129, Želiezovce	0	286,319
+2861	Vrbiniak Pavel	nebohý,ž.Elena, naposledy Želiezovce, Komenského 43/129	0	254
+2861	Vrbiniak Pavel	nebohý,ž.Elena, naposledy-Želiezovce, Komenského č.43/129	0	331,332,333
+2861	Vrbiniak Pavel	nebohý,ž.Elena, naposledy-Želiezovce,Komenského č.43/129	0	252,318
+2861	Vrbiniak Štefan	nebohý	1	233,251,252,254,257,286,318,319,320,331,332,333
+2861	Vrbiniaková Anna r. Krahulcová		0	233,251,257,315,320,328,331,332,333
+2861	Vrbiniaková Anna r. Krahulcová, 987 01, Poltár, SR	narodená 28.7.1928	0	286,319
+2861	Vrbiniaková Anna, Poltár, SR	narodená 28.7.1928, rod.Krahulcová	0	252,318
+2861	Vrbiniaková Anna, Poltár, SR	rod.Krahulcová,narodená 28.7.1928	0	254
+2861	Vrbiniaková Katarína	nebohá,rod.Škrabáková,manž.Ján	1	233,251,252,254,257,286,318,319,320,331,332,333
+2861	Weiterschitz Ján	ž.Anna rod. Melichová	0	236
+2861	Weiterschitzová Anna	rod.Melichová,manž.Ján	0	236
+2861	ZACHAR Michal		0	222
+2861	Žilík Anton	nebohý	1	233,251,252,254,257,286,318,319,320,331,332,333
+2861	Žilík Ján	nebohý	1	233,251,252,254,257,286,318,319,320,331,332,333
+2861	Žilík Juraj	nebohý	1	233,251,252,254,257,286,318,319,320,331,332,333
+2861	Žilík Ondrej	nebohý	1	233,251,252,254,257,286,318,319,320,331,332,333
+2861	Žilík Štefan	nebohý	1	233,251,252,254,257,286,318,319,320,331,332,333
+2861	Žilíková Anna	nebohá	1	233,251,252,254,257,286,318,319,320
+2861	Žilíková Barbora	nebohá	1	233,251,252,254,257,286,318,319,320,331,332,333
+2861	Žlilíková Anna	nebohá	0	331,332,333
+2862	ANDRISOVÁ Mária r. Čižmáriková, SK		0	2314,3016,4099,4101,4102,4174,5448,5536,6235,6504
+2862	ANDRIŠÁKOVÁ Rozália r. Forrová, SK		0	3861
+2862	ANTALOVIČ Ladislav, SK		0	5483
+2862	ANTALOVIČOVÁ Mária r. Iracká, SK		0	5483
+2862	BÁBIKOVÁ Apolónia r. Urbanová, SK		0	2862
+2862	BÁBIKOVÁ Karolína r. Popelková, SK		0	2092,2855,5782
+2862	BALÁŽ Ján, SK		0	2310,3305
+2862	BALÁŽ Jozef, SK		0	6172
+2862	BALÁŽ Ľudovít, SK		0	3062,4765,5105,5934,5994,6620,6621,6622,6623,6624,6626,6627,6628
+2862	BALÁŽOVÁ Anna r. Košková, SK		0	2310,2314,2928,3305,3664,4096,6112,6504
+2862	BALÁŽOVÁ Katarína r. Bryndzová, SK		0	5666
+2862	BALÁŽOVÁ Katarína r. Práznovská, SK		0	3756
+2862	BALÁŽOVÁ Magdaléna r. Begánová, SK		0	6172
+2862	BALONIK Izidor, SK		0	2532
+2862	BALONÍK Jozef, SK		0	3524,4941,5350,5498,6476
+2862	BARAN František, SK		0	2215,3214,5198,5297,5298,6210
+2862	BARAN Ján, SK		0	2217,5265
+2862	BARAN Jozef, SK		0	2606,3214,5297,5298,5961
+2862	BARAN Matúš, SK		0	3214,5297,5298
+2862	BARAN Štefan, SK		0	3214,5297,5298
+2862	BARANOVÁ Anna, SK		0	6183
+2862	BARANOVÁ Karolina r. Košičárová, SK		0	4391
+2862	BARANOVÁ Mária r. Šmátralová, SK		0	3344,6411,6538
+2862	BARANOVÁ Verona r. Beganová, SK		0	6087
+2862	BARANOVÁ Verona r. Lipovská, SK		0	5639
+2862	BEDNÁR Alexander, SK		0	2215,2217,3867,5264
+2862	BEDNÁR Anton, SK		0	5787
+2862	BEDNÁR František, SK		0	2539,2540,5718
+2862	BEDNÁR Jozef, SK		0	2539,2540,3122,3321,3322,3868,4192,4213,4214,4215,4216,4217,4218,4703,5279,5375,5530,5718,5746,5787
+2862	BEDNÁR Juraj, SK		0	5790
+2862	BEDNÁR Štefan, SK		0	5248,5421
+2862	BEDNÁR Vojtech, SK		0	4703,5279,5375,5746
+2862	BEDNÁRIKOVÁ Anna r. Popelková, SK		0	2855
+2862	BEDNÁROVÁ Anna, SK		0	2033,2650,2651,4782,4986,5070,5071,5171,6474,6475
+2862	BEDNÁROVÁ Magdaléna r. Juricová, SK		0	2020,2021,2715,5933
+2862	BEGÁN Ján, SK		0	3115,3643,3644,5296,6087
+2862	BEGÁNOVÁ Anna r. Lipovská, SK		0	2147,3285,5384,5388,5598,6055
+2862	BEGÁNOVÁ Etela, SK		0	6107
+2862	BEGÁNOVÁ Jozefína, SK		0	6107
+2862	BEGÁNOVÁ Magdaléna r. Košková, SK		0	2310,2314,3305,6504
+2862	BEGÁNOVÁ Mária r. Ščípová, SK		0	2073,2074,3236,3285,3621,5405
+2862	BEGÁNOVÁ Mária, SK		0	6107
+2862	BEKINIOVÁ Anna r. Chudáčiková, SK		0	2887
+2862	BENKO Alexander, SK		0	6114
+2862	BENKO Gejza, SK		0	5741
+2862	BENKO Tibor, SK		0	5714
+2862	BENKOVÁ Etela r. Tománeková, SK		0	6174
+2862	BENKOVÁ Filoména r. Hambalková, SK		0	5858
+2862	BENKOVÁ Katarína r. Minárová, SK		0	2603,2976,4208,4209,5973
+2862	BENKOVÁ Magdaléna r. Mikuleková, SK		0	2056,3429
+2862	BENKOVÁ Mária r. Ferencyová, SK		0	5714
+2862	BENNÁR Anton, SK		0	5754
+2862	BENNÁR Jozef, SK		0	5842,5928
+2862	BENNÁR Michal, SK		0	5437,5928
+2862	BENNÁR Štefan, SK		0	2899,5437,5794,5881,5928
+2862	BENNÁR Timotej, SK		0	5437,5928
+2862	BENNÁROVÁ Anna, SK		0	2899
+2862	BENNÁROVÁ Apolónia r. Kuželová, SK		0	5891
+2862	BENNÁROVÁ Apolónia r. Petrovská, SK		0	5824
+2862	BENNÁROVÁ Apolónia, SK		0	2899
+2862	BENNÁROVÁ Katarína r. Matušicová, SK		0	2876,3275,5877,5908,5928
+2862	BILČÍKOVÁ Mária r. Vozárová, SK		0	3704
+2862	BILKOVÁ Helena r. Kňažíková, SK		0	2736,3851,4984,5526,5681,6281
+2862	BLAHO Alexander, SK		0	5424,5708
+2862	BLAHO Ján, SK		0	3614,4023,4024,4602,5135,6124
+2862	BLAHO Jozef, SK		0	6036,6187
+2862	BLAHO Michal, SK		0	2815,5009
+2862	BLAHO ŠČÍPA Jozef, SK		0	2073,2074,2341,2342,2343,2344,2348,5405
+2862	BLAHO ŠČÍPA Michal, SK		0	2073,2074,2341,2342,2343,2344,2348,5405
+2862	BLAHO ŠČÍPA Štefan, SK		0	5403
+2862	BLAHO Štefan, SK		0	3637,3638,5571
+2862	BLAHOVÁ Bernardína r. Kollárová, SK		0	2968
+2862	BLAHOVÁ Filoména r. Huterová, SK		0	2869,2877
+2862	BLAHOVÁ Katarína r. Hulmanová, SK		0	5638
+2862	BLAHOVÁ Magdaléna r. Frantová, SK		0	2870
+2862	BLAHOVÁ Mária r. Lipovská, SK		0	5382,6187,6269
+2862	BLAHOVÁ Mária r. Šarkózyová, SK		0	6036
+2862	BLAHOVÁ Verona, SK		0	3637,3638,5571
+2862	BLANÁR Jozef, SK		0	2655,2968,3238,3240,4930
+2862	BLANÁR Štefan, SK		0	3240
+2862	BOBÁKOVÁ Mária r. Gálová, SK		0	3246,3294,3296,3298,5466,5468
+2862	BONOVÁ Mária r. Marcinkechová, SK		0	2863,5860
+2862	BOROŠOVÁ Bernardína r. Ščasná, SK		0	3756
+2862	BOROŠOVÁ Etela r. Chochláčová, SK		0	3823
+2862	BOROŠOVÁ Hermína, SK		0	2626,3346,3688,3691,3692,4302,5505,6455,6539
+2862	BOROŠOVÁ Katarína r. Šmátralová, SK		0	1310,2175,2179,5780
+2862	BOROŠOVÁ Mária r. Bennárová, SK		0	5794
+2862	BOTAI Michal, SK		0	6186
+2862	BOTAIOVÁ Mária r. Mologová, SK		0	6186
+2862	BOTTKA Ján, SK		0	3332
+2862	BRINDZOVÁ Katarína r. Ševčíková, SK		0	3082,3083,3084,3085,4823
+2862	BRODANSKÁ Anna r. Príbelová, SK		0	6138
+2862	BRODANSKÁ Eva r. Machová, SK		0	2934,5456
+2862	BRODANSKÁ Hermína r. Tóthová, SK		0	6144
+2862	BRODANSKÁ Katarína r. Gálová, SK		0	5724
+2862	BRODANSKÁ Mária r. Minárová, SK		0	5713
+2862	BRODANSKÁ Mária, SK		0	5013,5014,5713
+2862	BRODANSKÁ Verona r. Kosecová, SK		0	4469
+2862	BRODANSKÝ Alexander, SK		0	5013,5014,5713
+2862	BRODANSKÝ Jozef, SK		0	4469,5013,5014,5484,5713,5727,6144
+2862	BRODANSKÝ Michal, SK		0	6138
+2862	BUČEKOVÁ Mária r. Gašparíková, SK		0	2909
+2862	BUCHOVÁ Apolónia r. Hambálková, SK		0	5858
+2862	BURÁKOVÁ Mária r. Kissová, SK		0	3294,5697
+2862	BÚRAN Alexander, SK		0	2869,2877,2894,4484,5343,5869
+2862	BURAN František, SK		0	2894,4484,5343,5869
+2862	BÚRAN Ján, SK		0	2869,2877,5865
+2862	BURAN Jozef, SK		0	4484,5343,5869,5898
+2862	BÚRAN Kornel, SK		0	2869,2877
+2862	BURAN Martin, SK		0	4484,5343
+2862	BÚRAN Michal, SK		0	5880
+2862	BURAN Štefan, SK		0	4484,5343,5854
+2862	BÚRANOVÁ Anna r. Frantová, SK		0	5854
+2862	BÚRANOVÁ Apolónia r. Halásová, SK		0	5825
+2862	BURANOVÁ Gizela r. Kulichová, SK		0	3611,4087,4120,4640,4641,5534
+2862	BÚRANOVÁ Irena, SK		0	2869,2877
+2862	BÚRANOVÁ Magdaléna, SK		0	5795
+2862	BÚRANOVÁ Mária r. Chudáčiková, SK		0	2873,2885,5883
+2862	BURANOVÁ Mária r. Machariášová, SK		0	2175,2631,2632,6459,6552
+2862	BURANOVÁ Mária r. Pažmová, SK		0	4484,5343
+2862	BÚRANOVÁ Mária, SK		0	2869,2877,5880
+2862	CAGÁČIK Alexander, SK		0	6175
+2862	CICÁK Jozef, SK		0	5894
+2862	CICÁK Ľudovít, SK		0	5894
+2862	CICÁK Štefan, SK		0	5894
+2862	CICÁKOVÁ Anna r. Matušicová, SK		0	5912
+2862	CICÁKOVÁ Filoména r. Tóthová, SK		0	5894
+2862	CICÁKOVÁ Genovéva r. Petrovská, SK		0	2874,2882
+2862	CICÁKOVÁ Judita r. Práznovská, SK		0	2733
+2862	CICÁKOVÁ Magdaléna r. Stanková, SK		0	2733
+2862	CICÁKOVÁ Mária r. Stanková, SK		0	2733,4335,5982
+2862	CICÁKOVÁ Mária, SK		0	5894
+2862	CICÁKOVÁ Monika r. Tóthová, SK		0	4335,5982
+2862	CICÁKOVÁ Pavlína r. Balzamová, SK		0	2020,2021,2845
+2862	CRHOŇOVÁ Barbora r. Kubicová, SK		0	2092,5786,5787
+2862	CSADILOVÁ Jozefína, SK		0	5874
+2862	CZAKOVÁ Katarína r. Toroková, SK		0	3823
+2862	ČAMBALIK Jozef, SK		0	1845,3730,5695
+2862	ČAMBÁLIK Juraj, SK		0	5977
+2862	ČAMBÁLIK Ľudovít, SK		0	2898,2902
+2862	ČAMBALIK Michal, SK		0	1845,2898,3730,5695,5891
+2862	ČAMBALIK Štefan, SK		0	4951,4952,5891,5931
+2862	ČAMBALIKOVÁ Apolónia r. Bábiková, SK		0	4951,4952,5931
+2862	ČAMBÁLIKOVÁ Cecília r. Korecová, SK		0	5990
+2862	ČAMBALIKOVÁ Mária r. Ferencová, SK		0	5433,5434,5890
+2862	ČAMBÁLIKOVÁ Mária r. Frantová, SK		0	2869,2877
+2862	ČAMBALÍKOVÁ Mária r. Popelková, SK		0	2092,2534,5789,6646
+2862	ČAMBALÍKOVÁ Verona r. Minárová, SK		0	3871
+2862	ČEBÍK Jozef, SK		0	2937,5569,5756,6057,6121
+2862	ČEBÍKOVÁ Helena, SK		0	2937,5569,5756,6057,6121
+2862	ČEBÍKOVÁ Margita, SK		0	2937,5569,5756,6057,6121
+2862	ČERVEŇOVÁ Vilma r. Gašparíková, SK		0	2909
+2862	ČIZMADIOVÁ Mária r. Pupáková, SK		0	2942
+2862	ČIŽMÁRIK Ján, SK		0	3016,4101,4102,4174
+2862	ČIŽMÁRIK Jozef, SK		0	2655,2682,2685,2686,2687,3200,3201,4930,4971,4972,6323,6460
+2862	ČIŽMÁRIKOVÁ Agáta r. Halásová, SK		0	5425,6089
+2862	ČIŽMÁRIKOVÁ Anna r. Gálová, SK		0	3225,6252
+2862	ČIŽMÁRIKOVÁ Apolónia, SK		0	2314,5448,5536,6235,6504
+2862	ČIŽMÁRIKOVÁ Helena, SK		0	3016,4101,4102,4174

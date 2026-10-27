@@ -1,0 +1,256 @@
+190	Škápik Ján	ž.Ľudmila r.Kramárová	1	4315
+190	Škápik Jozef	syn Matúša a Alžbety r.Búzkovej	1	4617
+190	Škápik Jozef	syn Pavla a brat Terézie	1	5038
+190	Škápik Jozef	ž.Alžbeta r.Šedivá	1	3520,5953
+190	Škápik Jozef	ž.Helena r.Dobiášová	1	4315,7156
+190	Škápik Jozef	ž.Mária r.Matulová	1	4315,6865
+190	Škápik Lukáč		1	3225,4315
+190	Škápik Martin	ž.Magdaléna r.Butašová	1	4315
+190	Škápik Matej	ž.Helena r.Dobiášová	1	6785
+190	Škápik Matej	ž.Júlia r.Baďurová	1	5953
+190	Škápik Matúš	brat Anny,Márie,Pavla,Antona,Alžbety	1	3225,3227,3228,4315,4793
+190	Škápik Pavol	dedí po Ign.a Verone Michalica r.Janíček	1	4315,4509,4510,5227,5586,6487,6785
+190	Škápik Pavol	syn Mateja a Márie r.Filipovej	1	6172
+190	Škápik Pavol	ž.Albína r.Sekáčová	1	2553,5480
+190	Škápik Štefan	dedí po Ign.a Verone Michalica r.Janíček	1	4315,4509,4510,5227,5586,6487,6785
+190	Škápik Štefan	syn Mateja a Márie r.Filipovej	1	977,6172
+190	Škápik Štefan	ž.Jozefína r.Šefčíková	1	5953
+190	Škápik Štefan	ž.Mária r.Benková	1	6219
+190	Škápik Víťazoslav	Vikto	1	5692
+190	Škápik Víťazoslav	Viktor	1	4315,5159
+190	Škápiková Alžbeta	sestra Anny,Márie,Pavla,Antona,Matúša	1	3225,3227,3228,4315,4793
+190	Škápiková Anna	sestra Heleny a Júlie	1	3375,6218,6524
+190	Škápiková Anna r. Hodáňová		1	4928,6138,6369,6386,6587,6662,6849,7131
+190	Škápiková Helena		1	3225,4315
+190	Škápiková Helena	sestra Anny a Júlie	1	3375,6218,6524
+190	Škápiková Helena r. Dobiášová	ž.Jozefa	1	2380,7156
+190	Škápiková Helena r. Dobiášová	ž.Mateja	1	4509,4510,4810,5227,5753,6172,6785
+190	Škápiková Helena r. Včelková	ž.Pavla	1	2778,3840,4243,4244
+190	Škápiková Jozefína	sestra Márie	1	2504,2505,2507,2510,2512,2819,4141,4142,4315
+190	Škápiková Júlia	sestra Heleny a Anny	1	3375,6218,6524
+190	Škápiková Júlia r. Baďurová		1	2391
+190	Škápiková Júlia r. Deščíková	ž.Jána	1	2497,2498,2499,2500,2501,2503,6977
+190	Škápiková Magdaléna r. Butašová	ž.Martina	1	5953
+190	Škápiková Mária	dcéra Mateja a Márie r.Filipovej	1	6172
+190	Škápiková Mária	dedí po Ign.a Verone Michalica r.Janíček	1	4315,4509,4510,5227,5586,6487,6785
+190	Škápiková Mária	sestra Jozefíny	1	2504,2505,2507,2510,2512,2819,4141,4142,4315
+190	Škápiková Mária	sestra Štefánie,Anny,Heleny a Júlie	1	6218,6524
+190	Škápiková Mária r. Benková	ž.Štefana	1	4315,6219
+190	Škápiková Mária r. Búzková	ž.Michala	1	5404
+190	Škápiková Mária r. Filípová	ž.Mateja	1	5586
+190	Škápiková Mária r. Matulová	ž.Jozefa	1	4315,6865,7049
+190	Škápiková Štefánia	sestra Márie,Anny,Heleny a Júlie	1	6218,6524
+190	Škápiková Terézia	dcéra Pavla a sestra Jozefa	1	5038
+190	Školavíková Helena r. Drinková	Amerika	1	5131
+190	Škrovánek Ján	ž.Terézia r.Gerenčárová	1	4984,5257,5264,5435,6201
+190	Škrovánek Pavol	brat Magdalény Stachovej	1	4315,6643,7046
+190	Škrovánek Pavol	syn Jána a Anny r.Baďurovej	1	2897,3103,5007
+190	Škrovánek Štefan	syn Jána a Anny r.Baďurovej	1	4315
+190	Škrovánek Štefan	ž.Anna r.Pavlíková	1	2897,3103
+190	Škrovánková Karolína	dcéra Pavla	1	4315,4897,6752,6862,7143
+190	Škrovánková Mária	mal.dcéra Jána a Anny r.Baďurovej	1	2897,3103,4315
+190	Škrovánková Terézia r. Gerenčárová	ž.Jána	1	4984,5257,5264,5435,6201
+190	Šmehylová Jozefa r. Benková		1	3816,3817,3819,4315,4450,4736
+190	Špačková Júlia r. Cvečková		1	4128,4129,4876,7563
+190	Špálová Júlia r. Štepánková		1	2590
+190	Španiel Ján	ž.Katarína r.Jankovičová	1	3008,3009,3010,3011
+190	Španielová Júlia r. Drusánková	ž.Františka	1	4111,4315,5789,6867
+190	Špringelová Katarína r. Filípková		1	2897,3070,3071,3103
+190	Štefančík Michal		1	4315
+190	Štefančíková Albína r. Butašová		1	4315
+190	Štvrtecká Alžbeta r. Baďurová	ž.Jána	1	7161
+190	Štvrtecká Anna	dcéra Michala a Heleny r.Bilkovej	1	6756
+190	Štvrtecká Helena r. Bilková	ž.Michala	1	4315,6756
+190	Štvrtecká Katarína r. Vaňková		1	2504,2509,4580,5775
+190	Štvrtecký Michal	syn Michala a Heleny r.Bilkovej	1	6756
+190	Švajdlenka Štefan	syn Antona	1	6738
+190	Švajdlenková Helena r. Šedivá	D 1058/64	1	5265
+190	Švehlová Anna r. Trupová		1	2103,2192,2198,2203,2204,4124,4125,4315,5314
+190	Tábor Imrich	mal	1	6799
+190	Tábor Rudolf	mal	1	6799
+190	Táborová Rudolfína	mal	1	6799
+190	Táborová Ružena		1	3899
+190	Tihanská Pavlína r. Butašová		1	3633,4873
+190	Tistlerová Helena r. Gočálová		1	5248,5396,5451
+190	Tokošová Amália r. Matulová		1	6187
+190	Tománek Ondrej	ž.Alžbeta r.Sučková N 443/93, D 738/97	1	4722
+190	Tománková Alžbeta r. Michálková	ž.Štefana	1	5953
+190	Tománková Mária r. Baďurová	ž.Imricha	1	7161
+190	Tománková Mária r. Cintulová	zom	1	2593
+190	Tománková Mária r. Oravská	ž.Ondreja	1	4619,5060,5323,7581,7582
+190	Tománková Terézia r. Hlavenková		1	2927
+190	Tomek Jozef	ž.Zuzana Marečková	1	4322
+190	Töröková Jozefína r. Steinerová, Dr.	ž.Mórica	1	4315
+190	Totka Alojz	ž.Mária	1	2528,4315
+190	Totka Alojz	ž.Mária r.Černá	1	4315,5832
+190	Totka Anton	ž.Terézia r.Gočálová D 945/70,D 84/67	1	4282
+190	Totka Ignác	brat Jána	1	4315
+190	Totka Ignác	syn Mateja a Anny r.Vaňkovej	1	2107,2108,7632,7633,7941
+190	Totka Ignác	ž.Apolónia r.Bílá	1	2108,2109,7633
+190	Totka Ján	brat Ignáca	1	4315
+190	Totka Ján	brat Jozefíny,Štefana,Jozefa a Júlie	1	4891,4982,5272
+190	Totka Ján	syn Mateja a Anny r.Vaňkovej	1	2107,2108,7632,7633,7941
+190	Totka Ján	ž.Mária r.Žišková	1	2108,2109,7633
+190	Totka Jozef		1	4891,4982,5272
+190	Totka Jozef	brat Rozálie	1	2448,6534,7693
+190	Totka Jozef	syn Antona a Júlie r.Václavkovej	1	3402,6060
+190	Totka Jozef	ž.Agneša r.Michálková	1	4285,7053
+190	Totka Michal	čd.293	1	4315
+190	Totka Michal	syn Antona a Júlie r.Václavkovej	1	3402,3812,6060
+190	Totka Michal	syn Františka a Alžbety r.Mikovej	1	3402,3430
+190	Totka Ondrej	ž.Katarína r.Dobiášová	1	4885
+190	Totka Ondrej	ž.Rozália r.Totková	1	4315,6022
+190	Totka Pavol	syn Antona a Júlie r.Václavkovej	1	3402,6060
+190	Totka Pavol	syn Františka a Alžbety r.Mikovej	1	3399,3402,3430,3435,4315
+190	Totka Rudolf	brat.Antona,Heleny	1	5815
+190	Totka Štefan		1	4891,4982,5272
+190	Totka Štefan	syn Pavla a Márie r.Horváthovej	1	3431,5383
+190	Totka Štefan	syn Štefana a Márie r.Sovovej	1	2448,6534,7693
+190	Totka Štefan	ž.Alžbeta r.Kanečková	1	2035,2414,4134,4315,4817,5036,5273,5466,5520,5932,6371,6378,6919,7029,7358,7364
+190	Totková Agneša r. Michálková		1	2928,4285,7053
+190	Totková Albína	dcéra Ondreja a Kataríny r.Dobiášovej	1	4227,4228,5582,6309
+190	Totková Albína	sestra Antona,Alžbety,Márie a Kataríny	1	4315,4832,7550
+190	Totková Alžbeta		1	2035,2414,4134,4315,4817,5036,5273,5466,5520,5932,6217,6371,6378,6919,7029,7358,7364
+190	Totková Alžbeta r. Búzková	ž.Štefana	1	5237
+190	Totková Anna r. Filípková		1	3399,3402,3430,3435,4315
+190	Totková Helena	sestra Antona,Rudolfa	1	5815
+190	Totková Helena	slob.dcéra Jána	1	4136
+190	Totková Helena r. Bízková	ž.Štefana	1	2523,2524,2525
+190	Totková Jozefína r. Deščíková	ž.Antona	1	4891,4982,5272
+190	Totková Júlia	dcéra Pavla a Márie r.Horváthovej	1	4891,4982,5272,5383
+190	Totková Katarína	dcéra Ondreja a Kataríny r.Dobiášovej	1	4227,4228,6746
+190	Totková Katarína r. Nesnadná		1	4882,5041,6980,6999,7012
+190	Totková Leopoldína r. Písecká		1	2107,2108,2109,7632,7633,7941
+190	Totková Mária	mal	1	4891,4982,5272
+190	Totková Mária	ž.Alojza	1	2528,4315
+190	Totková Mária r. Černá		1	2136,2137,4315,7493,7494,7495
+190	Totková Mária r. Horváthová	ž.Pavla	1	3402,5953
+190	Totková Mária r. Línková		1	6231,7575,7932
+190	Totková Mária r. Vaňková	ž.Jozefa	1	2106,5479
+190	Totková Mária r. Žišková	ž.Jána	1	4315,5559,6821
+190	Totková Rozália		1	2035,2414,4134,4315,4817,5036,5273,5466,5520,5932,6371,6378,6919,7029,7358,7364
+190	Totková Rozália	sestra Jozefa	1	2448,6534,7693
+190	Totková Terézia r. Gočálová	ž.Antona	1	2448,2475,3971,3977,3981,3984,4118,4315,7693,7779,7924,7925,7926,8081
+190	Trávnik Ján	ž.Júlia r.Mórová D 92/59	1	4315,5557
+190	Trávniková Mária r. Línková	ž.Juraja	1	6682
+190	Trup Ján	syn Jána a Júlie r.Totkovej	1	2103,2192,2198,2203,2204,4124,4125,4315,4498,5354,5374
+190	Trup Pavol	ž.Mária r.Macková	1	3385,3386,3387,3388,3389,3390,4315,4583
+190	Trup Pavol	ž.Mária r.Sakalášová	1	3385,3386,3387,4315
+190	Trup Štefan	syn Jána a Júlie r.Totkovej	1	4315
+190	Trup Štefan	syn Pavla a Márie r.Sakalášovej	1	3385,3386,3387,3388,3389,3390,4315,4583,5374,5967
+190	Trupová Alžbeta		1	4315
+190	Trupová Alžbeta	choromyselná	1	2103,2203
+190	Trupová Helena		1	3385,3386,3387,3388,3389,3390,4315,4583
+190	Trupová Júlia	Jolana	1	3385,3386,3387,3388,3389,3390,4315,4583
+190	Trupová Mária r. Macková	ž.Pavla	1	3388,3390,3783,4051,4052,4208,4209,4210,4211,4315,4583,5470,7784,7785
+190	Trupová Mária r. Sakalášová	ž.Pavla	1	4315
+190	Turánek Mikuláš		1	2757,3322,3328,4597
+190	Václavek Ján	ž.Mária r.Burianová	1	6362
+190	Václavek Jozef	syn Jána a Márie r.Fojtlínovej	1	6362
+190	Václavková Anna	mal. dcéra Jána a Márie r.Fojtlínovej	1	1791,4315,4946,5454,5547,5759,6109,6362,6611,6929,6931
+190	Václavková Emília	mal	1	1791,4315,4946,5547,5759,6611
+190	Václavková Emília	mal. dcéra Jána a Márie r.Fojtlínovej	1	6362
+190	Václavková Mária r. Cintulová	ž.Štefana	1	2517,2518,2521,3152,4315,5892,7674,7866
+190	Václavková Rozália	dcéra Jána a Márie r.Fojtlínovej	1	1791,4315,4946,5454,5547,5759,6109,6362,6611,6929,6931
+190	Vaculová Rozália r. Cintulová	ž.Štefana	1	4778
+190	Vachová Terézia r. Kassayová		1	4619,5323
+190	Vajda Florian	od Mária Vajdová r.Sekáčová	1	2184
+190	Vajda Florián	ž.Mária r.Sekáčová	1	5784
+190	Vajda Jozef	brat Terézie,Pavlíny a Heleny	1	3786,3788
+190	Vajda Jozef	ž.Magdaléna r.Borovičková	1	4193,4194,4315,5827,6974
+190	Vajda Martin	ž.Mária r.Jankovičová	1	4193,4194,4315,5827
+190	Vajda Martin	ž.Mária r.Totková	1	6974
+190	Vajda Pavol	mal. syn Martina	1	6974
+190	Vajda Pavol	ž.Alžbeta r.Škápiková	1	4193,4194,4315,5827,7104
+190	Vajdová Alžbeta r. Škápiková		1	3225,3228,4315,4569,6778,7104
+190	Vajdová Katarína		1	6845,7150
+190	Vajdová Katarína	od Anny Hlávkovej r.Solárovej	1	6343,7041
+190	Vajdová Mária r. Jankovičová	ž.Martina	1	3401,3402,3430,3435,4285,4315,4782,5268,6217
+190	Vajdová Mária r. Sekáčová		1	4315,5784
+190	Vajdová Terézia	mal. dcéra Ondreja a Júlie r.Bakanovej	1	2504,4512
+190	Valachovičová Mária r. Václavková	ž.Bartolomeja	1	6362
+190	Valentová Klára r. Cigánková		1	2764,2765,2766,2767,2768,2770
+190	Valentovič Matej		1	3923,4259,4260
+190	Valentovič Matej	brat Anny	1	3921
+190	Valentovič Tomáš	ž.Mária r.Cintulová	1	3171,5953,7050
+190	Valentovičová Anastázia	vydatá Pechová	1	3923,4259,4260
+190	Valentovičová Anna	sestra Mateja	1	3921
+190	Valentovičová Mária r. Líšková	ž.Jána	1	5953
+190	Vallová Helena r. Bilková		1	4315,4769,4957
+190	Vallová Helena r. Stachová		1	4315
+190	Vallová Mária r. Hrúzová	ž.Vendelína	1	6724
+190	Vallová Terézia r. Baďurová	ž.Ondreja	1	7161
+190	Valová Helena r. Bilková		1	7008
+190	Vanek Alojz	čd.287	1	4650
+190	Vanek Alojz	prvý zápis	1	5411
+190	Vanek Alojz	ž.Mária r.Ruchovanská	1	2725,2726,2728,2729,2730,2731,4160,4162,4315,6638,8064,8065,8066
+190	Vanek František	brat Štefana a Júlie D 1547/81,D 305/85	1	4487,5087
+190	Vanek František	slob.syn Jána	1	2504,2509
+190	Vanek František	syn Ignáca a brat Márie Patákovej	1	2725,4160,4315,4327,4965,5546,8066
+190	Vanek František	syn Pavla a Heleny r.Petrovič D 1118/97	1	3781,4315
+190	Vanek František	syn Štefana a Júlie r.Bízkovej	1	4315,5134,5651
+190	Vanek František	ž.Júlia r.Bízková	1	2751,3133,3134,3136,4203,4204,4315,7802,7803
+190	Vanek Gustáv	ž.Amália r.Hieková	1	6233
+190	Vanek Ján	dedí po Michálkovej Júlii r.Samkovej	1	2112,2121,2122,7692
+190	Vanek Ján	prvý zápis	1	2127,2128,2129
+190	Vanek Ján	syn Jána a Alžbety r.Huttovej	1	4558
+190	Vanek Ján	ž.Terézia r.Hasáková	1	2504,2509
+190	Vanek Jozef	brat Ignáca	1	4315,4327,4965,5546
+190	Vanek Jozef	brat Rudolfa a Štefana	1	4558
+190	Vanek Jozef	D 856/65, D 1632/85	1	2242,7409
+190	Vanek Jozef	syn Ondreja a Júlie r.Búzkovej	1	5008
+190	Vanek Jozef	ž.Hermína r.Butašová	1	4162
+190	Vanek Jozef	ž.Mária r.Butašová	1	2785,4315,5590,7451
+190	Vanek Jozef	ž.Zuzana r.Devanová	1	4331
+190	Vanek Matej	syn Mateja a Márie r.Línkovej	1	2725,4160,4315,4327,4965,8066
+190	Vanek Matej	ž.Mária r.Línková	1	5546
+190	Vanek Matej r. Vanek	syn Mateja a Márie r. Línkovej	1	2722
+190	Vanek Pavol	brat Kataríny Štvrteckej	1	2509
+190	Vanek Pavol	brat Márie Jankovičovej	1	5088,6995,7011,7935
+190	Vanek Pavol	D 1425/89	1	2504,4580,5775
+190	Vanek Pavol	slob	1	5267
+190	Vanek Pavol	ž.Magdaléna r.Šedivá	1	5173
+190	Vanek Rastislav	mal. brat Viktora a Vladimíra	1	3102,3142
+190	Vanek Rudolf	brat Jozefa a Štefana	1	4558
+190	Vanek Šimon	syn Štefana a Kataríny r.Grajzovej	1	454,6681
+190	Vanek Šimon	ž.Apolónia r.Poláková	1	3763
+190	Vanek Štefan	brat Rudolfa a Jozefa	1	4558
+190	Vanek Štefan	čd.619	1	6283
+190	Vanek Štefan	D 305/85	1	4487,5087
+190	Vanek Štefan	mal. syn Štefana a Júlie r.Bízkovej	1	4315,5134,5651
+190	Vanek Štefan	syn Magdalény r.Šedivej D 1915/85	1	4315,5156,6708
+190	Vanek Štefan	syn Michala a Júlie r.Tománkovej	1	4185,4186,4315,5538,5797,5918,5919,6803
+190	Vanek Štefan	syn Pavla a Heleny r.Petrovičovej	1	3269
+190	Vanek Viktor	mal. brat Vladimíra a Rastislava	1	3102,3142
+190	Vanek Vladimír	mal. brat Viktora a Rastislava	1	3102,3142
+190	Vaňková Agneša	dcéra Júlie r.Tománkovej	1	1523,3019,3021,3027,4191,4192,4193,4194,4315,4396,4400,4693,4694,5113,5538,5918,5919,6644,6803,7392,7547,7646
+190	Vaňková Agneša	mal.dcéra Michala	1	2032
+190	Vaňková Alžbeta r. Lasicová		1	2596
+190	Vaňková Alžbeta r. Vaňková	ž.Jozefa	1	3261
+190	Vaňková Anna	dcéra Ondreja a Kataríny r.Hlavenkovej	1	4461,6610
+190	Vaňková Anna r. Škápiková		1	3225,4315
+190	Vaňková Apolónia r. Poláková	ž.Šimona	1	3369,3759,6647
+190	Vaňková Helena r. Totková	ž.Mikuláša	1	3402,3812,6060
+190	Vaňková Johana r. Petríková		1	6639
+190	Vaňková Júlia	mal.dcéra Michala	1	5538
+190	Vaňková Júlia r. Bízková	ž.Františka	1	2959,4315,5402
+190	Vaňková Júlia r. Búzková	prv vydatá Černá	1	4742,6723
+190	Vaňková Júlia r. Cintulová	ž.Antona	1	2517,2521,4315,5193,7674,7866
+190	Vaňková Júlia r. Cintulová	ž.Jána	1	3572
+190	Vaňková Júlia r. Linková	ž.Štefana	1	4327
+190	Vaňková Júlia r. Sekáčová		1	2178,2184,3347,3348,3349,3350,3632,4062,4315,4544,4720,6294,7799
+190	Vaňková Júlia r. Trávniková	ž.Štefana	1	5030
+190	Vaňková Mária r. Butašová	ž.Martina	1	5953
+190	Vaňková Mária r. Ruchovanská	ž.Alojza	1	6638
+190	Vaňková Terézia	dcéra Pavla a Heleny r.Petrovičovej	1	3269
+190	Vaňková Terézia	dcéra Štefana a Júlie r.Bízkovej	1	4315,5134,5651
+190	Vaňková Terézia r. Nesnadná	D 1328/75,D 6148/92	1	2504,2509,4951
+190	Včelka Anton	brat Ferdinanda	1	5440,5569
+190	Včelka Anton	syn Jozefa	1	5569
+190	Včelka Ferdinand		1	5988
+190	Včelka Ferdinand	brat Antona	1	5569,6623
+190	Včelka Florián		1	2897,3840
+190	Včelka Florián	syn Michala a Júlie r.Ruchovanskej	1	2778,2879,3103,4243,4244
+190	Včelka Florián	ž.Júlia r.Jankovičová	1	2940,2941,2942,4315,5705
+190	Včelka Florián	ž.Mária r.Jankovičová	1	4226,4315,5544,7089
+190	Včelka Jozef	ž.Katarínová r.Šedivá	1	5257

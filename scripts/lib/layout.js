@@ -65,6 +65,7 @@ function navItems(lang) {
     { id: 'about', href: PAGES.about[lang], label: t['nav.about'] },
     { id: 'services', href: PAGES.services[lang], label: t['nav.services'] },
     { id: 'articles', href: ARTICLES_URL, label: t['nav.articles'] },
+    ...(PAGES.owners[lang] && !PAGES.owners.hidden ? [{ id: 'owners', href: PAGES.owners[lang], label: t['nav.owners'] }] : []),
     { id: 'contact', href: PAGES.contact[lang], label: t['nav.contact'] },
   ];
 }

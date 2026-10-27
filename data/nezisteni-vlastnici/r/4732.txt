@@ -1,0 +1,256 @@
+2683	HODOR Pavel	malol.dedil 1943	1	6,51,52,91,118
+2683	HODOR Pavel	PKV 96	1	11
+2683	HODOR Pavel mal.		0	173
+2683	HODOR Pavol		1	52,61,233
+2683	HODOR Pavol	dedil 1891	0	173
+2683	HODOR Pavol	dedil 1914	1	6
+2683	HODOR Pavol	PKV 11	1	52
+2683	HODOR Peter	malol	1	6,52,61,232,233
+2683	HODOROVÁ Anna	r.Mašlejová m.Ján	1	6
+2683	HODOROVÁ Johanna		1	6,51,52,91,118
+2683	HODOROVÁ Mária		1	51,118
+2683	HODOROVÁ Mária	malol	1	6,51,52,91,118
+2683	HODOROVÁ Mária	r.Fedáková m.Jozef; ; m.Jozef	1	52
+2683	HODOROVÁ Zuzana r. Lichvarová	m.Michal	1	68
+2683	JALCAK Michal		0	175
+2683	JALCAK Pavel		0	175
+2683	KAKOŠ Ján		1	132,137,212,255,274,285
+2683	KUKORA Ján	ž.Anna r.Mandičáková	1	113
+2683	KULAK Alžbeta	Vrabel Drobny	0	120,265
+2683	KULANOVÁ Alžbeta	r.Vrabelyová Drobná m.Andrej	1	66,67
+2683	LESÁKOVÁ Alžbeta	r.Hamaďáková	1	200
+2683	LICHVÁR Andrej	dedil 1894	1	68
+2683	LICHVÁR Andrej	Liščák	1	68
+2683	LICHVÁR Ján		1	68,131,256
+2683	LICHVAR Mária		0	131,256
+2683	LICHVÁR Michal		1	68,131,256
+2683	LICHVÁR Mikuláš		1	68,131,256
+2683	LICHVAROVÁ Anna	r.Kukorová	1	113
+2683	LICHVÁROVÁ Mária		1	68
+2683	LISCAK Zuzana		0	129,161,257
+2683	LISCAK Zuzana	dedila 1909	0	128,258
+2683	LISCAK Zuzana	dedila 1910	0	128,258
+2683	LIŠČÁK Michal		1	51,52,61,232,233
+2683	LIŠČÁKOVÁ Alžbeta		1	51,52,61,232,233
+2683	LIŠČÁKOVÁ Anna		1	51,52,61,232,233
+2683	LIŠČÁKOVÁ Anna	malol	1	52
+2683	LIŠČÁKOVÁ Mária	malol	1	51,52,61,232,233
+2683	LIŠČÁKOVÁ Zuzana		1	51,52,61,205,215,232,233
+2683	PAZAK Ján		0	161
+2683	PAZAK Zuzana	r.Hodor vdova	0	137
+2683	PAZIAK Zuzana	r.Hodor muz Michal	0	173
+2683	RAGAN Mária	Vrabel Drobny	0	120,265
+2683	RAGANOVÁ Mária	r.Vrabelyová Drobná m.Pavol	1	66,67
+2683	SIM Andrej	ž.Helena r.Ganajová	1	61,232,233
+2683	SIM Andrej	ž.Mária r.Hamaďaková	1	6
+2683	SIM Ján	nar.1921	1	211
+2683	SIM Juraj		1	76
+2683	SIMOVÁ Helena	r.Ganajová m.Andrej	1	61,232,233
+2683	SIMOVÁ Mária	r.Andrejcová	1	76
+2683	SIROVÁ Mária	r.Chamaďáková	1	76,200
+2683	SKINTAROVÁ Anna r. Carová		0	112,264
+2683	VRABEL DROBNY Ján		0	120,265
+2683	VRABEL DROBNY Juraj	Andrej	0	120,265
+2683	VRABELY DROBNI Ján	syn Andreja	1	66,67
+2683	VRABELY DROBNI Juraj	syn Andreja	1	66,67
+2683	ZAKUCKÝ Vojtech		1	76,133,211,250,268
+2684	Adamjak Ján, ž. Mária Kriššáková ž. Mária Kriššáková		0	7480
+2684	Adamjak Marián, ž. Mária Sisková ž. Mária Sisková		0	6441
+2684	Adamjak Rudolf, ž. Mária Kovalčíková ž. Mária Kovalčíková		0	7755
+2684	Adamjak Štefan, ž. Roza Bachledová ž. Roza Bachledová		0	7384
+2684	Adamjaková Helena, 1929,dc.Márie Kovalčíkovej 1929,dc.Márie Kovalčíkovej		0	7280
+2684	Adamjaková Mária r. Raková, m. Štefan m. Štefan		0	6138
+2684	Adamjaková Mária, vyd. Kornajčíková,1929,dc.Marie vyd. Kornajčíková,1929,dc.Marie		0	6263
+2684	Adamjaková Viktoria r. Ivančáková, muž Štefan muž Štefan		0	5974
+2684	Alexyová Helena r. Kačmaríková, Výborná Výborná		0	7451
+2684	Alexyová Mária r. Dammerová		0	8081
+2684	Alexyová Mária r. Galgonová, Jaschke Jaschke		0	6842
+2684	Alexyová Mária, Galon Jaschkeová M.Adalbert Galon Jaschkeová M.Adalbert		0	7323
+2684	Andrášová Angela, 1931 1931		0	5608
+2684	Andrášová Angela, Spišská Belá Spišská Belá		0	6414
+2684	Andrášová Anna, vyd. Petrisková dcéra Juraja vyd. Petrisková dcéra Juraja		0	7087
+2684	Andrášová Júlia r. Bekešová, m. Lukáš m. Lukáš		0	5760
+2684	Andrášová Júlia r. Slivinská, m. Štefan m. Štefan		0	6481
+2684	Andrášová Mária, 1928 1928		0	5608
+2684	Andrášová Meno neznáme, Spišská Belá Spišská Belá		0	7575
+2684	Andrašovská Júlia	r. Slivinská	0	4596
+2684	Andrašovská Júlia r. Slivinská	muž Štefan	0	4596
+2684	Antoš Ján, syn Mateja syn Mateja		0	7896
+2684	Antoš Michal, syn Mateja syn Mateja		0	7162
+2684	Antoš Štefan, ž. Jozefína Husková ž. Jozefína Husková		0	8005
+2684	Badovská Agnesa r. Majerčáková, muž Gustáv muž Gustáv		0	7849
+2684	Badovská Mária r. Budzáková, Lendak Lendak		0	6880
+2684	Badovská Mária r. Galliková, muž František muž František		0	7028
+2684	Badovská Roza r. Budzáková, m. Štefan m. Štefan		0	6578
+2684	Badovský Jakub, žena Mária Budzáková žena Mária Budzáková		0	7582
+2684	Badovský Matúš, Lendak Lendak		0	7499
+2684	Badovský Štefan		0	7385
+2684	Badovský Štefan, ž.Roza Budzáková ž.Roza Budzáková		0	8103
+2684	Bachleda Jakub, syn Jána syn Jána		0	7277
+2684	Bachleda Ján	syn Stanislava	0	4612
+2684	Bachleda Ján, syn Stanislava syn Stanislava		0	5829
+2684	Bachleda Ondrej		0	4612,6006
+2684	Bachledová Helena	r. Mačaková,vd.muž Stanislav	0	4612
+2684	Balažová Anna	r. Slivinská	0	4596
+2684	Balážová Anna r. Slivinská		0	6058
+2684	Balážová Anna r.Slivinská		0	3040
+2684	Bankoš Ján, syn Jána syn Jána		0	6453
+2684	Bankošová Margita r. Strišovská, m. Jozef, Slovenská Ves m. Jozef, Slovenská Ves		0	7504
+2684	Baraňák Viktor		0	4471,4660
+2684	Baraňák Viktor, ž. Mária Klimeková ž. Mária Klimeková		0	6109
+2684	Barlok Štefan, ž. Mária r.Neupauerová ž. Mária r.Neupauerová		0	7943
+2684	Barloková Mária r. Neupauerová, m. Štefan m. Štefan		0	6695
+2684	Bátori Tomáš		0	6758
+2684	Batory Tomáš, Lendak Lendak		0	6819
+2684	Bátory Vojtech, ž.Katarína Hudáčeková ž.Katarína Hudáčeková		0	6099
+2684	Bátoryová Anna r. Simančíková	vdova	0	4949
+2684	Bátoryová Rozália r. Grichová		0	6164
+2684	Batoryová Rozália r. Grichová, Lendak Lendak		0	6516
+2684	Bátoryová Rozália r. Grichová, muž Tomáš muž Tomáš		0	6061
+2684	Bednarčík Anna r. Galliková		0	6642
+2684	Bednarčík Ján		0	5686
+2684	Bednarčíková Mária r. Majerčáková, m. Juraj m. Juraj		0	6683
+2684	Bekešová Anna r. Kolumberová, dc.Jána a Žofie dc.Jána a Žofie		0	6521
+2684	Belončíková Žofia r. Smoleňová, m. Ján m. Ján		0	6248
+2684	Benková Michaela	r. Vaverčáková	0	4401
+2684	Benková Michaela r. Vaverčáková		0	6697
+2684	Benková Michaela r.Vaverčáková		0	3060
+2684	Bies Jozef, 1917, otec Eduard 1917, otec Eduard		0	6534
+2684	Bies Karol, ž. Johana Horanská ž. Johana Horanská		0	7848
+2684	Biesová Johana r. Horanská, m. Karol m. Karol		0	6476
+2684	Biesová Jolana r. Horanská, m. Karol m. Karol		0	5984
+2684	Biesová Katarína, 1919, otec Eduard 1919, otec Eduard		0	6977
+2684	Biesová Mária, 1918, otec Eduard 1918, otec Eduard		0	5858
+2684	Biesová Zuzana r. Krausová		0	7064
+2684	Birošík Karol, ž. Verona Budzáková ž. Verona Budzáková		0	7588
+2684	Birošíková Veronika r. Budzáková, muž Karol muž Karol		0	6828
+2684	Bizub Andrej, USA USA		0	6295
+2684	Bizub Andrej, ž. Margita Strišovská ž. Margita Strišovská		0	7941
+2684	Bizub Ján r. Bizub		0	7875
+2684	Bizub Jozef r. Bizub		0	5897
+2684	Bizub Pavol, ž. Anna Kovalčíková ž. Anna Kovalčíková		0	6461
+2684	Bizubobá Pavla	r. Regecová	0	4483
+2684	Bizubová Margita r. Strišovská, Slovenská Ves 113, m. Andrej Slovenská Ves 113, m. Andrej		0	7107
+2684	Blaščáková Veeronika r. Bachledová	muž Pavol	0	4612
+2684	Blažčaková Verona r. Bachledová, m. Pavel m. Pavel		0	6419
+2684	Blütgenová Johana r. Laufíková		0	5894
+2684	Blutgenová Johana r. Laufíková, dcéra Michala dcéra Michala		0	6134
+2684	Bočkay Ján		0	4593
+2684	Boharčík Albert	syn Martina	0	4607
+2684	Boharčík Albert, syn Martina syn Martina		0	5756
+2684	Boharčíková Helena	dcéra Augusta	0	4607
+2684	Boharčíková Lujza	dcéra Augusta	0	4607
+2684	Bombara Ondrej		0	3106,4443
+2684	Brejka Jozef, ž. Anna Birošíková ž. Anna Birošíková		0	7194
+2684	Brejka Karol, ž. Katarína Romanová ž. Katarína Romanová		0	7972
+2684	Brejková Katarína r. Romanová, m. Karol m. Karol		0	5658
+2684	Brejková Zuzana	dcéra Jana podla pol.192/81	0	4470
+2684	Brezina Andrej		0	6770
+2684	Brezina František		0	7787
+2684	Brezina Jozef		0	7038
+2684	Brezinová Mária		0	5795
+2684	Britaňák Jakub		0	5635
+2684	Britaňák Martin, 1908, syn Jána 1908, syn Jána		0	5831
+2684	Britaňáková Janka r. Čekovská		0	5961
+2684	Britaňáková Johanna r. Čekovská, m. Ján m. Ján		0	7887
+2684	Britaňáková Terézia r. Halčinová		0	7106
+2684	Broschko Gustáv Adolf		0	7129
+2684	Budzák Ignác, ž. Mária Halčinová ž. Mária Halčinová		0	7878
+2684	Budzák Jakub		0	6786
+2684	Budzák Ján, Lendak Lendak		0	7713
+2684	Budzák Matúš, Lendak Lendak		0	7746
+2684	Budzák Michal		0	3034
+2684	Budzák Michal, syn Michala syn Michala		0	6983
+2684	Budzák Tomáš		0	7201
+2684	Budzáková Anna r. Adamjaková, m. Ondrej m. Ondrej		0	7335
+2684	Budzáková Justína r. Halčinová		0	7180
+2684	Budzáková Mária r. Badovská, muž Ján muž Ján		0	6412
+2684	Budzáková Mária r. Britaňáková		0	6325
+2684	Budzáková Mária r. Halčinová, Lendak Lendak		0	7141
+2684	Budzáková Mária r. Halčínová, muž.Ignác muž.Ignác		0	7537
+2684	Budzina Ján, syn Ondreja syn Ondreja		0	6591
+2684	Budzinová Roza, dcéra Ondreja dcéra Ondreja		0	8042
+2684	Buchalová Helena	r. Majerová	0	4455
+2684	Buchalová Helena r. Majerová		0	7643
+2684	Buchalová Helena r. Mayerová		0	5739
+2684	Buchalová Helena r.Mayerová		0	3166
+2684	Curelyová Žofia	r. Vaverčáková	0	4401
+2684	Curelyová Žofia r. Vaverčáková		0	6858
+2684	Curelyová Žofia r.Vaverčáková		0	3060
+2684	Čekovský Anton, otec Urban otec Urban		0	5715
+2684	Čekovský Ján, syn Jozefa syn Jozefa		0	7102
+2684	Čekovský Ján, ž. Júlia Mačáková ž. Júlia Mačáková		0	7571
+2684	Čekovský Ján, ž. Mária Jašňáková ž. Mária Jašňáková		0	7383
+2684	Čekovský Urban, syn Jána syn Jána		0	7502
+2684	Černík Michal		0	7441
+2684	Čikovská Žofia	r. Bigošová	0	4586
+2684	Čižík Andrej, Spišská Belá Spišská Belá		0	6292
+2684	Dilská Ružena r. Andrášová, Ždiar 105 Ždiar 105		0	7091
+2684	Dindová Anna r. Džubaková, vd. m. Ján vd. m. Ján		0	7331
+2684	Dravecká Mária	r. Vidová	0	4624
+2684	Dreherová Mária r. Lorenčíková, otec Andrej otec Andrej		0	6345
+2684	Duda Jakub, ž. Anna Kolumberová ž. Anna Kolumberová		0	6871
+2684	Duda Ján	syn Sebastiana	0	4744
+2684	Dudáš Sebastian		0	4695
+2684	Dudaško František, Lendak Lendak		0	5798
+2684	Dudaško Ignác		0	6203
+2684	Dudaško Jozef		0	5830,6321
+2684	Dudaško Jozef, ž. Eva Koščáková ž. Eva Koščáková		0	7678
+2684	Dudašková Mária		0	3062
+2684	Dudašková Mária r. Oprendeková		0	7022
+2684	Dudašková Verona r. Neupauerová, m. Ignác m. Ignác		0	5905
+2684	Dudášová Anna	r. Šilonová	0	4695
+2684	Dudová Mária r. Kolumberová, m. Jakub m. Jakub		0	6811
+2684	Duláková Júlia r. Dvorčáková		0	8035
+2684	Dvorčáková Mária r. Stupáková		0	6508
+2684	Dzifčák Ladislav, syn Emila syn Emila		0	7057
+2684	Džubaková Anna, dcéra Jána dcéra Jána		0	7404
+2684	Fábryová Edita r. Szimoniszová	m. Arpád	0	8251
+2684	Fábryová Edita r. Szimoniszová, m. Arpád m. Arpád		0	6911
+2684	Farkaš Michal, syn Ondreja syn Ondreja		0	7935
+2684	Farkaš Ondrej, ž.Maria Kuchtová ž.Maria Kuchtová		0	6765
+2684	Farkašová Anna r. Maliňaková		0	6204
+2684	Farkašová Anna r. Maliňaková, dc. Zuzany Ratkai dc. Zuzany Ratkai		0	6854
+2684	Farkašová Margita, dcéra Juraja dcéra Juraja		0	7123
+2684	Farkašová Mária r. Kolumberová, m. Martin m. Martin		0	6837
+2684	Fedor Michal, ž. Katarína Krišáková ž. Katarína Krišáková		0	7306
+2684	Fedorová Anna	r. Rezničáková	0	2708
+2684	Fedorová Anna r. Rezničáková		0	7291
+2684	Fedorová Anna r.Rezničáková		0	2705,3388,3630
+2684	Fedorová Žofia r. Štecová, Krížová Ves 70 Krížová Ves 70		0	5900
+2684	Ferenčaková Mária r. Kučerová, m. Ondrej m. Ondrej		0	7045
+2684	Franková Ida r. Mayerová, vd. m. Viktor vd. m. Viktor		0	7397
+2684	Freitagová Zuzana r. Galgonová		0	7450
+2684	Fudaly Ondrej, maloletý maloletý		0	7405
+2684	Fudaly Tomáš, ž. Katarína Galiková ž. Katarína Galiková		0	5762
+2684	Fudalyová Katarína r. Koščáková		0	7011
+2684	Fudalyová Žofia		0	6991
+2684	Fyleš František	syn Vendela	0	4498
+2684	Fyleš Ján		0	4498
+2684	Fyleš Ján	syn Vendela	0	4498
+2684	Fylešová Gabriela	r. Plučinská	0	4498
+2684	Gaceková Mária r. Bizubová, USA USA		0	6119
+2684	Galík Valent		0	6545
+2684	Gallik Jakub, v Amerike v Amerike		0	7995
+2684	Gallik Ján		0	6466
+2684	Gallik Ján, Lendak Lendak		0	6810,7815
+2684	Gallik Matej, ž. Viktória Čižiková ž. Viktória Čižiková		0	6497
+2684	Gallik Pavol, Spišská Belá Spišská Belá		0	5825
+2684	Gallik Peter		0	6895
+2684	Gallik Šimon, v Amerike v Amerike		0	6897
+2684	Gallik Valent		0	6967
+2684	Gallik Vincent		0	7651
+2684	Gallik Vincent, v Amerike v Amerike		0	5845
+2684	Galliková Anna r. Hudačeková, Lendak Lendak		0	6004
+2684	Galliková Anna r. Majerčáková		0	6360
+2684	Galliková Anna r. Vidová, muž Vincent muž Vincent		0	7222
+2684	Galliková Anna, Lendak Lendak		0	5960
+2684	Galliková Júlia r. Laufíková, m. Gál m. Gál		0	7701
+2684	Galliková Margita r. Potanková, dcéra Michala dcéra Michala		0	6797
+2684	Galliková Mária r. Bátoryová, muž Ján muž Ján		0	6040
+2684	Galliková Mária r. Suchanovská		0	7791
+2684	Galliková Mária r. Suchanovská, muž Štefan muž Štefan		0	7628
+2684	Galliková Rozália r. Jašňáková, Lendak Lendak		0	6959
+2684	Galliková Verona r. Halčinová, Lendak Lendak		0	5826
+2684	Galliková Viktória r. Čižiková		0	7812
+2684	Gancarčík František		0	7603

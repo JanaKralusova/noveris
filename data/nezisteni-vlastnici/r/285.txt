@@ -1,0 +1,256 @@
+191	Filípek Pavol	ž.Alžbeta r.Škápiková	1	4583
+191	Filípek Pavol	ž.Angela r.Šajdíková	1	1266,2620,2621,3678,4819,4820
+191	Filípek Rudolf	ž.Albína r.Vaňková	1	1793,2572,2620,2621,2935,2971,3678,4819,4820
+191	Filípek Rudolf	ž.Mária r.Dobiášová	1	2620,2621,2760,2781,3013,3028,3678,4819,4820
+191	Filípek Šimon	ž.Alžbeta r.Butašová	1	2620,2621,3678,4819,4820
+191	Filípek Šimon	ž.Katarína r.Totková	1	1530,2620,2621,3678,4819,4820
+191	Filípek Štefan	mlad	1	3876
+191	Filípek Štefan	syn Štefana a Júlie r.Michalicovej	1	2620,2621,3678,4819,4820
+191	Filípek Štefan	ž.Mária r.Benková	1	2620,2621,3678,4819,4820
+191	Filípková Albína	dcéra Ondreja a Terézie r.Černej	1	2620,2621,3678,4578,4819,4820
+191	Filípková Albína Amália r. Dobiášová		1	2620,2621,2622,2623,3373,3678,4819,4820
+191	Filípková Albína r. Mórová		1	2805,3168,4532
+191	Filípková Alžbeta r. Nesnadná		1	2279,2299,2622,2623
+191	Filípková Alžbeta r. Sovová		1	2699,4423,4642
+191	Filípková Alžbeta r. Škápiková	ž.Pavla	1	2620,2621,3678,4525,4583,4819,4820
+191	Filípková Alžbeta r. Trupová	ž.Jána	1	3678,4701
+191	Filípková Angela r. Šajdíková	ž.Pavla	1	1266
+191	Filípková Anna	dcéra Ondreja a Terézie r.Černej	1	2620,2621,3678,4578,4819,4820
+191	Filípková Anna r. Trupová		1	2620,2621,3678,4819,4820
+191	Filípková Eva	mal. dcéra Jozefa	1	3176
+191	Filípková Helena r. Sekáčová	ž.Jozefa	1	3175,3177
+191	Filípková Júlia	dcéra Ondreja a Terézie r.Černej	1	2620,2621,3678,4578,4819,4820
+191	Filípková Júlia	dcéra Štefana a Júlie r.Trupovej	1	1639,2620,2621,2984,3678,4819,4820
+191	Filípková Júlia	mal. sestra Ignáca	1	2620,2621,3678,4819,4820
+191	Filípková Júlia r. Horváthová	ž.Františka	1	3678
+191	Filípková Katarína r. Butašová	ž.Pavla	1	2622,2623
+191	Filípková Katarína r. Totková	ž.Šimona	1	2620,2621,4819,4820
+191	Filípková Magdaléna r. Kubincová	ž.Jána	1	1529
+191	Filípková Mária	dcéra Ignáca	1	2760,2781,3246
+191	Filípková Mária	dcéra Štefana a Júlie r.Trupovej	1	1639,2620,2621,2984,3678,4819,4820
+191	Filípková Mária r. Benková		1	4819
+191	Filípková Mária r. Benková	ž.Štefana	1	2355,2620,2621,3678,4746,4819,4820
+191	Filípková Mária r. Cintuloá	ž.Jána	1	2620
+191	Filípková Mária r. Cintulová	ž.Jána	1	2621,2886,4706,4819,4820
+191	Filípková Rozália	dcéra Jána a Alžbety r.Trupovej	1	3678
+191	Filípková Terézia	Černá ž.Ondreja	1	4819
+191	Filípková Terézia	dcéra Ondreja a Terézie r.Černej	1	2620,2621,3678,4578,4819,4820
+191	Filípková Terézia	dcéra Štefana a Júlie r.Trupovej	1	1639,2620,2621,2984,3678,4819,4820
+191	Filípková Terézia r. Černá	ž.Ondreja	1	2620,2621,4819,4820
+191	Filípková Terézia r. Drinková	ž.Jána	1	3678,4340,4681
+191	Filípková Terézia r. Obuchová	ž.Jána	1	3689
+191	Filo František	mal. syn Jána a Heleny r.Benkovej	1	3165,3548,3678,4220
+191	Filo František	syn Jozefa	1	4091
+191	Filo Gabriel	syn Jána a Heleny r.Benkovej	1	3165,3548,3678,4220
+191	Filo Ondrej		1	3678
+191	Filo Rudolf	syn Jána a Heleny r.Benkovej	1	3165,3548,3678,4220
+191	Filo Viktor	syn Jána a Heleny r.Benkovej	1	3165,3548,3678,4220
+191	Filová Anna	mal. dcéra Jána a Heleny r.Benkovej	1	3165,3548,3678,4220
+191	Filová Apolónia r. Matulová	ž.Ondreja	1	4819,4820
+191	Filová Helena r. Kozánková	ž.Františka	1	2604,2620,2621,2835,3678,4541,4819,4820
+191	Filová Helena r. Línková	ž.Františka	1	2620,2621,3678,4236,4819,4820
+191	Filová Júlia r. Šedivá		1	3723
+191	Filová Katarína	dcéra Michala a Rozálie r.Hasákovej	1	3678
+191	Filová Mária		1	2760,2781
+191	Filová Mária	mal. dcéra Jozefa	1	4526
+191	Filová Mária r. Duffková	ž.Štefana	1	2620,2621,2760,2781,3228,3678,4819,4820
+191	Filová Mária r. Lasicová		1	1699,3746,4118,4345,4440
+191	Filová Mária r. Šedivá	ž.Jozefa	1	2620,2621,2622,2623,2779,4402,4518,4819,4820
+191	Filová Mária r. Včelková		1	2508,2620,2621,3228,3678,4819,4820
+191	Filová Terézia r. Nesnadná	ž.Jána	1	2620,2621,2760,2781,3349,3678,4778,4819,4820
+191	Fleisigová Terézia r. Holásková		1	3819,4385
+191	Fojtlín Alojz	mal. brat Jozefa,Magdy,Štefánie	1	2537,2538,2540,2541,2620,2621,2622,2623,2760,2781,3383,3513,3678,3714,4210,4356,4480,4502,4819,4820,4999
+191	Fojtlín František		1	4210,4502
+191	Fojtlín Ignác	mal. syn Jozefa	1	3052,4687
+191	Fojtlín Ján		1	4356
+191	Fojtlín Jozef	brat Alojza, Magdy,Štefana a Hermíny	1	2538,2540
+191	Fojtlín Jozef	mal. syn Jozefa	1	3052,4687
+191	Fojtlín Matej	ž.Mária r.Černá	1	3049,4502
+191	Fojtlín Pavol		1	4502
+191	Fojtlín Pavol	ž.Anna r.Černá	1	4480
+191	Fojtlín Pavol	ž.Mária r.Totková	1	3678
+191	Fojtlín Štefan		1	2538,2540,4210
+191	Fojtlínová Alžbeta r. Jankovičová	ž.Jozefa	1	3161,3678
+191	Fojtlínová Helena r. Adamcová		1	4425
+191	Fojtlínová Helena r. Cintulová		1	2622,2623,2760,2781,3508,3711
+191	Fojtlínová Mária r. Černá	ž.Mateja	1	2622,2623,2760,2781,3778
+191	Fojtlínová Mária r. Totková	ž.Pavla	1	3678
+191	Fojtlínová Terézia		1	4210,4502
+191	Földiová Mária r. Oravská	ž.Ladislava	1	1728,2164,2711,2760,2781,4534,4535,4579
+191	Földyová Mária r.Oravská		0	4849
+191	Gach Jozef		1	3186
+191	Gachová Katarína		1	2620,2621,3678,4819,4820
+191	Gachová Mária		1	2620,2621,3678,4819,4820
+191	Gachová Mária r. Poláková	ž.Jozefa	1	3013
+191	Gachová Viktória		1	2620,2621,3678,4819,4820
+191	Gašpárek František	syn Martina a Márie r.Kubincovej	1	1529,1531,1533,3269
+191	Gašpárek Matej		1	2620,2621,3165,3678,4092,4819,4820
+191	Gašpárek Matej	ž.Helena r.Línková	1	3678
+191	Gašpárek Pavol	syn Jozefa a Alžbety r.Butašovej	1	4728
+191	Gašpárek Pavol	syn Jozefa a Júlie r.Búzkove	1	2899
+191	Gašpárek Pavol	syn Jozefa a Júlie r.Búzkovej	1	3413,3678,4819,4820
+191	Gašparín Ján		1	2620,2621,3281,4819,4820
+191	Gašparín Ján	ž.Anna r.Cintulová	1	3983
+191	Gašparín Jozef	syn Pavla a Márie r.Fojtlínovej	1	3313,3678,4731
+191	Gašparín Štefan	mal. syn Pavla a Márie r.Fojtlínovej	1	3313,3678,4731
+191	Gašparín Štefan	ž.Katarína r.Wotzyová	1	3966
+191	Gašparín Vendelín	ž.Anna r.Butašová	1	2620,2621,4819,4820
+191	Gašparínová Anna r. Bilková		1	2620,2621,4819,4820
+191	Gašparínová Anna r. Bilková	ž.Jána	1	2620,2621,3678,4819,4820
+191	Gašparínová Anna r. Butašová	ž.Vendelína	1	2620,2621,4819,4820
+191	Gašparínová Mária r. Fojtlínová	ž.Pavla	1	3313,3678,4731
+191	Gašparínová Mária r. Kubincová	ž.Martina	1	1529
+191	Gašpárková Alžbeta r. Butašová		1	3790,4728
+191	Gašpárková Anna r. Butašová		1	2619,3012,3489,4447
+191	Gašpárková Anna r. Samková	ž.Mateja	1	2620,2621,2622,2623,2760,2781,3641,4819,4820
+191	Gašpárková Helena		1	2056,2057,3850
+191	Gašpárková Helena r. Butašová		1	4176,4476
+191	Gašpárková Helena r. Hodáňová		1	3130
+191	Gašpárková Helena r. Michálková		1	2620,2621,3159,3678,4819,4820
+191	Gašpárková Júlia r. Búzková	ž.Jozefa	1	4819,4820
+191	Gašpárková Lucia	dcéra Jozefa a Júlie r.Búzkovej	1	2620,2621,2899,3394,3413,3678,4819,4820
+191	Gašpárková Terézia r. Vaňková		1	3757
+191	Gašparová Anna r. Baďurová	ž.Cyrila	1	2760,2781,4197,4767
+191	Gavalérová Mária r. Filípková		1	1266,2620,2621,3678,4819,4820
+191	Glashofferová Apolónia r. Drusánková	ž.Pavla	1	2509,2620,2621,3678,4437,4819,4820
+191	Gočál Ján	syn Jána a Heleny r.Cvečkovej	1	3397
+191	Gočál Ján	ž.Helena r.Borovičková	1	3678
+191	Gočál Ján	ž.Mária r.Škápiková	1	2620,2621,3678,4819,4820
+191	Gočál Ján	ž.Zuzana r.Kolovratová	1	3678
+191	Gočál Jozef	syn Jána a Heleny r.Cvečkovej	1	2620,2621,3397,3678,4491,4759,4819,4820
+191	Gočál Juraj	syn Jána a Heleny r.Cvečkovej	1	4759
+191	Gočál Matej	ž.Katarína r.Dudová	1	3678
+191	Gočál Michal	syn Jána a Heleny r.Borovičkovej	1	2620,2621,3263,4819,4820
+191	Gočál Michal	syn Jána a Heleny r.Cvečkovej	1	2620,2621,3397,3678,4491,4759,4819,4820
+191	Gočál Michal	ž.Katarína r.Baďurová	1	2620,2621,3678,4819,4820
+191	Gočál Štefan	brat Rozálie, Anny,Heleny, Márie a Júlie	1	2620,2621,3397,3678,4491,4819,4820
+191	Gočálová Anna	sestra Márie,Júlie,Štefana,Rozálie a Hel	1	2620,2621,3397,3678,4491,4819,4820
+191	Gočálová Helena	sestra Márie,Júlie,Štefana,Rozálie,Anny	1	2620,2621,3397,3678,4491,4819,4820
+191	Gočálová Katarína r. Baďurová		1	3263
+191	Gočálová Katarína r. Baďurová	ž.Michala	1	2620,2621,3678,4819,4820
+191	Gočálová Magdaléna	dcéra Jána a Heleny r.Cvečkovej	1	3397
+191	Gočálová Magdaléna r. Bízková		1	2566,2568,3678
+191	Gočálová Magdaléna r. Bízková	ž.Juraja	1	2620,2621,4819,4820
+191	Gočálová Magdaléna r. Janíčková	ž.Juraja	1	1779
+191	Gočálová Mária r. Cintulová	ž.Jána	1	2760,2781,4603
+191	Gočálová Mária r. Gašpárková		1	2620,2621,3165,3678,4092,4819,4820
+191	Gočálová Mária r. Petríková		1	2146,2620,2621,3188,3286,3678,4526,4819,4820
+191	Gočálová Mária r. Škápiková		1	4702
+191	Gočálová Mária r. Škápiková	ž.Jána	1	2620,2621,3678,4819,4820
+191	Gočálová Rozália	sestra Štefana,Anny,Heleny,Márie a Júlie	1	2620,2621,3397,3678,4491,4819,4820
+191	Gočálová Zuzana r. Kolovratová	ž.Jána	1	2620,2621,4819,4820
+191	Gombos Alexander	Grünhut	1	2760,2781,3678
+191	Grajza Anton	ž.Terézia r.Drápalová	1	1384
+191	Grajza František	syn Štefana a Magdalény r.Bízkovej	1	1368,2622,2623,2760,2781,3407,3659
+191	Grajza František	ž.Rozália r.Šedivá	1	1232,2620,2621,2622,2623,2760,2781,2815,3788,4136,4819,4820
+191	Grajza Ján	syn Jozefa a Márie r.Drinkovej	1	1384,1593,2620,2621,2622,2623,2706,2760,2781,3152,3451,3595,3678,3700,4146,4235,4365,4612,4819,4820,5035
+191	Grajza Ján	syn Juraja a Magdalény r.Tománkovej	1	1384
+191	Grajza Ján	syn Juraja a Magdalény r.Turánkovej	1	2622,2623,2760,2781
+191	Grajza Ján	ž.Júlia r.Butašovičová	1	1760,3340,3526
+191	Grajza Ján	ž.Júlia r.Kracinová	1	3779
+191	Grajza Ján	ž.Mária r.Baďurová	1	2622,2623,2760,2781,3379,3599,3604,3721
+191	Grajza Jozef	brat Evy,Pavla,Františka,Júlie a Rozálie	1	1368,2622,2623,2760,2781,3407,3659
+191	Grajza Juraj		1	3678,4235
+191	Grajza Pavol	brat Jozefa,Evy,Pavla,Františka,Júlie	1	1368,2622,2623,2760,2781,3407,3659
+191	Grajza Štefan	mal	1	1384,1593,2620,2621,2622,2623,2706,2760,2781,3152,3451,3595,3678,3700,4146,4235,4365,4612,4819,4820,5035
+191	Grajza Štefan	syn Heleny r.Michalicovej	1	1884,1886,1887,1888,1889,1891,1893,2622,2623,2760,2781,3440
+191	Grajza Štefan	syn Juraja a Magdalény r.Tománkovej	1	1384
+191	Grajza Štefan	syn Juraja a Magdalény r.Turánkovej	1	2622,2623,2760,2781
+191	Grajza Štefan	syn Mateja	1	1385,2622,2623,3867,4241
+191	Grajza Štefan	ž.Júlia r.Samková	1	3337,3678,4329
+191	Grajza Štefan	ž.Mária r.Pavlíková	1	2039
+191	Grajzová Alžbeta r. Šedivá	ž.Mikuláša	1	2987,4405
+191	Grajzová Anna r. Lišková	ž.Jána	1	2620,2621,3678,4819,4820
+191	Grajzová Helena r. Obuchová	ž.Mateja	1	2622,2623,2760,2781,3867,4549
+191	Grajzová Mária	dcéra Juraja a Magdalény r.Tománkovej	1	1384
+191	Grajzová Mária	dcéra Mateja	1	1385,2622,2623,3867,4241
+191	Grajzová Mária r. Baďurová		1	1910
+191	Grajzová Mária r. Pavlíková	ž.Štefana	1	1767,2039,2622,2623,2760,2781
+191	Grajzová Rozália	dcéra Štefana a Magdalény r.Bízkovej	1	2622,2623,2760,2781,3407,3659
+191	Grajzová Terézia r. Škápiková	ž.Jozefa	1	2620,2621,2622,2623,2760,2781,2815,3788,4819,4820
+191	Grúberová Hermína r. Černá		1	2620,2621,3678,4819,4820
+191	Grünhut Albert		1	2760,2781,3678
+191	Grünhut Armin, Dr.		1	2760,2781,3678
+191	Grünhut František	mal	1	2760,2781,3678
+191	Grünhút František	nezvestný	1	3678
+191	Grünhut Gejza, Ing.		1	2760,2781,3678
+191	Grünhut Zlatica	slob	1	2760,2781,3678
+191	Gutbrodová Jozefína r. Blödyová		1	2760,2781,2998
+191	Hajdinová Terézia r. Lasicová		1	1208,1209,1446
+191	Hanák Matej	syn Matúša	1	4113
+191	Hanák Pavol	brat Mateja syn Matúša	1	4113
+191	Haplová Terézia r. Gašparínová		1	3313,3678,4731
+191	Harculová Anna r. Diviaková		1	2620,2621,3678,3686,4819,4820
+191	Hasák Anton	syn Pavlíny r.Müllerovej	1	2600,2620,2621,3678,4819,4820
+191	Hasák Anton	ž.Anna r.Janíčková	1	1353,1868,1871,3678
+191	Hasák Bohumil	syn Pavlíny r.Müllerovej	1	2600,2620,2621,3678,4819,4820
+191	Hasák Emil	syn Pavlíny r.Müllerovej	1	2600,2620,2621,3678,4819,4820
+191	Hasák Ján	syn Jána	1	3678
+191	Hasák Ján	ž.Helena r.Totková	1	4755
+191	Hasák Jozef	syn Pavlíny r.Müllerovej	1	2600,2620,2621,3678,4819,4820
+191	Hasák Martin	syn Jána a Márie r.Benkovej	1	2620,2621,3678,4819,4820
+191	Hasák Martin	ž.Júlia r.Antálková	1	2620,2621,3165,3678,4051,4819,4820
+191	Hasák Pavol		1	1353,1868,1871,3678
+191	Hasák Rudolf	syn Jána	1	3678
+191	Hasák Štefan	syn Pavlíny r.Müllerovej	1	2600,2620,2621,3678,4819,4820
+191	Hasáková Albína r. Valentovičová		1	3382,3829
+191	Hasáková Alžbeta r. Dobiášová		1	3204,4424
+191	Hasáková Alžbeta r. Dobiášová	ž.Jána	1	2620,2621,3678,4819,4820
+191	Hasáková Helena r. Totková	ž.Jána	1	4755
+191	Hasáková Júlia r. Antálková	ž.Martina	1	2620,2621,2760,2781,3037,3165,3678,4051,4819,4820
+191	Hasáková Júlia r. Černá	ž.Gašpara	1	1007,2760,2781,3220,3505
+191	Hasáková Katarína r. Dobiášová	ž.Jozefa	1	2620,2621,3678,4819,4820
+191	Hasáková Terézia r. Bakanová	ž.Jozefa	1	3339,3530,4117
+191	Hausmanová Helena r. Dobiášová		1	2610,3031,3204,3225,3678,4694
+191	Havlíková Jozefína r. Šišuláková		1	2620,2621,3678,3952,4819,4820
+191	Hečková Anna r. Štvrtecká		1	2620,2621,3678,4819,4820
+191	Heseková Pavlína r. Šedivá		1	1353,1868,1871,3678
+191	Hickl Ondrej	ž.Júlia r.Petríková	1	2620,2621,4819,4820
+191	Hílek Michal	mal. brat Hermíny	1	2620,2621,3678,4819,4820
+191	Hílková Anna r. Macková	ž.Pavla	1	2620,2621,3678,4819,4820
+191	Hílková Hermína	mal. sestra Michala	1	2620,2621,3678,4819,4820
+191	Hilscherová Karolína r. Kubincová		1	1529
+191	Hlaváčová Karolína r. Filípková		1	2361,3678
+191	Hlavatá Alžbeta	dcéra Anny	1	3158
+191	Hlavatá Helena		1	2620,2621,3158,3678,3960,4403,4819,4820
+191	Hlavatá Helena	sestra Štefana,Anny a Magdalény	1	1353,1671
+191	Hlavatá Júlia	sestra Terézie,Márie a Jozefa	1	3559
+191	Hlavatá Magdaléna		1	3158
+191	Hlavatá Magdaléna	sestra Heleny,Štefana,Anny	1	1353,1671
+191	Hlavatá Mária	sestra Júlie,Terézie a Jozefa	1	3559
+191	Hlavatá Terézia	sestra Júlie, Márie a Jozefa	1	3559
+191	Hlavatý Jozef	brat Júlie,Terézie a Márie	1	3559
+191	Hlavatý Jozef	mal	1	1353,1671,2497,2620,2621,3158,3678,3960,4403,4819,4820
+191	Hlavenka Alojz	ž.Mária r.Šedivá	1	1830,1886,2861
+191	Hlavenka Anton	syn Štefana a Magdalény r.Mórovej	1	2622,2623,3678,3975
+191	Hlavenka Anton	ž.Katarína r.Janíčková	1	3678
+191	Hlavenka Ján	ž.Alžbeta r.Jankovičová	1	1299,2620,2621,2622,2623,2760,2781,2980,3040,3678,4819,4820
+191	Hlavenka Ján r. Hlavenka	ž. Alžbeta r. Jankovičová	1	1656
+191	Hlavenka Jozef		1	4104
+191	Hlavenka Jozef	brat Matúša	1	2620,2621,4819,4820
+191	Hlavenka Jozef	syn Štefana a Magdalény r.Mórovej	1	2622,2623,3678,3912,3975
+191	Hlavenka Jozef	ž.Alžbeta r.Matulová	1	2620,2621,2622,2623,3678,3955,3964,3975,4001,4028,4819,4820
+191	Hlavenka Jozef	ž.Helena r.Macková	1	2760,2781
+191	Hlavenka Jozef	ž.Júlia r.Sekáčová	1	1299,2620,2621,2622,2623,2760,2781,2980,3040,3678,4819,4820
+191	Hlavenka Martin		1	1790,1793,2622,2623,2760,2781,4882
+191	Hlavenka Martin	brat Terézie Šišulák,Márie Petrík a Štef	1	2620,2621,3678,4819,4820
+191	Hlavenka Matúš		1	2622,2623,2980,3678
+191	Hlavenka Matúš	brat Jozefa	1	2620,2621,4819,4820
+191	Hlavenka Matúš	syn Antona a Kataríny r.Janíčkovej	1	2620,2621,3678,4819,4820
+191	Hlavenka Matúš	syn Ondreja a Kataríny r.Janíčkovej	1	3141,3678
+191	Hlavenka Matúš	ž.Anna r.Trupová	1	2760,2781
+191	Hlavenka Mikuláš	ž.Anna r.Cintulová	1	3678
+191	Hlavenka Rudolf	ž.Božena r.Dostupilová	1	2620,2621,2622,2623,3678,3955,3964,3975,4001,4819,4820,4834
+191	Hlavenka Štefan	kúpa od Rudolfa Bílého	1	4455
+191	Hlavenka Štefan	syn Mikuláša a Anny r.Cintulovej	1	2809
+191	Hlavenka Štefan	ž.Katarína r.Sojáková	1	2620,2621,3678,4819,4820
+191	Hlavenka Štefan	ž.Magdaléna r.Cintulová	1	1353,4317
+191	Hlavenka Štefan	ž.Mária r.Dobiášová	1	4819,4820
+191	Hlavenková Alžbeta r. Dufková	ž.Štefana	1	2620,2621,4819,4820
+191	Hlavenková Alžbeta r. Jankovičová	ž. Jána	1	1656
+191	Hlavenková Alžbeta r. Jankovičová	ž.Jána	1	2622,2623,3709
+191	Hlavenková Anna r. Trupová	ž.Matúša	1	3678,4819,4820
+191	Hlavenková Helena r. Baďurová	ž.Pavla	1	2760,2781,4767
+191	Hlavenková Jozefína	dcéra Pavla	1	2620,2621,3678,3873,4476,4819,4820
+191	Hlavenková Júlia	mal. dcéra Ladislava a Júlie r.Jankovič	1	2374,3873
+191	Hlavenková Júlia r. Jankovičová	ž.Ladislava	1	2620,2621,3678,4819,4820

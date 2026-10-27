@@ -1,0 +1,256 @@
+1931	SZÜCS Jozef		0	6160
+1931	SZÜCS Jozef	mal	0	6080
+1931	SZÜCS Július	mal	0	6080
+1931	SZÜCS Július	PKV727	0	3178,6044
+1931	SZÜCS Mikuláš	ž.Agnesa r.Simonicsová	0	6839
+1931	SZÜCS Viliam r. Szücs		0	7522
+1931	SZÜCS Viliam r. Szücs	ž.Mária r.Dobosiová	0	7582
+1931	SZÜCS Vincent	ž.Alžbeta r.Bruszelová	0	6042
+1931	SZUCSEK Ján	ž.Veronika r.Dibuszová	0	5356
+1931	SZUCSEKOVÁ Veronika	r.Dibuszová m.Ján	0	5356
+1931	SZÜCSOVÁ Alžbeta	r.Bruszelová m.Vincent	0	2925,6042
+1931	SZÜCSOVÁ Barbora	r.Tóthová vd	0	5535
+1931	SZÜCSOVÁ Júlia	PKV727	0	3178,6044
+1931	SZÜCSOVÁ Lujza		0	6108
+1931	SZÜCSOVÁ Mária	PKV1314	0	2986,2987,2988
+1931	SZÜCSOVÁ Mária	PKV1723	0	6949
+1931	SZÜCSOVÁ Mária	r.Dobosiová m.Jozef	0	5479
+1931	SZÜCSOVÁ Mária	r.Dobosiová PKV6904	0	5293
+1931	SZÜCSOVÁ Mária	r.Lebóová	0	3199
+1931	SZÜCSOVÁ Mária r. Dobosiová		0	7582
+1931	SZÜCSOVÁ Mária r. Dobosiová	m.Jozef	0	7494
+1931	SZÜCSOVÁ Mária r. Dobosiová	m.Viliam	0	7582
+1931	SZÜCSOVÁ Matilda	r.Balhová	0	5647
+1931	SZÜCSOVÁ Matilda	r.Kesziová	0	4691,5325
+1931	SZÜCSOVÁ Rozália		0	5756
+1931	ŠIMONIČOVÁ Agnesa	r.Palušková vd	0	6961
+1931	ŠIMONIČOVÁ Alojzia	r.Molnárová	0	6684
+1931	ŠIMONIČOVÁ Alžbeta	r.Hengericsová	0	4761
+1931	ŠIMONIČOVÁ Helena	mal	0	4596,4780,4781,4782,7878
+1931	ŠIMONIČOVÁ Margita		0	4596,4781,4782,6811,7878
+1931	ŠKOPOVÁ Alžbeta	r.Franeková	0	3066
+1931	ŠŤASTNÁ Júlia	r.Csontosová	0	2796
+1931	ŠUŠKA Imrich		0	6516
+1931	ŠVAJDA Ľudovít		0	5448,6767,8045
+1931	ŠVIHLA Ján		0	6178
+1931	TAKÁCS Jozef		0	3645,3646
+1931	TAKÁCS Jozef	ž.Matilda r.Cserepesová	0	6219,6269
+1931	TAKÁCS Július		0	3645,3646
+1931	TAKÁCS Ľudovít		0	3645,3646
+1931	TALLÓSIOVÁ Júlia	r.Bucseková m. Imrich	0	5781
+1931	TALLÓSIOVÁ Margita		0	5448,6767,8045
+1931	TOBOLKOVÁ Juliana	r.Babiczová	0	5356,5357,7963
+1931	TOČÍK Karol	ž.Mária r.Straková	0	5030
+1931	TOČÍKOVÁ Mária	r.Straková m.Karol	0	5030
+1931	TOMCSÁNYIOVÁ Anna	r.Gerhátová m.Andrej	0	5914
+1931	TÓTH Alexander	mal	0	5773,6112
+1931	TÓTH Alexander	PKV1993	0	5503
+1931	TÓTH Alexander	syn Mikuláša	0	5415
+1931	TÓTH Alexander	ž.Alojzia r.Kesziová	0	6112,6714
+1931	TÓTH Alexander	ž.Margita r.Mátyusová	0	4078,4079,4080,4084,4808,5110,5283,5284,5285,6669,6966
+1931	TÓTH Alexander	ž.Rozália r.Čontošová	0	6907
+1931	TÓTH Andrej	ž.Anna r.Laláková	0	4796
+1931	TÓTH Augustín	ž.Mária r.Kesziová	0	5452,5495
+1931	TÓTH Baltazár	PKV823	0	5658,6756
+1931	TÓTH Gabriel r. Tóth		0	4832
+1931	TÓTH Imrich	mal	0	5792,5793,5794
+1931	TÓTH Imrich	PKV3234	0	5792
+1931	TÓTH Ján	ž.Júlia r.Holenková	0	2963
+1931	TÓTH Jozef		0	6532
+1931	TÓTH Jozef	mal	0	3848,4404
+1931	TÓTH Jozef	mal. PKV1391	0	5431
+1931	TÓTH Július		0	3913,3914,4453,5500,6554
+1931	TÓTH Július	mal	0	5792
+1931	TÓTH Koloman	ž.Alžbeta r.Bordáčová	0	7103
+1931	TÓTH Ľudovít		0	5470,6532,6899,6917
+1931	TÓTH Ľudovít	mal	0	5431
+1931	TÓTH Ľudovít	mal. PKV3234	0	5792
+1931	TÓTH Ľudovít	PKV1431	0	6783
+1931	TÓTH Ľudovít	PKV345	0	3914,5500,6554
+1931	TÓTH Ľudovít	PKV869	0	6726
+1931	TÓTH Ľudovít	PKV89	0	6112
+1931	TÓTH Ľudovít	ž.Alžbeta r.Molnárová	0	2984,5800,6393
+1931	TÓTH Ľudovít	ž.Alžbeta r.Szücsová	0	5942
+1931	TÓTH Ľudovít	ž.Júlia r.Závadská	0	6169,6783
+1931	TÓTH Ľudovít	ž.Mária r.Gerhátová	0	4039,6636
+1931	TÓTH Viliam	mal	0	6801
+1931	TÓTH Vincent		0	5470,6532,6813,6899
+1931	TÓTH Vincent	mal	0	5431
+1931	TÓTH Vincent	mal. PKV3234	0	5792
+1931	TÓTH Vincent	PKV1353	0	4078,4079,4080,4084,4808,5110,5283,5284,5285,6669,6966
+1931	TÓTH Vincent	PKV3234	0	5792,5793,5794
+1931	TÓTH Vincent	PKV345	0	3913,3914,4453,5500,6554
+1931	TÓTH Vincent	PKV823	0	5658,6756
+1931	TÓTHOVÁ Agnesa	r.Gyürössiová	0	6445
+1931	TÓTHOVÁ Agnesa r. Nagyová		0	2999,7308
+1931	TÓTHOVÁ Alojzia	mal. PKV3234	0	5792,5793,5794
+1931	TÓTHOVÁ Alojzia	r.Mikleová m.Ján	0	6220
+1931	TÓTHOVÁ Alžbeta		0	5110,6669,6966
+1931	TÓTHOVÁ Alžbeta	mal	0	5792,5793,5794
+1931	TÓTHOVÁ Alžbeta	PKV3177	0	4813,6738
+1931	TÓTHOVÁ Alžbeta	r.Parmová	0	5658,6756
+1931	TÓTHOVÁ Alžbeta r. Bordáčová	m.Koloman	1	2584,2708,3287,3375,3378,3380,4548,4549,7103,7869
+1931	TÓTHOVÁ Alžbeta r. Molnárová		0	3445
+1931	TÓTHOVÁ Anna	r.Sláviková	0	2810
+1931	TÓTHOVÁ Gizela		0	4405
+1931	TÓTHOVÁ Gizela	mal	0	3848,4404,4405,5212,5213
+1931	TÓTHOVÁ Helena	r.Marázová m.Eugen	0	3283,3284,5319,6536,6846,6898
+1931	TÓTHOVÁ Hermína r. Závodyová		0	3257
+1931	TÓTHOVÁ Júlia		0	5110,6966
+1931	TÓTHOVÁ Júlia	r.Kesziová	0	2751
+1931	TÓTHOVÁ Juliana	r.Petróová m.Andrej	0	6242
+1931	TÓTHOVÁ Juliana r. Holenková	m.Ján	0	7556
+1931	TÓTHOVÁ Lujza		0	5773,6112
+1931	TÓTHOVÁ Lujza	r.Bencsiková m.Alexander	0	4319,4320,4624,4626,4873,4874,4876,4878,4953,4954,4955,4956,6694
+1931	TÓTHOVÁ Lujza	r.Szabóová m.Gabriel	0	6498
+1931	TÓTHOVÁ Mária		0	6532
+1931	TÓTHOVÁ Mária	mal. PKV3234	0	5792
+1931	TÓTHOVÁ Mária	r.Gerhátová m.Ľudovít	0	4039,6636
+1931	TÓTHOVÁ Mária	r.Kesziová m.Augustín	0	5452,5495
+1931	TÓTHOVÁ Mária	r.Nagyová	0	5460
+1931	TÓTHOVÁ Mária	r.Nagyová m.Vincent	0	6513,6727
+1931	TÓTHOVÁ Rozália	mal	0	5792
+1931	TÓTHOVÁ Rozália	r.Harisová m.Ľudovít	0	5356
+1931	TÓTHOVÁ Rozália r. Blahová	m.Jonáš	0	2806,5140,5144
+1931	TREŠŤANSKÁ Alžbeta	vydatá Labská	0	3346,6962
+1931	TREŠŤANSKÁ Juliana	vydatá Sisková	0	3346,6962
+1931	URBANSKÁ Margita	r.Rakovská m.Marek	0	5030
+1931	URBANSKÝ Marek	ž.Margita r.Rakovská	0	5030
+1931	VÁCLAVIK Štefan	ž.Anna r.Malá	0	6615,6617
+1931	VALKÓ Jozef		0	6637
+1931	VALKÓOVÁ Anna		0	6637
+1931	VÁROSI Pavol	ž.Helena r.Pinkeová	0	5945
+1931	VEJKEI Mária r. Lutor		0	5029
+1931	VEJKEIOVÁ Mária	r.Lutorová	0	5030
+1931	VEREŠ Jozef	ž.Mária r.Hangyová	0	6818
+1931	VEREŠOVÁ Mária	r.Hangyová m.Jozef	0	6818
+1931	VICENA Alexander	ž.Helena r.Vicenová	0	5593
+1931	VICENOVÁ Anna	r.Kuczková m.Florián	0	6264
+1931	VICZENOVÁ Alžbeta	r.Dobcsányiová m.Viliam	0	6712
+1931	VICZENOVÁ Mária	r.Erdélyiová m.Ján	0	6587
+1931	VIDA Štefan		0	3697
+1931	VIDA Štefan	ž.Alžbeta r.Takáčová	0	5904
+1931	VISZGYÁKOVÁ Alžbeta		0	6281
+1931	VISZGYÁKOVÁ Hermína		0	5734,6281
+1931	VITTKÓOVÁ Helena	r.Kovácsová m.Ľudovít	0	5511
+1931	VIZSGYÁKOVÁ Gizela	mal	0	5188
+1931	VIZSGYÁKOVÁ Juliana r. Lebóová	m.Ján	0	7582
+1931	VIZSGYÁKOVÁ Mária	mal	0	5186
+1931	VIZSGYÁKOVÁ Terézia	r.Hacsková m.Jozef	0	5187,5188
+1931	VIŽĎÁKOVÁ Júlia	r.Lebóová	0	5544,6686
+1931	VRÁBELOVÁ Agnesa	r.Hengeričová	0	2802,2805,4762,5191,5192,5193,5194,6202,6315,7619
+1931	VRABELOVÁ Juliana	r.Harisová m.František	0	3216
+1931	VRABELOVÁ Juliana r. Harisová	m.František	0	7582
+1931	ZACHAROVÁ Helena r. Bacigálová	zomr.6.9.1969	0	2584,2708,3287,3375,3378,3380,4548,7103,7869
+1931	ZÁVODIOVÁ Kristína	r.Lukáčová,zom.17.5.1956	0	4129,5694
+1931	ZÁVODSKÝ Jozef	ž.Alžbeta r.Marázová	0	5610
+1931	ZEMANOVÁ Verona	r.Skablová m.Ľudovít	0	6297
+1931	ŽÁČIK Jozef	mal	0	5975,5977
+1931	ŽÁČIKOVÁ Anna	mal	0	5975,5977
+1931	ŽÁČIKOVÁ Elena	mal	0	5975,5977
+1931	ŽÁČIKOVÁ Mária	mal	0	5975,5977
+1931	ŽÁČIKOVÁ Oľga	mal	0	5975,5977
+1931	ŽUBORI Pavol		0	6153,6154
+1932	ACHBERGER Ján, SK		0	222
+1932	ACHBERGER Jozef, SK		0	222,348
+1932	ACHBERGER Karol, SK		0	222
+1932	BACHRATÁ Pavlína, SK		0	222
+1932	BAROK Jozef, SK		0	222
+1932	BORDÁČ Július, SK		0	222
+1932	BORDÁČ Teodor, SK		0	222
+1932	ENDLER Jozef, SK		0	222
+1932	ENDLEROVÁ Marta, SK		0	222
+1932	HOLÁ Alžbeta, SK		0	222
+1932	HOLÁNOVÁ Františka, SK		0	222
+1932	HOLÝ Ladislav, SK		0	222
+1932	HOLÝ Michal, SK		0	222
+1932	HORŇÁČKOVÁ Mária, SK		0	222
+1932	HOZA Anton, SK		0	222
+1932	HOZOVÁ Anna, SK		0	222
+1932	HUPKOVÁ Terézia, SK		0	222
+1932	IVIČOVÁ Etela, SK		0	222
+1932	IŽÁK Jozef, SK		0	222
+1932	JÁNOŠ František, SK		0	222
+1932	JEŽOVÁ Anna, SK		0	222
+1932	KOCMUNDOVÁ Terézia, SK		0	222
+1932	KOUBA Ján, SK		0	222
+1932	KOVALČÍKOVÁ Jaroslava, SK		0	222
+1932	KOZMANOVÁ Františka, SK		0	222
+1932	KOZMON Ján, SK		0	222
+1932	KRIŽAN František, SK		0	222
+1932	KRIŽAN Jakub, SK		0	222
+1932	KRIŽAN Jozef, SK		0	222
+1932	KRIŽAN Pavol, SK		0	222
+1932	KRIŽANOVÁ Anna, SK		0	222
+1932	KRIŽANOVÁ Božena, SK		0	222
+1932	KRIŽANOVÁ Emília, SK		0	222
+1932	KRIŽANOVÁ Margita, SK		0	222
+1932	KRIŽANOVÁ Mária, SK		0	222
+1932	KUDRNÁČ František, SK		0	222
+1932	LISÁ Helena, SK		0	222
+1932	LOVÍŠEKOVÁ Anna, SK		0	222
+1932	MAROŠI Ľudovít, SK		0	222
+1932	MAROŠIOVÁ Etela, SK		0	222
+1932	MICHALECKÝ Štefan, SK		0	222
+1932	MINÁRIK Ján, SK		0	222
+1932	MINÁRIKOVÁ Mária, SK		0	222
+1932	MINAROVIČ Jozef, SK		0	222
+1932	MISLOVIČOVÁ Terézia, SK		0	222
+1932	MURÍNOVÁ Agneša, SK		0	222
+1932	MYSLOVIČ Ján, SK		0	222
+1932	NOSKOVIČ Ondrej, SK		0	222
+1932	ONDREJKOVIČ Augustín, SK		0	222,346
+1932	ONDREJKOVIČOVÁ Albína, SK		0	222
+1932	PÁZNEROVÁ Karolína, SK		0	222
+1932	PUCHEROVÁ Vilma, SK		0	222
+1932	SLEZÁKOVÁ Matilda, SK		0	222
+1932	SULIMANOVÁ Alžbeta, SK		0	222
+1932	SZENT György, SK		0	222
+1932	ŠUŠOVÁ Juliana, SK		0	222
+1932	TOMAŠKOVIČ Jozef, SK		0	222
+1932	TOMAŠKOVIČ Martin, SK		0	222
+1932	VESELSKÁ Angela, SK		0	222
+1932	VESELSKÝ Ištván, SK		0	222
+1932	VESELSKÝ Michal, SK		0	222
+1932	VOSMIKOVÁ Anna, SK		0	222
+1932	WÁGNER Michal, SK		0	222
+1932	WITTGRUBER Ján, SK		0	222
+1932	ZACHAR Jozef, SK		0	222
+1932	ZIMMER František, SK		0	222
+1933	Baláž František		0	1174
+1933	Baláž Matej, ž. Mária r. Molnárová ž. Mária r. Molnárová		0	1348
+1933	Baláž Michal		0	1367
+1933	Balážová Terézia r. Szabová		0	1175
+1933	Baráth Imrich		0	1351
+1933	Baráth Michal		0	1362
+1933	Baráth Michal, st. st.		0	1210
+1933	Baráth Štefan, ž. Rozália r. Vargová ž. Rozália r. Vargová		0	1167
+1933	Baráth Vincent		0	1270
+1933	Baumeister Ján, ž. Františka r. Levická ž. Františka r. Levická		0	1114
+1933	Bednár Ján		0	1318
+1933	Benček Jozef, 12.08.1903, ž. Helena r. Hitková, um.13. 1. 1958 12.08.1903, ž. Helena r. Hitková, um.13. 1. 1958		0	1134
+1933	Benčeková Helena r. Hitková, 22.04.1907, 075422/778, um. 3. 8. 1989 22.04.1907, 075422/778, um. 3. 8. 1989		0	1237
+1933	Biberčík Augustín, ž. Alžbeta ž. Alžbeta		0	1413
+1933	Biberčíková Alžbeta		0	1256
+1933	Bokroš Ignác, ž. Alžbeta Drahošová ž. Alžbeta Drahošová		0	1127
+1933	Bokrošová Alžbeta r. Drahošová		0	1327
+1933	Bórová Judita r. Karlíková		0	325,1405
+1933	Buday Ján, ž. Barbora r. Fazekašová ž. Barbora r. Fazekašová		0	1275
+1933	Budayová Barbora r. Fazekašová		0	1131
+1933	Cviklovičová Mária r. Končalová		0	1252
+1933	Čásár Ján r. SPF		1	1146
+1933	Černák Jozef, ž. Mária r. Vankayová ž. Mária r. Vankayová		0	1443
+1933	Černáková Hermína r. Šeböková, 09.03.1901, um. 11. 12. 1975 09.03.1901, um. 11. 12. 1975		0	1339
+1933	Černayová Mária r. Stanová, 30.01.1912, um. 10. 8. 1992 30.01.1912, um. 10. 8. 1992		0	1452
+1933	Danková Mária r. Paukejová		0	1283
+1933	Dobošová Mária r. Lipčeyová		0	1297
+1933	Dolnák Karol, ž. Mária r. Zemanovičová, nar.19.12.1895 ž. Mária r. Zemanovičová, nar.19.12.1895		0	1432
+1933	Dolnáková Mária r. Zemanovičová, nar.06.10.1892 nar.06.10.1892		0	1241
+1933	Drahoš Ján, ž. Františka r.Kyčková ž. Františka r.Kyčková		0	1157
+1933	Drahoš Jozef, 2.4.1911, ž. Mária r.Opálená, um. 18. 10. 1980 2.4.1911, ž. Mária r.Opálená, um. 18. 10. 1980		0	1141
+1933	Drahoš Ondrej, 15.03.1912, ž. Mária r. Bachanová, um. 3. 2. 1971 15.03.1912, ž. Mária r. Bachanová, um. 3. 2. 1971		0	1218
+1933	Drahošová Mária r. Bachanová, 23.07.1910 um. 29. 11. 1973 23.07.1910 um. 29. 11. 1973		0	1178
+1933	Drahošová Mária r. Opálená, 27.04.1912, um. 29. 11. 1973 27.04.1912, um. 29. 11. 1973		0	1229
+1933	Drahošová Rozália r. Ivaničová, 8.02.1909, Neverice, um. 9. 1. 2000 8.02.1909, Neverice, um. 9. 1. 2000		0	1452
+1933	Druk Pavol, ž. Mária r. Toldašová ž. Mária r. Toldašová		0	1417
+1933	Druková Mária r. Toldašová		0	1228

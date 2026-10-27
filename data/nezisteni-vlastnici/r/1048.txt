@@ -1,0 +1,256 @@
+615	ŠTOMFAJOVÁ Júlia	r.Vajdíková-pkn.,muž Karol	1	688,705,721,781,1408,1468
+615	Štomfajová Júlia r. Magátová, -pkn -pkn		0	1602,1605,1694
+615	Štomfajová Júlia r. Vajdíková, -pkn, muž Karol -pkn, muž Karol		0	1752,2202
+615	Štomfajová Štefánia r. Mečárová, Dunajov č.30 Dunajov č.30		0	1602,2252
+615	ŠTOMFAJOVÁ ŠTEFÁNIA R.MEČÁROVÁ,č.30		0	1410
+615	ŠTRBÁKOVÁ Eva	r.Kanitrová	1	1281
+615	Šusteková Zuzana r. Šidlíková	zomr. 24.07.1981; zomr. 24.07.1981	1	768,769,774,781,1162,1180,1181,1190,1454
+615	Šusteková Zuzana r. Šidlíková, zom.24.07.1981 zom.24.07.1981		0	1608,1609,1610,1686,2269,2296,2298
+615	ŠUTÁ Dorota	r.Švaňová-pkn.,dcéra Vincenta Švaňu	1	688,705,721,771,781,782,926,929,1408,1468,2407
+615	Šutá Dorota, -pkn, dcéra Vincenta Švaňu -pkn, dcéra Vincenta Švaňu		0	1605,1876,2252
+615	ŠVÁBIK Ondrej		1	1281
+615	ŠVÁBIK Štefan		1	1281
+615	ŠVÁBIKOVÁ Apolónia	r.Macejková	1	1281
+615	ŠVÁBIKOVÁ Mária	r.Kasajová	1	1281
+615	ŠVÁBIKOVÁ Matilda		1	1281
+615	ŠVÁBIKOVÁ Terézia		1	1281
+615	ŠVÁBIKOVÁ Veronika	r.Dirbáková-pkn	1	802,852
+615	Švábiková Veronika r. Dirbáková, -pkn -pkn		0	1888,2302
+615	ŠVÁBIKOVÁ Zuzana		1	1281
+615	ŠVAŇA Adam	-pkn	1	781
+615	Švaňa Adam, -pkn -pkn		0	2296,2298
+615	ŠVAŇA Filip	-pkn	1	756,757,781,872,882,911,1177,1180,2562
+615	Švaňa Filip, -pkn -pkn		0	1570,1608,1651,2092,2248,2296,2298
+615	Švaňa Ivan		0	1571
+615	ŠVAŇA Ján	-pkn.,syn Jána	1	920,1146
+615	ŠVAŇA Ján	ž.Katarína,nar.13.10.1893,zomr.8.12.1954	1	756,757,781,872,882,911,916,1177,1180,2562
+615	Švaňa Ján, -pkn, syn Jána -pkn, syn Jána		0	1659,1890
+615	Švaňa Ján, ž.Katarína, zom.08.12.1954 ž.Katarína, zom.08.12.1954		0	1608,1651,2068,2296,2298
+615	Švaňa Jozef, -pkn, ž.Anna r.Gajdošíková -pkn, ž.Anna r.Gajdošíková		0	2080
+615	ŠVAŇA Juraj	-pkn	1	875
+615	Švaňa Juraj, -pkn -pkn		0	1571
+615	Švaňa Juraj, ž.Magdaléna, zom.14.02.1986 ž.Magdaléna, zom.14.02.1986		0	1907
+615	ŠVAŇA Lukáč	-pkn	1	768,769,774,781,1162,1180,1190,1454
+615	Švaňa Lukáč, -pkn -pkn		0	1608,1609,1610,1686,2269,2296,2298
+615	ŠVAŇA Pavol	-pkn.ž.Mária r.Mečárová	1	771,926,929
+615	Švaňa Pavol, -pkn, ž.Mária r.Mečárová -pkn, ž.Mária r.Mečárová		0	1651,2118,2185
+615	ŠVAŇA Štefan	syn Vincenta	1	688,705,721,754,771,781,782,873,882,926,929,1408,1437,1468,2407
+615	Švaňa Štefan, syn Vincenta syn Vincenta		0	1651,1794,2248,2296,2298
+615	Švaňa Tomáš		1	768,769,774,781,1162,1180,1190,1454
+615	ŠVAŇA Tomáš	3.-pkn	1	1175
+615	ŠVAŇA Tomáš	ž.Jozefína,nar.9.6.1920,zomr.27.2.1968	1	688,705,721,781,1408,1468
+615	Švaňa Tomáš, prím.Hurtoš, ž. Viktória prím.Hurtoš, ž. Viktória		0	1608,1609,1610,1686,2269,2296,2298
+615	Švaňa Tomáš, ž.Jozefína, zom.27.02.1968 ž.Jozefína, zom.27.02.1968		0	1651,2173,2239
+615	ŠVAŇA Vincent	ž.Žofia,nar.23.1.1890,zomr.29.9.1972	1	768,769,774,781,1162,1180,1190,1454
+615	Švaňa Vincent, ž.Žofia, zom.29.09.1972 ž.Žofia, zom.29.09.1972		0	1608,1609,1610,1686,2269,2296,2298
+615	ŠVAŇA Vojtech	ž.Eva,nar.29.4.1892,zomr.20.11.1978	1	768,769,774,781,1052,1162,1180,1190,1454
+615	Švaňa Vojtech, ž.Eva, zom.20.11.1978 ž.Eva, zom.20.11.1978		0	1571,1608,1609,1610,1651,1686,2269,2296,2298
+615	Švaňová Agneša r. Kanitrová		0	1609,1651,2177
+615	ŠVAŇOVÁ Anna	2.-pkn	1	768,769,774,781,1162,1180,1190,1454
+615	ŠVAŇOVÁ Anna	r.Kanitrová-pkn	1	899,913
+615	Švaňová Anna r. Gajdošíková, -pkn, muž Jozef -pkn, muž Jozef		0	2117
+615	Švaňová Anna r. Kanitrová, -pkn -pkn		0	1571
+615	Švaňová Anna, -pkn, 2 -pkn, 2		0	1608,2269
+615	Švaňová Dorota, -pkn -pkn		0	1959,2248,2296,2298
+615	Švaňová Eva r. Krupová	zomr.16.12.1981; zomr.16.12.1981	1	1052
+615	Švaňová Eva r. Krupová, zom.16.12.1981 zom.16.12.1981		0	1651
+615	ŠVAŇOVÁ Karolína	r.Kozárová-pkn	1	1165
+615	Švaňová Karolína r. Červená	zomr. 11.6.1991; zomr. 11.6.1991	1	768,769,774,781,1035,1162,1163,1180,1181,1190,1454,2538
+615	Švaňová Karolína r. Červená, zom.11.06.1991 zom.11.06.1991		0	1608,1609,1610,1686,2175,2269,2296,2298
+615	Švaňová Karolína r. Kozárová, -pkn -pkn		0	1651
+615	Švaňová Katarína r. Štefancová Potočárová, -pkn -pkn		0	1989,2269
+615	Švaňová Klára r. Minárová Štetková, zom.08.02.1981 zom.08.02.1981		0	1566,1571
+615	Švaňová Lýdia, -pkn -pkn		0	1571
+615	ŠVAŇOVÁ Mária	-pkn.dcéra Vincenta,vyd.v Kanade,nezv	1	688,705,721,754,771,781,782,873,882,926,929,1408,1437,1468,2407
+615	ŠVAŇOVÁ Mária	r.Sobeková-pkn.,muž Jozef,v USA	1	759,763,781,872,909,916
+615	Švaňová Mária r. Sobeková, -pkn, muž Jozef, v USA -pkn, muž Jozef, v USA		0	1601,1651,1740,2156,2248,2296,2298
+615	Švaňová Mária, -pkn, dcéra Vincenta, vyd. Kanade. nezv. -pkn, dcéra Vincenta, vyd. Kanade. nezv.		0	1628,1913,2296,2298
+615	Švaňová Rozália r. Chupáčová	zomr. 1.1.1996; zomr. 1.1.1996	1	768,769,774,781,1162,1163,1180,1181,1190,1454
+615	Švaňová Rozália r. Chupáčová, zom.01.01.1996 zom.01.01.1996		0	1608,1609,1610,1686,2269,2296,2298
+615	ŠVAŇOVÁ Sidonia		1	754,771,782,873,882,926,929,1437,1651,1828,2296,2298,2407
+615	ŠVAŇOVÁ Uršuľa	nar.21.10.1891,zomr.15.12.1958	1	921,923
+615	Švaňová Uršuľa, zom.15.12.1958 zom.15.12.1958		0	1659,1902
+615	ŠVAŇOVÁ Žofia	r.Mekiňová,z.31.7.1961	1	846,852
+615	Švaňová Žofia r. Mekiňová, zom.31.07.1961 zom.31.07.1961		0	1824,2239
+615	ŠVAŇOVÁ-KURTOŠOVÁ Dorota	-pkn	1	757,781,872,916,1180
+615	ŠVAŇOVÁ-KURTOŠOVÁ Katarína	r.Štefancová-Potočárová-pkn	1	1063,1064,1068,1156,1172,1180,1186,2544,2556
+615	Vajdík Alojz		0	1608,1609,1610,1686,2269,2296,2298
+615	VAJDÍK Alojz	nar.30.5.1901	1	768,769,774,781,1162,1180,1190,1454
+615	Vajdík Juraj	ž. Anna , zomr.5.2.1980; ž. Anna	1	688,705,721,781,1408,1468
+615	Vajdík Juraj, Dunajov č.173 Dunajov č.173		0	2281
+615	Vajdík Juraj, ž.Anna, zom.05.02.1980 ž.Anna, zom.05.02.1980		0	1627,1869
+615	VAJDÍK Leopold	1.ž.Štefánia r.Sýkorová-Gu,zomr.3.9.1978	1	768,769,774,781,986,1162,1180,1190,1454
+615	VAJDÍK Leopold	2.ž.Veronika,nar.6.10.1903,zomr.3.9.1978	1	986
+615	Vajdík Leopold, 1, ž. Stefánia r. Sýkorová, zom.03.09.1978 1, ž. Stefánia r. Sýkorová, zom.03.09.1978		0	1608,1609,1610,1686,2269,2281,2296,2298
+615	Vajdík Leopold, 2, ž. Veronika, zom.03.09.1978 2, ž. Veronika, zom.03.09.1978		0	1564
+615	Vajdík Pavel, Krásno Nad Kysucou č.697 Krásno Nad Kysucou č.697		0	2281
+615	VAJDÍK Pavol		1	688,705,721,754,781,873,882,1408,1437,1468,1627,1814,2296,2298
+615	VAJDÍK Roman		1	768,769,774,781,1162,1180,1190,1454,1608,1609,1610,1686,2269,2296,2298
+615	VAJDÍK Štefan	-pkn	1	1002,1041,1059
+615	Vajdík Štefan, -pkn -pkn		0	2151
+615	VAJDÍK Vincent	-pkn	1	705,721,781,1408,1468
+615	Vajdík Vincent, -pkn -pkn		0	1627,1979
+615	VAJDÍKOVÁ Agnesa	r.Mekyňová,nar.17.1.1867,zomr.9.12.1962	1	855,947,974,1017,1191,1251,1462,1463,1529,2491,2568,2572
+615	Vajdíková Agneša r. Mekyňová	zom.09.12.1962	0	1664,1666,1668,1670,1672,1674,1676,1679,1800
+615	VAJDÍKOVÁ Judita	r.Mekiňová,nar.23.10.1899,zomr.18.5.1965	1	986
+615	Vajdíková Judita r. Mekiňová, zom.18.05.1965 zom.18.05.1965		0	2281
+615	VAJDÍKOVÁ Štefánia	nar.4.9.1924,zomr.28.6.1968	1	855,865,880,882,948,950,977,1034,1059
+615	VAJDÍKOVÁ Štefánia	r.Gundášová	1	1282
+615	Vajdíková Štefánia, zom.28.06.1968 zom.28.06.1968		0	1653,1786
+616	Anda František r. Anda, SR		1	5695
+616	Anda Ľudovít r. Anda, SR		1	5695
+616	Anda Pavol r. Anda, SR		1	3272,5360
+616	Anda Tibor r. Anda, SR		1	5695
+616	Andová Justína r.Soósová		0	3272,5360
+616	Antal Koloman r. Antal, SR		1	5341,5532
+616	BARTAUER Ráchel		1	5573
+616	Bazsó František r. Bazsó, SR		1	5647
+616	Bazsó Ignác r. Bazsó, SR		1	5357
+616	Bazsó Michal r. Bazsó, SR		1	4197
+616	Bazsó Štefan r. Bazsó, SR		1	5357
+616	Bélyiová Helena, SR		1	3270
+616	Bettelheimová Antónia r. Fleischmannová, SR		0	4788
+616	Bódis Jozef, SR		1	5677
+616	Bódisová Estera r. Lászlóová, SR		1	5677
+616	Bogárová Alžbeta r. Gyurtsyová		1	7190
+616	Bognár Vincent, SR		1	3285
+616	Bognárová Júlia r. Androvicsová, SR		1	3285
+616	Bonyhádiová Janka r. Fleischmannová, SR		0	4788
+616	Bugárová Jolana, SR		1	5446
+616	Bucherová Júlia r. Tászliová, SR		1	5444
+616	Cachoová Eva, SR		1	5650
+616	Cachoová Gizela, SR		1	5651
+616	Császár Ladislav		0	7325
+616	Császárová Gizela		0	7325
+616	Csibaová Juliána r. Bartalosová		0	5538
+616	Csibaová Julianna r. Bartalosová, SR		1	4933,4934,4936,5536,5537,6001,6909,7479
+616	Csóka Eliáš, SR		1	5597
+616	Csókaová Helena r. Horváthová, SR		1	5597
+616	Darida Štefan r. Darida		0	5538
+616	Daridová Alžbeta r. Majerová		0	5538
+616	Daridová Alžbeta r. Majerová, SR		1	5446
+616	Dobrá Helena, SR		1	4949,5363,5364,5450,5451,6454,6455
+616	Dobriová Estera r. Lászlóová, SR		1	5570
+616	Dobrý František, SR		1	4949,5363,5364,5450,5451,6454,6455
+616	Dobrý Koloman, SR		1	5450,5451
+616	Dudásová Margita r. Majorovitsová, SR		1	5460
+616	Dukes a Heczog, SR		1	5493
+616	Edmár Štefan, SR		1	5358
+616	Edmárová Mária r. Nagyová, SR		1	5358
+616	Egri Karol, SR		1	5555
+616	Egri Žigmund, SR		1	5555
+616	Egriová Karolina, SR		1	5555
+616	Erősová Vilma r. Tászliová, SR		1	5444
+616	Fekete Štefan, SR		1	6801
+616	Fleischmann Izidor r. Fleischmann, SR		0	4788
+616	Friedová Jozefína r. Löwingerová, SR		1	5633,8315,8330
+616	Gaál Ladislav, SR		1	4953
+616	Gaálová Gizela r. Váradiová, SR		1	5515
+616	Gajdošíková Irena r. Tászliová, SR		1	5443,5444
+616	Gyurtsyová Markéta r. Vencelová		1	7190
+616	Hermanová Matilda r. Marczellová, SR		1	5495,5500,5501,5502,5503
+616	Hirschler Martin, SR		1	5488
+616	Hirschlerová Frida r. Braunová, SR		1	5488
+616	Hodossyová Ella r. Pákozdyová, SR		1	5454,5474
+616	Horváth Ľudovít, SR		1	5552
+616	Horváthová Margita, SR		1	5597
+616	Horváthová Mária r. Olléová		0	5686,5687
+616	Huszár Michal, SR		1	5489
+616	Huszárová Júlia r. Némethová, SR		1	5489
+616	Kázmér Ľudovít, SR		1	5474
+616	Kázmérová Julianna r. Sidóová, SR		1	5474
+616	Kocsis Ján, SR		1	3274
+616	Kocsisová Alžbeta, SR		1	3274
+616	Kohnová Júlia r. Löwingerová, SR		1	5633,8315,8330
+616	Kovácsová Veronika r. Némethová, SR		1	5607
+616	Krajcsovichová Jolana r. Honáczyová, SR		1	5701
+616	Kürthy Ľudovít, SR		1	4937,5957
+616	Leichner Adolf, SR		1	5655
+616	Leichner Jozef, SR		1	5655
+616	Leichner Šamuel, SR		1	5655
+616	Leichnerová Margita, SR		1	5655
+616	Lelkes Zoltán, SR		1	4956,7084
+616	Löwinger Dávid, SR		1	5633,8315,8330
+616	Löwinger Markus, SR		1	5633,8315,8330
+616	Löwingerová Anna, SR		1	5633,8315,8330
+616	Lőwingerová Emma r. Fleischmannová, SR		0	4788
+616	Löwingerová Jozefína, SR		1	5633,8315,8330
+616	Löwingerová Rozália Regina, SR		1	5633,8315,8330
+616	Löwyová Cecília r. Löwingerová, SR		1	5633,8315,8330
+616	Majorovits Ignác, SR		1	5460
+616	Majorovits Ľudovít, SR		1	5460
+616	Makayová Mária r. Tihanyiová, SR		1	5652
+616	Marczell František, Dr, SR		1	5495,5500,5501,5502,5503
+616	Marczellová Izabela, SR		1	5495,5501,5502,5503
+616	Marczellová Zlatica, SR		1	5495,5500,5501,5503
+616	Mátis Eugen SR		1	6736
+616	Mátis Eugen, SR		1	5652,5665
+616	Mátis Imrich, SR		1	5655
+616	Mátis Július r. Mátis		0	5538
+616	Mátis Július, SR		1	4933,4934,4936,5536,5537,5782,6001,6909,7479
+616	Mátis Ľudovít, SR		1	5550,6124
+616	Mátis Vincent, SR		1	5550,6124
+616	Mátisová Alžbeta, SR		1	6124
+616	Mátisová Helena r. Sidóová, SR		1	4951
+616	Mátisová Júlia, SR		1	5550,6124
+616	Mátisová Rozália		0	5538
+616	Mátisová Rozália, SR		1	4933,4934,4936,5536,5537,5782,6001,6909,7479
+616	Mayer Ján, SR		1	5354
+616	Mayerová Helena r. Nagyová, SR		1	5354
+616	Mendelovits Alter, SR		1	5460
+616	Miklós Vincent, SR		1	5518
+616	Miklósová Gizela r. Tászliová, SR		1	5444
+616	Miklósová Izolda r. Köbölová, SR		1	5518
+616	Mokayová Helena, SR		1	5167
+616	Nagy Alexander, SR		1	5658
+616	Nagy Arpád, SR		1	5443
+616	Nagy Gejza, SR		1	5443
+616	Nagy Ján, SR		1	5443
+616	Nagy Koloman, SR		1	5443
+616	Nagy Rudolf, SR		1	5550,6124
+616	Nagy Štefan, SR		1	5443
+616	Nagyová Helena r. Weiszová, SR		1	5658
+616	Nagyová Jolana, SR		1	4949,5364,5443,5450,5451,6455
+616	Nagyová Júlia r. Majorovitsová, SR		1	5460
+616	Nagyová Mária r. Csomorová, SR		1	5343
+616	Nagyová Mária, SR		1	5443
+616	Nagyová Terézia r. Bürsölyová, SR		1	5443
+616	Németh Alexander, SR		1	5534
+616	Németh Aron, SR		1	5700
+616	Németh Imrich, SR		1	5534
+616	Némethová Žofia r. Goldbergerová, SR		1	5700
+616	Ollé Jozef r. Ollé		0	5686,5687
+616	Ollé Ladislav r. Ollé		0	5686,5687
+616	Ollé Ladislav, SR		1	5687
+616	Ollé Ľudovít r. Ollé		0	5686,5687
+616	ONV Dunajská Streda, SR		1	5696
+616	Orbán Árpád r. Orbán, 930 12, Ohrady, č. 257, SR		1	5515
+616	Orosz Ladislav, SR		1	5498,5509
+616	Orosz Ondrej, SR		1	5498,5509
+616	Orosz Štefan, SR		1	5498,5509
+616	Oroszová Eleonóra r. Pócsová, SR		1	5501,5503
+616	Oroszová Mária, SR		1	5498,5509
+616	Pirovits František, SR		1	5460
+616	Pirovits Karol, SR		1	5460
+616	Pirovits Ladislav, SR		1	5460
+616	Pirovits Ondrej, SR		1	5460
+616	Pirovits Pavol, SR		1	5460
+616	Pirovitsová Margita, SR		1	5460
+616	Pódaová Anna r. Oroszová, SR		1	5509
+616	Pódaová Gizela r. Oroszová, SR		1	5498
+616	Pódaová Janka r. Antalová, SR		1	5532
+616	Pónyaová Rozália r. Feketeová, SR		1	3502
+616	Puha Albert, SR		1	5627
+616	Puha Gašpar, SR		1	5627
+616	Puha Koloman, SR		1	5453
+616	Puha Vojtech, SR		1	5627
+616	Puhaová Irena r. Pospisilová, SR		1	5453
+616	Ráczová Alžbeta r. Olléová		0	5686,5687
+616	Richter Ladislav, Dr, SR		1	5629
+616	Roman Ján, SR		1	5167
+616	Roman Vojtech, SR		1	5167
+616	Samuel Moritz Firma, SR		1	5633,8315,8330
+616	Schelieszigová Irena r. Tihanyiová, SR		1	5652
+616	Sidó Jozef, SR		1	4949,5363
+616	Sidóová Estera, SR		1	4951
+616	Sidóová Rozália, SR		1	4322

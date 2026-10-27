@@ -1,0 +1,256 @@
+1431	Dirgová Helena r. Polaščinová		0	275,1279,1552,1662,1663,1664,1665,1666,1667,1668,1669,1671,1672,1851,1853
+1431	Dirgová Mária		0	941
+1431	Dirgová Mária r. Čubová		0	821,930,931,1038,1041,1145,1171,1182,1230,1241,1279,1423,1482,1540,1568,1662,1663,1664,1665,1666,1667,1668,1669,1671,1672,1678,1679,1680
+1431	Dirgová Mária r. Čubová	1	0	1650
+1431	Dirgová Mária r. Čubová	Cap	0	797,821,941,1128,1144,1243,1279,1540,1612,1613,1662,1663,1664,1665,1666,1667,1668,1669,1671,1672,1678,1681
+1431	Dirgová Mária r. Krajňáková		0	1279,1441,1662,1663,1664,1665,1666,1667,1668,1669,1671,1672,1889
+1431	Dirgová Mária r. Krajňáková	1	0	1609
+1431	Dirgová Mária r. Šoltésová		0	1206,1235,1373,1374,1439,1612,1613,1687,1783,1791,1792,1899
+1431	Dirgová Mária r. Šoltésová	1	0	1105
+1431	Dirgová Mária r. Šoltésová	2	0	1066
+1431	Dirgová Mária r. Šoltésová	Michalová	0	1168
+1431	Dirgová Mária r. Šomská		0	1279,1520,1521,1644,1648,1662,1663,1664,1665,1666,1667,1668,1669,1671,1672,1675,1867,1935,1936
+1431	Dirgová Mária r. Šomská	1	0	1075
+1431	Dirgová Mária r. Šomská	2	0	1053
+1431	Dirgová Mária r. Šomská	3	0	1102
+1431	Dirgová Zuzana		0	821,930,931,1038,1041,1145,1171,1182,1230,1241,1279,1423,1482,1540,1568,1662,1663,1664,1665,1666,1667,1668,1669,1671,1672,1678,1679,1680
+1431	Dirgová Zuzana	2	0	1648
+1431	Dirgová Zuzana r. Kyšeľová		0	949,1028,1040,1279,1396,1662,1663,1664,1665,1666,1667,1668,1669,1671,1672,1813
+1431	Dirgová Zuzana r. Mikitová	4	0	1120,1279,1411,1525,1662,1663,1664,1665,1666,1667,1668,1669,1671,1672,1722,1875
+1431	Dismanová Júlia r. Čubová		0	1641
+1431	Dlugoš Ignác		0	1236
+1431	Dopirák Peter	1	0	1254,1655,1656
+1431	Dráb Ján		0	1224
+1431	Dráb Jozef		0	1224
+1431	Drabiščák Jozef		0	1519
+1431	Drabiščák Jozef	1	0	932,936,1620
+1431	Drabiščák Jozef	3	0	1075
+1431	Drabiščák Jozef	4	0	1053
+1431	Drabiščáková Mária		0	1519
+1431	Drabiščáková Mária	1	0	932,936,1620
+1431	Drabiščáková Mária	2	0	1118,1161,1215,1279,1311,1312,1485,1579,1662,1663,1664,1665,1666,1667,1668,1669,1671,1672,1868,1869
+1431	Drimalová Mária		0	1279,1537,1538,1550,1551,1658,1659,1662,1663,1664,1665,1666,1667,1668,1669,1671,1672
+1431	Drobňák Andrej	Hrobár	0	1224
+1431	Drobňák Michal	1	0	1224
+1431	Drobňáková Júlia r. Čubová		0	1224
+1431	Dula Michal		0	1224
+1431	Duraník Juraj		0	1254,1655,1656
+1431	Dušňák Ján		0	1648
+1431	Dušňák Michal		0	1628
+1431	Dušňáková Anna r. Feltovičová		0	1644
+1431	Dušňáková Katarína		0	1648
+1431	Dušňáková Mária		0	1480
+1431	Dušňáková Mária	1	0	1022,1027
+1431	Dušňáková Mária	2	0	1515,1835
+1431	Dušňáková Mária r. Sladká		0	1021,1229
+1431	Dušňáková Zuzana		0	812,1394,1888
+1431	Dvorščák Juraj	Ondaško	0	1254,1655,1656
+1431	Dvorščák Michal		0	1254,1655,1656
+1431	Dvorščáková Zuzana r. Križalkovičová		0	1254,1655,1656
+1431	Dzurenková Anna r. Kopčíková		0	1013,1595,1644
+1431	Džačovská Helena		0	1641
+1431	Džačovská Margita		0	1641
+1431	Džačovská Mária		0	1641
+1431	Džačovská Mária r. Pribulová		0	906
+1431	Džačovská Terézia		0	1641
+1431	Džačovský Ján		0	1641
+1431	Eliášová Zuzana		0	1609
+1431	Falatek Jozef		0	1254,1655,1656
+1431	Falatek Michal		0	1254,1655,1656
+1431	Falateková Anna		0	1254,1655,1656
+1431	Falateková Anna r. Hudáková		0	1254,1655,1656
+1431	Falateková Mária r. Cvancigerová		0	1254,1655,1656
+1431	Falateková Zuzana r. Šenitková		0	1254,1655,1656
+1431	Fanclík Ján		0	1066,1105,1206,1279,1373,1374,1662,1663,1664,1665,1666,1667,1668,1669,1671,1672,1687,1791,1792
+1431	Fanclík Ján	1	0	1650
+1431	Fanclíková Anna		0	1066,1067,1105,1279,1370,1371,1559,1608,1609,1610,1611,1644,1650,1662,1663,1664,1665,1666,1667,1668,1669,1671,1672,1782,1891,1898
+1431	Fanclíková Anna	1	0	1612,1613
+1431	Fanclíková Anna	2	0	1206,1279,1373,1374,1662,1663,1664,1665,1666,1667,1668,1669,1671,1672,1687,1791,1792
+1431	Fanclíková Mária		0	1608,1609,1610,1611,1612,1613,1891
+1431	Fanclíková Mária	1	0	1067,1105
+1431	Fanclíková Mária	2	0	1206,1279,1370,1371,1373,1374,1559,1650,1662,1663,1664,1665,1666,1667,1668,1669,1671,1672,1687,1782,1791,1792,1898
+1431	Fanclíková Mária	3	0	1279,1644,1662,1663,1664,1665,1666,1667,1668,1669,1671,1672
+1431	Fanclíková Mária	4	0	1066
+1431	Fanclíková Mária r. Petročková		0	1021,1648
+1431	Fanclíková Zuzana r. Semančíková		0	1279,1662,1663,1664,1665,1666,1667,1668,1669,1671,1672
+1431	Farkaš Andrej		0	1556
+1431	Farkaš Ján	1	0	1208
+1431	Farkaš Juraj	1	0	1208
+1431	Farkaš Michal		0	1556
+1431	Farkaš Michal	2	0	1530
+1431	Farkaš Mikuláš	1	0	1612,1613
+1431	Farkaš Mikuláš	10	0	1609
+1431	Farkaš Mikuláš	2	0	1650
+1431	Farkaš Mikuláš	3	0	1530
+1431	Farkaš Mikuláš	4	0	1648
+1431	Farkaš Mikuláš	5	0	1648,1650
+1431	Farkašová Alžbeta		0	933
+1431	Farkašová Júlia		0	1208
+1431	Farkašová Katarína r. Petríková		0	1170,1208,1648
+1431	Farkašová Zuzana		0	1531,1532,1533
+1431	Farkašová Zuzana	1	0	1556
+1431	Farkašová Zuzana	2	0	1556
+1431	Farkašová Zuzana	4	0	1143
+1431	Fecková Mária r. Lazorová		0	970,1254,1655,1656
+1431	Fedor Ján		0	1224
+1431	Fedorčo Ján		0	1237
+1431	Feltovič Jozef		0	1024,1254,1655,1656
+1431	Feltovič Juraj		0	1254,1655,1656
+1431	Feltovič Michal		0	919,1060,1077
+1431	Feltovičová Anna		0	1612,1613
+1431	Feltovičová Anna r. Demčáková		0	1254,1655,1656
+1431	Feltovičová Irena		0	1060
+1431	Feltovičová Margita		0	1060
+1431	Feltovičová Mária r. Filičková		0	1254,1655,1656
+1431	Feltovičová Paulína		0	1060
+1431	Fialkovič Michal		0	968,1254,1655,1656
+1431	Fialkovič Štefan		0	1254,1655,1656
+1431	Fialkovičová Katarína		0	1254,1655,1656
+1431	Fialkovičová Mária r. Guľašová		0	1254,1655,1656
+1431	Fialkovičová Mária r. Labašová		0	1254,1655,1656
+1431	Fialkovičová Zuzana r. Semančíková		0	1010,1254,1655,1656
+1431	Figeľ Ján		0	1254,1655,1656
+1431	Figeľová Anna		0	1254,1655,1656
+1431	Figeľová Mária		0	1254,1655,1656
+1431	Figeľová Mária r. Gulašová		0	1254,1655,1656
+1431	Figeľová Mária r. Havrilová		0	1254,1655,1656
+1431	Figeľová Mária r. Lazorová		0	969,1254,1655,1656
+1431	Figeľová Zuzana		0	1254,1655,1656
+1431	Figura Andrej	po Alžbete r. Urdovej	0	1029
+1431	Figura Ján		0	1029
+1431	Figura Ján	po Alžbete r. Urdovej	0	1029
+1431	Figurová Alžbeta		0	1029
+1431	Figurová Mária		0	1029
+1431	Figurová Terézia r. Kurimská		0	911
+1431	Figurová Verona r. Prevuzňáková		0	1224
+1431	Figurová Veronika r. Prevuzňáková		0	1224
+1431	Figurová Zuzana		0	1029
+1431	Filičko Andrej		0	1254,1655,1656
+1431	Filičko Andrej	Evin	0	1254,1655,1656
+1431	Filičko Ján		0	973,1254,1655,1656
+1431	Filičko Ján	Vaňa	0	1254,1655,1656
+1431	Filičko Jozef		0	1254,1655,1656
+1431	Filičko Juraj		0	1254,1655,1656
+1431	Filičko Juraj	1	0	1254,1655,1656
+1431	Filičko Juraj	Barna	0	1254,1655,1656
+1431	Filičko Michal		0	957,973,1254,1655,1656
+1431	Filičko Michal	1	0	1065
+1431	Filičko Peter	Boháč	0	1254,1655,1656
+1431	Filičko Vasil		0	1254,1655,1656
+1431	Filičková Anna r. Krafčíková		0	1254,1655,1656
+1431	Filičková Anna r. Lazorová		0	1254,1655,1656
+1431	Filičková Anna r. Macurová		0	1254,1655,1656
+1431	Filičková Helena		0	1254,1655,1656
+1431	Filičková Helena r. Gáborová		0	1010,1254,1655,1656
+1431	Filičková Mária r. Kolmošová		0	1254,1655,1656
+1431	Filičková Mária r. Kolmošová	1	0	1254,1655,1656
+1431	Filičková Mária r. Kolmošová	3	0	1571,1572
+1431	Filičková Mária r. Mudríková		0	1254,1655,1656
+1431	Filičková Zuzana		0	1254,1655,1656
+1431	Forgáč Ján		0	1178
+1431	Forgáč Ján	1	0	888,1183,1188
+1431	Forgáč Samuel, Dr.		0	1562
+1431	Frandofer Ján		0	1254,1655,1656
+1431	Gábor Andrej		0	1010,1254,1655,1656
+1431	Gábor Ján		0	973,1010,1254,1655,1656
+1431	Gábor Juraj		0	1254,1655,1656
+1431	Gábor Juraj	Kolmoš	0	1010,1254,1655,1656
+1431	Gábor Michal		0	973,1010,1254,1655,1656
+1431	Gáborová Anna r. Havrilová		0	1254,1655,1656
+1431	Gáborová Barbora r. Filičková		0	1010,1254,1655,1656
+1431	Gáborová Mária		0	1010,1254,1279,1655,1656,1662,1663,1664,1665,1666,1667,1668,1669,1671,1672
+1431	Gáborová Zuzana		0	1254,1655,1656
+1431	Gáborová Zuzana r. Šoltysová		0	1254,1655,1656
+1431	Gadala Michal		0	1015,1254,1655,1656
+1431	Geiger Jozef		0	1224
+1431	Geiger Nathan		0	1224
+1431	Geiger Samuel		0	1224
+1431	Geiger Yetti		0	1224
+1431	Geigerová Malvína		0	1224
+1431	Geigerová Regína		0	1224
+1431	Gemeriová Helena r. Pribulová		0	906
+1431	Gernát Andrej		0	1134,1608,1609,1610,1611,1648,1650,1891
+1431	Gernát Andrej	1	0	1648,1650
+1431	Gernát Juraj		0	1608,1609,1610,1611,1612,1613,1648,1650,1891
+1431	Gernát Juraj	1	0	1279,1662,1663,1664,1665,1666,1667,1668,1669,1671,1672
+1431	Gernát Juraj	2	0	1648
+1431	Gernát Juraj	3	0	1650
+1431	Gernát Michal		0	1612,1613
+1431	Gernát Ondrej		0	1630
+1431	Gernát Vasil		0	1134,1279,1392,1650,1662,1663,1664,1665,1666,1667,1668,1669,1671,1672,1712
+1431	Gernát Vasil	1	0	1608,1609,1610,1611,1648,1891
+1431	Gernát Vasil	2	0	1120,1279,1410,1411,1525,1662,1663,1664,1665,1666,1667,1668,1669,1671,1672,1722,1875,1907,1908
+1431	Gernát Vasil	3	0	1120,1279,1410,1411,1525,1644,1648,1650,1662,1663,1664,1665,1666,1667,1668,1669,1671,1672,1722,1875,1907,1908
+1431	Gernát Vasil	4	0	1120,1279,1410,1411,1525,1662,1663,1664,1665,1666,1667,1668,1669,1671,1672,1722,1875,1907,1908
+1431	Gernátová Anna r. Chovancová		0	1157,1279,1538,1551,1659,1662,1663,1664,1665,1666,1667,1668,1669,1671,1672
+1431	Gernátová Anna r. Semančíková		0	1279,1662,1663,1664,1665,1666,1667,1668,1669,1671,1672
+1431	Gernátová Helena r. Filičková		0	1630
+1431	Gernátová Mária r. Kerbčárová		0	1058,1059,1120,1254,1279,1410,1411,1525,1655,1656,1662,1663,1664,1665,1666,1667,1668,1669,1671,1672,1722,1875,1907,1908
+1431	Gernátová Zuzana		0	1035,1120,1279,1410,1525,1662,1663,1664,1665,1666,1667,1668,1669,1671,1672,1722,1875,1907,1908
+1431	Gernátová Zuzana	1	0	1411,1650
+1431	Gernátová Zuzana	2	0	1648
+1431	Gibarti Andrej		0	1254,1655,1656
+1431	Gibarti Ján	Miškuv	0	1254,1655,1656
+1431	Gibarti Juraj		0	1254,1655,1656
+1431	Gibarti Michal		0	1254,1655,1656
+1431	Gibartiová Anna r. Plavčanová		0	1196,1624
+1431	Gibartiová Anna r. Pňaková		0	1254,1655,1656
+1431	Gibartiová Júlia r. Kopčíková		0	1254,1655,1656
+1431	Gibartiová Mária	Maruša	0	1254,1655,1656
+1431	Gibartiová Mária r. Macurová		0	1254,1655,1656
+1431	Gira Andrej		0	1237
+1431	Gira Ján		0	1237
+1431	Girgo Ján		0	991
+1431	Girová Anna		0	1237
+1431	Girová Helena		0	1237
+1431	Gladiš Andrej		0	1224,1254,1655,1656
+1431	Gladiš František		0	1224
+1431	Gladiš František	1	0	1224
+1431	Gladiš Ján		0	1224,1641
+1431	Gladiš Ján	1	0	1641
+1431	Gladiš Ján	2	0	1641
+1431	Gladiš Ján	3	0	1224
+1431	Gladiš Ján	4	0	1224
+1431	Gladiš Ján	5	0	1224
+1431	Gladiš Jozef		0	1224
+1431	Gladiš Juraj		0	1224
+1431	Gladiš Juraj	2	0	1224
+1431	Gladiš Juraj	6	0	1224
+1431	Gladiš Michal	1	0	1224
+1431	Gladiš Pavol		0	1236
+1431	Gladiš Richard		0	1224
+1431	Gladiš Štefan		0	1224
+1431	Gladiš Tomáš		0	1224
+1431	Gladišová Anna		0	1224
+1431	Gladišová Anna r. Pavlinská		0	911,1224,1641
+1431	Gladišová Mária r. Dulová		0	1224
+1431	Gladišová Mária r. Chovancová		0	1672
+1431	Gladišová Mária r. Savčáková		0	1254,1655,1656
+1431	Godala Michal		0	1068
+1431	Goldfinger Alfonz		0	1279,1662,1663,1664,1665,1666,1667,1668,1669,1671,1672
+1431	Goldfingerová Rozália r. Rosenblatová		0	1279,1662,1663,1664,1665,1666,1667,1668,1669,1671,1672
+1431	Gomoriová Anna r. Drobňáková		0	1641
+1431	Guľáš Ján		0	1254,1655,1656
+1431	Guľáš Peter		0	1254,1655,1656
+1431	Gulašiová Katarína r. Kravcová		0	1644
+1431	Guľášová Mária	1	0	1254,1655,1656
+1431	Guľášová Mária r. Kravčíková		0	1254,1655,1656
+1431	Guľášová Zuzana r. Kopčíková		0	1254,1655,1656
+1431	Gurčíková Mária r. Kerpčárová		0	1007,1254,1655,1656
+1431	Hajoš Ján		0	1254,1655,1656
+1431	Hajošová Juliana		0	1254,1655,1656
+1431	Hajošová Mária		0	1254,1655,1656
+1431	Hajošová Mária r. Guľašová		0	1254,1655,1656
+1431	Hajtašová Júlia r. Prevuzňáková		0	1227
+1431	Halčišák Andrej		0	1641
+1431	Halčišák Andrej	1	0	1641
+1431	Halčišák Michal		0	1224
+1431	Halčišák Michal	Macko Janko	0	1224
+1431	Halčišák Štefan	1	0	1224
+1431	Halčišák Štefan	2	0	1224
+1431	Halčišáková Anna		0	1224
+1431	Halčišáková Anna	1	0	1224
+1431	Halčišáková Anna r. Bakoňová		0	1224
+1431	Halčišáková Anna r. Dinisová		0	1224
+1431	Halčišáková Anna r. Pellová		0	911
+1431	Halčišáková Mária		0	1224

@@ -1,0 +1,256 @@
+1240	Štellmachová Regina r. Olšavská		0	2250,2252
+1240	Štellmachová Regina r. Olšavská	vd	0	2250,2252
+1240	Štelmach Eduard	1	0	2246
+1240	Štelmach Ján		0	2647,2648,3388,3389,3390
+1240	Štelmach Šimon		0	2588,2589,2590,2591,2592,2660
+1240	Štelmach Štefan		0	2590,2591,2592,2648
+1240	Štelmach Tomáš	1	0	2250,2252
+1240	Štelmachová Mária r. Konkoľová		0	2250,2252
+1240	Štelmachová Mária r. Olšavská		0	2246
+1240	Štelmachová Mária r. Olšavská	m Jozef	0	2246
+1240	Štelmachová Mária r. Valigurská		0	2588,2589,2590,2591,2592,2647,2648,3388,3389,3390
+1240	Štelmachová Regina r. Olšavská		0	2647,2648,2660,3388,3389,3390
+1240	Štelmachová Regina r. Olšavská	m Bartolomej	0	2246
+1240	Štelmachová Regina r. Olšavská	vd	0	2246,2588,2589,2590,2591,2592,2648
+1240	Štelmachová Sabina r. Smreková	m Gabriel	0	2246
+1240	Šulc Juraj a Veronika Šulcová r. Trembáčová		0	2232
+1240	Topercerová Ľudmila r. Reľovská		0	3242
+1240	Topľanský Ján		0	2250,2252
+1240	Toplanský Ján, USA		0	2588,2589,2590,2591,2592,2647,2648,3388,3389,3390
+1240	Trembáč Imrich		0	3273
+1240	Trembáč Ján, 065 01, Hniezdne, SR	2	0	2227,2246
+1240	Trembáč Jozef	Jozefov	0	1199,1279,2032,2033,2276,2554,2581,2617,2618,2619,2626,2660,2663,2664,2904,3341,3342,3343,3421
+1240	Trembáč Tomáš	2	0	2276,2554,3421
+1240	Trembáč Tomáš	2, * v r. 1922, Jablonec 165, SR	0	2852,3214
+1240	Trembáč Tomáš, 900 86, Jablonec, č. 165, SR	2	0	2246
+1240	Trembáč Tomáš, 900 86, Jablonec, SR	2	0	2227
+1240	Trembáčová Mária r. Zamišková	m Tomáš	0	3343
+1240	Trembáčová Terézia r. Konkoľovská		0	2246
+1240	Trembáčová Terézia r. Konkoľovská	m Tomáš	0	1199,1279,2032,2033,2276,2554,2626,3421
+1240	Trimelová Agnesa r. Scholczová		0	2648
+1240	Turlík Ján		0	2246,2250,2252
+1240	Turlík Lazar		0	2246,2250,2252
+1240	Turlíková Alžbeta r. Jendrichovská		0	2246,2250,2252,2588,2589,2590,2591,2592,2647,2648,2660,3388,3389,3390
+1240	Turlíková Anna r. Nitková		0	2250,2252
+1240	Turlíková Gertrúda		0	2246,2250,2252,2590,2591,2592,2648
+1240	Turlíková Gertrúda r. Nadžadyová	vd	0	2246
+1240	Valigurská Františka		0	2246,2250,2252,2590,2591,2592,2648
+1240	Valigurská Helena r. Konkoľová		0	2246,2250,2252,2648
+1240	Valigurská Helena r. Konkoľová	vd	0	2246,2250,2252,2588,2589,2590,2591,2592,2648,2660,3388,3389,3390
+1240	Valigurská Mária r. Kmečová		0	2246,2250,2252,2590,2591,2592,2648
+1240	Valigurská Mária r. Konkoľová		0	2250,2252
+1240	Valigurská Rozália r. Juhasová		0	2250,2252
+1240	Valigurský František		0	2588,2589,2590,2591,2592,2647,2648,3388,3389,3390
+1240	Valigurský Ignác		0	2246,2250,2252,2660,3388,3389,3390
+1240	Valigurský Ignác	Jakub	0	2588,2589,2590,2591,2592,2648
+1240	Valigurský Jakub		0	2246,2250,2252
+1240	Valigurský Ján		0	2246,2250,2252
+1240	Valigurský Jozef		0	2246,2250,2252
+1240	Valigurský Jozef	1	0	2246
+1240	Valigurský Peter		0	2246,2250,2252
+1240	Valigurský Peter	1	0	2246
+1240	Verbovská Etela		0	2246,2250,2252,2590,2591,2592,2648
+1240	Verbovská Etela	1	0	2246
+1240	Verbovská Margita		0	2246,2250,2252,2590,2591,2592,2648
+1240	Verbovská Margita	1	0	2246
+1240	Verbovský Aurel	1	0	2246
+1240	Verbovský Aurél		0	2246,2250,2252,2590,2591,2592,2648
+1240	Verbovský Ladislav		0	2246,2250,2252,2590,2591,2592,2648
+1240	Verbovský Ladislav	1	0	2246
+1240	Veselovská Mária r. Nadžadyová	m Tobiáš	0	2246
+1240	Veselovská Mária r. Žembová	m Ján	0	2246
+1240	Veselovský Ján		0	2246
+1240	Veselovský Lorencz		0	2648
+1240	Veselovský Štefan		0	2250,2252,3388,3389,3390
+1240	Veselovský Vavrinec		0	2246,2250,2252,2588,2589,2590,2591,2592,2660,3388,3389,3390
+1240	Vičeková Viktória		0	2648
+1240	Vilčák František		0	3258
+1240	Vilček Adam		0	2246,2250,2252,2588,2589,2590,2591,2592,2648,2660,3388,3389,3390
+1240	Vilček Adam	1	0	2246
+1240	Vilček Adam	Bravis	0	2252
+1240	Vilček Adam	Bravisz	0	2588,2589,2590,2591,2592,2647,2648,2660,3388,3389,3390
+1240	Vilček Bonifác		0	2246,2250,2252,2590,2591,2592,2648
+1240	Vilček František		0	2246,2660,2704
+1240	Vilček František	1	0	2246
+1240	Vilček František	2	0	2246
+1240	Vilček František	3	0	2246
+1240	Vilček Gašpar		0	2246
+1240	Vilček Ján	1	0	2246
+1240	Vilček Ján	2	0	2246
+1240	Vilček Ján	3	0	2246
+1240	Vilček Ján	4	0	2977
+1240	Vilček Jozef		0	2246,2269,2660,2672
+1240	Vilček Matej		0	2246,2250,2252,2590,2591,2592,2648
+1240	Vilček Michal		0	2246
+1240	Vilček Šimon		0	2246,2250,2252,2590,2591,2592,2648
+1240	Vilček Tobiáš		0	2246
+1240	Vilčeková Alžbeta r. Horanská		0	2276,2554,3421
+1240	Vilčeková Anna		0	2672,2817
+1240	Vilčeková Anna r. Dziaková		0	2247,2569,2837
+1240	Vilčeková Ľudmila		0	2246
+1240	Vilčeková Mária r. Dziaková		0	2672,2768
+1240	Vilčeková Mária r. Dziaková	1	0	2225,2226
+1240	Vilčeková Viktória		0	2246,2250,2252,2590,2591,2592
+1240	Vilčeková Zuzana		0	2246,2660,3388,3389,3390,3398
+1240	Vilesková Anna r. Dziaková		0	3106
+1240	Vilitsek Adam		0	2648
+1240	Vojčák Pavol		0	2246,2250,2252
+1240	Vojčák Pavol	1	0	2246
+1240	Vojčáková Lucia r. Žilecká		0	2246,2250,2252
+1240	Vreselovič Baláž		0	2246
+1240	Vreselovič Jozef		0	2246,2250,2252,2648
+1240	Vreselovič Melichár		0	2590,2591,2592,2648
+1240	Vreselovič Melicher		0	2250,2252
+1240	Vreselovič Šimon		0	2246,2250,2252,2588,2589,2590,2591,2592,2647,2648,2660,3388,3389,3390
+1240	Waligurský Jozef		0	2590,2591,2592,2648
+1240	Waligurský Peter		0	2648
+1240	Zaleš Šimon		0	2246,2250,2252,2588,2589,2590,2591,2592,2647,2648,2660,3388,3389,3390
+1240	Zalešová Angela r. Knapíková		0	2250,2252
+1240	Zalešová Angela r. Knapíková	vd	0	2246
+1240	Zalešová Anna		0	2246,2250,2252,2588,2589,2590,2591,2592,2647,2648,2660,3388,3389,3390
+1240	Zamiška Alojz		0	2246
+1240	Zamiška Andrej		0	2276,2279,2554,3421
+1240	Zamiška František		0	422,2276,2554,2788,3421
+1240	Zamiška František	1	0	2225,2226,2248
+1240	Zamiška František	2	0	2279
+1240	Zamiška Ján		0	422,2279
+1240	Zamiška Ján	1	0	1199,1279,2032,2033,2276,2554,2581,2617,2618,2619,2626,2663,2664,3001,3341,3342,3343,3359,3421
+1240	Zamiška Jozef		0	2276,2554,2832,3412,3421
+1240	Zamiška Jozef, USA		0	2912
+1240	Zamiška Juraj		0	2235,2660,2746
+1240	Zamiška Juraj	1	0	2225
+1240	Zamiška Juraj	2	0	2279
+1240	Zamiška Juraj	3, ž Regina Zamišková	0	2225
+1240	Zamiška Juraj	6	0	2247
+1240	Zamiška Juraj	7	0	2239
+1240	Zamiška Juraj	8	0	2246
+1240	Zamiška Juraj	9	0	2246
+1240	Zamiška Juraj	Kolačkov 17	0	147
+1240	Zamiška Juraj	Miškulin	0	2276,2554,3024,3421
+1240	Zamiška Karol		0	2225,2239,2567,3184
+1240	Zamiška Karol	1	0	2248
+1240	Zamiška Karol	2	0	2032,2033,3146
+1240	Zamiška Michal		0	1199,2279,2602,2654,2672,2779,3341,3342,3343
+1240	Zamiška Michal	1	0	2225
+1240	Zamiška Michal	Kríž	0	2225
+1240	Zamiška Pavol		0	2235,2239,2276,2554,2660,3165,3421
+1240	Zamiška Pavol	1	0	2246
+1240	Zamiška Tomáš		0	2225,2246
+1240	Zamiška Tomáš	1	0	2226
+1240	Zamiška Tomáš, USA		0	1199
+1240	Zamiška Vavrinec		0	2247,2554,2840
+1240	Zamišková Agnesa		0	1199,2225
+1240	Zamišková Alojzia r. Reľovská		0	2229,2276,2554,3111,3421,3423
+1240	Zamišková Anna		0	2226,2276,2554,3101,3346,3421
+1240	Zamišková Anna	1	0	2225
+1240	Zamišková Anna	2	0	2225
+1240	Zamišková Anna r. Reľovská		0	2763
+1240	Zamišková Anna r. Zamišková		0	2247,2579,2660,2868,3277
+1240	Zamišková Anna r. Zamišková	1	0	2246
+1240	Zamišková Filoména r. Reľovská		0	2276,2554,3421
+1240	Zamišková Františka		0	2246,2276,2554,3421
+1240	Zamišková Gizela r. Konkolovská		0	2246,2276,2554,2648,3421
+1240	Zamišková Gizela r. Zamišková		0	3268
+1240	Zamišková Helena r. Škapurová		0	2229,3379,3391
+1240	Zamišková Helena r. Škapurová	1	0	2225,2226
+1240	Zámišková Karolína		0	3099
+1240	Zamišková Katarína		0	422,2276,2279,2554,3421
+1240	Zámišková Katarína r. Dziaková		0	2624,3233
+1240	Zámišková Margita		0	2778
+1240	Zamišková Mária		0	422,2276,2279,2554,3021,3421
+1240	Zamišková Mária	1	0	2279
+1240	Zamišková Mária r. Dziaková		0	2229
+1240	Zámišková Mária r. Dziaková	vd	0	2954
+1240	Zamišková Mária r. Madanská		0	2239,3274
+1240	Zamišková Mária r. Madanská	m Juraj	0	2235
+1240	Zamišková Oľga		0	2276,2554,3421
+1240	Zamišková Regina		0	3379,3391
+1240	Zamišková Regina r. Vilčeková	m Juraj	0	2246
+1240	Zamišková Sidónia r. Slabikovská		0	1199,1279,2032,2033,2246,2276,2277,2554,2581,2617,2618,2619,2626,2660,2663,2664,2733,3341,3342,3343,3409,3421
+1240	Zamišková Štefánia r. Dziaková		0	2741
+1240	Zamišková Terézia		0	2239,2276,2554,2660,2955,3421
+1240	Zamišková Terézia	1	0	2225,2226
+1240	Zamišková Terézia	2	0	2225
+1240	Zamišková Terézia	3	0	2246
+1240	Zamišková Terézia r. Trembáčová	Kolačkov 113	0	2227
+1240	Zamišková Verona		0	3083
+1240	Zamišková Zuzana		0	2225
+1240	Zamišková Zuzana r. Dziaková	m František	0	2971
+1240	Zamišková Zuzana r. Kollárová		0	2276,2554,3103,3421
+1240	Zavacká Mária r. Dziaková		0	2945
+1240	Zavacká Mária r. Dziaková	m Ján	0	2247
+1240	Zemanyová Klára		0	2246
+1240	Zorber Jozef		0	1279,2032,2033,2276,2554,2626,3421
+1240	Žemba Eduard		0	2250,2252
+1240	Žemba Felix		0	2246
+1240	Žemba František		0	2246,2250,2252,2588,2589,2590,2591,2592,2647,2648,2660,3388,3389,3390
+1240	Žemba František	1	0	2246
+1240	Žemba Gabriel		0	2250,2252,2590,2591,2592,2648
+1240	Žemba Gašpar		0	2250,2252
+1240	Žemba Gregor		0	2246,2250,2252,2588,2589,2590,2591,2592,2647,2648,2660,3388,3389,3390
+1240	Žemba Ján		0	2250,2252,2588,2589,2590,2591,2592,2647,2648,3388,3389,3390
+1240	Žemba Pavol		0	2246,2250,2252,2588,2589,2590,2591,2592,2647,2648,3388,3389,3390
+1240	Žemba Peter		0	2246,2250,2252,2588,2589,2590,2591,2592,2647,2648,2660,3388,3389,3390
+1240	Žembová Gertrúda r. Jančiová		0	2246,2250,2252
+1240	Žembová Johana r. Jendrichovská		0	2246,2250,2252
+1240	Žembová Mária		0	2250,2252,2588,2589,2590,2591,2592,2647,2648,3388,3389,3390
+1240	Žembová Marta r. Rurová		0	2246,2250,2252,2588,2589,2590,2591,2592,2660
+1240	Žembová Veronika r. Rabatinová		0	2246,2250,2252
+1240	Žid František		0	2246,2250,2252
+1240	Žid František	1	0	2246
+1240	Žid Ján		0	2246,2250,2252
+1240	Žid Ján	1	0	2246
+1240	Žid Ján	2	0	2246,2250,2252
+1240	Žida František	Stará Ľubovňa	0	2590,2591,2592,2648
+1240	Židová Agáta		0	2246,2250,2252
+1240	Židová Agáta	1	0	2246
+1240	Židová Anna r. Repková		0	2250,2252
+1240	Židová Gertrúda		0	2246,2250,2252
+1240	Židová Gertrúda	1	0	2246
+1240	Žilecký Andrej		0	2250,2252
+1240	Žilecký Ján		0	2246
+1240	Žilecký Stanislav		0	2250,2252
+1240	Žoldák Bartolomej		0	2246,2250,2252,2648
+1240	Žoldák Bertalan		0	2590,2591,2592
+1240	Žoldák František	Fischer	0	3045
+1240	Žoldák Ján		0	2905
+1240	Žoldák Ján r. Žoldák, 065 11, Kolačkov, č. 139, SR		0	2221
+1240	Žoldák Jozef		0	3027
+1240	Žoldák Jozef	Tomčaj	0	2672
+1240	Žoldák Karol		0	2285
+1240	Žoldák Konštantín		0	2246
+1240	Žoldák Michal	1	0	2276,2554,2801,3421
+1240	Žoldák Michal	Kolačkov 53	0	2216,2240
+1240	Žoldák Viktor		0	2233
+1240	Žoldáková Alojzia r. Belická		0	2285
+1240	Žoldáková Amália r. Baffiková		0	1199,1279,2032,2033,2276,2554,2626,3421
+1240	Žoldáková Anna r. Dziaková		0	2276,2554,3123,3421
+1240	Žoldáková Anna r. Zamišková		0	2239
+1240	Žoldáková Františka		0	2844
+1240	Žoldáková Hermína		0	3222,3405
+1240	Žoldáková Janka r. Dziaková		0	2219,2229,2246,2266,2595,2640,2791,3339,3373
+1240	Žoldáková Karolína r. Reľovská	Kolačkov 95	0	2276,2554,3421
+1240	Žoldáková Karolína r. Slabikovská		0	2246,2660,2812
+1240	Žoldáková Katarína r. Slabikovská		0	1199,1279,2032,2033,2276,2277,2554,2581,2617,2618,2619,2626,2663,2664,3206,3341,3342,3343,3421
+1240	Žoldáková Ľudmila		0	2233
+1240	Žoldáková Mária r. Belická		0	2229,2285
+1240	Žoldáková Mária r. Gromovská		0	3144
+1240	Žoldáková Mária r. Reľovská		0	532,555,2263,2276,2554,3421
+1240	Žoldáková Mária r. Reľovská	1	0	2225
+1240	Žoldáková Mária r. Zamišková		0	2225,2226
+1240	Žoldáková Zuzana		0	3029
+1240	Žoldáková Zuzana	1	0	2247
+1240	Žoldáková Zuzana r. Tatarská	m Ján	0	2928
+1240	Žoldáková Zuzana, 059 71, Ľubica, SR		0	2233
+1241	BAKITOVÁ Magdaléna r. Hoďová		0	410,650,812,832,833,942,943
+1241	BELANSKÝ Ján r. Belanský	PKV 180	0	609,1191
+1241	BELIANSKÁ Anastázia r. Dzianová	vo Francii, PKV 167, 272, 387, manž. Michal	0	1244,1279
+1241	BELIANSKÁ Anna r. Králová	manž. František, PKV 180	0	609,1191
+1241	BELIANSKÁ Anna r. Melichová	manž. Ondrej, PKV 460	0	609
+1241	BELIANSKA Helena r. Belianska	Lukáčova dcéra,PKV137,162,183,189-192,211,375,475,707	0	539,700,703,705,730,879,880,906,1062,1064,1196,1197,1236,1614,1619,1661,1689
+1241	BELIANSKÁ Irena	mal. v r.1938, PKV 142,194,711,712	0	427,439,1416
+1241	BELIANSKÁ Katarína r. Foltánová	manž. Vincent, PKV 50, 492, 734	0	1404,1488
+1241	BELIANSKA Magdaléna r. Tomová	vdova, PKV 137, 191, 192, 209, 475, 707	0	703,705,879,906,1062,1197,1198,1387,1619,1689
+1241	BELIANSKÁ Margita	drienovská, v Belgii, PKV 184, 596	0	444,1021
+1241	BELIANSKÁ Mária	mal. v r.1948, PKV 315, 707	0	705,1062,1391
+1241	BELIANSKÁ Mária r. Duchovičová	manž. Anton, PKV 170	0	1423

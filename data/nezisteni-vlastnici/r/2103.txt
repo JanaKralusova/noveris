@@ -1,0 +1,256 @@
+1237	Lašák Juraj		0	2049,2605,4404
+1237	Lašák Ondrej		0	2049,2605,4404
+1237	Lašák Ondrej	maloletý	0	2472
+1237	Lašáková Elena	nebohá	0	2473
+1237	Laššák Ján	č.1	0	2472
+1237	Laššák Ján	č.3	0	2049,2605,4404
+1237	Laššák Ján	manž.Rozália rod.Briaková,nebohý	0	2473
+1237	Laššák Ján	nebohý,č.2	0	2473
+1237	Laššák Ján	nebohý,č.3	0	2473
+1237	Laššák Jozef	manž.Mária rod.Šusteková	0	3062,3063
+1237	Laššák Jozef	nebohý,č.3	0	2473
+1237	Laššák Jozef	Postrelan,č.2	0	3062,3063
+1237	Laššák Juraj	nebohý,odsťahovaný do Ameriky	0	2473
+1237	Laššák Ondrej	č.2	0	2049,2605,4404
+1237	Laššák Ondrej	Maľaga	0	2473
+1237	Laššák Pavel	č.2	0	2327,2640,4509
+1237	Laššák Pavel	Lipnický,m.Rozália rod.Brijáková,nebohý	0	2473
+1237	Laššák Pavel	maloletý	0	2605
+1237	Laššák Pavel	nebohý,č.1	0	2473
+1237	Laššák Pavel	nebohý,č.2	0	2473
+1237	Laššák Pavel	postrelan	0	2049,2473,4404
+1237	Laššák Štefan		0	2049,2605,3062,3063,4404
+1237	Laššák Štefan	manž.Anna rod.Slovenčáková	0	3062,3063
+1237	Laššáková Anna		0	2049,2480,2605,3062,3063,4404
+1237	Laššáková Anna	maloletá,č.1	0	2472
+1237	Laššáková Anna	maloletá,č.2	0	2049,2605,4404
+1237	Laššáková Anna	nebohá	0	2473
+1237	Laššáková Elena	nebohá	0	2049,2473,2605,4404
+1237	Laššáková Emília r. Kuráková		0	2049,2605,4404
+1237	Laššáková Helena r. Šuríková		1	2352,3935
+1237	Laššáková Juliana	nebohá	0	2049,2473,2605,3062,3063,4404
+1237	Laššáková Juliana r. Albertová Janeček	Ďubákovo	0	2473
+1237	Laššáková Katarína	postrelan	0	2049,2473,2605,4404
+1237	Laššáková Mária r. Sihelská		0	2049,2605,4404
+1237	Laššáková Mária r. Šusteková	nebohá,manž.Jozef	0	2473
+1237	Laššáková Rozália	maloletá	0	2049,2605,4404
+1237	Laššáková Rozália	nebohá	0	2473
+1237	Laššáková Terézia	nebohá,slobodná	0	2049,2473,2605,3062,4404
+1237	Laššáková Terézia	nebohá,slobodná,nar.1.7.1917	0	3063
+1237	Latiniaková Katarína r. Sihelská		0	1102
+1237	Látka Ján	maloletý	0	2445,3290,3291,4347
+1237	Látková Verona	maloletá	0	2445,3290,3291,4347
+1237	Laudisová Zuzana		0	4289
+1237	Laudisová Zuzana	maloletá	0	3431
+1237	Lavčeková Helena r. Šuríková		0	2738
+1237	Lichanec Michal	manž.Juliána rod.Trnavská,bytom v Klenovci	0	2963
+1237	Lichanec Michal	manž.Juliána rod.Trnavská,v Klenovci	0	3999
+1237	Lichanec Pavel	manž.Juliána rod.Zvarová,bytom v Klenovci	0	2963
+1237	Lichanec Pavel	manž.Juliána rod.Zvarová,v Klenovci	0	3999
+1237	Lipták Ján	Čabaj	1	2139
+1237	Lipták Ladislav	nebohý	0	3525
+1237	Lipták Ondrej	obyv.Rim.Sobota	1	2818
+1237	LIPTÁK Ondrej		0	1714,2313,3519,3521,3523,3525,3526,3527,3561
+1237	Liptáková Judita		0	4284
+1237	Liptáková Judita r. Doricková	manž.Ján	0	3581
+1237	Liptáková Judita r. Doricková	mladšia	0	3853
+1237	Liptáková Judita r. Gálusová		0	2870
+1237	Liptáková Zuzana r. Gaštanová		0	2786,2787,3565
+1237	Lopušníková Mária		0	2473
+1237	Lukašák Štefan	nebohý	0	2473
+1237	Lukaššáková Róza r. Koritiaková	manž.Ján	0	2049,2605,3062,3063,4404
+1237	Ľupták Jozef	Človek,nebohý	0	2253,2344
+1237	Ľuptáková Anna r. Stieranková		0	3648,4461
+1237	Luptáková Mária		1	3906
+1237	Ľuptáková Mária	lulo	0	3439
+1237	Macek Daniel	nebohý	0	3409
+1237	Macek Ján	č.1,nebohý	0	3409
+1237	Macek Ján	č.2,nebohý	0	2559
+1237	Macek Ján	Fridrich,č.1	0	2332,2562,3130,3304
+1237	Macek Ján	Fridrich,č.2	0	2561
+1237	Macek Ján	Jančo,manž.Judita rod.Liptáková	0	3531
+1237	Macek Ján	maloletý,č.1	0	3704
+1237	Macek Ján	maloletý,č.2	0	2556
+1237	Macek Ján	maloletý,Fridrich	0	2557
+1237	Macek Matej		0	26
+1237	Macek Matej	nezvestný	0	3531,3796,3797
+1237	Macek Ondrej	Fidrik,manž.Juliana rod.Zdút Šťastná	0	3810
+1237	Macek Ondrej	Fidrik,manž.Juliána rod.Zdútová,Zvolen	0	3432,3433,3507,3531
+1237	Macek Ondrej	manž.Elena rod.Šuhániová	0	3567
+1237	MACEK Ondrej	Fidrik	0	4281
+1237	Macek Pavel		0	3531
+1237	Macek Pavel	Doricko	0	3559
+1237	Maceková Elena	Fridrich	0	1909,3130
+1237	Maceková Judita r. Ďurianová	Jančo	0	3535
+1237	Maceková Judita r. Ďurianová	Jančo,manž.Štefan	0	3506
+1237	Maceková Judita r. Ďurianová	Jančo,rod	0	4286
+1237	Maceková Judita r. Ďurianová	Jančová,rod	1	3934
+1237	Maceková Juliana	Fidrik,rod.Zdútová Šťastná,manž.Ondrej	0	3810
+1237	Maceková Juliána r. Zdútová	Fidriková	0	3507,3531
+1237	Maceková Mária	č.1	0	1910
+1237	Maceková Mária r. Pinzíková		1	3856
+1237	Maceková Mária r. Pinzíková	nebohá	0	3511
+1237	Maceková Mária r. Pinzíková	vdova	0	3169,3170,3171
+1237	Maceková Zuzana		0	3460,3783,3784
+1237	Maceková Zuzana r. Poliačiková	Danko,rod.,Sakáloš	0	1297
+1237	Machyniaková Mária r. Tazberíková	nebohá	0	2049,2473,2605,3062,3063,4404
+1237	MAJHUTOVÁ Zuzana		1	3755,3901
+1237	MAJOROŠOVÁ Helena	rod.Beracková	0	2149
+1237	Majorošová Helena r. Beracková		1	2151,3294
+1237	Majtloch Daniel		0	2390,3297,3548,3702,3711,3841
+1237	Majtloch Ján		0	2390,3297,3548,3702,3711,3841
+1237	Majtlochová Zuzana		0	2390,3297,3548,3702,3711,3841
+1237	Malatinská Juliana r. Laššáková		0	2049,2605,4404
+1237	Malinová Mária r. Bartošová		0	2049,2605,3062,3063,4404
+1237	Maráková Mária r. Podsklanová	nebohá,zomr.17.4.2003	0	3672
+1237	Marcineková Elena		0	3643,4038,4039
+1237	Marčová Paulína r. Lajzová	v Amerike	0	2301,2303,2307
+1237	Marek Martin		0	3668,4317,4318,4319,4320
+1237	Mareková Juliana r. Barjaková		0	3302,3330,3331,4487,4488
+1237	Marková Anna		0	3033
+1237	Matulová Mária r. Kleinová		0	4285
+1237	Matúška Ján		0	3643,3775,4038,4039
+1237	Matúška Ján	maloletý	0	3643,3775,4038,4039
+1237	Matúška Jozef		0	3643,3775,4038,4039
+1237	Matúšková Anna	maloletá	0	3643,3775,4038,4039
+1237	Matúšková Mária r. Morongová		0	3643,3775,4038,4039
+1237	Matušková Terézia	rod.Komorová	0	327
+1237	Matušková Terézia r. Komorová		0	2480,2481
+1237	Melich Juraj	manž.Verona rod.Ružičková	0	2445,3290,3291,4347
+1237	MELICH Juraj		0	2445,3290,3291,4347
+1237	Melichová Verona r. Ružičková		0	2445,3290,3291,4347
+1237	Mensatorisová Lenka r. Kislingerová	nebohá	0	3521
+1237	Migas Ján	maloletý,nebohý	0	1981
+1237	Migas Július	nebohý	0	1981
+1237	Miháľ Alexander	Kollár	1	2713,3317
+1237	Miháľ Ján		0	3364
+1237	Miháľ Pavel	Kollár	1	2713,3317
+1237	Miháľ Pavel	Kollár, maloletý	0	3317
+1237	Miháľ Pavel	Kollár,maloletý	1	2713,3452
+1237	Miháľ Pavel	manž.Zuzana Piliariková,Bárdi	0	3452
+1237	MIHÁĽ Pavel		0	3749
+1237	Miháľová Elena r. Komendová		0	2065
+1237	Miháľová Elena r. Komendová, SR		0	764
+1237	Miháľová Judita r. Kromholcová		1	3914
+1237	Miháľová Judita r. Kromholcová	vdova,manž.Ján	0	3363,3364
+1237	Michalovská Rozália r. Mareková		0	3666,4462,4475,4531,4555
+1237	Mináč Ondrej	č.1	0	2755
+1237	Mináč Ondrej	č.2	0	2831
+1237	Minárová Judita r. Zdútová		0	3853
+1237	Minárová Judita r. Zdútová	manž.Pavel,nebohá	1	3764,3874
+1237	Minárová Judita r. Zdútová	vdova	1	2197
+1237	Moncoľ Ján		1	600
+1237	Moncoľ Ján	č.1	0	2213,2214,3492,3519,3561,4390,4558,4559
+1237	Moncoľ Ján	č.2	0	2227
+1237	Moncoľ Ján	č.3	0	2012
+1237	MONCOĽ Michal		0	2213,2214,3492,4390,4558,4559
+1237	MONCOĽ Ondrej		0	2213,2214,3492,4390,4558,4559
+1237	MONCOĽ Pavel		0	2213,2214,3492,4390,4558,4559
+1237	MONCOĽ Štefan		0	2213,2214,3492,4390,4558,4559
+1237	MONCOĽOVÁ Helena		0	2213,2214,3492,4390,4558,4559
+1237	Mondek Jozef		0	184,1651
+1237	Mondeková Mária r. Luptáková		1	3906
+1237	Mondeková Mária r. Ľuptáková	nebohá, č.d.436	0	3439
+1237	Monzoľová Helena r. Slovenčiaková		0	184
+1237	Morčová Pavlína r. Lajzová		1	2306,3343,3902,3903
+1237	Morong Pavel	manž.Katarína rod.Vinarčíková,nebohý	0	2473
+1237	Morongová Anna	nebohá,slob.,napos.Lučenec Domov dôchod	0	2473
+1237	Morongová Katarína r. Vinarčíková	nebohá,manž.Pavel	0	2473
+1237	Motyčák Jozef	nebohý	0	2473
+1237	Mrva Ján		1	3883
+1237	Mrvová Elena r. Jakubecová		1	3883
+1237	MURÁNSKY Andrej		0	2445,3290,3291,4347
+1237	Muránsky Ján	maloletý	0	2445,3290,3291,4347
+1237	Muránsky Tomáš	č.1	0	2445,3290,3291,4347
+1237	Muránsky Tomáš	č.2	0	2445,3290,3291,4347
+1237	Murinčeková Kristína		1	1441,3302,3330,3331,4487,4488
+1237	Nociarová Mária r. Beľová	bytom Det.Huta	1	1230
+1237	Nordonová Mária		1	2512
+1237	Nordonová Mária	č.2	1	2512
+1237	Nordonová Mária	č.3	1	2154
+1237	Nordonová Mária	v Amerike	0	1914,2155,2157,2556,4157
+1237	Nosáľová Zuzana r. Doricková		0	3581
+1237	Nosko Jozef	nebohý	0	2473
+1237	Nosko Jozef	nebohý,manž.Rozália rod.Komorová	0	2473
+1237	Nosko Jozef	nebohý,naposledy bytom Šoltýska č.52	0	2473
+1237	Nosková Róza r. Komorová	manž.Jozef	0	2049,2605,4404
+1237	Nováčeková Zuzana r. Bobrová	Amerika	0	3492,4558,4559
+1237	Nováčeková Zuzana r. Bobrová	v Amerike	0	2213,2214,4390
+1237	Nuhalovská Mária r. Lašáková		0	2472
+1237	Ňuňuk Pavel	č.1	0	2387
+1237	Ňuňuk Pavel	manž.Terézia rod.Ivorová,Lehota n/Rim	0	2090,3437
+1237	Ňuňuková Rozália r. Svorová		0	3156
+1237	Ňuňuková Ružena r. Ivorová		0	2144
+1237	Obročník Ján		0	1582,3778
+1237	Obročník Jozef	manž.Katarína rod.Jackuliaková,nebohý	0	3062,3063
+1237	Obročníková Katarína r. Jackuliaková	manž.Jozef	0	3062,3063
+1237	Obročníková Katarína r. Jackuljáková	vdova	0	2326
+1237	Olšiaková Jolana r. Kožiaková	nar.9.9.1936,Rim.Brezovo	0	2356
+1237	Olšiaková Jolana r. Kožiaková	Rim.Brezovo	1	1230
+1237	Orságová Helena r. Bystrianska		0	2272
+1237	Pachmann Gustáv		0	1654
+1237	Pachtová Zuzana r. Poliačiková		0	1910,3520
+1237	Pajer Karol		0	1793
+1237	Pajer Peter		0	1793
+1237	Paleček Jozef	manž.Anna rod.Tazberíková,č.1	0	3062,3063
+1237	Paleček Jozef	manž.Anna rod.Tazberíková,č.2	0	2049,2605,4404
+1237	PALEČEK Martin		0	2326
+1237	Paleček Ondrej	nebohý	0	2473
+1237	Paleček Štefan	nebohý	0	2473
+1237	Palečeková Mária		0	2473
+1237	Palečeková Mária	nebohá	0	2049,2473,2605,4404
+1237	Palečeková Mária r. Kuráková	vdova	0	2049,2605,4404
+1237	Palečeková Mária r. Maňurová	nebohá,manž.Štefan	0	2473
+1237	Palečeková Terézia	rod.Škrabáková,manž.Martin	0	2049,4404
+1237	Palečeková Terézia r. Škrabáková	manž.Martin	0	2605
+1237	Paleš Ján	syn Matúšov	1	3880
+1237	PALEŠ Ján		0	3759,3760
+1237	Páleš Ján	č.1	1	3865
+1237	Páleš Ján	č.2	1	3863
+1237	Páleš Ján	maloletý	1	3760,3865
+1237	Páleš Ján	nižný	0	3343
+1237	Páleš Juraj	č.1	1	2306
+1237	Páleš Juraj	č.2	1	3902
+1237	Páleš Juraj	č.3	1	3880
+1237	Páleš Juraj	manž.Mária rod.Lajzová	0	2676
+1237	Páleš Juraj	vojak	0	2301,2303,2315,3292,3293,3361,3443,3466
+1237	PÁLEŠ Juraj		0	2303,2315,3292,3293,3361,3443
+1237	PÁLEŠ Martin		1	2465,3300,3433,3515,3723,3760,3860,3865
+1237	PÁLEŠOVÁ Helena		0	2047,3292,3293
+1237	Pálešová Mária	maloletá	0	3760
+1237	Pálešová Mária	maloletá,č.1	1	3865
+1237	Pálešová Mária	maloletá,č.2	1	3880
+1237	PÁLEŠOVÁ Mária		0	2315,3292,3293
+1237	Pálešová Zuzana r. Dobošová		0	2791,2792
+1237	Pálešová Zuzana r. Chlebová	manž.Pavel,nebohá	0	3608
+1237	Pápajová Sabína r. Pavlová	bytom v USA	0	3442
+1237	Pápajová Sabína r. Pavlová	bývajúca v USA	1	3609,3895
+1237	Parobek Ladislav	Hnúšťa Likier	1	1066,2669,3849
+1237	Parobek Ladislav	posledne bytom Hnúšťa Likier	0	3086
+1237	Parobek Pavel		0	3712,3849
+1237	Parobeková Margita		0	3849
+1237	Parobeková Mária		0	1728
+1237	Parobeková Mária r. Suchanová	vd.,manž.Ján	1	1066,2669
+1237	Parobeková Mária r. Suchanová	vdova,manž.Ján	0	3086
+1237	Paššák Jozef	č.1	0	2049,2605,4404
+1237	Paššák Jozef	č.2	0	3062,3063
+1237	Paššák Jozef	manž.Katarína rod.Slančíková,nebohý	0	2473
+1237	Paššák Jozef	nebohý	0	2473
+1237	Paššák Jozef	zomrel 28.12.1992	0	2473
+1237	Paššák Juraj		0	2473
+1237	Paššáková Juliana r. Kocúrová		0	2049,2605,3063,4404
+1237	Paššáková Katarína r. Slamčíková	nebohá, zomr.20.6.1963	0	2473
+1237	Paučová Martina, SR		0	653,654
+1237	Paulík Jozef	manž.Mária rod.Komorová	0	2049,2605,3062,3063,4404
+1237	Paulíková Mária r. Komorová	manž.Jozef	0	2049,2605,3062,3063,4404
+1237	Paulove Ján		0	3620
+1237	Paulove Ján	nebohý, manž.Anna rod.Šuniarová	0	3524
+1237	PAULOVE Ondrej		0	2211
+1237	Paulove Pavel		0	3620
+1237	Paulove Sabína	maloletá	0	3442
+1237	Pavlíniová Elena r. Spišiaková		1	2024
+1237	Pavlínová Elena r. Spišiaková		0	2023,3265,3266,3267
+1237	Pavlová Mária r. Maceková Piškátorová		0	3706
+1237	PAVLOVE Ján		1	1949,1950,2309,3894,4280
+1237	Pavlove Ondrej	maloletý	1	1949,1950,2309,3894,4280
+1237	PAVLOVE Pavel		1	1949,1950,2309,3894,4280

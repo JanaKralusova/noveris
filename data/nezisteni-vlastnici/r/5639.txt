@@ -1,0 +1,256 @@
+3175	Šuhajík Jozef r. Šuhajík		0	5677,9265,10801,10836,11516
+3175	Šuhajík Juraj r. Šuhajík		0	5248,5829,8785,9117,9522,10022,10048,10049,10279,10287,12038
+3175	Šuhajík Juraj r. Šuhajík	Štelik	0	5248,9117
+3175	Šuhajík Juraj r. Šuhajík	ž. Anna r. Bukvišová	0	10011,10038,10280
+3175	Šuhajíková Anna	malol	0	4752,5676,5677,9265,10801,10804,10836,11515,11516,11517,11518
+3175	Šuhajíková Paulína		0	6663,6664
+3175	Šuhajíková Paulína r. Labajová	Štelíková	0	3788,7477,8678,8679,8680,8867,9468,9469
+3175	Šuhajíková Veronika		0	5248,8785,9117
+3175	Šuhajíková Veronika r. Šteliková		0	5248,8785,9117
+3175	Šustek Štefan r. Šustek	ž. Anna r. Froliková	0	6530,10016,11511
+3175	Šusteková Anna r. Froliková	m. Štefan	0	6530,10016,11511
+3175	Šušliková Anna	malol	0	4686,7099,9027,9564,10693
+3175	Švabek Jozef r. Švabek		0	10147
+3175	Švabeková Anna r. Zadaniková		0	9937
+3175	Švabeková Mária	Oravcová	0	10127
+3175	Švábeková Veronika r. Gregušová		0	5887
+3175	Švec Jozef r. Švec		0	3678,3679,11191,11243,11602
+3175	Švecová Mária		0	3678,3679,3684,6280,8214,8706,11186,11191,11243,11333,11335,11602
+3175	Švihelová Mária r. Miklušová		0	4064
+3175	Švrhovný Jozef r. Švrhovný	ž. Štefánia r. Tarabíková	0	6882
+3175	Tabaček Adam r. Tabaček		0	11191,11602
+3175	Tabaček Gašpar r. Tabaček		0	11191,11602
+3175	Tabaček Imrich r. Tabaček		0	4943,5555,8690,8785,9110,11185,11191,11225,11243,11602
+3175	Tabaček Ondrej r. Tabaček		0	4093,4943,8785,8960,9053,9110,9870,11191,11602,11751
+3175	Tabaček Pavol r. Tabaček		0	10628,11191,11602
+3175	Tabačková Melánia	malol	0	9508,9870
+3175	Tabačková Štefánia r. Jandzíková	m. Alexander	0	4307,5348,7086,8687,8724,8785,9021,9559,9561,10158,11575,12074
+3175	Taraba Jozef r. Taraba		0	9084,10566
+3175	Tarabík Ján r. Tarabík		0	1538,3614,3615,6062,6064,6065,8502,8796,9338,9833,11793,11795
+3175	Tarabík Pavol r. Tarabík		0	4788,8694,11135
+3175	Tarabíková Anna		0	5969,5970,10077
+3175	Tarabíková Mária		0	3622,5787
+3175	Tarabíková Štefánia		0	11135
+3175	Tarabová Anna r. Knapíková		0	4931,8464
+3175	Tarabová Anna r. Kocincová		0	9084
+3175	Taračová Anna	malol	0	8683,9781,9806,10099,11336
+3175	Tararík Imrich r. Tararík		0	8611,11254
+3175	Tararík Jozef r. Tararík		0	10842,10844,11254
+3175	Tararíková Berta		0	8611,10842,10844,11254
+3175	Teinertová Mária r. Hrtúsová		0	9027,9564,10649
+3175	Tichá Anna		0	10250
+3175	Tichá Anna r. Sapietová		0	4049,4943,8960,9110
+3175	Tichá Anna r. Sapietová	m.Juraj	0	4049,4307,5348,5980,8005,8101,8102,8687,8785,8790,8791,8911,9021,9298,9538,10126,11575
+3175	Tichý Ján r. Tichý		0	10250
+3175	Tichý Juraj r. Tichý	ž. Anna r. Sapietová	0	5980,8005,9538
+3175	Tóthová Mária r. Fuljerová	Gen Ľ.Svobodu č.978/42 ,95801 Partizánske	0	4281,4841,5010,9108,10712,10714,10719,10720,11310
+3175	Učník František r. Učník	ž. Zuzana r. Čagalová	0	8074
+3175	Učniková Vincencia		0	373,6593,6596,6599,6601,7816,8068,9445,9765
+3175	Učníková Zuzana r. Čagalová		0	8074,10369
+3175	Umrian Imrich r. Umrian		0	4943,8960,9110,9963
+3175	Umrian Pavol r. Umrian		0	9963
+3175	Urišová Anna r. Tichá	m. Jozef	0	4993
+3175	Vadovičová Margita r. Králiková		0	4788,4789,6511,6515,7193,8694,9359,11161
+3175	Vagenfall Jozef r. Vagenfall	ž. Veronika r. Galetová	0	10247,10272
+3175	Vagenfallová Veronika r. Galetová	m. Jozef	0	10247
+3175	Valchoň Alojz r. Valchoň		0	8783,8785,9111,9113,10473
+3175	Valientová Jozefína r. Žarová		0	11042
+3175	Valientová Mária r. Žárová		0	11042
+3175	Valík Jozef r. Valík		0	2653,3953,5913,8783,8815,9111,9113,9117,9315,10472,10473,10484
+3175	Valík Karol r. Valík	ž. Máíria r. Bavlšíková	0	10682
+3175	Valíková Mária r. Bavlšíková		0	4694,5087,5901,9145,10679,11185
+3175	Valíková Mária r. Bavlšíková	m. Karol	0	10682
+3175	Vališík Gašpar r. Vališík		0	4275,4295,7215,7838,9590,9592,9776
+3175	Vališík Pavol r. Vališík		0	4275,4295,7215,7838,9590,9592,9776
+3175	Varaček František r. Varaček		0	10806
+3175	Varaček František r. Varaček	ž. Anna r. Kocincová	0	8749,9836,10405,11399,11551,11717,11900
+3175	Varaček František r. Varaček	ž. Karolína r. Kocincová	0	10807
+3175	Varáček Imrich r. Varáček		0	5144,6689,6690,10569,10573
+3175	Varačková Anna r. Kocincová	m. František	0	8749,9836,10405,11399,11551,11717,11900
+3175	Varačková Karolína r. Kocincová	m. František	0	10807
+3175	Varáčková Vincencia r. Bavlšíková		0	7908,9255,9257,9259,10739
+3175	Vasut Michal r. Vasut		0	8867
+3175	Vašiková Mária r. Lacináková		0	8824
+3175	Vavrová Anna r. Milučká		0	8327
+3175	Večerík Ján r. Večerík	malol	0	9255,10847
+3175	Večerík Jozef r. Večerík		0	1547,5926,5927,5928,5929,5930,5932,7015,7016,9312,10646,10647
+3175	Večerík Jozef r. Večerík	malol	0	9255,10847
+3175	Večerík Pavol r. Večerík		0	1547,5926,5927,5928,5929,5930,5932,6053,7015,7016,8833,9245,9246,9249,9253,9312,10647
+3175	Večeríková Anna r. Harajčíková	vd	0	3363,3366,3368,3370,3372,3375,3924,4677,7034,7710,7907,8203,8669,10859,10862,10877,11774,11893
+3175	Večeríková Mária r. Hasilová	Uhlárová m. Pavol	0	9046,10789,10792,10830
+3175	Velička Ján r. Velička		0	4751,6845,10811,10812,10814,10817,10819
+3175	Velička Ján r. Velička	ž. Veronika	0	4854,8879,9451,10808,10811,11633
+3175	Vírecová Anna r. Bobčíková		0	8924
+3175	Vojvodíková Veronika r. Fuljerová		0	9592
+3175	Voloníková Anna r. Chudejová		0	1186,9043,9223,9633
+3175	Vráblik Alojz r. Vráblik		0	31,8667,9284,9331,9333,10991,11036,11299
+3175	Vrábliková Emília		0	9188,9568,10778,10782
+3175	Weisz Arnold r. Weisz		0	11191,11602
+3175	Zadubanová Mária r. Mičiaková		0	11078
+3175	Zacharová Mária r. Belejová		0	8709,8785,8926,8927
+3175	Zajac Jozef r. Zajac		0	5537,7916,8167,9237,11220
+3175	Zajacová Alžbeta r. Nekorancová	m. Ignác	0	10785,10787,10796
+3175	Zapalačová Anna		0	2853,2854,3426,8645,9161
+3175	Záporik Jozef r. Záporik	Husár	0	10182
+3175	Závadský Jozef r. Závadský		0	10732
+3175	Zavičár Ján r. Zavičár	ž. Anna r. Slaziniková	0	10761
+3175	Zavičárová Anna r. Slaziniková	m. Ján	0	10761
+3175	Žadaník Jozef r. Žadaník	ž. Vincencia r. Kujaniková	0	10087
+3175	Žák Pavol r. Žák	ž. Žofia r. Repčíková	0	9912
+3175	Žáková Žofia r. Repčíková	m. Pavol	0	9912
+3175	Žarový Juraj r. Žarový		0	11042
+3175	Žilinčár František r. Žilinčár	syn Jozefa	0	11243
+3175	Žilinčár Vladimír r. Žilinčár		0	2890,3788,3791,3793,4984,7477,8651,8676,8678,8679,8680,8746,8748,8749,9093,9094,9097,9099,9100,9102,9207,9468,9469,9836,9897,10300,10405,10878,11235,11243,11352,11399,11551,11717,11900
+3175	Žilinčárová Ľudmila		0	11191,11243,11602
+3176	Ádam Alexander		1	837,885,1022,1062
+3176	Ádam Alexander	choromyselný	1	705,774,1040,1041,1150,1161
+3176	Ádam Alexej		1	688
+3176	Ádam Ján		1	688,705,783,837,870,885,945
+3176	Adam Štefan		1	837,882,885
+3176	Ádam Štefan	ž. Júlia r. Uvegešová	1	705,774,783,884,1040,1041,1150,1161
+3176	Ádamová Alžbeta r. Verešová		1	1060,1062
+3176	Adamová Júlia r. Tóthová		0	95
+3176	Ádamová Júlia r. Uvegesová	m. Štefan	1	837,884
+3176	Ádamová Margita	mal	1	769,846
+3176	Balecová Regina r. Tothová		1	1042,1043
+3176	Balog Alexander		1	774,1040,1041,1061,1062,1150,1161
+3176	Balog Alexander	mal	1	774,872,1040,1041,1150,1161
+3176	Balog Alexander	ž.Mária r.Goneziová	1	1096
+3176	Balog František		1	774,1040,1041,1062,1150,1161
+3176	Balog Jan		1	872,992,1062
+3176	Balog Ján	mal	1	774,1040,1041,1150,1161
+3176	Balog Jozef		1	992,1062
+3176	Balog Jozef	mal	1	872
+3176	Balog Jozef	ž.Žofia r.Jakabová	1	1101
+3176	Balog Július	mal	1	872
+3176	Balog Ľudovit	nezl	1	1062
+3176	Balog Ľudovít	syn Michala	1	1042,1043
+3176	Balog Peter		1	1061,1062
+3176	Balog Štefan	mal	1	774,1040,1041,1150,1161
+3176	Balog Štefan	ž.Estera r.Lukácsová	1	1061,1081
+3176	Balog Vincent		1	992,1062
+3176	Balogh Alexander		1	879,880
+3176	Balogh Alexander	ž. Mária r. Gonczi	1	729,762,763,774,817,868,896,905,976,985,997,1000,1040,1041,1053,1061,1064,1150,1161
+3176	Balogh Alexander	ž.Mária r.Gonczi	1	698,701
+3176	Balogh František		1	804,820,823,880,966,976,1042,1043,1061
+3176	Balogh František	ž. Alžbeta r. Štefanová	1	763,971
+3176	Balogh Ján		1	1061,1062
+3176	Balogh Ján	star	1	1042,1043
+3176	Balogh Ján	syn Pavla	1	976
+3176	Balogh Ján	ž. Alžbeta r. Ivánová A	1	762,774,815,1040,1041,1042,1043,1150,1161
+3176	Balogh Ján	ž. Alžbeta r. Kissová	1	867,970
+3176	Balogh Ján	ž. Mária r. Bercziková	1	728,729,735,762,905,997,1053,1064
+3176	Balogh Ján	ž. Mária r. Nagyová	1	763,774,1000,1040,1041,1150,1161
+3176	Balogh Ján	ž.Mária r.Bercziková	1	698
+3176	Balogh Ján	ž.Mária r.Nagyová	1	701
+3176	Balogh Jozef		1	774,814,1040,1041,1042,1043,1150,1161
+3176	Balogh Jozef	ž. Žofia r. Jakabová	1	729,749,763,774,896,971,1040,1041,1053,1150,1161
+3176	Balogh Július	ž. Ester r. Nagyová	1	763,817,1042,1043
+3176	Balogh Július	ž.Ester r.Nagyová	1	701
+3176	Balogh Ľudovít	ž. Barbora r. Baloghová	1	763
+3176	Balogh Peter		1	763,774,880,1036,1040,1041,1150,1161
+3176	Balogh Peter	ž. Mária r. Brezová	1	814,815,1042,1043
+3176	Balogh Štefan		1	880,1061
+3176	Balogh Štefan	ž. Estera r. Lukácsová	1	774,1040,1041,1150,1161
+3176	Balogh Vincent	syn Petra a Márie	1	754,1061
+3176	Balogh Žigmund		1	1062
+3176	Baloghová Alžbeta		1	729,1042,1043
+3176	Baloghová Alžbeta r. Demesová	m. Štefan	1	1036,1061
+3176	Baloghová Alžbeta r. Kissová	m. Ján	1	867,970
+3176	Baloghová Alžbeta r. Kissová	m.Ján	1	696
+3176	Baloghová Alžbeta r. Štefanová	m. František	1	1042,1043
+3176	Baloghová Barbora r. Baloghová		1	774,1040,1041,1150,1161
+3176	Baloghová Barbora r. Szabová	m. Peter	1	810
+3176	Baloghová Estera r. Baloghová	m.Ján	1	774,1040,1041,1150,1161
+3176	Baloghová Estera r. Kocsisová	m. Michal	1	992,1042,1043
+3176	Baloghová Estera r. Lukácsová	m.Štefan	1	774,1040,1041,1062,1150,1161
+3176	Baloghová Estera r. Nagyová	m. Július	1	906,1008,1036
+3176	Baloghová Júlia	dcéra Jána a Márie r. Štefan	1	1014,1036,1169,1170
+3176	Baloghová Mária r. Baloghová	m. Juraj	1	810
+3176	Baloghová Mária r. Ivánová	m. Žigmund	1	741
+3176	Baloghová Mária r. Nagyová	m. Ján	1	774,833,889,1040,1041,1150,1161
+3176	Baloghová Mária r. Štefanová	m. Ján	1	697
+3176	Baloghová Mária r. Štefanová	m.Ján	1	697
+3176	Baloghová Veronika r. Nagyová	v Amerike	1	940
+3176	Baloghová Zuzana r. Lukácsová	m. Peter	1	774,973,1040,1041,1150,1161
+3176	Balogová Alžbeta r. Štefanová		1	806,1136
+3176	Balogová Barbora		1	872
+3176	Balogová Barbora	mal	1	774,872,1040,1041,1150,1161
+3176	Balogová Helena	mal	1	774,872,1040,1041,1150,1161
+3176	Balogová Júlia	mal	1	1090
+3176	Balogová Mária		1	806,1136
+3176	Baranyaiová Mária r. Veresová	m. Ján	1	785
+3176	Becsavelová Mária r. Tóthová	m. Ján	1	1021
+3176	Bellák Alexander		1	1061,1062
+3176	Bellák Peter		1	762,1062
+3176	Bellák Peter	nezl	1	1061
+3176	Belláková Anna	nezl	1	1061
+3176	Belláková Mária r. Cserépová	m.Štefan	1	784
+3176	Belláková Mária r. Molnárová	m.Peter	1	1061
+3176	Benecká Alžbeta r. Demeterová		1	1036
+3176	Berczik Alexander	ž. Mária r. Baloghová	1	1061,1062
+3176	Bercziková Alžbeta r. Élesová	m. Karol	1	790,894,1024,1036,1062
+3176	Bercziková Eva r. Élesová		1	1036
+3176	Bercziková Mária r. Baloghová	m.Alexander	1	1061,1062
+3176	Béres Ján		1	1021
+3176	Béres Peter		1	1021
+3176	Béres Štefan		1	1021
+3176	Béresová Alžbeta r. Tóthová	m. Peter	1	774,1040,1041,1150,1161
+3176	Béresová Anna r. Pekárová		1	1021
+3176	Béresová Mária r. Pekárová		1	1021
+3176	Béresová Zuzana r. Czurková	m.Ján	1	1021
+3176	Béreš Ján	ž.Maria r.Pekárová	1	806,1136
+3176	Béreš Ondrej	ž.Mária r.Czapová	1	806,1136
+3176	Bérešová Mária r. Czapová		1	806,1136
+3176	Bergerová Helena r. Abrahámovicsová	m.Koloman	1	1061
+3176	Blahaová Mária r. Nagyová	m. Gejza	1	774,1040,1041,1150,1161
+3176	Bódi Ján		1	897
+3176	Bódi Juraj		1	897
+3176	Bódi Peter		1	897
+3176	Bodnárová Mária r. Fedicsová		1	1031
+3176	Bodnárová Mária r. Kondorová	m. Juraj	1	1061,1062
+3176	Body Július	ž.Margita r.Nagyová	1	872
+3176	Bodyová Margita r. Nagyová	m.Július	1	872
+3176	Bolcsházy Juraj		1	806,1136
+3176	Bosormenyi Frantíšek		1	806,1136
+3176	Bosormenyi Jozef	ž.Zuzana r.Tárciová	1	806,1136
+3176	Bosorményiová Zuzana r. Tárciová		1	806,1136
+3176	Brédová Mária r. Vlasáčová		1	806,1136
+3176	Bredy Andrej	ž.Mária r.Vlasáčová	1	806,1136
+3176	Bredy Ján		1	806,1136
+3176	Brezo Štefan	ž.Nina r.Rehová	1	806,1136
+3176	Brezová Nina r. Rehová		1	806,1136
+3176	Bugisová Alžbeta	mal	1	1061
+3176	Bugiš Alexander	mal	1	917
+3176	Bugiš Alexander	ž. Rozália r. Janosyová	1	774,1040,1041,1150,1161
+3176	Bugiš Péter		1	1061
+3176	Bugiš Štefan		1	774,908,917,1040,1041,1150,1161
+3176	Bugišová Alžbeta		1	1061,1062
+3176	Bugišová Barbora		1	1061,1062
+3176	Bulecová Regina r. Tóthová		1	774,1040,1041,1061,1062,1150,1161
+3176	Csabinová Mária r. Pallaiová	m.Ondrej	1	759,1162
+3176	Cserép Peter		1	1021
+3176	Cserépová Veronika r. Kocsisová	m. Ján	1	774,1040,1041,1150,1161
+3176	Csizmár Alexander	mal. syn Tomáša	1	1021
+3176	Csizmár Andrej		1	1021
+3176	Csizmár Ján	ml	1	1021
+3176	Csizmárová Júlia r. Tóthová	m. Michal	1	744,1055
+3176	Csizmárová Rozalia r. Oroszová		1	806,1136
+3176	Csokulyová Mária r. Lizáková	m.Štefan, Amerika	1	1061,1062
+3176	Cszurkóová Anna r. Medveová	m. Ján	1	744,774,1040,1041,1150,1161
+3176	Czokuly Alexander		1	1061,1062
+3176	Czokuly František		1	1061,1062
+3176	Czokuly Ján		1	1061,1062
+3176	Czokuly Štefan		1	1061,1062
+3176	Czokulyová Mária		1	1061,1062
+3176	Czokulyová Mária r. Lizáková	vd. m. Štefan	1	1061
+3176	Czokulyová Mária r. Lizáková	vd., m. Štefan	1	1062
+3176	Czokulyová Mária r. Tóthová		1	688,691,705,709,722,731,748,773,783,835,845,945
+3176	Czuprák Michal		1	1031,1036
+3176	Czuprák Peter		1	689,706,745,808,836,871,946,998,1025,1036
+3176	Czurkóová Anna r. Medveová	m. Štefan	1	1055
+3176	Čabina Peter		1	818,841
+3176	Čizmár Gabriel		1	806,1136
+3176	Čižmárová Júlia r. Károlyová		1	969,1113
+3176	Čuha Alexander		1	806,1136
+3176	Daničková Alžbeta r. Lizáková		1	712,752,994,1030,1036,1061,1062

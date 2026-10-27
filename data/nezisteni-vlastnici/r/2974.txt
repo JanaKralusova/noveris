@@ -1,0 +1,256 @@
+1685	HRČKOVÁ Magdaléna r. Kráľová		0	763
+1685	HRČKOVÁ Mária	čd.94	0	925
+1685	HRČKOVÁ Štefánia	čd.94	0	925
+1685	Hudec Jozef	zomrel	0	308
+1685	HUDEC Jozef		0	891
+1685	HYBKOVÁ Anastázia r. Rizikyová		0	475,489,490,562,563,567
+1685	CHORVÁTOVÁ Mária r. Kopálová		0	341,381,418,436,535,585,706,707,712,713,752,753,770,835,836,837,838,839,844,845,846,849,850,857,858,900,901,945,946,1106
+1685	IŠTVÁN Jozef	žen.Mária Pavlíková	0	838,839,857,858
+1685	IŠTVÁN Pavol	žen.Eleonóra Rizikyová	0	737,744,745,838,839,857,858
+1685	IŠTVANOVÁ Helena r. Eliašová		0	341,381,418,436,585,706,707,712,713,740,752,753,770,835,836,837,838,839,844,845,846,849,850,857,858,945,946
+1685	IŠTVÁNOVÁ Mária r. Pavlíková		0	838,839,857,858
+1685	JAKUBEJOVÁ Anna r. Lojková		0	349
+1685	JAMRICHOVÁ Alžbeta r. Bilčíková	Livina	0	381,713,752,753,844,849,850,946
+1685	JEŽO Jozef	žen.Mária Dubinová	0	838,839,857,858
+1685	JOŽOVÁ Mária r. Skodová		0	757
+1685	JUNASOVÁ Eleonóra r. Durišová		0	341,381,418,436,585,706,707,712,713,752,753,770,835,836,837,838,839,844,845,846,849,850,857,858,900,901,945,946
+1685	KAJABOVÁ Alžbeta r. Stručková		0	757
+1685	KARDOŠ Štefan	ž.Anna r.Rizikyová	0	921
+1685	KARDOŠOVÁ Anna r. Rizikyová		0	341,381,418,436,585,706,707,712,713,752,753,770,775,835,836,837,838,839,844,845,846,849,850,857,858,900,901,945,946
+1685	KICHOVÁ Mária r. Pauliková		0	341,381,418,436,712,752,753,770,849,850,900,901,945,946
+1685	KLAŠAYOVÁ Mária r. Dubinová		0	341,381,418,436,585,706,707,712,713,752,753,770,835,836,837,838,839,844,845,846,849,850,857,858,867,900,901,945,946
+1685	KŇAZEJOVÁ Anna r. Stručková		0	757
+1685	KOPÁL Donát	žen.Magdaléna Pavlíková	0	349,907
+1685	KOPÁL Ján	Veľké Kršteňany	0	535,1106
+1685	KOPÁL Ján	žen.Anna Balášová	0	341,381,418,436,585,706,707,712,713,752,753,770,835,836,837,839,844,845,846,849,850,900,901,945,946
+1685	KOPÁL Ján	žen.Jozefína Šutorová	0	955,964
+1685	KOPÁL Ján	žen.Katarína Pavlíková	0	341,381,418,436,585,706,707,712,713,733,752,753,770,835,836,837,838,839,844,845,846,849,850,857,858,900,901,945,946,955,964,965
+1685	KOPÁL Ján	žen.Pavlína Škvareninová	0	970
+1685	KOPÁL Jozef	čd.20	0	955,964
+1685	KOPÁL Jozef	PKV 477	0	956
+1685	KOPÁL Jozef	ž.Mária r.Kopálová	0	841
+1685	KOPÁL Jozef	ž.Mária r.Krajčejeová	0	888,927
+1685	KOPÁL Jozef	ž.Pavlína r.Švajlenková	0	341,381,418,436,535,585,706,707,712,713,752,753,770,835,836,837,838,839,844,845,846,849,850,857,858,900,901,945,946,1106
+1685	KOPÁL Juraj	žen.Mária Kopálová	0	947
+1685	KOPÁL Michal	čd.20	0	955,964
+1685	KOPÁL Rudolf	č.d.98	0	349
+1685	KOPÁL Rudolf	čd.98	0	954,962,964
+1685	KOPÁL Tomáš	žen.Mária Makvová	0	889
+1685	KOPÁL Vladimír	čd.2	0	926
+1685	KOPÁLOVÁ Anna r. Ďurišová		0	422
+1685	KOPÁLOVÁ Júlia r. Klašayová		0	341,381,418,436,585,706,707,712,713,752,753,770,835,836,837,838,839,844,845,846,849,850,857,858,900,901,945,946
+1685	KOPÁLOVÁ Mária r. Menšíková		0	909
+1685	KOPÁLOVÁ Mária r. Rizikyová		0	838,857,858
+1685	KOPÁLOVÁ Mária r. Straková		0	918
+1685	KOVÁČIK Jozef		0	341,381,418,436,585,706,707,712,713,752,753,770,835,836,837,838,839,844,845,846,849,850,857,858,900,901,945,946
+1685	KOVÁČIKOVÁ Anna		0	341,381,418,436,585,706,707,712,713,752,753,770,835,836,837,838,839,844,845,846,849,850,857,858,900,901,945,946
+1685	KOVÁČIKOVÁ Antónia		0	341,381,418,436,585,706,707,712,713,752,753,770,835,836,837,838,839,844,845,846,849,850,857,858,900,901,945,946
+1685	KOVÁČIKOVÁ Magdaléna		0	341,381,418,436,585,706,707,712,713,752,753,770,835,836,837,838,839,844,845,846,849,850,857,858,900,901,945,946
+1685	KOVÁČIKOVÁ Mária		0	341,381,418,436,585,706,707,712,713,752,753,770,835,836,837,838,839,844,845,846,849,850,857,858,900,901,945,946
+1685	KOVÁČIKOVÁ Milada	mal	0	341,381,418,436,585,706,707,712,713,752,753,770,835,836,837,838,839,844,845,846,849,850,857,858,900,901,945,946
+1685	KOVÁČOVÁ Anna r. Stručková		0	341,349,381,401,418,436,543,544,585,706,707,712,713,752,753,770,835,836,837,838,839,844,845,846,849,850,857,858,900,901,945,946
+1685	KRÁL Anton		0	838,839,857,858
+1685	KRÁL Antón	čd.10	0	341,381,418,436,585,706,707,712,713,752,753,761,762,763,764,770,835,836,837,838,839,844,845,846,849,850,853,857,858,900,901,945,946
+1685	KRÁL František	Tvrdošne čd.10	0	761
+1685	KRÁL Jozef	čd.10	0	341,381,418,436,585,706,707,712,713,752,753,762,763,764,770,835,836,837,838,839,844,845,846,849,850,857,858,900,901,945,946
+1685	KRÁL Jozef	ž.Pavlína r.Ježová	0	341,381,418,436,585,706,707,712,713,752,753,763,770,835,836,837,838,839,844,845,846,849,850,857,858,900,901,945,946
+1685	KRÁĽ Jozef	žen.Pavlína Ježová	0	852
+1685	KRÁL Jozef r. Král	že.Pavlína r.Ježová	0	764
+1685	KRÁL Peter r. Král	ž.Pavlína r.Ježová	0	763
+1685	KRÁLOVÁ Paulína r. Ježková	čd.10	0	341,381,418,436,585,706,707,712,713,752,753,770,835,836,837,838,839,844,845,846,849,850,857,858,900,901,945,946
+1685	KRÁĽOVÁ Pavlína r. Ježová		0	763,764,852
+1685	KREJČEJE Jozef	žen.Františka Tothová,čd.5	0	876
+1685	KRCHO Anton	žen.Mária Pankovová	0	341,381,418,436,585,706,707,712,713,752,753,770,835,836,837,838,839,844,845,846,849,850,857,858,900,901,945,946,959
+1685	KRCHOVÁ Mária r. Pavlíková		0	139,210,434,435,585,706,707,713,835,836,837,838,839,844,845,846
+1685	KRIŠTIN Ján	Veľké Kršteňany,čd.78	0	341,381,418,436,712,752,753,770,838,839,849,850,857,858,900,901,945,946
+1685	KRIŠTÍN Ján		0	585,706,707,713,835,836,837,844,845,846
+1685	KRIŠTIN Michal	ž.Mária r.Kňazeje	0	932
+1685	KRIŠTIN Rudolf		0	932
+1685	KRIŠTINOVÁ Magdaléna r. Gašparovičová		0	550
+1685	KTIŠTIN Peter	žen.Magdaléna Gašparovičová	0	549
+1685	KUDRYOVÁ Alojzia		0	169
+1685	LAURINCOVÁ Františka r. Stručková	čd.200	0	757
+1685	LEGÉŇ Ján		0	757
+1685	LEGÉŇ Jozef		0	757
+1685	MAKÁŇOVÁ Magdaléna		0	169
+1685	MAKVOVÁ Františka r. Homolová		0	862
+1685	MENŠÍKOVÁ Anna	mal.čd.64	0	969
+1685	MENŠIKOVÁ Anna r. Hlaváčová		0	578
+1685	MENŠÍKOVÁ Gabriela	čd.64	0	969
+1685	OBERT Ondrej		0	341,381,418,436,585,706,707,712,713,752,753,770,835,836,837,838,839,844,845,846,849,850,857,858,900,901,945,946
+1685	OBERT Pavel	žen.Mária Gahírová	0	838,839,857,858
+1685	OBERTOVÁ Mária r. Gahírová		0	838,839,857,858
+1685	ONDREJ Kuty		0	944
+1685	ORAVCOVÁ Anna r. Homolová		0	923,924
+1685	ORAVCOVÁ Helena r. Paňáková		0	47,50,871,1064
+1685	ORAVEC Anton	Kanada	0	924
+1685	ORAVEC Jozef	ž.Anna r.Homolová	0	923
+1685	PAŇAK Ján	žen.Petronela Uríková	0	341,381,418,436,585,706,707,712,713,752,753,770,835,836,837,838,839,844,845,846,849,850,857,858,900,901,945,946
+1685	PAŇAK Peter	ž.Magdaléna Havaldová	0	349
+1685	PAŇAK Peter	žen.Magdaléna Havaldová	0	906
+1685	PAŇAKOVÁ Magdaléna r. Havaldová		0	349,906
+1685	PAULIK Ján		0	341,381,418,436,585,706,707,712,713,752,753,770,835,836,837,838,839,844,845,846,849,850,857,858,900,901,945,946
+1685	PAVLÍKOVÁ Pavlína r. Mladková	čd.105	0	341,713
+1685	PAŽICKÁ Mária r. Balážková	čd.98	0	341,381,418,436,585,706,707,712,713,752,753,770,835,836,837,838,839,844,845,846,849,850,857,858,900,901,945,946
+1685	PETRÍK Jozef		0	948
+1685	PETRÍKOVÁ Rozália r. Staňová		0	955,964
+1685	POLONI Ján	mal	0	608
+1685	POLONI Jozef	Topolčany	0	893
+1685	POLONI Štefan	žen.Mária Sládková	0	608,893
+1685	POLONIOVÁ Helena	mal	0	608
+1685	PŠINKOVÁ Anna r. Stručková		0	757
+1685	RIZIKY František	čd.167	0	341,381,418,436,585,706,707,712,713,752,753,770,835,836,837,838,839,844,845,846,849,850,857,858,900,901,945,946
+1685	RIZIKY Ignác	žen.Irma Kmeťová	0	475,489,490,562,563,567
+1685	RIZIKY Ján	ž.Anna r.Plachá	0	381,713,753,838,839,849,850,857,858
+1685	RIZIKY Kretus	Orechovce č.28	0	560
+1685	RIZIKY Ľudovít	čd.47	0	341,381,418,436,585,706,707,712,713,752,753,770,835,836,837,838,839,844,845,846,849,850,857,858,900,901,945,946
+1685	RIZIKY Marek	žen.Štefánia Kopálová	0	838,839,857,858
+1685	RIZIKY Peter	čd.59	0	488
+1685	RIZIKY Vincent	čd.167	0	381,418,562,566,713,752,753,770,844,849,850,900,901,946
+1685	RIZIKY Vincent	čd.59	0	381,418,713,752,753,770,844,849,850,900,901,946
+1685	RIZIKY Vincent	žen.Helena Hlaváčová	0	562,563,567
+1685	RIZIKYOVÁ Anastázia	čd.59	0	488
+1685	RIZIKYOVÁ Anna r. Staňová		0	838,839,857,858
+1685	RIZIKYOVÁ Antónia	čd.59	0	488
+1685	RIZIKYOVÁ Gabriela	čd.59	0	488
+1685	RIZIKYOVÁ Mária r. Staňová		0	283
+1685	RIZIKYOVÁ Pavlína r. Kmeťová		0	838,839,857,858
+1685	RODO Ivan, Ing.		0	349
+1685	RODOVÁ Hilda r. Battlayová		0	960
+1685	RYBÁR Ján	ž.Mária r.Davidová	0	349,955,964
+1685	RYBÁR Jozef	ž.Pavlína r.Kováčová	0	349,955,964
+1685	RYBÁR Michal	ž.Rozália r. Vincúrová	0	349
+1685	RYBÁR Michal	ž.Rozália r.Vincúrová	0	955,964
+1685	SANTORIS Ján	žen.Anna Eliášová,čd.41	0	341,381,418,436,585,706,707,712,713,752,753,770,835,836,837,838,839,844,845,846,849,850,857,858,900,901,945,946
+1685	SANTORISOVÁ Anna r. Eliášová		0	870
+1685	SANTORISOVÁ Anna r. Eliášová	čd.41	0	341,381,418,436,585,706,707,712,713,752,753,770,835,836,837,838,839,844,845,846,849,850,857,858,900,901,938,945,946
+1685	SILADIOVÁ Helena	čd.46	0	341,381,418,436,585,706,707,712,713,752,753,770,835,836,837,838,839,844,845,846,849,850,857,858,900,901,945,946
+1685	SILLADIOVÁ Helena	čd.46	0	584
+1685	SLUKOVÁ Viktoria r. Bilčíková		0	50,452,1064
+1685	STAŇO Ján	ž.Katarína Beljanská	0	955,964
+1685	STAŇO Jozef		0	955,964
+1685	STAŇOVÁ Anna		0	955,964
+1685	STAŇOVÁ Helena		0	955,964
+1685	STAŇOVÁ Jozefína		0	955,964
+1685	STAŇOVÁ Magdaléna		0	955,964
+1685	STANOVÁ Magdaléna r. Bilčíková		0	409,915
+1685	STAŇOVÁ Magdaléna r. Bilčíková	čd.55	0	341,381,418,436,585,706,707,712,713,752,753,770,835,836,837,838,839,844,845,846,849,850,857,858,900,901,945,946
+1685	STAŇOVÁ Mária		0	955,964
+1685	STRAKA Cyril	č.d.21	0	349
+1685	STRAKA Cyril	čd.21	0	359,958,985
+1685	STRAKA Ján	ž.Anna r.Belianska	0	838,839,857,858
+1685	STRAKA Jozef	čd.114	0	919
+1685	STRAKA Jozef	PKV 356	0	428
+1685	STRAKA Michal	žen.Alžbeta Klašayová	0	847
+1685	STRAKA Peter	žen.Alojzia Pažíková	0	341,381,418,436,712,752,753,770,849,850,945,946
+1685	STRAKA Peter	žen.Pavlína Tomová	0	585,706,707,713,835,836,837,838,839,844,845,846,857,858
+1685	STRAKOVÁ Ilona r. Gašparovičová		0	773
+1685	STRAKOVÁ Jolana r. Gašparovičová		0	838,839,857,858
+1685	STRAKOVÁ Štefánia	čd.77	0	433
+1685	STRAKOVÁ Valéria r. Kopálová		0	383,456,458,838,839,857,858,861,910,1079
+1685	STRUČKA Jozef	čd.110	0	543
+1685	STRUČKA Jozef	žen.Mária Kopálová	0	341,381,418,436,585,706,707,712,713,752,753,770,835,836,837,838,839,844,845,846,849,850,857,858,900,901,945,946
+1685	STRUČKA Štefan	Veľké Kršteňany,čd.79	0	341,381,418,436,585,706,707,712,713,752,753,770,835,836,837,838,839,844,845,846,849,850,857,858,900,901,945,946
+1685	SVITKOVÁ Marta		0	341,381,418,436,585,752,770,838,839,849,850,857,858,900,901,946
+1685	ŠKÁLNIKOVÁ Paulína r. Dubinová		0	559,767,1033
+1685	ŠKODA Jozef	1	0	757
+1685	ŠUŇALOVÁ Magdaléna r. Vlčková		0	416,417
+1685	ŠUŠANEC Ján	žen.Mária Kopálová	0	838,839,857,858
+1685	TOMA Tomáš	žen.Mária Uhlárová	0	879
+1685	TOMOVÁ Magdaléna r. Uríková		0	381,418,713,752,753,770,844,849,850,900,901,946
+1685	UHLÁR Jozef	žen.Mária Krajčejová	0	381,713,752,753,844,845,846,849,850,946
+1685	UHLIAR Jakub	žen.Helena Abrahamová	0	883
+1685	URÍK Daniel	žen.Cecília r.Matušková	0	44,838,839,857,858
+1685	URÍK Jozef	Šimonovany č.11	0	888
+1685	URÍK Jozef	žen.Alžbeta Krištínová	0	575,579,580,732,912,952
+1685	URÍK Rudolf	Šimonovany č.11	0	888
+1685	URIK Vincent	Amerika	0	954,963,964,965
+1685	URÍKOVÁ Alžbeta r. Krištínová		0	441,952,1037,1078,1089,1097,1098,1102
+1685	URÍKOVÁ Alžbeta r. Straková		0	341,381,418,431,436,585,706,707,712,713,752,753,770,835,836,837,838,839,844,845,846,849,850,857,858,900,901,945,946
+1685	URÍKOVÁ Cecília r. Matušková		0	838,839,857,858,913
+1685	VANKO Antón	mal	0	349,721,722
+1685	VELŠICOVÁ Augustína Gizela r. Foltánová		0	893
+1685	VRBOVSKÁ Alojzia r. Paňáková		0	47,50,871,1064
+1686	Andriseková Mária r. Obešlová-porubčinová	Šuja, Rajec nad Rajčankou	0	553
+1686	Bátorová Emília r. Lednická		0	347,1299
+1686	Bohdál Imrich r. Bohdál	žen. Johana r.Bohdálová, Veľká Čierna	0	634
+1686	Bohdal Ján r. Bohdal	otec Imrich, matka Johana r.Bohdálová, Veľká Čierna	0	634
+1686	Bohdal Jozef r. Bohdal	žen.Mária r.Daneková, Veľká Čierna	0	870,1062,1063,1064,1149,1582
+1686	Bohdál Jozef r. Bohdál	otec Valent, Veľká Čierna	0	634
+1686	Bohdál Ladislav r. Bohdál	otec Imrich, matka Johana r.Bohdálová, Veľká Čierna	0	634
+1686	Bohdal Ondrej	nar.27.11.1877, zomr.3.4.1966,Veľká Čierna 54,ž. Anna r.Domanická, Veľká Čierna	0	634
+1686	Bohdál Ondrej r. Bohdál	žen. Apolena r.Hudková, Veľká Čierna	0	634
+1686	Bôtoš Gašpar r. Bôtoš	Rajecká Lesná	0	1122,1123,1219,1221,1253,1429
+1686	Bôtoš Šimon r. Bôtoš	Rajecká Lesná	0	1122,1123,1219,1221,1253,1429
+1686	Bôtoš Štefan r. Bôtoš	Rajecká Lesná	0	1122,1123,1219,1221,1253,1429
+1686	Briestenská Anna r. Kardošová	matka Mária r.Pohanková-Pajtášová	0	1359
+1686	Burianová Sidónia r. Pohanková-tkáčová		0	1281
+1686	Čelko Karol r. Čelko	Borišin,žen. Štefánia r.Zbíňovcová	0	1298,1299,1311
+1686	Čelko Karol r. Čelko	nar.02.08.1896, Borišin,žen.Veronika r.Dzureková	0	1311
+1686	Čelko Martin		0	278
+1686	Čerňanská Mária r. Lednická-kapčiarová	Domanižská Lehota	0	1171,1346
+1686	Čerňanský Anton r. Čerňanský	otec Mikuláš,matka veronika r.Pohanková	0	449,991,993,997,1457,1464,1466
+1686	Čerňanský Štefan r. Čerňanský	žen. Mária r.Novosadová	0	634
+1686	Dobeš Emil r. Dobeš		0	1163
+1686	Dobeš Fabián r. Dobeš	otec Karol	0	1163
+1686	Dobeš František r. Dobeš	matka Mária r.Obešlová-Danišková	0	870,1062,1063,1064,1149,1163,1582
+1686	Dobeš Ján r. Dobeš	otec Karol	0	1163
+1686	Dobešová Anna r. Dobešová	matka Mária r.Obešlová-Danišková	0	870,1062,1063,1064,1149,1163,1582
+1686	Dobešová Júlia r. Dobešová	otec Karol	0	1163
+1686	Dobešová Štefánia r. Dobešová	otec karol	0	1163
+1686	Domanický Gabriel r. Domanický	zomrel vo Veľkej Čiernej, žen.Verona r.Červancová	0	756
+1686	Domanický Karol r. Domanický	žen.Johana r. Ševčiková	0	1049
+1686	Dubecová Františka r. Lukáčová	Šuja	0	409
+1686	Dudáková Mária r. Lednická-mišova		0	1246
+1686	Ďurek Jozef r. Ďurek	Škrábik, žen.Barbora r.Pohanková-Tkáčová	0	1253
+1686	Ďurek Peter r. Ďurek	nar. 09.07.1896	0	1219
+1686	Dzurek Mikuláš r. Dzurek		0	1122,1123,1219,1221,1253,1429
+1686	Dzurek Mikuláš r. Dzurek	nar. 07.12.1886, žen.Magdaléna r.Pohanková-tkáčová	0	1253
+1686	Dzureková Františka		0	1021
+1686	Dzureková Františka r. Dzureková		0	1123,1219,1221,1253
+1686	Galko Ján r. Galko	žen.Katarína r.Ševčíková, syn kazimír premenovaný	0	375
+1686	Galko Peter		0	26
+1686	Galková Štefánia r. Vitková		0	19,1232
+1686	Galková-záborská Magdaléna r. Pohanková	nar. 26.05.1887, Záborská rod. Pohanková-tkáčová	0	1371
+1686	Granzerová Helena r. Vančová		0	661
+1686	Guttstein Bernard r. Guttstein		0	350,351,1379,1386,1387,1388,1420,1467
+1686	Hamarová Anna r. Lednická		0	1172,1277
+1686	Harantová Anna r. Bohdálová		0	634
+1686	Heššová Anna r. Lednická-richtárechová	zomr. v r.1961	0	1316
+1686	Holko Jozef r. Holko	Lednický, otec Ján	0	1325
+1686	Holková Magdaléna r. Čerňanská	otec Mikuláš,matka Veronika r.Pohanková	0	1324
+1686	Hudček Ondrej r. Hudček		0	1315
+1686	Hudček Rudolf r. Hudček		0	1315
+1686	Hudek František r. Hudek	žen.Mária r.Harantová	0	586,1398
+1686	Hulín Kornel r. Hulín	nar. 22.09.1897, zomrel, žen.Žofia r.Lednická-Čmelová	0	1271
+1686	Janeková Anna r. Čelková		0	278
+1686	Janeková Anna r. Čelková-borišinová		0	225,1311,1314
+1686	Kardoš Anton r. Kardoš	Turčan,otec Juraj	0	480,1091,1216,1658
+1686	Kardoš Anton r. Kardoš	Veselický, č.p.103	0	1044,1209,1556
+1686	Kardoš František r. Kardoš	matka Mária r.Pohanková-Pajtášová	0	1359
+1686	Kardoš František r. Kardoš	Veselický,otec Karol	0	1361
+1686	Kardoš Ján		0	26
+1686	Kardoš Ján r. Kardoš	Turčan,žen. Karolína r.Obešlová-Danišková	0	1233,1234,1252
+1686	Kardoš Ján r. Kardoš	Veselický, č.p.18	0	1362
+1686	Kardoš Ján r. Kardoš	Veselický,žen.Barbora r.Obešlová-Gazdová	0	1165,1363
+1686	Kardoš Jozef	USA	0	270
+1686	Kardoš Jozef r. Kardoš	matka Mária r.pohanková-Pajtášová	0	1359
+1686	Kardoš Karol		0	26
+1686	Kardoš Karol r. Kardoš	Turčan, otec Juraj	0	1216
+1686	Kardoš Karol r. Kardoš	Turčan, otec Štefan	0	1234
+1686	Kardoš Karol r. Kardoš	Turčan,otec Štefan,matka Anna r.Lednická-Mišova	0	1252
+1686	Kardoš Mikuláš	Kardošová Vieska	0	270
+1686	Kardoš Ondrej r. Kardoš	Krištof, žen. Magdaléna r.Augustínová	0	1155,1156,1160,1161,1322
+1686	Kardoš Rudolf	Rajec	0	270
+1686	Kardoš Rudolf r. Kardoš	Šiander,otec František,matka Veronika r.Obešlová-Porubčinová	0	322,1084,1085,1300,1530
+1686	Kardoš Stanislav r. Kardoš		0	1330
+1686	Kardoš Štefan	Osvald, matka Verona-Kardošová-dolná, Obešlová	0	1297
+1686	Kardošová Anna r. Pohanková	Šianderová r.Pohanková-Malechová,otec Pavel, matka Barbora r	0	1302
+1686	Kardošová Anna r. Pohanková	Veselická r.Pohanková-Tkáčová,matka Verona r.Pohanková-Čižmá	0	1360
+1686	Kardošová Barbora r. Obešlová	nar. 23.02.1897, Veselická r.Obešlová-Gazdová,manž. Ján	0	1165,1166,1173,1368
+1686	Kardošová Emília r. Kardošová	Turčanová, otec Juraj	0	480,1091,1216,1658
+1686	Kardošová Karolína r. Obešlová	Turčanová r.Obešlová-Danišková	0	514,537,1173,1278,1336
+1686	Kardošová Katarína r. Hudčeková	Veselická	0	1044,1209,1556
+1686	Kardošová Mária	Krištofová Gašparova dcéra	0	1160,1161,1322,1330
+1686	Kardošová Mária r. Kardošová	krištofová, otec Gašpar	0	653,654,983,984,1103,1155,1156,1184,1349,1350,1574
+1686	Kardošová Štefánia r. Sádecká-zigušová	otec Jozef	0	1271

@@ -1,0 +1,256 @@
+2802	LANDAU Cilly		1	2975
+2802	LAŽOVÁ Anna		1	2876
+2802	LEĽO Ján		1	2900
+2802	LEĽO Ján	1	0	2393
+2802	LEĽO Michal		1	2900
+2802	LEĽO Michal	1	0	2393
+2802	LESANDOKOVÁ Mária	r SABOLOVÁ	1	2928,2972
+2802	MACUROVÁ Helena	r ZOŠČÁKOVÁ	1	2963
+2802	MAŠLEJOVÁ Mária	r VAŇUGOVÁ	1	2888
+2802	MERGEŠČÍK Ján	mal	1	2893
+2802	MERGEŠČÍK Jozef	1	1	2990
+2802	MERGEŠČÍK Michal	mal	1	2893,2990
+2802	MERGEŠČÍK Mikuláš		1	2895
+2802	MIČÁK Ján	zomrel	0	2231,2256,2293,2296,2304,2393
+2802	MIHALCO Juraj	ž Mária r ŠČAMBOROVÁ	1	2972
+2802	MIHALCOVÁ Mária	r ŠČAMBOROVÁ	1	2972,2989
+2802	MIHALÍK Ján		0	2273,3812
+2802	MIHALÍK Ján	1	1	2898
+2802	MIHALÍK Peter	ž Mária r ANDREJKOVÁ	1	2982
+2802	MIHALÍKOVÁ Mária	r ANDREJKOVÁ	1	2982
+2802	MIHALÍKOVÁ Mária	rod.Pivovarníková	0	2273,3812
+2802	MIHÁLIKOVÁ Mária	r PIVOVARNÍKOVÁ	1	2898
+2802	MICHALÍK Ján		1	2972
+2802	MOTÝĽ Juraj		1	2889
+2802	MOTÝĽOVÁ Paraska		1	2893
+2802	MURÍN ANDREJKO JOZEF		0	2958,2963
+2802	MURÍNOVÁ Anna	r ANDREJKOVÁ	1	1569,1908,3413,3440
+2802	NEBESNÁ Mária	r PUCHÍROVÁ	1	2891
+2802	PACHATOVÁ Anna	r SABOLOVÁ	1	2928,2972
+2802	PAŇKO Ján	Chavčák	0	2254
+2802	PAŇKO Ján	ž Mária r SAGANOVÁ	1	2882
+2802	PAŇKOVÁ Anna	rod.Jacurová	0	2241,3781,3865
+2802	PAŇKOVÁ Mária	r SAGANOVÁ	1	2882
+2802	PIVOVARNÍK Jozef		1	1878,2304,2900,3444,3554
+2802	PIVOVARNÍK Jozef	1	0	2314
+2802	PIVOVARNÍK Juraj	LEŠKIV	1	2900
+2802	PIVOVARNÍKOVÁ Anna		1	1878,2900,2966,3444,3554
+2802	PIVOVARNÍKOVÁ Anna	mal	0	2304
+2802	POPÍKOVÁ Helena	r ANTONÍKOVÁ	1	2973,2981,2989
+2802	PUCHÍR Mikuláš		1	2891
+2802	SABOL Ján		1	2928,2972
+2802	SABOL Jozef	1	1	2928,2972
+2802	SABOL Michal		1	2928,2972,2983
+2802	SABOL Mikuláš		1	2223,2267,2928,2972
+2802	SABOL Mikuláš	1	0	2280
+2802	SABOL Peter		1	2928,2972
+2802	SABOL Vasiľ		1	2928,2972
+2802	SABOLOVÁ Anna		1	2928
+2802	SABOLOVÁ Mária	r SOROČINSKÁ	1	2898
+2802	SABOLOVÁ Paraska		1	2928,2972
+2802	SLOTOVÁ Mária	dcéra Petra	0	2251,3655
+2802	SOPOLIGOVÁ Mária	r JUHAŠČÍKOVÁ	1	457,3419
+2802	SPOLOK BÝVALYCH URBARIALISTOV		0	1902
+2802	STACH Michal		1	2894
+2802	STACHOVÁ Helena	r ŠAJKOVÁ	1	3002
+2802	ŠKRABOVÁ Paraska	r SLOTOVÁ	1	2898
+2802	ŠMAJDA Ján	1	1	2991
+2802	ŠMAJDA Juraj	1	1	2991
+2802	ŠMAJDOVÁ Anna	r KOROTKÁ	1	2898
+2802	ŠMAJDOVÁ Anna	rod.Korotká	0	2307
+2802	ŠMAJDOVÁ ANNA R.KOROTKÁ		0	2273,3812
+2802	ŠMAJDOVÁ Mária		1	2991
+2802	ŠRAGOVÁ Anna		1	2973,2989
+2802	ŠRAGOVÁ Anna	r SAGANOVÁ	1	2973,2989
+2802	ŠRAGOVÁ Helena		1	2973,2989
+2802	ŠRAGOVÁ Mária		1	2973,2989
+2802	ŠVAHLA Michal		0	2305
+2802	TKÁČ Andrej		1	2973
+2802	TKÁČ Ján		1	2973
+2802	TKÁČ Jozef		1	2973
+2802	TKÁČ Juraj		1	2973
+2802	TKÁČ Vasiľ		1	2973
+2802	VANČÍKOVÁ Mária	r MERGEŠČÍKOVÁ	1	2893
+2802	VAŇUGA Juraj		1	2888
+2802	Vaňuga Peter	1914	1	384,634,2445,2958,2963,3424,3425,3446,3592,3703
+2802	VAŇUGA Peter		1	2888
+2802	VAŇUGOVÁ Anna	r ANDREJKOVÁ	1	539,844,3411,3749,3750
+2802	VAŇUGOVÁ ANNA		1	2921
+2802	VARCHOĽ Michal		1	3003
+2802	VARCHOĽOVÁ Zuzana	r ROHÁĽOVÁ	1	3003
+2802	ZÁVODOVÁ Mária	r TKÁČOVÁ	1	2973
+2802	ZDRAVECKÁ Mária	r BORŠČOVÁ	1	2969
+2802	ZOŠČÁK Ján		1	2890,2963
+2802	ZOŠČÁK Jozef		1	2891
+2802	ZOŠČÁK Juraj	ž Mária r LUKAČIŠINOVÁ	1	2963
+2803	ADAMKOVIČOVÁ Mária r. Vojtková		0	307,573,707,801,821,1148,1286,1316,1317
+2803	ANDERKO Ján r. Anderko		0	919
+2803	ANDERKO Ján r. Anderko	PKV17-Daletice	0	1197,1451
+2803	ANDERKO Jozef r. Anderko	Onderko,PKV 337	0	913,926,934
+2803	ANDERKO Jozef r. Anderko	PKV17-Daletice	0	1197,1451
+2803	ANDERKO Štefan r. Anderko	PKV17-Daletice	0	1197,1451
+2803	Anderková Mária	PKV17-Daletice	0	1197,1451
+2803	ANDERKOVÁ Mária r. Dučajová		0	1197,1451
+2803	Astoriová Mária		0	1148
+2803	Astoriová Mária r. Macejková	manžel Andrej, Aštaryová?	0	573,1286
+2803	Aštaryová Mária r. Priščáková	manžel Andrej,PKV 108	0	742
+2803	BALČÁKOVÁ Mária r. Germušková		0	899
+2803	BALOG Ondrej r. Balog	PKV 337	0	913,914,926,934
+2803	BALOGOVÁ Mária r. Jaško		0	920
+2803	BALUN Andrej r. Balun		0	1018
+2803	BEDNÁR Imrich r. Bednár		0	1090
+2803	BEDNÁR Imrich r. Bednár	Loja	0	298
+2803	Bednár Jozef r. Bednár		0	1148
+2803	Bednár Vincent r. Bednár	Loja,Andrej,zomrel 1.4.1982	0	849
+2803	BEDNÁROVÁ Anna		0	958
+2803	Bednárová Helena r. Karabinošová	zomr.3.7.1995	0	849
+2803	Bednárová Helena r. Karabinošová	zomrela 3.7.1995	0	592
+2803	BEDNÁROVÁ Mária r. Loja	PKV 61	0	298
+2803	Bekeč Andrej r. Bekeč		0	931,935
+2803	BEKEČ Andrej r. Bekeč	Daletice	0	1204
+2803	Bekeč Ján r. Bekeč	Daletice	0	1204
+2803	Bekeč Ján r. Bekeč	mladší, PKV 337	0	913,926,931,934,935,945,946,1455
+2803	BEKEČ Jozef r. Bekeč		0	931,932,935,945,946,1204,1455
+2803	BEKEČ Matej r. Bekeč		0	926,931,935,945,946,1204
+2803	BEKEČOVÁ Alžbeta		0	945,946
+2803	BEKEČOVÁ Mária r. Olejárová		0	1196
+2803	BEKEČOVÁ Žofia r. Macejová		0	932
+2803	Berdisová Anna r. Miškufová	manžel Vincent,PKV 97,493	0	476,511
+2803	BERDISOVÁ Margita r. Miškufová		0	1512
+2803	Berdisová Mária r. Ščavnická	zomrela 19.5.1942	0	511
+2803	BERNÁTOVÁ Anna		0	1202
+2803	BERNÁTOVÁ Helena		0	1202
+2803	BERNÁTOVÁ Žofia		0	1202
+2803	BIALKO Andrej r. Bialko		0	105,728,772,817
+2803	Bialko Ján r. Bialko	zomrel 4.1.1989	0	1441,1466
+2803	Bialko Matej r. Bialko	PKV 440, zomrel 19.03.1933	0	972
+2803	Bialko Matej r. Bialko	zomr.19.03.1933	0	1148
+2803	Bialko Matej r. Bialko	zomrel 19.03.1933	0	1502,1713
+2803	Bialková Mária r. Čajková		0	1847
+2803	BOGDAN Štefan r. Bogdan		0	1111
+2803	BOGDANOVÁ Mária r. Benková		0	1111
+2803	Borovec Karol r. Borovec	zomrel 13.7.1962	0	1468,1632
+2803	Červeňáková Mária r. Miškufová	manžel Ján,PKV 97,493	0	476,510,511
+2803	Červeňáková Žofia	maloletá v r.1939	0	510
+2803	Čišľak Juraj		0	1684
+2803	Čišľaková Anna r. Tobiášová		0	1684
+2803	DEMKOVÁ Alžbeta r. Karafová		0	901
+2803	Dučaj Matej r. Dučaj	manželka Anna r.Sinaľová	0	913,925,926,934
+2803	Dučajová Alžbeta r. Rigaszová	manžel Štefan	0	924
+2803	Dučajová Anna r. Sinaľová	manžel Matej	0	925
+2803	Dudáš Ján r. Dudáš	Daletice	0	1204
+2803	Džurman Jozef r. Džurman	zomrel 29.7.1973	0	1468,1632
+2803	FEDORKO Ján r. Fedorko	dcéra Anna	0	918
+2803	Fedorková Anna	dcéra Jána	0	918
+2803	FERENC Ján r. Ferenc		0	894
+2803	Feščák Juraj		0	535
+2803	Frajtková Johana r. Timková		0	1182
+2803	FRANCOVÁ Anna r. Starincová		0	1055
+2803	GAL Andrej r. Gal		0	581
+2803	GÁĽ Ján Jozef r. GÁĽ	maloletý v r.1933	0	583
+2803	GAL Jozef r. Gal		0	54,889,1655
+2803	Gal Matej r. Gal	manželka Anna r.Dudášová	0	1085,1112
+2803	GALLOVÁ Alžbeta r. Gallová		0	1092
+2803	GALLOVÁ Anna r. Gallová		0	1092,1114
+2803	GALLOVÁ Emma r. Gallová		0	1092,1114
+2803	GALLOVÁ Helena r. Gallová		0	1092,1114
+2803	Galmišová Mária r. Lutterová	manžel Andrej, zomrela 18.2.1969	0	83,84,197
+2803	GAĽO Štefan r. Gaľo		0	1500
+2803	Gaľová Anna		0	1148
+2803	Gaľová Anna	PKV 440	0	972
+2803	GALOVÁ Mária r. Kohutová		0	535
+2803	Germuška Jozef r. Germuška	maloletý	0	1161
+2803	Germušková Alžbeta r. Macejková	manžel Ján	0	79,80,195,196,817,822,823
+2803	Germušková Terézia r. Germušková	maloletá	0	1161
+2803	Graga Anton		0	1148
+2803	GREGA Andrej		0	195,196,218
+2803	GREGA Anton r. Grega	PKV 81	0	79,573,1286
+2803	Gregová Alžbeta		0	1148
+2803	GREGOVÁ Alžbeta r. Macejková	PKV 427	0	79,195,573,1286
+2803	Grejták Pavol		0	1700
+2803	Grejtáková Mária r. Fedorová		0	1700
+2803	GUBČIKOVÁ Mária		0	1058
+2803	GUBČÍKOVÁ Žofia		0	960
+2803	GULAŠOVÁ Anna		0	894
+2803	HALČÁK Matej r. Halčák		0	534
+2803	Haľková Alžbeta	zomr.14.06.1973	0	1148
+2803	Haľková Mária	maloletá v r.1940, výmaz maloletosti v r.1952	0	1058
+2803	HARNIČÁR Jozef r. Harničár		0	1510
+2803	Harničár Peter r. Harničár, Ing.		0	928
+2803	HORVÁTH Elemír r. Horváth	PKV 94,154,220	0	778
+2803	Hudáček Juraj r. Hudáček	zomrel 11.1.1973	0	1468,1632
+2803	JACO Andrej r. Jaco	PKV 60	0	890,900
+2803	JACO František r. Jaco	PKV 60	0	890,900
+2803	JACO Jozef r. Jaco		0	890,900
+2803	Jakab Štefan	maloletý v r.1877, výmaz maloletosti v r.1882	0	573,1148,1286
+2803	JAKUBČIN Andrej		0	239,573,701,731,797,858,878,1148,1286,1649
+2803	Jakubčín Antonín	manž. Anna	0	1148
+2803	Jakubčín Antonín r. Jakubčín	PKV 440, manželka Anna	0	972
+2803	Jakubčin Ján		0	1148
+2803	Jakubčin Ján	PKV 6,67	0	239,573,701,731,797,858,878,1286,1649
+2803	Jenča Imrich		0	1691
+2803	Jenčová Anna r. Majcherová		0	1691
+2803	Jurčišin Ignác r. Jurčišin	manželka Mária r.Jenčová,Daletice	0	908,913,926,934
+2803	Jurčišinová Mária r. Jenčová	manžel Ignác,Daletice	0	908
+2803	JUSKOVÁ Anna r. Olejník	PKV 74	0	735
+2803	Kandra Jozef r. Kandra	manželka Mária r.Poláková	0	1103
+2803	KANDRA Jozef r. Kandra		0	1096
+2803	Kandra Matej	zomr.30.03.1949	0	1148
+2803	Karabinoš Andrej r. Karabinoš	maloletý v r.1905, výmaz maloletosti v r.1917	0	307,573,707,725,736,801,819,821,1148,1286,1316,1317
+2803	Karabinoš Imrich r. Karabinoš	maloletý v r.1905, výmaz maloletosti v r.1921	0	307,573,707,725,736,801,821,1148,1286,1316,1317
+2803	Karabinoš Ján		0	1148
+2803	Karabinoš Ján	Gregoško, PKV 440	0	432,972
+2803	Karabinoš Ján	mal v r 1905 výmaz mal v r 1916	0	1148
+2803	Karabinoš Ján r. Karabinoš	maloletý v r.1905, výmaz maloletosti v r.1916	0	307,573,707,725,736,801,1286,1316,1317
+2803	Karabinoš Ján r. Karabinoš	manželka Justína r.Lešová, zomrel 18.12.1983	0	104,821
+2803	Karabinoš Jozef	manž. Apolónia	0	1148
+2803	Karabinoš Jozef r. Karabinoš	manželka Apolónia	0	1502,1713
+2803	KARABINOŠ Jozef r. Karabinoš	Gazda	0	574
+2803	Karabinoš Štefan r. Karabinoš	zomrel 04.11.1980	0	146,307,573,819,1286,1444
+2803	Karabinošová Apolónia	manžel Jozef, zomrela 04.10.1937	0	1502,1713
+2803	Karabinošová Apolónia	zomr 04.10.1937	0	1148
+2803	Karabinošová Justina r. Lešová	zomrela 15.05.1988	0	307
+2803	Karabinošová Mária r. Mártonová	manžel Ján, zomrela 02.05.1965	0	218
+2803	KARAFA Andrej r. Karafa		0	901
+2803	Karaffová Alžbeta r. Triščová	manžel Štefan	0	901
+2803	KARAFOVÁ Anna r. Magdová		0	535
+2803	KAUFMAN Max r. Kaufman		0	1020
+2803	KAUFMAN Tibor r. Kaufman		0	1020
+2803	KAUFMANOVÁ Helena r. Kaufmanová		0	1020
+2803	KAUFMANOVÁ Margita r. Kaufmanová		0	1020
+2803	Knut Jozef r. Knut	manželka Anna r.Tudaj, zomrel 17.03.1964	0	1468,1632
+2803	Knutová Alžbeta	zomrela 24.10.2001	0	986
+2803	Knutová Anna r. Bednár Loja	manžel Ján, zomrela 21.10.1991	0	791
+2803	Kočan Andrej r. Kočan	manželka Anna	0	1190,1191,1204
+2803	KOČAN Andrej r. Kočan		0	959,1451
+2803	KOHUT Andrej r. Kohut		0	535
+2803	KOHUT Jozef r. Kohut		0	535
+2803	KOHUT Michal r. Kohut		0	535
+2803	Kolarčíková Mária	zomr.12.12.1965	0	1148
+2803	Kolarčíková Mária	zomrela 12.12.1965	0	1502,1713
+2803	KOLÁROVÁ Anna r. Poláková		0	1467
+2803	KOLCUN Jozef r. Kolcun		0	1497
+2803	Kolin Ján r. Kolin	maloletý v r.1887,PKV 60	0	890,900
+2803	Kolin Štefan r. Kolin	maloletý v r.1887,PKV 60	0	900
+2803	KOLIN Vincent r. Kolin		0	890
+2803	Kollár Ondrej r. Kollár	zomrel 24.01.1976	0	1468,1632
+2803	KOLPÁK Andrej r. Kolpák		0	535
+2803	Koľšovský Andrej r. Koľšovský	zomrel 13.08.1977	0	1208,1468,1632
+2803	Korinek Matej		0	1148
+2803	KORINEK Matej r. Korinek	PKV 440	0	972
+2803	KOSTRAB Andrej r. Kostrab		0	957
+2803	KOVAČ Andrej		0	220,663
+2803	KOVAČ Gustav r. Kovač	PKV 8,233	0	663
+2803	Kováč Ján		0	1148
+2803	KOVAČOVÁ Mária		0	220,663
+2803	Kozáková Mária r. Hudáková		0	1182
+2803	KRAVČIK Jozef r. Kravčik		0	535
+2803	KRIVÁ Alžbeta		0	921
+2803	KRIVÝ Anton		0	921,1202
+2803	KRIVÝ František		0	921
+2803	KRIVÝ Ján		0	921,1202
+2803	Krivý Jozef r. Krivý	manželka Žofia r.Kočanová	0	565
+2803	KRIVÝ Jozef r. Krivý		0	913,921,926,934,1202
+2803	KRIVÝ Jozef r. Krivý	PKV1,17-Daletice	0	1190,1191,1197,1451
+2803	KRIVÝ Pavol r. Krivý		0	921,1202
+2803	KRIVÝ Vincent r. Krivý		0	921,1202

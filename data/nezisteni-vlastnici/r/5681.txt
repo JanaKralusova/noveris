@@ -1,0 +1,256 @@
+3195	Uharčeková Katarína r. Prešinská		0	100,102,482,542,1860,1862,1863,1865,1874,1875,1876,2213,2215,2506,2783,3529,3530,4365
+3195	Urban Ján r. Urban		0	91,2271,3454
+3195	Urban Ondrej r. Urban		0	91,2271,3454
+3195	Urbanová Katarína r. Borbélyová		0	1924,3467,3468
+3195	Vajda Andrej r. Vajda		0	3219
+3195	Vajda František r. Vajda		0	317,323,771,2235,2236,2364,2925,3287,3556,3557,3566,3567,3805
+3195	Vajda František r. Vajda	žena Verona r. Borbélyová	0	4017
+3195	Vajda Ján r. Vajda		0	451,3630
+3195	Vajda Karol r. Vajda		0	3474,3976,4545
+3195	Vajda Ľudovít r. Vajda		0	2828
+3195	Vajda Michal r. Vajda		0	99,482,542,2053,2925,3287,3501,3698
+3195	Vajda Michal r. Vajda	žena Katarína r. Prešinská	0	4048,4097,4101,4115
+3195	Vajda Michal r. Vajda	žena Terézia r. Kósová	0	2782
+3195	Vajda Peter r. Vajda		0	3646,3698
+3195	Vajda Peter r. Vajda	žena Agneša r. Szőkeová	0	2782
+3195	Vajda Peter r. Vajda	žena Katarína r. Berkešová	0	321,3401
+3195	Vajdová Agneša r. Szőkeová		0	2508,2511,3252
+3195	Vajdová Anna r. Szőkeová		0	2355,2356
+3195	Vajdová Anna r. Szomorová	č.d.620/1924, Jozef	0	2150,3706,3784
+3195	Vajdová Barbora r. Noszáková		0	3049
+3195	Vajdová Katarína		0	3630
+3195	Vajdová Katarína r. Prešinská		0	4048,4097,4101,4115
+3195	Vajdová Veronika r. Borbélyová		0	1611,1612,1623,1724,1945,3152,3191,3192,3193,3238,3517,3518,3519,3520,3521,4017
+3195	Valábik Ján r. Valábik		0	2421,3388
+3195	Valábik Štefan r. Valábik		0	4053,4083
+3195	Valábiková Anna		0	2421,3388
+3195	Valábiková Mária		0	2421,3388
+3195	Valaška František r. Valaška	č.d.2002/1922	0	3801
+3195	Valaška Štefan r. Valaška		0	2908,3666
+3195	Valašková Alžbeta		0	2908,3666
+3195	Valašková Margita		0	2908,3666
+3195	Varga František r. Varga		0	3637,3638,3649
+3195	Varga Gabriel r. Varga		0	1665
+3195	Varga Ján r. Varga		0	2871,3637,3638,3707,3708,3751,3921
+3195	Varga Ján r. Varga	žena Agneša r. Malá	0	1985,3833
+3195	Varga Jozef r. Varga		0	3071
+3195	Varga Jozef r. Varga	žena Agnesa r. Tacmanová	0	713,3588,3589,3649,3866
+3195	Varga Ľudovít r. Varga	žena Mária r. Mészárošová	0	4048,4101,4102,4115
+3195	Varga Michal r. Varga		0	3637,3638
+3195	Varga Michal r. Varga	nar. 1899 č.188	0	2161,2328,2469,3205,3250,3692
+3195	Varga Michal r. Varga	žena Anna r. Fehérová	0	3679
+3195	Varga Michal r. Varga	žena Magdaléna r. Borbélyová	0	4101,4102,4104,4115
+3195	Varga Michal r. Varga	žena Mária r. Bábánová	0	2323,2329,2331,3433,3761
+3195	Varga Michal r. Varga	žena Terézia r. Jakušová	0	3638,3707
+3195	Varga Pavol r. Varga		0	3637,3638
+3195	Varga Štefan r. Varga		0	2628
+3195	Varga Vavrinec r. Varga	žena Anežka r. Kisucká	0	4048,4101,4102,4115
+3195	Varga Vavrinec r. Varga	žena Barbora r. Plevková	0	3903
+3195	Varga Vincent r. Varga	žena Anna r. Mésárošová	0	2536,4145
+3195	Vargová Agneša r. Kisucká		0	3384,4048,4101,4102,4105,4115
+3195	Vargová Agneša r. Malá		0	1985,1991,2271,3637,3638,3707,3708,3751,3833,4000
+3195	Vargová Agneša r. Tacmanová	č.d.8774/1937	0	2643,3791
+3195	Vargová Anna r. Balážiová		0	523,524,1768,1773,1775,1924,2422,2537,2539,2587,2693,3009,3084,3328,3329,3525,3526,3551,3552,3711,3750,4016,4285,4535
+3195	Vargová Anna r. Mésárošová		0	3570,4145
+3195	Vargová Emerencia		0	401,1795,1796,1797,1798,1872,2167,3818
+3195	Vargová Katarína r. Borbélyová		0	3649,3882
+3195	Vargová Magdaléna r. Borbélyová		0	4101,4102,4104,4115
+3195	Vargová Mária r. Babanová		0	2160
+3195	Vargová Mária r. Mésarošová		0	393,2924,4033,4048,4101,4102,4115,4536,4537
+3195	Vargová Rozália r. Pavlovičová		0	311,1723,1724,1727,1729,1788,2470,2720,2815,2837,3056,3243,3333,3334,3450,3451,3510,3637,3708,3838,3839,3840,3934,4432
+3195	Vargová Terézia r. Jarušková		0	1963
+3195	VARGOVÁ Terézia, SR		0	185
+3195	Varsányi Ferdinand r. Varsányi		0	1618
+3195	Varšányi Juraj r. Varšányi		0	3891
+3195	Varšanyi Vojtech r. Varšanyi		0	3891
+3195	Varšányiová Anna		0	3891
+3195	Varšányiová Jolana r. Fazekašová		0	3906,3907
+3195	Varšányiová Mária r. Palyaiová		0	3891
+3195	Vaškovičová Alžbeta r. Vargová		0	3569,3678
+3195	Verešová Anna r. Prešinszká		0	1869,3965
+3195	Verešová Mária r. Obertová		0	1618
+3195	Vinter Alexander r. Vinter		0	1844
+3195	Vondráčeková Júlia r. Koňová		0	4019
+3195	Vöröšová Anna r. Prešinská		0	549,1885,1954,3985,4001
+3195	Wirthová Katalin r. Kleinová		0	3910
+3195	Zellerová Anna r. Mésárošová		0	3899
+3195	Zlharcseková Katarína r. Prešinská		0	2952
+3195	Zorádová Etela r. Balázsiová		0	2483,2532
+3195	Zsoldos František r. Zsoldos	č.d.3808/1907	0	3597
+3195	Zsoldos Ján r. Zsoldos	č.d.3808/1907	0	3597
+3195	Zsoldos Jozef r. Zsoldos	č.d.1842/1914, m.Júlia	0	3597
+3195	Zsoldos Jozef r. Zsoldos	č.d.3808/1907	0	3597
+3195	Zsoldos Lazár r. Zsoldos	č.d.5557/1908	0	3597
+3195	Zsoldos Lorincz r. Zsoldos	č.d.5557/1908	0	3597
+3195	Zsoldos Ondrej r. Zsoldos	č.d.2204/1909	0	3597
+3195	Zsoldosová Júlia r. Stariková	č.d.1842/1914, m.Jozef	0	3597
+3196	BAHURINSKÝ Jozef r. Bahurinský	po Jánovi Bahurinskom, manž. Amália r. Koričanská	0	540
+3196	BACHÁR Anton r. Bachár	manž. Štefánia Síp, Veľký Čepčín čd. 62	0	574
+3196	BACHÁROVÁ Marta Mária r. Vladárová	po Alexandrovi Vladárovi	0	53
+3196	BALLA Martin r. Balla	v Amerike	0	73,554
+3196	Boďa Jozef		0	30
+3196	BOĎA Michal r. Boďa		0	524
+3196	BŐHMER Ondrej r. Bőhmer	po Anne Bemerovej r. Medzihorskej	0	421
+3196	BŐHMEROVÁ Anna r. Bőhmerová	po Anne Bemerovej r. Medzihorskej	0	421
+3196	BŐHMEROVÁ Mária r. Bőhmerová	po Anne Bemerovej r. Medzihorskej	0	421
+3196	BORCOVANOVÁ Amalia Vilma r. Vladárová		0	53
+3196	BROSMAN Ján r. Brosman	v USA, po Andrejovi Brosmanovi, manž. Anna r. Filová	0	53,172,173
+3196	BROZMAN Ján r. Brozman	Veľký Čepčín čd. 16	0	573
+3196	BUBÁK František r. Bubák	v Amerike	0	451
+3196	BUBÁK Ján r. Bubák	slobodný, z Tur. sv. Martina	0	451
+3196	BUBÁK Jozef r. Bubák	manž. Mária r. Panšimová	0	451
+3196	BUBÁKOVÁ Mária r. Bubáková	maloletá, z Turč. sv. Martina	0	451
+3196	CVIKOVÁ Mária r. Cviková	z Diviak čp. 124	0	495
+3196	ČAPČÍKOVÁ Štefánia r. Dávidíková	č.d.3; č.d.3	0	455
+3196	ČIERNA Anna r. Chorváthová		0	561
+3196	ČIERNA Mária r. Kleskeňová		0	566
+3196	ČIERNY Juraj r. Čierny	manž. Mária r. Gajdošová	0	417,562
+3196	DANIŠ Ján r. Daniš	Nitrianske Pravno, Pionierska 385	0	144
+3196	DANIŠ Michal r. Daniš	manž. Zuzana r. Boďová, z Dubového 61	0	501
+3196	DANIŠOVÁ Mária r. Hullová	Michalík	0	406
+3196	Danišová Zuzana-Fliťo, SR		0	295
+3196	ĎANOVSKÝ Pavol r. Ďanovský	manž. Zuzana r. Verešová, Veľký Čepčín čd. 58	0	582
+3196	DUBOVEC Ján r. Dubovec	slobodný, Michalov syn, z Diviak čp. 43	0	496
+3196	DUBOVEC Michal r. Dubovec	manž. Mária r. Holešová z Diviak čp. 43	0	496
+3196	FÁBRYOVÁ Anna r. Vladárová	z Turč. sv. Martina	0	216
+3196	Fillo Juraj, SR		0	343
+3196	Fillo Ondrej, SR		0	343
+3196	FOLKUSHÁZY Ludovít r. Folkusházy		0	53
+3196	FRAŇOVÁ Barbora r. Vladárová		0	53
+3196	Fuzák Ivan, SR		0	285
+3196	FUZÁK Michal r. Fuzák	manž. Mária r. Ertlová, čp. 6	0	482
+3196	FUZÁKOVÁ Marta r. Rakytová	čp. 6	0	372
+3196	FUZÁKOVÁ Marta r. Rakytová	čp. 6; čp. 6	0	637
+3196	GAŠPARÍK Juraj r. Gašparík		0	53
+3196	HILMER Šefan Dr.  r. Hilmer	z Lučenca	0	53
+3196	HLAVAJOVÁ Mária r. Vladárová	z Turč. sv. Martina	0	53,216
+3196	HOKOVÁ Anna r. Hullová	Michalík	0	406
+3196	HRIVNÁK Ján r. Hrivnák		0	559
+3196	HRIVNÁK Ján r. Hrivnák	manž. Mária r. Šimová	0	98
+3196	HRIVNÁK Jozef r. Hrivnák	manž. Anna r. Boďová	0	498,500
+3196	HRIVNÁK Michal r. Hrivnák	po MIchalovi Hrivnákovi, manž. Mária r. Kubíková	0	541
+3196	HULLA Ján r. Hulla	Mihálik, manž. Mária r. Chvojková	0	406,588
+3196	HULLA Štefan r. Hulla	Požeský	0	222
+3196	CHORVÁTH Ján r. Chorváth	manž. Mária r. Kamenová, z Bodorovej č. 26	0	557
+3196	Chorváth Peter r. Chorváth		0	230,557
+3196	CHVOJKA Ján r. Chvojka	Strapec, manž. Zuzanar. Polerecká, z Ivančinej čp.7	0	514
+3196	CHVOJKA Ján r. Chvojka	v Rusku	0	160
+3196	CHVOJKA Michal r. Chvojka	slobodný z Ivančinej čp. 13	0	537
+3196	JANČO Dezider r. Jančo	z Budapešti	0	53
+3196	Jesenská Anna, SR		0	20
+3196	JESENSKÁ Berta r. Jesenská		0	53
+3196	JESENSKÁ Mária r. Jesenská		0	53
+3196	JESENSKÝ František r. Jesenský		0	53
+3196	KARAMAN Eduard r. Karaman		0	53,447
+3196	KARAMANOVÁ Božena r. Karamanová	čp.11	0	447
+3196	KARAMANOVÁ Eleonóra r. Karamanová		0	53
+3196	KARAMANOVÁ Marta r. Karamanová		0	53
+3196	KAŠUBA Jaroslav r. Kašuba	po Samuelovi Kašubovi	0	53
+3196	KAŠUBOVÁ Mária r. Števonková	čd. 9	0	519
+3196	KAVANOVÁ Zuzana r. Štrbová	po Jánovi Štrbovi	0	383,464,568,647,649
+3196	KEVICKÝ Berco r. Kevický	slobodný, Veľký Čepčín 36	0	572
+3196	KEVICKÝ Ján r. Kevický	súrodenci: Baltazár, Gejza. Šimon	0	485
+3196	KEVICKÝ Matej r. Kevický		0	53
+3196	KLESKEŇ Bohumír r. Kleskeň		0	334
+3196	Kleskeňová Irena		0	249
+3196	KMEŤ Jozef r. Kmeť	slobodný z Dubového	0	488
+3196	Knietelová Zuzana r. Brocsková, SR		1	344
+3196	Komposessorát kat. územia Veľký Čepčín		0	459
+3196	KORYČANSKÝ Ján Gábor r. Koryčanský	Veľký Čepčín čd. 56	0	579
+3196	KOŠA Ján r. Koša	manž. Zuzana r. Lettrichová, z Dubového	0	359,535
+3196	KOŠA Michal r. Koša	manž. Anna r. Považanová, č. 7	0	543
+3196	KUBÍK Ján r. Kubík		0	461
+3196	KUBÍK Juraj r. Kubík		0	461
+3196	KUBÍK Michal r. Kubík		0	461
+3196	KUBÍK Miloš r. Kubík		0	461
+3196	KURINSKÝ Karol r. Kurinský		0	473
+3196	LETRICH Ján r. Letrich	Dubové č. 16	0	531
+3196	Letrich Ondrej, SR		0	343
+3196	LETRICHOVÁ Anna r. Kučerová	Babašta	0	503
+3196	LETTRICH Michal r. Lettrich	z Dubového č. 24	0	491
+3196	LETTRICHOVÁ Janka r. Hullová	Michalík	0	406
+3196	Lichner Blažej, SR		0	343
+3196	LICHNER Jozef r. Lichner	slobodný	0	433
+3196	Lichner Jozef, SR		1	339
+3196	Lichner Michal, SR		1	339,343
+3196	Lichner Miloslav, SR		0	343
+3196	Lichnerová Anna, SR		0	343
+3196	Lichtnerová Emília r. Zádielská, SR		1	339
+3196	LUKÁČ Ján r. Lukáč	manž. Anna Gírethová, Rudno čd. 56	0	580
+3196	MACÁKOVÁ Mária r. Čullyová	po Andrejovi Čulý, manž. Mária r. Pavlíková z Hája	0	270
+3196	Medzihorská Emília, SR		0	343
+3196	Medzihorská Mária, SR		0	343
+3196	MENICH Ján r. Menich	manž. Anna r. Fuzáková	0	132,504
+3196	MENICHOVÁ Anna r. Fuzáková	manž. Ján Menich	0	132,504
+3196	MICHALÍK Ján r. Michalík	slobodný z Dubového čp.13	0	494
+3196	MICHALÍK Ján r. Michalík	syn Jána Michalíka z Dubového, manž. Anna r. Kmeťová	0	487
+3196	Mlynáriková Elena r. Karamanová, Revúca, SR		0	38
+3196	MLYNÁROVÁ Elena r. Karamanová	Revúca, Irmisova1	0	447,515
+3196	MRAČKO Ján r. Mračko	manž. Anna r. Peterencová	0	311
+3196	MRAČKO Jozef r. Mračko	manž. Anna r. Bošková	0	311
+3196	NEMČEKOVÁ Zuzana r. Kubíková		0	461
+3196	OČKAJ František r. Očkaj	manž. Mária r. Babčaniová	0	53
+3196	OČKAJOVÁ Mária r. Babčaniová	manž. František Očkaj	0	53
+3196	PÁLEŠOVÁ Mária r. Štrbová	čp. 41	0	55
+3196	PLICOVÁ Mária r. Košová	z Dubového	0	359
+3196	POLERECKÁ Anna r. Polerecká	po Michalovi Polereckom	0	234
+3196	Politická obec Bodorová		0	587
+3196	RAKŠÁNI Ivan r. Rakšáni		0	434
+3196	RAKŠÁNY Jozef Andrej r. Rakšány	po Anne Rakšány r. Miškoci, súr. Anna, Šimon, Ľudevít, Dušan	0	490
+3196	RAKŠÁNY Ľudevít r. Rakšány	po Anne Rakšány r. Miškoci, súr. Anna, Jozef-Andrej, Šimon	0	490
+3196	RAKŠÁNY Šimon r. Rakšány	po Anne Rakšány r. Miškoci, súr. Anna, Jozef-Andrej, Ľudevít	0	490
+3196	RAKŠÁNYI Šimon r. Rakšányi	po Terézii Rakšanyiovej	0	53
+3196	RAKŠÁNYOVÁ Anna r. Rakšányová		0	53
+3196	RAKYTOVÁ Marta r. Rakytová	po Gabrielovi Rakytovi, manž. Berta r. Kevická	0	176,632,633,634,635,648
+3196	Reichlová Anna r. Štrbová		0	506
+3196	REPOVÁ Emília r. Očkajová	po Márii Očkajovej r. Valockej	0	123
+3196	REVALLOVÁ Mária r. Revallová	slobodná, čd. 54	0	93,390,393,423
+3196	RUSŇÁK Ján r. Rusňák	Dolný, manž. Mária r. Michálková z Dubového	0	486
+3196	RUSNÁKOVÁ Anna r. Rusnáková	v Amerike	0	304,305
+3196	RUSNÁKOVÁ Emília r. Jariabková		0	497
+3196	RUTTKAYOVÁ Juliana r. Danková		0	53,521
+3196	RUTTKAYOVÁ Mária r. Vladárová	z Vrútok	0	53,216
+3196	SKOKNÁ Irene r. Koželuhová	po Márii Očkajovej r. Valockej	0	123
+3196	SKUHROVÁ Emília r. Vladárová	z Vrútok	0	358,402,403
+3196	SLANÁ Mária r. Jesenská	vdova z Vrútok	0	53
+3196	ŠIMKOVIČ Albert r. Šimkovič		0	151,352
+3196	ŠIMKOVIČ Bartolomej r. Šimkovič		0	151
+3196	ŠIMKOVIČ Jozef r. Šimkovič	manž. Alžbeta r. Revallová, z Banskej Bystrice	0	53,151,154,352
+3196	ŠIMKOVIČ Jozef r. Šimkovič	po Emílii Šimkovičovej r. Revallovej, manž. Božena	0	53,151,154,352
+3196	ŠIMO Michal r. Šimo	slobodný z Dubového	0	492
+3196	ŠKULTÉTYOVÁ Zuzana r. Očkajová		0	53
+3196	ŠMÁRIKOVÁ Jozefína r. Lehotská		0	53,521
+3196	ŠOTOVÁ Albína r. Šotová	nezl	0	450
+3196	ŠOTOVÁ Božena r. Šotová	nezl	0	450
+3196	ŠTANCEL Ivan r. Štancel	po Anne Štancelovej r. Vanickej	0	498
+3196	ŠTRBA Miroslav r. Štrba	po Michalovi Štrbovi, brat Slavomír	0	55
+3196	ŤAHÚŇOVÁ Anna		0	553
+3196	TRIMAJ Juraj r. Frimaj	manž. Zuzana r. Kondeková; manž. Zuzana r. Kondeková	0	431
+3196	TRIMAJ Juraj r. Trimaj	manž. Zuzana r. Kondeková	0	483
+3196	TRIMAJOVÁ Zuzana r. Kondeková	manž. Juraj Trimaj; manž. Juraj Trimaj	0	431
+3196	TRIMAJOVÁ Zuzana r. Šimkovičová	čp. 45; čp. 45	0	154,352
+3196	VALENTOVÁ Mária r. Kubíková	v Amerike	0	54
+3196	VÁMOŠI Viliam r. Vámoši	po Márii Vámošiovej r. Jesenskej, súr: Ján, Vilma	0	53
+3196	VANICKÁ Zuzana r. Vanická		0	498
+3196	VANICKÝ Juraj r. Vanický		0	498
+3196	VAŃOVÁ Berta r. Záthurecká		0	53,521
+3196	VLADÁR Alexander r. Vladár		0	53
+3196	VLADÁR Antonín r. Vladár		0	53
+3196	VLADÁR František r. Vladár		0	53
+3196	VLADÁR František r. Vladár	manž. Mária r. Téglašiová z Budapešti	0	53
+3196	VLADÁR Gabriel r. Vladár		0	53
+3196	VLADÁR Imrich r. Vladár		0	450,498
+3196	VLADÁR Ján r. Vladár		0	498
+3196	VLADÁR Ján r. Vladár	po Jánovi Vladárovi	0	53
+3196	VLADÁR Ján r. Vladár	slobodný, Veľký Čepčín čd. 19	0	583
+3196	VLADÁR Ján r. Vladár	z PKV 266	0	53
+3196	VLADÁR Július r. Vladár		0	53
+3196	VLADÁR Juraj r. Vladár		0	53
+3196	VLADÁR Karol r. Vladár		0	53
+3196	VLADÁR Ladislav r. Vladár		0	53
+3196	VLADÁR Ľudevít r. Vladár	Adameje	0	53
+3196	VLADÁR Michal r. Vladár		0	53
+3196	VLADÁR Mikuláš r. Vladár		0	53,360
+3196	VLADÁR Miloslav r. Vladár	po Jánovi Vladárovi	0	53
+3196	VLADÁR Pavol r. Vladár	starší, vdovec, Veľký čepčín 50	0	571
+3196	VLADÁR Rudolf Robert r. Vladár	po Alexandrovi Vladárovi	0	53

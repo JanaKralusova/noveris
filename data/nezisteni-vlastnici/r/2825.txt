@@ -1,0 +1,256 @@
+1581	ONDRUŠ Jozef	Huba	0	384,631
+1581	ONDRUŠ Jozef	mal	0	340,344,365,1387
+1581	ONDRUŠ Jozef	mal.1	0	384
+1581	ONDRUŠ Karol	hluchonemý	0	384,610,623,631,634
+1581	ONDRUŠ Matej	Huba	0	384,631
+1581	Ondruš Ondrej	žen. s Máriou rod. Kútnikovou	0	641
+1581	Ondruš Ondrej	žen. s Máriou rod. Kútnikovou; žen. s Máriou rod. Kútnikovou	0	560
+1581	ONDRUŠ Ondrej	Huba	0	384,631
+1581	ONDRUŠ Ondrej	mal	0	384
+1581	ONDRUŠ Peter	Huba, mal	0	384,631
+1581	Ondruš Štefan	Hrkút	0	562
+1581	ONDRUŠ Štefan	Huba	0	384,631
+1581	ONDRUŠKA Jozef	Hrkút	1	340,344,365,804,1119,1146,1219,1387
+1581	Ondrušová Anna	Jozefova Hrkútová Javorková; Jozefova Hrkútová Javorková	0	623
+1581	Ondrušová Anna	Pavková	0	623
+1581	ONDRUŠOVÁ Anna	Jozefova Hrkútová Javorková	0	591,646
+1581	ONDRUŠOVÁ Anna	Rošteková	0	384
+1581	ONDRUŠOVÁ Antónia	Ondrejova Hrkút, rod. Holíková; Ondrejova Hrkút	0	558
+1581	Ondrušová Antónia r. Holíková	Ondrejova Hrkút; Ondrejova Hrkút	0	805
+1581	ONDRUŠOVÁ Emília		0	384,610,623,631
+1581	Ondrušová Katarína	maloletá	0	631
+1581	ONDRUŠOVÁ Katarína		0	384,610,623,631
+1581	Ondrušová Mária	Ondrejova	0	560
+1581	Ondrušová Mária	Pavková	0	623
+1581	ONDRUŠOVÁ Mária	rod. Krajníková	0	599
+1581	Ondrušová Mária r. Krajníková		0	623
+1581	Ondrušová Mária r. Kútniková		0	641
+1581	Ondrušová Mária r. Kútniková	Ondrejova	0	641
+1581	Ondrušová Terézia		0	610,623
+1581	Ondrušová Zuzana	Pavková	0	623
+1581	Ondrušová Zuzana Hrkútová r. Gerecová Zverec		0	602
+1581	ONDRUŠOVÁ Žofia		0	384,610,623,631
+1581	ONDRUŠOVÁ Žofia	Hrkút	0	340,344,365,558,771,774,1387
+1581	ORAVCOVÁ Terézia	rod. Pudišová	0	586
+1581	Ovsák Ján		1	1084
+1581	Ovsáková Helena		1	1084
+1581	Palovič Anton		0	549,712,733
+1581	Palovič František		0	549
+1581	Palovič František	súrodenec Ján, Ondrej	0	712
+1581	Palovič Ján		0	549
+1581	Palovič Ján	1	0	549,733
+1581	Palovič Ján	súrodenec Ondrej, František	0	712
+1581	Palovič Ján ml.		0	549
+1581	Palovič Kvetoslav	mal	0	712
+1581	Palovič Kvetoslav mal.		0	549
+1581	Palovič Kvetoslav, zom. 13.9.1999		1	1036,1082
+1581	Palovič Ondrej		0	549
+1581	Palovič Ondrej	1	0	733
+1581	Palovič Ondrej	Lauko	0	712
+1581	Palovič Ondrej	súrodenec Ján, František	0	712
+1581	Palovič Ondrej	zom. 03.06.1989	1	973
+1581	Palovič Pavel		0	571,580,1495
+1581	Palovič Pavol		1	1084
+1581	Palovič Peter		0	549
+1581	Palovič Peter	mal	0	712
+1581	Palovičová Anna	a nápad	1	1084
+1581	Palovičová Anna	Ondrejova	0	549
+1581	Palovičová Anna r. Lacková, Hellová		0	712
+1581	Palovičová Antónia		0	549
+1581	Palovičová Katarína		0	549,733
+1581	Palovičová Margita		0	549,733
+1581	Palovičová Mária	Jánova, zomrela	1	1157
+1581	Pančíková Anna r. Škanderová		1	1119,1146,1219
+1581	PANČÍNOVÁ Anna	rod. Škanderová	0	340,344,365,1387
+1581	PAPARČÍK Anton		0	340,344,365,375,463,525,558,751,771,774,1387
+1581	PAPARČÍK Ján		0	340,344,365,375,463,525,558,751,771,774,1387
+1581	PAŠTRNÁK Ján		0	365
+1581	PAULÍNY Jozef		0	350
+1581	PAULÍNY Jozef	1	0	455,795
+1581	PAŽITKA Jozef	mal	0	340,344,365,1387
+1581	PAŽITKA Ladislav	mal	0	340,344,365,1387
+1581	Pažítka Ladislav	Jozef,Margita,Vincent,Marian,Milan,zom	1	1119,1146,1219
+1581	PAŽITKA Marián	mal	0	340,344,365,1387
+1581	Pažítka Marian, zom. 25.01.1994		1	1119,1146,1219
+1581	PAŽITKA Milan	mal	0	340,344,365,1387
+1581	PAŽITKA Vincent	mal	0	340,344,365,1387
+1581	Pažítková Anna r. Burganová	súr. Martin, Jozef, Anton	1	1053
+1581	Pažítková Anna r. Burganová	zom. 23.01.1997	1	997
+1581	PAŽITKOVÁ Margita	mal	0	340,344,365,1387
+1581	PEČKO Adam	Lapitko, mal	0	369
+1581	Pečko Alojz	Matej	1	1084
+1581	PEČKO Alojz	Jurek	0	413,667
+1581	PEČKO Alojz	Lapitko	0	369
+1581	PEČKO Jozef	Jurek	1	663,941
+1581	Pečko Juraj	a Anna	1	1084
+1581	Pečko Juraj	Lapitko 1	0	549,552
+1581	PEČKO Juraj	Lapitko	0	369
+1581	Pečko Ondrej	Jurek 1	0	727
+1581	Pečko Ondrej	žen. s Máriou rod. Trasoňovou	0	739
+1581	PEČKO Ondrej		1	667,1084
+1581	PEČKO Ondrej	1	0	413
+1581	PEČKO Ondrej	Jurek	0	663
+1581	PEČKO Ondrej	zo Stankovian	0	663
+1581	Pečko Peter	1	1	1084
+1581	PEČKO Peter		0	663,668,713,837
+1581	Pečková Anna	Lapitková	0	549,552
+1581	PEČKOVÁ Anna		0	439
+1581	PEČKOVÁ Anna	vd. rod. Urbanová	0	439
+1581	Pečková Anna r. Šimová	zom. 14.02.1972	1	940,1022,1327
+1581	PEČKOVÁ Emília	Jureková	0	413,667
+1581	PEČKOVÁ Estera	rod. Helová	0	413,667
+1581	Pečková Katarína		0	713
+1581	PEČKOVÁ Klára		0	369
+1581	PEČKOVÁ Marcela	Lapitková	0	369
+1581	Pečková Margita r. Hrkútová, Alojzova		1	1015
+1581	PEČKOVÁ Mária	Lapitková	0	369
+1581	Pečková Mária r. Mišíková Mudráková	Jurek	0	710
+1581	Pečková Mária r. Tatárová		0	728
+1581	Pečková Mária r. Tatárová	Jureková	0	727
+1581	Pečková Mária r. Trasoňová	Ondrejova Jurek	0	739
+1581	Pečková Žofia	vdova	1	1084
+1581	Pečnerová Mária r. Letková		1	1015
+1581	PEKÁR Anton		1	916,1027
+1581	Pekár Ján	Pukaj	0	577
+1581	PEKÁR Matej		0	403,406,407,478
+1581	Pekár Ondrej	žen. s Máriou rod. Chorváthovou zo Stank	1	916
+1581	Pekár Ondrej	žen.s Máriou rod.Chorváthovou zo Stank	1	1027
+1581	PEKÁR Ondrej		0	399
+1581	Pekárová Mária		1	1084
+1581	PEKÁROVÁ Mária	Ondrejova rod. Chorvátová	0	399
+1581	Pekárová Žofia	1	1	1084
+1581	Penciak Ján	starší	0	836
+1581	Penciak Ján	z Ľubochne	1	1101
+1581	Penciaková Anna		1	1219
+1581	Penciaková Anna	Rudolfova	1	1119,1146
+1581	PENCIAKOVÁ Anna	Ondrejova rod. Šantová	0	340,344,365,1387
+1581	PENCIAKOVÁ Anna	rod. Šantová	0	340,344,354,365,458,495,539,1387
+1581	PENCIAKOVÁ Anna	Rudolfova rod. Šantová	0	340,344,365,1387
+1581	Penciaková Anna r. Šantová		1	602,1119,1146
+1581	Penciaková Anna r. Šantová	Rudolfova	1	1219
+1581	PETHO Fridrich		0	586
+1581	PIECKA Ján		0	586
+1581	PIKLA Jozef		1	340,344,365,1119,1146,1219,1387
+1581	Pikla Karol	ženatý s Jolanou Grantnerovou	1	1119,1146,1219
+1581	PIKLA Karol		0	340,344,365,1387
+1581	Piklová Katarína	Jozefova	1	1119
+1581	PIKLOVÁ Katarína	rod. Chrenková	0	340,344,365,1387
+1581	Piklová Katarína r. Chrenková	Jozefova	1	1146,1219
+1581	Pincelová Antónia r. Kútniková		0	791
+1581	Pincelová Mária	Lacová, mal., zomrela	1	1119,1146,1219
+1581	PINCELOVÁ Mária	Lacová, mal	0	340,344,365,1387
+1581	PINCELOVÁ Mária	rod. Chovanová Kostolníková	0	340,344,365,1387
+1581	PIROH Bartolomej		0	586
+1581	PIROH Cyprián		0	586
+1581	PIROH Štefan		0	586
+1581	PIROHOVÁ Emília		0	586
+1581	Piroch Štefan	zo Švošova; zo Švošova	0	623
+1581	PLAVÁ Antónia	Jarošová	1	340,344,365,403,539,542,1119,1146,1209,1219,1387
+1581	Pleško Ján		1	1140
+1581	Pleško Jozef		1	1140
+1581	Pleško Štefan		1	1140
+1581	PLŠKO Jozef		1	340,344,365,375,463,525,558,1119,1146,1219,1387
+1581	Plško Karol r. Plško, 034 93, Hubová, č. 221, SR	zomrel 14.10.1985	0	538,566
+1581	Plšková Antónia, SR		0	365
+1581	PLŠKOVÁ Katarína		0	340,344,365,463,558,1387
+1581	Plšková Mária	Jánova ml	0	500
+1581	PLŠKOVÁ Mária		0	340,344,365,375,463,558,1387
+1581	PLUHATÁROVÁ Anna		1	934,1009
+1581	Pluhatárová Mária	Chomivet Haneso	0	725
+1581	PLUHATÁROVÁ Zuzana	rod. Trasoňová zo Stankovian; zo Stankovian	0	674
+1581	POLÁK Ján		0	586
+1581	POLGÁROVÁ Johana	Marková rod. Kleinová-Dr	0	401
+1581	Polgárová Johana r. Kleinová, Dr.	Marková	0	648
+1581	Poliak Alojz		1	1084
+1581	POLIAK Ondrej		0	586
+1581	Poliak Viktor		1	725,1084
+1581	Poliak Viktor	a Anna	1	1084
+1581	Poliaková Anna	a spol	1	1084
+1581	Poliaková Anna r. Pekárová		0	725
+1581	POLIAKOVÁ Helena	rod. Štúrová Hašková	0	681,1464,1465
+1581	POLIAKOVÁ Mária	Jánova rod. Baganová	0	422
+1581	Poliaková Mária r. Baganová	Jánova	1	999
+1581	Poliaková Mária r. Baganová, Jánova		1	1019
+1581	POLIAKOVÁ Zuzana	Jánová rod.Ondrušová Rošteková	0	384
+1581	Poljak Juraj		1	1041,1141
+1581	Poljak Juraj	1	1	1140
+1581	Poljak Marian	mal	1	1041
+1581	Poljak Marian	súr. Ľudmila, Ondrej	1	1057,1335
+1581	Poljaková Anna r. Poljaková		1	1057,1335
+1581	Poljaková Mária		1	1121
+1581	Poljaková Mária r. Baganová		1	1043,1121
+1581	Polunc Ondrej		0	600,623
+1581	Poluncová Anna	Jánova rod.Fokor Pukaj zo Švoš; Jánova rod.Fokor Pukaj zo Švoš	0	560,623
+1581	POLUNCOVÁ Anna	Jánova rod.Fokor Pukaj zo Švoš	0	615,630
+1581	Pompáš Štefan r. Pompáš, 034 91, Švošov, č. 183, SR	zomrel 27.07.1993	0	645
+1581	Pompášová Žofia	Sidorová, mal	0	601,604,623
+1581	Poskerová Anna r. Trojáková	zomrela	1	1220
+1581	Potravné družstvo v Švošove		0	646
+1581	Pozemné stavby Žilina		1	1201
+1581	Prídavok Ján	Fazuba, ml	0	637
+1581	PRIPIN Ján	Ganza	0	399
+1581	PUČEK Jozef		1	413,1013
+1581	PÚČEKOVÁ Anna	rod. Lacková	0	429,532
+1581	Púčeková Anna r. Lacková		1	734,950,1034,1078,1079
+1581	Pučková Terézia		1	1084
+1581	PUDIŠ Ján	st	0	586
+1581	PUDIŠ Karol	st	0	586
+1581	PUDIŠ Štefan		0	586
+1581	PUDIŠ Teodor		0	586
+1581	PUDIŠOVÁ Anna	rod. Chovancová	0	586
+1581	PUDIŠOVÁ Margita		0	586
+1581	PUDIŠOVÁ Mária		0	586
+1581	PUDIŠOVÁ Perpetua	mal	0	586
+1581	PUDIŠOVÁ Štefánia		0	586
+1581	Pukaj Andrej		1	1219
+1581	PUKAJ Ján	Fokor 1	0	372
+1581	PUKAJ Ján	starší	0	388
+1581	Pukaj Ondrej	Fokor	0	560,615,623,630
+1581	PUKAJ Ondrej		0	344,1387
+1581	Pukaj Štefan		0	560
+1581	Pukajová Karolína r. Chovancová		1	936,1496
+1581	Pukajová Mária r. Chilová	Fokorová Jurajova	0	636
+1581	Pukajová Mária r. Chilová	Fokorová Jurajova; Fokorová Jurajova	0	602,623
+1581	Pukajová Zuzana	Fokorová	0	560
+1581	Pullmanová Máša	Mária Jánova	1	1179
+1581	PUNČO Ján		0	386
+1581	PUNČO Ján	mladší	0	340,344,365,1387
+1581	PUNČO Jozef	Žiara	0	340,344,365,1387
+1581	Punčová Katarína		0	762
+1581	Punčová Katarína, SR		0	771,774
+1581	Punčová Kristína		0	762
+1581	Punčová Kristína, SR		0	771,774
+1581	Punčová Mária	Jánova	0	797
+1581	PUNČOVÁ Mária	Jánova rod. Durdiaková	0	340,344,365,1387
+1581	Punčová Mária r. Durdiaková		1	1119,1146,1219
+1581	Pupjak Jozef	ml., zomrel	1	1119,1146,1219
+1581	PUPJAK Jozef	ml	0	340,344,365,454,1387
+1581	RAČKOVÁ Helena	rod. Debnárová	0	586
+1581	Rapoš Ján		0	767,771,774
+1581	Rapoš Ján	1	0	743,771,774
+1581	Rapoš Ján	zomrel	1	1119,1146,1219
+1581	RAPOŠ Ján	mlad	0	346
+1581	RAPOŠ Ján	Škoda, ml	0	340,344,365,403,558,623,1387
+1581	Rapošová Helena r. Švindrová	Víťazová	1	1146,1219
+1581	Rapošová Helena r. Švindrová Víťazová		1	1119
+1581	RAPOŠOVÁ Katarína	Jozefova rod. Hrončová Durila	0	364
+1581	RAPOŠOVÁ Zuzana	rod. Černeková,zom. v D795/74	0	344,348,365,1387
+1581	Rapošová Zuzana r. Černeková, SR		0	340
+1581	RÁZGOVÁ Regína	rod. Debnárová	0	586
+1581	REHÁK Ondrej	Chovan	0	464
+1581	Remeník Ján, zom. 05.03.2001		1	1119,1146,1219
+1581	REMENÍKOVÁ Mária	rod. Široňová	0	771,774
+1581	Remenius Ján	ml	1	1174
+1581	RICHTEROVÁ Helena	rod. Stehurová	0	586
+1581	Ročiaková Katarína		0	550
+1581	ROČIAKOVÁ Katarína	rod.Žiarová,nepr.v D 1047/66; nepr.v D 1047/66	0	401
+1581	Ročiaková Katarína r. Žiarová	nepr.v D 1047/66; nepr.v D 1047/66	0	560,603,623
+1581	Roštek Ján		0	622,623
+1581	Roštek Jozef	žen. s Katarínou rod. Tomlyovou	0	344,365,1387
+1581	Roštek Jozef	žen. s Katarínou rod.Tomlyovou; žen. s Katarínou rod.Tomlyovou	0	795
+1581	Roštek Jozef	ženatý s Irenou rod. Pukajovou	0	655,658
+1581	ROŠTEK Jozef	žen. s Katarínou rod.Tomlyovou	0	539
+1581	Roštek Jozef r. Roštek	ženatý s Katarínou rod. Tomlyovou	0	340
+1581	Roštek Karol		0	622,623,651
+1581	ROŠTEK Karol	1	0	401
+1581	Roštek Vendelín		0	651

@@ -1,0 +1,256 @@
+2372	Pavlovský Imrich		0	379
+2372	Pavlovský Ján		0	4,148,404,548,615,637,638,640,641,670,702,724,828,853,854,908
+2372	Pavlovský Ján	Veľký Šariš - Dúbrava	0	77,894,895
+2372	Pavlovský Ján	ž Helena r. Hudáková	0	77,894,895
+2372	Pavlovský Ján, Kanada		0	557,670
+2372	Pavlovský Jozef		0	557,638,640,641,670,702,724,853,854
+2372	Pavlovský Juraj		0	535
+2372	Pavlovský Michal		0	148,490,557,638,640,641,670,702,724,853,854
+2372	Pavlovský Michal	1	0	490
+2372	Pavlovský Michal	ž Terézia r. Kravecová	0	172,924,934
+2372	Pavlovský Michal	ž Terézia r. Kravecová, Pusté Pole 181	0	77,318,894,895
+2372	Pavlovský Mikuláš		0	490
+2372	Pavlovský Ondrej		0	148
+2372	Pavlovský Peter		0	490
+2372	Pavlovský Štefan		0	404,548,615,637,828,908
+2372	Pavlovský Štefan	Prešov	0	77,894,895
+2372	Pekárová Júlia r. Filičková		0	363
+2372	Petrík Filip		0	484
+2372	Petrík Filip	1	0	484
+2372	Petrík Filip	2	0	500,610,611
+2372	Petrík Ján		0	428,476
+2372	Petrík Juraj	4	0	499
+2372	Petrík Juraj, Kanada		0	427
+2372	Petrík Michal		0	152,424,438
+2372	Petrík Mikuláš		0	493
+2372	Petrík Mikuláš	1	0	500,610,611
+2372	Petrík Peter		0	346,359,374,495,545,655,657
+2372	Petrík Štefan		0	499
+2372	Petrík Tomáš		0	493,653,655
+2372	Petrík Tomáš	1	0	500,610,611
+2372	Petríková Anna		0	346,359,374,453,499
+2372	Petríková Anna	1	0	500,610,611
+2372	Petríková Anna	2	0	516
+2372	Petríková Anna r. Chovancová		0	445
+2372	Petríková Helena		0	346,359,374,484
+2372	Petríková Helena	1	0	495
+2372	Petríková Helena	2	0	516
+2372	Petríková Mária		0	516
+2372	Petríková Mária r. Baňasová		0	247
+2372	Petríková Mária r. Kopčíková		0	106,764
+2372	Petríková Mária r. Kopčíková, USA		0	386,630,832,844
+2372	Petríková Mária r. Pirhalová		0	346,374
+2372	Petríková Zuzana r. Fanclíková, Rusko		0	443,761
+2372	Pirhala Eliáš		0	346,374
+2372	Pirhala Ján		0	346,374,763
+2372	Pirhala Ján	ž Zuzana r. Šoltýsová	0	497
+2372	Pirhala Ján, Kanada		0	99,120,742
+2372	Pirhala Ján, Kanada	ž Zuzana r. Šoltýsová	0	298,369,416,515
+2372	Pirhala Jozef		0	346,374
+2372	Pirhala Juraj		0	346,374
+2372	Pirhala Michal		0	346,374,741
+2372	Pirhala Michal	ž Anna r. Opinová, Šarišské Jastrabie	0	524
+2372	Pirhala Michal	ž Anna r. Opinová, Šarišské Jastrabie 85	0	369
+2372	Pirhalová Anna r. Cubušová		0	346,374
+2372	Pirhalová Anna r. Kerpčárová		0	346,374
+2372	Pirhalová Anna r. Kerpčárová, USA		0	408
+2372	Pirhalová Helena		0	346,374
+2372	Pirhalová Helena r. Dvorščáková		0	269
+2372	Pirhalová Júlia r. Pňakovičová Krajňáková		0	346,374
+2372	Pirhalová Justína r. Havrilová		0	346,374
+2372	Pirhalová Mária		0	346,374
+2372	Pirhalová Zuzana		0	346,374
+2372	Pirchala Michal		0	373
+2372	Pirchala Michal r. Pirchala		0	346,374
+2372	Pirchalová Anna r. Kerbčárová		0	346,374
+2372	Pirchalová Justína r. Havrilová		0	341
+2372	Pirchalová Zuzana r. Šoltýsová		0	346,374
+2372	Piskurová Júlia r. Filičková		0	346,374
+2372	Piskurová Juliána r. Filičková		0	348,355
+2372	Pištejová Anna r. Havrilová		0	341,352
+2372	Pištejová Margita r. Kupcová		0	557
+2372	Pištejová Mária r. Kopčíková		0	557
+2372	Pjaták Ján		0	346,374
+2372	Pjaták Michal		0	346,374
+2372	Pjaták Peter		0	346,374
+2372	Pjaták Štefan		0	346,374
+2372	Pjatáková Anna		0	346,374
+2372	Pjatáková Anna r. Gaborová		0	346,374
+2372	Pjatáková Anna r. Senčíková		0	346,374
+2372	Pjatáková Anna r. Senčíková	Šarišské Jastrabie	0	113
+2372	Pjataková Helena		0	346,374
+2372	Pjataková Mária r. Karafová		0	346,374
+2372	Pjataková Mária r. Šoltésová		0	346,374
+2372	Pjataková Zuzana		0	346,374
+2372	Plavčanová Anna r. Dirgová		0	516
+2372	Pňakovič Michal		0	346,374
+2372	Pňakovič Peter		0	346,374
+2372	Pňakovičová Anna r. Rabiková		0	346,374,417
+2372	Polaščíková Mária r. Tkáčová		0	346,374
+2372	Polaščin Andrej		0	496
+2372	Polaščin Michal		0	496
+2372	Polaščin Štefan		0	496
+2372	Polaščin Vasil		0	496
+2372	Polaščinová Anna		0	496
+2372	Polaščinová Mária		0	496
+2372	Polaščinová Zuzana		0	496
+2372	Polaščinová Zuzana r. Chovancová		0	387
+2372	Poprocká Katarína r. Semančíková		0	487,604,605,658,762,767
+2372	Prevužňák Andrej	syn Jozefa, Kamenica 26	0	189
+2372	Prevužňák Daniel	ž Terézia r. Andraščíková, Kamenica 26	0	189
+2372	Prevužniak Ján		0	376
+2372	Prevužniaková Anna		0	376
+2372	Pribulová Anna r. Gladišová	Kamenica 99	0	189
+2372	Pták Vojtech		0	485
+2372	Putkovič Ján, USA		0	425
+2372	Rabík Andrej		0	346,374
+2372	Rabík Ján		0	309,346,368,374,417,515
+2372	Rabík Ján	Vislanka	0	113
+2372	Rabík Juraj		0	368
+2372	Rabík Juraj	Šenitka	0	346,374
+2372	Rabík Michal		0	113,346,374
+2372	Rabík Michal	Šenitka	0	346,374
+2372	Rabík Michal, Kanada		0	309,515
+2372	Rabík Mikuláš		0	346,374,417
+2372	Rabík Peter		0	346,374,417
+2372	Rabík Valent		0	346,368,374,474
+2372	Rabíková Anna		0	346,374
+2372	Rabíková Anna r. Kerbčárová		0	299,515
+2372	Rabiková Helena		0	346,374
+2372	Rabíková Júlia r. Kopčíková		0	346,374
+2372	Rabiková Mária		0	346,368,374,417
+2372	Rabíková Mária r. Šenitková		0	346,374,479,647
+2372	Rabiková Mária r. Židovská		0	346,374
+2372	Rabiková Zuzana		0	346,374
+2372	Rešetár Andrej		0	346,363,374
+2372	Rešetár Ján		0	346,363,374
+2372	Rešetár Juraj		0	346,363,374
+2372	Rešetár Michal		0	346,374
+2372	Rešetár Mikuláš		0	346,363,374
+2372	Rešetár Peter		0	346,363,374
+2372	Rešetárová Helena r. Pirhalová		0	99,120,346,374,742
+2372	Rešetárová Mária		0	346,374
+2372	Revický Ján		0	632,635,866
+2372	Sabolová Mária r. Saksová		0	632,635,866
+2372	Safčák Juraj		0	310,515
+2372	Sakala Jozef		0	346,374
+2372	Sakalová Mária r. Rešetárová		0	346,363,374
+2372	Saksa Alexander		0	632,635,866
+2372	Saksa Andrej, Rusko		0	632,635,866
+2372	Saksa Anton		0	632,635,866
+2372	Saksa František		0	632,635,866
+2372	Saksová Margita		0	632,635,866
+2372	Samak Anna r. Židovská, Spalenring 40A, Basel, Švajčiarsko	4055	0	346,374,479
+2372	Samoľová Anna r. Andrášová		0	346,374
+2372	Savčák Ján		0	310,515
+2372	Savčák Michal, USA		0	310,515
+2372	Savčáková Anna r. Kopčíková		0	346,374
+2372	Savčáková Júlia		0	352
+2372	Savčáková Júlia r. Havrilová		0	347,352
+2372	Savčáková Mária r. Kopčíková	Ivanovna	0	346,374
+2372	Semančík Andrej		0	446,456,459
+2372	Semančík Andrej	1	0	504
+2372	Semančík Andrej	2	0	504
+2372	Semančík Andrej	3	0	504
+2372	Semančík Andrej	4	0	504
+2372	Semančík Ján		0	434,504
+2372	Semančík Juraj		0	346,374,462
+2372	Semančík Michal		0	456,459
+2372	Semančík Michal, ČR		0	439
+2372	Semančík Peter		0	420,462
+2372	Semančíková Alžbeta		0	446,459
+2372	Semančíková Anna r. Demčáková, USA		0	188,468
+2372	Semančíková Helena		0	446
+2372	Semančíková Katarína r. Petríková		0	477,495
+2372	Semančíková Katarína r. Semančíková		0	433
+2372	Semančíková Mária		0	459,516
+2372	Semančíková Mária r. Baňasová		0	247
+2372	Semančíková Mária r. Dirgová		0	462
+2372	Semanický Juraj		0	346,366,374
+2372	Semanický Valent		0	346,366,374
+2372	Semaníková Mária r. Lešková		0	525
+2372	Senčík Eliáš		0	346,374
+2372	Senčík Juraj		0	394,501,620
+2372	Senčík Michal		0	346,374
+2372	Senčíková Anna		0	346,374
+2372	Senčíková Helena		0	346,374
+2372	Senčíková Júlia		0	346,374
+2372	Senčíková Kristína		0	346,374
+2372	Senčíková Mária		0	346,374
+2372	Senčíková Zuzana		0	346,374
+2372	Schnappová Mária		0	346,374
+2372	Schuster Peter		0	346,374
+2372	Schvartzová Marta		0	499
+2372	Schwarc Márty		0	515
+2372	Schwartzová Marta		0	311,735
+2372	Smetanová Helena r. Kravcová		0	316,804
+2372	Somič Ján		0	346,374
+2372	Somič Michal		0	346,374
+2372	Somičová Alžbeta r. Cupráková		0	346,374
+2372	Somičová Helena		0	346,374
+2372	Somičová Helena r. Kopčíková	1	0	715
+2372	Somičová Júlia		0	346,374
+2372	Somičová Mária r. Senčíková		0	346,374
+2372	Sontág Anton		0	632,635,866
+2372	Sontág Ján		0	632,635,866
+2372	Sontág Tomáš		0	632,635,866
+2372	Sontágová Agnesa r. Ištoňová		0	632,635,866
+2372	Sovič Eliáš		0	408
+2372	Sovič Ján		0	475
+2372	Sovič Juraj		0	346,374
+2372	Sovič Peter		0	346,374
+2372	Sovič Štefan		0	346,374
+2372	Sovičová Anna		0	346,374
+2372	Sovičová Anna r. Falateková		0	406
+2372	Sovičová Júlia r. Demčáková, USA		0	188,468
+2372	Sovičová Zuzana		0	346,374
+2372	Sovičová Zuzana r. Kopčíková		0	346,374
+2372	Stašenko Štefan		0	346,374
+2372	Stašková Helena r. Kaduková, USA		0	632,635,866
+2372	Stegenová Zlatica r. Pavlovská		0	379
+2372	Straková Anna r. Kravcová		0	516
+2372	Straková Mária r. Šomská		0	460
+2372	Strič Juraj		0	444
+2372	Strič Mikuláš		0	496
+2372	Strič Mikuláš	1	0	496
+2372	Struk Juraj		0	557
+2372	Struková Anna r. Šulíková		0	557
+2372	Struková Anna r. Šulíková	vdova, Vislanka 7	0	569
+2372	Struková Kristína r. Struková		0	557
+2372	Struková Paulína r. Šulíková		0	557
+2372	Struková Zuzana r. Kravecová		0	346,374
+2372	Sumilasová Mária r. Cvancigerová		0	346,374
+2372	Šalamunová Mária r. Karaffová		0	557
+2372	Šašala Anton		0	632,635,866
+2372	Šašala Štefan	Bašar	0	346,374
+2372	Šašalová Žofia r. Sontagová		0	632,635,866
+2372	Ščerbáková Anna r. Šulíková		0	557
+2372	Šemtová Zuzana r. Kerbčárová, USA		0	408
+2372	Šenitka Andrej		0	346,374
+2372	Šenitka Ján		0	338,346,357,374,521,523
+2372	Šenitka Ján	ž Helena r. Lazorová	0	346,374
+2372	Šenitka Juraj		0	346,374,522
+2372	Šenitka Michal		0	523
+2372	Šenitková Anna r. Filičková		0	346,348,355,374
+2372	Šenitková Anna r. Hricová		0	346,374
+2372	Šenitková Mária		0	346,374
+2372	Šišláková Helena r. Lazorová		0	345,346,374
+2372	Šoltés Andrej	Luterán	0	346,374
+2372	Šoltés Eliáš		0	346,374
+2372	Šoltés Ján		0	346,374
+2372	Šoltés Juraj	Kerbčár	0	346,374
+2372	Šoltés Michal		0	346,374
+2372	Šoltés Michal	Kerbčár	0	346,374
+2372	Šoltés Michal	Luterán	0	346,374
+2372	Šoltés Peter		0	439
+2372	Šoltés Peter	Kerbčár	0	346,374
+2372	Šoltésová Mária		0	346,356,374
+2372	Šoltésová Mária r. Opinová		0	363
+2372	Šoltýs Andrej		0	453
+2372	Šoltýs Ján		0	346,374,454
+2372	Šoltýsová Anna		0	346,374
+2372	Šoltýsová Anna r. Kopčíková		0	346,374
+2372	Šoltýsová Anna r. Petriková		0	455
+2372	Šoltýsová Helena r. Iľková		0	346,374
+2372	Šoltýsová Katarína		0	453
+2372	Šoltýsová Kristína		0	346,374

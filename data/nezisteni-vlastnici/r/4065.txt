@@ -1,0 +1,256 @@
+2300	LEŠKO Peter	zomrel	1	176,177,242
+2300	LEŠKO Peter, , zomrel zomrel		0	253,311,337,393,395,433
+2300	LEŠKO Štefan	zomrel	1	176,177
+2300	LEŠKO Štefan, , zomrel zomrel		0	391
+2300	LEŠKOVÁ Anna	r KRUPIKOVÁ zomrela	1	208,413,419,432
+2300	LEŠKOVÁ Anna r. Krupiková, , zomrela zomrela		0	391,393,433
+2300	LEŠKOVÁ Júlia, , zomrela zomrela		0	395
+2300	LEŠKOVÁ Mária	r DRIMÁKOVÁ zomrela	1	176,177,178,199,207,208,209,234,241,242,411,413,415,419,432
+2300	LEŠKOVÁ Mária	zomrela	1	176,177
+2300	LEŠKOVÁ Mária r. Drimáková, , zomrela zomrela		0	262,265,266,267,289,382,393,433
+2300	LEŠKOVÁ Paraska, , zomrela zomrela		0	395
+2300	LUCÍK Andrej	zomrel	1	179,188
+2300	LUCÍK Andrej	zomrel 1	1	176,177,179,188
+2300	LUCÍK Andrej, , zomrel zomrel		0	395
+2300	LUCÍK Ján		1	182
+2300	LUCÍK Ján	zomrel	1	179,188
+2300	LUCÍK Ján	zomrel 1	1	176,177,179,188
+2300	LUCÍK Ján, , zomrel zomrel		0	343
+2300	LUCÍK Michal	zomrel	1	179,188
+2300	LUCÍKOVÁ Anna	zomrela	1	176,177,179,188
+2300	LUCÍKOVÁ Anna, , zomrela zomrela		0	395
+2300	LUCÍKOVÁ Mária	r LUKAČIŠINOVÁ zomrela	1	176,177
+2300	LUCÍKOVÁ Mária r. Lukačišinová, , zomrela zomrela		0	395
+2300	LUKAČIŠINOVÁ Anna	r HAVRILOVÁ zomrela	1	179
+2300	MALENKOVÁ Mária	r ČUROVÁ	1	224
+2300	MALIŇÁKOVÁ Anna	r ČEPOVÁ zomrela	1	176,177,241,242,411
+2300	MALIŇÁKOVÁ Anna r. Čepová, , zomrela zomrela		0	266,379
+2300	MAŤAŠOVÁ Paraska	r LEŠKOVÁ	1	176,177
+2300	MAŤAŠOVÁ Paraska r. Lešková		0	395
+2300	MIŇO Peter	zomrel	1	176,177
+2300	MIŇO Peter, , zomrel zomrel		0	395
+2300	MIŇOVÁ Mária	zomrela	1	176,177
+2300	MIŇOVÁ Mária, , zomrele zomrele		0	395
+2300	MIŠKANINOVÁ Mária	r LEŠKOVÁ zomrela	1	176,177
+2300	MIŠKANINOVÁ Mária r. Lešková, , zomrela zomrela		0	395
+2300	MOŠKOVÁ Anna	r SAKALOVÁ zomrela	1	176,177
+2300	MOŠKOVÁ Anna r. Sakalová, , zomrela zomrela		0	395
+2300	MULÍKOVÁ Mária	r ČEPOVÁ zomrela	1	176,177,241,242,411
+2300	MULÍKOVÁ Mária r. Čepová, , zomrela zomrela		0	266,379
+2300	Obecná ľudová škola, SR	D:	1	236
+2300	PATLEVIČ František		1	212
+2300	PATLEVIČ Ján		1	212
+2300	PATLEVIČ Jozef		1	212
+2300	PATLEVIČOVÁ Barbora		1	212
+2300	PATLEVIČOVÁ Mária		1	212
+2300	PAVLOV Ján	zomrel	1	225
+2300	PEĽAKOVÁ Helena	r LEŠKOVÁ zomrela	1	176,177
+2300	PEĽAKOVÁ Helena r. Lešková, , zomrela zomrela		0	395
+2300	PETRIGALOVÁ Anna	r HARVILOVÁ zomrela	1	188
+2300	PETRILOVÁ Helena	r FEDOREŇKOVÁ zomrela	1	176,177
+2300	PETRILOVÁ Helena r. Fedoreňková, , zomrela zomrela		0	395
+2300	POPÍK Andrej	zomrel	1	201,208,413,419,432
+2300	POPÍK Andrej, , zomrel zomrel		0	258,327,393,426,433
+2300	POPÍK Ján	zomrel	1	201,208,413,419,432
+2300	POPÍK Ján, , zomrel zomrel		0	258,349,393,426,433
+2300	POPÍK Michal	zomrel	1	201,208,413,419,432
+2300	POPÍK Michal, , zomrel zomrel		0	258,290,393,426,433
+2300	POPÍKOVÁ Anna	r ZAHURSKÁ	1	176,177,241,242,411
+2300	POPÍKOVÁ Anna	zomrela	1	201,208,413,419,432
+2300	POPÍKOVÁ Anna r. Záhurská		0	258,266,324,393,426,433
+2300	POPÍKOVÁ Helena	zomrela	1	201,208,413,419,432
+2300	POPÍKOVÁ Helena, , zomrela zomrela		0	258,303,393,426,433
+2300	POPÍKOVÁ Mária	r HRICKOVÁ zomrela	1	176,177
+2300	POPÍKOVÁ Mária r. Hricková, , zomrela zomrela		0	395
+2300	RUDYOVÁ Paraska	r LUCÍKOVÁ zomrela	1	176,177,179,188
+2300	RUDYOVÁ Paraska r. Lucíková, , zomrela zomrela		0	395
+2300	RUSIMKO Šimko, , zomrel zomrel		0	301
+2300	SAKALA Juraj	zomrel	1	177
+2300	SAKALOVÁ Anna	r JURKOVÁ zomrela	1	170,176
+2300	SAKALOVÁ Anna r. Jurková, , zomrela zomrela		0	291
+2300	SAKALOVÁ Júlia r. Jackaninová, SR	D: zomrela |	1	178
+2300	SIDOR Michal	zomrel	1	176,177,241,242,411
+2300	SIDOR Michal, , zomrel zomrel		0	266,272
+2300	SIDOROVÁ Helena	r LUCÍKOVÁ zomrela	1	177
+2300	ŠKITKOVÁ Mária	r DRIMÁKOVÁ zomrela	1	176,177
+2300	ŠKITKOVÁ Mária r. Drimáková, , zomrela zomrela		0	395
+2300	TKAČÍKOVÁ Anastázia	r HRICKOVÁ zomrela	1	176,177
+2300	TKAČÍKOVÁ Anastázia r. Hricková, , zomrela zomrela		0	395
+2300	UHRINOVÁ Mária	r LUCÍKOVÁ zomrela	1	176,177,179,188
+2300	UHRINOVÁ Mária r. Lucíková, , zomrela zomrela		0	395
+2300	VATRAĽ Ján	2	1	212
+2300	VATRAĽ Michal	zomrel	1	176,177,181,247
+2300	VATRAĽ Michal, , zomrel zomrel		0	395
+2300	VATRAĽ Štefan	zomrel	1	181,247
+2300	VATRAĽ Vasiľ	zomrel	1	177
+2300	VATRAĽOVÁ Anna	r LEŠKOVÁ zomrela	1	176,177
+2300	VATRAĽOVÁ Anna r. Lešková, , zomrela zomrela		0	395
+2300	VATRAĽOVÁ Zuzana	r LUCÍKOVÁ zomrela	1	177
+2300	ZÁHORSKÁ Anna	Duplín	1	173,186,208,413,419,432
+2300	ZÁHORSKÁ Anna, , Duplín Duplín		0	253,282,380,392,393,433
+2300	ZÁHORSKÁ Mária	Duplín	1	173,186,208,413,419,432
+2300	ZÁHORSKÁ Mária, , Duplín Duplín		0	253,334,380,392,393,433
+2300	ZÁHORSKÁ Zuzana	Duplín	1	173,186,208,413,419,432
+2300	ZÁHORSKÁ Zuzana, , Duplín Duplín		0	253,316,380,392,393,433
+2300	ZÁHORSKÝ Ján	Svidník	1	173,186,208,413,419,432
+2300	ZÁHORSKÝ Ján, , Svidník Svidník		0	253,374,380,392,393,433
+2300	ZAHURSKÝ Ján		1	176,177,241,242,266,395,411
+2301	Bača Vasiľ, Hlinky, Stropkov, PSČ 091 01, SR		0	94
+2301	BALOVA Eva	r.Macosko zomrela	0	78,90
+2301	Balová Eva	r.Mačoško zomrela; r.Mačoško zomrela	0	79
+2301	Baľová Eva	r.Mačoško, zomrela	0	86,87,90,124,125,126,129,130,132,133,136,137,138,139,142,143,147,148,150,151
+2301	Baľová Eva r. Mačošková		0	21
+2301	Baľová Eva r. Mačošková	manžel Fedor, zomrela	1	118
+2301	Baľová Eva r. Mačošková	zomrela	1	110,113,114,140,141,144
+2301	Berezná Anna	NV	1	94
+2301	Berezný Fedor	NV	1	94
+2301	Berezný Ján	NV	1	94
+2301	Burcák Michal		1	114,140
+2301	Burcák Peter		1	114,140
+2301	Burcáková Anna		1	114,140
+2301	Burcaková Ilona	r.Potočná, NV	1	94
+2301	CESKOSLOV.STAT V SPRAVE ONV FINAN.ODBOR		0	78
+2301	CS STAT ONV		0	58
+2301	Čakurdová Anna		1	115,123
+2301	Čakurdová Anna	NV	1	89,90,124,125,137,151
+2301	Čakurdová Eva		1	115,123
+2301	Čakurdová Eva	NV	1	89,90,124,125,137,151
+2301	Čakurdová Helena		1	115,123
+2301	Čakurdová Helena	NV	1	89,90,124,125,137,151
+2301	Čakurdová Mária		1	115,123
+2301	Čakurdová Mária	NV	1	89,90,124,125,137,151
+2301	Čakurdová Terézia	r.Pavlenko	0	94
+2301	Českoslov. štát v správe ONV finan.odbor		0	129,130
+2301	Čonka Peter	zomrel	1	114,136,140
+2301	Čonka Peter	zomrel; zomrel	0	79
+2301	Čonková Mária	r.Mačoško zomrela; r.Mačoško zomrela	0	79
+2301	Čonková Mária	r.Mačoško, zomrela	0	136
+2301	Čonková Mária r. Mačošková	zomrela	1	114,140
+2301	Dzurbanová Anna	r.Kasarda, NV	1	90,124,125,137,151
+2301	FECKO Jan	NV	1	78,85,90,124,125,126,129,130,137,138,139,142,143,147,148,151
+2301	Fecko Ján		1	113,117,141,144
+2301	FECKO Juraj	zomrel	1	78,85,90,113,117,124,125,126,129,130,137,138,139,141,142,143,144,147,148,151
+2301	FECKO Vasil	NV	1	78,85,90,124,125,126,129,130,137,138,139,142,143,147,148,151
+2301	FECKOVA Maria	NV	1	78,85,90,124,125,126,129,130,137,138,139,142,143,147,148,151
+2301	FECKOVA Maria	zomrela	0	78,126,129,130,138,139,142,143,147,148
+2301	Fecková Mária	r.Packo, zomrela	0	82,88,124,125,131,137,146,149,151
+2301	Fecková Mária r. Packová	zomrela	1	109,113,117,141,144
+2301	Fečko Michal	NV	1	90,124,125,137,151
+2301	Fečko Vasiľ		1	113,117,141,144
+2301	Fečková Mária	r.Packo zomrela	0	90
+2301	Furančíková Ilona r. Čakurdová		1	110
+2301	GDOVICAKOVA Maria	r.Fecko zomrela	0	78,85,90
+2301	Gdovičáková Mária	r.Fečko, zomrela	0	90,124,125,126,129,130,137,138,139,142,143,147,148,151
+2301	Gdovičáková Mária r. Fečková	zomrela	1	113,117,141,144
+2301	GOJDIC Andrej	NV	1	78
+2301	GOJDIC Michal	NV	1	78,126,129,130
+2301	GOJDICOVA Helena	NV	1	78,90,124,125,126,129,130,136,137,151
+2301	Gojdič Andrej	NV; NV	1	79
+2301	Gojdič Michal		1	113
+2301	Gojdič Michal	dcíra Jána, NV	1	138
+2301	Gojdič Michal	syn Jána	1	141,144
+2301	Gojdič Michal	syn Jána, NV	1	139,142,143,147,148
+2301	Gojdičová Anna		1	113,114,140
+2301	Gojdičová Anna	dcéra Jána	1	141,144
+2301	Gojdičová Anna	dcéra Jána, NV	1	138,139,142,143,147,148
+2301	Gojdičová Anna	NV	1	90,124,125,126,129,130,136,137,151
+2301	Gojdičová Helena		1	113,114,140
+2301	Gojdičová Helena	dcéra Jána	1	141,144
+2301	Gojdičová Helena	dcéra Jána, NV	1	138,139,142,143,147,148
+2301	Gojdičová Helena	NV; NV	1	79
+2301	Gregušová Verona, Bratislava, SR	r.Stach	0	94
+2301	Hnejtková Anna, Vlcnov, SR	r.Burcak	0	94
+2301	Hutňan Mikuláš	zomrel	0	83,145
+2301	Jurančiková Ilona	r.Čakurda NV	1	82,90
+2301	Jurančiková Ilona	r.Čakurda, NV	1	86,90,124,125,131,132,133,137,149,150,151
+2301	Kasarda Štefan	Čakurda, NV	1	90,124,125,137,151
+2301	Kasardová Terézia	Čakurda, NV	1	90,124,137,151
+2301	Kasardová Terézia	r.Čakurda, NV	1	125
+2301	Kasardová Zuzana, 085 01, Richvald, č. 148, SR		0	94
+2301	Kolečavová Helena, Sidlisko S II 1219, Vranov nad Toplou, PSČ 093 01, SR	r.Berezny	0	94
+2301	Ličko Ján	NV	1	83,145
+2301	MACOSKO Jan	NV	1	78,86,87,90,124,125,126,129,130,132,133,136,137,138,139,142,143,147,148,150,151
+2301	MACOSKO Michal	zomrel	1	78,85,90,113,114,117,124,125,126,129,130,136,137,138,139,140,141,142,143,144,147,148,151
+2301	MACOSKO Peter	zomrel	1	78,86,87,90,113,114,118,124,125,126,129,130,132,133,136,137,138,139,140,141,142,143,144,147,148,150,151
+2301	MACOSKO Vasil	nebohy	0	78,86,87,90,124,125,126,129,130,132,133,136,137,138,139,142,143,147,148,150,151
+2301	MACOSKOVA Ilona	zomrela	1	78,86,87,90,113,114,118,124,125,126,129,130,132,133,136,137,138,139,140,141,142,143,144,147,148,150,151
+2301	MACOSKOVA Julia	r.Stach zomrela	0	78,90
+2301	MACOSKOVA Maria	NV	1	78,87,90,124,125,126,129,130,137,138,139,142,143,147,148,151
+2301	Mačoško Ján		1	21,110,113,114,118,140,141,144
+2301	Mačoško Ján	NV; NV	1	79
+2301	Mačoško Juraj		1	21,118
+2301	Mačoško Juraj	NV	1	87,90,124,125,137,151
+2301	Mačoško Michal		1	110
+2301	Mačoško Michal	zomrel; zomrel	0	79
+2301	Mačoško Peter		1	21,110
+2301	Mačoško Peter	zomrel; zomrel	0	79
+2301	Mačoško Vasiľ		1	21,110
+2301	Mačoško Vasiľ	nebohý; nebohý	0	79
+2301	Mačoško Vasiľ	zomrel	1	83,113,114,118,140,141,144,145
+2301	Mačošková Anna	r.Čakurda, NV	1	90,124,125,137,151
+2301	Mačošková Helena r. Hutňanová		1	113,118,141,144
+2301	Mačošková Ilona		1	21,110
+2301	Mačošková Ilona	zomrela; zomrela	0	79
+2301	Mačošková Júlia	r.Stach, zomrela	0	83,124,125,126,129,130,137,138,139,142,143,145,147,148,151
+2301	Mačošková Júlia r. Stachová	zomrela	1	113,141,144
+2301	Mačošková Katarína, 072 22, Strážske, SR	dcéra Fedora	0	94
+2301	Mačošková Mária	r.Kasarda, NV	1	90,124,125,137,151
+2301	Mačošková Mária	r.Krivka, NV	1	94
+2301	Mačošková Mária r. Kasardová		1	21,113,118,141,144
+2301	Maliňak František	NV	1	94
+2301	Maliňaková Ilona	r.Gmitro, NV	1	94
+2301	Maliňaková Júlia	r.Stach, NV	1	94
+2301	Maliňaková Mária	NV	1	94
+2301	Okresný úrad		0	21
+2301	PACKO Michal	NV	1	78,82,86,88,90,124,125,126,129,130,131,132,133,137,138,139,142,143,146,147,148,149,150,151
+2301	PACKO MICHAL		1	4,6,109,110,113,141,144
+2301	Packová Anna	NV	1	90,124,125,137,151
+2301	Packová Ilona	NV	1	82,90,124,125,131,137,149,151
+2301	PACKOVA Maria	NV	1	78,82,88,90,124,125,126,129,130,131,137,138,139,142,143,146,147,148,149,151
+2301	Packová Mária		1	109,113,141,144
+2301	Pavlenko Andrej	NV	1	94
+2301	Pavlenko Michal	NV	1	94
+2301	Pavlenková Helena	r.Škreptáč NV	1	80
+2301	Pavlenková Helena	r.Škreptáč, NV	1	90,124,125,137,151
+2301	Pavlenková Helena r. Škreptačová		1	114,116,140
+2301	Pavlenková Terézia	NV	1	94
+2301	Petrusková Anna	NV	1	87
+2301	Petrušková Anna		1	21,118
+2301	Polivčák Vasiľ	NV	1	82,90,124,125,131,137,149,151
+2301	Polivčák Vasiľ	ž.Mária Jaselská NV	1	90
+2301	Polivčák Vasiľ	ž.Mária Jaselská, NV	1	124,125,137,151
+2301	Prokopovič Andrej, 979 01, Rimavská Sobota, SR	ž.Zuzana r.Ganaj	0	94
+2301	Prokopovič Ján	NV	1	83,90,124,125,137,145,151
+2301	Prokopovič Michal	NV	1	83,90,124,125,137,145,151
+2301	Prokopovič Mikuláš	NV	1	94
+2301	Prokopovič Vasiľ	NV	1	83,90,94,124,125,137,145,151
+2301	Prokopovičová Anna	NV	1	94
+2301	Prokopovičová Ilona	NV	1	94
+2301	Prokopovičová Mária	NV	1	94
+2301	Revická Terézia r. Stachová, 091 01, Breznička, č. 6, SR		0	94
+2301	Sabová Mária	r.Mačoško, NV	1	94
+2301	Sahajda Michal	zomrel	0	124,125,137,151
+2301	SAHAJDA Vasil	zomrel	1	78,82,89,90,113,123,124,125,126,129,130,131,137,138,139,141,142,143,144,147,148,149,151
+2301	Sahajdová Mária r. Čakurdová		1	115
+2301	Salková Mária, Olomouc, SR	r.Prokopovič	0	94
+2301	Salnická Helena	r.Hutnan, zomrela	0	83,145
+2301	SKREPTAC Jan	zomrel	0	78,80,82,88,90,124,125,126,129,130,131,136,137,138,139,142,143,146,147,148,149,151
+2301	SMAJDOVA Anna	r.Hutnan zomrela	0	78
+2301	Šimková Anna	r.Maliňak, NV	1	94
+2301	Škreptáč Andrej	zomrel	1	90,114,124,125,136,137,140,151
+2301	Škreptáč Andrej	zomrel; zomrel	0	79
+2301	ŠKREPTAČ JÁN		1	4,6,116
+2301	Škreptáč Ján	zomrel, ž.Anna r.Mačošková	1	113,114,140,141,144
+2301	Škreptáč Ján	zomrel,ž.Anna r.Mačošková	1	109
+2301	Škreptáč Ján	zomrel; zomrel	0	79
+2301	Škreptáč Ján	ž..Anna Mačoško, zomrel	0	151
+2301	Škreptáč Ján	ž.Anna Mačoško, zomrel	0	90,124,125,137,151
+2301	Škreptáč Johan		1	116
+2301	ŠKREPTAČ MICHAL		0	4
+2301	Škreptáč Michal	NV	1	90,124,125,137,151
+2301	Škreptáč Michal, Potôčky, č. 18, SR	zomrel	0	80
+2301	ŠKREPTAČ PETER	1912	0	4
+2301	Škreptáč Vasiľ	NV	1	90,124,125,137,151
+2301	Škreptáčová Anna		1	116
+2301	Šmajda Fedor	zomrel	0	90,95,124,125,137,151
+2301	Šmajda Ján	NV	1	90,124,125,137,151

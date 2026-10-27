@@ -1,0 +1,256 @@
+2762	LEHOCKÝ Juraj	zomrel st	0	3550
+2762	LEHOCKÝ Juraj	zomrel, st. -	1	3470,4659
+2762	LEHOCKÝ Juraj	zomrel, st.-	1	4582,4657
+2762	LEHOCKÝ Juraj, SR	st.zomrel	0	3327
+2762	LEHOCKÝ Ľudovít		0	5434
+2762	LEHOCKÝ Ľudovít	/zomrel/,Lajoš	0	4581,5133
+2762	LEHOCKÝ Ľudovít	Lajoš,zomrel	1	4444,4461,4956
+2762	LEHOCKÝ Ľudovít, SR	zomrel,Lajoš	0	3601
+2762	LEJTENÝ Juraj	/zomrel/	0	3677
+2762	LIPKOVÁ Anna	zomrela	1	4277,4373
+2762	ĽUBERDOVÁ Anna	r. Briňarská,/zomrel/	0	3660,3664,3666,3668,3669,3670,3671,3672,3673,3675,3676,3678,3679,3680,3681,3682,3683
+2762	Ľuberdová Anna r. Briňarská	zomrel	0	3684
+2762	LUKAČ Ján		1	4659
+2762	LUKAČ Ján	zomrel	1	4286
+2762	LUKAČ Ján	zomrel -	1	3470
+2762	LUKAČ Ján	zomrel-	1	4569,4582,4657
+2762	LUKAČ Ján, SR	zomrel	0	3351
+2762	LUMTZER František		1	4219
+2762	MAČOŠKO Fedor		0	3551,3554,3646,3832
+2762	MAČOŠKOVÁ Mária		0	3545
+2762	Malenky František		1	3470,4435,4569,4582,4657
+2762	MANDUĽA Ján	zomrel Breznica -	1	3767
+2762	MANDUĽA Jozef	zomrel Breznica -	1	3767
+2762	MANDUĽA Michal	zomrel, Breznica -	1	3767
+2762	MANDUĽA Štefan	zomrel Breznica -	1	3767
+2762	MARIAS DEMETER		1	4804
+2762	MARKOVIČ Štefan		1	4659
+2762	MARKOVIČ Štefan	zomrel	1	4439
+2762	MARKOVIČ Štefan	zomrel -	1	3470,4569
+2762	MARKOVIČ Štefan	zomrel-	1	4582,4657
+2762	MARKOVIČ Štefan, SR	zomrel	0	3355
+2762	MARTINIKOVÁ Justina	r. Raková /Vojtovce/	0	3549
+2762	MARUŠAKOVÁ Mária, Ustav soc.starostlivosť, Spišský Štvrtok, SR		0	4469
+2762	MARUŠAKOVÁ Marta		1	3470,4569,4582,4657,4659
+2762	MASKAĽ Ján		1	4659
+2762	MASKAĽ Ján	/zomrel/	0	3488,3507,3534,3540
+2762	MASKAĽ Ján	zomrel	1	4287,4330,4431
+2762	MASKAĽ Ján	zomrel -	1	3470,4569,4657
+2762	MASKAĽ Ján	zomrel-	1	4582
+2762	MASKAĽ Ján, SR	zomrel	0	3352,3421
+2762	MATERŇÁK Ladislav		1	4455,4456
+2762	MAZUR Andrej	/zomrel/	0	3559
+2762	MERGEŠČAK Vasiľ	zomrel Breznica -	1	3689,3690,3830
+2762	MERGEŠČAK Vasiľ	zomrel-Breznica -	1	3691
+2762	MIKULOVÁ Mária	zomrel -	1	3767
+2762	MILKOVÁ Alžbeta		1	4659
+2762	MILKOVÁ Alžbeta	zomrel -	1	3470,4569,4582,4657
+2762	MILKOVÁ Alžbeta	zomrela	1	4264
+2762	MILKOVÁ Alžbeta, SR	zomrel	0	3270,3449
+2762	MILÝ Jozef	zomrel -	1	3767
+2762	MIŽUROVÁ Mária	r. Briňarská,/zomrel/	0	3660,3664,3666,3668,3669,3670,3671,3672,3673,3675,3676,3678,3679,3680,3681,3682,3683
+2762	Mižurová Mária r. Briňarská	zomrel	0	3684
+2762	MONDÍK Jozef		1	4659
+2762	MONDÍK Jozef	ml. /zomrel -	1	4569,4582
+2762	MONDÍK Jozef	ml. /zomrel/	0	3493
+2762	MONDÍK Jozef	ml. zomrel -	1	3470
+2762	MONDÍK Jozef	ml. zomrel-	1	4657
+2762	MONDÍK Jozef	st	1	4374
+2762	MONDÍK Jozef	st./zomrel -	1	4569,4582
+2762	MONDÍK Jozef	st./zomrel-	1	4657
+2762	MONDÍK Jozef	st./zomrel/	0	3493
+2762	MONDÍK Jozef	st.zomrel -	1	3470
+2762	MONDÍK Jozef, SR	ml. zomrel	0	3414,3417,5172
+2762	MONDÍK Jozef, SR	st	1	4374
+2762	MONDÍK Jozef, SR	st. zomrel	0	3414,3417,5172
+2762	MONDÍK Jozef, SR	st.-	1	4374
+2762	MONDÍK Jozef, SR	st.zomrel	0	3417
+2762	MONDÍK Štefan		1	4374,4659
+2762	MONDÍK Štefan	/zomrel/	0	3493
+2762	MONDÍK Štefan	zomrel -	1	3470,4569,4582
+2762	MONDÍK Štefan	zomrel-	1	4657
+2762	MONDÍK Štefan, SR	zomrel	0	3414,3417,5172
+2762	MUCHA Ján	syn Jána	1	4201
+2762	MUCHA Vojtech	syn Jána	1	4201
+2762	MUCHOVÁ Katarína r. Stojáková		1	4201
+2762	MUCHOVÁ Mária	dcéra Jána	1	4201
+2762	MUCHOVÁ Verona	dcéra Jána	1	4201
+2762	MUŠINSKÁ Rozália	zomrel	0	3718,4848
+2762	MUŠINSKÁ Rozália	zomrela	1	4469
+2762	MUŠINSKÝ Kazimír	zomrel	0	3718,4848
+2762	MUŠINSKÝ Kazimír, SR	zomrel	0	4469
+2762	MUŠINSKÝ Michal		1	3718,4469,4848
+2762	NABOŽNÝ Vincent	/zomrel/	0	3718
+2762	NABOŽNÝ Vincent	zomrel	1	4469,4848
+2762	NEBL Eduard		1	3470,3530,4569,4582,4657,4659
+2762	NEMCOVÁ Alžbeta	/zomrel/	0	3601,4581,5133,5434
+2762	NEMCOVÁ Alžbeta	zomrela	1	4444,4461,4956
+2762	NEMCOVÁ Ludviga	r. Klikušovská,/zomrel/	0	3660
+2762	NEMCOVÁ Magdaléna	/zomrel/	0	3601,4581,5133,5434
+2762	NEMCOVÁ Magdaléna	zomrela	1	4444,4461,4956
+2762	NEMCOVÁ Mária	/zomrel/	0	3601,4581,5133,5434
+2762	NEMCOVÁ Mária	/zomrela/	0	3672
+2762	NEMCOVÁ Mária	r.Belinová,zomrela	1	4444,4461,4956
+2762	NEMCOVÁ Mária r. Belinová, SR	zomrel	0	3348
+2762	Nemcová Viktória	zomrel	0	3684
+2762	NEMCOVÁ Viktória	/zomrel/	0	3482,3493,3652,3660,3664,3666,3668,3669,3670,3671,3672,3673,3675,3676,3678,3679,3680,3681,3683
+2762	NEMEC Andrej	/zomrel/	0	3611,3631
+2762	NEMEC Andrej	zomrel st	0	3675
+2762	Nemec Ján	zomrel	0	3684
+2762	NEMEC Ján	/najstarší,zomrel/	0	3682
+2762	NEMEC Ján	/zomrel/	0	3522,3660,3664,3666,3668,3669,3670,3671,3672,3673,3675,3676,3678,3679,3680,3681,3683
+2762	NEMEC Ján	/zomrel/,ml	0	3601,3615,4581,5133,5434
+2762	NEMEC Ján	ml.,zomrel	1	4444,4461,4956
+2762	NEMEC Jozef	/zomrel/	0	4581,5133,5434
+2762	NEMEC Jozef	zomrel	1	4444,4461,4956
+2762	Nizník Ján		1	4804
+2762	Nizníková Zuzana		1	4804
+2762	NOVÁKOVÁ Anna	r.Šeršeňová,zomrela	1	4389
+2762	NOVAKOVÁ Anna r. Šeršeňová		1	4659
+2762	NOVAKOVÁ Anna r. Šeršeňová	zomrel -	1	4569
+2762	NOVAKOVÁ Anna r. Šeršeňová	zomrel-	1	4582,4657
+2762	NOVAKOVÁ Anna r. Šeršeňová	zomrela -	1	3470
+2762	NOVAKOVÁ Anna r. Šeršeňová, SR	zomrela	0	3303,5523,5563
+2762	NOVOTŇAK Ján	ČECHY -	1	3689,3690,3830
+2762	NOVOTŇAK Ján	Čechy-	1	3691
+2762	NOVOTŇAK Jozef	syn Jána /zomrel Breznica/ -	1	3767
+2762	NOVOTŇAK Jozef	syn Jána /zomrel/ Breznica -	1	3767
+2762	NOVOTŇAK Jozef	zomrel Breznica -	1	3767
+2762	NOVOTŇAK Jozef, SR	zomrel - Breznica	0	3747
+2762	NOVOTŇAKOVÁ Alžbeta	zomrel Breznica -	1	3767
+2762	NOVOTŇAKOVÁ Alžbeta, SR	zomrel-Breznica	0	3750
+2762	NOVOTŇAKOVÁ Anna r. Gornaľová	zomrel Breznica	1	3767
+2762	NOVOTŇAKOVÁ Anna r. Gornaľová	zomrela - Breznica	1	3752
+2762	NOVOTŇAKOVÁ Anna, SR	dcéra Jána - zomrela Breznica	0	3753
+2762	OKRESNÝ ZVAZ SPOTREBNÝCH DRUŽSTIEV, STROPKOV, SR		0	4252
+2762	OLÁH Michal	Migo	1	4384
+2762	OLAH Vojtech	Bončák	1	4202
+2762	ONDERIŠINOVÁ Anna r. Vidiščáková, Bokša, SR		0	4227
+2762	PALIDRAB Ján	/zomrel/	0	3621
+2762	Palidrab Michal	zomrel, st	0	3684
+2762	PALIDRAB Michal	zomrel st	0	3660,3664,3666,3668,3669,3670,3671,3672,3673,3675,3676,3678,3679,3680,3681,3682,3683
+2762	PALIDRABOVÁ Anna	zomrela	1	4461,4956
+2762	PALIDRABOVÁ Júlia	/zomrel/	0	3621
+2762	PALIDRABOVÁ Magda	zomrela	1	4446,4461,4956,5701
+2762	PALKO Jozef	zomrel Breznica -	1	3689,3690,3830
+2762	PALKO Jozef	zomrel-Breznica-	1	3691
+2762	PALKOVÁ Alžbeta		1	3470,4569,4582,4657,4659
+2762	PAŇKOVÁ Mária	r. Glinská,/zomrel/	0	3573,3575
+2762	PAŇKOVÁ Mária	r. Presalovičová,/zomrel/	0	3714,3718,3721,3725,4993,4994
+2762	PAŇKOVÁ Mária	r.Presalovičová,zomrela	1	4469,4474
+2762	PAŇKOVÁ Mária r. Glinská, SR	zomrela	0	3348
+2762	Paňková Mária r. Presalovičová	zomrel	0	4848
+2762	PAŇKOVÁ Mária r. Presalovičová		1	4659
+2762	PAŇKOVÁ Mária r. Presalovičová	zomrel -	1	3470
+2762	PAŇKOVÁ Mária r. Presalovičová	zomrel-	1	4582
+2762	PAŇKOVÁ Mária r. Presalovičová	zomrela -	1	4569,4657
+2762	PAŇKOVÁ Mária r. Vasiľková, Ondavska 945, Stropkov, SR		0	3470,4408,4569,4582,4657,4659
+2762	PAŇKOVÁ Mária r. Vasiľková, SR	zomrela	0	3452,5178
+2762	PARIĽÁK Anton Jaroslav		1	4481
+2762	PAVLENKO Andrej		0	3832
+2762	Pavluk Maťaš		1	4804
+2762	PENDEĽOVÁ Mária r. Gombarová		1	3488,3507,3534,4330,4431
+2762	PENDEĽOVÁ Mária r. Gombarová, SR		0	3421
+2762	PENDELY Andrej		1	4659
+2762	PENDELY Andrej	/zomrel, manž. Gombarová Mária/	0	3540
+2762	PENDELY Andrej	zomrel, manž. Gombarová Mária -	1	3470,4569,4657
+2762	PENDELY Andrej	zomrel, manž. Gombarová Mária-	1	4582
+2762	PENDELY Andrej, SR		0	3352
+2762	PENDELY Andrej, SR	zomrel, žena r.Gombarová Mária	0	3352
+2762	PENDELY Andrej, SR	zomrel,ž.Mária r.Gombárová-	1	4287
+2762	PENDELÝ Ján		1	4406,4659
+2762	PENDELÝ Ján	zomrel -	1	3470,4569
+2762	PENDELÝ Ján	zomrel-	1	4582,4657
+2762	PENDELÝ Ján, SR	zomrel	0	3286,5560
+2762	PENDELÝ Jozef		1	4406,4659
+2762	PENDELÝ Jozef	zomrel -	1	3470,4569
+2762	PENDELÝ Jozef	zomrel-	1	4582,4657
+2762	PENDELÝ Jozef, SR	zomrel	0	3286,5560
+2762	PETROVIČOVÁ Mária r. Hurná	zomrela - Breznica	1	3767
+2762	PETROVIČOVÁ Mária r. Hurná, SR	zomrel - Breznica	0	3750
+2762	Petruňko Ivan	malol	1	4804
+2762	PETRUŇKO Ivan		0	4806
+2762	Petruňko Jozef		1	4804
+2762	PETRUŇKO Jozef	/zomrel//Breznica/	0	3769
+2762	PETRUŇKO Ladislav	/zomrel//Breznica/	0	3769
+2762	Petruňko Stašek		1	4804,4806
+2762	Petruňková Anna		1	4804
+2762	POTOCKÁ Anna r. Dalejčíková		1	3470,4569,4582,4657,4659
+2762	POTOCKÝ Ján		1	3470,4569,4582,4657,4659
+2762	POWERSOVÁ Pavlína	/zomrel r.Lehocká/	0	3526,3550,3554,3601,3658,3695,4581,5004,5133
+2762	POWERSOVÁ Pavlína	r.Lehocká,zomrela	1	4260,4266,4269,4270,4281,4307,4339,4397,4412,4444,4461,4956,5158,5159,5203,5571
+2762	Powersová Pavlína r. Lehocká	zomrela	1	5028,5032
+2762	POWERSOVÁ Pavlína r. Lehocká		1	4659,5434
+2762	POWERSOVÁ Pavlína r. Lehocká	zomrel -	1	4582,4657
+2762	POWERSOVÁ Pavlína r. Lehocká	zomrela -	1	3470,4569
+2762	POWERSOVÁ Pavlína r. Lehocká, SR	zomrel	0	3276,5157,5161,5182,5207,5574
+2762	POWERSOVÁ Pavlína r. Lehocká, SR	zomrela	0	3272,3275,3327,3356,3375,3405,5176,5565,5570,5572,5573
+2762	PRESALOVIČ Antol	zomrel	1	3718,4469,4848
+2762	PRESALOVIČ František	/zomrel/	0	3714,3718,3721,3725,4993,4994
+2762	PRESALOVIČ František	zomrel	1	4469,4474,4480,4848
+2762	PRESALOVIČ Ján		1	4582,4657,4659
+2762	PRESALOVIČ Ján	1920,zomrel -	1	4569
+2762	PRESALOVIČ Ján	nar. 1920 -	1	3470
+2762	PRESALOVIČ Jozef	/zomrel/	0	3725,4993,4994
+2762	PRESALOVIČ Jozef	zomrel	1	4474,4480
+2762	PRESALOVIČOVÁ Anna	r.Funfrovičová,zomrela	1	4469
+2762	Presalovičová Anna r. Funfrovičová	zomrel	0	4848
+2762	PRESALOVIČOVÁ Anna r. Funfrovičová, SR	zomrel	0	3718
+2762	PRIBOCKÝ Antonín		1	4472
+2762	Pultorová Mária r. Sikulová		1	4804
+2762	PUNDŽAKOVÁ Mária	r.Vendeľová,zomrel,/Breznica/	0	3746
+2762	PUNDŽAKOVÁ Mária r. Vendeľová	zomrel, Breznica -	1	3767
+2762	RAJSKA Tekla	/zomrel/	0	3660
+2762	RASKOVSKÝ Ján		0	3648
+2762	REICH Herman		1	4204
+2762	REICH Lazar		1	4204
+2762	REŇAK Ján		1	3279,3470,3578,4273,4282,4569,4582,4657,4659
+2762	REPTA František		1	3470,4569,4582,4657,4659
+2762	RITTEROVÁ Laura		1	4659
+2762	RITTEROVÁ Laura	dcéra Bernata	0	3469,3502,3503,3505,3506,3639,3640,3654,3655,3656,3657
+2762	RITTEROVÁ Laura	dcéra Bernata -	1	3470,3504,4569
+2762	RITTEROVÁ Laura	dcéra Bernata-	1	4582,4657
+2762	RITTEROVÁ Laura, SR	dcéra Bernata	0	3430,3641
+2762	ROTH Juraj, SR	ž.Ema r.Koradyová	0	4214
+2762	ROZENBERGEROVÁ Erika, Podjavorinskej|, Banovce nad Bebravou, PSČ 957 01, SR		0	3504
+2762	RUDÁ Alžbeta		1	4374,4659
+2762	RUDÁ Alžbeta	/zomrel/	0	3662
+2762	RUDÁ Alžbeta	zomrel -	1	4569,4657
+2762	RUDÁ Alžbeta	zomrela -	1	3470,4582
+2762	RUDÁ Alžbeta, SR	zomrel	0	3414,5172
+2762	RUDÁ Alžbeta, SR	zomrela	0	3417
+2762	RUDÁ Anna		1	4659
+2762	RUDÁ Anna	/zomrel/r. Stryčková	0	3517
+2762	RUDÁ Anna	zomrel r. Stryčková -	1	4657
+2762	RUDÁ Anna	zomrel r. Stryčková-	1	4582
+2762	RUDÁ Anna	zomrela r. Stryčková -	1	4569
+2762	RUDÁ Anna r. Stryčková	zomrela -	1	3470
+2762	RUDÁ Anna, SR	zomrel maž.r. Stryčková	0	3359
+2762	RUDÁ Anna, SR	zomrel r. Stryčková	0	3464,5638
+2762	RUDÁ Anna, SR	zomrela r. Stryčková	0	3359
+2762	RUDÁ Anna, SR	zomrela rod. Stryčková	0	3464,5638
+2762	RUDY Andrej		1	4659
+2762	RUDY Andrej	/zomrel/	0	4569
+2762	RUDY Andrej	/zomrel/,manž.Stryčková	0	3517,3662
+2762	RUDY Andrej	zomrel -	1	3470,4659
+2762	RUDY Andrej	zomrel-	1	4582,4657
+2762	RUDY Andrej	zomrel,manž.Stryčková -	1	3470,4569
+2762	RUDY Andrej	zomrel,manž.Stryčková-	1	4582,4657
+2762	RUDY Andrej, SR	zomrel ,manž.Stryčková	0	3464,5638
+2762	RUDY Andrej, SR	zomrel, manžel.r.Stryčková	0	3359
+2762	RUDY Andrej, SR	zomrel, žena r. Stryčková	0	3322
+2762	RUDY Andrej, SR	zomrel, žena Stryčková	0	3386,5191
+2762	RUDY Andrej, SR	zomrel,manž.Stryčková	0	3359,3464,5638
+2762	RYBČAK Mikuláš	/zomrel/	0	3772
+2762	RYBČAK Vasiľ	/zomrel/	0	3772
+2762	RYBČAKOVÁ Katarina	/zomrel/	0	3772
+2762	Rybčáková Mária r. Briňarská		1	4804
+2762	Sabinský Vojtech, ARCH.		1	4804
+2762	SEDINOVÁ Anna	r.Gombárová	1	4215
+2762	SEMAN Ján		1	4227
+2762	SEMAN Michal		1	4227
+2762	SEMANOVÁ Mária		1	4227
+2762	SENAJ Mikuláš	ž.Alžbeta r.Čurilová -	1	4239
+2762	Seplák Alžbeta	B 4	0	867
+2762	SEPLAKOVÁ Alžbeta		1	3470,4569,4582,4657,4659
+2762	SCHWARTR Milan		1	3470,4207,4209,4347,4569,4582,4657,4659

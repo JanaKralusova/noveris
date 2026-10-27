@@ -1,0 +1,256 @@
+982	Migašová Marta	PKV 173	1	284
+982	Michalčik Ján	syn Jána v USA	1	210
+982	Michalová Mária r. Kaňuch Ladzenská	Nemcovce	0	1356
+982	Namešpetra Ján	čd. 1159/1932	1	936
+982	Namešpetra Juraj	čd. 1899/1907	1	936
+982	Namešpetrová Mária	čd. 913/1912	1	936
+982	Nyékhegyiová Alžbeta		0	1051
+982	Oravcová Anna	čd. 747/1928, mal	1	1006
+982	Oravec Ján	čd. 747/1928	1	1006
+982	Pankuchová Anna r. Ferencová	m. Juraj zomrela 29.6.1973 v Kanade	0	1355
+982	Pasternáková Anna r. Sučková	manžel Ján	1	343
+982	Pasternáková Zuzana r. Sučková	manžel Juraj	1	343
+982	Pavelová Mária r. Kerestešová		1	328,331,336,338,830,831,1069,1070,1071,1073,1074,1075,1261
+982	Pavuková Terézia r. Kušnírová	vdova	1	1034
+982	Peržeľová Zuzana	dcéra Andreja	1	753
+982	Pipas Andrej	čd. 861/1906	1	935,936
+982	Pipas Ján	čd. 861/1906	1	935,936
+982	Pipas Michal	čd. 861/1906	1	935,936
+982	Pipasová Anna	čd. 861/1906	1	935,936
+982	Pipasová Mária	čd. 861/1906	1	935,936
+982	Polačeková Mária r. Ruňáková	manžel Ján, zom. 29.12.1962	1	215
+982	Reichner Zigmund	manželka Gizela r. Guttmannová	1	127,171,945
+982	Sarak Ján	syn Juraja	1	861
+982	Sarak Juraj	manželka Mária r. Hajdová	1	753
+982	Schöfeldová Regína	dcéra Davida	1	156
+982	Skuba Michal	slobodný, +22.3.2003	1	1027
+982	Sraliková Mária r. Homolková	+1992	1	958
+982	Stankovič Andrej	manželka Anna r. Eliašová	1	1023
+982	Stankovič Ján	čd. 527/1936	1	936
+982	Stankovič Ján	manželka Anna r. Gálová, zom	1	1023
+982	Stankovičová Anna r. Eliašová	narodená 1892	1	286
+982	Sučka - Bučko Jozef	syn Jána starší	1	861
+982	Sučka Andrej		1	619,914
+982	Sučka Andrej	manželka Mária r. Kruľová r. 1885, +9.9.1954	1	998
+982	Sučka Andrej	syn Michala, zomrel 3.1.1957	1	368
+982	Sučka Juraj		1	619,914
+982	Sučka Juraj	manželka Elena r. Molnárová	1	174,377,619,845,914,969
+982	Sučka Michal	zomrel 25.03.2000	0	361,368,377,969
+982	Sučko Andrej		1	176
+982	Sučko-Bučková Mária r. Stankovičová		1	753
+982	Sučková Helena r. Sukovská	vdova	1	998
+982	Sučková Mária		1	619,914
+982	Sučková Zuzana	maloletá, dcéra Michala	1	361,368
+982	Süsholc Izidor		1	156
+982	Süsholc Mor		1	156
+982	Šingľarová Mária	čd. 751/1928	1	936
+982	Šingľarová Mária	čd.751/1928	1	924
+982	Šoltysová Mária r. Daňková		1	994,1060
+982	Štecová Zuzana r. Ruňáková	v USA, zomrela 30.9.1963	1	462,1290
+982	Tkáč - Kovaľ Juraj	čd. 747/1928	1	1006
+982	Tkáč - Kovaľ Tomáš	čd. 353/1924	1	1006
+982	Vaľková Ema	zomrela 13.02.1989	0	1005,1044
+982	Varguš Andrej	manželka Anna r. Makolová	1	961
+982	Vargušová Anna r. Makolová		1	961
+982	Verbovanec Jozef	manželka Mária r. Hrivňaková	1	960
+982	Verbovavancová Mária r. Hrivňaková		1	960
+982	Verčimáková Anna	maloletá čd.45/1947	1	924
+982	Verčimáková Anna	maloletá, dcéra Andreja	1	246
+982	Verčimáková Anna	maloleta,čd. 45/1947	1	936
+982	Verčimáková Mária	maloletá, dcéra Andreja	1	246
+982	Verčimáková Mária	maloletá,čd. 45/1947	1	936
+982	Verčimáková Mária	maloletá,čd.45/1947	1	924
+982	Wahsman Albert		1	156
+982	Wahsman Jakab		1	156
+982	Wahsman Samuel		1	156
+982	Wahsmanová Etelka		1	156
+982	Zeillerová Ženy r. Süsholcová	manžel František	1	156
+982	Žarnay Jozef	čd. 3339/1889	1	936
+982	Žarnay Jozef	manželka Mária r. Kozaková	1	347
+982	Žarnayová Anna r. Marcinková	manžel Ján	1	246
+982	Žarnayová Margita	čd. 1338/29, 1761/1930	1	925,936
+982	Žarnayová Zuzana	čd. 2017/1867	1	925
+982	Žarnayová Zuzana r. Holdoková	vdova, muž bol Jozef, +1959	1	245
+982	Želej Anna r. Handzušová	manžel Ján	1	171,963,1024
+983	Demjanič Ján		1	571,865,898,899,900,901,902,903,912,915,922,923,924,980,983,984,1019,1021,1022,1046,1047,1090,1091,1092,1093,1094
+983	Demjanovič Fedor		1	651
+983	Demjanovičová Júlia r. Ďeďová		1	651
+983	Demko Štefan		1	543,837,838,988
+983	Dinis Jozef		1	543,570,571,727,837,838,865,898,899,900,901,902,903,912,915,922,923,924,955,980,983,984,988,1019,1021,1022,1046,1047,1090,1091,1092,1093,1094,1103
+983	Dinisová Mária r. Varcholová		1	648
+983	Dubivská Anastázia		1	543,630,687,837,838,988
+983	Dubivská Mária		1	543,630,687,837,838,988
+983	Dubivská Paraska		1	543,837,838,988
+983	Dubivský Ján		1	687
+983	Dubivský Juraj		1	697
+983	Dubivský Štefan		1	543,630,687,837,838,988
+983	Dušenko Jozef		1	648
+983	Dušenko Peter		1	543,594,727,837,838,988,1106,1107
+983	Dušenko Teodor		1	648
+983	Dušenko Vasiľ		1	648,741
+983	Dušenková Zuzana		1	543,594,727,837,838,988,1106,1107
+983	Dzubáková Helena r. Varjanová		1	799
+983	Fedorko Jozef		1	838
+983	Fedorková Anna r. Pidaná		1	838
+983	Fedoročková Zuzana r. Sivaničová, Varadka, Slovensko		1	543,837,838,988
+983	Gmiterková Katarína r. Varholíková		1	697
+983	Halecká Paraska r. Mikuľáková		1	543,594,660,690,837,838,988,1106,1107
+983	Homza Vasiľ, 086 33, Stebník, Slovensko		1	543,766,837,838,988
+983	Jančošek Demeter		1	1057
+983	Jaroščak Andrej		1	587
+983	Jaroščák Demeter		1	543,668,837,838,988
+983	Jaroščák Jozef		1	543,668,837,838,988
+983	JAROŠČÁK Vasiľ		1	543,650,775,837,838,988
+983	JAROŠČÁKOVÁ Anna		1	543,632,650,708,837,838,988,1069
+983	Jaroščaková Mária		1	678
+983	Jedinák Eliáš		1	543,837,838,988
+983	Jedinák Ilko		1	729
+983	Jedinák Jozef		1	543,624,686,837,838,988,1005,1039
+983	Jedinák Lejka		1	729
+983	Jedinák Michal		1	543,624,686,837,838,988,1005,1039
+983	Jedinák Vasiľ		1	543,837,838,988
+983	Jedináková Anna r. Juríčková		1	543,837,838,988
+983	Jedináková Zuzana r. Paňková		1	543,576,637,777,837,838,908,909,988,1002
+983	Jurečková Anna r. Korbová		1	543,555,837,838,878,988
+983	Juričko Andrej		1	661
+983	JURIČKO Demeter	Chmeľová ,; Chmeľová	1	543,555,594,837,838,878,1106,1107
+983	JURIČKO Demeter	Chmeľová; Chmeľová	0	988
+983	Juričko Mikuláš		1	769
+983	Juričko Peter		1	541,542,543,769,837,838,988,1025,1026,1027,1028,1029,1030,1031
+983	Juričko Štefan		1	769
+983	Juričková Anna		1	541,543,837,838,988,1026,1028
+983	Juričková Anna r. Vorečková		1	793
+983	Juričková Mária r. Dubivská		1	543,837,838,988
+983	Juričková Paraska		1	543,712,811,837,838,988
+983	Jurista Peter		1	543,652,712,811,837,838,988
+983	Kohn Pinkas		1	543,594,837,838,988,1106,1107
+983	Korba Jozef		1	793
+983	Korba Pavol		1	640
+983	Korba Peter		1	543,626,743,810,837,838,988,1111
+983	KORBA Štefan		1	678
+983	Korba Teodor		1	640
+983	Korbová Mária		1	543,574,648,727,837,838,913,916,919,981,985,988,1121,1136,1137
+983	Kostík Ján		1	543,709,837,838,988,996,1052,1135
+983	Kostiková Zuzana		1	543,555,580,594,837,838,878,988,1106,1107
+983	Krajňaková Eva r. Dinišová		1	802
+983	Kruško Demeter		1	543,645,837,838,988
+983	Kruško Štefan		1	543,650,837,838,988
+983	Krušková Mária		1	543,659,837,838,975,988
+983	Kuruc Juraj		1	651
+983	Leba Fedor		1	543,568,609,658,837,838,974,988
+983	Leba Teodor		1	795
+983	Lebová Paraska		1	795
+983	Marusin Mikuláš		1	543,611,837,838,988
+983	Michalčín Jozef		1	710
+983	Michalčín Mikuláš		1	543,712,811,837,838,988
+983	Michalčín Pavol		1	710
+983	Michalčín Peter		1	710
+983	Michalčínová Máría		1	710
+983	Mikuľák Andrej		1	543,594,660,682,702,837,838,988,1106,1107
+983	Mikuľák Demeter		1	734,800,862,1114
+983	Mikuľák Peter		1	543,674,734,794,800,837,838,862,988,1065,1114,1120
+983	Mikuľák Vasiľ		1	734,794
+983	Mikuľáková Mária		1	734,800,862,1114
+983	Mikuľáková Paraska		1	734,800,862,1114
+983	Mikuľáková Zuzana		1	543,674,734,794,800,837,838,862,988,1065,1114,1120
+983	Mikuľáková Zuzana r. Juričková		1	543,555,837,838,878,988
+983	Nalešník Fedor		1	795
+983	Ondisová Eva		1	543,837,838,988
+983	Paňko Jozef		1	543,659,837,838,975,988
+983	Paňko Štefan		1	543,576,637,777,837,838,908,909,988,1002
+983	Paňková Anna		1	796
+983	Pidaná Eva		1	838
+983	Pidaná Helena r. Kurtyová		1	838
+983	Pidani - Gocová Helena		1	543,627,837,838,988
+983	Pidani - Gocová Paraska		1	543,627,837,838,988
+983	Pidani Alexius		1	838
+983	Pidani Daniel		1	543,837,838,988
+983	Pidani Jozef		1	838
+983	Pidani-Goc Demeter		1	543,576,637,777,837,838,908,909,988,1002
+983	Pidani-Goc Ján		1	543,712,811,837,838,988
+983	Pidani-Goc Michal		1	784
+983	Pidaný-Goc Demeter		1	543,837,838,988
+983	Priputen Andrej		1	543,684,721,837,838,988
+983	Priputen Nikolaj		1	750
+983	Priputenová Anna r. Kotiková		1	684,721
+983	Priputenová Mária		1	742
+983	Purdešová Mária r. Marusinová		1	543,837,838,988
+983	Rešetárová Katarína r. Sivaničová		1	795
+983	Sad Štefan		1	543,837,838,988
+983	Sadová Paraska r. Kurtyová		1	543,837,838,988
+983	Sivanič Anton		1	543,561,837,838,988
+983	Sivanič Demeter, Jonkers 1071, New York, Slovensko		0	543,690,837,838,988
+983	Sivanič Jacko		1	795
+983	Sivanič Jakub		1	795
+983	Sivanič Jozef		1	795
+983	Sivanič Mikuláš		1	795
+983	Sivanič Pajza		1	543,837,838,988
+983	Sivanič Seman		1	795
+983	Sivanič Vasiľ		1	543,578,714,771,794,837,838,988,1110
+983	SIVANIČOVÁ Mária	r. Dzubáková, muž Demeter ,; r. Dzubáková, muž Demeter	1	543,568,609,795,837,838
+983	SIVANIČOVÁ Mária	r. Dzubáková, muž Demeter; r. Dzubáková, muž Demeter	0	658,974,988
+983	Sivaničová Mária r. Juríčková		1	543,691,807,837,838,954,988,1023
+983	Slimák Demeter		1	784
+983	Sobel Moric		1	543,723,837,838,988
+983	Solaničová Katarína		1	543,645,837,838,988
+983	Tannenbaum Meilich		1	543,626,743,810,837,838,988,1111
+983	Tima Hric		1	784
+983	Valková Paraska r. Sivaničová, Duklianska J, Svidník, Slovensko		1	837,838,988
+983	Varchoľ Ján, S. Maplewood 5841, Chicago 111, USA		0	543,837,838,988
+983	Varjanová Mária		1	543,554,671,752,837,838,886,887,888,889,890,891,892,895,896,897,988,1071
+983	Varjanová Mária r. Kurtyová		1	631,781,964,1001,1007,1013,1113
+983	Varjanová Zuzana		1	543,554,671,752,837,838,886,887,888,889,890,891,892,895,896,897,988,1071
+983	Veľká Paraska r. Jaroščaková		1	694,789
+983	Volčko Milan, Hlavná 50, KOŠICE, Slovensko		0	988
+983	Volčko Seman		1	543,602,837,838,988,1086,1087
+983	ZBIHLEJ Demeter		1	738
+983	Zbihlej Vasiľ		1	738
+983	Zbihlejová Anna		1	738
+984	Bačkai Ján, SR		0	91
+984	Červeňáková Mária r. Kendrová		0	515
+984	Červeňáková Mária r. Krištofová	manžel Andrej, zomrela	0	512
+984	Gallová Anna		0	549
+984	Gazdík Juraj	Rakoš	0	512
+984	GIMERA Andrej		0	909
+984	GIMERA Ján		0	512
+984	Gimerová Helena	maloletá	0	1193
+984	Hudák Jozef	súrodenci Andrej, Juraj, Štefan, zomrel	0	515
+984	HUDÁK Juraj		0	515
+984	Jakabová Anna, SR		0	91
+984	Jurečko Ján	ž.Anna r.Matisová	0	329
+984	Jurečko Ján	ž.Mária r.Karabinová	0	1107,1136,1137,1138
+984	Kendra Andrej	žena Mária r.Talianová	0	515
+984	Kendra Ján	žena Anna r.Sokolová	0	515
+984	Kendra Jozef	žena Mária r.Onofrejová	0	515
+984	Kosturová Anna r. Baranová		0	722
+984	KURIMČÁK Andrej		0	910
+984	Kurimčáková Anna, SR		0	91
+984	KURIMČÁKOVÁ Mária		0	910
+984	Kurimčáková Mária r. Miklošová	vdova	0	910
+984	Majerník Andrej, SR		0	91
+984	Majerníková Mária r. Onderišinová		0	283
+984	Majirská Anna	maloletý súrodenci Verona,Mária	0	511
+984	Majirská Anna, SR		0	91
+984	MAJIRSKÝ Andrej		0	506
+984	Majirský Andrej, SR		0	91
+984	MATISOVÁ Zuzana r. Kolesárová		0	810
+984	Mayer Ján r. Mayer	syn Andreja	0	712
+984	Pankuch Ján r. Pankuch	2	0	716
+984	Petrík Ján, SR		0	91
+984	Petríková Anna r. Stankovičová, SR		0	91
+984	Petríková Zuzana r. Jurečková, SR		0	91
+984	Pivovarník Ján r. Pivovarník		0	716
+984	Pivovarníková Mária	maloletá	0	716
+984	Slávik Andrej r. Slávik	manželka neb. Mária Fabuľa	0	721
+984	Slávik Ján r. Slávik	manželka Mária r. Marušinová	0	725
+984	Slávik Juraj r. Slávik		0	688
+984	Stankovič Andrej	ž.Anna r.Fedáková	0	550,1161
+984	Vavreková Anna r. Gimerová		0	1193
+984	Vavreková Anna r. Stankovičová	manžel Andrej	0	497,1147,1183,1184
+984	Vencelová Anna r. Jakubová, SR		0	91
+984	Vraňuch Ján, SR		0	91
+984	Vraňuchová Mária r. Blašková, SR		0	91
+985	Adamisová Alžbeta r. Kopčíková		0	650
+985	Adamová Zuzana r. Miškufová		0	49,58,173,174,331,368,440,629,630,631,767,779,780,1022
+985	BALUN Andrej		0	605,616,742
+985	BALUN Ján		0	58,430,450,451,475,616,627,628,742,747,748,940,1022

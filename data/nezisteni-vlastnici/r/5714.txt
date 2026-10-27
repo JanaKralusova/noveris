@@ -1,0 +1,256 @@
+3210	Keseru Žigmund		0	557
+3210	Klimaj Ján		0	497,498,499,526
+3210	Klimajová Zuzana		0	497,498,499,526
+3210	Kočiš Jozef		0	1005
+3210	Kočišová Zuzana r. Debrovská		0	1005
+3210	Koncziová Alžbeta r. Mirjaková		0	300
+3210	Kovácsová Júlia r. Domanová		0	421,1033
+3210	Kovácsová Mária r. Bozsenyíková		0	420,1033
+3210	Kovácsová Žofia r. Góraová		0	1033
+3210	Krištóf Dezider		0	1033
+3210	Krištóf Ján		0	734,907
+3210	Krištófová Alžbeta r. Rázgaová		0	539,540,541,632,633,686,703,766,767,768,816,817,827,828,1033,1052,1070
+3210	KRIŠTÓFOVÁ Jolana	rod.Fuzelová	1	1144
+3210	Krištófová Jolana r. Fuzelová		0	484,523,551,738,739,942,988,989,1150
+3210	Kruták Jozef		0	794
+3210	Krutáková Mária		0	794
+3210	Kulcsár Ján		0	900,901
+3210	Kvas Pavol		0	588
+3210	Kvasová Rozália r. Homolaová		0	588,589
+3210	Lajdaová Zuzana r. Jakabová		0	418
+3210	Licsková Júlia		0	450
+3210	Makan Pavol		0	822,825
+3210	Makanová Anna r. Milosrdná		0	822,825
+3210	Maschek František		0	829,890
+3210	Merczová Irma r. Nyulászová		0	435
+3210	Mihalková Jolana r. Nyistová		0	872,931
+3210	Mirjak Štefan		0	300
+3210	Mirjaková Margita	mal	0	300
+3210	Molnár Gejza		0	562,813
+3210	Molnár Július		0	663,664,665,858,859,860,861,923,994
+3210	Muzsik Ľudovít		0	447,471,581,582,936,998,999,1011
+3210	Muzsik Štefan	ml	0	671
+3210	Muzsiková Estera r. Jankušová		0	548,576,843
+3210	Muzsiková Žofia r. Deáková		0	407,936,937,1033
+3210	Nagy Alexander		0	508
+3210	Nagy Michal		0	528
+3210	Nagy Ondrej		0	211,545,550
+3210	Nagyová Alžbeta	mal	0	528
+3210	Nagyová Irma		0	508
+3210	Nagyová Žofia r. Szívósová		0	507
+3210	Nagyová Žofia r. Šipošová		0	454
+3210	Németh Alexander		0	992
+3210	Nép Alexander		0	179
+3210	Nyíroová Júlia r. Kulcsárová		0	900,901
+3210	Nyist Alexander		0	872
+3210	Nyulasz Ján	ml	0	634,711,712,775,935
+3210	Nyulász Július		0	616
+3210	Nyulászová Agneša r. Góraová		0	998,999
+3210	Nyulászová Irma r. Góraová		0	704,880,936,998,999,1000,1001,1049
+3210	Nyulászová Jolana	mal	0	565,658,695,744,766,767,768,798,858,859,860,861,926,947,960,1052,1146
+3210	Nyulaszová Lenka r. Újszásziová		0	606,657
+3210	Nyulászová Lídia r. Rázgaová		0	539,540,541
+3210	Nyulaszová Magdaléna	mal	0	540,541,658,663,664,665,695,744,766,767,768,797,798,817,847,858,859,860,861,874,921,923,926,947,960,1052,1146
+3210	Opavská Alžbeta r. Ďurečková		0	528
+3210	Ozsvald Ľudovít		0	485,509,510,574
+3210	Ozsvald Máté		0	485,509,510,574
+3210	Ozsvald Valent		0	682,683,692,830,919,964,965,966,967,1183
+3210	Ozsvaldová Alžbeta		0	682,683,692,856,919,1183
+3210	Ozsvaldová Gizela r. Zsigmondová		0	678,700,1056,1057,1118
+3210	Ozsvaldová Katarína		0	485,509,510,574
+3210	Ozsvaldová Lídia		0	692,856,919,1183
+3210	Pálinkáš Michal		0	507
+3210	Pálinkášová Alžbeta r. Kožuchová		0	507
+3210	Pappová Alžbeta r. Góraová		0	1033
+3210	Pappová Jolana r. Ozsváthová		0	614
+3210	Pappová Oľga		0	1033
+3210	Parajová Rozália r. Bónová		0	473
+3210	Pásztorová Estera r. Szilvásová		0	404,405,1033
+3210	Pécsiová Alžbeta r. Szabóová		0	1006
+3210	Péli Gustáv		0	600
+3210	Perizsová Vilma r. Szobiová		0	836,837
+3210	Peszeki Árpád		0	960
+3210	Peszeki Dezider		0	571
+3210	Peszeki Jozef		0	460
+3210	Peszeki Jozef	mal	0	569,571
+3210	Peszeki Július		0	842,859,960
+3210	Peszeki Karol		0	532
+3210	Peszeki Štefan		0	1033
+3210	Peszeki Štefan	ml	0	492,493,494,505,647,681,685,785,786
+3210	Peszekiová Jolana r. Bagócsiová		0	1033
+3210	Peszekiová Zuzana		0	791
+3210	Peszekiová Zuzana r. Matušovicová		0	729
+3210	Peszekiová Žofia		0	569,792,979,980,1033
+3210	Peťko Karol		0	437,438,444,615,747
+3210	Peťková Emília r. Martinecová		0	437,438,444,615,747
+3210	Pompošová Júlia r. Beneová		0	447
+3210	Porubská Helena r. Királyová		0	511,601
+3210	Potocká Anna r. Fedorová		0	396,488
+3210	Potocký Ondrej		0	396,488
+3210	Princ Imrich		0	557
+3210	Princ Juraj		0	557,595
+3210	Rác Štefan		0	507
+3210	Rákóczi Szövetség, Szász Károly utca 1. IV./1, 1027 Budapest, HU		0	634
+3210	Rakovič Štefan		0	492,493,494
+3210	Rakovičová Irena		0	492,493,494
+3210	Rakovičová Júlia		0	492,493,494
+3210	Rázgaová Alžbeta r. Peszekiová		0	1033
+3210	Regászová Mária r. Királyová		0	480
+3210	Reiner Vavrinec, Dr.		0	932,936,998,999,1071
+3210	Rozenbaum Henrik		0	952
+3210	Segyevi Jozef	ml	0	486
+3210	Silberstein Gejza, Dr.		0	421
+3210	Sislerová Mária r. Danišová		0	795,1033
+3210	Szabó Július		0	688
+3210	Szabó Koloman		0	546,675,900,1033
+3210	Szabó Ľudovít		0	688
+3210	Szabó Viliam		0	688
+3210	Szabóová Alžbeta r. Šipošová		0	682,683,692,748,749,750,779,856,900,901,915,919,1183
+3210	Szabóová Gizela r. Pappová		0	696,714,715
+3210	Szabóová Júlia r. Szilvásová		0	411
+3210	Szabóová Júlia r. Szilvásová	vd	0	1033
+3210	Szaboová Žofia r. Szivosová		0	528
+3210	Szántóová Júlia r. Pappová		0	452
+3210	Szecso Ľudovít		0	638,684,853
+3210	Szecsoová Helena r. Császárová		0	788
+3210	Szikra Ľudovít		0	746
+3210	Szikra Viliam		0	444,552,731
+3210	Szikra Viliam	mal	0	503
+3210	Szikraová Gizela r. Peszekiová		0	730
+3210	Szikraová Justína r. Szilvásová		0	413,754,974
+3210	Szikrová Gizela r. Princová		0	557
+3210	Szilvás Ján		0	413
+3210	Szilvás Ondrej		0	413,652,754,1072
+3210	Szilvásová Etela		0	548
+3210	Szilvásová Justína r. Nyulászová	ml	0	455
+3210	Szilvásová Lídia r. Ozsvaldová		0	556
+3210	Szívós Vojtech		0	507
+3210	Szívósová Etela		0	843
+3210	Szobi Ján		0	694,952
+3210	Szobi Koloman		0	920
+3210	Szobiová Etela r. Nagyová		0	508
+3210	Szobiová Etela r. Szikraová		0	974
+3210	Szúnyogh Ľudovít		0	718
+3210	Šedivý Jozef		0	1098
+3210	Šipoš Árpád		0	479
+3210	Šipoš Árpád	ml	0	522
+3210	Šipoš Dezider		0	567
+3210	Šipoš Jozef		0	766,767,768
+3210	Šipoš Koloman		0	704
+3210	Šipoš Ľudovít		0	888,889
+3210	Šipošová Barbora r. Szabóová		0	628,1181
+3210	Šipošová Ema r. Deáková		0	704
+3210	Šipošová Júlia r. Muzsiková		0	840
+3210	Šiška Gejza		0	492,493,494
+3210	Šmál Jozef		0	791,979,980
+3210	Šramko Ján		0	1034
+3210	Štutik Karol		0	720,721
+3210	Šubová Jolana		0	587
+3210	Šubová Viktória r. Szollosiová		0	402
+3210	Šuchanová Jolana r. Muzsíková		0	575
+3210	Tarová Etela r. Zsigmondová		0	506,737,849,1033
+3210	Tildi Ľudovít		0	389,790
+3210	Tildi Ľudovít	ml	0	944
+3210	Tildiová Estera r. Šipošová		0	790
+3210	Tildiová Estera r. Šipošová	ml	0	944,1033
+3210	Tildiová Estera r. Šipošová	vd	0	567
+3210	Tildiová Johana r. Vyšehradská		0	743,945,1033
+3210	Tóth Ján		0	483
+3210	Tóth Jónáš		0	564,824,825
+3210	Tóth Koloman		0	1058
+3210	Tóth Ľudovít		0	490,535,1058
+3210	Tóth Ľudovít	ml	0	535
+3210	Tóth Štefan		0	1058
+3210	Tóthová Alžbeta		0	743,925,945,1033
+3210	Tóthová Alžbeta	mal	0	944
+3210	Tóthová Hermína r. Nyistová		0	931
+3210	Tóthová Ida r. Bertaová		0	379,562
+3210	Tóthová Jolana r. Hasznosová		0	1007
+3210	Tóthová Žofia r. Deáková		0	436,570,669,824,825,940,1014,1061
+3210	Újszásziová Ema r. Šipošová		0	1033
+3210	Újszásziová Žofia r. Deáková		0	1033
+3210	Varga Ján		0	1033
+3210	Vargová Etela r. Mészárosová		0	531,1089
+3210	Vargová Irma r. Ozsvaldová		0	556
+3210	Vargová Júlia r. Szikraová		0	697
+3210	Véber Koloman		0	977
+3210	Véberová Mária r. Gálová		0	829
+3210	Véberová Mária r. Weishaupt		0	977
+3210	Veszelei Ján		0	422,940
+3210	Veszelei Július		0	422,516,724,757,758,776,885,1033
+3210	Veszelei Samuel		0	757,758,776,958
+3210	Veszeleiová Alžbeta r. Holičkóová		0	538,730,900,901
+3210	Veszeleiová Júlia r. Szecseiová		0	852
+3210	Virágová Jozefína		0	448
+3210	Vyšehradská Alžbeta r. Szilvásová		0	413,488,652,754,960,961,974,1146
+3210	Vyšehradská Irma r. Dvoráková		0	382
+3210	Vyšehradský Ján		0	677,743,925,945,1094,1108
+3210	Vyšehradský Ján	mal	0	944
+3210	Vyšehradský Ondrej		0	944,945
+3210	Weisová Zlatica r. Péliová		0	550
+3210	Zajacz Jozef		0	457
+3210	Zsidó Ľudovít		0	849
+3210	Zsidóová Zuzana r. Jakabová		0	1033
+3210	Zsigmondová Žofia r. Szilvásová		0	413,754,960,961,1146
+3210	Zsigóová Žofia r. Kulcsárová		0	900,901
+3211	Andrassy Július		0	1332
+3211	Bajusová Anna r. Buzinkaiová, SR		0	1194
+3211	Bančanský Michal r. Bančanský, SR, manž. Zuzana r. Hirková manž. Zuzana r. Hirková		0	1334
+3211	BODNÁR Ján		0	1513
+3211	BODNÁR Juraj		0	1513
+3211	BODNÁR Michal		0	1513
+3211	BODNÁR Štefan		0	1513
+3211	Bodnárová Alžbeta		0	1513
+3211	Bodnárová Anna		0	1513
+3211	Bodnárová Elena		0	1513
+3211	Bodnárová Mária		0	1513
+3211	Bodnárová Mária r. Jurková		0	1513
+3211	Bodnárová Verona r. Bodnárová		0	1144
+3211	Borovská Anna r. Capová		0	1343
+3211	BOROVSKÁ Anna r. Capová, SR		1	410
+3211	Borovská Anna r. Leščišinová		0	1512
+3211	Borovská Anna r. Porhinčáková		0	1279
+3211	Borovská Mária r. Leščišinová		0	1512
+3211	Capík Ján		0	1512
+3211	Capík Michal		0	1320
+3211	Capiková Mária r. Bučková		0	1463
+3211	Cifranič Juraj r. Cifranič	Australia	0	1461
+3211	CIFRANIČOVÁ Mária r. Poľaková		0	1512
+3211	Čižmárová Mária		0	1215
+3211	ČIŽMÁROVÁ Mária	dcéra Jana	1	381
+3211	Čižmarová Mária r. Janoščíková		0	1516
+3211	Feňár Ján		0	1418
+3211	FERENČÍKOVÁ Anna r. Štuňová		0	1404
+3211	Ferjo Ján r. Ferjo, Košice Košice		0	1310
+3211	Ferjo Ján, manž. Mária r. Kešelicová manž. Mária r. Kešelicová		0	1184
+3211	Ferjo Juraj r. Ferjo, manž. Mária r. Kvačaková manž. Mária r. Kvačaková		0	1333
+3211	Ferjo Juraj, manž. Mária r. Tovarňanská manž. Mária r. Tovarňanská		0	1518
+3211	FERJO Michal, manž. Mária r. Figeľová manž. Mária r. Figeľová		0	1459
+3211	FERJO Michal, SR	ž. Mária Figeľová	1	1023
+3211	Ferjová Anna r. Poláková		0	1298
+3211	Ferjová Mária r. Borovská		0	1133
+3211	Ferjová Mária r. Gajdošová		0	367,1133
+3211	Ferjová Mária r. Kešelicová		0	1133
+3211	Ferjová Mária r. Romanová		0	1133
+3211	Gajdoš Michal r. Gajdoš		0	1513
+3211	Gajdoš Michal, SR	ž. Anna r. Greculová	0	367
+3211	GAMRAT Ján		0	1338,1478
+3211	GAMRATOVÁ Anna		0	1285
+3211	GAMRATOVÁ Anna r. Bančanská		0	1200
+3211	GAMRATOVÁ Mária		0	1497
+3211	Gecíková Anna r. Fujarošová		0	1352
+3211	Geciková Júlia r. Verebová		0	1475
+3211	GODOVÁ Anna r. Rosipajlová		0	1299
+3211	GRECULA Michal		0	1167
+3211	Harmadi Ján		0	1133
+3211	Harmadi Michal		0	1133,1474
+3211	HARMADI Michal	syn Juraja	1	569,1531
+3211	HARMADI Michal	ž. Anna	1	410
+3211	Harmadiová Barbora r. Luteránová		0	1202
+3211	Harmadiová Mária		0	1133
+3211	HARMADIOVÁ Mária	dcéra Juraja	1	569,1531
+3211	HATRAKOVÁ Anna		1	738,1133
+3211	Hatraková Mária r. Capíková		0	1324,1492
+3211	HATRAKOVÁ Mária r. Capiková, SR		1	738
+3211	HILKOVÁ Alžbeta r. Luteranová		0	1283
+3211	HUDÁKOVÁ Anna		0	1177,1209

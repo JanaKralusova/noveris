@@ -1,0 +1,256 @@
+543	VARGOVÁ Juliana, SK		0	1081
+543	VARGOVÁ Justína, SK		0	861
+543	VARGOVÁ Mária, SK		0	395,397,398,611,613,999,1301
+543	VARGOVÁ Sidonia, SK		0	838,1633
+543	VARGOVÁ Terézia, SK		0	660,1348
+543	VARGOVÁ Valéria, SK		0	999
+543	VARJÚ Gabriel, SK		0	220,834,899,1204
+543	VARJÚ Gejza, SK		0	665,835
+543	VARJÚ Ján, SK		0	949
+543	VARJÚ Július, SK		0	949
+543	VARJÚ Koloman, SK		0	220,899
+543	VARJÚ Ľudovít, SK		0	1296
+543	VARJÚ Zoltán, SK		0	307,935
+543	VARJÚ Žigmund, SK		0	578,949,1507
+543	VARJUOVÁ Alžbeta, SK		0	665,796
+543	VARJÚOVÁ Berta, SK		0	665,835,949
+543	VARJÚOVÁ Edita, SK		0	796
+543	VARJÚOVÁ Estera, SK		0	637
+543	VARJÚOVÁ Helena, SK		0	220,899
+543	VARJÚOVÁ Lenka, SK		0	657,748
+543	VARJÚOVÁ Margita, SK		0	578,1507
+543	VARJÚOVÁ Mária, SK		0	220,899,1204
+543	VARJÚOVÁ Sidonia, SK		0	582,796,1630
+543	VARJÚOVÁ Terézia, SK		0	665,835,1009
+543	VERES Žigmund, SK		0	647
+543	VERESOVÁ Etela, SK		0	494
+543	VEREŠ Július, SK		0	518,647
+543	VEREŠ Žigmond, SK		0	518
+543	VÍGHOVÁ Mária, SK		0	479,1112
+543	VÍGOVÁ Mária, SK		0	1112
+543	VIRÁGOVÁ Estera, SK		0	659
+543	VOROS Alexander, SK		0	771,982,1066
+543	VÖRÖS Eugen, SK		0	513
+543	VOROS Jozef, SK		0	777
+543	VÖRÖS Július, SK		0	518
+543	VÖRÖS Žigmond, SK		0	518
+543	VÖRÖS Žigmund, SK		0	647
+543	VOROSOVÁ Mária, SK		0	771,981,982
+543	VÖRÖSOVÁ Sidonia, SK		0	1648
+543	VÖRÖSOVÁ Terézia, SK		0	326
+543	VÖRÖSOVÁ Vilma, SK		0	572
+543	VOROŠOVÁ Katarína, SK		0	1220
+543	VRABČANOVÁ Anna r. Farkašová, SK		0	1310,1312
+543	WENKHEINOVÁ Margita, SK		0	207,1481
+543	WIEDEROVÁ Mária, SK		0	1459
+543	ZÁBOJI Vojtech Július, SK		0	1379
+543	ZSALKOVICS Alexander, SK		0	207,590,1252,1479
+543	ZSALKOVICS Alexin, SK		0	590
+543	ZSALKOVICSOVÁ Helena, SK		0	1251
+543	ZSALKOVICSOVÁ Žofia, SK		0	207,1479
+543	ZSALKOVIČOVÁ Žofia, SK		0	999
+543	ZSILLEOVÁ Eva, SK		0	454,455,456,457,627,628,631,1459,1622,1623,1624
+544	Jambor František r. Jambor	Ulrike	0	358
+544	Jambor Teofil		0	137,138
+544	Jesenská Mária	Gábore	0	316
+544	Jesenská Mária r. Paulovičová	Martiné	0	137,138
+544	Jesenská Otília		0	353
+544	Jesenská Zuzana r. Herčútová		0	341
+544	Jesenský Dionýz	Štefané	0	328
+544	Jesenský František		0	137,138
+544	Jesenský Ján r. Jesenský	Žiaké,žena Vilma Lehotská	0	354
+544	Jesenský Július r. Jesenský	Žiaké	0	357
+544	Jesenský Žigmund a Pavlína Jesenská r. Pavlovičová	Dušké	0	333
+544	Matula Jozef r. Matula		0	345
+544	Pavlovičová Anna r. Pavlovičová	Magdé	0	340
+545	Adamjak Jozef r. Adamjak		0	6250
+545	Antolák Michal r. Antolák		0	70,5887,6272
+545	Antolák Roman r. Antolák		0	70,5887,6272
+545	Balčík Jozef		0	6273
+545	Balčík Jozef r. Balčík		0	70,5887,6272
+545	Balčík Michal		0	4919
+545	Balčík Michal r. Balčík		0	995,6071
+545	Balčíková Emília		0	995,4919,5778,5779,6071
+545	Balčíková Zuzana r. Durajová		0	5779
+545	Batuna Jozef r. Batuna		0	6175
+545	Bečka Jozef r. Bečka	manž. Anna r.Marettová	0	6260,6264
+545	Bencúr Jozef r. Bencúr		0	6081
+545	Bernátová Helena r. Lavottová		0	4587
+545	Biel Albín r. Biel	naposledy bytom Prievidza, Jilemnického nábrežie 597/7	0	1880
+545	Biel Dušan r. Biel	naposledy bytom Bratislava, Palisády 50	0	1880
+545	Biel Emil r. Biel	naposledy bytom Bratislava, Palisády č. 50	0	1880
+545	Biel Ján r. Biel	naposledy bytom Tachov, Jilemnického 258	0	1880
+545	Biel Jozef r. Biel	naposledy bytom Ľubochňa 69	0	1880
+545	Bielová Mária r. Kováčiková		0	578
+545	Brodňanská Ilona r. Brodňanská		0	6237
+545	Brodňanský Ján r. Brodňanský		0	6237
+545	Bysterský Alexej r. Bysterský a Bysterská Zuzana r. Zlomžová		0	6020
+545	Bysterský Emil r. Bysterský		0	4726
+545	Ďaďo Jozef r. Ďaďo a Ďaďová Mária r. Diežková		0	6155
+545	Debnár Ondrej r. Debnár		0	6237
+545	Dobák Vendelín r. Dobák		0	6232
+545	Dobáková Františka r. Brixová		0	6232
+545	Dúha Štefan r. Dúha		0	70,5887,6272
+545	Durkotová Margita r. Bielová		0	1880
+545	Ďurkovič Ján r. Ďurkovič		0	6065
+545	Ďurkovič Jozef r. Ďurkovič		0	6068
+545	Ďurkovič Michal Miloš r. Ďurkovič		0	70,627,5887,6182,6184,6272
+545	Ďurkovič Michal r. Ďurkovič		0	6068
+545	Ďurkovič Milan r. Ďurkovič		0	6068
+545	Ďurkovičová Božena r. Mancová		0	70,627,5887,6068,6182,6184,6272
+545	Ďurkovičová Darina		0	6068
+545	Ďurkovičová Eva		0	6068
+545	Duschnitz Jakub r. Duschnitz		0	4970,6055,6056
+545	Duschnitzová Augusta r. Faragová		0	6056
+545	Faragová Augusta r. Duschnitzová		0	4970,6055
+545	Frankelová Leuke r. Duschnitzová		0	4970,6055,6056
+545	Gacek Mikuláš r. Gacek		0	6221
+545	Gaceková Emília r. Tatliaková		0	6090
+545	Gágorová Mária		0	6277
+545	Gornál Jaroslav r. Gornál		0	6042,6550
+545	Halušková Elena r. Andelová		0	307,5412
+545	Halušková Ilona r. Andelová		0	6142
+545	Halušková Margita r. Hromadová		0	627
+545	Hatalová Terézia r. Parentová		0	70,1589,5887,6272
+545	Hattalová Terézia r. Parentová		0	6195
+545	Hello Martin r. Hello		0	228
+545	Hlinická Mária r. Kováčiková		0	4665,5787
+545	Hlinický Ján r. Hlinický		0	4363,6276
+545	Hlinický Ján r. Hlinický	syn Štefana Hlinického	0	6113
+545	Hlinický Štefan r. Hlinický		0	6276
+545	Hnojčík Vladimír r. Hnojčík		0	6233
+545	Hnojčíková Anna		0	6233
+545	Hromada Ľudovít r. Hromada		0	627
+545	Hrúziková Alžbeta r. Kozáčiková		0	5083
+545	Chodák Ondrej r. Chodák		0	6180
+545	Chrbetová Anna r. Kozáčiková		0	5083,6249
+545	Jančo Anton r. Jančo	Kléna,manž. Rozália r.Kapitánová, zomrel 23.12.1979	0	70,5887,6272
+545	Kello Dušan r. Kello		0	6066,6067
+545	Kellová Eva r. Šrámeková		0	6067
+545	Kláčik Ján r. Kláčik		0	6170,6263
+545	Kokoška Jozef r. Kokoška		0	6207
+545	Koreň Ján r. Koreň a Koreňová Anna r. Jakubčáková		0	6061
+545	Kováčik Juraj r. Kováčik		0	6224
+545	Kovalčíková Elena r. Martinčeková		0	6275
+545	Kovalčíková Elena r. Martinčeková	zomrela 5.5.1974, naposledy bytom Bysterecká 27, Dolný Kubín	0	6272
+545	Kozáčik Ján r. Kozáčik		0	5083
+545	Kozáčik Jozef r. Kozáčik		0	5083,6249,6279
+545	Kozáčiková Alžbeta		0	6249
+545	Kozáčiková Anna r. Karetková		0	6160
+545	Kozáčiková Bernardína		0	5083,6249
+545	Kozáčiková Františka		0	5083,6249
+545	Krchmanová Elena		0	6196
+545	Kristofčák Ondrej r. Kristofčák		0	6116
+545	Kršák Ján r. Kršák		0	70,5887,6272
+545	Kršáková Bronislava r. Sopčíková		0	70,5887,6272
+545	Kubala Jozef r. Kubala		0	6156
+545	Kutlík Milan r. Kutlík		0	70,5887,6178,6189,6272,6350
+545	Kuzmová Pavla r. Mesiariková		0	6276
+545	Lavotta Jozef r. Lavotta		0	4587
+545	Lazoríková Mária r. Ťatliaková		0	70,5887,6272
+545	Lazoríková Zuzana r. Pukalová		0	307,5412
+545	Lazoríková Žofia r. Ťatliaková		0	70,287,5887,6243,6253,6272,6695
+545	Lizoň Ján r. Lizoň	manž. Žofia Kacková	0	6179
+545	Lizoňová Žofia r. Kacková		0	6199
+545	Lupták Ondrej r. Lupták		0	5395
+545	Macková Alžbeta r. Bielová	naposledy bytom Ružomberok, Urxova 7	0	1880
+545	Maťuga Andrej r. Maťuga a Maťugová Žofia r. Dudášová		0	5057,6043,6174,6176,6339,6382
+545	Maťuga Andrej r. Maťuga a Žofia Maťugová r. Dudášová		0	6278
+545	Maťugová Zuzana		0	361
+545	Mayerová Ilona r. Balčíková		0	70,2097,2101,5887,6272
+545	Mäsiarová Eva r. Mlynárová		0	995
+545	Medzihradská Mária r. Lazoríková		0	286
+545	MEŠKO Štefan		0	5783
+545	Meško Štefan r. Meško		0	70,2531,3856,3884,4967,5085,5887,5989,5990,5991,5992,6177,6272,6677,6678
+545	Michalecová Marta r. Bugalová		0	228
+545	Mračnová Oľga r. Šárfyová		0	101
+545	Obrimčák Jozef r. Obrimčák		0	6176
+545	Obrimčáková Apolónia r. Bullová		0	6176
+545	Pajtášová Mária r. Kucbelová		0	6123
+545	Palko Jozef r. Palko	nar.18.11.1909, zomr.6.5.1976, naposledy bytom Janoškova 4	0	5395
+545	Parentová Mária r. Parentová		0	6195
+545	Pukalová Emília		0	6143
+545	Pukalová Helena		0	70,5887,5971,6256,6272
+545	Pukalová Mária r. Janovicová		0	70,307,5412,5887,5971,6256,6272
+545	Púplava Ján r. Púplava	naposledy bytom Dolný Kubín, ul. Bysterecká 19	0	1880
+545	Rolíková Johana r. Parentová		0	6195
+545	Sárená Mária r. Diežková		0	45,2097,2101
+545	Sárený Jozef r. Sárený		0	45,2097
+545	Singerová Margita r. Duschnitzová		0	4970,6055,6056
+545	Smetanay Ján Dr.  r. Smetanay	manž. Emília Brixová	0	6070
+545	Spišák Jozef r. Spišák		0	6214
+545	Spišáková Terézia r. Grešková		0	6214
+545	Surovjak Anton r. Surovjak		0	70,5887,6272
+545	Šimeková Mária r. Kellová		0	6066,6067
+545	Šimurda Jozef r. Šimurda		0	6208
+545	Šimurdová Anna r. Medzihradská		0	6208
+545	Škrabák Michal r. Škrabák		0	575
+545	Škulecová Emília r. Lizoňová		0	6199
+545	Šmidová Anna r. Ozachajová		0	6088
+545	Štefanicová Anna r. Bysterská		0	4726
+545	Tarajová Anna r. Bielová	Kňažia 31	0	1880
+545	Tnkócy Blahomír r. Tnkócy		0	6192,6250
+545	Trnkócy Blahomír r. Trnkócy		0	6274
+545	Trnkócy Branislav r. Trnkócy		0	5663,6192,6250,6274
+545	Trnkócy Mikuláš r. Trnkócy		0	6193,6250,6274
+545	Trnkócyová Žofia r. Halašová		0	70,3845,5096,5887,6192,6272
+545	Vandlíková Mária r. Macáková		0	287
+545	Vankúšová Jolana r. Barónová		0	6267
+545	Vaňová Drahomíra r. Danková		0	6121
+545	Vargová Eva Ing.  r. Bielová	naposledy bytom Bratislava II, Vilova ul. 27	0	1880
+545	Zrnčík Anton r. Zrnčík		0	6246
+545	Zrnčík Jozef r. Zrnčík		0	6246
+546	Bačík Anton		0	470,473,534,592
+546	Bačík Martin		0	538
+546	Bačíková Anna		0	534,592
+546	Bačíková Mária		0	534,592
+546	Bačíková Mária r. Majeríková		0	534,592
+546	Gločka František		0	487
+546	Hrenák Jozef		0	567
+546	Hrenák Ondrej		0	514,702,774
+546	Janíková Antónia		0	534,592
+546	Janíková Antónia r. Brojacová		0	472
+546	Košút Anton		0	534,592
+546	Krčmáriková Mária r. Markechová		0	534,592
+546	Kuruc Andrej		1	745
+546	Kuruc Jozef		1	745
+546	Kvasnica Štefan		0	461,534,592
+546	Kvasnicová Anna r. Mrázová		0	470,473,534,592
+546	Kvasnicová Mária		0	461,534,592
+546	Lapasová Agneša		0	566,567
+546	Moravčíková Mária r. Pastieriková		0	470,473,474,541,770
+546	Pastierik Jozef		0	470,472,473,474,534,541,592,770
+546	Pastieriková Jozefína r. Závadská		0	470,473
+546	Pastieriková Mária		0	472,534,592
+546	Pastieriková Mária r. Chlebanová		0	541,770
+546	Pastieriková Žofia		0	470,473,474,541,770
+546	Petrík Štefan		0	534,592
+546	Petríková Mária		0	473
+546	Petríková Mária r. Mrázová		0	470,534,592
+546	Samul Ján		0	472,473
+546	Samulová Alžbeta		0	473
+546	Šuly Ján r. Šuly	zomrel 27.12.1991	0	566
+546	Šuly Pavol	zom	1	671
+546	Šulyová Mária		0	567
+547	Adamcová Angela r. Ilenčíková	m.Vincenc	0	1518,1683,1702,2184,2271
+547	Adamcová Mária		0	238
+547	Adamec František		0	1518,1683,1702,2271
+547	Adamec Ján		0	2168
+547	Adamec Martin		0	1518,1683,1702,1713,2168,2271
+547	Adamec Vincenc	Angela r.Ilenčíková	0	2184
+547	Adamec Vít	ž.Rozália r.Zemková	0	1518,1683,1702,2271
+547	Baptistová Pavlína r. Magnusová		0	1737
+547	Bašnáková Eva r. Rajnicová	muž Ján	0	1656
+547	Bašnáková Eva r. Rajnícová	m.Ján	0	1518,1683,1702,2271
+547	Bašnáková Rozália r. Vlkovičová		0	2094
+547	Beblavá Františka r. Rajnícová	m.Florián	0	2134
+547	Beblavý Florián	ž.Františka r.Rajnícová	0	2134
+547	Bederka Augustín	ž.Cecília r.Adamcová	0	2063
+547	Bederka Jozef	ž.Františka r.Ilenčíková	0	1518,1683,1702,2271
+547	Bederka Rudolf		0	383,1648,1649,2063,2247
+547	Bederka Štefan	ž.Rozália r.Mihalovičová	0	1557
+547	Bederková Rozália	m.Štefan,č.79	0	976
+547	Bednár František	ž.Anna r.Mackovičová	0	1518,1683,1702,2271
+547	Bednár Ján	Lančár 16	0	2219
+547	Bednárová Anna r. Mackovičová	m.František	0	1518,1683,1702,2271
+547	Belan Augustín	ž.Helena r.Sekajová	0	140

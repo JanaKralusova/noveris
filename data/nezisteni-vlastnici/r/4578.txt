@@ -1,0 +1,256 @@
+2591	ŠMITALOVÁ Anna	r. Fačkovec	0	1058,1064,1071
+2591	Štefanková Filoména	r.Vanková, manž.František, zom. 01.05.1977	0	1178
+2591	ŠTEFANKOVÁ Filoména	r. Vanko	0	1091,1092
+2591	Štefo Štefan	r.Štefo	0	1178
+2591	ŠTEFO Štefan		0	839,1057,1091,1092
+2591	Štyčarová Aurélia	r.Lampertová	0	1178,1179
+2591	ŠTYČAYOVÁ Aurélia	r. Lampert	0	843,844,845,906,907,1000,1001,1002,1091,1092,1104,1149,1205,1206,1297,1298
+2591	Timoracký Jozef	r.Timoracký, Nitra	0	1178
+2591	Timoracký Teofil	r.Timoracký	0	1178
+2591	TIMORACKÝ Teofil		0	869,1091,1092
+2591	TRNKOVÁ Mária	r. Brunegraf	0	838,1057
+2591	TURASOVÁ Amália	r. Podmaka	0	1089
+2591	Urcikán Florián	r.Urcikán	0	1178
+2591	URCIKÁN Flórian		0	820,1078,1091,1092
+2591	Urcikán Pavol	r.Urcikán, mal. v r.1938	0	1178
+2591	URCIKÁN Pavol		0	820,1091,1092
+2591	Valušeková Anna	r.Osuská, manž. Ján	0	1178
+2591	VALUŠEKOVÁ Anna	r. Osuský	0	836,956,994,1034,1059,1091,1092
+2591	VALÚŠEKOVÁ Anna	r.Osuská	0	1060
+2591	VANČOVÁ Anna	r. Vanko	0	1059,1089,1090
+2591	VANEKOVÁ Mária	r. Funka	0	943,1093
+2591	VANKO Cyril		0	1059
+2591	Vanko Klement	r.Vanko, zom. 13.01.1968	0	1178
+2591	VANKO Klement		0	1091,1092,1204,1205,1206
+2591	Vanko Štefan	r.Vanko	0	1054
+2591	VANKO Štefan		0	1055
+2591	VANKO Tomáš		0	1090
+2591	Vanko Vincent	r.Vanko	0	1178
+2591	VANKO Vincent		0	1091,1092
+2591	VANKO Vít		0	1115
+2591	Vanková Alžbeta		0	1054,1055
+2591	VANKOVÁ Anna	r. Vanko	0	1060
+2591	Vanková Františka	r.Fačkovcová, manž.Eduard	0	1178
+2591	VANKOVÁ Františka	r. Fačkovec	0	1091,1092
+2591	Vanková Karolína		0	1054,1055,1091,1092,1178
+2591	Vanková Katarína	mal. v r.1918	0	1178
+2591	VANKOVÁ Katarína		0	1091,1092
+2591	VANKOVÁ Mária	r. Teplanský	0	1119
+2591	Vidovičová Františka	r.Pinkavová	0	1178,1187
+2591	VIDOVIČOVÁ Františka	r. Pinkava	0	830,851,910,992,1029,1091,1092
+2591	Vindiš Anton	r.Vindiš, mal. v r.1946	0	1178
+2591	VINDIŠ Anton		0	882,941,1031,1091,1092
+2591	Vindiš Ján	r.Vindiš	0	1178
+2591	VINDIŠ Ján		0	882,1091,1092
+2591	Vindiš Michal	r.Vindiš	0	1178
+2591	VINDIŠ Michal		0	882,1091,1092
+2591	Vindiš Pavol	r.Vindiš, manž.Mária r.Kostolanská	0	1173
+2591	VINDIŠ Pavol		0	941,1059
+2591	Vindiš Štefan	r.Vindiš	0	1178
+2591	VINDIŠ Štefan		0	882,1091,1092
+2591	Vindiš Teofil	r.Vindiš	0	1178
+2591	VINDIŠ Teofil		0	882,941,1091,1092
+2591	Vindiš Tomáš	r.Vindiš, vzdialený	0	1178
+2591	VINDIŠ Tomáš	/vzdial./	0	882,941,1031,1032,1091,1092
+2591	Vindišová Mária	r.Kostolanská, manž.Pavol	0	1173
+2591	VISKUP Štefan		0	1091,1092
+2591	Viszkup Štefan	r.Viszkup, manž.Alžbeta r. Lucsková	0	1178
+2591	Vranková Filoména	r.Fačkovcová, zom. 27.05.1965	0	1178
+2591	VRANKOVÁ Filoména	r. Fačkovec	0	950,1082,1091,1092,1262
+2591	Vranková Uršula	výmaz mal. v r.1927	0	805,808,1178,1233,1234
+2591	VRANKOVÁ Uršula		0	855,949,951,996,1007,1077,1091,1092,1131,1132,1235,1236,1237
+2591	ZÁHORA Jakub		0	942
+2591	ZÁHOROVÁ Mária	r. Bošanský	0	1026,1091,1092
+2591	Zachar Izidor	r.Zachar, výmaz mal. v r.1922	0	1178
+2591	ZACHAR Izidor		0	1091,1092
+2591	Závodná Judita	r.Sopóciová, manž. Štefan, zom. 05.11.1964	0	1178
+2591	ZELENAY Anton		0	961
+2591	ZELENAY Blažej		0	961
+2591	ZELENAY František		0	961
+2591	ZELENAY Pavol		0	961
+2591	ZELENAY Roman		0	961
+2591	ZELENAY Viliam		0	961
+2591	ZELENAYOVÁ Jana	/Katarína/	0	961
+2591	Zvolenská Katarína	r.Štefová	0	1178
+2591	ZVOLENSKÁ Katarína	r. Štefo	0	839,1057,1091,1092
+2591	Žák Michal	r.Žák	0	1178
+2591	ŽÁK Michal		0	882,941,944,1031,1032,1091,1092
+2591	ŽÁK Štefan		0	882,1032
+2592	Andriš Michal	manž. Mária r.Krajčovičová	0	844
+2592	Andrišová Mária r. Krajčovičová	manž. Michal	0	844
+2592	Bartošíková Helena	mal	0	911
+2592	Bartošíková Paulína	mal	0	911
+2592	Benik Timotej	manž. Janka r.Šimová	0	845
+2592	Beniková Janka r. Šimová	manž. Timotej	0	845
+2592	Beránek Ján		0	580,628,644,645,774,775,808,809,856,931,932,965,966,967,968
+2592	Beránek Jaroslav	mal	0	820
+2592	Beranek Jozef	ž.Anna r.Szedláková	0	580,628,644,645,774,775,808,809,931,932,965,966,967,968
+2592	Beránek Jozef	mal	0	820
+2592	Beránková Magdaléna		0	87,91,536
+2592	Bilik Michal		0	580,628,644,645,774,775,808,809,931,932,965,966,967,968
+2592	Bíliková Mária		0	579,580,596,628,644,645,774,775,808,809,931,932,965,966,967,968
+2592	Bíliková Terézia r. Ondreičková		0	596
+2592	Bojnák Ján		0	717
+2592	Bojnák Ján	maž. Etela r.Bojnáková	0	521
+2592	Bojnák Ján	ž.Etela r.Bojnáková	0	580,628,644,645,774,775,808,809,931,932,965,966,967,968
+2592	Bojnák Ján	žen. s Etelou Bojnákovou	0	719
+2592	Bojnák Ján r. Bojnák	po Kataríne r.Sekerešovej	0	580,628,644,645,774,775,808,809,931,932,965,966,967,968
+2592	Bojnák Juraj	manž. Anna r.Drzsiková	0	521
+2592	Bojnák Martin	manž. Margita r.Synáková	0	521
+2592	Bojnák Štefan	manž .Eva r.Ondrejičková	0	521
+2592	Bojnáková Anna r. Dozsiková		0	588
+2592	Bojnáková Anna r. Drzsiková	manž. Juraj	0	521
+2592	Bojnáková Anna r. Držíková		0	187
+2592	Bojnáková Anna r. Horváthová	m.Martin	0	580,628,644,645,774,775,808,809,931,932,965,966,967,968
+2592	Bojnáková Eva r. Ondrejičková	manž. Štefan	0	521
+2592	Bojnáková Helena r. Bojnáková		0	580,628,644,645,774,775,808,809,858,931,932,965,966,967,968
+2592	Bojnáková Mária r. Repková	manž. Ján	0	819,856
+2592	Čambalíková Mária r. Chvástelová		0	580,628,644,645,774,775,808,809,931,932,965,966,967,968
+2592	Čanchulík Jozef	manž. Mária r.Chvástelová	0	822
+2592	Černá Veronika r. Maronová	manž. Jozef	0	897
+2592	Černý Jozef		0	846
+2592	Ďuriš Alojz		0	567,568
+2592	Duriš Rudolf	manž. Anna r.Bohunická	0	914
+2592	Durišová Anna r. Bohunická	manž. Rudolf	0	914
+2592	Ehruchóferová Admira r. Mioviniová		0	580,628,644,645,774,775,808,809,931,932,965,966,967,968
+2592	Engler Ján		0	264,265
+2592	Fabok Ján		0	647
+2592	Fabok Rastislav Ján		0	647
+2592	Feketeová Júlia r. Szecseyová	m.Ján	0	580,628,644,645,774,775,808,809,931,932,965,966,967,968
+2592	Feketeová Juliana r. Kürtyová	m.Ladislav	0	63
+2592	Feketeová Juliana r. Kürtyová	manž. Ladislav	0	865,866
+2592	Grnová Magdaléna		0	531
+2592	Haba Ján	manž. Rozália r.Antalová	0	841
+2592	Habalová Mária		0	361
+2592	Habová Rozália r. Antalová	manž. Ján	0	841
+2592	Hilková Jozefína r. Páčovská	manž. Imrich	0	917
+2592	Hlavatá Justína r. Blažová	m.Jozef	0	578
+2592	Hlavatá Mária	mal	0	578
+2592	Hlavatý Michal		0	369,865
+2592	Hlboký Štefan		0	708
+2592	Holková Eva r. Mesárošová	manž. Ján	0	903
+2592	Horvath Ján		0	141,408,409,411,772,776,872,874,883,904
+2592	Horváth Juraj		0	874,883
+2592	Horváth Michal		0	580,628,644,645,774,775,808,809,826,837,881,931,932,965,966,967,968
+2592	Horváth Pavel	ml. ž.Katarína r.Synáková	0	411
+2592	Horváthová Anna r. Synáková		0	410,773
+2592	Horváthová Mária r. Repková	manž. Michal	0	881
+2592	Horváthová Pavla	manž. Ján	0	850
+2592	HRDINA RAFAEL		0	631
+2592	Hrdinová Mária		0	631
+2592	Hrušovská Mária r. Kralovičová		0	596
+2592	Hrušovská Mária r. Kralovičová	mamž. Pavol	0	916
+2592	Hrušovská Mária r. Kralovičová	manž. Pavol	0	916
+2592	Hružlík Karol	mal	0	58,575,957
+2592	Hudáková Eugénia r. Nosková		0	580,628,644,645,774,775,808,809,931,932,965,966,967,968
+2592	Chvástel Ambróz	choromyselný	0	580,628,644,645,774,775,808,809,931,932,965,966,967,968
+2592	Chynoradský Michal		0	631
+2592	Chynoradský Rudolf		0	631
+2592	Chynoradský Viliam		0	631
+2592	Janoška Vincent	manž. Serafína r.Sidlíková	0	848
+2592	Janošková Serafína r. Sidlíková	manž. Vincent	0	848
+2592	Jurcso Jozef	ž.Kristína r.Hrdinová	0	580,628,644,645,774,775,808,809,931,932,965,966,967,968
+2592	Jurcsová Kristína r. Hrdinová	m.Jozef	0	580,628,644,645,774,775,808,809,931,932,965,966,967,968
+2592	Jurčo Jozef		0	580,628,644,645,774,775,808,809,836,931,932,965,966,967,968
+2592	Jurík Ján		0	912
+2592	Juris František	manž. Alžbeta r.Biliková	0	847
+2592	Juriš František		0	187
+2592	Jurišová Oršula r. Bíliková		0	597
+2592	Klčovanská Anna r. Jurišová	m.František	0	96
+2592	Kostolanský František		0	631
+2592	Kószeghyová Anna r. Sekerešová		0	879,880
+2592	Kószeghyová Elena r. Sekerešová		0	885
+2592	Kubala Jozef	manž. Dorota r.Valková	0	920
+2592	Kubalová Dorota r. Valková	manž. Jozef	0	920,921
+2592	Kuchtová Elena r. Mesárošová		0	187,296,297,299,432,580,628,644,645,647,774,775,808,809,931,932,965,966,967,968
+2592	Kvasnicová Žofia		0	449
+2592	Lajmovics Jakub		0	580,628,644,645,774,775,808,809,931,932,965,966,967,968
+2592	Lenghart Ján		0	862
+2592	Lenghart Michal		0	862
+2592	Lenghartová Anna r. Baranovicsová	manž. Michal	0	863,873,909
+2592	Lenghartová Mária		0	863,873,909
+2592	Lenghartová Mária r. Paukovičová		0	316,317,341,580,628,644,645,740,741,744,774,775,808,809,931,932,965,966,967,968
+2592	Lipták František		0	342
+2592	Lív Cyril r. Lív	zom.17.6.1997	0	428
+2592	Lív Ján r. Lív		0	96,276,427,428,430
+2592	Liv Pavel	manž. Jozefína r.Klčovská	0	888
+2592	Lív Vojtech r. Lív		0	96,276,427,428,430
+2592	Livová Katarína r. Bohunická	m.Ján	0	276,428,430
+2592	Lívová Katarína r.Bohunická		0	429,978
+2592	Lukáčiková Vilma r. Bartošíková	manž. Jozef	0	911
+2592	LUPA PAVOL		0	150,894
+2592	Luzíková Cecília r. Paukovičová		0	316,317,341,580,628,644,645,741,744,774,775,808,809,931,932,965,966,967,968
+2592	Luzíková Cecília r. Paukovičová, SR		0	740
+2592	Majiková Mária r. Bartošíková	manž. Michal	0	911
+2592	Malán Ján		0	442
+2592	Malánová Emília		0	442
+2592	Mayer Viktor	ž.Žofia r.Rirnschopf	0	580,628,644,645,774,775,808,809,931,932,965,966,967,968
+2592	Mayerová Žofia r. Rirnschopf	m.Viktor	0	580,628,644,645,774,775,808,809,931,932,965,966,967,968
+2592	Mažárová Mária r. Vargová	vd	0	852
+2592	Mego Michal	manž. Bernardína r.Vrabcová	0	899
+2592	Mesároš Eduard		0	647
+2592	Mesároš Ján		0	187,296,299,432,580,628,644,645,647,774,775,808,809,931,932,965,966,967,968
+2592	Mesároš Ján	po Michalovi	0	296,297,299
+2592	Mesároš Ján r. Mesároš a Katarína Mesárošová r. Horváthová		0	208
+2592	Mesároš Milan	mal	0	828,884
+2592	Mesároš Pavol		0	187
+2592	Mesároš Pavol	po Michalovi	0	432
+2592	Mesároš Štefan	po Michalovi	0	432,580,628,644,645,774,775,808,809,931,932,965,966,967,968
+2592	Mesárošová Anna	mal	0	828,884
+2592	Mesárošová Eva		0	828,884
+2592	Mesárošová Ilona r. Držíková		0	187
+2592	Mesárošová Mária		0	187,296,297,299
+2592	Mesárošová Mária	mal	0	828,884
+2592	Mesárošová Mária r. Mesárošová		0	432,580,628,644,645,647,774,775,808,809,931,932,965,966,967,968
+2592	Mesárošová Mária r.Mesárošová		0	692
+2592	Mesárošová Paulána	po Michalovi	0	297
+2592	Mesárošová Paulína		0	187,299
+2592	Mesárošová Paulína	po Michalovi	0	299,647,692
+2592	Mesárošová Paulína r. Mesárošová		0	432,580,628,644,645,774,775,808,809,931,932,965,966,967,968
+2592	Mesárošová Pavlína		0	187,296
+2592	Mesárošová Pavlína	mal	0	828,884
+2592	Mesárošová Pavlína r. Mesárošová		0	296
+2592	Mesárošová Petronela	mal	0	828,884
+2592	Mikulášik Karol	maž. Mária r.Luzortová	0	843
+2592	Mikulášiková Mária r. Luzortová	manž. Karol	0	843
+2592	Mikuščák Tobiáš	mal	0	814
+2592	Moravec Anton		0	910
+2592	Nerádová Alica r. Nosková	zom.14.3.2001	0	580,628,644,645,774,775,808,809,931,932,965,966,967,968
+2592	Nosko Ján		0	109
+2592	Nosko Ján	výmaz mal.1909	0	62,918
+2592	Nosko Ľudovít	manž. Margit r.Grmová	0	918
+2592	Nosko Ľudovít	ž.Margit r.Grmová	0	62,64
+2592	Nosko Vincenc		0	109,531
+2592	Nosko Vincent		0	531
+2592	Nosko Vincent	po Jánovi	0	64,580,628,644,645,774,775,808,809,931,932,965,966,967,968
+2592	Nosko Vincent	výmaz mal.1914	0	62,64,580,628,644,645,774,775,808,809,918,931,932,965,966,967,968
+2592	Nosková Bernardína		0	109,531
+2592	Nosková Bernardína	výmaz mal.1918	0	62,64,580,628,644,645,774,775,808,809,918,931,932,965,966,967,968
+2592	Olejárová Eva		0	449
+2592	Ondreička Michal	manž. Mária r.Hulínová	0	877
+2592	Ondrejička Štefan r. Ondrejička		0	308,309,651,951,955,976,979
+2592	Ondrejičková Anna r. Štrbová		0	860
+2592	Oprava Cyprián		0	631
+2592	Oprava František		0	631
+2592	Paukovič Ján		0	580,628,644,645,774,775,808,809,931,932,965,966,967,968
+2592	Pavlovič Ján		0	569
+2592	Pavlovič Ján	mal	0	58,575,957
+2592	Pavlovič Ján	manž. Angelika r.Vargová	0	575
+2592	Pavlovič Ján	ž.Angelika r.Vargová	0	58,580,628,644,645,774,775,808,809,931,932,957,965,966,967,968
+2592	Pavlovič Ján r. Pavlovič	zom.12.1.1971	0	580,628,644,645,774,775,808,809,931,932,965,966,967,968
+2592	Pavlovič Jozef		0	580,628,644,645,774,775,808,809,931,932,965,966,967,968
+2592	Pavlovičová Angelika r. Vargová	m.Ján	0	580,628,644,645,774,775,808,809,931,932,965,966,967,968
+2592	Pavlovičová Etela r. Prosnanová	zom.10.5.1978	0	574,900
+2592	Péčiová Júlia r. Paukovičová		0	341,580,628,644,645,774,775,808,809,931,932,965,966,967,968
+2592	Petík Jozef r. Petík		0	580,628,644,645,774,775,808,809,931,932,965,966,967,968
+2592	Petrovičová Etela		0	265,787
+2592	Petrovičová Etelka		0	265,787
+2592	Pilátová Alica r. Liptáková		0	580,628,644,645,774,775,808,809,931,932,965,966,967,968
+2592	Rašová Katarína r. Sekerešová		0	821,854
+2592	Ratalichová Anna r. Vitálová		0	580,628,644,645,774,775,808,809,931,932,965,966,967,968
+2592	Ratatusková Anna r. Vitálová	m.Štefan	0	580,628,644,645,774,775,808,809,931,932,965,966,967,968
+2592	Rau Ján		0	901
+2592	Rau Ján	ž.Alžbeta r.Repková	0	580,628,644,645,774,775,808,809,931,932,965,966,967,968
+2592	Rau Ján r. Rau		0	899
+2592	Rau Samuel		0	899
+2592	Rau Štefan		0	62,109,124,531,626

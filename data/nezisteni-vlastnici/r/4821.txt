@@ -1,0 +1,256 @@
+2720	Lajčák Ján		0	402,493,497
+2720	Lajčák Ján	1	0	348,392,393,525,594
+2720	Lajčák Ján	4	0	551,594
+2720	Lajčák Ján	8	0	585,604,700
+2720	Lazorčák Demeter		0	342,354,372,411,429
+2720	Lazorčák Demeter	1	0	342,372
+2720	Lazorčák Demeter	2	0	429
+2720	Lazorčák Demeter	3	0	416
+2720	Lazorčák Ján		0	402
+2720	Lazorčák Ján	1	0	342,368,402,421,424,493,497
+2720	Lazorčák Ján	12	0	563
+2720	Lazorčák Ján	16	0	552
+2720	Lazorčák Ján	2	0	342,372,411,429
+2720	Lazorčák Ján	3	0	342,372
+2720	Lazorčák Ján	4	0	413
+2720	Lazorčák Ján	7	0	416
+2720	Lazorčák Ján	8	0	385,392,393,574
+2720	Lazorčák Juraj		0	317,392,393
+2720	Lazorčák Juraj	1	0	317,392,393
+2720	Lazorčák Michal		0	342,354,372,411,429
+2720	Lazorčák Michal	2	0	413
+2720	Lazorčák Michal	3	0	411
+2720	Lazorčák Michal	4	0	429
+2720	Lazorčák Michal	7	0	399,582
+2720	Lazorčák Mikuláš		0	429
+2720	Lazorčák Mikuláš	1	0	370
+2720	Lazorčák Mikuláš	2	0	585,604,700
+2720	Lazorčák Peter		0	342,413,422,426
+2720	Lazorčák Peter	1	0	342,354,372,411,416
+2720	Lazorčák Peter	11	0	585,604,700
+2720	Lazorčák Peter	8	0	516
+2720	Lazorčák Peter	9	0	496,498
+2720	Lazorčák Štefan	2	0	387,392,393,523
+2720	Lazorčák Vasil		0	342,354,372,411,416
+2720	Lazorčáková Anna		0	342,354,372,413,422
+2720	Lazorčáková Anna	1	0	342,354,372,411,416
+2720	Lazorčáková Anna	2	0	429
+2720	Lazorčáková Anna	3	0	411,416
+2720	Lazorčáková Anna	5	0	426
+2720	Lazorčáková Anna	7	0	516
+2720	Lazorčáková Anna	8	0	496,498
+2720	Lazorčáková Helena	1	0	368,421,424,493,497
+2720	Lazorčáková Ilona		0	342
+2720	Lazorčáková Karolína r. Vargová		0	342,364,403,413,499,525,546
+2720	Lazorčáková Katarína		0	342,354,372,411,413,416,422,426
+2720	Lazorčáková Katarína	3	0	496,498
+2720	Lazorčáková Katarína r. Vargová		0	418
+2720	Lazorčáková Mária		0	411,412
+2720	Lazorčáková Mária	1	0	416
+2720	Lazorčáková Petrova r. Markovičová		0	342,368,421,424,493,497
+2720	Lazorčáková Verona r. Dopiráková		0	413
+2720	Lazorčáková Verona r. Dopiráková	2	0	342,358,375,637,701
+2720	Lazorčáková Verona r. Orlovská		0	405,413,419,428,430,494,495
+2720	Lazorčáková Verona r. Orlovská	1	0	413
+2720	Lazorčáková Verona r. Orlovská	11	0	342
+2720	Lazorčáková Verona r. Orlovská	12	0	342
+2720	Lazorčáková Verona r. Orlovská	3	0	428
+2720	Lazorčáková Verona r. Vargová		0	342,357,367
+2720	Lazorčáková Verona r. Vargová	2	0	612
+2720	Lazorčáková Zuzana		0	354,411,416
+2720	Lazorčáková Zuzana	1	0	354,411,416
+2720	Lazorčáková Zuzana r. Murínová		0	342,354,372,411,416,429
+2720	Lazorčáková Zuzana r. Murínová	2	0	429
+2720	Lisý Ján		0	413
+2720	Lisý Mikuláš		0	400,491
+2720	Lisý Mikuláš	1	0	368,493
+2720	Lukačovská Helena r. Murínová		0	370
+2720	Lukačovská Verona r. Orlovská		0	405
+2720	Lukačovský Aftanás		0	370
+2720	Lukačovský Aftanás	1	0	494
+2720	Lukačovský Michal		0	370
+2720	Lukačovský Michal	1	0	342
+2720	Lukačovský Michal	2	0	405
+2720	Lukačovský Michal	4	0	360
+2720	Lukačovský Michal	5	0	428
+2720	Markovič Andrej		0	402
+2720	Markovič Andrej	1	0	368,402,421,424
+2720	Markovič Andrej	2	0	413
+2720	Markovič Andrej	4	0	497
+2720	Markovič Andrej	5	0	493
+2720	Markovič Andrej	9	0	342
+2720	Markovič Ján		0	390,391,392,393,394,402,413,512,541,542,547,569
+2720	Markovič Ján	16	0	493,497
+2720	Markovič Ján	2	0	390,391,392,393,394,514
+2720	Markovič Ján	22	0	512
+2720	Markovič Ján	27	0	585,604,700
+2720	Markovič Ján	28	0	342
+2720	Markovič Ján	3	0	390,391,392,393,394,512,541,542,547,553,569
+2720	Markovič Ján	6	0	327,392,393,446,549,553,573
+2720	Markovič Ján	8	0	368,421,424
+2720	Markovič Michal		0	354,411
+2720	Markovič Michal	1	0	413
+2720	Markovič Michal	11	0	514,520
+2720	Markovič Michal	12	0	553
+2720	Markovič Michal	13	0	493,497
+2720	Markovič Michal	17	0	512
+2720	Markovič Michal	18	0	342
+2720	Markovič Michal	3	0	390,391,392,393,394,512,514,541,542,547,569
+2720	Markovič Michal	7	0	547
+2720	Markovič Mikuláš		0	390,391,392,393,394,512
+2720	Markovič Mikuláš	2	0	553
+2720	Markovičová Anna		0	368,402,421,424
+2720	Markovičová Anna r. Dudjaková		0	327,392,393,446,549,573
+2720	Markovičová Anna r. Dudjaková	4	0	585,604,700
+2720	Markovičová Helena		0	415,613
+2720	Markovičová Mária r. Orlovská		0	390,391,392,393,394
+2720	Markovičová Verona r. Orlovská		0	390,391,392,393,394,512,541,542,547,569
+2720	Markovičová Verona r. Orlovská	6	0	553
+2720	Markovičová Zuzana r. Dopiráková		0	398,417,492,704
+2720	Markovičová Zuzana r. Dopiráková	1	0	413
+2720	Markovičová Zuzana r. Dopiráková	2	0	342,358,375,637,701
+2720	Markovičová Zuzana r. Lazorčáková		0	413
+2720	Markovičová Zuzana r. Lisyová		0	433
+2720	Mertin Michal		0	321,392,393,452
+2720	Mertin Michal	1	0	321,392,393,452
+2720	Mertin Michal	4	0	521
+2720	Mertin Michal	7	0	598
+2720	Mertin Michal	8	0	489
+2720	Mertin Peter		0	392,393,452
+2720	Mertin Štefan		0	319,329,392,393,447,463,511,521,564,571,576,681,697
+2720	Mertin Štefan	12	0	585,604,700
+2720	Mertin Vasil	po Petrovi Mertinovi	0	576
+2720	Mertin Vasil	po Šimonovi Mertinovi	0	576
+2720	Mikluš Ján		0	392,393,470,505,508,539,558,579,583,597
+2720	Mikluš Martin		0	598
+2720	Mikluš Michal		0	392,393,597
+2720	Mikluš Mikuláš		0	392,393,505,508,539,558,579,583,597
+2720	Mikluš Peter		0	517
+2720	Miklušová Katarína		0	392,393,470,505,508,539,558,579,583,597
+2720	Miklušová Mária		0	392,393,470,505,508,539,558,579,583,597
+2720	Miklušová Veronika		0	508,558,579
+2720	Miklušová Zuzana		0	505
+2720	Murín Ján		0	413
+2720	Murín Ján	3	0	585,604,700
+2720	Murín Michal		0	585
+2720	Murín Peter		0	366,368,379,392,393,396,402,424,458,493,497,512,585,604,700,702,703
+2720	Murín Peter	1	0	392,393,458
+2720	Murín Peter	2	0	421
+2720	Murín Peter	3	0	577
+2720	Murín Peter	6	0	415
+2720	Murínová Mária		0	323,392,393
+2720	Murínová Mária r. Bondírová		0	609,642
+2720	Murínová Mária r. Lisyová		0	413
+2720	Murínová Mária r. Lukačovská		0	413
+2720	Murínová Mária r. Lukačovská	1	0	428
+2720	Murínová Mária r. Lukačovská	2	0	370
+2720	Murínová Zuzana r. Markovičová		0	368,402,421,424,493,497
+2720	Murínová Zuzana r. Markovičová	1	0	368,402,421,424
+2720	Orlovská Anastázia		0	413
+2720	Orlovská Katarína		0	545
+2720	Orlovská Katarína r. Sedláková		0	342,361,371,420,427
+2720	Orlovská Katarína r. Sedláková	2	0	413
+2720	Orlovská Katarína r. Sedláková	4	0	380
+2720	Orlovská Mária		0	545
+2720	Orlovská Verona		0	370
+2720	Orlovská Zuzana r. Čandová		0	413
+2720	Orlovský Andrej		0	399,413
+2720	Orlovský Ján		0	413
+2720	Orlovský Michal		0	377
+2720	Orlovský Michal	1	0	377
+2720	Orlovský Michal	3	0	494
+2720	Orlovský Mikuláš		0	342,351,361,371,377,420,427
+2720	Orlovský Mikuláš	2	0	413
+2720	Orlovský Mikuláš	4	0	380
+2720	Orlovský Mikuláš	5	0	399
+2720	Palkiv Michal		0	544
+2720	Pažin Michal		0	418
+2720	Pažin Mikuláš		0	418
+2720	Pažinová Margaréta r. Poradišinová		0	342,351,377,395
+2720	Petriščák Ján		0	327,392,393,446,549,573
+2720	Petriščáková Mária		0	327,392,393,446,549,573
+2720	Poradišinová Anna r. Orlovská		0	413
+2720	Poradišinová Anna r. Orlovská	1	0	399
+2720	Rušinová Helena r. Dopiráková		0	413
+2720	Safka Michal		0	380
+2720	Safka Štefan		0	342,361,371,420
+2720	Safka Štefan	2	0	380
+2720	Safková Anna		0	342,420
+2720	Safková Anna	Sedlák	0	361,371
+2720	Sakal Michal	Čirč	0	585,604,700
+2720	Sedlák Michal		0	518
+2720	Sedlák Mikuláš		0	380
+2720	Sedlák Peter		0	413
+2720	Sedlák Štefan		0	380,413
+2720	Sedlák Vasil		0	380
+2720	Sedláková Anna		0	380,413
+2720	Sedláková Anna	1	0	415,433,491
+2720	Sedláková Anna	4	0	400
+2720	Sedláková Katarína r. Iľašová		0	518
+2720	Sedláková Mária		0	380,578
+2720	Semančík Mikuláš		0	515
+2720	Semančík Mikuláš	1	0	524,534
+2720	Semančík Mikuláš	3	0	524
+2720	Schick Emil, Dr.		0	392,393,461,472,484,503,535,556,572,582,599,621
+2720	Solotruk Demeter		0	509
+2720	Solotruk Ján		0	402,451,490,507
+2720	Solotruk Ján	1	0	413,554,575
+2720	Solotruk Ján	10	0	585,604,700
+2720	Solotruk Ján	11	0	342
+2720	Solotruk Ján	2	0	368,392,393,421,424,468,493,497,501,550,581
+2720	Solotruk Ján	5	0	531,554
+2720	Solotruk Ján	9	0	575
+2720	Solotruk Juraj		0	342,368,402,421,424,493,497
+2720	Solotruk Michal		0	585,604,700
+2720	Solotruk Michal	1	0	364,403,499
+2720	Solotruk Michal	14	0	498
+2720	Solotruk Michal	2	0	392,393,451,468,501,507,509,550,554,575,581
+2720	Solotruk Michal	20	0	575
+2720	Solotruk Michal	23	0	392,393
+2720	Solotruk Michal	3	0	507,550
+2720	Solotruk Michal	6	0	363,418
+2720	Solotruk Michal	8	0	567
+2720	Solotruk Michal	9	0	567
+2720	Solotruk Mikuláš		0	342,361,371,380,420,427
+2720	Solotruk Mikuláš	2	0	599
+2720	Solotruk Mikuláš	3	0	598
+2720	Solotruk Mikuláš	4	0	585,604,700
+2720	Solotruk Peter		0	468,490
+2720	Solotruk Peter	2	0	570
+2720	Solotruk Peter	3	0	570
+2720	Solotruk Peter	6	0	585,604,700
+2720	Solotruk Štefan		0	342,368,402,421,424,493,497
+2720	Solotruková Helena		0	342,412,422,426,496,498
+2720	Solotruková Karolína		0	342,368,402,421,424,493,497
+2720	Solotruková Katarína r. Lazorčáková		0	368,493,497
+2720	Solotruková Katarína r. Lazorčáková	5	0	585,604,700
+2720	Solotruková Katarína r. Lazorčáková	6	0	342
+2720	Solotruková Katarína r. Vargová	2	0	363,418,424
+2720	Solotruková Mária r. Sedláková		0	392,393,465,600
+2720	Solotruková Mária r. Sedláková	1	0	392,393,465,600
+2720	Solotruková Mária r. Sedláková	10	0	493
+2720	Solotruková Verona		0	425
+2720	Solotruková Zuzana r. Markovičová		0	402,421
+2720	Solotruková Zuzana r. Markovičová	1	0	413
+2720	Šalamon Gejza		0	313
+2720	Tarkovská Helena r. Lazorčáková		0	429
+2720	Varga Andrej		0	408
+2720	Varga Andrej	1	0	410
+2720	Varga Andrej	Fil	0	413
+2720	Varga Anna		0	355
+2720	Varga Ján		0	572
+2720	Varga Michal		0	413
+2720	Varga Mikuláš		0	413
+2720	Varga Peter		0	413
+2720	Varga Štefan	2	0	408
+2720	Vargová Anna		0	342,367
+2720	Vargová Anna r. Dopiriaková		0	342,361,371,420
+2720	Vargová Anna r. Lajčáková		0	342,364,403,418,499
+2720	Vargová Anna r. Lajčáková	4	0	363
+2720	Vargová Katarína		0	403,418
+2720	Vargová Mária		0	342,357,364,367,403,413,418,499,525,546
+2720	Vargová Paraska r. Poradišinová		0	342,351,377,395
+2720	Varholová Verona r. Pažinová		0	398,417,492,704
+2720	Varholová Verona r. Pažinová	2	0	403
+2720	Weingarsen Izák		0	413
+2720	Žačková Anna		0	392,393,455,489,555,568

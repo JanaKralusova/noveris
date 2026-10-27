@@ -1,0 +1,256 @@
+2549	Surkoš Štefan		0	922,1100,1271,1339
+2549	Surkošová Alžbeta		0	407
+2549	Surkošová Alžbeta r. Slížiková		0	1155
+2549	Surkošová Alžbeta r. Slížiková	muž Martin	0	664
+2549	Surkošová Anna r. Slížiková		0	696
+2549	Surkošová Anna r. Surkošová		0	942
+2549	Surkošová Emília		0	806,1273,1274
+2549	Surkošová Matilda		0	921,922,923
+2549	Svrbický František		0	1015
+2549	Svrbický Štefan		0	1015
+2549	Synáková Pavlína r. Slížiková		0	1214
+2549	Szabová Katarína r. Slížiková		0	21,145,369,577,618,626,696,1332,1649,1766
+2549	Šagátová Mária r. Proksová		0	1231
+2549	Šantavá Oršula r. Ulianková		0	1232,1341
+2549	Šantavá Uršula r. Ulianková		0	245
+2549	Šantavý Štefan		0	1341
+2549	Ščasná Františka r. Drozdová		0	1167
+2549	Ščasný Blažej		0	1167
+2549	Ščasný Blažej a Františka Ščasná r. Drozdová		0	1588
+2549	Ščepela Demeter		0	1190
+2549	Ščepelová Eva r. Ripelová		0	1190
+2549	Šenková Hedviga r. Barinková		0	388
+2549	Šillík Augustín r. Šillík		0	684
+2549	Šimalík Ján		0	814
+2549	Šimalíková Katarína r. Plesníková		0	215,358,359,1346
+2549	Šintalová Mária r. Paulovičová		0	1258
+2549	Škodichová Helena r. Barinková		0	392
+2549	Škorcová Eva r. Baranovičová		0	84
+2549	Štanda Michal		0	1220
+2549	Ťažká Kristína r. Poláková		0	1082
+2549	TESSENI FRANTISEK		0	69
+2549	TESSENI STEFAN		0	69
+2549	Thuroczyová Emília r. Pfeifferová		0	585
+2549	Thuroczyová Emília r. Pfeifferová	muž Ján	0	1575,1615,1616
+2549	Tóth Ján		0	1282
+2549	Tóth Melicher		0	276,280,1049,1322
+2549	Tóth Melicher, ARGENTÍNA		0	74,274,277,279
+2549	Tóth Peter		0	276,280,1322
+2549	Tóth Peter	Argentína	0	1275
+2549	Tóth Peter r. Tóth		0	1280
+2549	Tóth Peter, ARGENTÍNA		0	74,274,277,279
+2549	Tothová Magdaléna r. Žemlová		0	559,1544,1591,1595,1605
+2549	Turček Ľudevít		0	1101
+2549	Turčeková Mária r. Benušová		0	1101
+2549	UHLAR ANTON		0	69,1148,1238
+2549	Uhlár Anton r. Uhlár		0	564
+2549	UHLAR FRANTISEK		0	69,563,1032,1241
+2549	Uhlár František r. Uhlár		0	564
+2549	Uhlárová Berta r. Froncová		0	1114
+2549	Uhlárová Mária r. Liesková		0	563
+2549	Uhlárová Mária r. Lieskovská		0	1032
+2549	Ulianko Gustav		0	691,692
+2549	Ulianko Štefan		0	691
+2549	Ulianková Julianna		0	691
+2549	Ulianková Katarína		0	691
+2549	Vallo Jozefína r. Vančová		0	273,1275,1276,1280,1281,1282,1291,1322
+2549	Vallová Jozefína r. Vančová		0	1049
+2549	Vančo Peter		0	74,276,277,279,280
+2549	Vančo Peter, ARGENTÍNA		0	274
+2549	Vančová Jozefa		0	1049
+2549	Vančová Terézia		0	74,276,277,279,280
+2549	Vaško František		0	959
+2549	Vašková Magdaléna r. Slámková		0	245,248,931,976
+2549	Véčey - Olahová Antónia r. Pfeifferová		0	1130
+2549	Véčeyová - Oláhová Antónia r. Pfeifferová		0	1567
+2549	Vnuk Štefan		0	1121,1469,1470
+2549	Vnuková Mária		0	788,1121,1469,1470,1613
+2549	Voznická Mária		0	307,465,535
+2549	Voznický Melicher		0	307,465,535
+2549	Voznický Michal		0	307,465,535
+2549	Zúdorová Matilda		0	447
+2549	Žemla Július		0	559,1544,1591,1595,1605
+2549	Žemla Juraj		0	559,1544
+2549	Žemla Juraj	mal	0	1591,1593,1595,1605
+2549	Žemla Karol		0	559,1544
+2549	Žemla Karol	dátum úmrtia: 23.01.1986	0	1591,1593,1595,1605
+2549	Žemla Ľudovít	dátum úmrtia: 13.06.1997	0	1591,1595,1605
+2549	Žemla Melicher		0	559,1544,1591,1595,1605
+2549	Žemla Štefan	dátum úmrtia: 22.02.1998	0	1591,1595,1605
+2549	Žemlová Anna r. Benušová		0	498
+2549	Žemlová Rozália r. Moravčíková	dátum úmrtia: 27.05.1956, muž Melicher	0	1595
+2550	ALITISOVÁ Anna	r.Kartíková, 4.6.1906, z.1995, Argentína	1	1824,1848,2084
+2550	ARDAY Jozef		1	2257
+2550	ARDAYOVÁ Ilona		1	2257
+2550	ARDAYOVÁ Jana		1	2257
+2550	BABALA Andrej		1	2257
+2550	BABALA Ján		1	2257
+2550	BABALA Ján	-	1	2257
+2550	BABALA Jozefína	r.Zimová	1	2257
+2550	BABALA Ľudovít		1	2257
+2550	BABALA Milan	MUDr	1	2257
+2550	BABALOVÁ Anna		1	2257
+2550	BABALOVÁ Anna	maloletá do r.1915	1	2257
+2550	BABALOVÁ Františka		1	2257
+2550	BABALOVÁ Ilona		1	2257
+2550	BABALOVÁ Mária	r.Balažová	1	2257
+2550	BABALOVÁ Rozália r. Murgašová		1	2229
+2550	BAČKOR Zoltán	účtovník	1	2127
+2550	BADINSKÝ Karol		1	2216
+2550	BAISOVÁ Gizela	r.Rysová	1	2257
+2550	BAJS Andrej		1	2257
+2550	BAJS Anton		1	2257
+2550	BAJS Milan		1	2257
+2550	BAJS Pavol		1	2257
+2550	BAJSOVÁ Zuzana		1	2257
+2550	BAJSOVÁ Zuzana	r.Sálková	1	1501
+2550	BALAŽOVÁ Amália		1	2257
+2550	BARUS Jozef	zomrel	1	1895
+2550	BELIČKOVÁ Mária	r.Petlušová, Jakub čs.101	1	2257
+2550	BEŇO Ján		1	2257
+2550	BEŇO Mária	r.Babalová	1	2257
+2550	BEŇOVÁ Anna		1	2257
+2550	BEŇOVÁ Júlia		1	2257
+2550	BEŇOVÁ Mária		1	1323,2257
+2550	BEŇOVÁ Mária	r.Lichá, Bachtárová	1	1320,1324
+2550	BIELIKOVÁ Zuzana	r.Bieliková	1	2093
+2550	BÍREŠ Ján		1	2257
+2550	BÍREŠ Ondrej		1	2257
+2550	BOBOK Vladimír		1	2224
+2550	BRUCHÁČ Pavol		1	2257
+2550	BRUCHÁČOVÁ Anna		1	2257
+2550	BRUCHÁČOVÁ Mária		1	2257
+2550	BRUCHÁČOVÁ Zuzana		1	2257
+2550	BUGÁŇ Anna	r.Bušovská, D740/77	1	2257
+2550	Bugáňová Mária	Selce 81	1	2165
+2550	BUGANYOVÁ Anna	r.Javorková	1	2257
+2550	BULLA Imrich		1	1975
+2550	BUŠOVSKÝ František		1	2257
+2550	Caban Ján	m. Emília r. Kollárová, stolár	1	2165
+2550	Caban Ján	vl. 18	1	2165
+2550	CABAN Ján	syn Martina	1	2002,2165
+2550	CABAN Ján	vl.2-33	1	1396
+2550	CABAN Juraj		1	1253
+2550	CABAN Martin		1	1396
+2550	CABAN Ondrej	Vanko, zomrel	1	1782,1802,1887,2053,2056,2088,2091,2092,2255,2256,2707
+2550	CABAN Ondrej	Vanko, zomrel; Vanko, zomrel	1	1253
+2550	CABAN Ondrej	vl.2-270	1	1800
+2550	CABAN Ondrej	vl.72	1	1998
+2550	CABAN Pavol		1	2056
+2550	CABAN Pavol	vl.2-251	1	1785
+2550	CABANOVÁ Anna	dcéra Martina	1	2002,2165
+2550	CABANOVÁ Anna	r.Kohútová	1	1998,2002
+2550	Cabanová Anna r. Kohútová		1	2165
+2550	CABANOVÁ Júlia	r.Vigašová	1	1433,1775,1776,1911,1912,2066,2098,2144,2147,2189,2210,2212,2225,2422,2447,2646,2647,2648,2649,2716
+2550	CABANOVÁ Júlia r. Švihrová		1	2303
+2550	Cabanová Mária	vl. 7	1	2165
+2550	CABANOVÁ Mária	r.Vanková, m.Juraj	1	2092
+2550	CANIBALOVÁ Drahomíra		1	2170,2203,2233,2250
+2550	CANIBALOVÁ Libuša		1	2170,2203,2233,2250
+2550	CANIBALOVÁ Lídia		1	2170,2203,2233,2250
+2550	CANIBALOVÁ Zdenka		1	2170,2203,2233,2250
+2550	CIGANEKOVÁ Justína		1	2257
+2550	CIMERMAN Ján		1	2162
+2550	CIRKEVNÁ EVANIELICKÁ ŠKOLA, KYNCEĽOVÁ, BANSKÁ BYSTRICA, SR		0	2046
+2550	ČERNÁKOVÁ Mária	r.Krťsová	1	2257
+2550	ČIAMPOR Milan	zomrel	1	1788,1789,1791,1795,2127,2338,2608,2609,2610,2668
+2550	ČIAMPOR Ondrej	zomrel	1	1788,1789,1791,1795,2127,2338,2608,2609,2610,2668
+2550	ČIAMPOROVÁ Božena		1	1788,1789,1791,1795,2127,2338,2608,2609,2610,2668
+2550	ČIAMPOROVÁ Emília		1	1788,1789,1791,1795,2127,2338,2608,2609,2610,2668
+2550	ČIAMPOROVÁ Júlia		1	1788,1789,1791,1795,2127,2338,2608,2609,2610,2668
+2550	ČIŽMÁR Ján	Kynceľová č.s.28	1	1929,2046
+2550	ČIŽMÁR Matej		1	1929,2046
+2550	ČIŽMÁR Ondrej		1	1929,2046
+2550	ČIŽMÁROVÁ Anna		1	1929,2046
+2550	ČIŽMÁROVÁ Zuzana	r.Hatalčíková	1	2046
+2550	ČÍŽOVÁ Anna	r.Veljačiková	1	2071
+2550	ČÍŽOVÁ Mária	r.Vigašová, m.Juraj, zomrela	1	2216
+2550	ČÍŽOVÁ Mária	vl.2-6	1	1930
+2550	ČS.ŠTÁT-ONV ŽIAR NAD HRONOM		0	88
+2550	DAUBNEROVÁ Anna	r.Koppová	1	2078
+2550	Daubnerová Anna r. Janovcová		1	2165
+2550	DEREK Eugen		1	1836
+2550	DEREKOVÁ Mária	r.Kalinová	1	1886,2090,2096,2136,2200,3094,3095
+2550	DEREKOVÁ Mária r. Kalinová		1	1836
+2550	Dobríková Rozália r. Muránska, Na Zábave 6, Banská Bystrica, PSČ 974 11, SR		1	2165
+2550	DONOVAL Ján	maloletý do 1926	1	2257
+2550	DONOVAL Štefan		1	2257
+2550	DONOVALOVÁ Mária		1	2257
+2550	DRIEČNY Koloman		1	1914
+2550	DROBOVÁ Zuzana		1	2257
+2550	ĎURČEKOVÁ Anna	r.Marčeková Onrejková, zomrela	1	1817,2941
+2550	ELIÁŠOVÁ Júlia	r.Lichá, Ďurčin, m.Ján	1	2170,2203,2233,2250
+2550	Eliášová Mária r. Janovcová		1	2165
+2550	FILIPKO Ondrej	Banská Bystrica	1	2136
+2550	FILIPKO Pavol		1	1768,2049,2170,2203,2233,2250,2681
+2550	FILIPKO Pavol	vl.481	1	2106
+2550	FILKOVÁ Zuzana		1	1899
+2550	FISCHER Jozef		1	1320
+2550	FLUMEROVÁ Zuzana	r.Babalová	1	2257
+2550	Fraňová Zuzana r. Lichá		0	2623
+2550	FRIČOVÁ Júlia	r.Lichá, Kremnička č.s.68, BB	1	1349,2899
+2550	GOMOREY Ladislav	maloletý	1	2257
+2550	GOMOREYOVÁ Helena		1	2257
+2550	GOMOREYOVÁ Rozália		1	2257
+2550	GRAJCIAROVÁ Margita	r.Schwarzová, Jakub čs.89, BB	1	2257
+2550	GRIM Alojz		1	2257
+2550	GURSKÁ Mária	r.Murgašová	1	2257
+2550	HALAJ Juraj	m.Františka r.Horváthová	1	1947
+2550	HALAJOVÁ Františka	r.Horváthová, m.Juraj	1	1947
+2550	HALÁSOVÁ Anna	r.Síkorová	1	2257
+2550	HANÁKOVÁ Anna		1	2257
+2550	HANÁKOVÁ Anna	maloletá do 1932	1	2257
+2550	HANČARIKOVÁ Júlia	r.Kostiviarová, Rudlovská č.s.101, B.B	1	1396,1807,1809,1816,1866,1887,2056,2057,2093,2199,3005
+2550	Hančiariková Júlia r. Kostiviarová	Rudlovská cesta č.s. 101,Banská Bystrica	1	1774
+2550	Hančiariková Júlia r. Kostiviarová	Rudlovská č.s.101, B.B. |; Rudlovská č.s.101, B.B	1	1773
+2550	Handlovská Anna r. Kmeťová	Nemce 4	1	2165
+2550	Handlovský Pavol		1	2165
+2550	HANUS Martin	m.Anna r.Dubinová, Rudlovská č.128, BB	1	1849
+2550	HARING Ladislav		1	2614,2631
+2550	HARINGOVÁ Mária	Kubišová, r.Lichá Melišová	1	2198
+2550	HAŠLER Václav		1	2170,2203,2233,2250
+2550	HAŠLEROVÁ Anna	r.Lichá	1	2170,2203,2233,2250
+2550	HELLEROVÁ Júlia	r.Hlavatá	1	2179
+2550	Hiadlovská Anna r. Cabanová		1	2165
+2550	Hiadlovský Matej		1	2165
+2550	HLAVATÁ Zuzana	r.Rýsová, m.Ján	1	2170,2203,2226,2233,2250
+2550	HORVÁTHOVÁ Zuzana r. Vágnerová	Rudlovská č.s.34, BB; Rudlovská č.s.34, BB	1	1836
+2550	HRČOVÁ Mária	r.Raffayová	1	2257
+2550	HRÍBIKOVÁ Zuzana	r.Murgašová	1	2257
+2550	Hudec Ján	vl. 8	1	2165
+2550	HUDEC Ján		1	1320,1324,2039,2061,2170,2203,2233,2250
+2550	HUDEC Ján	vl.8	1	2138
+2550	HUDEC Ondrej		1	1320,1324,2039,2061,2170,2203,2233,2250
+2550	HUDEC Ondrej	vl.459	1	1964
+2550	HUDEC Walter		1	1320,1324,2039,2061,2170,2203,2233,2250
+2550	HUDECOVÁ Anna		1	1320,1324,2039,2061,2170,2203,2233,2250
+2550	HUDECOVÁ Júlia	m.Šimon Ružek	1	1320,2170,2203,2233,2250
+2550	Hudecová Margita		1	2165
+2550	HUDECOVÁ Mária		1	1320,1324,2039,2061,2170,2203,2233,2250
+2550	Chaban Matej		1	1355
+2550	CHABANOVÁ Mária	r.Vigašová	1	2105
+2550	CHALUPKOVÁ Anna	r.Filipková, Rudlovská č.s.100, BB	1	2136
+2550	CHRISTOV Štefan	Čačín č.s.9	1	1997
+2550	CHRISTOVÁ Anna	r.Crmanová, Čačín č.s.9	1	1997
+2550	ILKOVIČOVÁ Anna	r.Hudecová	1	1964
+2550	INŠTITORIS Ladislav		1	2257
+2550	JAKLOVÁ Anna	r.Styková	1	2046
+2550	JANIČKOVÁ Zuzana	r.Filková	1	2155
+2550	Janovcová Júlia		1	2165
+2550	JANOVEC Ján	vl.2-157	1	1785,1791,2088,2213,2609
+2550	JANOVEC Ján	záp.č.1-106	1	1501
+2550	JANOVEC Marek	18.12.1969, Komjatice	1	1789,1795,2109,2176,2180,2181,2183,2192,2608,2998
+2550	Janovec Matej		1	2165
+2550	JANOVEC Matej	záp.č.1-106	1	1501
+2550	JANOVEC Matej	zomrel	1	1789,1791,2088,2176,2180,2181,2183,2192,2213,2608,2609,2998
+2550	Janovec Ondrej	Nemce 23	1	2165
+2550	JANOVEC Ondrej	ml	1	1501
+2550	Janovec Zdenko	11.1.1969,Komjatice; ; 0	1	2608
+2550	JANOVEC Zdenko	11.1.1969, Komjatice	1	1789,1795,2109,2176,2180,2181,2183,2192,2998
+2550	JASÍK Štefan		1	2257
+2550	JASÍK Štefan	slobodný	1	2257
+2550	JASÍKOVÁ Anna		1	2257
+2550	JAVORKA Ján	11.5.1895	1	2029,2051,2590,2666,2742
+2550	JAVORKA Ján	vl.163	1	1913,1922
+2550	JAVORKA Ján	vl.436	1	1920
+2550	JAVORKA Jozef		1	2257

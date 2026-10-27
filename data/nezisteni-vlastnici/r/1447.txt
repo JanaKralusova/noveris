@@ -1,0 +1,256 @@
+843	SVEDEK Štefan		0	2801
+843	Svedek Štefan r. Svedek		0	5455
+843	Svedeková Anna r. Breznická		0	408
+843	SVEDKOVÁ Alžbeta		0	1587,1651,1654,1710,2201,2958,3439
+843	Svedková Alžbeta r. Svedková		0	4183,4252,4403
+843	SVEDKOVÁ Eva		0	1587,1651,1654,2201,2958,3439
+843	Svedková Eva r. Svedková		0	4955
+843	SVEDKOVÁ Júlia		0	1587,1651,1654,1710,1805,2201,2801,2865,2958,3439,3692,3919,5802
+843	Svedková Júlia r. Svedková		0	4151,4891,5526
+843	SVEDKOVÁ Katarína		0	1587,1651,1654,2201,2958,3439
+843	Svedková Katarína r. Černická		0	4431
+843	Svedková Katarína r. Svedková		0	4086,4788
+843	SVEDKOVÁ Mária	rod.Chlebanová	0	2201,2801
+843	SVEDKOVÁ Mária	rod.Turáková	0	2393
+843	Svedková Mária r. Chlebanová		0	5412
+843	Svedková Mária r. Turáková		0	4878
+843	SVECHO Ján		0	3021
+843	SVECHO Jozef		0	3043
+843	SVECHO Michal		0	3021,3453
+843	SVECHOVÁ Júlia		0	3021,3453
+843	Svechová Júlia r. Svechová		0	4129,4954
+843	SVECHOVÁ Mária		0	3021,3453
+843	Svechová Mária r. Svechová		0	4591
+843	SVECHOVÁ Matilda		0	3453
+843	Svechová Matilda r. Svechová		0	4129,5507
+843	Svitek Jozef r. Svitek		0	5122
+843	Sviteková Anna r. Sviteková		0	4571
+843	SVITEL Jozef	Zuzana Štefánková	0	3949
+843	ŠANKOVÁ Anna	rod.Kebísková	0	2048,3621
+843	Šanková Anna r. Kebísková		0	2653,4967
+843	Šebíková Anna r. Šebíková		0	4333
+843	Šebíková Zuzana r. Chlebanová		0	4105
+843	ŠELINGOVÁ Júlia	rod.Mutňanská	0	1640
+843	Ševcech Martin r. Ševcech		0	5383
+843	ŠEVCECH Ondrej		0	3675
+843	Ševcech Štefan r. Ševcech		0	5060
+843	ŠEVCECHOVÁ Františka	rod.Klimová	0	3831
+843	Ševcechová Františka r. Klimová		0	4172,5646
+843	Ševčík Jozef r. Ševčík		0	4990
+843	ŠIMKO Ján		0	2872
+843	Šimko Ján r. Šimko		0	5401
+843	ŠIMKO Jozef		0	2872
+843	Šimko Jozef r. Šimko		0	4975
+843	ŠIMKO Michal		0	3628
+843	ŠIMKO Ondrej	zom	0	2872
+843	Šimko Ondrej r. Šimko, 914 42, Horné Srnie, Slovenská republika	zomrel, zom.31.12.1999	0	5484
+843	ŠIMKO Štefan		0	2872
+843	Šimko Štefan r. Šimko		0	4721
+843	ŠIMKO Tomáš		0	2940,2951
+843	ŠIMKOVÁ Alžbeta		0	2939,2949
+843	ŠIMKOVÁ Alžbeta	rod.Juríčková	0	2948
+843	Šimková Alžbeta r. Juríčková		0	5634
+843	ŠIMKOVÁ Antónia		0	2939,2942,2947,2949,2951,3791
+843	ŠIMKOVÁ Augustína	rod.Micháliková	0	3027,3786,3826
+843	Šimková Augustína r. Michalíková		0	4398
+843	Šimková Jozefína r. Žiaková		0	5380
+843	ŠIMKOVÁ Katarína	rod.Žišková	0	3628
+843	ŠIMKOVÁ Mária		0	3791
+843	Šimková Paulína r. Šimková		0	5634
+843	ŠIMKOVÁ Pavlína		0	2942,2947,2951
+843	ŠIMKOVÁ Terézia		0	2939,2949
+843	Šimková Terézia r. Šimková		0	4465
+843	Šmihál Adam r. Šmihál		0	4779
+843	Šmihál Juraj r. Šmihál		0	4078
+843	ŠMIHÁLOVÁ Alžbeta		0	2918,2919
+843	Šmihálová Alžbeta r. Šmihálová		0	5632
+843	ŠMIHÁLOVÁ Anna	rod.Papierniková	0	1079,3024,3395
+843	Šmihálová Anna r. Papierníková		0	4159,4192
+843	Šmihálová Anna r. Šmihálová		0	3057,5076
+843	ŠMIHÁLOVÁ Eva		0	3003,3017
+843	Šmihálová Eva r. Slováková		0	5230
+843	Šmihálová Eva r. Šmihálová		0	4260,5632
+843	ŠMIHÁLOVÁ Katarína	rod.Martoňová	0	1030,1587,2918,2919,2997,3464,3634
+843	ŠMIHÁLOVÁ Katarína	rod.Slováková	0	3027
+843	Šmihálová Katarína r. Martoňová		0	4105
+843	ŠMIHÁLOVÁ Mária		0	2918,2919
+843	Šmihálová Mária r. Hochlová		0	3661,5580
+843	Šmihálová Mária r. Šmihálová		0	4226
+843	ŠMIHÁLOVÁ Petronela		0	3832
+843	Šmihálová Petronela r. Šmihálová		0	4260
+843	Šrenk Emil r. Šrenk		0	4205
+843	ŠTEFÁNEK Alojz		0	3677
+843	ŠTEFÁNEK Anton		0	3677
+843	Štefánek Anton r. Štefánek		0	5660
+843	ŠTEFÁNEK Jaroslav		0	3677
+843	Štefánek Jaroslav r. Štefánek		0	5660
+843	ŠTEFÁNIK Štefan		0	1525
+843	ŠTEFÁNKA JOZEF		0	499
+843	ŠTEFÁNKOVÁ Anna		0	1120,2393,2976,3372,3412,3677
+843	ŠTEFÁNKOVÁ Anna	rod.Kebísková	0	2950,2951
+843	Štefánková Anna r. Kebísková		0	4172
+843	Štefánková Anna r. Štefánková		0	4105,4960,5572,5573
+843	ŠTEFÁNKOVÁ Antónia		0	1525,2950
+843	ŠTEFÁNKOVÁ Irena		0	2518,3514
+843	Štefánková Irena r. Štefánková		0	4099,4172
+843	Štefánková Júlia r. Krajčiová		0	5558
+843	ŠTEFÁNKOVÁ Katarína		0	1525
+843	Štefánková Katarína r. Štefánková, maloletá maloletá		0	4272
+843	Štefánková Kristína r. Kňažková		0	5113
+843	Štefánková Mária r. Vilimková		0	4255,5535
+843	Štefánková Rozália r. Bútorová		0	5399
+843	ŠTEFÁNKOVÁ Zuzana		0	1525,1531,2050,2883,2984,3054,3055,3056
+843	Štefánková Zuzana r. Štefánková		0	4148,4171,5635
+843	ŠUPČÍKOVÁ Anna	rod.Hošová	0	2653,2989,3621
+843	Šupčíková Anna r. Hošová		0	3104,3364,5238
+843	ŠVAJLENIN Ignác		0	672
+843	Švajlenin Ignác r. Švajlenin		0	5594
+843	ŠVAJLENIN Martin		0	672
+843	ŠVAJLENIN Pavol		0	2876
+843	Švajlenin Pavol r. Švajlenin		0	4239
+843	ŠVAJLENIN Peter		0	672
+843	Švajlenin Peter r. Švajlenin		0	5594
+843	Švajleninová Alžbeta r. Švajleninová		0	5501
+843	Švajleninová Jozefína r. Švajleninová		0	4616
+843	ŠVAJLENINOVÁ Katarína	rod.Belková	0	3009
+843	ŠVAJLENINOVÁ Katarína	rod.Belková, Juraj Švajlenin	0	672
+843	Švajleninová Katarína r. Belková		0	4890,5725
+843	Švančara Anton r. Švančara		0	5618
+843	ŠVANČAROVÁ Anna		0	1636,2974
+843	Švančarová Anna r. Michalíková		0	4750
+843	ŠVANČAROVÁ Kristína	rod.Kebísková	0	3035
+843	Švecho Ján r. Švecho, Horné Srnie, 228 Horné Srnie, 228		0	5628,5637
+843	ŠVESTKOVÁ Anna	rod.Zajacová	0	2780,3410
+843	Švestková Anna r. Zajacová		0	4144,4817
+843	Švitelová Zuzana r. Štefánková		0	4177
+843	Švorcová Mária r. Holečková		0	4197
+843	Taňo Jozef r. Taňo		0	5542
+843	TANUŠKA Frank		0	3573
+843	Tanuška Frank r. Tanuška		0	4196
+843	TANUŠKA Gustáv		0	3573
+843	Tanuška Gustáv r. Tanuška		0	4196
+843	TANUŠKA Jaroslav		0	3573
+843	Tanuška Jaroslav r. Tanuška		0	4196
+843	TANUŠKA Štefan		0	3573
+843	Tanuška Štefan r. Tanuška		0	4196
+843	TANUŠKOVÁ Alžbeta	rod.Varčeková	0	3573
+843	Tanušková Alžbeta r. Varčeková		0	4196
+843	TANUŠKOVÁ Júlia		0	3573
+843	Tanušková Júlia r. Tanušková		0	4196
+843	TANUŠKOVÁ Margita		0	3573
+843	Tanušková Margita r. Tanušková		0	4196
+843	TANUŠKOVÁ Mária		0	3573
+843	Tanušková Mária r. Tanušková		0	4196
+843	TANUŠKOVÁ Zuzana		0	3573
+843	Tanušková Zuzana r. Tanušková		0	4196
+843	Tomáš Adam r. Tomáš		0	5021
+843	Tomáš Ján r. Tomáš		0	4372
+843	Tomáš Jozef r. Tomáš		0	5051
+843	Tomášiková Alžbeta r. Mierna		0	4497
+843	TOMÁŠKOVÁ Alžbeta	rod.Mierna	0	2790
+843	Tomášková Alžbeta r. Varčeková		0	4196
+843	Tomášová Anna r. Tomášová		0	5394
+843	Tomášová Eva r. Tomášová		0	5580
+843	Tomečková Mária r. Vajdíková		0	4651
+843	Trdlo Ján r. Trdlo		0	4965
+843	Trdlová Eva r. Trdlová		0	4411
+843	Trdlová Helena r. Beňová		0	5630
+843	TRŠKA Anton		0	1525
+843	TRŠKA Augustín	zom	0	1488,1531,2883,2984,3054,3055,3056
+843	TRŠKA Gustáv		0	1525,2050
+843	Trška Gustáv r. Trška		0	5658
+843	TRŠKA Jozef		0	1488,1525,1531,2050,2883,2984,3054,3055,3056
+843	Trška Jozef r. Trška		0	4171
+843	TRŠKA Matúš		0	1488,1525,1531,2050,2883,2984,3054,3055,3056
+843	Trška Matúš r. Trška		0	4105,4171
+843	TRŠKA Michal		0	1488
+843	TRŠKA Peter		0	1488
+843	Trška Peter r. Trška		0	4612
+843	TRŠKA Štefan		0	1488,1525,1531,2050,2883,2984,3054,3055,3056
+843	Trška Štefan r. Trška		0	4171,5567
+843	TRŠKA Vincent		0	1488,1525,1531,2050,2883,2984,3054,3055,3056
+843	Trška Vincent r. Trška		0	4171
+843	TRŠKOVÁ Alžbeta	rod.Varčeková	0	3646
+843	Tršková Alžbeta r. Varčeková		0	4188
+843	TRŠKOVÁ Anna		0	1488
+843	TRŠKOVÁ Anna	rod.Černická	0	3407,3438,3704
+843	TRŠKOVÁ Anna	rod.Černičková	0	1500,2864,2986,2987,4065,5671,5676
+843	Tršková Anna r. Černická		0	5530
+843	Tršková Anna r. Černičková		0	4811,5642
+843	Tršková Anna r. Tršková		0	4228
+843	TRŠKOVÁ Júlia		0	1488,1525,1531,2050,2883,2984,3054,3055,3056
+843	Tršková Júlia r. Tršková		0	4171
+843	Tršková Mária r. Tršková		0	5580
+843	Turák Michal r. Turák		0	4950
+843	TURÁK Pavol		0	1464,1465,2817,2883,3054,3056,3705,3798,3824,5745
+843	TURÁK Pavol	Chlebana	0	1414,1583,2942,2946,3030
+843	Turák Pavol r. Turák		0	4090,5185
+843	Turáková Mária r. Turáková		0	5506
+843	Turáková Zuzana r. Papierníková		0	4791
+843	TVAROŽKOVÁ Elena	rod.Daňová	0	3678
+843	Tvarožková Elena r. Daňová		0	4086
+843	Uhrík Jozef r. Uhrík, Trenčín, Zamarovská 127 Trenčín, Zamarovská 127		0	4100
+843	Uhríková Mária r. Blašková		0	4100
+843	Urbánková Alžbeta r. Michalíková, Zlín, Zálešná 5, Česká republika Zlín, Zálešná 5, Česká republika		0	4117,5634
+843	URBANOVÁ Alžbeta	rod.Michalíková Zálešná č.5 Zlín - 1176	0	3059
+843	Urbanová Anna r. Hochlová		0	3661,5580
+843	Vajdík Jozef r. Vajdík		0	4495
+843	Vajdíková Agneša r. Vajdíková		0	4179,4216
+843	Vajdíková Františka r. Vajdíková		0	4179,4216
+843	Valaščin Anton r. Valaščin		0	4129
+843	VALAŠČIN Ján		0	1516
+843	Valaščin Ján r. Valaščin		0	4187
+843	Valaščin Ján r. Valaščin, Zuzana Hanačková Zuzana Hanačková		0	5626
+843	VALAŠČIN Jozef		0	1516
+843	VALAŠČIN Karol		0	1516
+843	Valaščin Ondrej r. Valaščin		0	4129
+843	VALAŠČIN Štefan		0	1516
+843	Valaščin Štefan r. Valaščin		0	4712
+843	Valaščinová Zuzana r. Hanáčková		0	5626
+843	VALAŠTIN Anton	Černický	0	2234
+843	Valaštin Ján r. Valaštin		0	4129
+843	VALAŠTIN Jozef	Černický	0	2234
+843	Valaštin Jozef r. Valaštin		0	4129
+843	Valaštin Karol r. Valaštin		0	4129
+843	VALAŠTIN Ondrej	Černička	0	3010
+843	VALAŠTINOVÁ Jozefína	rod.Černická	0	2234
+843	VANDŽALA Ján		0	894
+843	VANDŽALA Juraj		0	894,2940
+843	Vandžala Juraj r. Vandžala		0	5634
+843	VANDŽALA Michal		0	2940
+843	VANDŽALA Ondrej		0	894,2230,2692,2952,2988,3040,3388,3431,3666
+843	Vandžala Ondrej r. Vandžala		0	4256,5587
+843	Vandžala Pavol r. Vandžala,  445, Horné Srnie, 914 42, Slovenská republika, zom.16.04.1982 zom.16.04.1982		0	5587
+843	VANDŽALA Štefan		0	894,2692,2988
+843	VANDŽALOVÁ Agneša		0	2230,2692,2952,2988,3431,3666
+843	VANDŽALOVÁ Anna		0	894,2942,2947,2951
+843	Vandžalová Anna r. Vandžalová		0	4207
+843	Vandžalová Janka r. Beňová		0	4858
+843	VANDŽALOVÁ Jozefína r. Černičková	zom	0	3052
+843	VANDŽALOVÁ Katarína		0	894
+843	VANDŽALOVÁ Mária		0	894
+843	VANDŽALOVÁ Pavlína	rod.Štefánková	0	2518,3514
+843	Vandžalová Pavlína r. Štefánková		0	5658
+843	VANDŽALOVÁ Zuzana		0	894
+843	Vanková Mária r. Bútorová		0	4133
+843	VARADÍNOVÁ Gertrúda	rod.Daňová	0	3678
+843	Varadínová Gertrúda r. Daňová		0	4086
+843	VARCEKOVA JULIA R.MESCANEKOVA		0	501
+843	VARČEK Ján	Horné Srnie	0	1054,2720,2734,2892,2997,3644
+843	Varček Ján r. Varček, Horné Srnie, I. Horné Srnie, I.		0	4151,4662,5539
+843	Varček Ján r. Varček, manž. Katarína, Horné Srnie, I. manž. Katarína, Horné Srnie, I.		0	4400
+843	Varček Ján, Horné Srnie, SR		0	3682,5926
+843	VARČEK Michal		0	3646
+843	Varček Peter r. Varček		0	5304
+843	Varček Viktor r. Varček		0	5079
+843	Varčeková Agneša r. Papierniková		0	3631,4238,5446
+843	VARČEKOVÁ Alžbeta	rod.Štefánková	0	2050
+843	Varčeková Irena r. Štefánková		0	4226
+843	VARČEKOVÁ Júlia	rod.Kebísková	0	3029
+843	Varčeková Katarína r. Varčeková		0	4172
+843	Vavruš Peter r. Vavruš		0	4218
+843	Vavrušová Anna r. Černičková		0	4218,4831
+843	Vavrušová Eva r. Vavrušová		0	4233
+843	Vavrušová Mária r. Bútorová		0	4317
+843	Vavrušová Mária r. Matejková		0	4162
+843	VEBEROVÁ Anna	rod.Martišková	0	3396

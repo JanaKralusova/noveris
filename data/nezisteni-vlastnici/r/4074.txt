@@ -1,0 +1,256 @@
+2309	Dadaj Michal, st., zomrel st., zomrel		0	5884
+2309	Dadaj Ondrej zomrel		0	853,855,873,881,1251,1257,1273,1281,1290,1300,1313,1535,1676,1677,1679,1693,1694,1716,1721,1723,1734,1740,1741,1742,1756,1762,1771,1772,1778,1785,1793,1798,1801,1803,1937,1952
+2309	Dadaj Ondrej, zomrel zomrel		0	5463
+2309	Dadaj Róbert zomrel		0	1511,1526,1550
+2309	Dadaj Róbert, zomrel zomrel		0	5156
+2309	DADAJ Štefan	1	1	4379
+2309	DADAJ Vladimír		1	4379
+2309	Dadajová Anna	r.Adamusová	0	689,701,847,1750
+2309	Dadajová Anna r. Adamusová, zomrela zomrela		0	5395
+2309	DADAJOVÁ Mária	Jánova, rod. Fojtíková	1	4520
+2309	DADAJOVÁ Mária	Michalova, rod. Svrčeková	1	4372
+2309	Dadajová Sidónia r. Kozáková, zomrela zomrela		0	5827
+2309	Damašek Jozef, zomrel zomrel		0	5925
+2309	DAMAŠEK Štefan		0	4473
+2309	Damašek Štefan, zomrel zomrel		0	5961
+2309	DAMAŠKA PIUS	ZOMREL 16.03.1976	0	3011,3051,3176,4169,4172,4188,4194,4195,4288,4389,4393,4449,4486,4491,4638,6192,6193
+2309	DAMAŠKA PIUS zomrelý		0	2277,2510,3004,3009,3010,3011,3052,3190,3215,3243,3594,3634,6191,6196,6377
+2309	Damaška Pius, zomrel zomrel		0	5975
+2309	Damašková Margita r. Brodňanová Čavajdová, zomrela zomrela		0	5388
+2309	Damašková Mária	r.Tomašcová Kamadušová	0	2560,2571,2573,2594
+2309	Damašková Mária r. Tomašcová Kamadušová, zomrela zomrela		0	5049
+2309	Daubnerová Ilona	r.Durajová	0	3495
+2309	Daubnerová Ilona r. Durajová		0	5920
+2309	Dršman Jozef, zomrel zomrel		0	5078
+2309	Dršmanová Mária	r.Lahutíková	0	1298
+2309	Drugo Ján, zomrel zomrel		0	5054
+2309	DRUGO Ondrej	zomrel	1	4163,4432
+2309	Drugo Ondrej zomrel		0	1889,2396,2398,2399,2432,2440,3088,3185,3188,3189,3197,3198,3707,4088,4089
+2309	Drugo Ondrej, zomrel zomrel		0	5970
+2309	DRUGO Pavel		1	4163,4432,4462,4482
+2309	DRUGO Pavel	ženatý s Annou rod. Jašekovou Očkovou	1	4432
+2309	Drugo Pavol zomrel		0	1872,1877,1889,2387,2396,2398,2399,2401,2403,2405,2408,2409,2432,2440,2978,3088,3184,3185,3188,3189,3197,3198,3317,3596,3707,4088,4089
+2309	Drugo Pavol, zomrel zomrel		0	5261
+2309	Drugová Anna	r.Očková Jašeková	0	1652,1660,2265,2319,2396,2398,2399,2414,2420,2426,2432,2440,2514,2529,2532,2922,3009,3010,3041,3070,3073,3088,3090,3102,3173,3185,3188,3189,3191,3197,3198,3327,3396,3402,3411,3413,3419,3425,3591,3638,3707,4088,4089,6190,6191,6196,6206,6354,6356,6358,6365,6370,6371,6373,6377,6383,6384,6388
+2309	DRUGOVÁ Anna	Pavelova, rod. Jašeková Očková	1	4168,4184,4191,4193,4206,4211,4429,4432,4449,4489,6224,6382
+2309	Drugová Anna r. Očková Jašeková, zomrela zomrela		0	5622
+2309	DUBEN Ján		1	4174,4175,4181,4206,4211,4381,4489,5939
+2309	Duraj Jozef		0	3495,5920
+2309	Durajová Anna		0	3495,5920
+2309	Ďuriak Ján	Čvrkel	1	3491,4497
+2309	Ďuriak Ján, Čvrkel, zomrel Čvrkel, zomrel		0	5071
+2309	Ďuriaková Zuzana	r.Čvrkelová	0	3491
+2309	ĎURIAKOVÁ Zuzana	Čvrkelová	1	4497
+2309	Ďuriaková Zuzana r. Čvrkelová, zomrela zomrela		0	5071
+2309	Ďuriaš Štefan zomrel		0	631,668,677,720,850,851,888,1045,1065,1447,1458,1469,1472,1476,1482,1484,1497,1499,1507,1512,1513,1514,1525,1531,1535,1543,1546,1550,1662,1751,1805,1831,1835,1837,1846,1852,1858,1864,1866,1961,2149,2263,2266,2288,2335,2374,3029,3436,3438,3481,3487,3489,3778,3980,4575,4581,4702
+2309	Ďuriaš Štefan, zomrel zomrel		0	5516
+2309	Ďuriašová Anna	r.Uhríková	0	631,668,677,720,850,851,888,1045,1065,1447,1458,1469,1472,1476,1482,1484,1497,1499,1507,1512,1513,1514,1525,1531,1535,1543,1546,1550,1662,1751,1805,1831,1835,1837,1846,1852,1864,1866,1961,2149,2263,2266,2288,2335,2374,3029,3436,3438,3481,3487,3489,3778,3980,4575,4581,4702
+2309	ĎURIAŠOVÁ Anna	Štefanova, rod. Uhríková	1	4142,4236,4278,4334,4343,4502
+2309	Ďuriašová Anna r. Uhríková		0	1858
+2309	Ďuriašová Anna r. Uhríková, zomrela zomrela		0	5224
+2309	ĎURIAŠOVÁ Mária	súr. Adam, Štefan	1	4142,4236,4278,4343,4502
+2309	DURIAŠOVÁ MÁRIA zomrela		0	3899,4085,4086,4087,4093,4550,4553,4555,4557,4559,4560,4567
+2309	Ďuriašová Mária, zomrela zomrela		0	5944
+2309	Filo Jozef	Kolárik	0	3072
+2309	Filo Jozef, Kolárik, zomrel Kolárik, zomrel		0	5110
+2309	Finančný Odbor ONV		0	3843,3844,3845
+2309	Fojtik Štefan zomrel		0	3899,4085,4086,4087,4093,4550,4553,4555,4557,4559,4560,4567
+2309	Fojtik Štefan, zomrel zomrel		0	5944
+2309	FOJTÍKOVÁ Anna	rod. Lahucíková, vdova	1	4179
+2309	FOJTÍKOVÁ Zuzana	rod. Červienková, vdova	1	4235
+2309	Fojtoniková Anna	r.Lahuciková	0	1907,2345,2420,2429,2477,2556,2565,2572,3004,3009,3010,3011,3070,3102,3191,3327,3402,3591,3637,3707,6191,6196,6377
+2309	FOJTONIKOVÁ Anna	rod. Lahucíková	1	4174,4449,4486,4489,4513
+2309	Fojtoniková Anna r. Lahuciková		1	5080,5939
+2309	Gajdoš Cyril zomrel		0	3899,4085,4086,4087,4093,4550,4553,4555,4557,4559,4560,4567
+2309	Gajdoš Cyril, zomrel zomrel		0	5944
+2309	Gajdoš Filip		1	2618,2620,2652,2680,2685,2688,2696,2714,2719,2756,2838,2841,2978,3397,4439,4441,4694,5140
+2309	GAJDOŠ Jozef		1	4449,5124
+2309	Gajdoš Michal, zomrel zomrel		0	5124
+2309	Gašper Apolónia, zomrela zomrela		0	5944
+2309	Gašper Ján	II	0	5944
+2309	Gašper Ján	Kamaduš	0	2842,2883,3409
+2309	Gašper Peter, Kamaduš Kamaduš		0	5919
+2309	Gašper Vincent	Kamaduš	0	2617,2671,2691,2718
+2309	Gašper Vincent, Kamaduš Kamaduš		0	5598
+2309	Gašperik Ján	II	0	3899,4085,4086,4087,4093,4550,4553,4555,4557,4559,4560,4567
+2309	Gašperiková Apolónia zomrela		0	3899,4085,4086,4087,4093,4550,4553,4555,4557,4559,4560,4567
+2309	Gašperová Apolónia	Kamadušová	0	2718,2864,2974,3101,3116,3129
+2309	Gašperová Apolónia, Kamadušová, zomrela Kamadušová, zomrela		0	5049
+2309	Gašperová Žofia	Kamadušová r.Vranová	0	3116,3129
+2309	Gašperová Žofia r. Vranová, Kamadušová, zomrela Kamadušová, zomrela		0	5049
+2309	Greková Anna	r.Tomašecová	0	631,632,647,649,662,679,690,697,699,700,711,713,720,725,851,1016,1017,1042,1044,1074,1081,1504,1506,1511,1512,1513,1518,1519,1526,1527,1529,1530,1535,1537,1549,1550,1623,1642,2344,2465,3020,3079,3080,3779,3787,3789
+2309	GREKOVÁ Anna	rod. Tomašecová	1	4120,4127,4236
+2309	Greková Anna r. Tomašecová		0	5444
+2309	HÁJNIK Ján	slobodný, vojak	1	4147
+2309	Hajnik Ondrej		0	631,720,845,851,1507,1512,1513,1514,1525,1531,1535,1543,1546,1550,3028,3077,3791,5312
+2309	HAJNÍK Ondrej	nezvestný	1	4236
+2309	Hajniková Barbora	r.Tomašcová	0	1652,1660,2320,2482,2506,2514,2516,2521,2526,2529,2531,2532,2533,2535,2560,2565,2571,2573,2594,3039,3073,3398,3412,3413,3419,3429,3582,3587,6190
+2309	HÁJNIKOVÁ Barbora	Jozefova, rod. Tomašecová	1	4206,4211,4274
+2309	Hajniková Barbora r. Tomašcová, zomrela zomrela		0	5663
+2309	Hlavatá Eva, zomrela zomrela		0	5086
+2309	Hlavatý Adam, zomrel zomrel		0	5086
+2309	Hmira Ondrej	Turek	0	3899,4085,4086,4087,4093,4550,4553,4555,4557,4559,4560,4567
+2309	Hmira Ondrej, Turek, zomrel Turek, zomrel		0	5944
+2309	Hohoš Jozef zomrel		0	2483
+2309	HOLÁN Juraj		1	4129,4149,4288,4638,5113,6435
+2309	Holaň Juraj zomrel		0	852,959,970
+2309	HOLIER Jozef	vzdialený	1	4164,4539
+2309	Holier Jozef zomrel		0	1871,1878,1883,1889,2387,2398,2402,2404,2407,2409,2979,3184,3707,3899,4085,4086,4087,4088,4089,4093,4550,4553,4555,4557,4559,4560,4567
+2309	Holier Jozef, zomrel zomrel		0	5901,5944
+2309	Holier Štefan zomrel		0	1871,1878,1883,1889,2387,2398,2402,2404,2407,2409,2979,3184,3707,4088,4089
+2309	Holier Štefan, zomrel zomrel		0	5226
+2309	Holota Jozef zomrel		0	884,1477,1486,1752,2242,2339,2340,2373
+2309	Holota Jozef, zomrel zomrel		0	5928
+2309	HOLOTA Laurinc		1	4139,4142,4502,4665
+2309	HOLOTOVÁ Anna	Laurincová, rod. Papanová	1	4139,4142,4502,4665
+2309	Holotová Margita	r.Škoríková	0	722,884,1477,1486,1752,2242,2339,2340,2373,2542,4554,4670,6453,6454,6455
+2309	Holotová Margita r. Škoríková, zomrela zomrela		0	5928
+2309	Horniš Cyril		0	3072,5110
+2309	Horniš Eduard		0	3072,5110
+2309	Horniš Jozef		0	3072,5110
+2309	Horniš Koloman		0	3072,5110
+2309	Hornišová Mária	r.Blažeková	0	3072
+2309	Hornišová Mária r. Blažeková		0	5110
+2309	Hurtošová Dora	r.Adameková	0	852,959,970
+2309	Hurtošová Dora r. Adameková, zomrela zomrela		0	5050
+2309	HURTOŠOVÁ Dorota	Martinova, rod. Adameková vdova	1	4129,4288,4638,6435
+2309	CHOVANCOVÁ ANNA r. DAMAŠKOVÁ	ZOMRELA 23.09.1977	0	3051,3176,3209,4169,4172,4188,4194,4195,4288,4389,4449,4486,4491,4638,6192,6193
+2309	Chovancová Eva	r.Červienková	0	1512
+2309	Chovancová Eva r. Červienková, zomrela zomrela		0	5632
+2309	CHOVANCOVÁ Zuzana	súr. Jozef, Mária, zomrela	1	4124,4236
+2309	Chovancová Zuzana zomrela		0	631,688,702,720,743,848,851,1066,1512,1513,1517,1522,1534,1535,1544,1545,1550,3078,3792
+2309	Chovancová Zuzana, zomrela zomrela		0	5729
+2309	Chovanec Jozef, zomrel zomrel		0	5925
+2309	CHOVANEC Michal		1	4426
+2309	Chovanec Michal zomrel		0	720,851,1066,1513,1550
+2309	Chovanec Michal, zomrel zomrel		0	5409
+2309	CHUDINA Ondrej	nepr. v D 875/66	0	4473
+2309	Chudina Ondrej zomrel		0	605,2129,2240,2241,2263,2283,2287,2288,2322,2324,2325,2326,2327,2328,2329,2330,2331,2332,2333,2337,2372,2378,2474,2485,2544,3176,3182,3209,4581,4681,4682,4683,4698,4847,4848
+2309	Chudina Ondrej, nepr. v D 875/66, zomrel, zom.09.10.1966 nepr. v D 875/66, zomrel, zom.09.10.1966		0	5093
+2309	Chudina Ondrej, zomrel zomrel		0	5093,5549
+2309	CHUDINA Viktor	Dezider, mal	1	4154,4508
+2309	Chudina Viktor zomrel		0	605,853,855,873,881,1251,1257,1273,1281,1290,1300,1313,1535,1676,1677,1679,1693,1694,1716,1721,1723,1734,1740,1741,1742,1756,1762,1771,1772,1778,1785,1793,1798,1801,1803,1937,1952,2129,2240,2241,2263,2283,2287,2288,2322,2324,2325,2326,2327,2328,2329,2330,2331,2332,2333,2337,2372,2378,2474,2485,2544,4581,4681,4682,4683,4698,4847,4848
+2309	Chudina Viktor, zomrel zomrel		0	5799
+2309	Chudinová Apolónia r. Drugová, zom.10.06.1994 zom.10.06.1994		0	5939
+2309	Chudinová Jozefína	r.Očková Žovčinová	0	1825,1827,1842,1855,1870,1953,2296,2348,2354,2381,2388,2488,3000,3081,3084,3171,3177,3180,3408,3433,3439,3458,3499,3593,3628,3707
+2309	Chudinová Jozefína r. Očková Žovčinová, zomrela zomrela		0	5614
+2309	Jančiga Adam zomrel		0	2484,2634,2665,2666,2684,2713,2840,2978,2981,3121
+2309	Jančiga Adam, nepr. v D 479/60, zomrel, zom.28.02.1957 nepr. v D 479/60, zomrel, zom.28.02.1957		0	5077
+2309	Jančiga Adam, zomrel zomrel		0	5781
+2309	Jančiga Blažej		1	5077,5958,5972
+2309	Jančiga Blažej	zom.04.07.1975	1	6392
+2309	Jančiga Blažej zomrel		0	2484,2634,2665,2666,2684,2713,2718,2719,2840,2841,2975,2978,2981,3121,3397,3899,4038,4039,4042,4044,4085,4086,4087,4093,4550,4553,4555,4557,4559,4560,4567,4679,4680,6161,6162
+2309	JANČIGA Blažej, zom. 04.07.1975		1	4206,4211,4351,4430,4441,4444,4445,4448,4452,4453,4561,4634
+2309	Jančiga Blažej, zomrel zomrel		0	5944,5958,5972
+2309	Jančiga Filip		1	2719,4441,5913
+2309	Jančiga Jozef, zomrel zomrel		0	5113
+2309	Jančiga Ondrej	Žovčin	0	1843
+2309	JANČIGA Vencel		1	4506
+2309	Jančiga Vendel		0	2145,4581,5321
+2309	Jančigová Agnesa zomrela		0	2484,2634,2665,2666,2684,2713,2718,2719,2840,2841,2975,2978,2981,3121,3397,4038,4039,4042,4044,4679,4680,6161,6162
+2309	JANČIGOVÁ AGNEŠA, SR	zomr.14.11.1963	1	4441
+2309	JANČIGOVÁ Agneša, zom. 14.11.1963		1	4206,4211,4351
+2309	Jančigová Agneša, zomrela zomrela		0	5371
+2309	Jančigová Janka		1	2145,4506,4581,5703
+2309	Jančigová Ľudmila r. Halvoňová, zomrela, zom.16.08.1967 zomrela, zom.16.08.1967		0	5077
+2309	Jančigová Štefánia, nepr. v D 970/98, zomrela, zom.08.05.1998 nepr. v D 970/98, zomrela, zom.08.05.1998		0	5939
+2309	Jančigová Zuzana	Kamadušová; Kamadušová	1	6392
+2309	Jančigová Zuzana	r.Kamadušová	0	2617,2671,2691,2718
+2309	Jančigová Zuzana	r.Tomašcová	0	1652,1660,2514,2516,2521,2526,2529,2531,2532,2533,2535,2560,2565,2571,2573,2594,3073,6190
+2309	JANČIGOVÁ Zuzana	Jánova, rod. Tomašecová	1	4206,4211,4274
+2309	JANČIGOVÁ Zuzana	rod. Kamadušová	1	4438
+2309	Jančigová Zuzana r. Adamčeková, zomrela zomrela		0	5113
+2309	Jančigová Zuzana r. Kamadušová		1	5077
+2309	Jančigová Zuzana r. Kamadušová, zomrela zomrela		0	5611
+2309	Jančigová Zuzana r. Tomašcová, zomrela zomrela		0	5077
+2309	Jančigová Zuzana zomrela		0	1652,1660,2320,2482,2506,2514,2516,2521,2526,2529,2531,2532,2533,2535,3039,3073,3398,3412,3413,3419,3429,3582,3587,6190
+2309	Jančigová Zuzana, zomrela zomrela		0	5206
+2309	Jančik Adam	Jančiga	1	2639,4044,4206,4211,4679,4680
+2309	JANČÍK Adam		1	4441,4444
+2309	JANČÍK Adam	súr. Margita	1	4441
+2309	Jančik Adam zomrel		0	2719,2841,2975,3397,4038,4039,4042,6161,6162
+2309	Jančik Adam, Jančiga, zomrel Jančiga, zomrel		0	5899
+2309	Jančik Adam, zomrel zomrel		0	5432
+2309	JANČÍK Štefan		1	4441,4444
+2309	JANČÍK Štefan	1	1	4441,4444
+2309	JANČÍK Štefan	Jančiga	1	4206,4211,4441
+2309	JANČÍKOVÁ Katarína		1	4441,4444
+2309	Jančiková Katarína zomrela		0	2719,2841,2975,3397,4038,4039,4042,6161,6162
+2309	Jančiková Katarína, zomrela zomrela		0	5811
+2309	Jančiková Margita	Jančigová	0	2639
+2309	Jančiková Margita, Jančigová, zomrela Jančigová, zomrela		0	5501
+2309	Jančiková Zuzana	Jančigová	1	2484,2840,2978,2984,3117,3122,4044,4206,4211,4679,4680
+2309	JANČÍKOVÁ Zuzana	mal	1	4441,4444
+2309	Jančiková Zuzana zomrela		0	2719,2841,2975,3397,4038,4039,4042,6161,6162
+2309	Jančiková Zuzana, Jančigová, zomrela Jančigová, zomrela		0	5117,5589
+2309	Jančiková Zuzana, zomrela zomrela		0	5117
+2309	JANČÍKOVÁ Žofia		1	4441,4444
+2309	Jančiková Žofia zomrela		0	2719,2841,2975,3397,4038,4039,4042,6161,6162
+2309	Jančiková Žofia, zomrela zomrela		0	5434
+2309	Janeková Jozefína	r.Gajdošová	0	2618,2620,2652,2680,2685,2688,2696,2714,2719,2756,2838,2841,2978,3397,4694
+2309	JANEKOVÁ Jozefína	rod. Gajdošová	1	4439,4441
+2309	Janeková Jozefína r. Gajdošová		0	5897
+2309	Janík Gabriel	Kamaduš	1	2841,2975,3397,4038,4039,4042,4444,6161,6162
+2309	Janík Gabriel, Kamaduš, zomrel Kamaduš, zomrel		0	5049
+2309	Janík Justín	Kamaduš	1	2841,2975,3397,4038,4039,4042,4444,6161,6162
+2309	Janík Justín, Kamaduš, zomrel Kamaduš, zomrel		0	5049
+2309	Janík Martin	Kamaduš	0	610,1841,1849,1853,2718,2841,2975,2992,2998,3003,3397,3409,3434,3441,3480,3499,3899,4038,4039,4042,4085,4086,4087,4093,4550,4553,4555,4557,4559,4560,4567,6161,6162,6279
+2309	JANÍK Martin	D 599/89	1	4444
+2309	Janík Martin, D 599/89, zomrel, zom.01.01.1924 D 599/89, zomrel, zom.01.01.1924		0	5105
+2309	Janík Martin, Kamaduš, zomrel Kamaduš, zomrel		0	5666,5944
+2309	Janíková Alžbeta	r.Šurganová	0	3899,4085,4086,4087,4093,4550,4553,4555,4557,4559,4560,4567
+2309	Janíková Alžbeta r. Šurganová, zomrela zomrela		0	5049,5944
+2309	Janíková Mária	Kamadušová	1	2841,2975,3397,3899,4038,4039,4042,4085,4086,4087,4093,4444,4550,4553,4555,4557,4559,4560,4567,6161,6162
+2309	Janíková Mária, Kamadušová, zomrela Kamadušová, zomrela		0	5049,5944
+2309	JANÍKOVÁ Štefánia	rod. Valiašková	1	4441
+2309	JANUSOVÁ Katarína		1	4106
+2309	JANUŠ Karol	zomrel	1	4098
+2309	Janušová Verona zomrela		0	2238
+2309	Janušová Verona, zomrela zomrela		0	5112
+2309	Janušová Zuzana	r.Hajníková	0	631,720,845,851,1507,1512,1513,1514,1525,1531,1535,1543,1546,1550,3028,3077,3791
+2309	Janušová Zuzana r. Hajníková, zomrela zomrela		0	5113,5318
+2309	Jašeková Zuzana zomrela		0	1890,2271,3574,3707,3715
+2309	Jašeková Zuzana, zomrela zomrela		0	5055
+2309	Jašeková Zuzana, zomrela, nepr. v D 353/59, zom.18.05.1957 zomrela, nepr. v D 353/59, zom.18.05.1957		0	5055
+2309	Kamaduš Adam	Benda	0	2898
+2309	Kamaduš Adam	Šurgan	1	2841,2975,3397,4038,4039,4042,4444,6161,6162
+2309	Kamaduš Adam, Benda Benda		0	5049
+2309	Kamaduš Adam, Šurgan, zomrel Šurgan, zomrel		0	5181
+2309	KAMADUŠ František	Benda, ženatý s Rozou rod. Šupolovou	1	4165,4477,4483,6392
+2309	Kamaduš František, Benda, ženatý s Rozou rod. Šupolovou, SPF Benda, ženatý s Rozou rod. Šupolovou, SPF		1	5919
+2309	KAMADUŠ Ignác		1	4206,4211,4421
+2309	Kamaduš Ján	Benda I	0	2978,2990,3125,3126,3164
+2309	Kamaduš Ján	Benda II	0	2898
+2309	Kamaduš Ján	Benda ml	0	610,630,1243,1874,1879,1882,2294,2295,2398,2400,2406,2430,2434,2617,2671,2691,2718,2843,2846,2856,2857,2862,2863,2866,2871,2872,2877,2878,2879,2883,2885,2889,2898,2921,2973,2974,3088,3091,3095,3105,3108,3116,3129,3156,3174,3186,3196,3216,3217,3219,3220,3237,3241,3242,3252,3254,3255,3257,3260,3261,3264,3265,3269,3271,3349,3358,3380,3409,3434,3441,3480,3499,3707,4088,4089,6279
+2309	Kamaduš Ján	Benda ml., ženatý s Máriou rod. Šoškovou; Benda ml., ženatý s Máriou rod. Šoškovou	1	6392
+2309	Kamaduš Ján	Benda; Benda	1	6392
+2309	Kamaduš Ján	Gašper , vojak	1	6392
+2309	Kamaduš Ján	Králik; Králik	1	6392
+2309	Kamaduš Ján	Šurgan	1	2617,2671,2691,2718,2719,2841,2975,3397,4038,4039,4042,4444,6161,6162
+2309	Kamaduš Ján	Šurganik 1; Šurganik 1	1	6392
+2309	Kamaduš Ján	Šurganik; Šurganik	1	6392
+2309	KAMADUŠ Ján	Benda ml., ženatý s Máriou rod. Šoškovou	1	4161,4438,4477,4483
+2309	KAMADUŠ Ján	Šurgan, ženatý s Barborou Mrvečkovou	1	4441,4444
+2309	KAMADUŠ Ján	Šurganík	1	4206,4211,4421,4438
+2309	KAMADUŠ Ján	Šurganík 1	1	4206,4211,4421,4438
+2309	Kamaduš Ján, Benda	I	0	5477
+2309	Kamaduš Ján, Benda	II	0	5964
+2309	Kamaduš Ján, Benda, ml., zomrel Benda, ml., zomrel		0	5427
+2309	Kamaduš Ján, Benda, ml., ženatý s Máriou rod. Šoškovou, SPF Benda, ml., ženatý s Máriou rod. Šoškovou, SPF		1	5964
+2309	Kamaduš Ján, Benda, SPF Benda, SPF		1	5105
+2309	Kamaduš Ján, Gašper, vojak, SPF Gašper, vojak, SPF		1	5964
+2309	Kamaduš Ján, Šurgan, zomrel Šurgan, zomrel		0	5557
+2309	Kamaduš Ján, Šurganik	1	1	5105
+2309	Kamaduš Ján, Šurganik, SPF Šurganik, SPF		1	5105
+2309	Kamaduš Justín, Králik Králik		0	5963
+2309	Kamaduš Karol	Králik	1	3241,6392
+2309	Kamaduš Karol, Králik Králik		0	5964
+2309	Kamaduš Karol, Králik, SPF Králik, SPF		1	5105
+2309	Kamaduš Ondrej	Benda	0	853,855,873,881,1251,1257,1273,1281,1290,1300,1313,1535,1676,1677,1679,1693,1694,1716,1721,1723,1734,1740,1741,1742,1756,1762,1771,1772,1778,1785,1793,1798,1801,1803,1937,1952
+2309	KAMADUŠ Ondrej		1	4206,4211,4421
+2309	Kamaduš Ondrej zomrel		0	2898
+2309	Kamaduš Ondrej, Benda, zomrel Benda, zomrel		0	5725
+2309	Kamaduš Ondrej, zomrel zomrel		0	5049
+2309	Kamaduš Štefan	Benda	0	2898
+2309	Kamaduš Štefan	Králik	0	3258
+2309	Kamaduš Štefan	Šurgan	1	2841,2975,3397,4038,4039,4042,4444,6161,6162

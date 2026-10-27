@@ -1,0 +1,256 @@
+250	Počiatek Štefan	ž.Jozefína	0	1604
+250	Počiatková Kamila		1	114,1779,1828,1829
+250	Počiatková Karolína r. Pavlíková		0	779,1779
+250	Počiatková Katarina	r. Žbodáková	1	1829
+250	Počiatková Katarina r. Žbodáková		1	1049,1828
+250	Polakovičová Matilda r. Počiatková		0	1811
+250	Polocík Ján	ž.Terezia Eldes	1	1826,2448
+250	Polocík Ján, 924 01, Galanta, SR		0	851
+250	Polocíková Terezia r. Eldesová		1	946,1345,1678,1826,1827
+250	Pongrácová Veronika r. Chmulíková		0	1072,1551
+250	Ponoš Ján		0	795,3302
+250	Pouperová Emília r. Grajcaríková		0	1953
+250	Pouperová Emília r. Jagríková, Rožňov p. Radhoštem, SR		0	431
+250	Pozník Anton		0	216,1072,1561,1566,3217,3308
+250	Pozník Augustín	Brvnište č.229	0	1775
+250	Pozník Augustín	ž.Jarmila	0	1777
+250	Pozník Ján	ž. Mária	0	1646
+250	Pozník Ján	ž.Mária	0	2262,2396,3317
+250	Pozník Ján r. Pozník, 018 12, Brvnište, č. 65, SR		0	2324
+250	Pozník Ján, 018 12, Brvnište, č. 65, SR		0	946
+250	Pozník Jozef		0	1072,1239,1551,1645,2657
+250	Pozník Jozef	nezvestný	1	1831,2227,2460,2787
+250	Pozník Jozef r. Pozník		0	1015
+250	Pozník Klement		0	1775
+250	Pozník Ľudovít	Považské Podhradie	0	1775
+250	Pozník Ľudovít	ž.Pavlína Kurnocík	0	1777
+250	Pozník Štefan		0	74,1072,1564,1565,2222
+250	Pozník Štefan	ž. Helena	0	1561
+250	Pozník Štefan	ž.Helena	0	216,1072,1566,3217,3308
+250	Pozník Viliam		0	1775
+250	Pozníková Františka		0	1777,2268,3244
+250	Pozníková Františka	Brvnište č.299	0	1775
+250	Pozníková Františka r. Fortuníková, 018 12, Brvnište, č. 86, SR		0	2495
+250	Pozníková Karolína, 018 12, Brvnište, č. 503, SR		0	835
+250	Pozníková Mária, Trenčín, SR		0	835
+250	Pozníková Terezia r. Súčiková		0	2227
+250	Rogo František	ž.Mária Hojdik	0	1958
+250	Rogo Ľudovít r. Rogo, 018 12, Stupné, č. 102, SR		0	114,1004,1056,2032
+250	Rogová Mária r. Smokoňová		0	1141,1892
+250	Seková Kristína	Kurucová r.Janíková	0	2601
+250	Skorová Františka r. Lungríková		1	1004
+250	Skorová Františka r. Lungríková	nar. 1908	0	1953
+250	Skorová Františka r. Lungríková	nar.1908	1	1056,1273
+250	Smadiš Jakub		1	1828,1829,2181
+250	Smadiš Jozef		0	2181
+250	Smadiš Jozef	vzdialený	1	1828,1829
+250	Smadišová Rozalia r. Lejčíková		0	1540,2228
+250	Smädiš Vasil r. Smädiš, v Hrdlech 3, Litoměřice, PSČ 412 01, ČR		0	1148,1828,1829,2147,2763
+250	Smädišová Mária r. Rogová		0	2147
+250	Smädišová Zdenka, v Hrdlech 3, Litoměřice, ČR		0	2862,2864
+250	Smädišová Zdenka, v Hrdlech 3, Litoměřice, PSČ 412 01, ČR		0	1147,1148,1187,1437,1438,1828,1829,2147,2763
+250	Smokoň Augustín		0	467,1888,2781
+250	Smokoň Augustín r. Smokoň		0	2877
+250	Smokoňová Anna		1	184,1015,1831,2167,2787
+250	Smokoňová Augustína		0	467,2781,2877
+250	Sokolíková Mária		0	1016,2351,2379
+250	SR Považská Bystrica	Okresný úrad, odbor pozemkový	1	1828
+250	Stašíková Anna r. Danižíková		0	1403
+250	Stejskalová Františka r. Danižíková		0	1403
+250	Súčik Ján	ž.Veronika nar. 21.9.1891	1	1056,1735,2364,2379
+250	Súčik Ján	ž.Veronika nar.21.9.1891	0	1016
+250	Súčik Jozef	ž.Jozefina	0	1735
+250	Súčik Ľudovít		0	945,1702,1713,1735,2303
+250	Súčik Ľudovít	ž.Margita	0	945,1701,1704,2303
+250	Súčik Štefan		0	1016,2379
+250	Súčiková Anna r. Pozníková		0	1735
+250	Súčiková Margita r. Turičíková		0	945,1701,1702,1704,1713,2303
+250	Sučíková Terézia	zomr. 19.1.1977	0	2430
+250	Súčiková Terezia		0	1735
+250	Šamaj František	ž.Františka	1	1829
+250	Šamaj František	ž.Františka nar.19.11.1902	1	1828
+250	Šamaj Jakub	Mrlač, ž.Ľudmila	0	323
+250	Šamaj Jozef		1	114,1004,1278,2078,3181
+250	Šamaj Jozef	ž.Veronika	1	1279,1831,1965,2079,2787
+250	Šamaj Jozef r. Šamaj	ž.Veronika	0	1015
+250	Šamaj Kaník František		1	1828,1829
+250	Šamaj Kaník František	zomr. 2.12.1979	0	1089,1497
+250	Šamaj Kocár František	ž.Františka	0	114,1759,1760
+250	Šamaj Strašík Ondrej		0	2561
+250	Šamaj Strašík Šimon		0	2559
+250	Šamajová Františka r. Miniariková		0	1759,1760
+250	Šamajová Kánik Terezia r. Pániková		1	114,1004
+250	Šamajová Katarína r. Hausnerová		0	2365,3318
+250	Šamajová Katarína r. Kurciníková		0	982,1898
+250	Šamajová Ľudmila r. Jirkova, 018 12, Brvnište, č. 491, SR		0	2247,2257
+250	Šamajová Mária		1	1828,1829
+250	Šamajová Mária r. Pšuríková		1	114,1104,2205
+250	Šamajová Strašík Mária	Strašík	0	2560
+250	Šamajová Veronika r. Chovančíková		0	1895,2548
+250	Šaržíková Katarína r. Pozníková	nar. 16.05.1898	0	1564
+250	Ševčík Jozef		0	946,1018,2341
+250	Ševčík Jozef	vdovec	0	2099
+250	Ševčík Ľudovít		1	335,1067,1635,1722,3298
+250	Ševčík Michal		1	1653,1654,1831,2290,2787
+250	Ševčík Michal r. Ševčík		0	1015
+250	Ševčíková Agáta		1	335,1067,1635,1722,3298
+250	Ševčíková Alžbeta		1	335,1067,1635,1722,3298
+250	Ševčíková Helena		1	335,1067,1635,1722,3298
+250	Ševčíková Matylda		1	1015,1831,2290,2787
+250	Šimíková Františka r. Labudíková		1	1004
+250	Šištík Andrej		1	1590,1829,1908,1961
+250	Šištík Andrej	ž.Mária	0	1591
+250	Šištík Karol		0	2242,3153,3154
+250	Šištík Karol	manž.Anna r.Šipeková	0	1693
+250	Šištík Karol	po Kristíne Šištíkovej r. Hároníkovej	0	2314
+250	Šištík Karol	po Márii Holišovej rod.Lefíkovej	0	945,946,1698,2333,2343
+250	Šištík Karol	po Márii Šištíkovej rod.Králikovej	0	1067
+250	Šištík Karol	spoločne s Máriou Adamčíkovou r.Králik, Augustínom Šištíkom a Pavlom Šištíkom	0	2242,3153,3154
+250	Šištík Mariaš František	ž.Mária	1	1004
+250	Šištík Stenčík Adam		1	1067,2260
+250	Šištík Stenčík Filip	ž.Mária	0	1049,1589
+250	Šištík Štefan	ž.Helena	0	2434
+250	Šištík Vendelín	ž.Kristina	0	2329,2343
+250	Šištíková Emília	Stenčík	0	1624
+250	Šištíková Františka r. Krajčíková		0	1168,3116
+250	Šištíková Helena		1	1828
+250	Šištíková Helena r. Šištíková		1	1829
+250	Šištíková Hermína		0	1168,3116
+250	Šištíková Kamila r. Jandušíková		0	1989
+250	Šištíková Katarina		1	1829
+250	Šištíková Kristina		1	1828,1829
+250	Šištíková Stenčík Mária r. Španihelová		0	1624
+250	Šištíková Veronika	sl	1	1829,2390
+250	Šištíková Veronika	sl.; sl	1	1828
+250	Šištíková Veronika	Šuník	0	946,2327,2344
+250	Šopincová Juliana	r. Jandušíková	0	1714
+250	Šopincová Juliana r. Jandušíková		0	227,1427,1436,1599,1600
+250	Španihel Štefan	ž.Mária	1	1015,1831,2091,2787
+250	Španihelová Monika r. Mikušíková		1	1004
+250	Šujan Andrej	Parman	0	1910
+250	Šujan Karol	Parman	0	1910
+250	Šupolík		1	1004
+250	Šupolík Augustín	ž.Veronika	1	114,924,1081,1082,1831,1884,1916,1917,2787
+250	Šupolík Ján		0	114,1960,1977,2025,2026,2105
+250	Šupolik Štefan	ž.Helena	0	924,1082
+250	Šupolík Vendelín		1	114,924,1081,1082,1831,1884,1916,1917,2787
+250	Šupolíková Kamila		0	1082,1917
+250	Šupolíková Mária r. Jachmeníková		1	924,1015,1082,1831,1884,1916,1917,2499,2787
+250	Šupolíková Mária r. Jandušíková		0	946,1714
+250	Šušolíková Mária r. Grupáčová		0	1015,2092,2100,2190
+250	Tabaček Jozef	ž.Karolina	1	1828,1829
+250	Tabačková Karolina r. Mikušíková		1	1828,1829
+250	Truhlíková Mária		0	2468
+250	Tučníková Viera		0	2601
+250	Turičíková Božena r. Fortuníková		0	1177,2868
+250	Urdák František	ž.Kristina	1	1828,1829
+250	Urdáková Kristina	r.Jurdíková Danižík	1	1829
+250	Urdáková Kristina r. Jurdíková Danižík		1	1049,1828,2246
+250	Vachalíková Katarína r. Labudíková		1	1004
+250	Vachalíková Terézia r. Šupolíková		0	1977
+250	Vaštík Ľudovít		0	1925,1954,2060
+250	Vaštíková Anna r. Grupáčová		0	1971
+250	Vaštíková Karolína r. Pozníková	Brvnište č.234	0	1775
+250	Vaštíková Katarína r. Bibišová		0	2470
+250	Vaštíková Mária r. Zboranová		0	1954
+250	Vaštíková Terezia r. Šamajová		1	1004,1924
+250	Vatolík František		1	114,1004,1705,1707,2298
+250	Vatolíková Kristina		1	114,1004,1705,1707,2298
+250	Volárik Ľudevít	ž.Mária	1	1826,1827
+250	Vrábliková Helena r. Labudíková		1	1004,1056,1926,2024
+250	Zboran Ján		1	114,1004
+250	Zboran Ján	Pribeník	0	1192
+250	Zboranová Katarína r. Balušíková		0	1192,1908
+250	Zboranová Mária r. Santusová-Malíková		0	260
+250	Zboranová Veronika r. Belúchová		1	114,1004,1205,2114,2115
+250	Zdurienčíková Františka r. Králiková		0	114,1980
+250	Žbodák František	ž.Kristina	1	1828,1829
+250	Žbodák Izidor		0	2587
+250	Žbodák Jozef		0	114,1440,1470,1480,1502,2587
+250	Žbodák Jozef	ž.Mária	0	1496
+250	Žbodák Štefan		1	1829,2587
+250	Žbodáková Terézia r. Balušíková		0	2563
+251	ALBERT Daniel		0	864,2007
+251	ALBERT Jan		0	864,2007
+251	ALBERT Jozef		0	864,2007
+251	Albertová Helena r. Hlivakova		0	864,2007
+251	Albertová Helena r. Larazova		0	864,2007
+251	Albertová Terézia r. Šimková		0	1839
+251	Albertová Verona r. Gebeova		0	864,2007
+251	AMBRUZ Anton		0	866,938,1668
+251	AMBRUZ Ludovit		0	866,938,1763
+251	AMBRUZ Martin		0	866,938,1978
+251	AMBRUZ Ondrej		0	866,938,1666
+251	Ambruzova Anna r. Tothova		0	864,2007
+251	AMBRUZOVA Julianna		0	866
+251	Ambruzová Terezia r. Ambruzová		0	938,1960
+251	BACO Daniel		0	865,916,1515
+251	Bacová Julia r. Kovacova		0	865,879,917,918,954,987,1820
+251	Bacová Zuzana r. Tothová		0	863,888,902,986,1843
+251	Bacso Arnošt		1	1265,1271,1579
+251	BACSO Ernest		0	787,846,859,860,1582,2062
+251	BACSO Jan		0	865,963,964,978,979,1654
+251	Bacso Ján r. Bacso		0	899
+251	BACSO Martin		1	787,846,859,860,865,933,1265,1271,1862,2062
+251	Bacso Martin r. Bacso a Ernest Bacso r. Bacso		0	863
+251	BACSO Ondrej		0	863,986,1483
+251	Bacso Ondrej r. Bacso		0	888
+251	Bacso Štefan r. Bacso		1	1265,1274
+251	Bacsová Helena r. Bacsová		0	792,1117
+251	Bacsová Rozalia r. Vanyova		0	865,930,975,1560
+251	BAČO Ernest		0	1081
+251	BAČO Ernest, Brzotín, SR		0	1081
+251	Bačo Ján		0	743,1831
+251	BAGAC Jan		0	865
+251	Bagacova Helena r. Kovacova		0	865
+251	Barci Ľudevít		1	1265
+251	Barciová Anna r. Tóthová		1	1265
+251	BARCZI Jan		1	787,846,864,1265,2007
+251	BARCZI Ludovit		0	787,846,1563
+251	Barcziová Anna r. Tothova		0	787,846,864,1678,2007
+251	Beneková Barbora r. Vanyová		0	975
+251	Benkeová Barbora r. Vanyova		0	865,975,1919
+251	Csampisz Ján		0	1651
+251	Csampisz Jozef		0	1480
+251	Csampisz Pavol		0	1480
+251	Csampiszová Barbora r. Kristofova		0	911,974,1627
+251	Csampiszová Terézia		0	1480
+251	CSASZAR Ludovit		0	864,2007
+251	Csefo Ludovit r. Csefo a Barbora Csefová r. Pengerova		0	863
+251	Csefo Ľudovít, - ž. Mária r. Papková - ž. Mária r. Papková		0	1979
+251	CSEFO Michal		0	982,1507
+251	Csefova Barbora r. Csunyocskova		0	941
+251	CSOBADI Jan		0	864,2007
+251	CSUNYO Alexander		1	970,988,1101,1606
+251	Csunyo Jozef		1	787,846,859,860,863,865,1265,2062
+251	Csunyo Jozef, ml. ml.		0	1485
+251	Csunyo Vojtech		0	860,2062
+251	Csunyo Vojtech, - -		0	1972
+251	CSUNYOCSKA Alexander		0	941
+251	Csunyova Barbora r. Gergelyova		0	865
+251	Csunyova Helena r. Szabova		0	860,1808,2062
+251	Csunyova Margita r. Bukovinská		0	1265
+251	Csunyová Margita r. Bukovinská	zomrela	0	1456
+251	Czangarova Maria r. Tothova		0	864,2007
+251	DANYI Frantisek		1	787,846,1265,1300,1611
+251	DANYI Jan		1	787,846,1265,1300,1895
+251	DANYI Jozef		1	787,846,1265
+251	DANYI Ondrej		1	787,846,1265,1300,1671
+251	DANYI Stefan		1	787,846,1265,1300,1756
+251	DOBOS Stefan		0	864,2007
+251	Dobrovičová Šarlota r. Kandová		0	1997
+251	Dobrovičová Šarlota r. Kandovaá		0	855
+251	Dobrovitsová Šarlota r. Kandová		1	1302
+251	Dókus Ondrej, ž. Julianna r. Liptáková ž. Julianna r. Liptáková		0	1618
+251	DOMANKO Jozef		0	865
+251	DOMANKO Viliam		0	977,1464
+251	Domanková Zuzana r. Csampiszová		0	977,1464
+251	DRENKO Jan		1	787,846,859,860,863,1265,1500,2062
+251	DRENKO Vojtech		0	860,2062
+251	DRENKOVA Helena		0	863,1522
+251	Drenkova Maria r. Gasparova		1	787,846,859,860,865,914,958,991,1265,1542,2062
+251	DUDAS Jan		0	864,2007
+251	DUDAS Stefan		0	864,2007
+251	Fabian Ján		0	1791
+251	Fabian Ladislav		0	2004
+251	Fabianová Julianna		0	2004

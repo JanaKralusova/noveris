@@ -1,0 +1,256 @@
+3209	Vargaová Etela		0	2705,4076,5484,5811,5812,6032,6049,6066
+3209	Vargaová Irma r. Barátová		0	5415,5416,6011
+3209	Vargaová Janka		0	2705,4076,5484,5811,5812,6032,6049,6066
+3209	Vargaová Julianna		0	2705,3348,5912,6049
+3209	Vargaová Karolina r. Lelkesová		0	2707,6411
+3209	Vargaová Margita r. Halászová		0	5949
+3209	Vargová Alžbeta		0	5920
+3209	Vargová Etela		1	3666,5074,5573
+3209	Vargová Etela r. Jankóová		0	6113
+3209	Vargová Etela r. Vargová		0	3327
+3209	Vargová Irena r. Bajnoková		0	5829
+3209	Vargová Jolana		0	3871
+3209	Vargová Jolana r. Bugárová		0	5783
+3209	Vargová Justína		0	3666
+3209	Vargová Justina r. Bekeová		0	5484
+3209	Vargová Karolina		0	4076
+3209	Vargová Mária		0	5342,5484
+3209	Vargová Mária r. Feketeová		0	5916
+3209	Vargová Mária r. Némethová		0	3434,4330
+3209	Vargová Mária r. Szendiová		0	6078
+3209	Vargová Rozália		0	5484
+3209	Vargová Terézia r. Kovácsová		0	3674,3677,5950
+3209	Véghová Karolina r. Mériová		0	3597,5536,5595
+3209	Veličková Mária r. Györiová		1	3337,5079,5080,5566,5567,6064
+3209	Vendégh Ladislav		0	5886
+3209	Vendéghová Ida r. Kosárová		0	2381
+3209	Vendéghová Kristína r. Vörösová		0	5886
+3209	Viberál Ottó		0	3756
+3209	Vida Gregor		0	3821,4960
+3209	Vida Jozef		0	3821,4960
+3209	Vida Július		0	3821,4960
+3209	Vida Pavol		0	3821,4960
+3209	Vida Vincent		0	3821,4960
+3209	Vidaová Klára r. Józsaová		0	5981
+3209	Vidaová Mária r. Agazoniová		0	5654,5672
+3209	Vidaová Mária r. Józsaová		0	3821,4960,5981
+3209	Vidaová Žofia r. Zsemlyeová		0	6001
+3209	Vizvári Dezider		0	5291,5974
+3209	Vizvári Karol		0	3033
+3209	Vízvári Ladislav		0	5666
+3209	Vizvári Mikuláš		0	5974
+3209	Vizvári Viktor		0	3922
+3209	Vizvári Viliam		0	5974
+3209	Vizvári Vilma r.Vizváriová		0	4178
+3209	Vizváriová Estera		0	2931,4551,5441
+3209	Vizváriová Estera r. Baráthová		0	4288
+3209	Vizváriová Etela		0	5230,5231,5232,5233,5234,5774
+3209	Vizváriová Julianna		0	5230,5231,5232,5233,5234,5974
+3209	Vizváriová Julianna r. Baráthová		0	3006,6270
+3209	Vizváriová Mária		0	5230,5231,5232,5233,5234
+3209	Vizváriová Mária r. Szombathyová		0	3033,3034,3035
+3209	Vizváriová Rozália		0	3922
+3209	Vizváriová Rozália r. Baráthová		0	3921,3922,3923
+3209	Vizváriová Terézia		0	5974
+3209	Vizváriová Terézia	otec Ľudovít	0	5953
+3209	Vizváriová Vilma r. Vizváriová		0	3033,3034,3266
+3209	Vizváry Karol		0	5230,5231,5232,5233,5234
+3209	Vizváry Koloman		0	3423,3921,3922
+3209	Vizváry Ľudovít		0	3423,3921,3922,5056,5184,5185,5944
+3209	Vizváry Ľudovít r. Vizváry		1	3276,6297
+3209	Vizváry Viktor		0	3921,3922,3923
+3209	Vizváry Vincent		0	3423,3921,3922,3923
+3209	Vizváryová Etela		0	3423,3921,3922,3923,5230,5231,5232,5233,5234,5774,5943,6059
+3209	Vizváryová Etela	otec Alexander	0	5448
+3209	Vizváryová Jana		0	3423,3921,3922
+3209	Vizváryová Janka		0	3264,3267,5944
+3209	Vizváryová Johanna		1	2931,3266,3276,4551,5184,5185,5441,6297
+3209	Vizváryová Júlia		0	5230,5231,5232,5233,5234
+3209	Vizváryová Júlia r. Vizváryová		0	5775,5806
+3209	Vizváryová Julianna		0	5774,5943,5954
+3209	Vizváryová Karolina		0	5723
+3209	Vizváryová Mária		0	5230,5231,5232,5233,5234
+3209	Vizváryová Terézia		0	5933
+3209	Vizváryová Vilma r. Vizváriová		0	5184,5185
+3209	Vizváryová Vilma r. Vizváryová		1	3276,6297
+3209	Vizváryová Žofia		0	3423,3921,3922,3923
+3209	Vlčko Ondrej		0	3533
+3209	Vollárová Rozália r. Balasková		0	6115
+3209	Vörös Imrich		0	5826
+3209	Vörös Jozef		0	6028
+3209	Vörös Július		0	5261,5262,5263,5264,5265,5266,5267,5268
+3209	Vörös Ladislav		0	5881
+3209	Vörösová Estera r. Bíróová		0	5826
+3209	Vörösová Juliana r. Vörösová		0	5881
+3209	Vörösová Julianna r. Barátová		0	5415
+3209	Vörösová Justina r. Szabóová		0	3786,4936,6005
+3209	Vörösová Margita r. Nagyová		0	3034
+3209	Vyberalová Mária r. Staneková		0	3844,5985
+3209	Vyberalová Rozália r. Paxianová		0	3555
+3209	Weiszová Janka r. Lénártová		0	5979
+3209	Weiszová Júlia r. Ráczová		0	2807,5343
+3209	Wetzler Jozef		0	5557
+3209	Zahodiková Etela r. Ládiová		0	6000,6025
+3209	Zakál Alexander		0	4367,4711,5784,5975,5990,6139,6287
+3209	Zakál Alexander	manželka Etela r.Szegi	0	3504,5424,5605
+3209	Zakál Alexander, SR		0	4712
+3209	Zakál Anton		0	4367,4711,5784,5975,5990,6287
+3209	Zakál Anton, SR		0	4712
+3209	Zakál Antonín		0	4711
+3209	Zakál Antonín, SR		0	4712
+3209	Zakál Dezider		0	4367,4711,5784,5975,5990,6287
+3209	Zakál Dezider, SR		0	4712
+3209	Zakál Ľudovít		0	4367,4711,5784,5975,5990,6287
+3209	Zakál Ľudovit, SR		0	4712
+3209	Zakál Vincent		0	3504,5605,5948
+3209	Zakál Žigmund	syn Alexandra	0	5739
+3209	Zakálová Antónia		0	5975
+3209	Zakálová Etela r. Nagyová		0	5752,5938,5978
+3209	Zakálová Etela r. Szeghyová		0	5930
+3209	Zakálová Helena		0	4367,4711,5784,5975,5990,6287
+3209	Zakálová Helena, SR		0	4712
+3209	Zakálová Júlianna r. Bothová		0	4711,5990
+3209	Zakálová Júlianna r. Bothová, SR		0	4712
+3209	Zakálová Lenka		0	4367,4711,5784,5975,5990,6287
+3209	Zakálová Lenka, SR		0	4712
+3209	Zapletal Karol		0	3746,3747
+3209	Zinová Jolana r. Kovácsová		0	5763
+3209	Zomaník Ján		0	5850
+3209	Zsemlye Ľudovít		0	5503,5983,6014
+3209	Zsemlye Mikuláš		0	5983,6014
+3209	Zsemlye Štefan		0	5439
+3209	Zsemlye Vincent		0	5791
+3209	Zsemlyeová Anna r. Vargová		0	5503
+3209	Zsemlyeová Etela		0	5791,6001
+3209	Zsemlyeová Julianna r. Lászlóová		0	3362,3363,3365,3368,4107,4216,5276,5277,5278,5377,5916,5917,5938
+3209	Zsemlyeová Mária r. Bereczkiová		0	5983
+3209	Zsidóová Alžbeta		0	5961
+3209	Zsidóová Mária		0	5961
+3209	Zsidóová Terézia		0	5961
+3210	Abafiová Júlia r. Deáková		0	407,704,880,932,936,1033,1071
+3210	Ágošton Vojtech		1	465,484,523,551,631,632,633,689,738,739,942,988,989,1144,1150
+3210	Akúcsová Júlia r. Varanaiová		0	943
+3210	Bacsa Gabriel		0	540,565,768,816,1019,1078
+3210	Bacsová Mária r. Pravická		0	540,1070
+3210	Bagócsi Štefan	ml	0	515
+3210	Bagócsiová Alžbeta r. Šubaová		0	774
+3210	Bagócsiová Irma r. Bíróová		0	543
+3210	Bagócsiová Júlia		0	841,879
+3210	Bagócsiová Žofia r. Deáková		0	539,540,541
+3210	Bachstadterová Mária r. Mascheková		0	829,890
+3210	Baka Karol		0	401
+3210	Bakaová Estera r. Góraová		0	969,1033
+3210	Balla Koloman		0	1033
+3210	Ballaová Žofia r. Nagyová	vd	0	407,704,1033
+3210	Balogová Júlia r. Šipošová		0	654,655
+3210	Bencsík Ondrej		0	404,405,682,683,690,691,692,990,1033
+3210	BENEOVÁ Alžbeta	rod.Dókaová	1	1145
+3210	Beneová Alžbeta r. Dókaová		0	487,864
+3210	Beneová Júlia		0	447
+3210	Berecz Jozef	ml	0	539,540,1052
+3210	Bereczová Júlia r. Pappová		0	859,860,861,960,1033,1146
+3210	Bíró Ján		0	543
+3210	Bíró Ján	ml	0	543
+3210	Bíró Ľudovít		0	543
+3210	Bóna Árpád		0	473
+3210	Bóna Jozef		0	473
+3210	Bóna Ľudovít		0	473
+3210	Bónaová Alžbeta		0	735
+3210	Bónaová Jolana r. Krištófová		0	1033
+3210	Borková Margita r. Bónová		0	473
+3210	Bozsenyiková Júlia r. Kristófová		0	420,1033
+3210	Bozsenyiková Mária		0	930
+3210	Budáč Pavol		0	720,721
+3210	Budáčová Mária		0	720,721
+3210	Bukóová Estera r. Domanová		0	421
+3210	Csengerová Irma r. Muzsiková		0	388
+3210	Csengerová Karolína r. Deáková		0	1033,1067
+3210	Csenkiová Júlia r. Muzsiková		0	388,638,684,783,853
+3210	Csiffári Flórián		0	890,1033
+3210	Csiffáriová Júlia		0	890,977
+3210	Csiffáriová Mária		0	977
+3210	Csingerová Júlia		0	460,532,569,730,791,1033
+3210	Číž Martin		0	431,432,494,661,693,760,786,866,870,883,952,1000,1015
+3210	Čordáš Štefan		0	395,1066
+3210	Čordášová Júlia r. Šajbelová		0	395
+3210	Daniš Juraj		0	447
+3210	Daniš Vojtech		0	795
+3210	Danišová Alžbeta r. Urbanová		0	447
+3210	Deák Ján		0	1033
+3210	Deák Jozef	ml	0	1006
+3210	Deák Ľudovít		0	407
+3210	Deák Ľudovít	ml	0	398
+3210	Deák Samuel	ml	0	937
+3210	Deáková Agneša r. Nyulászová		0	993
+3210	Deáková Ema		0	1033
+3210	Deáková Júlia		0	436,570
+3210	Deáková Júlia r. Pásztorová		0	1033
+3210	Deáková Žofia r. Jakabová		0	1005
+3210	Debrovská Zuzana r. Gálová	vd	0	799,822,823
+3210	Détári Ondrej		0	427
+3210	Dologová Estera r. Pappová		0	576,949,1033
+3210	Dórová Júlia r. Szabóová		0	815
+3210	Duba Jozef		0	813
+3210	Dudášová Estera		0	795
+3210	Dudlák Michal		0	1051
+3210	Dudláková Mária r. Aštová		0	472,1051
+3210	Ďuriš Ján		0	566
+3210	Dvoráková Mária r. Janoková	vd	0	638,684,853,913,1033
+3210	Fedor Ján		0	505
+3210	Fedorová Zuzana r. Garajová		0	505
+3210	Frajkaová Alžbeta r. Jankušová		0	537
+3210	Fuzel Ján		0	465
+3210	Fuzel Ľudovít		0	632,633,689
+3210	Fuzel Ondrej		0	465
+3210	Fuzelová Estera r. Deáková		0	1033
+3210	Fuzelová Jolana		0	523,551,738,739,942,988,989,1150
+3210	Fuzelová Lídia		0	465
+3210	Fuzyová Oľga r. Pappová		0	811,812,873
+3210	Gábor Ján		0	880,932,1071
+3210	Gáborová Žofia r. Nyulászová		0	397,880,993
+3210	Gál Ján		0	906
+3210	Gál Karol		0	906
+3210	Gálová Alžbeta		0	906
+3210	Gálová Mária		0	906
+3210	Gálová Rozália		0	906
+3210	Gálová Žofia		0	906
+3210	Garabaová Júlia r. Szikraová		0	941
+3210	Góra Július		0	969
+3210	Góra Ondrej		0	497,499
+3210	Góra Štefan		1	501,635,880,937,998,999,1001
+3210	Góraová Agneša		0	998,999
+3210	Góraová Estera	mal	0	969,1033
+3210	Góraová Etela r. Muzsiková		0	533,711,937,998,999
+3210	Góraová Irma		0	765,880,936,998,999,1000,1001
+3210	Harangozóová Agneša r. Kovácsová		0	951,952,953
+3210	Hasznosová Júlia r. Némethová		1	544,1159
+3210	Hegedus Ján		0	971,972,973
+3210	Hereng Ondrej		0	669
+3210	Herengová Žofia r. Peszekiová		0	669
+3210	Hubertová Alžbeta r. Ilková		0	732
+3210	Hubertová Etela r. Nyulászová		0	578
+3210	Hugyecová Gizela r. Nyíroová		0	789
+3210	Huszár Pavol		0	719,720
+3210	Huszárová Mária r. Krajčiová		0	719,720
+3210	Hypská Judita r. Litavská		0	973
+3210	Hypský Ján		0	973
+3210	Chrenko Ondrej		0	1050
+3210	Chrenková Júlia r. Suchánska		0	1050
+3210	Jakab Štefan		0	552
+3210	Jakab Štefan	ml	0	536
+3210	Jakabová Rozália r. Jakušová		0	580
+3210	Jakabová Rozália r. Jankušová		0	447,471,581,582,599,1011
+3210	Jakabová Rozália r. Jankušová	vd	0	477,486,636
+3210	Jakabová Zuzana r. Nyulászová		0	722,723,887,1033
+3210	Jankušová Gizela		0	537
+3210	Jankušová Jolana		0	537
+3210	Juhászová Irma		0	997
+3210	Jurčáková Mária r. Kováčiková		0	463
+3210	Kacsmár Michal		0	460
+3210	Kacsmárová Júlia r. Korbicsová		0	460
+3210	Kálnaiová Lídia r. Deáková		0	436,570
+3210	Keményová Etela r. Szívosová		0	403,949
+3210	Kerekešová Alžbeta		0	996
+3210	Keseru Ján		0	524,557,734,832,907
+3210	Keseru Ľudovít		0	524,557,734,832,907
+3210	Keseru Štefan		0	524,557,734,832,907

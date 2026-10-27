@@ -1,0 +1,256 @@
+2441	MODRÁKOVÁ Margita	NP	1	566,568,664,830,831
+2441	MODRÁKOVÁ Margita	NP; LSR	0	569
+2441	MODRÁKOVÁ Mária r. Kereštán Lazúrová, SR	zomrela	1	568,830
+2441	MODRÁKOVÁ Mária r. Kereštán Lazúrová, SR	zomrela, LSR	0	569
+2441	MOLNÁR Viliam	Dr., zomrel	1	649
+2441	MOŠKOVIČ Chaim	zomrel	1	566,568,830,831
+2441	MOŠKOVIČ Chaim	zomrel; LSR	0	569
+2441	MOŠKOVIČ Imrich	NP	1	791
+2441	MOŠKOVIČ Jozef	NP	1	566,568,830,831
+2441	MOŠKOVIČ Jozef	NP; LSR	0	569
+2441	MRÁZ MIŠÁK Michal, SR	mladší, ž.Anna r.Červeňáková, zomrel	1	618
+2441	Obecná škola Vyšné Remety		0	566,568,569,830,831
+2441	OGURČÁK Juraj, SR	ž.Anna r.Hudáková, zomrel	1	566,568,830,831
+2441	OGURČÁK Juraj, SR	ž.Anna r.Hudáková, zomrel, LSR	0	569
+2441	OGURČÁKOVÁ Anna r. Hudáková, SR	m.Juraj, zomrela	1	566,568,830,831
+2441	OGURČÁKOVÁ Anna r. Hudáková, SR	m.Juraj, zomrela, LSR	0	569
+2441	ONDO Ján	NP	1	571
+2441	ONDOVÁ Mária	r.Kurucová, NP	1	571
+2441	ONDRÍK Ján	ž.Mária r.Krupová, zomrel	1	566
+2441	ONDRÍK Ján, SR	ž.Mária r.Krupová, zomrel	1	566,568,830,831
+2441	ONDRÍK Ján, SR	ž.Mária r.Krupová, zomrel, LSR	0	569
+2441	ONDRIK Michal, SR	ž.Anna r.Paraská, zomrel	1	566,568,830,831
+2441	ONDRIK Michal, SR	ž.Anna r.Paraská, zomrel, LSR	0	569
+2441	OPÁLKA Gustáv	zomrel	1	712,728
+2441	OPÁLKA Michal	NP	1	712,728
+2441	OPÁLKA Pavel	NP	1	712,728
+2441	OPÁLKA Štefan	NP	1	712
+2441	OPALKOVA ANNA r. PRISLUBSKA, SR	zomrela	1	728
+2441	PAČUTOVÁ Mária	r.Kalaninová, zomrela	1	566,568,830,831
+2441	PAČUTOVÁ Mária	r.Kalaninová, zomrela; LSR	0	569
+2441	PALLAY Ján, SR	ž.Anna r.Hudáková, NP	1	795
+2441	PAPEROVÁ Mária r. Popovičová, SR	m.Adam, zomrela	1	568,830
+2441	PAPEROVÁ Mária r. Popovičová, SR	m.Adam, zomrela, LSR	0	569
+2441	PČOLOVÁ Aurélia r. Kapošváryová, SR	zomrela v r.1998	1	621
+2441	PČOLOVÁ Helena	r.Rajňáková, zomrela	1	711
+2441	Peťák Ján	zomrel 01.12.1987, LSR	0	569
+2441	PEŤÁK Ján, SR	zomrel 01.12.1987	1	568,830
+2441	PEŤÁKOVÁ Alžbeta	r.Mandičáková, zomrela	1	566,568,830,831
+2441	PEŤÁKOVÁ Alžbeta	r.Mandičáková, zomrela; LSR	0	569
+2441	PEŤO Juraj	zomrel	1	566,568,830,831
+2441	PEŤO Juraj	zomrel; LSR	0	569
+2441	PEŤO Michal, SR	ž.Anna r.Holodňáková, zomrel	1	561
+2441	PEŤOVÁ Mária	maloletá, zomrela	1	566,568,830,831
+2441	PEŤOVÁ Mária	maloletá, zomrela; LSR	0	569
+2441	PETRUNIČ Martin, SR	ž.Alžbeta r.Zahorčáková, zomrel	1	568,830
+2441	PETRUNIČ Martin, SR	ž.Alžbeta r.Zahorčáková, zomrel, LSR	0	569
+2441	PETRUNIČOVÁ Alžbeta	r.Zahorčaková, m.Martin, zomrela	1	568
+2441	PETRUNIČOVÁ Alžbeta	r.Zahorčaková, m.Martin, zomrela; LSR	0	569
+2441	PETRUNIČOVÁ Alžbeta r. Zahorčaková, SR	m.Martin, zomrela	1	830
+2441	PETRUŠKA Karol	zomrel	1	568,830
+2441	PETRUŠKA Karol	zomrel; LSR	0	569
+2441	PETRUŠKOVÁ Mária r. Petrčiková, SR	vdova, m.Pavol, zomrela	1	568
+2441	PETRUŠKOVÁ Mária r. Petročiková, SR	vdova, m.Pavol, zomrela	1	830
+2441	PETRUŠKOVÁ Mária r. Petročiková, SR	vdova, m.Pavol, zomrela, LSR	0	569
+2441	PFOL LEO Anna r. Praščáková, SR	otec Ján, NP	1	566,568,635,830,831
+2441	PFOL LEO Anna r. Praščáková, SR	otec Ján, NP, LSR	0	569
+2441	PLAČEK Anton	súr.Anna,Mária a Ján, zomrel	1	566,568,830,831
+2441	PLAČEK Anton	súr.Anna,Mária a Ján, zomrel; LSR	0	569
+2441	PLAČEK Ján	súr.Anna,Mária a Anton, zomrel	1	566,568,830,831
+2441	PLAČEK Ján	súr.Anna,Mária a Anton, zomrel; LSR	0	569
+2441	PLAČEK Jozef	brat Karol, zomrel	1	566,831
+2441	PLAČEK Karol	brat Jozef, zomrel	1	566,568,830,831
+2441	PLAČEK Karol	brat Jozef, zomrel; LSR	0	569
+2441	PLAČEKOVÁ Alžbeta	zomrela	1	566,568,830,831
+2441	PLAČEKOVÁ Alžbeta	zomrela; LSR	0	569
+2441	PLAČEKOVÁ Mária	m. František, zomrela	1	566,568,830,831
+2441	PLAČEKOVÁ Mária	m. František, zomrela; LSR	0	569
+2441	PLAČEKOVÁ Mária	súr.Anna,Anton a Ján, zomrela	1	566,831
+2441	PLIŠKOVÁ Johana	r.Hajduková,súr.Mária,Anna atď., zomrela	1	108
+2441	POHREBNÝ SPOLOK, 072 41, REMETSKÉ HÁMRE, SR		0	421
+2441	POPEPTOVÁ Mária r. Kudelásová, SR	m.Adam, zomrela	1	566,568,830,831
+2441	POPEPTOVÁ Mária r. Kudelásová, SR	m.Adam, zomrela, LSR	0	569
+2441	POPOVIČ Andrej	zomrel	1	568,830
+2441	POPOVIČ Andrej	zomrel; LSR	0	569
+2441	POPOVIČ Juraj	zomrel	1	566,831
+2441	POPOVIČ Michal, SR	zomrel 22.05.1998	1	627
+2441	POPOVIČOVÁ Helena	maloletá, zomrela	1	568,830
+2441	POPOVIČOVÁ Helena	maloletá, zomrela; LSR	0	569
+2441	POPOVIČOVÁ Mária r. Kepičová, SR	m.Juraj, zomrela	1	566,568,830,831
+2441	POPOVIČOVÁ Mária r. Kepičová, SR	m.Juraj, zomrela, LSR	0	569
+2441	PORUBENSKÁ Anna	z Bunkoviec, zomrela	1	790
+2441	PRAŠČÁK Ján	maloletý, otec Ján, zomrel	1	566,568,635,830,831
+2441	PRAŠČÁK Ján	maloletý, otec Ján, zomrel; LSR	0	569
+2441	PRAŠČÁK Juraj	maloletý, otec Ján, zomrel	1	566,568,635,830,831
+2441	PRAŠČÁK Juraj	maloletý, otec Ján, zomrel; LSR	0	569
+2441	PRAŽEKOVÁ Františka	maloletá, zomrela	1	568,830
+2441	PRAŽEKOVÁ Františka	maloletá, zomrela; LSR	0	569
+2441	PRISČÁKOVÁ Pavlína r. Furmančíková, SR	m.Michal, zomrela	1	666
+2441	PRIŠČÁK Martin, SR	ž.Terézia r.Irganová, NP	1	655
+2441	PRIŠČÁK Michal, SR	ž.Paulína r.Furmančíková, zomrel	1	666
+2441	PRIŠČÁKOVÁ Terézia r. Irganová, SR	m.Martin, NP	1	655
+2441	RAPÁK Herman	ž.Jolana r.Valčáková, zomrel 27.08.1988	1	104,137,497,498,499,877,916,1003,1004
+2441	RIPKOVÁ Rozália r. Uberlauerová, SR	m.Juraj, zomrela	1	729
+2441	Rojková Helena r. Hajduková	NP	1	104
+2441	ROJKOVÁ Helena r. Hajduková, SR	NP, LSR	0	497,499,877,916,1004
+2441	ROTH Jozef	NP	1	713
+2441	ROTHOVÁ Anna r. Franková	zomrela	1	373,452,713
+2441	ROTHOVÁ Jozefína	maloletá, súr.Anton a Helena, zomrela	1	491,714
+2441	RYBKA Anton	ž.Adela r.Madarasová, zomrel 01.11.1991	1	729
+2441	SADÍLEKOVÁ Mária r. Havrilová, SR	m.Jozef, zomrela	1	566,568,830,831
+2441	SADÍLEKOVÁ Mária r. Havrilová, SR	m.Jozef, zomrela, LSR	0	569
+2441	SEDLICKÁ Anna r. Simčíková, SR	m.Andrej, NP	1	566,568,830,831
+2441	SEDLICKÁ Anna r. Simčíková, SR	m.Andrej, NP, LSR	0	569
+2441	SEDLICKÝ Andrej, SR	ž.Anna r.Simčíková, NP	1	566,568,830,831
+2441	SEDLICKÝ Andrej, SR	ž.Anna r.Simčíková, NP, LSR	0	569
+2441	SEJNOVÁ Anna	r.Doliničová, NP	1	566,568,830,831
+2441	SEJNOVÁ Anna	r.Doliničová, NP; LSR	0	569
+2441	SEMJÁN Aurel	zomrel	1	622,639
+2441	SEMJÁN Bartolomej	zomrel	1	622,639
+2441	Semján Jenxerneová Mária	zomrela	1	639
+2441	SEMJÁNOVÁ Alžbeta	zomrela	1	622,639
+2441	SÉNA Andrej	zomrel	1	566,568,830,831
+2441	SÉNA Andrej	zomrel; LSR	0	569
+2441	SCHWARZ Leopold	zomrel	1	566,831
+2441	SIMÍK Juraj	maloletý, zomrel	1	566,831
+2441	SLOBODA Ján	maloletý, zomrel	1	566,568,830,831
+2441	SLOBODA Ján	maloletý, zomrel; LSR	0	569
+2441	SLOBODOVÁ Anna	zomrela	1	566,568,830,831
+2441	SLOBODOVÁ Anna	zomrela; LSR	0	569
+2441	SLOBODOVÁ Helena	maloletá, zomrela	1	566,568,830,831
+2441	SLOBODOVÁ Helena	maloletá, zomrela; LSR	0	569
+2441	SLOBODOVÁ Jozefína	zomrela	1	566,568,830,831
+2441	SLOBODOVÁ Jozefína	zomrela; LSR	0	569
+2441	SLOBODOVÁ Mária	zomrela	1	566,568,830,831
+2441	SLOBODOVÁ Mária	zomrela; LSR	0	569
+2441	SMERIGOVÁ Alžbeta	r.Smerigová, brat Michal, zomrela	1	616
+2441	STAREC Eduard	NP	1	379,668
+2441	STAREC Ján	maloletý, NP	1	379,668
+2441	STAREC Ján	ž.Petronela, zomrel	1	668
+2441	STARECOVÁ Alžbeta	maloletá, NP	1	379,668
+2441	STARECOVÁ Cecília	maloletá, NP	1	379,668
+2441	STARECOVÁ Margita	maloletá, NP	1	379,668
+2441	STEINBERGEROVÁ Františka	Semján, zomrela	1	622,639
+2441	STREŇO Michal	amerikán Pittsgurgh , zomrel	1	566,568,830,831
+2441	STREŇO Michal	amerikán Pittsgurgh , zomrel; LSR	0	569
+2441	STREŇOVÁ Anna r. Kepičová, SR	m.Ján, zomrela	1	566,568,830,831
+2441	STREŇOVÁ Anna r. Kepičová, SR	m.Ján, zomrela, LSR	0	569
+2441	STREŇOVÁ Helena	r.Popovičová, amerikánka, zomrela	1	566,568,830,831
+2441	STREŇOVÁ Helena	r.Popovičová, amerikánka, zomrela; LSR	0	569
+2441	SUŇÁK Michal	zomrel	1	566,831
+2441	ŠALATA Pavel	zomrel	1	568,830
+2441	ŠALATA Pavel	zomrel; LSR	0	569
+2441	ŠČERBÁKOVÁ Alžbeta r. Timočková, SR	m.Andrej, zomrela	1	568,830
+2441	ŠČERBÁKOVÁ Alžbeta r. Timočková, SR	m.Andrej, zomrela, LSR	0	569
+2441	ŠPERŇÁK Ján, SR	zomrel 21.06.1990	1	104,137,497,498,499,877,916,1003,1004
+2441	ŠPERŇÁKOVÁ Hermína r. Fischerová	súr.Karol, atď., zomrela	1	51,715,980,981
+2441	TABIŠ Jozef	maloletý, zomrel	1	568,830
+2441	TABIŠ Jozef	maloletý, zomrel; LSR	0	569
+2441	TABIŠOVÁ Anna	r.Bartová, zomrela	1	568,830
+2441	TABIŠOVÁ Anna	r.Bartová, zomrela; LSR	0	569
+2441	TABIŠOVÁ Mária	r.Kincelová, zomrela	1	566,568,830,831
+2441	TABIŠOVÁ Mária	r.Kincelová, zomrela; LSR	0	569
+2441	TIMOČKO Andrej	maloletý, NP	1	566,568,830,831
+2441	TIMOČKO Andrej	maloletý, NP; LSR	0	569
+2441	TIMOČKO Andrej	NP	1	566,831
+2441	TIMOČKO Ján	maloletý, NP	1	566,568,830,831
+2441	TIMOČKO Ján	maloletý, NP; LSR	0	569
+2441	TIMOČKOVÁ Alžbeta	1, maloletá, zomrela	1	568,830
+2441	TIMOČKOVÁ Alžbeta	1, maloletá, zomrela; LSR	0	569
+2441	TIMOČKOVÁ Alžbeta	maloletá, zomrela	1	566,568,830,831
+2441	TIMOČKOVÁ Alžbeta	maloletá, zomrela; LSR	0	569
+2441	TIMOČKOVÁ Anna	maloletá, zomrela	1	566,568,830,831
+2441	TIMOČKOVÁ Anna	maloletá, zomrela; LSR	0	569
+2441	TIMOČKOVÁ Anna	r.Vatahová, zomrela 16.09.1984	1	568,830
+2441	TIMOČKOVÁ Anna	r.Vatahová, zomrela 16.09.1984; LSR	0	569
+2441	TIMOČKOVÁ Anna r. Hadvábová, SR	m.Peter, zomrela	1	568,830
+2441	TIMOČKOVÁ Anna r. Hadvábová, SR	m.Peter, zomrela, LSR	0	569
+2441	TIMOČKOVÁ Elena	r.Žofčáková, zomrela	1	566,568,830,831
+2441	TIMOČKOVÁ Elena	r.Žofčáková, zomrela; LSR	0	569
+2441	TIMOČKOVÁ Mária	amerikánka, zomrela	1	568,830
+2441	TIMOČKOVÁ Mária	amerikánka, zomrela; LSR	0	569
+2441	TIMOČKOVÁ Mária	maloletá, zomrela	1	566,831
+2441	TOMKO Ján	maloletý, NP	1	566,568,830,831
+2441	TOMKO Ján	maloletý, NP; LSR	0	569
+2441	TOMKO Ján	NP	1	566,568,830,831
+2441	TOMKO Ján	NP; LSR	0	569
+2441	TOMKO Juraj	NP	1	566,568,830,831
+2441	TOMKO Juraj	NP; LSR	0	569
+2441	TOMKO Pavel	NP	1	566,568,830,831
+2441	TOMKO Pavel	NP; LSR	0	569
+2441	TOMKOVÁ Mária	r.Kováčová, m.Ján, zomrela 21.07.1971	1	566
+2441	TOMKOVÁ Zuzana	r.Štimová, zomrela	1	566,831
+2441	Trojanová Etela	zomrela 03.02.1993	1	154
+2441	TROJANOVÁ Etela, SR	zomrela 03.02.1993	1	104,137,155,156,497,498,499,877,893,916,1003,1004
+2441	UHRINOVÁ Mária	r.Zahorčáková, zomrela	1	566,568,830,831
+2441	UHRINOVÁ Mária	r.Zahorčáková, zomrela; LSR	0	569
+2441	VALČÁK Jozef	zomrel	1	624
+2441	VAĽOČÍK KATANČÍK Michal, SR	z Palína, zomrel	1	611
+2441	Vataha Ján	sestra Anna, zomrel 07.04.1998, LSR	0	569
+2441	VATAHA Ján, SR	sestra Anna, zomrel 07.04.1998	1	568,830
+2441	VATAHA Michal	1, zomrel	1	568,830
+2441	VATAHA Michal	1, zomrel; LSR	0	569
+2441	VATAHA Michal	2, zomrel	1	568,830
+2441	VATAHA Michal	2, zomrel; LSR	0	569
+2441	VATAHA Michal	zomrel	1	566,568,830,831
+2441	VATAHA Michal	zomrel; LSR	0	569
+2441	VATAHOVÁ Zuzana	r.Kočíková, zomrela	1	566,568,830,831
+2441	VATAHOVÁ Zuzana	r.Kočíková, zomrela; LSR	0	569
+2441	Verejnosť užhorodskej župy Remetské Hámre		1	683
+2441	VESCHENY Michal, SR	ž.Anna r.Kurdilová, amerikán, zomrel	1	165
+2441	VESCHENYOVÁ Anna	r.Kurdilová, amerikánka, zomrela	1	165
+2441	VIDOMSKÁ Anna r. Bovanová, SR	m.Michal, zomrela	1	566,831
+2441	VIDOMSKÁ Zuzana r. Bencaová, SR	m.Ján, zomrela	1	566,568,830,831
+2441	VIDOMSKÁ Zuzana r. Bencaová, SR	m.Ján, zomrela, LSR	0	569
+2441	VIDOMSKÝ Ján	zomrel	1	568,830
+2441	VIDOMSKÝ Ján	zomrel; LSR	0	569
+2441	VRECENÁR Karol	setry Paulína, Verona a Hermína, zomrel	1	231
+2441	WALTER František	zomrel	1	566,568,830,831
+2441	WALTER František	zomrel; LSR	0	569
+2441	ZAHORČÁK Andrej	maloletý, zomrel	1	566,831
+2441	ZAHORČÁK Andrej	zomrel	1	568,830
+2441	ZAHORČÁK Andrej	zomrel; LSR	0	569
+2441	ZAHORČÁK Ján	1, zomrel	1	568,830
+2441	ZAHORČÁK Ján	1, zomrel; LSR	0	569
+2441	ZAHORČÁK Ján	2, zomrel	1	568,830
+2441	ZAHORČÁK Ján	2, zomrel; LSR	0	569
+2441	ZAHORČÁK Ján	Katin, zomrel	1	566,568,830,831
+2441	ZAHORČÁK Ján	Katin, zomrel; LSR	0	569
+2441	ZAHORČÁK Ján	maloletý, zomrel	1	566,831
+2441	ZAHORČÁK Ján	zomrel	1	568,830
+2441	ZAHORČÁK Ján	zomrel; LSR	0	569
+2441	ZAHORČÁK Juraj	2, zomrel	1	568,830
+2441	ZAHORČÁK Juraj	2, zomrel; LSR	0	569
+2441	ZAHORČÁK Juraj	3, zomrel	1	568,830
+2441	ZAHORČÁK Juraj	3, zomrel; LSR	0	569
+2441	ZAHORČÁK Juraj	maloletý, zomrel	1	566,568,830,831
+2441	ZAHORČÁK Juraj	maloletý, zomrel; LSR	0	569
+2441	ZAHORČÁK Juraj	sestry Anna, Mária vyd.Uhrinová, zomrel	1	566,568,830,831
+2441	ZAHORČÁK Juraj	sestry Anna, Mária vyd.Uhrinová, zomrel; LSR	0	569
+2441	ZAHORČÁK Juraj	zomrel	1	566,831
+2441	ZAHORČÁK LUKÁČ Ján, SR	maloletý, zomrel	1	566,568,830,831
+2441	ZAHORČÁK LUKÁČ Ján, SR	maloletý, zomrel, LSR	0	569
+2441	ZAHORČÁK LUKÁČ Ján, SR	zomrel	1	566,831
+2441	ZAHORČÁK LUKÁČ Juraj, SR	maloletý, zomrel	1	566,568,830,831
+2441	ZAHORČÁK LUKÁČ Juraj, SR	maloletý, zomrel, LSR	0	569
+2441	ZAHORČÁK LUKÁČ Michal, SR	maloletý, zomrel	1	566,568,830,831
+2441	ZAHORČÁK LUKÁČ Michal, SR	maloletý, zomrel, LSR	0	569
+2441	ZAHORČÁK LUKÁČOVÁ Barbora	maloletá, zomrela	1	830
+2441	ZAHORČÁK Michal	1, maloletý, zomrel	1	566,831
+2441	ZAHORČÁK Michal	1, zomrel	1	568,830
+2441	ZAHORČÁK Michal	1, zomrel; LSR	0	569
+2441	ZAHORČÁK Michal	2, maloletý, zomrel	1	568,830
+2441	ZAHORČÁK Michal	2, maloletý, zomrel; LSR	0	569
+2441	ZAHORČÁK Michal	2, zomrel	1	568,830
+2441	ZAHORČÁK Michal	2, zomrel; LSR	0	569
+2441	ZAHORČÁK Michal	maloletý, zomrel	1	566,831
+2441	ZAHORČÁK Michal	zomrel	1	566,831
+2441	Zahorčák- Lukáčová Anna	maloletá, zomrela	1	566,831
+2441	Zahorčák- Lukáčová Barbora	maloletá, zomrela	1	566,568,831
+2441	Zahorčák- Lukáčová Barbora	maloletá, zomrela LSR	0	569
+2441	Zahorčák- Lukáčová Mária	maloletá, zomrela	1	566,568,830,831
+2441	Zahorčák- Lukáčová Mária	maloletá, zomrela LSR	0	569
+2441	ZAHORČÁKOVÁ Alžbeta	Katinová, zomrela	1	566,568,830,831
+2441	ZAHORČÁKOVÁ Alžbeta	Katinová, zomrela; LSR	0	569
+2441	ZAHORČÁKOVÁ Anna	1, zomrela	1	568,830
+2441	ZAHORČÁKOVÁ Anna	1, zomrela; LSR	0	569

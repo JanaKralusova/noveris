@@ -1,0 +1,256 @@
+840	Sabadoš Alexander, SK		0	1585,2553,2554,2555,3378,3380,5113
+840	Sabadoš František, SK		0	1585,2553,2554,2555,3378,3380,3821,5113
+840	Sabadoš Štefan, SK		0	1585,2553,2554,2555,3378,3380,5113
+840	Sabadoš Vavrinec, SK		0	1585,2553,2554,2555,3378,3380,5113
+840	Sabadošová Helena r. Bosáková, SK		0	3821
+840	Sabadošová Helena, SK		0	1585,2553,2554,2555,3378,3380,5113
+840	Sabadošová Priska, SK		0	1585,2553,2554,2555,3378,3380,5113
+840	Samolej Rajmund r. Samolej, SK		0	4548
+840	Samolejová Dorota r. Targošová, SK		0	4548
+840	Sarkániyová Františka, SK		0	4512
+840	Senteská Anna r. Lopušná, SK		0	3772,4573
+840	Senteská Zuzana r. Ondrejó, SK		0	3964,4599
+840	Senteský Pavel, SK		0	3964,4599
+840	Seresová Mária r. Bormová, SK		0	2566,2997,2999,3526,3527,3596,3597
+840	Schmidtová Mária r. Ponya, SK		0	1730,1731,4076
+840	Schrammová Helena r. Janošková, SK		0	3730
+840	Sivo Johana r. Perlecká, SK		0	3520,3521
+840	Slávik Ondrej, SK		0	4085
+840	Sláviková Alžbeta r. Kmeťková, SK		0	4085
+840	Sokol Michal, SK		0	4015,4626
+840	Soós Alexander, SK		0	4234
+840	Sóos Anton, SK		0	3781,4703
+840	Soós Ernest, SK		0	1568
+840	Soós Gejza, SK		0	2770
+840	Soós Ján, SK		0	4234
+840	Soós Michal, SK		0	4293
+840	Sóosová Estera, SK		0	1821,2770
+840	Soósová Helena, SK		0	4234
+840	Soosová Justína, SK		0	1730,1731
+840	Sóosová Mária r. Olléová, SK		0	3531,4974
+840	Soósová Mária, SK		0	2770
+840	Sóosová Paula, SK		0	1821
+840	Sóosová Sidónia, SK		0	3545,3547
+840	Soósová Terézia r. Olléová, SK		0	3529
+840	Soósová Terézia, SK		0	4234
+840	Sós Eszter r. Ponya, SK		0	3803
+840	Sós Karol, SK		0	2566,2997,3596,3597
+840	Sós Michal, SK		0	3776,3803
+840	Sós Ondrej, SK		0	2566,2997,3596,3597
+840	Sós Štefan, SK		0	2566,2997,2999,3526,3527,3596,3597
+840	Sós Vavrinec, SK		0	2566,2997,3596,3597,3918
+840	Sósová Estera r. Kontárová, SK		0	4324
+840	Sósová Magdaléna r. Sósová, SK		0	3545
+840	Sósová Terézia, SK		0	2566,2997,3596,3597
+840	Sóš František, SK		0	3545,3547
+840	Szabados Eugen, SK		0	1930,3399,3776,3839,4306,4514
+840	Szabados František, SK		0	3032,3378,3380,3687,3820,4172,5113
+840	Szabados Ján, SK		0	4147,4514
+840	Szabados Koloman, SK		0	1930
+840	Szabados Lajos, SK		0	3776,3803,3966
+840	Szabados Lőrincz r. Szabados, SK		0	4300
+840	Szabados Ľudovít, SK		0	2972,2973,2974,3839,4625
+840	Szabados Michal, SK		0	3378,3380,5113
+840	Szabados Štefan, SK		0	3825,4514
+840	Szabados Vavrinec, SK		0	3378,3380,5113
+840	Szabados Viliam, SK		0	2666,3031,3032,3033,3378,3380,4151,4152,4514,5113
+840	Szabados Vilmos, SK		0	2668,4401
+840	Szabadosová Alžbeta, SK		0	2666,2668,3031,3032,3033,3378,3380,3399,4151,4152,4401,4514,5113
+840	Szabadosová Berta r. Lénártová, SK		0	4544
+840	Szabadosová Estera r. Szaboová, SK		0	2390,2391,3378,3380,3497,3498,3687,4530,4532,5113
+840	Szabadosová Janka, SK		0	1718,2606,2609,2823,3538,3539,3541
+840	Szabadosová Júlia, SK		0	2761,3524,3525,3604,3605,4220,4237
+840	Szabadosová Juliana, SK		0	4514
+840	Szabadosová Justína, SK		0	3399,4514
+840	Szabadosová Mária r. Szöcsová, SK		0	2972,2973,2974
+840	Szabadosová Rozália, SK		0	3378,3380,4391,5113
+840	Szabadosová Terézia r. Takácsová, SK		0	3541,3654
+840	Szabadoszová Hedviga r. Kozáková, SK		0	2015
+840	Szabadošová Erna, SK		0	4151,4152
+840	Szabadošová Helena, SK		0	2972,2973,2974
+840	Szabadošová Irma, SK		0	4151,4152
+840	Szabadošová Terézia r. Meszarošová, SK		0	4068,4294
+840	Szabaóová Apolónia r. Feketeová, SK		0	2189
+840	Szabo - Kolár František, SK		0	3148
+840	Szabó Alexander, SK		0	3132,3378,3380,3447,3858,3872,3895,4043,4404,4405,5113
+840	Szabó Anton, SK		0	3132,3950,4657
+840	Szabó Eugen, SK		0	2449,3755,3756,4490,4550,4739
+840	Szabó Ferdinand, SK		0	3885
+840	Szabo František, SK		0	1730,1731,2997,3378,3380,3526,3527,3596,3597,3763,3845,3918,3925,4035,4141,4315,4513,5113
+840	Szabo Gabriel, SK		0	3971
+840	Szabó Gejza, SK		0	2449,3447,3755,3756,3804,4490,4550,4739
+840	Szabo Imrich, SK		0	2232,3378,3380,3935,4428,5113
+840	Szabó Ján, SK		0	1556,1730,1731,3366,3378,3380,3417,3419,3519,3838,3847,3936,3943,4104,4398,4399,4614,5113
+840	Szabo Jozef, SK		0	1730,1731,2232,2390,2391,3378,3380,3447,3519,3838,3918,3971,4397,4398,4612,4614,4616,5113
+840	Szabo Július, SK		0	3715,3918,4123
+840	Szabo Karol, SK		0	3804,4262,4478,4692
+840	Szabó Koloman, SK		0	3756,4490,4550,4739
+840	Szabo Kontár Mária r. Dobosiová, SK		0	4620
+840	Szabó Ladislav, SK		0	4235
+840	Szabó Lajos, SK		0	3447
+840	Szabó Lörinc, SK		0	4104
+840	Szabó Lörinz, SK		0	3782
+840	Szabo Ľudovít, SK		0	1730,1731,3132,3430,3601,3971,4530,4532
+840	Szabó Lukáš, SK		0	3378,3380,5113
+840	Szabo Mária r. Szombathová, SK		0	4312
+840	Szabó Mária, SK		0	3447
+840	Szabó Michal, SK		0	2957,3971,4518
+840	Szabo Pavol, SK		0	2232,3804
+840	Szabo Peter, SK		0	1730
+840	Szabó Rudolf, SK		0	2449,3132,3755,3756,3854,3918,4490,4550,4739
+840	Szabo Štefan, SK		0	1730,1731,1991,2019,3066,3378,3380,3447,3713,3714,3715,3838,3854,3861,3971,3979,4104,4331,4396,4398,4412,4513,4580,4612,4614,5113
+840	Szabo Teodor, SK		0	3804
+840	Szabo Tibor, SK		0	3804
+840	Szabó Vavrinec, SK		0	3885
+840	Szabó Vincent, SK		0	1735,1873,2355,3378,3380,3385,3386,3481,3482,3488,3489,3490,3918,3935,3996,4365,4788,5113,5114,5115
+840	Szabó Vojtech, SK		0	3378,3380,5113
+840	Szabo Zoltán, SK		0	3132,3447
+840	Szabo Žigmund, SK		0	1730,1731,2154,3163,3378,3380,3763,3804,3845,4310,4648,4661,5113
+840	Szabó-kolár František, SK		0	2957
+840	Szabó-kontár Gejza, SK		0	3968,4620
+840	Szabókontár Gejza, SK		0	4030,4277,4349,4682
+840	Szabókontárová Mária r. Dobossyová, SK		0	4277,4349
+840	Szabóová Alžbeta r. Szabadošová, SK		0	1930
+840	Szabóová Alžbeta, SK		0	3447
+840	Szabóová Anna, SK		0	3132
+840	Szabóová Barbara, SK		0	3834
+840	Szabóová Barbora, SK		0	3834
+840	Szabóová Estera, SK		0	2019,3610
+840	Szaboová Gizela r. Bormaová, SK		0	4675
+840	Szabóová Helena, SK		0	3885
+840	Szabóová Hermína r. Gyurcsyová, SK		0	3378,3380,5113
+840	Szaboová Irma r. Kontárová, SK		0	3048,3623
+840	Szabóová Juliana, SK		0	3885
+840	Szabóová Justína, SK		0	3132
+840	Szabóová Magdaléna r. Kontárová, SK		0	4180
+840	Szabóová Mária r. Szabóová, SK		0	3979
+840	Szaboová Mária r. Zelenková, SK		0	4692
+840	Szabóová Mária, SK		0	2019,3094,3610
+840	Szabóová Terézia r. Vértešiová, SK		0	4412
+840	Szabová Albína r. Szabová, SK		0	2232
+840	Szabová Alžbeta r. Fehérová, SK		0	1984,2315,3409,3410,4331
+840	Szabóvá Alžbeta r. Lénártová, SK		0	3993
+840	Szabová Alžbeta, SK		0	2997,2999,3526,3527,3596,3597
+840	Szabová Anna r. Perlecká, SK		0	3520,3521
+840	Szabová Berta r. Szabová, SK		0	3789
+840	Szabová Berta r. Tonková, SK		0	2810,3378,3380,3571,5113
+840	Szabová Brigita r. Toroková, SK		0	4428
+840	Szabová Brigita, SK		0	5113
+840	Szabová Estera r. Kozáková, SK		0	2154,3378,3380,5113
+840	Szabóvá Estera r. Pónyová, SK		0	3582,3584
+840	Szabová Estera r. Szombathová, SK		0	3550,3971
+840	Szabová Estera, SK		0	3093
+840	Szabová Etela r. Vargová, SK		0	4035
+840	Szabová Františka r. Czinegeová, SK		0	3556,3557,3938,4092,4603
+840	Szabová Františka r. Gyurcsiová, SK		0	1735,3385,3386,3387,3388,3507,3508,4999
+840	Szabová Františka, SK		0	4185
+840	Szabóva Gizela r. Kocsisová, SK		0	1556,2061,3417,3419,3438
+840	Szabová Hermína r. Gyurcsiová, SK		0	2205,3378,3380,5113
+840	Szabová Ida r. Bedecsová, SK		0	4123
+840	Szabová Irena r. Forrová, SK		0	1991,3066,3378,3380,3861,5113
+840	Szabová Irma, SK		0	2997,2999,3526,3527,3596,3597
+840	Szabová Jolana r. Horváthová, SK		0	3943,4247,4547
+840	Szabová Jolana r. Szalayová, SK		0	3794
+840	Szabová Júlia r. Dobrovodská, SK		0	3763,3845
+840	Szabová Júlia r. Tóthová, SK		0	3895
+840	Szabová Juliana r. Kozáková, SK		0	4655
+840	Szabová Juliana, SK		0	3526,3527,3971
+840	Szabová Justína r. Szabová, SK		0	3755,3756,4490,4550,4739
+840	Szabová Justína r. Szombathová, SK		0	2389,3491,3494
+840	Szabová Magdaléna r. Kontárová, SK		0	4419,4490,4491
+840	Szabová Margita r. Bartosová, SK		0	3950
+840	Szabová Margita r. Tonková, SK		0	4518
+840	Szabová Mária r. Feketeová, SK		0	2189
+840	Szabová Mária r. Hajduová, SK		0	1731
+840	Szabová Mária r. Molnárová, SK		0	4185,4268
+840	Szabová Mária r. Szabová, SK		0	4397
+840	Szabová Mária r. Szombathová, SK		0	2184,3550,3675,4534
+840	Szabová Mária, SK		0	3093,3378,3380,3763,3845,4616,5113
+840	Szabová Otília, SK		0	2154,3163
+840	Szabová Rozália r. Dobosyová, SK		0	3385,3386,3481,3482,3488,3489,3490,3997,4365,4787,4788,4968,5115
+840	Szabová Rozália r. Tonková, SK		0	2467,2468,3461,3655
+840	Szabová Rozália, SK		0	1735
+840	Szabová Salome r. Gyurcsiová, SK		0	3378,3380,5113
+840	Szabová Saloméa r. Gyurcsiová, SK		0	2205
+840	Szabová Serena, SK		0	3804
+840	Szabová Sidónia r. Kajošová, SK		0	1883,1884
+840	Szabová Šarlota, SK		0	3804
+840	Szabová Terézia r. Baánová, SK		0	2402
+840	Szabová Terézia r. Kontárová, SK		0	3378,3380,3746,4396,4580,4980,5113
+840	Szabová Terézia r. Pónyová, SK		0	1730,1731,3378,3380,4373,4374,5113
+840	Szabová Terézia r. Szabová, SK		0	3519,3971,4612,4614,4661
+840	Szabová Terézia r. Tonková, SK		0	1089,3378,3380,5113
+840	Szabová Viktoria r. Baánová, SK		0	2402
+840	Szabová Viktória r. Horváthová, SK		0	1735,2329,3190,4999
+840	Szabová Viktória r. Tonkóová, SK		0	3378,3380,5113
+840	Szalai Alexej, SK		0	1891
+840	Szalai Alexin, SK		0	4053
+840	Szalai Baltazár, SK		0	4679
+840	Szalai Eugen, SK		0	1891
+840	Szalai Gašpar, SK		0	4701
+840	Szalai Ján, SK		0	3434,3436
+840	Szalai Michal, SK		0	4053
+840	Szalai Žigmund, SK		0	1891,2461,3434,3436
+840	Szalaiová Etela r. Doležalová, SK		0	4679
+840	Szalaiová Juliana, SK		0	4053
+840	Szalaiová Vilma r. Takácsová, SK		0	2461,3436
+840	Szalay Alexander, SK		0	3139,3986
+840	Szalay Baltazár, SK		0	2578,3818
+840	Szalay Ernest, SK		0	3421,3422
+840	Szalay Gašpar, SK		0	2799,4011,4701
+840	Szalay Ignácz, SK		0	3818
+840	Szalay Ján, SK		0	2459,2463,2613,3421,3422,3435
+840	Szalay Michal, SK		0	3139,3986
+840	Szalay Žigmund, SK		0	2459,2460,2463,2612,2613,2799,3422,3435,4011
+840	Szalayová Etela r. Dolezsalová, SK		0	2578,3903
+840	Szalayová Jolana r. Osztényiová, SK		0	4357
+840	Szalayová Justína, SK		0	5113
+840	Szalayová Mária r. Pátócsová, SK		0	3986
+840	Szapuová Júlia r. Ponyová, SK		0	1730,1731
+840	Szöcs Ambroz, SK		0	4308,4645
+840	Szöcs František, SK		0	2748,4233
+840	Szöcs Gašpar, SK		0	3378,3380,5113
+840	Szöcs Ján, SK		0	3831
+840	Szőcs Ladislav, SK		0	1745,1746
+840	Szöcs Ľudovít, SK		0	2448,2502,2999,3745
+840	Szöcs Štefan, SK		0	2336,2338,2339
+840	Szöcsová Apolónia, SK		0	2972,2973,2974
+840	Szöcsová Berta r. Kajošová, SK		0	1857,1858,2023,2157,2780,2781,3142,3143,3144,3145,3378,3380,3393,3423,3440,3441,3636,3637,3761,5113
+840	Szöcsová Justína, SK		0	2972,2973
+840	Szöcsová Mária, SK		0	2972,2973
+840	Szöcsová Terézia r. Füzeková, SK		0	3378,3380,5113
+840	Szöcsová Terézia r. Pónyová, SK		0	3831
+840	Szöcsová Viktória r. Pappová, SK		0	1750,1751,4243,4537
+840	Szöcz Imrich, SK		0	3918
+840	Szödörová Mária r. Deáková, SK		0	3378,3380,5113
+840	Szombat František, SK		0	4596
+840	Szombath Alexander, SK		0	4328
+840	Szombath František, SK		0	2180,2514,3413,3802,4670
+840	Szombath Ján, SK		0	3550,3770,3910,4221,4312,4321,4534
+840	Szombath Jozef, SK		0	3550
+840	Szombath Karol, SK		0	2184,3675
+840	Szombath Ľudovít, SK		0	2184,3550,3675
+840	Szombath Mária r. Kozáková, SK		0	2528
+840	Szombath Mária r. Takácsová, SK		0	4012
+840	Szombath Štefan, SK		0	2184,3550,3675,4221
+840	Szombath Žigmund, SK		0	3550,4353
+840	Szombathová Alžbeta r. Kajošová, SK		0	1857,1858,2157,2780,2781,3143,3378,3380,3393,3423,3440,3441,3636,3637,3761,5113
+840	Szombathová Alžbeta, SK		0	2184,3675
+840	Szombathová Gizela, SK		0	2184,3675
+840	Szombathová Justína r. Szabadosová, SK		0	2666,2668,3031,3032,3033,3770
+840	Szombathová Mária r. Kozáková, SK		0	3522,3593,4738
+840	Szombathová Viktória r. Takácsová, SK		0	3494,3953
+840	Szombatová Terézia r. Ponyová, SK		0	1730,1731
+840	Szomolai Jolana, SK		0	3890
+840	Szomolai Vavrinec, SK		0	3378,3380,3958,4364,5113
+840	Szomolaiová Jolana r. Perleczká, SK		0	3387,3388
+840	Szomolaiová Jolana r. Vargová, SK		0	4364
+840	Szomolaiova Justína r. Virágová, SK		0	3804,4089,4310
+840	Szomolaiová Salomea r. Vargová, SK		0	3958
+840	Szomolay Johana r. Juhosová, SK		0	2952
+840	Szomolay Štefan, SK		0	4547
+840	Szomolayová Hermína r. Szabóová, SK		0	4104
+840	Szomolayová Justína r. Virághová, SK		0	2999,3596,3597
+840	Szoosová Apolónia r. Cinegeová, SK		0	3938,4603
+840	Szuchanová Barbora r. Deáková, SK		0	3378,3380,5113
+840	Szulovszká Mária r. Czehláriková, SK		0	2864

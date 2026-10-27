@@ -1,0 +1,256 @@
+2593	ZAKHAR Daniel		1	1184,1347,1671,1677,2120,2301,2472,3199
+2593	Zakhar Daniel, mladší mladší		0	2509
+2593	Zakhar František		0	1644,1671
+2593	Zakhar František, maloletý maloletý		0	2868
+2593	ZAKHAR Gabriel		1	1080,2053
+2593	Zakhar Gabriel, 1 1		0	2952
+2593	Zakhar Gabriel, 2 2		0	2539
+2593	Zakhar Imrich		0	2927
+2593	Zakhar Ján		1	1121,1671,1677,2158,2171,2527
+2593	Zakhar Jozef		1	156,1121,1677,1678,2158,2894
+2593	Zakhar Jozef	Amerika	1	2171
+2593	ZAKHAR Ladislav		1	1121,1671,1677,1818,2158,2171,3016
+2593	Zakhar Ladislav, manželka Zuzana Szakal manželka Zuzana Szakal		0	2658
+2593	Zakhar Mikuláš		1	1080,1506,1671,1695,1743,2053
+2593	Zakhar Mikuláš, 1 1		0	2719
+2593	Zakhar Mikuláš, 2 2		0	3121
+2593	ZAKHAR Ondrej		0	1743
+2593	Zakhar Štefan		1	1671,1818,2096,2735
+2593	Zakharová Barbora		0	1267,1736,1737,1786,2236,2854
+2593	Zakharová Barbora r. Kovács		0	2555
+2593	Zakharová Barbora r. Kovács	m. Ľudovít	0	1764
+2593	Zakharová Debora		1	1121,2158,2899
+2593	Zakharová Estera		0	1184,1347,1671,1818,1961,2301,2863,3199
+2593	Zakharová Helena		0	1607
+2593	Zakharová Helena	mal	0	1644
+2593	Zakharová Helena r. Bodnár		0	1172,1468,1644,1703,1746,1777,1976,2552
+2593	Zakharová Helena, maloletá maloletá		0	2935
+2593	Zakharová Juliana		0	1607,1705,2834
+2593	Zakharová Juliana r. Temesi		1	1119,2177,2293
+2593	Zakharová Margita		0	1207
+2593	Zakharová Margita	Silica	0	1792,1818
+2593	Zakharová Margita, Silica Silica		0	2495
+2593	Zakharová r. Voda	m. František	0	1751
+2593	Zakharová Zuzana		1	1671,1818,2043,2465
+2593	Zakharová Zuzana r. Kovács		1	1700,2133
+2593	Zakharová Zuzana r. Kovács	m. Mikuláš	0	1740
+2593	Zakharová Zuzana r. Kovács	manžel Mikuláš	0	2491
+2593	Zakharová Zuzana r. Máté		1	1190,1257,1407,1413,1434,1578,1623,1658,1693,1805,1822,1925,1926,1927,1983,2060,2068,2163,2169,2194,2221,2222,2223,2224,2284,2288,2290,2962,3166,3167,3171,3180,3184,3195,3202,3217
+2593	Zakharová Zuzana r. Zakhar		1	2096
+2593	Zsebík - Bodnárová Sára		0	1583
+2593	Zsebik Bodnár Ľudovít		0	1678,1702
+2593	Zsebik Bodnár Ľudovít	m. Alžbeta Vincze Kovács	0	1782,1943
+2593	Zsebík Bodnár Ľudovít	m Alz Vincze Kovács |; m Alz Vincze Kovács	1	156
+2593	Zsebik Bodnárová Alžbeta r. Cseh Tóth		0	3066
+2593	Zsebik Bodnárová Alžbeta r. Vincze Kovács		0	2613
+2593	Zsebik Bodnárová Sára		0	2396
+2593	Zsebik Bodnárová Terézia r. Várady		0	2672
+2593	ZSEBIK Imrich		0	1743
+2593	Zsebik Ján		0	1671,1743
+2593	Zsebik Ladislav		0	2418
+2593	Zsebik Ľudovít r. Bodnár		0	2797
+2593	Zsebik Ľudovít r. Bodnár	manžel Vincze Kovács	0	2336
+2593	Zsebiková Zuzana r. Bodnár	m. Juraj	0	1746
+2593	Zsoldos Andrej		1	2130
+2593	Zsoldos Emerich	m Maria Štefan; m Maria Štefan	0	1600
+2593	Zsoldos Ján		1	1671,2130
+2593	Zsoldos Ján	st	0	1743
+2593	Zsoldosová Irena		0	2011
+2593	Zsoldosová Mária r. Molnár		0	1940
+2593	Zsoldosová Priska r. Belukacs, manžel Ján manžel Ján		0	2425
+2593	Zubrická Lídia	Bodnár |; Bodnár	1	384,386
+2593	Zubrická Lídia r. Bodnár		0	3022
+2593	Zubrický Jozef		1	386
+2593	Žoldoš Jozef		1	2102
+2594	Alvégi - Farkasová Zuzana		1	497
+2594	Alvégi Farkas Ján		1	214,215,217,218,497
+2594	ALVÉGI FARKAS Ján	č.d.3091/1901	1	216,219,426
+2594	Alvégi Farkas Štefan		1	218,497
+2594	ALVÉGI FARKAS Štefan	č.d.3091/1901	1	216,219,426
+2594	ALVÉGI FARKASOVÁ Zuzana	č.d.2251/1899	1	219,426
+2594	BALÁZSOVÁ Júlia	r.Panyiti Farkasová	1	252,303,385,451
+2594	Balázsová Júlia r. Panyiti		1	497
+2594	Balog - Mikulášová Mária r. Rákayová		1	497
+2594	BALOG MIKULÁŠOVÁ Mária	r.Rákayová	1	194,470,478
+2594	BARTHAOVÁ Julianna	r.Farkasová	1	216,219,426
+2594	Barthaová Julianna r. Farkasová		1	214,215,217,218,497
+2594	Básti Antal		1	497
+2594	Básti Antal	Felsö	1	405
+2594	BÁSTI FARKASOVÁ Alžbeta	r.Váradyová	1	191,198,470,478
+2594	BÁSTI KISS Ján		1	447
+2594	BÁŠTI Jozef	č.d.10/1925	1	466
+2594	Baunoch Árpád Jánosné Piroska r. Gotthard, Rákóczi utca 67, Budapest, PSČ 11 96, HU		1	52
+2594	Bene Farkasová Zuzana r. Farkasová	Felsö	1	490
+2594	Béreš Imrich		1	218,426
+2594	BÉREŠOVÁ Estera	r.Molnárová	1	426
+2594	Bérešová Estera r. Molnárová		1	214,218
+2594	Berková Mária r. Farkašová		1	497
+2594	BODNÁROVÁ ALVÉGI Zuzana		1	377
+2594	BODNÁROVÁ Klára	č.d.643/1924	1	155,156,157,158,159,160,498
+2594	BODNÁROVÁ Zuzana	r.Farkašová Alvégi	1	155,216,219,426
+2594	Bodnárová Zuzana r. Farkašová		1	214,215,217,218,497
+2594	Csáky - Farkasová Katarína r. Rákayová		1	497
+2594	CSÁKY FARKASOVÁ Katarína	r.Rákayová	1	118,262,394,501,502,503,521
+2594	Csáky-Farkasová Katarína r. Rákayová		1	393
+2594	Csapó - Máteová Julianna r. Szabová		1	34,497
+2594	CSAPÓ JÁNOVÁ Julianna	r.Szabová	1	69
+2594	CSAPÓ MÁTEOVÁ Julianna	r.Szabová	1	140,142,208,401
+2594	Csapó- Jánová Julianna r. Szabová		1	497
+2594	Csapó- Máteová Julianna r. Szabová		1	497
+2594	Cseffová Júlia r. Görögová		1	497
+2594	Csukaová Zuzana r. Kovácsová		1	147
+2594	CYÖRGYOVÁ Katarína	r.Fodorová	1	183
+2594	Čákyová Katarína r. Rákaiová		1	52
+2594	DEÁK FARKAS Ján		1	127,497
+2594	DEÁKOS FARKAS Gejza		1	402
+2594	Deákos Farkas Ján		1	497
+2594	DEÁKOS FARKAS Ľudovít		1	402
+2594	DEÁKOS FARKASOVÁ Barbora	r.Tekenös Farkasová	1	501,502,503,521
+2594	DEÁKOS FARKAŠ Arpád		1	440
+2594	Deákos-Farkasová Barbora r. Tekenös		1	393
+2594	Deneš Ľudovít		1	497
+2594	DENEŠ Ľudovít	k.ž.Alžbeta r.Kövesdyová	1	397
+2594	Farka Juhos Ondrej		1	497
+2594	Farkas - Bástiová Julianna	č.d.760/1917	1	497
+2594	Farkas - Makkaiová Julianna		1	497
+2594	Farkas Abrahám		1	497
+2594	FARKAS Abrahám	č.d.210/1867	1	183
+2594	FARKAS ALSÓ Štefan	č.d.2411/1887	1	483
+2594	FARKAS ALVÉGI Alexander		1	219,377,497
+2594	FARKAS ALVÉGI Ľudovít		1	377
+2594	Farkas Básti Jozef		1	34,305,408,496,497
+2594	Farkas Básti Mikuláš		1	34,305,496,497
+2594	Farkas Basti Štefan		1	497
+2594	FARKAS BÁSTIOVÁ Julianna	č.d.760/1917	1	305,496
+2594	Farkas Daniel Ondrej		1	497
+2594	Farkas Első Ján		1	225,403,497,500
+2594	Farkas Elsö Ladislav		1	497
+2594	FARKAS ELSÖ Ladislav	č.d.3093/1926	1	69,148
+2594	Farkas Elsö Ondrej		1	225,252,403,497,500
+2594	Farkas István Jozef	č.d.1942/1917	1	497
+2594	FARKAS Jozef	č.d.1627/1942	1	191,193,469
+2594	Farkas Juhos Alexander		1	497
+2594	FARKAS JUHOS Imrich		1	89,497
+2594	FARKAS JUHOS Jozef	č.d. 3298/1907	1	210
+2594	FARKAS JUHOS Jozef	č.d.3878/1906	1	8,89,413
+2594	FARKAS JUHOS Jozef	k.ž.Bodnárová Alžbeta	1	194,195,196,197,198
+2594	FARKAS KISS Karol		1	407
+2594	Farkas Kúti Ján		1	497
+2594	FARKAS KÚTI Ján	č.d.3310/1895	1	60,62
+2594	FARKAS KÚTI Ľudovít	č.d.1171/1890	1	60,61,62
+2594	Farkas Ľudovít		1	225,296,411,497
+2594	FARKAS Ľudovít	č.d.2889/1941	1	205
+2594	FARKAS Ľudovít	č.d.4375/1903	1	8,45,204,206,444,497
+2594	FARKAS Ľudovít	č.d.5524/1912	1	267
+2594	FARKAS Ľudovít	k.ž.Zuzana r.Arinasová	1	219
+2594	FARKAS Ľudovít	k.ž.Zuzana r.Némethová	1	403,500
+2594	FARKAS Ľúdovít	č.d.1737/1873	1	227,504
+2594	FARKAS MAKKAIOVÁ Julianna		1	440
+2594	Farkas Štefan		1	225,497
+2594	FARKAS Štefan	č.d.1386/1882	1	135
+2594	FARKAS Štefan	k.ž.Alžbeta r.Szücsová	1	403,500
+2594	Farkas Temetei Štefan		1	497
+2594	FARKAS TEMETEI Štefan	č.d.522/1902	1	122
+2594	FARKASOVÁ ALSÓ Priška	č.d.2292/1879	1	492
+2594	Farkasová Alžbeta		1	497
+2594	FARKASOVÁ Alžbeta	č.d.1644/1912	1	122
+2594	FARKASOVÁ Barbora	r.Juhászová	1	183
+2594	Farkasová Barbora r. Juhászová		1	497
+2594	FARKASOVÁ BARNA Julianna	r.Rákaiová	1	57,283,284
+2594	Farkasová Barna Julianna r. Rákaiová		1	497
+2594	Farkasová Basti Judita		1	497
+2594	Farkasová Básti Júlia r. Farkasová		1	225,497
+2594	FARKASOVÁ BÁSTI Juliana	r.Farkasová	1	403,500
+2594	FARKASOVÁ ELSÖ Julianna	r.Szakalová	1	254
+2594	FARKASOVÁ FELSÖ Julianna	r.Makaiová č.d.2291/1879	1	454
+2594	Farkasová Feső Julianna r. Farkasová		1	497
+2594	FARKASOVÁ ISTVÁN Alžbeta		1	51,52,77,84,86,127,299,300,301,302,303,304,350,438,497
+2594	Farkasová István Alžbeta, SR		1	323
+2594	FARKASOVÁ JUHOS Etela	r.Rákayová	1	470,478
+2594	Farkasová Juhos Mária		1	497
+2594	FARKASOVÁ JUHOS Mária	č.d. 3298/1907	1	210
+2594	FARKASOVÁ JUHOS Mária	č.d.1764/1892	1	89
+2594	FARKASOVÁ JUHOS Mária	rč.d.1410/1915	1	88
+2594	Farkasová Julianna		1	296,497
+2594	FARKASOVÁ Julianna	č.d.1737/1873	1	227,504
+2594	FARKASOVÁ Julianna	č.d.210/1867	1	183
+2594	FARKASOVÁ Julianna	č.d.2889/1941	1	205
+2594	FARKASOVÁ Julianna	r.Csehová	1	185,186,463,484,491
+2594	FARKASOVÁ Julianna	r.Farkasová	1	52,65,365
+2594	Farkasová Julianna r. Csehová		1	497
+2594	Farkasová Julianna r. Farkasová		1	136,137
+2594	Farkasová Margita		1	497
+2594	FARKASOVÁ Margita	č.d.1644/1912	1	122
+2594	Farkasová Mária		1	497
+2594	FARKASOVÁ Mária	č.d.210/1867	1	183
+2594	FARKASOVÁ TEKENÖS Estera	r.Ferenczová	1	68,87,212,238,246,250,288,311,355
+2594	FARKASOVÁ Zuzana	r.Alvégi Farkasová	1	216,219,426
+2594	FARKASOVÁ Zuzana	r.Mezeiová	1	294,360,361,418
+2594	Farkasová Zuzana r. Alvégi		1	214,215,217,218,497
+2594	Farkasová Zuzana r. Mezeiová		1	497
+2594	Farkaš - Danielová Julianna r. Gyenesová		1	497
+2594	FARKAŠ Alexander		1	226,227
+2594	FARKAŠ ALŠÓ Ľudovít		1	125,440,497
+2594	Farkaš Alvégi Štefan		1	136,281,350,377
+2594	Farkaš Bartolomej		1	115,497
+2594	FARKAŠ Bartolomej	č.d.1674/1927	1	191,196,197,199,470
+2594	FARKAŠ Daniel		1	315,497
+2594	FARKAŠ Daniel	č.d.10/1925	1	455
+2594	FARKAŠ Daniel	k.ž.Julianna r.Gyenešová	1	134,414,443
+2594	FARKAŠ DANYI Ondrej		1	339,369,446
+2594	FARKAŠ ELSÖ Jozef		1	252
+2594	FARKAŠ Imrich		1	216
+2594	FARKAŠ ISTVÁN Ladislav		1	52
+2594	FARKAŠ Johan		1	336
+2594	Farkaš Jozef		1	497
+2594	FARKAŠ Jozef	č.d.202/1922	1	211,253,255,283,284,497
+2594	FARKAŠ Jozef	č.d.2229/1925	1	408
+2594	FARKAŠ JUHOS Jozef		1	8,136,147,497
+2594	FARKAŠ JUHOŠ Alexander	č.d.722/1949	1	8,52,84,85,86,89,210,365
+2594	FARKAŠ JUHOŠ Imrich	č.d.: 370/1929	1	8,52,84,85,86,210,365
+2594	FARKAŠ JUHOŠ Jozef	č.d.127/1934	1	52,84,85,86,208,252,258,365,424,445
+2594	Farkaš Juhoš Ondrej		0	115
+2594	Farkaš Juhuš Jozef		0	115
+2594	Farkaš Kiš Imrich		1	497
+2594	FARKAŠ KIŠ Imrich	č.d.3187/1927	1	140,142
+2594	Farkaš Kiš Ľudovít		1	497
+2594	FARKAŠ KIŠ Ľudovít	č.d.3187/1927	1	140,142
+2594	Farkaš Kiš Štefan		1	497
+2594	FARKAŠ KIŠ Štefan	č.d.3187/1927	1	140,142
+2594	FARKAŠ KUTI Ľudovít		1	61,136,201,365,497
+2594	FARKAŠ KÚTI Ľudovít	č.d.4736/1937	1	148,258
+2594	FARKAŠ LAPOŠI Ľudovít		1	185,186,423,484,491,497
+2594	FARKAŠ Ľudovít	č.d.202/1922	1	211,253,255,283,284,497
+2594	FARKAŠ Ľudovít	č.d.3495/1931	1	157
+2594	FARKAŠ Ľudovít	ml	1	336
+2594	Farkaš Ondrej		1	497
+2594	FARKAŠ Ondrej	č.d.10/1925	1	465
+2594	FARKAŠ PANYITI Alexander		1	42,43,44,45,47,48,49,68,238,246,250,355,448,451,452
+2594	FARKAŠ PREDNÝ Jozef	k.ž.Mária r. Görögová	1	159,403,500
+2594	FARKAŠ Štefan	č.d.202/1922	1	211,253,255,283,284,497
+2594	Farkašová Alsó Margita		1	497
+2594	FARKAŠOVÁ ALSÓ Priška		1	300,417,454,489,497
+2594	FARKAŠOVÁ ALVÉGI Julianna		1	219,497
+2594	Farkašová Alvégi Margita		1	214,215,216,217,218,219,426,497
+2594	FARKAŠOVÁ BÁŠTI Mária		1	408,497
+2594	FARKAŠOVÁ BENE Julianna	r.Farkašová	1	319
+2594	FARKAŠOVÁ BENE Mária	r.Mátéová	1	309
+2594	FARKAŠOVÁ DANYI Julianna		1	309
+2594	Farkašová Elsö Mária		1	497
+2594	FARKAŠOVÁ ELSÖ Mária	č.d.3093/1926	1	69,148
+2594	FARKAŠOVÁ FELSÖ Julianna	č.d.1849/1932	1	489
+2594	FARKAŠOVÁ JUHOŠ Helena	r.Farkaš Kúti	1	69
+2594	Farkašová Juhoš Helena r. Farkaš		1	497
+2594	FARKAŠOVÁ JUHOŠ Mária	č.d.722/1949	1	8,89,210
+2594	FARKAŠOVÁ Julia	č.d.202/1922	1	211,253,255,283,284,497
+2594	FARKAŠOVÁ Júlia	r.Denešová	1	397
+2594	FARKAŠOVÁ Júlia	r.Fodorová	1	46,247,280
+2594	Farkašová Júlia r. Denešová		1	497
+2594	Farkašová Julianna r. Gyenesová		1	497
+2594	Farkašová Kis Julianna		1	497
+2594	FARKAŠOVÁ KIS Julianna	č.d.3187/1927	1	140,142
+2594	FARKAŠOVÁ KÚTI Júlia	r.Szücsová	1	183
+2594	Farkašová Kúti Júlia r. Szücsová		1	497
+2594	Farkašová Lapoši Mária r. Vanyová		1	217
+2594	FARKAŠOVÁ Margita	r.Farkašová	1	44
+2594	FARKAŠOVÁ Margita	r.Štefan Farkašová	1	42,43,45,47,48,49,68,246,250,451,452

@@ -1,0 +1,256 @@
+2781	KOVÁČOVÁ Mária, SR		1	361
+2781	KOVÁČOVÁ Mária, SR	mal	1	367,398,399,417,657
+2781	KOVAĽOVÁ Anna, SR		1	371
+2781	KOZEJ Andrej, SR		1	390,398,417,597
+2781	KOZEJ Andrej, SR	ž.Anna r.Gondorová	1	603
+2781	KOZEJ Ivan, SR	vzd	1	597
+2781	KOZEJ Michal, SR		1	390,398,417,597,603
+2781	KOZEJOVÁ Anna	r.Gondorová	1	636
+2781	KOZEJOVÁ Anna	r.Šandorová	1	636
+2781	KOZEJOVÁ Anna r. Gondorová		1	338
+2781	KOZEJOVÁ Anna r. Gondorová, SR		1	398,416,417
+2781	KOZEJOVÁ Anna r. Kostilníková, SR		1	398
+2781	KOZEJOVÁ Anna r. Šandorová		1	338
+2781	KOZEJOVÁ Anna r. Šandorová, SR		1	555
+2781	KOZEJOVÁ Anna, SR	r.Kostelníková m.Michal	1	417
+2781	KOZEJOVÁ Eva, SR	r.Kostilníková m.Štefan	1	390
+2781	KOZEJOVÁ Mária, SR		1	603
+2781	KRAJŇAK Gregor, SR		1	417
+2781	KRAJŇAK Ivan		1	341
+2781	KRAJŇAK Ivan, SR		1	398,417
+2781	KRAJŇAK Juraj		1	341
+2781	KRAJŇAK Juraj, SR		1	398
+2781	KRAJŇAK Michal		1	341
+2781	KRAJŇAK Michal, SR		1	398,417
+2781	Krajňaková Mária r. Čujová	m.Ján	1	652
+2781	KRAJŇAKOVÁ Mária r. Čujová	m Ján	1	348
+2781	KRAJŇAKOVÁ Mária r. Čujová, SR	m Ján	1	398,417
+2781	KRÁLICKÁ Mária, SR		1	593
+2781	KROKOVÁ Iveta	r.Šantová R.1.1.1970	1	598
+2781	KULIKOVÁ Darina	r.Burjaková R.30.5.1959	1	364,405,490,511,543
+2781	KUMIČAKOVÁ Eva r. Gavulová, SR		1	593
+2781	KURAŇKOVÁ Valentína	r.Šantová R.23.6.1963	1	598
+2781	KUSKOVÁ Eva r. Kopková, SR		1	593
+2781	KUZMOVÁ Anna r. Capcarová, SR		1	603
+2781	KUZMOVÁ Mária	r.Šaková R.13.4.1946	1	594
+2781	KUZMOVÁ Mária	r.Šaková R.15.4.1946	1	537
+2781	KVAŠNÁ Mária, SR		1	488,518,644
+2781	KVAŠNAJOVÁ Mária, SR		1	529,534
+2781	LABIŠÁK Andrej, SR	ž.Helena r.Pančurová	1	603
+2781	LAJZOVÁ Helena r. Gavulová, SR		1	593
+2781	LAPIŠAKOVÁ Anna r. Kováčová, SR		1	399
+2781	LAPIŠÁKOVÁ Marta	r.Sosňaková R28.3.1951	1	593
+2781	LAZORČIK Michal, Medzilaborce, SR		1	416
+2781	LAZORČÍK Michal, Švermova 193, Medzilaborce, SR		1	338,398,555,636
+2781	LEBOVIČ Jozef, SR	Chain	1	398,414,417
+2781	LENČEŠOVÁ Anna r. Kohutová, SR		1	593
+2781	LIČKOVÁ Júlia r. Blichová, SR		1	598
+2781	LIGNAVSKÁ Anna r. Španová, SR		1	398,417
+2781	LIPČAK Andrej	ž.Helena r.Dzurjanová	1	338,636
+2781	LIPČÁK Andrej		1	338,636
+2781	LIPČÁK Andrej	ml	1	338,636
+2781	LIPČAK Andrej, SR	vzd	1	398,407,417,419,420,602,610
+2781	LIPČAK Andrej, SR	ž.Mária r.Tarbaľová	1	398,417
+2781	LIPČÁK Andrej, SR		1	368,398,406,407,416,417,419,420,602,610,640,645,647
+2781	LIPČÁK Andrej, SR	ml	1	368,372,398,406,407,416,419,420,602,610,640,645,647
+2781	LIPČÁK Andrej, SR	ml. ml	1	419
+2781	LIPČÁK Andrej, SR	PKV180	1	372
+2781	LIPČÁK Andrej, SR	PKV29	1	406,640,645,647
+2781	LIPČÁK Andrej, SR	PKV40	1	398,417
+2781	LIPČÁK Andrej, SR	PKV54	1	371
+2781	LIPČÁK Andrej, SR	ž.Anna r.Gulová	1	372,398,406,407,417,419,420,602,610,640,645,647
+2781	LIPČÁK Andrej, SR	ž.Helena r.Dzurjová	1	567
+2781	LIPČÁK Ivan, SR	PKV29	1	372,398,406,407,417,419,420,602,610,640,645,647
+2781	LIPČÁK Ivan, SR	PKV50	1	579
+2781	LIPČÁK Michal		1	338,636
+2781	LIPČÁK Michal	ž.Júlia r.Maliková	1	338,636
+2781	LIPČAK Michal, SR	ž.Júlia r.Maliková	1	398,416,417,465,535,568,604,641,646,648
+2781	LIPČÁK Michal, SR		1	372,398,406,407,417,419,420,602,610,640,645,647
+2781	LIPČAK Pavol	MUDr.R.21.2.1948	1	368,416,534
+2781	LIPČÁK Pavol	MUDR. R.21.2.1948	1	458,463,470,516,518,644
+2781	LIPČÁK Vasiľ, SR		1	372,398,406,407,417,419,420,602,610,640,645,647
+2781	LIPČÁKOVÁ Anna r. Gaľová, SR		1	551
+2781	LIPČÁKOVÁ Anna r. Gavulová, SR		1	513
+2781	LIPČÁKOVÁ Anna r. Kováčová, SR		1	361
+2781	LIPČÁKOVÁ Anna, SR	mal	1	482,518,534,644
+2781	LIPČÁKOVÁ Anna, SR	PKV230	1	517
+2781	LIPČÁKOVÁ Helena r. Dzurjová, SR		1	371
+2781	LIPČÁKOVÁ Helena, SR	r.Dzurjová m.Andrej	1	567
+2781	LIPČAKOVÁ Júlia, SR	mal	1	398,407,417,419,420,602,610
+2781	LIPČÁKOVÁ Júlia, SR	r.Malíková m.Michal	1	458,463,470,516,518,534,644
+2781	LIPČÁKOVÁ Mária r. Tarbaľová, SR		1	599
+2781	LIPČÁKOVÁ Mária, SR		1	417
+2781	LIPČAKOVÁ Uľa r. Španová, SR		1	398,417
+2781	LIPIŠÁK Michal	ž.Júlia r.Maliková	1	338,636
+2781	LIPTÁK Vasiľ, SR		1	405
+2781	LIPTÁK Vasiľ, SR	ž.Anna	1	364,518,644
+2781	LIPTÁK Vasiľ, SR	ž.Anna r.Čopová	1	439,464,465,470,534,535,570,641,646,648
+2781	LIPTÁKOVÁ Anna, SR	r.Čopová m.Vasiľ	1	439,464,470,518,534,644
+2781	LISÁKOVÁ Mária, SR	r.Lipčáková m.Simon	1	372,398,406,407,417,419,420,602,610,640,645,647
+2781	LISYOVÁ Helena r. Kopková, Medzilaborce, SR		1	581
+2781	LUČKA Andrej, SR	ž.Mária r.Harviľaková	1	603
+2781	LUČKA Ján, SR	ž.Júlia r.Chalachanová	1	603
+2781	LUČKO Michal, SR	ž.Anna r.Šaková	1	595
+2781	LUČKOVÁ Anna, SR	r.Šaková m.Michal	1	594
+2781	LUČKOVÁ Júlia r. Blichová, SR		1	603
+2781	LUČKOVÁ Mária r. Džuganová, SR		1	403
+2781	LUČKOVÁ Mária r. Harviľaková, SR		1	603
+2781	LUKÁČOVÁ Anna r. Capcarová, SR		1	603
+2781	LUSKOVÁ Anna, SR	r.Šaková m.Michal	1	594
+2781	MARKOVÁ Eva r. Solejová, SR		1	591,593
+2781	MAŠLEJ Daniel		1	341
+2781	MAŠLEJ Daniel, SR		1	398,417
+2781	MATIENKOVÁ Ľubov, SR		1	464
+2781	MATIOVÁ Anna r. Jedináková, SR		1	454,475,518,526,534,644
+2781	MELNIČÁK Štefan, SR	ž.Júlia r.Smolejová	1	603
+2781	MELNIČINOVÁ Júlia, SR	r.Smolejová m.Štefan	1	601
+2781	MIHALISKO Andrej, SR		1	398,402,417
+2781	MIHALISKO Andrej, SR	PKV40	1	398,417
+2781	MIHALISKO Juraj, SR	syn Andreja	1	398,402,417
+2781	MIHALISKO Michal, SR	syn Andreja	1	398,402,417
+2781	MIHALISKO Michal, SR	syn Andreja PKV39	1	417
+2781	MIHALISKO Michal, SR	syn Michala	1	398,402
+2781	MIHALISKO Mikuláš, SR		1	398,417
+2781	MIHALISKO Peter, SR	syn Michala	1	398,402,417
+2781	MIHALISKO Peter, SR	ž.Mária r.Chudinová	1	398,402,417
+2781	MIHALOVÁ Anna r. Komanová, SR		1	592,593
+2781	MIKOVÁ Marta, SR	dcéra Jána	1	603
+2781	MIKOVÁ Marta, SR	mal	1	601
+2781	MOROZ Ivan, SR	syn Michala	1	593
+2781	MOROZ Ján, SR	syn Michala	1	593
+2781	MOROZOVÁ Anna	vzd	1	338,636
+2781	MOROZOVÁ Anna, SR	vzd	1	398,416,417
+2781	MOROZOVÁ Mária r. Gavulová, SR		1	593
+2781	MURGOVÁ Helena	r.Bajcurová Ing. R24.5.1959	1	593
+2781	MURIŇKOVÁ Mária r. Postiháčová, SR		1	412,605,609
+2781	NESCHWÄNDTNEROVÁ Mária, Parkova, Stakčín, SR		1	474
+2781	NISKÁČOVÁ Irena	r.Kasová R.3.6.1953	1	398,415,418,431,463,464,470
+2781	OBEC Čabiny, Čabiny, SR		1	593
+2781	ONUFRAK Juraj, Čabiny, č. 96, SR		1	586,593
+2781	Onufrak Michal, Horelica, č. 168, SR		1	586,593
+2781	PAJKOŠOVÁ Anna r. Gavulová, SR	PKV1 108	1	593
+2781	PAMZAK Fedor, SR		1	597
+2781	PAMZAK Ján, SR		1	597
+2781	PAMZAK Juraj, SR		1	597
+2781	PAMZAKOVÁ Eva, SR		1	597
+2781	PAMZAKOVÁ Iľja, SR		1	597
+2781	PAMZAKOVÁ Júlia, SR	mal	1	597
+2781	PAMZAKOVÁ Mária, SR	m.Fedor	1	597
+2781	PAMZAKOVÁ Mária, SR	mal	1	597
+2781	PANČURA Andrej, SR	mal	1	389,403,422,661
+2781	PANČUROVÁ Anna, SR		1	389,403,422,661
+2781	PANČUROVÁ Mária, SR		1	389,403,422,661
+2781	PAŇKOVÁ Anna, SR	r.Mihalisková m.Ján	1	398,402,417
+2781	PANTÚČKA Karol, Dr., SR		1	366
+2781	PANTÚČKOVÁ Magdaléna, SR		1	366
+2781	PARASKA Gondor, SR	r.Mihalisko	1	463
+2781	PIROVÁ Helena r. Smolejová, SR		1	600
+2781	POSTIHAČ Andrej, SR		1	398,417
+2781	POSTIHÁČ Andrej, SR	USA	1	412,605,609
+2781	POSTIHAČ Gregor, SR		1	398,417
+2781	POSTIHÁČ Ivan, SR		1	499,515
+2781	POSTIHÁČ Ivan, SR	ž.Helena r.Džuganová	1	377,463,465,470,518,641,644,646,648
+2781	POSTIHAČ Ján, SR		1	398,417
+2781	POSTIHAČ Ján, SR	ž.Anna r.Štecová	1	398,417
+2781	POSTIHÁČ Ján, SR	ž.Helena	1	609
+2781	POSTIHÁČ Ján, SR	ž.Helena r.Džuganová	1	534
+2781	POSTIHÁČ Michal, SR	ž.Anna r.Bejdová	1	384,398,417,604
+2781	POSTIHAČ Pavol, SR		1	398,417
+2781	POSTIHAČOVÁ Anna	mal	1	348
+2781	POSTIHÁČOVÁ Anna	r.Capcarová R.8.9.1904	1	534
+2781	POSTIHÁČOVÁ Anna	r.Žegorjaková R.15.12.1929	1	598
+2781	POSTIHAČOVÁ Anna r. Bejdová, Humenné, SR		1	371,399,401,414
+2781	POSTIHAČOVÁ Anna r. Capcarová, SR		1	597,598,599,603
+2781	Postihačová Anna, mal.		1	652
+2781	POSTIHAČOVÁ Anna, SR		1	398,417
+2781	POSTIHAČOVÁ Helena r. Džuganová, SR		1	518,644
+2781	POSTIHÁČOVÁ Helena, SR	r.Džuganová m.Ivan	1	499,515
+2781	POSTIHAČOVÁ Mária	r.Čopová R.19.8.1936	1	417
+2781	POSTIHAČOVÁ Mária, SR	PKV40	1	398
+2781	POSTIHÁČOVÁ Mária, Sukov, SR		1	470,605
+2781	Postihačová Zuzana		1	652
+2781	POSTIHAČOVÁ Zuzana	PKV37	1	348
+2781	POSTIHAČOVÁ Zuzana, SR		1	398,417
+2781	PROCHYRA Michal, SR	ž.Mária r.Barnová	1	603
+2781	RADKUSOVÁ Anna r. Solejová, SR		1	593
+2781	RAK Michal, SR	ž.Mária r.Beňová	1	507,518,521,534,644
+2781	RAK Štefan, SR	USA	1	593
+2781	RAKOVÁ Anna r. Kačurová, SR		1	593
+2781	RAKOVÁ Mária, SR	r.Beňová m.Michal	1	507,518,521,534,644
+2781	RIBÁROVÁ Uľa, SR	r.Suchá	1	598
+2781	RIGAN Michal, SR		1	593
+2781	RIM Fedor, SR		1	398,417
+2781	RIM Ivan, SR		1	398,417
+2781	RIMOVÁ Anna, SR	vzd	1	398,417
+2781	RIMOVÁ Helena, SR	vzd	1	398,417
+2781	RIMOVÁ Júlia, SR	vzd	1	398,417
+2781	RIMOVÁ Mária	r.Gondorová	1	636
+2781	RIMOVÁ Mária	r.Šandorová	1	636
+2781	RIMOVÁ Mária r. Gondorová		1	338
+2781	RIMOVÁ Mária r. Gondorová, SR		1	398,416,417
+2781	RIMOVÁ Mária r. Šandorová		1	338
+2781	RIMOVÁ Mária r. Šandorová, SR		1	555
+2781	RIMOVÁ Mária, SR	vzd	1	398,417
+2781	RIMOVÁ Mária, SR	vzd.PKV40	1	398,417
+2781	RJABAVÁ Helena, SR	r.Uramová	1	593
+2781	ROHAĽ Michal, SR		1	392,397,398,417
+2781	ROHAĽ Štefan, SR	ž.Júlia r.Kozelyová	1	597
+2781	ROHÁĽOVÁ Anna	r.Krajňaková m.Andrej	1	341
+2781	ROHÁĽOVÁ Anna, SR	r.Krajňaková m.Andrej	1	398,417
+2781	ROHAĽOVÁ Helena r. Gavulová, SR		1	593
+2781	ROHAĽOVÁ Mária, SR		1	597
+2781	ROHAĽOVÁ Uľa, SR		1	597
+2781	RUDÁKOVÁ Mária r. Šmajdová, SR		1	610
+2781	RUDIKOVÁ Helena r. Škovranová, SR		1	590,593
+2781	RUŠČÁK Ján, SR	mal	1	601
+2781	RUŠČÁKOVÁ Helena, SR	mal	1	601
+2781	RYBÁR Juraj, SR		1	598
+2781	RYBÁR Juraj, SR	ž.Helena r.Chalachanová	1	381
+2781	RYBÁR Michal, SR		1	598
+2781	RYBÁR Michal, SR	syn Juraja	1	598
+2781	RYBÁROVÁ Margita, SR		1	598
+2781	SABOLČIKOVÁ Magda, Fučíkova bl. G 3/B, Michalovce, SR		1	593
+2781	SAJOVÁ Anna, SR	r.Chalachaua	1	424
+2781	SALACHOVÁ Mária		1	463
+2781	SALAKOVÁ Anastázia r. Gavulová, SR		1	593
+2781	SALAKOVÁ Eva r. Kohutová, SR		1	586,593
+2781	SALAU Andrej, SR		1	424
+2781	SALAU Michal, SR		1	424
+2781	SAVKULIČOVÁ Anna r. Postiháčová, SR		1	412
+2781	SEMANOVÁ Anna r. Gajová, SR		1	398,417,604
+2781	SEMANOVÁ Eva	r.Sosňáková R12.3.1942	1	593
+2781	SEMANOVÁ Mária, SR	r.Jedináková vd	1	411
+2781	SCHELESINGER Iloni, SR		1	414
+2781	SKOVRANOVÁ Anna		1	338,636
+2781	SKOVRANOVÁ Mária		1	338,636
+2781	SLIŽOVÁ Helena r. Kohutová, SR		1	586,593
+2781	SMETANOVÁ Anna r. Šaková, SR		1	594,595
+2781	SMOLEJ Andrej, SR	ž.Mária r.Kačurová	1	603
+2781	SMOLEJ Iľke, SR		1	596
+2781	SMOLEJ Ivan, SR		1	600
+2781	SMOLEJ Ján, SR	ž.Júlia r.Dzurová	1	603
+2781	SMOLEJ Ján, SR	ž.Mária r.Šaková	1	601,603
+2781	SMOLEJ Michal, SR		1	601,603
+2781	SMOLEJ Michal, SR	mal	1	601
+2781	SMOLEJ Michal, SR	ž.Anna r.Vodilková	1	603
+2781	SMOLEJ Michal, SR	ž.Mária r.Lučková	1	603
+2781	SMOLEJ Vasiľ, SR		1	596
+2781	SMOLEJOVÁ Anna r. Vodilková, SR		1	598
+2781	SMOLEJOVÁ Anna, SR		1	596
+2781	SMOLEJOVÁ Anna, SR	mal	1	601
+2781	SMOLEJOVÁ Júlia r. Capcarová, SR		1	603
+2781	SMOLEJOVÁ Júlia r. Dzurjová, SR		1	421
+2781	SMOLEJOVÁ Júlia r. Dzurová, SR		1	576
+2781	SMOLEJOVÁ Júlia r. Chapčáková, SR		1	601
+2781	SOLEJ Andrej, SR	ž.Anna r.Fedorcová	1	591,593
+2781	SOLEJ Ján, SR	syn Jána	1	593
+2781	SOLEJ Ján, SR	ž.Mária r.Špaková	1	591,593
+2781	SOLEJ Peter, SR	ž.Helena r.Tkačová	1	593
+2781	SOLEJ Vasiľ, SR	ž.Helena r.Hirková	1	593
+2781	SOROKOVÁ Mária r. Goňková, SR		1	593
+2781	SOSŇAKOVÁ Júlia r. Lučková, SR		1	603
+2781	Spoločenská škola, SR		1	417
+2781	STAŠKOVÁ Anna, SR	r.Kozejová vzd	1	597
+2781	STERANKOVÁ Mária r. Kopková, SR		1	581
+2781	SUCHÁ Júlia, SR		1	593
+2781	SUCHÁ Mária, SR	mal	1	593

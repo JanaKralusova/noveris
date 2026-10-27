@@ -1,0 +1,256 @@
+1545	Jurášová Oľga		1	125
+1545	Jurášová Zuzana	rod.Martinčeková	1	1475
+1545	Jurášová Zuzana r. Slabejová		1	959
+1545	Kermiet Michal		1	453,483,691,695,696,697,978,1017,1018,1157,1158,1411,1483,1511,1521,2076,2191,2202
+1545	Kermiet Michal	LSR	0	1410,1445,1522
+1545	Kermiet Pavol		1	243,822,953,955,1943,1944,2200
+1545	Kermiet Pavol	LSR	0	952
+1545	Kermiet Peter		1	617,884,1334,1518,2184
+1545	Kermiet Vladimír, Liptovský Peter, č. 29, SR		1	1622
+1545	Kermiet Vladimír, Liptovský Peter, č. 99, SR		1	453,691,695,696,697,978,1017,1157,1158,1410,1411,1445,1483,1511,1622,2202
+1545	Kermietová Anna	rod.Abrhámová	1	243,822,953,955,1943,1944,2200
+1545	Kermietová Anna	rod.Abrhámová; LSR	0	952
+1545	Kermietová Emília	LSR	0	952
+1545	Kermietová Emília	rod.Krivošová	1	884
+1545	Kermieťová Emília		1	187,243,822,953,955,1943,1944,2200
+1545	Kermietová Jarmila, 033 01 Liptovský Peter		0	125,453,695,696,697,757,1017,1396,1410,1411,1417,1445,1457,1458,1511,1622,1720
+1545	Kermietová Jozefína	rod.Jurášová	1	125
+1545	Kermietová Jozefína r. Jurášová, Liptovský Peter, č. 99, SR		1	757,1396,1458,1467
+1545	Kermietová Mária	rod.Krivošová	1	697
+1545	Kermietová Zuzana		1	243,822,953,955,1943,1944,2200
+1545	Kermietová Zuzana	LSR	0	952
+1545	Kižková Adela		1	1486
+1545	Kižková Božena		1	1486
+1545	Kižková Matilda		1	1486
+1545	Kleinová Mária	rod.Gažová	1	367,453,691,695,696,697,981,992,1017,1018,1035,1067,1068,1411,1483,1511,1573,1721,1871,2024,2076,2191,2202
+1545	Kleinová Mária	rod.Gažová; LSR	0	1410,1445
+1545	KLUKAN BOHUMÍR TRNAVA		0	75
+1545	Kompiš Miroslav r. Kompiš, I. Houdeka 1876/54, Ružomberok, PSČ 034 01, SR	zomrel 21.6.2011	0	884,979,1016,1286,1371,1520,1607,1665,1668,1669
+1545	Kompiš Peter, Liptovský Peter, zom. 24.03.1995		1	1374
+1545	Kostovič Dušan		1	575,1183,1184,1726,1800,2146,2147,2193
+1545	Kostovič Ján		1	483,1521
+1545	Kostovič Ján	LSR	0	1522
+1545	Kostovičová Anna	rod.Ďurigová	1	367,483,1035,1375,1521,1573,1721,1871
+1545	Kostovičová Anna	rod.Ďurigová; LSR	0	1522
+1545	Krišková Adela		1	1340
+1545	Krišková Adela	LSR	0	1426
+1545	Krivoš Adam		1	1519
+1545	Krivoš Ján		1	483,962,963,981,992,995,1090,1237,1306,1326,1386,1390,1441,1469,1494,1521,1522,1721,1871,2024,2058,2062,2195
+1545	Krivoš Jozef		1	1070,1721,1871
+1545	Krivoš Ľudovít, Liptovský Peter, č. 188, SR		0	1073,1396
+1545	Krivoš Ľudovít, s.č. 188, Liptovský Peter, SR		0	607
+1545	Krivoš Peter		1	367,483,697,962,963,1035,1237,1326,1390,1441,1500,1521,1522,1573,1721,1871,2058,2062,2195
+1545	Krivoš Peter	LSR	0	1522
+1545	Krivoš Peter, SR		1	1026,1583
+1545	Krivoš Vladimír r. Krivoš, Pri struhe 16, Bratislava, SR	neb.zomrel 19.4.1987	0	993,994,1185,1186
+1545	Krivoš Vladimír, Pri Struhe 40, Bratislava, SR	zom. 19.04.1987	1	367,650,977,1035,1462,1573,1710,1721
+1545	Krivošová Anna r. Stupková		1	1243
+1545	Krivošová Anna r. Stupková, Liptovský Peter, č. 37, SR		0	799,983,986,989,990,1244,1245,1254,1255,1797
+1545	Krivošová Darina r. Palkovičová, Svätoplukova 13, Martin, SR		1	554,569,981,992
+1545	Krivošová Emma	rod.Palkovič	1	1500
+1545	Krivošová Emma	rod.Palkovičová	1	430,483,489,554,650,691,1490,1521,1710,1880
+1545	Krivošová Emma	rod.Palkovičová; LSR	0	1522
+1545	Krivošová Eva		1	1070
+1545	Krivošová Eva	rod.Krivošová	1	1070
+1545	Krivošová Eva	rod.Palkovičová	1	583,800,1724,1816,2039,2105
+1545	Krivošová Eva	rod.Palkovičová; LSR	0	985,1612
+1545	Krivošová Eva r. Palkovičová		1	991,1701
+1545	Krivošová Gabriela		1	1306,1386
+1545	Krivošová Mária		1	447,448,697,793
+1545	Krivošová Mária	rod.Čatlošová	1	650,691,1710,1880
+1545	Krivošová Mária	rod.Hlavajová	1	483,1521
+1545	Krivošová Mária	rod.Hlavajová; LSR	0	1522
+1545	Krivošová Mária	rod.Kermietová	1	617,1334,1518,2184
+1545	Krivošová Mária	rod.Krivošová	1	1070
+1545	Krivošová Mária r. Kermietová, SR		1	1026
+1545	Krivošová Mária r. Sajtáková		1	1604
+1545	Krivošová Mária r. Sajtáková, Liptovský Peter, č. 128, SR		0	607,1070,1394,1396,1567,1568
+1545	Krivošová Mária, SR	rod.Kermietová	1	1583
+1545	Krivošová Marta		1	697,1042,1043,1044,1203,1578,1703,1892,2025,2198
+1545	Krivošová Marta	LSR	0	1408
+1545	Krivošová Rozália	rod.Čatlošová	1	1386
+1545	Krivošová Zuzana		1	1042
+1545	Krivošová Zuzana	rod.Stupková	1	799,983,986,989,990,1243,1244,1245,1254,1255,1797,1898,2029,2187
+1545	Krivošová Zuzana	rod.Stupková; LSR	0	987
+1545	Križková Adela		1	826,827,909,958,959,960,961,1009,1063,1156,1404,1456
+1545	Križková Adela	LSR	0	1455
+1545	Križková Božena		1	958,959,960,961
+1545	Kutlíková Anna	rod.Martinčeková	1	1458,1475
+1545	Kutlíková Anna	rod.Martinčeková; LSR	0	1457
+1545	Lehotská Natália, SR	zom.29.10.1990	0	187
+1545	Lenhárdtová Elena r. Uličná, naposledy bytom Liptovský Peter 196, SR	neb.-zomrela 15.10.1980	0	367,483,976,1035,1573,1721
+1545	Lišková Anna	rod.Palkovičová	1	483,1521
+1545	Lišková Anna	rod.Palkovičová; LSR	0	1522
+1545	Lux Edmund		1	1322
+1545	Luxová Eva		1	963
+1545	Luxová Viera		1	483,981,992,1521,2024
+1545	Luxová Viera	LSR	0	1522
+1545	Macková Zuzana	rod.Kašiaková	1	1144
+1545	Macková Zuzana	rod.Kašjaková	1	483,1521
+1545	Macková Zuzana	rod.Kašjaková; LSR	0	1522
+1545	Maduda Ján		1	512,1731,1935
+1545	Martinček Dušan		1	1386
+1545	Martinček Felix		1	1306,1386
+1545	Martinček František		1	1306,1386
+1545	Martinček Gustáv		1	884,1306,1386
+1545	Martinček Ján		1	1077,1386
+1545	Martinček Jozef		1	483,1521
+1545	Martinček Jozef	LSR	0	1522
+1545	Martinček Ludvik		1	367,483,1035,1521,1573,1721,1871
+1545	Martinček Ludvik	LSR	0	1522
+1545	Martinček Milan		1	1306,1386
+1545	Martinčeková Katarína		1	1306,1386
+1545	Martinčeková Soňa		1	1306,1386
+1545	Medla Aurel, Sládkovičova 63, Dolný Smokovec, SR		0	979,1607
+1545	Medla Aurel, Sládkovičova 63, Dolný Smokovec, SR	zom. 06.04.1997	1	483,832,1058,1060,1135,1371,1395,1521
+1545	Medla Aurel, Sládkovičova 63, Dolný Smokovec, SR	zom. 06.04.1997, LSR	0	1522,1610
+1545	Medla Michal		1	962,968,970,1037,1038,1039,1461,1483,1869,2062,2191
+1545	Medla Michal	LSR	0	1041
+1545	Medlová Emília		1	1106,1107,1108,1109,1739,1767
+1545	Medlová Eva	rod.Zaťková	1	650,1710,1880
+1545	Medlová Eva r. Zaťková		1	483,1521,1522
+1545	Medlová Mária		1	981,992,2024
+1545	Medlová Mária	rod.Čatlošová	1	453,691,695,696,697,1017,1018,1411,1483,1511,2076,2191,2202
+1545	Medlová Mária	rod.Čatlošová; LSR	0	1410,1445
+1545	Medlová Zuzana		1	962,968,970,1037,1038,1039,1461,1869,2062
+1545	Medlová Zuzana	LSR	0	1041
+1545	Medlová Zuzana	rod.Medlová	1	1483,2191
+1545	Medunová Oľga, SR		0	187
+1545	Miažovská Zuzana r. Uličná		1	1283
+1545	Multaň Michal		1	1327
+1545	Murtinová Ľudmila r. Uličná		1	1283
+1545	Nahálková Elena		1	367,1035,1573,1721,1871
+1545	Nahálková Elena r. Hlavajová		1	483,1521,1522
+1545	Nárožná Želmíra r. Hlavajová		1	367,483,1035,1521,1522,1573,1721,1871
+1545	Odehnal Alojz		1	462
+1545	Odehnalová Zuzana	rod.Štukovská	1	462
+1545	Orfánus Dalimír r. Orfánus, Ing., naposledy bytom Valachovej 1, Bratislava, SR	neb.-zomrel 30.7.2004	0	367,430,483,608,617,738,750,796,984,1026,1084,1232,1233,1334,1481,1583,1691
+1545	Orfánus Kazimír r. Orfánus, Ing., naposledy bytom Rázusova 38, Banská Bystrica, SR	neb.-zomrel 13.9.1991	0	489,982,1035,1231,1246,1427,1518,1521,1522,1573,1721
+1545	Orfánus Martin		1	483,1521
+1545	Orfánus Martin	LSR	0	1522
+1545	Orfánus Martin, SR		1	1026,1583
+1545	Orfánus Štefan		1	1632
+1545	Orfánusová Emília, SR		1	1026,1583
+1545	Orfánusová Eva		1	483,617,1334,1518,1521,2184
+1545	Orfánusová Eva	LSR	0	1522
+1545	Orfánusová Eva, SR		1	1026,1583
+1545	Orfánusová Ľudmila		1	1313
+1545	Orfánusová Mária	rod.Salbejová	1	697,1050,1052,2206
+1545	Orfánusová Mária	rod.Salbejová; LSR	0	1051
+1545	Orfánusová Zuzana		1	483,697,981,992,1050,1052,1521,2024,2206
+1545	Orfánusová Zuzana	LSR	0	1051,1522
+1545	Palkovič Ján		1	483,583,981,992,1521,1724,2024,2039
+1545	Palkovič Ján	LSR	0	1522
+1545	Palkovič Michal		1	483,554,555,657,1521
+1545	Palkovič Michal	LSR	0	1522
+1545	Palkovičová Božena		1	483,554,555,657,1521
+1545	Palkovičová Božena	LSR	0	1522
+1545	Palkovičová Darina		1	555,569
+1545	Palkovičová Elena		1	483,554,555,569,657,981,992,1361,1480,1521,2024
+1545	Palkovičová Elena	LSR	0	1459,1522
+1545	Palkovičová Emília		1	483,1481,1521,2099
+1545	Palkovičová Emília	LSR	0	1522
+1545	Palkovičová Emma		1	430,483,554,569,583,657,691,999,1466,1481,1490,1521,1724,2039,2099
+1545	Palkovičová Emma	LSR	0	1459,1522
+1545	Palkovičová Eva		1	583,800,1724,1816,2039,2105
+1545	Palkovičová Eva	LSR	0	985,1612
+1545	Palkovičová Eva	rod.Krivošová	1	583,1724,2039
+1545	Pastoharisová Zuzana		1	981,992,2024
+1545	Pastoharisová Zuzana	rod.Blišťanová	1	1483,2191
+1545	Paukovje Ján		1	489
+1545	Paukovje Michal		1	489
+1545	Peterajová Eva r. Uličná		1	1283
+1545	Petráško Ľudovít, Liptovský Peter, č. 28, SR		0	125,695,696,757,1016,1017,1018,1396,1445,1458,1467,1480,1511,1665,2076,2202
+1545	Petráško Ľudovít, s.č. 28, Liptovský Peter, SR		0	453,697,884,1410,1411,1622
+1545	Petrášková Mária	rod.Zaťková	1	999
+1545	Petrášová Mária	rod.Zaťková	1	1519
+1545	Plžik Jozef		1	483,1521
+1545	Plžik Jozef	LSR	0	1522
+1545	Plžiková Zuzana		1	483,1521
+1545	Plžiková Zuzana	LSR	0	1522
+1545	Plžiková Zuzana	rod.Zaťková	1	367,1035,1573,1721,1871
+1545	Podaná Jarmila		1	187
+1545	Porubiaková Emma	rod.Abrhámová	1	681,1133,1135
+1545	Procházková Alžbeta		1	462,945,1008,1162,1163,1164,1397,1484,1755,1870,1872,2210
+1545	Procházková Alžbeta	rod.Gažová	1	485,687,1000,1002,1003,1004,1005,1159,1161,1165,1166,1167,1227,1228,1432,1840,1873,1876,1912,2208,2211
+1545	Procházková Alžbeta	rod.Gažová; LSR	0	1006,1431,1436
+1545	Procházková Alžbeta r. Gažová		0	1160,2209
+1545	Reznová Mária	rod.Zaťková	1	650,1710,1880
+1545	Režný Ján		1	650,1305,1710,1880
+1545	Roľnícka vzájomná pokladnica L.Hrádok		0	338,691
+1545	Salvová Zuzana	rod.Jurášová	1	1053
+1545	Salvová Zuzana r. Jurášová		1	959
+1545	Slabej Andrej		1	1488
+1545	Slabej Ján		1	583,800,1323,1324,1724,1816,1833,1834,2039,2056,2057,2105
+1545	Slabej Ján	LSR	0	985,1612
+1545	Slabej Michal		1	512,771,1026,1125,1376,1481,1513,1583,1731,1877,1935,2099
+1545	Slabej Ondrej		1	981,992,2024
+1545	Slabejová Emília	rod.Janíková	1	512,771,1731,1877,1935
+1545	Slabejová Emília	rod.Janíková; LSR	0	1125
+1545	Slabejová Eva	rod.Gažová	1	583,597,800,943,945,1085,1164,1507,1724,1745,1816,1872,2039,2103,2105
+1545	Slabejová Eva	rod.Gažová; LSR	0	944,985,1612
+1545	Slabejová Eva	rod.Palkovičová	1	583,800,1724,1816,2039,2105
+1545	Slabejová Eva	rod.Palkovičová; LSR	0	985,1612
+1545	Slabejová Eva r. Debnárová, Vavrišovo, č. 156, SR		0	963,997,1178,1240
+1545	Slabejová Eva r. Gažová		1	991,1701
+1545	Slabejová Mária		1	1481,2099
+1545	Slabejová Mária	rod.Čatlošová	1	1087
+1545	Slabejová Mária	rod.Janíková	1	1376,1513
+1545	Slabejová Zuzana	rod.Janíková	1	1376,1513
+1545	Slabejová Zuzana r. Janíková, SR		1	1026
+1545	Slabejová Zuzana, SR	rod.Janíková	1	1583
+1545	Slabejová Žofia r. Halková		1	798
+1545	Smitňová Emma	rod.Tomčíková	1	585,962,963,981,992,995,1390,2024,2062,2094
+1545	Smitňová Eva	rod.Tomčíková	1	1505
+1545	Stupka Ján		1	483,1521
+1545	Stupka Ján	LSR	0	1522
+1545	Stupka Peter		1	187
+1545	Stupková Mária	rod.Vongrejová	1	483,1521
+1545	Stupková Mária	rod.Vongrejová; LSR	0	1522
+1545	Surovček Michal		1	623,884,1016,1665
+1545	Surovček Michal, Liptovský Peter, č. 188, SR		1	607,1070,1396
+1545	Surovček Michal, SR		1	1026,1583
+1545	Šikulajová Oľga		1	124
+1545	Štetina Ján, Bratislava - Trávniky, SR		1	1260
+1545	Štetinová Eva	rod.Hlavajová	1	1260
+1545	Šťukovská Emma	rod.Krivošová	1	981,992,2024
+1545	Tekel Michal, SR	zom.11.8.1981	0	1256
+1545	Tekelová Eva	rod.Zaťková	1	1256
+1545	Tlachbartová Magdaléna	rod.Martinčeková	1	1306,1386
+1545	Tomčík Ján		1	483,650,1383,1448,1449,1474,1513,1521,1522,1523,1710,1880
+1545	Tomčík Michal		1	585,1275,1276,2094
+1545	Tomčík Peter, Liptovský Peter, č. 211, SR		1	1275,1276
+1545	Tomčík Štefan		1	359,453,483,962,963,981,992,1237,1326,1390,1411,1483,1494,1521,2024,2058,2062,2191,2195
+1545	Tomčík Štefan	LSR	0	1410,1441,1445,1522
+1545	Tomčíková Emília		1	483,981,992,995,1521,2024
+1545	Tomčíková Emília	LSR	0	1522
+1545	Tomčíková Emília r. Jurášová		1	959
+1545	Tomčíková Eva		1	483,1521
+1545	Tomčíková Eva	LSR	0	1522
+1545	Tomčíková Ľudmila		1	483,995,1521
+1545	Tomčíková Ľudmila	LSR	0	1522
+1545	Tomčíková Mária		1	483,962,995,1237,1326,1390,1494,1521,2058,2062,2195
+1545	Tomčíková Mária	LSR	0	1441,1522
+1545	Uličná Eva	rod.Zaťková	1	430,681
+1545	Uličná Marta		1	1107,1108
+1545	Uličná Zuzana		1	430,483,617,1284,1334,1518,1521,1522,2184
+1545	Uličná Zuzana	rod.Čatlošová	1	430,650,1710,1880
+1545	Uličná Zuzana	rod.Krivošová	1	962,1390,2062
+1545	Uličná Zuzana	rod.Mikušová	1	837
+1545	Uličný Gustáv	Čunga	1	483,617,659,1026,1334,1518,1521,1583,1888,2184
+1545	Uličný Gustáv	Čunga, LSR	0	1522
+1545	Uličný Ján		1	483,489,617,659,1026,1283,1334,1461,1518,1519,1521,1522,1583,1869,1888,2184
+1545	Uličný Ján, Liptovský Peter, SR		1	367,483,1035,1521,1522,1573,1721,1871
+1545	Uličný Michal		1	70,430,483,617,659,681,1026,1283,1326,1334,1518,1521,1522,1583,1888,2184
+1545	Uličný Milan		1	681
+1545	Uličný Miloš		1	838
+1545	Uličný Pavol		1	681
+1545	Uličný Peter		1	430,483,617,669,1026,1334,1518,1521,1522,1583,2060,2184
+1545	Uličný Vladimír, č. 92, SR	zomr. 22.1.1997	1	681,1055
+1545	Uličný Vladimír, č. 92, SR	zomr.22.1.1997	0	1056,1250,1251,1252,1428
+1545	Uličný Vladimír, Liptovský Peter, č. 192, SR		0	837
+1545	Vogrej Jaroslav		1	1127
+1545	Vogrej Július		1	1127
+1545	Vogrej Pavol		1	1127
+1545	Vongrej Ján		1	646
+1545	Vongrej Jaroslav		1	69,276,366,483,583,585,617,646,676,679,681,991,1106,1107,1108,1109,1126,1128,1129,1130,1191,1198,1223,1225,1334,1518,1521,1631,1701,1724,1736,1738,1739,1743,1746,1754,1767,1776,2039,2085,2091,2094,2096,2184

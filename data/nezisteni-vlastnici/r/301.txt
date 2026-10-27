@@ -1,0 +1,256 @@
+192	Šteffek Alžbeta		0	8498
+192	Šteffek Ján r. Zula		0	9179
+192	Šteffková Katarína r. Janovičová		0	8574,11638,11653
+192	Štefková Amália r. Šimková		0	8514,8520,9475,11638,11674
+192	Štefková Anna		1	2836
+192	Štefková Karolína r. Ružičková		0	8574,10183,11638,11653
+192	Štefková Mária r. Oravcová		0	8599,11638,11653
+192	Štefková Zuzana r. Nebylá		0	8574,11042,11638,11653
+192	Štermenská Anna		0	10617
+192	Štermenská Anna r. Krajčí		0	9937
+192	Štermenská Helena		0	9278
+192	Štermenská Mária		0	9503
+192	Štermenský Matej		0	10884
+192	Štetina Michal		0	10408
+192	Štetinová Anna r. Hušek		0	5032
+192	Štorová Helena r. Brinkáč		0	11311
+192	Šturdík Anton, SR		1	3557
+192	Šturdík Ferdinand, SR		1	3557
+192	Šturdík Ján, SR		1	3557
+192	Šturdíková Katarína, SR		1	3557
+192	Štvrtecká Anna r. Chrena		0	10828
+192	Štvrtecká Anna r. Sokolová		0	11638,11653
+192	Štvrtecká Antonia, dcéra Pavla dcéra Pavla		0	8496
+192	Štvrtecká Helena		0	8574,11638,11653
+192	Štvrtecká Mária r. Diviak		0	10762
+192	Štvrtecká Paula		0	8574,11638,11653
+192	Štvrtecký Alojz		0	8574,11638,11653
+192	Štvrtecký Antonia r. Špidla		1	3059,9187
+192	Štvrtecký Ján		0	9248,10019
+192	Štvrtecký Ján, SR		1	3059
+192	Štvrtecký Ján, ž.Mária Ježek ž.Mária Ježek		0	10315
+192	Štvrtecký Jozef		0	8654
+192	Štvrtecký Ladislav		0	8574,11142,11638,11653
+192	Štvrtecký Štefan		0	11489
+192	Šubík Anna r. Pernecká		0	8573
+192	Šubík Anton		0	10546,11409
+192	Šubík Ján		0	8573
+192	Šubík Pavel		0	9890
+192	Šurina Agneša r. Hušek		1	2781,4739,4892
+192	Šurina Ignác		0	8824
+192	Šurina Jozef		0	10146
+192	Šurina Martin		0	10525
+192	Šurina Michal		0	9793
+192	Šurina Štefan		0	8994
+192	Šurina Vendelín		0	9481,11077
+192	Šurinová Agneša r. Húšková		0	11520
+192	Švec Helena r. Benkovič		0	10432
+192	Švec Ján		0	10631
+192	Švec Jozef		0	9736
+192	Švec Mária r. Včelka		1	2781,4739,4892
+192	Švec Martin		0	9800,11638,11674
+192	Švec Michal		0	9453
+192	Švec Mikuláš		0	11475
+192	Švec Mikuláš, SR		1	2781,4739,4892
+192	Švec Peter		0	8445
+192	Švec Štefan		0	8573
+192	Švec Štefan	A	1	2781,4739,4892
+192	Švecová Alžbeta r. Hušková		0	8445
+192	Švecová Anna r. Blatnická		0	8496
+192	Švecová Eva r. Vrablec		0	10674
+192	Švecová Helena r. Holenka		0	9740
+192	Švecová Katarína		0	10966
+192	Švecová Mária r. Kopka		0	8977
+192	Ťažká Katarína r. Baďurová		0	8574,10815,11638,11653
+192	Tekerová Karolína r. Hajdinová		0	8574,11638,11653
+192	Thumová Genovéva r. Štefková		1	2836
+192	Tihlárik Ferdinand		0	8574,10107,11638,11653
+192	Tihlárik Ferdinand, SR		1	3557
+192	Tihlárik Ján		0	8574,8866,11638,11653
+192	Tihlárik Ján, SR		1	3557
+192	Tihlárik Martin		0	8574,10624,11638,11653
+192	Tihlárik Martin, SR		1	3557
+192	Tihláriková Rozália		0	8574,9282,11638,11653
+192	Tihláriková Rozália, SR		1	3557
+192	Tichá Anna r. Buchta		0	8969
+192	Tichá Terézia r. Vacula		0	11570
+192	Tichý Jaroslav		0	11638,11653
+192	Tichý Jozef		0	8574,11638
+192	Tichý Jozef	A	0	11653
+192	Tichý Štefan		0	8788
+192	Tomek Alojz		0	8498
+192	Tomek Anna		0	10561,11189
+192	Tomek Anna r. Biksadská		0	11680
+192	Tomek Anna r. Čižmár		0	11340
+192	Tomek Apolonia r. Nebilá		0	10664
+192	Tomek Františka r. Zajíc		1	4144
+192	Tomek Helena r. Matejovič		0	11625
+192	Tomek Ján		0	8514,8574,11278,11387,11638,11653
+192	Tomek Ján	A	0	8520,8781,10414,11653
+192	Tomek Jozef		0	8514,8520,8877,10220,11638
+192	Tomek Jozef, SR	D:	1	4141
+192	Tomek Karolína r. Valla		0	9110
+192	Tomek Marek		0	11638
+192	Tomek Marek	A	0	10144,11653
+192	Tomek Marek	B	0	11653
+192	Tomek Mária r. Matejovič		0	9469
+192	Tomek Martin		0	8667,11625
+192	Tomek Paula		0	8496
+192	Tomek Pavel		0	8615,11567
+192	Tomek Rozália r. Malík		0	10090
+192	Tomek Rudolf		0	8496,8574,9812,11638,11653
+192	Tomek Štefan		1	4144,8667,11625
+192	Tomek Veronika		0	9423
+192	Tomek Vladimír		0	9671
+192	Tomeková Alžbeta r. Šimkovič		0	10949
+192	Tomeková Anna		0	8849,10693
+192	Tomeková Anna, SR	D:	1	4141
+192	Tomeková Hermína r. Danek		0	9167
+192	Tomeková Mária r. Valla		0	9912
+192	Tomeková Mária, SR	D:	1	4141
+192	Tomková Daniela		0	8514,8520,8574,9472,11002,11638,11653
+192	Tomková Jozefína r. Kafková		0	8574,11638,11653
+192	Tomková Mária r. Matejovičová		0	8574,11638,11653
+192	Tomková Mária r. Vallová		0	8574,11638,11653
+192	Tomková Valéria r. Vlková		0	11638,11653
+192	Tomková Veronika		0	8514,8520,8574,9223,11638,11653
+192	Torok Eva r. Sedlák		0	10410
+192	Torok Jozefa r. Hesek		0	11625
+192	Torok Júlia r. Papánek		0	10568
+192	Toroková Eva r. Sedal		0	8735
+192	Toroková Terézia r. Buzeková		0	11638,11653
+192	Trajlinek Alžbeta r. Folbová		1	2855
+192	Trajlinek Alžbeta r. Tomek		0	9946
+192	Trajlinek Anna		0	8916
+192	Trajlinek Anna r. Gajda		0	9014
+192	Trajlinek Ferdinand		0	8675,11163
+192	Trajlinek Helena		0	8825
+192	Trajlinek Helena r. Knotek		0	10147
+192	Trajlinek Imrich		0	9303
+192	Trajlinek Ján		0	8637,8872
+192	Trajlinek Jozef		0	8675,8968,10539,11222
+192	Trajlínek Jozef, SR		1	2855
+192	Trajlinek Jozef, ž.Mária ž.Mária		0	10030
+192	Trajlínek Júlia r. Hušek		0	11112
+192	Trajlinek Mária		0	10653
+192	Trajlinek Michal		0	8498
+192	Trajlinek Pavel, ž.Terézia Kunštek ž.Terézia Kunštek		0	9095
+192	Trajlínek Pavol, SR		1	2855
+192	Trajlínek Stefan, SR		1	2855
+192	Trajlinek Štefan		0	9876,10932
+192	Trajlinek Vendelín		0	11500
+192	Trajlínek Zuzana r. Holenka		0	10700
+192	Trajlinková Alžbeta		0	8962
+192	Trajlínková Anna r. Trajlínek		0	9820
+192	Trajlínková Anna, SR		1	2855
+192	Trajlinková Helena		0	8576,11362
+192	Trajlinková Helena r. Knotek		0	8955
+192	Trajlínková Helena r. Trajlínek		0	10274
+192	Trajlínková Johana, SR		1	2855
+192	Trajlinková Jozefína		0	8576
+192	Trajlinková Mária		0	10484
+192	Trajlinková Terézia		0	8637
+192	Trajlínková Terézia r. Dufek		0	10965
+192	Trefelík Ján		0	8465
+192	Trefelík Konštantín		0	8465
+192	Trefelík Martin		0	8465
+192	Trefelíková Mária		0	8465
+192	Trup Mária r. Celáry		0	10988
+192	Tutlerová Štefánia		0	8574,11638,11653
+192	Uherek Ján		0	11638,11674
+192	Uherek Štefan		0	8574,11638
+192	Uherek Štefan	A	0	11653
+192	Uhereková Alžbeta r. Létalová		0	11638,11674
+192	Uhereková Ľudmila r. Létalová		0	8574,11638,11653
+192	Ujcová Anna r. Laca		0	9913
+192	Umlauf Jozef		0	8465
+192	Umlauf Michal		0	8465
+192	Vacek Michal		0	11375
+192	Vacková Zuzana r. Vallová		0	8574,10180,11638,11653
+192	Vacula Ján		0	5170,8574,10236,10844,11638
+192	Vacula Ján	A	0	11314,11653
+192	Vacula Ján	B	0	11653
+192	Vacula Jozef		0	11570
+192	Vacula Martin		0	5170,10683,11638,11653
+192	Vacula Michal		0	9043,11570,11638
+192	Vacula Michal	A	0	11653
+192	Vacula Michal	B	0	11653
+192	Vacula Ondrej		0	8574,9609,11638,11653
+192	Vacula Rozália		0	9672
+192	Vaculová Alžbeta r. Matejovič		0	9104
+192	Vaculová Alžbeta r. Sokolová		0	11638,11653
+192	Vaculová Anna r. Valla		0	8496
+192	Vaculová Rozália		0	8574,11638,11653
+192	Vaculová Terézia r. Hesek		0	9914
+192	Vadina Florián		0	9881
+192	Vadina Mária r. Maďar		0	10498
+192	Vadina Pavol		0	9027,10008
+192	Vadinová Mária r. Trajlínek		0	9935
+192	Vadinová Terézia r. Linder		0	8633
+192	Vachajová Júlia		0	8574,10991,11638,11653
+192	Vajajová Mária		0	9973
+192	Vajay Alžbeta		0	11423
+192	Vajay Alžbeta, SR		1	3081
+192	Vajay Marek		0	8670
+192	Vajay Valéria		0	8512
+192	Vajay Valéria	A	1	3081
+192	Vajayová Mária r. Papánek		0	8670
+192	Vajdl Michal		0	11242
+192	Vala Alžbeta r. Tomek		0	8760
+192	Vala Ján		0	10279
+192	Valachovič Paulína r. Valovič		0	11266
+192	Valachovičová Anna r. Ružičková		0	8574,9035,11638,11653
+192	Valachovičová Ernestína r. Vanek		0	10712
+192	Valachovičová Júlia r. Sokolová		0	10564,11638,11653
+192	Valla Alojzia		0	8497
+192	Valla Alžbeta		0	8497
+192	Valla Anton		0	8700
+192	Valla Anton	A	0	9558
+192	Valla Anton, maloletý maloletý		0	8497,8574,11638,11653
+192	Valla Ferdinand		0	8512
+192	Valla Helena r. Vlk		0	10186
+192	Valla Helena, maloletá maloletá		0	8987
+192	Valla Hermína		0	8497
+192	Valla Imrich		0	8512,8574,10003,11638,11653
+192	Valla Ján		0	8512,8574,8700,10490,11638
+192	Valla Ján	A	0	11653
+192	Valla Ján	B	0	11653
+192	Valla Ján	C	0	8497,11653
+192	Valla Ján, ž.Anna Bíla ž.Anna Bíla		0	8574,8774,11638,11653
+192	Valla Jozef		0	9870
+192	Valla Karol		0	8496,8497,8574,11638
+192	Valla Karol	A	0	9532,11653
+192	Valla Lujza		0	8497
+192	Valla Mária r. Valla		0	10872
+192	Valla Ondrej		0	8496
+192	Valla Pavel		0	8574,9702,11379,11638,11653
+192	Valla Pavol		0	10451,11638,11653
+192	Valla Terézia r. Šišulák		0	11427
+192	Valla Vendelín		0	9921
+192	Vallová Alžbeta		0	8498
+192	Vallová Alžbeta r. Papánek		0	8827
+192	Vallová Emília		0	8498,8574,8700,11638
+192	Vallová Emília	A	0	11653
+192	Vallová Helena		0	8498
+192	Vallová Helena r. Vlková		0	8574,11638,11653
+192	Vallová Hermína		0	8496
+192	Vallová Jozefína		0	11625
+192	Vallová Mária		0	10201,11677
+192	Vallová Mária r. Krausová		0	11638,11653
+192	Vallová Mária r. Mateovičová		0	8574,11638,11653
+192	Vallová Paulína		0	8574,11638,11653
+192	Vallová Paulína r. Duffková		0	8574,11638,11653
+192	Vallová Terézia		0	8574,11638,11677
+192	Vallová Terézia	A	0	11653
+192	Valová Alžbeta r. Tomková		0	11638,11653
+192	Valová Apolonia r. Poláková		0	8574,8704,11638,11653
+192	Valová Pavlína r. Duffková		0	8574,11638,11653
+192	Valovič Anna r. Rarbovská		0	9992
+192	Valovič Imrich		0	11320
+192	Valovič Matej		0	8496
+192	Valovič Michal		0	8761
+192	Valovič Štefan, zom.01.02.1996 zom.01.02.1996		0	11681
+192	Vančíková Júlia r. Polák		0	10207
+192	Vaníček Gustáv		0	8574,10849,11638,11653
+192	Vápeník František		0	8647
+192	Vápeníková Mária r. Hollwecková		0	8647

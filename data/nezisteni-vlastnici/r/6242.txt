@@ -1,0 +1,256 @@
+3516	Kušnier Ján	Žitná	0	651
+3516	Kušnier Jozef	Ján, vzd. Ondrej, Anna, Zuzana, Mária	0	459,478,570,571,745,880,909,926
+3516	Kušnier Jozef	od Kušnierovej Márie r. Bežovej	0	778
+3516	Kušnier Michal	/Horný/,Ondrej st.,Ján žen.Zuz.r.Čabrák	0	456,459,473,570,571,584,592,725,778,920
+3516	Kušnier Michal	aj Štefan, Pavol od Pavla Kušniera	0	473,584,592
+3516	Kušnier Michal	Ján,Žitná-Radiša 202	0	561,609,613,697,715,925
+3516	Kušnier Michal	kúpa od Duranziovej Anny r. Adame	0	796
+3516	Kušnier Michal	vl.č.225	0	592
+3516	Kušnier Miroslav	Štefan,Albert,Michal,Mária,Ondrej,kúpa	0	592
+3516	Kušnier Ondrej	ml., Žitná, č. 69	0	534,535,536,537,538,539,540,541,542,543,544,545,546,547,548,549,550,651
+3516	Kušnier Ondrej	st., Žitná, č. 70	0	534,535,536,537,538,539,540,541,542,543,544,545,546,547,548,549,550,651
+3516	Kušnier Ondrej	st.,Michal /Horný/,Ján /žen.Zuz.r.Čabr./	0	459,473,584,592,725
+3516	Kušnier Ondrej	Štefan,Albert,Michal,Mária po M.r.Duran	0	473,478,570,571,584,592,745,778,880,909,926
+3516	Kušnier Ondrej	Štefan,Albert,Michal,Mária,Miroslav,kúpa	0	592
+3516	Kušnier Ondrej	vzd.,Ján,Jozef,Anna Dik.,Zuzana,Mária	0	459
+3516	Kušnier Ondrej	žena Mária r. Jamrichová, č. 61 /nebohý/	0	668
+3516	Kušnier Pavol	kúpa od Michala Kušniera,Žitná-Radiša 14	0	459,473,478,570,571,584,725,745,778,880,909,926
+3516	Kušnier Štefan	Ján, Zuzana, Katarína	0	456,459,478,558,570,571,584,725,745,880,909,920,926
+3516	Kušnier Štefan	Mária Križanová,Ján,Michal,Gustáv Bežo	0	247,249,534,535,536,537,538,539,540,541,542,543,544,545,546,547,548,549,550,601,651,776,827,913,939
+3516	Kušnier Štefan	Michal,Pavol od Pavla Kušniera	0	592
+3516	Kušnierová Alžbeta	Mária,Zuzana,Anna Konská,Katarína,Ján	0	445,592
+3516	Kušnierová Alžbeta r. Jamrichová		0	806,807,808,809,810,811,812,813,814,815,816
+3516	Kušnierová Anna r. Ďurčeková		0	592
+3516	Kušnierová Anna r. Hrebíčková		0	566
+3516	Kušnierová Anna r. Kučerová	č. 3	0	659
+3516	Kušnierová Anna r. Patrová	č. 81	0	478,909
+3516	Kušnierová Katarína	Ján po Pavlovi	0	456,459,473,478,570,571,592,725,745,778,880,909,920,926
+3516	Kušnierová Katarína	Mária,Zuzana,Anna Konská,Alžbeta,Ján	0	592
+3516	Kušnierová Margita r. Moravčíková		0	271,747,917,918
+3516	Kušnierová Mária	Štefan,Albert,Michal,Ondrej po M.r.Dura	0	473,478,570,571,584,592,745,778,880,909,926
+3516	Kušnierová Mária	Štefan,Albert,Michal,Ondrej,Miroslav,kúp	0	592
+3516	Kušnierová Mária	Zuzana,Anna,Alžbeta,Katarína,Ján,zomrela	0	592
+3516	Kušnierová Mária r. Duranziová	č. 71, zomrela D 24/30	0	456,459,672,725,920
+3516	Kušnierová Mária r. Jamrichová	D 122/79	0	668
+3516	Kušnierová Mária r. Kohušová	č. 70	0	673
+3516	Kušnierová Zuzana	Ján,Jozef,vzd.Ondrej,Anna Diková,Mária	0	459,478,570,571,725,745,775,778,880,909,926
+3516	Kušnierová Zuzana	Mária,Anna Konská,Alžbeta,Katarína,Ján	0	584,592
+3516	Kušnierová Zuzana	Žitná	0	651
+3516	Kušnierová Zuzana r. Čabráková		0	599
+3516	Ľahká Zuzana r. Obertíková		0	411,726,914,942
+3516	Ľahký Jozef	po Jánovi aj Anna Adameová	0	479
+3516	Lojšková Anna	Jozef,Holičková r.Lojšková Anna	0	563,883
+3516	Lojšková Zuzana		0	414
+3516	Miestny národný výbor Žitná		0	575
+3516	Michale Andrej	od Zuzany Michale r. Pružincovej	0	166
+3516	Michale Ján	/Turek Michale/	0	301,490,640,641,642,709,710,733,735,738,740,742,744,779,832,834
+3516	Michale Ján	žena Anna r. Kušnierová, č. 47	0	534,535,536,537,538,539,540,541,542,543,544,545,546,547,548,549,550,638,651
+3516	Michale Jaroslav	kúpa od Kováčika Jozefa,Františ.Bernard	0	707
+3516	Michale Jozef	žena Mária r. Hanková, Žitná-Radiša 205	0	459,473,651,661
+3516	Michale Michal	Ján	0	440,733,735,738,740,742,744
+3516	Michale Michal	žena Mária r. Botková	0	271,529,747,917,918
+3516	Michale Ondrej	dar od Anny Michale Turekovej r.Paluch	0	598
+3516	Michale Ondrej	kúpa	0	305,888
+3516	Michale Ondrej	kúpa od Čukana Jána	0	556
+3516	Michale Ondrej	žena Katarína r.Kušnierová,Žitná 72	0	271,447,747,748,917,918
+3516	Michale Štefan	Anna, Ján, Mária	0	166,483
+3516	Michale Štefan	žena Zuzana r. Kušnierová, č. 48	0	651,692
+3516	Michale Zuzana	Žitná	0	651
+3516	Michaleová Anna r. Kušnierová	č. 47	0	280
+3516	Michaleová Anna r. Kušnierová	Žitná 115	0	651,661
+3516	Michaleová Katarína r. Kušnierová		0	447,748
+3516	Michaleová Katarína r. Mišinová	Žitná	0	528,529,619
+3516	Michaleová Mária r. Botková		0	271,529,747,917,918
+3516	Michaleová Zuzana	Žitná	0	651
+3516	Michaleová Zuzana r. Križanová		0	649
+3516	Michaleová Zuzana r. Kušnierová		0	333,477
+3516	Mikuš Štefan		0	534,535,536,537,538,539,540,541,542,543,544,545,546,547,548,549,550,651
+3516	Mikuš Štefan	1898,od Kohuta	0	333,445,457,477,607,629,711,712,750,777,783,887,931
+3516	Mikuš Štefan	od Ševčíkovej Alžbety, Žitná-Radiša 59	0	333,445,457,458,477,607,629,711,712,750,777,783,887,931
+3516	Mikuš Štefan	po Štefanovi	0	458,629,666,777
+3516	Mikušová Anna r. Mikušová	Žitná-Radiša 25	0	333,445,458,477,607,711,712,750,887,931
+3516	Mikušová Anna r. Škultétyová	Žitná 59	0	457,607,629,777,783,931
+3516	Mikušová Mária r. Dubayová	č. 59	0	333,445,457,458,477,607,629,666,711,712,750,777,783,887,931
+3516	Obertík Jozef	po Zuzane r. Škultétyovej	0	411,726,914,942
+3516	Obertíková Anna r. Bežová		0	248
+3516	Okresný národný výbor Bratislava - vidiek, 810 11, Bratislava 111, SR	finančný odbor	0	166
+3516	Okresný národný výbor Topoľčany	finančný odbor	0	333,457,570,571,607,931
+3516	Okresný národný výbor Topoľčany	odbor pôdohospodárstva	0	620
+3516	Ondruška Michal	od Jána a Ondreja Hanku	0	534,535,536,537,538,539,540,541,542,543,544,545,546,547,548,549,550
+3516	Ondruška Michal	žena Mária r. Horníková, č. 39	0	684
+3516	Ondrušková Mária r. Horníková	č. 39	0	684
+3516	Ondrušková Zuzana r. Kušnierová	zomrela 19.12.1975	0	459
+3516	Ondrušková Zuzana r. Tureková		0	785,786,787
+3516	Patro Jozef	žena Alžbeta r. Kušnierová	0	271,747,917,918
+3516	Patro Michal	Radiša, č. 19	0	616
+3516	Petrek Rudolf	Dubnička 12	0	700
+3516	Petro Ondrej	žena Anna r. Dolinská, č. 52	0	667
+3516	Petrová Anna r. Dolinská	č. 52	0	667
+3516	Pišta Emanuel	po Jánovi	0	832,834
+3516	Podlucký Jozef	osvedčenie	0	778
+3516	Podlucký Pavol	Imrich,Adam,Jozef	0	279,796
+3516	Podlucký Pavol	Michal,Štefan,Imrich,Adam,Jozef,Katarína	0	800,801,802,803,804
+3516	Pružincová Alžbeta	Mária, Anna	0	278,306,486,556,558,748,788
+3516	Pružincová Anna	mal., aj Mária,Alžbeta	0	166,748,788
+3516	Pružincová Anna	po Jánovi,Ondrej,Buchl.Anna,Jozef,Mária	0	166,748
+3516	Pružincová Anna r. Kušnierová		0	806,807,808,809,810,811,812,813,815,816,817
+3516	Pružincová Mária	mal.,aj Anna,Alžbeta	0	278,306,483,486,556,558,748,788
+3516	Pružincová Mária	po Jánovi,Ondrej,Buchlov.Anna,Jozef,Anna	0	278,306,483,486,556,558,748
+3516	Pružinec Ján	Jozef, Anna, Štefan, Michal, Pavol	0	166,305,427,428,483,486,556,558,748,888
+3516	Pružinec Ján	Žitná-Radiša 48	0	483
+3516	Pružinec Jozef	Anna, Štefan, Michal, Ján, Pavol	0	166,483,748
+3516	Pružinec Jozef	Ondrej, Anna, ml. Anna, Mária	0	166,483,748
+3516	Pružinec Michal	Jozef, Anna, Štefan, Ján, Pavol	0	166,305,427,428,483,486,556,558,748,888
+3516	Pružinec Ondrej	aj Čukan Ján od Michal.r. Pružin.Zuzany	0	556
+3516	Pružinec Ondrej	od Jána aj Anna,Jozef,mal.,Anna a Mária	0	306
+3516	Pružinec Štefan	Jozef, Anna, Michal, Ján, Pavol	0	166,305,427,428,483,486,556,558,748,888
+3516	Puchor Jozef	Moldavská 71, Košice	0	651,655
+3516	Puchor Jozef	po Zuzane r. Kušnierovej, Žitná 113	0	456,570,571,673,778,796,920
+3516	Repka Ondrej	žena Katarína r. Garayová	0	516,787,793,794,795
+3516	Riecka Zuzana r. Králiková	Nové Mesto 52,Chlumec n.C	0	800,801,802,803,804
+3516	Rubešová Anna r. Bežová		0	249,424,464,534,535,536,537,538,539,540,541,542,543,544,545,546,547,548,549,550,651,681,827
+3516	Slaninka Ján	kúpa od Tomášku Jána	0	39
+3516	Slaninka Ján	Žitná, č. 49	0	534,535,536,537,538,539,540,541,542,543,544,545,546,547,548,549,550,651
+3516	Slaninka Rudolf	žena Lýdia r. Hrčková	0	602,604
+3516	Slaninková Anna r. Tomášková	D 1000/64	0	39,259,424,637,835,924
+3516	Slaninková Lýdia r. Hrčková		0	602,604
+3516	Slováková Františka r. Kovačiková	Skačany	0	534,535,536,537,538,539,540,541,542,543,544,545,546,547,548,549,550,552,651,679,713,717,722,894
+3516	Srnec Michal	Ondrej po Štefanovi	0	646,651
+3516	Súkeník Imrich	Ondrej,Štefan,Tomáš	0	780,791
+3516	Súkeník Ján	od Adama	0	780,791
+3516	Súkeník Michal	Mária,Anna,Štefan po Imrichovi	0	780,792
+3516	Súkeník Ondrej	Štefan,Tomáš,Imrich	0	780,791
+3516	Súkeník Ondrej	žena Mária r. Drevená	0	792
+3516	Súkeník Štefan	Anna po Súkeníkovej Márií r. Drevenej	0	792
+3516	Súkeník Štefan	Mária,Anna,Michal po Imrichovi	0	780,792
+3516	Súkeník Štefan	od Pružinca Jána	0	788
+3516	Súkeník Štefan	Ondrej,Tomáš,Imrich	0	780,791
+3516	Súkeník Tomáš	Ondrej,Štefan,Imrich	0	780,791
+3516	Súkeníková Anna	Mária,Štefan,Michal po Imrichovi	0	780,792
+3516	Súkeníková Anna	Štefan po Súkeníkovej Márií r. Drevenej; Štefan po Súkeníkovej Márií r. Drevenej	0	792
+3516	Súkeníková Anna r. Králiková	Žitná-Radiša 61	0	785,786,787
+3516	Súkeníková Mária	Anna,Štefan,Michal po Imrichovi	0	780,792
+3516	Súkeníková Mária r. Škultétyová		0	780,792
+3516	Szalezer Mark	žena Rozália r. Fleišerová	0	306
+3516	Szalezer Markus	vl.č.135	0	572,573
+3516	Szalezer Miksa	od Szalezera Pinkusa	0	579
+3516	Šaray Štefan a Alžbeta Šarayová r. Škapíková	čd 37, Žitná - Radiša	0	592
+3516	Šaray Tibor	po Štefanovi	0	592
+3516	Šebeková Alžbeta r. Bežová		0	247,248,249,272,273,274,275,276,277,451,464,481,566,567,601,610,612,625,626,633,634,638,704,707,771,772,784,793,794,795,827,838,913,939
+3516	Šebeň Michal	Kšinná 161	0	674
+3516	Šebeň Štefan	Wolkrova 46, Bratislava	0	674
+3516	Škorcová Anna r. Obertíková		0	474,588,685,746,771,772
+3516	Škorcová Mária r. Čukanová		0	650
+3516	Škorcová Mária r. Hanková		0	751
+3516	Škorcová Zuzana r. Lojšková		0	414
+3516	Škorec Ján	Ján, Dušan	0	411,587,914,942
+3516	Škorec Ján	Štefan,Michal,Alžbeta,Mária,Žitná 88	0	265,293,294,297,299,300,301,551,552,554,555,640,641,642,643,708,710,779,882
+3516	Škorec Michal	/po Košťalovi Ondrejovi, Varunek/	0	552
+3516	Škorec Michal	aj Pavol s Annou r.Obertík,Košťál Ondrej	0	297,474,636,746,882
+3516	Škorec Michal	kúpa od Jána Škorca	0	746
+3516	Škorec Michal	Žitná 67	0	651
+3516	Škultéty Ján	aj Michal	0	704
+3516	Škultéty Ján	aj Michal, kúpa od Adama	0	411,605,914,915,942
+3516	Škultéty Ján	aj Milan po Michalovi	0	411,563,883,914,942
+3516	Škultéty Ján	Anna,Jozef,Rudolf,Milan po Jánovi	0	347,594,605,611,691,915,916
+3516	Škultéty Ján	kúpa aj Ondrej Pružinec,Štefan Škultéty	0	723
+3516	Škultéty Ján	ml., po Kataríne Horníkovej	0	609
+3516	Škultéty Ján	ml., žena Anna r. Michaleová	0	715
+3516	Škultéty Ján	Štefan,Anna po Alžbete r. Dubayovej	0	411,605,914,915,942
+3516	Škultéty Ján	ž. Katarína r. Horníková, Žitná-Radiš 59	0	693
+3516	Škultéty Ján	žena Anna r. Michaleová, Žitná-Radiša 59	0	715
+3516	Škultéty Ján	Žitná č. 23	0	534,535,536,537,538,539,540,541,542,543,544,545,546,547,548,549,550,651
+3516	Škultéty Jozef	Anna,Ján,Rudolf,Milan po Jánovi	0	347,594,605,611,691,915,916
+3516	Škultéty Michal	aj Ján	0	704
+3516	Škultéty Michal	aj Ondrej kúpa od Štefana Škultétyho	0	458
+3516	Škultéty Michal	č. 60	0	689
+3516	Škultéty Michal	Štefan po Štefanovi D 311/35	0	458
+3516	Škultéty Milan	aj Ján po Michalovi	0	411,413,563,883,914,942
+3516	Škultéty Milan	Amál,Ján,Anna,Ella,Mária,Marg,po D12/37	0	500,502,728
+3516	Škultéty Ondrej	aj Michal kúpa od Štefana Škultétyho	0	411,413,458,563,883,914,942
+3516	Škultéty Ondrej	Michal,Mária po Michalovi	0	411,413,563,883,914,942
+3516	Škultéty Pavol	Štefan od Ševčíkovej Alžbety	0	333,445,457,458,477,607,629,711,712,750,777,783,887,931
+3516	Škultéty Pavol	žena Anna r. Šmejková	0	586
+3516	Škultéty Rudolf	Anna,Jozef,Ján,Milan po Jánovi	0	347,594,605,611,691,915,916
+3516	Škultéty Štefan	aj Pavol od Ševčíkovej Alžbety	0	333,445,457,477,607,629,711,712,750,777,783,887,931
+3516	Škultéty Štefan	kúpa aj Ondrej Pružinec,Ján Škultéty	0	723
+3516	Škultétyová Anna	aj Štefan po Štefanovi	0	605,915
+3516	Škultétyová Anna	aj Štefan,Ján po Alžbete r. Dubayovej	0	411,605,914,915,942
+3516	Škultétyová Anna	Amál,Ján,Ella,Mária,Marg,Milan po D12/37	0	500,502,728
+3516	Škultétyová Anna	Jozef,Ján,Rudolf,Milan, po Jánovi	0	347,594,605,611,691,915,916
+3516	Škultétyová Anna	vd., Žitná, č. 24	0	534,535,536,537,538,539,540,541,542,543,544,545,546,547,548,549,550,651
+3516	Škultétyová Anna r. Šebeňová		0	724
+3516	Škultétyová Ella	Amál,Ján,Anna,Mária,Marg,Milan po D12/37	0	500,502,728
+3516	Škultétyová Margita	Amál,Ján,Anna,Ella,Mária,Milan po D12/37	0	500,502,728
+3516	Škultétyová Mária	Amál,Ján,Anna,Ella,Marg,Milan po D12/37	0	500,502,728
+3516	Škultétyová Mária	Michal,Ondrej po Michalovi	0	411,413,563,883,914,942
+3516	Škultétyová Mária r. Čukanová		0	601,615,913,939
+3516	Škultétyová Zuzana r. Tureková	č. 60	0	691
+3516	Šľachtiteľský a semenársky podnik Nitra		0	663
+3516	Švelka Ján	Štefan,Mikuláš,Pavol po Jánovi	0	651,654
+3516	Švelka Mikuláš	Štefan,Ján,Pavol po Jánovi	0	651,654
+3516	Švelka Pavol	Štefan,Ján,Mikuláš po Jánovi	0	651,654
+3516	Švelka Štefan	Ján,Mikuláš,Pavol po Jánovi	0	651,654
+3516	Švelková Alžbeta	Žitná	0	651
+3516	Švelková Alžbeta r. Horníková		0	654
+3516	Tomanová Alžbeta r. Hanková		0	771,772
+3516	Tomáška Ján	aj Anna Slaninková r.Tomášková, ml.,Ján	0	422
+3516	Tomáška Ján	Michal,Anna,Jozef,Pavol od Jána	0	702,835,899
+3516	Tomáška Ján	žena Zuzana r. Drevená	0	621
+3516	Tomáška Jozef	Michal,Ján,Anna,Jozef,Pavol od Jána	0	425,702,835,899
+3516	Tomáška Jozef	po Márií Tomáškovej r. Obertíkovej	0	838
+3516	Tomáška Michal	Ján,Anna,Jozef,Pavol od Jána	0	425,702,835,899
+3516	Tomáška Michal	žena Pavlína r. Bučková	0	411,534,535,536,537,538,539,540,541,542,543,544,545,546,547,548,549,550,651,838,914,942
+3516	Tomáška Michal	žena Rozália r. Hanková	0	838
+3516	Tomáška Milan	Ján,Emília,Marta po Pavlíne r. Bučkovej	0	411,534,535,536,537,538,539,540,541,542,543,544,545,546,547,548,549,550,651,838,914,942
+3516	Tomáška Pavol	Michal,Ján,Anna,Jozef od Jána	0	425,702,835,899
+3516	Tomášková Anna	po Márií Tomáškovej r. Obertíkovej	0	838
+3516	Tomášková Emília	Milan,Ján,Marta po Pavlíne r. Bučkovej	0	411,534,535,536,537,538,539,540,541,542,543,544,545,546,547,548,549,550,651,838,914,942
+3516	Tomášková Marta	Milan,Ján,Emília po Pavlíne r. Bučkovej	0	411,534,535,536,537,538,539,540,541,542,543,544,545,546,547,548,549,550,651,838,914,942
+3516	Trebichavská Anna r. Jamrichová		0	806,807,808,809,810,811,812,813,814,815,816
+3516	Trebichavský Jozef	kúpa od Jána a Etely Hrebíčkovej r.Lend	0	806,807,808,809,810,811,812,813,815,816,817
+3516	Trebichavský Pavol	aj Ján po Márií Kušnierovej	0	445,456,457,458,473,478,570,571,584,607,745,778,796,880,909,920,926,931
+3516	Turek Ján	aj Anna Bežová po Jánovi	0	493,494,572,573,574,753,754,758,759,760,806,807,808,809,810,811,812,813,814,815,816,817,881,903
+3516	Turek Ján	Michal,Anna,Mária,Alžbeta,Paulína,Eva	0	789,796
+3516	Turek Ján	žena Anna r.Jamrichová, zomrel D 504/36	0	770
+3516	Turek Ján	Žitná, č. 12	0	534,535,536,537,538,539,540,541,542,543,544,545,546,547,548,549,550,651
+3516	Turek Jozef	Michal	0	651,660
+3516	Turek Michal	aj Ondrej,Ján od Ondreja	0	785
+3516	Turek Michal	Anna,Mária,Ján,Alžbeta,Pulína,Eva	0	789,796
+3516	Turek Michal	žena Zuzana r. Bežová /Podhradie/	0	778,788,796
+3516	Turek Michal	žena Zuzana r. Škultétyová	0	789,796
+3516	Tureková Alžbeta	Michal,Anna,Mária,Ján,Paulína,Eva	0	789,796
+3516	Tureková Anna r. Jamrichová	zomrela v r. 1943	0	881
+3516	Tureková Anna r. Jamrichová	zomrela v r.1943	0	493,494,572,573,574,753,754,758,759,760,770,806,807,808,809,810,811,812,813,814,815,816,817
+3516	Turková Mária r. Duranziová	Uhrovské Podhradie 32	0	278,279,792,796
+3516	Ulehlová Emília r. Králiková	Talicha bl.513, Most	0	800,801,802,803,804
+3516	Vedej Ján	Žitná	0	700
+3516	Viktorín Štefan	žena Anna r. Holičková	0	653
+3516	Viktorín Štefan	žena Anna r. Masárová	0	601,913,939
+3516	Viktorín Štefan	Žitná	0	651
+3516	Viktorínová Anna	Žitná	0	651
+3516	Viktorínová Anna r. Holičková		0	653
+3516	Viktorínová Anna r. Šlosárová		0	717
+3516	Zajac Ján	aj Zajacová Anna r. Micheleová-Turková	0	752
+3516	Zajac Ján	žena Anna r. Michaleová, Žitná	0	589
+3516	Zajac Ján	Žitná	0	534,535,536,537,538,539,540,541,542,543,544,545,546,547,548,549,550,651
+3516	Zajacová Anna r. Michaleová	Žitná	0	589
+3516	Zajacová Anna r. Michaleová-Turková		0	752
+3516	Zay Mikuláš	gróf	0	766
+3517	Adamko Rudolf	manž. Hedviga	0	1023
+3517	Adamková Hedviga	manž. Rudolf	0	1023
+3517	Barošová Juliana r. Karabová	manž. Ján, Žlkovce, 103	0	567
+3517	Bašovská Albína		0	1028
+3517	Bašovská Františka r. Drgoňová		0	228,422
+3517	Bašovský Ladislav		0	1028
+3517	Bašovský Ľudovít		0	422
+3517	Bašovský Michal	manž.Petronela r. Paulíková	0	422,972
+3517	Baťová Hedviga r. Chudá	Ludvika, Trenčín	0	981,1011,1046
+3517	Beláková Albína r. Stanková		0	235,313,1219
+3517	BLAŠKO TIMOT		0	670,851
+3517	Blaško Timotej		0	1003
+3517	Blašková Mária r. Danišková		0	875,984
+3517	Blašková Mária r. Hrnčárová	Leopoldov, Hviezdoslava 804/18, zom. 27.3.2010	0	1003
+3517	Blažo Jozef	maloletý z r.1912	0	455
+3517	Blažo Rudolf	maloletý z r. 1912	0	455,716
+3517	Blažová Anna r. Bokorová	Imrichová	0	1006

@@ -1,0 +1,256 @@
+3053	Petrušková Mária	rozvedená	1	363
+3053	Podhorná Zuzana r. Maruniaková		1	534
+3053	Považan Ján	maloletý	1	387
+3053	Považan Ján Michal		0	344
+3053	Považan Ján-Michal		0	343
+3053	Regulolvá Mária		1	412
+3053	Regulová Anna		1	412
+3053	Regulová Juliana		1	412
+3053	Regulová Ľudmila	maloletá	1	412
+3053	Rendeková Anna r. Tašková		1	545
+3053	Rudinská Zuzana r. Námesná		1	564
+3053	Rudinský Ján		1	466,511
+3053	Rudinský Ľudevít	manž.Katarína Zambojová	1	466
+3053	Rudinský Vojtech	manž.Brigita Maruniaková	1	466
+3053	Schwarc Vojtech		1	388
+3053	Siekela Daniel		1	508
+3053	Siekela František		1	535,549
+3053	Siekela Ján		1	460,464,535,549
+3053	Siekela Jozef		0	298
+3053	Siekela Jozef	maloletý	1	535,549
+3053	Siekelová Anna r. Arvayová		1	577
+3053	Siekelová Anna r. Námesná		1	550,571
+3053	Siekelová Katarína	maloletá	1	436
+3053	Siekelová Mária r. Foltánová		0	258
+3053	Siekelová Zuzana		1	459,472
+3053	Slosiarová Juliana r. Maruniaková		1	576
+3053	Struhárová Johanna r. Rudinská		1	466
+3053	Šimková Anna r. Pacherová		1	247,430,462
+3053	Škreňo Michal		1	399
+3053	Šuba Albín		1	483
+3053	Šuba Anton		1	403
+3053	Šuba Ján		1	550
+3053	Šuba Ján	maloletý	1	483
+3053	Šubová Albína r. Pohorelecová		1	403
+3053	Šubová Anna	maloletá	1	483
+3053	Šubová Anna r. Luptáková		0	673
+3053	Šubová Antonia	maloletá	1	483
+3053	Šubová Katarína		1	450
+3053	Šubová Mária		1	450,483
+3053	Šubová Mária r. Pahorelecová		1	403
+3053	Šuška Ján		0	347
+3053	Šušková Elena		1	511,559
+3053	Šušková Ľudmila	maloletá	1	511,559
+3053	Šušková Mária		0	347,348
+3053	Tošál Jozef		0	258
+3053	Tošál Juraj	maloletý	1	428
+3053	Tošálová Anna	maloletá	1	474
+3053	Volentierová Katarína r. Luptáková		1	536
+3053	Záhorcová Mária r. Pacherová		0	258
+3053	Záhorec František		1	376
+3053	Záhorec Juraj		1	427
+3053	Záhorec Štefan		1	567
+3053	Záhorecová Katarína r. Lauková		1	482
+3053	Záhorecová Katarína r. Nováková		1	461
+3053	Záhorecová Zuzana r. Bernáthová		0	46
+3053	Záhorecová Zuzana r. Bernátová		1	433
+3053	Zamboj Ján		1	586
+3053	Zorvanová Mária r. Arvayová		1	459,472,557
+3054	Beňa Albertová Mária r. Pachotová Jassová, SR		1	704
+3054	Beňa Andrej, SR		1	7,193,782
+3054	Beňa Ján, SR		1	695
+3054	Beňa Juraj		0	46,87
+3054	Beňová Albert Katarína, SR		1	377,765
+3054	Beňová Albert Mária r. Pachotová Jašová, SR		1	43
+3054	Beňová Albertová Mária r. Pachotová Jašová, SR		1	581
+3054	Beňová Anna r. Stopková, SR		1	752
+3054	Beňová Františka r. Helcmanovská, SR		1	259,260,513,532,541
+3054	Beňová Katarína r. Kočiš Petrová		1	556,558
+3054	Beňová Katarína r. Kočišová, Petrová, SR		1	766,767
+3054	Beňová Mária, SR		1	695
+3054	Beňová Rozália, SR		1	695
+3054	Binderová Mária r. Pachotová, SR		1	19,655,709
+3054	Böhmová Anna r. Gajdoš Klamková, SR		1	322
+3054	Bőhmová Anna r. Gajdošová Klamková, SR		1	66
+3054	Budová Katarína r. Gajdoš Končulíková, SR		1	162,163
+3054	Cmorik Ondrej, SR		1	695
+3054	Čurda Štefan, SR		1	267
+3054	Čurdová Mária r. Žolnierová, SR		1	413,562,701
+3054	Danyiová Mária r. Gajdoš Klamková, SR		1	322
+3054	Danyiová Mária r. Gajdošová, SR		1	321
+3054	Deaková Mária r. Žolnírová, SR		1	562
+3054	Dičková Františka r. Gajdoš Končulíková, SR		1	162,163
+3054	Elischer Viktor, Dr., SR		1	605
+3054	Freiberger Dávid, Dr., SR		1	468
+3054	Fričová Zuzana r. Helcmanovská, SR		1	409
+3054	Fričovská Zuzana r. Helcmanovská, SR		1	743
+3054	Gajdoš - Končulíková Katarína, SR		1	514
+3054	Gajdoš Adolf		1	165,780
+3054	Gajdoš Adolf, SR		1	162,163,164,166,167,168
+3054	Gajdoš Beňa Emil, SR		1	419,420,685
+3054	Gajdoš Beňa Ján, SR		1	419,420,685
+3054	Gajdoš Beňa Štefan, SR		1	119,120
+3054	Gajdoš Beňová Franciska r. Hudáková, SR		1	100
+3054	Gajdoš Beňová Františka r. Helcmanovská, SR		1	120
+3054	Gajdoš Beňová Katarína r. Helcmanovská, SR		1	91,93,96,410
+3054	Gajdoš Juraj, SR		1	743
+3054	Gajdoš Karaffa Ján, SR		1	57
+3054	Gajdoš Karaffa Juraj, SR		1	57,586
+3054	Gajdoš Karaffa Václav, SR		1	57
+3054	Gajdoš Karaffová Katarína r. Hudáková, SR		1	525
+3054	Gajdoš Karaffová Mária r. Helcmanovská, SR		1	96,102,795
+3054	Gajdoš Karaffová Mária r. Kuchtová, SR		1	689,690
+3054	Gajdoš Karafová Katarína r. Hudáková, SR		1	702
+3054	Gajdoš Klamko Andrej, SR		1	72,689
+3054	Gajdoš Klamko Juraj, s.č. 114, Pereš, SR		0	322
+3054	Gajdoš Klamko Michal, SR		1	66,321
+3054	Gajdoš Klamko Ondrej, SR		1	52
+3054	Gajdoš Klamková Františka r. Marková, SR		1	20
+3054	Gajdoš Klamková Katarína, SR		1	64,322
+3054	Gajdoš Klamková Magda r. Gajdoš Končulíková		1	162
+3054	Gajdoš Klamková Magdaléna r. Gajdoš Končulíková, SR		1	163,168
+3054	Gajdoš Klamková Mária r. Gajdoš Šibeňáková, SR		1	639
+3054	Gajdoš Klamková Mária r. Gajdošová		0	639
+3054	Gajdoš Klamková Rozália r. Malíková, SR		1	283
+3054	Gajdoš Klamková Žofia, SR		1	52,54,55,70,72
+3054	Gajdoš Kočišová Mária r. Sasáková, SR		1	709
+3054	Gajdoš Končulík Ján, SR		1	688
+3054	Gajdoš Končulík Michal, SR		1	634
+3054	Gajdoš Končulík Ondrej	Miščo	1	621
+3054	Gajdoš Končulík Ondrej, SR		1	426,427,516
+3054	Gajdoš Končulík Štefan, SR		1	597,648
+3054	Gajdoš Končulíková Františka r. Gajdoš Liškárová, SR		1	634
+3054	Gajdoš Končulíková Katarína r. Žolnírová, SR		1	687
+3054	Gajdoš Končulíková Katarína, SR		1	413,589,739,740,771
+3054	Gajdoš Končulíková Mária r. Oravcová, SR		1	121,619,688,698
+3054	Gajdoš Končulíková Mária, SR		1	413,562,648,737
+3054	Gajdoš Končulíková Rozália r. Kočišová, SR		1	184
+3054	Gajdoš Končulíková Zuzana r. Miškovičová, SR		1	700
+3054	Gajdoš Liškár Juraj		0	481
+3054	Gajdoš Liškár Juraj, SR		1	482
+3054	Gajdoš Liškár Michal, SR		1	7,481,534,579,782
+3054	Gajdoš Liškár Ondrej, SR		1	7,534,782
+3054	Gajdoš Liškárová Anna, SR		1	481,482
+3054	Gajdoš Liškárová Františka, SR		1	481,482
+3054	Gajdoš Liškárová Mária r. Oravcová, SR		1	118,698
+3054	Gajdoš Liškárová Mária r. Sasáková, SR		1	424,425
+3054	Gajdoš Michal, SR		1	400,618,741
+3054	Gajdoš Pateková Mária, SR		1	635,637
+3054	Gajdoš Štefan, SR		1	743
+3054	Gajdošová Albína	Kočišová	1	635,654
+3054	Gajdošová Beňová Katarína r. Helcmanovská, SR		1	541
+3054	Gajdošová Beňová Mária r. Sasáková, SR		1	602
+3054	Gajdošová Eva, SR		1	105
+3054	Gajdošová Františka r. Beňová, SR		1	419,691
+3054	Gajdošová Františka r. Gajdošová Liškar, SR		1	478
+3054	Gajdošová Františka r. Hudáková, SR		1	112,113
+3054	Gajdošová Františka, SR		1	167,168
+3054	Gajdošová Karaffová Mária r. Helcmanovská, SR		1	101,541
+3054	Gajdošová Katarína r. Helcmanovská, SR		1	409,743
+3054	Gajdošová Katarína r. Končíková, SR		1	585
+3054	Gajdošová Katarína r. Sasák Targošová, SR		1	74
+3054	Gajdošová Katarína r. Sasák Targošová, ÚHORNÁ, SR		1	340
+3054	Gajdošová Katarína r. Žolnerová, SR		1	647,732
+3054	Gajdošová Katarína, SR		1	167,168
+3054	Gajdošová Klamková Katarína r. Sasáková, SR		1	66
+3054	Gajdošová Klamková Katarína, SR		1	66
+3054	Gajdošová Klamková Mária r. Gajdošová Šibeňáková		1	289
+3054	Gajdošová Klamková Mária r. Gajdošová, SR		1	289
+3054	Gajdošová Končulik Mária r. Helcmanovská, SR		1	583
+3054	Gajdošová Liškárová Františka, SR		1	475,783
+3054	Gajdošová Magda	Klamko	1	165,780
+3054	Gajdošová Magdaléna r. Žolnerová		1	761
+3054	Gajdošová Magdaléna r. Žolnerová, Smolník, SR		1	174,750
+3054	Gajdošová Magdaléna, SR		1	164,166,167
+3054	Gajdošová Mária r. Gajdoš Beňová, SR		1	120,400
+3054	Gajdošová Mária r. Gajdošová, SR		1	119
+3054	Gajdošová Mária r. Liškárová, SR		1	244
+3054	Gajdošová Mária r. Oravcová Liškárová, SR		1	124
+3054	Gajdošová Mária r. Pachotová, SR		1	166
+3054	Gajdošová Mária r. Sasáková, SR		1	19,295
+3054	Gajdošová Mária, SR		1	164,168,654
+3054	Gajdošová Rozália r. Malíková		1	168
+3054	Gajdošová Rozália r. Malíková, Drnava 13, Drnava, SR		0	596
+3054	Gajdošová Rozália r. Malíková, SR		1	428
+3054	Gajdošová Žofia r. Gajdošová, SR		1	119
+3054	Gajdošová Žofia r. Hisková, SR		1	427
+3054	Gajdošová Žofia r. Husková, SR		1	595
+3054	Goldberger Ľudovít, Dr., SR		1	267,268,351
+3054	Gubeková Františka r. Gajdoš Pateková, SR		1	577,634
+3054	Helcmanovcká Mária r. Oravcová, SR		1	429
+3054	Helcmanovská Františka, SR		1	91,447,449,450,792
+3054	Helcmanovská Rozália, SR		1	259,650
+3054	Helcmanovská Zuzana, SR		1	91,93,96,410,541
+3054	Helcmanovská Žofia, SR		1	91,93,96,410,541
+3054	Helcmanovský Andrej, SR		1	259,633
+3054	Helcmanovský František, SR		1	448
+3054	Helcmanovský František, Úhorná 30, Úhorná, PSČ 055 66, SR		0	96
+3054	Helcmanovský Ján, SR		1	259,260
+3054	Helcmanovský Štefan, SR		1	96,513
+3054	Hudák Ján, SR		1	150,172,173
+3054	Hudák Štefan, SR		1	113
+3054	Hudáková Anna, SR		1	113
+3054	Hudáková Katarína r. Helcmanovská, SR		1	149
+3054	Hudáková Katarína r. Žolnerová, Úhorná 48, Úhorná, PSČ 055 66, SR		0	174
+3054	Hudáková Katarína, SR		1	112,114
+3054	Hudáková Mária r. Sasáková, SR		1	656
+3054	Hudáková Mária r. Sasáková, Úhorná, č. 135, SR		0	19
+3054	Huňadiová Mária r. Žolnírová, SR		1	312
+3054	Huska Ján, SR		1	570,611
+3054	Husková Katarína r. Malíková, Lisov 17, Vlkovice, SR		0	596
+3054	Husková Katarína r. Malíková, SR		1	95,168,428,449
+3054	Husková Katarína r. Pachotová		1	235
+3054	Husková Katarína r. Pachotová, SR		1	552,570
+3054	Jagodová Mária r. Čurdová		1	509
+3054	Jagodová Mária r. Čurdová, SR		1	212,591
+3054	Jalčová Mária r. Tepličková, SR		1	101
+3054	Jass Andrej, SR		1	704
+3054	Jass Juraj, SR		1	704
+3054	Jaš Juraj, SR		1	43
+3054	Jaš Ondrej, SR		1	43
+3054	Jašová Anna r. Oravcová, SR		1	118,124
+3054	Jäger Alfréd, SR		1	583
+3054	Jägerová Magdaléna r. Pachotová, SR		1	583
+3054	Karafa Andrej, SR		1	620
+3054	Karafa Michal, SR		1	200
+3054	Karafa Ondrej		1	652
+3054	Karafa Ondrej, SR		1	541,642
+3054	Karaffová Katarína r. Purdová, SR		1	170
+3054	Karaffová Mária r. Kuchtová, SR		1	243
+3054	Karafová Katarína r. Končulová, SR		1	625
+3054	Karafová Mária r. Kuchtová, SR		1	239,242,470
+3054	Klamko Michal, SR		1	726
+3054	Klamková Františka r. Marková, SR		1	726
+3054	Klamková Rozália r. Malíková		1	449
+3054	Klementová Barbora r. Gajdošová, SR		1	743
+3054	Kočiš Ján, SR		1	415
+3054	Kočiš Petrová Katarína r. Oravcová, SR		1	698
+3054	Kočiš Petrová Katarína, SR		1	718
+3054	Kočiš Štefan		1	46
+3054	Kočiš Štefan, SR		1	87,335,468,575
+3054	Kočiš Tibor, SR		1	101,222,223,541
+3054	Kočišová Alica, SR		1	101,222,223,541
+3054	Kolesár Eduard, SR		1	599
+3054	Kolesár Ján, SR		1	272
+3054	Kolesár Juraj, SR		1	270
+3054	Kolesár Michal, SR		1	270,272
+3054	Kolesár Štefan, SR		1	270,272
+3054	Kolesárová Mária r. Žolnerová		1	761
+3054	Kolesárová Mária r. Žolnerová, Smolník, Smolník, PSČ 055 66, SR		0	96
+3054	Kolesárová Mária r. Žolnerová, Smolník, SR		1	93,174,750
+3054	Kolesárová Mária r. Žolnírová, SR		1	91,312
+3054	Končík Ján, SR		1	635,654
+3054	Končík Štefan, SR		1	635,654
+3054	Kučerová Anna r. Helcmanovská, SR		1	91,93,96,409,410,541,743
+3054	Kuchta Ján, SR		1	43,704
+3054	Kuchta Ján, SR	st	1	239
+3054	Kuchta Ladislav, SR		1	43,704
+3054	Kuchtová Alžbeta, SR		1	43,704
+3054	Kuchtová Helena, SR		1	43,704
+3054	Kuchtová Jolana, SR		1	43,704
+3054	Lešková Anna r. Čurdová, SR		1	267
+3054	Macková Katarína r. Kočišová		1	156
+3054	Machová Katarína r. Kočišová		1	46,759
+3054	Machová Katarína r. Kočišová, SR		1	87,152,153,155,775,796,797
+3054	Malík Andrej, SR		1	423
+3054	Malík Ján, SR		1	423
