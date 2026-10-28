@@ -9,7 +9,6 @@ const translations = {
         "nav.about": "O nás",
         "nav.services": "Služby",
         "nav.articles": "Články",
-        "nav.owners": "Vyhľadávanie",
         "nav.contact": "Kontakt",
 
         // Page titles
@@ -18,7 +17,6 @@ const translations = {
         "title.services": "Služby – Noveris Legal",
         "title.contact": "Kontakt – Noveris Legal",
         "title.privacy": "Ochrana osobných údajov – Noveris Legal",
-        "title.owners": "Nezistení vlastníci – Noveris Legal",
         "privacy.back": "Späť na Kontakt",
 
         // ===== HOME =====
@@ -150,7 +148,6 @@ const translations = {
         "nav.about": "About",
         "nav.services": "Services",
         "nav.articles": "Articles",
-        "nav.owners": "Owner search",
         "nav.contact": "Contact",
 
         // Page titles
@@ -159,7 +156,6 @@ const translations = {
         "title.services": "Services – Noveris Legal",
         "title.contact": "Contact – Noveris Legal",
         "title.privacy": "Privacy Policy – Noveris Legal",
-        "title.owners": "Unknown land owners – Noveris Legal",
         "privacy.back": "Back to Contact",
 
         // ===== HOME =====

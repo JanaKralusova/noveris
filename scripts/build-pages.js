@@ -116,22 +116,6 @@ function applyLatest(html, lang, copy, articles) {
     .replace('{{latest:tiles}}', () => latest(articles, 3).map((a) => tile(a, { level: 3, lang })).join('\n'));
 }
 
-// Owners page: counts and source line come from the index written by build-owners-data.js
-// (stats are omitted when the index has not been generated yet).
-function applyOwners(html) {
-  const cfg = JSON.parse(fs.readFileSync(path.join(ROOT, 'content', 'owners.json'), 'utf8'));
-  const metaFile = path.join(ROOT, 'data', 'nezisteni-vlastnici', 'meta.json');
-  const meta = fs.existsSync(metaFile) ? JSON.parse(fs.readFileSync(metaFile, 'utf8')) : null;
-  const nf = (n) => n.toLocaleString('sk-SK').replace(/\s/g, '\u00a0');
-  const [y, m, d] = cfg.asOf.split('-').map(Number);
-  const asOf = `${d}. ${m}. ${y}`.replace(/ /g, '\u00a0');
-  const stats = meta ? `${nf(meta.rows)} záznamov · ${nf(meta.areas)} katastrálnych území · stav k ${asOf}` : `stav k ${asOf}`;
-  return html
-    .replace('{{owners:stats}}', stats)
-    .replace(/\{\{owners:asOf\}\}/g, asOf)
-    .replace('{{owners:sourcePage}}', layout.esc(cfg.sourcePage));
-}
-
 function applyUrls(html, lang, file) {
   return html.replace(/\{\{url:([a-z]+)\}\}/g, (_, id) => {
     if (id === 'articles') return '/clanky/';
@@ -181,7 +165,6 @@ function render(id, lang, ctx) {
   main = applyLinkedIn(main, ctx.config);
   main = applyLatest(main, lang, ctx.copy, ctx.articles);
   main = applyUrls(main, lang, file);
-  if (id === 'owners') main = applyOwners(main);
 
   const data = (ctx.pages[id] || {})[lang];
   if (!data || !data.title || !data.description) fail(`content/pages.json: missing title/description for ${id}/${lang}`);
@@ -216,7 +199,7 @@ function render(id, lang, ctx) {
     description: data.description,
     keywords: data.keywords,
     canonical,
-    robots: is404 || (p && p.hidden) ? 'noindex' : undefined,
+    robots: is404 ? 'noindex' : undefined,
     alternates: hasPair ? layout.alternatesFor(id) : [],
     og: {
       type: 'website',
@@ -232,12 +215,9 @@ function render(id, lang, ctx) {
     rawHead: id === 'home' && lang === 'sk' ? HASH_REDIRECT : undefined,
   };
 
-  let bodyScripts = '';
-  if (id === 'contact') {
-    bodyScripts = fs.readFileSync(path.join(ROOT, 'templates/partials/contact-form.js'), 'utf8').replace('__MSG__', JSON.stringify(CONTACT_MSG[lang], null, 8).replace(/\n}/, '\n    }'));
-  } else if (id === 'owners') {
-    bodyScripts = fs.readFileSync(path.join(ROOT, 'templates/partials/owners-search.js'), 'utf8');
-  }
+  const bodyScripts = id === 'contact'
+    ? fs.readFileSync(path.join(ROOT, 'templates/partials/contact-form.js'), 'utf8').replace('__MSG__', JSON.stringify(CONTACT_MSG[lang], null, 8).replace(/\n}/, '\n    }'))
+    : '';
 
   return layout.renderDocument({
     generated: GENERATED,

@@ -8,7 +8,6 @@
     "watch:css": "npx tailwindcss -i tailwind-input.css -o tailwind-output.css --watch",
     "build:pages": "node scripts/build-pages.js",
     "build:articles": "node scripts/build-articles.js",
-    "build:owners": "node --max-old-space-size=6144 scripts/build-owners-data.js",
     "build:site": "node scripts/build.js",
     "build": "npm run build:css && npm run build:site"
   },

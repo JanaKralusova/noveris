@@ -22,15 +22,12 @@ const OG_ALT = {
 const SITEMAP_LASTMOD = '2026-10-15';
 
 // Page ids -> URL per language. A page without an `en` entry has no English counterpart.
-// `hidden: true` = built and reachable by URL, but kept out of the nav, sitemap.xml and llms.txt
-// and served with noindex. To launch such a page, delete `hidden: true` and rebuild.
 const PAGES = {
   home:     { sk: '/',                          en: '/en/',          priority: '1.0', changefreq: 'monthly' },
   about:    { sk: '/o-nas/',                    en: '/en/about/',    priority: '0.8', changefreq: 'monthly' },
   services: { sk: '/sluzby/',                   en: '/en/services/', priority: '0.9', changefreq: 'monthly' },
   contact:  { sk: '/kontakt/',                  en: '/en/contact/',  priority: '0.8', changefreq: 'monthly' },
   privacy:  { sk: '/ochrana-osobnych-udajov/',                       priority: '0.3', changefreq: 'yearly' },
-  owners:   { sk: '/nezisteni-vlastnici/',                           priority: '0.8', changefreq: 'monthly' },
 };
 const ARTICLES_URL = '/clanky/';
 
