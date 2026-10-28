@@ -69,6 +69,10 @@
                 formStatus.className = 'mt-6 font-body text-sm text-green-700';
                 formStatus.classList.remove('hidden');
                 contactForm.reset();
+                // analytics:start
+                // Not counted from a test/preview host (or with ?test), same rule as the owners form.
+                if (/^(www\.)?noveris\.sk$/.test(location.hostname) && !/[?&]test(&|=|$)/.test(location.search)) track('contact-form-sent', { lang: document.documentElement.lang });
+                // analytics:end
             } else {
                 formStatus.textContent = MSG.failure;
                 formStatus.className = 'mt-6 font-body text-sm text-error';

@@ -256,11 +256,19 @@
     b.setAttribute('aria-pressed', on ? 'true' : 'false');
   }
 
+  // analytics:start
+  // Counts only, never the query text or any name (personal data).
+  function bucket(n) { return n === 0 ? '0' : n <= 10 ? '1-10' : n <= 100 ? '11-100' : n <= 1000 ? '101-1000' : '1000+'; }
+  var searchDone = false; // set by run(): the next show() is the first render of a fresh search
+  // analytics:end
   function setSelected(rec, on) {
     if (on) selected.set(rec.id, { rec: rec, query: query }); else selected.delete(rec.id);
     var card = resultsEl.querySelector('[data-id="' + rec.id + '"]');
     if (card) paintPick(card, on);
     if (on) showForm();
+    // analytics:start
+    if (on) track('owner-pick');
+    // analytics:end
     renderPanel();
   }
 
@@ -428,6 +436,9 @@
     return p.then(function (list) {
       if (mySeq !== seq) return;
       ids = list;
+      // analytics:start
+      if (searchDone) { searchDone = false; track('owner-search', { results: bucket(ids.length), area: !!area, lv: nums.size > 0 }); }
+      // analytics:end
       shown = 0; resultsEl.innerHTML = ''; visible.clear();
       moreBtn.classList.add('hidden');
       if (!ids.length) {
@@ -480,6 +491,9 @@
         facetIds = list;
         renderAreas(); // drops the selected area when it has no results any more
         syncUrl();
+        // analytics:start
+        searchDone = true;
+        // analytics:end
         return show(mySeq);
       });
     }).catch(failed(mySeq));
@@ -487,6 +501,10 @@
 
   areaSel.addEventListener('change', function () {
     area = areaSel.value;
+    // analytics:start
+    searchDone = false;
+    track('owner-area-filter');
+    // analytics:end
     syncUrl();
     var mySeq = ++seq;
     show(mySeq).catch(failed(mySeq));
@@ -568,6 +586,9 @@
           form.reset();
           msgEl.value = '';
           form.classList.add('hidden');
+          // analytics:start
+          if (!isTest) track('owner-request-sent', { records: items.length });
+          // analytics:end
           thanks.classList.remove('hidden');
           thanks.focus();
         } else {

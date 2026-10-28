@@ -60,6 +60,8 @@ function loadSiteConfig() {
     sameAs: { organization: list((c.sameAs || {}).organization), person: list((c.sameAs || {}).person) },
     googleSiteVerification: String(c.googleSiteVerification || '').trim(),
     bingSiteVerification: String(c.bingSiteVerification || '').trim(),
+    umamiWebsiteId: String(c.umamiWebsiteId || '').trim(),
+    umamiScriptUrl: String(c.umamiScriptUrl || '').trim(),
   };
 }
 

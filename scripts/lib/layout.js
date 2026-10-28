@@ -8,7 +8,7 @@
 
 const fs = require('fs');
 const path = require('path');
-const { ROOT, SITE, SITE_NAME, PAGES, ARTICLES_URL, abs, loadTranslations, checkIcons } = require('./site');
+const { ROOT, SITE, loadSiteConfig, SITE_NAME, PAGES, ARTICLES_URL, abs, loadTranslations, checkIcons } = require('./site');
 
 const PRELOAD_FONTS = ['newsreader.woff2', 'manrope.woff2', 'material-symbols-outlined-subset.woff2'];
 const ROBOTS = 'index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1';
@@ -53,6 +53,37 @@ const SPECULATION_RULES = {
     eagerness: 'moderate',
   }],
 };
+
+// Cookieless Umami analytics. Emitted only when umamiWebsiteId is set in content/site.config.json; with it empty
+// the pages carry no analytics markup at all. data-domains keeps local / tunnel / preview hosts out of the stats.
+let analyticsCache;
+function analytics() {
+  if (analyticsCache !== undefined) return analyticsCache;
+  const { umamiWebsiteId: id, umamiScriptUrl: url } = loadSiteConfig();
+  if (id && !/^[0-9a-f-]{36}$/i.test(id)) throw new Error('site.config.json: umamiWebsiteId is not a UUID.');
+  analyticsCache = id ? { id, url } : null;
+  return analyticsCache;
+}
+
+// Page scripts call track(); it is a no-op when Umami is absent or blocked. Page scripts only reference it in
+// `analytics:start/end` blocks, which build-pages.js drops again when analytics is off.
+const ANALYTICS_HELPER = `function track(name, data) { if (window.umami) umami.track(name, data); }
+document.addEventListener('click', function (e) {
+  var a = e.target.closest && e.target.closest('a[href^="tel:"], a[href^="mailto:"]');
+  if (a) track(a.protocol === 'tel:' ? 'phone-click' : 'email-click', { page: location.pathname });
+});`;
+
+// The page view is sent by hand: pages prerendered by SPECULATION_RULES on hover are counted only once shown.
+const PAGEVIEW = "document.prerendering ? document.addEventListener('prerenderingchange', function () { umami.track(); }, { once: true }) : umami.track()";
+
+function analyticsHead() {
+  const a = analytics();
+  if (!a) return [];
+  return [
+    `<script defer src="${esc(a.url)}" data-website-id="${esc(a.id)}" data-domains="noveris.sk,www.noveris.sk" data-auto-track="false" onload="${PAGEVIEW}"></script>`,
+    `<script>\n${ANALYTICS_HELPER}\n</script>`,
+  ];
+}
 
 function jsonLd(obj) {
   return JSON.stringify(obj, null, 2).replace(/</g, '\\u003c');
@@ -130,7 +161,8 @@ function renderHead(lang, h) {
     ...PRELOADS,
     ...(h.lcpImage ? [`<link rel="preload" as="image" type="image/avif" imagesrcset="${h.lcpImage.srcset}" imagesizes="${h.lcpImage.sizes}" fetchpriority="high"/>`] : []),
     `<style>${inlineCss()}</style>`,
-    `<script type="speculationrules">${JSON.stringify(SPECULATION_RULES)}</script>`);
+    `<script type="speculationrules">${JSON.stringify(SPECULATION_RULES)}</script>`,
+    ...analyticsHead());
 
   if (h.jsonlds && h.jsonlds.length) {
     lines.push('', '<!-- Structured Data (JSON-LD) -->');
@@ -293,4 +325,4 @@ function alternatesFor(id) {
   ];
 }
 
-module.exports = { SITE, esc, jsonLd, ROBOTS, LOCALES, renderHead, renderHeader, renderFooter, renderDocument, alternatesFor };
+module.exports = { SITE, analytics, esc, jsonLd, ROBOTS, LOCALES, renderHead, renderHeader, renderFooter, renderDocument, alternatesFor };

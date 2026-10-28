@@ -232,11 +232,17 @@ function render(id, lang, ctx) {
     rawHead: id === 'home' && lang === 'sk' ? HASH_REDIRECT : undefined,
   };
 
+  // Page scripts keep their analytics calls between `// analytics:start` and `// analytics:end` lines;
+  // they are dropped unless analytics is enabled, so the pages stay byte-identical without it.
+  const readScript = (f) => {
+    const src = fs.readFileSync(path.join(ROOT, 'templates/partials', f), 'utf8');
+    return layout.analytics() ? src : src.replace(/^[ \t]*\/\/ analytics:start\n[\s\S]*?^[ \t]*\/\/ analytics:end\n/gm, '');
+  };
   let bodyScripts = '';
   if (id === 'contact') {
-    bodyScripts = fs.readFileSync(path.join(ROOT, 'templates/partials/contact-form.js'), 'utf8').replace('__MSG__', JSON.stringify(CONTACT_MSG[lang], null, 8).replace(/\n}/, '\n    }'));
+    bodyScripts = readScript('contact-form.js').replace('__MSG__', JSON.stringify(CONTACT_MSG[lang], null, 8).replace(/\n}/, '\n    }'));
   } else if (id === 'owners') {
-    bodyScripts = fs.readFileSync(path.join(ROOT, 'templates/partials/owners-search.js'), 'utf8');
+    bodyScripts = readScript('owners-search.js');
   }
 
   return layout.renderDocument({
