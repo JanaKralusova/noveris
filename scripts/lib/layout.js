@@ -159,6 +159,7 @@ function renderHead(lang, h) {
     '<link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32.png"/>',
     '<link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png"/>',
     ...PRELOADS,
+    ...(h.italicFont ? ['<link rel="preload" href="/assets/fonts/newsreader-italic.woff2" as="font" type="font/woff2" crossorigin/>'] : []),
     ...(h.lcpImage ? [`<link rel="preload" as="image" type="image/avif" imagesrcset="${h.lcpImage.srcset}" imagesizes="${h.lcpImage.sizes}" fetchpriority="high"/>`] : []),
     `<style>${inlineCss()}</style>`,
     `<script type="speculationrules">${JSON.stringify(SPECULATION_RULES)}</script>`,
@@ -314,6 +315,9 @@ function renderDocument({ generated, lang, active, switchTo, head, main, bodyScr
   // The eager (LCP) <picture> is preloaded with the very same AVIF srcset/sizes, so the browser fetches the candidate it will use.
   const m = /<picture>\s*<source type="image\/avif" srcset="([^"]*)" sizes="([^"]*)"\/>\s*<img [^>]*fetchpriority="high"/.exec(main);
   if (m) head = { ...head, lcpImage: { srcset: m[1], sizes: m[2] } };
+  // The italic Newsreader is only preloaded when the heading above the fold uses it (an italic span up to the first </h1>).
+  const h1End = main.indexOf('</h1>');
+  if (h1End !== -1 && /class="[^"]*\bitalic\b/.test(main.slice(0, h1End))) head = { ...head, italicFont: true };
   return `<!DOCTYPE html>
 ${generated}
 <html class="light" lang="${lang}">

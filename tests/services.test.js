@@ -133,7 +133,9 @@ for (const p of EN) {
     for (const s of skShape.sections) if (s.type === 'contactBand') s.eyebrow = 'T';
     assert.deepStrictEqual(shape(en), skShape);
     const meta = site.loadPagesData()[p.id].en;
-    assert.strictEqual(meta.title, `${en.sections[0].title} | Noveris Legal`);
+    // the " | Noveris Legal" suffix is dropped when it would push the title over 65 characters
+    const full = `${en.sections[0].title} | Noveris Legal`;
+    assert.strictEqual(meta.title, full.length > 65 ? en.sections[0].title : full);
     assert.ok(meta.description && meta.description.length <= 160, `description length ${meta.description && meta.description.length}`);
   });
 }

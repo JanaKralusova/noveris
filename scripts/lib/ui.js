@@ -10,7 +10,7 @@
 const { esc } = require('./layout');
 const { picture } = require('./images');
 
-const VARIANTS = ['400', '800', '1200', ''];
+const VARIANTS = ['400', '560', '800', '1200', ''];
 
 // A text value: plain strings are escaped, { html } is trusted.
 const txt = (v) => (v && typeof v === 'object' && 'html' in v ? String(v.html) : esc(v == null ? '' : v));
@@ -32,6 +32,7 @@ function photoImg(photo, cls, eager) {
     variants: photo.variants || VARIANTS,
     fallback: photo.fallback,
     eager: eager !== undefined ? eager : !!photo.eager,
+    high: photo.high,
     cls,
     root: photo.root,
   });
@@ -149,9 +150,9 @@ const NUM = 'grid h-11 w-11 shrink-0 place-items-center rounded-pill bg-sand-dee
 function stepsH(steps) {
   const cols = steps.map((s, i) => {
     const arrow = i < steps.length - 1
-      ? `<span class="hidden shrink-0 self-start pt-3 text-muted md:block">${icon('arrow_forward', 'text-[20px]')}</span>` : '';
-    return `<li class="flex flex-1 items-start gap-4"><span class="${NUM}">${num(i)}</span>`
-      + `<div><h3 class="font-headline text-[1.25rem] leading-snug text-ink md:text-[1.375rem]">${esc(s.title)}</h3><p class="mt-2 text-[14px] leading-[1.6] text-body md:text-[15px]">${txt(s.text)}</p></div></li>${arrow}`;
+      ? `<span class="absolute -right-[22px] top-3 hidden text-muted md:block" aria-hidden="true">${icon('arrow_forward', 'text-[20px]')}</span>` : '';
+    return `<li class="relative flex flex-1 items-start gap-4"><span class="${NUM}">${num(i)}</span>`
+      + `<div><h3 class="font-headline text-[1.25rem] leading-snug text-ink md:text-[1.375rem]">${esc(s.title)}</h3><p class="mt-2 text-[14px] leading-[1.6] text-body md:text-[15px]">${txt(s.text)}</p></div>${arrow}</li>`;
   });
   return `<ol class="flex flex-col gap-8 md:flex-row md:gap-6">${cols.join('')}</ol>`;
 }

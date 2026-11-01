@@ -135,7 +135,8 @@ const AREAS = [
   { id: 'obchodne-pravo', icon: 'business_center', photo: 's_biz' },
   { id: 'riesenie-sporov', icon: 'gavel', photo: 'justice2' },
 ];
-const CARD_SIZES = '(min-width: 1024px) 17vw, (min-width: 640px) 34vw, 100vw';
+// Phone cards are declared 320px wide so a 1.75x phone picks the 560w file (see SIZES in build-services.js).
+const CARD_SIZES = '(min-width: 1024px) 17vw, (min-width: 640px) 34vw, 320px';
 
 // Card link: the page of the language when it is visible, otherwise the Slovak page (labelled as such).
 function areaLink(id, lang, t) {
@@ -316,6 +317,33 @@ function render(id, lang, ctx) {
 
   // Page scripts keep their analytics calls between `// analytics:start` and `// analytics:end` lines;
   // they are dropped unless analytics is enabled, so the pages stay byte-identical without it.
+  // Safe minification of an inline script: drops block comments and whole-line comments, trailing `// ...`
+  // comments (only when the code before them has balanced quotes), blank lines and leading indentation.
+  // No identifier mangling and every remaining line break stays, so ASI behaves exactly as before.
+  const minifyInline = (src) => {
+    const balanced = (code) => ['\'', '"'].every((q) => (code.replace(/\\./g, '').split(q).length - 1) % 2 === 0);
+    let inBlock = false;
+    const out = [];
+    for (let line of src.split('\n')) {
+      if (inBlock) {
+        const end = line.indexOf('*/');
+        if (end === -1) continue;
+        inBlock = false;
+        line = line.slice(end + 2);
+      }
+      let t = line.trim();
+      if (t.startsWith('/*')) {
+        const end = t.indexOf('*/', 2);
+        if (end === -1) { inBlock = true; continue; }
+        t = t.slice(end + 2).trim();
+      }
+      if (t.startsWith('//')) continue;
+      const m = /\s\/\/\s/.exec(t);
+      if (m && balanced(t.slice(0, m.index))) t = t.slice(0, m.index).trimEnd();
+      if (t) out.push(t);
+    }
+    return out.join('\n');
+  };
   const readScript = (f) => {
     const src = fs.readFileSync(path.join(ROOT, 'templates/partials', f), 'utf8');
     return layout.analytics() ? src : src.replace(/^[ \t]*\/\/ analytics:start\n[\s\S]*?^[ \t]*\/\/ analytics:end\n/gm, '');
@@ -324,7 +352,7 @@ function render(id, lang, ctx) {
   if (id === 'contact') {
     bodyScripts = readScript('contact-form.js').replace('__MSG__', JSON.stringify(CONTACT_MSG[lang], null, 8).replace(/\n}/, '\n    }'));
   } else if (id === 'owners') {
-    bodyScripts = readScript('owners-search.js');
+    bodyScripts = minifyInline(readScript('owners-search.js'));
   }
 
   return layout.renderDocument({

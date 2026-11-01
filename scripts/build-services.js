@@ -39,11 +39,13 @@ const SIZES = {
   hero: '(min-width: 1024px) 52vw, 100vw',
   splitBand: '(min-width: 1024px) 48vw, 100vw',
   contactBand: '(min-width: 1024px) 50vw, 1px',
-  cardSide: '(min-width: 1024px) 17vw, (min-width: 640px) 34vw, 100vw',
-  cardTop: '(min-width: 1024px) 33vw, (min-width: 640px) 50vw, 100vw',
-  cardCompact: '(min-width: 1024px) 20vw, (min-width: 640px) 50vw, 100vw',
+  // Card photos on phones are lazy and decorative: they are declared as 320px wide (a card is really viewport - 50px),
+  // so a 1.75x phone picks the 560w file (about 1.5x density) instead of 800w, which keeps the hero's bandwidth.
+  cardSide: '(min-width: 1024px) 17vw, (min-width: 640px) 34vw, 320px',
+  cardTop: '(min-width: 1024px) 33vw, (min-width: 640px) 50vw, 320px',
+  cardCompact: '(min-width: 1024px) 20vw, (min-width: 640px) 50vw, 320px',
   splitTextList: '(min-width: 768px) 50vw, 100vw',
-  relatedBand: '(min-width: 640px) 32vw, 100vw',
+  relatedBand: '(min-width: 640px) 32vw, 320px',
 };
 
 function resolvePhoto(p, sizes, eager) {

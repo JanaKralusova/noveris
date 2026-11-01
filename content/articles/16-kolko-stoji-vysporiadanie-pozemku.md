@@ -5,7 +5,7 @@
   "title": "Koľko stojí vysporiadanie pozemku?",
   "excerpt": "Cena za vysporiadanie pozemku sa neodvíja iba od jeho výmery. Odkúpenie podielu od jedného vlastníka môže vyžadovať podstatne menej krokov než usporiadanie malej záhrady, pri ktorej treba dohľadať dedičov po viacerých generáciách.",
   "seoTitle": "Koľko stojí vysporiadanie pozemku? | Noveris Legal",
-  "description": "Koľko stojí vysporiadanie pozemku: od čoho závisí cena, s akými výdavkami na právne služby, geodeta, znalca a poplatky počítať a kedy je dohoda lacnejšia ako súd.",
+  "description": "Koľko stojí vysporiadanie pozemku: s akými výdavkami na právne služby, geodeta, znalca a poplatky počítať a kedy je dohoda lacnejšia ako súd.",
   "tags": [
     "vysporiadanie pozemkov",
     "náklady na vysporiadanie",

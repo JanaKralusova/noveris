@@ -1,12 +1,13 @@
 #!/bin/bash
 # Usage: scripts/make-photo.sh <source.jpg> <name> [outdir]
-# Writes <name>{-400,-800,-1200,}.{jpg,avif} (the unsuffixed file is 1600 px wide) with sips.
+# Writes <name>{-400,-560,-800,-1200,}.{jpg,avif} (the unsuffixed file is 1600 px wide) with sips.
 # Each file is resized and cropped in one sips pass to an even height (some odd heights make Chrome
 # render the AVIF blank); sources taller than 4:3 are centre-cropped to 4:3. Quality starts at
 # JPEG 70 / AVIF 55 and steps down per file until the size budget (KB) is met:
-#   width    400  800  1200  1600
-#   JPEG      35   90   180   300
-#   AVIF      25   60   110   180
+#   width    400  560  800  1200  1600
+#   JPEG      35   60   90   180   300
+#   AVIF      25   40   60   110   180
+# ONLY=560 regenerates just that width (e.g. from an existing full-size file as <source>).
 set -euo pipefail
 src="$1"; name="$2"
 out="${3:-$(cd "$(dirname "$0")/.." && pwd)/assets/photos/services}"
@@ -26,9 +27,10 @@ encode() {
   done
 }
 
-jb=(35 90 180 300); ab=(25 60 110 180); ws=(400 800 1200 1600)
-for i in 0 1 2 3; do
+jb=(35 60 90 180 300); ab=(25 40 60 110 180); ws=(400 560 800 1200 1600)
+for i in 0 1 2 3 4; do
   w=${ws[$i]}
+  [ -z "${ONLY:-}" ] || [ "$ONLY" = "$w" ] || continue
   suffix="-$w"; [ "$w" = 1600 ] && suffix=""
   h=$(( w * sh / sw ))
   max=$(( w * 3 / 4 ))

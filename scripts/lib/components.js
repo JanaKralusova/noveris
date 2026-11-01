@@ -21,9 +21,9 @@ function articleImage(a, { sizes, eager, cls, root }) {
 
 // level: heading level of the tile title (2 when the tile grid directly follows the H1).
 // lang: page language; tiles always link to Slovak articles, so they are marked lang="sk" on other pages.
-function tile(a, { level = 3, lang = 'sk', root, eager = false } = {}) {
+function tile(a, { level = 3, lang = 'sk', root, eager = false, high = eager } = {}) {
   return articleCard({
-    photo: { src: `/assets/articles/${a.image}`, variants: ARTICLE_VARIANTS, fallback: '800', sizes: TILE_SIZES, alt: a.imageAlt, eager, root },
+    photo: { src: `/assets/articles/${a.image}`, variants: ARTICLE_VARIANTS, fallback: '800', sizes: TILE_SIZES, alt: a.imageAlt, eager, high, root },
     title: a.title,
     text: a.excerpt,
     href: `/clanky/${a.slug}/`,

@@ -324,7 +324,7 @@ ${ui.eyebrow(l.label)}
 <p class="mt-5 text-[16px] leading-[1.65] text-body md:text-[17px]">${esc(l.intro)}</p>
 </div></div></section>
 ${ui.section(`<div class="grid gap-5 md:grid-cols-2 lg:grid-cols-3 lg:gap-6">
-${articles.map((a, i) => tile(a, { level: 2, root: ctx.outRoot, eager: i === 0 })).join('\n')}
+${articles.map((a, i) => tile(a, { level: 2, root: ctx.outRoot, eager: i < 3, high: i === 0 })).join('\n')}
 </div>`, { pad: 'pb-12 md:pb-16' })}
 </main>`;
   return renderDocument({ generated: GENERATED, lang: 'sk', active: 'articles', switchTo: null, head: headData, main: stripMain(main) });

@@ -60,8 +60,8 @@
   },
   "owners": {
     "sk": {
-      "title": "Nezistení vlastníci pozemkov – vyhľadávanie v zozname SPF | Noveris Legal",
-      "description": "Vyhľadajte predkov v zozname nezistených vlastníkov pozemkov Slovenského pozemkového fondu (4,95 mil. záznamov, stav k 30. 6. 2026). Bez sťahovania súborov. Pomôžeme vám s vysporiadaním."
+      "title": "Nezistení vlastníci pozemkov – vyhľadávanie v zozname SPF",
+      "description": "Vyhľadajte predkov v zozname nezistených vlastníkov pozemkov SPF (4,95 mil. záznamov, stav k 30. 6. 2026). Bez sťahovania súborov. Pomôžeme vám s vysporiadaním."
     }
   },
   "vysporiadanie-pozemkov": {
@@ -80,7 +80,7 @@
       "description": "Pomáhame vlastníkom stavieb, podnikateľom a obchodným spoločnostiam pri vysporiadaní pozemkov pod stavbami a v areáloch."
     },
     "en": {
-      "title": "Settlement of land under buildings and within sites | Noveris Legal",
+      "title": "Settlement of land under buildings and within sites",
       "description": "We help building owners, entrepreneurs and companies to settle land under buildings and within sites."
     }
   },

@@ -6,7 +6,7 @@
  * Types "Hanušk", expects 360 results, picks the first card (it must appear in the panel) and, on desktop,
  * checks that the panel submit button is reachable (inside the viewport) after scrolling to the bottom.
  */
-const { requireServer, launchChrome } = require('./common');
+const { requireServer, launchChrome, connectPage } = require('./common');
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 const URL = process.argv[2] || 'http://127.0.0.1:8765/nezisteni-vlastnici/?q=Hanušk&test';
 const MODE = process.argv[3] || 'both';
@@ -16,19 +16,13 @@ async function run(mode, port) {
   await requireServer(new globalThis.URL(URL).origin);
   const ch = launchChrome(port, 'owners-e2e');
   const fails = [];
+  let cdp;
   try {
-    await sleep(4000);
-    const tabs = await (await fetch(`http://localhost:${port}/json`)).json();
-    const ws = new WebSocket(tabs.find((t) => t.type === 'page').webSocketDebuggerUrl);
-    await new Promise((r) => { ws.onopen = r; });
-    let id = 0; const pend = new Map(); const logs = [];
-    ws.onmessage = (e) => {
-      const m = JSON.parse(e.data);
-      if (m.id && pend.has(m.id)) { pend.get(m.id)(m); pend.delete(m.id); }
+    const logs = [];
+    cdp = await connectPage(port, (m) => {
       if (m.method === 'Runtime.exceptionThrown') logs.push('EXC ' + JSON.stringify(m.params.exceptionDetails.exception?.description || m.params.exceptionDetails.text));
-    };
-    const send = (method, params = {}) => new Promise((r) => { const i = ++id; pend.set(i, r); ws.send(JSON.stringify({ id: i, method, params })); });
-    const ev = async (x) => (await send('Runtime.evaluate', { expression: x, awaitPromise: true, returnByValue: true })).result.result?.value;
+    });
+    const { send, ev } = cdp;
     await send('Runtime.enable'); await send('Page.enable');
     await send('Emulation.setDeviceMetricsOverride', mobile ? { width: 390, height: 844, deviceScaleFactor: 3, mobile: true } : { width: 1440, height: 900, deviceScaleFactor: 1, mobile: false });
     if (mobile) {
@@ -68,8 +62,10 @@ async function run(mode, port) {
       console.log(`[${mode}] submit rect mid-page:`, JSON.stringify(r2));
     }
     if (logs.length) { console.log(logs.join('\n')); fails.push(`${mode}: page exceptions`); }
-    ws.close();
-  } finally { ch.cleanup(); }
+  } finally {
+    if (cdp) await cdp.close();
+    ch.cleanup();
+  }
   return fails;
 }
 

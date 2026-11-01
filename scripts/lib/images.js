@@ -44,10 +44,11 @@ function esc(v) {
  *         variants array of suffixes in ascending order, "" meaning the full-size file
  *                  (e.g. ["400", "800", "1200", ""] -> -400, -800, -1200 and the 1600w original);
  *       art       { media, variants } extra <source media> candidates (variants as above);
+ *       eager     loading=eager (+ fetchpriority=high unless `high: false`, then it is neither preloaded nor boosted)
  *       fallback  suffix used for the default <img src> (the eager image falls back to the largest variant
  *                  unless `fallback` is given).
  */
-function picture({ src, small = '480', variants, art, fallback, sizes, alt, eager = false, cls = '', style = '', root = ROOT }) {
+function picture({ src, small = '480', variants, art, fallback, sizes, alt, eager = false, high = eager, cls = '', style = '', root = ROOT }) {
   const sufs = variants || [small, ''];
   const dims = (suffix) => {
     const f = `${src}${suffix ? '-' + suffix : ''}.jpg`;
@@ -77,7 +78,7 @@ function picture({ src, small = '480', variants, art, fallback, sizes, alt, eage
     `alt="${esc(alt)}"`,
     `width="${full.width}"`,
     `height="${full.height}"`,
-    eager ? 'loading="eager" fetchpriority="high"' : 'loading="lazy" decoding="async"',
+    eager ? (high ? 'loading="eager" fetchpriority="high"' : 'loading="eager" decoding="async"') : 'loading="lazy" decoding="async"',
   ];
   if (cls) attrs.push(`class="${esc(cls)}"`);
   if (style) attrs.push(`style="${esc(style)}"`);

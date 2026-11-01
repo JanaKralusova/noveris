@@ -49,6 +49,17 @@ test('stepsH numbers the steps', () => {
   for (const n of ['01', '02', '03']) assert.ok(h.includes(n));
 });
 
+test('stepsH keeps the <ol> valid: only <li> children, arrows inside the preceding <li>', () => {
+  const h = ui.stepsH([{ title: 'a', text: 'x' }, { title: 'b', text: 'y' }, { title: 'c', text: 'z' }]);
+  const inner = h.replace(/^<ol[^>]*>/, '').replace(/<\/ol>$/, '');
+  const lis = inner.match(/<li[\s\S]*?<\/li>/g);
+  assert.strictEqual(lis.length, 3);
+  assert.strictEqual(lis.join(''), inner, 'nothing but <li> inside the <ol>');
+  assert.strictEqual(lis.filter((l) => l.includes('arrow_forward')).length, 2);
+  assert.ok(!lis[2].includes('arrow_forward'));
+  assert.ok(lis[0].includes('aria-hidden="true"'));
+});
+
 test('text is escaped, { html } is trusted', () => {
   const h = ui.prose({ title: 'T<', paras: ['a<i>', { html: '<b>x</b>' }] });
   assert.ok(h.includes('T&lt;') && h.includes('a&lt;i&gt;') && h.includes('<b>x</b>'));

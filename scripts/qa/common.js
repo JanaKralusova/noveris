@@ -3,6 +3,7 @@
 const fs = require('fs');
 const os = require('os');
 const path = require('path');
+const http = require('http');
 const { spawn } = require('child_process');
 
 // Override with CHROME_PATH=/path/to/chrome (the default is the macOS Google Chrome).
@@ -34,4 +35,52 @@ function launchChrome(port, tag) {
   return { proc, cleanup };
 }
 
-module.exports = { CHROME, requireServer, launchChrome };
+// GET <url> as JSON over a one-shot connection (no keep-alive agent): a pooled socket left open to Chrome
+// makes undici assert (`!this.paused`) in Parser.finish when Chrome is killed later.
+function getJson(url) {
+  return new Promise((resolve, reject) => {
+    const req = http.get(url, { agent: false, headers: { Connection: 'close' } }, (res) => {
+      let body = '';
+      res.setEncoding('utf8');
+      res.on('data', (c) => { body += c; });
+      res.on('end', () => { try { resolve(JSON.parse(body)); } catch (e) { reject(e); } });
+      res.on('error', reject);
+    });
+    req.on('error', reject);
+    req.setTimeout(5000, () => req.destroy(new Error('timeout')));
+  });
+}
+
+// One CDP WebSocket to the first page of the Chrome on `port` (retries while Chrome is starting up).
+// onEvent(message) gets every message without a pending id. Returns { send, ev, close }; close() resolves
+// once the socket is really closed, so Chrome can be killed afterwards without a dangling connection.
+async function connectPage(port, onEvent = () => {}) {
+  let url;
+  for (let i = 0; i < 40 && !url; i++) {
+    try { url = (await getJson(`http://127.0.0.1:${port}/json`)).find((t) => t.type === 'page')?.webSocketDebuggerUrl; } catch {}
+    if (!url) await new Promise((r) => setTimeout(r, 250));
+  }
+  if (!url) throw new Error(`QA: no Chrome page target on port ${port}`);
+  const ws = new WebSocket(url);
+  await new Promise((resolve, reject) => { ws.onopen = resolve; ws.onerror = () => reject(new Error('CDP WebSocket error')); });
+  const pend = new Map();
+  let id = 0, closed = false;
+  const closedP = new Promise((r) => { ws.onclose = () => { closed = true; for (const f of pend.values()) f({ error: { message: 'closed' } }); pend.clear(); r(); }; });
+  ws.onerror = () => {};
+  ws.onmessage = (e) => {
+    const m = JSON.parse(e.data);
+    if (m.id && pend.has(m.id)) { pend.get(m.id)(m); pend.delete(m.id); } else onEvent(m);
+  };
+  const send = (method, params = {}) => new Promise((r) => {
+    if (closed) return r({ error: { message: 'closed' }, result: {} });
+    const i = ++id; pend.set(i, r); ws.send(JSON.stringify({ id: i, method, params }));
+  });
+  const ev = async (x) => (await send('Runtime.evaluate', { expression: x, awaitPromise: true, returnByValue: true })).result?.result?.value;
+  const close = async () => {
+    if (!closed) { try { ws.close(); } catch {} }
+    await Promise.race([closedP, new Promise((r) => setTimeout(r, 2000))]);
+  };
+  return { send, ev, close };
+}
+
+module.exports = { CHROME, requireServer, launchChrome, getJson, connectPage };

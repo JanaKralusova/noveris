@@ -7,7 +7,7 @@
  * At 390 px the mobile menu is opened (drawer must be visible) and closed again.
  */
 const { builtPages } = require('../../tests/helpers');
-const { requireServer, launchChrome } = require('./common');
+const { requireServer, launchChrome, connectPage } = require('./common');
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 const BASE = (process.argv[2] || 'http://127.0.0.1:8765').replace(/\/$/, '');
 const WIDTHS = [390, 1024, 1440];
@@ -19,21 +19,15 @@ function urlOf(rel) { return BASE + '/' + rel.replace(/index\.html$/, ''); }
   await requireServer(BASE);
   const ch = launchChrome(PORT, 'qa-overflow');
   const fails = [];
+  let cdp;
   try {
-    await sleep(4000);
-    const tabs = await (await fetch(`http://localhost:${PORT}/json`)).json();
-    const ws = new WebSocket(tabs.find((t) => t.type === 'page').webSocketDebuggerUrl);
-    await new Promise((r) => { ws.onopen = r; });
-    let id = 0; const pend = new Map(); let logs = [];
-    ws.onmessage = (e) => {
-      const m = JSON.parse(e.data);
-      if (m.id && pend.has(m.id)) { pend.get(m.id)(m); pend.delete(m.id); }
+    let logs = [];
+    cdp = await connectPage(PORT, (m) => {
       if (m.method === 'Runtime.exceptionThrown') logs.push('exception: ' + (m.params.exceptionDetails.exception?.description || m.params.exceptionDetails.text));
       if (m.method === 'Runtime.consoleAPICalled' && m.params.type === 'error') logs.push('console.error: ' + m.params.args.map((a) => a.value || a.description).join(' '));
       if (m.method === 'Log.entryAdded' && m.params.entry.level === 'error') logs.push('log: ' + m.params.entry.text + ' ' + (m.params.entry.url || ''));
-    };
-    const send = (method, params = {}) => new Promise((r) => { const i = ++id; pend.set(i, r); ws.send(JSON.stringify({ id: i, method, params })); });
-    const ev = async (x) => (await send('Runtime.evaluate', { expression: x, awaitPromise: true, returnByValue: true })).result.result?.value;
+    });
+    const { send, ev } = cdp;
     await send('Runtime.enable'); await send('Log.enable'); await send('Page.enable');
 
     const pages = builtPages();
@@ -66,8 +60,10 @@ function urlOf(rel) { return BASE + '/' + rel.replace(/index\.html$/, ''); }
       }
     }
     console.log(`checked ${n} page views (${pages.length} pages x ${WIDTHS.length} widths)`);
-    ws.close();
-  } finally { ch.cleanup(); }
+  } finally {
+    if (cdp) await cdp.close();
+    ch.cleanup();
+  }
   if (fails.length) { console.log('FAIL\n' + fails.join('\n')); process.exit(1); }
   console.log('PASS');
 })();

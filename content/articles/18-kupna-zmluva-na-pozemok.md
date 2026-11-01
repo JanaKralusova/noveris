@@ -5,7 +5,7 @@
   "title": "Kúpna zmluva na pozemok: Čo má obsahovať a na čo si dať pozor?",
   "excerpt": "Pri kúpe pozemku nemusíte získavať celú parcelu. Predmetom predaja môže byť aj spoluvlastnícky podiel alebo časť pozemku, ktorú treba najprv oddeliť geometrickým plánom. Od toho závisí, s kým zmluvu uzatvárate a čo v nej treba upraviť.",
   "seoTitle": "Kúpna zmluva na pozemok: čo má obsahovať | Noveris Legal",
-  "description": "Kúpna zmluva na pozemok: povinné náležitosti, bezpečné zaplatenie ceny, kúpa spoluvlastníckeho podielu, viacerí predávajúci a časť parcely podľa geometrického plánu.",
+  "description": "Kúpna zmluva na pozemok: povinné náležitosti, zaplatenie ceny, kúpa spoluvlastníckeho podielu, viacerí predávajúci a časť parcely podľa geometrického plánu.",
   "tags": [
     "kúpna zmluva",
     "kúpa pozemku",
