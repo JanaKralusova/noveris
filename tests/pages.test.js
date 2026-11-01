@@ -84,7 +84,7 @@ test('template pages are built', () => {
 
 // ---- one hero for every page, home specialisation band
 const { builtPages } = require('./helpers');
-const HERO = /<section class="relative overflow-hidden bg-paper"><div class="(?:fade-photo |relative flex h-72 )[^"]*">[\s\S]*?<h1 /;
+const HERO = /<section class="relative overflow-hidden bg-paper"><div class="(?:fade-photo |relative flex h-80 )[^"]*">[\s\S]*?<h1 /;
 
 test('every built page except 404 has the shared fade-photo hero with an h1', () => {
   const missing = builtPages().filter((p) => !/404\.html$/.test(p) && !HERO.test(read(p)));

@@ -251,7 +251,7 @@ function related(a, all) {
 
 // Square crop of the portrait centred on the face (assets/photos/avatar.*, 320×320).
 function authorAvatar(cls) {
-  return `<picture>
+  return `<picture class="shrink-0">
 <source type="image/avif" srcset="/assets/photos/avatar.avif"/>
 <img src="/assets/photos/avatar.jpg" alt="" width="320" height="320" loading="lazy" decoding="async" class="${cls} rounded-pill object-cover bg-sand"/>
 </picture>`;
@@ -325,7 +325,7 @@ ${ui.hero({
 })}
 ${ui.section(`<div class="grid gap-5 md:grid-cols-2 lg:grid-cols-3 lg:gap-6">
 ${articles.map((a) => tile(a, { level: 2, root: ctx.outRoot })).join('\n')}
-</div>`, { pad: 'pb-12 md:pb-16' })}
+</div>`)}
 </main>`;
   return renderDocument({ generated: GENERATED, lang: 'sk', active: 'articles', switchTo: null, head: headData, main: stripMain(main) });
 }

@@ -158,10 +158,10 @@ function hero({ crumbs, crumbsLabel, label, title, titleHtml, intro = [], bold, 
   const crumb = crumbs ? breadcrumb(crumbs, crumbsLabel) : '';
   return '<section class="relative overflow-hidden bg-paper">'
     + (contain
-      // whole portrait: contained, flush with the bottom edge, no fade (the photo's own background is the page colour)
-      ? `<div class="relative flex h-72 justify-center sm:h-96 lg:absolute lg:inset-y-0 lg:right-0 lg:h-auto lg:w-[52%] lg:justify-end lg:pr-8 xl:pr-16">${photoImg({ ...photo, sizes: containSizes(photo, { phone: 288, sm: 384, lg: 600 }) }, 'h-full w-auto max-w-full object-contain object-bottom', true)}</div>`
+      // whole portrait: contained next to the text, flush with the bottom edge; its edges fade into the page (.fade-portrait)
+      ? `<div class="relative flex h-80 justify-center sm:h-[26rem] lg:absolute lg:inset-y-0 lg:right-0 lg:h-auto lg:w-[52%] lg:justify-start lg:pl-2 xl:pl-6">${photoImg({ ...photo, sizes: containSizes(photo, { phone: 320, sm: 416, lg: 640 }) }, 'fade-portrait h-full w-auto max-w-full object-contain object-bottom', true)}</div>`
       : `<div class="fade-photo relative h-52 sm:h-72 lg:absolute lg:inset-y-0 lg:right-0 lg:h-auto lg:w-[52%]">${photoImg({ ...photo, sizes: coverSizes(photo, { phone: 208, sm: 288, lg: { vw: 52, h: 560 } }) }, 'h-full w-full object-cover', true)}</div>`)
-    + `<div class="relative mx-auto max-w-7xl px-6 pb-12 pt-2 lg:px-8 lg:py-14${tall ? ' lg:min-h-[30rem]' : ''}"><div class="lg:w-[50%]">`
+    + `<div class="relative mx-auto max-w-7xl px-6 pb-12 pt-2 lg:px-8 lg:py-14${tall ? ' lg:min-h-[36rem]' : ''}"><div class="lg:w-[50%]">`
     + `${topHtml}${crumb}${lab}<h1 class="${h1Mt} font-headline ${h1Size} tracking-tight text-ink">${titleHtml !== undefined ? titleHtml : esc(title)}</h1>`
     + `${body}${c}${act}${extraHtml}</div></div></section>`;
 }
