@@ -34,6 +34,7 @@ function photoImg(photo, cls, eager) {
     eager: eager !== undefined ? eager : !!photo.eager,
     high: photo.high,
     cls,
+    style: photo.style,
     root: photo.root,
   });
 }
@@ -92,19 +93,42 @@ function sectionHeader({ eyebrow: eb, title, note } = {}) {
     + `<h2 class="mt-2 font-headline text-[2rem] leading-[1.15] text-ink md:text-[2.5rem]">${esc(title)}</h2></div>${n}</div>`;
 }
 
-function hero({ crumbs, crumbsLabel, label, title, intro = [], bold, after, cta, photo }) {
+// The one hero of every page: text left, photo right (full-bleed, fades into the page), photo above the text on phones.
+// crumbs: optional breadcrumb; title (escaped) or titleHtml (trusted, e.g. with the italic accent span); intro: paragraphs;
+// topHtml: trusted block above the breadcrumb; actionsHtml / extraHtml: trusted blocks after the intro / after the buttons;
+// size 'long' = smaller H1 for long titles; tall = minimum height for pages with little text; photo.style = object-position.
+function hero({ crumbs, crumbsLabel, label, title, titleHtml, intro = [], bold, after, cta, actionsHtml = '', extraHtml = '', topHtml = '', size, tall = false, photo }) {
   needPhoto(photo, 'hero');
   const ps = paras(intro, 'text-[15px] leading-[1.6] text-body md:text-[16px]');
   const b = bold ? `<p class="text-[15px] font-bold leading-[1.6] text-ink md:text-[16px]">${txt(bold)}</p>` : '';
   const a = after ? `<p class="text-[15px] leading-[1.6] text-body md:text-[16px]">${txt(after)}</p>` : '';
   const c = cta ? `<div class="pt-7">${button(cta.text, cta.href)}</div>` : '';
+  const act = actionsHtml ? `<div class="flex flex-wrap items-center gap-4 pt-7">${actionsHtml}</div>` : '';
   const lab = label ? eyebrow(label).replace('<p class="', '<p class="mt-5 ') : '';
   const h1Mt = label ? 'mt-2' : 'mt-5';
+  const h1Size = size === 'long' ? 'text-[clamp(2rem,3.4vw,2.75rem)] leading-[1.15]' : 'text-[clamp(2.5rem,5vw,3.5rem)] leading-[1.1]';
+  const body = intro.length || bold || after ? `<div class="mt-5 space-y-3">${ps}${b}${a}</div>` : '';
+  const crumb = crumbs ? breadcrumb(crumbs, crumbsLabel) : '';
   return '<section class="relative overflow-hidden bg-paper">'
     + `<div class="fade-photo relative h-52 sm:h-72 lg:absolute lg:inset-y-0 lg:right-0 lg:h-auto lg:w-[52%]">${photoImg(photo, 'h-full w-full object-cover', true)}</div>`
-    + '<div class="relative mx-auto max-w-7xl px-6 pb-12 pt-2 lg:px-8 lg:py-14"><div class="lg:w-[50%]">'
-    + `${breadcrumb(crumbs, crumbsLabel)}${lab}<h1 class="${h1Mt} font-headline text-[clamp(2.5rem,5vw,3.5rem)] leading-[1.1] tracking-tight text-ink">${esc(title)}</h1>`
-    + `<div class="mt-5 space-y-3">${ps}${b}${a}</div>${c}</div></div></section>`;
+    + `<div class="relative mx-auto max-w-7xl px-6 pb-12 pt-2 lg:px-8 lg:py-14${tall ? ' lg:min-h-[30rem]' : ''}"><div class="lg:w-[50%]">`
+    + `${topHtml}${crumb}${lab}<h1 class="${h1Mt} font-headline ${h1Size} tracking-tight text-ink">${titleHtml !== undefined ? titleHtml : esc(title)}</h1>`
+    + `${body}${c}${act}${extraHtml}</div></div></section>`;
+}
+
+// Quote card for the home hero.
+function heroQuote({ text, cite }) {
+  return `<figure class="mt-8 rounded-card border border-line bg-card p-5 shadow-soft"><blockquote class="font-headline text-[1.125rem] italic leading-snug text-ink md:text-[1.25rem]">${txt(text)}</blockquote>`
+    + `<figcaption class="mt-3 font-label text-[12px] text-muted">${txt(cite)}</figcaption></figure>`;
+}
+
+// Large specialisation card (home band): big photo, title, text, arrow link.
+function cardFeature({ title, text, photo, link }) {
+  needPhoto(photo, 'cardFeature');
+  return '<article class="flex flex-col overflow-hidden rounded-card border border-line bg-card shadow-soft">'
+    + `<div class="aspect-[16/10] overflow-hidden">${photoImg(photo, 'h-full w-full object-cover')}</div>`
+    + `<div class="flex flex-1 flex-col p-6 md:p-8"><h3 class="font-headline text-[1.5rem] leading-snug text-ink md:text-[1.75rem]">${esc(title)}</h3>`
+    + `<p class="mt-3 flex-1 text-[15px] leading-[1.6] text-body md:text-[16px]">${txt(text)}</p>${linkBlock(link, 'pt-5')}</div></article>`;
 }
 
 function cardSide({ icon: ic, title, paras: ps, photo, link }) {
@@ -300,7 +324,7 @@ function renderSections(sections) {
 }
 
 module.exports = {
-  icon, eyebrow, button, linkArrow, breadcrumb, chip, section, sectionHeader, hero,
+  icon, eyebrow, button, linkArrow, breadcrumb, chip, section, sectionHeader, hero, heroQuote, cardFeature,
   cardSide, cardTop, cardCompact, cardIcon, articleCard, stepsH, stepsV, splitBand, splitTextList,
   callout, iconList, twoCol, relatedBand, prose, quote, contactBand, cardGrid, renderSections,
 };

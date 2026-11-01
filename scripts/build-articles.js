@@ -24,7 +24,7 @@ const { ROOT, SITE, SITE_NAME, PAGES, abs } = site;
 const { esc, renderDocument } = require('./lib/layout');
 const schema = require('./lib/schema');
 const { picture, jpegSize } = require('./lib/images');
-const { tile, articleImage, HERO_SIZES } = require('./lib/components');
+const { tile, ARTICLE_HERO_SIZES, ARTICLE_VARIANTS } = require('./lib/components');
 const ui = require('./lib/ui');
 const TR = site.loadTranslations().sk;
 const AUTHOR = 'Mgr. Jana Králusová';
@@ -318,13 +318,13 @@ function listingPage(articles, ctx) {
     jsonlds: [ld],
   };
   const main = `<main>
-<section class="bg-paper"><div class="mx-auto max-w-7xl px-6 py-12 lg:px-8 lg:py-16"><div class="max-w-2xl">
-${ui.eyebrow(l.label)}
-<h1 class="mt-4 font-headline text-[clamp(2.5rem,5vw,3.75rem)] leading-[1.1] tracking-tight text-ink">${l.h1Html}</h1>
-<p class="mt-5 text-[16px] leading-[1.65] text-body md:text-[17px]">${esc(l.intro)}</p>
-</div></div></section>
+${ui.hero({
+  crumbs: [{ name: SK_CRUMB.home, url: '/' }, { name: SK_CRUMB.articles }], crumbsLabel: 'Omrvinková navigácia',
+  label: l.label, titleHtml: l.h1Html, intro: [l.intro],
+  photo: { src: '/assets/photos/services/books_row', alt: '', sizes: '(min-width: 1024px) 62vw, 100vw', eager: true },
+})}
 ${ui.section(`<div class="grid gap-5 md:grid-cols-2 lg:grid-cols-3 lg:gap-6">
-${articles.map((a, i) => tile(a, { level: 2, root: ctx.outRoot, eager: i < 3, high: i === 0 })).join('\n')}
+${articles.map((a) => tile(a, { level: 2, root: ctx.outRoot })).join('\n')}
 </div>`, { pad: 'pb-12 md:pb-16' })}
 </main>`;
   return renderDocument({ generated: GENERATED, lang: 'sk', active: 'articles', switchTo: null, head: headData, main: stripMain(main) });
@@ -385,22 +385,20 @@ function articlePage(a, all, ctx) {
   };
   const crumbItems = [{ name: SK_CRUMB.home, url: '/' }, { name: SK_CRUMB.articles, url: '/clanky/' }, { name: a.title }];
   const main = `<main>
-<article class="mx-auto max-w-7xl px-6 py-8 lg:px-8 lg:py-12">
-<a href="/clanky/" class="inline-flex items-center gap-1.5 font-label text-[13px] font-semibold text-copper hover:text-forest">${ui.icon('arrow_back', 'text-[18px]')}Všetky články</a>
-<header class="mt-5">
-${ui.breadcrumb(crumbItems, 'Omrvinková navigácia')}
-<h1 class="mt-5 max-w-4xl font-headline text-[clamp(2.25rem,4.5vw,3.25rem)] leading-[1.12] tracking-tight text-ink">${esc(a.title)}</h1>
-<div class="mt-6 flex flex-wrap items-center gap-x-5 gap-y-3">
+${ui.hero({
+  topHtml: `<a href="/clanky/" class="mb-4 mt-4 inline-flex items-center gap-1.5 font-label text-[13px] font-semibold text-copper hover:text-forest">${ui.icon('arrow_back', 'text-[18px]')}Všetky články</a>`,
+  crumbs: crumbItems, crumbsLabel: 'Omrvinková navigácia',
+  title: a.title, size: 'long',
+  extraHtml: `<div class="mt-6 flex flex-wrap items-center gap-x-5 gap-y-3">
 <a href="/o-nas/" class="flex items-center gap-3 font-label text-[14px] font-semibold text-ink hover:text-copper">${authorAvatar('h-10 w-10')}${esc(AUTHOR)}, advokátka</a>
 <time datetime="${esc(a.date)}" class="font-label text-[13px] text-muted">${esc(formatDate(a.date))}</time>
 </div>
 <ul class="mt-4 flex flex-wrap gap-2" aria-label="Značky">
 ${a.tags.map((t) => `<li class="rounded-pill bg-chip px-3 py-1 font-label text-[12px] text-copper">${esc(t)}</li>`).join('\n')}
-</ul>
-</header>
-<div class="mt-8 overflow-hidden rounded-card bg-sand shadow-soft">
-${articleImage(a, { sizes: HERO_SIZES, eager: true, cls: 'aspect-[16/8] w-full object-cover', root: ctx.outRoot })}
-</div>
+</ul>`,
+  photo: { src: `/assets/articles/${a.image}`, variants: ARTICLE_VARIANTS, fallback: '800', sizes: ARTICLE_HERO_SIZES, alt: a.imageAlt, eager: true, root: ctx.outRoot },
+})}
+<article class="mx-auto max-w-7xl px-6 pb-8 pt-4 lg:px-8 lg:pb-12">
 <div class="mt-2 grid gap-12 lg:grid-cols-[minmax(0,1fr)_320px] lg:gap-14">
 <div class="max-w-[46rem]">
 ${toc(a)}

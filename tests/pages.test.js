@@ -18,10 +18,10 @@ test('services page: six "Viac o službe" links that resolve, no debt collection
   assert.ok(!/<h[1-6][^>]*>\s*Vymáhanie pohľadávok/.test(html));
 });
 
-test('home page: six service links', () => {
+test('home page: six service links plus the two specialisation cards', () => {
   const html = read('index.html');
   const links = [...html.matchAll(/<a href="(\/sluzby\/[^"]+)"[^>]*>Viac o službe/g)].map((m) => m[1]);
-  assert.strictEqual(links.length, 6);
+  assert.strictEqual(links.length, 8);
   for (const u of links) assert.ok(resolves(u), `${u} does not resolve`);
   assert.ok(html.includes('Zobraziť všetky oblasti poradenstva'));
 });
@@ -80,4 +80,44 @@ test('no retired styles on the template pages', () => {
 
 test('template pages are built', () => {
   for (const f of TEMPLATE_PAGES) assert.ok(fs.existsSync(path.join(ROOT, f)), f);
+});
+
+// ---- one hero for every page, home specialisation band
+const { builtPages } = require('./helpers');
+const HERO = /<section class="relative overflow-hidden bg-paper"><div class="fade-photo [^"]*">[\s\S]*?<h1 /;
+
+test('every built page except 404 has the shared fade-photo hero with an h1', () => {
+  const missing = builtPages().filter((p) => !/404\.html$/.test(p) && !HERO.test(read(p)));
+  assert.deepStrictEqual(missing, []);
+});
+
+test('SK home: specialisation band (h2) links to both core service pages, before the profile section', () => {
+  const html = read('index.html');
+  const i = html.indexOf('<h2 class="mb-8 font-headline');
+  assert.ok(i > 0 && html.slice(i, i + 200).includes('Naša špecializácia'));
+  const band = html.slice(i, html.indexOf('</section>', i));
+  assert.ok(band.includes('href="/sluzby/vysporiadanie-pozemkov/"'));
+  assert.ok(band.includes('href="/sluzby/vysporiadanie-pozemkov/pozemky-pod-stavbami/"'));
+  assert.ok(i < html.indexOf('home.profile') || i < html.indexOf('Osobný prístup'));
+});
+
+test('EN home has the band only when the EN service pages are visible', () => {
+  const html = read('en/index.html');
+  const both = hasLang('vysporiadanie-pozemkov', 'en') && hasLang('pozemky-pod-stavbami', 'en');
+  assert.strictEqual(html.includes('Our specialisation'), both);
+});
+
+test('article pages: no big full-width image block, hero photo is the article photo, og:image unchanged', () => {
+  const dir = path.join(ROOT, 'clanky');
+  const slugs = fs.readdirSync(dir).filter((d) => fs.existsSync(path.join(dir, d, 'index.html')));
+  assert.ok(slugs.length >= 29);
+  for (const slug of slugs) {
+    const html = read(`clanky/${slug}/index.html`);
+    assert.ok(!html.includes('aspect-[16/8]'), `${slug}: old big image`);
+    assert.ok(HERO.test(html), `${slug}: no shared hero`);
+    const og = /property="og:image" content="([^"]+)"/.exec(html)[1];
+    assert.ok(/\/assets\/articles\/[\w.-]+\.jpg$/.test(og), `${slug}: og:image ${og}`);
+    const name = og.split('/').pop().replace('.jpg', '');
+    assert.ok(html.includes(`/assets/articles/${name}-640.jpg`) || html.includes(`/assets/articles/${name}-800.jpg`), `${slug}: hero photo`);
+  }
 });

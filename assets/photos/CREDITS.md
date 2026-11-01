@@ -67,7 +67,10 @@ Produced with `scripts/make-photo.sh`. A test checks that every name below exist
 | sunfield | Erik van Dijk | https://unsplash.com/photos/green-grass-field-with-trees-during-daytime-fhItZw4xYhI | Unsplash License |
 | table2 | Amina Atar | https://unsplash.com/photos/two-men-sitting-at-a-table-with-papers-and-a-pen-Mqc-m8kgxkg | Unsplash License |
 | ware | Bernd Dittrich | https://unsplash.com/photos/iDSXatl7yNo | Unsplash License |
+| bratislava_city | Michal Vrba | https://unsplash.com/photos/zM9iO5wFnp0 | Unsplash License |
+| home_house | Nicolas Görmer | https://unsplash.com/photos/a-bright-yellow-house-with-a-red-roof-zH6YDDX_Mj8 | Unsplash License |
 
 Notes:
+- `home_house` (Potsdam, Germany) is the home hero, cropped to remove the house number; `bratislava_city` (castle, old town, Danube) is the contact hero.
 - `interior`, `s_hero`, `justice2` replace the prototype photos (3D render, street with a German road sign, greyscale Lady Justice).
 - `band1` to `band4` are the closing contact-band photos; they replace the repeated `plant` and are rotated between pages.

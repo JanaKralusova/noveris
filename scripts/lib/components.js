@@ -10,6 +10,8 @@ const { picture } = require('./images');
 const TILE_SIZES = '(min-width: 1280px) 389px, (min-width: 1024px) calc((100vw - 112px) / 3), (min-width: 768px) calc((100vw - 68px) / 2), calc(100vw - 48px)';
 // Article hero: full container width (viewport - 48px), capped at 1216px.
 const HERO_SIZES = '(min-width: 1280px) 1216px, calc(100vw - 48px)';
+// Article photo in the page hero: the box is ~52vw wide on lg and as tall as the text, so the 3:2 photo can render wider than 52vw.
+const ARTICLE_HERO_SIZES = '(min-width: 1024px) 62vw, 100vw';
 // Article images exist in these widths ("" = the 1600px original); the default <img src> is the 800px JPEG.
 // The 400/640/1024 variants are pre-cropped to 3:2 (the aspect the tiles and hero display with object-cover),
 // so no bytes are wasted on cropped-away pixels; 640 covers a 412px phone at DPR 1.75, 1024 the desktop hero.
@@ -37,4 +39,4 @@ function latest(articles, n) {
   return [...articles].sort((a, b) => (a.date < b.date ? 1 : a.date > b.date ? -1 : a.order - b.order)).slice(0, n);
 }
 
-module.exports = { TILE_SIZES, HERO_SIZES, articleImage, tile, latest };
+module.exports = { TILE_SIZES, HERO_SIZES, ARTICLE_HERO_SIZES, ARTICLE_VARIANTS, articleImage, tile, latest };

@@ -21,7 +21,7 @@ const schema = require('./lib/schema');
 const { picture } = require('./lib/images');
 const ui = require('./lib/ui');
 const { latest } = require('./lib/components');
-const { hasLang } = require('./build-services');
+const { hasLang, loadService, pageTitleOf } = require('./build-services');
 const { loadArticles } = require('./build-articles');
 
 // Rendered width of a home article card: 1 column (viewport - 48px), 3 columns from 768px (container max 1280px).
@@ -169,6 +169,92 @@ function applyServicesHero(html, t, lang) {
   }));
 }
 
+// Hero photos: the box is ~52vw wide on lg but as tall as the text, so a landscape photo may render wider than 52vw.
+const HERO_SIZES = '(min-width: 1024px) 62vw, 100vw';
+const PRIVACY_NAME = 'Ochrana osobných údajov';
+const PRIVACY_INTRO = 'Ochrana osobných údajov našich klientov a iných fyzických osôb je pre nás dôležitá. Nižšie si vás dovoľujeme informovať o tom, akým spôsobom spracúvame pri poskytovaní právnych služieb osobné údaje v rámci našej advokátskej kancelárie.';
+
+// Visible breadcrumb = the BreadcrumbList JSON-LD: Home > current page.
+function crumbName(id, t) {
+  return id === 'privacy' ? PRIVACY_NAME : t['nav.' + id];
+}
+
+// {{hero}}: the shared hero (ui.hero) of every page except 404; copy comes from translations / the owner and privacy texts.
+function heroFor(id, lang, t, ctx) {
+  const crumbs = id === 'home' ? undefined : [{ name: t['nav.home'], url: PAGES.home[lang] }, { name: crumbName(id, t) }];
+  const base = { crumbs, crumbsLabel: t['ui.breadcrumb'] };
+  const photo = (name, extra = {}) => ({ src: `/assets/photos/services/${name}`, alt: '', sizes: HERO_SIZES, eager: true, ...extra });
+  const href = (page) => PAGES[page][lang] || PAGES[page].sk;
+  switch (id) {
+    case 'home':
+      return ui.hero({
+        ...base,
+        label: t['home.hero.label'],
+        titleHtml: t['home.hero.h1'],
+        intro: [t['home.hero.desc']],
+        actionsHtml: ui.button(t['home.hero.cta'], href('contact')) + ui.linkArrow(t['home.hero.cta2'], href('about')),
+        extraHtml: ui.heroQuote({ text: t['home.hero.quote'], cite: t['home.hero.quoteAuthor'] }),
+        photo: photo('home_house', { style: 'object-position: 50% 45%;' }),
+      });
+    case 'about':
+      return ui.hero({
+        ...base,
+        label: t['about.hero.label'],
+        titleHtml: t['about.hero.h1'],
+        intro: [t['about.hero.desc']],
+        tall: true,
+        // Only 800x1199 exists: serve the full file, never a crop; the face sits in the upper third.
+        photo: { src: '/assets/photos/about', alt: t['img.about.portrait'], sizes: '(min-width: 1024px) 52vw, 100vw', eager: true, variants: ['480', ''], style: 'object-position: 50% 8%;' },
+      });
+    case 'contact':
+      return ui.hero({
+        ...base,
+        label: t['contact.hero.label'],
+        titleHtml: t['contact.hero.h1'],
+        intro: [t['contact.hero.quote']],
+        photo: photo('bratislava_city', { style: 'object-position: 30% 50%;' }),
+      });
+    case 'owners':
+      return ui.hero({
+        ...base,
+        label: `Nezistení vlastníci · údaje SPF k ${ctx.ownersAsOf}`,
+        titleHtml: 'Patrí pozemok <span class="italic text-copper">vašej rodine?</span>',
+        intro: ['Na Slovensku sa nachádzajú pozemky, ktorých vlastníci nie sú dostatočne identifikovaní alebo nie je známe ich miesto pobytu. Medzi týmito vlastníkmi môžu byť aj vaši predkovia, po ktorých zostali nevysporiadané pozemky.'],
+        bold: 'Vyhľadajte priezvisko svojho predka, obec alebo číslo listu vlastníctva a zistite, či sa v zozname nezistených vlastníkov nachádzajú záznamy, ktoré môžu súvisieť s vašou rodinou.',
+        photo: photo('fields'),
+      });
+    case 'privacy':
+      return ui.hero({
+        ...base,
+        topHtml: `<a href="${layout.esc(href('contact'))}" class="mb-4 mt-4 inline-flex items-center gap-1.5 font-label text-[13px] font-semibold text-copper hover:text-forest">${ui.icon('arrow_back', 'text-[18px]')}<span>${layout.esc(t['privacy.back'])}</span></a>`,
+        title: PRIVACY_NAME,
+        intro: [PRIVACY_INTRO],
+        photo: photo('folders'),
+      });
+    default:
+      fail(`no hero defined for page "${id}"`);
+  }
+  return '';
+}
+
+// {{specialisation}}: home band with the two core service pages; nothing while a page is hidden in this language.
+const SPEC_IDS = ['vysporiadanie-pozemkov', 'pozemky-pod-stavbami'];
+function specialisationBand(lang, t) {
+  if (!SPEC_IDS.every((id) => hasLang(id, lang))) return '';
+  const cards = SPEC_IDS.map((id) => {
+    const hero = loadService(id)[lang].sections.find((s) => s.type === 'hero');
+    const text = id === 'vysporiadanie-pozemkov' ? t['services.area.vysporiadanie-pozemkov.desc'] : hero.intro[0];
+    const title = id === 'vysporiadanie-pozemkov' ? t['services.area.vysporiadanie-pozemkov.title'] : pageTitleOf(loadService(id)[lang]);
+    return ui.cardFeature({
+      title, text,
+      link: { text: t['services.card.more'], href: SERVICES[id][lang] },
+      photo: { src: `/assets/photos/services/${hero.photo.name}`, alt: '', sizes: '(min-width: 1280px) 596px, (min-width: 1024px) calc((100vw - 104px) / 2), calc(100vw - 48px)' },
+    });
+  });
+  return `<section class="bg-paper pb-12 pt-4 md:pb-16"><div class="mx-auto max-w-7xl px-6 lg:px-8"><h2 class="mb-8 font-headline text-[2rem] leading-[1.15] text-ink md:mb-10 md:text-[2.5rem]">${layout.esc(t['home.specialisation.h2'])}</h2>`
+    + `<div class="grid gap-5 lg:grid-cols-2 lg:gap-6">${cards.join('')}</div></div></section>`;
+}
+
 // {{contactBand:band1}}: closing contact band (dark green) with a photo from assets/photos/services.
 function applyContactBand(html, t, lang) {
   return html.replace(/\{\{contactBand:([a-z0-9_]+)\}\}/g, (_, name) => ui.contactBand({
@@ -247,7 +333,12 @@ const HASH_REDIRECT = `<script>
 </script>`;
 
 const PAGE_TYPES = { about: 'AboutPage', contact: 'ContactPage' };
-const PRIVACY_NAME = 'Ochrana osobných údajov';
+
+function ownersAsOf() {
+  const cfg = JSON.parse(fs.readFileSync(path.join(ROOT, 'content', 'owners.json'), 'utf8'));
+  const [y, m, d] = cfg.asOf.split('-').map(Number);
+  return `${d}. ${m}. ${y}`.replace(/ /g, '\u00a0');
+}
 
 function render(id, lang, ctx) {
   const file = `templates/pages/${id}.html`;
@@ -261,6 +352,8 @@ function render(id, lang, ctx) {
   main = applyLatest(main, lang, ctx.copy, ctx.articles, t);
   main = applyServices(main, t, lang);
   main = applyServicesHero(main, t, lang);
+  main = main.replace('{{hero}}', () => heroFor(id, lang, t, { ...ctx, ownersAsOf: ownersAsOf() }));
+  main = main.replace('{{specialisation}}', () => specialisationBand(lang, t));
   main = applyContactBand(main, t, lang);
   main = applyUi(main, t, lang, file);
   main = applyUrls(main, lang, file);
@@ -286,7 +379,7 @@ function render(id, lang, ctx) {
   if (!is404) {
     const crumbs = id === 'home' ? null : [
       { name: t['nav.home'], url: abs(PAGES.home[lang]) },
-      { name: id === 'privacy' ? PRIVACY_NAME : t['nav.' + id], url: canonical },
+      { name: crumbName(id, t), url: canonical },
     ];
     jsonlds = [schema.graph(lang, schema.pageNodes({
       url: canonical, type: PAGE_TYPES[id], name: data.title, description: data.description, lang,

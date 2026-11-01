@@ -186,4 +186,4 @@ function main() {
 
 if (require.main === module) main();
 
-module.exports = { main, outputs, render, hasLang, hasContent, isHidden };
+module.exports = { main, outputs, render, hasLang, hasContent, isHidden, loadService, pageTitleOf };

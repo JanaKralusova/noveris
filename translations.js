@@ -29,6 +29,7 @@ const translations = {
         "home.hero.cta2": "Naša filozofia",
         "home.hero.quote": "\"Právo nie je len o pravidlách, ale o riešeniach, ktoré umožňujú rast\"",
         "home.hero.quoteAuthor": "Jana Králusová, Zakladateľka",
+        "home.specialisation.h2": "Naša špecializácia",
 
         // Profile
         "home.profile.label": "Osobný prístup",
@@ -168,6 +169,7 @@ const translations = {
         "home.hero.cta2": "Our philosophy",
         "home.hero.quote": "\"Law is not just about rules, but about solutions that enable growth\"",
         "home.hero.quoteAuthor": "Jana Králusová, Founder",
+        "home.specialisation.h2": "Our specialisation",
 
         // Profile
         "home.profile.label": "Personal approach",
