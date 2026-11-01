@@ -1,0 +1,144 @@
+{
+  "sk": {
+    "sections": [
+      {
+        "type": "hero",
+        "label": null,
+        "title": "Nehnuteľnosti a development",
+        "intro": [
+          "Kúpa, predaj, prenájom či výstavba nehnuteľností prinášajú množstvo právnych otázok, ktoré môžu ovplyvniť priebeh transakcie, realizáciu projektu aj ďalšie využívanie nehnuteľnosti."
+        ],
+        "bold": "Poskytujeme právne služby jednotlivcom, podnikateľom, investorom a developerským spoločnostiam pri realitných transakciách, príprave a realizácii developerských projektov a riešení právnych vzťahov týkajúcich sa nehnuteľností.",
+        "cta": {
+          "text": "Dohodnite si konzultáciu",
+          "href": "/kontakt/"
+        },
+        "photo": {
+          "name": "bld",
+          "alt": ""
+        }
+      },
+      {
+        "type": "cardsSide",
+        "header": {
+          "eyebrow": "Naše služby",
+          "title": "V akých oblastiach poskytujeme právne služby?"
+        },
+        "items": [
+          {
+            "icon": "account_balance",
+            "title": "Kúpa a predaj nehnuteľností",
+            "paras": [
+              "Pripravujeme a posudzujeme kúpne, rezervačné a ďalšie zmluvy súvisiace s prevodom nehnuteľností. Zastupujeme klientov pri rokovaniach o zmluvných podmienkach a zabezpečujeme právne úkony súvisiace s prevodom vlastníckeho práva vrátane konania pred katastrom nehnuteľností."
+            ],
+            "photo": {
+              "name": "pensign",
+              "alt": ""
+            }
+          },
+          {
+            "icon": "search",
+            "title": "Právne preverenie nehnuteľností",
+            "paras": [
+              "Pred kúpou alebo investíciou preverujeme právny stav nehnuteľností, vlastnícke vzťahy, vecné bremená, záložné práva a ďalšie právne skutočnosti, ktoré môžu ovplyvniť zamýšľanú transakciu alebo využitie nehnuteľnosti.",
+              "Na základe zistených skutočností identifikujeme právne riziká a posudzujeme možnosti ich riešenia."
+            ],
+            "photo": {
+              "name": "sunfield",
+              "alt": ""
+            }
+          },
+          {
+            "icon": "apartment",
+            "title": "Developerské a investičné projekty",
+            "paras": [
+              "Poskytujeme právne služby pri príprave a realizácii developerských a investičných projektov vrátane majetkovoprávneho preverovania pozemkov, zabezpečovania právnych vzťahov k nehnuteľnostiam a prípravy zmluvnej dokumentácie.",
+              "Zastupujeme klientov pri rokovaniach s vlastníkmi dotknutých nehnuteľností a ďalšími subjektmi zapojenými do realizácie projektu."
+            ],
+            "photo": {
+              "name": "crane",
+              "alt": ""
+            }
+          },
+          {
+            "icon": "engineering",
+            "title": "Stavebné právo",
+            "paras": [
+              "Poskytujeme právne poradenstvo pri príprave a povoľovaní stavebných zámerov, v konaniach pred príslušnými správnymi orgánmi a pri riešení právnych otázok súvisiacich s realizáciou stavieb.",
+              "Zastupujeme stavebníkov, vlastníkov nehnuteľností a ďalšie dotknuté osoby pri uplatňovaní a ochrane ich práv."
+            ],
+            "photo": {
+              "name": "planmodel",
+              "alt": ""
+            }
+          },
+          {
+            "icon": "key",
+            "title": "Nájom nehnuteľností",
+            "paras": [
+              "Pripravujeme a posudzujeme nájomné zmluvy k bytom, nebytovým priestorom, pozemkom a komerčným nehnuteľnostiam.",
+              "Poskytujeme právne služby pri vzniku, zmene a skončení nájomných vzťahov vrátane riešenia sporov medzi prenajímateľmi a nájomcami."
+            ],
+            "photo": {
+              "name": "interior",
+              "alt": ""
+            }
+          },
+          {
+            "icon": "alt_route",
+            "title": "Vecné bremená a prístup k nehnuteľnostiam",
+            "paras": [
+              "Riešime právne zabezpečenie prístupu k pozemkom a stavbám, zriaďovanie, zmenu a zánik vecných bremien, ako aj spory súvisiace s ich existenciou a výkonom.",
+              "Súčasťou našich služieb je aj príprava zmluvnej dokumentácie a zastupovanie pri rokovaniach s vlastníkmi dotknutých nehnuteľností."
+            ],
+            "photo": {
+              "name": "path2",
+              "alt": ""
+            }
+          }
+        ]
+      },
+      {
+        "type": "relatedBand",
+        "eyebrow": "Súvisiaca služba",
+        "title": "Vysporiadanie pozemkov a vlastníckych vzťahov",
+        "text": "Nevysporiadané vlastnícke vzťahy môžu predstavovať prekážku pri kúpe, predaji, výstavbe alebo ďalšom využívaní nehnuteľností. Osobitne sa venujeme vysporiadaniu pozemkov so Slovenským pozemkovým fondom, zosnulými vlastníkmi, duplicitným vlastníctvom, pozemkom zapísaným na zaniknuté spoločnosti či nevysporiadaným pozemkom pod stavbami a v rôznych typoch areálov.",
+        "link": {
+          "text": "Viac o vysporiadaní pozemkov a vlastníckych vzťahov",
+          "href": "/sluzby/vysporiadanie-pozemkov/"
+        },
+        "photo": {
+          "name": "aerial2",
+          "alt": ""
+        },
+        "pad": "pb-12 md:pb-16"
+      },
+      {
+        "type": "prose",
+        "eyebrow": "Náš prístup",
+        "title": "Právne služby od prípravy až po realizáciu",
+        "paras": [
+          "Právne služby poskytujeme od úvodného preverenia nehnuteľnosti a posúdenia právnych rizík cez prípravu a vyjednávanie zmluvnej dokumentácie až po realizáciu transakcie, zastupovanie v príslušných konaniach alebo riešenie vzniknutých sporov.",
+          "Rozsah poskytovaných služieb prispôsobujeme konkrétnej nehnuteľnosti, charakteru projektu a potrebám klienta."
+        ],
+        "bg": "sand"
+      },
+      {
+        "type": "contactBand",
+        "title": "Potrebujete právnu pomoc v oblasti nehnuteľností?",
+        "paras": [
+          "Či už pripravujete kúpu alebo predaj nehnuteľnosti, realizujete developerský projekt alebo riešite právny problém súvisiaci s nehnuteľnosťou, obráťte sa na nás."
+        ],
+        "cta": {
+          "text": "Dohodnite si konzultáciu",
+          "href": "/kontakt/"
+        },
+        "photo": {
+          "name": "band3",
+          "alt": ""
+        }
+      }
+    ]
+  },
+  "en": null
+}

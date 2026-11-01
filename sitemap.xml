@@ -91,6 +91,42 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://noveris.sk/sluzby/vysporiadanie-pozemkov/pozemky-pod-stavbami/</loc>
+    <lastmod>2026-10-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://noveris.sk/sluzby/nehnutelnosti-a-development/</loc>
+    <lastmod>2026-10-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://noveris.sk/sluzby/zmluvna-agenda/</loc>
+    <lastmod>2026-10-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://noveris.sk/sluzby/obcianske-pravo/</loc>
+    <lastmod>2026-10-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://noveris.sk/sluzby/obchodne-pravo/</loc>
+    <lastmod>2026-10-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://noveris.sk/sluzby/riesenie-sporov/</loc>
+    <lastmod>2026-10-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://noveris.sk/clanky/</loc>
     <lastmod>2026-10-20</lastmod>
     <changefreq>weekly</changefreq>

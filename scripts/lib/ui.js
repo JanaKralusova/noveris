@@ -141,7 +141,8 @@ function stepsV(steps) {
 }
 
 // extraHtml: trusted markup shown after the paragraphs and the link (e.g. a callout).
-function splitBand({ eyebrow: eb, title, paras: ps, photo, link, extraHtml = '', side = 'left', bg = 'sand' }) {
+function splitBand({ eyebrow: eb, title, paras: ps, photo, link, extraHtml = '', callout: co, side = 'left', bg = 'sand' }) {
+  if (co && !extraHtml) extraHtml = callout(co);
   const fade = side === 'left' ? 'fade-photo-l' : 'fade-photo';
   const pos = side === 'left' ? 'lg:left-0' : 'lg:right-0';
   const pad = side === 'left' ? 'lg:ml-auto lg:w-[52%] lg:pl-12' : 'lg:w-[52%] lg:pr-12';
@@ -171,7 +172,7 @@ function splitTextList({ eyebrow: eb, title, intro, items, outro = [], link, pho
 
 function twoCol(left, right) {
   const col = (c) => `<div>${eyebrow(c.eyebrow)}<h2 class="mt-2 font-headline text-[1.75rem] leading-[1.2] text-ink md:text-[2rem]">${esc(c.title)}</h2>`
-    + `<div class="mt-4 space-y-3 text-[15px] leading-[1.6] text-body md:text-[16px]">${(c.paras || []).map((p) => `<p>${txt(p)}</p>`).join('')}${c.html || ''}</div></div>`;
+    + `<div class="mt-4 space-y-3 text-[15px] leading-[1.6] text-body md:text-[16px]">${(c.paras || []).map((p) => `<p>${txt(p)}</p>`).join('')}${c.steps ? stepsV(c.steps) : ''}${c.html || ''}</div></div>`;
   return `<div class="grid gap-10 md:grid-cols-2 md:gap-14">${col(left)}${col(right)}</div>`;
 }
 
@@ -207,7 +208,12 @@ const spanCell = (inner, n) => `<div class="flex flex-col ${spanCls[n]} [&>artic
 // Grid wrappers as in the mockups; the layout follows the number of cards.
 function cardGrid(kind, items) {
   const n = items.length;
-  if (kind === 'side') return `<div class="grid gap-5 lg:grid-cols-2 lg:gap-6">${items.map(cardSide).join('')}</div>`;
+  if (kind === 'side') {
+    // 5 -> 2+2 plus the last card full width.
+    const rest = n === 5 ? items.slice(0, 4) : items;
+    const last = n === 5 ? `<div class="mt-5 lg:mt-6">${cardSide(items[4])}</div>` : '';
+    return `<div class="grid gap-5 lg:grid-cols-2 lg:gap-6">${rest.map(cardSide).join('')}</div>${last}`;
+  }
   if (kind === 'compact') {
     const cols = n === 5 ? 'sm:grid-cols-2 lg:grid-cols-5' : n === 3 ? 'md:grid-cols-3' : n === 2 ? 'sm:grid-cols-2' : 'sm:grid-cols-2 lg:grid-cols-3';
     return `<div class="grid gap-5 ${cols}">${items.map((c) => `<div>${cardCompact(c)}</div>`).join('')}</div>`;
@@ -233,6 +239,7 @@ const SELF = {
   prose: (s) => prose(s),
 };
 const INNER = {
+  cardSide: (s) => cardSide(s),
   cardsSide: (s) => cardGrid('side', s.items),
   cardsTop: (s) => cardGrid('top', s.items),
   cardsCompact: (s) => cardGrid('compact', s.items),
@@ -252,7 +259,7 @@ const INNER = {
 function renderOne(s, bare = false) {
   if (SELF[s.type]) return SELF[s.type](s);
   if (!INNER[s.type]) throw new Error(`Unknown section type: ${s.type}`);
-  const inner = INNER[s.type](s);
+  const inner = INNER[s.type](s) + (s.callout ? `<div class="mt-8">${callout(s.callout)}</div>` : '');
   if (bare) return inner;
   const head = s.header ? sectionHeader(s.header) : '';
   const opts = { bg: s.bg || 'paper' };

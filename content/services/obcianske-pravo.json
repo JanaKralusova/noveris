@@ -1,0 +1,125 @@
+{
+  "sk": {
+    "sections": [
+      {
+        "type": "hero",
+        "label": null,
+        "title": "Občianske právo",
+        "intro": [
+          "Občianskoprávne vzťahy sa dotýkajú vlastníctva majetku, zmluvných záväzkov, dedičstva aj nárokov vznikajúcich pri porušení práv a povinností. Ich riešenie môže vyžadovať právne posúdenie, rokovania s druhou stranou alebo uplatnenie nárokov na súde."
+        ],
+        "bold": "Poskytujeme právne služby jednotlivcom aj obchodným spoločnostiam pri riešení občianskoprávnych záležitostí.",
+        "after": "Pomáhame pri posudzovaní práv a povinností, príprave právnych dokumentov, mimosúdnom riešení sporov aj pri zastupovaní v súdnych konaniach.",
+        "cta": {
+          "text": "Dohodnite si konzultáciu",
+          "href": "/kontakt/"
+        },
+        "photo": {
+          "name": "justice_book",
+          "alt": ""
+        }
+      },
+      {
+        "type": "cardsSide",
+        "header": {
+          "eyebrow": "Naše služby",
+          "title": "Oblasti občianskeho práva, ktorým sa venujeme"
+        },
+        "items": [
+          {
+            "icon": "groups",
+            "title": "Dedičské konania a spory o dedičstvo",
+            "paras": [
+              "Poskytujeme právnu pomoc v dedičských konaniach vrátane dodatočných konaní o dedičstve, ak sa po skončení pôvodného konania zistí ďalší majetok poručiteľa.",
+              "Pomáhame pri riešení sporných otázok medzi dedičmi, preverovaní vlastníckych vzťahov k zdedenému majetku a pri uplatňovaní práv súvisiacich s dedičstvom."
+            ],
+            "photo": {
+              "name": "books_pen",
+              "alt": ""
+            }
+          },
+          {
+            "icon": "payments",
+            "title": "Náhrada škody",
+            "paras": [
+              "Posudzujeme nároky na náhradu škody vzniknutej porušením právnych povinností, poškodením majetku alebo iným protiprávnym konaním.",
+              "Zastupujeme poškodených pri uplatňovaní ich nárokov, ako aj osoby, voči ktorým sú nároky na náhradu škody uplatňované. Súčasťou právnej pomoci je posúdenie zodpovednosti za škodu, jej rozsahu a možností mimosúdneho a súdneho riešenia."
+            ],
+            "photo": {
+              "name": "jar",
+              "alt": ""
+            }
+          },
+          {
+            "icon": "home",
+            "title": "Bezdôvodné obohatenie",
+            "paras": [
+              "Bezdôvodné obohatenie môže vzniknúť napríklad užívaním cudzej nehnuteľnosti bez právneho dôvodu, prijatím plnenia bez právneho titulu alebo plnením z právneho dôvodu, ktorý následne odpadol.",
+              "V týchto prípadoch posudzujeme vznik a rozsah nároku na vydanie bezdôvodného obohatenia a zastupujeme klientov pri jeho uplatňovaní alebo obrane proti nemu."
+            ],
+            "photo": {
+              "name": "house",
+              "alt": ""
+            }
+          },
+          {
+            "icon": "diversity_1",
+            "title": "Zrušenie a vyporiadanie bezpodielového spoluvlastníctva manželov",
+            "paras": [
+              "Poskytujeme právne služby pri zrušení a vyporiadaní bezpodielového spoluvlastníctva manželov (BSM), najmä pri usporiadaní vlastníckych vzťahov k nehnuteľnostiam, finančným prostriedkom, záväzkom a ďalšiemu spoločnému majetku.",
+              "Pripravujeme dohody o vyporiadaní BSM a zastupujeme klientov pri rokovaniach aj v súdnych konaniach, ak sa manželia na vyporiadaní nedohodnú."
+            ],
+            "photo": {
+              "name": "rings",
+              "alt": ""
+            }
+          },
+          {
+            "icon": "description",
+            "title": "Ďalšie občianskoprávne záležitosti",
+            "paras": [
+              "Poskytujeme právnu pomoc aj pri ďalších otázkach občianskeho práva, najmä pri ochrane vlastníckych a iných majetkových práv, riešení sporov zo zmluvných vzťahov a uplatňovaní alebo obrane proti občianskoprávnym nárokom.",
+              "Rozsah právnej pomoci závisí od povahy konkrétneho prípadu a právnych otázok, ktoré je potrebné vyriešiť."
+            ],
+            "photo": {
+              "name": "books_row",
+              "alt": ""
+            }
+          }
+        ]
+      },
+      {
+        "type": "splitBand",
+        "eyebrow": "Náš prístup",
+        "title": "Mimosúdne riešenie a súdne zastupovanie",
+        "paras": [
+          "Nie každý občianskoprávny spor musí viesť k súdnemu konaniu. V závislosti od okolností prípadu môže byť vhodným riešením dohoda, ktorej dosiahnutiu predchádza právne posúdenie, príprava výzvy alebo rokovanie s druhou stranou.",
+          "Ak mimosúdne riešenie nie je možné alebo vhodné, zabezpečujeme zastupovanie pri uplatňovaní a ochrane práv v súdnom konaní."
+        ],
+        "photo": {
+          "name": "papers_table",
+          "alt": ""
+        },
+        "side": "right",
+        "bg": "sand"
+      },
+      {
+        "type": "contactBand",
+        "title": "Potrebujete právnu pomoc v občianskoprávnej záležitosti?",
+        "paras": [
+          "Ak riešite dedičstvo, majetkový spor, nárok na náhradu škody, bezdôvodné obohatenie alebo inú občianskoprávnu otázku, obráťte sa na nás.",
+          "Po oboznámení sa s Vašou situáciou posúdime právne možnosti a navrhneme ďalší postup."
+        ],
+        "cta": {
+          "text": "Dohodnite si konzultáciu",
+          "href": "/kontakt/"
+        },
+        "photo": {
+          "name": "band1",
+          "alt": ""
+        }
+      }
+    ]
+  },
+  "en": null
+}

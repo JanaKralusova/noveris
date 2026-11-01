@@ -69,5 +69,41 @@
       "title": "Vysporiadanie pozemkov a vlastníckych vzťahov | Noveris Legal",
       "description": "Nevysporiadané vlastnícke vzťahy môžu komplikovať predaj, výstavbu aj ďalšie využívanie nehnuteľností."
     }
+  },
+  "pozemky-pod-stavbami": {
+    "sk": {
+      "title": "Vysporiadanie pozemkov pod stavbami a v areáloch | Noveris Legal",
+      "description": "Pomáhame vlastníkom stavieb, podnikateľom a obchodným spoločnostiam pri vysporiadaní pozemkov pod stavbami a v areáloch."
+    }
+  },
+  "nehnutelnosti-a-development": {
+    "sk": {
+      "title": "Nehnuteľnosti a development | Noveris Legal",
+      "description": "Kúpa, predaj, prenájom či výstavba nehnuteľností prinášajú množstvo právnych otázok, ktoré môžu ovplyvniť priebeh transakcie, realizáciu projektu aj ďalšie…"
+    }
+  },
+  "zmluvna-agenda": {
+    "sk": {
+      "title": "Zmluvná agenda | Noveris Legal",
+      "description": "Zmluvy upravujú práva a povinnosti zmluvných strán a vytvárajú právny základ ich vzájomných vzťahov. Nejasné ustanovenia, nevýhodne nastavené podmienky alebo…"
+    }
+  },
+  "obcianske-pravo": {
+    "sk": {
+      "title": "Občianske právo | Noveris Legal",
+      "description": "Občianskoprávne vzťahy sa dotýkajú vlastníctva majetku, zmluvných záväzkov, dedičstva aj nárokov vznikajúcich pri porušení práv a povinností."
+    }
+  },
+  "obchodne-pravo": {
+    "sk": {
+      "title": "Obchodné právo | Noveris Legal",
+      "description": "Podnikanie prináša právne otázky súvisiace so založením a fungovaním obchodných spoločností, vzťahmi medzi spoločníkmi, obchodnými záväzkami aj zmenami v…"
+    }
+  },
+  "riesenie-sporov": {
+    "sk": {
+      "title": "Riešenie sporov | Noveris Legal",
+      "description": "Spory môžu vzniknúť z porušenia zmluvných povinností, nezaplatených pohľadávok, vlastníckych vzťahov či iných právnych nárokov."
+    }
   }
 }

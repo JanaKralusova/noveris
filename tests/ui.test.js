@@ -70,3 +70,23 @@ test('renderSections maps types and rejects unknown ones', () => {
   assert.ok(h.includes('lg:col-span-2') && h.includes('bg-sand'));
   assert.throws(() => ui.renderSections([{ type: 'nope' }]), /Unknown section type: nope/);
 });
+
+test('cardsSide with 5 items puts the last card full width below the 2x2 grid', () => {
+  const items = [1, 2, 3, 4, 5].map((i) => ({ icon: 'gavel', title: 'T' + i, paras: ['p'], photo }));
+  const h = ui.renderSections([{ type: 'cardsSide', items }]);
+  assert.strictEqual(count(h, /<article/g), 5);
+  assert.ok(h.includes('<div class="mt-5 lg:mt-6"><article'));
+});
+
+test('callout option on card sections, splitBand and steps in twoCol', () => {
+  const co = { icon: 'map', text: 'Callout text' };
+  const items = [1, 2].map((i) => ({ icon: 'gavel', title: 'T' + i, text: 't', photo }));
+  const h = ui.renderSections([
+    { type: 'cardsCompact', items, callout: co },
+    { type: 'splitBand', title: 'S', paras: ['p'], photo, callout: co },
+    { type: 'twoCol', bg: 'sand', left: { eyebrow: 'a', title: 'L', paras: ['p'] }, right: { eyebrow: 'b', title: 'R', steps: [{ title: 'Krok', text: 'x' }] } },
+    { type: 'grid', cls: 'grid', items: [{ type: 'cardSide', icon: 'gavel', title: 'One', paras: ['p'], photo }] },
+  ]);
+  assert.strictEqual(count(h, /Callout text/g), 2);
+  assert.ok(h.includes('>Krok</h3>') && h.includes('>One</h3>'));
+});

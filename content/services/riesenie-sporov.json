@@ -1,0 +1,125 @@
+{
+  "sk": {
+    "sections": [
+      {
+        "type": "hero",
+        "label": null,
+        "title": "Riešenie sporov",
+        "intro": [
+          "Spory môžu vzniknúť z porušenia zmluvných povinností, nezaplatených pohľadávok, vlastníckych vzťahov či iných právnych nárokov. Ich riešenie si vyžaduje posúdenie právneho postavenia jednotlivých strán, dostupných dôkazov a možností ďalšieho postupu."
+        ],
+        "bold": "Zastupujeme jednotlivcov, podnikateľov a obchodné spoločnosti pri mimosúdnom a súdnom riešení sporov.",
+        "after": "Pomáhame pri uplatňovaní a ochrane práv, vymáhaní pohľadávok a zastupovaní v súdnych a správnych konaniach.",
+        "cta": {
+          "text": "Dohodnite si konzultáciu",
+          "href": "/kontakt/"
+        },
+        "photo": {
+          "name": "justice2",
+          "alt": ""
+        }
+      },
+      {
+        "type": "cardsTop",
+        "header": {
+          "eyebrow": "Naše služby",
+          "title": "Oblasti riešenia sporov, ktorým sa venujeme"
+        },
+        "items": [
+          {
+            "icon": "forum",
+            "title": "Mimosúdne riešenie sporov",
+            "paras": [
+              "Nie každý právny spor musí viesť k súdnemu konaniu. V závislosti od okolností prípadu môže byť vhodným riešením dohoda, ktorá umožní usporiadať sporné vzťahy bez potreby súdneho rozhodnutia.",
+              "Posudzujeme právne postavenie klienta, pripravujeme predžalobné výzvy a návrhy dohôd a zastupujeme klientov pri rokovaniach s druhou stranou."
+            ],
+            "photo": {
+              "name": "sil2",
+              "alt": ""
+            }
+          },
+          {
+            "icon": "account_balance",
+            "title": "Súdne spory",
+            "paras": [
+              "Zastupujeme klientov v občianskoprávnych a obchodnoprávnych sporoch, najmä pri uplatňovaní nárokov zo zmluvných vzťahov, náhrady škody, bezdôvodného obohatenia a sporoch týkajúcich sa vlastníckych a iných majetkových práv.",
+              "Súčasťou právneho zastupovania je posúdenie dôvodnosti nárokov, príprava procesných podaní, zabezpečenie dôkazných podkladov a zastupovanie v priebehu súdneho konania."
+            ],
+            "photo": {
+              "name": "gavel",
+              "alt": ""
+            }
+          },
+          {
+            "icon": "payments",
+            "title": "Vymáhanie pohľadávok",
+            "paras": [
+              "Nezaplatené faktúry, pôžičky alebo iné peňažné záväzky môžu viesť k potrebe právneho vymáhania pohľadávok.",
+              "Preverujeme právny základ a vymáhateľnosť pohľadávok, pripravujeme výzvy na zaplatenie a zastupujeme veriteľov pri súdnom uplatňovaní nárokov vrátane upomínacieho konania."
+            ],
+            "photo": {
+              "name": "folders",
+              "alt": ""
+            }
+          },
+          {
+            "icon": "shield",
+            "title": "Obrana proti uplatňovaným nárokom",
+            "paras": [
+              "Právne zastupovanie zabezpečujeme aj klientom, voči ktorým druhá strana uplatňuje peňažné alebo iné právne nároky.",
+              "Posudzujeme ich dôvodnosť, rozsah a dostupné možnosti obrany. Pripravujeme vyjadrenia, odpory, opravné prostriedky a ďalšie procesné podania podľa povahy konania."
+            ],
+            "photo": {
+              "name": "sil3",
+              "alt": ""
+            }
+          },
+          {
+            "icon": "apartment",
+            "title": "Zastupovanie v správnych konaniach",
+            "paras": [
+              "Zastupujeme klientov v konaniach pred orgánmi verejnej správy, najmä pri riešení otázok týkajúcich sa nehnuteľností, vlastníckych práv a ďalších správnoprávnych záležitostí.",
+              "Súčasťou právnej pomoci je príprava žiadostí, vyjadrení, námietok a opravných prostriedkov, ako aj zastupovanie pri komunikácii s príslušnými orgánmi."
+            ],
+            "photo": {
+              "name": "filestack",
+              "alt": ""
+            }
+          }
+        ]
+      },
+      {
+        "type": "splitBand",
+        "eyebrow": "Náš prístup",
+        "title": "Posúdenie právnych možností pred začatím sporu",
+        "paras": [
+          "Pred začatím súdneho konania je dôležité posúdiť nielen právny základ nároku, ale aj dostupné dôkazy, procesné riziká a možné náklady konania.",
+          "Na základe konkrétnych okolností prípadu vyhodnocujeme možnosti mimosúdneho riešenia a súdneho uplatnenia alebo obrany práv. Cieľom je zvoliť postup, ktorý zohľadňuje právne postavenie klienta aj praktické dôsledky vedenia sporu."
+        ],
+        "photo": {
+          "name": "sil_group",
+          "alt": ""
+        },
+        "side": "right",
+        "bg": "sand"
+      },
+      {
+        "type": "contactBand",
+        "title": "Potrebujete vyriešiť právny spor?",
+        "paras": [
+          "Ak potrebujete uplatniť svoj nárok, vymôcť pohľadávku alebo sa brániť proti požiadavkám druhej strany, obráťte sa na nás.",
+          "Po oboznámení sa s Vašou situáciou posúdime právne možnosti a navrhneme ďalší postup."
+        ],
+        "cta": {
+          "text": "Dohodnite si konzultáciu",
+          "href": "/kontakt/"
+        },
+        "photo": {
+          "name": "band3",
+          "alt": ""
+        }
+      }
+    ]
+  },
+  "en": null
+}

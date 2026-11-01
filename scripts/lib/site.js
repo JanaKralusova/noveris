@@ -41,6 +41,14 @@ const SERVICES = {
   'vysporiadanie-pozemkov': {
     sk: '/sluzby/vysporiadanie-pozemkov/', en: '/en/services/land-ownership-settlement/', order: 1,
   },
+  'pozemky-pod-stavbami': {
+    sk: '/sluzby/vysporiadanie-pozemkov/pozemky-pod-stavbami/', parent: 'vysporiadanie-pozemkov', order: 2,
+  },
+  'nehnutelnosti-a-development': { sk: '/sluzby/nehnutelnosti-a-development/', order: 3 },
+  'zmluvna-agenda': { sk: '/sluzby/zmluvna-agenda/', order: 4 },
+  'obcianske-pravo': { sk: '/sluzby/obcianske-pravo/', order: 5 },
+  'obchodne-pravo': { sk: '/sluzby/obchodne-pravo/', order: 6 },
+  'riesenie-sporov': { sk: '/sluzby/riesenie-sporov/', order: 7 },
 };
 
 function loadTranslations() {

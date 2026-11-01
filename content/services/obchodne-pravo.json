@@ -1,0 +1,129 @@
+{
+  "sk": {
+    "sections": [
+      {
+        "type": "hero",
+        "label": null,
+        "title": "Obchodné právo",
+        "intro": [
+          "Podnikanie prináša právne otázky súvisiace so založením a fungovaním obchodných spoločností, vzťahmi medzi spoločníkmi, obchodnými záväzkami aj zmenami v organizačnej a vlastníckej štruktúre spoločnosti."
+        ],
+        "bold": "Poskytujeme právne služby podnikateľom, obchodným spoločnostiam a ich spoločníkom pri riešení obchodnoprávnych záležitostí.",
+        "after": "Pomáhame pri zakladaní spoločností, príprave korporátnej a zmluvnej dokumentácie, realizácii zmien v spoločnostiach aj pri ich zrušení a likvidácii.",
+        "cta": {
+          "text": "Dohodnite si konzultáciu",
+          "href": "/kontakt/"
+        },
+        "photo": {
+          "name": "skyline",
+          "alt": ""
+        }
+      },
+      {
+        "type": "cardsTop",
+        "header": {
+          "eyebrow": "Naše služby",
+          "title": "Oblasti obchodného práva, ktorým sa venujeme"
+        },
+        "items": [
+          {
+            "icon": "domain",
+            "title": "Zakladanie obchodných spoločností",
+            "paras": [
+              "Zabezpečujeme právnu prípravu založenia obchodných spoločností vrátane vypracovania zakladateľských dokumentov, nastavenia základných pravidiel fungovania spoločnosti a prípravy podkladov potrebných na jej zápis do obchodného registra.",
+              "Pri zakladaní spoločností zohľadňujeme aj požiadavky na usporiadanie vzťahov medzi spoločníkmi a spôsob rozhodovania o záležitostiach spoločnosti."
+            ],
+            "photo": {
+              "name": "glassbld",
+              "alt": ""
+            }
+          },
+          {
+            "icon": "edit_document",
+            "title": "Zmeny v obchodných spoločnostiach",
+            "paras": [
+              "Počas fungovania spoločnosti môže vzniknúť potreba zmeniť jej vnútorné usporiadanie, vlastnícku štruktúru alebo údaje zapísané v obchodnom registri.",
+              "Pripravujeme dokumentáciu súvisiacu so zmenami spoločníkov a konateľov, prevodmi obchodných podielov, zmenami základného imania, sídla či obchodného mena spoločnosti a zabezpečujeme súvisiace zápisy do obchodného registra."
+            ],
+            "photo": {
+              "name": "sign4",
+              "alt": ""
+            }
+          },
+          {
+            "icon": "groups",
+            "title": "Korporátna agenda a vzťahy medzi spoločníkmi",
+            "paras": [
+              "Právne vzťahy medzi spoločníkmi a orgánmi spoločnosti majú zásadný význam pre jej riadne fungovanie a prijímanie obchodných rozhodnutí.",
+              "Venujeme sa príprave a revízii spoločenských zmlúv, dohôd medzi spoločníkmi, rozhodnutí valného zhromaždenia a ďalšej korporátnej dokumentácie. Riešime aj právne otázky týkajúce sa práv a povinností spoločníkov a členov orgánov spoločnosti."
+            ],
+            "photo": {
+              "name": "chairs",
+              "alt": ""
+            }
+          },
+          {
+            "icon": "handshake",
+            "title": "Obchodnoprávne zmluvy",
+            "paras": [
+              "Pripravujeme a posudzujeme zmluvnú dokumentáciu používanú v obchodných vzťahoch vrátane zmlúv o spolupráci, rámcových zmlúv, obchodných podmienok a ďalších dohôd súvisiacich s podnikateľskou činnosťou.",
+              "Pri nastavení zmluvných podmienok zohľadňujeme charakter obchodnej spolupráce, rozdelenie zodpovednosti medzi zmluvnými stranami a právne riziká spojené s plnením záväzkov."
+            ],
+            "photo": {
+              "name": "calc",
+              "alt": ""
+            },
+            "link": {
+              "text": "Viac o príprave a posudzovaní zmlúv",
+              "href": "/sluzby/zmluvna-agenda/"
+            }
+          },
+          {
+            "icon": "balance",
+            "title": "Zrušenie a likvidácia obchodných spoločností",
+            "paras": [
+              "Zabezpečujeme právne služby súvisiace so zrušením obchodných spoločností a ich likvidáciou vrátane prípravy potrebnej dokumentácie a právnych úkonov súvisiacich s priebehom likvidácie.",
+              "Venujeme sa aj prípadom, keď sa po výmaze spoločnosti z obchodného registra zistí ďalší majetok, pri ktorom je potrebné posúdiť možnosti nariadenia dodatočnej likvidácie."
+            ],
+            "photo": {
+              "name": "binders_old",
+              "alt": ""
+            }
+          }
+        ]
+      },
+      {
+        "type": "splitBand",
+        "eyebrow": "Náš prístup",
+        "title": "Právna pomoc pri zmenách a rozhodnutiach v spoločnosti",
+        "paras": [
+          "Niektoré obchodnoprávne otázky možno vyriešiť prípravou jednotlivého dokumentu alebo vykonaním zápisu do obchodného registra. Iné vyžadujú podrobnejšie posúdenie právnych vzťahov medzi spoločníkmi, existujúcich záväzkov alebo dôsledkov plánovaných zmien.",
+          "Pri príprave právneho postupu preto zohľadňujeme nielen zákonné požiadavky, ale aj konkrétne fungovanie spoločnosti a záujmy klienta."
+        ],
+        "photo": {
+          "name": "meeting_sil",
+          "alt": ""
+        },
+        "side": "right",
+        "bg": "sand"
+      },
+      {
+        "type": "contactBand",
+        "title": "Potrebujete právnu pomoc v oblasti obchodného práva?",
+        "paras": [
+          "Ak zakladáte obchodnú spoločnosť, pripravujete zmeny v jej fungovaní, potrebujete upraviť vzťahy medzi spoločníkmi alebo riešite jej zrušenie a likvidáciu, obráťte sa na nás.",
+          "Po oboznámení sa s Vašou situáciou posúdime právne možnosti a navrhneme ďalší postup."
+        ],
+        "cta": {
+          "text": "Dohodnite si konzultáciu",
+          "href": "/kontakt/"
+        },
+        "photo": {
+          "name": "band2",
+          "alt": ""
+        }
+      }
+    ]
+  },
+  "en": null
+}

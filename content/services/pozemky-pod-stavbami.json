@@ -1,0 +1,229 @@
+{
+  "sk": {
+    "sections": [
+      {
+        "type": "hero",
+        "label": null,
+        "title": "Vysporiadanie pozemkov pod stavbami a v areáloch",
+        "intro": [
+          "Vlastníte stavbu, ale pozemok pod ňou patrí inému vlastníkovi? Alebo prevádzkujete výrobný, skladový, poľnohospodársky či iný areál, v ktorom nie sú vysporiadané vlastnícke vzťahy k pozemkom?",
+          "Pri rozsiahlejších areáloch môže ísť o desiatky parciel s rozdielnymi vlastníkmi, neprehľadnou vlastníckou históriou a odlišnými právnymi režimami. Niektoré pozemky môžu patriť zosnulým alebo nezisteným vlastníkom, iné štátu či spoločnostiam, ktoré už zanikli. Ich vysporiadanie preto často nemožno vyriešiť jedinou zmluvou alebo jedným právnym postupom."
+        ],
+        "bold": "Zameriavame sa aj na právne náročné prípady vysporiadania pozemkov, pri ktorých je potrebné preveriť historické vlastnícke vzťahy, posúdiť viacero právnych možností a navrhnúť koordinovaný postup riešenia.",
+        "after": "Pomáhame vlastníkom stavieb, podnikateľom a obchodným spoločnostiam pri vysporiadaní pozemkov pod stavbami a v areáloch.",
+        "cta": {
+          "text": "Dohodnite si konzultáciu",
+          "href": "/kontakt/"
+        },
+        "photo": {
+          "name": "hero",
+          "alt": ""
+        }
+      },
+      {
+        "type": "cardsCompact",
+        "header": {
+          "eyebrow": "Areály",
+          "title": "Kde vznikajú problémy s nevysporiadanými pozemkami?",
+          "note": "Nevysporiadané vlastnícke vzťahy sa netýkajú iba jednotlivých rodinných domov či garáží. Často sa vyskytujú aj pri rozsiahlejších nehnuteľnostiach, ktoré pozostávajú z viacerých stavieb a pozemkov. Môže ísť napríklad o:"
+        },
+        "items": [
+          {
+            "icon": "factory",
+            "title": "Výrobné a priemyselné areály",
+            "text": "Výrobné haly, dielne, prevádzkové budovy a pozemky potrebné na zabezpečenie výroby.",
+            "photo": {
+              "name": "prod",
+              "alt": ""
+            }
+          },
+          {
+            "icon": "warehouse",
+            "title": "Skladové a logistické areály",
+            "text": "Skladové objekty, manipulačné plochy, prístupové komunikácie a ďalšie súvisiace pozemky.",
+            "photo": {
+              "name": "ware",
+              "alt": ""
+            }
+          },
+          {
+            "icon": "agriculture",
+            "title": "Poľnohospodárske areály a hospodárske dvory",
+            "text": "Hospodárske budovy, maštale, sklady, dvory a pozemky využívané pri poľnohospodárskej činnosti.",
+            "photo": {
+              "name": "agri",
+              "alt": ""
+            }
+          },
+          {
+            "icon": "grass",
+            "title": "Jazdecké areály, ranče a chovateľské prevádzky",
+            "text": "Stajne, výbehy, pastviny, prístupové cesty a ďalšie plochy potrebné na chov zvierat.",
+            "photo": {
+              "name": "horse",
+              "alt": ""
+            }
+          },
+          {
+            "icon": "domain",
+            "title": "Iné prevádzkové a komerčné areály",
+            "text": "Nehnuteľnosti využívané na podnikateľskú alebo inú činnosť, pri ktorých vlastníctvo pozemkov nie je usporiadané.",
+            "photo": {
+              "name": "off",
+              "alt": ""
+            }
+          }
+        ],
+        "callout": {
+          "icon": "map",
+          "text": "Problémom pritom nemusia byť iba pozemky priamo pod budovami. Rovnako dôležité môžu byť okolité parcely, ktoré sú nevyhnutné na prístup, prevádzku alebo ďalšie využívanie areálu."
+        }
+      },
+      {
+        "type": "grid",
+        "bg": "sand",
+        "cls": "grid items-start gap-8 lg:grid-cols-[1.1fr_1fr] lg:gap-12",
+        "items": [
+          {
+            "icon": "history_edu",
+            "title": "Prečo bývajú pozemky pod stavbami a v areáloch nevysporiadané?",
+            "paras": [
+              "Na Slovensku môžu mať stavba a pozemok rozdielnych vlastníkov. Takýto stav môže vzniknúť napríklad samostatným prevodom stavby alebo tým, že stavebník mal právo postaviť stavbu na cudzom pozemku.",
+              "Pri starších prevádzkových areáloch môžu vlastnícke vzťahy vychádzať ešte z obdobia, keď pozemky užívali štátne podniky, družstvá alebo iné organizácie. Hoci sa vlastníctvo stavieb medzičasom zmenilo, pozemky mohli zostať zapísané na pôvodných vlastníkov alebo ich právnych nástupcov.",
+              "Samotná skutočnosť, že stavba a pozemok majú rozdielnych vlastníkov, ešte neznamená, že ide o neoprávnenú stavbu. Preto je potrebné preveriť aj okolnosti výstavby a právny titul, na základe ktorého bola stavba postavená alebo sa pozemok užíva."
+            ],
+            "photo": {
+              "name": "chim",
+              "alt": ""
+            },
+            "type": "cardSide"
+          },
+          {
+            "type": "splitTextList",
+            "eyebrow": "Vlastnícke problémy",
+            "title": "Aké vlastnícke problémy riešime?",
+            "intro": "Vysporiadanie pozemkov pod stavbami a v areáloch môže byť komplikované najmä vtedy, ak:",
+            "items": [
+              {
+                "icon": "groups",
+                "text": "pozemky patria viacerým spoluvlastníkom, prípadne desiatkam vlastníkov s rôzne veľkými podielmi"
+              },
+              {
+                "icon": "person_search",
+                "text": "na liste vlastníctva sú zapísané zosnulé osoby alebo vlastníci, ktorých nemožno spoľahlivo identifikovať"
+              },
+              {
+                "icon": "account_balance",
+                "text": "s pozemkami alebo spoluvlastníckymi podielmi nakladá Slovenský pozemkový fond"
+              },
+              {
+                "icon": "flag",
+                "text": "pozemky sú vo vlastníctve Slovenskej republiky"
+              },
+              {
+                "icon": "business",
+                "text": "ako vlastník je evidovaná spoločnosť, ktorá už zanikla"
+              },
+              {
+                "icon": "fact_check",
+                "text": "vlastníctvo je sporné alebo je hodnovernosť údajov katastra spochybnená"
+              }
+            ],
+            "outro": [
+              "Pri rozsiahlejších areáloch sa tieto problémy často kombinujú. Jednotlivé parcely preto nemožno vždy riešiť izolovane, ale je potrebné posúdiť ich vlastnícke vzťahy vo vzájomných súvislostiach."
+            ],
+            "link": {
+              "text": "Viac o vysporiadaní pozemkov a komplikovaných vlastníckych vzťahov",
+              "href": "/sluzby/vysporiadanie-pozemkov/"
+            }
+          }
+        ]
+      },
+      {
+        "type": "splitBand",
+        "eyebrow": "Náročné prípady",
+        "title": "Keď vysporiadanie pozemkov vyžaduje komplexnejší právny postup",
+        "paras": [
+          "Niektoré vlastnícke problémy možno vyriešiť dohodou s vlastníkom pozemku. Iné si vyžadujú podrobné preverenie historických dokumentov, identifikáciu právnych nástupcov, posúdenie viacerých právnych režimov a postupné riešenie jednotlivých vlastníckych vzťahov.",
+          "Pri rozsiahlejších areáloch môže byť potrebné koordinovať viacero odlišných postupov. Kým pri jednej parcele môže prichádzať do úvahy odkúpenie spoluvlastníckych podielov, pri ďalšej môže byť potrebné dedičské konanie, rokovanie so Slovenským pozemkovým fondom alebo súdne konanie.",
+          "Venujeme sa aj prípadom, pri ktorých predchádzajúce pokusy o vysporiadanie neviedli k výsledku alebo nie je zrejmé, akým spôsobom možno vlastnícke vzťahy usporiadať."
+        ],
+        "photo": {
+          "name": "fields",
+          "alt": ""
+        },
+        "side": "right",
+        "bg": "paper",
+        "callout": {
+          "icon": "balance",
+          "text": "Naším cieľom je identifikovať právne prekážky, posúdiť dostupné možnosti ich riešenia a navrhnúť postup, ktorý zohľadňuje vzájomné súvislosti jednotlivých parciel."
+        }
+      },
+      {
+        "type": "twoCol",
+        "bg": "sand",
+        "left": {
+          "eyebrow": "Možnosti riešenia",
+          "title": "Ako možno vysporiadať pozemok pod stavbou alebo v areáli?",
+          "paras": [
+            "Vhodný spôsob riešenia závisí od vlastníckych vzťahov, okolností výstavby, existujúcich práv k pozemkom a spôsobu ich využívania.",
+            "Podľa konkrétnej situácie môže prichádzať do úvahy napríklad odkúpenie pozemku alebo spoluvlastníckych podielov, dohoda s vlastníkom, zriadenie vecného bremena alebo iné zmluvné usporiadanie právnych vzťahov.",
+            "Ak dohoda nie je možná, posudzujeme aj dostupné súdne riešenia. Tie sa môžu líšiť podľa toho, či ide o spor medzi spoluvlastníkmi, neoprávnenú stavbu alebo iný právny vzťah medzi vlastníkom stavby a pozemku.",
+            "Pri rozsiahlejších areáloch môže byť potrebné zvoliť odlišný postup pre jednotlivé parcely a určiť poradie krokov podľa ich právneho stavu a významu pre fungovanie areálu."
+          ]
+        },
+        "right": {
+          "eyebrow": "Náš postup",
+          "title": "Ako postupujeme pri vysporiadaní pozemkov?",
+          "steps": [
+            {
+              "title": "Preverenie vlastníckych a právnych vzťahov",
+              "text": "Preskúmame právny stav dotknutých pozemkov, dostupné historické dokumenty a okolnosti vzniku stavieb. Identifikujeme vlastníkov, existujúce právne tituly a prekážky vysporiadania."
+            },
+            {
+              "title": "Návrh právneho postupu",
+              "text": "Na základe zistených skutočností posúdime možnosti usporiadania vlastníckych a užívacích vzťahov. Pri rozsiahlejších areáloch navrhneme aj postupnosť riešenia jednotlivých parciel s ohľadom na ich význam pre prevádzku alebo plánované využitie."
+            },
+            {
+              "title": "Realizácia vysporiadania",
+              "text": "Zabezpečujeme rokovania s vlastníkmi a príslušnými inštitúciami, prípravu zmluvnej dokumentácie a právne zastupovanie v súdnych a ďalších konaniach podľa povahy prípadu."
+            }
+          ]
+        }
+      },
+      {
+        "type": "splitBand",
+        "eyebrow": null,
+        "title": "Vysporiadanie pozemkov pred predajom, rozšírením alebo ďalším využitím areálu",
+        "paras": [
+          "Nevysporiadané vlastnícke vzťahy môžu komplikovať predaj nehnuteľností, financovanie, rozšírenie prevádzky, výstavbu nových objektov alebo realizáciu ďalších investičných zámerov.",
+          "V niektorých prípadoch sa vlastnícke problémy začnú riešiť až vtedy, keď spoločnosť plánuje areál predať, získať financovanie alebo realizovať novú výstavbu. Ich vysporiadanie však môže vyžadovať viacero na seba nadväzujúcich právnych krokov.",
+          "Včasné preverenie vlastníckych vzťahov umožňuje identifikovať právne prekážky a posúdiť možnosti ich riešenia ešte pred uskutočnením plánovaného zámeru."
+        ],
+        "photo": {
+          "name": "plan1",
+          "alt": ""
+        },
+        "side": "left",
+        "bg": "paper"
+      },
+      {
+        "type": "contactBand",
+        "title": "Potrebujete vysporiadať pozemky pod stavbou alebo v areáli?",
+        "paras": [
+          "Ak vlastníte stavbu na cudzom pozemku alebo potrebujete usporiadať vlastnícke vzťahy k pozemkom vo výrobnom, poľnohospodárskom či inom areáli, obráťte sa na nás.",
+          "Preveríme právny stav nehnuteľností, posúdime možnosti vysporiadania a navrhneme ďalší právny postup s ohľadom na konkrétne okolnosti Vášho prípadu."
+        ],
+        "cta": {
+          "text": "Dohodnite si konzultáciu",
+          "href": "/kontakt/"
+        },
+        "photo": {
+          "name": "band2",
+          "alt": ""
+        }
+      }
+    ]
+  },
+  "en": null
+}

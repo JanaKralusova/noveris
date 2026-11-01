@@ -56,10 +56,11 @@ function prepare(sections, crumbs) {
   return sections.map((s) => {
     const o = { ...s };
     if (o.photo) o.photo = resolvePhoto(o.photo, SIZES[o.type] || SIZES.splitBand, o.type === 'hero');
-    if (o.items) {
+    if (o.items && o.type !== 'grid') {
       o.items = o.items.map((it) => (it && it.photo ? { ...it, photo: resolvePhoto(it.photo, SIZES[o.type.replace(/^cards(\w)/, (_, c) => 'card' + c)] || SIZES.cardSide, false) } : it));
     }
     if (o.type === 'hero') o.crumbs = crumbs;
+    if (o.type === 'grid') o.items = prepare(o.items, crumbs);
     return o;
   });
 }
