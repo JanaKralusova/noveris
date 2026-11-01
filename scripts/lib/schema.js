@@ -5,7 +5,7 @@
  * founder's Person are included on every page; the page nodes reference them.
  */
 
-const { SITE, SITE_NAME, OG_IMAGES, loadSiteConfig, abs } = require('./site');
+const { SITE, SITE_NAME, OG_IMAGES, loadSiteConfig, loadTranslations, abs } = require('./site');
 const { jpegSize } = require('./images');
 const path = require('path');
 const { ROOT } = require('./site');
@@ -22,7 +22,11 @@ const ORG_DESC = {
   en: 'Law firm in Bratislava providing legal advice. Focus on land ownership settlement, real estate law, contracts, civil and corporate law.',
 };
 
+// The six practice areas, same source as the services cards (translation keys services.area.<id>.title/.desc).
+const SERVICE_AREAS = ['vysporiadanie-pozemkov', 'nehnutelnosti-a-development', 'zmluvna-agenda', 'obcianske-pravo', 'obchodne-pravo', 'riesenie-sporov'];
+
 function orgNode(lang) {
+  const T = loadTranslations();
   const cfg = loadSiteConfig();
   const og = OG_IMAGES.sk;
   const node = {
@@ -51,15 +55,15 @@ function orgNode(lang) {
     priceRange: '$$',
     hasOfferCatalog: {
       '@type': 'OfferCatalog',
-      name: 'Právne služby (Legal Services)',
-      itemListElement: [
-        { name: 'Právo nehnuteľností (Real Estate Law)' },
-        { name: 'Zmluvná agenda (Contract Law)' },
-        { name: 'Občianske právo (Civil Law)' },
-        { name: 'Obchodné právo (Corporate Law)' },
-        { name: 'Riešenie sporov (Dispute Resolution)' },
-        { name: 'Vymáhanie pohľadávok (Debt Recovery)' },
-      ].map((s) => ({ '@type': 'Offer', itemOffered: { '@type': 'Service', ...s } })),
+      name: lang === 'en' ? 'Legal services' : 'Právne služby',
+      itemListElement: SERVICE_AREAS.map((id) => ({
+        '@type': 'Offer',
+        itemOffered: {
+          '@type': 'Service',
+          name: T[lang][`services.area.${id}.title`],
+          description: T[lang][`services.area.${id}.desc`],
+        },
+      })),
     },
   };
   if (cfg.sameAs.organization.length) node.sameAs = cfg.sameAs.organization;

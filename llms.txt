@@ -14,12 +14,12 @@
 Noveris Legal combines legal precision with a human approach. Founded by Mgr. Jana Králusová, the firm focuses on functional and predictable law, tailored to the specific context and real-world circumstances of the client rather than just strict legal theory. The core values are Trust, Responsibility, and Transparency.
 
 ## Areas of Expertise (Služby)
-1. **Real Estate Law (Právo nehnuteľností)**: Real estate transfers, land law, settlement of ownership relations (including unknown owners), protection of property rights.
-2. **Contract Law (Zmluvná agenda)**: Preparation, drafting, assessment, and revision of contracts, contract negotiations, and contract disputes.
-3. **Civil Law (Občianske právo)**: Comprehensive civil law, inheritance, damage compensation, unjust enrichment, and marital property settlement.
-4. **Corporate Law (Obchodné právo)**: Establishing/modifying companies, corporate agenda, contractual documentation, and liquidations.
-5. **Dispute Resolution (Riešenie sporov)**: Representing clients in court, arbitration, and administrative proceedings.
-6. **Debt Recovery (Vymáhanie pohľadávok)**: Out-of-court and court debt recovery, including enforcement proceedings.
+1. **[Settlement of Land and Ownership Relations (Vysporiadanie pozemkov a vlastníckych vzťahov)](https://noveris.sk/sluzby/vysporiadanie-pozemkov/)**: Settlement of land with complicated ownership relations, including cases involving the Slovak Land Fund, deceased owners, duplicate ownership or dissolved companies; land under buildings and in sites (sub-page: https://noveris.sk/sluzby/vysporiadanie-pozemkov/pozemky-pod-stavbami/).
+2. **[Real Estate & Development (Nehnuteľnosti a development)](https://noveris.sk/sluzby/nehnutelnosti-a-development/)**: Purchase and sale of real estate, development projects and investment plans, legal review of real estate, lease relations, easements, construction law.
+3. **[Contract Law (Zmluvná agenda)](https://noveris.sk/sluzby/zmluvna-agenda/)**: Preparation, assessment and revision of contracts, negotiation of contract terms and resolution of disputes arising from contractual relationships.
+4. **[Civil Law (Občianske právo)](https://noveris.sk/sluzby/obcianske-pravo/)**: Inheritance proceedings and inheritance disputes, damage compensation, unjust enrichment, dissolution and settlement of marital community property.
+5. **[Corporate Law (Obchodné právo)](https://noveris.sk/sluzby/obchodne-pravo/)**: Establishing and modifying business companies, corporate agenda, contractual documentation and company liquidation.
+6. **[Dispute Resolution (Riešenie sporov)](https://noveris.sk/sluzby/riesenie-sporov/)**: Out-of-court and court dispute resolution, debt recovery and representation in court and administrative proceedings.
 
 <!-- pages-en:start -->
 ## Website Pages
@@ -75,12 +75,12 @@ Practical articles in Slovak. Full text of all articles: https://noveris.sk/llms
 Noveris Legal spája právnu precíznosť s ľudským prístupom. Kanceláriu založila Mgr. Jana Králusová s cieľom poskytovať funkčné a predvídateľné právne služby. Riešenia sú šité na mieru konkrétnej situácii klienta, nielen na základe striktnej právnej teórie. Základnými hodnotami sú Dôvera, Zodpovednosť a Transparentnosť.
 
 ## Oblasti pôsobenia (Služby)
-1. **Právo nehnuteľností**: Prevod nehnuteľností, pozemkové právo, vysporiadanie vlastníckych a spoluvlastníckych vzťahov vrátane pozemkov s neznámymi vlastníkmi, ochrana vlastníckeho práva.
-2. **Zmluvná agenda**: Príprava a tvorba zmlúv, ich posudzovanie a revízia, zmluvné vyjednávanie a riešenie sporov zo zmluvných vzťahov.
-3. **Občianske právo**: Komplexná občianskoprávna agenda, dedenie, náhrada škody, bezdôvodné obohatenie a vyporiadanie BSM.
-4. **Obchodné právo**: Zakladanie a zmeny obchodných spoločností, korporátna agenda, zmluvná dokumentácia a likvidácia spoločností.
-5. **Riešenie sporov**: Zastupovanie klientov v rôznych typoch sporov vrátane súdnych, rozhodcovských a správnych konaní.
-6. **Vymáhanie pohľadávok**: Mimosúdne aj súdne vymáhanie pohľadávok vrátane zastupovania v exekučnom konaní.
+1. **[Vysporiadanie pozemkov a vlastníckych vzťahov](https://noveris.sk/sluzby/vysporiadanie-pozemkov/)**: Vysporiadanie pozemkov s komplikovanými vlastníckymi vzťahmi vrátane prípadov so Slovenským pozemkovým fondom, zosnulými vlastníkmi, duplicitným vlastníctvom či zaniknutými spoločnosťami; pozemky pod stavbami a v areáloch (podstránka: https://noveris.sk/sluzby/vysporiadanie-pozemkov/pozemky-pod-stavbami/).
+2. **[Nehnuteľnosti a development](https://noveris.sk/sluzby/nehnutelnosti-a-development/)**: Právne služby pri kúpe a predaji nehnuteľností, developerských projektoch a investičných zámeroch, preverovanie právneho stavu nehnuteľností, nájomné vzťahy, vecné bremená, stavebné právo.
+3. **[Zmluvná agenda](https://noveris.sk/sluzby/zmluvna-agenda/)**: Príprava, posudzovanie a revízia zmlúv, vyjednávanie zmluvných podmienok a riešenie sporov vyplývajúcich zo zmluvných vzťahov.
+4. **[Občianske právo](https://noveris.sk/sluzby/obcianske-pravo/)**: Dedičské konania a spory o dedičstvo, náhrada škody, bezdôvodné obohatenie, zrušenie a vyporiadanie bezpodielového spoluvlastníctva manželov.
+5. **[Obchodné právo](https://noveris.sk/sluzby/obchodne-pravo/)**: Zakladanie a zmeny obchodných spoločností, korporátna agenda, zmluvná dokumentácia a likvidácia spoločností.
+6. **[Riešenie sporov](https://noveris.sk/sluzby/riesenie-sporov/)**: Mimosúdne a súdne riešenie sporov, vymáhanie pohľadávok a zastupovanie v súdnych a správnych konaniach.
 
 <!-- pages-sk:start -->
 ## Stránky webu

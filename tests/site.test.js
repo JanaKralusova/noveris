@@ -190,3 +190,18 @@ test('photos are complete: every file stays within its size budget', () => {
   }
   assert.deepStrictEqual(failures, []);
 });
+
+test('structured data and llms.txt list the six current service areas', () => {
+  for (const f of ['index.html', 'en/index.html']) {
+    const html = read(f);
+    const m = html.match(/<script[^>]*type=["']application\/ld\+json["'][^>]*>([\s\S]*?)<\/script>/i);
+    const org = JSON.parse(m[1])['@graph'].find((n) => n.hasOfferCatalog);
+    assert.strictEqual(org.hasOfferCatalog.itemListElement.length, 6, f);
+    assert.ok(!JSON.stringify(org.hasOfferCatalog).includes('Vymáhanie pohľadávok'), f);
+  }
+  const llms = require('node:fs').readFileSync(require('node:path').join(__dirname, '..', 'llms.txt'), 'utf8');
+  for (const id of ['vysporiadanie-pozemkov', 'nehnutelnosti-a-development', 'zmluvna-agenda', 'obcianske-pravo', 'obchodne-pravo', 'riesenie-sporov']) {
+    assert.ok(llms.includes(`https://noveris.sk/sluzby/${id}/`), id);
+  }
+  assert.ok(!/\*\*(Debt Recovery \(Vymáhanie|Vymáhanie pohľadávok)/.test(llms));
+});

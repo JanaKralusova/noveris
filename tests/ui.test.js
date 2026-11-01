@@ -101,7 +101,8 @@ test('linkArrow and button take extra attributes; breadcrumb label is configurab
 test('articleCard links photo, title and read link; attrs go on every link', () => {
   const h = ui.articleCard({ photo, title: 'Title <x>', text: 'Excerpt', href: '/clanky/a/', linkText: 'Read', attrs: 'lang="sk"' });
   assert.strictEqual(count(h, /<a /g), 3);
-  assert.strictEqual(count(h, / lang="sk"/g), 3);
+  assert.strictEqual(count(h, / lang="sk"/g), 4);
+  assert.ok(h.startsWith('<article lang="sk" class='), 'lang on the tile root');
   assert.ok(h.includes('Title &lt;x&gt;'));
   assert.ok(!h.includes('line-clamp'));
 });
