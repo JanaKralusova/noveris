@@ -237,3 +237,13 @@ test('every indexable page has a unique title (<= 65 chars) and meta description
   }
   assert.deepStrictEqual(failures, []);
 });
+
+test('every <ol>/<ul> in the built pages has only <li> children', () => {
+  const failures = [];
+  for (const p of pages) {
+    const html = read(p).replace(/<script[\s\S]*?<\/script>/g, '');
+    for (const m of html.matchAll(/<\/li>\s*<(?!\/?li\b|\/[ou]l\b)[a-z]/gi)) failures.push(`${p}: non-li after </li> near "${html.slice(m.index, m.index + 60)}"`);
+    for (const m of html.matchAll(/<[ou]l\b[^>]*>\s*<(?!li\b)[a-z]/gi)) failures.push(`${p}: non-li first child in list near "${html.slice(m.index, m.index + 60)}"`);
+  }
+  assert.deepStrictEqual(failures, []);
+});
