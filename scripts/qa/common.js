@@ -12,7 +12,9 @@ const CHROME = process.env.CHROME_PATH || '/Applications/Google Chrome.app/Conte
 // Exits with a clear message when the site is not being served at `base` (e.g. the preview on 8765).
 async function requireServer(base) {
   try {
-    await fetch(base + '/', { signal: AbortSignal.timeout(5000) });
+    // drain the body: an unread response leaves the pooled socket paused, and undici asserts when the server closes it
+    const res = await fetch(base + '/', { signal: AbortSignal.timeout(5000), headers: { Connection: 'close' } });
+    await res.arrayBuffer();
   } catch (e) {
     console.error(`QA: cannot reach ${base}/ (${e.cause?.code || e.message}). Serve the checkout there first, e.g. \`npx http-server -p 8765\` or \`python3 -m http.server 8765\`.`);
     process.exit(2);
