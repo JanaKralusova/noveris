@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://noveris.sk/</loc>
-    <lastmod>2026-10-15</lastmod>
+    <lastmod>2026-11-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="sk" href="https://noveris.sk/"/>
@@ -11,7 +11,7 @@
   </url>
   <url>
     <loc>https://noveris.sk/en/</loc>
-    <lastmod>2026-10-15</lastmod>
+    <lastmod>2026-11-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="sk" href="https://noveris.sk/"/>
@@ -20,7 +20,7 @@
   </url>
   <url>
     <loc>https://noveris.sk/o-nas/</loc>
-    <lastmod>2026-10-15</lastmod>
+    <lastmod>2026-11-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="sk" href="https://noveris.sk/o-nas/"/>
@@ -29,7 +29,7 @@
   </url>
   <url>
     <loc>https://noveris.sk/en/about/</loc>
-    <lastmod>2026-10-15</lastmod>
+    <lastmod>2026-11-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="sk" href="https://noveris.sk/o-nas/"/>
@@ -38,7 +38,7 @@
   </url>
   <url>
     <loc>https://noveris.sk/sluzby/</loc>
-    <lastmod>2026-10-15</lastmod>
+    <lastmod>2026-11-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="sk" href="https://noveris.sk/sluzby/"/>
@@ -47,7 +47,7 @@
   </url>
   <url>
     <loc>https://noveris.sk/en/services/</loc>
-    <lastmod>2026-10-15</lastmod>
+    <lastmod>2026-11-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="sk" href="https://noveris.sk/sluzby/"/>
@@ -56,7 +56,7 @@
   </url>
   <url>
     <loc>https://noveris.sk/kontakt/</loc>
-    <lastmod>2026-10-15</lastmod>
+    <lastmod>2026-11-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="sk" href="https://noveris.sk/kontakt/"/>
@@ -65,7 +65,7 @@
   </url>
   <url>
     <loc>https://noveris.sk/en/contact/</loc>
-    <lastmod>2026-10-15</lastmod>
+    <lastmod>2026-11-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="sk" href="https://noveris.sk/kontakt/"/>
@@ -74,55 +74,55 @@
   </url>
   <url>
     <loc>https://noveris.sk/ochrana-osobnych-udajov/</loc>
-    <lastmod>2026-10-15</lastmod>
+    <lastmod>2026-11-01</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
     <loc>https://noveris.sk/nezisteni-vlastnici/</loc>
-    <lastmod>2026-10-15</lastmod>
+    <lastmod>2026-11-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://noveris.sk/sluzby/vysporiadanie-pozemkov/</loc>
-    <lastmod>2026-10-15</lastmod>
+    <lastmod>2026-11-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://noveris.sk/sluzby/vysporiadanie-pozemkov/pozemky-pod-stavbami/</loc>
-    <lastmod>2026-10-15</lastmod>
+    <lastmod>2026-11-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://noveris.sk/sluzby/nehnutelnosti-a-development/</loc>
-    <lastmod>2026-10-15</lastmod>
+    <lastmod>2026-11-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://noveris.sk/sluzby/zmluvna-agenda/</loc>
-    <lastmod>2026-10-15</lastmod>
+    <lastmod>2026-11-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://noveris.sk/sluzby/obcianske-pravo/</loc>
-    <lastmod>2026-10-15</lastmod>
+    <lastmod>2026-11-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://noveris.sk/sluzby/obchodne-pravo/</loc>
-    <lastmod>2026-10-15</lastmod>
+    <lastmod>2026-11-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://noveris.sk/sluzby/riesenie-sporov/</loc>
-    <lastmod>2026-10-15</lastmod>
+    <lastmod>2026-11-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>

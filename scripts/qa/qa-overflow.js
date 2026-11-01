@@ -1,0 +1,72 @@
+/* eslint-disable no-console */
+'use strict';
+/*
+ * Overflow and console check of every built page in headless Chrome (CDP). Needs the site served locally.
+ *   node scripts/qa/qa-overflow.js [baseUrl]
+ * For each page at 390, 1024 and 1440 px: no horizontal overflow, no console errors / exceptions / failed loads.
+ * At 390 px the mobile menu is opened (drawer must be visible) and closed again.
+ */
+const { spawn } = require('child_process');
+const os = require('os');
+const path = require('path');
+const { builtPages } = require('../../tests/helpers');
+const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
+const BASE = (process.argv[2] || 'http://127.0.0.1:8765').replace(/\/$/, '');
+const WIDTHS = [390, 1024, 1440];
+const PORT = 9360;
+
+function urlOf(rel) { return BASE + '/' + rel.replace(/index\.html$/, ''); }
+
+(async () => {
+  const ch = spawn('/Applications/Google Chrome.app/Contents/MacOS/Google Chrome', ['--headless=new', `--remote-debugging-port=${PORT}`, '--user-data-dir=' + path.join(os.tmpdir(), 'qa-overflow-' + PORT), '--no-first-run', '--remote-allow-origins=*', 'about:blank'], { stdio: 'ignore' });
+  const fails = [];
+  try {
+    await sleep(4000);
+    const tabs = await (await fetch(`http://localhost:${PORT}/json`)).json();
+    const ws = new WebSocket(tabs.find((t) => t.type === 'page').webSocketDebuggerUrl);
+    await new Promise((r) => { ws.onopen = r; });
+    let id = 0; const pend = new Map(); let logs = [];
+    ws.onmessage = (e) => {
+      const m = JSON.parse(e.data);
+      if (m.id && pend.has(m.id)) { pend.get(m.id)(m); pend.delete(m.id); }
+      if (m.method === 'Runtime.exceptionThrown') logs.push('exception: ' + (m.params.exceptionDetails.exception?.description || m.params.exceptionDetails.text));
+      if (m.method === 'Runtime.consoleAPICalled' && m.params.type === 'error') logs.push('console.error: ' + m.params.args.map((a) => a.value || a.description).join(' '));
+      if (m.method === 'Log.entryAdded' && m.params.entry.level === 'error') logs.push('log: ' + m.params.entry.text + ' ' + (m.params.entry.url || ''));
+    };
+    const send = (method, params = {}) => new Promise((r) => { const i = ++id; pend.set(i, r); ws.send(JSON.stringify({ id: i, method, params })); });
+    const ev = async (x) => (await send('Runtime.evaluate', { expression: x, awaitPromise: true, returnByValue: true })).result.result?.value;
+    await send('Runtime.enable'); await send('Log.enable'); await send('Page.enable');
+
+    const pages = builtPages();
+    let n = 0;
+    for (const w of WIDTHS) {
+      await send('Emulation.setDeviceMetricsOverride', { width: w, height: 900, deviceScaleFactor: 1, mobile: w === 390 });
+      for (const rel of pages) {
+        const url = urlOf(rel);
+        logs = [];
+        await send('Page.navigate', { url });
+        await sleep(700);
+        await ev('new Promise(r => document.readyState === "complete" ? r() : addEventListener("load", r))');
+        await sleep(300);
+        const m = await ev('({sw: document.documentElement.scrollWidth, iw: innerWidth})');
+        n++;
+        if (!m || m.sw > m.iw) fails.push(`${w}px ${rel}: horizontal overflow (scrollWidth ${m && m.sw} > ${m && m.iw})`);
+        if (w === 390) {
+          const has = await ev('!!document.getElementById("mobile-menu-btn")');
+          if (!has) fails.push(`${w}px ${rel}: no #mobile-menu-btn`);
+          else {
+            await ev('document.getElementById("mobile-menu-btn").click()'); await sleep(450);
+            const vis = await ev('(function(){var d=document.getElementById("mobile-menu"),p=document.getElementById("mobile-menu-panel");if(!d||!p)return "nodrawer";var r=p.getBoundingClientRect();return parseFloat(getComputedStyle(d).opacity)>0.9&&r.width>0&&r.left<innerWidth&&r.right>0&&d.getAttribute("aria-hidden")!=="true"})()');
+            if (vis !== true) fails.push(`${w}px ${rel}: drawer not visible after opening (${vis})`);
+            await ev('document.getElementById("mobile-menu-btn").click()'); await sleep(350);
+          }
+        }
+        for (const l of logs) fails.push(`${w}px ${rel}: ${l}`);
+      }
+    }
+    console.log(`checked ${n} page views (${pages.length} pages x ${WIDTHS.length} widths)`);
+    ws.close();
+  } finally { ch.kill(); }
+  if (fails.length) { console.log('FAIL\n' + fails.join('\n')); process.exit(1); }
+  console.log('PASS');
+})();

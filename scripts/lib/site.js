@@ -19,7 +19,7 @@ const OG_ALT = {
   sk: 'Noveris Legal – advokátska kancelária v Bratislave',
   en: 'Noveris Legal – law firm in Bratislava',
 };
-const SITEMAP_LASTMOD = '2026-10-15';
+const SITEMAP_LASTMOD = '2026-11-01';
 
 // Page ids -> URL per language. A page without an `en` entry has no English counterpart.
 // `hidden: true` = built and reachable by URL, but kept out of the nav, sitemap.xml and llms.txt
