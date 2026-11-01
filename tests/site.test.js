@@ -94,4 +94,14 @@ test('sitemap lists only indexable pages', () => {
 
 // Enabled in later redesign tasks.
 test.todo('no retired styles (/satin-button|satin-gradient|#735c00|#6d5b47|\\bdark:/)');
-test.todo('footer has real contact data (tel:+421915622518, kralusova@noveris.sk)');
+test('footer has real contact data (tel:+421915622518, kralusova@noveris.sk)', () => {
+  const failures = [];
+  for (const p of pages) {
+    const m = /<footer[\s\S]*?<\/footer>/.exec(read(p));
+    if (!m) { failures.push(`${p}: no footer`); continue; }
+    for (const need of ['href="tel:+421915622518"', 'href="mailto:kralusova@noveris.sk"', 'Turčianska 42, 821 09 Bratislava']) {
+      if (!m[0].includes(need)) failures.push(`${p}: footer lacks ${need}`);
+    }
+  }
+  assert.deepStrictEqual(failures, []);
+});

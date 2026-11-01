@@ -142,6 +142,9 @@ const translations = {
 
         // Footer
         "footer.copy": "© {year} Noveris Legal s. r. o. Všetky práva vyhradené.",
+        "footer.tagline": "Právo, ktoré dáva zmysel",
+        "footer.privacy": "Ochrana osobných údajov",
+        "footer.nav": "Pätička",
     },
 
     en: {
@@ -281,6 +284,9 @@ const translations = {
 
         // Footer
         "footer.copy": "© {year} Noveris Legal s. r. o. All rights reserved.",
+        "footer.tagline": "Law that makes sense",
+        "footer.privacy": "Privacy policy",
+        "footer.nav": "Footer",
     }
 };
 
