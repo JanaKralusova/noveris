@@ -76,6 +76,14 @@ function coverSizes(photo, { phone, sm, lg }) {
   return `${big}, (min-width: 640px) ${wide(sm, 640)}, ${wide(phone, 320)}`;
 }
 
+// `sizes` of a photo shown whole (object-contain) at a given box height: phone / sm below 640px / 640-1023px, lg from 1024px.
+function containSizes(photo, { phone, sm, lg }) {
+  const d = photoSize(photo);
+  if (!d) return photo.sizes;
+  const w = (h) => Math.round((h * d.width) / d.height);
+  return `(min-width: 1024px) ${w(lg)}px, (min-width: 640px) ${w(sm)}px, ${w(phone)}px`;
+}
+
 const withSizes = (item, sizes) => (item && item.photo ? { ...item, photo: { ...item.photo, sizes } } : item);
 
 // ---------- atoms ----------
@@ -136,7 +144,7 @@ function sectionHeader({ eyebrow: eb, title, note } = {}) {
 // crumbs: optional breadcrumb; title (escaped) or titleHtml (trusted, e.g. with the italic accent span); intro: paragraphs;
 // topHtml: trusted block above the breadcrumb; actionsHtml / extraHtml: trusted blocks after the intro / after the buttons;
 // size 'long' = smaller H1 for long titles; tall = minimum height for pages with little text; photo.style = object-position.
-function hero({ crumbs, crumbsLabel, label, title, titleHtml, intro = [], bold, after, cta, actionsHtml = '', extraHtml = '', topHtml = '', size, tall = false, photo }) {
+function hero({ crumbs, crumbsLabel, label, title, titleHtml, intro = [], bold, after, cta, actionsHtml = '', extraHtml = '', topHtml = '', size, tall = false, contain = false, photo }) {
   needPhoto(photo, 'hero');
   const ps = paras(intro, 'text-[15px] leading-[1.6] text-body md:text-[16px]');
   const b = bold ? `<p class="text-[15px] font-bold leading-[1.6] text-ink md:text-[16px]">${txt(bold)}</p>` : '';
@@ -149,7 +157,10 @@ function hero({ crumbs, crumbsLabel, label, title, titleHtml, intro = [], bold, 
   const body = intro.length || bold || after ? `<div class="mt-5 space-y-3">${ps}${b}${a}</div>` : '';
   const crumb = crumbs ? breadcrumb(crumbs, crumbsLabel) : '';
   return '<section class="relative overflow-hidden bg-paper">'
-    + `<div class="fade-photo relative h-52 sm:h-72 lg:absolute lg:inset-y-0 lg:right-0 lg:h-auto lg:w-[52%]">${photoImg({ ...photo, sizes: coverSizes(photo, { phone: 208, sm: 288, lg: { vw: 52, h: 560 } }) }, 'h-full w-full object-cover', true)}</div>`
+    + (contain
+      // whole portrait: contained, flush with the bottom edge, no fade (the photo's own background is the page colour)
+      ? `<div class="relative flex h-72 justify-center sm:h-96 lg:absolute lg:inset-y-0 lg:right-0 lg:h-auto lg:w-[52%] lg:justify-end lg:pr-8 xl:pr-16">${photoImg({ ...photo, sizes: containSizes(photo, { phone: 288, sm: 384, lg: 600 }) }, 'h-full w-auto max-w-full object-contain object-bottom', true)}</div>`
+      : `<div class="fade-photo relative h-52 sm:h-72 lg:absolute lg:inset-y-0 lg:right-0 lg:h-auto lg:w-[52%]">${photoImg({ ...photo, sizes: coverSizes(photo, { phone: 208, sm: 288, lg: { vw: 52, h: 560 } }) }, 'h-full w-full object-cover', true)}</div>`)
     + `<div class="relative mx-auto max-w-7xl px-6 pb-12 pt-2 lg:px-8 lg:py-14${tall ? ' lg:min-h-[30rem]' : ''}"><div class="lg:w-[50%]">`
     + `${topHtml}${crumb}${lab}<h1 class="${h1Mt} font-headline ${h1Size} tracking-tight text-ink">${titleHtml !== undefined ? titleHtml : esc(title)}</h1>`
     + `${body}${c}${act}${extraHtml}</div></div></section>`;

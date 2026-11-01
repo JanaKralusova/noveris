@@ -203,8 +203,8 @@ function heroFor(id, lang, t, ctx) {
         titleHtml: t['about.hero.h1'],
         intro: [t['about.hero.desc']],
         tall: true,
-        // Only 800x1199 exists: serve the full file, never a crop; the face sits in the upper third.
-        photo: { src: '/assets/photos/about', alt: t['img.about.portrait'], sizes: '(min-width: 1024px) 52vw, 100vw', eager: true, variants: ['480', ''], style: 'object-position: 50% 8%;' },
+        contain: true,
+        photo: { src: '/assets/photos/about', alt: t['img.about.portrait'], eager: true, variants: ['480', '800', ''] },
       });
     case 'contact':
       return ui.hero({
