@@ -25,6 +25,7 @@ function photoImg(photo, cls, eager) {
     alt: photo.alt || '',
     sizes: photo.sizes,
     variants: photo.variants || VARIANTS,
+    fallback: photo.fallback,
     eager: eager !== undefined ? eager : !!photo.eager,
     cls,
   });
@@ -46,25 +47,27 @@ const BTN_VARIANTS = {
   outline: 'border border-forest text-forest hover:bg-forest hover:text-white',
   onDark: 'bg-white text-forest hover:bg-sand',
 };
-function button(text, href, { variant = 'primary' } = {}) {
+// attrs: trusted extra attributes for the <a> (e.g. 'hreflang="sk"').
+const xattr = (attrs) => (attrs ? ` ${attrs}` : '');
+function button(text, href, { variant = 'primary', attrs = '' } = {}) {
   const v = BTN_VARIANTS[variant];
   if (!v) throw new Error(`Unknown button variant: ${variant}`);
-  return `<a href="${esc(href)}" class="${BTN} ${v}">${esc(text)}${icon('arrow_forward', 'text-[18px]')}</a>`;
+  return `<a href="${esc(href)}"${xattr(attrs)} class="${BTN} ${v}">${esc(text)}${icon('arrow_forward', 'text-[18px]')}</a>`;
 }
 
-function linkArrow(text, href) {
-  return `<a href="${esc(href)}" class="group inline-flex items-center gap-2 font-label text-[14px] font-semibold text-ink transition-colors hover:text-copper">${esc(text)}`
+function linkArrow(text, href, attrs = '') {
+  return `<a href="${esc(href)}"${xattr(attrs)} class="group inline-flex items-center gap-2 font-label text-[14px] font-semibold text-ink transition-colors hover:text-copper">${esc(text)}`
     + '<span class="material-symbols-outlined text-[18px] text-copper transition-transform duration-200 group-hover:translate-x-1" aria-hidden="true">arrow_forward</span></a>';
 }
 
-function breadcrumb(items) {
+function breadcrumb(items, label = 'Omrvinková navigácia') {
   const lis = items.map((it, i) => (i === items.length - 1
     ? `<li aria-current="page" class="text-body">${esc(it.name)}</li>`
     : `<li class="flex items-center gap-1.5"><a href="${esc(it.url)}" class="hover:text-copper hover:underline">${esc(it.name)}</a>${icon('chevron_right', 'text-[16px]')}</li>`));
-  return `<nav aria-label="Omrvinková navigácia"><ol class="flex flex-wrap items-center gap-x-1.5 gap-y-1 font-label text-[12px] text-muted">${lis.join('')}</ol></nav>`;
+  return `<nav aria-label="${esc(label)}"><ol class="flex flex-wrap items-center gap-x-1.5 gap-y-1 font-label text-[12px] text-muted">${lis.join('')}</ol></nav>`;
 }
 
-const linkBlock = (link, pad) => (link ? `<div class="${pad}">${linkArrow(link.text, link.href)}</div>` : '');
+const linkBlock = (link, pad) => (link ? `<div class="${pad}">${linkArrow(link.text, link.href, link.attrs)}</div>` : '');
 const paras = (list, cls) => (list || []).map((p) => `<p class="${cls}">${txt(p)}</p>`).join('');
 
 // ---------- sections ----------
@@ -80,7 +83,7 @@ function sectionHeader({ eyebrow: eb, title, note } = {}) {
     + `<h2 class="mt-2 font-headline text-[2rem] leading-[1.15] text-ink md:text-[2.5rem]">${esc(title)}</h2></div>${n}</div>`;
 }
 
-function hero({ crumbs, label, title, intro = [], bold, after, cta, photo }) {
+function hero({ crumbs, crumbsLabel, label, title, intro = [], bold, after, cta, photo }) {
   const ps = paras(intro, 'text-[15px] leading-[1.6] text-body md:text-[16px]');
   const b = bold ? `<p class="text-[15px] font-bold leading-[1.6] text-ink md:text-[16px]">${txt(bold)}</p>` : '';
   const a = after ? `<p class="text-[15px] leading-[1.6] text-body md:text-[16px]">${txt(after)}</p>` : '';
@@ -90,7 +93,7 @@ function hero({ crumbs, label, title, intro = [], bold, after, cta, photo }) {
   return '<section class="relative overflow-hidden bg-paper">'
     + `<div class="fade-photo relative h-52 sm:h-72 lg:absolute lg:inset-y-0 lg:right-0 lg:h-auto lg:w-[52%]">${photoImg(photo, 'h-full w-full object-cover', true)}</div>`
     + '<div class="relative mx-auto max-w-7xl px-6 pb-12 pt-2 lg:px-8 lg:py-14"><div class="lg:w-[50%]">'
-    + `${breadcrumb(crumbs)}${lab}<h1 class="${h1Mt} font-headline text-[clamp(2.5rem,5vw,3.5rem)] leading-[1.1] tracking-tight text-ink">${esc(title)}</h1>`
+    + `${breadcrumb(crumbs, crumbsLabel)}${lab}<h1 class="${h1Mt} font-headline text-[clamp(2.5rem,5vw,3.5rem)] leading-[1.1] tracking-tight text-ink">${esc(title)}</h1>`
     + `<div class="mt-5 space-y-3">${ps}${b}${a}</div>${c}</div></div></section>`;
 }
 
@@ -112,10 +115,19 @@ function cardCompact({ icon: ic, title, text, photo }) {
     + `<div class="p-4">${chip(ic)}<h3 class="mt-3 font-headline text-[1.125rem] leading-snug text-ink">${esc(title)}</h3><p class="mt-2 text-[13px] leading-normal text-body">${txt(text)}</p></div></article>`;
 }
 
-function cardIcon({ icon: ic, title, text, href, linkText = 'Viac o službe' }) {
+function cardIcon({ icon: ic, title, text, href, linkText = 'Viac o službe', attrs = '' }) {
   return `<article class="flex flex-col rounded-card border border-line bg-card p-6 shadow-soft">${chip(ic)}`
     + `<h3 class="mt-4 font-headline text-[1.375rem] leading-snug text-ink md:text-[1.5rem]">${esc(title)}</h3>`
-    + `<p class="mt-3 flex-1 text-[14px] leading-[1.6] text-body md:text-[15px]">${txt(text)}</p><div class="pt-5">${linkArrow(linkText, href)}</div></article>`;
+    + `<p class="mt-3 flex-1 text-[14px] leading-[1.6] text-body md:text-[15px]">${txt(text)}</p><div class="pt-5">${linkArrow(linkText, href, attrs)}</div></article>`;
+}
+
+// Article tile (home page): photo is { src, variants, sizes, alt }; attrs go on both links (e.g. 'lang="sk"').
+function articleCard({ photo, title, text, href, linkText = 'Čítať článok', attrs = '', level = 3 }) {
+  const x = xattr(attrs);
+  return '<article class="group flex flex-col overflow-hidden rounded-card border border-line bg-card shadow-soft">'
+    + `<a href="${esc(href)}"${x} tabindex="-1" aria-hidden="true" class="block aspect-[3/2] overflow-hidden">${photoImg(photo, 'h-full w-full object-cover transition-transform duration-500 group-hover:scale-[1.03]')}</a>`
+    + `<div class="flex flex-1 flex-col p-6"><h${level} class="font-headline text-[1.375rem] leading-snug text-ink"><a href="${esc(href)}"${x} class="hover:text-copper">${esc(title)}</a></h${level}>`
+    + `<p class="mt-3 flex-1 text-[14px] leading-[1.6] text-body">${txt(text)}</p><div class="pt-4">${linkArrow(linkText, href, attrs)}</div></div></article>`;
 }
 
 const num = (i) => String(i + 1).padStart(2, '0');
@@ -273,6 +285,6 @@ function renderSections(sections) {
 
 module.exports = {
   icon, eyebrow, button, linkArrow, breadcrumb, chip, section, sectionHeader, hero,
-  cardSide, cardTop, cardCompact, cardIcon, stepsH, stepsV, splitBand, splitTextList,
-  callout, iconList, twoCol, relatedBand, prose, quote, contactBand, renderSections,
+  cardSide, cardTop, cardCompact, cardIcon, articleCard, stepsH, stepsV, splitBand, splitTextList,
+  callout, iconList, twoCol, relatedBand, prose, quote, contactBand, cardGrid, renderSections,
 };

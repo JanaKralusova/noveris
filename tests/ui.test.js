@@ -90,3 +90,18 @@ test('callout option on card sections, splitBand and steps in twoCol', () => {
   assert.strictEqual(count(h, /Callout text/g), 2);
   assert.ok(h.includes('>Krok</h3>') && h.includes('>One</h3>'));
 });
+
+test('linkArrow and button take extra attributes; breadcrumb label is configurable', () => {
+  assert.ok(ui.linkArrow('More', '/a/', 'hreflang="sk"').includes('<a href="/a/" hreflang="sk" class='));
+  assert.ok(ui.button('Ok', '/a/', { attrs: 'lang="sk"' }).includes('<a href="/a/" lang="sk" class='));
+  assert.ok(ui.breadcrumb([{ name: 'A', url: '/' }, { name: 'B', url: '/b/' }], 'Breadcrumb').includes('aria-label="Breadcrumb"'));
+  assert.ok(ui.cardIcon({ icon: 'gavel', title: 'T', text: 'x', href: '/a/', linkText: 'More', attrs: 'hreflang="sk"' }).includes('hreflang="sk"'));
+});
+
+test('articleCard links photo, title and read link; attrs go on every link', () => {
+  const h = ui.articleCard({ photo, title: 'Title <x>', text: 'Excerpt', href: '/clanky/a/', linkText: 'Read', attrs: 'lang="sk"' });
+  assert.strictEqual(count(h, /<a /g), 3);
+  assert.strictEqual(count(h, / lang="sk"/g), 3);
+  assert.ok(h.includes('Title &lt;x&gt;'));
+  assert.ok(!h.includes('line-clamp'));
+});

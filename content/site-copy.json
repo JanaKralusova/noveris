@@ -13,12 +13,12 @@
   "homeLatestArticles": {
     "sk": {
       "label": "Články",
-      "h2Html": "Praktické články o <span class=\"italic text-primary\">pozemkoch</span>",
+      "h2Html": "Praktické články o <span class=\"italic text-copper\">pozemkoch</span>",
       "cta": "Všetky články"
     },
     "en": {
       "label": "Articles (in Slovak)",
-      "h2Html": "Practical articles on <span class=\"italic text-primary\">land</span> ownership",
+      "h2Html": "Practical articles on <span class=\"italic text-copper\">land</span> ownership",
       "cta": "All articles (in Slovak)"
     }
   },

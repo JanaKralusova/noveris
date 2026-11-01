@@ -155,4 +155,4 @@ function main() {
 
 if (require.main === module) main();
 
-module.exports = { main, outputs, render };
+module.exports = { main, outputs, render, hasLang };

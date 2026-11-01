@@ -97,7 +97,7 @@ function iconNames() {
   walk(path.join(ROOT, 'scripts'), (f) => /\.js$/.test(f));
   const names = new Set();
   // icons passed to ui.js icon() / chip() as string literals
-  const call = /\b(?:icon|chip)\(\s*['"]([a-z0-9_]+)['"]/g;
+  const call = /\b(?:(?:icon|chip)\(\s*|(?:icon|homeIcon):\s*)['"]([a-z0-9_]+)['"]/g;
   for (const f of files) {
     const src = fs.readFileSync(f, 'utf8');
     let c;
