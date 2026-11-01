@@ -24,7 +24,7 @@ const { ROOT, SITE, SITE_NAME, PAGES, abs } = site;
 const { esc, renderDocument } = require('./lib/layout');
 const schema = require('./lib/schema');
 const { picture, jpegSize } = require('./lib/images');
-const { tile, ARTICLE_HERO_SIZES, ARTICLE_VARIANTS } = require('./lib/components');
+const { tile, ARTICLE_HERO_SIZES, articleVariants } = require('./lib/components');
 const ui = require('./lib/ui');
 const TR = site.loadTranslations().sk;
 const AUTHOR = 'Mgr. Jana Králusová';
@@ -396,7 +396,7 @@ ${ui.hero({
 <ul class="mt-4 flex flex-wrap gap-2" aria-label="Značky">
 ${a.tags.map((t) => `<li class="rounded-pill bg-chip px-3 py-1 font-label text-[12px] text-copper">${esc(t)}</li>`).join('\n')}
 </ul>`,
-  photo: { src: `/assets/articles/${a.image}`, variants: ARTICLE_VARIANTS, fallback: '800', sizes: ARTICLE_HERO_SIZES, alt: a.imageAlt, eager: true, root: ctx.outRoot },
+  photo: { src: `/assets/articles/${a.image}`, variants: articleVariants(a.image, ctx.outRoot), fallback: '800', sizes: ARTICLE_HERO_SIZES, alt: a.imageAlt, eager: true, root: ctx.outRoot },
 })}
 <article class="mx-auto max-w-7xl px-6 pb-8 pt-4 lg:px-8 lg:pb-12">
 <div class="mt-2 grid gap-12 lg:grid-cols-[minmax(0,1fr)_320px] lg:gap-14">
@@ -470,7 +470,7 @@ function main() {
     fs.writeFileSync(path.join(dir, 'index.html'), articlePage(a, articles, ctx));
     fs.writeFileSync(path.join(dir, 'index.md'), mdCopy(a));
     const imgDir = path.join(outRoot, 'assets', 'articles');
-    for (const f of ['400', '640', '800', '1024', ''].flatMap((w) => ['jpg', 'avif'].map((ext) => `${a.image}${w ? '-' + w : ''}.${ext}`))) {
+    for (const f of articleVariants(a.image, outRoot).flatMap((w) => ['jpg', 'avif'].map((ext) => `${a.image}${w ? '-' + w : ''}.${ext}`))) {
       if (!fs.existsSync(path.join(imgDir, f))) console.warn(`build-articles: warning: ${a.file}: image not found: assets/articles/${f}`);
     }
   }

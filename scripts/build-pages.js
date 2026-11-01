@@ -20,7 +20,7 @@ const layout = require('./lib/layout');
 const schema = require('./lib/schema');
 const { picture } = require('./lib/images');
 const ui = require('./lib/ui');
-const { latest } = require('./lib/components');
+const { latest, articleVariants } = require('./lib/components');
 const { hasLang, loadService, pageTitleOf } = require('./build-services');
 const { loadArticles } = require('./build-articles');
 
@@ -115,7 +115,7 @@ function applyLatest(html, lang, copy, articles, t) {
   const c = copy.homeLatestArticles[lang];
   const pick = latest(articles, 3);
   const cards = pick.map((a) => ui.articleCard({
-    photo: { src: `/assets/articles/${a.image}`, variants: ['400', '640', '800', '1024', ''], fallback: '800', sizes: ARTICLE_SIZES, alt: a.imageAlt },
+    photo: { src: `/assets/articles/${a.image}`, variants: articleVariants(a.image), fallback: '800', sizes: ARTICLE_SIZES, alt: a.imageAlt },
     title: a.title, text: a.excerpt, href: `/clanky/${a.slug}/`, linkText: t['home.articles.read'], attrs: lang === 'sk' ? '' : 'lang="sk"',
   }));
   const cta = ui.button(c.cta, '/clanky/', { variant: 'outline', attrs: lang === 'sk' ? '' : 'hreflang="sk" lang="sk"' });
@@ -136,7 +136,7 @@ const AREAS = [
   { id: 'riesenie-sporov', icon: 'gavel', photo: 'justice2' },
 ];
 // Phone cards are declared 320px wide so a 1.75x phone picks the 560w file (see SIZES in build-services.js).
-const CARD_SIZES = '(min-width: 1024px) 17vw, (min-width: 640px) 34vw, 320px';
+const CARD_SIZES = '(min-width: 1024px) 56vw, (min-width: 640px) 90vw, 320px';
 
 // Card link: the page of the language when it is visible, otherwise the Slovak page (labelled as such).
 function areaLink(id, lang, t) {

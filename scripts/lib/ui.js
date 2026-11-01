@@ -8,9 +8,10 @@
  */
 
 const { esc } = require('./layout');
-const { picture } = require('./images');
+const { picture, photoSize, scaleSizes } = require('./images');
 
-const VARIANTS = ['400', '560', '800', '1200', ''];
+// widths of a service photo ("" = the 2000px file); see scripts/make-photo.sh
+const VARIANTS = ['400', '560', '800', '1200', '1600', ''];
 
 // A text value: plain strings are escaped, { html } is trusted.
 const txt = (v) => (v && typeof v === 'object' && 'html' in v ? String(v.html) : esc(v == null ? '' : v));
@@ -38,6 +39,44 @@ function photoImg(photo, cls, eager) {
     root: photo.root,
   });
 }
+
+
+// ---------- honest `sizes` for photos in card grids ----------
+// The page container is 100vw - 48px (px-6), 100vw - 64px from 1024px (lg:px-8), and 1216px at most (max-w-7xl).
+// gridSizes(stops) builds the `sizes` of a photo that fills one grid cell: stops = [{ min, cols, gap }] by descending
+// min-width in px (min 1024 also emits the 1280px cap); `phone` is what is declared below the last stop. Card photos
+// on phones are lazy and decorative: they are declared 320px wide (a card is really viewport - 48px), so a 1.75x
+// phone picks the 560w file instead of 800w and the hero keeps its bandwidth (a 3x phone still gets the 1200w file).
+function gridSizes(stops, phone = '320px') {
+  const out = [];
+  const cell = (pad, cols, gap) => (cols === 1 ? `calc(100vw - ${pad}px)` : `calc((100vw - ${pad + gap * (cols - 1)}px) / ${cols})`);
+  for (const { min, cols, gap = 0 } of stops) {
+    if (min >= 1024) {
+      out.push(`(min-width: 1280px) ${Math.round((1216 - gap * (cols - 1)) / cols)}px`);
+      out.push(`(min-width: ${min}px) ${cell(64, cols, gap)}`);
+    } else out.push(`(min-width: ${min}px) ${cell(48, cols, gap)}`);
+  }
+  out.push(phone);
+  return out.join(', ');
+}
+// Side cards (photo column of 34% / 1/3 of the card, as tall as the text): a 4:3 photo covering such a tall column renders
+// far wider than the column (up to ~1000 CSS px), so these are declared wide on purpose.
+const SIDE_SIZES = '(min-width: 1024px) 56vw, (min-width: 640px) 90vw, 320px';
+
+// `sizes` of a photo that covers a box (object-fit: cover): the picture renders max(box width, box height * aspect)
+// wide. phone / sm = box height in px below 640px / 640-1023px (the box is full width); lg = { vw, h }: box width in
+// vw and an estimated height in px from 1024px (the box is as tall as the text beside it). Hidden below lg: lg.only.
+function coverSizes(photo, { phone, sm, lg }) {
+  const d = photoSize(photo);
+  if (!d) return photo.sizes;
+  const ar = d.width / d.height;
+  const wide = (h, min) => (h * ar > min ? `max(100vw, ${Math.round(h * ar)}px)` : '100vw');
+  const big = `(min-width: 1024px) max(${lg.vw}vw, ${Math.round(lg.h * ar)}px)`;
+  if (lg.only) return `${big}, 1px`;
+  return `${big}, (min-width: 640px) ${wide(sm, 640)}, ${wide(phone, 320)}`;
+}
+
+const withSizes = (item, sizes) => (item && item.photo ? { ...item, photo: { ...item.photo, sizes } } : item);
 
 // ---------- atoms ----------
 function eyebrow(text, { dark = false } = {}) {
@@ -110,7 +149,7 @@ function hero({ crumbs, crumbsLabel, label, title, titleHtml, intro = [], bold, 
   const body = intro.length || bold || after ? `<div class="mt-5 space-y-3">${ps}${b}${a}</div>` : '';
   const crumb = crumbs ? breadcrumb(crumbs, crumbsLabel) : '';
   return '<section class="relative overflow-hidden bg-paper">'
-    + `<div class="fade-photo relative h-52 sm:h-72 lg:absolute lg:inset-y-0 lg:right-0 lg:h-auto lg:w-[52%]">${photoImg(photo, 'h-full w-full object-cover', true)}</div>`
+    + `<div class="fade-photo relative h-52 sm:h-72 lg:absolute lg:inset-y-0 lg:right-0 lg:h-auto lg:w-[52%]">${photoImg({ ...photo, sizes: coverSizes(photo, { phone: 208, sm: 288, lg: { vw: 52, h: 560 } }) }, 'h-full w-full object-cover', true)}</div>`
     + `<div class="relative mx-auto max-w-7xl px-6 pb-12 pt-2 lg:px-8 lg:py-14${tall ? ' lg:min-h-[30rem]' : ''}"><div class="lg:w-[50%]">`
     + `${topHtml}${crumb}${lab}<h1 class="${h1Mt} font-headline ${h1Size} tracking-tight text-ink">${titleHtml !== undefined ? titleHtml : esc(title)}</h1>`
     + `${body}${c}${act}${extraHtml}</div></div></section>`;
@@ -162,6 +201,9 @@ function cardIcon({ icon: ic, title, text, href, linkText = 'Viac o službe', at
 function articleCard({ photo, title, text, href, linkText = 'Čítať článok', attrs = '', level = 3 }) {
   needPhoto(photo, 'articleCard');
   const x = xattr(attrs);
+  // the 3:2 box shows a slice of any photo wider than 3:2
+  const d = photoSize(photo);
+  if (d) photo = { ...photo, sizes: scaleSizes(photo.sizes, d.width / d.height / 1.5) };
   return `<article${x} class="group flex flex-col overflow-hidden rounded-card border border-line bg-card shadow-soft">`
     + `<a href="${esc(href)}"${x} tabindex="-1" aria-hidden="true" class="block aspect-[3/2] overflow-hidden">${photoImg(photo, 'h-full w-full object-cover transition-transform duration-500 group-hover:scale-[1.03]')}</a>`
     + `<div class="flex flex-1 flex-col p-6"><h${level} class="font-headline text-[1.375rem] leading-snug text-ink"><a href="${esc(href)}"${x} class="hover:text-copper">${esc(title)}</a></h${level}>`
@@ -198,7 +240,7 @@ function splitBand({ eyebrow: eb, title, paras: ps, photo, link, extraHtml = '',
   const pos = side === 'left' ? 'lg:left-0' : 'lg:right-0';
   const pad = side === 'left' ? 'lg:ml-auto lg:w-[52%] lg:pl-12' : 'lg:w-[52%] lg:pr-12';
   const extra = extraHtml ? `<div class="pt-5">${extraHtml}</div>` : '';
-  return `<section class="relative overflow-hidden ${BG[bg] || bg}"><div class="${fade} relative h-48 sm:h-64 lg:absolute lg:inset-y-0 ${pos} lg:h-auto lg:w-[48%]">${photoImg(photo, 'h-full w-full object-cover')}</div>`
+  return `<section class="relative overflow-hidden ${BG[bg] || bg}"><div class="${fade} relative h-48 sm:h-64 lg:absolute lg:inset-y-0 ${pos} lg:h-auto lg:w-[48%]">${photoImg({ ...photo, sizes: coverSizes(photo, { phone: 192, sm: 256, lg: { vw: 48, h: 640 } }) }, 'h-full w-full object-cover')}</div>`
     + `<div class="relative mx-auto max-w-7xl px-6 py-10 lg:px-8 lg:py-16"><div class="${pad}">${eb ? eyebrow(eb) : ''}`
     + `<h2 class="mt-2 font-headline text-[1.75rem] leading-[1.2] text-ink md:text-[2.25rem]">${esc(title)}</h2><div class="mt-4 space-y-3">${paras(ps, 'text-[15px] leading-[1.6] text-body md:text-[16px]')}</div>${linkBlock(link, 'pt-5')}${extra}</div></div></section>`;
 }
@@ -246,7 +288,7 @@ function quote({ text, cite }) {
 
 function contactBand({ eyebrow: eb = 'Kontakt', title, paras: ps, cta, photo }) {
   const ph = photo
-    ? `<div class="fade-photo-dark absolute inset-y-0 right-0 hidden w-1/2 opacity-60 lg:block">${photoImg(photo, 'h-full w-full object-cover')}</div>` : '';
+    ? `<div class="fade-photo-dark absolute inset-y-0 right-0 hidden w-1/2 opacity-60 lg:block">${photoImg({ ...photo, sizes: coverSizes(photo, { lg: { vw: 50, h: 340, only: true } }) }, 'h-full w-full object-cover')}</div>` : '';
   return `<section class="relative overflow-hidden bg-forest">${ph}`
     + `<div class="relative mx-auto max-w-7xl px-6 py-12 lg:px-8 lg:py-14"><div class="lg:w-[55%]">${eyebrow(eb, { dark: true })}`
     + `<h2 class="mt-2 font-headline text-[1.875rem] leading-[1.2] text-white md:text-[2.25rem]">${esc(title)}</h2><div class="mt-4 space-y-3">${paras(ps, 'text-[15px] leading-[1.6] text-white/90 md:text-[16px]')}</div>`
@@ -263,12 +305,17 @@ function cardGrid(kind, items) {
   if (kind === 'side') {
     // 5 -> 2+2 plus the last card full width.
     const rest = n === 5 ? items.slice(0, 4) : items;
-    const last = n === 5 ? `<div class="mt-5 lg:mt-6">${cardSide(items[4])}</div>` : '';
-    return `<div class="grid gap-5 lg:grid-cols-2 lg:gap-6">${rest.map(cardSide).join('')}</div>${last}`;
+    const last = n === 5 ? `<div class="mt-5 lg:mt-6">${cardSide(withSizes(items[4], SIDE_SIZES))}</div>` : '';
+    return `<div class="grid gap-5 lg:grid-cols-2 lg:gap-6">${rest.map((c) => cardSide(withSizes(c, SIDE_SIZES))).join('')}</div>${last}`;
   }
   if (kind === 'compact') {
     const cols = n === 5 ? 'sm:grid-cols-2 lg:grid-cols-5' : n === 3 ? 'md:grid-cols-3' : n === 2 ? 'sm:grid-cols-2' : 'sm:grid-cols-2 lg:grid-cols-3';
-    return `<div class="grid gap-5 ${cols}">${items.map((c) => `<div>${cardCompact(c)}</div>`).join('')}</div>`;
+    const stops = n === 5 ? [{ min: 1024, cols: 5, gap: 20 }, { min: 640, cols: 2, gap: 20 }]
+      : n === 3 ? [{ min: 768, cols: 3, gap: 20 }, { min: 640, cols: 1 }]
+        : n === 2 ? [{ min: 640, cols: 2, gap: 20 }]
+          : [{ min: 1024, cols: 3, gap: 20 }, { min: 640, cols: 2, gap: 20 }];
+    const sizes = gridSizes(stops);
+    return `<div class="grid gap-5 ${cols}">${items.map((c) => `<div>${cardCompact(withSizes(c, sizes))}</div>`).join('')}</div>`;
   }
   if (kind === 'icon') {
     const cols = n === 3 ? 'md:grid-cols-3' : 'md:grid-cols-2 lg:grid-cols-3';
@@ -276,11 +323,17 @@ function cardGrid(kind, items) {
   }
   // top: 3 -> 2+2+2, 5 -> 2+2+2+3+3 (six columns); other counts use plain columns.
   if (n === 3 || n === 5) {
-    const cells = items.map((c, i) => spanCell(cardTop(c), n === 3 || i < 3 ? 2 : 3));
+    // six columns on lg: a card spans 2 (a third of the row) or 3 (a half); below lg it is one column
+    const third = gridSizes([{ min: 1024, cols: 3, gap: 24 }, { min: 640, cols: 1 }]);
+    const half = gridSizes([{ min: 1024, cols: 2, gap: 24 }, { min: 640, cols: 1 }]);
+    const cells = items.map((c, i) => spanCell(cardTop(withSizes(c, n === 3 || i < 3 ? third : half)), n === 3 || i < 3 ? 2 : 3));
     return `<div class="grid gap-5 lg:grid-cols-6 lg:gap-6">${cells.join('')}</div>`;
   }
-  const cols = n === 2 || n === 4 ? 'lg:grid-cols-2' : 'md:grid-cols-2 lg:grid-cols-3';
-  return `<div class="grid gap-5 ${cols} lg:gap-6">${items.map(cardTop).join('')}</div>`;
+  const two = n === 2 || n === 4;
+  const cols = two ? 'lg:grid-cols-2' : 'md:grid-cols-2 lg:grid-cols-3';
+  const sizes = gridSizes(two ? [{ min: 1024, cols: 2, gap: 24 }, { min: 640, cols: 1 }]
+    : [{ min: 1024, cols: 3, gap: 24 }, { min: 768, cols: 2, gap: 20 }, { min: 640, cols: 1 }]);
+  return `<div class="grid gap-5 ${cols} lg:gap-6">${items.map((c) => cardTop(withSizes(c, sizes))).join('')}</div>`;
 }
 
 // Sections that draw their own full-width <section>; all others are wrapped in section() with bg / pad.

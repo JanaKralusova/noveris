@@ -3,6 +3,9 @@
 /* Markup components shared by the page and article generators. */
 
 const { articleCard } = require('./ui');
+const fs = require('fs');
+const path = require('path');
+const { ROOT } = require('./site');
 const { picture } = require('./images');
 
 // Rendered width of an article tile: the grid is 1 column (viewport - 48px padding), 2 columns from 768px
@@ -15,17 +18,23 @@ const ARTICLE_HERO_SIZES = '(min-width: 1024px) 62vw, 100vw';
 // Article images exist in these widths ("" = the 1600px original); the default <img src> is the 800px JPEG.
 // The 400/640/1024 variants are pre-cropped to 3:2 (the aspect the tiles and hero display with object-cover),
 // so no bytes are wasted on cropped-away pixels; 640 covers a 412px phone at DPR 1.75, 1024 the desktop hero.
+// Articles 16-29 were regenerated from Jana's originals (scripts/make-article-photo.sh) and also have a 1600 px file,
+// with the unsuffixed file at 2000 px; older articles stop at 1024 plus the 1600 px unsuffixed file.
 const ARTICLE_VARIANTS = ['400', '640', '800', '1024', ''];
+function articleVariants(image, root = ROOT) {
+  const big = [root, ROOT].some((r) => fs.existsSync(path.join(r, 'assets', 'articles', `${image}-1600.jpg`)));
+  return big ? ['400', '640', '800', '1024', '1600', ''] : ARTICLE_VARIANTS;
+}
 
 function articleImage(a, { sizes, eager, cls, root }) {
-  return picture({ src: `/assets/articles/${a.image}`, variants: ARTICLE_VARIANTS, fallback: '800', sizes, alt: a.imageAlt, eager, cls, root });
+  return picture({ src: `/assets/articles/${a.image}`, variants: articleVariants(a.image, root), fallback: '800', sizes, alt: a.imageAlt, eager, cls, root });
 }
 
 // level: heading level of the tile title (2 when the tile grid directly follows the H1).
 // lang: page language; tiles always link to Slovak articles, so they are marked lang="sk" on other pages.
 function tile(a, { level = 3, lang = 'sk', root, eager = false, high = eager } = {}) {
   return articleCard({
-    photo: { src: `/assets/articles/${a.image}`, variants: ARTICLE_VARIANTS, fallback: '800', sizes: TILE_SIZES, alt: a.imageAlt, eager, high, root },
+    photo: { src: `/assets/articles/${a.image}`, variants: articleVariants(a.image, root), fallback: '800', sizes: TILE_SIZES, alt: a.imageAlt, eager, high, root },
     title: a.title,
     text: a.excerpt,
     href: `/clanky/${a.slug}/`,
@@ -39,4 +48,4 @@ function latest(articles, n) {
   return [...articles].sort((a, b) => (a.date < b.date ? 1 : a.date > b.date ? -1 : a.order - b.order)).slice(0, n);
 }
 
-module.exports = { TILE_SIZES, HERO_SIZES, ARTICLE_HERO_SIZES, ARTICLE_VARIANTS, articleImage, tile, latest };
+module.exports = { TILE_SIZES, HERO_SIZES, ARTICLE_HERO_SIZES, ARTICLE_VARIANTS, articleVariants, articleImage, tile, latest };

@@ -88,4 +88,36 @@ ${artSources}<source type="image/avif" srcset="${list('avif')}" sizes="${esc(siz
 </picture>`;
 }
 
-module.exports = { jpegSize, picture };
+// Pixel size of the full-size JPEG behind a photo ({ src: "/assets/…/name", root? }), or null.
+function photoSize(photo) {
+  const f = `${photo.src}.jpg`;
+  return jpegSize(path.join(photo.root || ROOT, f)) || jpegSize(path.join(ROOT, f));
+}
+
+// Multiplies every length of a `sizes` list by `f` (photos wider than their box are cropped by object-fit: cover,
+// so the box shows a slice of a picture that renders wider than the box).
+function scaleSizes(sizes, f) {
+  if (f <= 1.005) return sizes;
+  const parts = [];
+  let depth = 0, cur = '';
+  for (const ch of sizes) {
+    if (ch === '(') depth++;
+    if (ch === ')') depth--;
+    if (ch === ',' && depth === 0) { parts.push(cur.trim()); cur = ''; } else cur += ch;
+  }
+  parts.push(cur.trim());
+  const k = Math.ceil(f * 100) / 100;
+  return parts.map((part) => {
+    let media = '', len = part;
+    if (part.startsWith('(')) {
+      let d = 0, i = 0;
+      for (; i < part.length; i++) { if (part[i] === '(') d++; if (part[i] === ')' && --d === 0) break; }
+      media = part.slice(0, i + 1) + ' ';
+      len = part.slice(i + 1).trim();
+    }
+    const m = /^([\d.]+)(px|vw)$/.exec(len);
+    return media + (m ? `${Math.round(parseFloat(m[1]) * k * 10) / 10}${m[2]}` : `calc(${len} * ${k})`);
+  }).join(', ');
+}
+
+module.exports = { jpegSize, photoSize, scaleSizes, picture };

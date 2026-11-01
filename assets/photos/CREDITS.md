@@ -1,8 +1,10 @@
 # Photo credits
 
-Self-hosted photos for the service pages, served from `/assets/photos/services/<name>{-400,-800,-1200,}.{jpg,avif}`.
+Self-hosted photos for the service pages, served from `/assets/photos/services/<name>{-400,-560,-800,-1200,-1600,}.{jpg,avif}` (the unsuffixed file is 2000 px wide).
 All photos are published under the Unsplash License (free for commercial use, no attribution required; credited here anyway).
-Produced with `scripts/make-photo.sh`. A test checks that every name below exists in all widths and both formats.
+Produced with `scripts/make-photo.sh` from the Unsplash originals downloaded at 2400 px wide (`https://unsplash.com/photos/<id>/download`, then `?w=2400`; the id is the part of the URL after the last `-` of the slug, 11 characters), so every file is a first-generation resize of a large original. A test checks that every name below exists in all widths and both formats and stays within its size budget.
+
+Two photos keep a fixed crop of their original (`CROP="x y w h"` in make-photo.sh, source pixels of the 2400 px download): `home_house` `0 120 2400 810` (centred 3:1 strip) and `bratislava_city` `47 0 1800 1350` (4:3). All other photos are centre-cropped to at most 4:3.
 
 | Name | Author | Unsplash URL | Licence |
 |---|---|---|---|
@@ -19,7 +21,7 @@ Produced with `scripts/make-photo.sh`. A test checks that every name below exist
 | calc | Cht Gsml | https://unsplash.com/photos/desk-with-calculator-binders-notebook-and-glasses--6LEDthF1AI | Unsplash License |
 | cem1 | Barney Goodman | https://unsplash.com/photos/f7iDUYscH8o | Unsplash License |
 | chairs | Michael Fousert | https://unsplash.com/photos/office-chairs-at-conference-table-RNsKphkdBTk | Unsplash License |
-| chim | Alexandr Popadin | https://unsplash.com/photos/SC9r6ix6vM | Unsplash License |
+| chim | Alexandr Popadin | https://unsplash.com/photos/-SC9r6ix6vM | Unsplash License |
 | crane | Matias Santana | https://unsplash.com/photos/gray-building-crane-photo-during-sunset-2ykXqiKHNfk | Unsplash License |
 | desk | Vooglam Eyewear | https://unsplash.com/photos/desk-with-laptop-blueprints-and-tools-0dhIl78b__o | Unsplash License |
 | farm1 | Damian Kravchuk | https://unsplash.com/photos/p7u7E1YJiB8 | Unsplash License |
