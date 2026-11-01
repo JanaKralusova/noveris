@@ -71,6 +71,7 @@ Two photos keep a fixed crop of their original (`CROP="x y w h"` in make-photo.s
 | ware | Bernd Dittrich | https://unsplash.com/photos/iDSXatl7yNo | Unsplash License |
 | bratislava_city | Michal Vrba | https://unsplash.com/photos/zM9iO5wFnp0 | Unsplash License |
 | home_house | Nicolas Görmer | https://unsplash.com/photos/a-bright-yellow-house-with-a-red-roof-zH6YDDX_Mj8 | Unsplash License |
+| notebook_light | Sincerely Media | https://unsplash.com/photos/white-notebook-0KwFuwdW7pU | Unsplash License |
 
 Notes:
 - `home_house` (Potsdam, Germany) is the home hero, cropped to remove the house number; `bratislava_city` (castle, old town, Danube) is the contact hero.
