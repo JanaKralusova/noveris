@@ -128,7 +128,7 @@
   </url>
   <url>
     <loc>https://noveris.sk/clanky/</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-11-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -320,6 +320,106 @@
     <image:image>
       <image:loc>https://noveris.sk/assets/articles/vecne-bremeno-prechodu-a-prejazdu.jpg</image:loc>
       <image:title>Vecné bremeno práva prechodu a prejazdu: Ako ho zriadiť a zapísať do katastra?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://noveris.sk/clanky/spf-nesuhlasi-s-predajom-pozemku/</loc>
+    <lastmod>2026-11-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://noveris.sk/assets/articles/spf-nesuhlasi-s-predajom-pozemku.jpg</image:loc>
+      <image:title>Slovenský pozemkový fond nesúhlasí s predajom pozemku. Ako postupovať?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://noveris.sk/clanky/oprava-chyby-v-katastri/</loc>
+    <lastmod>2026-11-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://noveris.sk/assets/articles/oprava-chyby-v-katastri.jpg</image:loc>
+      <image:title>Chyba v katastri: Ako opraviť údaje na liste vlastníctva alebo v katastrálnej mape?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://noveris.sk/clanky/odkupenie-pozemku-od-obce-alebo-mesta/</loc>
+    <lastmod>2026-11-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://noveris.sk/assets/articles/odkupenie-pozemku-od-obce-alebo-mesta.jpg</image:loc>
+      <image:title>Ako odkúpiť pozemok od obce alebo mesta?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://noveris.sk/clanky/plot-nezodpoveda-hranici-pozemku/</loc>
+    <lastmod>2026-11-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://noveris.sk/assets/articles/plot-nezodpoveda-hranici-pozemku.jpg</image:loc>
+      <image:title>Plot nezodpovedá hranici pozemku v katastri. Ako postupovať?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://noveris.sk/clanky/rozdelenie-spolocneho-pozemku/</loc>
+    <lastmod>2026-11-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://noveris.sk/assets/articles/rozdelenie-spolocneho-pozemku.jpg</image:loc>
+      <image:title>Ako rozdeliť spoločný pozemok medzi spoluvlastníkov?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://noveris.sk/clanky/duplicitne-vlastnictvo-pozemku/</loc>
+    <lastmod>2026-11-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://noveris.sk/assets/articles/duplicitne-vlastnictvo-pozemku.jpg</image:loc>
+      <image:title>Duplicitné vlastníctvo pozemku: Čo robiť, keď kataster eviduje viacerých vlastníkov tej istej plochy?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://noveris.sk/clanky/historia-vlastnictva-pozemku/</loc>
+    <lastmod>2026-11-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://noveris.sk/assets/articles/historia-vlastnictva-pozemku.jpg</image:loc>
+      <image:title>Ako zistiť históriu vlastníctva pozemku a dohľadať staré listiny?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://noveris.sk/clanky/vysporiadanie-pozemku-pred-vystavbou/</loc>
+    <lastmod>2026-11-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://noveris.sk/assets/articles/vysporiadanie-pozemku-pred-vystavbou.jpg</image:loc>
+      <image:title>Vysporiadanie pozemku pred výstavbou: Čo treba vyriešiť?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://noveris.sk/clanky/roep-a-zrps/</loc>
+    <lastmod>2026-11-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://noveris.sk/assets/articles/roep-a-zrps.jpg</image:loc>
+      <image:title>ROEP a ZRPS: Čo znamenajú pre vlastníctvo vášho pozemku?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://noveris.sk/clanky/vymaz-stareho-zalozneho-prava/</loc>
+    <lastmod>2026-11-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://noveris.sk/assets/articles/vymaz-stareho-zalozneho-prava.jpg</image:loc>
+      <image:title>Staré záložné právo na liste vlastníctva: Ako dosiahnuť jeho výmaz?</image:title>
     </image:image>
   </url>
 </urlset>
