@@ -159,12 +159,12 @@ function render(id, lang, ctx) {
   });
 }
 
-// Every built service page: [{ id, lang, url, hidden }]. Hidden pages are built but must stay out of
+// Every built service page: [{ id, lang, url, hidden, title }] (title = the page H1). Hidden pages are built but must stay out of
 // the sitemap, llms.txt and every link.
 function outputs() {
   const list = [];
   for (const id of Object.keys(SERVICES)) {
-    for (const lang of ['sk', 'en']) if (hasContent(id, lang)) list.push({ id, lang, url: SERVICES[id][lang], hidden: isHidden(id, lang) });
+    for (const lang of ['sk', 'en']) if (hasContent(id, lang)) list.push({ id, lang, url: SERVICES[id][lang], hidden: isHidden(id, lang), title: pageTitleOf(loadService(id)[lang]) });
   }
   return list;
 }

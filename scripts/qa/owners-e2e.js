@@ -6,16 +6,15 @@
  * Types "Hanušk", expects 360 results, picks the first card (it must appear in the panel) and, on desktop,
  * checks that the panel submit button is reachable (inside the viewport) after scrolling to the bottom.
  */
-const { spawn } = require('child_process');
-const os = require('os');
-const path = require('path');
+const { requireServer, launchChrome } = require('./common');
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 const URL = process.argv[2] || 'http://127.0.0.1:8765/nezisteni-vlastnici/?q=Hanušk&test';
 const MODE = process.argv[3] || 'both';
 
 async function run(mode, port) {
   const mobile = mode === 'mobile';
-  const ch = spawn('/Applications/Google Chrome.app/Contents/MacOS/Google Chrome', ['--headless=new', `--remote-debugging-port=${port}`, '--user-data-dir=' + path.join(os.tmpdir(), 'owners-e2e-' + port), '--no-first-run', '--remote-allow-origins=*', 'about:blank'], { stdio: 'ignore' });
+  await requireServer(new globalThis.URL(URL).origin);
+  const ch = launchChrome(port, 'owners-e2e');
   const fails = [];
   try {
     await sleep(4000);
@@ -70,7 +69,7 @@ async function run(mode, port) {
     }
     if (logs.length) { console.log(logs.join('\n')); fails.push(`${mode}: page exceptions`); }
     ws.close();
-  } finally { ch.kill(); }
+  } finally { ch.cleanup(); }
   return fails;
 }
 

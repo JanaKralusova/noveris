@@ -5,7 +5,7 @@
  * founder's Person are included on every page; the page nodes reference them.
  */
 
-const { SITE, SITE_NAME, OG_IMAGES, loadSiteConfig, loadTranslations, abs } = require('./site');
+const { SITE, SITE_NAME, CONTACT, OG_IMAGES, loadSiteConfig, loadTranslations, abs } = require('./site');
 const { jpegSize } = require('./images');
 const path = require('path');
 const { ROOT } = require('./site');
@@ -38,13 +38,13 @@ function orgNode(lang) {
     description: ORG_DESC[lang],
     logo: { '@type': 'ImageObject', '@id': `${SITE}/#logo`, url: `${SITE}/assets/logo.svg`, contentUrl: `${SITE}/assets/logo.svg`, caption: SITE_NAME },
     image: abs(og.path),
-    telephone: '+421915622518',
-    email: 'kralusova@noveris.sk',
+    telephone: CONTACT.phoneHref.replace('tel:', ''),
+    email: CONTACT.email,
     address: {
       '@type': 'PostalAddress',
-      streetAddress: 'Turčianska 42',
-      postalCode: '821 09',
-      addressLocality: 'Bratislava',
+      streetAddress: CONTACT.street,
+      postalCode: CONTACT.postalCode,
+      addressLocality: CONTACT.city,
       addressCountry: 'SK',
     },
     geo: { '@type': 'GeoCoordinates', latitude: 48.1490931, longitude: 17.1372062 },

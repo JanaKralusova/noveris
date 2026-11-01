@@ -26,10 +26,12 @@
 
             if (!isFieldValid) {
                 errorDiv.classList.remove('hidden');
+                errorDiv.classList.add('flex');
                 input.classList.add('!border-danger');
                 isValid = false;
             } else {
                 errorDiv.classList.add('hidden');
+                errorDiv.classList.remove('flex');
                 input.classList.remove('!border-danger');
             }
         }

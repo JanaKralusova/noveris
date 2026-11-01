@@ -6,10 +6,8 @@
  * For each page at 390, 1024 and 1440 px: no horizontal overflow, no console errors / exceptions / failed loads.
  * At 390 px the mobile menu is opened (drawer must be visible) and closed again.
  */
-const { spawn } = require('child_process');
-const os = require('os');
-const path = require('path');
 const { builtPages } = require('../../tests/helpers');
+const { requireServer, launchChrome } = require('./common');
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 const BASE = (process.argv[2] || 'http://127.0.0.1:8765').replace(/\/$/, '');
 const WIDTHS = [390, 1024, 1440];
@@ -18,7 +16,8 @@ const PORT = 9360;
 function urlOf(rel) { return BASE + '/' + rel.replace(/index\.html$/, ''); }
 
 (async () => {
-  const ch = spawn('/Applications/Google Chrome.app/Contents/MacOS/Google Chrome', ['--headless=new', `--remote-debugging-port=${PORT}`, '--user-data-dir=' + path.join(os.tmpdir(), 'qa-overflow-' + PORT), '--no-first-run', '--remote-allow-origins=*', 'about:blank'], { stdio: 'ignore' });
+  await requireServer(BASE);
+  const ch = launchChrome(PORT, 'qa-overflow');
   const fails = [];
   try {
     await sleep(4000);
@@ -58,7 +57,9 @@ function urlOf(rel) { return BASE + '/' + rel.replace(/index\.html$/, ''); }
             await ev('document.getElementById("mobile-menu-btn").click()'); await sleep(450);
             const vis = await ev('(function(){var d=document.getElementById("mobile-menu"),p=document.getElementById("mobile-menu-panel");if(!d||!p)return "nodrawer";var r=p.getBoundingClientRect();return parseFloat(getComputedStyle(d).opacity)>0.9&&r.width>0&&r.left<innerWidth&&r.right>0&&d.getAttribute("aria-hidden")!=="true"})()');
             if (vis !== true) fails.push(`${w}px ${rel}: drawer not visible after opening (${vis})`);
-            await ev('document.getElementById("mobile-menu-btn").click()'); await sleep(350);
+            await ev('document.getElementById("mobile-menu-btn").click()'); await sleep(450);
+            const closed = await ev('(function(){var d=document.getElementById("mobile-menu"),b=document.getElementById("mobile-menu-btn");return parseFloat(getComputedStyle(d).opacity)<0.1&&getComputedStyle(d).pointerEvents==="none"&&b.getAttribute("aria-expanded")==="false"&&document.activeElement===b})()');
+            if (closed !== true) fails.push(`${w}px ${rel}: drawer did not close (or focus not returned to the menu button)`);
           }
         }
         for (const l of logs) fails.push(`${w}px ${rel}: ${l}`);
@@ -66,7 +67,7 @@ function urlOf(rel) { return BASE + '/' + rel.replace(/index\.html$/, ''); }
     }
     console.log(`checked ${n} page views (${pages.length} pages x ${WIDTHS.length} widths)`);
     ws.close();
-  } finally { ch.kill(); }
+  } finally { ch.cleanup(); }
   if (fails.length) { console.log('FAIL\n' + fails.join('\n')); process.exit(1); }
   console.log('PASS');
 })();

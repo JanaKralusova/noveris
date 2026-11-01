@@ -19,6 +19,16 @@ const OG_ALT = {
   sk: 'Noveris Legal – advokátska kancelária v Bratislave',
   en: 'Noveris Legal – law firm in Bratislava',
 };
+// Firm contact data shown in the footer (and reused by the structured data).
+const CONTACT = {
+  phone: '+421 915 622 518',
+  phoneHref: 'tel:+421915622518',
+  email: 'kralusova@noveris.sk',
+  street: 'Turčianska 42',
+  postalCode: '821 09',
+  city: 'Bratislava',
+  address: 'Turčianska 42, 821 09 Bratislava',
+};
 const SITEMAP_LASTMOD = '2026-11-01';
 
 // Page ids -> URL per language. A page without an `en` entry has no English counterpart.
@@ -148,4 +158,4 @@ function abs(url) {
   return /^https?:\/\//.test(url) ? url : SITE + url;
 }
 
-module.exports = { ROOT, SITE, SITE_NAME, OG_IMAGES, OG_ALT, SITEMAP_LASTMOD, loadSiteCopy, loadSiteConfig, iconNames, checkIcons, PAGES, SERVICES, ARTICLES_URL, loadTranslations, loadPagesData, urlToFile, abs };
+module.exports = { ROOT, SITE, SITE_NAME, CONTACT, OG_IMAGES, OG_ALT, SITEMAP_LASTMOD, loadSiteCopy, loadSiteConfig, iconNames, checkIcons, PAGES, SERVICES, ARTICLES_URL, loadTranslations, loadPagesData, urlToFile, abs };

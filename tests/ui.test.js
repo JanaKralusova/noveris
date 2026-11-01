@@ -106,3 +106,23 @@ test('articleCard links photo, title and read link; attrs go on every link', () 
   assert.ok(h.includes('Title &lt;x&gt;'));
   assert.ok(!h.includes('line-clamp'));
 });
+
+test('button full: block-level, full width, centred', () => {
+  const h = ui.button('Ok', '/a/', { full: true });
+  assert.ok(h.includes('w-full'));
+  assert.ok(h.includes('justify-center'));
+  assert.ok(!/\binline-flex\b/.test(h));
+  assert.ok(ui.button('Ok', '/a/').includes('inline-flex'));
+});
+
+test('section throws on an unknown bg', () => {
+  assert.throws(() => ui.section('<p>x</p>', { bg: 'bg-red-500' }), /unknown bg/);
+  assert.ok(ui.section('<p>x</p>', { bg: 'sand' }).includes('bg-sand'));
+});
+
+test('photo components throw a clear error when the photo is missing', () => {
+  const base = { icon: 'gavel', title: 'T', text: 'x', paras: ['x'] };
+  for (const name of ['hero', 'cardSide', 'cardTop', 'cardCompact', 'articleCard', 'splitBand', 'relatedBand']) {
+    assert.throws(() => ui[name]({ ...base, crumbs: [] }), new RegExp(`^Error: ${name}: photo is required$`));
+  }
+});

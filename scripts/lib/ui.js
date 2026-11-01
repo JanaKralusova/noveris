@@ -19,6 +19,11 @@ function icon(name, cls = 'text-[22px]') {
   return `<span class="material-symbols-outlined ${cls}" aria-hidden="true">${esc(name)}</span>`;
 }
 
+// Components that always show a photo call this first, so a missing one fails the build with a clear message.
+function needPhoto(photo, component) {
+  if (!photo) throw new Error(`${component}: photo is required`);
+}
+
 function photoImg(photo, cls, eager) {
   return picture({
     src: photo.src,
@@ -43,17 +48,18 @@ function chip(name) {
 }
 
 const BTN = 'inline-flex items-center gap-3 rounded-btn px-6 py-3.5 font-label text-[12px] font-semibold uppercase tracking-[0.12em] transition-colors duration-200';
+const BTN_FULL = BTN.replace('inline-flex', 'flex w-full justify-center whitespace-nowrap').replace('gap-3', 'gap-2').replace('px-6', 'px-4').replace('tracking-[0.12em]', 'tracking-[0.08em]');
 const BTN_VARIANTS = {
   primary: 'bg-forest text-white hover:bg-forest-dark',
   outline: 'border border-forest text-forest hover:bg-forest hover:text-white',
   onDark: 'bg-white text-forest hover:bg-sand',
 };
-// attrs: trusted extra attributes for the <a> (e.g. 'hreflang="sk"').
+// attrs: trusted extra attributes for the <a> (e.g. 'hreflang="sk"'); full: block-level, full width, centred.
 const xattr = (attrs) => (attrs ? ` ${attrs}` : '');
-function button(text, href, { variant = 'primary', attrs = '' } = {}) {
+function button(text, href, { variant = 'primary', attrs = '', full = false } = {}) {
   const v = BTN_VARIANTS[variant];
   if (!v) throw new Error(`Unknown button variant: ${variant}`);
-  return `<a href="${esc(href)}"${xattr(attrs)} class="${BTN} ${v}">${esc(text)}${icon('arrow_forward', 'text-[18px]')}</a>`;
+  return `<a href="${esc(href)}"${xattr(attrs)} class="${full ? BTN_FULL : BTN} ${v}">${esc(text)}${icon('arrow_forward', 'text-[18px]')}</a>`;
 }
 
 function linkArrow(text, href, attrs = '') {
@@ -74,7 +80,8 @@ const paras = (list, cls) => (list || []).map((p) => `<p class="${cls}">${txt(p)
 // ---------- sections ----------
 const BG = { paper: 'bg-paper', sand: 'bg-sand', white: 'bg-white' };
 function section(innerHtml, { bg = 'paper', pad = 'py-12 md:py-16' } = {}) {
-  return `<section class="${BG[bg] || bg} ${pad}"><div class="mx-auto max-w-7xl px-6 lg:px-8">${innerHtml}</div></section>`;
+  if (!BG[bg]) throw new Error(`section: unknown bg "${bg}" (expected ${Object.keys(BG).join(', ')})`);
+  return `<section class="${BG[bg]} ${pad}"><div class="mx-auto max-w-7xl px-6 lg:px-8">${innerHtml}</div></section>`;
 }
 
 function sectionHeader({ eyebrow: eb, title, note } = {}) {
@@ -85,6 +92,7 @@ function sectionHeader({ eyebrow: eb, title, note } = {}) {
 }
 
 function hero({ crumbs, crumbsLabel, label, title, intro = [], bold, after, cta, photo }) {
+  needPhoto(photo, 'hero');
   const ps = paras(intro, 'text-[15px] leading-[1.6] text-body md:text-[16px]');
   const b = bold ? `<p class="text-[15px] font-bold leading-[1.6] text-ink md:text-[16px]">${txt(bold)}</p>` : '';
   const a = after ? `<p class="text-[15px] leading-[1.6] text-body md:text-[16px]">${txt(after)}</p>` : '';
@@ -99,6 +107,7 @@ function hero({ crumbs, crumbsLabel, label, title, intro = [], bold, after, cta,
 }
 
 function cardSide({ icon: ic, title, paras: ps, photo, link }) {
+  needPhoto(photo, 'cardSide');
   return '<article class="flex flex-col overflow-hidden rounded-card border border-line bg-card shadow-soft sm:flex-row">'
     + `<div class="flex-1 p-6">${chip(ic)}<h3 class="mt-4 font-headline text-[1.375rem] leading-snug text-ink md:text-[1.5rem]">${esc(title)}</h3>`
     + `<div class="mt-3 space-y-3">${paras(ps, 'text-[14px] leading-[1.6] text-body md:text-[15px]')}</div>${linkBlock(link, 'pt-4')}</div>`
@@ -106,12 +115,14 @@ function cardSide({ icon: ic, title, paras: ps, photo, link }) {
 }
 
 function cardTop({ icon: ic, title, paras: ps, photo, link }) {
+  needPhoto(photo, 'cardTop');
   return `<article class="overflow-hidden rounded-card border border-line bg-card shadow-soft"><div class="h-40">${photoImg(photo, 'h-full w-full object-cover')}</div>`
     + `<div class="p-6">${chip(ic)}<h3 class="mt-4 font-headline text-[1.375rem] leading-snug text-ink md:text-[1.5rem]">${esc(title)}</h3>`
     + `<div class="mt-3 space-y-3">${paras(ps, 'text-[14px] leading-[1.6] text-body md:text-[15px]')}</div>${linkBlock(link, 'pt-4')}</div></article>`;
 }
 
 function cardCompact({ icon: ic, title, text, photo }) {
+  needPhoto(photo, 'cardCompact');
   return `<article class="overflow-hidden rounded-card border border-line bg-card shadow-soft"><div class="h-28">${photoImg(photo, 'h-full w-full object-cover')}</div>`
     + `<div class="p-4">${chip(ic)}<h3 class="mt-3 font-headline text-[1.125rem] leading-snug text-ink">${esc(title)}</h3><p class="mt-2 text-[13px] leading-normal text-body">${txt(text)}</p></div></article>`;
 }
@@ -124,6 +135,7 @@ function cardIcon({ icon: ic, title, text, href, linkText = 'Viac o službe', at
 
 // Article tile (home page): photo is { src, variants, sizes, alt }; attrs go on both links (e.g. 'lang="sk"').
 function articleCard({ photo, title, text, href, linkText = 'Čítať článok', attrs = '', level = 3 }) {
+  needPhoto(photo, 'articleCard');
   const x = xattr(attrs);
   return `<article${x} class="group flex flex-col overflow-hidden rounded-card border border-line bg-card shadow-soft">`
     + `<a href="${esc(href)}"${x} tabindex="-1" aria-hidden="true" class="block aspect-[3/2] overflow-hidden">${photoImg(photo, 'h-full w-full object-cover transition-transform duration-500 group-hover:scale-[1.03]')}</a>`
@@ -155,6 +167,7 @@ function stepsV(steps) {
 
 // extraHtml: trusted markup shown after the paragraphs and the link (e.g. a callout).
 function splitBand({ eyebrow: eb, title, paras: ps, photo, link, extraHtml = '', callout: co, side = 'left', bg = 'sand' }) {
+  needPhoto(photo, 'splitBand');
   if (co && !extraHtml) extraHtml = callout(co);
   const fade = side === 'left' ? 'fade-photo-l' : 'fade-photo';
   const pos = side === 'left' ? 'lg:left-0' : 'lg:right-0';
@@ -190,6 +203,7 @@ function twoCol(left, right) {
 }
 
 function relatedBand({ eyebrow: eb, title, text, link, photo }) {
+  needPhoto(photo, 'relatedBand');
   return `<div class="flex flex-col overflow-hidden rounded-card border border-line bg-sand sm:flex-row"><div class="flex-1 p-6 md:p-8">${eyebrow(eb)}`
     + `<h3 class="mt-2 font-headline text-[1.5rem] leading-snug text-ink md:text-[1.75rem]">${esc(title)}</h3><p class="mt-3 text-[15px] leading-[1.6] text-body">${txt(text)}</p>${linkBlock(link, 'pt-4')}</div>`
     + `<div class="relative h-40 sm:h-auto sm:w-[32%]">${photoImg(photo, 'absolute inset-0 h-full w-full object-cover')}</div></div>`;

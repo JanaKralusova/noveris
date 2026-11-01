@@ -205,3 +205,16 @@ test('structured data and llms.txt list the six current service areas', () => {
   }
   assert.ok(!/\*\*(Debt Recovery \(Vymáhanie|Vymáhanie pohľadávok)/.test(llms));
 });
+
+test('EN footer marks the Slovak-only privacy link as Slovak; SK footer does not', () => {
+  const layout = require('../scripts/lib/layout');
+  const link = (h) => /<a href="\/ochrana-osobnych-udajov\/"[^>]*>/.exec(h.slice(h.indexOf('<footer')))[0];
+  assert.ok(link(layout.renderFooter('en')).includes('hreflang="sk" lang="sk"'));
+  assert.ok(!link(layout.renderFooter('sk')).includes('hreflang'));
+});
+
+test('footer contact data comes from CONTACT', () => {
+  const { CONTACT } = require('../scripts/lib/site');
+  const f = require('../scripts/lib/layout').renderFooter('sk');
+  for (const v of [CONTACT.phone, CONTACT.phoneHref, CONTACT.email, CONTACT.address]) assert.ok(f.includes(v), v);
+});

@@ -47,7 +47,8 @@ function urlEntry({ loc, lastmod, changefreq, priority, alternates, image }) {
   return `  <url>\n    <loc>${esc(loc)}</loc>\n    <lastmod>${lastmod}</lastmod>\n    <changefreq>${changefreq}</changefreq>\n    <priority>${priority}</priority>${alt}${img}\n  </url>`;
 }
 
-function buildSitemap(outRoot, articles) {
+// pairs: { <service id>: true } for services that are visible in both languages.
+function buildSitemap(outRoot, articles, svcOutputs, pairs) {
   const entries = [];
   for (const id of Object.keys(PAGES)) {
     const p = PAGES[id];
@@ -60,10 +61,9 @@ function buildSitemap(outRoot, articles) {
       entries.push(urlEntry({ loc: abs(p[lang]), lastmod: SITEMAP_LASTMOD, changefreq: p.changefreq, priority: p.priority, alternates: pair }));
     }
   }
-  for (const o of buildServices.outputs().filter((x) => !x.hidden)) {
+  for (const o of svcOutputs.filter((x) => !x.hidden)) {
     const svc = SERVICES[o.id];
-    const hasPair = buildServices.hasLang(o.id, 'sk') && buildServices.hasLang(o.id, 'en');
-    const pair = hasPair
+    const pair = pairs[o.id]
       ? [{ hreflang: 'sk', href: abs(svc.sk) }, { hreflang: 'en', href: abs(svc.en) }, { hreflang: 'x-default', href: abs(svc.sk) }]
       : null;
     entries.push(urlEntry({ loc: abs(o.url), lastmod: SITEMAP_LASTMOD, changefreq: 'monthly', priority: '0.8', alternates: pair }));
@@ -136,8 +136,10 @@ buildPages.main();
 buildServices.main();
 const articles = buildArticles.main();
 const outRoot = path.resolve(process.env.ARTICLES_OUT_DIR || ROOT);
-buildSitemap(outRoot, articles);
-const pagesData = require('./lib/site').loadPagesData();
-const services = buildServices.outputs().filter((o) => !o.hidden).map((o) => ({ ...o, title: pagesData[o.id][o.lang].title.replace(/ \| Noveris Legal$/, '') }));
+const svcOutputs = buildServices.outputs();
+const svcPairs = {};
+for (const id of Object.keys(SERVICES)) svcPairs[id] = buildServices.hasLang(id, 'sk') && buildServices.hasLang(id, 'en');
+buildSitemap(outRoot, articles, svcOutputs, svcPairs);
+const services = svcOutputs.filter((o) => !o.hidden);
 updateLlms(outRoot, articles, services);
 console.log('build: sitemap.xml + llms.txt updated');

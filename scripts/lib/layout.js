@@ -8,7 +8,7 @@
 
 const fs = require('fs');
 const path = require('path');
-const { ROOT, SITE, loadSiteConfig, SITE_NAME, PAGES, ARTICLES_URL, abs, loadTranslations, checkIcons } = require('./site');
+const { ROOT, SITE, CONTACT, loadSiteConfig, SITE_NAME, PAGES, ARTICLES_URL, abs, loadTranslations, checkIcons } = require('./site');
 
 const PRELOAD_FONTS = ['newsreader.woff2', 'manrope.woff2', 'material-symbols-outlined-subset.woff2'];
 const ROBOTS = 'index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1';
@@ -222,18 +222,18 @@ ${langSwitch}<button type="button" id="mobile-menu-btn" onclick="toggleMobileMen
 <!-- Mobile menu drawer – kept outside <header>: the header's backdrop-filter
      makes it the containing block for fixed children in Safari, which would
      collapse this drawer to the header's height. -->
-<div id="mobile-menu" class="pointer-events-none fixed inset-0 z-[60] opacity-0 transition-opacity duration-300 lg:hidden">
+<div id="mobile-menu" inert class="pointer-events-none fixed inset-0 z-[60] opacity-0 transition-opacity duration-300 lg:hidden">
 <div class="absolute inset-0 bg-ink/40" onclick="toggleMobileMenu()"></div>
-<div id="mobile-menu-panel" class="absolute right-0 top-0 h-full translate-x-full transition-transform duration-300 ease-out">
+<div id="mobile-menu-panel" role="dialog" aria-modal="true" aria-label="${ui.menu}" class="absolute right-0 top-0 h-full translate-x-full transition-transform duration-300 ease-out">
 <div class="flex h-full w-72 flex-col border-l border-line bg-paper shadow-2xl">
 <div class="flex h-16 items-center justify-between border-b border-line px-6">
 <span class="font-label text-[12px] font-semibold uppercase tracking-[0.16em] text-muted">${ui.menu}</span>
-<button type="button" onclick="toggleMobileMenu()" aria-label="${ui.closeMenu}" class="-mr-2 p-2 text-ink"><span class="material-symbols-outlined text-[26px]" aria-hidden="true">close</span></button>
+<button type="button" id="mobile-menu-close" onclick="toggleMobileMenu()" aria-label="${ui.closeMenu}" class="-mr-2 p-2 text-ink"><span class="material-symbols-outlined text-[26px]" aria-hidden="true">close</span></button>
 </div>
 <div class="flex-1 overflow-y-auto px-6 py-2">
 ${mobile}
 </div>
-<div class="border-t border-line p-6">${button(t['home.hero.cta'], PAGES.contact[lang]).replace('inline-flex', 'flex w-full justify-center')}</div>
+<div class="border-t border-line p-6">${button(t['home.hero.cta'], PAGES.contact[lang], { full: true })}</div>
 </div>
 </div>
 </div>`;
@@ -244,22 +244,22 @@ ${mobile}
 function renderFooter(lang) {
   const t = loadTranslations()[lang];
   const copy = t['footer.copy'].replace('{year}', `<span id="footer-year">${new Date().getFullYear()}</span>`);
-  const menu = navItems(lang).map((it) => `<a href="${it.href}" class="py-1 font-label text-[14px] text-body transition-colors hover:text-copper">${it.label}</a>`).join('\n');
+  const menu = navItems(lang).map((it) => `<a href="${it.href}" class="py-1 lg:whitespace-nowrap font-label text-[14px] text-body transition-colors hover:text-copper">${it.label}</a>`).join('\n');
   const row = (ic, text, href) => `<li class="flex items-center gap-3 text-[14px] text-body"><span class="material-symbols-outlined text-[20px] text-copper" aria-hidden="true">${ic}</span><span>${href ? `<a href="${href}" class="hover:text-copper">${text}</a>` : text}</span></li>`;
   return `<!-- ===== FOOTER ===== -->
 <footer class="border-t border-line bg-paper"><div class="mx-auto max-w-7xl px-6 lg:px-8">
-<div class="grid gap-10 py-12 md:grid-cols-3 md:gap-0">
+<div class="grid gap-10 py-12 md:grid-cols-3 md:gap-0 lg:grid-cols-[1fr_1.4fr_1fr]">
 <div class="md:pr-10">${logo(lang, 'h-8')}<p class="mt-4 text-[14px] text-body">${t['footer.tagline']}</p></div>
 <nav aria-label="${t['footer.nav']}" class="md:border-l md:border-line md:px-10"><div class="grid grid-cols-2 gap-x-6">
 ${menu}
 </div></nav>
 <ul class="space-y-3 md:border-l md:border-line md:pl-10">
-${row('call', '+421 915 622 518', 'tel:+421915622518')}
-${row('mail', 'kralusova@noveris.sk', 'mailto:kralusova@noveris.sk')}
-${row('location_on', 'Turčianska 42, 821 09 Bratislava')}
+${row('call', CONTACT.phone, CONTACT.phoneHref)}
+${row('mail', CONTACT.email, `mailto:${CONTACT.email}`)}
+${row('location_on', CONTACT.address)}
 </ul></div>
 <div class="flex flex-col gap-2 border-t border-line py-5 text-[13px] text-muted sm:flex-row sm:items-center sm:justify-between" id="footer-copy">
-<p>${copy}</p><a href="${PAGES.privacy.sk}" class="hover:text-copper hover:underline">${t['footer.privacy']}</a>
+<p>${copy}</p><a href="${PAGES.privacy.sk}"${lang === 'sk' ? '' : ' hreflang="sk" lang="sk"'} class="hover:text-copper hover:underline">${t['footer.privacy']}</a>
 </div></div></footer>
 
 <script>
@@ -276,19 +276,32 @@ ${row('location_on', 'Turčianska 42, 821 09 Bratislava')}
             panel.classList.add('translate-x-full');
             menu.classList.remove('opacity-100', 'pointer-events-auto');
             menu.classList.add('opacity-0', 'pointer-events-none');
+            menu.setAttribute('inert', '');
             btn.setAttribute('aria-expanded', 'false');
             document.body.style.overflow = '';
+            btn.focus();
         } else {
             menu.classList.remove('opacity-0', 'pointer-events-none');
             menu.classList.add('opacity-100', 'pointer-events-auto');
             panel.classList.remove('translate-x-full');
+            menu.removeAttribute('inert');
             btn.setAttribute('aria-expanded', 'true');
             document.body.style.overflow = 'hidden';
+            document.getElementById('mobile-menu-close').focus();
         }
     };
     document.addEventListener('keydown', function (e) {
         var m = document.getElementById('mobile-menu');
-        if (e.key === 'Escape' && m && m.classList.contains('pointer-events-auto')) window.toggleMobileMenu();
+        if (!m || !m.classList.contains('pointer-events-auto')) return;
+        if (e.key === 'Escape') { window.toggleMobileMenu(); return; }
+        if (e.key !== 'Tab') return;
+        // Keep Tab inside the open drawer panel.
+        var f = document.getElementById('mobile-menu-panel').querySelectorAll('a[href], button');
+        if (!f.length) return;
+        var first = f[0], last = f[f.length - 1], cur = document.activeElement;
+        if (!m.contains(cur)) { e.preventDefault(); first.focus(); }
+        else if (e.shiftKey && cur === first) { e.preventDefault(); last.focus(); }
+        else if (!e.shiftKey && cur === last) { e.preventDefault(); first.focus(); }
     });
 })();
 </script>`;
