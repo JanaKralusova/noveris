@@ -20,10 +20,15 @@ module.exports = {
         "inverse-on-surface": "#f3f0ea","primary-container": "#c6af97","outline-variant": "#d0c5af",
         "primary-fixed-dim": "#dac3aa","on-secondary-fixed-variant": "#574500","on-tertiary-fixed-variant": "#534437",
         "on-error": "#ffffff","secondary-fixed-dim": "#e9c349","on-surface-variant": "#4d4635",
-        "on-secondary-container": "#745c00","surface-bright": "#fcf9f2"
+        "on-secondary-container": "#745c00","surface-bright": "#fcf9f2",
+        /* Redesign tokens (design-system/) - additive */
+        "paper": "#fbf9f5","sand": "#f0ece6","sand-deep": "#e7ded1","chip": "#f1ece5","line": "#e6e0d6","card": "#ffffff",
+        "forest": "#17302b","forest-dark": "#0f231f","ink": "#1c2420","body": "#4a4740","muted": "#6f6a60",
+        "copper": "#8f5535","copper-light": "#e0b08a","field": "#8e867a","danger": "#b3261e"
       },
+      boxShadow: { "soft": "0 10px 32px -4px rgba(28, 36, 32, 0.06)" },
       fontFamily: { "headline": ["Newsreader", "Newsreader Fallback", "serif"], "body": ["Manrope", "Manrope Fallback", "sans-serif"], "label": ["Manrope", "Manrope Fallback", "sans-serif"] },
-      borderRadius: {"DEFAULT": "0.125rem", "lg": "0.25rem", "xl": "0.5rem", "full": "0.75rem"},
+      borderRadius: {"DEFAULT": "0.125rem", "lg": "0.25rem", "xl": "0.5rem", "full": "0.75rem", "card": "6px", "btn": "4px", "pill": "9999px"},
     },
   },
   plugins: [
