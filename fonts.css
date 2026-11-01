@@ -11,6 +11,10 @@
  * "Newsreader Fallback" / "Manrope Fallback" are local system fonts scaled (size-adjust and the metric
  * overrides) to the web fonts' measured width and vertical metrics, so the swap causes no layout shift.
  *
+ * Mrs Saint Delafield (OFL, assets/fonts/LICENSE-MrsSaintDelafield.txt) draws Jana's name as a signature in the About hero.
+ * It is a SUBSET with only the glyphs of "Jana Králusová" (fontTools.subset --text="Jana Králusová" --flavor=woff2);
+ * regenerate it if the signed text changes.
+ *
  * Material Symbols is a SUBSET containing only the icons listed in assets/fonts/material-symbols.icons.json.
  * To add an icon, regenerate: request the Google Fonts css2 endpoint (host: fonts + .googleapis.com) with
  *   /css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&icon_names=<sorted,comma,separated,names>&display=block
@@ -112,4 +116,11 @@
   direction: ltr;
   -webkit-font-feature-settings: 'liga';
   -webkit-font-smoothing: antialiased;
+}
+@font-face {
+  font-family: 'Signature';
+  font-style: normal;
+  font-weight: 400;
+  font-display: block;
+  src: url(/assets/fonts/signature-subset.woff2) format('woff2');
 }

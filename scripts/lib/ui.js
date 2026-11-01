@@ -144,7 +144,7 @@ function sectionHeader({ eyebrow: eb, title, note } = {}) {
 // crumbs: optional breadcrumb; title (escaped) or titleHtml (trusted, e.g. with the italic accent span); intro: paragraphs;
 // topHtml: trusted block above the breadcrumb; actionsHtml / extraHtml: trusted blocks after the intro / after the buttons;
 // size 'long' = smaller H1 for long titles; tall = minimum height for pages with little text; photo.style = object-position.
-function hero({ crumbs, crumbsLabel, label, title, titleHtml, intro = [], bold, after, cta, actionsHtml = '', extraHtml = '', topHtml = '', size, tall = false, contain = false, photo }) {
+function hero({ crumbs, crumbsLabel, label, title, titleHtml, intro = [], bold, after, cta, actionsHtml = '', extraHtml = '', topHtml = '', size, tall = false, contain = false, signature = '', photo }) {
   needPhoto(photo, 'hero');
   const ps = paras(intro, 'text-[15px] leading-[1.6] text-body md:text-[16px]');
   const b = bold ? `<p class="text-[15px] font-bold leading-[1.6] text-ink md:text-[16px]">${txt(bold)}</p>` : '';
@@ -159,7 +159,7 @@ function hero({ crumbs, crumbsLabel, label, title, titleHtml, intro = [], bold, 
   return '<section class="relative overflow-hidden bg-paper">'
     + (contain
       // whole portrait: contained next to the text, flush with the bottom edge; its left and right edges fade into the page (.fade-portrait)
-      ? `<div class="relative flex h-80 justify-center sm:h-[26rem] lg:absolute lg:inset-y-0 lg:right-0 lg:h-auto lg:w-[52%] lg:justify-start lg:pl-2 xl:pl-6">${photoImg({ ...photo, sizes: containSizes(photo, { phone: 320, sm: 416, lg: 640 }) }, 'fade-portrait h-full w-auto max-w-full object-contain object-bottom', true)}</div>`
+      ? `<div class="relative flex h-80 items-end justify-center sm:h-[26rem] lg:absolute lg:inset-y-0 lg:right-0 lg:h-auto lg:w-[52%] lg:justify-start lg:pl-2 xl:pl-6"><div class="h-full min-w-0">${photoImg({ ...photo, sizes: containSizes(photo, { phone: 320, sm: 416, lg: 640 }) }, 'fade-portrait h-full w-auto max-w-full object-contain object-bottom', true)}</div>${signature ? `<span aria-hidden="true" class="pointer-events-none relative -ml-12 mb-8 shrink-0 -rotate-6 whitespace-nowrap font-signature text-[2rem] leading-none text-copper sm:-ml-16 sm:mb-10 sm:text-[2.75rem] xl:text-[3.25rem]">${esc(signature)}</span>` : ''}</div>`
       : `<div class="fade-photo relative h-52 sm:h-72 lg:absolute lg:inset-y-0 lg:right-0 lg:h-auto lg:w-[52%]">${photoImg({ ...photo, sizes: coverSizes(photo, { phone: 208, sm: 288, lg: { vw: 52, h: 560 } }) }, 'h-full w-full object-cover', true)}</div>`)
     + `<div class="relative mx-auto max-w-7xl px-6 pb-12 pt-2 lg:px-8 lg:py-14${tall ? ' lg:min-h-[29rem]' : ''}"><div class="lg:w-[50%]">`
     + `${topHtml}${crumb}${lab}<h1 class="${h1Mt} font-headline ${h1Size} tracking-tight text-ink">${titleHtml !== undefined ? titleHtml : esc(title)}</h1>`

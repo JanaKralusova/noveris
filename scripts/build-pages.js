@@ -204,6 +204,7 @@ function heroFor(id, lang, t, ctx) {
         intro: [t['about.hero.desc']],
         tall: true,
         contain: true,
+        signature: 'Jana Králusová',
         photo: { src: '/assets/photos/jana-about', alt: t['img.about.portrait'], eager: true, variants: ['480', '800', ''] },
       });
     case 'contact':
