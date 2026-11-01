@@ -9,7 +9,7 @@ const translations = {
         "nav.about": "O nás",
         "nav.services": "Služby",
         "nav.articles": "Články",
-        "nav.owners": "Vyhľadávanie",
+        "nav.owners": "Vyhľadávanie vlastníkov",
         "nav.contact": "Kontakt",
 
         // Page titles
@@ -18,7 +18,7 @@ const translations = {
         "title.services": "Služby – Noveris Legal",
         "title.contact": "Kontakt – Noveris Legal",
         "title.privacy": "Ochrana osobných údajov – Noveris Legal",
-        "title.owners": "Nezistení vlastníci – Noveris Legal",
+        "title.owners": "Vyhľadávanie vlastníkov – Noveris Legal",
         "privacy.back": "Späť na Kontakt",
 
         // ===== HOME =====

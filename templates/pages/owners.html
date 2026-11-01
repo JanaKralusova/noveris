@@ -2,10 +2,13 @@
 <div class="max-w-7xl mx-auto">
 <p class="font-label uppercase tracking-widest text-xs text-secondary mb-4">Nezistení vlastníci · údaje SPF k {{owners:asOf}}</p>
 <h1 class="font-headline text-4xl md:text-6xl leading-tight max-w-3xl">Patrí pozemok <span class="italic text-primary">vašej rodine?</span></h1>
-<ol class="mt-8 grid md:grid-cols-3 gap-6 max-w-4xl text-sm text-on-surface-variant">
-<li class="flex gap-3"><span class="font-headline text-2xl text-secondary">1</span><span>Zadajte priezvisko predka, prípadne aj obec alebo číslo LV – hľadáme aj v rodných menách a poznámkach.</span></li>
-<li class="flex gap-3"><span class="font-headline text-2xl text-secondary">2</span><span>Pridajte nájdené záznamy do žiadosti.</span></li>
-<li class="flex gap-3"><span class="font-headline text-2xl text-secondary">3</span><span>Odošlite ich advokátke – údaje vyplníme za vás.</span></li>
+<p class="mt-6 max-w-3xl text-on-surface-variant">Na Slovensku sa nachádzajú pozemky, ktorých vlastníci nie sú dostatočne identifikovaní alebo nie je známe ich miesto pobytu. Medzi týmito vlastníkmi môžu byť aj vaši predkovia, po ktorých zostali nevysporiadané pozemky.</p>
+<p class="mt-4 max-w-3xl text-lg font-medium text-on-surface">Vyhľadajte priezvisko svojho predka, obec alebo číslo listu vlastníctva a zistite, či sa v zozname nezistených vlastníkov nachádzajú záznamy, ktoré môžu súvisieť s vašou rodinou.</p>
+<h2 class="font-headline text-2xl mt-10">Ako vyhľadávanie funguje?</h2>
+<ol class="mt-5 grid md:grid-cols-3 gap-6 max-w-5xl text-sm text-on-surface-variant">
+<li class="flex gap-3"><span class="font-headline text-2xl text-secondary">1</span><span><span class="block font-medium text-on-surface">Vyhľadajte vlastníka</span>Zadajte priezvisko predka, prípadne katastrálne územie, obec alebo číslo listu vlastníctva. Vyhľadávanie zahŕňa aj rodné priezviská a údaje uvedené v poznámkach.</span></li>
+<li class="flex gap-3"><span class="font-headline text-2xl text-secondary">2</span><span><span class="block font-medium text-on-surface">Vyberte nájdené záznamy</span>Ak nájdete záznamy, ktoré by mohli súvisieť s vašou rodinou, pridajte ich do žiadosti.</span></li>
+<li class="flex gap-3"><span class="font-headline text-2xl text-secondary">3</span><span><span class="block font-medium text-on-surface">Odošlite žiadosť advokátke</span>Vybrané záznamy nám môžete odoslať spolu s kontaktnými údajmi. Na základe vašej žiadosti vás budeme kontaktovať ohľadom možností ďalšieho právneho postupu.</span></li>
 </ol>
 </div>
 </section>
@@ -30,7 +33,9 @@
 </div>
 <div class="mt-12 border-t border-outline-variant/40 pt-6 text-xs text-outline leading-relaxed">
 <span class="font-label uppercase tracking-widest text-[10px] text-secondary">Zdroj údajov</span><br/>
-Slovenský pozemkový fond – <a class="underline underline-offset-2 hover:text-secondary" href="{{owners:sourcePage}}" target="_blank" rel="noopener">Zoznam nezistených vlastníkov</a>, stav k {{owners:asOf}}. Údaje preberáme bez úprav; záväzné sú údaje v katastri nehnuteľností. Noveris Legal nie je prevádzkovateľom registra.
+Slovenský pozemkový fond – <a class="underline underline-offset-2 hover:text-secondary" href="{{owners:sourcePage}}" target="_blank" rel="noopener">Zoznam nezistených vlastníkov</a>, stav k {{owners:asOf}}.
+<p class="mt-2">Údaje preberáme bez obsahových úprav. Rozhodujúce sú aktuálne údaje evidované v katastri nehnuteľností. Noveris Legal nie je prevádzkovateľom zoznamu nezistených vlastníkov Slovenského pozemkového fondu.</p>
+<p class="mt-2"><b>Upozornenie:</b> Zhoda mena alebo priezviska sama osebe nepreukazuje totožnosť osoby, príbuzenský vzťah ani vlastnícke alebo dedičské právo k pozemku. Nájdené údaje je potrebné overiť v katastri nehnuteľností a ďalších dostupných dokumentoch.</p>
 </div>
 </div>
 
@@ -41,9 +46,9 @@ Slovenský pozemkový fond – <a class="underline underline-offset-2 hover:text
 <source type="image/avif" srcset="/assets/photos/avatar.avif"/>
 <img src="/assets/photos/avatar.jpg" alt="" width="320" height="320" loading="lazy" decoding="async" class="w-14 h-14 rounded-[50%] object-cover bg-surface-container"/>
 </picture>
-<div><h2 id="owners-panel-h" class="font-headline text-xl">Vaša žiadosť</h2><div class="text-xs text-outline">Mgr. Jana Králusová, advokátka</div></div>
+<div><h2 id="owners-panel-h" class="font-headline text-lg leading-snug">Vyberte záznamy, ktoré Vás zaujímajú, a odošlite nám ich spolu s vašimi kontaktnými údajmi.</h2><div class="text-xs text-outline">Mgr. Jana Králusová, advokátka</div></div>
 </div>
-<div class="p-6 lg:max-h-[calc(100vh-14rem)] lg:overflow-y-auto">
+<div class="p-6">
 <div id="owners-thanks" class="hidden text-center py-10" role="status" tabindex="-1">
 <svg class="w-12 h-12 mx-auto text-secondary" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 9.5 12 3l9 6.5V19a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1z"/><path d="m8 12.5 3 2.5 5-5"/></svg>
 <h3 class="font-headline text-3xl mt-4">Ďakujeme</h3>
@@ -78,14 +83,15 @@ Slovenský pozemkový fond – <a class="underline underline-offset-2 hover:text
 </div>
 <div class="space-y-1">
 <label for="owners-message" class="font-label uppercase tracking-widest text-[11px] text-outline">Správa (predvyplnená, môžete upraviť)</label>
-<textarea id="owners-message" name="message" rows="6" required class="editorial-input w-full py-2 px-0 bg-transparent focus:ring-0 text-sm leading-relaxed resize-y"></textarea>
+<textarea id="owners-message" name="message" rows="6" required class="editorial-input w-full py-2 px-0 bg-transparent focus:ring-0 text-sm leading-relaxed resize-none overflow-hidden"></textarea>
 <div id="owners-message-error" class="hidden font-body text-error text-[11px] mt-1">Prosím, napíšte nám správu</div>
 </div>
 <div>
 <button id="owners-submit" type="submit" disabled class="w-full satin-button text-white font-label uppercase tracking-widest text-xs py-4 rounded-lg disabled:opacity-40 flex items-center justify-center gap-2"><span>Odoslať advokátke</span><svg class="w-[18px] h-[18px]" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14m-6-6 6 6-6 6"/></svg></button>
+<p class="mt-3 text-xs text-outline text-center">Žiadosť bude doručená advokátke Mgr. Jane Králusovej</p>
 <div id="owners-form-status" class="mt-4 font-body text-sm hidden" role="status"></div>
 </div>
-<p class="text-[11px] text-outline leading-relaxed">Odoslaním súhlasíte so spracovaním údajov podľa <a href="{{url:privacy}}" class="underline underline-offset-2 hover:text-primary">zásad ochrany osobných údajov</a>. Odpoveď dostanete e-mailom alebo telefonicky.</p>
+<p class="text-[11px] text-outline leading-relaxed">Odoslaním súhlasíte so spracovaním údajov podľa <a href="{{url:privacy}}" class="underline underline-offset-2 hover:text-primary">zásad ochrany osobných údajov</a>.</p>
 <input type="hidden" name="access_key" value="bfe1ae07-8f6f-4183-afb5-1ef348205f74">
 <input type="hidden" name="subject" value="Nezistení vlastníci – žiadosť z webu">
 <input type="hidden" name="from_name" value="Noveris Legal Website">
@@ -96,6 +102,14 @@ Slovenský pozemkový fond – <a class="underline underline-offset-2 hover:text
 </div>
 </div>
 </aside>
+</div>
+</section>
+
+<section class="px-8 pb-24">
+<div class="max-w-7xl mx-auto border-t border-outline-variant/40 pt-12">
+<h2 class="font-headline text-3xl max-w-3xl">Čo robiť, ak ste našli svojho predka?</h2>
+<p class="mt-5 max-w-3xl text-on-surface-variant">Ak sa v zozname nachádza osoba, o ktorej sa domnievate, že bola vaším predkom, je potrebné najskôr preveriť jej totožnosť, vlastnícke právo k pozemku a prípadné dedičské konania.</p>
+<p class="mt-4 max-w-3xl text-on-surface-variant">V závislosti od konkrétnych okolností môže byť potrebné napríklad dodatočné dedičské konanie alebo iný právny postup smerujúci k usporiadaniu vlastníckych vzťahov.</p>
 </div>
 </section>
 

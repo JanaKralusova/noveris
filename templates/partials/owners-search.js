@@ -245,7 +245,7 @@
     submitBtn.disabled = !items.length;
     mbar.textContent = 'Pokračovať k žiadosti (' + items.length + ')';
     mbar.classList.toggle('hidden', !items.length || panelVisible);
-    if (!messageEdited) msgEl.value = buildMessage();
+    if (!messageEdited) { msgEl.value = buildMessage(); fitMsg(); }
   }
 
   function paintPick(card, on) {
@@ -292,7 +292,15 @@
     }).observe(panel);
   }
 
-  msgEl.addEventListener('input', function () { messageEdited = true; });
+  function fitMsg() { msgEl.style.height = 'auto'; msgEl.style.height = msgEl.scrollHeight + 'px'; }
+  msgEl.addEventListener('input', function () { messageEdited = true; fitMsg(); });
+
+  // A panel taller than the viewport sticks only once its bottom is visible.
+  var wide = window.matchMedia('(min-width: 1024px)');
+  function fitSticky() { panel.style.top = wide.matches ? Math.min(112, window.innerHeight - panel.offsetHeight - 16) + 'px' : ''; }
+  if ('ResizeObserver' in window) new ResizeObserver(fitSticky).observe(panel);
+  window.addEventListener('resize', function () { fitSticky(); fitMsg(); });
+  fitSticky();
 
   // ---------------------------------------------------------------- results
 
@@ -585,6 +593,7 @@
           messageEdited = false;
           form.reset();
           msgEl.value = '';
+          fitMsg();
           form.classList.add('hidden');
           // analytics:start
           if (!isTest) track('owner-request-sent', { records: items.length });
