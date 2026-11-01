@@ -91,7 +91,7 @@ function personNode() {
     honorificPrefix: 'Mgr.',
     jobTitle: 'advokátka',
     worksFor: ref(ID.org),
-    image: `${SITE}/assets/photos/about.jpg`,
+    image: `${SITE}/assets/photos/jana-about.jpg`,
     url: `${SITE}/o-nas/`,
     knowsLanguage: ['sk', 'en'],
   };

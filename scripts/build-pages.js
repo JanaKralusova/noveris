@@ -204,7 +204,7 @@ function heroFor(id, lang, t, ctx) {
         intro: [t['about.hero.desc']],
         tall: true,
         contain: true,
-        photo: { src: '/assets/photos/about', alt: t['img.about.portrait'], eager: true, variants: ['480', '800', ''] },
+        photo: { src: '/assets/photos/jana-about', alt: t['img.about.portrait'], eager: true, variants: ['480', '800', ''] },
       });
     case 'contact':
       return ui.hero({
