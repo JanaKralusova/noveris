@@ -13,7 +13,7 @@ test('eyebrow is copper and escaped', () => {
 });
 
 test('button variants', () => {
-  assert.ok(ui.button('Ok', '/a/', { variant: 'primary' }).includes('bg-forest'));
+  assert.ok(ui.button('Ok', '/a/', { variant: 'primary' }).includes('btn-brown'));
   assert.ok(ui.button('Ok', '/a/', { variant: 'onDark' }).includes('bg-white'));
   assert.ok(ui.button('Ok', '/a/', { variant: 'outline' }).includes('border-forest'));
   assert.throws(() => ui.button('Ok', '/a/', { variant: 'x' }));

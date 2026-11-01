@@ -309,7 +309,7 @@
   }
   function pickClass(on) {
     return 'owners-pick inline-flex w-[7.5rem] shrink-0 items-center justify-center gap-1.5 rounded-btn px-3 py-2.5 font-label text-[12px] font-semibold uppercase tracking-[0.12em] ' +
-      (on ? 'bg-forest text-white hover:bg-forest-dark' : 'border border-forest text-forest hover:bg-forest hover:text-white');
+      (on ? 'btn-brown text-white' : 'border border-forest text-forest hover:bg-forest hover:text-white');
   }
 
   function cardHTML(r) {
