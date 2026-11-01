@@ -125,20 +125,24 @@ const { ROOT } = require('./helpers');
 
 const PHOTO_WIDTHS = ['-400', '-560', '-800', '-1200', '-1600', ''];
 
-function jpegHeight(file) {
+// Height (or, with offset 7, width) from the JPEG frame header.
+function jpegHeight(file, offset = 5) {
   const buf = fs.readFileSync(file);
   let i = 2;
   while (i + 9 < buf.length) {
     if (buf[i] !== 0xff) { i++; continue; }
     const marker = buf[i + 1];
-    if (marker >= 0xc0 && marker <= 0xcf && ![0xc4, 0xc8, 0xcc].includes(marker)) return buf.readUInt16BE(i + 5);
+    if (marker >= 0xc0 && marker <= 0xcf && ![0xc4, 0xc8, 0xcc].includes(marker)) return buf.readUInt16BE(i + offset);
     i += 2 + buf.readUInt16BE(i + 2);
   }
   return null;
 }
 
 function checkPhoto(name, failures) {
-  for (const w of PHOTO_WIDTHS) {
+  // a photo whose full-size file is narrower than a listed width (e.g. a 1536 px own image) has no file for that width
+  const full = path.join(ROOT, 'assets/photos/services', `${name}.jpg`);
+  const fullW = fs.existsSync(full) ? jpegHeight(full, 7) : Infinity;
+  for (const w of PHOTO_WIDTHS.filter((x) => !x || Number(x.slice(1)) < fullW)) {
     const base = path.join(ROOT, 'assets/photos/services', `${name}${w}`);
     for (const ext of ['jpg', 'avif']) {
       if (!fs.existsSync(`${base}.${ext}`)) failures.push(`missing ${name}${w}.${ext}`);

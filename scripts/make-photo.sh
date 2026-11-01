@@ -52,3 +52,9 @@ for i in 0 1 2 3 4 5; do
   encode jpeg 82 "${jb[$i]}" "$w" "$h" "$out/$name$suffix.jpg"
   encode avif 65 "${ab[$i]}" "$w" "$h" "$out/$name$suffix.avif"
 done
+# a source narrower than 2000 px that is not one of the widths above still gets its unsuffixed full-width file
+if [ -z "${ONLY:-}" ] && [[ " ${ws[*]} " != *" $last "* ]]; then
+  h=$(( last * sh / sw )); max=$(( last * 3 / 4 )); [ "$h" -gt "$max" ] && h=$max; h=$(( h / 2 * 2 ))
+  encode jpeg 82 "${jb[5]}" "$last" "$h" "$out/$name.jpg"
+  encode avif 65 "${ab[5]}" "$last" "$h" "$out/$name.avif"
+fi

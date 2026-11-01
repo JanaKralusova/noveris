@@ -194,7 +194,7 @@ function heroFor(id, lang, t, ctx) {
         intro: [t['home.hero.desc']],
         actionsHtml: ui.button(t['home.hero.cta'], href('contact')) + ui.linkArrow(t['home.hero.cta2'], href('about')),
         extraHtml: ui.heroQuote({ text: t['home.hero.quote'], cite: t['home.hero.quoteAuthor'] }),
-        photo: photo('home_house', { style: 'object-position: 50% 45%;' }),
+        photo: photo('home_villa', { style: 'object-position: 100% 50%;', variants: ['400', '560', '800', '1200', ''] }),
       });
     case 'about':
       return ui.hero({
