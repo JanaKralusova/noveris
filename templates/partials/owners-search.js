@@ -20,10 +20,10 @@
   var NO_NAME = '(meno neuvedené)';
 
   var ICON = {
-    add: '<svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M12 5v14M5 12h14"/></svg>',
-    check: '<svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m5 12.5 4.5 4.5L19 7.5"/></svg>',
+    add: '<svg class="h-[18px] w-[18px]" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M12 5v14M5 12h14"/></svg>',
+    check: '<svg class="h-[18px] w-[18px]" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m5 12.5 4.5 4.5L19 7.5"/></svg>',
     close: '<svg class="w-5 h-5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" aria-hidden="true"><path d="M6 6l12 12M18 6 6 18"/></svg>',
-    land: '<svg class="w-5 h-5 text-secondary mt-0.5 shrink-0" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m3 18 6-9 4 5 3-4 5 8z"/><circle cx="17" cy="6" r="1.5"/></svg>'
+    land: '<svg class="mt-0.5 h-[22px] w-[22px] shrink-0 text-copper" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m3 18 6-9 4 5 3-4 5 8z"/><circle cx="17" cy="6" r="1.5"/></svg>'
   };
 
   var $ = function (id) { return document.getElementById(id); };
@@ -70,7 +70,7 @@
     });
     var out = '', open = false;
     for (var x = 0; x < text.length; x++) {
-      if (marks[x] && !open) { out += '<mark class="bg-secondary-fixed text-inherit rounded-sm px-px">'; open = true; }
+      if (marks[x] && !open) { out += '<mark class="rounded-[2px] bg-[#f0dcc8] px-px text-ink">'; open = true; }
       if (!marks[x] && open) { out += '</mark>'; open = false; }
       out += esc(text[x]);
     }
@@ -80,7 +80,7 @@
   function lvText(r) { return 'LV č. ' + r.lvs.join(', '); }
   function lvHTML(r) { // the LV numbers that were searched for are marked
     return 'LV č. ' + r.lvs.map(function (lv) {
-      return /^[0-9]+$/.test(lv) && nums.has(+lv) ? '<mark class="bg-secondary-fixed text-inherit rounded-sm px-px">' + esc(lv) + '</mark>' : esc(lv);
+      return /^[0-9]+$/.test(lv) && nums.has(+lv) ? '<mark class="rounded-[2px] bg-[#f0dcc8] px-px text-ink">' + esc(lv) + '</mark>' : esc(lv);
     }).join(', ');
   }
   function mainText(r) { return r.main || NO_NAME; }
@@ -237,10 +237,10 @@
     selList.classList.toggle('hidden', !items.length);
     selList.innerHTML = items.map(function (s) {
       var r = s.rec;
-      return '<li class="flex items-start gap-3 py-3 border-b border-outline-variant/30 last:border-0">' + ICON.land +
-        '<div class="flex-1 min-w-0"><div class="font-medium break-words">' + esc(mainText(r)) + '</div>' +
-        '<div class="text-xs text-outline">k. ú. ' + esc(r.ku) + ' · ' + esc(lvText(r)) + (r.spf ? ' · spravuje SPF' : '') + '</div></div>' +
-        '<button type="button" class="owners-rm text-outline hover:text-on-surface" data-id="' + r.id + '" aria-label="Odstrániť záznam ' + esc(mainText(r)) + '">' + ICON.close + '</button></li>';
+      return '<li class="flex items-start gap-3 border-b border-line py-3 last:border-0">' + ICON.land +
+        '<div class="min-w-0 flex-1"><div class="break-words font-label text-[15px] font-semibold text-ink">' + esc(mainText(r)) + '</div>' +
+        '<div class="text-[13px] text-muted">k. ú. ' + esc(r.ku) + ' · ' + esc(lvText(r)) + (r.spf ? ' · spravuje SPF' : '') + '</div></div>' +
+        '<button type="button" class="owners-rm -mr-1 p-1 text-muted hover:text-ink" data-id="' + r.id + '" aria-label="Odstrániť záznam ' + esc(mainText(r)) + '">' + ICON.close + '</button></li>';
     }).join('');
     submitBtn.disabled = !items.length;
     mbar.textContent = 'Pokračovať k žiadosti (' + items.length + ')';
@@ -305,21 +305,21 @@
   // ---------------------------------------------------------------- results
 
   function cardClass(on) {
-    return 'owners-card bg-white rounded-xl p-5 flex gap-4 items-start border editorial-shadow transition-colors ' + (on ? 'border-secondary' : 'border-transparent');
+    return 'owners-card flex flex-col gap-3 rounded-card border p-5 shadow-soft transition-colors sm:flex-row sm:items-start sm:gap-4 ' + (on ? 'border-forest bg-[#f6f1ea]' : 'border-line bg-card');
   }
   function pickClass(on) {
-    return 'owners-pick shrink-0 w-28 font-label uppercase tracking-widest text-[11px] py-2.5 rounded-lg flex items-center justify-center gap-1 ' +
-      (on ? 'bg-secondary text-white' : 'border border-secondary/40 text-secondary hover:bg-secondary-fixed/40');
+    return 'owners-pick inline-flex w-[7.5rem] shrink-0 items-center justify-center gap-1.5 rounded-btn px-3 py-2.5 font-label text-[12px] font-semibold uppercase tracking-[0.12em] ' +
+      (on ? 'bg-forest text-white hover:bg-forest-dark' : 'border border-forest text-forest hover:bg-forest hover:text-white');
   }
 
   function cardHTML(r) {
     var on = selected.has(r.id);
     return '<div class="' + cardClass(on) + '" data-id="' + r.id + '">' +
-      '<div class="flex-1 min-w-0">' +
-      '<div class="font-label uppercase tracking-widest text-[10px] text-secondary">' + hl(r.ku, toks) + ' · k. ú. ' + esc(r.code) + '</div>' +
-      '<div class="font-headline text-xl mt-1 break-words">' + (r.main ? hl(r.main, toks) : '<span class="text-outline">' + NO_NAME + '</span>') + '</div>' +
-      (r.notes ? '<div class="text-sm text-on-surface-variant mt-1 break-words">' + hl(r.notes, toks) + '</div>' : '') +
-      '<div class="text-xs text-outline mt-2 tabular-nums">' + lvHTML(r) + (r.spf ? ' · spravuje SPF' : '') + '</div>' +
+      '<div class="min-w-0 flex-1">' +
+      '<p class="font-label text-[11px] font-semibold uppercase tracking-[0.14em] text-copper">' + hl(r.ku, toks) + ' · k. ú. ' + esc(r.code) + '</p>' +
+      '<h3 class="mt-1 break-words font-headline text-[1.25rem] leading-snug text-ink">' + (r.main ? hl(r.main, toks) : '<span class="text-muted">' + NO_NAME + '</span>') + '</h3>' +
+      (r.notes ? '<p class="mt-1 break-words text-[14px] leading-[1.5] text-body">' + hl(r.notes, toks) + '</p>' : '') +
+      '<p class="mt-2 font-label text-[13px] tabular-nums text-muted">' + lvHTML(r) + (r.spf ? ' · spravuje SPF' : '') + '</p>' +
       '</div>' +
       '<button type="button" class="' + pickClass(on) + '" data-id="' + r.id + '" aria-pressed="' + on + '">' +
       (on ? ICON.check : ICON.add) + (on ? 'Vybrané' : 'Riešiť') + '</button></div>';
@@ -336,7 +336,7 @@
 
   function setStatus(text, error) {
     statusEl.textContent = text;
-    statusEl.className = 'text-sm mb-4 min-h-[1.25rem] ' + (error ? 'text-error' : 'text-outline');
+    statusEl.className = 'mb-4 min-h-[1.25rem] font-label text-[15px] font-semibold ' + (error ? 'text-danger' : 'text-ink');
   }
 
   function countText() {
@@ -545,7 +545,7 @@
 
   function validField(el, errorId, ok) {
     $(errorId).classList.toggle('hidden', ok);
-    el.classList.toggle('!border-error', !ok);
+    el.classList.toggle('!border-danger', !ok);
     return ok;
   }
 
@@ -601,11 +601,11 @@
           thanks.classList.remove('hidden');
           thanks.focus();
         } else {
-          setFormStatus('✗ Správu sa nepodarilo odoslať. Skúste to prosím znova.', 'text-error');
+          setFormStatus('✗ Správu sa nepodarilo odoslať. Skúste to prosím znova.', 'text-danger');
         }
       })
       .catch(function () {
-        setFormStatus('✗ Nastala chyba. Kontaktujte nás prosím priamo e-mailom.', 'text-error');
+        setFormStatus('✗ Nastala chyba. Kontaktujte nás prosím priamo e-mailom.', 'text-danger');
       })
       .then(function () {
         submitBtn.firstElementChild.textContent = originalText;

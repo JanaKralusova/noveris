@@ -28,6 +28,7 @@ function photoImg(photo, cls, eager) {
     fallback: photo.fallback,
     eager: eager !== undefined ? eager : !!photo.eager,
     cls,
+    root: photo.root,
   });
 }
 

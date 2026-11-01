@@ -96,8 +96,16 @@ test('sitemap lists only indexable pages', () => {
   assert.deepStrictEqual(failures, []);
 });
 
-// Enabled in later redesign tasks.
-test.todo('no retired styles (/satin-button|satin-gradient|#735c00|#6d5b47|\\bdark:/)');
+// Retired styles: none on any built page. The inlined Tailwind CSS (<style> blocks) is stripped before matching.
+test('no retired styles (satin-*, editorial-*, legacy colours, dark:)', () => {
+  const failures = [];
+  for (const p of pages) {
+    const html = read(p).replace(/<style[\s\S]*?<\/style>/g, '');
+    const m = /satin-button|satin-gradient|editorial-|#735c00|#6d5b47|\bdark:/.exec(html);
+    if (m) failures.push(`${p}: ${m[0]}`);
+  }
+  assert.deepStrictEqual(failures, []);
+});
 test('footer has real contact data (tel:+421915622518, kralusova@noveris.sk)', () => {
   const failures = [];
   for (const p of pages) {

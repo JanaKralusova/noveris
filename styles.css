@@ -8,80 +8,19 @@
     color: inherit;
 }
 
-/* Satin gradient button */
-.satin-button,
-.satin-gradient {
-    background: linear-gradient(45deg, #6d5b47, #c6af97);
-}
-
-/* Editorial shadow */
-.editorial-shadow {
-    box-shadow: 0 10px 32px -4px rgba(28, 28, 24, 0.06);
-}
-
-/* Contact form inputs */
-.editorial-input {
-    background-color: transparent;
-    border-top: none;
-    border-left: none;
-    border-right: none;
-    border-bottom: 1px solid #d0c5af;
-    transition: border-bottom-color 0.3s ease;
-}
-
-.editorial-input:focus {
-    outline: none;
-    border-bottom-color: #735c00;
-    box-shadow: none;
-}
-
-/* ===================================
-   Article body typography (clanky/)
-   =================================== */
-.article-body {
-    font-family: 'Manrope', 'Manrope Fallback', sans-serif;
-    font-size: 1.125rem;
-    line-height: 1.75;
-    color: #4d4635;
-}
-.article-body > * + * { margin-top: 1.25rem; }
-.article-body h2 {
-    font-family: 'Newsreader', 'Newsreader Fallback', serif;
-    font-size: 2rem;
-    line-height: 1.25;
-    color: #1c1c18;
-    margin-top: 3rem;
-    margin-bottom: 0.25rem;
-}
-.article-body h3 {
-    font-family: 'Newsreader', 'Newsreader Fallback', serif;
-    font-size: 1.5rem;
-    line-height: 1.3;
-    color: #1c1c18;
-    margin-top: 2rem;
-}
-.article-body strong { font-weight: 700; color: #1c1c18; }
-.article-body em { font-style: italic; }
-.article-body ul,
-.article-body ol { padding-left: 1.5rem; }
+/* Article body typography (clanky/) = design-system .ds-article */
+.article-body { font-family: 'Manrope', 'Manrope Fallback', sans-serif; font-size: 1rem; line-height: 1.7; color: #4a4740; }
+.article-body > * + * { margin-top: 1rem; }
+.article-body h2 { font-family: 'Newsreader', 'Newsreader Fallback', serif; font-size: 1.875rem; line-height: 1.2; color: #1c2420; margin-top: 2.25rem; scroll-margin-top: 6rem; }
+.article-body h3 { font-family: 'Newsreader', 'Newsreader Fallback', serif; font-size: 1.375rem; line-height: 1.3; color: #1c2420; margin-top: 1.75rem; }
+.article-body strong { font-weight: 700; color: #1c2420; }
+.article-body ul, .article-body ol { padding-left: 1.25rem; }
 .article-body ul { list-style: disc; }
 .article-body ol { list-style: decimal; }
-.article-body li { padding-left: 0.25rem; }
-.article-body li + li { margin-top: 0.5rem; }
-.article-body li::marker { color: #6d5b47; }
-.article-body a {
-    color: #735c00;
-    text-decoration: underline;
-    text-underline-offset: 3px;
-    text-decoration-thickness: 1px;
-    transition: color 0.2s ease;
-}
-.article-body a:hover { color: #6d5b47; }
-.article-body a:focus-visible { outline: 2px solid #735c00; outline-offset: 2px; }
-@media (max-width: 767px) {
-    .article-body { font-size: 1.0625rem; }
-    .article-body h2 { font-size: 1.75rem; }
-}
+.article-body li + li { margin-top: 0.4rem; }
+.article-body li::marker { color: #8f5535; }
+.article-body a { color: #8f5535; text-decoration: underline; text-underline-offset: 3px; text-decoration-thickness: 1px; }
+.article-body a:hover { color: #17302b; }
 
 /* Design-system components (scripts/lib/ui.js): photo fades into the page background
    (mobile: bottom edge, desktop: the edge facing the text). */

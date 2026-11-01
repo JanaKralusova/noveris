@@ -212,6 +212,7 @@ function applyOwners(html) {
   const stats = meta ? `${nf(meta.rows)} záznamov · ${nf(meta.areas)} katastrálnych území · stav k ${asOf}` : `stav k ${asOf}`;
   return html
     .replace('{{owners:stats}}', stats)
+    .replace('{{owners:link}}', () => ui.linkArrow('Prečítajte si viac o možnostiach vysporiadania pozemkov a vlastníckych vzťahov.', SERVICES['vysporiadanie-pozemkov'].sk))
     .replace(/\{\{owners:asOf\}\}/g, asOf)
     .replace('{{owners:sourcePage}}', layout.esc(cfg.sourcePage));
 }
