@@ -225,5 +225,231 @@
       }
     ]
   },
-  "en": null
+  "en": {
+    "sections": [
+      {
+        "type": "hero",
+        "label": null,
+        "title": "Settlement of land under buildings and within sites",
+        "intro": [
+          "Do you own a building, but the land beneath it belongs to someone else? Or do you operate a production, warehouse, agricultural or other site where the ownership of the land has not been settled?",
+          "Larger sites may involve dozens of plots with different owners, an unclear ownership history and different legal regimes. Some plots may belong to deceased or unidentified owners, others to the state or to companies that no longer exist. Their settlement therefore often cannot be achieved with a single contract or a single legal procedure."
+        ],
+        "bold": "We also focus on legally demanding land settlement cases that require a review of historical ownership relations, an assessment of several legal options and a proposal for a coordinated course of action.",
+        "after": "We help building owners, entrepreneurs and companies to settle land under buildings and within sites.",
+        "cta": {
+          "text": "Book a consultation",
+          "href": "/en/contact/"
+        },
+        "photo": {
+          "name": "hero",
+          "alt": ""
+        }
+      },
+      {
+        "type": "cardsCompact",
+        "header": {
+          "eyebrow": "Sites",
+          "title": "Where do problems with unsettled land arise?",
+          "note": "Unsettled ownership relations do not concern only individual family houses or garages. They often also arise with larger properties consisting of several buildings and plots. These may include, for example:"
+        },
+        "items": [
+          {
+            "icon": "factory",
+            "title": "Production and industrial sites",
+            "text": "Production halls, workshops, operational buildings and the land needed to support production.",
+            "photo": {
+              "name": "prod",
+              "alt": ""
+            }
+          },
+          {
+            "icon": "warehouse",
+            "title": "Warehouse and logistics sites",
+            "text": "Warehouse buildings, handling areas, access roads and other related land.",
+            "photo": {
+              "name": "ware",
+              "alt": ""
+            }
+          },
+          {
+            "icon": "agriculture",
+            "title": "Agricultural sites and farmyards",
+            "text": "Farm buildings, livestock sheds, stores, yards and land used for agricultural activities.",
+            "photo": {
+              "name": "agri",
+              "alt": ""
+            }
+          },
+          {
+            "icon": "grass",
+            "title": "Equestrian centres, ranches and breeding facilities",
+            "text": "Stables, paddocks, pastures, access roads and other areas needed for keeping animals.",
+            "photo": {
+              "name": "horse",
+              "alt": ""
+            }
+          },
+          {
+            "icon": "domain",
+            "title": "Other operational and commercial sites",
+            "text": "Properties used for business or other activities where the ownership of the land has not been settled.",
+            "photo": {
+              "name": "off",
+              "alt": ""
+            }
+          }
+        ],
+        "callout": {
+          "icon": "map",
+          "text": "The problem need not be limited to the land directly beneath the buildings. The surrounding plots that are necessary for access to, operation of or further use of the site can be just as important."
+        }
+      },
+      {
+        "type": "grid",
+        "bg": "sand",
+        "cls": "grid items-start gap-8 lg:grid-cols-[1.1fr_1fr] lg:gap-12",
+        "items": [
+          {
+            "icon": "history_edu",
+            "title": "Why is land under buildings and within sites often unsettled?",
+            "paras": [
+              "In Slovakia, a building and the land beneath it may have different owners. This can arise, for example, from a separate transfer of the building or because the builder had the right to construct the building on someone else's land.",
+              "On older operational sites, ownership relations may date back to the period when the land was used by state enterprises, cooperatives or other organisations. Although the ownership of the buildings has changed since then, the land may have remained registered to the original owners or their legal successors.",
+              "The mere fact that a building and the land have different owners does not mean that the building is unauthorised. It is therefore also necessary to examine the circumstances of construction and the legal title on the basis of which the building was constructed or the land is used."
+            ],
+            "photo": {
+              "name": "chim",
+              "alt": ""
+            },
+            "type": "cardSide"
+          },
+          {
+            "type": "splitTextList",
+            "eyebrow": "Ownership problems",
+            "title": "Which ownership problems do we deal with?",
+            "intro": "Settling land under buildings and within sites can be complicated, in particular where:",
+            "items": [
+              {
+                "icon": "groups",
+                "text": "the land belongs to several co-owners, or even to dozens of owners with shares of different sizes"
+              },
+              {
+                "icon": "person_search",
+                "text": "the title deed (ownership sheet, “list vlastníctva”) lists deceased persons or owners who cannot be reliably identified"
+              },
+              {
+                "icon": "account_balance",
+                "text": "the land or co-ownership shares are managed by the Slovak Land Fund (Slovenský pozemkový fond, SPF)"
+              },
+              {
+                "icon": "flag",
+                "text": "the land is owned by the Slovak Republic"
+              },
+              {
+                "icon": "business",
+                "text": "the registered owner is a company that no longer exists"
+              },
+              {
+                "icon": "fact_check",
+                "text": "the ownership is disputed or the reliability of the Land Register (cadastre) data has been challenged"
+              }
+            ],
+            "outro": [
+              "On larger sites, these problems often occur in combination. Individual plots therefore cannot always be dealt with in isolation; their ownership relations need to be assessed in relation to one another."
+            ],
+            "link": {
+              "text": "More on the settlement of land and complicated ownership relations",
+              "href": "/en/services/land-ownership-settlement/"
+            }
+          }
+        ]
+      },
+      {
+        "type": "splitBand",
+        "eyebrow": "Complex cases",
+        "title": "When land settlement requires a more complex legal approach",
+        "paras": [
+          "Some ownership problems can be resolved by agreement with the landowner. Others require a detailed review of historical documents, identification of legal successors, an assessment of several legal regimes and the step-by-step resolution of the individual ownership relations.",
+          "On larger sites, it may be necessary to coordinate several different procedures. While buying out co-ownership shares may be an option for one plot, another may require inheritance proceedings, negotiations with the Slovak Land Fund or court proceedings.",
+          "We also handle cases where previous attempts at settlement have not led to a result or where it is not clear how the ownership relations can be settled."
+        ],
+        "photo": {
+          "name": "fields",
+          "alt": ""
+        },
+        "side": "right",
+        "bg": "paper",
+        "callout": {
+          "icon": "balance",
+          "text": "Our aim is to identify the legal obstacles, assess the available options for resolving them and propose a course of action that takes into account how the individual plots relate to one another."
+        }
+      },
+      {
+        "type": "twoCol",
+        "bg": "sand",
+        "left": {
+          "eyebrow": "Possible solutions",
+          "title": "How can land under a building or within a site be settled?",
+          "paras": [
+            "The appropriate solution depends on the ownership relations, the circumstances of construction, the existing rights to the land and the way it is used.",
+            "Depending on the specific situation, the options may include, for example, buying the land or co-ownership shares, an agreement with the owner, the creation of an easement or another contractual arrangement of the legal relations.",
+            "If agreement is not possible, we also assess the available court remedies. These may differ depending on whether the matter is a dispute between co-owners, an unauthorised building or another legal relationship between the owner of the building and the owner of the land.",
+            "On larger sites, it may be necessary to choose a different procedure for individual plots and to set the order of steps according to their legal status and their importance for the functioning of the site."
+          ]
+        },
+        "right": {
+          "eyebrow": "Our process",
+          "title": "How do we proceed with land settlement?",
+          "steps": [
+            {
+              "title": "Review of ownership and legal relations",
+              "text": "We examine the legal status of the land concerned, the available historical documents and the circumstances in which the buildings were constructed. We identify the owners, the existing legal titles and the obstacles to settlement."
+            },
+            {
+              "title": "Proposed legal course of action",
+              "text": "Based on our findings, we assess the options for arranging the ownership and use relations. For larger sites, we also propose the order in which the individual plots should be dealt with, taking into account their importance for operations or the planned use."
+            },
+            {
+              "title": "Carrying out the settlement",
+              "text": "We conduct negotiations with the owners and the relevant institutions, prepare the contractual documentation and provide legal representation in court and other proceedings, depending on the nature of the case."
+            }
+          ]
+        }
+      },
+      {
+        "type": "splitBand",
+        "eyebrow": null,
+        "title": "Settling land before the sale, expansion or further use of a site",
+        "paras": [
+          "Unsettled ownership relations can complicate the sale of real estate, financing, the expansion of operations, the construction of new buildings or the implementation of other investment plans.",
+          "In some cases, ownership problems are only addressed when a company plans to sell the site, obtain financing or carry out new construction. Settling them, however, may require several consecutive legal steps.",
+          "Reviewing ownership relations in good time makes it possible to identify legal obstacles and assess the options for resolving them before the planned project goes ahead."
+        ],
+        "photo": {
+          "name": "plan1",
+          "alt": ""
+        },
+        "side": "left",
+        "bg": "paper"
+      },
+      {
+        "type": "contactBand",
+        "eyebrow": "Contact",
+        "title": "Do you need to settle land under a building or within a site?",
+        "paras": [
+          "If you own a building on someone else's land or need to settle the ownership of land within a production, agricultural or other site, contact us.",
+          "We will review the legal status of the real estate, assess the options for settlement and propose the next legal steps, taking into account the specific circumstances of your case."
+        ],
+        "cta": {
+          "text": "Book a consultation",
+          "href": "/en/contact/"
+        },
+        "photo": {
+          "name": "band2",
+          "alt": ""
+        }
+      }
+    ]
+  }
 }

@@ -60,9 +60,9 @@ function buildSitemap(outRoot, articles) {
       entries.push(urlEntry({ loc: abs(p[lang]), lastmod: SITEMAP_LASTMOD, changefreq: p.changefreq, priority: p.priority, alternates: pair }));
     }
   }
-  for (const o of buildServices.outputs()) {
+  for (const o of buildServices.outputs().filter((x) => !x.hidden)) {
     const svc = SERVICES[o.id];
-    const hasPair = buildServices.outputs().filter((x) => x.id === o.id).length === 2;
+    const hasPair = buildServices.hasLang(o.id, 'sk') && buildServices.hasLang(o.id, 'en');
     const pair = hasPair
       ? [{ hreflang: 'sk', href: abs(svc.sk) }, { hreflang: 'en', href: abs(svc.en) }, { hreflang: 'x-default', href: abs(svc.sk) }]
       : null;
@@ -138,6 +138,6 @@ const articles = buildArticles.main();
 const outRoot = path.resolve(process.env.ARTICLES_OUT_DIR || ROOT);
 buildSitemap(outRoot, articles);
 const pagesData = require('./lib/site').loadPagesData();
-const services = buildServices.outputs().map((o) => ({ ...o, title: pagesData[o.id][o.lang].title.replace(/ \| Noveris Legal$/, '') }));
+const services = buildServices.outputs().filter((o) => !o.hidden).map((o) => ({ ...o, title: pagesData[o.id][o.lang].title.replace(/ \| Noveris Legal$/, '') }));
 updateLlms(outRoot, articles, services);
 console.log('build: sitemap.xml + llms.txt updated');

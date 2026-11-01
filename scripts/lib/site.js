@@ -35,20 +35,25 @@ const PAGES = {
 const ARTICLES_URL = '/clanky/';
 
 // Service pages (content/services/<id>.json, built by scripts/build-services.js).
-// { sk, en, parent?, hidden?: { en: true }, order }. A page whose JSON has `en: null` (or is hidden.en)
-// has no English twin: no hreflang, no EN sitemap / llms.txt entry.
+// { sk, en, parent?, hidden?: { en: true }, order }. A page whose JSON has `en: null` has no English twin.
+// hidden.en = the EN page is built and reachable by URL (for review), but served with noindex, without
+// the hreflang pair / language switch, kept out of sitemap.xml and llms.txt and never linked (links to
+// it fall back to the Slovak page). To launch it, delete `hidden` and rebuild.
 const SERVICES = {
   'vysporiadanie-pozemkov': {
-    sk: '/sluzby/vysporiadanie-pozemkov/', en: '/en/services/land-ownership-settlement/', order: 1,
+    sk: '/sluzby/vysporiadanie-pozemkov/', en: '/en/services/land-ownership-settlement/', hidden: { en: true }, order: 1,
   },
   'pozemky-pod-stavbami': {
-    sk: '/sluzby/vysporiadanie-pozemkov/pozemky-pod-stavbami/', parent: 'vysporiadanie-pozemkov', order: 2,
+    sk: '/sluzby/vysporiadanie-pozemkov/pozemky-pod-stavbami/', en: '/en/services/land-ownership-settlement/land-under-buildings/',
+    parent: 'vysporiadanie-pozemkov', hidden: { en: true }, order: 2,
   },
-  'nehnutelnosti-a-development': { sk: '/sluzby/nehnutelnosti-a-development/', order: 3 },
-  'zmluvna-agenda': { sk: '/sluzby/zmluvna-agenda/', order: 4 },
-  'obcianske-pravo': { sk: '/sluzby/obcianske-pravo/', order: 5 },
-  'obchodne-pravo': { sk: '/sluzby/obchodne-pravo/', order: 6 },
-  'riesenie-sporov': { sk: '/sluzby/riesenie-sporov/', order: 7 },
+  'nehnutelnosti-a-development': {
+    sk: '/sluzby/nehnutelnosti-a-development/', en: '/en/services/real-estate-and-development/', hidden: { en: true }, order: 3,
+  },
+  'zmluvna-agenda': { sk: '/sluzby/zmluvna-agenda/', en: '/en/services/contracts/', hidden: { en: true }, order: 4 },
+  'obcianske-pravo': { sk: '/sluzby/obcianske-pravo/', en: '/en/services/civil-law/', hidden: { en: true }, order: 5 },
+  'obchodne-pravo': { sk: '/sluzby/obchodne-pravo/', en: '/en/services/corporate-law/', hidden: { en: true }, order: 6 },
+  'riesenie-sporov': { sk: '/sluzby/riesenie-sporov/', en: '/en/services/dispute-resolution/', hidden: { en: true }, order: 7 },
 };
 
 function loadTranslations() {

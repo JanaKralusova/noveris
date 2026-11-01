@@ -140,5 +140,146 @@
       }
     ]
   },
-  "en": null
+  "en": {
+    "sections": [
+      {
+        "type": "hero",
+        "label": null,
+        "title": "Real estate and development",
+        "intro": [
+          "The purchase, sale, lease or construction of real estate raises numerous legal questions that can affect the course of a transaction, the implementation of a project and the further use of the property."
+        ],
+        "bold": "We provide legal services to individuals, entrepreneurs, investors and development companies in real estate transactions, in the preparation and implementation of development projects and in resolving legal relations concerning real estate.",
+        "cta": {
+          "text": "Book a consultation",
+          "href": "/en/contact/"
+        },
+        "photo": {
+          "name": "bld",
+          "alt": ""
+        }
+      },
+      {
+        "type": "cardsSide",
+        "header": {
+          "eyebrow": "Our services",
+          "title": "In which areas do we provide legal services?"
+        },
+        "items": [
+          {
+            "icon": "account_balance",
+            "title": "Purchase and sale of real estate",
+            "paras": [
+              "We prepare and review purchase agreements, reservation agreements and other contracts relating to the transfer of real estate. We represent clients in negotiations on contract terms and handle the legal steps related to the transfer of ownership, including proceedings before the Land Register (cadastre)."
+            ],
+            "photo": {
+              "name": "pensign",
+              "alt": ""
+            }
+          },
+          {
+            "icon": "search",
+            "title": "Legal review of real estate",
+            "paras": [
+              "Before a purchase or investment, we review the legal status of the real estate, ownership relations, easements, liens and other legal facts that may affect the intended transaction or use of the property.",
+              "Based on our findings, we identify legal risks and assess the options for addressing them."
+            ],
+            "photo": {
+              "name": "sunfield",
+              "alt": ""
+            }
+          },
+          {
+            "icon": "apartment",
+            "title": "Development and investment projects",
+            "paras": [
+              "We provide legal services in the preparation and implementation of development and investment projects, including the property-law review of land, securing legal rights to real estate and preparing contractual documentation.",
+              "We represent clients in negotiations with the owners of the properties concerned and with other parties involved in carrying out the project."
+            ],
+            "photo": {
+              "name": "crane",
+              "alt": ""
+            }
+          },
+          {
+            "icon": "engineering",
+            "title": "Construction law",
+            "paras": [
+              "We provide legal advice on the preparation and permitting of construction projects, in proceedings before the competent administrative authorities and on legal issues related to the construction of buildings.",
+              "We represent builders, property owners and other affected persons in asserting and protecting their rights."
+            ],
+            "photo": {
+              "name": "planmodel",
+              "alt": ""
+            }
+          },
+          {
+            "icon": "key",
+            "title": "Leases of real estate",
+            "paras": [
+              "We prepare and review lease agreements for flats, non-residential premises, land and commercial properties.",
+              "We provide legal services in the creation, amendment and termination of leases, including the resolution of disputes between landlords and tenants."
+            ],
+            "photo": {
+              "name": "interior",
+              "alt": ""
+            }
+          },
+          {
+            "icon": "alt_route",
+            "title": "Easements and access to real estate",
+            "paras": [
+              "We deal with securing legal access to land and buildings, the creation, amendment and termination of easements, and disputes relating to their existence and exercise.",
+              "Our services also include preparing contractual documentation and representation in negotiations with the owners of the properties concerned."
+            ],
+            "photo": {
+              "name": "path2",
+              "alt": ""
+            }
+          }
+        ]
+      },
+      {
+        "type": "relatedBand",
+        "eyebrow": "Related service",
+        "title": "Settlement of land and ownership relations",
+        "text": "Unsettled ownership relations can be an obstacle to the purchase, sale, construction or further use of real estate. We give particular attention to settling land involving the Slovak Land Fund (Slovenský pozemkový fond, SPF), deceased owners or duplicate ownership, land registered to dissolved companies and unsettled land under buildings and within various types of sites.",
+        "link": {
+          "text": "More on the settlement of land and ownership relations",
+          "href": "/en/services/land-ownership-settlement/"
+        },
+        "photo": {
+          "name": "aerial2",
+          "alt": ""
+        },
+        "pad": "pb-12 md:pb-16"
+      },
+      {
+        "type": "prose",
+        "eyebrow": "Our approach",
+        "title": "Legal services from preparation to completion",
+        "paras": [
+          "We provide legal services from the initial review of the property and the assessment of legal risks, through the preparation and negotiation of contractual documentation, to the completion of the transaction, representation in the relevant proceedings or the resolution of any disputes that arise.",
+          "We tailor the scope of our services to the specific property, the nature of the project and the client's needs."
+        ],
+        "bg": "sand"
+      },
+      {
+        "type": "contactBand",
+        "eyebrow": "Contact",
+        "title": "Do you need legal help with real estate?",
+        "paras": [
+          "Whether you are preparing to buy or sell a property, carrying out a development project or dealing with a legal problem relating to real estate, contact us."
+        ],
+        "cta": {
+          "text": "Book a consultation",
+          "href": "/en/contact/"
+        },
+        "photo": {
+          "name": "band3",
+          "alt": ""
+        }
+      }
+    ]
+  }
 }

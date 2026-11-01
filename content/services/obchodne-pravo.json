@@ -125,5 +125,131 @@
       }
     ]
   },
-  "en": null
+  "en": {
+    "sections": [
+      {
+        "type": "hero",
+        "label": null,
+        "title": "Corporate law",
+        "intro": [
+          "Doing business raises legal questions related to the formation and operation of companies, relationships between shareholders, commercial obligations and changes to a company's organisational and ownership structure."
+        ],
+        "bold": "We provide legal services to entrepreneurs, companies and their shareholders in commercial-law matters.",
+        "after": "We help with setting up companies, preparing corporate and contractual documentation and implementing changes in companies, as well as with their dissolution and liquidation.",
+        "cta": {
+          "text": "Book a consultation",
+          "href": "/en/contact/"
+        },
+        "photo": {
+          "name": "skyline",
+          "alt": ""
+        }
+      },
+      {
+        "type": "cardsTop",
+        "header": {
+          "eyebrow": "Our services",
+          "title": "Areas of corporate law we cover"
+        },
+        "items": [
+          {
+            "icon": "domain",
+            "title": "Setting up companies",
+            "paras": [
+              "We handle the legal preparation for setting up companies, including drafting the founding documents, setting the basic rules for how the company operates and preparing the documents required for its entry in the Commercial Register (obchodný register).",
+              "When setting up companies, we also take into account the requirements for arranging relationships between shareholders and the way decisions on company matters are made."
+            ],
+            "photo": {
+              "name": "glassbld",
+              "alt": ""
+            }
+          },
+          {
+            "icon": "edit_document",
+            "title": "Changes in companies",
+            "paras": [
+              "During a company's existence, it may become necessary to change its internal organisation, its ownership structure or the details entered in the Commercial Register.",
+              "We prepare documentation relating to changes of shareholders and managing directors, transfers of ownership interests, and changes to the registered capital, registered office or business name of the company, and we arrange the related entries in the Commercial Register."
+            ],
+            "photo": {
+              "name": "sign4",
+              "alt": ""
+            }
+          },
+          {
+            "icon": "groups",
+            "title": "Corporate matters and relationships between shareholders",
+            "paras": [
+              "The legal relationships between the shareholders and the company's bodies are fundamental to its proper functioning and to the making of business decisions.",
+              "We draft and revise memoranda of association, shareholders' agreements, resolutions of the general meeting and other corporate documentation. We also deal with legal questions concerning the rights and obligations of shareholders and members of the company's bodies."
+            ],
+            "photo": {
+              "name": "chairs",
+              "alt": ""
+            }
+          },
+          {
+            "icon": "handshake",
+            "title": "Commercial contracts",
+            "paras": [
+              "We draft and review contractual documentation used in business relationships, including cooperation agreements, framework agreements, terms and conditions and other agreements related to business activities.",
+              "When setting contract terms, we take into account the nature of the commercial cooperation, the allocation of liability between the parties and the legal risks associated with performing the obligations."
+            ],
+            "photo": {
+              "name": "calc",
+              "alt": ""
+            },
+            "link": {
+              "text": "More on drafting and reviewing contracts",
+              "href": "/en/services/contracts/"
+            }
+          },
+          {
+            "icon": "balance",
+            "title": "Dissolution and liquidation of companies",
+            "paras": [
+              "We provide legal services relating to the dissolution and liquidation of companies, including preparing the necessary documentation and the legal acts connected with the course of the liquidation.",
+              "We also handle cases where further assets are discovered after the company has been deleted from the Commercial Register and the options for ordering a supplementary liquidation need to be assessed."
+            ],
+            "photo": {
+              "name": "binders_old",
+              "alt": ""
+            }
+          }
+        ]
+      },
+      {
+        "type": "splitBand",
+        "eyebrow": "Our approach",
+        "title": "Legal assistance with changes and decisions within a company",
+        "paras": [
+          "Some commercial-law questions can be resolved by preparing a single document or making an entry in the Commercial Register. Others require a more detailed assessment of the legal relationships between shareholders, existing obligations or the consequences of planned changes.",
+          "When preparing a legal course of action, we therefore take into account not only the statutory requirements but also how the particular company operates and the client's interests."
+        ],
+        "photo": {
+          "name": "meeting_sil",
+          "alt": ""
+        },
+        "side": "right",
+        "bg": "sand"
+      },
+      {
+        "type": "contactBand",
+        "eyebrow": "Contact",
+        "title": "Do you need legal help with corporate law?",
+        "paras": [
+          "If you are setting up a company, preparing changes to how it operates, need to arrange relationships between shareholders or are dealing with its dissolution and liquidation, contact us.",
+          "Once we are familiar with your situation, we will assess the legal options and propose the next steps."
+        ],
+        "cta": {
+          "text": "Book a consultation",
+          "href": "/en/contact/"
+        },
+        "photo": {
+          "name": "band2",
+          "alt": ""
+        }
+      }
+    ]
+  }
 }

@@ -64,7 +64,7 @@ function linkArrow(text, href, attrs = '') {
 function breadcrumb(items, label = 'Omrvinková navigácia') {
   const lis = items.map((it, i) => (i === items.length - 1
     ? `<li aria-current="page" class="text-body">${esc(it.name)}</li>`
-    : `<li class="flex items-center gap-1.5"><a href="${esc(it.url)}" class="hover:text-copper hover:underline">${esc(it.name)}</a>${icon('chevron_right', 'text-[16px]')}</li>`));
+    : `<li class="flex items-center gap-1.5"><a href="${esc(it.url)}"${xattr(it.attrs)} class="hover:text-copper hover:underline">${esc(it.name)}</a>${icon('chevron_right', 'text-[16px]')}</li>`));
   return `<nav aria-label="${esc(label)}"><ol class="flex flex-wrap items-center gap-x-1.5 gap-y-1 font-label text-[12px] text-muted">${lis.join('')}</ol></nav>`;
 }
 
@@ -176,7 +176,7 @@ function iconList(items) {
 
 function splitTextList({ eyebrow: eb, title, intro, items, outro = [], link, photo }) {
   const o = paras(outro, 'text-[14px] leading-[1.6] text-body md:text-[15px]');
-  const l = link ? `<div class="mt-4">${linkArrow(link.text, link.href)}</div>` : '<div class="mt-4"></div>';
+  const l = link ? `<div class="mt-4">${linkArrow(link.text, link.href, link.attrs)}</div>` : '<div class="mt-4"></div>';
   const ph = photo ? `<div class="mt-6 overflow-hidden rounded-card"><div class="h-48">${photoImg(photo, 'h-full w-full object-cover')}</div></div>` : '';
   return `<div>${eyebrow(eb)}<h2 class="mt-2 font-headline text-[1.75rem] leading-[1.2] text-ink md:text-[2rem]">${esc(title)}</h2>`
     + `<p class="mt-4 mb-5 text-[14px] leading-[1.6] text-body md:text-[15px]">${txt(intro)}</p>${iconList(items)}`

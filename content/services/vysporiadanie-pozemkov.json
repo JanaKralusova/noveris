@@ -109,5 +109,169 @@
       }
     ]
   },
-  "en": null
+  "en": {
+    "sections": [
+      {
+        "type": "hero",
+        "label": null,
+        "title": "Settlement of land and ownership relations",
+        "intro": [
+          "Unsettled ownership relations can complicate the sale, construction and further use of real estate. The title deed (ownership sheet, “list vlastníctva”) may list deceased persons, the Slovak Republic, dozens of co-owners or owners who cannot be identified. Disputed ownership entries or land registered to dissolved companies can also be a problem."
+        ],
+        "bold": "We help individuals, companies and investors to settle land and resolve complicated ownership relations.",
+        "after": "We assess each case in light of the legal status of the real estate and the options for achieving the desired ownership arrangement.",
+        "cta": {
+          "text": "Book a consultation",
+          "href": "/en/contact/"
+        },
+        "photo": {
+          "name": "hero_eu",
+          "alt": ""
+        }
+      },
+      {
+        "type": "cardsSide",
+        "header": {
+          "eyebrow": "Our services",
+          "title": "Which ownership problems do we help with?"
+        },
+        "items": [
+          {
+            "icon": "account_balance",
+            "title": "Land involving the Slovak Land Fund and state-owned land",
+            "paras": [
+              "The title deed may list the Slovak Land Fund (Slovenský pozemkový fond, SPF), which, in cases laid down by law, manages land owned by the state or by unidentified owners. The options for settling such land depend on its legal regime and on whether the statutory conditions are met.",
+              "We examine the options for acquiring land and co-ownership shares, and we represent clients in negotiations with the SPF and the relevant administrators of state property."
+            ],
+            "photo": {
+              "name": "gov",
+              "alt": ""
+            }
+          },
+          {
+            "icon": "person",
+            "title": "Land registered to deceased persons",
+            "paras": [
+              "Title deeds often list persons who died decades ago, where the land was not included in inheritance proceedings or the legal successors are not known.",
+              "We help to examine the ownership history, identify legal successors and resolve inheritance issues, including through supplementary inheritance proceedings."
+            ],
+            "photo": {
+              "name": "cem1",
+              "alt": ""
+            }
+          },
+          {
+            "icon": "groups",
+            "title": "Land with multiple co-owners",
+            "paras": [
+              "Some plots have dozens of co-owners with shares of different sizes. Some of the owners may be known, while others are no longer alive or cannot be reliably identified.",
+              "We assess the options for buying out co-ownership shares, concluding agreements, and dissolving and settling co-ownership, including through court proceedings."
+            ],
+            "photo": {
+              "name": "farm1",
+              "alt": ""
+            }
+          },
+          {
+            "icon": "description",
+            "title": "Duplicate ownership and challenged reliability of Land Register data",
+            "paras": [
+              "The Land Register (cadastre) may contain duplicate registrations of ownership rights or notes stating that the reliability of the Land Register data has been challenged.",
+              "We examine the ownership entries and the documents on the basis of which the ownership rights arose or were registered, and we assess the options for removing the legal uncertainty, including resolution through the courts."
+            ],
+            "photo": {
+              "name": "plan1",
+              "alt": ""
+            }
+          },
+          {
+            "icon": "apartment",
+            "title": "Land registered to dissolved companies",
+            "paras": [
+              "According to the title deed, the owner of the land may be a company that has already been deleted from the Commercial Register (obchodný register).",
+              "In such cases, we examine the circumstances in which the company ceased to exist and the options for settling the ownership relations, for example through supplementary liquidation, if the statutory conditions for it are met."
+            ],
+            "photo": {
+              "name": "off",
+              "alt": ""
+            }
+          },
+          {
+            "icon": "factory",
+            "title": "Land under buildings and within sites",
+            "paras": [
+              "The owner of a building is not necessarily also the owner of the land beneath it. This occurs with family houses and garages, but also with production halls, warehouse buildings, farm buildings and extensive operational sites.",
+              "We help to examine the legal relationship between the owner of the building and the owner of the land, and to assess the options for settling the property-law status of the land under the buildings and of other land needed for the site to function."
+            ],
+            "photo": {
+              "name": "ware",
+              "alt": ""
+            },
+            "link": {
+              "text": "More on settling land under buildings and within sites",
+              "href": "/en/services/land-ownership-settlement/land-under-buildings/"
+            }
+          }
+        ]
+      },
+      {
+        "type": "stepsH",
+        "bg": "sand",
+        "header": {
+          "eyebrow": "How we proceed",
+          "title": "How does the settlement of land proceed?"
+        },
+        "steps": [
+          {
+            "title": "Review of ownership relations",
+            "text": "We examine the current Land Register data, the available historical records and other relevant documents. We identify the ownership problems and legal obstacles that need to be resolved."
+          },
+          {
+            "title": "Proposed legal course of action",
+            "text": "Based on our findings, we assess the options for settlement. Depending on the circumstances, these may include buying out the land or co-ownership shares, inheritance proceedings, an agreement between co-owners, steps in relation to the SPF, or court proceedings."
+          },
+          {
+            "title": "Legal representation",
+            "text": "We prepare the legal documents, conduct negotiations with the owners and the relevant institutions, and provide representation in court and other proceedings, depending on the nature of the case."
+          }
+        ]
+      },
+      {
+        "type": "splitBand",
+        "eyebrow": "Costs",
+        "title": "How much does land settlement cost?",
+        "paras": [
+          "The costs of settlement depend on the specific situation, in particular on the number of owners, the extent of the legal review required and the chosen course of action.",
+          "There can be a difference between settling a single co-ownership share and an extensive case involving several plots, historical owners and different legal regimes."
+        ],
+        "photo": {
+          "name": "pen",
+          "alt": ""
+        },
+        "link": {
+          "text": "More on the costs of land settlement (in Slovak)",
+          "href": "/clanky/kolko-stoji-vysporiadanie-pozemku/"
+        },
+        "side": "left",
+        "bg": "paper"
+      },
+      {
+        "type": "contactBand",
+        "eyebrow": "Contact",
+        "title": "Do you need to settle land ownership?",
+        "paras": [
+          "If the ownership of your land is unsettled or you need to review the options for resolving it, contact us.",
+          "Once we are familiar with your situation, we will assess the options for further legal action."
+        ],
+        "cta": {
+          "text": "Book a consultation",
+          "href": "/en/contact/"
+        },
+        "photo": {
+          "name": "band1",
+          "alt": ""
+        }
+      }
+    ]
+  }
 }

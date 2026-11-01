@@ -52,15 +52,23 @@ function resolvePhoto(p, sizes, eager) {
   return { src: `/assets/photos/services/${p.name}`, alt: p.alt || '', sizes: p.sizes || sizes, eager: !!eager };
 }
 
-function prepare(sections, crumbs) {
+function prepare(sections, crumbs, lang, crumbsLabel) {
   return sections.map((s) => {
     const o = { ...s };
+    if (o.link) o.link = localizeLink(o.link, lang);
+    if (o.cta) o.cta = localizeLink(o.cta, lang);
     if (o.photo) o.photo = resolvePhoto(o.photo, SIZES[o.type] || SIZES.splitBand, o.type === 'hero');
     if (o.items && o.type !== 'grid') {
-      o.items = o.items.map((it) => (it && it.photo ? { ...it, photo: resolvePhoto(it.photo, SIZES[o.type.replace(/^cards(\w)/, (_, c) => 'card' + c)] || SIZES.cardSide, false) } : it));
+      o.items = o.items.map((it) => {
+        if (!it || typeof it !== 'object') return it;
+        const r = { ...it };
+        if (r.photo) r.photo = resolvePhoto(r.photo, SIZES[o.type.replace(/^cards(\w)/, (_, c) => 'card' + c)] || SIZES.cardSide, false);
+        if (r.link) r.link = localizeLink(r.link, lang);
+        return r;
+      });
     }
-    if (o.type === 'hero') o.crumbs = crumbs;
-    if (o.type === 'grid') o.items = prepare(o.items, crumbs);
+    if (o.type === 'hero') { o.crumbs = crumbs; o.crumbsLabel = crumbsLabel; }
+    if (o.type === 'grid') o.items = prepare(o.items, crumbs, lang, crumbsLabel);
     return o;
   });
 }
@@ -77,7 +85,25 @@ function pageTitleOf(data) {
   return hero.title;
 }
 
-const hasLang = (id, lang) => !!(SERVICES[id][lang] && !(SERVICES[id].hidden && SERVICES[id].hidden[lang]) && loadService(id)[lang]);
+// hasContent: the page is built (URL + copy exist). isHidden: built, but noindex, unpaired and unlinked
+// (SERVICES[id].hidden[lang]). hasLang: built and visible - the only state that gets hreflang, sitemap,
+// llms.txt and card links.
+const hasContent = (id, lang) => !!(SERVICES[id][lang] && loadService(id)[lang]);
+const isHidden = (id, lang) => !!(SERVICES[id].hidden && SERVICES[id].hidden[lang]);
+const hasLang = (id, lang) => hasContent(id, lang) && !isHidden(id, lang);
+
+// Internal links on a non-Slovak page: a link to a service page of that language that is not visible
+// yet points to its Slovak twin; every link outside the language's URL space (Slovak pages, articles)
+// is marked hreflang/lang="sk". Other hrefs are left as they are.
+const SK_ATTRS = 'hreflang="sk" lang="sk"';
+function localLink(href, lang) {
+  if (lang === 'sk' || !href || !href.startsWith('/')) return { href };
+  const target = Object.keys(SERVICES).find((id) => SERVICES[id][lang] === href);
+  if (target && !hasLang(target, lang)) return { href: SERVICES[target].sk, attrs: SK_ATTRS };
+  if (href.startsWith(`/${lang}/`)) return { href };
+  return { href, attrs: SK_ATTRS };
+}
+const localizeLink = (link, lang) => (link && link.href ? { ...link, ...localLink(link.href, lang) } : link);
 
 function render(id, lang, ctx) {
   const svc = SERVICES[id];
@@ -92,11 +118,12 @@ function render(id, lang, ctx) {
   const crumbList = [
     { name: HOME_NAME[lang], url: PAGES.home[lang] },
     { name: SERVICES_NAME[lang], url: PAGES.services[lang] },
-    ...chain.map((p) => ({ name: pageTitleOf(loadService(p)[lang] || loadService(p).sk), url: SERVICES[p][lang] })),
+    ...chain.map((p) => ({ name: pageTitleOf(loadService(p)[lang] || loadService(p).sk), ...localLink(SERVICES[p][lang] || SERVICES[p].sk, lang) })).map(({ href, ...c }) => ({ ...c, url: href })),
     { name: pageTitleOf(data), url },
   ];
 
-  const main = ui.renderSections(prepare(data.sections, crumbList));
+  const crumbsLabel = site.loadTranslations()[lang]['ui.breadcrumb'];
+  const main = ui.renderSections(prepare(data.sections, crumbList, lang, crumbsLabel));
 
   const pair = hasLang(id, 'sk') && hasLang(id, 'en');
   const og = site.OG_IMAGES[lang];
@@ -114,6 +141,7 @@ function render(id, lang, ctx) {
     description: meta.description,
     keywords: meta.keywords,
     canonical,
+    robots: isHidden(id, lang) ? 'noindex' : undefined,
     alternates: pair
       ? [{ hreflang: 'sk', href: abs(svc.sk) }, { hreflang: 'en', href: abs(svc.en) }, { hreflang: 'x-default', href: abs(svc.sk) }]
       : [],
@@ -131,11 +159,12 @@ function render(id, lang, ctx) {
   });
 }
 
-// Every built service page: [{ id, lang, url }]
+// Every built service page: [{ id, lang, url, hidden }]. Hidden pages are built but must stay out of
+// the sitemap, llms.txt and every link.
 function outputs() {
   const list = [];
   for (const id of Object.keys(SERVICES)) {
-    for (const lang of ['sk', 'en']) if (hasLang(id, lang)) list.push({ id, lang, url: SERVICES[id][lang] });
+    for (const lang of ['sk', 'en']) if (hasContent(id, lang)) list.push({ id, lang, url: SERVICES[id][lang], hidden: isHidden(id, lang) });
   }
   return list;
 }
@@ -155,4 +184,4 @@ function main() {
 
 if (require.main === module) main();
 
-module.exports = { main, outputs, render, hasLang };
+module.exports = { main, outputs, render, hasLang, hasContent, isHidden };

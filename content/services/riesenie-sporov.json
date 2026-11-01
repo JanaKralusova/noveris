@@ -121,5 +121,127 @@
       }
     ]
   },
-  "en": null
+  "en": {
+    "sections": [
+      {
+        "type": "hero",
+        "label": null,
+        "title": "Dispute resolution",
+        "intro": [
+          "Disputes can arise from breaches of contractual obligations, unpaid debts, ownership relations or other legal claims. Resolving them requires an assessment of the legal position of each party, the available evidence and the options for further action."
+        ],
+        "bold": "We represent individuals, entrepreneurs and companies in resolving disputes out of court and in court.",
+        "after": "We help with asserting and protecting rights, debt recovery and representation in court and administrative proceedings.",
+        "cta": {
+          "text": "Book a consultation",
+          "href": "/en/contact/"
+        },
+        "photo": {
+          "name": "justice2",
+          "alt": ""
+        }
+      },
+      {
+        "type": "cardsTop",
+        "header": {
+          "eyebrow": "Our services",
+          "title": "Areas of dispute resolution we cover"
+        },
+        "items": [
+          {
+            "icon": "forum",
+            "title": "Out-of-court dispute resolution",
+            "paras": [
+              "Not every legal dispute has to lead to court proceedings. Depending on the circumstances of the case, an appropriate solution may be an agreement that settles the disputed relations without the need for a court decision.",
+              "We assess the client's legal position, prepare pre-action letters and draft agreements, and represent clients in negotiations with the other party."
+            ],
+            "photo": {
+              "name": "sil2",
+              "alt": ""
+            }
+          },
+          {
+            "icon": "account_balance",
+            "title": "Litigation",
+            "paras": [
+              "We represent clients in civil-law and commercial-law disputes, in particular in asserting claims arising from contractual relationships, compensation for damage and unjust enrichment, and in disputes concerning ownership and other property rights.",
+              "Legal representation includes assessing the merits of the claims, preparing procedural submissions, securing evidence and representation throughout the court proceedings."
+            ],
+            "photo": {
+              "name": "gavel",
+              "alt": ""
+            }
+          },
+          {
+            "icon": "payments",
+            "title": "Debt recovery",
+            "paras": [
+              "Unpaid invoices, loans or other monetary obligations may make it necessary to recover debts by legal means.",
+              "We review the legal basis and enforceability of debts, prepare payment demands and represent creditors in asserting claims in court, including order-for-payment proceedings."
+            ],
+            "photo": {
+              "name": "folders",
+              "alt": ""
+            }
+          },
+          {
+            "icon": "shield",
+            "title": "Defence against claims",
+            "paras": [
+              "We also provide legal representation to clients against whom the other party is asserting monetary or other legal claims.",
+              "We assess the merits and extent of such claims and the available means of defence. We prepare statements, objections, appeals and other procedural submissions, depending on the nature of the proceedings."
+            ],
+            "photo": {
+              "name": "sil3",
+              "alt": ""
+            }
+          },
+          {
+            "icon": "apartment",
+            "title": "Representation in administrative proceedings",
+            "paras": [
+              "We represent clients in proceedings before public administration authorities, in particular in matters concerning real estate, ownership rights and other administrative-law matters.",
+              "Our legal assistance includes preparing applications, statements, objections and appeals, as well as representation in communication with the relevant authorities."
+            ],
+            "photo": {
+              "name": "filestack",
+              "alt": ""
+            }
+          }
+        ]
+      },
+      {
+        "type": "splitBand",
+        "eyebrow": "Our approach",
+        "title": "Assessing the legal options before a dispute begins",
+        "paras": [
+          "Before court proceedings are started, it is important to assess not only the legal basis of the claim but also the available evidence, the procedural risks and the possible costs of the proceedings.",
+          "Based on the specific circumstances of the case, we evaluate the options for an out-of-court solution and for asserting or defending rights in court. The aim is to choose a course of action that takes into account both the client's legal position and the practical consequences of pursuing the dispute."
+        ],
+        "photo": {
+          "name": "sil_group",
+          "alt": ""
+        },
+        "side": "right",
+        "bg": "sand"
+      },
+      {
+        "type": "contactBand",
+        "eyebrow": "Contact",
+        "title": "Do you need to resolve a legal dispute?",
+        "paras": [
+          "If you need to assert a claim, recover a debt or defend yourself against the other party's demands, contact us.",
+          "Once we are familiar with your situation, we will assess the legal options and propose the next steps."
+        ],
+        "cta": {
+          "text": "Book a consultation",
+          "href": "/en/contact/"
+        },
+        "photo": {
+          "name": "band3",
+          "alt": ""
+        }
+      }
+    ]
+  }
 }

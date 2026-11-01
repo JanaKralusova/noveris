@@ -121,5 +121,127 @@
       }
     ]
   },
-  "en": null
+  "en": {
+    "sections": [
+      {
+        "type": "hero",
+        "label": null,
+        "title": "Civil law",
+        "intro": [
+          "Civil-law relationships concern the ownership of property, contractual obligations, inheritance and claims arising from breaches of rights and obligations. Resolving them may require a legal assessment, negotiations with the other party or asserting claims in court."
+        ],
+        "bold": "We provide legal services to individuals and companies in civil-law matters.",
+        "after": "We help with assessing rights and obligations, preparing legal documents and resolving disputes out of court, and we provide representation in court proceedings.",
+        "cta": {
+          "text": "Book a consultation",
+          "href": "/en/contact/"
+        },
+        "photo": {
+          "name": "justice_book",
+          "alt": ""
+        }
+      },
+      {
+        "type": "cardsSide",
+        "header": {
+          "eyebrow": "Our services",
+          "title": "Areas of civil law we cover"
+        },
+        "items": [
+          {
+            "icon": "groups",
+            "title": "Inheritance proceedings and inheritance disputes",
+            "paras": [
+              "We provide legal assistance in inheritance proceedings, including supplementary inheritance proceedings where further assets of the deceased are discovered after the original proceedings have ended.",
+              "We help to resolve disputed issues between heirs, to review the ownership of inherited property and to assert rights relating to an inheritance."
+            ],
+            "photo": {
+              "name": "books_pen",
+              "alt": ""
+            }
+          },
+          {
+            "icon": "payments",
+            "title": "Compensation for damage",
+            "paras": [
+              "We assess claims for compensation for damage caused by a breach of legal obligations, damage to property or other unlawful conduct.",
+              "We represent injured parties in asserting their claims, as well as persons against whom claims for compensation for damage are brought. Our legal assistance includes assessing liability for the damage, its extent and the options for out-of-court and court resolution."
+            ],
+            "photo": {
+              "name": "jar",
+              "alt": ""
+            }
+          },
+          {
+            "icon": "home",
+            "title": "Unjust enrichment",
+            "paras": [
+              "Unjust enrichment may arise, for example, from using someone else's property without legal grounds, from receiving performance without legal title, or from performance on legal grounds that subsequently ceased to exist.",
+              "In these cases, we assess whether a claim for the surrender of unjust enrichment has arisen and its extent, and we represent clients in asserting such a claim or defending against it."
+            ],
+            "photo": {
+              "name": "house",
+              "alt": ""
+            }
+          },
+          {
+            "icon": "diversity_1",
+            "title": "Dissolution and settlement of community property of spouses",
+            "paras": [
+              "We provide legal services in the dissolution and settlement of community property of spouses (bezpodielové spoluvlastníctvo manželov, BSM), in particular in arranging the ownership of real estate, funds, debts and other joint property.",
+              "We prepare agreements on the settlement of community property (BSM) and represent clients in negotiations and in court proceedings if the spouses cannot agree on the settlement."
+            ],
+            "photo": {
+              "name": "rings",
+              "alt": ""
+            }
+          },
+          {
+            "icon": "description",
+            "title": "Other civil-law matters",
+            "paras": [
+              "We also provide legal assistance with other civil-law issues, in particular the protection of ownership and other property rights, the resolution of disputes arising from contractual relationships, and asserting or defending against civil-law claims.",
+              "The scope of legal assistance depends on the nature of the specific case and the legal questions that need to be resolved."
+            ],
+            "photo": {
+              "name": "books_row",
+              "alt": ""
+            }
+          }
+        ]
+      },
+      {
+        "type": "splitBand",
+        "eyebrow": "Our approach",
+        "title": "Out-of-court resolution and court representation",
+        "paras": [
+          "Not every civil-law dispute has to lead to court proceedings. Depending on the circumstances of the case, an appropriate solution may be an agreement, reached after a legal assessment, the preparation of a demand letter or negotiations with the other party.",
+          "If an out-of-court solution is not possible or appropriate, we provide representation in asserting and protecting rights in court proceedings."
+        ],
+        "photo": {
+          "name": "papers_table",
+          "alt": ""
+        },
+        "side": "right",
+        "bg": "sand"
+      },
+      {
+        "type": "contactBand",
+        "eyebrow": "Contact",
+        "title": "Do you need legal help with a civil-law matter?",
+        "paras": [
+          "If you are dealing with an inheritance, a property dispute, a claim for compensation for damage, unjust enrichment or another civil-law issue, contact us.",
+          "Once we are familiar with your situation, we will assess the legal options and propose the next steps."
+        ],
+        "cta": {
+          "text": "Book a consultation",
+          "href": "/en/contact/"
+        },
+        "photo": {
+          "name": "band1",
+          "alt": ""
+        }
+      }
+    ]
+  }
 }
