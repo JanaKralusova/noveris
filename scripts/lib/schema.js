@@ -142,9 +142,23 @@ function pageNodes(p) {
   return nodes;
 }
 
+// Service page node; the provider is the firm.
+function serviceNode({ url, name, description, lang }) {
+  return {
+    '@type': 'Service',
+    '@id': `${url}#service`,
+    name,
+    description,
+    url,
+    inLanguage: lang,
+    provider: ref(ID.org),
+    areaServed: { '@type': 'Country', name: 'Slovakia' },
+  };
+}
+
 // extraNodes: page specific nodes (Article, Service, ...)
 function graph(lang, nodes) {
   return { '@context': 'https://schema.org', '@graph': [orgNode(lang), websiteNode(), personNode(), ...nodes] };
 }
 
-module.exports = { ID, ref, orgNode, websiteNode, personNode, breadcrumbNode, pageNodes, graph };
+module.exports = { ID, ref, orgNode, websiteNode, personNode, breadcrumbNode, pageNodes, serviceNode, graph };

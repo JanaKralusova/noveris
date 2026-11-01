@@ -34,6 +34,15 @@ const PAGES = {
 };
 const ARTICLES_URL = '/clanky/';
 
+// Service pages (content/services/<id>.json, built by scripts/build-services.js).
+// { sk, en, parent?, hidden?: { en: true }, order }. A page whose JSON has `en: null` (or is hidden.en)
+// has no English twin: no hreflang, no EN sitemap / llms.txt entry.
+const SERVICES = {
+  'vysporiadanie-pozemkov': {
+    sk: '/sluzby/vysporiadanie-pozemkov/', en: '/en/services/land-ownership-settlement/', order: 1,
+  },
+};
+
 function loadTranslations() {
   return require(path.join(ROOT, 'translations.js'));
 }
@@ -79,6 +88,21 @@ function iconNames() {
   walk(path.join(ROOT, 'templates'), (f) => /\.html$/.test(f));
   walk(path.join(ROOT, 'scripts'), (f) => /\.js$/.test(f));
   const names = new Set();
+  // icons passed to ui.js icon() / chip() as string literals
+  const call = /\b(?:icon|chip)\(\s*['"]([a-z0-9_]+)['"]/g;
+  for (const f of files) {
+    const src = fs.readFileSync(f, 'utf8');
+    let c;
+    while ((c = call.exec(src))) names.add(c[1]);
+  }
+  // `"icon": "<name>"` values in the service page data
+  const svcDir = path.join(ROOT, 'content', 'services');
+  if (fs.existsSync(svcDir)) {
+    for (const f of fs.readdirSync(svcDir).filter((n) => n.endsWith('.json'))) {
+      const src = fs.readFileSync(path.join(svcDir, f), 'utf8');
+      for (const m of src.matchAll(/"icon"\s*:\s*"([a-z0-9_]+)"/g)) names.add(m[1]);
+    }
+  }
   for (const f of files) {
     const src = fs.readFileSync(f, 'utf8');
     const re = /material-symbols-outlined[^"'`>]*["'`]?[^>]*>\s*([a-z0-9_]+)\s*</g;
@@ -111,4 +135,4 @@ function abs(url) {
   return /^https?:\/\//.test(url) ? url : SITE + url;
 }
 
-module.exports = { ROOT, SITE, SITE_NAME, OG_IMAGES, OG_ALT, SITEMAP_LASTMOD, loadSiteCopy, loadSiteConfig, iconNames, checkIcons, PAGES, ARTICLES_URL, loadTranslations, loadPagesData, urlToFile, abs };
+module.exports = { ROOT, SITE, SITE_NAME, OG_IMAGES, OG_ALT, SITEMAP_LASTMOD, loadSiteCopy, loadSiteConfig, iconNames, checkIcons, PAGES, SERVICES, ARTICLES_URL, loadTranslations, loadPagesData, urlToFile, abs };

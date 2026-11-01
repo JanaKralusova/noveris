@@ -30,10 +30,11 @@
 
 const fs = require('fs');
 const path = require('path');
-const { ROOT, SITE, PAGES, ARTICLES_URL, SITEMAP_LASTMOD, abs } = require('./lib/site');
+const { ROOT, SITE, PAGES, SERVICES, ARTICLES_URL, SITEMAP_LASTMOD, abs } = require('./lib/site');
 const { esc } = require('./lib/layout');
 const buildPages = require('./build-pages');
 const buildArticles = require('./build-articles');
+const buildServices = require('./build-services');
 
 // ---------------------------------------------------------------- sitemap
 
@@ -59,6 +60,14 @@ function buildSitemap(outRoot, articles) {
       entries.push(urlEntry({ loc: abs(p[lang]), lastmod: SITEMAP_LASTMOD, changefreq: p.changefreq, priority: p.priority, alternates: pair }));
     }
   }
+  for (const o of buildServices.outputs()) {
+    const svc = SERVICES[o.id];
+    const hasPair = buildServices.outputs().filter((x) => x.id === o.id).length === 2;
+    const pair = hasPair
+      ? [{ hreflang: 'sk', href: abs(svc.sk) }, { hreflang: 'en', href: abs(svc.en) }, { hreflang: 'x-default', href: abs(svc.sk) }]
+      : null;
+    entries.push(urlEntry({ loc: abs(o.url), lastmod: SITEMAP_LASTMOD, changefreq: 'monthly', priority: '0.8', alternates: pair }));
+  }
   const latest = articles.map((a) => a.updated || a.date).sort().pop();
   entries.push(urlEntry({ loc: abs(ARTICLES_URL), lastmod: latest, changefreq: 'weekly', priority: '0.8' }));
   for (const a of articles) {
@@ -82,19 +91,22 @@ function replaceBlock(text, name, block, insertAt) {
   return insertAt(text, full);
 }
 
-function updateLlms(outRoot, articles) {
+function updateLlms(outRoot, articles, services) {
   const file = path.join(outRoot, 'llms.txt');
   if (!fs.existsSync(file)) return;
   let text = fs.readFileSync(file, 'utf8');
 
   const link = (label, url) => `- [${label}](${abs(url)})`;
+  const svcLinks = (lang) => services.filter((o) => o.lang === lang).map((o) => link(o.title, o.url));
   const pagesEn = `## Website Pages\n${[
     link('Home', PAGES.home.en), link('About', PAGES.about.en), link('Services', PAGES.services.en),
+    ...svcLinks('en'),
     link('Contact', PAGES.contact.en), link('Articles (Slovak)', ARTICLES_URL),
     link('Privacy policy (Slovak)', PAGES.privacy.sk),
   ].join('\n')}\nSlovak versions: ${abs(PAGES.home.sk)}, ${abs(PAGES.about.sk)}, ${abs(PAGES.services.sk)}, ${abs(PAGES.contact.sk)}.`;
   const pagesSk = `## Stránky webu\n${[
     link('Domov', PAGES.home.sk), link('O nás', PAGES.about.sk), link('Služby', PAGES.services.sk),
+    ...svcLinks('sk'),
     link('Články', ARTICLES_URL), link('Kontakt', PAGES.contact.sk),
     link('Ochrana osobných údajov', PAGES.privacy.sk),
     ...(PAGES.owners.hidden ? [] : [link('Nezistení vlastníci – vyhľadávanie', PAGES.owners.sk)]),
@@ -121,8 +133,11 @@ function updateLlms(outRoot, articles) {
 // ---------------------------------------------------------------- main
 
 buildPages.main();
+buildServices.main();
 const articles = buildArticles.main();
 const outRoot = path.resolve(process.env.ARTICLES_OUT_DIR || ROOT);
 buildSitemap(outRoot, articles);
-updateLlms(outRoot, articles);
+const pagesData = require('./lib/site').loadPagesData();
+const services = buildServices.outputs().map((o) => ({ ...o, title: pagesData[o.id][o.lang].title.replace(/ \| Noveris Legal$/, '') }));
+updateLlms(outRoot, articles, services);
 console.log('build: sitemap.xml + llms.txt updated');

@@ -63,5 +63,11 @@
       "title": "Nezistení vlastníci pozemkov – vyhľadávanie v zozname SPF | Noveris Legal",
       "description": "Vyhľadajte predkov v zozname nezistených vlastníkov pozemkov Slovenského pozemkového fondu (4,95 mil. záznamov, stav k 30. 6. 2026). Bez sťahovania súborov. Pomôžeme vám s vysporiadaním."
     }
+  },
+  "vysporiadanie-pozemkov": {
+    "sk": {
+      "title": "Vysporiadanie pozemkov a vlastníckych vzťahov | Noveris Legal",
+      "description": "Nevysporiadané vlastnícke vzťahy môžu komplikovať predaj, výstavbu aj ďalšie využívanie nehnuteľností."
+    }
   }
 }
