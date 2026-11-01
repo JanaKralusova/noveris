@@ -82,3 +82,14 @@
     .article-body { font-size: 1.0625rem; }
     .article-body h2 { font-size: 1.75rem; }
 }
+
+/* Design-system components (scripts/lib/ui.js): photo fades into the page background
+   (mobile: bottom edge, desktop: the edge facing the text). */
+.fade-photo { -webkit-mask-image: linear-gradient(to bottom, #000 55%, transparent 100%); mask-image: linear-gradient(to bottom, #000 55%, transparent 100%); }
+.fade-photo-l { -webkit-mask-image: linear-gradient(to bottom, #000 55%, transparent 100%); mask-image: linear-gradient(to bottom, #000 55%, transparent 100%); }
+@media (min-width: 1024px) {
+    .fade-photo { -webkit-mask-image: linear-gradient(to right, transparent 0, #000 42%); mask-image: linear-gradient(to right, transparent 0, #000 42%); }
+    .fade-photo-l { -webkit-mask-image: linear-gradient(to left, transparent 0, #000 42%); mask-image: linear-gradient(to left, transparent 0, #000 42%); }
+}
+/* Closing band photo: fades into forest green on the left */
+.fade-photo-dark { -webkit-mask-image: linear-gradient(to right, transparent 0, #000 60%); mask-image: linear-gradient(to right, transparent 0, #000 60%); }
