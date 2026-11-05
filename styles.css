@@ -40,3 +40,10 @@
 /* Closing band photo: fades into forest green on the left */
 .fade-photo-dark { -webkit-mask-image: linear-gradient(to right, transparent 0, #000 60%); mask-image: linear-gradient(to right, transparent 0, #000 60%); }
 
+
+/* Focus ring (copper; light copper on the dark forest surfaces) */
+a:focus-visible, button:focus-visible, summary:focus-visible { outline: 2px solid #8f5535; outline-offset: 2px; }
+.bg-forest a:focus-visible, .bg-forest button:focus-visible { outline-color: #e0b08a; }
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { transition-duration: 0.01ms !important; animation-duration: 0.01ms !important; scroll-behavior: auto !important; }
+}

@@ -98,7 +98,7 @@ function applySak(html, config) {
   if (!config.sakNumber) return html.replace(block, '');
   const profile = config.sameAs.person.find((u) => /^https:\/\/(www\.)?sak\.sk\//.test(u));
   const num = profile
-    ? `<a href="${layout.esc(profile)}" class="text-copper underline underline-offset-2 hover:text-forest">${layout.esc(config.sakNumber)}</a>`
+    ? `<a href="${layout.esc(profile)}" class="text-copper underline underline-offset-[3px] decoration-1 transition-colors hover:text-forest">${layout.esc(config.sakNumber)}</a>`
     : layout.esc(config.sakNumber);
   return html.replace(block, (_, inner) => inner.replace('{{sakNumber}}', num));
 }
@@ -226,7 +226,7 @@ function heroFor(id, lang, t, ctx) {
     case 'privacy':
       return ui.hero({
         ...base,
-        topHtml: `<a href="${layout.esc(href('contact'))}" class="mb-4 mt-4 inline-flex items-center gap-1.5 font-label text-[13px] font-semibold text-copper hover:text-forest">${ui.icon('arrow_back', 'text-[18px]')}<span>${layout.esc(t['privacy.back'])}</span></a>`,
+        topHtml: `<a href="${layout.esc(href('contact'))}" class="mb-4 mt-4 group inline-flex items-center gap-1.5 font-label text-[13px] font-semibold text-ink transition-colors hover:text-copper"><span class="inline-flex text-copper transition-transform duration-200 group-hover:-translate-x-1">${ui.icon('arrow_back', 'text-[18px]')}</span><span>${layout.esc(t['privacy.back'])}</span></a>`,
         title: PRIVACY_NAME,
         intro: [PRIVACY_INTRO],
         photo: photo('folders'),
@@ -249,9 +249,9 @@ function specialisationBand(lang, t) {
     const title = id === 'vysporiadanie-pozemkov' ? t['services.area.vysporiadanie-pozemkov.title'] : pageTitleOf(page);
     const img = ui.photoImg({ src: `/assets/photos/services/${hero.photo.name}`, alt: '', sizes: '(min-width: 1024px) 240px, (min-width: 640px) 42vw, 34vw' }, 'h-full w-full object-cover');
     // .material-symbols-outlined inherits its colour, so the colour sits on the wrapper
-    return `<a href="${esc(SERVICES[id][lang])}" class="group relative flex min-h-[6rem] items-center overflow-hidden rounded-card border border-line bg-card shadow-soft transition-colors duration-200 hover:border-forest">`
+    return `<a href="${esc(SERVICES[id][lang])}" class="group relative flex min-h-[6rem] items-center overflow-hidden rounded-card border border-line bg-card shadow-soft">`
       + `<span class="fade-tile absolute inset-y-0 left-0 w-[34%] sm:w-[42%]">${img}</span>`
-      + `<span class="relative flex flex-1 items-center gap-3 py-4 pl-[35%] pr-4 sm:gap-4 sm:pl-[40%] sm:pr-5"><span class="flex-1 font-headline text-[1.0625rem] leading-snug text-ink sm:text-[1.125rem] md:text-[1.25rem]">${esc(title)}</span>`
+      + `<span class="relative flex flex-1 items-center gap-3 py-4 pl-[35%] pr-4 sm:gap-4 sm:pl-[40%] sm:pr-5"><span class="flex-1 font-headline text-[1.0625rem] leading-snug text-ink transition-colors duration-200 group-hover:text-copper sm:text-[1.125rem] md:text-[1.25rem]">${esc(title)}</span>`
       + `<span class="inline-flex text-copper transition-transform duration-200 group-hover:translate-x-1">${ui.icon('arrow_forward', 'text-[20px]')}</span></span></a>`;
   });
   return '<section data-band="specialisation" class="bg-paper pb-12 pt-4 md:pb-16"><div class="mx-auto max-w-7xl px-6 lg:px-8">'

@@ -191,7 +191,7 @@ function renderHeader(lang, active, switchTo) {
 
   const mobile = items.map((it) => {
     const on = it.id === active;
-    return `<a href="${it.href}" class="block border-b border-line py-3.5 font-label text-[15px] font-medium ${on ? 'text-copper' : 'text-ink'}"${on ? ' aria-current="page"' : ''}>${it.label}</a>`;
+    return `<a href="${it.href}" class="block border-b border-line py-3.5 font-label text-[15px] font-medium transition-colors hover:text-copper ${on ? 'text-copper' : 'text-ink'}"${on ? ' aria-current="page"' : ''}>${it.label}</a>`;
   }).join('\n');
 
   let langSwitch = '';
@@ -213,7 +213,7 @@ ${logo(lang, 'h-7')}
 ${desktop}
 </div>
 <div class="flex items-center gap-4">
-${langSwitch}<button type="button" id="mobile-menu-btn" onclick="toggleMobileMenu()" class="-mr-2 p-2 text-ink lg:hidden" aria-label="${ui.menu}" aria-expanded="false">
+${langSwitch}<button type="button" id="mobile-menu-btn" onclick="toggleMobileMenu()" class="-mr-2 p-2 text-ink transition-colors hover:text-copper lg:hidden" aria-label="${ui.menu}" aria-expanded="false">
 <span class="material-symbols-outlined text-[26px]" aria-hidden="true">menu</span>
 </button>
 </div>
@@ -229,7 +229,7 @@ ${langSwitch}<button type="button" id="mobile-menu-btn" onclick="toggleMobileMen
 <div class="flex h-full w-72 flex-col border-l border-line bg-paper shadow-2xl">
 <div class="flex h-16 items-center justify-between border-b border-line px-6">
 <span class="font-label text-[12px] font-semibold uppercase tracking-[0.16em] text-muted">${ui.menu}</span>
-<button type="button" id="mobile-menu-close" onclick="toggleMobileMenu()" aria-label="${ui.closeMenu}" class="-mr-2 p-2 text-ink"><span class="material-symbols-outlined text-[26px]" aria-hidden="true">close</span></button>
+<button type="button" id="mobile-menu-close" onclick="toggleMobileMenu()" aria-label="${ui.closeMenu}" class="-mr-2 p-2 text-ink transition-colors hover:text-copper"><span class="material-symbols-outlined text-[26px]" aria-hidden="true">close</span></button>
 </div>
 <div class="flex-1 overflow-y-auto px-6 py-2">
 ${mobile}
@@ -246,7 +246,7 @@ function renderFooter(lang) {
   const t = loadTranslations()[lang];
   const copy = t['footer.copy'].replace('{year}', `<span id="footer-year">${new Date().getFullYear()}</span>`);
   const menu = navItems(lang).map((it) => `<a href="${it.href}" class="py-1 lg:whitespace-nowrap font-label text-[14px] text-body transition-colors hover:text-copper">${it.label}</a>`).join('\n');
-  const row = (ic, text, href) => `<li class="flex items-center gap-3 text-[14px] text-body"><span class="material-symbols-outlined text-[20px] text-copper" aria-hidden="true">${ic}</span><span>${href ? `<a href="${href}" class="hover:text-copper">${text}</a>` : text}</span></li>`;
+  const row = (ic, text, href) => `<li class="flex items-center gap-3 text-[14px] text-body"><span class="material-symbols-outlined text-[20px] text-copper" aria-hidden="true">${ic}</span><span>${href ? `<a href="${href}" class="transition-colors hover:text-copper">${text}</a>` : text}</span></li>`;
   return `<!-- ===== FOOTER ===== -->
 <footer class="border-t border-line bg-paper"><div class="mx-auto max-w-7xl px-6 lg:px-8">
 <div class="grid gap-10 py-12 md:grid-cols-3 md:gap-0 lg:grid-cols-[1fr_1.4fr_1fr]">
@@ -260,7 +260,7 @@ ${row('mail', CONTACT.email, `mailto:${CONTACT.email}`)}
 ${row('location_on', CONTACT.address)}
 </ul></div>
 <div class="flex flex-col gap-2 border-t border-line py-5 text-[13px] text-muted sm:flex-row sm:items-center sm:justify-between" id="footer-copy">
-<p>${copy}</p><a href="${PAGES.privacy.sk}"${lang === 'sk' ? '' : ' hreflang="sk" lang="sk"'} class="hover:text-copper hover:underline">${t['footer.privacy']}</a>
+<p>${copy}</p><a href="${PAGES.privacy.sk}"${lang === 'sk' ? '' : ' hreflang="sk" lang="sk"'} class="transition-colors hover:text-copper hover:underline">${t['footer.privacy']}</a>
 </div></div></footer>
 
 <script>

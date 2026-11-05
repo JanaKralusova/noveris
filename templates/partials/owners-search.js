@@ -240,7 +240,7 @@
       return '<li class="flex items-start gap-3 border-b border-line py-3 last:border-0">' + ICON.land +
         '<div class="min-w-0 flex-1"><div class="break-words font-label text-[15px] font-semibold text-ink">' + esc(mainText(r)) + '</div>' +
         '<div class="text-[13px] text-muted">k. ú. ' + esc(r.ku) + ' · ' + esc(lvText(r)) + (r.spf ? ' · spravuje SPF' : '') + '</div></div>' +
-        '<button type="button" class="owners-rm -mr-1 p-1 text-muted hover:text-ink" data-id="' + r.id + '" aria-label="Odstrániť záznam ' + esc(mainText(r)) + '">' + ICON.close + '</button></li>';
+        '<button type="button" class="owners-rm -mr-1 p-1 text-muted transition-colors hover:text-copper" data-id="' + r.id + '" aria-label="Odstrániť záznam ' + esc(mainText(r)) + '">' + ICON.close + '</button></li>';
     }).join('');
     submitBtn.disabled = !items.length;
     mbar.textContent = 'Pokračovať k žiadosti (' + items.length + ')';
@@ -305,10 +305,10 @@
   // ---------------------------------------------------------------- results
 
   function cardClass(on) {
-    return 'owners-card flex flex-col gap-3 rounded-card border p-5 shadow-soft transition-colors sm:flex-row sm:items-start sm:gap-4 ' + (on ? 'border-forest bg-[#f6f1ea]' : 'border-line bg-card');
+    return 'owners-card flex flex-col gap-3 rounded-card border p-5 shadow-soft transition-colors duration-200 sm:flex-row sm:items-start sm:gap-4 ' + (on ? 'border-forest bg-[#f6f1ea]' : 'border-line bg-card');
   }
   function pickClass(on) {
-    return 'owners-pick inline-flex w-[7.5rem] shrink-0 items-center justify-center gap-1.5 rounded-btn px-3 py-2.5 font-label text-[12px] font-semibold uppercase tracking-[0.12em] ' +
+    return 'owners-pick inline-flex w-[7.5rem] shrink-0 items-center justify-center gap-1.5 rounded-btn px-3 py-2.5 font-label text-[12px] font-semibold uppercase tracking-[0.12em] transition-colors duration-200 ' +
       (on ? 'bg-forest text-white hover:bg-forest-dark' : 'border border-forest text-forest hover:bg-forest hover:text-white');
   }
 

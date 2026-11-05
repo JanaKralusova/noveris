@@ -17,7 +17,7 @@
 <input id="owners-q" type="search" class="w-full border-0 bg-transparent p-0 font-body text-[18px] text-ink placeholder:text-muted focus:ring-0" placeholder="Priezvisko, obec alebo číslo LV" aria-label="Hľadať v zozname nezistených vlastníkov" autocomplete="off" autocapitalize="off" spellcheck="false"/>
 </label>
 <p class="mb-5 mt-3 text-[13px] text-muted">{{owners:stats}}</p>
-<noscript><p class="mb-6 text-sm text-body">Vyhľadávanie vyžaduje zapnutý JavaScript. Úplný zoznam nájdete na stránke <a class="text-copper underline underline-offset-2" href="{{owners:sourcePage}}" rel="noopener">Slovenského pozemkového fondu</a>.</p></noscript>
+<noscript><p class="mb-6 text-sm text-body">Vyhľadávanie vyžaduje zapnutý JavaScript. Úplný zoznam nájdete na stránke <a class="text-copper underline underline-offset-[3px] decoration-1 transition-colors hover:text-forest" href="{{owners:sourcePage}}" rel="noopener">Slovenského pozemkového fondu</a>.</p></noscript>
 <div id="owners-status" class="mb-4 min-h-[1.25rem] font-label text-[15px] font-semibold text-ink" role="status" aria-live="polite"></div>
 <div id="owners-area-wrap" class="mb-5 hidden">
 <div class="sm:max-w-md"><label for="owners-area" class="mb-1.5 block font-label text-[13px] font-semibold text-ink">Katastrálne územie</label>
@@ -25,11 +25,11 @@
 </div>
 <div id="owners-results" class="space-y-3"></div>
 <div class="mt-6 text-center">
-<button id="owners-more" type="button" class="hidden items-center gap-3 rounded-btn border border-forest px-6 py-3.5 font-label text-[12px] font-semibold uppercase tracking-[0.12em] text-forest transition-colors duration-200 hover:bg-forest hover:text-white"></button>
+<button id="owners-more" type="button" class="hidden items-center gap-3 rounded-btn border border-forest px-6 py-3.5 font-label text-[12px] font-semibold uppercase tracking-[0.12em] text-forest transition-colors duration-200 hover:bg-forest hover:text-white disabled:cursor-not-allowed disabled:opacity-40 disabled:hover:bg-transparent disabled:hover:text-forest"></button>
 </div>
 <div class="mt-12 border-t border-line pt-6 text-[13px] leading-relaxed text-muted">
 <p class="font-label text-[11px] font-semibold uppercase tracking-[0.14em] text-copper">Zdroj údajov</p>
-<p class="mt-2">Slovenský pozemkový fond – <a class="text-copper underline underline-offset-2" href="{{owners:sourcePage}}" target="_blank" rel="noopener">Zoznam nezistených vlastníkov</a>, stav k {{owners:asOf}}.</p>
+<p class="mt-2">Slovenský pozemkový fond – <a class="text-copper underline underline-offset-[3px] decoration-1 transition-colors hover:text-forest" href="{{owners:sourcePage}}" target="_blank" rel="noopener">Zoznam nezistených vlastníkov</a>, stav k {{owners:asOf}}.</p>
 <p class="mt-2">Údaje preberáme bez obsahových úprav. Rozhodujúce sú aktuálne údaje evidované v katastri nehnuteľností. Noveris Legal nie je prevádzkovateľom zoznamu nezistených vlastníkov Slovenského pozemkového fondu.</p>
 <p class="mt-2"><b class="text-ink">Upozornenie:</b> Zhoda mena alebo priezviska sama osebe nepreukazuje totožnosť osoby, príbuzenský vzťah ani vlastnícke alebo dedičské právo k pozemku. Nájdené údaje je potrebné overiť v katastri nehnuteľností a ďalších dostupných dokumentoch.</p>
 </div>
@@ -83,11 +83,11 @@
 <div id="owners-message-error" class="mt-1 hidden text-[12px] text-danger">Prosím, napíšte nám správu</div>
 </div>
 <div>
-<button id="owners-submit" type="submit" disabled class="inline-flex w-full items-center justify-center gap-3 rounded-btn bg-forest px-6 py-3.5 font-label text-[12px] font-semibold uppercase tracking-[0.12em] text-white transition-colors duration-200 hover:bg-forest-dark disabled:opacity-40"><span>Odoslať advokátke</span><svg class="w-[18px] h-[18px]" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14m-6-6 6 6-6 6"/></svg></button>
+<button id="owners-submit" type="submit" disabled class="inline-flex w-full items-center justify-center gap-3 rounded-btn bg-forest px-6 py-3.5 font-label text-[12px] font-semibold uppercase tracking-[0.12em] text-white transition-colors duration-200 hover:bg-forest-dark disabled:cursor-not-allowed disabled:opacity-40 disabled:hover:bg-forest"><span>Odoslať advokátke</span><svg class="w-[18px] h-[18px]" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14m-6-6 6 6-6 6"/></svg></button>
 <p class="mt-3 text-center text-[13px] text-muted">Žiadosť bude doručená advokátke Mgr. Jane Králusovej</p>
 <div id="owners-form-status" class="mt-4 hidden font-body text-sm" role="status"></div>
 </div>
-<p class="text-[12px] leading-relaxed text-muted">Odoslaním súhlasíte so spracovaním údajov podľa <a href="{{url:privacy}}" class="text-copper underline underline-offset-2">zásad ochrany osobných údajov</a>.</p>
+<p class="text-[12px] leading-relaxed text-muted">Odoslaním súhlasíte so spracovaním údajov podľa <a href="{{url:privacy}}" class="text-copper underline underline-offset-[3px] decoration-1 transition-colors hover:text-forest">zásad ochrany osobných údajov</a>.</p>
 <input type="hidden" name="access_key" value="bfe1ae07-8f6f-4183-afb5-1ef348205f74">
 <input type="hidden" name="subject" value="Nezistení vlastníci – žiadosť z webu">
 <input type="hidden" name="from_name" value="Noveris Legal Website">
@@ -108,4 +108,4 @@
 <p class="pt-1">{{owners:link}}</p></div>
 </div></section>
 
-<a href="#owners-panel" id="owners-mbar" class="fixed inset-x-4 bottom-4 z-40 hidden rounded-btn bg-forest py-4 text-center font-label text-[12px] font-semibold uppercase tracking-[0.12em] text-white shadow-xl lg:hidden"></a>
+<a href="#owners-panel" id="owners-mbar" class="fixed inset-x-4 bottom-4 z-40 hidden rounded-btn bg-forest py-4 text-center font-label text-[12px] font-semibold uppercase tracking-[0.12em] text-white shadow-xl transition-colors duration-200 hover:bg-forest-dark lg:hidden"></a>

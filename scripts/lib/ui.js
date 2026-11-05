@@ -217,7 +217,7 @@ function articleCard({ photo, title, text, href, linkText = 'Čítať článok',
   if (d) photo = { ...photo, sizes: scaleSizes(photo.sizes, d.width / d.height / 1.5) };
   return `<article${x} class="group flex flex-col overflow-hidden rounded-card border border-line bg-card shadow-soft">`
     + `<a href="${esc(href)}"${x} tabindex="-1" aria-hidden="true" class="block aspect-[3/2] overflow-hidden">${photoImg(photo, 'h-full w-full object-cover transition-transform duration-500 group-hover:scale-[1.03]')}</a>`
-    + `<div class="flex flex-1 flex-col p-6"><h${level} class="font-headline text-[1.375rem] leading-snug text-ink"><a href="${esc(href)}"${x} class="hover:text-copper">${esc(title)}</a></h${level}>`
+    + `<div class="flex flex-1 flex-col p-6"><h${level} class="font-headline text-[1.375rem] leading-snug text-ink"><a href="${esc(href)}"${x} class="transition-colors hover:text-copper">${esc(title)}</a></h${level}>`
     + `<p class="mt-3 flex-1 text-[14px] leading-[1.6] text-body">${txt(text)}</p><div class="pt-4">${linkArrow(linkText, href, attrs)}</div></div></article>`;
 }
 

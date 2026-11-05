@@ -231,9 +231,9 @@ function toc(a) {
   if (a.headings.length < 2) return '';
   return `<nav aria-label="Obsah článku" class="mt-8">
 <details class="rounded-card border border-line bg-sand p-5" open>
-<summary class="cursor-pointer select-none font-label text-[13px] font-semibold uppercase tracking-[0.14em] text-ink focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-forest/40">Obsah článku</summary>
+<summary class="cursor-pointer select-none font-label text-[13px] font-semibold uppercase tracking-[0.14em] text-ink">Obsah článku</summary>
 <ol class="mt-3 list-decimal space-y-1.5 pl-5 text-[15px] marker:text-copper">
-${a.headings.map((h) => `<li><a href="#${h.id}" class="text-body hover:text-copper">${esc(h.text)}</a></li>`).join('\n')}
+${a.headings.map((h) => `<li><a href="#${h.id}" class="text-body transition-colors hover:text-copper">${esc(h.text)}</a></li>`).join('\n')}
 </ol>
 </details>
 </nav>`;
@@ -275,7 +275,7 @@ function authorBox(a, ctx) {
 <div class="rounded-card border border-line bg-card p-6 shadow-soft">
 <a href="/o-nas/" tabindex="-1" aria-hidden="true">${authorAvatar('h-20 w-20')}</a>
 <p class="mt-4 font-label text-[12px] font-semibold uppercase tracking-[0.16em] text-copper">${esc(ui_.boxLabel)}</p>
-<p class="mt-1 font-headline text-[1.375rem] text-ink"><a href="/o-nas/" class="hover:text-copper">${esc(bio.name)}</a></p>
+<p class="mt-1 font-headline text-[1.375rem] text-ink"><a href="/o-nas/" class="transition-colors hover:text-copper">${esc(bio.name)}</a></p>
 <p class="font-label text-[13px] text-muted">${esc(bio.role)}</p>
 <p class="mt-3 text-[14px] leading-[1.6] text-body">${esc(bio.short)}</p>
 <div class="pt-4">${ui.linkArrow(ui_.moreLink, '/o-nas/')}</div>
@@ -386,11 +386,11 @@ function articlePage(a, all, ctx) {
   const crumbItems = [{ name: SK_CRUMB.home, url: '/' }, { name: SK_CRUMB.articles, url: '/clanky/' }, { name: a.title }];
   const main = `<main>
 ${ui.hero({
-  topHtml: `<a href="/clanky/" class="mb-4 mt-4 inline-flex items-center gap-1.5 font-label text-[13px] font-semibold text-copper hover:text-forest">${ui.icon('arrow_back', 'text-[18px]')}Všetky články</a>`,
+  topHtml: `<a href="/clanky/" class="mb-4 mt-4 group inline-flex items-center gap-1.5 font-label text-[13px] font-semibold text-ink transition-colors hover:text-copper"><span class="inline-flex text-copper transition-transform duration-200 group-hover:-translate-x-1">${ui.icon('arrow_back', 'text-[18px]')}</span>Všetky články</a>`,
   crumbs: crumbItems, crumbsLabel: 'Omrvinková navigácia',
   title: a.title, size: 'long',
   extraHtml: `<div class="mt-6 flex flex-wrap items-center gap-x-5 gap-y-3">
-<a href="/o-nas/" class="flex items-center gap-3 font-label text-[14px] font-semibold text-ink hover:text-copper">${authorAvatar('h-10 w-10')}${esc(AUTHOR)}, advokátka</a>
+<a href="/o-nas/" class="flex items-center gap-3 font-label text-[14px] font-semibold text-ink transition-colors hover:text-copper">${authorAvatar('h-10 w-10')}${esc(AUTHOR)}, advokátka</a>
 <time datetime="${esc(a.date)}" class="font-label text-[13px] text-muted">${esc(formatDate(a.date))}</time>
 </div>
 <ul class="mt-4 flex flex-wrap gap-2" aria-label="Značky">
