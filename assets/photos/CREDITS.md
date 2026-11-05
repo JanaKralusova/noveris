@@ -70,7 +70,7 @@ Two photos keep a fixed crop of their original (`CROP="x y w h"` in make-photo.s
 | table2 | Amina Atar | https://unsplash.com/photos/two-men-sitting-at-a-table-with-papers-and-a-pen-Mqc-m8kgxkg | Unsplash License |
 | ware | Bernd Dittrich | https://unsplash.com/photos/iDSXatl7yNo | Unsplash License |
 | bratislava_city | Michal Vrba | https://unsplash.com/photos/zM9iO5wFnp0 | Unsplash License |
-| home_villa | AI-generated image supplied by Noveris Legal (own image) | – | Own image |
+| home_villa_warm | AI-generated image supplied by Noveris Legal (own image) | – | Own image |
 | notebook_light | Sincerely Media | https://unsplash.com/photos/white-notebook-0KwFuwdW7pU | Unsplash License |
 
 Notes:
