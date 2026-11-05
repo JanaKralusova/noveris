@@ -247,7 +247,7 @@ function specialisationBand(lang, t) {
     const page = loadService(id)[lang];
     const hero = page.sections.find((s) => s.type === 'hero');
     const title = id === 'vysporiadanie-pozemkov' ? t['services.area.vysporiadanie-pozemkov.title'] : pageTitleOf(page);
-    const img = ui.photoImg({ src: `/assets/photos/services/${hero.photo.name}`, alt: '', sizes: '(min-width: 1024px) 240px, (min-width: 640px) 42vw, 34vw' }, 'h-full w-full object-cover');
+    const img = ui.photoImg({ src: `/assets/photos/services/${hero.photo.name}`, alt: '', sizes: '(min-width: 1024px) 240px, (min-width: 640px) 42vw, 34vw' }, 'h-full w-full object-cover transition-transform duration-500 group-hover:scale-[1.03]');
     // .material-symbols-outlined inherits its colour, so the colour sits on the wrapper
     return `<a href="${esc(SERVICES[id][lang])}" class="group relative flex min-h-[6rem] items-center overflow-hidden rounded-card border border-line bg-card shadow-soft">`
       + `<span class="fade-tile absolute inset-y-0 left-0 w-[34%] sm:w-[42%]">${img}</span>`

@@ -1,5 +1,5 @@
 # Component library: every function returns an HTML string (Tailwind classes only).
-import html
+import html, re
 
 def U(i, w=800):
     return f"https://images.unsplash.com/photo-{i}?w={w}&q=80&auto=format&fit=crop"
@@ -106,13 +106,32 @@ def hero(photo, crumbs, h1, intro, bold=None, after=None, cta=None, cta_href="/k
       f'{breadcrumb(crumbs)}<h1 class="mt-5 font-headline text-[clamp(2.5rem,5vw,3.5rem)] leading-[1.1] tracking-tight text-ink">{h1}</h1>'
       f'<div class="mt-5 space-y-3">{paras}{b}{a}</div>{c}</div></div></section>')
 
+# Linked tiles: photo and title link to the card's page; the root carries `group` so hovering the card
+# zooms the photo, turns the title copper and moves the arrow. `link` is the link_arrow HTML (or None).
+ZOOM = " transition-transform duration-500 group-hover:scale-[1.03]"
+def _href(link):
+    m = re.search(r'href="([^"]*)"', link or "")
+    return m.group(1) if m else None
+def tile_photo(link, cls, img_html, img_cls):
+    """Photo box: a hidden link (aria-hidden, tabindex -1) when the card has a link, a plain div otherwise."""
+    h = _href(link)
+    if not h:
+        return f'<div class="{cls}">{img_html.format(cls=img_cls)}</div>'
+    return f'<a href="{h}" tabindex="-1" aria-hidden="true" class="block {cls.replace("overflow-hidden ", "").replace(" overflow-hidden", "")} overflow-hidden">{img_html.format(cls=img_cls + ZOOM)}</a>'
+def tile_title(link, title, href=None):
+    h = href or _href(link)
+    return f'<a href="{h}" class="transition-colors group-hover:text-copper">{title}</a>' if h else title
+def tile_group(link):
+    return "group " if _href(link) else ""
+
 def card_side(ic, title, paras, photo, link=None):
     ps = "".join(f'<p class="text-[14px] leading-[1.6] text-body md:text-[15px]">{p}</p>' for p in paras)
     l = f'<div class="pt-4">{link}</div>' if link else ''
-    return (f'<article class="flex flex-col overflow-hidden rounded-card border border-line bg-card shadow-soft sm:flex-row">'
-      f'<div class="flex-1 p-6">{chip(ic)}<h3 class="mt-4 font-headline text-[1.375rem] leading-snug text-ink md:text-[1.5rem]">{title}</h3>'
+    im = f'<img src="{P(photo,600)}" alt="" loading="lazy" class="{{cls}}"/>'
+    return (f'<article class="{tile_group(link)}flex flex-col overflow-hidden rounded-card border border-line bg-card shadow-soft sm:flex-row">'
+      f'<div class="flex-1 p-6">{chip(ic)}<h3 class="mt-4 font-headline text-[1.375rem] leading-snug text-ink md:text-[1.5rem]">{tile_title(link, title)}</h3>'
       f'<div class="mt-3 space-y-3">{ps}</div>{l}</div>'
-      f'<div class="relative order-first h-44 sm:order-last sm:h-auto sm:w-[34%] sm:shrink-0"><img src="{P(photo,600)}" alt="" loading="lazy" class="absolute inset-0 h-full w-full object-cover"/></div></article>')
+      + tile_photo(link, "relative order-first h-44 sm:order-last sm:h-auto sm:w-[34%] sm:shrink-0", im, "absolute inset-0 h-full w-full object-cover") + '</article>')
 
 def card_top(ic, title, paras, photo):
     ps = "".join(f'<p class="text-[14px] leading-[1.6] text-body md:text-[15px]">{p}</p>' for p in paras)
@@ -124,8 +143,8 @@ def card_compact(ic, title, text, photo):
       f'<div class="p-4">{chip(ic)}<h3 class="mt-3 font-headline text-[1.125rem] leading-snug text-ink">{title}</h3><p class="mt-2 text-[13px] leading-normal text-body">{text}</p></div></article>')
 
 def card_icon(ic, title, text, href="#"):
-    return (f'<article class="flex flex-col rounded-card border border-line bg-card p-6 shadow-soft">{chip(ic)}'
-      f'<h3 class="mt-4 font-headline text-[1.375rem] leading-snug text-ink md:text-[1.5rem]">{title}</h3>'
+    return (f'<article class="group flex flex-col rounded-card border border-line bg-card p-6 shadow-soft">{chip(ic)}'
+      f'<h3 class="mt-4 font-headline text-[1.375rem] leading-snug text-ink md:text-[1.5rem]">{tile_title(None, title, href)}</h3>'
       f'<p class="mt-3 flex-1 text-[14px] leading-[1.6] text-body md:text-[15px]">{text}</p><div class="pt-5">{link_arrow("Viac o službe", href)}</div></article>')
 
 def steps_h(steps):
@@ -167,9 +186,10 @@ def two_col(eb1, h1, p1, eb2, h2, p2):
     return f'<div class="grid gap-10 md:grid-cols-2 md:gap-14">{col(eb1,h1,p1)}{col(eb2,h2,p2)}</div>'
 
 def related_band(eb, title, text, link, photo):
-    return (f'<div class="flex flex-col overflow-hidden rounded-card border border-line bg-sand sm:flex-row"><div class="flex-1 p-6 md:p-8">{eyebrow(eb)}'
-      f'<h3 class="mt-2 font-headline text-[1.5rem] leading-snug text-ink md:text-[1.75rem]">{title}</h3><p class="mt-3 text-[15px] leading-[1.6] text-body">{text}</p><div class="pt-4">{link}</div></div>'
-      f'<div class="relative h-40 sm:h-auto sm:w-[32%]"><img src="{P(photo,700)}" alt="" loading="lazy" class="absolute inset-0 h-full w-full object-cover"/></div></div>')
+    im = f'<img src="{P(photo,700)}" alt="" loading="lazy" class="{{cls}}"/>'
+    return (f'<div class="{tile_group(link)}flex flex-col overflow-hidden rounded-card border border-line bg-sand sm:flex-row"><div class="flex-1 p-6 md:p-8">{eyebrow(eb)}'
+      f'<h3 class="mt-2 font-headline text-[1.5rem] leading-snug text-ink md:text-[1.75rem]">{tile_title(link, title)}</h3><p class="mt-3 text-[15px] leading-[1.6] text-body">{text}</p><div class="pt-4">{link}</div></div>'
+      + tile_photo(link, "relative h-40 sm:h-auto sm:w-[32%]", im, "absolute inset-0 h-full w-full object-cover") + '</div>')
 
 def contact_band(title, paras, cta, photo="plant", cta_href="/kontakt/"):
     ps = "".join(f'<p class="text-[15px] leading-[1.6] text-white/90 md:text-[16px]">{p}</p>' for p in paras)
@@ -192,9 +212,9 @@ def footer():
       '<p>© 2026 Noveris Legal s. r. o. Všetky práva vyhradené.</p><a href="/ochrana-osobnych-udajov/" class="hover:text-copper hover:underline">Ochrana osobných údajov</a></div></div></footer>')
 
 def article_tile(photo, date, title, text, href="#"):
-    return (f'<article class="group flex flex-col overflow-hidden rounded-card border border-line bg-card shadow-soft"><a href="{href}" class="block h-44 overflow-hidden"><img src="{P(photo,700)}" alt="" loading="lazy" class="h-full w-full object-cover transition-transform duration-500 group-hover:scale-[1.03]"/></a>'
+    return (f'<article class="group flex flex-col overflow-hidden rounded-card border border-line bg-card shadow-soft"><a href="{href}" tabindex="-1" aria-hidden="true" class="block h-44 overflow-hidden"><img src="{P(photo,700)}" alt="" loading="lazy" class="h-full w-full object-cover transition-transform duration-500 group-hover:scale-[1.03]"/></a>'
       f'<div class="flex flex-1 flex-col p-6"><time datetime="2026-10-20" class="font-label text-[12px] font-semibold uppercase tracking-[0.16em] text-copper">{date}</time>'
-      f'<h3 class="mt-2 font-headline text-[1.375rem] leading-snug text-ink"><a href="{href}" class="hover:text-copper">{title}</a></h3>'
+      f'<h3 class="mt-2 font-headline text-[1.375rem] leading-snug text-ink"><a href="{href}" class="transition-colors group-hover:text-copper">{title}</a></h3>'
       f'<p class="mt-2 flex-1 text-[14px] leading-[1.6] text-body">{text}</p><div class="pt-4">{link_arrow("Čítať článok", href)}</div></div></article>')
 
 def quote(text, cite):

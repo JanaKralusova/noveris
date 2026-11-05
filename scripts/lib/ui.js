@@ -172,27 +172,38 @@ function heroQuote({ text, cite }) {
     + `<figcaption class="mt-3 font-label text-[12px] text-muted">${txt(cite)}</figcaption></figure>`;
 }
 
+// Linked tiles: the photo and the title link to the card's page (the photo link is hidden from keyboard and
+// screen readers, the title link is the real one); the card root carries `group`, so hovering anywhere zooms
+// the photo, turns the title copper and nudges the arrow. Without a link the tile stays plain.
+const ZOOM = ' transition-transform duration-500 group-hover:scale-[1.03]';
+const tileGroup = (link) => (link ? 'group ' : '');
+const tilePhoto = (link, cls, photo, imgCls) => (link
+  ? `<a href="${esc(link.href)}"${xattr(link.attrs)} tabindex="-1" aria-hidden="true" class="block ${cls.replace(/\boverflow-hidden\s?/, '').trim()} overflow-hidden">${photoImg(photo, imgCls + ZOOM)}</a>`
+  : `<div class="${cls}">${photoImg(photo, imgCls)}</div>`);
+const tileTitle = (link, title) => (link
+  ? `<a href="${esc(link.href)}"${xattr(link.attrs)} class="transition-colors group-hover:text-copper">${esc(title)}</a>` : esc(title));
+
 // Large specialisation card (home band): big photo, title, text, arrow link.
 function cardFeature({ title, text, photo, link }) {
   needPhoto(photo, 'cardFeature');
-  return '<article class="flex flex-col overflow-hidden rounded-card border border-line bg-card shadow-soft">'
-    + `<div class="aspect-[16/10] overflow-hidden">${photoImg(photo, 'h-full w-full object-cover')}</div>`
-    + `<div class="flex flex-1 flex-col p-6 md:p-8"><h3 class="font-headline text-[1.5rem] leading-snug text-ink md:text-[1.75rem]">${esc(title)}</h3>`
+  return `<article class="${tileGroup(link)}flex flex-col overflow-hidden rounded-card border border-line bg-card shadow-soft">`
+    + tilePhoto(link, 'aspect-[16/10] overflow-hidden', photo, 'h-full w-full object-cover')
+    + `<div class="flex flex-1 flex-col p-6 md:p-8"><h3 class="font-headline text-[1.5rem] leading-snug text-ink md:text-[1.75rem]">${tileTitle(link, title)}</h3>`
     + `<p class="mt-3 flex-1 text-[15px] leading-[1.6] text-body md:text-[16px]">${txt(text)}</p>${linkBlock(link, 'pt-5')}</div></article>`;
 }
 
 function cardSide({ icon: ic, title, paras: ps, photo, link }) {
   needPhoto(photo, 'cardSide');
-  return '<article class="flex flex-col overflow-hidden rounded-card border border-line bg-card shadow-soft sm:flex-row">'
-    + `<div class="flex-1 p-6">${chip(ic)}<h3 class="mt-4 font-headline text-[1.375rem] leading-snug text-ink md:text-[1.5rem]">${esc(title)}</h3>`
+  return `<article class="${tileGroup(link)}flex flex-col overflow-hidden rounded-card border border-line bg-card shadow-soft sm:flex-row">`
+    + `<div class="flex-1 p-6">${chip(ic)}<h3 class="mt-4 font-headline text-[1.375rem] leading-snug text-ink md:text-[1.5rem]">${tileTitle(link, title)}</h3>`
     + `<div class="mt-3 space-y-3">${paras(ps, 'text-[14px] leading-[1.6] text-body md:text-[15px]')}</div>${linkBlock(link, 'pt-4')}</div>`
-    + `<div class="relative order-first h-44 sm:order-last sm:h-auto sm:w-[34%] sm:shrink-0">${photoImg(photo, 'absolute inset-0 h-full w-full object-cover')}</div></article>`;
+    + `${tilePhoto(link, 'relative order-first h-44 sm:order-last sm:h-auto sm:w-[34%] sm:shrink-0', photo, 'absolute inset-0 h-full w-full object-cover')}</article>`;
 }
 
 function cardTop({ icon: ic, title, paras: ps, photo, link }) {
   needPhoto(photo, 'cardTop');
-  return `<article class="overflow-hidden rounded-card border border-line bg-card shadow-soft"><div class="h-40">${photoImg(photo, 'h-full w-full object-cover')}</div>`
-    + `<div class="p-6">${chip(ic)}<h3 class="mt-4 font-headline text-[1.375rem] leading-snug text-ink md:text-[1.5rem]">${esc(title)}</h3>`
+  return `<article class="${tileGroup(link)}overflow-hidden rounded-card border border-line bg-card shadow-soft">${tilePhoto(link, 'h-40', photo, 'h-full w-full object-cover')}`
+    + `<div class="p-6">${chip(ic)}<h3 class="mt-4 font-headline text-[1.375rem] leading-snug text-ink md:text-[1.5rem]">${tileTitle(link, title)}</h3>`
     + `<div class="mt-3 space-y-3">${paras(ps, 'text-[14px] leading-[1.6] text-body md:text-[15px]')}</div>${linkBlock(link, 'pt-4')}</div></article>`;
 }
 
@@ -203,8 +214,8 @@ function cardCompact({ icon: ic, title, text, photo }) {
 }
 
 function cardIcon({ icon: ic, title, text, href, linkText = 'Viac o službe', attrs = '' }) {
-  return `<article class="flex flex-col rounded-card border border-line bg-card p-6 shadow-soft">${chip(ic)}`
-    + `<h3 class="mt-4 font-headline text-[1.375rem] leading-snug text-ink md:text-[1.5rem]">${esc(title)}</h3>`
+  return `<article class="group flex flex-col rounded-card border border-line bg-card p-6 shadow-soft">${chip(ic)}`
+    + `<h3 class="mt-4 font-headline text-[1.375rem] leading-snug text-ink md:text-[1.5rem]">${tileTitle({ href, attrs }, title)}</h3>`
     + `<p class="mt-3 flex-1 text-[14px] leading-[1.6] text-body md:text-[15px]">${txt(text)}</p><div class="pt-5">${linkArrow(linkText, href, attrs)}</div></article>`;
 }
 
@@ -217,7 +228,7 @@ function articleCard({ photo, title, text, href, linkText = 'Čítať článok',
   if (d) photo = { ...photo, sizes: scaleSizes(photo.sizes, d.width / d.height / 1.5) };
   return `<article${x} class="group flex flex-col overflow-hidden rounded-card border border-line bg-card shadow-soft">`
     + `<a href="${esc(href)}"${x} tabindex="-1" aria-hidden="true" class="block aspect-[3/2] overflow-hidden">${photoImg(photo, 'h-full w-full object-cover transition-transform duration-500 group-hover:scale-[1.03]')}</a>`
-    + `<div class="flex flex-1 flex-col p-6"><h${level} class="font-headline text-[1.375rem] leading-snug text-ink"><a href="${esc(href)}"${x} class="transition-colors hover:text-copper">${esc(title)}</a></h${level}>`
+    + `<div class="flex flex-1 flex-col p-6"><h${level} class="font-headline text-[1.375rem] leading-snug text-ink"><a href="${esc(href)}"${x} class="transition-colors group-hover:text-copper">${esc(title)}</a></h${level}>`
     + `<p class="mt-3 flex-1 text-[14px] leading-[1.6] text-body">${txt(text)}</p><div class="pt-4">${linkArrow(linkText, href, attrs)}</div></div></article>`;
 }
 
@@ -282,9 +293,9 @@ function twoCol(left, right) {
 
 function relatedBand({ eyebrow: eb, title, text, link, photo }) {
   needPhoto(photo, 'relatedBand');
-  return `<div class="flex flex-col overflow-hidden rounded-card border border-line bg-sand sm:flex-row"><div class="flex-1 p-6 md:p-8">${eyebrow(eb)}`
-    + `<h3 class="mt-2 font-headline text-[1.5rem] leading-snug text-ink md:text-[1.75rem]">${esc(title)}</h3><p class="mt-3 text-[15px] leading-[1.6] text-body">${txt(text)}</p>${linkBlock(link, 'pt-4')}</div>`
-    + `<div class="relative h-40 sm:h-auto sm:w-[32%]">${photoImg(photo, 'absolute inset-0 h-full w-full object-cover')}</div></div>`;
+  return `<div class="${tileGroup(link)}flex flex-col overflow-hidden rounded-card border border-line bg-sand sm:flex-row"><div class="flex-1 p-6 md:p-8">${eyebrow(eb)}`
+    + `<h3 class="mt-2 font-headline text-[1.5rem] leading-snug text-ink md:text-[1.75rem]">${tileTitle(link, title)}</h3><p class="mt-3 text-[15px] leading-[1.6] text-body">${txt(text)}</p>${linkBlock(link, 'pt-4')}</div>`
+    + `${tilePhoto(link, 'relative h-40 sm:h-auto sm:w-[32%]', photo, 'absolute inset-0 h-full w-full object-cover')}</div>`;
 }
 
 function prose({ eyebrow: eb, title, paras: ps, bg = 'paper' }) {

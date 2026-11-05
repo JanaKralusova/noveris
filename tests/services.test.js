@@ -22,7 +22,7 @@ test('vysporiadanie-pozemkov page exists with one h1', () => {
 
 test('contains all six card titles verbatim', () => {
   const html = read(PAGE);
-  for (const t of TITLES) assert.ok(html.includes(`>${t}</h3>`), t);
+  for (const t of TITLES) assert.ok(html.includes(`>${t}</h3>`) || html.includes(`>${t}</a></h3>`), t);
 });
 
 test('links to the sub-page and the cost article', () => {

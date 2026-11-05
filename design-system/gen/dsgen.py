@@ -148,7 +148,7 @@ def build():
       section_header("Ako postupujeme","Ako prebieha vysporiadanie pozemkov?","Každý prípad posudzujeme s ohľadom na právny stav nehnuteľností.")+'')
     # cards
     b+=h2("c-cards","Cards")
-    b+=comp("c-card-side","Service card with side image","long text cards (2 per row on desktop); image right, on mobile on top. Optional text link at the bottom.",
+    b+=comp("c-card-side","Service card with side image","long text cards (2 per row on desktop); image right, on mobile on top. Optional text link at the bottom. Linked tiles: photo and title are links; hovering the card zooms the photo (scale 1.03, 500 ms), turns the title copper and moves the arrow.",
       '<div class="grid gap-5 lg:grid-cols-2">'+card_side(*CARDS[1])+card_side(*CARDS[5])+'</div>')
     b+=comp("c-card-top","Service card with top image","services in 3 columns (e.g. contract agenda).",
       '<div class="grid gap-5 md:grid-cols-3">'+card_top("description","Príprava zmlúv",["Pripravujeme zmluvy podľa povahy konkrétneho právneho vzťahu a požiadaviek klienta."],"plan2")
@@ -179,7 +179,7 @@ def build():
       contact_band("Potrebujete vysporiadať pozemok?",["Ak máte nevysporiadané vlastnícke vzťahy k pozemku alebo potrebujete preveriť možnosti ich riešenia, obráťte sa na nás.","Po oboznámení sa s Vašou situáciou posúdime možnosti ďalšieho právneho postupu."],"Dohodnite si konzultáciu"),pad=False)
     b+=h2("c-footer","Footer")+comp("c-footer-c","Footer (3 columns)","every page. Real contact details only.",footer(),pad=False)
     b+=h2("c-articles","Articles")
-    b+=comp("c-article-tile","Article tile (restyled)","the /clanky/ list and related-article rows.",
+    b+=comp("c-article-tile","Article tile (restyled)","the /clanky/ list and related-article rows. Linked tiles: photo and title are links; hovering the card zooms the photo (scale 1.03, 500 ms), turns the title copper and moves the arrow.",
       '<div class="grid gap-5 md:grid-cols-3">'+article_tile("farm1","20. 10. 2026","Koľko stojí vysporiadanie pozemku","Od čoho závisí cena, s akými výdavkami na právne služby, geodeta, znalca a poplatky počítať a kedy je dohoda lacnejšia ako súd.")
       +article_tile("cem2","20. 10. 2026","Neprededené pozemky po rodičoch","Ako zistiť, ktoré pozemky v dedičstve chýbajú, ako prebieha dodatočné konanie a čo ak medzičasom zomreli ďalší dedičia.")+'</div>')
     b+=comp("c-article-body","Article body typography","long-form article text (class .ds-article in ds.css; replaces .article-body). 16px / 1.7, copper links, copper list markers.",'<div class="max-w-2xl">'+sample_art+'</div>')

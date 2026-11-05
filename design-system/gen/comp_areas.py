@@ -28,8 +28,9 @@ def card_top_link(ic, title, paras, photo, link=None):
     """Use when a top-image card needs a trailing text link (card_top has none)."""
     ps = "".join(f'<p class="text-[14px] leading-[1.6] text-body md:text-[15px]">{p}</p>' for p in paras)
     l = f'<div class="pt-4">{link}</div>' if link else ''
-    return (f'<article class="overflow-hidden rounded-card border border-line bg-card shadow-soft"><div class="h-40"><img src="{P(photo,700)}" alt="" loading="lazy" class="h-full w-full object-cover"/></div>'
-      f'<div class="p-6">{chip(ic)}<h3 class="mt-4 font-headline text-[1.375rem] leading-snug text-ink md:text-[1.5rem]">{title}</h3><div class="mt-3 space-y-3">{ps}</div>{l}</div></article>')
+    im = f'<img src="{P(photo,700)}" alt="" loading="lazy" class="{{cls}}"/>'
+    return (f'<article class="{tile_group(link)}overflow-hidden rounded-card border border-line bg-card shadow-soft">' + tile_photo(link, "h-40", im, "h-full w-full object-cover") +
+      f'<div class="p-6">{chip(ic)}<h3 class="mt-4 font-headline text-[1.375rem] leading-snug text-ink md:text-[1.5rem]">{tile_title(link, title)}</h3><div class="mt-3 space-y-3">{ps}</div>{l}</div></article>')
 
 def prose_section(eb, title, paras, bg="bg-paper"):
     """Use when a text-only section (heading plus paragraphs, no image) is needed after the cards."""

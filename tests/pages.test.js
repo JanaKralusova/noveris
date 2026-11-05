@@ -128,3 +128,19 @@ test('article pages: no big full-width image block, hero photo is the article ph
     assert.ok(html.includes(`/assets/articles/${name}-640.jpg`) || html.includes(`/assets/articles/${name}-800.jpg`), `${slug}: hero photo`);
   }
 });
+
+test('linked tiles: services cards have photo link + title link, home icon cards have title links', () => {
+  const html = read('sluzby/index.html');
+  const cards = [...html.matchAll(/<article class="group [^"]*">([\s\S]*?)<\/article>/g)].filter((m) => m[1].includes('Viac o službe'));
+  assert.ok(cards.length >= 6, 'service cards found');
+  for (const [, body] of cards) {
+    const href = /<a href="([^"]+)"[^>]*class="group inline-flex/.exec(body)[1];
+    assert.ok(body.includes(`<a href="${href}" tabindex="-1" aria-hidden="true"`), `photo link ${href}`);
+    assert.ok(new RegExp(`<h3[^>]*><a href="${href}"[^>]*group-hover:text-copper`).test(body), `title link ${href}`);
+    assert.ok(/<img[^>]*group-hover:scale-\[1\.03\]/.test(body), `img zoom ${href}`);
+  }
+  const home = read('index.html');
+  const icons = [...home.matchAll(/<article class="group flex flex-col rounded-card[^"]*">([\s\S]*?)<\/article>/g)];
+  assert.ok(icons.length > 0, 'home icon cards found');
+  for (const [, body] of icons) assert.ok(/<h3[^>]*><a href="[^"]+"[^>]*group-hover:text-copper/.test(body));
+});
