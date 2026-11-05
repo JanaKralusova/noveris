@@ -321,7 +321,7 @@ function listingPage(articles, ctx) {
 ${ui.hero({
   crumbs: [{ name: SK_CRUMB.home, url: '/' }, { name: SK_CRUMB.articles }], crumbsLabel: 'Omrvinková navigácia',
   label: l.label, titleHtml: l.h1Html, intro: [l.intro],
-  photo: { src: '/assets/photos/services/notebook_light', alt: '', sizes: '(min-width: 1024px) 62vw, 100vw', eager: true },
+  photo: { src: '/assets/photos/services/articles_desk', alt: '', sizes: '(min-width: 1024px) 62vw, 100vw', eager: true, style: 'object-position: 100% 50%;', variants: ['400', '560', '800', '1200', ''] },
 })}
 ${ui.section(`<div class="grid gap-5 md:grid-cols-2 lg:grid-cols-3 lg:gap-6">
 ${articles.map((a) => tile(a, { level: 2, root: ctx.outRoot })).join('\n')}

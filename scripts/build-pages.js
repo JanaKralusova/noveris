@@ -165,7 +165,7 @@ function applyServicesHero(html, t, lang) {
     label: t['services.hero.label'],
     title: t['services.hero.h1'],
     intro: [t['services.hero.desc']],
-    photo: { src: '/assets/photos/services/s_hero', alt: '', sizes: '(min-width: 1024px) 52vw, 100vw', eager: true },
+    photo: { src: '/assets/photos/services/services_desk', alt: '', sizes: HERO_SIZES, eager: true, style: 'object-position: 100% 50%;', variants: ['400', '560', '800', '1200', ''] },
   }));
 }
 
@@ -221,7 +221,7 @@ function heroFor(id, lang, t, ctx) {
         titleHtml: 'Patrí pozemok <span class="italic text-copper">vašej rodine?</span>',
         intro: ['Na Slovensku sa nachádzajú pozemky, ktorých vlastníci nie sú dostatočne identifikovaní alebo nie je známe ich miesto pobytu. Medzi týmito vlastníkmi môžu byť aj vaši predkovia, po ktorých zostali nevysporiadané pozemky.'],
         bold: 'Vyhľadajte priezvisko svojho predka, obec alebo číslo listu vlastníctva a zistite, či sa v zozname nezistených vlastníkov nachádzajú záznamy, ktoré môžu súvisieť s vašou rodinou.',
-        photo: photo('fields'),
+        photo: photo('owners_tree', { style: 'object-position: 100% 50%;' }),
       });
     case 'privacy':
       return ui.hero({

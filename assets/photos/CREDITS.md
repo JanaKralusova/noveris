@@ -56,7 +56,6 @@ Two photos keep a fixed crop of their original (`CROP="x y w h"` in make-photo.s
 | s_contract | 2H Media | https://unsplash.com/photos/spScdgWY-_c | Unsplash License |
 | s_court | Titus Seawright | https://unsplash.com/photos/-iWupXHt9No | Unsplash License |
 | s_dev | Skyler Smith | https://unsplash.com/photos/jj4vhcJ-LRk | Unsplash License |
-| s_hero | Oona Ahonen | https://unsplash.com/photos/BLZQ8B7Euxc | Unsplash License |
 | s_land | Bernd Dittrich | https://unsplash.com/photos/3FeutXJdruk | Unsplash License |
 | sign1 | Leon Seibert | https://unsplash.com/photos/person-writing-on-white-form-paper-9i5eqBarv-k | Unsplash License |
 | sign2 | Cytonn Photography | https://unsplash.com/photos/person-writing-on-white-paper-GJao3ZTX9gU | Unsplash License |
@@ -71,9 +70,11 @@ Two photos keep a fixed crop of their original (`CROP="x y w h"` in make-photo.s
 | ware | Bernd Dittrich | https://unsplash.com/photos/iDSXatl7yNo | Unsplash License |
 | bratislava_city | Michal Vrba | https://unsplash.com/photos/zM9iO5wFnp0 | Unsplash License |
 | home_villa_warm | AI-generated image supplied by Noveris Legal (own image) | – | Own image |
-| notebook_light | Sincerely Media | https://unsplash.com/photos/white-notebook-0KwFuwdW7pU | Unsplash License |
+| services_desk | AI-generated image supplied by Noveris Legal (own image) | – | Own image |
+| articles_desk | AI-generated image supplied by Noveris Legal (own image) | – | Own image |
+| owners_tree | AI-generated image supplied by Noveris Legal (own image) | – | Own image |
 
 Notes:
-- `home_house` (Potsdam, Germany) is the home hero, cropped to remove the house number; `bratislava_city` (castle, old town, Danube) is the contact hero.
-- `interior`, `s_hero`, `justice2` replace the prototype photos (3D render, street with a German road sign, greyscale Lady Justice).
+- `bratislava_city` (castle, old town, Danube) is the contact hero.
+- `interior`, `justice2` replace the prototype photos (3D render, street with a German road sign, greyscale Lady Justice).
 - `band1` to `band4` are the closing contact-band photos; they replace the repeated `plant` and are rotated between pages.
