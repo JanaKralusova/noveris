@@ -229,7 +229,7 @@ function heroFor(id, lang, t, ctx) {
         topHtml: `<a href="${layout.esc(href('contact'))}" class="mb-4 mt-4 group inline-flex items-center gap-1.5 font-label text-[13px] font-semibold text-ink transition-colors hover:text-copper"><span class="inline-flex text-copper transition-transform duration-200 group-hover:-translate-x-1">${ui.icon('arrow_back', 'text-[18px]')}</span><span>${layout.esc(t['privacy.back'])}</span></a>`,
         title: PRIVACY_NAME,
         intro: [PRIVACY_INTRO],
-        photo: photo('folders'),
+        photo: photo('privacy_desk', { style: 'object-position: 100% 50%;' }),
       });
     default:
       fail(`no hero defined for page "${id}"`);

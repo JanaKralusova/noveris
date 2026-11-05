@@ -73,6 +73,7 @@ Photos are centre-cropped to at most 4:3 (make-photo.sh); `CROP="x y w h"` cuts 
 | articles_desk | AI-generated image supplied by Noveris Legal (own image) | – | Own image |
 | owners_tree | AI-generated image supplied by Noveris Legal (own image) | – | Own image |
 | bratislava_castle | AI-generated image supplied by Noveris Legal (own image) | – | Own image |
+| privacy_desk | AI-generated image supplied by Noveris Legal (own image) | – | Own image |
 
 Notes:
 - `bratislava_castle` (castle, old town, Danube) is the contact hero.
