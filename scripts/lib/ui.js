@@ -388,7 +388,7 @@ function renderSections(sections) {
 }
 
 module.exports = {
-  icon, eyebrow, button, linkArrow, breadcrumb, chip, section, sectionHeader, hero, heroQuote, cardFeature,
+  icon, photoImg, eyebrow, button, linkArrow, breadcrumb, chip, section, sectionHeader, hero, heroQuote, cardFeature,
   cardSide, cardTop, cardCompact, cardIcon, articleCard, stepsH, stepsV, splitBand, splitTextList,
   callout, iconList, twoCol, relatedBand, prose, quote, contactBand, cardGrid, renderSections,
 };

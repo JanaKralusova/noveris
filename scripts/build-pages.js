@@ -238,21 +238,54 @@ function heroFor(id, lang, t, ctx) {
 }
 
 // {{specialisation}}: home band with the two core service pages; nothing while a page is hidden in this language.
+// SPEC_VARIANT picks one of the layouts under review: a = split with photo link tiles, b = dark forest panel,
+// c = heading row with two horizontal photo cards.
 const SPEC_IDS = ['vysporiadanie-pozemkov', 'pozemky-pod-stavbami'];
-function specialisationBand(lang, t) {
+function specialisationBand(lang, t, variant = process.env.SPEC_VARIANT || 'a') {
   if (!SPEC_IDS.every((id) => hasLang(id, lang))) return '';
-  const cards = SPEC_IDS.map((id) => {
-    const hero = loadService(id)[lang].sections.find((s) => s.type === 'hero');
-    const text = id === 'vysporiadanie-pozemkov' ? t['services.area.vysporiadanie-pozemkov.desc'] : hero.intro[0];
-    const title = id === 'vysporiadanie-pozemkov' ? t['services.area.vysporiadanie-pozemkov.title'] : pageTitleOf(loadService(id)[lang]);
-    return ui.cardFeature({
-      title, text,
-      link: { text: t['services.card.more'], href: SERVICES[id][lang] },
-      photo: { src: `/assets/photos/services/${hero.photo.name}`, alt: '', sizes: '(min-width: 1280px) 596px, (min-width: 1024px) calc((100vw - 104px) / 2), calc(100vw - 48px)' },
-    });
+  const items = SPEC_IDS.map((id) => {
+    const page = loadService(id)[lang];
+    const hero = page.sections.find((s) => s.type === 'hero');
+    return {
+      href: SERVICES[id][lang],
+      title: id === 'vysporiadanie-pozemkov' ? t['services.area.vysporiadanie-pozemkov.title'] : pageTitleOf(page),
+      src: `/assets/photos/services/${hero.photo.name}`,
+    };
   });
-  return `<section class="bg-paper pb-12 pt-4 md:pb-16"><div class="mx-auto max-w-7xl px-6 lg:px-8"><h2 class="mb-8 font-headline text-[2rem] leading-[1.15] text-ink md:mb-10 md:text-[2.5rem]">${layout.esc(t['home.specialisation.h2'])}</h2>`
-    + `<div class="grid gap-5 lg:grid-cols-2 lg:gap-6">${cards.join('')}</div></div></section>`;
+  const esc = layout.esc;
+  const thumb = (it, cls, sizes) => ui.photoImg({ src: it.src, alt: '', sizes }, cls);
+  // .material-symbols-outlined inherits its colour, so the colour sits on the wrapper
+  const arrow = (cls, size = 'text-[20px]') => `<span class="inline-flex transition-transform duration-200 group-hover:translate-x-1 ${cls}">${ui.icon('arrow_forward', size)}</span>`;
+  const head = (dark) => `${ui.eyebrow(t['home.specialisation.label'], { dark })}`
+    + `<h2 class="mt-2 font-headline text-[1.875rem] leading-[1.15] ${dark ? 'text-white' : 'text-ink'} md:text-[2.25rem]">${esc(t['home.specialisation.h2'])}</h2>`;
+  const desc = (cls) => `<p class="${cls}">${esc(t['home.specialisation.desc'])}</p>`;
+  const open = (cls) => `<section data-band="specialisation" class="${cls}"><div class="mx-auto max-w-7xl px-6 lg:px-8">`;
+  if (variant === 'b') {
+    const links = items.map((it) => `<a href="${esc(it.href)}" class="group flex items-center gap-4 rounded-card bg-white/5 p-3 pr-5 ring-1 ring-white/15 transition-colors duration-200 hover:bg-white/10">`
+      + `<span class="h-16 w-24 shrink-0 overflow-hidden rounded-[10px]">${thumb(it, 'h-full w-full object-cover', '96px')}</span>`
+      + `<span class="flex-1 font-headline text-[1.125rem] leading-snug text-white md:text-[1.25rem]">${esc(it.title)}</span>${arrow('text-copper-light')}</a>`);
+    return open('bg-paper pb-12 pt-4 md:pb-16')
+      + '<div class="grid items-center gap-8 rounded-card bg-forest p-7 md:p-10 lg:grid-cols-2 lg:gap-14 lg:p-12">'
+      + `<div>${head(true)}${desc('mt-4 text-[15px] leading-[1.65] text-white/80 md:text-[16px]')}</div>`
+      + `<div class="space-y-3">${links.join('')}</div></div></div></section>`;
+  }
+  if (variant === 'c') {
+    const cards = items.map((it) => `<a href="${esc(it.href)}" class="group flex overflow-hidden rounded-card border border-line bg-card shadow-soft transition-colors duration-200 hover:border-forest">`
+      + `<span class="relative w-[38%] shrink-0 overflow-hidden">${thumb(it, 'absolute inset-0 h-full w-full object-cover transition-transform duration-500 group-hover:scale-105', '(min-width: 1280px) 225px, (min-width: 768px) calc((100vw - 84px) * 0.19), 38vw')}</span>`
+      + `<span class="flex min-h-[9.5rem] flex-1 flex-col justify-between gap-4 p-5 md:p-6"><span class="font-headline text-[1.25rem] leading-snug text-ink md:text-[1.375rem]">${esc(it.title)}</span>`
+      + `<span class="inline-flex items-center gap-2 font-label text-[13px] font-semibold text-copper">${esc(t['services.card.more'])}${arrow('', 'text-[18px]')}</span></span></a>`);
+    return open('bg-paper pb-12 pt-4 md:pb-16')
+      + `<div class="mb-6 flex flex-col gap-4 md:mb-8 md:flex-row md:items-end md:justify-between md:gap-12"><div class="max-w-xl">${head(false)}</div>`
+      + `${desc('max-w-md text-[15px] leading-[1.65] text-body')}</div>`
+      + `<div class="grid gap-5 md:grid-cols-2 lg:gap-6">${cards.join('')}</div></div></section>`;
+  }
+  const tiles = items.map((it) => `<a href="${esc(it.href)}" class="group flex items-center gap-4 rounded-card border border-line bg-card p-3 pr-5 shadow-soft transition-colors duration-200 hover:border-forest">`
+    + `<span class="h-16 w-16 shrink-0 overflow-hidden rounded-[10px]">${thumb(it, 'h-full w-full object-cover', '64px')}</span>`
+    + `<span class="flex-1 font-headline text-[1.125rem] leading-snug text-ink md:text-[1.25rem]">${esc(it.title)}</span>${arrow('text-copper')}</a>`);
+  return open('bg-paper pb-12 pt-4 md:pb-16')
+    + '<div class="grid items-center gap-8 rounded-card bg-sand p-7 md:p-10 lg:grid-cols-[0.9fr_1.1fr] lg:gap-14 lg:p-12">'
+    + `<div class="lg:border-r lg:border-line lg:pr-14">${head(false)}</div>`
+    + `<div>${desc('text-[15px] leading-[1.65] text-body md:text-[16px]')}<div class="mt-5 space-y-3">${tiles.join('')}</div></div></div></div></section>`;
 }
 
 // {{contactBand:band1}}: closing contact band (dark green) with a photo from assets/photos/services.

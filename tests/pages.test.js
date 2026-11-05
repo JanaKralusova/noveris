@@ -18,10 +18,16 @@ test('services page: six "Viac o službe" links that resolve, no debt collection
   assert.ok(!/<h[1-6][^>]*>\s*Vymáhanie pohľadávok/.test(html));
 });
 
-test('home page: six service links plus the two specialisation cards', () => {
+test('home page: six service links plus the two specialisation links', () => {
   const html = read('index.html');
-  const links = [...html.matchAll(/<a href="(\/sluzby\/[^"]+)"[^>]*>Viac o službe/g)].map((m) => m[1]);
-  assert.strictEqual(links.length, 8);
+  const i = html.indexOf('<section data-band="specialisation"');
+  const band = html.slice(i, html.indexOf('</section>', i));
+  const rest = html.slice(0, i) + html.slice(i + band.length);
+  const links = [...rest.matchAll(/<a href="(\/sluzby\/[^"]+)"[^>]*>Viac o službe/g)].map((m) => m[1]);
+  assert.strictEqual(links.length, 6);
+  const bandLinks = [...band.matchAll(/<a href="(\/sluzby\/[^"]+)"/g)].map((m) => m[1]);
+  assert.strictEqual(bandLinks.length, 2);
+  links.push(...bandLinks);
   for (const u of links) assert.ok(resolves(u), `${u} does not resolve`);
   assert.ok(html.includes('Zobraziť všetky oblasti poradenstva'));
 });
@@ -93,18 +99,19 @@ test('every built page except 404 has the shared fade-photo hero with an h1', ()
 
 test('SK home: specialisation band (h2) links to both core service pages, before the profile section', () => {
   const html = read('index.html');
-  const i = html.indexOf('<h2 class="mb-8 font-headline');
-  assert.ok(i > 0 && html.slice(i, i + 200).includes('Naša špecializácia'));
+  const i = html.indexOf('<section data-band="specialisation"');
+  assert.ok(i > 0);
   const band = html.slice(i, html.indexOf('</section>', i));
+  assert.ok(/<h2 [^>]*>Aj zložité vlastnícke vzťahy majú svoje riešenia\.<\/h2>/.test(band));
   assert.ok(band.includes('href="/sluzby/vysporiadanie-pozemkov/"'));
   assert.ok(band.includes('href="/sluzby/vysporiadanie-pozemkov/pozemky-pod-stavbami/"'));
-  assert.ok(i < html.indexOf('home.profile') || i < html.indexOf('Osobný prístup'));
+  assert.ok(i < html.indexOf('Osobný prístup'));
 });
 
 test('EN home has the band only when the EN service pages are visible', () => {
   const html = read('en/index.html');
   const both = hasLang('vysporiadanie-pozemkov', 'en') && hasLang('pozemky-pod-stavbami', 'en');
-  assert.strictEqual(html.includes('Our specialisation'), both);
+  assert.strictEqual(html.includes('data-band="specialisation"'), both);
 });
 
 test('article pages: no big full-width image block, hero photo is the article photo, og:image unchanged', () => {

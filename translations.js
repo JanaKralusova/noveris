@@ -29,7 +29,9 @@ const translations = {
         "home.hero.cta2": "Naša filozofia",
         "home.hero.quote": "\"Právo nie je len o pravidlách, ale o riešeniach, ktoré umožňujú rast\"",
         "home.hero.quoteAuthor": "Jana Králusová, Zakladateľka",
-        "home.specialisation.h2": "Naša špecializácia",
+        "home.specialisation.label": "Osobitné zameranie",
+        "home.specialisation.h2": "Aj zložité vlastnícke vzťahy majú svoje riešenia.",
+        "home.specialisation.desc": "Osobitne sa venujeme vysporiadaniu pozemkov s komplikovanými vlastníckymi vzťahmi. Od jednotlivých nevysporiadaných parciel až po rozsiahle areály, kde sa prelínajú rôzni vlastníci, historické zápisy a odlišné právne režimy.",
 
         // Profile
         "home.profile.label": "Osobný prístup",
@@ -69,9 +71,9 @@ const translations = {
 
         "about.journey.label": "Moja cesta",
         "about.journey.h2": "Skúsenosti a individuálny prístup",
-        "about.journey.p1": "Moja profesionálna cesta sa začala túžbou po porozumení práva v širšom spoločenskom kontexte. Už počas štúdia ma formovala stáž v advokátskej kancelárii v Rakúsku, ktorá mi otvorila dvere k precíznosti a vysokým štandardom európskej právnej praxe. Práve tam som pochopila, že právo musí byť v prvom rade funkčné a predvídateľné.",
-        "about.journey.p2": "Svoje skúsenosti som neskôr rozvíjala v popredných advokátskych kanceláriách na Slovensku, kde som sa venovala komplexným a rôznorodým prípadom. Táto rozmanitosť ma naučila, že riešenie nie je len o striktných paragrafoch, ale predovšetkým o stratégii postavenej na porozumení potrieb klienta.",
-        "about.journey.p3": "V Noveris Legal sa vraciam k tomu najdôležitejšiemu - k osobnému vzťahu. Môj prístup je založený na absolútnom záväzku voči klientovi. Nehľadám len technicky správne odpovede, ale riešenia, ktoré skutočne rešpektujú integritu a životné či biznisové ciele tých, ktorých zastupujem.",
+        "about.journey.p1": "Právo ma naučilo, že aj zdanlivo podobné prípady môžu mať celkom odlišné riešenia. Rozhodujúce bývajú detaily, súvislosti a okolnosti, ktoré na prvý pohľad nemusia byť zrejmé.",
+        "about.journey.p2": "Svoje profesijné skúsenosti som získavala v popredných advokátskych kanceláriách na Slovensku aj počas stáže v advokátskej kancelárii v Rakúsku. Práca na rôznorodých a právne náročných prípadoch ma naučila pristupovať k právnym otázkam precízne, vnímať ich v širších súvislostiach a hľadať riešenia, ktoré obstoja aj v praxi.",
+        "about.journey.p3": "V Noveris Legal dnes pokračujem v tom, čo ma na advokácii vždy zaujímalo najviac. V hľadaní súvislostí, rozpletaní právne zložitých situácií a nachádzaní cesty tam, kde riešenie nie je na prvý pohľad zrejmé. Osobitne sa venujem právu nehnuteľností a vysporiadaniu komplikovaných vlastníckych vzťahov. Popri tom poskytujem právne služby aj v ďalších oblastiach občianskeho a obchodného práva.",
         "about.journey.cta": "dohodnúť konzultáciu",
 
         // About values – reuse home.values keys
@@ -169,7 +171,9 @@ const translations = {
         "home.hero.cta2": "Our philosophy",
         "home.hero.quote": "\"Law is not just about rules, but about solutions that enable growth\"",
         "home.hero.quoteAuthor": "Jana Králusová, Founder",
-        "home.specialisation.h2": "Our specialisation",
+        "home.specialisation.label": "Particular focus",
+        "home.specialisation.h2": "Even complex ownership relations have their solutions.",
+        "home.specialisation.desc": "We particularly focus on settling land with complicated ownership relations. From individual unsettled plots to extensive sites where different owners, historical records and different legal regimes overlap.",
 
         // Profile
         "home.profile.label": "Personal approach",
@@ -209,9 +213,9 @@ const translations = {
 
         "about.journey.label": "My journey",
         "about.journey.h2": "Experience and individual approach",
-        "about.journey.p1": "My professional journey began with a desire to understand law in a broader social context. During my studies, an internship at a law firm in Austria opened the door to precision and the high standards of European legal practice. It was there I understood that law must be, above all, functional and predictable.",
-        "about.journey.p2": "I later developed my experience at leading law firms in Slovakia, where I worked on complex and diverse cases. This variety taught me that solutions are not just about strict paragraphs, but primarily about strategy built on understanding client needs.",
-        "about.journey.p3": "At Noveris Legal, I return to what matters most – the personal relationship. My approach is based on an absolute commitment to the client. I don't just look for technically correct answers, but solutions that truly respect the integrity and life or business goals of those I represent.",
+        "about.journey.p1": "Law has taught me that even seemingly similar cases can have quite different solutions. What decides them are the details, the context and circumstances that may not be obvious at first sight.",
+        "about.journey.p2": "I gained my professional experience at leading law firms in Slovakia and during an internship at a law firm in Austria. Working on diverse and legally demanding cases taught me to approach legal questions precisely, to see them in a wider context and to look for solutions that hold up in practice.",
+        "about.journey.p3": "At Noveris Legal I continue with what has always interested me most about legal practice: finding the connections, untangling legally complex situations and finding a way forward where the solution is not obvious at first sight. I focus in particular on real estate law and on settling complicated ownership relations. Alongside this, I provide legal services in other areas of civil and commercial law.",
         "about.journey.cta": "book a consultation",
 
         // ===== SERVICES =====
