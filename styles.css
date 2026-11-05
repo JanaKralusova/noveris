@@ -18,8 +18,8 @@
 .article-body ul { list-style: disc; }
 .article-body ol { list-style: decimal; }
 .article-body li + li { margin-top: 0.4rem; }
-.article-body li::marker { color: #6d5b47; }
-.article-body a { color: #6d5b47; text-decoration: underline; text-underline-offset: 3px; text-decoration-thickness: 1px; }
+.article-body li::marker { color: #8f5535; }
+.article-body a { color: #8f5535; text-decoration: underline; text-underline-offset: 3px; text-decoration-thickness: 1px; }
 .article-body a:hover { color: #17302b; }
 
 /* Design-system components (scripts/lib/ui.js): photo fades into the page background
@@ -38,7 +38,3 @@
 /* Closing band photo: fades into forest green on the left */
 .fade-photo-dark { -webkit-mask-image: linear-gradient(to right, transparent 0, #000 60%); mask-image: linear-gradient(to right, transparent 0, #000 60%); }
 
-/* Primary button: the original site's brown gradient. White text needs >= 4.5:1, so the light end is
-   #87735e (4.52:1 with white), not the old #c6af97. Hover darkens both stops (>= 8:1). */
-.btn-brown { background-image: linear-gradient(45deg, #6d5b47, #87735e); }
-.btn-brown:hover { background-image: linear-gradient(45deg, #594a39, #6d5b47); }

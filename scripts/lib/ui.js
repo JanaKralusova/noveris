@@ -99,7 +99,7 @@ function chip(name) {
 const BTN = 'inline-flex items-center gap-3 rounded-btn px-6 py-3.5 font-label text-[12px] font-semibold uppercase tracking-[0.12em] transition-colors duration-200';
 const BTN_FULL = BTN.replace('inline-flex', 'flex w-full justify-center whitespace-nowrap').replace('gap-3', 'gap-2').replace('px-6', 'px-4').replace('tracking-[0.12em]', 'tracking-[0.08em]');
 const BTN_VARIANTS = {
-  primary: 'btn-brown text-white',
+  primary: 'bg-forest text-white hover:bg-forest-dark',
   outline: 'border border-forest text-forest hover:bg-forest hover:text-white',
   onDark: 'bg-white text-forest hover:bg-sand',
 };
