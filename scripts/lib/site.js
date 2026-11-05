@@ -12,8 +12,8 @@ const ROOT = path.resolve(__dirname, '..', '..');
 const SITE = 'https://noveris.sk';
 const SITE_NAME = 'Noveris Legal';
 const OG_IMAGES = {
-  sk: { path: '/assets/og/og-default-sk.jpg', width: 1200, height: 630 },
-  en: { path: '/assets/og/og-default-en.jpg', width: 1200, height: 630 },
+  sk: { path: '/assets/og/og-sk.jpg', width: 1200, height: 630 },
+  en: { path: '/assets/og/og-en.jpg', width: 1200, height: 630 },
 };
 const OG_ALT = {
   sk: 'Noveris Legal – advokátska kancelária v Bratislave',
