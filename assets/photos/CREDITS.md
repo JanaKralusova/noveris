@@ -4,7 +4,7 @@ Self-hosted photos for the service pages, served from `/assets/photos/services/<
 All photos are published under the Unsplash License (free for commercial use, no attribution required; credited here anyway).
 Produced with `scripts/make-photo.sh` from the Unsplash originals downloaded at 2400 px wide (`https://unsplash.com/photos/<id>/download`, then `?w=2400`; the id is the part of the URL after the last `-` of the slug, 11 characters), so every file is a first-generation resize of a large original. A test checks that every name below exists in all widths and both formats and stays within its size budget.
 
-Two photos keep a fixed crop of their original (`CROP="x y w h"` in make-photo.sh, source pixels of the 2400 px download): `home_house` `0 120 2400 810` (centred 3:1 strip) and `bratislava_city` `47 0 1800 1350` (4:3). All other photos are centre-cropped to at most 4:3.
+Photos are centre-cropped to at most 4:3 (make-photo.sh); `CROP="x y w h"` cuts a fixed rectangle of the source first when a photo needs a set framing.
 
 | Name | Author | Unsplash URL | Licence |
 |---|---|---|---|
@@ -68,13 +68,13 @@ Two photos keep a fixed crop of their original (`CROP="x y w h"` in make-photo.s
 | sunfield | Erik van Dijk | https://unsplash.com/photos/green-grass-field-with-trees-during-daytime-fhItZw4xYhI | Unsplash License |
 | table2 | Amina Atar | https://unsplash.com/photos/two-men-sitting-at-a-table-with-papers-and-a-pen-Mqc-m8kgxkg | Unsplash License |
 | ware | Bernd Dittrich | https://unsplash.com/photos/iDSXatl7yNo | Unsplash License |
-| bratislava_city | Michal Vrba | https://unsplash.com/photos/zM9iO5wFnp0 | Unsplash License |
 | home_villa_warm | AI-generated image supplied by Noveris Legal (own image) | – | Own image |
 | services_desk | AI-generated image supplied by Noveris Legal (own image) | – | Own image |
 | articles_desk | AI-generated image supplied by Noveris Legal (own image) | – | Own image |
 | owners_tree | AI-generated image supplied by Noveris Legal (own image) | – | Own image |
+| bratislava_castle | AI-generated image supplied by Noveris Legal (own image) | – | Own image |
 
 Notes:
-- `bratislava_city` (castle, old town, Danube) is the contact hero.
+- `bratislava_castle` (castle, old town, Danube) is the contact hero.
 - `interior`, `justice2` replace the prototype photos (3D render, street with a German road sign, greyscale Lady Justice).
 - `band1` to `band4` are the closing contact-band photos; they replace the repeated `plant` and are rotated between pages.

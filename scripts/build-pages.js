@@ -212,7 +212,7 @@ function heroFor(id, lang, t, ctx) {
         label: t['contact.hero.label'],
         titleHtml: t['contact.hero.h1'],
         intro: [t['contact.hero.quote']],
-        photo: photo('bratislava_city', { style: 'object-position: 30% 50%;' }),
+        photo: photo('bratislava_castle', { style: 'object-position: 100% 50%;' }),
       });
     case 'owners':
       return ui.hero({
