@@ -35,6 +35,8 @@
     -webkit-mask-image: linear-gradient(to right, transparent 0, #000 12%, #000 90%, transparent 100%);
     mask-image: linear-gradient(to right, transparent 0, #000 12%, #000 90%, transparent 100%);
 }
+/* Home specialisation tile: photo on the left fades into the white tile */
+.fade-tile { -webkit-mask-image: linear-gradient(to right, #000 30%, transparent 92%); mask-image: linear-gradient(to right, #000 30%, transparent 92%); }
 /* Closing band photo: fades into forest green on the left */
 .fade-photo-dark { -webkit-mask-image: linear-gradient(to right, transparent 0, #000 60%); mask-image: linear-gradient(to right, transparent 0, #000 60%); }
 
