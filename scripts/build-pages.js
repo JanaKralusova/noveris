@@ -163,7 +163,7 @@ function applyServicesHero(html, t, lang) {
     crumbs: [{ name: t['nav.home'], url: PAGES.home[lang] }, { name: t['nav.services'], url: PAGES.services[lang] }],
     crumbsLabel: t['ui.breadcrumb'],
     label: t['services.hero.label'],
-    title: t['services.hero.h1'],
+    titleHtml: t['services.hero.h1'],
     intro: [t['services.hero.desc']],
     photo: { src: '/assets/photos/services/services_desk', alt: '', sizes: HERO_SIZES, eager: true, style: 'object-position: 100% 50%;', variants: ['400', '560', '800', '1200', ''] },
   }));
@@ -220,7 +220,7 @@ function heroFor(id, lang, t, ctx) {
         label: `Nezistení vlastníci · údaje SPF k ${ctx.ownersAsOf}`,
         titleHtml: 'Patrí pozemok <span class="italic text-copper">vašej rodine?</span>',
         intro: ['Na Slovensku sa nachádzajú pozemky, ktorých vlastníci nie sú dostatočne identifikovaní alebo nie je známe ich miesto pobytu. Medzi týmito vlastníkmi môžu byť aj vaši predkovia, po ktorých zostali nevysporiadané pozemky.'],
-        bold: 'Vyhľadajte priezvisko svojho predka, obec alebo číslo listu vlastníctva a zistite, či sa v zozname nezistených vlastníkov nachádzajú záznamy, ktoré môžu súvisieť s vašou rodinou.',
+        bold: 'Vyhľadajte priezvisko svojho predka, katastrálne územie alebo číslo listu vlastníctva a zistite, či sa v zozname nezistených vlastníkov nachádzajú záznamy, ktoré môžu súvisieť s vašou rodinou.',
         photo: photo('owners_tree', { style: 'object-position: 100% 50%;' }),
       });
     case 'privacy':
@@ -246,7 +246,7 @@ function specialisationBand(lang, t) {
   const tiles = SPEC_IDS.map((id) => {
     const page = loadService(id)[lang];
     const hero = page.sections.find((s) => s.type === 'hero');
-    const title = id === 'vysporiadanie-pozemkov' ? t['services.area.vysporiadanie-pozemkov.title'] : pageTitleOf(page);
+    const title = id === 'vysporiadanie-pozemkov' ? t['services.area.vysporiadanie-pozemkov.title'] : (t[`home.specialisation.tile.${id}`] || pageTitleOf(page));
     const img = ui.photoImg({ src: `/assets/photos/services/${hero.photo.name}`, alt: '', sizes: '(min-width: 1024px) 240px, (min-width: 640px) 42vw, 34vw' }, 'h-full w-full object-cover transition-transform duration-500 group-hover:scale-[1.03]');
     // .material-symbols-outlined inherits its colour, so the colour sits on the wrapper
     return `<a href="${esc(SERVICES[id][lang])}" class="group relative flex min-h-[6rem] items-center overflow-hidden rounded-card border border-line bg-card shadow-soft">`
@@ -254,8 +254,8 @@ function specialisationBand(lang, t) {
       + `<span class="relative flex flex-1 items-center gap-3 py-4 pl-[35%] pr-4 sm:gap-4 sm:pl-[40%] sm:pr-5"><span class="flex-1 font-headline text-[1.0625rem] leading-snug text-ink transition-colors duration-200 group-hover:text-copper sm:text-[1.125rem] md:text-[1.25rem]">${esc(title)}</span>`
       + `<span class="inline-flex text-copper transition-transform duration-200 group-hover:translate-x-1">${ui.icon('arrow_forward', 'text-[20px]')}</span></span></a>`;
   });
-  return '<section data-band="specialisation" class="bg-paper pb-12 pt-4 md:pb-16"><div class="mx-auto max-w-7xl px-6 lg:px-8">'
-    + '<div class="-mx-6 grid items-center gap-8 bg-sand px-6 py-8 sm:mx-0 sm:rounded-card sm:p-7 md:p-10 lg:grid-cols-[0.9fr_1.1fr] lg:gap-14 lg:p-12">'
+  return '<section data-band="specialisation" class="bg-sand py-12 md:py-16"><div class="mx-auto max-w-7xl px-6 lg:px-8">'
+    + '<div class="grid items-center gap-8 lg:grid-cols-[0.9fr_1.1fr] lg:gap-14">'
     + `<div class="lg:border-r lg:border-line lg:pr-14">${ui.eyebrow(t['home.specialisation.label'])}`
     + `<h2 class="mt-2 font-headline text-[1.875rem] leading-[1.15] text-ink md:text-[2.25rem]">${esc(t['home.specialisation.h2'])}</h2></div>`
     + `<div><p class="text-[15px] leading-[1.65] text-body md:text-[16px]">${esc(t['home.specialisation.desc'])}</p>`

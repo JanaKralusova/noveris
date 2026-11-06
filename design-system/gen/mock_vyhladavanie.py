@@ -22,9 +22,9 @@ fields=('<div class="grid gap-5 sm:grid-cols-2">'+text_field("owners-name","Meno
   +text_field("owners-email","E-mail","jan.novy@email.sk",typ="email",extra='name="email" required autocomplete="email"')
   +labeled_select("owners-relation","Váš vzťah k vlastníkovi",["Som potomok / dedič","Som spoluvlastník pozemku","Chcem pozemok kúpiť","Iné"],cls=""))
 panel=request_panel("Vyberte záznamy, ktoré Vás zaujímajú, a odošlite nám ich spolu s vašimi kontaktnými údajmi.","Mgr. Jana Králusová, advokátka","/assets/photos/avatar.jpg",
-  sel_html,len(sel),fields,msg,"Odoslať advokátke","Žiadosť bude doručená advokátke Mgr. Jane Králusovej",
+  sel_html,len(sel),fields,msg,"Odoslať advokátke","",
   'Odoslaním súhlasíte so spracovaním údajov podľa <a href="/ochrana-osobnych-udajov/" class="text-copper underline underline-offset-2">zásad ochrany osobných údajov</a>.')
-STEPS=[("Vyhľadajte vlastníka","Zadajte priezvisko predka, prípadne katastrálne územie, obec alebo číslo listu vlastníctva. Vyhľadávanie zahŕňa aj rodné priezviská a údaje uvedené v poznámkach."),
+STEPS=[("Vyhľadajte vlastníka","Zadajte priezvisko predka, katastrálne územie alebo číslo listu vlastníctva. Vyhľadávanie zahŕňa aj rodné priezviská a údaje uvedené v poznámkach."),
 ("Vyberte nájdené záznamy","Ak nájdete záznamy, ktoré by mohli súvisieť s vašou rodinou, pridajte ich do žiadosti."),
 ("Odošlite žiadosť advokátke","Vybrané záznamy nám môžete odoslať spolu s kontaktnými údajmi. Na základe vašej žiadosti vás budeme kontaktovať ohľadom možností ďalšieho právneho postupu.")]
 def build():
@@ -35,7 +35,7 @@ def build():
       +eyebrow("Nezistení vlastníci · údaje SPF k 30. 6. 2026")+
       '<h1 class="mt-4 font-headline text-[clamp(2.5rem,5vw,3.5rem)] leading-[1.1] tracking-tight text-ink">Patrí pozemok <span class="italic text-copper">vašej rodine?</span></h1>'
       '<div class="mt-5 space-y-3"><p class="text-[15px] leading-[1.6] text-body md:text-[16px]">Na Slovensku sa nachádzajú pozemky, ktorých vlastníci nie sú dostatočne identifikovaní alebo nie je známe ich miesto pobytu. Medzi týmito vlastníkmi môžu byť aj vaši predkovia, po ktorých zostali nevysporiadané pozemky.</p>'
-      '<p class="text-[15px] font-bold leading-[1.6] text-ink md:text-[16px]">Vyhľadajte priezvisko svojho predka, obec alebo číslo listu vlastníctva a zistite, či sa v zozname nezistených vlastníkov nachádzajú záznamy, ktoré môžu súvisieť s vašou rodinou.</p></div></div></div></section>')
+      '<p class="text-[15px] font-bold leading-[1.6] text-ink md:text-[16px]">Vyhľadajte priezvisko svojho predka, katastrálne územie alebo číslo listu vlastníctva a zistite, či sa v zozname nezistených vlastníkov nachádzajú záznamy, ktoré môžu súvisieť s vašou rodinou.</p></div></div></div></section>')
     b+=section(section_header(None,"Ako vyhľadávanie funguje?")+steps_h(STEPS),bg="bg-sand")
     left=(search_field("Bruchat")+f'<p class="mb-5 mt-3 text-[13px] text-muted">{STATS}</p>'
       '<div id="owners-status" class="mb-4 min-h-[1.25rem] font-label text-[15px] font-semibold text-ink" role="status" aria-live="polite">28 výsledkov</div>'

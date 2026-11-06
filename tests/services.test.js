@@ -6,11 +6,11 @@ const site = require('../scripts/lib/site');
 const PAGE = 'sluzby/vysporiadanie-pozemkov/index.html';
 const TITLES = [
   'Pozemky so Slovenským pozemkovým fondom a vo vlastníctve štátu',
+  'Pozemky pod stavbami a v areáloch',
   'Pozemky zapísané na zosnulé osoby',
   'Pozemky s viacerými spoluvlastníkmi',
   'Duplicitné vlastníctvo a spochybnená hodnovernosť údajov katastra',
   'Pozemky zapísané na zaniknuté spoločnosti',
-  'Pozemky pod stavbami a v areáloch',
 ];
 
 test('vysporiadanie-pozemkov page exists with one h1', () => {
@@ -23,6 +23,19 @@ test('vysporiadanie-pozemkov page exists with one h1', () => {
 test('contains all six card titles verbatim', () => {
   const html = read(PAGE);
   for (const t of TITLES) assert.ok(html.includes(`>${t}</h3>`) || html.includes(`>${t}</a></h3>`), t);
+});
+
+test('side cards keep the order, land under buildings is second', () => {
+  const html = read(PAGE);
+  const h3 = [...html.matchAll(/<h3[^>]*>(?:<a[^>]*>)?([^<]+)/g)].map((m) => m[1]);
+  assert.deepStrictEqual(h3.filter((t) => TITLES.includes(t)), TITLES);
+  assert.strictEqual(h3.filter((t) => TITLES.includes(t))[1], 'Pozemky pod stavbami a v areáloch');
+});
+
+test('services index h1 sets "dôvere" in italic copper', () => {
+  const html = read('sluzby/index.html');
+  const h1 = html.match(/<h1[^>]*>([\s\S]*?)<\/h1>/)[1];
+  assert.ok(h1.includes('<span class="italic text-copper">dôvere</span>'), h1);
 });
 
 test('links to the sub-page and the cost article', () => {

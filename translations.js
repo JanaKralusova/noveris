@@ -31,6 +31,7 @@ const translations = {
         "home.hero.quoteAuthor": "Jana Králusová, Zakladateľka",
         "home.specialisation.label": "Osobitné zameranie",
         "home.specialisation.h2": "Aj zložité vlastnícke vzťahy majú svoje riešenia.",
+        "home.specialisation.tile.pozemky-pod-stavbami": "Pozemky pod stavbami a v areáloch",
         "home.specialisation.desc": "Osobitne sa venujeme vysporiadaniu pozemkov s komplikovanými vlastníckymi vzťahmi. Od jednotlivých nevysporiadaných parciel až po rozsiahle areály, kde sa prelínajú rôzni vlastníci, historické zápisy a odlišné právne režimy.",
 
         // Profile
@@ -80,7 +81,7 @@ const translations = {
 
         // ===== SERVICES =====
         "services.hero.label": "Právna expertíza",
-        "services.hero.h1": 'Riešenia založené na dôvere a odbornosti',
+        "services.hero.h1": 'Riešenia založené na <span class="italic text-copper">dôvere</span> a odbornosti',
         "services.hero.desc": "V Noveris Legal pristupujeme ku každej veci individuálne, s dôrazom na jej dôsledné posúdenie a jasný postup. Cieľom je, aby klient vedel, aké má možnosti a čo môže očakávať.",
         "services.hero.quote": "\"Právo nemá byť prekážkou, ale oporou pri ďalších krokoch.\"",
 
@@ -173,6 +174,7 @@ const translations = {
         "home.hero.quoteAuthor": "Jana Králusová, Founder",
         "home.specialisation.label": "Particular focus",
         "home.specialisation.h2": "Even complex ownership relations have their solutions.",
+        "home.specialisation.tile.pozemky-pod-stavbami": "Land under buildings and within sites",
         "home.specialisation.desc": "We particularly focus on settling land with complicated ownership relations. From individual unsettled plots to extensive sites where different owners, historical records and different legal regimes overlap.",
 
         // Profile
@@ -220,7 +222,7 @@ const translations = {
 
         // ===== SERVICES =====
         "services.hero.label": "Legal expertise",
-        "services.hero.h1": 'Solutions built on trust and expertise',
+        "services.hero.h1": 'Solutions built on <span class="italic text-copper">trust</span> and expertise',
         "services.hero.desc": "At Noveris Legal, we approach every matter individually, with emphasis on thorough assessment and a clear course of action. The goal is for the client to know what their options are and what to expect.",
         "services.hero.quote": "\"Law should not be an obstacle, but a support for your next steps.\"",
 

@@ -453,8 +453,8 @@
         setStatus('Pre „' + query + '“ sme nenašli žiadny záznam. Skúste kratší tvar mena alebo iný pravopis.', false);
         return;
       }
-      if (wide) setStatus(countText() + ' – číslo LV sme nepoužili, hľadanie je príliš široké. Doplňte obec alebo vyberte katastrálne územie.', false);
-      else if (!area && ids.length > 1000) setStatus(countText() + ' – zúžte hľadanie: doplňte meno alebo obec, alebo vyberte katastrálne územie.', false);
+      if (wide) setStatus(countText() + ' – číslo LV sme nepoužili, hľadanie je príliš široké. Doplňte katastrálne územie alebo ho vyberte zo zoznamu.', false);
+      else if (!area && ids.length > 1000) setStatus(countText() + ' – zúžte hľadanie: doplňte meno alebo katastrálne územie.', false);
       else setStatus(countText(), false);
       return showPage(mySeq, true);
     });
@@ -472,8 +472,8 @@
     if (!toks.length) {
       if (!query) area = '';
       syncUrl();
-      setStatus(!query ? '' : nums.size ? 'Pre hľadanie podľa čísla LV zadajte aj obec (katastrálne územie), napr. „Ábelová 436“.'
-        : 'Zadajte aspoň 3 písmená priezviska, rodného mena alebo obce.', false);
+      setStatus(!query ? '' : nums.size ? 'Pre hľadanie podľa čísla LV zadajte aj katastrálne územie, napr. „Ábelová 436“.'
+        : 'Zadajte aspoň 3 písmená priezviska, rodného mena alebo katastrálneho územia.', false);
       return;
     }
     syncUrl();

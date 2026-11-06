@@ -6,7 +6,7 @@ def mark(t):
     """Use when a search term matches inside a result: pale-copper highlight, ink text (contrast ~13:1)."""
     return MARK.format(t)
 
-def search_field(value, placeholder="Priezvisko, obec alebo číslo LV"):
+def search_field(value, placeholder="Priezvisko, katastrálne územie alebo číslo LV"):
     """Use when a page is driven by one large search input: icon + underline-free boxed input with forest focus ring."""
     return ('<label class="flex items-center gap-3 rounded-btn border border-field bg-white px-4 py-3 focus-within:border-forest focus-within:ring-2 focus-within:ring-forest/25">'
       + icon("search", "text-[26px] text-forest") +
@@ -57,7 +57,7 @@ def request_panel(heading, who, avatar, sel_items, sel_count, fields_html, messa
       f'<div><label for="owners-message" class="mb-1.5 block font-label text-[13px] font-semibold text-ink">Správa (predvyplnená, môžete upraviť)</label>'
       f'<textarea id="owners-message" name="message" rows="12" required class="{FIELD} text-[14px] leading-[1.55]">{message}</textarea></div>'
       f'<div><button id="owners-submit" type="submit" class="{BTN} w-full justify-center bg-forest text-white hover:bg-forest-dark"><span>{submit}</span>{icon("arrow_forward","text-[18px]")}</button>'
-      f'<p class="mt-3 text-center text-[13px] text-muted">{note}</p></div>'
+      +(f'<p class="mt-3 text-center text-[13px] text-muted">{note}</p>' if note else '')+'</div>'
       f'<p class="text-[12px] leading-relaxed text-muted">{privacy}</p></form></div></aside>')
 
 def mobile_bar(text):

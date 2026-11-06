@@ -64,6 +64,12 @@ test('article pages: author box, disclaimer, related articles, closing contact b
   assert.deepStrictEqual(failures, []);
 });
 
+test('owner page: search wording says katastrálne územie, no request note', () => {
+  const html = read('nezisteni-vlastnici/index.html');
+  assert.ok(html.includes('Priezvisko, katastrálne územie alebo číslo LV'));
+  assert.ok(!html.includes('doručená advokátke'));
+});
+
 test('owner page: every id used by owners-search.js exists, plus the vysporiadanie link', () => {
   const html = read('nezisteni-vlastnici/index.html');
   const js = fs.readFileSync(path.join(ROOT, 'templates/partials/owners-search.js'), 'utf8');
