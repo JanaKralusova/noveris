@@ -10,21 +10,12 @@
         ],
         "bold": "Pomáhame jednotlivcom, obchodným spoločnostiam a investorom pri vysporiadaní pozemkov a riešení komplikovaných vlastníckych vzťahov.",
         "after": "Každý prípad posudzujeme s ohľadom na právny stav nehnuteľností a možnosti dosiahnutia požadovaného usporiadania vlastníctva.",
-        "cta": {
-          "text": "Dohodnite si konzultáciu",
-          "href": "/kontakt/"
-        },
-        "photo": {
-          "name": "hero_eu",
-          "alt": ""
-        }
+        "cta": { "text": "Dohodnite si konzultáciu", "href": "/kontakt/" },
+        "photo": { "name": "hero_eu", "alt": "" }
       },
       {
         "type": "cardsSide",
-        "header": {
-          "eyebrow": "Naše služby",
-          "title": "S akými vlastníckymi problémami pomáhame?"
-        },
+        "header": { "eyebrow": "Naše služby", "title": "S akými vlastníckymi problémami pomáhame?" },
         "items": [
           {
             "icon": "account_balance",
@@ -33,10 +24,7 @@
               "Na liste vlastníctva môže byť uvedený Slovenský pozemkový fond (SPF), ktorý v zákonom stanovených prípadoch nakladá s pozemkami vo vlastníctve štátu alebo nezistených vlastníkov. Možnosti ich vysporiadania závisia od právneho režimu pozemku a splnenia zákonných podmienok.",
               "Preverujeme možnosti nadobudnutia pozemkov a spoluvlastníckych podielov a zastupujeme klientov pri rokovaniach so SPF a príslušnými správcami štátneho majetku."
             ],
-            "photo": {
-              "name": "gov",
-              "alt": ""
-            }
+            "photo": { "name": "gov", "alt": "" }
           },
           {
             "icon": "factory",
@@ -45,14 +33,8 @@
               "Vlastník budovy nemusí byť zároveň vlastníkom pozemku pod ňou. Tento stav sa vyskytuje pri rodinných domoch, garážach, ale aj pri výrobných halách, skladových budovách, hospodárskych objektoch či rozsiahlych prevádzkových areáloch.",
               "Pomáhame pri preverení právneho vzťahu medzi vlastníkom stavby a pozemku a pri posúdení možností majetkovoprávneho usporiadania pozemkov pod stavbami aj ďalších pozemkov potrebných na fungovanie areálu."
             ],
-            "photo": {
-              "name": "ware",
-              "alt": ""
-            },
-            "link": {
-              "text": "Viac o vysporiadaní pozemkov pod stavbami a v areáloch",
-              "href": "/sluzby/vysporiadanie-pozemkov/pozemky-pod-stavbami/"
-            }
+            "photo": { "name": "ware", "alt": "" },
+            "link": { "text": "Viac o vysporiadaní pozemkov pod stavbami a v areáloch", "href": "/sluzby/vysporiadanie-pozemkov/pozemky-pod-stavbami/" }
           },
           {
             "icon": "person",
@@ -61,10 +43,7 @@
               "Na listoch vlastníctva sa často nachádzajú osoby, ktoré zomreli pred desiatkami rokov, pričom pozemky neboli predmetom dedičského konania alebo ich právni nástupcovia nie sú známi.",
               "Pomáhame pri preverovaní vlastníckej histórie, identifikácii právnych nástupcov a riešení dedičských otázok vrátane dodatočných konaní o dedičstve."
             ],
-            "photo": {
-              "name": "cem1",
-              "alt": ""
-            }
+            "photo": { "name": "cem1", "alt": "" }
           },
           {
             "icon": "groups",
@@ -73,10 +52,7 @@
               "Niektoré pozemky majú desiatky spoluvlastníkov s rôzne veľkými podielmi. Časť vlastníkov môže byť známa, ďalší už nežijú alebo ich nemožno spoľahlivo identifikovať.",
               "Posudzujeme možnosti odkúpenia spoluvlastníckych podielov, uzatvorenia dohôd a zrušenia a vyporiadania podielového spoluvlastníctva vrátane súdneho konania."
             ],
-            "photo": {
-              "name": "farm1",
-              "alt": ""
-            }
+            "photo": { "name": "farm1", "alt": "" }
           },
           {
             "icon": "description",
@@ -85,10 +61,7 @@
               "V katastri nehnuteľností sa môžu vyskytnúť prípady duplicitného zápisu vlastníckeho práva alebo poznámky o spochybnení hodnovernosti údajov katastra.",
               "Preverujeme vlastnícke zápisy a listinné podklady, na základe ktorých vznikli alebo boli evidované vlastnícke práva, a posudzujeme možnosti odstránenia právnej neistoty vrátane súdneho riešenia."
             ],
-            "photo": {
-              "name": "plan1",
-              "alt": ""
-            }
+            "photo": { "name": "plan1", "alt": "" }
           },
           {
             "icon": "apartment",
@@ -97,33 +70,18 @@
               "Vlastníkom pozemku môže byť podľa listu vlastníctva spoločnosť, ktorá už bola vymazaná z obchodného registra.",
               "V takýchto prípadoch preverujeme okolnosti zániku spoločnosti a možnosti usporiadania vlastníckych vzťahov, napríklad prostredníctvom dodatočnej likvidácie, ak sú na to splnené zákonné podmienky."
             ],
-            "photo": {
-              "name": "off",
-              "alt": ""
-            }
+            "photo": { "name": "off", "alt": "" }
           }
         ]
       },
       {
         "type": "stepsH",
         "bg": "sand",
-        "header": {
-          "eyebrow": "Ako postupujeme",
-          "title": "Ako prebieha vysporiadanie pozemkov?"
-        },
+        "header": { "eyebrow": "Ako postupujeme", "title": "Ako prebieha vysporiadanie pozemkov?" },
         "steps": [
-          {
-            "title": "Preverenie vlastníckych vzťahov",
-            "text": "Preskúmame aktuálne údaje katastra nehnuteľností, dostupné historické podklady a ďalšie relevantné dokumenty. Identifikujeme vlastnícke problémy a právne prekážky, ktoré je potrebné riešiť."
-          },
-          {
-            "title": "Návrh právneho postupu",
-            "text": "Na základe zistených skutočností posúdime možnosti vysporiadania. Podľa okolností môže ísť napríklad o odkúpenie pozemkov alebo spoluvlastníckych podielov, dedičské konanie, dohodu spoluvlastníkov, postup vo vzťahu k SPF alebo súdne konanie."
-          },
-          {
-            "title": "Právne zastupovanie",
-            "text": "Zabezpečujeme prípravu právnych dokumentov, rokovania s vlastníkmi a príslušnými inštitúciami, ako aj zastupovanie v súdnych a ďalších konaniach podľa povahy prípadu."
-          }
+          { "title": "Preverenie vlastníckych vzťahov", "text": "Preskúmame aktuálne údaje katastra nehnuteľností, dostupné historické podklady a ďalšie relevantné dokumenty. Identifikujeme vlastnícke problémy a právne prekážky, ktoré je potrebné riešiť." },
+          { "title": "Návrh právneho postupu", "text": "Na základe zistených skutočností posúdime možnosti vysporiadania. Podľa okolností môže ísť napríklad o odkúpenie pozemkov alebo spoluvlastníckych podielov, dedičské konanie, dohodu spoluvlastníkov, postup vo vzťahu k SPF alebo súdne konanie." },
+          { "title": "Právne zastupovanie", "text": "Zabezpečujeme prípravu právnych dokumentov, rokovania s vlastníkmi a príslušnými inštitúciami, ako aj zastupovanie v súdnych a ďalších konaniach podľa povahy prípadu." }
         ]
       },
       {
@@ -134,14 +92,8 @@
           "Náklady na vysporiadanie závisia od konkrétnej situácie, najmä od počtu vlastníkov, rozsahu potrebného právneho preverovania a zvoleného postupu.",
           "Rozdiel môže byť medzi vysporiadaním jediného spoluvlastníckeho podielu a rozsiahlym prípadom zahŕňajúcim viacero parciel, historických vlastníkov a odlišných právnych režimov."
         ],
-        "photo": {
-          "name": "pen",
-          "alt": ""
-        },
-        "link": {
-          "text": "Viac o nákladoch na vysporiadanie pozemku",
-          "href": "/clanky/kolko-stoji-vysporiadanie-pozemku/"
-        },
+        "photo": { "name": "pen", "alt": "" },
+        "link": { "text": "Viac o nákladoch na vysporiadanie pozemku", "href": "/clanky/kolko-stoji-vysporiadanie-pozemku/" },
         "side": "left",
         "bg": "paper"
       },
@@ -152,14 +104,8 @@
           "Ak máte nevysporiadané vlastnícke vzťahy k pozemku alebo potrebujete preveriť možnosti ich riešenia, obráťte sa na nás.",
           "Po oboznámení sa s Vašou situáciou posúdime možnosti ďalšieho právneho postupu."
         ],
-        "cta": {
-          "text": "Dohodnite si konzultáciu",
-          "href": "/kontakt/"
-        },
-        "photo": {
-          "name": "band1",
-          "alt": ""
-        }
+        "cta": { "text": "Dohodnite si konzultáciu", "href": "/kontakt/" },
+        "photo": { "name": "band1", "alt": "" }
       }
     ]
   },
