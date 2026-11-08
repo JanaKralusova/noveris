@@ -24,12 +24,12 @@ Photos are centre-cropped to at most 4:3 (make-photo.sh); `CROP="x y w h"` cuts 
 | contract_laptop | – | https://www.pexels.com/photo/close-up-of-hands-working-with-laptop-and-documents-4968561/ | Pexels License |
 | couple_sofa | – | https://www.pexels.com/photo/8559951/ | Pexels License |
 | crane | Matias Santana | https://unsplash.com/photos/gray-building-crane-photo-during-sunset-2ykXqiKHNfk | Unsplash License |
-| desk_laptop | – | https://www.pexels.com/photo/25636747/ | Pexels License |
 | dev_quarter | – | https://www.pexels.com/photo/27307397/ | Pexels License |
 | euro_envelope | – | https://unsplash.com/photos/ms6N-gBtbCQ | Unsplash License |
 | family_garden | – | https://www.pexels.com/photo/5638612/ | Pexels License |
 | farm1 | Damian Kravchuk | https://unsplash.com/photos/p7u7E1YJiB8 | Unsplash License |
 | fence_gate | – | https://www.pexels.com/photo/14306688/ | Pexels License |
+| field_money | – | https://www.pexels.com/photo/crop-farmer-showing-money-in-green-summer-field-in-countryside-4497591/ | Pexels License |
 | folders | Beatriz Perez Moya | https://unsplash.com/photos/a-stack-of-thick-folders-on-a-white-surface-XN4T2PVUUgk | Unsplash License |
 | gavel | Sasun Bughdaryan | https://unsplash.com/photos/a-wooden-gavel-rests-on-a-closed-book-NB1dUts3ROU | Unsplash License |
 | glass_offices | – | https://www.pexels.com/photo/low-angle-photo-of-glass-buildings-2599538/ | Pexels License |
