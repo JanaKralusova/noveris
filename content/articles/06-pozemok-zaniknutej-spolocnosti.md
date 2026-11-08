@@ -20,7 +20,7 @@
     "vysporiadanie pozemku zaniknutej firmy"
   ],
   "image": "pozemok-zaniknutej-spolocnosti",
-  "imageAlt": "Zhodená tabuľa „uzavreté“ s reťazou na zemi pri strome",
+  "imageAlt": "Dlhé hospodárske budovy obklopené poľami a lesom",
   "date": "2026-10-15"
 }
 ---
