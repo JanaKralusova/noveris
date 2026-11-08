@@ -32,6 +32,7 @@ Photos are centre-cropped to at most 4:3 (make-photo.sh); `CROP="x y w h"` cuts 
 | fence_gate | – | https://www.pexels.com/photo/14306688/ | Pexels License |
 | folders | Beatriz Perez Moya | https://unsplash.com/photos/a-stack-of-thick-folders-on-a-white-surface-XN4T2PVUUgk | Unsplash License |
 | gavel | Sasun Bughdaryan | https://unsplash.com/photos/a-wooden-gavel-rests-on-a-closed-book-NB1dUts3ROU | Unsplash License |
+| glass_offices | – | https://www.pexels.com/photo/low-angle-photo-of-glass-buildings-2599538/ | Pexels License |
 | glassbld | Joakim Honkasalo | https://unsplash.com/photos/glass-office-building-at-dusk-gKMxcHB3U3E | Unsplash License |
 | gov | Yang-Chen Lin | https://unsplash.com/photos/Gy2_7oTYbhU | Unsplash License |
 | grandparents_kiss | – | https://www.pexels.com/photo/girls-kissing-their-lovely-grandparents-5637745/ | Pexels License |

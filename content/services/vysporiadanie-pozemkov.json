@@ -70,7 +70,7 @@
               "Vlastníkom pozemku môže byť podľa listu vlastníctva spoločnosť, ktorá už bola vymazaná z obchodného registra.",
               "V takýchto prípadoch preverujeme okolnosti zániku spoločnosti a možnosti usporiadania vlastníckych vzťahov, napríklad prostredníctvom dodatočnej likvidácie, ak sú na to splnené zákonné podmienky."
             ],
-            "photo": { "name": "off", "alt": "" }
+            "photo": { "name": "glass_offices", "position": "22% 50%", "alt": "" }
           }
         ]
       },
@@ -208,7 +208,8 @@
               "In such cases, we examine the circumstances in which the company ceased to exist and the options for settling the ownership relations, for example through supplementary liquidation, if the statutory conditions for it are met."
             ],
             "photo": {
-              "name": "off",
+              "name": "glass_offices",
+              "position": "22% 50%",
               "alt": ""
             }
           }
