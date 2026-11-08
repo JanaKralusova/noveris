@@ -92,7 +92,7 @@
               "Súčasťou našich služieb je aj príprava zmluvnej dokumentácie a zastupovanie pri rokovaniach s vlastníkmi dotknutých nehnuteľností."
             ],
             "photo": {
-              "name": "path2",
+              "name": "tree_lane",
               "alt": ""
             }
           }
@@ -108,7 +108,7 @@
           "href": "/sluzby/vysporiadanie-pozemkov/"
         },
         "photo": {
-          "name": "aerial2",
+          "name": "patchwork_aerial",
           "alt": ""
         },
         "pad": "pb-12 md:pb-16"
@@ -233,7 +233,7 @@
               "Our services also include preparing contractual documentation and representation in negotiations with the owners of the properties concerned."
             ],
             "photo": {
-              "name": "path2",
+              "name": "tree_lane",
               "alt": ""
             }
           }
@@ -249,7 +249,7 @@
           "href": "/en/services/land-ownership-settlement/"
         },
         "photo": {
-          "name": "aerial2",
+          "name": "patchwork_aerial",
           "alt": ""
         },
         "pad": "pb-12 md:pb-16"

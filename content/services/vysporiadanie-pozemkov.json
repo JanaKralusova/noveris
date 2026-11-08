@@ -33,7 +33,7 @@
               "Vlastník budovy nemusí byť zároveň vlastníkom pozemku pod ňou. Tento stav sa vyskytuje pri rodinných domoch, garážach, ale aj pri výrobných halách, skladových budovách, hospodárskych objektoch či rozsiahlych prevádzkových areáloch.",
               "Pomáhame pri preverení právneho vzťahu medzi vlastníkom stavby a pozemku a pri posúdení možností majetkovoprávneho usporiadania pozemkov pod stavbami aj ďalších pozemkov potrebných na fungovanie areálu."
             ],
-            "photo": { "name": "ware", "alt": "" },
+            "photo": { "name": "logistics_aerial", "alt": "" },
             "link": { "text": "Viac o vysporiadaní pozemkov pod stavbami a v areáloch", "href": "/sluzby/vysporiadanie-pozemkov/pozemky-pod-stavbami/" }
           },
           {
@@ -43,7 +43,7 @@
               "Na listoch vlastníctva sa často nachádzajú osoby, ktoré zomreli pred desiatkami rokov, pričom pozemky neboli predmetom dedičského konania alebo ich právni nástupcovia nie sú známi.",
               "Pomáhame pri preverovaní vlastníckej histórie, identifikácii právnych nástupcov a riešení dedičských otázok vrátane dodatočných konaní o dedičstve."
             ],
-            "photo": { "name": "cem1", "alt": "" }
+            "photo": { "name": "stone_farmhouse", "alt": "" }
           },
           {
             "icon": "groups",
@@ -156,7 +156,7 @@
               "We help to examine the legal relationship between the owner of the building and the owner of the land, and to assess the options for settling the property-law status of the land under the buildings and of other land needed for the site to function."
             ],
             "photo": {
-              "name": "ware",
+              "name": "logistics_aerial",
               "alt": ""
             },
             "link": {
@@ -172,7 +172,7 @@
               "We help to examine the ownership history, identify legal successors and resolve inheritance issues, including through supplementary inheritance proceedings."
             ],
             "photo": {
-              "name": "cem1",
+              "name": "stone_farmhouse",
               "alt": ""
             }
           },

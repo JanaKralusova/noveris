@@ -129,7 +129,7 @@ function applyLatest(html, lang, copy, articles, t) {
 // The six practice areas, in display order, with their card icon and photo (assets/photos/services).
 const AREAS = [
   { id: 'vysporiadanie-pozemkov', icon: 'terrain', homeIcon: 'landscape', photo: 's_land' },
-  { id: 'nehnutelnosti-a-development', icon: 'domain', photo: 's_dev' },
+  { id: 'nehnutelnosti-a-development', icon: 'domain', photo: 'dev_quarter' },
   { id: 'zmluvna-agenda', icon: 'description', photo: 's_contract' },
   { id: 'obcianske-pravo', icon: 'balance', photo: 's_civil' },
   { id: 'obchodne-pravo', icon: 'business_center', photo: 's_biz' },
