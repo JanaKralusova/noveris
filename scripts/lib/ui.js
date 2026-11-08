@@ -263,7 +263,7 @@ function splitBand({ eyebrow: eb, title, paras: ps, photo, link, extraHtml = '',
   const pad = side === 'left' ? 'lg:ml-auto lg:w-[52%] lg:pl-12' : 'lg:w-[52%] lg:pr-12';
   const extra = extraHtml ? `<div class="pt-5">${extraHtml}</div>` : '';
   return `<section class="relative overflow-hidden ${BG[bg] || bg}"><div class="${fade} relative h-48 sm:h-64 lg:absolute lg:inset-y-0 ${pos} lg:h-auto lg:w-[48%]">${photoImg({ ...photo, sizes: coverSizes(photo, { phone: 192, sm: 256, lg: { vw: 48, h: 640 } }) }, 'h-full w-full object-cover')}</div>`
-    + `<div class="relative mx-auto max-w-7xl px-6 py-10 lg:px-8 lg:py-16"><div class="${pad}">${eb ? eyebrow(eb) : ''}`
+    + `<div class="relative mx-auto max-w-7xl px-6 py-12 md:py-16 lg:px-8"><div class="${pad}">${eb ? eyebrow(eb) : ''}`
     + `<h2 class="mt-2 font-headline text-[1.75rem] leading-[1.2] text-ink md:text-[2.25rem]">${esc(title)}</h2><div class="mt-4 space-y-3">${paras(ps, 'text-[15px] leading-[1.6] text-body md:text-[16px]')}</div>${linkBlock(link, 'pt-5')}${extra}</div></div></section>`;
 }
 
@@ -312,7 +312,7 @@ function contactBand({ eyebrow: eb = 'Kontakt', title, paras: ps, cta, photo }) 
   const ph = photo
     ? `<div class="fade-photo-dark absolute inset-y-0 right-0 hidden w-1/2 opacity-60 lg:block">${photoImg({ ...photo, sizes: coverSizes(photo, { lg: { vw: 50, h: 340, only: true } }) }, 'h-full w-full object-cover')}</div>` : '';
   return `<section class="relative overflow-hidden bg-forest">${ph}`
-    + `<div class="relative mx-auto max-w-7xl px-6 py-12 lg:px-8 lg:py-14"><div class="lg:w-[55%]">${eyebrow(eb, { dark: true })}`
+    + `<div class="relative mx-auto max-w-7xl px-6 py-12 md:py-16 lg:px-8"><div class="lg:w-[55%]">${eyebrow(eb, { dark: true })}`
     + `<h2 class="mt-2 font-headline text-[1.875rem] leading-[1.2] text-white md:text-[2.25rem]">${esc(title)}</h2><div class="mt-4 space-y-3">${paras(ps, 'text-[15px] leading-[1.6] text-white/90 md:text-[16px]')}</div>`
     + `<div class="pt-7">${button(cta.text, cta.href, { variant: 'onDark' })}</div></div></div></section>`;
 }

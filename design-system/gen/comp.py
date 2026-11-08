@@ -170,7 +170,7 @@ def split_band(eb, title, paras, photo, link=None, side="left", bg="bg-sand"):
     pos = "lg:left-0" if side == "left" else "lg:right-0"
     pad = "lg:ml-auto lg:w-[52%] lg:pl-12" if side == "left" else "lg:w-[52%] lg:pr-12"
     return (f'<section class="relative overflow-hidden {bg}"><div class="{fade} relative h-48 sm:h-64 lg:absolute lg:inset-y-0 {pos} lg:h-auto lg:w-[48%]">{img(photo,1200)}</div>'
-      f'<div class="relative mx-auto max-w-7xl px-6 py-10 lg:px-8 lg:py-16"><div class="{pad}">{eyebrow(eb) if eb else ""}'
+      f'<div class="relative mx-auto max-w-7xl px-6 py-12 md:py-16 lg:px-8"><div class="{pad}">{eyebrow(eb) if eb else ""}'
       f'<h2 class="mt-2 font-headline text-[1.75rem] leading-[1.2] text-ink md:text-[2.25rem]">{title}</h2><div class="mt-4 space-y-3">{ps}</div>{l}</div></div></section>')
 
 def callout(ic, text):
@@ -194,7 +194,7 @@ def related_band(eb, title, text, link, photo):
 def contact_band(title, paras, cta, photo="plant", cta_href="/kontakt/"):
     ps = "".join(f'<p class="text-[15px] leading-[1.6] text-white/90 md:text-[16px]">{p}</p>' for p in paras)
     return (f'<section class="relative overflow-hidden bg-forest"><div class="fade-photo-dark absolute inset-y-0 right-0 hidden w-1/2 opacity-60 lg:block">{img(photo,1200)}</div>'
-      f'<div class="relative mx-auto max-w-7xl px-6 py-12 lg:px-8 lg:py-14"><div class="lg:w-[55%]">{eyebrow("Kontakt", True)}'
+      f'<div class="relative mx-auto max-w-7xl px-6 py-12 md:py-16 lg:px-8"><div class="lg:w-[55%]">{eyebrow("Kontakt", True)}'
       f'<h2 class="mt-2 font-headline text-[1.875rem] leading-[1.2] text-white md:text-[2.25rem]">{title}</h2><div class="mt-4 space-y-3">{ps}</div><div class="pt-7">{btn_dark(cta, cta_href)}</div></div></div></section>')
 
 def footer():
