@@ -4,8 +4,8 @@
   "slug": "slovensky-pozemkovy-fond-na-liste-vlastnictva",
   "title": "Slovenský pozemkový fond na liste vlastníctva: Čo to znamená a ako postupovať?",
   "excerpt": "Pri hľadaní vlastníka pozemku pod domom, na prístupovej ceste alebo pri spoločnej parcele môžete na liste vlastníctva naraziť na Slovenský pozemkový fond. Jeho zápis často vyvolá otázku, či sa pozemok vôbec dá odkúpiť alebo vysporiadať.",
-  "seoTitle": "SPF na liste vlastníctva: čo to znamená | Noveris Legal",
-  "description": "SPF na liste vlastníctva: kedy ide o štátny pozemok a kedy o pozemok neznámeho vlastníka a aké možnosti vysporiadania pri zápise fondu existujú.",
+  "seoTitle": "Slovenský pozemkový fond na liste vlastníctva | Noveris Legal",
+  "description": "Slovenský pozemkový fond na liste vlastníctva neznamená vždy, že pozemok patrí štátu. Čo zápis SPF znamená a ako pozemok odkúpiť alebo vysporiadať.",
   "tags": [
     "Slovenský pozemkový fond",
     "neznámy vlastník",
