@@ -178,7 +178,3 @@ test('reviewsBand: every card twice, the copy aria-hidden, star labels, escaping
   assert.strictEqual(reviewsBand('en', t, reviewsData(3)), '');
   assert.strictEqual(reviewsBand('sk', t, { reviews: [] }), '');
 });
-
-test('the local comparison output dir _preview/ is git-ignored', () => {
-  assert.ok(read('.gitignore').split('\n').some((l) => l.trim() === '_preview/'));
-});

@@ -551,4 +551,4 @@ function main() {
 
 if (require.main === module) main();
 
-module.exports = { main, outputs, reviewsBand, loadReviews, applyLatest, applyContactBand };
+module.exports = { main, outputs, reviewsBand, loadReviews };

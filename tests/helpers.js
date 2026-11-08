@@ -2,7 +2,7 @@ const fs = require('node:fs');
 const path = require('node:path');
 
 const ROOT = path.resolve(__dirname, '..');
-const EXCLUDED = new Set(['_preview', 'design-system', 'node_modules', 'in', 'templates', 'data', '.git', '.superpowers']);
+const EXCLUDED = new Set(['design-system', 'node_modules', 'in', 'templates', 'data', '.git', '.superpowers']);
 
 function builtPages() {
   const out = [];
