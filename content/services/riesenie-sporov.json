@@ -71,6 +71,7 @@
             ],
             "photo": {
               "name": "woman_sofa_letter",
+              "position": "50% 25%",
               "alt": ""
             }
           },
@@ -193,6 +194,7 @@
             ],
             "photo": {
               "name": "woman_sofa_letter",
+              "position": "50% 25%",
               "alt": ""
             }
           },

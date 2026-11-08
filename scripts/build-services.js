@@ -8,7 +8,8 @@
  *   { "sk": { "sections": [...] }, "en": { "sections": [...] } | null }
  *
  * Each section is { "type": ..., ...props } as accepted by ui.renderSections(). Photos are given as
- * { "name": "<PH key>", "alt": "..." } and resolve to /assets/photos/services/<name>. The hero gets the
+ * { "name": "<PH key>", "alt": "...", "position": "50% 30%" (optional focal point) } and resolve to
+ * /assets/photos/services/<name>. The hero gets the
  * breadcrumb (Domov > Služby > [parent >] page) automatically. Title/description live in content/pages.json.
  */
 
@@ -51,7 +52,8 @@ const SIZES = {
 function resolvePhoto(p, sizes, eager) {
   if (!p) return p;
   if (!p.name) fail('photo without "name"');
-  return { src: `/assets/photos/services/${p.name}`, alt: p.alt || '', sizes: p.sizes || sizes, eager: !!eager };
+  const style = p.position ? `object-position: ${p.position};` : undefined;
+  return { src: `/assets/photos/services/${p.name}`, alt: p.alt || '', sizes: p.sizes || sizes, eager: !!eager, style };
 }
 
 function prepare(sections, crumbs, lang, crumbsLabel) {
