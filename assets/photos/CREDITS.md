@@ -21,6 +21,7 @@ Photos are centre-cropped to at most 4:3 (make-photo.sh); `CROP="x y w h"` cuts 
 | chairs | Michael Fousert | https://unsplash.com/photos/office-chairs-at-conference-table-RNsKphkdBTk | Unsplash License |
 | chim | Alexandr Popadin | https://unsplash.com/photos/-SC9r6ix6vM | Unsplash License |
 | clipped_documents | – | https://www.pexels.com/photo/6693647/ | Pexels License |
+| contract_laptop | – | https://www.pexels.com/photo/close-up-of-hands-working-with-laptop-and-documents-4968561/ | Pexels License |
 | couple_sofa | – | https://www.pexels.com/photo/8559951/ | Pexels License |
 | crane | Matias Santana | https://unsplash.com/photos/gray-building-crane-photo-during-sunset-2ykXqiKHNfk | Unsplash License |
 | desk_laptop | – | https://www.pexels.com/photo/25636747/ | Pexels License |
@@ -58,7 +59,6 @@ Photos are centre-cropped to at most 4:3 (make-photo.sh); `CROP="x y w h"` cuts 
 | prod | Mathias Reding | https://unsplash.com/photos/J-MU2AJNKiI | Unsplash License |
 | s_court | Titus Seawright | https://unsplash.com/photos/-iWupXHt9No | Unsplash License |
 | s_land | Bernd Dittrich | https://unsplash.com/photos/3FeutXJdruk | Unsplash License |
-| sign1 | Leon Seibert | https://unsplash.com/photos/person-writing-on-white-form-paper-9i5eqBarv-k | Unsplash License |
 | sign4 | Shutter Speed | https://unsplash.com/photos/hand-writing-with-a-fountain-pen-on-paper-rz_0EzMAmis | Unsplash License |
 | skyline | Kun Liu | https://unsplash.com/photos/modern-cityscape-with-tall-buildings-at-sunset-T7VKv5DUH5w | Unsplash License |
 | stone_farmhouse | – | https://www.pexels.com/photo/18414268/ | Pexels License |
