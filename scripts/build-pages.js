@@ -271,58 +271,25 @@ function loadReviews() {
 }
 
 // {{reviews}}: Google reviews on the Slovak home page; nothing without reviews (or in English).
-// Three design variants (data.variant or opts.variant, default 'a'): a = moving cards, b = editorial quote (one review
-// at a time), c = rating panel + two quiet moving rows. Moving tracks hold the list twice and slide by half their width
-// (.reviews-track in styles.css); the copy is aria-hidden. REVIEWS_JS (below) adds the pause button and the slideshow.
+// One concept, three item designs (data.variant or opts.variant, default 'a'): a = cards, b = serif quote cards on a sand
+// band, c = hairline editorial row without boxes. All share the header and one moving row: the track holds the list twice
+// and slides by half its width (.reviews-track in styles.css); the copy is aria-hidden. REVIEWS_JS is the pause button.
 const REVIEWS_JS = `<script>
 (function () {
-  var b = document.currentScript.previousElementSibling;
-  if (!b || !b.hasAttribute('data-reviews')) return;
-  var rm = matchMedia('(prefers-reduced-motion: reduce)'), paused = false, hover = false, timer, cur = 0;
-  var tg = b.querySelector('[data-reviews-toggle]'), stage = b.querySelector('[data-stage]');
-  var slides = [].slice.call(b.querySelectorAll('[data-slide]')), dots = [].slice.call(b.querySelectorAll('[data-dot]'));
-  function run() {
-    clearInterval(timer);
-    if (slides.length > 1 && !paused && !hover && !rm.matches && !document.hidden) timer = setInterval(function () { go(cur + 1, false); }, 7000);
-  }
-  function go(i, user) {
-    i = (i + slides.length) % slides.length;
-    stage.setAttribute('aria-live', user ? 'polite' : 'off');
-    slides[cur].removeAttribute('data-current'); slides[cur].setAttribute('aria-hidden', 'true');
-    slides[i].setAttribute('data-current', ''); slides[i].removeAttribute('aria-hidden');
-    if (dots.length) { dots[cur].removeAttribute('aria-current'); dots[i].setAttribute('aria-current', 'true'); }
-    cur = i;
-    if (user) run();
-  }
-  if (tg) {
-    tg.hidden = false;
-    tg.addEventListener('click', function () {
-      paused = !paused;
-      tg.setAttribute('aria-pressed', paused);
-      tg.setAttribute('aria-label', tg.getAttribute(paused ? 'data-label-play' : 'data-label-pause'));
-      if (paused) b.setAttribute('data-paused', ''); else b.removeAttribute('data-paused');
-      run();
-    });
-  }
-  if (!slides.length) return;
-  var controls = b.querySelector('[data-controls]');
-  if (controls && slides.length > 1) controls.hidden = false;
-  b.addEventListener('click', function (e) {
-    var el = e.target.closest('[data-dir],[data-dot]');
-    if (!el) return;
-    go(el.hasAttribute('data-dot') ? +el.getAttribute('data-dot') : cur + (el.getAttribute('data-dir') === 'prev' ? -1 : 1), true);
+  var b = document.currentScript.previousElementSibling, tg = b && b.querySelector('[data-reviews-toggle]');
+  if (!tg) return;
+  tg.hidden = false;
+  tg.addEventListener('click', function () {
+    var p = tg.getAttribute('aria-pressed') !== 'true';
+    tg.setAttribute('aria-pressed', p);
+    tg.setAttribute('aria-label', tg.getAttribute(p ? 'data-label-play' : 'data-label-pause'));
+    if (p) b.setAttribute('data-paused', ''); else b.removeAttribute('data-paused');
   });
-  b.addEventListener('mouseenter', function () { hover = true; run(); });
-  b.addEventListener('mouseleave', function () { hover = false; run(); });
-  b.addEventListener('focusin', function () { hover = true; run(); });
-  b.addEventListener('focusout', function () { hover = false; run(); });
-  document.addEventListener('visibilitychange', run);
-  run();
 })();
 </script>`;
 
 function reviewsBand(lang, t, data = loadReviews(), opts = {}) {
-  let list = (data && data.reviews) || [];
+  const list = (data && data.reviews) || [];
   if (lang !== 'sk' || !list.length) return '';
   const esc = layout.esc;
   const variant = ['a', 'b', 'c'].includes(opts.variant || data.variant) ? (opts.variant || data.variant) : 'a';
@@ -331,64 +298,26 @@ function reviewsBand(lang, t, data = loadReviews(), opts = {}) {
   const rating = data.rating ? String(data.rating).replace('.', ',') : '';
   const count = esc(t['home.reviews.count'].replace('{n}', data.count));
   const allLink = data.url ? ui.linkArrow(t['home.reviews.all'], data.url, 'target="_blank" rel="noopener"') : '';
-  const toggle = (size) => ui.reviewToggle({ pause: t['home.reviews.pause'], play: t['home.reviews.play'], size });
-  const wrap = (inner) => `<section data-band="reviews" data-variant="${variant}" data-reviews${demo ? ' data-demo-review' : ''} class="bg-paper py-12 md:py-16">${inner}</section>${REVIEWS_JS}`;
+  const toggle = ui.reviewToggle({ pause: t['home.reviews.pause'], play: t['home.reviews.play'], size: 'h-8 w-8' });
   const label = esc(t['home.reviews.h2']);
-
-  if (variant === 'b') {
-    const short = list.filter((r) => r.text.length <= 240);
-    if (short.length) list = short;
-    const slides = list.map((r, i) => ui.reviewSlide({ ...r, starLabel: starLabel(r.rating), source: t['home.reviews.source'], current: i === 0, demo })).join('');
-    const dots = list.map((r, i) => `<button type="button" data-dot="${i}"${i === 0 ? ' aria-current="true"' : ''} aria-label="${esc(t['home.reviews.goto'].replace('{n}', i + 1))}" class="review-dot grid h-6 w-6 place-items-center"><span class="block h-1.5 w-1.5 rounded-full"></span></button>`).join('');
-    const aggregate = rating
-      ? '<div class="mt-3 flex flex-wrap items-center justify-center gap-x-2 gap-y-1 text-[14px] text-muted">'
-        + ui.stars(Math.round(data.rating), starLabel(rating), 'h-4 w-4') + `<span class="font-semibold text-ink">${esc(rating)}</span>`
-        + (data.url ? `<a href="${esc(data.url)}" target="_blank" rel="noopener" class="transition-colors hover:text-copper">· ${count}</a>` : `<span>· ${count}</span>`) + '</div>'
-      : '';
-    return wrap('<div class="mx-auto max-w-3xl px-6 text-center">'
-      + `${ui.eyebrow(t['home.reviews.label'])}<h2 class="sr-only">${label}</h2>${aggregate}`
-      + `<div data-stage aria-live="off" class="mt-8 grid md:mt-10">${slides}</div>`
-      + '<div data-controls hidden class="mt-8 flex flex-wrap items-center justify-center gap-4">'
-      + ui.reviewArrow('prev', t['home.reviews.prev'])
-      + `<div class="flex items-center">${dots}</div>`
-      + ui.reviewArrow('next', t['home.reviews.next']) + toggle('h-10 w-10') + '</div></div>');
-  }
-
-  if (variant === 'c') {
-    const half = Math.ceil(list.length / 2);
-    const chips = (items) => items.map((r) => ui.reviewChip({ ...r, starLabel: starLabel(r.rating), demo })).join('');
-    const c1 = chips(list);
-    const c2 = chips([...list.slice(half), ...list.slice(0, half)]);
-    const seconds = Math.max(40, list.length * 9);
-    const row = (c, cls, attrs) => `<div class="reviews-wrap overflow-hidden"${attrs}><div class="reviews-track ${cls} flex w-max" style="animation-duration: ${seconds}s">`
-      + `<ul role="list" class="flex gap-8 pr-8">${c}</ul><ul role="list" aria-hidden="true" class="reviews-copy flex gap-8 pr-8">${c}</ul></div></div>`;
-    const panel = '<div class="flex flex-col rounded-card bg-sand p-8 lg:w-[30%] lg:shrink-0">'
-      + ui.eyebrow(t['home.reviews.label'])
-      + (rating ? `<p class="mt-6 font-headline text-[4rem] leading-none text-ink">${esc(rating)}</p><div class="mt-4">${ui.stars(Math.round(data.rating), starLabel(rating), 'h-5 w-5')}</div><p class="mt-3 text-[14px] text-body">${count}</p>`
-        : `<h2 class="mt-3 font-headline text-[1.75rem] leading-[1.15] text-ink">${label}</h2>`)
-      + `<div class="mt-auto flex items-center justify-between gap-4 pt-8">${allLink || '<span></span>'}${toggle('h-8 w-8')}</div></div>`;
-    return wrap('<div class="mx-auto max-w-7xl px-6 lg:px-8"><div class="flex flex-col gap-8 lg:flex-row lg:items-stretch lg:gap-10">'
-      + (rating ? `<h2 class="sr-only">${label}</h2>` : '') + panel
-      + '<div class="reviews-rows -mx-6 flex min-w-0 flex-col justify-center gap-6 lg:mx-0 lg:flex-1">'
-      + row(c1, '', ` role="region" aria-label="${label}" tabindex="0"`)
-      + row(c2, 'reviews-track-rev', ' aria-hidden="true"') + '</div></div></div>');
-  }
-
-  const cards = list.map((r) => ui.reviewCard({ ...r, starLabel: starLabel(r.rating), source: t['home.reviews.source'], demo })).join('');
+  const item = { a: ui.reviewCard, b: ui.reviewQuoteCard, c: ui.reviewLine }[variant];
+  const items = list.map((r) => item({ ...r, starLabel: starLabel(r.rating), source: t['home.reviews.source'], demo })).join('');
+  const gap = variant === 'a' ? 'gap-5 pr-5' : variant === 'b' ? 'gap-6 pr-6' : 'gap-8 pr-8';
   const aggregate = '<div class="flex flex-col gap-2 md:items-end">'
     + (rating ? '<div class="flex items-center gap-3">'
       + `<span class="font-headline text-[2.25rem] leading-none text-ink">${esc(rating)}</span>${ui.stars(Math.round(data.rating), starLabel(rating), 'h-5 w-5')}`
       + `<span class="text-[14px] text-body">${count}</span></div>` : '')
-    + `<div class="flex items-center gap-4">${allLink}${toggle('h-8 w-8')}</div></div>`;
+    + `<div class="flex items-center gap-4">${allLink}${toggle}</div></div>`;
   const seconds = Math.max(20, list.length * 7);
-  return wrap('<div class="mx-auto max-w-7xl px-6 lg:px-8">'
+  return `<section data-band="reviews" data-variant="${variant}" data-reviews${demo ? ' data-demo-review' : ''} class="${variant === 'b' ? 'bg-sand' : 'bg-paper'} py-12 md:py-16">`
+    + '<div class="mx-auto max-w-7xl px-6 lg:px-8">'
     + '<div class="flex flex-col gap-4 md:flex-row md:items-end md:justify-between md:gap-10"><div>'
     + `${ui.eyebrow(t['home.reviews.label'])}<h2 class="mt-2 font-headline text-[2rem] leading-[1.15] text-ink md:text-[2.5rem]">${label}</h2></div>${aggregate}</div></div>`
     + `<div class="reviews-rows"><div class="reviews-wrap mt-8 overflow-hidden" role="region" aria-label="${label}" tabindex="0">`
     + `<div class="reviews-track flex w-max" style="animation-duration: ${seconds}s">`
-    + `<ul role="list" class="flex gap-5 pr-5">${cards}</ul>`
-    + `<ul role="list" aria-hidden="true" class="reviews-copy flex gap-5 pr-5">${cards}</ul>`
-    + '</div></div></div>');
+    + `<ul role="list" class="flex ${gap}">${items}</ul>`
+    + `<ul role="list" aria-hidden="true" class="reviews-copy flex ${gap}">${items}</ul>`
+    + `</div></div></div></section>${REVIEWS_JS}`;
 }
 
 // {{contactBand:band1}}: closing contact band (dark green) with a photo from assets/photos/services.

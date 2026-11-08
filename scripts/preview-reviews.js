@@ -21,9 +21,9 @@ const { loadArticles } = require('./build-articles');
 
 const { ROOT } = site;
 const VARIANTS = [
-  ['a', 'Variant A — Moving cards'],
-  ['b', 'Variant B — Editorial quote'],
-  ['c', 'Variant C — Rating panel + two rows'],
+  ['a', 'Variant A — Cards'],
+  ['b', 'Variant B — Sand band, serif quote cards'],
+  ['c', 'Variant C — Hairline editorial row'],
 ];
 
 function labelBar(text) {

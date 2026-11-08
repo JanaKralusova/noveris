@@ -186,31 +186,29 @@ const variantData = () => ({ rating: 4.9, count: 23, url: 'https://example.com/r
   { name: 'Cyril', rating: 4, text: 'Ďalšia krátka.' },
 ] });
 
-test('reviewsBand variant b: one quote per review, exactly one current, long texts left out, controls and dots', () => {
-  const { reviewsBand } = require('../scripts/build-pages');
-  const t = require('../scripts/lib/site').loadTranslations().sk;
-  const html = reviewsBand('sk', t, variantData(), { variant: 'b' });
-  assert.strictEqual((html.match(/<figure /g) || []).length, 2);
-  assert.strictEqual((html.match(/<figure [^>]*data-current/g) || []).length, 1);
-  assert.strictEqual((html.match(/data-dot="/g) || []).length, 2);
-  assert.ok(html.includes('aria-live="off"'));
-  assert.ok(html.includes('aria-pressed="false"') && html.includes('Pozastaviť recenzie'));
-  assert.ok(!html.includes('Boris') && !html.includes('data-demo-review'));
-  // all reviews are long: fall back to all of them
-  const long = variantData(); long.reviews = long.reviews.filter((r) => r.name === 'Boris');
-  assert.strictEqual((reviewsBand('sk', t, long, { variant: 'b' }).match(/<figure /g) || []).length, 1);
-});
+for (const v of ['b', 'c']) {
+  test(`reviewsBand variant ${v}: one moving row, the copy aria-hidden, star labels, escaping`, () => {
+    const { reviewsBand } = require('../scripts/build-pages');
+    const t = require('../scripts/lib/site').loadTranslations().sk;
+    const html = reviewsBand('sk', t, reviewsData(3), { variant: v });
+    assert.strictEqual((html.match(/class="reviews-wrap /g) || []).length, 1);
+    assert.strictEqual((html.match(/<li /g) || []).length, 6);
+    const copy = html.slice(html.indexOf('<ul role="list" aria-hidden="true"'));
+    assert.strictEqual((copy.match(/<ul /g) || []).length, 1);
+    assert.strictEqual((copy.match(/<li /g) || []).length, 3);
+    assert.ok(html.includes('aria-label="Hodnotenie 4 z 5"') && html.includes('data-reviews-toggle'));
+    assert.ok(!html.includes('<script>x') && html.includes('&lt;script&gt;') && !html.includes('data-demo-review'));
+    const sectionClass = html.match(/<section [^>]*class="([^"]*)"/)[1];
+    assert.strictEqual(sectionClass.includes('bg-sand'), v === 'b');
+    const items = html.match(/<li [^>]*class="[^"]*"/g);
+    assert.ok(items.every((li) => li.includes('border-l') === (v === 'c') && !li.includes('rounded-card') === (v === 'c')));
+    assert.ok(items.every((li) => !li.includes('border border-line') && !li.includes('shadow')));
+  });
+}
 
-test('reviewsBand variant c: two rows, every copy aria-hidden, second row in another order; variant from data, default a', () => {
+test('reviewsBand: variant from data, default a', () => {
   const { reviewsBand } = require('../scripts/build-pages');
   const t = require('../scripts/lib/site').loadTranslations().sk;
-  const html = reviewsBand('sk', t, variantData(), { variant: 'c' });
-  assert.strictEqual((html.match(/class="reviews-wrap /g) || []).length, 2);
-  assert.strictEqual((html.match(/<ul role="list" aria-hidden="true"/g) || []).length, 2);
-  assert.strictEqual((html.match(/<li /g) || []).length, 12);
-  assert.ok(html.includes('reviews-track-rev'));
-  const names = [...html.matchAll(/text-\[13px\] font-semibold text-ink">(\w+)</g)].map((m) => m[1]);
-  assert.notDeepStrictEqual(names.slice(0, 3), names.slice(6, 9));
   assert.ok(reviewsBand('sk', t, { ...variantData(), variant: 'b' }).includes('data-variant="b"'));
   assert.ok(reviewsBand('sk', t, variantData()).includes('data-variant="a"'));
   assert.ok(reviewsBand('sk', t, variantData(), { variant: 'zzz' }).includes('data-variant="a"'));

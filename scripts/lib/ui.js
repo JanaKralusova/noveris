@@ -417,21 +417,22 @@ function reviewCard({ name, rating, text, starLabel, source, demo = false }) {
     + `<div class="min-w-0"><p class="truncate text-[14px] font-semibold text-ink">${esc(name)}</p><p class="text-[12px] text-muted">${esc(source)}</p></div></div></li>`;
 }
 
-// Variant b: one slide of the editorial quote (all slides sit in one grid cell, only .review-slide[data-current] shows).
-function reviewSlide({ name, rating, text, starLabel, source, current = false, demo = false }) {
-  return `<figure data-slide${current ? ' data-current' : ' aria-hidden="true"'}${demo ? ' data-demo-review' : ''} class="review-slide col-start-1 row-start-1 flex flex-col items-center">`
-    + '<span aria-hidden="true" class="block h-12 font-headline text-[72px] leading-[1.1] text-copper/60">\u201C</span>'
-    + `<blockquote class="font-headline text-[1.5rem] italic leading-[1.4] text-ink md:text-[1.875rem]"><p>${esc(text)}</p></blockquote>`
-    + `<figcaption class="mt-6 flex flex-col items-center gap-2">${stars(rating, starLabel, 'h-3.5 w-3.5')}`
-    + `<span class="text-[14px] font-semibold text-ink">${esc(name)}</span><span class="text-[12px] text-muted">${esc(source)}</span></figcaption></figure>`;
+// Variant b: serif quote card (borderless, on the sand band): copper opening quote, italic text, footer = name + stars.
+function reviewQuoteCard({ name, rating, text, starLabel, source, demo = false }) {
+  return `<li${demo ? ' data-demo-review' : ''} class="flex w-[300px] shrink-0 snap-start flex-col rounded-card bg-paper p-7 sm:w-[380px]">`
+    + '<span aria-hidden="true" class="block font-headline text-[56px] leading-none text-copper">“</span>'
+    + `<p class="line-clamp-6 flex-1 font-headline text-[1.125rem] italic leading-[1.55] text-ink">${esc(text)}</p>`
+    + '<div class="mt-6 border-t border-line pt-4"><div class="flex items-center justify-between gap-3">'
+    + `<p class="min-w-0 truncate font-body text-[14px] font-semibold text-ink">${esc(name)}</p>${stars(rating, starLabel, 'h-3.5 w-3.5')}</div>`
+    + `<p class="mt-1 text-[12px] text-muted">${esc(source)}</p></div></li>`;
 }
 
-// Variant c: borderless quote chip in the two quiet rows; thin divider on the left.
-function reviewChip({ name, rating, text, starLabel, demo = false }) {
-  return `<li${demo ? ' data-demo-review' : ''} class="flex w-[290px] shrink-0 flex-col border-l border-line pl-8 sm:w-[372px]">`
+// Variant c: hairline editorial line: no box, a left hairline separates the quotes; stars, regular serif text, label-style name.
+function reviewLine({ name, rating, text, starLabel, demo = false }) {
+  return `<li${demo ? ' data-demo-review' : ''} class="flex w-[300px] shrink-0 snap-start flex-col border-l border-line py-2 pl-8 pr-4 sm:w-[400px]">`
     + stars(rating, starLabel, 'h-3.5 w-3.5')
-    + `<p class="mt-3 line-clamp-3 max-w-[340px] text-[15px] leading-[1.6] text-body">${esc(text)}</p>`
-    + `<p class="mt-3 text-[13px] font-semibold text-ink">${esc(name)}</p></li>`;
+    + `<p class="mt-4 line-clamp-5 flex-1 font-headline text-[1.25rem] leading-[1.5] text-ink">${esc(text)}</p>`
+    + `<p class="mt-5 font-label text-[11px] font-semibold uppercase tracking-[0.14em] text-copper">${esc(name)} <span class="text-muted">· Google</span></p></li>`;
 }
 
 // Round pause / play toggle for the moving reviews. Hidden until the page script runs (it needs the script to work);
@@ -442,15 +443,8 @@ function reviewToggle({ pause, play, size = 'h-8 w-8' }) {
   return `<button type="button" hidden data-reviews-toggle data-label-pause="${esc(pause)}" data-label-play="${esc(play)}" aria-pressed="false" aria-label="${esc(pause)}" class="reviews-toggle ${size} shrink-0 grid place-items-center rounded-full border border-line bg-card text-ink transition-colors hover:border-copper hover:text-copper">${ICON_PAUSE}${ICON_PLAY}</button>`;
 }
 
-// Round previous / next arrow button (variant b).
-function reviewArrow(dir, label) {
-  const d = dir === 'prev' ? 'M14.5 6l-6 6 6 6' : 'M9.5 6l6 6-6 6';
-  return `<button type="button" data-dir="${dir}" aria-label="${esc(label)}" class="grid h-10 w-10 place-items-center rounded-full border border-line bg-card text-ink transition-colors hover:border-copper hover:text-copper">`
-    + `<svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="${d}"/></svg></button>`;
-}
-
 module.exports = {
   icon, photoImg, eyebrow, button, linkArrow, breadcrumb, chip, section, sectionHeader, hero, heroQuote, cardFeature,
   cardSide, cardTop, cardCompact, cardIcon, articleCard, stepsH, stepsV, splitBand, splitTextList,
-  callout, iconList, twoCol, relatedBand, prose, quote, contactBand, cardGrid, renderSections, reviewCard, reviewSlide, reviewChip, reviewToggle, reviewArrow, stars,
+  callout, iconList, twoCol, relatedBand, prose, quote, contactBand, cardGrid, renderSections, reviewCard, reviewQuoteCard, reviewLine, reviewToggle, stars,
 };

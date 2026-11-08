@@ -56,22 +56,14 @@ a:focus-visible, button:focus-visible, summary:focus-visible { outline: 2px soli
     .reviews-wrap { -webkit-mask-image: linear-gradient(to right, transparent 0, #000 96px, #000 calc(100% - 96px), transparent 100%); mask-image: linear-gradient(to right, transparent 0, #000 96px, #000 calc(100% - 96px), transparent 100%); }
 }
 .reviews-track { animation: reviews-scroll 56s linear infinite; }
-.reviews-track-rev { animation-direction: reverse; }
 .reviews-rows:hover .reviews-track, .reviews-rows:focus-within .reviews-track, [data-reviews][data-paused] .reviews-track { animation-play-state: paused; }
 /* pause / play toggle: shown by the page script (hidden attribute), icon follows aria-pressed (true = paused) */
 .reviews-toggle[hidden], [data-reviews] [hidden] { display: none; }
 .reviews-toggle .i-play, .reviews-toggle[aria-pressed="true"] .i-pause { display: none; }
 .reviews-toggle[aria-pressed="true"] .i-play { display: block; }
-/* variant b: all slides share one grid cell (the cell is as tall as the longest quote, so nothing jumps); fade + 8px rise */
-.review-slide { opacity: 0; visibility: hidden; transform: translateY(8px); transition: opacity 600ms ease, transform 600ms ease, visibility 0s linear 600ms; }
-.review-slide[data-current] { opacity: 1; visibility: visible; transform: none; transition-delay: 0s; }
-.review-dot span { background: #d9d2c5; }
-.review-dot[aria-current="true"] span { width: 18px; background: #8f5535; }
 @media (prefers-reduced-motion: reduce) {
     .reviews-wrap { overflow-x: auto; scroll-snap-type: x mandatory; -webkit-mask-image: none; mask-image: none; padding: 0 1.5rem; }
     .reviews-track { animation: none !important; }
     .reviews-copy { display: none; }
-    .reviews-rows > .reviews-wrap + .reviews-wrap { display: none; }
     .reviews-toggle { display: none !important; }
-    .review-slide { transition: none; }
 }
