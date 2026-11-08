@@ -130,9 +130,9 @@ function applyLatest(html, lang, copy, articles, t) {
 const AREAS = [
   { id: 'vysporiadanie-pozemkov', icon: 'terrain', homeIcon: 'landscape', photo: 's_land' },
   { id: 'nehnutelnosti-a-development', icon: 'domain', photo: 'dev_quarter' },
-  { id: 'zmluvna-agenda', icon: 'description', photo: 's_contract' },
+  { id: 'zmluvna-agenda', icon: 'description', photo: 'laptop_notepad' },
   { id: 'obcianske-pravo', icon: 'balance', photo: 's_civil' },
-  { id: 'obchodne-pravo', icon: 'business_center', photo: 's_biz' },
+  { id: 'obchodne-pravo', icon: 'business_center', photo: 'oak_office' },
   { id: 'riesenie-sporov', icon: 'gavel', photo: 'justice2' },
 ];
 // Phone cards are declared 320px wide so a 1.75x phone picks the 560w file (see SIZES in build-services.js).

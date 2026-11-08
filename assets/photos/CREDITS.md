@@ -17,54 +17,54 @@ Photos are centre-cropped to at most 4:3 (make-photo.sh); `CROP="x y w h"` cuts 
 | bld | Tobias Wilden | https://unsplash.com/photos/apartment-building-reflecting-pink-sky-4453DIQWtsQ | Unsplash License |
 | books_pen | Mikhail Pavstyuk | https://unsplash.com/photos/selective-focus-photography-of-three-books-beside-opened-notebook-EKy2OTRPXdw | Unsplash License |
 | bratislava_square | – | https://www.pexels.com/photo/16438456/ | Pexels License |
+| broken_window | – | https://www.pexels.com/photo/11606700/ | Pexels License |
+| business_park_aerial | – | https://unsplash.com/photos/N9pLLb_M8DQ | Unsplash License (mirrored) |
 | calc | Cht Gsml | https://unsplash.com/photos/desk-with-calculator-binders-notebook-and-glasses--6LEDthF1AI | Unsplash License |
 | chairs | Michael Fousert | https://unsplash.com/photos/office-chairs-at-conference-table-RNsKphkdBTk | Unsplash License |
 | chim | Alexandr Popadin | https://unsplash.com/photos/-SC9r6ix6vM | Unsplash License |
+| clipped_documents | – | https://www.pexels.com/photo/6693647/ | Pexels License |
+| couple_sofa | – | https://www.pexels.com/photo/8559951/ | Pexels License |
 | crane | Matias Santana | https://unsplash.com/photos/gray-building-crane-photo-during-sunset-2ykXqiKHNfk | Unsplash License |
+| desk_laptop | – | https://www.pexels.com/photo/25636747/ | Pexels License |
 | dev_quarter | – | https://www.pexels.com/photo/27307397/ | Pexels License |
 | euro_envelope | – | https://unsplash.com/photos/ms6N-gBtbCQ | Unsplash License |
+| family_garden | – | https://www.pexels.com/photo/5638612/ | Pexels License |
 | farm1 | Damian Kravchuk | https://unsplash.com/photos/p7u7E1YJiB8 | Unsplash License |
 | fence_gate | – | https://www.pexels.com/photo/14306688/ | Pexels License |
 | folders | Beatriz Perez Moya | https://unsplash.com/photos/a-stack-of-thick-folders-on-a-white-surface-XN4T2PVUUgk | Unsplash License |
 | gavel | Sasun Bughdaryan | https://unsplash.com/photos/a-wooden-gavel-rests-on-a-closed-book-NB1dUts3ROU | Unsplash License |
 | glassbld | Joakim Honkasalo | https://unsplash.com/photos/glass-office-building-at-dusk-gKMxcHB3U3E | Unsplash License |
 | gov | Yang-Chen Lin | https://unsplash.com/photos/Gy2_7oTYbhU | Unsplash License |
-| hero | Bernd Dittrich | https://unsplash.com/photos/ZqikUPAU68c | Unsplash License |
 | hero_eu | Jonathan Arbely | https://unsplash.com/photos/2gs-IfX4DnM | Unsplash License |
 | horse | Jacob Jolibois | https://unsplash.com/photos/_CZYN3UN544 | Unsplash License |
 | interior | Julia (@beazy) | https://unsplash.com/photos/aX1TTOuq83M | Unsplash License |
-| jar | Berat Korkmaz | https://unsplash.com/photos/broken-terracotta-storage-jar-V4maEv2ssfg | Unsplash License |
 | justice2 | Adrien Delforge | https://unsplash.com/photos/0LUqdizULdY | Unsplash License |
-| justice_book | Sasun Bughdaryan | https://unsplash.com/photos/statue-of-justice-gavel-and-open-book-on-table-YFz39MOmxnQ | Unsplash License |
 | justice_dark | Sasun Bughdaryan | https://unsplash.com/photos/statue-of-justice-with-scales-on-dark-background-KRNCAqkk8TE | Unsplash License |
 | laptop_notebook | – | https://www.pexels.com/photo/5554650/ | Pexels License |
+| laptop_notepad | – | https://www.pexels.com/photo/8850629/ | Pexels License |
 | logistics_aerial | – | https://www.pexels.com/photo/2804929/ | Pexels License |
 | manor_aerial | – | https://unsplash.com/photos/zAzaEsB9ZL4 | Unsplash License |
 | meeting_sil | Marco Bianchetti | https://unsplash.com/photos/a-group-of-people-sitting-at-a-table-in-front-of-a-window-JLS3I_cYx-k | Unsplash License |
 | meeting_view | – | https://unsplash.com/photos/ov_ctAopIoI | Unsplash License |
 | moving_boxes | – | https://www.pexels.com/photo/4246091/ | Pexels License |
+| oak_office | – | https://unsplash.com/photos/agz5hQ0rXUc | Unsplash License |
 | off | Linus Belanger | https://unsplash.com/photos/z-XlxM2vAPY | Unsplash License |
 | paperstack | ron dyar | https://unsplash.com/photos/stack-of-papers-V29UWcALNko | Unsplash License |
 | patchwork_aerial | – | https://www.pexels.com/photo/8322786/ | Pexels License |
-| pen | David Travis | https://unsplash.com/photos/5bYxXawHOQg | Unsplash License |
 | pensign | Signature Pro | https://unsplash.com/photos/person-writing-on-white-paper-wB9iWZKwljw | Unsplash License |
 | plan1 | Marina Zvada | https://unsplash.com/photos/fNxmdlYHRm8 | Unsplash License |
 | planmodel | Declan Sun | https://unsplash.com/photos/architectural-model-with-blueprints-on-wall-1hEhb26Bn20 | Unsplash License |
 | prod | Mathias Reding | https://unsplash.com/photos/J-MU2AJNKiI | Unsplash License |
-| rings | Sandy Millar | https://unsplash.com/photos/two-gold-colored-rings-on-paper-YeJWDWeIZho | Unsplash License |
-| s_biz | Colin White | https://unsplash.com/photos/PvNXRpRfbwo | Unsplash License |
 | s_civil | Jakub Żerdzicki | https://unsplash.com/photos/bqUZEAeWuok | Unsplash License |
-| s_contract | 2H Media | https://unsplash.com/photos/spScdgWY-_c | Unsplash License |
 | s_court | Titus Seawright | https://unsplash.com/photos/-iWupXHt9No | Unsplash License |
 | s_land | Bernd Dittrich | https://unsplash.com/photos/3FeutXJdruk | Unsplash License |
 | sign1 | Leon Seibert | https://unsplash.com/photos/person-writing-on-white-form-paper-9i5eqBarv-k | Unsplash License |
-| sign3 | Scott Graham | https://unsplash.com/photos/man-writing-on-paper-OQMZwNd3ThU | Unsplash License |
 | sign4 | Shutter Speed | https://unsplash.com/photos/hand-writing-with-a-fountain-pen-on-paper-rz_0EzMAmis | Unsplash License |
-| sil2 | Ana Paula Grimaldi | https://unsplash.com/photos/silhouette-of-people-standing-near-window-q3qzED6Ina0 | Unsplash License |
 | sil3 | Christian Agbede | https://unsplash.com/photos/two-people-silhouetted-against-a-bright-sky-zAi1pgHz1T4 | Unsplash License |
 | skyline | Kun Liu | https://unsplash.com/photos/modern-cityscape-with-tall-buildings-at-sunset-T7VKv5DUH5w | Unsplash License |
 | stone_farmhouse | – | https://www.pexels.com/photo/18414268/ | Pexels License |
 | sunfield | Erik van Dijk | https://unsplash.com/photos/green-grass-field-with-trees-during-daytime-fhItZw4xYhI | Unsplash License |
+| sunroom_table | – | https://unsplash.com/photos/bcaFHquzu3M | Unsplash License |
 | table2 | Amina Atar | https://unsplash.com/photos/two-men-sitting-at-a-table-with-papers-and-a-pen-Mqc-m8kgxkg | Unsplash License |
 | timber_facade | – | https://unsplash.com/photos/rn7TtBdzkBk | Unsplash License |
 | tree_lane | – | https://www.pexels.com/photo/33301797/ | Pexels License |
