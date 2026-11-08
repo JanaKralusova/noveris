@@ -178,3 +178,9 @@ test('reviewsBand: every card twice, the copy aria-hidden, star labels, escaping
   assert.strictEqual(reviewsBand('en', t, reviewsData(3)), '');
   assert.strictEqual(reviewsBand('sk', t, { reviews: [] }), '');
 });
+
+test('two photo bands that follow each other are separated by a band gap (split band -> contact band)', () => {
+  const html = read('sluzby/riesenie-sporov/index.html');
+  assert.match(html, /<section class="photo-band [^"]*"[\s\S]*?<\/section><div class="band-gap" aria-hidden="true"><\/div><section class="photo-band [^"]*bg-forest/);
+  assert.match(read('styles.css'), /\.photo-band \+ \.band-gap:has\(\+ \.photo-band\)/);
+});

@@ -67,3 +67,8 @@ a:focus-visible, button:focus-visible, summary:focus-visible { outline: 2px soli
     .reviews-copy { display: none; }
     .reviews-toggle { display: none !important; }
 }
+
+/* Gap between two photo bands (split band, contact band) that follow each other: same as the section padding */
+.band-gap { display: none; }
+.photo-band + .band-gap:has(+ .photo-band) { display: block; height: 3rem; }
+@media (min-width: 768px) { .photo-band + .band-gap:has(+ .photo-band) { height: 4rem; } }
