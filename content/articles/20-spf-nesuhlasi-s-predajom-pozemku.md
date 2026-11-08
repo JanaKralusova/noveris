@@ -20,7 +20,7 @@
     "zamietnutá žiadosť o odkúpenie pozemku od SPF"
   ],
   "image": "spf-nesuhlasi-s-predajom-pozemku",
-  "imageAlt": "Dvaja muži v oblekoch sedia pri stole s tabletom, obaja zamyslene podopierajú hlavu",
+  "imageAlt": "Zatvorená drevená brána na poľnej ceste k pozemku v jesennom svetle",
   "date": "2026-11-01"
 }
 ---
