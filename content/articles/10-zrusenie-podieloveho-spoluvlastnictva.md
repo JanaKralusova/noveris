@@ -4,8 +4,8 @@
   "slug": "zrusenie-podieloveho-spoluvlastnictva",
   "title": "Ako zrušiť a vyporiadať podielové spoluvlastníctvo k pozemku?",
   "excerpt": "Pozemok vlastníte spolu s ďalšími ľuďmi, no každý má inú predstavu o jeho využití. Vy chcete stavať, niekto predať a ďalší sa k ničomu nevyjadruje. Alebo chcete svoju časť oddeliť a rozhodovať o nej samostatne.",
-  "seoTitle": "Zrušenie podielového spoluvlastníctva k pozemku | Noveris Legal",
-  "description": "Ako zrušiť podielové spoluvlastníctvo k pozemku, aj keď sa spoluvlastníci nevedia dohodnúť: rozdelenie, prikázanie za náhradu, predaj alebo súd.",
+  "seoTitle": "Zrušenie podielového spoluvlastníctva pozemku",
+  "description": "Zrušenie podielového spoluvlastníctva pozemku: rozdelenie, prikázanie za náhradu či predaj, dohoda alebo súd. Pomôžeme posúdiť vhodné riešenie.",
   "tags": [
     "podielové spoluvlastníctvo",
     "vyporiadanie spoluvlastníctva",

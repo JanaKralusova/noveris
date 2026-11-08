@@ -4,8 +4,8 @@
   "slug": "zistenie-vlastnika-ktory-nie-je-v-katastri",
   "title": "Ako zistiť, komu patrí pozemok, ak vlastník nie je uvedený v katastri?",
   "excerpt": "Potrebujete usporiadať pozemok pri dome, zabezpečiť prístup alebo osloviť vlastníka s ponukou na kúpu. Pri vyhľadávaní v katastri však nenájdete jeho meno. Kde ho hľadať?",
-  "seoTitle": "Ako zistiť, komu patrí pozemok | Noveris Legal",
-  "description": "Ako zistiť, komu patrí pozemok, keď vlastník v katastri chýba alebo je neznámy: kde hľadať, ako pomôžu staré mapy, archívy a dedičské spisy.",
+  "seoTitle": "Zistenie vlastníka pozemku v katastri | Noveris Legal",
+  "description": "Zistenie vlastníka pozemku v katastri: kde hľadať, keď meno chýba, ako pomôžu staré mapy, archívy a dedičské spisy a ako nájsť dnešného vlastníka.",
   "tags": [
     "zistenie vlastníka",
     "neznámy vlastník",
