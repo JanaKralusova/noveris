@@ -271,9 +271,8 @@ function loadReviews() {
 }
 
 // {{reviews}}: Google reviews on the Slovak home page; nothing without reviews (or in English).
-// One concept, three item designs (data.variant or opts.variant, default 'a'): a = cards, b = serif quote cards on a sand
-// band, c = hairline editorial row without boxes. All share the header and one moving row: the track holds the list twice
-// and slides by half its width (.reviews-track in styles.css); the copy is aria-hidden. REVIEWS_JS is the pause button.
+// Header + one moving row of cards: the track holds the list twice and slides by half its width
+// (.reviews-track in styles.css); the copy is aria-hidden. REVIEWS_JS is the pause button.
 const REVIEWS_JS = `<script>
 (function () {
   var b = document.currentScript.previousElementSibling, tg = b && b.querySelector('[data-reviews-toggle]');
@@ -288,11 +287,10 @@ const REVIEWS_JS = `<script>
 })();
 </script>`;
 
-function reviewsBand(lang, t, data = loadReviews(), opts = {}) {
+function reviewsBand(lang, t, data = loadReviews()) {
   const list = (data && data.reviews) || [];
   if (lang !== 'sk' || !list.length) return '';
   const esc = layout.esc;
-  const variant = ['a', 'b', 'c'].includes(opts.variant || data.variant) ? (opts.variant || data.variant) : 'a';
   const demo = !!data.demo;
   const starLabel = (r) => t['home.reviews.stars'].replace('{r}', r);
   const rating = data.rating ? String(data.rating).replace('.', ',') : '';
@@ -300,23 +298,21 @@ function reviewsBand(lang, t, data = loadReviews(), opts = {}) {
   const allLink = data.url ? ui.linkArrow(t['home.reviews.all'], data.url, 'target="_blank" rel="noopener"') : '';
   const toggle = ui.reviewToggle({ pause: t['home.reviews.pause'], play: t['home.reviews.play'], size: 'h-8 w-8' });
   const label = esc(t['home.reviews.h2']);
-  const item = { a: ui.reviewCard, b: ui.reviewQuoteCard, c: ui.reviewLine }[variant];
-  const items = list.map((r) => item({ ...r, starLabel: starLabel(r.rating), source: t['home.reviews.source'], demo })).join('');
-  const gap = variant === 'a' ? 'gap-5 pr-5' : variant === 'b' ? 'gap-6 pr-6' : 'gap-8 pr-8';
+  const items = list.map((r) => ui.reviewCard({ ...r, starLabel: starLabel(r.rating), source: t['home.reviews.source'], demo })).join('');
   const aggregate = '<div class="flex flex-col gap-2 md:items-end">'
     + (rating ? '<div class="flex items-center gap-3">'
       + `<span class="font-headline text-[2.25rem] leading-none text-ink">${esc(rating)}</span>${ui.stars(Math.round(data.rating), starLabel(rating), 'h-5 w-5')}`
       + `<span class="text-[14px] text-body">${count}</span></div>` : '')
     + `<div class="flex items-center gap-4">${allLink}${toggle}</div></div>`;
   const seconds = Math.max(20, list.length * 7);
-  return `<section data-band="reviews" data-variant="${variant}" data-reviews${demo ? ' data-demo-review' : ''} class="${variant === 'b' ? 'bg-sand' : 'bg-paper'} py-12 md:py-16">`
+  return `<section data-band="reviews" data-reviews${demo ? ' data-demo-review' : ''} class="bg-paper py-12 md:py-16">`
     + '<div class="mx-auto max-w-7xl px-6 lg:px-8">'
     + '<div class="flex flex-col gap-4 md:flex-row md:items-end md:justify-between md:gap-10"><div>'
     + `${ui.eyebrow(t['home.reviews.label'])}<h2 class="mt-2 font-headline text-[2rem] leading-[1.15] text-ink md:text-[2.5rem]">${label}</h2></div>${aggregate}</div></div>`
     + `<div class="reviews-rows"><div class="reviews-wrap mt-8 overflow-hidden" role="region" aria-label="${label}" tabindex="0">`
     + `<div class="reviews-track flex w-max" style="animation-duration: ${seconds}s">`
-    + `<ul role="list" class="flex ${gap}">${items}</ul>`
-    + `<ul role="list" aria-hidden="true" class="reviews-copy flex ${gap}">${items}</ul>`
+    + `<ul role="list" class="flex gap-5 pr-5">${items}</ul>`
+    + `<ul role="list" aria-hidden="true" class="reviews-copy flex gap-5 pr-5">${items}</ul>`
     + `</div></div></div></section>${REVIEWS_JS}`;
 }
 

@@ -407,7 +407,7 @@ function stars(rating, label, cls = 'h-4 w-4') {
   for (let i = 1; i <= 5; i++) out += `<svg viewBox="0 0 24 24" class="${cls}" fill="${i <= rating ? '#8f5535' : '#e6e0d6'}" aria-hidden="true"><path d="${STAR_PATH}"/></svg>`;
   return `<span role="img" aria-label="${esc(label)}" class="flex gap-0.5">${out}</span>`;
 }
-// Variant a: card in the moving row; footer = round initial avatar (decorative) + name + source.
+// Card in the moving row; footer = round initial avatar (decorative) + name + source.
 function reviewCard({ name, rating, text, starLabel, source, demo = false }) {
   const initial = Array.from(String(name).trim())[0] || '';
   return `<li${demo ? ' data-demo-review' : ''} class="flex w-[300px] shrink-0 snap-start flex-col rounded-card border border-line bg-card p-6 shadow-soft sm:w-[360px]">`
@@ -415,24 +415,6 @@ function reviewCard({ name, rating, text, starLabel, source, demo = false }) {
     + `<p class="mt-3 line-clamp-6 flex-1 text-[15px] leading-[1.6] text-body">${esc(text)}</p>`
     + `<div class="mt-4 flex items-center gap-3"><span aria-hidden="true" class="grid h-9 w-9 shrink-0 place-items-center rounded-full bg-sand font-headline text-[1.0625rem] leading-none text-forest">${esc(initial.toUpperCase())}</span>`
     + `<div class="min-w-0"><p class="truncate text-[14px] font-semibold text-ink">${esc(name)}</p><p class="text-[12px] text-muted">${esc(source)}</p></div></div></li>`;
-}
-
-// Variant b: serif quote card (borderless, on the sand band): copper opening quote, italic text, footer = name + stars.
-function reviewQuoteCard({ name, rating, text, starLabel, source, demo = false }) {
-  return `<li${demo ? ' data-demo-review' : ''} class="flex w-[300px] shrink-0 snap-start flex-col rounded-card bg-paper p-7 sm:w-[380px]">`
-    + '<span aria-hidden="true" class="block font-headline text-[56px] leading-none text-copper">“</span>'
-    + `<p class="line-clamp-6 flex-1 font-headline text-[1.125rem] italic leading-[1.55] text-ink">${esc(text)}</p>`
-    + '<div class="mt-6 border-t border-line pt-4"><div class="flex items-center justify-between gap-3">'
-    + `<p class="min-w-0 truncate font-body text-[14px] font-semibold text-ink">${esc(name)}</p>${stars(rating, starLabel, 'h-3.5 w-3.5')}</div>`
-    + `<p class="mt-1 text-[12px] text-muted">${esc(source)}</p></div></li>`;
-}
-
-// Variant c: hairline editorial line: no box, a left hairline separates the quotes; stars, regular serif text, label-style name.
-function reviewLine({ name, rating, text, starLabel, demo = false }) {
-  return `<li${demo ? ' data-demo-review' : ''} class="flex w-[300px] shrink-0 snap-start flex-col border-l border-line py-2 pl-8 pr-4 sm:w-[400px]">`
-    + stars(rating, starLabel, 'h-3.5 w-3.5')
-    + `<p class="mt-4 line-clamp-5 flex-1 font-headline text-[1.25rem] leading-[1.5] text-ink">${esc(text)}</p>`
-    + `<p class="mt-5 font-label text-[11px] font-semibold uppercase tracking-[0.14em] text-copper">${esc(name)} <span class="text-muted">· Google</span></p></li>`;
 }
 
 // Round pause / play toggle for the moving reviews. Hidden until the page script runs (it needs the script to work);
@@ -446,5 +428,5 @@ function reviewToggle({ pause, play, size = 'h-8 w-8' }) {
 module.exports = {
   icon, photoImg, eyebrow, button, linkArrow, breadcrumb, chip, section, sectionHeader, hero, heroQuote, cardFeature,
   cardSide, cardTop, cardCompact, cardIcon, articleCard, stepsH, stepsV, splitBand, splitTextList,
-  callout, iconList, twoCol, relatedBand, prose, quote, contactBand, cardGrid, renderSections, reviewCard, reviewQuoteCard, reviewLine, reviewToggle, stars,
+  callout, iconList, twoCol, relatedBand, prose, quote, contactBand, cardGrid, renderSections, reviewCard, reviewToggle, stars,
 };

@@ -240,28 +240,6 @@ def reviews_band(cards):
       '<div class="reviews-wrap mt-8 overflow-hidden"><div class="reviews-track flex w-max" style="animation-duration: 56s">'
       f'<ul role="list" class="flex gap-5 pr-5">{lis}</ul><ul role="list" aria-hidden="true" class="reviews-copy flex gap-5 pr-5">{lis}</ul></div></div></section>')
 
-def quote_card_b(name, rating, text):
-    return (f'<li class="flex w-[300px] shrink-0 snap-start flex-col rounded-card bg-paper p-7 sm:w-[380px]"><span aria-hidden="true" class="block font-headline text-[56px] leading-none text-copper">\u201c</span>'
-      f'<p class="line-clamp-6 flex-1 font-headline text-[1.125rem] italic leading-[1.55] text-ink">{text}</p>'
-      f'<div class="mt-6 border-t border-line pt-4"><div class="flex items-center justify-between gap-3"><p class="min-w-0 truncate font-body text-[14px] font-semibold text-ink">{name}</p>{stars(rating, f"Hodnotenie {rating} z 5", "h-3.5 w-3.5")}</div><p class="mt-1 text-[12px] text-muted">Hodnotenie z Google</p></div></li>')
-
-def line_c(name, rating, text):
-    return (f'<li class="flex w-[300px] shrink-0 snap-start flex-col border-l border-line py-2 pl-8 pr-4 sm:w-[400px]">{stars(rating, f"Hodnotenie {rating} z 5", "h-3.5 w-3.5")}'
-      f'<p class="mt-4 line-clamp-5 flex-1 font-headline text-[1.25rem] leading-[1.5] text-ink">{text}</p>'
-      f'<p class="mt-5 font-label text-[11px] font-semibold uppercase tracking-[0.14em] text-copper">{name} <span class="text-muted">\u00b7 Google</span></p></li>')
-
-def reviews_band_v(cards, item, bg, gap):
-    lis = "".join(item(*c) for c in cards)
-    return (f'<section data-band="reviews" class="{bg} py-12 md:py-16"><div class="mx-auto max-w-7xl px-6 lg:px-8">'
-      '<div class="flex flex-col gap-4 md:flex-row md:items-end md:justify-between md:gap-10"><div>' + eyebrow("Recenzie") +
-      '<h2 class="mt-2 font-headline text-[2rem] leading-[1.15] text-ink md:text-[2.5rem]">Skúsenosti klientov</h2></div>'
-      f'<div class="flex flex-col gap-2 md:items-end"><div class="flex items-center gap-3"><span class="font-headline text-[2.25rem] leading-none text-ink">4,9</span>{stars(5, "Hodnotenie 4,9 z 5", "h-5 w-5")}<span class="text-[14px] text-body">23 hodnotení na Google</span></div>{link_arrow("Všetky hodnotenia na Google")}</div></div></div>'
-      '<div class="reviews-wrap mt-8 overflow-hidden"><div class="reviews-track flex w-max" style="animation-duration: 56s">'
-      f'<ul role="list" class="flex {gap}">{lis}</ul><ul role="list" aria-hidden="true" class="reviews-copy flex {gap}">{lis}</ul></div></div></section>')
-
-def reviews_band_b(cards): return reviews_band_v(cards, quote_card_b, "bg-sand", "gap-6 pr-6")
-def reviews_band_c(cards): return reviews_band_v(cards, line_c, "bg-paper", "gap-8 pr-8")
-
 FIELD = "block w-full rounded-btn border border-field bg-white px-4 py-3 font-body text-[15px] text-ink placeholder:text-muted focus:border-forest focus:ring-2 focus:ring-forest/25"
 def form_card():
     return ('<form class="max-w-xl rounded-card border border-line bg-card p-6 shadow-soft md:p-8" onsubmit="return false" novalidate><div class="space-y-5">'

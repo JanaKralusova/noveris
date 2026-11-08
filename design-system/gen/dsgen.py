@@ -184,13 +184,8 @@ def build():
       +article_tile("cem2","20. 10. 2026","Neprededené pozemky po rodičoch","Ako zistiť, ktoré pozemky v dedičstve chýbajú, ako prebieha dodatočné konanie a čo ak medzičasom zomreli ďalší dedičia.")+'</div>')
     b+=comp("c-article-body","Article body typography","long-form article text (class .ds-article in ds.css; replaces .article-body). 16px / 1.7, copper links, copper list markers.",'<div class="max-w-2xl">'+sample_art+'</div>')
     b+=h2("c-reviews","Reviews")
-    b+=comp("c-reviews-band","Reviews band, variant A: moving cards","home page, between the latest articles and the closing contact band (content/reviews.json field variant = a, the default). White cards with a round initial avatar slide slowly; pause button, pauses on hover/focus, still swipeable row for reduced motion. Renders only when reviews.json has reviews; demo data only with NOVERIS_DEMO_REVIEWS=1. Samples are placeholder text, not real reviews.",
+    b+=comp("c-reviews-band","Reviews band","Reviews band: moving row of Google review cards (pauses on hover/focus, pause button, still swipeable row for reduced motion); renders only when content/reviews.json has reviews; demo data only with NOVERIS_DEMO_REVIEWS=1. Samples are placeholder text, not real reviews.",
       reviews_band([("Meno P.",5,"Ukážkový text recenzie. Skutočné recenzie sa berú z Google a nikdy sa nevymýšľajú."),("Meno Q.",4,"Druhý ukážkový text, o niečo dlhší, aby bolo vidieť zalamovanie riadkov, hviezdičky a pätu s menom a zdrojom."),("Meno R.",5,"Tretí ukážkový text pre rad.")]),pad=False)
-    RV=[("Meno P.",5,"Ukážkový text recenzie. Skutočné recenzie sa berú z Google a nikdy sa nevymýšľajú."),("Meno Q.",4,"Druhý ukážkový text, o niečo dlhší, aby bolo vidieť zalamovanie riadkov, hviezdičky a pätu s menom a zdrojom."),("Meno R.",5,"Tretí ukážkový text pre rad.")]
-    b+=comp("c-reviews-b","Reviews band, variant B: sand band, serif quote cards","variant = b. Same moving row and header; sand band, borderless paper cards with a copper opening quote, Newsreader italic text, footer with name and stars.",
-      reviews_band_b(RV),pad=False)
-    b+=comp("c-reviews-c","Reviews band, variant C: hairline editorial row","variant = c. Same moving row and header on paper; no boxes, a hairline between the quotes, stars, regular Newsreader text, copper uppercase name label.",
-      reviews_band_c(RV),pad=False)
     b+=h2("c-forms","Forms")+comp("c-form","Form card","contact page. Fields: 1px field border, 4px radius, forest focus ring; the e-mail field shows the error state (red text + border + icon, linked by aria-describedby).",form_card(),bg="bg-sand")
     b+='</main>'+DRAWER_JS+MEASURE_JS+'\n</body>\n</html>\n'
     open(ROOT+'index.html','w').write(h+b)

@@ -3,12 +3,12 @@
 'use strict';
 
 /*
- * Local comparison page for the three home reviews band variants (a, b, c), rendered with the DEMO data.
+ * Local preview page for the home reviews band, rendered with the DEMO data.
  *
  *   node scripts/preview-reviews.js      ->  _preview/reviews/index.html
  *
  * _preview/ is git-ignored and never deployed. The page uses the normal site layout (header, footer, inline CSS),
- * is noindex, and puts each variant under a small label bar, between the real latest-articles section and the
+ * is noindex, and puts the band under a small label bar, between the real latest-articles section and the
  * closing contact band of the home page. Run `npm run build:css` first when new classes were added.
  */
 
@@ -20,11 +20,6 @@ const { reviewsBand, applyLatest, applyContactBand } = require('./build-pages');
 const { loadArticles } = require('./build-articles');
 
 const { ROOT } = site;
-const VARIANTS = [
-  ['a', 'Variant A — Cards'],
-  ['b', 'Variant B — Sand band, serif quote cards'],
-  ['c', 'Variant C — Hairline editorial row'],
-];
 
 function labelBar(text) {
   return `<div class="border-y border-line bg-sand"><p class="mx-auto max-w-7xl px-6 py-2 font-mono text-[12px] uppercase tracking-[0.12em] text-muted lg:px-8">${layout.esc(text)}</p></div>`;
@@ -42,7 +37,7 @@ function build() {
   const articles = loadArticles(path.join(ROOT, 'content', 'articles'));
   const latest = applyLatest(latestSection, lang, site.loadSiteCopy(), articles, t);
   const contact = applyContactBand('{{contactBand:band1}}', t, lang);
-  const bands = VARIANTS.map(([v, label]) => labelBar(label) + reviewsBand(lang, t, demo, { variant: v })).join('\n');
+  const bands = labelBar('Reviews band (demo data)') + reviewsBand(lang, t, demo);
   const main = `${latest}\n${bands}\n${labelBar('Closing contact band (context)')}\n${contact}`;
   const html = layout.renderDocument({
     generated: '<!-- Local preview: not part of the site -->',
@@ -50,8 +45,8 @@ function build() {
     active: null,
     switchTo: null,
     head: {
-      title: 'Reviews band variants (preview)',
-      description: 'Local comparison page, not deployed.',
+      title: 'Reviews band (preview)',
+      description: 'Local preview page, not deployed.',
       robots: 'noindex',
       og: {},
     },
