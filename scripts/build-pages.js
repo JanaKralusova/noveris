@@ -131,7 +131,7 @@ const AREAS = [
   { id: 'vysporiadanie-pozemkov', icon: 'terrain', homeIcon: 'landscape', photo: 's_land' },
   { id: 'nehnutelnosti-a-development', icon: 'domain', photo: 'dev_quarter' },
   { id: 'zmluvna-agenda', icon: 'description', photo: 'laptop_notepad' },
-  { id: 'obcianske-pravo', icon: 'balance', photo: 's_civil' },
+  { id: 'obcianske-pravo', icon: 'balance', photo: 'neighbourhood_aerial' },
   { id: 'obchodne-pravo', icon: 'business_center', photo: 'oak_office' },
   { id: 'riesenie-sporov', icon: 'gavel', photo: 'justice2' },
 ];

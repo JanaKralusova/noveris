@@ -15,11 +15,9 @@ Photos are centre-cropped to at most 4:3 (make-photo.sh); `CROP="x y w h"` cuts 
 | band3 | @seelean | https://unsplash.com/photos/ufNDnFKEKQE | Unsplash License |
 | band4 | Clay Banks | https://unsplash.com/photos/b6Bs19onFtY | Unsplash License |
 | bld | Tobias Wilden | https://unsplash.com/photos/apartment-building-reflecting-pink-sky-4453DIQWtsQ | Unsplash License |
-| books_pen | Mikhail Pavstyuk | https://unsplash.com/photos/selective-focus-photography-of-three-books-beside-opened-notebook-EKy2OTRPXdw | Unsplash License |
 | bratislava_square | – | https://www.pexels.com/photo/16438456/ | Pexels License |
 | broken_window | – | https://www.pexels.com/photo/11606700/ | Pexels License |
 | business_park_aerial | – | https://unsplash.com/photos/N9pLLb_M8DQ | Unsplash License (mirrored) |
-| calc | Cht Gsml | https://unsplash.com/photos/desk-with-calculator-binders-notebook-and-glasses--6LEDthF1AI | Unsplash License |
 | chairs | Michael Fousert | https://unsplash.com/photos/office-chairs-at-conference-table-RNsKphkdBTk | Unsplash License |
 | chim | Alexandr Popadin | https://unsplash.com/photos/-SC9r6ix6vM | Unsplash License |
 | clipped_documents | – | https://www.pexels.com/photo/6693647/ | Pexels License |
@@ -35,6 +33,7 @@ Photos are centre-cropped to at most 4:3 (make-photo.sh); `CROP="x y w h"` cuts 
 | gavel | Sasun Bughdaryan | https://unsplash.com/photos/a-wooden-gavel-rests-on-a-closed-book-NB1dUts3ROU | Unsplash License |
 | glassbld | Joakim Honkasalo | https://unsplash.com/photos/glass-office-building-at-dusk-gKMxcHB3U3E | Unsplash License |
 | gov | Yang-Chen Lin | https://unsplash.com/photos/Gy2_7oTYbhU | Unsplash License |
+| grandparents_kiss | – | https://www.pexels.com/photo/girls-kissing-their-lovely-grandparents-5637745/ | Pexels License |
 | hero_eu | Jonathan Arbely | https://unsplash.com/photos/2gs-IfX4DnM | Unsplash License |
 | horse | Jacob Jolibois | https://unsplash.com/photos/_CZYN3UN544 | Unsplash License |
 | interior | Julia (@beazy) | https://unsplash.com/photos/aX1TTOuq83M | Unsplash License |
@@ -47,20 +46,20 @@ Photos are centre-cropped to at most 4:3 (make-photo.sh); `CROP="x y w h"` cuts 
 | meeting_sil | Marco Bianchetti | https://unsplash.com/photos/a-group-of-people-sitting-at-a-table-in-front-of-a-window-JLS3I_cYx-k | Unsplash License |
 | meeting_view | – | https://unsplash.com/photos/ov_ctAopIoI | Unsplash License |
 | moving_boxes | – | https://www.pexels.com/photo/4246091/ | Pexels License |
+| neighbourhood_aerial | Andreas Miller | https://unsplash.com/photos/97QKwskuvSg | Unsplash License |
 | oak_office | – | https://unsplash.com/photos/agz5hQ0rXUc | Unsplash License |
 | off | Linus Belanger | https://unsplash.com/photos/z-XlxM2vAPY | Unsplash License |
 | paperstack | ron dyar | https://unsplash.com/photos/stack-of-papers-V29UWcALNko | Unsplash License |
+| pastel_meeting | – | https://unsplash.com/photos/mmUY3ld3Ib4 | Unsplash License |
 | patchwork_aerial | – | https://www.pexels.com/photo/8322786/ | Pexels License |
 | pensign | Signature Pro | https://unsplash.com/photos/person-writing-on-white-paper-wB9iWZKwljw | Unsplash License |
 | plan1 | Marina Zvada | https://unsplash.com/photos/fNxmdlYHRm8 | Unsplash License |
 | planmodel | Declan Sun | https://unsplash.com/photos/architectural-model-with-blueprints-on-wall-1hEhb26Bn20 | Unsplash License |
 | prod | Mathias Reding | https://unsplash.com/photos/J-MU2AJNKiI | Unsplash License |
-| s_civil | Jakub Żerdzicki | https://unsplash.com/photos/bqUZEAeWuok | Unsplash License |
 | s_court | Titus Seawright | https://unsplash.com/photos/-iWupXHt9No | Unsplash License |
 | s_land | Bernd Dittrich | https://unsplash.com/photos/3FeutXJdruk | Unsplash License |
 | sign1 | Leon Seibert | https://unsplash.com/photos/person-writing-on-white-form-paper-9i5eqBarv-k | Unsplash License |
 | sign4 | Shutter Speed | https://unsplash.com/photos/hand-writing-with-a-fountain-pen-on-paper-rz_0EzMAmis | Unsplash License |
-| sil3 | Christian Agbede | https://unsplash.com/photos/two-people-silhouetted-against-a-bright-sky-zAi1pgHz1T4 | Unsplash License |
 | skyline | Kun Liu | https://unsplash.com/photos/modern-cityscape-with-tall-buildings-at-sunset-T7VKv5DUH5w | Unsplash License |
 | stone_farmhouse | – | https://www.pexels.com/photo/18414268/ | Pexels License |
 | sunfield | Erik van Dijk | https://unsplash.com/photos/green-grass-field-with-trees-during-daytime-fhItZw4xYhI | Unsplash License |
@@ -75,6 +74,7 @@ Photos are centre-cropped to at most 4:3 (make-photo.sh); `CROP="x y w h"` cuts 
 | owners_tree | AI-generated image supplied by Noveris Legal (own image) | – | Own image |
 | bratislava_castle | AI-generated image supplied by Noveris Legal (own image) | – | Own image |
 | privacy_desk | AI-generated image supplied by Noveris Legal (own image) | – | Own image |
+| woman_sofa_letter | – | https://www.pexels.com/photo/a-woman-with-problems-sitting-on-the-sofa-8487215/ | Pexels License |
 
 Notes:
 - `bratislava_castle` (castle, old town, Danube) is the contact hero.
