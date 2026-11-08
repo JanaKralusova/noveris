@@ -15,3 +15,6 @@ out/
 
 # Source inputs (working drafts)
 in/
+
+# Local-only previews (scripts/preview-reviews.js)
+_preview/

@@ -407,15 +407,50 @@ function stars(rating, label, cls = 'h-4 w-4') {
   for (let i = 1; i <= 5; i++) out += `<svg viewBox="0 0 24 24" class="${cls}" fill="${i <= rating ? '#8f5535' : '#e6e0d6'}" aria-hidden="true"><path d="${STAR_PATH}"/></svg>`;
   return `<span role="img" aria-label="${esc(label)}" class="flex gap-0.5">${out}</span>`;
 }
+// Variant a: card in the moving row; footer = round initial avatar (decorative) + name + source.
 function reviewCard({ name, rating, text, starLabel, source, demo = false }) {
+  const initial = Array.from(String(name).trim())[0] || '';
   return `<li${demo ? ' data-demo-review' : ''} class="flex w-[300px] shrink-0 snap-start flex-col rounded-card border border-line bg-card p-6 shadow-soft sm:w-[360px]">`
     + stars(rating, starLabel)
     + `<p class="mt-3 line-clamp-6 flex-1 text-[15px] leading-[1.6] text-body">${esc(text)}</p>`
-    + `<div class="mt-4"><p class="text-[14px] font-semibold text-ink">${esc(name)}</p><p class="text-[12px] text-muted">${esc(source)}</p></div></li>`;
+    + `<div class="mt-4 flex items-center gap-3"><span aria-hidden="true" class="grid h-9 w-9 shrink-0 place-items-center rounded-full bg-sand font-headline text-[1.0625rem] leading-none text-forest">${esc(initial.toUpperCase())}</span>`
+    + `<div class="min-w-0"><p class="truncate text-[14px] font-semibold text-ink">${esc(name)}</p><p class="text-[12px] text-muted">${esc(source)}</p></div></div></li>`;
+}
+
+// Variant b: one slide of the editorial quote (all slides sit in one grid cell, only .review-slide[data-current] shows).
+function reviewSlide({ name, rating, text, starLabel, source, current = false, demo = false }) {
+  return `<figure data-slide${current ? ' data-current' : ' aria-hidden="true"'}${demo ? ' data-demo-review' : ''} class="review-slide col-start-1 row-start-1 flex flex-col items-center">`
+    + '<span aria-hidden="true" class="block h-12 font-headline text-[72px] leading-[1.1] text-copper/60">\u201C</span>'
+    + `<blockquote class="font-headline text-[1.5rem] italic leading-[1.4] text-ink md:text-[1.875rem]"><p>${esc(text)}</p></blockquote>`
+    + `<figcaption class="mt-6 flex flex-col items-center gap-2">${stars(rating, starLabel, 'h-3.5 w-3.5')}`
+    + `<span class="text-[14px] font-semibold text-ink">${esc(name)}</span><span class="text-[12px] text-muted">${esc(source)}</span></figcaption></figure>`;
+}
+
+// Variant c: borderless quote chip in the two quiet rows; thin divider on the left.
+function reviewChip({ name, rating, text, starLabel, demo = false }) {
+  return `<li${demo ? ' data-demo-review' : ''} class="flex w-[290px] shrink-0 flex-col border-l border-line pl-8 sm:w-[372px]">`
+    + stars(rating, starLabel, 'h-3.5 w-3.5')
+    + `<p class="mt-3 line-clamp-3 max-w-[340px] text-[15px] leading-[1.6] text-body">${esc(text)}</p>`
+    + `<p class="mt-3 text-[13px] font-semibold text-ink">${esc(name)}</p></li>`;
+}
+
+// Round pause / play toggle for the moving reviews. Hidden until the page script runs (it needs the script to work);
+// aria-pressed="true" = paused (icons and labels swap in styles.css / the script). Labels are already translated.
+const ICON_PAUSE = '<svg class="i-pause" viewBox="0 0 24 24" width="14" height="14" fill="currentColor" aria-hidden="true"><rect x="6" y="5" width="4" height="14" rx="1"/><rect x="14" y="5" width="4" height="14" rx="1"/></svg>';
+const ICON_PLAY = '<svg class="i-play" viewBox="0 0 24 24" width="14" height="14" fill="currentColor" aria-hidden="true"><path d="M8 5.5v13a1 1 0 0 0 1.5.9l10.4-6.5a1 1 0 0 0 0-1.8L9.5 4.6A1 1 0 0 0 8 5.5z"/></svg>';
+function reviewToggle({ pause, play, size = 'h-8 w-8' }) {
+  return `<button type="button" hidden data-reviews-toggle data-label-pause="${esc(pause)}" data-label-play="${esc(play)}" aria-pressed="false" aria-label="${esc(pause)}" class="reviews-toggle ${size} shrink-0 grid place-items-center rounded-full border border-line bg-card text-ink transition-colors hover:border-copper hover:text-copper">${ICON_PAUSE}${ICON_PLAY}</button>`;
+}
+
+// Round previous / next arrow button (variant b).
+function reviewArrow(dir, label) {
+  const d = dir === 'prev' ? 'M14.5 6l-6 6 6 6' : 'M9.5 6l6 6-6 6';
+  return `<button type="button" data-dir="${dir}" aria-label="${esc(label)}" class="grid h-10 w-10 place-items-center rounded-full border border-line bg-card text-ink transition-colors hover:border-copper hover:text-copper">`
+    + `<svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="${d}"/></svg></button>`;
 }
 
 module.exports = {
   icon, photoImg, eyebrow, button, linkArrow, breadcrumb, chip, section, sectionHeader, hero, heroQuote, cardFeature,
   cardSide, cardTop, cardCompact, cardIcon, articleCard, stepsH, stepsV, splitBand, splitTextList,
-  callout, iconList, twoCol, relatedBand, prose, quote, contactBand, cardGrid, renderSections, reviewCard, stars,
+  callout, iconList, twoCol, relatedBand, prose, quote, contactBand, cardGrid, renderSections, reviewCard, reviewSlide, reviewChip, reviewToggle, reviewArrow, stars,
 };

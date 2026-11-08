@@ -229,7 +229,7 @@ def stars(n, label, cls="h-4 w-4"):
 def review_card(name, rating, text):
     return (f'<li class="flex w-[300px] shrink-0 snap-start flex-col rounded-card border border-line bg-card p-6 shadow-soft sm:w-[360px]">{stars(rating, f"Hodnotenie {rating} z 5")}'
       f'<p class="mt-3 line-clamp-6 flex-1 text-[15px] leading-[1.6] text-body">{text}</p>'
-      f'<div class="mt-4"><p class="text-[14px] font-semibold text-ink">{name}</p><p class="text-[12px] text-muted">Hodnotenie z Google</p></div></li>')
+      f'<div class="mt-4 flex items-center gap-3"><span aria-hidden="true" class="grid h-9 w-9 shrink-0 place-items-center rounded-full bg-sand font-headline text-[1.0625rem] leading-none text-forest">{name[0]}</span><div class="min-w-0"><p class="truncate text-[14px] font-semibold text-ink">{name}</p><p class="text-[12px] text-muted">Hodnotenie z Google</p></div></div></li>')
 
 def reviews_band(cards):
     lis = "".join(review_card(*c) for c in cards)
@@ -239,6 +239,33 @@ def reviews_band(cards):
       f'<div class="flex flex-col gap-2 md:items-end"><div class="flex items-center gap-3"><span class="font-headline text-[2.25rem] leading-none text-ink">4,9</span>{stars(5, "Hodnotenie 4,9 z 5", "h-5 w-5")}<span class="text-[14px] text-body">23 hodnotení na Google</span></div>{link_arrow("Všetky hodnotenia na Google")}</div></div></div>'
       '<div class="reviews-wrap mt-8 overflow-hidden"><div class="reviews-track flex w-max" style="animation-duration: 56s">'
       f'<ul role="list" class="flex gap-5 pr-5">{lis}</ul><ul role="list" aria-hidden="true" class="reviews-copy flex gap-5 pr-5">{lis}</ul></div></div></section>')
+
+def reviews_band_b(text, name):
+    return ('<section class="bg-paper py-12 md:py-16"><div class="mx-auto max-w-3xl px-6 text-center">' + eyebrow("Recenzie") +
+      f'<div class="mt-3 flex flex-wrap items-center justify-center gap-x-2 gap-y-1 text-[14px] text-muted">{stars(5, "Hodnotenie 4,9 z 5", "h-4 w-4")}<span class="font-semibold text-ink">4,9</span><span>· 23 hodnotení na Google</span></div>'
+      '<div class="mt-8 flex flex-col items-center"><span aria-hidden="true" class="block h-12 font-headline text-[72px] leading-[1.1] text-copper/60">\u201c</span>'
+      f'<blockquote class="font-headline text-[1.5rem] italic leading-[1.4] text-ink md:text-[1.875rem]"><p>{text}</p></blockquote>'
+      f'<div class="mt-6 flex flex-col items-center gap-2">{stars(5, "Hodnotenie 5 z 5", "h-3.5 w-3.5")}<span class="text-[14px] font-semibold text-ink">{name}</span><span class="text-[12px] text-muted">Hodnotenie z Google</span></div></div>'
+      '<div class="mt-8 flex items-center justify-center gap-4">'
+      '<span class="grid h-10 w-10 place-items-center rounded-full border border-line bg-card text-ink"><svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><path d="M14.5 6l-6 6 6 6"/></svg></span>'
+      '<div class="flex items-center gap-3"><span class="block h-1.5 w-[18px] rounded-full bg-copper"></span>' + '<span class="block h-1.5 w-1.5 rounded-full bg-[#d9d2c5]"></span>'*4 + '</div>'
+      '<span class="grid h-10 w-10 place-items-center rounded-full border border-line bg-card text-ink"><svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><path d="M9.5 6l6 6-6 6"/></svg></span>'
+      '</div></div></section>')
+
+def chip_c(name, rating, text):
+    return (f'<li class="flex w-[290px] shrink-0 flex-col border-l border-line pl-8 sm:w-[372px]">{stars(rating, f"Hodnotenie {rating} z 5", "h-3.5 w-3.5")}'
+      f'<p class="mt-3 line-clamp-3 max-w-[340px] text-[15px] leading-[1.6] text-body">{text}</p><p class="mt-3 text-[13px] font-semibold text-ink">{name}</p></li>')
+
+def reviews_band_c(cards):
+    def row(cs, extra=""):
+        lis = "".join(chip_c(*c) for c in cs)
+        return (f'<div class="reviews-wrap overflow-hidden"><div class="reviews-track {extra} flex w-max" style="animation-duration: 40s">'
+          f'<ul role="list" class="flex gap-8 pr-8">{lis}</ul><ul role="list" aria-hidden="true" class="reviews-copy flex gap-8 pr-8">{lis}</ul></div></div>')
+    return ('<section class="bg-paper py-12 md:py-16"><div class="mx-auto max-w-7xl px-6 lg:px-8"><div class="flex flex-col gap-8 lg:flex-row lg:items-stretch lg:gap-10">'
+      '<div class="flex flex-col rounded-card bg-sand p-8 lg:w-[30%] lg:shrink-0">' + eyebrow("Recenzie") +
+      f'<p class="mt-6 font-headline text-[4rem] leading-none text-ink">4,9</p><div class="mt-4">{stars(5, "Hodnotenie 4,9 z 5", "h-5 w-5")}</div><p class="mt-3 text-[14px] text-body">23 hodnotení na Google</p>'
+      f'<div class="mt-auto pt-8">{link_arrow("Všetky hodnotenia na Google")}</div></div>'
+      '<div class="reviews-rows -mx-6 flex min-w-0 flex-col justify-center gap-6 lg:mx-0 lg:flex-1">' + row(cards) + row(cards[::-1], "reviews-track-rev") + '</div></div></div></section>')
 
 FIELD = "block w-full rounded-btn border border-field bg-white px-4 py-3 font-body text-[15px] text-ink placeholder:text-muted focus:border-forest focus:ring-2 focus:ring-forest/25"
 def form_card():

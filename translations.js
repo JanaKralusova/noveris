@@ -63,6 +63,11 @@ const translations = {
         "home.reviews.all": "Všetky hodnotenia na Google",
         "home.reviews.stars": "Hodnotenie {r} z 5",
         "home.reviews.source": "Hodnotenie z Google",
+        "home.reviews.pause": "Pozastaviť recenzie",
+        "home.reviews.play": "Spustiť recenzie",
+        "home.reviews.prev": "Predchádzajúca recenzia",
+        "home.reviews.next": "Nasledujúca recenzia",
+        "home.reviews.goto": "Recenzia {n}",
 
         // CTA
         "cta.h2": "Potrebujete právnu konzultáciu?",
@@ -214,6 +219,11 @@ const translations = {
         "home.reviews.all": "All reviews on Google",
         "home.reviews.stars": "Rated {r} out of 5",
         "home.reviews.source": "Review on Google",
+        "home.reviews.pause": "Pause reviews",
+        "home.reviews.play": "Play reviews",
+        "home.reviews.prev": "Previous review",
+        "home.reviews.next": "Next review",
+        "home.reviews.goto": "Review {n}",
 
         // CTA
         "cta.h2": "Need a legal consultation?",

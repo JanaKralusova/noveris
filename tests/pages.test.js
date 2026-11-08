@@ -178,3 +178,44 @@ test('reviewsBand: every card twice, the copy aria-hidden, star labels, escaping
   assert.strictEqual(reviewsBand('en', t, reviewsData(3)), '');
   assert.strictEqual(reviewsBand('sk', t, { reviews: [] }), '');
 });
+
+// ---------- reviews band variants ----------
+const variantData = () => ({ rating: 4.9, count: 23, url: 'https://example.com/r', reviews: [
+  { name: 'Anna', rating: 5, text: 'Krátka recenzia.' },
+  { name: 'Boris', rating: 5, text: 'Dlhá recenzia. '.repeat(30) },
+  { name: 'Cyril', rating: 4, text: 'Ďalšia krátka.' },
+] });
+
+test('reviewsBand variant b: one quote per review, exactly one current, long texts left out, controls and dots', () => {
+  const { reviewsBand } = require('../scripts/build-pages');
+  const t = require('../scripts/lib/site').loadTranslations().sk;
+  const html = reviewsBand('sk', t, variantData(), { variant: 'b' });
+  assert.strictEqual((html.match(/<figure /g) || []).length, 2);
+  assert.strictEqual((html.match(/<figure [^>]*data-current/g) || []).length, 1);
+  assert.strictEqual((html.match(/data-dot="/g) || []).length, 2);
+  assert.ok(html.includes('aria-live="off"'));
+  assert.ok(html.includes('aria-pressed="false"') && html.includes('Pozastaviť recenzie'));
+  assert.ok(!html.includes('Boris') && !html.includes('data-demo-review'));
+  // all reviews are long: fall back to all of them
+  const long = variantData(); long.reviews = long.reviews.filter((r) => r.name === 'Boris');
+  assert.strictEqual((reviewsBand('sk', t, long, { variant: 'b' }).match(/<figure /g) || []).length, 1);
+});
+
+test('reviewsBand variant c: two rows, every copy aria-hidden, second row in another order; variant from data, default a', () => {
+  const { reviewsBand } = require('../scripts/build-pages');
+  const t = require('../scripts/lib/site').loadTranslations().sk;
+  const html = reviewsBand('sk', t, variantData(), { variant: 'c' });
+  assert.strictEqual((html.match(/class="reviews-wrap /g) || []).length, 2);
+  assert.strictEqual((html.match(/<ul role="list" aria-hidden="true"/g) || []).length, 2);
+  assert.strictEqual((html.match(/<li /g) || []).length, 12);
+  assert.ok(html.includes('reviews-track-rev'));
+  const names = [...html.matchAll(/text-\[13px\] font-semibold text-ink">(\w+)</g)].map((m) => m[1]);
+  assert.notDeepStrictEqual(names.slice(0, 3), names.slice(6, 9));
+  assert.ok(reviewsBand('sk', t, { ...variantData(), variant: 'b' }).includes('data-variant="b"'));
+  assert.ok(reviewsBand('sk', t, variantData()).includes('data-variant="a"'));
+  assert.ok(reviewsBand('sk', t, variantData(), { variant: 'zzz' }).includes('data-variant="a"'));
+});
+
+test('the local comparison output dir _preview/ is git-ignored', () => {
+  assert.ok(read('.gitignore').split('\n').some((l) => l.trim() === '_preview/'));
+});
