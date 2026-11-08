@@ -126,15 +126,16 @@ function applyLatest(html, lang, copy, articles, t) {
     .replace('{{latest:tiles}}', () => cards.join('\n'));
 }
 
-// The six practice areas, in display order, with their card icon and photo (assets/photos/services).
+// The six practice areas, in display order, with their card icon. The card photo is the service page's hero photo.
 const AREAS = [
-  { id: 'vysporiadanie-pozemkov', icon: 'terrain', homeIcon: 'landscape', photo: 's_land' },
-  { id: 'nehnutelnosti-a-development', icon: 'domain', photo: 'dev_quarter' },
-  { id: 'zmluvna-agenda', icon: 'description', photo: 'laptop_notepad' },
-  { id: 'obcianske-pravo', icon: 'balance', photo: 'neighbourhood_aerial' },
-  { id: 'obchodne-pravo', icon: 'business_center', photo: 'oak_office' },
-  { id: 'riesenie-sporov', icon: 'gavel', photo: 'justice2' },
+  { id: 'vysporiadanie-pozemkov', icon: 'terrain', homeIcon: 'landscape' },
+  { id: 'nehnutelnosti-a-development', icon: 'domain' },
+  { id: 'zmluvna-agenda', icon: 'description' },
+  { id: 'obcianske-pravo', icon: 'balance' },
+  { id: 'obchodne-pravo', icon: 'business_center' },
+  { id: 'riesenie-sporov', icon: 'gavel' },
 ];
+const heroPhotoOf = (id) => loadService(id).sk.sections.find((s) => s.type === 'hero').photo.name;
 // Phone cards are declared 320px wide so a 1.75x phone picks the 560w file (see SIZES in build-services.js).
 const CARD_SIZES = '(min-width: 1024px) 56vw, (min-width: 640px) 90vw, 320px';
 
@@ -150,7 +151,7 @@ function applyServices(html, t, lang) {
     const link = areaLink(a.id, lang, t);
     const base = { title: t[`services.area.${a.id}.title`], href: link.href };
     if (kind === 'icon') return { ...base, icon: a.homeIcon || a.icon, text: t[`services.area.${a.id}.desc`], linkText: link.text, attrs: link.attrs };
-    return { ...base, icon: a.icon, paras: [t[`services.area.${a.id}.desc`]], link, photo: { src: `/assets/photos/services/${a.photo}`, alt: '', sizes: CARD_SIZES } };
+    return { ...base, icon: a.icon, paras: [t[`services.area.${a.id}.desc`]], link, photo: { src: `/assets/photos/services/${heroPhotoOf(a.id)}`, alt: '', sizes: CARD_SIZES } };
   });
   return html
     .replace('{{services:cards}}', () => ui.cardGrid('side', items('side')))
