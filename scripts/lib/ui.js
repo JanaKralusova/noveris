@@ -209,7 +209,7 @@ function cardTop({ icon: ic, title, paras: ps, photo, link }) {
 
 function cardCompact({ icon: ic, title, text, photo }) {
   needPhoto(photo, 'cardCompact');
-  return `<article class="overflow-hidden rounded-card border border-line bg-card shadow-soft"><div class="h-28">${photoImg(photo, 'h-full w-full object-cover')}</div>`
+  return `<article class="h-full overflow-hidden rounded-card border border-line bg-card shadow-soft"><div class="h-28">${photoImg(photo, 'h-full w-full object-cover')}</div>`
     + `<div class="p-4">${chip(ic)}<h3 class="mt-3 font-headline text-[1.125rem] leading-snug text-ink">${esc(title)}</h3><p class="mt-2 text-[13px] leading-normal text-body">${txt(text)}</p></div></article>`;
 }
 
