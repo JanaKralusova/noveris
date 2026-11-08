@@ -144,3 +144,37 @@ test('linked tiles: services cards have photo link + title link, home icon cards
   assert.ok(icons.length > 0, 'home icon cards found');
   for (const [, body] of icons) assert.ok(/<h3[^>]*><a href="[^"]+"[^>]*group-hover:text-copper/.test(body));
 });
+
+// ---------- Google reviews band: demo data must never reach committed pages ----------
+const reviewsData = (n) => ({ rating: 4.8, count: n, url: 'https://example.com/r', reviews: [5, 4, 5].slice(0, n).map((r, i) => ({ name: `N${i}`, rating: r, text: i === 0 ? '<script>x</script>' : `Text ${i}` })) });
+
+test('committed home pages contain no demo reviews', () => {
+  const demo = JSON.parse(read('content/reviews.demo.json'));
+  for (const f of ['index.html', 'en/index.html']) {
+    const html = read(f);
+    assert.ok(!html.includes('data-demo-review'), `${f} has data-demo-review`);
+    for (const r of demo.reviews) assert.ok(!html.includes(r.name), `${f} contains demo name ${r.name}`);
+  }
+});
+
+test('real content/reviews.json is empty, so the home page has no reviews band', () => {
+  const real = JSON.parse(read('content/reviews.json'));
+  assert.deepStrictEqual(real.reviews, []);
+  if (process.env.NOVERIS_DEMO_REVIEWS !== '1') assert.ok(!read('index.html').includes('data-band="reviews"'));
+});
+
+test('reviewsBand: every card twice, the copy aria-hidden, star labels, escaping, Slovak only', () => {
+  const { reviewsBand } = require('../scripts/build-pages');
+  const t = require('../scripts/lib/site').loadTranslations().sk;
+  const html = reviewsBand('sk', t, reviewsData(3));
+  assert.strictEqual((html.match(/<li /g) || []).length, 6);
+  const copy = html.slice(html.indexOf('<ul role="list" aria-hidden="true"'));
+  assert.strictEqual((copy.match(/<li /g) || []).length, 3);
+  assert.ok(html.includes('aria-label="Hodnotenie 4 z 5"'));
+  assert.ok(html.includes('4,8'));
+  assert.ok(!html.includes('<script>x'));
+  assert.ok(html.includes('&lt;script&gt;'));
+  assert.ok(!html.includes('data-demo-review'));
+  assert.strictEqual(reviewsBand('en', t, reviewsData(3)), '');
+  assert.strictEqual(reviewsBand('sk', t, { reviews: [] }), '');
+});

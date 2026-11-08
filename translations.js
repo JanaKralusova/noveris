@@ -56,6 +56,14 @@ const translations = {
         "home.services.h2": 'Kde spájame znalosti s <span class="italic text-copper">praxou</span>',
         "home.services.showAll": "Zobraziť všetky oblasti poradenstva",
 
+        // Home reviews (Google)
+        "home.reviews.label": "Recenzie",
+        "home.reviews.h2": "Skúsenosti klientov",
+        "home.reviews.count": "{n} hodnotení na Google",
+        "home.reviews.all": "Všetky hodnotenia na Google",
+        "home.reviews.stars": "Hodnotenie {r} z 5",
+        "home.reviews.source": "Hodnotenie z Google",
+
         // CTA
         "cta.h2": "Potrebujete právnu konzultáciu?",
         "cta.desc": "Kontaktujte nás a stručne opíšte vašu situáciu. Spoločne sa pozrieme na možnosti ďalšieho postupu.",
@@ -198,6 +206,14 @@ const translations = {
         "home.services.label": "Our services",
         "home.services.h2": 'Where we combine knowledge with <span class="italic text-copper">practice</span>',
         "home.services.showAll": "View all areas of expertise",
+
+        // Home reviews (Google)
+        "home.reviews.label": "Reviews",
+        "home.reviews.h2": "Client experiences",
+        "home.reviews.count": "{n} reviews on Google",
+        "home.reviews.all": "All reviews on Google",
+        "home.reviews.stars": "Rated {r} out of 5",
+        "home.reviews.source": "Review on Google",
 
         // CTA
         "cta.h2": "Need a legal consultation?",

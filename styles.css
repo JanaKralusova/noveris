@@ -47,3 +47,18 @@ a:focus-visible, button:focus-visible, summary:focus-visible { outline: 2px soli
 @media (prefers-reduced-motion: reduce) {
   *, *::before, *::after { transition-duration: 0.01ms !important; animation-duration: 0.01ms !important; scroll-behavior: auto !important; }
 }
+
+/* Home reviews band (scripts/build-pages.js reviewsBand): the track holds the list twice and slides by half its width;
+   the edges fade out; it pauses on hover / focus. Reduced motion: no animation, no copy, a swipeable row instead. */
+@keyframes reviews-scroll { from { transform: translateX(0); } to { transform: translateX(-50%); } }
+.reviews-wrap { -webkit-mask-image: linear-gradient(to right, transparent 0, #000 48px, #000 calc(100% - 48px), transparent 100%); mask-image: linear-gradient(to right, transparent 0, #000 48px, #000 calc(100% - 48px), transparent 100%); }
+@media (min-width: 1024px) {
+    .reviews-wrap { -webkit-mask-image: linear-gradient(to right, transparent 0, #000 96px, #000 calc(100% - 96px), transparent 100%); mask-image: linear-gradient(to right, transparent 0, #000 96px, #000 calc(100% - 96px), transparent 100%); }
+}
+.reviews-track { animation: reviews-scroll 56s linear infinite; }
+.reviews-wrap:hover .reviews-track, .reviews-wrap:focus-within .reviews-track { animation-play-state: paused; }
+@media (prefers-reduced-motion: reduce) {
+    .reviews-wrap { overflow-x: auto; scroll-snap-type: x mandatory; -webkit-mask-image: none; mask-image: none; padding: 0 1.5rem; }
+    .reviews-track { animation: none !important; }
+    .reviews-copy { display: none; }
+}

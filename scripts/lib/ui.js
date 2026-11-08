@@ -398,8 +398,24 @@ function renderSections(sections) {
   return sections.map((s) => renderOne(s)).join('\n');
 }
 
+// Google review card for the home reviews band (<li> of a <ul>): stars, text (max 6 lines), name + source.
+// Stars are inline SVG (the icon font is a subset); the filled ones are copper, the rest line-coloured.
+// starLabel / source: already translated strings; demo adds data-demo-review (demo data must never ship, see build-pages.js).
+const STAR_PATH = 'M12 2l2.9 6.9 7.1.6-5.4 4.7 1.7 7.3L12 17.8 5.7 21.5l1.7-7.3L2 9.5l7.1-.6z';
+function stars(rating, label, cls = 'h-4 w-4') {
+  let out = '';
+  for (let i = 1; i <= 5; i++) out += `<svg viewBox="0 0 24 24" class="${cls}" fill="${i <= rating ? '#8f5535' : '#e6e0d6'}" aria-hidden="true"><path d="${STAR_PATH}"/></svg>`;
+  return `<span role="img" aria-label="${esc(label)}" class="flex gap-0.5">${out}</span>`;
+}
+function reviewCard({ name, rating, text, starLabel, source, demo = false }) {
+  return `<li${demo ? ' data-demo-review' : ''} class="flex w-[300px] shrink-0 snap-start flex-col rounded-card border border-line bg-card p-6 shadow-soft sm:w-[360px]">`
+    + stars(rating, starLabel)
+    + `<p class="mt-3 line-clamp-6 flex-1 text-[15px] leading-[1.6] text-body">${esc(text)}</p>`
+    + `<div class="mt-4"><p class="text-[14px] font-semibold text-ink">${esc(name)}</p><p class="text-[12px] text-muted">${esc(source)}</p></div></li>`;
+}
+
 module.exports = {
   icon, photoImg, eyebrow, button, linkArrow, breadcrumb, chip, section, sectionHeader, hero, heroQuote, cardFeature,
   cardSide, cardTop, cardCompact, cardIcon, articleCard, stepsH, stepsV, splitBand, splitTextList,
-  callout, iconList, twoCol, relatedBand, prose, quote, contactBand, cardGrid, renderSections,
+  callout, iconList, twoCol, relatedBand, prose, quote, contactBand, cardGrid, renderSections, reviewCard, stars,
 };

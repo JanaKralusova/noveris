@@ -221,6 +221,25 @@ def quote(text, cite):
     return (f'<figure class="border-l-2 border-copper pl-6"><blockquote class="font-headline text-[1.375rem] italic leading-[1.4] text-ink md:text-[1.75rem]">{text}</blockquote>'
             f'<figcaption class="mt-3 font-label text-[13px] text-muted">{cite}</figcaption></figure>')
 
+STAR = "M12 2l2.9 6.9 7.1.6-5.4 4.7 1.7 7.3L12 17.8 5.7 21.5l1.7-7.3L2 9.5l7.1-.6z"
+def stars(n, label, cls="h-4 w-4"):
+    sv = "".join(f'<svg viewBox="0 0 24 24" class="{cls}" fill="{"#8f5535" if i <= n else "#e6e0d6"}" aria-hidden="true"><path d="{STAR}"/></svg>' for i in range(1, 6))
+    return f'<span role="img" aria-label="{label}" class="flex gap-0.5">{sv}</span>'
+
+def review_card(name, rating, text):
+    return (f'<li class="flex w-[300px] shrink-0 snap-start flex-col rounded-card border border-line bg-card p-6 shadow-soft sm:w-[360px]">{stars(rating, f"Hodnotenie {rating} z 5")}'
+      f'<p class="mt-3 line-clamp-6 flex-1 text-[15px] leading-[1.6] text-body">{text}</p>'
+      f'<div class="mt-4"><p class="text-[14px] font-semibold text-ink">{name}</p><p class="text-[12px] text-muted">Hodnotenie z Google</p></div></li>')
+
+def reviews_band(cards):
+    lis = "".join(review_card(*c) for c in cards)
+    return ('<section data-band="reviews" class="bg-paper py-12 md:py-16"><div class="mx-auto max-w-7xl px-6 lg:px-8">'
+      '<div class="flex flex-col gap-4 md:flex-row md:items-end md:justify-between md:gap-10"><div>' + eyebrow("Recenzie") +
+      '<h2 class="mt-2 font-headline text-[2rem] leading-[1.15] text-ink md:text-[2.5rem]">Skúsenosti klientov</h2></div>'
+      f'<div class="flex flex-col gap-2 md:items-end"><div class="flex items-center gap-3"><span class="font-headline text-[2.25rem] leading-none text-ink">4,9</span>{stars(5, "Hodnotenie 4,9 z 5", "h-5 w-5")}<span class="text-[14px] text-body">23 hodnotení na Google</span></div>{link_arrow("Všetky hodnotenia na Google")}</div></div></div>'
+      '<div class="reviews-wrap mt-8 overflow-hidden"><div class="reviews-track flex w-max" style="animation-duration: 56s">'
+      f'<ul role="list" class="flex gap-5 pr-5">{lis}</ul><ul role="list" aria-hidden="true" class="reviews-copy flex gap-5 pr-5">{lis}</ul></div></div></section>')
+
 FIELD = "block w-full rounded-btn border border-field bg-white px-4 py-3 font-body text-[15px] text-ink placeholder:text-muted focus:border-forest focus:ring-2 focus:ring-forest/25"
 def form_card():
     return ('<form class="max-w-xl rounded-card border border-line bg-card p-6 shadow-soft md:p-8" onsubmit="return false" novalidate><div class="space-y-5">'

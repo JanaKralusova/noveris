@@ -183,6 +183,9 @@ def build():
       '<div class="grid gap-5 md:grid-cols-3">'+article_tile("farm1","20. 10. 2026","Koľko stojí vysporiadanie pozemku","Od čoho závisí cena, s akými výdavkami na právne služby, geodeta, znalca a poplatky počítať a kedy je dohoda lacnejšia ako súd.")
       +article_tile("cem2","20. 10. 2026","Neprededené pozemky po rodičoch","Ako zistiť, ktoré pozemky v dedičstve chýbajú, ako prebieha dodatočné konanie a čo ak medzičasom zomreli ďalší dedičia.")+'</div>')
     b+=comp("c-article-body","Article body typography","long-form article text (class .ds-article in ds.css; replaces .article-body). 16px / 1.7, copper links, copper list markers.",'<div class="max-w-2xl">'+sample_art+'</div>')
+    b+=h2("c-reviews","Reviews")
+    b+=comp("c-reviews-band","Reviews band (Google)","home page, between the latest articles and the closing contact band. Reviews band: moving row of Google reviews (pauses on hover/focus, static scroll for reduced motion); renders only when content/reviews.json has reviews; demo data only with NOVERIS_DEMO_REVIEWS=1. The sample below is placeholder text for the guide only, not a real review.",
+      reviews_band([("Meno P.",5,"Ukážkový text recenzie. Skutočné recenzie sa berú z Google a nikdy sa nevymýšľajú."),("Meno Q.",4,"Druhý ukážkový text, o niečo dlhší, aby bolo vidieť zalamovanie riadkov v karte, hviezdičky a pätu s menom a zdrojom.")]),pad=False)
     b+=h2("c-forms","Forms")+comp("c-form","Form card","contact page. Fields: 1px field border, 4px radius, forest focus ring; the e-mail field shows the error state (red text + border + icon, linked by aria-describedby).",form_card(),bg="bg-sand")
     b+='</main>'+DRAWER_JS+MEASURE_JS+'\n</body>\n</html>\n'
     open(ROOT+'index.html','w').write(h+b)
