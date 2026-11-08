@@ -20,7 +20,7 @@
     "náklady na vysporiadanie pozemku"
   ],
   "image": "kolko-stoji-vysporiadanie-pozemku",
-  "imageAlt": "Ruka vyberá bankovky z peňaženky nad stolom s dokumentmi",
+  "imageAlt": "Ruky počítajú eurové bankovky nad stolom s ďalšími bankovkami a zošitom",
   "date": "2026-10-20"
 }
 ---
