@@ -57,13 +57,15 @@ function picture({ src, small = '480', variants, art, fallback, sizes, alt, eage
   const full = dims('');
   if (!full) throw new Error(`image not found: ${src}.jpg`);
   const base = esc(src);
-  const entries = sufs.map((suffix) => {
+  // A photo narrower than a listed width (e.g. a 1448 px own image) has no file for it: skip that width.
+  const have = (suffix) => suffix === '' || dims(suffix) || Number(suffix) < full.width;
+  const entries = sufs.filter(have).map((suffix) => {
     const d = suffix === '' ? full : dims(suffix);
     return { suffix, w: d ? d.width : Number(suffix) };
   });
   const list = (ext, es = entries) => es.map((e) => `${base}${e.suffix ? '-' + e.suffix : ''}.${ext} ${e.w}w`).join(', ');
   // Art direction: `art` = { media, variants } adds <source media> candidates (e.g. a taller crop for phones).
-  const artEntries = art && art.variants.map((suffix) => {
+  const artEntries = art && art.variants.filter(have).map((suffix) => {
     const d = suffix === '' ? full : dims(suffix);
     return { suffix, w: d ? d.width : Number(suffix) };
   });

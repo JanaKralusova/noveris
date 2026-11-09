@@ -34,8 +34,8 @@
               "Posudzujeme právne postavenie klienta, pripravujeme predžalobné výzvy a návrhy dohôd a zastupujeme klientov pri rokovaniach s druhou stranou."
             ],
             "photo": {
-              "name": "sunroom_table",
-              "alt": ""
+              "name": "lawyer_meeting",
+              "alt": "Advokátka prechádza dokumenty s dvoma klientmi"
             }
           },
           {
@@ -70,9 +70,8 @@
               "Posudzujeme ich dôvodnosť, rozsah a dostupné možnosti obrany. Pripravujeme vyjadrenia, odpory, opravné prostriedky a ďalšie procesné podania podľa povahy konania."
             ],
             "photo": {
-              "name": "woman_sofa_letter",
-              "position": "50% 25%",
-              "alt": ""
+              "name": "man_letter",
+              "alt": "Muž s obavami číta doručený list"
             }
           },
           {
@@ -157,8 +156,8 @@
               "We assess the client's legal position, prepare pre-action letters and draft agreements, and represent clients in negotiations with the other party."
             ],
             "photo": {
-              "name": "sunroom_table",
-              "alt": ""
+              "name": "lawyer_meeting",
+              "alt": "A lawyer going through documents with two clients"
             }
           },
           {
@@ -193,9 +192,8 @@
               "We assess the merits and extent of such claims and the available means of defence. We prepare statements, objections, appeals and other procedural submissions, depending on the nature of the proceedings."
             ],
             "photo": {
-              "name": "woman_sofa_letter",
-              "position": "50% 25%",
-              "alt": ""
+              "name": "man_letter",
+              "alt": "A worried man reading a letter he received"
             }
           },
           {
