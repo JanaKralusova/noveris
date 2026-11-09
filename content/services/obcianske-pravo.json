@@ -86,7 +86,7 @@
               "Rozsah právnej pomoci závisí od povahy konkrétneho prípadu a právnych otázok, ktoré je potrebné vyriešiť."
             ],
             "photo": {
-              "name": "fence_gate",
+              "name": "garden_tree",
               "alt": ""
             }
           }
@@ -101,7 +101,7 @@
           "Ak mimosúdne riešenie nie je možné alebo vhodné, zabezpečujeme zastupovanie pri uplatňovaní a ochrane práv v súdnom konaní."
         ],
         "photo": {
-          "name": "timber_facade",
+          "name": "court_steps",
           "alt": ""
         },
         "side": "right",
@@ -212,7 +212,7 @@
               "The scope of legal assistance depends on the nature of the specific case and the legal questions that need to be resolved."
             ],
             "photo": {
-              "name": "fence_gate",
+              "name": "garden_tree",
               "alt": ""
             }
           }
@@ -227,7 +227,7 @@
           "If an out-of-court solution is not possible or appropriate, we provide representation in asserting and protecting rights in court proceedings."
         ],
         "photo": {
-          "name": "timber_facade",
+          "name": "court_steps",
           "alt": ""
         },
         "side": "right",

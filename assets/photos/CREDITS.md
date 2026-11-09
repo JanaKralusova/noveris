@@ -24,15 +24,17 @@ Photos are centre-cropped to at most 4:3 (make-photo.sh); `CROP="x y w h"` cuts 
 | clipped_documents | – | https://www.pexels.com/photo/6693647/ | Pexels License |
 | contract_paper | Mgr. Jana Králusová | own image, supplied 2026-11-09 | own image |
 | contract_table | Mgr. Jana Králusová | own image, supplied 2026-11-09 | own image |
+| country_road | Mgr. Jana Králusová | own image, supplied 2026-11-09 | own image |
 | couple_kitchen | Mgr. Jana Králusová | own image, supplied 2026-11-09 | own image |
+| court_steps | Mgr. Jana Králusová | own image, supplied 2026-11-09 | own image |
 | cracked_wall | Mgr. Jana Králusová | own image, supplied 2026-11-09 | own image |
 | crane | Matias Santana | https://unsplash.com/photos/gray-building-crane-photo-during-sunset-2ykXqiKHNfk | Unsplash License |
 | euro_desk | Mgr. Jana Králusová | own image, supplied 2026-11-09 | own image |
 | family_meeting | Mgr. Jana Králusová | own image, supplied 2026-11-09 | own image |
 | farm1 | Damian Kravchuk | https://unsplash.com/photos/p7u7E1YJiB8 | Unsplash License |
-| fence_gate | – | https://www.pexels.com/photo/14306688/ | Pexels License |
 | folders | Beatriz Perez Moya | https://unsplash.com/photos/a-stack-of-thick-folders-on-a-white-surface-XN4T2PVUUgk | Unsplash License |
 | garden_coffee | Mgr. Jana Králusová | own image, supplied 2026-11-09 | own image |
+| garden_tree | Mgr. Jana Králusová | own image, supplied 2026-11-09 | own image |
 | gavel | Sasun Bughdaryan | https://unsplash.com/photos/a-wooden-gavel-rests-on-a-closed-book-NB1dUts3ROU | Unsplash License |
 | glass_corner_warm | Mgr. Jana Králusová (edited and recropped) | https://www.pexels.com/photo/low-angle-photo-of-glass-buildings-2599538/ | Pexels License |
 | glassbld | Joakim Honkasalo | https://unsplash.com/photos/glass-office-building-at-dusk-gKMxcHB3U3E | Unsplash License |
@@ -67,8 +69,6 @@ Photos are centre-cropped to at most 4:3 (make-photo.sh); `CROP="x y w h"` cuts 
 | stone_farmhouse | – | https://www.pexels.com/photo/18414268/ | Pexels License |
 | sunfield | Erik van Dijk | https://unsplash.com/photos/green-grass-field-with-trees-during-daytime-fhItZw4xYhI | Unsplash License |
 | table2 | Amina Atar | https://unsplash.com/photos/two-men-sitting-at-a-table-with-papers-and-a-pen-Mqc-m8kgxkg | Unsplash License |
-| timber_facade | – | https://unsplash.com/photos/rn7TtBdzkBk | Unsplash License |
-| tree_lane | – | https://www.pexels.com/photo/33301797/ | Pexels License |
 | villa_view_money | Mgr. Jana Králusová | own image, supplied 2026-11-09 | own image |
 | ware | Bernd Dittrich | https://unsplash.com/photos/iDSXatl7yNo | Unsplash License |
 
