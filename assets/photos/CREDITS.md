@@ -24,7 +24,7 @@ Photos are centre-cropped to at most 4:3 (make-photo.sh); `CROP="x y w h"` cuts 
 | clipped_documents | – | https://www.pexels.com/photo/6693647/ | Pexels License |
 | contract_paper | Mgr. Jana Králusová | own image, supplied 2026-11-09 | own image |
 | contract_table | Mgr. Jana Králusová | own image, supplied 2026-11-09 | own image |
-| couple_sofa | – | https://www.pexels.com/photo/8559951/ | Pexels License |
+| couple_kitchen | Mgr. Jana Králusová | own image, supplied 2026-11-09 | own image |
 | cracked_wall | Mgr. Jana Králusová | own image, supplied 2026-11-09 | own image |
 | crane | Matias Santana | https://unsplash.com/photos/gray-building-crane-photo-during-sunset-2ykXqiKHNfk | Unsplash License |
 | euro_desk | Mgr. Jana Králusová | own image, supplied 2026-11-09 | own image |

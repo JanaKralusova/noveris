@@ -73,7 +73,8 @@
               "Pripravujeme dohody o vyporiadaní BSM a zastupujeme klientov pri rokovaniach aj v súdnych konaniach, ak sa manželia na vyporiadaní nedohodnú."
             ],
             "photo": {
-              "name": "couple_sofa",
+              "name": "couple_kitchen",
+              "position": "50% 35%",
               "alt": ""
             }
           },
@@ -198,7 +199,8 @@
               "We prepare agreements on the settlement of community property (BSM) and represent clients in negotiations and in court proceedings if the spouses cannot agree on the settlement."
             ],
             "photo": {
-              "name": "couple_sofa",
+              "name": "couple_kitchen",
+              "position": "50% 35%",
               "alt": ""
             }
           },
