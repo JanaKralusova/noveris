@@ -20,7 +20,7 @@
     "zamietnutá žiadosť o odkúpenie pozemku od SPF"
   ],
   "image": "spf-nesuhlasi-s-predajom-pozemku",
-  "imageAlt": "Zatvorená drevená brána na poľnej ceste k pozemku v jesennom svetle",
+  "imageAlt": "Advokátka vysvetľuje klientovi dokument nad katastrálnou mapou",
   "date": "2026-11-01"
 }
 ---
