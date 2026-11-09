@@ -145,7 +145,7 @@ const translations = {
         "img.home.hero": "Advokátska kancelária Noveris Legal – elegantný pracovný stôl s právnickou knihou",
         "img.home.profile": "Mgr. Jana Králusová – osobný prístup ku klientom",
         "img.about.portrait": "Mgr. Jana Králusová – profesionálny portrét advokátky",
-        "img.about.meeting": "Rokovacia miestnosť Noveris Legal – profesionálne prostredie pre klientov",
+        "img.about.meeting": "Rokovacia miestnosť s dreveným obložením",
         "img.contact.portrait": "Mgr. Jana Králusová – kontaktný portrét",
         "img.contact.city": "Letecký pohľad na Bratislavu – Noveris Legal sídli v centre mesta",
 
@@ -297,7 +297,7 @@ const translations = {
         "img.home.hero": "Noveris Legal law firm – an elegant desk with a law book",
         "img.home.profile": "Mgr. Jana Králusová – a personal approach to every client",
         "img.about.portrait": "Mgr. Jana Králusová – professional portrait of the attorney",
-        "img.about.meeting": "Noveris Legal meeting room – a professional setting for clients",
+        "img.about.meeting": "Meeting room with wood panelling",
         "img.contact.portrait": "Mgr. Jana Králusová – contact portrait",
         "img.contact.city": "Aerial view of Bratislava – Noveris Legal is based in the city",
 
