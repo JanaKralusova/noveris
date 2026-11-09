@@ -1,0 +1,256 @@
+1538	Klimeková Anna, SR		1	2954,3006,4138,4382,5027,5041,5063,5745
+1538	Klimeková Magdaléna r. Jacková		1	4670
+1538	Klimeková Mária r. Praženicová		0	2071,2432,2606,2841,5282
+1538	Klimeková Mária r. Praženicová, SR		0	2066,2641,2705
+1538	Klimeková Mária, SPF SPF		1	5665
+1538	Klimeková Mária, SR		1	3006,4382,4541,4720,5027,5041,5063,5830
+1538	Klimeková Zuzana r. Praženicová	+	0	2066,2641,2705
+1538	Klimeková Žofia		0	2848,5345
+1538	Klimeková Žofia r. Korčeková, SR		1	4485,4541,4704
+1538	Klimeková Žofia, SPF SPF		1	5665
+1538	Klimeková Žofia, SR		1	3006,4138,4382,4720,5027,5041,5063,5818,5874
+1538	Klinček Juraj		1	2865,4224,5665
+1538	Klinček Juraj, SR		1	441,2946,2949,2953,4067,4363,4751,5354,5373
+1538	Kmeť Dominik, SR		0	2535,6105
+1538	Kmeť Eduard r. Kmeť, 034 74, Liptovské Revúce, č. 410, SR	zomr. 28.4.1986	0	441,2821,2949,3037,3094,4056,4057,4058,4067,4137,4138,4175,4176,4224,4249,4250,4346,4750,4751,4752,4865,4866,5530
+1538	Kmeť František	Cestár	0	2033,2579,2615,5541
+1538	Kmeť Ján	+	0	2032,2672,2673,2753,5123,5540,5544,5545
+1538	Kmeť Ján, SR		1	4289
+1538	Kmeť Jozef	+	0	2032,2033,2672,2673,5123,5540,5541,5544,5545
+1538	Kmeť Jozef r. Kmeť, Stredná Revúca 376, Liptovské Revúce, PSČ 034 74, SR	zom. 13.06.1966	0	2579,2672,5544,5545
+1538	Kmeťová Emília		0	2507,2579,2614,5121
+1538	Kmeťová Emília, SR		1	2032,2672,2673,2753,4289,5123,5540,5544,5545
+1538	Kmeťová Zuzana r. Švigová	Liptovské Revúce 309	0	4749,5170
+1538	Kocoň Štefan	st.ž.Z.Dančeková	1	1794,6069
+1538	Kocoň Štefan	ž. Z. Dančeková, +	0	3557
+1538	Kocoň Štefan	ž.Z.Dančeková +	0	1797,1925,1940,2072,2660,5996
+1538	Kocoň Štefan, SR	st., ž. Z.Dančeková	1	4721
+1538	Kocoň Štefan, SR st.ž.Z.Dančeková, SPF		1	726
+1538	Kocoňová Zuzana r. Dančeková, SR	+	0	2188
+1538	Kolková Jozefína r. Glembová, SR		1	2222,4732
+1538	Kolová Alžbeta r. Praženicová		1	275,3160
+1538	Kolová Alžbeta r. Praženicová, SPF SPF		1	5648
+1538	Kolová Alžbeta r. Praženicová, SR		1	2823,2941,2958,2960,2965,3181,3185,4132,4139,4146,4147,4232,4233,4368,4386,4736,4867,5878
+1538	Korček František		1	376
+1538	Korček František	Liptovské Revúce 492	0	4749,5170
+1538	Korček František, SR		1	4301,4704
+1538	Korček Ján		1	1759,1978,2077,2110,4228,4806
+1538	Korček Ján	otec Vincenta +	0	2093,2122,2369
+1538	Korček Ján	ž.M.Dančeková,zom.15.02.1982	0	376
+1538	Korček Ján, SR		1	1842,1843,2261,2794,2808,2813,4274,4704,5243,6038,6042
+1538	Korček Ján, SR	zom. 15.02.1982, ž.M.Dančeková	0	4301
+1538	Korček Juraj	Šubík	0	2401
+1538	Korček Juraj, SR	Šubík	1	2401,4704
+1538	Korček Ondrej		0	1753,2122,2794
+1538	Korček Ondrej	Kôch, Liptovské Revúce 480	0	4749,5170
+1538	Korček Ondrej	Kriv., Liptovské Revúce 481	0	4749,5170
+1538	Korček Ondrej	ž. e. Kurillová	0	1756
+1538	Korček Ondrej	ž. E. Kurilová	0	1976
+1538	Korček Ondrej	ž. E.Kurillová	0	1756
+1538	Korček Ondrej	ž.Ž.Chamajová +	0	1843,2110,5243,6038,6042
+1538	Korček Ondrej	ž.Ž.Chamajová,zom.18.08.1974	0	376
+1538	KORČEK Ondrej	ž.Ž.Chamajová	0	3519
+1538	Korček Ondrej, SR		1	2369,4243
+1538	Korček Ondrej, SR	Čutka,ž.Z.Gejdošová	0	2303
+1538	Korček Ondrej, SR	zom. 18.08.1974, ž. Ž.Chamajová	0	4704
+1538	Korček Ondrej, SR	ž. E. Kurilová	1	3414,4242,4243,4487,5162
+1538	Korček Ondrej, SR	ž.E.Kurilová	0	2287,2364,2392,2654
+1538	Korček Pavol		1	4628
+1538	Korček Pavol	ž.M.Králiková +	0	2124,2380
+1538	Korček Štefan		0	1976
+1538	Korček Štefan	Šubík	0	2401,2408
+1538	Korček Štefan, SR	Šubík	1	4704
+1538	Korčeka Ján	otec Vincenta +	0	2254
+1538	Korčeková Arana r. Valková		1	4638
+1538	Korčeková Emília	Šubová	0	2408
+1538	Korčeková Emília r. Kurilová		0	1756,1976
+1538	Korčeková Emília r. Kurilová, SR		1	2287,2364,2392,2654,3414,4242,4243,4487,5162
+1538	Korčeková Emília, SR		1	2377
+1538	Korčeková Mária		0	2077
+1538	Korčeková Mária r. Mišková	+	0	2066,2641
+1538	Korčeková Mária r. Styková		1	2107,2428,5416,5418
+1538	Korčeková Mária r. Styková	+	0	3025
+1538	Korčeková Mária r. Styková, SR		0	1832,5317,5318,5414,5417,5450,5592,5922
+1538	Korčeková Mária r. Styková, SR	zom. 10.10.1970	0	5413
+1538	Korčeková Mária, SR		1	1842,1843,2705,3778,5243,6038,6042
+1538	Korčeková Pavlína		0	1759,1968,1978,2077,2128,2458,2572
+1538	Korčeková Pavlína, SR		1	1842,1843,1946,2057,2265,2369,2550,2771,2813,3778,5243,5437,6038,6042
+1538	Korčeková Zuzana		0	2077
+1538	Korčeková Zuzana	+	0	6034
+1538	Korčeková Zuzana r. Gazdaricová	+	0	1836,1846,2016,2039,2144,2200,2255,2267,2280,2382,2383,2385,2387,2513,2645,4862,5083,6033
+1538	Korčeková Zuzana r. Gazdaricová	zom. 27.12.1995	0	6135
+1538	Korčeková Zuzana r. Gazdaricová, SR	+	0	2166,2633
+1538	Korčeková Zuzana r. Gazdaricová+		0	2812,2815
+1538	Korčeková Zuzana r. Gejdošová, SR		0	2303
+1538	Korčeková Zuzana r. Gurjelová, SR		0	2036
+1538	Korčeková Zuzana r. Hromada	Liptovské Revúce 351	0	4749,5170
+1538	Korčeková Zuzana r. Mikulajová		1	2079,2456,2465,2505,2507,2510,2578,2579,2593,3092,3096,5119,5121,5122,5338,5506,5508
+1538	Korčeková Zuzana r. Mikulajová, SR		1	2340,2511,2512,2648,2649,2661,2673,2700,2701,2713,2737,2753,4312,4914,5123
+1538	Korčeková Zuzana, SR		1	1842,1843,3778,5243,6038,6042
+1538	Korčeková Žofia		0	2077
+1538	Korčeková Žofia	Francúzsko	0	4749,5170
+1538	Korčeková Žofia r. Gáborová, SR		1	567,2775,4724,6149,6150,6202
+1538	Korčeková Žofia r. Gáborová, SR SPF		1	666
+1538	Korčeková Žofia r. Chamajová	+	0	2039
+1538	Korčeková Žofia r. Chamajová, SR	zom. 13.09.1975	0	4704
+1538	Korčeková Žofia r. Rosová	+	0	2755
+1538	Korčeková Žofia r. Rossová	+	0	2232,2375,2755
+1538	Korčeková Žofia, SR		1	1842,1843,2261,3778,5243,6038,6042
+1538	Korčekvá Zuzana r. Gazdaricová	+	0	2159,5075
+1538	Koreň Metod, 034 73, Liptovská Osada, SR		0	5943,5944,6024,6025,6026,6029,6030,6153
+1538	Koreň Metod, SR		0	5665
+1538	Koreň Štefan	Ballo	0	2904,5438,5463
+1538	Koreň Štefan, Ballo Ballo		0	5873
+1538	Koreň Štefan, SR		1	4353
+1538	Koreň Štefan, SR	Ballo	1	2960,4132,4255,4354,4368,4746,4747,4748,4860,5439,5468,5942,5943
+1538	Koreň Štefan, SR Ballo		0	3184
+1538	Koreň Štefan, SR, Ballo, SPF Ballo, SPF		1	5647
+1538	Koštialová Anna r. Baštigálová, SR	zom. 31.01.1967	0	4138
+1538	Koštialová Anna r. Baštigálová, SR	zom.31.01.1967	0	5603,5604,6154
+1538	Kováč Štefan		1	227
+1538	Kováč Štefan, SR		0	1827,6037,6040,6220,6221
+1538	Kováčik Florián, SR		1	4093
+1538	Kováčik Ján, SR	Paučiak	0	2251
+1538	Kováčik Ondrej		1	1785,1793,1993,2130,2872,4634
+1538	Kováčik Ondrej	ž.M.Blchová +	0	1874
+1538	Kováčik Ondrej, SR		1	1792,1806,1829,1840,1845,1926,1927,1938,2245,2513,2558,3414,3920,3921,3923,4093,4271,4404,4405,4432,4440,4451,4479,4597,4603,5162,5597,5911,5912,5913,5914,6032,6068,6137,6138,6139
+1538	Kováčik Štefan		1	1756,1785,1974,2110,2130,2872,5579,6007
+1538	Kováčik Štefan	Hromada	0	5561,6040
+1538	Kováčik Štefan	Kaň., USA	0	4749,5170
+1538	Kováčik Štefan	zom. 22.02.1962	1	1793,4634,5003,5162
+1538	Kováčik Štefan, SR		0	1806,1829,1840,1845,1926,1927,1938,2245,2364,2371,2561,2794,3921,5911,5912,5913,5914,5972,5973,6032,6138,6139
+1538	Kováčik Štefan, SR	brat Dominika	1	4091
+1538	Kováčik Štefan, SR	D:zom. 22.02.1962	1	3923
+1538	Kováčik Štefan, SR	zom. 22.02.1962	1	3920,4243,4271,4404,4405,4440,4451,4597,4603,5597,6068
+1538	Kováčik Štefan, SR	zom.22.02.1962	1	876,3923
+1538	KOVÁČIK Štefan, zom. 22.02.1962		1	3414
+1538	Kováčiková Mária r. Madliaková, SR		1	4485,4704
+1538	Kováčiková Mária r. Pavčiaková, SR		0	2537
+1538	Kováčiková Mária, SR	Kanovčík	1	4546
+1538	Kováčiková Žofia r. Bocko	náp. Liptovské Revúce 458	0	4749,5170
+1538	Kováčiková Žofia r. Bocková, SR		1	4143
+1538	Kováčiková Žofia r. Bocková, SR SPF		1	4630
+1538	Kováčiková Žofia r. Jacková		0	2436
+1538	Kováčiková Žofia r. Janeková	+	0	5973
+1538	Kováčiková Žofia r. Janeková, SR	+	0	2561
+1538	Koyšová Žofia		1	1588
+1538	Koyšová Žofia r. Harbutová, SR		1	4062,4063
+1538	Kôchoň Ján, SR	ž.Ž.Sanigová	0	2141
+1538	Kôchoňová Anna r. Králiková	+	0	2211
+1538	Kôchoňová Anna r. Králiková, SR		1	4072
+1538	Kôchoňová Žofia, SR		0	2392
+1538	Král Augustín		1	1513
+1538	Král Augustín	ž.Ž.Matušková	0	1821,2044
+1538	Král Augustín, SR	ž. Ž. Matušková	0	3069
+1538	Král Augustín, SR	ž.Ž.Matušková	0	3249,3252,3262
+1538	Král Augustín, ž.Ž.Matušková ž.Ž.Matušková		0	5668
+1538	Král Ondrej		1	1513
+1538	Král Ondrej, SR		0	1821,2044
+1538	Králik Ján	ž.Z.Gejdošová Kubek	1	4217
+1538	Králik Ján	ž.Z.Gejdošová Kubek +	0	1799,1812,1841,1900,1908,1935,2211,5380,5410,5412,5449
+1538	Králik Ján, SR		1	4071,4072
+1538	Králik Ján, SR	ž. Z. Gejdošová Kubek	1	4272
+1538	Králik Ján, SR	ž.Z.Gejdošová Kubek	1	4070,4073,4074,4075,5411
+1538	Králik Juraj	CANADA	0	4749,5170
+1538	Králik Juraj r. Králik	nar.v roku 1911,neb.,zomr.dňa 20.12.1975	0	3083,3086
+1538	Králik Juraj r. Králik, nar.v roku 1911,neb.,zomr.dňa 20.12.1975 nar.v roku 1911,neb.,zomr.dňa 20.12.1975		0	5666
+1538	Králik Juraj, SR		1	1799,1812,1841,1935,2211,4070,4073,4074,4075,4272,5380,5410,5411,5412,5449
+1538	Králik Karol	+	0	1841
+1538	Králik Martin	st	1	4663
+1538	Králik Martin, SR	zom. 28.11.1957, ž.Ž.Jarinová	0	4256
+1538	Králik Matúš		0	3168
+1538	Králik Ondrej	ž.A.Kováčiková +	0	1926,2211
+1538	Králik Ondrej, SR		0	2135
+1538	Králik Ondrej, SR	zom. 06.03.1958, ž.A.Kováčiková	0	5597
+1538	Králik Ondrej, SR	ž.A.Kováčiková +	0	2197
+1538	Králik Štefan	+	0	1841
+1538	Králik Štefan, SR	I	1	4684
+1538	Králik Štefan, SR	Miško	0	2306,2355
+1538	Králiková Alojzia r. Hromadová		1	5003
+1538	Králiková Alojzia r. Hromadová, SR		1	3674
+1538	Králiková Anna r. Ballová	+	0	1799,1812,1841,1935,2211,5380,5449
+1538	Králiková Anna r. Ballová, SR	+	0	2206,5080
+1538	Králiková Anna r. Ballová, SR	zom. 31.08.1986	0	4070
+1538	Králiková Anna r. Ballová, SR +		0	5410,5412
+1538	Králiková Anna, SR		0	2211
+1538	Králiková Dorota		0	3169
+1538	Králiková Dorota r. Šavrtková		0	3168
+1538	Králiková Helena r. Šimová	Bulej	0	2900,2988,3070,3084
+1538	Králiková Helena r. Šimová Bulej		1	62,5306
+1538	Králiková Helena r. Šimová Bulej, SR		1	195,1374,2856,4722,4723,5303,5665
+1538	Králiková Helena r. Šimová, Bulej Bulej		0	5668
+1538	Králiková Helena r. Šimová, Bulej, SR		1	195
+1538	Králiková Helena r. Šimová, SR	Bulej	1	2935,4352
+1538	Králiková Helena r. Šimová, SR, Bulej, SPF Bulej, SPF		1	5668
+1538	Králiková Jozefína		0	2007,5451
+1538	Králiková Mária	Liptovské Revúce 47	0	4749,5170
+1538	Králiková Mária r. Rosová		1	1751,1866,2009,4207,4209,5260,5261,5262,6035
+1538	Králiková Mária r. Rosová, SR		1	965,1386,2232,2375,2755,3529,4238,4239,4699,4733,5557
+1538	Králiková Mária r. Uherová		0	1971
+1538	Králiková Pavlína	Gazdaricová	0	1832,5416,5450,5592,5922
+1538	Králiková Pavlína r. Gazdaricová		1	277,2007,2108,2123,2405,2428,2477,2481,2576,5418,5451
+1538	Králiková Pavlína r. Gazdaricová, SR		1	1825,2020,2025,2062,2135,2540,2679,2723,2733,2827,4101,4102,4103,5384,5413,5415,5422,5441,5452,5453,6111
+1538	Králiková Pavlína, SR Gazdaricová		0	5317,5318,5414,5417
+1538	Králiková Zuzana		1	1247,6218
+1538	Králiková Zuzana	+	0	6040
+1538	Králiková Zuzana r. Gejdošová	+	0	1810,1843,2060,5243,5561,6037,6038,6042,6219,6221,6222
+1538	Králiková Zuzana r. Gejdošová, SR	+	0	2352
+1538	Králiková Zuzana r. Gejdošová, SR +		0	1827,6220
+1538	Králiková Zuzana r. Kubeková	Gejdoš	1	227
+1538	Králiková Zuzana r. Kubeková, SR	Gejdoš	1	3778
+1538	Králiková Zuzana r. Kurillová	Štrbák +	0	2911,2924
+1538	Králiková Zuzana r. Kurillová, SR	Štrbák +	0	5239
+1538	Králiková Zuzana r. Mikulajová	+	0	2661,2737
+1538	Králiková Žofia r. Dančeková	+	0	2374,2391,2755,3972
+1538	Králiková Žofia r. Dančeková +, SR		0	6035
+1538	Králiková Žofia r. Dančeková, SR +		0	1850
+1538	Králová Mária r. Dančeková		1	277,2007,5451
+1538	Králová Mária r. Dančeková, SR		1	4101,4102
+1538	Králová Mária r. Lazíková	+	0	1825,1849,5415,5954
+1538	Králová Mária r. Lazíková, SR		1	192
+1538	Králová Žofia r. Matušková		0	5668
+1538	Králová Žofia r. Matušková, SR		0	3069,3249,3252,3262
+1538	Králová Žofia, SR		0	1821,2044
+1538	Kroneraf Karol, SR		0	2581
+1538	Kroneraffová Mária	Liptovské Revúce 221	0	4749,5170
+1538	Kubačka Juraj		0	1937
+1538	Kubačka Juraj, SR		1	1835,4280,4393,4395
+1538	Kubačková Mária r. Gazdaricová		1	277
+1538	Kubačková Mária r. Gazdaricová, SR		1	4101
+1538	Kubačková Zuzana		1	1971,4187
+1538	Kubačková Zuzana, SR		1	1834,4394
+1538	Kubačková Žofia		1	4187
+1538	Kubačková Žofia r. Súnoková		0	1874
+1538	Kubačková Žofia r. Súnoková, SR		0	1846,2201,2815
+1538	Kubačková Žofia, SR		1	1834,1937,4394
+1538	Kubačkvá Zuzana, SR		0	1937
+1538	Kubalík Augustín		1	2858,2890,2907,3081,4840,5665,5668
+1538	Kubalík Augustín, SPF SPF		1	5650
+1538	Kubalík Augustín, SR		1	2831,2922,3186,3263,3269,3292,3293,3845,4076,4077,4342,4356,4718,4727,4841,4843,4928,5087,5304,5377,5941,5978,5984,6148
+1538	Kubalík Dominik		0	5668
+1538	Kubalík Dominik, SR	zom. 24.11.2000	1	4076,4077,4117,4718,4841,5087,5978,5984
+1538	Kubalík Ladislav		1	1588
+1538	Kubalík Martin		1	4840,5647
+1538	Kubalík Martin	ml.+	0	2922,3263,3292
+1538	Kubalík Martin, ml. ml.		0	5665
+1538	Kubalík Martin, SPF SPF		1	5650
+1538	Kubalík Martin, SR		1	4356,5304,6148
+1538	Kubalík Ondrej		1	2907,4840,5668,5703,5984
+1538	Kubalík Ondrej	Liptovské Revúce 2	0	4749,5170
+1538	Kubalík Ondrej, ml. ml.		0	5672,5683
+1538	Kubalík Ondrej, SPF SPF		1	5890
+1538	Kubalík Ondrej, SR		1	2831,2922,3186,3260,3263,3269,3845,4076,4077,4342,4356,4718,4841,4843,4928,5087,5304,5377,5978,5984,6148
+1538	Kubalík Ondrej, SR	ml	1	2831,3260,3263,3269,3845,4076,4077,4718,4843,4928,5087
+1538	Kubalík Ondrej, SR ml.		0	3186
+1538	Kubalík Ondrej, SR SPF		1	4841
+1538	Kubalík Štefan, SR	ž.?.Kmeťová	0	3269
+1538	Kubalíková Amália r. Fukasová		1	4204,4205
+1538	Kubalíková Amália r. Fukasová, SR		1	4718
+1538	Kubalíková Magdaléna		0	5665
+1538	Kubalíková Magdaléna r. Matušková		0	5665,5668,5861
+1538	Kubalíková Magdaléna r. Matušková	+	0	2964,2986,5144,5582,5998
+1538	Kubalíková Magdaléna r. Matušková, SR		1	536,4061,4376,5366,5367,5950
+1538	Kubalíková Magdaléna r. Praženicová Masolík		0	5665
+1538	Kubalíková Magdaléna r. Praženicová Masolík	+	0	3051
+1538	Kubalíková Magdaléna r. Vanovčan	Liptovské Revúce 29	0	4749,5170
+1538	Kubalíková Magdaléna r. Vanovčanová		0	2078,2864,3171,5231,6189

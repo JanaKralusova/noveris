@@ -1,0 +1,256 @@
+903	Hnat Michal		1	1181,1564,1565,1655
+903	Hnat Michal, mal. Adamuf mal. Adamuf		0	1655
+903	Hnat Vasiľ		1	1181,1564,1565,1655,1887
+903	Hnat Vasiľ, ž. Anna r. Hnatová ž. Anna r. Hnatová		0	1911
+903	Hnath Ján		1	1181,1564,1565,1655
+903	Hnath Seman		1	1181,1564,1565
+903	Hnath Seman, ž. Mária r. Draganová ž. Mária r. Draganová		0	1655
+903	Hnath Vasiľ		1	1181,1564,1565,1655,1658
+903	Hnathová Mária		1	1070,1771
+903	Hnathová Mária r. Draganová		1	1070,1181,1564,1565,1655,1999
+903	Hnatová Anna		1	1070,1817
+903	Hnatová Mária		1	1181,1564,1565
+903	Hnatová Mária r. Glittová		0	1991
+903	Hnatová Mária r. Hopková		1	1181,1427,1564,1565,1655
+903	Hnatová Mária, mal., Adamuf mal., Adamuf		0	1655,1669
+903	Hochhäuser Hesseh		1	1181,1564,1565,1655
+903	Holevová Zuzana r. Glittová		1	1181,1564,1565,1655
+903	Homa Ján		1	1181,1564,1565,1655
+903	Homová Eva		1	1602,1637,1767
+903	Hopko Juraj		1	1181,1427,1564,1565,1655
+903	Hopko Vasiľ		0	1899
+903	Hopková Anna		1	1181,1564,1565,1655
+903	Hopková Anna r. Draganová		1	1181,1564,1565
+903	Hopková Anna r. Draganová, zomrela zomrela		0	1655
+903	Hovanová Anna r. Peregrinová		1	1181,1564,1565,1655
+903	Hurajová Zuzana		1	1044
+903	Kačmár Ján		1	1181,1564,1565
+903	Kačmár Ján, ž. Anna, r. Mihaliková ž. Anna, r. Mihaliková		0	1655
+903	Kačmar Juraj		1	1181,1564,1565,1655
+903	Kačmar Michal		0	1642
+903	Kačmár Michal, ž. Mária, r. Čižmárová ž. Mária, r. Čižmárová		0	1642
+903	Kačmar Mikuláš		0	1642
+903	Kačmárová Anna		1	1431,1642
+903	Kačmárová Anna r. Adamčová		0	1642
+903	Kačmarová Anna r. Mihaliková		1	1181,1564,1565,1655
+903	Kačmárová Katarína		1	1431,1642
+903	Kačmarová Mária r. Čižmarová		0	1703
+903	Kačmarová Mária r. Čžmarová		1	1106
+903	Kačmarová Mária r. Mihaliková		1	1431,1642
+903	Kálnasy Jozef, Dr.		0	1733
+903	Klučka Ján		1	1181,1564,1565,1655,1676,2080
+903	Klučka Juraj		1	1181,1564,1565
+903	Klučka Juraj, mal. mal.		0	1655,1710
+903	Klučka Michal		1	1181,1564,1565
+903	Klučka Michal, mal. mal.		0	1655,2080
+903	Klučková Anna		1	1181,1564,1565
+903	Klučková Anna, mal. mal.		0	1655,2080
+903	Klučková Mária		1	1181,1564,1565,1655,2080
+903	Kľučková Zuzana r. Šuťaková		0	1676
+903	Kocur Andrej		1	1181,1564,1565,1655
+903	Kocur Elek		1	1181,1564,1565,1655
+903	Kocurová Mária r. Faifrič		1	1181,1564,1565,1655
+903	Kramárová Anna r. Čižmárová		0	2025
+903	Kravec Mikuláš		1	1181,1564,1565,1655,1669
+903	Kutina Matej		1	1181,1564,1565,1655
+903	LUKÁČ Juraj		1	1181,1564,1565,1655
+903	Mackaničová Anna		1	1334,1881,2082
+903	Mackaničová Eva r. Petriková		1	1392,1666,1908
+903	Mackaničová Zuzana		1	1334,2043,2082
+903	Maňko Ján		1	1181,1564,1565,1655,1669
+903	Maňko Juraj		1	1145,1181,1564,1565,1655,1837
+903	Maňko Michal		1	1181,1564,1565,1655,1764
+903	Maňková Mária		1	1145,1181,1564,1565,1655,1983
+903	Marčák Daniel		0	1642
+903	Marčák Mikuláš		1	1436,1995
+903	Mihalčík Peter		1	1181,1564,1565,1655
+903	Mihalčik Vasil		0	1974
+903	Mihalčíková Mária		1	1181,1564,1565,1655
+903	Mihalčo Peter		1	1181,1564,1565
+903	Mihalčo Peter, ž. Mária, r.Faifričová ž. Mária, r.Faifričová		0	1655
+903	Mihalčová Eva r. Mihaliková		1	1181,1564,1565,1655,1880
+903	Mihalčová Mária r. Faifričová		1	1181,1564,1565,1655
+903	Mihalik Andrej		1	1181,1431,1564,1565,1655,2026
+903	Mihalik Ján		1	1045,1077,1425
+903	Mihalik Ján, ž. Mária, r. Fignárová ž. Mária, r. Fignárová		0	1913
+903	Mihalik Juraj		1	1181,1427,1564,1565,1655,1957
+903	Mihalik Michal		1	1181,1427,1564,1565,1655,2052
+903	Mihalik Štefan		1	1181,1564,1565,1655
+903	Mihalik Vasiľ		1	1181,1564,1565,1655,1745
+903	Mihaliková Anna		1	1045,1077,1181,1425,1431,1564,1565,1655,2062,2082
+903	Mihaliková Anna r. Maslejová		0	1788
+903	Mihaliková Eva		1	1181,1564,1565,1655
+903	Mihaliková Mária		1	1181,1431,1564,1565,1655,1807,2082
+903	Mihaliková Mária r. Adamčová		1	1181,1564,1565,1655,1658
+903	Mihaliková Mária r. Fignárová		1	1181,1564,1565,1655
+903	Mihaliková Mária r. Hnatová		1	1181,1564,1565,1655
+903	Mihaliková Zuzana		1	1045,1077,1181,1425,1427,1564,1565,1655,1829
+903	Mihaliková Zuzana r. Mihaliková		1	1070,1181,1564,1565
+903	Michalčík Vasiľ		1	1181,1564,1565,1655,1875
+903	Michalčíková Anna		1	1181,1564,1565,1655,2038
+903	Michalčiková Mária r. Šuťaková		0	2034
+903	Michaličok Michal		1	1181,1564,1565
+903	Michaličok Michal, ž. Mária, r. Gduľová, zomrela ž. Mária, r. Gduľová, zomrela		0	1655,2017
+903	Michalik Ján		1	1181,1427,1564,1565
+903	Michalik Ján, mal. mal.		0	1655,1985
+903	Michalik Michal		1	1181,1427,1564,1565
+903	Michalik Michal, ž. Anna, r. Fignárová ž. Anna, r. Fignárová		0	1655,2032
+903	Michaliková Anna		1	1181,1427,1564,1565
+903	Michaliková Anna, mal. mal.		0	1655,1830
+903	Mirdalová Anna r. Glittová		1	1602,1637,1681,1984
+903	Ondruš Juraj		1	1181,1564,1565
+903	Ondruš Juraj, ž. Anna, r. Mihaliková ž. Anna, r. Mihaliková		0	1655
+903	Ondrušová Anna r. Mihaliková		1	1181,1564,1565,1655
+903	Ortnerová Rozália		1	1181,1430,1564,1565,1655,1976
+903	Pasternák Ignac		1	1181,1564,1565,1655
+903	Pasternák Michal		0	1778
+903	Pasternáková Anna r. Hnathová		1	1181,1564,1565,1655
+903	Pasternáková Mária		0	2006
+903	Pasternáková Marta		1	1070,1874
+903	Perunčák Vasiľ		1	1181,1564,1565,1655
+903	Perunský Michal		1	1181,1564,1565
+903	Perunský Michal, zomrel zomrel		0	1655
+903	Petrek Andrej		1	1181,1334,1564,1565,1655,1846
+903	Petrek Ján		1	1181,1564,1565,1655
+903	Petreková Anna		1	1181,1334,1392,1564,1565,1655,1688,1935
+903	Petreková Katarína		1	1181,1564,1565,1655
+903	Petreková Mária		1	1027,1028,1044,1181,1564,1565,1655,1759,2079
+903	Petreková Mária r. Homová		1	1181,1564,1565,1655
+903	Petreková Marta		1	1181,1334,1392,1564,1565,1655,1688,2064
+903	Petreková Zuzana		1	1181,1392,1564,1565,1655,2089
+903	Petrenko Demeter		0	1655
+903	Petrík Andrej		0	1651
+903	Petrík Ján		1	1181,1392,1564,1565,1655,1736
+903	Petrík Juraj		1	1181,1564,1565,1655
+903	Petrik Seman		1	1181,1564,1565,1655
+903	Petríková Anna		1	1181,1392,1564,1565,1655,1666,1862
+903	Petríková Eva		1	1181,1564,1565,1651,1655
+903	Petriková Katarína		0	1669
+903	Petríková Mária		1	1181,1392,1564,1565,1655,1933
+903	Petríková Mária r. Demjanovičová		1	1181,1564,1565,1655
+903	Petriková Marta		0	2063
+903	Petriková Ula		1	1392,1666,1953
+903	Petrišák Ján, Hrabské, č. 98, Slovensko		1	1181,1327,1564,1565
+903	Petrišáková Anna r. Gbúrová		1	1181,1564,1565,1655
+903	Petrišáková Zuzana r. Glitová		0	1716
+903	Petrnko Demeter		1	1181,1564,1565
+903	Prislopská Anna		0	1888
+903	Prislopská Eva		0	2037
+903	Prislopská Mária		0	1941
+903	Prislopská Mária r. Glittová		1	1181,1564,1565,1655,1895
+903	Prislopská Marta		0	1705
+903	Prislopská Paraska		0	1871
+903	Prislopská Zuzana		0	1802
+903	Prislopský Ján, zomrel zomrel		0	1776
+903	Prislopský Vasiľ		0	1799,2079
+903	Reviľák Michal		0	1968
+903	Reviľáková Mária r. Petríková		1	967,1181,1564,1565,1655,2053
+903	Rohaľová Mária r. Fignárová		1	1077,1181,1425,1564,1565,1655,2030
+903	Rubin Henrich		1	1181,1430,1564,1565,1655,1690
+903	Rubin Izidor		1	1181,1430,1564,1565,1655,1690
+903	Rubinová Berta		1	1181,1430,1564,1565,1655,1690
+903	Segiňak Mikuláš		1	1181,1564,1565,1655
+903	Segiňaková Katarína r. Fignárová		1	1181,1564,1565,1655
+903	Segiňáková Katarína r. Mackaničová		1	1181,1564,1565,1655
+903	Stafuriková Katarína r. Capandrová		1	1181,1564,1565,1655
+903	Stahurik Seman		1	1181,1564,1565,1655
+903	Stahuriková Anna		1	1181,1564,1565,1655
+903	Staščáková Katarína r. Petríková		1	1181,1564,1565,1655
+903	Sulinská Zuzana r. Draganová		1	1181,1564,1565,1655
+903	SULINSKÝ JÁN		1	1093
+903	Szulin Ján		0	1652
+903	Ševcová Mária		0	1959
+903	Štafurik Demeter		1	1181,1564,1565,1655
+903	Štafurik Elek		1	1181,1564,1565,1655
+903	Štafurik Ján		0	1946
+903	ŠTAFURIK KANDRA		1	1093
+903	Štafurik Seman		0	1850
+903	Štafurik Vasil		1	1181,1564,1565,1655
+903	Štafuriková Anna		1	1181,1564,1565,1655,1737
+903	Štafuriková Anna r. Mihaliková		1	1181,1431,1564,1565,1655,1684,2011
+903	Štafuriková Anna r. Mihaliková, m. Seman m. Seman		0	1655
+903	Štafuriková Anna r. Ševcová		0	1863
+903	Štafuriková Mária		1	1181,1564,1565,1655,1684,2036
+903	Štafuriková Mária r. Mihaliková		1	1181,1564,1565,1655
+903	ŠTEFANOVOVÁ Anna		1	1070,1181,1564,1565,1655,1774
+903	Šulin Ján		0	1652,1729
+903	Šuťák Ján		1	1181,1564,1565,1655,1781
+903	Šuťák Lukáč		0	1992
+903	Šuťák Michal		0	1859
+903	Šuťak Vasiľ		1	1602,1637,1834
+903	Šuťaková Anna		1	1091,1901
+903	Šuťaková Mária r. Mihaliková		0	1740
+903	Šuťaková Marta		1	1181,1564,1565,1655
+903	Šuťáková Zuzana r. Fečaninová		0	1795
+903	Šveczová Anna		1	1181,1564,1565,1655
+903	Tokarčík Ján		1	1181,1436,1564,1565,1655,2089
+903	Tokarčik Mikuláš		1	1044
+903	Tokarčik Peter		1	1027,1028,1044,1327,1950,2079
+903	Tokarčik Vasiľ		1	1044
+903	Tokarčiková Anna		1	1027,1028,1044,1327,2056,2079
+903	Tokarčiková Helena		1	1027,1028,1044,1327,1873,2079
+903	Tokarčiková Mária r. Marčáková		0	2078
+903	Trudič Ján		1	1077,1096,1181,1425,1435,1564,1565,1655,2029
+903	Trudič Michal		1	1181,1564,1565,1655
+903	Trudič Štefan		1	1077,1181,1425,1564,1565
+903	Trudič Štefan, ž. Jolana, r. Špirková ž. Jolana, r. Špirková		0	1655
+903	Trudičová Anna		1	1181,1564,1565,1655
+903	Trudičová Eva r. Mihaličoková		1	1181,1564,1565,1655
+903	Trudičová Eva r. Mihaliková		1	1181,1564,1565
+903	Trudičová Eva r. Mihaliková, m. Štefan m. Štefan		0	1655
+903	Trudičová Katarína		1	1181,1564,1565,1655
+903	Trudičová Marta		0	1726
+903	Tulenčík Ján		1	1181,1564,1565,1655
+903	Tulenčik Michal		1	1181,1564,1565,1655
+903	Tulenčik Peter		1	1181,1564,1565,1655
+903	Zimerová Reis r. Seindelová		1	1181,1564,1565,1655
+903	Zimmerová Gizela		1	1181,1564,1565,1655
+904	Adamcová Monika		0	1976
+904	Adamková Katarína		0	1531
+904	Akšteinerová Helena r. Duľová		0	1821
+904	Anna Aksteinerová	maloletá	0	1821
+904	Badzík Jozef		0	1819
+904	Badzíková Júlia		0	1819
+904	Bandžúchová Matilda r. Jendrálová	zomrela, 25.4.1995	0	1817,2294
+904	Barabas Jakubec		0	1926
+904	Barabas Jozef		0	909
+904	Barabas Jozef	maloletý	0	907,1628
+904	Barabás Jozef	zomrel 6.7.1986	0	120,1921
+904	Barabas Martin	ž. Anna Kubinská	0	582,1862
+904	Barabas Milan	maloletý	0	907,1628
+904	Barabasová Anna r. Kubinská		0	1994,1995,1998
+904	Bednarčík Michal		0	1884
+904	Bednarčík Michal	po Jánnovi Bednarčíkovi	0	94
+904	Bednariková Katarína r. Novotná		0	206
+904	Bendiková Julia r. Kremnická		0	205
+904	Bernát Anton		0	279
+904	Bernát Emil		0	279
+904	Bernát Emil Jozef		0	279
+904	Bernát Jozef		0	279
+904	Bernátová Mária		0	279
+904	Biskup Michal		0	1981
+904	Biskupová Anna r. Hodáková		0	1981
+904	Blašovská Žofia		0	311
+904	Bobko František		0	2001
+904	Bordigová Mária r. Hickevičová		0	1984
+904	Božeková Helena r. Kubošiová		0	2178
+904	Bucáková Mária r. Remiašová		0	1355,2161
+904	Budinský Michal		0	1620,2207,2208
+904	Bušovský František	zomrel 27.7.1979, D 890/79 - 43/79	0	1807
+904	Čudeková Júlia r. Lučivjanská	č. D 647/70	0	2068
+904	Čurná Františka		0	1545,1883,1994,1995,1998
+904	Čurná Helena		0	1545,1883,1994,1995,1998
+904	Čurna Júlia		0	1545,1883,1994,1995,1998
+904	Čurný František	maloletý	0	1545,1883,1994,1995,1998
+904	Čurný Ján		0	1545,1883,1994,1995,1998
+904	Čurný Jozef		0	1545,1883,1994,1995,1998
+904	Danielčáková Mária r. Pekelská		0	2072
+904	Danišovský Ján		0	1367,1368,1369
+904	Draga Ladislav	ž.Margita Žigová	0	2013
+904	Dragová Margita r. Žigová		0	2013
+904	Dudráková Anna r. Špinárová		0	1933
+904	Dudráková Marta		0	1844
+904	Duľa Albert		0	452,1907
+904	Duľa František	ž. Júliana Novotná	0	1833
+904	Duľa Július	*21.11.1911, +26.10.1985, ženatý s Annou Dičákovou	0	2010
+904	Duľová Juliana r. Novotná		0	1833

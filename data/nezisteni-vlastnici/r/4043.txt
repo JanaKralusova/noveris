@@ -1,0 +1,256 @@
+2284	Korchňak Demeter		0	1306,1307,1357,1358
+2284	Korchňák Demeter	syn Juraja	0	33
+2284	Korchňak Demeter r. Korchňák		0	1309,1310
+2284	Korchňák Ján	I	0	35,57,58,60,127,199,1017,1192,1193,1195,1196,1197,1316,1343,1344,1430,1479,1560,1630,1695
+2284	Korchňák Ján	III	0	451,488
+2284	Korchňák Ján	VII	0	389,1187,1306,1307,1309,1310,1322,1357,1358,1480,1677
+2284	Korchňák Ján r. Korchňák		0	1017
+2284	Korchňák Jozef		0	1303,1372
+2284	Korchňák Jozef, Uhretická 12, Lhota, ČR		0	1371
+2284	Korchňak Juraj	ml	0	1306,1307,1309,1310,1357,1358
+2284	Korchňák Juraj	I	0	199,1343,1344
+2284	Korchňák Juraj	III	0	389,451,1187,1306,1307,1309,1310,1322,1357,1358,1480,1677
+2284	Korchňák Juraj	IV	0	1127
+2284	Korchňák Juraj	zomrel	0	389,1187,1322,1480,1677
+2284	Korchňák Matej		0	1533
+2284	Korchňák Matej	I	0	88,280,300,389,410,412,413,609,860,1187,1250,1322,1453,1467,1480,1677,1781,1822,1893
+2284	Korchňák Matej	II	0	488,1306,1307,1309,1310,1357,1358
+2284	Korchňák Matej	Kanada	0	923,1241,1920
+2284	Korchňák Michal r. Korchňák		0	1299
+2284	Korchňák Štefan	I	0	389,1187,1306,1307,1309,1310,1322,1357,1358,1480,1677
+2284	Korchňaková Anna r. Hanuščinová		0	364,389,1187,1322,1356,1480,1677
+2284	Korchňaková Mária		0	189,389,1187,1319,1322,1480,1626
+2284	Korchňaková Mária	mal	0	1677
+2284	Korchňáková Mária	I	0	300,353,410,1233,1353,1768,1769
+2284	Korchňáková Mária r. Barbuščáková		0	79,147,389,502,1145,1187,1480,1677,1832,1852
+2284	Korchňáková Mária r. Barbušová		0	1322
+2284	Korchňáková Mária r. Vojtilová		0	1334
+2284	Koval Ján		0	1440
+2284	Koval Ján	III	0	169
+2284	Kovaľ Ján	zomrel	0	977
+2284	Kovaľ Juraj		0	1563
+2284	Kovaľ Juraj r. Kovaľ	zomrel	0	123
+2284	Krajňák Jozef		0	50,389,392,1186,1187,1480,1677
+2284	Krajňák Jozef	I	0	42,50,73,76,84,389,391,1187,1271,1322,1480,1543,1677,1823
+2284	Krajňák Jozef r. Krajňák		0	1322
+2284	Krajňaková Anna		0	76,84,391,392,1271,1543,1823
+2284	Krajňáková Mária r. Mníchová		0	389,1464
+2284	Kubinová Mária r. Volčková		0	1017
+2284	Lakotichová Mária r. Purdová		0	1352,1513,1550
+2284	Lapšanská Anna r. Vrábeľová		0	389
+2284	Lesňáková Anna r. Ďuršová		0	891
+2284	Liba Juraj		0	1461
+2284	Liba Juraj	I	0	1460
+2284	Liba Juraj	mal	0	1495
+2284	Liba Juraj r. Liba	mal	0	389
+2284	Liba Matej	mal	0	1495
+2284	Liba Michal		0	1461
+2284	Liba Michal	mal	0	1495
+2284	Liba Michal r. Liba		0	389
+2284	Libová Ilona		0	389,1461
+2284	Libová Ilona	mal	0	1495
+2284	Libová Katarina		0	389,1461
+2284	Libová Katarina	mal	0	1495
+2284	Libová Mária		0	389,1461
+2284	Liška Andrej	mal	0	626,926,1547
+2284	Liška Andrej r. Liška	mal	0	1269,1270
+2284	Liška Ján		0	1334,1642
+2284	Liška Ján	I	0	1349
+2284	Liška Ján	IV	0	84,391,392,1543
+2284	Liška Ján	VII	0	42,73
+2284	Líška Ján	II	0	50,76,1271,1823
+2284	Líška Ján	III	0	50,1477,1501
+2284	Liška Jozef	ž Mária r Bodnovičová	0	6,1472
+2284	Liška Michal		0	1334
+2284	Liška Michal	mal	0	1349
+2284	Liška Štefan	Misenko	0	1418
+2284	Líška Štefan	I	0	50,76,84,391,392,1271,1543,1823
+2284	Lišková Anna r. Macalová		0	809
+2284	Lišková Katarina r. Korchňaková		0	199,1343,1344
+2284	Lišková Katarína r. Mrosková		0	389,1187,1306,1307,1309,1310,1322,1357,1358,1480,1640,1677
+2284	Líšková Katarina r. Šmidtová		0	389
+2284	Lišková Mária r. Bodnovičová		0	6,1472
+2284	Lorencová Anna		0	1166
+2284	Lorencová Mária		0	1166
+2284	Lukáč Ján		0	942
+2284	Macala Andrej	I	0	76,389,391,392,1187,1271,1322,1480,1543,1677,1823
+2284	Macala Andrej	II	0	809
+2284	Macala Andrej	VII	0	84
+2284	Macala Ján	I	0	42,50,73,76,84,389,391,392,1187,1271,1322,1543,1823
+2284	Macala Ján	IX	0	50,1186
+2284	Macala Ján	syn Andreja	0	84
+2284	Macala Ján	VI	0	1284,1705
+2284	Macala Jozef	II	0	83
+2284	Macala Jozef	VI	0	84
+2284	Macala Juraj	II	0	222
+2284	Macala Juraj	syn Juraja	0	83
+2284	Macala Matej	VII	0	1650
+2284	Macala Michal		0	809
+2284	Macala Michal	mal	0	391,1543
+2284	Macala Mikuláš		0	84,191
+2284	Macala Mikuláš	I	0	391,392,1543
+2284	Macala Peter	I	0	1402
+2284	Macala Peter	II	0	809
+2284	Macala Peter	ž. Ilona r. Dubošová	0	1265
+2284	Macala Štefan	I	0	809
+2284	Macalla Juraj	syn Juraja	0	1556,1906
+2284	Macalla Mikuláš		0	75,389,1138,1187,1271,1322,1480,1677,1823
+2284	Macalla Mikuláš	I	0	76,389,1187,1271,1322,1480,1677,1823
+2284	Macalla Peter	II	0	1205,1715
+2284	Macallová Katarina		0	76,1271,1823
+2284	Macallová Mária		0	76,1271,1823
+2284	Macalová Anna	I	0	42,50,73,76,84,391,392,1271,1543,1823
+2284	Macalová Elena		0	81,419
+2284	Macalová Helena	II	0	809
+2284	Macalová Helena r. Bilpuchová		0	1472
+2284	Macalová Ilona r. Dubošová		0	1264,1265
+2284	Macalová Katarina		0	389,391,392,1187,1322,1480,1543,1677
+2284	Macalová Katarina	I	0	1485
+2284	Macalová Katarina	IV	0	83
+2284	Macalová Katarina	r Fiffiková	0	199
+2284	Macalová Katarina	XII	0	84
+2284	Macalová Katarína	II; II	0	809
+2284	Macalová Katarína r. Bilpuchová	zomrela 18.11.1951	0	569
+2284	Macalová Katarína r. Fabianová		0	50
+2284	Macalová Katarína r. Fiffiková		0	1343,1344
+2284	Macalová Mária	I	0	84,218,222,389,841,1187,1322,1480,1677
+2284	Macalová Mária	II	0	42,50,73,76,84,391,392,1271,1543,1823
+2284	Macalová Mária	r Midliková	0	901
+2284	Macalová Mária	V	0	83
+2284	Macalová Mária	XVI	0	84
+2284	Macalová Mária r. Midlíková		0	389,1187,1322,1480,1677,1712
+2284	Macalová Mária r. Mrosková		0	389,1187,1306,1307,1309,1310,1322,1357,1358,1480,1640,1677
+2284	Macalová Mária r. Vrábeľová	Purdová	0	1626
+2284	Macalová Žofia	I	0	218,222,391,841,1543
+2284	Macalová Žofia r. Oľšavská		0	391,1543
+2284	Maleganosová Mária r. Ďuršová		0	389,1187,1216,1322,1328,1480,1641,1677
+2284	Midlík Andrej		0	31
+2284	Midlík Ján	I	0	452,1574
+2284	Midlík Ján	III	0	1488
+2284	Midlik Jozef	IV	0	389,1338
+2284	Midlik Jozef	zomrel	0	389,764,901,977,1187,1480,1677,1712
+2284	Midlík Jozef		0	1713
+2284	Midlík Jozef	I	0	169
+2284	Midlík Jozef	II	0	1647
+2284	Midlík Jozef	z LV 28	0	980
+2284	Midlik Jozef r. Midlik	zomrel; zomrel	0	1322
+2284	Midlík Juraj		0	809
+2284	Midlík Juraj	II	0	169
+2284	Midlik Michal	zomrel	0	764,977
+2284	Midlík Michal		0	31
+2284	Midlík Ondrej	I	0	169
+2284	Midlík Štefan		0	31
+2284	Midliková Anna	zomrela	0	53,389,764,977,1187,1322,1480,1677
+2284	Midlíková Anna		0	54,452
+2284	Midlíková Anna r. Mihalková		0	299
+2284	Midliková Anna r. Michalková		0	1443
+2284	Midliková Ilona r. Barbušová		0	324
+2284	Midlíková Katarina	zomrela	0	764,977
+2284	Midliková Mária	r Cebuľová,Porač 72	0	856
+2284	Midliková Mária r. Cebuľová, 053 23, Poráč, č. 72, SR		0	944,945,1422
+2284	Midliková Mária r. Schmidtová		0	1199
+2284	Midlíková Mária r. Vojtilová		0	389,901,1187,1322,1338,1480,1647,1677,1712
+2284	Mihalková Katarina	r Cebuľová	0	1824
+2284	Mihalková Katarina r. Cebuľová		0	389,1187,1189,1255,1322,1480,1677
+2284	Mihaľová Žofia r. Vrábeľová	Purdová	0	353,1353
+2284	Michalko Ján	I	0	299,1443
+2284	Michalko Jozef	I	0	299,1443
+2284	Michalková Júlia	I	0	299,1443
+2284	Michalková Marta		0	299
+2284	Michalková Žofia	I	0	299,1443
+2284	Mohnacková Katarina r. Macalová		0	84,218,222,391,841,1543
+2284	Mrosko Ján	I	0	1640
+2284	Mrosko Ján	zomrel	0	73,389,1187,1677
+2284	Mrosko Ján	zomrel; zomrel	0	1480
+2284	Mrosko Ján	ž Anna r Hardyová	0	1640
+2284	Mrosko Ján r. Mrosko	zomrel; zomrel	0	1322
+2284	Mrosko Jozef	II	0	1565
+2284	Mrosko Juraj		0	489
+2284	Mrosko Michal		0	1466
+2284	Mrosko Michal	III	0	353,1203,1204,1434,1466,1616
+2284	Mrosko Michal	na neznámom mieste	0	1617,1704
+2284	Mrosko Michal r. Mrosko		0	389
+2284	Mrosko Štefan	VIII	0	1061,1531
+2284	Mrosková Anna	II	0	389,1434
+2284	Mrosková Anna	r Mrosková	0	31
+2284	Mrosková Anna r. Hardyová		0	1640
+2284	Mrosková Anna r. Mrosková		0	33
+2284	Mrosková Katarina	I	0	389
+2284	Mrosková Katarína	I; I	0	1434
+2284	Mrosková Katarína r. Bakošová	predtým Midlíková	0	1440
+2284	Mrosková Mária r. Fabinyová	manželka Jozefa	0	1187,1480,1677
+2284	Neupaverová Žofia r. Vrábľová	Purda	0	1626
+2284	Onratil Anton		0	1384
+2284	Parková Anna r. Purdová		0	1352,1513,1550
+2284	Polkabla Andrej	I	0	1395
+2284	Polkabla Andrej	II	0	924
+2284	Polkabla Andrej	ž. Mária r Vrábeľová	0	1459
+2284	Polkabla Ján	III	0	1476
+2284	Polkabla Ján	IX; IX	0	241
+2284	Polkabla Ján	ml	0	1477
+2284	Polkabla Jozef	I	0	445
+2284	Polkabla Juraj		0	219,240,916,1677,1811
+2284	Polkabla Juraj	I	0	1560
+2284	Polkabla Juraj	II	0	389,1322,1480,1628
+2284	Polkabla Juraj	III; III	0	241
+2284	Polkabla Juraj r. Polkabla	II	0	317,1810
+2284	Polkabla Matej		0	445
+2284	Polkablová Anna r. Polkablová		0	54,452
+2284	Polkablová Anna r. Polkablová	zomrela	0	53
+2284	Polkablová Ilona		0	452
+2284	Polkablová Katarina		0	445,446,447,1656,1872
+2284	Polkablová Mária		0	54,452
+2284	Polkablová Mária	I	0	389,1187,1322,1480
+2284	Polkablová Mária	mal	0	54,452,1677
+2284	Polkablová Mária	zomrela	0	53,389,1187,1322,1480,1677
+2284	Polkablová Mária r. Sopkovičová		0	389,732
+2284	Polkablová Mária r. Vrábeľová		0	1459
+2284	Prokopová Ilka r. Bilpuchová		0	607,1053,1449,1864
+2284	Purda Andrej		0	1319
+2284	Purda Johan		0	1352,1513,1550
+2284	Purda Jozef		0	1352,1513,1550
+2284	Purda Michal		0	189
+2284	Purda Nick		0	1352,1513,1550
+2284	Purda Ondrej		0	1352,1513,1550
+2284	Purda Peter		0	389,1322
+2284	Purda Peter	II	0	389,1187,1322,1480,1677
+2284	Purda Štefan		0	1352,1513,1550
+2284	Purdová Anna	r Fiffiková	0	258,1718,1752,1826
+2284	Purdová Anna r. Cebuľová		0	1648
+2284	Purdová Anna r. Fiffiková		0	257,260,333,389,939,1010,1187,1322,1480,1536,1677,1717,1739,1755,1825
+2284	Sivačko Ján	I	0	481
+2284	Sivačko Matej	I	0	422
+2284	Sivačko Matej r. Sivačko	I	0	899
+2284	Sivačko Michal	II	0	422
+2284	Sivačko Michal r. Sivačko	II	0	899
+2284	Sivačková Mária	I	0	899
+2284	Sivačková Mária	I; I	0	422
+2284	Sivulová Mária r. Macalová		0	809
+2284	Skodalová Mária r. Vojtilová	predtým Midlíková	0	169
+2284	Stanislaová Anna		0	1199
+2284	Stanislav Demeter	I	0	1199
+2284	Stanislav Demeter	III	0	452
+2284	Stanislav Ján		0	1486
+2284	Stanislav Juraj	I	0	389,1322
+2284	Stanislav Juraj	III	0	1560
+2284	Stanislav Juraj	IV	0	1199
+2284	Stanislav Juraj	V	0	452
+2284	Stanislavová Anna	III	0	452
+2284	Stanislavová Žofia	III	0	1199
+2284	Stanislavová Žofia	IV	0	452
+2284	Sztanislavová Mária r. Midliková		0	452
+2284	Šefčik Ján		0	1572
+2284	Šefčík Ján	mal	0	353,1490
+2284	Šefčik Juraj		0	1572
+2284	Šefčík Juraj	mal	0	353,1490
+2284	Šefčik Štefan		0	1572
+2284	Šefčík Štefan	mal	0	353,1490
+2284	Šefčíková Alžbeta		0	353,1490
+2284	Šefčiková Anna		0	1572
+2284	Šefčíková Ilona	mal	0	353,1490
+2284	Šefčíková Mária	mal	0	353,1490
+2284	Šefčiková Žofia	mal	0	353,1490
+2284	Širila Jozef		0	224
+2284	Širila Jozef	III	0	931
+2284	Širila Macko		0	485
+2284	Širila Michal		0	1677

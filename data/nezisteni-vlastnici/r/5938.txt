@@ -1,0 +1,256 @@
+3339	RÁKOC Štefan, SR	0	1	3,403,487
+3339	REVÁKOVÁ Anna r. Kandurová		0	306
+3339	ROSENWASSEROVÁ Julianna		1	402
+3339	RUDY Michal	st. ,zom	0	357
+3339	SACHAROVÁ Mária r. Homzová	zomrela	0	271,305
+3339	SAKARA Jozef	1	0	301
+3339	SAKARA Jozef, SR	1	1	251,255,271,305,310,355,356,399,429
+3339	SAKARA Jozef, SR	2	0	301
+3339	SIKOROVÁ Helena r. Onderjová		0	251,301
+3339	SIKUL Ján, SR	ž. Mária Zálepová	1	398
+3339	SKURĽOVÁ Helena r. Rakárová		0	248,251,301
+3339	SMELEJ Eliáš		0	243
+3339	SMOJEJOVÁ Zuzana		0	301
+3339	SMOLEJ Michal		0	251,301
+3339	SMOLEJ Michal, SR	1	0	235,243
+3339	SMOLEJOVÁ Aľa		0	235,251,301
+3339	SMOLEJOVÁ Helena		0	243,301
+3339	SMOLEJOVÁ Helena, SR	1	0	251
+3339	SMOLEJOVÁ Mária, SR	1	0	235,243,251,301
+3339	SMOLEJOVÁ Terézia		0	251,301
+3339	SMOLEJOVÁ Zuzana		0	235,243,251
+3339	SOPKO František		1	277,351,401
+3339	SOPKO Ján		1	233,275,277,426,446,473
+3339	SOPKO Ján, SR	ž. Mária	1	3,403
+3339	SOPKO Ján, SR	ž. Mária Nazadová	1	411,414,428
+3339	SOPKO Jozef	ž. Helena r. Boháčová zomrel	0	246,264,295,302
+3339	SOPKO Jozef, SR	mal.,syn Jána ,zomrel	1	487
+3339	SOPKO Michal		0	247,275
+3339	SOPKO Michal	mal	0	227
+3339	SOPKO Michal	ml. zomrel	0	354
+3339	SOPKO Michal	ml., zomrel	0	353
+3339	SOPKO Michal	ž. Anna r. Janošová	0	351
+3339	SOPKO Michal r. Janošová		1	401
+3339	SOPKO Michal, SR	ml,.zomrel	1	411
+3339	SOPKO Michal, SR	ml,zomrel	1	352,428
+3339	SOPKO Michal, SR	ml.,zom	1	422,427
+3339	SOPKO Michal, SR	ml.,zomrel	1	236,402,414
+3339	SOPKO Pavel, SR	ž. Anna Gombitová	1	402
+3339	SOPKO Pavol	z. Anna r. Petrova	0	251,301
+3339	SOPKO Pavol	zomrel	0	251,301
+3339	SOPKO Štefan, SR	mal	1	352,422,427
+3339	SOPKOVÁ Alžbeta	mal	0	351
+3339	SOPKOVÁ Alžbeta, SR	mal	1	401
+3339	SOPKOVÁ Helena		0	227,353,354
+3339	SOPKOVÁ Helena	r. Boháčová	1	237
+3339	SOPKOVÁ Helena r. Boháčová		1	352,414,422,427,428
+3339	SOPKOVÁ Helena r. Kandurová, SR	zomrela	1	236
+3339	SOPKOVÁ Mária		0	247,275,277,351
+3339	SOPKOVÁ Mária	2	1	236
+3339	SOPKOVÁ Mária r. Hutňanová	zom	0	247
+3339	SOPKOVÁ Mária r. Hutňanová	zomrela	0	227,277
+3339	SOPKOVÁ Mária r. Rakárová	vd	0	251,301
+3339	SOPKOVÁ Mária r. Rakárová, SR	vd	0	248
+3339	SOPKOVÁ Mária, SR	1	1	411
+3339	SOPKOVÁ Mária, SR	2	1	3,352,401,403,411,414,422,427,428,487
+3339	SOPKOVÁ Terézia	zom	0	246
+3339	SOPKOVÁ Terézia	zomrela	0	227,264,295,302,351
+3339	SOPKOVÁ Terézia r. Turčíková, 09406, Košarovce, SR	zomrela	1	233,401,426,428,446,473
+3339	SOPKOVÁ Terézia r. Turčíková, 09407, Košarovce, SR	zomrela	1	414
+3339	SOPKOVÁ Terezia, SR	maloletá	1	400
+3339	SOPKOVÁ Zuzana	zom	0	247
+3339	SOPKOVÁ Zuzana	zomrela	0	275
+3339	SOPKOVÁ Zuzana, SR	zomrela	1	236,411
+3339	STAVAR Juraj, SR	zom	0	357
+3339	SÝKOROVÁ Helena r. Hudáková, SR	Ondrejova	1	352,420,422,427
+3339	SÝKOROVÁ Helena r. Onderková		0	289
+3339	ŠAFRÁNKOVÁ Alžbeta r. Čižmárová		0	251,301
+3339	ŠAFRANKOVÁ Mária		0	301
+3339	ŠAFRANOVÁ Mária		0	251
+3339	ŠČERBOVÁ Mária r. Turčíková		0	268,307
+3339	ŠČERBOVÁ Mária r. Turčíková	vd	0	301
+3339	ŠČERBOVÁ Mária r. Turčíková, SR	vd	0	251
+3339	ŠICHULA Ján		0	245,294
+3339	ŠICHULA Ján	syn Jána	0	230,316,335
+3339	ŠICHULA Ján, SR	syn Jána, 0 1	1	3,487
+3339	ŠICHULA Ján, SR	syn Jána, 0,1	1	403
+3339	ŠICHULA Jozef	1 zomrel	0	270,287,316
+3339	ŠICHULA Jozef	syn Jána	0	230,269,316,335,351
+3339	ŠICHULA Jozef, SR	syn Jána	1	401
+3339	ŠICHULA Jozef, SR	syn Jána, 0	1	3,403,487
+3339	ŠICHULA Juraj	ž. Mária r. Turíková	0	251
+3339	ŠICHULA Juraj, SR	1	0	230
+3339	ŠICHULA Juraj, SR	2	0	230
+3339	ŠICHULA Juraj, SR	ml	0	230
+3339	ŠICHULOVÁ Mária	zomrela	0	270
+3339	ŠICHULOVÁ Zuzana	zomrela	0	287
+3339	ŠMAJA Ján		0	251
+3339	ŠMAJDA Andrej		1	137,251,301,351,401
+3339	ŠMAJDA Ján		1	257,269,301,351,352,398,401,422,427
+3339	ŠMAJDA Ján, SR	ž. Helena Metyľová	1	3,403,487
+3339	ŠMAJDA Jozef		0	227,251,253
+3339	ŠMAJDA Jozef, SR	1	1	137,351,401,414,428
+3339	ŠMAJDA Jozef, SR	ž. Mária Bačová	1	352,414,422,427,428
+3339	ŠMAJDA Pavol		0	251,301
+3339	ŠMAJDOVÁ Helena r. Krčmarová		1	403
+3339	ŠMAJDOVÁ Jozef	ž. Mária r. Bačová	0	227
+3339	ŠMAJDOVÁ Mária r. Bačová, SR	0	1	3,403,487
+3339	ŠMAJDOVÁ Mária r. Boháčová		0	244
+3339	ŠMAJDOVÁ Zuzana		0	269
+3339	ŠVEC Juraj		0	288,379
+3339	ŠVEC Juraj	st	0	251,301
+3339	ŠVEC Juraj, SR	st	1	232
+3339	ŠVIGAR-KAČMÁR Štefan		1	3,227,351,401,403,414,428,487
+3339	TAKÁČOVÁ Mária r. Gombitová		0	251,301
+3339	TURČÍK Andrej	vzd	0	251,301
+3339	TURČÍK Andrej, SR	1	0	244,301
+3339	TURČÍK Andrej, SR	2	0	251,301
+3339	TURČÍK Ján	ž. Anna r. Pasternáková	0	227,238,268,351
+3339	TURČÍK Ján	ž. Anna r. Stanovčáková	0	268,301
+3339	TURČÍK Ján	ž. Helena r. Hojasová zomrel	0	241,252
+3339	TURČÍK Ján, SR	1	1	227,241,251,252,277,289,301,307,351,352,401,414,422,427,428
+3339	TURČÍK Ján, SR	2	0	251
+3339	TURČÍK Ján, SR	3	1	227,251,301,351,401,414,420,428
+3339	TURČÍK Ján, SR	4	0	251
+3339	TURČÍK Ján, SR	ž. Anna Pasternáková	1	3,352,401,403,414,428,487
+3339	TURČÍK Ján, SR	ž. Anna Stanovčáková	0	251
+3339	TURČÍK Ján, SR	ž. Anna.Pasternáková	1	422,427
+3339	TURČÍK Jozef		0	227
+3339	TURČÍK Jozef	syn Andreja	0	227,268,351
+3339	TURČÍK Jozef	ž. Zuzana Hrezová, zomrel	1	427
+3339	TURČÍK Jozef, SR	1	1	268,351,401
+3339	TURČÍK Jozef, SR	syn Andreja ,2	1	352,401
+3339	TURČÍK Jozef, SR	syn Andreja,2	1	414,422,427,428
+3339	TURČÍK Jozef, SR	ž. Zuzana Hrezová, zomrel	1	352,422
+3339	TURČIK Juraj	ž. Anna r. Hojasová	0	227,238,268,351
+3339	TURČÍK Juraj		0	251,301
+3339	TURČÍK Juraj, SR	ml	1	352,422,427
+3339	TURČÍK Juraj, SR	ž. Anna Hojasová	1	352,401,403,414,422,427,428
+3339	TURČÍK Juraj, SR	ž. Anna.Hojasová	1	3,487
+3339	TURČÍK Pavel, SR	1	0	251,301
+3339	TURČÍK Pavol	mal. syn Juraja	0	252,268,277
+3339	TURČÍK Pavol	ž. Mária r. Turíková	0	227
+3339	TURČÍK Pavol, SR	2	0	241,251,268,301,307,351
+3339	TURČÍK Pavol, SR	3	0	251,301
+3339	TURČÍK Pavol, SR	4	0	227,301
+3339	TURČÍK Pavol, SR	mal.,syn Juraj	1	428
+3339	TURČÍK Pavol, SR	mal.,syn Juraja	1	401,414
+3339	TURČÍK Pavol, SR	ž. Mária Tríková	1	428
+3339	TURČÍK Pavol, SR	ž. MáriaTuríková	1	414
+3339	TURČÍK Štefan	syn Andreja	0	227,268,351
+3339	TURČÍK Štefan, SR	syn Andreja	1	352,401,414,422,427,428
+3339	TURČÍKOVÁ Andrej, SR	1	0	251
+3339	TURČÍKOVÁ Anna r. Hajasová		1	241,289,420
+3339	TURČÍKOVÁ Anna r. Hajduková		0	251,301
+3339	TURČÍKOVÁ Anna r. Hajduková, SR		0	241
+3339	TURČÍKOVÁ Anna r. Hojasová	zom	0	251,301
+3339	TURČÍKOVÁ Anna r. Hojasová	zomrela	0	227,351
+3339	TURČÍKOVÁ Anna r. Sopková	zom	0	247
+3339	TURČÍKOVÁ Anna r. Sopková	zomrela	0	275
+3339	TURČÍKOVÁ Anna r. Sopková, SR	zomrela	1	236,352,401,411,414,422,427,428
+3339	TURČÍKOVÁ Dorota	dcéra Andreja	0	227,268,351
+3339	TURČÍKOVÁ Dorota, SR	céra Andreja	1	427
+3339	TURČÍKOVÁ Dorota, SR	dcéra Andreja	1	352,401,414,422,428
+3339	TURČÍKOVÁ Hana r. Hojasová		1	402
+3339	TURČÍKOVÁ Helena		0	268,351
+3339	TURČÍKOVÁ Helena r. Hojasová		1	251,289,301,353,354,401,414,420,428
+3339	TURČIKOVÁ Helena, SR	nezletilá	1	3,403,487
+3339	TURČÍKOVÁ Helena, SR	1	0	227
+3339	TURČÍKOVÁ Ilona		0	251,301
+3339	TURČÍKOVÁ Justína r. Rusnáková, 09407, Vyšná Sitnica, SR	zomrela	1	352,401,414,422,427,428
+3339	TURČÍKOVÁ Mária		0	251,301
+3339	TURČÍKOVÁ Zuzana		0	251,268,307
+3339	TURČÍKOVÁ Zuzana, SR	1	0	301
+3339	TURÍK Michal, SR	ž. Anna Pasternáková ,zomrel	1	352
+3339	TURÍK Michal, SR	ž. Anna Pasternáková,zomrel	1	427
+3339	TURÍK Michal, SR	ž. Anna.Pasternáková,zomrel	1	422
+3339	VAĽÁK Andrej, SR	neznámy pobyt	1	415
+3339	VAĽÁKOVÁ Alžbeta, SR	neznámy pobyt	1	231,416
+3339	VAĽÁKOVÁ Anna	st.,neznámy pobyt	1	416
+3339	VAĽÁKOVÁ Anna r. Kosťová		1	401,414,428
+3339	VAĽÁKOVÁ Anna, SR	maloletá	1	231,415,416
+3339	VAĽÁKOVÁ Anna, SR	st.,neznámy pobyt	1	231
+3339	VALIGOVÁ Anna r. Homzová		0	251,301
+3339	VARHÁČOVÁ Mária r. Šichulová		0	251,301
+3339	VASIĽ Michal		0	322,323,324
+3339	VASILKOVÁ Mária r. Čokotová		1	407
+3339	VASIĽKOVÁ Zuzana r. Cenknerová		0	239,351
+3339	VASIĽOVÁ Anna r. Cenknerová, 09407, Rohožník, SR		1	399,429
+3339	VASIĽOVÁ Helena r. Cenknerová, 09407, Rohožník, SR		1	429
+3339	VASIĽOVÁ Helena r. Cenknerová, Rohožník, SR		1	399
+3339	VASIĽOVÁ Zuzana r. Cenknerová		1	227,251,255,352,355,399,414,422,427,428,429
+3339	VASILOVÁ Zuzana r. Cenknerová, SR	0	1	3,403,487
+3339	VASIĽOVÁ Zuzana r. Cenknerová, SR		1	301,401
+3340	Antalová Mária	Biziková	0	1006
+3340	Antalová Mária r. Biziková		0	970,1148,1542,1584,1615,1620,1715
+3340	Antalová Zuzana r. Kuceraková		0	1006,1615
+3340	Antalová Žofia r. Antalová		0	1006,1615,1715
+3340	Antalová Žofia r. Antalová	Sekerka Janova	0	1108
+3340	Antalová Žofia r. Gallová		0	1601
+3340	Antalová Žofia r. Zoryova		0	1006,1033,1102,1615,1715,1721
+3340	BACHNAK Michal		0	1006,1062,1615,1715
+3340	Bachňák Ondrej		0	1715
+3340	Bachnak Štefan		0	1006,1061,1615,1715
+3340	Bachnaková Mária		0	1006,1061,1615,1715
+3340	Bachnaková Zuzana		0	1006,1062,1615,1715
+3340	Bartok Ondrej	Zadný	0	1451,1628,1631
+3340	Benedikti Ondrej		0	1451,1628,1631
+3340	Benedikti Ondrej	Stankovič	0	1183
+3340	Benediktiová Mária		0	1419,1449,1450
+3340	Benediktiová Mária r. Benediktiová		0	1183
+3340	Benediktiová Mária r. Benediktiová	manž. Juraj	0	1542
+3340	Benediktiová Mária r. Revúcka		0	1150,1419,1449,1450
+3340	Benediktiová Zuzana		0	1006,1016,1615,1715,1725
+3340	Benediktiová Žofia		0	1419,1449,1450
+3340	Benediktiová Žofia r. Lindáková		0	1419,1449,1450
+3340	Benedikty Ondrej		0	1564
+3340	Benedikty Ondrej	z. Kováčová Mária	0	1006,1715
+3340	Benedikty Ondrej	ž. Žofia Tomášiková	0	1406
+3340	Benedikty Ondrej	ž.Tomášiková Žofia	0	1615
+3340	Benedikty Revúcky Ján		0	1138
+3340	Benediktyová Mária	Tomek	0	1006,1615,1715
+3340	Berdarsky Ondrej	Dulin	0	1451,1628,1631
+3340	Bianchin Fridrich, Ing.		0	970,1136,1148,1264,1584,1620
+3340	Brdárska Hric Mária r. Lacko Kostková		0	1451,1628,1631
+3340	Brdársky Ján	Hric	0	1451,1628,1631
+3340	Brdjar Ján		0	1451,1628,1631
+3340	BRDJAR Ondrej		0	1451,1628,1631
+3340	BREJČÁK Ján		0	1451,1628,1631
+3340	BREJČÁK Ondrej		0	1451,1628,1631
+3340	Cserny Ján	Capek	0	1451,1628,1631
+3340	Czekusová Margita r. Longhofferová		0	1419,1449,1450
+3340	Delia Michal	Nižný	0	1451,1628,1631
+3340	Delia Ondrej		0	1451,1628,1631
+3340	Delia Ondrej	Vyšný	0	1451,1628,1631
+3340	Dobos Ján		0	1451,1628,1631
+3340	Dovalovská Mária r. Stehlová		0	1451,1628,1631
+3340	Dovalovská Zuzana r. Kubaská		0	1451,1628,1631
+3340	DOVALOVSKÝ Ján		0	1451,1628,1631
+3340	DOVALOVSKÝ Juraj		0	1451,1628,1631
+3340	DOVALOVSKÝ Ondrej		0	1451,1628,1631
+3340	DULIN Juraj		0	1451,1628,1631
+3340	DULINOVÁ Žofia		0	1451,1628,1631
+3340	Ďuričková Mária r. Stankovičová		0	1183,1615,1715
+3340	Duriska Ján		0	1419,1449,1450
+3340	Durisko Ján	ž.Zuzana Spišáková	0	1584
+3340	DURISKO Michal		0	1476,1477,1482
+3340	Durisková Janova		0	1419,1449,1450
+3340	Ďuriško Ján a Zuzana Ďurišková r. Spišiaková		0	970
+3340	Duriško Ondrej		0	998,1049,1180,1183,1264,1265,1320,1321,1476,1477,1482,1542,1584,1604,1720
+3340	Ďuriško Ondrej	manž. Zuzana r. Kasperová	0	1476
+3340	Ďurišková Zuzana r. Spišaková		0	1121,1477,1584
+3340	Ďurišková Zuzana r. Spišáková	nar. 31.12.1898	0	1531
+3340	Durman Ondrej	mladší	0	1006,1017,1104,1566,1615,1715,1726
+3340	Elexová Mária r. Tomášiková		0	1451,1628,1631
+3340	Emericiová Nezistené r. Mestyanová		0	1180,1183,1264,1265,1320,1321,1584
+3340	Emericiová Zuzana r. Mihaliková		0	995,1006,1406,1615,1715
+3340	Fajcová Zuzana r. Lamgová		0	1451,1628,1631
+3340	FIFIK Ondrej		0	1419,1449,1450
+3340	Fifiková Mária r. Kršňáková		0	1419,1449,1450
+3340	Galiková Mária r. Revúcka		0	1615,1715
+3340	Galiková Zuzana r. Vysoká		0	1419,1449,1450
+3340	GALLIK Michal		0	1006,1064,1419,1449,1450,1451,1508,1615,1628,1631,1715
+3340	Gallo Andrej	str	0	1476,1482
+3340	Gallo Ján	manž. Mária r. Rogos Repáková	0	1475,1476,1482
+3340	Gallo Ondrej	syn Jána	0	1475,1476,1482
+3340	GALLO Štefan		0	1475,1476,1482,1601

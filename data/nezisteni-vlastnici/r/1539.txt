@@ -1,0 +1,256 @@
+916	Síkora Ján		0	877,878,983
+916	Síkora Ján	1	0	594,738
+916	Síkora Ján	2	0	427,454,455,644,658,659,696,701,742,743,773,795,912,914,920,921,922,923,927,928,929,930,933,934,935,936,937,938,939,940,941,942,943,997,1073,1077,1081,1091,1166,1171,1176
+916	Síkora Ján	3	0	645
+916	Síkora Ján	Litmanová 16	0	616
+916	Síkora Ján	ž Anna r. Stašaková	0	620,712
+916	Síkora Jozef		0	473,568,594,738,742,743,759,761,762,763,960,961
+916	Síkora Konštantín		0	886,971
+916	Síkora Lorinc		0	594,738
+916	Síkora Michal		0	594,738,983
+916	Síkora Michal	1	0	410,420,648,649,650,651,652,671,679,680,681,682,683,684,685,903,911,1072,1080,1090,1095,1167
+916	Síkora Michal	ž Mária	0	740,755,761,762,763,765,766,825
+916	Síkora Mikuláš		0	741,964
+916	Síkora Štefan		0	403,404,405,427,454,455,596,644,658,659,737,795,912,914,920,921,922,923,927,928,929,930,933,934,935,936,937,938,939,940,941,942,943,960,961,997,1073,1077,1081,1091,1166,1171,1176
+916	Síkora Štefan	1	0	422,537,566,713,714,715,721,722,833,834,959
+916	Síkora Štefan	zomrel	0	535,570,571,719,720,733,1014,1015
+916	Síkora Štefan 1		0	944
+916	Sikora Vasil		0	983
+916	Síkorak Jozef		0	468
+916	Síkorová Agnesa		0	594,738
+916	Síkorová Anna		0	427,454,455,594,644,658,659,738,795,912,914,920,921,922,923,927,928,929,930,933,934,935,936,937,938,939,940,941,942,943,997,1073,1077,1081,1091,1166,1171,1176
+916	Síkorová Anna r. Pokrivčaková		0	840
+916	Síkorová Anna r. Sikorová	m Michal	0	627
+916	Síkorová Anna r. Stašáková	m Ján	0	620
+916	Síkorová Eva r. Imrichová	zomrela	0	418,457,653,654,655,656,657,676,740,752,892,912,915,916,918,919,1008,1104
+916	Síkorová Františka r. Imrichová		0	516,588,611,717,881,1209,1216
+916	Síkorová Irena r. Pokrivčaková		0	427,454,455,644,658,659,912,914,920,921,922,923,927,928,929,930,933,934,935,936,937,938,939,940,941,942,943,997,1073,1077,1081,1091,1166,1171,1176
+916	Síkorová Júlia		0	427,454,455,644,658,659,912,914,920,921,922,923,927,928,929,930,933,934,935,936,937,938,939,940,941,942,943,997,1073,1077,1081,1091,1166,1171,1176
+916	Síkorová Katarína		0	741,964
+916	Síkorová Mária		0	901
+916	Síkorová Mária	1	0	737
+916	Síkorová Mária	2	0	964
+916	Sikorová Mária r. Guregová		0	983
+916	Síkorová Mária r. Imrichová		0	881
+916	Síkorová Mária r. Kseňaková		0	454,455
+916	Síkorová Mária r. Pokrivčaková		0	418,446,457,516,523,611,615,653,654,655,656,657,676,678,717,737,740,752,802,860,889,891,903,911,912,915,916,918,919,1008,1104,1209,1216
+916	Síkorová Mária r. Stašáková	m Štefan	0	622
+916	Síkorová Mária r. Žolnierčíková		0	541,542,543,544,645,703
+916	Síkorová Terézia		0	797
+916	Skalňak Florián		0	702,767,768,810
+916	Skalňak Peter		0	806,807,808
+916	Skalňaková Anna		0	806,807,808
+916	Skalňaková Žofia		0	806,807,808
+916	Smoleň Michal		0	870
+916	Smoleň Simeon		0	870
+916	Smoleň Štefan		0	870
+916	Smoleňová Anna r. Sikorová		0	427,454,455,644,658,659,795,912,914,920,921,922,923,927,928,929,930,933,934,935,936,937,938,939,940,941,942,943,997,1073,1077,1081,1091,1166,1171,1176
+916	Smoleňová Mária		0	591,592,593
+916	Smoliňová Mária		0	822
+916	Sroková Anastázia r. Lesčáková		0	529,541,542,543,544,546,628,629,718,778,779,780,781,782,783,1105,1133,1210
+916	Stašák Adam		0	538,564,567,582,608,713,714,715,723,729,736,748,785,786,829,830,831,959,969,982,1039
+916	Stašák František		0	617,757,758,759,821
+916	Stašák Gabor		0	864
+916	Stašák Jakub		0	93,504,533,534,537,566,570,571,596,712,713,714,715,719,720,721,722,730,733,771,785,786,833,834,878,959,1017,1018,1114,1115,1116,1118,1119
+916	Stašák Ján	1	0	471,617,757,758,759,797,821,846,864
+916	Stašák Ján	2	0	440,538,562,567,582,713,714,715,785,786,829,830,831,1058
+916	Stašák Ján	3	0	473,759
+916	Stašák Ján	4	0	513,557,717,835,964,974,975,976
+916	Stašák Ján	zomrel, Do Pavlusa	0	529,546,628,629,718,748,778,779,780,781,782,783,1105,1133,1210
+916	Stašák Jozef		0	471,797,821,846,864
+916	Stašák Michal		0	93,836
+916	Stašák Michal	1	0	504,533,534,570,571,719,720,730,733,771,785,786,1017,1018,1114,1115,1116,1118,1119
+916	Stašák Michal	2	0	711,731,774,803
+916	Stašák Michal	zomrel	0	417,440,898,1057,1058
+916	Stašák Mikuláš	zomrel	0	447,473,759
+916	Stašák Peter		0	513,557,640,660,661,662,663,664,675,717,806,807,808,835,863,884,885,906,907,908,909,912,917,924,925,974,975,976,1212
+916	Stašák Peter	1	0	836
+916	Stašák Peter	2	0	711,731,759,771,772,840
+916	Stašák Štefan		0	531,713,714,715,833,834,877,1137,1193
+916	Stašák Štefan	1	0	877,894
+916	Stašák Štefan	2	0	473,759
+916	Stašák Štefan	3	0	615,891,915,916
+916	Stašák Štefan	4	0	513,557,717,835,974,975,976
+916	Stašák Štefan	5	0	515,795,879,880,882,1134,1144
+916	Stašák Štefan	6	0	513,717,755,846,886,974,975,976
+916	Stašák Štefan	zomrel	0	473,509,517,707,717,759,1162,1164,1215
+916	Stašák Štefan	zomrel 22.6.1991	0	509,517,707,717,1162,1164,1215
+916	Stašák Vasil	Kuros	0	878
+916	Stašáková Agnesa r. Sykorová		0	478,480,576,577,578,617,638,757,758,759,761,762,763,817,818,819,820,821,960,961
+916	Stašáková Anna		0	471,617,757,758,759,797,821,846,864
+916	Stašáková Anna	1	0	531,713,714,715,833,834,964,1137,1193
+916	Stašáková Anna r. Polomčáková		0	508,519,604,605,708,717,718,774,900,1075,1076,1085,1086,1088,1092,1096,1156,1170,1217,1218
+916	Stašáková Anna r. Síkorová		0	530,558,561,576,578,607,709,732,983,1020
+916	Stašáková Anna r. Smoleňová		0	591,592,593
+916	Stašáková Anna r. Stašáková		0	531,833,834,1137,1193
+916	Stašáková Eva		0	473,530,712,759,982
+916	Stašáková Eva	1	0	878,959
+916	Stašáková Eva r. Kseňáková		0	492,703,725,726,727,765,766,769,770,963,1223
+916	Stašáková Františka		0	471,617,757,758,759,797,821,846,864
+916	Stašáková Ilona		0	538,564,567,582,608,713,714,715,723,729,736,748,785,786,829,830,831,1039
+916	Stašáková Júlia		0	531,615,713,714,715,833,834,891,915,916,1137,1193
+916	Stašáková Katarína		0	473,541,542,543,544,759
+916	Stašáková Katarína	1	0	471,617,757,758,759,797,821,846,864
+916	Stašáková Katarína r. Imrichová	m Štefan	0	712,771,811,845,866
+916	Stašáková Katarína r. Polomčáková	m Matej	0	844,974,975,976
+916	Stašáková Katarína r. Sikorová	m František	0	970
+916	Stašáková Margita		0	557,835
+916	Stašáková Mária		0	759,964
+916	Stašáková Mária	1	0	531,713,714,715,833,834,1137,1193
+916	Stašáková Mária	2	0	471,617,757,758,759,797,821,846,864
+916	Stašáková Mária	3	0	529,546,628,629,718,778,779,780,781,782,783,1105,1133,1210
+916	Stašáková Mária	pri Blave	0	531,713,714,715,833,834,1137,1193
+916	Stašáková Mária r. Imrichová		0	459,665,669,670,695
+916	Stašáková Mária r. Imrichová	1	0	458,613,626,638,666,667,668,697,698,699,967,968,972
+916	Stašáková Mária r. Malastová	zomrela	0	877
+916	Stašáková Terézia		0	463,591,592,593
+916	Stašáková Verona		0	471,617,757,758,759,797,821,846,864
+916	Sýkora Ján		0	530,558,561,576,578,607,709,732,1020
+916	Sýkora Ján	1	0	559,561,576,577,578,607,709,732,1012,1013,1020
+916	Sýkora Ján	Parafín	0	530,559,561,576,577,578,607,709,732,1012,1013,1020
+916	Sýkora Jozef		0	478,480,530,559,561,576,577,578,607,638,709,732,761,762,763,817,818,819,820,960,961,1012,1013,1020
+916	Sýkora Michal		0	403,404,405,410,420,484,487,530,648,649,650,651,652,671,679,680,681,682,683,684,685,767,768,793,815,816,903,911,1072,1080,1090,1095,1125,1126,1127,1128,1157,1167,1207
+916	Sýkora Michal	1	0	478,480,559,561,576,577,578,607,638,709,732,761,762,763,817,818,819,820,960,961,1012,1013,1020
+916	Sýkora Štefan		0	744,749,750,751
+916	Sýkora Vavrinec		0	478,480,530,559,561,576,577,578,607,638,709,732,761,762,763,817,818,819,820,960,961,1012,1013,1020
+916	Sýkorová Agnesa		0	530,559,561,607,709,732,1012,1013,1020
+916	Sýkorová Eva r. Imrichová	zomrela	0	587,962
+916	Sýkorová Františka r. Imrichová		0	123
+916	Sýkorová Katarína	zomrela 1992	0	509,515,517,609,707,717,795,879,880,882,1134,1144,1162,1164,1215
+916	Sýkorová Mária		0	903
+916	Sýkorová Mária r. Pokrivčáková		0	123
+916	Sýkorová Mária r. Pokrivčáková	2	0	516,717,1209,1216
+916	Sýkorová Verona r. Smoleňová	zomrela	0	870
+916	Szakacs František		0	581
+916	Šlampiak Andrej		0	872,874,964
+916	Šlampiak Filip	ž Anna r. Hutniková	0	973
+916	Šlampiak Ján		0	497,636,872,894,1161,1205
+916	Šlampiak Michal		0	423,796,874,965,966
+916	Šlampiak Štefan		0	422,872,874,964,965,966,969
+916	Šlampiak Štefan	zomrel v r. 1968	0	497,499,636,764,1161,1205,1206
+916	Šlampiaková Anna		0	764
+916	Šlampiaková Júlia r. Dvorozňáková		0	421,422,965,966,1160
+916	Šlampiaková Júlia r. Petriľaková		0	429,594,653,654,655,660,661,662,663,664,672,673,674,884,885,896,912,1199
+916	Šlampiaková Mária		0	872,874
+916	Šlampiaková Mária r. Sikorová	m Mikuláš	0	618,823
+916	Šlampiaková Terézia		0	964
+916	Šlapjak Ján	Filipov	0	875
+916	Špirová Regína r. Hochhauserová		0	417,427,440,463,538,565,591,592,593,608,644,658,659,710,713,714,715,723,729,736,829,830,831,849,898,912,914,920,921,922,923,927,928,929,930,933,934,935,936,937,938,939,940,941,942,943,997,1057,1058,1073,1077,1081,1091,1166,1171,1176
+916	Tokarčík Ján		0	570
+916	Tokarčík Vojtech		0	570
+916	Tokarčíková Anna		0	570
+916	Tokarčíková Irena		0	570
+916	Tokarčíková Júlia		0	570
+916	Tokarčíková Katarína		0	570
+916	Zirgaijová Anna r. Imrichová	Chtelnica 656	0	459,665,669,670,695
+916	Žolnierčik Michal		0	765,766,769,770,824,963
+916	Žolnierčiková Anna		0	492,703,725,726,727,765,766,769,770,963,1223
+916	Žolnierčíková Katarína		0	479,791,817,818,819,820,843,876,960,961,1078,1087,1094
+917	Adamcová Anna	r.Palgutová,č.d.1921/1928, st.č.d.130	0	1349,2131,2210
+917	Adamcová Anna r. Palgutová	č.d.1921/1928, st.č.d.130	0	1893,2022,2127
+917	ADAMCOVÁ Mária	r.Brumerčíková, č.d.1593/1924	0	452,1836,2462
+917	Alexa Juraj	r.Alexa,č.d.1320/1943, Vernár	0	215
+917	ALEXA Juraj	č.d.3285/1937	0	2019
+917	ALEXA Michal	č.d.854/1932, +12.12.1983	0	193
+917	Alexa Peter		0	1525
+917	ALEXOVÁ Katarína	rod. Škovirová, č.d.3285/1937 +8.3.1990	0	2019
+917	ALEXOVÁ Mária	r.Krupinská m.Štefan č.d.873/1915	0	1817,2461
+917	ALEXOVÁ Mária r. Krupinská	m.Štefan	0	172,3094
+917	Almáčová Mária	r.Lačná,č.d.1921/1928, st.č.d.25	0	1349,2210
+917	Alžbetkin Ján	r.Alžbetkin,č.d.722/1940	0	85,157,2206,2209
+917	ALŽBETKIN Ján	Č.D.289/1950	0	77,89,109,110,111,112,2202,2203,2204,2205,2207,2279
+917	Barbierová Johana	r.Jurčová,č.d.1373/1941	0	2079,2892
+917	BARBIEROVÁ Johana	rod. Jurčová, č.d.1373/1941	0	2101
+917	Barborka Ján	r.Barborka,mal. v r. 1935 vymazana	0	332
+917	Barborková Anna	mal	0	332
+917	BEDNÁR František	č.d.821/1927	0	590
+917	BEDNAR JAN		0	1107
+917	Bednár Pavol	č.d.815/1935	0	127,2208,3176,3177,3198,3199
+917	BEDNÁROVÁ Alžbeta	č.d.821/1927	0	590
+917	BEDNÁROVÁ Anna	mal., č.d.821/1927	0	590
+917	BEDNÁROVÁ Mária	č.d.821/1927	0	590
+917	BEDNÁROVÁ Mária	r.Korheľová, č.d.1921/1928,st.č.2	0	1349,2210,2474
+917	BEDNÁROVÁ Mária	rod. Korheľová, č.d.1921/1928, st.č.d.2	0	1807,1808
+917	BEDNÁROVÁ Marta	mal., č.d.821/1927	0	590
+917	Bednárová Zuzana r. Košarčíková		0	1107
+917	Bendík Ján	č.d.1921/1928, st.č.d.97	0	1349,2210
+917	Bendík Jozef	č.d.1921/1928, st.č.d.97	0	1349,2210
+917	Bendiková Mária	č.d.1921/1928, st.č.d.97	0	1349,2210
+917	BENDÍKOVÁ Mária	mal., č.d.321/1937	0	2126,2129,2131
+917	BENKO Ján	č.d.665/1940	0	2051,2079,2892
+917	BENKO Ján	MAL.Č.D.259/1927	0	1626
+917	BENKO Martin	č.d.1156/1943, st.č.d.107	0	1505,1619,1900
+917	BENKO Martin	č.d.960/1929	0	1993
+917	Benko Pavol	č.d.1921/1928, st.č.d.12	0	1349,2210
+917	Benková Anna	č.d.1921/1928, st.č.d.18	0	1349,2210
+917	Benková Anna	r.Vitková,č.d.1921/1928	0	1349,2210
+917	BENKOVÁ Anna	rod. Vitková, č.d.383/1942	0	611,915,1571,1866,1871,1978,3184
+917	BENKOVÁ Mária	r. Friedmanová, č.d.1320/1943, st.č.d.21	0	225,1540
+917	BERČÉNY Ondrej	Č.D.1462/1937	0	420,1823,2014,2435,2466
+917	BERČÉNY Ondrej	čd.1462/1937	0	246
+917	Braxator Jozef	ž.Mária r.Krenuszová	0	2478
+917	BRAXATOR Jozef	manž. Mária, r. Krejnusová,č.d.1685/1940	0	1511
+917	BRAXATOROVÁ Anna	č.d.42/1906	0	1908
+917	BRAXATOROVÁ Anna	r.Kiktová, č.d.1299/1904	0	453,1837,3174
+917	BRAXATOROVÁ Anna	r.Kiktová, č.d.2277/1939, 1	0	504,505,506,2971
+917	BRAXATOROVÁ Anna	r.Kiktová,č.d.259/1927	0	1626
+917	BRAXATOROVÁ Anna	rod. Kiktová, č.d.1643/1895	0	495
+917	BRAXATOROVÁ Anna	rod. Kiktová, č.d.2277/1939	0	497,498,499,500,502,507
+917	BRAXATOROVÁ Anna	rod. Kiktová, č.d.2277/1939, 1	0	497,498,499,500,502,507
+917	BRAXATOROVÁ Anna	ROD.KIKTOVÁ Č.D.2277/1939	0	504,505,506,2971
+917	Braxatorová Anna r. Kiktová		0	501
+917	BRAXATOROVÁ Mária	rod. Budická, č.d.2091/1937	0	1177,1511,1913
+917	BRAXATOROVÁ Mária	ROD.KREJNUSOVÁ Č.D.10/1937	0	1349,2210
+917	Braxatorová Mária r. Krenuszová	m.Jozef	0	2478
+917	Bria Štefan	č.d.695/1941	0	1349,2210
+917	Briová Mária	r.Glosserová,č.d.1921/1928	0	1349,2210
+917	BRONDOŠOVÁ Helena	r.Berčenová	0	172,3094
+917	Brozáková Anna r. Šifrová		0	1857
+917	BRUMERČÍK Ján	č.d.1593/1924	0	452,566,1115,1825,1836,2413,2462,3080,3098,3111,3145
+917	BRUMERČÍK Ján	m.Zuzana r.Galovičová, č.d.576/1933	0	172,535,1817,1841,1992,2446,2461,3094,3113
+917	Brumerčík Martin	mal., č.d.1921/1928, st.č.d.8	0	1349,2210
+917	BRUMERČÍK Martin	č.d.1593/1924	0	566,1115,3080,3098,3111
+917	BRUMERČÍKOVÁ Zuzana	r.Galovičová, č.d.1882/1934	0	172,1817,2461,3094
+917	Budaj Jozef	č.d.664/1936	0	1349,2210
+917	Budaj Michal	17.8.1923	0	1349,2210
+917	Budaj Pavol	č.d.1921/1928, st.č.d.139	0	1349,2210
+917	Budajová Katarína	r.Gavalérová,m. Michal,č.d.1050/1923	0	1131,2029,2079,2550,2892
+917	Budajová Mária	č.d.1921/1928, st.č.d.139	0	1349,2210
+917	Budická Alžbeta	r.Gavalérová,č.d.103/1930	0	447,1131
+917	Budická Anna	r.Šavelová, m.Ján, č.d.1040/1912	0	145,570
+917	Budická Katarína	r.Gavalérová,č.d.2036/1927	0	1349,2210
+917	Budická Katarína r. Gavalérová		0	846,847,3173
+917	Budická Mária	r.Štolcová,č.d.1012/1923	0	790
+917	Budická Zuzana	č.d.1921/1928, st.č.d.103	0	1349,2210
+917	BUDICKÁ Zuzana	č.d.1383/1924	0	126,295,853,1811,1830,1899,1999,2463
+917	BUDICKÁ Zuzana	r.Petríková, m.Jozef, č.d.1514/1931	0	173,295,914,1899,1999,2429,2463
+917	Budická Zuzana r. Petríková		0	694
+917	BUDICKÝ Jozef	č.d.1383/1924	0	126,295,853,1811,1830,1899,1999,2463
+917	BUDICKÝ Jozef	Č.D.1921/1928 ST.Č.D.103	0	1349,2210
+917	BUDICKÝ Jozef	č.d.1987/1949	0	33,332
+917	BUDICKÝ Jozef	manž.Zuzana R.PETRÍKOVÁ,Č.D.1514/1931	0	295,1899,1999,2463
+917	Bývalí urbárski spolumajitelia v Hranovnici		0	2470
+917	Cihoňová Anna	r.Mičková,č.d.73/1945	0	2131
+917	CIHOŇOVÁ Anna	rod. Mičková, č.d.73/1945	0	1990
+917	Čižmarová Anna	r.Braxatorová,č.d.1921/1928	0	1349,2210
+917	Čonka Jakub r. Čonka		0	1105
+917	Čonka Martin r. Čonka		0	1105
+917	ČONKA Ondrej	č.d.323/1952	0	707,708
+917	Čonka Ondrej r. Čonka		0	1105
+917	ČONKA Vojtech	manž.Pavlína r.Pačanová,č.d.1685/1960	0	2442
+917	ČONKOVÁ Anna	r.Šariská,č.d.323/1952	0	707,708
+917	ČONKOVÁ Pavlína	manž.Vojtech,č.d.1685/1960	0	2442
+917	Čs.štát - Strojno traktorová stanica v Poprade	HS STS Bratislava	0	2438
+917	Čunderliková Anna	r.Krejnušová,č.d.1921/1928, st.č.d.15	0	1349,2210
+917	DICKÁ Anna	r.Račeková	0	2395
+917	DICKÁ Mária	ROD.STAŠOVÁ Č.D.259/1927	0	1626
+917	DICKÁ Zuzana	rod. Šoltésová, manž. Ján, č.d.574/1928	0	2113
+917	DINESONOVÁ Alžbeta	r.Kiktová	0	2403
+917	DINESONOVÁ Alžbeta	r.Kiktová, č.d.399/1961	0	212,235,1909,2447
+917	DINESONOVÁ Alžbeta	rod. Kiktová, č.d.399/1961	0	1360,1820,2010
+917	DINESONOVÁ Alžbeta	ROD.KIKTOVÁ Č.D.399/1961	0	1577,1981
+917	Doláková Mária	r.Čakyová,č.d.988/1933	0	1349,2210
+917	DUNAJ Jozef		0	729
+917	DUNAJ Jozef	č.d.831/1914	0	172,1817,2461,3094
+917	Dunaj Martin		0	192,729
+917	Dunaj Martin	*1925	0	99,101,102,735

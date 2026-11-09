@@ -1,0 +1,256 @@
+1601	Moravčík Jozef, SR	Pankov	1	1657,1683,2681
+1601	Moravčík Jozef, SR	žandár	0	1822
+1601	Moravčík Július, SR		1	2642
+1601	Moravčík Leopold, SR		0	1434,1746
+1601	Moravčík Lipot, SR		1	2493
+1601	Moravčík Marcel, SR		1	2871
+1601	Moravčík Mikuláš, SR		1	1452,2861,2940
+1601	Moravčík Ondrej r. Haviar, SR		0	1355
+1601	Moravčík Ondrej, SR	Haviar	0	1435,1933
+1601	Moravčík Ondrej, SR	z Dolín	1	2852
+1601	Moravčík Peter, SR		1	1208,1214,1240,1557,1905,2785,2852
+1601	Moravčík Peter, SR	Haviar	0	909,1355,1382,1435
+1601	Moravčík Štefan, SR		1	2644
+1601	Moravčík Štefan, SR	Honvéd	0	1492
+1601	Moravčík Štefan, SR	Vojak	0	865,1149
+1601	Moravčík Vladimír, SR		0	1161
+1601	Moravčíková Alžbeta r. Janigová, SR		0	1559
+1601	Moravčíková Amália r. Ilková, SR	neb.zomr.3.10.1961	0	3615
+1601	Moravčíková Anna r. Tomusová, SR		1	2643
+1601	Moravčíková Anna, SR		0	1434,1746
+1601	Moravčíková Berta r. Hýravá, SR		0	1116,1403,1746
+1601	Moravčíková Brigita r. Lacová, SR		1	1058,1385,1387,1680,2493,2583,2996
+1601	Moravčíková Elena r. Janigová, SR		0	1492
+1601	Moravčíková Emília		0	975
+1601	Moravčíková Emília r. Filová, SR		1	2493
+1601	Moravčíková Emília, SR		0	1408,1425,1804,1966,3229
+1601	Moravčíková Filoména, SR		1	1058,1387,1680,2493,2996
+1601	Moravčíková Irena r. Kajúchová, SR		0	1710
+1601	Moravčíková Johana r. Kmeťová, SR		0	824,1101,1177,1294,3380,3612,3627
+1601	Moravčíková Ľudmila, SR		1	2493,2996
+1601	Moravčíková Mária r. Haviarová, SR		0	1753
+1601	Moravčíková Mária r. Kajanová, SR		0	845
+1601	Moravčíková Mária r. Kajúchová, SR		1	2035,2125,2964,2997,3019
+1601	Moravčíková Mária r. Šindléryová, SR		1	2872,3005,3343
+1601	Moravčíková Paulína r. Svitková, SR		0	1161
+1601	Moravčíková Terézia r. Janigová, SR		1	1208,1908,2841
+1601	Moravčíková Valéria, SR		0	1804
+1601	Mravcová Antónia, SR		0	1922
+1601	Mraznica Ján, SR	Kufrin	1	2642
+1601	Mraznica Pavol, SR		1	2642
+1601	Mraznicová Lucia r. Mydliarová, SR		1	2642
+1601	Mraznicová Lucia r. Mydliarová, SR	Polkrížiková	1	2642
+1601	Mraznicová Viktória r. Glembová, SR	Kufrinová	1	2642
+1601	Mrvová Mária r. Tholtová		0	3457
+1601	Mrvová Mária r. Tholtová, SR		0	2048,2111
+1601	Mudrončík Karol, SR		0	1983
+1601	Múka Augustín, SR	Vierik	1	2642
+1601	Múka Štefan, SR	Sedem	1	2642
+1601	Murárová Katarína r. Cárachová, SR		1	2357
+1601	Muríňová Amália r. Hubová, SR		0	1201
+1601	Mydlarová Anna, SR		1	2642
+1601	Mydliar Albert, SR		1	2642
+1601	Mydliar Albert, SR	Sklenár	1	2642
+1601	Mydliar Andrej, SR	Serafín	1	2642
+1601	Mydliar Anton, SR		1	2642
+1601	Mydliar Emil, SR		1	2642
+1601	Mydliar Félix, SR	Polkrížik	1	2642
+1601	Mydliar Filip, SR	Polkrížik	1	2642
+1601	Mydliar Imrich, SR	Kasančík	1	2642
+1601	Mydliar Ján, SR		1	2642
+1601	Mydliar Ján, SR	Kubina	1	2642
+1601	Mydliar Ján, SR	Sklenár	1	2642
+1601	Mydliar Jozef, SR		1	2642
+1601	Mydliar Jozef, SR	Gróf	1	2642
+1601	Mydliar Ladislav, SR		1	2642
+1601	Mydliar Lehoslav, SR	Polkrížik	1	2642
+1601	Mydliar Marek, SR		1	2642
+1601	Mydliar Marek, SR	Sedlár	1	2642
+1601	Mydliar Matej, SR	Hefko	1	2642
+1601	Mydliar Matej, SR	Sedlár	1	2642
+1601	Mydliar Matúš, SR	Hefko	1	2642
+1601	Mydliar Peter, SR		1	2642
+1601	Mydliar Peter, SR	Gróf	1	2642
+1601	Mydliar Tomáš, SR		1	2642
+1601	Mydliar Tomáš, SR	Kasančík	1	2642
+1601	Mydliar Valent, SR		1	2642
+1601	Mydliarová Albína, SR		1	2642
+1601	Mydliarová Anna r. Mydliarová, SR		1	2642
+1601	Mydliarová Cecília r. Poliaková, SR	Grófová	1	2642
+1601	Mydliarová Eva, SR		1	2642
+1601	Mydliarová Františka r. Chlepková, SR	Žltková	1	2642
+1601	Mydliarová Františka r. Stašová, SR		1	2642
+1601	Mydliarová Helena, SR		1	2642
+1601	Mydliarová Kristína r. Cárachová, SR	Sklenárová	1	2642
+1601	Mydliarová Mária r. Mydliarová, SR		1	2642
+1601	Mydliarová Mária r. Mydliarová, SR	Polkrížiková	1	2642
+1601	Mydliarová Mária r. Tišťanová, SR	Serafínová	1	2642
+1601	Mydliarová Mária r. Turoňová, SR	Juričková	1	2642
+1601	Mydliarová Mária r. Turoňová, SR	Kotlíčková	1	2642
+1601	Mydliarová Mária, SR		1	2642
+1601	Mydliarová Viktória r. Sirotová, SR		1	2642
+1601	Mydliarová Zuzana r. Sirotová, SR	Hefková	1	2642
+1601	Mydliarová Zuzana r. Sirotová, SR	Janíčková	1	2642
+1601	Mydliarová Žofia r. Kurpašová, SR		1	2642
+1601	Mydlo Artúr, Dr., SR		0	1968
+1601	Mydlo František, SR		0	1968
+1601	Mydlo Ján, Dr., SR		0	1968
+1601	Mydlo Oldřich, SR		0	1968
+1601	Mydlo Viktor, SR	syn Viktora	0	1968
+1601	NEDOLOŽENÉ Vlastníctvo		1	1515
+1601	Nikelová Darina, SR		1	1436,1882,2811
+1601	Nikelová Žofia r. Skičáková, SR		1	1436,1882,2811
+1601	Novák Augustín, SR		1	760,1006,2527,2939,3031
+1601	Novák František, SR		0	1036,1061,1169,1171,1485,1806
+1601	Novák Gabriel, SR		0	1513,1637
+1601	Novák Gustáv, SR		1	760,1014,1075,2527
+1601	Novák Ján, SR		0	1169,1171,1270,3391
+1601	Novák Ján, SR	Bogoš	1	2844
+1601	Novák Jozef, SR		1	1036,1061,1169,1171,1485,1806,2360,3031
+1601	Novák Jozef, SR	Bogoš	0	1975
+1601	Novák Jozef, SR	Vojak	1	2526
+1601	Novák Juraj, SR	u Kubačkov	1	2853
+1601	Novák Ladislav, SR		1	2782
+1601	Novák Matej, SR		0	1170
+1601	Novák Peter, SR		1	2421,3037,3291
+1601	Novák Šándor, SR		0	1839
+1601	Novák Štefan, SR		0	1036,1061,1091,1169,1171,1285,1361,1485,1582,1730,1760,1806
+1601	Novák Viktor, SR		0	1513
+1601	Nováková Alžbeta r. Malková		0	2950
+1601	Nováková Alžbeta, SR		0	1036,1169,1171,1806,1943
+1601	Nováková Amália r. Holejová, SR		1	2642
+1601	Nováková Anastázia, SR	Bogošová	1	2844
+1601	Nováková Anna r. Moravčíková, SR		0	1799,1800,1801
+1601	Nováková Anna r. Zvadová, SR		1	1611,2684
+1601	Nováková Anna, SR		0	1036,1061,1169,1171,1485,1798,1806
+1601	Nováková Emília r. Moravčíková, SR		0	870,1145
+1601	Nováková Eva, SR		0	1060
+1601	Nováková Hermína r. Lacová		0	3550
+1601	Nováková Hermína r. Lacová, SR		1	923,2070,2133,2939,3000,3013,3014,3031
+1601	Nováková Hermína r. Lacová, SR	0	0	3098
+1601	Nováková Jolana r. Cibulková, SR		0	1485
+1601	Nováková Katarína r. Lacková, SR		1	2642
+1601	Nováková Katarína r. Šindléryová, SR		0	2066,2090,2115,3603
+1601	Nováková Katarína, SR		0	1091
+1601	Nováková Kristína r. Kučerová, SR		1	2853
+1601	Nováková Kristína, SR		1	2782
+1601	Nováková Mária r. Haviarová, SR		0	1139,1169,1171,1346,1760,1806
+1601	Nováková Mária r. Kubačková, SR		0	1925
+1601	Nováková Mária r. Mičudová, SR		0	1478,1650
+1601	Nováková Mária r. Moravčíková, SR		0	1355,1435
+1601	Nováková Oľga, SR		0	1580
+1601	Nováková Valéria, SR		0	1839
+1601	Nováková Valéria, SR	Bogošová	1	2844
+1601	Nováková Zdenka, SR		0	1580
+1601	Nováková Zuzana, SR		0	1249
+1601	Obertová Jozefína r. Hanečáková, SR		0	1859
+1601	Olejníková Emília r. Sliacka, SR		0	1165
+1601	Ondrašík Ambróz, SR		1	2642
+1601	Ondrašík Baltazár, SR		1	2642
+1601	Ondrašík Ján, SR		1	2642
+1601	Ondrašík Ján, SR	Krčmár	1	2642
+1601	Ondrašík Ján, SR	Vierik	1	2642
+1601	Ondrašík Jozef, SR		1	2642
+1601	Ondrašík Lukáš, SR		1	2642
+1601	Ondrašík Ondrej, SR		1	2642
+1601	Ondrašík Ondrej, SR	Barboráš	1	2642
+1601	Ondrašík Ondrej, SR	Gurovčík	1	2642
+1601	Ondrašík Tomáš, SR		1	2642
+1601	Ondrašíková Emília, SR		1	2642
+1601	Ondrašíková Františka, SR		1	2642
+1601	Ondrašíková Lena, SR		1	2642
+1601	Ondrašíková Mária r. Tišťanová, SR		1	2642
+1601	Ondrašíková Mária r. Tišťanová, SR	Barborášová	1	2642
+1601	Ondrašíková Mária r. Tišťanová, SR	Gurovčíková	1	2642
+1601	Ondrašíková Pavlína, SR		1	2642
+1601	Ondrašíková Petronela r. Kurňavová, SR		1	2642
+1601	Ondrejka Benadikt, SR		1	2642
+1601	Ondrejka Emil, SR		1	2642
+1601	Ondrejka Emil, SR	Králik	1	2642
+1601	Ondrejka Chrisoston, SR	Králik	1	2642
+1601	Ondrejka Ján, SR		0	1885
+1601	Ondrejka Krizo, SR		1	2642
+1601	Ondrejka Richard, SR		1	2642
+1601	Ondrejka Viktor, SR		1	2642
+1601	Ondrejková Berta r. Uhrinová, SR		1	2642
+1601	Ondrejková Gabriela, SR		1	875,1797,2771
+1601	Ondrejková Mária r. Kmeťová, SR		0	1173
+1601	Ondrejková Mária r. Macková, SR		0	1775
+1601	Ondrejková Zuzana, SR		0	1474
+1601	Oravcová Anna r. Cárachová, SR		0	1769
+1601	Oravcová Gabriela r. Švošová, SR		1	2522,2581
+1601	Oravcová Irena, SR		0	1544
+1601	Oravcová Mária r. Cárachová, SR		0	1430,1437
+1601	Oravcová Marta, SR		1	2832
+1601	Oravcová Zuzana r. Križovská, SR		1	2642
+1601	Oravec Anton, SR		1	2642
+1601	Oravec Anton, SR	Mydliar 2	1	2642
+1601	Oravec Laco, SR	Jarošík	1	2396
+1601	Oravec Ladislav, SR	Jánošík	0	1300,1720,1863,1959
+1601	Oravec Matej, SR	Jarošík	1	2396
+1601	Oravecová Anna r. Cárachová, SR		0	1054,1160,1290
+1601	Oravecová Floriána, SR		0	1544
+1601	Oravecová Gabriela r. Švošová, SR		0	833,894,895,1012,1013,1302,1520,1521,1539
+1601	Oravecová Mária, SR		0	1234
+1601	Oravecová Marta, SR		0	1234
+1601	Oravecová Viktória, SR	Jánošíková	0	1300,1720,1863,1959
+1601	Ostadnická Žofia r. Pukáčová, SR		1	2913
+1601	Otiepka Jozef, SR		0	1126
+1601	Otiepková Katarína r. Laclaviková, SR		1	1126,2816
+1601	Otiepková Katarína r. Lalavíková, SR		1	2830
+1601	Paceková Anna r. Mišíková, SR		1	2900
+1601	Paučiová Kamila r. Oravcová, SR		0	1544
+1601	Pažitka Ján, SR		0	1152
+1601	Pažitka Jozef, SR		1	2642
+1601	Pažitka Štefan, SR		1	1152,2642
+1601	Pažitková Anna, SR		1	2642
+1601	Pažítková Irena r. Laclavíková, naposledy bytom 105, Štiavnička, PSČ 03401, SR	neb.,zomrela 2.1.2002	0	2816,2830
+1601	Pažitková Justína r. Rázgová, SR		1	928,1125,2823,2829
+1601	Pažitková Mária r. Kubačková, SR		1	2551
+1601	Pažitková Mária, SR		1	2642
+1601	Pažitková Štefánia r. Kubačková, SR		1	2551
+1601	Peťo Eduard, SR		1	2883
+1601	Petro František, SR		0	1117,1403
+1601	Petro Jozef, SR		0	1195,1658
+1601	Petro Ondrej, SR		0	1465,1565,1941
+1601	Petro Štefan, SR		1	2823
+1601	Petrová Filoména r. Moravčíková, SR		0	1219
+1601	Petrová Františka, SR		1	2706
+1601	Petrová Katarína r. Moravčíková, SR		0	1117,1403
+1601	Petrová Katarína, SR		1	811,823,964,1566,1786,2574,3444
+1601	Petrová Mária r. Kajúchová		0	1932
+1601	Petrová Mária r. Kajúchová, SR		1	1650,1715,2531
+1601	Petrová Mária r. Kmeťová, SR		0	1622
+1601	Plavecká Anastázia r. Púčeková		0	3564
+1601	Plavecká Anastázia r. Púčeková, SR		1	2634,2635,2960,3617
+1601	Plávková Jolana r. Laclaviková, SR		0	1159
+1601	Poliak Albert, SR		1	2642
+1601	Poliak Anton, SR		1	2642
+1601	Poliak Augustín, SR		1	2642
+1601	Poliak Florian, SR		1	2642
+1601	Poliak Imrich, SR		1	2642
+1601	Poliak Ján, SR		1	2642
+1601	Poliak Peter, SR		1	2642
+1601	Poliak Silvester, SR		1	2642
+1601	Poliak Štefan, SR	Kaprál	1	2642
+1601	Poliaková Alojzia r. Oravcová, SR		1	2642
+1601	Poliaková Alojzia, SR		1	2642
+1601	Poliaková Anna r. Mydliarová, SR	Kasančíková	1	2642
+1601	Poliaková Antónia, SR		1	2642
+1601	Poliaková Barbora r. Dudášová, SR		1	2642
+1601	Poliaková Eva r. Valušiaková, SR		1	2642
+1601	Poliaková Eva, SR		1	2642
+1601	Poliaková Helena, SR		1	2642
+1601	Poliaková Katarína r. Šimková, SR		1	2642
+1601	Potkan Bonifác, SR		1	2642
+1601	Potkan Emil, SR	Kontra	1	2642
+1601	Potkan Felix, SR		1	2430,2642
+1601	Potkan Florian, SR		1	2642
+1601	Potkan František, SR		1	2642
+1601	Potkan Jakub, SR		1	2642
+1601	Potkan Ján, SR	Kontra	1	2642
+1601	Potkan Jozef, SR		1	2642
+1601	Potkan Matúš, SR	Sirota	1	2642
+1601	Potkan Ondrej, SR		1	2642
+1601	Potkan Štefan, SR		1	2642
+1601	Potkan Štefan, SR	Kontra	1	2642

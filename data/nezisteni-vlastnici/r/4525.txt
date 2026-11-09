@@ -1,0 +1,256 @@
+2562	Palko Jozef		0	62,64
+2562	Palko Jozef r. Palko		0	66,1148,1176
+2562	Palko Jozef r. Palko	1	0	1268
+2562	Paľko Jozef r. Paľko	mal	0	1173,1266
+2562	Paľko Jozef r. Paľko	vzd	0	1206
+2562	PALKO JURAJ		0	62,64
+2562	Palko Juraj r. Palko		0	66
+2562	Paľko Juraj r. Paľko	1	0	1266,1268
+2562	Paľko Juraj r. Paľko	2	0	1173
+2562	Paľko Juraj r. Paľko	mal	0	1173,1266
+2562	Paľko Juraj r. Paľko	manž.Mária r.Kosudová	0	1206
+2562	Palko Michal		0	62,64
+2562	Palko Michal r. Palko		0	66
+2562	Palko Michal r. Palko	1	0	1268
+2562	Paľko Michal r. Paľko	mal	0	1173,1266
+2562	Paľko Michal r. Paľko	vzd	0	1206
+2562	PALKOVÁ Alžbeta		0	62,64,66
+2562	Palková Alžbeta r. Palková	1	0	1268
+2562	Paľková Alžbeta r. Paľková		0	224
+2562	Paľková Alžbeta r. Paľková	mal	0	1173,1266
+2562	Palková Anna		0	62
+2562	Palková Anna r. Palková		0	1268
+2562	Paľková Anna r. Paľková	mal	0	1173,1266
+2562	Pauličák Andrej r. Pauličák		0	222
+2562	Pavliščák Ján r. Pavliščák	manž.Mária r.Horná	0	1198
+2562	Pavliščáková Mária r. Pavliščáková	mal	0	582
+2562	Polák Ján r. Polák	mal	0	640,656,668,731
+2562	Polák Ján r. Polák	manž.Mária r.Šebová	0	648,649
+2562	Poľák Ján r. Poľák		0	648,649,763
+2562	Polák Michal r. Polák		0	656
+2562	Polák Michal r. Polák	mal	0	656
+2562	Polák Michal r. Polák	manž.Anna r.Maskuliková	0	1198
+2562	Poľak Štefan r. Poľak		0	1012
+2562	Poláková Alžbeta r. Poláková	mal	0	640,668
+2562	Poľáková Alžbeta r. Poľáková		0	648,649,656,657,1010,1135
+2562	Poláková Anna r. Čalfová	muž Jozef	0	543,1232
+2562	Poláková Anna r. Kramerová		0	664,777
+2562	Poláková Anna r. Poláková	mal	0	312,640,656,668,731
+2562	Poľáková Anna r. Poľáková		0	648,649,657,682,763
+2562	Polaková Mária r. Mudroňová	muž Ján	0	657,1181
+2562	Poláková Mária r. Poláková		0	763
+2562	Poláková Mária r. Poláková	mal	0	656,731
+2562	Polakova Maria r. SEBOVA		0	1237
+2562	POLÁKOVIČ Ján	Benkovce	0	1083
+2562	Poliak Štefan r. Poliak	manž.Mária r.Belanová	0	1225
+2562	Puškár Jozef r. Puškár		0	228,229,886
+2562	Puškár Jozef r. Puškár	manž.Alžbeta r.Kascarová	0	1304
+2562	Puškár Jozef r. Puškár	manž.Anna r.Polaková	0	1198
+2562	Puškárová Alžbeta r. Kascarová		0	1304
+2562	Puškárová Mária r. Puškárová	mal	0	253
+2562	Puškárová Mária r. Puškárová	st	0	625,1092
+2562	Ragan Jozef r. Ragan	manž.Helena r.Šimková	0	1198
+2562	Ragan Michal r. Ragan	manž.Alžbeta r.Murinová	0	664,666,777,1232
+2562	Ragan Michal r. Ragan	ml., Gabor	0	1157
+2562	Ragan Michal r. Ragan	Sabo	0	881
+2562	Raganová Alžbeta r. Murinová		0	604,664,666,777,1232
+2562	Rák Andrej r. Rák		0	1248
+2562	RAK MICHAL		0	159,313
+2562	Rak Michal r. Rak		0	468,732,762,763,775,1035
+2562	Rak Michal r. Rak	ml	0	471,1198
+2562	Rák Michal r. Rák	mal	0	682,731
+2562	Rak Michal r. Rak,  37		0	1257
+2562	Rák Pavol r. Rák		0	870
+2562	Raková Mária		0	313
+2562	Raková Mária r. Raková		0	468,732,762,763,775,1035
+2562	Ráková Mária r. Ráková	mal	0	682,731
+2562	REPKO Ján	D 602/31 č.d.3298/1934	0	1080
+2562	REPKO Ján	otec Jozef	0	1080
+2562	REPKO Štefan	ž.Helena r.Bartková D 602/31	0	1080
+2562	Repková Anna r. Durkošová		0	1082
+2562	Rožejová Alžbeta r. Baníková		0	1228
+2562	Sabo Alexander r. Sabo		0	1272
+2562	Sabo Michal r. Sabo	ml., Ragan	0	511,642,1173,1218,1221
+2562	Sabo Michal r. Sabo	Ragan,manž.Alžbeta r.Murinová	0	1268
+2562	SABOL RAGAN Ján		0	1078,1089
+2562	Seba Jan r. Seba	Sedliská 65	0	66
+2562	Seba Michal r. Seba		0	1237
+2562	Seman Ján r. Seman		0	822
+2562	Seman Ján r. Seman	1	0	1208
+2562	Seman Michal r. Seman		0	1230
+2562	Seman Michal r. Seman	manž.Alžbeta r.Olahová	0	1208,1230
+2562	Seman Pavol r. Seman		0	1208
+2562	Semanová Alžbeta r. Olachová		0	1218
+2562	Soták Jozef r. Soták		0	994,995,1068,1069
+2562	Soták Jozef r. Soták	1	0	630
+2562	Soták Jozef r. Soták	manž.Anna r.Tušajová	0	1239
+2562	Soták Juraj r. Soták		0	628
+2562	Soták Juraj r. Soták	manž.Mária r Reváková	0	253
+2562	Soták Michal r. Soták		0	51,632,852,1161,1162,1169,1170
+2562	Soták Michal r. Soták	1	0	1163,1164
+2562	Sotáková Alžbeta r. Bajusová		0	1143,1185,1187
+2562	Sotáková Anna r. Tušajová		0	994,995,1068,1069,1239
+2562	Sotáková Mária r. Reváková	muž Juraj	0	253
+2562	SOTÁKOVÁ Mária r.Reváková		0	50
+2562	Stecák Ján r. Stecák	mal	0	224
+2562	Stecák Pavol r. Stecák		0	224
+2562	Stecáková Mária r. Stecáková	mal	0	224
+2562	Stecáková Zuzana r. Stecáková	mal	0	224
+2562	Šeba Ján		0	62
+2562	Šeba Ján r. Šeba	ml.,manž.Anna r.Poláková	0	1229
+2562	Šeba Jozef r. Šeba	manž.Mária r.Puškarová	0	1215
+2562	Šeba Juraj		0	63
+2562	Šeba Juraj r. Šeba	manž.Mária r.Polaková	0	66
+2562	Šebo Jozef r. Šebo		0	515
+2562	Šebo Juraj r. Šebo		0	515
+2562	Šebová Mária r. Fuňáková	muž Juraj	0	1277
+2562	Šebová Mária r. Poľaková	1	0	1009,1011
+2562	Šebová Mária r. Puškárová		0	229,252
+2562	Šejová Mária r. Andrejkovičová		0	1247
+2562	Šimko Michal r. Šimko		0	1214
+2562	Šimková Anna r. Jacková		0	1312
+2562	Šopjaková Anna r. Šopjaková	mal	0	1148,1176,1276
+2562	Štecák Jozef r. Štecák	vzdial	0	1275
+2562	Štecáková Anna r. Štecáková	vzdial	0	1275
+2562	Štecáková Mária r. Dudášová		0	1143,1185,1187
+2562	Štecáková Mária r. Štecáková	vzdial	0	1275
+2562	Štecáková Terézia r. Ivanová		0	1322
+2562	Tejová Mária r. Andrejkovičová	muž Peter	0	1153,1281
+2562	TIMKO Ján		0	1076
+2562	Tkáčová Ercien r. Stecáková		0	224
+2562	Tomáš Jozef r. Tomáš	manž.Anna r.Stanovčáková	0	1232
+2562	Tomášová Anna r. Stanovčáková		0	664,666,777,1232
+2562	Török Jozef r. Török	manž.Helena r.Vrábeľová	0	1143,1185,1187,1297
+2562	Töröková Helena r. Vrábelová		0	1143,1148,1176,1185,1187,1297
+2562	Toth Alexander r. Toth	manž.Etela r.Pavlová	0	1287,1290
+2562	Tóth František r. Tóth		0	1275
+2562	Tóthová Helena r. Borbélyová		0	1275
+2562	Totohová Etela r. Pavlová		0	1287,1290
+2562	Tušaiová Anna r. Tušaiová		0	630
+2562	Tušajová Mária r. Ferencová		0	632
+2562	Uchaľ Andrej r. Uchaľ	manž.Mária r.Gambaľová	0	1143,1185,1187,1289,1293
+2562	Uchaľová Mária r. Gambaľová		0	1143,1185,1187,1289,1293
+2562	Valčová Mária r. Mudroňová		0	468,732,762,775,1035
+2562	Valčová Terezia r. Kramerová		0	505,666,777,778,1232,1299
+2562	Varechajová Mária r. Bajusová		0	561,1259
+2562	Varga Michal r. Varga		0	838
+2562	VARGOVÁ Mária	r.Juhásová muž Ján	0	1075
+2562	VARGOVÁ Mária	vydatá Biliková	0	1075
+2562	Vysoká Zuzana r. Čalfová		0	1148,1176
+2562	Vysoký Ján r. Vysoký		0	1143,1185,1187,1293,1321
+2562	Vysoký Ján r. Vysoký	manž.Zuzana r.Čalfová	0	1148,1176
+2562	Vysoký Michal r. Vysoký		0	1321
+2562	Vyšňovská Helena r. Vyšňovská	mal	0	569
+2562	Vyšňovská Mária r. Vyšňovská	mal	0	569
+2562	Vyšňovský Jozef r. Vyšňovský	mal	0	569
+2562	Zajdrik Ján r. Zajdrik		0	763
+2562	Zajdrik Ján r. Zajdrik	ml	0	762,763,775,1035
+2562	Zajdrik Jozef r. Zajdrik	manž.Mária r.Medvecová	0	763
+2562	Zajdriková Mária r. Marková		0	763
+2562	Zeleňák Ján r. Zeleňák	mal	0	365
+2562	ZELEŇÁK Jozef	vzdial	0	1078,1089
+2562	Zelenák Jozef r. Zelenák		0	559,1313
+2562	Zelenák Jozef r. Zelenák	manž.Anna r.Hrabčáková	0	1259
+2562	Zeleňák Jozef r. Zeleňák	manž.Anna r.Kerčáková	0	585
+2562	Zeleňák Jozef r. Zeleňák	manž.Anna r.Kerliková	0	559
+2562	Zeleňak Juraj r. Zeleňak	mal	0	364,650
+2562	Zeleňák Juraj r. Zeleňák		0	119,559,561,1047,1151
+2562	ZELEŇÁKOVÁ Anna	r.Juhasová	0	1074
+2562	ZENGEVALD Július	ž.Alžbeta r.Dudášová	0	1078
+2562	ZENGEVALDOVÁ Alžbeta	r.Dudášová muž Július	0	1078
+2563	Albrecht Ján, SR		1	3731
+2563	Albrecht Ján, SR	D od Pavol Albrecht z.Mária Sprušanská	1	3775
+2563	Albrecht Ján, SR	ž.Anna	1	3722
+2563	Albrechtová Anna, SR	m.Ján	1	3513
+2563	Albrechtová Rozália r. Mazarová, SR		1	3771
+2563	Bajan Michal, SR	1	1	3359
+2563	Bardoš Ján, SR	ž.Mária	1	3754
+2563	Bardošová Mária, SR	m.Ján	1	3494
+2563	Bartal Anton, SR	ž.Katarína Flamíková	1	3469
+2563	Bartal Ján, SR	1	1	3721
+2563	Bartal Jozef, SR	1	1	3680
+2563	Bartal Tomáš, SR	2	1	3516
+2563	Bartošíková Katarína r. Pechová, SR	vdova, m.Jozef	1	3349
+2563	Baumanová Mária r. Kuklišová, SR		1	3435
+2563	Benek Vendelín, SR	ž.Štefánia Truková	1	3472
+2563	Beneková Zuzana r. Kutalová, SR	vdova	1	3790
+2563	Beňková Štefánia r. Truková, SR	m.Vendelín	1	3694
+2563	Bílovský Jozef, SR	kúpa od Štefan Vicenec, ž.Terézia Hojsíková	1	3802
+2563	Bílovský Matúš, SR	kúpa od Štefan Vicenec, ž.Terézia Hojsíková	1	3311
+2563	Boťánková Helena r. Straková	rod. Pavol a Albína r. Mastrlová, súr. Ondrej, Ladislav, Mária, Marcel, Anton	0	3689
+2563	Brusilová Helena r. Krempová, SR	m.Imrich	1	3727
+2563	Buček Martin, SR	D od Buček Pavol, ž.Rozália Vaňková	1	3451
+2563	Bučková Anna, SR	m.Ján	1	3389
+2563	Bučková Mária r. Pechová, SR	m.Ladislav	1	3567
+2563	Budovičová Anna r. Bednáriková, SR	m.Martin	1	3542
+2563	Bugárová Helena, SR	1	1	3700
+2563	Burík Ján, SR	D od Ján Burík v D 237/41	1	3859
+2563	Čaranová Eva r. Vlková, SR		1	3658
+2563	Čermák Vlastimil, SR	D od Ján Čermák ž.Božena Bubeník	1	3761
+2563	Černý Ján	rod. Štefan a Terézia r. Krajíčková, súr. Anastázia Vaňková, Rozália Hubená	0	3699
+2563	Damborská Anna r. Dubecká, SR	m.Štefan	1	3799
+2563	Damborský Štefan, SR	ž.Anna Dubecká	1	3648
+2563	Dermek Ján, SR	ž.Barbora Buchtová	1	3796
+2563	Dermeková Rozália r. Bartalová, SR	vdova	1	3590
+2563	Derper Ján, SR	D od Jozef Derper z.Anna Grnová	1	3787
+2563	Dostál František, SR	ž.Emília Krajčovičová	1	3374
+2563	Dostálová Emília r. Krajčovičová, SR	m.František	1	3628
+2563	Dovrtilová Mária r. Korčáková, SR	m.Teodor	1	3815
+2563	Drúžek Pavol, SR	ž.Mária Osvaldová	1	3342
+2563	Drúžková Rozália r. Dermeková, SR	m.Pavol	1	3743
+2563	Duchoslav Hubert, SR	ž.Amália Dujsíková	1	3657
+2563	Duchoslavová Amália r. Dujsiková, SR		1	3861
+2563	Duchoslavová Mária r. Zamečníková, SR	m.Martin	1	3617
+2563	Dvorák Ján, SR	ž.Anna	1	3714
+2563	Dvoráková Anna, SR	m.Ján	1	3400
+2563	Feldmannová Rozália r. Štepániková, SR		1	3364
+2563	Fiala Pavol, SR	ž.Mária Hrušecká	1	3629
+2563	Flamík Ján, SR	ž.Anna Straková	1	3764
+2563	Flamík Ján, SR	ž.Júlia Krempová	1	3866
+2563	Flamík Martin, SR	ž.Anna	1	3388
+2563	Flamík Róbert, SR	ž.Rozália Beňková	1	3518
+2563	Flamíková Anna r. Straková, SR	m.Ján	1	3585
+2563	Flamíková Anna, SR		1	3855
+2563	Flamíková Júlia r. Krempová, SR	m.Ján	1	3529
+2563	Flamíková Rozália r. Beňková, SR	m.Robert	1	3613
+2563	Flamíková Rozália, SR	15 maloletá	1	3491
+2563	Gregoruttová Anna r. Matuškovičová, SR		1	3479
+2563	Gressová Serafína r. Jakúbková, SR		1	3352
+2563	Grna Ján, SR	2	1	3693
+2563	Hanzalík Jozef, SR	ž.Margita Sladeková	1	3323
+2563	Hanzalíková Johanna r. Jakúbková, SR		1	3634
+2563	Hanzalíková Margita r. Sladeková, SR		1	3816
+2563	Harastová Karolína r. Filipová, SR		1	3334
+2563	Hodáň Matúš, SR	D od Terézia Hodánová r.Vaneková	1	3416
+2563	Hodánová Júlia, SR	D od Terézia Hodánová r.Vaneková	1	3791
+2563	Hoferka Anton, SR	D od Mária Hoferková r.Bartalová	1	3642
+2563	Hoferka Anton, SR	ž.Mária Krokovičová	1	3522
+2563	Hoferka Imrich, SR	VD od Martin Hoferka	1	3803
+2563	Hoferka Martin, SR	ž.Emília Lukáčová	1	3332
+2563	Hoferková Serafína r. Hoferková, SR		1	3582
+2563	Hornáčková Viktória r. Bučková, SR		1	3560
+2563	Hrazdil Ferdinand, SR	kúpa od Anna Hrazdilová r.Martinkovičová	1	3841
+2563	Hrazdil Jozef, SR	ž.Anna Martinkovičová	1	3610
+2563	Hrazdilová Anna, SR	kúpa od Anna Hrazdilová r.Martinkovičová	1	3886
+2563	Hýlková Jozefína r. Helesiová, SR		1	3621
+2563	Hyžová Andela r. Sňadová, SR		1	3651
+2563	Chančeková Zuzana, SR	pridelová listina r.1931	1	3614
+2563	Jakúbek Peter, SR	ž.Andela Sumerová	1	3631
+2563	Juriga Štefan, SR	kúpa od Anna Korcáková m.Pavol	1	3534
+2563	Jurigová Helena r. Korčáková, SR		1	3319
+2563	Jurkovič Ján, SR	legionar	1	3559
+2563	Kakony Jozef, Dr., SR		1	3690
+2563	Karlík Michal, SR	ž.Rozália Zavodská	1	3511
+2563	Kobylyová Agneša r. Matuškovičová, SR	m.Ján	1	3756
+2563	Kočárik Štefan, SR	ž.Hermína Gajdúšková	1	3744
+2563	Kočáriková Hermína r. Gajdúšková, SR		1	3500
+2563	Koranyová Helena r. Brunovská, SR		1	3403
+2563	Korčák Štefan, SR		1	3792
+2563	Korčáková Kristína, SR	m.Michal	1	3452
+2563	Korčáková Štefánia r. Jasová, SR		1	3418
+2563	Kottvan Ján, SR	Radimov	1	3622
+2563	Kovalovský Michal, SR	kúpa od Blahu	1	3455
+2563	Krempa Tomáš, SR	ž.Františka Špetová	1	3626
+2563	Krempová Mária r. Sasinková, SR		1	3581
+2563	Krížan Pavol, SR	ž.Anna	1	3450
+2563	Križánek Martin, SR	ž.Mária	1	3592

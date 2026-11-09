@@ -1,0 +1,256 @@
+1487	Tkáč Ján	syn Michala	0	545
+1487	Tkáč Juraj, 071 01, Lesné, č. 140, SR		0	564
+1487	Tkáč Michal, 071 01, Lesné, č. 70, SR		0	564
+1487	Tkáčová Anna	dcéra Juraja	0	229,528
+1487	Tkáčová Anna r. Berillová		1	710
+1487	Tkáčová Anna r. Berillová	zomrela	0	304
+1487	Tomáš Juraj		0	595
+1487	Tomašík Ján	zomrel	0	453,726
+1487	Vedra Ján	zomrel	0	119,367,368,369,664,693
+1487	VEDRA Ján		0	664
+1487	Vedra Michal	zomrel	0	119,367,368,369,693
+1487	VEDRA Michal		0	664
+1487	Vedrová Alžbeta	zomrela	0	119,367,368,369,693
+1487	VEDROVÁ Alžbeta		0	664
+1487	Vedrová Pavlína		0	368,369
+1488	Bartal Dénes		1	595
+1488	Bartal Dionýz		1	595
+1488	Bartal František		1	595
+1488	Bartal Tibor		1	595
+1488	Bartalová Anna		1	595
+1488	Bartalová Barbora		1	595
+1488	Bartalová Františka rod.Lukácsová		1	512
+1488	Bartalová Magda		1	595
+1488	Bartalová Mária		1	595
+1488	Boráros Jozef, SR		0	496,498,522
+1488	Borárosová Alžbeta r. Fialová, SR		0	496,498,522
+1488	Borbélyová Alžbeta r. Komáromiová, SR		0	261
+1488	Csóka Peter		1	612
+1488	Czére Gabriel		1	499
+1488	Czére Štefan		1	499
+1488	Czéreová Anna		1	499
+1488	Czéreová Júlia		1	499
+1488	Czéreová Mária		1	499
+1488	Jávorka Alexander		1	595
+1488	Jávorková Julianna		1	595
+1488	Komáromi Jozef		1	521,522
+1488	Lelkesová Zuzana rod.Csóková		1	612
+1488	Manczal Ignác		1	512,609,614
+1488	Manczal Štefan st.		1	609,614
+1488	Manczal Vincent st.		1	609,614
+1488	Manczalová Alžbeta rod.Bartalová		1	614
+1488	Mátisová Mária rod.Komáromiová		1	505
+1488	Nagy Dionýz r. Nagy, SR		0	175
+1488	Nagy Rudolf		1	518,533,606,685
+1488	Nagy Štefan r. Nagy, SR		0	261
+1488	Nagy Zoltán		1	522
+1488	Nagyová Gizela rod.Vörösová		1	533
+1488	Puhaová Margita rod.Borbélyová		1	593
+1488	Szabó František		1	523
+1488	Szabóová Mária rod.Károlyová		1	523
+1488	Szigl František		1	592
+1488	Sziglová Helena rod.Nagyová		1	592
+1489	Axamská Katarína		0	601,1974
+1489	Axamská Katarína	1	0	815,1372
+1489	Axamská Katarína	2	0	866,964,1049,1083,1146,1149,1176,1279,1360,1479,1527,1548,1549,1559,1591
+1489	Axamská Mária		0	601,1974
+1489	Axamská Mária	1	0	815,1372
+1489	Axamská Mária	2	0	866,964,1049,1083,1149,1176,1279,1360,1479,1527,1548,1549,1559,1591
+1489	Axamský Ján		0	1398,1399,1405,1406,1432,1433,1673,1906
+1489	Axamský Ján	1	0	1120
+1489	Axamský Ján	2	0	1176
+1489	Axamský Michal		0	1118
+1489	Axamský Michal	1	0	601,1974
+1489	Axamský Michal	2	0	815,1372
+1489	Axamský Michal	3	0	866,964,1049,1083,1149,1176,1279,1360,1479,1527,1548,1549,1559,1591
+1489	Axamský Michal	4	0	850
+1489	Axamský Michal	5	0	903,1275,1506,1611
+1489	Axamský Vojtech		0	601,1974
+1489	Axamský Vojtech	1	0	815,1372
+1489	Axamský Vojtech	2	0	866,964,1049,1083,1149,1176,1279,1360,1479,1527,1548,1549,1559,1591
+1489	Barnáš Alojz		0	650,764,1083,1151,1172,1211,1479,1539,1542,1712,1713,1714,1745,1746,1748,1909,1973,2007
+1489	Barnáš Andrej		0	650,764,1083,1151,1172,1211,1479,1539,1542,1712,1713,1714,1745,1746,1748,1909,1973,2007
+1489	Barnáš Ján		0	914,1570,1612,1913
+1489	Barnáš Ján	2	0	1570,1612
+1489	Barnáš Jozef		0	1548,1549
+1489	Barnáš Jozef	1	0	1548,1549
+1489	Barnáš Jozef	3	0	1048,1062,1083,1232,1451,1479
+1489	Barnáš Michal	1	0	1398,1399,1405,1406,1430,1432,1433,1442,1673,1906
+1489	Barnáš Tomáš		0	849,1575,1606
+1489	Barnášová Anna		0	1913
+1489	Barnášová Anna r. Knapíková		0	914,1276,1333,1912
+1489	Barnášová Anna r. Knapíková	2	0	1125
+1489	Barnášová Johana		0	1591
+1489	Barnášová Karolína		0	1591
+1489	Barnášová Margita r. Gondeková		0	1506
+1489	Barnášová Mária		0	1591
+1489	Barnášová Mária r. Podolinská		0	1151,1172,1211,1539
+1489	Barnášová Žofia r. Podolinská		0	1398,1399,1405,1406,1430,1432,1433,1442,1673,1906
+1489	Bartkovská Anna		0	622,748
+1489	Bartkovská Anna	1	0	842,862,1477,1821
+1489	Bartkovská Anna r. Barnášová		0	1375,1398,1399,1405,1406,1432,1433,1673,1906
+1489	Bartkovská Katarína		0	866,964,1049,1083,1146,1149,1176,1203,1279,1360,1479,1532,1548,1549,1559,1591
+1489	Bartkovská Katarína r. Lihányová		0	1366
+1489	Bartkovská Katarína r. Lihányová	1	0	851
+1489	Bartkovská Mária	1	0	1527
+1489	Bartkovská Mária	2	0	675,866,964,1016,1017,1049,1083,1149,1176,1215,1279,1360,1479,1511,1527,1548,1549,1559,1591,1851
+1489	Bartkovská Mária r. Mačutková		0	670,1224,1398,1399,1405,1406,1432,1433,1652,1673,1906,2000
+1489	Bartkovská Mária r. Mačutková	1	0	1603,1604,1605
+1489	Bartkovská Mária r. Mačutková	2	0	1398,1399,1405,1406,1432,1433,1491,1502,1506,1673,1906
+1489	Bartkovská Mária r. Mačutková	3	0	967,1207,1694
+1489	Bartkovská Mária r. Šromovská		0	1367
+1489	Bartkovská Viktória		0	1236
+1489	Bartkovská Viktória	1	0	1117,1215,1281,1587,1601
+1489	Bartkovská Žofia		0	1149,1231,1276,1317,1875
+1489	Bartkovská Žofia r. Valkovská		0	1462,1924
+1489	Bartkovský Andrej		0	866,964,1049,1083,1146,1149,1176,1203,1279,1360,1479,1532,1548,1549,1559,1591
+1489	Bartkovský Jakub		0	866,964,1016,1017,1049,1083,1146,1149,1176,1215,1279,1360,1479,1511,1527,1548,1549,1559,1591,1851
+1489	Bartkovský Jakub	1	0	1083,1479
+1489	Bartkovský Jakub	2	0	1491,1501,1506
+1489	Bartkovský Jakub	3	0	1367
+1489	Bartkovský Jakub	4	0	675,866,964,1016,1017,1049,1083,1149,1176,1215,1252,1279,1360,1479,1511,1527,1548,1549,1559,1591,1851
+1489	Bartkovský Jakub	5	0	1171
+1489	Bartkovský Jakub	6	0	691,1292
+1489	Bartkovský Jakub	7	0	866,964,1049,1083,1146,1149,1176,1203,1279,1360,1479,1532,1548,1549,1559,1591
+1489	Bartkovský Ján		0	1348
+1489	Bartkovský Ján	1	0	748
+1489	Bartkovský Ján	2	0	842,1477
+1489	Bartkovský Ján	4	0	1211
+1489	Bartkovský Ján	5	0	866,964,1049,1083,1146,1149,1176,1203,1279,1360,1479,1532,1548,1549,1559,1591
+1489	Bartkovský Jozef		0	891
+1489	Bartkovský Michal		0	675
+1489	Bartkovský Michal	1	0	1609
+1489	Bartkovský Michal	2	0	675
+1489	Bartkovský Michal	3	0	1398,1432,1433,1491,1502,1506
+1489	Bartkovský Michal	4	0	1360,1511,1548,1549,1591
+1489	Bartkovský Michal	5	0	1398,1399,1405,1406,1432,1433,1673,1906
+1489	Bartkovský Pavel		0	622,653,842,862,994,1199,1477,1571,1821
+1489	Bartkovský Štefan		0	675,866,964,1016,1017,1049,1083,1149,1176,1215,1252,1279,1360,1479,1511,1527,1548,1549,1559,1591,1851
+1489	Bernát Ján		0	1157
+1489	Bernath Jakub		0	906,907,1576,1577
+1489	Bernath Ján		0	906,907,1576,1577
+1489	Bernath Michal		0	906,907,1576,1577
+1489	Bernátová Mária		0	651
+1489	Bernátová Mária	1	0	651
+1489	Borecká Mária		0	1451
+1489	Borecká Mária	1	0	906,1577
+1489	Borecká Mária	2	0	908,1081
+1489	Borovská Alžbeta		0	1027
+1489	Borovská Anna		0	1094,1583,1953
+1489	Borovská Anna r. Sejutová		0	1112,1359
+1489	Borovská Anna r. Sejutová	1	0	978,1010,1149,1176,1360,1462
+1489	Borovská Katarína		0	1094,1583,1953
+1489	Borovská Katarína	1	0	871,1117,1170,1171,1281,1292,1361,1477,1546,1601,1927
+1489	Borovská Magdaléna		0	1117,1170,1281,1292,1350,1361,1477,1546,1601,1725,1927
+1489	Borovská Mária	1	0	909,1248,1353,1448,1449,1533,1576,1613,1781,1793,1795,1856,1884,1929
+1489	Borovská Mária r. Venglarčíková		0	1142
+1489	Borovská Rozália r. Podolinská		0	692
+1489	Borovská Rozália r. Podolinská	1	0	692
+1489	Borovská Rozália r. Podolinská	2	0	692
+1489	Borovská Rozália r. Podolská		0	866,921,964,1042,1049,1146,1149,1176,1279,1360,1527,1532,1559,1591,1814,1816,1857,2001
+1489	Borovská Rozália r. Šromovská		0	692,693,842,843,883,1477
+1489	Borovská Žofia		0	1583,1953
+1489	Borovský Andrej		0	1583,1953
+1489	Borovský Jakub		0	866,964,1049,1083,1146,1149,1176,1279,1360,1479,1527,1532,1559,1591
+1489	Borovský Ján		0	1583,1953
+1489	Borovský Ján	1	0	1445,1446,1528
+1489	Borovský Jozef		0	866,964,1049,1083,1146,1149,1176,1279,1360,1479,1527,1532,1559,1591
+1489	Borovský Jozef	1	0	693,842,843,883,1102,1149,1176,1298,1462,1477
+1489	Borovský Jozef	10	0	1361,1477
+1489	Borovský Jozef	2	0	1120
+1489	Borovský Jozef	5	0	1361,1477
+1489	Borovský Jozef	6	0	1120
+1489	Borovský Jozef	7	0	692
+1489	Borovský Jozef	9	0	1398,1399,1405,1406,1432,1433,1673,1906
+1489	Borovský Michal		0	693,842,843,883,1102,1149,1176,1298,1462
+1489	Borovský Michal	1	0	693,842,843,863,883,912,1102,1149,1176,1298,1462
+1489	Borovský Michal	3	0	912
+1489	Borovský Michal	4	0	692
+1489	Borovský Michal	6	0	693,842,843,863,883,912,1102,1149,1176,1298
+1489	Borovský Michal	7	0	909,1248,1353,1448,1449,1533,1576,1613,1781,1793,1795,1856,1884,1929
+1489	Borovský Michal	8	0	693,842,843,863,883,1102,1149,1176,1298,1462,1477
+1489	Borovský Tadeáš		0	693,842,843,883,912,1102,1149,1176,1298,1462,1477
+1489	Borovský Tadeáš	2	0	692
+1489	Borovský Tomáš		0	1094,1583,1953
+1489	Borovský Tomáš	1	0	777,909,1248,1353,1449,1576,1613,1718,1795,1856,1884,1929
+1489	Bria Bartolomej		0	657
+1489	Cicoňák Jozef		0	1313
+1489	Cicoňáková Anna		0	1313
+1489	Cicoňáková Dorota		0	1313
+1489	Cicoňáková Katarína		0	1313
+1489	Cicoňáková Mária		0	1313
+1489	Cicoňáková Mária r. Šromovská		0	1151,1539
+1489	Cicoňáková Žofia		0	1313
+1489	Čarnota Michal		0	1425
+1489	Česelka Jozef		0	1398,1432,1433,1434,1556
+1489	Česelková Anna		0	1398,1432,1433,1434,1556
+1489	Česelková Anna	1	0	693,694
+1489	Česelková Dorota r. Valkovská	1	0	1398,1432,1433,1434
+1489	Česelková Mária		0	1398,1432,1433,1434,1556
+1489	Dominik Jozef		0	1095
+1489	Dominik Jozef	2	0	1095,1213,1219,1583
+1489	Dominik Jozef	3	0	635,1213,1219,1583
+1489	Dominik Jozef	5	0	1315,1531
+1489	Dominiková Anna		0	1317,1462,1924
+1489	Dominiková Anna r. Bartkovská		0	1462
+1489	Dominiková Anna r. Bartkovská	1	0	978,1149,1176,1360
+1489	Dominiková Anna r. Podolinská		0	849,864,1575
+1489	Dominiková Anna r. Podolinská	1	0	1591
+1489	Dominiková Anna r. Podolinská	2	0	1548,1549
+1489	Dominiková Žofia	1	0	1095,1213,1219,1583
+1489	Dulková Dorota r. Barnašová		0	650,764,1083,1151,1172,1211,1217,1479,1539,1542,1712,1713,1714,1745,1746,1748,1909,1973,2007
+1489	Fabianová Mária r. Podolinská		0	715,764,1083,1292,1361,1479,1542,1712,1713,1714,2007
+1489	Filipsová Žofia r. Gondeková		0	906,1451,1577
+1489	Filipsová Žofia r. Gondeková	1	0	908,1081
+1489	Frankovská Anna r. Gondeková		0	643,812,910,950,1056,1059,1179,1186,1256,1275,1346,1448,1449,1573
+1489	Gacek Ján		0	866,964,1049,1083,1149,1176,1279,1360,1479,1527,1548,1549,1559,1591
+1489	Gavelová Anna r. Kacvinová		0	1117,1281,1601
+1489	Gavelová Anna r. Kacvinová	1	0	1117,1281,1546,1601,1927
+1489	Gondek Andrej		0	1298
+1489	Gondek Jakub		0	1546,1927
+1489	Gondek Jakub	1	0	1102,1510,1511,1851
+1489	Gondek Jakub	2	0	1134
+1489	Gondek Jakub	3	0	1571,1609
+1489	Gondek Jakub	4	0	1546,1927
+1489	Gondek Jakub	5	0	840
+1489	Gondek Ján	1	0	630
+1489	Gondek Ján	10	0	1276
+1489	Gondek Ján	11	0	1276,1521,1534,1932
+1489	Gondek Ján	12	0	908,1081
+1489	Gondek Ján	2	0	1454
+1489	Gondek Ján	3	0	1550
+1489	Gondek Ján	4	0	1276,1521,1534,1932
+1489	Gondek Ján	5	0	1170
+1489	Gondek Ján	6	0	906,1451,1577
+1489	Gondek Ján	7	0	1550
+1489	Gondek Ján	8	0	1398,1399,1405,1406,1432,1433,1673,1906
+1489	Gondek Ján	9	0	1108
+1489	Gondek Jozef		0	517,1102,1511,1851
+1489	Gondek Jozef	1	0	1083,1479,1545
+1489	Gondek Jozef	11	0	842
+1489	Gondek Jozef	2	0	693,694,862
+1489	Gondek Jozef	3	0	1016,1215
+1489	Gondek Jozef	4	0	1149,1176,1298,1462
+1489	Gondek Jozef	5	0	1117,1188,1281,1546,1601,1927
+1489	Gondek Jozef	6	0	693,694
+1489	Gondek Jozef	7	0	1215,1367,1511,1851
+1489	Gondek Jozef	8	0	1329,1512,1571,1830,1831,1832
+1489	Gondek Jozef	9	0	1398,1399,1405,1406,1432,1433,1673,1906
+1489	Gondek Peter		0	1448,1449
+1489	Gondek Peter	1	0	1432
+1489	Gondek Šimon		0	1511
+1489	Gondek Vojtech		0	1205
+1489	Gondek Vojtech	11	0	842,862,1477,1821
+1489	Gondek Vojtech	12	0	1398,1399,1405,1406,1432,1433,1491,1506,1673,1906
+1489	Gondek Vojtech	2	0	1056,1186,1256,1448,1449,1573
+1489	Gondek Vojtech	4	0	1205
+1489	Gondek Vojtech	6	0	1056,1186,1243,1256
+1489	Gondek Vojtech	7	0	1398,1399,1405,1406,1432,1433,1673,1906
+1489	Gondek Vojtech	8	0	1381,1398,1399,1405,1406,1430,1432,1433,1491,1506,1644,1673,1906
+1489	Gondek Vojtech	9	0	1398,1399,1405,1406,1432,1433,1673,1906
+1489	Gondeková Alžbeta		0	1398,1399,1405,1406,1432,1433,1673,1906
+1489	Gondeková Alžbeta	1	0	1398
+1489	Gondeková Alžbeta	2	0	622,1381,1398,1399,1405,1406,1432,1433,1491,1506,1557,1644,1673,1906
+1489	Gondeková Alžbeta	3	0	842,862,1477,1821
+1489	Gondeková Alžbeta r. Ovšonková		0	1511
+1489	Gondeková Alžbeta r. Ovšonková	1	0	837,1031,1034

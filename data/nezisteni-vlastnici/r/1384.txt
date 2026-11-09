@@ -1,0 +1,256 @@
+801	Huraj Štefan r. Huraj	Horná Seč 16	0	903
+801	Hurajová Helena r. Prištiaková		0	895
+801	Hurajová Zuzana r. Hurajová	m. Michal	0	863
+801	Chudá Anna r. Bátovská	manžel Jozef	0	948
+801	Chudá Antónia		0	978
+801	Chudá Mária r. Ďurovská		0	978
+801	Chudý Jozef r. Chudý	manželka Anna r. Bátovská	0	948
+801	Chudý Marek r. Chudý		0	978
+801	Išten Jozef r. Išten		0	988
+801	Ivanický Pavol r. Ivanický		0	831
+801	Izáková Juliana r. Siekelová		0	985
+801	Jančo Filip r. Jančo	manželka Katarína r. Šebová	0	977
+801	Jančová Katarína r. Šebová	manžel Filip	0	977
+801	Jenesová Julianna r. Senciová		0	629
+801	Karika Alexander r. Karika	Horná Seč 69	0	865
+801	Kariková Vilma r. Galambošová		0	849
+801	Kemény Ľudovít r. Kemény	Lajos	0	877
+801	Kinčok Ján r. Kinčok	manželka Terézia r. Šebová	0	965
+801	Kinčoková Terézia r. Šebová	manžel Ján	0	965
+801	Kiss Ľudovít r. Kiss		0	884,886
+801	Kiška Ján r. Kiška	manželka Uršula	0	958
+801	Kiška Julius r. Kiška	manželka Anna r. Šolmošiová	0	973
+801	Kišková Anna r. Šolmošiová	manžel Julius	0	973
+801	Kišková Uršula r. Gellenová	manžel Ján	0	958
+801	Kocsiová Eszter r. Tóthová		0	909
+801	Kolár Ján r. Kolár		0	842
+801	Kolomanová Jolana r. Vargová		0	576
+801	Konczová Vilma r. Szobiová		0	865,920
+801	Kosorín Július r. Kosorín	manželka Mária r. Kosorínová	0	955
+801	Kosorín Ondrej r. Kosorín		0	960
+801	Kosorín Pavel r. Kosorín		0	986
+801	Kosorínová Mária r. Kosorínová	manžel Július	0	955
+801	Kovácsová Rozália r. Gálová		0	543,698,700,741
+801	Kováč Jozef r. Kováč		0	945
+801	Kováč Marek r. Kováč	syn Štefana	0	944
+801	Kováčik Mikuláš		0	685
+801	Kováčiková Anna r. Chudá		0	949
+801	Kováčová Anna r. Slušná	manžel Štefan	0	944
+801	Kováčová Emma r. Pilková	Horná Seč 30	0	934
+801	Kovaničová Terézia r. Melicherová		0	840
+801	Kúcsová Helena r. Gutraiová		0	872,873
+801	Kúčová Helena r. Kováčová		0	848
+801	Kúdelová Rozália r. Kupčová		0	791
+801	Kulcsárová Jolana r. Kissová		0	884
+801	Kuna Jozef r. Kuna		0	832
+801	Kupča Jozef r. Kupča		0	834
+801	Kupčová Terézia r. Šebová		0	838
+801	Lakatošová Jolana		0	915
+801	Lecký Jozef r. Lecký		0	981
+801	Lelovská Magdaléna r. Šebová	manžel Michal	0	964
+801	Lelovská Rozália r. Kisková	manžel Filip	0	963
+801	Lelovský Filip r. Lelovský	manželka Rozália r. Kisková	0	963
+801	Lelovský Michal r. Lelovský	manželka Magdaléna r. Šebová	0	964
+801	Lócsai Imrich		0	669,750,820
+801	Locsai Július r. Locsai	2	0	918
+801	Lócsai Koloman		0	669,750
+801	Lócsaiová Agneša r. Dobóová		0	904
+801	Locsaiová Rozália		0	649
+801	Lombová Ida r. Konczová		0	865
+801	Máčajová Mária r. Popracová		0	391
+801	Magyar Ján r. Magyar		0	868
+801	Magyar Jozef r. Magyar	manželka Júlia r. Vasarábová	0	950
+801	Magyarová Júlia r. Vasarábová	manžel Jozef	0	950
+801	Mandrák Štefan r. Mandrák		0	841
+801	Mészároš Július		0	386
+801	Mészároš Karol r. Mészároš	manželka Marta r. Gellenová	0	972
+801	Mészarošová Marta r. Gellenová	manžel Karol	0	972
+801	Moravská Elena		0	654
+801	Nagy-Timko Ondrej r. Nagy-Timko		0	861
+801	Pacalová Rozália		0	954
+801	Pakšiová Gizela r. Tóthová		0	879,888
+801	Pál Gejza r. Pál		0	890
+801	Páleník Michal		0	275
+801	Pápay Juraj		0	83,1002
+801	Pilková Gizela r. Vajdová		0	934
+801	Pintér Július r. Pintér	m. Estera r.Židová	0	883
+801	Pišová Valéria		0	850
+801	Pochlen Štefan r. Pochlen	manželka Rozália r. Jančová	0	941
+801	Pochlenová Rozália r. Jančová	manžel Štefan	0	941
+801	Póková Gizela r. Csekei		0	925
+801	Póková Johanna r. Pólyová		0	922
+801	Považan Matej r. Považan	manželka Katarína r. Kosorínová	0	956
+801	Považanová Estera		0	280
+801	Považanová Katarína r. Kosorínová	manžel Matej	0	956
+801	Pucsek Štefan r. Pucsek	manželka Viktória r. Kudelová	0	940
+801	Pucseková Viktória r. Kudelová	manžel Štefan	0	940
+801	Púček Štefan		0	530
+801	Pustajová Mária r. Lecká		0	265
+801	Rypóková Alžbeta r. Šediová		0	969
+801	Sallaiová Jolana r. Sallaiová		0	902
+801	Sallaiová Jolana r. Vargová		0	902
+801	Senci Jakub r. Senci	m.Agneša r.Šabiková	0	951
+801	Senci Ján r. Senci	m. Markéta r. Lecká	0	971
+801	Senciová Agneša r. Šabiková	m.Jakub	0	951
+801	Senciová Helena r. Šebová		0	545
+801	Senciová Mária r. Gocianová		0	799
+801	Senciová Markéta r. Lecká		0	971
+801	Senešová Juliana r. Senciová	m.Filip	0	947
+801	Slušná Mária r. Šolmošiová		0	952
+801	Slušný Michal		0	643
+801	Slušný Pavol r. Slušný		0	833
+801	Szabó-Pastier Štefan Ján r. Szabó-Pastier		0	927
+801	Szabová Gizela	Horná Seč 72	0	885
+801	Szabová-Pastierová Viola		0	927
+801	Szobi Alexander r. Szobi		0	899
+801	Szobi Ján r. Szobi		0	920
+801	Szobi Matej		0	572
+801	Szobiová Rozália r. Gutraiová		0	572
+801	Šabaň Libor r. Šabaň	manželka Anna r. Marčoková	0	937
+801	Šabaňová Anna r. Marčoková	manžel Libor	0	937
+801	Šalgová Jolana r. Kulčárová		0	896
+801	Šebová Terézia r. Šebová		0	587
+801	Šedi Ladislav r. Šedi	syn Štefana	0	969
+801	Šípoš Ondrej r. Šípoš	manželka Helena	0	901
+801	Šípošová Helena r. Kerekréty	manžel Ondrej	0	901
+801	Šolmoši Karol r. Šolmoši		0	974
+801	Šolmošiová Julianna r. Rohoňová	manžel Jozef	0	973
+801	Šolmošiová Magdaléna r. Lecká	manžel Ján	0	983
+801	Šolmošiová Mária r. Belányová	manželka Ondreja	0	952
+801	Šumeraj Ján r. Šumeraj		0	938
+801	Šurániová Paulína r. Šolmošiová		0	952
+801	Titurus Jozef r. Titurus		0	835
+801	Tokaová Gizela r. Csekeiová		0	614
+801	Tóth Ľudovít r. Tóth		0	928
+801	Turčan Ondrej r. Turčan		0	931
+801	Varga Ľudovít r. Varga	m. Žofia r. Csekeiová	0	902
+801	Verešová Alžbeta r. Šolmošiová		0	952
+801	Vida Viliam r. Vida		0	876
+801	Vidová Vilma		0	914
+801	Vörös Ondrej r. Vörös		0	953
+801	Weisz Július r. Weisz		0	966
+801	Záhorská Anna r. Šolmošiová		0	952
+801	Zsidó Ondrej r. Zsidó	m. Estera r. Kariková	0	882
+801	Zsidóová Eszter r. Kariková		0	851
+801	Zubáková Vilma r. Konczová		0	865
+801	Žiak Ján r. Žiak		0	859
+801	Žňavová Rozália r. Tóthová	manžel Martin Zsnyava	0	881
+802	Arbetová Alžbeta r. Markechová		1	1159
+802	BARBUŠIN Alojz	mal	1	1208
+802	BARBUŠÍN Valent	ž. Verona r. Hlístová	0	1230
+802	BARBUŠINOVÁ Darina		1	1208
+802	BARBUŠINOVÁ Verona r. Hlístová		0	1230
+802	Blažková Františka r. Markechová		0	1026
+802	Blažková Matilda r. Vavrová, zomrela, posledne bytom Piešťany zomrela, posledne bytom Piešťany		0	1792
+802	BOROT Jozef		1	1167
+802	BOROTOVÁ Aurélia	r.Dubravová	1	1167
+802	DZURICHOVÁ Alžbeta r. Moravčíková		1	1171,1173
+802	FARKAŠOVÁ Viktória		1	1184
+802	HLISTOVA Anna	r. Hlistova	0	1046
+802	Hrehorčík Michal	ž. Mária r. Kostolnik, USA	0	1001
+802	Hrehorčíková Emília r. Vicenová	zom. 10.12.1990	1	1211
+802	HUSAKOVA Paula	r. Mikusova	0	1014
+802	Chlpatý Florian	ž. Anna r. Kotulova	0	1029
+802	ILENČÍKOVÁ Emília	r. Mišurová	1	1402
+802	ILENČÍKOVÁ Emília r. Mišurová		1	1205
+802	IVAN Ľudovít		0	1222
+802	IVANOVÁ Mária r. Markechová		0	1222
+802	KIRÁL Dominik		1	1163
+802	KIRALY Michal	zomrel	0	965
+802	KOSTOLNIK Jozef	USA	0	1018
+802	KOŠÚTOVÁ Mária	r. Veselá	1	1206
+802	Krištofová Katarina r. Lazarova	zomrela	0	1019
+802	KUBÍČEK Ferdinand		1	1167
+802	KUBÍČEK Jozef		1	1167
+802	KUNIKOVA Anna	r. Mikusova	0	1014
+802	Kuníková Anna r. Mikušová	USA	0	936
+802	Kusovský Ján	USA	0	1023
+802	Kusovský Jozef	zom.12.3.1990	1	1210
+802	Kusovský Štefan	ž. Karolina r. Gajdošecká, USA	0	940,1062
+802	LAZARČÍK Jozef	ž. Barbora r.Reháková	1	1153
+802	LAZARČÍK Michal	ž.Mária r.Beňová	1	1153
+802	Lazarčík Viliam, Horná Streda, č. 189, SR	zomrel -	1	911
+802	Lazarčíková Alžbeta r. Markechová	zomrela	0	1040
+802	Lazarčíková Alžbeta r. Markechová, Horná Streda, SR	zomrela	1	1451
+802	Lazarčíková Mária r. Miklovičová, zomrela, naposledy bytom Horná Streda 69, zom.24.06.1959 zomrela, naposledy bytom Horná Streda 69, zom.24.06.1959		0	1782
+802	LAZARČÍKOVÁ Matilda	slobodná	1	1153
+802	LAZAROVÁ Mária r. Reháková		1	1170
+802	Lukačová Katarina r. Rehákova	zomrela	0	874
+802	MAREK Jozef	ž.Mária r.Lazarčíková	1	1196
+802	MAREK Michal		1	1196
+802	MAREK VD Jan	z. Pavla Hradelova zomrel	0	1013
+802	MAREKOVÁ Zuzanna r. Kostolníková		1	1218
+802	MARIANEK Michal	z. Eva r. Palkechova USA	0	944,999
+802	MARKECH František	ž. Mária r. Ondrišová	0	1222
+802	Markech Ján	zom. 21.7.1978, ž.Rozália r.Melicherová	1	1215
+802	MARKECH Martin	ž.Helena r.Čechvalová	1	1179
+802	Markech Peter	zom.17.06.1989	1	1159
+802	MARKECH Peter	zom. 17.6.1989	1	1226
+802	MARKECH Štefan		1	818,1226
+802	MARKECHOVÁ Apolónia	mal	1	818,1226
+802	Markechová Jozefína r. Jamborová		1	1156
+802	MARKECHOVÁ Mária r. Ondrišová		0	1222
+802	MARKECHOVÁ Rozália r. Melicherová		1	1215
+802	Mašanova Alžbeta r. Kostolnikova	USA	0	1018
+802	MIKUS Juraj USA		0	1014
+802	Mikuš Gašpar	zomrel	0	1816
+802	Mikuš Juraj	USA	0	936
+802	Mikuš Pavel	USA	0	936
+802	MIŠUROVÁ Anna		1	1205,1402
+802	MIŠUROVÁ Magdaléna		1	1205,1402
+802	MITOŠINKOVÁ Mária	r. Mikušová	1	1199,1404
+802	Moravanská Eva r. Hladká		1	1168,1169
+802	MORAVANSKÁ Mária r. Ďurichová		1	1171
+802	MORAVANSKÝ Izidor	ž. Mária r. Durichová	1	1171
+802	Púchovská Mária		0	934
+802	REHÁK Juraj	ž. Verona r.Lazarčíková zomrela	1	1155
+802	Rehák Michal		0	893
+802	REHÁKOVÁ Helena r. Reháková		1	1170
+802	STEJNECKEROVÁ Johana r. Mareková		1	1213
+802	STRICKER Andor		0	882
+802	SUCHÁ Mária r. Reháková		1	1180
+802	Šimončičová Mária r. Markechová		1	1159
+802	Vavro Alojz r. Vavro, zomrel, bytom Horná Streda č.26 zomrel, bytom Horná Streda č.26		0	1792
+802	Vavro Rudolf r. Vavro, zomrel, bytom Horná Streda č.26 zomrel, bytom Horná Streda č.26		0	1792
+802	Vavrová Anna r. Vavrová, zomrela, bytom Horná Streda č.26 zomrela, bytom Horná Streda č.26		0	1792
+802	VAVROVA Maria	v Rakusku	0	1056
+802	Vavrová Mária r. Vavrová, Rakúsko Rakúsko		0	1792
+802	Vavrová Sidónia r. Miklovičová, zomrela , bytom Horná Streda č.26 zomrela , bytom Horná Streda č.26		0	1777
+802	Veselý Jozef r. Veselý, zomrel, naposledy bytom Horná Streda č.122 zomrel, naposledy bytom Horná Streda č.122		0	1783
+802	VESELÝ Michal	ž. Mária r. Palkovičová zomrel	1	1206
+802	Veselý Michal r. Veselý, zomrel, naposledy bytom Pobedím zomrel, naposledy bytom Pobedím		0	1760
+802	Veselý Michal r. Veselý, zomrel,ž.Margita r.Lazarčíková, bytom Horná Streda zomrel,ž.Margita r.Lazarčíková, bytom Horná Streda		0	1761
+802	VICEN Alex		1	1168
+802	VICEN Alex	zomrel	1	983,1731
+802	Vicenová Apolónia r. Krajčová	zom. 1.6.1982	1	1212
+802	VICENOVÁ Emília		1	983,1168,1731
+802	VICENOVÁ Veronika		1	1168
+803	Alač Ján		0	356
+803	Alač Juraj		0	356
+803	Alač Pavel		0	356
+803	Alačová Anna		0	356
+803	Baláž Ján		0	356
+803	Baláž Ján /komár/ /komár/		0	356
+803	Baláž Ondrej		0	356
+803	Baláž Pavel		0	356
+803	Búthová Gizela		0	129,131,164,172,234,236,287,313,453,514
+803	Búthová Gizela, SR		0	405,406
+803	Demeter Dušan	zom. 23.10.1945	1	207
+803	Demeter Ján		0	254
+803	Demeter Ján	/m.Anna Molnárová/ [* 15.6.1909] /m.Anna Molnárová/ [* 15.6.1909]|	1	207
+803	Demeter Ján	ml.a	1	55
+803	Demeter Ján	ml.b	1	253
+803	Demeter Július	/m.Božena Hudecová/	1	207
+803	Demeter Július /ž.Božena r.Hudecová/ /ž.Božena r.Hudecová/		0	184
+803	Dragan Ján		0	356
+803	Ďurík Juraj		0	356
+803	Ďuriš Michal		0	126,386
+803	Ďuroš Ján	/dolný bekény/; ; dolný bekény	1	420
+803	Ďuroš Ján	/jakuboje/	1	125
+803	Ďuroš Ján	/jakuboje/; ; jakuboje	1	437,507
+803	Ďuroš Ján	/kabrčák/ ml	1	139
+803	Ďuroš Ján	/zdycha/	1	352
+803	Ďuroš Ján	D	0	389
+803	Ďuroš Ján	ml./bekény/; ; mladší; bekény	1	420
+803	Ďuroš Ján	ml./dolný bekény/; ; mladší; dolný bekény	1	420
+803	Ďuroš Ján	najmladší, kabrcak	0	388

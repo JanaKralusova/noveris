@@ -1,0 +1,256 @@
+3076	BURJAK Jozef	zomrel	1	330
+3076	BURJAK Peter	zomrel	1	412,414
+3076	BURJAKOVÁ Anna	zomrela	1	412,414
+3076	BURJAKOVÁ Júlia		1	412,414
+3076	BURJAKOVÁ Mária	zomrela	1	412,414
+3076	BZIK Ján	zomrel; 2	1	412,414
+3076	BZIK Juraj	zomrel	1	412,414
+3076	BZIK Michal	zomrel	1	412,414
+3076	BZIK Mikuláš	zomrel	1	414
+3076	BZIKOVÁ Júlia	zomrela	1	412,414
+3076	CIGLER Abrahám		1	330
+3076	CUNDER Ján	/Vaňo/,zomrel	1	405
+3076	CUNDER Ján	zomrel	1	330,426,496,502,515,517,526
+3076	CUPER Andrej	zomrel	1	350
+3076	CUPER Ján		1	426,496,502,515,517,526
+3076	CUPER Ján	mal,zomrel	1	347,350,426,496,502,515,517,526
+3076	CUPER Ján	Pajkoš,zomrel	1	330
+3076	CUPER Jozef	zomrel	1	350,400,411,473
+3076	CUPER Michal	Zapotocký,zomrel	1	378,411,418,423,424,494,495,500,501
+3076	CUPER Michal	zomrel	1	378,418,423,424,494,495,500,501
+3076	CUPER Vasiľ	zomrel,Kanada	1	321,455
+3076	CUPER Vladislav		1	428
+3076	CUPEROVÁ Mária	Hafijová,zomrela	1	400,411,473
+3076	CUPEROVÁ Mária	r.Burjaková,zomrela	1	330
+3076	CUPEROVÁ Mária	r.Drimáková,zomrela	1	330
+3076	CUPEROVÁ Mária	zomrela,Ladomírova	1	412,414
+3076	ČERPAKOVÁ Anna	r.Bziková manž.Demeter	1	412,414
+3076	DOBROVOLSKÁ Anna	r.Vachnová,zomrela	1	412,414
+3076	DROTÁR Michal	zomrel	1	330
+3076	DROTÁROVÁ Helena	r.Drimáková,zomrela	1	330
+3076	DZOBAKOVÁ Anna	r.Bziková manž.Demeter	1	412,414
+3076	FEDÁK Juraj	zomrel	1	307,328,423,424,426,442,460,495,496,501,502,515,517,526,537
+3076	FEDÁKOVÁ Helena	zomrela	1	307,328,423,424,426,442,460,495,496,501,502,515,517,526,537
+3076	FERENČÍK Michal		1	412,414
+3076	FERENČÍKOVÁ Anna	zomrela	1	412,414
+3076	FRANČÁKOVÁ Mária	r.Lazová manž.Andrej	1	412,414
+3076	FRANKOVÁ Mária	r.Škurlová	1	412,414
+3076	GELB Herman		1	412,414
+3076	GELB Chaim		1	412,414
+3076	GELB Július		1	412,414
+3076	GELB Martin		1	412,414
+3076	GELB Mojžiš		1	412,414
+3076	GELBOVÁ Dena	r.Grosmannová manž.Július	1	412,414
+3076	GELBOVÁ Gizela		1	412,414
+3076	GELBOVÁ Lenka		1	412,414
+3076	GELBOVÁ Sara		1	412,414
+3076	GLAICHOVÁ Berta	r.Grosmannová	1	412,414
+3076	GLUS Michal	zomrel	1	412,414
+3076	GOCOVÁ Júlia	Vachnová	1	412,414
+3076	GROSMAN Adolf		1	412,414
+3076	GROSMAN Armin		1	412,414
+3076	GROSMAN Herman		1	412,414
+3076	GROSMAN Mojzes		1	412,414
+3076	GROSMAN Samuel		1	412,414
+3076	GRUNFELD Baruch		1	412,414
+3076	GRUNFELD Izrael		1	412,414
+3076	HANÁK Mikuláš		1	412,414
+3076	HERMAN Juraj		1	426,496,502,515,517,526
+3076	HERMAN Michal	zomrel	1	330,426,496,502,515,517,526
+3076	HERMANOVÁ Anna	r.Rišková,zomrela	1	426,496,502,515,517,526
+3076	HREBEŇÁK Michal, Ladomírova		1	313
+3076	HREBEŇÁKOVÁ Mária, Ladomírova		1	313
+3076	HRICOV Ján		1	412,414
+3076	HUDAKOVÁ Zuzana	r.Dudová	1	412,414
+3076	HUSAROVÁ Helena	r.Bziková manž.Jozef	1	412,414
+3076	ICKOVIČ Armin		1	412,414
+3076	ICKOVIČ Ignác		1	412,414
+3076	ICKOVIČ Mojzes		1	412,414
+3076	ICKOVIČOVÁ Berta		1	412,414
+3076	ICKOVIČOVÁ Rozália		1	412,414
+3076	JANČUROVÁ Helena	r.Škurlová	1	412,414
+3076	JURČIŠINOVÁ Helena	r.Cunderová,zomrela	1	405
+3076	JURKANINOVÁ Helena	r.Cuperová,zomrela	1	350
+3076	KALIŇÁKOVÁ Anna	r.Vachnová manž.Andrej	1	412,414
+3076	KARAMANOVÁ Júlia	r.Pasnišinová	1	412,414
+3076	KIDA Juraj	Vanca	1	412,414
+3076	KIDA Peter	Vanca	1	412,414
+3076	KIDA Vasiľ		1	412,414
+3076	KIDOVÁ Júlia	Vancová	1	412,414
+3076	KIDOVÁ Terézia	Vancová	1	412,414
+3076	KLIM Andrej	zomrel	1	401
+3076	KLIMOVÁ Anna	r.Burjaková,zomrela	1	402
+3076	KOČIŠOVÁ Helena	r.Vachnová	1	412,414
+3076	KRAJŇÁKOVÁ Ilona	r.Pasnišinová manž.Štefan	1	414
+3076	KRAJŇÁKOVÁ Paraska	r.Škurlová manž.Ján	1	412,414
+3076	KREMPACKÝ Ján	zomrel	1	348
+3076	KREMPAŠSKÁ Anna	r.Simčáková,zomrela	1	330
+3076	KSENIČ Juraj	zomrel	1	388,401,423,424,495,501
+3076	KSENIČOVÁ Helena	r.Mačugová,zomrela	1	263,336,397,406,411,523,528
+3076	KSENIČOVÁ Paraska	r.Vasiľová,zomrela	1	330
+3076	LACA Milan	PhDr. R28.5.1954	1	414
+3076	LADOMERSKÁ Anna	r.Martiníková manž.Jozef	1	412,414
+3076	LAKATA Ján	zomrel	1	330
+3076	LAKATOVÁ Zuzana	zomrela	1	389,423,424,495,501,516
+3076	LAŽO Andrej	zomrel	1	412,414
+3076	LAŽO Ján	zomrel	1	412,414
+3076	LAŽO JURAJ	zomrel	1	414
+3076	LAŽO Michal		1	412,414
+3076	LAŽO Michal	zomrel	1	412,414
+3076	LAŽO Mikuláš	zomrel	1	412,414
+3076	LAŽO Vaňo	zomrel	1	412,414
+3076	LAŽOVÁ Anna	zomrela	1	412,414
+3076	LAŽOVÁ Helena	zomrela	1	412,414
+3076	LAŽOVÁ Mária	zomrela	1	412,414
+3076	LAŽOVÁ Paraska	zomrela	1	412,414
+3076	LITVÁKOVÁ Helena		1	412,414
+3076	LORENC Vasiľ		1	412,414,420
+3076	LORENCOVÁ Mária	r.Bucková	1	412,414,420
+3076	MACKOVÁ Mária	r.Vachnová manž.Štefan	1	412,414
+3076	MAČUGA Fedor		1	348
+3076	MAČUGA Ján	zomrel	1	348,426,496,502,515,517,526
+3076	MAČUGA Michal	zomrel	1	330
+3076	MAČUGA Teodor	zomrel	1	326
+3076	MAČUGA Vasiľ	zomrel	1	401,402
+3076	MAČUGOVÁ Anna	r.Sošová,zomrela	1	330
+3076	MAČUGOVÁ Anna	zomrela	1	385,395,402,411,423,424,459,461,495,501
+3076	MAČUGOVÁ Helena	r.Facaková,zomrela	1	330
+3076	MAČUGOVÁ Helena	r.Krajňaková,zomrela	1	330
+3076	MAČUGOVÁ Helena	zomrela	1	426,496,502,515,517,526
+3076	MAČUGOVÁ Mária	mal	1	348
+3076	MAČUGOVÁ Mária	zomrela	1	326,386,395,401,402,411,423,424,432,495,501
+3076	MADZEJOVÁ Anna	zomrela	1	376,423,424,495,501
+3076	MAGYCOVA Helena	zomrela	1	330
+3076	MALSENSKÁ Anna	r.Pajkošová manž.Juraj	1	412,414
+3076	MIGOVÁ Júlia	r.Vachnová manž.Ján	1	412,414
+3076	MIHALOVÁ Mária	r.Pasnišinová	1	412,414,421
+3076	MIKITKA Ján		1	412,414
+3076	MIKITKA Ján	zomrel	1	412,414
+3076	MIKITKA Juraj	zomrel	1	412,414
+3076	MIKITKA Michal	zomrel	1	412,414
+3076	MIKITKA Peter	zomrel	1	412,414
+3076	MIKITKA Štefan		1	412,414
+3076	MIKITKA Vasiľ		1	412,414
+3076	MIKITKOVÁ Mária	r.Cuperová,zomrela	1	350
+3076	MŇAHONČÁK Ján	zomrel	1	412,414
+3076	MŇAHONČAK Michal	zomrel	1	330,426,496,502,515,517,526
+3076	MŇAHONČÁK Michal	Barvir,zomrel	1	414
+3076	MŇAHONČÁKOVÁ Ilona		1	412,414
+3076	MŇAHONČÁKOVÁ Mária	zomrela	1	412,414
+3076	OLEÁROVÁ Anna		1	412,414
+3076	PAJKOŠ Michal		1	412,414
+3076	PAJKOŠ Vasiľ		1	412,414
+3076	PAJKOŠOVÁ Ilona		1	412,414
+3076	PAŇKOVÁ Anna	r.Vachnová manž.Vasiľ	1	412
+3076	PASNIŠIN Andrej	Timo,zomrel	1	412,421
+3076	PASNIŠIN Ján	syn Jána	1	412,414
+3076	PASNIŠIN Ján	syn Michala	1	412,414,421
+3076	PASNIŠIN Michal		1	421
+3076	PASNIŠIN Michal	zomrel	1	412,414
+3076	PASNIŠINOVÁ Anna	r.Pasnišinová Timová	1	412,414
+3076	PASNIŠINOVÁ Mária	r.Vargová	1	412,414
+3076	PASNIŠINOVÁ Paraska		1	412,414,421
+3076	PASNIŠINOVÁ Terézia		1	412,414
+3076	PASNIŠINOVÁ Zuzana	zomrela	1	412
+3076	PAŠEŇ Ján	/m.Terézia r.Krempaská/,zomrel	1	370
+3076	PIROHOVÁ Mária	r.Bojčiková	1	412,414
+3076	PISANČÍK Andrej	zomrel	1	327,475
+3076	PISANČÍK Ján	zomrel	1	353
+3076	PISANČÍK Michal	zomrel	1	327,475
+3076	PISANČÍKOVÁ Agnesa		1	426,496,502,515,517,526
+3076	PISANČÍKOVÁ Agnesa	zomrela	1	353,439
+3076	PISANČÍKOVÁ Anna	r.Harajdová,zomrela	1	330
+3076	PISANČÍKOVÁ Anna	r.Petrášová,zomrela	1	330
+3076	PISANČÍKOVÁ Anna	zomrela	1	327,475
+3076	PISANČÍKOVÁ Helena	r.Fedorová,zomrela	1	330
+3076	PISANČÍKOVÁ Júlia	zomrela	1	327,475
+3076	PISANČÍKOVÁ Mária		1	445
+3076	PISANČÍKOVÁ Mária	r.Motýľová,zomrela	1	383,423,424,426,495,496,501,502,515,517,526
+3076	PISANČÍKOVÁ Mária	zomrela	1	330
+3076	POBIAC Michal		1	412,414
+3076	RIŠKO Michal	ml.,zomrel	1	412,414
+3076	RIŠKO Michal	st.,zomrel	1	412,414
+3076	RIŠKO Michal	zomrel	1	330
+3076	RIŠKOVÁ Anna	r.Vachnová manž.Vasiľ	1	412,414
+3076	RIŠKOVÁ Mária	zomrela	1	330,412,414
+3076	ROSZLER Ján		1	412,414
+3076	ROSZTEROVÁ Anna		1	412,414
+3076	SACHOVACKÁ Helena	r.Pasnišinová	1	412,414,421
+3076	SIDLAROVÁ Helena	r.Mačugová	1	348
+3076	SIMČÁK Fedor	zomrel	1	330
+3076	SIMČÁK Ján	1	1	314,315,439,446,541
+3076	SIMČÁK Ján	2	1	314,315,446,541
+3076	SIMČÁK Ján	Hafi,zomrel	1	330
+3076	SIMČÁK Ján	ml	1	332
+3076	SIMČÁK Ján	zomrel	1	332
+3076	SIMČÁK JÁN, SPF		1	473
+3076	SIMČÁK Jozef	/Kantor/,zomrel	1	356,465
+3076	SIMČÁK Juraj	zomrel	1	313
+3076	SIMČÁK Michal	zomrel	1	330
+3076	SIMČÁK Mikuláš		1	356,365,381,411,416,423,424,437,453,465,495,501,539
+3076	SIMČÁK Peter	zomrel	1	306,374,376,404,423,424,495,501,524
+3076	SIMČÁK Šandor	zomrel	1	330
+3076	SIMČÁKOVÁ Anna		1	416
+3076	SIMČÁKOVÁ Anna	2	1	356,381,411,423,424,437,453,465,495,501
+3076	SIMČÁKOVÁ Anna	r.Janová,zomrela	1	330
+3076	SIMČÁKOVÁ Anna	zomrela	1	332
+3076	SIMČÁKOVÁ Anna	zomrela,Ladomírova	1	412,414
+3076	SIMČÁKOVÁ Helena	zomrela	1	330,332
+3076	SIMČÁKOVÁ Júlia	zomrela	1	332
+3076	SIMČÁKOVÁ Mária	zomrela	1	410
+3076	SIMČÁKOVÁ Paraska	zomrela	1	332,365,539
+3076	SPOLOK Bratov	Spolok bratov sv.Iova Počajev	1	412,414
+3076	ŠIMČOVÁ Helena	r.Cuperová,zomrela	1	403
+3076	ŠIROKÁ Mária	Punda	1	412,414
+3076	ŠIROKÝ Michal	Punda	1	412,414
+3076	ŠKURLA Juraj	zomrel	1	412,414
+3076	ŠKURLA Michal	zomrel	1	412,414
+3076	ŠKURLA Peter		1	412,414
+3076	ŠKURLA Peter	Facák	1	412,414
+3076	ŠKURLA Vasiľ		1	412
+3076	ŠKURLA Vasiľ	2	1	412,414
+3076	ŠKURLOVÁ Ilona	Facáková	1	412,414
+3076	ŠKURLOVÁ Mária	r.Krišková	1	412,414
+3076	ŠKURLOVÁ Mária	r.Krivková	1	412,414
+3076	ŠOSTEKOVÁ Mária	r.Pajkošová,zomrela	1	377,423,424,495,501
+3076	ŠTEFANISKOVÁ Helena	r.Simčáková	1	365,437,453,539
+3076	ŠTURÁKOVÁ Anna	r.Vachnová manž.Peter	1	412,414
+3076	TELATNIK Juraj	zomrel	1	412,414
+3076	TEĽATNÍKOVÁ Helena	r.Simčáková	1	306,309,381,396,410,411,423,424,426,427,454,495,496,501,502,515,517,526
+3076	VANASOVÁ Mária	r.Vachnová manž.Demeter ,zomrela	1	412,414
+3076	VANCOVÁ Anna	zomrela	1	412,414
+3076	VANCOVÁ Júlia		1	412,414
+3076	VARGA Ján	zomrel	1	412
+3076	VARGOVÁ Anna	r.Simčaková	1	374,423,424,495,501,524
+3076	VARGOVÁ Ilona	r.Vachnová manž.Adam ,zomrela	1	412,414
+3076	VARGOVÁ Paraska	r.Simčáková,zomrela	1	313
+3076	VARCHULA Vasiľ	syn Michala	1	412,414
+3076	VARCHULOVÁ Anna	dcéra Michala	1	412,414
+3076	VARCHULOVÁ Helena	dcéra Michala	1	412,414
+3076	VARCHULOVÁ Mária	dcéra Michala	1	412,414
+3076	VARCHULOVÁ Mária	r.Bziková manž.Ján	1	412,414
+3076	VASČINKOVÁ Mária	r.Simčaková	1	374,423,424,495,501,524
+3076	VASILENKOVÁ Anna	r.Lažová manž.Ján	1	412,414
+3076	VASILENKOVÁ Juliana	r.Vancová	1	412,414
+3076	VODILOVÁ Mária	r.Litváková	1	412,414
+3076	ZUKOVIČOVÁ Helena	r.Pasnišinová	1	412,414
+3076	ZUKOVIČOVÁ Helena	r.Pasnišinová manž.Michal ,zomrela	1	412,414
+3076	ŽELIZŇÁKOVÁ Paraska	r.Simčáková	1	306,309,381,396,410,411,423,424,426,427,454,495,496,501,502,515,517,526
+3076	ŽIŽÁK Andrej	zomrel	1	412
+3076	ŽIŽÁKOVÁ Anna	r.Vancová,zomrela	1	412,414
+3076	ŽUKOVIČOVÁ Helena	r.Pasnišinová,zomrela	1	421
+3077	ADAMKÓ František, SK		0	1172,1437,1641,1718,2391,2480,2577,2630
+3077	ADAMKÓ Ján, SK		0	1437,1718,2662
+3077	ADAMKÓ Jozef, SK		0	1172,1437,1641,1718,2353,2391,2480
+3077	ADAMKÓ Július, SK		0	695,1178,1179,1180,1181,1293,1331,1829,2590
+3077	ADAMKÓ Juraj, SK		0	2560
+3077	ADAMKÓ Ľudovít a Rozália Adamková r. Vedrödyová, SK		0	2469
+3077	ADAMKÓ Ľudovít, SK		0	1437,1718
+3077	ADAMKÓ Štefan, SK		0	1641,2391
+3077	ADAMKOVÁ Hermína, SK		0	2681
+3077	ADAMKOVÁ Irena, SK		0	1437,1718
+3077	ADAMKOVÁ Jolana, SK		0	2012,2636
+3077	ADAMKOVÁ Margita, SK		0	1228,1230,2105,2391,2480,2509,2590
+3077	ADAMKOVÁ Mária, SK		0	1172,1440,1441,1448,1511,1687,2925
+3077	ADAMKOVÁ Rozália r. Takácsová, SK		0	2391,2480
+3077	ADAMKOVÁ Rozália, SK		0	1227,1228,1230,1454,2038,2405

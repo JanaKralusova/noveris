@@ -1,0 +1,23 @@
+b70		msr3
+b70b		mssx
+b70c		mst1
+b70d		mst4
+b70e		mssu
+b71		amh5,c69r
+b715		ivdu,1
+b72		kaxe
+b73		1zf7,kte8
+b73b		21u6
+b74		o803,60pk
+b75b		n19t
+b77	lczv	n1jb
+b78		89ml,lz07
+b78g		n1gj
+b79		u8ie
+b79b		n13w
+b79f		mssb
+b7a		n13f,83
+b7b		ppvd
+b7c		n1nd
+b7d		n1jc
+b7e		n1a9

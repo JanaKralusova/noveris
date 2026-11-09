@@ -1,0 +1,256 @@
+1523	Šalamonová Katarína r. Vasová		0	875
+1523	Šikúr Jozef r. Šikúr		0	145,149,151,173,278,279,280,665,666,671,786,875,926,939,972,1067
+1523	Šikúr Ondrej r. Šikúr	maloletý v r. 1926	0	939
+1523	Šikúr Štefan r. Šikúr		0	145,149,151,173,278,279,280,665,666,671,786,875,926,1067
+1523	Šikúr Štefan r. Šikúr	maloletý v r. 1926	0	939,972
+1523	Šikúrová Anna r. Šikúrová		0	145,149,151,173,278,279,280,665,666,671,875,926,939,972,1067
+1523	Šikúrová Ema r. Šikúrová		0	145,149,151,173,278,279,280,665,666,671,875,926,1067
+1523	Šikurová Emma r. Šikurová	maloletá v r. 1926	0	939,972
+1523	Šikurová Helena r. Lázaiová		0	875
+1523	Šoltészová Magdaléna r. Bollová		0	820
+1523	Šoltészová Magdaléna r. Šoltészová		0	871,875
+1523	Štefanová Anna r. Turcsanyiová		0	195
+1523	Tamášová Helena r. Tamášová		0	875
+1523	Tatárová Anna r. Emodiová	manž. Juraj	0	216,222,223,265,266,804
+1523	Tatárová Anna r. Emödiová	manž. Juraj; manž. Juraj	0	81
+1523	Telecká Julia r. Annová		0	45
+1523	Telecká Juliana r. Annová		0	473,477,479,505,875,892,895,964
+1523	Telecká Magdolna r. Bodnár	m. Imrich	0	875
+1523	Telecká Mária r. Szappanosová	manž. Ján	0	231,808,875,924
+1523	Telecki Jozef r. Telecki		0	667,811,875,930
+1523	Teleczká Barbora r. Emodiová		0	842,875
+1523	Teleczká Júlia r. Annová		0	506,891
+1523	Teleczká Juliana r. Annová		0	875,887,973
+1523	Teleczká Juliana r. Máté		0	875
+1523	Teleczká Mária r. Szappanosová		0	380,809,813,820,875
+1523	Teleczki Imrich r. Teleczki		0	378,380,809,875
+1523	Teleczki Ján r. Teleczki		0	380,468,842,875
+1523	Teleczki Jozef r. Teleczki	Lipovník č. 3915	0	237,561,813,815,818,820,875,924
+1523	Teleczky Gejza r. Teleczky		0	875
+1523	Teleczký Jozef r. Teleczký		0	966
+1523	Teleczký Július r. Teleczký	maloletý v r. 1943	0	875,966
+1523	Temesiová Mária r. Šikurová		0	231,530,875
+1523	Tencsová Rozália r. Hajdúová		0	875
+1523	Tothová Mária r. Kiszleyová		0	875
+1523	Tóthová Mária r. Lukoová		0	131,132,134,786,788,822,875
+1523	Turcanyiová Anna r. Turcanyiová		0	195,976
+1523	Turcsányi Emma r. Turcsányi	maloletá v r. 1906	0	875
+1523	Turcsányi Ľudovít r. Turcsányi	maloletý v r. 1925	0	976
+1523	Turcsanyiová Anna r. Turcsanyiová	maloletá v r. 1925	0	249
+1523	Turczanyiová Mária r. Mátéová		0	562
+1523	Vajner Ľudovít r. Vajner		0	875
+1523	Vasová Mária r. Kovács	mal. v r. 1911, manž. Ján	0	875
+1523	Vass Gejza r. Vass		0	163,195,249
+1523	Vass Ladislav r. Vass		0	954
+1523	Vassová Magdaléna r. Turcsanyiová	prvý manž. Ondrej Vass	0	163,195,249,875,965,976,1012
+1523	Vaš Ondrej r. Vaš		0	976
+1523	Viglašský Kamil r. Viglašský		0	966
+1523	Vislai František r. Vislai		0	494
+1523	Vyslay Ján r. Vyslay		0	332,853,875
+1523	Vyslay Jozef r. Vyslay		0	332,494,853,875
+1523	Weisova Juliana r. Weisova		0	265
+1523	Zalányiova Mária r. Ambrúžová		0	60,875
+1523	Zsáry Ján r. Zsáry		0	934
+1523	Zsáry Jozef r. Zsáry		0	934
+1523	Zsáry Ladislav r. Zsáry	malol. v r. 1928	0	934,967
+1523	Zsori Jan r. Zsori		0	564
+1523	Zsoriová Anna r. Bollová		0	815
+1523	Zsory Ján r. Zsory		0	318,321,839,875,935,967
+1523	Zsory Jozef r. Zsory		0	318,321,839,875,935,967
+1523	Zubriczká Júlia r. Bollová	m. Štefan	0	875,885,971
+1524	Allman Adolf, ž.Mária Dobáková ž.Mária Dobáková		0	776
+1524	Allmanová Mária r. Dobáková		0	984
+1524	Alman Adolf, Husárovie Husárovie		0	776
+1524	Alman Anton		0	984
+1524	Alman Ján		1	368,920
+1524	Alman Matej		1	377,589,593
+1524	Alman Matúš		1	378,379,385,386,403,410,996
+1524	Almanová Božena r. Dančíková		0	998
+1524	Almanová Ema		1	276,313,368,991
+1524	Almanová Ema, Husárovie Husárovie		0	775
+1524	Almanová Mária		1	256,359,377,385,386,410,451,589,593,955
+1524	Almanová Mária	Husárovie	1	593
+1524	Almanová Mária r. Savornochová		1	593
+1524	Almanová Mária, Husárovie Husárovie		0	984
+1524	Almanová Zuzana		1	368,845
+1524	Almanová Žofia r. Zbavitelová		1	386,996
+1524	ARGALÁŚ JOZEF, s.č. 110, KALAMENY, SR		0	588
+1524	Argalášová Helena r. Likavcová		1	588
+1524	Babková Mária r. Almanová		1	368,931
+1524	Bačík Koloman		1	588
+1524	BAČÍK VILIAM		1	588
+1524	Balko Anton		1	588
+1524	Balko Eduard, ml.		1	582,588
+1524	Balko Emil		1	582,588
+1524	Baran Matúš		1	588
+1524	Baran Rudolf		1	588
+1524	Baranová Anna		1	588
+1524	Baranová Anna r. Gondová, neb.zomr.	17.3.1974	0	579,588
+1524	Baranová Mária		1	588
+1524	Bellová Mária r. Sviteková		1	377,378,379,381,385,386,402,410,702,996
+1524	Bellová Zuzana r. Šikulová		1	593
+1524	Benický Tomáš, ml.		1	593
+1524	Blchová Elena r. Šimková		1	313,361,415,743,852
+1524	Blchová Ilona		0	864,865
+1524	Blchová Ilona r. Šimková		1	313,361,415,743,841,842
+1524	Bobčeková Anna r. Kusá		1	588
+1524	Bobrovnická Antónia r. Gnotová		1	593
+1524	Bobrovnická Terézia		1	589,593
+1524	Bobrovnický Samuel		1	589,593
+1524	Bohuš Pavol	ž.Emília Krivošová	1	589,593
+1524	Bohuš Pavol, ž.Emília Krivošová ž.Emília Krivošová		0	992
+1524	Bohušová Emília r. Krivošová		1	589,593,992
+1524	Brčík Anton		1	588
+1524	Brčík Vincent		1	588
+1524	Breščík Medard	ml	1	588
+1524	Breščíková Katarína		1	588
+1524	Breščíková Margita		1	588
+1524	Bukovenová Emília r. Sokolová		1	588
+1524	Bukovenová Eva r. Kušiaková		1	588
+1524	Bukovinská Emília r. Mešková		0	987
+1524	Bukovinská Kornélia		0	827,828
+1524	Bukovinská Kornélia r. Almanová		0	995
+1524	Bukovinská Mária r. Almanová		0	995
+1524	Bukovinský Eduard		1	589,593,941
+1524	Bukovinský Jozef		1	589,593
+1524	Bukovinský Peter Pavol		0	772
+1524	Bukovinský Peter, Uhrovie Uhrovie		0	987
+1524	Bukovinský Vendelín		1	589,593,889
+1524	Bursová Agneša r. Brčíková		1	588
+1524	Bursová Žofia r. Krajčiková		1	583,588
+1524	Černovská Oľga		1	588
+1524	Červenková Anna r. Petrčková		1	588
+1524	Datel Ján	Garaj	1	588
+1524	Devoš Juraj, ž.Mária Dobáková ž.Mária Dobáková		0	984
+1524	Devošová Mária r. Dobáková		0	984
+1524	Dobák Adolf		1	316,589,593,776
+1524	DOBÁK ADOLF r. DOBÁK, NAPOSLEDY BYTOM LIPTOVSKÁ ANNA, SR	ZOMREL 15.1.1953	0	641
+1524	Dobák Alexander		1	401,793
+1524	Dobák Andrej		1	267,291,589,593,991
+1524	Dobák Bedrich		1	275,282,297,316,318,359,451,898,899
+1524	Dobák Berco		0	984
+1524	Dobák František		1	267,291,589,593,813
+1524	Dobák Fridrich		1	589,593
+1524	DOBÁK FRIDRICH	ĎURICOVIE	1	256,377,385,386,410,451
+1524	Dobák Fridrich, Pavlovie,ž.Žofia Dobáková Pavlovie,ž.Žofia Dobáková		0	991
+1524	Dobák Fridrich, SR, Ďuricovie, nar. 10.3.1889 Ďuricovie, nar. 10.3.1889		0	795,796
+1524	Dobák Gustáv		0	973
+1524	Dobák Ján		1	589,593
+1524	Dobák Ján, Vendušovie Vendušovie		0	876
+1524	Dobák Jozef		1	589,593,671
+1524	Dobák Jozef	Vendušovie	1	267,291,401,589,593
+1524	Dobák Jozef, Vendušovie 1 Vendušovie 1		0	791
+1524	Dobák Jozef, Vendušovie Vendušovie		0	874
+1524	Dobák Juraj		0	991
+1524	Dobák Juraj, Pavlovie Pavlovie		0	991
+1524	Dobák Karol		0	970
+1524	Dobák Koloman, Pavlovie ml. Pavlovie ml.		0	784
+1524	Dobák Koloman, Pavlovie st. Pavlovie st.		0	784
+1524	Dobák Ľudovít		1	275,282,297,794
+1524	Dobák Mikuláš		1	275,282,297,887
+1524	DOBÁK ONDREJ	ZOMR. 10.8.1997	0	593
+1524	Dobák Peter		1	589,593
+1524	Dobák Peter	Eliás	1	283
+1524	Dobák Peter Ján		1	589,593
+1524	Dobák Peter, Eliás Eliás		0	965,966
+1524	Dobák Vendelín		1	267,291,589,593,925
+1524	Dobák Vladimír		1	835,836,1091
+1524	Dobáková Berta r. Dobáková		1	303
+1524	Dobáková Bez mena	vd.po Fridrichovi	1	589,593
+1524	Dobáková Emília		1	589,593
+1524	Dobáková Ilona		1	267,275,282,291,297,961
+1524	Dobáková Ilona r. Matiašovská		1	589,593,769,890
+1524	Dobáková Jolana		0	774,909
+1524	Dobáková Jolana, SPF		1	457
+1524	Dobáková Jozefína, SPF		1	589,593
+1524	Dobáková Kamila r. Almanová		0	815
+1524	Dobáková Klementína		0	774,877
+1524	Dobáková Klementína, SPF		1	283,589,593
+1524	Dobáková Mária		0	984
+1524	Dobáková Mária, SPF		1	267,291,589,593
+1524	Dobáková Ružena		0	905
+1524	Dobáková Ružena, SPF		1	275,282,297
+1524	Dobáková Terézia r. Almanová, SPF		1	589,593
+1524	Dobáková Žofia		0	984
+1524	Dobáková Žofia, SPF		1	267,291,589,593
+1524	Domiter František		1	588
+1524	Domiterová Anna		1	588
+1524	Domiterová Jarmila		1	588
+1524	Domiterová Mária		1	588
+1524	Domiterová Mária r. Pondušová		1	588
+1524	Dorníková Emília		1	588
+1524	Droppa Ján, Jančovie Jančovie		0	775
+1524	Droppa Ján, ž.Johana Bohušová ž.Johana Bohušová		0	775
+1524	Droppa Matej		1	589,593
+1524	Droppová Johana r. Bohušová		0	775
+1524	Droppová Mária r. Uhrínová		1	593
+1524	Droppová Oľga r. Sokolová,  50, Potok, PSČ 034 83, zomrela v roku 1993 zomrela v roku 1993		0	770
+1524	Drušková Melánia r. Saláková		1	588
+1524	Duchovná Mária r. Sokolová		1	588
+1524	Dulačka Michal r. Dulačka, zomr. 15.1.1953, Bukovina, SR		0	589,593
+1524	Fakan Ján	ml	1	588
+1524	Fakan Jozef	ml	1	588
+1524	Fakan Ondrej	ml	1	588
+1524	Fakanová Zuzana r. Lubehová		1	588
+1524	Fehérpataky Bedrich		1	256,260,265,266,272,273,274,282,300,589,593,809
+1524	FERO Peter, 034 82, Kalameny, č. 34, SR		0	588
+1524	Fliegová Lucia r. Šavrnochová		1	586,588
+1524	Garajová Anna r. Puťková		1	578,579,588
+1524	Garajová Dionýzia r. Pažítková	Ďatelová r.,m.Ján	1	588
+1524	Gaško Adam		1	589,593,985
+1524	Gaško Andrej		1	589,593,981
+1524	Gaško Ján		1	589,593,984
+1524	Gaško Jozef		1	589,593,981
+1524	Gaško Juraj		1	589,593,981
+1524	Gaško Mikuláš		1	589,593,981
+1524	Gaško Peter		1	589,593,981
+1524	Gašková Ilona		1	589,593,984
+1524	Gašková Júlia		1	589,593,985
+1524	Gašková Kornélia		0	984
+1524	Gašková Štefánia		1	589,593,984
+1524	Gašková Vladimíra		1	589,593,984
+1524	Gašková Zuzana		1	589,593,985
+1524	Gašparová Oľga r. Saláková, Drusková		1	588
+1524	Gejdoš Peter r. Gejdoš, zom.22.10.1966 zom.22.10.1966		0	770
+1524	GNOTHA Jozef, Ing.		1	582,588
+1524	GNOTHA Pavol		1	582,588
+1524	GNOTHOVÁ Emília		1	582,588
+1524	GREGUŠOVÁ Angela r. Krakovská		1	588
+1524	Grobarčíková Johana r. Hovorková		1	588
+1524	Guoth Jozef		1	588
+1524	Guoth Pavol		1	588
+1524	HADANIAKOVÁ ILONA r. DOBÁKOVÁ	ZOMRELA	0	641
+1524	Halašová Ema r. Sokolová		0	843
+1524	Hillová Zuzana r. Močaryová		1	588
+1524	Horníčková Vilma		0	851
+1524	Hourková Žofia r. Vicianová		1	588
+1524	Hudecová Terézia r. Sviteková		1	589,593
+1524	Húska Štefan		1	588
+1524	JANČEK Matej		1	588
+1524	JANČEK Peter		1	588
+1524	Jančeková Anna r. Lojkovičová, m.Peter		1	588
+1524	Jandura Ján		1	588
+1524	Jandura Metod	Kramár	1	588
+1524	Jandura Probáse	Gerváse	1	588
+1524	Jandurová Agneša		1	588
+1524	Jandurová Anna		1	588
+1524	Jandurová Helena r. Slivková	Kačinová	1	588
+1524	Jánošová Agneša r. Todeková, m.Matej		1	588
+1524	JEŽÍK JURAJ		1	614
+1524	Juríčka Jozef	ž.Dorota Gondová	1	589,593
+1524	Kalnovičová Emília r. Krakovská		1	588
+1524	Karaska Ján r. Karaska, 032 23, Liptovská Sielnica, č. 60, SR	zomrel 11.9.2009	0	618
+1524	Karaska Ján, AMERIKA		1	618
+1524	KARASKA Matej		1	618
+1524	Karasková Zuzana r. Malíková	MANŽ.KARASKA ŠTEFAN	1	618
+1524	Karasková Zuzana, choromyselná		1	618
+1524	Karasková Zuzana, mal.		1	618
+1524	Kiktová Anna		0	991
+1524	Kiktová Mária		0	991
+1524	Kilian Otakar		1	588
+1524	Kilianová Cecília r. Odrazilová		1	588
+1524	Klocháň Vendelín	ž.Žofia Kucbelová	1	588
+1524	Klocháňová Žofia r. Kucbelová		1	588
+1524	KLUČKOVÁ MÁRIA R.KRIŠTOFÍKOVÁ		1	614
+1524	KMEŤ JÁN I. r. KMEŤ		1	616
+1524	KMEŤ PETER r. KMEŤ I		1	616

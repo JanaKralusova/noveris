@@ -1,0 +1,256 @@
+2533	PANČI Emil		0	19688
+2533	PANČI Filip		0	19688,21010
+2533	PÁNČI Ján	najst	0	10919
+2533	PÁNČI Ján	st. zomrel	0	6699,17993
+2533	PÁNČI Jozef	ml	0	6812,17498,17895
+2533	PÁNČI Jozef	st	0	10763,10764,10855,19700
+2533	PÁNČI Jozef	st. zomrel	0	6706,6824,6829,8416
+2533	PÁNČI Matúš	st	0	10919
+2533	PÁNČI Matúš	syn st	0	10919
+2533	PANČI Ondrej		0	20532
+2533	PÁNČI Ondrej	najst	0	10919
+2533	PÁNČI Ondrej	st	0	10763,10764,10855
+2533	PÁNČI Ondrej	st. zomrel	0	6723,6824,6829,8416,17498,19700
+2533	PÁNČI Peter	st	0	10735,10903,10904
+2533	PÁNČI Štefan	ml. zomrel	0	7959,8376,18144,18456,20562,21729,22654
+2533	PÁNČI Štefan	st	0	10919
+2533	PANČÍNOVÁ Anna r. Škanderová		0	11545
+2533	PÁNČIOVÁ Anna	r.Zopčiaková zomrela	0	8445,8446
+2533	PÁNČIOVÁ Anna r. Hýravá	zomrela 17.7.2004	0	17676,18004,18857,18912,19735
+2533	PANČIOVÁ Anna r. Magová		0	19646
+2533	PÁNČIOVÁ Anna r. Zopčiaková	zomrela	0	10735,10903,10904,17832,17840,17841,17993,18839,21964
+2533	PÁNČIOVÁ Emília	r.Jánošová Kašajová zomrela	0	7402
+2533	PÁNČIOVÁ Irena		0	17257,17999
+2533	PÁNČIOVÁ Kamila	r.Oravcová zomrela	0	8241
+2533	PÁNČIOVÁ Kamila r. Oravcová	zomrela	0	21142
+2533	PÁNČIOVÁ Kamila r. Oravcová	zomrela 7.1.1994	0	17217,17351,17890,19720,21010
+2533	PÁNČIOVÁ Katarína	r.Jančiarová Kulasová	0	7660
+2533	PÁNČIOVÁ Margita	zomrela	0	10735,10903,10904
+2533	PÁNČIOVÁ Mária	r.Jančiarová zomrela	0	7322,7566,23532
+2533	PÁNČIOVÁ Mária	r.Kenderová	0	6746
+2533	PÁNČIOVÁ Mária	r.Magová Furmanová zomrela	0	8155,8202
+2533	PÁNČIOVÁ Mária r. Jančiarová		0	7334,18371,19134,21892,22005
+2533	PÁNČIOVÁ Mária r. Jančiarová	zomrela	0	10947
+2533	PANČIOVÁ Mária r. Magová		0	17941
+2533	PÁNČIOVÁ Mária r. Magová	r. Furmanová zomrela	0	11129
+2533	PÁNČIOVÁ Mária r. Magová	r. Furmanová zomrela 1.2.1952	0	18069
+2533	PÁNČIOVÁ Mária r. Magová Furmanová	zomrela	0	11075
+2533	PÁNČIOVÁ Terézia r. Murárová	zomrela	0	10735
+2533	PÁNČIOVÁ Viktória		0	6812
+2533	PÁNČIOVÁ Zuzana	r.Mišutková	0	8416
+2533	PÁNČIOVÁ Zuzana r. Cecková	zomrela	0	10763,10764,10855,19700
+2533	PANEK Ján	zomrel	0	8894
+2533	PANEKOVÁ Mária r. Trličaková		0	19288
+2533	PÁNISOVÁ Berta r. Smiešková		0	10496,13946
+2533	Panštiar Juraj	Hlačina	0	10094,10378,10380
+2533	PANŠTIAR Juraj	Hlačina, zomrel	0	20463
+2533	PANŠTIAR Matúš	Hlačina	0	10094,10378,10380
+2533	PANŠTIAR Matúš	Hlačina, zomrel	0	20463
+2533	PANŠTIAR Pavol	Hlačina	0	9156
+2533	PANŠTIAROVÁ Mária	r.Cibulková	0	9166
+2533	PANŠTIAROVÁ Mária r. Cibulková		0	19113,20339,20537
+2533	PANUŠKOVÁ Johana	r.Cecková zomrela	0	6907
+2533	PANUŠKOVÁ Johana r. Cecková	zomrela	0	17498
+2533	PAPARČÍK Anton		0	11545
+2533	PAPARČÍK Ján		0	11545
+2533	Papčo Ján	zomrel	0	10482,20266,20839
+2533	PAPČO Ján	Janiga	0	14769,17073,17076,17425,17741,19562,20615,20619
+2533	Papčo Ján, Janiga Janiga		0	23858
+2533	Papčo Juraj	zomrel	0	10482
+2533	PAPČO Leopold	Janiga	0	10532
+2533	PAPČO Leopold	Janiga zomrel	0	9561,9746,9790,10120,10250
+2533	PAPČO Leopold	zomrel 7.11.1975	0	19856,20615
+2533	PAPČO Miloslav		0	17223
+2533	Papčová Mária r. Cmarková		0	10449
+2533	PAPÚCH Ján	zomrel	0	19777
+2533	PAPÚCH Móric		0	19777
+2533	PAPÚCH Štefan	zomrel	1	6747,8034,19777
+2533	PAPUCHOVÁ Helena	r.Konderíková zomrela	0	6900,8440
+2533	PAPUCHOVÁ Helena r. Konderíková	zomrela	0	11219,11220,18022,20539,21405
+2533	PAPÚCHOVÁ Helena r. Konderíková	zomrela 5.9.1979	0	18073,18074
+2533	PAPUCHOVÁ Justína	r.Flochová Sládoková	0	8148
+2533	PAPUCHOVÁ Justína r. Sládoková	r.Flochová	0	17535
+2533	PAPUCHOVÁ Katarína r. Kendierčáková	zomrela	0	10557
+2533	Papuchová Vilma	dát. nar. 24.01.1947	0	21179
+2533	PARAČKOVÁ Alojzia r. Mydliarová		0	11426
+2533	PÁRIČKA Ján		0	21272
+2533	PÁRIČKOVÁ Elena r. Burjanová	vd	0	21272
+2533	PARIESKOVÁ Helena	r.Burianová	0	7095,7103
+2533	PASTUCH Alex		0	17976
+2533	PASTUCHA Andrej		0	18057
+2533	PASTUCHA Anton	zomrel	0	7671,7702,7831,18057
+2533	Pastucha Dominik r. Pastucha		0	22418
+2533	PASTUCHA Elek	st. zomrel	0	8346,17184,19665,19666
+2533	PASTUCHA Emil	zomrel 22.10.1966	0	17701
+2533	PASTUCHA Fridrich	zomrel	0	7671,7702,7831,8274
+2533	PASTUCHA Fridrich	zomrel 17.1.1975	0	18057
+2533	PASTUCHA Gustáv		0	6839,6841,18057
+2533	Pastucha Jozef	ml. zomrel	0	6904,7296,8231,8234,18612,23961
+2533	PASTUCHA Jozef		0	17735,19665,19666,20303,22131
+2533	PASTUCHA Jozef	st. zomrel	0	19884
+2533	PASTUCHA Jozef	stredný	0	7101,7102
+2533	PASTUCHA Konštantín		0	19884
+2533	PASTUCHA Martin	zomrel 9.6.2000	0	17679,17690
+2533	PASTUCHA Michal	zomrel	0	10751
+2533	PASTUCHA Peter	zomrel	0	6977,7671,7702,7831
+2533	PASTUCHA Peter	zomrel 4.11.1975	0	18057,18860
+2533	PASTUCHA Štefan	ml	0	6839,7871,18311
+2533	PASTUCHA Štefan	st. zomrel	0	7671,7702,7831,18057
+2533	PASTUCHA Štefan	stredný	0	7674,7847,20273
+2533	PASTUCHA Vendelín	zomrel	0	7671,7702,7831,18057
+2533	Pastuchová Antónia r. Oravcová		0	17633,19580
+2533	Pastuchová Antónia r. Oravcová	Biely Potok 169, Ružomberok,zomr. 17.5.1960	1	6778
+2533	PASTUCHOVÁ Aurélia r. Rohulková	zomrela 24.6.1994	0	17787
+2533	PASTUCHOVÁ Cecília	r.Kubinová	0	7303,7310,7539,7674,7677,7871,23267
+2533	PASTUCHOVÁ Cecília r. Kubinová		0	7304,18311,19969,21420,21886
+2533	PASTUCHOVÁ Helena	r.Bodorová zomrela	0	7296
+2533	PASTUCHOVÁ Helena r. Kondíková		0	17702,17708
+2533	PASTUCHOVÁ Helena r. Macková	zomrela 22.11.2004	0	17679,17690,17701
+2533	PASTUCHOVÁ Margita	r.Oravcová zomrela	0	6837,6896,6902,8184
+2533	PASTUCHOVÁ Margita r. Oravcová	zomrela 19.11.1983	0	17856,17909,23179
+2533	PASTUCHOVÁ Mária	mal	0	17173
+2533	PASTUCHOVÁ Mária	r.Moyšová	0	7093,7095,7102,7103
+2533	PASTUCHOVÁ Mária r. Kubinová		0	15965
+2533	PASTUCHOVÁ Mária r. Paceková		0	18860
+2533	PASTUCHOVÁ Perpetua r. Barancová	zomrela 23.10.1996	0	14357,17158
+2533	PASTUCHOVÁ Zuzana r. Fokušková		0	17976
+2533	PÁTEK Anton		0	14357,17158
+2533	PATKA Peter		0	19147
+2533	PATKOVÁ Mária r. Glassová		0	19147
+2533	PATYKOVÁ Ilona		0	18642
+2533	Paule Darina r. Vlkolinska, 971 01, Prievidza, SR	zom. 10.6.2007	0	17510,21085
+2533	PAULINYOVÁ Anna r. Barbušová	zomrela	0	11545
+2533	PAUŠLY Ondrej		0	21227
+2533	PAUŠLYOVÁ Anna r. Majerská	zomrela 20.12.2001	0	19759
+2533	PAUŠLYOVÁ Eva r. Oberučová		0	21227
+2533	PAVČÍK Ján		0	17439
+2533	PAVLÍKOVÁ Anna r. Hatalová		0	10897,11672,11688,21055,21595
+2533	Pavliny Andrej		0	17141
+2533	PAVLOVÁ Helena r. Smiešková		0	21020
+2533	PAVLU Zdenko		0	17508
+2533	PAVLUOVÁ Zdenka r. Vymetalová		0	17508
+2533	PAVOLOVÁ Agneša	r.Smiešková zomrela	0	8614
+2533	PAVOLOVÁ Agneša r. Smiešková	zomrela	0	10512,14831,16986,16987,17462,17487,17539,17545,17916,18121,18478,18696,19088,19503,19627,19637,20127,20179,20278,20375,20376,20421,20422,20427,20447,20519,20644,20661,20783,20790,20830,22186,22772
+2533	PAŽITKA Jozef		0	11545
+2533	PAŽITKA Ladislav		0	11545
+2533	PAŽITKA Marián		0	11545
+2533	PAŽÍTKA Matej		0	8574
+2533	PAŽITKA Milan		0	11545
+2533	Pažítka Štefan		0	10145,10326
+2533	PAŽITKA Vincent		0	11545
+2533	PAŽÍTKOVÁ Antónia	r.Brokutová	0	8706,8899,9191,9538,10063,10254
+2533	Pažítková Antónia r. Brokutová		0	10289,14863,14867,18034,18677,20814,21901
+2533	Pažítková Irena r. Laclavíková, naposledy bytom 105, Štiavnička, PSČ 034 01, SR	neb.,zomrela 2.1.2002	0	8594,8635
+2533	PAŽÍTKOVÁ Justína	r.Rázgová	0	8573,8574,8630
+2533	PAŽITKOVÁ Margita		0	11545
+2533	PAŽÍTKOVÁ Mária		0	7095,7103
+2533	PAŽÍTKOVÁ Mária	r.Kubinová	0	7539,23267
+2533	PAŽÍTKOVA Mária r. Kubinová		0	15965
+2533	PAŽITNÁ Anna	zomrela 9.5.1986	0	19398
+2533	Pecko Ján	ml	0	12953
+2533	PECKOVIČ Vasil	manž. Adela r.Hatalová Komendová	0	17293
+2533	PEČNER Dušan	zomrela 23.4.2003	0	19586,19967,21587
+2533	Pečner Dušan, zomrela 23.4.2003 zomrela 23.4.2003		0	23858
+2533	PEČNEROVÁ Lukrécia	r.Šnauková	0	8623,8625
+2533	PEČNEROVÁ Lukrécia r. Šnauková		0	18675,19010,19331,19348,20095,20299,20372,20476,20775,20797,21586,23661
+2533	PEKÁR Jozef		0	11359,11360,11392,11432
+2533	PEKÁR Tomáš		0	11284
+2533	PEKÁROVÁ Magdaléna r. Ťupeková		0	11311
+2533	PEKÁROVÁ Terézia r. Hlačová		0	11360
+2533	PENCIAKOVÁ Anna r. Šantová		0	11545,11793
+2533	PENCIAKOVÁ ONDREJOVA Anna r. Šantová		0	11545
+2533	PENCIAKOVÁ RUDOLFOVA Anna r. Šantová		0	11545
+2533	PEŠKO Eugen		0	7330,8311,8427,9751,10739,16748,16751,19959,19974,19975
+2533	PEŠKO František		0	19975
+2533	PEŠKOVÁ Helena		0	7330,8311,8427,9751,10739,16748,16751,19959,19974,19975
+2533	PEŠKOVÁ Irena	r.Kenderová	0	6720
+2533	PEŠKOVÁ Irena r. Kenderová		0	20774
+2533	PEŠKOVÁ Margita		0	7330,8311,8427,9751,10739,16748,16751,19959,19974,19975
+2533	PEŠKOVÁ Mária	r.Kubinová Mišíková	0	6734,7630
+2533	PEŠKOVÁ Mária r. Mišíková	r.Kubinová	0	18397
+2533	PEŠKOVÁ Perpeta	r.Hlinková	0	8311,8427,9857
+2533	PEŠKOVÁ Perpeta r. Hlinková		0	7330,10739,11063,16748,16751,19959,19974,19975
+2533	Petho Fridrich, SR		0	14781
+2533	PETHO Karol	zomrel	0	7524,7526,7556
+2533	PEŤKO Jozef		0	18578
+2533	PEŤKO Jozef	Balún	0	18578
+2533	PEŤO Anton		0	10010
+2533	Peťo František	zomrel	0	10280
+2533	Peťo Ján		0	10485
+2533	Peťo Matej	zomrel	0	10280
+2533	PEŤO Ondrej	zomrel	0	8819,8984,9892,10315,16328,17103,17432,17560,19219,19299,20068,20161,20208,20553,20831,23005,23254,24165
+2533	Peťo Štefan	st	0	10296,10299,10329,10344,10485
+2533	PEŤO Štefan	ml	0	10010
+2533	Peťová Agneša		0	10280,10344,15814,17515,20553,20768,22274,22737
+2533	Peťová Alžbeta r. Ďurďová, zomrel 19.6.2004, zom.19.06.2004 zomrel 19.6.2004, zom.19.06.2004		0	23089
+2533	Peťová Cecília		0	10280,10344
+2533	Peťová Irena		0	10280,10344
+2533	PEŤOVÁ Katarína		0	10233,10485
+2533	PEŤOVÁ Katarína r. Smiešková	zomrela	0	20555
+2533	PEŤOVÁ Klára		0	10010
+2533	PEŤOVÁ Magdaléna		0	10010
+2533	PEŤOVÁ Mária	r.Kaliarová zomrela	0	8925
+2533	Peťová Mária Lýdia		0	10296,10299,10329,10344,10485
+2533	PEŤOVÁ Mária r. Kaliarová	r. Benčová, zomrela	0	17416,17435,18190,18191
+2533	PEŤOVÁ Mária r. Kaliarová	zomrela	0	21273
+2533	Peťová Rozália		0	10280,10344
+2533	Petrák Anton Ing.		0	21130
+2533	PETRÁK Ferdinand		0	17423,20749
+2533	PETRÁK Ladislav	ml	0	17215
+2533	PETRÁK Ladislav	zomrel 18.4.1992	0	17423
+2533	PETRÁKOVÁ Ilona		0	7268,8107
+2533	PETRÁKOVÁ Mária		0	17215,19614,21227
+2533	PETRÁKOVÁ Mária r. Baltisková	vd	0	18454
+2533	PETRÁKOVÁ Mária r. Šimková		0	17423,20749
+2533	Petrasová Marta r. Šulíková	zom. 27.08.1999	0	17697,18196,20053,20409,20428,20799,21695,23326
+2533	Petrasová Marta r. Šulíková, Gen. Štefánika 45, Kežmarok, SR	zomrela 27.8.1999	1	8946,9335,9963,15947,16220,22344,23322,23323,23324
+2533	PETRÁŠEK Koloman a PETRÁŠKOVÁ Margita r. Šípošová		0	21244
+2533	PETRO Andrej		0	11443
+2533	Petro Jozef		1	7093,7095,7101,7102,7103
+2533	Petro Jozef	st	1	7095,7101,7102,7103,11300,11638,11693
+2533	PETRO Ondrej	ml	0	11300,11693
+2533	PETRO Ondrej	st. zomrel	0	9068
+2533	PETRO Štefan	zomrel	0	8630,11607
+2533	PETROVÁ Anna	zomrela	0	11635
+2533	Petrová Anna r. Švošová	zomrela	0	11563
+2533	PETROVÁ Katarína	r.Moravčíková zomrela	0	7093,7095,7101,7102,7103
+2533	PETROVÁ Katarína r. Moravčíková	zomrela	0	10982
+2533	PETROVÁ Katarína r. Petrová		0	11444
+2533	PETROVÁ Mária	r.Dutková zomrela	0	9215
+2533	Petrová Mária r. Kajúchová		0	11553,11554,11556
+2533	PETROVÁ Mária r. Mačíková		0	18098
+2533	PETROVIČ Ján	Migra	0	7226
+2533	PETRŽELOVÁ Paulína r. Lányiová		0	19169
+2533	PETZOLDOVÁ Jolana r. Piačeková		0	20046
+2533	PFITZNEROVÁ Emilia		0	21227
+2533	Piecka Ján	ml	0	14159
+2533	PIECKA Ján	st	0	11142
+2533	Piecka Ján, SR		0	14781
+2533	Piecka Jozef, SR		0	14781
+2533	PIKLA Jozef		0	11545
+2533	PIKLA Karol		0	11545
+2533	PIKLOVÁ Katarína r. Chrenková		0	11545
+2533	PINCELOVÁ Mária		0	11545
+2533	PINCELOVÁ Mária r. Chovanová Kostolníková		0	11545
+2533	PINCELOVÁ Mária r. Chovanová Počtárová		0	11545
+2533	PINDURA Ján		0	10615
+2533	PINDURA Jozef		0	20859
+2533	PINDUROVÁ Alžbeta r. Hatalová		0	10615,11676
+2533	PINDUROVÁ Emilia r. Královenská		0	18531
+2533	PINDUROVÁ Mária		0	8840
+2533	PINNELOVÁ Aurelia r. Cárachová		0	22157
+2533	Piroh Bartolomej, SR		0	14781
+2533	Piroh Cyprián, SR		0	14781
+2533	Piroh Štefan, SR		0	14781
+2533	Pirohová Emília, SR		0	14781
+2533	PIROCH Ondrej		0	11118
+2533	PIROCH Štefan	zo Švošova	0	11118
+2533	PIROCHOVÁ Mária r. Babecová		0	11118
+2533	PIROCHOVÁ Mária r. Hatiarová		0	11118
+2533	PIROŠKOVÁ Helena r. Tryszcylová	zomrela 17.9.2004	0	17198
+2533	PIŠUT Cyril		0	19961
+2533	PIŠUT František		0	19961
+2533	PIŠÚTH Cyril		0	8486,17175,19011,19082,19964
+2533	PIŠÚTH František		0	8486,16042,17175,19011,19082,19964
+2533	PIŠÚTH Gustáv	ml	0	8488,8845
+2533	PIŠÚTH Gustáv	st	0	8844

@@ -1,0 +1,256 @@
+84	Zachar Martin		1	477
+84	Zachar Ondrej		1	477
+84	Zachar Štefan		1	477
+84	Zacharová Zuzana r. Gáspárová	m.Martin	1	477
+84	Zakhar Štefan		1	477
+84	Zakharová Apolonia r. Géreczová		1	477
+84	Zakharová Zuzana		0	571
+84	Zerola Pavol		1	477
+85	BAČIK Ján		1	624,631,679,741,750,751,752,762,851,1143
+85	BAČIK Šimon		1	624,631,679,741,750,751,752,762,939,1143
+85	BANICKÝ Ján		1	624
+85	Banický Ján, ž. Najsta r. Markovičová ž. Najsta r. Markovičová		0	1111
+85	BORIS Elek		1	439,624,679,741,750,751,752,762,889
+85	BORIS Fedor		1	624,626,679,741,750,751,752,762,1029
+85	BORIS Ján		1	624,626,679,741,750,751,752,762,1062
+85	BORIS Jozef		1	594,624,679,741,750,751,752,762,1108
+85	BORISOVÁ Anastázia		1	605,624,679,741,750,751,752,762
+85	Borisová Anastázia, dcéra Andreja dcéra Andreja		0	990
+85	BORISOVÁ Anna		1	624,626,679,741,750,751,752,762,1102
+85	BORISOVÁ Eva r. Juristová		1	605,624,679,741,750,751,752,762,925
+85	BORISOVÁ Mária		1	624,626,679,741,750,751,752,762,841
+85	BRINDA Demeter		1	487,1095
+85	BRINDA Eliáš		1	624,634,643,679,741,750,751,752,762,998
+85	BRINDA Fedor		1	624,643,679,741,750,751,752,762,1072
+85	BRINDA Jozef		1	679
+85	BRINDA Michal		1	614,624,650,679,692,741,750,751,752,762,960
+85	BRINDA Štefan		1	624,634,643,679,741,750,751,752,762,834
+85	BRINDA Tivadar		1	624,643,679,741,750,751,752,762,1009
+85	BRINDA Vasiľ		1	624,643,679,741,750,751,752,762,1081
+85	BRINDOVÁ Anastázia		1	624,643,679,741,750,751,752,762,1064
+85	BRINDOVÁ Mária		1	624,643,679,741,750,751,752,762,1025
+85	BRINDOVÁ Mária r. Lazoriková		1	692
+85	CUPER Andrej		1	584,624,679,741,750,751,752,762,894
+85	CUPER Jozef		1	584,624,679,741,750,751,752,762,1056
+85	CUPER Juraj		1	677,1111
+85	CUPER Seman		1	624,679,741,750,751,752,762,1032,1153,1289
+85	CUPER Štefan		1	437,478,624,677,679,741,750,751,752,762,871
+85	Fedorko Andrej		0	1111
+85	Fedorko Mikuláš		0	1111
+85	Fedorková Anna r. Jedináková		0	933
+85	FEDORKOVÁ Anna r. Jedináková, 086 35, Becherov, Slovensko		1	571,624,679,741,750,751,752,762
+85	Fedorková Katarína r. Fedorková		0	1111
+85	FEDORKOVÁ Mária r. Bilanská		1	624,644,645,679,741,750,751,752,762,946
+85	GMITERKO Demeter		1	596,624,679,741,750,751,752,762,1079
+85	GOLDMAN Ferdinand		1	616,624,644,654,679,692,741,750,751,752,762,1089
+85	GRIVŇA Fedor		1	624,639,679,741,750,751,752,762,1091,1122,1123
+85	GRIVŇA Jozef		1	619,624,679,741,750,751,752,762,943
+85	GRIVŇA Juraj		1	582,850
+85	GRIVŇA Štefan		1	484,624,679,741,750,751,752,762,970
+85	GRIVŇA Vasiľ		1	619,659,679,741,750,751,752,762,1099
+85	GRIVŇOVÁ Najsta r. Leščišinová		1	683,865
+85	GRIVŇOVÁ Oľga		1	619,624,679,741,750,751,752,762,911
+85	GRIVŇOVÁ Paraska		1	619,624,679,741,750,751,752,762,1050
+85	GUZI Gergelyne		1	572
+85	Guzi Gergelyne, ž. Anastázia r. Hauriková ž. Anastázia r. Hauriková		0	1037
+85	GUZI Juraj		1	624,651,679,741,750,751,752,762
+85	Guzi Juraj, ž. Anna r. Žurbejová ž. Anna r. Žurbejová		0	866
+85	GUZY Alena		1	624,654,679,741,750,751,752,762,910
+85	GUZY Peter		1	560,624,679,741,750,751,752,762,916
+85	GUZYOVÁ Anna r. Leščišinová		1	762
+85	HAFIČOVÁ Anastázia		1	604,624,679,741,750,751,752,762,1142
+85	Hafičová Anastázia, muž Ján muž Ján		0	1058
+85	JAROŠČÁK Fedor		1	437,624,677,679,741,750,751,752,762,895
+85	JAROŠČÁK Vasiľ		1	625,839
+85	KOCHANIK Demeter		1	609,624,679,741,750,751,752,762
+85	Kochanik Demeter, ž. Anna r. Varcholová ž. Anna r. Varcholová		0	1075
+85	KOCHANÍK Juraj		1	605,624,679,741,750,751,752,762
+85	Kochanik Juraj, ž. Anna r. Borisová ž. Anna r. Borisová		0	959
+85	KOKOŠ Michal		1	437,624,677,679,741,750,751,752,762,822
+85	Korbová Mária r. Artimová		0	1111
+85	Kostíková Anna r. Leščišinová		0	1028
+85	KOSTIKOVÁ Anna r. Leščišinová, Becherov, Slovensko		1	608
+85	KOTH Seman		1	624,651,679,741,750,751,752,762,1063
+85	KOTIK Seman		1	535,606,611,624,679,741,750,751,752,762,903
+85	KOTIKOVÁ Terézia r. Leščišinová		1	535,606,624,679,741,750,751,752,762,888
+85	Kracerová See r. Lichtenbergová		0	1111
+85	LAZORIK Michal		1	614,953
+85	LAZORIKOVÁ Helena r. Juričková		1	473,624,679,741,750,751,752,762,1006
+85	LEŠČIŠIN Ivan		1	624,679,741,750,751,752,762
+85	Leščišin Ivan, ž. Anna r. Petričková ž. Anna r. Petričková		0	1111
+85	LEŠČIŠIN Jozef		1	510,624,679,741,750,751,752,762,833
+85	LEŠČIŠINOVÁ Anna r. Zbihlejová		1	624,679,741,750,751,752,762,1111
+85	Leščišinová Mária r. Fedorková		0	975
+85	LEŠKOVÁ Mária r. Sadová		1	619,624,679,741,750,751,752,762,924
+85	LICHTENBERG Hermann		1	692,1111
+85	LICHTENBERG Jozef		1	616,644,1084
+85	Lichtenbergová Anna		0	1111
+85	Lichtenbergová Roza		0	821
+85	Mihaľ Artim		0	1112
+85	MIKO Gregor		1	673,1112
+85	Mikuľak Fedor		0	1112
+85	NOVICKÝ Pavol		1	604,624,679,741,750,751,752,762,1052,1142
+85	PETRIČKO Andrej		1	624,679,741,750,751,752,762
+85	Petričko Andrej, ž. Paraska r. Romanová ž. Paraska r. Romanová		0	1111
+85	POPOVIČ Andrej		1	517,624,679,741,750,751,752,762,893
+85	POPOVIČ Michal		1	517,624,679,741,750,751,752,762,927
+85	POPOVIČ Nasťa		1	517,624,679,741,750,751,752,762,1107
+85	PORIANDA Fedor		1	590,624,679,741,750,751,752,762,842
+85	PREXTA Vasiľ		1	612,624,679,741,750,751,752,762,935
+85	RUSINKO Juraj		1	624,679,741,750,751,752,762,1111
+85	Rusinková Anna		0	1026
+85	SCHULCZOVÁ Valentína r. Kokošová, Biliková 10, Bratislava, PSČ 800 00, Slovensko		0	478,624,679,741,750,751,752,762
+85	SCHULCZOVÁ Valentína r. Kokošová, Biliková 10, Bratislava, PSČ 80000, Slovensko		0	437
+85	SIROKOVÁ Marta		1	612,624,679,741,750,751,752,762,872
+85	SMEREK Ján		1	612,624,679,741,750,751,752,762,1042
+85	ŠMAJDA Ján		1	587,624,647,667,673,679,741,750,751,752,762
+85	Šmajda Ján, ž. Najsta r.Leščišinová ž. Najsta r.Leščišinová		0	816
+85	ŠMAJDOVÁ Nasta r. Leščišinová		1	587,667,673,1004
+85	ŠMAJDOVÁ Nasťa r. Leštinská		1	624,647,679,741,750,751,752,762,1088
+85	ŠNAJDER Ján		1	624,679,681,741,750,751,752,762,945
+85	ŠNAJDER Mitro		1	624,642,679,741,750,751,752,762
+85	Šnajder Mitro, ž. Anna r. Romanová ž. Anna r. Romanová		0	1011
+85	ŠURKALA Fedor		1	624,637,639,679,741,750,751,752,762,1008,1122,1123
+85	TANČINOVÁ Anastázia		1	624,679,741,750,751,752,762,977,1151
+85	TUTKO Šimon		1	614,1111
+85	TUTKO Vasiľ		1	614,1111
+85	TUTKOVÁ Anastázia		1	614,1111
+85	TUTKOVÁ Paraska r. Varcholová		1	684,1077
+85	VADOC Demeter		1	505,624,629,679,741,750,751,752,762,1092
+85	VADOC Lukač		1	624,629,679,741,750,751,752,762,980
+85	VADOC Peter		1	505,624,629,679,741,750,751,752,762,861
+85	VADOCOVÁ Mária r. Žurbejová		1	486,624,629,679,741,750,751,752,762
+85	Vadocová Mária r. Žurbejová, zomrela D 173/70 zomrela D 173/70		0	1098
+85	VARHOĽ Ján		1	525,624,679,741,750,751,752,762,942
+85	Varhol Juraj		0	849
+85	VARHOLOVÁ Mária		1	625,1109
+85	VARCHOL Fedor		1	612,863
+85	VARCHOL Jan		1	612,614,624,679,741,750,751,752,762,868,1051,1111
+85	VARCHOĽ Jozef		1	614,1111
+85	VARCHOL Juraj		1	593,624,679,741,750,751,752,762
+85	Varchol Juraj, Mária r.Mihaliková Mária r.Mihaliková		0	906
+85	VARCHOĽ Michal		1	614,1111
+85	VARCHOL Milan		1	612,624,679,741,750,751,752,762,1039
+85	VARCHOĽ Teodor		1	614,1111
+85	Varcholová Mária r. Brindová		0	1111
+85	VARCHOLOVÁ Mária r. Tančinová		1	624,679,741,750,751,752,762,902,1151
+85	WOHLENSÄDTER Herman		1	616,644,891
+85	Wohlstädterová Teige r. Lichtenbergová		0	1111
+85	ZBIHLEJ Demeter		1	659,1106
+85	ZBIHLEJ Fedor		1	584,589,624,633,659,672,987
+85	ZBIHLEJ MITRO		1	502,614,633,672,988,1104
+85	ZBIHLEJ Pavol		1	614,1112
+85	ZBIHLEJ Skinta Pál		1	624,679,741,750,751,752,762
+85	Zbihlej Skinta, Pál Pál		0	1111
+85	ZBIHLEJOVÁ Anna r. Tančinová		1	452,624,679,741,750,751,752,762,831
+85	ZBIHLEJOVÁ Mária		1	535,606,624,679,741,750,751,752,762,963
+85	ZBIHLEJOVÁ Paraska		1	584,624,679,741,750,751,752,762,996
+85	ŽURBEJ Andrej		1	486,501,624,629,679,741,750,751,752,762,832
+85	ŽURBEJ Ivan		1	685,750,751,752,762
+85	ŽURBEJ Ivan Li		1	624,679,741
+85	Žurbej Ivan, ž. Mária r. Mihaliková ž. Mária r. Mihaliková		0	1070
+85	ŽURBEJ Ján		1	653,1001
+85	ŽURBEJ Juraj		1	486,624,629,679,741,750,751,752,762,949
+85	ŽURBEJOVA Anna		1	486,624,629,679,741,750,751,752,762,878,1024
+85	ŽURBEJOVÁ Mária		1	486,624,679,741,750,751,752,762
+85	ŽURBEJOVÁ Mária r. Michaliková		1	653,880
+86	Bartalosová Mária r.Nagyová		0	1431,1452
+86	Cs.Alžbeta r.Erdelskyová		0	1431
+86	Drábik Ján r. Drábik		0	1522
+86	Drábiková Katarína r. Adame		0	1522
+86	Erdélyiová Alžbeta		0	539,1452
+86	Görcsová Mária r.Bartalová		0	1306
+86	Horváth Arnošt	manž. Alžbeta, r. Molnárová, Stará Gala	0	1538
+86	Horváthová Alžbeta r. Molnárová	manžel Arnošt, Stará Gala	0	1538
+86	Mészárošová Jolana	Kostolná Gala	0	1539
+86	Molnár Vincent	Vieska; Vieska	0	1537
+86	Nagy Ján		0	1431,1452
+86	Nagy Ľudovít		0	1431,1452
+86	Németh Dezider		0	540
+86	Németh Vincent		0	540
+86	Némethová Mária		0	540
+86	Puha Dezider		0	1558
+86	Puha Móric		0	1556
+86	Puhaová Alžbeta		0	1558
+86	Puhaová Julianna r. Csibaová		0	1556
+86	Puhaová Magdaléna		0	1558
+86	Puhaová Terézia		0	1558
+86	Tolnaiová Alžbeta r. Pötheová	manžel Andrej	0	1542,1543
+86	Varga František	manž. Mtilda, r. Pangráczová	0	1542
+86	Zirigová Rozália		0	1501
+87	Balogová Julianna r. Mészárosová		0	360
+87	Baranovics Vojtech		0	433
+87	Bartlík Ján		0	304
+87	Bartlík Jozef		0	304
+87	Bartlíková Terézia		0	304
+87	Benceová Mária r. Kašťáková		0	394
+87	BLAHAK IMRICH		0	367,551
+87	BLAHÁK Ladislav		0	638
+87	BLAHÁKOVÁ Margita	brat Imrich	0	645
+87	BLAHAKOVA VILMA R.BABINDAIOVA		0	367,551
+87	Blahová Mária r. Komlová		0	138
+87	BOGLYAS Jozef		0	388,628
+87	Boros Ján		0	276,666
+87	Boros Július		0	327,354
+87	Boros Ľudovít		0	280
+87	Borosová Alžbeta		0	276,666
+87	Borosová Anna r. Kántorová		0	288
+87	Borosová Helena r. Horváthová		0	276
+87	Borosová Helena r. Mériová		0	437
+87	Borosová Rozália r. Kissová		0	273
+87	BOROŠ FRANTIŠEK		0	666
+87	BOROŠ IMRICH		0	666
+87	BOROŠ Karol	zom.21.12.1994	0	611,640
+87	BOROŠ Viliam		0	227,469,611,640
+87	BOROŠOVÁ MÁRIA		0	666
+87	Borošová Marta r. Kozáková		0	215
+87	BOTKA Vojtech		0	614
+87	Botková Agnesa r.Villantová		0	551
+87	BOTKOVÁ Mária r. Villantová		0	614
+87	Csuportová Terézia r. Pócsová		0	410
+87	Čuport František		0	160
+87	Čuport Imrich		0	160
+87	Čuport Jozef		0	160
+87	Čuport Ondrej		0	160
+87	Dolníková Helena r. Husličková		0	530
+87	DRZSIK FERDINAND		0	447
+87	Drzsíková Rozália r. Takácsová		0	359,384
+87	Drzsíková Rozália r.Takácsová		0	422
+87	DRŽÍK BÉLA		0	516
+87	DRŽÍK ŠTEFAN		0	516
+87	Eperjesiová Rozália r. Drzsíková		0	309
+87	Faragó Jozef		0	305
+87	Faragóová Katarína		0	305
+87	GAJDOŠ Ladislav	ž.Helena r.Nagyová,zom.20.11.2002	0	624
+87	GARAIOVÁ Mária r. Huszlicsková		0	643
+87	Gašparová Mária r.Lengyelová		0	352
+87	Geletová Alžbeta r. Ivanitsová		0	272
+87	Hudivár Vojtech		0	297
+87	Hugyivár Štefan		0	423
+87	Hugyiváriová Mária r. Zsideková		0	282,309
+87	Hugyivárová Mária r. Zsideková		0	349,423
+87	HUSLIČKA Jaroslav	zom.16.9.2000	0	643
+87	Huszlicska Štefan		0	273
+87	HUSZLICSKOVÁ Veronika r. Gálová	zom.3.1.1997	0	643
+87	Ivanics Július		0	230
+87	Ivanics Šimon		0	230
+87	Ivanics Štefan		0	230
+87	Ivanicsová Helena		0	230
+87	Ivanicsová Mária		0	272
+87	Ivanicsová Rozália		0	272
+87	Ivanits Jozef		0	272
+87	JAKUBOVIČOVÁ Mária r. Kubinová		0	623
+87	JANČOK Ján		0	608,632
+87	Janicsek Ján		0	393,413,684
+87	JENEI Imrich	ž.Agnesa r.Pathóvá	0	627
+87	Jeneiová Agneša r. Patóová		0	421
+87	Jeneiová Helena r. Komlová		0	138
+87	Kianeková Juliana r. Kovácsová		0	296
+87	Kianeková Margita r. Szláviková		0	301
+87	Kiáneková Rozália r. Lörinczová		0	391,419
+87	Kis Eugen, SR		0	363,568
+87	Kisová Mária		0	273
+87	Kisová Mária, SR		0	363,568
+87	Kiss Eugen r. Kiss		0	273
+87	Kissová Julianna		0	273
+87	Kopiková Imriška r. Szláviková		0	411

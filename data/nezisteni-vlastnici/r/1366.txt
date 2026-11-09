@@ -1,0 +1,256 @@
+793	RISZT Jan		0	2213
+793	RISZT Jozef		0	1293,2199,2200,2378,2457
+793	RISZT Michal	m.Katarína,r.Korgová	0	2378,2457,3056,3242
+793	RISZT Michal	m.Mária r.Lovászová	0	3096
+793	RISZT Urban		0	173,175,1300,1322,1329,1330,1560,1561,1949,2213,2273,2378,2457,2525,2592,2934,3384,3386
+793	RISZTOVA Aurelia	r.Ficzova	0	2008,2174
+793	RISZTOVÁ Aurélia	r.Ficzová,m.František	0	2378,2457,2950
+793	RISZTOVÁ Aurélia	r.Ficzová,m.Jozef	0	1041,1044,1145,2376,2378,2522
+793	RISZTOVÁ Mária	r.Lovászová,m.Michal	0	2378,2457,2979
+793	ROBIUSOVÁ Eva	r.Móriová	0	992,1628
+793	ROHAC Vojtech	z.Fuskova Maria	0	1515
+793	ROHAC Vojtech	z.Chnapekova Maria	0	1784
+793	ROHACOVA Maria	r.Chnapekova	0	1784
+793	RUMANOVSKY Anton	z.Galbava Jolana	0	1913
+793	RUMANOVSKY Imrich		0	1913
+793	RUMANOVSKY Karol		0	1913
+793	RYBAR Dezider	zomrel	0	1659
+793	RYBAROVA Terezia	r.Majiova,zomrela	0	1659
+793	RYBAROVA Vilma	r.Majiova	0	1415
+793	SABIKOVA Hermina	r.Hambalekova	0	1887
+793	SABO Viktor	zomrel	0	1867
+793	SABOVA Brigita	r.Rabekova,zomrela	0	1867
+793	SÁRKÖZIOVÁ Gizela	r.Lencsésová,m.Ján	0	1336,2378,2457,3149
+793	SARKöZIOVA Maria	r.Ligacova/m.Stefan/	0	1324,1551,2127,2154,2212
+793	SÁRKÖZIOVÁ Mária	r.Ligačová,m.Štefan	0	1317,2378,2445,2457,2540,2932,2962,3050,3351
+793	SARKOZY Stefan	zomrel	0	1859
+793	SARKOZYOVA Maria	r.Dicerova,zomrela	0	1859
+793	SARKöZYOVA Maria	r.Ligacova	0	2065,2378,2445,2457,2540,3132
+793	SCASNA Magdalena	r.Tothova	0	2121,2149
+793	SEKEREŠOVÁ Alžbeta		0	221,222,3562
+793	SEKEREŠOVÁ Matilda	r.Braunová,nar.10.3.1902	0	2341,2342,3076
+793	SESTAKOVA Julia	r.Kokesova	0	1571
+793	SCHMIDT Martin	z.Dicserova Maria	0	1538
+793	SIKORA Imrich	z.Svondrova Maria	0	1319,2152
+793	SIKSA Pavel		0	1821
+793	SIKSA Pavel	m.Olga,r.Vidová	0	3263
+793	SIKSOVA Olga	r.Vidova	0	1821
+793	SIKSOVÁ Olga	r.Vidová,m.Pavel	0	3263
+793	SIMKO Ernest		0	2122,3020,3023
+793	SIMKO Jan		0	2122
+793	SIMKO Michal		0	2122
+793	SIMKOVA Alzbeta	r.Stranakova	0	1491,2068,2165,2183,2206,2267,2293,2550
+793	SIMKOVA Maria	r.Novakova	0	2165
+793	SKALICKA Helena	r.Vagundova	0	1706
+793	SKALICKA Maria		0	2093
+793	SKALICKÁ Mária	mal	0	56
+793	SKALICKÝ Jozef	m.Brigita,r.Braunová	0	3242
+793	SKALICKY Pavol		0	1630,2093
+793	SKALICKÝ Pavol	syn Pavla	0	56
+793	SKALICKÝ Štefan	mal	0	56
+793	SKLENAR Albert	z.Lencsesova Veronika	0	2292
+793	Sklenár Albert /Lencsesová Veronika/		0	2186
+793	SKLENAR Ambroz	z.Lencsesova Veronika	0	1508,2026,2614,2948
+793	SKLENAR Ambroz	z.Lenicka Veronika	0	2184
+793	SKLENAR Ernest		0	1278,1988,2011,2195
+793	SKLENÁR Ernest	mal	0	2378,2457,3069,3258
+793	SKLENÁR Ernest	po Ambrózovi Sklenárovi	0	2378,2457
+793	SKLENAR Frantisek	z.Ducova Katarina	0	1696,1802
+793	SKLENAR Frantisek	z.Kristofovicova Anna	0	1278,2176,2195
+793	SKLENAR Frantisek	z.Ristova Julia	0	2011
+793	SKLENÁR František	m.Júlia,r.Ristová	0	2378,2457
+793	SKLENÁR František	mal	0	2378,2457
+793	SKLENÁR Gabriel	m.Alžbeta,r.Rábeková,zomr.10.3.1952	0	2378,2457
+793	SKLENÁR Gabriel	zomr.10.3.1952	0	2378,2457
+793	SKLENÁR Ján		0	2378,2457,3069,3258
+793	SKLENÁR Jozef	m.Veronika,r.Gellérová	0	2378,2457
+793	SKLENÁR Jozef	zomr.19.6.1982	0	221,222,2378,2457,3562
+793	SKLENÁR Jozef	zomr.27.3.1959	0	2378,2457,3242
+793	SKLENAR Ladislav	zomrel	0	1658
+793	SKLENAR Ludovit		0	1471,2378,2457
+793	SKLENAR Michal		0	1988
+793	SKLENÁR Michal	po Ambrózovi Sklenárovi	0	2378,2457
+793	SKLENÁR Michal	st	0	3050,3119,3242
+793	SKLENAR Pavol		0	1639
+793	SKLENAR Stefan		0	1278,1656,1721,2011,2195
+793	SKLENAR Stefan	z.Lenicka Maria	0	1485,2087
+793	SKLENÁR Štefan	m.Anna r.Kolenčíková	0	3038,3039
+793	SKLENÁR Štefan	m.Mária,r.Lenická	0	2378,2457,3058
+793	SKLENÁR Štefan	zomr.23.5.1975	0	2378,2457,3069,3258
+793	SKLENAR Tibor	zomrel	0	1831
+793	SKLENAR Titus	zomrel	0	1863,1967,2050,2065,2135
+793	SKLENÁROVÁ Agneša		0	3050,3119,3242
+793	SKLENÁROVÁ Alojzia	mal	0	3242
+793	SKLENAROVA Anna	r.Kolencikova,zomrela	0	1587,1656
+793	SKLENÁROVÁ Anna	r.Kolenčíková	0	532,3038,3039
+793	SKLENAROVA Barbora		0	1508,1988,2026
+793	SKLENÁROVÁ Barbora	sestra Gabriela	0	221,222,2378,2457,2614,2948,3562
+793	SKLENAROVA Helena		0	1709,3050,3119,3242
+793	SKLENAROVA Juliana	zomrela	0	1508,2026
+793	SKLENÁROVÁ Júliana	mal	0	221,222,2378,2457,2614,2948,3562
+793	SKLENAROVA Katarina	r.Duczova	0	1696
+793	SKLENAROVA Katarina	r.Lencesova,zomrela	0	1658,1686,2018
+793	SKLENÁROVÁ Katarína	r.Lenčéšová	0	2378,2457,3193,3242
+793	SKLENÁROVÁ Lujza		0	2378,2436,2457,3132,3242
+793	SKLENAROVA Maria	r.Duczova	0	1576
+793	SKLENAROVA Maria	r.Majiova,zomrela	0	1415,1863
+793	SKLENÁROVÁ Mária	r.Dúcová	0	2378,2457,3242
+793	SKLENÁROVÁ Marta	mal	0	2378,2436,2457,3132,3242
+793	SKLENAROVA Veronika	r.Lencsesova	0	1970
+793	SKLENÁROVÁ Veronika	r.Lencsésová,m.Ambróz	0	2378,2457,3130
+793	SLADECEK Adam	zomrel	0	1842
+793	SLADECEK Jan	z.Michalkova Terezia	0	1540,3214
+793	SLADECEK Jozef	z.Vörösova Anna	0	1540,3214
+793	SLADECEK Rafael		0	1540
+793	SLADECEK Stefan		0	1540,3214
+793	SLADECKOVA Maria		0	1540
+793	SLADECKOVA Vilma	r.Borzova	0	2047,2881,2882
+793	SLADECKOVA Vilma	r.Lesova,zomrela	0	1842
+793	SLÁDEČEK Rafael	mal	0	3214
+793	SLÁDEČKOVÁ Mária	mal	0	3214
+793	SLÁDEČKOVÁ Vilma	r Leššová	0	2540
+793	SLAMKA Jan	z.Benkova Maria	0	1681
+793	SLAMKA Ján		0	2620,2622,2623,2943,2987,2988,3126,3242
+793	SLAMKA Vojtech		0	3052
+793	SLAMKOVA Anna		0	1398,3111,3242
+793	SLAMKOVA Gabriela		0	1707
+793	SLAMKOVA Maria	r.Benkova	0	1581,1681,1873,2054
+793	SLAMKOVÁ Mária	r.Benková,m.Ján	0	3116
+793	SLAMKOVÁ Veronika	r.Benková	0	2378,2457,3242
+793	SLAVIKOVA Maria	r.Buchova	0	1565,3227
+793	SÓKOVÁ Mária	r. Lencsésová; r. Lencsésová	0	1079
+793	SöLLöSIOVA Helena	r.Vencelova	0	1541,3392
+793	STACHOVA Veronika	r.Franova	0	1725
+793	STANKO Tomas		0	1464
+793	STANKOVA Agnesa	r.Szökeova	0	1554
+793	STANKOVÁ Agneša	r.Szökeová,m.Ján	0	3221
+793	STANKOVA Barbora	r.Ficzova	0	1280
+793	STAVROVÁ Irena	r.Klinková,nar.6.2.1916	0	2580,3031
+793	STRANAK Albert	z.Dicserova Maria	0	1613
+793	STRANAK Alexander	z.Lencesova Helena	0	1491,2068,2165,2183,2206,2267,2293,2550
+793	STRAŇÁK Alexander	m.Helena,r.Lenčéšová	0	111,2378,2409,2445,2449,2457,2539,2540,2557,3189,3314
+793	STRANAK Dezider		0	1403,1410,3242
+793	STRANAK Eugen		0	1454
+793	STRANAK Frantisek		0	1345,1437,2378,2457,2938
+793	STRAŇÁK Gabriel	m.Helena,r.Odrášková	0	2378,2457
+793	STRANAK Jan	z.Kalisova Katarina	0	1404,1410,1710,2238,3108
+793	STRANAK Jan	z.Karlubikova Maria	0	1613
+793	STRANAK Jozef		0	1345,1437,1454,1962,1963,2061,2141
+793	STRANAK Jozef	z.Tothova Maria	0	1304,2599,3397
+793	STRAŇÁK Jozef	m.Mária,r.Tóthová	0	2105,2378,2457,2929,2978
+793	STRAŇÁK Jozef	mal	0	2378,2457,3005,3006
+793	STRAŇÁK Jozef	nezl	0	2378,2457,2938
+793	STRAŇÁK Karol	m.Rozália,r.Vörösová,zomr.7.6.1953	0	2378,2457
+793	STRANAK Ludovit	z.Novakova Katarina	0	1442
+793	STRAŇÁK Ľudovít	m.Barbora,r.Leššová	0	2378,2457
+793	STRANAK Vojtech		0	1454
+793	STRANAK Vojtech	z.Lencsesova Valeria	0	1613
+793	STRANAKOVA Alzbeta		0	1613
+793	STRANAKOVA Alzbeta	r.Ducova	0	1971,1972,2137,2612,2613
+793	STRAŇÁKOVÁ Alžbeta	r.Dúcová,m.Blažej	0	1206
+793	STRANAKOVA Amalia	r.Lencsesova	0	1373,2094,2229,2250
+793	STRANAKOVA Anna		0	1491,2068,2165,2183,2206,2267,2293,2550
+793	STRAŇÁKOVÁ Anna	mal	0	111,2378,2409,2445,2449,2457,2539,2540,2557,3189,3314
+793	STRANAKOVA Aurelia	r.Novakova	0	1813
+793	STRAŇÁKOVÁ Aurélia	r.Lencsesová,m.Štefan	0	2378,2457,3141,3554
+793	Straňáková Barbora r. Lessová, HORNÁ KRÁĽOVÁ, SR		1	652
+793	STRANAKOVA Gabriela		0	1345,1437,2378,2457,2938
+793	STRANAKOVA Helena	r.Ducova	0	1491,2068,2165,2206,2267,2550,2612,2613
+793	STRANAKOVA Helena	r.Vörösova,zomrela	0	2052
+793	STRAŇÁKOVÁ Helena	r.Dúcová,m.Michal	0	111,2378,2445,2449,2457,2539,2540,2557,3189
+793	STRAŇÁKOVÁ Helena	r.Odrášková,m.Gabriel	0	2378,2457
+793	STRAŇÁKOVÁ Helena	r.Vörösová	0	2378,2457
+793	STRANAKOVA Katarina	r.Kalisova	0	1423,1710
+793	STRANAKOVA Katarina	r.Novakova	0	1442,1496,2019
+793	STRANAKOVA Katarina	r.Rabekova	0	1387,1560,1561,2124,2213,3386
+793	STRAŇÁKOVÁ Katarína	r.Kališová,m.Ján	0	3242
+793	STRAŇÁKOVÁ Katarína	r.Nováková,m.Ľudovít,pred.Karol Odráška	0	2378,2457,2715,2865,3440
+793	STRANAKOVA Maria		0	1613,1962,1963,2061,2141
+793	STRANAKOVA Maria	r.Caganekova	0	1385,3123,3217,3242
+793	STRANAKOVA Maria	r.Mikulkova	0	1394,1436,1437,1454,1462,1465,1580
+793	STRANAKOVA Maria	r.Rybarova	0	1415
+793	STRAŇÁKOVÁ Mária	mal	0	2378,2457,3005,3006
+793	STRAŇÁKOVÁ Mária	r.Mikulková,m.Alexander	0	3242
+793	STRAŇÁKOVÁ Oľga	r.Pápayová,m.Vojtech,zomr.3.4.1997	0	2378,2457
+793	STRANAKOVA Valeria		0	1345,1437,1963,2378,2457,2938
+793	Straňáková Valéria	vydatá Lovászová; vydatá Lovászová	0	3006
+793	STRANAKOVA Veronika	r.Malchova,zomrela	0	2189,2192
+793	STRANAKOVA Veronika	r.Mikulkova	0	1394,1454,1458,1462,1465
+793	STRAŇÁKOVÁ Veronika	r.Malchová,m.Jozef	0	3046
+793	STRAŇÁKOVÁ Veronika	r.Mikulková,m.Silvester	0	3242
+793	STRANAKOVA Vilma	r.Malchova,zomrela	0	1471,1472,2011,2253
+793	STRAŇÁKOVÁ Vilma	r.Malchová	0	221,222,2378,2457,3204,3242,3258,3562
+793	STRANAKOVA Zlatica	r.Lencsesova	0	1761
+793	STRAPKO Jozef	z.Horehajova Maria	0	1431,2623,3242
+793	STRAPKO Michal	ž.Rábeková Cecília	0	56,1418,1431,1674,1711,2623,3242,3457
+793	STRAPKOVÁ Cecília	r.Rábeková,m.Michal	0	2378,2457
+793	STRBKA Anton		0	1912
+793	STRBKA Frantisek		0	1912
+793	STRBKA Michal		0	1912
+793	STRBKA Stefan		0	1912
+793	SUCHÁ Paulína	r.Horváthová,m.Štefan	0	3229
+793	SUCHA Pavlina	r.Horvathova	0	1572
+793	SURANYIOVA Alzbeta	r.Perinova	0	1610
+793	SURÁNYIOVÁ Alžbeta	r.Perinová,m.František	0	3241
+793	SVIHORIK Jan	z.Matusicova Magdalena	0	2129
+793	SVIHORIK Jozef	z.Trubacova Maria	0	1894
+793	SVIHORIK Stefan		0	2129
+793	SVIHORIKOVA Magdalena	r.Trubacova	0	1876
+793	SVIHORIKOVA Maria	r.Trubacova	0	1894
+793	SVONDRA Ernest		0	1340,1405,1632,2108,2220,2349,2378,2457,2936
+793	SVONDROVA Vilma		0	1340,1405,1632,2108,2220
+793	SVONDROVA Vilma	r.Lencesova	0	1280,1441,2174
+793	SÝKORA Ernest	m.Alžbeta,r.Lovászová	0	221,222,3562
+793	SYKORA Imrich	z.Svondrova Maria	0	1951
+793	SYKORA Klement		0	1379
+793	SÝKORA Michal	zomr.8.3.1950	0	2378,2457
+793	SYKORA Stefan		0	1627
+793	SYKORA Stefan	z.Kalisova Barbora,zomrel	0	1413,1414,1650
+793	SÝKORA Štefan	ž.Kališová Barbora	0	3042
+793	SÝKORA Vincent	m.Veronika,r.Sýkorová	0	2378,2457
+793	SÝKORA Vojtech	mal	0	2378,2457,2992,2994,3176
+793	SÝKOROVÁ Alžbeta	r.Lovászová,m.Ernest	0	221,222,3562
+793	SÝKOROVÁ Alžbeta	r.Lovászová,m.Ernest,zomr.7.8.1976	0	2378,2457
+793	SYKOROVA Barbora	r.Kalisova,zomrela	0	1527,1650,1976,2203
+793	SYKOROVA Barbora	r.Sokova	0	1621
+793	SÝKOROVÁ Barbora	r.Sóková,zomr.19.8.1963	0	3099
+793	SYKOROVA Maria	r.Svondrova	0	1468
+793	SÝKOROVÁ Mária	r.Švondrová,m.Imrich	0	2378,2457
+793	SYKOROVA Vilma	r.Ficova,zomrela	0	1280,1283,1290,1516,1525,1977,2008,2141,2169,2174,2202,2264
+793	SÝKOROVÁ Vilma	r.Ficová,m.Ignác	0	1041,1044,1198,2376,2378,2457,2522,2985,2986,3318
+793	SYSELOVÁ Veronika	r.Odrášková,m.Július	0	2378,2457
+793	SZABO Gejza	z.Morvayova Aurelia,zomrel	0	1418
+793	SZABÓ Gejza	ž.Morvayová Aurélia	0	3050,3119,3140,3242
+793	SZABÓ Štefan		0	2378,2457,3169,3224,3231,3256
+793	SZABÓ Štefan	m.Adela r.Rišavá	0	3050
+793	SZABO Vojtech		0	1282,1515,1562,1583,2137,2277,2289,2378,2457,3224,3349
+793	SZABÓ Vojtech	mal	0	2378,2457
+793	SZABOVÁ Anna	mal	0	3050
+793	SZABOVÁ Aurélia	r.Morvayová	0	1125,1126,1298,2378,2457,3004,3363,3364
+793	SZABOVÁ Aurélia	r.Morvayová,m.Gejza	0	3119,3140,3242
+793	SZABOVA Maria	r.Duczova	0	1698
+793	SZABOVA Maria	r.Meszarosova	0	1332,2052,2112
+793	SZABOVÁ Mária	r.Mészárosová,m.Imrich	0	2378,2425,2457
+793	SZABOVA Veronika	r.Benkova	0	1975,2002
+793	SZABOVÁ Veronika	r.Benková,m.Vojtech	0	2378,2457
+793	SZEKERES Ambrus	zomrel	0	1278,1401,2011,2176,2195,2243
+793	SZEKERES František		0	2378,2457
+793	SZEKERES Ján		0	2734
+793	SZEKERES Pavol	z.Oravcova Gizela	0	1424,1544
+793	SZEKERES Pavol	ž.Oravcová Gizella	0	3080,3215
+793	SZEKERESOVA Gizela	r.Oravcova	0	1424
+793	SZEKERESOVÁ Gizella	r.Oravcová,m.Pavol	0	3080,3242
+793	SZEKERESOVÁ Helena	r.Szökeová,m.Ján	0	3242
+793	SZEKERESOVA Ilona	r.Szökeova	0	1416
+793	SZEKERESOVA Maria	r.Ficzova	0	2008,2174
+793	SZEKERESOVA Maria	r.Revayova	0	1491,2068,2165,2183,2206,2267,2293,2550
+793	SZEKERESOVÁ Mária	r.Ficzová,m.František	0	1041,1145,2522
+793	SZEKERESOVÁ Mária	r.Révayová,vd	0	111,2378,2409,2445,2449,2457,2539,2540,2557,3189,3314
+793	SZEKERESOVA Rozalia	r.Lencsesova	0	1762
+793	SZEKERESOVÁ Rozália	r.Lencsesová,m.František	0	2378,2457,3204
+793	SZEKERESOVA Zlatica	r.Vörösova	0	1340,1405,1632,1954,2108,2122,2220
+793	SZEKERESOVÁ Zlatica	r.Vörösová,m.Július	0	2349,2378,2457,2936
+793	SZEKEREŠ Ambruš	Ambróz	0	2378,2457,2466,2467
+793	SZEKEREŠOVÁ Aranka	r.Vörösová,m.Július	0	221,222,3562
+793	SZEKEREŠOVÁ Aurélia	r.Vörösová	0	2378,2457
+793	SZEKEREŠOVÁ Mária	r.Ficová,m.František	0	1044,2376

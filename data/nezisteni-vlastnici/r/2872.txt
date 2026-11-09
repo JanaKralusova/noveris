@@ -1,0 +1,256 @@
+1607	Vantová Mária r. Martičeková	muž Pavel	0	761,772,1042,1133
+1607	Vantová Mária r. Martičeková	muž Pavel ,; muž Pavel	1	80,1130,1190,1191
+1607	Vantová Mária r. Vantová	s. Zuzana Katušin	0	510,570,580,581,585,588,744,746,786,788,1045,1050,1108
+1607	Vantová Mária r. Vantová	s. Zuzana Katušin ,; s. Zuzana Katušin	1	116,509,519,521
+1607	Vantová Mária r. Vantová	z. 11.2.1992, 21/93	0	880
+1607	Vantová Mária r. Weiszová	muž Ján	0	513,528,586,591,594,684,745,747,758,845
+1607	Vantová Zuzana	Bardejov	0	609,654,655,719,721,780,812,813,814,815,816,818,820,821,823,824,825,826,880,1081,1152
+1607	Vantová Zuzana	s. Mária Marcinčo, Anna Ontkanin, Andrej, Mária, Ján a Juraj	0	510,580,581,585,588,744,746
+1607	Vantová Zuzana	s. Mária Marcinčo, Anna Ontkanin, Andrej, Mária, Ján a Juraj ,; s. Mária Marcinčo, Anna Ontkanin, Andrej, Mária, Ján a Juraj	1	116,509
+1607	Vantová Zuzana r. Hrivniaková		0	972
+1607	Vantová Zuzana r. Vantová	ded. 1950, s. Juraj a Mária Voľanská	0	510,555,580,581,585,588,744,746,798,889,955,1029,1122,1175
+1607	Vantová Zuzana r. Vantová	ded. 1950, s. Juraj a Mária Voľanská ,; ded. 1950, s. Juraj a Mária Voľanská	1	116,509
+1607	Vantová Zuzana r. Vantová	muž Andrej Pascerbak	0	513,528,586,591,594,684,745,747,758,845
+1607	Vašičkaninová Mária r. Babuščáková		0	780,929
+1607	Voľanská Anna r. Adamondyová		0	914
+1607	Voľanská Anna r. Heľmanovská	za vodu	0	513,528,586,591,594,684,745,747,758,845
+1607	Voľanská Anna r. Soltisová	muž Tomáš, záp. 1886	0	510,580,581,585,588,744,746
+1607	Voľanská Anna r. Soltisová	muž Tomáš, záp. 1886 ,; muž Tomáš, záp. 1886	1	116,509
+1607	Voľanská Anna r. Vantová		0	782
+1607	Voľanská Anna r. Voľanská		0	662,1083
+1607	Voľanská Anna r. Voľanská	zomrela D 153/64	0	510,580,581,585,588,744,746
+1607	Voľanská Anna r. Voľanská	zomrela D 153/64 ,; zomrela D 153/64	1	116,509
+1607	Voľanská Dzurišová Mária	ded. 1888, s Andrej a Juraj ,; ded. 1888, s Andrej a Juraj	1	531
+1607	Voľanská Mária r. Vantová	s. Juraj a Zuzana Vantová	0	510,555,580,581,585,588,744,746,798,889,955,1029,1122,1175
+1607	Voľanská Mária r. Vantová	s. Juraj a Zuzana Vantová ,; s. Juraj a Zuzana Vantová	1	116,509
+1607	Voľanská Martičeková Mária r. Hardošová	muž Ján	0	580,581,585,588,744,746,855,895
+1607	Voľanská Martičeková Mária r. Hardošová	muž Ján ,; muž Ján	1	116,509
+1607	Voľanská Zuzana		1	116,509,510,580,581,585,588,744,746
+1607	Voľanská Zuzana	otec neb.Juraj, s.Juraj,Mária,Andrej,Ján,Anna,Dorota ,; otec neb.Juraj, s.Juraj,Mária,Andrej,Ján,Anna,Dorota	1	538
+1607	Voľanská Zuzana r. Pechová	muž Ján	0	510,552,553,580,581,585,588,744,746,978,1121
+1607	Voľanská Zuzana r. Pechová	muž Ján ,; muž Ján	1	116,509
+1607	Voľanská Zuzana r. Vantová	mal., ded. 1916, s Anna a Mária	0	880
+1607	Voľanská Zuzana r. Vantová	za vodu,muž Andrej	0	513,528,586,591,594,684,745,747,758,845
+1607	Voľánski Andrej	mlad., brat Juraj	0	580,581,585,588,744,746
+1607	Voľánski Andrej	mlad., brat Juraj ,; mlad., brat Juraj	1	116,509
+1607	Voľanski Pavol	kúpa od Hrivňakovej Márii 1896	0	510,580,581,585,588,744,746
+1607	Voľanski Pavol	kúpa od Hrivňakovej Márii 1896 ,; kúpa od Hrivňakovej Márii 1896	1	116,509
+1607	Voľanski Tomáš	ž.Anna r.Soltisová,zomrel	0	510,580,581,585,588,744,746
+1607	Voľanski Tomáš	ž.Anna r.Soltisová,zomrel ,; ž.Anna r.Soltisová,zomrel	1	116,509
+1607	Voľanský Andrej		0	629,901
+1607	Voľanský Andrej	s.Juraj a Mária ,; s.Juraj a Mária	1	531
+1607	Voľanský Andrej r. Voľanský	s. Ján, Mária Vantová, Zuzana Sinai, Juraj a Pavol	0	510,513,528,552,553,554,580,581,585,586,588,591,594,684,744,745,746,747,758,845,978,1046,1121
+1607	Voľanský Andrej r. Voľanský	s. Ján, Mária Vantová, Zuzana Sinai, Juraj a Pavol ,; s. Ján, Mária Vantová, Zuzana Sinai, Juraj a Pavol	1	116,509
+1607	Voľanský Andrej r. Voľanský	záp. 1886	0	510,580,581,585,588,744,746
+1607	Voľanský Andrej r. Voľanský	záp. 1886 ,; záp. 1886	1	116,509
+1607	Voľanský Ján	brat Juraj	0	580,581,585,588,744,746
+1607	Voľanský Ján	brat Juraj ,; brat Juraj	1	116,509
+1607	Voľanský Ján	ded. mal. 1888, s Andrej a Mária ,; ded. mal. 1888, s Andrej a Mária	1	530,531
+1607	Voľanský Ján	Lukavica 69, z 1.4.2008 ,; Lukavica 69, z 1.4.2008	1	517
+1607	Voľanský Ján	zruš.spol. 1300/1946	0	513,528,586,591,594,684,745,747,758,845
+1607	Voľanský Ján	ž.Dorota r.Voľanská	0	966
+1607	Voľanský Ján	ž.Júlia r.Slančová	0	510,513,528,552,553,554,580,581,585,586,588,591,594,684,744,745,746,747,758,845,978,1046,1121
+1607	Voľanský Ján	ž.Júlia r.Slančová ,; ž.Júlia r.Slančová	1	116,509
+1607	Voľanský Ján	ž.Mária r.Hardošová	0	717
+1607	Voľanský Ján	ž.Mária r.Hardošová ,; ž.Mária r.Hardošová	1	529
+1607	Voľanský Ján	ž.Zuzana r.Vantová, Lukavica 56	0	510,580,581,585,588,658,744,746,828,959,962,1186
+1607	Voľanský Ján	ž.Zuzana r.Vantová, Lukavica 56 ,; ž.Zuzana r.Vantová, Lukavica 56	1	116,509
+1607	Voľanský Juraj		0	717
+1607	Voľanský Juraj	brat Andrej, ded. 1907 po Pavlovi	0	510,580,581,585,588,744,746
+1607	Voľanský Juraj	brat Andrej, ded. 1907 po Pavlovi ,; brat Andrej, ded. 1907 po Pavlovi	1	116,509
+1607	Voľanský Juraj	Januv	0	717
+1607	Voľanský Juraj	kúpy č.d.1545/1925	0	629,901
+1607	Voľanský Juraj	Lukavica 28, z 18.2.2008	0	513,528,586,591,594,684,745,747,758,845
+1607	Voľanský Juraj	z murovanice, brat Ondrej	0	510,580,581,585,588,717,744,746,879,1176
+1607	Voľanský Juraj	z murovanice, brat Ondrej ,; z murovanice, brat Ondrej	1	116,509,529
+1607	Voľanský Juraj	ž.Mária r.Riznárová, z 23.3.1980, 20/80	0	510,580,581,585,588,744,746
+1607	Voľanský Juraj	ž.Mária r.Riznárová, z 23.3.1980, 20/80 ,; ž.Mária r.Riznárová, z 23.3.1980, 20/80	1	116,509
+1607	Voľanský Juraj	ž.Mária, ded. 197/1950	0	513,528,586,591,594,684,745,747,758,845
+1607	Voľanský Juraj	ž.Zuzana r.Vantová	0	959
+1607	Voľanský Juraj r. Voľanský	ž.r.Voľanská, s. Andrej, Ján, Mária Vanta, Zuzana Sinai, Pav	0	510,580,581,585,588,744,746
+1607	Voľanský Juraj r. Voľanský	ž.r.Voľanská, s. Andrej, Ján, Mária Vanta, Zuzana Sinai, Pav ,; ž.r.Voľanská, s. Andrej, Ján, Mária Vanta, Zuzana Sinai, Pav	1	116,509
+1607	Voľanský Martiček Andrej	ml	0	945,946
+1607	Voľanský Pecka Ján		0	958
+1607	Volanský Pecha Juraj	ž.Mária r.Vantová	0	976
+1607	Volanský Pecha Pavol	ž.Anna r.Volanská	0	976
+1607	Voľanský Stipko Andrej		0	513,528,586,591,594,684,745,747,758,845
+1607	Voľanský Tomáš		1	530,531,601,790,846,1144,1148,1149
+1607	Ždiniaková Zuzana r. Babuščáková		0	780,929
+1608	Bobalik Andrej	Zápis 1909	0	825,972
+1608	Bobalik Ján	asi ZSSR, po ňom štát, kupa od Jozefa	0	943
+1608	Bobalik Jozef	Kupa 1912	0	446,588,591,967,974,975,977,978,981,982,983,995
+1608	Bobalik Jozef	sur. Michal, Ján, Vasiľ, Pavol	0	926,976,980,985
+1608	Bobalik Pavol	sur. Michal, Ján, Jozef, Vasiľ	0	926,976,980,985
+1608	Bobalik Vasiľ	sur. Michal, Ján, Jozef, Pavol	0	926,976,980,985
+1608	Bobaliková Anna	mal. 1909	0	825,972
+1608	Borecká Anna	mal. 1934, ses. Maria, rod. Juraj a Mar	0	909
+1608	Borecká Mária	mal. 1934, ses. Anna, rod. Juraj a Mari	0	909
+1608	Borecká Mária r. Rusinko	muž Juraj, dcery Anna, Mária	0	909
+1608	Bošková Žofia r. Pillár	7 surodencov	0	401,402,435,787,862,987,988
+1608	Božková Beta	mal. 1951, po Jurajovi Pillárovi	0	401,402,435,787,862,987,988
+1608	Brezovská Anna r. Reviľák	Zamena 1934	0	830
+1608	Brezovský Ján	ž. Žofia Rohaľová, zom. 7.3.2007	0	727
+1608	Buliščák Ján	otec a brat Michal, z. 13.3.1975	0	741,838
+1608	BULIŠČÁK JÁN, LUKOV, Slovensko		1	590,593
+1608	Buliščák Jozef	Z 1913	0	842
+1608	Buliščáková Mária r. Reviľaková	Lukov 84, zom. 16.4.1999	0	825,972
+1608	Cvernová Julia r. Onuferová	sur. Michal, Mária, Mikuláš a	0	401,402,435,786,832
+1608	Dančišin Ján		1	690,696
+1608	Doroš Ján	mal. 1926, 8 surodencov	0	907
+1608	Doroš Juraj	mal. 1930 po Julii, 8 surodencov	0	907
+1608	Dorošová Helena	mal. 1926, 8 surodencov	0	907
+1608	Dorošová Mária	mal. 1926, 8 surodencov	0	907
+1608	Dorošová Terézia	mal. 1926, 8 surodencov	0	907
+1608	Džmurová Mária r. Klepáč	muž Ján	0	812
+1608	Choma Michal	Kuncz, Z 1907	0	446,588,591,804,967,974,975,977,978,981,982,983,995
+1608	Chomová Anna	NP/	1	705,706
+1608	Chomová Anna r. Sidorová	NP v USA	1	696
+1608	Jurič Juraj	zomrel v USA	1	709,710,711
+1608	Juričová Anna r. Mihaľová	muž Micha, zomrela, SPFl	1	711
+1608	Juričová Anna r. Mihaľová	muž Michal, zomrela	1	709,710
+1608	Kačmár Dorin Juraj	zomrel	1	690,696
+1608	Kačmár Michal		0	401,402,435,570
+1608	Kantorová Helena r. Valkučaková	zom. 12.8.1988, Lukov 83	0	569
+1608	Karafa Andrej		0	852
+1608	Karaffa Ján	NP	1	709,710
+1608	Karaffa Ján	NP/	1	711
+1608	Karaffa Ján	zomr. 10.12.1993	1	711
+1608	Karaffa Vasiľ	ml.,NP/	1	711
+1608	Karaffa Vasiľ	ml.NP	1	709,710
+1608	Karaffová Anna r. Sidorová	zomrela 16.7.1947	1	709,710
+1608	Karafová Anna r. Sidorová	zomrela 16.7.1947	1	711
+1608	Karafová Mária r. Sidorová	z. 1.4.1978	0	401,402,435,798
+1608	KAŠČAK PAVOL		0	52,668
+1608	Kaščák Pavol	mal. NP	1	709,710
+1608	Kaščák Pavol	mal.NP	1	711
+1608	KAŠČAK PETER		0	52,668
+1608	Kaščák Peter	mal.NP	1	711
+1608	Kaščák Peter	NP	1	709,710
+1608	KAŠČAK VASIĽ		0	52,668
+1608	Kaščák Vasiľ	NP	1	709,710
+1608	Kaščál Vasiľ	NP	1	711
+1608	Kažik Ján	syn Jána	1	709,710
+1608	Kažik Ján	ž.Zuzana, syn Jána	1	711
+1608	Kažík Ján	zomrel	1	709,710
+1608	Kažík Ján	ž.Zuzana, zomrel	1	711
+1608	Kažik Jozef	zomrel/dedič nie je	1	709,710
+1608	Kažik Michal	NP/	1	711
+1608	Kažík Michal	NP	1	695,709,710
+1608	Kažiková Helena	malol.NP/	1	711
+1608	Kažiková Helena	NP	1	709,710
+1608	Kažiková Júlia	NP/	1	711
+1608	Kažíková Júlia	NP	1	709,710
+1608	Kažíková Mária	NP	1	709,710
+1608	Kažíková Mária	NP/	1	711
+1608	Kažiková Mária r. Popová	s. Anna,Helena, Zuzana	0	727,730,802
+1608	Kiszela Anna r. Rohaľová	muž Štefan	0	401,402,435,481,491,530,534,542,728
+1608	Klepáč Peter	mal. 1930, sur. Vasil, Juraj, Julia, Ján	0	732,812,964
+1608	Klepáč Vasiľ	dcera Irena Simková, z. 6.4.1985	0	757,811,812
+1608	Klepáč Vasiľ	zom. 6.4.1985	0	711
+1608	Klepáčová Anna	mal. 1930, sur. Vasil, Juraj, Julia, Ján	0	732,812,964
+1608	Klepáčová Anna r. Pillár	vdova, muž Ján, 8 deti	0	812
+1608	Klepáčová Julia	mal. 1930, sur. Vasil, Juraj, Peter, Ján	0	732,812,964
+1608	Klepačová Mária r. Ščurok	z. 20.1.1985	0	757
+1608	Kolcunová Anna r. Molčanová	zom. 1.11.1978	0	495,569
+1608	Kolcunová Anna r. Molčanová, zom.01.11.1978 zom.01.11.1978		0	1035
+1608	Kravec Adam		0	837
+1608	Kravecová Irena	mal. 1932, sur. Mária a Michal	0	401,402,435,446,462,495,588,591,797,927,967,974,975,977,978,981,982,983,995,1052,1053,1054,1055
+1608	Kravecová Irena, malolety 1932, sur. Mária a Michal malolety 1932, sur. Mária a Michal		0	1035
+1608	Kuruc Ján	NP,/	1	701
+1608	Kuruc Juraj	ž. Anna Valkučák	0	497
+1608	Malega Vasiľ	ml., z. 6.3.1974	0	859
+1608	Malegová Anna r. Vošková		0	913
+1608	Malegová Julia		0	401,402,435,511
+1608	Mašlar Ján	NP	1	707
+1608	Mašlar Mikuláš	NP	1	707
+1608	Mašlarová Helena	NP	1	707
+1608	Mihaľová Mária r. Mikitová	Malcov,zomrela	1	711
+1608	Mihaľová Mária r. Mikitová	zomrela Malcov	1	709,710
+1608	Mikita Ján	NP v USA	1	709,710,711
+1608	Miková Anna r. Dančišin	Sovietskej arm. 36, Sabinov	0	401,402,435,451,573,574
+1608	Mlynarič Ján	zomrel, 22.11.1980	1	711
+1608	Molčan Ján	K 1919 od Petra	0	857
+1608	Molčan Ján	mal. D 1893 s Jozefom	0	401,402,435,795,828,830
+1608	Molčan Jozef	mal. D 1893 s Jánom	0	401,402,435,795,828,830
+1608	Molčanová Terézia	zom. 9.11.1980	0	401,402,435
+1608	MOLČANOVÁ TERÉZIA		0	9
+1608	Nemková Julia r. Onufer	ses. Mária, Irena, Anna	0	401,402,435,446,588,591,742,753,782,967,974,975,977,978,981,982,983,995
+1608	Nirková Mária r. Volčko	Varadská	0	111
+1608	Onufer Ján	mal. 1907, K 1932 od Julie Jedinák	0	833
+1608	Onufer Ján	mal. NP	1	709,710
+1608	Onufer Ján	mal. NP/	1	711
+1608	Onufer Ján	mal.NP	1	707
+1608	Onufer Juraj	mal. 1907, deti Michal, Anna, Mária, Oľg	0	833
+1608	Onufer Michal	D 1926, sur. Julia, Mária, Mikuláš a Ana	0	401,402,435,786
+1608	Onufer Michal	Kupa 1894 od Vasiľa	0	826
+1608	Onufer Michal	mal. D1907	0	833
+1608	Onufer Michal	ž. neboha Mária Rohaľ	0	826,832
+1608	Onufer Mikuláš	sur. Michal, Mária, Anna a Vasil	0	401,402,435,786,832
+1608	Onufer Pavol	sestra Julia Jedináková, zom. 23.07.1992	0	401,402,435,778
+1608	Onufer Štefan	mal. D1907	0	833
+1608	Onufer Vasiľ	otec Michal	0	853
+1608	Onufer Vasiľ	s. Julia, Michal, Mária, Anna, M	0	832
+1608	Onufer Vasiľ	sur. Mária Stašková, Anna	0	833
+1608	Onuferová Anna	mal., NP	1	695
+1608	Onuferová Anna	mal.NP	1	702,707
+1608	Onuferová Anna	s. Julia, Michal, Mária, Vasiľ	0	832
+1608	Onuferová Anna	sur. Vasil, Mária Staško r. Onufer	0	833
+1608	Onuferová Anna r. Džundová	muž Juraj, NP	1	692
+1608	Onuferová Irena	mal. 1950, ses Mária, Anna, Jul, pozri 670	0	446,588,591,967,974,975,977,978,981,982,983,995
+1608	Onuferová Júlia	zomrela v USA	1	707,709,710,711
+1608	Onuferová Mária	mal. D1907	0	833
+1608	Onuferová Zuzana r. Džundová	zomrela	1	690,696
+1608	Onufrej Juraj	D 1889 po Jánovi	0	401,402,435,786
+1608	Onufrej Juraj	D 1889 po Jánovi pod B5	0	401,402,435,786
+1608	Pavlič Michal	Lukov 72, otec Seman, zom. 6.1.2000	0	763
+1608	PAVLIČOVÁ ANNA, LUKOV, Slovensko		1	211
+1608	Pavličová Mária	mal. D 1942, 4 sur	0	446,588,591,967,974,975,977,978,981,982,983,995
+1608	PAVLIČOVÁ MÁRIA, LUKOV, Slovensko		1	211
+1608	Pillár Ján	mal. 1943, 7 surodencov	0	401,402,435,787,862,987,988
+1608	Pillár Jozef	7 surodencov	0	401,402,435,787,862,987,988
+1608	Pillárová Oľga	mal. 1943, 7 surodencov	0	401,402,435,787,862,987,988
+1608	Pillárová Zuzana	mal. 1943, 7 surodencov	0	401,402,435,787,862,987,988
+1608	Pillárová Zuzana	vzdialená, D 1951 po Jurajovi Pillárovi	0	401,402,435,787,862,987,988
+1608	Pivovarník Ján	ž. Mária r. Onufer	0	401,402,435,786,832
+1608	Pop Juraj	z. 17.12.1967, nedol. D20/68	0	401,402,435,446,531,543,588,591,724,967,974,975,977,978,981,982,983,995
+1608	Priputenová Anna r. Onuferová	ses. Mária, Irena,Julia	0	401,402,435,446,588,591,742,753,782,967,974,975,977,978,981,982,983,995
+1608	Ratvaj Michal	Čsl. armady 19/4 SNV, z. 27.6.1982	0	753
+1608	Ratvaj Mikuláš	Partizánska 1270/29 BJ, z. 26.8.2001	0	753
+1608	Rejda Michal	st.zomrel	1	709,710,711
+1608	Reviľák Ján	Kačmár, Z 1907	0	446,588,591,866,967,974,975,977,978,981,982,983,995
+1608	Reviľák Štefan	ml., otec Štefan	0	841
+1608	Reviľáková Anna	Zap. 1883 po Jánovi, sestra Julia	0	401,402,435,795,828,830
+1608	Reviľaková Júlia	NP	1	700
+1608	Reviľaková Mária	mal.NP	1	700
+1608	Rohaľ Adam	žena Mária r. Rohaľová, K 1947 od Julie	0	401,402,435,531,543,724
+1608	Rohaľ Andrej	Dudra, sur. Michal a Juraj, nar ok 1903	0	401,402,435,788
+1608	Rohaľ Andrej, Dudra, sur. Michal a Juraj, nar okolo 1903 Dudra, sur. Michal a Juraj, nar okolo 1903		0	1018
+1608	Rohaľ Ján	Dudra, brat Michal asi slobod	0	401,402,435,788
+1608	Rohaľ Ján	Dudra, Kupoval 1913	0	863
+1608	Rohaľ Ján	Dudra, sur. Juraj, Michal, Anna a Mária	0	401,402,435,788
+1608	Rohaľ Ján	Dudra, ž. Anna Šuťaková, zom. 20.02.1994	0	401,402,435,788
+1608	Rohaľ Ján	Ilkiv, K 1936 s Vasilom	0	446,588,591,920,967,974,975,977,978,981,982,983,995
+1608	Rohaľ Ján	Kravec, mal. 1939, sestra Mária	0	401,402,435,446,531,543,588,591,724,936,967,974,975,977,978,981,982,983,995
+1608	Rohaľ Ján	Lobivčák, nar. okolo 1905, brat Juraj	0	289,401,402,435,734
+1608	Rohaľ Ján	mlad., Z 1907	0	446,588,591,967,974,975,977,978,981,982,983,995
+1608	Rohaľ Ján	Rohaľčin, zom. 20.09.1968	0	495
+1608	Rohaľ Ján	zápis 1890, spolu s Tulenkom a Molčanom	0	289,401,402,435,734
+1608	Rohaľ Ján	Zuzin, D1894, Bekes-csaba	0	835
+1608	Rohaľ Ján	ž. Mária Rohalčin, USA,z. 9.4.1971	0	764
+1608	Rohaľ Ján	ž. Zuzana Buliščák	0	861
+1608	Rohaľ Ján, Dudra, brat Michal asi slobodny Dudra, brat Michal asi slobodny		0	1036
+1608	Rohaľ Ján, Dudra, sur. Juraj, Michal, Anna a Mária Dudra, sur. Juraj, Michal, Anna a Mária		0	1036
+1608	Rohaľ Ján, Rohaľčin, zom.20.09.1968 Rohaľčin, zom.20.09.1968		0	1036
+1608	Rohaľ Juraj	Iľkiv, syn Juraj	0	940
+1608	Rohaľ Juraj	Iľkiv, Z 1907	0	446,588,591,967,974,975,977,978,981,982,983,995
+1608	Rohaľ Juraj	Kravec, Z 1913	0	860
+1608	Rohaľ Juraj	Lobivčák, starší	0	844
+1608	Rohaľ Juraj	mal. 1916, Lobivčák, sur. Jozef,Anna,Mic	0	401,402,435,801
+1608	Rohaľ Juraj	ses. Anna Kiszela, D 1910 nezl	0	401,402,435,481,491,530,534,542,728
+1608	Rohaľ Juraj	Zuzin, mal. 1944, brat Jozef	0	446,588,591,864,967,974,975,977,978,981,982,983,995
+1608	Rohaľ Kravec Vasiľ	ž. Zuzana r.Mochnacká, zomrela	1	709,710,711
+1608	Rohaľ Kravecová Mária	mal.NP,matka Žofia r.Mochnacká	1	711
+1608	Rohaľ Kravecová Mária r. Mochnacká	mal.NP, matka Žofia r. Mochnacká	1	709,710
+1608	Rohaľ Kravecová Zuzana r. Mochnacká	zomrela	1	709,710,711
+1608	ROHAĽ LOBIVČÁK JÁN, LUKOV, Slovensko		1	287
+1608	Rohaľ Lobivčák Michal	NP v USA	1	709,710,711

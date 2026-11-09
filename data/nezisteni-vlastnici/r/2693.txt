@@ -1,0 +1,256 @@
+1529	Kontrová Mária	Jozefova	1	1272,1718,1926,1927,2257
+1529	Kontrová Mária r. Vlniešková	Jozefova	1	2286
+1529	Kontrová Mária r. Vlniešková, Jozefková Jozefková		0	2970,3385,3958,3983
+1529	Korčeková Zuzana r. Gazdaricová, SR		0	1881
+1529	Koreň Andrej	Bosý	1	1272,1718,1926,1927,2257
+1529	Koreň Florián r. Koreň	LESY SR	0	2886,3803
+1529	Koreň Ján	Jusko	1	1272,1718,1926,1927,2257
+1529	Koreň Ján	zomrel	1	1718,1873,1926,1927
+1529	Koreň Ján r. Koreň	Jusko	0	2970,3958,3983
+1529	Koreň Ján r. Koreň	zomrel	0	2970,3983
+1529	Koreň Jozef	Močilan	1	2652
+1529	Koreň Jozef, SR		1	2652
+1529	Koreň Ondrej	Jusko	1	1272,1718,1926,1927,2257
+1529	Koreň Ondrej r. Koreň	Jusko	0	2970,3958,3983
+1529	Koreň Pavel	žen.s Annou Javošovou	1	1399,1718,1926,1927,2257,2549,2743
+1529	Koreň Pavel r. Koreň	žen.s Annou Javošovou	0	2970,3816,3958,3983
+1529	Koreň Pavol		1	1882
+1529	Koreň Pavol	žen. s Annou Javošovou	1	1272
+1529	Koreň Severín	1	1	2625
+1529	Koreň Štefan	Jusko	1	1272,1718,1926,1927,2257
+1529	Koreň Štefan r. Koreň	Jusko	0	2970,3958,3983
+1529	Koreň Tomáš r. Koreň		1	3899
+1529	Koreň Vincent	1	1	1272,1718,1926,1927
+1529	Koreň Vincent	Jusko	1	1272,1718,1926,1927,2257
+1529	Koreň Vincent r. Koreň	1	0	2970,3958,3983
+1529	Koreň Vincent r. Koreň	Jusko	0	2970,3958,3983
+1529	Koreň Vincent r. Koreň, Koreň Koreň		0	2970,3492,3958,3983
+1529	Koreň Vincent, SR		1	1272,1718,1926,1927,2257
+1529	Koreňová Alojzia r. Bosá		1	2911
+1529	Koreňová Alojzia r. Jozefková, SR		1	1353
+1529	Koreňová Alojzia r. Vlniešková		0	2970,3958,3983
+1529	Koreňová Alojzia r. Vlniešková	1	1	1272,1718,1926,1927,2970,3958,3983
+1529	Koreňová Alojzia r. Vlniešková, SR		1	1272,1718,1926,1927
+1529	Koreňová Alojzia r. Zrezková	Bosá	1	4004
+1529	Koreňová Anna	Cyrilova	1	2257
+1529	Koreňová Anna	Jánova	1	2257
+1529	Koreňová Anna	Miškova	1	1882
+1529	Koreňová Anna r. Jarošová		1	1882
+1529	Koreňová Anna r. Jusková		1	1871,2970,3958,3983
+1529	Koreňová Anna r. Jusková	1	0	1711,4004
+1529	Koreňová Anna r. Jusková	Augustínová Gustavova	1	2625
+1529	Koreňová Anna r. Jusková, SR		1	1272,1718,1926,1927,2257
+1529	Koreňová Anna r. Koštiaľová		1	1893,3697
+1529	Koreňová Anna r. Šiculjaková	Cyrilova	1	2874,2907
+1529	Koreňová Antónia r. Máliková		1	1910,2970,3202,3958,3983
+1529	Koreňová Antónia r. Máliková, SR		1	1272,1718,1926,1927
+1529	Koreňová Emília r. Gazdaricová		1	3393
+1529	Koreňová Ilona		0	2970,3958,3983
+1529	Koreňová Ilona, SR		1	1272,1718,1874,1926,1927,2257
+1529	Koreňová Kristína		0	2970,3958,3983
+1529	Koreňová Kristína, SR		1	1272,1718,1926,1927,2257
+1529	Koreňová Lujza r. Jozefková		0	2970,3958,3983
+1529	Koreňová Lujza r. Jozefková, SR		1	1272,1718,1926,1927,2257
+1529	Koreňová Magdaléna	Jozefova	1	1272,1718,1926,1927
+1529	Koreňová Magdaléna r. Drozdíková	Jozefova	1	1886
+1529	Koreňová Pavlína r. Srpoň, SR		1	1272,1718,1926,1927
+1529	Koreňová Pavlína r. Srpoňová		0	2970,3958,3983,3997
+1529	Koreňová Zuzana	Ondrejova	0	2257
+1529	Koreňová Zuzana r. Halušková		0	2970,3785,3958,3983
+1529	Koreňová Zuzana r. Halušková, SR		1	1272,1718,1926,1927
+1529	Koreňová Žofia r. Kvorková		1	3751
+1529	Koreňová Žofia r. Šiculiaková		1	3512
+1529	Kosejnová Kristína r. Ťupeková		0	2970,3958,3983
+1529	Košiaľová Adela r. Čunderlíková	Palova	1	1365
+1529	Koštiaľ Juraj, SR		1	1272,1718,1926,1927
+1529	Koštial Metod r. Koštial		0	2970,3958,3983
+1529	Koštiaľ Metod, SR		1	1272,1718,1926,1927
+1529	Koštiaľ Štefan	1	1	1272,1718,1926,1927
+1529	Koštial Štefan r. Koštial		0	2970,3175,3958,3983
+1529	Koštial Štefan r. Koštial	1	0	2970,3958,3983
+1529	Koštial Štefan r. Koštial	zomrel 28.02.1943	0	1272,1718,1926,1927,2218,2257,2490,2941,2970,3254,3958,3983
+1529	Koštiaľ Štefan, SR		1	1272,1718,1926,1927,2257,2393
+1529	Koštiaľová Adela	Pavelova	1	2257
+1529	Koštiaľová Adela	Pavlova	1	1272
+1529	Koštiaľová Adela r. Čunderlíková	Palova	1	1365,1752,1923
+1529	Koštiaľová Adela r. Čunderlíková	Pavelova	1	2222,2645
+1529	Koštiaľová Adela r. Čunderlíková	Pavlova	1	1707,1752,2970,3620,3958,3983
+1529	Koštialová Alojzia		0	2970,3958,3983
+1529	Koštiaľová Alojzia, SR		1	1272
+1529	Koštiaľová Anna	1	1	1272,2907,2970,3958,3983
+1529	Koštialová Helena		1	2907
+1529	Koštialová Helena r. Húšťavová		0	2970,3958,3983
+1529	Koštiaľová Helena r. Húšťavová, SR		1	1272,2257,2555
+1529	Koštiaľová Helena, SR		1	2366
+1529	Koštialová Hermína r. Halušková, Liptovská Osada, SR		0	3958
+1529	Koštiaľová Hermína r. Halušková, SR		1	1272,1465
+1529	Koštiaľová Hernína r. Halušková	1	1	1272
+1529	Koštiaľová Irena		1	1734,1916,2970,3742,3958,3983,3997,4010
+1529	Koštiaľová Irena, SR		1	1252,1272,2257,2452
+1529	Koštialová Jozefína		0	3129
+1529	Koštiaľová Magdaléna	1	0	1272,1718,1927,2970,3958,3983
+1529	Koštiaľová Magdaléna	3	1	1272,2970,3958,3983
+1529	Koštiaľová Magdaléna r. Paludová, SR		1	1272
+1529	Koštiaľová Mária	maloletá	1	1919
+1529	Koštiaľová Štefánia		1	1686,2970,3506,3958,3983
+1529	Koštiaľová Štefánia, SR		1	1272,1397,2257,2366,2562
+1529	Koštialová Verona		0	2962,2970,3958,3983
+1529	Koštiaľová Verona, SR		1	1272,2257
+1529	Kováč Peter, SR		1	2449
+1529	Králiková Žofia r. Kurillová		1	3916
+1529	Krbaťa Albert		1	1967
+1529	Krbaťa Dominik, SR		1	2640
+1529	Krbaťa Gustáv		1	1967
+1529	Krbaťa Gustáv, SR	na neznámom mieste	1	2640
+1529	Krbaťa Ján r. Krbaťa		1	3627
+1529	Krbaťa Matúš r. Krbaťa		0	2970,3958,3983,4004
+1529	Krbaťa Matúš, SR		1	1272,2257,2558
+1529	Krbaťa Rehor r. Krbaťa		0	2970,3958,3983,4004
+1529	Krbaťa Rehor, SR		1	1272,2257,2558
+1529	Krbaťa Tomáš		1	1967
+1529	Krbaťa Vincent r. Krbaťa		0	2970,3958,3983,4004
+1529	Krbaťa Vincent, SR		1	1272,2257,2558
+1529	Krbaťová Genovéva		1	1967
+1529	Krbaťová Madlena		0	2970,3958,3983,4004
+1529	Krbaťová Madlena, SR		1	1272,2257,2558
+1529	Krbaťová Magdaléna r. Koštiaľová	1	0	1718,1926,1927
+1529	Krbaťová Mária r. Šiculiaková		1	1892
+1529	Krbaťová Zuzana r. Romek		0	3584
+1529	Krupková Emília r. Koštiaľová, SR		1	1272
+1529	Kubačková Mária	zomrela	1	1966
+1529	Kubáni Koloman r. Kubáni		0	2970,3310,3958,3983
+1529	Kubáni Koloman, SR		1	1272,1927,2257
+1529	Kubániová Mária		1	3692
+1529	Kuchárová Alžbeta		1	1778,2912,2970,3958,3983
+1529	Kuchárová Alžbeta, SR		1	1272,1461,2257,2351
+1529	Kuchárová Anna		1	1778,2970,3958,3983,4004
+1529	Kuchárová Anna, SR		1	1272,1461,2257,2351
+1529	Kurilla Ján, SR		1	2355
+1529	Kurilla Tomáš r. Kurilla		0	2970,3338,3958,3983
+1529	Kurilla Tomáš, SR		1	1272,2257,2571
+1529	Kurillová Anna	Floriánova	1	2257
+1529	Kurillová Anna r. Húšťavová		0	2970,3316,3958,3983
+1529	Kurillová Anna r. Húšťavová, SR		1	1272
+1529	Kurillová Žofia		0	2970,3388,3958,3983
+1529	Kurillová Žofia r. Praženicová, SR	z Luhu, manž. Florián	1	2257
+1529	Kurillová Žofia, SR		1	1272
+1529	Kurilová Alojzia r. Šalátová	LESY SR	0	2886,3526
+1529	Kurilová Anna	Floriánova	1	2257
+1529	Kurilová Anna r. Húšťava, SR		1	1433
+1529	Kurilová Anna r. Húšťavová		1	2970,3024,3958,3983
+1529	Kurilová Anna r. Húšťavová	Floriánova, vdova	1	2501
+1529	Kurilová Anna r. Húšťavová, SR		1	1272,1926
+1529	Kurilová Hermína		0	2970,3424,3958,3983
+1529	Kurilová Hermína, SR		1	1272,2257
+1529	Kurpašová Magdaléna	Ondrejova	1	1272
+1529	Kurpašová Magdaléna	Ondrejova, Banášová	1	2257
+1529	Kurpašová Magdaléna r. Fidesová	Ondrejova	1	1885,2970,3958,3983
+1529	Kurpašová Mária r. Šomegová - Hancková, SR		1	1272
+1529	Kurpašová Mária r. Šomegová Hancková		1	2970,3104,3958,3983
+1529	Kurpašová Mária r. Šomegová-Hancková, SR		1	2257,2543
+1529	Kutlíková Gabriela r. Veselovská, predtým vydatá. Šípková, SR		1	2257
+1529	Kvorka Ján	žen.s Margitou Málikovo	1	2257
+1529	Kvorka Ján r. Kvorka		1	3572
+1529	Kvorka Ján r. Kvorka	žen.s Margitou Málikovou	0	2970,3983
+1529	Kvorka Juraj	ml	1	1272,2257
+1529	Kvorka Juraj r. Kvorka	ml	0	2970,3898,3958,3983
+1529	Kvorka Štefan r. Kvorka		1	2907,2970,3658,3958,3983
+1529	Kvorka Štefan r. Kvorka	1	1	3668
+1529	Kvorka Štefan, SR		1	1272
+1529	Kvorka Štefan, SR	ženatý s Pavlínou rod. Michalovou	1	1397,2257
+1529	Kvorková Anna		1	2521
+1529	Kvorková Anna	LESY SR	0	2941,2966,2970,3644,3958,3983
+1529	Kvorková Anna	Štefanova	1	2257,2302
+1529	Kvorková Anna r. Drozdíková		0	2970,3958,3983
+1529	Kvorková Anna r. Drozdíková, SR		1	1272
+1529	Kvorková Anna, SR		1	1272,1579,2257
+1529	Kvorková Magdaléna r. Koštiaľová	Pavlova	0	1591
+1529	Kvorková Margita	Jánova	1	2257
+1529	Kvorková Margita r. Máliková		0	2970,3983
+1529	Kvorková Margita r. Máliková	1	1	2257,2970,3983
+1529	Kvorková Margita r. Máliková	2	1	1272,2453,2970,3958,3983
+1529	Kvorková Pavlína r. Michalová		0	2970,3530,3958,3983
+1529	Kvorková Pavlína r. Michalová, SR		1	1272,1397,2257
+1529	Lazieková Jozefína r. Máliková	LESY SR	0	2941,2970,3590,3958,3983,3992,4009
+1529	Lazieková Jozefína r. Máliková, SR		1	1272,1274,2257,2300
+1529	Lazík Jezef	zomrel	1	1272
+1529	Ľudová Banka	v Ružomberku	1	2257
+1529	Macík František		1	1840
+1529	Macík František, SR		1	1272,2257
+1529	Macíková Zuzana r. Šímová		1	1883
+1529	Málik Anton		1	1910
+1529	Málik Anton	1	1	1272,2257
+1529	Málik Anton r. Málik		0	2970,3958,3983
+1529	Málik Anton r. Málik	1	0	2970,3268,3958,3983
+1529	Málik Anton, SR		1	1272,2257
+1529	Málik Cyril r. Málik		0	2970,3638,3958,3983,3992,4009
+1529	Málik Cyril, SR		1	1272,1274,2257,2300
+1529	Málik František	Dibuš	1	1272
+1529	Málik František r. Málik	Dibuš	1	2970,3744,3958,3983
+1529	Málik Fratišek	Dibuš	1	2243,2257
+1529	Málik Ján	2	1	1272
+1529	Málik Ján	Bačovský	1	1272,1918,2257
+1529	Málik Ján	Dibuš	1	1272,2243,2257
+1529	Málik Ján r. Málik	2	0	2912,2970,3958,3983
+1529	Málik Ján r. Málik	Bačovský	0	2970,3958,3983
+1529	Málik Ján r. Málik	Dibuš	0	2970,3467,3958,3983
+1529	Málik Ján, SR		1	2874
+1529	Málik Juraj		1	1272,2582
+1529	Málik Juraj	1	1	2257
+1529	Málik Juraj r. Málik		0	2970,3798,3958,3983,4009
+1529	Málik Juraj, SR		1	1533
+1529	Málik Karol r. Málik	Bačovský	1	3973
+1529	Málik Louis	Koreň	1	1272,1274,2257,2300
+1529	Málik Louis r. Málik	Koreň	0	2941,2970,3487,3958,3983,3992
+1529	Málik Martin		1	1695
+1529	Málik Michal r. Málik		1	2911
+1529	Málik Michal, SR		0	2506
+1529	Málik Mildred	Bruchie	1	1272,1274,2257,2300
+1529	Málik Mildred r. Málik	Bruchie	0	2941,2970,3870,3958,3983,3992
+1529	Málik Rudlf	Dibuš	1	1272,2243,2257
+1529	Málik Rudolf r. Málik	Dibuš	1	2970,3056,3983
+1529	Málik Štefan	Paškaj	1	2257,2453
+1529	Málik Štefan	Paškaj 1	1	1272
+1529	Málik Štefan r. Málik		0	2970,3983
+1529	Málik Štefan r. Málik	Paškaj 1	0	2970,3958,3983
+1529	Málik Viktor	Dibuš	1	1272,2243,2257
+1529	Málik Viktor r. Málik	Dibuš	0	2970,3303,3958,3983
+1529	Málik Vincent	2	1	1272
+1529	Málik Vincent	Paškaj	1	2257,2453
+1529	Málik Vincent r. Málik		0	2970,3983
+1529	Málik Vincent r. Málik	2	0	2970,3958,3983
+1529	Máliková Amália		0	2970,3983
+1529	Máliková Anna		0	2970,3651,3983
+1529	Máliková Anna	1	1	3973
+1529	Máliková Anna	2	0	2970,3983
+1529	Máliková Anna	Paškaj	1	2203,2257,2453,2588,2941,3888
+1529	Máliková Anna r. Húšťavová		1	2970,3092,3983,3992
+1529	Máliková Anna r. Húšťavová, Srpoňová, SR		1	1274,2257,2300
+1529	Máliková Anna r. Javošová		1	1373,2970,3958,3983
+1529	Máliková Anna r. Javošová	1	1	2257
+1529	Máliková Anna r. Javošová, SR		1	1272
+1529	Máliková Anna r. Michalová		1	2507,2970,3706,3958,3983
+1529	Máliková Anna r. Michalová, SR		1	1272,1366,1600,2257,2506
+1529	Máliková Anna r. Paskajová	LESY SR	0	2911,3950
+1529	Máliková Anna r. Šomegová, SR		1	1272,1594
+1529	Máliková Anna r. Ťupeková		0	2970,3680,3958,3983
+1529	Máliková Anna r. Ťupeková, SR		1	1272,2257,2483
+1529	Máliková Anna, SR		1	1598
+1529	Máliková Magdaléna		0	2970,3983
+1529	Máliková Magdaléna r. Bandurová		0	2970,3876,3958,3983
+1529	Máliková Magdaléna r. Bandurová, SR		1	1272,1927,2257
+1529	Máliková Margita		1	1896
+1529	Máliková Margita	LESY SR	0	2912,2941
+1529	Máliková Mária	Dibušová	1	2257
+1529	Máliková Mária r. Šalátová	Dibušová	0	2343
+1529	Máliková Mária r. Šalátová	Dibušová, LESY SR	0	2886,3394
+1529	Máliková Terézia		1	1778,2970,3582,3958,3983
+1529	Máliková Terézia, SR		1	1272,1461,2257,2351
+1529	Máliková Zuzana	Lenčová	1	1778,2912
+1529	Máliková Zuzana r. Rajčanová, SR		1	2429
+1529	Maroš Alojz		1	1769
+1529	Maroš Florián, SR		1	2257
+1529	Maroš Štefan	ženatý s Žofiou Kurillovou	1	1967
+1529	Marošová Alojzia r. Koštialová, SR		1	2257,2541
+1529	Marošová Anna r. Koštiaľová		1	1878,2966,2970,3595,3958,3983
+1529	Marošová Anna r. Koštialová, SR		1	1272

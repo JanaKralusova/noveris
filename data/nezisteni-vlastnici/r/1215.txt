@@ -1,0 +1,256 @@
+711	Pál Štefan r. Pál		0	1060,1079,1082,1084,1086,1087,1138,1140,1148,1157
+711	Palová Alžbeta r. Miková		0	1204
+711	Pálová Mária r. Pálová		0	757,956
+711	Pálová Terézia r. Pálová		0	757,956
+711	Pandur Boiszko Ján r. Pandur Boiszko		0	757,956
+711	Pástor Gabriel r. Pástor	žena Mária r.Gáborová Červená	0	829,858,859,874,875,879,880,881,882,883,884,885,935,936,937,938,939,940,941,942,943,951,969,995,996,997,998,999,1208
+711	Pástorová Mária r. Gáborová Červená	muž Gabriel	0	829,858,859,874,875,879,880,881,882,883,884,885,935,936,937,938,939,940,941,942,943,951,969,995,996,997,998,999,1208
+711	Pavúk Peter r. Pavúk	ž.Margita r.Hodermarská	0	1168
+711	Pavúková Margita r. Hodermarská	m.Peter	0	1168
+711	Počatková Mária r. Poracká	vdova	0	829,858,859,874,875,879,880,881,882,883,884,885,935,936,937,938,939,940,941,942,943,951,969,995,996,997,998,999,1208
+711	Požga Jozef r. Požga	maloletý v r.1934	0	1186
+711	Rácz Barnabáš r. Rácz	maloletý v r.1937	0	929,930,1132,1242
+711	Rácz Jolana r. Rácz	maloletá v r.1937	0	929,930,1132,1242
+711	Rácz Juliana r. Rácz		0	835
+711	Rácz Ladislav r. Rácz	maloletý v r.1937	0	929,930,1132,1242
+711	Rácz Ladislav r. Rácz	PKV 90	0	1179
+711	Rácz Štefan r. Rácz	maloletý v r.1937	0	929,930,1132,1242
+711	Rácz Štefan r. Rácz	zápis 27.7.1882 č.d.1634	0	757,956
+711	Rácz Vojtech r. Rácz	maloletý v r.1937	0	929,930,1132,1242
+711	Ráczová Rozália r. Bartóková		0	1049,1054
+711	Radván Juraj r. Radván	mladší, žena Júlia Magyarová Mihoková	0	829,858,859,874,875,879,880,881,882,883,884,885,935,936,937,938,939,940,941,942,943,951,969,995,996,997,998,999,1208
+711	Rikková Helena r. Tóthová	m.Jozef	0	1221
+711	Rončisovská Helena r. Juhás	m.Samuel	0	757,956,1028,1036,1247,1261
+711	Soltész Andrej r. Soltész		0	757,956
+711	Soltész Anna r. Soltész	vdova	0	757,956
+711	Soltész Jozef r. Soltész		0	757,956
+711	Soltészová Alžbeta r. Bacso		0	757,956
+711	Śöpšiková Alžbeta r. Šöpšiková		0	757,956
+711	Stecz Jozef r. Stecz	súrodenci Alžbeta a Juraj	0	757,956
+711	Stecz Jozef r. Stecz	ž.Alžbeta r.Bojszko	0	757,956
+711	Stecz Juraj r. Stecz	súrodenci Alžbeta a Jozef	0	757,956
+711	Steczová Alžbeta r. Bojszková	m.Jozef	0	757,956
+711	Strauszmann Mayer r. Strauszmann		0	1184
+711	Sylvesterová Anna r. Bartóková		0	1049,1135,1239
+711	Szabo Ján r. Szabo	starší	0	1060,1079,1082,1084,1086,1087,1138,1140,1148,1157
+711	Szabó Ján r. Szabó	mladší	0	1060,1079,1082,1084,1086,1087,1138,1140,1148,1157
+711	Szabo Jozef r. Szabo		0	1140
+711	Szabo Štefan r. Szabo	maloletý v r.1882	0	757,956
+711	Szakácsová Mária r. Mészárošová		0	718,719,741,743,744,745,746,747,749,750,751,758,760,764,1030,1033,1034
+711	Szakál Jozef r. Szakál		0	757,956
+711	Szakálová Barbora r. Mikó	m.Andrej	0	757,956,1201
+711	Szakálová Mária r. Mészárošová		0	1183
+711	Szekely Andrej r. Szekely		0	757,956
+711	Szekely Andrej r. Szekely	ž.Mária r.Baffi	0	757,956
+711	Székely Bartok Alžbeta r. Juhász		0	757,956
+711	Szekely Ján r. Szekely		0	757,956
+711	Szekely Mária r. Baffi	m.Andrej	0	757,956
+711	Szepesi Ján r. Szepesi		0	757,956
+711	Szepesi Michal r. Szepesi		0	757,956
+711	Szepesi Michal r. Szepesi	starší	0	1197
+711	Szepessi Rozália r. Barnák	m.Ján	0	1204
+711	Szloboda Helena r. Szloboda	maloletá v r.1920	0	1167
+711	Szloboda Jozef r. Szloboda	maloletý v r.1920	0	1167
+711	Szokoly Andrej r. Szokoly	ž.Mária r. Baffiová	0	933
+711	Szokoly Štefan r. Szokoly		0	1196
+711	Szokoly Štefan r. Szokoly	mladší	0	712,1196
+711	Szokolyová Mária r. Baffiová	m.Andrej	0	933
+711	Szokolyová Mária r. Mesterová	m.Štefan mladší	0	712,757,956,1011,1040,1233
+711	Šoltés Julianna r. Borsodi		0	757,956
+711	Špak Michal r. Špak	maloletý v r.1942	0	829,858,859,874,875,879,880,881,882,883,884,885,935,936,937,938,939,940,941,942,943,951,969,995,996,997,998,999,1208
+711	Špak Michal r. Špak	žena Júlia r.Špaková	0	829,858,859,874,875,879,880,881,882,883,884,885,935,936,937,938,939,940,941,942,943,951,969,995,996,997,998,999,1208
+711	Špak Peter r. Špak	maloletý v r.1942	0	829,858,859,874,875,879,880,881,882,883,884,885,935,936,937,938,939,940,941,942,943,951,969,995,996,997,998,999,1208
+711	Špaková Alžbeta r. Magyarová		0	829,858,859,874,875,879,880,881,882,883,884,885,935,936,937,938,939,940,941,942,943,951,969,995,996,997,998,999,1208
+711	Špaková Júlia r. Špaková	muž Michal	0	829,858,859,874,875,879,880,881,882,883,884,885,935,936,937,938,939,940,941,942,943,951,969,995,996,997,998,999,1208
+711	Špaková Juliana r. Špaková	maloletá v r.1942	0	829,858,859,874,875,879,880,881,882,883,884,885,935,936,937,938,939,940,941,942,943,951,969,995,996,997,998,999,1208
+711	Šüle Mária r. Šüle		0	1028,1261
+711	Takács Katarína r. Komár		0	757,956
+711	Takács Mária r. Hajdu		0	757,956
+711	Tátra Bank r. Fiókja Szepsi		0	828,966,1198
+711	Thorutonová Barbora r. Bartóková		0	1049,1135,1239
+711	Timko Alžbeta r. Timko		0	757,956
+711	Timko Ján r. Timko		0	757,956
+711	Tisza František r. Tisza		0	757,956
+711	Tisza Helena r. Tisza	maloletá v r.1921	0	757,956
+711	Tisza Ján r. Tisza		0	757,956
+711	Tisza Július r. Tisza	maloletý v r.1921	0	757,956
+711	Tisza Mária r. Tokár		0	757,956
+711	Tisza Štefan r. Tisza	maloletý v r.1921	0	757,956
+711	Tóth Ján r. Tóth		0	757,956
+711	Tóth Ján r. Tóth	ž.Alžbeta r.Baloghová	0	757,956
+711	Tóth Júlia r. Mešter		0	1028,1261
+711	Tóthová Alžbeta r. Baloghová	m.Ján	0	757,956
+711	Tóthová Alžbeta r. Barnáková		0	757,956
+711	Tóthová Katarína r. Kepešová		0	757,956,1203
+711	Tóthová Terézia r. Miková	m.Andrej	0	757,956,1201
+711	Turimaiová Mária r. Miková		0	1204
+711	Varga Ján r. Varga	maloletý v r.1942	0	829,858,859,874,875,879,880,881,882,883,884,885,935,936,937,938,939,940,941,942,943,951,969,995,996,997,998,999,1208
+711	Varga Jozef r. Varga	maloletý v r.1942	0	829,858,859,874,875,879,880,881,882,883,884,885,935,936,937,938,939,940,941,942,943,951,969,995,996,997,998,999,1208
+711	Varga Juraj r. Varga		0	829,858,859,874,875,879,880,881,882,883,884,885,935,936,937,938,939,940,941,942,943,951,969,995,996,997,998,999,1208
+711	Vargová Alžbeta r. Andó		0	1193
+711	Vargová Alžbeta r. Vargová	maloletá v r.1942	0	829,858,859,874,875,879,880,881,882,883,884,885,935,936,937,938,939,940,941,942,943,951,969,995,996,997,998,999,1208
+711	Vargová Žofia r. Vargová	maloletá v r.1942	0	829,858,859,874,875,879,880,881,882,883,884,885,935,936,937,938,939,940,941,942,943,951,969,995,996,997,998,999,1208
+711	Vartáš Jozef r. Vartáš		0	749,757,956
+711	Vartáš Vincent r. Vartáš	ž.Barbora r.Hajduová	0	718,1191
+711	Vartášová Barbora r. Hajduová	m.Vincent	0	1191
+711	Veréb Anna r. Juhász		0	757,956,1028,1036,1247,1261
+711	Vozárová Katarína r. Vozárová		0	757,956
+711	Zapotoczki Barbora r. Szeman		0	757,956
+711	Zapotoczki Vazulné r. Zapotoczki	vdova	0	757,956
+711	Zöldi Andrej r. Zöldi	maloletý v r.1882	0	757,956
+711	Zöldi František r. Zöldi	maloletý v r.1882	0	757,956
+711	Zöldi Jozef r. Zöldi	maloletý v r.1882	0	757,956
+711	Zöldi Netus r. Zöldi	maloletý v r.1882	0	757,956
+711	Zöldi Terézia r. Sirgely		0	757,852,956
+711	Zöldi Zuzana r. Zöldi		0	757,956
+711	Zöldiová Anna r. Kajková		0	757,956
+711	Zvirinská Rozália r. Gáborová	muž Ján	0	829,858,859,874,875,879,880,881,882,883,884,885,935,936,937,938,939,940,941,942,943,951,969,995,996,997,998,999,1208
+711	Zvirinská Rozália r. Zvirinská	muž Andrej mladší	0	829,858,859,874,875,879,880,881,882,883,884,885,935,936,937,938,939,940,941,942,943,951,969,995,996,997,998,999,1208
+711	Zvirinský Andrej r. Zvirinský	mladší, žena Rozália r.Zvirinská	0	829,858,859,874,875,879,880,881,882,883,884,885,935,936,937,938,939,940,941,942,943,951,969,995,996,997,998,999,1208
+711	Zvirinský Štefan r. Zvirinský		0	1060,1079,1082,1084,1086,1087,1138,1140,1148,1157
+712	Andel Juraj r. Andel		0	699
+712	Andelová Mária r. Reháková		0	699
+712	Bačkadiová Rozália		0	295,739
+712	Bačkadiová Rozália	č. domu 21	0	742
+712	Bahelková Paulína r. Ševčíková		0	466
+712	Balážik Štefan r. Balážik		0	611
+712	Bartík Juraj r. Bartík		0	648
+712	Bartíková Mária r. Ďurišková		0	648
+712	Bieliková Rozália r. Šišková		0	457
+712	Bobulová Eva	č.domu 72; č.domu 72	0	746
+712	Bobulová Eva	číslo domu 72	0	295
+712	Budaj Michal r. Budaj		0	295,742
+712	Cibulová Maria		0	295,741,742
+712	Cifrová Rozália r. Horehájová		0	635
+712	Dadan Adam r. Dadan		0	740
+712	Dadanová Verona		0	740
+712	Deters Karol		0	706
+712	Detersová Cecília r. Kuklová		0	706
+712	Dolný Filip r. Dolný	Krtovce, č. domu 23	0	540
+712	Dolný Jozef	ž. Irena Oravcová, Krtovce	0	540
+712	Držík Michal		0	312,313
+712	Držík Pavel		0	312,313
+712	Držík Samuel		0	540
+712	Držíková Jolana r. Masaryková		0	341,342,343,799,838
+712	Ďurček Ján		0	690
+712	Ďurček Ján	Banka pri Piešťanoch	0	400,401,743
+712	Ďurčeková Emília r. Vaváková		0	690
+712	Ďurčeková Jolana	č.domu 33, otec-Ján Ďurček,matka-Mária Ďurčeková	0	400,401,743
+712	Ďurčeková Pavlína	č.domu 33, otec-Ján Ďurček,matka-Mária Ďurčeková	0	400,401,743
+712	Ďurčeková Veronika		0	731
+712	Ďurčeková Veronika	č.domu 33, otec-Ján Ďurček,matka-Mária Ďurčeková	0	400,401,743
+712	Ďurčeková Verony		0	624
+712	Ďurkovičová Anna		0	295,501,742
+712	Dvorská Anna r. Füzy		0	562
+712	Dvorský Jozef		0	212,562,581,601
+712	Gajdoš Adam		0	367,368,381,382,383,461,618,723
+712	Gajdoš Adam	č. domu 20	0	351,367,368,383,464,519,536
+712	Gajdoš Adam	č.domu 20	0	353
+712	Gajdoš Imrich		0	382,461,618,723
+712	Gajdoš Imrich	č. domu 20	0	351,464,519,536
+712	Gajdoš Ján	ml	0	704
+712	Gajdoš Ján	ž. Anna Lacková	0	579,580
+712	Gajdoš Ján	ž. Augustína Moravková	0	353
+712	Gajdoš Július		0	351,353,618,723
+712	Gajdoš Pavel		0	368
+712	Gajdoš Viliam		0	383,461,464,519,536
+712	Gajdošová Mária r. Krošláková		0	704
+712	Gajdošová Zuzana	manž. Pavol Gajdoš, č. domu 18	0	518,617
+712	Gajdošová Zuzana r. Petríková		0	351,352,368,463,464,519,536
+712	Goga Štefan	Lužany č. 14	0	255
+712	Gogová Alžbeta		0	255
+712	Gogová Rozália	Lužany č. 14, manžel Peter	0	255
+712	Grič Pavol r. Grič	Nitrianska Streda	0	357,492,573
+712	Grman Július	č. domu 19	0	540
+712	Grman Július	Krtovce č. domu 19	0	279
+712	Gulík Ján	č. domu 23	0	295,742
+712	Halaj Gašpar	č. domu 16	0	295
+712	Halaj Gašpar	č.domu 16	0	742
+712	Halajová Valéria r. Bočkádyová		0	295,501,739,742
+712	Halás Jozef r. Halás	slobodný	0	501,742
+712	Halmešová Rozália r. Oravcová	Alakšince	0	279,540
+712	Haluzová Anna		0	212,581
+712	Hodnová Margita r. Brezinová		0	666
+712	Holan Peter		0	629
+712	Holanová Augustína r. Holanová	Vozokany č.50	0	432,436,437,438,585,629,757
+712	Homola Ján	č. domu 7	0	670
+712	Homola Ján	Lužany č.7	0	255
+712	Horehájová Mária r. Švecová		0	295,501,742
+712	Horehájová Rozália r. Cifrová		0	627
+712	Chocholová Katarína r. Košťálová		0	582
+712	Ilaš Ján	Lužany č. 12	0	255
+712	Jančovič Ferdinand r. Jančovič	č.domu 4	0	540
+712	Jančovič Imrich	č. domu 16	0	540,660
+712	Jančovič Michal		0	540
+712	Jaroš František		0	540
+712	Jaroš Imrich r. Jaroš		0	540
+712	Karabová Anna r. Ďurčeková		0	598
+712	Kazsaj Štefan		0	540,659
+712	Kazsajová Emília		0	659
+712	Klas Jozef		0	139,295,501,738,742
+712	Klas Jozef	maloletý v roku 1940	0	379,500
+712	KLAS Jozef	mal. po Matúšovi,súr. Michal, Mária, Helena, Ján, Veronika, Emília	0	38
+712	Klas Rudolf		0	501,738
+712	Klas Rudolf	ženatý s Katarína Gregoríková; ženatý s Katarína Gregoríková	0	295,742
+712	KLASOVÁ Helena	mal.po Matúšovi,súr. Michal, Mária, Jozef, Ján, Veronika,Emília	0	38
+712	Klasová Katarína r. Dvorská		0	601
+712	Klasová Mária		0	139,500
+712	Klasová Mária	maloletá v roku 1940	0	500
+712	KLASOVÁ Mária	mal. po Matúšovi, súr. Michal, Helena, Jozef, Ján, Veronika, Emília	0	38
+712	KLASOVÁ Mária	mal. po Matúšovi,súr. Michal, Jozef,Helena,Ján,Veronika,Emília	0	38
+712	Klasová Mária Marta		0	501,738
+712	Klasová Mária Marta	č. domu 19	0	295,742
+712	Klasová Verona r. Somodiová	m. Matúš	0	578
+712	KLASOVÁ Verona r. Somogyi	po Magdaléne, manž. Matúš	0	38
+712	Klasz Jozef r. Klasz		0	286,500
+712	Klaszová Emília		0	139,286,500
+712	Klaszová Ilona		0	139,286,500
+712	Klaszová Verona r. Šomogyová		0	139,286,500
+712	Koma Matúš	sestra Paulína Šomodiová r. Komová	0	725
+712	Koma Matúš	ž. Alžbeta Komova r. Šomodiova	0	636
+712	Komová Alžbeta r. Šomodiová		0	636
+712	Košťalová Katarína		0	582,609
+712	Kovačik Štefan r. Kovačik	č. domu 9	0	540
+712	KOVÁČIKOVÁ Emília r. Klasová	nar. 6.6.1924	0	38
+712	Kovašik Štefan r. Kovašik		0	657
+712	Královič Imrich		0	748
+712	Krošlák František	ž. Júlia Tóthová, Zlatno na Ostrove č.105	0	342,612
+712	Krošlák Michal	ž. Katarína r. Turanská	0	343
+712	Krošláková Anna r. Gajdošová		0	351,382,461,464,519,536,618,723
+712	Krošláková Eva r. Moravková	Čeladince	0	260
+712	Krošláková Katarína r. Turanská	m. Michal	0	343
+712	Kršková Mária r. Tőrőková	žena Michala	0	590
+712	Kucharíková Amália r. Pajgertová		0	628
+712	Kuklová Alžbeta r. Gajdošová		0	708
+712	Kunovská Anna r. Moravková	m. Ján	0	594
+712	Lacková Pavlína r. Novotná	Béke č. 10, okres Šamorín	0	345,346,347,348,349,350,574,575,751
+712	Macko Michal r. Macko	č. domu 21	0	295,742
+712	Madejovičová Matilda r. Švecová		0	255
+712	Martinková Sidónia r. Šišková		0	457
+712	Masarik Jozef r. Masarik	súrodenci Michal a Jozef	0	300
+712	Masaryk Adam r. Masaryk	súrodenci- Jozef, Emília, Štefan, Gustáv, Pavlína	0	378
+712	Masaryk Gustáv	súrodenci- Jozef, Adam, Emília, Štefan, Pavlína	0	342,378
+712	Masaryk Ján		0	616
+712	Masaryk Ján	ž. Anna r. Belčíková	0	343
+712	Masaryk Jozef		0	369,370
+712	Masaryk Jozef	ž. Augusta r. Šenkýriková	0	689
+712	Masaryk Jozef r. Masaryk	ž. Eva Fraňová	0	567
+712	Masaryk Michal	č.domu 76	0	393
+712	Masaryk Michal	súrodenci Ján, Jozef	0	306
+712	Masaryk Rudolf r. Masaryk	01.07.1935	0	286,500
+712	Masaryk Štefan	súrodenci- Jozef, Adam, Emília, Gustáv, Pavlína	0	342
+712	Masaryk Štefan	súrodenci- Jozef, Ján, Emília, Gustáv, Pavlína	0	378
+712	Masaryková Alžbeta r. Korálová	vdova po Michalovi	0	563
+712	Masaryková Anna	č. domu 19	0	616
+712	Masaryková Anna r. Novotná	m.Adam, po Eve rod. Riban, súrodenci Katarína, Mária, Alžbeta, Jozef, Eva, Zuzana, Paula	0	569
+712	Masaryková Augustína r. Šenkýriková		0	689,728
+712	Masaryková Emília	súrodenci- Jozef, Adam, Štefan, Gustáv, Pavlína	0	342,378
+712	Masaryková Katarína r. Krošláková		0	306
+712	Masaryková Katarína r. Krošláková	m. Juraj	0	602
+712	Masaryková Mária		0	337
+712	Masaryková Pavlína	súrodenci- Jozef, Adam, Emília, Štefan, Gustáv	0	342
+712	Matejovič Ivan		0	255,342
+712	Matejovič Štefan	Lužany č. 5	0	255
+712	Matejovičová Soňa		0	255
+712	Medek Karol		0	550
+712	Medeková Amália r. Zelinková		0	550

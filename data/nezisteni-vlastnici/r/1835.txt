@@ -1,0 +1,256 @@
+1067	Weiszerová Helena		1	386,773
+1067	Weiszerová Margita		1	386,773
+1067	Weiszerová Mária		1	386,773
+1067	Weiszerová Mária r. Katonkaová		1	268
+1067	Wrubelyová Uršula r. Boroviecová		1	600
+1067	Zabarovszky Jozef r. Zabarovszky		1	1049
+1067	Zsihovics Eugen		1	703
+1067	Zsihovics Ján		0	366
+1067	Zsihovics Ján r. Zsihovics		1	289,802,820,828,975
+1067	Zsihovics Július		1	703
+1067	Zsihovics Július r. Zsihovics		1	289,802,820,828,975
+1067	Zsihovics Ondrej		1	703
+1067	Žihovič Dezider		1	365,702
+1067	Žihovič Dezider r. Žihovič		1	350
+1067	Žihovič Eugen		1	365,704
+1067	Žihovič Eugén r. Žihovič		1	350
+1067	Žihovič Ján		1	365,769
+1067	Žihovič Ján r. Žihovič		1	350
+1067	Žihovičova Alžbeta r. Jaskova		1	334,575
+1068	ANDRAŠKO Andrej		0	249
+1068	ANDREJČAK Ján		0	243
+1068	ANDREJČÁK Ján	1	0	248,251
+1068	ANDREJČÁK Jozef	ž.Anna r.Porvažníková	1	265
+1068	ANDREJČAK Juraj	2	0	288
+1068	ANDREJČAK Juraj	4	0	243
+1068	ANDREJČAK Juraj	manž.Mária r.Vasil	0	233
+1068	ANDREJČÁK Juraj	1	0	248
+1068	ANDREJČÁK Juraj	ž.Mária r.Vasilová	1	407
+1068	ANDREJČAKOVÁ Barbora	r.Stavarová	0	300
+1068	BANGOVÁ Anna	mal.neb	0	370
+1068	BORIS Andrej	nezl	0	234
+1068	BORIS Andrej, SR	D:zom. 14.02.2000 nezl	0	411
+1068	BORIS Andrej, SR	D:zom. 14.02.2000| nezl	0	247
+1068	BRAKOVÁ Anna	r.Meričková	0	249
+1068	BRAKOVÁ Mária	r.Bučko	0	249
+1068	BUČKO Ján	/manž.Mária r.Dzurenková/	0	309
+1068	BUČKO Ján	manž.Mária r.Dzureková	0	332
+1068	BUČKO Ján	vzd	1	228,453
+1068	BUČKO Ján	vzd.; 1	0	243
+1068	BUČKO Jozef		0	251
+1068	BUČKO Juraj	vzd	1	228,251,270,453
+1068	BUČKO Juraj	vzd.; 2	0	243
+1068	BUČKO Michal		0	249
+1068	BUČKOVÁ Anna	r.Andrejčáková	0	248
+1068	BUČKOVÁ Mária		0	243
+1068	BUČKOVÁ Mária	1	0	251
+1068	BUČKOVÁ Mária	vzd	1	228,251,270,453
+1068	BUTALA Pavol		0	248
+1068	BUTALA Pavol	ž.Mária r.Hlavatá	1	402
+1068	BUTALOVÁ Mária	r.Hlavatá	1	248,402
+1068	CIGE	r.Bindingerová	0	343
+1068	CMAR Andrej	vzd.; 1	0	251
+1068	CMÁR Andrej	vzd	1	239,243
+1068	CMAR Ján	1	0	272
+1068	CMAR Ján	vzd	0	243
+1068	CMAR Ján	vzd.; 1	0	251
+1068	CMÁR Ján		1	239
+1068	CMAR Jozef	2	0	248
+1068	CMAR Jozef	v USA	0	251
+1068	CMAR Jozef	vzd	0	251
+1068	CMAR Michal	vzd. str	0	243
+1068	CMAR Michal	vzd. strš	0	251
+1068	CMÁR Michal	vzd	1	239
+1068	CMÁR Štefan		1	239,272
+1068	CMAROVÁ Alžbeta	r.Krivda	0	243
+1068	ČOPKOVÁ Anna	mal.neb	0	352
+1068	DANČO Jozef	ml	0	236,440
+1068	DANČO Michal		0	301
+1068	DANČO Michal	1	0	236,440
+1068	DANČO Michal	ml	0	236,440
+1068	DANČO Michal	nebohý	1	394,403
+1068	DANČOVÁ Alžbeta	r.Harvanová nebohá	1	394,403
+1068	DANČOVÁ Mária	mal	0	236,440
+1068	DOBAJ Ján		0	360,361
+1068	DOBAJOVÁ Terézia	neb	0	360,361
+1068	DUDASOVÁ Helena r. Rakarová	neb	0	369
+1068	DUDAŠOVÁ Helena	r.Rakarová	0	290
+1068	DZUBAJ Jozef		0	318
+1068	DZUBAJ Jozef	/Dzubaj/	0	310
+1068	DZUBAJ Jozef	1	0	344,359
+1068	DZUJKOVÁ Mária	r.Nedzbalová vzd	0	249
+1068	DZURENKO Jozef	nezl	1	259,395
+1068	DZURENKO Michal		1	229,304
+1068	DZURENKOVÁ Alžbeta	nezl	0	259
+1068	DZURENKOVÁ Alžbeta	nezl.nebohá	1	395
+1068	DZURENKOVÁ Anna		0	259
+1068	DZURENKOVÁ Anna	nebohá	1	376,395
+1068	DZURENKOVÁ Terézia	r.Hlavatá	1	229
+1068	DZURENKOVÁ Zuzana	mal	0	235,253
+1068	DZURENKOVÁ Zuzana	nezl	1	259,376,395
+1068	DZURENKOVÁ Zuzana	nezl.; 1	0	240,441
+1068	DZURJA Tomaš		0	323
+1068	GAJDOŠOVÁ Anna	r.Babjaková	0	249
+1068	GAJDOŠOVÁ Anna	r.Matta	0	312
+1068	GOMBITA Jan	mal	0	345
+1068	GOMBITA Ján		0	345
+1068	GOMBITA Ján	1	0	367
+1068	GOMBITA Michal	neb	0	345
+1068	GOMBITOVÁ Mária	mal	0	345
+1068	GOMBITOVÁ Mária	neb	0	345
+1068	GREC Ján		0	249
+1068	GREC Ján	vzd	0	249
+1068	GRECOVÁ Anna	nezl	0	249
+1068	GRECOVÁ Anna	r.Valigová	0	283
+1068	GRECOVÁ Helena		0	249
+1068	GRECOVÁ Mária	r.Bučko	0	249
+1068	GRECOVÁ Terézia		0	324,334
+1068	HAJDUK Ján	ž.Justina r.Hrinová	0	346
+1068	HALAJKO Ján		0	350
+1068	HALAJKO Ján	ž.Mária r.Nedzbala	0	353
+1068	HALAJKO Michal		0	296
+1068	HALAJKO Michal	1	0	296
+1068	HALAJKO Michal	2	0	311
+1068	HALAJKO Michal	3	0	311
+1068	HALAJKO Štefan	ž.Helena r.Muller/ neb	0	353
+1068	HARVAN Ján		0	358
+1068	HARVAN Ján	mal	0	357,368
+1068	HARVAN Juraj		0	357,369
+1068	HARVANOVÁ Alžbeta		0	368
+1068	HARVANOVÁ Helena r. Majerniková		0	357,368
+1068	HARVANOVÁ Mária r. Čopková	neb	0	352
+1068	HARVANOVÁ Mária r. Gombitová		0	345
+1068	HARVANOVÁ Zuzana	mal	0	357,368
+1068	HECKO Ernest	/obyvateľ Užhorodu/	0	273
+1068	HIBALA Jozef		0	308
+1068	HLAVATÁ Anna	r.Dzurková nebohá	1	402
+1068	HLAVATÝ Ján	nebohý	1	402
+1068	HOĽKO Michal		0	249
+1068	HOĽKOVÁ Anna	r.Meričková	0	249
+1068	HREBOVČINOVÁ Mária	r.Pavolko	0	245,437,442
+1068	HREBOVČINOVÁ Mária	r.Pavolková	0	329
+1068	HREBOVČINOVÁ Mária	r.Pavolková nebohá	1	36,408
+1068	HREŽO Andrej	1	0	345
+1068	HREŽO Andrej	vzd	0	345
+1068	HREŽO Ján	mal.neb	0	348
+1068	HREŽO Ján	manž. Ilona r.Ivanová	0	335
+1068	HREŽO Ján	vzd	0	345
+1068	HREŽO Ján, Nižná Sitnica, č. 79, PSČ 094 07, SR	ž.Mária Harvanová/neb	0	368
+1068	HREŽO Jozef		0	344,359
+1068	HREŽO Michal	Lepej neb	0	344,359
+1068	HREŽO Pavol	vzd	0	345
+1068	HREŽOVÁ Anna	vzd	0	345
+1068	HREŽOVÁ Mária r. Harvanová, Nižná Sitnica, č. 79, SR	neb	0	368
+1068	HRIN Ján		0	360
+1068	HRIN Ján	vzd.neb	0	368
+1068	HUDÁK Michal		0	248,259
+1068	HUDÁK Michal, SR	D:zom.27.5.1997| nebohý	0	395
+1068	IVANIŠKOVÁ Anna	nebohá	1	405
+1068	IVANOVÁ Mária	r.Onderisková	0	249
+1068	JABLONSKÁ Anna r. Halajková	neb	0	353
+1068	JAKUB Jozef		0	258
+1068	JAKUBOVÁ Mária		0	312
+1068	JAKUBOVÁ Mária	r.Turiková	1	237,377
+1068	JAKUBOVÁ Mária	r.Turiková; 1	0	248
+1068	JAKUBOVÁ Zuzana		0	312
+1068	JANOŠOVÁ Mária	r.Papinčak /muž Michal/	0	234
+1068	JANOŠOVÁ Mária	r.Papinčáková nebohá	1	247,397,411
+1068	JENČO Ján	ž.Agnesa r.Turiková nebohý	1	377
+1068	JURKO Ján		0	249
+1068	JURKO Jozef	nezl	0	249
+1068	JURKO Vasil		0	249
+1068	JURKOVÁ Mária	r.Smerecká	0	249
+1068	JURKOVIČ Pavol	ml	0	242,436,444
+1068	KARASOVÁ Helena	mal	0	324,334
+1068	KARASOVÁ Mária	mal	0	324,334
+1068	KARCH Jozef		0	242,244,274,323,436,444
+1068	KARCHOVÁ Terézia	r.Tomášová	0	248
+1068	KARNAJOVÁ Dorota	muž Andrej	0	249
+1068	KLICOVÁ Terézia r. Harvanová	NV	0	357,368
+1068	KLIMA Ľudovít	vzd	0	277
+1068	KLINA Ľudovít		0	248
+1068	KOCHAN Pavol		0	284
+1068	KOCHANOVÁ Mária	r.Krivdová	0	284
+1068	KRIVDA Ján		0	287
+1068	LUKČOVÁ Mária	r.Hoľková	0	249
+1068	LUKČOVIČ Eduard		0	273
+1068	LUPČOVÁ Anna r. Maguščáková		0	358
+1068	MACKO Jozef	2	0	238,252
+1068	MACKO Jozef	nebohý	1	396
+1068	MACKOVÁ Alžbeta r. Halajková	neb	0	353
+1068	MACKOVÁ Helena	r.Tkáčová	1	406
+1068	MACKOVÁ Mária	r.Tokárová nebohá	1	396
+1068	MAGUŠČAK Pavol		0	358
+1068	MAGUŠČAKOVÁ Helena	vzd	0	358
+1068	MAGUŠČAKOVÁ Mária	vzd	0	358
+1068	MAJERNÍK Ján	nez.pobyt	1	397
+1068	MAJERNÍKOVÁ Mária	r.Nazadová	1	411
+1068	MAKUTOVÁ Mária r. Harvanová		0	358
+1068	MATA Ján		0	312
+1068	MATA Michal		0	312
+1068	MATOVÁ Anna	r.Tomašová	0	323
+1068	MATOVÁ Mária	vd. r.Dzuňová; vd	0	312
+1068	MATTA Ján		0	233
+1068	MATTA Ján	Černina	1	407
+1068	MATTOVÁ Anna	r.Tomašová	0	242,244,248,436,444
+1068	MATTOVÁ Anna	r.Tomášová Černina	1	407
+1068	MATTOVÁ Anna	r.Tomašová; 2	0	274
+1068	MATTOVÁ Mária	r.Kochanová	0	284
+1068	MERIČKO Andrej, SR	D:zom. 16.4.1983 | nebohý	0	401
+1068	MERIČKO Andrej, SR	D:zom.16.4.1983 nebohý	0	401
+1068	MERIČKO Michal		0	252
+1068	MERIČKO Michal	1	0	238
+1068	MERIČKOVÁ Alžbeta	r.Nedzbalová	0	249
+1068	MERIČKOVÁ Anna	mal	0	249
+1068	MERIČKOVÁ Anna	r.Turčíková nebohá	1	232,398,456
+1068	MERIČKOVÁ Helena	r.Grecová	0	249
+1068	MERIČKOVÁ Helena	r.Grecová; 1	0	249
+1068	METYLOVÁ Anna r. Turciková		0	345
+1068	MICHALOV Ján		0	249
+1068	MILKOVÁ Anna	r.Jakubová	0	258
+1068	MINICH Michal		0	258
+1068	MITALČAK Andrej	vzd	0	361
+1068	MITALČAK Jozef	ž.Mária Balogová	0	361
+1068	MITALČAK Juraj		0	357,368
+1068	MITALČAK Juraj	ž.Alžbeta Harvan	0	361
+1068	MITALČAK Michal	vzd	0	361
+1068	MITALČAK Pavol	ž.Mária Stanovčak	0	361
+1068	MITALČAK Štefan		0	361
+1068	MITALČAKOVÁ Anna	mal	0	357,368
+1068	MITALČAKOVÁ Anna r. Hrežová		0	345
+1068	MITALČAKOVÁ Mária	mal	0	357,368
+1068	MYDLA Pavol		0	362
+1068	MYŠĽANOVÁ Mária r. Bangová	neb	0	370
+1068	NEDZBALA Andrej	vzd	0	249
+1068	NEDZBALA Ján		0	249
+1068	NEDZBALA Ján	vzd. ml	0	249
+1068	NEDZBALA Ján	vzd. strš	0	249
+1068	NEDZBALA Juraj	vzd	0	249
+1068	NEDZBALA Michal		0	249
+1068	NEDZBALA Michal	/z.Maria r.Sutko/	0	350
+1068	NEDZBALA Michal	neb	0	350
+1068	NEDZBALOVÁ Alžbeta	vzd	0	249
+1068	NEDZBALOVÁ Anna	vzd	0	249
+1068	NEDZBALOVÁ Mária	vzd	0	249
+1068	OBESTER Jozef		0	295
+1068	ÖDÖN Lukovič		0	305
+1068	OLEXIK Andrej	1	0	344,352
+1068	OLEXIK Andrej	mal	0	352
+1068	OLEXIKOVÁ Terezia	r.Pavliková	0	291
+1068	ONDUŠKA Andrej	ml	0	240,441
+1068	ONDUŠKA Ján	nezl	0	240,441
+1068	ONDUŠKA Juraj	nezl. ml	0	240,441
+1068	ONDUŠKA Juraj	st	0	240,441
+1068	ONDUŠKO Ján	nar.13.6.1933 nebohý	1	228,453
+1068	ONDUŠKO Juraj	nebohý	1	397,399
+1068	ONDUŠKO Juraj	ž.Mária r.Tomášová nebohý	1	400
+1068	ONDUŠKOVÁ Anna	nezl. ml	0	240,441
+1068	ONDUŠKOVÁ Anna	r.Rakarová	0	290
+1068	ONDUŠKOVÁ Anna	st	0	240,441
+1068	ONDUŠKOVÁ Mária	nezl. ml	0	240,441
+1068	ONDUŠKOVÁ Mária	st	0	240,441
+1068	ONDZAK Andrej	vzd.; 1	0	339
+1068	ONDZÁK Andrej	vzd	1	232,239,241,399,404,456
+1068	ONDZÁK Ján		0	248
+1068	ONDZÁK Michal		0	248,340
+1068	ONDZAKOVÁ Iľa		0	241

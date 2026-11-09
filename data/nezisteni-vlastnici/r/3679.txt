@@ -1,0 +1,256 @@
+2120	ŽUPA Andrej		1	87
+2121	ABRAHÁM Ján		1	730,732,750,821,859,972,984,985,1205,1534,1535
+2121	Abrahám Ján r. Abrahám		1	696,991
+2121	ABRAHÁM Jozef		1	730,732,750,821,859,972,984,985,1488,1534,1535
+2121	Abrahám Jozef r. Abrahám		1	696,991
+2121	Abrahámová Paulína		0	991
+2121	Abrahámová Pavlína		1	696,730,732,750,821,859,972,984,985,1071,1534,1535
+2121	Adamov Anton		1	552,962,966,991,1546,1649
+2121	Adamov Jozef	ANDREJOV	1	552,1649
+2121	Adamov Jozef Andrejov		0	962,966,991,1546
+2121	Adamov Jozef žen.s Máriou Zúbekovou		0	980,991
+2121	Adamov Ondrej		1	552,669,780,962,966,967,1269,1546,1649,1666,1669
+2121	Adamov Peter		1	1649
+2121	ADAMOVÁ Anna	Po Jánovi Štefančovi	1	530,594,621
+2121	Adamová Anna po Jánovi Štefančovi		0	1051
+2121	Adamová Anna r. Pilcová		0	980,991
+2121	Adamová Katarína		0	1487
+2121	ADAMOVÁ Margita	R.DEBNÁROVÁ,zomrela	1	574,679,755,762,763,765,766,768,813,814,1690
+2121	Adamová Margita r. Debnárová		0	969,976,978,983,1439,1534,1544,1549,1551
+2121	Adamová Margita r. Debnárová	zomrela	1	361,435,575,686,923,1646,1658,1689,1720
+2121	Angleta Martin		1	435,1689
+2121	Angletta Ján		0	1531
+2121	Angletta Martin		1	567,679,750,762,763,765,766,768,969,983,1331,1537,1544,1690
+2121	Anglettová Anna		0	991
+2121	Babiak Vendelín		0	1092,1093
+2121	BABIAKOVÁ Anna	R.BIELIKOVÁ	1	679,750,755,765,766,768,800,873,1589
+2121	Babiaková Anna r. Bieliková		1	361,958,959,1167,1547,1720
+2121	Baláž Ján		1	328,508,773,782,928,961,984,1228,1543,1546
+2121	Baláž Ján	žen.s Karlou Rozenbergovou	1	328,508,773,782,928
+2121	BALÁŽ Ján	MÁDLIK	1	606,1667
+2121	BALÁŽ Ján	Po Jánovi	1	530,593,597,606,1664,1667,1678
+2121	BALÁŽ Ján	Po Márii	1	813,814
+2121	BALÁŽ Ján	žen.s Máriou Bugárovou	1	813,814
+2121	BALÁŽ Ján	žen.so Zuzanou Štefančovou	1	783
+2121	Baláž Ján Mádlik		0	1465
+2121	Baláž Ján Po Jánovi		0	1306
+2121	Baláž Ján po Márii		0	991,1544
+2121	Baláž Ján žen. s Karlou Rozenbergovou		0	961,983,984,1452,1543,1546
+2121	Baláž Ján žen. s Máriou Bugárovou		0	991,1544
+2121	Baláž Jozef	Jánov	1	508,782
+2121	Baláž Jozef	Po Jozefovi	1	328,508,773,782,928
+2121	BALÁŽ Jozef		1	587,599,782,920,928,973,975,983,984,989,1472,1546,1603
+2121	BALÁŽ Jozef	JOZEFOV	1	813,814
+2121	BALÁŽ Jozef	MÁDLIK	1	530,587,606,920,1603,1667
+2121	Baláž Jozef Jánov		0	1495
+2121	Baláž Jozef Jozefov		0	991,1544
+2121	Baláž Jozef Mádlik		0	1056
+2121	Baláž Jozef po Jozefovi		0	961,1206,1543
+2121	Baláž Jozef žen. s Máriou Rozenbergovou		0	1259,1546
+2121	Baláž Karol		1	328,508,782,928,961,983,984,1074,1543,1546
+2121	Baláž Ondrej		1	328,508,773,813,814,928,961,973,983,984,1501,1543,1544,1546
+2121	BALÁŽ Ondrej	MÁDLIK	1	530,599
+2121	Baláž Ondrej Mádlik		0	1191
+2121	Baláž Pavol		1	597,619,1003,1664,1678
+2121	Baláž Peter		1	328,508,773,782,928,961,983,984,1468,1543,1546
+2121	BALÁŽ Peter	MÁDLIK	1	606,1667
+2121	BALÁŽ Rudolf	JÁNOV	1	782
+2121	BALÁŽ Štefan	MÁDLIK	1	606,1667
+2121	Balážová Aurélia r. Pauková zom.28.11.2003		0	959,1187
+2121	Balážová Blažena		1	328,508,773,782,928,961,984,1041,1543,1546
+2121	BALÁŽOVÁ Emília	R.DEBNÁROVÁ	1	782
+2121	BALÁŽOVÁ Katarína	R.DEBNÁROVÁ	1	813,814
+2121	Balážová Katarína r. Debnárová		0	991,1364
+2121	BALÁŽOVÁ Mária	R.BUGÁROVÁ	1	813,814
+2121	BALÁŽOVÁ Mária	R.KAŠŠOVÁ	1	1583
+2121	BALÁŽOVÁ Mária	R.ZAŤKOVÁ	1	602
+2121	Balážová Mária r. Bugárová		0	991,1544
+2121	BALÁŽOVÁ Mária r. Kaššová		1	639,649,665,1151,1673,1706
+2121	Balážová Mária r. Zaťková		1	593,1394
+2121	Balážová Pavlína		1	508,1116
+2121	BALÁŽOVÁ Pavlína	Po Márii a Martinovi	1	813,814
+2121	Balážová Pavlína po Márii a Martinovi		0	991,1544
+2121	Balážová Pavlína r. Bieliková		0	958,1097,1547
+2121	Balážová Pavlína r. Laurovová		1	359,923,976,1163,1549,1551,1646
+2121	Balážová Rozália		1	328,508,773,782,928,961,983,984,1406,1543,1546
+2121	BALÁŽOVÁ Štefánia		1	530,593,597,606,619,1120,1664,1667,1678
+2121	Balážová Zuzana		1	597,619,1328,1664,1678
+2121	BALÁŽOVÁ Zuzana	MÁDLIKOVÁ	1	606,1667
+2121	BALÁŽOVÁ Zuzana	R.ŠTEFANČOVÁ-MÁDLIKOVÁ	1	783
+2121	Balážová Zuzana r. Štefančová-Mádliková		0	1405
+2121	Baniari Augustín		0	980,991
+2121	Baniari Ján		1	507,1519
+2121	Baniari Ján Koráb		0	980,991
+2121	Baniari Jozef žen. s Máriou Boháčovou		0	1077
+2121	Baniari Ondrej zomrel		0	980,991
+2121	BANIARIOVÁ Anna	R.BIELIKOVÁ	1	671,813,814
+2121	Baniariová Anna r. Bieliková		0	1286,1529,1544
+2121	BANIARIOVÁ Mária		1	652,1015
+2121	BANIARIOVÁ Mária	R.BARBOROVÁ	1	813,814
+2121	Baniariová Mária r. Barborová		0	991,1544
+2121	Baniariová Mária r. Marková		0	991
+2121	BARBORA Ján		1	530,597,602,804,959,1678
+2121	Barbora Jozef		0	980,991,1523
+2121	Barbora Jozef	žen.s Máriou Kamodyovou	1	593,603
+2121	Barbora Jozef žen. s Máriou Kamodyovou		0	991
+2121	BARBORA Karol		1	530,804,808,959,1123
+2121	BARBORA Peter		1	530,597,602,804,959,1522,1678
+2121	BARBOROVÁ Alžbeta	R.BÍBELOVÁ	1	530,602,804
+2121	Barborová Alžbeta r. Bíbelová		1	597,959,1522,1678
+2121	BARBOROVÁ Hermína		1	530,597,602,804,959,1522,1678
+2121	BARBOROVÁ Mária		1	530,597,602,804,959,1522,1678
+2121	Bellanová Katarína r. Repiská		0	1371
+2121	Beňo Ján Ďurov		0	980,991
+2121	Beňo Ján Martinov		0	980,991
+2121	Beňová Mária r. Zúbeková		1	506,771,991,1671
+2121	Bielik Ján		1	361,567,679,755,765,766,813,814,1174,1544,1720
+2121	Bielik Ján	Po Jozefovi	1	435,679,755,762,763,766,768,1689,1690
+2121	Bielik Ján	žen.s Helenou Matejovou	1	590,615
+2121	BIELIK Ján	Po Kataríne	1	650
+2121	BIELIK Ján	žen.s Máriou r.Serulovou	1	766,768
+2121	BIELIK Ján	žen.s Paulou Krajčírovou	1	766
+2121	Bielik Ján po Jánovi		0	1197
+2121	Bielik Ján po Jozefovi		0	983,991,1544
+2121	Bielik Ján po Márii		0	1482
+2121	Bielik Jozef		1	159,530,590,595,597,601,603,608,615,618,808,813,814,983,1222,1544,1664,1678,1707,1708,1709,1721
+2121	Bielik Juraj		0	1484,1537
+2121	BIELIK Karol		1	765,813,814,991,1544
+2121	BIELIK Karol	žen.s Justínou Michalovou	1	766
+2121	Bielik Martin		1	361,574,575,679,755,765,766,813,814,983,1490,1544,1720
+2121	BIELIK Michal		1	679,766,957
+2121	Bieliková Anna		1	361,435,567,574,575,679,750,755,762,763,765,766,768,813,814,969,983,1504,1537,1544,1689,1690,1720
+2121	BIELIKOVÁ Anna	R.BALÁŽOVÁ	1	530,606,619,1667
+2121	BIELIKOVÁ Anna	R.ZÚBEKOVÁ	1	750,762,763,768,1690
+2121	Bieliková Anna r. Balážová		1	597,1052,1664,1678
+2121	Bieliková Anna r. Zúbeková		1	435,567,969,1176,1689
+2121	Bieliková Katarína r. Michňová		0	991
+2121	Bieliková Mária		1	1010,1589
+2121	Bieliková Mária	Po Jozefovi	1	361,435,567,574,575,679,762,763,765,766,1689,1690,1720
+2121	BIELIKOVÁ Mária	R.BALÁŽOVÁ	1	619
+2121	BIELIKOVÁ Mária	R.LUPTÁKOVÁ	1	765
+2121	BIELIKOVÁ Mária	R.MASLENOVÁ	1	679,755,762,763,765,766,1690
+2121	BIELIKOVÁ Mária	R.ŠTEFANČOVÁ	1	679
+2121	BIELIKOVÁ Mária	R.ŠTEFANČOVÁ-KUČEROVÁ	1	574,750,755,762,763,765,766,768,813,814,1690
+2121	Bieliková Mária po Jozefovi		0	983,1537,1544,1545
+2121	Bieliková Mária r. Balážová		1	597,1438,1664,1678
+2121	Bieliková Mária r. Luptáková		1	567,991
+2121	Bieliková Mária r. Maslenová		1	361,435,567,574,575,983,1036,1537,1544,1689,1720
+2121	Bieliková Mária r. Štefančová	KUČEROVÁ	1	361,575,1720
+2121	BIELIKOVÁ Mária r. Štefančová		1	530,567,614,1437
+2121	Bieliková Mária r. Štefančová - Kučerová		1	435,533,1689
+2121	Bieliková Mária r. Štefančová-Kučerová		0	983,1295,1296,1537,1544
+2121	Bieliková Pavlína		1	1417,1589
+2121	BIELIKOVÁ Pavlína	R.KRAJČÍROVÁ	1	679,755,762,763,766,768,1690
+2121	BIELIKOVÁ Pavlína	R.ŠTEFANČOVÁ	1	603,609
+2121	Bieliková Pavlína r. Krajčírová		1	361,435,574,575,983,991,1537,1544,1689,1720
+2121	Bieliková Rozália		1	1105,1589
+2121	Bieliková Veronika		1	361,593,679,750,755,765,768,1340,1720
+2121	BILÍK Juraj		1	750,991
+2121	BILÍK Ondrej		1	813,814,991
+2121	Bislenová Zuzana r. Zúbeková		1	506,771,991,1671
+2121	Bista Martin zomrel 25.12.1984		0	980,991
+2121	Bista Michal		0	980,991
+2121	Bista Miroslav r. Bista, Hviezdoslavova 281/22, Žiar nad Hronom, PSČ 965 01, SR	zomrel	0	980,991
+2121	Bištut Juraj zomrel		0	980,991
+2121	Bjelek Augustín		1	962,966,967,1150,1546,1632,1650,1698
+2121	Boháč Ján		1	587,606,778,920,1002,1603,1667
+2121	Boháčová Anna r. Lukáčiková		0	1466
+2121	BROZMANOVÁ Gabriela	R.LIŠKOVIČOVÁ	1	680
+2121	ČIERŤAŽSKÁ Anna		1	813,814,991,1544
+2121	ČIERŤAŽSKÝ Jozef		1	813,814,991,1544
+2121	Debnár Anton		0	1546
+2121	Debnár Augustín		1	240,248,731,737,767,855,980,1320,1544,1627,1659
+2121	Debnár Augustín žen. s Máriou Maslenovou		0	991
+2121	DEBNÁR Dominik		1	773,991
+2121	Debnár Ján		1	767
+2121	Debnár Ján	po Márii	1	240,731,737,855,1627,1659
+2121	Debnár Ján	Po MáriiSPF	1	248
+2121	Debnár Jozef		1	686,1658
+2121	DEBNÁR Jozef	SEGET	1	722,723
+2121	Debnár Juraj		0	1363
+2121	Debnár Ondrej		1	359,682,686,923,1646
+2121	Debnár Rudolf		1	240,248,731,737,767,855,980,1098,1544,1627,1659
+2121	Debnárová Anna		1	686,978,1511,1549,1658
+2121	Debnárová Anna r. Čierťažská		0	1110
+2121	Debnárová Anna r. Haringová		0	1525
+2121	Debnárová Anna r. Števková		1	686,978,1045,1549
+2121	Debnárová Anna r. Žiarovská		0	1184
+2121	Debnárová Irena		0	1275
+2121	Debnárová Margita		0	1195
+2121	Debnárová Mária		1	240,248,731,737,767,855,980,1444,1544,1627,1659
+2121	Debnárová Mária r. Kotrlová		0	1531
+2121	Debnárová Mária r. Žiarovskyová		1	686,991
+2121	Debnárová Pavlína r. Bieliková		1	567
+2121	Debnárová Rozália	zomrela 13.7.1913	1	975
+2121	DEBNÁROVÁ Rozália	R.LUPTÁKOVÁ zomrela 13.07.1913	1	813,814
+2121	Debnárová Rozália r. Luptáková	zom.:13.07.1913	1	792
+2121	Debnárová Rozália r. Luptáková	zomrela 13.07.1913	0	440,643,644,670
+2121	Debnárová Rozália zomrela 13.7.1913		0	961,967,989,1236,1544
+2121	Doruzda Ivan		1	789
+2121	Fárek Ján zomrel		0	980,991
+2121	Fárek Jozef žen. s Paulínou Hudečekovou		0	1379
+2121	Fárek Ondrej Ďurov		0	980
+2121	Fáreková Anna r. Pavlíková		0	991
+2121	FÁREKOVÁ Karolína		1	766
+2121	Fáreková Mária r. Vagáčová		0	980,991
+2121	Fehman Jozef		0	962,1304
+2121	FRITZOVÁ Katarína	R.MASLENOVÁ	1	1583
+2121	Fritzová Katarína r. Maslenová		1	665,1017
+2121	GREGOR Ján		1	602,619,957
+2121	GREGOR Jozef		1	798
+2121	GREGOROVÁ Zuzana	R.KRIŠTOFOVÁ	1	798
+2121	Haring Gustáv		0	980,991
+2121	Haring Ján Vaškov		0	980,991
+2121	Haring Jozef		0	980,991
+2121	Haring Jozef z krčmy		0	980,991
+2121	Haring Juraj		0	980,991
+2121	Haring Martin		0	980,991
+2121	Haringová Katarína r. Zúbeková		0	980,991
+2121	Herko Ján		0	991
+2121	Herko Martin		0	973,1525
+2121	HERKO Martin	žen.s Karolínou Šopovou	1	798
+2121	Herko Martin zomrel		0	980,991
+2121	HERKO Štefan		1	760,945,991
+2121	HERKOVÁ Anna		1	698,756,760,764,770,940,943,945,980,984,991,1000,1660
+2121	Herková Antónia r. Pavlíková		0	991
+2121	HERKOVÁ Jolana	r.Hudečková	1	698,756,760,764,770,1660
+2121	Herková Jolana r. Hudečeková		0	980,984,1000
+2121	Herková Jolana r. Hudečková		1	940,943,945
+2121	HERKOVÁ Katarína		1	698,756,760,764,770,940,943,945,980,984,1000,1660
+2121	Herková Mária		0	980,991
+2121	Herková Mária r. Maslenová		0	1538
+2121	HNÁT Jozef		1	813,814,991,1544
+2121	HNÁTOVÁ Katarína		1	813,814,991,1544
+2121	HOLUBOVÁ Mária	R.MASLENOVÁ	1	650,813,814
+2121	Holubová Mária r. Maslenová		1	648,1367,1544
+2121	HOLUBOVÁ Pavlína	R.KAŠŠOVÁ	1	1583
+2121	Holubová Pavlína r. Kaššová		1	665,1094
+2121	Holubová Rozália r. Kotrlová		1	359,923,976,1168,1549,1551,1646
+2121	Holubová Zuzana r. Kotrlecová		0	980,991
+2121	HUBÁLKOVÁ Rozália	R.BARBOROVÁ	1	530,602,804
+2121	Hubálková Rozália r. Barborová		1	597,957,959,1678
+2121	Hudačková Štefánia		1	593
+2121	HUDEC Peter	žen.s Paulínou Barborovou	1	639,649,813,814,1673,1706
+2121	Hudec Peter žen. s Paulínou Barborovou		0	1139,1544
+2121	HUDECOVÁ Mária	R.ŠTEFANČOVÁ	1	603,808
+2121	Hudecová Mária r. Štefančová		1	597,991,1664,1678
+2121	Hudeček August Augustov		0	980,991
+2121	Hudeček Emil		0	984,985,1054
+2121	Hudeček Jozef Janov		0	980,991
+2121	Hudeček Jozef Jozefov		0	957
+2121	Hudeček Juraj Martinov		0	980,991
+2121	Hudeček Juraj rychtár		0	980,991
+2121	Hudeček Peter zomrel		0	984,985,1266
+2121	HUDEČEK Viktor		1	530,593,597,606,619,1058,1664,1667,1678
+2121	Hudečeková Anna r. Baniariová		0	980,991
+2121	Hudečeková Johana r. Haringová		0	980,991
+2121	HUDEČEKOVÁ Margita		1	530,597,606,619,1233,1664,1667,1678
+2121	HUDEČEKOVÁ Štefánia		1	530,606,619,1426,1664,1667
+2121	Hudečková Margita		1	593
+2121	Hudečková Štefánia		1	597,1678
+2121	Jančová Mária r. Kamodyová		0	1545
+2121	JÁNOŠ Andrej		1	787,813,814,991,1544,1662
+2121	Jánoš Ján	Serula	1	508
+2121	Jánoš Ján Serula		0	1162
+2121	Jánoš Jozef		0	974
+2121	JÁNOŠ Peter		1	640,786,813,814,928,962,974,1544,1546

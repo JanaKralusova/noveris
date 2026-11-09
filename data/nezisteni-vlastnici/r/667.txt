@@ -1,0 +1,256 @@
+386	Koterec Pavel	r.1924	0	2255,2263,2315,2328,2329,2420,2425
+386	Koterec Pavol		0	2272,3952
+386	Koterec Štefan	ž.Mária Vrchovská	0	694,713,714,729,781,1641,1691,1692,1704,1705,1706,1707,1730,1771,1814,1833,1836,1837,1855
+386	Koterec Štefan r. Koterec	zom.02.11.1969, ž.Mária Vrchovská	0	2255,2263,2315,2328,2329,2420,2425
+386	Koterec Štefan, ž.Mária Vrchovská ž.Mária Vrchovská		0	2519
+386	Koterec Viktor		0	694,713,714,729,781,1641,1691,1692,1704,1705,1706,1707,1730,1771,1814,1833,1836,1837,1855,3790
+386	Koterec Viktor	r.1921	0	2255,2263,2315,2328,2329,2420,2425
+386	Kotrbová Mária	Fábryová	0	694,713,714,729,781,855,1641,1680,1681,1684,1691,1692,1704,1705,1706,1707,1730,1771,1814,1833,1836,1837,1855
+386	KOTRBOVÁ MÁRIA r. FÁBRY, ČIČMANY, SR		0	2458
+386	Kotrbová Mária r. Fábryová		0	2255,2263,2315,2328,2329,2420,2425
+386	Kotrbová Mária, Fábryová Fábryová		0	2778,3746
+386	Kováč Alexander, Dr.		0	3771
+386	Kováčová Mária	Vráblová	0	694,713,714,729,781,817,1641,1691,1692,1704,1705,1706,1707,1717,1730,1771,1814,1833,1836,1837,1855
+386	KOVÁČOVÁ MÁRIA r. VRÁBEL, ČIČMANY, SR		0	2458
+386	Kováčova Mária r. Vráblová		0	2255,2263,2315,2328,2329,2356,2420,2425,2460
+386	Kováčová Mária, Vráblová Vráblová		0	3320,3891
+386	Krcho Alojz	po Jozefovi	0	694,713,714,729,781,1641,1691,1692,1704,1705,1706,1707,1730,1771,1814,1833,1836,1837,1855,2255,2263,2315,2328,2329,2420,2425
+386	Krcho Alojz, po Jozefovi po Jozefovi		0	3790
+386	Krcho Kačeniar Imrich		0	2255,2263,2315,2328,2329,2420,2425
+386	Krcho Milan r. Krcho	zom.07.10.2008, Čičmany 216	0	211,2230,2295,2423,4006
+386	Krcho Stefuk Štefan, ž. Mária Krupcová ž. Mária Krupcová		0	2927
+386	Krcho Štefan	po Jozefovi	0	694,713,714,729,781,1641,1691,1692,1704,1705,1706,1707,1730,1771,1814,1833,1836,1837,1855,2255,2263,2315,2328,2329,2420,2425
+386	Krcho Štefan r. Krcho, Čičmany 216, zom.10.03.1988 Čičmany 216, zom.10.03.1988		0	2700
+386	Krcho Štefan, po Jozefovi po Jozefovi		0	2501
+386	KRCHO ŠTEFAN, PO JOZEFOVI, ČIČMANY, SR		0	2112,2458
+386	Krcho Štefan, ž.Dora Petrášová ž.Dora Petrášová		0	2575
+386	Krchová Alžbeta	Petrášová	0	694,713,714,729,781,1641,1691,1692,1704,1705,1706,1707,1730,1771,1814,1833,1836,1837,1855,2255,2263,2315,2328,2329,2420,2425
+386	KRCHOVÁ ALŽBETA r. PETRÁŠOVÁ, ČIČMANY, SR		0	2458
+386	Krchová Alžbeta, Petrášová Petrášová		0	3790
+386	Krchová Anna	Joklová	0	694,713,714,729,781,897,898,907,1641,1680,1681,1683,1691,1692,1704,1705,1706,1707,1730,1771,1814,1833,1836,1837,1855,2220
+386	KRCHOVÁ ANNA r. JOKEL, ČIČMANY, SR		0	2458
+386	Krchová Anna r. Joklová		0	2255,2263,2315,2328,2329,2362,2420,2425
+386	Krchová Anna, Joklová Joklová		0	3197,3740
+386	Krchová Dorota	Petrášová	0	694,713,714,729,781,1641,1691,1692,1704,1705,1706,1707,1730,1771,1814,1833,1836,1837,1855,2255,2263,2315,2328,2329,2420,2425
+386	KRCHOVÁ DOROTA r. PETRÁŠOVÁ, ČIČMANY, SR		0	2458
+386	Krchová Dorota, Petrášová Petrášová		0	3771
+386	Krchova Maria	Oslicova Radena	0	897,898,907,2220
+386	Krchová Mária	Radenová Oslicová	0	694,713,714,729,781,1641,1691,1692,1704,1705,1706,1707,1730,1771,1814,1833,1836,1837,1855,2255,2263,2315,2328,2329,2420,2425
+386	Krchová Mária r. Kotercová	zom.17.01.2000, Čičmany 216	0	2263,2425
+386	KRCHOVÁ MÁRIA r. RADENA OSLICA, ČIČMANY, SR		0	2458
+386	Krchová Mária r. Radenová Oslicová	m.Ondrej	0	2211,2264
+386	Krchová Mária, Radenová Oslicová Radenová Oslicová		0	2845,3731,3740
+386	Krsiak Anton		0	1641,2427
+386	Krsiak Anton	A zena	0	1013,1019,1836,1838
+386	Krsiak Ondrej		0	1641,2427
+386	Krsiak Ondrej	Juhoslavia	0	1836
+386	Krsiakova Katarina	Oslicova	0	1013
+386	Kršiak Anton	ž.Zuzana Hanusková	0	694,713,714,729,781,1641,1691,1692,1704,1705,1706,1707,1730,1771,1814,1833,1836,1837,1855,2255,2263,2315,2328,2329,2420,2425
+386	Kršiak Anton, ž.Zuzana Hanusková ž.Zuzana Hanusková		0	3358
+386	Kršiak Ondrej	v Juhoslávií	0	694,713,714,729,781,1641,1691,1692,1704,1705,1706,1707,1730,1771,1814,1833,1836,1837,1855,2255,2263,2315,2328,2329,2420,2425
+386	Kršiak Ondrej, v Juhoslávií v Juhoslávií		0	2908
+386	Kršiaková Anna	Kršiaková	0	694,713,714,729,781,1014,1641,1691,1692,1704,1705,1706,1707,1730,1771,1814,1833,1836,1837,1855,2255,2263,2315,2328,2329,2420,2425
+386	Kršiaková Anna r. Kršiaková	m.Štefan, vdova	0	2375
+386	KRŠIAKOVÁ ANNA r. KRŠIAKOVÁ, ČIČMANY, SR		0	2458
+386	Kršiaková Anna, Kršiaková Kršiaková		0	3664
+386	Kršiaková Katarína, Oslicová Oslicová		0	3553
+386	Kršiaková Zuzana	Hanusková	0	694,713,714,729,781,1013,1641,1691,1692,1704,1705,1706,1707,1730,1771,1814,1833,1836,1837,1855,2255,2263,2315,2328,2329,2420,2425
+386	Kršiaková Zuzana, Hanusková Hanusková		0	3293
+386	KRŠKOVÁ BOŽENA, HRADEC-PRIEVIDZA, SR		0	2458
+386	Krupcová Katarína, Vrchovská Vrchovská		0	2885
+386	Kubincova Alzbeta	Oslicova	0	1230
+386	Kubincová Alžbeta	Oslicová Radenová	0	694,713,714,729,781,1641,1691,1692,1704,1705,1706,1707,1730,1771,1814,1833,1836,1837,1855
+386	Kubincová Alžbeta r. Oslicová	zom.10.04.1956, 1x vyd.Hamalová	0	2255,2263,2315,2328,2329,2420,2425
+386	Kubincová Alžbeta r. Radenová	2x vydatá	0	388
+386	Kubincová Alžbeta, Oslicová Radenová Oslicová Radenová		0	2913
+386	Kubincová Anna	Gocmanová	0	694,713,714,729,781,1641,1691,1692,1704,1705,1706,1707,1730,1771,1814,1833,1836,1837,1855
+386	Kubincová Anna	Joklová	0	694,713,714,729,781,856,874,1641,1662,1676,1680,1681,1684,1691,1692,1704,1705,1706,1707,1730,1771,1814,1833,1836,1837,1855
+386	Kubincová Anna r. Joklová		0	2255,2263,2315,2328,2329,2359,2364,2420,2425
+386	Kubincová Anna, Gocmanová Gocmanová		0	3790
+386	Kubincová Anna, Joklová Joklová		0	3637,3818
+386	Kubincová Dora, Gaplovská Gaplovská		0	2726
+386	Kubincova Erza	Oslica Radena	0	1084,2482
+386	Kubincová Irma	Ďuricová Oslicová	0	694,713,714,729,781,1641,1691,1692,1704,1705,1706,1707,1730,1771,1814,1833,1836,1837,1855,2255,2263,2315,2328,2329,2420,2425
+386	Kubincová Irma, Ďuricová Oslicová Ďuricová Oslicová		0	2519
+386	Kubincová Katarína	Joklová Bakulová	0	1730
+386	Kubincová Katarína	Joklová m.Jozef	0	694,713,714,729,781,1641,1691,1692,1704,1705,1706,1707,1730,1771,1814,1833,1836,1837,1855
+386	Kubincová Katarína	Joklová, m.Jozef	0	2255,2263,2315,2328,2329,2420,2425
+386	Kubincová Katarína r. Joklová		0	211,2230,2295,2423
+386	Kubincová Katarína r. Joklová Bakulová		0	2255,2263,2315,2328,2329,2358,2420,2425
+386	Kubincová Katarína, Joklová m.Jozef Joklová m.Jozef		0	2519
+386	Kubincova Podhorska Anna	Gocmanova	0	1391
+386	Kubincová Podhorská Anna r. Gocmanová	zom.01.03.1988	0	161,2255,2263,2315,2328,2329,2413,2420,2425
+386	Kubincová Podhorská Anna, Gocmanová Gocmanová		0	2687
+386	Kubincová Veronika r. Čechová	m.Peter	0	235,2290,2428
+386	Kubincová Zuzana	Strapková	0	694,713,714,729,781,1641,1691,1692,1704,1705,1706,1707,1730,1771,1814,1833,1836,1837,1855,2255,2263,2315,2328,2329,2420,2425
+386	Kubincová Zuzana, Strapková Strapková		0	3860
+386	Kubinec Ondrej, ž .Anna Joklová ž .Anna Joklová		0	3391
+386	Kubinec Peter	ž.Verona Čechová	0	235,2290,2428
+386	Kubinec Podhorsky Jan		0	1391
+386	Kubinec Podhorský Ján, ž. Alžbeta Radenová ž. Alžbeta Radenová		0	2687
+386	Kubinec Podhorsky Jozef		0	1391,1549,1550
+386	Kubinec Podhorský Jozef, ž.Katarína Joklová ž.Katarína Joklová		0	2687,3504
+386	Kubinec Podhorský Štefan	st	0	2255,2263,2315,2328,2329,2420,2425
+386	Kubinec Stefan		0	709,762,1815,2339,2411,2515,2966
+386	Kubinec Štefan	Podhorský st	0	694,713,714,729,781,1641,1691,1692,1704,1705,1706,1707,1730,1771,1814,1833,1836,1837,1855
+386	Kubinec Štefan	ž.Katarína Bakulová	0	2255,2263,2315,2328,2329,2420,2425
+386	Kubinec Štefan, Podhorský st. Podhorský st.		0	2501
+386	Kučerová Viktoria r. Pupáková	zom.16.12.2003, Žilina Štefániková 843/51	0	2268,2356,2429,2460,3941
+386	Kukan Hrvol Jozef r. Kukan	zom.20.1.1979, Čičmany 120	0	2333,2411
+386	Kukan Hrvol Jozef r. Kukan	zom.20.1.1979, Čičmany 120; zom.20.1.1979, Čičmany 120	0	4004
+386	Ladecka Katarina, Hercová Hercová		0	3105
+386	Levická Mária r. Hrvolová	zom.27.06.1990, Bieloruská 38, Bratislava	0	2040,2371
+386	Lewandowsky Tadeusz r. Lewandowsky	nesvojpr., Anielewicza 30/59, Varšava Poľsko	0	244,2312,2314,2335,2411,4004
+386	Lewandowsky Tadeusz, Anielewicza 30/59 Varsava		0	758
+386	Lewandowsky Tadeusz, Anielewicza 30/59,Varšava,Poľsko Anielewicza 30/59,Varšava,Poľsko		0	3211
+386	LUKNÁROVÁ IRENA, BRATISLAVA, SR		0	2458
+386	Mariasova Anna	Bacikova	0	1618
+386	MARIAŠOVÁ ANNA r. BAČÍK VRCHOVSKÁ, ČIČMANY, SR		0	2458
+386	Mariešová Anna	Bačíková Vrchovská	0	694,713,714,729,781,1641,1691,1692,1704,1705,1706,1707,1730,1771,1814,1833,1836,1837,1855,2255,2263,2315,2328,2329,2420,2425
+386	Mariešová Anna, Bačíková Vrchovská Bačíková Vrchovská		0	3082
+386	Maroušková Mária r. Kotercová	zom.16.12.2001, Nadbudanky 2329/9, Praha 5, ČR	0	2255,2263,2315,2328,2329,2403,2420,2425
+386	Matejosová Magdaléna r. Sinková		0	244,2314,2411
+386	Miakisova Anna	Joklova	0	1684
+386	Miakisova Hararova Anna	Joklova	0	1680,1681
+386	Miakiš Harar Štefan	ž.Anna Joklová	0	2255,2263,2315,2328,2329,2420,2425
+386	Miakišová Anna	r.Joklová	0	2059
+386	Miakišová Hararová Anna r. Joklová	m.Štefan	0	2255,2263,2315,2328,2329,2362,2420,2425
+386	Miakyš Štefan	Harar ž.Anna Joklová	0	694,713,714,729,781,1641,1691,1692,1704,1705,1706,1707,1730,1771,1814,1833,1836,1837,1855
+386	Miakyš Štefan, ž.Anna Joklová ž.Anna Joklová		0	2519
+386	Miakyšová Anna	Joklová Hararová	0	694,713,714,729,781,1641,1691,1692,1704,1705,1706,1707,1730,1771,1814,1833,1836,1837,1855
+386	Miakyšová Hararová Anna r. Joklová		0	3534
+386	Micuda Jan		0	1549,1550
+386	Micuda Kubinec Ondrej	Z.Anna Joklova	0	1391,1392,1395,1549,1550
+386	Micudova Kubincova Magdalena	Zatkova	0	926
+386	Mičuda Imrich		0	2759
+386	Mičuda Ján	Kubinec	0	694,713,714,729,781,1641,1691,1692,1704,1705,1706,1707,1730,1771,1814,1833,1836,1837,1855
+386	Mičuda Ján	Podhorský	0	694,713,714,729,781,1641,1691,1692,1704,1705,1706,1707,1730,1771,1814,1833,1836,1837,1855
+386	Mičuda Ján	ž.Amalia Čechová	0	2390
+386	Mičuda Ján	ž.Amália Čechová Podhorská	0	2255,2263,2315,2328,2329,2420,2425
+386	MIČUDA JÁN, KUBINEC, ČIČMANY, SR		0	2458
+386	Mičuda Ján, Podhorský Podhorský		0	3799
+386	Mičuda Jozef		0	2759
+386	Mičuda Jozef	Podhorský	0	694,713,714,729,781,1641,1691,1692,1704,1705,1706,1707,1730,1771,1814,1833,1836,1837,1855
+386	MIČUDA JOZEF, PODHORSKÝ, ČIČMANY, SR		0	2458
+386	Mičuda Kubinec Ján		0	2255,2263,2315,2328,2329,2420,2425,2846
+386	Mičuda Kubinec Ondrej	ž.Anna r.Joklová	0	2390
+386	Mičuda Kubinec Ondrej, ž.Anna Joklová ž.Anna Joklová		0	3198
+386	Mičuda Ondrej	ž.Anna Joklová	0	694,713,714,729,781,1641,1691,1692,1704,1705,1706,1707,1730,1771,1814,1833,1836,1837,1855,2255,2263,2315,2328,2329,2420,2425
+386	MIČUDA ONDREJ, ž.ANNA R.JOKEL, ČIČMANY, SR		0	2458
+386	Mičuda Pavel	ž.Anna Hercová	0	694,713,714,729,781,1641,1691,1692,1704,1705,1706,1707,1730,1771,1814,1833,1836,1837,1855,2255,2263,2315,2328,2329,2390,2420,2425
+386	Mičuda Pavol		0	3602
+386	Mičuda Podhorský Ján		0	2255,2263,2315,2328,2329,2420,2425
+386	Mičuda Podhorský Ján	ž.Jozefa r.Uričová	0	161,383,2388,2389,2413,2430,2437,3916
+386	Mičuda Podhorský Ján, ž.Jozefa Uričová ž.Jozefa Uričová		0	3799
+386	Mičuda Podhorský Jozef		0	383,1549,1550,2388,2389,2390,2437,2606,2731,2977,3916
+386	Mičuda Podhorský Jozef	I	0	2255,2263,2315,2328,2329,2420,2425
+386	Mičuda Podhorský Pavel	ž.Anna Hercová	0	161,1549,1550,2413,2430
+386	Mičuda Podhorský Pavel, ž.Anna Hercová ž.Anna Hercová		0	2606,2731
+386	Mičuda Rastislav		0	2588
+386	Mičudová Dorota		0	3565
+386	Mičudová Helena	Vrchovská Červená Sen	0	694,713,714,729,781,1641,1691,1692,1704,1705,1706,1707,1730,1771,1814,1833,1836,1837,1855
+386	Mičudová Helena, Vrchovská, Červená Senteková Vrchovská, Červená Senteková		0	2601
+386	Mičudová Jozefína	Uričová	0	2255,2263,2315,2328,2329,2420,2425
+386	Mičudová Jozefína, Uričová Uričová		0	2959
+386	Mičudová Podhorská Amália r. Čechová		0	2255,2263,2315,2328,2329,2420,2425
+386	Mičudová Vrchovská Helena	Červená Senteková	0	2255,2263,2315,2328,2329,2420,2425
+386	Mieris Jaroslav r. Mieris	zom.8.6.2007, Borová 3, Žilina	0	2411,4004
+386	Mieris Štefan		0	694,713,714,729,781,1641,1691,1692,1704,1705,1706,1707,1730,1771,1814,1833,1836,1837,1855,2255,2263,2315,2328,2329,2420,2425,2588
+386	Mierisová Katarína	Daňová	0	694,713,714,729,781,1641,1691,1692,1704,1705,1706,1707,1730,1771,1814,1833,1836,1837,1855,2255,2263,2315,2328,2329,2420,2425
+386	Mierisová Katarína r. Daňová	zom.05.06.1984, Čičmany 43	0	2411
+386	Mierisová Katarína r. Daňová	zom.05.06.1984, Čičmany 43; zom.05.06.1984, Čičmany 43	0	4004
+386	Mierisová Katarína, Daňová Daňová		0	2519
+386	MIKUŠOVÁ ALŽBETA, MARTIN, SR		0	2458
+386	Minarikova Katarina		0	1602
+386	Minarikova Katarina	Vrchovska Cicin	0	1613
+386	Mináriková Katarína	Vrchovská Cicinová	0	694,713,714,729,781,1641,1691,1692,1704,1705,1706,1707,1730,1771,1814,1833,1836,1837,1855,2255,2263,2315,2328,2329,2420,2425
+386	MINARIKOVÁ KATARÍNA r. VRCHOVSKÁ CICIN, ČIČMANY, SR		0	2458
+386	Mináriková Katarína, Vrchovská Cicinová Vrchovská Cicinová		0	3647
+386	Mišková Alžbeta r. Fábryová		0	2350,2380
+386	Mlynáriková Katarína, Vrchovská Kacinová Vrchovská Kacinová		0	3159
+386	Moskova Maria	Gregorova	0	1000,1080,1083,1271,1359
+386	Mošková Mária r. Gregorová		0	2040
+386	Mošková Mária, Gregorová Gregorová		0	3254
+386	Muskova Alzbeta	Fabryova	0	823,1065
+386	Mušková Alžbeta, Fábryová Fábryová		0	2578,2796
+386	Nezbedová Vilma r. Čechová	zom.Palackého č.308, Benešov nad Ploučnicí , ČR	0	2418
+386	Novosedliak Augustín	vo Francúzsku	0	694,713,714,729,781,1641,1691,1692,1704,1705,1706,1707,1730,1771,1814,1833,1836,1837,1855,2255,2263,2315,2328,2329,2420,2425
+386	NOVOSEDLIAK AUGUSTIN, FRANCÚZSKO		0	2112,2458
+386	Novosedliak Augustín, vo Francúzsku vo Francúzsku		0	3790
+386	Ondrášová Petronela		0	694,713,714,729,781,1641,1691,1692,1704,1705,1706,1707,1730,1771,1814,1833,1836,1837,1855,2255,2263,2315,2328,2329,2420,2425,3790
+386	Ondrejca Jozef		0	714,2501
+386	Ondrejca Pavol	Slobodny	0	710
+386	Ondrejca Pavol, Slobodný Slobodný		0	3191
+386	Ondrejčová Sidónia r. Leszczuková, Čičmany 21, zom.26.11.2012 Čičmany 21, zom.26.11.2012		0	3810
+386	ORSET MADALEINE, FRANCÚZSKO		0	2112,2458
+386	Oslica Anna		0	432
+386	Oslica Anna	dcéra Lukáča	0	432
+386	Oslica František	hluchonemý	0	2255
+386	Oslica František	Radena hluchonemý	0	694,713,714,729,781,1641,1691,1692,1704,1705,1706,1707,1730,1771,1814,1833,1836,1837,1855
+386	Oslica Ján	Radena	0	694,713,714,729,781,1641,1691,1692,1704,1705,1706,1707,1730,1771,1814,1833,1836,1837,1855
+386	Oslica Ján	Radena syn Anny	0	694,713,714,729,781,1641,1691,1692,1704,1705,1706,1707,1730,1771,1814,1833,1836,1837,1855
+386	Oslica Ján	Radena ž.Mária Joklová	0	694,713,714,729,781,1641,1691,1692,1704,1705,1706,1707,1730,1771,1814,1833,1836,1837,1855
+386	Oslica Ján, Radena Radena		0	3790
+386	OSLICA JÁN, RADENA SYN ANNY, ČIČMANY, SR		0	2458
+386	Oslica Ján, Radena, syn Anny Radena, syn Anny		0	2501
+386	Oslica Ján, Radena, ž.Mária Joklová Radena, ž.Mária Joklová		0	2588
+386	Oslica Jozef	Radena po Štefanovi	0	694,713,714,729,781,1641,1691,1692,1704,1705,1706,1707,1730,1771,1814,1833,1836,1837,1855
+386	OSLICA JOZEF, RADENA PO ŠTEFANOVI, ČIČMANY, SR		0	2458
+386	Oslica Jozef, Radena, po Štefanovi Radena, po Štefanovi		0	3790
+386	Oslica Mária		0	432
+386	Oslica Mária	dcéra Lukáča	0	432
+386	Oslica Ondrej	po Ondrejovi	0	694,713,714,729,781,1641,1691,1692,1704,1705,1706,1707,1730,1771,1814,1833,1836,1837,1855
+386	Oslica Ondrej	Radena po Štefanovi	0	1705
+386	Oslica Ondrej	Radena ž.Mária Filová	0	694,713,714,729,781,1641,1691,1692,1704,1705,1706,1707,1730,1771,1814,1833,1836,1837,1855
+386	Oslica Ondrej	Radena ž.Mária Hašová	0	694,713,714,729,781,1641,1691,1692,1704,1705,1706,1707,1730,1771,1814,1833,1836,1837,1855
+386	Oslica Ondrej	Syn Ondreja	0	818,2255,2263,2315,2328,2329,2419,2420,2425
+386	Oslica Ondrej	Z.Maria Hasova	0	691,1705,1706,1707,1730,1855,2255
+386	OSLICA ONDREJ r. RADENA A, ž.MÁRIA R.FILOVÁ, ČIČMANY, SR		0	2458
+386	Oslica Ondrej, Radena, po Štefanovi Radena, po Štefanovi		0	2519
+386	Oslica Ondrej, Syn Ondreja Syn Ondreja		0	3347,3890
+386	Oslica Pavel		0	694,713,714,729,781,1084,1641,1691,1692,1704,1705,1706,1707,1730,1771,1814,1833,1836,1837,1855,2255,2263,2315,2328,2329,2420,2425,2482,2519
+386	OSLICA PAVEL, pravni nástupci, ČIČMANY, SR		0	2458
+386	Oslica Radena		0	1641
+386	Oslica Radena Emanuel		0	2255
+386	Oslica Radena Frantisek		0	713,714,1814
+386	Oslica Radena František	hluchonemý	0	2255,2263,2315,2328,2329,2420,2425
+386	Oslica Radena František, hluchonemý hluchonemý		0	2665
+386	Oslica Radena Hrehor		0	693,729,759,990,1691,1692,1704,1705,1706,1707,1730,1836,1855,2211,2264,2336,2546,2573,3087,3711,3932,4030
+386	Oslica Radena Ján		0	2255,2263,2315,2328,2329,2420,2425
+386	Oslica Radena Ján	syn Po Anne	0	2255,2263,2315,2328,2329,2420,2425
+386	Oslica Radena Ján	ž.Mária Joklová	0	2255,2263,2315,2328,2329,2420,2425
+386	Oslica Radena Jozef		0	694,729,781,1641,1691,1692,1704,1705,1706,1707,1730,1826,1833,1836,1837,1855,2255,2425,3892
+386	Oslica Radena Jozef	po Štefanovi	0	2255,2263,2315,2328,2329,2420,2425
+386	Oslica Radena Ondrej	po Štefanovi	0	2255,2263,2315,2328,2329,2420,2425
+386	Oslica Radena Ondrej	Syn Ondreja	0	1704
+386	Oslica Radena Ondrej	Z.MariaFilipova	0	693,729,781,990,1691,1692,1704,1705,1706,1707,1709,1730,1855,3932
+386	Oslica Radena Ondrej	ž.Mária Filová	0	172,693,729,1691,1692,1704,1705,1706,1707,1730,1855,2255,2263,2315,2328,2329,2420,2425,3909,3932
+386	Oslica Radena Ondrej	ž.Mária Hašová	0	2255,2263,2315,2328,2329,2420,2425
+386	Oslica Radena Ondrej, Syn Ondreja Syn Ondreja		0	2501
+386	Oslica Radena Ondrej, ž.Mária Filipová ž.Mária Filipová		0	2545,2584,2597,2670,3711
+386	Oslica Radena Ondrej, ž.Mária Filová ž.Mária Filová		0	2573,2665,3341,3769
+386	Oslica Radena Stefan		0	759,990,1641,1705,1706,1836,2211,2264,2336,4030
+386	Oslica Radena Stefan	Amerika	0	693,729,1691,1692,1704,1705,1706,1707,1730,1855,3932
+386	Oslica Radena Štefan, Amerika Amerika		0	2973,3711
+386	Oslica Radena Vilhem		0	759,2336,2546,2573,4030
+386	Oslica Radena Viliam		0	693,729,1641,1691,1692,1704,1705,1706,1707,1730,1836,1855,2211,2264,2545,2584,2597,2670,3711,3932
+386	Oslicova - Radenova Anastazia		0	1641
+386	Oslicova - Radenova Bozena		0	1641
+386	Oslicova - Radenova Katarina		0	1641
+386	Oslicova - Radenova Viktoria		0	1641
+386	Oslicová Anastázia	Radenová po Štefanovi	0	694,713,714,729,781,1641,1691,1692,1704,1705,1706,1707,1730,1771,1814,1833,1836,1837,1855
+386	OSLICOVÁ ANASTÁZIA r. RADENA, ČIČMANY, SR		0	2458
+386	Oslicová Anastázia, Radenová po Štefanovi Radenová po Štefanovi		0	3790
+386	Oslicova Anna	Dc.Lukaca	0	1037,1084,1114,1217,1999,2255,2263,2315,2328,2329,2419,2420,2425,2482
+386	Oslicova Anna	Po Janovi	0	1719
+386	Oslicova Anna	Slobodna	0	827,1646,1664,1678,1714
+386	Oslicová Anna		0	694,713,714,729,781,818,842,874,1037,1114,1217,1641,1662,1664,1676,1691,1692,1704,1705,1706,1707,1730,1771,1814,1833,1836,1837,1855,1999,3121,3696
+386	Oslicová Anna	po Lukáčovi	0	694,713,714,729,781,1641,1691,1692,1704,1705,1706,1707,1730,1771,1814,1833,1836,1837,1855
+386	Oslicová Anna	Radenová	0	694,713,714,729,781,1641,1691,1692,1704,1705,1706,1707,1730,1771,1814,1833,1836,1837,1855
+386	Oslicová Anna	Radenová po Štefanovi	0	694,713,714,729,781,1641,1691,1692,1704,1705,1706,1707,1730,1771,1814,1833,1836,1837,1855
+386	OSLICOVÁ ANNA, ČIČMANY, SR		0	2458
+386	Oslicová Anna, po Lukáčovi po Lukáčovi		0	2517,2772,3821
+386	Oslicová Anna, Radenová po Štefanovi Radenová po Štefanovi		0	3790
+386	Oslicová Anna, Radenová Radenová		0	2519
+386	Oslicová Božena		0	694,713,714,729,781,1641,1691,1692,1704,1705,1706,1707,1730,1771,1814,1833,1836,1837,1855,2255,2263,2315,2328,2329,2420,2425
+386	Oslicová Helena	Oslicová	0	694,713,714,729,781,1641,1691,1692,1704,1705,1706,1707,1730,1771,1814,1833,1836,1837,1855,2255,2263,2315,2328,2329,2420,2425

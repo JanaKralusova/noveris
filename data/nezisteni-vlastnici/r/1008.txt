@@ -1,0 +1,256 @@
+587	Chreňová Anna		0	943,945
+587	Chreňová Anna	Rod Štrbaňová	0	945
+587	Chreňová Božena		0	943,945
+587	Chreňová Eva		0	945
+587	Chreňová Františka		0	943,945
+587	Chreňová Katarína		0	945
+587	Chreňová Mária		0	943,945
+587	Chreňová Viera		0	943,945
+587	Chreňová Zuzana		0	943,945
+587	Janíčková Zuzana	Rod Pacholíková	0	945
+587	Janík Štefan		0	932
+587	Jánošíková Rozália r. Vetešková		0	1041
+587	Jantošová Zuzana	Rod Kubašová	0	1081
+587	Ježo Štefan	Z Eva Žilinková	0	1092
+587	Ježovica Pavol		0	966
+587	Ježovica Štefan		0	945
+587	Jurisová Mária	Rod Karbašová	0	987
+587	Juršták Štefan		0	979,1051,1433,1437
+587	Karbas Štefan		1	986,987,1240,1327,1355,1356,1450,1465,1494,1495
+587	Klusová Zuzana r. Kováčová		0	1042
+587	KONIARIK SILVESTER		1	510,941
+587	Koniariková Mária	Rod Pesničkárová	0	941
+587	KONIARIKOVÁ MÁRIA	R PESNIČÁKOVÁ	1	510
+587	Kopecká Anna	Rod Šulíková	0	944
+587	Kováč Štefan		0	927,931,932,951
+587	Kováčová Katarína	Rod Malenová	0	927,931,932,951
+587	KUBAŠ FRANTIŠEK		1	1284
+587	KUBAŠ IGNÁC		1	1284
+587	KUBAŠ JOZEF		1	1284
+587	KUBAŠ PAVOL		1	1284
+587	Labaj Štefan	USA	0	1063
+587	Lamžová Františka	Rod Mojková	0	1024,1103,1385
+587	Langfelder Netti	Politzer	0	944
+587	Langfelder Salamon		0	943
+587	Lišaníková Anna	Rod Činčurová	0	1081
+587	Lišaníková Anna r. Činčurová		0	1038
+587	Lochmannová Katarína	Rod Šulíková	0	944
+587	Malovcová Mária	Rod Drgáčová	0	985
+587	MALOVCOVÁ MÁRIA	R DRGÁČOVÁ	1	1264
+587	MALOVEC EMIL		1	1259
+587	Malovec Martin	Z Anna Javorková	0	1027
+587	MALOVEC RUDOLF		1	1259
+587	Malovec Tomáš	Z Anna Okrajeková	0	1027
+587	Manabergerová Jolana	Rod Franklová	0	945
+587	Martinková Eva	Rod Michňová	0	945
+587	Matušková Anna	Rod Michňová	0	945
+587	Matysčáková Rozália	Hirsch	1	956,1184,1186
+587	MATYŠČÁK KAMIL	75605 KAROLÍNKA ČS.543	0	1184,1186
+587	Michňová Paulína r. Vetešková		0	1041
+587	MINÁRIK ONDREJ	Z KATARÍNA REZÁKOVÁ	1	1263
+587	Návoj Ondrej	Zeman	0	945
+587	Návoj Štefan	Zeman	0	945
+587	OMAMÍK STANISLAV		1	1196
+587	Ondlevcová Eva	Rod Papajová	0	943
+587	Ondlevcová Katarína	Rod Žilinková	0	1015
+587	Ondrišík Ondrej	Gabris,Z Katarina Husarková	1	972,973,1231,1232
+587	Pacholík Bohuslav		0	945
+587	Pacholík Pavol		0	945
+587	Pacholík Štefan		0	943,945,1081
+587	Pacholíková Františka	Spiriak-Billes	0	944
+587	PILÁTOVÁ JOZEFÍNA	R LUKÁČOVÁ	1	1283
+587	Pončík Juraj		0	945
+587	Puchalter Andrej	Z Mária Zlatnerová	1	1061,1280
+587	Puchalter Miroslav		1	1061,1280
+587	Puchalterová Adela		1	1061,1280
+587	Puchalterová Helena		1	1061,1280
+587	Puchalterová Jolana		1	1061,1280
+587	Putala Ondrej		0	945
+587	Putala Štefan		0	945
+587	Putalová Zuzana		0	945
+587	Raček Štefan		0	945
+587	Račková Božena		0	945
+587	Račková Františka		0	945
+587	Račková Zuzana		0	945
+587	Rezák Ján	Mladší	0	1037
+587	Rezák Ján	Mladší; Mladší	0	1436
+587	Rezáková Katarína		0	1031
+587	REZÁKOVÁ ZUZANA		1	565,1011,1029,1030,1032,1035,1036,1040,1418,1419,1435
+587	ROLÍK PAVOL		1	1247
+587	ROLÍK ŠTEFAN		1	1247
+587	Rosenzweig Mano		0	945
+587	Roth Arpád		0	945
+587	Rothová Cecília		0	945
+587	Rothová Ema		0	945
+587	Sýkorová Anastázia		0	967,1449
+587	Sýkorová Emília		0	967,1449
+587	Šafarík Alojz		0	1012,1018
+587	Šafarík Anton		0	1012,1018
+587	Šafarík Ján		0	1012,1018
+587	Šafarík Ján	Z Katarína Červená	0	1101
+587	Šafarík Jozef		0	1012,1018
+587	Šafaríková Karolína		0	1012,1018
+587	Ševčíková Katarína	Rod Putalová	0	945
+587	ŠPAŇO FRANTIŠEK	Z AGNEŠA KONIARIKOVÁ	1	510,941
+587	Špaňová Agnesa	Rod Koniariková	0	941
+587	ŠPAŇOVÁ AGNEŠA	R KONIARIKOVÁ	1	510
+587	Štefáková Eva	Rod Činčurová	0	945
+587	Štrbáňová Eva	Rod Račková	0	945
+587	Šulík Anton		0	944
+587	Šulík Pavol		0	1083
+587	Šulík Štefan	Z Mária Panáčková	0	1026
+587	Teschner Ivor		0	955
+587	Tučková Zuzana	Rod Jedináková	0	945
+587	Uškovič Anton		0	945
+587	Uškovičová Františka		0	991
+587	Valášková Zuzana		0	945
+587	VALKO JÁN	nar. 23.05.1890 zom.|01.10.1968	0	1199,1201
+587	Veteška Ondrej	Z Františka Kubašová	0	1007
+587	Vetešková Františka	Rod Kubašová	0	1007
+587	Vraníková Eva	Rod Putalová	0	945
+587	Žilinka Ján		1	981,1000,1265,1267,1491,1493
+587	Žilinková Anna	Rod Svorčíková	0	1015
+587	ŽILINKOVÁ ANNA	ROLÍKOVÁ	1	1246,1247
+588	a, BOJNICE, SR		0	1497
+588	ADAMÍK JOZEF	Jozefov syn,súr.Štefan,Mária,Juraj,Mich	0	1496,1497
+588	ADAMÍK JURAJ	zomrel 10.5.1993	0	2870
+588	ADÁMIK MARKO		0	1632
+588	ADAMÍK ŠTEFAN	Jozefov syn,súr.Jozef,Mária,Juraj,Mich	0	1496,1497
+588	ADÁMIKOVÁ ROZÁLIA r. Halenárová	zomrela 30.3.1995	0	2876
+588	ADAMÍKOVÁ ZUZANA r. Juríková	vdova	0	1496,1497,2313
+588	ADAMKOVIČOVÁ MÁRIA, DUBNICKÁ 1047/52, BOJNICE, PSČ 972 01, SR		0	3341
+588	ANDELOVÁ ZUZANA r. Pipíšková		0	2822,2823,3099
+588	ANTOL ŠTEFAN	Valentov syn	0	2871
+588	ANTOLOVÁ PAVLÍNA r. Mokrá		0	2871
+588	BAČÍK JÁN	maloletý	0	2953
+588	BÁTORA JÁN	č.d.13	0	2628
+588	BÁTORA MARCEL		0	2861
+588	BÁTOROVÁ ANNA	č.d.81	0	2899
+588	BÁTOROVÁ MÁRIA	Jozefova dcéra,mal	0	2861
+588	BIELIK VALENT	v Koši č.d.212	0	2966
+588	BIELIKOVÁ MAGDALÉNA r. Pipíšková		0	2812,2813
+588	BIELIKOVÁ ZUZANA r. Urdyová		0	2965
+588	BLAHOVÁ ANTÓNIA r. Sušeková	zomrela 27.11.2004	0	2408
+588	BLAHOVÁ EMÍLIA	súr.Anna,Július,Mária,Jozefína,Antonia	0	2938
+588	BLAHOVÁ JOZEFÍNA	súr.Anna,Július,Mária,Emília	0	2938
+588	BLAHOVÁ JULIANA	maloletá	0	2822,2823,3099
+588	BUGÁROVÁ ANNA r. Adamíková		0	2824
+588	CAGÁŇ JOZEF	maloletý,surod.Štefan,Paulína	0	486
+588	CAGÁŇOVÁ HELENA r. Dražová	zomrela 11.9.1975	0	2822,2823,3099
+588	CAGÁŇOVÁ JÚLIA r. Luptovská	vd.,zomrela 12.6.1963	0	2886
+588	ČEREVKO JOZEF	súrod.Anna,Mária,Helena,Daniel	0	2820
+588	ČEREVKOVÁ ANNA	súrod.Mária,Helena,Daniel,Jozef	0	2820
+588	ČEREVKOVÁ HELENA	súrod.Anna,Mária,Daniel,Jozef	0	2820
+588	ČEREVKOVÁ MÁRIA	súrod.Anna,Helena,Daniel,Jozef	0	2820
+588	DOBROTKOVÁ ZUZANA r. Kotríková	súr.Ján,Anna,Jozef,Alžbeta	0	2601
+588	DRAŽOVÁ ANNA r. Pekárová	č.d.34	0	2822,2823,3099
+588	DRAŽOVÁ MÁRIA r. Pipíšková	vdova	0	2271,2274,2411,2790,2792,2999,3000,3043,3107,3133
+588	FAJKA LAURINEC	Ignác,zomrel 15.12.2004	0	2956
+588	FERJANEC ŠTEFAN		0	2938
+588	FLORIŠ JÁN	zomrel 7.12.1994	0	2822,2823,2952,3099
+588	FLORIŠ JURAJ	ž.Petronela r.Priehodová	0	1353
+588	FLORIŠOVÁ PETRONELA r. Priehodová		0	2925,2953
+588	FÜLÖPOVÁ MÁRIA r. Pajgertová	zomrela 27.12.2002	0	2232
+588	HANKO JÁN	ž.Alžbeta r.Brngálová	0	2938
+588	HANKOVÁ ALŽBETA r. Brngálová	m.Štefan	0	2938
+588	HRAŇO MIROSLAV r. HRAŇO, STARÁ 819/1, LIPNÍK NAD BEČVOU, PSČ 294 43, ČR		0	3341
+588	HRAŇO ROMAN r. HRAŇO, STARÁ 619/1, LIPNÍK NAD BEČVOU, PSČ 294 43, ČR		0	3341
+588	HRIVŇÁKOVÁ MÁRIA r. Pipíšková		0	444,2211
+588	HROMADA PAVEL	syn Jozefa,brat Jozef,Štefan,Ján	0	770,2215,2472,2919
+588	HROMADOVÁ ANNA r. Hrdá		0	2215
+588	CHLPEK JÁN	ž.Júlia r.Mečiarová,Dubnica č.48	0	486,2885
+588	CHLPEK ONDREJ		0	1632
+588	CHLPEK PAVEL	ž.Mária r.Pekárová	0	2454,2463,2540,3051,3217
+588	CHLPEKOVÁ ANNA r. Adámiková		0	2921
+588	CHLPEKOVÁ BERNARDÍNA r. Sedláková	m.Ondrej	0	1632
+588	CHLPEKOVÁ MÁRIA r. Mokrá		0	2871
+588	JABLONSKÁ MARGITA r. Mayerová		0	2938
+588	JURÍK EMIL	mal.,brat Bohumír	0	2780
+588	JURÍK MARTIN	zomrel 31.10.1991	0	2872
+588	JURÍKOVÁ ANNA r. Priehodová	zomrela 7.6.2003	0	2716,2814,2952,2953
+588	JURÍKOVÁ MÁRIA r. Pipíšková	zomrela 2.11.1982	0	2221,2452
+588	KARAKOVÁ ANTÓNIA r. Blahová		0	2938
+588	KOTIANOVÁ HELENA r. Pipíšková	súrod.Juraj,Michal	0	2236
+588	KOTRÍK JÁN	Prievidza,súr.Anna,Jozef,Zuzana,Alžbeta	0	2601
+588	KOTRÍK JOZEF	Sebedražie,súr.Anna,Ján,Zuzana,Alžbeta	0	2601
+588	KOTRÍK MICHAL		0	2844
+588	KOTRÍK ONDREJ	ž.Mária r.Pipíšková č.d.59	0	2912
+588	KOTRÍK VALENT	zomrel 22.12.1965	0	1239,2600,2822,2823,3099
+588	KRATOCHVÍL JÁN	ž.Margita r.Číková	0	2938
+588	KRČÍK JOZEF	súr.Koloman,Vojtech,Mária,Július,Ján	0	2938
+588	KRČÍK KOLOMAN	zomrel 2.11.1976	0	2938
+588	KRČÍKOVÁ HELENA r. Sušeková	zomrela 5.3.1993	0	2408
+588	LACKOVÁ MÁRIA r. Zábojníková	súrod.Valent,Anna,Jozef	0	2639,2905
+588	LETAVAY JÚLIUS	ž.Mária r.Tančeková	0	2483
+588	LETAVAYOVÁ MÁRIA r. Blahová		0	2938
+588	LETAVAYOVÁ MÁRIA r. Tančeková	m.Július	0	2483
+588	LUPTOVSKÁ ANNA r. Adamíková		0	1496,1497
+588	LUPTOVSKÁ ANNA r. Šimková	m.Michal,zomrela 20.6.1998	0	2906
+588	LUPTOVSKÁ KATARÍNA r. Kozárová	m.Michal	0	2337
+588	LUPTOVSKÁ MATILDA r. Rajecká		0	2296
+588	LUPTOVSKÁ ROZÁLIA	č.d.49	0	2920
+588	LUPTOVSKÝ JOZEF	syn Michala,brat Michal	0	2541
+588	LUPTOVSKÝ LAURINEC		0	2762
+588	LUPTOVSKÝ MICHAL	syn Michala,brat Jozef	0	2541
+588	LUPTOVSKÝ MICHAL	ž.Anna r.Šimková,zomrel 6.10.1990	0	2906
+588	LUPTOVSKÝ MICHAL	ž.Katarína r.Kozárová	0	2337
+588	LUPTOVSKÝ ONDREJ	č.d.49	0	2880
+588	LUPTOVSKÝ VAVRINEC	ž.Mária r.Kotríková	0	2762
+588	MAJDAN EMIL		0	770,1116,2472
+588	MAJEROVÁ JÚLIA r. Schnierová	m.Alexander	0	2938
+588	MASTRÁKOVÁ GIZELA r. Sušeková	zomrela 7.10.1980	0	2408
+588	MAYER FRANTIŠEK		0	2938
+588	MAYEROVÁ ELENA	zomrela 10.5.1986	0	2938
+588	MEČIAR JOZEF	Bojnice č.207	0	2939
+588	MEČIAROVÁ VERONIKA		0	1239,2246,2822,2823,3099
+588	MELUŠOVÁ ANNA r. Grossová	m.Jozef	0	2938
+588	MOKRÁ ANNA r. Mokrá	vdova	0	2871
+588	MOKRÁ ZUZANA	Matejova dcéra,mal	0	2871
+588	MOKRÝ JÁN	Matejov syn,mal	0	2871
+588	MOKRÝ ŠTEFAN	Matejov syn	0	2871
+588	Nikmon Ján	súr.Augustína,Jozef,Július,Viliam; súr.Augustína,Jozef,Július,Viliam	0	2938
+588	NIKMON JOZEF	ž.Františka r.Špeťková	0	2938
+588	NIKMON JÚLIUS	súr.Augustína,Jozef,Ján,Viliam	0	2938
+588	NIKMON VILIAM	súr.Augustína,Jozef,Ján,Július	0	2938
+588	NOVODVORSKÁ IRENA r. Zmeškálová		0	2903
+588	PAJGERT RICHARD	ž.Mária r.Jendrejovská	0	2232
+588	PASTIERIKOVÁ ANASTÁZIA r. Sušeková	zomrela 24.5.1980	0	2408
+588	PEKÁROVÁ ANNA r. Dražová		0	2411,2822,2823,3099
+588	PEKÁROVÁ MÁRIA r. Pipíšková		0	2822,2823,3099
+588	PIEŠOVÁ JOZEFÍNA r. Priehodová	v Porube č.d.85	0	2897
+588	PIPÍŠKA FRANTIŠEK	zomrel 30.9.1967	0	2225
+588	PIPÍŠKA JÁN		0	445,1858
+588	PIPÍŠKA JÁN	súrod.Emil,Jozef,Mária,Augustín,Anna	0	2211
+588	PIPÍŠKA JOZEF		0	445,1858
+588	PIPÍŠKA JOZEF	mal.súrod.Emil,Ján,Mária,Augustín,Anna	0	2211
+588	PIPÍŠKA JOZEF	maloletý,Jozefov syn	0	2211
+588	PIPÍŠKA JOZEF	súrod.Michal,Peter,Elena,Mária	0	2211
+588	PIPÍŠKA JOZEF	ž.Anna r.Pipíšková,č.d.43	0	2822,2823,3099
+588	PIPÍŠKA JURAJ	súrod.Helena,Michal	0	2236
+588	PIPÍŠKA JURAJ	zomrel 15.7.1994	0	2822,2823,3099
+588	PIPÍŠKA JURAJ	ž.Paulína r.Bugárová	0	2236
+588	PIPÍŠKA LUKÁČ	č.d.46,súrod.Mária,Jozef,Ján,Tomáš	0	2823
+588	PIPÍŠKA MARTIN	zomrel 31.10.1991	0	2822,2823,3099
+588	PIPÍŠKA PAVEL	súr.Pavlína,Alžbeta,Anna,Štefan,Martin	0	2206,2309,2822,2823,3099
+588	PIPIŠKA PAVOL	ž.Mária r.Chlpeková	0	1239
+588	PIPÍŠKA TOMÁŠ	zomrel 1.8.1997	0	2822,2823,3099
+588	PIPÍŠKA TOMÁŠ	zomrel 11.2.1981	0	2861
+588	PIPÍŠKA TOMÁŠ	zomrel 25.9.1989,ž.Mária r.Zábojníková	0	2822,2823,3099
+588	PIPÍŠKA VAVRINEC	ž.Mária r.Bátorová	0	2283
+588	PIPÍŠKOVÁ ANNA r. Humajová	zomrela 2.9.1996	0	2824
+588	PIPÍŠKOVÁ ANNA r. Humajová	zomrela 2.9.1996; zomrela 2.9.1996	0	2991
+588	PIPÍŠKOVÁ ANNA r. Pipišková	m.Jozef	0	2822,2823,3099
+588	PIPÍŠKOVÁ ANNA r. Pipišková	m.Pavol,zomrela 18.10.1976	0	1239
+588	PIPÍŠKOVÁ ELENA	súrod.Michal,Peter,Jozef,Mária	0	2211
+588	PIPÍŠKOVÁ HELENA		0	445
+588	PIPÍŠKOVÁ HELENA	Jozefova dcéra do Krdanov	0	444,2211
+588	PIPÍŠKOVÁ ĽUDMILA		0	1918
+588	PIPÍŠKOVÁ MÁRIA		0	445,1858
+588	PIPÍŠKOVÁ MÁRIA	mal.súrod.Emil,Ján,Jozef,Augustín,Anna	0	2211
+588	PIPÍŠKOVÁ MÁRIA r. Pipíšková	Jurajova	0	2918
+588	PIPÍŠKOVÁ MÁRIA r. Priehodová		0	2578
+588	PIPÍŠKOVÁ PAULÍNA	zomrela 7.11.1989 slobodná	0	2822,2823,3099
+588	PIPÍŠKOVÁ PAULÍNA r. Bugárová	m.Juraj	0	2236
+588	PIPÍŠKOVÁ PAVLÍNA r. Dražová	súrod.Helena,Anna,Jozefína	0	2316,2789,2822,2823,3099
+588	PIPÍŠKOVÁ PAVLÍNA r. Dražová	súrod.Helena,Anna,Jozefína; súrod.Helena,Anna,Jozefína	0	3044
+588	PIPÍŠKOVÁ ZUZANA r. Bátorová	zomrela	0	2861

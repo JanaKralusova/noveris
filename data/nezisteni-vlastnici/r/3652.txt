@@ -1,0 +1,256 @@
+2105	Birčák Ján	Ruská Voľa nad Popradom	0	2233
+2105	Birčák Juraj		0	1765
+2105	Biroščík Ján	ž Anna r. Kaščáková	0	677,678,1314,1315,1324,1476,1483,1485,2117,2375,2387,2397,2472
+2105	Biroščík Ján	ž Katarína r. Sovičová	0	677,678,1314,1315,1324,1476,1483,1485,2176,2375,2387,2397,2472
+2105	Biroščíková Anna r. Kaščáková		0	1314,1315,1324,2472
+2105	Biroščíková Katarína r. Sovičová		0	677,678,1314,1315,1324,1476,1483,1485,1670,2375,2387,2397,2472
+2105	Bosák Ján		0	1266
+2105	Bosák Ján, USA		0	1215
+2105	Bosáková Anna r. Ščerbáková		0	71,1143,1219,1221,2275,2439
+2105	Buková Mária r. Čižíková		0	71,892,893,1221,1626
+2105	Busa Anna r. Timočková		0	1317
+2105	Buša Ján	ž Helena r. Muchová	0	71
+2105	Buša Michal		0	677,678,1314,1315,1324,1476,1483,1485,2300,2375,2387,2397,2472
+2105	Buša Michal	1	0	14
+2105	Bušeková Anna r. Biroščíková		0	1326
+2105	Bušová Anna r. Timočková		0	1447,2430
+2105	Bušová Helena r. Muchová		0	71
+2105	Bušová Mária r. Fenďová		0	2068
+2105	Cicoňová Mária r. Dučaková		0	71,389,680,1216,1277,1585
+2105	Čajkovská Anna r. Kurucová, ČR	Přerov	0	71,365,1167,1575,1889
+2105	Čižík Eliáš, USA	Doľák	0	71,389,680,1021,1216,1267,1494,1996
+2105	Čižík Ján		0	1221
+2105	Čižík Ján	1	0	71,1143,1654,2439
+2105	Čižík Ján	2	0	892
+2105	Čižík Ján	3	0	71
+2105	Čižík Ján	Orlov	0	9
+2105	Čižík Juraj	Doľák	0	71,389,680,1216,1267,1277,2340
+2105	Čižík Michal		0	291
+2105	Čižík Pavel	ž Anna r. Kotuľová	0	71,81,423,1021,1450,1478,1484,1487,1494,1712
+2105	Čižík Pavol		0	9
+2105	Čižík Pavol	1	0	71,892,893,1219,1221,1774
+2105	Čižík Pavol, USA		0	71,1143,2221,2439
+2105	Čižík Peter		0	1221
+2105	Čižíková Mária		0	9,1219
+2105	Čižíková Mária r. Lazorčaková		0	71,1143,1249,1582,2439
+2105	Čižíková Mária r. Troščáková		0	66
+2105	Čižmár Peter	ž Helena r. Dopiriaková	0	1335
+2105	Čižmárová Helena r. Dopiráková	m Peter	0	1991
+2105	Davidčin Jozef		0	71,917,1824,2407
+2105	Davidčin Michal		0	71
+2105	Deutschová Serena		0	1311
+2105	Doľák Ján		0	71,389,680,1216,1267,1827
+2105	Doľáková Anna r. Dopiráková		0	851,1692
+2105	Dopirák Ján		0	851,1263,1297,1302,1696
+2105	Dopirák Ján	Depo	0	267,306
+2105	Dopirák Ján	ž Helena r. Gočmanovská	0	71,285,635,677,678,917,947,1184,1314,1315,1324,1476,1483,1485,2104,2375,2387,2397,2407,2472
+2105	Dopirák Ján	ž Mária r. Furmenderová	0	677,678,1314,1315,1324,1476,1483,1485,2231,2375,2387,2397,2472
+2105	Dopirák Michal		0	947,1263,1297,1302,1335
+2105	Dopirák Michal	Prešov	0	71,285,635,917,2124,2407
+2105	Dopirák Michal	ž Mária r. Havranová	0	947
+2105	Dopirák Michal	ž Mária r. Havrilová	0	71,285,635,677,678,917,1314,1315,1324,1476,1483,1485,2172,2375,2387,2397,2407,2472
+2105	Dopirák Michal	ž Mária r. Pastirčáková	0	677,678,851,1314,1315,1324,1476,1483,1485,1787,2375,2387,2397,2472
+2105	Dopirák Michal, USA		0	947
+2105	Dopirák Michal, USA	1	0	285,1648
+2105	Dopirák Pavel		0	71,285,635,917,947,1521,2407
+2105	Dopirák Pavel	1	0	71,285,635,917,947,2044,2407
+2105	Dopirák Pavol		0	1263,1297,1302,1335
+2105	Dopirák Peter, USA	1	0	2274
+2105	Dopiráková Alžbeta		0	71,285,635,947,1263,1297,1570
+2105	Dopiráková Anna		0	71,285,635,947,1263,1297,1882
+2105	Dopiráková Anna r. Doľáková		0	1246,1606
+2105	Dopiráková Anna r. Šujetová, USA		0	71,1121,1122,1279,1952
+2105	Dopiráková Anna, USA		0	2326
+2105	Dopiráková Helena r. Gočmanovská		0	677,678,1314,1315,1324,1476,1483,1485,1633,2375,2387,2397,2472
+2105	Dopiráková Helena r. Ščerbáková		0	850,853,1334,1973
+2105	Dopiráková Mária	Prešov	0	267,306
+2105	Dopiráková Mária r. Furermenderová		0	677,678,1314,1315,1324,1476,1483,1485,1598,2375,2387,2397,2472
+2105	Dopiráková Mária r. Pastirčáková	Plaveč	0	677,678,1114,1314,1315,1324,1476,1483,1485,2271,2375,2387,2397,2472
+2105	Dopiraková Mária, USA	1	0	1335,2069
+2105	Dopiráková Zuzana		0	71,285,635,947,1263,1297,1539
+2105	Dopiráková Zuzana r. Redajová		0	1587
+2105	Dopiriak Peter		0	1335
+2105	Dragančiková Zuzana r. Redajová		0	1890
+2105	Drobňák Ján		0	71,1169,1223,1225,1267,1277,1302,1719
+2105	Drobňák Ján	1	0	1169,1762
+2105	Drobňák Ján	10	0	2043
+2105	Drobňák Ján	2	0	71,349,917,1443,1519,2407
+2105	Drobňák Ján	4	0	71
+2105	Drobňák Ján	6	0	389
+2105	Drobňák Ján, USA	1	0	71,1110,1163,1422,1425,1962
+2105	Drobňák Michal		0	71,892,894,900,1169,1225,1249,1695
+2105	Drobňák Michal	1	0	1969
+2105	Drobňák Pavel		0	71,1021,1494,1603
+2105	Drobňák Pavol		0	71,1110,1163,1164,1169,1223,1225,1422,1425,2317
+2105	Drobňák Peter		0	71,1110,1163,1164,1169,1223,1225,1422,1425,2019
+2105	Drobňák Peter	1	0	1880
+2105	Drobňák Peter	2	0	892,894,2357
+2105	Drobňák Peter	3	0	1249
+2105	Drobňák Štefan		0	1225
+2105	Drobňáková Anna		0	71,1021,1167,1218,1225,1270,1290,1494,2194
+2105	Drobňáková Anna r. Kedová		0	1108,2191
+2105	Drobňáková Anna r. Kurucová		0	506,1290,2146
+2105	Drobňáková Helena		0	1225
+2105	Drobňáková Margita		0	1225
+2105	Drobňáková Margita r. Jacková		0	1718
+2105	Drobňáková Mária		0	1218,1290
+2105	Drobňáková Mária	1	0	892,2208
+2105	Drobňáková Zuzana		0	1225,2215
+2105	Drobňáková Zuzana r. Troščáková		0	71,683,1148,1209,1218,1269,1428,1430,2073
+2105	Dučak Ján		0	71,389,680,1216,1267,1277,1937
+2105	Dučak Ján	ž Helena r. Kulíková	0	1282
+2105	Dučak Michal, USA		0	71,389,680,1216,1267,1277,1553
+2105	Dučak Pavel, Kanada		0	71,389,680,1216,2021
+2105	Dučak Pavol		0	1267,1277,2000
+2105	Dučaková Anna r. Michalová		0	1263
+2105	Dučaková Anna r. Michalová, Kanada		0	71,285,635,644,917,947,1110,1119,1487,1848,2407
+2105	Dučaková Helena		0	71,389,680,1216,1267,1277,2254
+2105	Duch Ján		0	389,1216,1264,1924
+2105	Duch Ján	1	0	71,2111
+2105	Duch Ján	2	0	71,2225
+2105	Duch Ján	ž Anna r. Duchová	0	1751
+2105	Duch Juraj		0	71,322,389,1163,1164,1264,1267,1402,1403,1408,1422,1423,1425,1562,1685,2422
+2105	Duch Juraj	1	0	71
+2105	Duch Michal		0	71,1163,1422,1425,2062
+2105	Duch Mikuláš		0	2245
+2105	Duchová Anna r. Čižíková		0	291,1775
+2105	Duchová Anna r. Drobňáková		0	71,1148,1428,1430,1704
+2105	Duchová Anna r. Duchová	m Ján	0	1264,1803
+2105	Duchová Helena		0	1267
+2105	Duchová Irena r. Kovalčíková		0	1267
+2105	Duchová Mária		0	1267
+2105	Duchová Mária r. Janošková		0	1110,1223,1264,1635
+2105	Duchová Mária r. Timočková		0	1264
+2105	Duchová Mária r. Timočková	2	0	71,1174,1532
+2105	Duchová Zuzana		0	1264
+2105	Dvorožňák Andrej		0	71,644,1119,1487,1861
+2105	Dvorožňák Andrej	10	0	1624
+2105	Dvorožňák Ján	10	0	2318
+2105	Dvorožňák Ján, USA		0	71,644,1119,1487,1871
+2105	Dvorožňák Juraj, USA		0	71,644,1119,1487,1611
+2105	Dvorožňák Peter, USA		0	71,644,1119,1487,1583
+2105	Dvorožňáková Anna r. Janošková		0	644
+2105	Dvorožňáková Anna r. Policianová		0	1302
+2105	Dvorožňáková Helena		0	71,644,1119,1264,1487,1900
+2105	Dvorožňáková Helena	1	0	71
+2105	Dvorožňáková Helena	10	0	2061
+2105	Dvorožňáková Helena r. Kolcunová		0	71,1529
+2105	Dvorožňáková Mária r. Duchová		0	71
+2105	Dvorožňáková Mária r. Kurucová		0	71,90,98,1215,1266,1285,2026
+2105	Dvorožňáková Zuzana r. Duchová	m Andrej	0	71,1163,1164,1264,1422,1425,2280
+2105	Fecko Albert, USA		0	1130,1642
+2105	Fecko Eduard, USA		0	1130,1789
+2105	Fecko Michal, USA		0	892,901,1128,1130,1713,2454
+2105	Fecko Pavol		0	1128,1686
+2105	Fecko Peter	ž Zuzana r. Majdáková	0	2075
+2105	Fecko Peter, USA		0	1130,1742
+2105	Fecková Anna		0	892,901,1128,1597,2454
+2105	Fecková Mária r. Duchová		0	1403,1577
+2105	Fecková Mária r. Duchová	Orlov 20	0	71,1163,1164,1402,1422,1425,1744
+2105	Fedaková Anna r. Miklušová		0	1605
+2105	Fenďa Ján		0	1569
+2105	Fenďa Michal	11	0	2034
+2105	Fenďa Peter		0	2266
+2105	Fenďová Anna r. Berežňáková		0	1520
+2105	Fenďová Zuzana		0	1729
+2105	Garančovská Zuzana r. Stenegová		0	268,2459
+2105	Garančovská Zuzana r. Stenegová	m Mikuláš	0	179,267,306,2311
+2105	Garnek Ján, ČR	Vojanova 28/591, Ústí n/L	0	306
+2105	Gočmanovská Alžbeta r. Lazorčáková	m Ján	0	364
+2105	Gočmanovská Anna r. Knapíková		0	1054,1312,2285
+2105	Gočmanovská Anna r. Pariščaková	m Michal	0	1312,1321
+2105	Gočmanovská Mária		0	2058
+2105	Gočmanovská Mária r. Harčariková	m Michal	0	1537
+2105	Gočmanovská Mária r. Ščerbáková		0	1895
+2105	Gočmanovský Ján		0	2031
+2105	Gočmanovský Michal		0	364,1956
+2105	Gočmanovský Michal	ž Anna r. Pastirčáková	0	1321
+2105	Gočmanovský Michal	ž Mária r. Harčariková	0	1868
+2105	Gočmanovský Pavel	ž Halina r. Ščerbáková	0	677,678,1314,1315,1324,1476,1483,1485,1968,2375,2387,2397,2472
+2105	Gočmanovský Peter	Orlov 320	0	87,1620
+2105	Grincová Alžbeta		0	127,2199
+2105	Haliková Mária		0	71,1167,1270,2142
+2105	Harčarik Andrej		0	127
+2105	Harčarik Štefan		0	1755
+2105	Havrila Ján		0	71,1706
+2105	Havrila Ján	1	0	1777
+2105	Havrila Juraj		0	71,1021,1494
+2105	Havrila Karol	Orlov	0	9
+2105	Havrila Michal	1	0	71,1021,1494
+2105	Havrilová Anna r. Kurucová		0	152,1554
+2105	Havrilová Helena r. Gočmanovská		0	2020
+2105	Havrilová Zuzana r. Duchová		0	1267
+2105	Havrilová Zuzana r. Troščáková		0	9
+2105	Helemčin Ján		0	9,1767
+2105	Helemčin Ján	1	0	1221,1303
+2105	Helemčin Ján	2	0	119,1811
+2105	Helemčin Jozef		0	1221,1303,2126
+2105	Helemčin Peter		0	1221,1303
+2105	Helemčinová Anna		0	1303
+2105	Helemčinová Zuzana r. Čižíková	m Peter	0	119,892,1127,1303,1639
+2105	Helemik Jozef		0	71
+2105	Helemik Michal	1	0	1261,1306
+2105	Helemiková Alžbeta r. Timočková, USA		0	71,349,1443,1512
+2105	Helemiková Helena r. Dopiráková		0	1263,1297
+2105	Helemiková Mária		0	1261,1306
+2105	Helemiková Mária r. Dopiráková		0	1263,1627
+2105	Helemiková Mária r. Dopiráková	m Ján	0	71,285,423,635,947,1021,1494,1976
+2105	Heteš Pavel		0	1607
+2105	Hnat Andrej		0	721,875,1917
+2105	Hnat Ján	ž Mária r. Dopiráková	0	677,678,1314,1315,1324,1476,1483,1485,1544,2375,2387,2397,2472
+2105	Hnat Karol		0	2038
+2105	Hnat Michal		0	1167,1646
+2105	Hnat Michal	1	0	1223,1270
+2105	Hnat Michal, USA		0	71,1877
+2105	Hnat Ondrej	Orlov 23	0	1142
+2105	Hnat Peter	ž Anna r. Helemiková	0	1261
+2105	Hnat Peter a Anna Hnatová r. Helemiková		0	1306
+2105	Hnatová Alžbeta, USA		0	1999,2443
+2105	Hnatová Anna r. Helemiková	m Peter	0	69,545,1656
+2105	Hnatová Anna r. Sopková		0	71,299,1134,2185
+2105	Hnatová Mária r. Dopiráková		0	677,678,1314,1315,1324,1476,1483,1485,1801,2375,2387,2397,2472
+2105	Hončarová Anna		0	1227,1725
+2105	Hončarová Anna r. Timková		0	641,1761
+2105	Hončarová Zuzana r. Redajová		0	71,333,892,899,2204
+2105	Hriňová Anna r. Gočmanovská, USA		0	1753
+2105	Hriňová Mária r. Michalková		0	515,1247
+2105	Chudík Štefan	Detský domov, Svidník	0	1492
+2105	Ilaščík Ján		0	1865
+2105	Ilaščík Pavel		0	1560
+2105	Ilaševič Michal, USA		0	71
+2105	Ilaševičová Mária r. Drobňáková		0	1934
+2105	Jacko Ján		0	682,1523,2427
+2105	Janoško Alexander, USA		0	423,1021,1494,1743
+2105	Janoško Andrej		0	95,1256,1278,2175
+2105	Janoško Ján	2	0	1159,2095
+2105	Janoško Ján	5	0	71,95,423,1021,1402,1403,1494,2116
+2105	Janoško Ján	6	0	95
+2105	Janoško Ján	Hniezdne 101	0	66,71,423,1021,1159,1256,1478,1484,1487,1494,1769
+2105	Janoško Michal	3	0	95,1402,1403,1815
+2105	Janoško Pavol		0	71
+2105	Janoško Tomaš	Orlov 72	0	1256
+2105	Janošková Anna		0	127,1302,1791
+2105	Janošková Anna	1	0	95,1672
+2105	Janošková Anna	10	0	1644
+2105	Janošková Anna r. Knapíková		0	95
+2105	Janošková Helena r. Čižíková		0	291
+2105	Janošková Helena r. Gladišová		0	1911
+2105	Janošková Helena r. Troščáková		0	892
+2105	Janošková Mária		0	1278
+2105	Janošková Mária r. Helemiková		0	69,71,423,545,1021,1478,1484,1487,1494,2045
+2105	Janošková Mária, USA		0	71
+2105	Janošková Zuzana r. Muchová		0	71,81,1450,1972
+2105	Kalakaj Ján		0	71,380,1174,1245,1253,2297
+2105	Kalakaj Štefan		0	71,380,1174,2041
+2105	Kalakajová Mária r. Schvarcová		0	1245,1253
+2105	Kaščáková Mária r. Timočková		0	193,1970
+2105	Keda Ján		0	1238,1282,1631
+2105	Keda Michal		0	1282
+2105	Kedová Anna		0	1282
+2105	Knapík Andrej	Frenštát pod Radhoštěm, ČR	0	892
+2105	Knapík Ján	1	0	892,898
+2105	Knapík Ján	ž Helena r. Kurucová	0	677,678,1314,1315,1324,1476,1483,1485,1735,2375,2387,2397,2472
+2105	Knapík Michal	ž Helena r. Bosáková	0	1314,1315,1324,2472
+2105	Knapík Michal	ž Mária r. Sadová	0	677,678,1314,1315,1324,1476,1483,1485,1748,2375,2387,2397,2472
+2105	Knapík Michal	ž Mária r. Škvarenská	0	677,678,1314,1315,1324,1476,1483,1485,2237,2375,2387,2397,2472
+2105	Knapík Pavol	ž Mária r. Adamová	0	677,678,847,1314,1315,1324,1476,1483,1485,1628,2375,2387,2397,2472

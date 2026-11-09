@@ -1,0 +1,256 @@
+1236	KOVÁCSOVÁ Johanna		0	1081
+1236	Kovácsová Mária r. Horváthová		0	869,1056
+1236	Kovácsová Roza		0	951,1661
+1236	KOVÁCSOVÁ Rozália		0	1081
+1236	Kováč Ján	*	0	869,1056
+1236	KOVÁČ Ján		0	214,378,1017,1516,1581,1690,1723
+1236	Kováč Jozef	*	0	869,1056
+1236	Kováč Michal	*	0	869,1056
+1236	KOVÁČ Michal		0	1368,1516
+1236	Kováčová Alžbeta r. Mackovjaková		0	1122
+1236	Kovačová Mária r. Vebová, SR		0	819
+1236	Kováčová Mária r. Verbová		0	144,869,1056,1522
+1236	Krivdová Mária r. Molčáková		0	869,1056
+1236	KUCHTA Jozef		0	610
+1236	Kundrát Ján	*	0	869,1056
+1236	KUNDRÁT Ján		0	440,583,931,1415,1501
+1236	Kundrát Michal	*	0	869,1056
+1236	KUNDRÁT Michal		0	304,583,869,1056,1211,1384,1415
+1236	Kundrát Zákutný Ján		0	23,141,1413,1602
+1236	Kundrát Zákutný Ján	mal	0	74,1491,1593
+1236	Kundrath Ján	Zákutný	0	869,1056
+1236	KUNDRÁTH Ján		0	869,1056
+1236	Kundráthová Anna r. Gallérová		0	869,1056
+1236	KUNDRÁTHOVÁ Mária		0	1056
+1236	Kundráthová Mária r. Tancárová		0	869,1056
+1236	Kundrátová Anna r. Fabišiková		0	869,1056
+1236	KUNDRÁTOVÁ Mária		0	583,869,1056,1415
+1236	Kundrátová Mária r. Lešková		0	102,104,869,1056,1691
+1236	Kundratová Terézia r. Kiovská		0	869,1056
+1236	Lásková Mária r. Gajdošová		0	869,1056
+1236	Lazár Michal	*	0	869,1056
+1236	Lazárová Anna		0	110,129,130,132,1427,1708
+1236	Lazárová Anna	*	0	869,1056
+1236	Lazárová Anna	č.s.235	0	858
+1236	Lazarová Anna r. Gajdošová		0	869,1056
+1236	Lazárová Anna r. Kiovská		0	110
+1236	Lazárová Anna r. Kiovská	muž Andrej	0	858
+1236	Lazárová Mária		0	110
+1236	Lazárová Mária	č.s.235	0	858
+1236	Lazarová Terézia r. Fabišíková		0	869,1056
+1236	Lazorová Mária r. Kuchtová	Jánovce pri Poprade	0	608,1398
+1236	Leško Andrej	*	0	869,1056
+1236	Leško Andrej	Šandor	0	869,1056
+1236	LEŠKO Jan		0	102,104,288,360,378,1166,1383,1468,1516,1569,1581,1690,1691
+1236	Leško Ján	*	0	869,1056
+1236	Leško Jozef	*	0	869,1056
+1236	LEŠKO Jozef		0	102,104,1691
+1236	Leško Juraj	*	0	869,1056
+1236	LEŠKO Juraj		0	869,1056
+1236	LEŠKO Michal		0	48,102,104,212,214,288,618,869,1017,1056,1383,1395,1468,1507,1691,1723
+1236	Leško Michal r. Leško		0	1017
+1236	Leško Ondrej	*	0	869,1056
+1236	LEŠKO Ondrej		0	74,1491,1593
+1236	Leško Peter	*	0	869,1056
+1236	LEŠKO Peter		0	38,48,288,618,619,1383,1395,1468
+1236	Leško Štefan	*	0	869,1056
+1236	Leško Štefan	Kojšov, č. d. 245	0	434
+1236	Leško Štefan	Kojšov, č.d.245	0	187,1368
+1236	LEŠKO Štefan		0	151,188,236,1002,1669
+1236	Leško Štefan, Kojšov 245, Kojšov, PSČ 055 52, SR		0	186,1505,1598
+1236	Leško Vasil	*	0	869,1056
+1236	LEŠKOVÁ Alžbeta	rod. Petrovová	0	1333
+1236	Lešková Alžbeta r. Janisková		0	265,869,903,1056,1399
+1236	Lešková Alžbeta r. Lešková		0	1056
+1236	Lešková Alžbeta r. Lešková	r; r	0	869
+1236	Lešková Alžbeta r. Mackovjaková		0	869,1056
+1236	Lešková Alžbeta r. Petrovová, SR		0	164,1668
+1236	Lešková Anna	*	0	869,1056
+1236	LEŠKOVÁ Anna		0	214,1017,1251,1723
+1236	Lešková Anna r. Kuchtová		0	869,1056
+1236	Lešková Anna r. Lešková		0	869,1056
+1236	Lešková Anna r. Thurová		0	869,1056
+1236	Lešková Anna r. Verbová		0	869,1056
+1236	Lešková Anna r. Zimovjanová		0	869,1056
+1236	Lešková Mária		0	136,186,188,288,360,1251,1383,1468,1505,1569,1598,1669
+1236	Lešková Mária	*	0	869,1056
+1236	LEŠKOVÁ Mária	rod. Hadbavná	0	1333
+1236	Lešková Mária r. Fabišíková		0	48,619,869,1056
+1236	Lešková Mária r. Gajdošová		0	58,60,61,1536
+1236	Lešková Mária r. Hadbavná		0	66,426,869,1056,1138,1368,1499,1525
+1236	Lešková Mária r. Hadbavná, SR		0	164,1668
+1236	Lešková Mária r. Janová		0	736,1390
+1236	Lešková Mária r. Janovová		0	254,1414
+1236	Lešková Mária r. Jenčušová		0	244,869,1056,1377
+1236	Lešková Mária r. Lešková		0	760,869,1056,1421
+1236	Lešková Mária r. Petrovová	USA	0	56
+1236	Lešková Terézia r. Janíková		0	67,68,379,869,1056,1512
+1236	Lešková Zuzana	rod. Kačmariková, muž Michal	0	1099
+1236	Lešková Zuzana	rod. Kačmariková, muž Michal; rod. Kačmariková, muž Michal	0	1099
+1236	LEŠKOVÁ Zuzana		0	869,1056
+1236	Macinská Mária	Vargová	0	869
+1236	Macinská Mária r. Vargová		0	1056
+1236	Macinská Vargová Alžbeta		0	240,1382
+1236	Macinská Vargová Mária		0	238,240,1382
+1236	MacinskáVargová Alžbeta		0	239
+1236	MacinskáVargová Mária		0	239
+1236	Macinský Ján		0	804,869,1056
+1236	Macinský Ján, SR		0	63
+1236	Macinský Michal		0	804
+1236	Macinský Varga Alžbeta, SR		0	241
+1236	Macinský Varga Mária, SR		0	241
+1236	Mackovjak Adam	*	0	869,1056
+1236	Mackovjak Adam	mrtvý	0	56
+1236	MACKOVJAK Jakub		0	869,1056
+1236	Mackovjak Ján	*	0	869,1056
+1236	Mackovjak Ján	Štefanov	0	869,1056
+1236	Mackovjak Ján	Vojačin	0	869,1056
+1236	Mackovják Ján		0	212,238,239,240,241,393,528,690,1382,1393,1436,1507,1705
+1236	Mackovják Ján, SR		0	241
+1236	Mackovjak Jozef		0	186,187,188,251,360,568,790,1031,1505,1509,1524,1569,1598
+1236	Mackovjak Jozef	mrtvý	0	56
+1236	Mackovják Jozef	Koš. Hámre	0	1054
+1236	Mackovjak Juraj	*	0	869,1056
+1236	Mackovják Juraj		0	251,1509
+1236	Mackovják Matej		0	804
+1236	Mackovjak Michal	*	0	869,1056
+1236	Mackovjak Michal	mrtvý	0	56
+1236	MACKOVJÁK Michal		0	251,494,528,869,1056,1389,1436,1509,1705,1724
+1236	Mackovják Michal, Februárového víťazstva, Gelnica, PSČ 056 01, SR		0	1328
+1236	Mackovjak Štefan	*	0	869,1056
+1236	Mackovjaková Alžbeta	r.Štefanová	0	1056
+1236	Mackovjaková Alžbeta	zomrela 17.09.1953	0	84,217,251,445,869,1018,1020,1056,1509
+1236	Mackovjaková Alžbeta r. Gajdošová		0	101,107,494,495,869,923,1056,1389,1391,1466,1681,1682,1724
+1236	Mackovjaková Alžbeta r. Mervová		0	869,1056
+1236	Mackovjaková Alžbeta r. Molčáková		0	869,1056
+1236	Mackovjaková Alžbeta r. Štefanová		0	869
+1236	Mackovjaková Anna	*	0	869,1056
+1236	MACKOVJAKOVÁ Anna	rod. Zimovjanová	0	1333
+1236	Mackovjaková Anna r. Fabišiková		0	869,1056
+1236	Mackovjaková Anna r. Vargová		0	869,1056
+1236	Mackovjaková Anna r. Zimovjanová		0	66,175,1499
+1236	Mackovjaková Anna r. Zimovjanová, SR		0	164,1668
+1236	Mackovjáková Anna, SR		0	241
+1236	Mackovjaková Mária	r.Mervová	0	869
+1236	MACKOVJÁKOVÁ Mária		0	251,1509
+1236	Mackovjaková Mária r. Janisková		0	238,239,240,241,265,869,1056,1382,1399
+1236	Mackovjaková Mária r. Kováčová		0	869,1056
+1236	Mackovjaková Mária r. Mervová		0	869,1056
+1236	Mackovjáková Mária r. Petrová		0	432,433,435,869,1056,1616
+1236	Mackovjaková Mária r. Petrovová	mŕtva	0	84
+1236	Mackovjaková Mária r. Slottová		0	316
+1236	MACKOVJAKOVÁ Mária r. Verbová		0	568,869,1056
+1236	Mackovjaková Mária r. Zimovjanová		0	869,1056
+1236	Mackovjáková Terézia, Kojšov 193, Kojšov, PSČ 055 52, SR		0	1328
+1236	Mackovjaková Zuzana	*	0	869,1056
+1236	Mackovjaková Zuzana r. Zimovjanová		0	414
+1236	Mackvják Ján		0	393
+1236	Maczkovják Michal		0	951,1661
+1236	MALIŇAK Ján		0	822
+1236	MALIŇAKOVÁ Alžbeta		0	822
+1236	Maliňaková Alžbeta r. Mackovjaková		0	869,1056
+1236	MALIŇAKOVÁ Mária		0	822
+1236	Maliňaková Zuzana r. Kiovská		0	869,1056,1227,1376
+1236	Mária Lešková r. Hadbavná		0	175
+1236	Medzefová Alžbeta r. Molčáková		0	869,1056
+1236	Mendzifová Alžbeta r. Molčáková		0	869,1056
+1236	Merva Andrej		0	159,1018
+1236	Merva Andrej	*	0	869,1056
+1236	MERVA Bela		0	159
+1236	Merva Ján	*	0	869,1056
+1236	MERVA Ján		0	393,1393
+1236	Merva Jozef		0	393,1368,1393
+1236	Merva Jozef	*	0	869,1056
+1236	MERVA Juraj		0	159
+1236	Merva Michal	*	0	869,1056
+1236	MERVA Michal		0	393,1393
+1236	Merva Ondrej	*	0	869,1056
+1236	Merva Peter	*	0	869,1056
+1236	MERVA Peter		0	393,1393
+1236	Mervová Anna		0	159,393,1393
+1236	Mervová Anna	*	0	869,1056
+1236	Mervová Anna r. Zákutná		0	23,210,869,1056,1413,1602
+1236	MERVOVÁ Mária		0	159
+1236	Mervová Mária r. Petrová		0	159
+1236	Mervová Mária r. Verbová		0	90,226,1023,1631,1632,1640
+1236	Mervová Terézia r. Zimovjanová		0	93,525,869,996,1056,1662,1697,1698,1699
+1236	Mikulová Anna r. Horvathová		0	869,1056
+1236	Mitríková Terézia r. Janovová		0	869,1056
+1236	Molčák Ján	*	0	869,1056
+1236	MOLČÁK Ján		0	349,1481
+1236	Molčák Jozef		0	349,1481
+1236	Molčák Jozef	*	0	869,1056
+1236	Molčák Michal	*	0	869,1056
+1236	MOLČÁK Michal		0	349,1368,1481
+1236	Molčák Peter		0	286
+1236	Molčáková Alžbeta	*	0	869,1056
+1236	MOLČÁKOVÁ Alžbeta		0	349,1481
+1236	Molčáková Anna r. Andrašková		0	286,869,1056
+1236	Molčáková Mária	*	0	869,1056
+1236	Molčáková Mária r. Slottová		0	61,1257,1536
+1236	Molčáková Zuzana	*	0	869,1056
+1236	MOLČÁKOVÁ Zuzana		0	349,1368,1481
+1236	MOLČAN Ján		0	349,869,1056,1481
+1236	MOLČAN Michal		0	349,869,1056,1481
+1236	MOLČÁNOVÁ Anna		0	869,1056
+1236	Molčánová Terézia r. Kačmariková		0	869,1056
+1236	Molčánová Zuzana r. Kováčová		0	869,1056
+1236	Molčánová Zuzana r. Thurová		0	869,1056
+1236	Molnár Michal		0	1433
+1236	Molnárová Františka r. Poradová		0	1433
+1236	Onderčo Juraj	Sedlák	0	869,1056
+1236	Onderčová Anna r. Fabišiková		0	869,1056
+1236	Onderčová Anna r. Lešková		0	413,578,869,1056,1533
+1236	Onderčová Mária	r.Mackovjaková Štefanová	0	869,1056
+1236	Onderčová Mária r. Lešková		0	869,1056
+1236	Onderčová Mária r. Mackovjaková	zomrela 11.12.1979	0	217,445,869,1018,1020,1056
+1236	Onderčová Mária r. Mackovjaková Štefanová	mŕtva	0	84
+1236	Onderčová Mária r. Thúrová		0	132,823,869,1056
+1236	Onderčová Mária r. Verbová		0	548
+1236	Ondrejčáková Terézia r. Zahornacká		0	314,869,1056,1511
+1236	Pertová Mária	*	0	869
+1236	PETRÍK Ján		0	869,1056
+1236	PETROF Juraj		0	869,1056
+1236	Petrov Ján	*	0	869,1056
+1236	Petrov Ján	mŕtvy	0	84
+1236	PETROV Ján		0	31,136,269,432,435,560,793,1333,1500,1508
+1236	Petrov Ján, SR		0	164,1668
+1236	Petrov Jozef		0	31,66,67,68,136,175,197,269,328,432,433,434,435,560,793,1333,1457,1499,1500,1508,1512,1521,1616
+1236	Petrov Jozef	*	0	869,1056
+1236	Petrov Jozef, SR		0	164,1668
+1236	Petrov Juraj	*	0	869,1056
+1236	PETROV Juraj		0	31,208,560,1508
+1236	Petrov Michal	*	0	869,1056
+1236	Petrov Michal	USA	0	56
+1236	PETROV Michal		0	328,793,1500,1521
+1236	Petrová Alžbeta r. Mackovjaková		0	869,1056
+1236	Petrová Anna		0	66,67,68,136,159,175,197,269,432,433,434,435,1333,1457,1473,1499,1512,1616
+1236	Petrová Anna	*	0	869,1056
+1236	Petrová Anna	mŕtva	0	84
+1236	Petrová Anna r. Horváthová		0	144,1522
+1236	Petrová Anna r. Varechová		0	869,1056
+1236	Petrová Mária	*	0	869,1056
+1236	Petrová Mária	mŕtva	0	84
+1236	PETROVÁ Mária		0	31,66,67,68,136,175,197,269,432,433,434,435,560,1333,1457,1473,1499,1508,1512,1616
+1236	Petrovová Alžbeta r. Mackovjaková		0	1190
+1236	Petrovová Anna	*	0	869,1056
+1236	Petrovová Anna, SR		0	164,1668
+1236	Petrovová Mária		0	328,1521
+1236	Petrovová Mária	*	0	869,1056
+1236	Petrovová Mária, SR		0	164,1668
+1236	PIEGER Ján		0	76,1164,1513
+1236	PINČÁK Ján		0	869,1056
+1236	Pinčák Jozef	*	0	869,1056
+1236	Pinčák Jozef	Kojšov 155	0	48
+1236	PINČÁK Jozef		0	1247
+1236	Pinčák Juraj	*	0	869,1056
+1236	PINČÁK Juraj		0	314,1511
+1236	Pinčák Michal		0	349,350,1418,1481
+1236	Pinčák Michal	*	0	869,1056
+1236	PINČÁK Vasiľ		0	1247
+1236	PINČÁKOVÁ Alžbeta		0	869,1056
+1236	PINČÁKOVÁ Anna		0	1247
+1236	Pinčáková Anna r. Štefanová		0	869,1056
+1236	PINČÁKOVÁ Katarína		0	349,350,869,1056,1418,1481
+1236	PINČÁKOVÁ Mária		0	1247
+1236	Pinčáková Mária r. Benišová		0	869,1056

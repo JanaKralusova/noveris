@@ -1,0 +1,256 @@
+1265	SEMIVANOVÁ Mária	r.Červeňáková	0	314,785,786
+1265	SEMIVANOVÁ Mária	r.Petrová	0	314,785,786
+1265	SEMIVANOVÁ Mária	r.Stripaiová	0	608
+1265	Semivanová Mária r. Copková		0	314,318,785,786
+1265	SEMIVANOVÁ Mária r. Červeňáková		0	218,318
+1265	SEMIVANOVÁ Mária r. Petrová		0	318
+1265	SEMIVANOVÁ Mária r. Semanová		0	639
+1265	SEMIVANOVÁ Mária r. Stripaiová		0	605,705
+1265	Simčík Juraj		1	19,106,218,605,608,649,705
+1265	Simčíková Mária r. Kicová		0	552,606
+1265	SIMKO Ján		0	314,318,785,786
+1265	Sinčak Ján		1	590,768
+1265	SINČÍK Juraj		0	314,318,785,786
+1265	Skyba Juraj		1	590,768
+1265	SKYBA Juraj	ž.Julia r.Semivanová	0	218,314,318,513,538,545,594,632,697,785,786
+1265	Skyba Juraj, SR		0	514,528
+1265	Skyba Milan		1	590,768
+1265	Slávik Ján	manž.Anna Savková	0	359
+1265	SLÁVIK Ján	1	0	314,318,549,785,786
+1265	SLÁVIK Ján	mal	0	608,705
+1265	SLÁVIK Ján	malol	0	513,538,605,608,697,705
+1265	SLÁVIK Ján	ž.Anna r.Savková	0	101,179,198,218,272,322,327,339,513,532,538,549,578,580,592,605,608,614,668,697,699,700,705,751,787,796,798
+1265	SLÁVIK Juraj		0	218,286,322,513,538,549,605,608,697,699,700,705,787,798
+1265	SLÁVIK Juraj	Gábor	0	314,318,785,786
+1265	SLÁVIK Juraj	ž.Mária r.Varoščáková	0	588,614,663
+1265	Slávik Michal		1	74,457
+1265	SLÁVIK Pavol		0	286,314,318,322,513,538,605,608,697,699,700,705,785,786,787,798
+1265	SLÁVIK Pavol	1	0	605,608,705
+1265	SLÁVIK Pavol	2	0	605,608,705
+1265	SLÁVIK Pavol	3	0	605,608,705
+1265	SLÁVIK Pavol	malol	0	513,538,697
+1265	SLÁVIK Pavol	ž.Anna r.Danková	0	605,608,705
+1265	SLÁVIK Štefan	1	0	101,218,314,318,549,580,668,785,786
+1265	SLÁVIK Vasil		1	106,180,218,314,318,322,339,513,538,549,605,608,614,668,697,699,700,705,785,786,787,796,798
+1265	SLÁVIK Vasil	1	0	314,785
+1265	Slávik Vasiľovčin Ján		1	590,768
+1265	SLÁVIKOVÁ Anna	mal	0	608,705
+1265	SLÁVIKOVÁ Anna	malol	0	513,538,605,608,697,705
+1265	SLÁVIKOVÁ Anna	r.Kalkohusová	0	314,785,786
+1265	Slaviková Anna r. Kalkahuz, SR		0	514,528
+1265	Slaviková Anna r. Kalkahuzová		0	24
+1265	SLÁVIKOVÁ Anna r. Kalkohusová		0	218,318,371,513,538,619,632,637,664,697
+1265	SLÁVIKOVÁ Helena	r.Kiškášová	0	314,608,785,786
+1265	SLÁVIKOVÁ Helena r. Kiškašová		0	218,286,318,513,538,605,697,705
+1265	SLÁVIKOVÁ Mária	1	0	605,608,705
+1265	SLÁVIKOVÁ Mária	2	0	605,608,705
+1265	SLÁVIKOVÁ Mária	mal	0	608,705
+1265	SLÁVIKOVÁ Mária	malol	0	513,538,605,608,697,705
+1265	SLÁVIKOVÁ Mária	r.Varočšáková	0	111
+1265	Sláviková Mária r. Simčíková		1	19,106,218,314,318,513,538,649,697,785,786
+1265	SLÁVIKOVÁ Mária r. Varočšáková		0	588,614,638,663
+1265	Sláviková Zuzana		1	590,768
+1265	SMIŠKOVÁ Mária r. Porostovská		0	218
+1265	SOBRANECKÉ OKRESNÉ ÚVEROVÉ DRUŽSTVO, 073 01, Sobrance, SR		0	34,156,226,259,385,513,538,605,608,697,705
+1265	SOTÁK Ján		0	106,513,538,605,608,697,705
+1265	Soták Juraj	ml	0	106
+1265	SOTÁK Juraj		0	137,218,314,318,513,538,543,544,605,608,683,697,701,705,785,786
+1265	SOTÁK Juraj	ž.Katarina r.Fečiková	0	314,318,785,786
+1265	SOTÁK Michal		0	605,608,683,705
+1265	SOTÁK Pavol		0	137,218,513,538,543,544,592,683,697
+1265	SOTÁKOVÁ Alžbeta r. Červeňáková		0	683
+1265	SOTÁKOVÁ Ilona		0	137,218,513,538,592,605,608,683,697,705
+1265	Sotáková Katarína r. Fenciková		0	311,312
+1265	SPIEGELOVÁ Hermína r. Moškovičová		0	384
+1265	STARČEVIČOVÁ Júlia	r.Semanová	0	314,608,785,786
+1265	STARČEVIČOVÁ Júlia r. Semanová		0	114,218,318,369,513,538,551,589,605,620,627,639,697,705
+1265	STRAKOVÁ Anna	r.Semivanová	0	314,785,786
+1265	STRAKOVÁ Anna r. Semivanová		0	163,218,318,513,538,543,625,697
+1265	Suchánková Alžbeta r. Macíková		0	553
+1265	SVETLOVIČOVÁ Anna	r.Kicová	0	314,608,785,786
+1265	SVETLOVIČOVÁ Anna r. Kicová		0	106,114,218,318,513,538,605,620,631,662,697,705
+1265	ŠALAPKA Ján	malol	0	605,608,705
+1265	ŠALAPKOVÁ Anna	r.Hrehová	0	218,314,785,786
+1265	ŠALAPKOVÁ Anna r. Hrehová		0	184,218,318,513,538,543,626,697
+1265	Šimko Juraj	maloletý	0	218,314,318,513,538,605,608,697,705,785,786
+1265	ŠIMKO Juraj		0	286,322,513,538,614,697,699,700,787,798
+1265	Šimko Michal	maloletý	0	218,513,538,605,608,697,705
+1265	ŠIMKO Michal		0	218,314,318,513,538,570,605,608,621,622,697,703,705,771,785,786
+1265	Šimková Anna r. Zeligová		0	218,314,318,513,538,570,605,608,621,623,697,705,771,772,785,786
+1265	Šimková Barbora	maloletý	0	218
+1265	ŠIMKOVÁ Barbora		0	286,322,614,699,700,787,798
+1265	ŠIMKOVÁ Barbora	malol	0	314,318,513,538,605,608,697,705,785,786
+1265	ŠIMKOVÁ Mária		0	286,322,614,699,700,703,787,798
+1265	ŠIMKOVÁ Mária	malol	0	218,314,318,513,538,605,608,697,705,785,786
+1265	ŠIMKOVIČ Samuel		0	364
+1265	Štich Michal	ž.Anna r.Jacková	0	123,292,293,454,455
+1265	Štichová Anna r. Jacková		0	123,292,293
+1265	ŠTICHOVÁ Anna r. Jacková	muž Michal	0	454,455
+1265	ŠUGAROVÁ Mária r. Lojziová		0	115
+1265	TELČÁK Jozef		0	115
+1265	TIRPÁK Juraj		0	115
+1265	TIRPÁK Michal		0	115
+1265	Tkáčová Mária		0	578
+1265	TOTHOVÁ Zuzana	r.Červeňáková	0	314,785,786
+1265	TOTHOVÁ Zuzana r. Červeňáková		0	318
+1265	TREBIŠÁKOVÁ Mária	r.Olexová	0	314,785,786
+1265	TREBIŠÁKOVÁ Mária r. Olexová		0	318
+1265	Uhrínová Mária		1	590,768
+1265	VALENTOVÁ Mária	r.Petrová	0	314,608,785,786
+1265	VALENTOVÁ Mária r. Petrová		0	218,318,513,538,605,697,705
+1265	Vargová Júlia r. Petrová		0	54,167,218,237,314,318,513,538,554,603,654,655,697,785,786,793,795
+1265	Varoščák Andrej		0	280,416,779
+1265	Varoščák Ján		0	280,416,779
+1265	Varoščáková Anna		0	416
+1265	Varoščáková Anna	maloletá	0	280,416,779
+1265	Varoščáková Júlia		0	280,416,779
+1265	Varoščáková Júlia	maloletá	0	549
+1265	Varoščáková Mária		0	280,416,549,779
+1265	Varoščáková Zuzana r. Kalkahusová	Choňkovce č.s.160, narodená 1901, zomrela 31.10.1944	0	168,226,228,229,308,314,318,385,513,529,538,561,605,608,643,657,660,697,705,785,786,792
+1265	Varoščáková Zuzana r. Kalkahusová	narodená 1901, Choňkovce 160, zomrela 31.10.1944	0	156
+1265	VASIĽKO Andrej		0	280,779
+1265	Vasiľková Mária r. Macíková		1	47,384
+1265	WEINBERGER Herman		0	218
+1265	WEINBERGER Jakob		0	373
+1265	WEIS Herman		0	409
+1265	WEIS Mayer		0	409
+1265	WEIS Mór		0	409
+1265	WEISOVÁ Fani		0	409
+1265	WEISOVÁ Frida		0	409
+1265	WEISOVÁ Ida r. Moškovičová		0	427
+1265	ZELIG Ján		0	122,218,513,538,570,605,608,621,697,705,771
+1265	ZELIG Juraj		0	218,314,318,513,538,570,605,608,621,623,697,705,771,772,785,786
+1265	ŽUDEL Vojtech	ž.Zuzana r.Naďová	0	679
+1265	ŽUDELOVÁ Zuzana r. Naďová		0	679
+1265	ŽUDEROVÁ Anna r. Obitková		0	646
+1265	ŽUDEROVÁ Mária	r.Hreňová	0	608
+1265	ŽUDEROVÁ Mária r. Hreňová		0	218,513,538,605,697,705
+1266	ABRAHANFY Jozef		1	62,450
+1266	Abrahánfy Jozef	slobodný	0	617,626,717
+1266	Abrahánfy Štefan		1	450
+1266	Abrahánfy Štefan	z Budapešti, Maďarsko	0	626,717
+1266	AMBRANFY Štefan		1	62
+1266	Angleta Ján	zom.02.04.1982, manž. Cecília r.Černická čp 75	0	699
+1266	Boroš Jozef r. Boroš, plk.	zom.2.12.2004, Trnavská 2618/2, 14100 Praha; zom.2.12.2004, Trnavská 2618/2, 14100 Praha	0	549,608,610,612
+1266	Bránik Pavel	zom.11.7.1991, Želiezovce	0	701
+1266	Buštor Ján	manž. Katarína rod. Škreňová čp 13	0	549,568,571,572,581,612
+1266	Buštor Ján	manž. Kornélia rod Tošalová, Amerika	0	549,612
+1266	Buštorová / SPF / Katarína r. Trenčanová		1	612
+1266	Buštorová Anna r. Repiská	zom.27.02.1970	0	549,612
+1266	Buštorová Katarína	r.Škreňová, čp 13	0	488,549,612
+1266	Buštorová Katarína	vdova rod Trenčanová čp 21	0	514,515,549
+1266	Buštorová Zuzana	rod. Úreková čp 26	0	549,612
+1266	Buštorová Zuzana	vdova rod Úreková čp 13	0	549,612
+1266	Címerová Augusta r. Úrichová	zomr.29.5.1996	0	697
+1266	Cipárová Margita	zom.11.10.1977	0	484,485
+1266	Cipárová Margita r. Višňovská	zom.11.10.1977; zom.11.10.1977	0	717
+1266	Danko Ján	m.Mária r.Vozárová	0	678
+1266	Danková Mária r. Vozárová	zom.08.03.1978, Kopanice 78	0	717
+1266	Doubková Irena r. Borošová	Sídlisko Nálepkova 1533/A-2, Prievidza	0	612
+1266	Duda Ján	Kopanice č. 72,zom. 25.10.1996	0	701,705
+1266	Duda Jozef	zomrel 5.12.1979, Nová Baňa	0	705
+1266	Ďurčová Zuzana	zom.12.12.1981	0	549
+1266	Ďurčová Zuzana r. Buštorová	zom.12.12.1981	0	612
+1266	Filondzok Ľudevít	manž. Mária rod. Černická, Hodruša	0	431
+1266	Fischerová Mária	rod Bernáthová	0	431
+1266	Gáliková Leopoldína	maloletá, Dolné Hámre	0	706
+1266	Garajová Magda r. Dudová	Hviezdoslavova č.616, Levice	0	701
+1266	Huďagyová Anna	r.Buštorová, z Dol.Brhloviec	0	549,612
+1266	Chumová Zuzana r. Trenčanová	zom.02.11.1981	0	525,549,612
+1266	Ihringová Mária r. Dudová	zomrela, Hodruša-Hámre č. 412	0	705
+1266	Ivanová Zuzana	r.Škreňová, zo Zvolena	0	488,549,612
+1266	Jaroš František	manž. Terézia rod Úrichová,Piarg 254	0	705
+1266	Kamody Jozef	zom.29.03.1988	0	549,612
+1266	Klajnová Mária r. Vozárová	zomrela, Kopanice č. 75	0	705
+1266	Klein Ján	slobodný	0	549,612
+1266	Klein Jozef		0	549,612
+1266	Klein Jozef r. Klein		1	414
+1266	Kohútová Anna	maloletá	0	545
+1266	Kohútová Mária r. Tošalová	zom.26.08.1999	0	372,492,549,612
+1266	Kresáčová Augustína	r. Višňovská, Dolné Hámry	0	484,485
+1266	Kresáčová Augustína r. Višňovská		0	717
+1266	Krumlová Helena	zomrela,Kopanice č. 19	0	508,608,610
+1266	Kuka Ján	zom.19.03.1968, Kopanice 14	0	521,549,612
+1266	Kuka Michal	14.06.1970, m. Johana r.Chovanová čp 106	0	549,612
+1266	Kuka Michal	zom.29.11.1984	0	549,612
+1266	Kuková Anna r. Kamody	vdova	1	181,763
+1266	Kuková Katarína	zom.02.01.1988, Kopanice 23	0	521
+1266	Kuková Marta	slobodná čp 14	0	549,612
+1266	Lalkovičová Mária r. Višňovská	zom.17.02.1967	0	717
+1266	Luptáková Zuzana	rod. Buštorová, Hodruša čp 385	0	534,548,549,581,612
+1266	Luptáková Zuzana r. Buštorová, 966 61, Hodruša - Hámre, č. 385, SR		0	568
+1266	Madzgoň Ján	manž. Karolína r.Majerová,čp 83	0	29,705
+1266	Madzgoňová Etela	slobodná čp 81	0	705
+1266	Mesto Zlaté Moravce, 95301 Zlaté Moravce		0	642
+1266	Mihálik Ján	zom.28.12.1965, Drženice	0	549,612
+1266	Micháliková Zuzana r. Repiská	zom.23.09.1953	0	549,560,612
+1266	Milanová Paulína r. Randová	zom.30.10.1969	0	612
+1266	Milanová Paulína r. Randová	zom.30.10.1969, Hričovské Podhradie	0	549
+1266	Mok Ján	zom.08.07.1997, Kopanice 54, m.Zuzana r.Trenčanová	0	530
+1266	Ojciar František	zom.24.11.1977, m.Edita r.Krajčová, Kopanice 76	0	549,612
+1266	Ojciar Pavel	F.Kráľa č.1224/4, Brezno	0	688,689,705
+1266	Oravcová Julianna r. Schwarzenbergerová	zom.23.10.1976	0	698
+1266	Osvaldová Ilona	rod Tošalová, Budapešť	0	564,565
+1266	Palacká Mária	rod Reinwartová, Veľké Pole	0	662
+1266	Pobešková Irena	maloletá, Dolné Hámre	0	706
+1266	Pomekáčová Hermína	rod Selecká čp 24	0	590,591
+1266	Pric Jozef	zomrel, Kopanice č. 18	0	607
+1266	Šajmerová Anna r. Kleinová	zom.17.04.1965	0	715,717
+1266	Šimkovič Jozef	čp 20	0	483,587
+1266	Šimkovičová Anna r. Kamodyová	zom.20.12.1984, m. Jozef	0	598
+1266	Škreňo Martin	zom.18.11.1967, Kopanice 19	0	549
+1266	Škreňo Pavel	zom.23.02.1976, m.Marta r.Trenčanová, čp 16	0	549,551,612
+1266	Štrbíková Katarína	rod Šimová, Dolné Hámre čp 121	0	615
+1266	Šulcová Julianna	zom.15.12.1988, vdova r.Anglettová čp 74	0	699
+1266	Tonhauser František	slobodný, Malacky	0	238,245,705
+1266	Tonhauserová Margita	slobodná čp 55	0	238,245
+1266	Tošal Ján	čp 66	0	549,612
+1266	Tošal Ján	Lubeník 192, manž. Zuzanna rod. Tošalová čp 43	0	582,585
+1266	Tošal Ján	manž. Mária r.Buštorová, čp 66	0	690
+1266	Tošal Michal	zom.17.03.2006, čp 38	0	372,491,492,549,555,612
+1266	Tošal Pavel	zom.14.04.1960	0	372,491,492,549,555,612
+1266	Tošalová Katarína	zom.04.12.1962, r.Trenčanová čp 38	0	549,612
+1266	Trenčan Ján	zom.21.05.1961, m.Katarína r. Buštor čp 2	0	525
+1266	Trenčanová Anna	r. Maďarová čp 4	0	611
+1266	Trenčanová Anna	zom.06.04.1962, slobodná čp 25	0	549,612
+1266	Trenčanová Anna r. Maďarová		1	317
+1266	Trenčanová Margita	čp 109	0	489,490
+1266	Úrich Jozef	manž. Mária rod Šimová čp 87	0	618,705
+1266	Úrich Vojtech	Divín	0	616,618
+1266	Úrychová Paulína r. Haverlová	zom.20.09.1953	0	549,612
+1266	Višňovský Imrich	manž. Zuzana R. Michalíková, čp 17	0	484,485,623,624,717
+1266	Vlasovská Emma r. Madzgoňová	Kopanice 83	0	705
+1266	Vozár Ján	maloletý čp 57	0	705
+1266	Vozárová Anna r. Tonhauzerová	zom.31.10.1986, Kopanice 73	0	705
+1266	Vozárová Anna r. Tonhauzerová, Kopanice 73, Hodruša Hámre, PSČ 966 61, SR	zom.31.10.1986; zom.31.10.1986	0	238
+1266	Zimanová Zuzana	r. Zimanová čp 31	0	549,556,557,612
+1267	Ábela Ľudovít	zom. 27.7.1996	0	2269
+1267	Ábela Ľudovít	zom. 27.7.1996, ded. po Jánovi Ábelovi - ž. Alžbeta r. Gulášová	0	3060
+1267	Ábela Ľudovít	zom. 27.7.1996, ž. Klára r. Hodáňová	0	3098
+1267	Adamčák Jozef		0	507,1576,2101,2540
+1267	Adamčák Richard	zom. 27.1.1980, posl. bytom Kopčany 394	0	2892
+1267	Adamčák Štefan	posl. bytom Kopčany, zom. 3.12.2005	0	507,1576,2101,2540
+1267	Appelová Helena		0	1576
+1267	Appelová Helena	po Jánovi Appelovi a manž. Terézii	0	3085
+1267	Appelová Judita r. Ožvoldíková		0	3227
+1267	Bača Ján	zom. 26.12.1998, posl. bytom Kopčany 64	0	1495,1500,1576,1679,1756,3042
+1267	Bačová Štefánia r. Gulášová	zom. 31.7.1968, posl. bytom Kopčany 64	0	1500,1576,3042
+1267	Badrna Pavol	posl. bytom Kopčany 567, zom. 18.2.1990	0	1773,3937
+1267	Badrnová Anna r. Juráčková	posl. bytom Kopčany 563, zom. 2.10.1995	0	2829,2830
+1267	Baláž Michal	žen. s Máriou Matúškovou, zom. 12.3.1969	0	507,1250,1576,1694,3021
+1267	Baláž Pavol	žen. s Máriou Blažkovou, zom. 1.4.1959	0	3021
+1267	Baláž Štefan	/ žen. s Emíliou Zlochovou /	0	3343
+1267	Baláž Štefan	/slobodný/ , zom. 16.8.1993, posl. bytom Kopčany	0	1250,3021
+1267	Balážová Eva r. Koláriková	posl. bytom Kopčany, zom. 4.6.1979	0	1576,1694
+1267	Balážová Mária r. Kavická	žena Pavla, č. d. 243	0	1576,1694,1981,1983,1985,2697,3021,3258
+1267	Balogh Ignác	/žen. bol s Karolínou Ďurčekovou/	0	1954
+1267	Balogh Karol		0	3208
+1267	Baráková Eva	maloletá v r. 1947	0	3546,3547,3584
+1267	Baráková Eva r. Beblavá		0	3546,3547,3584
+1267	Baráková Mária	maloletá v r. 1947	0	3547,3584
+1267	Bartalová Viktória r. Mrázová		0	3043
+1267	Barthelmesová Alžbeta r. Vépyová	súrodenci Alojz, Alžbeta	0	3593
+1267	Bartošík Kristián	žena Maryška, zom. 10.6.1962	0	1576
+1267	Bartošík Norbert	ž. Anna Hrušecká, zom. 3.8.1981, posl. bytom Kopčany 574	0	1474,1869,3371
+1267	Bartošíková Anna r. Hrušecká	zom. 01.07.1996	0	1474,3138
+1267	Bartošíková Hedviga r. Hrnková		0	1576

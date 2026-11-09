@@ -1,0 +1,256 @@
+1781	TUBULKOVÁ Vilma		1	625
+1781	ÜRGEOVÁ Irma	rod.Malá	1	600,604,605,718,813,821,1209,1213,1891,1893,1894,1934
+1781	ÜRGEOVÁ Irma r. Malá		0	1293,1746
+1781	VÁCLAVOVÁ Eva r. Raková	zom.04.02.1964	1	1132
+1781	VÁCLAVOVÁ Eva r. Raková, zom.04.02.1964 zom.04.02.1964		0	1308,1599
+1781	VALKOVIČOVÁ Mária		0	1292
+1781	VASARÁBOVÁ Monika r. Maďarová		0	1342,1362
+1781	VASARÁBOVÁ Monika, r.Maďarová, m.Jozef r.Maďarová, m.Jozef		0	1360,1669
+1781	VOJTEKOVÁ Anna	rod.Matušková,m.Jozef	1	681,1210
+1781	VOJTEKOVÁ Anna r. Dobiášová, zom.19.07.1984 zom.19.07.1984		0	1685
+1781	VOJTEKOVÁ Anna, č. 0, SR	rod.Dobiášová,m	1	588
+1781	VOJTEKOVÁ Anna, r.Matušková, m.Jozef r.Matušková, m.Jozef		0	1282,1691
+1781	VOJTEKOVÁ Mária	rod.Gajdošová	1	1132
+1781	Vojteková Mária r. Gajdošová		1	1127,1496
+1781	VRABCOVÁ Anna	maloletá	1	622,624,661,725,810
+1781	VRABCOVÁ Anna	maloletá; maloletá	1	622
+1781	VRABCOVÁ Anna, maloletá maloletá		0	1237,1629,1659
+1781	VRABCOVÁ Petrina	rod.Macáková	1	623,1137,1219
+1781	VRABCOVÁ Petrina r. Macáková		0	1692,1720
+1781	VRABCOVÁ Rozália	maloletá	1	622,624,661,725,810
+1781	VRABCOVÁ Rozália, maloletá maloletá		0	1738,1761
+1781	VRABEC Peter		1	622,624,661,725,810,1137,1219,1293,1720
+1781	WEISS Samuel		1	619
+1781	ZRUBCOVÁ Hermína	rod.Vlasáková, m.Ján	1	552
+1781	ZRUBCOVÁ Rozália r. Raková, zom.25.01.1981 zom.25.01.1981		0	1355
+1781	ZRUBCOVÁ Veronika r. Malá, zom.05.05.1991 zom.05.05.1991		0	1725
+1781	ZRUBEC Jozef, maloletý maloletý		0	1232,1370
+1781	ZRUBEC Lenhart	maloletý	1	552
+1782	Adam Martin		1	313
+1782	Andrášiková Alžbeta r. Oravcová		1	257
+1782	Babíková Fani		1	386,451,461
+1782	Bacúk Ondrej	Pataki	1	313
+1782	Bacúková Alžbeta		1	281,307,317,321,394,430,431,437,446
+1782	Bacúková Juliana r. Spišáková		1	260
+1782	Bacúková Margita r. Oravcová		1	284
+1782	Balogh Ján		1	386,451,461
+1782	Barna Ľudovít		1	386,451,461
+1782	Barna Ondrej		1	375
+1782	Barna Vojtech	nebohý	1	310,381
+1782	Barnová Oľga r. Virágová		1	309,310,381
+1782	Barnová Zuzana r. Szekelyová		1	375
+1782	Bedéčová Alžbeta r. Beňušová		1	287,288,294,316,338,343,345,356,404,443,456,457,458,462,463
+1782	Bendulová Juliana r. Halásová		1	287,288,347,443,456,457,458
+1782	Bendulová Terézia r. Halásová		1	287,347,443,456,457
+1782	Bene Štefan		1	386,451,461
+1782	Beňuš Andrej		1	316,404
+1782	Beňuš Andrej	žena Péterová Barbora	1	316,404
+1782	Beňuš Eugen		1	285
+1782	Beňuš Ján		1	258,285,287,307,316,317,321,338,345,356,394,404,431,437,443,446,456,457,463
+1782	Beňuš Ján	Elek	1	387
+1782	Beňuš Ján	manž.Anna rod.Oravecová	1	258
+1782	Beňuš Martin	žena Némethová Gizela	1	316,404
+1782	Beňušová Júlia r. Oravcová		1	311,312,406
+1782	Beňušová Júlia r. Rásztocká	vdova	1	354
+1782	Beňušová Julianna r. Magošová	vdova	1	288,458
+1782	Beňušová Margita	mal	1	316,377,379,404
+1782	Beňušová Markéta		1	394
+1782	Beňušová Markéta	mal	1	317,446
+1782	Berecz Alexander		1	375
+1782	Bodnár Aladár		1	386,451,461
+1782	Bodnárová Margita r. Szabová		1	386,451,461
+1782	Bodollová Mária r. Kocsišová		1	386,451,461
+1782	Buziová Barbora r. Koveždiová		1	313,321,336,431,466
+1782	Caková Júlia r. Koveždiová		1	307,311,312,313,317,321,336,375,394,406,431,437,446,466
+1782	Caková Juliana r. Koveždiová		1	317,321,394,431,446
+1782	Csirkeová Agnesa		1	386,451,461
+1782	Czako Alexander		1	375
+1782	Czáko Štefan		1	375
+1782	Czaková Mária r. Oravcová		1	339,358,368
+1782	Czíczer Vojtech		1	351
+1782	Cziner Miksa, Dr.		1	254
+1782	Elek Ján		1	273,345,356
+1782	Elek Ján	manž.Zuzana Némethová	1	307,313,437
+1782	Elek Martin		1	317,394,446
+1782	Elek Martin	Beta	1	316,404
+1782	Eleková Alžbeta r. Lorinczová		1	307,313,437
+1782	Eleková Alžbeta r. Rásztocká	Betaová	1	316,404
+1782	Fórisová Julianna r. Némethová	manž.Michal	1	392
+1782	Fulo Ladislav		1	386,451,461
+1782	Fulo Rudolf		1	386,451,461
+1782	Gallo Štefan		1	307,321,431,437
+1782	Gálová Juliana r. Nagyová		1	375
+1782	Gloszer Jozef		1	273
+1782	Gloszer Poszga Ján		1	273
+1782	Gobisová Ilona r. Kosová		1	386,451,461
+1782	Goder Ján	ml	1	386,451,461
+1782	Gordánová Matilda r. Tamášová		1	350
+1782	Gyenešová Alžbeta r. Koveždiová		1	311,312,313,321,336,406,431,466
+1782	Halász Martin		1	279,432
+1782	Halászová Julianna		1	273
+1782	Halászová Mária		1	273
+1782	Halászová Rozália		1	273
+1782	Halászová Terézia		1	273
+1782	Hegedušová Marta		1	386,451,461
+1782	Hisnyai Heinzelman Imrich	nezl	1	348
+1782	Hollanderová Terézia r. Zacharová		1	254
+1782	Hudák Ján		1	386,451,461
+1782	JELŠAVSKÁ SPORITELŇA, 049 16, Jelšava, SR		0	316
+1782	JELŠAVSKÁ SPORITELŇA, č., 049 16 Jelšava		0	404
+1782	Jobágyová Emma	mal	1	373
+1782	Jochmannová Helena		1	386,451,461
+1782	Karnoková Mária r. Bodnárová	vdova	1	338,463
+1782	Kiráľová Alžbeta		1	273
+1782	Kiráľová Zuzana		1	273
+1782	Kiss Pavol		1	386,451,461
+1782	Kolesár Andrej		1	326
+1782	Kolesár Gejza		1	263
+1782	Kolesár Mikulás, SR		0	7
+1782	Kolesárová Helena		1	282
+1782	Kolesárová Ilona		1	326
+1782	Koreňová Izabela r. Támášová		1	350
+1782	Kotváč Martin		1	268
+1782	Kovácsová Júlia r. Borzová		1	269
+1782	Kováčová Zuzana r. Mogyorodiová		1	375
+1782	Kövesdiová Júlia r. Némethová, SR		0	7
+1782	Koveždi Ondrej		1	313
+1782	Koveždiová Barbora		1	311,312,406
+1782	Koveždiová Zuzana		1	336,466
+1782	Kožár Ján		1	334
+1782	Kožár Ján	ml., žena Margita Zacharová	1	307,437
+1782	Krothová Juliana r. Czaková	vdova	1	375
+1782	Laliková Alžbeta		1	297,385
+1782	Lipták Gejza	mal	1	312,406
+1782	Lipták Ján		1	301,316,359,404,429
+1782	Liptáková Alžbeta r. Czíczerová		1	351
+1782	Liptáková Barbora r. Lorincová		1	257
+1782	Liptáková Helena		1	429
+1782	Liptáková Jolana	mal	1	316,404
+1782	Liptáková Júlia		1	301,429
+1782	Liptáková Margita r. Halásová		1	347
+1782	Liptáková Margita r. Oravcová		1	332,339,360
+1782	Liptáková Mária r. Némethová		1	312,333,406
+1782	Liptáková Rozália r. Halásová		1	287,347,443,456,457
+1782	Magoš Ján	Párbi	1	313
+1782	Magoš Ľudovít		1	269,303,316,393,404,433
+1782	Magoš Štefan	ml	1	312,406
+1782	Magoš Vojtech	ml	1	387
+1782	Magošová Eva		1	287,288,294,316,317,338,343,345,356,404,443,446,456,457,458,462,463
+1782	Magošová Margita r. Beňušová		1	286,302,342,434,435,440
+1782	Magošová Martina		1	287,288,294,316,317,338,343,345,356,404,443,446,456,457,458,462,463
+1782	Majorošová Helena r. Liptáková		1	261,376
+1782	Majorošová Helena r. Liptáková	//	1	242
+1782	Martinovics Štefan		1	386,451,461
+1782	Martinovicsová Hermína r. Adamová		1	386,451,461
+1782	Mogyorodi Martin		1	375
+1782	Mogyorodiová Katarína r. Kotvácsová		1	317,394,446
+1782	Molnár Štefan	dedí po Jozefovi Molnárovi	1	312,406
+1782	Molnár Štefan	dedí po Jozefovi Zacharovi	1	312,406
+1782	Molnárová Júlia r. Biziková		1	336,377,379,466
+1782	Molnárová Juliana r. Oravcová		1	257
+1782	Nagy Alexander	žena Alžbeta Kaňáková	1	375
+1782	Nagy Ladislav		1	375
+1782	Nagy Štefan		1	375
+1782	Nagyová Helena		1	332,339,360
+1782	Nagyová Júlia r. Vargová		1	375
+1782	Német Andrej		1	313
+1782	Német Ján		1	307,311,312,317,406,437,446
+1782	Német Ján	ml	1	307,321,431,437
+1782	Németh Gejza		1	312,315,317,354,387,394,406,446
+1782	Németh Ján		1	394
+1782	Németh Ján	ml	1	317,394,446
+1782	Németh Jozef		1	312,316,317,394,404,406,446
+1782	Németh Jozef	ml	1	311,312,313,406
+1782	Németh Jozef	st	1	313
+1782	Németh Juraj		1	312,313,406
+1782	Németh Ladislav		1	311,312,313,316,404,406
+1782	Németh Ľudovít		1	269
+1782	Némethová Alžbeta r. Igová		1	345,356,404
+1782	Némethová Alžbeta r. Némethová		1	333
+1782	Némethová Irena r. Fabová		1	318,354,387,442
+1782	Némethová Jolana r. Bacúková	vdova	1	322
+1782	Némethová Jolana r. Beňušová		1	286,302,342,434,435,440
+1782	Némethová Júlia		1	311,313
+1782	Némethová Júlia r. Magošová		1	313
+1782	Némethová Marta	mal	1	316,377,379,404
+1782	Oracová Mária		1	291,426
+1782	Oravcová Anna r. Beňušová		1	287,338,345,356,443,456,457,463
+1782	Oravcová Juliana r. Oravcová		1	339
+1782	Oravcová Julianna	mal	1	331
+1782	Oravcová Julianna r. Némethová		1	311
+1782	Oravcová Margita		1	336,466
+1782	Oravcová Margita r. Spišáková		1	313
+1782	Oravcová Mária r. Némethová		1	312,316,317,394,404,406,446
+1782	Oravcová Markéta r. Spišáková		1	311,312,406
+1782	Oravcová Zuzana r. Betová		1	311,312,313,406
+1782	Oravczová Mária r. Eleková		1	316,335,404
+1782	Oravec Barnabáš	mal	1	295,305
+1782	Oravec Ján	ml	1	311,313,316,404
+1782	Oravec Jozef		1	269,311,313
+1782	Oravec Martin	žena Mária Eleková	1	365
+1782	Oravecz Ján		1	305,329
+1782	Oravecz Ján	žena Deáková Mária	1	302,435,440
+1782	Otvoš Jozef		1	375
+1782	Otvoš Štefan		1	375
+1782	Otvošová Irena r. Elek Betaová		1	313
+1782	Otvošová Júlia r. Mogyorodiová		1	375
+1782	Perjéšiová Gizela r. Timárová		1	351
+1782	Poszgová Alžbeta r. Némethová		1	312,316,317,394,404,406,446
+1782	Požga Andrej	ml	1	312,338,354,387,406,463
+1782	Požga Ján		1	387
+1782	Požga Martin		1	345,356
+1782	Požga Martin	Gloszer	1	345
+1782	Požgai Ondrej		1	311,313
+1782	Požgaiová Helena r. Némethová		1	313
+1782	Požgaiová Zuzana r. Koveždiová		1	313,317,321,394,431,446
+1782	Punková Zuzana r. Oravczová		1	305
+1782	Rásztocká Alžbeta		1	316,404
+1782	Reinicz Žigmund		1	254
+1782	Rivňák Jozef		1	386,451,461
+1782	Rivňáková Anna r. Svajková		1	386,451,461
+1782	Szabari Ján		1	375
+1782	Szabopálová Irena r. Jánošdeáková		1	312,333,406
+1782	Szöke Barnabáš		1	386,451,461
+1782	Šebok Štefan		1	386,451,461
+1782	Šoltészová Mária r. Molnárová	vdova	1	281,430
+1782	Takácsová Irena		1	242,261
+1782	Takácsová Jolana		1	242,261
+1782	Takáčová Alžbeta r. Eleková		1	273,345,356
+1782	Támáš Alexander		1	350
+1782	Támáš Eugen		1	350
+1782	Támáš Ján		1	350
+1782	Támáš Zoltán		1	350
+1782	Timár Arpád		1	351
+1782	Timár Ján		1	351
+1782	Timár Ondrej		1	351
+1782	Timár Ondrej	ml	1	351
+1782	Timárová Mária r. Vargová		1	351
+1782	Tothová Anna r. Némethová		1	276,316,327,404
+1782	Tothová Terézia r. Eleková		1	273
+1782	Tothová Zuzana r. Kotvácsová		1	317,394,446
+1782	Ujpál Ján		1	386,451,461
+1782	Veselovská Mária r. Koosová		1	313
+1782	Veselovský Bartolomej		1	332,339,360
+1782	Veselovský Ľudovít		1	313
+1782	Želiari obce Meliata, 049 12, Meliata, SR		0	366
+1783	Barger Ján r. Barger	Toringtnn Conn, USA	0	1062,1066
+1783	Barger Ján r. Barger	Toringtnn Coonn, USA	0	1061,1396
+1783	ČONKA Ondrej		0	1120
+1783	Dunaj Ján, č.d.129 č.d.129		0	1396
+1783	Dunajová Anna r. Fifiková, č.d.129 č.d.129		0	1396
+1783	Englerová Zuzana r. Englerová		0	774
+1783	Gájová Mária r. Gajová	r.Gajová vdova	0	1121
+1783	Gajová Mária r. Krejnusová, USA USA		0	1648
+1783	Galková Mária		0	1482,1601
+1783	Gallo Ján, od Galla, žena Mária rod.Šalling od Galla, žena Mária rod.Šalling		0	1676
+1783	Gallo Michal r. Gallo	Kazar - Vyšný č.d.823/1924	0	1094
+1783	Gallová Zuzana		0	1609
+1783	Gallová Zuzana r. Michalková		0	1396
+1783	Gallová Zuzana r. Michalková	dcéra Pavla Gallu	0	1079,1121
+1783	Gallová Zuzana r. Šalingová		0	1061,1062,1066,1396
+1783	GAY Ondrej		0	1102
+1783	Gayová Mária r. Krejnusová		0	1021,1022,1607,1806
+1783	Hámorová Anna r. Ilenčíková - Krtus		0	945
+1783	Jurčová Zuzana r. Driečna		0	1583
+1783	KOBIAN Ján		0	1101
+1783	Kobian Václav	Votrubec	0	1101

@@ -1,0 +1,256 @@
+1422	Velický Matej	A1	0	3033,3190,7004,7052,8169,8201
+1422	Velický Matej	m.Palkovičová Štefánia	0	5630
+1422	Velický Matej	m.Štefánia nezn	0	8487
+1422	Velický Matej	ž.Štefánia Palkovičová	1	7053
+1422	Velický Matej, A 1		0	3089,3179,4466,5818,6002,6385,6386,6394,8172,8202
+1422	Velický Režó		0	3089
+1422	Velický Rudolf		1	7053
+1422	Velický Rudolf	/nezn./	0	5818
+1422	Velický Rudolf	A1	0	3033,3190,5694,7004,7052,8169,8201
+1422	Velický Rudolf	m.Palkovičová Otília	0	2782,3134,3704,3892,4015,4784,4785,5787,6054,6060,6475,6507,6535,8253,8977,8978
+1422	Velický Rudolf	ž.Otília Palkovičová	1	7053
+1422	Velický Rudolf, A 1		0	3179,5176,6394,8202
+1422	Velický Rudolf, č.d.332, 908 01 Kúty		0	6002
+1422	Velický Stanislav	m.Palkovičová Helena	0	3003
+1422	Velický Štefan	m.Libušová Mária	0	3704
+1422	Velický Štefan	m.Valachovičová Mária nezn	0	3033,3179,5818,6002,8169,8202
+1422	Velický Štefan	m.Valachovičová Mária, nezn	0	3190,5694,7004,7052,8201
+1422	Velický Štefan	ž.Mária Valachovičová	1	7053
+1422	Velický Štefan, A 1		0	3089,4784
+1422	Vendelínová r. Jakubcová		0	4084
+1422	Vernerová Helena	r.Vráblová /nezn./	0	3021,4292,8561
+1422	Vernerová Helena r. Vrábelová		1	7482
+1422	Vernerová Helena r. Vráblová	nezn	0	2955,3048,3160,6067,6502
+1422	Veselská Albína r. Ralbovská		0	4623
+1422	Viličková Terézia	r.Zemánková	0	5235,5537
+1422	Villička Ján	žen.Terézia Zemánková	0	4518
+1422	Vizváriová Mária r. Šedivá		0	6061
+1422	Vizváry Aloiz		0	3030,3031
+1422	Vizváry Anton		0	3027,3047,3061,3178,3506,3945,6081,6204,6225,6399,6431
+1422	Vizváry Anton	m.Kráľovičová Aloisia	0	3225
+1422	Vizváry Anton	mal	1	7053
+1422	Vizváry Anton	nezn	0	6397,6541,8826
+1422	Vizváry Antonín		0	71
+1422	Vizváry Cyprián		0	3061
+1422	Vizváry Emil, A 1		0	3061
+1422	Vizváry Ernest		0	3061
+1422	Vizváry Imrich	m.Kohárová Eva	0	3061
+1422	Vizváry Ján		0	3061
+1422	Vizváry Klement, A 1		0	3061
+1422	Vizváry Kornel		0	3061
+1422	Vizváry Pavol		0	3061
+1422	Vizváry Pavol	m.Urbanová Barbara	0	3236
+1422	Vizváry Sebastián		0	3061
+1422	Vizváry Silárd		0	3061
+1422	Vizváry Štefan	m.Čárska Mária	0	3236
+1422	Vizváry Tibor		0	3061
+1422	Vizváryová Agneša		0	3061
+1422	Vizváryová Aloizia r. Kraľovičová		0	3225
+1422	Vizváryová Alžbeta		0	71
+1422	Vizváryová Alžbeta	A,1	0	3506
+1422	Vizváryová Alžbeta	A1	0	3047,6081,6225
+1422	Vizváryová Alžbeta	mal	1	6397,6541,7053
+1422	Vizváryová Alžbeta r. Papánková		0	3236
+1422	Vizváryová Alžbeta r. Pribilová		0	3236
+1422	Vizváryová Alžbeta, A 1		0	3027,3178,3945,6122,6204,6399,6431
+1422	Vizváryová Emília		0	3061
+1422	Vizváryová Hedviga		0	71
+1422	Vizváryová Hedviga	A,1	0	3506
+1422	Vizváryová Hedviga	A1	0	3047,6081,6225
+1422	Vizváryová Hedviga	mal	1	6397,6541,7053
+1422	Vizváryová Hedviga, A 1		0	3027,3178,3945,6122,6204,6399,6431
+1422	Vlk František	m.Hladíková	0	4939
+1422	Vlk Ján	slob	0	5123
+1422	Vlk Jozef	mal	0	3220,4940,8625
+1422	Vlk Jozef	slob	0	5123
+1422	Vlk Štefan	A1	0	3220,4940
+1422	Vlk Štefan	m.Mrázová Helena	0	4775
+1422	Vlk Teofil	m.Hnátová Mária	0	5123
+1422	Vlk Valentín	slob	0	5123
+1422	Vlková Anna		0	4940
+1422	Vlková Anna r. Písečná		0	3220,8625
+1422	Vlková Helena		0	5123
+1422	Vlková Mária r. Hesková		0	3220,8625
+1422	Vlková Štefánia		0	5049
+1422	Vlková Štefánia	mal	0	5357
+1422	Vlková Zuzana	r.Kováčová /nezn./	0	3326,3327,5782,9359
+1422	Vlková Zuzana r. Kováčová		0	3328
+1422	Vlková Zuzana r. Kováčová	nezn	0	5489
+1422	Vokrčková Hermína	r.Kovarovičová	0	3207
+1422	Vondruš Jozef	ž.Jozefína Palkovičová	1	7053
+1422	Vondrušková Paulína		0	5762
+1422	Vondrušková Štefánia		0	5762
+1422	Vondrušová Jozefína r. Palkovičová		1	7053
+1422	Vondrušová Jozefína r. Palkovičová	manž.Jozef zom.r.1974	1	533,7218
+1422	Voznová Štefánia	r.Šimková	0	5786
+1422	Voznová Štefánia r. Šimková		0	4004,4005,4436
+1422	Vrábel Alojz		0	2938
+1422	Vrábel Anton		1	7053
+1422	Vrábel Anton	A 1	0	4762,4820
+1422	Vrábel Anton	A1	0	5371,5440
+1422	Vrábel Anton	m.Ondrisková Alžbeta	0	6057
+1422	Vrábel Anton	m.Palkovičová Anna	0	6477,7027
+1422	Vrábel Anton	m.Palkovičová Kornélia	0	6082
+1422	Vrábel Anton	mal	0	4762
+1422	Vrábel Anton	ž.Anna Ralbovská	1	7053
+1422	Vrábel Anton, A 1		0	3861,5778,5824,5997,6012,6370
+1422	Vrábel Antonín	A1	0	5185,5490
+1422	Vrábel Antonín, A 1		0	5439
+1422	Vrábel Ferdinand		1	7053
+1422	Vrábel Ferdinand	A1	0	5371
+1422	Vrábel Ferdinand, A 1		0	3154,3735,3785,5778,5960
+1422	Vrábel Ferdinand, č.d.70/58, 908 01 Kúty		0	5279
+1422	Vrábel František		1	7053
+1422	Vrábel František	A116	0	3220
+1422	Vrábel František	m.Rusnáková Helena	0	2752,3154,3220,5688,5872,5960,6082,6380,6404,6477,7027,8625,9469
+1422	Vrábel František, A 116		0	5415,5635,5636,5894,6570,6591,6914
+1422	Vrábel František, č.d.836, 908 01 Kúty		0	3235
+1422	Vrábel František, č.d836		0	5878,5945,5949
+1422	Vrábel František, Kúty, č. 443, PSČ 908 01, SR		0	7053
+1422	Vrábel Imrich		1	3014,7053
+1422	Vrábel Imrich	mal	0	2857
+1422	Vrábel Ján		0	6475
+1422	Vrábel Ján	A1	0	3048,6060,6515
+1422	Vrábel Ján	m.Maderičová Helena	0	4086
+1422	Vrábel Ján	m.Šimková Alžbeta	0	3173,3192
+1422	Vrábel Ján, A 1		0	3020,3039,3180,5695,5696,5740,5773,6053,6061,6139,6446,6447,6505,6518,8253,8556,8562
+1422	Vrábel Jozef	č.d.3221/40	1	7254
+1422	Vrábel Lorenc		0	4762
+1422	Vrábel Martin		0	5820
+1422	Vrábel Martin	m.Klindová Helena	0	3160,6067
+1422	Vrábel Martin	ž.Mária	1	7276
+1422	Vrábel Martin, A 1		0	3310,3311
+1422	Vrábel Matej		0	5196
+1422	Vrábel Michal		0	3316
+1422	Vrábel Michal	A1	0	5440,5490
+1422	Vrábel Michal	m.Škodová Mária	0	3048
+1422	Vrábel Michal	ž.Mária r.Ondrisková	1	7443
+1422	Vrábel Michal, A 1		0	3317,3320,5439
+1422	Vrábel Ondrej		0	3735
+1422	Vrábel Pavol	m.Kovarovičová Júlia	0	5750
+1422	Vrábel Pavol	m.Palkovičová Mária	0	3048,5827
+1422	Vrábel Pavol	m.Valachovičová Júlia	0	4465
+1422	VRÁBEL Pavol, SR	m.Antálková Mária	0	4818
+1422	Vrábel Rehor	ž.Vilma Poláková	1	7053
+1422	Vrábel Rudolf		1	7053
+1422	Vrábel Rudolf	č.d.317/50	0	5528
+1422	Vrábel Rudolf, A 1		0	2938,4543
+1422	Vrábel Stanislav		0	5960
+1422	Vrábel Stanislav	A1	0	3220
+1422	Vrábel Stanislav, A 1		0	3154,3785
+1422	Vrábel Stanislav, č.d.443/50		0	5279
+1422	Vrábel Štefan		1	7053,7254
+1422	Vrábel Štefan	A 1	0	5257
+1422	Vrábel Štefan	A1	0	6517
+1422	Vrábel Štefan, A 1		0	2858
+1422	Vrábel Teodor	m.Fajtáková Mária	0	4649
+1422	Vrábel Teodor	m.Vávrová Štefánia	0	4647,5528
+1422	Vrábel Teodor	ž.Mária Fajtáková	1	7053
+1422	Vrábelová Albína r. Slováčková, Radlinského 1184, Kúty, PSČ 908 01, SR	zom.18.02.1983	0	7053
+1422	Vrábelová Alžbeta r. Komorná		1	7053
+1422	Vrábelová Alžbeta r. Šimková, A 1		0	6395
+1422	Vrábelová Alžbeta r. Valachovičová		0	7168
+1422	Vrábelová Anna	sestra Genovéva	1	887
+1422	Vrábelová Anna	slob	1	7053
+1422	Vrábelová Anna r. Palkovičová		1	5940,7053
+1422	Vrábelová Bernardína r. Drštková		1	7053
+1422	Vrábelová Genovéva	slob	1	7053
+1422	Vrábelová Helena r. Maderičová		1	7453
+1422	Vrábelová Helena r. Ralbovská		1	7053
+1422	Vrábelová Helena r. Ralbovská, Poštová 1004, Kúty, PSČ 908 01, SR	zom.28.03.1979	0	962
+1422	Vrábelová Helena r. Rusnáková		0	2752
+1422	Vrábelová Justína r. Palkovičová		1	7053
+1422	Vrábelová Justína r. Zemánková		1	7053
+1422	VRÁBELOVÁ Mária		0	219
+1422	Vrábelová Mária r. Ondrisková		1	7443
+1422	Vrábelová Vilma r. Poláková		1	7053
+1422	VRÁBELOVÁ Vilma r. Poláková, SR		0	783
+1422	Vráblová Albína r. Ralbovská		0	3180
+1422	Vráblová Albína r. Slováčková, Kúty, č. 351, PSČ 908 01, SR		0	5819
+1422	Vráblová Alžbeta		0	5820
+1422	Vráblová Alžbeta	A1	0	3048
+1422	Vráblová Alžbeta	r.Komorná nezn	0	2985,2987,2991,3042,6047,6059,6400,7136,7137,8417,8504,8578
+1422	Vráblová Alžbeta	r.Šimková	0	3014,3214
+1422	Vráblová Alžbeta	r.Valachovičová nar.5.11.1905	0	2995
+1422	Vráblová Alžbeta r. Rišková		0	5776
+1422	Vráblová Alžbeta r. Šimková		0	3027,3171,3173,5938,6051
+1422	Vráblová Alžbeta, A 1		0	5785
+1422	Vráblová Anna		0	5820
+1422	Vráblová Anna	A1	0	3048,3482,6067
+1422	Vráblová Anna	mal	0	3225
+1422	Vráblová Anna r. Maderičová		0	3233
+1422	Vráblová Anna r. Palkovičová		0	3235,6082
+1422	Vráblová Anna r. Poláková		0	5521
+1422	Vráblová Anna, A 1		0	2955,3021,3160,3595,5759,5894,6502,6503
+1422	Vráblová Antónia	A 1	0	4762
+1422	Vráblová Augustína r. Maderičová		0	4570
+1422	Vráblová Genovéva		0	3482,5196,5894,6503
+1422	Vráblová Helena		0	3048
+1422	Vráblová Helena	r.Ralbovská	0	3207,3214
+1422	Vráblová Helena	r.Rušnáková	0	5872,5960
+1422	Vráblová Helena r. Maderičová		0	6013
+1422	Vráblová Helena r. Ralbovská		0	6081
+1422	Vráblová Helena r. Ralbovská, Štefánikova 1004, Kúty, PSČ 908 01, SR		0	6058,6067,6081,6336
+1422	Vráblová Helena r. Rušnáková		0	3154,3220,5688,6082,6380,6404,6477,7027,8625,9469
+1422	Vráblová Jozefína		0	4762
+1422	Vráblová Júlia r. Kovarovičová		0	2938,3191,5750,5765
+1422	Vráblová Júlia r. Valachovičová		0	4465
+1422	Vráblová Justína	r.Zemánková	0	5470,5960,6487,7143
+1422	Vráblová Justína r. Palkovičová		0	4216
+1422	Vráblová Karolína	A 1	0	4722,5257
+1422	Vráblová Ľudmila	r.Juricová	0	2793,5715
+1422	Vráblová Mária	r.Fajtáková	0	4652
+1422	Vráblová Mária	r.Mrázová	0	3237
+1422	Vráblová Mária	r.Rišková	0	6390
+1422	Vráblová Mária r. Fajtáková		1	7053
+1422	Vráblová Mária r. Mrázová		0	4762,5439,5440,5490
+1422	Vráblová Mária r. Ondrisková		0	6094
+1422	Vráblová Mária r. Ralbovská		0	3033,7004
+1422	Vráblová Mária r. Valušková		0	4401,4473
+1422	Vráblová Rozália, A 1		0	3735,5778
+1422	Vráblová Terézia		0	4762
+1422	Vráblová Vilma		0	2938,3529
+1422	Vrba Anton	ž.Anna Filusteková	1	7053
+1422	Vrba Ferdinand, Kúty, PSČ 908 01, SR	zom.20.11.1966	0	7053
+1422	Vrba Ján, A 1		0	5726,6379,6498
+1422	Vrba Štefan		0	97,4843,6088
+1422	Vrbová Albína	r.Šimková	0	5773
+1422	Vrbová Albína r. Šimková		1	7053
+1422	Vrbová Anna	r.Kubicová	0	6088
+1422	Vrbová Anna r. Kubicová, Kúty, č. 67, PSČ 908 01, SR	zom.20.04.1980	0	7053
+1422	Vrbová Justína	r.Žilková	0	4843
+1422	Vrbová Kristína r. Žilková		1	887
+1422	Weidlová Karolína	r.Staneková	0	3213
+1422	Weinwurmová Agneša r. Malíková		0	4194
+1422	Weinwurmová Anna r. Poláčková, Kúty, č. 573, PSČ 908 01, SR	zom.23.05.1995	0	7053
+1422	Weis Ferdinand		0	3042
+1422	Wernerová Helena r. Vrábelová		1	7053
+1422	WIMER Ján		1	520
+1422	WIMEROVÁ Alžbeta		1	520
+1422	Zabadalová Helena	r.Kováčová /nezn./	0	3326,3327,5782,9359
+1422	Zabadalová Helena r. Kováčová		0	3328
+1422	Zabadalová Helena r. Kováčová	nezn	0	5489
+1422	Zajíčková Filipína	r.Mrázová	1	2961,7113
+1422	Zajíčková Filipína r. Mrázová		0	3212,5840
+1422	Zajíčková Mária r. Ralbovská		0	3009,3187,6066,6980
+1422	Zamánek Severín		1	7053
+1422	ZDROJ Skalica		0	502
+1422	Zemánek Antonín		1	7053
+1422	Zemánek Antonín	A2	0	6094
+1422	Zemánek Antonín	mal	0	3034,3220,3987,8625
+1422	Zemánek Antonín	ž.Ľudmila Valachovičová	1	7053
+1422	Zemánek Antonín, A 2		0	4418,5470,5971,6485,6487,7143
+1422	Zemánek Augustín		1	1167,8194
+1422	Zemánek Augustín, A 1		0	4800,5990
+1422	ZEMÁNEK Augustín, SR		0	301
+1422	Zemánek Ferdinand, A 1		0	3318,6132
+1422	Zemánek Ferdinand, Kúty, PSČ 908 01, SR		0	7053
+1422	Zemánek František		0	3316,3328
+1422	Zemánek František	A,2	0	5094
+1422	Zemánek František	A2	0	3034,3047,3051,3135,3206,3220,5819,5938,6051,6058,6060,6067,6081,6094,6449,6517
+1422	Zemánek František	Amerika	1	7624
+1422	Zemánek František	zom. 22.08.1979	0	7053
+1422	Zemánek František, A 2		0	3002,3003,3018,3020,3038,3039,3049,3054,3087,3137,3153,3178,3179,3185,3198,3202,3214,3230,3272,3312,3314,3317,3318,3320,3326,3327,3615,3987,4018,4047,4362,4418,4744,4886,5309,5470,5687,5786,5816,5824,5827,5837,5838,5870,5896,5910,5960,5971,6003,6016,6018,6023,6038,6053,6055,6057,6059,6066,6074,6080,6088,6089,6132,6144,6146,6306,6367,6383,6384,6391,6394,6395,6404,6434,6441,6444,6464,6471,6476,6483,6485,6487,6518,6980,7001,7143,8296,8496
+1422	ZEMÁNEK František, SR		0	383
+1422	Zemánek Henrich, A 1		0	5960,6404
+1422	Zemánek Henrik		1	7634

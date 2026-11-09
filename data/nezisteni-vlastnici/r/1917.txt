@@ -1,0 +1,256 @@
+1123	Mráz Jozef	ženatý s Máriou Tresovou	0	14411
+1123	Mrázová Mária r. Tresová		0	12639
+1123	Nagy Juraj	ž.Anna r.Šandorová	0	14801
+1123	Nagyová Anna r. Šandorová	m.Juraj	0	14801
+1123	Nič Juraj		0	12668
+1123	Nigut Ondrej	ž.Anna r.Forgáčová	0	13395,14832
+1123	Nigut Štefan r. Nigut		0	13169
+1123	Nigutová Anna r. Forgáčová	m.Ondrej	0	14832
+1123	Pahuliová Margita	mal.dcéra Štefanova	0	12997
+1123	Pahulyi Michal		0	12997
+1123	Pahulyiová Aranka	mal	0	12997
+1123	Pasternák František		0	14712
+1123	Pasternák Ján	Ignác	0	13395
+1123	Pasternák Ján	ml	0	13395
+1123	Pasternák Juraj		0	14826
+1123	Pasternák Juraj	ž.Alžbeta r.Forraiová	0	14712
+1123	Pasternák Ondrej		0	14712
+1123	Pasternáková Anna r. Borovská		0	12793
+1123	Pastorek Mária r. Tresa		0	14201
+1123	Polinský Pavol Dr.		0	14757
+1123	Polinský Štefan Dr.		0	14757
+1123	Rakacký Ján	syn Bartolomeja	0	9532,15274
+1123	Rozmanová Alžbeta r. Vašková	m.Ondrej	0	14809,15230
+1123	Rusnáková Anna r. Beerová		0	13015
+1123	Ruszková Alžbeta r. Potemrová	m.Štefan	0	14803
+1123	Sabanová Alžbeta r. Seligová		0	14144
+1123	Sabol Alexander	ž.Anna r.Harvanová	0	11777,14328
+1123	Sabol Ján		0	14731
+1123	Sabolová Barbora r. Bérešová	vd	0	14731
+1123	Sabolová Etela		0	14731
+1123	Sabolová Margita		0	14731
+1123	Sabolová Mária		0	14731
+1123	Sarková Mária r. Jurková	zomrela 1.6.2005	0	12741
+1123	Sciranková Mária r. Bernátová		0	11981
+1123	Sedlák Štefan Jozef	ž.Mária r.Stupárová	0	14823
+1123	Sedláková Mária r. Tóthová		0	14821
+1123	Sedláková Verona r. Margecanská	m.Štefan	0	12040,14853
+1123	Seliga Ján r. Seliga	ženatý s Máriou Tóthovou	0	14144
+1123	Seliga Jozef	ženatý s Annou Borovskou	0	14144
+1123	Seliga Jozef r. Seliga	ženatý s Júliou Seliga	0	14144
+1123	Seliga Michal r. Seliga	ženatý s Alžbetou Rybárovou	0	14144
+1123	Seligová Anna r. Seligová		0	14144
+1123	Seligová Anna r. Seligová	dcéra Michalova	0	14144
+1123	Seligová Elena r. Seligová		0	14144
+1123	Seligová Mária r. Seligová		0	14144
+1123	Seman Ján r. Seman		0	12957
+1123	Semseyová Helena Ervina		0	14833
+1123	Slezák Ján	ž.Barbora r.Koščová	0	14786
+1123	Slezáková Barbora r. Koščová	m.Ján	0	14786
+1123	Soľárová Anna r. Forraiová	vd	0	12230
+1123	Szabó Július	ž.Rozália r.Pachová	0	14767
+1123	Szabóvá Rozália r. Pachová		0	14767
+1123	Szerencsi Zoltán		0	14770
+1123	Szerencsiová Anna		0	14770
+1123	Szerencsiová Irena r. Mayerová	vd	0	14770
+1123	Szerencsiová Vilma		0	14770
+1123	Sziklayová Margita r. Frindtová	vd	0	14748
+1123	Sztarovecká Gizela r. Krakovská	m.Rudolf	0	14759
+1123	Sztarovecký Rudolf	ž.Gizela r.Krakovská	0	14759
+1123	Šimek Imrich	ž.Alžbeta r.Szeligová	0	14800
+1123	Škuta Jozef		0	14725
+1123	Škuta Pavel		0	14725
+1123	Šolcová Mária r. Tresová		0	12929
+1123	Šterbinský Jozef		0	14740
+1123	Štofková Alžbeta r. Margecanská		0	12040,14853
+1123	Šuba Imrich		0	12867
+1123	Takáčová Anna r. Tresová		0	13523
+1123	Takáčová Terézia r. Sedláková		0	14822
+1123	Timková Alžbeta r. Tóthová		0	14821
+1123	Tirpák Matej r. Tirpák		0	12957,12958
+1123	Tirpáková Mária r. Seman		0	12956,12958
+1123	Točková Katarína r. Hrebíková		0	14751
+1123	Tóthová Helena r. Bergová		0	14722
+1123	Tresa Frank	USA	0	14789
+1123	Tresa František		0	12069
+1123	Tresa Ján		0	13988,14201
+1123	Tresa Ján	/Michalov/,ž.Alžbeta r.Forraiová	0	14782
+1123	Tresa Ján	Ešpan	0	14742,14807,14829
+1123	Tresa Ján /Ešpan/, SR /Ešpan/		0	12325
+1123	Tresa Ján, SR		0	12325
+1123	Tresa Jozef		0	13988
+1123	Tresa Jozef	mal	0	14742
+1123	Tresa Jozef	ml. Ešpan	0	14807
+1123	Tresa Jozef	ml.Ešpan	0	14829
+1123	Tresa Jozef /Ešpan/, SR /Ešpan/		0	12325
+1123	Tresa Jozef r. Tresa		0	13169
+1123	Tresa Štefan		0	12069
+1123	Tresa Štefan	mal.syn Štefanov	0	13395
+1123	Tresová Alžbeta r. Forraiová	m.Ján/Michalov/	0	14782
+1123	Tresová Anna /dcéra Janova/, SR /dcéra Janova/		0	12325
+1123	Tresová Anna r. Borovská, Ťahanovce 381, Košice, PSČ 040 13, SR		0	14411
+1123	Tresová Mária	mal	0	12170
+1123	Tresová Mária r. Borovská		0	3855,14411,14742
+1123	Tresová Mária r. Nigutová		0	14605
+1123	Türk Adolf		0	14745
+1123	Türková Viktória r. Konrádová		0	14745
+1123	Vancáková Marta r. Lenhardtová		0	14806
+1123	Váradiová Marta r. Bányászová		0	14729
+1123	Vargovčák Ján		0	13015
+1123	Vargovčák Jozef		0	11966
+1123	Vargovčák Michal		0	13015
+1123	Vaško Michal	ž.Zuzana r.Virostková	0	14809,15230
+1123	Vaško Štefan	ž.Anna r. Mrazková	0	14809,15230
+1123	Vaško Vincent		0	14809,15230
+1123	Vendrák Jozef		0	14804
+1123	Vendrák Mikuláš	nezv	0	14804
+1124	ADAM Michal, SR		0	1173
+1124	ADAMOVA ANNA r. HREDZAKOVA		0	1213
+1124	ADAMOVÁ Anna r. Janošová, SR		0	1305
+1124	ADAMOVÁ Zuzana r. Balogová, SR		0	1713
+1124	ANDREJ Andrej	manž. Alžbeta r. Gavaľová	0	640,693
+1124	ANDREJ Andrej	syn Michala	1	253
+1124	ANDREJ Andrej, manž. Alžbeta r. Gavaľová SPF manž. Alžbeta r. Gavaľová SPF		1	1777
+1124	ANDREJ Andrej, syn Michala SPF syn Michala SPF		1	1559
+1124	ANDREJ Michal		0	640,693
+1124	ANDREJ Michal, SPF SPF		1	1516
+1124	ANDREJ Štefan, ž.Anna Horňáková SPF ž.Anna Horňáková SPF		1	1723
+1124	ANDREJO Andrej	syn Andreja	0	62
+1124	ANDREJO Andrej, syn Andreja SPF syn Andreja SPF		1	1444
+1124	ANDREJOV Michal		1	40,370,681,706,1962
+1124	ANDREJOV Michal, SPF SPF		1	981,1565
+1124	ANDREJOV Ondrej		1	706,1962
+1124	ANDREJOV Ondrej, SPF SPF		1	1956
+1124	Andrejová Alžbeta r. Gaváľová		1	40,640,681,693,706,1962
+1124	ANDREJOVÁ Alžbeta r. Gavaľová, SPF SPF		1	1343
+1124	ANDREJOVÁ Anna r. Tomková		0	640,693
+1124	ANDREJOVÁ Anna r. Tomková, SPF SPF		1	1078
+1124	Andrišov Ján	syn Michala	0	40,681
+1124	Andrišov Ján	ž. Anna Ondo Eštoková	0	40,681
+1124	ANDRIŠOV Ján, syn Michala,SPF syn Michala,SPF		1	971
+1124	ANDRIŠOV Ján, ž. Anna Ondo Eštoková SPF ž. Anna Ondo Eštoková SPF		1	971
+1124	ANDRIŠOV Michal, SPF SPF		1	971
+1124	Andrišová Anna	dcéra Michala	0	40,681
+1124	ANDRIŠOVÁ Anna r. Ondo Eštoková		1	706,1962
+1124	ANDRIŠOVÁ Anna r. Ondo Eštoková, SPF SPF		1	1956
+1124	ANDRIŠOVÁ Anna, dcéra Michala SPF dcéra Michala SPF		1	971
+1124	Andrišová Mária	dcéra Michala	0	40,681
+1124	ANDRIŠOVÁ Mária, dcéra Michala SPF dcéra Michala SPF		1	971
+1124	BAJUŽÍK Emerich, mal. SPF mal. SPF		1	1234
+1124	BAJUŽIK JOZEF		0	1357
+1124	BAJUŽÍK Michal, mal. SPF mal. SPF		1	1196
+1124	BAJUŽÍK Milan, mal. SPF mal. SPF		1	1653
+1124	BAJUŽÍK Tomáš, mal. SPF mal. SPF		1	1782
+1124	BAJUŽIKOVÁ Zuzana r. Žofčáková, SPF SPF		1	1605
+1124	Balog Ján	manž. Anna r. Matuchová	0	40,681
+1124	BALOG Ján, manž. Anna r. Matuchová SPF manž. Anna r. Matuchová SPF		1	971
+1124	Balog Pavel	manž. Mária r. Papcunová	0	40,681
+1124	Balog Pavel	syn Pavla	0	40,681
+1124	BALOG Pavel, manž. Mária r. Papcunová SPF manž. Mária r. Papcunová SPF		1	971
+1124	BALOG Pavel, syn Pavla SPF syn Pavla SPF		1	971
+1124	BALOG Pavel, ž. Mária Paľová SPF ž. Mária Paľová SPF		1	1845
+1124	Balog Štefan	syn Jána	0	40,681
+1124	BALOG Štefan, syn Jána SPF syn Jána SPF		1	1166
+1124	BALOGOVÁ Anna r. Matuchová		1	429
+1124	BALOGOVÁ Anna r. Matuchová, SPF SPF		1	1423
+1124	Balogová Mária r. Papcunová		0	40,681
+1124	BALOGOVÁ Mária r. Papcunová, SPF SPF		1	971
+1124	Balogová Mária r. Šestková		1	40,426,681
+1124	BALOGOVÁ Mária r. Šestková, SPF SPF		1	1721
+1124	BÁNOVSKÁ Mária r. Gavaľová		1	40,681,706,971,1962
+1124	Barbaričová Anna r. Andrejová		0	40,681
+1124	BARBARIČOVÁ Anna r. Andrejová, SPF SPF		1	971
+1124	BARLOG Andrej, SPF SPF		1	1003
+1124	BARLOGOVÁ Anna r. Kotorová, SPF SPF		1	1592
+1124	BARLOGOVÁ Zuzana r. Tomášová, SPF SPF		1	1455
+1124	BEĽÁN Ján, ž. Alžbeta Hromaníková SPF ž. Alžbeta Hromaníková SPF		1	1036
+1124	BOBIKOVÁ Alžbeta r. Tomášová		0	640,693
+1124	BOBIKOVÁ Alžbeta r. Tomášová, SPF SPF		1	1083
+1124	BOBÍKOVÁ Mária r. Mihaľová		0	694
+1124	BOBÍKOVÁ Mária r. Mihaľová, SPF SPF		1	1375
+1124	BOCAN Pavel, SPF SPF		1	1123
+1124	BOCANOVÁ Anna, SPF SPF		1	1675
+1124	BOCANOVÁ Mária, SPF SPF		1	1283
+1124	BOCANOVÁ Zuzana r. Krivá, SPF SPF		1	1492
+1124	BOCANOVÁ Zuzana, mal. SPF mal. SPF		1	1144
+1124	BODNÁR Andrej, syn Michala SPF syn Michala SPF		1	1434
+1124	BODNÁR Ján, ž. Jolana Kočišová SPF ž. Jolana Kočišová SPF		1	985
+1124	BODNÁR Michal, ml.SPF ml.SPF		1	1390
+1124	BODNÁR Mikuláš, syn Michala SPF syn Michala SPF		1	1586
+1124	Bujaloš Ján		0	40,681
+1124	BUJALOŠ Ján, SPF SPF		1	971
+1124	Cejkovská Anna r. Horňaková	zomrela Žbince	0	1941
+1124	Čačková Anna r. Eštoková		0	1451
+1124	ČIŽMÁR Andrej, SPF SPF		1	964
+1124	ČIŽMÁR Anton, SPF SPF		1	964
+1124	ČIŽMÁR Ján	ž. Anna Uhrinová	0	640,693
+1124	ČIŽMÁR Ján, ml.SPF ml.SPF		1	964
+1124	ČIŽMÁR Ján, ž. Anna Uhrinová SPF ž. Anna Uhrinová SPF		1	1885
+1124	ČIŽMÁROVÁ Anna r. Uhrinová, SPF SPF		1	1859
+1124	ČIŽMÁROVÁ Anna, SPF SPF		1	964
+1124	ČIŽMÁROVÁ Helena, SPF SPF		1	964
+1124	ČIŽMÁROVÁ Mária, SPF SPF		1	964
+1124	ČIŽMÁROVÁ Zuzana r. Mihaľová		1	40,681,706,1962
+1124	ČIŽMÁROVÁ Zuzana r. Mihaľová, SPF SPF		1	1402
+1124	ČORŇÁK Ján, SPF SPF		1	1841
+1124	ČURMA Imrich, ž. Anna Tomočíková SPF ž. Anna Tomočíková SPF		1	1602
+1124	ČURMA Michal, syn Pavla SPF syn Pavla SPF		1	1019
+1124	Čurmová Alžbeta r. Gruľová		0	40,681
+1124	ČURMOVÁ Alžbeta r. Gruľová, SPF SPF		1	971
+1124	ČURMOVÁ Anna r. Šipošová, SPF SPF		1	1005
+1124	DOCI JAN		0	1556
+1124	DOCI Ján, syn Jána SPF syn Jána SPF		1	1419
+1124	DOCI Ján, syn Juraja SPF syn Juraja SPF		1	1834
+1124	DOCIOVÁ Anna r. Borková, manžel Ján SPF manžel Ján SPF		1	1811
+1124	DOCIOVÁ Anna, dcéra Jána SPF dcéra Jána SPF		1	1567
+1124	DOCIOVA ZUZANA r. HREDZAKOVA		0	1848
+1124	DRENČÁK Michal		0	640,693
+1124	DRENČÁK Michal, SPF SPF		1	1560
+1124	DRENČÁKOVÁ Zuzana r. Pirnerová		0	640,693
+1124	DRENČÁKOVÁ Zuzana r. Pirnerová, SPF SPF		1	1814
+1124	DURAŠKA Ján, SPF SPF		1	1883
+1124	ĎURAŠKO Ján, SPF SPF		1	1487
+1124	ĎURÍK Ján, SPF SPF		1	1440
+1124	ĎURIKOVÁ Helena r. Ďurčáková		0	640,693
+1124	ĎURÍKOVÁ Mária r. Šimková, SPF SPF		1	1121
+1124	DŽUGAN Juraj, SPF SPF		1	1370
+1124	DŽUGANOVÁ Mária r. Koščová, SPF SPF		1	1916
+1124	EŠTOK Andrej, SPF SPF		1	1056
+1124	EŠTOK Michal, SPF SPF		1	1286
+1124	Eštoková Anna r. Klučková		0	40,681
+1124	EŠTOKOVÁ Anna r. Klučková, SPF SPF		1	971
+1124	Eštoková Zuzana		0	980
+1124	FECÁK Ján, SPF SPF		1	977
+1124	Fecák Juraj		0	40,681
+1124	FECÁK Juraj, SPF SPF		1	971
+1124	FECÁK Michal, SPF SPF		1	971
+1124	Fecák Pavel	manž. Zuzana r. Nováková	0	40,681
+1124	FECÁK Pavel, manž. Anna r. Šurinová SPF manž. Anna r. Šurinová SPF		1	1902
+1124	FECÁK Pavel, manž. Zuzana r. Nováková SPF manž. Zuzana r. Nováková SPF		1	971
+1124	Fecák Štefan	syn Juraja	0	40,681
+1124	FECÁK Štefan, SPF SPF		1	971
+1124	FECÁK Štefan, syn Juraja SPF syn Juraja SPF		1	1502
+1124	FECÁKOVÁ Alžbeta r. Kecalová, SPF SPF		1	977
+1124	FECÁKOVÁ Anna r. Belejová, SPF SPF		1	971
+1124	FECÁKOVÁ Anna r. Mulatová, SPF SPF		1	1737
+1124	FECÁKOVÁ Barbora r. Ondrejcová, SPF SPF		1	1691
+1124	Fecáková Zuzana r. Nováková		0	40,681
+1124	FECÁKOVÁ Zuzana r. Nováková, SPF SPF		1	971
+1124	FEDAŠ Demeter, SPF SPF		1	1162
+1124	FEDAŠOVÁ Mária r. Horňáková, SPF SPF		1	1316
+1124	FENČIK Andrej, SPF SPF		1	1220
+1124	Ferčáková Anna r. Poláková		0	1658
+1124	FERČÁKOVÁ Barbora r. Medvecová		0	1171
+1124	FITERE Ján, SPF SPF		1	1630
+1124	FURDÁK Ján, SPF SPF		1	1211
+1124	GEROČ Ján, SPF SPF		1	1328
+1124	GEROČ Michal, SPF SPF		1	1623
+1124	GOROGOVÁ Anna		0	640,693
+1124	Görögová Anna, SPF SPF		1	1787
+1124	Görögová Mária r. Andrejová	m. Mikuláš; zomr. 23.03.1980	1	40,681,706,1760,1961,1962
+1124	GRUĽA Michal		1	40,681,706,1962
+1124	GRUĽA Michal, SPF SPF		1	1840
+1124	GRUĽOVÁ Alžbeta		1	706,1962
+1124	GRUĽOVÁ Alžbeta r. Hrubyová, SPF SPF		1	1242
+1124	GRUĽOVÁ Alžbeta, SPF SPF		1	1611
+1124	GRUĽOVÁ Anna		1	40,681,706,1962

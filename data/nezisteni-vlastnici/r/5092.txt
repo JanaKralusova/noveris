@@ -1,0 +1,256 @@
+2870	Lešková Zuzana	Andraščinová	1	48,421,422,425,426,429
+2870	Macej Ján		1	85,98,141,142,243,251,326,330,331,369,417
+2870	Macejová Žofia		1	85,98,141,142,243,251,326,330,331,369,417
+2870	Malaťák Miroslav r. Malaťák, Ing., Trieda SNP 478/25, Košice, PSČ 040 11, SR		1	326,330,331
+2870	Martoň Štefan		1	254,326,330,331,450
+2870	Martoňová Anna	Maloletá	1	254,326,330,331,450
+2870	Martoňová Mária	Maloletá	1	254,326,330,331,450
+2870	Mašlár Juraj		1	23,93,326,330,331,340,371,377
+2870	Mašlárová Jurová Johana		1	246
+2870	Mašlárová Jurová Johana	Jačišinová	1	171
+2870	Mašlárová Mária		1	171,246,346,351,370,445
+2870	Mašlárová Mária	Maloletá	1	59,115,123,128,326,330,331
+2870	Michaliková Margita	Maloletá	1	85,243,251,326,330,331,369,417
+2870	Michaliková Mária	Macejová	1	98,141,142,326,330,331
+2870	Michaliková Ondrejov Anna	Jačišinová	1	346
+2870	Mudrá Františka		1	326,330,331
+2870	Mudra Jánova Veronika		1	246
+2870	Mudra Jánova Veronika	Jačišinová	1	171,172,208
+2870	Mudrá Mária		1	326,330,331
+2870	Mudrá Veronika		1	123
+2870	Mudry Bartolomej		1	326,330,331
+2870	Mudry Jozef		1	326,330,331
+2870	Mudry Lorinc		1	326,330,331
+2870	Mudry Pavol		1	326,330,331
+2870	Mudry Urban		1	326,330,331
+2870	Olejarová Mária	Petrušková	1	357
+2870	Onderčo František		1	23,85,243,251,326,330,331,369,417
+2870	Onderčo Jozef		1	23
+2870	Onderčo Jozef	Maloletý	1	85,243,251,326,330,331,369,417
+2870	Onderčová Margita		1	23,85,243,251,326,330,331,369,417
+2870	Ondičová Johana	Hricová	1	326,330,331
+2870	Ondrej Andrej		1	306,322,323,326,330,331,411,413,414,415
+2870	Ondrej Andrej	Maloletý	1	118,306,322,323,324,326,330,331,411,413,414,415,416
+2870	Ondrej Cerva Andrej		1	72,73,322,323,324,336,337,348,411,412,414,415,416
+2870	Ondrej Ivan		1	72,336,337,348
+2870	Ondrej Ivan	Maloletý	1	326,330,331
+2870	Ondrej Ján		1	72,118,306,322,323,324,326,330,331,338,411,413,414,415,416
+2870	Ondrej Ján	Maloletý	1	336,337,348
+2870	Ondrej Mikuláš		1	118,306,322,323,324,326,330,331,336,337,338,348,411,413,414,415,416
+2870	Ondrejová Alžbeta		1	72,73,118,306,322,323,324,326,330,331,336,338,348,411,412,413,414,415,416
+2870	Ondrejová Alžbeta	Maloletá	1	324,326,330,331,336,337,348,416
+2870	Ondrejová Helena		1	306,322,323,324,326,330,331,338,411,413,414,415,416
+2870	Ondrejová Helena	Maloletá	1	118,324,326,330,331,336,337,348,416
+2870	Ondrejová Jana		1	73,336,348,412
+2870	Ondrejová Mária		1	118,306,322,323,324,326,330,331,336,337,338,348,411,413,414,415,416
+2870	Ondrejová Mária	Ondrejová	1	72,73,118,306,322,323,324,326,330,331,336,338,348,411,412,413,414,415,416
+2870	Ondrejová Mária	Pošefková	1	72,73,412
+2870	Palenčár Andrej		1	141
+2870	Palenčárová Johana	Kolarčíková	1	23,143,326,328,329,330,331,364
+2870	Palenčárová Mária		1	326,330,331
+2870	Palenčárová Ondrejov Mária	Tarbajová	1	326,330,331
+2870	Paulišinecová Aurélia, Zimna 22 Košice		0	322,411
+2870	Petra František	Zomrel 21 2 1989	1	326,330,331
+2870	Petro František		1	332
+2870	Petro Ján		1	326,330,331,333
+2870	Petro Jozef		1	59,106,180,326,330,331
+2870	Petro Karol		1	59,115,123,124,128,171,172,173,208,246,326,330,331,346,351,355,370,424,445
+2870	Petro Karol	Kovaľ	1	45,48,326,330,331,350,363,421,422,423,425,426,427,428,429,430,431
+2870	Petro Koval Karol		1	347
+2870	Petro Matej		1	23,88,326,330,331,333,342
+2870	Petro Michal		1	326,330,331,345
+2870	Petro Zahradníková Monika	Lazoriková	1	234,326,330,331,356,447,448
+2870	Petrová Alžbeta	Kovalová	1	45,48,59,326,330,331,363,421,422,425,426,427,428,429,430,431
+2870	Petrová Karolina	Jačišinová	1	173,346
+2870	Petrová Karolova Alžbeta	Jačišinová	1	124,171,172,173,208,326,330,331,370,445
+2870	Petrová Karolová Alžbeta		1	246
+2870	Petrová Mária	Jačišinová	1	59,128,326,330,331
+2870	Petrová Mária	Maloletá	1	155,216
+2870	Petrová Mária	Petrová	1	332
+2870	Petruf Koloman	M Margita B	1	346,351
+2870	Petruf Michal		1	23
+2870	Petrufová Margita	Baluchová	1	346,351
+2870	Petruška Andrej		1	177,178,180
+2870	Petruška Bartolomej		1	357
+2870	Petruška Fedor		1	357
+2870	Petruška Fedor	Maloletý	1	357
+2870	Petruška Pavol		1	357
+2870	Petruška Štefan		1	357
+2870	Petruško Andrej		1	326,330,331
+2870	Petrušková Filomena	Maloletá	1	357
+2870	Petrušková Mária	Maloletá	1	357
+2870	Polanská Anna	Juščáková	1	326,330,331,355,424
+2870	Polanský Ignac		1	23
+2870	Polohová Janová Mária	Martavusová	1	254,326,330,331,450
+2870	Pošefka Andrej		1	72,73,118,306,322,323,324,326,330,331,336,337,338,348,411,412,413,414,415,416
+2870	Pošefka Ivan		1	326,330,331
+2870	Pošefka Ján		1	72,306,322,323,324,326,330,331,338,411,413,414,415,416
+2870	Pošefka Jozef		1	72,73,118,306,322,323,324,326,330,331,336,337,338,411,412,413,414,415,416
+2870	Pošefka Jozef	Maloletý	1	72,73,324,336,337,348,412,416
+2870	Pošefka Juraj		1	72,118,322,323,324,326,330,331,411,414,415,416
+2870	Pošefka Matej		1	118,306,322,323,324,326,330,331,336,348,411,413,414,415,416
+2870	Pošefka Matej	Maloletý	1	73,306,322,323,324,326,330,331,411,412,413,414,415,416
+2870	Pošefka Michal		1	72,73,118,306,322,323,324,326,330,331,336,337,338,348,411,412,413,414,415,416
+2870	Pošefka Milan		0	72
+2870	Pošefková Alžbeta	Jurová	1	118
+2870	Pošefková Anna	Jurová	1	338
+2870	Pošefková Jozefína	Maloletá	1	72,324,416
+2870	Pošefková Mária	Ondrejova	1	72,373
+2870	Sedlačková Mária	Hricová	1	326,330,331
+2870	Sedláková Anna		1	45,48,326,330,331,350,421,422,423,425,426,428,429,430
+2870	Seman Filip		0	326,330,331
+2870	Slaninka Ján		1	118,323,324,326,330,331,336,337,338,348,414,415,416
+2870	Slezáková Mária	Zabrecká	1	326,330,331
+2870	Smolko Andrej		1	383
+2870	Smolko Bartolomej		1	155,156,157,158,216,326,330,331,379
+2870	Smolko Ján	M Filomena T	1	233
+2870	Smolko Jozef		1	23,383
+2870	Smolko Jozef	Cicoň	1	233
+2870	Smolko Pavol		1	157,158
+2870	Smolko Pavol	Maloletý	1	155,156,216,326,330,331,378,379,381
+2870	Smolko Štefan		1	158
+2870	Smolková A Žofia	Kovalová	1	45,48,330,363,421,422,425,426,427,428,429,430,431
+2870	Smolková A Žofia r. Kovalová		1	326,331
+2870	Smolková Alžbeta	Ivanová	1	72,73,156,157,158,169,216,306,322,323,324,326,330,331,336,337,338,348,407,411,412,413,414,415,416,420
+2870	Smolková Alžbeta r. Ivanová		1	168
+2870	Smolková Anna	Kondráčová	1	330
+2870	Smolková Apolonia		1	155,156,157,158
+2870	Smolková Apolonia	Maloletá	1	216,326,330,331,379
+2870	Smolková B Žofia	Kovalová	1	48,421,422,425,426,429
+2870	Smolková B Žofia r. Kovalová		1	326,331
+2870	Smolková Filomena	Tkáčiková Olčár	1	233
+2870	Smolková Janovicová Berta	Jačišinová	1	326,330,331
+2870	Smolková Katarina		1	155,156,157,158,326,330,331,379
+2870	Smolková Katarina	Maloletá	1	216
+2870	Smolková Mária		1	23,156,157,158,326,330,331
+2870	Smolková Mária	Kovalová	1	45,48,326,330,331,363,421,422,425,426,427,428,429,430,431
+2870	Smolková Mária	Maloletá	1	155,216,379
+2870	Smolková Mária	Petrušková	1	357
+2870	Smolková Žofia	Ivanová	1	72
+2870	Staš Štefan		1	141,142
+2870	Staš Štefan	Maloletý	1	85,243,251,326,330,331,369,417
+2870	Stašová Katarina	Maloletá	1	85,141,142,243,251,326,330,331,369,417
+2870	Tarbaj Ján		1	23,41,45,48,72,73,114,115,118,306,322,323,324,326,330,331,334,348,367,368,411,412,413,414,415,416,421,422,425,426,428,429,430
+2870	Tarbaj Jozef	Maloletý	1	118
+2870	Tarbaj Karol		1	23,45,72,73,118,322,326,330,331,350,411,412,423,428,430
+2870	Tarbaj Michal		1	23
+2870	Tarbaj Michal	Maloletý	1	41,45,48,114,115,118,326,330,331,350,421,422,423,425,426,428,429,430
+2870	Tarbaj Štefan		1	45,72,73,306,322,323,324,326,330,331,411,412,413,414,415,416,428,430
+2870	Tarbaj Vojtech		1	306,413
+2870	Tarbajová Anna	Maloletá	1	23,41,45,48,114,115,118,326,330,331,350,421,422,423,425,426,428,429,430
+2870	Tarbajová Apolonia		1	23,326,330,331,334,368
+2870	Tarbajová Johana		1	23,41,45,48,114,115,326,330,331,350,421,422,423,425,426,428,429,430
+2870	Tarbajová Johana	Maloletá	1	118
+2870	Tarbajová Katarina		1	23,326,330,331,334,368
+2870	Tarbajová Mária		1	23,41,45,48,114,115,326,330,331,350,421,422,423,425,426,428,429,430
+2870	Tarbajová Mária	Maloletá	1	118
+2870	Tarbajová Žofia	Petrová	1	23,107,177,326,330,331,357
+2870	Tiščaková Barbora	Kolarčíková	1	353
+2870	Tkačik Lorinc		1	177,178,180,326,330,331
+2870	Tkačik Lorinc	Maloletý	1	357
+2870	Tkačiková Margita		1	177,178,180,326,330,331
+2870	Tkačiková Margita	Maloletá	1	357
+2870	Tkačiková Žofia		1	177,178,180,326,330,331
+2870	Tkačiková Žofia	Maloletá	1	357
+2870	Tomišová Veronika	Hricová	1	326,330,331
+2870	Tomko Andrej		1	326,330,331,372
+2870	Tomko Ján		1	59,124,128,326,330,331,370,372,445
+2870	Tomková Filomena	Kolarčíková	1	124,370,445
+2870	Tomková Katarina	Kolarčíková	1	23
+2870	Tomková Žofia	Smolková	1	124,370,445
+2870	Uličná Agnesa		1	326,330,331,342
+2870	Uličná Anna		1	155,156,157,158,216,326,330,331,379
+2870	Uličná Terézia		1	87,92,326,330,331
+2870	Uličná Terézia	Maloletá	1	87,88,92,93,342
+2870	Uličná Žofia		1	326,330,331
+2870	Uličná Žofia	Maloletá	1	342
+2870	Uličný Bartolomej		1	326,330,331
+2870	Uličný Bartolomej	Maloletý	1	342
+2870	Uličný Ján		1	326,330,331
+2870	Uličný Ján	Maloletý	1	342
+2870	Uličný Jozef		1	326,330,331,342
+2870	Uličný Juraj		1	326,330,331,342
+2870	Urbanec František		1	23
+2870	Vnuková Janová Anna	Martavusová	1	254,326,330,331,450
+2870	Zahradník František		1	23
+2870	Zahradník Ján		1	23
+2870	Zahradník Jozef		1	23
+2870	Zahradník Peter		1	23
+2870	Zakovčaková Mária	Bernatová	1	326,330,331
+2871	Andrejčák Śtefan r. Andrejčák	ž.Anna r.Žulčáková	0	243
+2871	Bangová Mária r. Verbová		0	38,210
+2871	Baník Jozef r. Baník	ž.Mária r.Geciová	0	243
+2871	Béreš Ján r. Béreš	ž.Mária r.Stašková	0	171
+2871	Bérešová Mária r. Stašková	m.Ján	0	171
+2871	Bilá Zuzana r. Virbová	m.Andrej	0	38
+2871	Bilá Zuzana r. Virbová	m.Michal	0	20,151
+2871	Birešová Mária r. Stašková	dcéra Andreja	0	34,36,38,39,202,276,277
+2871	Bohucká Anna r. Kužmová	Nižný Hrabovec č.133	0	111
+2871	Boňko Ján r. Boňko	maloletý v r.1902, vzdialený	0	38,150,212,236,252
+2871	Boňko Jozef r. Boňko		0	38
+2871	Boňko Michal r. Boňko	maloletý v r.1902	0	38,150,212,236,252
+2871	Boňko Mikuláš r. Boňko	maloletý v r.1902	0	38,150,212,236,252
+2871	Boňko Mikuláš r. Boňko	ž.Mária r.Repková	0	50,173
+2871	Boňková Anna r. Hudáková	m.Jozef	0	150
+2871	Boňková Mária r. Boňková	maloletá v r.1907, dedila po Jozefovi Boňkovi	0	38,212,252
+2871	Boňková Mária r. Girošová	m.Ján	0	150
+2871	Bujko Andrej r. Bujko	USA	0	67,121,126,220
+2871	Bujko Jozef r. Bujko	PKV 43 B 9	0	128
+2871	Bujko Jozef r. Bujko	ž.Mária r.Paľová	0	38
+2871	Bujková Helena r. Petrášová		0	243
+2871	Bujková Mária r. Bujková	maloletá v r.1903	0	38
+2871	Cichá Mária r. Cichá	vzdialená	0	38,212,222,234,266
+2871	Cichá Zuzana r. Cichá	vzdialená	0	38,212,222,234,266
+2871	Cichá Zuzana r. Hrehovčíková		0	38,212,266
+2871	Cichý Ján r. Cichý	maloletý v r.1916	0	38,222,234,266
+2871	Cichý Ján r. Cichý	ž.Helena r.Berešová	0	266
+2871	Cichý Jozef r. Cichý		0	38
+2871	Cichý Jozef r. Cichý	ž.Zuzana r.Jurková	0	38
+2871	Cichý Mikuláš r. Cichý	maloletý v r.1916	0	38,212,222,234,266
+2871	Demko Ján r. Demko	PKV 42 B 124	0	38
+2871	Demko Ján r. Demko	PKV 42 B 125	0	38
+2871	Demko Ján r. Demko	PKV 42 B 67	0	38
+2871	Demko Ján r. Demko	ž.Anna r.Balogáčová	0	38,127
+2871	Demková Anna r. Balogáčová	m.Ján	0	238
+2871	Džatková Anna r. Hrehovčíková	m.Jozef	0	38,212,252
+2871	Džurbala Ján r. Džurbala	ž.Mária r.Nedzbalová	0	243
+2871	Foďáková Alžbeta r. Foďáková		0	38,131,222,234,266
+2871	Giboda Andrej r. Giboda		0	38
+2871	Giboda Ján r. Giboda	ded. v r.1906 č.d.2620	0	34,36,202,276,277
+2871	Giboda Ján r. Giboda	kúpa č.d.2426/1911	0	137,246
+2871	Giboda Ján r. Giboda	ml.,kúpa 3.12.1910 č.d.3048	0	38
+2871	Giboda Ján r. Giboda	mladší	0	36,202,251,277
+2871	Giboda Ján r. Giboda	PKV 42 B 111	0	38
+2871	Giboda Ján r. Giboda	syn Jána	0	38
+2871	Giboda Ján r. Giboda	ž.Anna r.Demková	0	34,36,202,276,277
+2871	Giboda Ján r. Giboda	ž.Mária r.Karabinčíková	0	34,36,38,40,202,276,277
+2871	Giboda Jozef r. Giboda	ž.Mária r.Burcáková	0	254
+2871	Giboda Michal r. Giboda	ž. Anna r.Mattová	0	38
+2871	Gibodová Anna r. Cichá	m.Ján	0	38
+2871	Gibodová Anna r. Demková	m.Ján	0	34,36,38,202,276,277
+2871	Gibodová Mária r. Gibodová	maloletá v r.1931	0	36,202,251,277
+2871	Gibodová Zuzana r. Zmudová	m.Ján	0	50,173
+2871	Goroľ Michal r. Goroľ		0	38
+2871	Gut Michal r. Gut		0	49
+2871	Guttová Mária r. Kužmová	m.Michal	0	49,247
+2871	Hajduk Eliaš r. Hajduk	ž.Helena r.Hobľáková	0	218
+2871	Hajduková Helena r. Hobľáková	m.Eliaš	0	164,216,218
+2871	Hlaváč Ján r. Hlaváč		0	38
+2871	Hlaváč Michal r. Hlaváč		0	38
+2871	Hobľák Ján r. Hobľák	dar od Michala Hobľáka	0	200
+2871	Hobľák Ján r. Hobľák	PKV 30 B23	0	260
+2871	Hobľák Ján r. Hobľák	súrodenci Jozef a Mikuláš	0	226
+2871	Hobľák Ján r. Hobľák	ž.Alžbeta r.Popčáková	0	260
+2871	Hobľák Ján r. Hobľák	ž.Anna r.Stuľáková	0	38
+2871	Hobľák Jozef r. Hobľák	PKV 79	0	232,271,279
+2871	Hobľák Jozef r. Hobľák	ž.Mária r.Demková	0	253
+2871	Hobľák Michal r. Hobľák	vzdialený	0	38
+2871	Hobľák Michal r. Hobľák	ž.Mária r.Kmetaková	0	262
+2871	Hobľák Štefan r. Hobľák		0	253
+2871	Hobľáková Alžbeta r. Hobľáková		0	38
+2871	Hobľáková Anna r. Hobľáková		0	226
+2871	Hobľáková Anna r. Hobľáková	PKV 42	0	38
+2871	Hobľáková Anna r. Kovaľová		0	93
+2871	Hobľáková Anna r. Verbová		0	244
+2871	Hobľáková Mária r. Demková	m.Jozef	0	238
+2871	Hobľáková Mária r. Gibodová	m.Ján	0	38

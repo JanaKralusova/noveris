@@ -1,0 +1,256 @@
+954	Šeffer Július	Malenka	0	3148
+954	Šeffer Ondrej	Jeleník	0	3148
+954	Šeffer Štefan	Majstrák	0	3148
+954	Šeffer Štefan	Malenka	0	3148
+954	Šeffer Štefan	st	0	3148
+954	Šefferová Anna	mal	0	3148
+954	Šefferová Anna r. Mišatová, SR		0	3148
+954	Šefferová Katarína r. Šefferová, SR		0	3148
+954	Šefferová Katarína r. Štrbinová, SR		0	3148
+954	Šefferová Zuzana r. Karlíková, SR		0	3148
+954	Šeptáková Katarína r. Plšková	Zubajová, rod. Plšková	1	3317,3325
+954	Ševčíková Anna r. Javorková, SR	Rif	0	3058
+954	Šikulová Mária r. Švindrová, SR		0	2907,2931,2969,2977,3101,3124,3172
+954	Široň Ján		1	3458
+954	Široň Ján, SR		1	3620
+954	Široň Ján, SR	ženatý s Máriou Kuderovou	0	2617,2626,2646,4389
+954	Široň Ján, SR SPF		1	3402
+954	Široň Jozef, SR	Sára, nepr. v D 427/40	1	789
+954	Široň Jozef, SR	Sára, zom. neprej. v D 427/40	0	2813,2870
+954	Široň Jozef, SR	Sára,nepr. v D 427/40	1	3231
+954	Široň Karol		1	3458
+954	Široň Karol, SR		1	2482,2617,2624,2626,2646,3620,4389
+954	Široň Karol, SR SPF		1	3402
+954	Široňová Helena, SR	Sárová, mal	0	2432,2874,2933
+954	Široňová Marcela, SR		0	2626
+954	Široňová Mária		1	2646,3458,4389
+954	Široňová Mária, SR		1	2482,2617,2624,2626,3620
+954	Široňová Mária, SR SPF		1	3402
+954	Škandera Ondrej, SR	opatrovník	0	2803
+954	Škanderová Mária, SR	mal	0	2549
+954	Škobla Július, SR		0	3148
+954	Škobla Marcel, SR		0	3148
+954	Škoblová Helena	mal	0	3148
+954	Škoblová Mária	mal	0	3148
+954	Škoblová Štefánia, SR		0	3148
+954	Škoblová Zuzana r. Mišatová Poliaková, SR		0	3148
+954	Škoda Ján	Rapoš	0	2570,3111
+954	Škoda Ján, SR	Rapoš	0	2512,2531,2543,2644,2899,2971
+954	Škoda Ján, SR	Rapoš 1	0	2929
+954	Škoda Ján, SR	Rapoš, žen. so Zuzanou Matulovou	0	3186
+954	Škoda Ján, SR	Rapoš, žen.so Zuzanou Matulovou	0	2899,2904
+954	Škoda Ján, SR	Rapoš,žen. so Zuzanou Matulovou	0	3090
+954	Škoda Ján, SR	žen. so Zuzanou Matulovou	0	3151
+954	Škoda Jozef	Rapoš	0	3111
+954	Škoda Jozef, SR	Parada	0	3153
+954	Škoda Jozef, SR	Rapoš	0	2904,3084,3090,3151,3186
+954	Škoda Jozef, SR	Rapoš 1	0	3031
+954	Škoda Jozef, SR	Rapoš 2	0	2874
+954	Škodová Anna, SR		0	3084
+954	Škodová Irena r. Prídavková, SR		1	789,3231
+954	Škodová Irena, SR	Prídavková	0	3041
+954	Škodová Irena, SR	Prídavková 1	0	2432,2813,2870
+954	Škodová Katarína r. Bražinová Kulichová, SR	Prídavok	1	789,3231
+954	Škodová Margira r. Škodová Prídavková, SR		0	2432
+954	Škodová Mária r. Fokorová Krajníková, SR	Prídavok	1	789,2432,2870,3231
+954	Škodová Mária r. Prídavok, SR	Fokorová Krajníková	0	2813
+954	Šmidtová Emília r. Lukáčová Dolná, SR		0	3148
+954	Šramko Ondrej	Boroň	0	3148
+954	Šramková Mária r. Malenková, SR		0	3148
+954	Šrobár Alfonz	Princ	0	3148
+954	Šrobár Ondrej, SR		0	3148
+954	Šrobárová Emília r. Kubalová, SR		0	3148
+954	Štrbík Ľudevít, SR		0	2489,2490
+954	Štrbík Štefan, SR		0	2489,2490
+954	Štrbíková Zuzana r. Jurečková, SR		0	2490
+954	Štrbina Ferdinand, SR		0	3148
+954	Štrbinová Albína r. Slotková Poliaková, SR		0	3148
+954	Štrbinová Anna r. Michalová, SR		0	3148
+954	Štrbinová Anna, SR		0	3148
+954	Štrbinová Emília, SR		0	3148
+954	Štrbinová Mária r. Mišatová, SR		0	3148
+954	Štrbinová Štefánia	mal	0	3148
+954	Šucová Felicita r. Turanová, SR		0	3148
+954	Šuhajdová Anna, SR		0	3148
+954	Šuhajdová Terézia, SR		0	3148
+954	Šulíková Amália r. Kuniaková, SR	zomrela	0	2510
+954	Šuša Jozef	Matto	0	2733
+954	ŠUŠA Jozef	nepr. v D 1010/69	0	3458
+954	Šuša Jozef, SR	Matto	0	2520,2554,2563,2643,2759,2775,2778,2783,2786,2804,2806,2818,3975
+954	Šuša Jozef, SR	zom. 30.09.1969, nepr. v D 1010/69	0	3614,3620
+954	Šuša Jozef, SR Matto		0	2306
+954	Šuša Jozef, SR zom. 30.09.1969, nepr. v D 1010/69		0	3402
+954	Šuša Jzef, SR	Matto	0	2482
+954	Šušoň Ján, SR		0	2482,2624
+954	Šušorená Anna r. Gerecová, SR		0	2858,3156
+954	Šušorená Zuzana		1	3458
+954	Šušorená Zuzana r. Nemcová	A2: , Matejova v Hubovej	1	144,145
+954	Šušorená Zuzana r. Nemcová	Matejova, v Hubovej	1	3426
+954	Šušorená Zuzana r. Nemcová	Matejova, v USA	0	2210
+954	Šušorená Zuzana r. Nemcová, Hubová, SR	Matejova	1	3714
+954	Šušorená Zuzana r. Nemcová, SR	Matejova	0	2482,2520,2525,2632,2643,3975
+954	Šušorená Zuzana r. Nemcová, SR	Matejova, rod. Nemcová, v Hubovej	1	3620
+954	Šušorená Zuzana r. Nemcová, SR	Matejova, v USA	1	3541
+954	Šušorená Zuzana r. Nemcová, SR Matejova		0	2306
+954	Šušorená Zuzana r. Nemcová, SR Matejova, rod. Nemcová, v Hubovej, SPF		1	3402
+954	Šušorená Zuzana r. Žiarová, SR	Jánova, v USA	0	2361
+954	Šušorený Ján		1	3458
+954	Šušorený Ján	ml	0	3133
+954	Šušorený Ján, SR		0	2477,2769
+954	Šušorený Ján, SR	1	0	2481,2482,2520,2643,3975
+954	Šušorený Ján, SR	ml	0	2482,2520,2548,2549,2552,2606,2643,3975
+954	Šušorený Ján, SR	ml., súr. Ondrej, Juraj	1	3620,3697
+954	Šušorený Ján, SR 1		0	2306
+954	Šušorený Ján, SR ml.		0	2306
+954	Šušorený Ján, SR ml., súr. Ondrej, Juraj, SPF		1	3402
+954	Šušorený Juraj		1	3458
+954	Šušorený Juraj, SR		0	2306,2482,2520,2548,2549,2552,2643,3133,3144,3975
+954	Šušorený Juraj, SR	súr. Ondrej, Ján	1	3620,3697
+954	Šušorený Juraj, SR súr. Ondrej, Ján, SPF		1	3402
+954	Šušorený Matej		1	3426,3458
+954	Šušorený Matej	1	1	3426,3458,3714
+954	Šušorený Matej	A2:	1	144,145
+954	Šušorený Matej	A2: , 1	1	144,145
+954	Šušorený Matej	A2: , žen. so Zuzanou r. Nemcovou v Hubovej	1	144
+954	Šušorený Matej	A2: , žen. so Zuzanou rod. Nemcovou v Hubovej	1	145
+954	Šušorený Matej	ž.so Zuzanou r.Nemcovou,v USA	0	2210
+954	Šušorený Matej	žen.so Zuzanou rod. Nemcovou, v Hubovej	1	3426
+954	Šušorený Matej, SR		1	2306,2482,2520,2525,2643,3620,3714,3975
+954	Šušorený Matej, SR	1	0	2482,2520,2643,3975
+954	Šušorený Matej, SR	1 ,; 1	1	3620
+954	Šušorený Matej, SR	žen. so Zuzanou rod. Nemcovou, v Hubovej	1	3714
+954	Šušorený Matej, SR	žen. so Zuzanou rod. Nemcovou, v USA	1	3541
+954	Šušorený Matej, SR	žen.so Zuzanou rod. Nemcovou, v Hubovej	1	3620
+954	Šušorený Matej, SR	ženatý so Zuzanou Nemcovou	0	2482,2520,3975
+954	Šušorený Matej, SR 1		0	2306
+954	Šušorený Matej, SR 1, SPF		1	3402
+954	Šušorený Matej, SR SPF		1	3402
+954	Šušorený Matej, SR žen.so Zuzanou rod. Nemcovou, v Hubovej, SPF		1	3402
+954	Šušorený Matej, SR ženatý so Zuzanou Nemcovou		0	2306
+954	Šušorený Ondrej		1	3316,3317,3458,4373
+954	Šušorený Ondrej	A2:	1	596
+954	Šušorený Ondrej, SR		0	2306,2482,2520,2548,2549,2552,2643,3133,3144,3975
+954	Šušorený Ondrej, SR	1	0	2550
+954	Šušorený Ondrej, SR	súr. Ján, Juraj	1	3620,3697
+954	Šušorený Ondrej, SR súr. Ján, Juraj, SPF		1	3402
+954	Šušová Mária r. Rošteková	Jozefova Matto	0	2696
+954	Šušová Mária r. Rošteková	Jozefova Mattová, zomrela	1	3392,3433,3435
+954	Šušová Mária r. Rošteková	Jozefova, Matto	0	2703
+954	Šušová Mária r. Rošteková Darilová, SR		0	2774
+954	Šušová Mária r. Rošteková, SR	Jozefova Matto	0	2804,2806,3092
+954	Šušová Zuzana		1	3458
+954	Šušová Zuzana r. Zubajová, SR	Mattová	1	2482,2520,2643,2778,2796,3614,3620,3975
+954	Šušová Zuzana r. Zubajová, SR	Ondrejova, Mattová	1	3481,3620
+954	Šušová Zuzana r. Zubajová, SR Mattová		0	2306
+954	Šušová Zuzana r. Zubajová, SR Mattová, SPF		1	3402
+954	Šušová Zuzana r. Zubajová, SR Ondrejova, Mattová, SPF		1	3402
+954	Švančíková Mária r. Olosová, SR		0	2687,2705,2736
+954	Švárna Anastázia r. Šuhajdová, SR		0	3148
+954	Švárna Juliana r. Malenková, SR		0	3148
+954	Švárna Katarína r. Blašková, SR		0	3148
+954	Švárna Mária r. Brčíková, SR		0	3148
+954	Švárna Mária r. Greššová		0	3148
+954	Švárna Štefánia r. Bystričanová, SR		0	3148
+954	Švárny František	Zobčiak	0	3148
+954	Švárny Ján	najstarší	0	3148
+954	Švárny Ján	st	0	3148
+954	Švárny Štefan	st	0	3148
+954	Švidra Jozef, SR	ženatý s Katarínou Javorkovou	1	789
+954	Švidroňová Anna r. Brušková, SR		0	3148
+954	Švidroňová Anna r. Magová, SR	zom. D 7/46	0	2870
+954	Švindra Ján	Polunc	0	3124
+954	Švindra Ján r. Víťaz, SR		0	2968
+954	Švindra Ján, SR	Polunc	1	789,2432,2813,2870,2907,2931,2978,3231
+954	Švindra Ján, SR	Víťaz 1	1	2813,2838,2870,3231
+954	Švindra Jozef	Víťaz, zomrel	1	3285,3286,4265
+954	Švindra Jozef, SR	Forgáš	1	789
+954	Švindra Jozef, SR	Víťaz	0	2643
+954	Švindra Jozef, SR Víťaz		0	2306
+954	Švindra Jozef, SR Víťaz, zomrel, SPF		1	3402
+954	Švindra Juraj, SR	Polunc 1	0	3184
+954	Švindra Ondrej	Polunc	0	3124
+954	Švindra Ondrej, SR	Polunc	1	789,2432,2813,2870,2907,2931,2978,3231
+954	Švindrová Anna r. Kyjová	Jánova Víťaz, vdova	1	3286,4265
+954	Švindrová Anna r. Kyjová, SR	Jánova Víťaz, vdova	1	3695
+954	Švindrová Anna r. Magová, SR	nepr. v D 7/46	1	789,3231
+954	Švindrová Anna r. Magová, SR	zom D 7/46	0	2813,3000
+954	Švindrová Anna r. Magová, SR	zom. D 7/46	0	2906,2914,3175
+954	Švindrová Helena, SR	Víťazová	0	2923
+954	Švindrová Katarína r. Javorková, SR	Jozefova	0	2907,2977
+954	Švindrová Katarína r. Magová, SR	Poluncová Jurajova	0	2906,3000,3185
+954	Švindrová Katarína r. Magová, SR	Poluncová, Jurajova	0	2914
+954	Švindrová Mária, SR	mal	0	2432,2988,3036
+954	Švindrová Zuzana r. Babicová, 02701, Žaškov, č. 29, SR	zomr. 06.10.2002	0	4320
+954	Švinera Jozef, SR	ženatý s Katarínou Javorkovou	0	2813
+954	Švitková Zuzana r. Dančová, SR	Jozefova, v USA, zom	1	3512
+954	Švitková Zuzana r. Dančová, SR	Jozefova, v USA,zom	0	2357
+954	Švrátny Jozef	Múka	0	3148
+954	Ťapčíková Mária r. Urmínová, SR	Emilova	0	2876,2924,2938,2961,2972,3003,3026,3101,3103,3105,3177
+954	Teniak Peter, SR		0	3148
+954	Teniaková Anna r. Hrabušajová, 034 81, Lisková, č. 270, SR	zomr. 26.6.1996	0	3148
+954	Teniaková Mária r. Lindbeniová, SR		0	3148
+954	Todek Ján, SR	zomrel	0	2510
+954	Todek Matúš, SR	zomrel	0	2510
+954	Todek Ondrej, SR	Krajči, zomrel	0	2510
+954	Todek Štefan	st	0	3148
+954	Todeková Agáta r. Šefferová, SR		0	3148
+954	Todeková Anna, SR	st., zomrela	0	2510
+954	Todeková Katarína, SR	zomrela	0	2510
+954	Todeková Mária r. Kuniaková, SR	zomrela	0	2510
+954	Tomanková Anna, SR	zom. 14.01.1981	0	111
+954	Tomly Ján, SR		0	2597,2617,2627,2711,3094,4090
+954	Tomly Jozef, SR		0	2482,2575,3106,3127,3133,4089
+954	Tomly Ondrej	Vrličkin	1	3458
+954	Tomly Ondrej, SR	Vrličkin	0	2520,2643,3975
+954	Tomly Ondrej, SR Vrličkin		0	2306
+954	Tomly Ondrej, SR Vrličkin, SPF		1	3402
+954	Tomlyová Anna		1	3458
+954	Tomlyová Anna r. Hlinová Dudáková, SR		0	3140
+954	Tomlyová Anna r. Matulová		1	3453
+954	Tomlyová Anna r. Matulová	Jánova	1	3408
+954	Tomlyová Anna r. Matulová, SR		1	2630,2633,3620
+954	Tomlyová Anna r. Matulová, SR	1	0	2482,2520,2624,2643,3975
+954	Tomlyová Anna r. Matulová, SR 1		0	2306
+954	Tomlyová Anna r. Matulová, SR SPF		1	3402
+954	Tomlyová Anna, SR		0	2810
+954	Tomlyová Anna, SR	Matulová 1	0	2645
+954	Tomlyová Katarína r. Bražinová, SR	zomr. 18.9.1989	0	3554,4339
+954	Tomlyová Katarína r. Vrlíková, SR		0	3133
+954	Tomlyová Mária r. Chovanová, SR		1	3679
+954	Tomlyová Zuzana		1	3458
+954	Tomlyová Zuzana r. Okál	Jozefova, Vrličkár, Bob	0	2745
+954	Tomlyová Zuzana r. Okál Bob, SR	Jozefova Vrličká	0	2568
+954	Tomlyová Zuzana r. Okál Bob, SR	Jozefova Vrličkár	0	2482,2520,2636,3975
+954	Tomlyová Zuzana r. Okál, SR Jozefova, Vrličkár, Bob		0	2716
+954	Tomlyová Zuzana r. Okálová Bobková, SR	Jozefova Vrličkár	1	3620,3643,3665,3666
+954	Tomlyová Zuzana r. Okálová, SR Jozefova Vrličkár, Bobková, SPF		1	3402
+954	Tomlyová Zuzana, SR	Jozefova Vrličkár,rod. Okal Bob	0	3093
+954	Tomlyová Zuzana, SR	Jozefova Vrličkár,rod.Okál Bob	0	2643,2680
+954	Tomlyová Zuzana, SR Jozefova Vrličkár,rod.Okál Bob		0	2306
+954	Tomolyová Antónia r. Húsková, SR		0	2576
+954	Trabalíková Katarína r. Javorková, SR		0	2839
+954	TRNKA Jozef	Hruda	1	3458
+954	Trnka Jozef, SR	Hruda	1	2482,2520,2568,2643,3620,3975
+954	Trnka Jozef, SR Hruda		0	2306
+954	Trnka Jozef, SR Hruda, SPF		1	3402
+954	Trnka Ondrej	Hruda	1	3458
+954	Trnka Ondrej, SR		0	2482
+954	Trnka Ondrej, SR	Hruda	1	2482,2520,2643,2779,2786,3620,3975
+954	Trnka Ondrej, SR Hruda		0	2306
+954	Trnka Ondrej, SR Hruda, SPF		1	3402
+954	Trnková Anna		1	3458
+954	Trnková Anna	Hrudová	1	3458
+954	Trnková Anna r. Hlinová, SR	Jánova Hrudová	1	3620
+954	Trnková Anna r. Hlinová, SR Jánova Hrudová, SPF		1	3402
+954	Trnková Anna, 034 93, Hubová, č. 1, SR		0	2306
+954	Trnková Anna, 034 93, Hubová, č. 1, SR	zom. D 960/77	0	2485
+954	Trnková Anna, SR	Hrudová	1	3620
+954	Trnková Anna, SR Hrudová, SPF		1	3402
+954	Turan Jozef	Krajči	0	3148
+954	Turan Jozef, SR		0	3148
+954	Turan Klement	Krajči	0	3148
+954	Turan Klement, SR		0	3148
+954	Turanová Berta, SR		0	3148
+954	Turanová Kamila, SR		0	3148
+954	Turanová Klemenítna	Krajčiová	0	3148
+954	Turanová Terézia r. Slotková Poliaková, SR		0	3148

@@ -1,0 +1,256 @@
+1285	Dohnalová Mária r. Szegényová		0	495
+1285	Ďurkovičová Mária r. Vargová		0	674
+1285	Frankko Michal		0	382,653
+1285	Franko Adam		0	332,336,373,376,382,433,434,435,436,484,511,527,562,563,610,611,613,624,625,626,646,653,654,661,690,691,692,723,766,767,768,769,799,814,895,928,1099,1191,1192,1194,1202,1268,1272,1309,1472,1475,1491
+1285	Franko Adam	mal	0	381,1553
+1285	Franko Adam	nezl	0	333
+1285	Franko Anna r. Segéň		0	389
+1285	Franko Anna r. Segéň	manž.Ján	0	376
+1285	Franko Ferenc		0	373
+1285	Franko František		0	332,336,373,376,382,433,434,435,436,484,511,527,562,563,610,611,613,624,625,626,646,653,654,661,690,691,692,723,766,767,768,769,799,814,895,928,1099,1191,1192,1194,1202,1268,1272,1309,1472,1475,1491
+1285	Franko František	mal	0	381,1553
+1285	Franko František	nezl	0	333
+1285	Franko Fratišek		0	376
+1285	Franko Gabriel	manž. Žofia rod. Jankulárová	0	767
+1285	Franko Imre	ml	0	1092
+1285	Franko Imrich		1	390,980,1083,1084,1388,1404,1405,1423,1482,1496,1497,1519,1520,1521
+1285	Franko Ján		0	332,336,365,368,373,376,381,382,383,433,434,435,436,484,491,511,527,562,563,574,610,611,613,615,624,626,643,646,653,654,661,690,691,692,723,724,758,759,766,767,768,769,799,802,814,895,928,929,943,1099,1191,1192,1194,1202,1268,1272,1309,1423,1472,1475,1491,1516,1517,1520,1553,1558
+1285	Franko Ján	maloletý	0	373
+1285	Franko Ján	manž. Helena rod. Čižmárová	0	759
+1285	Franko Ján	manž. Uršula r. Jankulárová	0	331
+1285	Franko Ján	manž.Helena Čižmár	0	653
+1285	Franko Ján	manželka Ilona Čižmárová	0	433,895,1191
+1285	Franko Ján	ml	0	610,723
+1285	Franko Ján	po Dominikovi	0	563,611,646,654,691,766,769,799,928,1202,1309,1472,1475
+1285	Franko Ján	po Dominikovi Frankovi	0	381,435,436,692,758,814,1194,1553
+1285	Franko Ján	po Dominovi Frankovi	0	333
+1285	Franko Ján	ž. Helena Čižmár	0	562
+1285	Franko Ján	ž.Helena Čižmár	0	332,1192
+1285	Franko Ján	žena Helena, rod. Čižmárová	0	690
+1285	Franko Ján	ženatý s Helenou r. Čižmárovou	0	766,769
+1285	Franko Ján	ženatý s Helenou rod. Čižmárovou	0	723
+1285	Franko Ján	ženatý s Ilonou Čižmárovou	0	434,511,527
+1285	Franko Jánoš		0	373
+1285	Franko Jozef		0	373,382,392,433,434,484,511,527,562,610,624,625,626,653,690,723,759,767,895,1191,1192,1491
+1285	Franko Karol		0	332,336,373,376,382,433,434,435,436,484,511,527,562,563,610,611,613,624,625,626,646,653,654,661,690,691,692,723,766,767,768,769,799,814,895,928,1099,1191,1192,1194,1202,1268,1272,1309,1472,1475,1491
+1285	Franko Karol	mal	0	381,1553
+1285	Franko Karol	nezl	0	333
+1285	Franko Mária		0	373,382,562,653,1192
+1285	Franko Mária	manž. Jozef Szegény	0	563,1202
+1285	Franko Mária	manž. Michal Jankulár	0	563
+1285	Franko Mária	manž.Michal Jankulár	0	1202
+1285	Franko Mária	vyd. Segéň	0	562
+1285	Franko Mária	vyd.Segéň	0	1192
+1285	Franko Michal		0	332,368,373,392,433,434,435,436,484,491,511,527,562,563,610,611,613,624,625,626,646,653,654,690,691,692,759,766,767,769,799,814,895,928,1099,1191,1192,1194,1202,1272,1309,1491
+1285	Franko Michal	ml	0	392,610,723,759
+1285	Franko Michal ml.		0	625
+1285	Franko Pavol		0	1268,1272
+1285	Franko Tereza		0	562,1192
+1285	Franko Tereza	vyd. za Čaládika	0	373
+1285	Franko Terézia		0	373,376,382,562,1192
+1285	Franko Terézia	vyd. za Čaládika	0	563
+1285	Franko Terézia	vyd.za Čaládika	0	1202
+1285	Franko Verona		0	373
+1285	Franko Verona	vyd. Martiš	0	562
+1285	Franko Verona	vyd. za Martiša	0	373,562,563
+1285	Franko Verona	vyd.Martiš	0	1192
+1285	Franko Verona	vyd.za Martiša	0	1192,1202
+1285	Franková Anna r. Szegényová		0	785,1117,1145
+1285	Franková Eva r. Szegény	manžel Michal	0	685
+1285	Franková Eva r. Szegényová	manž. Michal	0	391
+1285	Franková Eva r. Szegényová	manžel Michal	0	638
+1285	Franková Katarína		0	418
+1285	Franková Katarína	po Gabrielovi Frankovi	0	373
+1285	Franková Mária		0	418,433,434,511,527,723,759,766,769,895,1191,1272,1491
+1285	Franková Mária	manž. Jozef Szegény	0	435,436,692,1194
+1285	Franková Mária	manž. Michal Jankulár	0	435,436,692,1194
+1285	Franková Mária	manž.Szegény Jozef	0	1268
+1285	Franková Mária	manžel Jankulár Michal	0	1268
+1285	Franková Mária	po Gabrielovi Frankovi	0	373
+1285	Franková Mária	po Jozefovi	0	766,769
+1285	Franková Mária	vyd. za Jozefa Szegenyho	0	381,1553
+1285	Franková Mária	vyd. za Michala Jankulára	0	381,1553
+1285	Franková Mária	vydatá za Jozefa Szegényho	0	1309
+1285	Franková Mária	vydatá za Michala Jankulára	0	1309
+1285	Franková Mária r. Kosák	manž. Gabriel Franko	0	435,692,1194
+1285	Franková Mária r. Kosáková		0	333,615,677,758,814
+1285	Franková Mária r. Kosáková	manžel Gabriel	0	611,799
+1285	Franková Mária r. Orlíková		0	484
+1285	Franková Oršula r. Jankulárová		0	484
+1285	Franková Tereza		0	433,435,436,692,767,895,1191,1194,1309
+1285	Franková Terézia		0	332,336,418,433,434,511,527,611,613,624,626,654,661,691,723,766,768,769,799,814,895,928,1099,1191,1268,1272,1491
+1285	Franková Terézia	nezl	0	333
+1285	Franková Terézia	po Gabrielovi Frankovi	0	373
+1285	Franková Terézia	vyd. za "Šaládika"	0	381,1553
+1285	Franková Terézia r. Čaládiková		0	1491
+1285	Franková Uršula		0	1349
+1285	Franková Uršula r. Jankulárová		0	705
+1285	Franková Verona		0	332,333,336,433,435,436,624,626,692,814,895,928,1191,1194,1309
+1285	Franková Verona	vyd. za "Martiša"	0	381,1553
+1285	Franková Veronika		0	434,511,527,611,613,654,661,691,723,766,767,768,769,799,1099,1272
+1285	Franková Veronika	po Jozefovi	0	766,769
+1285	Franková Veronika r. Szegéniová		0	384,1518
+1285	Franková Veronika r. Szegényová		1	383,574,582,942,943,980,1083,1084,1405,1423,1482,1516,1517,1519,1520
+1285	Gáliková Terézia r. Mikušíková	vdova, manžel Štefan	0	644
+1285	Gáliková Terézia r. Morkušiková		1	142
+1285	Hrúz Demeter		0	397
+1285	Hrúz Demiter		0	1372
+1285	Hrúz Katarína r. Jankulárová		0	344,353,424
+1285	Hrúz Katarína r. Pinter		0	505
+1285	Hrúz Štefan	manž. Katarína r. Jankulárová	0	774
+1285	Hrúzová Justína r. Jankulárová		0	416
+1285	Jankuár Michal		0	418
+1285	Jankulár Adam		0	350,437,563,1202,1316
+1285	Jankulár Adam	manž. Mária r. Pintérová	0	756
+1285	Jankulár Agnes	manž. Jankulár Matej	0	423
+1285	Jankulár Anna r. Segéň		0	559,1324
+1285	Jankulár Anna r. Sgéň		0	751
+1285	Jankulár Berta		0	361,414
+1285	Jankulár Demeter		0	547
+1285	Jankulár Eva	manž.Michal Švec	0	414
+1285	Jankulár Gyorgy		0	344,353,424,1262
+1285	Jankulár Ján		0	555,817
+1285	Jankulár Ján	manž. Anna rod. Segíňová	0	818
+1285	Jankulár János		0	651,652
+1285	Jankulár Jozef		1	64,414,651,652,755,757,797,1013,1079,1081,1082,1212,1340,1363,1388,1396
+1285	Jankulár Juraj		0	700,1038,1098,1122,1206,1219,1360,1361,1362
+1285	Jankulár Juraj	manž. Uršula rod. Segényová	0	1038,1098,1219,1361,1362
+1285	Jankulár Juraj	maž. Uršula rod. Segényová	0	1122
+1285	Jankulár Juraj	ženatý s Annou rod. Szegényovou	0	700
+1285	Jankulár Katalin	manž.Ján Pecher	0	414
+1285	Jankulár Mária r. Franko	m.Michal	0	382
+1285	Jankulár Matej		0	755
+1285	Jankulár Matúš		0	348
+1285	Jankulár Mihály		0	1262
+1285	Jankulár Michal		0	344,353,411,418,424,531,700,751,850,1081,1082,1206,1212,1238,1263,1274,1327,1328,1332,1340,1363,1392,1394,1396,1402,1419,1489,1525
+1285	Jankulár Michal	hluchonemý	0	1263
+1285	Jankulár Michal	manž. Szegény Terézia	0	497
+1285	Jankulár Michal	Potočný	0	1477
+1285	Jankulár Michal	ženatý s Teréziou Szegényovou	0	1477
+1285	Jankulár Pavol		0	755
+1285	Jankulár Šimon		0	414,415
+1285	Jankulár Štefan		0	271,361,414,423,426,497,498,533,534,594,647,668,702,705,708,797,929,1197,1225,1386,1387,1415,1533,1555,1556,1558
+1285	Jankulár Štefan	manž. Mária	0	442
+1285	Jankulárová Agnesa		0	1480
+1285	Jankulárová Alžbeta r. Hudecová		0	1225
+1285	Jankulárová Anna r. Segéňová		0	30,118,502,587,593,605,696,727,977,1085,1089,1128,1210,1231,1288,1321,1323,1456,1552
+1285	Jankulárová Anna r. Szegény		0	365
+1285	Jankulárová Anna r. Szegény	manž. Juraj	0	585,1075
+1285	Jankulárová Anna r. Szegény	manž.Juraj	0	1204
+1285	Jankulárová Anna r. Szegényová		1	93,513,1347,1356,1524
+1285	Jankulárová Anna r.Szegeny		0	836
+1285	Jankulárová Apolónia r. Pinterová	manžel Michal	0	30,570,593,1073,1089,1128,1210,1231,1288,1339,1552
+1285	Jankulárová Apolónia r. Pintérová		0	792
+1285	Jankulárová Apolónia r. Pintérová	manž.Michal	1	989
+1285	Jankulárová Berta		0	426,594,647,705,708,797,1197,1533,1555,1556
+1285	Jankulárová Júlia r. Segény		0	365
+1285	Jankulárová Juliana		0	438
+1285	Jankulárová Juliana	manž. Štefan Segéň	0	399
+1285	Jankulárová Mária	manž. Ján Franko	0	418
+1285	Jankulárová Mária r. Franková		0	331,332,333,336,419,610,624,625,646,654,690,691,723,758,759,768,769,1472,1475
+1285	Jankulárová Mária r. Franková	manž. Jankulár Michal	0	814
+1285	Jankulárová Mária r. Franková	manž.Michal	0	767
+1285	Jankulárová Mária r. Franková	manžel Michal	0	611,626,799,928,1491
+1285	Jankulárová Mária r. Pintérová		0	345,355,651
+1285	Jankulárová Mária r. Szegényová		0	700
+1285	Jankulárová Mária r. Viczianová	zomr.19.2.1989	1	82,412,586,591,932,1014,1023,1033,1208
+1285	Jankulárová Rozália r. Dibalová		0	660,730,779,1540,1541,1542
+1285	Jankulárová Terézia r. Segéňová		0	561,1051
+1285	Jankulárová Terézia r. Segéňová	manžel Matej	0	541
+1285	Jankulárová Terézia r. Segényová		0	1493
+1285	Jankulárová Terézia r. Segíňová		0	669,1494
+1285	Jankulárová Verona		0	350
+1285	Jankulárová Verona r. Jankulárová		0	361,414
+1285	Jankulárová Veronika r. Jankulárová		0	426,594,647,705,797,1197,1533,1555,1556
+1285	Jankulárová Veronika r. Uhróci		0	345
+1285	Jankulárová Veronika r. Uhróvciova		0	355
+1285	Júlia Pinterová r. Szegeňová		0	118
+1285	Kandela Barbora		0	412,586,591,932,1014,1023,1033,1208
+1285	Kosáková Mária	manž. Gabriel Franko	0	436
+1285	Kosáková Mária	vydatá za Gabriela Franku	0	381,1553
+1285	Koszáková Katarína r. Szegényová	manž. Gregor	0	1300
+1285	Koszáková Mária		0	613,703,1099
+1285	Koszók Mária		0	545
+1285	Kotra Ilona r. Segéň		0	1498
+1285	Kotrová Helena r. Segéniová	manžel Imrich	0	711
+1285	Kotrová Helena r. Segéňová		0	796
+1285	Kotrová Ilona r. Szegény		0	685
+1285	Kotrová Ilona r. Szegényová	manžel Imrich	0	638
+1285	Kuťka Jozef		0	490
+1285	Kuťková Apolónia r. Mikušíková		0	490
+1285	Kuťková Juliana r. Čižmárová	manž. Štefan	0	770
+1285	Kuťková Juliana r. Čižmárová	manžel Štefan	0	1544
+1285	Mária Szegeňová r. Szegeňová		0	118
+1285	Martiš Michal		0	1491
+1285	Martišová Verona r. Franková		0	484,625
+1285	Martišová Veronika r. Franková		0	610,613,661,690,691,766,768,769,1099,1309,1472,1491
+1285	Mavlišová Veronika r. Franková		0	1272
+1285	Michal Franko		0	365
+1285	Mikušík Jozef		1	644
+1285	Mikušík Michal		0	521,1319
+1285	Mikušíková Alžbeta		0	521,1319
+1285	Mikušíková Helena		0	521,1319
+1285	Mikušíková Helena r. Farkašová		1	728
+1285	Minárová Agneša r. Franková		0	674,1299
+1285	Molnár Adam		0	368
+1285	MOLNAROVA Anna	r.Jankularova	1	341
+1285	Molnárová Anna r. Jankulárová		1	348,1232
+1285	Orlík Demeter		1	199,541,606,669,765
+1285	Orlík Demeter	manž. Čižmár Eva	0	1331,1358
+1285	Orlík Demeter	manž. Eva r.Csizmárová	1	992
+1285	Orlík Demeter	manž.Čižmár Eva	0	549,1357
+1285	Orlík Demeter	manž.Eva rod. Čižmárová	0	783
+1285	Orlík Demiter		0	1051,1494
+1285	Orlík Dimiter		0	561,1493
+1285	Orlík Eva r. Šíz		0	506,549,1331,1357,1358
+1285	Orlík František		0	506,549,1331,1357,1358
+1285	Orlík István		1	199
+1285	Orlík János		1	199
+1285	Orlík Karol	manž. Anna Szegényová	0	747
+1285	Orlík Karol	manž.Anna r.Szegényová	1	982
+1285	Orlík Mihál		1	199
+1285	Orlík Štefan		0	506,549,624,670,1331,1357,1358
+1285	Orlíková Anna r. Segéňová	manž.Karol	0	773
+1285	Orlíková Eva		1	199
+1285	Orlíková Mária r. Pekárová		0	550,685
+1285	Orlíková Mária r. Starovičová		0	770
+1285	Orlíková Uršula r. Szegényová		0	680,737,760
+1285	Orlíková Uršuľa r. Szegényová	manž.Ján	0	761
+1285	Pánis Štefan		0	508,753,1449
+1285	Pánisová Terézia r. Pekárová		0	685,811,819,828
+1285	Pánisová Terézia r. Szegýnyová		0	817
+1285	Pekár Anton		1	514,751,957,987,1071,1127,1150,1151,1152,1153,1234,1325,1326,1395
+1285	Pekár Ján		0	30,753
+1285	Pekár Jozef		0	461,685,753
+1285	Pekár Matej		0	638,811,1246,1250
+1285	Pekár Matúš		0	685
+1285	Pekár Michal		0	423
+1285	Pekár Štefan		0	1479
+1285	Pekárová Alžbeta r. Segéň		0	385,1417,1554
+1285	Pekárová Alžbeta r. Segíňová		0	805,808
+1285	Pekárová Apolónia		0	836
+1285	Pekárová Katarína r. Szegényová		0	1253
+1285	Pekárová Mária r. Černáková	manžel Ján Pekár	0	1156
+1285	Pekárová Mária r. Vicianová		0	1479
+1285	Pekárová Uršula r. Segéňová		0	727
+1285	Pekárová Uršula r. Syegényová		0	645
+1285	Pekárová Uršuľa r. Szegényová		0	194,630,815,939,1069,1124,1207
+1285	Pekárová Uršula r.Szegeny		0	836
+1285	Petkárová Helena r. Pintérová		1	1013
+1285	Pintér Adam		0	391
+1285	Pintér František		0	1154
+1285	Pintér Gabriel		0	128,539,541,548,785,1117,1145,1166,1206,1247,1430,1485,1486,1487
+1285	Pintér Gabriel	manž. Mária rod.Szegényová	0	764
+1285	Pintér Gabriel	syn Gábriša	0	890
+1285	Pinter István		1	82
+1285	Pintér Ján		1	64,530,605,722,992,1012,1013,1079,1383,1420,1422
+1285	Pinter Jozef		0	379,770
+1285	PINTER Jozef	nar.17.10.1890, Ustav soc. starostivosti, 951 87 Olichov	0	946
+1285	Pinter Júlia r. Szegéň		0	381,1553
+1285	Pintér Karol		1	989
+1285	Pintér Lukáč		0	775,798
+1285	Pinter Mária r.Szegeny		0	836
+1285	Pintér Michal		0	399,438,1414
+1285	Pinter Štefan	manž. Anna r. Segéň	0	1051
+1285	Pintér Štefan		1	52,412,438,478,542,586,591,775,798,818,932,1012,1013,1014,1023,1033,1208,1414,1447,1481,1483
+1285	Pintér Štefan	manž. Verona rod. Segéň	0	534

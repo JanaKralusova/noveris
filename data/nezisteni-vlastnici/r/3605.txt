@@ -1,0 +1,256 @@
+2069	DURKOŠOVÁ Mária	r.Repková muž Ján	0	131
+2069	FEDORKOVÁ Zuzana	r.Gajdošová	0	649
+2069	FUGOVÁ Veronika	r.Fuňaková	0	635,644
+2069	FUŇÁK Ján	ž.Zuzana r.Kužmová Benkovce	0	420
+2069	FUŇÁK Juraj	vzdial	0	631
+2069	FUŇÁK Michal	Benkovce	0	420,631
+2069	FUŇÁKOVÁ Mária	r.Šebová	0	631
+2069	FUŇÁKOVÁ Zuzana	r.Kužmová muž Ján Benkovce	0	420
+2069	GAJDOŠOVÁ Mária	r.Michalová Benkovce	0	420
+2069	GAMBAĽ Jozef	ž.Alžbeta r.Cvejkušová	0	634,648
+2069	GAMBAĽOVÁ Alžbeta	r.Cvejkušová muž Jozef; muž Jozef	0	634,648
+2069	GAŠPAROVÁ Anna		0	181,685,686
+2069	GOGOVÁ Anna	r.Čalfová muž Ján zomrela 18.12.1943; muž Ján zomrela 18.12.1943	0	474
+2069	GOGOVÁ Anna	r.Tkáčová muž Juraj; muž Juraj	0	416
+2069	GRAJCAROVÁ Mária	r.Fuňaková	0	631
+2069	GRECA Jozef	ž.Anna r.Tomčová Benkovce	0	420
+2069	GRECOVÁ Anna	r.Tomčová muž Jozef Benkovce; muž Jozef Benkovce	0	420
+2069	HAJDUKOVÁ Mária	r.Vargová muž Andrej; muž Andrej	0	393,485
+2069	HORGOŠOVÁ Mária	r.Grošiková muž Michal; muž Michal	0	399
+2069	HROMADA Ján	ž.Anna r.Matovčíková Benkovce	0	420
+2069	HROMADOVÁ Anna	r.Matovčíková muž Ján Benkovce; muž Ján Benkovce	0	420
+2069	HUDÁKOVÁ Mária	r.Rimková Benkovce	0	420
+2069	JEŠKO Andrej	ž.Mária r.Mičkanínová Benkovce	0	420
+2069	JEŠKO Ján	ž.Mária r.Marcinková Benkovce	0	420
+2069	JEŠKOVÁ Mária	r.Marcinková muž Ján Benkovce; muž Ján Benkovce	0	420
+2069	JEŠKOVÁ Mária	r.Mičkanínová muž Andrej Benkovce; muž Andrej Benkovce	0	420
+2069	Karch Pavol		0	63
+2069	KARCH Pavol	ž.Mária r.Biliková	0	481
+2069	KAUFMANNOVÁ Pepe	Benkovce	0	420
+2069	KOCKA Andrej	ž.Margita r.Macková Benkovce	0	420
+2069	KOCKA Ján	Benkovce	0	420
+2069	KOCKOVÁ Margita	r.Macková muž Andrej Benkovce; muž Andrej Benkovce	0	420
+2069	KOVAĽ Ján	vzdial	0	408,409
+2069	KOVAĽOVÁ Mária	vzdial	0	408,409
+2069	KOZÁKOVÁ Anna	r.Sabolová muž Ján Benkovce	0	420
+2069	KOZÁKOVÁ Anna	r.Sabolová muž Ján Benkovce; muž Ján Benkovce	0	420
+2069	KOŽEJOVÁ Anna	r.Hašaková	0	399
+2069	KUŽMA Michal	ž.Mária r.Bilíková Benkovce	0	420
+2069	KUŽMA Pavol	ž.Mária r.Haňová Benkovce	0	420
+2069	KUŽMOVÁ Mária	r.Dudášová muž Ján	0	150
+2069	KUŽMOVÁ Mária	r.Dudášová muž Ján; muž Ján	0	443
+2069	KUŽMOVÁ Mária	r.Haňová muž Pavol Benkovce; muž Pavol Benkovce	0	420
+2069	Kužmová Mária r. Dudášová		0	149
+2069	KYSEĽ Michal		0	641
+2069	LANCOŠ Michal	Benkovce	0	420
+2069	LANCOŠOVÁ Mária	r.Bodnárová Benkovce	0	420
+2069	LANCOŠOVÁ Mária	r.Janová Benkovce	0	420
+2069	LIČKOVÁ Zuzana	r.Dudášová muž Ján	0	150
+2069	LIČKOVÁ Zuzana	r.Dudášová muž Ján; muž Ján	0	443
+2069	Ličková Zuzana r. Dudášová		0	149
+2069	MAJÍRSKÁ Anna	r.Repková Benkovce	0	420
+2069	MAKUCH Jozef	vzdial	0	408,409
+2069	MATTA Ján	ž.Anna r.Haničová Benkovce	0	420
+2069	MATTOVÁ Anna	r.Haničová muž Ján Benkovce; muž Ján Benkovce	0	420
+2069	MATTOVÁ Anna	r.Repková	0	604
+2069	MATTOVÁ Mária		0	318,432,689
+2069	MERMELSTEIN Salamon	ž.Zate r.Berkovičová Benkovce	0	420
+2069	MERMELSTEINOVÁ Zate	r.Berkovičová muž Salamon Benkovce	0	420
+2069	MERVOVÁ Anna	r.Kužmová muž Michal; muž Michal	0	441,614
+2069	MICHALOVÁ Magdaléna	r.Biliková	0	633
+2069	MIŠKOVIČOVÁ Anna	r.Dudašová	0	150
+2069	MUĽÁR Andrej	ž.Anna r.Maguščáková Benkovce	0	420
+2069	MUĽÁR Jozef	ž.Anna r.Vasiľková Benkovce	0	420
+2069	MUĽÁR Jozef	ž.Mária r.Dupaľová Benkovce	0	420
+2069	MUĽÁR Jozef	ž.Mária r.Fuňáková Benkovce	0	420
+2069	MUĽÁROVÁ Anna	r.Maguščáková muž Andrej Benkovce; muž Andrej Benkovce	0	420
+2069	MUĽÁROVÁ Anna	r.Vasiľková muž Jozef Benkovce; muž Jozef Benkovce	0	420
+2069	MUĽÁROVÁ Mária	r.Dupaľová muž Jozef Benkovce; muž Jozef Benkovce	0	420
+2069	MUĽÁROVÁ Mária	r.Fuňáková muž Jozef Benkovce; muž Jozef Benkovce	0	420
+2069	NÁBOŽNÁ Mária	r.Baranová muž Ján Benkovce; muž Ján Benkovce	0	420
+2069	NÁBOŽNÝ Ján	ž.Mária r.Baranová Benkovce	0	420
+2069	OLEKSA Michal	ž.Anna r.Juhásová Benkovce	0	420
+2069	OLEKSOVÁ Anna	r.Juhásová muž Michal Benkovce; muž Michal Benkovce	0	420
+2069	OLŠAVA Jozef	ž.Anna r.Kochová Benkovce	0	420
+2069	OLŠAVA Michal	ž.Anna r.Ďurkajová Benkovce	0	420
+2069	OLŠAVOVÁ Anna	r.Cmarová Benkovce	0	420
+2069	OLŠAVOVÁ Anna	r.Dupaľová Benkovce	0	420
+2069	OLŠAVOVÁ Anna	r.Ďurkajová muž Michal Benkovce; muž Michal Benkovce	0	420
+2069	OLŠAVOVÁ Anna	r.Kochová muž Jozef Benkovce; muž Jozef Benkovce	0	420
+2069	OSLOVIČ Jozef		0	194
+2069	PASTVINARSKÉ SPOLOČENSTVO		0	400,526,531
+2069	PETRÍK Ján	ž.Zuzana r.Ješková Benkovce	0	420
+2069	PETRÍK Jozef	ž.Helena r.Ferencová Benkovce	0	420
+2069	PETRÍK Juraj	ž.Helena r.Michalová Benkovce	0	420
+2069	PETRÍKOVÁ Anna	r.Tarbajová Benkovce	0	420
+2069	PETRÍKOVÁ Helena	r.Ferencová muž Jozef Benkovce; muž Jozef Benkovce	0	420
+2069	PETRÍKOVÁ Helena	r.Michalová muž Juraj Benkovce; muž Juraj Benkovce	0	420
+2069	PETRÍKOVÁ Terézia	r.Vasilková Benkovce	0	420
+2069	PETRÍKOVÁ Zuzana	r.Ješková muž Ján Benkovce; muž Ján Benkovce	0	420
+2069	PETRÍKOVÁ Zuzana	r.Vargovičová Benkovce	0	420
+2069	PIŽNÁRSKÁ Mária	r.Polákovičová Benkovce	0	420
+2069	POLÁKOVIČOVÁ Mária	r.Onuferová muž Ján Benkovce; muž Ján Benkovce	0	420
+2069	REPKO Ján	č.d.2472/1939	0	228,695,697
+2069	REPKO Ján	D 602/31 č.d.3298/1934	0	131,132,557
+2069	REPKO Štefan	ž.Helena r.Bartková D 602/31	0	131
+2069	REPKOVÁ Anna	r.Dudašová	0	150
+2069	REPKOVÁ Anna	r.Durkošová, zomrela 21.8.1940	0	39
+2069	Repková Anna r. Dudašová		0	149
+2069	REVÁK Michal	ž.Mária r.Gajdošová Benkovce	0	420
+2069	REVÁKOVÁ Mária	r.Gajdošová muž Michal Benkovce; muž Michal Benkovce	0	420
+2069	ROKITA Ján		0	319
+2069	SABOL Ján	ž.Anna r.Zoščáková Benkovce	0	420
+2069	SABOL RAGAN Ján		0	442,443
+2069	SABOLOVÁ Anna	r.Zoščáková muž Ján Benkovce; muž Ján Benkovce	0	420
+2069	SABOLOVÁ Zuzana	r.Tarbajová Benkovce	0	420
+2069	SALNÍCKÁ Anna	r.Verbová muž Peter Benkovce; muž Peter Benkovce	0	420
+2069	SALNÍCKÝ Peter	ž.Anna r.Verbová Benkovce	0	420
+2069	STANKO Ján	ž.Anna r.Michalová Benkovce	0	420
+2069	STANKOVÁ Anna	r.Michalová muž Ján Benkovce; muž Ján Benkovce	0	420
+2069	STANOVČÁK Ján	ž.Mária r.Muľárová Benkovce	0	420
+2069	Stanovčáková Mária r. Verbová	muž Ján Benkovce	0	420
+2069	STEČÁKOVÁ Mária	r.Dudášová muž Michal; muž Michal	0	604
+2069	ŠTECÁK Juraj	ž.Anna r.Uherová Benkovce	0	420
+2069	ŠTECÁKOVÁ Anna	r.Uherová muž Juraj Benkovce; muž Juraj Benkovce	0	420
+2069	Štofka Pavel		0	163
+2069	TIMKO Ján		0	378,435
+2069	TKÁČ Andrej	ž.Barbora r.Michalčínová Benkovce	0	420
+2069	TKÁČOVÁ Barbora	r.Michalčínová muž Andrej Benkovce; muž Andrej Benkovce	0	420
+2069	TOMÁŠ Andrej	ž.Mária r.Oslovičová Benkovce	0	420
+2069	TOMÁŠ Ján	ž.Mária r.Murinová	0	637
+2069	TOMÁŠOVÁ Mária	r.Oslovičová muž Andrej Benkovce; muž Andrej Benkovce	0	420
+2069	Tomášová Mária r. Oslovičová		0	194
+2069	TOROK Jozef		0	642
+2069	TOROKOVÁ Helena	r.Vrábeľová	0	642
+2069	VANCÍK Ján	ž.Zuzana r.Sabolová Benkovce	0	420
+2069	VANCÍKOVÁ Zuzana	r.Sabolová muž Ján Benkovce; muž Ján Benkovce	0	420
+2069	Varga Ján	vzdial.; vzdial	0	318
+2069	VARGA Ján	vzdial	0	432,689
+2069	VARGOVÁ Anna	r.Mattová	0	317
+2069	VARGOVÁ Mária	vydatá Biliková	0	181,685,686
+2069	VERBA Ján	ž.Anna r.Koreňová Benkovce	0	420
+2069	VERBOVÁ Anna	r.Koreňová muž Ján Benkovce; muž Ján Benkovce	0	420
+2069	Vrabeľová Mária r. Miškovičová		0	149
+2069	ZELEŇÁK Ján		0	7,361,387,712
+2069	ZELEŇÁK Jozef		0	424
+2069	ZELEŇÁKOVÁ Anna	r.Juhasová	0	62
+2069	Zengevald Július		0	149
+2069	ZENGEVALD Július	ž.Alžbeta r.Dudášová	0	150,443
+2069	ZENGEVALDOVÁ Alžbeta	r.Dudášová muž Július	0	150
+2069	ZENGEVALDOVÁ Alžbeta	r.Dudášová muž Július; muž Július	0	443
+2069	Zengevaldová Alžbeta r. Dudášová		0	149
+2069	ZOŠČÁK Ján	ž.Anna r.Olšavová Benkovce	0	420
+2069	ZOŠČÁK Jozef	ž.Anna r.Kočíšová Benkovce	0	420
+2069	ZOŠČÁK Jozef	ž.Mária r.Sabolová Benkovce	0	420
+2069	ZOŠČÁKOVÁ Anna	r.Kočíšová muž Jozef Benkovce; muž Jozef Benkovce	0	420
+2069	ZOŠČÁKOVÁ Anna	r.Olšavová muž Ján Benkovce; muž Ján Benkovce	0	420
+2069	ZOŠČÁKOVÁ Mária	r.Sabolová muž Jozef Benkovce; muž Jozef Benkovce	0	420
+2070	Adamík Jozef, SR		1	263
+2070	Balog Emil, USA		1	141
+2070	Balogh Bartolomej, USA		1	74,141,142,281
+2070	Balogh Emil, SR		1	275
+2070	Balogh Emil, USA		1	142
+2070	Balogh Gejza, SR		1	275
+2070	Balogh Ján, Chicago, USA		1	74,281
+2070	Balogh Ján, SR		1	74,275,281
+2070	Balogh Ján, USA		1	141,142
+2070	Balogh Jozef, Budapešť, Maďarsko		1	141
+2070	Balogh Jozef, Budapešť, SR		1	142
+2070	Balogh Jozef, SR		1	74,275,281
+2070	Balogh Vojtech, SR		1	74,281
+2070	Baloghová Alžbeta r. Tóthová, SR		1	74,275,281
+2070	Baloghová Jozefína, Chicago, USA		1	74,141,142,281
+2070	Baloghová Jozefína, SR		1	74,275,281
+2070	Biela Anna r. Ertelová, Abramová, SR		1	227
+2070	Československé statky n.p., SR		1	257
+2070	Čiliaková Mária r. Ferenčíková, 038 22, Ondrašová, SR		1	131
+2070	Čiliaková Mária r. Ferenčíková, Ondrašová, SR		1	227
+2070	Čs. štát, ONV Martin, SR		0	255
+2070	Dvojička Ignác, SR		1	97,105,121,122,193,204,210,211,243
+2070	Ferenčík Ján, 038 22, Ondrašová, SR		1	131,227
+2070	Ferenčíková Paulína, SR		1	131,227
+2070	Grajciarová Mária r. Škultétyová, SR		1	275
+2070	Hanzel Augustín Ján, SR		1	28
+2070	Hanzel Ignác, SR		1	110
+2070	Hanzel Ján Augustín, SR		1	110,210
+2070	Hinko Ján, Pionierska ulica, Sliač-kúpele, SR		0	28
+2070	Hinko Juraj, Skalica, SR		0	28
+2070	Hrdiná Anna, Palova Búda, Žilina, SR		1	99
+2070	Hrdinová Anna, Palova Búda, SR		1	122
+2070	Hrdinová Anna, Palova Búda, Žilina, SR		1	6,7,97,98,105,121,193,204,210,211,243,249
+2070	Hrdinová Anna, SR		1	71
+2070	Chorváth Miroslav, Tulova 250, Šumperk, ČR		0	260
+2070	Kašuba Pavol		0	274
+2070	Kondek Ján, SR		1	207,268
+2070	Krupová Mária, SR		1	263
+2070	Kubík Andrej, Moškovec, SR		1	119
+2070	Lajková Anna r. Čekyová, Polerieka, SR		1	208,282
+2070	Mácová Anna r. Kubíková		1	152,168
+2070	Martinus František, SR		1	19
+2070	Martinus František, USA		1	211
+2070	Martinus Gabriel, SR		1	19
+2070	Martinus Gabriel, USA		1	211
+2070	Martinus Ignác, SR		1	19,211
+2070	Martinus Ján, SR		1	19,211
+2070	Martinus Stanislav, SR		1	19,211
+2070	Martinusová Antónia r. Dianovská, SR		1	19,211
+2070	Országhová Mária r. Lauková, SR		1	209
+2070	Pakan Jozef, SR		1	201
+2070	Pakan Vladimír, SR		1	201
+2070	Pniak Ignác, SR		1	211
+2070	Pniak Ján, SR		1	211
+2070	Pniak Rudolf, USA		1	211
+2070	Pyšná Katarína r. Gašparová, SR		1	261
+2070	Pyšný Pavol, SR		1	261
+2070	Rajecká Mária r. Korbeľová, SR	+23.6.1984	0	119
+2070	Rajecký Ján, Moškovec, SR		1	119
+2070	Ruttkayová Jozefína r. Baloghová, SR		1	275
+2070	Suchá Mária r. Zuzkinová	dátum úmrtia: 16.10.1982	0	282
+2070	Škultéty Barbora r. Baloghová, SR	Kuzma	1	74,281
+2070	Škultéty Jozef, SR		1	97,179,204,210,211
+2070	Škultéty Juraj, SR		1	210,211
+2070	Škultéty Juraj, SR	Kuzma	1	275
+2070	Škultéty Mária, SR	Kuzma	1	74,281
+2070	Škultéty Michal, Polerieka, SR	Kuzma	0	74,281
+2070	Škultéty Michal, SR	Kuzma	1	74,281
+2070	Škultéty Štefan, SR	Kuzma	1	74,281
+2070	Škultétyová Antónia r. Škultétyová, 038 22, Polerieka, č. 16, SR	+2.3.1972	0	97
+2070	Škultétyová Antónia r. Škultétyová, Polerieka, č. 16, SR	+2.3.1972	0	204,211
+2070	Škultétyová Mária r. Hinková	Abramová 10	0	28,110,205,210,211,237,242
+2070	Škultétyová Mária r. Hinková, SR		1	83
+2070	Škultétyová Mária r. Pniaková, USA		1	211
+2070	Škultétyová Mária, SR		1	210,211
+2070	Štanceľová Berta r. Škultétyová		1	97,122
+2070	Štancelová Berta r. Škultétyová, SR		1	179,204,210,211
+2070	Štanceľová Cecília r. Škultétyová		1	97,122
+2070	Štancelová Cecília r. Škultétyová, SR		1	179,204,210,211
+2070	Štancelová Cecíllia r. Škultétyová, SR		1	204
+2070	Štancľová Anna r. Paraszká, SR		1	254
+2070	Štancľová Anna r. Škultétyová		1	97
+2070	Štanclová Anna r. Škultétyová, 038 22, Ondrašová, SR	+9.4.1962	0	210,211
+2070	Štancľová Anna r. Škultétyová, SR		1	97
+2070	Thomka Pavol, SR		1	275
+2070	Univerzitný Slovenský fond, SR		1	186
+2070	Zachar Emil, 038 22, Polerieka, SR		1	207,268
+2070	Zachar Ján, USA		1	207,268
+2070	Zachar Jozef r. Zachar	zomrel 18.02.1917	0	207,268
+2070	Zachar Jozef, SR		1	207,268
+2070	Zachar Stanislav, Rumunsko		1	207,268
+2070	Zacharová Františka r. Hrašková, Polerieka, SR		1	207,268
+2070	Zacharová Zuzana r. Dvojičková, SR		1	97,105,121,122,193,204,210,211,243
+2070	Zelienka Ján, SR		1	263
+2071	BALÁŽ Jozef	narodený 29.4.1888 ž Mária r Kočánová	0	17,22,26,173,296
+2071	BALÁŽOVÁ Anna r. Kacvinská		0	506
+2071	BALAŽOVÁ Mária r. Kočanová		0	58,170,476
+2071	BALUN Ján		0	362
+2071	BALUNOVÁ Františka r. Lešková		0	362
+2071	BALUNOVÁ Mária r. Lešková		0	19,239,272,273,274,275,277,278,279,417,474,573,575,581,582,594,595,627
+2071	Bartko Andrej	starši	0	75,549
+2071	Bartko Andrej	ž Alžbeta r Lukáčová	0	75
+2071	BARTKO Andrej		0	23,358
+2071	BARTKO František	narodený 3.12.1922	0	17,22,23,26,75,173,357
+2071	BARTKO Imrich	narodený 21.2.1908	0	17,22,23,26,75,173,357
+2071	BARTKO Ján	narodený 1872 ž Mária r Vašková	0	22,23,75,79,81,173,200,257,400,425,493,543
+2071	BARTKO Matej	narodený 16.10.1901 ž Verona r Kuncová	0	17,22,23,26,75,173,357
+2071	BARTKOVÁ Alžbeta r. Šoltýsová		0	23,75,358
+2071	BARTKOVÁ Mária r. Vašková		0	79,81,200,257,359,361,400,425,493,543

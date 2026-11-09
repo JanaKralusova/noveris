@@ -1,0 +1,256 @@
+3154	Dubinova Maria r. Kasalova		1	277,365,666
+3154	Dubinova Maria r. Kasalova, SR		1	621
+3154	Dubinova Pavlina, SR		1	277,365,621,666
+3154	Durcek Bartolomej, SR		1	437,640
+3154	Durcek Jozef st.SPF		1	429
+3154	Durcek Jozef, SR		0	437
+3154	Durcek Jozef, SR	st	1	640
+3154	Durcek Michal		1	320,328
+3154	Durceková Margita		1	152
+3154	Durcekova Margita, SR		1	437,640
+3154	Durmek Anton, SR		1	341,437,640
+3154	Eckert Milan		1	328,437
+3154	Eckert Milan, SR		1	640
+3154	Eckertova Irma		1	328,432,437
+3154	Eckertova Irma, SR		1	640
+3154	Flimel Jan a Margita Flimelová r. Paluchova		1	410
+3154	Flimmel Jozef		1	437
+3154	Flimmel Jozef, SR		1	640
+3154	Floro Anton		0	480
+3154	Floro Anton, SR		1	437,640
+3154	Floro Cyril		1	338,390,437
+3154	Floro Cyril, SR		1	640
+3154	Floro Emil, SR	Frantisek	1	342,437,448,640
+3154	Floro František		1	448
+3154	Floro Gaspar		1	437
+3154	Floro Gaspar, SR		1	640
+3154	Floro Jan	st	1	415
+3154	Floro Jan, SR		0	273,280,349,353,367,397,418,430,437,439,476
+3154	Floro Jan, SR	st	1	640
+3154	Floro Jozef, SR	st	1	437,640
+3154	Floro Pavol, SR		1	437,476,640
+3154	Floro Rudolf, SR		1	273,280,349,353,367,397,418,430,437,439,476,640
+3154	Floro Vaclav		1	342,437,448
+3154	Floro Vaclav, SR		1	640
+3154	Florova Anna r. Bacova		1	469
+3154	Florová Júlia r. Dubinová		0	365
+3154	Florova Magdalena r. Jakabova, SR		0	318,328,331
+3154	Florova Pavlina		1	349
+3154	Florova Stefania, SR		1	342,437,448,640
+3154	Galis Jozef	manž. Angela r. Hubinska	1	296
+3154	Gecova Jolana r. Bacova		1	437
+3154	Gecova Jolana r. Bacova, SR		1	640
+3154	Gecy Frantisek		1	372,599
+3154	Gecyova Jolana		1	372,599
+3154	Geleta Milan, SR		1	640
+3154	Geletova Bozena, SR		1	640
+3154	Gerbel Stefan		1	415,437
+3154	Gerbel Stefan, SR		1	640
+3154	Gerbelova Maria r. Florova		1	415
+3154	Gerbelova Maria r. Galisova		1	296
+3154	Gerbelova Olga ml.		0	415
+3154	Gertler Arnold		1	272,281,344,403,413,437,452
+3154	Gertler Arnold, SR		1	359,640,689
+3154	Gertler Moric		1	272,281,344,403,413,452
+3154	Gertler Moric, SR		1	359,689
+3154	Gertlerova Maria		1	437
+3154	Gertlerova Maria, SR		1	640
+3154	Gieci Jakub, SR		0	328
+3154	Gieciova Terezia r. Kovacikova, SR		0	368,369,414
+3154	Gogora Jozef		1	299,300
+3154	Gogorova Bernardina r. Batorova		1	299,300
+3154	Grot Jakub		1	437,453
+3154	Grot Jakub, SR		1	640
+3154	Grznarova Maria r. Szitarova, SR		1	437,640
+3154	Gunis Adam		1	437
+3154	Gunis Adam, SR		1	640
+3154	Gunis Andrej		1	437
+3154	Gunis Andrej, SR		1	640
+3154	Gunis Antal		1	383
+3154	Gunis Augustin		1	518
+3154	Gunis Bohumil		1	272,344,392,393,437,452
+3154	Gunis Bohumil, SR		1	640
+3154	Gunis Frantisek		0	372
+3154	Gunis Frantisek, SR		0	599
+3154	Gunis Frantisek, SR	st	1	437,640
+3154	Gunis Fridrich		1	272,344,392,393,437,452
+3154	Gunis Fridrich, SR		1	640
+3154	Gunis Jan, SR		0	437
+3154	Gunis Jan, SR	mal., ž. Anna Kováčik	1	640
+3154	Gunis Jan, SR	ml	1	437,640
+3154	Gunis Jozef	dolny	1	437
+3154	Gunis Jozef	ml., Husmajsky	1	437,473
+3154	Gunis Jozef	ml., pavkovy	1	437
+3154	Gunis Jozef	st., Husmajsky	1	282,382,437,474
+3154	Gunis Jozef, s.č. 28, Veľké Chlievany, PSČ 956 55, SR		0	412
+3154	Gunis Jozef, s.č. 28, Veľké Chlievany, PSČ 956 55, SR	ml	0	411
+3154	Gunis Jozef, SR	dolny	1	640
+3154	Gunis Jozef, SR	ml., Husmajsky	1	640
+3154	Gunis Jozef, SR	ml., Pavkovy	1	640
+3154	Gunis Jozef, SR	st., Husmajsky	1	640
+3154	Gunis Justin, SR		1	437,450,640
+3154	Gunis Karol		1	272,344,392,393,437,452
+3154	Gunis Karol, SR		1	640
+3154	Gunis Stefan		1	372,388,441,447,473,599
+3154	Gunisova Adela	ml	1	272,344,392,393,437,452,640
+3154	Gunisova Anna r. Kosikova		1	253,285,287,343,376,418,437,657
+3154	Gunisova Anna r. Kosikova, SR		1	640
+3154	Gunisova Irena r. Sagatova		1	441
+3154	Gunisova Katarina r. Jakabova		1	437
+3154	Gunisova Katarina r. Jakabova, SR		1	640
+3154	Gunisova Magdalena r. Batorova		1	437
+3154	Gunisova Magdalena r. Batorova, SR		1	640
+3154	Gunisova Margita r. Gunisova		1	346
+3154	Heumann Arnold		1	476,477
+3154	Heumann Zigmund		1	476,477
+3154	Hlincik Jan		1	244
+3154	Hudecova Maria		1	432,437
+3154	Hudecova Maria, SR		1	640
+3154	Chabada Michal		1	491
+3154	Chrenkova Emilia r. Loviskova		1	439
+3154	Chrenkova Emilia r. Loviskova, SR		0	284,367
+3154	Igaz Aladar		1	496
+3154	Igaz Alojz		1	275,353,354
+3154	Igaz Anton	ml	1	496
+3154	Igaz Anton, Biskupice 71, Biskupice, PSČ 957 01, SR		0	275,353,354
+3154	Igaz Filip		1	309
+3154	Igaz Imrich		1	508
+3154	Igaz Jan		1	302
+3154	Igaz Jan	american	1	500
+3154	Igaz Jozef		1	242,247,302,333,354
+3154	Igaz Jozef	manž. Helena r. Podmanická	1	496
+3154	Igaz Jozef	manž. Mária	1	502
+3154	Igaz Jozef	manž. Štefánia r. Masariková	1	514
+3154	Igaz Jozef	ml	1	496
+3154	Igaz Jozef	najml	1	507
+3154	Igaz Jozef	nezn	1	495
+3154	Igaz Jozef	st	1	512
+3154	Igaz Jozef, SR		0	353
+3154	Igaz Ondrej		1	299,300,302,333
+3154	Igaz Ondrej	st	1	494
+3154	Igaz Peter		1	242,314
+3154	Igaz Peter	manž.Terezia r. Escherova	1	500
+3154	Igaz Rudolf	manž. Gizela	1	492
+3154	Igaz Simon		1	497
+3154	Igaz Tivadar		1	493
+3154	Igaz Viliam		1	496,517
+3154	Igazova Adela	ml	1	309
+3154	Igazova Anastazia r. Lukacova		1	494
+3154	Igazova Anna r. Dzurikova		0	515
+3154	Igazova Anna r. Igazova		1	274,509
+3154	Igazova Brigita		1	498
+3154	Igazova Emilia	ml	1	309
+3154	Igazova Gizela r. Igazova		1	274,509
+3154	Igazova Jolana		1	498
+3154	Igazova Katarina r. Burzova		1	299,300,302,309,333
+3154	Igazova Margita r. Kasalova		1	516
+3154	Igazova Maria r. Igazova		1	511
+3154	Igazova Stefania r. Kovacikova, SR		0	437
+3154	Igazova Stefania r. Kovacikova, SR	neb. 17.10.1965	1	640
+3154	Igazova Terezia	ml	1	309
+3154	Igazova Terezia r. Hanova		1	497
+3154	Jakubik Jan, SR		1	328,437,640
+3154	Jandak Anton		1	299,300,302,311,333
+3154	Jandakova Albina		1	504
+3154	Jandakova Helena		1	504
+3154	Jandakova Julia r. Bitarovska		1	299,300,302,311,333
+3154	Jandakova Marta		1	504
+3154	Janegová Anna r. Petrejová	Veľké Chlievany 183	1	622
+3154	Janegova Helena r. Petre		1	640
+3154	Janegova Helena r. Petre, SR		0	437
+3154	Jupova Maria r. Tanacova		1	324
+3154	Kackovic Adam		1	302
+3154	Kackovic Jozef		1	299,300,301,302,333
+3154	Kackovicova Anna		1	302
+3154	Kackovicova Maria r. Kralusova		1	299,300,301,302,333
+3154	Kasala Imrich		1	466
+3154	Kasala Jozef		1	302
+3154	Kasala Vojtech		1	506
+3154	Kasalova Anna r. Igazova		1	360,510
+3154	Kasalova Anna r. Igazova, SR		1	275,615
+3154	Kasalova Maria		1	302
+3154	Kaufmann Jozef		1	476
+3154	Khon Adolf		1	437,640
+3154	Kocur Jozef		1	437,640
+3154	Kocur Peter		1	640
+3154	Kocur Peter, SR		0	437
+3154	Kocurova Anna, SR		1	437,640
+3154	Kocurova Antonia		1	437
+3154	Kocurova Antonia, SR		1	640
+3154	Kocurova Katarina		1	437
+3154	Kocurova Katarina, SR		1	640
+3154	Kocurova Maria		1	437
+3154	Kocurova Maria, SR		1	640
+3154	Kocurova Zuzana		1	437
+3154	Kocurova Zuzana, SR		1	640
+3154	Kohn Adolf		1	265,384,453
+3154	Kohn Alexander		1	272,281,344,403,413,452
+3154	Kohn Alexander, SR		1	359,689
+3154	Kohn Arnold		1	281
+3154	Kohn Fammi		1	437
+3154	Kohn Fammi, SR		1	640
+3154	Kohn Miksa		1	272,281,344,359,403,413,437,452,640,689
+3154	Kohnova Aleksandra		1	437,640
+3154	Kohnova Fani r. Kohnova		1	272,281,344,359,403,413,452,689
+3154	Kolovratova Maria		1	640
+3154	Kolovratova Maria, SR		0	437
+3154	Konta Michal		1	318,327,328,329
+3154	Kosik Elemir		1	617,640,737
+3154	Kosik Elemir, SR		0	295,361,386,437,475
+3154	Kosik Jan		1	348,422,457
+3154	Kosik Jan, SR		0	343
+3154	Kosik Jan, SR	st	1	437,640
+3154	Kosik Jozef	ml	1	347,348
+3154	Kosikova Emilia r. Matejcikova		1	295,361,617,737
+3154	Kosikova Filomena r. Zatkova		1	295,475
+3154	Kosikova Irena		1	295,361,437,475,617,640,737
+3154	Kosikova Julia r. Zatkova, Bernolakova, Bánovce nad Bebravou, PSČ 957 01, SR		0	361
+3154	Kosikova Julia r. Zatkova, Bernolakova, Bánovce nad Bebravou, PSČ 957 01, SR SPF		1	295,475
+3154	Kosikova Sidonia		1	295,361,437,475
+3154	Kosikova Sidonia, SR		1	617,640,737
+3154	Kosikova Terezia, SR		1	437,640
+3154	Kotianova Magdalena r. Kovacikova		1	437
+3154	Kotianova Magdalena r. Kovacikova, SR		1	640
+3154	Kovacik Anton		1	269,302,314,317,333,391
+3154	Kovacik Anton, SR		0	256,271,346,356,358,389,479
+3154	Kovacik Anton, SR	st	1	437,640
+3154	Kovacik Bartolomej		1	391,437
+3154	Kovacik Bartolomej, SR		1	640
+3154	Kovacik Frantisek, SR		1	437,640
+3154	Kovacik Jan		1	257,269,271,276,346,349,350,353,356,472
+3154	Kovacik Jan	st	1	403
+3154	Kovacik Jozef	manž. Maria r. Kozinkova	1	437
+3154	Kovacik Jozef	st	1	278,479
+3154	Kovacik Jozef, SR	manž. maria r. Kozinkova	1	640
+3154	Kovacik Ludovit, SR		0	472
+3154	Kovacik Ondrej, SR		1	437,640
+3154	Kovacik Peter, SR		1	437,640
+3154	Kovacik Stefan		1	437
+3154	Kovacik Stefan, SR	st	1	437,640
+3154	Kovacikova Anna r. Bacova, SR		1	437,640
+3154	Kovacikova Anna r. Sitarova		1	454
+3154	Kovacikova Anna r. Zatkova, SR		1	437,640
+3154	Kovacikova Anna, SR		1	276,277,341,365,407,437,483,621,640,666
+3154	Kovacikova Antonia r. Gunisova, SR		1	437,640
+3154	Kovacikova Antonia, SR		0	276,277,341,365,407,483,666
+3154	Kovacikova Antonia, SR	st	1	437,621,640
+3154	Kovacikova Ludvika		1	257,269,271,346,356,437
+3154	Kovacikova Ludvika, SR		1	640
+3154	Kovacikova Maria		0	277
+3154	Kovacikova Maria r. Kosikova		0	437
+3154	Kovacikova Maria r. Kosikova, SR		1	258,368,369,640,655,710,712
+3154	Kovacikova Maria r. Kozinkova		1	437
+3154	Kovacikova Maria r. Kozinkova, SR		1	640
+3154	Kovacikova Maria r. Lukacova		1	437
+3154	Kovacikova Maria r. Lukacova, SR		1	640
+3154	Kovacikova Maria, SR		1	276,341,365,407,437,483,621,640,666
+3154	Kovacikova Stefania		1	425,667
+3154	Kozinka Anton		1	302
+3154	Kozinka Jozef		1	302
+3154	Kozinka Stefan		1	299,300,302,333
+3154	Kozinkova Antonia r. Florova, SR		0	371
+3154	Kozinkova Julia		1	302
+3154	Kozinkova Zuzana		1	302
+3154	Kracmerova Rozalia r. Igazova		1	508
+3154	Krajcova Magdalena, SR		1	437,640
+3154	Kral Vojtech		1	309

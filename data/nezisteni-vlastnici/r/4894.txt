@@ -1,0 +1,256 @@
+2762	CICHÝ Andrej	st.,zomrel	1	4394,4406
+2762	CICHÝ Andrej	zomrel	0	3447
+2762	CICHÝ Andrej	zomrel -	1	3470,4569,4582,4657
+2762	CICHÝ Andrej	zomrel, st. -	1	3470,4569,4582
+2762	CICHÝ Andrej	zomrel, st.-	1	4657
+2762	CICHÝ Andrej, SR	zomrel	0	3284
+2762	CICHÝ Andrej, SR	zomrel, st	0	3286,3426,5560
+2762	CICHÝ František		1	4659
+2762	CICHÝ František	zomrel	1	3447,4394
+2762	CICHÝ František	zomrel -	1	3470,4569,4582,4657
+2762	CICHÝ Ján		1	4659
+2762	CICHÝ Ján	zomrel	1	3447,3448,4394,4395
+2762	CICHÝ Ján	zomrel -	1	3470,4569,4582
+2762	CICHÝ Jozef		1	4659
+2762	CICHÝ Jozef	st.,zomrel	1	4394
+2762	CICHÝ Jozef	zomrel	0	3447
+2762	CICHÝ Jozef	zomrel -	1	3470,4569,4582,4657
+2762	CICHÝ Jozef, SR	ml.,ž.Mária r.Demjanová-	1	4360
+2762	CICHÝ Jozef, SR	st.zomrel	0	3299
+2762	CICHÝ Jozef, SR	zomrel - ž. Mária r. Kiseľová	0	3695,5004
+2762	CICHÝ Štefan		1	4659
+2762	CICHÝ Štefan	st.,zomrel	1	4394,4406
+2762	CICHÝ Štefan	zomrel	0	3447
+2762	CICHÝ Štefan	zomrel -	1	3470,4569,4582,4657
+2762	CICHÝ Štefan	zomrel, st -	1	3470,4582,4657
+2762	CICHÝ Štefan	zomrel, st. -	1	4569
+2762	CICHÝ Štefan, SR	zomrel, st	0	3286,3426,5560
+2762	CICHÝ Vojtech	/zomrel/	0	4569
+2762	CICHÝ Vojtech	zomrel	1	4395
+2762	CICHÝ Vojtech	zomrel -	1	3470,4659
+2762	CICHÝ Vojtech	zomrel-	1	4582,4657
+2762	CICHÝ Vojtech, SR	zomrel	0	3448
+2762	CIMBALA Ján		1	4225
+2762	CIMBALA Michal		1	4225
+2762	CIPRIANOVÁ Mária	r.Lehocká	1	4339
+2762	CIPRIANOVÁ Mária	r.Lehocká, /zomrel/	0	3658
+2762	CS.STAT - ONV -FINANCNY ODBOR		0	4804
+2762	Cyprianová Mária r. Lehocká		0	1291
+2762	ČEPOVÁ Helena		1	3742,4498
+2762	Československý štát		0	4258
+2762	ČIPIŽAK Ján	ž. Mária Jurovská - zomrel - Breznica	1	3685
+2762	ČOBEJ Anton, SR	zomrel	0	3456
+2762	ČOBEJ Ján	/zomrel/ml	0	3512,4567
+2762	ČOBEJ Ján	ml.,zomrel	1	4248
+2762	ČOBEJ Ján	zomrel	0	3440,3860,3861
+2762	ČOBEJ Ján	zomrel -	1	3470,4569,4657,4659
+2762	ČOBEJ Ján	zomrel-	1	4582
+2762	ČOBEJ Ján, SR	zomrel	0	3440
+2762	ČOBEJ Ján, SR	zomrel ml	0	3456
+2762	ČOBEJ Jozef		1	4659
+2762	ČOBEJ Jozef	zomrel	1	4251,5456,5466
+2762	ČOBEJ Jozef	zomrel -	1	3470,4569
+2762	ČOBEJ Jozef	zomrel-	1	4582,4657
+2762	ČOBEJ Jozef, SR	zomrel	0	3460,3465,5455
+2762	ČOBEJ Jozef, SR	zomrel, manž.bola Júlia r.Petrušková	0	3512,4567
+2762	ČOBEJ Štefan		1	4659
+2762	ČOBEJ Štefan	/zomrel/	0	3465,5455
+2762	ČOBEJ Štefan	/zomrel/ st	0	3512,4567
+2762	ČOBEJ Štefan	st.,zomrel	1	4251,5456,5466
+2762	ČOBEJ Štefan	zomrel -	1	3470
+2762	ČOBEJ Štefan	zomrel-	1	4569,4582,4657
+2762	ČOBEJ Štefan, SR	zomrel/ st	0	3456
+2762	ČOBEJOVÁ Anna	r. Vaššová,/zomrel/	0	3659
+2762	ČOBEJOVÁ Júlia		1	4659
+2762	ČOBEJOVÁ Júlia	/zomrel/	0	3465,5455
+2762	ČOBEJOVÁ Júlia	r.Kasardová,zomrela	1	4251,4292,4293,4294,4338,5456,5466
+2762	ČOBEJOVÁ Júlia	zomrel -	1	4569
+2762	ČOBEJOVÁ Júlia	zomrel-	1	4582,4657
+2762	ČOBEJOVÁ Júlia	zomrela -	1	3470
+2762	ČOBEJOVÁ Júlia r. Kasardová		1	4659
+2762	ČOBEJOVÁ Júlia r. Kasardová	zomrela -	1	3470,4569,4582,4657
+2762	ČOBEJOVÁ Júlia r. Kasardová, SR	zomrela	0	3311,3312,3313,3454
+2762	ČOBEJOVÁ Mária	1	1	4240
+2762	ČOBEJOVÁ Mária	r.Kiseľová,zomrela	1	3289,4276,4309,4381,4415,5439,5561
+2762	ČOBEJOVÁ Mária	zomrela	0	3377,3856,5440,5441
+2762	ČOBEJOVÁ Mária	zomrela -	1	3470,4569,4582,4657
+2762	ČOBEJOVÁ Mária	zomrela-	1	4659
+2762	ČOBEJOVÁ Mária r. Kiseľová		1	4659
+2762	ČOBEJOVÁ Mária r. Kiseľová	zomrela -	1	3470,4569,4582,4657
+2762	ČOBEJOVÁ Terezia	/zomrel/	0	3512,4567
+2762	ČOBEJOVÁ Terezia, SR	zomrel	0	3456
+2762	ČONKA Ján	Koloman	1	4202
+2762	ČURILA Andrej		1	3470,4659
+2762	ČURILA Andrej	zomrel	1	4379
+2762	ČURILA Andrej	zomrel -	1	3300,4569
+2762	ČURILA Andrej	zomrel-	1	4582,4657
+2762	ČURILA František		1	4659
+2762	ČURILA František	zomrel	1	3376,4310
+2762	ČURILA František	zomrel -	1	3470,4569,4582,4657
+2762	Čurila Ján		1	4582,4657,4659
+2762	Čurila Ján	zomrel -	1	3470,4569
+2762	ČURILA Ján	st	1	4379
+2762	ČURILA Ján	st.zomrel -	1	3300
+2762	ČURILA Ján	zomrel	1	4377
+2762	ČURILA Ján	zomrel -ž.Prusaková Mária/	1	3470
+2762	ČURILA Ján	zomrel, st. -	1	3470,4569
+2762	ČURILA Ján	zomrel, st.-	1	4582,4657
+2762	ČURILA Ján	ž.Prusaková Mária,zomrel	0	3459
+2762	ČURILA Ján	ž.Prusaková Mária,zomrel -	1	4569,4582,4657
+2762	ČURILA Ján, SR	zomrel,ž.Mária r. Prusáková-	1	4267
+2762	ČURILA Jozef		1	4659
+2762	ČURILA Jozef	st	1	4379
+2762	ČURILA Jozef	st. zomrel -	1	3300
+2762	ČURILA Jozef	zomrel, st. -	1	3470,4569,4582
+2762	ČURILA Jozef	zomrel, st.-	1	4657
+2762	ČURILA Juraj		1	4659
+2762	ČURILA Juraj	/zomrel/	0	4569
+2762	ČURILA Juraj	st	1	4379,4424
+2762	ČURILA Juraj	st.zomrel	1	3308,5199
+2762	ČURILA Juraj	st.zomrel -	1	3300,3308,5199
+2762	ČURILA Juraj	zomrel -	1	3470,4582,4659
+2762	ČURILA Juraj	zomrel-	1	4657
+2762	ČURILA Juraj	zomrel, st. -	1	3300,3470,4569,4582
+2762	ČURILA Juraj	zomrel, st.-	1	4657
+2762	ČURILA Juraj, SR	st.zomrel	0	3307
+2762	ČURILA Juraj, SR	zomrel	0	3320
+2762	ČURILA Štefan		1	4659
+2762	ČURILA Štefan	zomrel	1	4379
+2762	ČURILA Štefan	zomrel -	1	3300,3470,4569
+2762	ČURILA Štefan	zomrel-	1	4582,4657
+2762	ČURILLA František		0	5156
+2762	ČURILOVÁ Angela	r. Belinová,/zomrel/	0	3628,3692
+2762	ČURILOVÁ Júlia		1	4659
+2762	ČURILOVÁ Júlia	r.Čobejová,zomrela	1	4295,4296,4377,5214
+2762	ČURILOVÁ Júlia	zomrela	0	3342
+2762	ČURILOVÁ Júlia	zomrela -	1	3470,4569,4582,4657
+2762	ČURILOVÁ Júlia r. Čobejová		1	4659
+2762	ČURILOVÁ Júlia r. Čobejová	zomrel -	1	4569
+2762	ČURILOVÁ Júlia r. Čobejová	zomrel-	1	4582,4657
+2762	ČURILOVÁ Júlia r. Čobejová	zomrela -	1	3470
+2762	ČURILOVÁ Júlia r. Čobejová, SR	zomrela	0	3301
+2762	ČURILOVÁ Júlia, SR	zomrela	0	3343,4719,4721,5212,5213,5215
+2762	DALEJČIK Anton		1	3417,3470,4569,4582,4657,4659
+2762	DALEJČIK František		1	3417,3470,4569,4582,4657,4659
+2762	DALEJČIK Jozef		1	3417,3470,4569,4582,4657,4659
+2762	DAŇKOVÁ Anna r. Hurná	zomrela Breznica -	1	3767
+2762	DAŇKOVÁ Anna r. Hurná, SR	zomrel - Breznica	0	3750
+2762	Dolutovský Jozef		1	4804
+2762	DOMKOVIČOVÁ Terezia	r.Vrabeľová, /zomrel/	0	4569
+2762	DOMKOVIČOVÁ Terezia r. Vrabeľová	zomrel-	1	4582,4657
+2762	DOMKOVIČOVÁ Terezia r. Vrabeľová	zomrela -	1	3470,4659
+2762	Domkovičová Terézia r. Vrabeľová		1	4370
+2762	DOMKOVIČOVÁ Terezia r. Vrabeľová, SR	zomrel	0	3329
+2762	Dosevič Vojtech		1	4804
+2762	DRESEROVÁ Anna	r. Hecková,zomrel	0	3510,3530
+2762	DRESEROVÁ Anna r. Hecková		1	4659
+2762	DRESEROVÁ Anna r. Hecková	zomrel -	1	4569,4582
+2762	DRESEROVÁ Anna r. Hecková	zomrel-	1	4657
+2762	DRESEROVÁ Anna r. Hecková	zomrela -	1	3470
+2762	DZURKO Ján		1	4383
+2762	DZURKO Jozef		1	4383
+2762	DZURKO Michal		1	4383
+2762	DZURKOVÁ Anna		1	4383
+2762	DZURKOVÁ Anna	r.Hecková,zomrel	0	3422,3510,3530
+2762	DZURKOVÁ Anna r. Hecková		1	4659
+2762	DZURKOVÁ Anna r. Hecková	zomrel -	1	4569,4582
+2762	DZURKOVÁ Anna r. Hecková	zomrel-	1	4657
+2762	DZURKOVÁ Anna r. Hecková	zomrela -	1	3470
+2762	DZURKOVÁ Anna r. Hecková, SR	zomrela	0	3423
+2762	DZURKOVÁ Mária		1	4383
+2762	DŽOPKO Ján		0	3548
+2762	DŽUPIN Ján		1	4332
+2762	DŽUPINA Ján	zomrel - Breznica	1	3752
+2762	DŽUPINA Ján	zomrel Breznica -	1	3767
+2762	DŽUPINOVÁ Mária		1	3767
+2762	DŽUPINOVÁ Mária r. Gornaľová	zomrela - Breznica	1	3752
+2762	FABOKOVÁ Anna	r. Lukačová,zomrela	0	3444
+2762	FABOKOVÁ Anna	r.Lukáčová,zomrela	1	4286,5691
+2762	FABOKOVÁ Anna r. Lukačová	zomrel -	1	3470,4569
+2762	FABOKOVÁ Anna r. Lukačová	zomrel-	1	4657
+2762	FABOKOVÁ Anna r. Lukačová	zomrela -	1	4569,4582,4657
+2762	FABOKOVÁ Anna r. Lukačová	zomrela - SFP	0	3470
+2762	FABOKOVÁ Anna r. Lukačová	zomrela-	1	4582
+2762	Faboková Anna r. Lukáčová		1	4257,4659
+2762	FABOKOVÁ Anna r. Lukačová, SR	zomrela	0	3351
+2762	FEJO Michal		1	4659
+2762	FEJO Michal	zomrel	1	3340,3446,4407
+2762	FEJO Michal	zomrel -	1	3470,4569,4582,4657
+2762	FEJO Michal, SR	zomrel-	1	4259
+2762	Fejová Mária r. Jaškaničová	B - 5	0	1134
+2762	Ferenc Jozef	zomrel	0	3684
+2762	FERENC Jozef	/zomrel/	0	3660,3664,3666,3668,3669,3670,3671,3672,3673,3675,3676,3678,3679,3680,3681,3682,3683
+2762	FERENC Jozef, SR	ž.Mária r.Bahledová-	1	4445
+2762	Ferencová Pavlína	zomrel	0	3684
+2762	FERENCOVÁ Pavlína	/zomrel/	0	3600,3636,3660,3664,3666,3668,3669,3670,3671,3672,3673,3675,3676,3678,3679,3680,3681,3682,3683,4168,4958,4997,5525,5559
+2762	FERENCOVÁ Pavlína	zomrela	1	4453
+2762	FIĽARSKÁ Alžbeta		1	4659
+2762	FIĽARSKÁ Alžbeta	/zomrel/	0	3490,3571
+2762	FIĽARSKÁ Alžbeta	zomrel -	1	4569
+2762	FIĽARSKÁ Alžbeta	zomrel-	1	4582,4657
+2762	FIĽARSKÁ Alžbeta	zomrela	1	4426
+2762	FIĽARSKÁ Alžbeta	zomrela -	1	3470
+2762	FIĽARSKÁ Mária	r.Jaškaničová,/zomrel/	0	3486
+2762	FIĽARSKÝ Jozef		1	4659
+2762	FIĽARSKÝ Jozef	/zomrel/	0	3490,3571
+2762	FIĽARSKÝ Jozef	zomrel	1	4426
+2762	FIĽARSKÝ Jozef	zomrel -	1	3470,4569
+2762	FIĽARSKÝ Jozef	zomrel-	1	4582,4657
+2762	FIĽARSKÝ Ľudovit, SR	zomrel	0	3312
+2762	FILIAČOVÁ Pavlina	r. Briňarská,/zomrel/	0	3497,3498,3499,3500,3501,3502,3503,3505,3506,3603,3639,3640,3641,3654,3655,3656,3657,3975
+2762	FILIAČOVÁ Pavlina	r.Briňarská,zomrela	1	4325,4326,4327,4328,4329,4456
+2762	FILIAČOVÁ Pavlina r. Briňarská		1	4659
+2762	FILIAČOVÁ Pavlina r. Briňarská	zomrel -	1	4569
+2762	FILIAČOVÁ Pavlina r. Briňarská	zomrel-	1	4582
+2762	FILIAČOVÁ Pavlina r. Briňarská	zomrela -	1	3470,3504,4657
+2762	FIĽO Ján	mal.,zomrel	1	4442
+2762	FIĽO Vaclav, SR	zomrel	0	3646
+2762	FLEŠAR Ján		1	4659
+2762	FLEŠAR Ján	zomrel	1	3492,4432
+2762	FLEŠAR Ján	zomrel -	1	3470,4569,4582,4657
+2762	FLEŠAR Ján, SR	zomrel	0	3415
+2762	FLEŠAR Jozef, SR	zomrel	0	3400
+2762	FLEŠÁR Jozef, SR	ž.Anna r.Pariláková-	1	4388
+2762	FLEŠAR Štefan		1	4659
+2762	FLEŠAR Štefan	zomrel -	1	3470,4569
+2762	FLEŠAR Štefan	zomrel-	1	4582,4657
+2762	FLEŠÁR Štefan	zomrel	1	4312
+2762	FLEŠAR Štefan, SR	zomrel	0	3379,5520,5522
+2762	FLEŠAROVÁ Anna		1	4659
+2762	FLEŠAROVÁ Anna	zomrela	1	3403,3862,4428,4723
+2762	FLEŠAROVÁ Anna	zomrela -	1	3470,4569,4582
+2762	FLEŠAROVÁ Anna	zomrela-	1	4657
+2762	FLEŠÁROVÁ Margita	r.Večurkovská	1	4444,4461,4956
+2762	FLEŠAROVÁ Mária		1	4659
+2762	FLEŠAROVÁ Mária	zomrel	0	3492
+2762	FLEŠAROVÁ Mária	zomrel -	1	3470,4569,4582
+2762	FLEŠAROVÁ Mária	zomrel-	1	4657
+2762	FLEŠAROVÁ Mária	zomrela	1	4432
+2762	FLEŠÁROVÁ Mária	r.Príbocká,zomrela	1	4469,4479
+2762	FLEŠAROVÁ Mária, SR	zomrela	0	3415
+2762	FLEŠÁROVÁ Marta		1	4241
+2762	FOSZA ANNA		1	4804
+2762	FRANKOVÁ Mária	r.Žanonyová,/zomrel/	0	3482
+2762	FRANKOVÁ Mária	r.Žanonyová,zomrela	1	4252
+2762	FREIER Chajiman		1	4273,4659
+2762	FREIER Chajiman	neznamy -	1	3470,4569,4582,4657
+2762	FREIER Chajiman, SR	neznamy	0	3279
+2762	FRIDMANN Simeon, SR	m.Ružena r.Grunbannová-	1	4371
+2762	FRIDMANNOVÁ Lida		1	4371
+2762	FUNFROVIČ Jakub	zomrel	1	3718,4469,4848
+2762	FUNFROVIČ Jozef	zomrel	1	3718,4469,4848
+2762	FUNFROVIČ Ladislav	syn Genovefy,zomrel mal	0	3718,4848
+2762	FUNFROVIČ Ladislav	syn Genovevy,zomrel	1	4469
+2762	FUNFROVIČOVÁ Ginga		1	3718,4469,4848
+2762	GAZDA Antol	/zomrel/	0	3676,3682
+2762	Gazda Jozef	zomrel	1	3684,4453
+2762	GAZDA Jozef	/zomrel/	0	3600,3636,3653,3660,3664,3666,3668,3669,3670,3671,3672,3673,3675,3676,3678,3679,3680,3681,3682,3683,4168,4958,4997,5525,5559
+2762	GIBAS Ján		1	3348,3601,4444,4461,4581,4956,5133,5434
+2762	GIBAS Vladislav		1	3348,3601,4444,4461,4581,4956,5133,5434
+2762	GIBASOVÁ Helena		1	3348,3601,4444,4461,4581,4956,5133,5434
+2762	GIBASOVÁ Mária		1	3348,3601,4444,4461,4581,4956,5133,5434
+2762	GLINSKÁ Anna	r. Solenská,/zomrel/	0	3574
+2762	GLINSKÁ Anna r. Solenská		1	4659
+2762	GLINSKÁ Anna r. Solenská	zomrel-	1	4582
+2762	GLINSKÁ Anna r. Solenská	zomrela -	1	3470,4569,4657
+2762	GLINSKÁ Mária	/zomrel/	0	4569

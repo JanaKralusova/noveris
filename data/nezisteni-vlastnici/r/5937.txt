@@ -1,0 +1,256 @@
+3339	HALAS Juraj, SR	ž. Alžbeta Krivdová	1	352,414,422,427,428
+3339	HALAS Juraj, SR	ž. Alžbeta Krivdová,1	1	402
+3339	HALAS Michal	zomrel	0	278
+3339	HALAS Michal	ž. Mária r. Metylová	0	307
+3339	HALAS Michal, SR	zomrel	1	414,428
+3339	HALAS Pavol, SR	syn Pavla	1	3,403,487
+3339	HALÁS Pavol, SR	nezl	1	3,403,487
+3339	HALAS Vasiľ		0	251,301
+3339	HALASOVÁ Anna		0	353,354
+3339	HALASOVÁ Anna	r. Mormákova	1	3,487
+3339	HALASOVÁ Anna r. Juročková	zomrela	0	351
+3339	HALASOVÁ Anna r. Juročková, SR	zom	1	427
+3339	HALASOVÁ Anna r. Juročková, SR	zomrela	1	352,401,422
+3339	HALASOVÁ Anna r. Mormaková		1	351,352,401,403,414,422,427,428
+3339	HALASOVÁ Anna, SR	dcéra Jána, mal	1	3,403,487
+3339	HALASOVÁ Helena		0	227
+3339	HALASOVÁ Helena	r. Sopková	1	3,487
+3339	HALASOVÁ Helena r. Sopková		1	403
+3339	HALASOVÁ Helena r. Sopková	2 zomrela	0	351
+3339	HALASOVÁ Helena r. Sopková	2., zomrela	0	247
+3339	HALASOVÁ Helena r. Sopková, SR	zomrela	1	236,401,411,414,428
+3339	HALASOVÁ Mária	r. Pasternaková	1	3,487
+3339	HALASOVÁ Mária r. Hajduková		1	227,351,352,401,414,422,427,428
+3339	HALASOVÁ Mária r. Macejová		0	251,301
+3339	HALASOVÁ Mária r. Metiľová, SR	0	1	403
+3339	HALASOVÁ Mária r. Metylová, SR	0	1	352,401,414,422,427,428,429
+3339	HALASOVÁ Mária r. Pasternáková		1	227,251,255,301,310,318,351,353,354,356,399,401,403,414,428
+3339	HARVANOVÁ Alžbeta r. Sopková		0	275
+3339	HERMANOVÁ Mina r. Mandelová		1	352,422,427
+3339	HIBALOVÁ Anna r. Hudáková, 09407, Nižná Sitnica, SR		1	352,420,422,427
+3339	HOJAS Andrej	zomrel	0	251,301
+3339	HOJAS Juraj	neznámy pobyt	0	227
+3339	HOJAS Juraj, SR	neznámy pobyt	1	414,428
+3339	HOJAS Štefan	neznámy pobyt	0	251,289,301
+3339	HOJAS Štefan, SR	neznamy pobyt	1	420
+3339	HOJASOVÁ Anna r. Turčíková		0	268
+3339	HOJASOVÁ Mária	mal	0	301
+3339	HOJASOVÁ Mária	zomrela	0	251,289,301
+3339	HOJASOVÁ Mária, SR	zomrela	1	420
+3339	HOJASOVÁ Terézia	zom	0	227,251,301
+3339	HOJASOVÁ Terézia	zomrela	0	241,351
+3339	HOJASOVÁ Terézia, SR	zomrela	1	401,414,428
+3339	HOLPOVÁ Mária r. Hudáková		1	251,289,301,352,420,422,427
+3339	HOMYOVÁ Anna	r. Sopková	1	3,487
+3339	HOMYOVÁ Anna r. Sopková		1	403
+3339	HOMZA Jozef		0	305
+3339	HOMZA Juraj	zomrel	0	251,301
+3339	HOMZA Michal	zomrel	0	251,271,301,305
+3339	HOMZOVÁ Anna	mal.,mrela	0	271
+3339	HOMZOVÁ Anna	mal.,zomrela	0	305
+3339	HOMZOVÁ Anna r. Sopková	zom	0	275
+3339	HOMZOVÁ Anna r. Sopková	zomrela	0	227
+3339	HOMZOVÁ Mária	zomrela	0	271,301,355
+3339	HRABOVČINOVÁ Helena r. Mormáková		1	3,227,267,352,401,403,407,414,422,427,428,487
+3339	HRABOVČÍNOVÁ Helena r. Mormaková, SR		0	351
+3339	HUBAL Michal, 09408, Prituľany, SR		1	352,401,414,422,427,428
+3339	HUDÁK Ján	3	1	352
+3339	HUDÁK Ján	nez.pobyt	1	422
+3339	HUDÁK Ján	neznámy pobyt	1	251,289,301,351,401,427
+3339	HUDÁK Ján	neznámy pobyt,3	1	420
+3339	HUDÁK Jozef	zom	0	251
+3339	HUDÁK Jozef	zomrel	0	351
+3339	HUDÁK Jozef, SR	zomrel	1	401,403
+3339	HUDÁK Michal		1	351,401
+3339	HUDÁK Pavol		1	227,251,289,301,352,414,420,422,427,428
+3339	HUDÁKOVÁ Anna r. Sopková		1	247,275,277,351,352,401,411,422,427
+3339	IVANISKA Michal, SR	0	1	3,403,487
+3339	IVANISKO Michal	zom	0	240
+3339	IVANISKO Michal	zomrel	0	227,309,351
+3339	IVANISKO Michal, SR	zom	1	352
+3339	IVANISKO Michal, SR	zomrel	1	401,414,415,422,427,428
+3339	JAKUBOVIČ Markuš, SR	mal	1	352,422,427
+3339	JAKUBOVIČ Michal		1	352,422,427
+3339	JAKUBOVIČOVÁ Alžbeta r. Mandelová		1	352,422,427
+3339	JAKUBOVIČOVÁ Etela, SR	vzd	1	352,422,427
+3339	JAKUBOVIČOVÁ Fany		1	352,422,427
+3339	JAKUBOVIČOVÁ Mária		1	352,422,427
+3339	KAČMÁR Ján	Cuprík	0	227,251,255,275,301,310,351,356
+3339	KAČMÁR Ján, SR	CUPRÍK	1	399,401,414,428,429
+3339	KAČMAR Michal		1	402
+3339	KAČMÁR Michal	zomrel	0	353,354
+3339	KAČMÁR Štefan		1	227,351,401,414,428
+3339	KAČMÁR Štefan	ž. Helena r. Hojasová	0	227,351
+3339	KAČMÁR Štefan r. Hojasová		1	401,414,428
+3339	KAČMÁR Štefan, SR	01	1	3,403,487
+3339	KAČMÁR Štefan, SR	ž. Helena Hojasová	1	3,403,487
+3339	KAČMÁR-ŠVIGÁR Štefan, SR	neznámy pobyt	1	352,422,427
+3339	KAČMAROVÁ Anna	r. Hojasová	1	3,487
+3339	KAČMAROVÁ Anna r. Halasová, SR	zom.2.11.1999	0	414
+3339	KAČMAROVÁ Anna r. Halasová, SR	zomrela 2.11.1999	0	422
+3339	KAČMAROVÁ Anna r. Hojasová		1	403
+3339	KAČMAROVÁ Anna r. Hojasová, SR	0	1	3,403,487
+3339	KAČMÁROVÁ Hana r. Medveďová		0	275
+3339	KAČMAROVÁ Helena	r. Medvedová	1	3,487
+3339	KAČMAROVÁ Helena r. Medvedová		1	352,403,422,427
+3339	KAČMÁROVÁ Helena r. Medveďová	zom	0	247
+3339	KAČMÁROVÁ Helena r. Medveďová	zomrela	0	227,351,353,354
+3339	KAČMÁROVÁ Helena r. Medveďová, SR	zomrela	1	401,411,414,428
+3339	KAČMÁROVÁ Iľa r. Medvecová		1	402
+3339	KAČMÁROVÁ Mária		1	352,422,427
+3339	KAČMAROVÁ Mária r. Cenknerová		1	429
+3339	KAČMÁROVÁ Zuzana	zomrel	0	227
+3339	KAČMÁROVÁ Zuzana	zomrela	0	351
+3339	KAČMÁROVÁ Zuzana, SR	zomrel	1	3,428,487
+3339	KAČMÁROVÁ Zuzana, SR	zomrela	1	401,403,414
+3339	KAMIŠÁKOVÁ Mária		0	241,251,301
+3339	KAMIŠÁKOVÁ Mária r. Džubarová		0	241,251,301
+3339	KANDUR Andrej		0	251,301
+3339	KANDUR Ján		1	271,305,306,351,401,403
+3339	KANDUR Ján, SR		1	3,487
+3339	KANDUR Jozef	zomrel	0	306
+3339	KANDUR Juraj		1	227,305,352,414,422,427,428
+3339	KANDUR Pavol		1	227,251,301,351,352,355,401,414,422,427,428
+3339	KANDUR Štefan		0	251,301
+3339	KANDURA Ján, SR	01	1	3,403,487
+3339	KANDURA Ján, SR	1	1	3,487
+3339	KANDURA Ján, SR	14	1	403
+3339	KANDURA Jozef, SR	1	1	3,403,487
+3339	KANDUROVÁ Anna		0	227,271,351,355
+3339	KANDUROVÁ Anna r. Boháčová, SR	1	1	244,306,351,401
+3339	KANDUROVÁ Anna r. Boháčová, SR	2	1	227,352,401,414,422,427,428
+3339	KANDUROVÁ Anna, SR	1	1	3,403,487
+3339	KANDUROVÁ Helena r. Halajová		0	353,354
+3339	KANDUROVÁ Mária r. Smolejová		0	235,251,301
+3339	KANDUROVÁ Terézia	r. Sopková	1	3,487
+3339	KANDUROVÁ Terézia r. Sopková		1	403
+3339	KANDUROVÁ Terézia r. Sopková	zom	0	247
+3339	KANDUROVÁ Terézia r. Sopková	zomrela	0	275
+3339	KANDUROVÁ Terézia r. Sopková, SR	zomrela	1	236,411
+3339	KLOČANINOVÁ Anna r. Turčíková		0	251,301
+3339	KOSŤ Ján	mal	0	351
+3339	KOSŤ Ján r. Kosť, 09406, Košarovce, SR	1	1	414
+3339	KOSŤ Ján, 09406, Košarovce, SR		1	428
+3339	KOSŤ Ján, SR	mal	1	3,401,403,487
+3339	KOSŤ Ján, SR	ž. Anna Halasová, zomrel	1	352,422
+3339	KOSŤ Ján, SR	ž. Anna Halasová,zomrel	1	427
+3339	KOSŤ Jozef, SR	1	1	3,403,487
+3339	KOSŤ Juraj		0	257,307,351
+3339	KOSŤ Juraj	mal	0	227,257
+3339	KOSŤ Juraj, SR	1	1	3,403,487
+3339	KOSŤ Juraj, SR	maloletý	1	401,414,428
+3339	KOSŤOVÁ Anna	mal. zomrela	0	257
+3339	KOSŤOVÁ Mária	mal	0	257
+3339	KRAJNÍKOVÁ Mária r. Macejová		0	251,301
+3339	KRAK Ján, SR	2	0	251,301
+3339	KRAK Ján, SR	syn Jána ,0	1	487
+3339	Krak Juraj	syn Jána 0; syn Jána 0	1	3
+3339	KRAK Juraj, SR		1	428
+3339	KRAK Juraj, SR	syn Jána	1	401,414,415,416
+3339	KRAK Juraj, SR	syn Jána ,0	1	403
+3339	KRAK Michal		1	231,416
+3339	KRAKOVÁ Mária r. Boháčová	zom	0	244
+3339	KRAKOVÁ Mária r. Boháčová	zomrela	0	306
+3339	KRAKOVÁ Zuzana	zomrela	0	354
+3339	KRAKOVÁ Zuzana r. Šmajdová		1	269,402
+3339	LEPEJOVÁ Helena r. Pasternáková		0	251,301,356
+3339	LUKÁČ Ján, SR	zom	0	357
+3339	LUKÁČ Michal, SR	zom	0	357
+3339	MACKOVÁ - HAJASOVÁ Anna r. Turčíková, SR	vd	1	352,422,427
+3339	MACKOVÁ - HASAJOVÁ Anna r. Turčíková, SR	vd	1	401
+3339	MACKOVÁ -HAJASOVÁ Anna r. Turčíková, SR	vd	0	251
+3339	MACKOVÁ Anna r. Turčíková	Ivanisková	0	251,301,307
+3339	MACKOVÁ Anna r. Turčíková, 09408, Prituľany, SR		1	415
+3339	MACKOVÁ-HAJASOVÁ Anna r. Turčíková	vd	0	301
+3339	MACKOVÁ-HAJASOVÁ Anna r. Turčíková, SR	vd	0	251,307,351
+3339	MALÁKOVÁ Anna r. Kosťová		1	403
+3339	MALÁKOVÁ Anna r. Kosťová, SR		1	3,487
+3339	MANDEL Jakub		1	352,422,427
+3339	MANDELOVÁ Estera		1	352,422,427
+3339	MANDELOVÁ Františka, SR	dcéra Elisera	1	352,422,427
+3339	MARKOVIČ Alexander		1	236,411
+3339	MARMÁK Mikuláš, SR	ž. Zuzana Halásová	1	402
+3339	MAŽJEŠIK Jozef, SR	0	1	3,403,487
+3339	MAŽJEŠIKOVÁ Anna r. Šikulová		1	403
+3339	MAŽJEŠIKOVÁ Anna r. Šikulová, SR		1	3,487
+3339	MEJ Ján, SR	ž. Mária Hibolová	1	402
+3339	METYĽ Andrej	zomrel	1	227,351,422
+3339	METYĽ Andrej, SR	zom	1	352
+3339	METYĽ Andrej, SR	zomrel	1	401,414,427,428
+3339	METYĽ Ján	ž. Mária r. Sopková zomrel	0	227,251,252,266,301,351
+3339	METYL Ján, SR	ž. Mária Sopková	1	3,403,487
+3339	METYĽ Ján, SR	ž. Mária Sopková, zomrel	1	414
+3339	METYĽ Ján, SR	ž. Mária Sopková,zomrel	1	401,428
+3339	METYĽ Pavol	zomrel	0	227,351
+3339	METYĽ Pavol, SR	zomrel	1	352,401,414,422,427,428
+3339	Metyľ Vasiľ	zomrel	0	227,351
+3339	METYĽ Vasiľ, SR	zomrel	1	352,401,414,422,427,428
+3339	METYĽOVÁ Anna r. Gombitová	m.Michal, zom	0	357
+3339	METYĽOVÁ Helena r. Rakarová		0	248,251,301
+3339	METYĽOVÁ Helena r. Rakárová	zomrela	0	251,301
+3339	METYĽOVÁ Helena r. Sopková	zomrela	0	315
+3339	METYĽOVÁ Helena r. Sopková, SR	zomrela	1	352,422,427
+3339	METYĽOVÁ Mária r. Sopková	zom	0	248,301
+3339	METYĽOVÁ Mária r. Sopková	zomrela	0	251
+3339	MIŠAJKOVÁ Anna, SR	mal	1	407
+3339	MIŠAJKOVÁ Mária, SR	mal	1	407
+3339	MORMAK Ján	ž. Mária r. Kvartová ,zomrel	0	301
+3339	MORMÁK Ján	ž. Mária r. Kvartová zomrel	0	251
+3339	MORMAK Jozef	ž. Helena r. Kižáková	0	276,353,354
+3339	MORMAK Mikuláš		1	247,275,411
+3339	MORMÁKOVÁ Mária	r. Švigárova	1	3,487
+3339	MORMÁKOVÁ Mária r. Švigárova		1	403
+3339	MOŽJEŠÍK Jozef, SR	0	1	400
+3339	MOŽJEŠÍKOVÁ Anna	r. Šikulová	1	400
+3339	PALČÁKOVÁ Alžbeta	r. Turčíkova	1	3,487
+3339	PALČÁKOVÁ Alžbeta r. Turčíkova		1	403
+3339	PALŠÁK Juraj		1	137,269
+3339	PALŠÁK Marton		0	251,301
+3339	PALŠÁKOVÁ Alžbeta r. Turčíková		1	227,351,352,401,414,422,427,428
+3339	PASERNÁKOVÁ Alžbeta r. Kraková		0	301
+3339	PASTERNÁK Ján		0	227,419
+3339	PASTERŇÁK Ján r. Pasterňák		0	251,297,300,301,350,351,380,467
+3339	PASTERNÁK Ján, SR	01	1	399
+3339	PASTERNÁK Ján, SR	1	1	3,356,399,402,403,487
+3339	PASTERŇÁK Jozef	mal	0	251,351
+3339	PASTERNÁK Jozef, SR	syn Jozefa,0	1	3,399,487
+3339	PASTERNÁK Jozef, SR	ž. Alžbeta Rakarová	1	3,403,487
+3339	PASTERŇÁK Jozef, SR	maloletý	1	401
+3339	PASTERNÁK Juraj		1	227,251,301,351,401
+3339	PASTERNÁK Juraj, SR	01	1	399
+3339	PASTERNÁK Juraj, SR	1	1	3,137,487
+3339	PASTERNÁK Juraj, SR	syn Jozefa, zomrel	1	414,428,429
+3339	PASTERNÁK Michal	ml. syn Michala zomrel	0	255
+3339	PASTERNÁK Michal	st. zomrel	0	255
+3339	PASTERNÁK Michal	syn Michala	0	227,310,351
+3339	PASTERNÁK Michal, SR	1	1	227,251,301,351,356,399,401,414,428
+3339	PASTERNÁK Michal, SR	2	0	310,356
+3339	PASTERNÁK Michal, SR	mladší ,syn Michala, zomrel	1	401
+3339	PASTERNÁK Michal, SR	mladší ,syn Michala,zomrel	1	414,428
+3339	PASTERNÁK Michal, SR	mladší, syn Michala, zomrel	1	352
+3339	PASTERNÁK Michal, SR	mladší,syn Michala, zomrel	1	422,427,429
+3339	PASTERNÁK Michal, SR	st. ,zom	1	427
+3339	PASTERNÁK Michal, SR	st., zomrel	1	352
+3339	PASTERNÁK Michal, SR	st.,zomrel	1	422,429
+3339	PASTERNÁK Michal, SR	syn Michala ,0	1	403
+3339	PASTERNÁK Michal, SR	syn Michala, 0	1	3,487
+3339	PASTERNÁK Michal, SR	syn Michala,0	1	399
+3339	PASTERNÁK Štefan	ž. Alžbeta r. Gombitová	0	255
+3339	PASTERNÁK Štefan, SR	ž. Alžbeta Gombitová,0	1	399
+3339	PASTERNÁK Štefan, SR	ž.Alžbeta Gombitová	1	3,403,429,487
+3339	PASTERNÁKOVÁ Alžbeta r. Kraková		0	241,251
+3339	PASTERNÁKOVÁ Alžbeta r. Paulíková	zom	0	251,301
+3339	PASTERNÁKOVÁ Alžbeta r. Paulíková	zomrela	0	227,255,310,351
+3339	PASTERNÁKOVÁ Alžbeta r. Paulíková, SR	zomrela	1	352,399,401,414,422,427,428,429
+3339	PASTERNÁKOVÁ Helena r. Lepejová		1	255,310,399,429
+3339	PASTERNÁKOVÁ Mária r. Kandurová		0	227,351,355
+3339	PASTERNÁKOVÁ Mária r. Kandurová, SR	0	1	352,401,414,422,427,428,429
+3339	PASTERNÁKOVÁ Mária r. Kraková, SR	1	1	137
+3339	PASTERNÁKOVÁ Mária r. Packová		0	255
+3339	POHÁK Juraj		0	317
+3339	PUŠKÁROVÁ Mária r. Džubarová, SR	1	0	313,314
+3339	PUŠKÁROVÁ Mária r. Džubarová, SR	2	0	253
+3339	RAKÁR Ján		1	227,351,352,401,414,422,427,428
+3339	RAKÁR Ján	ž. Anna r. Džubárová	0	248,251,301
+3339	RAKÁR Juraj		0	248,251,301
+3339	RAKÁROVÁ Zuzana		0	248,251,301

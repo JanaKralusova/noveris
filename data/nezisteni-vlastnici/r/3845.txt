@@ -1,0 +1,256 @@
+2202	Kulizák Michal		0	612,620,623,712,765,1009,1192
+2202	Kulizák Štefan		0	709
+2202	Kulizák Viktor		0	614,1009
+2202	Kulizáková Alžbeta		0	612,712,765,1192
+2202	Kulizáková Anna		0	612,712,765,1192
+2202	Kuzár Anton		0	769
+2202	Kuzár František		0	612,620,623,712,1009,1192
+2202	Kuzár Ján		0	769,844,850,859,866,874
+2202	Kuzár Jozef		0	612,620,623,709,712,844,859,866,1009,1192
+2202	Kuzár Klement		0	866
+2202	Kuzár Lukáč		0	709
+2202	Kuzár Pavol		0	769
+2202	Kuzár Peter		0	770
+2202	Kuzár Tomáš		0	769
+2202	Kuzárová Alžbeta		0	844,859
+2202	Kuzárová Anna		0	769
+2202	Kuzárová Mária		0	770
+2202	Kuzárová Paulína		0	770
+2202	Lorenzová Júlia r. Imrichová		0	618,682,776,786,845,848,859,868,875,879,1052,1184
+2202	Mošoň František		0	821,893,895,1006,1116,1179
+2202	Mošoň Ján		0	821,893,895,1006,1116,1179
+2202	Mošoň Štefan		0	893,1006,1116,1179
+2202	Pajonk Martin		0	821,823,890,891,892,1133,1134
+2202	Pajonková Anna		0	890,891
+2202	Pajonková Anna r. Polačeková		0	892
+2202	Pajonková Kristína r. Dlugošová		0	902,920
+2202	Pivovar František		0	709
+2202	Pivovarová Mária r. Majchrovičová		0	627
+2202	Pivovarská Mária r. Majchrovičová		0	627
+2202	Plocker Štefan		0	886
+2202	Plockerová Katarína r. Hutníková		0	612,619,712,821,838,840,841,886,1009,1192
+2202	Pokrivčáková Rozália		0	785
+2202	Polaček František		0	821,889
+2202	Polanský František		0	618,682,709,1184
+2202	Rusiňák František		0	612,682,712,845,859,868,875,879,1009,1052,1184,1192
+2202	Rusiňáková Roza		0	682,1184
+2202	Rybická Anna		0	968,969
+2202	Rybická Mária		0	968,969
+2202	Rybický Ján		0	967
+2202	Rybický Štefan		0	968,969
+2202	Sfaldová Anna r. Skalňáková		0	620,623
+2202	Schich Emil, Dr.		0	668,672,680,712,1066,1113,1119
+2202	Schreiber Frida		0	786,866
+2202	Schreiber Hermann		0	786,866
+2202	Schreiber Simon		0	786,866
+2202	Sikorská Mária		0	931,965,970,1103
+2202	Sikorský Ján		0	965,1103
+2202	Sikorský Michal		0	931,965,970,1103
+2202	Sikorský Štefan		0	931,965,970,1103
+2202	Sikorský Vojtech		0	931,965,970,1103
+2202	Skalňák Peter		0	612,615,620,623,712,969,1009,1090,1192
+2202	Skalňáková Anna		0	969
+2202	Skalňáková Antónia		0	620,623
+2202	Skalňáková Františka		0	769
+2202	Skalňáková Irena		0	630,631,712
+2202	Skalňáková Mária		0	612,712,873,1009,1192
+2202	Skalňáková Žofia		0	969
+2202	Skalniaková - Kresovsky Františka		0	773
+2202	Skalník Peter		0	616
+2202	Ščurka Štefan		0	638,640,651,712
+2202	Ščurka Tobiaš		0	638,640,651,712,1059
+2202	Ščurková Katarína r. Balážová		0	666,680,691,712,1080,1081,1084,1085,1113,1119,1149,1187
+2202	Ščurková Mária		0	638,640,651,712
+2202	Šmida Jozef		0	855
+2202	Šmida Pavol		0	857,858
+2202	Šmida Štefan		0	709,841
+2202	Tatkovská Sabina		0	671,698,707
+2202	Tirpáková Katarína		0	845,859,868,870,873,875,879,1052
+2202	Toček Ján		0	709
+2202	Točeková Alžbeta r. Skalňáková		0	681
+2202	Vojcechovský Ignác		0	895
+2202	Vojčechovská - Žolnierčík Helena		0	712
+2202	Vojčechovský - Žolnierčík Ján		0	712
+2202	Vojčechovský - Žolnierčík Jaroslav		0	712
+2202	Weitz Pepi r. Schreiber	m Hermann	0	786,866
+2202	Žemba Jozef		0	660,709,841
+2202	Žemba Pavol		0	686,1066
+2202	Živčák František		0	612,682,709,712,841,845,859,868,873,875,1009,1052,1184,1192
+2202	Živčaková Eva r. Imrichová		0	221
+2203	Bača Alžbeta r. Kapinaji		0	198
+2203	Bebe Emma r. Berkiová	m.Karol	0	82
+2203	Benyus Jozef	m.Izsméra r.Pocosová	0	71,204,305
+2203	Bolyosová Mária r. Gyorgyová	m.Vojtech	0	71,204,305
+2203	Brindza Ondrej	m.Zuzana r.Kapinajiová , Boľkovce	0	364
+2203	Brindzová Zuzana r. Kapinajiová	m.Ondrej, Boľkovce	0	364
+2203	Demecs František	m.Mária r.Nagyová	0	350
+2203	Demök Gejza		0	203
+2203	Domková Margita		0	173
+2203	Farkasová Anna	maloletá	0	71,204,305
+2203	FARKAŠOVÁ Anna		0	326,386
+2203	Fazekasová Mária r. Lokeová	m.Juraj	0	71,204,305
+2203	FERENCZ Samuel		0	326,386
+2203	Horváthová Helena r. Berkiová	m.Jozef	0	82
+2203	Kapinaji Mária		0	198
+2203	Karcag Andrej	m.Mária r.Rákosová	0	71,204,305
+2203	KARCZAG LAJOS		0	193
+2203	Karczagová Anna	m. Ľudovít	0	386
+2203	Karczagová Anna	m.Ľudovít	0	326
+2203	Kelemen Imrich	m.Gizela r.Bolyosová	0	71,204,305
+2203	Kelemenová Anna		0	189
+2203	Kelemenová Estera r. Sosová	m.Anton	0	71,204,305
+2203	Kelemenová Gizela r. Bolyosová	m.Imrich	0	71,204,305
+2203	Kollár Alexander	Kohn	0	117,329,360
+2203	Kovács Jozef		0	193
+2203	Lőkeová Alžbeta r. Vargová	m.Ľudovít	0	173
+2203	Német Štefan	m.Esztera r.Jankovszká	0	343
+2203	Németová Esztera r. Jankovszká	m.Štefan	0	343
+2203	Ráczová Margita r. Berkiová	m.Edmund	0	82
+2203	Resutiková Mária r. Mihalcsák		0	186,387,424
+2203	Secskárová Anna r. Mihalcsák		0	186,387,424
+2203	Seidlová Emilia r. Berkiová	m.Anton	0	82
+2203	Soósová Elena r. Lokeová	ml., m.Jozef	0	71,204
+2203	Soósová Elena r. Lokeová	ml., m.Jozef ml., m.Jozef	0	305
+2203	Teleková Mária r. Farkasová	m.Ľudovít	0	121,309,328
+2203	Tóthová Terézia r. Mihalcsák		0	186,387,424
+2203	Varga Gejza	m.Mária r.Kelemenová	0	121,327
+2204	ANDREJČÍK Juraj	ž. Mária r.Diaková, Bežovce	1	303
+2204	ANDREJČÍKOVÁ Mária	r.Diaková	1	303
+2204	BALI - JENČÍKOVÁ Mária r. Hitešová, ZÁHOR, SR		1	343
+2204	BALI - MICOVÁ Zuzana r. Jovsayová, SR		1	344
+2204	Bali Jenčíková Mária r. Bali Furerová, PSČ 072 53, Záhor, č. 128, SR		0	342
+2204	BALOGOVÁ Mária r. Štundová	muž František	1	449
+2204	BEĽANSKÁ Mária r. Človečková, Lekárovce, SR		1	372
+2204	BERKOVIČOVÁ Malvina		1	245
+2204	BILIČKA Ján, SR	ž.Zuzana r.Tóthová	1	146
+2204	BOVSAI Elek	syn Mikloša	1	234
+2204	BOVSAI Gejza	syn Mikloša	1	234
+2204	BOVSAI Gejza, SR	syn Mikloša	1	360,362
+2204	BOVSAI Jozef	syn Mikloša	1	234
+2204	BOVSAI Mikloš	syn Mikloša	1	234
+2204	ČATARIOVÁ Anna r. Vargová, Lekárovce, SR	m.Michal	1	236
+2204	ČERMAK Július, Záhor, SR		1	359
+2204	ČERMAK Juraj, SR	ž.Barbora r.Semáčová	1	392
+2204	ČERMAKOVÁ Barbora	r.Papčaková	1	359
+2204	DANKOVČIK Ján	ž. Verona r. Kotková	1	256
+2204	DUNDOVÁ Mária r. Szučová, SR	Lekárovce	1	383
+2204	FEDOR Michal, SR	ž.Anna	1	446
+2204	FELŠOCI Michal	ž. Zuzana, r. Kraliková, Lekárovce	1	223
+2204	FETERIKOVÁ Barbora r. Sninská, Lekárovce, SR	m.Ján	1	373
+2204	Gáborová Veronika r. Pappová	m.Ján	1	357
+2204	GODOR Michal, SR	ž.Zuzana r.Kovačová	1	306
+2204	Granat Juraj, SR	ž.Anna r.Tothová	1	272
+2204	GRANAT PETRO Ján	Kanada	1	29
+2204	GRANAT PETRO Ján, SR	Kanada	1	444
+2204	GRECKOVÁ Alžbeta r. Miľová, SR	m.Pavol	1	263
+2204	GRIBOVÁ Alžbeta r. Vetrecinová	vd, m. Michal	1	371
+2204	HAJSAKOVÁ Mária r. Fedorová, SR	m.Michal	1	311,498
+2204	HORŇAK Michal, Záhor, SR		1	348,358
+2204	HORŇAKOVÁ Barbora	r.Kipillová	1	331
+2204	HORŇAKOVÁ Mária r. Tarhovická, Záhor, SR		1	348,358
+2204	HOSTOVIČAKOVÁ Verona	r.Mesarošová	1	436,437
+2204	HRABIKOVÁ Mária r. Kenderešová	vdova	1	335
+2204	HREŠOVÁ Anna r. Korpová, SR	m.Michal	1	240
+2204	KALŇANSKÁ Anna, SR	matka r. Horňaková	1	297
+2204	KIMAK Michal		1	363
+2204	KIMAKOVÁ Zuzana	r.Tkačová	1	146,363
+2204	KNAPOVÁ Mária	r.Miľová	1	263
+2204	KORPA - KUCHAROVÁ Mária r. Balažová, SR		1	351
+2204	KORPOVÁ Anna r. Sabová, Záhor, SR		1	397
+2204	KOVÁČ Ján	matka Anna Jurková	1	461
+2204	KOVÁČ Juraj	ž.Barbora r.Čermáková	1	461
+2204	KOVAČ Juraj, Záhor, SR		1	349
+2204	KOVÁČ Štefan	matka Anna Jurková	1	461
+2204	KOVAČ Štefan, SR	matka Zuzana r.Sabová	1	167
+2204	KOVAČOVÁ Anna r. Korpa Feketová, Záhor, SR		1	349
+2204	KRUPA Michal, Revúca, SR		1	175,235,268,403,442,488
+2204	KRUPOVÁ Mária, SR	matka Barbora Sabo Maťašová	1	442
+2204	KRUPPOVÁ Mária	dcéra Barbory	1	175
+2204	KRUPPOVÁ Mária, SR	dcéra Barbory	1	403
+2204	KURCIK Ján, SR	ž.Anna r.Sidorová	1	166
+2204	LABIK Ján		1	354
+2204	LEFKOVIČ Herman, SR	ž.Sali r.Keslerová	1	308
+2204	LOVAS Michal, Bežovce, SR		1	292
+2204	LOVASOVÁ Anna	r.Sabovčiková	1	292
+2204	LOŽINČAKOVÁ Zuzana r. Rakošiová, SR	m.Pavol	1	220,497
+2204	MIĽAKOVÁ Mária r. Semačová, SR	m.Juraj	1	254
+2204	MIĽO František, SR	syn Michala	1	263
+2204	MIĽO Ján, SR	syn Pavla	1	263
+2204	MIĽO Michal, SR	ž.Alžbeta r.Dankovčiková	1	263
+2204	MIĽO Štefan, SR	ž.Mária r.Vetrecinová	1	263
+2204	MIĽOVÁ Zuzana r. Dankovčiková, SR	matka Alžbeta r. Dankovčiková	1	263
+2204	MOROVSKÁ Mária r. Kraliková, Lekárovce, SR		1	332
+2204	PALLAI PAL Michal, SR	ž.Anna r.Denciová	1	463
+2204	PAPP Ján, SR	ž.Anna r.Kuliková	1	339
+2204	PASTYRIK Ján, SR	ž.Mária r.Kuklincová	1	352
+2204	POSYPANKA Ján, Bežovce, SR		1	172
+2204	SABADOŠ Juraj, Bežovce, SR	ž.Barbora r.Bajková	1	305
+2204	SABADOŠ ondo Michal, SR	ž.Mária r.Miľovčiková	1	318
+2204	SABADOŠOVÁ Barbora r. Bajková, Bežovce, SR		1	305
+2204	SABO - BALOGOVÁ Barbora r. Korpová, SR		1	345
+2204	SABO Andrej		1	273
+2204	SABO BALOG Ján, SR		1	345
+2204	SABO MAŤAŠ Ján, Záhor, SR		1	161
+2204	SABOVČIKOVÁ Anna r. DANKOVČIKOVÁ, SR	m.Juraj	1	256
+2204	SEMAČ Ján, SR	ž.Mária r.Berešová	1	254
+2204	SEMAČ Július, SR	matka Mária r.Kovačová	1	254
+2204	SEMAČOVÁ Anna	r.Hricaničová	1	33
+2204	SEMAČOVÁ Anna r. Hurová, SR	m.Štefan	1	375
+2204	SURINA Andrej, Záhor, SR		1	353
+2204	SURINOVÁ Anna r. Kostrubaničová	Záhor	1	353
+2204	SURMAIOVÁ Barbora	r.Klacíková	1	447
+2204	ŠANDOROVÁ Alžbeta r. Dankovčiková, SR	m.Michal	1	256
+2204	ŠTENKOVÁ Mária	r.Štundová	1	319,489
+2204	TOMČIKOVÁ Anna r. Sabadošová, Bežovce, SR		1	385
+2204	TOTH Július, SR	ž.Mária r.Bohovčiková	1	253
+2204	VALYOVÁ Mária r. Miľová, SR	m.Juraj	1	263
+2204	VARGA Ján, SR	ž.Zuzana r.Štenková	1	236,445
+2204	VARGA Juraj, Lekárovce, SR		1	368
+2204	VETRECIN Juraj, SR	ž.Mária r.Ihnatová	1	302
+2205	Almási Imrich		0	952
+2205	Almásiová Margita r. Tóthová	m.Ján	0	832
+2205	Almásiová Mária	mal.do r.1910	0	822
+2205	Bartal Ján		0	871
+2205	Bartal Jozef		0	871
+2205	Bartalová Helena		0	871
+2205	Bartalová Margita		0	871
+2205	Bazsó Peter		0	47
+2205	Bazsóová Helena		0	47
+2205	Braunová Hermina r. Lusztigová		0	1056,1085
+2205	Csaplárová Marta r.Gódányová		0	735
+2205	Csémi František		0	985
+2205	Csémi Jozef		0	988
+2205	Csémi Juraj		0	988
+2205	Czére Gabriel		0	829
+2205	Czére Štefan		0	829
+2205	Czéreová Anna		0	829
+2205	Czéreová Juliana		0	829
+2205	Czéreová Mária		0	829
+2205	Czéri Gabriel		0	824
+2205	Czéri Štefan		0	824
+2205	Czériová Anna		0	824
+2205	Czériová Mária		0	824
+2205	Doboczka Lujza r. Stemmerová	m.Anton	0	1086
+2205	Ezner Štefan		0	1054
+2205	Farkas Edmund		0	888
+2205	Feketeová Helena		0	991
+2205	Fodor Bálint		0	50,705
+2205	Fodor Ján		0	888
+2205	Fodor Valent		0	50,705,1075
+2205	Fodorová Anna r. Simonová		0	1075
+2205	Fodorová Anna r.Simonová		0	888
+2205	Fodorová Etela		0	50,705
+2205	Fodorová Etela	mal.v r.1930	0	1075
+2205	Fodorová Helena		0	50,705
+2205	Fodorová Helena	mal.v r.1930	0	1075
+2205	Fodorová Helena r. Matušová		0	1075
+2205	Fodorová Magdolna		0	50
+2205	Fodorová Mária		0	50,705
+2205	Fodorová Mária	mal.do r.1922	0	1075
+2205	Fodorová Marianna		0	50,705
+2205	Fodorová Rozália		0	50,705
+2205	Fodorová Rozália	mal.v r.1930	0	1075
+2205	Gergelyová Alojzia r. Véghová		0	1054
+2205	Gódány Andrej		0	926
+2205	Gódány Arpád		0	1087
+2205	Gódány František		0	1083

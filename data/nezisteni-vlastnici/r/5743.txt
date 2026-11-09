@@ -1,0 +1,256 @@
+3234	VÝBOHOVÁ KATARÍNA R.VÝBOHOVÁ ZVOLEN DOM DOCH. ZÁHONOK		0	634
+3234	Výbohová Mária		0	1390
+3234	Výbohová Mária	m. Ondrej , Víľaš č.d. 28	0	655,1229,1308,1357,1361
+3234	Výbohová Mária	Vígľaš	0	1290
+3234	Výbohová Mária	Vígľaš č.p. 85, nebohá	0	652,655
+3234	Výbohová Oľga	93504 Devičany 69	0	655
+3234	Výbohová Zuzana	Vígľaš	0	1289
+3234	VÝBOCH Ján	Mlynár	0	726,745
+3234	VÝBOCH Ján	Šváb	0	749
+3234	Výboch Pavel	"Krčmárik", Horné Kopanice 1265, Krupina, nebohý, + 17.11.19	0	652,655,1012,1552,1567
+3234	Výboch Pavel	"Krčmárik", Horné Kopanice 1265, Krupina, nebohý, + 17.11.1998	0	1554
+3234	VÝBOCH Tomáš		0	726
+3234	VÝBOCH Tomáš	Mlynár	0	726,745
+3234	VÝBOCHOVÁ Angela	Mlynárová	0	726,745
+3234	VÝBOCHOVÁ Anna	Majerová rod Výbochová	0	735
+3234	VÝBOCHOVÁ Anna	rod Ďurčíková	0	743
+3234	VÝBOCHOVÁ Mária	maloletá	0	728
+3234	VÝBOCHOVÁ Zuzana	maloletá	0	735
+3234	VÝBOCHOVÁ Zuzana	rod Kohútová	0	743
+3234	VÝBOCHOVÁ Zuzana, č.17		0	743
+3234	Výbošťok Ján	ž. Katrína r. Ťavodová , Vígľaš	0	1282
+3234	Výbošťok Jozef	ž. Mária r. Nosálová , Vígľaš	0	1282
+3234	Výbošťok Pavel	Vígľaš 3	0	655
+3234	Výbošťoková Mária	č.274	0	1390
+3234	Výbošťoková Mária	Vígľaš 116, nebohá, + 28.7.1983	0	655,824
+3234	Žlnka Ján	ž. Anna r. Kulichová , č.324	0	1390
+3234	Žlnka Jozef	Terany 12, nebohý, + 29.4.2000 v Banskej Bystrici	0	1390
+3234	Žlnková Anna	č. 94	0	1390
+3234	Žubretovská Anna	Velká Hradební 57, Ústí n. Labem, ČR, nebohá, + 25.4.2005 v	0	1382
+3234	Žubretovský Jozef	Velká Hradební 57, 40001 Ústí nad Labem, ČR, nebohý	0	1382
+3235	ADAMY Anna	r.Adamy,rod.Tuhárska,Morava	0	1254
+3235	BAHÝL Juraj	r.Bahýl,ž.Katarína Bahýlová, Slat.Lazy 14	0	536,1475
+3235	BAHÝL Ondrej	r.Bahýl,ž.Anna Ferienčíková, Slat.Lazy 12	0	536,1475
+3235	BAHÝL Ondrej	r.Bahýl,ž.Mária Ferienčíková, Slat.Lazy 11	0	536,1475
+3235	BAHÝL Ondrej	r.Bahýl,ž.Zuzana Lietavová, Slat Lazy 13	0	536,1475
+3235	BAHÝĽ Ondrej	r.Bahýľ,zomretý 9.9.2007	0	1475
+3235	BAHÝL Pavel	ž.Anna Pašková,Sl.Lazy 16	0	536,1475
+3235	BAHÝL Pavel	ž.Zuzana Beňová, Slat.Lazy 17	0	536,1475
+3235	BAHÝLOVÁ Anna	rod.Chovanec, Slat.Lazy 15	0	536,1475
+3235	BAHÝLOVÁ Katarína	manž.Juraj, r.Bahýlová, Slat.Lazy 14	0	536,1475
+3235	BAHÝLOVÁ Mária	r.Necpálová	0	1194
+3235	BARTKO Ján	r.Bartko,Palčúr, manž.Anna Plavcová, Slat.Lazy 55	0	536,1475
+3235	BARTKO Jozef	r.Bartko,maloletý, Slatinské Lazy 56	0	536,1475
+3235	BARTKO Jozef	r.Bartko,Palčúr, manž.Katarína, Slat.Lazy 55	0	536,1475
+3235	BARTKO Jozef	r.Bartko,Palčúr, manž.Mária Krahulcová	0	536,1475
+3235	BARTKO Martin	Šustek,žena Eva Ozanova, V.H.Kalinka 196	0	1511,1526
+3235	BARTKO Peter	r.Bartko,maloletý, Slatinské Lazy 56	0	536,1475
+3235	BARTKOVÁ Anna	slobodná, Slat.Lazy 55	0	536,1475
+3235	BARTKOVA Eva	r.Ozanova,Šusteková,V.H.Kalinka 196	0	1512,1517,1519,1520,1523,1526,1528,1529
+3235	BARTKOVÁ Mária	Palčúrová, maloletá, Slatinské Lazy 55	0	536,1475
+3235	BARTKOVÁ Mária	Šatarová,rod.Hudecová, Klokoč 45	0	966
+3235	BERKY Ján	ž.Agnesa Jerábeková,č.211	0	1367
+3235	Berkyova Emilia	r.Tučeková,zomretá, Václavíková 4, Banská Štiavnica	0	774,1341,1445
+3235	ČILIAK Ján	r.Čiliak	0	536,828,835,1475
+3235	ČILIAK JÁN		0	423
+3235	ČIPČALOVÁ Anna	maloletá,V.H.Kalinka č.172	0	536,622,887,1140,1475
+3235	ČIPČALOVÁ Magdaléna	maloletá, V.H.Kalinka 172	0	536,624,887,1140,1475
+3235	ČS ŠTÁT-MNV V.H.KALINKA		0	288
+3235	DETVAN Pavel	ž.Katarína Parobková, V.H.Kalinka 159	0	774
+3235	Dobrocka Júlia	r.Dobrocka,zomretá, Pavlova,rod.Ďurišova,Hor.Plachtince 65	0	8,1407
+3235	DOBROCKÁ Mária	rod.Hudecová,Senohrad	0	571,665,795,881,1263
+3235	ĎURIŠ Ján	r.Ďuriš,Kráľ,ž.Zuzana Maliniakova, 90	0	493,774,1248,1249,1280,1286
+3235	ĎURIŠ Ján	ž.Anna Maliniaková,č.90	0	718,1283
+3235	ĎURIŠ Jozef	č. 25	0	536,959,1475
+3235	ĎURIŠ Martin	malolety,V.H.Kalinka 98	0	1400
+3235	ĎURIŠ Martin	slobodný	0	536,734,1475
+3235	ĎURIŠ Pavel	ž.Mária Poničanova-Peknušiakova, 23	0	489,1242
+3235	ĎURIŠOVÁ Anna	Kalamajová,r.Tuhárska,č.188	0	1111
+3235	ĎURIŠOVÁ Anna	r.Greňová,nar.30.9.1903,č.175	0	1406
+3235	ĎURIŠOVÁ Magdaléna	rod.Plavcová,V.H.Kalinka č.27	0	1191,1232
+3235	ĎURIŠOVÁ Magdaléna	rod.Plavcová,V.H.Kalinkač.25	0	1191,1232
+3235	ĎURIŠOVÁ Zuzana	rod.Maliniaková,V.H.Kalinka 90	0	1249,1280
+3235	FARBIAKOVA Anna	rod.Oravcová,nar.23.12.1916,c.69	0	848,954
+3235	FERIENČÍK Ján	r.Ferienčík,Báčik, ž.Anna Bašniarová, Zv.Slatina	0	536,734,1475
+3235	FERIENČÍK Ján	r.Ferienčík,Vansovej 20, Banská Bystrica	0	1386
+3235	FERIENČÍK Ján	slobodny,V,H,Kalinka 8	0	695
+3235	FERIENČÍK Martin	r.Ferienčík,V.H.Kalinka 8	0	390,536,695,734,821,822,823,915,916,1475
+3235	FERIENČÍK Martin	r.Ferienčík,Vansovej 20, Banská Bystrica	0	1386
+3235	FERIENČÍK Ondrej	r.Ferienčík,Sl.Lazy 73	0	536,1475
+3235	FERIENČÍKOVÁ Anna	r.Chabadová, V.H.Kalinka 10	0	536,734,1475
+3235	FERIENČÍKOVÁ Anna	rod.Chovancová,V.H.Kalinka č.9	0	1115
+3235	FERIENČÍKOVÁ Magdaléna	Báčiková,r.Pohanková,3	0	1231
+3235	FERIENČÍKOVÁ Mária	Báčiková,r.Pohanková,36	0	1152
+3235	FERIENČÍKOVÁ Mária	r.Luptáková, ž.Ondreja	0	536,1475
+3235	FERIENČÍKOVÁ Mária	rod.Pohanka, Slatinské Lazy 36	0	536,734,1177,1475
+3235	FOJTÍK Jozef	r.Fojtík,Vígľašská Huta č.98, nar.25.07.1896, zomretý 9.11.1975	0	102,883,1147,1148,1643,1646
+3235	FOJTÍK Pavel	r.Fojtík,ž.Oravcová Mária, Drážovce	0	1147,1148,1643,1646
+3235	GONDOVÁ Mária	rod.Kolláriková,Pincina	0	1277
+3235	GRENO Juraj	r.Greno,Vígľašská Huta-Kalinka č.161	0	774,1422,1423,1553,1554
+3235	GREŇO JURAJ, VÍGĽAŠSKÁ HUTA - KALINKA, č. 161, SR		0	410
+3235	GRENOVA Anna	r.Očenášová,Vígľašská Huta-Kalinka č.161	0	774,1422,1553,1554
+3235	GREŇOVÁ ANNA r. OČENÁŠOVÁ, VÍGĽAŠSKÁ HUTA - KALINKA, č. 161, SR		0	410
+3235	GRENOVÁ Magdaléna	r.Oravcová,Vígľašská Huta-Kalinka č.161	0	774,1422,1423,1553,1554
+3235	GREŇOVÁ MAGDALÉNA r. ORAVCOVÁ, VÍGĽAŠSKÁ HUTA - KALINKA, č. 161, SR		0	410
+3235	GREŇOVÁ Mária	Poliaková,maloletá,č.151	0	774,1409,1449,1542
+3235	HARAZIN Ján	Brzovkin,slobodny,Krupina-D.Kopanice 562	0	774,1362,1369
+3235	HARAZIN Ján	Brzovkin,ž.Mária Hrončeková.č.122	0	774,1363,1663
+3235	HARAZIN Ján	Dolné Kopanice 562, Krupina	0	774
+3235	HARAZIN Ján	r.Harazin,Šustek,ž.Mária, zomretý 4.11.1969	0	1321,1588
+3235	HARAZIN Jozef	Brzovkin,ž.Zuzana Kováčiková.č.31	0	774,1362,1369
+3235	HARAZÍN Jozef	V.H.Kalinka	0	774
+3235	HARAZIN Ľudevít	ž.Emília Ľuptáková.Klokoč č.31	0	774,1376
+3235	HARAZIN Martin	Buzek, ž.Anna Ludrovanová, V.H.K.125	0	774
+3235	HARAZÍNOVÁ Anna	rod.Klimová,Horný Dačov Lom 106	0	297,323,458,459,556,634,635,636,774,1094,1344,1471,1472,1654
+3235	HARAZÍNOVÁ Margita	r.Michnová	0	774
+3235	HARAZINOVÁ Zuzana	rod.Kovačikova,V.H.Kalinka 31	0	536,734,786,829,830,831,832,834,835,836,837,838,955,965,966,967,1475
+3235	HARAZÍNOVÁ Zuzana	Muzikantová,rod.Maliniaková,č.120	0	667,669,1676,1680
+3235	HRABAČ Ján	r.Hrabač,Vígľašská Huta-Kalinka, č.104	0	1419
+3235	HRONCOVÁ Eva	Matuškova, r.Tavodová, B.štiavnica	0	764
+3235	HRONČOKOVÁ Mária	rod.Konôpková,č.117	0	1374
+3235	HUDEC Ján	r.Hudec,žena Zuzana Lietava,V.H.Kalinka 29	0	536,1475
+3235	HUDEC Juraj	ž.Mária Dobrocká,Senohrad	0	571,665,795,881,1263
+3235	HUDEC Štefan	slobodný,V.H.Kalinka č.69	0	572
+3235	HUDECOVÁ Mária	rod.Povaľačová,V.H.Kalinka č.60	0	573
+3235	CHABADA Ján	č.23	0	734
+3235	CHABADOVÁ Anna	r.Luptáková, Sl.Lazy	0	536,1475
+3235	CHOVAN Ján	9.8.1928,S.Lazy č.40	0	952
+3235	CHOVANCOVÁ Mária	Pavlova, r.Tavodová	0	764
+3235	CHOVANCOVÁ Mária	r.Chovancová, VHK 72	0	536,772,1475
+3235	CHOVANCOVÁ Mária	r.Pašková, ž.Juraja Chovanca	0	536,1475
+3235	CHOVANEC Ján	r.Chovanec,Prístavok, ž.Mária, Sl.Lazy 6	0	536,1475
+3235	CHOVANEC Ján	r.Chovanec,S.Lazy 76	0	536,1475
+3235	CHOVANEC Ján	r.Chovanec,ž.Anna Bahýlová, Slat.Lazy 14	0	536,1475
+3235	CHOVANEC Ján	r.Chovanec,ž.Anna, Sl.Lazy 75	0	536,1475
+3235	CHOVANEC Ján	r.Chovanec,ž.Mária, Sl/Lazy 72	0	536,1475
+3235	CHOVANEC Juraj	r.Chovanec,ž.Lukáčová Zuzana, Sl.Lazy 74	0	536,1475
+3235	CHOVANEC Martin	r.Chovanec,Murovský, ž.Anna Cibuľková	0	536,1475
+3235	CHOVANEC Pavel	r.Chovanec,cestár, ž.Anna Ferienčíková, Sl.Lazy 72	0	536,1475
+3235	CHOVANEC Pavel	r.Chovanec,st., cestár, Sl.Lazy 72	0	536,1475
+3235	CHOVANOVÁ Eva	rod.Ferienčková,Vígľaš č.302	0	1195,1199
+3235	Ivanová Magdaléna	r.Čipčalová,zomr.,Trnie č..10	0	536,622,623,624,887,1140,1475,1483
+3235	JOMBÍK Ján	Belaj, ž.Mária, S.Lazy 61	0	536,1475
+3235	JOMBÍK Ján	ž.Mária r.Chovanová, Sl.Lazy 58	0	536,1475
+3235	JOMBÍK Jozef	r.Jombík,ž.Zuzana r.Filčík, Slatinka 58	0	1258
+3235	JOMBÍK Jozef	ž.Mária Sokolová	0	536,1475
+3235	Jombík Jozef r. Jombík, Slatinka, č. 58, SR		0	706,855,993,1240,1241
+3235	JOMBÍK Martin	Sl.Lazy 59	0	536,1475
+3235	JOMBÍK Pavel	r.Jombík,slobodný, VHK 60	0	536,1475
+3235	JOMBÍK Pavel	r.Jombík,ž.Mária, Sl.Lazy 60	0	536,1475
+3235	JOMBÍKOVÁ Anna	rod.Ťavodová,Slatinka č.58	0	706,1241
+3235	JOMBÍKOVÁ Katarína	slobodná, Sl.Lazy	0	536,1475
+3235	JOMBÍKOVÁ Zuzana	Jánova, r.Terenová, VHK 60	0	536,1475
+3235	Klacko Martin	r.Klacko,zomretý,Obrancov mieru 21/41, Piešťany	0	536,734,1181,1228,1475
+3235	KĽAČKO Martin	r.Kľačko,ž.Mária Krokošová.č.13	0	536,734,1234,1475
+3235	KĽAČKOVÁ Zuzana	Pavlova,rod.Bahýľová,V.H.Kalinka č.16	0	1173
+3235	KLIMO Štefan	ž.Margita Tuček,V.H.Kalinka	0	297,323,458,459,556,634,635,636,774,1094,1344,1471,1472,1654
+3235	KLIMOVÁ Anna	rod.Záchenská,V.H.Kalinka 133	0	636,1473
+3235	KLINKOVÁ Anna	rod.Greňová,Pliešovce	0	774,1410,1449,1450
+3235	KOLLÁRIKOVÁ Anna	r.Zvarová, VHK.127	0	556,1094
+3235	KOLLÁRIKOVÁ Mária	r.Tučeková,Dúbravy-Kráľová č.50	0	637,1339
+3235	KONÔPKA Ján	r.Konôpka,slobodný,Vígľašská Huta-Kalinka č.111	0	693,774,1382
+3235	KONÔPKA Ján	ž.Anna rod,Maliniaková,č.116	0	686
+3235	KONÔPKA JÁN Č.111		0	269
+3235	KONÔPKA JÁN, VÍGĽAŠSKÁ HUTA - KALINKA, č. 111, SR		0	288
+3235	KONÔPKA Jozef	V.H.Kalinka č.116	0	1318
+3235	KONÔPKA Pavol	r.Konôpka,Krupina-Dolné Kopanice 561	0	774
+3235	KONÔPKOVÁ Marta	manž.Martin Harazin, V.H.Kalinka 120	0	774
+3235	KONÔPKOVÁ Zuzana	rod.Tučeková,V.H.Kalinka 111	0	913
+3235	KORUŠIAK Ján	V.H.Kalinka 149	0	1401
+3235	KORUŠIAK Pavel	V.H.Kalinka 149	0	1401
+3235	KORUŠIAKOVÁ Anna	rod.Tuhárska,nar.25.5.1903	0	752,968,1460
+3235	KORUŠIAKOVÁ Anna	V.H.Kalinka 149	0	1401
+3235	KORUŠIAKOVÁ Margita	V.H.Kalinka 149	0	1401
+3235	KORUŠIAKOVÁ Mária	V.H.Kalinka 149	0	1401
+3235	KOVÁČIKOVÁ Mária	rod.Greňová,Morava	0	774,1409,1449
+3235	KOVÁČIKOVÁ Zuzana	Vígľašská Huta-Kalinka, č.31	0	828
+3235	KRAHULCOVÁ Magdaléna	r.Bartková, Zvolenská Slatina 1	0	536,1475
+3235	LAVOKATOVÁ Jozefína	rod.Plavcová,Francuzsko	0	536,734,1038,1191,1232,1475
+3235	LIETAVA Juraj	Chabadka,ž.Anna Ferienčíková,č.37	0	533,1121
+3235	LIETAVA Juraj	Štefanko,ž.Mária Ostrolucka, č.30	0	1189
+3235	LIETAVA Martin	Jerguš,ž.Mária Svetlíková,Zv.Slatina 421	0	536,648,734,1183,1475
+3235	LIETAVA Pavel	manž.Anna Konopkova	0	1226
+3235	LIETAVOVÁ Anna	rod.Horniaková,V.H.Kalinka	0	979
+3235	LIETAVOVÁ Anna	V.H.Kalinka č.38	0	734,1179
+3235	LIETAVOVÁ Mária	r.Ostrolucká,Jurajová,č.30	0	1230
+3235	LIETAVOVÁ Zuzana	Štefanko,rod.Chovancová,č.30	0	1115
+3235	LIHOŤAN Jozef	ž.Katarína Výbošťoková,V.H.Kalinka 74	0	764,765,796
+3235	LUCIAK Ján	Brza, výmaz maloletý 25.8.1948,VHK 78	0	764,765
+3235	LUCIAK Ján	r.Luciak,Brza,Vígľašská Huta, č.123	0	1271
+3235	LUCIAK JÁN, s.č. 123, VHKALINKA, SR		0	1055
+3235	LUCIAK Ondrej	r.Luciak,ž.Katarína Výbošteková, Sl.Lazy 30	0	536,1475
+3235	LUCIAK Ondrej	V.H.Kalinka 18	0	834,838
+3235	LUCIAK Vincent	ž.Anna Pohanková,V.H.Kalinka 18	0	1219
+3235	LUCIAKOVÁ Katarína	Brzová,rod.Mojžišová,V.H.Kalinka č.75	0	676,677,678,679,680,681,682,684,685,686,755,774
+3235	LUDROVANOVÁ Emília	rod.Fekiačová,V.H.Kalinka 186	0	1024,1490
+3235	LUPTÁK Ján	r.Lupták,ž.Anna Peničková, Sl.Lazy 1	0	536,1475
+3235	LUPTÁK Jozef	r.Lupták,Zošiak,neznámy	0	591,592,593
+3235	LUPTÁKOVÁ Margita	Skučková,rod.Hudecová,Klokoč 73	0	1263
+3235	LUPTÁKOVÁ Mária	rod.Suchá,V.H.Kalinka č.112	0	1388
+3235	MALINIAK Blažej	maloletý,V.H.Kalinka č.169	0	536,941,942,1336,1475
+3235	MALINIAK Ján	slobodný,Janšto,V.H.Kalinka 177	0	272,536,1007,1021,1024,1475,1493,1494
+3235	MALINIAK Jozef	Janšto,slobodný,V.H.Kalinka 177	0	1494
+3235	MALINIAK Jozef	maloletý,V.H.Kalinka 174	0	386,850,851
+3235	MALINIAK Jozef	z kopca,ž.Rozália Gondová,č.166	0	536,1018,1475
+3235	Maliniak Jozef, Vígľašská Huta - Kalinka, č. 174, SR		0	77
+3235	Maliniak Jozef, Vígľašská Huta - Kalinka, č. 214, SR		0	77
+3235	MALINIAK Martin	V.H.Kalinka č.192	0	536,1475,1513,1525,1529
+3235	MALINIAK Martin	z doliny.V.H.Kalinka č.194	0	910
+3235	MALINIAK Martin	ž.Emília Maliniaková,V.H.Kalinka 194	0	1503
+3235	MALINIAK Matúš	z doliny,ž.Emília Harazínová,č.194	0	340,1111
+3235	MALINIAKOVÁ Anna	maloletá, VHK 182	0	536,1475
+3235	MALINIAKOVÁ Anna	vdova, r.Očenášová, V.H.Kalinka 172, nar. 2.01.1885, zomr.27.6.1962	0	1475
+3235	MALINIAKOVÁ Anna	vdova, r.Očenášová, V.H.Kalinka 172, nar.2.01.1885, zomr.27.6.1962	0	536,622,623,624,887,1140
+3235	MALINIAKOVÁ Katarina	r.Tučeková, Vígľašská Huta-Kalinka č.182	0	536,1475,1481,1493
+3235	MALINIAKOVÁ Katarína	Ludevítová,rod.Luptáková,č.184	0	386,536,786,787,1469,1475,1532,1535
+3235	MALINIAKOVÁ Katarína	rod.Maliniaková,V.H.Kalinka 183	0	852
+3235	MALINIAKOVÁ Magdaléna	rod.Hudecová,č.173	0	571,665,795,881,1263
+3235	MALINIAKOVÁ Margita	V.H.Kalinka 182	0	386,536,786,787,850,851,852,1475
+3235	Maliniaková Margita, Vígľašská Huta - Kalinka, č. 182, SR		0	77
+3235	MALINIAKOVÁ Mária	r.Maliniak, Ludovítova žena	0	536,1475
+3235	Maliniaková Mária r. Maliniaková, Vígľašská Huta - Kalinka, č. 193, SR		0	77
+3235	MÁRIA Oláhová	ž.Dezidéra,rod.Čipčalová,č.217	0	1413
+3235	MARTINKA Jozef	ž.Anna r.Michnová,V.H.Kalinka č.95	0	492,667,669,774,1676,1680
+3235	MARTINKA JOZEF	manž. Anna Michnova	0	1603
+3235	MATUŠKOVÁ Mária	r.Oravcová,Zámocká 438, Vígľaš	0	774
+3235	MELICHERČÍKOVÁ Mária	r.Nemcová	0	536,1475
+3235	MICHALCOVÁ Margita	zomretá 29.01.2004	0	1342
+3235	MICHALECOVÁ Magdaléna	rod.Povaľačová,Pliešovce	0	261,912
+3235	MICHNA Ján	24.2.1900,V.H.Kalinka č.138	0	1390
+3235	MICHNA Ján	r.Michna,zomr.6.10.1981	0	1096
+3235	MICHNA Pavel	ž.Mária Harazínová,č.128	0	1330
+3235	MICHNOVA Maria	R.DURISOVA,Vígľašská Huta-Kalinka č.162	0	1537
+3235	MICHNOVÁ Mária	r.Harazinová, VKK.128	0	1321,1588
+3235	MICHNOVÁ MÁRIA r. ĎURIŠOVÁ, VÍGĽAŠSKÁ HUTA - KALINKA, č. 162, SR		0	406
+3235	Mikulčík Ján	ž.Mária Martinková,V.H.Kalinka 170	0	182,474,1018,1125,1338,1462
+3235	MIKULČÍK Ján	V.H.Kalinka č.170	0	1125
+3235	Mojzisova Margita	zomr.,r.Ozanová,Vígľaš č.50	0	1517,1518,1519,1528
+3235	MOJŽIŠ Ondrej	ž.Júlia rod.Maliniaková,č.163	0	841,948
+3235	MOJŽIŠ Ondrej	ž.Magdaléna Plavcová,č.113	0	678
+3235	MOJŽIŠOVÁ Katarína	vdova,r.Farbiaková,V.H.Kalinka 113	0	677,678,679,680,681,685,755,774
+3235	MOZOLOVA Helena	R.MALINIAKOVA,MICHALKOVA	0	272,536,1021,1024,1475,1493,1494
+3235	OCENAS Jan	ž.Katarína rod.Babicová,č.178	0	1425
+3235	OČENÁŠ Jozef	ž.Hudecová Julia,V.H.Kalinka č.148	0	1457,1550
+3235	OČENÁŠ Pavel	V.H.Kalinka č.148	0	1457,1550
+3235	OČENÁŠOVÁ Júlia	rod.Hudecová,č.148	0	571,665,795,881,1263
+3235	OČENÁŠOVÁ Katarína	rod.Konôpková,žena Jána,č.148	0	62,652,774,1421,1431,1459,1461
+3235	OLÁH Dezidér	V.H.Kalinka č.217	0	1413
+3235	ORAVCOVÁ Anna	maloletá,V.H.Kalinka č.101	0	1434
+3235	ORAVCOVÁ Anna	vdova,rod.Poliaková	0	626
+3235	ORAVCOVÁ Anna	ž.Pavla-Mišková,rod.Tuhárska,č.114	0	753,754
+3235	ORAVCOVÁ Mária	maloletá,V.H.Kalinka č.101	0	1434
+3235	ORAVEC Jozef	V.H.Kalinka 117	0	774
+3235	Oravec Pavel	r.Oravec,zomr.,ž.Anna Tučeková,V.H.Kalinka č.101	0	672,734,774,1415
+3235	ORAVEC Pavel	ž.Anna Luciak rod.Lacková,V.H.Kalinka	0	682,684,685,686,753,754,755,774
+3235	OZAN Jozef	Pohorelská Máša-opatrovna,Pohorelá	0	536,1475,1516,1517,1519,1520,1523,1528,1529
+3235	OZAN Jozef	ž.Kovalová Anna,V.H.Kalinka 197	0	1517,1518,1519,1521,1523,1528
+3235	OZANOVA Magdalena	R.TUHARSKA,V.H.Kalinka č.198	0	536,1475,1510,1528,1529
+3235	OZANOVÁ Magdaléna	R.TUHARSKA	0	1517
+3235	PAROBKOVA Katarina	R.PLAVCOVA, Vígľašská Huta-Kalinka č.179	0	536,1475,1478,1493
+3235	PAROBKOVA Katarina	r.Plavcová,Lokeška,V.H.Kalinka 179	0	1494
+3235	PAROBOK Alexander	r.Parobok,ZVOLEN	0	774,1440,1441,1443
+3235	PAROBOK Alexander	V.H.Kalinka č.104	0	1456
+3235	PAROBOK ALEXANDER ZVOLEN		0	79,1120
+3235	PAROBOK Ján	maloletý, VHK 100	0	1293
+3235	PAROBOK Juraj	ž.Zuzana Výbohová.č.103	0	774,1452
+3235	PAROBOK JURAJ, VÍGĽAŠSKÁ HUTA - KALINKA, č. 103, SR		0	404

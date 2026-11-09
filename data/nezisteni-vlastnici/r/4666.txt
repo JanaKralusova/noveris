@@ -1,0 +1,256 @@
+2650	Štrauch Milan r. Štrauch		0	2057,2150,2152
+2650	Štrauch Štefan r. Štrauch		0	413,2151,2152
+2650	Štrauchová Agnesa		0	2057,2150,2152
+2650	Štrauchová Anna		0	2224,2318,3176
+2650	Štrauchová Božena		0	2057,2150,2152
+2650	Štrauchová Elena		0	2057,2150,2152
+2650	Štrauchová Elena	mal	0	3558
+2650	Štrauchová Irena		0	2057,2150,2152
+2650	Štrauchová Katarína		0	2057,2150,2152
+2650	Štrauchová Katarína r. Barešová		0	2024
+2650	Štrauchová Mária		0	2057,2150,2152
+2650	Štrauchová Mária r. Štrauchová	dátum úmrtia: 2.1.2006	0	3474
+2650	Šuba Ján r. Šuba	syn Jozefa Šubu Vernárskeho	0	345,346,2039,2053
+2650	Šuba Jozef r. Šuba	syn Michala	0	1693,1925
+2650	Šuba Juraj r. Šuba		0	1977,3727
+2650	Šuba Štefan r. Šuba	syn Jozefa Vernárskeho	0	1693,1925
+2650	Šveda František r. Šveda		0	2022
+2650	Šveda Ján r. Šveda		0	1355
+2650	Šveda Ladislav r. Šveda		0	2022
+2650	Turzáková Katarína r. Štrauchová	USA na neznámom mieste	0	1083,2164,2165,2166
+2650	Ujfalušiová Alžbeta		0	2103
+2650	Ujfalušiová Anna		0	2103
+2650	Ujfalušiová Mária		0	2103
+2650	Urban Valent r. Urban	ženatý s Žofiou r.Bordelovou	0	2224,2318,3176
+2650	Urbanyi Ján r. Urbanyi		0	1999
+2650	Urbanyi Michal r. Urbanyi		0	1999
+2650	Vall Štefan r. Vall		0	2140
+2650	Vrablová Katarína r. Toporcerová		0	2010
+2650	Vranová Mária r. Švedová		0	2148
+2650	Vrbická Katarína r. Paluščáková		0	3514
+2650	Zajac Štefan r. Zajac		0	248
+2650	Zeleňáková Anna r. Škulová		0	3538
+2650	Zummerling Jozef r. Zummerling	ženatý s Katarínou r.Lajčákovou	0	306
+2650	Zummerlingová Katarína r. Lajčáková		0	1995
+2650	Zummerlingová Mária r. Rychtarčíková		0	287,1962
+2651	ANETTA Alojz		1	2434
+2651	ANETTA Jozef		1	1557,1558,1560,1561,1562,2055,2891
+2651	AUGUSTÍN Jozef a Vitalia AUGUSTÍNOVÁ r. Hajtmaneková		0	2534
+2651	BARTEK Ján		0	833,834,1030,1897,1944,3036
+2651	BARTEK Jozef	manž.Katarína Blahútová	1	1530,2257
+2651	BARTEK Peter		1	2490
+2651	BARTKOVÁ Katarína	r.Slobodová	1	2402
+2651	BARTOŇ Viliam		0	2586
+2651	BENEK Imrich a Zuzanna BENKOVÁ r. Grildanová		1	2545
+2651	BEŠKO František	dosp.v r.1929	1	2341,2432
+2651	BEŠKO František	malol.v r.1929	1	2341,2432
+2651	BEŠKO Ján	malol.v r.1929	1	2341,2432
+2651	BEŠKO Jozef		0	506
+2651	BEŠKO Jozef	malol.v r.1931	1	2341,2432
+2651	BEŠKO Michal		1	2341,2432
+2651	BEŠKOVÁ Cecília	r.Slobodová,manž.Štefan	1	2341
+2651	BEŠKOVÁ Katarína r.Repová		0	341
+2651	BLAHÚT Ján		1	2387
+2651	BLAHÚT Jozef	plnoletý v r.1910	1	2426
+2651	BLAHÚT Štefan	manž.Mária Ostatníková	1	2345
+2651	Blahutová Terezia r. Paulovičová		0	1443
+2651	BLAŽO Imrich		1	2492
+2651	Blažo Jozef		1	2515
+2651	BOHÁČEK Anton		0	2932
+2651	BOHÁČEK Ján		0	564,749
+2651	BOHÁČEK Ján /ž.Anna r.Bublávková/		0	302,748
+2651	BOHÁČEK Ladislav		0	180,187,3112
+2651	BOHÁČEK Michal		0	190,951,1299,1423
+2651	BOHÁČIKOVÁ Cecília r. Gašparovičová		0	813
+2651	BOHÁČIKOVÁ Cecília r.Gašparovičová		0	1215
+2651	BOHÁČKOVÁ Mária	r.Štefáková,manž.Pavol	1	2439
+2651	BOHÁČKOVÁ Zuzana	r.Vajsáblová,manž.Štefan	1	1157
+2651	BORTLÍK František	manž.Zdena Králiková	1	2423
+2651	BRADÁK Michal		0	1481
+2651	BRADÁKOVÁ Mária		0	1481
+2651	BRÁZDOVIČ Imrich	manž.Mária Čurajová	1	2350
+2651	BRÁZDOVIČ Jozef	ml	1	2327
+2651	BRÁZDOVIČ Ľudovít		1	2466
+2651	BRÁZDOVIČOVÁ Mária	r.Tureková,manž.Jozef st	1	2327
+2651	BUBÁN Jozef		1	2438
+2651	BUBLÁVEK Ignác	manž.Terézia Izakovičová	1	2366
+2651	BUBLÁVEK Jozef		1	2513
+2651	Bublávek Silvester a Zuzanna Bublávková r. Slobodová	|	1	2507
+2651	BUBLÁVEK Sivester		0	742
+2651	BUBLAVKOVÁ Cecília		0	527,1946,2199,2729
+2651	BUBLÁVKOVÁ Mária		0	742
+2651	BUBLÁVKOVÁ Terézia	r.Izakovičová,manž.Ignác	1	1099
+2651	BUBLÁVKOVÁ Terézia r.Izakovičová		0	1101
+2651	BUBLÁVKOVÁ Zuzana		1	2454
+2651	BUBLÁVKOVÁ Zuzana	r.Slobodová	1	2470
+2651	BUČKOVÁ Mária r.Valenčíková		0	409,1955,2054,2077
+2651	CAPKOVÁ Agneša	r.Sládková	1	2392,2403
+2651	ČERNÝ Jozef		0	304
+2651	DÚCHALA Ján		1	2481
+2651	DVORÁKOVÁ Agneša		0	786
+2651	DVOŘÁKOVÁ Kamila		0	190
+2651	FANČOVIČOVÁ Rozália r. Horváthová		0	1045
+2651	FERECH Jozef		1	2267,2547
+2651	FERECHOVÁ Jozefína r.Lužinská		0	730,731,732
+2651	FERECHOVÁ Zuzana	r.Študencová,manž.Michal	1	2547
+2651	GAŠPARÍK Karol, SR		0	452
+2651	GAŠPARÍKOVÁ Helena		0	453
+2651	GAŠPAROVIČ Alexander		0	78
+2651	GAŠPAROVIČ Anton		0	733,888,1501,2158,3034
+2651	GAŠPAROVIČ Jaroslav		1	733,2461,3034
+2651	GAŠPAROVIČ Jozef		0	495,733,3034
+2651	GAŠPAROVIČOVÁ Alžbeta r. Horváthová		0	733,3034
+2651	GAŠPAROVIČOVÁ Anna		0	78,655,657,2736
+2651	GAŠPAROVIČOVÁ Bernardína		0	78,655,657,2736
+2651	GAŠPAROVIČOVÁ Emília		0	733,3034
+2651	GAŠPAROVIČOVÁ Emília	vyd.Štibraná	1	2461
+2651	GAŠPAROVIČOVÁ Magdaléna		1	2462
+2651	GAŠPAROVIČOVÁ Margita r.Lomnická		0	887,2739
+2651	GAŠPAROVIČOVÁ Mária		0	78
+2651	GAŠPAROVIČOVÁ Rozália	vyd.Zajacová	1	2461
+2651	GAŽOVIČOVÁ Irma r.Selecká		0	302,746,747,750,974,975,1294,2165,2166,2167,2753
+2651	Gracl Emil a Metodejka Graclová r. Martinovská	|	1	2583
+2651	GREČOVÁ Mária	r.Taligová	1	2352
+2651	GREGUŠ Ľudovít		1	2482
+2651	GRGÁČ Izidor		0	930
+2651	Grik Izidor a Barbora Griková r. Valenčíková		1	2506
+2651	GULDAN Štefan		0	1299
+2651	GULDANOVÁ Alžbeta r.Šestáková		0	730,731,732,1018,1947,2719
+2651	GULDANOVÁ Anna	r.Mrázová	1	2379
+2651	GULDANOVÁ Katarína r.Horváthová		0	1299
+2651	GULDANOVÁ Ľudmila r.Hrádelová		0	1299
+2651	HACAJOVÁ Cecília	r.Guldánová	1	2488
+2651	Hajtmánek Cyril a Rozália Hajtmánková r. Portášová		0	2500
+2651	HAJTMÁNKOVÁ Agneša	r.Sládeková,manž.Michal	1	2390,2403
+2651	HANICHOVÁ Paulína	r.Kubišová	1	2396
+2651	HEČKO Gerváz		0	1956
+2651	HEČKO Jozef		0	649
+2651	HEČKOVÁ Mária r. Boháčeková		0	488
+2651	HEČKOVÁ Mária r. Boháčková		0	194
+2651	HEČKOVÁ Mária r.Boháčková		0	187,3112
+2651	HEGEROVÁ Adela	r.Vrabcová	1	2413
+2651	HEGEROVÁ Mária	r.Hrdá	1	2549
+2651	HETTEŠ Gašpar		1	2355
+2651	HIPÍKOVÁ Anna r.Repová		0	341
+2651	HLADKÁ Mária	r.Bešková	1	2341,2432
+2651	HLAVATÁ Alžbeta Berta	r.Blahútová,manž.Karol	1	2473
+2651	HLAVATÁ Katarína	r.Čurajová,manž.Štefan	1	2400
+2651	Holič Alexander a Otília Holičová r. Ružinská	|	1	2569
+2651	HOLIČOVÁ Otília	r.Lužinská	1	2412
+2651	HORAVA Ján		0	749
+2651	HÖRMANNOVÁ Amália	r.Blahutová	1	2321
+2651	HÖRMANOVÁ Amália r.Blahútová		0	1237
+2651	HORNÁČEK Ignác		0	850,2882
+2651	HORVÁTH Karol		0	1045
+2651	HORVÁTH Štefan		0	1045
+2651	HRÁDELA Jozef		0	1055
+2651	HRACHO Ondrej		1	2349
+2651	HRDLIČKOVÁ Rozália r. Blahutová		0	721
+2651	HUBINSKÁ Agneša r. Maršíková		0	523
+2651	HUBINSKÁ Agneša r. Maršíková, SR		0	2682
+2651	HUBINSKÝ Emil		1	2364
+2651	HUBINSKÝ Ján		1	2364
+2651	HUBINSKÝ Vojtech	nezvestný	1	2364
+2651	HUDEKOVÁ Katarína r. Vlachovičová		0	1081
+2651	JAKUBEC Florian	manž.Marta Hazuchová	1	2344
+2651	JAKUBEC Florián /ž.Marta r.Hazuchová/		0	302,974
+2651	JAKUBEC František	manž.Eva Pastúchová	1	2344
+2651	JAKUBEC František / ž.Eva r.Pastuchová/		0	974
+2651	JAKUBEC František/ž.Eva r.Pastuchová/		0	302
+2651	JAKUBEC Imrich	manž.Agneša Opálková	1	2344
+2651	JAKUBEC Imrich / ž.Agneša r.Opálková/		0	974
+2651	JAKUBEC Imrich /ž.Agneša r.Opálková/		0	302
+2651	JAKUBEC Ján	manž.Júlia Machalová	1	2344
+2651	JAKUBEC Ján	manž.Mária Galgóciová	1	2344
+2651	JAKUBEC Ján /ž.Júlia r.Machalová/		0	302
+2651	JAKUBEC Ján /ž.Mária r.Galgóciová/		0	302
+2651	JAKUBEC Ján /ž.Máriua r.Galgóciová/		0	974
+2651	JAKUBEC Ján/ž.Júlia r.Machalová/		0	974
+2651	JANÁČEK Alexander		0	980,985
+2651	JANÁČEK Alexander	malol.v r.1904	1	2354
+2651	JANÁČKOVÁ Anna	malol.v r.1904	1	2354
+2651	JANÁČKOVÁ Cecília r.Zaťková		0	728
+2651	JANÁČKOVÁ Tereza	r.Jakubcová	1	2344
+2651	JANÁČKOVÁ Terézia r.Jakubcová		0	974
+2651	JÁNOŠKOVÁ Terézia r.Jakubcová		0	302
+2651	JAVOREK Ján		0	260,1010,2692
+2651	JAVORKA Ján		0	726,1012
+2651	JEŽOVITOVÁ Anna r.Piskulová		0	1839
+2651	Junásová Irma r. Paulovičová		0	1443
+2651	JURENKA Martin	manž.Alžbeta Špillerová	1	2605
+2651	JURENKOVÁ Alžbeta	r.Špillerová,manž.Martin	1	2605
+2651	KISZLINGOVÁ Edita	r.Topperová	1	2388
+2651	KMOŠKOVÁ Anna		0	1976
+2651	KOCIAN Štefan		0	725,2885
+2651	KOLLAROVIČOVÁ Emília	r.Kovačovičová	1	2316
+2651	KOPILEC Adam a Eva KOPILCOVÁ r. Hacundová		0	688
+2651	Kopilec Adam a Eva Kopilcová r. Hačundová	|	1	2531
+2651	Kovačovič Ján		1	1560,2316,2329
+2651	KOVAČOVIČ Ján / ž.Anna r.Necpálová/		0	928
+2651	KOVAČOVIČ Martin		0	928
+2651	KOVAČOVIČOVÁ Jozefína		0	928
+2651	KOVAČOVIČOVÁ Katarína r.Kovačovičová		0	928
+2651	KOVAČOVIČOVÁ Oľga		0	928
+2651	KRAJČÍROVIČOVÁ Mária		0	452
+2651	KRAJČOVIČOVÁ Agneša	r.Gašparovičová	1	2417
+2651	KRIŽANOVÁ Mária	r.Kelečéniová,manž.Ján	1	2280
+2651	KUČEROVÁ Alžbeta r. Valenčíková		0	1395
+2651	Kučerová Anastázia r. Guldánová		1	2529
+2651	KUČEROVÁ Anna	r.Hlavatá	1	2400
+2651	KULKA Štefan		1	2254
+2651	KURINCOVÁ Paulína	r.Boháčková	1	553,2886
+2651	KURINCOVÁ Paulína r.Boháčková		0	266
+2651	KURINEC IMRICH		0	1393
+2651	KURINEC Jozef		0	355
+2651	KURINEC Michal	manž.Mária Vrbovská	1	2277
+2651	KVETÁNOVÁ Terézia	r.Vrbovská,manž.Jozef	1	2393
+2651	LANČARIČOVÁ Ivona		0	1696
+2651	LIMIANSKÁ Katarína	r.Blažová	1	2273
+2651	LOBPREIS Felix	MUDr.,manž.Mária Svobodová	1	2416
+2651	LOBPREISOVÁ Mária	r.Svobodová,manž.Felix	1	2416
+2651	LOŠONSKÁ Klementína	r.Bešková,asi 2x vyd.Juríková	1	2341,2432
+2651	LOŠONSKÁ Klementína r.Bešková		0	506
+2651	LOŠONSKÝ Blažej Ing.		0	1429
+2651	LOŠONSKÝ Martin		1	2487
+2651	LUŽÁKOVÁ Irena	r.Jalšovská	1	2468
+2651	MACHALOVÁ Mária	r.Jakubcová	1	2344
+2651	MACHALOVÁ Mária	r.Machalová	1	2344
+2651	MACHALOVÁ Mária r.Jakubcová		0	302,974
+2651	MACHALOVÁ Mária r.Machalová		0	302,974
+2651	Macho Štefan a Rozália Machová r. Brázdovičová	|	1	2522
+2651	MARKO Ivan		0	1283
+2651	MARŠÍK Imrich		1	381,497,1209,1543,2034,2036,2037,2963
+2651	MEDOVIČ František	manž.Paulína Grečová	1	2356
+2651	MEDOVIČOVÁ Paulína	r.Grečová,manž.František	1	2356
+2651	MEDOVÝ Martin		1	2527
+2651	MERAVÁ Alžbeta	r.Bublávková	1	2429
+2651	MIHINA František		1	2425
+2651	MIKA Jozef	manž.Antónia Matejovičová	1	2346
+2651	MIKLOVIČ Ján		1	2485
+2651	MLYNAROVIČOVÁ Mária	r.Boháčková	1	2427
+2651	MLYNAROVIČOVÁ Mária r. Boháčková		0	554,555,556
+2651	MLYNAROVIČOVÁ Mária r.Boháčková		0	266
+2651	MORVAYOVÁ Anna	r.Medovičová	1	2451
+2651	MRÁZ Ambróz		0	1009,1010,1011,2692
+2651	MRÁZ Ambróz, SR		0	2667,2674,2909
+2651	MRÁZ Jozef		0	763,1299
+2651	Mráz Ľudovít a Terézia Mrázová r. Kopillová	|	1	2521
+2651	MRÁZOVÁ Mária	r.Osztitiová,manž.Ján,2x vyd.Hrdová	1	2398
+2651	MRÁZOVÁ Rozália r.Valová		0	1299
+2651	MRÁZOVÁ Terézia r.Kopilecová		0	1631
+2651	MUŽÍKOVÁ Mária	r.Hečková	1	2489
+2651	NESPAL Štefan		1	2352
+2651	NESPAL Viktor	manž.Mária Drahošová	1	2352
+2651	NESPALOVÁ Mária		1	2352
+2651	NOVÁK Ignác		0	1594
+2651	NOVÁKOVÁ Filoména r. Boháčková		0	564
+2651	NOVÁKOVÁ Jozefína r.Kovačovičová		0	928
+2651	NOVÁKOVÁ Mária r.Pohrebovičová		0	1594
+2651	OBEC SMOLENICE		0	1394,1395
+2651	OBÚLANÁ Božena		1	607,730,731,732,1021,1948
+2651	OLŠOVSKÁ Mária	r.Tresterová,manž.Jozef	1	2375
+2651	OLŠOVSKÁ Zuzana		1	2493
+2651	OLŠOVSKÝ Jozef	manž.Mária Tresterová	1	2317,2319,2749
+2651	ONV TRNAVA		0	834
+2651	ORAVEC Jozef		0	1077
+2651	ORAVEC Michal	manž.Anna Muteková	1	2339

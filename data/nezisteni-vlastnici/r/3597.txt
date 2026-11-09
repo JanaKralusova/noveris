@@ -1,0 +1,256 @@
+2064	MIŠENKO Štefan		0	747
+2064	MIŠENKO Tomáš		0	747,809
+2064	MIŠENKOVÁ Terézia		0	747
+2064	NOVÁK Ján		0	742
+2064	NOVÁK Štefan	maloletý	0	757
+2064	NOVISEDLÁKOVÁ Mária	rod.Hovančíková	0	747
+2064	OPINA Jozef	maloletý	0	762,773
+2064	OPINA Michal	maloletý	0	762,773
+2064	PAPCUN Anton		0	747
+2064	PAPCUN Ondrej		0	747
+2064	PAPCUNOVÁ Anna		0	747
+2064	Papcunová Klára r. Sabolová		0	864,865
+2064	PAPCUNOVÁ Zuzana		0	747
+2064	PAVLÍK Jozef		0	751
+2064	PAVLÍKOVÁ Anna		0	751
+2064	PAVLÍKOVÁ Mária		0	751
+2064	PISTEJ Ján		0	766
+2064	PISTEJOVÁ Juliana	rod.Kubová	0	766
+2064	PISTRÁK Ján		0	510
+2064	PISTRÁK Pavol	I	0	510
+2064	PISTRÁK Tomáš		0	510
+2064	PISTRÁKOVÁ Helena		0	510
+2064	PISTRÁKOVÁ Mária	I	0	510
+2064	PIŠTEJOVÁ Magdaléna	rod.Gulášová	0	742
+2064	PRISTÁŠ Pavol		0	809
+2064	PROKOPOVITSCH Adalbert	dr	0	742
+2064	PUTKOVÁ Margita	rod.Výsocká	0	434
+2064	ROTH Benjamín		0	444,811,919
+2064	SABOLIK Jozef		0	483,503,504,615,618,620,621,629,824,825,826,827,828,829,832,833,849,850
+2064	SABOLOVÁ Mária	rod.Diová	0	699
+2064	SABOLOVÁ Mária	rod.Saxová	0	655,665,694,864,865
+2064	SAXA Alexander		0	655,665,694,864,865
+2064	SAXA Andrej		0	655,665,694,864,865
+2064	SAXA Anton		0	655,665,694,864,865
+2064	SAXA František		0	655,665,694,864,865
+2064	SAXOVÁ Anna	rod.Križalkovičová	0	491
+2064	SAXOVÁ Anna	rod.Palčová	0	655,665,694,864,865
+2064	SAXOVÁ Johana		0	655,665,694,864,865
+2064	SEMANČIK Baltazár		0	475,615,618,620,621,629,828,829,832,833,849,850,920
+2064	SEMANČIK Boldižár		0	484,605,613,621,629,634,832,833,850
+2064	SEMANČIKOVÁ Anna	rod.Bučková	0	475,484,605,613,615,618,620,621,629,828,829,832,833,849,850,920
+2064	SEMANČIKOVÁ Helena		0	558
+2064	SEMANČIKOVÁ Regina		0	559
+2064	SENDROVIČ Iléš		0	751
+2064	SKLADANÁ Anna	I	0	487,634
+2064	SKLADANÁ Margita	rod.Hudáková	0	484,605,621,629,832,833,850
+2064	SKLADANÁ Mária	I	0	487,502,597,598,606,615,618,620,621,629,698,700,828,829,832,833,849,850
+2064	SKLADANÁ Terézia		0	487,502,597,598,606,615,618,620,621,629,698,700,828,829,832,833,849,850
+2064	SKLADANÁ Verona		0	634
+2064	SKLADANÁ Zuzana		0	640
+2064	SKLADANÝ Andrej		0	613
+2064	SKLADANÝ Bartolomej	I	0	487,726
+2064	SKLADANÝ Imrich		0	487,502,597,598,606,615,618,620,621,629,698,700,828,829,832,833,849,850
+2064	SKLADANÝ Ondrej		0	439
+2064	SKLADANÝ Pavol	I	0	487,502,597,598,606,609,615,618,620,621,629,640,643,698,700,725,828,829,832,833,849,850
+2064	SKLADANÝ Štefan	I	0	487,634
+2064	SLAMINKA Ondrej		0	809
+2064	SOMIČ Ján		0	751
+2064	SOMIČOVÁ Anna	I	0	776
+2064	SOMIČOVÁ Eva		0	776
+2064	SOMIČOVÁ Helena	rod.Karaffová	0	774
+2064	SOMIČOVÁ Mária		0	776
+2064	SONTÁG Anton	II	0	491,665,694,864,865
+2064	SONTÁG Ján		0	665,694,864,865
+2064	SONTÁG Pavol	I	0	665,686,694,864,865
+2064	SONTÁGOVÁ Katarína	rod.Tomeková	0	491,492,665,686,694,864,865
+2064	SONTÁGOVÁ Margita	I	0	686
+2064	SONTÁGOVÁ Margita	rod.Haboráková	0	665,694,864,865
+2064	SONTÁGOVÁ Mária		0	665,694,864,865
+2064	STEFUS Ján		0	751
+2064	STEFUS Mária		0	742
+2064	STEFUSOVÁ Zuzana		0	742
+2064	STOLÁRIK Pavol		0	510
+2064	STOLÁRIKOVÁ Helena		0	510
+2064	STOLÁRIKOVÁ Mária	I	0	510
+2064	STOLÁRIKOVÁ Mária	rod.Kondráková	0	503,504
+2064	STRUK Ján	I.; 0	0	637
+2064	STRUK Michal	I	0	775,802
+2064	STRUK Peter	maloletý	0	763
+2064	STRUK Štefan	maloletý	0	763
+2064	STRUKOVÁ Anna	I	0	792,799,800,802
+2064	STRUKOVÁ Anna	maloletá	0	763
+2064	SUGELOVIČ Bartolomej		0	665,694,864,865
+2064	SUGELOVIČOVÁ Johana	rod.Sontágová	0	665,694,864,865
+2064	SZABOL Matej		0	600
+2064	ŠALAMANOVÁ Mária	rod.Karaffová	0	757
+2064	ŠAMIČOVÁ Helena	rod.Karaffová	0	789
+2064	ŠIDLOVSKÝ Jozef		0	775,790
+2064	ŠIDLOVSKÝ Peter		0	775,790
+2064	ŠIMKOVÁ Mária	rod.Šulíková	0	771
+2064	ŠIMONOVÁ Anna	rod.Reviláková	0	665,694,864,865
+2064	ŠKOPOVÁ Margita	rod.Skladaná, II	0	104,509,930,931,932,933
+2064	ŠKOVRÁNKOVÁ Verona	rod.Šuhajová	0	809
+2064	ŠOLTÉS Jozef		0	773
+2064	ŠTEFUS Ján	I	0	751
+2064	ŠTEFUS Ján	ml	0	751
+2064	ŠTEFUS Michal		0	751
+2064	ŠTIEBER Jakub		0	466,560
+2064	ŠTIEBER Štefan	I	0	465,466
+2064	ŠUHAJ Ján		0	747,809
+2064	ŠUHAJ Michal		0	809
+2064	ŠUHAJ Pavol		0	809
+2064	ŠUHAJ Štefan		0	809
+2064	ŠULÍK Adam		0	742,751
+2064	ŠULÍK Bálint		0	771
+2064	ŠULÍK Demeter		0	742,757,778,784,794,805
+2064	ŠULÍK Iléš		0	771
+2064	ŠULÍK Ján	bacsuff	0	751
+2064	ŠULÍK Ján	bačojurka	0	637
+2064	ŠULÍK Ján	baisin	0	751
+2064	ŠULÍK Ján	I	0	742,751,757,794,799
+2064	ŠULÍK Ján	kovalak	0	751
+2064	ŠULÍK Ján	maloletý	0	763
+2064	ŠULÍK Ján	str	0	751
+2064	ŠULÍK Jozef		0	742,757
+2064	ŠULÍK Juraj		0	637,742,757,794
+2064	ŠULÍK Michal	bačojurka	0	637
+2064	ŠULÍK Michal	I	0	637,751,760
+2064	ŠULÍK Mikuláš	I	0	751,757,795
+2064	ŠULÍK Mikuláš	maloletý	0	763
+2064	ŠULÍK Nikolaj		0	742,757
+2064	ŠULÍK Ondrej		0	742
+2064	ŠULÍK Štefan	sekretár	0	751
+2064	ŠULÍKOVÁ Anna	I	0	751,784,794
+2064	ŠULÍKOVÁ Anna	maloletá	0	763
+2064	ŠULÍKOVÁ Anna	rod.Karaffová	0	742,751,757
+2064	ŠULÍKOVÁ Anna	rod.Koberová	0	757
+2064	ŠULÍKOVÁ Anna	rod.Kozáková	0	757
+2064	ŠULÍKOVÁ Anna	rod.Kozáková, sekretár	0	742
+2064	ŠULÍKOVÁ Anna	rod.Sekretárová	0	757
+2064	ŠULÍKOVÁ Anna	sekretár	0	742,751,792,799
+2064	ŠULÍKOVÁ Helena	I	0	757
+2064	ŠULÍKOVÁ Helena	rod.Karaffová	0	742,794
+2064	ŠULÍKOVÁ Helena	rod.Karaffová, bednár	0	761
+2064	ŠULÍKOVÁ Katarína	sekretár	0	742,751,792,799
+2064	ŠULÍKOVÁ Kristína	rod.Galuščáková	0	751,757
+2064	ŠULÍKOVÁ Mária	I	0	742,751,783,784,804
+2064	ŠULÍKOVÁ Mária	rod.Gulášová	0	742,757,794,795
+2064	ŠULÍKOVÁ Zuzana	sekretár	0	742,751,792,799
+2064	ŠVEC Matej		0	747,809
+2064	ŠVEC Štefan	I	0	809
+2064	TAHY Emil		0	796
+2064	THINÁTOVÁ Katarína	rod.Tomeková	0	472,487,488,597,598,606,621,629,832,833,850
+2064	TIMKO Andrej		0	719
+2064	TIMKOVÁ Helena	rod.Smetanová	0	719
+2064	TOMČÍKOVÁ Judita		0	613
+2064	TOMEK Jozef		0	472,487,488,597,598,606,621,629,832,833,850
+2064	TOMEK Pavol		0	487
+2064	TOMEK Štefan		0	487
+2064	TOMEK Vincent		0	472,487,488,597,598,606,621,629,832,833,850
+2064	TOMEKOVÁ Barbora		0	472,487,488,597,598,606,621,629,832,833,850
+2064	TROJÁNOVIČOVÁ Apolonia	rod.Skladaná	0	640
+2064	TURICKÁ Antónia	rod.Mišenková	0	747
+2064	URDOVÁ Mária	rod.Angelovičová	0	491
+2064	VARHOĽA Michal	I	0	751,757
+2064	VARHOĽA Michal	ml	0	757
+2064	VARCHOLIAK Michal	I	0	742
+2064	VERDUNOVÁ Margita	rod.Karaffová	0	763
+2064	VITOVIČOVÁ Anna	rod.Janičová Šarišské Dravce 223	0	542
+2064	VRÁBEĽ Ján		0	473,481,621,629,832,833,850,944
+2064	VRÁBEĽ Karol		0	424,425,496,507,508,643
+2064	VRÁBEĽ Štefan		0	424,425,496,507,508,643
+2064	VRÁBĽOVÁ Helena		0	424,425,496,507,508,643
+2064	VRÁBĽOVÁ Margita	rod.Mišenčíková	0	707
+2064	VYSOCKÁ Anna	rod.Tomeková	0	621,629,832,833,850
+2064	VYSOCKÁ Margita		0	398,477,485,615,618,620,621,629,828,829,832,833,849,850,938
+2064	VYSOCKÁ Mária	I	0	398,477,485,615,618,620,621,629,828,829,832,833,849,850,938
+2064	VYSOCKÁ Mária	rod.Haščáková	0	751,757,772,795
+2064	VYSOCKÁ Verona	rod.Hudáková	0	487
+2064	VYSOCKÝ Demeter		0	751,757,772,795
+2064	VYSOCKÝ Ján		0	472,487,488,596,597,598,606,609,615,618,620,621,629,828,829,832,833,849,850,872,897
+2064	VYSOCKÝ Ján	II	0	897
+2064	VYSOCKÝ Jozef	I	0	847
+2064	VYSOCKÝ Štefan	II	0	434,465,466,478,615,618,620,828,829,849,861
+2064	ZVADA Juraj		0	747
+2065	Azaryová Alžbeta r. Bosáková		1	868,869
+2065	Bacso Andrej		1	718,739,820
+2065	Bacso Eduard		1	624,718,739,820
+2065	Bocskorás Ján	ž.Mária Géci	1	727
+2065	Bočkoráš Ján		0	611
+2065	Bočkoráš Ján	12.08.1903 ž Bulko Mária	1	639
+2065	Bočkoráš Ján	ž Kettinová Mária	1	631
+2065	Bočkoráš Ján	ž. Bulko Mária	0	581
+2065	Bočkoráš Štefan		0	727
+2065	Bočkorášová Jolana		1	789
+2065	Bočkorášová Mária r. Géciová		0	581
+2065	Bosák Imrich		1	627,770,777,834,868,869,878,879
+2065	Bosák Imrich r. Bosák		1	672
+2065	Bosák Jozef	ž Vámosová Alžbeta	1	787
+2065	Bosáková Alžbeta		1	627,672,770,777,834,868,869,878,879
+2065	Bosáková Alžbeta	Vámosová	1	770,878,879
+2065	Bugošová Alžbeta	Bačová	1	718,739,820
+2065	Bugošová Alžbeta	Drabantová	1	739
+2065	Bugošová Alžbeta r. Drabantová		1	697
+2065	Bulková Alžbeta r. Gedrová		0	592
+2065	Buľková Alžbeta r. Gedrová, Olšovany 60, Olšovany, PSČ 044 19, SR		0	592
+2065	Čmelíková Alžbeta	Horváthová	1	754
+2065	Drabant Štefan		1	779,835
+2065	Drabantová Mária	Bugošová	1	739
+2065	Dudaščiková Barbora		0	609
+2065	Eged Andrej	ž Mrazková Alžbeta	1	722
+2065	Eged Juraj	14.05.1989 Kovalyák 14.5.1889	1	600,784
+2065	Egedová Alžbeta	17.04.1999 Mrasková 17.4.1899	1	722
+2065	Eperješi Imrich	Syn Jána	1	605
+2065	Eperješi Michal	ž Forgáčová Alžbeta	1	815
+2065	Eperješiová Alžbeta r. Egedemriová		0	99
+2065	Gamrát Štefan		0	539
+2065	Gamrátová Alžbeta r. Egedová		0	39,539
+2065	Géci Juraj		0	44,45
+2065	Géci Mária r. Eperješiová		0	45
+2065	Géciová Mária r. Eperješiová		0	44
+2065	Hatalová Alžbeta	Sulterová	1	807
+2065	Horvát Andrej		1	754
+2065	Horvát Michal	04419 Olšovany 8	1	754
+2065	Horvát Ondrej		0	76
+2065	Horvát Ondrej	04419 Olšovany	1	773
+2065	Horvát Pavol		1	754
+2065	Horvát Vincent	04419 Olšovany	1	773
+2065	Horvátová Jolana	04419 Olšovany	1	773
+2065	Chovanová Alžbeta r. Buľková		1	599,981,982,983,984,985,1068
+2065	Jakabová Barbora r. Bočkorašova, Olšovany 81, Olšovany, PSČ 044 19, SR	16.05.1906, zomrela	0	745
+2065	Kavecsanská Barbora	Bulková	1	785
+2065	Kovalčiková Anna r. Drabantová		1	788
+2065	Kozlová Mária		0	609
+2065	Lacko Jozef		0	91
+2065	Lacko Ondrej	06.07.1933 Zomrel 04419 Olšovany 84	1	715
+2065	Lacko Ondrej	28.03.1910 ž Fekete Alžbeta	1	804
+2065	Lacko Pavol		0	91
+2065	Lacková Alžbeta	Feketeová	1	804
+2065	Lukáčová Mária r. Stolárová		1	788
+2065	Marcinová Anna		0	609
+2065	Marinyaková Alžbeta		0	609
+2065	Matisz Andrej		1	674,758,872,882
+2065	Matisz Juraj		1	674,758,872,882
+2065	Matisz Michal		1	674,758,872,882
+2065	Mikláš Štefan	Olšovany Zomrel	1	874,903,1030
+2065	Mikláš Štefan	Olšovany Zomrel; Olšovany Zomrel	0	594
+2065	Miklosová Alžbeta		0	621
+2065	Mitriková Mária r. Bulková		1	714
+2065	Morvayová Alžbeta	Bulková	1	774
+2065	Novotný Ján	ž Kinlovičová Anna	1	829
+2065	Novotný Jozef		1	831
+2065	Okošová Mária r. Bočkorášová		1	666
+2065	Ontko Michal		1	756
+2065	Radvanyiová Alžbeta r. Šulterová		0	539
+2065	Seliga Imrich		1	670,725,791,798
+2065	Seligová Mária r. Dancáková	044 19 Olšovany |; 044 19 Olšovany	1	791
+2065	Soták Ján		0	609
+2065	Sotáková Mária		0	609
+2065	Staňová Alžbeta		1	659
+2065	Szokeová Anna	Štefušová	1	860
+2065	Szokeová Anna r. Štefušová		1	649
+2065	Szücsová Anna r. Šulterová		0	539
+2065	Szvinuická Alžbeta r. Gazsiová		1	94
+2065	Szvinyicky Juraj r. Szvinyicky		1	94
+2065	Šipošová Alžbeta	Mitruková	1	792,797

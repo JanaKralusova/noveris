@@ -1,0 +1,256 @@
+3106	VIGH Žofia r. Dócza	manž.Jozef	0	90,93,289
+3106	VIPLAK František	ml	0	69
+3106	VIPLAK Vincent		0	69
+3106	VIRÁG Pavol	Maďarsko	0	110
+3106	VISNYEI František	erzsébetfalvai	0	60
+3106	VISNYEI František	manž.Franciška,r.Nagy	0	60
+3106	VISNYEI Koloman		0	162
+3106	VISNYEIOVÁ Gizella	mal	0	60
+3106	VOPIČKOVÁ Terézia r. Németh		0	253
+3106	ZÁHORAN Michal		0	264
+3106	ZOBČÍKOVÁ Margita r. Takács		0	267
+3106	ZSADÁNYI Július		0	256
+3107	Bartóková Alžbeta r. Gyurová		1	457
+3107	Bernáthová Terézia r. Sviderová		0	492
+3107	Demeter Daniel r. Demeter	ž. Alžbeta Horváthová	0	418
+3107	Demeter Jozef r. Demeter	ž. Terézia r. Nagyová	0	434
+3107	Demeterová Terézia r. Nagyová		1	508
+3107	Devaiová Julianna r. Körtvélyová		1	541
+3107	Doboš Ľudovít r. Doboš	ž. Alžbeta Kinyisková	0	539
+3107	Doboš Štefan r. Doboš	ž. Anna Töröková	0	619
+3107	Dobošová Ilona		1	504
+3107	Dobošová Mária	mal	0	441
+3107	Fecsová Katarína r. Kovácsová		1	605
+3107	Gyarmalová Ester r. Tegdešová		1	512
+3107	Gyarmatiová Alžbeta r. Tegdesová		1	540
+3107	Hajduová Ilona r. Soltészová		1	449
+3107	Jozsa Ištván	manž.Ester r.Kulcsár	0	584
+3107	Jozsa Jozef r. Jozsa		1	454
+3107	Klatnyaiová Juliana r. Feketeová		1	459
+3107	Konyhová Piroška r. Sabová		1	485
+3107	Körtvély Alexander r. Körtvély		1	595
+3107	Kovács Jozef r. Kovács		1	606
+3107	Kovácsová Irma r. Kortvelyová		1	397
+3107	Kovácsová Terézia r. Molnárová		0	426
+3107	Kováč Jozef		1	397
+3107	Kováč Jozef r. Kováč	mal	0	418
+3107	Kováč Ľudovít r. Kováč		1	603
+3107	Kováčová Zuzana r. Szabová		0	418
+3107	Laczová Mária r. Seregelyová		1	573
+3107	Mihaliková Terézia r. Monárová		1	575
+3107	Molnár Daniel	ž. Žofia rod. Eleková	0	419
+3107	Molnár Ján		1	560
+3107	Molnárová Ilona r. Tóthová		1	551
+3107	Molnárová Mária r. Balázsová		1	542
+3107	Molnárová Terézia r. Hajduová		1	319,445
+3107	Molnárová Zuzana r. Csehová		1	530
+3107	Molnárová Zuzana r. Eleková		1	536
+3107	Nagy Andrej r. Nagy	ž. Anna Molnárová	0	620
+3107	Nagy Ľudovít r. Nagy		1	505
+3107	Nagyová Juliana r. Mészárosová		1	609
+3107	Rajczi Alexander r. Rajczi		1	621
+3107	Rajczi Jozef r. Rajczi		1	537
+3107	Rajczi Ľudovít r. Rajczi	ž. Barbora Pappová	1	446
+3107	Rajczi Štefan r. Rajczi	ž. Barbora Körtvélyová	0	616
+3107	Sabová Margita		1	448
+3107	Seregely Alexander r. Seregely		1	456
+3107	Seregely Daniel		1	398
+3107	Seregely Jozef		1	386
+3107	Seregely Jozef r. Seregely		1	585
+3107	Seregely Jozef r. Seregely	ž. Mária Žoková	0	452
+3107	Seregely Július		1	398
+3107	Seregelyová Alžbeta		1	592
+3107	Seregelyová Helena r. Jozsová		1	587
+3107	Seregélyová Ilona r. Józsová		1	567
+3107	Soltesz Alexander		1	399
+3107	Szabová Zuzana r. Nagyová		1	547
+3107	Szanyiová Alžbeta r. Tegdešová		1	604
+3107	Šoltés Alexander r. Šoltés		1	489
+3107	Šoltésová Helena r. Péterová		0	418
+3107	Šoltésová Mária r. Péterová		0	418
+3107	Šoltésová Terézia		0	418
+3107	Šoltész Michal r. Šoltész		1	503
+3107	Tegdes Ján r. Tegdes	ž. Alžbeta Szabová	0	477
+3107	Tegdes Jozef r. Tegdes	ž. Alžbeta Szanyiová	0	468
+3107	Tegdeš Alexander r. Tegdeš		1	521
+3107	Tegdeš Mikloš r. Tegdeš	ž. Alžbeta r. Hednová	0	479
+3107	Turbanová Mária r. Feketeová		1	473
+3108	ÁDÁM Ján		0	556
+3108	ÁDÁM Ján	M	0	563,612,1149,1301
+3108	ÁDÁM Ján	ml	0	808,830,1115,1305
+3108	ÁDÁM Jozef		0	586,1324,1427
+3108	ÁDÁM Jozef	H	0	763,801
+3108	ÁDÁM Ladislav		0	928
+3108	ÁDÁM Martin		0	715
+3108	ÁDÁM Nítus		0	794
+3108	ÁDÁM Pavol		0	723
+3108	ADÁM Štefan		0	661,719,830,848
+3108	ADÁM Štefan	5, Miško	0	774,803,1380
+3108	ÁDÁMOVÁ Alžbeta		0	723,855,928
+3108	ÁDÁMOVÁ Alžbeta r. Rizik Kocsisová		0	761,989
+3108	ÁDÁMOVÁ Etela r. Ádámová		0	581,608,621,625,727,744,781,786,791,1112,1168,1182,1194,1198,1252,1264,1291,1292,1299,1300,1303,1323,1341,1344,1367,1374,1381,1419,1420
+3108	ÁDÁMOVÁ Františka r. Rizik Kocsisová	H	0	761
+3108	ÁDÁMOVÁ Júlia r. Gálová		0	1055
+3108	ÁDÁMOVÁ Mária r. Soltészová		0	722,798
+3108	ÁDÁMOVÁ Terézia	Pál	0	581,801,1182,1198,1292,1299
+3108	ÁDÁMOVÁ Terézia r. Vargaová		0	705,808,830,1115,1305
+3108	ÁDÁMOVÁ Zuzana		0	801
+3108	ALMÁSIOVÁ Helena r. Švajková		0	736
+3108	ALMÁSSY Andrej		0	808,824,1115,1305
+3108	ANDRÁSSY Jozef		0	867
+3108	ANDRÁSSYOVÁ Júlia r. Komlóšová		0	867
+3108	ANTAL Ondrej		0	737
+3108	ANTALOVÁ Juliána r. Mináčová		0	1046
+3108	ASZTALOS Ladislav		0	57,527,529
+3108	ASZTALOS Ľudovit		0	57
+3108	ASZTALOSOVÁ Etela		0	527,529,623,1189,1204,1311
+3108	ASZTALOSOVÁ Helena r. Kocsisová		0	763
+3108	Asztaloš Ladislav	zomr.:26.06.1993 naposledy bytom:Včelince	0	295
+3108	Babik Ladislav		0	450
+3108	BÁBIKOVÁ Barbora		0	808,1115,1305
+3108	BABIKOVÁ Gizela r. Kováčová		0	776
+3108	Bajusz Rozália r. Babik	manžel:Ondrej	0	450
+3108	BAJUSZOVÁ Rozália r. Babíková		0	587,635,1179,1231,1390,1391
+3108	BALAJTI Štefan		0	1046
+3108	BALAJTIOVÁ Ida		0	1046
+3108	BALÁZS Jozef		0	541
+3108	BALÁZS Pavol		0	535
+3108	BALÁZS Vojtech		0	541
+3108	BALÁZSOVÁ Markéta r. Tóthová		0	535
+3108	BÁLINT Ambróz	Simon	0	924,934
+3108	BÁLINTOVÁ Zuzana r. Ďulovicsová		0	683,695
+3108	BÁRCZI Ján		0	724
+3108	BARNA Ľudovít		0	860
+3108	Barta Olga r. Balog	manžel:Barta Vojtech	0	298
+3108	BARTA Štefan	2, ml	0	921
+3108	BARTAOVÁ Terézia r. Ádámová		0	808,830,848,1115,1305
+3108	BÉM Ľudovít		0	702,790
+3108	BENE Ján		0	746
+3108	BENE Jozef		0	566,788
+3108	BENE Koloman		0	559,560
+3108	BENE Ľudovít		0	575,576,788,1177,1190,1379
+3108	BENEOVÁ Mária r. Együdová		0	576,728,796,1177
+3108	BENEOVÁ Priska r. Tamásová		0	576,728,774,1177,1380
+3108	BÓDI Bartolomej		0	639,650,661,720,808,827,1115,1305
+3108	BÓDI František		0	643,717,724,936,937
+3108	BÓDI František	H	0	842,933
+3108	BÓDI Imrich		0	817
+3108	BÓDI Imrich	Dezider	0	818,831
+3108	BÓDI Ján		0	639
+3108	BÓDI Jozef	H	0	687,917,933
+3108	BÓDI Július		0	643,852
+3108	BÓDI Július	Kj	0	707,724
+3108	BÓDI Karol		0	695
+3108	BÓDI Ladislav		0	646,697,834,936,937,938
+3108	BÓDI Ladislav	H	0	644,685,716,933
+3108	BÓDI Ladislav	Kj	0	643,646,724,730,853
+3108	BÓDI Ľudovít	Kj	0	768
+3108	BÓDI Michal	Zsóri	0	700,1114
+3108	BÓDI Mikuláš		0	639,650,661,720,808,827,1115,1305
+3108	BÓDI Pavol		0	730
+3108	BÓDI Pavol	H	0	644,685,716
+3108	BÓDI Štefan		0	639,650,657,661,710,720,730,827,933
+3108	BÓDI Štefan	H	0	644,685,716
+3108	BÓDI Viliam		0	661
+3108	BÓDI Vojtech		0	656
+3108	BÓDI Vojtech	K	0	656,808,934,1115,1305
+3108	BÓDIOVÁ Alžbeta		0	808,836,847,918,1115,1305
+3108	BÓDIOVÁ Barbora		0	643,646,724,936,937,938
+3108	BÓDIOVÁ Barbora r. Liptáková		0	808,1115,1305
+3108	BÓDIOVÁ Elena r. Kercsíková		0	808,1115,1305
+3108	BÓDIOVÁ Františka		0	646,831,938
+3108	BÓDIOVÁ Františka r. Ádámová		0	928
+3108	BÓDIOVÁ Františka r. Bódiová	H	0	639,650,661,720,808,827,1115,1305
+3108	BÓDIOVÁ Hermína r. Bodnárová		0	808,1115,1305
+3108	BÓDIOVÁ Juliána r. Berecová		0	842
+3108	BÓDIOVÁ Juliána r. Gerécová		0	709,932
+3108	BÓDIOVÁ Malvína		0	1115
+3108	BÓDIOVÁ Margita		0	656,808,847,1115,1305
+3108	BODIOVÁ Margita r. Bódiová	B	0	657
+3108	BÓDIOVÁ Priska		0	818,831
+3108	BÓDIOVÁ Žófia		0	724
+3108	BODNÁR Jozef		0	655,1000,1262
+3108	BODNÁR Pavol		0	645
+3108	BODNÁR Vojtech		0	1000,1262
+3108	BODNÁROVÁ Hermína		0	920
+3108	BODNÁROVÁ Jolana		0	616,708,743,1180,1202,1253,1287
+3108	BODNÁROVÁ Margita r. Szabóová		0	1069
+3108	Bodolló Ján		0	298
+3108	Bodolló Ján	manželka:Barbora Tóthová	0	298
+3108	Bodolló Ladislav	manželka:Kosztúrová Alžbeta	0	298
+3108	BODOLLÓ Ladislav	2, zomr. 1964	0	615,1200
+3108	CSEFF Ladislav		0	912,984,1027,1028,1273,1365
+3108	CSISZÁR Gejza		0	771
+3108	CSISZÁR Július		0	771
+3108	CSISZÁR Koloman	zomr	0	738,762,771
+3108	CSISZÁR Štefan		0	738
+3108	CSISZÁROVÁ Helena r. Kissová	zomr	0	771
+3108	CSISZÁROVÁ Mária r. Anderkoová		0	704
+3108	CSIZIOVÁ Apolónia r. Szabóová		0	1046
+3108	CSIZMADIAOVÁ Alžbeta r. Bódiová		0	808,1115,1305
+3108	Czokolyová Anna r. Csiszárová		0	771
+3108	Čordášová Priska r. Kiselová		0	534
+3108	DANČÁNI Jozef		0	563
+3108	DARNYIOVÁ Júlia r. Bódiová		0	808,1115,1305
+3108	DÁRNYIOVÁ Juliána r. Bódiová		0	933
+3108	DEÁKOVÁ Alžbeta r. Balázsová		0	541
+3108	DEDINSZKYOVÁ Margita r. Szakácsová		0	527,528,674,1430
+3108	DELFINYIOVÁ Rozália r. Gulyásová		0	977,978,982,1014,1017,1058,1060,1063,1136,1412
+3108	DEMETER Koloman		0	771
+3108	DEMETER Ladislav		0	771
+3108	DUSZAOVÁ Margita r. Szökeová		0	566,800
+3108	EGYÜD Jozef		0	548
+3108	EGYÜD Jozef	2, ml	0	602,799,1183,1199,1297,1318
+3108	Együd József		0	295
+3108	Együd József	ml	0	295
+3108	EGYÜD Štefan		0	576,728,796,1177
+3108	FABÓ Ján		0	583,807
+3108	FARKAŠOVÁ Helena r. Kočišová		0	801
+3108	FILEP František		0	1108
+3108	FILEP Ladislav		0	780
+3108	FILEPOVÁ Františka r. Beneová		0	575,576,653,728,729,746,774,780,788,796,797,803,804,1177,1190,1279,1379,1380
+3108	FÜKÖ Gejza		0	1046
+3108	FÜKÖ Ľudovít	st	0	1046
+3108	FÜKÖOVÁ Alžbeta r. Bedecsová		0	1046
+3108	FÜKÖOVÁ Helena r. Balogová		0	577,748,1195
+3108	Fülöp Jozef		0	1098,1106
+3108	FÜRJES Štefan	Filep	0	1055
+3108	FÜRJESOVÁ Gizela	B	0	1055
+3108	GÁLOVÁ Alžbeta		0	1055
+3108	GÁLOVÁ Rozália	zomr. 11.03.2003	0	131
+3108	GÓBIS Ján		0	658
+3108	GÓBISOVÁ Rozália		0	537
+3108	GÖDÉR Jozef		0	538
+3108	GÖDÉR Ľudovít		0	760
+3108	GÖDÉROVÁ Helena		0	551,552,577,741,752,1195
+3108	GÖDÉROVÁ Helena r. Ádámová		0	883
+3108	GÖDÉROVÁ Irena r. Együdová		0	770
+3108	GÖDÉROVÁ Júlia		0	577,741,1195
+3108	Gubo Ján		0	450
+3108	GULYÁS Alexander		0	996,997
+3108	GULYÁS Augustín		0	773
+3108	GULYÁS Ján		0	1058
+3108	GULYÁS Július		0	996,997
+3108	GULYÁSOVÁ Barbora r. Tannerová		0	996,997
+3108	HALÁSZ Jozef	ml	0	912
+3108	HALÁSZ Jozef	st	0	912
+3108	HALÁSZ Štefan, Dr.		0	912
+3108	HEVESSY Ľudovít		0	771
+3108	HIBLER Pavol		0	953
+3108	HIBLEROVÁ Júlia r. Englerová		0	953
+3108	HORKAYOVÁ Júlia r. Martonová		0	898
+3108	HORVÁTH Alfonz		0	543,557,619,620,713,1259,1296,1408
+3108	Horváth Antal		0	60
+3108	HORVÁTH Antonín	ž. Barnócziová Hermína	0	543,557
+3108	Horváth Ilona		0	60
+3108	HORVÁTH Ján		0	902
+3108	Horváth Sarolta		0	60
+3108	HORVÁTH Štefan	ml	0	543
+3108	HORVÁTHOVÁ Ema r. Terpáková		0	624,726,775,793,795,1302
+3108	HORVÁTHOVÁ Helena		0	557
+3108	Horváthová Hermína r. Barnoczki		0	60
+3108	Horváthová Ilona	mal	0	60
+3108	Horváthová Šarolta	mal	0	60
+3108	HORVÁTHOVÁ Šarolta		0	543,557
+3108	HUBAY Alexander	J	0	889
+3108	HUBAY Ján		0	568

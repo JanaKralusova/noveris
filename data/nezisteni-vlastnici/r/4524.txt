@@ -1,0 +1,256 @@
+2562	Ferenc Ján r. Ferenc	vzd	0	51,852,1161,1162,1163,1164,1169,1170
+2562	Ferenc Jozef r. Ferenc		0	51,1163,1164
+2562	Ferenc Michal r. Ferenc		0	632
+2562	Ferenc Michal r. Ferenc	1	0	51,852,1161,1162,1163,1164,1169,1170
+2562	Ferenc Pavol r. Ferenc		0	632
+2562	Ferenc Pavol r. Ferenc	vzd	0	852,1161,1162,1163,1164,1169,1170
+2562	Ferencová Anna r. Ferencová	vzd	0	51,632,852,1161,1162,1163,1164,1169,1170
+2562	Frančík Ján		0	387
+2562	Frančíková Mária r. Baníková		0	594,780,1308
+2562	Friana Martin r. Friana	manž.Anna r.Dojčáková	0	1198
+2562	Friedmann Alexander r. Friedmann	manž.Etela r.Wintnerová	0	1148,1176
+2562	Friedmannová Etela r. Wintnerová		0	1148,1176
+2562	Fuga Ján r. Fuga		0	869,1283
+2562	Fugová Verona r. Fuňáková		0	1143,1149,1185,1187,1292
+2562	Fuňák Ján r. Fuňák		0	545
+2562	Fuňák Ján r. Fuňák	1	0	623,1261
+2562	Fuňák Jozef r. Fuňák	manž.Helena r.Tkáčová	0	249,623,624,625,628,1092,1238
+2562	Fuňak Juraj r. Fuňak	manž.Mária r.Šebová	0	936,1238
+2562	Fuňák Juraj r. Fuňák		0	931,996,1238
+2562	Fuňák Juraj r. Fuňák	vzd	0	48,933,1143,1177,1185,1187,1239,1277,1286
+2562	Fuňák Michal r. Fuňák		0	48,933,1143,1177,1185,1187,1239,1277,1286
+2562	Fuňáková Anna r. Oláhová	muž Ján	0	597
+2562	Fuňáková Júlia r. Sebová		0	933
+2562	Fuňaková Mária r. Fuňaková		0	1277
+2562	Fuňáková Mária r. Sebová	muž Juraj	0	996,1143,1177,1286
+2562	Fuňáková Mária r. Šebová	muž Juraj; muž Juraj	0	1185,1187
+2562	Gajdiková Anna r. Mudroňová		0	313
+2562	Gajdzik Ján		0	313
+2562	Gajdzík Ján r. Gajdzík		0	125,159,1257
+2562	Gajdzík Ján r. Gajdzík	1	0	1243
+2562	GAJDZIK JOZEF		0	159,313
+2562	Gajdzik Jozef r. Gajdzik		0	1257
+2562	Gajdzik Jozef r. Gajdzik	manž.M.r.Macková	0	1201
+2562	Gajdzík Jozef r. Gajdzík	manž.Mária r.Medvecová	0	125,682
+2562	Gajdzik Juraj r. Gajdzik	1	0	1243
+2562	Gajdzik Michal r. Gajdzik	1	0	311,827
+2562	Gajdzík Michal r. Gajdzík		0	125,1243
+2562	Gajdzik Štefan r. Gajdzik	manž.Alžbeta r.Košudová	0	1243
+2562	Gajdziková Alžbeta r. Košudová		0	1243
+2562	Gajdziková Anna r. Marcinková		0	1157
+2562	Gajdzíková Mária r. Gajdzíková	mal	0	124
+2562	Gambaľ Jozef r. Gambaľ	manž.Alžbeta r.Cvejkušová	0	1143,1185,1187,1189,1191
+2562	Gambaľ Jozef r. Gambaľ a Alžbeta Gambaľová r. Cvejkušová		0	38
+2562	Gambaľová Alžbeta r. Cvejkušová		0	1143,1185,1187,1189,1191,1264
+2562	Gašpar Ján r. Gašpar		0	1143,1185,1187
+2562	GAŠPAROVÁ Anna		0	1075
+2562	Gašparová Anna r. Jakubčáková		0	1143,1185,1187
+2562	GAŠPAROVÁ Mária		0	1075
+2562	Goga Andrej r. Goga	manž.Anna r.Semanová	0	649,1219
+2562	Goga Andrej r. Goga	manž.Anna r.Tereková	0	769,1253,1262
+2562	Goga Ján r. Goga		0	632,854,1006,1219,1249,1262
+2562	Goga Ján r. Goga	mal	0	51,852,1161,1162,1163,1164,1169,1170
+2562	Goga Jozef r. Goga	mal	0	632,854,1006,1219,1249,1262
+2562	Goga Michal r. Goga		0	632,641,1036,1230
+2562	Goga Michal r. Goga	2	0	852,1161,1162,1169,1170
+2562	Goga Michal r. Goga	3	0	1302
+2562	Goga Michal r. Goga	mal	0	632,854,1006,1219,1249,1262
+2562	Goga Michal r. Goga	manž.Anna r.Čalfová	0	824,1006
+2562	Goga Michal r. Goga	manž.Anna r.Semanová	0	822
+2562	Goga Michal r. Goga	vzd	0	51,854,1163,1164
+2562	Gogová Agnesa r. Gogová	mal	0	632,854,1006,1219,1249,1262
+2562	Gogová Alžbeta r. Paľková		0	1206
+2562	Gogová Anna r. Čalfová		0	1006,1083
+2562	Gogová Anna r. Gogová		0	854
+2562	Gogová Anna r. Gogová	mal	0	632,854,1006,1219,1249,1262
+2562	Gogová Anna r. Semanová		0	836,1219,1230
+2562	GOGOVÁ Anna r.Semanová		0	204
+2562	Gogová Helena r. Gogová	mal	0	632,854,1006,1219,1249,1262
+2562	Gogová Mária r. Gogová	mal	0	632,854,1006,1219,1249,1262
+2562	Gogová Pavlína r. Gogová	mal	0	632,854,1006,1219,1249,1262
+2562	Gombita Pavol r. Gombita	manž.Anna r.Reváková	0	1270
+2562	Gombitová Anna r. Reváková		0	1270
+2562	Grajcar Ján r. Grajcar	manž.Mária r.Milkaninová	0	1198
+2562	Grajcar Ján r. Grajciar	manž.Mária	0	1234
+2562	Grajcar Juraj r. Grajcar	manž.Mária r.Palková	0	1217
+2562	Grajcar Michal r. Grajcar		0	914,1071,1263
+2562	Grajcar Michal r. Grajcar	manž.Mária r.Fuňáková	0	1198
+2562	Grajcár Michal r. Grajcár	manž.Mária r.Timková	0	1263
+2562	Grajcarová Alžbeta r. Grajcarová		0	914,1071,1263
+2562	Grajcarová Alžbeta r. Tkáčová		0	216,797,928
+2562	Grajcarová Anna r. Grajcarová		0	914,1071,1263
+2562	Grajcarová Anna r. Hajduková		0	1306
+2562	Grajcarová Mária r. Fuňáková		0	48,933,1143,1177,1185,1187,1239,1277,1286
+2562	Grajcarová Mária r. Milkanínová		0	1307
+2562	Grajcarová Mária r. Šebová		0	62,63,64,66,515
+2562	Grajciar Juraj r. Grajciar		0	1234
+2562	Grajciar Michal r. Grajciar	mal	0	1072
+2562	Grajciarová Alžbeta r. Grajciarová	mal	0	1072
+2562	Grajciarová Anna r. Grajciarová	mal	0	1072
+2562	Grajciarová Mária r. Grajciarová	muž Ján	0	1234
+2562	Griš Pauliščák Michal r. Griš Pauliščák		0	843
+2562	Grossmann Herman r. Grossmann		0	1325
+2562	Haber Eugen r. Haber		0	1328
+2562	Hadik Barkoczy Andrej Dr.  r. Hadik Barkoczy		0	484
+2562	HAJDUK ANDREJ		0	199,240
+2562	Hajduk Andrej r. Hajduk		0	543,604,606,608,642,1218
+2562	Hajduk Andrej r. Hajduk	I. manž.Mária r.Dudašová, II. manž.Zuzana r.Horňáková	0	604
+2562	Hajduk Andrej r. Hajduk	ml	0	235,605,972
+2562	Hajduk Jozef r. Hajduk		0	543,606,972
+2562	Hajduk Jozef r. Hajduk	1	0	1218
+2562	HAJDUK JURAJ		0	240
+2562	Hajduk Juraj r. Hajduk	1	0	235,543,605,606,608,972
+2562	Hajduk Juraj r. Hajduk	2	0	237,952
+2562	Hajduk Juraj r. Hajduk	3	0	642,1179,1218
+2562	Hajduková Mária r. Paľková		0	1206
+2562	Hajduková Zuzana r. Horňáková		0	1179
+2562	Halamič Michal r. Halamič		0	1143,1185,1187,1293
+2562	Hergeľ Ľudovít		0	64
+2562	Hergeľová Mária r. Semanová		0	222,582,584,1305
+2562	Hergely Ľudovít		0	64
+2562	Hergelyová Alžbeta r. Novacká	muž Samuel	0	547
+2562	Hladká Mária r. Kovaľová		0	252,623,787,1265
+2562	Hlastová Mária r. Paľková		0	1206
+2562	Hodovanecová Mária r. Kovaľová		0	252,623,787,1265
+2562	Hudáková Alžbeta r. Michľová		0	901
+2562	Hudáková Mária r. Oláhová		0	572
+2562	Hvastová Mária r. Paľková		0	64,66,1173,1266,1268
+2562	Hvaszká Mária r. Palková		0	62
+2562	Jednotné Roľnícke r. Družstvo		0	1201,1343,1344,1347,1348,1349,1350,1351
+2562	Jonek Ján r. Jonek	mal	0	1252
+2562	Jonek Jozef r. Jonek		0	561
+2562	Jonek Jozef r. Jonek	1	0	990,1130,1155
+2562	Jonek Jozef r. Jonek	manž.Anna r.Oláhová	0	129,130,559,640,649,668,990,1130,1145,1151,1155,1213
+2562	Jonek Jozef r. Jonek	ml	0	559,647,648,649,1151,1229
+2562	Jonek Jozef r. Jonek	USA	0	1145
+2562	Jonek Michal r. Jonek		0	559,1151
+2562	Joneková Anna r. Oláhová		0	129,130,131,597,598,640,649,668,990,1130,1145,1155,1213,1229
+2562	Joneková Mária r. Čalfová		0	822
+2562	Kanaloš Jozef r. Kanaloš	manž.Anna r.Bogdanová	0	1273
+2562	Kanaloš Michal r. Kanaloš		0	1274
+2562	Kanaloš Michal r. Kanaloš	manž.Anna r.Kanalošová	0	1273
+2562	Kanaloš Pavol r. Kanaloš		0	1274
+2562	Kanalošová Anna r. Bogdanová		0	1273
+2562	Kanalošová Anna r. Kanalošová		0	1273,1274
+2562	Kanalošová Mária r. Hodovancová		0	1274
+2562	Karaschová Alžbeta r. Šebová		0	789
+2562	Karchová Alžbeta r. Šebová		0	788
+2562	Kerčáková Mária r. Zeleňaková	muž Ján	0	561,1151
+2562	Kerčáková Mária r. Zeleňáková		0	119,559,1047
+2562	Kerčáková Mária r. Zeleňáková	muž Jozef	0	365,585
+2562	Kiselová Mária r. Cvejkušová		0	1291
+2562	Kischová Mária r. Cvejkušová		0	1143,1185,1187
+2562	Kočan Teodor r. Kočan	manž.Zuzana r.Vysoká	0	1148,1176
+2562	Kočanová Zuzana r. Vysoká		0	1148,1176,1321
+2562	Korčáková Mária r. Zeleňáková	muž Jozef	0	364,650
+2562	Kovalová Helena r. Kovalová	mal	0	252,1265
+2562	Kovaľová Ilona r. Kovaľová		0	787
+2562	Kovalová Mária r. Kovalová	mal.,ml	0	252,1265
+2562	Kovaľová Mária r. Kovaľová		0	787
+2562	Kovaľová Mária r. Kovaľová	2	0	787
+2562	Kovaľová Mária r. Kovaľová	mal	0	252,623,1265
+2562	KOVALOVÁ Mária r.Mudroňová		0	69
+2562	Kožejová Alžbeta r. Baníková		0	63,515,778,792
+2562	Krámer Jozef r. Krámer		0	972
+2562	Kramerová Alžbeta r. Kramerová		0	505,664,777,778,1232
+2562	Kramerová Alžbeta r. Kramerová	mal	0	666
+2562	Kramerová Anna r. Kramerová		0	505,778
+2562	Kramerová Anna r. Kramerová	mal	0	666
+2562	Kramerová Terezia r. Kramerová	mal	0	666,1232
+2562	Krištová Mária r. Kuncová		0	915
+2562	Krištová Mária r. Michľová		0	901
+2562	Kubek Alex r. Kubek	manž.Valeria r.Prokopovičová	0	1198
+2562	Kubik Andrej r. Kubik		0	893
+2562	Kubiková Mária r. Kramerová		0	893
+2562	Kunca Ján r. Kunca		0	915
+2562	Kunca Ján r. Kunca	manž.Mária r.Novotná	0	915
+2562	Kunca Michal r. Kunca		0	915
+2562	Kunca Pavol r. Kunca		0	915
+2562	Kuncová Helena r. Kuncová		0	915
+2562	Kundravý Ján r. Kundravý		0	1301
+2562	Kundravý Ján r. Kundravý	manž.Anna r.Sebová	0	515
+2562	Kužmová Anna r. Šebová		0	1271
+2562	KUŽMOVÁ Mária	r.Dudášová muž Ján	0	1078
+2562	LEŠKO Ján	č.d.2191/1935	0	1073
+2562	LIČKOVÁ Zuzana	r.Dudášová muž Ján	0	1078
+2562	Lukačín Ján r. Lukačín	manž.Anna r.Michľová	0	1317
+2562	Lukačínová Anna r. Michľová		0	1317
+2562	Maťaščik Juraj r. Maťaščik	roľník v Hadzanoch	0	1311
+2562	Mehal Andrej r. Mehal		0	1320
+2562	Michľo Ján r. Michľo	mal	0	92
+2562	Michľo Jozef r. Michľo	mal	0	92
+2562	Michľo Juraj r. Michľo		0	901
+2562	Michľo Michal r. Michľo	manž.Mária r.Heminová	0	901
+2562	Michlová Anna r. Dolacká		0	92
+2562	Michľová Helena r. Michľová	mal	0	92
+2562	Mikloš Andrej r. Mikloš	manž.Helena r.Dolacká	0	1316
+2562	Miklošová Helena r. Dolacká		0	1316
+2562	Mikulová Anna r. Kovaľová		0	252,623,787,1265
+2562	MILKANINOVA MARIA R GRAJCAROVA		0	16
+2562	Minarík Andrej r. Minarík	manž.Anna r.Novotná	0	1318
+2562	Minaríková Anna r. Novotná		0	1318
+2562	Mittelmannová Gizela r. Eckerová		0	1324
+2562	Mudroň Andrej r. Mudroň		0	664,777,778,1181,1232
+2562	Mudroň Andrej r. Mudroň	2	0	1233
+2562	Mudroň Emil r. Mudroň	vzd	0	1181,1233
+2562	Mudroň Ján r. Mudroň		0	664,777,778,1232
+2562	Mudroň Ján r. Mudroň	vzd	0	731
+2562	Mudroň Jozef		0	159,313
+2562	Mudroň Jozef r. Mudroň		0	468,732,762,763,1035,1257
+2562	Mudroň Jozef r. Mudroň	vzd	0	682
+2562	Mudroň Jozef r. Mudroň	vzd., 1	0	1181,1233
+2562	Mudroň Michal		0	159,313
+2562	Mudroň Michal r. Mudroň		0	1233,1257
+2562	Mudroň Michal r. Mudroň	1	0	682,731
+2562	Mudroň Michal r. Mudroň	2	0	468,732,762,763,775,1035
+2562	Mudroň Michal r. Mudroň	3	0	1232
+2562	Mudroň Michal r. Mudroň	manž.Alžbeta r.Zudasová	0	731
+2562	Mudroň Štefan r. Mudroň	vzd	0	1181,1233
+2562	Mudroň Viliam r. Mudroň	vzd	0	1181,1233
+2562	Mudronová Alžbeta r. Raková	Sedliská 119	0	1251
+2562	MUDROŇOVÁ Alžbeta r.Raková		0	69
+2562	Mudroňová Anna r. Grisová		0	1198
+2562	Mudroňová Mária r. Mudroňová	vzd	0	1181,1233
+2562	Mudroňová Mária r. Poláková	muž Ján	0	1233
+2562	MUDROŇOVÁ Mária r.Raková		0	69
+2562	Murín Jozef r. Murín	manž.Anna r.Vasilová	0	1198
+2562	MURÍN Michal		0	204
+2562	Murin Michal r. Murin		0	778
+2562	Murin Michal r. Murin	ml., manž.Anna r.Gogová	0	641,770,824,1005,1006,1036,1230
+2562	Murín Michal r. Murín	1	0	1071
+2562	Murín Michal r. Murín	manž.Anna r.Cvejkušová	0	1143,1171,1185,1187,1263,1340,1341,1342,1345,1346
+2562	Murínová Anna r. Cvejkušová		0	1279,1280
+2562	Murínová Anna r. Cvejkušová	muž Michal	0	1143,1171,1185,1187,1235,1263,1340,1341,1342,1345,1346
+2562	Murinová Anna r. Gogová		0	589,1048,1049,1230
+2562	Murínová Anna r. Kramerová		0	666
+2562	Murínová Anna r. Murínová		0	1071
+2562	Murínová Anna r. Poľaková		0	1013,1135
+2562	Murínová Mária r. Fecenková		0	582
+2562	Murinová Mária r. Poláková	muž Michal	0	663
+2562	Novotná Anna r. Novotná		0	1314
+2562	Novotná Helena r. Novotná	m. Ján	0	1123
+2562	Novotná Helena r. Zajacová		0	1314
+2562	Novotná Mária r. Novotná		0	1314
+2562	Novotný Ján r. Novotný		0	1314
+2562	Novotný Jozef r. Novotný		0	1314
+2562	Novotný Michal r. Novotný		0	779
+2562	OLAH Ján	ž.Anna r.Horňáková	0	1082
+2562	Oláh Ján r. Oláh	mal	0	83
+2562	Oláh Jozef r. Oláh		0	876
+2562	Oláh Jozef r. Oláh	mal	0	83
+2562	Oláh Michal r. Oláh		0	876,1379
+2562	Oláh Michal r. Oláh	1	0	876
+2562	Oláh Michal r. Oláh	mal	0	83
+2562	Oláhová Mária r. Sabová	muž Ján	0	83
+2562	Olách Andrej r. Olách		0	235,1218
+2562	Olách Jozef r. Olách		0	1278,1279
+2562	Olách Michal r. Olách		0	642,1218
+2562	Olách Michal r. Olách	manž.Anna r.Saxunová	0	1300,1315
+2562	Olách Michal r. Olách	manž.Mária r.Hričáková	0	1198
+2562	Oláchová Anna r. Murinová		0	228,663,1171,1269,1340,1341,1342,1345,1346
+2562	Oláchová Justína r. Šimová		0	1278,1279
+2562	Olejárová Anna r. Baníková		0	990,1130,1155
+2562	Palančíková Alžbeta r. Poláková	muž Tomáš	0	663,1232
+2562	Palenčíková Anna r. Michľová		0	92
+2562	Paľko František r. Paľko		0	1148,1176
+2562	Paľko Ján r. Paľko		0	1148,1176

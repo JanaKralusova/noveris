@@ -1,0 +1,256 @@
+1001	Latečka Kazimír	/Ján/	0	2584
+1001	Látečková Helena		0	2700
+1001	Látečková Johanna		0	2700
+1001	Lazik Jozef	/ž. Mária r.Matiašková/	0	1311,1550,2286,2700
+1001	Lazik Jozef	a	0	1311,1550,2286,2700
+1001	Lazik Jozef	b	0	1311,1550,2286,2700
+1001	Laziková Elena		0	1311,1550,2286,2700
+1001	Laziková Helena	a	0	1311,1550,2286,2700
+1001	Laziková Helena	b	0	1311,1550,2286,2700
+1001	Láziková Mária	mal. a	0	1311,2286,2700
+1001	Láziková Mária	mal.b	0	1550
+1001	Laziková Matilda	a	0	1311,1550,2286,2700
+1001	Laziková Matilda	b	0	1311,1550,2286,2700
+1001	Leskovská Agnesa	r.Maskuthová /m.Ján/	0	2765
+1001	Leskovský Ján	/ž.Agnesa r.Maskuthová/	0	2765
+1001	Lieskovská Anna	r.Haringová /m.Jozef/ a	0	1974
+1001	Lieskovská Anna	r.Haringová /m.Jozef/ b	0	2300
+1001	Lieskovská Anna	r.Haringová /m.Jozef/ d	0	2473
+1001	Lieskovská Anna	r.Haringová /m.Jozef/ e	0	2700
+1001	Lieskovská Júlia	r.Kovárová	0	2518
+1001	Lieskovská Mária	r.Brezinová a	0	826,2324
+1001	Lieskovská Mária	r.Brezinová b	0	826
+1001	Lieskovská Mária	r.Brezinová vd./m.Ján/	0	826,1550,2700
+1001	Lieskovský Ján	/syn Jána/	0	2447,3547,3615
+1001	Lieskovský Jozef	/ž.Anna r.Haringová/ a	0	1974
+1001	Lieskovský Jozef	/ž.Anna r.Haringová/ b	0	2473
+1001	Lieskovský Jozef	/ž.Júlia r.Kovárová/	0	2435,2436,2529
+1001	Lieskovský Jozef	a	0	2474
+1001	Lieskovský Jozef	b	0	2650
+1001	Lieskovský Ľudovít	/ž.Mária r.Polacká/	0	2435,2436,2529
+1001	Lieskovský Štefan	/syn Jána/	0	2447,3547,3615
+1001	Lincmajerová Mária	r.Slobodová b	0	2672
+1001	Linczmayerová Mária	r.Slobodová /m.Ján/ a	0	2672,2700
+1001	Lisay Emanuel	/ž.Helena r.Urbanová/	0	2743
+1001	Lisayová Helena	r.Urbanová /m.Emanuel/	0	2743
+1001	Ložiová Anna	r.Bakitová	0	379,2313,2315,2700
+1001	Lukačovičová Katarína	r.Moravčíková	0	2445
+1001	Maďar Juraj	Dr	0	2642,2644
+1001	MAĎAR Juraj, SR	Dr. 0	0	2843
+1001	Magová Mária	r.Branikovičová /m.Ján/	0	2700
+1001	Majthényi Etela	r.Latkóczy vd	0	2356
+1001	Marciová Cecília	r.Červená	0	2352
+1001	Marciová Cecília	r.Červená /m.Július/	0	2352
+1001	Masguth Ján	/ž.Katarína r.Majerčíková/	0	2751
+1001	Masguthová Katarína	r.Majerčíková /m.Ján/	0	2751
+1001	Mášik Elek	a	0	1519
+1001	Mášik Elek	b	0	2610
+1001	Mášik Jozef	/ž.Helena r.Brezinová/	0	2700
+1001	Mášik Jozef	a	0	1519
+1001	Mášik Jozef	b	0	2610
+1001	Mášik Michal	a	0	1519
+1001	Mášik Michal	b	0	2428
+1001	Mášik Michal	c	0	2610
+1001	Mášiková Júlia	r.Fintová /m.Ján/	0	2700,2820
+1001	Mášiková Katarína	a	0	1519
+1001	Mášiková Katarína	b	0	2610
+1001	Maťašovská Anna	r.Kurišová /m.Michal/	0	2700
+1001	Maťašovská Katarína	r.Verešová /m.Michal/	0	2545
+1001	Maťašovský Andrej	mal	0	2700
+1001	Maťašovský Imrich		0	2506
+1001	Maťašovský Imrich	/ž.Alžbeta r.Paulovičová/ a	0	2624,2700
+1001	Maťašovský Imrich	/ž.Alžbeta r.Paulovičová/ b	0	2624,2700
+1001	Maťašovský Jozef		0	2216,2700,3284,3663
+1001	Maťašovský Juraj	a	0	2216,2337,2700,3284,3663
+1001	Maťašovský Juraj	b	0	2337
+1001	Maťašovský Michal	/ž.Anna r.Kurišová/	0	2700
+1001	Maťašovský Michal	a	0	2700
+1001	Maťašovský Michal	ml. /ž.Katarína r.Verešová/	0	2545
+1001	Maťo Ján	/ž.Katarína r.Csampaiová/	0	2012
+1001	Matušeková Júlia	r.Grňová	0	2700
+1001	Matyová Mária	r.Tvrdoňová /m.Jozef/	0	2700
+1001	Melchiory Ján	/Otto/ mal	0	2432,2627
+1001	Melchioryová Valéria		0	2432,2627
+1001	Melnická Anna	r.Brezinová	0	2700
+1001	Merey Juraj	mal	0	2361
+1001	Mésároš Jozef	mal	0	1892
+1001	Mésárošová Katarína	r.Antošová /m.Ján/	0	2362
+1001	Mésárošová Katarína	r.Štefanková	0	2362
+1001	Mészárosová Mária	a	0	1520,2362,2416,2700,3546
+1001	Mészároš Blažej	a	0	1297
+1001	Mészároš Blažej	b	0	1297,2416
+1001	Meszároš František	b	0	2285,2479,2480
+1001	Mészároš František	a	0	1410,1520,1584,1617,2297,2416,2700,2857,3546
+1001	MESZÁROŠ František, NITRA, SR		1	1413
+1001	Mészároš Juraj		0	2502,2700
+1001	Meszárošová Mária	c	0	1411
+1001	Mészárošová Mária	b	0	2416
+1001	Mikuš Ján		0	2591
+1001	Mikuš Jozef		0	2591
+1001	Mikuš Michal		0	2591
+1001	Mikušová Anna	mal	0	2591
+1001	Mikušová Anna	r.Čmelíková /m.Michal/	0	2591
+1001	Mikušová Emília		0	2591
+1001	Mikušová Jolana	mal	0	2591
+1001	Mikušová Júlia		0	2591
+1001	Mokrášová Margita	r.Tisucká	0	2542
+1001	Molnár Peter		0	1481
+1001	Molnárová Antónia	r.Palušková	0	1481
+1001	Moravčík Ján		0	2674
+1001	Moravčík Štefan	/ž.Anna r.Žabková/	0	2700
+1001	Moravčík Štefan	/ž.Verona r.Šiberová/	0	2761
+1001	Moravčík Štefan	a	0	2694
+1001	Moravčík Štefan	b	0	2700
+1001	Moravčíková Anna	r.Švecová vd	0	2700
+1001	Moravčíková Katarína	a	0	2424,2700
+1001	Moravčíková Katarína	b	0	2630,2643
+1001	Moravčíková Katarína	c	0	2700
+1001	Moravčíková Magdaléna	r.Fajtová	0	2694,2700
+1001	Moravčíková Mária	r.Gregušová	0	1409,3171
+1001	Moravčíková Verona	r.Šiberová /m.Štefan/	0	2761
+1001	Mozgvová Emília	r.Godová / m.Ľudovít/	0	2535
+1001	Mozgvová Oľga		0	2535
+1001	Mrkvica Rudolf	/ž.Božena r.Latečková/	0	2667,2700
+1001	Mrkvicová Božena	r.Sládečková a	0	2352,2355,2700
+1001	Mrkvicová Božena	r.Sládečková b	0	2352,2355,2700
+1001	Mrkvicová Mária	r.Petríková	0	1974
+1001	Múčková Alžbeta	r.Záhradníková /m.Juraj/	0	2700
+1001	Munková Jolana	r.Janegová d	0	1401
+1001	Muraško Jozef	a	0	1560
+1001	Muraško Jozef	b	0	1481,2291
+1001	Muzika Ján	/ž.Anna r.Orlíková/	0	2700
+1001	Muzika Ján	b	0	2700
+1001	Muzika Jozef	/ž.Barbora r.Gregušová/ a	0	2522,2523
+1001	Muzika Jozef	/ž.Barbora r.Gregušová/ b	0	2700
+1001	Muzika Jozef	a	0	2691
+1001	Muzika Jozef	b	0	2691,2700
+1001	Muzika Štefan	/ž.Helena r.Ostertágová/	0	2522,2523
+1001	Muziková Barbora	r.Gregušová /m.Jozef/ a	0	2523
+1001	Muziková Helena	r.Ostertágová /m.Štefan/	0	2522,2523
+1001	Muziková Katarína	b	0	2691
+1001	Muziková Katarína	c	0	2700
+1001	Muziková Katarína	d	0	1550
+1001	Nagyová Adela	r.Bibeňová	0	2690
+1001	Nagyová Mária	r.Točková	0	2627,2700
+1001	Néma Elek		0	2438
+1001	Nemčeková Barbora		0	2729
+1001	Neznámy vlastník		0	2832
+1001	Nosálová Mária	r.Sohn	0	379
+1001	Nováková Mária	r.Haringová /m.Peter/ a	0	2618
+1001	Nováková Mária	r.Haringová /m.Peter/ b	0	2675
+1001	Novoroľník Jozef	/ž.Veronika r.Kršiaková/	0	2462
+1001	Novoroľníková Veronika	r.Kršiaková /m.Jozef/	0	2462
+1001	Novotný Jozef		0	2672,2700
+1001	Novotný Jozef	vzdialený	0	2672
+1001	Novotný Ladislav	a	0	2672,2700
+1001	Novotný Ladislav	b	0	2672
+1001	Obrancová Irena	r.Kováčová /m.Štefan/	0	2700
+1001	Obranec Štefan	/ž.Irena r.Kováčová/	0	2700
+1001	Okenka Antonín	/ž.Verona r.Juhásová/	0	2592
+1001	Okenková Agneša	Kollárová	0	2700
+1001	Okenková Verona	r.Juhásová	0	2456,2457
+1001	Okenková Verona	r.Juhásová /m.Antonín/	0	2592
+1001	Oláhová Mária		0	2416
+1001	Opatrovníctvo náboženských základín sídel. kapituly v Nitre	základín sídel. kapituly v Nitre, 94901 Nitra	0	2377
+1001	Oravcová Mária	r.Hrabovská/m.Imrich/	0	2466
+1001	Oravec Imrich	/ž.Mária r.Hrabovská/	0	2466
+1001	Orlík Jozef		0	2621
+1001	Orlík Michal	a	0	2497
+1001	Orlík Štefan		0	2251,2252,2254,2339,2700
+1001	Orlík Štefan	/ž.Emília r.Kalábová/	0	2485
+1001	Oškerská Vilma	r.Valábiková /m.Ján/	0	2679
+1001	Palánka Ján	/ž. Anna r.Halászová/	0	2749
+1001	Palánková Anna	r.Halászová /m.Ján/	0	2749
+1001	Palková Mária	r.Kelemenová a	0	1497,2468,2700
+1001	Palková Mária	r.Kelemenová b	0	2500
+1001	Palková Mária	r.Kelemenová c	0	2586
+1001	PAŠTIAK Anton, SR		1	2874
+1001	PAŠTIAK Ignác, SR		1	2874
+1001	PAŠTIAKOVÁ Mária r. Žajová, SR		1	2874
+1001	Patrželka Štefan	/ž.Anna r.Haringová/	0	2700
+1001	Paulovič Štefan	/ž.Emília r.Grmanová/	0	2547
+1001	Páveová Irena	r.Bibeňová	0	2690
+1001	Pavlovič Emil		0	968
+1001	Peťovská Mária	r.Šišková /Jamborová, m.Štefan/	0	2624,2700
+1001	Petrášek Karol		0	1693,2367
+1001	Petržalka Ján	a	0	2600,2700
+1001	Petržalková Johana	a	0	2392,2600,2700
+1001	Petržalkova Johanna		0	2392,2600,2700
+1001	Petržalková Mária	a	0	2392,2600
+1001	Petržalková Mária	b	0	2392,2600,2700
+1001	Petržalková Mária	d	0	2700
+1001	Petržalková Zlatica	a	0	2392
+1001	Pilková Klára	r.Junasová /m.Florian/	0	1493
+1001	Piovarči Michal	/ž.Mária r.Hrubišková/ a	0	379
+1001	Piovarčiová Anna	r.Čuláková /m.Michal/	0	2700
+1001	Piovarčiová Mária	r.Hrubišková /m.Michal/	0	379
+1001	Piroš Ondrej		0	2678
+1001	Piroš Ondrej	/ž.Mária Anna r.Hajnássyová/	0	2623
+1001	Piroš Ondrej	/ž.Mária Irma r.Hajnásyová/	0	2678
+1001	Pokojová Anna	mal	0	2364
+1001	Pokojová Katarína		0	2364
+1001	Polin Štefan	/ž.Júlia r.Švecová/	0	379
+1001	Popluhár Aladár		0	1311
+1001	Porubská Anna	r.Chromá /m.Štefan/	0	1864
+1001	Porubský Ján	ml	0	2713
+1001	Price Alica	r.Diamantová /Mary/	0	2817
+1001	Rajčan Ivan		0	2557
+1001	Rajčan Jaroslav		0	2557
+1001	Rajčan Ľudovít		0	2557
+1001	Recskayová Mária	r.Andrasiková /m.Ján/	0	2779
+1001	Rečka Ernest		0	2779
+1001	Rečka Imrich		0	2779
+1001	Rečka Ján		0	2779
+1001	Rečka Jozef		0	2779
+1001	Rečkaiová Mária	r.Tunáková / m.Štefan/ b	0	1596
+1001	Repková Margita	r.Šalátová	0	2556
+1001	Rogánska Júlia	r.Točková	0	2627,2700
+1001	Roško Anton	/ž.Barbora r.Šranková/	0	2718
+1001	Rošková Barbora	r.Šranková /m.Anton/	0	2718
+1001	Rožič Ján	/ž.Štefánia r.Látečková/	0	2655
+1001	Rožič Štefan	/ž.Rozália r.Bugárová/	0	2457,2655,2700
+1001	Rožičová Rozália	r.Bugárová /m.Štefan/	0	2457,2655,2700
+1001	Rožičová Štefánia	r.Látečková /m.Ján/	0	2655
+1001	Rudická Emília	r.Kamenská /m.Viliam/	0	2487
+1001	Rudický Viliam	/ž.Emília r.Kamenská/	0	2487
+1001	Sečániová Mária	r.Chybová	0	2465
+1001	Schniererová Janka	r.Slobodová /m.Aladár/ a	0	2672,2700
+1001	Schniererová Janka	r.Slobodová vd	0	2672
+1001	Sirotek Jozef	/ž.Terézia r.Tvrdoňová/	0	2501
+1001	Siroteková Terézia	r.Tvrdoňová /m.Jozef/	0	2501
+1001	Siroteková Terézia	r.Tvrdoňová a	0	2504,2700
+1001	Siroteková Terézia	r.Tvrdoňová b	0	2700
+1001	Sitkey Jozef	a	0	2406,2490,2491,2668
+1001	Sitkey Jozef	b	0	2700
+1001	Sitkeyová Gabriela	mal. a	0	1873,2700
+1001	Sitkeyová Gabriela	mal. b	0	2413,2490,2491
+1001	Sitkeyová Helena		0	2700
+1001	Sitkeyová Mária		0	2700
+1001	Sklenár Jozef		0	2639
+1001	Skovajsová Mária	r.Látečková	0	2700
+1001	Sládeček Vincent	/ž.Františka r.Rybová/ a	0	1675,2650
+1001	Sládeček Vincent	/ž.Františka r.Rybová/ b	0	2650
+1001	Sládeček Vincent	/ž.Františka r.Rybová/ c	0	2650
+1001	SLÁDEČEK Vincent, SR	ž.Františka r. Rybová 0	0	2842
+1001	Sládeček Vojtech	/ž.Štefánia r.Kaštanová/ a	0	2318,2700
+1001	Sládeček Vojtech	/ž.Štefánia r.Kaštanová/ b	0	2700
+1001	Sladečka Imrich	/ž. Anna r.Turbová/ a	0	379
+1001	Sládečka Jozef		0	2700
+1001	Sládečka Ladislav	a	0	2818
+1001	Sládečka Ladislav	b	0	2700
+1001	Sladečka Michal		0	2417
+1001	Sládečka Viliam		0	2700
+1001	Sládečková Alžbeta	r.Krajčírová	0	2387
+1001	Sládečková Anna	mal	0	2700
+1001	Sládečková Františka	r.Rybová a	0	2700,2818
+1001	Sládečková Františka	r.Rybová b	0	2420
+1001	Sládečková Helena		0	2700
+1001	Sládečkova Mária	r.Mészárošová a	0	1863,2020,2585
+1001	Sládečková Mária	r.Faitová	0	2352,2355
+1001	Sládečková Štefánia	r.Kaštanová a	0	2505
+1001	Sládečková Štefánia	r.Kaštanová b	0	2505
+1001	Slaténi Ján	/ž.Margita r.Zelenáková/	0	2553
+1001	Sloboda Ján	a	0	2700
+1001	Sloboda Ján	c	0	2672
+1001	Sloboda Ján	d	0	2700
+1001	Sloboda Ján	e	0	2700

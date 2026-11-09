@@ -1,0 +1,256 @@
+77	Bóna Dezider r. Bóna		0	3705,3928
+77	Bóna Dezider r. Bóna	mal.zruš. r.1932	0	3991
+77	Bóna Erszébet r. Bóna		0	3705,3928
+77	Bóna Erzsébet r. Bóna	m.Štefan	0	2809,2810,2936
+77	Bóna Eva r. Bóna	výmaz mal. v r.1934	0	3931
+77	Bóna Ferenc r. Bóna		0	3991
+77	Bóna Ján r. Bóna		1	4110
+77	Bóna Ján r. Bóna	D 650/98	0	3821
+77	Bóna Jano r. Bóna		0	3056,3163,3931
+77	Bóna János r. Bóna		0	2925,3931
+77	Bóna Juraj r. Bóna		0	3056,3163,3931
+77	Bóna Mária r. Bóna		0	3991
+77	Bóna Mihal r. Bóna		0	2339,2813,3931
+77	Bóna Mihály r. Bóna		0	3991
+77	Bóna Michal r. Bóna	m.Sára Tóth	0	3393
+77	Bóna Ondrej r. Bóna		0	3931
+77	Bóna Pál r. Bóna		0	2339,2541,2809,2810,2813,2936,3086,3397,3797,3931
+77	Bóna Pali r. Bóna		0	2812,2992,3705,3928
+77	Bóna Šára r. Bóna		0	3713,3931
+77	Bóna Štefan r. Bóna		0	3713
+77	Bóna Števo r. Bóna		0	3056,3163,3931
+77	Bóna Šttefan r. Bóna		0	3678
+77	Bóna Vilma r. Bóna		0	2339,2812,2813,2992,3931
+77	Bóna Vilma r. Bóna	výmaz mal. v r.1931	0	3918
+77	Bónaová Mária r. Bóna		1	4110
+77	Bónová Alžbeta r. Dóczé		0	361,2481,3759
+77	Bónová Alžbeta r. Domonkoš	m.Ján	1	4111
+77	Bónová Alžbeta r. Kis	m.Pavol	0	2893,3231,3797,3931,4260
+77	Bónová Alžbeta r. Varga	vdova, m.Štefan	0	3661
+77	Bónová Gizela r. Péli		0	3208
+77	Bónová Sára r. Tóth	m.Michal	0	2997,3393
+77	Boškovič Gejza r. Boškovič	m.Katarína Garaiová	0	512,2212,2887,2945,3380,4406
+77	Boškovičová Katarína r. Garaiová	m.Gejza	0	512,2212,2887,2945,3380,4406
+77	Bottyán Ján r. Bottyán		0	2012,2375,2380,2951,3900,4347
+77	Bottyán Ján r. Bottyán	mladší	0	2644,2918,2919,3952,3975,3984,4032,4101
+77	Bottyán Štefan r. Bottyán		0	2761
+77	Bottyán Štefan r. Bottyán	mal. v r.1934	0	2925
+77	Bottyán Verona r. Bottyán		0	2012,2820,3036,3043
+77	Bottyánová Júlia r. Matušek		0	3040,3042
+77	Bottyánová Mária r. Bircsák	m.Ľudovit	0	3947
+77	Bottyánová Mária r. Boldizsár		0	1634,2650,3931
+77	Bottyánová Mária r. Surányi	m.Štefan	0	3043
+77	Braunová Matilda r. Lessner		0	3286,3931
+77	Broškovičová Gizela r. Peczena		0	3412,3413,4101,4166
+77	Broškovičová Katarína r. Téglás		0	512,2212,2887,2945,3380,4406
+77	Bruszi Ján r. Bruszi	mal	0	3822
+77	Bucseková Agnes r. Blahovics	m.ján	0	4047
+77	Cibor Ondrej r. Cibor	m.Alžbeta Ižáková	0	512,2212,2887,2945,3380,4406
+77	Ciborová Alžbeta r. Ižáková	m.Ondrej	0	512,2212,2887,2945,3380,4406
+77	Csáki Alžbeta r. Madarász	m.Ján	0	512,2212,2887,2945,3380,3487,4101,4406
+77	Csáki Alžbeta r. Nagy	m.Jozef	0	3648
+77	Csáki Ferenc r. Csáki	m.mal.r.1943	0	1886,4101
+77	Csáki Ján r. Csáki	mal. v r.1910	0	3886
+77	Csáki Jozef r. Csáki	m.mal.r.1943	0	1886,4101
+77	Csáki Juliana r. Csáki		0	3154,3926
+77	Csáki Pavel r. Csáki	m.Júlia Szegi	0	3744
+77	Csákiová Eva r. Csáki		0	1886,4101
+77	Csákiová Rebeka r. Csáki	m.mal.r.1943	0	1886,4101
+77	Csákiová Sára r. Csáki	m.mal.r.1943	0	1886,4101
+77	Csáky Julianna r. Csáky		0	3722
+77	Csánki Katarína r. Csánki		0	650,3828
+77	Csánki Katarína r. Csánki	mal. v r.1933	0	4101
+77	Csánki Ladislav r. Csánki		0	4101
+77	Csánki Lázsló r. Csánki		0	650,3828
+77	Csánky Daniel r. Csánky	m.Alžbeta Bóna	0	3651,3962,4101
+77	Csapáková Helena r. Jurkovics		0	1146,3376,4245
+77	Csech Štefan r. Csech		0	4101
+77	Csechová Pavlína r. Lampertová	16.3.1893,manž,štefan	0	4101
+77	Csemcz Jozef r. Csemcz		0	2650,3931
+77	Csemczová Magda r. Csemczová		0	3513,3515,4386,4436
+77	Csemczová Mária r. Csemczová		0	3513,3515,4386,4436
+77	Csemeszová Františka r. Himpán	m.Štefan	0	3941
+77	Csemez Alžbeta r. Csemez	mal. v r.1913	0	2650,3931
+77	Csemez Dezider r. Csemez		0	2649,2650,3253,3514,3931,4136
+77	Csemez Irena r. Csemez		0	2649,2650,3931,4136
+77	Csemez Ján r. Csemez		0	1634,2649,2650,3931,4136
+77	Csemez Ján r. Csemez	m.Katarína Haulituzs	0	2649,3969,4101,4136
+77	Csemez Ján r. Csemez	mal.1913	0	2650,3931
+77	Csemez Jozef r. Csemez		0	2649,2650,3931,4136
+77	Csemez Juzef r. Csemez		0	3931
+77	Csemez Mária r. Csemez		0	2649,2650,3253,3514,3931,4136
+77	Csemez Pavol r. Csemez		0	2649,2650,3253,3514,3931,4136
+77	Csemez Tibor r. Csemez	mal. r.1952	0	2649,2650,3513,3515,3931,4136,4386,4436
+77	Csemez Tibor r. Csemez	malol	0	3253,3514
+77	Csemezová Katarina r. Haulitusz	m.Ján	0	4101
+77	Csemezová Katarína r. Haulitusz	vdova	0	872,3931
+77	Csemezová Mária r. Csemez	mal. v r.1913	0	2649,4136
+77	Cséplö František r. Cséplö		0	512,589,2212,2887,2945,3380,4406
+77	Cséplö Helena r. Cséplö		0	512,589,2212,2887,2945,3380,4406
+77	Cséplö Štefan r. Cséplö	m.Júlia Harčaková	0	512,2212,2887,2945,3380,4406
+77	Cséplö Vojtech r. Cséplö		0	512,589,2212,2887,2945,3380,4406
+77	Csiba Arpád r. Csiba	maloletý	0	3911
+77	Csiba Jozef Arpád r. Csiba		0	3691,4101
+77	Csiba Lajos r. Csiba		0	3911,4101
+77	Csiba Ludevít r. Csiba	m.Anna Blahovič	0	2733,3911,4101
+77	Csiba Ľudovít r. Csiba		0	2862,3911,3912
+77	Csiba Štefan r. Csiba	nar. 29.8.1895, z. 6.2.1969	0	3912,4101
+77	Csibová Anna r. Blahovics		0	2733,3911,4101
+77	Csibová Anna r. Blahovič	m.Ľudevít	0	4101
+77	Csibová Juliana r. Csiba		0	2861,3468,3629,3630,4101
+77	Csikósová Alžbeta r. Jakič	m.Jozef	0	3689
+77	Csikosová Gizella r. Gasparek		0	874,3200
+77	Csomásová Anna r. Pintér	m.Štefan	0	1472
+77	Czánky Daniel r. Czánky	m.Alžbeta Bona	0	3958,4101
+77	Czemez Katarína r. Haulitusz	m.Ján	0	3931
+77	Czibor Julia r. Nehéz		0	3683
+77	Czibor Ladislava r. Czibor		0	3650
+77	Czibor Štefan r. Czibor	mladší	0	2417
+77	Cziborová Alžbeta r. Izsaková		0	4101
+77	Cziborová Juliana r. Nagyová		0	3650
+77	Czuczor Štefan r. Czuczor		0	3884
+77	Dämény Ján r. Domény		0	803,3061,3738
+77	Deák Jozef r. Deák	m.Margita Múčka	0	3175
+77	Dedinski Otto r. Dedinski		0	2418,2419
+77	Dibusz Ernest r. Dibusz	r. 1926	0	295,803,3061,3738
+77	Dibusz Ján r. Dibusz		0	295
+77	Dibusz Július r. Dibusz	r. 1935	0	295
+77	Dibuzsnyová Anna r. Däménová		0	3640
+77	Dikácz Ernest r. Dikácz	mal. v r.1943	0	512,2212,2887,2945,3380,4406
+77	Dinková Alžbeta r. Novák	m.Ján	0	3954,4101
+77	Dóceová Alžbeta r. Csáki	m.Pavol	0	1886,4101
+77	Dóczé Edmund r. Dóczé	m.Gizela Szenczi	0	3720
+77	Dóczé Ernest r. Dóczé	m.Alžbeta Szencsi	0	3720
+77	Dóczé Ján r. Dóczé		0	361
+77	Dóczé Ludovít r. Dóczé		0	2481
+77	Dócze Pavol r. Dócze		0	304
+77	Dóczé Štefan r. Dóczé		0	2481
+77	Dóczé Vincent r. Dóczé		0	2481
+77	Dóczéová Eva r. Szenczi		0	3931
+77	Dóczéová Gizela r. Czibor		0	3140
+77	Dóczéová Gizela r. Szenczi		0	3573
+77	Dóczéová Júlia r. Blahovics		0	2315
+77	Dóczi Ján r. Dóczi		0	186,3931
+77	Dodok Zuzana r. Nagy		0	3683
+77	Dolczsainová Erzsebet r. Tóth		0	3990
+77	Dolnyik Anna r. Dolnyik		0	3298
+77	Dolnyik Jozef r. Dolnyik		0	3298
+77	Dolnyik Magda r. Dolnyik		0	3298
+77	Dolnyik Štefan r. Dolnyik		0	3298
+77	Domény Helena r. Domény		0	803,3061,3738
+77	Domény Karol r. Domény	m.Mária	0	803,3061,3738
+77	Domény Pavol r. Domény		0	803,3061,3738
+77	Domin Alžbeta r. Domin	mal. v r.1948	0	512,2212,2887,2945,3380,4078,4406
+77	Domin František r. Domin		0	512,2212,2887,2945,3380,4078,4406
+77	Domin Irena r. Domin	mal. v r.1948	0	512,2212,2887,2945,3380,4078,4406
+77	Domin Jozef r. Domin	mal. v r.1948	0	512,2212,2887,2945,3380,4078,4406
+77	Domin Margita r. Domin	mal. v r.1948	0	512,2212,2887,2945,3380,4078,4406
+77	Dominová Alžbeta r. Dominová		0	3640
+77	Domínová Alžbeta r. Novák	m.Ján	0	1610,3954,3955,4101
+77	Dominová Elena r. Dominová		0	3640
+77	Dominová Margita r. Dominová		0	3640
+77	Domján Margita r. Domján		0	2538,2700
+77	Domonkos Alžbeta r. Bóna	m.Pavol	0	2810,2936,3749
+77	Domonkos Alžbeta r. Domonkos	rozvedená	0	3931
+77	Domonkos Juliana r. Domonkos		0	1975
+77	Domonkos Mária r. Domonkos	mal. v r.1941	0	2297
+77	Domonkos Michal r. Domonkos		0	2190,3786
+77	Domonkos Pavol r. Domonkos	m.Vilma Bóna	0	2430
+77	Domonkos Pavol r. Domonkos	mladší	0	1975,3684
+77	Domonkos Štefan r. Domonkos		0	3737
+77	Domonkos Štefan r. Domonkos	m.Sára Bóna	0	1975
+77	Domonkos Štefan r. Domonkos	mal. v r.1941	0	3931
+77	Domonkos Vilma r. Bóna	m.Pavol	0	2541,2809,2810,2812,2813,2936,2992,3086,3397,3477,3684,3797,3931
+77	Domonkosová Alžbeta r. Jóba	m.Pál	0	548,2295,3750
+77	Domonkosová Irma r. Csánky	m.Alexander	0	4029
+77	Domonkosová Júlia r. Szegi		0	2544,2925,3065,3173,3856,3931,4169
+77	Domonkosová Vilma r. Bóna	m.Pál	0	2898,3661,3931
+77	Domonkosová Žofia r. Lajoš		0	2194,4101
+77	Dostál František r. Dostál, SR		0	3934
+77	Dubán Arpád Štefan r. Dubán		0	1760,2644,2918,2919,3952,3975,3984,4032,4101
+77	Dubán Frantisek r. Dubán		0	1760,2644,2918,2919,3952,3975,3984,4032,4101
+77	Duban Ján r. Duban		0	4101
+77	Dubáni František r. Dubáni		0	3672,3841
+77	Dubánová Gizela r. Tóth		0	4139
+77	Dubáňová Mária r. Lisická		0	251
+77	Dubány František r. Dubány		0	2651
+77	Dubány František r. Dubány	starší	0	4092
+77	Dubány František r. Dubány	syn staršieho Františka	0	4091,4092
+77	Dubány Ján r. Dubány	syn Štefana	0	4101
+77	Dubány Ludovít r. Dubány		0	4101
+77	Dubány Olga r. Dubány	mal. v r.1939	0	4101
+77	Dubány Štefan r. Dubány		0	4049
+77	Dubaová Verona r. Zsalai		0	1061
+77	Dudásová Margita r. Mezeiová		0	803,3061,3738
+77	Dudášová Margita r. Mezei		0	803,3061,3738
+77	Dufek Jozef r. Dufek	m.Alžbeta	0	859
+77	Dufek Ľudovít r. Dufek		0	859
+77	Edesová Alžbeta r. Szenczi		0	3827
+77	Édesová Júlia r. Jakabová		0	3931
+77	Evanielická Ref Cirkev r. Evanielická		0	3656
+77	Faraga Ján r. Faraga	m.Mária Petríková	0	512,2212,2887,2945,3380,4406
+77	Faragová Mária r. Petríková		0	512,2212,2887,2945,3380,4406
+77	Farkaš Štefan r. Farkaš	m.Alžbeta	0	512,2212,2887,2945,3380,4406
+77	Farkašová Alžbeta r. Szatmáziová	m.Štefan	0	512,2212,2887,2945,3380,4406
+77	Farkašová Mária r. Záhorská		0	4069
+77	Farská Alžbeta r. Karvansky		0	891,3290
+77	Fazekas Julia r. Bélai	mal. v r.1944	0	245,2741,4101
+77	Fazekasová Anna r. Nyers		0	1829,2160
+77	Fazekasová Júlia r. Mezci	m.šrefan	0	4101
+77	Fazekasová Katarína r. Kaločányi		0	512,2212,2887,2945,3380,4406
+77	Fazekašová Mária r. Labanc		0	3987
+77	Fehérová Alžbeta r. Szenczi		0	2052
+77	Fekete Ján r. Fekete	m.Alžbeta Tóthová	0	512,2212,2887,2945,3380,4406
+77	Fekete Magdaléna r. Fekete	mal. r.1951	0	3911
+77	Fekete Magdaléna r. Fekete	mal.r.1951	0	3629,3912
+77	Feketeová Róza r. Gubány		0	3944
+77	Feketeová Rozália r. Gubáni		0	3407,3560,3680,3681,3931,4101
+77	Ferstová Helena r. Kis		0	448
+77	Filičeková Róza r. Novák	m.Ľudevít	0	3954,4101
+77	Fonád František r. Fonád	mladší	0	4101
+77	Fónad István r. Fónad		0	3454,3835,4101
+77	Fonád Ján r. Fonád	mal. v r.1904	0	4101
+77	Fonád Jozef r. Fonád		0	4101
+77	Fónad Karolína r. Juhász	m.ján	0	2736
+77	Fonád Štefan r. Fonád		0	565
+77	Fonádová Alžbeta r. Bartinek	m.Arpád	0	4101
+77	Fonádová Mária r. Rozsen	m.ján	0	4101
+77	Fuchs Jozef r. Fuchs		0	736,2251,2286,2315,2386,2390,2391,2534,3057,3717,3735,3931,4020,4101
+77	Fulóp Ján r. Fulóp		0	3298
+77	Fülöpová Elena r. Labanc	m.Ján	0	3836
+77	Fúró András r. Fúró	m.Urbán Alžbeta	0	3817
+77	Fúró Eva r. Bóna	m.Štefan	0	3766
+77	Fúró Jozef r. Fúró	m.Mária Péli	0	3741
+77	Furó Ladislav r. Furó	m.Agneša	0	512,2212,2887,2945,3380,4406
+77	Furó Mária r. Furó		0	3931
+77	Fúrová Agneša r. Gyánová	m.Ladislav	0	512,2212,2887,2945,3380,4406
+77	Fúrová Eva r. Bóna	m.Štefan	0	3931
+77	Fürst Ernestína r. Fürst		0	4019
+77	Fürst Ján r. Fürst		0	4019
+77	Fürst Mária r. Fürst		0	4019
+77	Fürst Šalamún r. Fürst		0	4019
+77	Gabriel Eduard		0	2433,3207
+77	Gabriel Eduard r. Gabriel		0	1984
+77	Gabriel Pavel r. Gabriel		0	1984
+77	Gabrielová Mária r. Antales	m. Rudolf	0	1983
+77	Gabrielová Olga r. Koprla		0	1984
+77	Gallová Ružena r. Tegláš	m.Jozef	0	512,2212,2887,2945,3380,4406
+77	Garai Ernest r. Garai		0	2012,2820,3186,3699,4101
+77	Garai Jozef r. Garai	m.Marietta Simon	0	2012,2820
+77	Garaiová Helena r. Pálintaš		0	3672
+77	Garay Agnes r. Garay		0	2012,2820,3036,3043
+77	Garay Jozef r. Garay		0	2012,2820,3036,3043
+77	Garay Mária r. Garay		0	2012,2820,3036,3043
+77	Gasparek Štefan r. Gasparek		0	3200
+77	Gašpariková Rozália r. Kosztolányi	m.Štefan	0	512,2212,2887,2945,3201,3380,4406
+77	Gášpárová Alžbeta r. Kis Pistiová		0	875,2048,2544,2612,2614,3266,3931
+77	Geleta Júlia r. Pallag	m.Štefan	0	2135,4101,4139
+77	Gelisz Július r. Gelisz		0	3286,3931
+77	Gerendai Béla r. Gerendai		0	3200
+77	Gergely Elena r. Tóth	m.Štefan	0	512,2212,2887,2945,3380,4406
+77	Gergö Štefan r. Gergö	m.Mária Zaťková	0	512,2212,2887,2945,3380,4406
+77	Gombík František r. Gombík		0	4050
+77	Gombík Ladislav r. Gombík		0	4050
+77	Gombíková Juliana r. Páldiová		0	3963,4050
+77	Gonoszová Alžbeta r. Ónodi	m.Ľudevit	0	806,2276,4034,4101
+77	Grossmeinová Terézia r. Lessner		0	3286,3931

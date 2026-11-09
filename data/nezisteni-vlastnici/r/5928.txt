@@ -1,0 +1,256 @@
+3331	JECHOVÁ Anna	zomrela	1	219,307
+3331	KRAJŇAK Andrej		0	221,222,251,253,283,292,293,294,295,307,404,405
+3331	KRAJŇÁK Andrej	zomrel	1	219,298,313
+3331	Krajňák Ján	zomrel	1	298,351
+3331	Krajňak Michal		0	307
+3331	KRAJŇAK Michal	st.,zomrel	1	196,298,385
+3331	KRAJŇAKOVÁ Anna		0	221,222,251,253,283,292,293,294,295,307,404,405
+3331	KRAJŇÁKOVÁ Anna	ČR, mal	1	196,218,219,279,298,303,304,362
+3331	KRESAKOVÁ Mária		0	221,222,251,253,283,292,293,294,295,306,404,405
+3331	KRESÁKOVÁ MÁRIA, SR		0	218,279
+3331	Mihalková Anna	zomrela	1	379
+3331	Mihalková Mária r. Jánová	zomrela	1	384
+3331	PRADIDOVÁ Mária		0	221,222,251,253,283,292,293,294,295,404,405
+3331	PRADIDOVÁ Mária	r.Fecenková	1	219
+3331	Pradidová Mária r. Fecenková		1	306
+3331	RODÁK Andrej		1	188,218,219,221,222,251,253,279,283,292,293,294,295,303,304,356,404,405
+3331	RODÁK Michal	zomrel	1	218,279,303,304
+3331	RODÁK Mikuláš		0	221,222,251,253,283,292,293,294,295,404,405
+3331	RODÁK Mikuláš	zomrel	1	188,218,219,279,303,304,306,327
+3331	RODAKOVÁ Helena	r.Frigová	1	185
+3331	Rodáková Helena		1	306
+3331	RODÁKOVÁ Julia		0	221,222,251,253,283,292,293,294,295,404,405
+3331	RODÁKOVÁ Julia	r.Cmirová,zomrela	1	188,219
+3331	Rodáková Julia r. Cmirová	zomrela	1	381
+3331	SOPČÁKOVÁ Anna		0	221,222,251,253,283,292,293,294,295,404,405
+3331	SOPČÁKOVÁ Anna	mal.,zomrela	1	219,306
+3331	Suťaková Mária r. Krajňaková, zomrela 1.8.2009 v KE	Michalovská 37	0	292,293,294,295,306,404,405
+3331	ŠPIRKOVÁ Helena	r.Artimová	1	219
+3331	Špirková Helena r. Artimová		1	324
+3331	Šturáková Mária r. Artimová, ČR		1	298,353
+3331	Vaculíková Mária r. Artimová, rč. 335128/753 rč. 335128/753		0	303
+3331	Varcholová Helena		0	367
+3331	WALD Jozef		0	222,253,404,405
+3331	WENBERGER Lazar		1	219,306
+3331	Zeliznak Peter		0	320
+3331	ŽELIZŇAK Ján		1	218,219,221,222,251,253,279,283,292,293,294,295,303,304,315,404,405
+3331	ŽELIZŇAK Jozef		0	222,253,404,405
+3331	ŽELIZŇAK Michal		1	218,219,221,222,251,253,279,283,292,293,294,295,303,304,340,404,405
+3331	ŽELIZŇAK Michal	mal	1	219,303,304
+3331	ŽELIZŇAK Michal	zomrel	1	178,298,332,408
+3331	Želizňak Michal, dátum narodenia 1.6.1892 dátum narodenia 1.6.1892		0	292,293,294,295,303,304,401,404,405,408
+3331	Želizňak Michal, mal		1	370
+3331	ŽELIZŇAK Vasiľ		0	222,253,404,405
+3331	ŽELIZŇAK Vasiľ	zomrel	1	219,306
+3331	ŽELIZŇAKOVÁ Helena		1	218,219,221,222,251,253,279,283,292,293,294,295,303,304,386,404,405
+3331	ŽELIZŇÁKOVÁ Mária	r.Mikulová,zomrela	1	218,279
+3331	Želizňáková Mária r. Mikulová	zomrela	1	303,304
+3332	Bačíková Božena r. Handzová		1	417
+3332	Bakšan Ján	Gona, ž.Anna Krešáková	1	756
+3332	Bakšan Ján r. Bakšan		1	615
+3332	Bakšan Ján r. Bakšan	Gona, ž. Anna Krešáková	1	590,806
+3332	Bakšan Ján r. Bakšan	Gona, ž.Anna Krešáková	1	282
+3332	Bérešová Anna r. Doľáková		1	228,229,230,231,232,282,307,308,309,756,889,890
+3332	Doľák Andrej		1	228,229,230,231,232,307,308,309,756,889,890
+3332	Doľák Andrej r. Doľák		1	282
+3332	Doľáková Ruth		1	228,229,230,231,232,889,890
+3332	Doľáková Ruth	mal	1	282,307,308,309,756
+3332	Eleková Mária r. Doľáková		1	228,229,230,231,232,282,307,308,309,756,889,890
+3332	Eštok Juraj		1	307,308,309,756
+3332	Eštok Juraj r. Eštok		1	282,433
+3332	Eštok Ondrej	ž.Mária Čulková	1	756
+3332	Eštok Ondrej r. Eštok		1	622
+3332	Eštok Ondrej r. Eštok	ž.Mária Čulková	1	282,359
+3332	Ferenc Karol r. Ferenc	syn Jána	1	582,628
+3332	Ferenc Ondrej	mal. syn Ondrejov	1	307
+3332	Ferenc Ondrej	mal.syn Ondrejov	1	308,309
+3332	Gédra Alžbeta	mal	0	272
+3332	Gédra Ján	syn Jána	1	307,308,309
+3332	Gedrová Alžbeta	mal	0	273
+3332	Gédrová Alžbeta	mal. dcéra Jána	1	282,307,308,309,756
+3332	Gedrová Alžbeta r. Gedrová	mal., dcéra Jána	1	160
+3332	Gedrová Anna r. Gonová		1	282,756
+3332	Gona Ján		0	634
+3332	Gona Ján	Bokšan	1	307,308,309
+3332	Gona Ján r. Gona		1	350,507
+3332	Gona Ján r. Gona	Márton	0	545
+3332	Gona Ondrej	Bakšan, syn Jánov	1	307,309,512,756
+3332	Gona Ondrej	Bakšan,syn Jánov	1	308
+3332	Gona Ondrej r. Gona		1	350,507,615
+3332	Gona Ondrej r. Gona	Bakšan, syn Jánov	1	359
+3332	Gona Ondrej r. Gona	Bakšan,syn Jánov	1	282,358,587
+3332	Gonová Alžbeta		0	634
+3332	Gonová Alžbeta r. Gonová		0	545
+3332	Gonová Mária r. Vargová		1	307,308,309
+3332	Handza Juraj r. Handza	ž. Barbora r. Jenčárová	1	417
+3332	Handza Juraj r. Handza	ž. Mária r. Jenčárová	1	417
+3332	Handza Juraj r. Handza	ž.Barbora r. Jenčárová	1	354
+3332	Handza Juraj r. Handza	ž.Mária r. Jenčárová	1	354
+3332	Chomiak Jozef r. Chomiak		1	596
+3332	Jakub Juraj		1	756
+3332	Jakubko Ján r. Jakubko		1	602
+3332	Juhásová Anna r. Koreňová		1	307,308,309
+3332	Juhászová Anna r. Lešková		1	606
+3332	Klik Ondrej		1	721
+3332	Klik Stanislav r. Klik		1	548
+3332	Kliková Mária r. Gonová		1	595
+3332	Kmec Anna r. Gonová		0	322
+3332	Kmec Anna r. Gonová	Titl. ded. z 29.5.1916 čd.2174	0	213
+3332	Kmecová Anna r. Gonová		1	650
+3332	Koreň Ondrej		1	307,308,309
+3332	Krešák Michal		1	307,308,309
+3332	Kruciková Barbora r. Petrová	Jánova	1	358,512,586
+3332	Macko Ondrej r. Macko		1	548,721
+3332	Macková Anna r. Paľová		1	230,633
+3332	Macková Anna r. Paľová	vd	1	282,307,308,309,563,756
+3332	Marčáková Anna	dcéra Jánova	1	409,593,865,867,868
+3332	Marček Ján	ž.Zuzana Sabóová	1	756
+3332	Marček Ján r. Marček		1	622
+3332	Marček Ján r. Marček	ž.Zuzana Sabóová	1	282,359
+3332	Marčeková Anna	dcéra Jána	0	344
+3332	Marčeková Anna	dcéra Jánova	1	282,756
+3332	Mašková Barbora r. Jakubová		0	330
+3332	Matej Juraj r. Matej, Vyšná Kamenica 12, Vyšná Kamenica, PSČ 044 45, SR	ž. Anna r. Ferencová	0	556
+3332	Miháčová Anna r. Petrová	Ondrejová	1	358,512,586
+3332	Moško Ján r. Moško		1	561
+3332	Mošková Anna	Jánova, r. Eštoková	1	282,756
+3332	Mošková Anna r. Eštoková		1	622
+3332	Mošková Anna r. Eštoková	Jánova	1	359
+3332	Netrebová Anna r. Gonová		1	308,309
+3332	Ontko Ondrej	ž.Ľudmila Jakubcová syn Jánov	1	756
+3332	Ontko Ondrej r. Ontko		0	344
+3332	Ontko Ondrej r. Ontko	ž. Ľudmila Jakubcová, syn Jánov	1	409,593,865,867,868
+3332	Ontko Ondrej r. Ontko	ž.Ľudmila Jakubcová syn Jánov	1	282
+3332	Ontková Alžbeta		0	344
+3332	Ontková Alžbeta	dcéra Jánova	1	282,409,593,756,865,867,868
+3332	Ontková Alžbeta r. Jakubová		1	282,307,308,309,756
+3332	Paľa Andrej		1	307,308,309
+3332	Paľová Anna r. Korečková	Ondrejova Vaško	1	307,308,309
+3332	Peková Anna r. Ferencová		0	582,628
+3332	Petro Ján	mal. syn Jurajov	1	307
+3332	Petro Ján	mal.syn Jurajov	1	308,309
+3332	Petro Ján r. Petro		1	638
+3332	Petro Juraj	mal. syn Jurajov	1	307
+3332	Petro Juraj	mal.syn Jurajov	1	308,309
+3332	Petrová Alžbeta	mal. dcéra Jurajova	1	307,308,309
+3332	Petrová Alžbeta r. Petrová	Jurajova	1	358,512,586
+3332	Petrová Anna	mal. dcéra Jurajova	1	307,309
+3332	Petrová Anna	mal.dcéra Jurajova	1	308
+3332	Petrová Anna r. Šofová		1	638
+3332	Petrová Helena	mal. dcéra Jurajova	1	307
+3332	Petrová Helena	mal.dcéra Jurajova	1	308,309
+3332	Sabo Ján	/Syn Pavlov/,titl. kúpy z 1.12.1921 čd. 4097	0	213
+3332	Sabo Ján r. Sabo		0	322
+3332	Sabo Ján r. Sabo	syn Pavlov	1	650
+3332	Sabo Juraj r. Sabo		0	322
+3332	Sedlák Ján r. Sedlák		1	548,721
+3332	Sékelová Alžbeta r. Ferencová		1	589
+3332	Serečínová Anna r. Dzurišová		0	583,650
+3332	Stričko Andrej r. Stričko		1	640
+3332	Stričko Ján r. Stričko		1	640
+3332	Szabo Ján r. Szabo		1	605
+3332	Szabo Pavel r. Szabo		1	605
+3332	Šimčák Juraj		0	344
+3332	Šimčák Juraj r. Šimčák	ž. Anna r.Blanárová	0	282,631,756
+3332	Šoltés Juraj r. Šoltés		0	341
+3332	Tomazyová Anna		1	548,721
+3332	Tomazyová Mária	mal	1	308,309,756
+3332	Tomazyová Mária	mal., LSR	0	307
+3332	Tomazyová Mária r. Tomazyová	mal	1	282,564
+3332	Valiková Anna		1	639
+3332	Vasiľ Ján		1	307,308,309
+3332	Vasiľ Ján r. Vasiľ		0	325,326,788,878
+3332	Vaško - Paľová Barbora	mal	1	419
+3332	Vojtko Juraj r. Vojtko		1	420
+3332	Vojtková Anna r. Čulková	zom.|17.09.1972	1	282
+3333	Angyal Michal r. Angyal		1	1074
+3333	Angyalová Katarína r. Angyalová		1	1074
+3333	Bačo Ján r. Bačo		1	968
+3333	Bačo Ján r. Bačo	syn Andreja	1	45
+3333	Bačo Štefan r. Bačo		1	968
+3333	Bálint Andrej r. Bálint		1	1117
+3333	Balog Juraj r. Balog	manž. Katarína r. Pásztorová	1	1196
+3333	Balog Michal r. Balog	manž. Zuzana r. Begányiová	1	751
+3333	Balogová Helena r. Guľová	manž. Michal	1	1229
+3333	Balogová Katarína r. Pásztorová	manž. Juraj	1	1213
+3333	Bergová Helena r. Pásztorová	manž. Ján	1	424
+3333	Bodnárová Alžbeta r. Bodnárová	manž. Imrich	1	1223
+3333	Brunácky František r. Brunácky	manž. Mária r. Pásztorová - Repáková	1	1082
+3333	Bujdoš Andrej r. Bujdoš	manž. Alžbeta r. Juhászová	1	1170
+3333	Bujdoš Ján r. Bujdoš	manž. Mária r. Juhászová	1	828,1145,1205
+3333	Bujdoš Ján r. Bujdoš	manž. Mária r. Kondášová	1	181,613
+3333	Bujdošová Alžbeta r. Juhászová	manž. Andrej	1	1032,1122
+3333	Bujdošová Mária r. Juhászová	manž. Ján	1	1177
+3333	Cimbalová Alžbeta r. Jakabová	manž. Ján	1	1224
+3333	Čuri Ján r. Čuri	manž. Alžbeta r. Palenčárová, rodičia Pavol a Mária r. Olšavská	1	1087
+3333	Čuriová Alžbeta r. Palenčárová	manž. Ján	1	1141,1228
+3333	Demková Katarína r. Balogová	manž. Juraj	1	950
+3333	Demková Mária r. Strassburgerová	manž. Pavol	1	970,1277,1332
+3333	Doro Andrej r. Doro	manž. Mária r. Kmecová	1	813
+3333	Doro Juraj r. Doro	zomrel: 16.10.1977	1	813
+3333	Doro Michal r. Doro		1	813
+3333	Dorová Jolana r. Dorová		1	813
+3333	Dorová Mária r. Čuriová	manž. Ján, rodičia Pavol a Mária r. Olšavská	1	1087
+3333	Drotár Andrej r. Drotár		1	728,1114
+3333	Drotár Jakub r. Drotár		1	1013,1414
+3333	Drotár Ján r. Drotár		1	1234
+3333	Drotár Jozef r. Drotár		1	728,1114
+3333	Drotár Pavol r. Drotár	manž. Helena r. Padurová	1	1066
+3333	Drotárová Alžbeta r. Jakabová	manž. Michal	1	222,1081
+3333	Drotárová Anna r. Pástorová		1	1049,1247,1248
+3333	Drotárová Mária r. Strassburgerová	manž. Andrej, vdova	1	1212
+3333	Dudáš Ján r. Dudáš	manž. Mária r. Bačová	1	1093,1115
+3333	Fazekaš Ján r. Fazekaš		1	999
+3333	Fazekaš Michal r. Fazekaš	manž. Mária r. Pachová	1	1163
+3333	Fejsák Ján r. Fejsák	manž. Mária r. Begányiová	1	691
+3333	Fejsák Jozef r. Fejsák		1	691
+3333	Fekete Ján r. Fekete	manž. Katarína r. Kažimírová	1	1069
+3333	Fekete Ondrej r. Fekete	manž. Alžbeta r. Katonová	1	1069
+3333	Feketeová Alžbeta r. Katonová	manž. Andrej	1	1065
+3333	Feketeová Alžbeta r. Kažimírová		1	577,1344
+3333	Ferenc Andrej r. Ferenc	manž. Katarína r. Jakabová	1	744
+3333	Ficeriová Alžbeta r. Jakabová	manžel Štefan	1	787
+3333	Gergelyová Alžbeta r. Miľová	manž. Andrej	1	979,1154,1261,1262,1361
+3333	Góna Ján r. Góna		1	1100
+3333	Góna Pavol r. Góna	manž. Franciska r. Fályová	1	1100,1221
+3333	Gonosz Adam r. Gonosz		1	745,1080
+3333	Gonosz Andrej r. Gonosz		1	745,1080
+3333	Gonoszová Alžbeta r. Gonoszová		1	745,1080
+3333	Gonoszová Eva r. Gonoszová		1	745,1080
+3333	Gonoszová Julianna r. Gonoszová		1	745,1080
+3333	Gónová Alžbeta r. Gónová		1	1100
+3333	Gónová Franciska r. Fályová	manž. Pavol	1	1221
+3333	Gorejová Anna r. Helfenová	manž. Ján	1	1238
+3333	Gregorová Eva r. Davidovičová		1	952
+3333	Guľa Juraj r. Guľa	manž. Alžbeta r. Ferencová	1	452
+3333	Guľa Ladislav r. Guľa	manž. Jolana r. Guľová	1	1116
+3333	Guľaš Michal r. Guľaš	manž. Mária r. Szabová	1	1192
+3333	Helfen Michal r. Helfen	manž. Katarína r. Helfenová	1	1102
+3333	Helfen Michal r. Helfen	manž. Mária r. Balogová	1	1180
+3333	Helfenová Margita r. Budošová		1	1049,1247,1248
+3333	Herpák Andrej r. Herpák		1	1049,1247,1248
+3333	Hloušeková Mária r. Gónová	manž. Václav	1	1100
+3333	Hvozdíková Mária r. Matisová	manž. Pavol	1	1210
+3333	Jakab František r. Jakab	manž. Katarína r. Strassburgerová	1	1007
+3333	Jakab Jozef r. Jakab	manž. Mária r. Beluščáková	1	1224
+3333	Jakab Ladislav r. Jakab	malol	1	787
+3333	Jakab Ladislav r. Jakab	malol., syn Andreja a Márie r. Demkovej	1	1156
+3333	Jakab Michal r. Jakab	manž. Alžbeta r. Marcinková	1	787,1156
+3333	Jakab Michal r. Jakab	manž. Regina r. Zápachová	1	1214
+3333	Jakabová Helena r. Pásztorová	manž. Jozef, vdova	1	1224
+3333	Jakabová Katarína r. Strassburgerová	manž. František	1	1084
+3333	Jakabová Mária r. Šlefingerová	manž. Michal	1	210,1144
+3333	Jakabová Regina r. Jakabová	malol	1	787
+3333	Jakabová Regina r. Semanová		1	981,1138,1263
+3333	Jámbor Michal r. Jámbor	manž. Helena r. Brugošová	1	853,854
+3333	Janočko Ján r. Janočko	manž. Mária r. Padúrová	1	602
+3333	Janočko Michal r. Janočko		1	653,1110
+3333	Janová Anna r. Gažíková		1	1151
+3333	Jaššová Alžbeta r. Čuriová	rodičia Pavol a Mária r. Olšavská	1	77,629,1087,1357
+3333	JEDNOTA Košice	Jednota ľudové spotrebné družstvo Košice	1	1062
+3333	Jednotné roľnícke družstvo vo Vyšnej Myšli		1	1063
+3333	Juhás Peter r. Juhás		1	1195
+3333	Juhász Ján r. Juhász	manž. Alžbeta r. Pachová	1	1112
+3333	Juhász Ján r. Juhász	manž. Mária r. Kondášová	1	1211
+3333	Juhász Jozef r. Juhász	manž. Katarína r. Pachová	1	1199
+3333	Juhászová Alžbeta r. Feketeová	manž. Michal	1	565

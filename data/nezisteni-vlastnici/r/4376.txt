@@ -1,0 +1,256 @@
+2487	VASILISKOVA Maria r VYRAVCOVA zomrela		0	530,542
+2487	VASIV Andrej zomrel		0	595,673,743,1072
+2487	VASIV Jan zomrel		0	568,743,989
+2487	VASIV Jozef zomrel		0	568,595,743,989
+2487	VASIV Juraj zomrel		0	568,595,743,989
+2487	VASIV Mikulas zomrel		0	673,1072
+2487	VASIV Peter zomrel		0	568,595,989
+2487	VASIV Vasil zomrel		0	568,989
+2487	VASIVOVA Helena zomrela		0	568,743,989
+2487	VASIVOVA Julia r STEFANISINOVA zomrela		0	529
+2487	VASIVOVA Maria r. KACMARIKOVA, SR USA		0	586
+2487	VASIVOVA Maria zomrela		0	568,989
+2487	VASIVOVA Maria zomrela D ZOMRELA D		0	595,743
+2487	VASIVOVA Maria zomrela NV		0	595,673,1072
+2487	VAŠIV Ján		1	51,808
+2487	VAŠIV Jozef		1	51,808
+2487	VAŠIV Juraj		1	51,808
+2487	VAŠIV Michal		1	51,568,595,743,808,989
+2487	VAŠIV Peter		1	51,808
+2487	VAŠIV Vasiľ		1	51,808
+2487	VAŠIVOVÁ Helena		1	51,808
+2487	VAŠIVOVÁ Júlia	r ŠTEFANIŠINOVÁ	1	927,943
+2487	VAŠIVOVÁ Mária		1	51,808,938
+2487	VAŠIVOVÁ Mária	MILÁ	1	938
+2487	VAŠIVOVÁ Mária	r KAČMARÍKOVÁ	1	389,967
+2487	VOJCIKOVIC Andrej zomrel		0	667
+2487	VOJCIKOVIC Jan zomrel		0	667
+2487	VOJCIKOVICOVA Anna zomrela		0	667
+2487	VOJCIKOVICOVA Katarina zomrela		0	667
+2487	VOJCIKOVICOVA Maria zomrela CR		0	667
+2487	VOJCIKOVICOVA Viktoria zomrela		0	667
+2487	VOJČEKOVÁ Anna		1	913
+2487	VOLK Jan		1	538,918,1053,1057
+2487	VOLK Michal		1	538,918,1053,1057
+2487	VOLK Peter		1	538,918,1053,1057
+2487	VOLKOVA Johana		1	538,918,1053,1057
+2487	VOOK Jozef		1	935
+2487	VOOK Jozef zomrel ZSSR		0	582
+2487	VYRAVCOVÁ Anna		1	182,949
+2487	VYRAVCOVÁ Anna	1	1	948
+2487	VYRAVCOVÁ Helena		1	949
+2487	VYRAVCOVÁ Helena	r SEMANCOVÁ	1	182
+2487	VYRAVCOVA Helena SEMANCOVA ZSSR ZSSR		0	702
+2487	VYRAVCOVA Helena zomrela USA		0	561,563
+2487	VYRAVCOVÁ Mária		1	810
+2487	VYRAVCOVÁ Mária	1	1	948
+2487	VYRAVCOVÁ Mária	2	1	949
+2487	VYRAVCOVÁ Mária	r HRUBÁ	1	915
+2487	VYRAVCOVA Maria r HRUBA zomrela		0	608
+2487	VYRAVCOVA Maria SEMANCOVA ZSSR ZSSR		0	702
+2487	VYRAVCOVA Maria zomrela		0	562,702
+2487	VYRAVEC Andrej	1	1	948
+2487	VYRAVEC Ján		1	948
+2487	VYRAVEC Jan zomrel		0	628
+2487	VYRAVEC Juraj		1	798,942
+2487	VYRAVEC Juraj	1	1	948
+2487	VYRAVEC Juraj zomrel		0	542,560,737
+2487	VYRAVEC Michal		1	810,926
+2487	VYRAVEC Michal	5	1	948
+2487	VYRAVEC Michal zomrel		0	530,562
+2487	VYRAVEC Peter		1	810,948
+2487	WEISOVA Erika r JUSZTOVA vd		0	532
+2487	WOJCIKIEVIC Andrej		0	641
+2487	WOJCIKIEVICOVA Antonia r BONKOVA		0	758
+2487	ŽEC Jozef		1	403,564
+2488	BARTOŇOVÁ Mária r. Rusňáková	m.Jozef	0	784,824,861
+2488	Beniaková Kristína r. Gembešová	m.Ján	0	836
+2488	Brezák Pavol		0	374
+2488	Brezák Pavol	po Chládkovi Štefanovi	0	566
+2488	Brezák Pavol	po Chládkovi Štefanovi; po Chládkovi Štefanovi	0	567
+2488	Brezáková Mária		0	374
+2488	Brezáková Mária	po Chládkovi Štefanovi	0	566
+2488	Brezáková Mária	po Chládkovi Štefanovi; po Chládkovi Štefanovi	0	567
+2488	BUDOVÁ Agneša		0	226
+2488	BÚDOVÁ Agneša	r.Čupová, po Čupovej Márii r.Rusňákovej	0	824
+2488	BÚDOVÁ Agneša r. Čupová	po Čupovej Márii r.Rusňákovej	0	784,861
+2488	Cup Ján	ž. Mária r. Rusnaková	0	374
+2488	ČERNÁ Katarína r. Mikulčíková	m.Ján	0	784,824,861
+2488	ČUP Ján		0	226
+2488	Čupa Ján	ž.Rusnáková Mária	0	566
+2488	Čupa Ján	ž.Rusnáková Mária; ž.Rusnáková Mária	0	567
+2488	ČUPA Ján	po Čupovej Márii r.Rusňákovej	0	784,824,861
+2488	ČUPOVÁ Katarína		0	226
+2488	ČUPOVÁ Katarína	po Čupovej Márii r.Rusňákovej	0	784,824,861
+2488	ČUPOVÁ Kristína		0	226
+2488	ČUPOVÁ Kristína	po Čupovej Márii r.Rusňákovej	0	784,824,861
+2488	ČUPOVÁ Mária		0	226
+2488	ČUPOVÁ Mária	po Čupovej Márii r.Rusňákovej	0	784,824,861
+2488	Domovská Katarína r. Hlavatá		0	303
+2488	DRAHOŠOVÁ Pavlína r. Hološková		0	212,226,374
+2488	Funková Mária r. Mikulčíková		0	900
+2488	Gembeš Ján	po Gembešovi Pavlovi ž.Katarína	0	836
+2488	Gembeš Pavol	po Gembešovi Pavlovi ž.Katarína	0	836
+2488	GERBEROVÁ Júlia	otec Gerber Adolf	0	224
+2488	GERBEROVÁ Marta	otec Gerber Adolf	0	224
+2488	GERBEROVÁ Šarlóta	mal., otec Gerber Adolf	0	224
+2488	Glindová Katarína r. Gembešová	m.Jozef	0	836
+2488	GRUNOVÁ Mária	r.Vaculová	0	944
+2488	Grunová Mária r. Vaculová		0	129,212,374,379,380,382,383,784,824,861
+2488	Grunová Mária r. Vaculová	č.d.688/30	0	549
+2488	GRUNOVÁ Mária r. Vaculová	čd.688/30	0	376
+2488	Hlavatá Alžbeta	po Némethovej Márii r.Oravcovej	0	303
+2488	HLAVATÁ Alžbeta	r.Kanichová	0	944
+2488	HLAVATÁ Alžbeta r. Kanichová		0	129,212,784,824,861
+2488	Hlavatý Ján	po Némethovej Márii r.Oravcovej	0	303
+2488	Holičová Katarína r. Kučerová		0	303
+2488	HOLIČOVÁ Mária r. Kanichová		0	684
+2488	Hološka Ambróz		0	212
+2488	Hološka Ambróz	č.d.26	0	129,944
+2488	Hološka Ambróz	ž. Mária r Vávrová	0	374
+2488	Hološka Ambróz	ž.Vávrová Mária	0	566
+2488	Hološka Ambróz	ž.Vávrová Mária; ž.Vávrová Mária	0	567
+2488	HOLOŠKA Ambróz	ž.Albertína r.Vítková	0	226
+2488	Hološka František	ž. Mária r. Bartoňová	0	374
+2488	Hološka František	ž.Bartoňová Mária	0	566
+2488	Hološka František	ž.Bartoňová Mária; ž.Bartoňová Mária	0	567
+2488	Hološka Ján	mal., po Chládkovi Štefanovi	0	566
+2488	Hološka Ján	mal., po Chládkovi Štefanovi; mal., po Chládkovi Štefanovi	0	567
+2488	Hološka Ján	Malacky	0	374
+2488	Hološka Jozef		0	374
+2488	Hološka Jozef	po Chládkovi Štefanovi	0	566
+2488	Hološka Jozef	po Chládkovi Štefanovi; po Chládkovi Štefanovi	0	567
+2488	HOLOŠKA Michal		0	129,944
+2488	Hološka Pavol	mal., po Chládkovi Štefanovi	0	566
+2488	Hološka Pavol	mal., po Chládkovi Štefanovi; mal., po Chládkovi Štefanovi	0	567
+2488	Hološka Pavol	mal., sestra Anna	0	699,784,824,861
+2488	Hološka Pavol	Malacky	0	374
+2488	HOLOŠKA Pavol		0	129,212,222,223,224,225,226,374,944
+2488	HOLOŠKA Pavol	ž.Oravcová Mária	0	188
+2488	Hološková Anna	mal., brat Pavol	0	699,784,824,861
+2488	Hološková Katarína	po Hološkovej Márii r.Oravcovej	0	208,521
+2488	Hološková Katarína r. Škrabáková	m.Michal	0	524,784,824,861
+2488	Hološková Mária	mal	0	374
+2488	Hološková Mária	mal., po Chládkovi Štefanovi	0	566
+2488	Hološková Mária	mal., po Chládkovi Štefanovi; mal., po Chládkovi Štefanovi	0	567
+2488	Homolová Jozefína	mal., po Homolovi Karolovi ž.Pavlína	0	838
+2488	Homolová Pavlína r. Kuffová	m.Karol neb	0	838
+2488	Chladková Anna		0	374
+2488	Chládková Anna	po Chládkovi Štefanovi	0	566
+2488	Chládková Anna	po Chládkovi Štefanovi; po Chládkovi Štefanovi	0	567
+2488	Janáková Mária r. Oravcová	m.Ján	0	222,474,725,784,824,861
+2488	Jarábková Mária r. Hlavatá		0	303
+2488	Junasová Mária r. Gembešová	m.Jozef	0	836
+2488	JURÁŇOVÁ Agneša r. Kanichová		0	684
+2488	Juráňová Anna r. Gembešová	m.Jozef	0	836
+2488	KALAY Karol	ž.Kalayová Karolína	0	902
+2488	Kanich Ján	ž.Arkusová Katarína	0	129,784,824,861,944
+2488	Kanich Ján	ž.Katarína r. Arkušova	0	212
+2488	Kanich Ondrej	ž.Oravcová Mária	0	129,378,800,826,903,944
+2488	KANICH Ondrej		0	224,378,817,826
+2488	KANICH Ondrej, SR	ž.Oravcová Mária; ž.Oravcová Mária	0	801
+2488	KANICH Pavol	po Kanichovi Pavlovi	0	684
+2488	Kanichová Anna	slob	0	212
+2488	Kanichová Anna	slob., po Jánovi Kanichovi	0	129,784,824,861,944
+2488	KANICHOVÁ Mária	r.Oravcová, m.Ondrej	0	363
+2488	Kanichová Mária r. Oravcová	m.Ondrej	0	93,378,769,784,800,824,826,861
+2488	Kanichová Mária r. Oravcová	m.Ondrej; m.Ondrej	0	903
+2488	KANICHOVÁ Mária, SR	r.Oravcová, m.Ondrej; r.Oravcová, m.Ondrej	0	801
+2488	KANICHOVÁ Rozália	po Kanichovi Karolovi	0	684
+2488	KANICHOVÁ Rozália	po Kanichovi Pavlovi	0	684
+2488	KIRIPOLSKÝ Daniel		0	755
+2488	KLOKNER Štefan	ž.Baroková Mária neb	0	675
+2488	Kolesíková Alžbeta	r.Redenkovičová; r.Redenkovičová	0	567
+2488	Kolesiková Alžbeta r. Redenkovičová		0	374,566
+2488	Kuchta Ferdinand	ž.Oravcová Mária, D 92/72; ž.Oravcová Mária, D 92/72	0	820
+2488	KUCHTA Ferdinand	ž.Oravcová Mária, D 92/72	0	258,261,605,784,824,841,850,861,885,887,891,895
+2488	KUCHTOVÁ Mária	r.Oravcová, m.Ferdinand	0	261
+2488	KUCHTOVÁ Mária r. Oravcová	m.Ferdinand	0	258,605,784,820,824,841,850,861,885,887,891,895
+2488	Leskovská Anna r. Hradelová		0	855
+2488	LIESKOVSKÁ Mária	r.Oravcová	0	370,544,545,944
+2488	LIESKOVSKÁ Mária r. Oravcová		0	129,208,211,212,821,845
+2488	LIESKOVSKÝ Ján		0	129,944
+2488	Marík František	ž.Škrabáková Katarína	0	392,856
+2488	Maríková Katarína r. Škrabáková		0	855
+2488	Maríková Katarína r. Škrabáková	m.František	0	392,856
+2488	MICHALOVÍČOVÁ Františka		0	604,784,824,861
+2488	Mikulčík Ján		0	375,377,384,395,753,784,824,861,912,913
+2488	Mikulčík Ján	mal.,po Mikulčíkovi Štefanovi ž.Katarína	0	26,378,784,824,861
+2488	Mikulčík Ján	po Mikulčíkovi Florianovi mal	0	26,378,784,824,861
+2488	MIKULČÍK Jozef		0	254,258,459,510,799,851,880,931
+2488	MIKULČÍK Jozef	mal., D 463/02	0	824,861
+2488	MIKULČÍK Michal	ž.Oravcová Anna	0	459,510,847,894
+2488	Mikulčík Pavol		0	375,377,384,395,753,784,824,861,912,913
+2488	Mikulčík Pavol	mal., po Mikulčíkovi Jánovi	0	26
+2488	Mikulčík Pavol	mal.,po Mikulčíkovi Štefanovi ž.Katarína	0	26,378,784,824,861
+2488	Mikulčík Pavol	po Mikulčíkovi Florianovi mal	0	26,378,784,824,861
+2488	Mikulčík Pavol	ž.Keračíková Alžbeta, D 1165/80, vz.5/81	0	26,784,824,861
+2488	Mikulčík Štefan	ž.Oravcová Katarína	0	499
+2488	MIKULČÍK Štefan		0	764,784,824,861
+2488	MIKULČÍK Štefan	po Mikulčíkovej Kataríne mal	0	784,824,861
+2488	Mikulčíková Anna	po Mikulčíkovi Štefanovi ž.Katarína	0	26,378,784,824,861
+2488	MIKULČÍKOVÁ Anna		0	226
+2488	MIKULČÍKOVÁ Anna	po Čupovej Márii r.Rusňákovej	0	784,824,861
+2488	Mikulčíková Anna r. Oravcová	m.Michal	0	510,894
+2488	Mikulčíková Anna r. Vaculová		0	380
+2488	Mikulčíková Karolína		0	375,377,384,395,753,784,824,861,912,913
+2488	Mikulčíková Karolína	mal., po Mikulčíkovej Márii r.Tomekovej	0	490,863
+2488	Mikulčíková Karolína	po Mikulčíkovi Florianovi mal	0	26,378,784,824,861
+2488	Mikulčíková Karolína	po Mikulčíkovi Štefanovi ž.Katarína	0	26,378,784,824,861
+2488	MIKULČÍKOVÁ Karolína	mal	0	784,824,861
+2488	MIKULČÍKOVÁ Katarína	r.Oravcová, m.Štefan	0	224
+2488	Mikulčíková Mária	Anna	0	26,113,727,729,735,739,742
+2488	Mikulčíková Mária	po Mikulčíkovi Štefanovi ž.Katarína	0	26,378,784,824,861
+2488	MIKULČÍKOVÁ Mária		0	226,728,736,737,738,740,741,784,824,861
+2488	MIKULČÍKOVÁ Mária	mal	0	784,824,861
+2488	MIKULČÍKOVÁ Mária	po Čupovej Márii r.Rusňákovej	0	784,824,861
+2488	MIKULČÍKOVÁ Rozália		0	258,605,755,828,830
+2488	MIKULČÍKOVÁ Rozália	brat Ján	0	784,824,861,900
+2488	MIKULČÍKOVÁ Rozália	mal	0	784,824,861
+2488	MIKULKA Imrich		0	129,212,226,374,944
+2488	MIKULKA Imrich	po Hološkovi Pavlovi ž.Mária Oravcová	0	188,208,222,223,224,225,227,228,303,520,521,522,671,693,694,695,696,697,699,702,759,784,824,861,985,986,987
+2488	MIKULKA Michal		0	129,212,226,374,944
+2488	MIKULKA Michal	po Hološkovi Pavlovi ž.Mária Oravcová	0	188,208,222,223,224,225,227,228,303,520,521,522,671,693,694,695,696,697,699,702,759,784,824,861,985,986,987
+2488	MRKVOVÁ Alžbeta	r.Valentová	0	313
+2488	Mrkvová Alžbeta r. Valentová		0	212,888
+2488	OBÚLANÁ Anna r. Mikušková		0	784,824,861
+2488	OBÚLANÁ Karolína	po Obulanom Martinovi	0	124
+2488	OBÚLANÁ Katarína	po Obulanom Martinovi	0	124,784,824,861
+2488	OBÚLANÁ Mária		0	366
+2488	OBÚLANÝ Alojz	ž.Režnáková Jozefína	0	455
+2488	OBÚLANÝ Floriš		0	784,824,861
+2488	OBÚLANÝ Ján		0	367
+2488	OBÚLANÝ Jozef		0	872,873
+2488	OBÚLANÝ Jozef	po Obúlanej Kataríne	0	784,824,861
+2488	OBÚLANÝ Jozef	po Obúlanom Martinovi; po Obúlanom Martinovi	0	124
+2488	OBÚLANÝ Jozef	slob	0	871,874
+2488	OBÚLANÝ Pavol		0	784,824,861
+2488	OBÚLANÝ Štefan	po Obulanej Márii	0	390,956
+2488	OBÚLANÝ Štefan	po Obulanom Martinovi	0	784,824,861
+2488	OBÚLANÝ Štefan	ž.Beňáková Mária	0	33,393,784,824,861,867,907
+2488	Oravcová Anastázia	po Oravcovi Štefanovi	0	222,474,613,683,725,731,732,784,824,838,861
+2488	ORAVCOVÁ Anna	r.Jurovatá, m.Jozef	0	662
+2488	ORAVCOVÁ Anna r. Mikulčíková	m.Pavol	0	757,784,824,861
+2488	ORAVCOVÁ Anna r. Oravcová	D 227/02	0	824
+2488	ORAVCOVÁ Aurelia	mal., po Oravcovi Jozefovi ž.Anna	0	658,661,662
+2488	ORAVCOVÁ Helena	mal., po Oravcovi Jozefovi ž.Anna	0	658,659,660,661,662
+2488	Oravcová Helena r. Jastrábová		0	809
+2488	Oravcová Karolína		0	212
+2488	ORAVCOVÁ Karolína	po Jozefovi Oravcovi	0	784,824,861
+2488	Oravcová Katarína	r.Kanichová; r.Kanichová	0	567
+2488	Oravcová Katarína r. Hološková		0	212
+2488	Oravcová Katarína r. Kanichová		0	374,566
+2488	ORAVCOVÁ Ľudmila	r.Nestarcová, m.Alojz	0	262,265,266,422,926,927,928
+2488	ORAVCOVÁ Ľudmila r. Nestarcová	m.Alojz	0	784,824,861
+2488	Oravcová Mária	r.Kanichová; r.Kanichová	0	567
+2488	ORAVCOVÁ Mária		0	264,381,395,912,913,917
+2488	ORAVCOVÁ Mária	po Oravcovi Jánovi ž.Adamčíková Mária	0	305,309,432,499,632,683,684,690,784,824,861
+2488	Oravcová Mária r. Kanichová		0	374,566
+2488	ORAVCOVÁ Mária r. Lieskovská	m.Jozef	0	824,861
+2488	Oravcová Mária r. Oravcová		0	395,912,913
+2488	ORAVCOVÁ Rozália	po Oravcovi Pavlovi ž.Anna Mikulčíková	0	258,288,784,824,843,861
+2488	Oravcová Štefánia	po Oravcovi Štefanovi	0	838
+2488	ORAVEC Alojz		0	265
+2488	Oravec Florian		0	395,912,913
+2488	ORAVEC Florián	po Kanichovi Pavlovi	0	784,824,861
+2488	Oravec František		0	381,395,912,913,917

@@ -1,0 +1,256 @@
+2840	Ferenczová Alžbeta r. Nagy Ferenczová		0	398
+2840	Ferenczová Amália r. Liptáková		0	398
+2840	Ferenczová Karolína r. Fazekasová		0	398
+2840	Fodor Alexander		0	398
+2840	Fodor Boldizsár		0	346
+2840	Fodor Ignácz		0	398
+2840	Fodor Ján		0	346
+2840	Fodor Karol		0	398
+2840	Fodor Peter		0	346,398
+2840	Fodor Samuel		0	346
+2840	Fodor Szakó Antal		0	346,398
+2840	Fodor Štefan		0	398
+2840	Fodorová Jolana r. Bodorová Vargová		0	398
+2840	Gál Jozef		0	358
+2840	Gál Štefan		0	334
+2840	Gál Vojtech		0	358
+2840	Gergely Alexander		0	276,393
+2840	Golianová Agneša r. Podhorcová		0	390
+2840	Gyorgy Ladislav		0	413
+2840	Gyorgyová Emerencia		0	243,287,288,417,436,509
+2840	Gyóri Ján		0	350
+2840	Hoduľová Alžbeta r. Horváthová		0	232
+2840	Jablončík Štefan		0	243,417,436
+2840	Juhászová Julianna r. Petiková		0	10
+2840	Kaličiak Jozef		0	358
+2840	Kaszová Anna r. Bónová		0	335
+2840	Kazi Mária r. Adamová		0	243,417,436
+2840	Kelemenová Emerencia r. Koósová		0	243,417,436
+2840	Királyová Anna r. Adamová		0	243,417,436
+2840	Kis František		0	405
+2840	Kočišová Rozália r. Gálová		0	358
+2840	Kokényiová Gizela r. Botošová		0	350
+2840	Komlôs Štefan		0	346
+2840	Koóš František		0	287
+2840	Koóš Imrich		0	243,347,417,436
+2840	Koóš Ladislav		0	243,287,288,417,436,509
+2840	Koóšová Alžbeta		0	352
+2840	Koóšová Viktória		0	243,417,436
+2840	Koronciová Anna r. Bónová		0	405
+2840	Kóšová Anna r. Bónová	dcéra	0	244,246,263,267,300,381,490
+2840	Kóšová Ida		0	309
+2840	Kovács - Bónová Barbora r. Fazekasová		0	398
+2840	Kovács Gábor		0	346
+2840	Kovács Imrich	mladší	0	346
+2840	Kovács Imrich	starší	0	346
+2840	Kovács Karol		0	398
+2840	Kovacs Michal		0	346,398
+2840	Kovacs Pusok Imrich		0	346,398
+2840	Kovács Tuskó Jozef		0	346,398
+2840	Kovácsová Verona r. Mihályiová	vdova	0	346,398
+2840	Kováč Imrich	ml	0	398
+2840	Kováč Imrich	starší	0	398
+2840	Kováč Jozef		0	10
+2840	Krajanová Anna r. Pohánková		0	269
+2840	Kulichová Zuzana r. Pohánková		0	367
+2840	Lakatoš Július		0	250
+2840	Lakatoš Ľudovít		0	250
+2840	Lakatoš Vojtech		0	250
+2840	Lipták Ján		0	398
+2840	Lipták Jozef		0	398
+2840	Lipták Štefan		0	346
+2840	Lukács Pusok Ján		0	346
+2840	Lukácsová Anna r. Csomanyová		0	243,262,417,436,491,512
+2840	Lukácsová Jolana		0	96
+2840	Lukáč Boldižár		0	288,509
+2840	Lukáčová Mária r. Šramková		0	96,243,262,287,417,436,491,512
+2840	Magda František		0	243,417,436
+2840	Magdová Alžbeta		0	335
+2840	Magdová Hermína r. Ferenczová		0	397
+2840	Mártonová Jolana r. Gálová		0	358
+2840	Mihálová Veronika		0	436
+2840	Mihály Antal		0	243,417,436
+2840	Mihály František		0	243,417,436
+2840	Mihály Gábor		0	347
+2840	Mihály Štefan		0	243,417,436
+2840	Mihályová Etela r. Mihályová		0	243,417,436
+2840	Mihályová Mária r. Kovácsová		0	243,417,436
+2840	Miklós László		0	403
+2840	Molnár František		0	401
+2840	Monosa Anton		0	341
+2840	Nagy - Ferenczová Barbora r. Dósová		0	398
+2840	Nagy - Petyiová Julianna r. Vargová		0	398
+2840	Nagy Boldizsár		0	346,398
+2840	Nagy Ferencz Imrich		0	346
+2840	Nagy Ferencz Ján		0	346,398
+2840	Nagy Imrich		0	398
+2840	Nagy Ján		0	346,398
+2840	Nagy Ján	mladší	0	398
+2840	Nagy Karol		0	346,398
+2840	Nagy Ludovít		0	346
+2840	Nagy Mikša		0	346
+2840	Nagy Samuel		0	398
+2840	Nagy Štefan		0	346
+2840	Nagyová Anna r. Koósová		0	243,417,436
+2840	Nagyová Barbara r. Kisová		0	405
+2840	Nagyová Viktória r. Fazekasová		0	398
+2840	Némethová Irena r. Gyorgyová		0	243,261,262,284,395,417,436,441,476,491,512
+2840	Nyešte František		0	243,383,384,417,436
+2840	Nyešte Rozália		0	323
+2840	Oláhová Alžbeta r. Botošová		0	346
+2840	Palcsová Etela r. Gálová		0	358
+2840	Palčo Štefan		0	243,417,436
+2840	Palko Jozef		0	243,417,436
+2840	Perencsei Július		0	335
+2840	Piližiová Etela r. Szabová		0	343
+2840	Pohanka Ján	biely	0	378
+2840	Pohánka Juraj		0	185,374,498,506
+2840	Pohanka Vladimír		0	185,368,498,506
+2840	Pohánková Anna r. Ficková		0	185,498,506
+2840	Pohánková Mária r. Belová		0	185,498,506
+2840	Rigová Margita r. Palčo		0	243,417
+2840	Rigová Margita r. Palčová		0	436
+2840	Rovňan Ján	manž. Rozália r. Dibalová	0	425,426,427
+2840	Safrány Jozef		0	358
+2840	Safranyová Zuzanna r. Bodorová		0	358
+2840	Slavíková Helena r. Botošová		0	349
+2840	Slovák Michal	manž.Anna rod.Štibelová	0	349
+2840	Soukup Otakar		0	425,426,427
+2840	Szabo Anton		0	343
+2840	Szabó Boldizsár		0	346,398
+2840	Szabó Imrich		0	346,398
+2840	Szabo Ján		0	347
+2840	Szabová Regina r. Ferenczová		0	10
+2840	Szakó Gejza		0	401
+2840	Szaková Alžbeta r. Bónová		0	335
+2840	Szaková Anna		0	401
+2840	Szalai Ján		0	408
+2840	Szalai Jozef		0	406,408
+2840	Szalai Vojtech		0	408
+2840	Szalaiová Júlia r. Alabánová		0	406,408
+2840	Széplaky Ján		0	398
+2840	Széplaky Kovács Imrich		0	346,398
+2840	Szlovencsáková Júlia r. Fazekašová		0	99,158,243,417,436
+2840	Szucs Jánosné		0	403
+2840	Szulák Ján		0	74,243,386,417,436
+2840	Šerfózó Štefan	mladší	0	243,277,321,347,394,417,431,432,433,436
+2840	Špaleková Irena r. Tothová		0	243,335,417,436
+2840	Telek Štefan		0	243,417,436
+2840	Telek Vojtech		0	243,417,436
+2840	Teleková	manž.Františka Teleka	0	243,417,436
+2840	Telekyová Helena r. Fazekašová		0	265,322,323,489,513
+2840	Telekyová Vilma r. Fazekašová		0	243,382,383,384,417,436,500
+2840	Töre Tibor, Vajda Ákos A/14/14, Hévíz, MR		0	245,402,477
+2840	Tóth Ján		0	270,275,335,347,392,455,456,458
+2840	Tóth Karol		0	243,417,436
+2840	Tóthová Alžbeta r. Bokorová		0	305
+2840	Tóthová Alžbeta r. Tóthová		0	263
+2840	Tóthová Rozália r. Vargová		0	243,417,436
+2840	Tóthová Zuzanna		0	243,417,436
+2840	Ujváryová Mária r. Teleková		0	243,417,436
+2840	Uliczká Alžbeta r. Sósová		0	398
+2840	Uliczki Boldizsár		0	398
+2840	Uliczki Ondrej		0	346,398
+2840	Urbán Albert		0	346
+2840	Urbán Antal		0	346,398
+2840	Urbán Imrich		0	402
+2840	Urbán Ján		0	346,398
+2840	Urbán Jozef		0	402
+2840	Varga Adam		0	347
+2840	Varga Albert Ján		0	243,417,436
+2840	Varga Ferenc Ján		0	250
+2840	Varga František		0	414
+2840	Varga Imrich		0	346
+2840	Varga Jozef		0	243,414,417,436
+2840	Varga Jozef	mladší, manželka Magda r.Balážová	0	383
+2840	Varga Ondrej		0	243,417,436
+2840	Varga Peti Jozef		0	243,384,417,436
+2840	Varga Petyi Jozef		0	383
+2840	Varga Samuel		0	262,491,512
+2840	Varga Šidi František		0	262,491,512
+2840	Varga Šidi Ján		0	347
+2840	Vargová Alžbeta r. Kovácsová		0	337
+2840	Vargová Anna r. Szuláková		0	243,417,436
+2840	Vargová Františka r. Kováčová		0	243,323,383,384,417,436
+2840	Vargová Margita r. Lakatošová		0	250
+2840	Vargová Mária		0	243,323,383,384,417,436
+2840	Vargová Mária r. Szuláková		0	243,417,436
+2840	Vargová Šidi Mária r. Demeterová		0	250
+2840	Vargová Verona		0	243,417,436
+2840	Vojtek Ján		0	426
+2840	Vojtek Ján	manž. Katarína r. Bitalová	0	425,427
+2841	Acsai Ján	žen. s Alžbetou Jobbágy	1	778
+2841	Ačai Andrej		1	489,490,1008,1047,1054
+2841	Ačai Ján		1	803
+2841	Ačai Ján	ž. Alžbeta Jobbágyová	1	34,489,490,617,897,1008,1047,1054
+2841	Ačai Ján	žen. s Alžbetou Jobbaďovou	1	778
+2841	Ačai Jozef	ž. Anna Mačugová	1	34,897
+2841	Ačai Štefan		1	34,897
+2841	Ačaiová Alžbeta r. Harčárová		1	34,897
+2841	Ačaiová Barbora		1	34,897
+2841	Beregsási Jozef, SR		0	712
+2841	Béres Katarína r. Acsai		1	778
+2841	Béreš Ján		0	357,827
+2841	Béreš Vincent		0	362
+2841	Bérešová Alžbeta r. Liptáková		1	656
+2841	Bérešová Katarína r. Ačai		1	803
+2841	Bérešová Katarína r. Ačaiová		1	34,489,490,617,897,1008,1047,1054
+2841	Čarna Regína r. Ačaiová, 044 43, Budimír, č. 115, SR		0	803
+2841	Čižmár Ondrej	ž. Mária Krajňáková	1	687
+2841	Dziaková Agnesa r.Štorch		0	415
+2841	Farkaš Zoltán, Dr		0	790
+2841	Farkaš Zoltán, Dr.		1	287,289,291,788,789,854,855,1111,1129,1217,1218,1219
+2841	Gédrová Anna r. Sümeg		0	788,790
+2841	Gedrová Anna r. Sümegová		0	854,855
+2841	Gédrová Anna r. Sümmeg		0	789
+2841	Gedrová Anna r. Šimeková		1	287,289,291,634,1111,1129,1207,1217,1218,1219
+2841	Gedrová Cecília r. Šimeková		1	287,289,291,634,1111,1129,1207,1217,1218,1219
+2841	Gerda Andrej		1	654
+2841	Gerdová Anna r. Šimeková		1	654
+2841	Glovocká Júlia r. Sedláková		1	803
+2841	Glovocká Júlia r. Szedlák		1	778
+2841	Glovocká Júlia r. Szedláková		1	34,489,490,617,897,1008,1047,1054
+2841	Hrehová Júlia r. Tarnociová		1	658
+2841	Janovič Verona r.Štorch		0	415
+2841	Kišová Mária		0	832
+2841	Krajňák Ján		1	415,773,776,804,835
+2841	Krajňák Ján r. Krajňák		1	802
+2841	Krajňáková Júlia r. Štorch		0	419
+2841	Krajňáková Júlia r.Štorch		0	417
+2841	Krajňáková Veronika		0	829
+2841	Labancová Mária r. Beregsásiová		1	361,927
+2841	Lendacká Alžbeta r. Štorczová		0	773
+2841	Lendacká Alžbeta r. Štorchová		1	683,773
+2841	Lipták František	ž. Mária Sedláková	0	649
+2841	Mitrik Pavol		1	695
+2841	Múdra Margita r. Mitriková		1	695
+2841	Német Mária r. Murajda		1	803
+2841	Oravcová Alžbeta r. Sedláková		1	803
+2841	Oravcová Alžbeta r. Szedláková		1	34,489,490,617,897,1008,1047,1054
+2841	Oravec Alžbeta r. Szedlák		1	778
+2841	Oros Imrich		0	785
+2841	Oros Pavol		1	651
+2841	Pajor Mikuláš, Dr.		1	287,289,291,788,789,790,854,855,1111,1129,1217,1218,1219
+2841	Palenčár Štefan		1	801
+2841	Plahi Helena r. Dranga		0	418,419
+2841	Podracký Ondrej	ž.Anna Kováčová	1	296
+2841	Sedlák Július		0	705
+2841	Schmuta Alžbeta r. Acsai		1	778
+2841	Schmutzová Alžbeta r. Ačaiová		1	34,617,897
+2841	Stupár Helena r. Szedlák		1	778
+2841	Stupárová Helena r. Sedláková		1	803
+2841	Sümegová Cecília		0	789,790,854,855
+2841	Szedláková Barbora r. Spišáková		1	490,1047
+2841	Sztupárová Ilona r. Szedláková		1	34,489,490,617,897,1008,1047,1054
+2841	Šároši Ján	ž. Júlia Beregsásiová	1	307
+2841	Šároši Štefan		0	359
+2841	Šarošiová Mária		0	840
+2841	Šarošiová Marta		0	834
+2841	Šipoš Jozef	ž. Júlia Sedláková	0	703
+2841	Šipošová Júlia r. Sedláková		0	703
+2841	Štorch Ignác		0	415
+2841	Tobákoš Anna r. Štorch		0	415
+2841	Tóth Ľudovít		0	829
+2841	Vadas Ján		0	841
+2841	Vadasová Anna		0	841
+2841	Vašinská Terézia		0	862

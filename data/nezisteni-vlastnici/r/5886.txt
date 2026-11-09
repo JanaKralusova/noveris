@@ -1,0 +1,256 @@
+3311	MOLNÁR Gregor		0	1428,1429,1430,1431,1432,2271,2441,2442,2480,2580,2586,2750,2869,3102
+3311	MOLNÁR Imrich a Margita MOLNÁROVÁ r. Magáthová		0	2719
+3311	MOLNÁR Ján		1	77,1281,1528,1531,1535,1540,1542,1842,1843,1844,1845,2157,2480,2483,2484,2561,2562,2772
+3311	MOLNÁR Ján	m.Žofia r.Tóth	0	2480
+3311	MOLNÁR Ján, SR		1	289
+3311	MOLNÁR Jozef		0	1494,2772
+3311	MOLNÁR Jozef	m.Cecília r.Žigo	0	2556,2557,2558
+3311	MOLNÁR Jozef, SR		1	289
+3311	MOLNÁR Jozef, Výčapy Opatovce, SR		1	77
+3311	MOLNÁR Ladislav		0	1281,1528,1531,1535,1540,1542,1792,1794,1842,1843,1844,1845,2157,2471,2480,2483,2484,2561,2562,2772
+3311	MOLNÁR Ladislav, SR		1	77,289
+3311	MOLNÁR Michal		0	1562,1563
+3311	MOLNÁR Rudolf		0	2678
+3311	MOLNÁR VIiliam, SR		1	289
+3311	MOLNÁR Viliam		0	1540,1542,2483,2484,2772
+3311	MOLNÁR Viliam, V.Opatovce, č. 291, SR		1	77
+3311	MOLNÁROVÁ Helena		0	2678
+3311	MOLNÁROVÁ Helena	r.Machová	0	1442,1522,1653,1827,1920,1922,2028,2281,2372,2373,2441,2442,2447,2448,2449,2450,2469,2470,2480,2580,2584,2910,2958,3071,3090
+3311	MOLNÁROVÁ Katarína	mal	0	1963
+3311	MOLNÁROVÁ Katarína	r.Chudá,m.Jozef	0	1552,2358
+3311	MOLNÁROVÁ Margita	r.Tóthová	0	1917
+3311	MOLNÁROVÁ Mária	r.Kunová	0	1399
+3311	MOLNÁROVÁ Uršula	r.Dékaňová,m.Anton	0	1494
+3311	MORAVČÍKOVÁ Mária	r.Horňáčková	0	2870
+3311	NÉMA Ján		0	2651
+3311	NÉMOVÁ Helena	r.Vincúrová,m.Jozef	0	2675
+3311	NÉMOVÁ Katarína	r.Gážová	0	2651
+3311	neznámy vlastník		1	3017,3018,3019,3020
+3311	OSTRIHOMSKÁ Župa		0	1806
+3311	PÉNZEŠOVÁ Žofia	r.Gregušová	0	477,1126,1399,3079
+3311	PÉNZEŠOVÁ Žofia r. Gregušová		1	196
+3311	PETÉNYIOVÁ Jozefína		0	2809
+3311	PISTLO Tibor		0	2865
+3311	PISTLOVÁ Helena		0	2865
+3311	PISTLOVÁ Štefánia	r.Markovičová	0	1313,1390,1645,2079,2136,2656
+3311	PITERKOVÁ Margita	r.Kopčeková	0	1967,1968
+3311	PIVARČIOVÁ Etela		0	2081,2327,2587
+3311	Ponitrianske regulačné družstvo v Nitre		0	2985
+3311	RENDEKOVÁ Emília		0	1320,2278
+3311	RENGLOVIČ Eugen		0	1645,2135,2656,2865
+3311	REŽO Peter		0	2653
+3311	ROMANOVÁ Žofia	r.Dávidová	0	2546
+3311	ROŽIC Štefan	m.Gizela r.Molnár	0	2621
+3311	RUSŇÁKOVÁ Jozefína	r.Renglovičová	0	1390,2079,2136,2656,2865
+3311	SENEŠOVÁ Cecília	r.Billiková,m.Elek	0	1399,1496,1538,1611,1653,1656,1829,2446,2584,2764,3071
+3311	SENEŠOVÁ Cecília	r.Billiková,m.Elek ,; r.Billiková,m.Elek	1	2948
+3311	SCHWARCOVÁ Klára	r.Weisová	0	2480
+3311	SVORAD Marcel	m.Mária r.Petrík	0	1313,2135
+3311	SVORADOVÁ Mária	r.Petríková,m.Marcel	0	1313,2135
+3311	ŠIMANSKÁ Júlia	r.Tóthová m.Gustáv	0	1470
+3311	ŠIMANSKÁ Júlia	r.Žigová,m.Peter	0	2480
+3311	ŠIMANSKÁ Veronika	r.Machová; r.Machová	0	139
+3311	ŠIMANSKÝ Jakub		0	2551
+3311	ŠIMKOVÁ Alžbeta	r.Košťálová	0	2480
+3311	Šiška Vincent		1	3016
+3311	Šišková Katarína r. Šišková		1	3016
+3311	ŠKANDÍK Štefan		0	2195,2480
+3311	ŠKANDÍKOVÁ Alžbeta	r.Budayová m.Štefan	0	1262,1538,1539,1611,1829,2480,3068
+3311	ŠKANDÍKOVÁ Alžbeta	r.Budayová m.Štefan ,; r.Budayová m.Štefan	1	2948
+3311	ŠPITZOVÁ Regina	r.Weiszová	0	2480
+3311	ŠTRBOVÁ Elena	r.Magáthová	0	1875,1876,1879
+3311	ŠUHAJNÁROVÁ Veronika	r.Machová,m.Koloman	0	1639,2455,2456,2597
+3311	Taglicht Alexander		1	2076,2989
+3311	Taglicht Ervín		1	2989
+3311	Taglicht Jozef		1	2076,2989
+3311	Tamoš Ervín		0	2076
+3311	TICHÁ Terézia		0	1806
+3311	TICHÝ Jozef		0	1806
+3311	TICHÝ Karol		0	1806
+3311	Tomášiková Katarína r. Deutsch		0	2076
+3311	Tomášková Katarína r. Deutsch		1	2989
+3311	TÓTH Andrej		0	1743,2297,2480,3067
+3311	TÓTH Augustín	m.Alžbeta r.Macho	0	1403,1409,1577,1578,1580,1581,1941,1991,2370,2453,2454,2743,2834
+3311	TÓTH Dionýz		0	2746
+3311	TÓTH František		0	2760
+3311	TÓTH Ignác	m.Etela r.Deset	0	2751,2758,2760
+3311	TÓTH Ján		1	196
+3311	TÓTH Ján	m.Katarína r.Bellér	0	2609
+3311	TÓTH Jonáš		0	1408,1577,1578,1580,1991,2370,2453,2454,2743,2834
+3311	TÓTH Jonáš	m.Irma r.Macho	0	1581
+3311	TÓTH Jozef		0	2455,2456
+3311	TÓTH Jozef	ml	0	2643
+3311	TÓTH Juraj		0	2758,2760
+3311	TÓTH Karol		1	1496,1538,1611,1653,1829,2446,2584,2764,2948,3071
+3311	TÓTH Ľudovít	m.Alžbeta r.Belová	0	1275
+3311	TÓTH Matej		0	2480
+3311	TÓTH Matej	m.Etela r.Tóth	0	2268
+3311	TÓTH Michal	m.Helena r.Tóth	0	1408,1577,1578,1580,1991,2370,2453,2454,2743,2751,2758,2760,2834
+3311	TÓTH Silvester		0	2760
+3311	TÓTH Viktor		0	1399,1400,1401,1402,1403,1404,1405,1406,1407,1408,1409,1410,1411,1577,1578,1580,1737,1767,1788,1941,1942,1991,2102,2334,2370,2453,2454,2743,2751,2758,2760,2834,3171,3173,3206
+3311	TÓTH Viliam		0	1399
+3311	TÓTH Viliam	m.Veronika r.Domová	0	1581
+3311	TÓTH Vincent		0	1527,1578,1743,2297,2480,2743,2834,3067
+3311	TÓTH Vincent	m.Agneša r.Čerešňa	0	1580
+3311	TÓTH Vincent	m.Lýdia r.Dávid	0	1581
+3311	TÓTH Vincent	m.Mária r.Billik	0	2847
+3311	TÓTHOVÁ Agneša	r.Čerešňová	0	2527,2565
+3311	TÓTHOVÁ Alžbeta	r.Machová,m.Augustín	0	1648,1655,2072,2524,2590,3082
+3311	TOTHOVÁ Alžbeta, SR	r. Machová,m. Augustín	1	139
+3311	TÓTHOVÁ Cecília		0	2760
+3311	TÓTHOVÁ Cecília	r.Kunová	0	2745
+3311	TÓTHOVÁ Cecília	r.Kunová,m. Dionýz	0	1586
+3311	TÓTHOVÁ Cecília	r.Kunová,m.Adolf	0	2794
+3311	TÓTHOVÁ Emília	r.Budayová,m.Štefan	0	2480
+3311	TÓTHOVÁ Gizela	r.Kunová,m.Filip	0	1629,2744
+3311	TÓTHOVÁ Irma		0	2443,2444
+3311	TÓTHOVÁ Irma	r.Machová	0	1905,2680
+3311	TÓTHOVÁ Jozefína		0	2495
+3311	TÓTHOVÁ Júlia	r.Jakubičková	0	2785
+3311	TÓTHOVÁ Júlia	r.Miškolciová,m.Michal	0	2505
+3311	TÓTHOVÁ Katarína	r.Bellérová,m.Ján	0	1813,2245,2636
+3311	TÓTHOVÁ Katarína	r.Billiková,m.Martin	0	1281,1528,1529,1530,1531,1532,1534,1535
+3311	TÓTHOVÁ Katarína	r.Kunová	0	1261,2480,2605
+3311	TÓTHOVÁ Margita	mal	0	1611
+3311	TÓTHOVÁ Margita	r.Molnárová	0	2869
+3311	TÓTHOVÁ Margita	r.Tóthová,m.Karol	0	1445,1446,1450,1451,1452,2505,3091,3200
+3311	TÓTHOVÁ Mária	r.Billiková	0	1275
+3311	TÓTHOVÁ Mária	r.Billiková,m. Vincent	0	2847
+3311	TÓTHOVÁ Mária	r.Billiková,m.Juraj	0	1275,1283,1284,1743,1744,2297,2480,2932,3067
+3311	TÓTHOVÁ Mária	r.Tóthová,m.Andrej	0	2455,2456,2614
+3311	TÓTHOVÁ Veronika	r.Budayová,m.Rafael	0	1303,1305,2319,2360
+3311	TÓTHOVÁ Veronika	r.Budayová,m.Vojtech	0	1548,2039,2480
+3311	TÓTHOVÁ Vilma	r.Kunová nar.21.6.1899	0	1251,1252,1253,1255,1590,1594,1754,1755
+3311	TRPKOVSKÁ Cecília	r.Žigová	0	2365,2368,2480,2534,2552
+3311	TRPKOVSKÁ Cecília, SR	r. Žigová	1	160
+3311	Vachut Štefan		1	3001
+3311	Vachutová Katarína r. Trubačová		1	3001
+3311	Vámošová Klára r. Adlerová		1	3012
+3311	Vážny Dezider	Weiss	0	2076
+3311	Vážny Dezider r.	Weiss	1	2989
+3311	Véčei Pavol		1	2076,2989
+3311	VIRECOVÁ Iveta	r.Čerešníková	0	2817
+3311	Vitek Juraj		1	2076,2989
+3311	Vitek Juraj	Vécsey	0	2076
+3311	Vitek Juraj r.	Véscey	1	2989
+3311	Vitek Pavol	Vécsey	0	2076
+3311	Vitek Pavol r.	Véscey	1	2989
+3311	VOJÁČKOVÁ Barbora	r.Magáthová	0	1530,1687,2480,2526,2627,2878
+3311	Weiss Ferdinand		1	2076,2989
+3311	Weiss Hedviga		1	2076,2989
+3311	Weiss Vojtech		0	2076
+3311	Weiss Vojtech, Dr.		1	2989
+3311	Weisz Zoltán		1	2076,2989
+3311	Weiszová Erika		1	2076,2989
+3311	Weiz Anzelm		0	2076
+3311	ZÁSZLOVÁ Alžbeta	r.Kocsisová	0	2865
+3311	ŽIGO Andrej		0	2365,2366
+3311	ŽIGO Dezider		0	2480
+3311	ŽIGO Dezider	m.Mária r.Kováčik	0	2365,2366,2368
+3311	ŽIGO Eliáš		0	2480
+3311	ŽIGO František		0	2480
+3311	ŽIGO František	m.Emerencia r.Molnár	0	2365,2368,2534
+3311	ŽIGO František, SR	m.Emerencia r. Molnár	1	160
+3311	ŽIGO Gabriel		0	2480
+3311	ŽIGO Ján		0	2480
+3311	ŽIGO Jozef		0	2480
+3311	ŽIGO Ľudovít		0	2366,2368,2480,2534
+3311	ŽIGO Ľudovít	m.Agáta r.Magáth	0	2365
+3311	ŽIGO Ondrej	mal	0	2368,2480
+3311	ŽIGO Peter		0	2368,2480
+3311	ŽIGOVÁ Agáta	r.Magáthová	0	1687,2480
+3311	ŽIGOVÁ Anna	r.Magáthová,m.Peter	0	2480
+3311	ŽIGOVÁ Helena		0	2366
+3311	ŽIGOVÁ Margita	r.Budayová,m.Eliáš	0	2480,2585
+3311	ŽITŇANOVÁ Alžbeta	r.Kunová	0	2630
+3311	Žoldoš Félix		1	2987
+3311	Žoldošová Františka r. Šišková		1	2987
+3312	BAJCUROVÁ Anna	r.Gulová,zomrela	1	1358
+3312	Bajcurová Anna r. Gavulová,zomrela		1	1464
+3312	Bajcurová Anna r. Gulová	zomrela	1	1465
+3312	Bajcurová Anna r. Gulová, SR	+	1	1349,1474,1478
+3312	Baraňák Ján	+,ž.Anna r. Hapštaková	1	1259
+3312	Baraňáková Mária	dcéra Gregora, +	1	1259
+3312	Barančík Ivan, JUDr.		1	1354,1395
+3312	Baraníková Júlia		1	1239
+3312	Baraníková Júlia	+	1	1259
+3312	Baraníková Júlia r. Pavliková	+ +	1	1274
+3312	Barnová Anna r. Gališinová		1	1246
+3312	Basarábová Eva		1	1231
+3312	BASARABOVÁ Mária	r.Guliková,zomrela	1	1358,1374
+3312	Basarabová Mária r. Guliková	+ +	1	1354
+3312	Bober - Vacula Ivan	zomrel	1	1360
+3312	Bober - Vaculka Fedor	zomrel	1	1358,1360
+3312	Bober - Vaculka Fedor, SR	+	1	1335
+3312	Bober - Vaculka Ivan	zomrel	1	1358,1360
+3312	Bober Andrej	syn Michala,+	1	1241
+3312	Bober Fedor	syn Michala,+	1	1241
+3312	Bober Ivan	+,ž.Júlia r. Bogdanová	1	1241
+3312	BOBER Ján		1	1356,1358
+3312	Bober Michal	ž.Anna r. Sabarajková	1	1241
+3312	Bober Michal	ž.Anna r. Sabarčinová	1	1253
+3312	Bober-Vaculka Fedor, SR	+	1	1335
+3312	Bober-Vaculka Ivan, SR	+	1	1335
+3312	Boberová - Vaculková Mária	zomrela	1	1358,1360
+3312	Boberová Anna	dcéra Michala,+	1	1253
+3312	BOBEROVÁ Anna		1	1356,1358
+3312	Boberová Eva	dcéra Michala,+	1	1241,1253
+3312	Boberová Júlia	dcéra Michala,+	1	1253
+3312	BOBEROVÁ Júlia	r.Franková,zomrela	1	1372
+3312	Boberová Mária	dcéra Michala,+	1	1241
+3312	Boberová-Vaculková Mária, SR	+	1	1335
+3312	Bogdan Andrej	zomrel,ž.Mária r. Vasiľková	1	1231
+3312	BOGDAN Andrej	zomrel,ž.Mária r.Vasilková	1	1358,1376
+3312	Bogdan Ivan	syn Andreja,zomrel	1	1231,1358,1376
+3312	BOGDAN Michal	R16.6.1943,zomrel	1	1358
+3312	Bogdan Vasiľ	zomrel,ž.Mária r. Kornuťáková	1	1231
+3312	Bogdanová Helena	dcéra Andreja	1	1231,1358,1359,1376
+3312	Bogdanová Mária	+	1	1255,1262
+3312	BRINDAK Fedor	zomrel	1	1358
+3312	BRINDAK Ivan	zomrel	1	1358
+3312	BRINDAK Michal	zomrel 1	1	1358
+3312	CEPKO Ivan	zomrel,ž.Anna r.Hucková	1	1358
+3312	CEPKO Michal	zomrel,ž.Anna r.Hamasová	1	1358,1380
+3312	Cepko Michal r. Hamašová, SR	+ ž.Anna	1	1341,1487,1493
+3312	CEPKO Peter	zomrel,ž.Anna r.Hrišová	1	1358
+3312	Cepková Anna	r.10.8.1897	1	1259
+3312	CEPKOVÁ Anna	r.Hrišová,R10.8.1897,zomrela	1	1358,1369
+3312	Dirlájová Júlia		1	1256
+3312	Dribňáková Anna		1	1253
+3312	Drugová Mária	r.25.7.1927	1	1253
+3312	Durňáková Anna		1	1253
+3312	DURŇÁKOVÁ Anna	r.Lutašová	1	1358
+3312	Džurba Andrej, RNDr.CSc.		1	1216
+3312	DŽURBANOVÁ Júlia	r.Lojzaková,zomrela	1	1358,1368,1379
+3312	Fillo Martin, SR		0	1348
+3312	Fillová Renáta, SR		0	1348
+3312	Fischerová Mária		1	1231
+3312	FISCHEROVÁ Mária	r.Bogdanová	1	1358,1376
+3312	Franko Fedor	ž.Eva r.Popeláková,//	1	1459
+3312	FRANKO Fedor	ž.Eva r.Popeláková	1	1358
+3312	Franko Gregor, MEDZILABORCE, SR	ž.Mária r.Drugová //	1	1459
+3312	Franko Juraj	zomrel, ž.Eva r.Hrišová //	1	1459
+3312	Franko Juraj	zomrel,ž.Eva r. Hrišová	1	1229
+3312	Franko Peter	zomrel,ž.Pajza r. Gališinová	1	1229
+3312	FRANKOVÁ Anna	dcéra Leška	1	1358
+3312	Franková Anna, SR	dcéra Leška	1	1339,1500
+3312	FRANKOVÁ Eva	r.Hrišová,R5.2.1902,zomrela	1	1358,1369
+3312	FRANKOVÁ Pelagia	r.Gališinová,zomrela	1	1358
+3312	Gališin Andrej	+,ž.Mária r. Sopirová	1	1255
+3312	Gališin Andrej	+; ž.Mária r. Sopirová	1	1262
+3312	Gališin Mikuláš	syn Daniela,+	1	1255
+3312	Gališin Mikuláš	syn Daniela; +	1	1262
+3312	Gališin Vasiľ		1	1246
+3312	Gavulová Mária r. Franková	//	1	1459
+3312	Gic Andrej	zomrel,ž.Anna r. Lutášová	1	1231
+3312	Gic Michal		1	1253
+3312	Gic Michal	ž.Anastázia r. Baraňáková,zomrela	1	1231
+3312	Gic Mikuláš	ž.Anna r. Basarabová	1	1231
+3312	GIC-KRAJŇÁK Mikuláš	ž.Anna r.Lutašová	1	1358,1364
+3312	Gicová Anna		1	1245
+3312	Gicová Anna r. Vilhová, SR		1	1274
+3312	Gribová Anna	r.9.3.1948	1	1231,1239
+3312	GUBOVÁ Anna	r.Protivňáková	1	1358
+3312	Gubová Anna r. Protivňáková, SR		1	1343
+3312	Gula Andrej	ž.Mária r. Lukačiková	1	1233
+3312	Gula Andrej	ž.Mária, r.Lukačiková	1	1464

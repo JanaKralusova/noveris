@@ -1,0 +1,256 @@
+941	RÉVAY Martin	ž.Anna Martineková	0	3912,3913
+941	REVAY Štefan	manželka Anna r. Beňová	0	4650
+941	REVAY Štefan	manželka Anna r.Beňová	0	3629
+941	REVAY Štefan	ž.Anna r.Beňová	0	4654,4659,4661,4662,4730
+941	Révay Štefan	r.Révay	0	4661
+941	RÉVAY Štefan		0	4661
+941	REVAYOVÁ Alžbeta	r.Revayová	0	4661
+941	REVAYOVÁ Anna		0	3629,4650,4654,4659,4661,4662,4730
+941	REVAYOVÁ Anna	r.Revayová	0	3912,3913
+941	REVAYOVÁ Anna r. Černá	manžel Ján	0	3442
+941	RÉVAYOVÁ Anna r. Čierna		0	3441,4115
+941	Révayová Anna r. Révayová	m.Martin	0	3895,3896
+941	Revayová Emília	maloletá	0	3629,4650,4654,4659,4661,4662,4730
+941	REVAYOVÁ Eva		0	3629,4650,4654,4659,4661,4662,4730
+941	RÉVAYOVÁ Eva	r.Lužová	0	4654,4659,4661,4662,4730
+941	RÉVAYOVÁ Eva r. Lužová		0	3629,4650
+941	REVAYOVÁ Františka		0	4661
+941	REVAYOVÁ Katarína		0	3629,4650,4654,4659,4661,4662,4730
+941	Revayová Katarína r. Gulanová		0	3488
+941	RÉVAYOVÁ Katarína r. Mičová		0	4618
+941	RÉVAYOVÁ Katarína r. Pašková		0	4436
+941	Revayová Terézia r. Baldovská		0	3895,3896
+941	RÍDZY Adam		0	3629,4650,4654,4659,4661,4662,4730
+941	ROGERSOVÁ Mária r. Šimková		0	3045
+941	Rojko Ján	manželka Anna r. Bukovčíková	0	3680,3681,3682
+941	Rojko Ján	manželka Anna rod. Bukovčíková	0	3629,4265
+941	Rojko Ján	ž.Anna Bukovčíková	0	4661
+941	ROJKO Ján		0	3629,3680,3681,4265,4287,4288,4661
+941	Rojko Karol		0	3629,3680,3681,3682,4265
+941	Rojko Karol	r.Rojko,nar.10.07.1923	0	4661
+941	ROJKO Martin		0	3629,3676,3680,3681,3915,4261,4264,4265,4287,4288,4592,4595,4661
+941	ROJKO Štefan	manželka Katarína r. Stachová	0	3681
+941	ROJKO Štefan	manželka Katarína rod. Stachová	0	3629
+941	ROJKO Štefan	manželka Mária r. Janočková	0	3680,3681,3682,4265
+941	ROJKO Štefan	manželka Mária rod. Janočková	0	3629
+941	ROJKO Štefan	ž.Katarína Stachová	0	4661
+941	ROJKO Štefan	ž.Mária Janočková	0	4661
+941	Rojková Anna	maloletá	0	3782,4594
+941	Rojková Anna r. Magálová	manžel Martin	0	3676,3782,3915,4592,4594,4595
+941	Rojková Emília	po Anne Rojkovej r.Bukovčíkovej	0	3629,3680,3681,3682,4265,4661
+941	ROJKOVÁ Emília	maloletá	0	3782,4594
+941	ROJKOVÁ Eva		0	3629,3680,3681,4265,4287,4288,4661
+941	ROJKOVÁ Katarína r. Chovancová		0	4287
+941	ROJKOVÁ Katarína r. Stachová		0	4287
+941	ROJKOVÁ Katarína r. Stachová	manžel Štefan	0	4288
+941	ROJKOVÁ Mária		0	3629,3680,3681,4265,4287,4288,4661
+941	ROJKOVÁ Mária	r.Jánošková	0	4661
+941	ROJKOVÁ Mária r. Jánošková		0	3629
+941	ROJKOVIČOVÁ Judita r. Haruščáková		0	4601
+941	Roľnícka vzájomná pokladnica Nové Mesto nad Váhom		0	3527
+941	ROUDNÁ Katarína	r.Prasličková	0	4661
+941	RÝDZY Martin		0	3629,4650,4654,4659,4661,4662,4730
+941	Rzavská Katarína		0	3629,4661
+941	Sadloň Ján	dátum úmrtia 13.04.1970	0	4382
+941	Sadloň Juraj		0	1387,3148,3161,3471,3629,3799,3872,3879,3880,4062,4270,4292,4294,4380,4382,4383,4454,4603,4604,4698,4699,4700,4799,4800,4801,4812,4821,4822,4843,4873,4890,4912
+941	Sadloň Juraj	r.Sadloň,-	0	4661
+941	Sadloň Martin	maloletý	0	3471,3629,4292,4382,4699,4890
+941	Sadloň Martin	r.Sadloň,mal	0	4661
+941	Sadloňová Anna		0	1387,2994,3138,3148,3151,3161,3629,3763,3764,3799,3872,3879,3880,4062,4318,4365,4382,4383,4454,4603,4604,4661,4799,4800,4801,4812,4821,4822,4843,4873,4912
+941	Sadloňová Karatína r. Jakubcová	manžel Jozef	0	4698
+941	SADLOŇOVÁ Katarína	r.Mikulcová	0	3895,3896
+941	Sadloňová Katarína r. Hložková		0	4382,4698,4699,4702
+941	Sahaj Ján	manž.Anna Kusendová	0	4654,4659,4661,4662,4730
+941	Sahaj Ján	manželka Anna r. Kusendová	0	4650
+941	Sahaj Ján	manželka Anna rod. Kusendová	0	3629
+941	Sahaj Jozef	maloletý	0	3629,4650
+941	Sahaj Jozef	r.Sahaj,mal	0	4654,4659,4661,4662,4730
+941	Sahaj Juraj		0	3046,3048,3050,3051,3461,3463,3493,3983,4289,4463,4492,4545,4546,4562
+941	SAHAJ Juraj	manželka Mária r. Juricová	0	3629,4650
+941	SAHAJ Juraj	manželka Mária rod. Juricová	0	3629
+941	SAHAJ Juraj	ž.Mária Juricová	0	4654,4659,4661,4662,4730
+941	Sahaj Juraj r. Sahaj		0	3892
+941	SAHAJ Martin	manželka Kata r. Zámečníková	0	3629
+941	SAHAJ Martin	manželka Kata r.Zámečníková	0	3629
+941	SAHAJ Martin	manželka Katarína r. Zámečníková	0	4650
+941	SAHAJ Martin	ž.Kata r.Zámečníková	0	4654,4659,4661,4662,4730
+941	SAHAJ Pavol	súr.Anna,Katarína,Alžbeta	0	4654,4659,4661,4662,4730
+941	SAHAJ Pavol	súrodenci Anna, Katarína, Alžbeta	0	3629,4650,4661
+941	SAHAJOVÁ Alžbeta	súr.Anna,Pavol,Katarína	0	4654,4659,4661,4662,4730
+941	SAHAJOVÁ Alžbeta	súrodenci Anna, Pavol, Katarína	0	3629,4650,4661
+941	Sahajová Anna	vým. mal. čd.2346/44	0	3892
+941	Sahajová Anna	výmaz maloletosti č.d. 2346/44	0	3051,3461,3463,3493,4289
+941	Sahajová Anna	výmaz maloletosti čd. 2346/44	0	3046,3048
+941	Sahajová Anna	výmaz maloletosti čd.2346/44	0	3050,3983,4463,4492,4545,4546,4562
+941	SAHAJOVÁ Anna	súr.Pavol,Katarína,Alžbeta	0	4654,4659,4661,4662,4730
+941	SAHAJOVÁ Anna	súrodenci Pavol, Katarína, Alžbeta	0	3629,4650,4661
+941	SAHAJOVÁ Božena	mal	0	4654,4659,4661,4662,4730
+941	SAHAJOVÁ Božena	maloletá	0	3629,4650
+941	Sahajová Emília	maloletá	0	3046,3048,3050,3051,3461,3463,3493,3892,3983,4289,4463,4492,4545,4546,4562
+941	SAHAJOVÁ Eva	r.Rýdza	0	4654,4659,4661,4662,4730
+941	SAHAJOVÁ Eva r. Rýdza		0	3629,4650
+941	SAHAJOVÁ Katarína	r.Dedíková	0	4661
+941	SAHAJOVÁ Katarína	r.Klučarová	0	4654,4659,4661,4662,4730
+941	SAHAJOVÁ Katarína	súr.Anna,Pavol,Alžbeta	0	4654,4659,4661,4662,4730
+941	SAHAJOVÁ Katarína	súrodenci Anna, Pavol, Alžbeta	0	3629,4650,4661
+941	SAHAJOVÁ Katarína r. Klučarová		0	3629,4650
+941	Sahajová Mária		0	3046,3048,3050,3051,3461,3463,3493,3892,3983,4289,4463,4492,4545,4546,4562
+941	SAHAJOVÁ Mária	r.Martáková	0	4654,4659,4661,4662,4730
+941	SAHAJOVÁ Mária r. Martáková		0	3629,4650
+941	SAMOTNÁ Anna	maloletá	0	4580
+941	SAMOTNÁ Anna	r.Bušová	0	4654,4659,4661,4662,4730
+941	SAMOTNÁ Anna r. Bušová		0	3629,4436,4627,4650
+941	SAMOTNÁ Anna r. Čičková		0	4083
+941	Samotná Anna r. Šimková		0	4720
+941	SAMOTNÁ Eva r. Podhradská	manžel Ján	0	4621
+941	SAMOTNÁ Mária	r.Révajová	0	3912,3913
+941	SAMOTNÝ Ján	slobodný	0	3629,4650,4654,4659,4661,4662,4730
+941	SAMOTNÝ Štefan		0	4182,4214,4489
+941	SARKOCI Ján	m.Katarína Malíčková	0	2791
+941	SARKÓCI Ján		0	4041
+941	SARKÓCI Martin	manželka Anna r. Popelková	0	4650
+941	SARKÓCI Martin	manželka Anna rod. Popelková	0	3364,3629
+941	SARKÓCI Martin	ž.Anna Popelková	0	4654,4659,4661,4662,4730
+941	SARKOCI Štefan	m.Vilma Glasová	0	2791
+941	SARKOCI Štefan	manželka Vilma rod. Glasová	0	4041
+941	SARKOCIOVÁ Anna r. Černá		0	4108
+941	SARKOCYOVÁ Anna r. Savarová	Jurajova	0	3605
+941	SAVAROVÁ Katarína		0	4030
+941	SAVAROVÁ Katarína r. Bušová		0	4000,4913,4914,4917
+941	SAVAROVÁ Katarína r. Bušová	Janova	0	4027
+941	SAVAROVÁ Katarína r. Štefániková	manžel Ján	0	4002,4004,4019
+941	Sedlák Ján		0	3629,4650
+941	Sedlák Ján	r.Sedlák,v Mor. Lieskovom	0	4654,4659,4661,4662,4730
+941	SEDLÁK Ludevít		0	3629,4650,4654,4659,4661,4662,4730
+941	SEDLÁKOVÁ Helena		0	3629,4650,4654,4659,4661,4662,4730
+941	SEEVALDOVÁ Katarína		0	3974
+941	SEEVALDOVÁ Katarína r. Zámečníková	manžel Štefan	0	3974
+941	SETVÁKOVÁ Anna	r.Revayová	0	4661
+941	SICHROVSKÁ Katarína		0	3979,3980,4832
+941	SICHROVSKÝ Ján		0	3979,3980,4832
+941	SICHROVSKÝ Juraj	manželka Eva r. Jánošíková	0	4020
+941	SKOVAJSA Ján	súrodenci Martin, Anna Magalová, Katarína Lobíková	0	2927
+941	Skovajsa Jozef		0	4183,4478,4650
+941	Skovajsa Jozef	po Jánovi Švehlovi	0	3629
+941	Skovajsa Jozef	r.Skovajsa,po Jánovi Švehlovi	0	4659,4730
+941	Skovajsa Jozef r. Skovajsa	po Jánovi Švehlovi	0	3792,4654,4661,4662
+941	SKOVAJSOVÁ Anna r. Miklánková	manžel Juraj	0	4425
+941	SKOVAJSOVÁ Mária	r.Miková	0	3895,3896
+941	SKÚPA Eva		0	3969
+941	SKÚPA Katarína r. Zelková		0	3952
+941	SKÚPY Martin		0	3969
+941	Slářová Emília r. Miklánková		0	3527,3675,3677,3678,3746,3916,3917,4312,4568,4616,4700,4714,4754,4906,4907
+941	Solovicová Anna	r. Hložková	0	4388
+941	Solovicová Anna r. Hložková		0	1387,3413,3415,3851,4356,4359,4382,4385,4865,4886,4887
+941	SOVOVÁ Anna	r.Rýdza	0	4654,4659,4661,4662,4730
+941	SOVOVÁ Anna r. Rýdza		0	3629,4650
+941	Stacho Ján		0	1439,2994,3060,3138,3151,3629,3764,3799,4172,4194,4209,4218,4219,4319,4365,4375,4382,4406,4407,4412,4493,4603,4629,4632,4718,4794,4814,4872,4892
+941	Stacho Ján	maloletý, po Jurajovi	0	3629
+941	Stacho Ján	manželka Anna r. Turanová	0	1387,3148,3161,3763,3773,3872,3875,3879,3880,4318,4369,4383,4412,4454,4532,4604,4745,4799,4800,4801,4812,4821,4822,4843,4857,4873,4882,4912
+941	Stacho Ján	manželka Anna rdo.Turanová	0	3629
+941	Stacho Ján	manželka Anna rod. Turanová	0	4062,4172,4194,4872
+941	Stacho Ján	r.Stacho	0	4661
+941	Stacho Ján	r.Stacho,mal. po Jurajovi	0	4661
+941	Stacho Ján	r.Stacho,nar.26.08.1925	0	4661
+941	Stacho Ján	ž.Anna Turanová	0	4661
+941	STACHO Ján	manželka Anna r.Gulanová	0	4249,4380
+941	STACHO Ján	syn po Floriánovi	0	4172,4872
+941	STACHO Ján	výmaz maloletosti čd. 756/25	0	3773,4532
+941	Stacho Ján r. Stacho		0	4185
+941	Stacho Ján r. Stacho	manželka Anna r. Turanová	0	3799,4603
+941	Stacho Jozef		0	3629,3875,4209,4745,4857,4882
+941	Stacho Jozef	maloletý	0	3629,3875,4172,4218,4219,4313,4629,4745,4814,4857,4872,4882,4892
+941	Stacho Jozef	r.Stacho,mal	0	4661
+941	Stacho Jozef	r.Stacho,nar.12.05.1935	0	4661
+941	STACHO Jozef	manželka Eva r. Rojková	0	4365
+941	Stacho Juraj		0	4632,4718
+941	Stacho Juraj	manželka Katarína r. Stachová	0	3060
+941	Stacho Juraj	r.Stacho	0	3060
+941	STACHO Juraj	manželka Katarína r. Martáková	0	3875,4745,4857,4882
+941	Stacho Martin		0	4224,4227,4365,4375,4629,4632,4718
+941	Stacho Martin	r.Stacho	0	3060
+941	Stacho Martin	r.Stacho,výmaz mal.čd.1359/31	0	4661
+941	Stacho Martin	výmaz maloletosti č.d. 1359/31	0	4218,4313,4814,4892
+941	Stacho Martin	výmaz maloletosti č.d.1359/31	0	4218,4219,4814,4892
+941	Stacho Martin	výmaz maloletosti čd. 1359/31	0	4629
+941	Stacho Martin	výmaz maloletosti čd.1359/31	0	3629,4313
+941	STACHO Martin	m.Katarína Gulanová	0	4661
+941	STACHO Martin	manželka Anna r. Dedíková	0	1439,4226,4227,4373,4629,4794
+941	STACHO Martin	manželka Anna r. Grebíková	0	3629
+941	STACHO Martin	manželka Anna r.Grebíková	0	4365
+941	STACHO Martin	manželka Anna rod. Dedíková	0	4168
+941	STACHO Martin	manželka Katarína r. Gulanová	0	3472,3479,3527,4512,4537
+941	STACHO Martin	manželka Katarína rod. Gulanová	0	3629
+941	STACHO Martin	ž.Anna r.Grebíková	0	4661
+941	STACHO Michal		0	4209
+941	STACHO Michal	manželka Mária r. Magálová	0	3875,4745,4857,4882
+941	Stacho Milan		0	3629,3875,4209,4745,4857,4882
+941	Stacho Milan	r.Stacho,nar.12.04.1932	0	4661
+941	Stacho Pavol		0	3629,4209,4632,4718
+941	Stacho Pavol	r.Stacho	0	3060,4661
+941	STACHO Pavol	manželka Mária r. Podolanová	0	3875,4745,4857,4882
+941	STACHO Peter		0	1439,4794
+941	STACHO Peter	manželka Anna r. Lahvičková	0	3875,4745,4857,4882
+941	Stacho Štefan	manž.Júlia rod.Kopečná	0	3629,3799,4172,4365,4661,4872
+941	Stacho Štefan	manželka Júlia rod. Kopečná	0	4603
+941	Stacho Štefan	manželka Júlia rod.Kopečná	0	3629,4172,4365,4382,4872
+941	STACHO Štefan		0	3895,3896,4188,4198,4412
+941	STACHO Štefan	manželka Katarína r. Nešťáková	0	4378
+941	STACHO Štefan	slobodný	0	3895,3896
+941	STACHO Štefan	ž.Mária r.Harušťáková	0	3895,3896
+941	Stachová Anna		0	3060,3629,4219,4313,4375,4629,4632,4661,4718
+941	Stachová Anna	nar.7.08.1923-?	0	3629,4209,4661
+941	Stachová Anna	nar.7.08.1923-?; nar.7.08.1923-?	0	3875,4745,4857,4882
+941	Stachová Anna	r.Turanová	0	4661
+941	Stachová Anna	urbár-N 3/2005=VZ 15/06	0	3895,3896
+941	STACHOVÁ Anna	r.Dedíková	0	4661
+941	STACHOVÁ Anna r. Dedíková		0	3629,4511,4536,4620,4631,4722
+941	STACHOVÁ Anna r. Dedíková	manžel Juraj	0	3137,3150
+941	Stachová Anna r. Podhradská		0	867,1280,2106,2108,2928,2929,3210,3358,3674,3749,3772,3773,4194,4271,4272,4290,4476,4532,4612,4709,4905
+941	Stachová Anna r. Turanová		0	1387,2994,3138,3148,3151,3161,3629,3763,3764,3773,3799,3872,3879,3880,4062,4172,4194,4318,4369,4382,4383,4412,4454,4493,4532,4603,4604,4799,4800,4801,4812,4821,4822,4843,4872,4873,4912
+941	Stachová Božena	po Jánovi Stachovi	0	3992,4219,4364,4846
+941	STACHOVÁ Dorota		0	4366,4404
+941	Stachová Emília		0	3629,3875,4209,4745,4857,4882
+941	Stachová Emília	nar.14.11.1937	0	4661
+941	STACHOVÁ Eva		0	3629,4661
+941	STACHOVÁ Eva r. Magálová	manžel Ján	0	4532
+941	Stachová Katarína	nar.09.03.1921	0	4661
+941	STACHOVÁ Katarína		0	3060,3629,3875,4194,4209,4406,4407,4745,4857,4882
+941	STACHOVÁ Katarína	r.Stachová	0	3629,4661
+941	STACHOVÁ Katarína	r.Turanová	0	4661
+941	STACHOVÁ Katarína	r.Turanová, m.Matúš	0	4661
+941	STACHOVÁ Katarína	výmaz maloletosti čd. 956/34	0	3773
+941	STACHOVÁ Katarína	výmaz maloletosti čd.956/34	0	4532
+941	STACHOVÁ Katarína r. Neščaková		0	3911,4855
+941	Stachová Katarína r. Neštáková		0	3137,3150,3527,3920,4160,4301,4308,4536,4620,4622,4631,4636,4663,4722
+941	Stachová Katarína r. Nešťáková	manžel Štefan	0	4220,4221,4308,4373
+941	STACHOVÁ Katarína r. Turanová		0	2803,2804,2805,2807,3629,3864,3865,3866,3867,4129,4135,4145,4147,4440
+941	STACHOVÁ Katarína r. Turanová	manžel Matúš	0	2803,2807,2809,3629,3864,3865,3866,3867,4129,4135,4145,4147,4440,4748
+941	STACHOVÁ Mária		0	3875,4406,4407,4745,4857,4882
+941	STACHOVÁ Mária	r.Harušťáková	0	4198
+941	STACHOVÁ Mária r. Podolanová	manžel Martin	0	4516
+941	STAŇO Martin	manželka Katarína rod. Miklánková	0	4046,4048
+941	STANOVÁ Katarína r. Miklánková		0	2649,4763
+941	STERNOVÁ Rozália r. Polláková		0	4457
+941	STRAKA Emil		0	3895,3896
+941	STRAKA Emil	m.Agneša Miklánková	0	3895,3896
+941	STRAKA Jozef		0	3895,3896
+941	STRAKOVÁ Mária	r.Sedláková	0	4654,4659,4661,4662,4730
+941	STRAKOVÁ Mária r. Sedláková		0	3629,4650
+941	STRUHÁRIKOVÁ Katarína	r.Černá	0	3895,3896
+941	STRUHÁRIKOVÁ Mária	mal	0	4654,4659,4661,4662,4730
+941	STRUHÁRIKOVÁ Mária	maloletá	0	3629,4650
+941	SUČAN Ján		0	4639
+941	Sučanová Mária	r.Dedíková,manž.Ján	0	4661
+941	Sučanová Mária r. Dedíková	manžel Ján	0	3137,3150,3629,4620,4631,4639,4722
+941	Sučanová Mária r. Dedíková	manželka Ján	0	4511,4536
+941	SÝKORA Juraj	m.Eva Zelková	0	4654,4659,4662,4730
+941	SÝKORA Juraj	manželka Eva r. Zelková	0	4650
+941	SÝKORA Martin		0	4650,4654,4659,4662,4730
+941	SÝKORA Martin	manželka Mária r. Blanárová	0	4650
+941	SÝKORA Martin	manželka Mária rod. Blanárová	0	3629
+941	SÝKORA Martin	ž.Mária Blanárová	0	4654,4659,4661,4662,4730
+941	SÝKOROVÁ Eva		0	3629,4661
+941	SÝKOROVÁ Katarína	r.Okrucká,m.Štefan	0	3895,3896
+941	SÝKOROVÁ Katarína r. Okrucká	manžel Štefan	0	3530
+941	Sýkorová Mária	rod.Blanárová	0	4654,4659,4661,4662,4730

@@ -1,0 +1,256 @@
+621	Kračún Imrich		0	424
+621	Kucharčíková Jolana	mal	0	456
+621	Kucharčíková Margita	mal	0	456
+621	Kuchárik Jozef r. Kuchárik, Župčany 11, Župčany, PSČ 080 01, SR		0	417
+621	KURUCOVÁ Barbora r. Szanislová		0	357,358,929,946
+621	LENGYEL Andrej		0	357,358,929,946
+621	LENGYEL Ján		0	357,358,929,946
+621	LENGYEL Štefan		0	357,358,929,946
+621	LENGYELOVÁ Alžbeta		0	357,358,929,946
+621	LENGYELOVÁ Alžbeta r. Bodnárová		0	357,358,929,946
+621	LENGYELOVÁ Alžbeta r. Brecková		0	357,946
+621	LENGYELOVÁ Mária		0	357,946
+621	LENGYELOVÁ Mária r. Vasiľová		0	358,929
+621	LUKÁČOVÁ Barbora r. Hertnekiová		0	357,358,929,946
+621	MAĎAR Juraj		0	357,358,929,946
+621	MAĎAROVÁ		0	358,929
+621	MAĎAROVÁ Alžbeta r. Dečmanová		0	357,946
+621	MAKOVÁ Anna r. Bodnárová		0	357,358,929,946
+621	MARCI Ján		0	357,358,929,946
+621	MARCINČÁKOVÁ Mária r. Matisová		0	406
+621	MATIS Andrej		0	418
+621	MATIS Ján		0	357,358,929,946
+621	MATLÁK Andrej		0	412
+621	MATLÁKOVÁ Mária r. Bodnárová		0	412
+621	MIHAĽ Andrej		1	438
+621	MIHAĽOVÁ Katarína		1	438,439,485,863
+621	MIHOK Imrich		0	357,358,929,946
+621	MIHOK Ján		0	357,358,929,946
+621	MIHOK Jozef		0	357,358,929,946
+621	MIHOK Juraj		0	357,358,929,946
+621	MIHOKOVÁ Barbora r. Lengyelová		0	357,358,929,946
+621	MIHOKOVÁ Mária		0	357,358,929,946
+621	MIKLOŠ Ján		0	357,358,929,946
+621	MIKLOŠ Juraj		0	357,358,929,946
+621	MIKLOŠOVÁ Mária		0	357,358,929,946
+621	MITRIŠ Ján		0	357,358,929,946
+621	NAGY Andrej		0	357,358,929,946
+621	NAGYOVÁ Alžbeta r. Kurucová		0	357,358,929,946
+621	PEREŠ Juraj		0	357,358,929,946
+621	PEREŠOVÁ Anna r. Vitézová		0	357,358,929,946
+621	PETÖOVÁ Barbora r. Gedrová		0	357,358,929,946
+621	PETRO Ján		0	439,440,485,863
+621	Petro Vincent	mal	0	483
+621	PETRO Vincent		0	439
+621	PETROVÁ Elena		0	439,440,485,863
+621	PETROVÁ Zuzana r. Lengyelová		0	357,358,929,946
+621	PETŠIKOVÁ Mária r. Kliková		0	357,358,929,946
+621	RYBÁROVÁ Anna		0	417
+621	SAPAROVÁ Mária r. Doráková		0	439,440,485,863
+621	SZANISLO Andrej		0	357,358,929,946
+621	SZANISLO Ján		0	357,358,929,946
+621	SZANISLO Juraj		0	357,358,929,946
+621	SZANISLOVÁ Barbora		0	357,358,929,946
+621	SZEKELYOVÁ Anna r. Karapová		0	357,358,929,946
+621	Šalagovičová Alžbeta r. Šándorová		0	533
+621	ŠÁNDOR Ján		0	451
+621	ŠELEMBA Štefan		0	357,358,929,946
+621	ŠEŇO Andrej		0	357,358,929,946
+621	ŠEŇO František		0	357,358,929,946
+621	ŠEŇOVÁ Barbora r. Bodnárová		0	357,358,929,946
+621	ŠIMKOVÁ Mária r. Matisová		1	438,485,863
+621	ŠIPOŠ František		0	357,358,929,946
+621	Šipoš Štefan	maloletý	1	357,358,929,946
+621	Šipošová Alžbeta	maloletá	1	357,358,929,946
+621	ŠIPOŠOVÁ Barbora r. Hudáková		0	357,358,929,946
+621	ŠIPOŠOVÁ Zuzana		0	357,358,929,946
+621	ŠTEFUŠOVÁ Zuzana r. Kucharčíková		1	438
+621	ŠTEFUŠOVÁ Zuzana r. Kucharčíková D		0	485,863
+621	TAKAČOVÁ Alžbeta r. Bodnárová		0	357,358,929,946
+621	Takačová Zuzana r. Hrabovecká		0	367
+621	TÓTH Ján		0	360
+621	TÓTHOVÁ Mária		0	360
+621	Uhrín Imrich		0	535
+621	VALIK Andrej		0	357,358,929,946
+621	VALIK Ján		0	357,358,929,946
+621	VASIĽ Andrej		0	357,358,929,946
+621	VASIĽ Juraj		0	357,358,929,946
+621	VASIĽ Pavol		0	357,358,929,946
+621	VASIĽ Štefan		0	357,358,929,946
+621	VASIĽOVÁ Anna r. Marciová		0	357,358,929,946
+621	VASIĽOVÁ Anna r. Mihoková		0	357,358,929,946
+621	VASIĽOVÁ Barbora r. Nohajová		0	357,358,929,946
+621	VASIĽOVÁ Mária		0	358,929
+621	VASIĽOVÁ Mária r. Bodnárová		0	357,946
+621	VASIĽOVÁ Mária r. Szanislová		0	357,358,929,946
+621	VASIĽOVÁ Zuzana r. Brecková		0	357,358,929,946
+621	VIRÁGOVÁ Alžbeta r. Gerecová		0	357,358,929,946
+621	VIRÁGOVÁ Alžbeta r. Lengyelová		0	357,358,929,946
+621	ZAJAC Andrej		0	357,358,929,946
+621	ZÁVODNÍKOVÁ Mária r. Kurucová		0	357,358,929,946
+622	Déneš Emanuel, Dr.		0	1358
+622	Ďurček Jozef, ž. Mária Valášek ž. Mária Valášek		0	1445
+622	Ďurček Štefan, ž. Žofia Polik ž. Žofia Polik		0	1423
+622	ĎURČEKOVÁ KATARÍNA		0	1029
+622	Ďurčeková Mária	r. Valášková	0	677,952,1028
+622	ĎURIŠ JOZEF		0	1037,1308
+622	ĎUROŠ JOZEF		0	1017,1032,1429
+622	GAJDOŠÍKOVÁ ANNA		0	662,908,1012,1347,1434,1487,1516
+622	HAVIAR ŠTEFAN		0	1015
+622	Hogajová Katarína, r. Valašková - Tomášiková r. Valašková - Tomášiková		0	1455
+622	KOLEK JOZEF		0	1347,1397,1487
+622	Kolek Matúš		0	1317
+622	Kucejová Katarína	r. Lisková	0	952
+622	Kucejová Katarína, r. Lisková r. Lisková		0	1347,1431
+622	Lacková Anna, r. Koleková r. Koleková		0	1332,1347,1391,1488
+622	MITAŠOVÁ KATARÍNA		0	1308,1404
+622	SVITEK JÁN		0	952,1347,1401,1472
+622	Svitek Ján r. Panák		0	1347,1450,1481
+622	Svitek Matúš, Kolek Kolek		0	1406
+622	SVITEK VIKTOR		0	952,1347,1398,1483
+622	Svitková Katarína	r. Kováčiková	0	1010
+622	Svitková Katarína, r. Kováčiková r. Kováčiková		0	1453
+622	Svitková Katarína, r. Mitašová r. Mitašová		0	1362
+622	Svitková Magdaléna	r. Betuščinová	0	1030
+622	ŠEBÁKOVÁ KATARÍNA		0	1332,1347,1421
+622	ŠIMAK ŠTEFAN		0	1017,1032,1037,1354
+622	TOMÁŠIK MATEJ		0	1319
+622	TOMÁŠIK TOMÁŠ		0	1319
+622	TOMÁŠIKOVÁ MÁRIA		0	1319
+622	Ušiaková Anna	r. Ďurčeková	0	1022
+622	VALÁŠEK JÁN		0	1021,1022
+622	VALÁŠEK MICHAL		0	1396
+622	VALÁŠEK ŠTEFAN		0	1012
+622	VALÁŠKOVÁ ŽOFIA		0	1021
+622	Valková Verona	r. Valášková	0	966
+622	Valková Verona, r. Valášková r. Valášková		0	1460,1487,1496
+622	Vnuková Johana	r. Ďurošková	0	1017,1018
+622	Vnuková Mária, r. Lacková - Žiaková r. Lacková - Žiaková		0	1347,1407,1496
+622	WIDRICH VALERIA		0	1487
+623	Abrahamovič Ľudovít		0	2052
+623	Ander Alžbeta		0	768
+623	Ander Alžbeta, mal. mal.		0	1491
+623	Ander Ondrej		0	1620
+623	Ander Štefan	Mal	1	768
+623	Ander Štefan, mal. mal.		0	2023
+623	Anderová Margita	Mal	1	768
+623	Anderová Margita, mal. mal.		0	1610
+623	Anderová Mária	Mal	1	768
+623	Anderová Mária	Vitezová	1	814
+623	Anderová Mária r. Vitezová		0	1742
+623	Anderová Mária, mal. mal.		0	2032
+623	Angušová Mária r. Mašlárová		0	1824
+623	Augus Ján		0	1551
+623	Augusová Zuzana		0	1830
+623	Bagi Ján		0	2080
+623	Balla Ján, manž. Bar. Dorčáková manž. Bar. Dorčáková		0	1749
+623	Banderová Mária r. Matová		0	1576,2201
+623	Benderová Alžbeta, Drabantová Drabantová		0	1882
+623	Bodnár Andrej, Alž.Tribulová Alž.Tribulová		0	1567
+623	Bodnárová Alžbeta r. Kováčová		0	1876,2168,2185
+623	Brugoš Ján		0	2150
+623	Brugoš Ondrej		0	1595
+623	Buila Ján		0	2082
+623	Buľko Andrej		0	1548
+623	Buľko Ján		0	1914
+623	Buľková Alžbeta, Gedrová Gedrová		0	1827
+623	Bullko Ján, manž. Alž. Rohaľová manž. Alž. Rohaľová		0	2101
+623	Bulyko Jan		0	1503
+623	Bulyková Alžbeta r. Mrohalová		0	1503
+623	Cako Ján, manž. Mária Terpová manž. Mária Terpová		0	1488,1752
+623	Caková Anna r. Juhászová, nar. 26.07.1903, zomr. 27.01.1990 nar. 26.07.1903, zomr. 27.01.1990		0	1540
+623	Caková Zuzana r. Vargová		0	1728
+623	Cider Juraj, Vitezová Alžbeta Vitezová Alžbeta		0	2013
+623	Ciderová Alžbeta r. Dorčaková		0	1462
+623	Cigašová Anna	Šimková	1	755
+623	Csacsková Alžbeta		0	1625
+623	Csaková Zuzana r. Vargová		0	2031
+623	Csider Ján		0	1974
+623	Csider Juraj		0	1682
+623	Czako Andrej		0	1494,2169
+623	Czaková Zuzana r. Vargová		0	1494,2169
+623	Českovič Ján		0	1684
+623	Číder Andrej, manž. Zuzana Lacková manž. Zuzana Lacková		0	1953
+623	Číder Juraj	Alž. Vítezová	1	710
+623	Číder Juraj	žena Alžbeta Adamová	1	699
+623	Číder Juraj, Alž. Vítezová Alž. Vítezová		0	2044
+623	Číder Juraj, manž. Alžbeta Adamová manž. Alžbeta Adamová		0	1857
+623	Číder Štefan, Alžbeta Hakke Alžbeta Hakke		0	2117
+623	Číder Štefan, Zuzana Vitezová Zuzana Vitezová		0	1768
+623	Číderová Alžbeta r. Obšitošová, vdova, d.67 vdova, d.67		0	1604
+623	Čižaticka Alojzia r. Behynová		0	1847
+623	Doci Andrej, manž. Anna Lisáková manž. Anna Lisáková		0	1488,1585
+623	Docsi Andrej		0	1864
+623	Dorčák Andrej, manž. Mária Buillová nar. 02.09.1899, Ďurkov 87 manž. Mária Buillová nar. 02.09.1899, Ďurkov 87		0	1938
+623	Dorčák Vincent		0	2089
+623	Dudašová Alžbeta r. Tothová		0	2179
+623	Egedermi Ondrej		0	1921
+623	Egedermiová Alžbeta, Masková Masková		0	2113
+623	Erlabachová Anna r. Kažimírová		0	1811
+623	Erlebach Ján		1	768,1514,2201
+623	Erlebachová Alžbeta		1	1065
+623	Fečková Anna r. Valiková		0	1961
+623	Fenar Ján, Gedvaová Alžbeta Gedvaová Alžbeta		0	1668
+623	Fenar Ján, Vajdová Mária Vajdová Mária		0	1693
+623	Ferko Štefan		0	2049
+623	Friedmann Adolf		0	1942
+623	Furman Juraj		0	1505
+623	Furmanová Anna r. Takačová		0	1505
+623	Galla Ján, Katarína Katarína		0	2007
+623	Gažo Ján		0	1621
+623	Gažová Alžbeta r. Štecová		0	1707
+623	Gedra Andrej, Margita Obšitoš Margita Obšitoš		0	1997
+623	Gedra Emerich		0	1609
+623	Gedra Ján		0	2022
+623	Gedra Ján	Mária Obšitoš	1	718
+623	Gedra Pavol		0	1911
+623	Gedrová Alžbeta r. Timurová		0	1482,1825
+623	Gedrová Barbara, Diosová Diosová		0	1547
+623	Gedrová Mária r. Mrohalyová		0	1497,2168,2185
+623	Gemratová Anna, Valiková Valiková		0	2105
+623	Geresová Anna r. Rišková		0	1497,2168,2185
+623	Guľa Juraj, Bar. Bugošová Bar. Bugošová		0	2146
+623	Guľa Štefan		0	2169
+623	Hake Michal	Mária Lisáková	1	698
+623	Hake Michal, Mária Lisáková Mária Lisáková		0	2149
+623	Hertnekiová Alžbeta		1	814,1874,2201
+623	Hertneková Alžbeta		0	1566
+623	Horvathová Zuzana r. Mrohalyová		0	1761,2168,2185
+623	Hreha Imrich		1	1059,1906
+623	Hreha Ján		1	1059,2083
+623	Hreha Juraj		1	1059,1552
+623	Hreha Ondrej, Anna Malarová Anna Malarová		0	2072
+623	Hreha Štefan, manž. Alžbeta Tothová manž. Alžbeta Tothová		0	1803
+623	Hrehová Anna	Hanzová	1	1059
+623	Hrehová Anna r. Hanzová		0	1524
+623	Husár Ján, Mária Rišková Mária Rišková		0	1881
+623	Ivanová Anna		0	2155
+623	Jakab František		0	1577
+623	Jakab Imrich		0	1884
+623	Jakab Pavol		0	1782
+623	Jakabová Alžbeta r. Kurucová		0	1989
+623	Jakabová Alžbeta, A Kurucová A Kurucová		0	1730
+623	Jakabová Barbora, Bockorašová Bockorašová		0	1632
+623	Jakabová Marta r. Holováčová		1	749
+623	Juhás Juraj, Zuzana Tribulov Zuzana Tribulov		0	2016
+623	Juhásová Mária r. Vámošová		0	1734
+623	Juhász Andrej		1	754,1629
+623	Juhász Ján		1	754,1065,1681
+623	Juhász Ján, Majmusová Mária Majmusová Mária		0	1653
+623	Juhász Juraj		0	1646
+623	Juhász Ondrej		0	2045
+623	Juhász Vincent		1	754,1602
+623	Juhászová Anna	Ivanová	1	754
+623	Juhászová Katarína r. Vargová		0	1789
+623	Kapinus Andrej, Mária Lacková Mária Lacková		0	1935
+623	Kapinus Ondrej		0	2096
+623	Karap Andrej		0	1533
+623	Karap Ondrej		0	1926
+623	Kečerová Mária r. Vitezová		0	1815
+623	Kováč Ján	Anna Pribulová	1	713
+623	Kováč Ján, Anna Pribulová Anna Pribulová		0	1511
+623	Kovalčík Alžbeta		0	1895
+623	Kovalčík Andrej		0	1673
+623	Kövérová Alžbeta r. Hrehová		0	1705
+623	Koverová Alžbeta r. Vargová		0	2048
+623	Krupasová Mária r. Valiková		1	863,1169

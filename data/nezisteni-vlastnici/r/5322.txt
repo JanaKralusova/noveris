@@ -1,0 +1,256 @@
+3000	ŠVAČOVÁ Verona		1	547
+3000	ŠVAČOVÁ Zuzana r. Kvočka		1	796,798
+3000	Trčková Zuzana r. Zákutná		0	575,734,742,766,767,768,769,788,790,798,812,950,980,983,1013
+3000	Trčková Zuzana r. Zákutná	dcéra Tomáša	0	700,735
+3000	Trčková Zuzana r. Zákutná	dcéra Tomáša; dcéra Tomáša	0	576,601,787,789,796,939,944,947,948,949
+3000	UHRINEK Ján		1	806
+3000	ULIČNÁ Anna		1	604,611,618,656,785,797,945
+3000	ULIČNÁ Zuzana r. Lazúrová		1	785
+3000	ULIČNÝ Andrej		1	785
+3000	VAŇOVÁ Anna r. Roskošová		1	262,700,742,766,767,768,769,787,788,789,790,796,798,939,947,948,949,983,1013
+3000	VARGA Andrej		1	575,576,734,735,944,950
+3000	VARGA Štefan		1	478
+3000	VARGA Štefan, Tročany, č. 79, Slovensko		1	576
+3000	VARGA Štefan, Tročany, Slovensko		1	576
+3000	VARGOVÁ Helena r. Uličná		1	892
+3000	VOJTEK Jozef		1	816,824
+3000	VOJTEK Pavol		1	478
+3000	VOJTEK Tomáš		1	397
+3000	VOJTEKOVÁ Anna r. Maniková		1	397,478
+3000	VOJTEKOVÁ Juliana r. Švačová		1	555,633,762,776,954
+3000	VOĽANSKÁ Mária r. Jančušová		1	575,576,601,646,648,732,733,734,735,737,738,741,819,944,950,1037
+3000	VOĽANSKÁ MÁRIA r. ŠTALMACHOVÁ		1	633
+3000	VOLČKOVÁ Anna r. Stavarová		1	575,576,601,734,735,818,868,944,950,1023
+3000	ZÁKUTNÝ Ján		1	604,611,618,656,945
+3000	ZÁKUTNÝ Tomáš		1	262
+3000	ZEMAN Ervín		1	604,611,618,656,829,945
+3000	ZEMAN ROBERT		1	604,611,618,656,829,945
+3000	ZIEGLER Izrael		1	829
+3000	ZIEGLER Izrael Emanuel		1	829
+3000	ZIEGLER JOZEF		1	829
+3000	ZIEGLER ROBERT		1	604,611,618,656,829,945
+3000	ZIEGLEROVÁ Erna		1	604,611
+3000	ZIGLER Ľudovit		1	829
+3001	BARTKOVÁ Zuzana r. Lihocký, 962 44, Trpín, SR		0	22,63
+3001	CÚT Ján, 962 44, Trpín, č. 3, SR	m.Anna,r.Oravec	0	154,155
+3001	FEKIAČ Juraj, 962 44, Trpín, SR		0	215,227
+3001	GAZDÍKOVÁ Anna r. Krajč, 962 44, Trpín, SR		0	131,132,275,295,296
+3001	Gazdíková Anna r. Krajčová, Trpín, č. 6, SR		0	2,293
+3001	IVANIČ Pavel, 962 44, Trpín, č. 13, SR	m.Mária,r.Martinková,nebohá	0	164
+3001	Jančiar Jozef r. Jančiar, 962 44, Trpín, č. 27, SR		0	290
+3001	KAMAS Ján, 962 44, Trpín, č. 10, SR	m.Katarína,r.Vician	0	141
+3001	KAMAS Štefan, 962 44, Trpín, č. 10, SR	m.Katarína,r.Vician	0	141
+3001	Konopka Jozef r. Konopka, TRPÍN, č. 20, SR		0	25
+3001	KONOPKA Jozef, 962 44 Trpín		0	230
+3001	KONOPKA Jozef, 962 44, Trpín, č. 20, SR		0	24
+3001	KONOPKA Jozef, 962 44, Trpín, SR		0	230
+3001	KONOPKA JOZEF, TRPÍN, SR		0	2,293
+3001	KONOPKOVÁ Mária, 962 44, Trpín, č. 20, SR		0	24,223,230
+3001	Konopková Maria, č. 20, SR		0	25
+3001	KONOPKOVÁ MÁRIA, TRPÍN, č. 20, SR		0	2,293
+3001	Konôpka Jozef r. Konôpka, TRPÍN, SR		0	25
+3001	Konôpka Jozef, 962 44, Trpín, č. 20, SR	zom. 07.01.1992	0	337
+3001	Krajčová Mária, Malinovského 6, Krupina, SR		0	2,293
+3001	LIHOCKÁ Elena, 962 44, Trpín, SR		0	22
+3001	LIHOCKÁ Margita, 962 44, Trpín, SR		0	22
+3001	LIHOCKÁ Mária r. Mozoľa, 962 44, Trpín, č. 42, SR		0	217
+3001	LIHOCKÁ Mária r. Mozoľová, 962 44, Trpín, č. 42, SR		0	23
+3001	LIHOCKÁ Zuzana r. Futáková, 962 44, Trpín, č. 27, SR		0	21,22,23
+3001	LIHOCKÁ Zuzana r. Zolňanská, 962 44, Trpín, SR		0	217
+3001	LIHOCKÝ Ján, 962 44, Trpín, č. 27, SR		0	21,23
+3001	LOWY Adolf, Špitalska 50, Bratislava, PSČ 0, SR		0	198
+3001	LOWY Adolf, Špitalska, Bratislava, PSČ 50, SR		0	22
+3001	LUPTÁK JÁN, ZEMIANSKY VRBOVOK, SR		0	2,293
+3001	LUPTÁK JURAJ, ZEMIANSKY VRBOVOK, SR		0	2,293
+3001	MELICHOVÁ Katarína r. Lihocký, 962 44, Trpín, SR		0	22
+3001	Miškovová Mária r. Konôpková, 962 44, Trpín, č. 20, SR	zom. 01.01.1956	0	337
+3001	ROHOŠKA Jozef, 962 44, Trpín, SR	m.Mária,r.Majdanová	0	153,155
+3001	ROHOŠKA Jozef, 962 44, Trpín, SR	m.Mária,r.Majdanová; m.Mária,r.Majdanová	0	154
+3001	ROHOŠKA Juraj, 962 44, Trpín, SR	m.Mária,r.Ferianc	0	155
+3001	ROHOŠKA Juraj, 962 44, Trpín, SR	m.Mária,r.Ferianc; m.Mária,r.Ferianc	0	154
+3001	ROHOŠKA JURAJ, TRPÍN, SR		0	2,293
+3001	ROVŇANOVÁ Júlia r. Malček, 962 44, Trpín, SR		0	194
+3001	SLIACKA Mária r. Kamas, 962 44, Trpín, č. 17, SR		0	170
+3001	TUČEK Ján, 962 44, Litava, č. 180, SR		0	21,22,23,217
+3001	TUČEKOVÁ Zuzana r. Lihocká, 962 44, Litava, č. 180, SR		0	21,22
+3001	TUČEKOVÁ Zuzana r. Lihocký, 962 44, Litava, č. 180, SR		0	22,23,217
+3001	Valent Jozef, Trpín, SR		0	2,293
+3001	VILHAN ŠTEFAN, SR		0	2,293
+3001	VILHANOVÁ ANNA, SR		0	2,293
+3001	Výlašková Mária r. Cúthová, Trpín 10, TRPÍN, SR		0	240
+3001	ZAŤKOVÁ Katarína r. Oravcová, 962 44, Trpín, č. 7, SR		0	37
+3001	ZOLNANSKY MARTIN, SR		0	2,293
+3001	Žigmund Juraj r. Žigmund, Čekovce, Čekovce, SR		0	93
+3001	Žigmundová Mária r. Žigmundová, Čekovce, Čekovce, SR		0	93
+3001	ŽIGMUNDOVÁ Mária, 962 42, Čekovce, SR		0	189
+3002	BEHUNOVÁ Alžbeta r. Korecsková		1	412,603,627
+3002	Behunová Alžebta r. Korecsková		1	330
+3002	Bogdanovská Mária r. Senderiová		1	329
+3002	DEMETER Andrej	ž.Mária Michalová	1	421
+3002	DEMETEROVÁ Mária	r.Michalová	1	421
+3002	DRABCSÁKOVÁ Alžbeta	r.Maczkaniková	1	381
+3002	DRABČÍK Andrej		1	381
+3002	Dugas Andrej		1	357
+3002	DUGASZOVÁ Mária	r.Lučaiová	1	376
+3002	Dugaszová Mária r. Lučaiová		1	293,312,322,338,361,504,521
+3002	Fecková Anna r. Vangorová		1	297
+3002	FEDOROVÁ Alžbeta	r.Kováčová	1	384
+3002	Fedorová Alžbeta r. Kováčová		1	318
+3002	FEKETOVÁ Mária	r.Potová	1	377
+3002	GDOVIN Juraj		1	437
+3002	Géciová Anna r. Takáčová		1	301,338,504
+3002	Handza Ján		0	330,338,504
+3002	Hreha Andrej		1	361
+3002	Hreha Andrej	maloletý	1	512
+3002	Hreha Andrej r. Hreha	maloletý	1	131
+3002	Hreha Andrej r. Hreha	maloletž	1	131
+3002	Hreha Vincent		1	282,340,348,512
+3002	Hreha Vincent r. Hreha		1	131
+3002	Hufnagel Andrej		1	283,293,306,311,321,338,504,521
+3002	HUFNAGEL Andrej	ž.Elena Hrubá	1	376,409
+3002	Hufnagel Andrej r. Hufnagel		1	500,501,502,503
+3002	Jevák Michal		1	294
+3002	JUHÁS Andrej	ž.Anna Jenčárová	1	436
+3002	JUHÁSOVÁ Anna	r.Jenčárová	1	436
+3002	Kmec Alžbeta r. Hreha		1	131,512
+3002	Kmec Andrej		1	302,561
+3002	Kmec Michal		1	299,302,303,318,326,367,374,561,625
+3002	Kmec Michal r. Kmec		1	523,524,525,554
+3002	KOLESÁROVÁ Mária	r.Mackaniková	1	376
+3002	Kolesárová Mária r. Mackaniková		1	293,311,321,338,357,500,501,502,503,504,521
+3002	Kopaszová Mária		1	312,322
+3002	Korecsko Andrej		1	291,310,330,570,604,624
+3002	Korecsko Juraj		1	310
+3002	KORECSKO Juraj	ml	1	412,603,627
+3002	Korecsková Alžbeta		1	291,310,570,604,624
+3002	KORECSKOVÁ Alžbeta	mal	1	330,412,603,627
+3002	Korecsková Mária		1	291,299,310,330,570,604,624,625
+3002	KORECSKOVÁ Mária	mal	1	412,603,627
+3002	Korečko Juraj		1	310
+3002	KOVÁCS Ján	st	1	368
+3002	Kováč Jozef		1	318,384
+3002	KOVÁČOVÁ Alžbeta	r.Kmecová	1	367,374
+3002	Kováčová Alžbeta r. Kmecová		1	303,326,523,524,525,554
+3002	KOVÁČOVÁ Anna	r.Bálintová	1	384
+3002	Kováčová Anna r. Bálintová		1	318
+3002	Kováčová Margita		1	318
+3002	KOVÁČOVÁ Margita	mal	1	384
+3002	Kováčová Mária		1	318
+3002	KOVÁČOVÁ Mária	mal	1	384
+3002	Kováčová Mária r. Demeterová		1	318
+3002	KRAFČIK Štefan	ž.Mária Hrehová	1	432
+3002	Lukáč Jakub		1	301
+3002	Lukáčová Anna r. Sékelyová		1	301
+3002	Mackanič Ján r. Mackanič		1	502
+3002	Mackanik Ján		1	293,311,321,338,357,376,504,521
+3002	Mackanik Ján r. Mackanik		1	500,501,503
+3002	Marcin Imrich		1	298,313,324,339,351,358,379
+3002	MARCIN Imrich	ml	1	426
+3002	Marcin Imrich r. Marcin		1	511
+3002	MARCINOVÁ Mária	r.Maková	1	406
+3002	Mihoková Alžbeta		1	292,302,343,561
+3002	MIHOKOVÁ Alžbeta	mal	1	456
+3002	MIHOKOVÁ Anna	r.Kmecová	1	367,374
+3002	Mihoková Anna r. Kmecová		1	303,326,523,524,525,554
+3002	MUTKOVÁ Anna	r.Marcinová	1	379
+3002	Mutková Anna r. Marcinová		1	297,298,313,324,339,351,358,511
+3002	Pástorová Margita r. Tkáčová		0	457
+3002	PEKO Andrej	ml	1	446
+3002	Peko Ján		1	331
+3002	PETRILLA Andrej		1	441
+3002	SINIMROVÁ Katarína	r.Kováčová	1	384
+3002	Sinimrová Katarína r. Kováčová		1	318
+3002	Sokolovics Jozef		1	300
+3002	Sokolovič Imrich		1	302,303,318,326,561
+3002	SOKOLOVIČ Imrich	brat Ján	1	367,374
+3002	Sokolovič Imrich r. Sokolovič		1	523,524,525,554
+3002	Sokolovič Ján		1	303,318,326
+3002	SOKOLOVIČ Ján	brat Imrich	1	367,374
+3002	Sokolovič Ján r. Sokolovič		1	523,524,525,554
+3002	Szokolovics Andrej		1	281,300,352,375
+3002	Szokolovics Imrich		1	281,300,352,375
+3002	Szokolovics Ján		1	281,300,352,375
+3002	SZOKOLOVICS Ján	ž.Kovácsová Mária	1	375
+3002	Szokolovics Jozef		1	281,352,375
+3002	Szokolovicsová Anna		1	281,300,352,375
+3002	Šuchtová Mária r. Peková		1	354
+3002	Takáč Štefan		1	281,375
+3002	TAKÁČOVÁ Mária	r.Kovácsová	1	368
+3002	Takáčová Mária r. Kovácsová		1	282,322
+3002	TIMKOVÁ Alžbeta	r.Mackaniková	1	376
+3002	Timková Alžbeta r. Mackaniková		1	293,311,321,338,357,500,501,502,503,504,521
+3002	Tkáč Ondrej		0	457
+3002	VANGOR Michal	ž.Anna Trusová	1	434
+3002	VANGOROVÁ Anna	r.Trusová	1	434
+3002	VANGOROVÁ Mária	r.Jeváková	1	379
+3002	Vangorová Mária r. Jeváková		1	298,313,324,339,351,358,511
+3002	Volčko Pavol	maloletý	1	512
+3002	Volčko Pavol r. Volčko	maloletý	1	131
+3002	WALDBOTT FORGÁCH František	Karol	1	314
+3002	WALDBOTT Ján	Juraj Alexander mal	1	314
+3002	WALDBOTT Ladislav	Klement mal	1	314
+3002	WALDBOTTOVÁ Hedviga	Mária Alžbeta mal	1	314
+3003	Babulák Martin r. Babulák	nezvestný	0	5467,5495,5718,5927,6665
+3003	Babulák Štefan r. Babulák		0	5467,5495,5659,5936,6301,6487,6488,6915,7047,7115
+3003	Babuláková Terézia r. Kubašeková		0	5467,5495,5718,5927,6665
+3003	Bača Ján r. Bača		0	5697
+3003	Bačová Emília		0	5467,5495
+3003	Barborák Ján r. Bajvoň		0	5467,5495,5595,5921,6344,6345,6346
+3003	Bartáková Mária r. Dzureková		0	720,5467,5495,5931,5953,6412,6413,6420,6421,6456,6666
+3003	Baruta Jozef r. Baruta		0	5809
+3003	Bednar Alojz r. Bednar		0	5361,5362,5363,5465,5466,5554
+3003	Bednár Emil r. Bednár	mal	0	5854,7081
+3003	Bednár Ján r. Bednár		0	691,4721,5054,5467,5495,5938,6511,6947,6974,6975,6976
+3003	Bednár Karol r. Bednár		0	2320,3438,3867,5087,5088,5467,5495,5815,5927,6227,6294,6405,6410,6665,6801,6802,6803,6829
+3003	Bednárová Mária r. Barnasová		0	5483
+3003	Bednárová Mária r. Kuráňová		0	5687
+3003	Bednárová Štefánia	mal	0	5245,5467,5495,5854,5924,6418,6512,6629,6864,6865,6866,7081
+3003	Bednárová Žofia r. Stasová		0	5855
+3003	Benická Anna r. Dreveňáková	Hrubá	0	5888
+3003	Bieliková Mária r. Jánošová		0	5603
+3003	Blubla Ján r. Blubla		0	6012,6013
+3003	Blubla Michal r. Blubla		0	6012,6013
+3003	Blublová Jozefína		0	6012,6013
+3003	Brija Vojtech r. Brija		0	5467,5495,5527,5940,6500,6501,6668,6671,6824
+3003	Buček Matej r. Buček	mal	0	3094,5467,5495,5924,5943,6418,6480,6512,6629,6885,6886
+3003	Bullová Pavlina r. Hrušková		0	5490
+3003	Capjak Ján r. Capjak		0	6007
+3003	Capjak Jozef r. Capjak		0	3841
+3003	Capjak Karol r. Capjak		0	6007
+3003	Coyová Žofia r. Šelianová		0	4017,4719,5467,5495,5517,5933,6295,6300,6444,6533,6534,6914
+3003	Čanády Jozef r. Čanády		0	5908
+3003	Červenka Anton r. Červenka		0	2450
+3003	Červeňová Mária r. Jasonek		0	6011,6012,6013
+3003	Červeňová Mária r. Nemtušaková		0	302
+3003	Československý štát v správe KNV odbor zdravotný r. V Žiline		0	5602
+3003	Dezsoová Katarína		0	145,5467,5495,5934,6182,6422,6498,6499,7039
+3003	Dilong Alfonz r. Dilong	Jozef	0	5740
+3003	Dilong Štefan r. Dilong		0	5740
+3003	Dreveňák Ján r. Dreveňák	Hrubý	0	2455
+3003	Dubíková Jozefína r. Jarinová		0	5636
+3003	Dubovič Mikuláš r. Dubovič		0	5600
+3003	Dudová Anna r. Vrabčeková		0	5860
+3003	Ďurčákovaá Mária r. Maťugová		0	198
+3003	Dzurek Martin r. Dzurek		0	5491
+3003	Dzurek Štefan r. Dzurek		0	5491
+3003	Dzureková Helena r. Mamirová		0	4119,5270,5467,5495,5932,6063,6442,6541
+3003	Dzureková Žofia r. Jankolová	Svatek	0	2945
+3003	Fabry Ferdinand r. Fabry		0	198
+3003	Fábry Karol r. Fábry		0	5467,5495,5781,5930,6403,6419,6504,6505,6856
+3003	Fábry Martin r. Fábry		0	5467,5495,5781,5930,6403,6419,6504,6505,6856
+3003	Fabryová Mária		0	198
+3003	Fábryová Rozália r. Lepišová		0	5637
+3003	Faltynová Terézia r. Šelianová		0	4017,4719,5467,5495,5517,5933,6295,6300,6444,6533,6534,6914
+3003	Florek Anton r. Florek		0	6009,6013
+3003	Folajtorová Mária r. Kniežová		0	5007,5467,5495,5949,5954,6552,6553
+3003	Folfasová Mária r. Liššáková		0	2450
+3003	Franček Peter r. Franček		0	5470
+3003	Fukas Štefan r. Fukas		0	5678
+3003	Fukasová Mária r. Kuráňová		0	5869
+3003	Fulla Štefan r. Fulla		0	6003
+3003	Furdek Jozef r. Furdek		0	2845,5625
+3003	Furdeková Luty Terézia r. Furdeková Luty	r.Parižová	0	5467,5495,5498,5916,5951,6379
+3003	Furdeková Margita		0	5437,5467,5495,5917,5921,6297,6344,6345,6346,6939
+3003	Galátová Elena r. Helisová		0	5467,5495,5540,5915,6400,6401,7117
+3003	Garbiarová Anna r. Kolejáková		0	5817
+3003	Gaššay František r. Gaššay		0	5938,6974,6975,6976

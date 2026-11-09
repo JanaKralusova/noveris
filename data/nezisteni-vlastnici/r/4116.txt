@@ -1,0 +1,256 @@
+2329	GAZDAG Jozef		1	432
+2329	GAZDAG Matej	MANŽ.MÁRIA ROD.MÉSZÁROSOVÁ	1	291
+2329	GAZDAG Štefan	MANŽ.VIKTÓRIA ROD.TÚRIOVÁ	1	291
+2329	HALÁS Juraj	SYN JURAJA	1	298,303
+2329	HALÁSZ Alexander		1	303
+2329	HALÁSZ Alexander	MANŽ.VERONA ROD.ALBERTOVÁ	1	298,302
+2329	HALÁSZ Jozef		1	303
+2329	HALÁSZ Jozef	MANŽ.MARGITA ROD.TÓTHOVÁ	1	298,302
+2329	HALÁSZ Juraj	SYN JURAJA	1	355
+2329	HALÁSZ Ludevit		1	303
+2329	HALÁSZ Ludevít	SYN MICHALA	1	298,302
+2329	HALÁSZ Michal		1	303
+2329	HALÁSZ Pavel	MANŽ.MÁRIA ROD.AGÁRDIOVÁ	1	474
+2329	HALÁSZ Štefan		1	303
+2329	HALÁSZ Štefan	MANŽ.BARBORA ROD.JUHÁSZOVÁ	1	298,355
+2329	HALÁSZOVÁ Mária	ROD.AGARDIOVÁ, MANŽ.PAVEL	1	474
+2329	HALÁSZOVÁ Mária	ROD.GAŠPAROVÁ, PREDTÝM GYÓRIOVÁ	1	301,303
+2329	HENGERICS Štefan		1	434
+2329	HENGERICSOVÁ Alžbeta	ROD.MORVÁKOVÁ	1	434
+2329	HENGERIČ Emerich		1	280
+2329	HENGERIČOVÁ Františka	ROD.ANTALICOVÁ	1	280
+2329	HORVÁTHOVÁ Alžbeta	ROD.ZSÓKOVÁ	1	282
+2329	HRIADEL Ján	ZOMREL	1	305
+2329	JAKUŠOVÁ Viktória	ROD.ASTALOŠOVÁ	1	262
+2329	KÁDASI Ján	MANŽ.MÁRIA ROD.MANGAOVÁ	1	376
+2329	KOURILOVÁ Veronika	R.KARACSONYIOVÁ	1	436
+2329	KOVÁCS Ján		1	367
+2329	KOVÁCS Štefan	MANŽ. MÁRIA ROD.BOLGÁROVÁ	1	367
+2329	KRNÁČOVÁ Veronika	ROD.GOLISZOVÁ	1	382
+2329	LOSKAOVÁ Mária	ROD.HALÁSOVÁ,MUŽ.FRANTIŠEK	1	298,303
+2329	LOŠKAOVÁ Mária	ROD.HALASZOVÁ	1	302
+2329	MANGA Michal	MANŽ.MÁRIA ROD.PÁSZTOROVÁ	1	430,431
+2329	MANGOVÁ Mária	ROD.PÁSZTOROVÁ, MANŽ.MICHAL	1	431
+2329	MOLNÁR Mikuláš	ZOMREL	1	286
+2329	NAGYOVÁ Viktória	ROD.ASZTALOSOVÁ	1	262
+2329	Neznámy		0	260,288,305,343,345,414,420,428,436,454,481,482,487,518
+2329	ORMOVÁ Mária	ROD.HALÁSZOVÁ,DCÉRA JURAJA	1	355
+2329	OTREKAL Ondrej		1	285,542
+2329	OTREKAL Peter		1	437
+2329	OTREKAL Štefan		1	393
+2329	OTREKALOVÁ Mária	ROD.OTREKALOVÁ	1	285,542
+2329	PASZTOR František		1	281
+2329	PÁSZTOR František	ML	1	430
+2329	PÁSZTOR Ondrej	SLABOMYSELNÝ	1	280
+2329	PÁSZTOROVÁ Alžbeta	ML	1	430
+2329	PASZTOROVÁ Mária	ROD.SZABOVÁ	1	281
+2329	PÁSZTOROVÁ Mária		1	430
+2329	PATAIOVÁ Mária	ROD.CSOMOVÁ, I	1	308,540,595
+2329	PERLECKA MARIA R.CSOMOVA		0	197,199
+2329	PETÓ Ján		0	23
+2329	PETÓ Juraj		1	293
+2329	PETÓ Ondrej	MALOLETÝ	1	304
+2329	PETÓOVÁ Mária	ROD.SZABÓOVÁ	1	440
+2329	PETÓOVÁ Rozália	ROD.LÁSZLÓOVÁ,MANŽ.MICHAL, VDOVA	1	304
+2329	PINTÉROVÁ Mária	ROD.MOLNÁROVÁ,MANŽ.ALEX	1	386
+2329	PIRI Ján		1	308,540,595
+2329	PÍRÍ Štefan		1	433
+2329	PIRIOVÁ Alžbeta	MAL	1	308,540,595
+2329	PIRIOVÁ Mária	MAL	1	308,540,595
+2329	PIRIOVÁ Viktória	MAL	1	308,540,595
+2329	RADIOVÁ Mária	ROD.VATROVÁ	1	489
+2329	SANTA Jozef	MANŽ.MÁRIA ROD.GAŠPAROVÁ	1	462
+2329	SILLEOVÁ Alžbeta	ROD.HALÁSOVÁ,MUŽ.ALEXANDER	1	298,303
+2329	SOKOLÍKOVÁ Terézia	ROD.FILICKÁ MANŽ.ŠTEFAN	1	318
+2329	SZABO Štefan		1	293
+2329	SZARKA Július	MANŽ.ALŽBETA ROD.PÁSZTOROVÁ	1	431
+2329	SZARKOVÁ Alžbeta	ROD.PÁSZTOROVÁ,MANŽ.JÚLIUS	1	431
+2329	SZONDÍ Vendelín	MANŽ.KATARÍNA ROD.CSOMÓOVÁ	1	352
+2329	SZONDÍOVÁ Katarína	ROD.CSOMÓOVÁ,MANŽ.VENDELÍN	1	352
+2329	ŠILLE Alexander	MANŽ.ALŽBETA ROD.HALASZOVÁ	1	419
+2329	ŠILLEOVÁ Alžbeta	ROD.HALASZOVÁ	1	302
+2329	TÓTH František	MANŽ.ALŽBETA ROD.LESTÁROVÁ	1	484
+2329	TOTH Ján		1	293
+2329	TÓTH Ján	MANŽ.JULIANNA ROD.URBANOVÁ	1	453
+2329	TOTHOVÁ Alžbeta	ROD.VÓRÓSSOVÁ	1	293
+2329	TÓTHOVÁ Alžbeta	ROD.LESTAROVÁ,ZOMRELA 21.5.1959	1	484
+2329	TURÁNYI Anton	MANŽELKA ZLATICA ROD.HEČKOVÁ	1	372
+2329	TURÁNYIOVÁ Zlatica	ROD.HEČKOVÁ,MANŽ.ANTON	1	372
+2329	Túri Juraj	manž. Mária rod.Asztalošová	0	359
+2329	TÚRIOVÁ Mária	ROD.ASTALOŠOVÁ	1	303
+2329	VARGA Jozef	NAR.19.3.1922, zomrel	1	435
+2329	VARGOVÁ Mária	ROD.MOLNÁROVÁ,NAR.4.8.1931, zomrela	1	286
+2329	VÓRÓSOVÁ Alžbeta	ROD.ASZTALOSOVÁ	1	262
+2329	VÓRÓŠ Ludvík	MANŽ.ALŽBETA ROD.ASZTALOŠOVÁ	1	278
+2329	VÓRÓŠOVÁ Alžbeta	ROD.ASZTALOŠOVÁ,MANŽ.LUDVÍK	1	278
+2329	ZSÓKA Alexander	MANŽ.ROZÁLIA ROD.GULYÁŠOVÁ	1	283,287
+2329	ZSÓKOVÁ Rozália	ROD.GULYÁŠOVÁ, MANŽ.ALEXANDER	1	283
+2329	ŽOKA Štefan		1	287
+2330	Ábelová Katarína r. Beňová, SR		1	859,1062
+2330	Abrahám Ján	ž.R.Veberová, Zom.15.06.1977	0	1149
+2330	Abrahámová Emília r. Pecková, 966 02, Vyhne, č. 498, SR	Zom.21.03.2004	0	1613
+2330	Antal Ondrej		1	993,994,995,1021,1286,1790
+2330	Antal Ondrej, SR		1	495
+2330	Antalová Paulína r. Beňová		1	558,1004,1030,1621
+2330	Babiaková Katarína		0	1628
+2330	Babiaková Rozália r. Švecová		0	1628
+2330	Bahnová Ľudmila r. Vincencová		0	1146
+2330	Balážiková Mária r. Kúšová, 966 54, Tekovské Nemce, č. 10, SR		0	513
+2330	Baranová Mária r. Králová		1	797,1036,1092,1585,1699
+2330	Baranová Zuzana r. Hudecová		1	978,982,1068
+2330	Baranová Zuzana r. Hudecová, SR		1	114
+2330	Bellanová Mária r. Palčoková		0	1259
+2330	Bellanová Rozália Zom.16.04.1998		0	1136
+2330	Beňadik Anton		0	1628
+2330	Beňadiková Katarína		0	1628
+2330	Beňadiková Katarína r. Babiaková		0	1628
+2330	Beňadiková Mária		0	1628
+2330	Beňadiková Paulína		0	1628
+2330	Beňo Alojz		0	1149
+2330	Beňo Alojz	ž.K.Králová	0	1144
+2330	Beňo Alojz, SR	žen.s Katarínou r.Královou	1	136
+2330	Beňo Ernest		1	955,1149,1630
+2330	Beňo Ferdinand		0	1137
+2330	Beňo Ferdinand, SR		1	125
+2330	Beňo František		1	1062
+2330	Beňo František, SR		1	136
+2330	Beňo František, SR	žen.s Rozáliou r.Dankovou	1	136
+2330	Beňo Henrich	zom. 01.01.1995	0	1098
+2330	Beňo Henrich	Zom.01.01.1995	0	1627
+2330	Beňo Jakub		0	1149,1563
+2330	Beňo Ján		1	978,1149,1460
+2330	Beňo Ján	ž.A.Florovičová	0	1627
+2330	Beňo Ján	ž.K.Beňová	0	1225
+2330	Beňo Ján	ž.M.Abrahámová	0	1137
+2330	Beňo Ján	ž.M.Kumzová	0	1149
+2330	Beňo Ján	žen.s Katarínou r.Beňovou	1	1048
+2330	Beňo Ján	žen.s Máriou r.Abrahámovou	1	1014
+2330	Beňo Ján, SR		1	144
+2330	Beňo Ján, SR	žen.s Katarínou r.Beňovou	1	144
+2330	Beňo Jozef	2	1	973,1008,1061,1088
+2330	Beňo Jozef	zom. 03.08.2003	0	973
+2330	Beňo Jozef	ž.M.Minichová	0	1464
+2330	Beňo Jozef, Horná Trnávka 77, Prestavlky, PSČ 966 01, SR	Zom.14.06.1999	0	1634
+2330	Beňo Jozef, SR	zom. 03.08.2003	0	136
+2330	Beňo Ladislav		1	978,1014,1149
+2330	Beňo Ľudevít		0	1140
+2330	Beňo Ľudovít		1	558,877,1004,1029,1030,1513,1696,1763,1778,1787
+2330	Beňo Ľudovít, SR		1	144
+2330	Beňo Martin		1	881,905,1029,1049,1050,1515,1696,1778,1787,1797
+2330	Beňo Martin, SR		1	136
+2330	Beňo Michal		1	833,991,992,1149,1252,1698
+2330	Beňo Michal	ž.M.Rajčanová	0	1137
+2330	Beňo Michal	žen.s Annou r.Královou	1	1014
+2330	Beňo Michal	žen.s Máriou r.Rajčanovou	1	1048
+2330	Beňo Michal, 966 01, Prestavlky, č. 21, SR	Zom.10.12.1987	0	1627
+2330	Beňo Michal, SR		1	490
+2330	Beňo Ondrej		0	1149,1264
+2330	Beňo Ondrej	ž.Ľ.Kráľová	0	1140
+2330	Beňo Ondrej, 966 01, Prestavlky, č. 5, SR		0	1631
+2330	Beňo Pavel		1	859,1062,1063
+2330	Beňo Peter		1	1023,1755
+2330	Beňo Peter	ž.M.Babiaková	0	1630
+2330	Beňo Peter, 966 01, Prestavlky, č. 184, SR	Zom.24.07.2005	0	1152
+2330	Beňo Štefan	zom. 20.04.1995	0	973
+2330	Beňo Viliam, SR		1	136
+2330	Beňo Vincent		1	978,1149
+2330	Beňo Vincent	zom. 03.07.1983	1	1065,1066
+2330	Beňo Vincent, 966 01, Prestavlky, č. 180, SR	Zom.23.01.1999	0	1630
+2330	Beňová Anna r. Dolnická		0	1489
+2330	Beňová Elena		0	1630
+2330	Beňová Helena		0	1630
+2330	Beňová Júlia r. Adamcová, 966 01, Prestavlky, č. 173, SR	Zom.04.04.2001	0	1630
+2330	Beňová Katarína r. Beňová		0	1149
+2330	Beňová Katarína r. Králová		0	1699
+2330	Beňová Ľudmila r. Králová		1	863,1627
+2330	Beňová Magdaléna r. Králová		0	1149
+2330	Beňová Margita		0	1379
+2330	Beňová Mária		0	1399
+2330	Beňová Mária r. Krčová		1	838,905,1041,1101,1604
+2330	Beňová Mária r. Námešná		0	1149
+2330	Beňová Mária r. Tonhaiserová		1	874,1018,1587
+2330	Beňová Mária r. Tonhaiserová, SR		1	431,638,1716
+2330	Beňová Paulína		1	970,1020,1029,1058,1065,1066,1175,1696,1761,1778,1787
+2330	Beňová Paulína r. Beňová		0	1381
+2330	Beňová Paulína, SR		1	133,136
+2330	Beňová Rozália r. Beňová		1	1778,1787
+2330	Beňová Rozália r. Danková		1	1778,1787
+2330	Beňová Verona r. Beňová		0	1602
+2330	Beňová Zuzana r. Barborová	zom. 08.05.1975	0	833
+2330	Bojo Ondrej		0	1527
+2330	Búciová Katarína r. Beňová		1	1778,1787,1797
+2330	Bugárová Agnesa r. Katkinová		1	513,997,1448
+2330	Búgel Štefan, Hviezdoslavova 132, Lovča, PSČ 966 21, SR	Zom.16.09.2008	0	1136
+2330	Cvenga Gabriel		1	1092,1146
+2330	Cvenga Ján		1	1092
+2330	Cvengová Paulína r. Králová		1	1092
+2330	Čierna Anna r. Holosová		0	1628
+2330	Čierny Pavol, Horná Trnávka 80, Prestavlky, PSČ 966 01, SR	Zom.11.03.1997	0	1634
+2330	Dekýšová Ľudmila r. Koštová, 966 21, Lovča, č. 134, SR	Zom.20.06.2006	0	1633
+2330	Dekýšová Mária r. Majerská, 966 21, Dolná Trnávka, č. 71, SR	Zom.18.06.1999	0	1632
+2330	Dian Anton		0	1628
+2330	Dian Ján		0	1628
+2330	Dovcová Anna r. Hašková, SR		1	311
+2330	Dovecová Anna r. Hašková		1	1037,1623
+2330	Dovecová Anna r. Hašková, SR		1	582
+2330	Dovecová Rozália		1	1032,1234
+2330	Dovecová Rozália, SR		1	391
+2330	Dražová Pavlína		0	1632
+2330	Ďurčová Emília		0	1628
+2330	Dvonka Štefan		0	1628
+2330	Finková Ľudmila r. Dovecová, SR		1	391
+2330	Firák Marián	Zom.07.11.1993	0	1632
+2330	Foltán Ján		1	1020,1065,1066,1149,1340,1761
+2330	Foltán Ján, SR		1	133
+2330	Foltán Jozef		0	1149,1432
+2330	Foltán Jozef	ž.M.Námešná	0	1149,1192
+2330	Foltán Jozef	žen.s Magdalénou r.Námešnou	1	1020,1065,1066,1761
+2330	Foltán Jozef, SR	žen.s Magdalénou r.Námešnou	1	133
+2330	Foltán Štefan		0	1149
+2330	Foltán Štefan, SR		1	431
+2330	Foltánová Katarína r. Hanusová		0	1628
+2330	Foltánová Rozália r. Kršiaková		0	1146
+2330	Foltánová Veronika r. Hanusová		0	1628
+2330	Gáfriková Anna		0	1628
+2330	Gáfriková Anna r. Kúšiková		0	1628
+2330	Gáfriková Mária		0	1628
+2330	Gallová Katarína r. Korálová, 966 04, Horná Ždaňa, č. 19, SR	Zom.28.11.2000	0	1153
+2330	Gonzúrová Mária		0	1632
+2330	Greguš Alojz		0	1149
+2330	Greguš Alojz, 966 01, Prestavlky, č. 223, SR	Zom.08.05.2000	0	1630
+2330	Greguš Alojz, SR		1	431
+2330	Greguš Ján		0	1393
+2330	Gregušová Anna r. Šovčíková, 966 21, Lovča, č. 182, SR	Zom.20.01.1998	0	1136
+2330	Gregušová Mária r. Kúdelová, 966 23, Lovčica-Trubín, č. 111, SR	Zom.17.12.2001	0	1628
+2330	Hanus Bohuš, Horná Trnávka 34, Prestavlky, PSČ 966 01, SR	Zom.12.09.1998	0	1634
+2330	Hanus Ladislav		1	1045,1606
+2330	Hanus Ladislav	ž.Ľ.Mališová	0	1630
+2330	Hanusová Katarína		0	1628
+2330	Hanusová Rozália	Zom.23.03.1987	0	1320
+2330	Hanusová Veronika		0	1628
+2330	Harmanová Magdaléna		0	1628
+2330	Harmanová Mária		0	1628
+2330	Haško Alfréd	zom. 24.03.2004	1	1010
+2330	Haško Alojz		1	1010,1312
+2330	Haško Imrich		1	1037,1277
+2330	Haško Imrich, SR		1	311,582
+2330	Haško Ján		1	881,1049,1050,1071,1313,1797
+2330	Haško Ján, SR		1	690
+2330	Haško Jozef		1	881,1049,1050,1071,1260,1797
+2330	Haško Jozef, SR		1	690
+2330	Haško Jozef, SR	žen.s Annou r.Krčovou	1	582
+2330	Haško Ladislav		1	1037
+2330	Haško Ladislav, SR		1	311,582
+2330	Haško Laurinc		1	1037,1436
+2330	Haško Laurinc, SR		1	311,582
+2330	Haško Ľudovít	ž.V.Žigariová	0	1349
+2330	Haško Ľudovít	žen.s Veronikou r.Žigariovou	1	881,1049,1050,1071,1797
+2330	Haško Ľudovít, SR	žen.s Veronikou r.Žigariovou	1	690
+2330	Haško Pavel	ž.A.Čechová	0	1140
+2330	Haško Pavel, SR		1	311
+2330	Hašková Anna		1	1037
+2330	Hašková Anna, SR		1	311,582
+2330	Hašková Emília		1	1037,1188
+2330	Hašková Emília, SR		1	311,582
+2330	Hašková Tereza		0	1291
+2330	Hlavány Ján		0	1628

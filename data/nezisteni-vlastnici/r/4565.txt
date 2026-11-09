@@ -1,0 +1,256 @@
+2579	ŽÁKOVÁ KRISTÍNA	2	0	5873
+2579	ŽÁKOVÁ KRISTÍNA	3	0	5873
+2579	ŽÁKOVÁ MÁRIA		0	5195
+2579	Žáková Mária r. Černeková	1	0	5441
+2579	Žáková Mária r. Černeková	2	0	5472
+2579	Žáková Mária r. Rapavá		0	6605
+2580	BALÁŽ Ján	bankoje	1	418
+2580	BALÁŽ Ondrej		1	225,360
+2580	BALÁŽ Ondrej	križan	1	288,360,400
+2580	BALÁŽ Pavol		1	334,418
+2580	BALÁŽOVÁ Anna		1	334
+2580	BALÁŽOVÁ Zuzana	r.Hudecová	1	334
+2580	BENKO Michal		1	290
+2580	BENKOVÁ Anna	r.Klátiková	1	360,368
+2580	BERKY Štefan	m.Alica Berkyová	1	221
+2580	BERKYOVÁ Alica	r.Berkyová,m.Štefan	1	221
+2580	BODICKÝ Ivan	Dr.,m.Emília Francziska r.Bartonová	1	360,381,414
+2580	BODICKÝ Ondrej		1	360,381,382,414
+2580	BODICKYOVÁ Emília	Francziska r.Bartonová,m.Ivan	1	360,381,414
+2580	BODICKYOVÁ Ľudmila		1	360,381,382,414
+2580	BODICKYOVÁ Margita		1	360,381,382,414
+2580	BODICKYOVÁ Marta		1	360,381,382,414
+2580	BODICKYOVÁ Viera	maloletá	1	360,381,382,414
+2580	CINKOTA Ján	m.Anna r.Havajová Hlavošová	1	385
+2580	ČIEP Ján		1	371
+2580	ČJEPA Ján		1	340
+2580	ČRIEPOK Pavel		1	332
+2580	DÁVIDOVÁ Anna	vd.,r.Filipová	1	341
+2580	Demeter Pavol	ž. Mária r. Hybská	1	205
+2580	DEMETER Pavol	m.Mária r.Hybská	1	209,211,259,260,360
+2580	DEMETER Pavol	m.Zuzana r.Merková	1	366
+2580	DEMETER Pavol	ml	1	334,354
+2580	DEMETER Pavol	str	1	366
+2580	DEMETEROVÁ Mária	r.Hybská	1	305,360,366
+2580	DUDOK Pavol		1	221
+2580	ĎURÁSOVÁ Zuzana	r.Kyselyová,m.Ján	1	231,300,306,360
+2580	ĎURICA Ján		1	278
+2580	ĎURICA Michal		1	278
+2580	ĎURICOVÁ Anna		1	278
+2580	ĎUROŠOVÁ Zuzana	r.Vargová,m.Ján	1	227,294,295,322,360,367,377,416
+2580	FABIÁN Pavol	syn Pavla,m.Anna r.Chrtianska	1	360,403
+2580	GOMBALA Emil	m.Cecília r.Matušková	1	419
+2580	GOMBALOVÁ Emília	r.Matušková,m.Emil	1	419
+2580	GYRASZOVÁ Zuzana	r.Kyseľová	1	360
+2580	HALLGAŠ Michal		1	399
+2580	HAŠKO Ján		1	384
+2580	HRBEŇ Pavol	maloletý	1	207,360,373
+2580	HRIEŠIK Pavol	ml	1	365
+2580	HRIEŠNIK Pavol	ml	1	314
+2580	Hudec Pavol	Petruš	1	205
+2580	HUDEC Pavol	Báčik	1	284,287
+2580	HUDEC Pavol	Petruš ,Brusník	1	211,259,360,418
+2580	HUDECOVÁ Anna	r.Balážová	1	405
+2580	HUSÁKOVÁ Mária	r.Malá	1	284,285,287,360,368
+2580	HYBSKÁ Anna	r.Kyselyová,m.Pavol	1	229,326
+2580	CHOVANEC Juraj	m.Zuzana r.Klátiková	1	315,316
+2580	JESENSKÝ Michal		1	332
+2580	Kanátová Anna, SR		1	399
+2580	KIČINOVÁ Anna	r.Folkenová	1	214
+2580	KIČINOVÁ Anna	r.Foltenová	1	213,312
+2580	KLÁTIK Ján	3	1	367
+2580	KLÁTIK Ján	na neznámom mieste	1	284,285,287,360,368
+2580	KLÁTIK Ján	Studená	1	351
+2580	KLÁTIK Ondrej		1	278,395
+2580	KLÁTIK Pavol		1	293,321,322,360,392
+2580	KLÁTIK Pavol	Benko	1	334
+2580	KLÁTIK Pavol	Križan	1	347
+2580	KLÁTIKOVÁ Anna	r.Balážová	1	261
+2580	KLÁTIKOVÁ Mária	Mravíková	1	418
+2580	KLÁTIKOVÁ Mária	r.Klátiková,m.Pavol	1	360,368
+2580	KLÁTIKOVÁ Zuzana		1	221
+2580	Klincko Vojtech, 991 01, Senné, č. 43, SR		1	240
+2580	Klincková Anna r. Manesová, 991 01, Senné, č. 43, SR		1	240
+2580	KRAJČOVÁ Anna	r.Petrusová	1	227
+2580	KRÁSNIK Pavol		1	332
+2580	KREKÁČ Ján	ml.1	1	334,359
+2580	KREKÁČOVÁ Anna	r.Krekáčová	1	303,304,309,360,369,418,456
+2580	KRNÁK Ján	Babka	1	332
+2580	KRNÁK Ján	vrchný	1	332
+2580	Krnák Pavel, SR		1	217
+2580	KRŠKOVÁ Judita	r.Klátiková	1	360,368
+2580	KYSEĽOVÁ Anna	r.Demeterová	1	211,259,260,360
+2580	Kyseľová Anna r. Demeterová		1	205
+2580	KYSELY Ján		1	233
+2580	KYSELY Pavol		1	229
+2580	LABÁT Adam		1	332
+2580	LABÁTOVÁ Zuzana	r.Balážová	1	219,266,360
+2580	LENHARD Andrej	maloletý	1	383
+2580	LENHARD Ondrej		1	406
+2580	LENHARD Pavol		1	334
+2580	LOWY Ignác		1	360,414
+2580	MALÁ Katarína	r.Tučeková,m.Pavol	1	335
+2580	MALÝ Pavol		1	370
+2580	MALÝ Pavol	m.Mária r.Gáliková	1	284,285,287,360,368
+2580	MARKO Pavol		1	290,320,334
+2580	MARKOVÁ Zuzana		1	327
+2580	Melicherčík Ján, Záhonok 387, Zvolen, SR		1	213,369,388
+2580	MELICHERČÍKOVÁ Mária		1	213
+2580	MELICHERČÍKOVÁ Zuzana	r.Uramová ,Senné 23	1	372
+2580	MIHÁLY Ján	Senné č.7	1	325
+2580	MICHAL Ján		1	337
+2580	MRAVÍK Ján	2	1	334,359
+2580	MRAVÍK Ján	voták	1	409
+2580	MRAVIK Jozef		1	224
+2580	MRAVÍKOVÁ Zuzana		1	303,360,369
+2580	MRVOVÁ Mária	r.Labátová	1	332
+2580	Ondrejková Mária, Horná Strehová, SR		1	241,305,360,361
+2580	PÁLIKOVÁ Oľga	r.Bodická,m.Ján	1	360,382,414
+2580	PÁLIKOVÁ Oľga	r.Bodickyová	1	360,381
+2580	PEKÁROVÁ Zuzana	r.Marková	1	318
+2580	PETRUSOVÁ Anna		1	260,360
+2580	PETRUSOVÁ Anna	r.Petrusová	1	334
+2580	POHANKA Ján		1	222,299,360
+2580	POHANKA Ján	m.Katarína r.Mrtvíková	1	330
+2580	POHUSOVÁ Anna	r.Pohusová	1	352
+2580	POLORECKÝ Pavol		1	224
+2580	RAGAČ Ján	1	1	212,238
+2580	RAGAČOVÁ Anna		1	296,360
+2580	RAGAČOVÁ Anna	maloletá	1	386
+2580	REPOVÁ Zuzana	r.Dudoková	1	214
+2580	SOKOL Ján		1	303,360,364
+2580	SOKOLOVÁ Anna	r.Hašková	1	324
+2580	SOKOLOVÁ Anna	r.Jakubcová Križanová	1	253,360,379,451
+2580	SOKOLOVÁ Anna	r.Jakubcová Križanová,m.Pavol	1	397,408
+2580	SPF, SR		1	357
+2580	SRNIAKOVÁ Anna	r.Pohanková	1	213,312
+2580	ŠPANIEL Pavol		1	365
+2580	ŠPANIEL Pavol	m.Anna r.Vargová	1	294,295,322,360,416
+2580	ŠPANIELOVÁ Anna	r.Vargová,m.Pavol	1	227,294,295,322,360,367,377,416
+2580	Števko Ondrej		1	205,211
+2580	ŠTEVKOVÁ Judita	r.Voláková,m.Pavol	1	407
+2580	TOMÁŠKOVÁ Želka	r.Bodická,m.Ján	1	414
+2580	TOMÁŠKOVÁ Želmíra	r.Bodická,m.Martin	1	360,382
+2580	TOMÁŠKOVÁ Želmíra	r.Bodickyová	1	360,381
+2580	TRNIAKOVÁ Anna	r.Pohanková	1	214,298,360
+2580	VAJO Pavol	m.Mária r.Pohanková	1	271
+2580	VALTINYOVÁ Mária	r.Bendová	1	360
+2580	VARGA Ján		1	289,350
+2580	VARGA Ján	gago	1	360
+2580	VARGA Ondrej		1	289
+2580	VARGOVÁ Anna	r.Chovancová	1	275,418
+2580	VRABCOVÁ Mária	r.Klátiková,m.Ján	1	411
+2580	ZÁBORECOVÁ Anna	vd.,r.Ivaničová	1	402
+2580	ŽELEZNÍK Pavol		1	390
+2581	Ackerman Aliz		0	1593
+2581	Ackerman Simon	Alexander	0	1593
+2581	Ackermanová Ella	Ester	0	1593
+2581	Ackermanová Regina	Lívia,maloletá	0	1593
+2581	Ackermanová Sára	maloletá	0	1593
+2581	Adamová Anna	r.Marcinčáková	0	1531
+2581	Andrašovský-Murník Ján	ž.Anna r.Farkašová,č.132	0	531,1221,1302,1411
+2581	Andrejov Ján	ž.Anna r.Horvátová,Amerika	0	105,1067,1362
+2581	Andrejov Ján	ž.Mária r.Macková,č.78	0	565,1201,1210,1746
+2581	Andrejov Juraj	ž.Mária r.Adamová	0	1201,1746
+2581	Andrejov Michal	ž.Zuzana r.Raškovská	0	1201,1746
+2581	Andrejovová Anna	r.Horvátová,m.Ján,Amerika; m.Ján,Amerika	0	1362
+2581	Andrejovová Mária	r.Macková,m.Ján; m.Ján	0	1201,1210,1746
+2581	Andrejovová Zuzana	r.Raškovská,m.Michal; m.Michal	0	1201,1746
+2581	Astrabová Alžbeta	zomrela,r.Tomková,*4.4.1932*10.7.2007	0	848
+2581	Bady Anton	ž.Alžbeta r.Tatarová	0	1200
+2581	BADY JURAJ		0	521
+2581	Badyová Alžbeta	r.Tatarová,m.Anton; m.Anton	0	1200
+2581	Bakajska Andrej	ž.Mária r.Palčíková	0	1583
+2581	Balijenčík Juraj	ž.Anna r.Sabová	0	1595
+2581	Balog Ján	ž.Karolína r.Balogová,Palín 76	0	1578
+2581	Baňas Andrej	syn Františka,Bajany 47	0	663
+2581	Baňas Ján	syn Jána,č.33	0	195,660,804
+2581	Baňas Ján	ž.Mária r.Obšitníková	0	1416
+2581	Baňas Juraj	slob.,syn Jána	0	1507
+2581	Baňas Juraj	ž.Mária r.Sláviková,Bajany 47	0	663
+2581	Baňas Michal	ž.Barbora r.Adamová,č.38	0	350,351,1137,1508,1688
+2581	Baňasová Barbora	r.Adamová,m.Michal; m.Michal	0	1508
+2581	Baňasová Mária	r.Muchová,m.Michal,Amerika; r.Michal,Amerika	0	800
+2581	Baňasová Mária	r.Obšitníková,m.Ján; m.Ján	0	1203,1416,1658
+2581	Bandurová Zuzana	r.Hankoščáková,m.Ján; m.Ján	0	1348
+2581	Barna Štefan		0	1527
+2581	Bartko Július		0	1218
+2581	Bartko Vojtech		0	1218
+2581	Bartková Zuzana r. Iškiová	m.Juraj,č.40; m.Juraj,č.40	0	1218
+2581	Beňák Ján	ž.Mária r.Ivanková,Rebrín 50	0	1380
+2581	Beniač Igor	Dr	0	1333
+2581	BERGMAN JAN CANADA		0	615,616
+2581	Bergman Jozef		0	959,1214
+2581	Bobik Ján	ž. Anna r. Andrašovská-Murníková, Amerika	0	1226
+2581	Bobik Ján	ž.Anna r.Andrašovská-Murníková,Amerika	0	1524
+2581	Bobiková Anna	r.Andrašovská-Murníková,m.Ján,č.32; m.Ján,č.32	0	1330,1524
+2581	Bodnár Ján		0	1281,1290
+2581	Bodnár Ján	ž.Mária r.Adamová,Rebrín 79	0	1367
+2581	Bodnár Juraj		0	1290
+2581	Bodnáriková Mária	r.Janisto-Kenderešová,m.Juraj; m.Juraj	0	1230
+2581	Bodnárová Mária	r.Adamová,m.Ján,Rebrín 79; m.Ján,Rebrín 79	0	1367
+2581	Bodnárová Mária	r.Beňáková	0	1256
+2581	Bodnárová Mária r. Hajnošáková		0	1127
+2581	Bogdán Ján		0	1343
+2581	BORKESOVA ALZBETA R. SABOVA		0	878
+2581	Borokes Štefan	ž.Mária r.Vincová,Bajany 63	0	1436
+2581	Braun Izidor	ž.Barbora r.Dávidovičová,Vysoká 73	0	1465
+2581	Brucháč Andrej	maloletý	0	1283,1318
+2581	Brucháč Ján		0	1283,1318
+2581	Brucháč Michal		0	1283,1318
+2581	Brucháč Michal	čd.588/1911	0	1335
+2581	Brucháč Michal	ž.Anna r.Kotorová,Rebrín 60	0	1372
+2581	Brucháč Pavol		0	1283,1318
+2581	Brucháčová Zuzana		0	1283,1318
+2581	Bružeňák Ján	ž.Alžbeta r.Szalayová,Bajany	0	1551
+2581	Bružeňáková Alžbeta	r.Szalayová,m.Ján,Bajany; m.Ján,Bajany	0	1551
+2581	Bubanová Anna	r.Hrešanová,m.Juraj,Pavlovce; m.Juraj,Pavlovce	0	261
+2581	Bubanová Anna	r.Tkačová,m.Andrej,Pavlovce 225; m.Andrej,Pavlovce 225	0	1488
+2581	Budišová Mária r. Patakyova, SR		0	357
+2581	Butkovská Anna	r.Dzvoníková	0	1340
+2581	Butkovská Anna	r.Dzvoníková,Michalovce; Michalovce	0	561,1118,1653,1680
+2581	Cap Ján	ž.Alžbeta r.Puchláková,Bajany 66	0	1447
+2581	Cireň Juraj	ž.Mária r.Poľakovská	0	760
+2581	Cireňová Anna r. Chocholičová	m.Juraj	0	760
+2581	Cviková Mária	zomrela,r.Tomková,*6.7.1926*24.6.2004	0	848
+2581	Čalfa Jozef	ž.Mária r.Fortunová	0	1492
+2581	Čarná Mária	r.Bakajsová	0	1583
+2581	Čenčarik Ján	ž.Zuzana r.Ferjová	0	987
+2581	Čeripka Michal	ž.Mária r.Piroháčová	0	1320
+2581	Čeripková Mária	r.Piroháčová	0	1320
+2581	Čermák Ladislav	Lekárovce	0	1548
+2581	Čerpánová Margita r. Bartková		0	1218
+2581	Červeňák Pavel	ž.Mária r.Štefanová,Rebrín 43	0	1363
+2581	Červeňáková Anna	dcéra Pavla,Rebrín 43	0	1355
+2581	Čičák Andrej	maloletý,syn Jána,Rebrín 129	0	1393
+2581	Čičák Ján		0	1341
+2581	Čičáková Anna	r.Ivanková	0	1314
+2581	Čičáková Anna	r.Sciranková,m.Michal,11.4.1901,Z.Široká; m.Michal,11.4.1901,Z.Široká	0	268
+2581	Čičáková Anna r. Ivanková		0	1232
+2581	Čičáková Mária	r.Bodáková,m.Andrej,Rebrín 57; m.Andrej,Rebrín 57	0	1382
+2581	Čičváková Júlia r. Mattová, Bajany, SR		0	1085
+2581	Čičváková Júlia r. Mattová, SR		0	357
+2581	Čisar-Hudáková Anna	r.Sabadošová	0	1185
+2581	Čižmarik Andrej	ž.Mária r.Halásová,č.89	0	1420
+2581	Čižmariková Mária	r.Halasová,8.9.1910,Senné; 8.9.1910,Senné	0	1425
+2581	Čolák Michal	č.193	0	474
+2581	Čollák Ján		0	1239
+2581	Čollák Juraj		0	1239
+2581	Čollák Juraj	mladší	0	1239
+2581	Čollák Juraj	ž.Anna r.Šamudovská	0	1239
+2581	Čollák Michal	ž.Mária r.Maďarová	0	1501
+2581	Čolláková Mária	r.Fedorová,m.Michal; m.Michal	0	1502
+2581	Čolláková Mária	r.Maďarová,m.Michal; m.Michal	0	1501
+2581	Danielová Alžbeta r. Kenderešová		0	1287
+2581	Danko Andrej	ž.Anna r.Labiková,Záhor 230	0	1562
+2581	Danko Michal	ž.Zuzana r.Kočišová,č.92	0	1421
+2581	Danková Anna	r.Labiková,m.Andrej,Záhor 230; m.Andrej,Záhor 230	0	1562
+2581	Dankovčíková Mária	r.Tkačová,m.Ján,Krášok 77; m.Ján,Krášok 77	0	1488
+2581	Dayonbyová Anna	r.Humenská	0	1265
+2581	Demko Juraj	ž.Mária r.Ladiková,Vysoká 164	0	1483
+2581	Doliničová Anna	r.Belejová,m.Bartolomej,č.76; m.Bartolomej,č.76	0	1547
+2581	Drahňovská Margaréta		0	1255
+2581	Drahňovská Mária	r.Hujdičová,m.Michal,Rebrín 73; m.Michal,Rebrín 73	0	1369
+2581	Drahňovský Ján		0	1262,1321
+2581	Drahňovský Ján	ž.Alžbeta r.Jenčíková,Rebrín 86	0	1400
+2581	Drahňovský Ján	ž.Júlia r.Varadyová	0	1262,1321

@@ -1,0 +1,256 @@
+2429	Mikulíková Mária r. Laciak	vdova	0	23
+2429	Mikulíková Mária r. Laciaková	vdova	0	513
+2429	Nagajová Terézia r. Javorová	v Amerike	0	653
+2429	Nagajová Terézia r. Števko		0	183
+2429	Nagajová Zuzana r. Javorová	v Amerike	0	151,513
+2429	Oravcová Terézia r. Javorová	v Handlovej	0	151,513,653
+2429	Palaš Ján	Adamov, vo Filieri	0	515
+2429	Palaš Ondrej	žen. so Zuzanou r.Šalátovou, vo Filieri	0	515
+2429	Palašová Judita r. Kvetko Krupa	vdova, vo Filieri	0	166,514
+2429	Pašiak Ondrej	v Argentíne	0	455,490,491,513
+2429	Pašiaková Judita r. Mičíková	vo Filieri	0	498
+2429	Pašiaková Judita r. Mičíková	vo Filieri, č.d.10	0	394
+2429	Pavíková Katarína		0	542
+2429	Pavlík Juraj		0	443,513,541,548
+2429	Pavlík Pavel		0	210
+2429	Pavlík Pavel	invalid	0	441,442,443,444,513,542,543,544,545,546,547,548
+2429	Pavlíková Juliana		0	442,542,544
+2429	Pavlíková Katarína		0	545
+2429	Pavlíková Mária r. Kacian		0	181
+2429	Pavlíková Mária r. Vredíková Kavalec		0	468,513
+2429	Piljanová Zuzana r. Ďurišková	Grlica	0	138,503,513,687
+2429	Plvanová Terézia r. Javorová	v Bratislave	0	328,332,513
+2429	Polcková Terézia r. Andrášová		0	43,373,482,622
+2429	Polczková Terézia r. Andrášová		0	462,513,744
+2429	Poleková Terézia r. Andrášová		0	372
+2429	Poprocká Mária r. Zán		0	112
+2429	Poprocká Mária r. Zánová		0	681,766
+2429	Poprocký Ján		0	112,552,681,766
+2429	Poprocký Jozef		0	112,553,681
+2429	Raganová Mária r. Andrášová		0	139,513,661
+2429	Raganová Mária r. Andrášová	manžel Ondrej	0	138,687
+2429	Siváková Mária r. Ehnová		0	513
+2429	Spira Mária r. Fujdiarová		0	159
+2429	Spirová Mária r. Fujdiarová	v Argentíne	0	513
+2429	Struhárová Mária r. Šagulová		0	486,487,488,489,490,513
+2429	Šagul Ján	v Amerike	0	488,513
+2429	Špirová Mária r. Fujdiarová		0	172,181,432,511
+2429	Števko Ján		0	321,460
+2429	Števko Ján	nižný	0	136,142
+2429	Števko Ján	Pavlov	0	385,513,722
+2429	Števko Ján	syn Pavlov	0	135,136,142,143,382,606,608,609
+2429	Števko Martin	syn Pavlov	0	143
+2429	Števko Martin	ženatý s Teréziou Grendel, v Amerike	0	143
+2429	Števková Hák Mária r. Vredíková		0	122
+2429	Števková Judita r. Balážová Markus	vdova, Jánova, vo Filieri	0	513,516
+2429	Števková Judita r. Bradovková		0	228,513,694
+2429	Števková Mária		0	436
+2429	Števková Mária r. Palašová	vo Filieri	0	515
+2429	Števková Mária r. Vredik Hák		0	32,452,556,596
+2429	Števková Zuzana r. Bradovková		0	457,458,459,461,513,748
+2429	Števková Zuzana r. Máziková	vdova	0	52,122,123,383,385,423,513,600,633,635,722,743
+2429	Štulajterová Amália r. Jakabíková		0	513
+2429	Švihlová Emília	Ondrejova	0	513
+2429	Švihlová Terézia r. Poprocká		0	550
+2429	Toman Ján	žen. s Máriou r.Benko, v Krokave	0	530
+2429	Toman Ondrej	žen. s Máriou r.Antalík Čimmer, v Krokave	0	530
+2429	Toman Ondrej	žen. so Zuzanou r.Gálovou, v Krokave	0	531
+2429	Valézová Mária r. Fujdiarová		0	159
+2429	Valézová Terézia r. Fujdiarová		0	172,181,432,511
+2429	Viestová Judita r. Javorová	v Bratislave	0	328,332,513
+2429	Voliarová Zuzana		0	270,489,513
+2429	Vozárová Anna r. Snopková	vdova	0	513,681
+2429	Vozárová Zuzana	vd	0	50
+2429	Vredík Hák Ján	žen. s Juditou Kacian	0	32
+2429	Vredík Hák Martin	k.ž. Pavlína Kiňo	0	556
+2429	Vredík Hák Martin	žen. s Pavlínou Kiňo	0	32,452,596
+2429	Vredík Hák Martin	žen. s Pavlínou r.Kiňovou	0	122
+2429	Vredík Hák Pavol	žen. s Emíliou Kvetko	0	32
+2429	Vredík Hák Pavol	žen. s Emíliou r.Kvetkovou	0	122
+2429	Vredík Ján		0	358,592
+2429	Vredík Ján	maloletý	0	492,493,513
+2429	Vredík Július	maloletý	0	251
+2429	Vredík Kavalec Ján	žen. so Zuzanou r.Laciakovou, v Kanade	0	469
+2429	Vredík Kavalec Pavol	žen. s Teréziou r.Pavlíkovou	0	181,266
+2429	Vredík Ondrej		0	358,492,493,513
+2429	Vredík Ondrej	maloletý	0	513
+2429	Vredík Pavel		0	513
+2429	Vredík Štefan		0	513
+2429	Vredík Vincent	maloletý	0	493
+2429	Vredíková Hák Emília	maloletá, Ondrejova	0	122,123,124,125,448,449,452,513,556,557,596,600
+2429	Vredíková Hák Helena	maloletá, Ondrejova	0	123
+2429	Vredíková Hák Katarína r. Buchta	vdova	0	124,447,448,556
+2429	Vredíková Hák Katarína r. Buchtová		0	557
+2429	Vredíková Hák Katarína r. Buchtová	vdova	0	122,123,513,600
+2429	Vredíková Háková Emília	maloletá, Ondrejova	0	32
+2429	Vredíková Irena	maloletá	0	358,513,592
+2429	Vredíková Karolína r. Andráš		0	43
+2429	Vredíková Karolína r. Andrášová		0	373,482,744
+2429	Vredíková Karolína r. Andrášová	zomrela 04.11.1985	0	513
+2429	Vredíková Kavalec Zuzana	Ondrejova	0	472,513
+2429	Vredíková Kavalec Zuzana	v Amerike	0	212,467,469,471,513
+2429	Vredíková Kavalec Zuzana r. Bradovková		0	108,458,520
+2429	Vredíková Kavalec Zuzana r. Laciak	v Kanade	0	513,730
+2429	Vredíková Kavalec Zuzana r. Laciaková	v Kanade	0	470,471
+2429	Vredíková Margita		0	358,492,493,513,592
+2429	Vredíková Mária	maloletá	0	358,492,493,513,592
+2429	Vredíková Mária r. Ďurjanová		0	592
+2429	Vredíková Ondrišák Zuzana r. Kederová		0	207,208,513
+2429	Vredíková Zuzana		0	358,492,493,513,592
+2429	Vredíková Zuzana	v Jelšave	0	206,389,498,513
+2429	Vredíková Zuzana r. Bradavka		0	106,107
+2429	Vredíková Zuzana r. Grendel Virag	vo Francii	0	17,18
+2429	Vredíková Zuzana r. Grendelová Virag	vo Francúzsku	0	513
+2429	Wolfová Terézia r. Fujdiarová	v Argentíne	0	513
+2429	Zán Karol Praboch		0	232
+2429	Zán Ondrej Praboch		0	232
+2429	Zán Praboch Ondrej	žen. so Zuzanou r.Grendelovou, vo Filieri	0	529
+2429	Zán Strachotka Martin	žen. s Máriou Kvetko Krupa, vo Filieri	0	528
+2429	Zánová Mária r. Grendelová		0	460,513,621
+2429	Zánová Zadný Mária r. Borošová	vo Filieri	0	479,513
+2429	Zánová Zuzana r. Bradovková		0	228,513,694
+2429	Zánová Zuzana r. Kvetková		0	566
+2430	Adamovič Rudolf		0	6
+2430	Andacková Angela r. Kubíková		0	952
+2430	Babiš Ondrej	ž.Mária r.Moravčíková	0	1940,1974
+2430	Babišová Mária r. Moravčíková	m.Ondrej	0	1940,1974
+2430	Babulicová Ľudmila r. Kolníková		0	1297,1335,1336,1337,1338,1339
+2430	Balák Július	maloletý	0	1107
+2430	Baráneková Štefánia r. Benčeková		0	1632,1963
+2430	Bednárová Vilma r. Homolová	m.Štefan	0	794,2037
+2430	Beneš Jozef	ž.Aranka r.Žambová	0	952
+2430	Beneš Štefan	mal.do r.1942, zomrel 20.11.1987	0	952
+2430	Benešová Angela r. Mikušová		0	1962
+2430	Berger Šalamun		0	679
+2430	Berger Šalamun	mal.do r.1917	0	952,1812
+2430	Bezeková Mária r. Hodulová	zomrela 9.6.2003	0	1124
+2430	Bilik Ján	mal.do r.1936	0	952,1354,1859,1860,1861,1862,1863,1864,1865,2084
+2430	Bílik Ján		0	1186,1701
+2430	Bilik Jozef		0	1701
+2430	Bilik Jozef	mal. do r.1911	0	807,1354,1859,1860,1861,1862,1863,1864,1865,2084
+2430	Bilik Jozef	mal.do r.1935	0	85,941,959,2094,2298
+2430	Bílik Jozef	ž.Verona r.Grešlová	0	1897
+2430	Biliková Mária r. Rybáriková	m.Anton	0	842,1644,1650,1689,1762,1896
+2430	Biliková Mária r. Vidová	m.Jozef	0	48,952,1791,1837,1988,2168,2173,2211,2241
+2430	Bíliková Mária r. Vidová		0	215,2167,2174,2224,2257
+2430	Biliková Veronika		0	952
+2430	Bistáková Mária r. Kozáková		0	952
+2430	Blaško Jozef	ml	0	1717,1788
+2430	Bolerászka Anna r. Karabová		0	48
+2430	Borovská Anna r. Šnajdárová	m.Ján	0	1974
+2430	Borovský Jozef	ž.Magdaléna r.Michaleková	0	85,941,952,959,1764,1986,2094,2298
+2430	Borovský Jozef	ž.Viktória r.Masaryková	0	1798
+2430	Bovík Ján	súrodenci Anna,Jozef,Rudolf,Pavol,Mária	0	1260,1299,1922,1930,1944
+2430	Bovík Pavol	súrodenci Mária,Anna,Jozef,Rudolf,Ján	0	1260,1299,1922,1930,1944
+2430	Bovík Rudolf	mal.,súrodenci Anna,Jozef,Ján,Pavol,Mária	0	1260,1299,1922,1930,1944
+2430	Briganová Veronika r. Kozáková		0	952,1011,1789
+2430	Čikošová Júlia r. Kováčiková		0	1205
+2430	Dobrovodský Jozef	sestra Júlia	0	952
+2430	Drnáková Mária r. Surová		0	952
+2430	Dubovská Katarína r. Ondrisová	m.Jozef	0	1939
+2430	Dubovská Zuzana r. Janošková	m.Štefan	0	956,957
+2430	Gábriš Karol	sestry Agneša,Zuzana,Pavlína,Amália	0	1534
+2430	Gábrišová Alžbeta r. Hrnčárová	m.Ondrej	0	1534
+2430	Gabrišová Helena r. Chalásová		0	410,999
+2430	Gábrišová Mária	mal.v r.1920	0	1534
+2430	Galová Alžbeta r. Marcinková		0	952
+2430	Halás Bartolomej		0	1006
+2430	Halás Karol		0	1006
+2430	Halásová Anna r. Hinnerová	m.Jozef	0	1970
+2430	Hantabalová Katarína r. Kozáková	m.Michal	0	1983
+2430	Hantabalová Katarína r. Kozáková	muž Michal	0	1246
+2430	Haverlent Alojz	ž.Františka r.Kociánová	0	82,1279,1913
+2430	Haverlent František		0	85,952,2094,2298
+2430	Haverlent Jozef		0	1715,2137,2138
+2430	Haverlent Jozef	D 728/47	0	203,1715,2137,2138
+2430	Haverlent Jozef	ž.Mária r.Segešová	0	85,941,952,959,2094,2298
+2430	Haverlent Peter		0	85,863,941,952,959,2094,2298
+2430	Haverlent Peter	ž. Anna r. Valovičová	0	863
+2430	Haverlent Peter	ž.Anna r.Valovičová	0	85,941,952,959,1385,2094,2297,2298
+2430	Haverlentová Anna r. Valovičová	m.Peter	0	85,941,952,959,1973,2094,2298
+2430	Haverlentová Františka r. Kociánová	m.Alojz	0	82,1279,1913
+2430	Haverlentová Mária r. Segešová	m.Jozef	0	517,952,1806
+2430	Havrlent Jozef r. Havrlent, Ratnovce, č. 50, SR	manžel Štefánie rod. Vavrovej	0	1814
+2430	Havrlent Peter	žena Anna Valovičová	0	1107
+2430	Hercz Pavol		0	1008,1828
+2430	Hiner Anton	ž.Štefánia r.Kollárová	0	952
+2430	Hiner Jozef	ž.Lucia r.Galová	0	952,1977
+2430	Hinerová Lucia r. Galová		0	765
+2430	Hinerová Lucia r. Galová	m.Jozef	0	765,952,1846,1891,1965
+2430	Hinerová Štefánia		0	327
+2430	Hinerová Štefánia	nar. v r.1913	0	935,1787,1831,1852
+2430	Hinerová Štefánia	nar.v r.1913	0	1977
+2430	Hinerová Štefánia r. Kollárová	m.Anton	0	952
+2430	Hinner Jozef	súrodenci Tomáš,Anna,Michal	0	952
+2430	Hinner Michal	súrodenci Tomáš,Anna,Jozef	0	952
+2430	Hladká Helena r. Dubovská	mal.v r.1914	0	1939
+2430	Hodúl Michal	žena Vilma Vavrincová	0	168
+2430	Hodula Ľudovít	ž.Katarína r.Rusnáková	0	85,941,952,959,2094,2298
+2430	Hodula Michal	ž.Vilma r.Vavrincová	0	1956
+2430	Hodula Rudolf	ž.Brigita r.Masaryková	0	765,1891
+2430	Hodulová Anna	mal.do r.1928	0	1758
+2430	Hodulová Anna Mária		0	1759
+2430	Hodulová Brigita r. Masaryková	m.Rudolf	0	952,1831,1846,1852,1965
+2430	Hodulová Katarína r. Rusnáková	m.Ľudovít	0	952
+2430	Hodulová Vilma r. Vavrincová	m.Michal	0	1956
+2430	Hodúlová Vilma r. Vavrincová	muž Michal	0	168
+2430	Holíková Justína r. Valovičová	m.Peter	0	85,823,952,959,2094,2298
+2430	Holíková Justína r. Valovičová	muž Peter	0	971,972
+2430	Holíková Ľudmila r. Karabová	zomrela 25.1.2002	0	952
+2430	Holíková Viktória r. Žambová		0	952,1833
+2430	Holovič Ján	ž.Štefánia r.Králová	0	952
+2430	Holovič Pavol		0	1833
+2430	Homolová Amália	mal.do r.1911	0	794,2037
+2430	Homolová Anna r. Sedláčeková	m.Jozef,vd	0	794,2037
+2430	Hrebíček Michal	ž.Justína r.Vavrová	0	1153
+2430	Hulmanová Amália r. Gábrišová	súrodenci Zuzana,Pavlína,Karol,Agneša	0	1534
+2430	Chalás Andrej		0	410,999
+2430	Chalás Bartolomej		0	1006
+2430	Chalás Bartolomej	ž.Mária r.Lepejová	0	1951
+2430	Chalás Bartolomej	žena Mária Lepejová	0	1006
+2430	Chalás Florian		0	1916
+2430	Chalás Ján	ž.Mária r.Juráková	0	203
+2430	Chalás Ján	žena Mária Šebová	0	999
+2430	Chalás Karol		0	1006
+2430	Chalás Karol	ž.Helena r.Dubovská	0	1951
+2430	Chalás Karol	žena Helena Dubovská	0	1006
+2430	Chalás Martin	žena Zuzana Mikušová	0	999
+2430	Chalás Ondrej	žena Zuzana Klampárová	0	410
+2430	Chalás Pavol	ž.Katarína r.Petrášová	0	1951
+2430	Chalás Rudolf		0	410
+2430	Chalás Tomáš		0	1969
+2430	Chalás Vendelín		0	410,999
+2430	Chalásová Helena		0	410
+2430	Chalásová Helena r. Dubovská	m.Karol	0	1951
+2430	Chalásová Helena r. Dubovská	muž Karol	0	1006
+2430	Chalásová Katarína m.Pavol  r. Petrášová		0	1951
+2430	Chalásová Mária r. Lepejová	m.Bartolomej	0	1951
+2430	Chalásová Mária r. Lepejová	muž Bartolomej	0	1006
+2430	Chalásová Mária r. Miškechová	manžel Viktor	0	828
+2430	Chalásová Zuzana r. Gábrišová	súrodenci Pavlína,Amália,Karol,Agneša	0	1534
+2430	Ištok Adolf	zomr.16.4.1998	0	85,941,952,959,2094,2298
+2430	Ištok Ján	zomr	0	85,941,959,2094,2298
+2430	Ištok Karol r. Ištok	zomr.02.08.2010	0	85,941,952,959,2094,2298
+2430	Ištóková Angela r. Hinerová	zomr.14.03.2011	0	973,1605
+2430	Izakovič Jozef	zomrel 8.12.2004	0	1391
+2430	Jančičková Viktória r. Benčeková		0	1632,1963
+2430	Jelačičová Alžbeta r. Kollárová		0	624
+2430	Jelašíčová Alžbeta r. Kollárová		0	560,952
+2430	Jurák Jozef		0	203
+2430	Jurica Peter	ž.Pavlína r.Rebrová	0	1595
+2430	Karaba Ján	vzdial	0	48
+2430	Karaba Jozef		0	180,952,982,1029,1031,1570,1691,2230
+2430	Karaba Jozef	brat Ján	0	952,1987
+2430	Karaba Jozef	kúpa od r.Žambových	0	1766
+2430	Karaba Jozef	mladší	0	851
+2430	Karaba Jozef	súrodenci Mária,Serafína,Ľudmila,Štefánia	0	952
+2430	Karaba Jozef	zomrel 12.10.1983	0	952
+2430	Karaba Jozef	ž.Emerencia r.Karabová	0	85,941,959,983,1820,2094,2298
+2430	Karaba Jozef	ž.Mária r.Kremnická	0	1843
+2430	Karaba Jozef	žena Emerencia Karabová	0	1239,1240,1242,1569
+2430	Karaba Jozef	žena Karabová Emerencia	0	965
+2430	Karaba Michal		0	1830
+2430	Karaba Michal	žena Andela Valovičová	0	960
+2430	Karaba Ondrej		0	1752
+2430	Karaba Ondrej	mal.v r.1927	0	952
+2430	Karaba Peter		0	85,941,959,1079,2094,2298

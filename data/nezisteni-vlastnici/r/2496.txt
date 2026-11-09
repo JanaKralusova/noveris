@@ -1,0 +1,256 @@
+1431	Baňas Ján	1	0	1609
+1431	Baňas Ján	10	0	1224
+1431	Baňas Ján	11	0	1224
+1431	Baňas Ján	12	0	1279,1662,1663,1664,1665,1666,1667,1668,1669,1671,1672
+1431	Baňas Ján	13	0	1644
+1431	Baňas Ján	2	0	1612,1613
+1431	Baňas Ján	3	0	1612,1613
+1431	Baňas Ján	4	0	797,821,941,1128,1144,1279,1540,1612,1613,1644,1662,1663,1664,1665,1666,1667,1668,1669,1671,1672,1678,1681
+1431	Baňas Ján	5	0	1168
+1431	Baňas Ján	6	0	1243
+1431	Baňas Ján	9	0	797,941,1128,1144,1279,1662,1663,1664,1665,1666,1667,1668,1669,1671,1672,1681
+1431	Baňas Ján	Dirga	0	1546,1723,1828
+1431	Baňas Ján	Filičko	0	1644
+1431	Baňas Ján	Metľár	0	1224
+1431	Baňas Ján	Miško	0	1648
+1431	Baňas Juraj		0	1038,1203
+1431	Baňas Juraj	1	0	821,1279,1540,1662,1663,1664,1665,1666,1667,1668,1669,1671,1672,1678
+1431	Baňas Juraj	2	0	1224
+1431	Baňas Juraj	3	0	1279,1662,1663,1664,1665,1666,1667,1668,1669,1671,1672
+1431	Baňas Michal		0	931,1168,1608,1609,1610,1611,1891
+1431	Baňas Michal	1	0	1612,1613
+1431	Baňas Michal	2	0	1243
+1431	Baňas Michal	3	0	797,1128,1144,1279,1662,1663,1664,1665,1666,1667,1668,1669,1671,1672,1681
+1431	Baňas Michal	4	0	1279,1662,1663,1664,1665,1666,1667,1668,1669,1671,1672
+1431	Baňas Michal	Filičko	0	1644
+1431	Baňas Michal	Kolcun	0	931,1608,1609,1610,1611,1891
+1431	Baňas Michal	Kovaľ	0	1243
+1431	Baňas Michal	Metľar	0	1224
+1431	Baňas Štefan		0	1612,1613
+1431	Baňas Štefan	1	0	1612,1613
+1431	Baňas Štefan	2	0	1612,1613
+1431	Baňas Štefan	4	0	1243
+1431	Baňas Štefan	5	0	930,1145,1171,1182,1482,1568
+1431	Baňas Štefan	6	0	1644
+1431	Baňas Tomáš	Metľár	0	1224
+1431	Baňasová Agnesa		0	1224
+1431	Baňasová Anna		0	1279,1662,1663,1664,1665,1666,1667,1668,1669,1671,1672
+1431	Baňasová Anna	1	0	821,1279,1540,1612,1613,1662,1663,1664,1665,1666,1667,1668,1669,1671,1672,1678
+1431	Baňasová Anna	2	0	1168
+1431	Baňasová Anna	3	0	1243
+1431	Baňasová Anna	4	0	797,941,1128,1144,1279,1662,1663,1664,1665,1666,1667,1668,1669,1671,1672,1681
+1431	Baňasová Anna	5	0	1644
+1431	Baňasová Anna r. Lazorová		0	1648,1650
+1431	Baňasová Anna r. Petríková		0	1108
+1431	Baňasová Anna r. Polomová		0	1224
+1431	Baňasová Anna r. Sasková		0	1224
+1431	Baňasová Helena		0	941,1038,1041,1517
+1431	Baňasová Helena	1	0	1608,1609,1610,1611,1891
+1431	Baňasová Helena	Kolcun	0	918
+1431	Baňasová Helena r. Petríková		0	941,1118,1135,1145,1161,1171,1182,1215,1230,1241,1279,1311,1312,1423,1482,1485,1568,1579,1620,1644,1648,1662,1663,1664,1665,1666,1667,1668,1669,1671,1672,1679,1680,1868,1869
+1431	Baňasová Júlia r. Dirgová		0	1644
+1431	Baňasová Katarína		0	1216,1233,1249,1279,1449,1459,1608,1609,1610,1611,1648,1662,1663,1664,1665,1666,1667,1668,1669,1671,1672,1673,1796,1821,1842,1891
+1431	Baňasová Katarína	1	0	1141,1155,1219,1642
+1431	Baňasová Katarína	2	0	1526
+1431	Baňasová Katarína	3	0	1013
+1431	Baňasová Katarína	4	0	879
+1431	Baňasová Katarína	5	0	1595
+1431	Baňasová Katarína	6	0	1644
+1431	Baňasová Mária		0	941,1038,1041,1517,1612,1613
+1431	Baňasová Mária	1	0	1038,1041,1644
+1431	Baňasová Mária	2	0	941
+1431	Baňasová Mária	4	0	1644
+1431	Baňasová Mária r. Chovancová		0	1279,1662,1663,1664,1665,1666,1667,1668,1669,1671,1672
+1431	Baňasová Mária r. Petríková		0	1279,1662,1663,1664,1665,1666,1667,1668,1669,1671,1672
+1431	Baňasová Mária r. Polaščíková		0	1609
+1431	Baňasová Mária r. Prevuzňáková		0	1573,1574
+1431	Baňasová Mária r. Semančíková		0	941,1648,1650
+1431	Baňasová Mária r. Šomská		0	1279,1662,1663,1664,1665,1666,1667,1668,1669,1671,1672
+1431	Baňasová Veronika r. Baratková		0	1224
+1431	Baňasová Zuzana	2	0	931
+1431	Baňasová Zuzana r. Kravcová		0	935
+1431	Baňasová Zuzana r. Kravcová	1	0	1650
+1431	Baňasová Zuzana r. Mizeráková		0	931,1005,1053,1102,1157,1608,1609,1610,1611,1891
+1431	Baňasová Zuzana r. Mizeráková	Kolcun	0	918
+1431	Baňasová Zuzana r. Šomská		0	1644,1675
+1431	Bašár Andrej		0	1007,1254,1655,1656
+1431	Bašár Ján		0	1254,1655,1656
+1431	Bašárová Júlia r. Kolmošová		0	1007,1254,1655,1656
+1431	Bašárová Mária r. Andraščíková		0	898
+1431	Beliš Ján	2	0	1224
+1431	Beliš Ján	Labudka	0	1236
+1431	Beliš Ján	ž Alžbeta r. Sabatulová	0	1224
+1431	Beliš Jozef	po Anne Andraščíkovej	0	1030
+1431	Belišová Anna r. Andraščíková		0	1030,1224
+1431	Benc Ján		0	1641
+1431	Benc Ján	1	0	1641
+1431	Benc Ján	2	0	1641
+1431	Benc Ján	3	0	1641
+1431	Benc Štefan		0	1641
+1431	Bencová Anna		0	1641
+1431	Bendľáková Zuzana r. Fuhrerová		0	1254,1655,1656
+1431	Blaško Andrej		0	893,1224
+1431	Blaško Andrej	1	0	1224
+1431	Blaško Anton		0	1612,1613
+1431	Blaško Ján		0	893,1224
+1431	Blaško Ján	1	0	1224
+1431	Blaško Ján	2	0	1224
+1431	Blaško Juraj		0	893,1224
+1431	Blaško Michal		0	893,1224
+1431	Blašková Anna r. Pisariková		0	1224
+1431	Blašková Helena		0	893
+1431	Blašková Helena r. Repková		0	1612,1613
+1431	Blašková Júlia	1	0	893
+1431	Bodnár Ján		0	1224
+1431	Bodnárová Alžbeta r. Figurová		0	1029
+1431	Bodnárová Mária r. Gibartiová		0	1254,1655,1656
+1431	Boronkajová Anna r. Semanová		0	1224
+1431	Cenker Ján		0	1608,1609,1610,1611,1891
+1431	Cenker Ján	1	0	1612,1613
+1431	Cenkerová Helena		0	1608,1609,1610,1611,1891
+1431	Cenkerová Katarína r. Stričová		0	1272,1273,1279,1400,1662,1663,1664,1665,1666,1667,1668,1669,1671,1672,1684
+1431	Cenkerová Mária		0	1608,1609,1610,1611,1891
+1431	Cenkerová Zuzana		0	1608,1609,1610,1611,1891
+1431	Cenkerová Zuzana r. Farkašová		0	1024
+1431	Cigáňová Mária r. Havrilová		0	1254,1655,1656
+1431	Cuprák Michal		0	1011,1254,1655,1656
+1431	Cuprák Štefan		0	1011,1237,1254,1655,1656
+1431	Cupráková Anna r. Belišová		0	1237
+1431	Cupráková Anna r. Kerbčárová		0	1254,1655,1656
+1431	Cupráková Anna r. Kerbčárová	1	0	1254,1655,1656
+1431	Cupráková Anna r. Kerbčárová	2	0	1254,1655,1656
+1431	Cvanciger Ján	2	0	1254,1655,1656
+1431	Cvanciger Ján	3	0	1254,1655,1656
+1431	Cvanciger Juraj		0	1254,1655,1656
+1431	Cvanciger Michal		0	1254,1655,1656
+1431	Cvancigerová Zuzana		0	1254,1655,1656
+1431	Čehaľáková Mária r. Kravcová		0	1644
+1431	Čerkala Štefan	ž r. Kišeľová	0	994,1376,1713,1887
+1431	Černáková Anna r. Židovská		0	1054
+1431	Červeňák Ján		0	1011,1254,1655,1656
+1431	Červeňáková Anna r. Čuriová		0	1254,1655,1656
+1431	Červeňáková Gizela		0	1011,1254,1655,1656
+1431	Čirčanová Mária r. Kerbčárová		0	1254,1655,1656
+1431	Čorňák Ján		0	1254,1655,1656
+1431	Čuba Andrej	2	0	1641
+1431	Čuba Andrej	4	0	1224
+1431	Čuba Andrej	Jurkuv	0	922,930,931,983,1039,1077,1920
+1431	Čuba Andrej	Petruf	0	898
+1431	Čuba Ján		0	900,1115,1232,1275,1279,1513,1609,1648,1660,1662,1663,1664,1665,1666,1667,1668,1669,1671,1672,1861
+1431	Čuba Ján	20	0	1696
+1431	Čuba Ján	3	0	1641
+1431	Čuba Ján	5	0	1428,1798
+1431	Čuba Ján	7	0	1648
+1431	Čuba Ján	9	0	1650
+1431	Čuba Jozef		0	1609
+1431	Čuba Jozef	1	0	1077
+1431	Čuba Jozef	2	0	1077
+1431	Čuba Jozef	3	0	1650
+1431	Čuba Jozef	4	0	1650
+1431	Čuba Juraj		0	1497,1500,1677
+1431	Čuba Juraj	1	0	1115,1232,1275,1279,1513,1660,1662,1663,1664,1665,1666,1667,1668,1669,1671,1672,1861
+1431	Čuba Juraj	11	0	933
+1431	Čuba Juraj	5	0	938
+1431	Čuba Juraj	6	0	927
+1431	Čuba Juraj	8	0	1648,1650
+1431	Čuba Juraj	Tomkiv	0	1648,1650
+1431	Čuba Juraj	ž Eva	0	810,1079,1398,1820
+1431	Čuba Michal	3	0	1224
+1431	Čuba Michal	5	0	1224
+1431	Čuba Michal	6	0	1650
+1431	Čuba Štefan		0	1641,1648,1650
+1431	Čuba Štefan	1	0	1650
+1431	Čuba Štefan	Cap	0	1648,1650
+1431	Čuba Tomáš	1	0	942,1554,1555,1797
+1431	Čuba Tomáš	2	0	1599
+1431	Čuba Tomáš	4	0	1648,1650
+1431	Čuba Vasil		0	1648,1650
+1431	Čubíková Anna r. Macurová		0	930,931,1035,1219,1233,1249,1573,1574,1609,1636
+1431	Čubová Anna		0	783,927,1040,1055,1060,1061,1077,1096,1256,1279,1462,1662,1663,1664,1665,1666,1667,1668,1669,1671,1672,1785
+1431	Čubová Anna	2	0	1500
+1431	Čubová Anna	3	0	1599
+1431	Čubová Anna	4	0	1648
+1431	Čubová Anna r. Kravcová		0	1060
+1431	Čubová Anna r. Kravcová	1	0	1096
+1431	Čubová Anna r. Macurová		0	1216,1233,1249,1459,1842
+1431	Čubová Anna r. Petríková	1	0	1157,1728
+1431	Čubová Emília		0	1500
+1431	Čubová Helena		0	1558,1604,1865,1866,1878,1879
+1431	Čubová Helena	1	0	1650
+1431	Čubová Helena	2	0	1609,1648
+1431	Čubová Helena r. Capová		0	797,821,941,1128,1144,1168,1243,1279,1540,1612,1613,1662,1663,1664,1665,1666,1667,1668,1669,1671,1672,1678,1681
+1431	Čubová Helena r. Šuťáková		0	1608,1609,1610,1611,1612,1613,1648,1891
+1431	Čubová Irena		0	1224
+1431	Čubová Júlia r. Prevuzňáková		0	1224
+1431	Čubová Katarína		0	1612,1613
+1431	Čubová Katarína	1	0	1040
+1431	Čubová Kristína		0	1648
+1431	Čubová Margita		0	1224
+1431	Čubová Margita r. Andraščíková		0	898
+1431	Čubová Mária		0	1115,1232,1275,1513,1535,1660,1861
+1431	Čubová Mária	1	0	1224,1535
+1431	Čubová Mária	3	0	1500
+1431	Čubová Mária r. Hovancová		0	1650,1672
+1431	Čubová Mária r. Lešková		0	1224
+1431	Čubová Mária r. Lipovská		0	1224
+1431	Čubová Zuzana	1	0	1256,1462,1785
+1431	Čubová Zuzana	Cap	0	1612,1613
+1431	Čubová Zuzana	Majirníková	0	1573,1574
+1431	Čubová Zuzana r. Baňasová		0	1644
+1431	Čubová Zuzana r. Kravcová		0	1628
+1431	Čubová Zuzana r. Semančíková	Dujava	0	1279,1609,1612,1613,1648,1650,1662,1663,1664,1665,1666,1667,1668,1669,1671,1672
+1431	Čurejová Irena r. Čuriová		0	1254,1655,1656
+1431	Čurejová Paulína r. Čuriová		0	1254,1655,1656
+1431	Čuri Mikuláš		0	1254,1655,1656
+1431	Čury Ján		0	1011,1254,1655,1656
+1431	Darák Andrej		0	1224
+1431	Darák Andrej	1	0	1224
+1431	Darák Juraj		0	1224
+1431	Darák Michal		0	1224
+1431	Daráková Anna r. Ščečinová		0	906
+1431	Demčák Ján		0	1254,1655,1656
+1431	Demčák Juraj		0	1254,1655,1656
+1431	Demčák Michal		0	1254,1655,1656
+1431	Demčák Peter	1	0	1254,1655,1656
+1431	Demčáková Anna		0	1254,1655,1656
+1431	Demčáková Anna r. Bašárová		0	1254,1655,1656
+1431	Demčáková Júlia r. Hricová		0	1009,1254,1655,1656
+1431	Demčáková Mária		0	1254,1655,1656
+1431	Demčáková Mária r. Somičová	1	0	1254,1655,1656
+1431	Demčáková Zuzana r. Križalkovičová		0	1009,1254,1655,1656
+1431	Desevffy Eduard		0	1207
+1431	Dinis Andrej		0	893
+1431	Dinis Jozef		0	893
+1431	Dinis Michal		0	1224
+1431	Dinis Michal	1	0	893
+1431	Dinis Štefan		0	893
+1431	Dinisová Cecília		0	893
+1431	Dinisová Helena		0	893
+1431	Dinisová Mária r. Dulová		0	893,1224
+1431	Dinisová Terézia		0	893
+1431	Diňová Mária r. Rabíková		0	1254,1655,1656
+1431	Dirga Andrej	2	0	959
+1431	Dirga Andrej	5	0	1612,1613
+1431	Dirga Andrej	Kravec	0	1648,1650
+1431	Dirga Ján		0	941,1650
+1431	Dirga Ján	1	0	1612,1613
+1431	Dirga Ján	3	0	980,1004,1005,1045,1157,1252,1441,1455,1575,1585,1650,1889,1895,1921
+1431	Dirga Ján	5	0	851
+1431	Dirga Ján	6	0	1176
+1431	Dirga Ján	8	0	1648
+1431	Dirga Ján	Dujava	0	1038,1041,1648
+1431	Dirga Juraj		0	797,821,930,931,941,1038,1041,1128,1144,1145,1168,1171,1182,1230,1241,1243,1279,1423,1482,1540,1568,1662,1663,1664,1665,1666,1667,1668,1669,1671,1672,1678,1679,1680,1681
+1431	Dirga Juraj	1	0	1067,1206,1235,1370,1371,1373,1374,1437,1439,1559,1609,1648,1687,1782,1783,1791,1792,1896,1897,1898,1899
+1431	Dirga Juraj	4	0	1105
+1431	Dirga Juraj	6	0	1648
+1431	Dirga Juraj	8	0	1609,1612,1613
+1431	Dirga Michal	5	0	1542
+1431	Dirga Michal	7	0	1648
+1431	Dirga Peter	Basarčín	0	980,1004,1252,1455,1575,1648,1895
+1431	Dirga Tomáš	Basarčín	0	1648
+1431	Dirgová Alžbeta	Basarčínová	0	1157
+1431	Dirgová Alžbeta r. Kravcová		0	1105,1235,1478,1644,1648,1650,1850
+1431	Dirgová Anna r. Čubová		0	991
+1431	Dirgová Anna r. Kravcová	Basarčin	0	1650
+1431	Dirgová Helena r. Mikitová		0	1648,1650
+1431	Dirgová Helena r. Mikitová	1	0	1410,1907,1908

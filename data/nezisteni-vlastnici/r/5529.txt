@@ -1,0 +1,256 @@
+3112	Vargová Helena	r.Tkáčová; r.Tkáčová	0	974
+3112	Vargová Helena r. Tkáčová		0	694
+3112	VAŠKO Ján		0	265,950
+3112	Vaško Michal	1	0	950
+3112	Vaško Michal	1; 1	0	265
+3112	Vaško Michal	2	0	282
+3112	Vaško Michal	ž.Alžbeta r.Kotošová	0	265,950
+3112	VAŠKOVÁ Anna		0	265,950
+3112	Venglarčíková Helena r. Gondoľová	zomr	0	284,789
+3112	Vincejová Anna r. Geciová		0	265,950
+3112	Železnik Michal	zom.30.8.2004	0	801,947
+3112	Železnik Michal	zom.30.8.2004; zom.30.8.2004	0	713
+3113	Bačová Eva r. Hudecová, SR		0	2044,2586,2780,2933,3313
+3113	Bačová Veronika r. Gutmanová, SR		0	763,771,790,3089,3859
+3113	Balážová Anna r. Beňová, SR		0	833,834,1019,3408
+3113	Beláňová Alžbeta r. Magátová	/zomrela/	0	3015,3016,3017,3018
+3113	Benčeková Veronika r. Eliášová, SR		0	1241
+3113	Beniaková Mária r. Valachová	/Kozmálovce/	0	2300
+3113	Beňo Jakub	/nezvestný/	0	2568
+3113	Beňo Jakub	Izákov, ž.Katarína r.Gutmanová	0	2633
+3113	Beňo Jakub, SR		0	763,833,834,835,1625,2053,2054,2509,2519,2633,3408,3532,3865,3866,3878,3906,3907
+3113	Beňo Ján	/Mikulov/	0	44,2434,3315
+3113	Beňo Ján	/po Jánovi/	0	833,834,1019,2516,2568,3408,3556
+3113	Beňo Ján	/ž.Božena r.Brdová, zomrel 5.6.2001/	0	2223
+3113	Beňo Ján	/ž.Mária r.Karáčová/	0	163,741,1144,1145,1147,1148,1149,1372,1373,1374,1578,1806,2081,2527,2823,2913,2921,2922,3284,3303,3306,3309,3328,3336,3380,3455,3534,3535,3577,3621,3830,3839
+3113	Beňo Ján	/ž.Mária r.Vrábelová/	0	2568
+3113	Beňo Ján	Bajko, ž.Júlia r. Budajová, pôv.č.domu 183	0	2460,2499,2818,2821,3098,3117,3120,3160
+3113	Beňo Ján	Izákov, ž.Alžbeta r.Rosinová, pôv.č.domu 198	0	2460,2499,2818,2821,3098,3117,3120,3160
+3113	Beňo Ján	ž.Mária r. Karáč	0	1150
+3113	Beňo Ján, SR		0	14,763,1123,1281,1282,1625,1772,1784,2053,2054,2174,2507,2509,2519,2536,2633,2806,3004,3152,3327,3532,3729,3730,3865,3866,3878,3906,3907
+3113	Beňo Jozef	/Benko/	0	763,771,790,1178,3089,3859
+3113	Beňo Jozef	mal	0	14,763,833,834,835,1625,1772,1784,2053,2065,2507,2509,2519,2549,2633,2781,3408,3790,3865,3878,3906,3907
+3113	Beňo Jozef	Mankovce	0	2460,2499,2818,2821,3098,3117,3120,3160
+3113	Beňo Juraj	/ž.Mária r.Gutmanová/	0	833
+3113	Beňo Michal	/Lavkov/	0	1035,1036,2918,3137,3377
+3113	Beňo Michal	/Mikulov/	0	44,2434,3315
+3113	Beňo Michal	/po Michalovi/	0	2542
+3113	Beňo Michal, SR		0	835,1123
+3113	Beňo Stanislav	/zomrel 20.3.1990/	0	2473
+3113	Beňo Štefan	/po Štefanovi/	0	833,834,1019,3408
+3113	Beňo Štefan	/ž.Terézia r.Zachariášová, zomrel/	0	2633
+3113	Beňo Štefan, SR		0	835,2065,2549,2781,3790
+3113	Beňo Tomáš	ž.Anna r. Dzianová, pôv.č.domu 65	0	2460,2499,2818,2821,3098,3117,3120,3160
+3113	Beňová Alžbeta r. Rosinová	/zomrela/	0	833,834,835,2379,3408
+3113	Beňová Alžbeta, SR		0	1035,1036,2918,3137,3377
+3113	Beňová Anna	/Mikulová/	0	44,2434,3315
+3113	Beňová Anna r. Dzianová	/zomrela/	0	44,1123,2173,2174,2434,3152,3315,3729,3730
+3113	Beňová Anna r. Katulová	vd	0	1036,2918,3377
+3113	Beňová Anna r. Minárová, SR		0	44,1647,3315
+3113	Beňová Anna, SR		0	835,1123,2065,2174,2549,2781,3152,3729,3730,3790
+3113	Beňová Katarína	/Jánova dcéra/	0	2516,2568,3556
+3113	Beňová Katarína r. Beňová, SR		0	833,834,1019,3408
+3113	Beňová Katarína r. Gutmanová	m.Jakub, Izákov	0	2633
+3113	Beňová Katarína, SR		0	14,763,834,835,1625,1772,1784,2053,2065,2507,2509,2519,2549,2633,2781,3408,3790,3865,3878,3906,3907
+3113	Beňová Mária		0	834,3408
+3113	Beňová Mária	mal./Jánova dcéra/	0	14,763,833,835,1625,1772,1784,2053,2507,2509,2516,2519,2568,2633,3556,3865,3878,3906,3907
+3113	Beňová Mária r. Bajková	pôv.č.domu 123	0	2460,2499,2818,2821,3098,3117,3120,3160
+3113	Beňová Mária r. Benková	pôv.č.domu 146	0	2460,2499,2818,2821,3098,3117,3120,3160
+3113	Beňová Mária r. Beňová	/zomrela 26.3.2005/	0	2549
+3113	Beňová Mária r. Beňová	/zomrela 26.3.2005/; /zomrela 26.3.2005/	0	1654
+3113	Beňová Mária r. Gutmanová	/m.Juraj/	0	833
+3113	Beňová Mária r. Hudecová, SR		0	1281,2545
+3113	Beňová Mária r. Vrábelová, SR		0	309,746,897,980,981,1434,1438,1444
+3113	Beňová Mária r. Zaťková, SR		0	2054,2276,3532,3866
+3113	Beňová Terézia r. Zachariašová	vd., pôv. č. domu 180	0	2460,2499,2818,2821,3098,3117,3120,3160
+3113	Beňová Žofia r. Rosinová, SR		0	855,2039,3019
+3113	Bošanská Anna r. Dekanová	/Igenišová/	0	2683
+3113	Boudna Anna r. Hrozienčíková	nar.29.6.1924	0	3063
+3113	Boudná Anna r. Hrozienčíková	/zomrela/	0	2245,2541
+3113	Brahová Mária r. Beňová, SR		0	834,1019,3408
+3113	Bratová Mária r. Beňová		0	833
+3113	Cigáňová Terézia r. Rosinová, SR		0	1122,1123,2531
+3113	Dekan Ján	/Gabrielov/	0	12,1029,1634,1770,2491
+3113	Dekan Ján	/ž.Mária r.Beňová/	0	890,1510,1748,2033,2034,2697,2698
+3113	Dekan Ján, SR		0	1132,1323,1326,1327,2096,2301,3233,3235,3290
+3113	Dekan Jozef	/Igeniš, ž.Terézia r.Karáčová/	0	2466
+3113	Dekan Jozef	/ž.Mária r.Hosťovecká/	0	890,1510,1748,2033,2034,2697,2698
+3113	Dekan Jozef	Ignácov, ž.Terézia r. Karáčová, pôv. č. domu 30	0	2460,2499,2818,2821,3098,3117,3120,3160
+3113	Dekan Jozef, SR		0	1132,1323,1326,1327,2096,2301,3233,3235,3290
+3113	Dekan Július	/zomrel/	0	1571,2593,3124
+3113	Dekan Karol	/Šimunov syn/	0	2507
+3113	Dekan Karol, SR		0	12,44,1029,1634,1635,1770,2208,2927,3315
+3113	Dekan Michal	/Smatanov/	0	2044,2586,2780,2933,3313
+3113	Dekan Michal	/zomrel /	0	2239
+3113	Dekan Michal	/ž.Anna r.Segéňová, zomrel 3.8.2008/	0	2239
+3113	Dekan Michal, SR		0	767,858,890,1022,1024,1236,1510,1748,2033,2034,2264,2407,2423,2553,2564,2647,2674,2689,2697,2698,3025,3058,3085,3210,3297,3320,3540,3549,3686
+3113	Dekan Ondrej	/Richardov syn/	0	890,1510,1748,2033,2034,2697,2698
+3113	Dekan Ondrej, SR		0	1132,1323,1326,1327,2087,2096,2301,3233,3235,3290
+3113	Dekan Richard	ž.Eva r. Pudríková, pôv. č. domu 10	0	2460,2499,2818,2821,3098,3117,3120,3160
+3113	Dekan Rudolf	/zomrel/	0	960,1442,1571,2593,3124
+3113	Dekan Štefan	/Richardov syn/	0	890,1510,1748,2033,2034,2697,2698
+3113	Dekan Štefan, SR		0	1132,1323,1326,1327,2096,2200,2301,3233,3235,3290
+3113	Dekanová Alžbeta r. Domankušová	/zomrela 1.2.1996/	0	2243
+3113	Dekanová Alžbeta r. Zaťková, SR		0	1009
+3113	Dekanová Anna r. Magátová	pôv.č.domu 54	0	2460,2499,2818,2821,3098,3117,3120,3160
+3113	Dekanová Anna r. Magátová, SR		0	890,1510,1748,2033,2034,2689,2697,2698,3210
+3113	Dekanová Anna r. Segéňová	/zomrela 14.11.1997/	0	2256
+3113	Dekanová Anna r. Sumelová, SR		0	1155
+3113	Dekanová Anna r. Szegényová	/zomrela 14.11.1997/	0	762,767,3058
+3113	Dekanová Katarína r. Karáčová	vd	0	14
+3113	Dekanová Katarína r. Karáčová	vd., pôv.č.domu 162	0	2460,2499,2818,2821,3098,3117,3120,3160
+3113	Dekanová Mária r. Beňová	/zomrela v r.1976/	0	1035,1036,2542,2918,3137,3377
+3113	Dekanová Mária r. Zaťková	/zomrela 12.2.2012/; /zomrela 12.2.2012/	0	2185,2919
+3113	Dekanová Mária r. Zaťková	zomrela 12.2.2012	0	1040
+3113	Dekanová Rozália r. Karáčová, SR		0	1784
+3113	Dekanová Terézia r. Magátová, SR		0	2393,2423,2564
+3113	Demo Jozef	/ž.Katarína r.Krajčiová/	0	763
+3113	Demo Jozef	/ž.Terézia r.Karačová/	0	790,3089,3859
+3113	Demo Jozef, SR		0	2968
+3113	Demo Štefan	nar. 09.09.1888, /ž.Karolína r.Dzianová, zomrel v r.1977/	0	309,746,981,1434,1444,2169
+3113	Demová Anna	Mankovce č.19	0	2460,2821,3098,3117,3120,3160
+3113	Demová Anna	Mankovceč.19	0	2499,2818
+3113	Demová Karolína r. Dzianová		0	453
+3113	Demová Karolína r. Dzianová	nar. 05.01.1856, /m.Štefan, zomrela 27.4.1982/	0	14,309,746,833,834,835,981,1019,1132,1434,1444,1621,1623,1624,1625,1772,1784,1932,1933,2126,2168,2169,2474,2507,2563,2785,3408,3469
+3113	Demová Katarína r. Krajčiová	/m.Jozef/	0	763
+3113	Demová Katarína, SR		0	885,886,1535,1872,1930,2101,2753,2765,2779,2843,2848,2968,3037,3136,3355,3356,3357,3407,3481,3482,3536,3542
+3113	Demová Mária r. Karačová, SR		0	2502,3821
+3113	Demová Terézia r. Karačová	/m.Jozef/	0	790,886,1535,1930,2045,2765,2848,3037,3089,3357,3482,3859
+3113	Demová Terézia r. Karačová	pôv.č.domu 148	0	2460,2499,2818,2821,3098,3117,3120,3160
+3113	Dodoková Terézia r. Dzianová, SR		0	14,835,1623,1624,1625,1772,1784,1933,2507
+3113	Domankoš Karol, SR		0	1060,2317,2323,2534,2535
+3113	Domankoš Štefan, SR		0	2323,2534
+3113	Domankoš Tomáš, SR		0	2320,2323,2535
+3113	Domankuš Ján	ml. ž.Anna r. Pinterová, pôv.č.domu 253	0	2460,2499,2818,2821,3098,3117,3120,3160
+3113	Domankuš Ján	nar. 25.11.1898, /ž.Anna r.Pinterová, zomrel 24.4.1991/	0	2129
+3113	Domankuš Ján	st., ž.Katarína r.Jankulárová, pôv.č.domu 123	0	2460,2499,2818,2821,3098,3117,3120,3160
+3113	Domankuš Ján, SR		0	1060,2069,2534,2535,3042
+3113	Domankuš Jozef	/zomrel/	0	2697,2698
+3113	Domankuš Karol	/ž.Mária r.Demová, zomrel 23.8.2001/	0	2550
+3113	Domankuš Štefan	/ž.Mária r.Dzianová, zomrel 13.6.1986/	0	2315,2317
+3113	Domankuš Tomáš	/zomrel/	0	1529,2279,2550,2565,2599
+3113	Domankuš Tomáš	/ž.Anna r.Zemanová/	0	2318
+3113	Domankušová Alžbeta, SR		0	1060,1061,1259,2195,2534,2535
+3113	Domankušová Anna r. Krajčiová	pôv.č.domu 243	0	2460,2499,2818,2821,3098,3117,3120,3160
+3113	Domankušová Anna r. Krajčiová, SR		0	2547
+3113	Domankušová Anna r. Pinterová	/m.Ján, zomrela 30.1.1990/	0	2129,2464,2501
+3113	Domankušová Anna r. Zemanová	/m.Tomáš/	0	2318
+3113	Domankušová Irena, SR		0	1060,1061,1259,2195,2534,2535
+3113	Domankušová Mária r. Dekanová, SR		0	890,1060,1510,1748,2033,2034,2069,2195,2534,2535,2697,2698,3042
+3113	Domankušová Mária r. Dzianová	/m.Štefan, zomrela 7.1.2007/	0	2313,2315,2317
+3113	Domonkošová Irena r. Beňová, SR		0	1259
+3113	Domonkošová Katarína, SR		0	2317,2321
+3113	Domonkošová Mária r. Dekanová, SR		0	1132,1323,1326,1327,2096,2301,3233,3235,3290
+3113	Domonkošová Viera, SR		0	2317,2321
+3113	Dragúňová Mária		0	1286,1518
+3113	Drahoš Alojz	/zomrel 13.12.2008/	0	1675
+3113	Drahošová Mária r. Nemcová	/zomrela 24.1.2012/	0	2188,3628
+3113	Dzian Christhoper Joseph	/7 Thelma, Crt, Werribee Vic 3030, Melbourne, Australia/	0	14,309,746,834,835,981,1019,1132,1434,1444,1621,1623,1624,1625,1772,1784,1932,1933,2126,2168,2170,2476,2507,2563,2785,3408,3469
+3113	Dzian Christhopher Joseph	/7 Thelma, Crt, Werribee Vic 3030, Melbourne, Australia/; /7 Thelma, Crt, Werribee Vic 3030, Melbourne, Australia/	0	833
+3113	Dzian Ján	/zomrel 11.9.2001/	0	990
+3113	Dzian Ján, SR		0	2476
+3113	Dzian Jolana	/256 Morack Rd, Vermont ST.Vic.3133, Melbourne, Australia/	0	14,309,746,833,834,835,981,1019,1132,1434,1444,1621,1623,1624,1625,1772,1784,1932,1933,2126,2168,2170,2476,2507,2563,2785,3408,3469
+3113	Dzian Jozef, SR		0	1019
+3113	Dzian Michael Shane	/15 Churchill, Drive, Mooroolbank Vic 3138, Melbourne Austr/	0	14,309,746,833,834,835,981,1019,1132,1434,1444,1621,1623,1624,1625,1772,1784,1932,1933,2126,2168,2170,2476,2507,2563,2785,3408,3469
+3113	Dzianová Alžbeta r. Karačová	/m.Jozef/	0	2168
+3113	Dzianová Alžbeta r. Karáčová		0	453
+3113	Dzianová Veronika	/Štefanova dcéra/	0	2047
+3113	Dzianová Veronika	/Štefanova dcéra/; /Štefanova dcéra/	0	3659
+3113	Eliáš Ján	/Pisov, ž.Katarína r.Gajdošová/	0	936
+3113	Eliáš Ján	/ž.Katarína r.Kalinová, zomrel/	0	775
+3113	Eliáš Ján	Čurkov, ž.Katarína r. Kalinová, pôv.č.domu 179	0	2460,2499,2818,2821,3098,3117,3120,3160
+3113	Eliáš Ján	Pisov, ž.Katarína r. Gajdošová, pôv. č. domu 28	0	2460,2499,2818,2821,3098,3117,3120,3160
+3113	Eliáš Ján	ž. Veronika r. Rajtarová, pôv.č.domu 36	0	2460,2499,2818,2821,3098,3117,3120,3160
+3113	Eliáš Ján	ž.Alžbeta r. Rosinová, pôv. č.domu 28	0	2460,2499,2818,2821,3098,3117,3120,3160
+3113	Eliáš Ján, SR		0	1093,1241,1286,1293,1518,1823,1995,1996,2015,2118,2194,2337,2751,2965,2969,3051,3440,3711
+3113	Eliáš Jozef	/Janov, ž.Jozefína r.Krajčiová/	0	775,2575,2610
+3113	Eliáš Jozef	/vnuk Terezin/	0	1234,1262
+3113	Eliáš Jozef	/ž.Jozefína r.Krajčiová/	0	1419,1420
+3113	Eliáš Jozef, SR		0	1518,1823,1995,1996,2015,2118,2337,2751,2965,2969,3051,3440,3711
+3113	Eliáš Michal, SR		0	2602
+3113	Eliáš Štefan	/Jánošov/	0	309
+3113	Eliáš Štefan	/syn Jozefa/	0	2337
+3113	Eliáš Štefan	/syn Jozefa/; /syn Jozefa/	0	1093
+3113	Eliáš Štefan, SR		0	2554
+3113	Eliášová Anna r. Kováčová	/m.Michal/	0	2253,2254
+3113	Eliášová Anna r. Tešíková	Dolné Sľažany	0	2460,2499,2818,2821,3098,3117,3120,3160
+3113	Eliášová Katarína r. Kalinová	/m.Ján/	0	2200
+3113	Eliašová Katarína r. Krajčiová		0	1314
+3113	Eliášová Terézia r. Katulová	/m.Michal, Pisov/	0	2461
+3113	Erdelyszká Alžbeta r. Sumelová	/zomrela/	0	159
+3113	Friedmanová Jolana r. Weiszová, SR		0	890,961,1510,1748,2033,2034,2200,2697,2698
+3113	Gahír Jozef	/zomrel 21.6.1988/	0	2104
+3113	Gahýr Jozef	/ž.Katarína r.Šutková, zomrel 21.6.1988/	0	2557
+3113	Gahýr Jozef	/ž.Terézia r.Jánošová, zomrel 28.7.1981/	0	2289
+3113	Gahýr Jozef	Štefanov, ž.Terézia r.Jánošová, pôv.č.domu 43	0	2460,2499,2818,2821,3098,3117,3120,3160
+3113	Gahýr Jozef, SR		0	1486,1491,2580,2581,2691
+3113	Gahýr Štefan	/ž.Mária r.Hanzlíková/	0	890,989,1510,1748,2033,2034,2289,2695,2697,2698
+3113	Gahýr Štefan	Štefanov, ž.Mária r.Hanzlíková, pôv.č.domu 43	0	2460,2499,2818,2821,3098,3117,3120,3160
+3113	Gahýr Štefan, SR		0	775,890,988,989,1368,1369,1370,1371,1486,1491,1510,1615,1616,1748,2033,2034,2412,2463,2691,2695,2697,2698,3182,3203,3575
+3113	Gahýrová Anna r. Karačová, SR		0	2306
+3113	Gahýrová Katarína r. Gahýrová	/m.Štefan, zomrela 8.12.1984/	0	2451
+3113	Gahýrová Katarína r. Šutková	/m.Jozef/	0	610,1182,1394,2103,2557
+3113	Gahýrová Mária r. Hanzlíková	/m.Štefan/	0	890,989,1510,1748,2033,2034,2691,2695,2697,2698
+3113	Gahýrová Terézia r. Jánošová	/m.Jozef, zomrela 20.3.1996/	0	2160,2228
+3113	Gajdoš Jozef	ž.Karolína r. Siklienková, pôv. č. domu 7	0	2460,2499,2818,2821,3098,3117,3120,3160
+3113	Gajdošová Anna r. Vrábelová	pôv. č. domu 14	0	2460,2499,2818,2821,3098,3117,3120,3160
+3113	Gajdošová Katarína	/Štefanova dcéra/	0	2398
+3113	Gajdošová Terézia r. Krajčiová	pôv.č.domu 213	0	2460,2499,2818,2821,3098,3117,3120,3160
+3113	Gestlerová Margita r. Weiszová, SR		0	890,961,1510,1748,2033,2034,2200,2697,2698
+3113	Grúner Karol, SR		0	2035
+3113	Grúner Ladislav	/zomrel 9.10.1988/	0	1239,2367,3528
+3113	Grúner Vojtech, SR		0	2035
+3113	Grznár Alojz	/zomrel/	0	923,957,1771,2303,2585,3305,3613
+3113	Grznár Jozef	/zomrel/	0	776,2777,2778,3049,3052
+3113	Grznár Michal	/zomrel/	0	923,2303
+3113	Grznár Štefan	/zomrel/	0	923,2303
+3113	Grznárová Mária	/zomrela/	0	2895
+3113	Grznárová Žofia r. Krajčiová	/zomrela/	0	1418
+3113	Grznárová Žofia r. Krajčiová	pôv.č.domu 97	0	2460,2499,2818,2821,3098,3117,3120,3160
+3113	Gutman Jozef	/zomrel 16.2.2004/	0	1624
+3113	Gutman Jozef, SR		0	2515
+3113	Gutman Michal	/ž.Terézia r.Lipovská, zomrel 27.7.2009/; /ž.Terézia r.Lipovská, zomrel 27.7.2009/	0	2472
+3113	Gutman Michal, SR		0	140,142,763,771,790,973,1064,1196,1197,1408,1562,1566,1648,1909,1916,1920,2217,3005,3068,3089,3323,3329,3330,3331,3334,3463,3477,3512,3617,3630,3849,3850,3859
+3113	Gutman Ondrej	ml	0	973,1196,1408
+3113	Gutman Štefan	/Dávidov, ž.Mária r.Rosinová/	0	142,1916
+3113	Gutman Štefan	ml	0	771
+3113	Gutmanová Terézia r. Magátová	/m.Štefan, Dávidov/	0	2202,2212
+3113	Gutmanová Terézia r. Pudriková, SR		0	1777,3028
+3113	Guttman Michal	mal	0	739,1624
+3113	Guttman Štefan, SR		0	1624
+3113	Hanzlík Ján	/ž.Terézia r.Hudecová/	0	2369
+3113	Hanzlík Ján	ž.Terézia r. Hudecová, pôv.č.domu 74	0	2460,2499,2818,2821,3098,3117,3120,3160
+3113	Hanzlík Ján, SR		0	2703
+3113	Hanzlík Karol	nar. 06.09.1901, /ž.Alžbeta r.Sumelová, zomrela 12.7.1985/	0	2180
+3113	Hanzlík Michal	/po Jozefovi, zomrel 24.7.2006/	0	1725
+3113	Hanzlík Michal	/zomrel 19.12.1998/	0	159,1696,2529
+3113	Hanzlík Štefan	/zomrel 23.9.1996/	0	159,2529
+3113	Hanzlík Tomáš	/ž.Gizela r.Šutková/	0	775,2685
+3113	Hanzlíková Anna r. Jánošová	/zomrela/	0	2697,2698
+3113	Havietová Anna, SR		0	2415
+3113	Havietová Katarína, SR		0	2415
+3113	Hitka Pavol	/ž.Anna r.Domankušová/	0	2222
+3113	Hitková Anna r. Domankušová	/m.Pavol/	0	2222
+3113	Hlavatá Alžbeta r. Beňová	/zomrela 2.2.2001	0	2205,2542
+3113	Hlavatá Mária, SR		0	2205
+3113	Hlavatý Emil	/ž.Mária r. Pavlová, zomrel 29.1.2011/	0	2205,2332
+3113	Holecová Mária r. Kováčová, SR		0	844,2357
+3113	Horňáková Katarína r. Krajčiová, SR		0	1048,1132,1305,1366,1899,2099,2136,3032,3237,3238,3291,3405,3707
+3113	Horniaková Emília r. Vrábelová	/zomrela 18.5.2004/	0	336,932,936,2055,2543,2744,3465,3845
+3113	Hrozienčeková Františka r. Šimková, SR		0	942,2518
+3113	Hrozienčiková Helena r. Magátová	/m.Ján, zomrela 6.8.1996/	0	2204
+3113	Hrúziková Katarína r. Smatanová	/zomrela 26.9.1982/	0	934
+3113	Hrúzová Anna r. Tešíková	/m.Jozef, zomrela 24.2.1992/	0	2233
+3113	Hudec Ján	/zomrel 28.12.2009/	0	106,885,886,1872,1930,2046,2101,2753,2765,2779,2843,2848,2968,3037,3136,3355,3356,3357,3407,3481,3482,3536,3542
+3113	Hudec Ján	/ž.Alžbeta r.Beňová/	0	741
+3113	Hudec Michal	ž.Terézia r. Soradová, pôv.č.domu 158	0	2460,2499,2818,2821,3098,3117,3120,3160
+3113	Hudec Štefan, SR		0	2281
+3113	Hudecová Alžbeta r. Beňová, SR		0	1372,2921,3306,3336,3380,3455,3621
+3113	Hudecová Mária	/rozvedená, v Rumunsku/	0	2281
+3113	Hudecová Mária r. Zachariášová	/zomrela 5.7.1981	0	1654,1789
+3113	Hudecová Mária r. Zachariášová	zomrela 5.7.1981, pôv. č. domu 228	0	2460,2821,3098,3117,3120,3160
+3113	Husár Vojtech	nar. 23.04.1897, /ž.Júlia r.Majlátová, zomrel 21.11.1965/	0	2513
+3113	Husár Vojtech	nar.23.04.1897, /ž.Júlia r.Majlátová, zomrel 21.11.1965/	0	683
+3113	Husárová Júlia r. Majlátová	nar. 28.11.1897, /m.Vojtech, zomrela 17.1.1986/	0	683,2513
+3113	Chvasteková Veronika r. Dzianová	pôv.č.domu 82	0	2460,2499,2818,2821,3098,3117,3120,3160
+3113	Jánošov Filip	/ž.Veronika r.Beňová, zomrel/	0	775,855,1195,1382,2039,2220,2595,2910,3019,3304,3524,3739,3786

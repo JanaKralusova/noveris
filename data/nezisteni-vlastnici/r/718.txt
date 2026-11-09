@@ -1,0 +1,256 @@
+419	BECA Michal	maloletý	0	104,148,155,174,176
+419	BECOVÁ Anastázia		0	104,148,155,174,176
+419	BECOVÁ Anna	maloletá	0	104,148,155,174,176
+419	BOBRIK Juraj		0	114
+419	CENKOVÁ Anastázia	rod.Koromházová	0	111,134,155,174
+419	DIDIRKOVÁ Mária	rod.Becová	0	104,148,155,176
+419	GAJDOŠOVÁ Anna	rod.Sitárová	0	155
+419	GAJDUŠKOVÁ Anna	r. Hačkuličová	0	107,135,155,174,176
+419	GALEOVÁ Mária	r.Pokorná	0	107,155,174,176
+419	GALÉOVÁ Mária	r. Pokorná	0	135
+419	HALGAŠOVÁ Daša	r. Halgašová, Praha 2, Na Libušnice 83	0	124,174
+419	HIRČA Andrej	maloletý	0	141
+419	HIRČA Andrej	vzdialený	0	120
+419	HIRČOVÁ Mária	rod.Macanová/manž.Vasiľ/	0	121
+419	KARAPUC Ján	mladý/maloletý/	0	98,119,204,205,206,207
+419	KARAPUC Ján	starý	0	98,119,204,205,206,207
+419	KARAPUC Ján	starý/maloletý/	0	98,119,204,205,206,207
+419	KARAPUC MACÁR Ján		0	98,119,204,205,206,207
+419	KARAPUC MACÁR Ján	manž.Anna rod.Spišáková	0	98,119,204,205,206,207
+419	KARAPUC MACÁR Ladislav	maloletý	0	98,119,204,205,206,207
+419	KARAPUC MACÁR Ladislav	manž.Anna rod.Macková	0	98,119,204,205,206,207
+419	KARAPUC MACUR Ján		0	106,183
+419	KOCO Fedor		0	195
+419	KOCOVÁ Anna	rod.Hirčová/manž.František/	0	176
+419	KOKOŠOVÁ Mária	r. Surinčáková, Šaca bl.18/III, Košice	0	98
+419	KOLINČÁKOVÁ Anastázia	rod.Hirčová	0	120,141
+419	KOROMHÁZ Juraj		0	107,111,134,155,174,176
+419	KOROMHÁZ Juraj	maloletý	0	107,111,155,174
+419	KOROMHÁZ Vasil		0	111,134,155,174
+419	KUZMOVÁ Mária	rod.Bobriková/manž.Juraj/	0	114
+419	LABANC Juraj	starší/manž.Helena rod.Sitárová/	0	176
+419	LABANC Michal		0	176
+419	LECHAN Michal		0	155,176
+419	LECHANOVÁ Mária	rod.Macurová/Macanová/	0	155,176
+419	LENKA Ján		0	155,175
+419	LENKA Ján	maloletý	0	117
+419	LENKA Juraj		0	175
+419	LENKA Michal		0	176
+419	LENKA Peter		0	176
+419	LENKOVÁ Anna		0	139,155,174,175,176
+419	LENKOVÁ Anna	maloletá	0	117
+419	LENKOVÁ Mária	maloletá	0	117
+419	MACAN Juraj		0	176
+419	MACKO Emil		0	183
+419	MACKO Vasil		0	106,183
+419	MACKOVÁ Anna	rod.Labancová/manž.Vasil/	0	106
+419	MACUR Vasil		0	155
+419	MOSČÁK Štefan	maloletý	0	140
+419	MOSČÁKOVÁ Mária	maloletá	0	140
+419	MOSČÁKOVÁ Olena	rod.Pajdičová/manž.Štefan/	0	140
+419	MOSČÁKOVÁ Zuzana	maloletá	0	140
+419	NOVÁKOVÁ Anastázia	rod.Becová/vzdialená/	0	104,148,155,174,176
+419	PAJDIČ Ján		0	125
+419	PAJDIČ Ján	nateraz americký občan	0	125
+419	PAJDIČ Michal		0	109
+419	PAJDIČ Vasil		0	176
+419	PECKOVÁ Zuzana	r.Hačkuličová	0	107,135,155,174,176
+419	PEREKSTOVÁ Mária	rod.Koromházová	0	111,134,155,174
+419	POKORNÝ Marián, M. Bella 462/20, Piešťany, SR		0	155
+419	POKORNÝ Marián, M. Bella 4622/20, Piešťany, SR		0	107,135,174,176
+419	REGULOVÁ Anna	rod.Becová/vzdialená/	0	104,148,155,174,176
+419	SIDOROVÁ Mária	rod.Simkuličová/manž.Štefan/vzdialená	0	103,180
+419	SIMKULIČ Andrej	GEĽO	0	176
+419	SIMKULIČ Ján		0	122
+419	SIMKULIČ Ján	GEĽO, maloletý	0	174
+419	SIMKULIČ Ján	vzdialený	0	103,180
+419	SIMKULIČ Juraj		0	103,122,143,180
+419	SIMKULIČ Michal		0	180
+419	SIMKULIČ Mikuláš		0	180
+419	SIMKULIČ Peter		0	122
+419	SIMKULIČ Vasil		0	122
+419	SIMKULIČOVÁ Mária	GEĽO, rod.Hačkuličová/manž.Mikuláš/	0	176
+419	SIMKULIČOVÁ Naca	vzdialená	0	103,180
+419	SIMKULIČOVÁ Zuzana	GEĽO	0	136,137
+419	SISÁK Ján		0	155,176
+419	SISÁKOVÁ Anna	rod.Simkuličová Geľo/manž.Ján/	0	176
+419	SISÁKOVÁ Zuzana		0	109
+419	SITÁR Andrej		0	176
+419	SITÁR Andrej	manž.Mária rod.Kosťunová	0	178
+419	SITÁR Ján		0	176
+419	SITÁR Juraj		0	178
+419	SITÁROVÁ Mária		0	174
+419	SMOĽÁK Vasil	manž.Olena rod.Jurčáková	0	176
+419	SMOĽÁKOVÁ Mária	rod.Štelmáková	0	111,133,155,174,176
+419	SURINČÁK Juraj	Dělnická 22/561, Havířov	0	98
+419	SURINČÁK Mikuláš	Leninova 1065, Ostrava-Poruba	0	98
+419	ŠTELMÁK Ivan	Jakubovo námestie č.10, Bratislava	0	111,133,155,174,176
+419	VARGA Štefan		0	107,135,155,174,176
+419	VARGOVÁ Anna		0	107,135,155,174,176
+419	VARGOVÁ Katarína		0	107,135,155,174,176
+419	VARGOVÁ Štefánia	r. Dycká	0	107,135,155,174,176
+420	Andrejiová Mária r. Rusnáková		0	506
+420	Andrejiová Mária r.Rusnáková		0	226
+420	Andrejová Anna r. Jenčová		1	385,427,428,429,430,452,645,659,660,710,716,748,759,765,773
+420	ANDREJOVÁ Anna r. Jenčová, SR		1	831
+420	Andrejová Mária r. Rusnáková		1	610
+420	Bajus Andrej mal.	syn Andreja	0	340
+420	Bajus Ján - Humenník	ž.Anna r. Ferenčíková	0	340
+420	Bajus Jozef	ž.Anna r.Košková	0	340
+420	Bajus Juraj	ž. Mária	0	789
+420	Bajus Juraj - Humenník	ž.Anna r.Šoltésová	0	340
+420	Bajus Michal	ž. Alžbeta r. Kurtičová	0	340
+420	Bajus Michal mal.	syn Andreja	0	340
+420	Bajusová Anna mal.	dcéra Andreja	0	340
+420	Bajusová Helena r. Karafová		0	727
+420	Bajusová Zuzana r. Ordošová		1	574
+420	Bálintová Anna r. Pristášová		1	187
+420	Barančová Anna r. Kondášová		1	390,474,475,574,578,816,857
+420	Barančová Anna r. Ordoš-Berešová		1	116,835,938
+420	Baranová Anna r. Kondášová		1	452,563
+420	Barbieriková Mária r. Šimčiková		1	537,539
+420	Bérešová Mária r. Pristášová		0	385
+420	BÉREŠOVÁ Mária r. Pristášová, SR		1	831
+420	Blanárová Mária r. Ordoš Bérešová		0	654
+420	Blanárová Mária r. Ordoš-Berešová		1	750
+420	Bojtim Andrej		1	385,452,831
+420	Bukata Ján		1	144,145,146,450,615,616,896,992,993
+420	Bukata Michal		1	106,704,730,806
+420	Bukatová Helena r. Rusnáková		0	385,452
+420	Bumberová Anna r. Košková		1	488,639,736,875,994
+420	Cimbal Andrej		0	932
+420	CIMBAL Andrej	1	1	344,618,734,968,1000
+420	Cimbal Ján	ž. Anna Tóthová	0	670
+420	Cimbal Juraj		1	235,344,618,698,734,932,968,1000
+420	Cimbalová Anna r. Tóthová		0	670
+420	Cimbalová Helena		1	235,344,618,734,968,1000
+420	Dudič Ján	mal	1	574
+420	Dupaľová Anna r. Cimbalová		1	235,344,734,932,968
+420	DUPAĽOVÁ Anna r. Cimbalová, SR		1	618,1000
+420	Dušicová Verona r. Kondášová		1	563
+420	Dušičková Verona r. Kondášová		0	452
+420	DŽBOR Michal		1	547
+420	Fedorčák Ján		0	713
+420	Ferenčík Ján	ž. Mária Semanová	0	800
+420	Ferenčík Ján	ž.Mária Kozáková	0	724
+420	Ferenčík Jozef	3	0	697
+420	Ferenčík Juraj	ž.Mária Nemcovská	1	158
+420	Ferenčíková Anna r. Ordošová		0	697
+420	Ferenčíková Mária r. Semanová		0	800
+420	Floriančič Emil		0	700
+420	Floriančičová Zuzana r. Bukatová		0	700
+420	Fortunáková Anna		1	106,460
+420	Freňová Anna r. Žipajová		1	129,732
+420	Frönkelová Lenka r. Roitenbergová		1	418
+420	Gondoľová Anna r. Remenická	1	0	699
+420	Havrila Juraj	ž. Mária Nadzamová	1	650,668,970
+420	Hrinda Andrej		0	340
+420	Hrindová Anna r. Semanová		0	340,385,452,771
+420	HRINDOVÁ Anna r. Semanová, SR		1	831
+420	Jakubová Mária	r. Ordoš Berešová	1	563,574
+420	Jakubová Mária r. Ordoš Berešová		0	452
+420	Jenčík Andrej	ž. Anna Košková	1	488,736,994
+420	Jenčo Jozef	ž. Mária Lukáčová	0	666
+420	Jenčo Michal		1	452,710
+420	Jenčo Michal	1	1	385,831
+420	Jenčová Mária r. Bukatová		0	806
+420	Jenčová Mária r. Lukáčová		0	666
+420	Kantulová Anna r. Bukatová		1	145,146,450,615,616,896,993
+420	Karabová Anna r. Bukatová		1	144,992
+420	KARAFA Ján		1	616
+420	KARAFA Ján	LSR	0	615
+420	Kišedová Verona r. Rusnáková		1	214,691
+420	Kondaš Andrej	ž. A. Marcinková	1	574
+420	Kondáš Andrej		1	452,476,563
+420	Kondaš Ján	1	1	390,474,475,563,816,857
+420	Kondáš Ján		1	116,452,476,835,938
+420	Kondaš Juraj	1	1	389
+420	Kondaš Juraj	mal	1	476
+420	Kondaš Juraj	syn Jána	1	389
+420	Kondaš Juraj	ž. Mária Bančanská	1	574,631
+420	Kondáš Juraj		1	116,389,390,452,474,475,563,682,816,835,857,938
+420	Kondaš Pavol	syn Jana	1	574,578
+420	Kondáš Pavol		1	116,476,563,578,835,938
+420	Kondáš Pavol	mal	0	452
+420	Kondaš Rastislav	Liběšovice okr.Louny	1	116,835,938
+420	Kondaš Rastislav	Liběšovice, okr. Louny	1	474
+420	Kondaš Rastislav	Liběšovice, okr. Louny ČR	0	816
+420	Kondaš Rastislav	Liběšovice,okr.Louny	0	857
+420	Kondaš Václav	Liběšovice okr.Louny	0	835
+420	Kondaš Václav	Liběšovice okr.Luony	1	116,938
+420	Kondaš Václav	Liběšovice, okr. Louny	1	474,475
+420	Kondaš Václav	Liběšovice, okr. Louny ČR	1	816
+420	Kondaš Václav	Liběšovice,okr.Louny	0	857
+420	Kondašová Alžbeta		1	476
+420	Kondašová Anna		1	476
+420	Kondašová Mária		1	476
+420	Kondašová Mária r. Bančanská		0	682
+420	Kondašová Verona	mal	1	476
+420	KOREŇOVÁ Mária r. Pristášová, SR		1	831
+420	Kostečková Slávka r. Kondášová	Neštenice	1	116,857,938
+420	Kostečková Slávka r. Kondášová	Neštěnice, ČR	1	816,835
+420	Koško Ján	3	1	453
+420	Koško Ján	ž. Anna Arendášová	1	453
+420	Koško Jozef	ž. Mária Bajusová	1	631,702
+420	Koško Juraj	syn Jana	1	639,736,875
+420	Koško Michal	2	1	453
+420	Koško Michal	slob	0	786
+420	Koško Michal	ž. Mária Bajusová	0	673
+420	Koško Michal	ž. Mária Semaníková	1	453
+420	KOŠKOVÁ Anna r. Orendášová		1	83,544
+420	Košková Elena r. Matisová		1	574
+420	Košková Mária	dcéra Jana	1	488,639,736,875,994
+420	Košková Mária	dcéra Jozefa	0	721
+420	Kovalčík-Lipa Michal, SR		1	803
+420	Kusová Mária r. Pristášová		1	457
+420	Kušnirová Mária r. Tirpaková		0	729
+420	Loffajová Emília r. Gašková		0	450,615,616
+420	Loffay Eduard		0	753
+420	Loffay Eduard r. Loffay		0	753
+420	Loffay Emil		0	753
+420	Loffay Otto		0	753
+420	Lupšak Mikuláš		1	475
+420	Lupšáková Zuzana r. Bumberová		1	390,474,475,816,857
+420	Majerníková Júlia	r. Ordoš Berešová	1	476
+420	Majcherová Helena r. Pristášová		1	457
+420	Mancošová Alžbeta r. Kondášová		1	452,563
+420	Molnárová Alžbeta	dcéra Vojtecha	0	784
+420	Mulač Andrej		1	457
+420	Mulačová Mária r. Bajusová		1	457
+420	ONUŠČÁK Ján		1	668,970
+420	Ordoš - Bérešová Mária		1	138,608
+420	Ordoš - Bérešová Mária	dcéra Michala	1	138
+420	Ordoš - Bérešová Mária	hluchonemá	1	135,865
+420	Ordoš -Béreš Andrej	ž.Mária Blanárová	1	135
+420	Ordoš -Bereš Ján, SR		1	831
+420	Ordoš-Bereš Andrej		1	137,138,608,977
+420	Ordoš-Béreš Andrej	ž.Mária Blanárová	1	138,865
+420	Ordoš-Bereš Ján, SR		1	385
+420	Ordoš-Bereš Michal		1	137,977
+420	Orendášová Anna		0	738
+420	Popovič Michal	ž. Ferenčíková Alžbeta	1	497
+420	Pristáš Andrej		1	187
+420	PRISTÁŠ Andrej	syn Andreja	1	102
+420	Pristáš Ján		0	742,769
+420	Pristáš Ján	ž. Mária Žipajová	0	675
+420	PRISTÁŠ Ján	syn Andreja	1	102
+420	Pristaš Juraj	ž. Anna Rusnáková	1	208
+420	Pristáš Michal		1	387,611,620,988
+420	PRISTÁŠ Michal	syn Andreja	1	102
+420	Pristáš Peter		1	798
+420	Pristáš Peter	syn Jana	0	452
+420	Pristáš Peter	syn Jozefa	1	49,50,51,187
+420	Pristášová Anna r. Blanárová		1	49,187,605,747,842,844,884
+420	PRISTÁŠOVÁ Anna r. Blanárová, SR		1	843
+420	Pristášová Anna r. Čelovská		0	741
+420	Pristášová Anna r. Parnahová		1	620,741
+420	Pristášová Anna r. Pristášová		1	620
+420	Pristášová Anna r. Rusnáková		0	385,452,775
+420	PRISTÁŠOVÁ Anna r. Rusnáková, SR		1	831
+420	Pristášová Elena r. Cimbalová		0	734
+420	Pristášová Helena r. Cimbalová		1	187,235,344,734,968
+420	PRISTÁŠOVÁ Helena r. Cimbalová, SR		1	618,1000
+420	Pristášová Mária	dcéra Andreja	1	756,831
+420	Pristášová Mária r. Košková		0	769
+420	Pristášová Mária r. Žipajová		0	675
+420	Romanová Mária r. Kondášová		1	452,563,574

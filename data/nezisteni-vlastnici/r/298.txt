@@ -1,0 +1,256 @@
+192	Mihalčiny Ján		0	10978
+192	Mihalčiny Jozef		0	10806
+192	Mihálová Alžbeta		0	10620
+192	Mihálová Apolonia r. Šimkovič		0	2454
+192	Mihálová Mária		0	8664
+192	Mihályová Juliana		0	11638,11653
+192	Mihok Štefan		0	10951
+192	Miholek Mária		0	10832
+192	Michálová Helena		0	8514,8520,9341,11638,11674
+192	Michálová Helena, SR		1	2853
+192	Mikulčáková Terézia r. Šišková		0	8574,11275,11638,11653
+192	Mikulič Anna		0	11680
+192	Mikulič Ján		0	11680
+192	Mikulka Terézia		0	9164
+192	Mikulová Júlia r. Macejková		0	8520,8574,11638,11653
+192	Milac Anna		0	11680
+192	Milac Brigita		0	10678
+192	Milac Jozef		0	11692
+192	Milac Martin		0	10669
+192	Milac Pavel		0	11091
+192	Milacová Anna r. Húšková		0	9573
+192	Milacová Terézia r. Žáček		0	11692
+192	Milnerová Ľudmila		0	8496
+192	Mjiezuková Anna		0	9395
+192	Mjiezuková Mária		0	10592
+192	Modrák Anna r. Vašíček		1	4139,10403
+192	Morávek Anna		0	9007
+192	Morávek Anna r. Blažek		0	11028
+192	Morávková Mária r. Vašíček		0	8829
+192	Moro Jozef		0	8496
+192	Moro Mária r. Čižmár		0	8465
+192	Moro Štefan		0	8496,8574,11638
+192	Moro Štefan	A	0	11653
+192	Morová Anna		0	8496
+192	Morová Helena r. Palkovič		0	8496
+192	Morová Ľudmila r. Markovičová		0	11638,11653
+192	Mračna Jozef		0	11552
+192	Mračna Kristína r. Neidlík		0	10613
+192	Mračna Mária	Horváth	0	2627
+192	Mračna Mária r. Horváth		1	2781,4739,4892
+192	Mračna Mária, SR	D: Horváth |	1	4597
+192	Mračna Paulína r. Emrich		0	10649
+192	Mračna Pavel	manželka:Mária Mračnová r.Pišťani	0	8929
+192	Mračna Štefan		0	9778
+192	Mračnová Alžbeta r. Mračna		0	9783
+192	Mračnová Elza r. Bártová		0	8574,11638,11653
+192	Mračnová Mária r. Horváthová		0	10467
+192	Mračnová Mária r. Pišťany		0	9421
+192	Mračnová Mária r. Štvrtecká		0	10581
+192	Mráz Anna		0	9176
+192	Mráz Anna r. Klempa		0	9631
+192	Mráz Anna r. Polák		0	9002
+192	Mráz Anton		0	8919
+192	Mráz Aurelia r. Malcovič		0	11594
+192	Mráz Eva r. Klempa		0	10971
+192	Mráz Helena r. Červenka		0	8651
+192	Mráz Ján		0	8497,10227
+192	Mráz Karolína		0	8465
+192	Mráz Mária		0	11642
+192	Mráz Matej		0	8465
+192	Mráz Ondrej		0	8465,9143,9316
+192	Mráz Paula r. Rehák		0	11414
+192	Mráz Pavel		0	8656
+192	Mráz Rozália r. Šimek		0	10919
+192	Mráz Štefan		0	11361
+192	Mráz Vendelín		0	10398
+192	Mráz Viliam		0	10340
+192	Mrázová Helena r. Šimek		0	11232
+192	Mrázová Mária r. Jurica		0	10133
+192	Mucha Anton		0	11638,11653
+192	Mucha Jozef		0	11147
+192	Mucha Pavel		0	8709
+192	Mucha Rozália r. Vacula		0	8981
+192	Mucha Štefan		0	8574,11638,11653
+192	Muchová Anna r. Šimek		0	10280
+192	Muchová Júlia r. Sokolová		0	8574,10457,11638,11653
+192	Muchová Rozália r. Matejovičová		0	8574,10729,11638,11653
+192	Mullerová Mária r. Hurbanová		1	2867,8445,11638
+192	Musil Karol		0	11334
+192	Násadová Helena r. Kovárová		0	8573,8574,11638,11653
+192	Nebilá Júlia r. Vachajová		0	8574,10110,11638,11653
+192	Nebilý Florián		0	11166
+192	Nebylí Juraj		0	8520
+192	Nebylý František		0	9902
+192	Nebylý Július		0	8574,8841,11638,11653
+192	Nebylý Martin		0	11366
+192	Nemcová Katerína r. Kafka		0	10069
+192	Nemec Alojz		0	8906
+192	Nosián Alžbeta		0	9480
+192	Nosián Anna		0	9315
+192	Nosián Júlia		0	10671
+192	Nosiánová Alžbeta		0	8712,10063
+192	Nosiánová Anna		0	8712,8896
+192	Nosiánová Júlia		0	8712,10335
+192	Oerdogh Anton		0	11050
+192	Oerdogh Rajmund		0	10549
+192	Ohnleitnerová Zuzana r. Pechová		0	8574,11638,11653
+192	Olšovská Anna		0	11584
+192	Olšovská Eda		0	11584
+192	Olšovská Fany r. Krippel		0	11097
+192	Olšovská Gizela		0	11584
+192	Ondriška Cyril		0	10497
+192	Ondrišková Terézia r. Trajlinek		0	11248
+192	Ondrovič Alžbeta r. Šišulák		0	10701
+192	Opálek Anna r. Salay		0	9025
+192	Opálek Ján		0	8574,9383,10230,10756,11638
+192	Opálek Ján	A	0	11653
+192	Opálek Ján	B	0	11653
+192	Opálek Ján	C	0	11653
+192	Opálek Jozef		0	8512,8574,11638,11653
+192	Opálek Jozef	A	0	11653
+192	Opálek Jozef	B	0	11653
+192	Opálek Jozef	C	0	11653
+192	Opalek Marek		0	9733
+192	Opálek Paulína r. Kratochvíl		0	10573
+192	Opálková Anna r. Salayová		0	212,4699
+192	Opálková Valéria r. Tomková		0	8574,11638,11653
+192	Ordog Ondrej		0	11674
+192	Ordoghová Valéria		0	8574,8715,11638,11653
+192	Ordoghová Valéria, SR		1	2865
+192	Osuská Anna r. Klempa		0	9247
+192	Osuská Rozália		0	8578
+192	Osuský Jozef		0	8578
+192	Ozábal Anna		0	11143
+192	Ozábal Emanuel		0	8574,11119,11638,11653
+192	Ozábal Emanuel	maloletý	1	2866
+192	Ozábal Rudolf		0	8574,10658,11638,11653
+192	Ozábal Rudolf, SR		1	2866
+192	Ozábalová Anna r. Jakubovičová		0	8574,9499
+192	Pálka Anna		0	8512
+192	Pálka Ján		0	8514,11217,11638
+192	Pálka Ján	A	0	8520,11653
+192	Pálka Jozef		0	8520,11638,11653
+192	Pálka Michal		0	8574,10057,11638
+192	Pálka Michal	A	0	11653
+192	Pálka Michal	B	0	11653
+192	Pálka Pavel		0	8512
+192	Pálka Štefan		0	8514,9323,11638
+192	Pálka Štefan	A	0	8520,11653
+192	Pálka Terézia		0	8497
+192	Pálka Zuzana		0	8573
+192	Pálková Agneša r. Vlková		0	8574,11638,11653
+192	Pálková Alžbeta r. Vallová		0	8574,11638,11653
+192	Palková Apolena r. Valla		0	10596
+192	Pálková Terézia r. Vallová		0	8574,9467,11638,11653
+192	Pálková Valéria		0	8497
+192	Palkovič Alojz		0	8496
+192	Palkovič Jozef		0	8496
+192	Palkovičová Katarína r. Šurina		0	9752
+192	Palkovičová Rozália r. Mucha		0	8709
+192	Papánek Bernardína r. Postenyi		0	8498
+192	Papánek Ernest		0	8465
+192	Papánek František		0	8579
+192	Papánek Imrich		0	8520,11638
+192	Papánek Johana		0	10129
+192	Papánek Jozef		0	8579,10946
+192	Papánek Paula r. Hladík		0	9283
+192	Papánek Rozália		0	8512
+192	Papánek Štefan		0	9509
+192	Papáneková Albína r. Stupavská		0	10159
+192	Papáneková Mária r. Macejka		0	10442
+192	Papáneková Mária r. Šipold		0	11084
+192	Papánková Alojzia r. Matejovičová		0	8520,11638
+192	Papánková Alojzia r. Matejovičová	A	0	11638,11653
+192	Pautschová Mária r. Milner		0	8496
+192	Pavelka Mária r. Majzun		0	10333
+192	Pavelka Mária r. Vrablec		0	11680
+192	Pavelka Mária r. Vrablic		0	10224
+192	Pavelka Zuzana r. Majzun		0	8660
+192	Pavelková Jozefa		0	9019
+192	Pavelková Jozefína		0	10859
+192	Pavelková Katarína r. Šišolák		0	11695
+192	Pavlík František		0	10556
+192	Pavlík Jozef		0	8574,11638,11653
+192	Pavlík Karol		0	11638,11653
+192	Pavlíková Apolonia r. Štefková		0	8574,11638,11653
+192	Pavlovič Ján		0	8496
+192	Pavlovič Pavol		0	10606
+192	Pavlovičová Agneša		0	9544
+192	Pavlovičová Agneša r. Kralovič		0	9426
+192	Pavúček Apolonia r. Šimkovič		0	8497
+192	Pavúček František		0	9393
+192	Pavúček František, maloletý maloletý		0	11638,11653
+192	Pavúček František, mladší mladší		0	8514,8520,11638
+192	Pavúček Jozef		0	8574,11653
+192	Pavúček Jozef, ž.Helena Nebylá ž.Helena Nebylá		0	8574,11653
+192	Pavúček Kamil		0	8573,8574
+192	Pavúček Kamil	A	0	11653
+192	Pavúček Milan		0	8512,8574
+192	Pavúček Milan	A	0	11653
+192	Pavúčková Rozália r. Jašová		0	8514,8520,11638
+192	Pavúčková Zuzana r. Šimkovič		0	8744
+192	Pečimon Ján		1	2846,11638
+192	Pečimon Ján	A	0	11653
+192	Pečimon Valéria r. Vajay		0	11353
+192	Pečimonová Jolana	Kovarík	1	2846
+192	Pecha Anna		0	10745
+192	Pecha Florián		0	8574,10811,11638,11653
+192	Pecha Helena		0	8496
+192	Pecha Jozef		0	8574,9629,10694,11638
+192	Pecha Jozef	A	0	11653
+192	Pecha Michal		0	8574,10986,11638
+192	Pecha Michal	A	0	11653
+192	Pecha Michal	B	0	11653
+192	Pecha Štefan		0	8574,11347,11638
+192	Pecha Štefan	A	0	10784
+192	Pecha Štefan	B	0	11653
+192	Pecha Štefan	C	0	11653
+192	Pecha Terézia r. Markovič		0	9463
+192	Pecha Tomáš		0	10437
+192	Pechová Anna		0	8514,8574,11638,11653
+192	Pechová Anna	A	0	8520
+192	Pechová Anna r. Stráská		0	5173,8514,8520,10051
+192	Pechová Apolonia		0	8574,11638,11653
+192	Pechová Helena		0	9950
+192	Pechová Helena r. Kovarovičová		0	8574,9161,11638,11653
+192	Pechová Júlia		0	8574,11638,11653
+192	Pechová Karolína		0	11450
+192	Pechová Katarína		0	10249
+192	Pechová Terézia r. Markovičová		0	8574,11638,11653
+192	Pechová Zuzana		0	8574,9648,11638,11653
+192	Pešek Mária r. Kovarík		0	11260
+192	Petrík Ján		0	8574,11638,11653
+192	Petrík Ján, SR		1	2845
+192	Petríková Helena r. Šimkovičová		1	2845
+192	Petríková Mária r. Škvoráková		0	11638,11653
+192	Pietová Johana r. Lacová		0	11638,11653
+192	Pikáleková Júlia, maloletá maloletá		0	8574,10743,11638,11653
+192	Podešva Ľudmila		0	10510
+192	Podešva Matej		0	8813
+192	Podhradská Alžbeta r. Hurbanová		1	2867,8445,11638
+192	Podhradská Mária r. Šimkovičová		0	11638
+192	Podhradský Florián		0	10562
+192	Podhradský Ján		0	10886,11674
+192	Pokorná Alžbeta r. Machata		0	10473
+192	Pokorná Mária, SR	D: Tomek |	1	4141
+192	Pokorná Rozália r. Hladíková		0	8574,8939,11638,11653
+192	Pokorný Ľudovít		0	11638,11653
+192	Polák Alžbeta r. Matejovič		0	8496
+192	Polák Anna r. Štefko		0	10047
+192	Polák Anton		0	11638
+192	Polák Anton, maloletý maloletý		0	9676,11638
+192	Polák Jozef		0	8574,11012,11638
+192	Polák Jozef	A	0	11653
+192	Polák Mária		0	10923
+192	Polák Mária r. Adamovič		0	10598
+192	Polák Mária r. Rehák		0	11437
+192	Polák Michal		0	11532
+192	Polák Rozália r. Kadlic		0	9217
+192	Polák Štefan		0	8459,8574,11638
+192	Polák Štefan	A	0	11653
+192	Polák Terézia r. Gašpárek		0	10328
+192	Poláková Alžbeta r. Mračnová		0	11638
+192	Poláková Anna r. Rigo		0	9748
+192	Poláková Mária		0	8949,10890
+192	Poláková Mária r. Matejovičová		0	8520,8574,10889,11638,11653

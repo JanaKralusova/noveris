@@ -57,5 +57,11 @@
       "title": "Články o pozemkoch, dedičstve a katastri | Noveris Legal",
       "description": "Praktické články o vysporiadaní pozemkov, zápisoch na liste vlastníctva, dedičstve, spoluvlastníctve a odkúpení pozemkov od štátu či SPF."
     }
+  },
+  "owners": {
+    "sk": {
+      "title": "Nezistení vlastníci pozemkov – vyhľadávanie v zozname SPF | Noveris Legal",
+      "description": "Vyhľadajte predkov v zozname nezistených vlastníkov pozemkov Slovenského pozemkového fondu (4,95 mil. záznamov, stav k 30. 6. 2026). Bez sťahovania súborov. Pomôžeme vám s vysporiadaním."
+    }
   }
 }

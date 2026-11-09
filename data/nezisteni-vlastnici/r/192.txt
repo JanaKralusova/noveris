@@ -1,0 +1,256 @@
+128	Krokvová Helena r. Cintulová		0	1647,1658
+128	Krupová Albína r. Závišová		0	475,530,1032,1403
+128	Kubináková Mária r. Brezová		0	736
+128	Kubincová Helena r. Cintulová	manž.Ondrej	0	1688
+128	Kubincová Helena r. Fojtlínová	manž.Jozef	0	1469
+128	Kubincová Terézia r. Grajzová		0	1504
+128	Kubinec Jozef	manž.Helena r.Fojtlinová	0	1469
+128	Kubinec Jozef	manž.Mária r.Sekáčová	0	1688
+128	Kučíková Ľudmila r. Šajdíková		0	722,865,866
+128	Lahataš Ferdinad Ľudovít	č.d.157/1941	0	1577
+128	Lahataš Štefan	č.d.157/1941	0	1577
+128	Lang Jozef	maloletý v r.1938,č.d.4947/1938	0	1590
+128	Langová Lina	č.d.4947/1938	0	1590
+128	Lasicová Júlia r. Bízková		0	771
+128	Lasicová Mária r. Bízková		0	1431
+128	Leška Pavol	manž.Alžbeta r.Vlková	0	827,1745
+128	Leška Tomáš		0	818
+128	Lešková Alžbeta	manž.Pavol	0	1745
+128	Ličáková Mária		0	274,488
+128	Ličáková Mária	č.d.824/1936	0	1094,1096,1554,1653,1700
+128	Linek František		0	490
+128	Linek František	č.d.336/1925	0	1383
+128	Línek Jozef	manž.Mária r.Šebestová	0	832,838
+128	Linek Šimon	manž.Katarína r.Búzková	0	832
+128	Linek Štefan	manž Júlia r. Drinková	0	421
+128	Lineková Júlia r. Drinková	manž. Štefan	0	421
+128	Linková Júlia r. Gočálová	manž.Michal	0	910,1417
+128	Linková Katarína r. Šedivá		0	417
+128	Linková Magdaléna r. Šedivá		0	417
+128	Lisoková Mária r. Drinková		0	1653
+128	Lišková Albína	č.d.2612/1937	0	1631
+128	Lišková Apoléna r. Cintulová		0	1506
+128	Lišková Mária r. Deščiková	č.d.1956/1949	0	1155,1156
+128	Lišková Mária r. Jankovičová		0	1597
+128	Macek Ján	č.d.720/1918	0	1601
+128	Macek Matej	č.d.720/1918	0	1601
+128	Macek Ondrej	č.d.720/1918	0	1601
+128	Macek Rudolf	č.d.2686/1936	0	1601
+128	Macek Rudolf	manž.Rozália r.Sekáčová	0	1449
+128	Macek Viktor	č.d.2686/1936	0	1601
+128	Macek Viktor	manž.Alžbeta r.Šedivá	0	1681
+128	Macek Vítezoslav	maloletý v r.1926,č.d.3247/1926	0	852
+128	Macková Eva r. Smikalová	manž.Ondrej	0	898
+128	Macková Hermína	č.d.720/1918	0	1601
+128	Macková Mária	maloletosť zrušená č.d.121/1929	0	1601
+128	Macková Štefánia r. Totková		0	1449,1681
+128	Macková Terézia r. Škápiková		0	1602
+128	Májek František		0	511,930,933
+128	Májek František	č.d.573/1947	0	924,925,926,927,928,929,931,932,934
+128	Májek František	maloletosť zrušená č.d.4197/1938	0	722,865,866,867
+128	Májek Ignác	manž.Helena r.Chrastínová	0	1485,1486
+128	Májek Ignác	manž.Júlia r.Dobiašová	0	1373,1485,1486
+128	Májek Imrich		0	510,511,930,933
+128	Májek Imrich	č.d.573/1947	0	924,925,926,927,928,929,931,932,934
+128	Májek Ján		0	511,930,933
+128	Májek Ján	č.d.573/1947	0	924,925,926,927,928,929,931,932,934
+128	Májek Ján	maloletý	0	511
+128	Májek Ján	manž.Alžbeta r.Drinková	0	1693
+128	Májek Ján	manž.Anna r.Totková	0	1610
+128	Májek Jozef		0	507,508,511,518,525,1785
+128	Májek Jozef	č.d.2977/1923	0	1153,1628
+128	Májek Jozef	manž.Mária r.Filípková	0	893,1272,1273,1341
+128	Májek Jozef	mladší,č.d.4936/1911	0	722,865,866,906
+128	Májek Michal	manž.Alžbeta r.Černá,č.d.573/1947	0	924,925,926,927,928,929,931,932,934
+128	Májek Michal	žen. s Alžbetou r. Černá	0	930,933
+128	Májek Michal	ženatý s Alžbetou r.Černá	0	511
+128	Májek Pavol	č.d.5103/1938	0	867
+128	Májek Peter	č.d.3753/1927	0	867,906
+128	Májek Štefan	manž.Mária r.Blanáriková	0	1485,1486
+128	Májek Tomáš	č.d.340/1918	0	1433
+128	Májková Alžbeta	č.p.4	0	1744
+128	Májková Alžbeta r. Drinková	č.d.6979/1934	0	1703
+128	Májková Alžbeta r. Totková	manž.Michal	0	910,911,912,1511
+128	Majková Anna r. Cintulová		0	559
+128	Májková Anna r. Totková	manž.Ján	0	910,911,912,1511,1610
+128	Májková Brigita		0	514
+128	Májková Brigita	maloletá	0	511
+128	Májková Helena r. Drinková	manž.Imrich	0	1130,1516
+128	Májková Katarína		0	563
+128	Májková Mária	maloletá	0	511
+128	Májková Mária r. Filípková	manž.Jozef,súrodenci Anna,Terézia,Rozália,Pavol	0	1272
+128	Májková Mária r. Lasicová		0	502
+128	Májková Terézia		0	511,930,933
+128	Májková Terézia	č.d.573/1947	0	924,925,926,927,928,929,931,932,934
+128	Malíková Mária r. Bilková	zomr.16.8.2007	0	886,887
+128	Marková Katarína r. Šedivá		0	1484,1537
+128	Matula Ján	manž. Júlia Sekáčová	0	646
+128	Matula Ján	manž.Júlia r.Sekáčová	0	1498
+128	Matula Jozef	č.d.4512/1930	0	1576
+128	Matula Jozef	manž. Terézia Fojtlínová	0	646
+128	Matula Štefan		0	646
+128	Matula Štefan	manž. Hedviga Morová	0	646
+128	Matula Štefan	manž.Alžbeta r.Janíčková	0	1538
+128	Matulová Alžbeta r. Janíčková	manž.Štefan	0	1538
+128	Matulová Júlia r. Sekáčová		0	973
+128	Matulová Katarína r. Kramárová		0	1474
+128	Matulová Magdaléna r. Pavlíková	č.d.1002/1917	0	956
+128	Megová Jozefína r. Drinková	zomr.1.3.2000	0	663,785,787,1006,1007,1008,1009,1010,1132,1364,1816,1819
+128	Mihálová Alžbeta r. Tománková	manž.Pavol	0	910
+128	Michálek Alojs	č.d.1177/1942	0	741,1236,1585,1657
+128	Michálek Antonín	maloletosť zrušená č.d.2705/1933,súrodenci Mária,Anna,Júlia maloletosť zrušená č.d.2705/1933,súrodenci Mária,Anna,Júlia	0	1656
+128	Michálek Jozef	č.d.1822/1949	0	1623
+128	Michálek Jozef	maloletý v r.1942,č.d.1177/1942	0	741,1236,1585,1657
+128	Michálek Matúš	č.d.1852/1922	0	1624
+128	Michálek Michal	súrodenci Mária,Anna,Júlia,Antonín	0	1656
+128	Michálek Štefan	č.d.5596/1934	0	1666
+128	Michálek Štefan	manž.Apolónia r.Jankovičová	0	1623
+128	Micháleková Katarína r. Drinková		0	1653
+128	Michalica Jozef	manž.Jozefína r.Gašpárková	0	1523
+128	Michalicová Helena r. Gašpárková		0	631,854
+128	Michalicová Mária r. Totková	manž.Alojz	0	741,1236,1585,1657
+128	Michalicová Verona r. Janíčková	manž.Ignác	0	1494
+128	Michálková Albína	č.d.87/1935	0	1278,1632
+128	Michálková Alžbeta r. Butašová	manž.Michal Michálek,prvý raz vydatá Tománková	0	835
+128	Michálková Alžbeta r. Totková	č.d.871/1916	0	1657
+128	Michálková Anna r. Vaneková		0	1592
+128	Michálková Jozefína r. Cintulová	naposledy bytom Borský Mikuláš	0	832,838
+128	Michálková Júlia	č.d.87/1935	0	1278,1632
+128	Michálková Katarína		0	274,488
+128	Michálková Katarína	č.d.824/1936	0	1094,1096,1554,1653,1700
+128	Michálková Mária	č.d.1177/1942	0	741,1236,1585,1657
+128	Mikesek Ján	slobodný,maloletý v r.1914,syn Tomáša	0	663,1478
+128	Mikesek Vendelín	manž.Ilona r.Drinková	0	663
+128	Mikeska Ján	manž.Anna r.Májková	0	1710
+128	Mikeska Ján	zomrel, manž.Helena r.Májková	0	1382
+128	Mikéska Ján	č.p.61	0	1727
+128	Mikesková Anna r. Májková	manž.Ján	0	1710
+128	Mikesková Helena r. Májková	zomr.12.5.1988,manž.Ján	0	787,929,1382
+128	Mikulka Alojz	sestra Albína Búzková	0	1081,1447
+128	Mikulka Floriš	manž.Ilona r.Škrovánková	0	1441
+128	Mikulová Magdaléna r. Bilková		0	1609
+128	Morávková Helena r. Šajdíková	manž.Viktor	0	792
+128	Moro Ignác	č.d.868/1918	0	910
+128	Moro Ján	č.d.1448/1922	0	910
+128	Moro Michal	č.d.868/1918	0	910
+128	Moro Michal	manž.Júlia r.Vodičková	0	910
+128	Móro Rudolf	zomr.30.7.2008	0	835
+128	Morová Anna r. Poláková		0	1581
+128	Morová Hedviga	č.d.1448/1922	0	910
+128	Mračnová Anna r. Baďurová		0	490,827,1068,1383
+128	Mračnová Júlia r. Baďurová	manž.Ján	0	1068,1383
+128	Müller Pavol	manž.Mária r.Škápiková	0	1443
+128	Müllerová Eva r. Filipková		0	1443
+128	Müllerová Helena r. Cintulová		0	486
+128	Mundoková Anna		0	550
+128	Mundoková Anna	č.d.3899/1934	0	905,1460,1475
+128	Muricová Helena r. Stachová	manž.Blažej	0	1400
+128	Němcová Pavlína	č.d.2694/1936	0	853
+128	Nesnadná Amália r. Šedivá	manž.Štefan	0	872,873,875,876
+128	Nesnadná Helena r. Totková		0	1467
+128	Nesnadná Johanna r. Otočková		0	855,1801
+128	Nesnadná Tereza r. Filipková	manž.Matej	0	1560
+128	Nesnadná Verona r. Černá	manž.Rudolf,bratia Jozef a Štefan,otec Ján	0	503
+128	Nesnadná Veronika r. Černá		0	504
+128	Nesnadný Ján	manž.Alžbeta r.Jankovičová	0	1617
+128	Nesnadný Jozef	manž.Helena r.Cintulová	0	1552
+128	Nesnadný Jozef	manž.Mária r.Dobiašová	0	1655,1824
+128	Nesnadný Jozef	súrodenci Mária,Pavol,Ján	0	1560
+128	Nesnadný Michal	manž.Magdaléna r.Šedivá	0	1655,1824
+128	Nesnadný Pavel		0	11
+128	Nesnadný Pavol		0	504
+128	Nesnadný Pavol	č.d.2011/1948	0	1467
+128	Nesnadný Pavol	manž.Anna r.Filípková	0	503
+128	Nesnadný Pavol	súrodenci Mária,Jozef,Ján	0	1560
+128	Nesnadný Pavol	žena Annar.Filípková	0	11
+128	Nesnadný Pavol	ženatý s Annou Filípkovou	0	504
+128	Obuchová Anna r. Matulová		0	646
+128	Ondrovičová Bernardína r. Bilková	zomrela v Rohožníku	0	1064,1065,1120
+128	Oravská Terézia r. Cintulová		0	557,558
+128	Orgoň Ján		0	488
+128	Orgoň Ján	maloletý v r.1916,č.d.582/1916	0	1096
+128	Orgoň Ludevít	maloletý v r.1922,č.d.2743/1922	0	1500,1611
+128	Orgoň Matej	maloletý v r.1922,č.d.2743/1922	0	1500,1611
+128	Orgoň Pavel	č.d.2743/1922	0	1500,1611
+128	Orgoň Štefan	maloletý v r.1922,č.d.2743/1922	0	1500,1611
+128	Orgoňová Alžbeta		0	1500,1611
+128	Orgoňová Jozefína	č.d.2743/1922	0	1500,1611
+128	Orgoňová Júlia	maloletá v r.1926	0	1500,1611
+128	Orgony Ján		0	220
+128	Otočka Ján	č.d.83/1962	0	855,1801
+128	Otočka Ján	manž.Mária r.Kassayová	0	855,1801
+128	Palkovičová Helena r. Škápiková		0	1600
+128	Paltram František		0	1384
+128	Paltramová Karolína r. Černá		0	792,1312,1320,1384,1406
+128	Patáková Mária r. Vaňková	brat František	0	1554
+128	Pavelková Mária r. Drinková		0	552
+128	Pavlík Alojz	č.d.1800/1939	0	1239,1240
+128	Pavlík Florian	č.d.1800/1939	0	1239,1240
+128	Pavlík Jozef	č.d.1800/1939	0	1239,1240
+128	Pavlík Pavel	maloletý v r.1917	0	956,1239,1240
+128	Pavlík Štefan	maloletý v r.1915,č.d.1117/1915	0	1556
+128	Pavlíková Apoléna	otec Michal	0	956
+128	Pavlíková Mária r. Šedivá	manž.Floriš	0	741,1236,1239,1240,1440,1441
+128	Pechová Anna r. Gočálová	manž.Štefan	0	910,1417
+128	Petrášová Terézia r. Drinková	manž.Ján	0	1708
+128	Petrík František	maloletý,č.d.10400/1912	0	888
+128	Petrík Ignác	maloletý v r.1911,č.d.4184/1911	0	417,1569
+128	Petrík Jozef	maloletý v r.1935	0	888,1648
+128	Petrík Matúš	manž.Mária r.Hlavenková	0	1662
+128	Petrík Ondrej	č.d.816/1921	0	1648
+128	Petrík Štefan		0	1648
+128	Petríková Anna r. Kramárová	manž.Gašpar	0	1614
+128	Petríková Mária	č.d.4184/1911	0	417,1569
+128	Petríková Mária	č.d.85/1935	0	888
+128	Petríková Mária r. Hlavenková	manž.Matúš	0	1662
+128	Petríková Mária r. Obuchová	Borský sv.Peter č.339	0	1521
+128	Petríková Mária r. Vaňková		0	1623,1624
+128	Petríková Terézia r. Škápiková		0	551,552
+128	Petríková Terézia r. Škápiková	manž.Alojz	0	1450
+128	Petrovičová Rozália	č.d.10398/1912	0	1122
+128	Petrovová Agneša r. Černá		0	792,891,895,914,915,1274,1276,1479,1561
+128	Pikálek Ondrej	manž.Katarína r.Šedivá	0	1659
+128	Pikálková Katarína r. Šedivá	manž.Ondrej	0	1659
+128	Poláček Florian	zomrel-D1056/83	0	1329
+128	Polačeková Helena r. Bilková		0	1476
+128	Poláčková Anna r. Bilková		0	1306
+128	Poláčková Helena	č.d.1397/1934	0	1397
+128	Polák Jozef	č.d.3247/1926	0	852
+128	Polák Tomáš		0	84
+128	Poláková Albína	malol.v r.1917, sestry Mária a Anna	0	1513
+128	Poláková Albína r. Filípková		0	503,504,1499
+128	Poláková Alžbeta	č.d.4947/1938	0	1590
+128	Poláková Anna	maloletosť zrušená č.d.2284/36,dcéra Šimona	0	1513
+128	Poláková Anna r. Holásková	č.d.1809/1949	0	1439,1654
+128	Poláková Anna r. Škrovánková		0	746,751,752,1438,1451,1531
+128	Poláková Mária	č.d.2978/1931	0	1513
+128	Polláková Júlia r. Burayová		0	1442
+128	Polláková Mária r. Májková	zomr.18.7.2006	0	865,866,867
+128	Posirová Júlia r. Brezová		0	1536
+128	Radochová Mária r. Gachová		0	698,738,989,990,991,992
+128	Rausková Mária r. Gachová		0	452,453
+128	Rebzerová Helena r. Vajdová	manž.Viktor	0	1591
+128	Rechtorovičová Helena		0	467
+128	Roháčková Mária r. Šajdíková	manž.Ján	0	792
+128	Rubinová Hermína	č.d.5596/1934	0	1666
+128	Rudavská Alžbeta	malol. v r.1917,súrodenci Katarína,Ján,Júlia,Ferdinad,Helen malol. v r.1917,súrodenci Katarína,Ján,Júlia,Ferdinad,Helen	0	768,1303,1332
+128	Rudavská Anna	slobodná,dcéra Jána	0	768,1303,1332
+128	Rudavská Helena	malol. v r.1917,súrodenci Katarína,Ján,Júlia,Ferdinad,Alžbe malol. v r.1917,súrodenci Katarína,Ján,Júlia,Ferdinad,Alžbe	0	768,1303,1332
+128	Rudavská Júlia	malol. v r.1917,súrodenci Katarína,Ján,Ferdinad,Helena,Alžb malol. v r.1917,súrodenci Katarína,Ján,Ferdinad,Helena,Alžb	0	1303,1332
+128	Rudavská Katarína	malol. v r.1917,súrodenci Ján,Júlia,Ferdinad,Helena,Alžbeta malol. v r.1917,súrodenci Ján,Júlia,Ferdinad,Helena,Alžbeta	0	768,1303,1332
+128	Rudavská Mária	č.d.1476/1925	0	768,1303,1332
+128	Rudavský Ferdinand	malol. v r.1917,súrodenci Katarína,Ján,Júlia,Helena,Alžbeta malol. v r.1917,súrodenci Katarína,Ján,Júlia,Helena,Alžbeta	0	768,1303,1332
+128	Rudavský Ján	malol. v r.1917,súrodenci Katarína,Júlia,Ferdinad,Helena,Al malol. v r.1917,súrodenci Katarína,Júlia,Ferdinad,Helena,Al	0	768,1303,1332
+128	Rudavský Ján	manž.Helena r.Jurovichová	0	1303,1332
+128	Rudavský Jozef	č.d.1476/1925	0	768,1303,1332
+128	Rudavský Štefan	č.d.1476/1925	0	768,1303,1332
+128	Ruchovanská Helena r. Búzková	manž.František	0	1445,1652
+128	Ruchovanský František	manž.Helena r.Búzková	0	1445
+128	Rusnáková Margita r. Drinková		0	1362,1394,1680
+128	Ružičková Mária r. Andelová	manž.Jozef	0	1491
+128	Ružičková Mária r. Stachová	č.d.665/1929	0	1400
+128	Ružičková Terézia r. Stachová	č.d.665/1929	0	1400
+128	Sakaláš Antonín	maloletý v r.1931,č.d.4475/1931	0	1029
+128	Sakaláš Vincenc	č.d.4475/1931	0	1029
+128	Sakalášová Agneša	mal	0	638
+128	Sakalášová Agneša	maloletá v r.1942,brat Viktor	0	841,1029

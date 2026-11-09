@@ -1,0 +1,256 @@
+1601	Potkan Štefan, SR	Sirota	1	2642
+1601	Potkan Teodor, SR		1	2642
+1601	Potkanová Angela, SR	Kontrová	1	2642
+1601	Potkanová Anna r. Hubová, SR	Križovská	1	2642
+1601	Potkanová Anna, SR		1	2642
+1601	Potkanová Dorota r. Šimková, SR	Mydliarová	1	2642
+1601	Potkanová Mária, SR		1	2642
+1601	Potkanová Mária, SR	Kontrová	1	2642
+1601	Potkanová Pavlína r. Turoňová, SR		1	2642
+1601	Prachárová Melánia r. Mydliarová, SR		1	2642
+1601	Pružinský Pavol, SR		0	761
+1601	Púček Jozef, SR	žen.s Johanou r.Capíkovou	1	2635
+1601	Puček Jozef, žen.s Johanou Capíkovou žen.s Johanou Capíkovou		0	3564
+1601	Rajský Štefan, SR		1	2642
+1601	Rajtková Rozália r. Bebjaková, SR		0	1217
+1601	Razeiová Anna r. Kodríková, SR		1	2642
+1601	Rázga Jozef, SR		1	2642
+1601	Rázga Ondrej, SR		0	1105
+1601	Rázga Štefan, SR		1	1137,2827,2858
+1601	Rázga Štefan, SR	predný	1	2860
+1601	Rázgová Jolana, SR		1	2827,2858
+1601	Rázgová Mária r. Gajdošová, SR		1	2642
+1601	Rázgová Rozália r. Cárachová, SR		0	1137
+1601	Revayová Zlatica r. Šindléryová, Nižná, SR	zomr. 28.06.1991	0	956,2917,3055
+1601	Samolej Anton, SR	Azu	1	2642
+1601	Samolej Gabriel, SR		1	2642
+1601	Samolej Gábriš, SR		1	2642
+1601	Samolej Ján, SR		1	2642
+1601	Samolej Ján, SR	Klatus	1	2642
+1601	Samolej Ján, SR	Svinka	1	2642
+1601	Samolej Juraj, SR		1	2642
+1601	Samolej Marek, SR		1	2642
+1601	Samolej Marek, SR	1	1	2642
+1601	Samolej Martin, SR		1	2642
+1601	Samolej Matúš, SR		1	2642
+1601	Samolej Ondrej, SR		1	2642
+1601	Samolej Raymond, SR		1	2642
+1601	Samolej Štefan, SR		1	2642
+1601	Samolej Teodor		1	2642
+1601	Samolej Tomáš		1	2642
+1601	Samolejová Agáta, SR		1	2642
+1601	Samolejová Agneša, SR		1	2642
+1601	Samolejová Anna r. Mydliarová, SR	Kasanová	1	2642
+1601	Samolejová Anna, SR		1	2642
+1601	Samolejová Dorota, SR		1	2642
+1601	Samolejová Eva r. Chlepková, SR	Kupčiková	1	2642
+1601	Samolejová Karolína, SR		1	2642
+1601	Samolejová Katarína, SR		1	2642
+1601	Samolejová Mária r. Lietavcová, SR		1	2642
+1601	Samolejová Monika r. Chlepková, SR		1	2642
+1601	Samolejová Pavlína, SR		1	2642
+1601	Samolejová Zuzana r. Mydliarová, SR		1	2642
+1601	Serafín Jozef, SR		1	2642
+1601	Serafín Ondrej, SR	Tišťan	1	2642
+1601	Serafín Valent, SR		1	2642
+1601	Serafín Vincent, SR		1	2642
+1601	Serafínová Alžbeta, SR		1	2642
+1601	Serafínová Gita r. Glembová, SR		1	2642
+1601	Serafínová Hermína r. Bullová, SR		1	2642
+1601	Serafínová Mária r. Tišťanová, SR		1	2642
+1601	Sirko Michal, SR		1	2642
+1601	Sirková Magdaléna, SR		0	1120
+1601	Sirková Mária r. Hollá, SR		1	1683,2681
+1601	Sirková Oľga, SR		0	1120
+1601	Sirota Eduard, SR		1	2642
+1601	Sirota Ignác, SR		1	2642
+1601	Sirota Ján, SR		1	2642
+1601	Sirota Konrád, SR		1	2642
+1601	Sirota Kornel, SR		1	2642
+1601	Sirota Matúš, SR		1	2642
+1601	Sirota Ondrej, SR		1	2642
+1601	Sirota Ondrej, SR	Brezniak	1	2642
+1601	Sirota Peter, SR		1	2642
+1601	Sirota Tomáš, SR		1	2642
+1601	Sirotová Anna r. Chlepková, SR	Žltková	1	2642
+1601	Sirotová Barbora, SR		1	2642
+1601	Sirotová Gabriela r. Chlepková, SR	Sedlárová	1	2642
+1601	Sirotová Mária, SR		1	2642
+1601	Sirotová Oľga r. Fidesová, SR		1	2642
+1601	Sirotová Viktória, SR		1	2642
+1601	Sirotová Zuzana r. Múková, SR		1	2642
+1601	Sivková Mária r. Hollá, SR		0	1229
+1601	Sklenár Ján, SR		1	2642
+1601	Slamová Hermína, SR		1	2642
+1601	Sliacka Mária r. Vieriková, SR		1	2642
+1601	Sliacka Zuzana r. Serafinová, SR		1	2642
+1601	Sliacka Zuzana, SR		1	2642
+1601	Sliacky Jozef, SR		1	2642
+1601	Sliačan Vojtech, SR		0	1797
+1601	Slimák Ján, SR		0	792,1207,1348,1617,1650,1727,1758,2262
+1601	Slimák Jozef, SR	2	0	792,793,1348,1616,1727,1813
+1601	Slimák Jozef, SR	st	0	1207
+1601	Slimák Juraj, SR		0	1207,1504,1727,1809,1881
+1601	Slimák Karol, SR		1	2517
+1601	Slimák Ľudmila, SR		1	2517
+1601	Slimák Ondrej, SR		1	1348,1866,1910,1960,2845
+1601	Slimák Ondrej, SR	Baka	1	804,2562
+1601	Slimák Peter, SR		0	1514,1830
+1601	Slimák Peter, SR	Babin	1	2428
+1601	Slimák Štefan, SR		1	1556,1948,2858
+1601	Slimáková Anna, SR	Kušová	0	818
+1601	Slimáková Božena r. Forgáčová, SR		0	840
+1601	Slimáková Božena, SR		0	1128,1218,3403
+1601	Slimáková Johana, SR		1	2707
+1601	Slimáková Katarína r. Janigová, SR		0	1355
+1601	Slimáková Katarína r. Lacová, SR		0	1947
+1601	Slimáková Ľudmila, SR		0	825,1128,1651,3403
+1601	Slimáková Mária r. Slimáková, SR		1	1669,2666
+1601	Slimáková Mária, SR		0	1037,1467
+1601	Slimáková Rozália, SR		1	2687
+1601	Slimáková Štefánia r. Jančiarová, SR		1	983,987,1946,2414,2511,3036,3053
+1601	Slimáková Zuzana r. Janigová, SR		0	1482
+1601	Slimáková Zuzana r. Slimáková, SR		0	1054,1290,1423
+1601	Slimáková Zuzana, SR		0	1920
+1601	Smolenová Žofia r. Šindléryová, SR		0	1332
+1601	Smolková Bedriška r. Grauzová, SR		1	803,1216,1767,2561,2642
+1601	Staš Andrej, SR	Kurňava	1	2642
+1601	Staš Ján, SR	Kurňava	1	2642
+1601	Staš Jozef, SR	Husarčík	1	2642
+1601	Staš Juraj, SR	Kurňava	1	2642
+1601	Staš Ondrej, SR	Kurňava	1	2642
+1601	Staš Ondrej, SR	Stanislav	1	2642
+1601	Staš Peter, SR	Kurňava	1	2642
+1601	Staš Vendelín, SR		1	2642
+1601	Stašová Anna r. Kurpašová, SR		1	2642
+1601	Stašová Anna r. Mráznicová, SR	Kurňavová	1	2642
+1601	Stašová Anna, SR	Závodná	1	2642
+1601	Stašová Františka, SR	Závodná	1	2642
+1601	Stašová Monika r. Kurpašová, SR		1	2642
+1601	Strelinger Imrich, SR		0	1334
+1601	Strelingerová Katarína r. Glűcksthalová, SR		0	1041
+1601	Svrčan František, SR	Dudáš	1	2642
+1601	Svrčan Ondrej, SR		1	2642
+1601	Svrčeková Antónia, SR		1	2642
+1601	Svrčeková Mária r. Poliaková, SR		1	2642
+1601	Svrčeková Terézia, SR		1	2642
+1601	Šefranko Valent, SR		0	1168
+1601	Šida Anton, SR		0	1231
+1601	Šida Jozef, SR		1	2824,2828
+1601	Šida Július, SR		1	1231,2826
+1601	Šida Juraj, SR		1	2388,2824,2828
+1601	Šida Leopold, SR		1	2868
+1601	Šidová Alžbeta, SR		0	1230
+1601	Šidová Arana r. Laclavíková, SR		1	2824,2826,2828
+1601	Šidová Katarína r. Mišíková, SR		1	2903
+1601	Šidová Margita, SR		1	2868
+1601	Šidová Mária, SR		0	1230
+1601	Šidová Zlatica r. Laclaviková, SR		0	1231
+1601	Šimko Bonifác, SR	Potkan	1	2642
+1601	Šimko Cyril, SR		1	2642
+1601	Šimko Gabriel, SR	Kajda	1	2642
+1601	Šimko Ján, SR		1	2642
+1601	Šimko Ján, SR	Mydliar	1	2642
+1601	Šimko Jozef, SR	Potkan	1	2642
+1601	Šimko Juraj, SR	Husarčík	1	2642
+1601	Šimko Karol, SR	Kajda	1	2642
+1601	Šimko Mikuláš, SR		1	2642
+1601	Šimko Ondrej, SR	Kajda	1	2642
+1601	Šimko Štefan, SR	Glemba	1	2642
+1601	Šimko Štefan, SR	Kajda	1	2642
+1601	Šimko Tomáš, SR		1	2642
+1601	Šimková Anna r. Valušiaková, SR	Kajdová	1	2642
+1601	Šimková Anna, SR	Kajdová	1	2642
+1601	Šimková Apolónia, SR	Kajdová	1	2642
+1601	Šimková Helena, SR	Kajdová	1	2642
+1601	Šimková Hermína, SR	Kajdová	1	2642
+1601	Šimková Juliana r. Kajdová, SR		1	2642
+1601	Šimková Juliana, SR		1	2642
+1601	Šimková Kristína, SR	Kajdová	1	2642
+1601	Šindléry Albert, SR		1	1650,2976,3004,3615
+1601	Šindléry Alojz		0	3470
+1601	Šindléry Alojz, SR		0	2037,2066,2082,3603
+1601	Šindléry Andrej, SR		0	2101
+1601	Šindléry Augustín, SR		0	832,982,1538,1644,1682,1921
+1601	Šindléry Bartolomej, SR		1	1332,1386,1477,2642,3145
+1601	Šindléry Bartolomej, SR	Papiernik	1	2642
+1601	Šindléry Bertalan, SR		1	2642
+1601	Šindléry František, SR		1	1146,1398,1467,2852
+1601	Šindléry Gabriel r. Šindléry, Novoveská 1/1, Ružomberok, PSČ 034 01, SR	zomr. 27.03.2000	0	956,2917
+1601	Šindléry Gabriel, SR		0	1183,1921
+1601	Šindléry Gustáv, SR		0	832,898,1921
+1601	Šindléry Ján		0	3474
+1601	Šindléry Ján, Pavkov Pavkov		0	3461
+1601	Šindléry Ján, SR		1	881,1297,1393,1537,1544,1693,1997,2094,2099,2101,2102,2642
+1601	Šindléry Ján, SR	2	0	956
+1601	Šindléry Ján, SR	Papiernik	1	2642
+1601	Šindléry Ján, SR	Pavkov	1	956,2049,2642
+1601	Šindléry Jozef, SR		1	1696,2642,2743,2935,3005,3006,3343
+1601	Šindléry Jozef, SR	Širan	1	1468,1469,1552,2642
+1601	Šindléry Jozef, SR	zmočil	0	956
+1601	Šindléry Jozef, SR	Zmočila	1	2642
+1601	Šindléry Jozef, SR	žen.s Annou r.Ondrejkovou	1	2349
+1601	Šindléry Jozef, žen.s Annou r.Ondrejkovou žen.s Annou r.Ondrejkovou		0	3533
+1601	Šindléry Ľubomír		1	2783
+1601	Šindléry Mária, SR		0	2094
+1601	Šindléry Matej, SR		1	956,2642,3006
+1601	Šindléry Matúš		0	3475
+1601	Šindléry Matúš, SR		1	881,1544,1995,2077,2102,2352
+1601	Šindléry Matúš, SR	žen. s Rozáliou r. Dutkovou	1	2935
+1601	Šindléry Matúš, SR	žen.s Rozáliou r.Rázgovou	1	2935
+1601	Šindléry Miroslav, Biely Potok, Ružomberok, Pod Hliniskom 309/60, zom. 17.09.2001 Biely Potok, Ružomberok, Pod Hliniskom 309/60, zom. 17.09.2001		0	3470
+1601	Šindléry Ondrej, SR		1	1834,2077,2102,2352,2935
+1601	Šindléry Ondrej, SR	Pavkov	0	1544
+1601	Šindléry Pavol		0	3470
+1601	Šindléry Pavol, SR		1	2037,2066,2082,2101,2102,2108,2848,2935,3005,3343,3603
+1601	Šindléry Peter, SR		1	956,2642
+1601	Šindléry Stanislav, SR		1	2642,2923
+1601	Šindléry Štefan		1	2065,2743,3160,3161,3162,3463
+1601	Šindléry Štefan, SR		1	956,1138,1363,1464,1518,1537,1696,1756,1911,2048,2059,2066,2082,2101,2102,2108,2112,2642,2743,2808,2935,3004,3005,3006,3343,3603,3615
+1601	Šindléry Štefan, SR	Heliodor	1	2642
+1601	Šindléry Štefan, SR	pastier	0	956
+1601	Šindléry Štefan, SR	Širan	1	1464,1696,1928,2642,2935
+1601	Šindléry Štefan, SR	Vojak	1	2642
+1601	Šindléry Štefan, SR	žen.s Otíliou r. Janigovou	1	2802
+1601	Šindléry Viliam, SR		1	2783
+1601	Šindléry Vojtech, SR		0	1266
+1601	Šindléryová Anna, 034 71, Ludrová, č. 289, SR		0	3603
+1601	Šindléryová Augustína r. Hubová, SR		1	1578,2541,2546
+1601	Šindléryová Aurélia r. Petrová, SR		1	2576
+1601	Šindléryová Eva r. Kollová, SR		0	881,956,1297,1393,1544
+1601	Šindléryová Eva, SR		0	881,1544
+1601	Šindléryová Františka r. Tišťanová, SR	Serafínová	1	2642
+1601	Šindléryová Helena r. Slimáková, SR		0	1397
+1601	Šindléryová Iveta		1	2783
+1601	Šindléryová Katarína r. Kmeťová, SR		0	2134
+1601	Šindléryová Klára, SR		1	1146,1398,1467,2852
+1601	Šindléryová Magdaléna, SR		1	1693,2917
+1601	Šindléryová Margita r. Jančiarová, SR		1	3053
+1601	Šindléryová Margita r. Tholtová, SR		0	1038,1211
+1601	Šindléryová Mária r. Cibulková, SR		0	1553
+1601	Šindléryová Mária r. Dutková, SR		1	2935
+1601	Šindléryová Mária r. Kubačková, SR		0	1926
+1601	Šindléryová Mária r. Maršalová, SR		0	1350,1621,1979
+1601	Šindléryová Mária r. Poliaková		0	2065,3160,3161,3162
+1601	Šindléryová Mária r. Poliaková, SR		1	1464,1696,2935,3004,3615
+1601	Šindléryová Mária r. Poliaková, SR	Širanová	0	1928
+1601	Šindléryová Mária r. Šindléryová		0	3463
+1601	Šindléryová Mária r. Šindléryová, SR		0	2048,2059
+1601	Šindléryová Mária r. Tholtová, SR		1	2121,3017
+1601	Šindléryová Mária, SR		1	798,1265,1528,1538,1578,2077,2083,2099,2101,2102,2108,2112,2115,2352,2546,2547,2935,3005,3036,3343,3574
+1601	Šindléryová Mária, SR	ml	0	2099
+1601	Šindléryová Marieta, SR		1	2783
+1601	Šindléryová Marta r. Nováková, SR		1	2783
+1601	Šindléryová Oľga, SR		0	1973
+1601	Šindléryová Otília r. Janigová, SR		1	2802
+1601	Šindléryová Zuzana r. Kajúchová, SR		0	1239
+1601	Šindléryová Zuzana r. Petrová, SR		0	1138
+1601	Šindléryová Žofia r. Šindléryová, SR		0	1386,1477,3145
+1601	Šipoš Antonín, SR		0	1982
+1601	Šlachtová Jolana r. Hýrošová		0	1770,3175
+1601	Šoltésová Zuzana, SR		0	1231
+1601	Šooš František, SR		1	2618
+1601	Šooš Ján, SR		1	2805,2849
+1601	Šooš Milan, SR	žen. s Emou r.Ťažandlákovou	1	2942
+1601	Šooš Ondrej, SR		1	2849
+1601	Šoošová Ema r. Ťažandláková, SR		1	2942

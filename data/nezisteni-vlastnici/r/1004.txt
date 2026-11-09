@@ -1,0 +1,256 @@
+584	Juhász Bálint		1	433,439
+584	Juhász Bálint r. Juhász		0	874
+584	Juhász Emerich		1	433
+584	Juhász Imrich		1	211,433,511,686,704,726
+584	Juhász Imrich r. Juhász		0	954,1148,1149,1150,1152,1153,1154
+584	Juhász Jozef		1	433,439
+584	Juhász Jozef r. Juhász		0	1093,1148,1149,1150,1152,1153,1154,1158
+584	Juhász Karol r. Juhász		0	1019,1148,1149,1150,1152,1153,1154,1158
+584	Juhász Mikuláš r. Juhász		0	1158
+584	Juhász Valent r. Juhász		0	773,1148,1149,1150,1152,1153,1154,1158
+584	Juhászová Anna r. Tóthová	jakab	1	398,859
+584	Juhászová Apolónia r. Juhászová		0	1158
+584	Juhászová Juliana r. Koreňová		0	511
+584	Juhászová Juliana r. Koreňová	manž. Štefan	0	815,1148,1149,1150,1152,1153,1154
+584	Juhászová Margita		1	433,439
+584	Juhászová Margita r. Juhászová		0	988,1148,1149,1150,1152,1153,1154,1158
+584	Juhászová Mária	1	1	433,439
+584	Juhászová Mária r. Juhászová		0	1072,1158
+584	Juhászová Terézia		0	511
+584	Juhászová Terézia r. Juhászová		0	1148,1149,1150,1152,1153,1154,1158
+584	Juhászová Žofia		0	511
+584	Juhászová Žofia r. Juhászová		0	1018,1148,1149,1150,1152,1153,1154
+584	Kartík Artúr r. Kartík		0	754
+584	Kartík Imrich r. Kartík		0	1158
+584	Kartík Ján		1	233,705,706,727
+584	Kartík Ján r. Kartík		0	1004
+584	Kartík Jozef		1	401
+584	Kartík Juraj	ž. Alžbeta Potreczová	0	511
+584	Kartík Juraj r. Kartík	manž. Alžbeta Potreczová	0	820,1148,1149,1150,1152,1153,1154
+584	Kartík Martin	mal	0	511
+584	Kartík Martin r. Kartík	mal	0	1148,1149,1150,1152,1153,1154
+584	Kartík Ondrej r. Kartík		0	1158
+584	Kartík Peter r. Kartík		0	1158
+584	Kartíková Alžbeta r. Potreczová		0	1155
+584	Kartíková Barbora	mal	0	511
+584	Kartíková Barbora r. Kartíková	mal	0	1148,1149,1150,1152,1153,1154
+584	Kartíková Juliana	mal	0	511
+584	Kartíková Juliana r. Kartíková	mal	0	1148,1149,1150,1152,1153,1154
+584	Kartíková Margita	mal	0	511
+584	Kartíková Margita r. Juhászová		0	511,1076,1148,1149,1150,1152,1153,1154,1158
+584	Kartíková Margita r. Kartíková	mal	0	1083,1148,1149,1150,1152,1153,1154,1158
+584	Kartíková Markéta r. Juhászová		1	433
+584	Kartiková Terézia	mal	0	511
+584	Kartíková Terézia r. Kartíková	mal	0	1148,1149,1150,1152,1153,1154
+584	Klein Bartolomej r. Klein		0	998
+584	Klincsák František		1	452
+584	Klincsák Ladislav		1	452
+584	Klincsáková Barbora		1	452
+584	Klincsok František	mal	0	511
+584	Klincsok František r. Klincsok		0	1147,1148,1149,1150,1152,1153,1154
+584	Klincsok Ladislav r. Klincsok		0	1147,1148,1149,1150,1152,1153,1154
+584	Klincsoková Anna r. Viczénová		0	1147,1148,1149,1150,1152,1153,1154
+584	Klincsoková Barbora r. Klincsoková		0	1147,1148,1149,1150,1152,1153,1154
+584	Klinčák František		0	511
+584	Klinčák Ladislav		0	511
+584	Klinčáková Anna r. Viczénová		0	511
+584	Klinčáková Barbora		0	511
+584	Klinčok Ladislav	mal	0	511
+584	Klinčoková Barbora	mal	0	511
+584	Koreň Antal		1	211,686,704,726
+584	Koreň Antal r. Koreň		0	814,1147
+584	Koreň Anton		0	511
+584	Koreň Anton r. Koreň		0	987,1148,1149,1150,1152,1153,1154,1158
+584	Koreň Elemír	mal	1	211,437,686,704,726
+584	Koreň Elemír r. Koreň	mal	0	1014
+584	Koreň František r. Koreň		0	1090,1158
+584	Koreň Illés r. Koreň		0	1158
+584	Koreň Jozef	1	1	233,705,706,727
+584	Koreň Jozef	neb	0	211,686,704,726
+584	Koreň Jozef r. Koreň	1	0	941
+584	Koreň Jozef r. Koreň	neb	0	979,1158
+584	Koreň Július		1	438,511
+584	Koreň Július	mal	0	511
+584	Koreň Július r. Koreň	mal	0	802,1147,1148,1149,1150,1152,1153,1154,1158
+584	Koreň Juraj	tubi, ž.Katarína Sagaová	0	511
+584	Koreň Juraj r. Koreň	tubi, manž. Katarína Sagaová	0	1148,1149,1150,1152,1153,1154,1158
+584	Koreň Ladislav	mal	1	211,437,686,704,726
+584	Koreň Ladislav r. Koreň	mal	0	1063
+584	Koreň Margita r. Viczén	Františková	0	137,1178
+584	Koreň Mikuláš	ž. Katarína Bodnárová	0	511
+584	Koreň Mikuláš	ž.Katarína Bodnárová	0	511
+584	Koreň Mikuláš r. Koreň	manž. Katarína Bodnárová	0	1148,1149,1150,1152,1153,1154,1158
+584	Koreň Rudolf	dedí jeho manželka	0	511
+584	Koreň Rudolf r. Koreň		0	1148,1149,1150,1152,1153,1154
+584	Koreň Štefan		1	233,511,705,706,727
+584	Koreň Štefan	mal	0	415
+584	Koreň Štefan	ml	0	511
+584	Koreň Štefan	Viczén csuri	0	511
+584	Koreň Štefan r. Koreň		0	1021,1148,1149,1150,1152,1153,1154,1158
+584	Koreň Štefan r. Koreň	ml	0	826,1148,1149,1150,1152,1153,1154
+584	Koreň Štefan r. Koreň	Viczén csuri	0	1148,1149,1150,1152,1153,1154
+584	Koreň Vincent r. Koreň		0	1158
+584	Koreň Vojtech		1	233,414,511,705,706,727,1205
+584	Koreň Vojtech r. Koreň		0	971,1148,1149,1150,1152,1153,1154
+584	Koreňová Alžbeta		0	511
+584	Koreňová Alžbeta r. Koreňová		0	1148,1149,1150,1152,1153,1154
+584	Koreňová Anna		1	233,705,706,727
+584	Koreňová Anna	mal	0	415
+584	Koreňová Anna r. Koreňová		0	1049
+584	Koreňová Anna r. Koreňová	1	0	1110
+584	Koreňová Barbora r. Bajúszová		0	834,1158
+584	Koreňová Barbora r. Bajúszová	1	0	1073
+584	Koreňová Barbora r. Koreňová		0	1147
+584	Koreňová Barbora r. Raganová		0	511
+584	Koreňová Barbora r. Reganová		0	511,1148,1149,1150,1152,1153,1154
+584	Koreňová Katarína r. Reganová		0	1150
+584	Koreňová Magdaléna		0	511
+584	Koreňová Magdaléna r. Derdová		0	511,1147,1148,1149,1150,1152,1153,1154,1158
+584	Koreňová Magdaléna r. Koreňová		0	1148,1149,1150,1152,1153,1154,1158
+584	Koreňová Margita		0	415
+584	Koreňová Mária		0	511
+584	Koreňová Mária r. Dusová		0	511
+584	Koreňová Mária r. Duszaová		0	511
+584	Koreňová Mária r. Duszová		0	1148,1149,1150,1152,1153,1154
+584	Koreňová Mária r. Koreňová		0	1148,1149,1150,1152,1153,1154
+584	Koreňová Zuzana r. Viczénová		0	511
+584	Koreňová Zuzana r. Viczénová	manž. Rudolf	0	947,1147,1148,1149,1150,1152,1153,1154,1158
+584	Kovács Bálint		1	424
+584	Kovács Gregor r. Kovács		0	1148,1149,1150,1152,1153,1154
+584	Kovács Imrich		1	226,233,705,706,727
+584	Kovács Imrich r. Kovács		0	958,1148,1149,1150,1152,1153,1154,1158
+584	Kovács Ján		1	211,686,704,726
+584	Kovács Ján r. Kovács		0	1156
+584	Kovács Jozef		1	226,233,705,706,727
+584	Kovács Jozef r. Kovács		0	921,1148,1149,1150,1152,1153,1154
+584	Kovács Jozef r. Kovács	matyo	0	1023
+584	Kovács Jozef r. Kovács	ozarka	0	1158
+584	Kovács Jozef r. Kovács	zomrel, Budapešť	0	884
+584	Kovács Juraj	vereb	1	420
+584	Kovács Juraj r. Kovács		0	1069
+584	Kovács Juraj r. Kovács	bojka	0	1158
+584	Kovács Juraj r. Kovács	mengyi, manž. Katarína Kartíková	0	1148,1149,1150,1152,1153,1154
+584	Kovács Juraj r. Kovács	vereb	0	797
+584	Kovács Martin r. Kovács		0	828,1148,1149,1150,1152,1153,1154
+584	Kovács Melichar r. Kovács	mengyi, bývalý vojak	0	1148,1149,1150,1152,1153,1154,1155
+584	Kovács Mengyi r. Kovács		0	1054
+584	Kovács Mikuláš r. Kovács		0	1158
+584	Kovács Ondrej	bajka, ž. Anna Szepešiová	0	511
+584	Kovács Ondrej	toszko	1	424
+584	Kovács Ondrej	tusko	1	423
+584	Kovács Ondrej r. Kovács	Bajka, manž. Anna Szepešiová	0	1148,1149,1150,1152,1153,1154,1158
+584	Kovács Pavel		1	211,558,686,704,726
+584	Kovács Pavel r. Kovács		0	1026
+584	Kovács Peter r. Kovács	Bajka	0	1158
+584	Kovács Rudolf r. Kovács		0	1158
+584	Kovács Štefan r. Kovács	Bajka	0	824
+584	Kovács Štefan r. Kovács	mengyi, manž. Žofia Slivková	0	1148,1149,1150,1152,1153,1154
+584	Kovács Valent r. Kovács	ž. Barbora, deťom narodeným v manželstve	0	1148,1149,1150,1152,1153,1154,1158
+584	Kovácsová Barbora		1	233,705,706,727
+584	Kovácsová Barbora r. Kovácsová		0	1102,1148,1149,1150,1152,1153,1154
+584	Kovácsová Júlia		1	233,705,706,727
+584	Kovácsová Juliana r. Kovácsová		0	1007,1148,1149,1150,1152,1153,1154,1158
+584	Kovácsová Magdaléna r. Kovácsová		0	1147
+584	Kovácsová Magdaléna r. Kovácsová	mengyi, slobodná	0	1148,1149,1150,1152,1153,1154,1155
+584	Kovácsová Margita r. Brázová	manž. Ľudovít	0	861
+584	Kovácsová Margita r. Kovácsová	mal	0	1147,1148,1149,1150,1152,1153,1154
+584	Kovácsová Mária r. Micskiová	vd., manž. Juraj	0	977
+584	Kovácsová Mária r. Moravcsíková		1	397
+584	Kovácsová Markéta r. Kovácsová	mal	0	1147,1148,1149,1150,1152,1153,1154
+584	Kovácsová Zuzana r. Matulková	kotves	0	1148,1149,1150,1152,1153,1154
+584	Kovácsová Zuzana r. Molnárová		0	1148,1149,1150,1152,1153,1154
+584	Kovácsová Žofia r. Slivková	mengyi	0	1148,1149,1150,1152,1153,1154
+584	Kováč Arpád	Držkovce 133	0	429
+584	Kováč Gregor		0	511
+584	Kováč Imrich		0	511
+584	Kováč Jozef		0	511
+584	Kováč Jozef	Budapešť, MR zomrel	1	705
+584	Kováč Jozef	zomrel; Budapešť	1	233
+584	Kováč Jozef r. Kováč	Budapešť, MR, zomrel	1	706
+584	Kováč Jozef r. Kováč	Budapešť, zomrel, MR	1	727
+584	Kováč Juraj	mengyi, ž.Katarína Kartíková	0	511
+584	Kováč Martin		1	233,511,705,706,727
+584	Kováč Matydová Judita r. Leštáková		0	511,1148,1150,1152,1153,1154
+584	Kováč Matydová Margita r. Leštáková		0	1149
+584	Kováč Melichar	mengyi, bývalý vojak	0	511
+584	Kováč Pavel		1	233,705,706,727
+584	Kováč Štefan	mengyi, ž.Žofia Slivková	0	511
+584	Kováč Valentín	ž.Barbora, deťom narodeným v manželstve	0	511
+584	Kováčová Barbara r. Kováčová		0	511
+584	Kováčová Juliana		0	511
+584	Kováčová Magdaléna	mengyi, slobodná	0	511
+584	Kováčová Margita	mal	0	511
+584	Kováčová Mária r. Leštáková		0	511
+584	Kováčová Markéta	mal	0	511
+584	Kováčová Zuzana r. Matulková	kotves	0	511
+584	Kováčová Zuzana r. Molnárová		0	511
+584	Kováčová Žofia r. Slivková	mengyi	0	511
+584	Kristian Ján r. Kristian		0	1160
+584	Kristiánová Mária r. Galová		0	1160
+584	Krostianová Anna r. Duszaová		0	511
+584	Krostianová Anna r. Duszová		0	1148,1149,1150,1152,1153,1154
+584	Lányi Ján	kuti k.ž. Mária Horvátová	1	629
+584	Lassan Pavel		0	511
+584	Lassán Pavel r. Lassán		0	1148,1149,1150,1152,1153,1154
+584	Lašan Pavel		0	511
+584	Lašan Pavel r. Lašan		0	1148,1149,1150,1152,1153,1154
+584	Lefkovič Lázár r. Lefkovič		0	1158
+584	Lefkovič Martin		0	511
+584	Lefkovič Martin r. Lefkovič		0	1148,1149,1150,1152,1153,1154
+584	Lešták Augustín r. Lešták		0	1147
+584	Lešták František	ml	0	511
+584	Lešták František r. Lešták	ml	0	743,847,1148,1149,1150,1152,1153,1154,1158
+584	Lešták Ján		0	511
+584	Lešták Ján	nižný ž. Judita Kovácsová	0	511
+584	Lešták Ján r. Lešták		0	1148,1149,1150,1152,1153,1154
+584	Lešták Ján r. Lešták	nižný, manž. Judita Kovácsová	0	1148,1149,1150,1152,1153,1154
+584	Lešták Juraj	nižný; ž.Judita Szabonyová	0	511
+584	Lešták Juraj	vyšný, vd	0	511
+584	Lešták Juraj r. Lešták	nižný, manž. Judita Szabonnyová	0	1148,1149,1150,1152,1153,1154
+584	Lešták Juraj r. Lešták	vd., vyšný	0	1148,1149,1150,1152,1153,1154,1158
+584	Lešták Pavol František		0	638
+584	Lešták Pavol r. Lešták		0	1158
+584	Lešták Štefan	nižný, ž. Juliana Gibliková	0	511
+584	Lešták Štefan r. Lešták	nižný, manž. Júlia Gibliková	0	1148,1149,1150,1152,1153,1154,1158
+584	Leštáková Alžbeta r. Leštáková		0	1158
+584	Leštáková Helena	mal	0	511
+584	Leštáková Helena r. Leštáková	mal	0	1148,1149,1150,1152,1153,1154
+584	Leštáková Katarína		0	639
+584	Lukáčová Terézia r. Stolárová		0	511,1148,1149,1150,1152,1153,1154
+584	Luvčoková Margita r. Viczénová		0	511,1148,1149,1150,1152,1153,1154
+584	Magyar Štefan		0	511
+584	Magyar Štefan r. Magyar		0	1148,1149,1150,1152,1153,1154
+584	Magyarová Margita		1	419
+584	Magyarová Margita	mal	1	420,511
+584	Magyarová Margita r. Magyarová	mal	0	1148,1149,1150,1152,1153,1154
+584	Matulka Michal		0	511
+584	Matulka Michal r. Matulka		0	1148,1149,1150,1152,1153,1154
+584	Matulková Alžbeta r. Üvegešová	vd	0	511,1148,1149,1150,1152,1153,1154
+584	Matúšová Mária r. Juhászová		1	433
+584	Mázik Ladislav		1	211,686,704,726
+584	Mázik Ladislav r. Mázik		0	821
+584	Mázik Vojtech		1	211,686,704,726
+584	Mázik Vojtech r. Mázik		0	1156
+584	Micky Jozef		1	233,705,706,727
+584	Micski Ján r. Micski	Bartók, szobonya	0	933
+584	Micski Ján r. Micski	manž. Mária Duszaová	0	1148,1149,1150,1152,1153,1154
+584	Micski Jozef r. Micski		0	1000,1148,1149,1150,1152,1153,1154,1155
+584	Micski Jozef r. Micski	nižný	0	930
+584	Micski Mikuláš r. Micski		0	1089
+584	Micski Nétuš r. Micski		0	776
+584	Micski Štefan r. Micski	Bartók	0	900
+584	Micski Štefan r. Micski	nižný	0	759
+584	Micski Štefan r. Micski	Valent	0	892
+584	Micski Valent r. Micski		0	1158
+584	Micskiová	manž. Július	0	1025
+584	Micskiová	vd., manž. Jozef	0	898
+584	Micskiová Júlia r. Kováčová		0	902
+584	Micskiová Mária r. Micskiová		0	1158
+584	Mički Ján	ž.Mária Duszaová	0	511
+584	Mički Jozef		0	511
+584	Mičkiová Katarína r. Tóthová		0	511,1148,1149,1150,1152,1153,1154
+584	Mihocsiliová Jozefína r. Mihocsiliová	vd., manž. Jozef	0	1065
+584	Miklóš Edo r. Miklóš		0	1081
+584	Miklóš Ľudovít r. Miklóš		0	822
+584	Miklóšová Mária r. Galová		0	1155
+584	Miklóšová Terézia r. Szögediová	manž. František	0	996

@@ -1,0 +1,256 @@
+322	RYBÁR Jozef r. Rybár	m.Anastázia r.Bednárová	0	3710,4634,5710
+322	RYBÁR Jozef r. Rybár	m.Mária r.Ondrejechová	0	5631
+322	RYBÁR Jozef r. Rybár	súr.Juraj	0	5685
+322	RYBÁR Jozef r. Rybár	súr.Mária,Anna	0	6396
+322	RYBÁR Juraj r. Rybár	súr.Jozef	0	5685
+322	RYBÁR Michal r. Rybár	m.Alžbeta r.Orichelová	0	6590
+322	RYBÁR Michal r. Rybár	po Kataríne Rybárovej,r.Kuníkovej	0	3644
+322	RYBÁR Teofil r. Rybár	m.Juliana r.Arbetová,Hevlín 160,ČR,zomr	0	5542,6291
+322	RYBÁROVÁ Anastázia r. Bednárová	m.Jozef	0	6555
+322	RYBÁROVÁ Anna	súr.Jozef,Mária	0	6396
+322	Rybárová Júlia r. Arbetová	Hevlín 160,ČR,zomrela	0	2306,5542
+322	RYBÁROVÁ Mária	súr.Jozef,Anna	0	6396
+322	RYBÁROVÁ Mária r. Hrabinová	m.Juraj,zomrela	0	2473,2474,3644,4841,7817
+322	Rybárová Mária r. Imrišková	m.Gustáv,zomrela	0	5767
+322	RYBÁROVÁ Mária r. Imrišková	m.Gustávna,zomrela	0	3644,5515
+322	RYBÁROVÁ Mária r. Mordinová		0	4998,4999
+322	SABO Július r. Sabo	m.Jozefína r.Fabianová	0	7168
+322	SABOVÁ Alojzia r. Gregorovičová	m.Vojtech	0	2760,3644,6098
+322	SADLOŇOVÁ Alžbeta r. Pyšná		0	4764,6413
+322	SAMEKOVÁ Mária r. Abelová		0	1867,6375,6593
+322	SAMENFELDOVÁ Paulína r. Tauberová		0	6397
+322	SAMOŠOVÁ Mária r. Majerníková	Brunovce č.47	0	4009
+322	SAPÁKOVÁ Elena r. Fraňová		0	1980,3710
+322	SARKÖZI Otília r. Sarközi	r.Spitzerová	0	5287
+322	SAŠOVÁ Mária r. Strešková		0	5612,6163,6565
+322	SÉLEŠIOVÁ Anna		0	5538
+322	SEMORA Jozef r. Semora		0	1699
+322	SCHAYOVÁ Alžbeta		0	3704,3786,5088,7428,7429,7430,7431
+322	SCHNITTOVÁ Mária r. Odlerová		0	1414,1480,1490,4691,4696,5104,7012,7254,7651
+322	SCHÖN Karol r. Schön	Luin Marmorstein	0	7062
+322	SCHÖNOVÁ Karolína r. Marmorsteinová		0	3644,6861
+322	SCHOTZ Ján r. Schotz	súr.Anna,Mária,Vincent	0	3644,5540
+322	SCHOTZ Vincent r. Schotz	súr.Ján	0	3644,5540
+322	SCHWARTZOVÁ Margita	ul.Belska č.623,Paskov	0	4563
+322	SCHWEIGEROVÁ Žofia r. Fuchsová	m.Lazar	0	1810,1825,1911,5038,6151,6554,6583,7025
+322	SICZKOVÁ Anna r. Kováčiková	m.Pavol	0	2710,3644,6113,6883,7055,7511
+322	Silešová Antónia r. Novotná		0	518
+322	Simóová Eva r. Kozárová		0	6513
+322	Singerová Berta r. Spitzerová		0	5287
+322	SKOVAJSOVÁ Mária r. Bieliková		0	4998,4999
+322	SKYTA Pavol r. Skyta	Čachtice 221	0	6274
+322	SLÁDEK Štefan r. Sládek	m.Mária r.Kramáriková,nar.25.7.1876	0	6867
+322	SLÁDEKOVÁ Žofia r. Mokráňová	prv Ondrušová	0	5335
+322	SLAMA Július r. Slama		0	6989
+322	SLANINA Adam r. Slanina	m.Mária r.Vladová,nar.1.4.1873	0	6237,6866
+322	SLANINA Ján r. Slanina	m.Mária r.Mináriková	0	5975,6164,6400
+322	Slanina Ján r. Slanina a Mária Slaninová r. Mináriková		0	6350
+322	SLANINA Jozef r. Slanina	nezletilý	0	3429,6228,6863
+322	Slanina Michal r. Slanina a Mária Slaninová r. Čapošová		0	6213
+322	SLANINA Štefan r. Slanina	m.Agneša r.Hrehorovská,nar.18.11.1886	0	5975,6164,6400
+322	SLANINA Štefan r. Slanina	Niva 69,Čachtice	0	7069
+322	Slanina Štefan r. Slanina a Agnesa Slaninová r. Hrehorovská		0	7106
+322	SLANINA Vincent r. Slanina	Osloboditeľov 839,Čachtice	0	5307
+322	SLANINOVÁ Agnesa r. Hrehorovská		0	3558
+322	SLANINOVÁ Anna	súr.Ján,Štefan,Johana,Eva	0	5975,6400
+322	SLANINOVÁ Eva	súr.Ján,Štefan,Anna,Johana	0	5975,6400
+322	SLANINOVÁ Katarína r. Šimová	vdova	0	6852
+322	SLANINOVÁ Mária r. Čapošová	m.Michal,zomrela	0	3801,5567
+322	Slaninová Mária r. Mináriková	m.Ján	0	1727,1939,1941,3644,4406
+322	SLANINOVÁ Mária r. Vladová		0	3644,5625,6866
+322	SLANINOVÁ Marta	od Jozefa Brokeša	0	3429,6227,6863
+322	SLATINOVÁ Margita r. Vidová		0	2167,2168
+322	SLÁVIK Pavol r. Slávik	Bratislava	0	6710
+322	SLÁVIKOVÁ Mária r. Tomášiková		0	3644
+322	SLÍŠ Jozef r. Slíš	m.Anna r.Slaninová	0	5002
+322	SLIŠ Štefan r. Sliš	súr.Eva,Mária,Katarína	0	3710
+322	SLÍŠ Štefan r. Slíš	m.Eva r.Peterková	0	3644,3710
+322	SLÍŠ Vincent r. Slíš	Čachtice 632	0	4073
+322	Slíšová Anna r. Slaninová	m.Jozef	0	6195
+322	Slíšová Bernardína r. Hanáková	Pavlína	0	1235,1529,3644,6369
+322	Slíšová Eva r. Peterková	m.Štefan	0	2704,4818
+322	SLÍŠOVÁ Mária r. Uhlíková		0	425,2870,4156
+322	SLÍŽ Baltazár r. Slíž	súr.Julianna,Cecília,Mária,Vincent	0	3710
+322	SLÍŽ Peter r. Slíž	súr.Julianna,Cecília,Mária,Vincent	0	3710
+322	SLÍŽ Vincent r. Slíž	súr.Julianna,Cecília,Mária,Peter	0	3710
+322	Slížová Julianna	Čachtice 288	0	1530,1531,3710
+322	SLOBODA Anton r. Sloboda	m.Klára r.Kubicová	0	6147
+322	Sloboda Pavol r. Sloboda	Malinovskéha 800,Čachtice	0	3429,4684
+322	SLOBODOVÁ Klára r. Kubicová	m.Peter,zomrela	0	4529,4998,4999,5742,6115
+322	SLOBODOVÁ Libuša r. Slavíková		0	2490,3429,3644,4684,4964
+322	SNAJDÁROVÁ Štefánia r. Červeňanská		0	5272
+322	SOKOLOVÁ Anna r. Tomečková		0	3043,4698,6181
+322	SOLÁNYI Ján r. Solányi		0	2280
+322	SOMENFELD Bernát Dr.  r. Somenfeld		0	6144
+322	SRNEC Štefan r. Srnec	m.Johana r.Masárová	0	5340
+322	STANČÍK Michal r. Stančík	m.Eva r.Nebesz	0	3710,3900,5417
+322	STÁNEKOVÁ Adela r. Šimorová		0	7068
+322	STAŇOVÁ Darina	Dagmar,maloletá	0	5284
+322	STAŇOVÁ Mária	Františka,maloletá	0	5284
+322	STAROSTOVÁ Vilma r. Slobodová	m.Ján	0	5477
+322	STEFKA Augustín r. Stefka	m.Ilona r.Szlováková	0	5613
+322	STEFKA Ján r. Stefka	m.Mária r.Steficseková	0	5613
+322	STEINEROVÁ Júlia r. Eliášová		0	1671,7024
+322	Stoszková Emília r. Mittagová	Edita	0	1949,3228,3539,3644,4082,4216,5030,5033,5153,7821
+322	STRAKA Jozef r. Straka	m.Anna r.Bublavá	0	1476
+322	STRAKA Michal r. Straka a Katarína STRAKOVÁ r. Hanicová		0	7229
+322	Straková Anna r. Palcútová	Podolie 110,zomrela	0	1764
+322	STRAKOVÁ Katarína r. Hanicová		0	2098,6766,6768
+322	Straková Monika r. Ondrejková	Častkovce 220,zomrela	0	6834
+322	STRÁŽOVSKÁ Anna r. Jurigová		0	1727,2442,2445,2446,3070,3217,3644,3710,4350,5092,5680
+322	STRÁŽOVSKÁ Filoména r. Arbetová		0	5116
+322	STRÁŽOVSKÁ Mária r. Rybárová	m.Pavol	0	6148
+322	STRÁŽOVSKÝ Jozef r. Strážovský	spoluvl.Pavol,Anna	0	5092
+322	STRÁŽOVSKÝ Pavol r. Strážovský	Čachtice 582	0	6842
+322	STRÁŽOVSKÝ Pavol r. Strážovský	spoluvl.Jozef,Anna	0	5092
+322	Strážovský Štefan r. Strážovský	ž.Filoména r.Arbetová	0	5116
+322	STREČKOVÁ Anna	súr.Michal	0	6565
+322	STRECHAY Alexander r. Strechay	m.Júlia r.Čechová	0	3644
+322	STRECHAYOVÁ Juliana r. Čechová		0	2749,3644,5952,5979
+322	STREŠKA Jozef r. Streška	m.Valéria r.Bystrická	0	5002,6196
+322	Streška Jozef r. Streška a Valéria Strešková r. Bystrická		0	6362
+322	STREŠKA Michal r. Streška	súr.Johana,Rudolf,Emília,Mária	0	5612,6163,6565
+322	STREŠKA Rudolf r. Streška	maloletý,súr.Johana,Emília,Mária,Michal	0	5612,6163,6565
+322	Strešková Emília	súr.Johana,Michal,Mária,Rudolf	0	5612,6163,6565
+322	STREŠKOVÁ Valéria r. Bystrická	m.Jozef	0	5002,6196
+322	STRICKER Andor r. Stricker		0	4994,5126,5753,6520,6872
+322	STRNISKO Štefan r. Strnisko	súr.Anna,Viliam	0	3595,3596,3597,4976,4977
+322	STRNISKO Viliam r. Strnisko	súr.Anna,Štefan	0	3595,3596,3597,4976,4977
+322	STRNISKOVÁ Anna	súr.Štefan,Viliam	0	3595,3596,3597,4976,4977
+322	Struhálová Mária r. Remenárová		0	1902,3644,4528,4768,4970,5966,6140,6192,6193,6683,7053
+322	SUČANSKÁ Alžbeta r. Rybárová		0	5397
+322	SÚČANSKÁ Anna	slobodná,od Jána Súčanského	0	3644,4998,4999
+322	SÚČANSKÁ Anna r. Balalová	zomr.13.9.1988	0	3710
+322	SÚČANSKÁ Anna r. Blahová	m.Pavol	0	3855
+322	SÚČANSKÁ Cecília r. Peterková		0	3644,3710,5616,7028
+322	SÚČANSKÁ Jozefína r. Veličová	m.Jozef	0	5611
+322	Sučanská Mária	Vaďovce,zomrela	0	1892
+322	SÚČANSKÝ Emil r. Súčanský	Čachtice	0	5662
+322	SUČANSKÝ Jozef r. Sučanský	Čachtice 598	0	6854
+322	SÚČANSKÝ Jozef r. Súčanský	m.Anna r.Balalová	0	3644,4998,4999
+322	Sučanský Rudolf r. Sučanský a Alžbeta Sučanská r. Rybárová		0	6331
+322	SUDORA Pavol r. Sudora	nar.2.7.1893	0	6897
+322	Sudorová Matilda r. Zvončeková	m.Pavol	0	2815
+322	SUHAČOVÁ Emerencia r. Zvončeková		0	4998,4999
+322	SUCHÁNEK Jozef r. Suchánek	m.Zlata r.Abelová	0	3644,3710
+322	SUCHÁNKOVÁ Zlatica r. Abelová	m.Jozef,nar.15.6.1892	0	5442,5607
+322	SUCHNOVÁ Anna r. Uhlíková	m.Gašpar	0	1530,1531,1533,5406,5409,6999
+322	Surman Ján r. Surman	m.Anna r.Kopcová	0	1307,1615,1859,1860,1864,1865,1866,1867,1868,2247,2248,2250,3508,3644,4280,4690,4709,4710,7241,7242,7243,7245,7819
+322	Surman Jozef r. Surman	m.Mária r.Kňažíková	0	2247,7245
+322	SURMAN Jozef r. Surman	Čachtice 1060,zomrel	0	3644
+322	SURMAN Jozef r. Surman	m.Alžbeta r.Jamrichová	0	3644
+322	SURMAN Jozef r. Surman	M.Uhra 600,Čachtice	0	5426
+322	SURMAN Jozef r. Surman	súr.Štefan,Alžbeta,Mária,Sidónia	0	1490,4691
+322	SURMAN Ľubomír r. Surman	Tehelná 464,Čachtice	0	3644
+322	SURMAN Pavol r. Surman	m.Terézia r.Kršková,nar.27.11.1875	0	4709,4710
+322	SURMAN Pavol r. Surman	súr.Margita	0	3644
+322	SURMAN Rudolf r. Surman	Čachtice	0	3644
+322	SURMAN Rudolf r. Surman	čd.6	0	6730
+322	SURMAN Rudolf r. Surman	čd.67	0	6691
+322	SURMAN Rudolf r. Surman	od Albíny a Jozefa Pardavých	0	7032
+322	SURMAN Rudolf r. Surman	rod.Jozef a Johana r.Kršáková	0	7042
+322	SURMAN Rudolf r. Surman	ž.Štefánia r.Michálková	0	3640,6566
+322	SURMAN Šimon r. Surman	od Dušana Hrúzu	0	6239
+322	SURMAN Šimon r. Surman	od Márii Surmanovej,r.Jamrichovej	0	2415,3641,3646,3647,3689,3809,4504,4784,6368,6568
+322	SURMAN Šimon r. Surman	súr.Jozef,Rudol,Žofia	0	3644
+322	SURMAN Štefan r. Surman	súr.Alžbeta,Mária,Sidónia,Jozef	0	1490,4691
+322	SURMAN Vincent r. Surman	súr.Mária,Jozef,Františka	0	1687,1690,2198,3710,4776
+322	SURMAN Vincent r. Surman	Želovany 1058,Čachtice	0	3644,3710,6777
+322	SURMANOVÁ Alžbeta r. Jamrichová		0	4998,4999
+322	SURMANOVÁ Anna r. Mordinová		0	1895,1898,3204,5685
+322	SURMANOVÁ Cecília r. Čavojská		0	4393,5664,7663
+322	Surmanová Janka r. Imrišková	zomrela 20.7.1991	0	5767
+322	SURMANOVÁ Janka r. Imrišková		0	3644,6936
+322	SURMANOVÁ Jozefína	Čachtice 275	0	3644
+322	SURMANOVÁ Margita	súr.Pavol	0	3644
+322	SURMANOVÁ Mária	súr.Jozef,Vincent,František	0	3710
+322	SURMANOVÁ Sidónia	súr.Štefan,Mária,Jozef,Alžbeta	0	1490,4691
+322	SURMANOVÁ Štefánia r. Michalková		0	5426
+322	SURMANOVÁ Terézia r. Kršková		0	1867,3644
+322	SÜSS Miriam r. Süss	súr.Teodor,Pavol,Ernest	0	1754,1890,2560,2561,4749,6946,7562
+322	SÜSS Pavol Ing.  r. Süss	súr.Teodor,Mirijam,Ernest	0	6946
+322	SÜSS Pavol r. Süss, Ing.	súr.Teodor,Mirijam,Ernest	0	1754,1890,2560,2561,4749,7562
+322	SÜSS Teodor r. Süss	súr.Mirijam,Pavol,Ernest	0	1754,1890,2560,2561,4749,6946,7562
+322	SUŠLOVÁ Alžbeta r. Schayová		0	2022,2023,3704,3786,5088,7427,7428,7429,7430,7431,7432,7433
+322	SZABÓ Július r. Szabó	ž.Jozefína r.Fabiánová	0	3036
+322	SZABÓOVÁ Jozefína r. Fabiánová	m.Július	0	3036
+322	Szelessy Gejza r. Szelessy	Čachtice 860,zomrel	0	4826
+322	SZOKOLOCZI Fridrich r. Szokoloczi	súr.Otta	0	6060
+322	SZOKOLOCZIOVÁ Otta	súr.Fridrich	0	6060
+322	SZUCHNÁ Anna r. Uhlíková	m.Gašpar	0	1528,1547,3710,4072
+322	ŠAGÁT Viktor r. Šagát	ž.Emília r.Hanicová	0	2336
+322	ŠAHOTA Ján r. Šahota	m.Anna r.Suchánková	0	2384,4747
+322	ŠAHOTA Karol r. Šahota	súr.Ján,Júlia	0	2384,4747
+322	ŠÁNDORYOVÁ Katarína r. Zvončeková		0	3644
+322	Šaššíny Šimon r. Šaššíny a Otília Šaššinyová r. Malíková		0	7118
+322	ŠČEPKOVÁ Emília	vdova	0	6823
+322	ŠČEPKOVÁ Emília r. Hanicová	Čiastkovce č.13	0	6733
+322	ŠEBÍK Emil r. Šebík	nar.13.5.1920	0	4612,5298
+322	ŠEVCECH Gašpar r. Ševcech	ž.Etela r.Hanicová	0	3441
+322	ŠEVCECH Ján r. Ševcech		0	3441
+322	ŠEVCECH Michal r. Ševcech		0	3441
+322	ŠEVCECHOVÁ Anna	súr.Irena	0	5320
+322	ŠEVCECHOVÁ Irena	súr.Anna	0	5320
+322	Šicko Karol r. Šicko	Komárno 376,Čachtice	0	1957
+322	ŠICKOVÁ Anna r. Kováčiková	m.Pavol	0	3644
+322	ŠIDLOVÁ Mária r. Lukáčiková		0	5472
+322	ŠIMO Eduard r. Šimo	maloletý,od Jána,Alžbety a Eduarda	0	3710,4998,4999
+322	Šimo Emil r. Šimo	Čachtice 745	0	1668,3644
+322	Šimo Emil r. Šimo	Želovany 946,Čachtice	0	2442,2446,3198,3644,5371,6170,6601,7317
+322	ŠIMO Emil r. Šimo	čd.502	0	6343
+322	ŠIMO Fáni r. Šimo	súr.Mária,Antónia,Tereza	0	6776
+322	ŠIMO Ján r. Šimo	Čachtice 22	0	5995
+322	ŠIMO Ján r. Šimo	od Kataríny Šimovej,r.Lošoncyovej	0	3756
+322	ŠIMO Ján r. Šimo	od Michala Jamricha	0	6536
+322	ŠIMO Ján r. Šimo	spol.Emil,Otília Atalovičová	0	1792
+322	ŠIMO Ján r. Šimo	spolud.Jamrichová Johana	0	6860
+322	Šimo Jozef r. Šimo	m.Jozefína r.Jamrichová	0	1980,3710,5709
+322	ŠIMO Jozef r. Šimo	m.Jozefína r.Jamborová	0	3429,6787
+322	ŠIMO Jozef r. Šimo	m.Katarína r.Lošoncyová	0	2284
+322	ŠIMO Jozef r. Šimo	m.Veronika r.Jamborová	0	3644,3672,6451,6912
+322	ŠIMO Jozef r. Šimo	spolud.Mária Kuniková,r.Šimová	0	6776
+322	Šimo Jozef r. Šimo a Jozefína Šimová r. Jamrichová		0	7120
+322	ŠIMO Michal r. Šimo	m.Alžbeta r.Kristová	0	1668,1669,1788,3644,5524
+322	ŠIMO Michal r. Šimo	súr.Mária,Jozef	0	1980,3429,3710,5435,5709,6787
+322	Šimo Michal r. Šimo a Mária Šimová r. Jurigová		0	6739
+322	ŠIMO Pavel r. Šimo	Hoštáka 719,Čachtice	0	6740
+322	ŠIMO Pavel r. Šimo	m.Terézia r.Vidová	0	7078
+322	ŠIMO Pavol r. Šimo		0	3644
+322	ŠIMO Valér r. Šimo	m.Anna r.Hlubocká	0	6709,7192
+322	ŠIMO Valér r. Šimo	súr.Barbora	0	6387,6589,6606,7046
+322	ŠIMO Vincent r. Šimo	súr.Barbora,Valér	0	6606,6709,7046
+322	ŠIMO Vincent r. Šimo	súr.Jozef	0	3644
+322	ŠIMONČIC Pavol r. Šimončic	m.Anna r.Matušková	0	2329,2330,2331
+322	ŠIMONČIČ Jaroslav r. Šimončič	Nové Mesto nad Váhom	0	3644,4753,4818
+322	ŠIMONČIČ Jozef r. Šimončič	dar od Rozálie Šimončič,zom.19.4.1981	0	3644,5228
+322	ŠIMONČIČ Michal r. Šimončič	slobodný	0	1754,3644,6104
+322	Šimončič Pavol r. Šimončič	ž.Anna r.Matušková	0	2332,2333,6584
+322	ŠIMONČIČ Pavol r. Šimončič		0	5761
+322	ŠIMONČIČ Pavol r. Šimončič	m.Anna r.Šimová	0	2412,3237,3238
+322	ŠIMONČIČ Pavol r. Šimončič	maloletý	0	6826
+322	ŠIMONČIČ Pavol r. Šimončič	vlastník z r.1910	0	6823
+322	Šimončič Rudolf JUDr.  r. Šimončič	Čachtice 777,zomrel	0	3644
+322	ŠIMONČIČ Vincent r. Šimončič	ž.Albína r.Vidová	0	5229
+322	ŠIMONČIČOVÁ Anna	m.Pavol	0	6584
+322	ŠIMONČIČOVÁ Anna	súr.Ján,Cecília,Mária	0	3644,4818
+322	ŠIMOVÁ Anna r. Drobenová	m.Peter	0	6012
+322	ŠIMOVÁ Anna r. Jurigová		0	6860
+322	ŠIMOVÁ Anna r. Kubovičová		0	3644
+322	ŠIMOVÁ Antónia	súr.Fani,Mária,Terézia	0	6776
+322	ŠIMOVÁ Cecília r. Trebatická		0	3035,3710
+322	ŠIMOVÁ Emília r. Šimončičová		0	1744,2212,5652,5765
+322	ŠIMOVÁ Helena r. Hadbábna		0	6908
+322	Šimová Katarína r. Lešenci		0	482
+322	ŠIMOVÁ Katarína r. Lošonciová	m.Jozef	0	3755,6309
+322	ŠIMOVÁ Mária	súr.Fani,Atónia,Terézia	0	6776
+322	ŠIMOVÁ Mária r. Burzová	m.Michal	0	6799
+322	ŠIMOVÁ Terézia r. Vidová		0	2118,2502,2852,6620,7078,7904
+322	ŠIMOVÁ Valéria r. Lošoncyová		0	3198,3644
+322	ŠIMOVÁ Veronika r. Jamborová	m.Jozef	0	6912
+322	ŠIMOVÁ Vilma	plnoletá v 1920	0	3848
+322	ŠIMOVÁ Vilma	spolud.Čičala Adam	0	5126,6872
+322	ŠIŠKA Ferdinand r. Šiška	m.Mária r.Monická	0	3644
+322	Šiška Ján r. Šiška	Želovany 931,čachtice	0	1980,3710
+322	ŠIŠKA Šimon r. Šiška	súr.Ferdinand	0	3644
+322	ŠIŠKA Štefan r. Šiška	m.Anna r.Tomášiková	0	3043,4698,4699,6181
+322	ŠIŠKA Vincent r. Šiška	m.Alžbeta r.Haščicová	0	3710

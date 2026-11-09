@@ -1,0 +1,256 @@
+83	Petríková Margita r. Močková	manžel Ladislav	0	715
+83	PIKNA Michal		0	93
+83	Pikna Michal r. Pikna	24.10.1914 manželka Agáta r. Labudová	0	94,520,554,738
+83	PIKNA Peter		0	93
+83	Pikna Peter r. Pikna	manželka Júlia Kapustová	0	94,520,554,738
+83	PIKNOVÁ Emília		0	93
+83	Piknová Emília r. Piknová	Praha	0	94,520,554,738
+83	PIKNOVÁ Jozefína		0	93
+83	Piknová Jozefína r. Piknová	Praha	0	94,520,554,738
+83	Povrazník Peter r. Povrazník	po Ján Povrazník	0	647
+83	Povrazník Štefan r. Povrazník	Manželka Mária r.Krajčíková, po Jánovi a júlií Povrazník	0	647,648,671
+83	Praženka Jozef r. Praženka		0	264
+83	Provazník Peter r. Provazník	po Ján Povrazník; po Ján Povrazník	0	388
+83	Provazník Štefan r. Provazník	Manželka Mária r.Krajčíková, po Jánovi a júlií Povrazník	0	388
+83	Provazník Štefan r. Provazník	Manželka Mária r.Krajčíková, po Jánovi a júlií Povrazník; Manželka Mária r.Krajčíková, po Jánovi a júlií Povrazník	0	388
+83	Ribánský Rudolf r. Ribánský	manželka Jozef Frťalová	0	695
+83	Rybanská Veronika r. Fuzíková	manžel Ján	0	726
+83	Rybanský Ján r. Rybanský	manželka Veronika r. Fuzíková	0	726
+83	Siget Imra r. Siget		0	672
+83	Siget Jozef r. Siget	manželka r.Mihalíková	0	646,678
+83	Siget Michal r. Siget	zdedené po Štefanovi Sigetovi	0	678
+83	Siget Milan r. Siget	po Imrich Siget č.d. 46	0	678
+83	Sigetová Anna r. Sigetová		0	300
+83	Sigetová Katarína r. Stevočivá	manžel Pavol	0	651
+83	Sigetová Paulína r. Mateičková	po Maria r. Minarovič 64	0	301,302,307,308,337,371,460,595,814
+83	Slezárik Ján r. Slezárik	po Michal Slezárik	0	232,262,447,448,449
+83	Slezáriková Františka	po Michal Slezárik	0	232,262,447,448,449
+83	Slezáriková Gizela	po Michal Slezárik	0	232,262,447,448,449
+83	Slezáriková Johana	po Michal Slezárik	0	232,262,447,448,449
+83	Stanček Albín r. Stanček		0	545
+83	Stískal Alojza r. Šestoráková	manžel Vendelín	0	744
+83	Szigetová Alžbeta r. Minarovičová		0	371
+83	Šebová Alžbeta r. Oravecová	po Jozef Mateička ž. Mária r.Močková	0	134,643
+83	Ševčík Štefan r. Ševčík	manželka Hedviga r. Mandúchová	0	732
+83	Ševčíková Božena r. Šišková	vdova	0	734
+83	Ševčíková Hedviga r. Mancúchová	manžel Štefan	0	732
+83	Ševčíková Pavlina r. Ševčíková	dcéra Ján	0	733
+83	Šišková Magdaléna r. Hubiská	po Štefan Hubinský	0	341
+83	ŠIŠKOVÁ Verona r. Švecová		0	754
+83	ŠIŠKOVÁ Verona r. Švecová	nar. 27.08.1895, Horné Obdokovce	0	82
+83	Šišková Veronika r. Švecová	po Mária Švecová r Čižmarová mažel Ján 118	0	353,354,355
+83	Štuchala Rudolf r. Štuchala	manželka Emília r. Santoris	0	714
+83	Štuchalová Emília r. Santorisová	manžel Rudolf	0	714
+83	Švec Peter r. Švec	222, 296	0	357,707
+83	Švec Peter r. Švec	manželka Augustína r.Povrazníková	0	353
+83	Tomašovič Ondrej r. Tomašovič	manželka Róza r.Mrázová	0	675
+83	Tomašovičová Róza r. Mrázová	manžel Ondrej	0	675
+83	Uhlarová Anastázia	Manžl Börger Juraj	0	255
+83	Vlazáková Jozefína r. Sigetová	manžel Vendelín po Pavel Siget	0	348,349,385,513,514,556,583,788
+83	Weisz Adolf r. Weisz		0	668
+83	Zdenek Michal r. Zdenek	manželka Jozefína r.Kováčiková	0	748
+83	Zdenek Rudolf r. Zdenek	po Jozefína Zdenková r.Kovačíková manžel Michal	0	748
+83	Zdenková Emília r. Zdenková	po Jozefína Zdenková r.Kovačíková manžel Michal	0	748
+83	Zelenáková Mária r. Zelenáková		0	322
+83	Zelenayová Jolana r. Mateička	po Jozef Mateička ž.Mária r.Močková	0	681
+83	Žák Ondrej r. Žák	manželka Katarína r. Voladová	0	694
+83	Žáková Katarína r. Voladová	manžel Ondrej	0	694
+84	Adam Balint		0	733
+84	Adám Pavol		1	477
+84	Adam Štefan		0	633
+84	Adamová Irma r. Géreczová		1	477
+84	Adorjanová Lídia r. Nemethová	vd	0	560
+84	Antal Pavol		0	757
+84	Balintová Zuzana r. Dulovicsová	vd	1	728,751
+84	Barczi Štefan		1	477
+84	Barczi Štefan	mladší	0	739
+84	Barta Samuel		0	651
+84	Bartaová Terézia r. Adamová	vd	0	749
+84	Bartok Imrich		1	477
+84	Bartok Ján		0	650
+84	Bartok Ján	nižný	1	477,555,753
+84	Bartok Ján	vyšný	1	477
+84	Bartok Martin		1	477
+84	Bartok Pavol		1	477,677
+84	Bartok Samuel		1	477
+84	Bartok Štefan		0	574
+84	Bartoková Helena r. Dombyová		0	715
+84	Batta Bartolomej		1	477
+84	Battová Irma r. Leštáková	m.Bartolomej	1	477
+84	Beke Ján		1	477
+84	Bekeová Zuzana r. Gallová		0	695
+84	Beres Vojtech	mal	0	563,596
+84	Beresová Borbala r. Liptáková		0	563,661
+84	Beresová Mária	mal	0	563,786
+84	Bodi František		0	721
+84	Bodi Jozef	H	0	770
+84	Bodi Jozef	st	1	477
+84	Bodi Ladislav	H	0	567
+84	Bodi Mikuláš		0	773
+84	Bodi Štefan		0	685
+84	Bodi Štefan	H	0	576
+84	Bodiová Alžbeta		0	662
+84	Bodiová Juliana r. Gerecová		0	597
+84	Bodiová Margaréta		0	696
+84	Bodiová Terézia		0	667
+84	Bodiová Terézia r. Bodiová		0	776
+84	Bodiová Zuzana r. Bartoková		0	481,590
+84	Bodiová Žofia		0	687
+84	Deak Ján		0	644
+84	Deak Štefan	F	0	754
+84	Devinszky Daniel		0	745
+84	Doma František		1	477,602
+84	Doma Ján		1	477
+84	Doma Pavel		1	477
+84	Doma Valent		1	477
+84	Domaová Zuzana r. Solteszová		0	475,639
+84	Dombiová Jolana		0	759
+84	Dombiová Júlia r. Hacsiová		0	726
+84	Ďurán Balthazár		0	481,624
+84	Ďuránová Helena r. Martinovičová		0	481,637
+84	Erdelyi Albert		0	758
+84	Erdélyi František		1	477,727
+84	Erdelyi Ján		0	564,632
+84	Erdelyi Ján	mladší	0	698
+84	Erdelyi Ján	vyšný	0	234,655
+84	Erdélyi Ján	felso	1	477
+84	Erdélyi Ján	fustos	1	477
+84	Erdélyi Ján	k.ž.Lýdia Géreczová	1	477
+84	Erdélyi Ladislav		1	477,706
+84	Erdélyi Ladislav	ml	1	477
+84	Erdélyi Márton		1	477
+84	Erdélyi Michal	ml	1	477
+84	Erdélyi Michal	nižný	1	477
+84	Erdelyi Štefan	mladší	0	564,679
+84	Erdélyi Štefan		1	477,708
+84	Erdélyi Štefan	ml	1	477
+84	Erdélyi Štefan	nižný	0	480
+84	Erdélyi Štefan	st	1	477
+84	Erdélyi Štefan	stred	1	477
+84	Erdelyi Vojtech	F	0	634
+84	Erdélyi Vojtech		0	481,484,674
+84	Erdélyi Zoltán		1	477,731
+84	Erdelyiová Alžbeta		0	735
+84	Erdelyiová Alžbeta r. Gereczová		0	629
+84	Erdélyiová Alžbeta r. Grébeczová	m.Ladislav	1	477
+84	Erdelyiová Borbala r. Bekeová		0	475
+84	Erdélyiová Ema r. Kaizer		1	477
+84	Erdelyiová Helena		0	626
+84	Erdelyiová Júlia r. Domová		0	653
+84	Erdélyiová Lýdia r. Géreczová	m.Ján	1	477
+84	Erdelyiová Zuzana r. Domaová		0	738
+84	Galo Juraj		1	477
+84	Gerecz František		0	490,747,792
+84	Gerecz Ladislav		0	556,558,642
+84	Gerecz Ladislav	K	0	556,605
+84	Gérecz Martin		0	468,487
+84	Gérecz Martin	k.ž.Zuzana r.Domová	0	468
+84	Gérecz Pavol		1	477
+84	Gérecz Štefan		1	20,468,477,490,719,792
+84	Gérecz Štefan	vyšný	1	477
+84	Gereczová Barbora r. Archelová	K	0	556,720
+84	Gereczová Júlia r. Lorinczová	ml	0	771,792
+84	Gereczová Juliana		0	556,579
+84	Gereczová Juliana r. Lorinczová	m.Ladislav	0	683
+84	Gereczová Zuzana		0	665
+84	Gereczová Zuzana r. Gereczová		0	782
+84	Goraz Barnabáš		0	593
+84	Gorazová Júlia r. Bodiová		0	691
+84	Grebecz Ján		0	234,780
+84	Grébecz Ján	nižný ml	1	477
+84	Grébecz Ján	nižný st	1	477
+84	Grébecz Ján	vyšný	1	477
+84	Grébecz Koloman		0	475,572,793
+84	Grébecz Ladislav		1	477,675,793
+84	Grébecz Martin		1	477
+84	Grébecz Štefan		1	477,569,793
+84	Grébecz Štefan	mladší	0	474
+84	Grebeczová Katarina		0	709,793
+84	Gubal Ondrej		0	692
+84	Gubala Ondrej		0	493,594,806
+84	Gyurán Baltazár		1	477
+84	Hacsi Mikuláš		1	477
+84	Heraultová Perla		0	585
+84	Hubay Ladislav		1	477
+84	Hubayová Jolana		1	477
+84	Igo Jozef		0	789
+84	Igo Július		0	699
+84	Igová Barbora r. Liptáková		0	600
+84	Juhaszová Irena		0	756
+84	Jurin Barnabáš		0	743
+84	Jurin Štefan		0	603
+84	Kisová Alžbeta r. Lovosiczká	m.Martin	1	477
+84	Kiss Štefan		0	611
+84	Koša Ladislav	k.ž.Anna Burszaki	0	493,806
+84	Kouczová Terézia r. Lovasová	vd	0	619
+84	Kovacs Štefan		1	477
+84	Kovacs Štefan	mladší	0	641
+84	Kover Ján	R	0	724
+84	Kulik Ladislav		0	636
+84	Laboda Štefan	pkv	0	729
+84	Lakatos Pavol		0	618
+84	Lipták Barnabáš		1	630
+84	Lipták Ján		1	477,583
+84	Lipták Juraj		1	477
+84	Lipták Michal		1	477
+84	Liptáková Borbala		0	657
+84	Lorincz Ján		1	477
+84	Lorincz Jozef		1	477,577
+84	Lorinczová Rozália r. Brazová		0	766
+84	Madarassy Jozef		0	682
+84	Mateová Alžbeta r. Gereczová	K	0	713
+84	Mateová Zuzana r. Liptáková		0	570
+84	Mike Štefan	Nižný	0	676
+84	Mikeová Zuzana r. Domaová		0	612
+84	Molnárová Jolana r. Koverová		0	763
+84	Nagy Ján		0	493,806
+84	Nagy Ján	2	0	493,806
+84	Nagyová Mária r. Szabová		0	631
+84	Nagyudvariová Mária r. Šmírová		0	493,806
+84	Nemethová Zuzana r. Bodiová		0	616
+84	Odlerová Terézia r. Strubelová	Alexandrova	0	734
+84	Parlag Ondrej		0	622
+84	Parlagová Zuzana		0	652
+84	Perecz Michal		0	740
+84	Perecz Štefan		0	752
+84	Pinterová Margita		0	649
+84	Postar Ján		0	748
+84	Postarová Irena r. Dombyová		0	643
+84	Puskoová Zuzana r. Zsoriová		0	555
+84	Sarkozy Július		0	573
+84	Semrák Ondrej		1	477
+84	Semraková Zuzana r. Zakharová		0	769
+84	Siposová Mária		0	580
+84	Soltész Ján		1	477,694,775
+84	Soltész Ján	ml	1	477
+84	Soltész Martin		1	477
+84	Soltész Michal	ml	1	477
+84	Soltész Michal	st	1	477
+84	Soltész Štefan		1	5,477
+84	Solteszová Alžbeta		0	798
+84	Solteszová Hermina r. Bartoková		0	707
+84	Solteszová Margita		0	777,798
+84	Solteszová Mária		1	557,697
+84	Solteszová Terézia r. Gereczová		0	784
+84	Szabomihaly Ondrej		0	744
+84	Szabová Borbala r. Kotanová	vd	0	604
+84	Szívošová Mária r. Tuzová		0	461
+84	Szoke Ondrej		0	610
+84	Šálek František		0	127,718,772
+84	Takac Ján		0	648
+84	Takacová Alžbeta		0	621
+84	Takacs Ján		1	477,640
+84	Takacs Ján	mladší	0	234,723
+84	Takács Jozef		1	477
+84	Takács Štefan		1	477
+84	Takacsová Mária		0	730
+84	Varga Alexander		0	628
+84	Varga Ján	nižný	1	477
+84	Varga Ján	vyšný	1	477
+84	Varga Ladislav		0	790
+84	Varga Ľudovít		0	486,700
+84	Varga Martin		1	477
+84	Varga Michal		1	477
+84	Varga Štefan		1	477,788
+84	Vargová Alžbeta r. Géreczová		1	477
+84	Vargová Irena r. Gorazová		0	664

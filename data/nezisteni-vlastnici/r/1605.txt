@@ -1,0 +1,256 @@
+941	LUŽOVÁ Anna	maloletá, súrodenci Ján, Mária, Eva	0	3629,4083
+941	LUŽOVÁ Anna	maloletá, súrodenci Ján,Mária,Eva	0	4650
+941	LUŽOVÁ Anna	maloletá,súrodenci Ján,Mária,Eva	0	3629,4650,4654,4659,4661,4662,4730
+941	LUŽOVÁ Anna	r.Blanárová	0	4654,4659,4661,4662,4730
+941	LUŽOVÁ Anna	slobodná	0	3629,4661
+941	LUŽOVÁ Anna r. Blanárová		0	3629,4650
+941	LUŽOVÁ Elena	maloletá do r.1951	0	3629
+941	LUŽOVÁ Elena	nezvestná,mal.do r.1951 nezvestná,mal.do r.1951	0	4661
+941	Lužová Eva	súrodenci Ján, Anna, Mária	0	4083
+941	LUŽOVÁ Eva		0	3629,4650,4654,4659,4661,4662,4730
+941	LUŽOVÁ Eva	maloletá, súrodenci Ján, Anna, Mária	0	3629,4083
+941	LUŽOVÁ Eva	maloletá,súrodenci Ján,Anna,Mária	0	3629,4650,4654,4659,4661,4662,4730
+941	LUŽOVÁ Eva	r.Čierna	0	4661
+941	LUŽOVÁ Eva r. Čierna		0	3583,3629
+941	Lužová Mária	súrodenci Ján, Anna, Eva	0	4083
+941	LUŽOVÁ Mária	maloletá, súrodenci Ján, Eva, Anna	0	3629,4083
+941	LUŽOVÁ Mária	maloletá,súrodenci Ján,Eva Anna	0	3629,4650,4654,4659,4661,4662,4730
+941	MACÁČKOVÁ Mária r. Miklánková		0	4018,4028
+941	MACÁKOVÁ Amália		0	3912,3913
+941	Macáková Anna		0	4661
+941	MACÁKOVÁ Jana		0	3912,3913
+941	Macáková Júlia		0	4661
+941	MACÁKOVÁ Mária		0	3912,3913
+941	MACÁKOVÁ Rozália		0	3912,3913
+941	MACEK Ján		0	3629,3895,3896,4650,4654,4659,4661,4662,4730
+941	MACEK Jozef	mal. do r.1935	0	3912,3913
+941	MACEKOVÁ Anna		0	3629,3895,3896,4650,4654,4659,4661,4662,4730
+941	MACEKOVÁ Anna	mal. do r.1935	0	3912,3913
+941	MACEKOVÁ Emília		0	3895,3896
+941	MACEKOVÁ Katarína	r.Zámečníková	0	4654,4659,4661,4662,4730
+941	MACEKOVÁ Katarína r. Zámečníková		0	3629,4650
+941	MACEKOVÁ Mária		0	3629,3895,3896,4650,4654,4659,4661,4662,4730
+941	MACEKOVÁ Mária	r.Drobná	0	3895,3896
+941	MACEKOVÁ Pavlína	mal	0	3895,3896
+941	MACKOVÁ Katarína	r.Zámečníková	0	4654,4659,4661,4662,4730
+941	MACKOVÁ Katarína r. Zámečníková		0	3629,4650
+941	MACKOVÁ Mária	r.Drobná	0	3912,3913
+941	MACKOVÁ Mária	r.Hargašová, m.Juraj	0	4654,4659,4661,4662,4730
+941	MACKOVÁ Mária r. Hargašová	manžel Juraj	0	3629,4650
+941	Mackovičová Alžbeta	r.Švehlová,ded.po Anna Švehlová	0	3895,3896,3912,3913
+941	Magál Adam		0	2912,3629,3687,3689,3803,3833,3834,3835,4047,4079,4096,4237,4238,4245,4247,4352,4433,4434,4451,4460,4471,4661
+941	Magál Adam	dátum úmrtia 07.04.1987, manželka Mária r. Vranová	0	4320
+941	Magál Adam	manželka Alžbeta r. Harušťáková	0	1389,3130,3629,4247,4259,4263,4267,4277,4401,4690,4693,4828,4829,4833
+941	Magál Adam	manželka Alžbeta r.Harušťáková	0	3142,3803,4411,4834
+941	Magál Adam	manželka Alžbeta rod. Harušťáková	0	3484
+941	Magál Adam	manželka Anna r. Mazáková	0	3833,4433
+941	Magál Adam	manželka Anna rod. Mazáková	0	4046,4047
+941	Magál Adam	r.Magál,ž.Alžbeta r.Harušťáková	0	4661
+941	Magál Ján	manželka Anna r. Chovancová	0	2994,3138,3148,3151,3161,3629,3676,3759,3763,3764,3799,3833,3835,3872,3879,3880,4049,4051,4052,4085,4172,4278,4333,4369,4383,4454,4525,4595,4598,4604,4799,4800,4801,4812,4821,4822,4843,4872,4873,4891,4912
+941	Magál Ján	manželka Anna r. Štefanovičová	0	3833,4433
+941	Magál Ján	manželka Anna r.Chovancová	0	1387,3629,3915,4279,4318,4327,4337,4351,4365,4382,4450,4451,4603
+941	Magál Ján	manželka Anna rod. Chovancová	0	4062
+941	Magál Ján	manželka Anna rod. Štefanovičová	0	4046,4047
+941	Magál Ján	manželka Katarína r. Bušová	0	1450,4221,4320,4350,4358,4419,4458,4470
+941	Magál Ján	manželka Katarína r. Hrevušová	0	2912,3687,4167,4237,4238,4245
+941	Magál Ján	manželka Katarína r.Hrevušová	0	3689
+941	Magál Ján	manželka Katarína rod. Bušová	0	3629,4095
+941	Magál Ján	r.Magál,vým.malol.čd.2699/34	0	4096,4661
+941	Magál Ján	r.Magál,ž.Anna r.Chovancová	0	4661
+941	Magál Ján	r.Magál,ž.Katarína Bušová	0	4661
+941	Magál Ján	výmaz maloletosti č.d. 2699/34	0	1450,3629,3834,3835,4321,4358,4433,4458,4459,4460,4461,4462,4470,4471
+941	Magál Ján	výmaz maloletosti č.d. 69/59	0	4046,4433
+941	Magál Ján	výmaz maloletosti č.d.2699/34	0	4053,4055,4074,4095,4338
+941	Magál Ján	výmaz maloletosti čd. 2699/34	0	4430,4434
+941	Magál Ján	výmaz maloletosti čd. 69/59	0	4047
+941	Magál Ján	výmaz maloletosti čd.2699/34	0	3983,4047,4056,4058,4079,4352,4451
+941	MAGÁL Ján		0	900,4323,4410,4724
+941	MAGÁL Ján	manželka Eva r. Miklánková	0	3678,4621,4661,4754,4907
+941	MAGÁL Ján	manželka Eva r.Bušová	0	3064,3532
+941	MAGÁL Ján	manželka Eva rod. Miklánková	0	3629
+941	MAGÁL Ján	manželka Katarína r. Miklánková	0	4650
+941	MAGÁL Ján	manželka Katarína rod. Miklánková	0	3629
+941	MAGÁL Ján	manželka Katarína rod. Zaťovičová	0	3629
+941	MAGÁL Ján	u Miavovcov	0	4280
+941	MAGÁL Ján	ž.Eva Miklánková	0	3895,3896,4661
+941	MAGÁL Ján	ž.Katarína Miklánková	0	3895,3896,4654,4659,4661,4662,4730
+941	MAGÁL Ján	ž.Katarína Zaťovičová	0	4661
+941	Magál Juraj	manž.Pavlína Magálová	0	4661
+941	Magál Juraj	manželka Pavlína r. Magálová	0	4221,4320,4350,4358,4419,4458,4470
+941	Magál Juraj	manželka Pavlína rod. Magálová	0	3629
+941	Magál Juraj	r.Magál,vým.malol.čd.2590/09	0	3895,3896,4661
+941	Magál Juraj	výmaz maloletosti č.d. 2590/09	0	2912,3629,3680,3681,3687,3689,4163,4237,4238,4245,4260,4264,4265,4365
+941	Magál Juraj	výmaz maloletosti čd. 2590/09	0	4680
+941	Magál Juraj	výmaz maloletosti čd.2590/09	0	3629
+941	Magál Juraj	výmaz maloletý č.d. 2590/09	0	3734
+941	MAGÁL Juraj	manželka Eva	0	4472
+941	MAGÁL Juraj	manželka Eva r. Gábelová	0	4650
+941	MAGÁL Juraj	manželka Eva rod. Gábelová	0	3629
+941	MAGÁL Juraj	neznámy	0	4261
+941	MAGÁL Juraj	ž.Eva Gábelová	0	3895,3896,4654,4659,4661,4662,4730
+941	Magál Ľudovít	r.Magál	0	4661
+941	Magál Ľudovít r. Magál		0	3895,3896
+941	Magál Martin		0	3629,3688,3689,3705,3834,3835,3841,4079,4095,4185,4237,4239,4240,4262,4352,4380,4382,4403,4434,4450,4451,4459,4460,4470,4471,4774
+941	Magál Martin	dátum úmrtia 09.06.1989, manželka Alžbeta r. Gašparíková	0	4320
+941	Magál Martin	maloletý v r. 1916	0	4430
+941	Magál Martin	maloletý v r.1916	0	1450,3629,3834,3835,4053,4058,4074,4079,4095,4337,4352,4354,4358,4434,4451,4458,4459,4460,4470
+941	Magál Martin	r.Magál	0	4096,4661
+941	Magál Martin	r.Magál,maloletý v r.1916	0	4096,4661
+941	Magál Martin	žena Katarína rod. Haluzová	0	1389,3142,4259,4828,4829,4833
+941	Magál Martin	žena Katarína rod.Haluzová	0	3130,4834
+941	MAGÁL Martin	manželka Anna r. Lahvičková	0	4332
+941	MAGÁL Martin	manželka Eva rod. Šimková	0	4046
+941	MAGÁL Martin	manželka Katarína rod. Martišová	0	2929
+941	Magál Martin r. Magál		0	3629
+941	Magál Pavol	maloletá	0	4062
+941	Magál Pavol	maloletý	0	1387,2994,3138,3148,3151,3161,3629,3763,3764,3872,3879,3880,4172,4318,4365,4369,4382,4383,4454,4604,4799,4800,4801,4812,4821,4822,4843,4872,4873,4912
+941	Magál Pavol	r.Magál,mal	0	4661
+941	Magál Pavol r. Magál	maloletý	0	3799,4603
+941	Magál Štefan		0	1450,3629,3687,3689,4095,4221,4241,4320,4350,4358,4419,4458,4470
+941	Magál Štefan	r.Magál	0	4241,4661
+941	MAGÁL Štefan	manželka Katarína r. Bahníková	0	1389,3130,3142,4259,4828,4829,4833,4834
+941	MAGÁLOVÁ Alžbeta r. Gašparíková		0	3841
+941	MAGÁLOVÁ Alžbeta r. Gulanová		0	4354
+941	Magálová Alžbeta r. Harušťáková		0	1389,2912,3130,3142,3687,3689,4237,4238,4239,4247,4259,4399,4690,4828,4829,4833,4834
+941	MAGÁLOVÁ Alžbeta r. Pagáčová		0	4245
+941	Magálová Anna		0	3629,4661
+941	Magálová Anna	mal	0	4661
+941	Magálová Anna	maloletá	0	3629,3833,4046,4047,4049,4051,4052,4085,4332,4333,4433,4450
+941	Magálová Anna	maloletý	0	3629
+941	Magálová Anna	po Magálovej Eve r. Šimovej	0	4047
+941	Magálová Anna	po Magálovej Eve r.Šimovej	0	3833,4046,4433
+941	Magálová Anna	r.Chovancová	0	3895,3896,4388
+941	Magálová Anna	r.Sadloňová	0	4661
+941	Magálová Anna	vým.malol.čd.4383/36, po Jánovi Magálovi	0	4096,4661
+941	Magálová Anna	výmaz maloletosti č.d. 4383/36, po Jánovi Magálovi	0	3834,4321,4352,4358,4430,4433,4451,4458,4459,4460,4461,4470,4471
+941	Magálová Anna	výmaz maloletosti č.d.4383/36, po Jánovi Magálovi	0	1450,4462
+941	Magálová Anna	výmaz maloletosti čd. 4383/36, po Jánovi Magálovi	0	3835,4434
+941	Magálová Anna	výmaz maloletosti čd.4383/36, po Jánovi Magálovi	0	3629,3983,4047,4053,4055,4056,4058,4074,4079,4095,4338
+941	Magálová Anna r. Bušová	manžel Martin	0	4174
+941	Magálová Anna r. Chovancová		0	1387,1450,2682,3411,3413,3414,3415,3676,3759,3823,3824,3851,3915,4095,4278,4279,4327,4356,4358,4382,4385,4388,4410,4458,4598,4683,4684,4863,4864,4865,4874,4886,4887,4888,4891
+941	Magálová Anna r. Chovancová	manžel Adam	0	4221,4350,4419
+941	Magálová Anna r. Sadloňová		0	1387,3148,3161,3471,3629,3799,3872,3879,3880,4062,4270,4292,4294,4323,4351,4369,4380,4382,4383,4454,4603,4604,4698,4699,4700,4799,4800,4801,4812,4821,4822,4843,4873,4890,4912
+941	MAGALOVÁ Anna r. Skovajsová	súrodenci Martin, Ján, Katarína Lobíková	0	2927
+941	Magálová Emília	mal	0	4661
+941	Magálová Emília	maloletá	0	3471,3629,4294,4699,4702,4890
+941	Magálová Eva	r.Bučková, vdova	0	4661
+941	Magálová Eva	r.Dedíková, ž.Adama	0	3895,3896,4661
+941	Magálová Eva	urbár-N 3/2005=VZ 15/06	0	3895,3896
+941	MAGÁLOVÁ Eva		0	3629,3833,4047,4433
+941	MAGÁLOVÁ Eva	po Magálovej Eve r. Šimovej	0	4046
+941	MAGÁLOVÁ Eva	r.Gábelová	0	3895,3896,4654,4659,4661,4662,4730
+941	Magálová Eva r. Bučková		0	3051,3358,3493,3629,3983,4093,4333,4460,4463,4546
+941	MAGÁLOVÁ Eva r. Bučková	manžel Ján	0	4461
+941	Magálová Eva r. Dedíková	manžel Adam	0	3629
+941	MAGÁLOVÁ Eva r. Gábelová		0	4650
+941	MAGÁLOVÁ Eva r. Stachová	manžel Martin	0	4235
+941	MAGÁLOVÁ Eva r. Šimovecová	manžel Martin	0	3833
+941	MAGÁLOVÁ Kata r. Bušová		0	2861
+941	Magálová Katarína	r.Bahníková	0	4489
+941	Magálová Katarína	r.Miklánková	0	4661
+941	MAGÁLOVÁ Katarína		0	1450,3833,4074,4276
+941	MAGÁLOVÁ Katarína	po Magálovej Eve r.Šimovej	0	4046
+941	MAGÁLOVÁ Katarína	polni	0	4266
+941	MAGÁLOVÁ Katarína	r.Juracsek	0	3629,4661
+941	MAGÁLOVÁ Katarína	r.Zaťovičová	0	4661
+941	MAGÁLOVÁ Katarína	rod.Bukovčíková, m.Ján	0	4661
+941	MAGÁLOVÁ Katarína	slobodná	0	4047,4433
+941	MAGÁLOVÁ Katarína r. Bačová		0	3665
+941	Magálová Katarína r. Bahníková		0	3687,3767,4182,4214,4241,4264,4406,4678
+941	MAGÁLOVÁ Katarína r. Bukovčíková	manžel Ján	0	3629
+941	Magálová Katarína r. Bušová		0	1386,2684,4253
+941	MAGÁLOVÁ Katarína r. Jurenčeková		0	3734
+941	MAGÁLOVÁ Katarína r. Juvenčeková		0	4163
+941	Magálová Katarína r. Miklánková		0	1690,1691,2652,2916,3420,3421,3629,4121,4162,4418,4422,4423,4560,4765,4884
+941	MAGÁLOVÁ Katarína r. Štefaníková		0	3529
+941	MAGÁLOVÁ Katarína r. Zaťovičová		0	3629,3759,3915,4278,4280,4595,4891
+941	Magálová Mária	mal	0	4661
+941	Magálová Mária	maloletá	0	1387,2994,3138,3148,3151,3161,3629,3763,3764,3799,3872,3879,3880,4062,4172,4318,4365,4369,4382,4383,4454,4603,4604,4799,4800,4801,4812,4821,4822,4843,4872,4873,4912
+941	MAGÁLOVÁ Mária	po Magálovej Eve r. Šimovej	0	4046
+941	MAGÁLOVÁ Mária r. Bukovčíková		0	3791,4593
+941	Magálová Pavla r. Magálová	maloletá	0	1387,3799,4603
+941	Machová Anna	r.Čaňová	0	4661
+941	MALÍČEK Adam		0	3895,3896
+941	MALÍČEK Adam	Klučár, manželka Mária r. Skúpa	0	4543
+941	MALÍČEK Adam	manželka Mária r. Skúpa	0	4543
+941	MALÍČEK Ján		0	3629,3895,3896,4661
+941	Malíček Ján r. Malíček	syn Anny	0	3963
+941	MALÍČEK Martin		0	3137,3150,3527
+941	MALÍČEK Martin	brat Štefan	0	3717
+941	MALÍČEK Martin	mal	0	3895,3896
+941	MALÍČEK Martin	maloletý	0	3717
+941	MALÍČEK Martin	ž.Eva Kulichová	0	3942
+941	Malíček Milan	dátum úmrtia 13.06.1996	0	3895
+941	Malíček Milan r. Malíček		0	3895,3896
+941	Malíček Štefan	r.Malíček,1	0	3895,3896
+941	MALÍČEK Štefan		0	3629,3895,3896,4600,4661
+941	MALÍČEK Štefan	brat Martin	0	3717
+941	MALÍČKOVÁ Alžbeta	r.Skúpa	0	3895,3896
+941	MALÍČKOVÁ Alžbeta	slobodná	0	3895,3896
+941	Malíčková Anna		0	3895,3896,3942
+941	Malíčková Anna	dcéra Anny	0	2788,3363,3963
+941	Malíčková Anna	r.Klučarová m.Štefan	0	3895,3896
+941	MALÍČKOVÁ Anna	maloletá v r.1938	0	3912,3913
+941	MALÍČKOVÁ Anna	r.Klučarová	0	3895,3896
+941	MALÍČKOVÁ Anna	r.Zámečníková	0	4661
+941	MALÍČKOVÁ Anna r. Klučárová		0	3365
+941	Malíčková Anna r. Klúčarová	manžel Štefan	0	3364,3692,3701,3854,3895,3896
+941	MALÍČKOVÁ Emília	mal	0	3895,3896
+941	Malíčková Eva	r.Kulichová, m.Martin	0	3895,3896
+941	MALÍČKOVÁ Katarína		0	4545
+941	MALÍČKOVÁ Katarína	r.Martišová	0	3895,3896
+941	MALÍČKOVÁ Katarína	r.Turanová	0	3912,3913
+941	MALÍČKOVÁ Katarína r. Turanová		0	4038
+941	Malíčková Mária	r.Skúpa,m.Adam	0	3895,3896
+941	MALÍČKOVÁ Mária	vyd.Dedíková,mal	0	3912,3913
+941	Marek Štefan		0	3629
+941	MARGETÍN Ján		0	4611
+941	MARGETÍN Juraj		0	3895,3896
+941	Markovič Pavol	r.Markovič,Dr., urbár-N 3/2005=VZ 15/06	0	3895,3896
+941	Marták Adam	brat Martin	0	3665
+941	Marták Adam	r.Marták,brat Martin	0	3912,3913
+941	Marták Adam	r.Marták,urbár-N 3/2005=VZ 15/06	0	3895,3896
+941	MARTÁK Adam	manželka Katarína r. Lahvičková	0	3350,4894
+941	Marták Ján		0	3629,4650
+941	Marták Ján	r.Marták	0	3912,3913,4654,4659,4661,4662,4730
+941	MARTÁK Ján	brat Martin,Adam	0	3665
+941	MARTÁK Ján	mal	0	4654,4659,4661,4662,4730
+941	MARTÁK Ján	maloletý	0	1316,3629,4650
+941	Marták Štefan	r.Marták,Ing	0	3862,3912,3913
+941	MARTÁK Štefan		0	3629,4650,4654,4659,4661,4662,4730
+941	MARTÁK Štefan	manželka Eva r. Stachová	0	1316
+941	Marták Štefan r. Marták, Ing.		0	2792
+941	MARTÁKOVÁ Alžbeta r. Mičová		0	3690,3691,4807
+941	MARTÁKOVÁ Anna		0	2450
+941	MARTÁKOVÁ Anna	r.Martišová	0	4654,4659,4661,4662,4730
+941	MARTÁKOVÁ Anna r. Martišová		0	3629,4650
+941	MARTÁKOVÁ Anna r. Podhradská		0	2860,4055
+941	MARTÁKOVÁ Juliana r. Štefániková		0	3697
+941	Martáková Katarína	r.Štefániková Martinova	0	3895,3896,4661
+941	MARTÁKOVÁ Katarína	r.Bučková	0	4654,4659,4661,4662,4730
+941	MARTÁKOVÁ Katarína	r.Kubáková	0	4654,4659,4661,4662,4730
+941	MARTÁKOVÁ Katarína r. Bučková		0	3629,4650
+941	MARTÁKOVÁ Katarína r. Bukovčíková		0	3676,3759,4436,4891
+941	MARTÁKOVÁ Katarína r. Bukovčíková	manžel Ján	0	4436
+941	MARTÁKOVÁ Katarína r. Kubáková		0	3629,4650
+941	Martáková Katarína r. Štefániková		0	3696,3701,3844
+941	Martáková Katarína r. Štefániková	Martinova	0	1427,2855,3529,3629,3690,3691,3692,3693,3694,3697,3839,3901,3998,4003,4005,4010,4016,4021,4022,4025,4570,4612,4807,4899,4900
+941	Martáková Mária r. Stachová		0	3992,4219,4364,4846
+941	MARTIŠ Ján		0	4024
+941	MARTIŠ Ján	mal	0	4654,4659,4661,4662,4730
+941	MARTIŠ Ján	maloletý	0	3629,4650
+941	MARTIŠ Juraj	m.Anna Tulisová	0	4654,4659,4661,4662,4730
+941	MARTIŠ Juraj	mal	0	4654,4659,4661,4662,4730
+941	MARTIŠ Juraj	maloletý	0	3629,4650
+941	MARTIŠ Juraj	manželka Anna r. Tulisová	0	4650
+941	MARTIŠ Juraj	manželka Anna rod. Tulisová	0	3629
+941	MARTIŠ Martin		0	3629,4650,4654,4659,4661,4662,4730
+941	MARTIŠ Martin	ž.Katarína r.Magálová	0	4031
+941	MARTIŠ Štefan	m.Anna Kulichová	0	4654,4659,4661,4662,4730
+941	MARTIŠ Štefan	mal	0	4654,4659,4661,4662,4730
+941	MARTIŠ Štefan	maloletý	0	3629,4650
+941	MARTIŠ Štefan	manželka Anna r. Kulichová	0	4650
+941	MARTIŠ Štefan	manželka Anna rod. Kulichová	0	3629
+941	Martišová Anna	rod.Tomešová	0	3912,3913
+941	MARTIŠOVÁ Anna	r.Tomešová	0	4654,4659,4661,4662,4730
+941	Martišová Anna r. Tomešová		0	3629,4083,4650

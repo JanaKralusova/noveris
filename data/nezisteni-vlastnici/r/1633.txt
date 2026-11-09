@@ -1,0 +1,256 @@
+954	Brdo Ondrej, SR	Žiara	1	3463,3620
+954	Brdo Ondrej, SR Žiara, SPF		1	3402
+954	Brokutová Anna r. Cickanová, SR	mal	1	789
+954	Brokutová Anna, SR	Cickanová, mal	1	2813,2870,3231
+954	Brokutová Katarína r. Cickanová, HUBOVÁ, SR		1	3231
+954	Brokutová Katarína r. Cickanová, SR		1	789
+954	Brokutová Katarína, SR	Cickanová	0	2813,2870
+954	Brokutová Margita, SR	Cickanová	1	789,2432,2813,2870,3231
+954	Brtková Katarína r. Prídavková, SR	Jánova vd	0	2841
+954	Brtková Katarína r. Prídavková, SR	Jánova, vd	0	2873,2903
+954	Brtková Katarína r. Prídavková,vd., SR	Jánova	0	3099
+954	Bruk Jozef	ženatý s Annou rod. Hlinovou, zomrel	1	3335
+954	Brušková Anna r. Chovancová Bobolová, SR		0	3148
+954	Brušková Berta r. Mlynarčíková, SR		0	3148
+954	Brušková Margita r. Likavcová, SR		0	3148
+954	Brušková Rozália r. Jurgošová, SR		0	3148
+954	Brveník František, SR		0	2600,2601,2602,2603
+954	Brveník Jakub, SR		0	2600,2601,2602,2603
+954	Brveník Ján, SR		0	2600,2601,2603
+954	Brveník Jozef, SR		0	2600,2601,2602,2603
+954	Bugan Jozef, SR	Žihlavník	0	3020
+954	Buganová Mária	SR,Žihlavníková, slabomyselná	0	3975
+954	Buganová Mária	Žihlavníková	1	3458
+954	Buganová Mária r. Žihlavníková	A2: , slabomyselná	1	596
+954	Buganová Mária, SR	Žihlavníková, slabomyselná	1	2482,2520,2643,3020,3620,4353
+954	Buganová Mária, SR Žihlavníková, slabomyselná		0	2306
+954	Buganová Mária, SR Žihlavníková, slabomyselná, SPF		1	3402
+954	Bukna Ferdinand	Jozef,ženatý s Máriou rod. Paulínyovou	1	3408
+954	Buknová Mária r. Paulínyová	Ferdinandova	1	3408
+954	Bukovínová Zuana r. Barbušová, SR		0	2482,4353
+954	Bulej Ján	ml	0	2740
+954	Bulej Ján ml., SR		0	3086
+954	Bulej Ján, SR	ml	0	2482,2520,2643,2788,3975,4353
+954	Bulej Ján, SR ml.		0	2306
+954	Buleja Ján	ml	1	3458
+954	Buleja Ján, SR	ml	1	3467,3620,3643,3646,3660
+954	Buleja Ján, SR ml. SPF		1	3402
+954	Bulejová Anna, SR		0	2620,2695,2808
+954	Bulejová Mária r. Čokyová, SR	Ondrejova	0	2525
+954	Bulejová Zuzana		1	3458
+954	Bulejová Zuzana r. Kurtová Buganová, SR		1	2481,2482,2520,2643,3620,3975,4353
+954	Bulejová Zuzana r. Kurtová, SR Buganová		0	2306
+954	Bulejová Zuzana r. Kurtová, SR Buganová, SPF		1	3402
+954	Bulejová Žofia, SR		0	2620,2695,2808
+954	Buliak Jozef, SR		0	2681
+954	Buliaková Anna r. Kútniková	A2: , zomrela 23.11.1977	1	749,3932
+954	Buliaková Anna r. Kútniková, 034 92, Stankovany, SR	zomr. 23.11.1977	0	749
+954	Buma Ján	Madar	1	3458
+954	Buma Ján, SR	Madar	0	2482,2496,2497,2520,2555,2643,2948,3975,4353
+954	Buma Ján, SR	Madar, sestra Helena	1	3620,3651
+954	Buma Ján, SR Madar		0	2306
+954	Buma Ján, SR Madar, sestra Helena, SPF		1	3402
+954	Buma Ondrej, SR	Madar	0	2603
+954	Bumová Mária r. Plešková, SR	Marczelli	0	2603
+954	BUROŠOVÁ Anna	nepr. v D 1681/88	0	3458,3682
+954	Burošová Anna r. Dobríková, SR		0	2306,2482,2520,2524,2643,2764,3975
+954	Burošová Anna, SR	zom. 10.11.1988, nepr. v D 1681/88	0	3620
+954	Burošová Anna, SR zom. 10.11.1988, nepr. v D 1681/88		0	3402
+954	Burošová Mária		1	3458
+954	Burošová Mária r. Galanová, SR	Ondrejova	1	3510
+954	Burošová Mária, SR		1	3620
+954	Burošová Mária, SR SPF		1	3402
+954	Bystričan Ondrej, SR		0	3148
+954	Camber Cyprián	Muka	0	3148
+954	Camber Cyprián, SR		0	3148
+954	Camber Elek	Muka	0	3148
+954	Camberová Agneša r. Garajová, SR		0	3148
+954	Camberová Katarína r. Muková, SR		0	3148
+954	Cecková Katarína r. Ročiaková, SR		0	3116
+954	Ceperová Zuzana r. Koškárová, SR	2x vydatá	0	2482,4353
+954	Cibulka Cyril, SR		0	2518
+954	Cibulková Veronika r. Koštialová, SR		0	2518
+954	Cickan Ondrej, SR		1	789,2432,2813,2870,3231
+954	Cickan Ondrej, SR	Brokuta	1	789,2432,2813,2870,3231
+954	Cickanová Anna, SR	Brokutová	0	2900,2915,3009,3048
+954	Cickanová Katarína, SR	Brokutová	1	789,2813,2870,2900,2915,3009,3048,3231
+954	Cickanová Ktarína, SR	Brokutová	0	2432
+954	Cicko Jozef, SR		0	3013
+954	Cipiaková Katarína, SR	Bražinová	0	2857
+954	Cipjak Ján, SR		0	2874
+954	Converyová Mária r. Žiarová, SR	v USA	0	2493
+954	Cuper Ján	1	1	3458
+954	Cuper Ján, SR		0	2306,2482,2520,2584,2643,3131,3975,4353
+954	Cuper Ján, SR	1 ,; 1	1	3620
+954	Cuper Ján, SR	ml	1	3471
+954	Cuper Ján, SR	ženatý s Máriou rod. Šušorenou	1	3470
+954	Cuper Ján, SR 1, SPF		1	3402
+954	CUPEROVÁ Mária	rod. Šušorená, nepr. v D 922/70	0	3458
+954	Cuperová Mária r. Šušorená, SR	Jánova	0	2482,2520,2643,3975,4353
+954	Cuperová Mária r. Šušorená, SR	Jánova, 1	1	3470
+954	Cuperová Mária r. Šušorená, SR	zom. 10.08.1970, nepr. v D 922/70	0	3620
+954	Cuperová Mária r. Šušorená, SR Jánova		0	2306
+954	Cuperová Mária r. Šušorená, SR zom. 10.08.1970, nepr. v D 922/70		0	3402
+954	Cuperová Zuzana		1	3458
+954	Cuperová Zuzana r. Koškárová		1	3445
+954	Cuperová Zuzana r. Koškárová	2x vydatá	0	2729,2730
+954	Cuperová Zuzana r. Koškárová	A2:	1	165
+954	Cuperová Zuzana r. Koškárová, SR		1	3715
+954	Cuperová Zuzana r. Koškárová, SR	2 krát vydatá	0	2790
+954	Cuperová Zuzana r. Koškárová, SR	2x vydatá	0	2482,2520,2643,3975,4353
+954	Cuperová Zuzana r. Koškárová, SR	Jozefova Kurilova	1	3620
+954	Cuperová Zuzana r. Koškárová, SR	Kuderová, 2x vydatá	1	3472,3620,3643
+954	Cuperová Zuzana r. Koškárová, SR 2x vydatá		0	2306,2741
+954	Cuperová Zuzana r. Koškárová, SR Jozefova Kurilova, SPF		1	3402
+954	Cuperová Zuzana r. Koškárová, SR Kuderová, 2x vydatá, SPF		1	3402
+954	Čamatejová Anna r. Komová, SR		1	2524,2805,3647
+954	ČAMATEJOVÁ Katarína	nepr. v D 63/81	0	3458,3693
+954	Čamatejová Katarína, SR	zom. 05.01.1981, nepr. v D 63/81	0	3620
+954	Čamatejová Katarína, SR zom. 05.01.1981, nepr. v D 63/81		0	3402
+954	Čamatejová Katarínaq r. Barbušová, 034 93, Hubová, č. 144, SR	Jozefova	0	2643
+954	Čapčíková Mária r. Urmínová, SR	Emilova	0	2432
+954	Černek Ján		1	3458
+954	Černek Ján	Holík	1	3374
+954	Černek Ján	Holík, žen.s Annou Koškárovou	0	2696,2714
+954	Černek Ján	ml.ženatý s Máriou Balejovou	0	2682,2700
+954	Černek Ján, SR	Holík, žen. s Annou Koškárovou	1	2755,2775,2792,2795,2796,2799,3708
+954	Černek Ján, SR	Holík, žen.s Annou Koškárovou	0	2482,2520,2643,3975,4353
+954	Černek Ján, SR	Holík, ženatý s Annou Koškárovou	1	3620,3632,3636
+954	Černek Ján, SR Holík, žen.s Annou Koškárovou		0	2306
+954	Černek Ján, SR Holík, ženatý s Annou Koškárovou, SPF		1	3402
+954	Černek Ondrej, SR		0	2529,2748
+954	Černeková Anna		1	3374,3458
+954	Černeková Anna r. Koškárová	Jánova	0	2714
+954	Černeková Anna r. Koškárová, SR	Jánova	1	2482,2520,2643,2755,2775,2792,2796,3620,3632,3636,3975,4353
+954	Černeková Anna r. Koškárová, SR Jánova		0	2306
+954	Černeková Anna r. Koškárová, SR Jánova, SPF		1	3402
+954	Černeková Anna, SR		1	2306,2482,2520,2643,2696,2714,2755,2775,2795,2796,2799,3620,3632,3708,3975,4353
+954	Černeková Anna, SR SPF		1	3402
+954	Černeková Zuzana, SR		0	2529
+954	Čuková Anna r. Koškárová, SR	Fujková	0	2644
+954	Čuniak Ján	Holík	0	2696
+954	Čuniak Ján, SR	Holík	0	2795,2799
+954	Čuniaková Anna r. Koškárová	Jánova	0	2696
+954	Čuniaková Anna r. Koškárová, SR	Jánova	0	2795,2799
+954	Čutka Ján	Krúpa	1	3458
+954	Čutka Ján, SR	Krúpa	1	3620
+954	Čutka Ján, SR Krúpa, SPF		1	3402
+954	Čutková Anna	Fujková	0	2570
+954	ČUTKOVÁ Mária	nepr. v D 910/74	0	3458
+954	Čutková Mária r. Durdiaková, SR		0	2306,2482,2485,2619,2643
+954	Čutková Mária r. Durdíková, SR		0	69,2520,3975
+954	Čutková Mária r. Zubajová, SR	Fujko	0	2641
+954	Čutková Mária, SR	zom. 11.08.1974, nepr. v D 910/74	0	3620
+954	Čutková Mária, SR zom. 11.08.1974, nepr. v D 910/74		0	3402
+954	Dančo Ján	zomrel	1	3427,3458
+954	Dančo Ján	žen. so Zuzanou Balejovou	0	2757
+954	Dančo Ján, SR		0	2757
+954	Dančo Ján, SR	1	0	2482,2520,2643,3975,4353
+954	Dančo Ján, SR	sestra Mária	1	3633
+954	Dančo Ján, SR	Tomášov	0	2655,2660,3202
+954	Dančo Ján, SR	zomrel	1	3620
+954	Dančo Ján, SR	žen. so Zuzanou Balejovou	0	2775
+954	Dančo Ján, SR	ženatý so Zuzanou Balejovou	0	2482,2520,2643,2755,2796,3096,3975,4353
+954	Dančo Ján, SR 1		0	2306
+954	Dančo Ján, SR zomrel, SPF		1	3402
+954	Dančo Ján, SR ženatý so Zuzanou Balejovou		0	2306
+954	Dančo Jozef	Tomášov 2	0	2743
+954	DANČO Jozef	nepr. v D 248/80, D 942/94	0	3458
+954	Dančo Jozef, SR	mal	0	3082
+954	Dančo Jozef, SR	Tomášov	0	2482,2520,2643,2755,2757,2775,2796,3975,4353
+954	Dančo Jozef, SR	Tomášov 2	0	2482,2520,2643,2655,2660,3202,3975,4353
+954	Dančo Jozef, SR	zom. 16.02.1980, nepr. v D 248/80, D 942/94	0	3616,3620,3633
+954	Dančo Jozef, SR zom. 16.02.1980, nepr. v D 248/80, D 942/94		0	3402
+954	Dančo Ondrej, SR		0	2549,2583
+954	DANČOVÁ Anna	nepr. v D 339/92, D 678/92	0	3458
+954	Dančová Anna r. Barbušová, SR	zom. D 819/85	0	2369,2482,2520,2588,2597,2643,2654,2662,2755,2757,2775,2796,3975,4353
+954	Dančová Anna r. Barbušová, SR zom. D 819/85		0	2716,3133,3145
+954	Dančová Anna r. Chrenková, SR		0	2549,2583
+954	Dančová Anna r. Jarinová, SR		0	3125
+954	Dančová Anna r. Jarinová, SR	Karolova	0	2482,2520,2549,2556,2562,2567,2583,2643,3975,4353
+954	Dančová Anna r. Jarinová, SR Karolova		0	2306
+954	Dančová Anna, SR	mal	0	3194
+954	Dančová Anna, SR	zom. 31.12.1958, nepr. v D 339/92, D 678/92	0	3620
+954	Dančová Anna, SR zom. 31.12.1958, nepr. v D 339/92, D 678/92		0	3402
+954	Dančová Mária r. Chylová Zaťková, SR		0	2482,2520,2643,3975,4353
+954	Dančová Mária r. Chylová, SR Zaťková		0	2306
+954	Dančová Mária, SR		1	2757,3633
+954	DANČOVÁ Valéria	nepr. v D 189/90	0	3345,3702
+954	Dančová Valéria r. Dančová, SR	Vincentova	0	2597
+954	Dančová Zuzana, SR		0	2757
+954	Dančová Zuzana, SR	mal	0	3082
+954	DARILOVÁ Katarína	rod. Tomlyová	1	3458,3710
+954	Darilová Katarína r. Tomlyová	zom. 24.04.1979	1	3439
+954	Darilová Katarína r. Tomlyová, 034 93, Hubová, č. 159, SR		0	2520
+954	Darilová Katarína r. Tomlyová, SR	zom. 24.04.1979	1	149,3494,3617,3620,4305
+954	Darilová Katarína r. Tomlyová, SR	zom. 24.04.1979SPF	1	3622
+954	Darilová Katarína r. Tomlyová, SR zom. 24.04.1979, SPF		1	3402
+954	Darilová Regína, SR		0	3148
+954	Debnár Dominik, SR		0	3148
+954	Debnár Jozef, SR		0	2552
+954	Debnár Martin	Černovec	0	3148
+954	Debnár Martin, SR		0	3148
+954	Debnárová Agneša r. Forgáčová, SR		0	3148
+954	Debnárová Helena	mal	0	3148
+954	Debnárová Mária	mal	0	3148
+954	Debnárová Mária r. Hrnčiarová, SR		0	3148
+954	Demikát Ján, SR		0	2595,2599
+954	Demko Albert	Karlík	0	3148
+954	Demko Dominik	Lukáč	0	3148
+954	Demko Stanislav	Karlík	0	3148
+954	Demko Štefan	Karlík	0	3148
+954	Demko Štefan	Lukáč	0	3148
+954	Demková Katarína r. Hančíková, SR	zomrela	0	2508
+954	Demková Sabína r. Šefferová, SR		0	3148
+954	Demková Zuzana r. Šuhajdová, SR		0	3148
+954	Domiterová Perla r. Lukáčová, SR		0	3148
+954	Drapáč Ferdinand, SR		0	3148
+954	Drapač Ján	Mišata	0	3148
+954	Drapáčová Zuzana r. Hrnčiarová Mišatová, SR		0	3148
+954	Drechslerová Rena r. Fischerová, SR		0	2511
+954	Dúbravcová Mária	mal	0	3148
+954	Dúbravcová Štefánia r. Karlíková, SR		0	3148
+954	Dúbravcová Zuzana r. Lukáčová, SR		0	3148
+954	Dudáková Mária, SR	Kurtová Bugánová	0	2597
+954	Durdiak Andrej	Boskaj	1	3458
+954	Durdiak Andrej	mal	1	3264
+954	Durdiak Andrej, SR	Boskaj	1	3620
+954	Durdiak Andrej, SR Boskaj, SPF		1	3402
+954	DURDIAK Anton	nepr. v D 262/85	0	3375,3708
+954	Durdiak Anton, SR	nepr. v D 262/85, zom.14.02.1985	0	111
+954	Durdiak Antón, SR		0	3098
+954	Durdiak Ján	1	1	3338
+954	Durdiak Ján	Chovan	0	2693
+954	Durdiak Ján, SR	ml	1	3656
+954	Durdiak Ondrej, SR	Bočkaj	0	2482,2520,2643,3975,4353
+954	Durdiak Ondrej, SR	žen. s Máriou rod. Holíkovou, zomrel	1	3518
+954	Durdiak Ondrej, SR Bočkaj		0	2306
+954	Durdiaková Anna		1	3458
+954	Durdiaková Anna r. Galanová, SR	Michalova	0	2656
+954	Durdiaková Anna r. Húsková Hamajová, SR	Jánova Medvedová	1	3620
+954	Durdiaková Anna r. Húsková Hamajová, SR	Medvedová	0	2482,2520,2643,2753,2755,2775,2777,2796,3975,4353
+954	Durdiaková Anna r. Húsková, SR		0	2532,2701
+954	Durdiaková Anna r. Húsková, SR Jánova Medvedová, Hamajová, SPF		1	3402
+954	Durdiaková Anna r. Húsková, SR Medvedová, Hamajová		0	2306
+954	Durdiaková Antónia, SR	zom. 29.01.1993	1	3620
+954	Durdiaková Antónia, SR	zom.D 230/93	1	2482,2520,2530,2563,2625,2643,2782,2783,2786,2804,2806,3092,3670,3975
+954	Durdiaková Antónia, SR zom. 29.01.1993, SPF		1	3402
+954	Durdiaková Antónia, SR zom.D 230/93		0	2306,3133
+954	DURDIAKOVÁ Antónia, zom. 29.01.1993		1	3458
+954	Durdiaková Mária r. Holíková, SR	Ondrejova,zomrela	1	3518
+954	Durdiaková Mária r. Hrončová		1	3303
+954	Durdiaková Mária r. Hrončová, SR		1	3698
+954	Durdiaková Mária r. Hrončová, SR SPF		1	3296,3300
+954	Durdiaková Mária r. Kukulová, SR		1	789,2432,2813,2870,3231
+954	Durdiaková Mária, SR		1	3656
+954	Durdiaková Žofia		1	3458
+954	DURDIAKOVÁ Žofia	rod. Petková	0	3375,3708
+954	Durdiaková Žofia r. Petková, SR	zom. 18.08.1993	0	111,3635
+954	Durdiaková Žofia r. Peťková, SR	Antonova	1	789,2432,2813,2870,2877,3002,3181,3231
+954	Durdiaková Žofia, SR		0	2306,2482,2520,2528,2531,2538,2643,2704,2775,2796,3098,3133,3975,4353
+954	Durdiaková Žofia, SR	súr. Anna, Anton, Zuzana, Mária, Helena, zom	1	3620
+954	Durdiaková Žofia, SR súr.Anna,Anton,Zuzana,Mária,Helena,zom., SPF		1	3402
+954	Dvorák Rudolf	ženatý s Máriou rod. Milkovičovou	1	3428
+954	Dvorák Rudolf, SR	žen. s Máriou rod. Milkovičovou	1	3714
+954	Dvoráková Mária r. Milkovičová	Rudolfova	1	3428
+954	Dvoráková Mária r. Milkovičová, SR	Rudolfova	1	3714

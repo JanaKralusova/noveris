@@ -1,0 +1,256 @@
+243	Škurlová Helena r. Potomová		1	460
+243	Škurlová Mária		1	481
+243	Škurlová Terézia		1	460,559,651,652,653,742
+243	Šmajdová Helena r. Antošová		1	449,452,540,554,584,698,735,747,748
+243	Špaková Anna r. Antošová		1	509
+243	Šurinová Mária r. Fečková		1	557
+243	Tomko Michal		1	451,584,594,682,732,760
+243	Vaško Michal		1	574,644,767
+243	Vendeľ Andrej		1	574,644,767
+243	Vendeľ Ján		1	574,644,767
+243	Vendeľ Ján r. Hurná		1	574,767
+243	Vendeľ Michal		1	574,644,767
+243	Vendeľ Štefan		1	574,644,767
+243	Vendeľová Anna		1	574,644,767
+243	Vendeľová Helena r. Hrižová		1	574,644,767
+243	Verbová Eva r. Škurlová		1	481
+243	Verbová Mária r. Fečková		1	449,452,485,493,509
+243	Vrabeľ Michal		1	451,551,584,682,732,760
+243	Vrabľová Mária		1	543,575,594
+243	Weizberg Ignác		1	449,452,509,517,564,583,584,607,618,619,620,621,622,633,634,654,655,656,657,658,659,660,693,696,703,716,717,718,722,723,764,770
+244	Aláč Ján	mal	0	33
+244	Aláč Ján, SR	mal	0	211
+244	Aláč Ján, SR	maloletý	1	212,227,261,291,307,325,339,342,346,360,411,420,435
+244	Aláč Juraj	mal	0	33
+244	Aláč Juraj, SR	mal	0	211
+244	Aláč Juraj, SR	maloletý	1	212,227,261,291,307,325,339,342,346,360,411,420,435
+244	Aláčová Anna r. Aláčová		0	33
+244	Aláčová Anna, SR	mal	0	211
+244	Aláčová Anna, SR	maloletá	1	212,227,261,291,307,325,339,342,346,360,411,420,435
+244	Aláčová Zuzana	mal	0	33
+244	Baláž Ján, SR		0	332,390
+244	Baláž Ján, SR	komár	0	361
+244	Baláž Ján, SR	martinov	1	489
+244	Baláž Ondrej, SR		1	227
+244	Baláž Ondrej, SR	a	0	261,291,325,360,435
+244	Baláž Ondrej, SR	b	0	213,336,430
+244	Baláž Ondrej, SR	maloletý	1	474
+244	Baláž Pavel r. Baláž		0	33
+244	Baláž Pavel, SR		0	261,291,325,339,411,435
+244	Baláž Pavel, SR	a	1	474
+244	Baláž Pavel, SR	b	1	227
+244	Baláž Pavel, SR	mal	0	211
+244	Baláž Pavel, SR	maloletý	0	212
+244	Baláž Pavol, SR		0	445
+244	Baláž Rudolf, SR		1	481
+244	Balážová Anna r. Lenhardová, SR	b	0	439
+244	Bartoš Juraj, SR		1	474
+244	Bartošová Anna r. Beňová, SR	zomrela 28.2.1988	1	227,474
+244	Bartošová Anna r. Rimajová, SR		1	492
+244	Beňo Pavel, SR	rúfik	1	227,307
+244	Beňo Pavol	rufík	0	33
+244	Beňo Pavol, SR	rúfik	0	211,212,261,291,325,339,346,360,394,398,411,420,435
+244	Beňová Anna r. Galová		0	33
+244	Beňová Anna r. Gálová, SR		1	211,212,227,261,291,307,325,339,346,360,394,398,411,420,435,474
+244	Berky Štefan, SR		0	332,361,369
+244	Berkyová Mária r. Oláhová, SR		0	332,361,369
+244	Bobáľ Pavol, SR	slobodný,syn Ondreja	0	374
+244	Dárer Alexander		1	87
+244	Dárer Alexander, SR		1	88,484
+244	Demeter Pavel	mal	1	506
+244	Demeter Pavol, SR		0	416
+244	Demeterová Anna	mal	1	506
+244	Demeterová Anna, SR		0	416
+244	Drugan Ján, SR		0	291,360,435,444
+244	Druganová Zuzana r. Lenhardová, SR		0	371,391
+244	Ďurás Ján, SR	kovan	0	434
+244	Ďurás Michal, SR	segény	0	337
+244	Ďurás Ondrej, SR		0	361
+244	Ďurás Pavol, SR		0	270,436
+244	Ďurík Ján, SR	maloletý	0	320
+244	Ďurík Juraj		0	435
+244	Ďurík Juraj, SR		0	291,360
+244	Ďuríková Mária	r. Krekáčová, Tanczuráková	1	506
+244	Ďuríková Mária r. Krekáčová, SR		0	241
+244	Ďuriš Pavol, SR	maloletý	0	219
+244	Ďuroš Ján, Švermova 13, Lučenec, SR		0	361
+244	Ďurošová Anna r. Kolesárová, SR	manžel Pavol,kaprál	0	217
+244	Ďurošová Zuzana r. Vargová, SR	manž.Ján	0	291,360,435
+244	Gáliková Anna	r. Krekáčová, manž. Juraj	1	506
+244	Gombala Emil, SR	manž.Cecília r.Matušková	1	452
+244	Halgaš Michal, SR		0	361,379,383,388
+244	Halgaš Michal, SR	manž.Mária r.Ragačová	0	278,279,293,302,315,331,365,368,390,418
+244	Haško Lajoš, SR		0	345
+244	Hašková Zuzana r. Balážová, SR	manž.Ján	1	227,261,291,339,360,403,411,435
+244	Hriešik Pavel, SR		1	482
+244	Hriešik Pavel, SR	ml	1	482,493
+244	Hriešik Pavol, SR	manž.Mária r.Vargová	1	493
+244	Hriešiková Mária r. Vargová, SR	manž.Pavol	1	488
+244	Hriešiková Zuzana	r. Krekáčová	1	506
+244	Hrúz Samuel, SR		0	307,325,361
+244	Hrúz Samuel, SR	ml	0	291,360,435
+244	Hudec Ján, SR		1	485
+244	Hudec Ján, SR	belica	0	413
+244	Hudec Ján, SR	maloletý	1	235,291,360,435,493,507
+244	Hudec Ján, SR	ml.šimák	0	361
+244	Hudec Ján, SR	st	0	291,360,435
+244	Hudec Ján, SR	vd	0	425,435
+244	Hudec Michal, SR		0	235,507
+244	Hudec Michal, SR	kusrás	0	291,360,435
+244	Hudec Michal, SR	maloletý	1	493
+244	Hudec Pavol	kasáš	0	375
+244	Hudec Pavol, SR		0	354,406,423
+244	Hudec Pavol, SR	pahus	0	439
+244	Hudec Pavol, SR	petruš,manž.Zuzana r.Križanová	0	324
+244	Hudec Pavol, SR	st. kosáč	0	361
+244	Hudecová Anna r. Kamasová, SR	manž.Ján	0	360,435
+244	Hudecová Anna r. Kamasová, SR	manžel Ján	0	291
+244	Hudecová Anna r. Krekáčová, SR		1	210,235,493,507
+244	Hudecová Anna r. Šuľanová, SR		0	291,435
+244	Hudecová Barbora r. Pavlová, SR		0	297,315
+244	Hudecová Mária r. Ďurásová	šimák	0	357
+244	Hudecová Mária r. Ďurásová, SR	šimák	0	244,270,508
+244	Hybská Anna, SR		0	361
+244	Kalmár Ján, SR		0	290
+244	Kalmár Ján, SR	šéter	0	220
+244	Karabinošová Emília r. Ozanová, SR		0	312,344
+244	Kíniová Zuzana r. Lenhardová, SR		0	248,272,273,282,509
+244	Kolárová Božena r. Hudecová, SR		0	240,291,360,361,435
+244	Krasnik Ondrej, SR		1	494
+244	Krasnik Ondrej, SR	maloletý	0	285
+244	Krekáč Ján, SR		1	361,475,476
+244	Krekáč Martin, SR		0	395
+244	Krekáč Tomáš	mal	1	506
+244	Krekáč Tomáš, SR	ml	0	291,360,435
+244	Krekáč Tomáš, SR	mladší	0	253
+244	Krekáčová Anna r. Hudecová, SR		1	473
+244	Krekáčová Mária, SR		0	260,292,338,419
+244	Krekáčová Zuzana r. Števčoková, SR	manž.Tomáš	0	292,419
+244	Krekáčová Zuzana r. Števčoková, SR	manžel Tomáš	0	338
+244	Krekáčová Zuzana, SR		0	291,360,435
+244	Krekáčová Zuzana, SR	maloletá	0	292,338,419
+244	Križan Ján, SR	maloletý	0	426
+244	Križanová Zuzana r. Števková, SR		0	234,243,265,287,300,301
+244	Križanová Zuzana r. Števková, SR	vd	0	321,355,361,393,426
+244	Kupček Vojtech, SR		0	291,360,435
+244	Labát Ján, SR		0	291,360,435
+244	Lenhard Ján, SR		1	492
+244	Lenhard Ján, SR	kuťan	0	361
+244	Lenhard Ján, SR	manž.Alžbeta r.Hrbenová	0	430
+244	Lenhard Ján, SR	manž.Elena r.Bačúrová	1	486
+244	Lenhard Ján, SR	matej	1	90,486,491
+244	Lenhard Michal, SR		0	372
+244	Lenhard Michal, SR	lemeš	0	291,360,435
+244	Lenhard Ondrej, SR		0	216
+244	Lenhard Ondrej, SR	manž.Mária r.Vargová	0	430
+244	Lenhard Ondrej, SR	ml	0	366
+244	Lenhard Pavel, SR	manž.Anna r.Chovancová	1	490
+244	Lenhardová Anna r. Hudecová		1	208,254,359,361,368,386,391,430
+244	Lenhardová Anna r. Hudecová, SR		1	480,495
+244	Lenhardová Anna r. Chovancová, SR	manž.Pavel	1	490
+244	Lenhardová Anna r. Ragačová, SR	manž.Ján,kuťan	1	495
+244	Lenhardová Judita, SR		0	216
+244	Lenhardová Mária r. Ďurišová, SR	slúči	0	435
+244	Lenhardová Mária r. Ďurošová, SR	sluči	1	490
+244	Lenhardová Mária r. Kyseľová, SR		1	474
+244	Lenhardová Zuzana r. Kušniarová, SR		1	482
+244	Líšková Anna r. Juhászová, SR		1	224,471
+244	Litavská Anna r. Labátová, SR	manž.Martin	0	291,360,435
+244	Litavská Mária, SR	manž.Pavel,varga	0	278
+244	Lomanová Mária r. Labátová, SR	manž.Ján	0	291,360,435
+244	Maková Zuzana r. Labátová, SR	manž.Ján	0	291,360,435
+244	Marková Zuzana, SR		0	238,268
+244	Melich Jozef		0	396
+244	Melich Laurinec, SR		1	490
+244	Merka Ján, SR		0	291,360,435
+244	Merka Michal, SR		0	291,360,435
+244	Merková Anna, 99101, Brusník, č. 22, SR		0	361
+244	Merková Zuzana, SR	maloletá	0	259
+244	Miháľová Zuzana r. Nováková, SR	manž.Pavel	0	404
+244	Mravíková Anna r. Juhászová, SR		1	225
+244	Murínová Emília r. Krnáčová, SR		0	361,363,365,436
+244	Murínová Emília r. Krnáčová, SR	vd	0	361,363,365,436
+244	Ozanová Anna, SR		0	312,344
+244	Ozanová Magdaléna, SR		0	312,344
+244	Pekárová Mária r. Fábryová, SR	manž.Ján	0	268
+244	Pekárová Mária r. Fábryová, SR	manžel Ján	0	238
+244	Petušová Anna r. Ďurásová, SR		0	291,360,361,435
+244	Pravda Aladár		1	87
+244	Pravda Aladár, SR		1	88,484
+244	Pravda Ondrej		1	87
+244	Pravda Ondrej, SR		1	88,291,435,446,484
+244	Pravdová Elena		1	87
+244	Pravdová Elena, SR		1	88,484
+244	Pravdová Hermína		1	87
+244	Pravdová Hermína, SR		1	88,484
+244	Pravdová Ilona		1	87
+244	Pravdová Ilona, SR		1	88,484
+244	Pravdová Mária r. Félixová, SR	vdova	0	341
+244	Pravdová Mária r. Gálixová		1	87
+244	Pravdová Mária r. Gálixová, SR		1	88
+244	Pravdová Mária r. Gálixová, SR	vd	1	484
+244	Rajčoková Zuzana r. Bojna	manž. Ondreja	0	8
+244	Remen Juraj, SR		0	291,360,435
+244	Repa Pavol, SR	b	0	289
+244	Repová Zuzana r. Števčoková, Senné, SR		0	431
+244	Rimajová Anna r. Cupciová, SR	manž.Pavel	1	492
+244	Salandáková Júlia r. Ozanová, SR		0	312,344
+244	Slezáková Alžbeta r. Vargová		1	87
+244	Slezáková Alžbeta r. Vargová, SR		1	88,484
+244	Strhárská Etela r. Pravdová		1	87
+244	Strhárská Etela r. Pravdová, SR		1	88,484
+244	Suchánsky Pavol, SR		0	331,422
+244	Števko Michal, SR		0	430
+244	Šuľanová Zuzana r. Hrubíková, SR		0	433
+244	Šuľanová Zuzana r. Hrubíková, SR	manž.Pavol	0	433
+244	Tóth Michal, SR	manž.Karolína r.Kováčová	1	482
+244	Tóthová Gizela, SR	maloletá,dcéra Jána	1	476,477
+244	Tóthová Karolína r. Kováčová, SR	manž.Michal	1	482
+244	Trník Ján		0	68
+244	Varga Ján, SR	babka	0	361
+244	Varga Ján, SR	bobko	0	279,293,353,387,417
+244	Varga Ján, SR	gago	0	335
+244	Varga Pavel, SR	ml	0	291,435
+244	Varga Pavol, SR	st	0	377
+244	Vargová Zuzana, SR		0	341
+244	Vitálová Anna r. Balážová, SR		0	325
+245	Babiaková Ilona r. Brašová		0	128
+245	Babik Jozef, SR		0	183
+245	Babiková Gizela r. Ruzsinszkiová, SR		0	183
+245	Bakošová Mária r. Bugarová		0	128
+245	Balászová Anna r. Michalidesová, Bohúňovo, SR		0	187
+245	Baláž Gejza, Bretka, SR	manž. Alžbeta r. Zulová	0	188
+245	Baláž Jozef, Bretka, SR		0	188
+245	Baláž Juraj, Bretka, SR		0	188
+245	Baláž Pavol, Bretka, SR		0	188
+245	Baláž Štefan, Bretka, SR		0	188
+245	Balážová Alžbeta r. Zulová, Bretka, SR		0	188
+245	Balážová Barbora r. Vargová, Bretka, SR		0	188
+245	Balážová Barbora, Bretka, SR		0	188
+245	Balážová Gizela r. Molnárová, Bretka, SR		0	188
+245	Balážová Mária, Bretka, SR		0	188
+245	Balážová Zuzana r. Pivníková		0	127,128
+245	Balogová Pavlína r. Adamovičová		0	141,142,220
+245	Baník Ján r. Baník	ml	0	52,135
+245	Baník Ján r. Baník	ž. Zuzana r. Fazekašová	0	52,134,135
+245	Baník Ondrej r. Baník		0	134
+245	Baník Pavel, Španie pole, SR	manž. Zuzana r. Bartová	0	165
+245	Baníková Juliana r. Punková, SR		0	185
+245	Barcziová Barbora r. Jánosdeáková, Bohúňovo, SR		0	187
+245	Barnotská Mária r. Balogová, Bretka, SR	manž. András	0	188
+245	Barnotský András, Bretka, SR	manž. Mária r. Balogová	0	188
+245	Bartók Arpád, SR		0	185
+245	Bartók Ján, SR		0	183,185
+245	Bartók Ján, SR	ml	0	185
+245	Bartók Juraj, SR		0	185
+245	Bartók Ľudovít, SR		0	185
+245	Bartóková Mária r. Siketová, SR	manž. Michal	0	183
+245	Bartóková Priška r. Bartóková, SR		0	185
+245	Bartóková Priška r. Bartóková, SR	manž. Július	0	185
+245	Bartóková Zuzana r. Bedécsová, SR	manž. Štefan	0	185
+245	Bartóková Zuzana r. Punková, SR		0	185
+245	Bedécs Ján, SR		0	185
+245	Bedécs Ladislav, SR	1	0	185
+245	Bedécs Štefan, SR		0	185
+245	Bedécsová Barbora r. Bartóková, SR	manž. Štefan	0	185
+245	Bedécsová Barbora r. Koósová, SR	manž. Ondrej/Miklós	0	185

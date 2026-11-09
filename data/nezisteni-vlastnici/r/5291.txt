@@ -1,0 +1,256 @@
+2980	VAVROVÁ Žofia	rod.Masarovičová,m.Ján	1	802
+2980	ZÁMEČNÍK Jozef	manž.Emília Žákovicová	1	492
+2980	Zámečníková Eva	rod.Lobíková,m.Michal	1	754
+2980	ZAŤOVIČ Imrich	syn Štefana	1	786
+2980	ZAŤOVIČ Pavol	manž.Margita Žákovicová	1	789
+2980	ZAŤOVIČ Štefan	manž.Anna Jakubíková	1	391,393,778,786
+2980	ZAŤOVIČ Viktor	syn Štefana	1	391,393,778,786
+2980	Zaťovičová Anna		1	646
+2980	Zaťovičová Margita	rod.Žákovicová,m.Pavol	1	373,375,376,378,379,380,381,382,383,384,433,434,779,791,980
+2980	Zaťovičová Margita r. Žákovicová	m.Pavol	0	1123,1126,1131
+2980	Zaťovičová Mária		1	646
+2980	ZAŤOVIČOVÁ Mária	dcéra Štefana	1	391,393,778,786
+2980	Zelenáková Mária r. Zámečníková		1	754
+2980	ZONGORA Ján	manž.Anna Vávrová	1	800
+2980	ZONGOROVÁ Anna	rod.Vavrová,m.Ján	1	800
+2980	ŽÁCKA Katarína	dcéra Jozefa	1	758
+2980	Žácky Ján	manž.Katarína Mihalová	1	756
+2980	ŽÁCKY Jozef	manž.Zuzana Kobelíková	1	758
+2980	Žácky Štefan	syn Štefana,opatrovaný	1	756
+2980	ŽÁK Ján	syn Agneši r.Žákovicovej	1	494
+2980	Žák Ján r. Žákovicovej	syn Agneši	1	513
+2980	ŽÁKOVIC Ján	manž.Ilona Majcherová	1	807
+2980	ŽÁKOVIC Ján	syn Jozefa	1	679
+2980	Žákovic Jozef	syn Štefana	1	373,375,376,378,379,380,381,382,383,384,433,434,779,791,980,1123,1126,1131
+2980	Žákovicová Mária	rod.Fleischmanová,m.Ján	1	377
+2980	Žákovicová Mária r. Kaššovicová	vdova po Jánovi	1	674
+2980	ŽAKOVICOVÁ Pavlína	dcéra Jozefa	1	796
+2980	ŽÁKOVIČ Ján	manž.Mária Fleischmanová	1	433,434
+2981	....	Neznámy vlastník; Neznámy vlastník	0	2055,2441,3212
+2981	Ábelová Anna r. Koreňová, Výčapy Opatovce Výčapy Opatovce		0	3000,3255
+2981	Ábelová Júlia r. Koreňová, Výčapy Opatovce Výčapy Opatovce		0	2397,3255
+2981	Bajan Štefan, Trenčianske Jastrabie 122,Trenčianske Jastrabie, zom.06.11.1972 Trenčianske Jastrabie 122,Trenčianske Jastrabie, zom.06.11.1972		0	2084
+2981	Bajanová Júlia r. Ďurechová, Trenčianske Jastrabie 122-zomrela Trenčianske Jastrabie 122-zomrela		0	2649
+2981	Bartáková Kamila r. Horkova, SPF SPF		1	2372,3206
+2981	Bartáková Kamila r. Hôrková		0	609
+2981	Bežáková Júlia r. Mališková	Trenčianske Jastrabie 292,zomrela; Trenčianske Jastrabie 292,zomrela	0	2084
+2981	BLAHO Ján	Eva Ševčíková	1	1526
+2981	BLAHO Michal		1	1761
+2981	Blaho Michal, č.d.1300/1949 č.d.1300/1949		0	3067
+2981	BLAHO Stanislav	Sídlisko č.665 Rotava	1	1761
+2981	BLAHOVÁ Oľga	č.d.478/1961	1	1761
+2981	Blahová Oľga, č.d.1300/1949 č.d.1300/1949		0	3042
+2981	Bročko Ľubomír, Ruskovce 25-zomrel Ruskovce 25-zomrel		0	2797,3196,3255
+2981	Cígerová Margita r. Valachová, Neporadza 185, Motešice, zom.25.08.2011 Neporadza 185, Motešice, zom.25.08.2011		0	2857
+2981	Dáliková Júlia r. Pristachová		0	609,3017,3236,3255
+2981	DALÍKOVÁ Mária	rod.Valachová Svinná č.83	1	1530,1684
+2981	Dalíková Mária r. Valachová, Svinná č.83 Svinná č.83		0	2074,2077,2404,3255
+2981	Danko Ignác	č.d. 1491/1907; č.d. 1491/1907	1	1125,1892
+2981	Danko Ignác	č.d. 2138/1912; č.d. 2138/1912	1	1125
+2981	Danko Ignác	č.d. 238/1912; č.d. 238/1912	1	1892
+2981	Danko Ignác	č.d. 282/1907; č.d. 282/1907	1	1125,1892
+2981	Danko Ignác	č.d. 353/1905; č.d. 353/1905	1	1125,1892
+2981	Danko Ignác	č.d. 774/1922; č.d. 774/1922	1	1125,1892
+2981	DANKO Ignác	č.d.1491/1907	1	1553
+2981	DANKO Ignác	č.d.2138/1912	1	1553
+2981	DANKO Ignác	č.d.282/1907	1	1553
+2981	DANKO Ignác	č.d.353/1905	1	1553
+2981	DANKO Ignác	č.d.774/1922	1	1553
+2981	Danko Ignác, č.d.2138/1912 č.d.2138/1912		0	3255
+2981	Danko Ignác, č.d.282/1907 č.d.282/1907		0	3255
+2981	Danko Ignác, č.d.353/1905 č.d.353/1905		0	3255
+2981	Danko Ignác, č.d.774/1922 č.d.774/1922		0	3255
+2981	DANKO Rudolf	Trenčianske Jastrabie č.162	1	1553
+2981	Danko Rudolf, 913 22, Trenč. Jastrabie, č. 162, SR	D 1687/1981; D 1687/1981	1	1125
+2981	Danková Anna	č.d. 1491/1907; č.d. 1491/1907	1	1125,1892
+2981	DANKOVÁ Anna	č.d.1491/1907	1	1553
+2981	Danková Antónia	č.d. 489/1920; č.d. 489/1920	1	1125,1892
+2981	DANKOVÁ Antónia	č.d.489/1920	1	1553
+2981	Danková Antónia r. Ševcechová, Trenčianske Jastrabie 57, zom.20.09.1989 Trenčianske Jastrabie 57, zom.20.09.1989		0	2587
+2981	DANKOVÁ Helena	rod.Ďurechová	1	1553
+2981	Danková Helena r. Ďurechová	č.d. 1599/1926	1	1892
+2981	Danková Helena r. Ďurechová	č.d. 1599/1926; č.d. 1599/1926	1	1125
+2981	Danková Verona	č.d. 1491/1907; č.d. 1491/1907	1	1125,1892
+2981	DANKOVÁ Verona	č.d.1491/1907	1	1553
+2981	Ďatelinková Anna		0	2380
+2981	Dinkova Mária r. Kyselicová		0	2667
+2981	Dranačka Ján		0	2987
+2981	Dranačka Ján, Anna Sírna Anna Sírna		0	2551
+2981	DÚCKA Júlia	rod.Kováčiková Trenčianske Jastrabie č.363	1	1665
+2981	Dúcka Júlia r. Kováčiková, Trenčianske Jastrabie č.363-zomrela Trenčianske Jastrabie č.363-zomrela		0	2303,3255
+2981	Dunová Mária, Dašicka 1236, Pardubice, ČR		0	1518,1521
+2981	Ďurček Michal		0	2852
+2981	Ďurčo Jozef, Júlia Hromníková,Trenčianske Jastrabie, zom.29.01.1971 Júlia Hromníková,Trenčianske Jastrabie, zom.29.01.1971		0	2271
+2981	Ďurčo Ondrej	č.d. 696/1936	1	1892
+2981	Ďurčo Ondrej	č.d. 696/1936; č.d. 696/1936	1	1125
+2981	ĎURČO Ondrej	č.d.696/1936	1	1553,1582
+2981	Ďurčo Štefan, Mária Urbánková, Trenčianske Jastrabie, zom.01.12.1970 Mária Urbánková, Trenčianske Jastrabie, zom.01.12.1970		0	3093
+2981	Ďurčo Štefan, Paulína Kopecká,Trenčianske Jastrabie, zom.20.05.1961 Paulína Kopecká,Trenčianske Jastrabie, zom.20.05.1961		0	2805
+2981	ĎURČOVÁ Anna	rod.Ševcechová, Ján Ďurčo	1	1583,3394
+2981	Ďurčová Anna r. Sekerková		0	2199
+2981	Ďurčová Mária r. Petríková		0	2605
+2981	Ďurčová Paulína r. Hromníková, zom.14.07.1957 zom.14.07.1957		0	2756
+2981	Ďurech Alojz, Rajec Rajec		0	3187
+2981	Ďurech Alojz, Rajec- zomrel, zom.01.01.1995 Rajec- zomrel, zom.01.01.1995		0	3230,3255
+2981	Ďurech Anton, Dubodiel 91323, zom.12.11.1970 Dubodiel 91323, zom.12.11.1970		0	2305,3255
+2981	Ďurech Anton, Trenčianske Jastrabie Trenčianske Jastrabie		0	2552,3255
+2981	ĎURECH Gregor, 913 22, Trenčianske Jastrabie, č. 223, SR	zom. 17.03.1859	0	1552
+2981	ĎURECH Gustáv	Anna Filová Bobotská Lehota č.64	1	1538,1685,1761
+2981	Ďurech Gustáv, Anna Filová, Bobotská Lehota č.64 Anna Filová, Bobotská Lehota č.64		0	2074,2672,3255
+2981	Ďurech Ignác, Trenčianske Jastrabie 227- zomrel Trenčianske Jastrabie 227- zomrel		0	2077,2825,3255
+2981	ĎURECH Ján	č.d.2010/1927	1	1516,2011
+2981	ĎURECH Ján	č.d.2087/1932	1	388,1518
+2981	ĎURECH Ján	č.d.2087/1938	1	1518,1520,1521
+2981	ĎURECH Ján	č.d.373/1917	1	1516,2011
+2981	Ďurech Ján, č.d.2010/1927 č.d.2010/1927		0	3178,3236
+2981	Ďurech Ján, č.d.2087/1938 č.d.2087/1938		0	2077,2714
+2981	Ďurech Ján, č.d.600/1902 č.d.600/1902		0	3255
+2981	Ďurech Ján, Helena Danková Helena Danková		0	2902
+2981	Ďurech Jaroslav, Budatínska 3147/27, Bratislava 85105, SR Budatínska 3147/27, Bratislava 85105, SR		0	2084
+2981	ĎURECH Jozef	č.d. 2010/1927	1	1516,2011
+2981	ĎURECH Jozef	č.d. 373/1917	1	1516,2011
+2981	Ďurech Jozef, č.d. 2010/1927 č.d. 2010/1927		0	2925
+2981	Ďurech Jozef, č.d. 253/1919 č.d. 253/1919		0	2356
+2981	Ďurech Jozef, č.d. 299/1920 č.d. 299/1920		0	2485
+2981	Ďurech Jozef, č.d. 3065/1882 č.d. 3065/1882		0	2383
+2981	Ďurech Jozef, č.d. 62/1942 č.d. 62/1942		0	3004
+2981	Ďurech Jozef, Magdaléna Petríková Magdaléna Petríková		0	2829
+2981	Ďurech Jozef, Zuzana Kšiňanová, Trenčianske Jastrabie 91322, zom.15.07.1970 Zuzana Kšiňanová, Trenčianske Jastrabie 91322, zom.15.07.1970		0	2435
+2981	Ďurech Ľuboš, 227 227		0	2473
+2981	ĎURECH Michal	č.d. 1702/1900	1	1518,1520
+2981	Ďurech Michal, č.d. 373/1917 č.d. 373/1917		0	2519
+2981	Ďurech Michal, č.d. 455/1926 č.d. 455/1926		0	3182
+2981	Ďurech Mikuláš		0	2924
+2981	Ďurech Ondrej, č.d.244/1932 č.d.244/1932		0	2264
+2981	Ďurech Ondrej, č.d.354/1932 č.d.354/1932		0	2515
+2981	Ďurech Pavol, č.d.2095/1933 č.d.2095/1933		0	3255
+2981	ĎURECH Peter	č.d. 2087/1938	1	1518,1520,1521
+2981	ĎURECH Peter	č.d. 478/1961	1	1761
+2981	Ďurech Peter, č.d. 2095/1933 č.d. 2095/1933		0	2640
+2981	Ďurech Rudolf		0	2094
+2981	Ďurech Štefan, Trenčianske Jastrabie 20, zom.14.04.2000 Trenčianske Jastrabie 20, zom.14.04.2000		0	2084,3255
+2981	Ďurech Vendel, č.d. 2095/1933 č.d. 2095/1933		0	2424
+2981	ĎURECH Vladislav	Rožňové Mitice	1	1148
+2981	Ďurech Vladislav, Rožňové Mitice Rožňové Mitice		0	2863,3239,3255
+2981	Ďurechová Anastázia, Trenčianske Jastrabie Trenčianske Jastrabie		0	2415
+2981	ĎURECHOVÁ Anna	rod.Kusá, č.d. 1239/1944	1	1538
+2981	ĎURECHOVÁ Anna	rod.Kusá, č.d. 25/1944	1	1538
+2981	Ďurechová Anna r. Hučínová, Trenčianske Jastrabie 147-zomrela Trenčianske Jastrabie 147-zomrela		0	3255
+2981	Ďurechová Anna r. Páleníková, Trenčianske Jastrabie 223-z Trenčianske Jastrabie 223-z		0	3230
+2981	ĎURECHOVÁ Eva	rod.Sekerková	1	1002,3489
+2981	Ďurechová Eva r. Sekerková		0	632,774,2868
+2981	ĎURECHOVÁ Helena	rod.Kyselicová, č.d. 553/1930	1	1749
+2981	Ďurechová Helena r. Kyselicová, č.d. 480/1922 č.d. 480/1922		0	2884
+2981	Ďurechová Helena r. Kyselicová, č.d. 553/1930 č.d. 553/1930		0	2945
+2981	Ďurechová Magdaléna		1	1527
+2981	Ďurechová Magdaléna r. Petríková, Jozef Ďurech Jozef Ďurech		0	2892
+2981	Ďurechová Margita, č.d. 2860/1934 č.d. 2860/1934		0	2613,3255
+2981	ĎURECHOVÁ Mária	rod.Rychtárechová, č.d. 510/1924	1	1148
+2981	ĎURECHOVÁ Mária	rod.Rychtárechová, č.d. 936/1950	1	1148
+2981	ĎURECHOVÁ Mária	rod.Žáčiková	1	388
+2981	Ďurechová Mária r. Janíková		0	2237
+2981	Ďurechová Mária r. Rychtárechová, č.d. 510/1924 č.d. 510/1924		0	2121,3153
+2981	Ďurechová Mária, č.d. 2095/1933 č.d. 2095/1933		0	3255
+2981	Ďurechová Štefánia r. Slanináková, Trenčianske Jastrabie121 - zomrela Trenčianske Jastrabie121 - zomrela		0	3255
+2981	Ďurechová Zuzana r. Kšiňanová, Jozef Ďurech, Trenčianske Jastrabie, zom.15.12.1967 Jozef Ďurech, Trenčianske Jastrabie, zom.15.12.1967		0	2180
+2981	Ďurinová Mária r. Hromníková, Jozef Ďurina Jozef Ďurina		0	3071
+2981	ĎURINOVÁ Zuzana	rod.Ševcechová	1	1460,1542
+2981	Ďurišová Katarína, Trenčianske Stankovce 640 Trenčianske Stankovce 640		0	2891,3211,3212
+2981	Ďurkovič Herbert, Anna Vravišová,Nad Zábrehom 473, Dubnica nad Váhom Anna Vravišová,Nad Zábrehom 473, Dubnica nad Váhom		0	2196,3255
+2981	Fabulová Margita r. Olešnaníková		0	3255
+2981	Filková Emília r. Žáčiková		0	3255
+2981	Fodrek František, Mária Kyselicová,Trenčianske Jastrabie 192, zom.03.07.1974 Mária Kyselicová,Trenčianske Jastrabie 192, zom.03.07.1974		0	2287
+2981	Galiovský Michal, Bavlnárska 2/313, Trenčín Bavlnárska 2/313, Trenčín		0	2938,3264
+2981	GALKO Ján	č.d. 1712/1949	1	594,1777,3490
+2981	Galko Ján, č.d. 1712/1949 č.d. 1712/1949		0	2055,2703,3255
+2981	GALKOVÁ Anna	rod.Žakechová	1	1460
+2981	GALKOVÁ Marta	č.d. 1712/1949	1	594,1777,3490
+2981	Galková Marta, č.d. 1712/1949 č.d. 1712/1949		0	2055,2958,3255
+2981	GALKOVÁ Petronela	rod.Urbanovská	1	1661,1664,1921,1950
+2981	Galková Petronela r. Urbanovská		0	2390
+2981	Gallo Ján, Helena Lobotková Helena Lobotková		0	2459
+2981	Gallo Pavol, č.d. 2233/1947 č.d. 2233/1947		0	2443
+2981	Gallová Mária r. Podoláková, Rudolf Gallo Rudolf Gallo		0	2411
+2981	Gazdovská a priemyselná banka banka, Bánovce nad Bebravou Bánovce nad Bebravou		0	3023
+2981	Hamerská Margita r. Paštrnáková, Postoloprty 98,Březno u Chomutova Postoloprty 98,Březno u Chomutova		0	2133,3255
+2981	Hasidlová Júlia r. Valachová, Borčice 88, zom.19.02.1992 Borčice 88, zom.19.02.1992		0	3255
+2981	Heger Emil, Svinná 221-zomrel Svinná 221-zomrel		0	2301
+2981	Heger Ľudovít, JUDr., Bratislavska 63, Trenčín Bratislavska 63, Trenčín		0	3176
+2981	Hikel Tomáš, Ilona Grolmušová Ilona Grolmušová		0	3181
+2981	Hiklová Ilona r. Grolmušová, Tomáš Hickl Tomáš Hickl		0	2716
+2981	Hlobeňová Margita, Neporadza 92-zomrela Neporadza 92-zomrela		0	3255
+2981	HLUCHOVÁ Júlia	rod.Piláthyová Trenčianske Jastrabie č.80	1	1460
+2981	Horečná Mária r. Kyselicová		0	3255
+2981	Hôrka Jozef		0	609
+2981	Hôrka Ladislav		0	609
+2981	Hôrka Ladislav, Trencianske Mitice 175-zomrel Trencianske Mitice 175-zomrel		0	2084
+2981	Hôrka Silvester		0	609
+2981	Hôrka Silvester, č.d.2032/1943 č.d.2032/1943		0	2639,3240
+2981	Hôrka Vincent		0	609
+2981	Hôrka Vincent, č.d.2032/1943 č.d.2032/1943		0	2760
+2981	Hrnčár František, č.d.1901/1941 č.d.1901/1941		0	3255
+2981	Hrnčárová Anna r. Michaličková		0	3255
+2981	Hromník Albín, Trenčianske Jastrabie 137-zomrel Trenčianske Jastrabie 137-zomrel		0	2807
+2981	Hromník Anton		0	375
+2981	HROMNÍK Anton	č.d.1093/1960	1	1532,1535
+2981	HROMNÍK Anton	č.d.2287/1939	1	1544
+2981	Hromník Anton, č.d.183/1952 č.d.183/1952		0	2195
+2981	Hromník Anton, č.d.2287/1939 č.d.2287/1939		0	2422
+2981	HROMNÍK Jozef	č.d.1186/1924	1	1542
+2981	HROMNÍK Jozef	č.d.156/1938	1	1148
+2981	HROMNÍK Jozef	č.d.2163/1934	1	1548
+2981	HROMNÍK Jozef	č.d.819/1928	1	1549
+2981	HROMNÍK Jozef	Helena Žakechová	1	1460,1561
+2981	Hromník Jozef, č.d.1001/1897 č.d.1001/1897		0	2861
+2981	Hromník Jozef, č.d.1203/1923 č.d.1203/1923		0	3255
+2981	Hromník Jozef, č.d.1227/1923 č.d.1227/1923		0	2420
+2981	Hromník Jozef, č.d.1263/1932 č.d.1263/1932		0	2373
+2981	Hromník Jozef, č.d.1263/1960 č.d.1263/1960		0	2873
+2981	Hromník Jozef, č.d.454/1926 č.d.454/1926		0	2943
+2981	Hromník Jozef, č.d.600/1950 č.d.600/1950		0	2354
+2981	Hromník Jozef, č.d.934/1919 č.d.934/1919		0	2940
+2981	Hromník Jozef, Eva Valachová Eva Valachová		0	3255
+2981	Hromník Jozef, Katarína Chrenková Katarína Chrenková		0	2185,3255
+2981	Hromník Jozef, Mária Valachová Mária Valachová		0	3255
+2981	Hromník Vendel, č.d.2667/1939 č.d.2667/1939		0	2826
+2981	HROMNÍKOVÁ Anna	rod.Šebáňová, 4.7.1909	1	1553,1663
+2981	Hromníková Anna r. Šebáňová, Trenčianske Jastrabie 192, zom.17.11.1993 Trenčianske Jastrabie 192, zom.17.11.1993		0	2665,3221
+2981	Hromníková Anna, č.d.634/1906 č.d.634/1906		0	2241
+2981	Hromníková Antónia, č.d.707/1921 č.d.707/1921		0	2324
+2981	HROMNÍKOVÁ Helena	rod.Žáčiková, Jozef Hromník	1	1460,1542,1561
+2981	Hromníková Jozefína, č.d.482/1927 č.d.482/1927		0	2273
+2981	Hromníková Júlia r. Kyselicová, Ján Hromník Ján Hromník		0	2822
+2981	HROMNÍKOVÁ Katarína	rod.Chrenková, Jozef Hromník	1	1549
+2981	Hromníková Katarína r. Ďurechová		0	2582
+2981	Hromníková Katarína r. Chrenková, Jozef Hromník Jozef Hromník		0	3113,3255
+2981	Hromníková Magdaléna r. Kopecká, Vendel Hromník Vendel Hromník		0	2184
+2981	Hromníková Mária r. Kyselicová		0	2608,3214
+2981	Hromníková Mária r. Reháková		0	2751
+2981	Huorka Jozef, Pod Sokolice,Trenčín, zom.21.07.1990 Pod Sokolice,Trenčín, zom.21.07.1990		0	3201
+2981	JANÍK František	Helena Žáčiková	1	1460,1554
+2981	Janík Ján		0	632,774
+2981	Janík Ján	č.d. 864/1916; č.d. 864/1916	1	1125
+2981	Janík Ján	č.d.864/1916	1	1892
+2981	JANÍK Ján	č.d.574/1906	1	1552
+2981	JANÍK Ján	Mária Žáčiková	1	1582
+2981	Janík Ján, č.d.1810/1900 č.d.1810/1900		0	2967
+2981	Janík Ján, č.d.574/1906 č.d.574/1906		0	2916
+2981	Janík Ján, Trenčianske Jastrabie, zom.19.03.1965 Trenčianske Jastrabie, zom.19.03.1965		0	2700
+2981	Janík Jozef, Anna Valachová, Trenčianske Jastrabie Anna Valachová, Trenčianske Jastrabie		0	2477
+2981	Janík Jozef, Mária Orságová Mária Orságová		0	2970
+2981	JANÍK Ondrej	Anna Kyselicová	1	1526
+2981	Janík Ondrej, Anna Kyselicová Anna Kyselicová		0	2912
+2981	Janík Štefan, Trenčianske Jastrabie č.275-zomrel Trenčianske Jastrabie č.275-zomrel		0	2349
+2981	Janík Viliam, č.d.1036/1941 č.d.1036/1941		0	2495
+2981	Janík Viliam, č.d.866/1932 č.d.866/1932		0	2396
+2981	Janík Viliam, malol. malol.		0	2448
+2981	JANÍK Vincent	č.d.187/1941	1	1554
+2981	JANÍK Vincent	č.d.610/1949	1	1396,1460,1542,1543,1554,1660
+2981	Janík Vincent, č.d.187/1941 č.d.187/1941		0	2996
+2981	Janík Vincent, č.d.610/1949 č.d.610/1949		0	2394,3255
+2981	JANÍKOVÁ Anna	rod.Kyselicová, Ondrej Janík	1	1526
+2981	JANÍKOVÁ Anna	rod.Žáčiková	1	1588
+2981	Janíková Anna r. Žáčiková		0	2451
+2981	Janíková Katarína, č.d.2292/1939 č.d.2292/1939		0	2276
+2981	Janíková Katarína, č.d.610/1949 č.d.610/1949		0	2503
+2981	Janíková Mária r. Žáčiková		0	2536

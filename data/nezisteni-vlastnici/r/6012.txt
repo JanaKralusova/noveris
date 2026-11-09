@@ -1,0 +1,256 @@
+3390	Pastorek Augustín		0	2143
+3390	Pastorek Ján		0	1973,2068
+3390	Pastorek Jozef		0	1973,2068
+3390	Pastorek Martin		0	2143
+3390	Pastorek Michal	Mal	0	1973,2068
+3390	Pastorek Štefan		0	2143
+3390	Pastorková Júlia		0	2143
+3390	Pastorková Uršula		0	2143
+3390	Pastorková Verona		0	2143
+3390	Pikna Ján	Hluchonemý	0	719
+3390	Pikna Jozef		0	720,2047
+3390	Pikna Vít		0	719
+3390	Piknová Agustina		0	2131
+3390	Piknová Bernandina		0	2131
+3390	Piknová Jozefína	manž. Jozef	0	1911
+3390	Piknová Róza		0	2131
+3390	Pobiecka Katarína r. Horváthova		0	2064
+3390	Podolan Viktória r. Gulová		0	2099,2289
+3390	Poláčiková Sidónia r. Luhová		0	1527
+3390	Polákovičová Paulina r. Lišková	Nez	0	2146
+3390	Polčík Michal		0	2097
+3390	Polčíková Angela r. Orihelová		0	2021
+3390	Polčíková Anna		0	2156
+3390	Polčíková Johana		0	2156
+3390	Polčíková Mária r. Žáková		0	2108
+3390	Porubská Anna	Nezvestná	0	719,2000
+3390	Porubská Mária r. Zemanová		0	719,720
+3390	Porubský Anton		0	719,2000
+3390	Porubský Cyril		0	1880
+3390	Porubský Ján	nezvestný	0	720
+3390	Porubský Jozef	Mal	0	1924
+3390	Porubský Jozef	malol	0	1880
+3390	Porubský Peter		0	1880
+3390	Porubský Rudolf	malol	0	1880
+3390	Porubský Štefan		0	1880
+3390	Poturnayová Emerencia r. Lužáková		0	2090,2132
+3390	Predný Ján		0	2136
+3390	Radošovská Júliana r. Polčíková		0	1871,1959,1960,2180,2214
+3390	Rehák Dominik	ž.Irma, Mária, nar.24.10.1895 92207 Veľké Kostoľany	0	1893
+3390	Robová Emília r. Mišíková		0	1900,2014,2036,2173
+3390	Sedmáková Rozália r. Kocianová		0	1846
+3390	Schiltkrautová Berta r. Sonnecheinová		0	2093
+3390	Snoha Ján		0	1927
+3390	Snoha Štefan	ž.Apolónia Strečanská	0	1927
+3390	Solčánová Apolónia r. Michalčíková		0	1863,1886
+3390	Stanko Cyril		0	1918,1931
+3390	Stanko Gustav	Vzdialený	0	2106
+3390	Stanko Štefan	Vzdialený	0	2106
+3390	Súkeník Jozef		0	1863,1886
+3390	Súkeník Rudolf		0	1863,1886,1887,2176
+3390	Súkeníková Anna		0	1863,1886,2107
+3390	Súkeníková Helena		0	1863,1886
+3390	Surgošová Serafína r. Kollárová		0	2108
+3390	Špankovič Štefan		0	2126
+3390	Špankovičová Anna		0	2126
+3390	Špankovičová Jozefina		0	2126
+3390	Špankovičová Žofia		0	2126
+3390	Šťastná Anna r. Adamcová		0	1732,2267
+3390	Šugra Jozef	ž.Emília Horvátová	0	1916
+3390	Šugra Zachariaš		0	2115
+3390	Šugrová Melánia r. Špániková		0	2126
+3390	Trajnanová Júlia r. Struková	Vzdialená	0	2106
+3390	Vrbavszký Ján		0	2128
+3390	Vrbavszký Jozef	Mal	0	2128
+3390	Vrbavzská Rozália	Mal	0	2128
+3390	Zemko Ján		0	1848
+3390	Zitterová Frida r. Sonnenscheinová		0	2093
+3391	Ácsová Erzsébet r. Keszerűová		0	358
+3391	Antal Eugen		0	112
+3391	Antal Július		0	112
+3391	Bahorec Imrich		0	281
+3391	Balázsová Zofia r. Vicenczova		0	282
+3391	Berecová Irena r. Lányiová		0	130
+3391	Bukriová Žofia r. Kovácsová		0	276
+3391	Diosi Anton	m.Alžbeta r.Jonasová	0	327
+3391	Diosi Karol		0	277,340
+3391	Diosiová Alžbeta r. Jonasová		0	327
+3391	Diosiová Margita r. Hajdúová		0	114,115
+3391	Diošiová Mária r. Hegedusova		0	340
+3391	Gutraiová Estera r. Ujvariova		0	183
+3391	Harangozová Rozalia r. Siposova		0	285
+3391	Juhászová Estera r. Keseruova		0	291
+3391	Kelemen František		0	219
+3391	Keseru Pavel		0	386
+3391	Keserüová Etela r. Lányiová		0	361
+3391	Keserűová Julianna r. Nagyová		0	142
+3391	Klain Margita r. Parthová, Kerepesi ut. 90 II. 8, Budapest, Maďarsko		0	363
+3391	Konta Karol		0	117
+3391	Kormosi Ján		0	353
+3391	Kormosi Július		0	170,318,353,356
+3391	Kormosiová Irena r. Veszeleiová		0	318
+3391	Kormosiová Lýdia r. Bakaová		0	356
+3391	Kormosy Gyula		0	358
+3391	Kovacs Julius		0	264
+3391	Kulcsár Štefan		0	136
+3391	Langyi Julius		0	289
+3391	Lányi Arpád		0	361
+3391	Lányi Ľudovít		0	361
+3391	Lányiová Rozália r. Pasztorová		0	179
+3391	Maková Ester r. Pásztorová		0	364
+3391	Molnár Jan		0	332
+3391	Molnár Július		0	338,465
+3391	Molnárová Roza r. Jonasova		0	268
+3391	Pásztor István		0	364
+3391	Pásztor Sándor		0	364
+3391	Pásztorová Irma		0	364
+3391	Pásztorová Rozália		0	364
+3391	Pásztorová Rozália r. Leczkiová		0	364
+3391	Patayová Oľga		0	215
+3391	Paulíková Žofia r. Parthová, Petöfiho 27, Nagzborzsony, SR		0	363
+3391	Pereszlenyi Ondrej		0	260
+3391	Pereszlényiová Estera r. Molnarova		0	261,332
+3391	Peto Július		0	258
+3391	Reform. učiteľská základina v Zalabe, Zalaba, Zalaba, SR		0	342
+3391	Rosenbaum Adolf		0	329
+3391	Rosenbaum Ferdinand		0	329
+3391	Simon Jan		0	283,335
+3391	Simonová Estera r. Siposova		0	295,335,348
+3391	Siposová Zofia		0	348
+3391	Sütoová Rozália r. Keserüová		0	363
+3391	Szalai Ibolya r. Kecskeméti		0	141
+3391	Šubaová Estera r. Vicenczova		0	286
+3391	Tóth Matúš		0	401
+3391	Urban Ludovit		0	294
+3391	Urbanová Júlia r. Keserüová		0	363
+3391	Varannay Alexander		0	361
+3391	Vicencz Karol		0	259
+3391	Vicencz Štefan		0	113,272
+3392	Apponyi Albert r. Apponyi	gróf	0	1870
+3392	Apponyi Juraj r. Apponyi	gróf	0	1870
+3392	Boro Ján r. Boro	manželka Antónia r. Töröková, Helena, Štefan	0	1872
+3392	Boro Štefan r. Boro	Helena, Ján	0	1872
+3392	Borsányi Imrich r. Borsányi	PK vl. č. 512	0	1859
+3392	Brunusíková Rozália r. Brunusíková	PK vl. č. 507	0	1857
+3392	Csibri Július r. Csibri	Júlia, Mária, Anna, Agneša, Helena, Juraj	0	966,1165
+3392	Csibri Juraj r. Csibri	Júlia, Mária, Anna, Agneša, Július, Helena	0	966,1165
+3392	Csibriová Anna r. Csibriová	Júlia, Mária, Agneša, Július, Helena, Juraj	0	1165
+3392	Csibriová Helena r. Csibriová	Júlia, Mária, Anna, Agneša, Július, Juraj	0	966,1165
+3392	Csibriová Júlia r. Csibriová	Mária, Anna, Agneša, Július, Helena, Juraj	0	966,1165
+3392	Csibriová Justína r. Valentinová	manžel Ján	0	966,1165
+3392	Gábrišová Mária r. Gábrišová	Jozef	0	1860
+3392	Hajas Jozef r. Hajas	Ján, PK vl. č. 457	0	1377
+3392	Hervay Ľudovít r. Hervay	Ján, Július, Magda	0	1861
+3392	Hervayová Magda r. Hervayová	Ján, Július, Ľudovít	0	1861
+3392	Hroncová Helena r. Slezáková	manžel Martin	0	1892
+3392	Hronec Martin r. Hronec	manželka Helena r. Slezáková	0	1892
+3392	Hulák Martin r. Hulák	PK vl. č. 1005	0	1899
+3392	Huláková Anna r. Huláková	Klementína, Karol, Angela, Paulína	0	378
+3392	Huláková Klementína r. Huláková	Karol, Angela, Anna, Paulína	0	378,726,727,1873
+3392	Jančová Božena r. Jančová	Anna, Šimon, Štefánia, František	0	503,1418
+3392	Jančula Martin r. Jančula	Vendelín, Jozefína, Alojz, Andrej	0	378
+3392	Karabová Paulína r. Vojtková	PK vl. č. 915	0	1891
+3392	Kissová Hermína r. Mundiová	PK vl. č. 3930	0	1918
+3392	Kiššová Helena r. Borová	Ján, Štefan	0	1872
+3392	Kohút Antonín r. Kohút	PK vl. č. 446	0	1883
+3392	Kolenčiak Ondrej r. Kolenčiak	manželka Anna r. Vojteková	0	1865
+3392	Majdan Ján r. Majdan	PK vl. č. 651	0	714
+3392	Meško Ján r. Meško	PK vl. č. 1002	0	1897
+3392	Mihály Valentín r. Mihály	PK vl. č. 499	0	1855
+3392	Molnár Alexander r. Molnár	Mária	0	1905
+3392	Molnár Jozef r. Molnár	manželka Viktória r. Szalayová	0	1916
+3392	Molnárová Mária r. Molnárová	Alexander	0	1905
+3392	Molnárová Viktória r. Szalayová	manžel Jozef	0	1916
+3392	Nagy Jakub r. Nagy	PK vl. č. 984	0	1904
+3392	Náhlik Pavel r. Náhlik	manželka Katarína rod. Repková	0	1907
+3392	Pišný Ambróz r. Pišný	po Elene Malinovej r. Repkovej	0	789
+3392	Plaštiak Juraj r. Plaštiak	Rudolf	0	813,815
+3392	Podmanická Klementína r. Talapková	manžel Martin	0	1875
+3392	Podmanický František r. Podmanický	Martin	0	1885
+3392	Podmanický Ján r. Podmanický	manželka Justína r. Ploštiaková	0	9,796
+3392	Podmanický Jozef r. Podmanický	František, Ján	0	9,613
+3392	Podmanický Martin r. Podmanický	manželka Klementína rod. Talapková	0	1875
+3392	Pokryvka Ondrej r. Pokryvka	manželka Anna r. Jančová	0	1854,1866,2217
+3392	Pokryvka Ondrej r. Pokryvka	manželka Anna r. Jančová; manželka Anna r. Jančová	0	1854
+3392	Pokrývka Štefan r. Pokrývka	manželka Anna r. Chalupková	0	1893
+3392	Pokrývková Anna r. Chalúpková	manžel Štefan	0	1893
+3392	Pörsök Ján r. Pörsök	manželka Juliana r. Šillová	0	1856
+3392	Pörsöková Juliana r. Šillová	manžel Ján	0	1856
+3392	Pozsicsányi Ján r. Pozsicsányi	Róza Vierk r. Pozsicsányi	0	423
+3392	Repka Pavol r. Repka	Katarína, Mária, Anna, Helena	0	789,1852
+3392	Repková Anna r. Repková	Katarína, Mária, Pavol, Helena	0	789,1852
+3392	Repková Helena r. Repková	Katarína, Mária, Pavol, Anna	0	1852
+3392	Repková Judita r. Kováčová	manžel Pavel	0	1890
+3392	Repková Mária r. Repková	Katarína, Pavol, Anna, Helena	0	789,1852
+3392	Romačíková Žofia r. Wulhonciaková	manžel Juraj	0	1712
+3392	Romančík Juraj r. Romančík	manželka Žofia r. Wulhonciaková	0	1138
+3392	Uríček Jaroslav r. Uríček	otec Vendelín	0	1908
+3392	Uríček Vendelín r. Uríček	deti Jaroslav a Alžbeta	0	1908
+3392	Uríčeková Alžbeta r. Uríčeková	otec Vendelín	0	1908
+3392	Valacsay Imrich r. Valacsay	Vilma, Mária, Štefan, Irena, Barbora, Margita	0	1711
+3392	Valacsay Jurisko r. Valacsay	František, Mária, Jolana, Irena, Barbora, Margita	0	1917
+3392	Valacsay Štefan r. Valacsay	manželka Terézia r. Gergelyová	0	1862
+3392	Valacsayová Barbora r. Valacsayová	František, Mária, Jolana, Irena, Jurisko, Margita	0	1711
+3392	Valacsayová Margita r. Valacsayová	František, Mária, Jolana, Irena, Barbora, Jurisko	0	1711
+3392	Valacsayová Terézia r. Gergelyová	manžel Štefan	0	850,1862
+3392	Valacsayová Vilma r. Valacsayová	František, Mária, Štefan, Irena, Barbora, Margita, Imrich	0	1711
+3392	Vass Michal r. Vass	PK vl. č. 508	0	1858
+3392	Vysolajský Gustáv r. Vysolajský	PK vl. č. 1000	0	1896
+3393	Gurecka Anton	Zálesie 3	0	277,278,281
+3393	Gurecka Anton r. Gurecka	Starší, Zálesie 3	0	270,273,319,321,474
+3393	Gurecka František		0	210,373,438
+3393	Gurecka Štefan		0	210
+3393	Gurecka Vojtech		0	210,373,438
+3393	Gurecková Mária r. Marčáková		0	270
+3393	Jurkovská Žofia		0	99
+3393	Jurkovský Vojtech		0	99
+3393	Klotna Jozef		0	307,308,348
+3393	Krak Andrej		0	341,384,460,461
+3393	Kušmírek Tomáš		0	355
+3393	Kušmíreková Žofia r. Orkisová		0	266,302,305,307,308,314,315,348,427,428,429,476,478
+3393	Majkut Jozef r. Majkut	lv 42	0	291
+3393	Majkutova Alzbeta r. Majkutova	lv 42	0	291
+3393	Marhefková Anna r. Štefanáková		0	8,97,99,146,367
+3393	Rušinová Mária		0	333,334
+3393	Rušinová Mária r. Orkisová		0	308,427
+3393	Sulír Jozef		0	210
+3393	Sulír Ondrej		0	210
+3393	Štefanák Ján		0	191,315,379
+3393	Štefaňáková Anna r. Kušmíreková	Znovu vyd.Madejová	0	412
+3393	Štefaňáková Mária		0	377,379
+3393	Tomčeková Anna r. Kraková		0	348
+3393	Topolyová Mária r.Sulírová		0	210
+3394	ANDRIŠČINOVÁ Anna r. Valigová		1	2830
+3394	Babjáková Alena r. Jasemová		0	2902
+3394	BALÁŽ Andrej	mal	1	2285,2287
+3394	BALÁŽ Ján		1	2018,2059
+3394	BALÁŽ Juraj		1	2018,2161
+3394	BALÁŽ Juraj	mal	1	1915,2285,2287
+3394	BALÁŽ LANDIGURA Ján	ž.Zuzana r.Borzová	1	2586
+3394	BALÁŽ Martin	mal	1	1915,2285,2287
+3394	BALÁŽ Michal		1	1915,2018
+3394	BALÁŽ Michal	ž.Anna r.Franková	1	2035
+3394	BALÁŽ Ondrej	mal	1	1915
+3394	BALÁŽKO Milan	mal	1	2053
+3394	Balažková Mária r. Ladičová		1	2814
+3394	BALÁŽOVÁ Anna		1	2018,2058
+3394	BALÁŽOVÁ Anna	mal	1	1915,2285,2287
+3394	BALÁŽOVÁ Anna r. Franková		1	2035
+3394	BALÁŽOVÁ Anna r. Gajdošová		1	2018,2035
+3394	BALÁŽOVÁ Anna r. Klaciková		1	2472,3054
+3394	BALÁŽOVÁ Ilona		1	2551
+3394	BALÁŽOVÁ Mária		1	2018
+3394	BALÁŽOVÁ Mária	mal	1	2058
+3394	BALOG Andrej		1	2762
+3394	Balog Július		1	2762
+3394	BALOG Karol		1	2762
+3394	BALOG Ludovít		1	2498,2762
+3394	Balogová Mária r. Štefanová, Lieskova 147/1, Michalovce, PSČ 071 01, SR		1	1271,1273
+3394	Bangová Mária r. Paulovčíková		1	1914,2204,2289,2456,3065,3155
+3394	Barnová Anna r. Balážová		1	2018
+3394	BASANDA Juraj	ž.Anna r.Heverová	1	2472,2473,2480,2481,3054,3055
+3394	BASANDOVÁ Anna r. Heverová		1	2472,2473,2480,2481,3054,3055
+3394	BELAS Michal	ž.Rozália r.Berešová	1	1888,2276,2303,2305
+3394	BENGÁSOVÁ Mária		1	2959
+3394	BENGAŠ Ján	ž.Mária r.Kolbašovská	1	2779
+3394	BENGAŠOVÁ Mária r. Kolbašovská		1	2202,2779

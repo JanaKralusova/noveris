@@ -1,0 +1,256 @@
+1898	Košíková Helena r. Fialová		0	1169
+1898	Košíková Helena r. Rosová		0	638,712,1244
+1898	Kováč Blažej r. Kováč		0	712,1244
+1898	Kováč Daniel r. Kováč		0	627,712,888,1034,1035,1080,1244
+1898	Kováč Peter		0	712,1035,1244
+1898	Kováč Peter r. Kováč		0	627,888,1034,1071
+1898	Kováč Viktor r. Kováč		0	712,1244
+1898	Kováč Viktor r. Kováč	syn Vendelína	0	799
+1898	Kováčik Anton r. Kováčik		0	712,1244
+1898	Kováčik Ján r. Kováčik		0	712,1244
+1898	Kováčik Jozef r. Kováčik		0	787
+1898	Kováčik Jozef r. Kováčik	syn Jozefa a Pauly	0	787
+1898	Kováčiková Mária r. Pauličková		0	712,1244
+1898	Kováčová Mária r. Podobová		0	48,1002
+1898	Kováčová Mária r. Poštrková	č. 126	0	61
+1898	Kováčová Mária r. Poštrková	Nadlice č. 124	0	624
+1898	Kramar Móric r. Kramar		0	712,1244
+1898	Kramárová Antónia r. Krčmáriková		0	1123
+1898	Krčmárik Alfonz r. Krčmárik		0	1123
+1898	Krčmáriková Pavla r. Zufkavá		0	1131
+1898	Križan Jozef r. Križan		0	989
+1898	Kunová Irena r. Gálisová		0	79,701,712,1244
+1898	Ladická Jozefína		0	712,1244
+1898	Látková Ester r. Dúbravická		0	856,1077,1282
+1898	Lehocký Emil r. Lehocký		0	1120
+1898	Liday Valent r. Liday	Chynorany č. 114	0	513
+1898	Lukačovičová Jozefína r. Dúbravická		0	856,1077,1282
+1898	Macková Magdaléna r. Chenková		0	789
+1898	Magdolen Anton r. Magdolen		0	624,703,712,789,790,1066,1068,1244,1253
+1898	Magdolen Ján r. Magdolen		0	1029,1030,1031,1066,1070,1196
+1898	Magdolen Ján r. Magdolen	manž. Anna r. Olejková	0	647,1029,1030,1031
+1898	Magdolen Jozef r. Magdolen	zomrel 1990	0	1066,1070
+1898	Magdolen Štefan r. Magdolen		0	789,1066,1067
+1898	Magdolen Štefan r. Magdolen	1	0	624,712,1244
+1898	Magdolen Viktor r. Magdolen		0	624,703,712,789,790,1244,1253
+1898	Magdolenová Anna r. Bezáková	Nadlice čd. 418	0	788
+1898	Magdolenová Anna r. Olejková		0	647,1029,1030,1031
+1898	Magdolenová Eleonóra r. Poštrková		0	624,700,703,705,712,1244,1253,1254
+1898	Magdolenová Eva r. Chenková		0	712,1244
+1898	Magdolenová Ilona Gajdošová		0	1029,1030,1031
+1898	Magdolenová Margita		0	624,712,1244
+1898	Magdolenová Oľga r. Tvrdíková		0	1030
+1898	Magdolenová Rozália r. Beder		0	1066,1068
+1898	Magnusek Šebastian r. Magnusek		0	638,639,774,1268
+1898	Magnuseková Anna Dagmar		0	638,639,774,1268
+1898	Magodenová Eleonóra r. Poštrková	Rajčany 24	0	706
+1898	Makovský Silvester r. Makovský		0	1132
+1898	Mano Jozef r. Mano		0	1134
+1898	Manová Terézia r. Mujgašová		0	1134
+1898	Markeje Ján r. Markeje		0	1073
+1898	Markejová Mária r. Kocúrová		0	1073
+1898	Marko Jozef r. Marko	manž. Jolana r. Ďatelinková	0	1116
+1898	Marko Juraj r. Marko		0	1172
+1898	Marková Jolana r. Ďatelinková		0	1073
+1898	Marková Jolana r. Ďatelinková	Nadlice č. 16	0	586,587,589,590,636,683,712,1244
+1898	Marková Magdaléna r. Chenková		0	712,790,1244
+1898	Marková Mária r. Chenková	Chynorany č. 896	0	624,703,1253
+1898	Marková Mária r. Kocúrová		0	1116
+1898	Marková Terézia r. Bujalková		0	1172
+1898	Masná Anna		0	712,1244
+1898	Masná Bernardeta		0	712,1244
+1898	Masná Eleonóra		0	712,1244
+1898	Masný Albert r. Masný		0	712,1244
+1898	Masný Jozef r. Masný		0	712,1244
+1898	Masný Michal r. Masný		0	712,1244
+1898	Masný Štefan r. Masný		0	712,1244
+1898	Matejčík Jozef r. Matejčík		0	1144,1193
+1898	Matejčík Štefan r. Matejčík	manž. Eleonóra r. Rosová	0	1193
+1898	Meluš Ján r. Meluš		0	868
+1898	Mihaliková Hermína r. Chenková		0	712,1244
+1898	Michalík Štefan r. Michalík		0	624,703,789,790,1253
+1898	Michalíková Mária r. Ďatelinková		0	586,587,712,1244
+1898	Michalíková Mária r. Ďatelinková	manž. Ján	0	589,590,712,1244
+1898	Mondoková Valéria r. Beňačková		0	1130
+1898	Moravčík Anton r. Moravčík	Nadlice č. 159	0	730
+1898	Moravčik Pavol r. Moravčik		0	712,1244
+1898	Moravčík Viktor r. Moravčík	manž. Veronika r. Dvončová	0	712,1244
+1898	Moravčíková Viktória		0	712,1244
+1898	Motešická Alžbeta r. Finková		0	1207
+1898	Mozola Alfonz r. Mozola		0	589,590
+1898	Mozola Ján r. Mozola		0	710,711,712,1081,1202,1211,1244
+1898	Mozola Ján r. Mozola	1	0	620,685,687,688,690,712,1244
+1898	Mozola Ján r. Mozola	č. 119	0	709,710
+1898	Mozola Ján r. Mozola	maloletý	0	710,1081,1202,1211
+1898	Mozola Jozef r. Mozola		0	293,587,636,639,684,686,688,689,691,694,695,696,697,712,903,904,1244
+1898	Mozola Jozef r. Mozola	1	0	586,589,590,636,685,687,690,696,712,1244
+1898	Mozola Jozef r. Mozola	manž. Mária r. Ďatelinková	0	1194
+1898	Mozola Jozef r. Mozola	manž. Pavla r. Florová,čd. 122 Nadlice	0	712,774,1244,1268
+1898	Mozola Melicher r. Mozola	manž. Anna r. Bezáková, čd. 77 Nadlice	0	639,712,774,1244,1268
+1898	Mozola Pavel r. Mozola		0	712,1244
+1898	Mozola Pavol r. Mozola		0	712,1244
+1898	Mozola Štefan r. Mozola		0	710,1081,1211
+1898	Mozolová Anna		0	589,590,636,697
+1898	Mozolová Anna r. Bezáková		0	639
+1898	Mozolová Helena		0	712,1244
+1898	Mozolová Jozefína		0	589,590,636
+1898	Mozolová Magdaléna r. Mikušová		0	1114
+1898	Mozolová Mária		0	636
+1898	Mozolová Mária r. Adamcová	Nadlice č. 181	0	610,611,612,614,615,712,1244
+1898	Mozolová Mária r. Ďatelinková		0	1162,1194
+1898	Mozolová Paulína r. Adamcová		0	571,572,573,712,1114,1244
+1898	Mozolová Valéria		0	1081
+1898	Opačitá Anna r. Janíková		0	757
+1898	Opačitá Dorota r. Kováčová		0	712,1244
+1898	Opačitá Emília r. Štajerová		0	1196
+1898	Opačitá Irena r. Buláková		0	365,837
+1898	Opačitá Magdaléna r. Švecová		0	996
+1898	Opačitý Gašpar r. Opačitý		0	58,996
+1898	Opačitý Klement r. Opačitý		0	1196
+1898	Orsághová Anna r. Rosová		0	712,1079,1244
+1898	Palo Jozef r. Palo	Nadlice č. 54	0	1063
+1898	Palo Rulolf r. Palo	Nadlice č. 53	0	1063
+1898	Palová Emília	Nadlice 55	0	1063
+1898	Paulen Bartolen r. Paulen		0	183
+1898	Paulen Michal r. Paulen		0	1151
+1898	Paulenová Mária r. Bočkayová		0	183,1152
+1898	Paulenová Viktória r. Grácová		0	712,1151,1244
+1898	Paulička Jozef r. Paulička		0	1039
+1898	Paulička Jozef r. Pavlička	manž. Magdaléna r. Bitarovská	0	1034,1035
+1898	Paulička Peter r. Paulička		0	712,1244
+1898	Pauličková Helena		0	536,712,1244
+1898	Pauličková Katarína r. Dúbravická		0	712,1244
+1898	Pavlenová Bernardína	Stred A/3, Topoľčany	0	183,633,1152,1213
+1898	Pavlenová Valéria r. Mozolová		0	712,1244
+1898	Pavlička Štefan r. Pavlička	1	0	1198
+1898	Pavlička Štefan r. Pavlička	manž. r. Adamcová	0	712,1244
+1898	Pavlička Viktor r. Pavlička	manž. r. Adamcová	0	580
+1898	Pavličková Magdaléna r. Bitarovská		0	1039,1040
+1898	Pavličková Magdaléna r. Bitarovská	1	0	1143
+1898	Pilo Jozef r. Pilo		0	1063,1064
+1898	Pilová Rozália r. Biháriová		0	1063
+1898	Podmanická Marta r. Denková		0	1190
+1898	Polúch Pavol r. Polúch		0	917
+1898	Polúch Rudolf r. Polúch		0	917
+1898	Polúch Viktor r. Polúch		0	712,1244
+1898	Polúchová Anna r. Polúchová	Nadlice 42	0	917
+1898	Polúchová Helena r. Polúchová		0	917
+1898	Polúchová Irena r. Deviatková		0	712,1244
+1898	Porubská Melánia r. Dúbravická		0	856,1077,1282
+1898	Porubský Jozef r. Porubský		0	856,1077,1282
+1898	Poštrk Anton r. Poštrk		0	604
+1898	Poštrk Augustín r. Poštrk		0	624,700,706,712,1244
+1898	Poštrk Dominik r. Poštrk	manž. Mária r. Kiselicová, čd. 115	0	624,712,1244
+1898	Poštrk Gabriel r. Poštrk		0	712,1244
+1898	Poštrk Gustáv r. Poštrk		0	700,712,1244
+1898	Poštrk Jozef r. Poštrk		0	1153
+1898	Poštrk Metod r. Poštrk		0	712,765,770,771,772,1117,1244,1291
+1898	Poštrk Michal r. Poštrk	čd. 112 Nadlice	0	712,1117,1244
+1898	Poštrková Helena r. Mozolová	č. 77 Nadlice	0	639,712,1244
+1898	Poštrková Magdaléna r. Fábiková		0	712,1244
+1898	Poštrková Mária		0	700,712,1244
+1898	Poštrková Mária r. Fábiková	manžel Peter	0	712,1244
+1898	Poštrková Paulína		0	712,1244
+1898	Poštrková Veronika r. Rašková		0	1153
+1898	Potučeková Adela		0	58,712,1084,1244
+1898	Púchovská Filoména r. Kopecká	Chynorany 256	0	634,712,757,758,1092,1244
+1898	Púchovský Jozef r. Púchovský	Chynorany č. 276	0	634,712,757,758,1092,1244
+1898	Rakusová Jozefína r. Fábiková	Chynorany č. 156	0	1088
+1898	Rosa Augustín r. Rosa		0	449,639,774,1268
+1898	Rosa Dionýz r. Rosa		0	1076,1238
+1898	Rosa Ján r. Rosa		0	712,1091,1244
+1898	Rosa Ján r. Rosa	1	0	449,638,639,774,1268
+1898	Rosa Jozef r. Rosa		0	449,639,774,1268
+1898	Rosa Jozef r. Rosa	1	0	638,712,1244
+1898	Rosa Jozef r. Rosa	manž. Anna	0	712,1244
+1898	Rosa Jozef r. Rosa	manž. Anna Prošová	0	1100
+1898	Rosa Jozef r. Rosa	manž. Anna r. Turčeková	0	449,638,774,1268
+1898	Rosa Jozef r. Rosa	manž. Antónia r. Horná	0	1145,1157
+1898	Rosa Jozef r. Rosa	manželka Emília r. Ďatelinková	0	589,590,712,1091,1244
+1898	Rosa Július r. Rosa	manž. Eleonóra Vácová	0	1119
+1898	Rosa Koloman r. Rosa	Nadlice č. 43	0	712,721,763,893,1244
+1898	Rosa Michal r. Rosa		0	449,568,712,1235,1244,1279
+1898	Rosa Michal r. Rosa	manž. Magdaléna r. Puchovská	0	915
+1898	Rosa Pavol r. Rosa		0	712,1244
+1898	Rosa Pavol r. Rosa	1	0	449,638,639,712,774,1244,1268
+1898	Rosa Štefan r. Rosa		0	712,913,1244
+1898	Rosa Valentín r. Rosa		0	261,712,1244
+1898	Rosová Anna		0	712,1244
+1898	Rosová Anna r. Hroteková		0	831
+1898	Rosová Anna r. Mozolová		0	711,1158
+1898	Rosová Anna r. Poštrková	čd. 141, Nadlice	0	624,703,705,712,1047,1048,1244,1253,1254
+1898	Rosová Antónia r. Horná		0	1215
+1898	Rosová Augusta		0	638,712,1244
+1898	Rosová Emília r. Adamcová		0	569,712,1244
+1898	Rosová Emília r. Ďatelinková		0	589,590,636,695,696,697
+1898	Rosová Eva r. Fábiková		0	712,1244
+1898	Rosová Evita		0	712,1244
+1898	Rosová Helena r. Lukáčová		0	712,1244
+1898	Rosová Ida		0	712,1244
+1898	Rosová Ilona		0	449,639,774,1268
+1898	Rosová Irena		0	449,638,639,712,774,1244,1268
+1898	Rosová Katarína r. Petrejová		0	1144
+1898	Rosová Klára		0	712,1244
+1898	Rosová Mária		0	449,638,712,1157,1244
+1898	Rosová Oľga		0	712,1244
+1898	Rosová Pavla		0	712,1244
+1898	Rosová Štefánia		0	712,721,723,763,893,1244
+1898	Rosová Zuzana r. Kosiková		0	712,1244
+1898	Rybanská Mária r. Krčmáriková		0	1123
+1898	Rýchlovská Hermína r. Rosová		0	1218
+1898	Samek Ľudovít r. Samek	Nadlice č. 3	0	1173
+1898	Sameková Mária r. Dúbravická		0	1110
+1898	Skornáková Berta r. Rosová		0	449
+1898	Standová Margita r. Finková		0	1048,1207
+1898	Šimončíková Anna r. Mozolová	Borovce č. 85	0	638,639
+1898	Šimončíková Katarína r. Bezáková		0	824
+1898	Škovráková Berta r. Rosová		0	638,639,774,1268
+1898	Škvareninová Helena	Nadlice 151	0	183
+1898	Šmatlák Ján r. Šmatlák		0	712,1244
+1898	Šmatlák Jozef r. Šmatlák		0	712,1244
+1898	Šmatláková Anna r. Gralová		0	1191
+1898	Šmatláková Paulína r. Bezáková	Žabokreky čd. 119	0	788
+1898	Španko Ján r. Španko		0	712,1244
+1898	Španko Peter r. Španko		0	712,1244
+1898	Španková Juliana		0	712,1244
+1898	Šulo Jozef r. Šulo		0	1133
+1898	Šulová Mária r. Rosová		0	1133
+1898	Švareninová Helena r. Švareninová	Nadlice čd. 151	0	1098
+1898	Švareninová Terézia r. Škvareninová	Nadlice 151	0	1098
+1898	Terlanda Jozef r. Terlanda		0	624,703,789,790,1253
+1898	Terlandová Mária r. Terlandová		0	624,703,789,790,1253
+1898	Tomanová Mária r. Mozolová	Chudá Lehota, č. 40	0	638,639,712,774,775,1244,1268,1269
+1898	Tomka Július r. Tomka		0	1064
+1898	Tomková Gizela r. Berkyová		0	1064
+1898	Vereš Albert r. Vereš		0	802
+1898	Vereš Rudolf r. Vereš		0	803,1187
+1898	Verešová Adriána		0	802
+1898	Verešová Ella		0	802
+1898	Verešová Helena r. Tonková		0	802
+1898	Verešová Júlia r. Mojgošová		0	803,1187
+1898	Vlnková Eva r. Dúbravická	manž. Štefan	0	365,712,837,1244
+1898	Zábojníková Jozefína r. Rosová		0	449,712,721,723,763,893,1244
+1898	Záhumenský Jozef r. Záhumenský		0	647,1029,1030,1031
+1898	Záhumenský Jozef r. Záhumenský	1	0	737
+1898	Zimová Mária r. Balážová		0	776
+1898	Žaťková Paulína r. Babincová		0	1066,1070,1141,1196
+1898	Žigmundová Verona r. Palová	Bánovce nad Bebravou	0	1063
+1899	BASAROVÁ Eva	r.Domduková,USA	1	617,693
+1899	Basarová Eva r. Domdukova, USA USA		0	868
+1899	Belej Eliáš		0	1159
+1899	BELEJ Mikuláš	m.Uľa r.Kaščáková	1	143
+1899	BELEJ ROZUM Ivan	m.Anna r.Jedináková	1	338,339,767
+1899	BELEJ ROZUM Jozef	USA	1	99,604,668
+1899	Belej Rozum Juraj		0	1181
+1899	BELEJ ROZUM Juraj	m.Mária r.Roháčová	1	99
+1899	BELEJ ROZUM Michal	USA	1	99,604,668
+1899	Belej Vasil		0	966
+1899	BELEJOVÁ Mária	r.Roháčová,Rozum,m.Juraj; ; Rozum,m.Juraj	1	608,713
+1899	Belejová Olena r. Gajdošová, manžel Ivan manžel Ivan		0	886
+1899	Belejová Rozum Júlia r. Kaščaková	zomrela 25.06.1941	1	339,340,363,553,583
+1899	BELEJOVÁ Uľa	r.Kaščáková	1	143
+1899	BOGDAN Ivan	maloletý	1	666
+1899	BOGDAN Ivan	USA	1	621
+1899	Bogdan Ivan, maloletý maloletý		0	1155
+1899	BOGDAN Ján	maloletý	1	666
+1899	BOGDAN Štefan	USA	1	283,599,621

@@ -1,0 +1,256 @@
+3295	VAVROVÁ Júlia		0	1014
+3295	VAVROVÁ Júlia	r. Iliašová, m. Pavol	0	1015
+3295	VAVROVÁ Júlia r. Iliášová		0	1012,1014
+3295	VAVROVÁ Katarína r. Matejková		0	1014
+3295	VAVROVÁ Magda		0	32,1046
+3295	VAVROVÁ Magdaléna		0	151,1012,1014
+3295	VAVROVÁ Magdaléna	sestra Pavly, Štefana, Petra	0	1015
+3295	VAVROVÁ Margita	súrodenci Ján a Jozef	1	693,1143
+3295	Vavrová Paulina		0	32,151,1046
+3295	VAVROVÁ Paulína r. Kohútová Kúpa č.d. 2880/36		0	1012
+3295	VAVROVÁ Pavla	sestra Magdalény, Štefana, Petra	0	1015
+3295	VAVROVÁ Pavlína		0	1014
+3295	VAVROVÁ Pavlína	r. Kohútová, m. Štefan	0	1015
+3295	VOJTKA Andrej		0	1014
+3295	VOJTKO Andrej		0	1012
+3295	Vojtko Jozef r. Vojtko	bytom Vrbany brat Jána,Štefana, Pavlíny,Anny,Márie ,ž.Katarína r.Šimková	0	1015
+3295	VOJTKO Ondrej	ž. Mária r. Lomnická	0	1015
+3295	VOJTKOVÁ Mária	r. Lomnická, m. Ondrej	0	1015
+3295	VOJTKOVÁ Mária r. Lomnická Dedenie č.d. 967/1918		0	1012
+3295	Zaťková Katarína, SR		0	1015
+3296	ANDREJCO Andrej	ž.Anna r.Milová,0101214752	1	298,398
+3296	ANDREJCOVÁ Anna	dcéra Michala	1	298
+3296	ANDREJO Ján	ž.Anna r.Barloková	1	540
+3296	ANDREJO Pavel	ž. Mária r. Pracková	1	298,539
+3296	ANDREJOV Ján		1	85,280,637
+3296	ANDRIŠOV Juraj	ž. Mária r. Balogová	1	100,309
+3296	Babjaková Mária		1	26
+3296	BAKOVÁ Mária r. Krišová		1	556
+3296	BANDIK Juraj	syn Juraja	1	521,614,619
+3296	BARAN Andrej		1	374
+3296	BARLOGOVÁ Helena		1	287
+3296	BELEJ Michal	ž.Mária r.Houdárová	1	581
+3296	BELEJOVÁ Mária r. Houdárová		1	581
+3296	BERTA Ján	ž. Anna r.Kroková	1	100,309
+3296	BIRKOVÁ Mária r. Lorenčíková		1	287
+3296	BOBIKOVÁ Alžbeta r. Lukáčová		1	287
+3296	BOLDIŠÁR Jozef	mal	1	516
+3296	BOLDIŠÁROVÁ Marta	Mal	1	516
+3296	BRENČOVÁ Barbora r. Andrišová		1	544
+3296	Buričová Zuzana, 072 16, Vrbnica, č. 96, SR	mŕtva	0	56,58
+3296	CEJKOVSKÝ Michal	ž.Anna r.Ivanková	1	100,309
+3296	CICÁKOVÁ Mária		1	344
+3296	ČEČEHOVSKÁ Anna r. Moskaľová	vdova	1	393
+3296	ČEČEHOVSKÝ Ján	ž. Anna r. Andrejková	1	409
+3296	ČEČEHOVSKÝ Pavel		1	409
+3296	ČEHÍĽ Michal	ž.Anna r.Dzetkuličová	1	542
+3296	ČEREP Andrej	ž.Alžbeta r.Jurčová	1	517
+3296	ČEREP Ján	ž.Anna r.Lorenčiková	1	492
+3296	ČEREP Štefan	syn Juraja	1	492
+3296	ČEREPOVÁ Helena	dcéra Juraja	1	492
+3296	ČEREPOVÁ Mária	dcéra Juraja	1	492
+3296	ČIŽMARIK Pavel	ž. Mária r. Magurová	1	298
+3296	ČURMOVÁ Matilda r. Egryová	m. Ján	1	384,457
+3296	ČURMOVÁ Matilda r. Egryová	man.Ján	1	457
+3296	DEMKO Ján		1	474,514,618
+3296	DEMKO Ján	syn Michala	1	450
+3296	DEMKO Juraj	ž. Mária r.Rolenčíková	1	100,309,572
+3296	DEMKO Michal		1	514
+3296	DEMKO Michal	syn Michala	1	450
+3296	DEMKOVÁ Mária	dcéra Michala	1	450
+3296	DÓČIOVÁ Anna, Bracovce, SR	14.02.24	1	473,474,618
+3296	DORČAKOVÁ Zuzana r. Dzetkuličová		1	498
+3296	DRABIKOVÁ Zuzana r. Čečehovská		1	580,587
+3296	DROBOŠ Juraj	ž. Barbora r.Babjaková	1	100,309
+3296	ĎURAŠ Michal	ž. Anna r.Demková	1	100,309
+3296	ĎUROVČÍK Andrej	syn Juraja	1	298,413,568
+3296	ĎUROVČÍK Ján	ž. Mária r. Firdová	1	298,413,568
+3296	ĎUROVČÍK Ján	ž. Zuzana r.Bruncová	1	100,309
+3296	ĎUROVČÍK Ján	ž.Anna r.Čečehovská	1	100,309
+3296	ĎUROVČÍK Ján	ž.Anna r.Ďurovčíková	1	590
+3296	ĎUROVČIK Juraj	ž. Anna r. Dzetkuličová	1	568
+3296	ĎUROVČÍK Juraj	ž. Anna r. Bartová	1	298,565
+3296	ĎUROVČÍK Juraj	ž.Anna r.Kočišková	1	590
+3296	ĎUROVČÍK Juraj	ž.Barbora Ďurovčíková	1	300
+3296	ĎUROVČÍK Michal	ž.Anna r.Ferencová	1	590
+3296	ĎUROVČÍK Michal	ž.Anna r.Girátošová	1	298,413,568
+3296	ĎUROVČÍK Pavel	ž. Mária r. Humenská	1	298,413,568
+3296	ĎUROVČÍKOVÁ Alžbeta r. Maťašová		1	579
+3296	DUROVČÍKOVÁ Anna r. Kočišková		1	577
+3296	ĎUROVČÍKOVÁ Zuzana	dcéra Juraja	1	298,413,568
+3296	DZEMO Michal	ml	1	466
+3296	DZEMO Michal	ž.Anna r.Serdiová	1	537
+3296	DZEMOVÁ Anna r. Andrišová	m. Michal	1	90
+3296	DZETKULIČ Ján	ž.Anna r.Fedorová	1	100,309
+3296	DZETKULIČ Michal	ž. Anna r. Čižmariková	1	298
+3296	DZETKULIČOVÁ Anna r. Čižmáriková		1	298
+3296	DZIKI Ján	mal.syn Juraja	1	287
+3296	DZIKI Juraj	ž.Barbora r.Dorčaková	1	287
+3296	DZIKIOVÁ Anna	mal.dcéra Juraja	1	287
+3296	DZIKY Ján	syn Juraja	1	156,555
+3296	Dziky Juraj	ž. Barbora r. Dorčáková	1	156,329,330,555
+3296	DZIKY Juraj		1	287
+3296	DZUGAN Michal	syn Jána	1	85,280,521,523,614,615,619,637
+3296	DZUGAN Štefan	syn Jána	1	85,280,521,523,614,615,619,637
+3296	DZUROVČÍKOVÁ Barbora r. Ďuročíková	m. Juraj	1	298
+3296	DŽUGAN Ján	ž.Mária r.Ferková	1	287
+3296	EGRI Ľudovít		1	384,457
+3296	ÉGRY Ambrus	ž. Terézia r. Olahová	1	384,457
+3296	ÉGRY Štefan		1	384
+3296	Egryová Zuzana r. Poláková		1	280,502,637
+3296	ERDÉNIOVÁ Anna r. Dzikiová		1	287,329
+3296	ERDÉNIOVÁ Anna r. Dzikyová		1	555
+3296	Fajner Ján		1	77,79,287
+3296	FAJNER Jozef		1	287
+3296	Fajner Milan		1	77,79
+3296	Fajner Štefan		1	77,79,287
+3296	Fedor Michal, Jilemnického 21, Svit, PSČ 059 21, SR	ž.Anna r.Lukáčová	0	287
+3296	FEINEROVÁ Mária r. Majcinčinová		1	77,287
+3296	FERKO Ján	syn Juraja	1	494,560
+3296	FERKOVÁ Mária r. Šoganová		1	494,560
+3296	FULAJTÁROVÁ Anna		1	77,79,287
+3296	Fulajtárová Helena, SR		1	77,79,287
+3296	GÁL Andrej		1	315
+3296	GONDA Viktor	ž.Mária Fetkoničová	1	573
+3296	GONDOVÁ Júlia r. Dufinecová		1	573
+3296	GRAJCAR Michal	ž.Alžbeta r.Poľaková	1	493
+3296	GRAJCAROVÁ Alžbeta r. Medvecová		1	493
+3296	GRÉCKOKATOLÍCKA Cirkev, Laškovce, SR		1	347
+3296	GROSMAN Adolf		1	533
+3296	GUTMANOVÁ Berta	m.Ernest	1	491
+3296	HAJDUK Andrej	ž.Zuzana Pavlová	1	582
+3296	HAJDUK Ján	ž.Anna r.Ondovčiková	1	582
+3296	HAJDUK Juraj	ž.Anna Hrabovská	1	582
+3296	HAJDUK Michal	syn Michala	1	582
+3296	HAKAĽ Juraj	ž.Zuzana r.Jozefová	1	524,545
+3296	Hakaľová Zuzana r. Jozefová, SR		1	287
+3296	HIČOVÁ Anna r. Surdiová		1	592
+3296	HIČOVÁ Helena r. Gálová		1	570
+3296	HORNÁKOVÁ Anna		1	344
+3296	HORVÁTHOVÁ Anna r. Mojcíková		1	228
+3296	HOSPODÁR Juraj	ž.Mária Hreňová	1	568
+3296	HOSPODÁROVÁ Mária r. Hreňová		1	287,297,568
+3296	HREŇO Ján	ž.Mária Hudiová	1	287,297,543
+3296	HREŇOVÁ Mária r. Polovkasová		1	90,324,569
+3296	Hricová Marta r. Ivanová	m. Ján	0	377
+3296	HUDÁKOVÁ Anna		1	287
+3296	CHOCHOLOVÁ Zuzana r. Matová		1	117
+3296	Chvostaľová Zuzana, Močarianska 1564/64, Michalovce, PSČ 071 01, SR	r.Andrejcová, mŕtva	0	298
+3296	IVAN Andrej		1	298
+3296	IVAN Ján	ž. Barbora r. Floriánová	1	298,567
+3296	IVÁN Ján		1	298,567
+3296	IVANOVÁ Mária r. Kucová		1	492
+3296	IVANOVÁ Zuzana r. Kužmová		1	469
+3296	JALČOVÍK Jozef	syn Andreja	1	267
+3296	JALČOVIKOVÁ Anna r. Hricová		1	520
+3296	JANO Ján		1	584
+3296	JOZEF Michal		1	287
+3296	KAČKOŠ Ján	ž.Anna r.Janová	1	583
+3296	KAČKOŠOVÁ Anna r. Janová		1	583
+3296	KALINOVSKÁ Helena r. Egriová		1	384,457
+3296	Kirnagová Zuzana r. Pavliková	m.Michal	0	126
+3296	KLIMOVÁ Zuzana r. Ďurovčíková	muž Michal	1	590
+3296	KOCÚR Ján	syn Jána	1	526
+3296	KOCÚR Michal	ž.Alžbeta r.Jagerová	1	287
+3296	KOCÚROVÁ Alžbeta		1	358
+3296	KOCÚROVÁ Alžbeta r. Jagerová		1	287
+3296	KOCÚROVÁ Anna r. Liščíková		1	83
+3296	KOČANOVÁ Alžbeta r. Dziková		1	287,329
+3296	KOČANOVÁ Alžbeta r. Dzikyová		1	330,555
+3296	KOČIŠKO Ján	syn Michala	1	484
+3296	KOČIŠKO Ján	ž.Zuzana r.Kočišová	1	588
+3296	KOČIŠKO Juraj	syn Jána	1	583
+3296	KOČIŠKO Michal	syn Jána	1	583
+3296	Kočiško Pavel		1	274,484
+3296	KOHUT Michal	syn Juraja	1	576
+3296	KOHUTOVÁ Anna	dcéra Juraja	1	576
+3296	Kolesárová Mária	r. Dzikyová	1	156
+3296	KOLESÁROVÁ Mária r. Dzikyová		1	287,329,330,555
+3296	KONDÁŠ Juraj	ž.Barbora r.Tačárová	1	233,234
+3296	KONDRÁŠ Ján	ž.Barbora r.Juhászová	1	515
+3296	KONDRÁŠOVÁ Barbora r. Juhászová		1	515
+3296	KOREŇ Ján	ž.Anna r.Kočišová	1	100,309
+3296	KOREŇ Ján	ž.Mária Žobráková	1	100,309
+3296	KOSTOVČÍKOVÁ Anna r. Ivanová		1	567
+3296	KOŠČOVÁ Mária r. Maťašová	m.Michal	1	404
+3296	KRÁĽ Jozef	ž.Anna Novotňaková	1	117
+3296	Kráľová Anna r. Pavlíková	m.Michal	0	126
+3296	KRIŠO Ján	syn Michala	1	556
+3296	KRIŠO Michal	syn Michala	1	556
+3296	KRIŠOVÁ Anna	dcéra Michala	1	556
+3296	KRIŠOVÁ Mária r. Maťašová		1	556,579
+3296	KSENIČ Michal	ž.Mária Koščová	1	100,309
+3296	KUCO Michal		1	492
+3296	KUCOVÁ Anna		1	492
+3296	KUDROČ Juraj	ž.Zuzana r.Andrišová	1	541
+3296	KUCHÁR Andrej	syn Juraja	1	117
+3296	KUNDERJAKOVÁ Mária r. Mihálová	m.Ján	1	85
+3296	KUŠNIR Andrej	ž.Mária r.Vojniková	1	575
+3296	KUŽMA Juraj	ž.Anna r.Šimková	1	100,309
+3296	LAKATOŠOVÁ Helena r. Ďuročíková	m. Michal	1	298
+3296	LEBEDA Ján	syn Jána	1	315
+3296	MAĎAR Andrej	ž.Alžbeta r.Ondová,040104771	1	518
+3296	Madaras Ján	syn Jána	1	287,551
+3296	MAĎARAS Ján	ž.Anna r.Lošková	1	287,550
+3296	MADARAS Juraj		1	287
+3296	Madarasová Anna	dcéra Juraja	1	280,637
+3296	MADARASOVÁ Anna r. Valisková		1	287
+3296	MAJTO Ján	zo Šamudoviec	1	298
+3296	Marcinová Zuzana r. Pikulová	vd.,m. Pavel	1	362
+3296	MAŤAŠ Juraj	syn Juraja	1	579,593,595
+3296	MAŤAŠ Michal	syn Andreja	1	579
+3296	MAŤAŠOVÁ Alžbeta	dcéra Andreja	1	579
+3296	MAŤAŠOVÁ Anna	dcéra Andreja	1	579
+3296	MAŤAŠOVÁ Mária	dcéra Andreja	1	579
+3296	MAŤAŠOVÁ Zuzana	dcéra Andreja	1	579
+3296	Matta Michal		1	366
+3296	MAXIMOVÁ Anna r. Smeržíková	m.Michal	1	315
+3296	MAXIMOVÁ Mária	dcéra Michala	1	315
+3296	MEDVEC Michal	Tkáč	1	287
+3296	MICH Andrej	ž.Zuzana Šimková	1	304
+3296	MICHAL Jozef		1	339
+3296	Miková Anna		1	108,109,194,287
+3296	MILO Ján	ž.Mária r.Lastomirská	1	100,309
+3296	MOJCIK Pavel	ž. Helena r. Vargová	1	298
+3296	MOSKAĽ Andrej	syn Andreja	1	85,223,311
+3296	MOSKAĽ Andrej	ž.Zuzana r.Džuganová	1	223
+3296	Moskaľ Ján, 072 16, Vrbnica, č. 67, SR	syn Andreja	0	311
+3296	MOSKAĽOVÁ Mária r. Hajduková	095908764	1	432
+3296	MOSKALOVÁ Mária r. Semjanová		1	579,594
+3296	MOSKAĽOVÁ Verona	dcéra Andreja	1	85
+3296	MOSKAĽOVÁ Zuzana	dcéra Andreja	1	85
+3296	NOVOTNÁ Helena		1	233,500
+3296	NOVOTNÁ Mária		1	500
+3296	NOVOTNÁ Zuzana		1	500
+3296	NOVOTNÝ Ján		1	500
+3296	ONDREJOV Ján		1	521,523,614,615,619
+3296	Oravcová Alena		1	375
+3296	PAĽOVČÍK Michal	ž. Anna r. Štoffová	1	353
+3296	Palovčíková Alžbeta r. Madarasová, SR		1	287,363,506,550,551
+3296	PAPCUNOVÁ Anna r. Ďuročiková		1	298
+3296	Pastír Juraj	ž.Anna Chrastárová	1	280,637
+3296	Pastirová Mária r. Kocúrová	manž.Michal	1	280,637
+3296	PAVLIK Juraj	ž.Zuzana r.Plutková	1	578
+3296	PAVLOV Juraj	ž. Anna r Papcunová	1	100,309
+3296	Plutko Ján	ž.Mária Varmeda	1	513
+3296	PLUTKO Ján	ž.Mária Warmedová	1	536
+3296	PLUTKO Michal		1	58
+3296	PLUTKOVÁ Alžbeta r. Ďurovčíková		1	298,323
+3296	Plutková Mária r. Varmedová		1	513
+3296	Polák Ján	ž.Anna Dzurovčíková	0	481,658
+3296	POLÁK Juraj	ž. Mária r. Siváková	1	34,481,658
+3296	POLÁK Michal	ž.Mária r.Perinárová	1	109,504
+3296	POLÁKOVÁ Mária r. Kolibasová		1	404
+3296	POLÁKOVÁ Mária r. Šimková		1	199
+3296	POĽAŠKOVÁ Zuzana r. Kočišková		1	577
+3296	POLOVKAŠ Michal	ž.Alžbeta r.Paľová	1	538,569
+3296	Popovičová Zuzana r. Bruňová		1	561
+3296	POPRIK Michal	ž.Alžbeta r.Pastirová	1	585
+3296	PRISTAŠOVÁ Mária r. Petrovská	035418995	1	589
+3296	RANDIK Juraj	syn Juraja	1	85
+3296	REICKOVÁ Hana r. Schwarcová		1	491
+3296	ROLENČÍK Ján	ž.Anna r.Čurmová	1	287
+3296	ROLENČÍK Juraj	ž. Zuzana r. Balková	1	287,485,486
+3296	ROLENČÍK Štefan	ž. Zuzana r. Marináková	1	287
+3296	ROMAN Michal		1	454
+3296	ROMANOVÁ Zuzana r. Džuganová		1	562

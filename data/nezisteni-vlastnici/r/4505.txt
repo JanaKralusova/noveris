@@ -1,0 +1,256 @@
+2553	MOKRÝ Alojz		1	1972
+2553	MOKRÝ Ján		1	1972
+2553	MOKRÝ Ján	m.Mária,r.Flímelová	1	1972
+2553	MOKRÝ Ján	z Necpal	1	1972
+2553	MOKRÝ Ján	záp.č.589	1	1972
+2553	MOKRÝ Jozef		1	1972
+2553	MOKRÝ Jozef	záp.č.2-346	1	1972
+2553	MOKRÝ Michal		1	1972
+2553	Mokrý Michal r. Mokrý	m.Alžbeta,r.Murárová, v Juhoslávii	0	2545
+2553	MOKRÝ Tomáš		1	1972
+2553	Mokuš Valent r. Mokuš	zomrel	0	2448
+2553	MOLOTTOVÁ Mária	r.Andrisová	1	1972
+2553	MURÁR Ján	Pažickeje,m.Helena r.Čičmancová,Seb.147	1	1418
+2553	Murár Ján r. Murár	Mišovskeje,m.Agneša Svitková	0	2424
+2553	Murár Ján r. Murár	Pažickeje,m.Helena,r.Čičmancová, adresát neznámy, Sebedražie, 147, SR	0	2886
+2553	Murár Ján r. Murár	vl.204	0	2887,3221
+2553	MURÁR Jozef	m.Barbora,r.Čertíková	1	1383,1384
+2553	MURÁR Jozef	m.Hermína r.Senková	1	1899
+2553	MURÁR Jozef	m.Mária r.Hrdá	1	1920
+2553	MURÁR Jozef	Pálikeje,Sebedražie č.s.45	1	1357,1654
+2553	MURÁR Jozef	Staviteľ	1	1900
+2553	MURÁR Jozef	Staviteľ,m.Mária r.Dadová	1	569
+2553	MURÁR Jozef	vl.243	1	1899
+2553	Murár Jozef r. Murár	Pálikeje, adresát neznámy, Sebedražie, 45, SR	0	2427
+2553	Murár Jozef r. Murár	staviteľ, m.Mária,r.Dadová	0	2424,3098
+2553	MURÁR Juraj	m.Terézia,r.Píšová	1	1366,1648
+2553	MURÁR Juraj	ml.Staviteľ	1	1459
+2553	Murár Juraj r. Murár	m.Terézia,r.Píšová	0	2832,3221
+2553	MURÁR Pavel	m.Mária,r.Pavlíková	1	1470
+2553	MURÁR Pavel	vl.173	1	48,1463,1470,1480,3380
+2553	Murár Pavel r. Murár	Gregoreje,m.Júlia Mjartanová	0	2515
+2553	Murár Pavel r. Murár	m.Mária,r.Pavlíková	0	2906,3276
+2553	Murár Pavel r. Murár	vl.173	0	2420
+2553	MURÁR Pavol	Dúbravka	1	48,1463,3380
+2553	MURÁR Štefan	Pristudneje,m.Anna r.Mjartanová	1	48,1168,1463,1470,1474,1475,1480,3380
+2553	MURÁR Štefan	z.5.2.1995	1	1972
+2553	Murár Štefan r. Murár	Pristudneje,m.Anna,r.Mjartanová	0	3289
+2553	MURÁR Tomáš		1	1972
+2553	MURÁR Tomáš	m.Petronela,r.Čertíková	1	48,957,1168,1463,1470,1474,1475,3380
+2553	MURÁR TOMÁŠ	PRISTUDNEJE	1	48,957,1470,1474,1475
+2553	Murár Tomáš r. Murár	m.Petronela,r.Čertíková	0	2488,3221,3269
+2553	Murár Tomáš r. Murár	pkn vl.č 316	0	3269
+2553	Murár Tomáš r. Murár	pkn vl.č.136-3	0	3295
+2553	Murár Tomáš r. Murár	pkn vl.č.316-2	0	3269
+2553	Murár Tomáš r. Murár	Pristudneje	0	2370,2931,3221,3269
+2553	Murár Tomáš r. Murár	vl.505	0	2420,3221
+2553	MURÁR Zdenko		1	48,1143,1463,1480,3380
+2553	Murár Zdenko r. Murár		0	2883,3221
+2553	Murárová Alžbeta r. Murárová	Z Vŕšku	0	3298
+2553	Murárová Anna r. Hrdá		0	2401
+2553	MURÁROVÁ Helena	Legionárova,Cígeľ	1	48,1463,3380
+2553	MURÁROVÁ Mária	r.Dadová,staviteľova matka	1	989
+2553	MURÁROVÁ Mária	r.Hrdá	1	1920
+2553	MURÁROVÁ Mária	r.Oršulová,m.Valent	1	1904
+2553	MURÁROVÁ Mária	r.Pavlíková	1	1469,1480,1924
+2553	Murárová Mária r. Beňadiková	Maslíkeje	0	2442
+2553	Murárová Mária r. Dadová	staviteľova matka	0	3298
+2553	MURÁROVÁ Rozália		1	1972
+2553	NEDELIAKOVÁ Helena	r.Briatková	1	1972
+2553	NEDELIAKOVÁ Klementína	r.Rolfesová	1	1972
+2553	NEDELJAK Anton		1	1972
+2553	NEDELJAK Gabriel		1	1972
+2553	NEDELJAK Jozef		1	1972
+2553	NEDELJAK Koloman		1	1972
+2553	NEDELJAK Ladislav		1	1972
+2553	NEDELJAK Michal		1	1972
+2553	NEDELJAK Michal	záp.č.2-1261, Sebedražie č.s.351	1	1972
+2553	NEDELJAK Rudolf	záp.č.2-1584	1	1972
+2553	NEDELJAK Štefan		1	1972
+2553	NEDELJAK Štefan	účtovník	1	1972
+2553	NEDELJAKOVÁ Anna	r.Andrisová	1	1972
+2553	NEDELJAKOVÁ Anna	r.Vidová	1	1972
+2553	NEDELJAKOVÁ Júlia	7.1.1881,r.Leporisová	1	1972
+2553	NEDELJAKOVÁ Mária		1	1972
+2553	NEDELJAKOVÁ Mária	r.Briatková	1	1972
+2553	NEDELJAKOVÁ Rozália		1	1972
+2553	NEDELJAKOVÁ Zuzana	r.Mišíková	1	1972
+2553	NELSONOVÁ Sidónia	r.Leporisová	1	1972
+2553	NEMCOVÁ Eva	r.Kulíková	1	1972
+2553	NEUBERT Viliam	ž.Margita r.Matulová	1	1972
+2553	NEUBERTOVÁ Margita	r.Matulová	1	1972
+2553	NOVACKÁ Katarína	r.Fišerová	1	1972
+2553	NOVACKÁ Mária		1	1972
+2553	NOVACKÁ Terezia		1	1972
+2553	NOVACKÝ Anton		1	1972
+2553	NOVACKÝ Martin		1	1972
+2553	NOVÁKOVÁ Antónia	r.Borseková	1	1972
+2553	NOVÁKOVÁ Jolana	r.Gramantíková	1	1972
+2553	NOVÁKOVÁ Jolana r. VIDOVÁ		1	1972
+2553	NOVODVORSKÝ Emil		1	1972
+2553	NOVODVORSKÝ Imrich		1	1972
+2553	NOVODVORSKÝ Karol	Dr.,Bánovce n.Bebravou	1	1972
+2553	OBOŇA Ján		1	1972
+2553	Oboňa Jozef r. Oboňa		0	3264
+2553	OBOŇA Mikuláš		1	1972
+2553	OBOŇA Štefan	m.Alžbeta,r.Peťková	1	1972
+2553	OBOŇA Štefan	ml	1	1972
+2553	Oboňová Anna r. Mjartanová		0	2879,3293
+2553	Oros Ján r. Oros	adresát neznámy, Nitra, Hodálová 1, SR	0	3013
+2553	OROS Ján, SR		1	1444
+2553	OROSOVÁ Františka	r.Mikušová	1	1400
+2553	ORŠULA Anton	m.Helena r.Čertíková,Sebedražie č.s.190	1	1422
+2553	ORŠULA Anton	záp.č.644	1	1928
+2553	ORŠULA Ján	m.Mária r.Gandelová,Sebedražie č.s.74	1	1903
+2553	ORŠULA Ján	m.Mária r.Lietavská	1	1403
+2553	ORŠULA Ján	Na Dúbravke	1	1894
+2553	ORŠULA Ján	záp.č.73	1	1895
+2553	Oršula Ján r. Oršula	m.Mária,r.Grolmusová	0	3180
+2553	ORŠULOVÁ Helena		1	1908,1911
+2553	ORŠULOVÁ Mária	r.Pavlíková,Hájnikova,6.12.1892,Seb. 74	1	1510,2215
+2553	PAKOŠOVÁ Mária	r.Pridavková	1	1972
+2553	PÁLESCH Koloman		1	1972
+2553	PALEŠNÍKOVÁ Mária	r.Fogeltonová	1	1972
+2553	PÁLIKOVÁ Anna		1	1972
+2553	PANTOLIDESOVÁ Mária	r.Zymanyová	1	1972
+2553	PASTIERIKOVÁ Mária	r.Krchňavá	1	1906
+2553	Pastieriková Mária r. Krchňavá		0	2427
+2553	PÁSTOR František		1	1972
+2553	PÁSTOR Ján		1	1972
+2553	PÁSTOR Ján	Dr	1	1972
+2553	PÁSTOR Jozef		1	1972
+2553	PATRIKOVÁÁ Júlia	r.Cigléniová	1	1972
+2553	PAUČEK Alojz		1	1972
+2553	PAULDAUFOVÁ Mária	r.Daubnerová	1	1972
+2553	PAVLÍK Andrej	m.Johana r.Hoková	1	1458,1459
+2553	PAVLÍK Anton	vl.425	1	1223,1458,1459
+2553	Pavlík Anton r. Pavlík	vl.425	0	3289
+2553	PAVLÍK Ján	Belajeje	1	1223,1458,1459
+2553	Pavlík Ján r. Pavlík	Belajeje	0	3289
+2553	PAVLÍK Jozef	Bélov brat,Nováky	1	1458,1459
+2553	PAVLÍK Matúš	m.Anna r.Pavlíková,Sebedražie č.s.32	1	1469
+2553	Pavlík Matúš r. Pavlík	Richtár, m.Zuzana, r.Ľachká	0	2729,3256
+2553	PAVLÍK Štefan	Kováč,m.Helena r.Valachová	1	1458,1459
+2553	PAVLÍK Vojtech	vl.425	1	1458,1459
+2553	PAVLÍKOVÁ Agneša	v Rakúsku	1	1422,1510,2215
+2553	PAVLÍKOVÁ Barbora	r.Pavlíková	1	1510,2215
+2553	PAVLÍKOVÁ Katarína	v Rakúsku	1	1422,1510,2215
+2553	PAŽICKÁ Anna	r.Mellová	1	1972
+2553	PEKÁROVÁ Anna		1	1972
+2553	PENIAŽKOVÁ Viera	r.Leitmanová,Veľká Lehôtka	1	1501
+2553	Perniš Martin r. Perniš	maloletý, čd. 4305/34, v r.1934 výmaz mal	0	3221
+2553	Perniš Pavol r. Perniš	zomrel, Koš	0	3221
+2553	Pernišová Alžbeta r. Pernišová	čd.3788/39, výmaz maloletosti v r.1944	0	3221
+2553	Pernišová Františka r. Pernišová	čd.3788/39	0	3221
+2553	Pernišová Mária r. Švorcová	čd.2836/33	0	3221
+2553	Peticová Terézia r. Kulichová	Necpaly, I., SR	0	2834,3221
+2553	PETICOVÁ TERÉZIA r. KULICHOVÁ		1	2242
+2553	PETICOVÁ TERÉZIA r. KULICHOVÁ	Necpaly -	1	1226,3364,3365
+2553	PETRÁŠ Pavol		1	1972
+2553	PETRÁŠ Viliam		1	1972
+2553	PETRÁŠOVÁ Eulália		1	1972
+2553	PETRÁŠOVÁ Gabriela	r.Kulichová,Necpaly č.s.8	1	1972
+2553	PETRISKOVÁ Terézia	r.Krchňavá	1	1906
+2553	Petrisková Terézia r. Krchňavá		0	2427
+2553	PETRUŠOVÁ Emília	r.Gatialová	1	1972
+2553	PIETRIKOVÁ Margita	r.Chladková	1	1972
+2553	PÍLIKOVÁ Júlia	r.Škádrová	1	1972
+2553	PIPÍŠKOVÁ Terézia	r.Mečiarová	1	1972
+2553	PÍŠ Anton	záp.č.2-1645	1	1972
+2553	Píš Filip r. Píš	m.Rozália,r.Šimurková	0	2427
+2553	PÍŠ Gregor		1	1777
+2553	PÍŠ Ingác	Beriaceje,m.Mária,r.Solčániová	1	1396
+2553	PÍŠ Ján	Kálajeje,Sebedražie č.s.88	1	1470
+2553	Píš Ján r. Píš	m.Anna,r.Krausková	0	3042
+2553	Píš Ján r. Píš	m.Zuzana,r.Kurbelová	0	3202
+2553	PÍŠ Jozef	Jozefov syn	1	1972
+2553	PÍŠ Jozef	m.Mária r.Kulichová	1	1396
+2553	Píš Jozef r. Píš	Chromandeje,m.Mária, r.Gatialová	0	3081
+2553	Píš Jozef r. Píš	m.Anna,r.Krausková	0	2449
+2553	Píš Jozef r. Píš	m.Mária,r.Šimková	0	3202
+2553	Píš Jozef r. Píš	syn Jozefa, čd. 2667/26	0	2370
+2553	Píš Jozef r. Píš	záp.č.4-91	0	3202
+2553	PÍŠ Matej	Kálajeje,m.Mária,r.Mjartanová	1	1470
+2553	Píš Matej r. Píš	Kálajeje,m.Mária, r.Mjartanová	0	3241
+2553	PÍŠ Pavel		1	1972
+2553	Píš Pavel r. Píš	čd.3627/26	0	3221
+2553	Píš Pavel r. Píš	m.Pavlína,r.Kurbelová, čd.1154/37	0	3221
+2553	Píš Pavel r. Píš	záp.č.4-91, adresát neznámy, Koš, 136, SR	0	2427
+2553	PÍŠ Štefan		1	1972
+2553	Píš Viliam r. Píš	malol	0	2370
+2553	Píšová Anna r. Poliaková	Valenteje,m.Gregor	0	2638
+2553	PÍŠOVÁ Mária	r.Kulichová	1	1914,1915
+2553	Píšová Mária r. Bugárová		0	2956
+2553	PÍŠOVÁ MÁRIA r. ČERTÍKOVÁ		1	1407
+2553	Píšová Mária r. Píšová	dcéra Jozefa, maloletá	0	2370
+2553	Píšová Mária r. Píšová	maloletá, Gregorova dcéra, čd. 595/45, Koš č. 184	0	3221
+2553	Píšová Pavlína r. Kurbelová		0	3202
+2553	Píšová Petronela r. Píšová	neznáma, Koš, Okružná 8, SR, zom	0	3253,3255,3267
+2553	Píšová Zuzana r. Minichová	vdova, Tomáš, Koš, čd. 1371/20, predtým Štorcelová, zom., Koš, I., SR	0	2370
+2553	PODOLCOVÁ Helena	r.Gatialová	1	1972
+2553	PODOLCOVÁ Mária	r.Murárová,Jalovec	1	1421,1422
+2553	PODOLEC Ján	m.Helena,r.Gatialová	1	1972
+2553	PODOLECOVÁ Alojzia	r.Leporisová	1	1972
+2553	Pokladnica urbárskeho pozemkového spoločenstva	Hlavná, 471, Sebedražie, SR	0	3269
+2553	POLERECKÁ Emília	r.Andrisová	1	1972
+2553	POLITZEROVÁ Valéria	r.Diamantová	1	1972
+2553	POLJAK Pavol	z.13.2.1983	1	1972
+2553	PORUBSKÁ Mária, Fučíkova 1768, Prievidza, PSČ 97101, SR	nar.1930	1	1972
+2553	PORUBSKÝ Ján		1	1972
+2553	PORUBSKÝ Jozef		1	1972
+2553	PORUBSKÝ Jozef	záp.č.2-1146	1	1972
+2553	PRIEVIDZKÁ Rímsko Katolícka	autonómna obec	1	1972
+2553	PRIVITZEROVÁ Ilda		1	1972
+2553	PŠENKOVÁ Antónia		1	1972
+2553	RAJSOVÁ Helena	Družstevná,Prievidza	1	1972
+2553	REISOVÁ Pavlína	r.Nedeljaková	1	1972
+2553	REITER Ján		1	1972
+2553	REITER Michal	m.Mária,r.Laluhová	1	1972
+2553	REITER Štefan		1	1972
+2553	REITEROVÁ Jozefína		1	1972
+2553	REITEROVÁ Júlia		1	1972
+2553	REITLEROVÁ Helena	r.Drexlerová	1	1972
+2553	RICHTEROVÁ Mária	z.27.7.1972	1	1972
+2553	RICHTEROVÁ Vilma	r.Fintová	1	1972
+2553	RIPKOVÁ Mária	r.Háneschová, Sebedražie č.s.462	1	1972
+2553	ROHÁČOVÁ Gabriela	r.Daubnerová	1	1972
+2553	ROHÁČOVÁ Júlia	r.Ďurínová	1	1972
+2553	ROHÁČOVÁ Zuzana	r.Struhárová	1	1972
+2553	ROĽNÍCKA Vzájomná	pokladnica v Prievidza	1	952,957,1168,1581,3319
+2553	Roľnícka Vzájomná pokladnica	I., Prievidza, SR	0	3164,3242
+2553	ROSENTHALOVÁ Nella	r.Steckoverová v Topoľčanoch	1	1972
+2553	ROŽNAI Jozef		1	1972
+2553	ROŽNAI Štefan		1	1972
+2553	ROŽNAI Titus		1	1972
+2553	RYBÁR Alfréd	v Bratislave	1	1972
+2553	SABOVÁ Johana	r.Leporisová	1	1972
+2553	Samosprávna obec Rímskokatolícka v Prievidzi	I., Prievidza, SR	0	2446
+2553	SANTORIDES Michal		1	1972
+2553	SELECKÁ Mária	r.Chovancová	1	1972
+2553	Shwarzová Agnesa r. Mjartanová		0	3202
+2553	SCHLOSÁROVÁ Jozefína		1	1972
+2553	SCHLOSÁROVÁ Margita	r.Bašková	1	1972
+2553	SCHNIERER Ján		1	1972
+2553	SCHNIEREROVÁ Terézia	r.Leporisová	1	1972
+2553	SCHÜCHTANZ Dezider		1	1972
+2553	SCHÜCHTANZ Jozef		1	1972
+2553	SCHWARTZ Juraj		1	1145
+2553	SCHWARTZ Ladislav		1	1972
+2553	SCHWARTZ Mikuláš	Dr	1	1972
+2553	SCHWARTZOVÁ Georgína		1	1972
+2553	SCHWARTZOVÁ Margita	r.Adamíková	1	1972
+2553	Schwarz Juraj r. Schwarz		0	2864
+2553	Schwarzová Agnesa r. Mjartanová		0	2944
+2553	SINGER Vilém		1	1972
+2553	SINGER Viliam		1	1972
+2553	SINGER Viliam	záp.č.2-857	1	1972
+2553	SINGER Vojtech	Dr	1	1972
+2553	SKALÁK Ernest		1	1972
+2553	SKALÁK Ernest	m.Irena,r.Chládková	1	1972
+2553	SKALÁKOVÁ Irena	r.Chladková	1	1972
+2553	SKALANDOVÁ Aurélia	r.Fogeltonová	1	1972
+2553	SKOPCOVÁ Antónia	r.Bátorová	1	1972
+2553	SKOPCOVÁ Mária	r.Bátorová	1	1972
+2553	SLÁDEK Emanuel		1	1972
+2553	SLOBODOVÁ Katarína	r.Gajdošová,Ústav Bôrik,Nitr. Pravno	1	1626,1779
+2553	Slobodová Katarína r. Gajdošová	Nitrianske Pravno, CSS Bôrik, Žltá 319/25, SR	0	3142,3221

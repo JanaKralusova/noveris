@@ -1,0 +1,256 @@
+698	URBANOVÁ Mária r. Kovaľová	zomrela	0	735
+698	URBÁRSKA OBEC GREGOROVCE, 082 66, Gregorovce, SR		0	207
+698	VAĽKOVÁ Rozália r. Škvarlová	zomrela,m.Štefan	0	105
+698	VAŇO Andrej	zomrel,ž.Zuzana Urbanová	0	122
+698	Vaňo František	ž.Anna Vargová	0	119
+698	VAŇO Ján	zomrel	0	93,122,502,503,699,700,701,702,703,955,987,988
+698	VAŇO Štefan	zomrel,ž.Mária Mikolajová	0	763
+698	VAŇOVÁ Mária r. Fričová	zomrela,m.Juraj	0	799
+698	VAŇOVÁ Mária r. Mikolajová	m.Štefan	0	93,763
+698	Varga Andrej	zomrel,súrodenci Ján,Štefan	0	771
+698	VARGA Andrej	zomrel	0	1144
+698	VARGA Andrej	ž.Katarína Hopková	0	93,184,203
+698	Varga Ján	ž.Anna Majirošová	0	1177
+698	VARGA Ján	zomrel	0	771
+698	VARGA Ondrej	zomrel	0	113
+698	VARGA Štefan	zomrel	0	771
+698	VARGOVÁ Anna r. Hopková	zomrela	0	29,75,93,477,522,530,531,532,533,534,535,536,537,539,683,684,1554,1555,1556,1558,1682,1713
+698	Vargová Anna r. Majirošová		0	1177
+698	Vašková Žofia r. Pillárová		1	1254
+698	VAVLIČOVÁ Mária r. Šimková	zomrela	0	93,680,682,1195
+698	Vavrek Ferdinand		1	1254
+698	Vavrek Vincent		1	1254
+698	VEREŠPEJOVÁ Anna r. Paľová	zomrela	0	239,524,1126,1290,1444
+698	VEREŠPEJOVÁ Katarína r. Petrová	zomrela	0	1175
+698	VEREŠPEJOVÁ Žofia r. Molčanová		0	93,113,183,184,185,1143,1411,1608
+698	VESELÁ Mária r. Olejníková	zomrela	0	748
+698	VOJTEK Andrej	maloletý,zomrel	0	93,292,800,896,897,898,899,900,1236,1311,1593
+698	VOJTEK Andrej	zomrel,brat Jozef	0	443,444,785,787,799
+698	VOJTEK Andrej	ž.Anna Jusková	0	1150
+698	VOJTEK Ján	ml.,zomrel	0	1134,1316
+698	VOJTEK Ján	zomrel	0	93,292,800,896,897,898,899,900,1154,1311,1405,1406,1407,1408,1593
+698	VOJTEK Ján	zomrel,ž.Anna Rabatinová	0	190,193,1590,1606
+698	VOJTEK Ján	zomrel,ž.Mária r.Vojteková	0	1175
+698	VOJTEK Jozef	zomrel,ž.Anna Saparová	0	1303
+698	VOJTEK Štefan	zomrel	0	93,292,800,896,897,898,899,900,1134,1236,1311,1593
+698	VOJTEK Vincent	zomrel	0	1117
+698	VOJTEKOVÁ Anna	zomrela	0	93,292,800,896,897,898,899,900,1134,1236,1311,1593
+698	VOJTEKOVÁ Anna r. Jusková	zomrela	0	1150
+698	VOJTEKOVÁ Anna r. Rabatinová	zomrela,n.v roku 1901	0	93,167,187,189,190,191,192,193,203,688,689,690,691,1549,1590,1606,1607
+698	VOJTEKOVÁ Anna r. Saparová	zomrela	0	1303
+698	WAGNEROVÁ Ema r. Dudášová	zomrela	0	844
+698	WEISER Ernest	zomrel	0	1119
+698	Wintersteiner Ingeborg	maloletý	1	1254
+698	Wintersteinerová Brigita	maloletá	1	1254
+698	Zajac Andrej		1	1254
+698	Zajac Juraj	maloletý	1	1254
+698	Zajac Štefan		1	1254
+698	Zajac Verona r. Ponik		1	1254
+698	ZAJACOVÁ Anna r. Pravurová	zomrela	0	1046,1047
+698	Zajacová Margita r. Pagur		1	1254
+698	Zajacová Mária r. Nikolajová		1	1254
+698	ZBOROVJAN Štefan	zomrel,ž.Alžbeta Majerníková	0	1324
+698	ZBOROVJANOVÁ Alžbeta r. Majerníková	zomrela	0	1324
+699	Balajti Ľudovít		0	127
+699	Balajtiová Katarína	mal	0	127
+699	Balajtyová Elizabet		0	133
+699	Bárdosová Zuzana r. Demeterová		0	130
+699	Bárdoš Vojtech	ž.Zuzana r.Demeterová	0	130
+699	Bodonová Judita r. Lökösová	muž Július	0	109,124
+699	Bosnyák Ján		0	111
+699	Bošelová Marta		0	111
+699	Bottliková Tereza r. Eszrényiová	muž Imrich	0	107
+699	Csáková Apolónia r. Simonová		0	111
+699	Csapó Ján		0	111
+699	Csolti Benjamín	mal	0	128,129
+699	Csoltiová Barbora		0	47,151,166
+699	Csúr František		0	72
+699	Czékus Mikuláš		0	100
+699	Demeterová Katarína r. Kecsöová	muž Ján	0	47,151,166
+699	Dulovičová Mária r. Herényiová		0	47,80,148,151,158,166
+699	Elek Jozef		0	111
+699	Eszrényiová Juliana r. Nagyová	muž Štefan	0	107
+699	Farkasová Katarína r. Katonaová		0	115,116
+699	Fodor Ján		0	111
+699	Fodor Ján	báder	0	111
+699	Fodor Jozef		0	111
+699	Fodor Jozef	földi	0	111
+699	Fodor Ondrej	ml. báder	0	111
+699	Fodorová Alžbeta r. Majorosová	muž Ján	0	111
+699	Fodorová Barbora		0	111
+699	Fodorová Mária		0	111
+699	Géreczová Juliana		0	85
+699	Géreczová Juliana	mal	0	22
+699	Gergely Štefan	ml	0	110
+699	György Štefan		0	111
+699	Herényi Teodor	Barnabáš	0	122
+699	Herényiová Alžbeta r. Mikóová		0	39,159
+699	Hubayová Alžbeta		0	133
+699	Ibos Július	ž.Mária r.Kalaurová	0	111
+699	Ibosová Mária r. Kalaur	muž Július	0	111
+699	Istók Michal	st	0	112
+699	Jász Michal		0	111
+699	Kalas Koloman	ml	0	129
+699	Kalasová Gizela r. Kálmánczyová	zomr.10.3.1969	0	119
+699	Kalasová Irma r. Óvárriová		0	109
+699	Kalasová Katarína r. Kálmánczyová	zomr.29.7.1970	0	119
+699	Kálmánczy Juraj	mal	0	49
+699	Kálmánczy Ľudovít		0	49
+699	Kálmánczy Peter		0	116
+699	Kálmánczy Štefan	mal	0	118,119
+699	Kálmánczyová Mária r. Lökösová	vd., muž Ľudovít	0	109,124
+699	Kálmánczyová Zuzana r. Óváriová	vd	0	120,123
+699	Katona František		0	116
+699	Katona Ľudovít		0	116
+699	Katona Valent		0	115
+699	Kecsö František		0	47,151,166
+699	Knoch Ján	ž.Mária r.Racsjáková	0	111
+699	Konczkiová Mária r. Magiczová		0	86
+699	Kormos Zoltán	Belín	0	111
+699	Kovács Ján	zom.18.6.1998	0	83,84
+699	Kovács Štefan	ispán	0	111
+699	Kovácsová Gizela	vd.r.Mikóová	0	84
+699	Kovácsová Gizela r. v	vd. r. Mikóová	0	66
+699	Kresne Alexander		0	111
+699	Kresnye Štefan		0	111
+699	Kupai Dionýz		0	116
+699	Lecsöová Zuzana r. Erdélyiová		0	40,144,155
+699	Lökösová Alžbeta r. Kálmánczyová		0	119
+699	Máté Benedikt		0	110
+699	Mikó Anton		0	34,90,165
+699	Mikó Dionýz	zom. 6.6.1995	0	51
+699	Mikó Ján		0	22
+699	Mikó Ján	syn Ladislavov	0	35,47,85,101,104,151,166
+699	Mikó Ján	ž.Alžbeta r.Mikóová	0	95,157
+699	Mikó Pavel		0	82,91
+699	Mikó Pavel	najml	0	47,151,166
+699	Mikó Rafael		0	24
+699	Mikó Samuel		0	47,151,166
+699	Mikóová Alžbeta		0	39,47,151,159,166
+699	Mikóová Alžbeta r. Mikóová	vd.,muž Ján	0	47,151,166
+699	Mikóová Mária	mal. dcéra Ladislavova	0	19,20,35
+699	Mikóová Mária	mal.dcéra Ladislavova	0	47,85,104,151,166
+699	Mikóová Terézia r. Mikóová		0	82
+699	Miková Juliana r. Tóthová	muž Ferdinand	0	114
+699	Miková Mária	mal	0	22
+699	Nagy Alexander		0	122
+699	Nagy Ján		0	122
+699	Nagy Karol		0	122
+699	Nagyová Eva		0	108
+699	Nagyová Gizela		0	122
+699	Nagyová Katarína	mal	0	122
+699	Nagyová Klára		0	122
+699	Nagyová Rozália		0	122
+699	Óváry Karol		0	131
+699	Óváry Ľudovít		0	122,125
+699	Óváry Štefan	mal	0	122
+699	Óváryová Estera		0	122
+699	Óváryová Judita		0	109
+699	Pál Vojtech		0	130
+699	Pecsöková Barbora r. Budaiová	muž Ján	0	111
+699	Petijová Zlata r. Damjánová		0	51
+699	Polyáková Júlia r. Mikóová		0	19,101,104
+699	Samarjay Jozef		0	110
+699	Sonkoly Ján	gyetvai	0	111
+699	Sonkoly Ladislav		0	111
+699	Sonkoly Michal		0	111
+699	Sonkoly Ondrej		0	111
+699	Sonkoly Štefan	ml	0	111
+699	Szabó Ján		0	111
+699	Szabó Jozef		0	111
+699	Szabó Štefan		0	111
+699	Szekeres Michal	ž. Barbora	0	111
+699	Szekeresová Barbora	muž Michal	0	111
+699	Tóth Koloman		0	120
+699	Tóth Peter		0	47,151,166
+699	Tóthová Juliana r. Mikóová	muž Michal	0	47,151,166
+699	Vég Štefan		0	111
+699	Vincze Karol		0	47,54,55,116,146,151,166
+699	Vincze Ľudovít		0	47,54,55,146,151,166
+699	Vinczeová Alžbeta r. Balajtiová	muž Mikuláš	0	127
+699	Vitályus Ondrej	ml	0	111
+699	Vitályus Štefan		0	111
+699	Vitáriusová Priška r. Pálová		0	111
+700	Andrejko Ján r. Andrejko		1	368,373
+700	Andrejko Vasiľ r. Andrejko		0	368
+700	Biroš Fedor r. Biroš		1	373
+700	Biroš Ján		1	342
+700	Biroš Ján r. Biroš		1	366,373
+700	Biroš Michal r. Biroš		1	366
+700	Biroš Pavol r. Biroš		1	373
+700	Birošová Helena r. Birošová		1	373
+700	BÍROŠOVÁ Júlia	r BUČKOVÁ	1	411
+700	Birošová Júlia r. Bučková		1	161,168,173,196,202,219,250,251,252,257,262,267,285,290,292,335,342,385,404
+700	Birošová Mária		1	363
+700	Birošová Mária r. Harvilková		1	373
+700	Bružina Michal r. Bružina		1	358
+700	Bučko Andrej		1	11,19,161,168,173,196,202,219,250,251,252,257,262,267,285,290,291,292,293,342,385,404
+700	BUČKO Andrej	1	1	411
+700	Bučko Andrej r. Bučko		1	335
+700	Bučko Demeter		1	291
+700	Bučko Ján		1	24,165,173,196,250,251,252,270,290,291,300,335,404
+700	BUČKO Ján	syn Jána	1	19,250,251,252,391,404,408
+700	Bučko Michal		1	11,161,165,173,196,219,250,251,252,262,270,290,291,292,300,335,342,385,404
+700	Bučko Michal	syn Jána	1	250,251,252,404
+700	BUČKO Michal	2	1	19,391,408
+700	Bučko Peter		1	161,196,250,251,252,262,290,335,404
+700	Bučko Štefan		1	24,172,173,177,190,196,219,250,251,252,282,290,292,297,335,342,385,404
+700	Bučko Štefan	manž. Mária r. Leferovičová	1	282
+700	Bučko Štefan	syn Štefana	1	291
+700	Bučko Štefan	ž. Mária r. Leferovičová	1	250
+700	Bučko Štefan	ž.Mária r.Leferovičová	1	251,252,404
+700	BUČKO Štefan	1	1	50
+700	BUČKO Štefan	ž Mária r LEFEROVIČOVÁ	1	50
+700	Bučko Vasiľ		1	161,168,196,219,250,251,252,262,290,335,342,385,404
+700	Bučková Anna		1	177,292
+700	Bučková Elena r. Bučková		1	161
+700	Bučková Eva		1	292
+700	BUČKOVÁ Helena		1	171,173,196,250,251,252,292,293,404,423
+700	BUČKOVÁ Helena	1	1	19
+700	BUČKOVÁ Helena	r BUČKOVÁ	1	19,391,408
+700	Bučková Helena r. Bojdová		1	161,196,250,251,252,404
+700	Bučková Helena r. Bučková		1	161,165,196,206,250,262,270,290,300,307,335,404,416
+700	Bučková Helena r. Bujdová		1	293
+700	Bučková Júlia		1	173,196,250,251,252,292,404
+700	BUČKOVÁ Mária		1	50,172,190,196,250,251,252,282,290,335,404
+700	Bučková Paraska		1	161,196,250,251,262,290,335,404
+700	Cirkus Onufer r. Cirkus		1	366
+700	Cirkusová Mária r. Birošová		1	366
+700	CUNDEROVÁ Mária	r BUČKOVÁ	1	411
+700	Cunderová Mária r. Bučková		1	161,168,173,196,219,250,251,252,262,267,290,292,335,342,385,404
+700	Cuper Vasiľ r. Cuper		1	368,373
+700	Cuperová Helena r. Birošová		1	360
+700	Čakloš Demeter r. Čakloš		1	373
+700	Čakloš Livňanská Júlia r. Kmiťová		1	372,373
+700	Čakloš Livňanský Andrej r. Čakloš Livňanský		1	359,373
+700	Čakloš Livňanský Ján r. Čakloš Livňanský		1	373
+700	Čakloš Livňanský Ján r. Čakloš Livňanský	syn Michala	0	372
+700	Čakloš Livňanský Michal r. Čakloš Livňanský		1	359,373
+700	Čakloš Livňanský Vasiľ r. Čakloš Livňanský		1	373
+700	Čakloš Michal r. Čakloš		1	372,373
+700	Čakloš Peter r. Čakloš		1	373
+700	Čaklošová Mária		1	359,365
+700	Československý štát MNV		0	186
+700	Československý štát- správa MNV Gribov		0	266
+700	Čuma Peter r. Čuma		1	373
+700	Čumová Mária		1	377
+700	Čumová Mária r. Čumová		1	373
+700	Ďatvalová Helena r. Bučková		1	291
+700	Fecko Ján r. Fecko		1	373
+700	FEJKOVÁ Helena	r ZUBEROVÁ	1	391
+700	Fejková Helena r. Zuberová		1	270,290,335
+700	Fejková Júlia r. Bučková		1	196,250,251,252,262,290,335,404
+700	Fejová Júlia r. Bučková		1	161
+700	Fijková Helena r. Zuberová		1	11,176,196,250,251,252,404
+700	Fijková Mária r. Bučková		1	171,196,250,251,252,404,423
+700	Gmiterko Andrej r. Gmiterko		1	373
+700	Gmiterko Andrej r. Gmiterko	1	0	369
+700	Gmiterková Mária	1	0	369
+700	Gmiterková Mária r. Gmiterková		1	373
+700	Gojdičová Mária r. Bučková		1	173,196,250,251,252,292,404
+700	Gula Štefan		1	11,183,196,250,251,252,276,404
+700	Gula Štefan	ml	1	251,252,276,404
+700	Gulová Anna		1	11,183,196,250,251,252,276,404
+700	HAĽKOVÁ Mária	r ŠOLTÉSOVÁ	1	409
+700	Haľková Mária r. Šoltésová		1	170,193,194,197,198,228,290,308,335
+700	Harvilko Demeter r. Harvilko		1	373

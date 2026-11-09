@@ -1,0 +1,256 @@
+239	Knap Antonín	ž.Alžeta r.Hačundová	0	1874
+239	KNAP Antonín mal.		0	1554
+239	Knap František	súr. Antonín, Matej, Ján, Michal, Justína, Terézia, ded.po: Ján Knap a Rozália r.Valúškov	0	1424,4724
+239	Knap František r. Knap	otec Ján, súr. Terézia Antálková, Anton, Matej, Ján, Michal	0	4005,5804
+239	Knap Ján	maloletý, súrod.Antonín, Matej, František, Michal, Justína, Terézia	0	1417
+239	Knap Ján	ž. Mária r. Hnátová, otec Ján, súr.Terézia Antálková, Anton, Matej, František, Michal	0	4005
+239	Knap Ján	ž.Mária r.Hnátová, otec Ján, súr. Terézia Antálková, Anton, Matej, František, Michal	0	5804
+239	Knap Jozef	kúpa od Jozefa Knapa	0	1088,1095,1139,1182,1247,1249,1256,2483,4433,4890
+239	Knap Jozef	súr. Anna, Rozália, Jozefína, kúpa od Jozefa Knapa	0	766,1421
+239	Knap Jozef	súr. Ján, Anna Čulenová, Rozália Antálková	0	4005,5804
+239	Knap Jozef	súr. Ján, Anna, Rozália, ded. po Anna Knapová	0	1084
+239	Knap Jozef	súr. Rozália, Ján, Anna, ded. po Anne Knapovej	0	4437,5337
+239	Knap Jozef	ž. Mária r. Hladíková	0	1427
+239	KNAP Jozef		0	1270,1335,1415,1420,1422,1423,1554,4934
+239	Knap Matej	maloletý, súr. Antonín, Ján, František, Michal, Justína, Terézia	0	1256
+239	Knap Matej	maloletý, súrod.Antonín, František, Michal, Ján, Justína, Terézia	0	1419
+239	Knap Matej	maloletý, súrod.Antonín, Ján, František, Michal, Justína, Terézia	0	1417
+239	Knap Matej	otec Ján, súr.Terézia Antálková, Anton, Ján, František, Michal	0	4005,5804
+239	Knap Matej	súr. Antonín, Ján, František, Michal, Justína, Terézia,ded. po: Ján Knap a Rozália r.Valúš	0	1424,4724
+239	Knap Michal	otec Ján, súr. Terézia Antálková, Anton, Matej, Ján, František	0	5804
+239	Knap Michal	otec Ján, súr.Terézia Antálková, Anton, Matej, Ján, František	0	4005
+239	Knap Michal	súr. Antonín, Matej, Ján, František, Justína, Terézia, ded.po: Ján Knap a Rozália r.Valúšk	0	1424,4724
+239	Knap Štefan	ded. po Márii Knapovej r. Hladíkovej	0	1182
+239	Knap Štefan	mal. súr. Anna, Rozália, Jozefína, Anton, Anna, Klotilda, Helena, ded. po Márii Knapovej	0	1095
+239	Knap Štefan	maloletý, ded. po Jozefovi Knapovi	0	1256
+239	Knap Štefan	maloletý, ded. po Márii Knapovej r. Hladíkovej	0	766,1087,1088,1139,1247,1249,1251,1421,1426,1428,2483,4433,4434,4890,4935,5822
+239	Knap Štefan	maloletý, ded. po Márii Knapovej r. Hladíkovej - m. Jozef	0	1427
+239	Knap Štefan	maloletý, dedené po Anne Knappovej r. Hladíkovej	0	1161
+239	Knapová Alžbeta r. Hačundová		0	1554
+239	Knapová Alžbeta r. Hačundová	m. Anton, súr. Mária, Agneša, Ján, ded. po Štefanovi Hačundovi -ž. Mária r. Horná	0	3031
+239	Knapová Alžbeta r. Hačundová	m.Anton, súrod. Mária, Agneša, Ján	0	1874
+239	Knapová Anna	maloletá, ded. po Antonínovi Trubirohovi	0	3027
+239	Knapová Anna	maloletá, ded. po Antonovi Trubirohovi - ž. Karolína r. Pavlíková	0	3028
+239	Knapová Helena	maloletá, ded. po Márii Knapovej r. Hladíkovej	0	1088,2483,4433,4890
+239	Knapová Jozefína r. Antálková	zom.20.3.2017, m. František, rod. Anton a Mária r. Grňová, súr. Štefan, Rozália, Alojz, I	0	1087,1250,4434,4935,5822
+239	Knapová Justína	maloletá, súr. Antonín, Matej, Ján, František, Michal, Terézia	0	1256
+239	Knapová Justína	maloletá, súrod. Antonín, Matej, František, Michal, Ján, Terézia	0	1419
+239	Knapová Justína	maloletá,súrod.Antonín, Matej, Ján, František, Michal, Terézia	0	1417
+239	Knapová Justína	súr. Antonín, Matej, Ján, František, Michal, Terézia, ded.po: Ján Knap a Rozália r.Valúšk	0	1424,4724
+239	Knapová Klotilda		0	1425,1554
+239	Knapová Klotilda	ded. po Jozefovi Knapovi	0	1256
+239	Knapová Klotilda	ded. po Jozefovi Knapovi a manž. Helene r. Trubirohovej	0	2401
+239	Knapová Klotilda	ded. po Štefanovi Knapovi, súr. Antonín, Anna	0	3026
+239	Knapová Klotilda	mal. , ded. po Antonovi Trubiorhovi - ž. Karolína r. Pavlíková	0	1432,5438,5542,5676,5811,5812
+239	Knapová Klotilda	mal. súr. Anna, Rozália, Jozefína, Anton, Anna, Helena, Štefan, ded. po Márii Knapovej	0	1095
+239	Knapová Klotilda	maloletá	0	1415,3348
+239	Knapová Klotilda	maloletá, ded. po Antonínovi Trubirohová	0	3027
+239	Knapová Klotilda	maloletá, ded. po Antonínovi Trubirohovi - ž. Karolína r. Pavlíková	0	2714
+239	Knapová Klotilda	maloletá, ded. po Antonovi Trubirohovi - ž. Karolína r. Pavlíková	0	3028
+239	Knapová Klotilda	maloletá, ded. po Márii Knapovej r. Hladíkovej	0	766,1087,1088,1139,1182,1247,1249,1251,1421,1426,1428,2483,4433,4434,4890,4935,5822
+239	Knapová Klotilda	maloletá, ded. po Márii Knapovej r. Hladíkovej - m. Jozef	0	1427
+239	Knapová Klotilda	maloletá, dedené po Anne Knappovej r. Hladíkovej	0	1161
+239	Knapová Klotilda	maloletá, dedené po Márii Knapovej r.Hladíkovej	0	1419,1420
+239	Knapová Klotilda	maloletá, dedené po Márii Knappovej r.Hladíkovej	0	1422,1423
+239	Knapová Klotilda	maloletá,dedené spolu s:Anna, Rozália, Jozefína, Anton, Anna, Helena, Štefan	0	1417
+239	Knapová Klotilda	súr. Štefan, Anton, Anna, ded. po Helene Knapovej r. Trubirohovej	0	1630,1632
+239	Knapová Klotilda	súr. Štefan, Anton, Anna, ded. po Helene Knapovej r. Trubirohovej, Štefanovi Knapovi	0	4875
+239	Knapová Klotilda	súr. Štefan, Anton, Anna, ded. po Helene Knapovej r.Trubirohovej, Štefanovi Knapovi	0	1325
+239	Knapová Klotilda	súr. Štefan, Antonín, Anna, ded. po Helene Knapovej r. Trubirohovej, Štefanovi Knapovi	0	1633
+239	Knapová Klotilda	súr.Štefan, Anton, Anna, ded. po Helene Knapovej r. Trubirohovej	0	3064
+239	Knapová Klotilda	súrod. Štefan, Antonín, Anna	0	1631
+239	Knapová Klotilda	súrod.Antonín, Anna, Helena, Štefan	0	2954
+239	KNAPOVÁ Klotilda mal.		0	1554
+239	Knapová Mária r. Hladíková	kúpa od Jána Knapa	0	1256
+239	Knapová Mária r. Hladíková	m. Jozef	0	1554
+239	Knapová Mária r. Hladíková	m.Jozef	0	1554
+239	Knapová Mária r. Trubirohová	ded. po Antonínovi Trubirohovi	0	3027
+239	Knapová Mária r. Trubirohová	ded. po Antonínovi Trubirohovi - ž. Karolína r. Pavlíková	0	2714
+239	Knapová Mária r. Trubirohová	ded. po Antonovi Trubiorhovi - ž. Karolína r. Pavlíková	0	1432,5438,5542,5676,5811,5812
+239	Knapová Mária r. Trubirohová	ded. po Antonovi Trubirohovi - ž. Karolína r. Pavlíková	0	3028
+239	KNAPOVÁ Mária r. Trubirohová		0	1554,3348
+239	Knapová Terézia		0	4811
+239	Knapová Terézia	maloletá, súr. Antonín, Matej, Ján, Frantešek, Michal, Justína	0	1256
+239	Knapová Terézia	maloletá,súrod.Antonín, Matej, Ján, František, Michal, Justína	0	1417
+239	Knapová Terézia	súr. Antonín, Matej, Ján, František, Michal, Justína, ded.po: Ján Knap a Rozália r.Valúško	0	1424,4724
+239	Knapová Terézia	súrod. Antonín, Matej, František, Michal, Ján, Justína	0	1419
+239	Knapp Anton		0	1270,4934
+239	Knapp Anton	ded. po Jánovi Knappovi	0	1084
+239	Knapp Anton	ded. po Jánovi Knappovi, súr. Terézia, Matej, Ján, František, Michal	0	1335
+239	Knapp Anton	súr. Terézia, Matej, Ján, František, Michal, ded. po Jánovi Knappovi	0	3486,4437,5337
+239	Knapp Antonín		0	1554
+239	Knapp František		0	1270,1554,4934
+239	Knapp František	ded. po Jánovi Knappovi	0	1084
+239	Knapp František	ded. po Jánovi Knappovi, súr. Terézia, Anton, Matej, Ján, Michal	0	1335
+239	Knapp František	súr. Terézia, Anton, Matej, Ján, Michal, ded. po Jánovi Knappovi	0	3486,4437,5337
+239	Knapp Ján		0	1270,1554,4934
+239	Knapp Ján	ded. po Jánovi Knappovi	0	1084
+239	Knapp Ján	ded. po Jánovi Knappovi, súr. Terézia, Anton, Matej, František, Michal	0	1335
+239	Knapp Ján	súr. Terézia, Anton, Matej, František, Michal, ded. po Jánovi Knappovi	0	3486,4437,5337
+239	Knapp Jozef		0	1087,1161,1247,1251,1554,3486,4434,4935,5822
+239	Knapp Matej		0	1270,1554,4934
+239	Knapp Matej	ded. po Jánovi Knappovi	0	1084
+239	Knapp Matej	ded. po Jánovi Knappovi, súr. Terézia, Anton, Ján, František, Michal	0	1335
+239	Knapp Matej	súr. Terézia, Anton, Ján, František, Michal, ded. po Jánovi Knappovi	0	3486,4437,5337
+239	Knapp Michal		0	1270,1554,4934
+239	Knapp Michal	ded. po Jánovi Knappovi	0	1084
+239	Knapp Michal	ded. po Jánovi Knappovi, súr. Terézia, Anton, Matej, Ján, František	0	1335
+239	Knapp Michal	súr. Terézia, Anton, Matej, Ján, František, ded. po Jánovi Knappovi	0	3486,4437,5337
+239	Knapp Štefan	ded.po Jozefovi Knapovi- ž.Helena r. Trubirohová	0	2955
+239	Knapp Štefan	maloletý, ded. po Jozefovi Knapovi	0	2861
+239	Knappová Alžbeta r. Hačundová	m. Anton	0	3177
+239	Knappová Jozefína	m. Jozef	0	1554
+239	Knappová Klotilda	maloletá, ded. po Jozefovi Knapovi	0	2861
+239	Knappová Klotilda	súrod. Štefan, Antonín, Anna	0	2955
+239	KNIKELOVÁ Klementína r. Kováčová		0	1554,2329,2827
+239	Knotková Zuzana r. Bolebruchová	m.Michal	0	5070
+239	Kobzíková Justína r. Štvrtecká	m. Florián	0	1094,4435
+239	Kobzíková Justína r. Štvrtecká	m.Florián	0	1505
+239	Kobzíková Justína r. Štvrtecká	manž. Florián	0	652,1091,1163,4446
+239	Kocáková Bernardína r. Mikulová, 908 85, Brodské, č. 631, SR		0	2156
+239	Kocáková Mária r. Kollárová	m. Michal, súr. Ján, Gregor, Alojzia, Terézia, Vendelín, Anna, Pavol	0	1211,1212,1338
+239	Kocáková Mária r. Kollárová	m. Michal, súr. Ján, Gregor, Alojzia, Terézia, Vendelín, Anna, Pavol, por. Mária Kollárová	0	652,4446
+239	Kocáková Mária r. Kollárová	m. Michal, súr. Ján, Juraj, Alojzia, terézia, Vendelín, Anna, Pavol	0	1086,1255,1256
+239	Kocáková Mária r. Kollárová	m.Michal, súrod. Ján, Gregor, Alojzia, Terézia, Vendelín, Anna, Pavol	0	3346
+239	Kocáková Mária r. Kollárová	manž. Michal	0	1245
+239	Kocáková Mária r. Kollárová	manž. Michal, ded. po Márii Kollárovej r. Antálkovej	0	1076,1139,4438,4905,5354
+239	Kocianová Anna r. Štvrtecká	manž. Ján	0	1091,1163
+239	Kociánová Anna r. Štvrtecká	m. Ján	0	652,1094,1185,1462,1466,4373,4435,4446,4893,5407
+239	Kociánová Anna r. Štvrtecká	m. Ján, súr. Anton, Florián, Rozália	0	1092
+239	Kociánová Anna r. Štvrtecká	m.Ján	0	1505,3087
+239	Kocich Ignác		0	1091
+239	Kocich Ignác	ded. po Justíne Kocichovej r. Jakubcovej	0	1091
+239	Kocich Ignác	ž.Štefánia r.Čulenová	0	2754
+239	Kocich Ladislav	ž.Helena r.Dujsíková	0	2754
+239	Kocich Štefan	ded. po Justíne Kocichovej r. Jakubcovej	0	1083,1088,1091,1163,2483,4433,4436,4890
+239	Kocich Štefan	manž. Mária r. Hesková, kúpa od Hedviky Bradávkovej r. Krídlovej	0	1088,2483,4433,4890
+239	Kocich Štefan	manž.Mária r.Hesková	0	3429
+239	Kocich Štefan	súr. Hedviga, Jozef, Ján, Ladislav, Mária, Ignác, ded. po Justíne Jakubcovej	0	1113
+239	Kocich Štefan	súr. Hedviga, Jozef, Ján, Ladislav, Mária, Ignác, ded. po Justíne Kocichovej	0	1089,1116
+239	Kocich Štefan	súr. Hedviga, Jozef, Ján, Ladislav, Mária, Ignác, ded. po Justíne Kocichovej r. Jakubcovej	0	1092,1095
+239	Kocich Štefan	súrod. Hedviga, Jozef, Ján, Ladislav, Mária, Ignác	0	1361
+239	Kocich Štefan	ž. Mária Hesková, kúpa od Hedvigy Bradávkovej r. Kocichovej	0	4436
+239	Kocich Štefan	ž. Mária r. Hesková	0	1163
+239	Kocich Štefan	ž. Mária r. Hesková, kúpa od Hedvigy Bradávkovej r. Kocichovej	0	1083,1089,1091,1092,1095,1113,1164
+239	Kocich Štefan	ž. Mária r. Hesková, kúpa od Hedvigy Bradávkovej r. Kochichovej	0	1116
+239	Kocich Štefan	ž.Mária r.Hésková	0	1365,2854,4365,5448
+239	Kocich Štefan	ž.Mária r.Hesková, dedené po Justíne Kocichovej r.Jakubcovej -m.František	0	3908
+239	KOCICH Štefan		0	1360,1365,2854,4466,5610
+239	Kocichová Agneša r. Palkovičová	zomr.20.4.1985, bytom DD Holíč, manž.Jozef, rod.Pavol a Filoména r.Baňovičová, súr.Imrichd	0	1088,1095,1115,1116,1554,2483,4433,4890
+239	Kocichová Justína r. Jakubcová	m. František, ded. po Anne Jakubcovej r. Stachovičovej	0	1095,4436
+239	Kocichová Justína r. Jakubcová	m. František, súr. Štefan, Anton, ded. po Anne Jakubcovej r. Stachovičovej	0	1089,1116,1164
+239	Kocichová Justína r. Jakubcová	m. František, súr. Štefan, Anton, ded. po Jánovi Jakubcovi	0	1090,1145,1255,1297,4929,4930,4932,4933
+239	Kocichová Justína r. Jakubcová	manž. František, ded. po Anne Jakubcovej r. Stachovičovej	0	1083
+239	Kocichová Justína r. Jakubcová	manžel František, ded. po Anne Jakubcovej r. Stachovičovej	0	1088,2483,4433,4890
+239	KOCICHOVÁ Justína r. Jakubcová	manž. František	0	1554
+239	Kocichová Justína r. Štvrtecká	m. Florián, súr. Anton, Anna, Rozália	0	1092
+239	Kocichová Mária	ded. po Justíne Kocichovej r. Jakubcovej	0	3429
+239	Kocichová Mária	súr. František, Terézia, Ignác	0	1092
+239	KOCICHOVÁ Mária		0	652,1621,1622,4446,4454
+239	Kocichová Mária r. Hesková	ded. po Alžbete Heskovej r. Polákovej a Anne Palkovičovej r. Baňovičovej	0	1524
+239	Kocichová Mária r. Hesková	ded. po Anne Polákovej r. Šeplicovej a Anne Palkovičovej r. Baňovičovej	0	1092
+239	Kocichová Mária r. Hesková	ded. po Anne Polákovej r. Šeplicovej, Anne Palkovičovej r. Baňovičovej	0	1163
+239	Kocichová Mária r. Hesková	ded. po Martinovi Polákovi, Anne Palkovičovej r. Baňovičovej	0	3323
+239	Kocichová Mária r. Hesková	kúpa od Hedvigy Bradávkovej r. Kochichovej	0	1164
+239	Kocichová Mária r. Hesková	m. Štefan, kúpa od Hedvigy Bradávkovej r. Kocichovej	0	1089,1095,1113,1116,4436
+239	Kocichová Mária r. Hesková	m. Štefan, kúpa od Hedvigy Bradávkovej r. Kochichovej	0	1092
+239	Kocichová Mária r. Hesková	manž. Štefan, kúpa od Hedvigy Bradávkovej r. Kocichovej	0	1091,1163
+239	Kocichová Mária r. Hesková	manž. Štefan, kúpa od Hedvigy Bradávkovej r. Kochicovej	0	1083
+239	Kocichová Mária r. Hesková	manž. Štefan, kúpa od Hedviky Bradávkovej r. Krídlovej	0	1088,2483,4433,4890
+239	Kocichová Mária r. Hesková	manž.Štefan	0	3429
+239	KOCICHOVÁ Mária r. Hesková		0	1246,1360,4466,5610
+239	Kocichová Mária r. Hésková	m.Štefan	0	1365,2854,3908,4365,5448
+239	Kocichová Rozália r. Čulenová	súr. Leopold, Ferdinand, Mária, Anna, ded. po Jánovi Čulenovi	0	1092
+239	Kočiš Ján		0	1116
+239	Kočiš Štefan		0	1116
+239	Kočišová Júlia r. Jakubcová		0	1095
+239	Kočišová Júlia r. Palkovičová		0	1095
+239	Kočišová Julianna r. Palkovičová		0	1116
+239	Kočišová Mária		0	1116
+239	Kohút Michal		0	5417
+239	Kohút Michal	maloletý	0	617,2947
+239	Kohút Michal	maloletý, súr. Kristína, Mária, Rozália	0	1116
+239	Kohútová Kristína		0	5417
+239	Kohútová Kristína	maloletá, súr. Mária, Rozália, Michal	0	1116
+239	KOHÚTOVÁ Kristína	maloletá	0	617,2947
+239	Kohútová Mária		0	5417
+239	Kohútová Mária	maloletá, súr. Kristína, Rozália, Michal	0	1116
+239	KOHÚTOVÁ Mária	maloletá	0	617,2947
+239	Kohútová Rozália	maloletá	0	617
+239	Kohútová Rozália	maloletá, súr. Kristína, Mária, Michal	0	1116
+239	KOHÚTOVÁ Rozália		0	2947,5417
+239	Kohútová Rozália r. Čulenová	súr. Leopold, Ferdinand, Mária, Anna, ded. po Jánovi Čulenovi	0	1113
+239	Kochich Štefan	súr. Hedviga, Jozef, Ján, Ladislav, Mária, Ignác, ded. po Justíne Kocichovej r. Jakubcovej	0	1164
+239	Kochichová Agneša	maloletá, ded. po Ignácovi Kocichovi	0	1247
+239	Kolišková Rozália r. Stachovičová	súr. Helena, Štefan, ded. po Jozefovi Stachovičovi	0	2240
+239	Kollár Gregor	ded. po Márii Kollárovej r. Antálkovej	0	1076,1139,4438,4905,5354
+239	Kollár Gregor	súr. Ján, Alojzia, Terézia, Vendelín, Anna, Pavol, Mária	0	1212
+239	Kollár Gregor	súr. Ján, Alojzia, Terézia, Vendelín, Anna, Pavol, Mária, ded. po Márií Kollárovej	0	652,1211,1338,4446
+239	Kollár Gregor	súrod. Ján, Alojzia, Terézia, Vendelín, Anna, Pavol, Mária	0	3346
+239	KOLLÁR Gregor		0	1245
+239	Kollár Ján	ded. po Márii Kollárovej r. Antálkovej	0	1076,1139,4438,4905,5354
+239	Kollár Ján	súr. Gregor, Alojzia, Terézia, Vendelín, Anna, Pavol, Mária	0	1212
+239	Kollár Ján	súr. Gregor, Alojzia, Terézia, Vendelín, Anna, Pavol, Mária, ded. po Márii Kollárovej	0	652,1211,1338,4446
+239	Kollár Ján	súr. Juraj, Alojzia, Terézia, Vendelín, Anna, Pavol, Mária, ded. po Márii Kollárovej	0	1086,1255,1256
+239	Kollár Ján	súrod. Gregor, Alojzia, Terézia, Vendelín, Anna, Pavol, Mária	0	3346
+239	KOLLÁR Ján		0	1245
+239	Kollár Juraj	súr. Ján, Alojzia, Terézia, Vendelín, Anna, Pavol, Mária, ded. po Márii Kollárovej	0	1086,1255,1256
+239	Kollár Pavol	ded. po Márii Kollárovej r. Antálkovej	0	1076,1139,4438,4905,5354
+239	Kollár Pavol	súr. Ján, Gregor, Alojzia, Terézia, Vendelín, Anna, Mária	0	1212,1338
+239	Kollár Pavol	súr. Ján, Gregor, Alojzia, Terézia, Vendelín, Anna, Mária, ded. po Márii Kollárovej	0	1211
+239	Kollár Pavol	súr. Ján, Gregor, Alojzia, Terézia, Vendelín, Anna, Pavol, Mária, por. Mária Kollárová	0	652,4446
+239	Kollár Pavol	súr. Ján, Juraj, Alojzia, Terézia, Vendelín, Anna, Mária, ded. po Márii Kollárovej	0	1086,1255,1256
+239	Kollár Pavol	súrod. Ján, Gregor, Alojzia, Terézia, Vendelín, Anna, Mária	0	3346
+239	KOLLÁR Pavol		0	1245
+239	Kollár Vendelín	ded. po Márii Kollárovej r. Antálkovej	0	1076,1139,4438,4905,5354
+239	Kollár Vendelín	súr. Ján, Gregor, Alojzia, Terézia, Anna, Pavol, Mária	0	1212,1338
+239	Kollár Vendelín	súr. Ján, Gregor, Alojzia, Terézia, Anna, Pavol, Mária, ded. po Márií Kollárovej	0	652,1211,4446
+239	Kollár Vendelín	súr. Ján, Juraj, Alojzia, Terézia, Anna, Pavol, Mária	0	1086
+239	Kollár Vendelín	súr. Ján, Juraj, Alojzia, Terézia, Anna, Pavol, Mária, ded. po Márii Kollárovej	0	1255,1256
+239	Kollár Vendelín	súrod. Ján, Gregor, Alojzia, Terézia, Anna, Pavol, Mária	0	3346
+239	KOLLÁR Vendelín		0	1245
+239	Kollárová Anna r. Komorníková	manž. Andrej	0	3401
+239	Kollárová Mária	maloletá	0	1554
+239	Kollárová Mária r. Burská	súr. Alžbeta, Helena	0	1256
+239	KOLLÁROVÁ Mária r. Burská		0	1554
+239	Kollárová Žofia		0	1554
+239	Komorná Helena r. Jakubcová		0	1091,1163
+239	Komorná Helena r. Jakubcová	súr. Matej, Anna, Martin, Michal, Ján	0	1092
+239	Komorná Karolína r. Stupavská	ded. po Alžbete Šedivej r. Stupavskej	0	1113
+239	Komorná Karolína r. Šedivá		0	4823
+239	Komorná Karolína r. Šedivá	m. Ján	0	1113
+239	Komorná Karolína r. Šedivá	m.Ján	0	4823
+239	Komorná Štefánia r. Komorníková	ded. po Jozefovi Komorníkovi	0	3401
+239	Komorníková Anna r. Jakubcová		0	2758
+239	Komorníková Anna r. Jakubcová	súr. Terézia, Ignác, Ján, ded. po Terézii Jakubcovej r. Štvrteckej -m. Martin	0	3779,5431
+239	Komorníková Helena r. Bilková		0	1139,1249
+239	KOMORNÍKOVÁ Marta r. Masárová		0	3287
+239	Komorný Ján	ž.Karolína r.Šedivá	0	4823
+239	Komorný Jozef	ded. po Jozefovi Komorníkovi	0	3401
+239	Komorný Konštantín		0	4823
+239	Komorný Konštantín	ded. po Márii Komornej r. Šedivej	0	1113
+239	Konečná Mária r. Burská	m. Ján	0	652,1087,4434,4446,4935,5822
+239	Konečná Mária r. Burská	manž. Ján	0	1254
+239	Konštantín Jakubec	maloletý, súr. Imrich, Antonín, Ján, ded. po Zuzane Jakubcovej r. Gulíškovej	0	1256
+239	Korintová Rozália r. Čulenová	ded. po Jánovi Čulenovi	0	1088,1163,2483,4433,4890
+239	Korintová Rozália r. Čulenová	súr. Leopold, Ferdinand, Mária, Anna, ded. po Jánovi Čulenovi	0	1083,1089,1094,1095,1388,2586,4435,4625
+239	Korintová Rozália r. Čulenová	súr. Leopold, Ferdinand, Mária, Anna, ded. po Jánovi Čulenovi - ž. Mária r. Burská	0	4436
+239	Korintová Rozália r. Čulenová	súr. Leopold, Ferdinand, Mária, Anna, ded. po Jánovi Čulenovi r. Mária r. Burská	0	2513
+239	Korintová Rozália r. Čulenová	súr. Leopold, Ferdinand, Mária, Anna, ded. po Jánovi Dujsíkovi	0	1116,1164
+239	KORINTOVÁ Rozália r. Čulenová		0	1554
+239	Kostková Agneša r. Hnátová	rod. Ignác a Štefánia Hnátová, súr. Jozef	0	1087,1088,1095,1116,1142,1183,1247,1251,1554,2345,2483,4433,4434,4626,4890,4935,5822
+239	Kotvan Alojz	ž.Aurélia r.Horvátová	0	5107
+239	Kovácsová Mária		0	1346
+239	Kováč Ambroz	záp.r.1885	0	2341
+239	Kováč Ambróz		0	1374,2767
+239	Kováč Anton		0	1106,5806
+239	Kováč Anton	manž.Agneša r.Rolandová	0	108
+239	Kováč Anton	ž. Agneša r. Rolendová, súr. Mária, Vendelín, Anna, Štefan, Barbora	0	5188
+239	KOVÁČ Anton	R20.1.1897	0	5492
+239	Kováč Antonín	č.d.310	0	1548
+239	Kováč Antonín	ded. po Žofii Kováčovej r. Stachovičovej, súr. Ján, Anna, Rozália	0	1076,1091,1139,1163,2090,2101,2374,4438,4886,4905,5354
+239	Kováč Antonín	manž. Agneša r. Rolendová	0	3149
+239	Kováč Antonín	R 20.1.1897, súrod. Ján, Anna, Rozália, ded.po Žofii Kováčovej r. Stachovičovej- m.Martin	0	328
+239	Kováč Antonín	súr. Ján, Anna, Rozália, ded. po Žofii Kováčovej r. Stachovičovej	0	652,1140,1141,1248,2375,3735,3736,3737,3784,4077,4387,4444,4446,5764
+239	Kováč Antonín	súr. Ján, Anna, Rozália, ded. po Žofii Stachovičovej	0	1090,4929,4930
+239	Kováč Antonín	súr. Ján, Anna, Rozália, ded. po Žofii Stachovičovej r. Kováčovej	0	1086,1093,1095,1142,1143,4931

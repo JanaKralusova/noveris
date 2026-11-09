@@ -1,0 +1,256 @@
+201	JANOŠO Ján	manž.Zuzana r.Babinčaková	1	837,1363
+201	Janošo Michal	ž. Zuzana r. Korišková	1	772
+201	JANOŠO Michal	manž.Barbora r.Fajnerová	1	837
+201	JANOŠO Michal	manž.Helena r.Parikrupová	1	168,1205
+201	JANOŠO Ondrej		1	741
+201	Janošov Andrej	ž. Zuzana r. Tomášová	1	772
+201	JANOŠOV Andrej	manž.Zuzana r.Tomášová	1	837
+201	JANOŠOV Ján		1	837,1365
+201	JANOŠOV Ján	manž.Anna r.Adamová	1	1407
+201	JANOŠOV Ján	manž.Zuzana r.Harčarová	1	1080
+201	Janošov Michal		0	897,1525
+201	Janošov Michal	ž. Zuzana r. Tatarová	1	772
+201	JANOŠOV Michal	1	1	425
+201	JANOŠOV Michal	manž.Zuzana r.Tatarová	1	1357
+201	JANOŠOV Ondrej		1	739
+201	JANOŠOVÁ Anna	r.Adamová	1	892,1407
+201	JANOŠOVÁ Anna	r.Dzemáková	1	425
+201	JANOŠOVÁ Anna	r.Hujdičová	1	837
+201	Janošová Anna r. Adamová		1	143,163,984,1081
+201	Janošová Anna r. Hrabovská		1	143,163,984,1081
+201	Janošová Anna r. Hujdičová		1	772
+201	JANOŠOVÁ Barbora	r.Fajnerová	1	837
+201	JANOŠOVÁ Zuzana	r.Babinčaková	1	837,1363
+201	JANOŠOVÁ Zuzana	r.Tatárová	1	1357
+201	JANOŠOVÁ Zuzana	r.Tomášová	1	837
+201	Janošová Zuzana r. Babinčaková		1	143,163,772,984,1081
+201	Janošová Zuzana r. Korišková		1	772
+201	Janošová Zuzana r. Tatárová		1	772
+201	Janošová Zuzana r. Tomášová		1	772
+201	Janošová Zuzana r.Babinčaková		0	272
+201	JANUSKO Ján	slob	1	1314,1368
+201	Jenčo Andrej	ž. Anna r. Lakatošová	1	143,163,984,1081
+201	Jenčo Andrej	ž. Zuzana r. Hrešková	1	772,1040
+201	JENČO Andrej	manž.Zuzana r. Pavlová	1	1217
+201	JENČO Andrej	manž.Zuzana r.Lakatošová	1	1199
+201	Jenčo Ján		1	143,163,984,1081
+201	JENČO Ján	manž.Mária r.Janošová	1	837
+201	Jenčo Juraj r. Jenčo	syn Michala	1	473
+201	Jenčo Michal	ž. Zuzana r. Adamová	1	143,163,984,1081
+201	Jenčo Michal	ž. Zuzana r. Jenčová	1	473
+201	JENČO Michal	manž.Zuzana r.Adamová	1	892
+201	Jenčo Pavel	ž. Anna r. Jenčová	1	772
+201	Jenčo Pavol r. Jenčo	syn Michala	1	473
+201	Jenčo-Adrejová Anna	vdova	1	1378
+201	Jenčová Alžbeta r. Jenčová	dcéra Michala	1	473
+201	JENČOVÁ Anna	r.Gajdošová vd	1	892
+201	Jenčová Anna r. Jenčová		1	772
+201	JENČOVÁ Mária	r.Janošová	1	837
+201	JENČOVÁ Zuzana	r.Adamová	1	892
+201	JENČOVÁ Zuzana	r.Jenčová dcéra Juraja; ; dcéra Juraja	1	1044,1350
+201	JENČOVÁ Zuzana	r.Pavlová	1	1217
+201	Jenčová Zuzana r. Hrešková		1	772,1006,1007,1040
+201	Jenčová Zuzana r. Jenčová	dcéra Juraja	1	53,143,163,984,1081
+201	JUŽIF Andrej	manž.Mária	1	1366
+201	JUŽIFOVÁ Mária		1	1366
+201	KISTEROVÁ Anna	r.Mihaľová	1	93,387
+201	KISTEROVÁ Anna r. Mihaľová		1	91,92
+201	Kižík Ján	ž. Anna r. Varkondyová	1	772
+201	KIŽÍK Ján		1	105
+201	KIŽÍK Ján	manž.Anna r.Kižíková	1	837
+201	KIŽÍK Ján	manž.Anna r.Varkondyová	1	1369
+201	KIŽIK Michal	manž.Anna r.Koščová	1	1201
+201	KIŽÍK Michal		1	1047,1346
+201	KIŽIK Pavel		1	892
+201	KIŽÍKOVÁ Anna	r.Kižíková	1	837
+201	KIŽÍKOVÁ Anna	r.Varkondyová	1	105,1369
+201	Kižíková Anna r. Varkondyová		1	772
+201	KOBOVÁ Anna	r.Ondová	1	372
+201	KOČIŠOVÁ Anna	r.Mihaľová	1	169,958,1147,1148,1547
+201	KOČIŠOVÁ Anna r. Mihaľová		1	92
+201	Kokošová Anna r. Jenčová		1	473
+201	KOLESÁR Andrej	manž.Anna r.Tkáčová	1	1268
+201	KOLESÁROVÁ Anna	r.Tkáčová	1	1268
+201	KOMAR Juraj	manž.Mária r.Malá	1	1266
+201	KOMÁR Juraj	manž.Alžbeta r.Vasilková	1	1267
+201	KOMÁROVÁ Alžbeta	r.Vasilková	1	1267
+201	KOMAROVÁ Mária	r.Malá	1	1266
+201	KOPASOVÁ Mária		1	1171
+201	KOSTREJ Andrej	manž.Anna r.Malá	1	1224
+201	KOSTREJ Juraj	manž.Anna r. Bilasová	1	1328
+201	KOSTREJ Juraj	manž.Mária r.Ochraňová	1	1272
+201	KOSTREJOVÁ Anna	r. Bilasová	1	1328
+201	KOSTREJOVÁ Anna	r.Malá	1	1224
+201	KOSTREJOVÁ Mária	r.Ochraňová	1	1272
+201	Kováč Pavol		0	694
+201	Kráľová - Eštoková Mária r. Lakatošová		1	143,163,984,1081
+201	KRIŠTOFČIKOVÁ Zuzana	r.Bocanová	1	106,107,108,1167,1551
+201	Krištofčiková Zuzana r. Bocanová		1	143,163,984,1081,1493
+201	Krivá Anna r. Janošová		1	143,163,984,1081
+201	KRIVÝ Andrej	ž.Alžbeta r.Jenčíková	1	1204
+201	KRIVÝ Ján	ž.Zuzana r.Borková	1	1177,1204
+201	LAKATOŠ Gregor		1	828
+201	Lakatoš Ján		1	143,163,984,1081
+201	LAKATOŠ Ján	2	1	741
+201	LAKATOŠ Ján	manž.Anna r.Bačaková	1	892
+201	Lakatoš Michal		1	143,163,839,840,961,984,1081
+201	LAKATOŠ Michal	manž.Helena r.Dubrovčaková	1	892
+201	Lakatoš Pavol	ž. Anna r. Janošová	1	772
+201	LAKATOŠOVÁ Anna	r.Bačaková	1	892
+201	Lakatošová Anna r. Janošová		1	772
+201	LAKATOŠOVÁ Helena	r.Dubrovčaková	1	892
+201	Lešňanská Zuzana r. Janošová		1	772,1040
+201	Lešňanský Juraj	ž. Zuzana r. Janošová	1	772,1040
+201	ĽOCH Michal	manž.Anna r.Matiová	1	1264
+201	ĽOCHOVÁ Anna	r.Matiová	1	1264
+201	Lukač Ján	ž. Anna r. Kižíková	1	132,143,163,772,984,1081,1507
+201	LUKAČ Ján	manž.Anna r.Kižíková	1	1376
+201	LUKÁČ Ján	manž.Mária r.Kižiková	1	1085
+201	LUKAČ Michal	manž.Alžbeta r.Hreščová	1	1045
+201	LUKAČ Michal	manž.Mária r.Vaľovská	1	1382
+201	Lukáč Michal	slobodný	1	143,163,984,1081
+201	LUKÁČ Michal	manž.Zuzana r.Lakatošová	1	1209
+201	LUKÁČ Michal	slob	1	1427
+201	Lukač Pavol	ml., ž. Anna r. Kočišková	1	132,143,163,772,984,1081,1507
+201	LUKAČ Pavol	ml. manž.Anna r.Kočišková	1	837,890,1208
+201	Lukačová Anna		1	143,163,907,984,1081
+201	LUKAČOVÁ Anna	r.Kižiková	1	1376
+201	Lukačová Anna r. Kižiková		1	143,163,772,984,1081
+201	Lukačová Anna r. Kočišová		1	772
+201	LUKÁČOVÁ Mária	r.Bodnárová	1	315
+201	Magura Andrej	ž. Anna r. Hrabovská	1	772
+201	Magura Ján	ž. Anna r. Lukačová	1	772
+201	Magura Ján	ž. Barbora r. Tomášová	1	772
+201	Magurová Anna r. Hrabovská		1	772
+201	Magurová Anna r. Lukáčová		1	772
+201	MALÝ Juraj	13.5.1896	1	1238
+201	MARCINOVÁ Barbora	r.Borková	1	1191
+201	Marga Ján	ž. Barbora r. Tomášová	1	143,163,984,1081
+201	Margová Mária r. Jenčová		1	1007
+201	MATTOVÁ Mária	r.Janošová	1	1394
+201	MIHAĽ Ján		1	91,93,387
+201	MIHAĽ Michal		1	91,93,387
+201	MIHAĽO Andrej	manž.Julia r.Nadzamová	1	1387
+201	MIHAĽO Andrej	manž.Mária r.Salontaiová	1	1369
+201	MIHAĽO Michal		1	92
+201	MIHAĽOV Anton		1	1398
+201	MIHAĽOVÁ Anna		1	387,1398
+201	MIHAĽOVÁ Julia	r.Nadzamová	1	1387
+201	MIHAĽOVÁ Mária	r.Salontaiová	1	1369
+201	Mihaľová Mária r. Salontaiová		1	132,143,163,984,1081,1507
+201	MICHALO Jozef	manž.Alžbeta r.Rochová	1	837
+201	MICHALO Juraj	manž.Zuzana r.Jozefová	1	837
+201	Michalov Andrej		1	143,163,984,1081,1215
+201	MICHALOV Andrej	manž.Zuzana r.Šamudovská	1	173,347
+201	MICHAĽOV Antonín	mal	1	97
+201	MICHAĽOV Ján	syn Michala	1	179
+201	MICHALOV Pavol	ž.Mária r.Paľová	1	598,599
+201	MICHALOVÁ Alžbeta	r.Rochová	1	837
+201	MICHALOVÁ Zuzana	r.Jozefová	1	837
+201	MILENKYOVÁ Helena	r.Tatárová	1	1391
+201	MOLNÁR Alexander	manž.Anna r.Lešňanská	1	1405
+201	MOLNÁR Ladislav	manž.Anna r.Štofová	1	1412
+201	MOLNÁROVÁ Anna	r.Štofová	1	1412
+201	MOLNÁROVÁ Mária	r.Horváthová vd.po Ludovítovi; ; vd.po Ludovítovi	1	1227
+201	MRÁZOVÁ Zuzana	r.Lakatošová	1	741
+201	Mrážik Ján		1	143,163,892,984,1081
+201	MRÁŽIK Ján	manž.Zuzana r.Adamová	1	419
+201	Mrážik Pavol		1	143,163,984,1081
+201	Ondo - Eštok Juraj	ž. Mária r. Dociová	0	242
+201	Ondo - Eštok Michal	ž. Anna r. Ondo Eštoková	1	143,163,984
+201	Ondo - Eštok Michal r. Ondo - Eštok	ž. Anna r. Ondo Eštoková	1	1081
+201	Ondo - Eštoková Anna r. Hrabovská		1	143,163,984,1081
+201	Ondo - Eštoková Anna r. Hrešková		1	132,1507
+201	Ondo - Eštoková Mária		1	132,1507
+201	Ondo - Eštoková Zuzana r. Hrabovská		1	132,1507
+201	Ondo Andrej	ž. Anna r. Pavlová	1	143,163,984,1081
+201	ONDO Andrej		1	1214
+201	ONDO Andrej	manž.Anna r.Pavlová	1	1172,1348
+201	Ondo Eštok Michal r. Ondo Eštok	syn Jána	1	132,1507
+201	Ondo Ján	ž. Mária r. Hrešková	1	772
+201	ONDO Ján	manž.Mária r.Hrešková	1	837
+201	ONDO Michal	manž.Zuzana r.Peštová	1	892
+201	Ondo Ondrej		0	81
+201	ONDO Pavel	manž.Anna r.Michalková	1	892
+201	Ondo Pavol	ž. Zuzana r. Ondomišiová	1	772
+201	ONDO Pavol	manž.Zuzana r.Ondomišiová	1	837,1379
+201	Ondo-Eštok Andrej		1	53,290,1044,1529
+201	ONDO-EŠTOK Andrej	syn Jána	1	632,1044
+201	ONDO-Eštok Andrej r. ONDO-Eštok		1	1142,1143,1188,1419
+201	ONDO-EŠTOK Ján		1	227,1044,1142
+201	ONDO-EŠTOK Ján	manž.Anna r.Dorová	1	1044
+201	ONDO-EŠTOK Ján	manž.Anna r.Tatárová	1	632,1044
+201	ONDO-Eštok Ján r. ONDO-Eštok		1	1143
+201	Ondo-Eštok Juraj	ž. Mária r. Janošová	1	53
+201	ONDO-EŠTOK Juraj	manž.Mária r.Janošová	1	425,1044
+201	ONDO-EŠTOK Juraj	ž.Zuzana r. Hrabovská	1	632
+201	ONDO-EŠTOK Juraj r. ONDO-EŠTOK		1	1430
+201	Ondo-Eštok Michal		1	1044
+201	Ondo-Eštok Michal	ž. Anna r. Ondo Eštoková	1	772
+201	ONDO-EŠTOK Michal	manž.Anna r.Adamová	1	1223
+201	ONDO-EŠTOK Michal	manž.Anna r.Ondo-Eštoková	1	632,892
+201	ONDO-EŠTOK Michal	syn Jána	1	1374
+201	ONDO-Eštok Michal r. ONDO		1	1142
+201	Ondo-Eštok Michal r. Ondo-Eštok		1	1044,1142,1143,1213,1418
+201	Ondo-Eštoková Alžbeta		1	1127,1556
+201	Ondo-Eštoková Anna r. Adamová		1	53,632,1044,1142,1143,1223,1430
+201	Ondo-Eštoková Anna r. Harmanová		1	1419
+201	Ondo-Eštoková Anna r. Ondo Eštoková		1	772
+201	Ondo-Eštoková Anna r. Ondo-Eštoková		1	892
+201	Ondo-Eštoková Anna r. Tatárová		1	428
+201	Ondo-Eštoková Mária		1	1044,1127,1556
+201	Ondo-Eštoková Mária r. Janošová		1	425
+201	Ondo-Eštoková Mária r. Moskaľová		1	229,230
+201	Ondo-Eštoková Zuzana r. Hrabovská		1	1029
+201	Ondo-Eštoková Zuzana r. Ondová		1	372
+201	ONDOMIŠI Andrej		1	121,122,302,616,1212,1482,1485
+201	ONDOMIŠI Andrej	1	1	563,1180
+201	ONDOMIŠI Ján	a	1	425,616
+201	ONDOMIŠÍ Ján	manž.Helena r.Ondomišiová	1	892,1387
+201	ONDOMIŠI Michal		1	1389
+201	ONDOMIŠIOVÁ Anna	dcéra Jána	1	562
+201	ONDOMIŠIOVÁ Anna	r.Hrabovská	1	562
+201	ONDOMIŠIOVÁ Helena	r.Ondomišiová	1	892,1387
+201	ONDOMIŠIOVÁ Zuzana	r.Marjová	1	723
+201	Ondomišiová Zuzana r. Dociová		0	730
+201	Ondomišiová Zuzana r. Marjová		1	143,163,984,1081
+201	Ondová Anna	maloletá	1	143,163,772,892,984,1081
+201	ONDOVÁ Anna	r.Michalková	1	892
+201	ONDOVÁ Anna	r.Pavlová	1	1172,1214,1348
+201	Ondová Anna r. Michalková		1	143,163,984,1081
+201	Ondová Anna r. Pavlová		1	81,143,163,984,1081
+201	ONDOVÁ Mária	r.Hrešková	1	837
+201	Ondová Mária r. Ďurovčíková		1	143,163,984,1081
+201	Ondová Mária r. Hrešková		1	772
+201	ONDOVÁ Zuzana		1	1379
+201	ONDOVÁ Zuzana	r.Ondomišiová	1	616,837,1212
+201	ONDOVÁ Zuzana	r.Peštová	1	892,1214,1348
+201	Ondová Zuzana r. Ondomišiová		1	772
+201	PETRIČKOVÁ Mária	r.Bocanová	1	1167
+201	PLUTKO Michal	manž.Anna r.Karičková	1	1247
+201	PLUTKOVÁ Anna	r.Karičková	1	1247
+201	Polakovská Anna		1	772,837
+201	POLAKOVSKÝ Mikulaš	manž.Anna	1	837
+201	Pollaková Mária r. Škarupová		1	143,163,984,1081
+201	PRIBULOVÁ Anna	r.Šipošová 4.3.1929; ; 4.3.1929	1	368
+201	PUĽKO Ján	slob	1	1249
+201	PUĽKO Jozef	manž.Barbora	1	1248
+201	PUĽKO Juraj	manž.Mária r.Michalková	1	1250
+201	PUĽKOVÁ Barbora	manž.Jozef	1	1248
+201	PUĽKOVÁ Mária	r.Michalková	1	1250
+201	REJBOVÁ Anna	r.Eštoková	1	105,1124,1459
+201	Ropovik Michal		1	143,163,984,1081,1218,1433
+201	Ropoviková Helena		1	143,163,984,1081,1218,1433
+201	Ropoviková Mária r. Dubravčaková		1	143,163,984,1081
+201	SLOBODA Michal	manž.Anna r.Humenská	1	892,1353
+201	SLOBODA Michal	slob	1	1262
+201	SLOBODOVÁ Anna	r.Humenská	1	892,1353
+201	STRIČIKOVÁ Anna	r.Borková	1	1182
+201	Súčová Anna r. Ondová		1	143,163,984,1081
+201	Šípoš Ján	ž. Alžbeta r. Lukačová	1	772
+201	ŠÍPOŠ Ján	manž.Alžbeta r.Šípošová	1	837
+201	ŠÍPOŠ Ján	slob	1	1313
+201	ŠIPOŠ Pavol		1	1371
+201	ŠIPOŠ Pavol	manž.Zuzana r.Gombarová	1	425
+201	ŠIPOŠ Pavol	slob	1	1333
+201	ŠIPOŠOVÁ Alžbeta	r.Lukačová	1	368

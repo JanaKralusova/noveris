@@ -1,0 +1,256 @@
+731	TVRDOŇ Jozef	ž.Šimková Mária	1	1669,1809
+731	VLČEK Michal	ž.Vlčková Anna	1	1712,1825,1830
+731	VLČKOVÁ Anna	rod.Vlčková	1	1732,1752,1825,1830
+731	VLČKOVÁ Mária	r.Kaššová	1	1472,1783,1825
+731	VLČKOVÁ Zuzana	r.Kvasnicová	1	1538
+731	VRBOVSKÁ Zuzana	r. Meravá, Hanzlíková č.55	1	1511
+731	ZAJACOVÁ Katarína	rod.Kvasnicová	1	1785
+731	ZELENÁK Štefan	slobodný	1	1692
+731	ZEMANOVIČ Ondrej	ž.Macharová Mária	1	1822,1824
+731	ZEMANOVIČOVÁ Antónia	rod.Kopúnová	1	1821,1824,1825,1826
+731	ZEMANOVIČOVÁ Mária	rod.Macharová	1	1822,1824
+731	ZHÁŇAČ Michal	ž.Kňazovčíková Mária	1	1631,1739
+731	ZHÁŇAČ Ondrej	ž.Žuchová Agneša	1	1631,1739
+731	ZHÁŇAČ Štefan	ž.Kobzíková Anna	1	1631,1739
+731	ZHÁŇAČOVÁ Katarína	slobodná	1	1631,1739
+731	ZHÁŇAČOVÁ Kristína	rod.Reháková, zomrela	1	1631,1739
+731	ZHÁŇAČOVÁ Zuzana	rod.Forgáčová, zomrela	1	1631,1739
+731	ZLATOVSKÝ Bývalý	urbariát	1	1810,1812,2199
+732	BAČA Jozef r. BAČA		0	187,188
+732	BAČA Martin r. BAČA		0	187,188
+732	BAČA Martin r. BAČA Mária r. Štefančíková		0	187
+732	BAČA Štefan r. BAČA		0	188
+732	BAČA Štefan r. BAČA ž. Mária r. Záhradníková		0	187
+732	BAČOVÁ Alžbeta r. Bačová		0	187,188
+732	BAČOVÁ Mária r. Štefančíková		0	187,188
+732	BAČOVÁ Mária r. Zahradníková		0	187,188
+732	BOBOVÁ Mária r. Dzuríková		0	136
+732	BRINDZA Ján r. BRINDZA		0	187,188
+732	BUTVIN Ján r. BUTVIN		0	121,128,133,182,219,220,228,238,239
+732	BUTVIN Juraj r. BUTVIN		0	121,133,135,182,219,220,228,238,239
+732	BUTVIN Martin r. BUTVIN		0	133,228,239
+732	BUTVINOVÁ Alžbeta		0	182
+732	BUTVINOVÁ Anna		0	182
+732	BUTVINOVÁ Júlia		0	182
+732	BUTVINOVÁ Mária		0	121,128,133,182,219,220,228,238,239
+732	CMOREJ Pavol r. CMOREJ		0	161
+732	DOROCÁKOVÁ Mária r. Hudáková		0	140
+732	DRUSA Ján r. DRUSA		0	187,188
+732	DRUSA Pavol r. DRUSA		0	187,188
+732	DZURÍK Ján		0	136
+732	FERKO Ján r. FERKO		0	187,188
+732	FILIPOVÁ Mária r. Tejbusová, SR		0	186
+732	FORGÁČ Ján r. FORGÁČ		0	188
+732	FORGÁČ Ján r. FORGÁČ ž. Juliana r. Kočišová		0	187
+732	FORGÁČ Pavol r. FORGÁČ		0	187,188
+732	FORGÁČ Štefan r. FORGÁČ		0	140
+732	FORGÁČOVÁ Alžbeta r. Bačová		0	187,188
+732	FORGÁČOVÁ Juliana r. Kočišová		0	187
+732	FORGÁČOVÁ Mária r. Slebodníková		0	188
+732	FORGÁČOVÁ Mária r. Slobodníková		0	187
+732	GADUŠOVÁ Mária		0	186
+732	IĽAŠ Štefan		0	186
+732	IĽAŠ Štefan r. IĽAŠ		0	188
+732	IĽAŠ Štefan r. IĽAŠ ž. Anna r. Miková		0	187
+732	JENÍKOVÁ Mária r. Mernelíková		0	136
+732	JEVOŠ Michal r. JEVOŠ		0	187,188
+732	JURÍK Juraj r. JURÍK		0	136
+732	KAĽAVSKÁ Mária r. Lentovská		0	183
+732	KAĽAVSKÁ Mária r. Maurerová		0	187
+732	KAĽAVSKÝ Valent r. KAĽAVSKÝ ž. Mária r.Maurerová		0	187
+732	KOČIŠ Stanislav r. KOČIŠ, SR		0	188
+732	KOZLÍK Ján r. KOZLÍK ž. Mária r. Ferková		0	187
+732	KOZLÍK Pavol r. KOZLÍK		0	187,188
+732	KOZLÍKOVÁ Alžbeta r. Ferková		0	187,188
+732	KOZLÍKOVÁ Alžbeta r. Muchová		0	188
+732	KOZLÍKOVÁ Mária r. Ferková		0	187,188
+732	KOZLÍKOVÁ Mária r. Škotková		0	187,188
+732	KRESŤANKO Michal r. KRESŤANKO		0	165
+732	KRIGOVSKÁ Alžbeta		0	176,183
+732	KRIGOVSKÁ Ľudmila		0	183
+732	ĽACH Adolf r. ĽACH		0	175,178,179
+732	ĽACH František r. ĽACH		0	176
+732	LENTOVSKÝ Ján r. LENTOVSKÝ		0	176
+732	LESKOVSKÁ Alžbeta		0	187
+732	LESKOVSKÁ Alžbeta r. Jevošová		0	188
+732	LESKOVSKÁ Anna		0	187
+732	LESKOVSKÁ Júlia		0	187
+732	LESKOVSKÝ Michal r. LESKOVSKÝ		0	187,188
+732	LESKOVSKÝ Michal r. LESKOVSKÝ ž. Anna r. Štefančíková		0	187
+732	LESKOVSKÝ Pavol r. LESKOVSKÝ		0	188
+732	LESKOVSKÝ Štefan r. LESKOVSKÝ		0	187,188
+732	LUTHER Ján r. LUTHER		0	140
+732	LUTTEROVÁ Mária r. Jablonovská		0	165
+732	MALIŇÁK Andrej r. MALIŇÁK		0	187
+732	MALIŇÁK Ondrej r. MALIŇÁK		0	187,188
+732	MATZ Štefan r. MATZ		0	186
+732	MATZ Štefan r. MATZ ž. Helena r. Zapalová		0	187
+732	MIHALÍK Ján r. MIHALÍK		0	176
+732	MICHALIK JAROSLAV r. MICHALIK		1	189,190
+732	MICHALOV Ján r. MICHALOV		0	187,188
+732	MICHALOV Štefan r. MICHALOV		0	187
+732	MIKA Ján r. MIKA		0	188
+732	MUCHA Ján r. MUCHA		0	187,188
+732	MUCHA Ján r. MUCHA ž. Alžbeta r. Štofančíková		0	187,188
+732	MUCHA Pavol r. MUCHA		0	188
+732	MUCHA Pavol r. MUCHA ž. Anna r. Kopčáková		0	187
+732	MUCHOVÁ Alžbeta r. Štofančíková		0	187,188
+732	MUCHOVÁ Anna r. Kopčáková		0	187,188
+732	MULÍK Jozef r. MULÍK		0	188
+732	MULÍK Jozef r. MULÍK ž. Anna r. Fabianová		0	187
+732	MULÍKOVÁ Anna r. Fabianová		0	187,188
+732	NOVÁK Ján r. NOVÁK		0	186
+732	NOVÁK Ján r. NOVÁK ž. Mária r. Hvizdošová		0	187
+732	NOVÁK Ondrej r. NOVÁK		0	187
+732	PALOČKO Ján r. PALOČKO		0	187,188
+732	PALOČKO Ján r. PALOČKO ž. Anna r.Leskovská		0	187
+732	PALOČKOVÁ Anna r. Leskovská		0	187,188
+732	PASTIRAN Martin r. PASTIRAN ž. Helena r. Škotková		0	187
+732	PASTIRANOVÁ Helena r. Škotková		0	187
+732	PASTYRANOVÁ Helena r. Škotková		0	187
+732	PETRUŠKA Ján r. PETRUŠKA		0	168
+732	PETRUŠKA Michal r. PETRUŠKA		0	173,244
+732	PISKURA Štefan r. PISKURA		0	187
+732	POLOMSKÁ Anna r. Škotková		0	187
+732	POLOMSKÝ František r. POLOMSKÝ		0	187,188
+732	POLOMSKÝ František r. POLOMSKÝ ž. Anna r.Škotková		0	187
+732	POLOMSKÝ Ondrej r. POLOMSKÝ, SR		0	188
+732	RAŠŠOVÁ Helena r. Blumová		0	150
+732	RUMANOVÁ Žofia		0	187,188
+732	RUMANOVÁ Žofia r. Luterová		0	187,188
+732	SIVÁK Ján r. SIVÁK		0	187,188
+732	SOPKO Pavol r. SOPKO		0	188
+732	SOPKO Pavol r. SOPKO ž. Mária r. Bačová		0	187
+732	SOPKOVÁ Mária r. Bačová		0	187,188
+732	STAŇO Ján r. STAŇO		0	187,188
+732	STAŇOVÁ Mária r. Sopková		0	187,188
+732	STRAKOVÁ Zuzana r. Ďugasová		0	188
+732	ŠKOTKO Štefan r. ŠKOTKO		0	187,188
+732	ŠKOTKO Štefan r. Škotko, SR		0	187,188
+732	ŠKOTKOVÁ Katarína r. Zavadská		0	187
+732	ŠTOFKO Bartolomej r. ŠTOFKO		0	188
+732	ŠTOFKO Ján r. ŠTOFKO		0	187,188
+732	ŠTOFKO Pavol r. ŠTOFKO		0	187,188
+732	ŠTOFKOVÁ Mária r. Forgáčová		0	187,188
+732	TONDRA Ján r. TONDRA		0	188
+732	TONDROVÁ Alžbeta r. Paločková		0	188
+732	Vaľková Alžbeta r. Juríková		0	140
+732	WEISZ Eugen r. WEISZ, Dr.		0	151
+732	ZÁHRADNÍK Michal r. ZÁHRADNÍK		0	188
+732	ZÁHRADNÍK Michal r. ZÁHRADNÍK ž. Alžbeta r. Škotková		0	187
+732	ZÁHRADNÍKOVÁ Alžbeta r. Škotková		0	187,188
+732	ZAPALA Ján r. ZAPALA		0	186
+732	ZAPALA Jozef r. ZAPALA		0	187
+732	ZAVACKÝ Ján r. ZAVACKÝ		0	187,188
+732	ZAVADSKÝ Ján r. ZAVADSKÝ		0	187,188
+733	Antolik Adam r. Antolik		0	383
+733	ANTOLIK ANDREJ		0	114,170,376,383
+733	Antolík Ján		0	376,383
+733	ARTHUR KAROL		0	214
+733	Baňasová Mária r. Švecová		0	383
+733	BARUCHOV BERNAT		0	169
+733	BARUNOVÁ REGINA		0	169
+733	BEDNAR ANDREJ		0	108,109,236
+733	BEDNÁROVÁ ZUZANA r. LAKATOVÁ		0	32
+733	Blaňariková Anna r. Gdovin - Kijak		0	383
+733	BLAŇARIKOVÁ ANNA r. GDOVIN-KIJAKOVÁ		0	171
+733	Červeňák Andrej	ž. r. Chomová	0	383
+733	Červeňák Juraj		0	383
+733	DIKY PETER	ž.Mária Bednárová	0	108
+733	DVORSKÁ HELENA r. KAŇCEKOVÁ		0	78
+733	Dvorská Zuzana r. Vargová		0	383
+733	EŠTVANIKOVÁ MÁRIA		0	227
+733	EŠTVANIKOVÁ MÁRIA r. MINDŽÁROVÁ		0	227
+733	Frankel Filip		0	349,384
+733	FUCHS LEOPOLD		0	214
+733	Gašparik Ján		0	383
+733	Gdovin Andrej		0	383
+733	Gdovin Ján	ž. Anna Paľušeková	0	375
+733	GDOVIN JÁN	syn Juraja	0	201
+733	GDOVIN KIJAK ANDREJ		0	171
+733	Goč - Červeňák Andrej		0	383
+733	GOČ JÁN		0	81,383,400
+733	Gregová Anna r. Černeňáková		0	383
+733	GREGOVÁ ANNA r. MAJEROVÁ		0	233
+733	Greško Adam		0	384
+733	Greško Ján		0	384
+733	GUTTMAN JÁN		0	256
+733	HALEČKOVÁ MÁRIA r. ŽOLTÁKOVÁ		0	114,169,176,299
+733	HLAVINKA GAMEC JURAJ		0	190,192,399
+733	HLAVINKA GAMEC TOMÁŠ		0	263
+733	HLAVINKA TOMÁŠ		0	221
+733	HUDÁKOVÁ ANNA		0	201
+733	HUDÁKOVÁ VERONA		0	266
+733	Hvišč Juraj		0	383
+733	CHOMOVÁ ZUZANA r. VARGOVÁ		0	193,201,265,266
+733	Chovancová Anna r. Vaxmanská		0	356
+733	CHOVANEC JÁN		0	120
+733	CHROBÁKOVÁ MÁRIA r. CHOVANCOVÁ		0	187
+733	IVANČOVÁ ANNA r. VARGOVÁ		0	193,265,266
+733	IVANKOVÁ ANNA r. VARGOVÁ		0	201
+733	JARŽABEK JÁN		0	169,170
+733	JARŽABEKOVÁ ANNA		0	114,169,170
+733	JARŽABEKOVÁ ANNA r. JAROMBEKOVÁ		0	169,170
+733	Jurč Andrej	D 260/89	0	350,417
+733	JURČ JÁN		0	208
+733	JURČOVÁ MÁRIA		0	161,208
+733	JURČOVÁ MÁRIA r. JURČOVÁ		0	239
+733	KAROLY ARTHUR		0	151
+733	Kiseľ Ján		0	383
+733	KMECOVÁ ANNA r. ŽOLTÁKOVÁ		0	169,176,299
+733	Koncová Mária r. Naňasová		0	383
+733	KYJAK ANDREJ		0	201
+733	Lakata Ján		0	383
+733	MAKAY MIKLOŠ		0	268
+733	MAKAYOVÁ ANNA		0	268
+733	Marinko Andrej		0	384
+733	Matis Anna		0	383
+733	MATIS MICHAL		0	399
+733	MATISOVÁ HELENA		0	399
+733	MATISOVÁ MARGITA		0	399
+733	Matys Anna		0	383
+733	Mihaľ Andrej		0	383
+733	Muľ Andrej		0	383
+733	RADVANSKÁ KAROLÍNA r. VAKSMANSKÁ		0	183
+733	RADVANSKÁ KAROLÍNA r. VAXMANSKÁ		0	184,356
+733	RADVANSKÝ ADAM	ž.KAROLÍNA R.VAKSMANSKÁ	0	182
+733	Rusčinová Viktoria r. Vaxmanská		0	356
+733	Sabol Ján		0	391,393
+733	Sabolová Mária		0	388,389,391,393
+733	SOFFEROVÁ HELENA		0	261
+733	SOFFEROVÁ IRENA		0	261
+733	SOKOLOVÁ MARGITA r. MARKOVÁ		0	201
+733	STAŠ JÁN		0	41,220,396,403,415
+733	STAŠOVÁ ANNA		0	41,220,396,403,415
+733	STAŠOVÁ MÁRIA		0	41,220,396,403,415
+733	STEPHANY ALOJZ		0	264
+733	Šoltés Adam		0	384
+733	Šoltésová Helena		0	384
+733	ŠOLTYS JÁN	ž.MÁRIA R.PRIBULOVÁ	0	54
+733	ŠOLTYS JURAJ	ž.AGNESA KRAJCAROVÁ	0	54
+733	Švec Andrej		0	383
+733	Švec Ján		0	383
+733	Švec Ján Michal		1	403
+733	ŠVEC MICHAL		0	201
+733	ŠVECOVÁ MÁRIA r. MICHALOVÁ		0	158,220,396,403,415
+733	UHRINOVÁ ALŽBETA		0	133,175,176,220,299,396,401,402,403,415
+733	UHRINOVÁ ANNA		0	133,175,176,220,299,396,401,402,403,415
+733	VANTOVÁ ANNA		0	201
+733	Vaxmanská Anna		0	356
+733	Vaxmanský Jozef		0	356
+733	Vaxmanský Stanislav		0	356
+733	Verčimak Juraj		0	391,393
+733	Verčimaková Mária	m.Andrej nar.1887	0	388,389,391,393
+733	ZALEHA TOMÁŠ	ž.ANNA R.GOČOVÁ	0	81,400
+733	ZOLTAN GEDEON		0	214
+733	ŽIAROVÁ ANNA r. ŽOLTÁKOVÁ		0	169,176,299
+733	ŽOLTÁK ANDREJ		0	114,169,176,299
+733	ŽOLTÁK JÁN		0	114,170
+733	ŽOLTÁK MICHAL		0	114,169,176,299
+733	ŽOLTÁKOVÁ ZUZANA		0	291,351
+734	Babik Jozef		1	2091
+734	Babik Jozef r. Babik		0	1455
+734	Babik Jozef r. Babik, Slovenská republika		0	1697,2091,2096
+734	Babik Jozef, Slovenská republika, LSR LSR		0	2088
+734	Babik Jozef, Slovenská republika, SPF SPF		1	1930,2091
+734	Babiková Helena		1	1455,2091

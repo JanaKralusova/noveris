@@ -1,0 +1,256 @@
+2102	MEĽKO Ján	zomrel	1	706,1078,1093,1115
+2102	Meľko Juraj		0	707
+2102	MEĽKO Juraj	zomrel,NV-	1	704,753
+2102	Meľko Juraj /ž.Mária r.Pavlovčáková/		0	993
+2102	MELKO Michal	1,zomrel,NV-	1	602,624,629,644,666,684,685,686,696,704,725,726,753,761,773,797,1013,1137,1144,1156,1196,1210,1222,1223,1264,1276
+2102	MELKO Michal	2,zomrel,NV-	1	710,1034,1243,1250
+2102	MELKO Michal	zomrel,NV-	1	710,1034,1243,1250
+2102	Meľko Michal		0	707,759,1063
+2102	MEĽKO Michal	1,zomrel	1	706,1067,1078,1084,1093,1115,1121,1122,1123,1165,1207
+2102	Meľko Michal /ž.Mária r.Čižmáriková/		0	982,1145,1146,1186
+2102	Meľko Michal /ž.Mária r.Jevčáková/		0	982,1145,1146,1186
+2102	Melková Anna r. Kužmová	zomrela,NV	1	1194
+2102	MELKOVÁ Anna r. Kužmová		1	610,1051,1193,1244
+2102	Meľková Mária r.Jevčáková /m.Michal/		0	982,1145,1146,1186
+2102	MIHÁĽ Ján	NP-	1	679,685,686,735,740,855,866,1013,1144,1196,1222,1223,1264
+2102	MIHÁĽ Ján	zomrel	1	1084,1165
+2102	MIHÁĽ Juraj	zomrel,NV-	1	679,735,740,855,866
+2102	MIHÁĽ Michal	zomrel,NV-	1	679,735,740,855,866
+2102	MIHÁĽ Pavol	zomrel,NV-	1	679,735,740,855,866
+2102	MIHALO Ján	zomrel,NV-	1	710,1034,1243,1250
+2102	MIHAĽOVÁ Anna	zomrela,NV-	1	738
+2102	MIHAĽOVÁ Mária	1,zomrela,NV-	1	685,1013,1222,1264
+2102	MIHAĽOVÁ Mária	zomrela,NV-	1	679,735,740,855,866
+2102	MICHALOV Michal	zomrel,NV-	1	847,1179,1180,1181
+2102	MIKITOVÁ Anna	r.Kužmová,zomrela	1	1100
+2102	MIKITOVÁ Anna r. Kužmová		1	601,710,745,824,825,1035,1042,1200,1243,1250
+2102	MIKITOVÁ Anna r. Kužmuvá		1	1034
+2102	MINÁROVÁ Anna	r.Ciganócová,zomrela	1	1073
+2102	MINÁROVÁ Anna r. Ciganocová		1	638,782
+2102	OBESTER Michal	zomrel	1	1131
+2102	OBESTER Michal	zomrel,NV-	1	858,1266
+2102	OBESTEROVÁ Mária	r.Koroskényiová, zomrela	1	1131
+2102	OBESTEROVÁ Mária r. Koroskenyiová		1	858,893,1266
+2102	OBESTEROVÁ Mária r. Zalužická		1	796
+2102	OLEXOVÁ Mária	r.Šimáľová,zomrela	1	1092
+2102	ORAČKOVÁ Mária	r.Balková,NP	1	1101
+2102	OSADOVÁ Anna r. Prekrestová		1	710,870,935,1034,1243,1250
+2102	PAULOČÁK Jozef	zomrel	1	1131
+2102	PAULOČÁK Jozef	zomrel,NV-	1	858,1266
+2102	PAULOČÁK Michal	zomrel	1	1069,1131
+2102	PAULOČÁK Michal	zomrel,NV-	1	634,792,858,1245,1266
+2102	PEREKSTA Juraj	zomrel,NV-	1	710,1034,1243,1250
+2102	PETRÓC Andrej	zomrel,NV-	1	710,1034,1243,1250
+2102	Petróc Ján	zomrel	1	661,832,895,1084,1165
+2102	PETRÓC Ján	2,zomrel	1	1082
+2102	PETRÓC Ján	2,zomrel,NV-	1	649,733,1036,1241
+2102	PETRÓC Ján	3,zomrel	1	1094
+2102	PETRÓC Ján	3,zomrel,NV-	1	705,741,798,810,813
+2102	PETRÓC Ján	NP-	1	809
+2102	PETRÓC Ján	zomrel,NV-	1	685,686,940,1013,1144,1196,1222,1223,1264
+2102	Petroc Jozef		0	983,1172
+2102	PETROC Jozef	1, zomrel	1	692,815,1096
+2102	PETROC Jozef	sestry Zuzana a Mária, zomrel	1	1131
+2102	PETRÓC Jozef	1,zomrel,NV-	1	709,847,1034,1179,1180,1181,1270
+2102	PETRÓC Jozef	2,zomrel,NV-	1	1034
+2102	PETRÓC Jozef	3,zomrel	1	1084,1115,1165
+2102	PETRÓC Jozef	3,zomrel,NV-	1	666,684,685,686,1013,1144,1196,1222,1223,1264
+2102	PETRÓC Jozef	zomrel,NV-	1	858,913,1266
+2102	Petróc Juraj		1	110
+2102	Petroc Michal		1	721
+2102	Petroc Michal	n.6.4.1884, zomrel	1	1139
+2102	Petróc Michal	zomrel	1	661,832,895,1084,1165,1223
+2102	PETRÓC Michal	1,zomrel,NV-	1	697
+2102	PETRÓC Michal	2,zomrel,NV-	1	697,1218
+2102	PETRÓC Michal	3,zomrel	1	697,1084,1165,1222
+2102	PETRÓC Michal	3,zomrel 3,zomrel	1	732,1237
+2102	PETRÓC Michal	4,zomrel,NV-	1	725,726,847,1137,1156,1179,1180,1181
+2102	PETRÓC Michal	5,zomrel,NV-	1	676
+2102	PETRÓC Michal	zomrel,NV-	1	685,686,1013,1144,1196,1222,1223,1264
+2102	Petroc Michal /ž.Anna r.Berešová/		0	982,1145,1146,1186
+2102	Petroc Michal /ž.Mária r.Šalachová/		0	981,983,1172
+2102	PETRÓC Pavol	zomrel	1	1084,1115,1165
+2102	PETRÓC Pavol	zomrel,NV-	1	666,684,685,686,1013,1144,1196,1222,1223,1264
+2102	PETRÓCOVÁ Alžbeta	r.Havrilčáková,zomrela	1	1064
+2102	PETRÓCOVÁ Alžbeta	r.Havrilčáková,zomrela,NV-	1	1137,1156
+2102	Petrocová Alžbeta r. Havrilčáková		1	726,763
+2102	Petrocová Alžbeta r.Havrilčáková /m.Ján/		0	1145,1146
+2102	PETRÓCOVÁ Anna	zomrela,NV-	1	710,1034,1243,1250
+2102	Petrócová Anna r. Bérešová	zomrela	0	607,608,799,1047,1048,1049,1187,1273
+2102	Petrócová Anna r. Kužmová	zomrela	0	607,1047,1273
+2102	PETRÓCOVÁ Mária	r.Havrilčáková,zomrela	1	1080
+2102	PETRÓCOVÁ Mária r. Havrilčáková		1	647,738,751
+2102	PETRÓCOVÁ Zuzana	zomrela	1	1084,1115,1165
+2102	PETRÓCOVÁ Zuzana	zomrela,NV-	1	666,684,685,686,1013,1144,1196,1222,1223,1264
+2102	PLUCHTA Andrej	zomrel,NV-	1	910,913
+2102	PLUCHTA Ján	zomrel,NV-	1	888
+2102	POROCHNAVI Michal	zomrel,NV-	1	710,1034,1243,1250
+2102	POROCHNAVI Pavol	zomrel	1	1123
+2102	POROCHNAVI Pavol	zomrel,NV-	1	696,710,729,784,1034,1243,1250
+2102	POROCHNAVIOVÁ Mária r. Kahmanová		1	784
+2102	PREKRESTA Jozef	zomrel,NV-	1	724,870,935,1218
+2102	Rondoš Ján		0	707
+2102	ROSENBLUTH Ľudovít	zomrel,NV-	1	710,1034,1243,1250
+2102	ROVŇÁK Pavol	zomrel,NV-	1	1196
+2102	Rovňáková Malvina	mal. dcéra Pavla	0	978,1205
+2102	SALAKA Ján	zomrel,NV-	1	858,1266
+2102	Salaková Mária r. Havrilčáková		1	710,1034,1243,1250
+2102	SALAKOVÁ Mária r. Lukáčová		1	844,858,863,1266
+2102	SMOVEJOVÁ Anna r. Kráľová		1	685,1013,1222,1264
+2102	SNINČÁKOVÁ Anna	r.Berešová,zomrela	1	1055
+2102	SNINČÁKOVÁ Anna	r.Berešová,zomrela,NV-	1	1149,1150
+2102	SNINČÁKOVÁ Anna r. Berešová		1	614,779,789
+2102	SOPKO Ján	zomrel,NV-	1	725,726,1137,1156
+2102	Sopko Ján /ž.Mária r.Juhasová/		0	982,1145,1146,1186
+2102	SOPKOVÁ Mária	r.Junasová,zomrela,NV-	1	1137,1156
+2102	SOPKOVÁ Mária r. Junasová		1	725,726
+2102	Sopková Mária r.Juhasová /m.Ján/		0	982,1145,1146,1186
+2102	SROK Jozef	zomrel,NV-	1	725,726,1137,1156
+2102	Srok Jozef /ž.Mária r.Zalužická/		0	982,1145,1146,1186
+2102	SROK Juraj	zomrel,NV-	1	725,726,1137,1156
+2102	SROK Michal	zomrel,NV-	1	725,726,1137,1156
+2102	SROKOVÁ Mária r. Zalužická		1	820
+2102	Sroková Mária r.Zalužická /m.Jozef/		0	982,1145,1146,1186
+2102	STARUCHOVÁ Mária	r.Berešová,NP-	1	1149,1150
+2102	STARUCHOVÁ Mária	r.Berešová,zomrela	1	1055
+2102	STARUCHOVÁ Mária r. Berešová		1	779,789
+2102	STARUCHOVÁ r. Berešová		1	614
+2102	STAŠKO Ján	zomrel	1	1084,1165
+2102	STAŠKO Ján	zomrel,NV-	1	671,685,686,937,1013,1144,1196,1222,1223,1264
+2102	SZENTIVÁNY Ján	zomrel,NV-	1	725,726,1137,1156
+2102	Szentiványi Michal /syn Michala/		0	982,1145,1146,1186
+2102	SZENTIVANYIOVÁ Mária r. Lukáčová		1	538
+2102	SZENTIVÁNYOVÁ Mária	zomrela	1	1058,1062,1095,1097
+2102	SZENTIVÁNYOVÁ Mária	zomrela,NV-	1	617,708,785,812,819
+2102	SZENTIVANYOVÁ Mária r. Lukáčová		1	623,821,849
+2102	ŠALACHA Ján	1,zomrel,NV-	1	851,865
+2102	ŠALACHA Juraj	zomrel,NV-	1	851,865,882,891
+2102	ŠALACHA Michal	NP-	1	725,726,1137,1156
+2102	ŠALACHOVÁ Anna r. Hudakócová		1	710,1034,1243,1250
+2102	ŠALAKA Ján	zomrel	1	1131
+2102	ŠALAKOVÁ Mária	r.Lukáčová, zomrela	1	1131
+2102	Šalatová Mária	zomrela	0	648,748,795,1081
+2102	ŠALÁTOVÁ Mária	r.Havrilčáková-Lukáčová, zomrela	1	1118
+2102	ŠALATOVÁ Mária r. Havrilčáková		1	603,606,730,1259,1260
+2102	ŠALÁTOVÁ Mária r. Havrilčáková- Lukáčová		1	693
+2102	ŠALÁTOVÁ Mária r. Havrilčáková-Lukáčová		1	1043,1046
+2102	Šalatová Mária r. Kužmová	zomrela,NV	1	1194
+2102	ŠALATOVÁ Mária r. Kužmová		1	610,1051,1193,1244
+2102	ŠALLAKOVÁ Mária r. Havrilčáková		1	606,693,730,1043,1046,1260
+2102	ŠALLAKOVÁ r. Havrilčáková		1	603,1259
+2102	ŠANDOROVÁ Anna	r.Kišová,zomrela	1	1084,1165
+2102	ŠANDOROVÁ Anna	r.Kišová,zomrela,NV-	1	1144,1196
+2102	ŠANDOROVÁ Anna r. Kišová		1	686,935,1223
+2102	ŠIMÁĽ Andrej	1,zomrel,NV-	1	1143
+2102	ŠIMÁĽ Andrej	zomrel	1	1092
+2102	ŠIMÁĽ Andrej	zomrel,NV-	1	703,935,1269
+2102	Šimaľ Andrej /ž.Alžbeta r.Hardiková/		0	982,1145,1146,1186
+2102	ŠIMÁĽ Ján	1,zomrel,NV-	1	1034,1243
+2102	ŠIMÁĽ Ján	zomrel,NV-	1	710,1034,1243,1250
+2102	Šimaľ Juraj	n.23.3.1898,zomrel	1	1139
+2102	ŠIMÁĽ Juraj		1	256,721
+2102	ŠIMÁĽ Juraj	1,zomrel,NV-	1	752
+2102	ŠIMÁĽ Juraj	2,zomrel,NV-	1	752
+2102	ŠIMÁĽ Juraj	zomrel,NV-	1	938
+2102	ŠIMÁĽ Michal		1	663,685,686,825,831,1013,1222,1223,1264
+2102	ŠIMÁĽ Michal	1,zomrel,NV-	1	1156
+2102	ŠIMÁĽ Michal	zomrel 11.12.1981	1	824,1084,1165
+2102	ŠIMÁĽ Michal	zomrel,n.4.8.1920,NV-	1	1144,1196
+2102	ŠIMÁĽOVÁ Alžbeta	r.Hardíková,zomrela,NV-	1	1137,1156
+2102	ŠIMÁĽOVÁ Alžbeta r. Hardíková		1	725,726
+2102	Šimaľová Alžbeta r.Hardiková		0	1002
+2102	Šimaľová Alžbeta r.Hardiková /m.Andrej/		0	982,1145,1146,1186
+2102	ŠIMÁĽOVÁ Anna r. Balková		1	685,1013,1222,1264
+2102	ŠIMÁĽOVÁ Elena	r.Hardíková,zomrela	1	1084,1165
+2102	ŠIMÁĽOVÁ Elena	r.Hardíková,zomrela,NV-	1	1144,1196
+2102	ŠIMÁĽOVÁ Elena r. Hardíková		1	685,686,1013,1222,1223,1264
+2102	Šimaľová Johana r.Hardiková /m.Michal/		0	982,1145,1146,1186
+2102	Šimáľová Mária	zomrela	0	920
+2102	ŠIMÁĽOVÁ Mária	2,zomrela,NV-	1	710,1034,1243,1250
+2102	ŠIMÁĽOVÁ Mária	NP-	1	1137,1156
+2102	ŠMIGA Ferdinand	NP-	1	710,874,935,1034,1243,1250
+2102	ŠMIGA Ján	zomrel,NV-	1	710,1034,1243,1250
+2102	ŠMIGA Jozef	zomrel,NV-	1	710,1034,1243,1250
+2102	ŠMIGA Juraj	1,zomrel,NV-	1	710,874,935,1034,1243,1250
+2102	ŠMIGA Juraj	zomrel,NV-	1	710,1034,1243,1250
+2102	ŠMIGA Michal	NP-	1	671
+2102	ŠMIGA Viliam	NP-	1	710,874,935,1034,1243,1250
+2102	ŠMIGOVÁ Anna	r.Huková,zomrela	1	1094
+2102	ŠMIGOVÁ Anna r. Huková		1	705,741,774,798,810,813
+2102	ŠMIGOVÁ Anna r. Huková	zomrela	0	801
+2102	ŠTOFOVÁ Anna r. Tirpáková		1	889
+2102	Tirpák Ján	zomrel	0	854
+2102	TIRPÁK Ján	1,zomrel,NV-	1	784
+2102	TIRPÁK Ján	zomrel,NV-	1	853
+2102	Tirpák Michal		0	645,1079
+2102	Tirpák Michal	zomrel	0	791,814,1212
+2102	Tirpák Michal	zomrel,NV	1	652
+2102	TIRPÁK Michal	1,zomrel,NV-	1	1213
+2102	Tirpák Pavol	zomrel,NV	1	811
+2102	Tirpák Štefan		1	721,827
+2102	Tirpák Štefan	zomrel	1	1139
+2102	TIRPÁK Štefan	zomrel,NV-	1	627,1275
+2102	TIRPÁKOVÁ Alžbeta r. Hudakócova		1	725,726
+2102	TIRPÁKOVÁ Anna r. Huková		1	627,827,1275
+2102	Tirpáková Mária r. Jančisková	zomrela	0	791
+2102	Tirpáková Mária r. Kuľhová	zomrela,NV	1	652
+2102	TOMAČÍKOVÁ Anna	r.Macíková Adamčíková, zomrela	1	1103
+2102	VALKO Juraj	zomrel,NV-	1	762
+2102	VAĽOČIKOVÁ Anna	r.Kužma-Meľková, zomrela	1	1069,1131
+2102	VAĽOČÍKOVÁ Anna r. Kužmová Melková		1	634,1245
+2102	VAĽOČÍKOVÁ Anna r. Kužmová-Meľková		1	858,1266
+2102	VARGOVÁ Alžbeta r. Šmigová		1	710,1034,1243,1250
+2102	VIRČANSKÁ Zuzana r. Petrócová		1	710,1034,1243,1250
+2102	Zádorožný Ján	NP-	1	613
+2102	ZÁDOROŽNÝ Ján	NP	1	1054
+2102	Zalužická Alžbeta r. Tirpáková	zomrela	1	800
+2102	Zálužická Alžbeta r. Tirpáková	zomrela,NV	1	778
+2102	ZALUŽICKÁ Anna	r.Lukáčová,NP	1	1084,1165
+2102	ZALUŽICKÁ Anna	r.Lukáčová,NP-	1	1144,1196
+2102	Zalužická Anna r. Lukáčová	NP	1	675
+2102	ZALUŽICKÁ Anna r. Lukáčová		1	686,813,850,936,1223
+2102	Zalužická Elena	zomrela	0	608,1048,1049
+2102	ZALUŽICKÁ Elena	zomrela,NV-	1	621
+2102	ZALUŽICKÁ Elena r. Struňáková		1	714
+2102	ZALUŽICKÁ Mária	1,zomrela,NV-	1	715
+2102	ZALUŽICKÁ Mária	r.Kislanová,zomrela,NV-	1	1143
+2102	ZALUŽICKÁ Mária	zomrela,NV-	1	621
+2102	Zálužická Mária	zomrela	0	607,608,799,1047,1048,1049,1187,1273
+2102	ZALUŽICKÁ Mária r. Kislanová		1	685,1013,1222,1264
+2102	ZALUŽICKÁ Zuzana	Lorincová,zomrela,NV-	1	1137,1156
+2102	ZALUŽICKÁ Zuzana	zomrela,NV-	1	771
+2102	ZALUŽICKÁ Zuzana r. Lorincová		1	725,726
+2102	ZALUŽICKÝ Andrej	1,zomrel	1	1084,1165
+2102	Zalužický Hiliar /syn Andreja/		0	1009
+2102	Zalužický Ján	2,zomrel	1	800,803,1085
+2102	Zalužický Ján	zomrel	0	814
+2102	ZALUŽICKÝ Ján		1	802
+2102	ZALUŽICKÝ Ján	1,zomrel,NV-	1	744
+2102	ZALUŽICKÝ Ján	2,zomrel,NV-	1	620,685,688,718,776,1013,1222,1264
+2102	ZALUŽICKÝ Ján	zomrel,NV-	1	741,813
+2102	ZALUŽICKÝ Juraj	zomrel,NV-	1	769
+2102	ZALUŽICKÝ Michal	1,zomrel	1	1057
+2102	ZALUŽICKÝ Michal	1,zomrel,NV-	1	616,621,744,796,820
+2102	ZALUŽICKÝ Michal	2,zomrel	1	1062
+2102	ZALUŽICKÝ Michal	2,zomrel,NV-	1	623,821
+2102	ZALUŽICKÝ Michal	3,zomrel,NV-	1	716
+2102	ZALUŽICKÝ Michal	4,zomrel,NV-	1	820
+2102	ZALUŽICKÝ Michal	zomrel,NV-	1	710,1034,1243,1250
+2102	ZALUŽICKÝ Pavol	zomrel	1	1096
+2102	Zalužický Pavol /zomrel, NV-SPF/		1	939
+2102	Zolotová Mária		1	912,913
+2102	Zolotová Mária r.Tirpáková		0	982,1145,1146,1186
+2102	ZURKOVÁ Zuzana r. Havrilčáková		1	710,1034,1243,1250
+2103	Ahlers Alojz r. Ahlers	čd.1566/08, čd.206/36; čd.1566/08, čd.206/36	0	250,251,252,515
+2103	Ashlersz Ferdinand Emil Dr.	čd.1566/08, čd.206/36	0	251,252
+2103	Babulic Ján		0	217,410,498,517,518,615
+2103	Bahelková Anna r. Majorová	čd.3954/08, manž.Jozef	0	606
+2103	Bakič Vincenc	manž.Magdaléna rod.Tomavičová, Orešany č.d.48	0	555
+2103	Bakičová Magdaléna r. Tomavičová	manž.Vincenc, Orešany č.d.48	0	555
+2103	Batinová Apolónia r. Ondrejková	čd.729/44	0	330,387,388
+2103	Bečirovičová Katarína r. Ručkayová	čd.923/54	0	142
+2103	Beňo Štefan	manž.Mária rod.Graclíková, čd.1742/49	0	586
+2103	Beňová Mária r. Graclíková	manž.Štefan, čd.1742/49	0	586
+2103	Beňovičová Alžbeta	manž.Juraj, Orešany čd.25	0	612
+2103	Bielik Michal	čd.4858/07, manž.Mária rod.Markechová	0	592
+2103	Bieliková Mária r. Markechová	čd.4858/07, manž.Michal	0	592

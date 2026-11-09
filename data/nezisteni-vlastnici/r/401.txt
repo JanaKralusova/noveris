@@ -1,0 +1,256 @@
+239	Dujsík Jozef	maloletý, súr. František, Štefan	0	1427
+239	Dujsík Jozef	manž. Mária r. Hladíková, ded. po Anne Dujsíkovej r. Dujmovičovej	0	1088,2483,4433,4890
+239	Dujsík Jozef	súr. František, Štefan st., Mária, Štefan maloletý, Anna, Helena, Terézia	0	1141
+239	Dujsík Jozef	súr. František, Štefan, ded. po Anne Dujmovičovej r. Trubirohovej	0	1388,2586,4625
+239	Dujsík Jozef	súr. František, Štefan, ded. po Anne Dujsíkovej r. Trubirohovej	0	1182
+239	Dujsík Jozef	súr. František, Štefan, ded. po Anneč Dujsíkovej r. Trubirohovej	0	2790
+239	Dujsík Jozef	súrod.Matej, František, Ján	0	5095
+239	Dujsík Jozef	ž. Mária Hladíková, ded. po Anne Dujsíkovej r. Dujmovičovej	0	1084,5337
+239	Dujsík Jozef	ž. Mária Hladíková, ded. po Antonínovi Dujsíkovi	0	1084,4437,5337
+239	Dujsík Jozef	ž. Mária r. Hladíková, ded. po Anne Dujsíkovej r. Dujmovičovej	0	1588,4437,5643
+239	Dujsík Jozef	ž. Mária r. Hladíková, súr. Rozália, Hedviga, Milan, ded. po Anne Dujsíkovej	0	1116
+239	Dujsík Jozef	ž. Mária r. Hladíková, súr. Rozália, Valentín, Hedviga, ded. po Antonínovi Dujsíkovi	0	1116
+239	Dujsík Jozef	ž. Mária r. Hladíková, súr. Rozália, Valentín, Hedvika, ded. po Antonovi Dujsíkovi	0	1554
+239	DUJSÍK Jozef		0	205,1270,1332,1554,1575,1581,1904,2151,2789,3935,4934,4938,4939,4947
+239	Dujsík Leopold		0	1084,4437,5337
+239	Dujsík Leopold	Martin, Štefan, Ján, Helena	0	1338
+239	Dujsík Leopold	súr. Štefan, Ján, Helena, ded. po Márii Dujsíkovej r. Kováčovej	0	1656
+239	Dujsík Leopold	súr.Štefan, Ján, Helena, ded. po Márii Dujsíkovej r. Kováčovej -m. Jozef	0	1660
+239	Dujsík Leopold	súrod. Štefan, Ján, Helena	0	1443,1654,1655,1657
+239	Dujsík Martin		0	1084,1088,1143,1335,2483,4433,4437,4890,5011,5068,5337
+239	Dujsík Martin	súr. Ján, Mária, Anna, Michal, Alžbeta	0	1116,1338
+239	Dujsík Martin	súr. Štefan, Ján, Leopold, Helena	0	1338
+239	Dujsík Martin	ž. Mária r. Gulíšková	0	1341,4944
+239	Dujsík Martin	ž.Mária r.Gulíšková	0	1554,5012
+239	Dujsík Martin r. Gulíšková	ž.Mária r.Gulíšková	0	1334
+239	Dujsík Matej	mal. súr. Ján, Michal, Ferdinand, Helena, Terézia	0	1095
+239	Dujsík Matej	mal., súr. Ján, Michal, Fedinand, Helena, Terézia	0	2295
+239	Dujsík Matej	maloletý	0	1332,1333,1335,1905,4938,4939,4940,4941,4942
+239	Dujsík Matej	maloletý, súr. Ján, Michal, Ferdinand, Helena, Terézia	0	1113,1116,1164,1338,1341,4230
+239	Dujsík Matej	maloletý, súr.Ján, Michal, Ferdinand, Helena, Terézia	0	4944
+239	Dujsík Matej	maloletý,súr. Ján, Michal, Ferdinand,Helena	0	4231
+239	Dujsík Matej	maloletý,súrodenci:Ján, Michal, Ferdinand, Helena, Terézia	0	1334
+239	Dujsík Matej	súr. Ján, Michal, Ferdinand, Helena, Terézia	0	1084,4107,4437,5337
+239	Dujsík Matej	súr. Ján, Michal, Ferdinand, Matej, Helena	0	1089
+239	Dujsík Matej	súrod.Jozef, František, Ján	0	5095
+239	DUJSÍK Matej		0	1088,2483,3748,3859,3860,3861,3862,4433,4890,4952,5397,5433
+239	Dujsík Matúš		0	1336,1554,4943
+239	Dujsík Michal	č.d. 1410/20, 2438/37	0	3859,3860,3862
+239	Dujsík Michal	ded. po Dujsíkovej Márii r. Hladíkovej, súr. Ján, Simon, Jakub, Fridrich, Gašpar	0	2788
+239	Dujsík Michal	ded. po Jakubovi Dujsíkovi	0	1084,1088,1091,1163,2483,4433,4437,4890,5337
+239	Dujsík Michal	dedené po Dujsíkovej Márii r.Hladíkovej	0	1178,1918,5395
+239	Dujsík Michal	dedené po Dujsíkovi Šimonovi	0	1178,1918,5395
+239	Dujsík Michal	mal. súr. Ján, Ferdinand, Helena, Matej, Terézia	0	1095
+239	Dujsík Michal	mal., súr. Ján, Ferdinand, Helena, Matej, Terézia	0	2295
+239	Dujsík Michal	mal., zápis z r. 1899	0	3860,3862
+239	Dujsík Michal	mal.,zápis z r.1899	0	3748,3859,3861,5397,5433
+239	Dujsík Michal	maloletý	0	1088,1332,1333,1335,1905,2483,4433,4890,4938,4939,4940,4941,4942,4952
+239	Dujsík Michal	maloletý, súr. Ján, Ferdinand, Helena, Matej Terézia	0	4231
+239	Dujsík Michal	maloletý, súr. Ján, Ferdinand, Helena, Matej, Terézia	0	1084,1113,1116,1164,1338,1341,4107,4230,4437,4944,5337
+239	Dujsík Michal	maloletý, súrodenci:Ján, Ferdinand, Helena, Matej, Terézia	0	1334
+239	Dujsík Michal	manž. Mária r. Palkovičová	0	3748,3859,3860,3862,4231,5397
+239	Dujsík Michal	manž. Mária r. Palkovičová, súr. Ignác, Jakub	0	4230
+239	Dujsík Michal	súr. Ján, Ferdinand, Helena, Matej, Terézia	0	1089
+239	Dujsík Michal	súr. Ján, Jakub, Bedrich, Gašpar	0	1089
+239	Dujsík Michal	súr. Ján, Jakub, Bedrich, Gašpar, ded. po Jakubovi Dujsíkovi	0	1095,1113,1116,1164,1338
+239	Dujsík Michal	súr. Ján, Mária, Anna, Martin, Alžbeta	0	1338
+239	Dujsík Michal	súrod. Ignác, Ján	0	2401
+239	Dujsík Michal	súrod. Ján, Jakub, Bedrich, Gašpar	0	1373,2782,3845,5396
+239	Dujsík Michal	súrod.Ignác, Ján	0	1420
+239	Dujsík Michal	súrod.Ján, Jakub, Bedrich, Gašpar	0	1420
+239	Dujsík Michal	ž. Mária r. Palkovičová	0	1333,2782,5396
+239	Dujsík Michal	ž. Mária r. Palkovičová, súr. Ignác, Jakub	0	2295
+239	Dujsík Michal	ž.Anna r.Hladíková	0	3087
+239	Dujsík Michal	ž.Mária r. Palkovičová	0	1554,2405,2784,5660
+239	Dujsík Michal	ž.Mária r.Palkovičová	0	1905,2325,3820,3821,3845,4940,4941,4942,4943,4952,5099,5100,5496
+239	Dujsík Michal	ž.Rozália r.Palkovičová	0	1336
+239	DUJSÍK Michal		0	1332,1333,1335,1336,1402,1554,1905,2293,2324,3300,3742,3748,3891,4938,4939,4940,4941,4942,4943,4952,5066,5397
+239	DUJSÍK Michal	č.d.1410/20,2438/37	0	3861
+239	DUJSÍK Michal	manž.Mária r.Palkovičová	0	3861,5433
+239	Dujsík Milan	ded. po Anne Dujsíkovej r. Dujmovičovej	0	3890
+239	Dujsík Milan	ded. po Anne Dujsíkovej r. Dujmovičovej a Valentovi Dujsíkovi	0	3270
+239	Dujsík Milan	ded. po Anne Dujsíkovej r. Dujmovičovej, ded. po Valentínovi Dujsíkovi	0	1084
+239	Dujsík Milan	ded. po Anne Dujsíkovej r. Dujmovičovej, po Valentovi Dujsíkovi	0	1335
+239	Dujsík Milan	ded. po Ferdinandovi Dujsíkovi- ž. Mária r. Čulenová	0	1341
+239	Dujsík Milan	ded. po Valentínovi Dujsíkovi	0	1089,1095,1113,1116,1145,1255,1297,4437,4932,4933,4944,5294,5337
+239	Dujsík Milan	ded. po Valentínovi Dujsíkovi - ž. Jozefína r. Uhrová	0	1554
+239	Dujsík Milan	ded. po Valentínovi Dujsíkovi -ž. Jozefína r. Uhrová	0	3271
+239	Dujsík Milan	ded. po Valentovi Dujsíkovi	0	1338,2294
+239	Dujsík Milan	ded. po Valentovi Dujsíkovi, syn neb. Valentína Dujsíka	0	4230,4231
+239	Dujsík Milan	R 6.7.1924, syn Valenta Dujsíka a Jozefíny r. Uhrovej	0	3935
+239	Dujsík Milan	R6.7.1924, ded. po Anne Dujsíkovej r. Dujmovičovej - m. Anton, Valentínovi Dujsíkovi	0	4107
+239	Dujsík Milan	súr. Rozália, Hedviga, ded. po Anne Dujsíkovej, Valentínovi Dujsíkovi	0	1164
+239	Dujsík Milan	súr. Rozália, Hedviga, Jozef, ded. po Anne Dujsíkovej r. Dujmovičovej	0	1090,1093,4929,4930,4931
+239	Dujsík Milan	syn neb. Valenta Dujsíka	0	1593,3269
+239	Dujsík Milan	syn neb. Valenta Dujsíka, ded. po Anne Dujsíkovej r. Dujmovičová	0	1088,2483,4433,4890
+239	Dujsík Milan	syn neb. Valenta Dujsíka, ded. po Anne Dujsíkovej r. Dujmovičovej	0	4437,5337
+239	Dujsík Milan	syn neb. Valenta Dujsíka, súr. Hedviga, Rozália, Jozef, ded. po Anne Dujsíkovej r. Dujmovi	0	1338
+239	Dujsík Milan	syn neb. Valenta Dujsíka, súr. Rozália, Hedviga, Jozef	0	1113
+239	Dujsík Milan	syn neb. Valenta Dujsíka, súr. Rozália, Hedviga, Jozef, ded. po Anne Dujsíkovej	0	1089,1095,1116,1145,1255,4932,4933
+239	Dujsík Milan	syn neb. Valenta Dujsíka, súr. Rozália, Hedviga, Jozef, por. Anna Dujsíková r. Dujmovičová	0	1297
+239	Dujsík Milan	syn neb.Valenta	0	1336,4943
+239	Dujsík Milan	syn Valenta, ded. po Anne Dujsíkovej r. Dujmovičovej	0	4944
+239	Dujsík Milan	syn Valenta, ded. po Anne Dujsíkovej r. Dujmovičovej - m. Anton	0	1341
+239	Dujsík Milan	syn Valenta, ded. po Anne Dujsíkovej r. Dujmovičovej -m. Anton	0	1588,5643
+239	Dujsík Milan	syn Valenta, ded. po Valentovi Dujsíkovi, Anne Dujsíkovej r. Dujmovičovej	0	2295
+239	Dujsík Milan	syn Valentína Dujsíka	0	1334
+239	DUJSÍK Milan		0	1334,1336,1554,2292,2293,4140,4943,5257,5433,5447
+239	DUJSÍK Milan	syn neb. Valenta r. Dujsíka	0	1554
+239	Dujsík Stanislav	maloletý, súr. Florián, Mária	0	4230,4231
+239	Dujsík Štefan	matka: Anna r. Trubirohová, súr. František, Jozef	0	1141,1182,1270,1388,1427,1554,1575,1581,1904,2151,2586,2788,2789,2790,4625,4934,4947
+239	Dujsík Štefan	rod. Jozef a Mária r. Kováčová, súr. Ján, Leopold, Helena Štvrtecká	0	1443,1654,1655,1656,1657,1660
+239	Dujsík Štefan	súr. Martin, Ján, Leopold, Helena	0	1084,1338,4437,5337
+239	Dujsík Teofil	dar od Jána Dujsíka	0	1091,1092,1116,1163,1180,4230,4231,5444
+239	Dujsík Teofil	súr. Agneša, Anna, Helena, ded. po Štefanovi Dujsíkovi	0	1427
+239	Dujsík Teofil	súr. Agneša, Anna, Helena, ded. po Štefanovi Dujsíkovi -ž. Ľudmila r. Trubirohová	0	5180
+239	Dujsík Teofil	súr.Ignác, Anastázia, Augustín, Rehor	0	3845
+239	Dujsík Teofil	ž.Agneša r.Kriedlová	0	5011
+239	DUJSÍK Teofil		0	261,1270,1332,1333,1336,1341,1373,1554,1617,1904,1905,2151,2295,2324,2325,2403,2405,2782,2784,3124,3748,3820,3821,3859,3860,3861,3862,4107,4934,4938,4939,4940,4941,4942,4943,4944,4947,4952,5012,5068,5099,5100,5396,5397,5433,5496,5660
+239	Dujsíková Agneša r. Krídlová	ded. po Antonínovi Krídlovi	0	1388,2586,4625
+239	Dujsíková Agneša r. Krídlová	ded. po Vendelínovi Dujsíkovi	0	1145,4932,4933
+239	Dujsíková Agneša r. Krídlová	ded. po Vendelínovi Krídlovi	0	766,1088,1089,1090,1095,1116,1139,1182,1249,1338,1421,2483,4433,4890,4929,4930
+239	Dujsíková Agneša r. Krídlová	dedené po Vendelínovi Krídlovi	0	5079
+239	DUJSÍKOVÁ Agneša r. Krídlová		0	1554
+239	Dujsíková Agneša r. Kriedlová	ded. po Vendelínovi Kriedlovi -ž. Alžbeta r. Kovarovičová	0	1554
+239	DUJSÍKOVÁ Agneša r. Kriedlová		0	433,1468,1516
+239	Dujsíková Alojzia	mal., súr. Ján, Anna, Mária, ded. po Floriánovi Dujsíkovi	0	2295
+239	Dujsíková Alžbeta		0	1084,1270,1335,4437,5337
+239	Dujsíková Alžbeta	súr. Anton	0	1338
+239	Dujsíková Alžbeta r. Dujsíková	ded. po Rozálii Dujsíkovej r. Čulenovej	0	1338
+239	Dujsíková Alžbeta r. Dujsíková	kúpa od Anastázie Dujsíkovej	0	1088,2483,4433,4890
+239	Dujsíková Alžbeta r. Dujsíková	kúpa od Ignáca a Augustína Dujsíka	0	1086,1088,1089,1091,1092,1095,1113,1116,1163,1164,1338,2483,4433,4890
+239	Dujsíková Alžbeta r. Dujsíková	kúpa od Ignáca Augustína Dujsíka	0	1335
+239	Dujsíková Alžbeta r. Dujsíková	m. Gregor ded. po Jánovi Dujsíkovi	0	1116
+239	Dujsíková Alžbeta r. Dujsíková	m. Gregor, súr. Mária, Rozália, ded. po Jánovi Dujsíkovi	0	1388,2586,4625
+239	Dujsíková Alžbeta r. Dujsíková	m. Rehor	0	1084,1341,2401,2403,2782,2784,3121,3124,4437,4944,5337,5396,5660
+239	Dujsíková Alžbeta r. Dujsíková	m. Rehor, kúpa od Anastázie Dujsíkovej	0	1086,1095,1164,1335,4230,4231
+239	Dujsíková Alžbeta r. Dujsíková	m. Rehor, kúpa od Anastázie Jurigovej r. Bartalovej	0	1388,2586,4625
+239	Dujsíková Alžbeta r. Dujsíková	m. Rehor, kúpa od Anastázie Jurigovej r. Dujsíkovej	0	1089,1092,1113,1116
+239	Dujsíková Alžbeta r. Dujsíková	m. Rehor, kúpa od Augustína a Ignáca Dujsíkaj	0	4230
+239	Dujsíková Alžbeta r. Dujsíková	m.Rahor	0	3122
+239	Dujsíková Alžbeta r. Dujsíková	m.Rehor	0	1270,1332,1334,1336,1402,1420,1554,3015,4934,4938,4939,4943
+239	Dujsíková Alžbeta r. Dujsíková	m.Rehor, kúpa od Anastázie Jurigovej r. Dujsíkovej	0	1338
+239	Dujsíková Alžbeta r. Dujsíková	manž. Juraj	0	1142
+239	Dujsíková Alžbeta r. Dujsíková	manž. Rehor, kúpa od Anastázie Dujsíkovej	0	1091,1163
+239	Dujsíková Alžbeta r. Dujsíková	R 9.10.1891, m.Rehor	0	1373
+239	Dujsíková Alžbeta r. Dujsíková	R9.10.1891	0	4107,5433
+239	Dujsíková Alžbeta r. Dujsíková	R9.10.1891, m. Rehor	0	4107
+239	Dujsíková Alžbeta r. Dujsíková	vdova	0	1503
+239	Dujsíková Alžbeta r. Dujsíková	vdova, č. 464	0	5413
+239	Dujsíková Alžbeta r. Dujsíková	vdova, ded. po Rozálii Dujsíkovej r. Čulenovej	0	1088,1256,1667,2483,4433,4890
+239	Dujsíková Alžbeta r. Dujsíková	vdova, ded. po Rozálii Dujsíkovej r. Dujsíkovej	0	1089
+239	Dujsíková Alžbeta r. Dujsíková	vdova, ded. po Rozálií Dujsíkovej, r. Čulenovej	0	1084,4437,5337
+239	Dujsíková Alžbeta r. Dujsíková	vdova, súr. Rozália, Mária, ded. po Rozálii Dujsíkevej r. Čulenovej	0	1388,2586
+239	Dujsíková Alžbeta r. Dujsíková	vdova, súr. Rozália, Mária, ded. po Rozálii Dujsíkovej r. Čulenová	0	1164
+239	Dujsíková Alžbeta r. Dujsíková	vdova, súr. Rozália, Mária, ded. po Rozálii Dujsíkovej r. Čulenovej	0	1095,1113,1116,4625
+239	DUJSÍKOVÁ Alžbeta r. Dujsíková		0	1084,1332,1334,1336,1341,1402,1420,1509,1554,1617,2293,2324,2401,2403,2782,2784,3015,3122,3124,3845,4437,4934,4938,4939,4943,4944,5337,5396,5550,5660
+239	Dujsíková Alžbeta r. Hladíková		0	2167
+239	Dujsíková Alžbeta r. Hladíková	m. Pavol, ded. po Jánovi Hladíkovi	0	4436
+239	Dujsíková Alžbeta r. Hladíková	manž. Pavol, ded. po Jánovi Hladíkovi	0	1083
+239	Dujsíková Alžbeta r. Hojsíková	súr. Katarína	0	1116
+239	Dujsíková Alžbeta r. Hojsíková	súr. Katarína Hladíková	0	1095
+239	Dujsíková Alžbeta r. Horná		0	1084,1088,1089,1589,1652,2483,4433,4437,4890,5337
+239	Dujsíková Alžbeta r. Horná	súr. Michal	0	1116
+239	Dujsíková Alžbeta r. Horná	súr. Michal, Mária, Anna	0	2706
+239	Dujsíková Alžbeta r. Horná	súr. Michal, Mária, Anna, Alžbeta, Terézia, Rozália Rudolf	0	1095
+239	Dujsíková Alžbeta r. Krídlová	ded. po Vendelínovi Krídlovi	0	1164
+239	Dujsíková Alžbeta r. Stachovičová	súr. Mária, ded. po Márii Stachovičovej r. Kriedlovej -m. Štefan	0	1898
+239	Dujsíková Ana		0	2342
+239	Dujsíková Anastázia	súr. Ignác, Augustín, Rehor, Alojz	0	3820,3821,5496
+239	Dujsíková Anastázia	súr. Ignác, Augustín, Rehor, Alojz, ded. po Ignácovi Dujsíkovi - ž. Anna r. Gajdová	0	2295
+239	Dujsíková Anastázia	súrod. Ignác, Augustín, Rehor, Alojz	0	2405
+239	DUJSÍKOVÁ Anastázia		0	1554,2325,5099,5100
+239	Dujsíková Anna	otec: Štefan, súr.: Teofil, Agneša Bučková, Helena	0	1270,1332,1904,4934,4938,4939,4947,5180
+239	Dujsíková Anna	rod. Lenhard a Helena r. Hnátová, súr. Helena, Štefan, Terézia, Mária Čulenová	0	68,1084,1088,1089,1095,1113,1116,1164,1332,1334,1335,1338,1341,1554,2295,2342,2343,2483,4433,4437,4890,4938,4939,4944,5337
+239	Dujsíková Anna r. Čulenová	ded. po Jánovi Čulenovi	0	1088,1163,2483,4433,4890
+239	Dujsíková Anna r. Čulenová	súr. Leopold, Ferdinand, Mária, Rozália, ded. po Jánovi Čulenovi	0	1083,1089,1092,1094,1095,1113,1388,2586,4435,4625
+239	Dujsíková Anna r. Čulenová	súr. Leopold, Ferdinand, Mária, Rozália, ded. po Jánovi Čulenovi - ž. Mária r. Burská	0	4436
+239	Dujsíková Anna r. Čulenová	súr. Leopold, Ferdinand, Mária, Rozália, ded. po Jánovi Čulenovi -ž. Mária r. Snehotová	0	2513
+239	Dujsíková Anna r. Čulenová	súr. Leopold, Ferdinand, Mária, Rozália, ded. po Jánovi Dujsíkovi	0	1116,1164
+239	Dujsíková Anna r. Čulenová	súrod. Leopold, Ferdinand, Mária, Rozália	0	2507
+239	DUJSÍKOVÁ Anna r. Čulenová		0	1554,2514,5488
+239	DUJSÍKOVÁ Anna r. Čulenová, SR		0	1554
+239	Dujsíková Anna r. Gajdová	m. Ignác	0	1084,1335,4437,5337
+239	Dujsíková Anna r. Hnátová	zomr.19.4.1940, I.m. Št. Antálek, II.m. Št. Dujsík, rod. Jozef a Alž.r. Štvrtecká, súr.Im	0	1088,1089,1116,2365,2483,4433,4890
+239	Dujsíková Anna r. Hnátová	zomr.19.4.1940, I.m. Št. Antálek, II.m. Št. Dujsík, rod. Jozef a Alž.r. Štvrtecká, súr.Imr	0	3398
+239	Dujsíková Anna r. Neoveská	m.Vincent	0	5095
+239	Dujsíková Anna r. Trubirohová	m. Augustín, otec: Jozef, súr.: Adam, Ľudmila Dujsíková, Jozef, Ján, Terézia Fajtáková	0	1250,1468,1516,1554,2351,2786,3441,3462,3614,3657,4136,5560,5561,5641
+239	Dujsíková Anna r. Trubirohová	zomr. 22.11.1988, m. Jozef, rod. Alojz a Žofia r. Hladíková, súr. Antonín, Alojz	0	766,1084,1139,1421,1554,4437,5337
+239	Dujsíková Antónia r. Wasserbäcková		0	1088,2483,4433,4890
+239	Dujsíková Antónia r. Wasserbäcková	ded. po Alžbete Vasserbäckovej r. Maderičovej	0	1142
+239	Dujsíková Antónia r. Wasserbäcková	ded. po Alžbete Wasserbäckovej r. Maďaričovej	0	1086,1090,1140,1248,4444,4929,4930
+239	Dujsíková Antónia r. Wasserbäcková	ded. po Alžbete Wasserbäckovej r. Maderičovej	0	1116,1143,1145,4932,4933
+239	Dujsíková Antónia r. Wasserböcková	m. Matej, dedené po Alžbete Wasserböckovej r.Maderičovej	0	1139,4185
+239	Dujsíková Antónia r. Wasserböcková	súr. Ján, Antonín, ded. po Lorencovi Wasserböckovi	0	3347
+239	Dujsíková Bernardína	súr. Ignác, Mária, Klotilda, ded. po Gregorovi Dujsíkovi	0	1095
+239	Dujsíková Cecília r. Štvrtecká		0	1180,5444
+239	Dujsíková Emília r. Bíliková		0	3845
+239	Dujsíková Emília r. Bílliková	R 10.3.1893, dedené po Bedrichovi Dujsíkovi	0	1373
+239	Dujsíková Eva r. Štvrtecká		0	5226
+239	Dujsíková Eva r. Štvrtecká	1x vydatá Hesková, ded. po Jozefovi Štvrteckom	0	2483
+239	Dujsíková Eva r. Štvrtecká	súr. Mária Hlavenková, Anna Štvrtecká, ded. po Jozefovi Štvrteckom	0	1115
+239	DUJSÍKOVÁ Eva r.Štvrtecká		0	1554
+239	DUJSÍKOVÁ Hana		0	68
+239	Dujsíková Helena	maloletá, súr. Ján, Michal, Ferdinand, Metej, Terézia	0	1338
+239	Dujsíková Helena	rod.: Štefan a Ľudmila Trubirohová, súr.: Teofil, Agneša Bučková, Anna	0	1270,1332,1427,1904,4934,4938,4939,4947,5180
+239	Dujsíková Helena	súr. Ján, Michal, Ferdinand, Matej, Terézia	0	1084,4437,5337
+239	Dujsíková Helena r. Hnátová	kúpa od Mateja Hnáta, ded. po Zuzane Hnátovej r. Hnátovej	0	2077
+239	Dujsíková Helena r. Hnátová	m. Andrej	0	1095
+239	Dujsíková Helena r. Hnátová	m. Lenard	0	4107
+239	Dujsíková Helena r. Hnátová	m. Leonard	0	2342
+239	Dujsíková Helena r. Hnátová	súr. Jozef, Žofia, Štefan, Ignác, ded. po Zuzane Hnátovej	0	1089
+239	Dujsíková Helena r. Hnátová	súr. Jozef, Žofia, Štefan, Ignác, ded. po Zuzane Hnátovej r. Hnátovej	0	1095
+239	Dujsíková Helena r. Hnátová	vdova	0	5191
+239	Dujsíková Júlia r. Vlková	ded. po Rozálii Vlkovej r. Hladíkovej	0	2185
+239	Dujsíková Júlia r. Vlková	m. Ján, súr. Mária, Hedviga, Agneša, Ján, Teofil, Valent, Rozália, Jozef, Helena	0	1404
+239	Dujsíková Júlia r. Vlková	m. Ján, súr. Mária, Hedvika, Agneša, Ján, Teofil, Valent, Rozália, Jozef, Helena	0	2379
+239	Dujsíková Júlia r. Vlková	m. Ján, súrod. Mária, Hedviga, Agneša, Ján, Teofil, Vendelín, Rozália, Jozef, Helena	0	3346
+239	Dujsíková Júlia r. Vlková	m. Ján, súrod.Mária, Hedviga, Agneša, Ján, Teofil, Valent, Rozália, Jozef, Helena	0	2402
+239	Dujsíková Júlia r. Vlková	m.Ján	0	2325,5099,5100
+239	Dujsíková Júlia r. Vlková	m.Ján, súrod.Mária, Hedviga, Agneša, Ján,Teofil,Valent, Rozália, Jozef, Helena	0	2400
+239	Dujsíková Júlia r. Vlková	manž. Ján	0	1617
+239	Dujsíková Júlia r. Vlková	zom. 2.7.1979, m.Ján, súr.Mária, Hedviga, Agneša, Ján, Teofil, Valent, Rozália, Jozef, Hel	0	2401
+239	Dujsíková Júlia r. Vlková	zom.2.7.1979, m.Ján, súr.Mária, Hedviga, Agneša, Ján, Teofil, Valent, Rozália, Jozef, Hele	0	1370,2403,2405
+239	Dujsíková Júlia r. Vlková	zom.2.7.1979, súr.Mária, Hedviga, Agneša, Ján, Teofil, Valent, Rozália, Jozef, Helena	0	1212,2782,2784,4454,5396,5660
+239	DUJSÍKOVÁ Júlia r. Vlková		0	2324
+239	Dujsíková Juliana	č.d. 344	0	5293
+239	Dujsíková Klotilda	súr. Ignác, Mária, Bernardína, ded. po Rehorovi Dujsíkovi - ž. Alžbeta r. Dujsíková	0	4107
+239	Dujsíková Ľudmila	kúpa od Jozefa Trubirohu	0	1250
+239	Dujsíková Ľudmila	súr. J8n, Adam, Anna, Terézia kúpa od Jozefa Trubirohu	0	1388,2586,4625
+239	Dujsíková Ľudmila	súr. Ján, Adam, Jozef, Anna, Terézia, ded. po Jozefovi Trubirohovi	0	1388,2586,4625
+239	DUJSÍKOVÁ Ľudmila		0	1270,1468,1516,4934
+239	Dujsíková Ľudmila r. Trubirohová	m. Štefan	0	3614,3657,4136,5180,5560,5561
+239	Dujsíková Ľudmila r. Trubirohová	m. Štefan, súr. Anna, Adam, Jozef, Rozália, Terézia	0	3441
+239	Dujsíková Ľudmila r. Trubirohová	m. Štefan, súr. Ján, Anna, Adam, Jozef, Terézia	0	1250
+239	Dujsíková Ľudmila r. Trubirohová	m.Štefan	0	1270,4934
+239	Dujsíková Ľudmila r. Trubirohová	m.Štefan, súrod. Ján, Jozef, Adam, Anna, Terézia	0	3462
+239	Dujsíková Ľudmila r. Trubirohová	m.Štefan, súrod.Ján, Jozef, Anna, Adam, Terézia	0	2786,5641
+239	DUJSÍKOVÁ Ľudmila r. Trubirohová		0	1468,1516,1554,1575,1581,2351,2789
+239	DUJSÍKOVÁ Ľudmila r. Trubirohová	manž. Štefan	0	1554
+239	Dujsíková Mária		0	1084,4437,5337,5433
+239	Dujsíková Mária	mal. súr. Eva, Ján, Michal, Ferdinand, ded. po Michalovi Čulenovi	0	1089
+239	Dujsíková Mária	maloletá, súr. Augustín, Ján	0	1338
+239	Dujsíková Mária	maloletá, súr. Ján, Florián, Stanislav	0	1095
+239	Dujsíková Mária	maloletá, súrodenci: Florián, Stanislav	0	1334
+239	Dujsíková Mária	súr. Florián	0	4107
+239	DUJSÍKOVÁ Mária	maloletá	0	1336,4943
+239	Dujsíková Mária r. Čulenová	manže. Štefan, ded. po Leonardovi Dujsíkovi	0	1088,2483,4433,4890
+239	Dujsíková Mária r. Gulíšková		0	5011
+239	Dujsíková Mária r. Gulíšková	m. Martin	0	1341,4944
+239	Dujsíková Mária r. Gulíšková	m.Martin	0	1334,1554,5012
+239	Dujsíková Mária r. Gulíšková, Brodské, č. 652, PSČ 908 85, SR		0	3949
+239	Dujsíková Mária r. Jakubcová		0	1554
+239	Dujsíková Mária r. Makalová	m.Jakub	0	1554
+239	Dujsíková Mária r. Makalová	manž. Jakub, kúpa od Jána a Bedricha Dujsíka, Gašpara Dujsíka	0	1163
+239	Dujsíková Mária r. Makalová	manž. Jakub, kúpa od Jána a Bedricha Dujsíkových, Gašpara Dujsíka	0	1091
+239	Dujsíková Mária r. Makulová	kúpa od Gašpara Dujsíka	0	1116
+239	Dujsíková Mária r. Makulová	kúpa od Gašpara Dujsíka, Jána Dujsíka, Bedricha Dujsíka, Emílie Dujsíkovej r. Bílikovej	0	1088,2483,4433,4890
+239	Dujsíková Mária r. Makulová	kúpa od Gašpara, Jána, Bedricha Dujsíka	0	1338
+239	Dujsíková Mária r. Makulová	kúpa od Gašpara, Jána, Bedricha Dujsíka, Emílie Bilíkovej	0	1095
+239	Dujsíková Mária r. Makulová	m. Jakub	0	1084,1089,1335,1402,2782,4437,5337,5396
+239	Dujsíková Mária r. Makulová	m. Jakub, kúpa od Gašpara Dujsíka	0	1113
+239	Dujsíková Mária r. Makulová	M. Jakub, kúpa od Gašpara, Jána, Bedricha Dujsíka a Emílie Bilikovej	0	1164
+239	Dujsíková Mária r. Makulová	m. Jakub, kúpa od Jána, Bedricha Dujsíka a Emílie Billikovej	0	1116
+239	Dujsíková Mária r. Makulová	m.Jakub	0	1178,1332,1554,1918,3300,3845,4938,4939,5395
+239	Dujsíková Mária r. Makulová	m.Jakub, 20.11.1898	0	1373,3742,3891
+239	Dujsíková Mária r. Makulová	manž. Jakub	0	2788

@@ -1,0 +1,256 @@
+1916	VACA Michal		1	256,614,618,736,746,747
+1916	VACA Vasiľ		1	256,614,618,736,746,747
+1916	VACO Ignác		1	181,256,274,424,614,618,637,657,736,746,747,751
+1916	VACO Ignác, SR		1	607,608
+1916	VACO Ihnat	zomrel	0	733
+1916	VACO Ihnat, SR	zomrel	0	299,302,317,504,535,544,723
+1916	VACO Juraj		1	690
+1916	VACO Juraj, SR	mal.,zomrel	0	536
+1916	VACO Michal		1	274,643
+1916	VACO Michal, SR	ž.Zuzana Matiječková	1	643
+1916	VACO Michal, SR	ž.Zuzana Matijenková	1	181,424,607,608,615,646,751
+1916	VACO Michal, SR	ž.Zuzana Matijenková, zomrel	0	317,335
+1916	VACO Michal, SR	ž.Zuzana Matijenková,zomrel	0	299,302,349,504,535,544,723,733
+1916	VACO Vasiľ		1	181,274,424,615,637,643,646,657,751
+1916	VACO Vasiľ, SR		1	607,608
+1916	VACO Vasiľ, SR	mal	1	643
+1916	VACO Vasiľ, SR	mal,zomrel	0	544
+1916	VACO Vasiľ, SR	mal.,zomrel	0	299,302,317,335,349,504,535,723,733
+1916	VACOŠ Ján		1	633
+1916	VACOŠ Michal		1	633,637,657
+1916	VACOVÁ Alžbeta	mal	0	536
+1916	VACOVÁ Mária, SR	mal	1	609
+1916	VACOVÁ Olena r. Žaková, SR	m.Michal	1	615
+1916	VACOVÁ Olena r. Žaková, SR	m.Michal,zomrela	0	349
+1916	VACOVÁ Zuzana		1	256,274,614,618,637,736,746,747
+1916	VALOŠ Juraj		0	393
+1916	VALOŠOVÁ Juliana r. Kuzmová, SR	m.Juraj	0	393
+1916	VAŇOVÁ Anna		1	657,658
+1916	VASIĽKO Andrej		1	254,318,649,650,716,726,731
+1916	VASIĽKO Fedor	ž.Tatiana Chalčaková,zomrel	0	733
+1916	VASIĽKO Fedor, SR	ž.Tatiana Chalčáková	1	177,256,274,420,421,614,618,632,637,725,728,729,732,736,746,747
+1916	VASIĽKO Fedor, SR	ž.Tatiana Chalčaková,zomrel	0	302,506,507,524,525,544,723
+1916	VASIĽKO Fedor, SR	ž.Tatiana.Chalčaková,zomrel	0	299
+1916	VASIĽKO František		1	128,254,318,649,650,716,726,731
+1916	VASILKO Ján		1	177,254,274,318,632,637,649,650,716,726,731
+1916	VASILKO Ján, SR	PKV122	1	633
+1916	VASILKO Michal		1	177,256,614,618,632,633,637,736,746,747
+1916	VASIĽKO Michal, SR		1	178
+1916	VASIĽKO Michal, SR	1924	1	218,308,394,486,741
+1916	VASIĽKO Michal, SR	narodený 1924	1	605,606
+1916	VASIĽKO Michal, SR	PKV143	1	274
+1916	VASIĽKO Michal, SR	PKV17	1	254,318,420,649,650,716,725,726,731,732
+1916	VASIĽKO Vasiľ		1	274,633,637
+1916	VASIĽKO Vasil, SR	neb	1	218,308,394,486,605,606,741
+1916	VASIĽKO Vasiľ, SR		1	178
+1916	VASIĽKO Vasiľ, SR	PKV151	1	218,308,394,420,486,605,606,725,732,741
+1916	VASILKOVÁ Mária	r.Staroňová	1	256,614,618,736,746,747
+1916	VASIĽKOVÁ Mária		1	274,420,421,725,728,729,732
+1916	VASIĽKOVÁ Mária	mal.,zomrela	0	733
+1916	VASIĽKOVÁ Mária r. Hromadová, SR	m.Vasiľ	1	394,486,605,606,741
+1916	VASIĽKOVÁ Mária r. Staranyová	zomrela	0	733
+1916	VASIĽKOVÁ Mária r. Staranyová, SR	zomrela	0	299,302,544,723
+1916	VASILKOVÁ Mária, SR	mal	1	256,614,618,637,736,746,747
+1916	VASIĽKOVÁ Mária, SR	mal,zomrela	0	299,506
+1916	VASIĽKOVÁ Mária, SR	mal.,zomrela	0	302,507,524,525,723
+1916	VASIĽKOVÁ Olina r. Suchá, SR	m.Fedor	1	17
+1916	VASILKOVÁ Terézia		1	256,274,614,618,637,736,746,747
+1916	VASIĽKOVÁ Terézia, SR	mal,zomrela	0	506
+1916	VASIĽKOVÁ Terézia, SR	mal.,zomrela	0	299,302,507,524,525,723,733
+1916	VASIĽKOVÁ Zuzana		1	254,318,649,650,716,726,731
+1916	VAŠČÁKOVÁ Anna	r.Vasiľková	1	218,308,394,486,741
+1916	VAŠČÁKOVÁ Anna r. Vasiľková, SR		1	178,605,606
+1916	VAŠČÁKOVÁ Mária	r.Pančišinová	1	256,274,614,618,736,746,747
+1916	VAŠČÁKOVÁ Mária r. Pančišinová	m.Michal,zomrela	0	733
+1916	VAŠČÁKOVÁ Mária r. Pančišinová, SR	m.Michal, zomrela	0	299
+1916	VAŠČÁKOVÁ Mária r. Pančišinová, SR	m.Michal,zomrela	0	302,544,723
+1916	VAŠČÁKOVÁ Mária, SR	zomrela	0	506,507,524,525
+1916	VAŠKO Ján		0	393
+1916	VAŠKO Ján, SR	1	0	393
+1916	VAŠKO Michal		0	321
+1916	VAŠKO Michal, SR	1	0	393
+1916	VAŠKO Štefan		0	325,393
+1916	VAŠKOVÁ Júlia	mal	0	393
+1916	VAŠKOVÁ Mária	mal	0	393
+1916	VAŠKOVÁ Mária	r.Jahničková	0	325,393
+1916	VAŠKOVÁ Zuzana		0	393
+1916	VAŠKOVÁ Zuzana r. Balintová, SR	m.Ján	0	321,393
+1916	VISOKAYOVÁ Alžbeta	r.Pašková	0	453
+1916	VOVČKO Fedor		1	256,274,306,614,618,736,746,747
+1916	VOVČKO Fedor	zomrel	0	733
+1916	VOVČKO Fedor, SR	zomrel	0	299,302,491,505,544,723
+1916	VOVČKO Michal, SR	Anna Škumaničová, zomrel	0	305
+1916	VOVČKO Michal, SR	ž.Anna Škumaničová	1	306,652
+1916	VOVČKO Michal, SR	ž.Anna Škumaničová,zomrel	0	505
+1916	VOVČKOVÁ Anna	r.Ocetníková	1	127,378,394,486,665,740,741,744
+1916	VOVČKOVÁ Anna	r.Škumaničová	1	651
+1916	VOVČKOVÁ Anna r. Ocetníková, SR		1	605,606
+1916	VOVČKOVÁ Anna r. Ocetníková, SR	zomrela	0	519
+1916	VOVČKOVÁ Anna r. Skumaničová, SR	zomrela	0	304,354,356
+1916	VOVČKOVÁ Mária	r.Beňová	1	98,256,274,279,401,614,618,736,746,747
+1916	VOVČKOVÁ Mária r. Beňová, SR	vzdialená,zomrela	0	299,302,723,733
+1916	VOVČKOVÁ Olina r. Suchá, SR	m.Fedor	1	231
+1916	VOZŇÁK Ján	PKV75	0	449
+1916	VYSOKAJOVÁ Zuzana	r.Kernašovičová PKV78	0	454
+1916	WEISZ Adolf, SR	ž.ReginaMoškovičová	0	451
+1916	WINKLER Leopold		0	393
+1916	WINKLEROVÁ Etela	mal	0	393
+1916	WINKLEROVÁ Mariška	mal	0	393
+1916	ZAJAC Ladislav, SR	zomrel	0	298,303
+1916	ZAJACOVÁ Anna		0	393
+1916	ZOZULIČ Juraj	PKV49	0	439
+1916	ZVALČAK Michal		1	678,679
+1916	ZVALČAK Tomáš, SR	ž.Zuzana Mindošová	1	678,679
+1916	ZVALČAKOVÁ Anna, SR	ml	1	679
+1916	ZVALČAKOVÁ Mária		1	679
+1916	ZVOČ Andrej		1	683
+1916	ZVOČ Andrej, SR	zomrel	0	483
+1916	ZVOČOVÁ Zuzana	r.Žaková	1	306,616,652,672,681,742,745
+1916	ZVOČOVÁ Zuzana r. Žaková	zomrela	0	517,708,709
+1916	ZVOČOVÁ Zuzana r. Žaková, SR	zomrela	0	305,505,516,529,530
+1916	ŽAK Fedor	mal	0	299,317,335,504,544
+1916	ŽÁK Fedor		1	274,414
+1916	ŽAK Fedor, SR	1,zomrel	0	334
+1916	ŽAK Fedor, SR	mal	0	302,723,733
+1916	ŽAK Fedor, SR	mal,1	0	299
+1916	ŽAK Fedor, SR	mal.,1	0	302,535,544,723,733
+1916	ŽAK Fedor, SR	PKV63	1	256
+1916	ŽAK Fedor, SR	ž.Mária Sobjaková,zomrel	0	304,316,354,356
+1916	ŽAK Fedor, SR	ž.Mária Sovjaková	1	181,550,611,651
+1916	ŽAK Fedor, SR	ž.Mária.Sobjaková,zomrel	0	300
+1916	ŽAK Fedor, SR	ž.Mária.Sovjaková	1	21
+1916	ŽAK Fedor, SR	ž.Zuzana Žáková,zomrel	0	349
+1916	ŽAK Ján		1	256,274,299,302,544,614,618,723,733,736,746,747
+1916	ŽAK Ján, SR	ž.Mária Holová	1	611
+1916	ŽAK Ján, SR	ž.Mária Holová,zomrel	0	300,316
+1916	ŽAK Ján, SR	ž.Mária.Holová	1	21
+1916	ŽÁK Michal		1	256,274,618,736,746,747
+1916	ŽAK Michal, SR	1,zomrel	0	299,302,723,733
+1916	ŽAK Michal, SR	PKV63	1	256
+1916	ŽAK Michal, SR	syn Štefana	1	43,615,637,651,659
+1916	ŽAK Michal, SR	syn Štefana,zomrel	0	349
+1916	ŽAK Michal, SR	zomrel	0	304
+1916	ŽAK Michal, SR	ž.Terézia Suchá	1	256
+1916	ŽAK Štefan		1	256,274,424,614,618,637,643,651,736,746,747,751
+1916	ŽAK Štefan, SR	1	0	299,302,535,723,733
+1916	ŽAK Štefan, SR	2,zomrel	0	299,302,544,723,733
+1916	ŽAK Štefan, SR	zomrel	0	304
+1916	ŽAK Vasiľ		1	651
+1916	ŽAK Vasiľ, SR	zomrel	0	304
+1916	ŽAK Vasiľ, SR	ž.Mária Lechanová	1	651
+1916	ŽAK Vasiľ, SR	ž.Mária Lechanová,zomrel	0	304
+1916	ŽÁK-MICKO Michal, SR	ž.Terézia Suchá	1	274
+1916	ŽAKOVÁ Alžbeta, SR	mal	1	637
+1916	ŽAKOVÁ Anna	r.Vacošová	1	633
+1916	ŽAKOVÁ Anna, SR	mal	1	43,637,659
+1916	ŽAKOVÁ Helena		1	181,615,637,646,659
+1916	ŽAKOVÁ Helena, SR		1	43,607,608
+1916	ŽAKOVÁ Helena, SR	mal.,zomrela	0	317,335,349,504
+1916	ŽAKOVÁ Mária		1	181,256,274,614,618,637,643,736,746,747
+1916	ŽAKOVÁ Mária	maloletá	1	299,302,317,335,504,544,646,659,723,733
+1916	ŽAKOVÁ Mária	r.Kirešová	0	492
+1916	ŽAKOVÁ Mária r. Kirešová		0	502,503
+1916	ŽAKOVÁ Mária, SR		1	43,607,608
+1916	ŽAKOVÁ Tatiana r. Beňová, SR	zomrela	0	299,302,723,733
+1916	ŽAKOVÁ Zuzana		1	181,256,274,299,302,317,335,504,544,614,618,643,646,659,723,733,736,746,747
+1916	ŽAKOVÁ Zuzana, SR		1	43,607,608
+1916	ŽELIARI- KANTOR-URBÁRI-GRECKOKATOLÍCKY KŇAZ, SR		1	390
+1916	ŽIDZIK Andrej		0	452
+1916	ŽIDZIK Ján	PKV194	0	450
+1916	ŽIDZIK Juraj	PKV194	0	450
+1917	Árgyusi Gejza		0	1853
+1917	Árgyusi Ladislav		0	1853
+1917	Árgyusová Terézia r. Lebotová		0	1258
+1917	Barnoki Eugen		0	1807
+1917	Barnoki Ján		0	1807
+1917	Barnokiová Juliana r. Véghová		0	1347
+1917	Barnokiová Mária		0	1807
+1917	Bartal Vojtech		0	1022,1023,1024,1390,1818,2081
+1917	Bartalová Etela r. Méhesová		0	993,997,1068,1165,1169,1170,1711,1714,1715,1716,1733,1842,2082,2083,2084
+1917	Bartalová Gizela		0	1022,1023,1024,1390,2081
+1917	Bartalová Mária		0	1022,1023,1024,1390,2081
+1917	Bartalová Mária r.Méhes		0	1556
+1917	Bartalová Rozál r. Miklósová		0	1422
+1917	Bartalová Zlatica		0	1022,1023,1024,1390,2081
+1917	Belko Cyril		0	1783
+1917	Belko Gustáv		0	1783
+1917	Belko Ján		0	1783
+1917	Belko Jozef		0	1783
+1917	Belko Vitus		0	1783
+1917	Belková Anna r. Slezáková		0	1783
+1917	Belková Helena		0	1783
+1917	Benceová Etela r. Méhesová		0	1197
+1917	Bénešová Mária r. Véghová		0	1455
+1917	Benkovszký Vendelín		0	1258
+1917	Benkovszkyová Eleonóra		0	1076
+1917	Benkovszkyová Mária r. Sükeová		0	1373
+1917	Bereczk Júlia		0	1342
+1917	Berényiová Cecília		0	1136
+1917	Bernáth Karol		0	1059
+1917	Besziková Alžbeta r. Matusová		0	1811,1813
+1917	Bíróová Rozália		0	1748
+1917	Bogyai Július		0	1113,1357
+1917	Bogyai Štefan		0	1357,1826
+1917	Bogyaiová Janka		0	1357,1826
+1917	Borárosová Mária r. Méhesová		0	1282,1319,1554,1566,1595,1609,1610
+1917	Borbély Gejza		0	1258,1854,1858
+1917	Borbély Jozef		0	1258
+1917	Borbélyová Helena		0	1258,1854
+1917	Borbélyová Terézia		0	1858
+1917	Csaplár Peter	otec Csaplár Ján a manž. Szabóová Mária	0	1455
+1917	Csaplár Rudolf		0	1333
+1917	Csaplárová Helena r. Szabóová		0	1434,1748
+1917	Csiba Štefan		0	1258
+1917	Csibaová Magdaléna r. Kalmárová		0	1258
+1917	Csibrányi Alexander		0	1751,1752
+1917	Csibrányi Ján	Mosonmagyaróvár, Budai út 38, MR	0	1751,1752
+1917	Csibrányi Jozef		0	1751
+1917	Csibrányi Ladislav		0	1751,1752
+1917	Csókaová Justina r. Nagyová		0	997,1044,1071,1165
+1917	Czima Etela r. Sieglová		0	993,997,1068,1165,1169,1711,1715,1716,1733,1842,2082,2083
+1917	Czinaová Etela r.Siegl		0	1556
+1917	Darnay Jozef		0	1051,1053,1113
+1917	Darnay Ladislav		0	1051,1053,1113
+1917	Darnay Ľudovít		0	1051,1053,1113
+1917	Dentelbaumová Janka		0	1832
+1917	Fehér Vojtech r. Fehér		0	1851
+1917	Fekete Jozef		0	1136
+1917	Feketeová Etela r. Nagyová		0	1068,1071,1072,1165,1221,1891
+1917	Feketeová Mária		0	1064,1139
+1917	Fényszarusi Peter	bytom Vrakúň č. 154	0	1477
+1917	Fischerová Viktoria r. Véghová		0	1345
+1917	Fleischmann Ján		0	996
+1917	Gódány Árpád		0	1258
+1917	Gódányová Mária r. Ürögiová		0	1258
+1917	Gravecová Terézia r. Kántorová		0	1805
+1917	Hegedűs Alexander r. Hegedűs		0	1809,2091
+1917	Hegedűs Július r. Hegedűs		0	1809,2091
+1917	Hegedűsová Etela		0	1809,2091
+1917	Hegedűsová Mária		0	1809,2091
+1917	Hegedűsová Roza		0	1809,2091
+1917	Hegyiová Cecília r. Méhesová		0	1566
+1917	Hervay Antal		0	1845
+1917	Hervay Ferdinand r. Hervay		0	1753
+1917	Hölgyeiová Mária Viola		0	1136
+1917	Horváthová Irena		0	1747
+1917	Hozák Imrich		0	1258
+1917	Hozáková Paulína r. Pastoriková		0	1258
+1917	Húsvéth Jozef		0	1064,1139
+1917	Húsvéthová Izidóra		0	1165
+1917	Huszár František		0	1136
+1917	Janicsková Olga r. Lászlóová		0	1611
+1917	Józan Ľudovít		0	1054,1104
+1917	Juhász Jozef		0	1777,1778
+1917	Kántor Gabriel		0	1756,1789
+1917	Kántor Ján		0	1004,1577,1641
+1917	Kántor Jozef		0	1773
+1917	Kántor Lorenc		0	1836
+1917	Kántor Štefan r. Kántor		0	1821
+1917	Kántorová Alžbeta		0	1006,1578,1756,1789
+1917	Kántorová Antónia		0	1641
+1917	Kántorová Eva r. Kósaová		0	1404
+1917	Kántorová Katarína		0	1756,1789
+1917	Kántorová Mária		0	1004,1577,1641
+1917	Kántorová Rozália r. Szőkeová, Feked, MĽR		0	1547
+1917	Katona Jozef		0	1258,1852
+1917	Katona Rudolf		0	1064,1068,1139,1165

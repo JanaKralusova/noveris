@@ -1,0 +1,256 @@
+920	Peťková Katarína	Lejková	1	1075
+920	Peťková Mária	Harinová	0	1841
+920	Pochyba František		0	1582,1583,1703,1768,2154
+920	Pochyba Peter		0	1681,1703
+920	Pochyba Štefan		1	549,641,642,643,644,645,647,648,649,650,652,653,654,655,656,778,869,1048,1081,1084,1086,1172,1193,1201,1350,1351,1511,1657,1696,1697,1703,1768,1825,1826,1933,2154,2362,2375,2376,2470
+920	Pochybová Mária	Prančíková, Dátum úmrtia: 21.08.1974	0	1728
+920	Prančík Ondrej		1	1086
+920	Prančíková Anna	Ťapčiová	0	1500
+920	Repík Ján	Starší	1	1086
+920	Repíková Katarína	Birvoňová	1	788,792,859,860,866,867,876,884,911,999,1005,1012,1020,1031,1047,1058,1076,1083,1087,1099,1134,1136,1154,1160,1170,1184,1195,1229,1556,2233,2428,2430,2434,2435,2474
+920	Richtáriková Emília	Peťková	1	758,1226,1658
+920	Rosenfeldová Rozália	Hahnová Dr	1	600,1126,1127
+920	Shrbená Mária	Mokošová	1	476,477,545,549,622,643,644,645,647,648,649,650,652,654,655,656,669,704,705,794,822,832,846,863,869,872,900,906,959,1003,1011,1017,1019,1039,1048,1081,1084,1156,1167,1172,1193,1350,1519,1602,1635,1768,1777,1778,1814,1824,1860,1917,2154,2172,2375,2376,2470,2487
+920	Schaferová Irena	Hahnová Dr	1	600,1126,1127
+920	Schnierová Emília	Barošová	0	1840,1841
+920	Schnierová Mária	Barošová	1	824,1220,1234,1239,1840,1841
+920	Sidová Helena	Buchtová	1	739,1260
+920	Skybová Katarína	Hatalová	0	451
+920	Sokol Albín		1	1275,1804
+920	Sokol Harin Ján		1	784,859,860,866,867,876,884,911,999,1005,1012,1020,1031,1047,1058,1076,1083,1087,1097,1134,1136,1149,1154,1160,1170,1184,1195,1553,2430,2434
+920	Sokol Ján		1	720,843,855,887,909,910,916,997,1010,1021,1029,1085,1086,1150,1173,1174,1185,1191,1199,1200,1250,1270,1610,1614,1797,1918,1919,1920,2205,2431,2432
+920	Sokolová Katarína	Milanová	1	657
+920	Spišiaková Zuzana	Birvoňová	1	886,898,995,998,1014,1032,1038,1049,1054,1565,1734
+920	Stolár Ján		1	476,622,1635
+920	Stolar Pavol		1	1086,1114,1212
+920	Stolárová Margita		0	1664,1748,1766,1900
+920	Stolárová Mária		0	1480,1501,1552,1596,1710,1836,2214
+920	Stolárová Mária	Hariňová	0	1537
+920	Stollárová Alžbeta	Kučerová	1	1041,1096,1109,1110
+920	Stollárová Alžbeta	Kučerová; LSR	0	664
+920	Stollárová Margita		1	1130
+920	Stollárová Mária	Hariňová	1	909,910
+920	Stuláková Mária	Hariňová Jurčová	1	692,806,1548,1587,1807,2157
+920	Szeif Anna		1	1159
+920	Szeifová Anna		0	1741
+920	Škarpichová Anna	Mokošová	1	144,552,553,657,658,660,661,662,665,666,668,669,670,671,672,673,823,900,959,1132,1161,1169,1704,1769,1924,2450
+920	Škarpichová Anna	Mokošová; LSR	0	663,664
+920	Štulák Andrej		0	1568
+920	Štulák Ján		0	1439,1568,1759,1816
+920	Šturek Hariň Jozef		1	1914
+920	Šturek Ján	Vyšný	0	1625
+920	Šturek Tomáš		0	1499,1500,1501
+920	Štureková Anna	Macková	0	1499,1500,1501
+920	Štureková Žofia		0	1649
+920	Šulek Anton		0	1652
+920	Šulek Štefan		0	1615
+920	Šulíková Helena	Hariňová	0	1650
+920	Švošová Anna	Chylová	1	547,679,680,681,682,754,913,914,1146,1376,1736,2215,2225,2242,2377,2421,2422,2423,2424,2425
+920	Ťapsiová Gebricová Mária		1	964
+920	Ťapší Ján		1	598,623,624,626,628,685,686,687,688,731,1015,1090,1091,1103,1128,1163,1165,1179,1182,1203,1275,1634,1662,1708,1716,1762,1765,1770,1771,1804,2368,2471
+920	Ťapší Jozef		1	560,674,675,1023,1037,1721,2264
+920	Ťapší Karol		1	733,849,856,857,861,868,882,1107,1108,1131,1145,1148,1153,1162,1168,1171,1176,1196,1197,1198,1638,1667,1772,1906,1907,2267
+920	Ťapšiová Katarína	Stolárová	1	797
+920	Ťapšiová Katarína	Stolárová,zomrela 29.2.1952	0	1839
+920	Ťapšiová Katarína r. Stolárová	zomrela 29.2.1952	1	1195
+920	Ťapšiová Katarína r. Stolárová	zomrela 29.2.1952; zomrela 29.2.1952	1	911
+920	Ťapšiová Mária		1	1289,1490,1910
+920	Tomčiak Gabriel		1	1086
+920	Urban Holota Eduard		0	1663
+920	Urbanová Mária	Stolárová	1	906
+920	Valachová Anna	Janecká Mokošová	1	623,686,955,1143,1147,1163,1165,1244,1274
+920	Valachová Anna	Janecká Mokošová, Dátum úmrtia: 08.01.1978	0	1676,1729
+920	Vavríková Anna	Pechotárová	1	655
+921	.... SPF		1	588
+921	Andrássy Šandor, SR	gróf	1	925
+921	Argyelánová Anna r. Ehlertová, SR	vd	1	945,946
+921	Artimovics Štefan, SR		1	809
+921	Bacsánszka Anna, SR	r. Gyuková, manž. Michal	1	609
+921	Bača Juraj, SR	1	1	659,898
+921	Bačo Ján, SR	manž.Alžbeta Balintová	1	675
+921	Bačo Michal, SR	a manž.Barbora r.Balintová	1	849
+921	Bačo Michal, SR	slob.syn Alžbety	1	710
+921	Bajzáthová Mária r. Tothová, SR		1	654
+921	Bálint Andrej, Hrčeľ, č. 131, PSČ 076 15, SR	ž.Anna r.Vargová nár.19.9.1897 zomr. 1.12.1975	0	791
+921	Bálint Michal, SR	a manž.Mária r.Pustayová	1	764
+921	Bálint Štefan, SR	mal. bytom Veľaty	1	945,946
+921	Bálintová Anna r. Mihalčíková, SR	m. Michal Veľaty	1	945,946
+921	Bálintová Anna r. Vargová, PSČ 07615, Hrčeľ, č. 131, SR		0	791
+921	Bálintová Anna, SR	r. Mihalčíková, manž. Michal Veľaty	1	751,752
+921	Bálintová Mária r. Vasiľová, SR		1	629
+921	Bálintová Mária, SR	r. Vaszilyová, manž. Michal	1	638,645
+921	Balla Andrej, SR	Zuzana r.Bačová	1	698
+921	Balog Ján, SR	m.Alžbeta r.Toroniová	1	699
+921	Balogová Júlia r. Demeterová, SR	vd.m.Andrej	1	676
+921	Banduľa Ján, SR	syn Jána	1	945,946
+921	Barna Andrej, SR	slobodný syn Štefana	1	673
+921	Barnová Mária r. Petro-Fedorová, SR		0	400
+921	Barnová Mária r. Petrová, SR	m.Štefan	1	776
+921	Baška Michal, SR	ž. Alžbeta r. Kotušová	1	945,946
+921	Bašková Anna r. Snapová, SR	vd	1	945,946
+921	Bobik András, SR	ž. Erzsébéttel r. Petricsko	1	945,946
+921	Bobik Ján, SR	manž. Mária, r. Kmeťová	1	821
+921	Bobiková Barbora r. Bodnárová, SR		0	201,205
+921	Bobiková Mária r. Ihnátová, SR		1	822
+921	Bodnár Andrej		0	350
+921	Bodnár Andrej, SR		0	351
+921	Bodnár Andrej, SR	2	1	945,946
+921	Bodnár Andrej, SR	3	1	945,946
+921	Bodnár Andrej, SR	ž. Mária r. Mihalčíková	1	945,946
+921	Bodnár Ján		0	350
+921	Bodnár Ján, SR	10	1	599,897,904
+921	Bodnár Ján, SR	4	1	602
+921	Bodnár Ján, SR	5	1	932
+921	Bodnár Ján, SR	8	1	600,602,608,915
+921	Bodnár Ján, SR	manž. Mária, r. Timková	1	600,602,608,613,623,897,915
+921	Bodnár Ján, SR	manž. Mária, r. Timková, manž. Mária, r. Timková	1	902
+921	Bodnár Ján, SR	ž.Alžbeta r.Repovská	1	828
+921	Bodnár Jozef, SR	otec Ján matka Anna r.Horňáková	1	811
+921	Bodnár Juraj, SR		0	349
+921	Bodnár Juraj, SR	ž. Mária r. Puhková	1	945,946
+921	Bodnár Juraj, SR	ž.Mária r. Puhková	0	349
+921	Bodnár Michal, SR	1	1	936
+921	Bodnár Michal, SR	6	1	600,602,608,915
+921	Bodnár Michal, SR	7	1	599,897,904
+921	Bodnár Michal, SR	vdovec	1	714
+921	Bodnár Štefan, SR	6	1	932
+921	Bodnár Štefan, SR	ž.Anna r. Tomková	0	344
+921	Bodnár Štefan, SR	ž.Anna r.Tomková	0	281,345
+921	Bodnár Štefan, SR	žena Anna r.Bodnárová	1	740,897
+921	Bodnárová Alžbeta r. Repovská, SR	M.Ján	1	828
+921	Bodnárová Alžbeta r. Repovská, SR	m.Juraj	1	828
+921	Bodnárová Alžbeta, SR	r. Jágerová, manž. Michal	1	904
+921	Bodnárová Júlia		0	350
+921	Bodnárová Júlia, SR	1	1	945,946
+921	Bodnárová Júlia, SR	2	1	945,946
+921	Bogda Ján, SR	m. Anna r. Kolesárová	1	945,946
+921	Bohinský Andrej, SR	ž.Anna r. Čarná	1	848
+921	Capová Anna r. Vašková, SR		1	532,831,945,946
+921	Capová Jozefína, SR	mal	1	945,946
+921	Capová Mária r. Jalčová, SR	m. Andrej	1	945,946
+921	Celetárová Mária r. Mihalčiková, PSČ 07615, Hrčeľ, č. 62, SR		0	649
+921	Cselepovszky Jozef, SR	manž. Anna, r. Jakabová	1	813
+921	Csopko Ján, SR		0	308
+921	Czeletárová Mária, SR	r. Mihalcsiková, manž. Michal	1	649
+921	Czibere Michal, SR	ž.Mária r. Tomková	0	344
+921	Czibere Michal, SR	ž.Mária r.Tomková	0	281,345
+921	Čelovský Jozef, SR		1	800
+921	Čeľovsky Jozef, SR	m. Anna r. Jakabová	1	945,946
+921	Čuchráč Ján, SR	m. Anna r. Štefanková	1	945,946
+921	Čuchrač Juraj, SR		1	945,946
+921	Čuchráč Michal, SR	syn Jána	1	945,946
+921	Demeová Mária r. Horosová, SR		1	937
+921	Dimun Ján, SR	manž. Helena, r. Takáčová	1	646
+921	Dimunová Helena, SR	r. Takáčová, manž. Ján	1	646
+921	Doci Michal, SR		1	945,946
+921	Dociová Anna r. Puhkiová, SR		1	860,871,945,946
+921	Drab Juraj, SR		1	755,945,946
+921	Drapová Mária r. Džupinová, SR		1	582
+921	Dudáš Ján, SR	manž.Mária r.Balintová	1	697
+921	Dudášová Mária r. Ferenčíková, SR		1	882,885
+921	Dziaková Anna r. Mihalčiková, 075 01, Nový Ruskov - Malý Ruskov, č. 7, SR		1	643,791
+921	Dzupina Michal, SR	manž. Mária, r. Bilyová	1	733,911
+921	Džudža Peter, SR	m.Júlia r.Chimaľová	1	663
+921	Džupina Ján, SR		1	582
+921	Džupina Ján, SR	2	1	582
+921	Džupinová Mária, SR	r. Bilyová, manž. Michal 1	1	911
+921	Egrecká Alžbeta, SR		1	945,946
+921	Egrecká Mária, SR	mal	1	945,946
+921	Egrecký Ján, SR		1	945,946
+921	Fečkaninová Alžbeta r. Balintová, SR	m.Juraj	1	700
+921	Fekete Anna	mal	0	1023
+921	Fekete Ján		0	1023
+921	Fekete Mária		0	1023
+921	Fekete Michal		0	1023
+921	Fekete Michal, SR		1	881
+921	Fekete Michal, SR	m.Barbora r.Džupinová	1	783
+921	Feketeová Jana, SR		1	881
+921	Feketeová Mária, SR		1	881
+921	Feketová Mária r. Jehová, SR		1	731
+921	Feketová Mária r. Jechová		0	1023
+921	Ferenčik Andrej, SR		1	882,885
+921	Ferenčik Andrej, SR	1	1	882
+921	Frankovič Michal, SR		1	619
+921	Frankovičová Anna r. Ferenčíková, SR		0	243,244,245
+921	Frankovitsová Zuzana, SR	r. Hrivnyáková, manž. Ján	1	619
+921	Gajdošová Mária, SR	r. Volčková, vd. manž. Andrej	1	734
+921	Géci Andrej, SR		1	945,946
+921	Géci Michal, SR		1	945,946
+921	Geci Mikuláš, SR	m.Helena r. Žoldošová	1	945,946
+921	Geciová Anna r. Mihalčiková, SR		1	603
+921	Geciová Helena r. Árvaiová, SR	vd	1	945,946
+921	Géciová Mária r. Ferenčíková, SR	m. Andrej	1	945,946
+921	Gomboš Andrej, SR	nezl.nar.16.5.1922+zomrel	1	888
+921	Gomboš Ján, SR	ž.Mária r.Barnová	1	576
+921	Gomboš Michal, SR	ml. + zomrel	1	888
+921	Gros Mikuláš, Dr., SR		1	945,946
+921	Gubanič Andrej, SR	syn Andrej	1	945,946
+921	Gubanič Michal, SR	m. Anna r. Vašková	1	945,946
+921	Gubanič Michal, SR	m. Mária r. Salayová	1	945,946
+921	Gubaničová Anna r. Vašková, SR	m.Michal	1	945,946
+921	Habšanská Alžbeta r. Michalčíková, SR	v Amerike	1	643
+921	Habzsánszka Alžbeta, SR	r. Mihalcsiková, manž. Michal	1	604
+921	Habžanská Alžbeta r. Mihalčíková, SR		0	440
+921	Habžanská Alžbeta r. Mihalčíková, SR	1	1	611
+921	Hačko Andrej, SR		1	878
+921	Hagyiczká Alžbeta, SR	r. Szegediová, manž. Jozef	1	929
+921	Hatalovská Mária r. Suňogová, SR		1	945,946
+921	Helmecziová Mária, SR		1	809
+921	Honig Dezider, SR	Dávid	1	916,918
+921	Horáni Jozef, SR		1	945,946
+921	Horáni Jozef, SR	m. Mária r. Némethová	1	945,946
+921	Horanyi Jozef, SR		1	942
+921	Horányi Jozef, SR	2	1	593
+921	Horányiová Mária r. Nemetová, SR		1	593,942,945,946
+921	Horňák Štefan, SR	m. Anna r. Jurková	1	945,946
+921	Horňáková Anna r. Bodnárová, SR		1	945,946
+921	Horňáková Anna r. Onofreiová, SR		0	493,494
+921	Horonyi Jozef, SR		1	947
+921	Hreha Ján		0	281
+921	Hreha Ján, SR		1	616
+921	Hreha Ján, SR	ž.Anna r.Girmanová	1	616
+921	Hrehová Alžbeta r. Mihalčiková, SR	2	1	639,923
+921	Hrehová Alžbeta r. Mihalčíková, SR		0	525
+921	Hrehová Alžbeta r.Mihalčíková		0	511,512
+921	Hrehová Anna r. Bodnárová, SR	1	1	599,600,602,608,897,904,915
+921	Hrehová Helena r. Mihalčiková, SR		1	637
+921	Hric Jozef, SR		0	501
+921	Hric Jozef, SR	žena Anna r.Kolesárová	1	811
+921	Hricová Anna r. Kolesárová, SR		1	501,811
+921	Hrivnyáková Mária, SR	r. Hegedusová, manž. Ján	1	653
+921	Hudáková Anna r. Jalčová, SR		0	528
+921	Ihnátová Elena, SR		1	822,945,946
+921	Ihnátová Mária, SR	mal	1	822
+921	Jacko Ján, SR	m. Alžbeta r. Segiňková	1	945,946
+921	Jacko Michal, SR		1	751
+921	Jacková Helena r. Bobiková, SR		0	348
+921	Jakabová Mária, SR	mal. bytom Veľaty	1	900
+921	Jakabová Mária, SR	mal.bytom Veľaty	1	662
+921	Jalcs Michal, SR	m. Mária r. Lakatosová	1	945,946
+921	Jalcs Michal, SR	manž. Mária, r. Lakatosová	1	824
+921	Jalč Andrej, SR		0	528
+921	Jalč Michal, SR		0	528
+921	Jalčová Mária r. Ďurková, SR	m. Juraj	1	945,946
+921	Jalčová Mária r. Jurková, SR	vd. , m. Michal	1	945,946
+921	Jalčová Mária r. Racová, SR		0	528
+921	Janošková Elena r. Petričková, SR		1	789
+921	Janošková Helena, SR	r. Petričková, manž. Andrej	1	817
+921	Javorský Mikulaš, SR		1	945,946
+921	Jeh Ján, SR		1	731
+921	Jeho Michal, SR		1	731
+921	Juhasová Alžbeta r. Petričková, SR		0	426
+921	Kačmár Andrej, SR	zomrel v r.1945	1	882,885
+921	Kačmárová Anna r. Ferenčíková, SR	vd	1	885
+921	Kačmarová Anna r. Leščišinová, SR	+zomrela	1	839
+921	Kačmárová Barbora r. Ferenčiková, SR	vd	1	882,885
+921	Kakaš Michal, SR		0	319
+921	Kakašová Anna, SR	r. Mihalčiková, manž. Michal	1	583,649,919
+921	Kandalik Michal, SR	ml.ž.Anna r.Dučová	1	687
+921	Kelečeni Ján, SR	ž.Helena r.Fedorová	1	688
+921	Kempec Michal, SR		0	380,381,382,384,400
+921	Kmeť Michal, SR		1	792,945,946
+921	Kmeťová Anna r. Fedorová, SR	vd. , m. Ján	1	945,946
+921	Kocák Michal, SR	mal	1	789
+921	Kocáková Mária, SR	mal	1	789
+921	Kohut Ján, SR	ž.Alžbeta r.Ballová	1	701
+921	Kohútová Anna r. Frankovičová, SR	nar.9.4.1892 zomrela	1	619,852

@@ -1,0 +1,256 @@
+3176	Tóthová Barbora r. Mészárošová	m. Ján	1	722,731,744,774,778,781,858,1021,1040,1041,1042,1043,1046,1061,1062,1150,1161
+3176	Tóthová Emma r. Kissová	m. Juraj	1	625,1061
+3176	Tóthová Helena r. Kovácsová	m. Štefan	1	774,821,1040,1041,1044,1062,1150,1161
+3176	Tóthová Helena r. Kovácsová	m.Štefan	1	702
+3176	Tóthová Helena r. Lukácsová		1	803,888,931,1044
+3176	Tóthová Helena r. Nováková		1	845
+3176	Tóthová Irena r. Ignáczová	m. Ján	1	722,774,1040,1041,1150,1161
+3176	Tóthová Júlia r. Csizsmárová	m. Jozef	1	1042,1043
+3176	Tothová Júlia r. Fedáková		1	1136
+3176	Tóthová Júlia r. Ivánová	m. Jozef	1	1042,1043
+3176	Tóthová Júlia r. Ivánová	m. Štefan	1	724,744,749,774,1040,1041,1150,1161
+3176	Tóthová Júlia r. Tóthová	m. Ján	1	1021
+3176	Tóthová Mária	mal	1	722,731,774,1040,1041,1042,1043,1055,1150,1161
+3176	Tóthová Mária	maloletá	1	626
+3176	Tóthová Mária r. Foldháziová	m. Andrej	1	722,731,744,774,781,794,1040,1041,1042,1043,1150,1161
+3176	Tóthová Mária r. Földháziová	m.Andrej	1	1055
+3176	Tóthová Mária r. Ivanová		1	885,1062
+3176	Tóthová Mária r. Ivanová	vd	1	1061
+3176	Tóthová Mária r. Ivánová	m. Ján	1	744,761,857,870,1061
+3176	Tóthová Mária r. Ivánová	m. Ľudovít	1	748,774,905,1040,1041,1042,1043,1150,1161
+3176	Tóthová Mária r. Ivánová	m.Ján	1	1055
+3176	Tóthová Mária r. Ivánová	m.Ľudovít	1	691
+3176	Tóthová Mária r. Jánosiová	m. Alexander	1	1021
+3176	Tóthová Mária r. Kiss Ivánová		1	1061,1062
+3176	Tóthová Mária r. Kissová	m. Ivan	1	781,858
+3176	Tóthová Mária r. Lizáková		1	695,712,752,812,994,1030,1036,1061
+3176	Tóthová Mária r. Lukácsová	m. Alexander	1	774,1040,1041,1061,1062,1150,1161
+3176	Tóthová Mária r. Majorosová	m.Peter	1	774,1040,1041,1150,1161
+3176	Tóthová Mária r. Majorošová	m. Peter	1	722,731,762,774,781,794,1040,1041,1042,1043,1150,1161
+3176	Tóthová Mária r. Majorošová	muž Peter	1	676
+3176	Tóthová Mária r. Nagyová	m. Peter	1	1061,1062,1095
+3176	Tóthová Mária r. Nováková	m. František	1	1042,1043
+3176	Tóthová Mária r. Tomoryová		1	1061,1062
+3176	Tóthová Mária r. Tomoryová	m. Ján	1	791,869,1046
+3176	Tóthová Mária r. Tóthová	m. Žigmund	1	800,879,880,1046,1061,1062,1095
+3176	Tóthová Terézia r. Fulajtárová		1	1021
+3176	Tóthová Zuzana		1	744,1055
+3176	Trelyó Ján		1	904
+3176	Uhrinová Anna		1	669
+3176	Urbán Štefan	ž.Jolana r.Vargová	1	806,1136
+3176	Urbánová Jolana r. Urbánová	m.Ján	1	1074
+3176	Urbánová Jolanna r. Vargová		1	806,1136
+3176	Uveges Ján		1	1021,1042,1043
+3176	Uveges Jozef	ž. Fány r. Pásztorová	1	1061,1062
+3176	Uveges Jozef	ž. Jana r. Pásztorová	1	1042,1043
+3176	Uveges Jozef	ž. Júlia r. Szalakiová	1	774,850,1040,1041,1042,1043,1150,1161
+3176	Uveges Ľudovít		1	850
+3176	Uveges Ľudovít	malol	1	850
+3176	Uveges Ľudovít	syn Jozefa	1	1084
+3176	Uvegesová Alžbeta r. Jánosiová	m. Alexander	1	851,1061,1062,1125
+3176	Uvegesová Fanny r. Pásztorová	m. Jozef	1	1042,1043,1061,1062,1084
+3176	Uvegesová Jana r. Pásztorová	m. Jozef	1	1042,1043
+3176	Uvegesová Mária r. Rojková	m. František	1	1021
+3176	Vajner Štefan		1	1109
+3176	Vajnerová Alžbeta r. Fulajtárová	vd., m.Imrich	1	948
+3176	Vajnerová Helena		1	1109
+3176	Vályi Pavol	mal	1	806,1136
+3176	Vareš Mikuláš	ž. Anna r. Belláková	1	1061
+3176	Varga Alexander	ž.Rozália r.Szidorová	1	806,1136
+3176	Varga Ján		1	1021
+3176	Varga Jozef	ž.Júlia r.Takácsová	1	1076
+3176	Varga Juraj		1	1021
+3176	Varga Juraj	ž.Mária r.Vargaová	1	1075
+3176	Varga Ludovít	P.ž.Mária r.Vargová	1	806,1136
+3176	Varga Ľudovít	ž.Jolana r.Pallayová	1	1079
+3176	Varga Peter	ž.Alžbeta r.Tothová	1	806,1136
+3176	Varga Štefan		1	1021
+3176	Varga Vojtech	ž.Máli r.Szollosyová	1	806,1136
+3176	Vargaová Mali r. Szollosyová		1	1136
+3176	Vargaová Mali r. Szolloyová		1	806
+3176	Vargaová Mária r. Vargová	P	1	806,1136
+3176	Vargová Alžbeta r. Ivánová		1	702,727,774,862,967,999,1040,1041,1042,1043,1048,1150,1161
+3176	Vargová Alžbeta r. Léková		1	836,871,931,1062
+3176	Vargová Alžbeta r. Tothová	m.Peter	1	806,1136
+3176	Vargová Mária r. Fulajtárová	m. Štefan	1	963,1021
+3176	Vargová Rozália r. Szidorová	m.Alexander	1	806,1136
+3176	Vékási Peter		1	774,1040,1041,1150,1161
+3176	Vékási Štefan		1	1061,1062
+3176	Vékasiová Mária r. Bugisová	m. Peter	1	1061,1062
+3176	Vékásiová Mária r. Bugisová	m.Peter	1	1061,1062
+3176	Veres Alexander	nezl	1	1061
+3176	Veres Michal		1	1062
+3176	Veres Štefan	nezl	1	1061,1062
+3176	Veresová Alžbeta	nezl	1	1061,1062
+3176	Veresová Helena	nezl	1	1061,1062
+3176	Veresová Margita	nezl	1	1061,1062
+3176	Vereš Alexander	mal	1	1062
+3176	Vereš Andrej	mal	1	688,705,783,837,885,945
+3176	Vereš Ignác	M. ž.Alžbeta r.Elešová	1	806,1136
+3176	Vereš Ignác Michal	ž. Alžbeta r. Élesová	1	791,795,796
+3176	Vereš Ján		1	785
+3176	Vereš Ján	brat Ľudovíta a Alexandra	1	1061
+3176	Vereš Ján	ml	1	1062
+3176	Vereš Ján	ž. Mária r. Rákocziová	1	879,880,976
+3176	Vereš Ľudovít	mal	1	688,705,783,837,885,945
+3176	Vereš Michal	ž.Alžbeta r.Elešová	1	774,1040,1041,1061,1150,1161
+3176	Vereš Mikuláš	ž. Anna r. Belláková	1	784,1062
+3176	Vereš Peter		1	1062
+3176	Vereš Peter	ž. Mária r. Redayová	1	747,785,1061,1062
+3176	Vereš Štefan	ž. Rozália r. Jószaiová	1	774,1040,1041,1150,1161
+3176	Vereš Štefan	ž.Alžbeta r.Elešová	1	1062
+3176	Vereš Zigmund		1	671,785,1061,1062
+3176	Verešová Alžbeta r. Élesová	m. Ignác Michal	1	796
+3176	Verešová Alžbeta r. Elešová		1	806,1042,1043,1136
+3176	Verešová Alžbeta r. Elešová	m.Michal	1	774,1040,1041,1061,1150,1161
+3176	Verešová Alžbeta r. Elešová	m.Štefan	1	1062
+3176	Verešová Anna		1	747
+3176	Verešová Anna r. Ádamová		1	705,774,783,882,885,1040,1041,1150,1161
+3176	Verešová Jolana r. Juhászová		1	705,774,1040,1041,1150,1161
+3176	Verešová Margita	mal	1	671,1061,1062
+3176	Verešová Margita	malol	1	785
+3176	Verešová Mária r. Baranyaiová		1	671
+3176	Verešová Mária r. Rákocziová	m.Ján	1	879,880,976
+3176	Víg Ludovít	ž.Alžbeta r.Lukácsová	1	806,1136
+3176	Vígová Alžbeta r. Lukácsová		1	806,1136
+3176	Vodová Mariana r. Ignáczová		1	806,1136
+3176	Vojner Ján		1	1021
+3176	Zeka Ján		1	806,1136
+3176	Žiro Štefan	ml. ž.Júlia r.Kováčová	1	806,1136
+3176	Žirová Júlia r. Kováčová		1	806,1136
+3177	Agabalencová Zuzana	rod.Dobiašová R25.11.1944	1	806,1047,1059,1345
+3177	Balaj Ján	syn Jána	1	1215
+3177	Balaj Jozef	Zuzana Klobučická	1	1214
+3177	Balajová Mária	rod.Kurtišová R9.12.1925	1	1216
+3177	Berko Ján		1	974,1159
+3177	Betáková Anna	rod.Gabrišová	1	753,1210
+3177	Betáková Anna	rod.Kadáková	1	1015
+3177	Blaško Štefan	Anna Ďurišová	1	824
+3177	Buček Ján		1	968,1087
+3177	Bulková Anna	rod.mal	1	996
+3177	Bulková Katarína	rod.Bulková	1	1191
+3177	Červenáková Ľudmila	R 25.3.1946	1	1333,1370
+3177	Červienková Anna	rod.Králiková	1	1126,1380
+3177	Derková Zuzana	rod.Záhumenská, v Amerike	1	970,1498
+3177	Dobiáš Štefan		1	1370
+3177	Dobiáš Štefan	Anna Záhumenská	1	1345
+3177	Dobiáš Štefan	Katarína Chmeľová	1	1047,1059
+3177	Dobiáš Štefan	R 25.10.1900	1	988,1047,1059
+3177	Dobiášová Anna	rod.Pevná, Ján	1	767,1005,1081
+3177	Dobiášová Katarína	rod.Škúciová	1	790,1370
+3177	Dohál Štefan		1	878
+3177	Dohál Štefan	Mária Urbánková	1	878
+3177	Dohálová Katarína	dcéra Jána	1	830,1055,1057,1706
+3177	Dohálová Katarína	rod.Urbánek, Pavol	1	1056
+3177	Dohálová Katarína	rod.Urbánková	1	1057
+3177	Dohálová Magdaléna		1	1037
+3177	Ďuriš Ján	R 12.1.1921	1	1239
+3177	Ďuriš Ján	syn Štefana	1	1314
+3177	Ďuriš Štefan		1	1318,1319
+3177	Ďuriš Štefan	Eva Hrušovská	1	1151
+3177	Ďuriš Štefan	syn neb.Jána	1	1092,1238,1277
+3177	Ďuriš Štefan, SR		1	1050,1051
+3177	Ďurišová Anna	dcéra Štefana	1	843,1234
+3177	Ďurišová Anna	Ján	1	1142
+3177	Ďurišová Katarína	rod.Škúciová	1	1363
+3177	Ďurišová Zuzana	dcéra neb.Štefana	1	946
+3177	Gabriš Ján		1	753,1210
+3177	Gabriš Ján	mal.po štefanovi	1	1210
+3177	Gabrišová Magdaléna	mal	1	1210
+3177	Goliašová Anna	rod.Pipitová, Ján	1	1344
+3177	Haško Štefan	R 25.1.1905	1	1297,1410
+3177	Hašková Anna	rod.Straková, Štefan	1	1201
+3177	Hašková Katarína	rod.Valková	1	1276
+3177	Hladká Judita		1	1298
+3177	Hladká Judita	dcéra neb.Štefana	1	1297,1410
+3177	Hladká Zuzana	rod.Jančová R12.6.1897	1	1297,1410
+3177	Holičková Magdaléna	rod.Opatovská	1	1131
+3177	Hollá Anna	rod.Chudá, Anton	1	868
+3177	Hološ Ján	Anna Bulková	1	1063
+3177	Horňaček Štefan	Anna Maňová	1	886,1018
+3177	Horňáčková Zuzana	rod.Ondrejičková, vd.Jána	1	943
+3177	Hrušovská Anna	rod.Chrastinová, Ján	1	752
+3177	Hrušovská Anna	rod.Mihalíková, Štefan	1	1036
+3177	Hrušovská Eva	rod.Zemánková, Ján	1	1006
+3177	Hrušovský Ján	Anna Habdáková	1	918
+3177	Hrušovský Ján	Anna Chrastinová	1	752
+3177	Hudecová Eva	rod.Kadlečíková	1	1168
+3177	HUDEK FRANTIŠEK SČ.		0	1118
+3177	Chochlík František		1	1180
+3177	Chochlík Ján		1	893
+3177	Chochlík Ondrej		1	1180
+3177	Chochlík Vendelín		1	1180
+3177	Chochlíková Anna		1	893
+3177	Chudá Anna		1	1368
+3177	Chudá Anna	rod.Kumová	1	1116
+3177	Chudá Anna	rod.Oravcová, vdova Michala	1	1316
+3177	Chudá Anna	rod.Ševčíková	1	1130
+3177	Chudá Katarína	rod.Liptáková	1	1299
+3177	Chudá Katarína	rod.Liptáková, Michal	1	1220
+3177	Chudá Magdaléna	rod.Kabát, Ján	1	980
+3177	Chudý Štefan	Anna Ševčíková	1	1130
+3177	Jakabová Katarína	rod.Záhumenská, Ján	1	970,1498
+3177	Jakušová Anna	rod.Sedláková, Štefan	1	1348
+3177	Jambrichová Eva	rod.Jančová	1	1157
+3177	Jančo Anna	rod.Berko	1	950,1044,1046
+3177	Jančo Michal		1	856
+3177	Jančo Michal	ZuzanaValovičová	1	1117
+3177	Jančo Štefan		1	855
+3177	Jančová Anna	rod.Berková	1	1317
+3177	Jančová Eva	rod.Špačková	1	738,741
+3177	Jančová Eva	rod.Špačkova R21.7.1911	1	738
+3177	Kadák Pavol	mal	1	1224
+3177	Kadák Štefan		1	994
+3177	Kadáková Pavol	mal	1	1315
+3177	Kadlečík Ján	R 9.4.1927	1	1117,1257
+3177	Kadlečík Ján	Zuzana Ďurišová	1	811
+3177	Kadlečík Miroslav	R 21.12.1968	1	1321
+3177	Kadlečíková Eva	rod.Ďurišová	1	985,1469
+3177	Kečovská Anna	rod.Valko	1	1340
+3177	Klub slovenských turistov Bratislava		1	1042
+3177	Kluka Adam	Anna Ďurišová	1	787
+3177	Kluková Anna	rod.Hlistová, Ján	1	1132
+3177	Kluková Katarína	dcéra n.Alžbety	1	1106
+3177	Kluková Katarína	mal.dcéra Alžbety	1	1107
+3177	Kmeťová Zuzana	rod.Sedláková, Štefan	1	1348
+3177	Kováč Ján	syn Jána	1	979
+3177	Kováčová Katarína	rod.Ďurišová, Michal	1	898
+3177	Králik Ján		1	801
+3177	Králik Jozef		1	1291
+3177	Králik Jozef	mal	1	1105
+3177	Králik Michal		1	1126,1185,1366,1380
+3177	Králik Pavol		1	1126,1185,1380
+3177	Králik Štefan		1	863,1126
+3177	Králiková Eva	mal	1	1186,1291
+3177	Králiková Katarína		1	1126,1185,1380
+3177	Králiková Mária	mal	1	1105,1291
+3177	Križan Michal	Alžbeta Dobiašová	1	911
+3177	Križan Štefan		1	1117
+3177	Križanová Zuzana	rod.Jančová	1	1117
+3177	Kubaňová Zuzana	rod.Dobiaš	1	1018
+3177	Kulich Dušan	R 5.10.1940	1	942
+3177	Kulichová Anna	rod.Martinková	1	849
+3177	Kvasnicová Anna	rod.Zahumenská, Ján	1	1146
+3177	Ľahká Katarína	rod.Hladká	1	1298
+3177	Ľahká Katarína	rod.Hladká, Jána	1	1297,1410
+3177	Ľahká Zuzana	rod.Dobiášová	1	769,1081
+3177	Ľahká Zuzana	rod.Hladká, Štefana	1	1297,1410
+3177	Máhriková Mária	dcéra Michala	1	1030
+3177	Maňo Ondrej		1	939
+3177	Maňo Štefan		1	939
+3177	Masárová Anna	rod.Zaťková	1	923,924
+3177	Masárová Anna	rod.Zaťková, Ján	1	923
+3177	Matejková Anna		1	1129
+3177	Medvedík Pavol	Katarína Krupová	1	1035
+3177	Medvedík Štefan		1	1023
+3177	Medvedíková Agnesa		1	1031,1034
+3177	Mikolášová Anna	rod.Hološová, vd.Ondreja	1	1063
+3177	Minárik Pavel	Magdalena Tomíková	1	1367
+3177	Miškech Ján	R 6.4.1935	1	1040,1167
+3177	Miškech Pavlína	rod.Chochlíková	1	1352
+3177	Miškechová Alžbeta	rod.Cingálková	1	1040,1167
+3177	Miškechová Alžbeta	rod.Cingálková, Adam	1	1040
+3177	Murariková Eva	rod.Straková, vd.Ondreja	1	1275
+3177	Ondrišová Anna	rod.Dobiašová R17.8.1940	1	1345
+3177	Oravcová Anna	rod.Dobiašová	1	790,791
+3177	Oravcová Katarína	dcéra Štefana	1	1008

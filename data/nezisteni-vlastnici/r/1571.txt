@@ -1,0 +1,256 @@
+926	Ferencová Anna r. Dzurová		0	21,255
+926	Ferencová Anna r. Dzurová, SR		0	220,221,223,225,226,686
+926	FERENCOVÁ Anna r. Žofčinová		0	443
+926	Ferencová Karolína r. Jánošíková		0	22,24
+926	Ferencová Katarína r. Jánošíková		0	224
+926	Ferencová Mária		0	22
+926	Ferencová Mária r. Jendruchová		0	22,42
+926	Ferencová Mária r. Jendruchová	R	0	255
+926	Ferencová Mária r. Jendruchová, SR		0	220,221,223,225,226,686
+926	FERENCZ András		0	500
+926	FERENCZOVÁ Karolína	r. Jánošíková, manž. Ján	0	23
+926	FERENCZOVÁ Mária		0	23
+926	Ferenec Michal		0	148
+926	FLINTOS Juraj		0	23
+926	Flintoš Ferdinand		0	542
+926	Flintoš Štefan		0	22,23
+926	Flintošová Ilona r. Jánošiková		0	93
+926	Flintošová Mária		0	542
+926	Frerencová Mária r. Jendruchová		0	21
+926	Hudák Jozef		0	24,25,224,299
+926	Hudák Ondrej		0	24,25,224,299
+926	Hudák Štefan		0	22,23,24,25,224,299
+926	HUDÁKOVÁ Mária	r. Laczináková, manž. Štefan	0	23,24
+926	Hudáková Mária r. Laczináková		1	224,299
+926	Hudáková Mária r. Laczináková	manž. Štefan	0	25
+926	ILCSIN František		0	23,203,255
+926	ILCSIN Ján		0	23,203,255
+926	ILCSINOVÁ Ilona		0	23
+926	ILCSINOVÁ Mária		0	23,203,255
+926	ILCSINOVÁ Mária	r. Vascáková, manž. Andrej	0	23
+926	Ilčin František		0	22,293,578,579,688
+926	Ilčin František	USA	0	441
+926	Ilčin Ján	USA; USA	0	441
+926	ILČIN Ján		0	22,293,578,579,688
+926	Ilčinová Helena		0	22
+926	Ilčinová Mária		0	22,292,293,578,579,688
+926	Ilčinová Mária	USA; USA	0	441
+926	Ilčinová Mária r. Ondášová		0	337
+926	Ilčinová Mária r. Vaščáková		0	22
+926	JANOSIK Jozef	1	0	74,255
+926	Jánošík Andrej		0	22,23,24,25,224,299
+926	JÁNOŠÍK Anton		0	93,255
+926	Jánošík František		0	22,23
+926	Jánošík Ján	manž. Mária r. Pelešová	0	40
+926	JÁNOŠÍK Ján		0	22,23,24,25,224,299,586
+926	Jánošík Jozef		0	24,25,224,255,299
+926	Janošík Jozef r. Janošík		0	130
+926	Janošík Michal		0	319
+926	Jánošík Michal	1	0	22,23
+926	Jánošík Pavol		0	22,23,110,155,255,264,319,673,674,675,676
+926	Jánošík Štefan		0	110,155,156,165,264,319,596,627,673,674,675,676,677,678,679,680
+926	Jánošík Štefan	1; 1	0	255
+926	Jánošík Štefan	manž. Anna r. Tomášová	0	22,155,157,158,166,255,332,610,628,701,715,716,717,718
+926	JÁNOŠÍK Štefan	1	0	314,320,339,568,569,693,705
+926	JÁNOŠÍK Štefan	manž. Mária r. Tomášová	0	23
+926	Janošík Štefan a Mária JANOŠÍKOVÁ		0	255
+926	Janošík Štefan r. Janošík		0	102,669,670,671,672
+926	JÁNOŠÍKOVÁ Agnesa	r. Kiszely, manž. Andrej	0	23
+926	Jánošíková Agnesa r. Kiszely	manž. Andrej	0	22
+926	Jánošíková Alžbeta		0	22,23
+926	Jánošíková Alžbeta r. Džadžanová		0	255,291,581,632
+926	Jánošíková Alžbeta r. Džadžanová, SR		0	68,651,652,653,657,658,659,660,661
+926	Janošíková Anna	mal	0	191,517
+926	JÁNOŠIKOVÁ Anna	r. Tomašov	0	320
+926	Jánošíková Anna		0	24,25,224,299
+926	Jánošíková Anna	r. Tomášová, manž. Štefan	0	255,332,701,716,717
+926	Janošíková Anna r. Janošíková		0	130
+926	Jánošíková Anna r. Ondášová		0	438
+926	Jánošíková Anna r. Tomášová		1	24,25,102,155,156,165,224,255,299,314,339,568,569,596,627,669,670,671,672,677,678,679,680,693,705
+926	Jánošíková Anna r. Tomášová	manž. Štefan	0	22,157,158,166,255,610,628,715,718
+926	Jánošíková Anna r. Tomášová	manž. Štefan; manž. Štefan	0	715
+926	Janošíková Antonia r. Ondášová		0	36,255,320,557,558
+926	Jánošíková Antonia r. Ondášová	manž. Ján	0	22
+926	Janošíková Antonia r. Ondášová, SR		0	37,91,555,556,559,560
+926	Jánošíková Barbora		0	22,23,24,25,224,299
+926	Janošíková Mária	r. Tomášová	0	255
+926	JÁNOŠIKOVÁ Mária	r. Tomášová, manž. Štefan	0	23
+926	Janošíková Mária r. Tomásová		0	110,155,255,264,319,673,674,675,676
+926	Jánošíková Zuzana		0	22,23,24,25,224,299
+926	Jendruch Ján		0	22,23
+926	JENDRUCHOVÁ Anna		0	22,23,24,25,224,299
+926	Jendruchová Eva		0	22,23
+926	JENDRUCHOVÁ Juliana		0	22,23
+926	Jendruchová Žofia		0	22,23
+926	Kolárik Ján Ladislav	mal	0	22,23
+926	Kolárik Ondrej	mal	0	22,23
+926	Kolárik Pavel	mal	0	22,23
+926	Koláriková Katarína	mal	0	22,23
+926	Kollárik František		0	24,25,224,299
+926	Kollárik Gašpar		0	22,23
+926	KOLLÁRIK Jakub		0	22,23,24,25,224,299
+926	Kollarik Ján		0	92,593,710
+926	Kollarik Ján	1	0	119,214,255,592,622
+926	Kollárik Ján Ladislav		0	319
+926	Kollarik Ján Ladislav, SR		0	105
+926	Kollárik Jozef		0	67,99,101,169,224,255,264,293,311,313,314,316,319,336,337,338,565,566,568,569,570,571,574,575,578,579,615,629,630,631,649,688,689,690,692,693,694,695,696,697
+926	Kollárik Jozef	1	0	24,25
+926	Kollárik Jozef	1; 1	0	299
+926	Kollárik Jozef r. Kollárik		0	64
+926	Kollarik Jozef, SR		0	105,223
+926	Kollárik Ladislav Ján		0	169,255,264
+926	Kollárik Ladislav, SR		0	223
+926	Kollárik Ladislav, Velkrop, SR		0	64
+926	Kollarik Michal		0	92,119,214,255,592,593,622,710
+926	Kollárik Ondrej		0	319
+926	Kollárik Pavol		0	169,255,264,293,311,313,316,319,570,571,574,575,578,579,688,689,690,694,695
+926	Kollárik Pavol	1	0	314,568,569,693
+926	Kollarik Pavol, SR		0	105,223
+926	Kollárik Štefan		0	25,224,299,319,586
+926	Kollárik Štefan	1	0	40
+926	KOLLÁRIKOVÁ Antonia	r.Žofčinová,manž. Gašpar	0	23
+926	Kolláriková Antonia r. Žofčinová	manž. Gašpar	0	22
+926	KOLLÁRIKOVÁ Júlia	r. Papczunová, manž. Juraj	0	23
+926	Kolláriková Júlia r. Papczunová	manž. Juraj	0	22
+926	Kolláriková Katarína		0	319
+926	Kollariková Katarína, SR		0	105
+926	KOLLÁRIKOVÁ Mária	r. Jánošíková, manž. Jakub	0	23
+926	Kolláriková Mária r. Jánošíková	manž. Jakub	0	22
+926	KOLLARIKOVÁ Žofia		0	541
+926	LACIŇÁK Anton		0	37,40,255,541,559,560,586
+926	Laciňák Anton r. Laciňák		1	63,600,602,604,606,608
+926	LACIŇÁK Jozef		0	37,40,255,541,559,560,586
+926	Laciňák Jozef r. Laciňák		1	63,600,602,604,606,608
+926	Laciňák Pavol		0	37,40,255,541,559,560,586
+926	Laciňák Pavol r. Laciňák		1	63,600,602,604,606,608
+926	Laciňáková Fnacziska		0	586
+926	LACIŇÁKOVÁ Francziska		0	37,40,255,541,559,560,586
+926	Laciňáková Františka r. Laciňáková		1	63,600,602,604,606,608
+926	LACIŇÁKOVÁ Žofia		0	541
+926	Lacoňáková Francziska		0	255
+926	Matuščák Štefan	ml	0	96,255,314,339,340,568,569,693,704,705
+926	Matuščáková Anna r. Jánošíková		0	24,25,224,299
+926	Medvec Jozef		0	23
+926	MEDVEC Matej		0	502
+926	MEDVECOVÁ Mária	r.Birošová	0	502
+926	Mnich Štefan		0	292,293,578,579,688
+926	MNICHOVÁ Františka	r. Tomašová	0	23
+926	Mnichová Františka r. Tomašová		0	22,203,255,292,293,578,579,688
+926	Mnichová Mária		0	14,15,37,40,255,324,340,559,560,586,587,588,662
+926	ONDAŠ Jozef		0	23
+926	Ondáš Mikuláš		0	93,581
+926	Ondáš Ondrej	manž. Anna r. Flintošová	0	192
+926	Ondáš Pavol		0	22
+926	Ondaš Štefan		0	25,103,155,156,255,292,299,596,626,627
+926	Ondáš Štefan	1	0	22,23
+926	Ondáš Štefan	3	0	157,255,293,332,578,579,610,628,688,701,715,716,717,718
+926	ONDÁŠ Štefan	4	0	255
+926	Ondáš Štefan r. Ondáš		0	102,669,670,671,672
+926	Ondášová Alžbera r. Puchallová		0	156,596,627
+926	Ondášová Alžbeta		0	22,23
+926	Ondášová Alžbeta r. Puchallová		0	156,165,596,627,677,678,679,680
+926	Ondášová Alžbeta r. Puchalová		0	102,155,157,158,166,255,332,610,628,669,670,671,672,701,715,716,717,718
+926	Ondášová Alžbeta r. r. Puchalová		0	255
+926	Ondášová Anna		0	93,95,124,125,132,146,148,164,169,182,255,264,291,319,347,348,523,581,632
+926	Ondášová Anna	r. Legátová, manž. Jozef	0	255
+926	Ondašová Anna r. Legátová		0	110,155,319,673,674,675,676
+926	Ondášová Anna r. Legátová	manž. Jozef	0	255,264
+926	Ondášová Anna, SR		0	223
+926	Ondášová Antónia r. Ferencová		0	146,148,581
+926	Ondášová Helena		0	103,156,292,293,578,579,596,626,627,688
+926	Ondášová Helena	mal	0	155,157,255,332,610,628,701,715,716,717,718
+926	Ondášová Helena r. Ondášová		0	102,669,670,671,672
+926	ONDÁŠOVÁ Mária	r. Balogová, manž. Jakub	0	23
+926	Ondášová Mária r. Balogová	manž. Jakub	0	22
+926	Pebdráková Anna r. Jánošíková		0	133
+926	Pendráková Mária r. Medvecová		0	502
+926	Puchala Jozef		0	48
+926	Puchalová Alžbeta		0	22,23
+926	PUCHALOVÁ Mária		0	22,23
+926	SEDLÁKOVÁ Žofia		0	74,130,148,152,153,155,156,157,158,255,332,583,596,610,627,628,701,715,716,717,718
+926	Sedláková Žofia r. Sedláková		0	102,669,670,671,672
+926	Schusterová Žofia r. Džodlová		0	50
+926	Tobiszová Mária	r. Ferenczová, manž. Karol	0	23
+926	Tobiszová Mária r. Ferenczová	manž. Karol	0	22
+926	Tomašov Andrej		0	74,255
+926	TOMAŠOV Ján		0	22,40,130,203,255,292,293,449,578,579,586,688
+926	TOMAŠOV Ján	1	0	23
+926	TOMAŠOV Ján	2	0	74,255
+926	TOMAŠOV Ján	3	0	74,255
+926	TOMAŠOV Ján	4	0	74,255
+926	Tomašov Ján r. Tomašov		0	130
+926	Tomašov Ján, SR		0	16
+926	TOMAŠOV Mária		0	255,320
+926	Tomášov Michal		0	22
+926	Tomašov Ondrej r. Tomašov		0	130
+926	TOMAŠOV Pavel		0	23
+926	Tomašov Štefan	2	0	148
+926	Tomašov Štefan	3	0	114,157,214,332,610,628,701,715,716,717,718
+926	TOMAŠOV Štefan	1	0	74,255
+926	Tomášov Štefan		1	22,23,37,78,79,118,131,152,153,155,156,212,213,255,559,560,583,596,627
+926	Tomašov Štefan r. Tomašov		0	130
+926	Tomašov Štefan, SR		0	353
+926	Tomášová Agnesa r. Žofčinová		1	131,214
+926	TOMÁŠOVÁ Agnesa r. Žofčinová	manž. Ján	0	192,332,701,716,717
+926	Tomašová Agnesa r. Žofčinová, SR		0	353
+926	TOMÁŠOVÁ Anna		0	22,23
+926	Tomášová Anna r. Kolláriková		0	24,25,224,299
+926	Tomášová Anna r. Mníchová	manž. Jozef	0	158
+926	Tomašová Mária		0	314,339,568,569,693,705
+926	Tomášová Veronika		0	22,23
+926	Vaščák Jozef		0	96,191,314,339,340,517,568,569,693,704,705
+926	Vaščáková Terézia		0	96,191,314,339,340,517,568,569,693,704,705
+926	ZSOFCÍN Štefan		0	22,23
+926	Zsovcín Štefan		0	22
+926	ŽOFČIN Ján		0	307
+926	Žofčin Štefan		0	55,188,316
+926	ŽOFČIN Štefan	manž. Mária r. Ondášová	0	74,255,315
+926	ŽOFČIN Štefan	syn Štefana	0	74,255,315
+926	Žofčin Štefan r. Žofčin		0	88,591,621
+926	Žofčinová Agnesa		0	156,157,212,213,307,596,610,627,628,715,718
+926	Žofčinová Anna r. Odnášová		0	517
+926	Žofčínová Anna r. Ondášová		0	102,103,155,156,157,191,255,292,293,332,578,579,596,610,626,627,628,669,670,671,672,688,701,715,716,717,718
+926	Žofčnová Anna r. Ondášová		0	255
+927	Ágostonová Helena r. Ballová, Stredné Túrovce 34, Stredné Túrovce, PSČ 935 81, SR		0	512
+927	Agošton Ján r. Agošton	zomr	0	766
+927	Ágoštonová Helena r. Ballová, Stredné Túrovce 34, Veľké Túrovce, PSČ 93581, SR		0	513
+927	Babka Peter r. Babka	Liptovský Trnovec	0	691
+927	Bagoňa Ján		0	318
+927	Bagoňa Ján r. Bagoňa	manž. Margita rod. Matyó	0	697
+927	Balázs Pavel r. Balázs	D.Túrovce 16	0	856
+927	Balázsová Mária r. Csitáriová		0	821
+927	Bálint Ján		0	445
+927	Bálint Štefan		0	445
+927	Bálintová Veronika r. Ballová	zomr	0	766,825
+927	Bálintová Viktória r. Okosová		0	63
+927	Balla Ján		0	116
+927	Balla Jozef		0	419
+927	Balla Ľudovít r. Balla	žena Mária r. Patayová	0	615
+927	Balla Štefan		0	233
+927	Ballai Štefan r. Ballai	manž. Barbara rod. Détáriová	0	839
+927	Ballová Helena r. Tóthová	č. 75	0	809
+927	Ballová Mária r. Ballová	zomr	0	859
+927	Ballová Mária r. Nagyová	č.139	0	654
+927	Balogová Mária r. Péterová		0	369
+927	Balogová Mária r. Péterová	H.Semerovce	0	640
+927	Baraník Bernát r. Baraník	manž. Mária rod. Jelíková	0	708
+927	Baraník Bernáth		0	318
+927	Bartalová Margita r. Kissová		0	787
+927	Bavlšík Ján		0	515
+927	Bavlšík Štefan		0	515
+927	Bavlšík Štefan r. Bavlšík	žena Jolana r. Kevická	0	686,957
+927	Bavlšíková Alžbeta		0	515
+927	Bavlšíková Anna		0	515
+927	Bavlšíková Julianna		0	515
+927	Beczecká Magdaléna	slobodná	0	636
+927	Bényiová Mária r. Hajdamárová		0	106
+927	Berta Jozef		0	318
+927	Berta Jozef r. Berta	manž. Barbora rod. Franková	0	705
+927	Bolgár Alexander r. Bolgár	žena Mária r. Nagyová č. 5	0	723
+927	Bolgár Michal r. Bolgár	žena Mária r. Jakušová	0	680
+927	Bolgárová Alžbeta r. Vaczi		0	550
+927	Bolgárová Alžbeta r. Vacziová	Maďarsko	0	732
+927	Bolgárová Mária	zomr	0	616
+927	Bolgárová Mária r. Nagyová	m. Alexander	0	638
+927	Brčica Ján r. Brčica	žena Terézia r. Augustínová č. 78	0	815
+927	Budaiová Irena r. Lukácsová	Staré Túrovce 82	0	761

@@ -1,0 +1,256 @@
+90	PIŠKAN Ján	ž.Adamová Anna	1	3433
+90	PIŠKANIN Andrej	kúpa s Jánom	1	3411
+90	PIŠKANIN Andrej	mal. ded. po Jánovi	1	3388,3398,3420
+90	PIŠKANIN Andrej	st	1	3420
+90	PIŠKANIN Andrej	Velopolčák	1	3420
+90	PIŠKANIN Ján		1	3415
+90	PIŠKANIN Ján	po Zuzane r. Mižákovej	1	3401
+90	PIŠKANIN Ján	syn Jána a Anny r. Adamovej	1	3403
+90	PIŠKANIN Ján	syn Michala	1	3433
+90	PIŠKANIN Ján	syn Pavla	1	3433
+90	PIŠKANIN Ján	ž.Polačková Anna	1	3325
+90	PIŠKANIN Ján	ž.Valkovičová Anna	1	3420
+90	PIŠKANIN Michal		1	3415
+90	PIŠKANIN Michal	od Márie r. Copákovej	1	3433
+90	PIŠKANIN Michal	syn Jána	1	3313
+90	PIŠKANIN Michal	syn Jána a Anny r. Adamovej	1	3403
+90	PIŠKANIN Michal	ž.Krivjanská Anna nar.4.7.1908	1	3418
+90	PIŠKANIN Pavol		1	3417
+90	PIŠKANIN Štefan	syn Pavla	1	3433
+90	PIŠKANINOVÁ Alžbeta	mal. dcéra Jána a Anny r. Adamovej	1	3403
+90	PIŠKANINOVÁ Alžbeta	mal. ded. po Michalovi	1	3420
+90	PIŠKANINOVÁ Alžbeta	r.Burdová	1	3415,3433
+90	PIŠKANINOVÁ Anna	dcéra Jána	1	3388,3398,3420
+90	PIŠKANINOVÁ Anna	mal. dcéra Jána	1	3313
+90	PIŠKANINOVÁ Anna	r.Bujačková	1	3313
+90	PIŠKANINOVÁ Anna	r.Lukáčová	1	3433
+90	PIŠKANINOVÁ Anna	r.Polačková	1	3325
+90	PIŠKANINOVÁ Anna r. Chvostáľová		1	3433
+90	PIŠKANINOVÁ Mária	mal. po Alžbete Nemčíkovej	1	3335
+90	PIŠKANINOVÁ Mária	mal. po Márii Kováčovej r. Makovcovej	1	3315,3335
+90	PIŠKANINOVÁ Mária	mal. po Zuzane r. Mižákovej	1	3398,3401
+90	PIŠKANINOVÁ Mária	po Pavlovi	1	3433
+90	PIŠKANINOVÁ Mária	r.Chvostáľová	1	3410,3422
+90	PIŠKANINOVÁ Mária	r.Kuncová	1	3415
+90	PIŠKANINOVÁ Mária r. Polačková		1	3417
+90	PIŠKANINOVÁ Verona	mal. dcéra Jána	1	3388,3398,3420
+90	PĽUTA Anton		1	2897
+90	POHLOVÁ Alžbeta	r.Dzurková	1	3429
+90	POLAČKO Andrej	mal. syn Jána	1	3383
+90	POLAČKO Andrej	ž.Mária Pastýrová	1	3417
+90	POLAČKO Ján	Tomáš ž.Anna Adamová	1	3297
+90	POLAČKO Ján	zom. 01.11.1974; ž.Buričinová Mária	1	3331
+90	POLAČKO Ján	zom. 18.08.1987; ž.Drevická Alžbeta	1	3311,3312
+90	POLAČKO Juraj	ded.po Zuzane	1	3325
+90	POLAČKO Michal	vzd. ded.po Zuzane	1	3325
+90	POLAČKO Michal	ž. Mikulová Alžbeta	1	3322
+90	POLAČKOVÁ Alžbeta	r.Piškaninovej	1	3419
+90	POLAČKOVÁ Alžbeta	Tomášová	1	3383
+90	POLAČKOVÁ Alžbeta r. Drevická	zom. 25.10.1975	1	3311,3312
+90	POLAČKOVÁ Anna	r.Gnipová *12.11.1912,+22.5.1993	1	3423
+90	POLAČKOVÁ Anna r. Adamová		1	3297
+90	POLAČKOVÁ Katarína	dcéra Jána	1	3325
+90	POLAČKOVÁ Mária	r.Pastýrová	1	3417
+90	POLAČKOVÁ Mária	r.Tomášová	1	3360,3430
+90	POLAČKOVÁ Zuzana	r.Nemčiková	1	3369
+90	POĽAČKOVÁ Zuzana	r.Hrehová	1	3344
+90	PRISTÁŠ Ján		1	1731,1732,2829,3055
+90	PRISTÁŠ Ján	mladší	1	1731
+90	PRISTÁŠ Ján	mladší, vzdialený	1	2829
+90	PRISTAŠ Jozef	Petrunič	1	3214
+90	PRISTAŠ Jozef	Petrunič,mal	1	2571,2677,2686,2777,3785
+90	PRISTAŠ Juraj		1	2142,2829,3189
+90	PRISTAŠOVÁ Agnesa	r.Karľová	1	1531,2371,2848,2948,2957
+90	PRISTAŠOVÁ Mária	r.Vološinová	1	2855,2932,3217
+90	PRISTAŠOVÁ Zuzana	r.Petruničová	1	2571,2677,2686,2777,3785
+90	PUZANIČOVÁ LOJANOVÁ Mária		1	1843,3090
+90	RADOŇÁKOVÁ Alžbeta	r.Šajnovská	1	3343
+90	RAJŇÁK Štefan	st	1	3401
+90	RAJŇÁK Štefan	ž.Pavlovčinová Mária	1	3401
+90	RAJŇÁKOVÁ Alžbeta	r.Krivjanska	1	3415
+90	RAJŇÁKOVÁ Mária		1	3356
+90	RAJŇÁKOVÁ Mária	r.Pavlovčinová	1	3357,3401
+90	REBIČ Ján		1	2976
+90	REBIČ Ján	zomr. 14.1.1991, ž. Lojanová Mária	0	3443
+90	REBIČ Ján	zomr. 14.4.1991, ž. Lojanová Mária	0	3443
+90	REBIČ Jozef	ž.Dická Mária	1	2976
+90	REBIČ Martin		1	2921,2958,3876
+90	REBIČOVÁ Mária r. Lojanová		1	3443
+90	REPKO Ján	kúpa s Annou Tutkovou	1	3307
+90	REPKO Ján	od Pavla Repku	1	3394
+90	REPKO Ján	ž.Anna Burdová	1	3394
+90	REPKO Jozef	nar.24.3.1947 -nebohý	1	3395
+90	REPKOVÁ Anna	r.Pavlovčinová	1	3347,3366
+90	REPKOVÁ Anna r. Tutková	067 82 Dlhé nad Cirochou	0	3388
+90	REPKOVÁ Mária	r.Ondušová	1	3358
+90	RHEINOVÁ Veronika	ded.po Márii Burdovej r.Kováčovej	1	3431
+90	ROŠKO Ján		1	2991
+90	ROŠKO Ján	ž.Humeniková Anna	1	1125,3095,3178
+90	ROŠKO Juraj	ž.Vajdová Alžbeta	1	1125,3095,3178,3321
+90	ROŠKO Martin	ž.Onderčinová Rozália	1	3095,3178
+90	ROŠKO Pavol	ž.Rozália Rebičová	1	2057,3063,3178
+90	ROŠKOVÁ Anna		1	1124,1125,3095,3178
+90	ROŠKOVÁ Anna	r.Bednárová	1	1124
+90	ROŠKOVÁ Helena	r.Patiová	1	3321
+90	ROŠKOVÁ Rozália	r.Rebičová	1	3063
+90	ROVŇANOVÁ Mária r. Pastýrová	zom. 05.08.1977	1	3347
+90	SABO Adam		1	3113
+90	SABO Ján		1	979,1494,1731,1732,1764,2144,2145,2229,2464,2502,2569,2758,2760,2781,2784,2785,2959,2980,2998,3228,3232,3714,3857
+90	SABO Ján	mal	1	2959,2998,3232
+90	SABO Ján	ž.Pavlisková Mária	1	672,3190
+90	SABO Mária		1	1731
+90	SABO Michal		1	979,1339,1842,2502,2959,2980,2998,3161,3232,3298
+90	SABO Michal	mal	1	2959,2998,3232
+90	SABO NACKO Adam	ž.Gnipová Mária	1	3145,3490
+90	SÁBO NACKO Adam		1	3019
+90	SABO NACKO Ján		1	370,1732,2145,2569,3252
+90	SABO NACKO Ján	ž.Drábová Zuzana	1	3055
+90	SABO Pavol		1	2502,2980
+90	SABOVÁ Alžbeta r. Hrežiková		1	2842
+90	SABOVÁ Anna	mal	1	2998
+90	SÁBOVÁ Anna		1	3019,3145,3490
+90	SABOVÁ Mária		1	1494,2758,2760,2781,2784,2785
+90	SABOVÁ Mária	r.Sabová	1	2948,2984,3143
+90	SABOVÁ Mária	r.Sabová,vd	1	573,2767
+90	SABOVÁ Mária r. Sabová		1	318,1453,1531,2371,2957,2983
+90	SABOVÁ NACKOVÁ Zuzana r. Drábová		1	1732,2145,2569
+90	SABOVÁ Rozália	r.Buriková	1	552,688,691,692,1494,2178,2191,2573,2758,2760,2766,2781,2784,2785,2980,2998,3000,3153,3186
+90	SABOVÁ Rozália	r.Nacková	1	1166
+90	SABOVÁ Rozália r. Buriková		1	2502,2765,3849,3880
+90	SAKSUNOVÁ Helena r. Dzurková		1	3396
+90	SALAĎÁK Michal	ž.Holinská Ida Emília	1	3292
+90	SALAĎÁKOVÁ Ida Emília	r.Holinská	1	3292
+90	SAVKA Ján		1	3344
+90	SAVKA Ján	Ličák	1	3344
+90	SAVKA Michal	vzd.ded.po Michalovi	1	3344
+90	SAVKOVÁ Anna	Lišáková r.Pastýrová Feňová	1	3349
+90	SINČINOVÁ Anna	r.Nemčíková	1	3364
+90	SKARBA Michal	vzd	1	3348
+90	SKARBA Pavol		1	3348
+90	SKARBA Pavol	zom. 28.01.1959	1	3313
+90	SKARBOVÁ Anna	r.Polačková	1	3325,3331,3344
+90	SKVAŠIK Ján		1	3358
+90	SKVAŠIK Michal		1	3358
+90	SKVAŠIK Štefan		1	3358
+90	SKVAŠIKOVÁ Anna r. Rajňáková	zom. 21.05.1970	1	3400
+90	SKVAŠIKOVÁ Mária	r.Božidarová	1	3298
+90	SKVAŠIKOVÁ Mária	r.Ondušová	1	3380
+90	SLIVČEJOVÁ Alžbeta	r.Škutková	1	2841
+90	SOKIRA Andrej	mal	1	3374,3434
+90	SOKIRA Ján	mal	1	3374,3434
+90	SOKIRA Michal	mal	1	3374,3434
+90	SOKIROVÁ Anna	mal	1	3374,3434
+90	SOKIROVÁ Anna	r.Petríková	1	3374,3434
+90	SOLOMEJOVÁ Anna	r.Knižová	1	3390
+90	SOLOMEJOVÁ Mária	Gazdová r.Rajňáková	1	3387
+90	SOLOMEJOVÁ Mária	r.Šoltésová	1	3347
+90	STAŠKO Ján		1	3431
+90	STAŠKO Ján	ž. Mária Pavlovčinová	1	3427
+90	STAŠKO Michal	ded. po Andrejovi	1	3330
+90	STAŠKOVÁ Anna	r.Koťová	1	3352
+90	STAŠKOVÁ Mária	r.Kohútová	1	3330
+90	STAŠKOVÁ Mária r. Fencáková		1	3425
+90	STRAKA František		1	3114
+90	STRAKA Ignác		1	3126
+90	STRAKOVÁ Anna	r.Dická	1	821
+90	SUCANIČOVÁ Anna	r.Huneniková	1	3178
+90	SUDER Andrej		1	799,801,1672,2013,3020,3167
+90	SUDER Jozef		1	799,801,1672,2013,3020,3167
+90	SZABO NACKO Adam		1	3019
+90	SZENTPÁLYOVÁ Mária	r.Gajdošová	1	1251,1825,2316,2391,2934
+90	ŠALACHOVÁ Alžbeta	r.Petriková	1	3380,3421
+90	ŠARIŠSKÁ ŽUPA	Banka; 066 01 Humenné	0	3314
+90	ŠEFRANKOVÁ Mária	r.Buričinová	1	3400
+90	ŠIMON Andrej		1	1541
+90	ŠIMON Ján		1	919,921,923,1460,1461,2418,2946,3074,3075,3166,3289
+90	ŠIMON Ján	vzd	1	3075
+90	ŠIMON Ján	ž.Gnipová Mária	1	921,923,1461,2954,3074
+90	ŠIMON Jozef		1	1494,1987,2758,2902,2966
+90	ŠIMON Jozef	ž.Gnipová Anna	1	2760,2781,2784,2785
+90	ŠIMON Jozef	ž.Jušková Agnesa	1	1460
+90	ŠIMON Pavol		1	921,1461,2418,3074
+90	ŠIMON Pavol	ž.Škutková Mária	1	923,1461,2418,3074,3166
+90	ŠIMONOVÁ Agnesa	r.Jušková	1	2273,2735
+90	ŠIMONOVÁ Alžbeta r. Ondušová		1	3344
+90	ŠIMONOVÁ Anna	r.Čižmárová	1	3460,3474
+90	ŠIMONOVÁ Mária		1	3075
+90	ŠIMONOVÁ Mária	r.Gnipová	1	2987,3166,3289
+90	ŠIMONOVÁ Mária	r.Škutková	1	923,1461,2418,3074,3166
+90	ŠIMONOVÁ Zuzana	r.Drevická	1	3311
+90	ŠKUTKA Adam		1	1003
+90	ŠKUTKA Adam	mal	1	2886
+90	ŠKUTKA Andrej		1	3107
+90	ŠKUTKA Andrej	ž.Vajdová Anna	1	2884
+90	ŠKUTKA Imrich		1	1841,2841,2978,3014,3097,3206
+90	ŠKUTKA Imrich	ž.Onderčinová Barbora	1	2978,3014,3097,3206
+90	ŠKUTKA Ján		1	1732,1841,2186,2412,2468,2569,2776,2860,2978,3014,3097,3181,3188,3206,3836
+90	ŠKUTKA Ján	ded.po Anne r. Pristašovej	1	3450
+90	ŠKUTKA Ján	mal	1	2886
+90	ŠKUTKA Ján	syn Adama	1	3269
+90	ŠKUTKA Ján	ž.Gičová Zuzana	1	2884,3097
+90	ŠKUTKA Ján	ž.Kepičová Anna	1	1494,2758,2760,2781,2784,2785
+90	ŠKUTKA Ján, Belá n/Cir., č. 131, SR	otec Ján	0	2841
+90	ŠKUTKA Jozef		1	1158,1732,1764,1841,2144,2145,2186,2229,2464,2468,2534,2569,2581,2776,2841,2884,2886,2978,3014,3084,3097,3181,3188,3206,3243,3714,3836,3857
+90	ŠKUTKA Jozef	13.12.1907,ž.Hrehová Mária 16.11.1907	1	3000
+90	ŠKUTKA Jozef	s manželkou	1	3097
+90	ŠKUTKA Jozef	syn Adama	1	3269
+90	ŠKUTKA Jozef	syn Michala	1	3014,3097
+90	ŠKUTKA Jozef	ž.Dančová Zuzana	1	923
+90	ŠKUTKA Jozef	ž.Gnipová Anna	1	3014
+90	ŠKUTKA Jozef	ž.Kepičová Anna	1	1494,2758,2760,2781,2784,2785
+90	ŠKUTKA Jozef	ž.Ľoncová Mária	1	2468,2978,3014,3097,3184,3206,3836
+90	ŠKUTKA Martin		1	1158,1160,2729,2730,3084,3125,3156,3174,3188,3230,3969,3970,3971,3972
+90	ŠKUTKA Martin	ž.Pristašová Anna	1	1162,2829,3450
+90	ŠKUTKA Pavol		1	801,1158,1732,1764,2144,2145,2229,2464,2569,2730,2829,2860,3174,3188,3714,3857
+90	ŠKUTKA Pavol	ded.po Anne r. Pristašovej	1	3450
+90	ŠKUTKA Pavol	ž.Buriková	1	2013
+90	ŠKUTKA Pavol	ž.Buríková Anna	1	799,1672
+90	ŠKUTKA Pavol, Belá n/Cir., č. 537, SR		0	2884
+90	ŠKUTKA Štefan		1	2185,3109
+90	ŠKUTKOVÁ Alžbeta		1	3209
+90	ŠKUTKOVÁ ALŽBETA r. Drábová		1	3486
+90	ŠKUTKOVÁ Anna		1	1732,2569,2884,3181
+90	ŠKUTKOVÁ Anna	r.Buríková	1	2013
+90	ŠKUTKOVÁ Anna	r.Gičová,muž Ján	1	1638
+90	ŠKUTKOVÁ Anna	r.Gnipová	1	1841,2186,2468,2776,2978,3014,3206,3836
+90	ŠKUTKOVÁ Anna	r.Hišemová	1	2778,2779,2994
+90	ŠKUTKOVÁ Anna	r.Petrová	1	2944,3932
+90	ŠKUTKOVÁ Anna	r.Vajdová	1	1731,3055
+90	ŠKUTKOVÁ Anna r. GNIPOVÁ		1	3097
+90	ŠKUTKOVÁ Dorota	r.Gnipová	1	3130
+90	ŠKUTKOVÁ Margita r. Drabová		1	2962,3187
+90	ŠKUTKOVÁ Mária		1	1732,1764,2144,2145,2186,2229,2464,2468,2569,2776,3014,3206,3714,3836,3857
+90	ŠKUTKOVÁ Mária	r.Gerbová	1	2186,2468,2776,2978,3206,3836
+90	ŠKUTKOVÁ Mária	r.Ľoncová	1	2581,3184
+90	ŠKUTKOVÁ Marta	r.Hrehová	1	2969
+90	ŠKUTKOVÁ Zuzana		1	3014,3206
+90	ŠKUTKOVÁ Zuzana	r.Dančová	1	799,801,919,921,923,1672,2013,3167,3289
+90	ŠKUTKOVÁ Zuzana	r.Ondiová	1	3015,3080,3806
+90	ŠOLTÉS Ján		1	3425
+90	ŠOLTÉS Michal	zom. 08.12.1983; ž.Gazdová Anna	1	3341
+90	ŠOLTÉS Štefan	ž. Anna Rajňáková	1	3392
+90	ŠOLTÉSOVÁ Alžbeta	slabomyselná	1	3347
+90	ŠOLTÉSOVÁ Anna	r.Rajňáková	1	3392
+90	ŠPERHÁČOVÁ Anna	r.Krivjančinová	1	3399
+90	ŠTOFIK Martin	ž.Gonciová Helena	1	2888
+90	ŠTRNÁSTEKOVÁ Anna	r.Mesárošová	1	3360,3413,3430,3431
+90	TANGEĽ Jozef	syn Jána	1	1494,2758,2760,2781,2784,2785
+90	TOMÁŠ Andrej		1	3430
+90	TOMÁŠ Ján	mal. ded. po Jozefovi	1	3327,3328
+90	TOMÁŠ Ján	vzd	1	3328
+90	TOMÁŠ Jozef	mal. ded. po Jozefovi	1	3327,3328
+90	TOMÁŠ Michal	mal. ded. po Jozefovi	1	3327,3328
+90	TOMAŠÍK Andrej		1	3360
+90	TOMÁŠOVÁ Anna	mal. ded. po Jozefovi	1	3327,3328
+90	TOMÁŠOVÁ Mária	r.Lelková zomr.8.4.1951	1	3428
+90	TOMŠIČOVÁ Anna	r.Krivjanská	1	3394
+90	TONGEĽ Ján		1	675,3203,3851,3987,3988
+90	TONGEĽ Jozef		1	2816,2901,3212
+90	TONGEĽ Štefan		1	675,3203,3212,3851,3987,3988
+90	TREŠČÁKOVÁ Mária	r.Lefkaničová	1	3372
+90	TUTKO Andrej		1	3388
+90	TUTKO Michal		1	3388
+90	TUTKOVÁ Alžbeta	067 82 Dlhé nad Cirochou	0	3388
+90	TUTKOVÁ Anna	kúpa s Jánom Repkom	1	3307
+90	TUTKOVÁ Anna	mal	1	3388
+90	TUTKOVÁ Mária	r.Krajniková	1	3339

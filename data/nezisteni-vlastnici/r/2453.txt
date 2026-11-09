@@ -1,0 +1,256 @@
+1420	VOJTAŠKO Ján		1	947,1405,1453,1454,1455,1456,1457,1458,1495,1938,1939,1947,1948,1952,1953,1954,1955,1992,1994,1996
+1420	VOROSTKO Ján		1	947,1002,1050,1309,1310,1405,1453,1454,1455,1456,1457,1458,1947,1948,1952,1953,1954,1955,1992,1994,1996
+1420	Vorostko Ján, zomrel zomrel		0	1488,1489,1490,1491,1492,1938,1939,1941
+1420	VOROSTKO Juraj		1	1002,1050,1309,1310
+1420	Vorostko Juraj, zomrel zomrel		0	1488,1489,1490,1491,1492
+1420	VOROSTKO-PITUCH Ján		1	1002,1050,1309,1310
+1420	Vorostko-Pituch Ján, zomrel zomrel		0	1488,1489,1490,1491,1492
+1420	VOROSTKO-PITUCH Juraj		1	1002,1050,1309,1310,1488,1489,1490,1491,1492
+1420	VOROSTKOVÁ Mária r. Trucková		1	1002,1050,1309,1310
+1420	Vorostková Mária r. Trucková, zomrela zomrela		0	1488,1489,1490,1491,1492
+1420	Zakuťanská Katarína r. Vorostková, zom., zom.23.01.1994 zom., zom.23.01.1994		0	1488,1489,1490,1491,1492
+1420	ZAKUŤANSKÝ Ján		1	1002,1050,1309,1310
+1420	Zakuťanský Ján, ml. ml.		0	1488,1489,1490,1491,1492
+1420	Židišin Peter, zomrel zomrel		0	1860,1938,1939
+1420	ŽIDIŠINOVÁ Anna		1	947,1175,1176,1405,1453,1454,1455,1456,1457,1458,1947,1948,1952,1953,1954,1955,1992,1994,1996
+1420	Židišinová Anna, zomrela zomrela		0	1495,1938,1939
+1421	Beluš Anton	m Farkašová	0	403
+1421	Belušová Mária r. Mižáková		0	543
+1421	Bezeková Mária r. Rybnická		0	518
+1421	Bezeková Mária r. Rybnická	Kusín	0	413,514
+1421	Bučko Ján	m Mihalečková, Kusín	0	430
+1421	Bučko Ján	m. Mihalečková, Kusín	0	484
+1421	Bučko Michal	maloletý	1	537,541
+1421	Bučko Michal	maloletý, Kusín	0	482
+1421	Bučko Michal	NV- maloletý	1	442
+1421	Bučko Pavol	NV- maloletý	1	442
+1421	Bučková Barbora r. Jackuličová		0	426
+1421	Bučková Mária r. Jánošová	Kusín	0	482
+1421	Bžan Ján		0	403
+1421	Bžan Lukáš		0	403
+1421	Bžan Pavol		0	403
+1421	Bžan Pavol	m. Ondovčíková, Kusín	0	455
+1421	Bžan Štefan		0	403
+1421	Bžánová Anna	v NSR	0	460
+1421	Bžánová Anna	žije v NSR	0	455
+1421	Bžánová Mária	maloletá	0	460
+1421	Cuprik Jozef	Kusín	0	493
+1421	Cuprik Pavel	Kusín	0	493
+1421	Cupriková Anna r. Koceľová	Kusín	0	493
+1421	Čaga Ján	NV-	1	463
+1421	Čaga Juraj	NV-	1	463
+1421	Čolák Juraj		0	532
+1421	Čolák Juraj	Kusín	0	429,434
+1421	Čolák Juraj	maloletý	0	532
+1421	Čolák Juraj	maloletý, Kusín	0	429,434
+1421	Čolák Michal	m Čornejová, Kusín	0	430
+1421	Čolák Michal	m. Čornejová	0	499,529
+1421	Čolák Michal	m. Čornejová, Kusín	0	484
+1421	Čolák Michal	maloletý	0	499
+1421	Čolák Pavol		0	532
+1421	Čolák Pavol	Kusín	0	429,434
+1421	Čolák Štefan		0	412,499,517
+1421	Čolák Štefan	Kusín	0	489
+1421	Čoláková Anna r. Čornejová		0	499,529
+1421	Čoláková Anna r. Čornejová	Kusín	0	430,484
+1421	Čoláková Ružena	maloletá	0	532
+1421	Čoláková Ružena	maloletá, Kusín	0	429,434
+1421	Čornej Andrej	m. Džubová, Kusín	0	475
+1421	Čornej Andrej	Prešov	0	428,439,515
+1421	Čornej Juraj		0	534
+1421	Čornej Juraj	Kusín	0	436
+1421	Čornej Pavol	Kusín	0	447,480
+1421	Čornej Štefan	Kusín	0	428
+1421	Čornejová Anna r. Jurčiková		0	528,549
+1421	Čornejová Anna r. Jurčiková	Kusín	0	427
+1421	Čuchran Pavol	NV- m Fenciková	1	463
+1421	Čuchranová Alžbeta	NV-	1	463
+1421	Čuchranová Anna	NV-	1	463
+1421	Čuchranová Júlia r. Fenciková, 072 32, Kusín, SR	NV	1	463
+1421	Čuchranová Mária	NV-	1	463
+1421	Čurpačiková Anna r. Rybnická	Kusín	0	448
+1421	Čurpačiková Anna r. Rybnická, 072 32, Kusín, SR	NV	1	464
+1421	Demka Michal	NV-	1	463
+1421	Demka Peter	NV-	1	463
+1421	Dlužaninová Alžbeta	Kusín	0	488
+1421	Dlužaninová Júlia r. Sásová	Kusín	0	488
+1421	Dlužaninová Júlia r. Sásová, 072 32, Kusín, SR	NV	1	431
+1421	Dlužaninová Mária		0	458
+1421	Dlužaninová Mária	Kusín	0	488
+1421	Dlužaninová Mária	NV-	1	431
+1421	Dohan Jozef	1868	0	401
+1421	Dohan Mikuláš	1874	0	401
+1421	Dohanová Mária	Kusín	0	451
+1421	Fenčíková Ilona	NV-	1	463
+1421	Fenčíková Mária	NV-	1	463
+1421	Fenčíková Zuzana r. Michaličová, 072 32, Kusín, SR	NV	1	463
+1421	Florianová Anna r. Čornejová	Kusín	0	447,480
+1421	Gajdošová Zuzana r. Timčáková		0	409,535
+1421	Gajdošová Zuzana r. Timčáková	Kusín	0	437
+1421	Gomboš Ján	NV-	1	463
+1421	Gomboš Michal	NV-	1	463
+1421	Gombošová Zuzana	NV-	1	463
+1421	Hadžuriková Anna r. Demková, 072 32, Kusín, SR	NV /m.Juraj/	1	463
+1421	Halapi Ján	NV-	1	454
+1421	Halapi Jozef		0	409
+1421	Halapi Michal	m Dankovčíková	0	409
+1421	Halapi Pavol	NV-	1	454
+1421	Halapiová Mária r. Gombošová, 072 32, Kusín, SR	NV	1	463
+1421	Halapiová Mária r. Koceľová, 072 32, Kusín, SR	NV	1	463
+1421	Halási Juraj	Kusín	0	491
+1421	Hamorská Mária r. Hricová	Kusín	0	449,450
+1421	Havriliková Anna r. Mižáková		0	400,457
+1421	Hlavanič Juraj	maloletý	0	542,553
+1421	Hlavanič Juraj	maloletý, Kusín	0	429
+1421	Hlavanič Michal		0	542,553
+1421	Hlavanič Michal	Kusín	0	429
+1421	Hlavanič Pavol		0	542
+1421	Hlavanič Pavol	Kusín	0	490
+1421	Hlavanič Pavol	maloletý	0	553
+1421	Hlavanič Pavol	maloletý, Kusín	0	429
+1421	Hlavaničová Anna	maloletá	0	542,553
+1421	Hlavaničová Anna	maloletá, Kusín	0	429
+1421	Hlavaničová Júlia r. Nemjó		0	531
+1421	Hlavaničová Júlia r. Nemjó	Kusín	0	433,490
+1421	Hlavaničová Mária	maloletá	0	542,553
+1421	Hlavaničová Mária	maloletá, Kusín	0	429
+1421	Hlavaničová Verona	maloletá	0	553
+1421	Horňáková Mária r. Valaškovčíková		0	439
+1421	Horňáková Mária r. Valaškovčíková	Kusín	0	515
+1421	Hreňovčíková Mária r. Mindžáková	Kusín	0	444
+1421	Hricová Zuzana r. Čoláková		0	532
+1421	Hricová Zuzana r. Čoláková	Kusín	0	429,434
+1421	Ihnátová Anna		1	425,461
+1421	Ihnátová Mária r. Rybnická	Kusín	0	448
+1421	Ihnátová Mária r. Rybnická, 072 32, Kusín, SR	NV	1	464
+1421	Jackulič Ján	Kusín	0	477
+1421	Jackulič Juraj	m Čopiková, Kusín	0	426
+1421	Jackulič Juraj	m. Čopiková, Kusín	0	447,480
+1421	Jakubová Mária r. Zahorčáková	1896	0	38
+1421	Jakubová Mária r. Záhorčáková		0	544
+1421	Jakubová Mária r. Záhorčáková, 072 32, Kusín, SR	NV 1896	1	445,464
+1421	Janoščová Alžbeta r. Jurčiková		0	528,549
+1421	Janoščová Alžbeta r. Jurčiková	Kusín	0	427
+1421	Jusko Ján	maloletý	0	398
+1421	Jusko Michal	maloletý	0	398
+1421	Jusková Alžbeta	maloletá	0	398
+1421	Jusková Anna	maloletá	0	398
+1421	Jusková Mária	maloletá	0	398
+1421	Jusková Zuzana	maloletá	0	398
+1421	Kalaninová Zuzana r. Hlavaničová		0	542,553
+1421	Kalaninová Zuzana r. Hlavaničová	Kusín	0	429
+1421	Kancza Ján	NV-	1	463
+1421	Kašai Anna	Kusín	0	494
+1421	Koceľa Ján		0	401
+1421	Koceľa Michal	NV-	1	463
+1421	Koczelia Antal	NV-	1	481
+1421	Koczelia Ilies	NV-	1	481
+1421	Koscelníková Katarína r. Koscelníková		0	519
+1421	Koscelníková Katarína r. Koscelníková	Kusín	0	414,489
+1421	Labuz Ján		0	528
+1421	Labuz Ján	Kusín	0	427
+1421	Lukačeňa Ján	NV- ž.Mária r.Lukačeňová	1	463
+1421	Mackovič Herman		0	457
+1421	Maščeník Michal	maloletý	1	537
+1421	Maščeník Michal	NV- maloletý	1	442,487
+1421	Maščeníková Verona r. Ihnátová		1	461
+1421	Mindžáková Mária	Kusín	0	444
+1421	Mindžáková Mária	NV-	1	481
+1421	Mišľanová Zuzana r. Čornejová	Kusín	0	447,480
+1421	Mižák Ján		0	543
+1421	Mižák Juraj	m. Poláková	0	543
+1421	Mižák Michal		0	543
+1421	Mižáková Anna r. Čeripková		0	411,516,596
+1421	Mižáková Katarína r. Homroková	Kusín	0	426
+1421	Mižáková Mária r. Čoláková		0	532
+1421	Mižáková Mária r. Čoláková	Kusín	0	429,434
+1421	Nemjo Michal	maloletý, Kusín	0	432,471
+1421	Nemjová Mária		0	530
+1421	Nemjová Mária	Kusín	0	432,471
+1421	Olexová Mária r. Hricová		0	530
+1421	Olexová Mária r. Hricová	Kusín	0	432,471
+1421	Oravcová Alžbeta r. Čoláková	Kusín	0	429,434
+1421	Oravcová Ružena r. Čoláková		0	532
+1421	Paľovčík Peter	Kusín	0	474,495
+1421	Paľovčíková Mária	Kusín	0	474,495
+1421	Pauločík Andrej	Kusín	0	474
+1421	Pauločík Andrej	NV-	1	445
+1421	Pauločiková Anna	Kusín	0	474
+1421	Petrušková Mária r. Smoligová	Kusín	0	480
+1421	Pocsatko Michal		1	537
+1421	Pocsatko Michal	NV-	1	442
+1421	Polák Andrej		0	405,459,498,548
+1421	Polák Andrej	Kusín	0	472
+1421	Polák Anton	m. Čoláková	0	499
+1421	Polák Anton	m. Čoláková, Kusín	0	472
+1421	Polák Ján		0	405,406,459,498,548
+1421	Polák Ján	Kusín	0	472
+1421	Poláková Anna		0	406,548
+1421	Poláková Helena		0	498,548
+1421	Poláková Mária		0	498,548
+1421	Polášková Júlia r. Jurčiková		0	528,549
+1421	Poľašková Júlia r. Jurčiková	Kusín	0	427
+1421	Popovič Ján		0	398
+1421	Popovič Juraj	maloletý	0	398
+1421	Popovič Michal		0	398
+1421	Popovičová Júlia	maloletá	0	398
+1421	Popovičová Zuzana	maloletá	0	398
+1421	Poticha Ján		0	398
+1421	Poticha Jurcin		0	398
+1421	Potichová Alžbeta		0	398
+1421	Potichová Anna	m Štefan	0	398
+1421	Potichová Júlia		0	398
+1421	Potichová Mária		0	398
+1421	Rosák Vasiľ	Kusín	0	474
+1421	Rosáková Terézia		0	407
+1421	Rošák Ján		0	535
+1421	Rošák Ján	Kusín	0	437
+1421	Rošák Pavol	Kusín	0	476
+1421	Rošáková Anna		0	407
+1421	Rošáková Zuzana		0	535
+1421	Rošáková Zuzana	Kusín	0	437
+1421	Rott Úvegi Hermína	Kusín	0	470
+1421	Rybnický Andrej		0	518,522
+1421	Rybnický Andrej	Kusín	0	413,417,514
+1421	Rybnický Juraj	Kusín	0	448
+1421	Rybnický Vasiľ	maloletý	0	518
+1421	Rybnický Vasiľ	maloletý, Kusín	0	413,514
+1421	Saxunová Mária r. Čagová		0	553
+1421	Saxunová Mária r. Čagová, 072 32, Kusín, SR	NV	1	463
+1421	Semjanová Zuzana r. Janošová		0	412
+1421	Serbák Pavol	Kusín č. 22	0	457
+1421	Serbáková Mária		1	461,547
+1421	Smoligová Mária	NV-	1	481
+1421	Sorokáčová Júlia r. Valaškovčáková	Kusín	0	414
+1421	Szászová Júlia		0	410
+1421	Szászová Júlia	Kusín	0	456
+1421	Širochmanová Anna r. Fencíková	Kusín	0	475
+1421	Tomko Juraj	ml., Kusín	0	444
+1421	Tomko Ondó Pavol	m. Halásiová, Kusín	0	491
+1421	Tomko Ondovčík Juraj	Kusín	0	429,434
+1421	Tomková Anna r. Čornejová	Kusín	0	495
+1421	Tomková Mária r. Ondovčíková		0	553
+1421	Topolančin Juraj	NV- m Čornová	1	445
+1421	Valaškovčák Šimon		0	449
+1421	Valaškovčáková Mária	Kusín	0	449
+1421	Valaškovčáková Mária r. Pirkovská		0	449
+1421	Veligdanová Mária	Jurčiková	0	549
+1421	Veligdanová Mária r. Jurčiková		0	528
+1421	Veligdanová Mária r. Jurčiková	Kusín	0	427
+1421	Vojanská Mária r. Semjanová, 072 32, Kusín, SR	NV	1	463
+1421	Vojanský Juraj	NV-	1	463
+1421	Záhorčák Ján		1	481
+1421	Záhorčák Ján	m. Šafinová, Kusín	0	446
+1421	Záhorčák Ján	m. Šafinová, Kusín č. 4	0	448
+1421	Záhorčák Ján	NV m. Šafinová	1	445
+1421	Záhorčák Ján	NV m.Šafinová	1	419
+1421	Záhorčák Ján	NV ž. Anna r. Šafinová	1	423
+1421	Záhorčák Juraj	Kusín	0	415,491
+1421	Záhorčák Juraj	m Dobiášová	1	403,527,618
+1421	Záhorčák Juraj	m. Dobiášová	0	460,520
+1421	Záhorčák Juraj	NV-	1	423,445,464
+1421	Záhorčák Michal	m. Jánošová, Kusín	0	488
+1421	Záhorčák Pavol	Kusín	0	446
+1421	Záhorčák Pavol	NV-	1	464
+1421	Záhorčáková Alžbeta	1900	1	527,544,618
+1421	Záhorčáková Alžbeta	NV-	1	423,445,464

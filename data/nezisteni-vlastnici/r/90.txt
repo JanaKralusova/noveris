@@ -1,0 +1,256 @@
+65	ŠVERHA JÁN		0	525
+65	ŠVERHA JOZEF		0	525,555,802
+65	TOMEČEK JOZEF		0	405,433,1027,1297,1463,2284
+65	TOMEČEKOVÁ Mária		0	1463
+65	TOMEČKOVÁ MÁRIA		0	405,433,1027,1297,2284
+65	VAVREK JÁN		0	405,433,1297,2284
+65	VAVREK Jozef	ž.Petronela r.Kolkopová	0	1538
+65	VAVREK JOZEF		0	405,433,1297,2284
+65	VAVREK Juraj	ž.Mária r.Beňová	0	1538
+65	VAVREK JURAJ		0	405,433,1297,2284
+65	VAVREKOVÁ Mária	dcéra Juraja	0	1538
+65	VIRGALA Jozef	ž.Anna r.Kendrová	0	1457,1552,1609,2138
+65	VOLČKO Michal	ž.Zuzana r.Tomčinová	0	1552,1609
+65	ŽELINSKÝ Ján	ž.Zuzana r.Mihaľová	0	1531
+66	Abrman Jozef, SPF SPF		1	2395
+66	Áčová Alžbeta r. Lukáčová, SPF SPF		1	2768
+66	Adamka Ján, SPF SPF		1	2858
+66	ADAMOVÁ Lídia	r. Puskásová	1	1441
+66	Adamová Lídia r. Puskásová		0	2857
+66	Adlerová Anna, SPF SPF		1	2499
+66	Adlerová Magdaléna r. Adlerová		0	2137
+66	Angyelik Štefan, ž. Barbora Seböová ž. Barbora Seböová		0	2365
+66	Angyeliková Barbora r. Seböová		0	2903
+66	Bábelová Rozália r. Cziriová		0	2527
+66	BAGÓCSI Ernest	ž. Jolana Némethová	1	1428,1441
+66	Bagócsi Ján		0	2680
+66	Bagocsiová Alžbeta r. Verešová, SPF SPF		1	1985
+66	BAGÓCSIOVÁ Jolana	r.Némethová	1	1441
+66	BAGÓCSIOVÁ Sára	r. Cziriová	1	1441
+66	Bagócsiová Sára r. Cziriová		0	2734
+66	BAGÓCSYOVÁ Mária	r. Szabóová	1	1242,1244
+66	Bahík Žigmund, SPF SPF		1	2394,2935
+66	BAHIKOVÁ Etela	r. Szabóová	1	1245
+66	BAHIKOVÁ Júlia	r. Cziriová	1	1441
+66	Bahiková Júlia r. Cziriová		0	2939
+66	Balog Ondrej		0	2185
+66	Baťalík Ondrej		0	2004
+66	Baťalíková Mária r. Lehocká		0	2004
+66	Belaiová Helena r. Koszibová		0	1971
+66	Belaiová Mária r. Kurucová		0	2920
+66	Belanová Agneša r. Markovičová, vdova vdova		0	1993
+66	Belíková Katarína r. Lažanová		0	2123
+66	Benyo František, SPF SPF		1	2378
+66	BERKEOVÁ Agneša	r. Kalászová	1	715,1441
+66	Berkeová Agneša r. Kalászová		0	2063
+66	Blumenthál Dávid, SPF SPF		1	2148
+66	Bogyó Ondrej, SPF SPF		1	2448
+66	BOTKA Viliam	ž. Estera Jeneiová	1	1346
+66	Botka Viliam, ž. Estera Jeneiová ž. Estera Jeneiová		0	2545
+66	BOTKOVÁ Alžbeta	r.Szabóová	1	1441
+66	Botková Alžbeta r. Szabóová, SPF SPF		1	2175
+66	Brančíková Júlia, SPF SPF		1	1981
+66	Brančiková Vilma r. Šikulová, nar. 24.11.1904, zom. 8. 1. 2003 nar. 24.11.1904, zom. 8. 1. 2003		0	1985
+66	Budaiová Margita r. Hlastáková, SPF SPF		1	2203
+66	BÚDAYOVÁ Margita	r. Hlasztáková	1	1402
+66	Buchlovič Ján, Adamov Adamov		0	2634
+66	Buchlovič Ondrej, SPF SPF		1	2765
+66	Buchlovič Štefan, SPF SPF		1	2244
+66	Cillingová Alžbeta r. Gyurisová		0	2627
+66	Ciria Ernest, SPF SPF		1	2267
+66	CIRIA František		1	1243,1428,1441
+66	Ciria František, SPF SPF		1	2584
+66	Ciria Ján, SPF SPF		1	2310
+66	CIRIA Jozef		1	1251,1441
+66	Ciria Karol, SPF SPF		1	2696
+66	CIRIA Ondrej	ml	1	248,1441
+66	Ciria Ondrej, ml. ml.		0	2648
+66	Ciria Ondrej, SPF SPF		1	2157
+66	CIRIA Pavol		1	1240,1429,1441
+66	Ciria Pavol, SPF SPF		1	2151
+66	Ciria Štefan, SPF SPF		1	2041
+66	Ciria Štefan, ž. Rozália Adamová ž. Rozália Adamová		0	1993
+66	Ciriová Agneša, SPF SPF		1	2023
+66	CIRIOVÁ Alžbeta	r. Ciriová	1	1441
+66	Ciriová Estera r. Püčöková, manžel Ondrej Ciria manžel Ondrej Ciria		0	2285
+66	CIRIOVÁ Gizela		1	1441
+66	Ciriová Irena, SPF SPF		1	1971
+66	CIRIOVÁ Júlia	r. Šafárová	1	1441
+66	CIRIOVÁ Mária	r. Megyeriová	1	1441
+66	Ciriová Mária r. Megyeriová		0	2460
+66	Círiová Mária, SPF SPF		1	1971
+66	Ciriová Rozália r. Adamová		0	1993
+66	Csajagi Jozef, ml. ml.		0	2494
+66	Csajagi Jozef, st.,ž.Alžbeta r.Magyarová st.,ž.Alžbeta r.Magyarová		0	2002
+66	Csajagiová Alžbeta r. Magyarová		0	2002
+66	Czervenková Mária r. Orosziová		0	2891
+66	CZILINGOVÁ Anna	r. Szolcsánszka	1	1441
+66	Czilingová Anna r. Szolcsánszká		0	2353
+66	CZIRIA Alexander	mal	1	1397,1441
+66	CZÍRIA Alexander		1	1234,1441
+66	Cziria Alexander, mal. mal.		0	2183
+66	Czíria Andrej, SPF SPF		1	1971
+66	CZIRIA Arpád		1	1415,1441
+66	Cziria Arpád, SPF SPF		1	2597
+66	Cziria Dávid, SPF SPF		1	1973,2525
+66	Czíria Emil r. Czíria, zom.14.01.1998 zom.14.01.1998		0	1973
+66	Czíria Karol, SPF SPF		1	2887
+66	CZIRIA Ladislav	ž. Júlia Pücsöková	1	1399,1441
+66	Cziria Ladislav, SPF SPF		1	2471,2631
+66	CZÍRIA Ondrej		1	1441
+66	Cziria Ondrej r. Cziria, nar. 08.02.1915, zom. 20. 1. 1945 nar. 08.02.1915, zom. 20. 1. 1945		0	2373
+66	Cziria Ondrej, ž. Mária Pomoziová ž. Mária Pomoziová		0	2493
+66	CZÍRIA Štefan		1	1234,1397,1441
+66	Cziria Štefan, SPF SPF		1	2141,2360
+66	Cziria Viliam r. Cziria, nar. 01.02.1900, zom. 22. 5. 1981 nar. 01.02.1900, zom. 22. 5. 1981		0	2656
+66	CZIRIA Vojtech		1	1242
+66	CZIRIOVÁ Agneša		1	1441
+66	CZIRIOVÁ Agneša	dcéra Ladislava	1	1441
+66	CZIRIOVÁ Agneša	r. Szabóová	1	1441
+66	Cziriová Agneša r. Szabóová, SPF SPF		1	1993,2689
+66	CZIRIOVÁ Alžbeta	r. Sikulová	1	1441
+66	Cziriová Alžbeta r. Hasznosová		0	2314
+66	Czíriová Alžbeta, SPF SPF		1	2654
+66	Cziriová Helena r. Pücsöková		0	2325
+66	Czíriová Helena, SPF SPF		1	2174
+66	Cziriová Irena r. Kariková, narodená 22.07.1936, v REGOB sa nenachádza narodená 22.07.1936, v REGOB sa nenachádza		0	2009
+66	CZIRIOVÁ Júlia	r. Pücsöková	1	1399,1441
+66	CZÍRIOVÁ Júlia	r. Šafárová	1	1418
+66	Cziriová Júlia r. Pücsöková		0	2706
+66	Czíriová Júlia, SPF SPF		1	2646
+66	Cziriová Katarína r. Cziriová		0	1993
+66	CZIRIOVÁ Mária	r. Megyerová	1	1429
+66	CZÍRIOVÁ Mária	r.Czíriová	1	1234
+66	CZÍRIOVÁ Mária	r.Vargová	1	1441
+66	Cziriová Mária r. Cziriová		0	2944
+66	Cziriová Mária r. Megyerová, SPF SPF		1	2208
+66	Cziriová Mária r. Pomoziová, SPF SPF		1	2164
+66	Cziriová Rozália r. Keményová		0	2770
+66	CZIRJA Ladislav		1	588
+66	Čaplák Ludvik, SPF SPF		1	2118
+66	Červenka Ján, ž. Mária Orosiová ž. Mária Orosiová		0	2195
+66	Červenková Mária r. Orosiová, SPF SPF		1	2629
+66	Demeny Július, ž.Rozália r.Horvathová ž.Rozália r.Horvathová		0	2364
+66	DEMÉNYOVÁ Agneša	r. Nagyová	1	1388,1441
+66	Deményová Agneša r. Nagyová		0	2859
+66	Demenyová Rozália r. Horváthová		0	2119
+66	Dóbiásová Alžbeta r. Vargová		0	2396
+66	Drenka Jozef, SPF SPF		1	2468
+66	Drenko Viliam, SPF SPF		1	2078
+66	Drenková Anna r. Šuchalová		0	2389
+66	Dudašová Rozália r. Držíková, vdova vdova		0	2824
+66	Ďuračka Ondrej, Beša Beša		0	2591
+66	Ďurečka Ondrej, SPF SPF		1	2018
+66	Federicsová Mária r. Horváthová		0	1976,2572
+66	Fehér František, SPF SPF		1	2051
+66	Fehér Ján, ž. Rozália Slavková ž. Rozália Slavková		0	2457
+66	Fehérová Mária r. Pintérová, vdova vdova		0	2257
+66	Fehérová Rozália r. Slavková		0	2235
+66	FEKETEOVÁ Vilma	r. Klačková	1	1441
+66	Feketeová Vilma r. Klačková		0	2618
+66	Ficek Ján, SPF SPF		1	2739
+66	Ficeková Zuzana r. Bičaneková		0	2277
+66	FODOR Alexander		1	1424
+66	Fodor Alexander, SPF SPF		1	2216
+66	Fodor Alexander, ujpesti ujpesti		0	2605
+66	Fodor Ondrej, SPF SPF		1	1973,1993
+66	FODOR Štefan		1	1247
+66	Fodor Štefan, SPF SPF		1	2753
+66	FODOROVÁ Irma		1	1153,1441
+66	Fodorová Irma, SPF SPF		1	2358
+66	Forgáčová Rozália r. Molnárová, SPF SPF		1	2188
+66	Fridrichová Zlatica r. Veresová		0	2281
+66	Gabriš František, ž. Júlia Lukácsová ž. Júlia Lukácsová		0	2159
+66	Gábriš Jozef, ml. ml.		0	2682
+66	Gabrišová Júlia r. Lukácsová		0	2716
+66	GALAMBOŠ Arnošt		1	1441
+66	Galamboš Arnošt, SPF SPF		1	2690
+66	GALAMBOŠ Eugen		1	1441
+66	Galamboš Eugen, SPF SPF		1	2284
+66	Galamboš Ján, SPF SPF		1	2467
+66	Garai Imrich, vdovec vdovec		0	2665
+66	Gašparík Ján, SPF SPF		1	2324
+66	GAZSÓOVÁ Rozália	r. Magdová	1	1441
+66	Gazsóová Rozália r. Magdová		0	1993,2676
+66	GÓRIOVÁ Estera	r. Nagyová	1	1388
+66	GORIOVÁ Mária	r.Lukáčová	1	1163
+66	Goriová Mária r. Lukáčová		0	1993
+66	Grňak Mikuláš, SPF SPF		1	2057
+66	Grňaková Johana r. Kurucová		0	2804
+66	Guaiserová Mária r. Ráczová		0	1971
+66	Gutrai Ján, SPF SPF		1	1993,2100
+66	Gutrai Július, SPF SPF		1	2526
+66	Gutrai Ladislav, SPF SPF		1	2910
+66	Gutrai Matej, 1914,Bardoňovo 123 1914,Bardoňovo 123		0	2939
+66	Gutrai Ondrej, SPF SPF		1	2348
+66	Gutrai Ondrej, ž. Agneša Jenciová ž. Agneša Jenciová		0	2095
+66	Gutrai Štefan, SPF SPF		1	1972
+66	GUTRAIOVÁ Agneša	r. Jeneiová	1	1441
+66	Gutraiová Agneša r. Jeneiová		0	2924
+66	Gutraiová Agneša, SPF SPF		1	1993,2384
+66	Gyuris Ľudovít, SPF SPF		1	2121
+66	Gyuriš Peter, ž. Alžbeta Selingerová ž. Alžbeta Selingerová		0	2802
+66	Gyurišová Alžbeta r. Selingerová		0	2549
+66	Hajduová Rozália r. Gruberová		0	2454
+66	Haluška Alexander		0	2796
+66	Hancko Ondrej, SPF SPF		1	2553
+66	Harcsová Žofia r. Czíriová		0	2067
+66	Hentek Jozef, ž. Rozália r.Pintérová ž. Rozália r.Pintérová		0	2830
+66	Henteková Rozália r. Pinterová		0	2587
+66	HERMANOVÁ Jolana	r. Jakabová	1	1153,1441
+66	Hermanová Jolana r. Jakabová		0	2944
+66	HLAVATÁ Alžbeta		1	439,1229,1393,1870,3008
+66	Hlavatá Alžbeta r. Borosová		0	2508
+66	Hlavatá Alžbeta, SPF SPF		1	1993,2295
+66	Hlavatá Helena r. Solčánska		0	2094
+66	HLAVATÁ Mária		1	1393,1870
+66	Hlavatá Mária r. Slavíková		0	2346
+66	Hlavatá Mária, SPF SPF		1	1981
+66	HLAVATÝ Alexander		1	1229,3008
+66	HLAVATÝ Ján		1	1393,1870
+66	Hlavatý Ján, SPF SPF		1	1974
+66	Hlavatý Jozef, ž. Alžbeta Borosová ž. Alžbeta Borosová		0	2521
+66	HLAVATÝ Ondrej		1	439
+66	Hlavatý Ondrej, SPF SPF		1	1985
+66	Hlavatý Ondrej, ž. Katarína Pauliková ž. Katarína Pauliková		0	1974,2335
+66	Hlavatý Štefan, SPF SPF		1	2876
+66	HORNÍK František		1	1221
+66	Horník Jozef, SPF SPF		1	2651
+66	Horník Viliam, ž. Rozália Kosáková ž. Rozália Kosáková		0	2309
+66	HORNÍKOVÁ Helena	mal	1	1221
+66	Horníková Rozália r. Kosáková		0	2695
+66	Hornyak Štefan, ž.Katarína r.Trungelová ž.Katarína r.Trungelová		0	1976,2650
+66	Hornyaková Katarína r. Trungelová		0	1976,2169
+66	HORVATH Ľudovít		1	1410
+66	Hupka Ján, ž. Katarína Szuranszká ž. Katarína Szuranszká		0	2154
+66	Hupková Katarína r. Szuranszká		0	2291
+66	Huszár Ondrej, ž. Mária Fodorová ž. Mária Fodorová		0	2202
+66	Huszárová Mária r. Fodorová		0	2241
+66	Chlebovits Imrich, ž. Júlia Mihályová ž. Júlia Mihályová		0	2764
+66	Chlebovitsová Júlia r. Mihályová		0	2633
+66	Chrenko Ján, SPF SPF		1	2777
+66	Ivanič Štefan, LSR LSR		0	2939
+66	JAKAB Alexander		1	1153,1441
+66	Jakab Alexander, SPF SPF		1	2505
+66	Jakab Alexander, ž. Agneša Ondréová ž. Agneša Ondréová		0	2222
+66	Jakabová Agneša r. Ondréová		0	2268
+66	Jasná Katarína r. Gažová		0	2359
+66	JENEI Alexander		1	1441
+66	Jenei Alexander, SPF SPF		1	2598
+66	JENEI Ernest		1	1441
+66	Jenei Ernest, SPF SPF		1	1973
+66	Jenei Eugen, mal. mal.		0	1989
+66	JENEI Jonáš		1	1398
+66	JENEI Jonáš	ž. Žofia Pücsöková	1	1398,1441
+66	Jenei Jonáš, SPF SPF		1	1993,2886
+66	Jenei Jonáš, ž. Žofia Pücsöková ž. Žofia Pücsöková		0	2470
+66	JENEI Jozef		1	1398
+66	Jenei Jozef, SPF SPF		1	1993,2086
+66	JENEI Viliam		1	1441
+66	JENEIOVÁ Agneša	r. Fodorová	1	1441
+66	Jeneiová Agneša r. Fodorová		0	2404
+66	JENEIOVÁ Estera	r. Lehotová	1	1424,1441,2963
+66	Jeneiová Estera r. Lehotová		0	2883
+66	JENEIOVÁ Rozália		1	1398,1441,2420
+66	Jeney Alexander r. JENEY, nar. 15.04.1922, zom. 20. 12. 1978 nar. 15.04.1922, zom. 20. 12. 1978		0	2124
+66	Juhász Ján, ž. Alžbeta Modzgová ž. Alžbeta Modzgová		0	2852

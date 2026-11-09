@@ -1,0 +1,256 @@
+119	Sokol Peter, SR		1	579
+119	Sokolová Anna, SPF SPF		1	1117
+119	Sokolová Anna, SR		1	579
+119	Sokolová Emília, SPF SPF		1	1117
+119	Sokolová Emília, SR		1	579
+119	Sokolová Irena, SPF SPF		1	1117
+119	Sokolová Irena, SR		1	579
+119	Sokolová Jolana, SPF SPF		1	1117
+119	Sokolová Jolana, SR		1	579
+119	Sokolová Mária	mal Madliaková	1	1117
+119	Sokolová Matilda, SPF SPF		1	1117
+119	Sokolová Matilda, SR		1	579
+119	Sokolová Oľga, SPF SPF		1	1135
+119	Srnka Karol	žen s Žofiou Plávka	1	1135
+119	Srnka Karol, SPF SPF		1	1138
+119	Srnková Žofia r. Plávková, SPF SPF		1	1135
+119	Staroňová Mária r. Vyšná, zomr. 8.1.1983 zomr. 8.1.1983		0	1343
+119	Stranovčinová Margita r. Mullerová, SPF SPF		1	1477
+119	Šavrnoch Jozef, SPF SPF		1	1105,1117
+119	Šavrnoch Ľudevít, SPF SPF		1	1105
+119	Šavrnochová Agneša r. Bobčeková vd, SPF SPF		1	1105
+119	Šavrnochová Agneša r. Bobčeková, vd. SPF vd. SPF		1	1117
+119	Šavrnochová Helena	ml	1	1105,1117
+119	Šavrnochová Margita r. Jánošová, SPF SPF		1	1105,1117
+119	Šebestová Jolana r. Mareťaková, SPF SPF		1	1117
+119	Ševcová Apolónia, SPF SPF		1	1117
+119	Ševcová Johana r. Brčiková, SPF SPF		1	1117
+119	Šimalčík Bohumil, SPF SPF		1	1105,1112,1117,1547,1548,1549
+119	Šimová Mária r. Zahradníková Gejdošová, SPF SPF		1	1117
+119	Šimunová Agneša r. Ševcová, SPF SPF		1	1117
+119	Šrámeková Helena r. Madliaková, SPF SPF		1	1094,1181
+119	Števulová Amália r. Janteková, SPF SPF		1	1126
+119	Štolc Jozef, SPF SPF		1	1117
+119	Štolc Štefan	žen s Cecíliou Sedlák	1	579
+119	Štolcová Cecília r. Sedláková, SR		1	579
+119	Štrupel Alojz, SPF SPF		1	1117
+119	Štrupel Ján	Nap	1	1117
+119	Štrupel Ján, SPF SPF		1	1117
+119	Švidroň Andrej, SPF SPF		1	1105,1117
+119	Švidroň Fridrich, SPF SPF		1	1476
+119	Švidroň Ján, SPF SPF		1	1105
+119	Švidroň Jozef	Michalov	1	1117,1212
+119	Švidroň Jozef, SPF SPF		1	1117,1292
+119	Švidroň Michal, SPF SPF		1	1105,1117
+119	Švidroň Ondrej, SPF SPF		1	1105,1117
+119	Švidroň Valent, SPF SPF		1	1117
+119	Švidroňová Mária r. Kucbelová, SPF SPF		1	1105,1117
+119	Švidroňová Zuzana r. Kováčová, SPF SPF		1	1105
+119	Švidroňová Zuzana, SPF SPF		1	1105
+119	Tegelhoffová Jozefína r. Likavcová, SPF SPF		1	1105
+119	Teniak Adolf	mal	1	1094,1118,1511,1539
+119	Teniak Ján	mal v Amerike	1	1094,1118,1511,1539
+119	Teniak Milan, SPF SPF		1	1495
+119	Teniaková Eva r. Gašperíková Jánova, SPF SPF		1	1094,1424,1539
+119	Teniaková Eva r. Rybárska Ondrejova, SPF SPF		1	1404,1562
+119	Tomčík Ján, st. SPF, nar. 30.04.1913 st. SPF, nar. 30.04.1913		1	1138
+119	Tomová Agneša, SPF SPF		1	1105
+119	Tomová Anna r. Tomčíková, SPF SPF		1	1117
+119	Tomová Jozefína, SPF SPF		1	1105
+119	Trnovská Mária r. Likavcová Garajová, SPF SPF		1	1117
+119	Trnovská Zuzana r. Baranová, SPF SPF		1	1126,1397
+119	Tuková Margita r. Sokolová, SPF SPF		1	1117
+119	Tuková Margita r. Sokolová, SR		1	579
+119	Turza Ján	mladý	1	1138
+119	Turza Pavol, SPF SPF		1	1138
+119	Uhliková Emília r. Duchovná, SPF SPF		1	1117
+119	Urbanovičová Mária r. Berník Jurajova, SPF SPF		1	1094,1118,1240
+119	Vrzgula Andrej	ml	1	1117
+119	Vrzgula Jozef, SPF SPF		1	1117
+119	Vrzgula Matej	Kováč	1	1117
+119	Vrzgulová Eva r. Kunová, SPF SPF		1	1117
+119	Vrzgulová Mária r. Matulová, SPF SPF		1	1117
+119	Vrzgulová Zuzana r. Vrzgulová, SPF SPF		1	1117
+119	Vyšná Mária	mal	1	1118,1126
+119	Vyšná Mária	mal vyd Lazoňová	1	1094,1118,1308
+119	Vyšná Mária r. Bellová, SPF SPF		1	1118,1156,1491
+119	Vyšná Zuzana	mal vyd Staroňová	1	1094,1118,1472
+119	Vyšná Zuzana, SPF SPF		1	1094,1137,1237,1539
+119	Vyšná Žofia	mal	1	1118,1126
+119	Vyšný Adam	1	1	1118,1191
+119	Vyšný Adam	2	1	1115
+119	Vyšný Adam	mal	1	1118,1126
+119	Vyšný Adam	z Bešeňovej	1	1306
+119	Vyšný Adam	žen s Máriou Bella	1	1118,1156,1468
+119	Vyšný Ján	1	1	1137,1440
+119	Vyšný Ján	2	1	1094,1378,1539
+119	Vyšný Ján	3	1	1373
+119	Vyšný Ján	mal	1	1094,1118,1167,1539
+119	Vyšný Ján	z Potoka	1	1118,1126
+119	Vyšný Ján	Záhorčan	1	1138
+119	Vyšný Jozef	1	1	1115,1118
+119	Vyšný Jozef	2	1	1094,1166,1522
+119	Vyšný Jozef	3	1	1118,1126
+119	Vyšný Jozef	mal	1	1118,1126
+119	Vyšný Ondrej	mal	1	1094,1118,1262
+119	Vyšný Ondrej	mal 1	0	1118,1126
+119	Vyšný Ondrej	mal 2	1	1117
+119	Vyšný Ondrej	mal z Bešeňovej	1	1115
+119	Vyšný Ondrej	Ondrejov	1	1115
+119	Vyšný Ondrej, LSR LSR		0	1522
+119	Vyšný Ondrej, SPF SPF		1	1354
+119	Záhradníková Mária r. Štolcová, SPF SPF		1	1117
+119	Zachar Augustín, SPF SPF		1	1117
+119	Zachar Ondrej	Drnka	1	1117
+119	Zachar Štefan, SPF SPF		1	1117
+119	Zacharová Františka r. Hajasová Tutáková, SPF SPF		1	1117
+119	Zacharová Ilona	Tutáková	1	1117
+119	Zacharová Marta	Tutáková	1	1117
+119	Zalajov Jozef, SPF SPF		1	1105
+119	Zalajová Irena, SPF SPF		1	1105
+119	Zalajová Oľga, SPF SPF		1	1105
+119	Zaťko Jozef	mal	1	338,349,1094,1118,1282,1522
+119	Zaťko Ondrej, LSR LSR		0	1522
+119	Zaťko Ondrej, SPF SPF		1	1094,1118,1326
+119	Zaťko Ondrej, SR		1	338,349
+119	Zaťková Anna	mal	1	338,349,1094,1118,1365,1522
+119	Zaťková Anna, LSR LSR		0	1522
+119	Zaťková Anna, SPF SPF		1	1094,1118,1124,1539
+119	Zaťková Anna, SR		1	338,349
+119	Zaťková Zuzana	mal	1	338,349,1094,1118,1362,1522
+119	Zelina Florián, SPF SPF		1	1117
+119	Zubor Fric, SPF SPF		1	1135
+119	Zubor Fridrich	z L.Anny	1	1135
+119	Zuborová Emília, SPF SPF		1	1135
+119	Zuborová Mária, SPF SPF		1	1135
+119	Zvara Július	ž.s Ľudmilou Trstenský	1	1135
+119	Zvarová Ľudmila r. Trstenská, SPF SPF		1	1135
+119	Žiak Matej	mal	1	1137,1251
+119	Žiaran Pavol, SPF, nar. 10.03.1921 SPF, nar. 10.03.1921		1	1138
+120	Anatalová Alžbeta r. Martančíková		0	154,511
+120	Babiašová Anna r. Mičková, zom. 23.07.1993, posledný TP Lidická 1641/77, Poprad-Matejovce zom. 23.07.1993, posledný TP Lidická 1641/77, Poprad-Matejovce		0	568
+120	Bartošová Monika r. Koždoňová, zom. 25.05.2003, posledný TP F. Hečku 2440/5, Spišská Nová Ves zom. 25.05.2003, posledný TP F. Hečku 2440/5, Spišská Nová Ves		0	568
+120	Bednárik Ján r. Bednárik, Spišský Štiavnik Spišský Štiavnik		0	796
+120	Benková Jozefína r. Vallušová, zom. 21.11.2008, posledný TP SNP 158/105, Hranovnica zom. 21.11.2008, posledný TP SNP 158/105, Hranovnica		0	568
+120	Benková Mária r. Budická, zom. 16.05.1999, posledný TP Továrenská 639/17, Kežmarok zom. 16.05.1999, posledný TP Továrenská 639/17, Kežmarok		0	568
+120	Bizub Martin		0	443
+120	Blasáková Mária r. Hlavčáková, zom. 16.02.2005, posledný TP Brežný riadok 204/22, Poprad zom. 16.02.2005, posledný TP Brežný riadok 204/22, Poprad		0	568
+120	Bobovská Anna r. Štolcová, zom. 20.07.2008, posledný TP Hviezdoslavova 288/61, Hranovnica zom. 20.07.2008, posledný TP Hviezdoslavova 288/61, Hranovnica		0	568
+120	Borovičková Mária r. Jurčová, zom. 25.08.1992, posledný TP Ľubická cesta 1078/29, Kežmarok zom. 25.08.1992, posledný TP Ľubická cesta 1078/29, Kežmarok		0	568
+120	Botiková Zuzana, posledný známy pobyt Tlapákova 3, Ostrava - Hrabůvka, ČR posledný známy pobyt Tlapákova 3, Ostrava - Hrabůvka, ČR		0	568
+120	Buday Ján r. Buday, zom. 31.03.2012, posledný TP Gánovská 248/45, Gánovce zom. 31.03.2012, posledný TP Gánovská 248/45, Gánovce		0	568
+120	Drenčenyi Mikuláš		0	444,510
+120	Dunaj Jozef r. Dunaj, zom. 10.03.2013, posledný TP Hviezdoslavova 318/41, Hranovnica zom. 10.03.2013, posledný TP Hviezdoslavova 318/41, Hranovnica		0	568
+120	Dunajová Mária r. Husárová, zom. 15.02.1993, posledný TP SNP 105/64, Hranovnica zom. 15.02.1993, posledný TP SNP 105/64, Hranovnica		0	568
+120	Fábry Jozef r. Fábry, zom. 26.06.1999, posledný TP Školská 464/6, Hranovnica zom. 26.06.1999, posledný TP Školská 464/6, Hranovnica		0	568
+120	Farkašovská Klára r. Brosmanová, zom. 07.05.2008, posledný TP Sládkovičova 420/38, Hranovnica zom. 07.05.2008, posledný TP Sládkovičova 420/38, Hranovnica		0	568
+120	Farkašovský Ján r. Farkašovský, zom. 30.03.2009, posledný TP Špačinská cesta 634/23, Trnava zom. 30.03.2009, posledný TP Špačinská cesta 634/23, Trnava		0	568
+120	Farkašovský Štefan r. Farkašovský, zom. 25.08.2003, posledný TP 3367, Trnava zom. 25.08.2003, posledný TP 3367, Trnava		0	568
+120	Fedorová Anna r. Fábryová, zom. 12.09.1996, posledný TP SNP 138/94, Hranovnica zom. 12.09.1996, posledný TP SNP 138/94, Hranovnica		0	568
+120	Ferianc Ján r. Ferianc, posledný známy pobyt Betlanovce 19 posledný známy pobyt Betlanovce 19		0	777
+120	Fridmanová Mária r. Hlavčáková, zom. 06.07.1999, posledný TP SNP 159/108, Hranovnica zom. 06.07.1999, posledný TP SNP 159/108, Hranovnica		0	568
+120	Friedmanová Katarína r. Vallušová, zom. 03.01.2010, posledný TP SNP 159/108, Hranovnica zom. 03.01.2010, posledný TP SNP 159/108, Hranovnica		0	568
+120	Gajan Ján r. Gajan, zom. 10.01.2008, posledný TP Košická 2626/36, Poprad-Spišská Sobota zom. 10.01.2008, posledný TP Košická 2626/36, Poprad-Spišská Sobota		0	568
+120	Gajanová Anna r. Šulíková, zom. 27.09.2005, posledný TP Košická 2626/36, Poprad-Spišská Sobota zom. 27.09.2005, posledný TP Košická 2626/36, Poprad-Spišská Sobota		0	568
+120	Gajanová Mária r. Kušnieriková, zom. 17.07.2015, posledný TP Partizánska 697/65, Poprad zom. 17.07.2015, posledný TP Partizánska 697/65, Poprad		0	568
+120	Gajanová Mária r. Šulíková, zom. 17.04.2007, posledný TP Hviezdoslavova 326/36, Hranovnica zom. 17.04.2007, posledný TP Hviezdoslavova 326/36, Hranovnica		0	568
+120	Gallovič Jozef r. Gallovič, zom. 02.03.1996, posledný TP Štefánikova 313/5, Svit zom. 02.03.1996, posledný TP Štefánikova 313/5, Svit		0	568
+120	Gavalér Martin		0	568
+120	Gavaler Martin r. Gavaler, zom. 25.04.2001, posledný TP Vysoké Tatry-Tatranská Polianka 6 zom. 25.04.2001, posledný TP Vysoké Tatry-Tatranská Polianka 6		0	568
+120	Gavaler Štefan r. Gavaler, zom. 09.03.2002, posledný TP SNP 35/8, Hranovnica zom. 09.03.2002, posledný TP SNP 35/8, Hranovnica		0	568
+120	Gavalerová Magdaléna r. Vilimová, zom. 16.06.2000, posledný TP SNP 35/8, Hranovnica zom. 16.06.2000, posledný TP SNP 35/8, Hranovnica		0	568
+120	Gavalier Robert r. Gavalier, zom. 19.08.2009, posledný TP Štúrova 471/4, Hranovnica zom. 19.08.2009, posledný TP Štúrova 471/4, Hranovnica		0	568
+120	Gažura Ján r. Gažura, zom. 01.05.2007, posledný TP Borovicová 263/6, Gánovce zom. 01.05.2007, posledný TP Borovicová 263/6, Gánovce		0	568
+120	Goldbergerová Mária r. Budayová, zom. 25.03.1998, posledný TP Lesná 87/4, Gánovce-Filice zom. 25.03.1998, posledný TP Lesná 87/4, Gánovce-Filice		0	568
+120	Greňová Anna r. Kiktová, zom. 16.04.2008, posledný TP Hviezdoslavova 327/36A, Hranovnica zom. 16.04.2008, posledný TP Hviezdoslavova 327/36A, Hranovnica		0	568
+120	Griger Jozef r. Griger, zom. 18.03.1996, posledný TP Budovateľská 504/5, Hranovnica zom. 18.03.1996, posledný TP Budovateľská 504/5, Hranovnica		0	568
+120	Grigerová Anna, zom. 11.03.2004, posledný TP Rovná 7, Hranovnica zom. 11.03.2004, posledný TP Rovná 7, Hranovnica		0	568
+120	Gurová Zuzana r. Vilimová, zom. 16.06.1997, posledný TP Topoľová 1913/13, Spišská Nová Ves zom. 16.06.1997, posledný TP Topoľová 1913/13, Spišská Nová Ves		0	568
+120	Hlavčák Ján r. Hlavčák, MUDr., zom. 08.05.2008, posledný TP E. M. Šoltésovej 2760/11, Spišská Nová Ves zom. 08.05.2008, posledný TP E. M. Šoltésovej 2760/11, Spišská Nová Ves		0	568
+120	Hrebeňárová Katarína r. Hlavčáková, zom. 03.07.2010, posledný TP Vodná 940/4, Košice-Staré Mesto zom. 03.07.2010, posledný TP Vodná 940/4, Košice-Staré Mesto		0	568
+120	Husár Eduard r. Husár, zom. 07.03.2008, posledný TP Hviezdoslavova 328/35, Hranovnica zom. 07.03.2008, posledný TP Hviezdoslavova 328/35, Hranovnica		0	568
+120	Husár Ján r. Husár, zom. 24.04.1998, posledný TP SNP 92/51, Hranovnica zom. 24.04.1998, posledný TP SNP 92/51, Hranovnica		0	568
+120	Husárová Katarína r. Pekarčíková, zom. 31.01.1995, posledný TP SNP 119/79, Hranovnica zom. 31.01.1995, posledný TP SNP 119/79, Hranovnica		0	568
+120	Husárová Katarína r. Uhrinová, zom. 17.02.2008, posledný TP Hviezdoslavova 328/35, Hranovnica zom. 17.02.2008, posledný TP Hviezdoslavova 328/35, Hranovnica		0	568
+120	Chovan Elemír r. Chovan, zom. 16.07.2001, posledný TP Družstevná 397/3, Hranovnica zom. 16.07.2001, posledný TP Družstevná 397/3, Hranovnica		0	568
+120	Chovan Juraj r. Chovan, zom. 26.06.2013, posledný TP Hviezdoslavova 322/38/A, Hranovnica zom. 26.06.2013, posledný TP Hviezdoslavova 322/38/A, Hranovnica		0	568
+120	Chovan Slavomír r. Chovan, Ing., zom. 03.05.1993, posledný TP Svätoplukova 2668/5, Pezinok zom. 03.05.1993, posledný TP Svätoplukova 2668/5, Pezinok		0	568
+120	Jakubcová Mária r. Komiňaková		0	695
+120	Jakubcová Mária r. Komiňaková, posledný známy pobyt Betlanovce 46 posledný známy pobyt Betlanovce 46		0	610
+120	Jakubec Jozef r. Jakubec, posledný známy pobyt Betlanovce 46 posledný známy pobyt Betlanovce 46		0	820
+120	Jakubecz Jozef r. Jakubecz		0	725
+120	Jakubeczová Katarína r. Pekarcziková		0	810
+120	Javorská Katarína r. Danišovská, zom. 19.11.2007, posledný TP Topoľová 1917/3, Spišská Nová Ves zom. 19.11.2007, posledný TP Topoľová 1917/3, Spišská Nová Ves		0	741
+120	Jozefčáková Mária r. Gallovičová, zom. 06.11.2000, posledný TP Slovenského odboja 182/1, Poprad zom. 06.11.2000, posledný TP Slovenského odboja 182/1, Poprad		0	568
+120	Kikta Martin r. Kikta, zom. 14.04.1998, posledný TP Lúčna 117/28, Spišský Štiavnik zom. 14.04.1998, posledný TP Lúčna 117/28, Spišský Štiavnik		0	568
+120	Klimek Ondrej	I	0	404,471,472,473,474,482
+120	Klimek Ondrej, I. I.		0	729
+120	Klimeková Kristína		0	404,471,472,473,474,482,730
+120	Klimeková Mária		0	404,471,472,473,474,482,613
+120	Klimeková Mária r. Lukáčová		0	404,471,472,473,474,482,689
+120	Klingová Mária r. Dulovičová, Spišský Štiavnik Spišský Štiavnik		0	799
+120	Kolba Ján r. Kolba, zom. 12.11.2009, posledný TP Štúrova 490/24, Hranovnica zom. 12.11.2009, posledný TP Štúrova 490/24, Hranovnica		0	568
+120	Kolba Juraj r. Kolba, zom. 17.09.1999, posledný TP Hviezdoslavova 263/78, Hranovnica zom. 17.09.1999, posledný TP Hviezdoslavova 263/78, Hranovnica		0	568
+120	Kolcun Jozef r. Kolcun		0	640
+120	Kolušová Mária r. Štolcová, zom. 16.06.2009, posledný TP Gorkého 1722/5, Poprad-Matejovce zom. 16.06.2009, posledný TP Gorkého 1722/5, Poprad-Matejovce		0	568
+120	Korenková Mária r. Dublanová, zom. 01.03.2017, posledný TP Hlavná 42/9, Hozelec zom. 01.03.2017, posledný TP Hlavná 42/9, Hozelec		0	568
+120	Krolák Rudolf r. Krolák, zom. 27.02.1998, posledný TP Štôla 43 zom. 27.02.1998, posledný TP Štôla 43		0	568
+120	Kukla Rudolf r. Kukla, zom. 20.11.2008, posledný TP Tomášikova 2502/24, Poprad zom. 20.11.2008, posledný TP Tomášikova 2502/24, Poprad		0	568
+120	Kukla Rudolf r. Kukla, zom. 29.11.2002, posledný TP Sládkovičova 409/25, Hranovnica zom. 29.11.2002, posledný TP Sládkovičova 409/25, Hranovnica		0	568
+120	Kukura Jozef r. Kukura		0	589
+120	Kušneriková Margita r. Špinerová, posledný známy pobyt Betlanovce 95 posledný známy pobyt Betlanovce 95		0	733
+120	Lačná Blažena r. Lačná, zom. 15.07.2008, posledný TP Mierová 78/27, Svit zom. 15.07.2008, posledný TP Mierová 78/27, Svit		0	568
+120	Lačný Martin r. Lačný, zom. 04.09.2007, posledný TP SNP 156/103, Hranovnica zom. 04.09.2007, posledný TP SNP 156/103, Hranovnica		0	568
+120	Lachová Katarína r. Štolcová, zom. 16.08.1995, posledný TP 29. augusta 168/45, Poprad zom. 16.08.1995, posledný TP 29. augusta 168/45, Poprad		0	568
+120	Lárničková Terézia, posledný známy pobyt Na kopci 2367/70, Karviná, ČR posledný známy pobyt Na kopci 2367/70, Karviná, ČR		0	568
+120	Levocký Alexander r. Levocký, posledný známy pobyt SNP 43, Poprad-Veľká posledný známy pobyt SNP 43, Poprad-Veľká		0	568
+120	Liptaj Juraj r. Liptaj, zom. 11.11.1994, posledný TP SNP 72/35A, Hranovnica zom. 11.11.1994, posledný TP SNP 72/35A, Hranovnica		0	568
+120	Liptaj Milan r. Liptaj, zom. 27.06.2009, posledný TP Podjavorinskej 3384/3, Poprad zom. 27.06.2009, posledný TP Podjavorinskej 3384/3, Poprad		0	568
+120	Liptajová Anna r. Liptajová, zom. 04.10.2005, posledný TP Vyšný mlyn 1433/13, Kežmarok zom. 04.10.2005, posledný TP Vyšný mlyn 1433/13, Kežmarok		0	568
+120	Liptajová Anna r. Liptajová, zom. 08.01.2009, posledný TP Vyšný mlyn 1433/13, Kežmarok zom. 08.01.2009, posledný TP Vyšný mlyn 1433/13, Kežmarok		0	568
+120	Liptajová Mária r. Vallušová, zom. 13.02.2008, posledný TP SNP 72/35A, Hranovnica zom. 13.02.2008, posledný TP SNP 72/35A, Hranovnica		0	568
+120	Liptajová Terézia r. Račeková, zom. 07.07.1994, posledný TP SNP 49/21, Hranovnica zom. 07.07.1994, posledný TP SNP 49/21, Hranovnica		0	568
+120	Lopušek Ján r. Lopušek, posledný známy pobyt Hranovnica 278 posledný známy pobyt Hranovnica 278		0	568
+120	Lopušeková Mária r. Šavelová, zom. 29.06.2002, posledný známy pobyt Hranovnica 280 zom. 29.06.2002, posledný známy pobyt Hranovnica 280		0	568
+120	Loyová Sidónia r. Ferencová, zom. 15.05.2005, posledný TP Kukučinova 1619/19, Spišská Nová Ves zom. 15.05.2005, posledný TP Kukučinova 1619/19, Spišská Nová Ves		0	636
+120	Majkuth Tomáš		0	711
+120	Majkuthová Elena		0	688
+120	Majkuthová Helena		0	616
+120	Majkuthová Juliana		0	563
+120	Majkuthová Katarína r. Kuzmová	zomrela 4.1.1994	0	154,511
+120	Majkutová Žofia, Levoča Levoča		0	680
+120	Malatin Ján r. Malatin, zom. 22.01.1993, posledný TP SNP 62/30A, Hranovnica zom. 22.01.1993, posledný TP SNP 62/30A, Hranovnica		0	568
+120	Malatin Jozef r. Malatin, zom. 12.10.1999, posledný TP Hanulova 1993/7A, Bratislava-Dúbravka zom. 12.10.1999, posledný TP Hanulova 1993/7A, Bratislava-Dúbravka		0	568
+120	Malatin Juraj r. Malatin, zom. 28.12.1993, posledný známy pobyt Hranovnica 356 zom. 28.12.1993, posledný známy pobyt Hranovnica 356		0	568
+120	Malatin Martin r. Malatin, zom. 19.03.2005, posledný TP Filická 28/56, Gánovce-Filice zom. 19.03.2005, posledný TP Filická 28/56, Gánovce-Filice		0	568
+120	Malatin Michal r. Malatin, zom. 30.04.1993, posledný TP Jelačičova 495/6, Bratislava-Ružinov zom. 30.04.1993, posledný TP Jelačičova 495/6, Bratislava-Ružinov		0	568
+120	Malatin Vojtech r. Malatin, zom. 02.02.2012, posledný TP Ul. mládeže 2351/6, Poprad zom. 02.02.2012, posledný TP Ul. mládeže 2351/6, Poprad		0	568
+120	Malatinová Alžbeta r. Marhefková, zom. 11.11.2003, posledný TP Filická 28/56, Gánovce-Filice zom. 11.11.2003, posledný TP Filická 28/56, Gánovce-Filice		0	568
+120	Malatinová Irena r. Palgutová, zom. 02.10.2018, posledný TP Hviezdoslavova 360/7, Hranovnica zom. 02.10.2018, posledný TP Hviezdoslavova 360/7, Hranovnica		0	568
+120	Malatinová Katarína r. Dunajová, zom. 26.03.2011, posledný TP Hviezdoslavova 318/41, Hranovnica zom. 26.03.2011, posledný TP Hviezdoslavova 318/41, Hranovnica		0	568
+120	Malučky Martin r. Malučky, zomrel zomrel		0	631
+120	Marečak Ján		0	674
+120	Marečak Martin r. Marečak		0	657
+120	Marečak Martin, I. I.		0	784
+120	Marečak Michal r. Marečak		0	755
+120	Marečak Ondrej r. Marečak		0	647
+120	Marečaková Mária		0	785
+120	Marečáková Terézia r. Globinovská		0	606
+120	Martančík Emil		0	154,511
+120	Martančík Ján	II. v USA,/súrodenci:Albert,Jozef,Žofia,Mária,Alžbeta/ II. v USA,/súrodenci:Albert,Jozef,Žofia,Mária,Alžbeta/	0	154,511
+120	Martančík Ján r. Martančík		0	677
+120	Martančík Ján r. Martančík, vzdial.dedič po neb.Albertovi Martančíkovi,v USA vzdial.dedič po neb.Albertovi Martančíkovi,v USA		0	563,599
+120	Martančík Jozef	žena Alžbeta r. Kosztka	0	380
+120	Martančíková Alžbeta	zomrela	0	154,511
+120	Martančíková Jolana		0	154,511
+120	Martančíková Ľudmila		0	154,511
+120	Martinková Mária r. Budická, zom. 17.02.2012, posledný TP Devínska 3727/5, Martin-Priekopa zom. 17.02.2012, posledný TP Devínska 3727/5, Martin-Priekopa		0	568
+120	Maškulka Ján r. Maškulka, zom. 16.10.2004, posledný TP SNP 129/85, Hranovnica zom. 16.10.2004, posledný TP SNP 129/85, Hranovnica		0	568
+120	Matejkov Pavol r. Matejkov, zom. 12.09.1989, posledný TP Hollého 821/3, Smižany zom. 12.09.1989, posledný TP Hollého 821/3, Smižany		0	800
+120	Micková Bernadeta, posledný známy pobyt Hranovnica 298 posledný známy pobyt Hranovnica 298		0	568
+120	Mičko Vladimír r. Mičko, zom. 14.05.1998, posledný TP Budovateľská 506/2, Hranovnica zom. 14.05.1998, posledný TP Budovateľská 506/2, Hranovnica		0	568
+120	Mičková Anna r. Janíková, zom. 30.12.2004, posledný TP Hviezdoslavova 339/26A, Hranovnica zom. 30.12.2004, posledný TP Hviezdoslavova 339/26A, Hranovnica		0	568
+120	Mičková Anna r. Sokolová, zom. 15.03.2009, posledný TP Víťazstva 371/17, Hranovnica zom. 15.03.2009, posledný TP Víťazstva 371/17, Hranovnica		0	568
+120	Michalcovský Ján r. Michalcovský, zom. 20.09.2007, posledný TP Pavlovova 2340/6, Poprad zom. 20.09.2007, posledný TP Pavlovova 2340/6, Poprad		0	568
+120	Michalcovský Jozef r. Michalcovský, zom. 03.12.2012, posledný TP Banícka 807/10, Poprad zom. 03.12.2012, posledný TP Banícka 807/10, Poprad		0	568
+120	Michlík František r. Michlík, zom. 27.07.2001, posledný TP Ul. M. Csáka 92/3, Komárno zom. 27.07.2001, posledný TP Ul. M. Csáka 92/3, Komárno		0	568

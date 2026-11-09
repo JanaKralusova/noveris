@@ -1,0 +1,256 @@
+249	Brédová Verona	maloletá	0	1568
+249	CS.STAT - OKRESNY USTAV SOC.SLUZIEB NOVE ZAMKY		0	530,532
+249	CS.STAT - OKRESNY USTAV SOCIALNYCH SLUZIEB, NOVE ZAMKY		0	453
+249	Csepéczová Mária r. Bartalová		0	1219
+249	Csokas Alojz	manželka Mária rod.Baloghová	0	1570,1616
+249	Csókás František		0	732,1239,1634,1681
+249	Csókás Ján		0	781
+249	CSOKAS JOZEF		0	997
+249	Csókás Karol		0	781,955
+249	Csókás Karol	manželka Mária rod.Bicskeiová	0	1570
+249	Csókás Ľudovít	manželka Emerencia rod.Bartalová	0	1613
+249	Csókás Mikuláš	manželka Júlia Szökölová	0	661
+249	Csókás Peter	manželka Emerencia rod.Csonková	0	661
+249	Csokas Štefan		0	534,1087,1123,1447,1448
+249	CSOKAS VIDOR		0	743
+249	CSOKASOVA ALZBETA		0	1275
+249	Csókásová Alžbeta	maloletá	0	1570
+249	CSOKASOVA ANNA R.PORUBSZKA		0	167
+249	Csókásová Barbora		0	951
+249	Csókásová Barbora r. Kisová	manžel Jozef	0	1618
+249	CSOKASOVA BARBORA R.KISOVA		0	930
+249	CSOKASOVA EMERENCIA R.BICSKEIOVA		0	843
+249	CSOKASOVA FRANTISKA R.KABLAOVA		0	1091
+249	CSOKASOVA FRANTISKA R.KOVACSOVA		0	1123
+249	Csókásová Františka r. Kablová		0	661
+249	Csókásová Helena r. Szökölová	manžel bol Ján	0	661
+249	Csókásová Júlia r. Dojčanová	manžel Melichar	0	1609
+249	Csókásová Júlia r. Szökölová	manžel Mikuláš	0	661
+249	CSOKASOVA JULIA R.GASPAROVA		0	475
+249	Csókásová Justína r. Szökölová		0	1566
+249	Csókásová Karolína r. Puskásová		0	661
+249	CSOKASOVA MARGITA		0	1058
+249	Csókásová Mária		0	781
+249	Csókásová Mária	maloletá	0	1570
+249	Csókásová Mária r. Valentová		0	1570
+249	Csókásová Marta r. Ruzsíková		0	661
+249	Csókasová Terézia		0	781,944
+249	CSOKASOVA VALERIA		0	1002
+249	Csókasová Verona r. Brédová, SR		0	1010
+249	CSOKASOVA VERONA R.BREDOVA		0	915,923
+249	Csókášová Mária r. Brédová	bytom Bruty č. 172	0	1570
+249	CSONKASOVA EMERENCIA R.CSOKASOVA		0	865
+249	Csonková Barbora r. Valentová, SR		0	120
+249	CSONKOVA EMERENCIA		0	870
+249	CSONKOVA MAGDALENA R.BARCSEKOVA		0	1268
+249	Daniel Ján	manželka Estera rod.Pásztorová	0	661
+249	Danielová Estera r. Pásztorová	manžel Ján	0	661
+249	DANLSEKOVA OLGA R.ZALAMBOSOVA		0	1320
+249	DAVID LADISLAV		0	1003
+249	DAVID MARTIN		0	910
+249	DAVID ONDREJ		0	1301
+249	Dávid Ondrej	I	0	1617
+249	Dávidová Helena r. Baloghová		0	1584
+249	Dávidová Katerina r. Szökölová		0	661
+249	DOJCSAN JAN		0	626
+249	Dojcsán Vincent	manželka bola Žofia rod.Kovácsová	0	1609
+249	Dudášová Alžbeta r. Nagyová		0	1141
+249	DUKONOVA KATARINA R.SERESOVA		0	691
+249	ELZER FRANTISEK		0	433,852
+249	FARKAS FLORIAN		0	629,1363
+249	FARKAS JAN		0	1146
+249	FARKAS JOZEF		0	887
+249	Farkasová Elena		0	534,1447,1448
+249	Fazekašová Mária r. Gašparová		0	1280,1612
+249	Galambosová Czeczília r. Knappová		0	1573
+249	Gáspár Matuš	mnaž. Agneša rod. Nágelová	0	1612
+249	GASPARIK JOZEF		0	830,1216,1620
+249	GASPARIKOVA TAREZIA R.KISSOVA		0	830
+249	Gasparikova Terezia r. Kissova		0	478
+249	Gašpar Matúš		0	1280
+249	Gašparíková Terézia r. Kisová		0	813,1620
+249	Gléba František	manželka Alžbeta rod.Puskásová	0	661
+249	GLEBA JAN		0	988
+249	Glébová Alžbeta r. Puskásová	manžel František	0	661
+249	Gross Július Dr.		0	1571
+249	Hanulová Magdaléna r. Elzerová		0	661
+249	Hanulová Margita r. Rákócziová		0	661
+249	HARANGOZOVA ROZALIA		0	1180
+249	Hegedűs Ľudovít		0	661
+249	HEGEDUSOVA VALERIA		0	1095
+249	Hegedusová Verona r. Bartalová		0	840
+249	HINDI JAN		0	900,1651
+249	HINDIOVA ANNA		0	1651
+249	HINDIOVA BARBORA		0	900,1651
+249	HINDIOVA ELENA		0	1651
+249	Hindiová Ema		0	900
+249	HINDIOVA HELENA		0	900
+249	Hindiová Júlia		0	900
+249	HINDIOVA JULIANA		0	1651
+249	HINDIOVA MARIA		0	900,1651
+249	Holubová Alžbeta r. Friedmannová		0	661
+249	Jakušová Júlia r. Csókášová	manžel Alex	0	1586
+249	Jankušová Mária r. Tirányiová		0	466,1066
+249	Jánosi Štefan	manželka Helena rod.Szalmová	0	1569
+249	Jánosiová Helena r. Szalmová		0	1569
+249	JRD Bruty		0	1570
+249	KABLA JURAJ		0	539
+249	Kardos Peter	manželka Margita rod.Csókásová	0	661
+249	KARDOSOVA FRANTISKA R.BREDOVA		0	777
+249	Kardosová Margita r. Csókásová		0	661
+249	Kardoš Ján	syn Jána	0	661
+249	KIRALYOVA BARBORA R.ZVONCSAROVA		0	1065
+249	Kis Medard	syn Adolfa	0	1618
+249	KIS MEDARD		0	926,930
+249	Kis Štefan, SR		0	41,1521
+249	KISS MEDARD		0	1030,1062
+249	Kocsisová Helena r. Csókásová		0	1570
+249	Koncsek František		0	661
+249	Koncseková Júlia r. Mocsiová		0	1272
+249	Koncseková Mária r. Bartalová		0	661
+249	Koncserová Mária r. Sallaiová		0	388
+249	KONCZOVA ESTERA		0	1142
+249	Končerová Mária r. Sallaiová		0	1359
+249	KOSICKA GIZELA R.GYURACEKOVA		0	1113
+249	KOSICKA HELENA R.BARTALOVA		0	433
+249	Kosický Alojz		0	852
+249	KOSICKY VOJTECH		0	433
+249	KOSITZKA HELENA R.BARTALOVA		0	869
+249	Košická Gizela r. Gyuračeková		0	661
+249	KOVACS ADRIAN		0	715,1454
+249	KOVACS JAN		0	573
+249	Kovács Ján	manželka Mária rod.Csókásová	0	661,1603
+249	KOVACS MARTIN		0	848
+249	KOVACSOVA EMERENCIA R.SAMSONOVA		0	799
+249	KOVACSOVA FANY R.BALOGHOVA		0	943
+249	KOVACSOVA FRANTISKA R.BALOGHOVA		0	942
+249	Kovácsová Františka r. Kardosová		0	661
+249	Kovácsová Helena r. Kardosová		0	661
+249	Kovácsová Margita r. Oszlíková	manžel Ján	0	1578
+249	Kovácsová Mária r. Csókásová	manžel Ján	0	661
+249	Kovácsová Rozália r.Rákocziová		0	110
+249	Kováčová Katarína r. Bartalová, SR		0	623
+249	Krátká Alžbeta		0	1584
+249	Krátká Alžbeta r. Kardosová	vdova	0	661
+249	Krátká Magdaléna		0	1584
+249	Krátká Marcela r. Maszlagová		0	661
+249	Krátká Valéria r. Baloghová		0	1570
+249	KRATKY JAN		0	907
+249	Krénová Terézia r. Galambosová	manžel Gejza	0	1572
+249	KRENOVA TEREZIA R.ZALAMBOSOVA		0	1320
+249	Kunicová Mária r. Elzerová		0	852
+249	KUNICOVA MARIA R.ELZEROVA		0	433
+249	Ladicsová Katarína r. Oszlíková		0	1375,1545
+249	LAKATOSOVA ALZBETA R.SZALAIOVA		0	804
+249	Lakatosová Alžbeta r. Szalaiová		0	1542,1606,1648
+249	Loczki Ján		0	763
+249	Loczki Peter		0	763
+249	Loczky Peter		0	549
+249	Mácsadiová Valéria r. Csókásová	manžel František	0	661
+249	MAGYAR FRANTISEK		0	1121
+249	Magyarova Juliana r. Bartalova		0	1121
+249	Mandíková Katarína r. Illésová, SR		0	623
+249	Maszlagová Margita r. Puskásová		0	661,1077
+249	MIKEOVA FRANTISKA R.MORVAIOVA		0	1102
+249	Miková Františka r. Morvaiová		0	661
+249	MIKUS ALEXANDER		0	1128
+249	MIKUSOVA ALZBETA R.TAKACSOVA		0	1128
+249	MIKUSOVA ALZBETA R.VARGOVA		0	1133
+249	Mocsi Dionýz, SR		0	1251
+249	Mocsi Imrich		0	661
+249	Mocsi Imrich	mladší	0	661
+249	Mocsiová Helena		0	661,1081
+249	Mocsiová Mária r. Birkésová	manžel Imrich	0	661
+249	MOCSIOVA MARIA R.BIRKESOVA		0	954
+249	MOCSIOVA VERONA		0	554
+249	MOCSIOVA VERONA R.BARCSEKOVA		0	1268
+249	MOLNAR BLAZEJ		0	1136
+249	Molnár František		0	457
+249	Molnár František, SR		0	623
+249	MOLNAROVA EMERENCIA R.CSOKASOVA		0	998
+249	MOLNAROVA JULIA R.MILUSOVA		0	1136
+249	Molnárová Julianna r. Dojcsánová		0	1609
+249	MORVAI FRANTISEK		0	547,1383
+249	MORVAIOVA ALZBETA R.KRATKA		0	907
+249	MORVAIOVA HERMINA R.SZLATINOVA		0	1319
+249	Morvaiová Lujza		0	661,857
+249	Morvaiová Mária r. Árendásová		0	661
+249	Motyovszká Julianna r. Oszlíková		0	824
+249	MOTYOVSZKA JULIANNA R.OSZLIKOVA /KONF./		0	1313
+249	MUZSIK LUDOVIT		0	1169
+249	Nyitrai Alexander		0	661,662
+249	Nyitrai Karol	manželka Emerencia rod.Bartalová	0	1619
+249	NYITRAIOVA JULIANNA R.KOVACSOVA		0	854
+249	Nyitraiová Mária r. Kovácsová		0	661
+249	Okresný ústav socialnych služieb, Nové Zámky, PSČ 940 01, SR		0	740
+249	OMRAIOVA TEREZIA R.OSZLIKOVA		0	506
+249	ONDROVA KAROLINA R.ZVONCSAROVA		0	1065
+249	Oszlík Adorján		0	739,1376
+249	Oszlík Adrian		0	1375
+249	Oszlík Adrián r. Oszlík		0	1545
+249	Oszlík František	manželka Alžbeta rod.Kuraliová	0	661
+249	Oszlík František, SR		0	740
+249	OSZLIK IGNAC		0	1313
+249	Oszlík Ján		0	532,824,1313,1375,1376
+249	Oszlík Ján	I	0	661
+249	Oszlík Ján	manželka Helena rod.Kovácsová	0	1578
+249	Oszlík Jozef	manželka Rozália rod.Brédová	0	661
+249	Oszlík Pavol		0	661,1094
+249	OSZLIK PETER		0	360
+249	Oszlík Štefan		0	532
+249	Oszlík Štefan	manželka Helena rod.Gáspárová	0	661
+249	Oszlík Štefan	manželka Valéria rod.Bartalová	0	661
+249	Oszlíková Alžbeta r. Kuraliová		0	661
+249	Oszlíková Emerencia r. Končeková	bytom Bruyt č. 332	0	1570
+249	Oszlíková Emerencia r. Szelecká, SR		0	740
+249	OSZLIKOVA HELENA R.KOVACSOVA		0	994
+249	Oszlíková Mária r. Csókásová		0	661
+249	OUSS NOVE ZAMKY		0	580
+249	PAPOVA MARIA R.SZUCSOVA		0	506
+249	PASZTOR JOZEF		0	945
+249	PASZTOROVA MELANIA R.KLIMOVA		0	945
+249	Patus Ignác		0	362,741,1397
+249	Patusová Alžbeta r. Brédová		0	661
+249	Patusová Barbora r. Kissová		0	1030,1062
+249	PATUSOVA BARBORA R.KISOVA		0	1257
+249	PATUSOVA EMERENCIA R.BREDOVA		0	950
+249	Patusová Helena r. Kablová		0	539
+249	Patusová Mária r. Oszlíková		0	532,1375,1545
+249	PERI JOZEF		0	394
+249	PERI STEFAN		0	394
+249	POHLMULER FRANTISEK		0	1230
+249	Pohlmüler František, SR		0	1010
+249	Polmüller František, SR		0	1010
+249	Puskás Imrich	manželka Mária rod.Csókásová	0	661
+249	Puskás Michal		0	661,1077
+249	Radičová Katarína r. Oszlíková		0	532,739
+249	RADVANSKA FRANTISKA R.BARTALOVA		0	433
+249	Radvanská Františka r. Bartalová		0	852
+249	Raffaiová Barbora r. Oszlíková		0	824
+249	RAFFAIOVA BARBORA R.OSZLIKOVA /KONF./		0	1313
+249	RAFFAIOVA VERONA R.KOVACSOVA		0	993
+249	Rákoci Ján		0	999
+249	Rákocziová Júlia		0	110
+249	Rákocziová Mária r. Hegedűsová		0	661
+249	RETKES FRANTISEK [konf]		0	1237
+249	Sallai Jozef	manželka Verona rod.Csókásová	0	661
+249	SALLAI JOZEF		0	394,395
+249	Sallaiová Rozália r. Tirányiová		0	466,1066
+249	SALLAIOVA ROZALIA R.TIRANYIOVA		0	394,395
+249	Sallaiová Verona r. Csókásová		0	661
+249	SAMSONOVA MARIA R.SZOKOLOVA		0	808
+249	SELIGOVA MARGITA R.ROMEKOVA		0	754
+249	SKRONKOVA TEREZIA R.BALOGHOVA		0	866
+249	Stégmarová Elena r. Elzerová		0	852
+249	STEGMAROVA ELENA R.ELZEROVA		0	433
+249	SZABADOSOVÁ HELENA R.MOCSIOVÁ		0	1465
+249	Szabadošová Helena r. Mocsiová		0	661
+249	Szabová Helena r. Szalaiová		0	1542,1606,1648
+249	SZABOVA HELENA R.SZALAIOVA		0	804
+249	Szakácsová Rozália r. Oszlíková		0	824
+249	Szakácsová Rozália r. Oszlíková	manžel Ján	0	1578
+249	SZAKACSOVA ROZALIA R.OSZLIKOVA		0	1313
+249	Szalai František	manželka Mária rod.Nyitraiová	0	661
+249	Szalai Ján		0	1606
+249	Szalai Ján	I	0	1606
+249	SZALAI JAN ML.		0	804

@@ -1,0 +1,256 @@
+941	TRÚSIKOVÁ Alžbeta	mal	0	4654,4659,4661,4662,4730
+941	TRÚSIKOVÁ Alžbeta	maloletá	0	3629,4650
+941	TRÚSIKOVÁ Anna		0	3629,4650,4654,4659,4661,4662,4730
+941	TRUSÍKOVÁ Katarína r. Chovancová		0	3475,3480,4755,4756
+941	Trúsiková Mária	r.Bačová	0	3895,3896,3922
+941	TUČKOVÁ Mária r. Bulíková		0	4395
+941	TUPÁ Anna r. Bušová		0	3046,4546
+941	Turan Adam		0	1454,1455,2804,3941,3959,4105,4116,4140
+941	Turan Adam	maloletý	0	4141,4147
+941	Turan Adam	manželka Anna	0	4121
+941	Turan Adam	manželka Anna Turanová	0	4103
+941	Turan Adam	po Turanovi Adamovi ž.Anna Turanová	0	3718
+941	Turan Adam	po Turanovi Adamovi, manželka Anna	0	4443
+941	Turan Adam	r.Turan,po Turanovi Adamovi ž.Anna Turanová	0	3912,3913
+941	Turan Adam	výmaz maloletosti čd.5673/09	0	1456,2923,3482,3483
+941	Turan Adam r. Turan		0	3718,3859,3940,3947,3961,3962,3964
+941	Turan Adam r. Turan	po Turanovi Adamovi ž.Anna Turanová	0	3859,3869
+941	Turan Augustín	maloletá, po Márií Turanovej	0	3866
+941	Turan Augustín	maloletý	0	3964
+941	Turan Augustín	maloletý, po Márii Turanovej	0	2804,3864,3865,3866,3867,4073,4077,4126,4141,4147,4440
+941	Turan Augustín r. Turan		0	3959
+941	Turan Augustín r. Turan	maloletý	0	3964
+941	Turan Ján	manž.Anna Bačová	0	4661
+941	Turan Ján	manž.Katarína Miklánková	0	3869,3912,3913,3961,3962,3964
+941	Turan Ján	manželka Anna r. Sarkócyová	0	1454,2804,4105,4140,4141
+941	Turan Ján	manželka Anna r.Sarkócyová	0	4147
+941	Turan Ján	manželka Anna rod. Bačová	0	2853,2858,2859,3629,4166
+941	Turan Ján	manželka Eva r. Skúpa	0	4650
+941	Turan Ján	manželka Katarína r. Miklánková	0	4443
+941	Turan Ján	manželka Katarína rod. Miklánková	0	4073,4103,4121
+941	Turan Ján	r.Turan,ž.Anna r.Sarkócyová	0	3859
+941	Turan Ján	r.Turan,ž.Eva Skúpa	0	4654,4659,4662,4730
+941	Turan Ján	syn Jána	0	3854,4572
+941	Turan Ján	ženatý s Annou r.Sarkócyovou	0	3941
+941	TURAN Ján		0	1387,1456,2681,2805,2807,2854,2855,2856,2857,2859,3482,3483,3624,3629,3718,3864,3865,3866,3867,3946,3947,3964,4077,4116,4126,4141,4145,4166,4382,4426,4440,4443,4465,4572,4661
+941	TURAN Ján	mal	0	4661
+941	TURAN Ján	maloletá	0	2809,4073,4135,4748
+941	TURAN Ján	maloletý	0	1690,2803,2804,2858,3629,3959,4129,4147,4166,4422,4423
+941	TURAN Ján	manželka Anna r. Bačová	0	1690,2681,2854,2855,2856,2857,4422,4423,4426
+941	TURAN Ján	manželka Anna rod. Sarkóci	0	3959
+941	TURAN Ján	po Jurajovi Turanovi	0	2804,4147
+941	TURAN Ján	po Turanovi Adamovi	0	2804,4147
+941	TURAN Ján	vým.mal.čd.3432/28	0	4661
+941	TURAN Ján	výmaz maloletosti čd.3432/28	0	2853,3629
+941	TURAN Ján	ž.Anna Bačová	0	4661
+941	Turan Ján r. Turan	manželka Anna r.Sarkócyová	0	3718
+941	Turan Ján r. Turan	manželka Anna rod. Sarkócyová	0	3964
+941	Turan Ján r. Turan	manželka Eva rod. Skúpa	0	3969,3971
+941	Turan Ján r. Turan	ženatý s Annou r.Sarkócyovou	0	3940
+941	TURAN Jozef	výmaz maloletosti čd.18/47	0	3718
+941	Turan Jozef r. Turan	manželka Emília r.Kovačovicová, dátum úmrtia 26.12.1988	0	3940
+941	Turan Juraj	slob	0	3940
+941	Turan Juraj	slobodný	0	1454,2804,3718,3959,3964,4105,4141
+941	TURAN Juraj		0	3859
+941	TURAN Juraj	manželka Judita rod. Turovská	0	4127
+941	TURAN Juraj	po Jánovi	0	3941
+941	TURAN Juraj	slobodný, po Jánovi Turanovi	0	4140,4147
+941	Turan Martin	manželka Katarína r. Mičová	0	1454,4105,4140,4141,4147
+941	Turan Martin	žena Katarína Mičová	0	3718,3941
+941	TURAN Martin		0	2681,2788,2855,2857,2859,2995,3363,3629,3718,3864,3865,3944,3959,3963,3965,3981,4073,4116,4145,4156,4443,4444,4497,4661
+941	TURAN Martin	mal	0	4661
+941	TURAN Martin	maloletý	0	3629,3719,4064
+941	TURAN Martin	manželka Alžbeta rod. Magálová	0	4127
+941	TURAN Martin	manželka Katarína rod. Mičová	0	2804
+941	TURAN Martin	manželka Katarína rod. Miklánková	0	2652,2858,4064,4765
+941	TURAN Martin	po Adamovi	0	3959,3964
+941	TURAN Martin	po Jurajovi	0	3959,3964
+941	TURAN Martin	ž.Anna Klimová	0	3965
+941	TURAN Martin	ž.Katarína Mičová	0	3859
+941	TURAN Martin	ž.Miklánková Katarína	0	2788,3363,3963
+941	Turan Martin r. Turan	manželka Katarína rod. Mičová	0	3959,3964
+941	Turan Martin r. Turan	ženatý s Katarínou rod.Mičovou	0	3940
+941	Turan Štefan	manželka Eva r. Pastorková	0	2804,4140,4141,4147
+941	Turan Štefan	manželka Eva rod. Pastorková	0	1454,3959,4105
+941	Turan Štefan	r.Turan,ž.Eva Pastorková	0	3859
+941	Turan Štefan	ženatý s Evou Pastorkovou	0	3941
+941	TURAN Štefan		0	3961
+941	Turan Štefan r. Turan	manželka Eva rod. Pastorková	0	3718,3964
+941	Turan Štefan r. Turan	ženatý s Evou rod. Pastorkovou	0	3940
+941	TURANOVÁ Anna		0	2788,3363,3624,3629,3864,3865,3866,3867,3893,3895,3896,3941,3963,3969,3971,4105,4440,4650,4654,4659,4661,4662,4691,4730,4823
+941	TURANOVÁ Anna	mal	0	4661
+941	TURANOVÁ Anna	maloletá	0	3629,3719,3959,3964,4038,4073,4077,4126,4141,4456
+941	TURANOVÁ Anna	po Mária Bušová	0	3895,3896
+941	TURANOVÁ Anna	po Martinovi	0	3912,3913
+941	TURANOVÁ Anna	po Turanovi Adamovi	0	2804,4147
+941	TURANOVÁ Anna	r.Hrašná	0	4654,4659,4662,4730
+941	Turanová Anna r. Dedíková		0	3922
+941	TURANOVÁ Anna r. Hrašná		0	4650
+941	TURANOVÁ Anna r. Miklánková		0	2809,4071,4156,4748
+941	TURANOVÁ Anna r. Turanová		0	3959,3981,4064
+941	TURANOVÁ Augustína		0	3964
+941	Turanová Eva		0	2804,2805,2807,3735,3864,3865,3866,3867,4145,4147,4386,4390,4440,4459,4579
+941	TURANOVÁ Eva	mal	0	4661
+941	TURANOVÁ Eva	maloletá	0	2803,2809,3629,4129,4135,4748
+941	TURANOVÁ Eva	po Martinovi	0	4147
+941	TURANOVÁ Eva	po Turanovej Anne r.Hloškovej	0	3442
+941	TURANOVÁ Eva	po Turanovi Martinovi	0	2804
+941	TURANOVÁ Katarína		0	2681,2805,2807,2854,2855,2856,2857,3629,3864,3865,3866,3867,4145,4440,4465,4661
+941	TURANOVÁ Katarína	mal	0	4661
+941	TURANOVÁ Katarína	maloletá	0	1690,2803,2809,3629,4129,4135,4166,4422,4423,4426,4748
+941	TURANOVÁ Katarína	maloletá do r. 1943	0	2858
+941	TURANOVÁ Katarína	maloletý do r. 1943	0	2859
+941	TURANOVÁ Katarína	po Jurajovi Turanovi	0	2804,4147
+941	TURANOVÁ Katarína	r.Černá	0	4661
+941	TURANOVÁ Katarína	r.Miklánková	0	4661
+941	TURANOVÁ Katarína	r.Šimková	0	3895,3896
+941	TURANOVÁ Katarína	r.Turanová	0	4654,4659,4662,4730
+941	TURANOVÁ Katarína	rod.Mičová	0	3895,3896
+941	TURANOVÁ Katarína	vým. mal.čd.922/43	0	4661
+941	TURANOVÁ Katarína	výmaz maloletosti č.d. 922/43	0	2853
+941	TURANOVÁ Katarína	výmaz maloletosti čd.922/43	0	2853,3629
+941	TURANOVÁ Katarína r. Černá		0	3629,4465
+941	TURANOVÁ Katarína r. Kašicová		0	3691
+941	TURANOVÁ Katarína r. Mičová		0	3421,3690,3697,3901,4584,4612,4698,4807
+941	TURANOVÁ Katarína r. Miklánková		0	3629,4488,4497
+941	TURANOVÁ Katarína r. Miklánková	manžel Ján	0	1454,2804,3718,3946,4105,4140,4141,4147
+941	TURANOVÁ Katarína r. Šimková		0	3665
+941	TURANOVÁ Katarína r. Turanová		0	4650
+941	TURANOVÁ Mária		0	1456,2805,2807,2923,3482,3483,3629,3692,3701,3864,3865,3866,3867,3895,3896,4145,4440,4661
+941	TURANOVÁ Mária	mal	0	4661
+941	TURANOVÁ Mária	malol.v r.1918	0	1456,3482,3483
+941	TURANOVÁ Mária	maloletá	0	2803,2809,3629,3719,3959,3964,4129,4135,4465,4748
+941	TURANOVÁ Mária	po Jurajovi Turanovi	0	2804,4147
+941	TURANOVÁ Mária	po Kataríne Turanovej r.Klučarovej	0	3854
+941	TURANOVÁ Mária r. Stachová		0	3764,4318,4365
+941	TUROVSKÁ Alžbeta r. Švachová		0	4087
+941	TUROVSKÁ Eva		0	4515
+941	TUROVSKÁ Eva r. Gašparíková	manžel Adam	0	2045,4089,4517,4749,4896
+941	TUROVSKÁ Eva r. TURANOVÁ		0	4501
+941	TUROVSKÁ Katarína	r.Gašparíková	0	3912,3913
+941	TUROVSKÁ Katarína r. Gašparíková		0	3469,3629,4661
+941	TUROVSKÁ Katarína r. Švančarová	manžel Martin	0	4048
+941	Turovská Mária	rod.Magálová	0	4661
+941	Turovská Mária r. Magálová		0	3629,4332,4372
+941	TUROVSKÝ Adam	mal	0	3912,3913
+941	TUROVSKÝ Adam	slobodný, výmaz maloletosti č.d. 7003/1886	0	2045,4749,4896
+941	TUROVSKÝ Adam	výmaz maloletosti č.d. 7003/1886	0	4089
+941	TUROVSKÝ Adam	výmaz maloletosti čd. 7003/1886	0	4517
+941	Turovský Ján	r.Turovský,syn Juraja, urbár N 3/2005=VZ15/06	0	3895,3896
+941	TUROVSKÝ Ján		0	3418,3751,3778,4530,4540,4893,4897,4928
+941	TUROVSKÝ Ján	mladší, manželka Alžbeta r. Švachová	0	2045,4517,4749,4896
+941	TUROVSKÝ Ján	mladší, manželka Alžbeta rod. Švachová	0	4089
+941	TUROVSKÝ Ján	v Amerike	0	3912,3913
+941	Turovský Juraj	r.Turovský,1	0	3912,3913
+941	TUROVSKÝ Juraj		0	4575
+941	Turovský Ľuboš	po Jánovi	0	4575
+941	TUROVSKÝ Martin		0	3912,3913,4575
+941	TUROVSKÝ Martin	maloletý	0	4575
+941	TUROVSKÝ Martin	manželka Katarína r. Gašparíková	0	3418,4530,4540
+941	Turovský Štefan	r.Turovský,urbár N 3/2005=VZ15/06	0	3895,3896
+941	TUROVSKÝ Štefan	m.Katarína Martáková	0	3907
+941	TUROVSKÝ Štefan	manželka Katarína r. Martáková	0	4696
+941	UHRIK Ján	ž. Anna Zámečníková	0	3912,3913
+941	UHRÍK Ján		0	2646,2649,2653,3414,3629,3849,3895,3896,4422,4552,4586,4661,4761,4763,4766,4767,4769,4770
+941	UHRÍK Ján	mal	0	3895,3896
+941	UHRÍK Ján	maloletý	0	2644,2645,4436
+941	UHRÍK Ján	manželka Katarína r. Miklánková	0	3800
+941	UHRÍK Ján	po Kataríne Miklánkovej, súrodenci Anna, Mária, Martin, Štefan	0	2652,4765
+941	UHRÍK Ján	po Kataríne r. Miklánkovej	0	2647,4762
+941	UHRÍK Ján	po Kataríne rod. Miklánkovej, súrodenci Anna, Mária, Martin, Štefan	0	2650,4764
+941	UHRÍK Juraj	ž.Anna Popelková	0	3717
+941	UHRÍK Martin		0	2646,3629,4661,4761
+941	UHRÍK Martin	maloletý	0	2644,2645,2649,2653,3849,4422,4436,4763,4766,4767,4769,4770
+941	UHRÍK Martin	po Kataríne Miklánkovej, súrodenci Anna, Mária, Ján, Štefan	0	2652,4765
+941	UHRÍK Martin	po Kataríne r. Miklánkovej	0	2647,4762
+941	UHRÍK Martin	po Kataríne rod. Miklánkovej, súrodenci Anna, Ján, Mária, Štefan	0	2650,4764
+941	UHRÍK Štefan		0	2646,3629,4661,4761
+941	UHRÍK Štefan	maloletý	0	2644,2645,2649,2653,3849,4422,4436,4763,4766,4767,4769,4770
+941	UHRÍK Štefan	po Kataríne Miklánkovej, súrodenci Anna, Ján, Mária, Martin	0	2652,4765
+941	UHRÍK Štefan	po Kataríne r. Miklánkovej	0	2647,4762
+941	UHRÍK Štefan	po Kataríne rod. Miklánkovej, súrodenci Anna, Ján, Mária, Martin	0	2650,4764
+941	UHRÍKOVÁ Anna		0	2644,2645,2646,3629,4436,4661,4761
+941	UHRÍKOVÁ Anna	po Katarína Miklánková	0	2647,4762
+941	UHRÍKOVÁ Anna	po Kataríne Miklánkovej	0	2650,2652,4764,4765
+941	UHRÍKOVÁ Mária		0	3629,4661
+941	UHRÍKOVÁ Mária	mal	0	3895,3896
+941	UHRÍKOVÁ Mária	maloletá	0	2644,2645,4436
+941	UHRÍKOVÁ Mária	maloletý	0	2646,4761
+941	UHRÍKOVÁ Mária	po Kataríne Miklánkovej, súrodenci Anna, Ján, Martin, Štefan	0	2652,4765
+941	UHRÍKOVÁ Mária	po Kataríne r. Miklánkovej	0	4762
+941	UHRÍKOVÁ Mária	po Kataríne rod. Miklánkovej	0	2647
+941	UHRÍKOVÁ Mária	po Kataríne rod. Miklánkovej, súrodenci Anna, Ján, Martin, Štefan	0	2650,4764
+941	UKOVÁ Anna	r.Záhorová	0	4654,4659,4661,4662,4730
+941	UKOVÁ Anna r. Záhorová		0	3629,4650
+941	Valicová Anna r. Mičová		0	1323,3847,3916
+941	VALÍKOVÁ Mária	r.Ančicová	0	4654,4659,4661,4662,4730
+941	VALÍKOVÁ Mária r. Ančicová		0	3629,4650
+941	VALKOVÁ Mária	r.Nešťáková	0	1315,4815,4879
+941	VALKOVÁ Mária r. Nešťáková		0	3472,3473,3479,4185,4186,4210,4226,4378
+941	VAŠKOVÁ Mária	r.Popelková	0	4661
+941	VICENOVÁ Alžbeta r. Šimková		0	3045
+941	VICENOVÁ Anna	r.Pastorková	0	4661
+941	Vicenová Anna r. Pastorková		0	2106,2108,3468,3469,3471,3629,4307,4890
+941	VICENOVÁ Anna r. Podhradská		0	3470
+941	Vidovičová Anna r. Kraváriková		0	3922
+941	vlastník nie je známy		0	3895,3896,4650,4654,4659,4661,4662,4730
+941	VLKONCOVÁ Katarína r. Stachová		0	4632
+941	Vlkovičová Katarína r. Stachová		0	4718
+941	VOLNÍK Ján		0	4041
+941	VOLNÍK Ľudovít		0	4041
+941	VOLNÍK Pavol		0	4041
+941	VOLNÍKOVÁ Helena	maloletá	0	4041
+941	Vranová Anna	mal.do r.1944, po Martinovi Vranovi	0	3907
+941	Vranová Anna	maloletá do r.1944, po Martinovi Vranovi	0	4696,4705,4715,4725,4727
+941	Vranová Anna	maloletý do r.1944, po Martinovi Vranovi	0	4625,4743
+941	Vranová Anna r. Košáková		0	4715
+941	Vranová Emília	maloletá do r.1947, po Martinovi Vranovi	0	4696,4705,4715,4725,4727
+941	Vranová Emília	maloletý do r.1947, po Martinovi Vranovi	0	3907,4743
+941	Vranová Katarína r. Štefanovičová	manžel František	0	4715
+941	VRAŽDA Adam		0	4491,4587,4588
+941	VRAŽDOVÁ Mária	r.Podolanová	0	4661
+941	VRAŽDOVÁ Mária r. Podolanová		0	3629,4491,4585,4587,4588
+941	ZÁHORA Ján		0	3629,4650,4654,4659,4661,4662,4730
+941	ZÁHORA Juraj		0	3629,4650,4654,4659,4661,4662,4730
+941	ZÁHORA Pavol		0	3629,4650,4654,4659,4661,4662,4730
+941	ZÁHORA Štefan		0	3629,4650,4654,4659,4661,4662,4730
+941	ZÁHOROVÁ Katarína		0	3629,4650,4654,4659,4661,4662,4730
+941	ZÁMEČNÍK Adam	manž..Alžbeta Zámečníková	0	4661
+941	ZÁMEČNÍK Adam	ž.Františka Zámečníková	0	4661
+941	ZÁMEČNÍK Augustín		0	4661
+941	ZÁMEČNÍK Benedikt		0	4661
+941	ZÁMEČNÍK Benedikt	mal	0	4661
+941	Zámečník Ján	po Márii r.Neštákovej	0	4536,4599
+941	ZÁMEČNÍK Ján		0	3527,3629,3766,4230,4479,4639,4650,4654,4659,4661,4662,4711,4716,4721,4730,4731
+941	ZÁMEČNÍK Ján	a man	0	4659
+941	ZÁMEČNÍK Ján	maloletá	0	4536
+941	ZÁMEČNÍK Ján	maloletý	0	3137,3150,3527,4511,4558,4620,4631,4722
+941	ZÁMEČNÍK Ján	maloletý, po Zámečníkovej Kataríne r.Dedíkovej	0	4728
+941	ZÁMEČNÍK Ján	manželka Anna r. Bučková	0	4650
+941	ZÁMEČNÍK Ján	manželka Anna rod. Bučková	0	3629
+941	ZÁMEČNÍK Ján	manželka Eva r. Kuceková	0	4650
+941	ZÁMEČNÍK Ján	manželka Eva rod. Kuceková	0	3629,3969,4037
+941	ZÁMEČNÍK Ján	ž.A.Uhríková	0	3895,3896
+941	ZÁMEČNÍK Ján	ž.Anna Bučková	0	4654,4659,4661,4662,4730
+941	ZÁMEČNÍK Ján	ž.Eva Kuceková	0	4654,4659,4661,4662,4730
+941	ZÁMEČNÍK Jaroslav	mal	0	4661
+941	ZÁMEČNÍK Jozef		0	4661
+941	Zámečník Jozef r. Zámečník	Dátum úmrtia : 17.7.2004	0	3895
+941	ZÁMEČNÍK Juraj		0	3629,4650,4654,4659,4661,4662,4730
+941	ZÁMEČNÍK Juraj	m.Mária Mazáková	0	3895,3896
+941	ZÁMEČNÍK Juraj	mal	0	4661
+941	ZÁMEČNÍK Juraj	maloletý	0	4558
+941	ZÁMEČNÍK Juraj	manželka Mária r. Popelková	0	4650
+941	ZÁMEČNÍK Juraj	ž.Mária Popelková	0	4654,4659,4662,4730
+941	Zámečník Martin	dátum úmrtia 25.12.1964, manželka Katarína r. Dedíková	0	4650
+941	Zámečník Martin	r.Zámečník	0	4654,4659,4661,4662,4730
+941	ZÁMEČNÍK Martin		0	1456,3482,3483,3629,4650,4654,4659,4661,4662,4730
+941	ZÁMEČNÍK Martin	--	0	4654,4659,4661,4662,4730
+941	ZÁMEČNÍK Martin	mal	0	4661
+941	ZÁMEČNÍK Martin	maloletý	0	4558
+941	ZÁMEČNÍK Martin	manželka Katarína rod. Evinicová	0	1456,3482,3483
+941	ZÁMEČNÍK Martin	ž.Helena r.Procházková	0	3912,3913
+941	ZÁMEČNÍK Martin	ž.Katarína Evinicová	0	3481,3974
+941	ZÁMEČNÍK Martin	ž.Mária Pastorková	0	3895,3896
+941	Zámečník Martin r. Zámečník		0	3481,3974
+941	ZÁMEČNÍK Michal		0	4661

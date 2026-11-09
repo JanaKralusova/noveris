@@ -1,0 +1,256 @@
+1084	Škultéty Marek, SPF SPF		1	1613,1632,1633,1634
+1084	Škultéty Michal, SPF SPF		1	1613,1632,1633,1634
+1084	Škultéty Rudolf, SPF SPF		1	1613,1632,1633,1634
+1084	Škultéty Samuel, SPF SPF		1	1613,1632,1633,1634
+1084	Škultéty Stanislav, SPF SPF		1	1613,1632,1633,1634
+1084	Škultéty Štefan, LSR LSR		0	1613,1632,1633,1634
+1084	Škultéty Vojtech, SPF SPF		1	1613,1632,1633,1634
+1084	Škultéty Vojtech, SPF,Filip SPF,Filip		1	1613,1632,1633,1634
+1084	Škultétyová Amália r. Škultétyová, LSR LSR		0	1613,1632,1633,1634
+1084	Škultétyová Amália, SPF SPF		1	1613,1632,1633,1634
+1084	Škultétyová Anna r. Bóryová, SPF SPF		1	1613,1632,1633,1634
+1084	Škultétyová Anna r. Fillová, SPF SPF		1	1613,1632,1633,1634
+1084	Škultétyová Anna, SPF SPF		1	1613,1632,1633,1634
+1084	Škultétyová Elena r. Škultétyová, SPF SPF		1	1613,1632,1633,1634
+1084	Škultétyová Elena, SPF SPF		1	1613,1632,1633,1634
+1084	Škultétyová Emília r. Rosenbergerová, SPF SPF		1	1613,1632,1633,1634
+1084	Škultétyová Irena r. Hanzenová, SPF SPF		1	1613,1632,1633,1634
+1084	Škultétyová Júlia, SPF SPF		1	1613,1632,1633,1634
+1084	Škultétyová Karolína, SPF SPF		1	1613,1632,1633,1634
+1084	Škultétyová Mária r. Škultétyová, SPF SPF		1	1613,1632,1633,1634
+1084	Škultétyová Mária r. Štrbová, SPF SPF		1	1613,1632,1633,1634
+1084	Škultétyová Mária, SPF SPF		1	1613,1632,1633,1634
+1084	Škultétyová Marta r. Gaboňová,  116, Dolná Lehota, PSČ 976 98, SR, zom. 6.5.2005, zom.06.05.2005 zom. 6.5.2005, zom.06.05.2005		0	1613,1632,1633,1634
+1084	Škultétyová Terézia r. Peťková, SPF SPF		1	1613,1632,1633,1634
+1084	Škultétyová Vilma, SPF SPF		1	1613,1632,1633,1634
+1084	Škultétyová Vilma, SPF,Kňazovie SPF,Kňazovie		1	1613,1632,1633,1634
+1084	Šluch Ondrej r. Šluch,  398, Jasenie, PSČ 976 75, SR, zom.26.07.2000 zom.26.07.2000		0	1653
+1084	Šluch Ondrej, 976 75, Jasenie, č. 398, SR	zom. 26.7.2000	0	1114
+1084	Šoltýsová Terézia r. Opaterná,  261, Dolná Lehota, PSČ 976 98, SR, zom. 23.5.2009, zom.23.05.2009 zom. 23.5.2009, zom.23.05.2009		0	1613,1632,1633,1634
+1084	Šovčíková Gizela r. Kúdelková, SPF SPF		1	2046
+1084	Šteller Anton		1	1262
+1084	Šteller Jozef, SPF SPF		1	1613,1632,1633,1634
+1084	Šteller Juraj, SPF SPF		1	1613,1632,1633,1634
+1084	Štellerová Alžbeta, SPF SPF		1	1613,1632,1633,1634
+1084	Štellerová Amália r. Laprčková, SPF SPF		1	1613,1632,1633,1634
+1084	Štellerová Anna, SPF SPF		1	1613,1632,1633,1634
+1084	Štellerová Cecília r. Škultétyová, SPF SPF		1	1613,1632,1633,1634
+1084	Štellerová Gizela r. Tončeková, SPF SPF		1	1613,1632,1633,1634
+1084	Štellerová Jana r. Šalingová, SPF SPF		1	1613,1632,1633,1634
+1084	Štellerová Mária r. Štellerová, SPF SPF		1	1613,1632,1633,1634
+1084	Štellerová Mária r. Tišťanová		1	1262
+1084	Štellerová Mária r. Tišťanová, SPF SPF		1	1590,2088
+1084	Štellerová Matilda, SPF SPF		1	1613,1632,1633,1634
+1084	Števichová Zuzana r. Núterová, SPF SPF		1	2051
+1084	Štrba Emil, SPF SPF		1	2051
+1084	Štrba Ignác r. Štrba, SPF SPF		1	2051
+1084	Štrba Michal, SPF SPF		1	2051,2082
+1084	Štrba Michal, SPF, kolár SPF, kolár		1	2051
+1084	Štrbová Anna		1	1140
+1084	Štrbová Anna, SPF SPF		1	1625,2051,2088
+1084	Štrbová Mária r. Vetráková, SPF SPF		1	2051
+1084	Štrbová Marta		1	1140
+1084	Štrbová Marta, SPF SPF		1	2046,2051,2088
+1084	Štubňa Štefan, SPF SPF		1	1633
+1084	Štubňa Štefan, SPF,pekár SPF,pekár		1	1613,1632,1634
+1084	Šuhajda Filip, SPF SPF		1	1613,1632,1633,1634
+1084	Šuhajda František, SPF SPF		1	1613,1632,1633,1634
+1084	Šuhajda Ján, SPF SPF		1	2046,2051
+1084	Šuhajda Július r. Šuhajda, Kalvárska 272, Predajná, PSČ 976 63, SR, zom.01.12.2005 zom.01.12.2005		0	2063
+1084	Šuhajda Juraj, SPF SPF		1	1613,1632,1633,1634
+1084	Šuhajda Karol r. Šuhajda, SPF SPF		1	2051
+1084	Šuhajda Štefan, SPF SPF		1	1605,1608,1626,2049,2051
+1084	Šuhajda Viliam r. Šuhajda, SPF SPF		1	2051
+1084	Šuhajdová Alojzia r. Suchá, SPF SPF		1	2051
+1084	Šuhajdová Júlia r. Beraxová, SPF SPF		1	2051
+1084	Šuhajdová Karolína r. Králková, SPF SPF		1	1613,1632,1633,1634
+1084	Šuhajdová Mária r. Núterová, SPF SPF		1	1608,1609,2051,2078,2088
+1084	Šuhajdová Mária r. Senčeková, zom. 17.05.1981, zom.17.05.1981 zom. 17.05.1981, zom.17.05.1981		0	2051
+1084	Šuhajdová Terézia, SPF SPF		1	1613,1632,1633,1634
+1084	Šuriková Františka r. Cencerová, SPF SPF		1	2051
+1084	Švermove Železiarne		1	944
+1084	Tarová Mária r. Simanová, SPF SPF		1	2051
+1084	Telgarský Jozef, SPF SPF		1	2051
+1084	Tichuliaková Mária r. Škultétyová, SPF SPF		1	1613,1632,1633,1634
+1084	Tišťan Augustín r. Tišťan, SPF SPF		1	2051
+1084	Tišťan Ján r. Tišťan, SPF SPF		1	2051
+1084	Tišťan Jozef	zom. 03.01.1997	0	1262,1263
+1084	Tištian Jozef r. Tištian, zom. 03.01.1997, zom.03.01.1997 zom. 03.01.1997, zom.03.01.1997		0	1637,2051
+1084	Tištianová Malvína r. Štrbová	zom. 30.06.1986	0	1140
+1084	Tištianová Malvína r. Štrbová, zom. 30.06.1986, zom.30.06.1986 zom. 30.06.1986, zom.30.06.1986		0	1600
+1084	Tomančík Jozef		0	1624
+1084	Tomančík Jozef	mlv	0	1624
+1084	Tomančík Jozef, SPF SPF		1	2082,2087,2088,2099
+1084	Tomančík Jozef, SPF,mlv. SPF,mlv.		1	2034
+1084	Tomančíková Mária, SPF SPF		1	2059,2069,2088
+1084	Tomengová Anna r. Cibuľová, SPF SPF		1	2051
+1084	Tomko Ondrej, SPF SPF		1	1613,1632,1633,1634
+1084	Tončeková Anna, SPF SPF		1	1613,1632,1633,1634
+1084	Trenbuch Jozef, SPF SPF		1	1613,1632,1633,1634
+1084	Trnovecká Elena r. Snopková, SPF SPF		1	1613,1632,1633,1634
+1084	Turčan Emil, SPF SPF		1	1613,1632,1633,1634
+1084	Turčan Jozef, SPF SPF		1	1613,1632,1633,1634
+1084	Urblíková Anna r. Makovičová		1	1124
+1084	Vančúchová Mária r. Hlásniková, SPF SPF		1	1613,1632,1633,1634
+1084	Vargová Blažena r. Kúthová, Smetanova 13, Prešov, PSČ 080 05, SR, zom. 14.10.1996, zom.14.10.1996 zom. 14.10.1996, zom.14.10.1996		0	2053
+1084	Vaštik Vendelín		1	948
+1084	Vaštiková Štefánia r. Magáňová		1	948
+1084	Veselovská Karolína r. Kopancová, SPF SPF		1	1613,1632,1633,1634
+1084	Vetráková Judita		1	993
+1084	Vetráková Judita, SPF SPF		1	1605,2067
+1084	Vetráková Melánia r. Bečková, Kramlište 315, Predajná, PSČ 976 63, SR, zom.04.06.2010 zom.04.06.2010		0	1629,1630,1631
+1084	Vidová Emília r. Kuchárová, SPF SPF		1	1613,1632,1633,1634
+1084	Vrabcová Marta, SPF SPF		1	1613,1632,1633,1634
+1084	Vrabec Ján, SPF SPF		1	1613,1632,1633,1634
+1084	Vrabec Ján, SPF,Mladší SPF,Mladší		1	1613,1632,1633,1634
+1084	Vrabec Jozef, SPF SPF		1	1613,1632,1633,1634
+1084	Vrabec Ondrej, SPF SPF		1	1613,1632,1633,1634
+1084	Wagner Ján, SPF SPF		1	2051
+1084	Wagner Ondrej, SPF SPF		1	2051
+1084	Wagnerová Anna, SPF SPF		1	2051
+1084	Wagnerová Mária, SPF SPF		1	2051
+1084	Wagnerová Rozália, SPF SPF		1	2051
+1084	Wágnerová Zuzana, SPF SPF		1	2051
+1084	Zelenčíková Antónia r. Kováčiková, Jasenie, PSČ 976 75, SR		0	2051
+1084	Zibrín Michal, Dr.		1	991,1139
+1084	Zubáňová Františka r. Ramžová, SPF SPF		1	1613,1632,1633,1634
+1084	Zverko Ján, SPF SPF		1	1613,1632,1633,1634
+1084	Živor Emil, SPF SPF		1	1605,1625,2051
+1084	Živor Jozef, SPF SPF		1	2051
+1084	Živorová Anežka, SPF SPF		1	1625,2051,2088
+1085	Andrejčáková Mária r. Lupčová		1	4530
+1085	ANDREJČÁKOVÁ Mária r. Lupčová, SR		1	4053,4100
+1085	ANDREJČÁKOVÁ Zuzana r. Košická, SR		1	4101
+1085	Antoliková Mária r. Mydlová, nebohá nebohá		0	5414
+1085	Balaž Ján	nebohý	0	5414
+1085	Balaž Štefan	nebohý	0	5414
+1085	Balažová Helena r. Mihaľková, nez.pobyt nez.pobyt		0	5414
+1085	Balko Juraj	Topoľovka nebohý	0	5414
+1085	Balková Anna r. Hudaková, nebohá nebohá		0	5414
+1085	Barlaš Ján		0	4585,4602,4659
+1085	BARLAŠ Ján, SR		1	3734,4097
+1085	Barlaš Štefan		0	4585,4602,4659
+1085	BARŇAK Ján, SR		1	4089,4090
+1085	Belejová Agnesa r. Mihalková, nebohá nebohá		0	5414
+1085	BODNÁROVÁ Mária r. Sedlická, SR		1	4078
+1085	Brachová Mária r. Mydlová, nebohá nebohá		0	5414
+1085	BUBAN Ján, SR		1	4092,4093
+1085	BUBAN Jozef, SR		1	3873
+1085	Bubanová Mária r. Maciková	m. Štefan	0	4815
+1085	BUBANOVÁ Zuzana r. Chromá, SR		1	4078
+1085	Bubnár Ján		0	5414
+1085	CENKNEROVÁ Zuzana r.Horvatová-Miková		0	4096
+1085	ČEČÁKOVÁ Anna r. Košická, SR		1	4091
+1085	ČEČÁKOVÁ Anna, SR		1	4113
+1085	ČEČÁKOVÁ Mária, SR		1	4113
+1085	Čenčariková Mária r. Lenartovičová, Michalovce Michalovce		0	5414
+1085	ČERHIT Štefan, SR		1	4081
+1085	Čerhitová Anna r. Lupčová		1	4530
+1085	ČERHITOVÁ Anna r. Lupčová, SR		1	4100
+1085	ČERHITOVÁ Jolana r. Rujaková, SR		1	4081
+1085	Čerhyt Štefan		0	4489,5079,5436
+1085	Danková Anna	mal.dcéra Jána USA	0	5414
+1085	Danková Mária	mal.dcéra Jána USA	0	5414
+1085	Daňová Mária r. Mihaľková, Strážske Strážske		0	5414
+1085	Demková Anna r. Chromá		1	4529,4986,5148
+1085	DEMKOVÁ Anna r. Chromá, SR		1	3755
+1085	Dická Anna r. Čerhitová		0	4489,4732,5436
+1085	Dlužančin Gregor		0	5220
+1085	Dlužaninová Anna r. Horvatová		1	4605,4610,4615,5178,5235,5364
+1085	Dobranská Mária r. Nemetová		1	4489,5056
+1085	DOBRANSKÁ Mária r. Nemetová, SR		1	4198
+1085	Dunaj Martin, Jasenov Jasenov		0	4572
+1085	Dunaj Martin, SPF SPF		1	4452,4602,5177,5364
+1085	DUNAJ Martin, SR		0	4105
+1085	Dzvoniková Mária r. Šimkaninová, vdova nebohá vdova nebohá		0	5414
+1085	FERMUGA Ján, SR		1	4113
+1085	FERMUGA Pavol, SR		1	4113
+1085	Fermugo Ján		0	4489,4499,4674,5436
+1085	Fermugo Pavol, Podjavorinskej č.22, Trnava Podjavorinskej č.22, Trnava		0	4489,4499,4674,5436
+1085	Franková Anna r. Horvatová		1	4491,4525,4736,5256,5351,5418,5431
+1085	FRANKOVÁ Anna r. Horvatová, SR		1	3329,4050
+1085	GAJDOŠ Andrej, SR		1	3817
+1085	GAJDOŠ Marton, SR		1	3817
+1085	GAJDOŠ Michal, SR		1	3817
+1085	Gajdošová Anna		0	4983,5316
+1085	Gašpar Ján	ž.Helena r.Štofejová nebohý	0	5414
+1085	Gašparová Helena r. Štofejová, nebohá nebohá		0	5414
+1085	GAVAĽOVÁ Emília r. Peiszerlová, SR		1	1520
+1085	Gejdoc Michal		1	4591,4615,4989
+1085	GEJDOC Michal, SR		1	2709
+1085	HALAJ Ján, SR		1	4054,4094
+1085	Harakaľ Jozef		0	4731,5316
+1085	Harakaľ Jozef	vzd	0	5218
+1085	HARAKAĽ Jozef, SR		1	4070
+1085	Harakaľ Juraj		1	4489,4538,4596,4664,4688,4830,5104,5257
+1085	HARAKAĽ Juraj, SR		1	4072,4097,4108
+1085	HARAKAĽ Jusko, SR		1	4072
+1085	Harakaľ Michal	ž. Zuzana Gajdošová	0	4596,4849
+1085	Harakaľ Michal	ž. Zuzana r Gajdošová ž. Zuzana r Gajdošová	1	4489,4664,4688,5083
+1085	HARAKAĽ Michal, SR		1	4072,4108
+1085	HARAKAĽ Štefan, SR		1	4072
+1085	HARAKAĽOVÁ Anna, SR		1	4108
+1085	Harakaľová Mária r. Horvatová-Regena		1	4615,5293,5436
+1085	HARAKAĽOVÁ Mária r. Horvatová-Regena, SR		1	2709,3817
+1085	HARAKAĽOVÁ Zuzana r. Gajdošová, SR		1	3817
+1085	Harbač Michal		0	5216
+1085	Havrilko Ján	mal.nebohý	0	5414
+1085	Havrilko Juraj	ž.Anna r.Durkotová nebohá	0	5414
+1085	Havrilková Anna	mal.nebohá	0	5414
+1085	Hirjak Andrej		0	4776
+1085	Hirjak Ján		0	5292
+1085	Hirjak Ján	ž. Anna Knižová	0	5105
+1085	HIRJAK Jozef, SR	D:zomr.26.6.1995, |/ž.Anna r.Mičáková ,Mária r.Sninská/	0	4083
+1085	HIRJAK Jozef, SR	D:zomr.26.6.1995, |/ž.Anna r.Mičáková,Mária r.Sninská/	0	4079
+1085	HIRJAKOVÁ Ružena, SR		1	1469,4267
+1085	Hisem Ján	ž. Mária	0	4654,5195
+1085	Hisemová Mária	m. Ján	0	4654,5003
+1085	HIŠEM Ján, SR		1	4097
+1085	HIŠEMOVÁ Mária, SR	m. Ján	1	4097
+1085	Hoľková - Sivčová Zuzana r. Kovaliková		0	4572,4688,4751
+1085	HOĽKOVÁ - SIVČOVÁ Zuzana r. Kovalíková, SR		1	4104,4105,4106
+1085	Hoľková-Sivčová Zuzana r. Kovalíková		1	4489,4572,4752,5364
+1085	Horniová Anna r. Mihaľková, nebohá nebohá		0	5414
+1085	HORVAT Andrej, SR		1	4104,4106
+1085	Horvat Gregor, Jasenov Jasenov		0	4610,4615,4875,5364
+1085	HORVAT Hrehor, SR		1	4088
+1085	Horvat Ján		1	4469,4489,4499,4530,4615,4738,5114,5288,5326,5364
+1085	HORVAT Ján, SR		1	4053,4100,4103
+1085	HORVAT Ján, SR	dedil po Márii Kováčovej; dedil po Márii Kováčovej	1	4053
+1085	HORVAT Jozef, SR		1	4109
+1085	HORVAT Martin, SR		1	4109
+1085	Horvát Michal	nebohý	0	5414
+1085	HORVAT Michal, SR		1	4086,4087
+1085	HORVAT Pavel, SR		1	4085
+1085	Horvat Štefan	n. 1912	0	5078
+1085	Horvat Štefan	ž. Zuzana Katkovčinová	0	5046
+1085	Horvát Štefan		0	5191,5291
+1085	HORVAT Štefan, SR		1	3817,4087,4088,4100,4109
+1085	Horvath Andrej		1	4489,4572,4658,4749,5282,5364
+1085	Horvath Pavol		0	5289
+1085	Horvathová Mária		1	4530
+1085	HORVATHOVÁ Mária, SR		1	4053
+1085	Horvatová Anna		1	4615,4992,5436
+1085	HORVATOVÁ Anna r. Artimová		1	4053,4085,4100,4530
+1085	Horvatová Anna r. Harakaľová	m. Štefan	0	4533,4538,5264
+1085	Horvatová Anna r. Horvatová		0	5290
+1085	Horvatová Anna r. Marcinčáková		0	5247
+1085	Horvatová Anna r. Marcinčáková	n. 1882, m. Hrehor	0	5089
+1085	Horvatová Anna r. Marcinčáková, narodená 1882, muž Hrehor narodená 1882, muž Hrehor		0	4610,5245
+1085	Horvatová Anna r. Ochmanová, nebohá nebohá		0	5414
+1085	HORVATOVÁ Anna, SR		1	2709,3817,4085
+1085	Horvatová Jolana		1	4530
+1085	HORVATOVÁ Jolana, SR		1	4100
+1085	HORVATOVÁ Jozefína r. Čečáková, SR		1	4085
+1085	Horvatová Margita		1	4530
+1085	Horvatová Mária r. Harakaľová, nar.8.6.1895		1	4489,4499,4596,5238
+1085	HORVÁTOVÁ Mária r. Harakaľová, SR		0	4108
+1085	HORVATOVÁ Mária r. Hrubovčáková, SR		1	4046
+1085	HORVATOVÁ Mária r. Kovalíková, SR		1	4109
+1085	HORVATOVÁ Mária r. Šubáková, SR		1	4085
+1085	HORVATOVÁ Mária, SR		1	4100,4107
+1085	Hrabovčák Michal		1	4603,4987,5436
+1085	HRABOVČÁK Michal, SR		1	2709
+1085	Hrabovčáková Anna		1	4603,4740,5436
+1085	HRABOVČÁKOVÁ Anna, SR		1	2709
+1085	Hrabovčáková Mária		1	4603,5067,5436

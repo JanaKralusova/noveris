@@ -1,0 +1,256 @@
+583	KVANKA Pavol	I	0	476
+583	KVANKA Pavol	II	0	399,402
+583	KVANKA Pavol	ž.Žofia r.Szabová	0	399,402
+583	KVANKA Samuel		0	316
+583	KVANKA Samuel	I	0	476
+583	KVANKOVÁ Karolína	rod.Dodoková	0	703
+583	Kvanková Karolína r. Dodoková		0	695
+583	KVANKOVÁ Mária	rod.Kováčová, II	0	348
+583	KVANKOVÁ Mária	rod.Kováčová, IV	0	399,498,499
+583	KVANKOVÁ Mária	rod.Kováčová, V	0	413
+583	Kvanková Mária r. Kováčová		0	156,190,250,338,374,410,434,485,495,575,611,612,621,622
+583	Kvanková Mária r. Kováčová,III.		0	635,636
+583	KVANKOVÁ Olga		0	197,204,274,316,479,604,609,629,646
+583	KVANKOVÁ Olga	I	0	192,393
+583	KVANKOVÁ Viera		0	197,204,274,316,479,604,609,629,646
+583	KVANKOVÁ Viera	I	0	192,393
+583	KVANKOVÁ Zuzana	rod.Kolíková	0	408,473
+583	Kvanková Zuzana r. Bukovenová		0	609
+583	KVANKOVÁ Žofia	rod.Szabová, m.Pavel	0	197,316,479
+583	Kvanková Žofia r. Szabová		0	269
+583	Lehocká Katarína r. Kaderiaková		0	485
+583	LEHOCKÝ Ján		0	286
+583	LOIŠ Pavel		0	363
+583	Loišová Anna		0	291,294
+583	LOMENOVÁ Katarína		0	246
+583	LORICZOVÁ Zuzana	rod.Gunárová	0	385
+583	Loriczová Zuzana r. Gunárová		0	173,382,472,809
+583	Lorinczová Zuzana r. Gunárová		0	656
+583	MAJNOVÁ Zuzana	rod.Krupová	0	287
+583	MALÁ Zuzana	rod.Kvanková	0	179,204,274
+583	MAROTHYOVÁ Anna	rod.Dedinská	0	253
+583	MEDZIHRADSKÁ Katarína	rod.Krupová	0	287
+583	MEKLEROVÁ Gizela		0	287
+583	MIHALOVIČ Daniel		0	287
+583	Michalovič Pavel		0	578,619,620,629,673,678,679,685,686,692,696
+583	Michalovič Pavel	ž. Zuzana r. Lomenová	0	629
+583	MICHALOVIČ Pavel	II	0	246,372
+583	MICHALOVIČ Pavel	ž.Zuzana r.Lomenová	0	350,497
+583	Michalovičová Mária r. Kanvezová		0	403
+583	Michalovičová Zuzana		0	619,620
+583	MICHALOVIČOVÁ Zuzana	rod.Lomenová, m.Pavel	0	350,497
+583	Michalovičová Zuzana r. Lomenová	m.Pavel	0	629
+583	MRÁZEK Juraj		0	387
+583	NJIDOŠOVÁ Mária	rod.Slezáková	0	287
+583	NOVÁKOVÁ Mária	rod.Hrnčiarová	0	703
+583	Nováková Mária r. Hrnčiarová		0	701
+583	NOVÁRIKOVÁ Karolína	rod.Krupová	0	287
+583	PÁSTOR Pavel		0	108,163,196,245,283,335,351,371,429,430,450,451,540,579
+583	Pažítka Ján	I.; I	0	310
+583	PAŽÍTKA Ján		0	140,183,260,378,403,469,522,524,568
+583	PAŽÍTKA Ján	II	0	525
+583	PAŽÍTKA Ján	IV	0	376
+583	PAŽÍTKA Ján	V	0	183
+583	Pažítka Ján, SR		0	223
+583	PAŽÍTKA Pavel		0	196
+583	PAŽÍTKOVÁ Anna	rod.Gunárová	0	143
+583	PAŽÍTKOVÁ Anna	rod.Gunárová, I	0	221,222
+583	Pažítková Anna r. Gunárová		0	626
+583	Pažítková Anna r. Gunárová	I	0	671
+583	Pažítková Anna r. Gunárová I.		0	672
+583	PAŽÍTKOVÁ Katarína	rod.Herková	0	196
+583	PAŽÍTKOVÁ Zuzana	rod.Vrecníková	0	292
+583	Pažítkova Zuzana r. Vrecníková		0	669
+583	Pertruška Ján		0	517
+583	Petruška Ján		0	500,655
+583	PETRUŠKA Ján	st	0	511
+583	PETRUŠKA Ondrej		0	179,274
+583	PETRUŠKA Ondrej	I	0	400
+583	PETRUŠKOVÁ Anna	rod.Michalovičová	0	381
+583	Petrušková Zuzana r. Herková		0	501
+583	Píš Ján		0	700,703
+583	PLACHKÁ Mária	rod.Vozáriková	0	290
+583	PLACHKÝ Pavel		0	314
+583	Poláková Zuzana r. Herková		0	661
+583	POMOTHYOVÁ Mária	rod.Kvanková	0	197,204,274,316,479
+583	POMOTHYOVÁ Mária	rod.Kvanková, I	0	192,393
+583	POMOTHYOVÁ Mária	rod.Kvanková, II	0	271,272,292,330
+583	Pomothyová Mária r. Kvanková		0	604,609,629,646
+583	Sekerka Jozef		0	645
+583	SIALOVÁ Mária	rod.Pivarčiová	0	201,202,353,369,370
+583	Sialová Mária r. Pivarčiová		0	242
+583	SIALOVÁ Zuzana	rod.Bátovská	0	262,263,264,265
+583	SIALOVÁ Zuzana	rod.Bukovenová	0	105
+583	SIALOVÁ Zuzana	rod.Bukovenová, I	0	150,151
+583	SIALOVÁ Zuzana	rod.Bukovenová, II	0	262,263,264,265
+583	Sialová Zuzana r. Bukovenová		0	571,616,658,812
+583	SKLADAN Ján		0	141,183,260,389,403,469,522,523,603,647,648,677,685,686,687,690,692,693,696
+583	SKLADAN Ján	I	0	389,687
+583	SKLADAN Ján	IV	0	673,678,679
+583	SKLADAN Ján	st	0	223
+583	Skladan Juraj		0	260,403,647
+583	SKLADAN Juraj	II	0	223
+583	SKLADANOVÁ Anna	rod.Gábrišová	0	389
+583	SKLADANOVÁ Anna	rod.Gábrišová, I	0	389
+583	SKLADANOVÁ Anna	rod.Gábrišová, m.Ján	0	687
+583	Skladanová Anna r. Fiťková		0	403,647
+583	Skladanová Anna r. Gábrišová		0	693
+583	Skladanová Anna r. Gábrišová	m.Ján	0	677
+583	Skladanová Judita r. Dodoková		0	403,647,648
+583	Skladanová Júlia		0	647
+583	SKLADANOVÁ Mária	rod.Bukovenová	0	197,399
+583	Skladanová Mária r. Bukovenová, I.		0	629
+583	Skladanová Mária r. Dodoková		0	403,647
+583	SKLADANOVÁ Paulína	rod.Gábrišová	0	177
+583	Skladanová Zuzana r. Kyselyová		0	260
+583	Sladan Ján		0	378
+583	SLEZÁK Ján		0	287
+583	ŠIKETA Ján		0	703
+583	ŠIMKO Rudolf		0	685,686,692,696
+583	ŠONCOVÁ Zuzana	rod.Gunárová	0	118,238,356,364
+583	Šoncová Zuzana r. Gunárová		0	331,365,382,582,793
+583	Štefanovič Ondrej		0	608
+583	ŠTEVKOVÁ Antonia	rod.Pavlová	0	487
+583	Švábová Katarína r. Komárová		0	624
+583	TALAN Ondrej		0	313
+583	TALÁNOVÁ Mária		0	313
+583	UDVARDYOVÁ Mária	rod.Kvanková	0	197,204,274,316,479
+583	UDVARDYOVÁ Mária	rod.Kvanková, I	0	192,393
+583	UDVARDYOVÁ Mária	rod.Kvanková, II	0	197,399,402,478,604
+583	UDVARDYOVÁ Mária	rod.Kvanková, III	0	164,281
+583	UDVARDYOVÁ Mária	rod.Kvanková, IV	0	498,499
+583	Udvardyová Mária r. Kvanková		0	604,609,629,646
+583	Udvardyová Mária r. Kvanková,III.		0	629
+583	Uhnák Ján		0	440
+583	UHNÁK Ján	m.Anna r.Pániková	0	486
+583	UHNÁK Ján	ž.Anna r.Pániková	0	831
+583	UHNÁKOVÁ Anna	rod.Pániková, m.Ján	0	486
+583	UHNÁKOVÁ Anna	rod.Pániková, m.Ján, I	0	831
+583	Uhnáková Anna r. Pániková		0	440
+583	UHRINČAŤOVÁ Zuzana	rod.Lachká	0	287
+583	VALENTÍK Pavel	ž.Zuzana r.Michalovičová	0	246
+583	VALENTÍKOVÁ Mária	rod.Herková	0	675
+583	Valentíková Mária r. Herková		0	343,344,652
+583	VALENTÍKOVÁ Zuzana	rod.Michalovičová, m.Pavel	0	246
+583	Valentíková Zuzana r. Michalovičová		0	619,620
+583	Vargová Božena r. Vrecníková		0	584
+583	Vozáriková Zuzana		0	317
+583	VRBICKÁ Mária	rod.Kvanková	0	197,204,274,316,479
+583	VRBICKÁ Mária	rod.Kvanková, I	0	192,393
+583	Vrbická Mária r. Kvanková		0	604,609,629,646
+583	VRECNÍK Pavel		0	357,358,617,618,633,634
+583	VRECNÍKOVÁ Mária	rod.Franová	0	372
+583	VRECNÍKOVÁ Mária	rod.Franová, I	0	510
+583	VRECNÍKOVÁ Mária	rod.Franová, II	0	431
+583	VRECNÍKOVÁ Mária	rod.Franová, III	0	246
+583	VRECNÍKOVÁ Mária	rod.Krajčová	0	296
+583	Wilheim Karol, Dr.		1	726
+583	ZAŤKA Ján		0	488,518
+583	ZAŤKA Pavel		0	178,248,316,332
+583	Zaťko Pavel	Zuzana r. Krajčová	0	518
+583	Zaťko Pavel	ž. Zuzana r. Krajčová	0	518
+583	Zaťková Anna	rod. Gunárová I	0	518
+583	ZAŤKOVÁ Anna	rod.Gunárová, m.Ján	0	169,170
+583	ZAŤKOVÁ Anna	rod.Gunárová, m.Ján, I	0	187
+583	Zaťková Anna r. Gunárová		0	390
+583	Zaťková Helena		0	366,654
+583	ZAŤKOVÁ Zuzana	rod.Krajčová	0	133
+583	ZATYKA Ján		0	406
+583	ZATYKOVÁ Katarína	rod.Koblenová	0	406
+583	ZLESÍKOVÁ Anna	rod.Lehocká	0	456
+583	Zlesíková Anna r. Lehocká		0	434
+584	Ambroz Ján	slobodný	0	511
+584	Ambroz Ján r. Ambroz	slobodný	0	1148,1149,1150,1152,1153,1154
+584	Ambroz Ondrej	ž.Mária Pojáková	0	511
+584	Ambroz Ondrej r. Ambroz	manž. Mária Pojáková	0	1147,1148,1149,1150,1152,1153,1154
+584	Ambrozsová Johana r. Ambrozsová		0	1147
+584	Árvayová Magdaléna r. Balázsiková		0	1010
+584	Babaiová Magda r. Babaiová	mal	0	1140
+584	Badín Matej		0	511
+584	Badín Matej r. Badín		0	1148,1149,1150,1152,1153,1154
+584	Bajusz Valentín		0	511
+584	Bajúsz Valentín r. Bajúsz		0	1148,1149,1150,1152,1153,1154,1158
+584	Bajúsz Vojtech r. Bajúsz		0	1158
+584	Bajúszová Juliana r. Kovácsová	manž. Ján	0	1138
+584	Bajúszová Margita r. Viczenová		1	233,705,706,727,1130
+584	Bakai Imrich		0	511
+584	Bakai Imrich r. Bakai		0	885,1148,1149,1150,1152,1153,1154,1158
+584	Bakai Ján r. Bakai	kos	0	1158
+584	Bakai Jozef		0	511
+584	Bakai Jozef r. Bakai		0	1148,1149,1150,1152,1153,1154
+584	Bakai Štefan r. Bakai		0	1158
+584	Bakaiová Alžbeta r. Balážiková	kooš	0	511,1148,1149,1150,1152,1153,1154
+584	Bakaiová Barbora r. Derdová	manž. Gabriel	0	827
+584	Bakaiová Jolana		0	511
+584	Bakaiová Jolana	mal	1	233,705,706,727
+584	Bakaiová Jolana r. Bakaiová		0	765,1148,1149,1150,1152,1153,1154,1155,1158
+584	Bakaiová Magda r. Bakaiová	mal	0	1030
+584	Bakay Gabriel r. Bakay		0	1158
+584	Bakkaiová Jolana	mal	1	211,686,704,726
+584	Balajthiová Juliana r. Viczénová		0	511,1148,1149,1150,1152,1153,1154
+584	Balászik Juraj r. Balászik		0	1148,1149,1150,1152,1153,1154
+584	Balázsik Jozef r. Balázsik		0	1158
+584	Balazsik Juraj		0	511
+584	Balázsik Ondrej r. Balázsik		0	825
+584	Balázsik Valent		1	705,706,727
+584	Balázsiková Mária r. Tóthová		0	1158
+584	Balážik Jozef r. Balážik		0	1158
+584	Balážik Ondrej		0	511
+584	Balážik Ondrej r. Balážik		0	1148,1149,1150,1152,1153,1154
+584	Balážiková Mária r. Tóthová		0	1158
+584	Balážiková Rozália r. Bakaiová		0	511,1153,1154
+584	Bánasová Magdaléna r. Bakaiová		0	511,1148,1149,1150,1152,1153,1154
+584	Bartha Dezider r. Bartha		0	1158
+584	Becse Imrich r. Becse		0	1158
+584	Bene František r. Bene		0	1158
+584	Bene Ján	1; Internát č.6, Piesok pošta Podbrezová	1	412,413,414,1204,1205
+584	Bene Ján r. Bene	mal	0	1154
+584	Bene Jozef r. Bene	otec Ferencz	0	1147
+584	Bene Jozef r. Bene	zuzka	0	895
+584	Bene Július r. Bene		0	1084
+584	Bene Juraj r. Bene		0	1158
+584	Bene Ondrej r. Bene	ml	0	901
+584	Bene Pavel	manž. Eva Deáková	1	233,705,706,727
+584	Bene Pavel r. Bene	manž. Eva Deáková	0	844
+584	Bene Rudolf		0	511
+584	Bene Rudolf r. Bene		0	1148,1149,1150,1152,1153,1154
+584	Bene Šimon r. Bene		0	1035
+584	Beneová Barbora		0	511
+584	Beneová Barbora r. Beneová		0	809,1148,1149,1150,1152,1153,1154
+584	Beneová Eva r. Deáková		0	511
+584	Beneová Eva r. Deáková	manž. Pavol	0	1046,1148,1149,1150,1152,1153,1154
+584	Beneová Magdaléna		0	511
+584	Beneová Magdaléna r. Beneová		0	913,1148,1149,1150,1152,1153,1154
+584	Beneová Margita r. Brázová	1	0	868
+584	Beneová Margita r. Szögediová	vd., manž. Ján	0	789
+584	Beneová Rozália r. Beneová		0	960,1149
+584	Beneová Ružena	mal	0	511
+584	Beneová Ružena r. Beneová	mal	0	1148,1149,1150,1152,1153,1154
+584	Beneová Terézia r. Tóthová		0	1158
+584	Berente Jozef r. Berente	manž. Margita	0	1118
+584	Berenteová Margita r. Halászová		0	955
+584	Berenteová Maria r. Bajúszová	Jozefova	1	379
+584	Berenteová Mária r. Bajúszová		1	380,511
+584	Berenteová Mária r. Bajúszová	manž. Jozef	0	928,1148,1149,1150,1152,1153,1154,1155,1158
+584	Bodnárová Mária r. Kovácsová	Jánova	1	440
+584	Bodnárová Mária r. Kováčová		0	511,1148,1149,1150,1152,1153,1154
+584	Bodnárová Terézia	mal	1	440,511
+584	Bodnárová Terézia r. Bodnárová	mal	0	1148,1149,1150,1152,1153,1154
+584	Bráz Augustín		0	511
+584	Bráz Augustín r. Bráz		0	1148,1149,1150,1152,1153,1154
+584	Bráz Baláž		0	511
+584	Bráz Baláž r. Bráz		0	1148,1149,1150,1152,1153,1154
+584	Bráz František r. Bráz		0	1158
+584	Bráz Gergeľ	matyi, ž. Alžbeta r.Kélerová	0	511
+584	Bráz Gergeľ r. Bráz	matyi, manž. Alžbeta rod. Kélerová	0	1148,1149,1150,1152,1153,1154
+584	Bráz Gustáv r. Bráz		0	911
+584	Bráz Illés r. Bráz		0	961,1155
+584	Bráz Ján	k.ž.Gizela Molnárová	1	686
+584	Bráz Ján	manž. Gizela Molnárová	1	211,233,704,705,706,726,727
+584	Bráz Ján	ž.Gizela r.Molnárová	0	511
+584	Bráz Ján r. Bráz	manž. Gizela Molnárová	0	985,1148,1149,1150,1152,1153,1154,1158
+584	Bráz Juraj	banga, ž.Anna Biblíková	0	511
+584	Bráz Juraj	ž. Mária Duszaová	0	511
+584	Bráz Juraj r. Bráz	banga, manž. Anna Biblíková	0	753,1148,1149,1150,1152,1153,1154
+584	Bráz Juraj r. Bráz	manž. Mária Duszaová	0	1148,1149,1150,1152,1153,1154
+584	Bráz Ladislav	Bicska	0	21

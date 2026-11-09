@@ -1,0 +1,256 @@
+2761	MICHALCO Michal		1	513,530,558,608,616,617,679,680,699,700
+2761	MICHALCOVÁ Mária		1	513,530,558,608,616,617,679,680,699,700
+2761	MICHALCOVÁ Veronika		1	513,530,558,608,616,617,679,680,699,700
+2761	MIKLOVÁ Margita	rod.Čurová	1	446,534
+2761	MOTYĽ PAŇKOVÁ Mária r. Michalcová		1	513,530,558,608,616,617,679,680,699,700
+2761	MÚDRY Peter, 044 02 Dvorníky 153		0	530,608,616,617,699,700
+2761	NEUHAUSER Herman		1	530,558,608,616,617,679,699,700
+2761	NEUHAUSEROVÁ Rochla	rod.Mesingerová	1	530,558,608,616,617,679,699,700
+2761	NEUVIRTH Bernát		1	543
+2761	NEUVIRTH Emanuel		1	453,509,526,530,533,536,543,552,558,608,616,617,679,699,700,716
+2761	NEUVIRTH Lotia	vd	1	453,536,716
+2761	ONDEČKOVÁ Anna	rod.Zozuľáková	1	436,462,495,541,548,573,577,635,639
+2761	PATLEVIČ František		1	553
+2761	PATLEVIČ Jozef		1	553
+2761	PATLEVIČOVÁ Barbora		1	553
+2761	PATLEVIČOVÁ Mária		1	553
+2761	PATLEVIČOVÁ Mária	rod.Kizová	1	522
+2761	PAVLIKOVSKÝ Kazimír		1	530,558,608,616,617,679,699,700
+2761	PAVLUFOVÁ Anna		1	493
+2761	PECHOVÁ Ľudmila	rod.Haľková	0	530,608,616,617,699,700
+2761	PEŇAŽNÝ Ústav		1	530,558,608,616,617,679,699,700
+2761	PETRÍK Juraj		1	530,558,608,616,617,679,699,700
+2761	PIRULOVÁ Ilona r. Kizak - Jenčová	manž.Lukáč	1	580
+2761	PRUSÁKOVÁ Zuzana	rod.Karamanová,manž.Ján	1	530,558,608,616,617,679,699,700
+2761	PRŽEHOTKA Štefan		1	447,460,503,530,558,589,590,608,616,617,679,690,699,700,713
+2761	PUCHÍR Ján		1	547
+2761	PUCHÍR Ján	zomrel	1	513,530,558,608,616,617,679,680,699,700
+2761	PUCHÍR Juraj		1	547
+2761	PUCHÍR Juraj	zomrel	1	513,530,558,608,616,617,679,680,699,700
+2761	PUCHÍROVÁ Mária		1	547
+2761	RIŠKO MICHAL		0	25
+2761	RIŠKOVÁ MÁRIA r. CIČAKOVÁ		0	25
+2761	RUSINOVÁ Ilona	rod.Kizová, od roku 1921 v USA	1	429
+2761	SABOLOVÁ Mária	rod.Kizáková	0	530,608,616,617,699,700
+2761	SENČAKOVIČ JÁN		1	25,604
+2761	SENČAKOVIČ MICHAL		1	25,604
+2761	SCHERMER Abrahám		1	577
+2761	SCHERMER Moric		1	568
+2761	SIČÁKOVÁ Anna	rod.Macková,zomrela,muž Štefan	1	429,461,511,689
+2761	SIČÁKOVÁ Anna r. Macková	zomrela, muž Štefan	1	557
+2761	SOKOLOVÁ Anna	rod.Kudlová	1	468,530,558,608,616,617,679,699,700
+2761	SOKOLOVÁ Anna r. Kudlová		0	469
+2761	SPRINGER Zoltán	Dr	1	530,558,608,616,617,679,699,700
+2761	SVJANTEK Ferenc		1	429,461,466,511,557,689
+2761	ŠTIAVNICKÁ Hana		1	530,558,608,616,617,679,699,700
+2761	ŠTIAVNICKÁ Mária		1	530,558,608,616,617,679,699,700
+2761	ŠUNDA Šimon	v USA	1	449
+2761	ŠVAHLA Michal		1	530,558,608,616,617,679,699,700
+2761	TIMA Andrej		1	435,502,556
+2761	TIMKOVÁ Anna	rod.Korejovská	1	530,558,608,616,617,679,699,700
+2761	TIMKOVÁ Eva	rod.Semanová	1	530,608,616,617,679,699,700
+2761	TIMKOVÁ Eva r. Semanová		1	558
+2761	TKÁČOVÁ Anna	rod.Jenčová	1	550
+2761	VAJDOVÁ Anna	rod.Senčakovičová,manž.Peter	1	558
+2761	VAŇUGA ANDREJ		1	14,468,469,530,558,608,616,617,679,699,700
+2761	VAŇUGA MICHAL		0	14
+2761	VAŇUGA PETER		0	14
+2761	VASILENKO Ján		1	530,558,608,616,617,679,699,700
+2761	VATRAĽOVÁ MÁRIA r. TIMKOVÁ	VD	0	25
+2761	VOJTOVIČ Ján	v USA	1	449
+2761	WAKSMANSKÁ Katarína		1	530,558,608,616,617,679,699,700
+2761	WEIL Moric		1	530,558,608,616,617,679,699,700
+2761	ZAHORSKÁ Helena	rod.Štiavnická	1	530,558,608,616,617,679,699,700
+2761	ZAPOTOCKÁ Helena	rod.Telatníková	1	530,608,616,617,679,699,700
+2761	ZAPOTOCKÝ Mikuláš	zomrel,manž.Helena rod.Teľatníková	1	530,608,616,617,679,699,700
+2761	ZBOROVSKÝ Jozef		1	530,558,608,616,617,679,699,700
+2761	ZORICHAKOVÁ Helena	rod.Kizová	1	522
+2761	ZOZUĽÁK Michal		1	436,462,495,541,548,573,577,635,639
+2761	ZOZUĽÁK Peter		1	548
+2761	ZOZUĽÁK Peter	zomrel	1	462,541,639
+2761	ZOZUĽÁKOVÁ Helena		1	436,462,495,541,548,573,577,635,639
+2761	ZOZUĽÁKOVÁ Mária		1	436,462,495,541,548,573,577,635,639
+2762	AMSEL Jozef		0	3569
+2762	ANDREJKO Ján		1	4407,4659
+2762	ANDREJKO Ján	/zomrel,ml./	0	3578
+2762	ANDREJKO Ján	ml.,zomrel	1	4273,4282
+2762	ANDREJKO Ján	zomrel	0	3279,3578
+2762	ANDREJKO Ján	zomrel -	1	3470,4569
+2762	ANDREJKO Ján	zomrel-	1	4582,4657
+2762	ANDREJKO Ján	zomrel,ml. -	1	3470,4569,4582,4657
+2762	ANDREJKO Ján, ml., SR	zomrel	0	3279
+2762	ANDREJKO Ján, SR	zomrel	0	3340,3425
+2762	ANDREJKO Ján, SR	zomrel,ml	0	3425
+2762	ANDREJKO Jozef, SR	zomrel	0	3425
+2762	ANDREJKOVÁ Anna		1	4659
+2762	ANDREJKOVÁ Anna	/zomrel/	0	3578
+2762	ANDREJKOVÁ Anna	ml	0	3578
+2762	ANDREJKOVÁ Anna	ml. -	1	3470,4569,4582,4657
+2762	ANDREJKOVÁ Anna	r.Čurilová	1	4310
+2762	ANDREJKOVÁ Anna	zomrel -	1	4569,4582,4657
+2762	ANDREJKOVÁ Anna	zomrela	1	4273,4282
+2762	ANDREJKOVÁ Anna	zomrela -	1	3470
+2762	ANDREJKOVÁ Anna r. Čurillová	zomrela	0	5156
+2762	ANDREJKOVÁ Anna r. Čurilová		1	4659
+2762	ANDREJKOVÁ Anna r. Čurilová	zomrel	1	3470
+2762	ANDREJKOVÁ Anna r. Čurilová	zomrel, -	1	4569,4582,4657
+2762	ANDREJKOVÁ Anna r. Čurilová, SR	zomrela	0	3376
+2762	ANDREJKOVÁ Anna, SR	ml	0	3279
+2762	ANDREJKOVÁ Anna, SR	zomrel	0	3279
+2762	ANDREJKOVÁ Anna, SR	zomrela	0	3425
+2762	ANDREJKOVÁ Júlia, SR	zomrela	0	3425
+2762	ANDREJKOVÁ Mária		1	4659
+2762	ANDREJKOVÁ Mária	/zomrel/	0	3578
+2762	ANDREJKOVÁ Mária	ml	0	3578
+2762	ANDREJKOVÁ Mária	ml. -	1	3470,4569,4582,4657
+2762	ANDREJKOVÁ Mária	zomrel -	1	4569,4582,4657
+2762	ANDREJKOVÁ Mária	zomrela	1	4273,4282
+2762	ANDREJKOVÁ Mária	zomrela -	1	3470
+2762	ANDREJKOVÁ Mária, SR	ml	0	3279
+2762	ANDREJKOVÁ Mária, SR	zomrel	0	3279
+2762	ANTOŠOVÁ Anna r. Belasová		1	3414,3470,4374,4569,4582,4657,4659,5172
+2762	Babjaková Anna		1	4804
+2762	Babjaková Mária		1	4804
+2762	BADKIEVIČ Andrej	zomrel	1	3718,4469,4848
+2762	Bahleda - Ustupský Andrej	syn Andreja, zomrel	0	4848
+2762	BAHLEDA - USTUPSKÝ Andrej, SR	D: syn Andreja,zomrel |	1	4469
+2762	BAHLEDA - USTUPSKÝ Andrej, SR	syn Andreja zomrel	0	3718
+2762	BAHLEDA USTUPSKÝ Andrej	/ syn Andreja zomrel/	0	3717
+2762	BAHLEDA USTUPSKÝ Andrej	syn Andreja,zomrel	1	4478
+2762	Bahledová - Ustupská Helena	zomrela	0	4848
+2762	BAHLEDOVÁ Ľudviga	/zomrela/	0	3717,3718
+2762	BAHLEDOVÁ Ľudviga	zomrela	1	4469,4478,4479,4848
+2762	BALOG Juraj		1	4659
+2762	BALOG Juraj	zomrel	1	4406
+2762	BALOG Juraj	zomrel -	1	3470,4569
+2762	BALOG Juraj	zomrel-	1	4657
+2762	BALOG Juraj zomrel - SPF		1	4582
+2762	BALOG Juraj, SR	zomrel	0	3286,5560
+2762	BALOG Štefan	manželka r.Bandurová pod B 10c	1	405,5472
+2762	BALOGOVÁ Alžbeta, SR	zomrel	0	3322
+2762	BATI Vojtech	syn Gabriela	1	4201
+2762	BATI Zoltán	syn Gabriela	1	4201
+2762	BATIOVÁ Irena	dcéra Gabriela	1	4201
+2762	BATIOVÁ Jolana	dcéra Gabriela	1	4201
+2762	BAUM Adolf	/zomrel//Breznica/	0	3740
+2762	BECOVÁ Anna r. Stolariková, SR	muž Juraj - zomrel	0	3474
+2762	BECOVÁ, SR	zomrela-	1	4399
+2762	BEDNARIK Štefan	/zomrel/	0	3573
+2762	Bednariková Anna	zomrel	0	4940
+2762	BEDNARIKOVÁ Anna	/zomrel/	0	3573,4569
+2762	BEDNARIKOVÁ Anna	zomrel -	1	4582
+2762	BEDNARIKOVÁ Anna	zomrel-	1	4657
+2762	BEDNARIKOVÁ Anna	zomrela -	1	3470,4659
+2762	BEDNARIKOVÁ Anna, SR	zomrel	0	3319
+2762	BEDRUŇ Jozef		1	3470,4569,4582,4657,4659
+2762	Bedruňová Anna r. Plišková		1	3470,4569,4657
+2762	BELASOVÁ Margita	/zomrel r.Lehocká/	0	3526,3550,3554,3601,3658,3695,4581,5004,5133
+2762	BELASOVÁ Margita	r.Lehocká	1	4269,4270,4281,4307,4339,4397,4412,4444,4461,4956,5159
+2762	Belasová Margita r. Lehocká	zomrela	0	5032
+2762	BELASOVÁ Margita r. Lehocká		1	4260,4266,4659,5028,5158,5203,5434,5571
+2762	BELASOVÁ Margita r. Lehocká	zomrel -	1	4569,4582,4657
+2762	BELASOVÁ Margita r. Lehocká	zomrela-	1	3470
+2762	BELASOVÁ Margita r. Lehocká, SR	zomrel	0	3276,3327,5157,5161,5182,5207,5574
+2762	BELASOVÁ Margita r. Lehocká, SR	zomrela	0	3272,3275,3356,3375,3405,5176,5565,5570,5572,5573
+2762	Belina Adalbert	zomrel	0	3684
+2762	BELINA Adalbert		1	4659
+2762	BELINA Adalbert	/zomrel/	0	3506,3660,3664,3666,3668,3669,3670,3671,3672,3673,3675,3676,3678,3679,3680,3681,3682,3683
+2762	BELINA Adalbert	zomrel -	1	3470
+2762	BELINA Adalbert	zomrel-	1	4569,4582
+2762	BELINA Adalbert	zomrela -	1	4657
+2762	BELINA Jozef	/zomrel/	0	3642,3665,3692
+2762	BELINA Vojtech		0	5434
+2762	BELINA Vojtech	zomrel	1	3601,4444,4461,4581,4956,5133
+2762	BELINOVÁ Anna	/zomrel, st./	0	4569
+2762	BELINOVÁ Anna	r. Czerbusová,/zomrel/	0	3501,3506,3601,3660,3664,3666,3668,3669,3670,3671,3672,3673,3675,3676,3678,3679,3680,3681,3682,3683,3692,4581,5133,5434
+2762	BELINOVÁ Anna	r.Czerbusová,zomrela	1	4329,4444,4461,4956
+2762	BELINOVÁ Anna	zomrel, st. -	1	3470,4659
+2762	BELINOVÁ Anna	zomrel, st.-	1	4657
+2762	BELINOVÁ Anna	zomrela, st. -	1	4582
+2762	Belinová Anna r. Czerbusová	zomrel	0	3684
+2762	BELINOVÁ Anna r. Czerbusová		1	4659
+2762	BELINOVÁ Anna r. Czerbusová	zomrel -	1	3470
+2762	BELINOVÁ Anna r. Czerbusová	zomrel-	1	4582
+2762	BELINOVÁ Anna r. Czerbusová	zomrela -	1	4569,4657
+2762	BELINOVÁ Anna, SR	zomrel, st	0	3475
+2762	BELINOVÁ Mária	/zomrel/	0	4569
+2762	BELINOVÁ Mária	zomrel -	1	4659
+2762	BELINOVÁ Mária	zomrel-	1	4582,4657
+2762	BELINOVÁ Mária	zomrela -	1	3470
+2762	BELINOVÁ Mária, SR	zomrela	0	3475
+2762	BELOHORSKÝ Antonin		1	3270,3470,4569,4582,4657,4659
+2762	Benko Michal	zomrel	0	4845
+2762	BENKO Michal	/zomrel/	0	3556
+2762	Beňková Anna r. Micenková		0	1185
+2762	Berežná Mária r. Pavlíková		0	1292
+2762	BEŠENYOVÁ Anna	r. Hybeľová,/zomrel/	0	3509,3518,3519,5485
+2762	BEŠENYOVÁ Anna r. Hybeľová, SR	zomrela	0	3353
+2762	BEZAŇUK Michal		1	4659
+2762	BEZAŇUK Michal	zomrel	0	3485,3503,3581
+2762	BEZAŇUK Michal	zomrel -	1	3470,4569,4582,4657
+2762	BEZAŇUK Milan, Tomaša zo Štítného 42/12, Chomutov, SR		0	3470
+2762	BEZAŇUK Milan, Tomaša zo Štitného 42/12,Chomutov		0	4582,4657,4659
+2762	BEZAŇUK Milan, Tomaše ze Štítneho 42/12, Chomutov, ČR		0	4326
+2762	BEZAŇUK Milan, Tomaše zo Štitného 42/12, Chomutov, SR		0	4569
+2762	BEZAŇUKOVÁ Alena, Tomaša zo Štitného 42/12, Chomutov		0	4582,4657,4659
+2762	BEZAŇUKOVÁ Alena, Tomaša zo Štítného 42/12, Chomutov, SR		0	3470
+2762	BEZAŇUKOVÁ Alena, Tomaše ze Štítneho 42/12, Chomutov, ČR		0	4326
+2762	BEZAŇUKOVÁ Alena, Tomaše zo Štitného 42/12, Chomutov, SR		0	4569
+2762	BEZEKOVÁ Anna	r. Hecková,/zomrel/	0	3531
+2762	BIROŠ Michal		1	4192
+2762	BIROŠOVÁ Helena r. Dančová		0	4192
+2762	BODNÁROVÁ Júlia r. Ternová		1	3470,4569,4582,4657,4659
+2762	Bojčuková Anna r. Sikulová		1	4804
+2762	BRENDZA Jozef	zomrel Breznica -	1	3689,3690,3691,3830
+2762	BRENDZA Jozef	zomrel Breznica st. -	1	3767
+2762	BRENDZA Jozef	zomrel Breznica-	1	3767
+2762	BRENDZA Jozef, SR	zomrel-Breznica st	0	3762
+2762	BRENDZA Michal	zomrel Breznica -	1	3767
+2762	Briňarská Agnesa	zomrel	0	3684
+2762	BRIŇARSKÁ Agnesa	/zomrel/	0	3660,3664,3666,3668,3669,3670,3671,3672,3673,3675,3676,3678,3679,3680,3681,3682,3683
+2762	Briňarský Ján	zomrel	0	3684
+2762	BRIŇARSKÝ Ján	/zomrel/	0	3660,3664,3666,3668,3669,3670,3671,3672,3673,3675,3676,3678,3679,3680,3681,3682,3683
+2762	BRIŇARSKÝ Jozef, SR	ž. Mária r. Medvedzová,zomrel	0	3559
+2762	BRIŇARSKÝ Juraj	ž. Mária Palidrabová /zomrel/	0	3499
+2762	BRIŇARSKÝ Juraj, SR	zomrel,ž.Mária r.Palidrabová-	1	4327
+2762	BRODA Ladislav		1	4659
+2762	BRODA Ladislav	ml	1	4273,4282
+2762	BRODA Ladislav	neznamy ml	0	3578
+2762	BRODA Ladislav	neznamy ml. -	1	3470,4569,4582
+2762	BRODA Ladislav	neznamy ml.-	1	4657
+2762	BRODA Ladislav, SR	neznamy ml	0	3279
+2762	CICHÁ Alžbeta		1	4659
+2762	CICHÁ Alžbeta	r.Kiseľová,zomrel -	1	4569
+2762	CICHÁ Alžbeta r. Kiseĺová	zomrela -	1	3470
+2762	CICHÁ Alžbeta r. Kiseľová	zomrel-	1	4657
+2762	CICHÁ Alžbeta r. Kiseľová	zomrela-	1	4582
+2762	CICHÁ Alžbeta r. Kiseľová, SR	Kiseľová-	1	4406
+2762	CICHÁ Alžbeta r. Kiseľová, SR	zomrela	0	3286,5560
+2762	CICHÁ Anna		1	4406,4659
+2762	CICHÁ Anna	zomrel -	1	4569
+2762	CICHÁ Anna	zomrel-	1	4657
+2762	CICHÁ Anna	zomrela -	1	3470,4582
+2762	CICHÁ Anna, SR	zomrel	0	3286,5560
+2762	CICHÁ Anna, SR	zomrela	0	3426
+2762	CICHÁ Mária		1	4659
+2762	CICHÁ Mária	r.Kiseľová,zomrela	1	4394
+2762	CICHÁ Mária	st	1	4406
+2762	CICHÁ Mária	zomrel - st. -	1	4569
+2762	CICHÁ Mária	zomrel st. -	1	3470
+2762	CICHÁ Mária	zomrel st.-	1	4582,4657
+2762	CICHÁ Mária	zomrela	0	3447,3448
+2762	CICHÁ Mária	zomrela -	1	3470,4569,4582,4657
+2762	CICHÁ Mária r. Kiseľová, SR	zomrela-	1	4395
+2762	CICHÁ Mária, SR	r. Kiseľová - zomrel	0	3695,5004
+2762	CICHÁ Mária, SR	zomrel - st	0	3426
+2762	CICHÁ Mária, SR	zomrela	0	3286,5560
+2762	CICHÁ Terezia		1	4406,4659
+2762	CICHÁ Terezia	zomrel -	1	4569
+2762	CICHÁ Terezia	zomrel-	1	4657
+2762	CICHÁ Terezia	zomrela -	1	3470,4582
+2762	CICHÁ Terezia, SR	zomrela	0	3286,3426,5560
+2762	CICHÁ Verona		1	4659
+2762	CICHÁ Verona	zomrela	1	3447,4394
+2762	CICHÁ Verona	zomrela -	1	3470,4569,4582,4657
+2762	CICHÝ	zomrel -	1	4657
+2762	CICHÝ Andrej		1	4659

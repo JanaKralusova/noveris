@@ -1,0 +1,256 @@
+190	Baďura Ernest	syn Jozefa	1	3367,4315
+190	Baďura František		1	3367,4315
+190	Baďura Jakub	držba od Františka Lasicu	1	3886,3887,4158,4159,5111
+190	Baďura Jakub	syn Matúša a Márie r.Pavlíkovej	1	2795
+190	Baďura Ján	brat Jána,Jozefa,Pavla,Mateja	1	3367,4315
+190	Baďura Ján	brat Márie a Štefana po Jozefovi	1	3367,4315
+190	Baďura Ján	mal. syn Štefana a brat Anny	1	6772
+190	Baďura Ján	ž.Terézia r.Baďurová	1	3367,4315
+190	Baďura Jozef	brat Jána,Pavla, Mateja	1	3367,4315
+190	Baďura Jozef	po Jozefovi Baďurovi	1	3367,4315
+190	Baďura Jozef	ž.Mária r.Kubenáková	1	3367,4315
+190	Baďura Juraj	ž.Alžbeta r.Petrášová	1	7161
+190	Baďura Matej	brat Jána,Jozefa,Pavla	1	3367
+190	Baďura Matej	syn Juraja	1	3367,4315
+190	Baďura Ondrej	mal.syn Ondreja a Alžbety r.Juvovej	1	6023
+190	Baďura Pavol	brat Jána,Jozefa,Mateja	1	3367,4315
+190	Baďura Pavol	ž.Helena r.Poláková	1	2645,4315
+190	Baďura Pavol	ž.Mária r.Papanková	1	7161
+190	Baďura Štefan	po Jozefovi	1	3367,4315
+190	Baďura Štefan	ž.Mária r.Bilková	1	6772
+190	Baďura Tomáš	ž.Helena r.Poláčková	1	4315
+190	Baďurová Alžbeta	r.Škápiková ž.Antona	1	3225,6048,6846
+190	Baďurová Anastázia		1	4315,5019,5561,6770,7747,7748,7749,7750,7751,7752,7753,7754
+190	Baďurová Anna	dcéra Štefana sestra Júlia	1	4852
+190	Baďurová Anna	mal.dcéra Štefana a sestra Jána	1	6772
+190	Baďurová Augustína		1	4315,5019,5561,6770,7747,7748,7749,7750,7751,7752,7753,7754
+190	Baďurová Cecília	mal	1	4315,5019,5561,6770,7747,7748,7749,7750,7751,7752,7753,7754
+190	Baďurová Helena	mal. dcéra Matúša	1	2795
+190	Baďurová Helena	r.Poláčková ž.Michala	1	4315
+190	Baďurová Helena	r.Poláčková ž.Tomáša	1	4315
+190	Baďurová Júlia	sestra Anny Cvečkovej	1	2897,3103,3804,4019,4828,5423,6704,7218,7466
+190	Baďurová Katarína	dcéra Ondreja a Alžbety r.Juvovej	1	6023
+190	Baďurová Mária	po Jozefovi Baďurovi	1	3367,4315
+190	Baďurová Mária r. Lasicov	ž.Jakuba	1	4159
+190	Baďurová Mária r. Lasicová	ž.Jakuba	1	3886,3887,4158,5176
+190	Baďurová Pavlína	dcéra Ondreja a Alžbety r.Juvovej	1	6023
+190	Baďurová Terézia	dcéra Jána a Júlie r.Pavlíkovej	1	4315,6665
+190	Baďurová Terézia	dcéra Ondreja a Alžbety r.Juvovej	1	6023
+190	Baďurová Terézia r. Búzková		1	5021,5032
+190	Bachta Pavol	ž.Helena r.Vaňková	1	2448,4315,4877,5432,5897,6209,7693
+190	Bachtová Mária r. Drinková	ž.Štefana	1	5257
+190	Bajerová Alžbeta r. Šedivá		1	3001,3002,3004,3509,4315,7896,7897
+190	Bakan Antonín	brat Alžbety a Anny	1	6365
+190	Bakan Jozef	syn Martina a Júlie r.Butašovej	1	3036,4315,4876,5219
+190	Bakan Jozef	ž.Agneša r.Otočková D 1083/67	1	6146
+190	Bakan Mikuláš	brat Štefana	1	5199
+190	Bakan Pavol	brat Heleny Čulenovej	1	4315,6852
+190	Bakan Pavol	brat Júlie Sekáč a Heleny Bilka	1	4876
+190	Bakan Pavol	syn Juraja	1	3146
+190	Bakan Pavol	ž.Helena r.Šajdíková	1	4128,4129,4876,7563
+190	Bakan Pavol	ž.Katarína r.Hudecová	1	6824
+190	Bakan Štefan	ž.Pavlína r.Bobková	1	6465,6852
+190	Bakanová Agneša	slob.dcéra Františka	1	5953
+190	Bakanová Anna		1	5191,6932
+190	Bakanová Anna	mal. sestra Antonína a Alžbety	1	6365
+190	Bakanová Anna r. Totková		1	3402,6060
+190	Bakanová Helena	dcéra Martina a Júlie r.Butašovej	1	3036,4315,4876,5219
+190	Bakanová Helena r. Matulová	ž.Martina	1	5953
+190	Bakanová Helena r. Šajdíková	ž.Pavla	1	4942,7564,7609
+190	Bakanová Mária	dcéra Juraja	1	3146
+190	Bakanová Mária r. Cintulová	sestra Pavla, Evy a Jána	1	3160,3162,3163,3164,3165,3166,4295
+190	Bakanová Mária r. Cintulová	ž.Mikuláša	1	2399,2401,2402,2845,4315,4543,7397
+190	Bakič Imrich		1	5409
+190	Bakič Jozef		1	5409
+190	Bakič Štefan		1	5409
+190	Bakičová Mária r. Matulová	ž.Pavla	1	5953,7037
+190	Bartonek Ján	syn Jána a Gertrúdy r.Cintulovej	1	2448,2649,4749,4750,5457,6267,6270,6339,6804,7009,7062,7693
+190	Bartoňková Gertrúda r. Cintulová		1	3044
+190	Bartonková Jozefína	mal	1	3143,4901
+190	Bartúšek Adolf	ž.Helena r.Butašová	1	4315,5310
+190	Bartúšková Helena r. Butašová		1	3582,3583,3586,3587,3589,3590,3591,3592,3593,4038,4226,4315,7504,7505
+190	Bartúšková Helena r. Butašová	ž.Adolfa	1	4315,5310
+190	Bartúšková Helena r. Butašová)		1	3588
+190	Bayer František	ž.Magdaléna r.Nesnadná	1	3992
+190	Bayer Martin	syn Františka	1	3992
+190	Bayerová Magdaléna r. Nesnadná	r ž.Františka	1	3607
+190	Bayerová Magdaléna r. Nesnadná	ž.Františka	1	3611
+190	Bayerová Mária r. Bobková	ž.Mateja	1	3992
+190	Benek Alojz	brat Štefana,Františka a Jána	1	4315,6102
+190	Benek Alojz	mal	1	4315
+190	Benek Florián	brat Štefana syn Jozefa a Anny r.Včelka	1	3816,3817,3819,4315,4450,4736
+190	Benek Florián	ž.Apolónia r.Samková	1	3635
+190	Benek Ján	brat Alojza,Františka,Štefana	1	2556,3498,3505,3507,4315,6058,6102,6459
+190	Benek Jozef	mal	1	6459
+190	Benek Jozef	ž.Alžbeta r.Kuchtová	1	6059
+190	Benek Jozef	ž.Anna r.Fojtlínová	1	2237
+190	Benek Jozef	ž.Júlia r.Cintulová	1	3302,4315
+190	Benek Matej	ž.Eva r.Grajzová	1	3295,3305,3307
+190	Benek Matej	ž.Genovéva r.Grajzová	1	3301,3302,4315,4452,4960
+190	Benek Štefan	brat Alojza, Františka a Jána	1	2556
+190	Benek Štefan	brat Jána a Jozefy Šmehylovej	1	3498,3505,3507,3816,3817,3819,4315,4450,4736,6058,6102,6459
+190	Benek Štefan	D 250/56	1	3292,3295,3296,3299,3301,3302,3304,3305,3307,3308,3710,4077,4315
+190	Beňková Anna r. Fojtlínová	ž.Jozefa	1	3050,5953
+190	Beňková Apolónia r. Samková	ž.Floriána	1	2324,3635,6709
+190	Beňková Eva r. Grajzová	ž.Mateja	1	2153,4612,5220
+190	Beňková Klára r. Butašová		1	2145,2150,2155,3635,4118,4315,7779,7923
+190	Beňková Mária r. Škrovánková		1	4897,6752
+190	Benkovičová Mária r. Drinková	ž.Jána	1	2736
+190	Beňová Anna r. Bilková	ž.Ondreja	1	7056
+190	Bernhauserová Helena r. Baďurová	ž.Jána	1	7161
+190	Bihlmayer Karol	ml	1	4315,5123
+190	Bilka Alojz	syn Juraja	1	4315
+190	Bilka Augustín	syn Juraja	1	4315
+190	Bilka František	čd.1387/34	1	4684
+190	Bilka František	ž.Mária r.Juríková	1	3394,4315
+190	Bilka Ján	brat Jozefa a Matúša	1	4315,5124
+190	Bilka Ján	syn Jozefa a Márie r.Černej	1	2680,4968,5228,7070
+190	Bilka Ján	syn Pavla	1	4315,4973,7148
+190	Bilka Ján	syn Šimona a Alžbety r.Drinkovej	1	4967
+190	Bilka Ján	ž.Alžbeta r.Oravská	1	4786
+190	Bilka Ján	ž.Anastázia r.Bilková	1	4315,4922,6987
+190	Bilka Ján	ž.Jozefína r.Bilková	1	4315
+190	Bilka Ján	ž.Mária r.Valová	1	5213,6402,6888
+190	Bilka Ján	ž.Terézia r.Petríková	1	2679,3225,3228,4315,5213,7126
+190	Bilka Jozef	brat Jána a Matúša	1	3352
+190	Bilka Jozef	brat Pavla,Mikuláša a Kataríny Sekáčovej	1	4315,5175,7105
+190	Bilka Jozef	kúpa od Drinku Tomáša,ž.Terézia Klamík	1	4315
+190	Bilka Jozef	mal. syn Jozefa a Alžbety r.Bilkovej	1	2680,4315,4968,7070,7127
+190	Bilka Jozef	mal.syn Tomáša a Terézie r.Májkovej	1	4315,5189,5342,6874
+190	Bilka Jozef	syn Juraja a Heleny r.Mikéskovej	1	4315,4894,5124,7007
+190	Bilka Jozef	syn Pavla	1	4315,4973,7148
+190	Bilka Jozef	syn Šimona a Alžbety r.Drinkovej	1	4315,7100
+190	Bilka Jozef	ž.Albína r.Pavlíková	1	5342,6754
+190	Bilka Jozef	ž.Alžbeta r.Cintulová	1	4315
+190	Bilka Jozef	ž.Anna r.Hílková	1	4315
+190	Bilka Jozef	ž.Mária r.Dobiášová brat Šimona ž.Alžbe	1	5043,5433
+190	Bilka Laurinec	ž.Alžbeta r.Oravská	1	4315
+190	Bilka Martin	ž.Mária r.Stachová	1	4838
+190	Bilka Matej	syn Jozefa a Márie r.Černej	1	2680,5228
+190	Bilka Matej	ž.Verona r.Dobiášová D 986/70,D 318/82	1	4003,4005,4315,6772,6912,7106,7127
+190	Bilka Matúš	brat Jozefa a Jána	1	4315,5124
+190	Bilka Michal		1	4315,4883,4975,6948,7929
+190	Bilka Michal	syn Jána a Júlie r.Hrúzovej	1	4315,4769,4957
+190	Bilka Michal	ž.Anna r.Májková ml	1	4315,4786,4818
+190	Bilka Michal	ž.Helena r.Drinková	1	4315
+190	Bilka Michal	ž.Magdaléna r.Šebestová	1	7009
+190	Bilka Mikuláš	brat Pavla,Jozefa a Kataríny Sekáčovej	1	4315,5175,7105
+190	Bilka Ondrej	mal.syn Tomáša a Terézie r.Májkovej	1	4315,5189,5342,6874
+190	Bilka Pavol		1	7056
+190	Bilka Pavol	brat Mikuláša, Jozefa a Kataríny Sekáčov	1	4315,4799,5175,7105
+190	Bilka Pavol	syn Jozefa	1	4838,5305,6434
+190	Bilka Pavol	syn Jozefa a Márie r.Černej	1	2680
+190	Bilka Pavol	syn Ondreja a Márie r.Líškovej	1	4315
+190	Bilka Pavol	syn Pavla	1	4315,4973,7148
+190	Bilka Pavol	ž.Anna r.Pavlíková	1	4315
+190	Bilka Pavol	ž.Júlia r.Gočálová	1	4927
+190	Bilka Pavol	ž.Mária r.Závišová	1	4822,4845,4977
+190	Bilka Pavol	ž.Terézia r.Bilková	1	5213,6402,6888
+190	Bilka Peter	syn Pavla	1	4973,7148
+190	Bilka Peter	ž.Mária r.Černá	1	5213,6402,6888
+190	Bilka Rudolf	brat Márie Kmeťovej a Heleny Holáskovej	1	4315,6405,6755,6806
+190	Bilka Rudolf	mal	1	6755,7154
+190	Bilka Rudolf	mal. syn Jozefa a Alžbety r.Bilkovej	1	2680,4315,4968,7070,7127
+190	Bilka Rudolf	ž.Alžbeta	1	4896
+190	Bilka Rudolf	ž.Júlia r.Košická	1	4315
+190	Bilka Šimon	mal.syn Tomáša a Terézie r.Májkovej	1	4315,5189,5342,6874
+190	Bilka Šimon	ž.Hilda r.Heffertová	1	4315,4799
+190	Bilka Šimon	ž.Mária r.Bilková valik	1	4315
+190	Bilka Štefan	mal	1	5342,6874
+190	Bilka Štefan	syn Jána a Júlie r.Hrúzovej	1	4315,4769,4957
+190	Bilka Štefan	ž.Helena r.Juríková	1	4315
+190	Bilka Štefan	ž.Ľudmila r.Májková D 1150/83	1	6955
+190	Bilka Tomáš	ž.Terézia r.Májková	1	4315,6216
+190	Bilka Vavrinec	ž.Alžbeta r.Oravská	1	4786
+190	Bilka Vendelín	syn Jozefa	1	4838,5305,6427,6434,7532
+190	Bilková Alžbeta	dcéra Jána	1	4315
+190	Bilková Alžbeta	dcéra Jozefa a Alžbeta r.Bilková	1	7127
+190	Bilková Alžbeta	dcéra Pavla	1	4315,4768
+190	Bilková Alžbeta	ž.Rudolf	1	4896
+190	Bilková Alžbeta r. Bilková	ž.Jána	1	5718,7067
+190	Bilková Alžbeta r. Bilková	ž.Jozefa	1	5228,7070
+190	Bilková Alžbeta r. Cintulová		1	4081
+190	Bilková Anna	dcéra Pavla	1	4973,7148
+190	Bilková Anna r. Drinková	ž.Jána	1	2330,6917,7071
+190	Bilková Anna r. Hílková	ž.Jozefa	1	4315
+190	Bilková Anna r. Májková	ž.Michala	1	4315,4786,4919,6373
+190	Bilková Anna r. Pavlíková	ž.Pavla	1	4315
+190	Bilková Anna r. Škápiková	ž.Šimona	1	4315
+190	Bilková Barbora r. Drinková	ž.Jána	1	5441
+190	Bilková Berta	mal. E PK 558/96	1	4315
+190	Bilková Hedviga		1	6875,6876
+190	Bilková Helena	D od Matúša Bilku	1	4315,4662,5067,6343,7099,7947,7948
+190	Bilková Helena	dcéra Matúša	1	6648
+190	Bilková Helena	dcéra Ondreja a Márie r.Líškovej	1	4315
+190	Bilková Helena	mal.dcéra Juraja	1	4315,6405
+190	Bilková Helena r. Bakanová		1	4876
+190	Bilková Helena r. Bilková		1	4315
+190	Bilková Helena r. Bilková	dcéra Jána	1	5718,7067
+190	Bilková Helena r. Bilková	ž.Jána dcéra Šimona	1	4315,5133
+190	Bilková Helena r. Hílková	ž.Mikuláša	1	4315
+190	Bilková Helena r. Juríková	ž.Štefana	1	4315
+190	Bilková Hilda r. Heffertová	ž.Šimona	1	4315,4799
+190	Bilková Jozefína r. Bilková	ž.Jána	1	4315
+190	Bilková Júlia		1	5007,6648
+190	Bilková Júlia r. Hrúzová	ž.Jána	1	4769,4956,4957
+190	Bilková Júlia r. Kubincová	ž.Juraja	1	2490,2493,2547,2550,3341,3344,3345,3515,4139
+190	Bilková Júlia r. Májková	ž.Jozefa	1	4315,6343,7042,7101
+190	Bilková Karolína r. Bilková	ž.Augustína	1	4003,4005,4315,7106
+190	Bilková Katarína r. Bilková	ž.Antona	1	4315
+190	Bilková Katarína r. Drinková	ž.Michala	1	4264,4265
+190	Bilková Ľudmila r. Májková		1	4919,6373
+190	Bilková Ľudmila r. Stachová		1	4315,5931,6342,6643,7045,7046
+190	Bilková Magdaléna	dcéra Jána a Júlie r.Hrúzovej	1	4315,4769,4957
+190	Bilková Magdaléna r. Šedivá		1	5926
+190	Bilková Mária	dcéra Jána a Anny r.Drinkovej	1	7071
+190	Bilková Mária	dcéra Jána a Júlie r.Hrúzovej	1	4315,4769,4957
+190	Bilková Mária	dcéra Jozefa a Márie r.Černej	1	5228
+190	Bilková Mária	mal.dcéra Juraja	1	4315,6405
+190	Bilková Mária	ž.Františka	1	4315
+190	Bilková Mária r. Bilková	dcéra Tomáša a Terézie r.Májk	1	4315,5189,5342,6874
+190	Bilková Mária r. Bilková	ž.Jozefa	1	6648
+190	Bilková Mária r. Bilková	ž.Pavla D 1812/92	1	2680,4968,6874,7070
+190	Bilková Mária r. Bilková	ž.Šimona valik	1	4315
+190	Bilková Mária r. Černá	ž.Jozefa	1	2680
+190	Bilková Mária r. Jankovičová	ž.Michala	1	6535
+190	Bilková Mária r. Poláčková	ž.Pavla	1	4315
+190	Bilková Mária r. Stachová	ž.Martina	1	5305,6427,6434,7532
+190	Bilková Mária r. Závišová	ž.Pavla	1	4822,4845,4977
+190	Bilková Marta		0	2601
+190	Bilková Pavlína r. Drinková	ž.Šimona	1	6944
+190	Bilková Terézia r. Černá	ž.Jozefa	1	2679,2682,4315,4998,5123,5439
+190	Bilková Terézia r. Solárová		1	6845,7041
+190	Bilková Terézia r. Stachová	ž.Jozefa	1	7056
+190	Bilková Veronika r. Dobiášová	ž.Mateja	1	2291,3667,5438,5794,6080,6446
+190	Bilkovičová Mária r. Gočálová		1	5248,5451
+190	Bilkovičová Mária r. Gočálová)		1	5396
+190	Bílý Rudolf	ž.Mária r.Butašová D 1271/83	1	2802,2805,2806
+190	Bittlerová Magdaléna r. Búzková		1	4480,6235
+190	Bízek Ján		1	5537,6478
+190	Bízek Ján	D 1876/89	1	3549,3555
+190	Bízek Ján	slob.brat Júlie,Alojzovi,Rajmundovi	1	4315
+190	Bízek Jozef		1	2897
+190	Bízek Jozef	brat Márie Cintulovej	1	3103
+190	Bízek Jozef	brat Rudolfa	1	2035,2412,2414,2416,2419,2421,2424,2426,2428,2430,4118,4134,4315,7779
+190	Bízek Jozef	brat Vincenta Márie,Kataríny	1	2424,4118,4315,7779
+190	Bízek Jozef	st	1	2419
+190	Bízek Jozef	syn Jozefa a Rozálie r.Bobkovej	1	5537,6478
+190	Bízek Jozef	ž.Anna r.Matulová syn Fran.Márie Dobiáš	1	2419,3464,4315,4491,4954,5429,5627,5679,6383
+190	Bízek Matej		1	5537,6478
+190	Bízek Rajmund	ž.Agneša r.Andelková D 527/93	1	4315,4842,6044,7146
+190	Bízek Rajmund	ž.Terézia r.Sojáková	1	3799
+190	Bízek Rudolf		1	2035,2412,2414,2416,2419,2421,2424,2426,2428,2430,4118,4134,4315,7779
+190	Bízek Štefan		1	2524
+190	Bízek Štefan	syn Mateja	1	2528
+190	Bízek Štefan	ž.Helena r.Michálková	1	2963
+190	Bízková Agneša r. Andelová	ž.Rajmunda	1	3800
+190	Bízková Alžbeta r. Kassayová	ž.Štefana	1	5953
+190	Bízková Helena	sestra Kataríny a Márie	1	2959,2960,2962,4315,5092,6204,7945
+190	Bízková Helena r. Michálková		1	2324,2880,2881,2882,2883,2890,2892,2893,2894,2895,2896,4169,4170,6204
+190	Bízková Júlia	po Matejovi r.1921	1	4315
+190	Bízková Júlia	sestra Jozefa a Márie	1	2424,4118,4315,7779
+190	Bízková Júlia r. Samková	r.ž.Mateja	1	2448,7693
+190	Bízková Katarína	sestra Heleny a Márie	1	2959,2960,2962,4315,5092,6204,7945
+190	Bízková Mária	sestra Júlie a Jozefa	1	2424,4118,4315,7779
+190	Bízková Mária	sestra Kataríny a Heleny	1	2959,2960,2962,4315,5092,6204,7945
+190	Bízková Rozália	po Matejovi r.1921	1	4315

@@ -1,0 +1,256 @@
+226	Ráztocká Zuzana		1	11266
+226	Ráztocká Zuzana	prot.1653	1	11266
+226	Ráztocká Zuzana	prot.383	1	8117
+226	Ráztocká Zuzana	prot.6134	1	8136,8149
+226	Ráztocká Zuzana r. Brozmanová		1	7669
+226	Ráztocká Zuzana r. Fillová		1	11375
+226	Ráztocký Andrej		1	8757
+226	Ráztocký Andrej	prot.6134	1	8136,8149
+226	Ráztocký Eduard		1	8136,8149
+226	Ráztocký Ján	prot.1615	1	5973,9021,10983,11350,14862
+226	Ráztocký Ján	prot.1653	1	11266
+226	Ráztocký Ján	prot.1653,B10	1	11266
+226	Ráztocký Ján	prot.383	1	8117
+226	Ráztocký Ján	prot.6134	1	8136,8149
+226	Ráztocký Ján	prot.7401	1	10853,10954
+226	Ráztocký Ján	prot.8903	1	5990
+226	Ráztocký Jozef	Kuchár,m.Mária r.Švantnerová,D321/77	1	10219
+226	Ráztocký Matej		1	5973,7955,8757,10162,10923,11350,14862
+226	Ráztocký Michal		1	8757
+226	Ráztocký Ondrej	prot.383	1	8117
+226	Ráztocký Samuel	prot.6045	1	9021
+226	Ráztocký Štefan		1	11091
+226	Reguliová Antónia r. Dienová		1	5978
+226	Reguliová Júlia r. Šajgalová	m.Samuel	1	9577,10625
+226	Reinhardtová Emma		1	6252
+226	Rejková Katarína r. Gondová	zom. 09.11.1982	0	8024,11394
+226	Rekenová Zuzana r. Lahová		1	9053
+226	Repka Andrej		1	10636
+226	Repka Daniel		1	6757
+226	Repka Daniel	č.d.149	1	8187
+226	Repka Daniel	Gottfrid,m.Anna r.Lacová	1	6528,6531,7785
+226	Repka Daniel	prot.5765	1	7307
+226	Repka Gottfried		1	10308
+226	Repka Ján		1	10636
+226	Repka Ján	m.Anna r.Kupčoková	1	8726
+226	Repka Ján	m.Mária r.Dubéciová,D1786/76	1	6362,9221,10032
+226	Repka Ján	Makuš	1	6530
+226	Repka Ján	prot.14440	1	10636
+226	Repka Ján, Dr.		1	6724,7017,10837
+226	Repka Ondrej		1	7531
+226	Repka Ondrej	m.Zuzana r.Hlivová	1	10534
+226	Repka Ondrej	prot.6001	1	10308
+226	Repka Samuel		1	10308
+226	Repka Samuel	zom. 25.02.1990, m.Amália r.Poliaková	0	10877
+226	Repka Štefan	roľník v Brezne	1	9493
+226	Repková Amália r. Poliaková	zom. 03.11.1988 m.Samuel	0	10877
+226	Repková Anna r. Kupčoková	m.Ján	1	8726
+226	Repková Anna r. Lacková	m.Daniel Gottfrid	1	7307
+226	Repková Anna r. Lacová		1	6629
+226	Repková Anna r. Lacová	m.Daniel Gottfrid	1	6527,6528,6531,6635,7632,7785,9021,10330,14546,14548
+226	Repková Anna r. Lacová	prot.17791	1	11054
+226	Repková Anna r. Lámerová	m.Daniel	1	10623
+226	Repková Estera		1	6724,7017,10837
+226	Repková Zuzana		1	10308
+226	Repková Zuzana r. Ďurišová		0	11009
+226	Repková Zuzana r. Hlivová	m.Ondrej	1	10534
+226	Ridlmajerová Jozefína r. Kokavcová		1	8808
+226	Ridzoň Adolf	D365/81	1	8568,8691,8695,8697,8755,8774,8775,8809,8818,8836
+226	Ridzoň Anton		1	8801
+226	Ridzoň Anton	prot.18087	1	8462,13616
+226	Ridzoň Ján		1	7778
+226	Ridzoň Jozef		1	7778
+226	Ridzoň Jozef	Gagáň	1	7778
+226	Ridzoň Jozef	m.Margita r.Chovanová,D1978/85	1	7435
+226	Ridzoň Jozef	prot.4170	1	8568,8774
+226	Ridzoň Jozef	prot.4255	1	8480,8591,8857
+226	Ridzoň Ladislav		1	8558
+226	Ridzoň Martin		1	10828
+226	Ridzoň Martin	m.Mária r.Ridzoňová	1	10830,10831
+226	Ridzoň Ondrej		1	7778
+226	Ridzoň Ondrej	Ondrov, D106/77	1	8568,8691,8695,8697,8809,8818,8836
+226	Ridzoň Ondrej	Ondrov,D106/77	1	8755,8774,8775
+226	Ridzoň Peter Pavol		1	8558
+226	Ridzoň Štefan		1	7778
+226	Ridzoň Štefan	prot.4255	1	8480,8591,8857
+226	Ridzoň Tomáš		1	8778
+226	Ridzoňová Anna		1	8857
+226	Ridzoňová Berta		1	8480,8591,8857
+226	Ridzoňová Emília	Ondrejova	1	8568,8691,8695,8697,8775,8809,8818,8836
+226	Ridzoňová Emília r. Ondrejová		1	8755,8774
+226	Ridzoňová Johana		1	8591
+226	Ridzoňová Júlia		1	8558
+226	Ridzoňová Margita r. Chovanová		1	7778
+226	Ridzoňová Margita r. Chovanová	m.Jozef,D1080/88	1	7435
+226	Ridzoňová Margita r. Suja Košičiar, Rohozná 21, Brezno, SR	m.Michal	0	8380,8381,8383,8416
+226	Ridzoňová Mária		1	8568,8691,8695,8697,8755,8774,8775
+226	Ridzoňová Mária	prot.12449	1	8558
+226	Ridzoňová Mária	r.Ridzoňová,m.Martin	1	10830,10831
+226	Ridzoňová Mária r. Boháčiková		1	8669
+226	Ridzoňová Vilma r. Veverková		1	8591
+226	Riedelmajer Gustáv		1	8577
+226	Riedelmajer Ján		1	8577
+226	Riedelmajer Jozef		1	8577
+226	Riedelmajer Ľudovít		1	8577
+226	Riedelmajerová Alžbeta		1	8577
+226	Riedelmayer Jozef		1	8577
+226	Riedelmayerová Jozefína r. Kokavcová		1	8577
+226	Richterová Alžbeta r. Môciková		1	11181
+226	Richweisová Mária r. Lutajová		1	5839,5842
+226	Rimek Jozef		1	7698
+226	Rinkeová Elena r. Adrianyiová		1	6344,6664,9479,10329
+226	Risová Gabriela r. Kureková	m.Pavol	1	8856
+226	Rišová Anna r. Hilmerová		1	6231,6242,6323,6623,6941,7235,10222,11121,14725
+226	Roháč Branislav		1	8607,8609,11334,11346,11348
+226	Roháč Daniel	m.Rozália r.Karbínová	1	8596
+226	Roháč Daniel	prot.2498	1	8607,11334,11346
+226	Roháč Dušan	m.Eva r.Pepichová	1	11388
+226	Roháč Ján	m.Želmíra r.Zacharová	1	8594,8596,12178
+226	Roháč Ján Cyril		1	10779
+226	Roháč Jozef		1	10779
+226	Roháč Jozef	prot. 2498	1	8607
+226	Roháč Jozef	prot.2498	1	11334,11346
+226	Roháč Július		1	8607,11334,11346
+226	Roháč Karol	m.Rozália r.Králiková	1	11333
+226	Roháč Karol	prot.2498	1	8607,11334,11346
+226	Roháč Viliam		1	8607,11334,11346
+226	Roháčová Kornélia r. Kvačkayová		1	4767,8594,8596,11338,12178
+226	Roháčová Mária r. Slivčíková		1	8609
+226	Roháčová Rozália r. Karbínová	m.Daniel,D1241/85	1	8609,11346,11348
+226	Roháčová Rozália r. Králiková	m.Karol	1	11333
+226	Rojčoková Darina		1	9082
+226	Rojčoková Ivan		1	9082
+226	Rolník Jozef		1	8475,8550,8552,8553,8557,8558,8561,8591,8712
+226	Rolníková Anna		1	8475,8550,8552,8553,8557,8558,8561,8591,8712
+226	Rolníková Mária		1	8475,8550,8552,8553,8557,8558,8561,8591,8712
+226	Rolová Jozefína r. Grénerová		1	8577
+226	Romanová Anna r. Brozmanová	zom. 29.05.1955	0	10159
+226	Rosenauerová Irena r. Škrovinová		1	11272
+226	Rosiar Gustáv		1	11369
+226	Rosiar Jozef		1	11369
+226	Rosiarová Anna r. Lahová	vdova	1	11369
+226	Rosiarová Gizela		1	11369
+226	Rosiarová Karolína		1	8646
+226	Rosiarová Mária r. Tisovčíková	zom. 31.05.2001	0	8823,8824,8825,8826,8858,8896,8897,8899,8900,11908
+226	Rosík Anton	m.Zuzana r.Donovalová,D216/75	1	9648,9688,14387
+226	Rosík Ján	m.Antónia r.Štulajterová	1	9651
+226	Rosík Ján	m.Antónia r.Štuljaterová	1	9876
+226	Rosík Ján	prot.6784	1	9747
+226	Rosík Ján	zom. 18.04.1989, m.Antónia r.Štulajterová	0	12863
+226	Rosík Ján	zom. 18.04.1989,m.Antónia r.Štulajterová	0	9877,9878,9879
+226	Rosík Ján	zom. 18.04.1989m.Antónia r.Štulajterová	0	12862
+226	Rosík Martin	Kuchárove	1	9734
+226	Rosík Štefan	železničiar,m.Ružena r.Šiminská	1	5829
+226	Rosík Tomáš		1	7339
+226	Rosíková Amália r. Švantnerová	m.Štefan,D1176/71	1	10037
+226	Rosíková Anna r. Pančíková	zom. 02.08.1979	0	7413
+226	Rosíková Anna r. Vozárová	m.Július Kurka; zom. 11.09.1984	0	7287
+226	Rosíková Anna r. Vozárová	zom. 11.09.1984 m.Július Kurka	1	10054,10061,10069,10078
+226	Rosíková Mária r. Dekrétová	z Krámu,D181/70,D160/76	1	9611
+226	Rosíková Ružena r. Šiminská	m.Štefan	1	5829
+226	Rosíková Zuzana r. Donovalová	zom. 11.10.1987, m. Anton	0	9648
+226	Rosjarová Karolína		1	8646
+226	Roška Daniel	m.Zuzana r.Hlivová	1	7587
+226	Roško Ján		1	10717,10719,10720
+226	Roško Ondrej, Jelšava, č. 524, SR		0	6187
+226	Roško Rudolf		1	6190,7124,11358,13639
+226	Rošková Anna r. Vonderčíková		1	10821
+226	Rošková Mária	prot.5127	1	10562,13128
+226	Rošková Zuzana r. Békyová	m.Ondrej	1	5851,7842
+226	Rošková Zuzana r. Hlivová	m.Daniel	1	7587
+226	Roštár Eugen		1	6302,6522,6741,6742,7083,7969,11069,11414,13454
+226	Roštár Gejza		1	7969
+226	Roštár Ján		1	5953,11288
+226	Roštár Ján	prot.1967	1	8634
+226	Roštár Ján	prot.5243	1	8767,8872
+226	Roštár Ján	prot.8664	1	7261
+226	Roštár Jozef	m.Anna r.Divoková	1	6033
+226	Roštár Július		1	11414
+226	Roštár Martin		1	11288
+226	Roštár Matej		1	5977
+226	Roštár Michal		1	11288
+226	Roštár Štefan		1	5977
+226	Roštár Vojtech	D689/73, zom. 12.04.1973	0	11069
+226	Roštár Vojtech	D689/73; zom. 12.04.1973	0	6742,7534
+226	Roštárová Adela		1	8767,8872
+226	Roštárová Anna		1	11288
+226	Roštárová Anna r. Koromyová		1	9367
+226	Roštárová Jolana r. Očovayová		1	6302,8872,11414
+226	Roštárová Mária		1	11288
+226	Roštárová Mária r. Hlivová		1	8634
+226	Roštárová Oľga		1	8767,8872
+226	Roštárová Šarlota		1	7534
+226	Roštárová Zuzana		1	6522
+226	Roštárová Zuzana r. Mikulíková	čs.257/b	1	9647
+226	Rothová Anna r. Duhanová		1	6097
+226	Róthová Karolína r. Schréterová		1	5798,8057,11329
+226	Rothová Mária r. Duhanová		1	6097,6098
+226	Rozložná Anna		1	10442
+226	Rozložná Anna r. Glacová	čs.202	1	10442
+226	Rozložná Eva		1	9087
+226	Rozložná Mária	m.Ondrej	1	10439
+226	Rozložný Andrej		1	7360
+226	Rozložný Ján		1	10439
+226	Rozložný Ondrej		1	4808,10826
+226	Rozložný Ondrej	m.Mária r.Rozložná	1	10439
+226	Rozmus Ondrej		1	8872
+226	Rozmuš Ondrej	ml	1	8767
+226	Rozmuš Ondrej	st	1	8767
+226	Rudinská Mária r. Štecová	m.Štefan	1	6480,10790
+226	Rudinská Mária r. Štecová	m.Štefan ASPF	1	10790
+226	Rusnáková Margita		1	5931
+226	Rybová Jolana r. Lendáková		1	11087
+226	Sabová Amália r. Macková	m.Pavol	1	8601
+226	Saková Tatiana r. Hilmerová		1	10222
+226	Salajová Mária r. Brozmanová		1	6359,6361,6605,7527,11042
+226	Salamín Alex		1	10814
+226	Salamín Ján		1	10814
+226	Salamín Jozef		1	10814
+226	Salamínová Apolónia		1	10814
+226	Salamínová Františka		1	10814
+226	Salamínová Mária		1	10814
+226	Sálus Ján		1	7177
+226	Sálus Jozef	prot.15663	1	7177
+226	Sálusová Anna		1	7177
+226	Samošová Agnesa r. Cabanová		1	7806
+226	Sárik Ján		1	10784
+226	Sárik Ján	prot.9174	1	8594,8596,12178
+226	Sárik Jozef		1	8594,8596,12178
+226	Sárik Matej		1	8594,8596,12178
+226	Sárik Ondrej		1	8594,8596,12178
+226	Sáriková Mária r. Stančíková	m.Štefan	1	11281
+226	Saviková Mária r. Szjedemová		1	9395
+226	Sefranko Ján		1	11312
+226	Sefranko Michal		1	11312
+226	Sekereš Ján		1	8214
+226	Sekereš Ján	prot.9329	1	8219
+226	Sepešiová Zuzana r. Máľusová		1	7151
+226	Shakuš František		1	11362
+226	Shakušová Antónia r. Schonová		1	11362
+226	Schallerová Jolana r. Ševčíková		1	11067
+226	Schmidtová Zuzana r. Sekerešová		1	9504
+226	Scholzová Emília r. Vraniaková		1	8580,8581,8589,8595,8597,8598,8602,8615,8853,8859,8873,8874,8881,8882,11743
+226	Schön Ján		1	9688,9690,14387
+226	Schön Ludvik	Handrove,m.Amália r.Pôbišová	1	14482,14483
+226	Schönová Amália r. Auxtová		1	9639,10056,10058,14259,14533,14572,14989
+226	Schönová Amália r. Belková		1	9789,9795
+226	Schreiner Ján		1	10838
+226	Schreiner Ján	vl.827	1	6704
+226	Schreiner Jozef		1	8149
+226	Schreiner Jozef	Danielove	1	10224
+226	Schreiner Pavol		1	10838
+226	Schreiner Pavol	prot.6865	1	7196,7953,10335
+226	Schréter Gašpar		1	5798,8057,11329
+226	Schréter Jozef		1	5798,8057,11329
+226	Schréter Šimon		1	5798,8057,11329
+226	Schrötter Ján	zom. 09.12.1998	0	11329
+226	Schrötter Ondrej	m.Alojzia r.Čellárová,D862/69,D723/75	1	5798,8057
+226	Schulteisová Anna		1	6217
+226	Schultcheis Eugen, Dr.		1	5795,6217,6233,6276,6306,6953
+226	Schultcheis Ľudovít		1	6217,6233,6276,6306,6953
+226	Schultcheisová Anna		1	5795,6217,6233,6276,6306,6953
+226	Schvandtner Ján	m.Dorota r.Fillová	1	7670
+226	Schvandtnerová Dorota r. Fillová	m.Ján	1	7670
+226	Schwarz František	obchodník	1	9615
+226	Schwarzbacher Rudolf		1	5830
+226	Sičiaková Sabína r. Korytiaková		1	8806

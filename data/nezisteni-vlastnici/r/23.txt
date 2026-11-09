@@ -1,0 +1,256 @@
+25	Betka Ján, SR	Ján	0	1056
+25	Betka Ján, SR	Kozár,m.Margita r.Tomajková	1	849
+25	Betka Ján, SR	Tomášov	1	526,837
+25	Betka Jozef		1	741,1355,1453
+25	Betka Jozef	2	1	1225,1424
+25	Betka Jozef	3	1	1263
+25	Betka Jozef	Čuček	1	1436
+25	Betka Jozef	ml.,m.Emília	1	1436
+25	Betka Jozef, SR		1	895
+25	Betka Jozef, SR	1	1	563
+25	Betka Jozef, SR	4	1	837
+25	Betka Jozef, SR	Kozár	1	823
+25	Betka Jozef, SR	maloletý	1	823
+25	Betka Július	maloletý	1	1225,1424
+25	Betka Klement	Báčik	1	1624
+25	Betka Klement, SR	Báčik	1	713,848
+25	Betka Matej		1	837
+25	Betka Matej	m.Mária r.Haraburdová	1	1340
+25	Betka Matej	m.Mária r.Haraburdová; LSR	0	1485
+25	Betka Rudolf		1	1453
+25	Betka Rudolf	Tomášov	0	1536
+25	Betka Rudolf, SR		1	741,837,895
+25	Betka Rudolf, SR	Tomášov	0	526
+25	Betka Štefan		1	563,564,565,837,1212,1287,1288,1298,1436,1648
+25	Betka Štefan	m.Kristína r.Čajnáková	1	1248,1356
+25	Betka Štefan, SR		1	1150
+25	Betka Štefan, SR	Odrejov	1	1085
+25	Betka Tomáš		1	1648
+25	Betka Tomáš, SR		1	1095,1096
+25	Betková Agnesa r. Bubelínyová, SR		1	466
+25	Betková Alžbeta		1	1453
+25	Betková Alžbeta r. Kánová	vd.,Zlúkyová	1	1258
+25	Betková Alžbeta r. Turošíková		1	659,823,959,1824,1826,1827,1829
+25	Betková Alžbeta r. Turošíková, SR		1	889,938
+25	Betková Alžbeta r. Zajacová		1	1317,1318
+25	Betková Alžbeta r. Zajacová, SR		1	834,842,861,897
+25	Betková Alžbeta, SR		1	741,837,895
+25	Betková Angela r. Bursová	m.Ján,z.19.5.1994	1	573,623,731,1796
+25	Betková Angela r. Bursová, SR	m.Ján,z.19.5.1994	1	916
+25	Betková Anna r. Pravotiaková		1	1648
+25	Betková Bernardína, SR		1	850
+25	Betková Emília r. Grúberová	m.Jozef	1	1167,1436
+25	Betková Emília r. Chovancová	m.Ján	1	1396
+25	Betková Emília r. Chovancová, SR	m.Ján	1	725,919,1133
+25	Betková Františka r. Turošíková	m.Štefan	1	1514
+25	Betková Františka r. Turošíková, SR	m.Štefan	1	909
+25	Betková Ilona r. Niklová, SR		1	853,897
+25	Betková Ilona r. Zlúkyová	Kováčová	1	1288
+25	Betková Johana r. Medveďová		1	1284
+25	Betková Júlia r. Haraburdová		1	1707
+25	Betková Júlia r. Haraburdová, SR		1	741,771,837
+25	Betková Júlia r. Haraburdová, SR	LSR	0	772
+25	Betková Kristína r. Čajnáková	m.Štefan	1	1248,1651
+25	Betková Kristína r. Čajnáková, SR	m.Štefan	1	1062
+25	Betková Kristína r. Chovancová	m.Cyril	1	1282,1308,1648
+25	Betková Kristína r. Chovancová, SR	m.Cyril	1	952,1151
+25	Betková Lena r. Tomajková, SR		1	1093
+25	Betková Magdaléna r. Tomajková, SR	m.Ondrej	1	905
+25	Betková Margita r. Tomajková	m.Ján "Kozár",č.95	1	1648
+25	Betková Margita r. Tomajková, SR	m.Ján "Kozár",č.95	1	839,849,980
+25	Betková Mária		1	1225,1424
+25	Betková Mária r. .Cesnaková, SR	m.František "Rajbáčik" č.88	1	485
+25	Betková Mária r. .Ďurčíková		1	1249
+25	Betková Mária r. Cesnaková	m.František "Rajbáčik" č.88	1	1609,1648
+25	Betková Mária r. Cesnaková	m.František "Rajbáčik" č.88; LSR	0	1610
+25	Betková Mária r. Cesnaková, SR	m.František "Rajbáčik" č.88	1	485,740,897
+25	Betková Mária r. Cibulová	Tŕniková,m.František	1	866,1354
+25	Betková Mária r. Cibulová, SR	Tŕniková,m.František	1	866,909
+25	Betková Mária r. Ďurčíková		1	1209,1640,1648
+25	Betková Mária r. Ďurčíková, SR		1	573,731,907,1027,1042,1796
+25	Betková Mária r. Haraburdová	m.Matej; LSR	0	1485
+25	Beťková Mária r. Haraburdová	m.Matej	1	1288,1298,1340
+25	Betková Mária r. Haraburdová, SR	m.Matej	1	556,564,837,895
+25	Betková Mária, SR		1	1011
+25	Betková Mária, SR	Tŕniková,m.František	1	909
+25	Betková Zuzana r. Cibulová Tŕniková, SR		1	610
+25	Betková Zuzana r. Cibulová, SR	Tŕniková	1	892
+25	Bitterbergová Adela r. Luptáková, SR		1	479,708
+25	Bjel Koloman		1	1678
+25	Borsöová Júlia		1	1442
+25	Brabcová Oľga r. Ferjenčíková		1	1654
+25	Bránik Jozef		1	1252
+25	Bravčíková Emília	maloletá	1	1207
+25	Brozman Jozef		1	1671
+25	Brozmanová Helena r. Tokárová		1	1671
+25	Brtáň Ján, Bacúch, č. 77, SR		1	1591
+25	Brtáň Klement		1	1648
+25	Brtáň Klement, SR		1	662,1801
+25	Brtáň Štefan		1	1648
+25	Brtáňová Mária r. Kánová	zom. 19.01.1978	0	1249,1439,1440,1592,1599
+25	Brucháčová Františka r. Hreblayová	m.Juraj	1	1204
+25	Brucháčová Františka r. Hreblayová	m.Juraj; LSR	0	1205
+25	Bubelímy Klement	Grojco	1	1648
+25	Bubelíny	Rybár	1	1648
+25	Bubelíny Bernardín, SR	Rybár,maloletý	1	466
+25	Bubelíny František		1	1322
+25	Bubelíny František	Čánik,m.Jozefína r.Turošíková	1	1303,1490
+25	Bubelíny František	Čánik,m.Jozefína r.Turošíková; LSR	0	1491
+25	Bubelíny František	maloletý	1	1533
+25	Bubelíny František	Rybár,m.Pavlína r.Zlúkyová	1	1505
+25	Bubelíny František, SR		1	466
+25	Bubelíny František, SR	Čánik,m.Jozefína r.Turošíková	1	862,879
+25	Bubelíny František, SR	Rybár,m.Pavlína r.Zlúkyová	1	466
+25	Bubelíny Ján		1	1322
+25	Bubelíny Ján	Bránik,m.Mária r.Turošíková	1	1648
+25	Bubelíny Ján	Veško	1	1490
+25	Bubelíny Ján	Veško; LSR	0	1491
+25	Bubelíny Ján, SR		1	840,903
+25	Bubelíny Ján, SR	1	1	840
+25	Bubelíny Ján, SR	Bránik,m.Mária r.Turošíková	1	958
+25	Bubelíny Ján, SR	Čánik	1	879,1033
+25	Bubelíny Ján, SR	Chovanec	1	840,939
+25	Bubelíny Ján, SR	Jančík	1	1084
+25	Bubelíny Jozef	Červík	1	1613
+25	Bubelíny Jozef	zomr.27.4.1997	1	1213
+25	Bubelíny Július	Rybár	1	1510,1551,1648
+25	Bubelíny Július, SR	Rybár	1	466
+25	Bubelíny Juraj	Ferko,m.Anna r.Halachová	1	1178
+25	Bubelíny Klement, SR		1	764
+25	Bubelíny Ladislav	Machaj	1	1232
+25	Bubelíny Mate, SR	zomr.12.8.2002	1	919
+25	Bubelíny Matej	1	1	1322
+25	Bubelíny Matej	zomr.12.8.2002	1	815
+25	Bubelíny Matej, SR	Chovanec	1	939
+25	Bubelíny Matej, SR	zomr.12.8.2002	1	1090
+25	Bubelíny Michal, SR	maloletý,Chovanec	1	939
+25	Bubelíny Nejt	m.Margita r.Medveďová	1	1506
+25	Bubelíny Nejt, Bacúch, SR	Bubník	0	869,1008,1089
+25	Bubelíny Peter, SR	Chovanec	1	939
+25	Bubelíny Rudolf	m.Mária r.Švantnerová	0	1425
+25	Bubelíny Rudolf	maloletý	1	1533
+25	Bubelíny Rudolf	Rybár	1	1510,1648
+25	Bubelíny Rudolf, SR	m.Mária r.Švantnerová	0	915
+25	Bubelíny Štefan, SR		1	840
+25	Bubelíny Štefan, SR	Bránik,m.Magdaléna r.Jančová	1	1071
+25	Bubelíny Štefan, SR	Chovanec,maloletý	1	840
+25	Bubelínyová Alžbeta r. Betková		1	1453
+25	Bubelínyová Angela		1	1553
+25	Bubelínyová Angela r. Ďurčíková, 976 65, Bacúch, č. 73, SR		0	1042
+25	Bubelínyová Anna		1	1385,1803
+25	Bubelínyová Anna r. Cabanová, SR		1	1078
+25	Bubelínyová Anna r. Cesnaková		1	762,1421
+25	Bubelínyová Anna r. Cesnaková	LSR	0	1603
+25	Bubelínyová Anna r. Cibulová		1	1421
+25	Bubelínyová Anna r. Halachová	zom. 17.05.1982	0	1325,1421,1583,1603
+25	Bubelínyová Anna r. Halachová, SR	zom. 17.05.1982	0	506,508,509,515,518,661,843,1041,1078,1098
+25	Bubelínyová Anna r. Jančová	m.Jozef	1	1213
+25	Bubelínyová Anna r. Medveďová, SR		1	725
+25	Bubelínyová Anna, SR		1	939
+25	Bubelínyová Barbora r. Kánová, SR		1	751,838
+25	Bubelínyová Barbora, SR	Dvoranová,m.Štefan	1	506
+25	Bubelínyová Bernardína	Rybárová,maloletá	1	1510,1648
+25	Bubelínyová Elena r. .Jančová	č.246	1	1327
+25	Bubelínyová Elena r. Jančová	č.246	1	1326,1624
+25	Bubelínyová Elena r. Jančová, SR	246	1	1148
+25	Bubelínyová Elena r. Jančová, SR	č.246	1	1118
+25	Bubelínyová Hedviga, SR		1	919,1090
+25	Bubelínyová Ilona, SR		1	903
+25	Bubelínyová Júlia, SR		1	919,1090
+25	Bubelínyová Karolína r. Jánošíková, SR	vd.,m.Jozef Rybár,11.8.1899	1	906
+25	Bubelínyová Kristína r. Piliarová	Machaj,m.Ladislav	1	848,1326,1327
+25	Bubelínyová Kristína r. Piliarová	Machaj,m.Ladislav,26.9.1895	1	1274
+25	Bubelínyová Kristína r. Piliarová, SR	Machaj,m.Ladislav,26.9.1895	1	840,903
+25	Bubelínyová llona		1	840
+25	Bubelínyová Magdaléna r. Jančová, SR	m.Štefan	1	829,1071
+25	Bubelínyová Margita r. Medveďová	m.Nejt	1	1506
+25	Bubelínyová Margita r. Medveďová, SR	m.Nejt	1	450,919
+25	Bubelínyová Margita r. Niklová, SR	zom. 06.10.2000	0	583,585,735
+25	Bubelínyová Mária r. Turošíková	m.Ján	1	1648
+25	Bubelínyová Mária r. Turošíková, SR	m.Ján	1	958
+25	Bubelínyová Mária r. Zajacová, SR		0	374
+25	Bubelínyová Mária r. Zajacová, SR	m.Jozef	1	903
+25	Bubelínyová Mária r. Zibrínová		1	1524
+25	Bubelínyová Mária r. Zibrínová, SR		1	874
+25	Bubelínyová Štefánia r. Zlúkyová, SR		1	611
+25	Bubelínyová Zuzana r. Turošíková, SR		1	918
+25	Bubelínyová Zuzana, SR		1	840,903
+25	Bučko Štefan		1	1671
+25	Bursö Albert		1	1641
+25	Bursö Bertalan		1	1641
+25	Bursö Bertalan, SR		1	731
+25	Bursöová Barbora, SR		1	916
+25	Bursöová Júlia	LSR	0	1443
+25	Bursöová Júlia, SR		1	750
+25	Bútorová Zuzana r. Haraburdová		1	1395,1402,1623
+25	Bútorová Zuzana r. Haraburdová, SR		1	670,724
+25	Buvala Jozef		1	1677
+25	Buvala Štefan	Krajč	1	1677
+25	Buvalová Barbora r. Bučková		1	1671
+25	Buvalová Emília r. Maruškinová		1	1673
+25	Buvalová Magdaléna		1	1677
+25	Buvalová Magdaléna r. Dupejová		0	1686
+25	Caban František		1	1191,1532
+25	Caban František	LSR	0	1192
+25	Caban František, SR		1	501
+25	Caban Izidor, SR	Krajči,m.Pavlína	1	501,679,755,1125
+25	Caban Jakub	Ježiško	1	1624
+25	Caban Jakub, SR	Ježiško	1	713,848
+25	Caban Ján, SR	Jodík	1	1068
+25	Caban Ján, SR	m.Irma r.Škantárová	1	584
+25	Caban Jozef	1	1	1302,1632,1637
+25	Caban Jozef	1; LSR	0	1636
+25	Caban Jozef	Krajči	1	1648
+25	Caban Jozef	Kubik	1	1648
+25	Caban Jozef, SR	Kubik	1	1036
+25	Caban Klement, SR	Fešák	1	1099
+25	Caban Laurinc		1	1325,1632,1637
+25	Caban Laurinc	LSR	0	1636
+25	Caban Matej		1	1637
+25	Caban Matej	Kubík	1	1532
+25	Caban Matej	LSR	0	1636
+25	Caban Matej, SR		1	501
+25	Caban Michal		1	1648
+25	Caban Michal	Kyseľ,m.Helena r.Medveďová	1	1280
+25	Caban Michal	m.Ilona	1	1372
+25	Caban Rudolf	Kyseľ,m.Františka r.Haraburdová	1	1397,1423
+25	Caban Rudolf	Mancikoš,m.Andela r.Medveďová	1	1632
+25	Caban Rudolf, SR	Kyseľ,m.Františka r.Haraburdová	1	475,499,528,556,747,1137
+25	Caban Rudolf, SR	zom. 16.02.1995	0	598,599,600,611,760,1115,1754
+25	Caban Šimon		1	1217
+25	Caban Štefan	Fešák,m.Mária r.Černáková	1	1406,1648
+25	Caban Štefan, SR	Fešák,m.Mária r.Černáková	1	501,1024,1114
+25	Cabanová Alžbeta r. Kánová	Zlúkyová,Kalendár,m.Matúš	1	1301,1623,1648
+25	Cabanová Alžbeta r. Kánová-Zlúkyová		1	1214
+25	Cabanová Alžbeta r. Kánová-Zlúkyová, SR		1	1001
+25	Cabanová Angela		1	1191
+25	Cabanová Angela	LSR	0	1192
+25	Cabanová Angela r. Cibulová, SR		1	576,742,756,884
+25	Cabanová Angela, SR		1	501
+25	Cabanová Anna r. Tomajková		1	1175
+25	Cabanová Anna r. Tomajková, SR		1	623
+25	Cabanová Antónia		1	1200
+25	Cabanová Barbora r. Kánová	m.Šimon	1	1648
+25	Cabanová Barbora r. Kánová, SR	vd.,m.Šimon	1	1032
+25	Cabanová Bernardína r. Piliarová		1	1519
+25	Cabanová Bernardína r. Piliarová, SR		1	550,551
+25	Cabanová Dorota r. Kánová		1	1648
+25	Cabanová Elena	maloletá,Kubíková; LSR	0	1570
+25	Cabanová Elena r. Cibulová Cesnaková, SR		1	528
+25	Cabanová Elena r. Cibulová, SR	Cesnaková	1	901
+25	Cabanová Elena r. Piliarová, SR		1	559
+25	Cabanová Elena, SR	maloletá,Kubíková	1	977
+25	Cabanová Emília		1	1191
+25	Cabanová Emília	LSR	0	1192
+25	Cabanová Františka r. Haraburdová	Kyseľová,m.Rudolf	1	1246,1397,1423
+25	Cabanová Františka r. Haraburdová, SR	Kyseľová,m.Rudolf	1	475,499,528,556,1137
+25	Cabanová Františka r. Maruškinová, SR		1	850
+25	Cabanová Helena r. Cesnaková	m.Pavel	1	1648
+25	Cabanová Helena r. Medveďová	m.Michal	1	1280
+25	Cabanová Helena r. Medveďová, SR	m.Michal	1	908
+25	Cabanová Ilona r. Medveďová	m.Michal	1	1372
+25	Cabanová Ilona r. Medveďová, SR	m.Michal	1	879
+25	Cabanová Ilona, SR		1	501
+25	Cabanová Irma r. Medveďová, SR		1	567
+25	Cabanová Irma r. Škantárová	m.Ján	1	584,1223
+25	Cabanová Irma r. Škantárová, SR	m.Ján	1	584,611,761,1045

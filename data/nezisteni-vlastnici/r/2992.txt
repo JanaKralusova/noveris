@@ -1,0 +1,256 @@
+1705	Budinec Juraj	ml	0	1446
+1705	BUDINEC Juraj		0	424,980,981,982,984,985,1229,2171,2394,2845
+1705	BUDINEC Michal		0	424,980,981,982,984,985,1229,1446,2171,2394,2845
+1705	Cerina Ján		0	2394
+1705	Cerina Ján	1	0	1253,1828,1829,2627
+1705	Cerina Ján	3	0	1106,2639
+1705	Cerina Ján	5	0	1105,1614,2537
+1705	Cerina Ján	6	0	1409
+1705	Cerina Ján	borcoš,m.Mária r.Cerinová	0	2704
+1705	Cerina Ján	Husár	0	964
+1705	Cerina Ján	Husár 1	0	2377
+1705	Cerina Ján	kapsa	0	1158,1828,1829,2394,2728
+1705	Cerina Ján	kapsa,maloletý	0	1158
+1705	Cerina Ján	mal.súr.Michal	0	1001,1089,1227,2035,2069,2142,2485
+1705	Cerina Ján	manž.Ilona r.Vavrišová	0	2157
+1705	Cerina Ján	mladší	0	2387
+1705	Cerina Ján	mladší,Kapsa	0	882,2394
+1705	Cerina Ján	po Matejovi	0	2394,2610
+1705	Cerina Ján	somnikár	0	1295,1828,1829,2394,2627,2982
+1705	Cerina Ján	starší; starší	0	2387
+1705	Cerina Ján	Števurda	0	731,2392,2393,2410,2540
+1705	Cerina Ján	Vaniška	0	882,1828,1829,2394
+1705	Cerina Ján	Vaniška,Petričkin	0	1830,1831,2394
+1705	Cerina Juraj	husár,č.264	0	782,964,1001,2168
+1705	Cerina Juraj	husár,m.Elena r.Jakubová	0	1016,1017,1018,1019,1106,1630,2168,2387,2394,2467,2471,2474,2551,2639,2720,2731
+1705	Cerina Juraj	kapuska	0	2720
+1705	Cerina Juraj	kešo	0	1089,1227,2069,2142
+1705	Cerina Juraj	po Matejovi	0	2394,2610
+1705	Cerina Juraj	semnikár	0	1089,1227,1828,1829,2069,2142,2394,2627
+1705	Cerina Juraj	súr.Helena,Pavol	0	1105,1409,1614,2035,2037,2394,2485,2537,2627
+1705	Cerina Juraj	súr.Ondrej	0	2575
+1705	Cerina Juraj	súr.Pavol	0	1242,1732,2347,2394,2484
+1705	Cerina Juraj	šnúričkin	0	2506
+1705	Cerina Juraj	Števurda	0	1253,2394
+1705	Cerina Juraj	vaniška	0	882
+1705	Cerina Juraj	Vaniškovkin	0	1046,2354,2394
+1705	Cerina Juraj	vdovec	0	2407
+1705	CERINA Juraj		0	2394
+1705	Cerina Juraj, 985 26, Málinec, č. 265, SR	husár	0	2394
+1705	Cerina Michal	mal.súr.Ján	0	1001,1089,1227,2035,2069,2142,2485
+1705	Cerina Michal	Števurda	0	2302,2394
+1705	Cerina Michal	Števurda 1	0	1253
+1705	Cerina Michal	Števurda,m.Elena r.Dlabajová	0	2030
+1705	Cerina Michal	Števurda,m.Helena r.Petríková	0	1089,1227,2069,2142
+1705	CERINA Michal		0	1409,2394
+1705	CERINA Ondrej		0	2575,2720
+1705	Cerina Pavel	kapuska	0	2720
+1705	Cerina Pavol		0	2394
+1705	Cerina Pavol	1	0	1648
+1705	Cerina Pavol	kešo,m.Helena r.Jakubová	0	1089,1227,2069,2142
+1705	Cerina Pavol	m.Elena r.Bakuľová	0	1158
+1705	Cerina Pavol	m.Elena r.Jakubová	0	882,2008,2195,2557
+1705	Cerina Pavol	súr.Helena,Juraj	0	1105,1409,1614,2035,2394,2485,2537,2720
+1705	Cerina Pavol	súr.Juraj	0	1016,1017,1018,1019,1242,1630,1732,1828,1829,2347,2394,2471,2484
+1705	Cerinová Dorota r. Bakulová	m.Ján	0	1016
+1705	Cerinová Elena	kapsa	0	1158
+1705	Cerinová Elena r. Bakulová		0	1002
+1705	Cerinová Helena	súr.Pavol,Juraj	0	1105,1409,1614,2037,2394,2485,2537
+1705	Cerinová Helena r. Cerinová		0	1089,1227,2069,2142
+1705	Cerinová Helena r. Jakubová		0	982,2144,2168,2551
+1705	Cerinová Helena r. Vanišková	vd.,m.Juraj	0	1163,1913,2301,2379,2394
+1705	Cerinová Ilona r. Jakubová	m.Juraj	0	2729
+1705	Cerinová Ilona r. Vanišková		0	2157
+1705	Cerinová Mária	Števove	0	1158,2195
+1705	Cerinová Mária r. Findrová		0	2340
+1705	Cerinová Mária r. Petríková	m.Juraj	0	1109
+1705	Cerinová Mária r. Števove		0	2008
+1705	Cerinová Mária r. Števove	m.Matej	0	2394
+1705	Cerinová Mária r. Turčanová		0	2257,2258
+1705	Cerinová Zuzana	Števove	0	1158,2195
+1705	Cerinová Zuzana r. Števove		0	2008
+1705	Cibuľa Ján	haluškár	0	1803
+1705	Cibuľová Anna	slabomyseľná	0	2618
+1705	Cibuľová Zuzana r. Kalafúsová	m.Juraj	0	713,2394,2639
+1705	ČÁNI Ján		0	2645
+1705	Čániová Ilona r. Slancová	m.Pavol	0	1910,2394
+1705	Čániová Jolana	v USA	0	1194,1297,1383,2259,2394
+1705	Čániová Mária	1	0	2057
+1705	Čániová Mária	1; 1	0	18
+1705	Čániová Mária	2	0	2645
+1705	Čepko Ján		0	2394
+1705	Čepko Ján	1	0	1241,1937,1947,1948,2849,2991
+1705	Čepko Ján	3	0	1939
+1705	Čepko Ján	m.Mária r.Faťarová	0	1263,1285,1935,1936,1937,1947,1948,1949,1951,2394,2701,2849,2990,2991
+1705	ČEPKO Juraj		0	2378
+1705	Čepko Matúš	súr.Ján,Pavol	0	1935,1936
+1705	Čepko Michal	býv.m.Mária r.Urdová	0	2208,2436,2572
+1705	Čepko Michal	maloletý	0	1700
+1705	Čepko Michal	mladší	0	1241
+1705	ČEPKO Michal		0	2337
+1705	Čepko Pavol	po Jánovi	0	2337
+1705	Čepko Pavol	súr.Ján,Matúš	0	1935,1936
+1705	ČEPKO Pavol		0	1213,1939,2394
+1705	Čepková Elena r. Jakubová	m.Juraj	0	1213,1935,1936,1939,2394
+1705	Čepková Helena r. Jakubová	m.Juraj	0	1089,1227,2069,2142,2394,2558
+1705	ČEPKOVÁ Ilona		0	1700
+1705	Čepková Johana	maloletá	0	1700
+1705	Čepková Mária r. Urdová	dekret	0	944,1857,1860,1861,1862,1863,2394
+1705	Čepková Zuzana	maloletá	0	1700
+1705	Čepková Zuzana r. Urdová	dekrét	0	1858
+1705	Čomaj Pavel	č.d.64	0	2394
+1705	Čomaj Pavol	slobodný	0	2113
+1705	Čomajová Elena r. Mézešová	vd	0	2087
+1705	Čomajová Helena r. Mézešová		0	2394,2559
+1705	Čomajová Mária	č.d.64	0	2394
+1705	Danko Jozef	maloletý	0	601
+1705	DANKO Jozef		0	601
+1705	Danková Margita	maloletá	0	601
+1705	DANKOVÁ Margita		0	601
+1705	DETVAN Adam		0	884,1803
+1705	Detvan Ján	2	0	1449,2490,2576,2748
+1705	Detvan Ján	3	0	1803,2388,2539
+1705	Detvan Ján	Fuko	0	2509
+1705	Detvan Ján	Fuko,m.Elena r.Šnúriková	0	1803
+1705	Detvan Ján	fuko,Macov	0	2527
+1705	Detvan Ján	fuko,Mišov	0	2527
+1705	Detvan Ján	Kiko	0	2394
+1705	Detvan Ján	merego	0	1803
+1705	Detvan Ján	Pánik	0	2274
+1705	Detvan Ján	Pánik,tesár	0	1957,2333,2713
+1705	DETVAN Ján		0	1445,1957,2047,2076,2333,2339,2394,2713
+1705	Detvan Juraj	maloletý	0	2394
+1705	Detvan Juraj	merego	0	1803
+1705	Detvan Juraj	pavčo,m.Elena r.Michalove	0	1430
+1705	DETVAN Juraj		0	1028,1449,2490,2539,2576,2726,2748
+1705	Detvan Matej	2	0	2539,2576
+1705	Detvan Matej	fuko	0	2394
+1705	Detvan Matej	merego	0	1803
+1705	DETVAN Matej		0	1803,2394
+1705	Detvan Michal	1	0	1449,2490,2748
+1705	Detvan Michal	Fuko	0	1028,2726
+1705	Detvan Michal	Fuko,m.Mária r.Tokárová	1	2813
+1705	Detvan Michal	Fuko,Macov	0	2527
+1705	Detvan Michal	fuko,mladší	0	1744,2531,2563
+1705	Detvan Michal	komloš	0	1089,1227,2069,2142
+1705	Detvan Michal	Málinec	1	1991,2762,2819
+1705	Detvan Michal	maloletý	0	2394
+1705	Detvan Michal	ml.,Fuko	0	2100,2433,2509,2580
+1705	Detvan Michal	mladší	0	1744,2531,2563
+1705	DETVAN Ondrej		0	2394
+1705	Detvan Pavel	legin	0	1803
+1705	Detvan Pavol	1	0	2042
+1705	Detvan Pavol	maloletý	0	2394,2480
+1705	Detvan Pavol	Pavčo	0	2091
+1705	DETVAN Pavol		0	1028,1449,2003,2022,2394,2490,2539,2576,2726,2748,2893
+1705	Detvanová Elena r. Detvanová	m.Michal	0	2394
+1705	Detvanová Elena r. Gúgľavová	m.Michal	0	1803,2394,2397,2492
+1705	Detvanová Elena r. Mázorová	vd	0	1042
+1705	Detvanová Helena r. Mázorová		0	2395
+1705	Detvanová Helena r. Mázorová	m.Matej	0	2394
+1705	Detvanová Ilona r. Gúgľavová	m.Michal	0	2397
+1705	Detvanová Ilona r. Karabínová	m.Pavol	0	2171
+1705	Detvanová Ilona r. Mázorová	m.Ján	0	2047,2561
+1705	Detvanová Ilona r. Mázorová	m.Matej	0	1091,1824
+1705	Detvanová Mária	Kubo	0	2394
+1705	DETVANOVÁ Mária		0	2394
+1705	Detvanová Mária r. Detvanová	m.František	0	2388,2394,2492
+1705	Detvanová Mária r. Detvanová	m.Ján	0	1247,1631,2029,2394
+1705	Detvanová Mária r. Kalafúsová		0	2287,2394
+1705	Detvanová Mária r. Trčanová		0	1429,2093,2394
+1705	Detvanová Mária r. Trčanová	vd	0	2388,2394
+1705	Detvanová Mária r. Urdová		0	1089,1227,2069,2142
+1705	Detvanová Paulína r. Kačániová		0	843,960,1326,1327,1775,1871,1872,2871
+1705	DLABAJ Ján		0	2720
+1705	Dlabaj Juraj	maloletý	0	2153
+1705	DLABAJ Matej		0	2720
+1705	Dlabaj Michal	maloletý	0	1106,2153
+1705	Dlabaj Michal	uhrin	0	1089,1227,2069,2142
+1705	Dlabaj Ondrej	maloletý	0	1106,2153
+1705	Dlabajová Elena	maloletá	0	1089,1227,2069,2142
+1705	Dlabajová Ilona	m.Ján	0	1987
+1705	Dlabajová Zuzana r. Tokárová	m.Ondrej	0	2153
+1705	DROPPA Michal		0	2394
+1705	DROPPOVÁ Dorota		0	2262,2394,2403
+1705	Drugda Peter	na neznámom mieste	0	1970,1971
+1705	Drugda Štefan	m.Mária r.Gablasová	0	1883
+1705	Drugdová Mária r. Gablasová	m.Štefan	0	1883
+1705	Dubenská Mária r. Ďurišová	m.Ondrej	0	2307
+1705	ĎURICA Ján		0	2394,2401
+1705	Ďurička Michal	m.Božena r.Paníková	0	2331
+1705	Ďurička Michal	Števove	0	2331
+1705	Ďuriška Ján	m.Juliana r.Moravčíková	0	2447
+1705	Ďurišková Mária	slobodná	0	2447
+1705	Faťara Daniel	1	0	1422
+1705	Faťara Daniel	maloletý	0	1089,1227,2069,2142
+1705	FAŤARA Daniel		0	1420,1423,2006,2394
+1705	Faťara Ján		0	2394
+1705	Faťara Ján	1	0	1046,1631,2354
+1705	Faťara Ján	2	0	1420,1423,2006
+1705	Faťara Ján	4	0	1247,2029
+1705	Faťara Ján	5	0	1422
+1705	Faťara Ján	maloletý	0	1089,1227,2069,2142
+1705	Faťara Ján	ml	0	1027,1080,2047,2292,2394,2418,2419,2480,2481,2535
+1705	Faťara Matej	1	0	2029
+1705	Faťara Matej	Bachrík,m.Mária r.Slancová	0	1089,1227,2069,2142
+1705	FAŤARA Matej		0	1247,1631,1910,2029,2394
+1705	Faťara Michal	1	0	2281
+1705	Faťara Michal	3	0	2028
+1705	Faťara Michal	m.Mária r.Faťarová	0	2006
+1705	Faťara Michal	mladší	0	2291,2518
+1705	Faťara Pavol	1	0	2029
+1705	Faťara Pavol	2	0	1420
+1705	Faťara Pavol	m.Elena r.Gúgľavová	0	2029
+1705	Faťarová Elena r. Gasperová	m.Ján	0	2043,2315,2394,2543
+1705	Faťarová Helena r. Gúgľavová		0	1089,1227,2069,2142
+1705	Faťarová Helena r. Kalafúsová		0	1689
+1705	Faťarová Ilona		0	2394
+1705	Faťarová Ilona	1	0	1243,1244,1245,1246,1632,2359
+1705	Faťarová Ilona	maloletá	0	2029
+1705	Faťarová Ilona r. Gasperová	m.Ján	0	2365
+1705	Faťarová Mária	maloletá	0	1875,2281,2394,2581
+1705	Faťarová Mária	maloletá 1	0	2029
+1705	Faťarová Mária r. Adamove		0	1191,2394,2584
+1705	Faťarová Mária r. Geľhošová	m.Matej	0	2285,2394
+1705	Faťarová Mária r. Mázorová		0	2395
+1705	Faťarová Mária r. Mázorová	1	0	2395
+1705	Faťarová Mária r. Mázorová	m.Ján	0	1080,2418,2480,2481,2535,2561
+1705	Faťarová Mária r. Mázorová	m.Tomáš	0	1751,2292,2394
+1705	Faťarová Mária r. Slancová		0	1631,2394
+1705	Fekiačová Daniela r. Faťarová, Ing.	Detva	0	2822
+1705	FERENCZ Pavol		0	1004,1696,2360,2394,2553
+1705	FILIVIK Martin		0	1803
+1705	Findra Ján	1	0	1425,1968,2295
+1705	Findra Ján	2	0	1143
+1705	Findra Ján	m.Paulína r.Karabínová	0	2394
+1705	Findra Ján	maloletý	0	2160,2456
+1705	Findra Ján	malý	0	1089,1227,2069,2142
+1705	Findra Ján	súr.Ilona,Mária	0	2394
+1705	Findra Ján	veľký	0	1144,2356,2589
+1705	Findra Ján	vojak	0	1425
+1705	FINDRA Ján		0	1243,1244,1245,1246,1247,1631,1632,1878,1879,2359,2394
+1705	Findra Juraj		0	2394
+1705	Findra Juraj	1	0	1968,2295,2340
+1705	Findra Juraj	m.Zuzana r.Kancková	0	2160,2352
+1705	Findra Juraj	maloletý	0	1425
+1705	Findra Juraj	svedkin	0	1425
+1705	Findra Juraj	vojak	0	1425
+1705	Findra Matej	slivka	0	1425
+1705	Findra Michal	m.Elena r.Faťarová	0	2589
+1705	Findra Michal	maloletý	0	1089,1227,2069,2142,2553,2592
+1705	Findra Michal	nebohý	0	954,1031,1032,1033,1034,1036,1878,1879,2394
+1705	Findra Pavel	slivka	0	1425
+1705	Findrová Anna	košarec	0	1425
+1705	Findrová Anna	krsach	0	1425
+1705	FINDROVÁ Dorota		0	2630,2641
+1705	Findrová Elena r. Bakulová	Velká	0	2350
+1705	Findrová Elena r. Gúgľavová	m.Matej	0	1557,1725,1726,2286,2394,2467
+1705	Findrová Elena r. Urdová Rázová	Velká	0	2224
+1705	Findrová Ema r. Urbašíková		0	1089,1227,2069,2142
+1705	Findrová Helena	r.Karabinová; r.Karabinová	0	2845
+1705	Findrová Helena	slobodná	0	2160,2394,2473
+1705	Findrová Helena r. Karabinová		0	982,985,2394
+1705	Findrová Ilona	1	0	1233
+1705	Findrová Ilona	súr.Mária,Ján	0	2394
+1705	FINDROVÁ Ilona		0	1968,2295,2394
+1705	Findrová Ilona r. Pazuchová	m.Juraj	0	1236,1413,2394

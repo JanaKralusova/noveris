@@ -1,0 +1,256 @@
+624	Pekár Štefan	1	0	641
+624	Pištej Ján		0	276
+624	Pištej Ján	1	0	222,464,567,822,838
+624	Platko Štefan		0	242,585
+624	Platková Paulína		0	242,537
+624	Príhoda Adam		0	331,333,357,362,366,374,376,475,841,843,848
+624	Príhoda Ján		0	288,331,333,357,362,366,374,376,475,841,843,848
+624	Príhoda Ján	10	0	288
+624	Príhoda Ján	11	0	288
+624	Príhoda Ján	3	0	784
+624	Príhoda Ján	4	0	626
+624	Príhoda Ján	5	0	222,276,331,333,357,362,366,374,376,464,475,526,822,838,841,843,848
+624	Príhoda Ján	6	0	222,331,333,357,362,366,374,376,464,475,822,838,841,843,848
+624	Príhodová Helena		0	222,276,331,333,357,362,366,374,376,464,475,573,822,838,841,843,848
+624	Príhodová Helena	1	0	468,749
+624	Príhodová Helena	3	0	222,331,333,357,362,366,374,376,464,475,559,822,838,841,843,848
+624	Príhodová Helena	5	0	288
+624	Príhodová Helena	6	0	288
+624	Príhodová Mária	3	0	331,333,357,362,366,374,376,464,475,841,843,848
+624	Príhodová Mária	4	0	331,333,357,362,366,374,376,464,475,841,843,848
+624	Príhodová Mária r. Kurucová	Ďurková	0	448
+624	Príhodová Mária r. Labašová	1	0	331,333,357,362,366,374,376,475,841,843,848
+624	Príhodová Mária r. Labašová	4	0	288
+624	Rabíková Pavlína r. Struková		0	276
+624	Rabíková Pavlína r. Struková	1	0	222,288,331,333,357,362,366,374,376,464,475,734,822,838,841,843,848
+624	Salanová Renné r. Wolfová		0	202
+624	Schimmel Haškel		0	339,723
+624	Schimmel Herman		0	339,354,595
+624	Schimmel Chaškel		0	354,545
+624	Schimmel Markus		0	215,340,345,353,398,448,727
+624	Schimmel Markus	1	0	602
+624	Schimmelová Hana		0	200,405,542
+624	Schimmelová Hana	1	0	200,405,716
+624	Schimmelová Hana	2	0	200,405,733
+624	Struk Demián		0	276
+624	Struk Demián	1	0	222,331,333,357,362,366,374,376,464,475,822,838,841,843,848
+624	Struk Demián	2	0	288
+624	Struk Ján	3	0	276
+624	Struk Ján	5	0	331,333,357,362,366,374,376,475,633,841,843,848
+624	Struk Ján	6	0	222,331,333,357,362,366,374,376,464,475,822,838,841,843,848
+624	Struk Ján	8	0	288
+624	Struk Juraj		0	331,333,357,362,366,374,376,475,841,843,848
+624	Struk Michal		0	331,333,357,362,366,374,376,464,475,841,843,848
+624	Struk Michal	1	0	276
+624	Struk Michal	3	0	288
+624	Struková Anna		0	331,333,357,362,366,374,376,464,475,841,843,848
+624	Struková Anna	1	0	276,288
+624	Struková Helena r. Knapíková		0	222,331,333,357,362,366,374,376,464,475,822,838,841,843,848
+624	Struková Helena r. Knapíková	2	0	288
+624	Struková Jaroslava		0	791
+624	Struková Margita r. Knapíková		0	288,754
+624	Struková Paulína r. Vargová		0	475
+624	Struková Pavlína r. Vargová		0	331,333,357,362,366,374,376,841,843,848
+624	Šelesták Štefan		0	249,389,516
+624	Šelesták Štefan	1	0	249,608
+624	Šulík Ján		0	501
+624	Šulík Ján	2	0	222,331,333,357,362,366,374,376,464,475,822,838,841,843,848
+624	Šulík Ján	6	0	288
+624	Šulík Ján	7	0	288
+624	Šulík Jozef		0	276
+624	Šulík Jozef	1	0	276
+624	Šulík Juraj		0	529
+624	Šulík Michal		0	722
+624	Šulík Michal	1	0	599
+624	Šulík Valent	1	0	276
+624	Šulík Valent	10	0	288
+624	Šulík Valent	11	0	288,489,789,796,798,800
+624	Šulík Valent	12	0	288
+624	Šulík Valent	3	0	222,464,822,838
+624	Šulík Valent	4	0	222,464,822,838
+624	Šulík Valent	5	0	222,464,571,822,838
+624	Šulík Valent	6	0	222,464,555,822,838
+624	Šulík Valent	7	0	706
+624	Šulík Valent	8	0	747
+624	Šulík Valent	9	0	288,575
+624	Šulíková Anna r. Karafová		0	532
+624	Šulíková Anna r. Kopčíková	2	0	288
+624	Šulíková Mária		0	276
+624	Šulíková Mária	1	0	222,331,333,357,362,366,374,376,464,475,508,822,838,841,843,848
+624	Verduna Mikuláš		0	234,676
+624	Verdunová Helena r. Šulíková		0	276
+624	Verdunová Helena r. Šulíková	1	0	222,331,333,357,362,366,374,376,464,475,646,822,838,841,843,848
+624	Verdunová Helena r. Šulíková	2	0	288
+624	Vladanová Valéria r. Kleinová		0	202
+624	Vrabeľ Peter		0	671
+624	Vrabeľová Verona r. Kopčíková		0	619
+625	Babuchnová Katarína	r.Budáčová /m.Štefan/	1	297,309
+625	Balla Vincent		1	378
+625	Ballová Mária r. Radošová		1	203
+625	Bolgárová Anna	/férj.Vámosi Antalné/	1	340
+625	Brachfeld Ľudovít		1	385
+625	Budáč Alexander	/m.Zuzana Kováčová/	1	317
+625	Budáč Ján	ml	1	297,309
+625	Budáč Jozef	ml	1	392
+625	Budáč Ondrej	ml	1	392
+625	Budáčová Zuzana	r.Kováčová /m.Alexander/	1	317
+625	Čičmanec Tomáš	/m.Mária Gabulová/	1	239
+625	Čičmanec Tomáš	m.Mária Gabulová, Ďurkovce 21	1	216
+625	Čičmanecová Mária	r.Gabulová /m.Tomáš/	1	239
+625	Čičmanecová Mária r. Gabulová	m.Tomáš, Ďurkovce 21	1	216
+625	Dobišová Emília	mal	1	367
+625	Donč Jozef, čs.28 Ďurkovce		1	288
+625	Egry Štefan	ml	1	348
+625	Egry Štefan, Ďurkovce, č. 20, SR	ml	0	214
+625	Felsenburg Edmund	/m.Hedviga Weisová/	1	300
+625	Felsenburg Ľudovít	m.Helena Weisová	1	215
+625	Felsenburg Pavel		1	215
+625	Felsenburgová Hedviga	r.Weisová /m.Edmund/	1	300
+625	Felsenburgová Helena r. Weisová	m.Ľudovít	1	215
+625	Frečka Jozef		1	228
+625	Gömöry Eugen		1	221
+625	Gömöry Eugen, Ďurkovce, č. 11, SR	m.Vilma Komínková	0	201
+625	Gömöry Štefan	/m.Irena Kováčová/ 970519/	1	306,329,330
+625	Gyürky Gustáv, Ďurkovce, č. 18, SR	m.Mária r.Révésová	0	211
+625	Gyürky Ján	ml	1	307
+625	Gyürkyová Irma	r.Tupiová /m.Ján/	1	248
+625	Hampachelová Irena	r.Kováčová /m.Vincent/	1	219
+625	Hírei Jozef	/m.Mária Kováčová/	1	355
+625	Hírei Jozef	ml	1	371,376
+625	Hírei Štefan	ml	1	371,376
+625	Hírei Vojtech	ml	1	371,376
+625	Híreiová Alžbeta	r.Kukolíková /m. bol Jozef/	1	355
+625	Híreiová Helena	ml	1	371,376
+625	Híreiová Margita	ml	1	371,376
+625	Híreiová Mária	r.Kováčová	1	371,376
+625	Holzerová Etela	r.Násaliová	1	285
+625	Iléš Mánya		1	328
+625	Iždinská Alžbeta	r.Kladivíková /m.Ján/	1	280,411,472
+625	Iždinská Alžbeta r. Kladivíková, Ďurkovce, č. 14, SR	m.Ján	0	209
+625	Kladivík Vincent	/m.Matilda Gyürkyová/	1	411
+625	Kladivík Vincent, Ďurkovce, SR		0	26
+625	Kladivíková Mária, čs.69 Ďurkovce		1	286,289,471
+625	Komínka Ján	/m.Mária Bódiová/	1	398
+625	Komínka Ján, Ďurkovce, č. 19, SR	m.Mária Bódiová	0	213
+625	Kotianová Anna	r.Gabulová	1	239
+625	Kotianová Júlia	ml	1	368
+625	Kotianová Mária	ml	1	368
+625	Kovács Anton, ĎURKOVCE, SR	manž.Alžbeta r.Zolnayová	1	479
+625	Kováč Antal, s.č. 31, Ďurkovce		1	224
+625	Kováč Karol, čs.39 Ďurkovce		1	369
+625	Kováč Ondrej Juraj	mal	1	174
+625	Kováč Ondrej Juraj	ml	1	219
+625	Kováč Štefan	b	1	287,350
+625	Kováčová Alžbeta	r.Zolnayová st./m.Antal/	1	359
+625	Kováčová Elena		1	287,350
+625	Kováčová Emília	ml	1	369
+625	Kováčová Etela	r.Majerová vd./m.Ján/	1	235
+625	Kováčová Mária	r.Mayerová /m.György/	1	339
+625	Krnáč Juraj, čs.52 Ďurkovce		1	331
+625	Krnáčová Irma	r.Tóthová /m.Martin/	1	352,353
+625	Kukolík Gábor	/m.Františka Faragová/	1	362
+625	Kukolík György		1	299
+625	Kukolík Ján	/m.Helena Uhríková/	1	258
+625	Kukolíková Anna		1	354
+625	Kukolíková Mária r. Luptáková, Ďurkovce, SR		1	212
+625	Lapin Pavol, Ďurkovce, č. 10, SR	m.Mária Košútová	0	208
+625	Lapinová Mária r. Košútová, Ďurkovce, č. 10, SR	m.Pavol	0	208
+625	Líška Martin, čs.63 Ďurkovce		1	393,394,476
+625	Líška Pavel	ml	1	393,476
+625	Lupták Matej	/m.Mária Radošová/	1	230
+625	Mánya Illéš		1	325,386,387,390,466
+625	Marková Zuzana	r.Dobišová vd	1	366
+625	Nagy Štefan		1	384
+625	Násali Bartolomej	/m.Rozália Násaliová/	1	372
+625	Násali František	/m.Mária Gyürkyová/	1	320
+625	Násaliová Mária r. Gyürkyová, Ďurkovce, č. 12, SR		0	205
+625	Násaliová Rozália	r.Násaliová /m.Bartolomej/	1	372
+625	Papp Štefan	/m.Alžbeta Kováčová/	1	295
+625	Pappová Alžbeta	r.Kováčová /m.Štefan/	1	279
+625	Petényi Filip	nar.9.5.1878, zomr. 26.3.1960 nar.9.5.1878, zomr. 26.3.1960	1	384
+625	Petráková Anna	r.Vicianová /m.Pavel/	1	310
+625	Petráš Ladislav, Koláry 45, SR		1	269,285
+625	Radoš Alexander, Ďurkovce, č. 4, SR	m.Alžbeta	0	203
+625	Radoš Gašpar		1	349
+625	Radoš Gašpar, čs.5 Ďurkovce		1	378
+625	Radoš Gašpar, Ďurkovce, č. 5, SR		0	203
+625	Radoš Štefan	/m.Mária Lacková/	1	226
+625	Radošová Mária	r.Lacková /m.Štefan/	1	226
+625	Schmied Arthur		1	284
+625	Schramková Františka	r.Schtokelová /m.František/	1	291
+625	Szalayová Mária	r.Egryová vd	1	348
+625	Szántó Rudolf	Ing./m.Jolana Grózová/	1	272
+625	Szántóová Jolana	r.Grózová /m.Rudolf/	1	272
+625	Tóth Štefan, Širakov, SR		1	352,353
+625	Tóthová Alžbeta, Širakov, SR		1	352,353
+625	Tupá Rozália	r.Kladivíková /m.Vojtech/	1	280,411,472
+625	Tupá Rozália r. Kladivíková, Ďurkovce, SR		0	26
+625	Uhrík Jozef	/m.Rozália Tóthová/	1	292
+625	Urbančík Štefan		1	384
+625	Vician György, Ďurkovce		1	310
+625	Vician Ján	/m.Anna Kováčová/	1	313
+625	Zolnayová Etela		1	16
+625	Zolnayová Mária		1	16
+625	Zolnayová Mária r. Bolgárová, Ďurkovce, č. 9, SR		0	204
+625	Zolnayová Terézia	r.Bakaiová /m.Bartolomej/	1	314
+626	ANDRÁŠIK Jozef		0	261
+626	BÁLINT Juraj		0	134,215,399
+626	BÁLINT Ondrej		0	191,293,321
+626	BÁLINT Pavel		0	191,293,321
+626	BÁLINT Pavel ml.		0	191,293,321
+626	BÁLINTOVÁ Mária r. Gánovská	Ondrej	0	134,215,399
+626	DRUGDA Štefan		0	305
+626	GÁNOVSKY Ján		0	292
+626	GANOVSZKY Ján		0	132,191,292,293,321
+626	Genyová Karolína	zomr. dňa 17.5.2014	0	49
+626	HÁZASOVÁ Juliana r. Balintová	Samuel	0	160,191,256,293,321
+626	HOMOLA Ladislav		0	181,191,293,321
+626	HOMOLA Ondrej		0	134,191,321
+626	HOMOLA Ondrej	z.Juliana Očovaiová	0	134
+626	HOMOĽOVÁ Juliana r. Očovaiová		0	265
+626	HOMOLYA Ondrej		0	265,290,293
+626	KOCKOVÁ Juliana r. Slopovska	Ján	0	167,168,191,321
+626	KOCKOVÁ Juliana r. Szlopovská	Ján	0	278,281,288,293
+626	KOCZKOVÁ Juliana r. Szlopovská	Pavel	0	278,281,288,293
+626	KOCZKOVÁ Juliana r. Szlopovszka	Pavel	0	167,168,191,321
+626	KOLESÁROVÁ Vlasta		0	123
+626	KRKOŠKA Jozef		0	139
+626	KRKOŠKA Martin		0	139
+626	KRNÁČ Ján		0	57,202,206,222,430,431,455
+626	KRNÁČ Martin		0	57,117,138,202,206,222,413,418,425,430,431,433,434,455,456
+626	KRNÁČ Martin	66	0	116
+626	KRNÁČOVÁ Elena		0	298
+626	LALÍK Ján		0	251
+626	LALIK Juraj	77	0	116
+626	LALÍK Juraj		0	117,138,139,413,418,425,433,434,456
+626	LALÍKOVÁ Anna r. Maršalová	Matúš	0	57,455
+626	LALIKOVÁ Mária r. Ostrihoňová	82	0	116
+626	LALÍKOVÁ Mária r. Ostrihoňová		0	117,138,139,146,413,418,425,433,434,456
+626	LEPORISZ Ladislav		0	264
+626	LEPORISZOVÁ Mária r. Csornoková		0	264
+626	LUCIAKOVÁ Magdaléna r. Kminiaková		0	210,304
+626	LUPTÁK Jozef		0	117,138,139,413,418,425,433,434,456
+626	LUPTÁK Jozef	86	0	116
+626	MALČEKOVÁ Anna r. Krnáčová	Ján	0	57,455
+626	MARGUSOVÁ Jana r. Lakotová		0	172,177,191,320,321
+626	Nôško Ján	ml	0	418,456
+626	NÔŠKO Ján ml.		0	117,413
+626	ŇUŇUK Ján		0	314
+626	PARLAG Ondrej		0	264
+626	PURDEK Imrich		0	117,138,139,300,413,418,425,433,434,456
+626	PURDEKOVÁ Magdaléna r. Dulajová		0	117,138,139,413,418,425,433,434,456
+626	PURDEKOVÁ Magdaléna r. Dulajová	109	0	116
+626	PURDEKOVÁ Mária r. Pavková		0	117,138,139,413,418,425,433,434,456
+626	PURDEKOVÁ Mária r. Pavková	111	0	116
+626	PURDEKOVÁ Zuzana r. Sekerešová		0	293
+626	SIMKOVIC Jozef ml.		0	146
+626	SLIACKA Monika r. Lakotová, Hlinkova 25, Zvolen, PSČ 960 01, SR		0	172,177,191,320,321
+626	SOMHEDI Ondrej		0	187
+626	SOMHEDIOVÁ Helena r. Padarová		0	187
+626	STEHLÍK Mikuláš		0	161,253
+626	STEHLÍKOVÁ Anna r. Výbošťoková		0	117,138,413,418,425,433,434,456
+626	SUJOVÁ Amália		0	57,139,455
+626	SUJOVÁ Katy r. Svorenová	Juraj/ Skucka	0	195
+626	SVOREŇOVÁ Magdaléna r. Chlebničanová		0	193
+626	SVOREŇOVÁ Zuzana r. Luptak	Strelec	0	193
+626	SZABO Pavel		0	167,191,278,288,293,321

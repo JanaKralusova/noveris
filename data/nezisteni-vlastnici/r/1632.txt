@@ -1,0 +1,256 @@
+953	STAŠÍKOVÁ Katarína		0	777
+953	STAŠÍKOVÁ Mária	mal	0	777
+953	SUCHÁ Mária	r.Urbanová, zomrela	0	655,780
+953	SZTAFIK Ján		0	772
+953	ŠKURLOVÁ Anna	r.Balážová	0	777,788,791,793,802,803
+953	ŠKVARLA František	ž.Anna r.Miščíková	0	725
+953	ŠKVARLA Juraj	PKV191/B4b	0	147
+953	ŠKVARLA Štefan		0	717
+953	ŠKVARLOVÁ Anna	r.Miščíková, m.František	0	725
+953	ŠKVARLOVÁ Margita		0	170,569
+953	ŠTEFANIKOVÁ Žofia	r.Figurová	0	218,705,760,763,833,835,917
+953	ŠVECOVÁ Mária	r.Tomková	0	774
+953	TOMEČKO Andrej		0	454
+953	TOMEČKO Michal		0	777,802,803
+953	TOMEČKO Štefan		0	454
+953	TOMKO Andrej		0	655,748,811
+953	TOMKO Ján	dedil po Tomko Ján a Mária r.Blichárová	0	218,867
+953	TOMKO Ján	ml	0	655
+953	TOMKO Ján	st	0	655,780
+953	TOMKO Jozef	ded. po Tomko Ján ž.Anna r.Hovanová	0	752
+953	TOMKOVÁ Alžbeta		0	748,811
+953	TOMKOVÁ Margita	dedila po Tomko Ján a Mária r.Blichárová	0	218,867
+953	TOMKOVÁ Margita	mal.,ded.po Tomko Ján a Anna r.Hovanová	0	752
+953	TOMKOVÁ Mária		0	392
+953	TOMKOVÁ Mária	dedila po Tomko Ján a Mária r.Blichárová	0	218,867
+953	TOMKOVÁ Mária	mal., ded.po Tomko Ján a Anna r.Hovanová	0	752
+953	TOMKOVÁ Mária	r.Liptáková	0	314,315,555,677,777,802,803
+953	URBAN Andrej		0	772
+953	URBAN Andrej	ž.Mária r.Franková	0	850
+953	URBAN Ján	PKV153	0	698
+953	URBAN Jozef		0	168,170,408,569,656,978,986,987,988,989,990
+953	URBAN Štefan		0	170,569
+953	URBAN Štefan	ml., ž.Margita r.Mikolajová	0	484
+953	URBAN Štefan	syn Andreja a Márie r.Frankovej	0	474,475,483,638,639,700,777,802,803,939
+953	URBANOVÁ Alžbeta		0	475,638,639,700,777,802,803,939
+953	URBANOVÁ Margita		0	698
+953	URBANOVÁ Margita	r.Mikolajová	0	162
+953	URBANOVÁ Margita	r.Mikolajová, m.Štefan	0	165
+953	URBANOVÁ Mária	mal	0	475,638,639,700,777,802,803,939
+953	URBANOVÁ Mária	r.Franková, m.Andrej	0	850
+953	URBANOVÁ Mária	r.Kovaľová, m.Ján	0	169,484,485,486,487,698
+953	URBANOVÁ Verona	r.Škvarlová	0	489
+953	VALIKOVÁ Rozália	r.Škvarlová	0	170,408,489,569,656,986,987,988,989,990
+953	VALKO Štefan	ž.Rozália r. Škvarlová	0	698
+953	VALKOVÁ Rozália	r.Škvarlová	0	698
+953	VARGA Jozef	mal	0	747
+953	VARGA Štefan	ž.Anna r.Šoltésová	0	454
+953	VARGOVÁ Anna	r.Balážová	0	747
+953	VARGOVÁ Anna	r.Šoltésová, m.Štefan	0	454
+953	VARGOVÁ Margita	r.Himičová	0	53
+953	VARGOVÁ Mária	r.Urbanová	0	475,638,639,777,802,803,939
+953	VAVREKOVÁ Margita	r.Gmitrová	0	306,481
+953	VOJTECH František		0	706
+953	VOJTEK Ján		0	706,771
+953	VOJTEK Ján	ž.Margita r.Liptáková	0	764
+953	VOJTEK Juraj	slabomyseľný	0	771
+953	VOJTEK Štefan		0	771
+953	VOJTEKOVÁ Mária	r.Jusková	0	306,478,481,563,597,674,676,684,685
+953	WEISER Ernest		0	854
+953	WINDT Arthur	Dr	0	768
+954	Babala Jozef, SR	Miko	0	2815
+954	Babalová Anna r. Vaňochová, SR		0	3013
+954	Babalová Anna, SR		0	2589,2712
+954	Babalová Katarína r. Ficková		1	3306
+954	Babalová Katarína r. Ficková, SR		1	3699
+954	BABALOVÁ Mária	rod. Nechajová	1	3445,3458,3715
+954	Babalová Mária r. Nechajová, SR	zom. 20.01.1975	1	165,3464,3538,3620
+954	Babalová Mária r. Nechajová, SR zom. 20.01.1975, SPF		1	3402
+954	Babec Ján r. Babec, Dolinky 60/9, Švošov, PSČ 034 91, SR	dátum úmrtia: 04.02.2015	0	4320
+954	Babec Jozef, SR		0	2912,3082,3173
+954	Babec Jozef, SR	1	1	2432,2813,2870,3231,4320
+954	Babec Jozef, SR	1 ,; 1	1	789
+954	Babec Juraj, SR		0	3173
+954	Babecová Katarína r. Víťazová Švindrová, SR		1	789,2432,2813,2870,2900,2915,3009,3114,3231
+954	Babecová Katarína, SR	rod. Víťazová Švindrová	0	3048
+954	Babecová Žofia r. Ondrušová, SR		0	3020
+954	Babuš Matej, SR		0	2597
+954	Bačko Matej, SR	a spol., zo Švošova	0	2431
+954	Bachanová Albína r. Boroňová, SR		0	3148
+954	Baláž Ján, SR		0	3148
+954	Baláž Štefan, SR		0	3148
+954	Balážová Anna r. Grešková, SR		0	3148
+954	Balážová Mária r. Macková, SR		0	3148
+954	Balco Ferdinand, SR		0	3148
+954	Balco Štefan, SR		0	3148
+954	Balejová Mária r. Chovanová	A2: , Jánova Pšikulová, Durdiak	1	68
+954	Balejová Mária r. Chovanová Durdiak	Jánova	1	3355
+954	Balejová Mária r. Chovanová Durdiaková	A2: , Ondrejova	1	3558
+954	Balejová Mária r. Chovanová Durdiaková, SR	Jánova Pšikulová	1	3705
+954	Balejová Mária r. Pažítková, SR	Prikulová	0	2482,2520,2643,2755,2792,3975,4353
+954	Balejová Mária r. Pažítková, SR Prikulová		0	2306
+954	Barbuš Jozef, SR		0	2549,2597
+954	Barbuš Jozef, SR	1	0	2597
+954	Barbuš Matej		1	3306
+954	Barbuš Matej, SR		1	3699
+954	Barbuš Michal		1	3458
+954	Barbuš Michal	A2: , ženatý s Annou rod. Komovou	1	591
+954	Barbuš Michal	v USA, ženatý s Annou rod. Komovou	1	3318
+954	Barbuš Michal, SR	v USA, ženatý s Annou rod. Komovou	1	3486,3620
+954	Barbuš Michal, SR	v USA,žen.s Annou rod.Komovou	0	2369,2482,2520,2559,2561,2588,2597,2643,2654,2662,3020,3975,4353
+954	Barbuš Michal, SR v USA, žen. s Annou rod. Komovou		0	3133,3145
+954	Barbuš Michal, SR v USA, ženatý s Annou rod. Komovou, SPF		1	3402
+954	Barbuš Michal, SR v USA,žen.s Annou rod.Komovou		0	2306,2716
+954	Barbuš Ondrej		1	3458
+954	Barbuš Ondrej	A2: , ženatý s Annou rod. Hyčíkovou	1	591
+954	Barbuš Ondrej	v USA, ženatý s Annou rod. Hyčíkovou	1	3318
+954	Barbuš Ondrej, SR	mal	0	2597
+954	Barbuš Ondrej, SR	v USA, ženatý s Annou rod. Hyčíkovou	1	3486,3620
+954	Barbuš Ondrej, SR	v USA,žen.s Annou r.Hyčíkovou	0	2369,2482,2520,2559,2561,2588,2643,2654,2662,3020,3975,4353
+954	Barbuš Ondrej, SR v USA, žen. s Annou r. Hyčíkovou		0	3133,3145
+954	Barbuš Ondrej, SR v USA, ženatý s Annou rod. Hyčíkovou, SPF		1	3402
+954	Barbuš Ondrej, SR v USA,žen.s Annou r.Hyčíkovou		0	2306,2716
+954	BARBUŠOVÁ Anna	rod. Dančová, nepr. v D 1368/80	0	3458
+954	Barbušová Anna r. Dančová Ilčíková, SR		0	2482,2520,2643,2755,2775,2796,3975,4353
+954	Barbušová Anna r. Dančová, SR	zom. 27.10.1980, nepr. v D 1368/80	0	3620
+954	Barbušová Anna r. Dančová, SR Ilčíková		0	2306
+954	Barbušová Anna r. Dančová, SR zom. 27.10.1980, nepr. v D 1368/80		0	3402
+954	Barbušová Katarína r. Keveková, SR		0	2501
+954	Barbušová Mária		1	3458
+954	Barbušová Mária r. Hičíková, SR	Ondrejova	1	3702
+954	Barbušová Mária r. Kornová, SR		1	2306,2482,2520,2585,2597,2643,2647,2654,2655,2656,2660,2764,2805,3620,3975,4353
+954	Barbušová Mária r. Kornová, SR SPF		1	3402
+954	Barbušová Mária r. Zubajová, SR		0	2804,2806
+954	Barbušová Mária r. Zubajová, SR	1	0	2503
+954	Barbušová Mária r. Zubajová, SR	Durdiaková	0	2662
+954	Barbušová Mária r. Zubajová, SR	Jozefova,zomrela	1	3517
+954	Barbušová Mária, SR		0	2597,2625
+954	Barbušová Mária, SR	Zubajová	0	2563,3092
+954	Baržinová Anna r. Bražinová, SR	Ondrejova	1	3231
+954	Batis Jozef, SR		0	3148
+954	Batisová Helena r. Ondrejková, SR		0	3148
+954	Belková Helena r. Babalová, SR		0	2717
+954	Beniač Daniel, SR		0	2587
+954	Bielená Angela r. Galanová, SR	zomr. 05.03.2002	0	3753
+954	Blažková Anna		1	3458
+954	Blažková Anna r. Chovanová	Kostolníková	0	2720
+954	Blažková Anna r. Chovanová Kostolníková, SR		0	2643,2658
+954	Blažková Anna r. Chovanová Kostolníková, SR	zomrela	1	3620
+954	Blažková Anna r. Chovanová, SR Kostolníková		0	2306
+954	Blažková Anna r. Chovanová, SR Kostolníková, zomrela, SPF		1	3402
+954	Blažková Anna, SR	Chovanová Kostolníková	0	2482,2520,3975,4353
+954	Bočka Anton, SR	mal	0	2805
+954	Bočka Ján		1	3458
+954	Bočka Ján, SR		1	2306,2482,2520,2530,2568,2636,2643,2680,2730,2741,2790,3502,3620,3975,4353
+954	Bočka Ján, SR SPF		1	3402
+954	Bočka Matej, SR		0	3087
+954	Bočka Ondrej, SR	Durdiak	0	2533,2558,2610,4175,4177,4179
+954	Bočka Ondrej, SR	Tomajka,ml	0	2541,2620,2637,2670,3087
+954	Bočkaj Ondrej	Durdiak	0	3618
+954	Bočkaj Ondrej, SR	Durdiak	1	3500
+954	Bočkajová Katarína r. Kuderová, SR	Matejova	0	2637
+954	Bočková Anna		1	3458
+954	Bočková Anna r. Kornová, SR		1	2306,2482,2520,2585,2597,2643,2647,2654,2655,2660,2672,2764,2805,3620,3975,4353
+954	Bočková Anna r. Kornová, SR SPF		1	3402
+954	Bočková Antónia	mal	1	3458
+954	Bočková Antónia, SR	mal	1	2482,2520,2585,2597,2643,2647,2654,2655,2656,2660,2672,2764,3620,3975,4353
+954	Bočková Antonia, SR mal.		0	2306
+954	Bočková Antónia, SR mal. SPF		1	3402
+954	Bočková Zuzana r. Holíková, SR	Jánova	0	2637
+954	Bočová Anna r. Kornová, SR		0	2656
+954	Boroň Alfonz	Koreň	0	3148
+954	Boroň Ján	Šramko	0	3148
+954	Boroň Ján, SR		0	3148
+954	Boroň Jozef, SR		0	3148
+954	Boroň Leon	Dvorský	0	3148
+954	Boroň Ondrej	Šramko	0	3148
+954	Boroňová Katarína r. Lauková, SR		0	3148
+954	Boroňová Margita r. Kohútová Dvorská, SR		0	3148
+954	Boroňová Mária r. Forgáčová, SR		0	3148
+954	Boroňová Terézia	Koreňová	0	3148
+954	Boroňová Zuzana, SR		0	3148
+954	Božek Matej, SR ženatý s Máriou rod. Batisovou		0	3148
+954	Božeková Mária r. Batisová, SR		0	3148
+954	Bražina Andrej	Ševčík	0	2729
+954	Bražina Andrej, SR		0	2857,2873,2903,3099,3156
+954	Bražina Eduard, SR		0	2432
+954	Bražina Ján	mal. Ševčík	0	2729
+954	Bražina Ján, SR	2	0	2873
+954	Bražina Ján, SR	3	0	2873
+954	Bražina Ján, SR	4	1	2432,2813,2870,2932,3005,3231
+954	Bražina Ján, SR	4 ,; 4	1	789
+954	Bražina Ján, SR	5	0	2873,3099
+954	Bražina Ján, SR	6	0	2857,2903,3156
+954	Bražina Ján, SR	7	1	2432,2813,2870,2873,3231
+954	Bražina Ján, SR	7 ,; 7	1	789
+954	Bražina Ján, SR	8	0	2996
+954	Bražina Ján, SR	Kulich	0	3001
+954	Bražina Ján, SR	Kulich 1	0	2515,3180
+954	Bražina Ján, SR	Kulich ml	1	789,2432,2813,2824,2863,2864,2870,2877,2893,2908,2930,3006,3072,3076,3183,3231
+954	Bražina Ján, SR	Švenčík, zomrel D 133/50	0	2878
+954	Bražina Ján, SR	Tady	1	789,3231
+954	Bražina Ján, SR	zom. 22.06.1966, nepr. v D 572/66	1	3620
+954	Bražina Ján, SR	žen. so Zuzanou Kratkovou	0	2950
+954	Bražina Ján, SR	žen. so Zuzanou Kútniková	0	2782
+954	Bražina Ján, SR	žen. so Zuzanou Kútnikovou	0	2482,4353
+954	Bražina Jozef, SR	2	0	2857
+954	Bražina Jozef, SR	3	0	2903
+954	Bražina Jozef, SR	4	0	3159
+954	Bražina Jozef, SR	5	1	789,2813,2870,3231
+954	Bražina Jozef, SR	6	0	2852,2854,2932
+954	Bražina Jozef, SR	7	1	2432,2813,2849,2850,2870,2917,3088,3155,3231
+954	Bražina Jozef, SR	7 ,; 7	1	789
+954	Bražina Jozef, SR	Kulich	0	3006
+954	Bražina Jozef, SR	Kulich, mal	1	789,2432,2813,2870,2984,3231
+954	Bražina Jozef, SR	mal	1	789,2432,2813,2870,3231
+954	Bražina Juraj		0	3099
+954	Bražina Juraj, SR		1	789,2432,2813,2857,2870,2873,2903,3231
+954	Bražina Juraj, SR	1	0	2903
+954	Bražina Marián, SR	mlynár zo Švošova	1	789,2813,2870,3231
+954	Bražina Ondrej, SR		0	2997
+954	Bražina Ondrej, SR	2	0	2996
+954	Bražina Ondrej, SR	3	0	3163
+954	Bražina Ondrej, SR	Kulich	0	2854
+954	Bražina Ondrej, SR	Kulich 1	0	2432,2900,2915,3166
+954	Bražina Ondrej, SR	Kulich Vančo	0	2887,2900,2915,3166
+954	Bražina Ondrej, SR	Kulich Vančo ml	0	2887,2900,3014
+954	Bražina Ondrej, SR	Kulich, súrod. Mária a Anna	0	2432
+954	Bražina Ondrej, SR	mal	1	789,2432,2813,2857,2870,2873,3099,3231
+954	Bražina Ondrej, SR	Svenčík	0	2946
+954	Bražina Ondrej, SR	Tady	1	789,3231
+954	Bražina Štefan	mal. Ševčík	0	2729
+954	Bražina Tomáš, SR		0	2873,3099
+954	Bražina Žofia, SR		0	3155
+954	Bražinová Anna r. Bražinová, SR	Ondrejova	1	789
+954	Bražinová Anna r. Fokorová Kubová, SR		0	2943,2944,2994
+954	Bražinová Anna r. Gerecová, 034 91, Švošov, č. 83, SR	zomr. 16.01.1993	0	4320,4321
+954	Bražinová Anna, SR	súr. Ondrej, Mária	1	3231
+954	Bražinová Anna, SR	súrod. Ondrej, Mária	0	2432,2813,2857,2870,2873,2997
+954	Bražinová Anna, SR	súrod.Ondrej,Mária	0	3099
+954	Bražinová Anna, SR	súrodenci Ondrej,Mária	1	789
+954	Bražinová Irena, SR		1	789,2432,2813,2849,2850,2854,2870,2917,3115,3117,3119,3155,3231
+954	Bražinová Katarína, SR		1	789,2432,2813,2870,2917,3088,3155,3231
+954	Bražinová Katarína, SR	súrod. Anna, Ján, Ondrej	0	2873
+954	Bražinová Katarína, SR	súrod.Anna,Ján,Ondrej	0	3099
+954	Bražinová Margita, SR	súr. Jozef, Marián	1	789,3231
+954	Bražinová Margita, SR	súrod. Jozef, Marián	0	2813,2870
+954	Bražinová Mária r. Bražinová Kulichová, SR		1	789,2432,2813,2870,3231
+954	Bražinová Mária r. Chylová, SR	Tomášova	0	2857,2886
+954	Bražinová Mária r. Poluncová, SR rod. Poluncová, Švindrová-vd.		0	3124
+954	Bražinová Mária r. Prídavok Škoda, SR	Jánova vd	0	2432,2813
+954	Bražinová Mária r. Prídavok Škoda, SR	Jánova, vd	1	789,2870
+954	Bražinová Mária, SR		0	2857
+954	Bražinová Mária, SR	Grenčíková rod. Fokorová Pukaj	0	3100
+954	Bražinová Mária, SR	Jánova, rod. Prídavok Škoda vd	1	3231
+954	Bražinová Mária, SR	Kulichová, mal	0	3187
+954	Bražinová Mária, SR	Kulichová,mal	0	3074
+954	Bražinová Mária, SR	mal	0	2878,3005,3160
+954	BRAŽINOVÁ Zuzana	rod. Kútniková	1	3458
+954	Bražinová Zuzana r. Kútniková, SR	zom. 02.01.1967	1	3620
+954	Bražinová Zuzana r. Kútniková, SR zom. 02.01.1967, SPF		1	3402,3432
+954	Bražinová Žofia r. Javorková, SR	Kulichová	0	3064
+954	Bražinová Žofia, SR		1	789,2432,2813,2849,2850,2854,2870,2917,3088,3115,3117,3119,3231
+954	Brdo Matej	Žiara	1	3427,3458
+954	Brdo Matej, SR	Žiara	1	3620
+954	Brdo Matej, SR Žiara, SPF		1	3402
+954	Brdo Ondrej	Žiara	1	3458

@@ -1,0 +1,256 @@
+3208	Novák Michal		1	476,636
+3208	Novák Pavel		1	476,636
+3208	Novák Pavel, 991 03, Veľký Lom, SR	ž. Anna r. Godová	0	579,692
+3208	Novák Pavol, SR	ž. Anna rod. Godová, zomr. 19.07.1974	0	219,225,233,502,503,504,511,517,518,519,520,563,663,691
+3208	Novák Pavol, SR	ž. Anna rod. Godová, zomrel 19.07.1974	0	206
+3208	Nováková Anna r. Siarová, 991 03, Veľký Lom, SR	m. Ján	0	579,692
+3208	Paciga Ján		1	476,636
+3208	Paciga Pavel, Mgr., SR	zomr. 25.10.2001	0	206,233,518,520,691
+3208	Pacigová Anna, SR	dcéra Anny Pacigovej	0	206,219,225,233,502,503,504,511,517,518,519,520,563,663,691
+3208	Paľaga Ján	horný	1	476,636
+3208	Paľaga Pavel	belička mladší	1	476,636
+3208	Paľaga Pavel	belička starší	1	476,636
+3208	Paľaga Pavel	žena Zuzana rodená Ďurčová, zomrel 11.09.1999, SR	0	641
+3208	Pavol Klátik	žena Anna rodená Gálová, zomrel 5.11.1956, SR	0	650
+3208	Petrusová Zuzana r. Šemetková	zomrela 28.04.1995, SR	0	646
+3208	Pohánka Ján	žena Anna rodená Lietavová, zomrel 05.05.1993	0	637
+3208	Pohanková Anna r. Lietavová	zomrela 20.02.2005	0	637
+3208	Pohanková Anna r. Malá, SR		0	206,219,225,233,502,503,504,511,517,518,519,520,563,663,691
+3208	Ragačová Zuzana r. Števková	manžel Ján, zomrela 01.04.1997, SR	0	645
+3208	Ragačová Zuzana r. Števková, 991 03, Veľký Lom, SR		0	579,692
+3208	Ragačová Zuzana r. Števková, SR	m. Ján , zomr. 01.04.1997	0	502
+3208	Ragačová Zuzana r. Števková, SR	m. Ján, zomr. 01.04.1997	0	219,225,233,503,504,511,517,518,519,520,557,563,663,691
+3208	Ragačová Zuzana r. Števková, SR	m.. Ján, zomrela 01.04.1997	0	206
+3208	Rell Pavel		1	476,636
+3208	Slovák Ján, SR	ž. Margita rod. Ďurkovičová	0	206,219,225,233,502,503,504,511,517,518,519,520,563,663,691
+3208	Slovák Pavel		1	476,636
+3208	Smidriaková Mária r. Sútorová, 991 03, Veľký Lom, SR	m. Ján	0	579,692
+3208	Sokol Ján		1	476,636
+3208	Suchánsky Pavel		1	476,636
+3208	Šemetka Adam		1	476,636
+3208	Šemetka Ján		1	476,636
+3208	Šemetka Ján, 991 03, Veľký Lom, SR	ž. Anna r. Torňošová	0	579,692
+3208	Šemetka Ján, SR	ž. Mária rod. Murárová	0	206,219,225,233,502,503,504,511,517,518,519,520,563,663,691
+3208	Šemetka Pavel	ďurčov	1	476,636
+3208	Šemetka Pavel	paľaš	1	476,636
+3208	Šemetka Pavol	žena Zuzana rod. Bartošová, zomrel 23.04.1992, SR	0	646
+3208	Šemetka Pavol, SR	manž. Zuzana r. Bartošová	0	227
+3208	Šemetka Pavol, SR	ž. Zuzana rod. Bartošová, zomr. 23.04.1992	0	580,581
+3208	Šemetková Anna r. Havajová, 991 03, Veľký Lom, SR	m. Pavel	0	579,692
+3208	Šemetková Anna r. Havajová, SR	m. Pavol	0	206,219,225,233,502,503,504,511,517,518,520,563,663,691
+3208	Šemetková Anna r. Havajová, SR	Pavol	0	519
+3208	Šemetková Zuzana r. Šemetková, 991 03, Veľký Lom, SR	m. Pavel	0	579,692
+3208	Šiar Ján	čižmár	1	476,636
+3208	Šiar Pavel	kuchyňa	1	476,636
+3208	Šmidriak Ján		1	476,636
+3208	Šmidriak Ján, 991 03, Veľký Lom, SR	ž. Mária r. Sutorová	0	579,692
+3208	Šmidriak Pavel		1	476,636
+3208	Šmidriaková Anna r. Šmidriaková, 991 03, Veľký Lom, SR	m. Pavel	0	579,692
+3208	Šmidriaková Mária r. Šútorová	manžel Ján, zomrela 24.01.1971	0	588
+3208	Štefan Fridrich	žena Mária rodená Detvanová, zomrel 07.12.1989, SR	0	652
+3208	Števák Ján	mladší	1	476,636
+3208	Števák Ján	starší	1	476,636
+3208	Števák Ján	žena Zlata rodená Weissová, zomrel 25.12.1972, SR	0	651
+3208	Števka Ján	oľan	1	476,636
+3208	Števka Pavel	oľan	1	476,636
+3208	Šuták Ján	brezina	1	476,636
+3208	Šuták Michal	brezina	1	476,636
+3208	Tomáš Pavel	pán	1	476,636
+3208	Tomáš Pavel	stolec	1	476,636
+3208	Tomášová Anna	rozvedená ,dcéra Jána	0	289
+3208	Tomášová Anna, SR	rozv., dcéra Jána	0	343
+3208	Torňoš Ján	ďurica	1	476,636
+3208	Torňoš Ján	kolek	1	476,636
+3208	Torňoš Ján, 991 03, Veľký Lom, SR	ž. Anna r. Palagová	0	579,692
+3208	Torňoš Michal	baza	1	476,636
+3208	Torňoš Milan	mal. syn Pavla z.; Dátum úmrtia: 01.05.1991	0	662
+3208	Torňoš Ondrej	žena Anna rodená Števková	0	605
+3208	Torňoš Pavel	šuták	1	476,636
+3208	Torňoš Pavel, 991 03, Veľký Lom, SR	ž. Anna r. Backová	0	579,692
+3208	Torňošová Anna r. Števková, 991 03, Veľký Lom, SR	m. Ondrej	0	579,692
+3208	Torňošová Mária r. Siarová, 991 03, Veľký Lom, SR	m. Ján	0	579,692
+3208	Torňošová Zlata r. Števáková	zomrela 06.12.2002	0	617
+3208	Torňošová Zuzana r. Križanová, SR	m. Pavol, z	0	206,219,225,502,503,504,511,517,518,519,520,563,663
+3208	Torňošová Zuzana r. Valachová, 991 03, Veľký Lom, SR		0	579,692
+3208	Tuček Ján		1	476,636
+3208	Tupa Ján	ďurica	1	476,636
+3208	Tupa Ján	trnik	1	476,636
+3208	Turčan Ján	žena Anna rodená Hašková, zomrel 10.01.1976, SR	0	649
+3208	Turčan Pavol, SR	manž. Anna r. Foltenová	0	335
+3208	Turčan Pavol, SR	ž. Anna rod. Folténová , zomr. 14.07.1977	0	225
+3208	Turčan Pavol, SR	ž. Anna rod. Folténová, zomr. 14.07	0	518
+3208	Turčan Pavol, SR	ž. Anna rod. Folténová, zomr. 14.07.1977	0	219,233,502,503,504,511,517,519,520,563,663,691
+3208	Turčan Pavol, SR	ž. Anna rod. Folténová,zomrel 14.07.1977	0	206
+3208	Turčanová Anna r. Hašková, SR	m. Ján , zomr. 24.10.1988	0	233,691
+3208	Turčanová Anna r. Hašková, SR	m. Ján , zomrela 24.10.1988	0	206
+3208	Turčanová Anna r. Hašková, SR	m. Ján, zomr. 24.10.1988	0	518
+3208	Turčanová Anna r. Hašková, SR	m. Ján, zomr.24.10.1988	0	520
+3208	Turčanová Anna r. Sutáková, 991 03, Veľký Lom, SR	m. Ján	0	579,692
+3208	Urbariát		1	476,636
+3208	Vajo Matúš, SR		0	400
+3208	Vajo Matúš, SR	ž. Zuzana rod. Folténová, z	0	206,219,225,233,502,503,504,511,517,518,519,520,563,663,691
+3208	Vajová Zuzana r. Foltenová, 991 03, Veľký Lom, SR	m. Matúš	0	579,692
+3208	Valent Pavel		1	476,636
+3208	Veselovsky Ján	manž. Barbora r. Kminiaková	0	376
+3208	Veselovský Ján	žena Barbora rodená Kminiaková	0	623
+3208	Veselovský Ján, SR	ž. Barbora rod. Kminiaková	0	206,219,225,233,502,503,504,511,517,518,519,520,563,663,691
+3208	Veselovský Jozef, SR	manž. Katarína r. Halajová	0	243
+3208	Vrábeľ Ján		1	476,636
+3208	Záchenská Zuzana r. Šútorová, SR	zomrela 08.12.1975	0	135
+3208	Záchenský Ján	manželka Valéria rodená Danková	0	377
+3208	Záchenský Pavol, SR	zomrel 22.3.1956, ž. Zuzana rod. Šútorová	0	135
+3209	Ábrahám Štefan		0	2826,3273,5693,5702,5786,5956,5976
+3209	Ábrahám Vincent		0	5692,5956
+3209	Ábrahám Žigmund		0	3266,3275,5693,5702,5786,5976
+3209	Abrahámová Jolana r. Lászlóová		0	4550,4763,5724
+3209	Ábrahámová Julianna r. Czinaová		0	5184,5185
+3209	Ábrahámová Julianna r. Fogasová		0	5693,5702
+3209	Ábrahámová Mária r. Ráczová		0	3310,5998
+3209	Aderová Helena r. Kissová		0	3495
+3209	Ambrus Ondrej r. Ambrus		0	6179
+3209	Ambrusová Žófia r. Číčeľová		0	6179
+3209	Anda Ľudovít r. Anda		0	5695
+3209	Andráššyová Johanna r. Tormaová		0	3529,5311,5392
+3209	Androvics Michal		0	2885,2966,3087,6046,6713
+3209	Androvics Michal a Androvicsová Anna r. Fábriková		0	6047
+3209	Androvicsová Anna r. Fábriková		0	2885,2966,3087,6046,6713
+3209	Angyal Anton		0	5734
+3209	Antalová Emma r. Vargová		0	5920
+3209	Antalová Vilma r. Molnárová		0	3317,6711
+3209	Árvai Michal		0	6172
+3209	Árvaiová Ágneša r.Földes		0	4614
+3209	Árvay Michal		0	4616
+3209	Árvayová Agneša r.Földesová		0	4616
+3209	Backa Vincent r. Backa		0	6218
+3209	Backa Vincent r. Backa a Backová Helena r. Králiková		0	5241,5242,5243,5244,5245,5246,5247,5248,5249,5250,5251,6216
+3209	Backová Helena r. Králiková		0	6218
+3209	Bajcsi Daniel		0	5987
+3209	Bajcsi Karol		0	5834
+3209	Bajcsi Ľudovít		0	5833
+3209	Bajcsi Žigmund		0	5987
+3209	Balasko Imrich		0	5778,6024,6025
+3209	Balaskó Ján		0	6025
+3209	Balaskó Jozef		0	6025
+3209	Balaskó Karol		0	6025
+3209	Balaskó Vincent		0	6025
+3209	Balaskóová Alžbeta r. Gráfelová		0	2949,3229,5634,5636,6115
+3209	Balaskóová Anna r. Györiová		0	3430
+3209	Balaskóová Barbora r. Csefalvaiová		0	6025
+3209	Balaskóová Katarína r. Kelemenová		0	5628
+3209	Balog Jozef		0	5777
+3209	Balogh Jozef		0	5380
+3209	Baloghová Rozália r. Mikolaiová		0	3821,4960,4961
+3209	Balogová Ida r. Barátová		0	5212,5213,5923,6097
+3209	Balogová Mária r. Vargová		0	5920
+3209	Bárányová Agneša r. Nagyová		0	3629,5401,5634
+3209	Barát Dezider		0	2679,3844,5212,5213,6097,6272
+3209	Barát Pavol		0	6011
+3209	Baráth Andrej		0	3629
+3209	Baráth Dezider		0	5463,5752,5992,6097
+3209	Baráth Dezider	manželka Vilma r.Szedlák	0	5992
+3209	Baráth Ján		0	5965
+3209	Baráth Jozef		0	6021
+3209	Baráth Jozef	manželka Terézia r.Kürthy	0	3006,6270
+3209	Baráth Ľudovít		0	3006,5505,5952,6050,6270
+3209	Baráth Ľudovít	manželka Estera r.Ráczová	0	3006,6270
+3209	Baráth Mikuláš		0	5727
+3209	Baráth Ondrej r. Baráth		0	5710,5711
+3209	Baráth Peter r. Baráth		0	3550,5932
+3209	Baráth Žigmond		0	2309
+3209	Baráth Žigmund		0	3006,3571,3573,3584,3974,4024,6099,6270,6271
+3209	Baráthová Anna r. Csefalvaiová		0	6021
+3209	Baráthová Estera		0	3571
+3209	Baráthová Eva r. Bereczová		0	5484
+3209	Baráthová Helena		0	5710
+3209	Baráthová Ida		0	3502,3883,4244,5416,5423,5424,6011,6899
+3209	Baráthová Irena		0	5493
+3209	Baráthová Mária		0	5415,5416,5992
+3209	Baráthová Mária r. Ráczová		0	2289
+3209	Baráthová Rozália r. Vizváriová		0	3922,5952,6050
+3209	Barátová Estera r. Miklósová		0	3871
+3209	Barátová Etela		0	4288,5696
+3209	Barátová Ida		0	5415
+3209	Barátová Jolana		0	6011
+3209	Barátová Rozália		0	5415
+3209	Bári Csaplár Ľudovít		0	5768
+3209	Báriová Csaplárová Etela r. Lászlóová		0	5768
+3209	Báriová Vilma r. Nagyová		0	5926,5931,6013
+3209	Barna Pavel		0	3265,3266
+3209	Baros Gabriel		0	5970
+3209	Baros Karol		0	5970
+3209	Baros Koloman		0	5970
+3209	Baros Ľudovít		0	5970
+3209	Baros Mikuláš		0	5970
+3209	Baros Vincent		0	5970
+3209	Barosová Mária		0	5970
+3209	Barosová Šarolta r. Zsidóová		0	5970
+3209	Bartal František		0	6176
+3209	Bartal Ľudovit		0	5898
+3209	Bartal Zoltan		0	4347
+3209	Bartalos Dezider		0	3140,3425,5977,6092
+3209	Bartalos Koloman		0	3140,3425,5977,6092
+3209	Bartalos Ladislav		0	2578,3159,3677
+3209	Bartalos Ľudovít		0	3140,3425,5977,6092
+3209	Bartalos Žigmund		0	6180
+3209	Bartalosová Janka		0	5304,5305,5306,5307,5308
+3209	Bartalosová Júlia		0	3425
+3209	Bartalosová Justina		0	4764
+3209	Bartaloš Mikuláš		0	6145
+3209	Bartalová Mária		0	4347
+3209	Bartalová Mária r. Tóthová		0	2377,2578,7076
+3209	Bartalová Terézia		0	4347
+3209	Bartošová Helena r. Némethová		0	5640
+3209	Bartusová Helena r. Mazurová		0	5437
+3209	Bartusová Helena r. Némethová		0	4580,5640
+3209	Báry Ľudovít		0	3006,6270
+3209	Bátoriová Alžbeta r. Jankóová		1	5076,5552
+3209	Bédi Jozef		0	5965,5980
+3209	Bédi Koloman		0	5993
+3209	Bédi Mikuláš		0	5252,5253,5254
+3209	Bédi Vincent		0	5993
+3209	Bédiová Etela r. Józsaová		0	4002,6038
+3209	Bédiová Jolana		0	5993
+3209	Bédiová Klára		0	5965
+3209	Beke Koloman		0	5851
+3209	Beke Ľudovít		0	3780,6014
+3209	Bekeová Estera r. Bereczová		0	6189
+3209	Bekeová Janka r. Véghová		0	3780
+3209	Belehovská Jolana r. Vargová		0	2705,4076,5484,5811,5812,6032
+3209	Belekovská Jolana r. Lukáčová		0	6066
+3209	Belucz Imrich		0	2987,2988,2991,2992,2993,2994,5359,5361,5907,6021,6700,6701
+3209	Belucz Imrich	manželka Terézia r.Morva	0	6061
+3209	Belucz Jozef		0	3972,5792
+3209	Belucz Karol		0	6035
+3209	Belucz Vendelín		0	2987,2988,2991,2992,2993,2994,5359,5361,6700,6701
+3209	Beluczová Alžbeta		0	2987,2988,2991,2992,2993,2994,5359,5361,5907,6021,6700,6701
+3209	Beluczová Anna r. Kalmárová		0	6127
+3209	Beluczová Gizela		0	5907,6021
+3209	Beluczová Helena		0	6127
+3209	Beluczová Lujza		0	5907,6021
+3209	Bende Koloman		0	5454,6023
+3209	Bende Michal		0	6020,6023
+3209	Bendeová Etela r. Dinghová		0	3569,4230,5749
+3209	Bendeová Mária		0	5454,6023
+3209	Benkóczi Vendelin		0	5841
+3209	Benkócziová Etela r. Halászová		0	5841
+3209	Beňo Matej r. Beňo		0	2727
+3209	Beňová Žófia r. Šalátová		0	2727
+3209	Beňušová Helena r. Čierníková		0	5967
+3209	Berecz Boldižar		0	3139,5918
+3209	Berecz Daniel		0	5919,6026,6027
+3209	Berecz Elemír		0	3140,3425,6092
+3209	Berecz Ján		0	5484,6182
+3209	Berecz Jozef		0	5484
+3209	Berecz Július		0	5919
+3209	Berecz Karol		0	5789,5919,6026,6027
+3209	Berecz Karol	manželka Zuzana r.Tamási	0	5484
+3209	Berecz Koloman		0	3767,4197,5919
+3209	Berecz Ľudovít		0	5484
+3209	Berecz Michal		0	3341
+3209	Berecz Pavol		0	5484
+3209	Berecz Štefan		0	5484
+3209	Berecz Vincent	manželka Justina r.Pongrác	0	2931,4551,4969,5441
+3209	Berecz Vincent	ml	0	3140,3425,6092
+3209	BERECZ VINCENT		0	2336,2365,5091,5484
+3209	Berecz Vojtech		0	3139,5918
+3209	Berecz Žigmund		0	5918

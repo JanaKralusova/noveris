@@ -1,0 +1,256 @@
+754	Pechyová Anna		1	1279
+754	Pechyová Zuzana		1	1269
+754	Peterová Elena		1	1345,1358
+754	Petra František	ž.Mária r. Záhradníková	1	1349,1358
+754	Petra Karol	Kovaľ	1	1342,1365
+754	Petrášeková Agáta	r.Oriňáková	1	216,941,942,1163,1164,1165,1166,1258,1429,1700,1727,1728,1752,1788,1789
+754	Petravá Alžbeta	r.Jačišinová	1	1344
+754	Petravá Alžbeta	r.Kovaľová	1	1342,1365
+754	Petríková Mária	r.Juščáková	1	462,746,1113,1225,1226,1227,1228,1229,1231,1233,1505,1616
+754	Petro Ján		0	1356
+754	Petro Ján	druhý	1	1363
+754	Petro Karol		1	1344
+754	Petro Karol	druhý	1	1339
+754	Petro Karol	tretí	1	1350
+754	Petro Matej		1	1363
+754	Petro Matej	druhý	1	1352,1353
+754	Petro Zahradniková Helena	r.Pošefková	1	1355
+754	Petrová - Záhradníková Monika r. Lazoriková		0	1356
+754	Petrova Alžbeta	r.Jančišinová	1	1339
+754	Petrová Alžbeta		1	1350
+754	Petrová Anna		0	1356
+754	Petrová Mária	r.Tarbajová	1	1100,1339
+754	Petruf Koloman	ž.Margita r.Baluchová	1	1339
+754	Petrufová Margita	r.Baluchová	1	1339
+754	Petrufová Mária	r.Tarbajová	1	1350,1354
+754	Petruška Andrej		1	1355
+754	Placko Andrej		1	1145
+754	Plačko František		1	216,746,1143,1145,1163,1164,1165,1166,1169,1225,1226,1229,1258,1300,1429,1506,1616,1700,1727,1728,1752,1788,1789
+754	Plačko František	LSR	0	1227
+754	Plačko František	ž.Katarína r.Motýľová	1	608,1129,1205,1235
+754	Plačko Karol		1	604,746,1143,1169,1225,1228,1229,1231,1233,1515,1616
+754	Plačková Alžbeta	druhá	1	1258
+754	Plačková Alžbeta	prvá	1	216,746,1143,1145,1169,1225,1226,1227,1228,1229,1231,1233,1300,1429,1616
+754	Plačková Helena	prvá	1	746,1143,1169,1225,1226,1229,1258,1300,1429,1616
+754	Plačková Helena	prvá; LSR	0	1227
+754	Plačková Katarína	r.Motýľová,08235 Hermanovce č.d.83	0	608,1129,1205,1235
+754	Polanská Anna		1	1100,1364
+754	Polanský Matej		1	1100,1364
+754	Polohová Mária	r.Martausová	1	1332
+754	Polomská Anna		1	1100
+754	Polomský Matej		1	1100
+754	Poráč Štefan	ž.Anna r.Semančová	1	1469
+754	Poráčová Anna	r.Semančová	1	1469
+754	Probala Andrej		1	439,1199,1200
+754	Probala Ján		1	439,1199,1200,1274
+754	Rigas Jozef		1	1081,1325
+754	Rigasová Katarína	r.Kolarčíková	1	1340
+754	ROSENBERG Teofil r. Rosenberg, Dr.		0	1674,1694
+754	Rusková Verona	r.Margitová	1	1437
+754	Ružbarská Alžbeta	r.Plačková	1	156,746,1148,1182,1225,1226,1227,1228,1229,1231,1233,1616
+754	Ružbarská Zuzana		1	152,416,746,1225,1226,1228,1229,1231,1233,1368,1616
+754	Ružbarská Zuzana	LSR	0	1227
+754	Ružbarský Andrej	druhý	1	152
+754	Ružbarský Andrej	prvý	1	170
+754	Ružbarský Antonín		1	152,416,1368
+754	Ružbarský Antonín	tretí	1	746,1225,1226,1228,1229,1231,1233,1616
+754	Ružbarský Antonín	tretí; LSR	0	1227
+754	Ružbarský Jozef		1	152,416,1368
+754	Ružbarský Jozef	ž.Helena	1	735,746,1107,1208,1225,1226,1227,1228,1229,1231,1233,1616
+754	Sabol František		1	1410
+754	Sabol Ján	druhý	1	1362
+754	Sabol Ján	prvý	1	1450
+754	Sabol Jozef		1	1118,1524,1611,1612,1732
+754	Sabolová Margita		1	1410
+754	Sabolová Mária		1	1118,1524,1611,1612,1732
+754	Sabolová Mária	Grejtáková	1	216,456,746,1134,1161,1163,1164,1165,1166,1225,1226,1228,1229,1231,1233,1258,1334,1405,1429,1616,1700,1727,1728,1752,1788,1789
+754	Sabolová Mária	Grejtáková; LSR	0	1227
+754	Sabolová Veronika		1	1118,1524,1611,1612,1732
+754	Samseli František	ž.Helena r.Gajdošová	1	1471
+754	Samseliová Anna	r.Francúzová	1	1460
+754	Samseliová Helena	r.Gajdošová	1	1471
+754	Samsely Ján	piaty	1	1220,1775,1776
+754	Samsely Ján	prvý	1	1258,1429
+754	Samsely Ján	šiesty	1	1288
+754	Samselyová Anna		1	819,1532
+754	Samselyová Mária	r.Šebestová	1	1258,1429
+754	SANZANGH Vojtech r. Sanzangh		0	1674
+754	SANZANGHOVÁ Mária		0	1674
+754	SANZANGHOVÁ Mileta		0	1674
+754	Sedlák Andrej		1	547
+754	Sedlák Andrej	ž.Mária r.Oriňaková	1	1467
+754	Sedlák František		1	1227
+754	Sedlák Ján		1	216,1163,1164,1165,1166,1258,1429,1700,1727,1728,1752,1788,1789
+754	Sedlák Ján	druhý	1	547
+754	Sedlák Jozef	druhý	1	1338
+754	Sedlák Jozef	tretí	1	1511
+754	Sedlaková Anna	druhá	1	325,1342,1646
+754	Sedláková Anna	m.Jozef	1	1411
+754	Sedláková Anna	prvá	1	325,1646
+754	Sedláková Anna	r.Konečná,m.Jozef	1	1347
+754	Sedláková Anna	tretia	1	1276
+754	Sedláková Helena		1	474,746,1225,1226,1228,1229,1231,1233,1616
+754	Sedláková Helena	LSR	0	1227
+754	Sedláková Helena	r.Konečná	1	1041
+754	Sedláková Helena	tretia	1	253,254,256,258,1121
+754	Sedlaková Mária	Stavičak	1	325,1646
+754	Sedláková Mária		1	259
+754	Sedláková Mária	r.Oriňaková	1	1467
+754	Sedlaková Zuzana	Gajdoš	1	325,1646
+754	Seliga Ján		1	1406
+754	Seman Filip r. Seman, Pod Kalváriou 45, prešov, PSČ 080 01, SR		1	1330
+754	Seman Jozef		1	1251
+754	Semanová Alžbeta		1	1251
+754	Semanová Alžbeta	r.Baluchová,08235 Hermanovce č.d.247	0	1369
+754	Semanová Anna		1	1251
+754	Semanová Barbora		1	1251
+754	Semanová Mária	Kušnir	1	1251
+754	Semanová Zuzana		1	1251
+754	Schligová Mária	r.Juščáková	1	746,1113,1225,1226,1227,1228,1229,1231,1233,1397,1505,1518,1616
+754	Schwarcz Ján	ž.Anna r.Sedláková	1	101
+754	Schwarczová Anna	r.Sedláková	1	101
+754	Silvaiová Helena	r.Palenčárová	1	1332,1336,1337,1342,1347
+754	Slaninka Juraj	druhý	1	1276
+754	Slaninka Juraj	prvý	1	325,1646
+754	Slaninková Mária	Sedlák	1	1276
+754	Slaninková Mária	Sedláková	1	325,1646
+754	Smolko Andrej		1	1321
+754	Smolko Bartolomej		1	1345
+754	Smolko Juraj		1	1345
+754	Smolko Pavol		1	1345
+754	Smolko Štefan		1	1345
+754	Smolková Alžbeta	r.Ivanová	1	1335,1345
+754	Smolková Apolónia		1	1345
+754	Smolková Katarína		1	1345
+754	Smolková Mária		1	1345
+754	Smolková Mária	r.Kovaľová	1	1342,1365
+754	Smolková Žofia	r.Kovaľová	1	1342,1365
+754	SPIŠÁKOVÁ Helena r. Sabolová		0	1675
+754	Staš Štefan	mal	1	1330,1336,1337
+754	Stašová Katarína	mal	1	1330,1336,1337
+754	Staviščáková Mária	Sedlák	1	1276
+754	Straka František		1	177,1039
+754	Straka Ján		1	152,177,473,746,1039,1136,1137,1140,1225,1226,1227,1228,1229,1231,1233,1587,1616,1729
+754	Straka Ján	ž.Veronika r.Birošová	1	1474
+754	Straka Jozef		1	152,177,473,746,1039,1136,1137,1140,1225,1226,1227,1228,1229,1231,1233,1587,1616,1729
+754	Straka Juraj		1	177,1039
+754	Straka Juraj	ž.Anna r.Centková	1	1310,1548
+754	Straka Štefan		1	152,177,473,589,746,1039,1136,1137,1140,1225,1226,1227,1228,1229,1231,1233,1587,1616,1729
+754	Straková Alžbeta		1	1382
+754	Straková Alžbeta	r.Adamková	1	177,473,746,1136,1137,1140,1225,1226,1227,1228,1229,1231,1233,1250,1315,1370,1587,1616,1684,1686,1729
+754	Straková Anna	r.Centková	1	1548
+754	Straková Anna r. Centková		1	1310
+754	Straková Margita	r.Lazoriková	1	1129,1205,1235
+754	Straková Mária		1	152,473,746,1136,1137,1140,1225,1226,1227,1228,1229,1231,1233,1587,1616,1729
+754	Straková Mária	druhá	1	171,177,1787
+754	Straková Mária	r.Lišková	1	378
+754	STURCZ Ernest r. Sturcz, Dr.		0	1074,1674
+754	STURCZ Eugen r. Sturcz		0	1074,1674
+754	STURCZ Henrik r. Sturcz		0	1674
+754	Sturcz Jindrich		1	1188,1220,1222,1775,1776,1780,1781
+754	Sturcz Jindrich	LSR	0	1190
+754	STURCZ Ľudovít r. Sturcz		0	1074,1674
+754	STURCZOVÁ Regína r. Atlaszová		0	1674
+754	Suchovičová Margita	r.Sabolová	1	697,699,746,1109,1197,1225,1226,1227,1228,1229,1231,1233,1616
+754	Šebesta František		1	343,344
+754	Šeliga Ján	ž.Mária	1	1255,1397,1444,1570
+754	Šimoňak Štefan	ž.Helena r.Dugasová	1	1461
+754	Šimoňaková Helena	r.Dugasová	1	1461
+754	Šiška Jakub	druhý	1	1259
+754	Šiška Jakub	prvý	1	216,1163,1164,1165,1166,1258,1429,1700,1727,1728,1752,1788,1789
+754	Šiška Ján	tretí	1	608
+754	Šoltýsová Žofia	r.Oriňáková	1	216,941,942,1163,1164,1165,1166,1258,1429,1700,1727,1728,1752,1788,1789
+754	Štefaniková Alžbeta	r.Michalíková	1	416
+754	Štempeľ Štefan	ž.Mária r.Valenčinová	1	439,1199,1200,1381
+754	Štempeľová Mária	r.Valenčinová	1	439,1199,1200,1381
+754	Štiavnická Helena	r.Oriňáková	1	216,941,942,1258,1429
+754	Štofková Helena		1	1036
+754	Šturcz Ernest	Dr	1	1069,1173,1304,1746
+754	Šturcz Eugen		1	1069,1173,1304,1746
+754	Šturcz Ľudovít		1	1069,1173,1304,1746
+754	Švarc Andrej		1	761
+754	Švarc Andrej	druhý	1	647,746,1191,1225,1226,1227,1228,1229,1231,1233,1616
+754	Švarc Andrej	ž.Alžbeta	1	1301
+754	Švarc Ján		1	216,1163,1164,1165,1166,1258,1429,1700,1727,1728,1752,1788,1789
+754	Švarc Ján	druhý	1	99,100,761
+754	Švarc Ján	tretí	1	99,100,101,761
+754	Švarc Jozef		1	99,100,761
+754	Švarc Jozef	ml	1	101
+754	Švarc Juraj		1	99,100,101,761
+754	Švarcová Alžbeta	r.Poráčová	1	1301
+754	Tarbaj Adalbert	mal	1	1354
+754	Tarbaj František	mal	1	1354
+754	Tarbaj Ján	druhý	1	1342
+754	Tarbaj Ján	mal	1	1354
+754	Tarbaj Ján	štvrtý	1	1342,1347
+754	Tarbaj Ján	ž.Filoména r.Kravecová	1	1354
+754	Tarbaj Karol		1	1342,1347
+754	Tarbaj Michal		1	1342
+754	Tarbaj Štefan		1	1347
+754	Tarbajová Alžbeta		1	1354
+754	Tarbajová Anna		1	1342
+754	Tarbajová Apolónia	mal	1	1354
+754	Tarbajová Johana		1	1342
+754	Tarbajová Katarína	mal	1	1354
+754	Tarbajová Mária		1	1342
+754	Tarbajová Žofia	r.Petravá	1	1100
+754	Tkačik Ján	mal	1	1355
+754	Tkačiková Margita		1	1355
+754	Tkačiková Žofia	mal	1	1355
+754	Tomáš Andrej	druhý	1	378,608
+754	Tomáš Andrej	prvý	1	216,1163,1164,1165,1166,1258,1429,1700,1727,1728,1752,1788,1789
+754	Tomáš Andrej	tretí	1	349
+754	Tomáš Filip		1	378,608
+754	Tomáš Filip	ž.Alžbeta r.Triščíková	1	1252
+754	Tomáš Filip r. Tomáš		0	1064
+754	Tomáš Ivan		1	653,1132,1133
+754	Tomáš Ján		1	216,1163,1164,1165,1166,1258,1429,1700,1727,1728,1752,1788,1789
+754	Tomáš Ján	druhý	1	349,610,1357
+754	Tomáš Ján r. Tomáš		0	1064
+754	Tomáš Štefan	druhý	1	349
+754	Tomáš Štefan	prvý	1	1357
+754	Tomášová Alžbeta	r.Triščíková	1	1252
+754	Tomášová Barbora	r.Astariová	1	378,608,1129,1205,1235
+754	Tomko Ján		1	1339
+754	Tomko Michal	ž.Žofia r.Smolková	1	1339
+754	Tomková Filoména	r.Kolarčíková	1	1340
+754	Tomková Žofia	r.Smolková	1	1339
+754	Triščík Adalbert	druhý	1	1505
+754	Triščík Adalbert	prvý	1	1291
+754	Triščík Franc		1	1291
+754	Triščík František	ž.Anna	1	78,1220,1222,1775,1776
+754	Triščiková Anna	r.Marcinová	1	439
+754	Triščíková Mária	r.Šimoňáková	1	1505
+754	Uličná Agnesa		1	1353
+754	Uličná Anna		1	1345
+754	Uličná Terézia		1	1328,1352,1353
+754	Uličná Žofia		1	1353
+754	Uličný Bartolomej		1	1353
+754	Uličný Ján		1	1353
+754	Uličný Jozef		1	1353
+754	Uličný Juraj		1	1353
+754	Uličný Valent		1	1328,1352,1353
+754	Urda Tomáš	ž.Anna r.Petrilláková	1	1313
+754	Urdová Anna r. Petriľáková		1	1313
+754	Valenčik Jozef		1	1258
+754	Valenčín Anton	druhý	1	608,980
+754	Valenčin Ján		1	216,1163,1164,1165,1166,1258,1429,1700,1727,1728,1752,1788,1789
+754	Valenčín Ján	druhý	1	378,608,746,980,1115,1129,1136,1137,1140,1143,1145,1169,1205,1225,1226,1227,1228,1229,1231,1233,1235,1587,1616,1729
+754	Valenčín Ján	štvrtý	1	78
+754	Valenčín Jozef		1	980
+754	Valenčín Jozef	druhý	1	378,608,980,1115,1129,1143,1145,1169,1205,1235
+754	Valenčín Jozef	štvrtý	1	378,1129,1205,1235
+754	Valenčín Jozef	tretí	1	1429
+754	Valenčín Pavel		1	1205,1235
+754	Valenčín Pavol	druhý	1	746,1225,1226,1228,1229,1231,1233,1616
+754	Valenčín Pavol	druhý; LSR	0	1227
+754	Valenčín Pavol	prvý	1	746,1225,1226,1228,1231,1233
+754	Valenčín Pavol	prvý; LSR	0	1227
+754	Valenčín Vavrinec		1	1280
+754	Valenčinová Alžbeta	r.Koščová	1	473
+754	Valenčinová Cecília		1	378,608,746,980,1129,1136,1137,1140,1143,1145,1169,1205,1225,1226,1227,1228,1229,1231,1233,1235,1587,1616,1729
+754	Valenčinová Helena		1	378,608,746,980,1115,1129,1136,1137,1140,1143,1145,1169,1205,1225,1226,1227,1228,1229,1231,1233,1235,1587,1616,1729
+754	Valenčínová Mária		1	378,608,746,980,1115,1129,1136,1137,1140,1143,1145,1169,1205,1225,1226,1227,1228,1229,1231,1233,1235,1587,1616,1729
+754	Valenčínová Zuzana		1	746,1225,1226,1228,1229,1231,1233,1616
+754	Valenčínová Zuzana	LSR	0	1227
+754	Vaňo Ján	ž.Anna r.Jenčová	1	1455

@@ -1,0 +1,256 @@
+567	BREZOVSKÁ Margita r. Horúcková	Drahovce 368	0	3185
+567	Brezovská Mária	r.Rusnáková m.Izidor	0	2856,2859,4407
+567	BREZOVSKÁ Mária r. Rusnáková	m.Izidor	0	2011,2820,2821,2848,2849,2857,2858
+567	BREZOVSKÁ Serafína r. Chudá	m.Peter	0	3514
+567	BREZOVSKÁ Serafína r. Majerníková		0	190,195,196,2011,2818,2819,2820,2821,2848,2849,2856,2857,2858,2859,4407
+567	BREZOVSKÁ Štefánia	r.Brezovská m.Vendelín	0	3006,3087
+567	Brezovská Veronika		0	1793
+567	BREZOVSKÁ Veronika r. Varačková	od.PY 16.1.79,Hurbanova2468/14	0	3455
+567	Brezovský Filip		0	1002,1999
+567	BREZOVSKÝ Filip	sur.Mária,HElena,Filip	0	1716,1754,2011,2820,2821,2848,2849,2856,2857,2858,2859,4407,4444
+567	BREZOVSKÝ Filip	ž.Anna r.Rusnáková,Drahovce 343	0	1978,2448,2840,2841
+567	BREZOVSKÝ Gašpar	ded.Gašpar,Františka	0	3071
+567	BREZOVSKÝ Gašpar	ž.Františka r.Šaleková	0	3521
+567	Brezovský Izidor	ž.Mária r.Rusnáková	0	2011,2820,2821,2848,2849,2856,2857,2858,2859,4407
+567	BREZOVSKÝ Karol	čd.3474/1960	0	1716
+567	BREZOVSKÝ Karol	ž.Katarína r.Spišáková	0	2841
+567	BREZOVSKÝ Ladislav		0	1754,4444
+567	Brezovský Ľudovít		0	1368,1716,1753,1754,4082,4444
+567	BREZOVSKÝ Ľudovít	čd.515/1916	0	1716
+567	BREZOVSKÝ Ľudovít	nezvest. rd Filip a Anna r.Rusnáková	0	3203
+567	BREZOVSKÝ Ľudovít	ž.Bernardína r.Rusnáková	0	2994
+567	Brezovský Michal		0	290,2693
+567	BREZOVSKÝ Michal	ž.Katarína r.Karabová	0	2049,2219,2220,2221,3106,3276
+567	BREZOVSKÝ Michal	ž.Margita, Drahovce 368	0	3185
+567	Brezovský Peter		0	1002,2856,2857,2858,2859,4407
+567	Brezovský Peter	čd.5084/1937	0	2011,2820,2821,2848,2849
+567	Brezovský Peter	čd.515/1916	0	2011,2820,2821,2848,2849
+567	Brezovský Peter	ž.Mária r.Rusňáková	0	2011,2820,2821,2848,2849,2856,2857,2858,2859,2930,4407
+567	BREZOVSKÝ Peter	manž.Serafína	0	3166
+567	Brezovský Štefan		0	2856,2857,2858,2859,4407
+567	Brezovský Štefan	čd.9239/1904	0	2011,2820,2821,2848,2849
+567	BREZOVSKÝ Štefan	zomrel 02.03.1974	0	3455
+567	BREZOVSKÝ Vendelín	čd.4427/1937	0	3430
+567	BREZOVSKÝ Vendelín	ž.Emera r.Varačková	0	3529
+567	BREZOVSKÝ Vendelín	ž.Štefánia r.Brezovská	0	3006,3087
+567	BRHELOVÁ Oršula	r.Chudá	0	2858
+567	BRHELOVÁ Oršula r. Chudá		0	2011,2820,2821,2848,2849,2856,2857,2859,4407
+567	Bučeková Štefánia	r.Trnková m.Pavol	0	2821,2859
+567	BUČEKOVÁ Štefánia r. Trnková	m.Pavol	0	2011,2820,2848,2849,2856,2857,2858,4407
+567	BUČKO Jozef	čd.1783/1944	0	3580
+567	BUGÁROVÁ Katarína r. Chudá		0	742,1727
+567	CEPKO Anton	sur.Štefan,Jozef,Anton,Júlia,Izidor	0	3003
+567	CEPKO Izidor	ž.Filomena r.Mokošová	0	204,3238
+567	CEPKO Jozef	sur.Anna,Jozef,Ján,Filomena	0	650,2456
+567	CEPKO Štefan	sur.Štefan,Jozef,Anton,Júlia,Izidor	0	3003
+567	CEPKO Štefan	ž.Angela r.Rusnáková	0	1963,2011,2820,2821,2848,2849,2856,2857,2858,2859,4407
+567	Cepko Vendelín	ž.Magda r.Micháleková	0	2011,2820,2821,2848,2849,2856,2857,2858,2859,4407
+567	CEPKOVÁ Amália r. Spišáková		0	161,770,772
+567	Cepková Angela	r.Rusnáková m.Štefan	0	2858,2859
+567	CEPKOVÁ Angela r. Rusnáková	m.Štefan	0	2011,2820,2821,2848,2849,2856,2857,4407
+567	CEPKOVÁ Filoména	mal. sur.Anna,Jozef,Ján,Filomena	0	189,203,211,650,1957,1962,2456,2506,2836,2837
+567	CEPKOVÁ Filoména r. Čapušková	zomr.27.05.1987	0	1979,2448,3849
+567	CEPKOVÁ Filoména r. Mokošová	m.Izidor	0	3238
+567	CEPKOVÁ Filoména r. Mokošová	m.Izidor; m.Izidor	0	204
+567	Cepková Jozefína	r.Vančová m.Štefan	0	2859
+567	CEPKOVÁ Jozefína r. Vančová	m.Štefan	0	1870,1872,1873,1874,2011,2820,2821,2827,2828,2848,2849,2856,2857,2858,4407
+567	CEPKOVÁ Jozefína r. Varačková	m.Štefan	0	2829
+567	Cepková Magdaléna r. Chudá		0	1724
+567	CEPKOVÁ Magdaléna r. Chudá	zomr.14.10.1970	0	2011,2820,3217
+567	CESNEK Florián	ž.Verona r.Varačková	0	2866
+567	CESNEK Grueš	kúpa od Ján Cesnek	0	3024
+567	Cesnek Karol	zomr.18.02.1992	0	2906,2961
+567	CESNEK Karol	čd.4231/1929	0	3331
+567	CESNEK Martin	zomr.19.11.1965	0	1990
+567	CESNEK Peter	č.190	0	3355
+567	CESNEK Peter	čd.1555/1943	0	3526
+567	CESNEK Peter	zomr.04.11.1982	0	1969,1970,2401,2402,2530,4086
+567	CESNEK Peter	ž.Salomena r.Michaleková	0	554,1777,2966,2967,3532
+567	CESNEK PETER		0	555
+567	CESNEK Rudolf	zomr.16.03.1983	0	1972,2397,2398,3293,4441
+567	Cesnek Štefan		0	3097
+567	CESNEK Štefan	čd.1541/1938	0	3537
+567	Cesnek Václav a Mária Cesneková r. Nešporová		0	3290
+567	Cesnek Vendelín	ž.Oršula r.Bednárová	0	2011,2820,2821,2848,2849,2856,2857,2858,2859,4407
+567	CESNEKOVÁ Emerencia		0	1969,2401,2402,2530
+567	CESNEKOVÁ Emerencia r. Varečková	m.Pavol	0	1970,4086
+567	CESNEKOVÁ Júlia r. Rusnáková		0	1885,1889
+567	CESNEKOVÁ Julianna r. Varačková		0	2851,2867
+567	CESNEKOVÁ Mária	mal	0	1969,1970,1972,1973,1990,2397,2398,2399,2400,2401,2402,2530,3293,4086,4441
+567	CESNEKOVÁ Mária r. Jurišová	zomr.27.07.1995	0	2011
+567	CÍFERSKÁ Anna	čd.4427/1937	0	3479
+567	CÍFERSKÁ Katarína r. Brezovská	m.Jozef	0	3504
+567	CÍFERSKÝ Jozef	ž.Katarína r.Brezovská	0	3504
+567	ČANGRÁDY Michal	čd.1175/1930	0	3140
+567	Čapuška Benedikt		0	1983,2734,3853,3854,4070
+567	ČAPUŠKA Cyprián	od Štefánie Čapuškovej	0	1979
+567	ČAPUŠKA Jozef	ž.Ľudmila r.Varačková	0	2062
+567	ČAPUŠKA Ladislav		0	2011,2820,2821,2848,2849,2856,2857,2858,2859,4407
+567	Čapuška Ludovít		0	2856,2857,2858,2859,4407
+567	Čapuška Ludovít	čd.1969/1930	0	2011,2820,2821,2848,2849
+567	Čapuška Ľudovít	sur.Emer.,Ľudovít,Vendelín,Peter,Vincen	0	2820
+567	ČAPUŠKA Ľudovít	ž.Katarína,zomrel:jún 1972	0	3073
+567	ČAPUŠKA Ludvík	ž.Júlia r.Bednárová	0	3491
+567	Čapuška Peter	čd.1969/1930	0	2011,2820,2821,2848,2849
+567	Čapuška Peter	sur.Emer.,Ľudovít,Vendelín,Peter,Vincen.; sur.Emer.,Ľudovít,Vendelín,Peter,Vincen	0	2856,4407
+567	ČAPUŠKA Peter		0	2011,2820,2821,2848,2849,2856,2857,2858,2859,4407
+567	ČAPUŠKA Peter	sur.Emer.,Ľudovít,Vendelín,Peter,Vincen	0	629,2011,2137,2138,2139,2522,2820,2821,2848,2849,2857,2858,2859
+567	Čapuška Vendelín	čd.1969/1930	0	2011,2820,2821,2848,2849
+567	ČAPUŠKA Vendelín		0	2011,2820,2821,2848,2849,2856,2857,2858,2859,4407
+567	ČAPUŠKA Vendelín	m.Bernardína	0	2657
+567	ČAPUŠKA Vendelín	sur.Emer.,Ľudovít,Vendelín,Peter,Vincen	0	629,2011,2137,2138,2139,2522,2820,2821,2848,2849,2856,2857,2858,2859,4407
+567	Čapušková Amália		0	2063,2064
+567	ČAPUŠKOVÁ Anna	mal	0	2282
+567	ČAPUŠKOVÁ Júlia	r.Bednárová	0	3070
+567	ČAPUŠKOVÁ Júlia r. Bednárová		0	3491
+567	ČAPUŠKOVÁ Ľudmila r. Varačková		0	3325
+567	Čapušková Mária r. Hertel		0	1984
+567	ČAPUŠKOVÁ Pavlína r. Varačková	m.Karol	0	1979,3849
+567	ČAPUŠKOVÁ Verona r. Chudá		0	644,742,1699,1723,1724,1725,1726,1727,1768,2007,2011,2820,2821,2848,2849,2856,2857,2858,2859,2925,4407
+567	Čapušková Veronika	r.Bednárová m.Florián	0	2859,3081
+567	ČAPUŠKOVÁ Veronika r. Bednárová	m.Florián	0	2011,2820,2821,2848,2849,2856,2857,2858,4407
+567	Čavojská Mária r. Kremnická		0	1172,1778,1779,1781
+567	ČENDEKOVÁ Matylda	sl., Veselé ,922 08	0	3602
+567	Čeppanová Anna r.Milovníková		0	585
+567	Černek Jozef		0	2057,2476
+567	ČERNEKOVÁ Júlia r. Varačková	zomr.07.06.1969	0	2011,2820
+567	Červeňanský František		0	842
+567	Čuzyová Jaromíra r. Varačková		0	3302
+567	DANIŠ Juraj	zomrel 03.04.1968	0	3434
+567	DANIŠOVÁ Júlia	zomrela 13.06.1974	0	3434
+567	DEKANOVÁ Magdaléna r. Varačková	od Emerencie Varačkovej	0	1616,2137,2554,3278
+567	DEMOVIČOVÁ Júlia r. Varačková		0	3268
+567	DOBROVOLNÁ Emília		0	3005
+567	DOBROVOLNÁ Františka		0	3005
+567	DOBROVOLNÁ Júlia		0	3005
+567	DOBROVOLNÁ Magda	r.Hudecová m.Peter	0	3035
+567	DOBROVOLNÁ Magda r. Hudecová	m.Peter	0	3808
+567	DOBROVOLNÁ Mária		0	3005
+567	DOBROVOLNÁ Paulína		0	3005
+567	DOBROVOĽNÁ Pavlína	Drahovce 23, zomrela 27.02.1963	0	3410
+567	DOBROVOLNÝ Augustín		0	3005
+567	DOBROVOLNÝ Jozef		0	3005
+567	DOBROVOLNÝ Jozef	m.Magda,r.Hudecová, zomrel 20.02.1993	0	3175
+567	DOBROVOLNÝ Jozef	ž.Magda r.Hudecová	0	3035,3808
+567	DOMIN Vladimir	zomr.08.02.1999	0	3457,3655
+567	Dopjerová Ludviga r. Lustigová		0	1839
+567	Dopjerová Mária r. Lustigová		0	1839
+567	DOPOJEROVÁ Ludviga r. Lustigová		0	1677
+567	DOPOJEROVÁ Mária r. Lustigová		0	1677
+567	DORINEC Jozef		0	2011,2820,2821,2848,2849,2856,2857,2858,2859,4407
+567	DRNÁKOVÁ Mária		0	3058
+567	Drobná Anna		0	1999,3994
+567	DUBOVSKÁ Helena	m.Jozef	0	3561
+567	DUBOVSKÝ Jozef	ž.Helena	0	3561
+567	DURAČKA Vít	ž.Verona r.Hochelová	0	3562
+567	DURAČKOVÁ Rozália r. Bučková		0	3601
+567	DURAČKOVÁ Verona r. Hochelová	m.Vít	0	3562
+567	ĎURIŠ Michal	čd.789/57	0	1955
+567	DVORČÁKOVÁ Magdaléna r. Varačková		0	3340
+567	DZURO Izidor	rd Michal a Mária r.Rebrová	0	2043
+567	DZURO Ján	vz.437/85	0	1142,1592,2316,4040,4405,4406
+567	DZURO Jozef	m.Veronika, vz.437/85,Drahovce 370	0	1592,2316,4040,4405,4406
+567	DZURO Jozef	od Márie Kudelovej	0	1142,1592,1891,2316,4040,4405,4406
+567	DZURO Jozef	od Štefana Dzuro	0	1620
+567	DZURO Jozef	sur.Jozef,Viktoria	0	1619
+567	DZURO Jozef	vz.437/85	0	1142,1592,2316,4040,4405,4406
+567	DZURO Ľudovít	Dátum úmrtia: 02.02.1993	0	3632
+567	DZURO Ľudovít	zomr.02.02.1993	0	2011,2787,2817,2820
+567	DZURO Ľudovít	ž.Alžbeta r.Kremnická	0	2697
+567	DZURO Ľudovít, SR		0	3632
+567	DZURO Lukáš	vz.437/85,zomr.09.09.1942	0	1142,1592,2316,4040,4405,4406
+567	DZURO Martin	sur.Martin,Peter,Ján,Veronika	0	1891
+567	DZURO Michal	rd Peter a Johanna r.Varačková	0	1891
+567	DZURO Michal	vz.437/85,Drahovce 317	0	1142,1592,2316,4040,4405,4406
+567	DZURO Pavol	rd Michal a Mária r.Rebrová	0	2043,2787
+567	DZURO Pavol	ž.Serafína r.Cepková	0	650,1110,2011,2042,2820,2821,2848,2849,2856,2857,2858,2859,3234,4407
+567	DZURO Peter	vz.437/85	0	1142,1592,2316,4040,4405,4406
+567	Dzurová Alžbeta	r.Kremnická sur.Peter,Ján,Oršula,Alžbeta	0	2858,2859
+567	DZUROVÁ Alžbeta	zomr.07.02.2002	0	2820
+567	Dzurová Alžbeta r. Kremnická		0	2264
+567	Dzurová Alžbeta r. Kremnická	čd.343/1944	0	4059
+567	DZUROVÁ Alžbeta r. Kremnická	sur.Peter,Ján,Oršula,Alžbeta	0	2011,2820,2821,2848,2849,2856,2857,4407
+567	Dzurová Anna	r.Maceková m.Peter	0	2859
+567	DZUROVÁ Anna r. Maceková	m.Peter	0	2011,2820,2821,2848,2849,2856,2857,2858,3218,4407
+567	DZUROVÁ Jozefína r. Bednárová		0	3322
+567	DZUROVÁ Jozefína r. Bednárová	m.Izidor	0	1619,1620,1905,2044,3253
+567	Dzurová Katarína r. Rusnáková, SR		0	3675
+567	Dzurová Margita	mal.sur.Ludovít,Margita,Peter	0	2011,2040,2041,2043,2787,2820,2821,2848,2849,2856,2857,2858,2859,4407,4423
+567	DZUROVÁ Paulína		0	3197
+567	Dzurová Serafína	r.Cepková m.Pavol	0	2859,3121,3147
+567	DZUROVÁ Serafína r. Cepková	m.Pavol	0	650,1963,2011,2820,2821,2848,2849,2856,2857,2858,3234,4407
+567	DZUROVÁ Serafína r. Cepková	m.Pavol; m.Pavol	0	1110
+567	DZUROVÁ Veronika	sur.Martin,Peter,Ján,Veronika	0	1891
+567	DZUROVÁ Vincencia	m.Michal	0	3120
+567	FERANC Alexander	ž.Anna r.Imrišeková	0	3606
+567	FERANCOVÁ Anna r. Imrišeková	m.Alexender	0	3606
+567	FERANČÍKOVÁ Verona	vzdial. po Martinovi Karabovi	0	3506
+567	Gajdošová Pavlína r. Majerníková		0	1368,4082
+567	Gálik Andrej		0	2856,2857,2858,2859,4407
+567	Gálik Andrej	čd.1807/1906	0	2011,2820,2821,2848,2849
+567	Gáliková Mária	r.Majerníková m.Andrej	0	2859
+567	Gáliková Mária r. Majerníková	m. Andrej	0	2857
+567	GÁLIKOVÁ Mária r. Majerníková	m.Andrej	0	190,195,196,2011,2818,2819,2820,2821,2848,2849,2856,2858,4407
+567	GAŽOVÁ Anna	r.Hornáčková	0	3066
+567	GREGOR Bohumil	od Jozefa Gregora	0	3501
+567	GREGOR František	m.Mária,zomr.03.09.1968	0	3373
+567	GREGUŠKA Ludvík	čd.3540/1938	0	3555
+567	GRZNÁROVÁ Anna r. Karabová	Hodžova ul.č.1939/2,Trenčín	0	3324
+567	GULABOVÁ Júlia	r.Horúcková	0	3542
+567	GULABOVÁ Júlia r. Horúcková		0	2011,2820,2821,2848,2849,2856,2857,2858,2859,3876,4407
+567	HAAS Bedrich	sur.Bedrich,Oskar,Alica	0	2196,2945,3635
+567	HANKOCIOVÁ Jozefína r. Starostová		0	3611
+567	HARGAŠOVÁ Verona	r.Holíková	0	3033,3034,3096
+567	HAVRLENT Severín	ž.Anna r.Horinová	0	3616
+567	HERCEG Libor	ž.Anna r.Končeková	0	3617
+567	HERCEG Štefan	ž.Mária r.Končeková	0	3618
+567	HERCEGOVÁ Anna r. Končeková	m.Libor	0	3617
+567	HERCEGOVÁ Mária r. Končeková	m.Štefan	0	3618
+567	HESSELSCHWERTOVÁ Serafína	r.Gregorová	0	3015
+567	HLADKÁ Katarína	r.Bolerázová	0	3136
+567	HLADKÁ Katarína r. Bolerázová		0	2011,2792,2820,2821,2848,2849,2856,2857,2858,2859,4407
+567	HLAVANDOVÁ Štefánia r. Varačková	od Emerencie Varačkovej	0	1616,2137,2554,3278
+567	Hnilka Jozef		0	2856,2858,2859,4407
+567	Hnilka Jozef	čd.278/1912	0	2011,2820,2821,2848,2849,2857
+567	Hnilka Ondrej	od Ondreja Hnilku	0	2011,2589,2820,2821,2848,2849,2856,2857,2858,2859,3336,4407
+567	Hnilka Pavol	od Ondreja Hnilku	0	2011,2589,2820,2821,2848,2849,2856,2857,2858,2859,3336,4407
+567	Hnilka Tomáš	od Ondreja Hnilku	0	2011,2589,2820,2821,2848,2849,2856,2857,2858,2859,3336,4407
+567	HNILKA Tomáš	čd.279	0	3418
+567	Hnilková Alžbeta	od Ondreja Hnilku	0	2011,2589,2820,2821,2848,2849,2856,2857,2858,2859,3336,4407
+567	Hnilková Anna	od Ondreja Hnilku	0	2011,2589,2820,2821,2848,2849,2856,2857,2858,2859,3336,4407
+567	Hnilková Emília	od Ondreja Hnilku	0	2011,2589,2820,2821,2848,2849,2856,2857,2858,2859,3336,4407
+567	Hnilková Helena	od Ondreja Hnilku	0	2011,2589,2820,2821,2848,2849,2856,2857,2858,2859,3336,4407
+567	Hnilková Mária	od Ondreja Hnilku	0	2011,2589,2820,2821,2848,2849,2856,2857,2858,2859,3336,4407
+567	HODUL Karol		0	3094,3275
+567	HODULOVÁ Katarína	od Mikuláša Kúdelu ,r.Kúdelová	0	3468,4052
+567	HODULOVÁ Mária	r.Karabová	0	3098
+567	Hodulová Mária r. Karabová		0	1820
+567	Hodulová Mária r. Karabová	dcéra Tomáša Karabu; dcéra Tomáša Karabu	0	2081
+567	Hodulová Verona	r.Micháleková m.Ján	0	2859
+567	HODULOVÁ Verona r. Micháleková	m.Ján	0	2011,2820,2821,2848,2849,2856,2857,2858,4407
+567	HOCHEL Cyril	ž.Mária r.Šutovská	0	3564
+567	HOCHELA Jarolím	ž.Agneša r.Šimáková	0	3563
+567	HOCHELA Vendelín	ž.Anna r.Zbývatelová	0	3600
+567	HOCHELOVÁ Agneša r. Šimáková	m.Jarolím	0	3563
+567	HOCHELOVÁ Anna r. Zbývatelová	m.Vendelín	0	3600
+567	HOCHELOVÁ Mária r. Šutovská	m.Cyril	0	3564
+567	Holík Jozef	ž.Anna r.Rusnáková	0	2011,2820,2821,2848,2849,2856,2857,2858,2859,4407
+567	Holík Karol	ž.Pavla r.Karabová, zomr.08.02.1971	0	2820
+567	HOLÍK Karol	ž.Pavla r.Karabová,zomr.08.02.1971	0	2011
+567	HOLÍK Vincent	čd.4427/1937	0	3485
+567	HOLÍK Vincent	ž.Mária r.Slováková	0	2895
+567	HOLÍKOVÁ Anna	od Tomáša Holíka	0	3095
+567	Holíková Anna r. Rusnáková		0	1450,1797,3249
+567	Holíková Hedviga r. Chudá		0	1014
+567	HOLÍKOVÁ Hedviga r. Chudá	zomr.16.09.1994	0	2011,2820
+567	HOLÍKOVÁ Hedvika r. Chudá		0	2011,2820,2821,2848,2849,2856,2857,2858,2859,4407
+567	HOLÍKOVÁ Mária	Eva	0	3009
+567	HOLÍKOVÁ Mária r. Slováková	m.Vincent	0	2895
+567	HOLÍKOVÁ Paula r. Karabová	zomr.29.12.1972	0	2011,2820
+567	HOLOBRADOVÁ Mária r. Karabová	m.František	0	3518
+567	HOLOBRADOVÝ František	čd.1528/1946	0	3007
+567	HOLOBRADOVÝ František	ž.Mária r.Karabová	0	3518
+567	Holzschuterová Marta r. Danišová	TP v zahraničí,Viedeň	0	2011
+567	HORINA Klement	po Jozefovi Horinovi	0	2503
+567	HORINA Štefan	po Jozefovi Horinovi	0	2503
+567	HORINOVÁ Mária r. Bednárová	m.Jozef	0	2503

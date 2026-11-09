@@ -1,0 +1,256 @@
+2180	VARGA Ladislav	z.Maria r.Petrova	1	2482,2706
+2180	VARGA Ladislav	ž. Maria r. Petrova	0	1554,1611,1743,1772,1855,2667,2707,2814,2818,2857,2901
+2180	VARGA Ondrej	ž. Barbora r. Csarniová	0	1887
+2180	VARGOVÁ Alžbeta r. JAKABOVA		0	2095
+2180	VARGOVÁ Alžbeta r. Urbánová		0	1887
+2180	VARGOVÁ Gizela r. UVEGEŠOVÁ		1	1554,2482,2667,2706,2707,2814,2818,2857,2901
+2180	VARGOVÁ Katarína r. Boriszová		0	1887
+2180	VARGOVA Margita r. Kovacsova		0	2315,2342
+2180	VASKOVÁ Alžbeta r. Boriszova		0	1840
+2180	VAŠKOVÁ Alžbeta r. Boriszová	vdova	0	1887
+2180	Verbovská Alzbeta r. Baranová		0	1567,2905
+2180	VERBOVSKY Julius		1	1554,2482,2667,2706,2707,2814,2818,2857,2901
+2180	Vilinsky František, Gomboš č. 26		0	2105,2132,2136,2152,2937
+2180	VILINSZKY Ján	manž.Alžbeta r.Szlezáková	1	2631
+2180	VINTER Ladislav	zom	1	2519
+2180	VINTER Ladislav	zomrel	0	1676,1715,2517
+2180	Vinterová Anna r. Cupková		1	2504
+2180	VINTEROVA Helena r. Petrova		1	1554,1605,2482,2576,2667,2706,2707,2814,2818,2857,2901
+2180	VINTEROVA Jolana r. Petrova		0	1713
+2180	VINTEROVA Jolna r.Petrová		1	2521
+2180	VIROSZTKO Jan	manž. Julia r. Kendraova	0	2314
+2180	VIROSZTKOVA Julia r. Kendraova		0	2314
+2180	VITANYI Mikulas		0	2195,2838,2839
+2180	VUKUŠIČ Ivan	ž. Anna r. Lochmanová	0	1567,2905
+2180	Vukušič Ivan a Anna Vukušičová r. Lochmanová		0	1887
+2180	VUKUŠIČOVÁ Anna r. LOCHMANOVÁ	m. Ivan	0	1567,1967,2905
+2180	WINTER Ján	maloletý	1	1554,1615,1674,1854,2482,2597,2667,2706,2707,2814,2818,2857,2901
+2180	WINTER Ján	ž. Klára r. Filipková	0	1887
+2180	WINTER Ján mal.		1	2520
+2180	WINTER Jozef	Husár ž. Mária	0	1887
+2180	WINTER Ladislav		1	1715,1887,2517
+2180	WINTER Ľudovít	mal	0	1887
+2180	WINTER Rudolf		1	1554,1615,1674,1854,2482,2520,2597,2667,2706,2707,2814,2818,2857,2901
+2180	WINTER Vojtech		1	1554,1615,1674,1854,2482,2520,2597,2667,2706,2707,2814,2818,2857,2901
+2180	WINTEROVA Etela		1	1554,1615,1674,1854,2482,2520,2597,2667,2706,2707,2814,2818,2857,2901
+2180	WINTEROVA Helena r. Petrova		1	1554,1605,2482,2576,2667,2706,2707,2814,2818,2857,2901
+2180	WINTEROVÁ Klára r. Filipková	m. Ján	0	1887
+2180	WINTEROVÁ Mária		0	2707,2814
+2180	WINTEROVÁ Mária	maloletá	1	1554,1615,1674,1854,2482,2597,2667,2706,2818,2857,2901
+2180	WINTEROVA Mária mal.		1	2520
+2180	Winterová Mária r. Borovská		0	1887,2240,2250,2273
+2180	ZAHLER Ernest		0	2326
+2180	ZALACKOVA Maria r. BORISOVA		0	1819,1948,2255
+2180	ZSIROSOVA Agnesa r. Sangulyova		1	1554,1567,2482,2667,2706,2707,2814,2818,2857,2901,2905
+2180	ZSIROŠOVÁ Agnesa r. Šangulová	m. Ján	0	1887
+2181	ADAMECOVÁ Mária r. Zaicová		0	201,1731,1732,1831,1898,1907,1954
+2181	AMBRA František		0	1087
+2181	Ambra Ján		0	2153
+2181	Ambra Ján	syn Martina	0	2166
+2181	Ambra Jozef	manž. Júlia, r. Bláhová	0	2136,2193
+2181	AMBRA Matej		0	2254
+2181	AMBRA Michal		0	2125
+2181	AMBRA Pavel		0	1086
+2181	Ambra Pavol	manž. Júlia	0	2253
+2181	AMBRA Pavol	b	0	1087
+2181	AMBRA Pavol	manž. Jozefína, r. Masarovičová	0	1087,2110,2235
+2181	Ambra Štefan	manž. Anna, r. Hlavatá	0	2024,2166
+2181	AMBROVÁ Agneša r. Ambrová		0	2143
+2181	AMBROVÁ Anna		0	1129
+2181	Ambrová Anna r. Hlavatá	manž. Štefan	0	2024,2166
+2181	AMBROVÁ Dorota r. Bačeková		0	2125
+2181	AMBROVÁ Jozefa r. Masarovičová	manž. Pavol	0	1087,2110,2235
+2181	Ambrová Júlia	manž. Pavol	0	2253
+2181	Ambrová Júlia r. Blahová	manž. Jozef	0	2136
+2181	AMBROVÁ Katarína	Kuchyňa, s.č. 140	0	2254
+2181	AMBROVÁ Mária		0	1129
+2181	AMBROVÁ Mária r. Petríková		0	2200
+2181	Ambrová Mária r. Šimeková		0	2168
+2181	AMZLER Ján		0	2173
+2181	AMZLEROVÁ Apolónia r. Vinceková		0	968
+2181	BAČEK Alojz		0	1905
+2181	BAČEK Eduard		0	1731,1732,1905
+2181	BAČEK František		0	1731,1732,1905
+2181	BAČEK Ján		0	2192
+2181	Baček Ľudovít		0	1731,1732,1905
+2181	Baček Róbert		0	1905
+2181	BAČEK Róbert	a	0	1731,1732
+2181	BAČEKOVÁ Júlia		0	1731,1732
+2181	BAČEKOVÁ Katarína		0	2139
+2181	BAČEKOVÁ Terézia	manž. Martin	0	856,938,1230
+2181	BAČEKOVÁ Terézia r. Jánošová		0	2192
+2181	BAČKOVÁ Júlia		0	1905
+2181	BAKARÁČ Ignác		0	2140
+2181	BAKARÁČOVÁ Agneša r. Mikulášovýchová		0	717
+2181	BAKARÁČOVÁ Paula r. Macejová		0	2189
+2181	BAKARÁČOVÁ Paulína r. Macejová		0	2191
+2181	BAKARÁČOVÁ Terézia r. Balážová		0	2140
+2181	BAKAYOVÁ Rozália	c	0	1498
+2181	BALÁZS Ján		0	1480
+2181	BALÁZS János		0	1810
+2181	BALÁZSOVÁ Adela r. Roszkopfová		0	1780
+2181	BALÁZSOVÁ Mária r. Szedlacseková		0	1823
+2181	BALÁŽ Ján		0	675
+2181	BALÁŽ Marek		0	2196
+2181	BALÁŽ Markus		0	2205
+2181	Baláž Martin	manž. Katarína, r. Stehlíková	0	1731,1732
+2181	BALÁŽ Martin		0	2005
+2181	BALÁŽ Martin	manž. Terézia, r. Jankovičová	0	710,1953
+2181	BALÁŽOVÁ Anna r. Špotáková		0	2196,2205
+2181	Balážová Katarína r. Stehlíková		0	1910
+2181	BALÁŽOVÁ Mária r. Hiková		0	2033,2045
+2181	Balážová Mária r. Vaneková		0	2122
+2181	BANCOVÁ Katarína r. Petriková		0	693
+2181	BARTALSKÁ Albína r. Mackovičová		0	2023
+2181	BARTALSKÁ Mária r. Hajzochová		0	1563
+2181	BARTALSKÁ Paulína r. Valentovičová	a	0	1815,1834
+2181	BARTALSKÁ Pavlína r. Valentovičová		0	1775
+2181	Bartalský Ignác	c	0	1970
+2181	Bartalský Vendelín	b	0	1946
+2181	Bartalský Vendelín	c	0	1946
+2181	Bartalský Vendelín	h	0	1731,1732,1787
+2181	BARTALSKÝ Vendelín	d	0	1759,1902
+2181	BARTEKOVÁ Albína r. Minarovičová		0	638,1731,1732
+2181	BARTOŠ Hurban		0	888
+2181	BARTOŠ Ján		0	2114
+2181	BARTOŠ Ján	a	0	2202
+2181	BARTOŠ Jozef		0	2114
+2181	BARTOŠ Jozef	a	0	2158
+2181	BARTOŠ Martin		0	2183
+2181	BARTOŠ Michal		0	2202
+2181	Bartoš Štefan	d; d	0	2157
+2181	BARTOŠ Štefan		0	2202
+2181	BARTOŠ Štefan	a	0	2202
+2181	BARTOŠ Štefan	b	0	2209
+2181	BARTOŠ Štefan	c	0	2209
+2181	BARTOŠ Štefan	e	0	888
+2181	BARTOŠOVÁ Emília		0	2202
+2181	BARTOŠOVÁ Júlia		0	2202
+2181	BARTOŠOVÁ Mária		0	2202
+2181	BARTOŠOVÁ Mária r. Jankovičová		0	2158
+2181	BARTOŠOVÁ Mária r. Šimeková		0	2203
+2181	BARTOŠOVÁ Štefánia r. Zaičková		0	2115
+2181	BARTOŠOVÁ Terézia r. Malcová		0	2133
+2181	BARTOŠOVÁ Terézia r. Mikulášovýchová		0	2183
+2181	BAYER František		0	2261
+2181	BAYEROVÁ Erika		0	2261
+2181	BEBLAVÁ Františka r. Šimková		0	763,1713,1822,1863
+2181	BEEROVÁ Amália		0	1492
+2181	BELČÍK Matúš		0	1812
+2181	Beleš Jmrich	Manž. Mária	0	2073
+2181	Belešová Mária	manž. Imrich	0	2073
+2181	BEŇA Flóvis		0	1841
+2181	BEŇA Ján	Manž. Mária	0	856,938,1027,2240
+2181	Beňa Matej		0	1731,1909
+2181	Beňa Štefan	c	0	2016
+2181	BEŇA Štefan		0	1731,1732,1797
+2181	BEŇA Štefan	b	0	901,1229
+2181	Benca Ján	a	0	2104
+2181	BENCA Ján		0	1758
+2181	BENCA Ján	b	0	465,469
+2181	Bencová Anna r. Polláková		0	1731,1732
+2181	BENCZA Gyozo	a	0	1069
+2181	BEŇOVÁ Mária	manž. Ján	0	856,938,1027,2240
+2181	BEŇOVÁ Mária r. Čulenová		0	1731,1732
+2181	BEŇOVÁ Mária r. Štefeková		0	2156
+2181	BENYA István		0	1820
+2181	Bernička Alojz		0	1853
+2181	Bilkovičová Júlia		0	1731,1732
+2181	BILKOVIČOVÁ Róza r. Zaičková		0	1993
+2181	BLÁHA Ján		0	2150
+2181	BLÁHA Ján	a	0	2139
+2181	Blaha Ondrej	manž. Mária	0	2238
+2181	Bláha Štefan	a	0	2124
+2181	BLÁHA Štefan		0	2150
+2181	BLÁHOVÁ Agneša		0	2139
+2181	Blahová Mária	manž. Ondrej	0	2238
+2181	BLAHOVÁ Mária	a	0	2161
+2181	BLÁHOVÁ Mária		0	2139
+2181	BLÁHOVÁ Mária r. Šimeková		0	2228
+2181	BLÁHOVÁ Štefánia		0	2139
+2181	BLAŽEKOVÁ Anna r. Metodová		0	201
+2181	BLAŽEKOVÁ Anna r. Zaicová		0	1731,1732,1831,1898,1907,1954
+2181	Bokolová Terézia r. Šimeková		0	1731,1732
+2181	BOSKOVICS János		0	1967
+2181	BOSKOVICS János	b	0	704
+2181	BOSKOVICSOVÁ Anna r. Matusovichová		0	379,2352
+2181	BOSKOVICSOVÁ Mária	a	0	735
+2181	BOSKOVICSOVÁ Terézia r. Gabrhelová		0	704
+2181	Boskovič Ferenc	brat Jána	0	735
+2181	BOSKOVIČ Martin		0	537,1968,2004,2022
+2181	BOŠKOVIČ Alojz		0	1801
+2181	BOŠKOVIČ Alojz	f	0	689
+2181	BOŠKOVIČ Alojz	g	0	1937
+2181	Boškovič František		0	1818
+2181	Boškovič František	syn Jána	0	1935
+2181	BOŠKOVIČ František	c	0	499,2007
+2181	BOŠKOVIČ František	d	0	464,465,597,930,1757,1856
+2181	BOŠKOVIČ Ján	d	0	1937
+2181	Boškovič Štefan	manž. Anastázia, r. Jadrníčková	0	2083
+2181	BOŠKOVIČ Štefan	c	0	1732,1937
+2181	BOŠKOVIČ Valent		0	499,2007
+2181	BOŠKOVIČ Valent	a	0	464,465,597,930,1757,1856
+2181	Boškovičová Anastázia r. Jadrníčková	manž. Štefan	0	2083
+2181	BOŠKOVIČOVÁ Barbora r. Hanúsková		0	734,1731,1732,2319
+2181	BOŠKOVIČOVÁ Bernardína	a	0	1937
+2181	BOŠKOVIČOVÁ Františka r. Karáčová		0	1796,1860,2450
+2181	BOŠKOVIČOVÁ Františka r. Zaičková		0	1731
+2181	Boškovičová Júlia r. Petríková	manž. Jozef	0	1731,1732
+2181	Boškovičová Julianna r. Prokopová	manž. Štefan	0	911,1731,1732
+2181	BOŠKOVIČOVÁ Klementína		0	635,640,643,932,1308,1327,1668,1731,1732
+2181	BOŠKOVIČOVÁ Mária r. Eliašová		0	1731,1732
+2181	Boškovičová Mária r. Petríková		0	2003
+2181	BRICHTOVÁ Markéta		0	1731,1732,1808
+2181	BRICHTOVÁ Martina r. Jurovichová		0	1811
+2181	BULDIŽÁROVÁ Terézia r. Váleková		0	1812
+2181	CABÁKOVÁ Mária r. Kapsová		0	1731,1732
+2181	CEJCHANOVÁ Františka r. Salayová		0	1705
+2181	CIBULKOVÁ Mária r. Ribárová		0	957,1199
+2181	CÍFERSKÁ Agneša		0	2191
+2181	CÍFERSKÁ Katarína		0	2191
+2181	CÍFERSKÁ Mária r. Mikulášovýchová		0	2191
+2181	CÍFERSKÁ Mária r. Václavová		0	2227
+2181	CÍFERSKÁ Mária r. Zajíčeková		0	572,638,704,2102
+2181	Cíferská Štefánia r. Šimeková		0	1731,1732
+2181	CÍFERSKÝ Štefan		0	2191
+2181	CÍFERSKÝ Štefan	a	0	2191
+2181	CSAVENOVÁ Štefánia r. Roszkopfová		0	1780
+2181	CVEČKOVÁ Rozália r. Masarovičová		0	704,1372
+2181	Černanská Agneša		0	2067
+2181	Čerňanská Agneša r. Šimunová		0	588,722,1638,1731,1732
+2181	Čerňanská Mária r. Hiková		0	631,632,1849
+2181	Černanský Emil		0	1731,1732
+2181	Černanský František		0	588,722,1638,1676,1731,1732
+2181	Černanský František	a	0	2093
+2181	Čerňanský Ján		0	1638,1676,1731,1732
+2181	Čerňanský Ladislav	manž. Mária, r. Živicová	0	1731,1732
+2181	ČERNANSKÝ Lenhard		0	588,722,1638,1676,1731,1732
+2181	Čerňanský Vendel		0	75
+2181	Čulen Emil	u	0	1837
+2181	ČULEN Emil	s	0	551,554,622,691,692,693,781,790,793,794,795,796,1559,1731,1732,2345,2398
+2181	ČULEN Lukáč	k	0	551,554,622,691,692,693,781,790,793,794,795,796,1731,1732
+2181	ČULEN Martin	g	0	692
+2181	ČULEN Martin	mal	0	622
+2181	Čulen Štefan	manž. Rozália, r. Petríková	0	1731,1732
+2181	ČULEN Štefan	ak	0	794
+2181	ČULEN Štefan	al	0	789
+2181	ČULEN Štefan	am	0	789
+2181	ČULEN Štefan	mal	0	551,554,622,691,692,693,781,1559,1731,1732,2345,2398
+2181	ČULEN Štefan	ml	0	790,793,794,795,796,1731,1732
+2181	ČULEN Teofil	j	0	551,554,622,691,692,693,781,790,793,794,795,796,1559,1731,1732,2345,2398
+2181	Čulenová Amália r. Beňová	manž. Alojz	0	1731,1732
+2181	ČULENOVÁ Anna r. Zaičková		0	2103
+2181	ČULENOVÁ Jolana	c	0	551,554,622,691,692,693,781,1559,2345,2398
+2181	ČULENOVÁ Jolana	i	0	790,793,794,795,796
+2181	ČULENOVÁ Mária	s	0	551,554,622,691,692,693,781,790,793,794,795,796,1559,1731,1732,2345,2398
+2181	Čulenová Mária r. Čulenová		0	1731,1732
+2181	ČULENOVÁ Rozália	aa	0	622
+2181	ČULENOVÁ Rozália	Jablonové	0	551,554,691,692,693,781,790,793,794,795,796,1559,1731,1732,2345,2398
+2181	ČULENOVÁ Rozália	mal	0	551,554,622,691,692,693,781,1559,1731,1732,2345,2398
+2181	ČULENOVÁ Rozália r. Macejová		0	186,663,1672,1731,1732,1799,1840,1933,2006
+2181	ČULENOVÁ Veronika	i	0	551,554,622,691,692,693,781,790,793,794,795,796,1559,1731,1732,2345,2398
+2181	DAMBRIGOVÁ Juliana r. Jerigová		0	665,667
+2181	DANIHELOVÁ Anna r. Stenibrodová		0	1318
+2181	David Jozef	manž. Mária; manž. Mária	0	2247
+2181	DAVID Jozef	manž. Mária	0	856
+2181	Dávidová Jozef		0	2141

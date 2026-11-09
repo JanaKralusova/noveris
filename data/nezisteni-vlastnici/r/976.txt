@@ -1,0 +1,256 @@
+567	VALO KAROL		0	1867
+567	VALO Peter	od Vala Imricha	0	2972
+567	Valová Anna	r.Chudá,m.Karol,Drahovce 146	0	2859
+567	Valová Anna r. Chudá	m.Karol,Drahovce 146	0	2011,2821,2848,2849,2856,2857,2858,3158,4407
+567	Valová Anna r. Chudá, Drahovce, č. 146, PSČ dátum:, SR	m.Karol	0	2820
+567	VALOVÁ Vincencia r. Vlková		0	2593,2972,2996,3245
+567	Valovičová Pavlína	r.Maceková m.Ján	0	2859
+567	VALOVIČOVÁ Pavlína r. Maceková	m.Ján	0	2011,2820,2821,2848,2849,2856,2857,2858,4407
+567	VALOVIČOVÁ Pavlína r. Maceková	m.Ján; m.Ján	0	293
+567	Valovičová Štefánia r. Micháleková		0	1812
+567	VANČO Alojz	ž.Emera r.Trnková	0	3549
+567	Vančo Augustín		0	1011,1836,1837,1838
+567	Vančo Augustín	nezv.sur.Vinc.,Anna,Magda,Štefan,August	0	2011,2820,2821,2848,2849,2856,2857,2858,2859,3034,4407
+567	Vančo Gustáv		0	1836
+567	Vančo Gustáv	sur.Štefan,Gustáv	0	2011,2820,2821,2848,2849,2856,2857,2858,2859,4407
+567	VANČO Gustáv	ded.Štefan,Gustáv,Vincencia	0	2144
+567	Vančo Ján		0	2856,2857,2858,2859,4407
+567	Vančo Ján	čd.1046/1911	0	2011,2820,2821,2848,2849
+567	Vančo Ján	čd.3411/1902	0	2011,2820,2821,2848,2849
+567	Vančo Jozef		0	2856,2857,2858,2859,4407
+567	Vančo Jozef	čd.3412/1902	0	2011,2820,2821,2848,2849
+567	Vančo Štefan		0	1011,1836,1837,1838
+567	Vančo Štefan	mal	0	2856,2857,2858,2859,4407
+567	Vančo Štefan	mal. čd.3222/1915	0	2011,2820,2821,2848,2849
+567	Vančo Štefan	sur.Štefan,Gustáv,zomr.01.10.1928	0	2011,2144,2820,2821,2848,2849,2856,2857,2858,2859,3034,4407
+567	Vančo Štefan	ž.Katarína r.Varačková	0	2011,2820,2821,2848,2849,2856,2857,2858,2859,4407
+567	VANČO Teofil	čd.2020/1950	0	3520
+567	VANČOVÁ Emerencia r. Trnková		0	3549
+567	Vančová Emília r. Pavlovičová		0	2051
+567	VANČOVÁ Júlia	mal	0	2827
+567	VANČOVÁ Júlia	r.Miklová m.Imrich	0	3149
+567	VANČOVÁ Júlia	r.Varačková	0	3114
+567	VANČOVÁ Júlia r. Varačková		0	2828,2829
+567	Vančová Katarína	čd.3412/1902	0	2011,2820,2821,2848,2849
+567	Vančová Katarína	r.Varačková m.Štefan	0	2859
+567	VANČOVÁ Katarína		0	2011,2820,2821,2827,2828,2848,2849,2856,2857,2858,2859,4407
+567	VANČOVÁ Katarína r. Varačková	m.Štefan	0	989,2011,2820,2821,2848,2849,2856,2857,2858,4407
+567	Vančová Verona		0	2856,2857,2858,2859,4407
+567	Vančová Verona	čd.3411/1902	0	2011,2820,2821,2848,2849
+567	Vančová Viktoria r. Miklová	dátum úmrtia:20.03.1996	0	2821
+567	VANČOVÁ Viktoria r. Miklová	zomr.20.03.1996	0	2011,2820
+567	VANČOVÁ Vincencia	kúpa čd.3159/1929	0	241,968,1790,2747,2748,2749
+567	VANCHOVÁ Pavlína	r.Brezovská	0	3136
+567	VANCHOVÁ Pavlína r. Brezovská		0	2011,2792,2820,2821,2848,2849,2856,2857,2858,2859,4407
+567	Varačka Filip	čd.1663/1946	0	2011,2820,2821,2848,2849
+567	VARAČKA Filip		0	2011,2820,2821,2848,2849,2856,2857,2858,2859,4407
+567	VARAČKA Filip	čd.1456/1938	0	322,323,1771,1772,1773,1774
+567	VARAČKA Filip	zomr.05.07.2000	0	2935
+567	VARAČKA František	čd.1124/1932	0	3196
+567	VARAČKA František	čd.2383/1938	0	3538
+567	VARAČKA František	od Emerencie Varačkovej	0	1616,2137,2554,3278
+567	VARAČKA Izidor	ž.Františka r.Juricová	0	3208
+567	Varačka Ján		0	2856,2857,2858,2859,4407
+567	Varačka Ján	čd.1766/1925	0	2011,2820,2821,2848,2849
+567	Varačka Ján	čd.4415/1935	0	2011,2820,2821,2848,2849
+567	Varačka Ján	ž.Agata	0	2821
+567	Varačka Ján	ž.Emerencia r.Hnilková	0	2011,2820,2821,2848,2849,2856,2857,2858,2859,4407
+567	VARAČKA Ján	rd Dorota a Pavol	0	3242
+567	VARAČKA Ján	sur.Ján,Michal	0	3342
+567	VARAČKA Ján	ž.Anna r.Čapušková	0	1046,2011,2820,2821,2848,2849,2856,2857,2858,2859,4043,4407
+567	Varačka Jozef		0	2856,2857,2858,2859,4407
+567	Varačka Jozef	čd.1766/1925	0	2011,2820,2821,2848,2849
+567	Varačka Jozef	ded.Jozef,Michal,Ludmila,Amália,Paulína	0	2011,2820,2821,2848,2849,2856,2857,2858,2859,4407
+567	VARAČKA Jozef	čd.2459/1948	0	1771
+567	VARAČKA Jozef	m.Viera	0	2935
+567	VARAČKA Jozef	od Emerencie Varačkovej	0	1616,2137,2554,3278
+567	VARAČKA Jozef	ž.Mária r.Moravčíková,zomrel 24.02.2001	0	3161
+567	VARAČKA Jozef	ž.Sidonia r.Rusnáková	0	3559
+567	Varačka Karol		0	2222
+567	VARAČKA Karol	sur.Karol,Marian	0	3222
+567	VARAČKA Ľudovít		0	989,1343,1854,1855,4009,4010,4011
+567	Varačka Marián		0	2222
+567	Varačka Michal	ded.Jozef,Michal,Ludmila,Amália,Paulína	0	2011,2820,2821,2848,2849,2856,2857,2858,2859,4407
+567	VARAČKA Michal	čd.574/1908,čd.2409/1927	0	3268
+567	VARAČKA Michal	prv.zápis	0	3248
+567	VARAČKA Michal	ž.Bernardína r.Brezovská	0	3256
+567	VARAČKA Michal	ž.Magdaléna r.Vančová sur.Ján,Michal	0	3342
+567	VARAČKA Pavlína	sur.Štefan,Anton,Pavla,Veronika	0	2830,2852
+567	VARAČKA Peter	od Tomáša Varačku	0	989,1343,1877
+567	Varačka Štefan		0	2223,2350,2437,2856,2857,2858,2859,4407
+567	Varačka Štefan	čd.155/1918	0	2011,2820,2821,2848,2849
+567	Varačka Štefan	mal	0	2856,2857,2858,4407
+567	Varačka Štefan	mal.čd.7946/1907	0	2011,2820,2821,2848,2849,2859
+567	VARAČKA Štefan	m.Pavlína,r.Rapavá,Drahovce 145, zomrel 05.01.1995	0	3403
+567	VARAČKA Štefan	od Emerencie Varačkovej	0	3248
+567	VARAČKA Štefan	odh.18.8.1966,Madunice 28	0	3404
+567	VARAČKA Štefan	zomr.29.01.1963	0	2830,2831,2852
+567	VARAČKA Štefan	ž.Anna r.Karabová	0	875,1825,2269
+567	VARAČKA Teofil	Drahovce 421, zomrel 19.11.1968	0	3435
+567	VARAČKA Teofil	od Emerencie Varačkovej	0	1616,2137,2554,3278
+567	Varačka Tomáš		0	1838,2734,3060,3853,3854,4070
+567	VARAČKA Tomáš	m.Anna,r.Rusnáková,Drahovce 112, zomrel 12.11.1965	0	2833
+567	VARAČKA Tomáš	sur.Tomáš,Anna	0	2935
+567	VARAČKA Tomáš	ž.Johana r.Michaleková	0	3197
+567	VARAČKA Tomáš	ž.Júlia r.Spišáková,zomr.23.01.1977	0	3478
+567	VARAČKA Vendelín	čd.2398/1938	0	3547
+567	VARAČKA Vendelín	od Emerencie Varačkovej	0	1616,2137,2554,3278
+567	VARAČKA Vendelín	ž.Mária,Drahovce 366	0	3174
+567	VARAČKA Vendelín	ž.Štefánia	0	3415
+567	VARAČKA Vendelín	ž.Štefánia r.Sviteková	0	3222,3250,3272
+567	Varačková Alžbeta		0	265
+567	Varačková Amália	ded.Jozef,Michal,Ludmila,Amália,Paulína	0	2011,2820,2821,2848,2849,2856,2857,2858,2859,4407
+567	VARAČKOVÁ Angela r. Juricová	m.Izidor	0	2868
+567	Varačková Anna	r.Čapušková m.Ján	0	2859
+567	Varačková Anna	r.Rusnáková po Júlie Rusnákovej	0	2821,2857,2859
+567	VARAČKOVÁ Anna	od Emerencie Varačkovej	0	1616,2137,2554,3278
+567	VARAČKOVÁ Anna r. Čapušková	m.Ján	0	2011,2820,2821,2848,2849,2856,2857,2858,3246,4407
+567	Varačková Anna r. Rusnáková		0	1814,2913
+567	VARAČKOVÁ Anna r. Rusnáková	m.Tomáš,Drahovce 112, zomrela 08.06.1996	0	2833
+567	VARAČKOVÁ Anna r. Rusnáková	po Júlie Rusnákovej	0	2011,2081,2820,2848,2849,2856,2858,4407
+567	VARAČKOVÁ Anna r. Rusnáková	po Rafaelovi	0	2913
+567	VARAČKOVÁ Bernardína	r.Sčipáková,zomr.26.08.1983	0	2132,3942
+567	VARAČKOVÁ Bernardína r. Brezovská	zomr.27.02.1975	0	3429
+567	VARAČKOVÁ Eleonora r. Michálková		0	3281
+567	VARAČKOVÁ Emerencia	sur.Teofil,Emerencia,Jozefina,Peter	0	2616
+567	VARAČKOVÁ Filomena r. Rusnáková	zomr.18.12.2002	0	1685
+567	Varačková Františka	r.Juricová m.Izidor	0	2859
+567	VARAČKOVÁ Františka	nepl. od Jozefa Varačku čd.6314/1938	0	3427
+567	VARAČKOVÁ Františka r. Juricová	m.Izidor	0	2011,2820,2821,2848,2849,2856,2857,2858,4407
+567	VARAČKOVÁ Helena	od Vincenca Varačku	0	1343,1852,1854,1855,4009,4010,4011
+567	VARAČKOVÁ Helena	r.Dobrovolná,prídel 109,Drahovce 23	0	3005
+567	VARAČKOVÁ Helena r. Dobrovolná		0	3165
+567	VARAČKOVÁ Johana r. Micháleková		0	3197
+567	Varačková Johanna	r.Spálová m.Michal	0	2859
+567	VARAČKOVÁ Johanna r. Spálová	m.Michal	0	2011,2820,2821,2848,2849,2856,2857,2858,4407
+567	VARAČKOVÁ Jozefína	sur.Teofil,Emerencia,Jozefina,Peter	0	2616
+567	Varačková Jozefína r. Rusnáková, Drahovce, č. 50, SR		0	2935
+567	Varačková Jozefína r. Ščipáková, Drahovce, č. 50, SR		0	1616,2137,2554,2851,3135,3278,4449,4488
+567	VARAČKOVÁ Júlia		0	989,1343,1854,1855,4009,4010,4011
+567	VARAČKOVÁ Júlia	mal	0	1978,2448
+567	VARAČKOVÁ Júlia	mal.2	0	3079
+567	Varačková Katarína	r.Miklová m.Tomáš	0	2859
+567	VARAČKOVÁ Katarína	m.Tomáš č.152	0	2822
+567	VARAČKOVÁ Katarína	r.Karabová	0	3110
+567	VARAČKOVÁ Katarína	sur.Štefan,Katarína	0	2481
+567	Varačková Katarína r. Karabová		0	133,134,3870
+567	VARAČKOVÁ Katarína r. Miklová	m.Tomáš	0	2011,2820,2821,2848,2849,2856,2857,2858,4407
+567	VARAČKOVÁ Katarína r. Rusnáková		0	1885
+567	VARAČKOVÁ Katarína r. Rusnáková	m.Tomáš	0	1877,1886,1887,1888,1889
+567	VARAČKOVÁ Katarína r. Vančová	ž.Jozef	0	2829
+567	Varačková Ľudmila	ded.Jozef,Michal,Ludmila,Amália,Paulína	0	2011,2820,2821,2848,2849,2856,2857,2858,2859,4407
+567	VARAČKOVÁ Magdaléna r. Petrášová	m.Gašpar,Drahovce 139, zomrela 22.07.1979	0	3462
+567	Varačková Mária	r.Tabáková m.Ján	0	2859
+567	VARAČKOVÁ Mária r. Karabová		0	3174
+567	VARAČKOVÁ Mária r. Tabáková	m.Ján	0	2011,2820,2821,2848,2849,2856,2857,2858,4407
+567	VARAČKOVÁ Oršula	od Emerencie Varačkovej	0	1616,2137,2554,3278
+567	Varačková Paula		0	2350,2437,2856,2857,2858,2859,4407
+567	Varačková Paula	čd.155/1918	0	2011,2820,2821,2848,2849
+567	Varačková Paula	r.Vetríková m.Gašpar	0	2859
+567	VARAČKOVÁ Paula r. Vetríková	m.Gašpar	0	2011,2820,2821,2848,2849,2856,2857,2858,3221,4407
+567	Varačková Paulína	ded.Jozef,Michal,Ludmila,Amália,Paulína	0	2011,2820,2821,2848,2849,2856,2857,2858,2859,4407
+567	VARAČKOVÁ Pavlína	sur.Štefan,Anton,Pavla,Veronika; sur.Štefan,Anton,Pavla,Veronika	0	2831
+567	Varačková Štefánia		0	2856,2857,2858,2859,4407
+567	Varačková Štefánia	čd.1766/1925	0	2011,2820,2821,2848,2849
+567	VARAČKOVÁ Štefánia	ded.Štefánia,Ján	0	3133,3963,4477
+567	VARAČKOVÁ Štefánia	ded.Vendelín,.Štefánia	0	3411
+567	VARAČKOVÁ Štefánia	m.Vendelín	0	3415
+567	VARAČKOVÁ Štefánia r. Rusnáková		0	2167,2296
+567	VARAČKOVÁ Štefánia r. Sviteková	m.Vendelín	0	3334
+567	VARAČKOVÁ Tune r. Rusnáková	sur.Ján,Tuna,Gašp.,Mária,Šte	0	1028,1786,1813
+567	VARAČKOVÁ Tune r. Rusnáková	sur.Ján,Tuna,Gašp.,Mária,Šte; sur.Ján,Tuna,Gašp.,Mária,Šte	0	1025
+567	VARAČKOVÁ Uršula	r.Kremnická	0	3021
+567	VARAČKOVÁ Verona	čd.1456/1938	0	322,323,1771,1772,1773,1774
+567	VARAČKOVÁ Verona	m.Jozef	0	3427
+567	VARAČKOVÁ Verona r. Karabová	Drahovce 44	0	3404
+567	VARAČKOVÁ Verona r. Varačková	m.Izidor	0	3411
+567	Varačková Veronika		0	2350,2437,2856,2857,2858,2859,4407
+567	Varačková Veronika	čd.155/1918	0	2011,2820,2821,2848,2849
+567	VARAČKOVÁ Veronika	zomr.10.01.1998	0	3223
+567	VARAČKOVÁ Veronika	zomr.21.09.1955	0	2830,2831,2852
+567	Vargová Jarmila r. Chudá		0	2848,2856,4407
+567	VARGOVÁ Ľudmila	r.Karabová	0	3078
+567	VARGOVÁ Ľudmila r. Karabová		0	3522
+567	VÁVRA Jozef	ž.Veronika r.Bednárová	0	3330
+567	VÁVRA Peter	sur.Peter,Viktoria,Serafína	0	1569
+567	Vavrinec Ján		0	2856,2857,2858,2859,4407
+567	Vavrinec Ján	čd.2723/1916	0	2011,2820,2821,2848,2849,3077
+567	Vavrinec Jozef		0	2856,2857,2858,2859,4407
+567	Vavrinec Jozef	čd.2723/1916	0	2011,2820,2821,2848,2849
+567	Vavrinecová Valéria		0	2856,2857,2858,2859,4407
+567	Vavrinecová Valéria	čd.2723/1916	0	2011,2820,2821,2848,2849
+567	VAVRO Jozef	čd.1251/1943	0	3536
+567	VAVRO Jozef	čd.178/1943	0	3508
+567	Vávrová Anna	r.Trnková m.Jozef	0	2859
+567	VÁVROVÁ Anna r. Trnková	m.Jozef	0	775,2011,2820,2821,2848,2849,2856,2857,2858,4407
+567	Vavrová Matilda r. Benková		0	1696
+567	VEBRÍKOVÁ Paula r. Majerníková	m.Ján	0	196
+567	VENDLEK Jozef	sur.Jozef,Serafína	0	3285
+567	VERČÍKOVÁ Jozefína r. Štefanovičová	m.Vendelín	0	2080
+567	VETRÍKOVÁ Paula r. Majerníková		0	2011,2820,2821,2848,2849,2856,2857,2858,2859,4407
+567	VEVEROVÁ Štefánia r. Varačková	zomr.30.05.1976	0	2011,2820
+567	VIDIEČANOVÁ Karolína r. Pavdeková	m.Matej	0	2372
+567	VIDOVÁ Johanna	r.Kúdelová, vz.437/85,Cleveland Ohio USA	0	4040,4406
+567	VIDOVÁ Johanna r. Kúdelová	vz.437/85,Cleveland Ohio USA	0	1592,2316,4405
+567	VIDOVÁ Johanna r. Kúdelová	vz.437/85,Cleveland Ohio USA; vz.437/85,Cleveland Ohio USA	0	1142
+567	VLHO Michal	ž.Mária r.Michaliková	0	3593
+567	VLHOVÁ Mária r. Michalková	m.Michal	0	3593
+567	VLK Ján	ž.Mária r.Manáková	0	2836
+567	VLK Jarolím	ž.Agneša r.Trnáková	0	3556
+567	VLK Silvester	ž.Verona r.Bugárová	0	3148
+567	VLKOVÁ Agneša r. Trnáková	m.Jarolím	0	3556
+567	VLKOVÁ Anna	r.Koláriková m .Jozef	0	3016
+567	VLKOVÁ Filomena r. Chnapková	Ťapkové	0	3625
+567	VLKOVÁ Jozefina r. Petrášová		0	3477
+567	VLKOVÁ Katarína r. Surová	m.Peter, zomr.29.10.1951	0	2999
+567	Vlková Mária	r.Varačková m.Martin	0	2859
+567	VLKOVÁ Mária r. Varačková	m.Martin	0	2011,2820,2821,2848,2849,2856,2857,2858,4407
+567	VOJTKA Ján	ž.Emerencia r.Kopačová	0	2980
+567	WEISSOVÁ Helena		0	2899,3264
+567	WEISSOVÁ Irena r. Neumanová		0	3264
+567	WEISSOVÁ Šarlota		0	2899,3264
+567	WESLÁR Michal	od Frídy Weissovej	0	3264
+567	WETZLER Juraj	od Frídy Weissovej	0	3264
+567	Zentková Helena r. Lajchová		0	299,2011,2820,2821,2848,2849,2856,2857,2858,2859,3738,4407
+568	BAJTOŠ František		0	555
+568	BAJTOŠ Ján		0	554,555
+568	BAJTOŠ Jozef		0	57,555,637,647,918,931,945,953,959,966,971,1144,1166
+568	BAJTOŠ Štefan		0	57,637,647,918,931,945,953,959,966,971,1144,1166
+568	BAJTOŠOVÁ Anna		0	554
+568	BAJTOŠOVÁ Katarína r. Dvorčáková		0	57,647,918,1144
+568	BALOVÁ Katarína r. Stachoňová		0	695,745,749
+568	BARANOVÁ Mária r. Bizubová		1	609,630,645,676,678,765,994,995
+568	BAŠISTA Ján		0	627
+568	BAŠISTA Jozef		0	545,1103,1137,1165
+568	Bašista Martin		0	19,545,571,644,650,676,678,682,921,940,942,947,949,954,960,962,969,973,975,1005,1031,1032,1103,1137,1165,1168
+568	Bašista Martin r. Bašista		0	448
+568	Bašista Michal		0	19
+568	BAŠISTA Štefan		0	19,523,545,627,650,684,760,921,942,949,962,969,975,1005,1033,1041,1103,1137,1165
+568	Bašistová Anna r. Bašistová		0	679
+568	Bašistová Anna r. Bašistová	manžel Juraj	0	536,919
+568	BAŠISTOVÁ Anna r. Horvátová		0	575
+568	BAŠISTOVÁ Júlia r. Mrázová		0	679
+568	BAŠISTOVÁ Mária		0	19,523,623,676,678,914,1022,1242
+568	Bašistová Mária r. Bašistová		0	448
+568	Bednár Ján r. Bednár		0	489
+568	BEDNÁR Jozef		0	768
+568	BEDNÁR Štefan		0	768
+568	BEDNÁROVÁ Anna r. Vodžáková		0	759
+568	BENDZALA JOZEF		0	271,640,645,660,933,939,946,967,972,994,1167
+568	BENDŽALA Ján		0	531,645,994,1026
+568	BENDŽALA Michal		0	676,678
+568	BENDŽALA Štefan		0	646,922,934,941,948,955,961,968,974,1169
+568	BENDŽALA Štefan r. Bendžala		0	612
+568	BENDŽALOVÁ Anna r. Garčárová		0	649
+568	BENDŽALOVÁ Katarína		0	645,994
+568	BENDŽALOVÁ Katarína r. Bendžalová		0	660
+568	BENDŽALOVÁ Mária		0	637,931,945,953,959,966,971,1166
+568	BENDŽALOVÁ Mária r. Tomečková		0	640,643,646,657,676,678,927,933,934,939,941,946,948,955,961,967,968,972,974,1167,1169
+568	BINEK Jozef		0	670,700,703,706,1056,1079,1080,1081,1082,1083,1084,1085,1086,1087,1088,1089,1104,1149,1152,1153,1154,1155,1156,1158,1160,1161,1162,1163,1174,1181,1182,1184,1185,1186,1187,1188,1195,1196,1197,1198,1199,1200,1207,1208,1209,1220,1221,1222,1223,1224,1225,1228,1229,1230,1231,1232,1233,1255,1256,1258,1259,1260,1261,1262
+568	BIZUB Ján		0	616,631,632,765,1008,1009,1010,1011,1012
+568	Bizub Ján r. Bizub		0	93
+568	BIZUB Martin		0	632
+568	BIZUB Martin r. Bizub a Anna Bizubová r. Vodžáková		0	602
+568	BIZUB Štefan		0	765
+568	Bizub Štefan r. Bizub		0	93
+568	BIZUBOVÁ Alžbeta		0	765

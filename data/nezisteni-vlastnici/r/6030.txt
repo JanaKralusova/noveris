@@ -1,0 +1,256 @@
+3408	Tlkanec Michal	pk, po Adamovi	1	400
+3408	Tlkanec Štefan	pk	1	400
+3408	Valach Ján	pk	1	318
+3408	Valachová Katarína r. Valachová		1	318
+3408	Vondráčková Zuzana r. Škultétyová		1	205,313,325,380,537,540
+3408	Vrbianová Emília		1	396
+3408	Wagmann Abraham		1	137,141,145,146,173,174,179,185,188,189,464,526
+3408	Zajac Ján	pk, neb	1	318
+3408	Zajac Štefan	pk	1	318
+3408	Zelenková Irena r. Filová		1	134,137,138,139,141,142,143,145,146,171,172,178,179,181,184,185,186,187,188,189,227,231,234,237,241,337,439,464,526
+3408	Zrnek Adam	ml	1	153,154,253,288,538
+3408	Zrnek Adam	st	1	153,154,253,288,538
+3408	Zrnek Andrej	pk	1	153,154,253,288,538
+3408	Zrnek Ján		1	412
+3408	Zrnek Ján	Filo	1	158
+3408	Zrnek Ján	manž.Anna Malinová	1	134,227,231,439
+3408	Zrnek Ján	po Anne Zrnekovej r. Pavle	1	158
+3408	Zrnek Ján	po Ondrejovi Zrnekovi	1	158
+3408	Zrnek Ján	po Štefanovi	1	153,154,253,288,538
+3408	Zrnek Ján	st., ž. Zuza Belová, neb	1	153,154,168,247,248,249,250,251,252,254,257,261,262,266,271,272,275,283,284,310,360,372,379,397,474,475,476,477,478,479,480,481,482,483,485,486,539
+3408	Zrneková Anna	pk	1	153,154,158,253,288,301,302,303,304,305,434,463,538,544
+3408	Zrneková Anna r. Krchová	pk	1	202,203
+3408	Zrneková Anna r. Malinová	pk	1	134,227,231,439
+3408	Zrneková Anna r. Paulová	m.Ondrej, pk	1	305
+3408	Zrneková Anna r. Sečanská	pk	1	292,319,375,394,451,452,453,454,455,456
+3408	Zrneková Anna r. Škorcová	m. Michal, pk	1	303,305
+3408	Zrneková Katarína		1	158,301,302,304,434,463,544
+3408	Zrneková Mária	po Jánovi	1	131,132,134,227,231,439
+3408	Zrneková Mária r. Filová	pk	1	282
+3408	Zrneková Zuzana	pk	1	153,154,253,288,538
+3408	Zrneková Zuzana r. Filová		1	269
+3408	Zrneková Zuzana r. Sečanská		1	201,258,260,292,319,320,375,378,385,390,391,393,394,395,451,452,453,454,455,456,457,458,459,513
+3409	....		0	1322
+3409	Andrejčák Ján r. Andrejčák		0	730
+3409	Andrejčák Štefan r. Andrejčák	Kanada	0	1243
+3409	Andrejčák Štefan r. Andrejčák	ž.Anna r.Žulčáková	0	931,1242
+3409	Andrejčáková Verona r. Spišáková	nebohá	0	934,939
+3409	Balik Ján r. Balik	Olejnik syn Jozefa USA	0	728
+3409	Balik Juraj r. Balik	Olejnik syn Jozefa USA	0	728
+3409	Baník Juraj r. Baník		0	993
+3409	BARANKOVIČOVÁ Elena r. Mattová		0	958
+3409	Barankovičová Helena r. Mattová	m.Jozef	0	827,1151,1193,1403,1404
+3409	Bednáriková Mária r. Baníková		0	938
+3409	Bilec Ján r. Bilec	ž.Anna r.Behunová,Kudlovce	0	712
+3409	Bilecová Anna r. Behunová	m.Ján Kudlovce	0	712
+3409	Bobik Andrej r. Bobik	ž.Anna r.Geciová Kudlovce	0	720
+3409	Bobik Andrej r. Bobik	ž.Mária r.Hurňaková,Kudlovce	0	714
+3409	Bogdanová Anna r. Pavlisková	m.Pavel	0	1187,1431
+3409	Božko Andrej r. Božko	ž.Anna r.Kochánová	0	774
+3409	Božko Juraj r. Božko	ž.Zuzana r.Hudáková,Myslina	0	741
+3409	Božková Anna r. Kochánová	m.Andrej,Myslina	0	740
+3409	Božková Zuzana r. Hudáková	m.Juraj	0	741
+3409	Cerňaková Zuzana r. Siváková	m.Štefan,Kudlovce	0	707
+3409	Čabák Ján r. Čabák	ž.Zuzana Ružeková,Kudlovce	0	1216
+3409	Čabák Jozef r. Čabák	ž.Alžbeta Pekariková,Kudlovce	0	1216
+3409	Čakloš Jozef r. Čakloš	ž.Barbora r.Bodnárová	0	688
+3409	Čakloš Michal r. Čakloš	USA	0	688
+3409	Čaklošová Mária		0	688
+3409	Čaklošová Mária	USA; USA	0	688
+3409	Čaklošová Mária r. Čižmárová	USA	0	693
+3409	Čanovský Ján r. Čanovský	ž.Mária r.Kenderešová	0	692
+3409	Čenčariková Mária r. Lenartovičová	Michalovce	0	1088
+3409	Čižmár Albert r. Čižmár	vzdial	0	693
+3409	Čižmár Andrej r. Čižmár	ml.vzdial	0	693
+3409	Čižmár Jan r. Čižmár	vzdial	0	693
+3409	Čižmár Ján r. Čižmár	syn Jána Kudlovce	0	732
+3409	Čižmár Jozef r. Čižmár	vzdial	0	693
+3409	Čižmár Juraj r. Čižmár		0	693
+3409	Čižmár Michal r. Čižmár		0	693
+3409	Čižmár Štefan r. Čižmár	ž.Helena r.Halasová,Kudlovce	0	733
+3409	Čižmár Štefan r. Čižmár	ž.Mária r.Hadvabná,Kudlovce	0	698
+3409	Čižmárová Alžbeta	dcéra Štefana USA	0	702
+3409	Čižmarová Anna	dcéra Štefana USA	0	733
+3409	Čižmárová Berta	vzdial	0	693
+3409	Čižmarová Margareta	vzdial	0	693
+3409	Čižmarová Terézia	vzdial	0	693
+3409	Čižmárová Zuzana	dcéra Štefana USA	0	702
+3409	Čsl.štát Mnv	Závadka; Závadka	0	1336
+3409	Čurlej Jozef r. Čurlej		0	884
+3409	Čurlej Jozef r. Čurlej Pavlisko	ž.Helena r.Macenková	0	1262
+3409	Čurlej Štefan r. Čurlej	ž.Anna r.Kuľhová	0	666,1139,1262
+3409	Danko Ján r. Danko	ž.Agnesa r.Hrubovská	0	569,1251,1345,1346
+3409	Demková Mária r. Siváková	m.Ján,Kudlovce	0	707
+3409	DLUŽANINOVÁ Zuzana r. Radová		0	626,972
+3409	Dorošová Anna r. Rošková	vd. m.Ján,Kudlovce	0	692
+3409	Drongová Zuzana r. Pavlisková	m.Ján USA	0	1187,1431
+3409	DUNAJOVÁ Anna r. Mindová		0	661,890,970,1265
+3409	Dunajová Anna r. Pavlisková	USA	0	526,610,1173,1348,1349,1400,1414
+3409	Dupľaková Regina		0	997,1022
+3409	Ďurian Andrej r. Ďurian		0	1355
+3409	Ďurian Andrej r. Ďurian	č.s.121	0	599,635,680,1198
+3409	Ďurian Andrej r. Ďurian	č.s.121, ž. Filoména rod. Koreňová	0	1281
+3409	Ďurian Ján r. Ďurian	ž.Zuzana r.Hajduková	0	966,1199
+3409	Ďurisková Alžbeta r. Vasiľová	nebohá	0	1290
+3409	Dzurkovič Jozef r. Dzurkovič	USA	0	1010
+3409	Džatková Júlia r. Vožnová	nebohá	0	1310
+3409	Džmuraková Anna r. Chorvátová	vd.m.Jozef,Myslina	0	742
+3409	Ficeková Helena r. Čurlejová	nebohá	0	1177,1444
+3409	Findrej Juraj r. Findrej	Božko ž.Anna r.Karabinová	0	739
+3409	Findrejová Anna r. Karabinová	Božková m.Juraj	0	739
+3409	Firdová Apolonia r. Sakaliková		0	888,1323
+3409	Folenta Andrej r. Folenta	Stará Ľubovňa - zámok	0	1311
+3409	Folentová Alžbeta r. Miková	nebohá	0	1307
+3409	Folentová Anna r. Salanciová	nez.pobyt nar.8.1.1924	0	1292
+3409	Folentová Helena	nar.18.12.1965 Humenné	0	628,650,1257,1428
+3409	Gajdošová Helena r. Radová	vd.m.Ján	0	900,1181,1437
+3409	Gašparová Helena r. Štofejová	nebohá	0	1081
+3409	Guttová Katarina r. Čižmárová	vzdial	0	693
+3409	Hajduk Andrej r. Hajduk		0	1253,1260,1327
+3409	Hajduk Andrej r. Hajduk	nezl.syn Michala USA	0	953,1253
+3409	Hajduk Ján r. Hajduk	ml.USA	0	1143
+3409	Hajduk Ján r. Hajduk	st.ž.Anna r.Sakaľová	0	1143
+3409	Hajduk Ján r. Hajduk	USA	0	903,904,905,945,953
+3409	Hajduk Ján r. Hajduk	ž.Mária r.Asmoňdová	0	571,1145,1405
+3409	Hajduk Jozef r. Hajduk	USA	0	953,1143
+3409	Hajduk Jozef r. Hajduk	ž.Mária r.Hirjaková	0	1327
+3409	Hajduk Juraj r. Hajduk	ž.Helena r.Pavliková	0	624,1253,1327
+3409	Hajduk Juraj r. Hajduk	ž.Helena r.Pavlisková; ž.Helena r.Pavlisková	0	1183,1260
+3409	Hajduk Michal r. Hajduk	nezl	0	903,904,905,945,953
+3409	Hajduk Michal r. Hajduk	ž.Roza r.Jonová	0	624,1183,1260,1327
+3409	Hajduk Michal r. Hajduk	ž.Terézia r.Augustínová	0	1143
+3409	HAJDUKOVÁ Alžbeta	USA	0	903,904,905,945
+3409	Hajduková Anna		0	903,904,905
+3409	Hajduková Anna r. Sakaliková	vd	0	945
+3409	Hajduková Anna r. Sakalová	USA	0	903,904,905,945
+3409	HAJDUKOVÁ Elena r. Pavlisková		0	974
+3409	Hajduková Helena r. Pavlisková	nez.pobyt	0	1089
+3409	HAJDUKOVÁ Mária	USA	0	903,904,905,945,949
+3409	Hajduková Zuzana r. Hajduková	vdova m.Jozef	0	577,870,953,1143,1204
+3409	Halasová Mária r. Balík-olejníková	USA	0	728
+3409	Harakaľová Anna r. Behunová	m.Jozef	0	631
+3409	Harvan Michal r. Harvan	ž.Mária r.Lešková,Kudlovce	0	705
+3409	Harvan Štefan r. Harvan	ž.Anna r.Kucanová	0	724
+3409	Harvanová Anna r. Kucanová	m.Štefan,Kudlovce	0	724,726
+3409	Harvanová Mária r. Lešková	m.Michal,Kudlovce	0	705
+3409	Hirják Ján r. Hirják		0	691
+3409	Hirjaková Mária r. Radová	m.Ján	0	900,1181,1437
+3409	Horný Jozef r. Horný	mal.nebohý	0	923,947
+3409	Hosová Anna r. Hajduková	m.Andrej	0	975
+3409	Hrubovčáková Mária r. Pavlisková	m.Štefan	0	796
+3409	Hrubovská Agnesa	mal. dcéra Jána	0	761,815,892,1130,1191
+3409	Hrubovská Anna	Husárová USA	0	1105,1159,1196,1396
+3409	Hrubovská Anna r. Kucanová	m.Ján	0	1254
+3409	Hrubovská Apolonia r. Macenková	m.Jozef	0	513
+3409	HRUBOVSKÁ Jolana	mal	0	948
+3409	Hrubovská Mária	dcéra Andreja	0	1117,1254
+3409	HRUBOVSKÁ Mária		0	767,1251
+3409	HRUBOVSKÁ Mária	mal	0	892,1117,1130,1254
+3409	Hrubovská Mária r. Mindová	vd. m. Ján	0	1442
+3409	Hrubovská Mária r. Mindová	vd. m.Ján	0	954,1153,1395,1409
+3409	Hrubovská Mária r. Sninčáková	m.Michal	0	1171
+3409	Hrubovská Mária r. Sninčáková	manž. Michal	0	1210
+3409	Hrubovská Verona	mal. Košice dcéra Jána	0	761,815,816,892,1117,1130,1191,1254
+3409	Hrubovský Jan r. Hrubovský	nezvestný	0	1133,1198,1199,1254
+3409	Hrubovský Ján r. Hrubovský	Husár USA	0	889,967,1105,1159,1196,1396
+3409	Hrubovský Ján r. Hrubovský	nezvestný; nezvestný	0	1355
+3409	Hrubovský Ján r. Hrubovský	ž.Anna r.Kucanová,zom.9.2.1977	0	1254
+3409	Hrubovský Jozef r. Hrubovský	nar.6.2.1919	0	571,772,1147,1405,1407,1408
+3409	Hrubovský Jozef r. Hrubovský	ž. Zuzana r.Hajduková	0	957
+3409	Hrubovský Jozef r. Hrubovský	ž.Apolonia r.Macenková	0	513,1185
+3409	Hrubovský Juraj r. Hrubovský	syn Andreja	0	1254
+3409	Hrubovský Pavol r. Hrubovský		0	625
+3409	HUDÁKOVÁ Anna r. Pavlisková		0	960
+3409	Hudáková Anna r. Spišáková	nebohá	0	933
+3409	Husárová Alžbeta r. Kobuláriková	m.Štefan	0	1279
+3409	Chorvatová Anna r. Siváková	m.Ján,Kudlovce	0	707
+3409	Jablonská Mária r. Radová		0	626,827,1403
+3409	Jablonská Mária r. Radová	Myslina	0	958,972
+3409	Jacina Miroslav r. Jacina		0	987
+3409	JELČÁKOVÁ Zuzana r. Mattová		0	958
+3409	Jrd Háj r. Jrd	Brekov	0	1200,1398,1412,1416
+3409	Kamer Július r. Kamer	ž.Anna r.Weisová	0	880
+3409	Kammerová Anna r. Weisová		0	880,896
+3409	Kasaničová Mária r. Meričková	vd	0	513
+3409	Kašková Helena r. Kováčová	nebohá	0	1066
+3409	Kicošová Helena r. Mindová		0	686,890,970,1265
+3409	Kislanová Anna r. Siváková	nebohá	0	1287
+3409	Kobulárik Jozef r. Kobulárik	ž.Zuzana r.Hirjáková	0	1279
+3409	Kobulárik Michal r. Kobulárik	syn Michala USA	0	1279
+3409	Kocka Ján r. Kocka	ž.Alžbeta r.Hrubovská Husárová	0	1258
+3409	Kochma Juraj r. Kochma	ž.Mária r.Štofejová	0	745
+3409	Kochmová Mária r. Štofejová	m.Juraj	0	745
+3409	Kochmová Verona r. Sláviková	Prachatice	0	881
+3409	Kolesárová Anna r. Balík-olejníková	USA	0	728
+3409	Komárová Anna r. Sotáková	nebohá	0	1030
+3409	Koreň Ján r. Koreň	ž.Elena r.Sninčáková	0	953
+3409	Koreň Ján r. Koreň	ž.Mária r.Meričková	0	956
+3409	Koreň Ján r. Koreň	ž.Zuzana r.Miková USA	0	1222
+3409	Koreň Michal r. Koreň	ž.Mária r.Šuláková	0	953,1274
+3409	Kováč Ján r. Kováč	nebohý	0	1057
+3409	Kováč Ján r. Kováč	syn Jozefa Sotáka nebohý	0	1092
+3409	Kováč Ján r. Kováč	ž.Anna r.Sopková	0	1023
+3409	Kováč Pavol r. Kováč	mal.syn Andreja Sotáka	0	1092
+3409	KOVÁČOVÁ Helena	dcéra Michala nebohá	0	1023
+3409	Kovačová Helena r. Mydlová		0	1057
+3409	Kuľhová Anna r. Hudáková	nebohá	0	936
+3409	Kunaš Pavol r. Kunaš	nar.1.12.1919	0	734
+3409	Kunašová Anna r. Meričková		0	1163
+3409	Kusiová Mária r. Sotáková	nebohá	0	1030
+3409	Kuzmová Anna r. Hajduková	m.Jozef	0	577,870,949
+3409	Kyselasová Anna r. Čižmárová		0	693
+3409	Ladičkovská Agnesa	nar.27.12.1916 nebohá	0	929
+3409	Ladičkovská Mária r. Spišáková	vd	0	923
+3409	Laudová Anna r. Čižmárová	m.Andrej,Kudlovce	0	689
+3409	Lazuková Zuzana r. Balík-olejníková	m.Gregor,Kudlovce	0	728
+3409	Lenčišová Zuzana r. Kucanová	m.Štefan Kudlovce	0	725
+3409	Lešňaková Mária r. Babjaková	m.Ján Kudlovce	0	706
+3409	Macenková Helena r. Meričková		0	1185
+3409	Macková Anna r. Čurlejová	m.Juraj	0	886,1262
+3409	Maďar Andrej r. Maďar	ž.Mária r.Sninčáková	0	960
+3409	Maďarová Zuzana r. Hrubovská	Husárová m.Michal	0	889,967
+3409	Marcinko Martin r. Marcinko	syn Ondreja Kudlovce	0	709
+3409	Marcinko Michal r. Marcinko	ž.Anna r.Fedorišková,Kudlovce	0	709
+3409	Marcinko Štefan r. Marcinko	ž.Mária r.Pišková,Kudlovce	0	723
+3409	Marcinková Mária	nezl. dcéra Ondreja	0	709
+3409	Marcinová Anna r. Hrubovská	Husárová	0	889,967
+3409	Matisová Anna r. Čanovská	m.Michal,Kudlovce	0	692
+3409	Matta Andrej r. Matta		0	1123,1432
+3409	Matta Andrej r. Matta	ž.Anna r.Spišáková	0	860,965,1123,1432
+3409	Matta Andrej r. Matta	ž.Mária r.Radová	0	958
+3409	Matta Andrej r. Matta	ž.Mária r.Štefaniková	0	632,860
+3409	Matta Ján r. Matta		0	632,860,1105,1123,1159,1396,1432
+3409	Matta Ján r. Matta	syn Andreja	0	860,1123,1432
+3409	Matta Ján r. Matta	ž.Elena r.Maďarová	0	965
+3409	Matta Ján r. Matta	ž.Helena r.Maďarová; ž.Helena r.Maďarová	0	548
+3409	Matta Juraj r. Matta		0	965
+3409	Matta Juraj r. Matta	Pavlisko	0	572,602,1420,1441
+3409	Matta Juraj r. Matta	syn Andreja	0	860,1123,1432
+3409	Matta Juraj r. Matta	vzdial	0	632,860,1123,1432
+3409	Matta Juraj r. Matta	ž.Agneša r.Kufelová	0	669
+3409	Matta Juraj r. Matta Pavlisko	ž.Pavlina r.Radová	0	895,1149,1375,1421
+3409	Matta Michal r. Matta		0	958,965
+3409	Matta Michal r. Matta	syn Jozefa	0	827,1151,1193,1403,1404
+3409	Matto Jozef r. Matto	Pavlisko ž.Mária r.Hrehová	0	1227,1275
+3409	Mattová Alžbeta	nezl.dcéra Jozefa	0	1141
+3409	Mattová Anna r. Kelečová	vd. m.Jozef	0	780
+3409	Mattová Anna r. Spišáková		0	1123,1432
+3409	Mattová Anna r. Spišáková	m.Andrej	0	860
+3409	Mattová Helena	dcéra Jozefa	0	1261
+3409	Mattová Helena r. Maďarová		0	1105
+3409	Mattová Helena r. Mattová	Pavlisková	0	602
+3409	Mattová Pavlina	nezl.dcéra Jozefa	0	1141
+3409	Mattová Pavlina r. Radová		0	626,800,802,1155
+3409	Mattová Zuzana r. Sivá	m.Jozef	0	728
+3409	Mažová Pavlína r. Radová		0	1264,1269
+3409	Mergešová Alžbeta r. Sakaliková		0	687
+3409	Meričko Ján r. Meričko	USA	0	1256
+3409	Meričko Ján r. Meričko	ž.Mária r.Grecová	0	1231,1252
+3409	Meričko Ján r. Meričko	ž.Mária r.Miková	0	826,827,1403
+3409	Meričko Jozef r. Meričko	mal	0	768
+3409	Meričko Jozef r. Meričko	ž.Anna r.Strajňaková	0	777,1131
+3409	Meričko Michal r. Meričko	ž.Mária r.Hajduková	0	527,620,765,798
+3409	Meričko Michal r. Meričko	ž.Mária r.Tomašková	0	1220
+3409	Meričko Pavel r. Meričko		0	950
+3409	Meričko Pavol r. Meričko	nebohý	0	629
+3409	Meričková Helena		0	617,1276

@@ -1,0 +1,256 @@
+1906	Vida Jozef, Szolnoki hegy 32, Kecskemét, MR		0	357,358,359,367,887,1001,1201
+1906	Vida Karol		0	357,358,359,367,437,887,941,957,1001,1057,1164,1201
+1906	Vida slabom. František		0	957,1164
+1906	Vida Štefan		1	220,357,358,359,367,390,432,437,451,630,727,887,941,957,1001,1019,1057,1164,1196,1201
+1906	Vidaová Anna malol.		1	474
+1906	Vidaová Anna r. Écsiová		0	357,358,367,437,887,941,1001,1057,1201
+1906	Vidaová Borbála		1	390,1019,1196
+1906	Vidaová Elena		1	584
+1906	Vidaová Elena malol.		1	474
+1906	Vidaová Helena r. Sebőová		0	357,367,887,1001,1201
+1906	Vidaová Irena malol.		1	474
+1906	Vidaová Jolana		1	586,601
+1906	Vidaová Jolana malol.		1	790
+1906	Vidaová Justina r. Csicsayová		0	437,941,957,1057,1164
+1906	Vidaová Karolina r. Lendvayová		0	357,887,1001,1201
+1906	Vidaová Katarína r. Lendvayová		0	358,359,367,437,941,957,1057,1164
+1906	Vidaová Katarína r.Lendvay		1	103
+1906	Vidaová Kornélia		1	586,601
+1906	Vidaová Kornélia malol.		1	790
+1906	Vidaová Mária		1	390,1019,1196
+1906	Vidaová vd. Anna r. Écsiová		0	957,1164
+1906	Vidová Katarína		1	565
+1906	Vígh Jozef		1	722,723
+1906	Vígh Karol		0	357,359,367,887,941,1001,1201
+1906	Vígh Karola		0	358
+1906	Vígh ml. Karol		0	437,957,1057,1164
+1906	Víghová Helena r.Márková		1	564,688
+1906	Víghová Katarína r. Csicsayová		1	358,359,437,668,941,957,1057,1164
+1906	Víghová Katarína r. Sebőová		1	844
+1906	Víghová Mária r. Mészárosová		0	955
+1906	Weiszová Irma		1	417
+1906	Weiszová Irma r. Polláková		1	417,459
+1906	Weiszová Róza r. Polláková		1	417
+1906	Weiszová Rozália		1	417
+1906	Weiszová Rozália r. Polláková		1	459
+1906	Wimmer Ágoston		0	358,437,957,1057,1164
+1906	Wimmer Augustín		0	357,359,367,887,941,1001,1201
+1906	Wimmer Eugen		0	357,358,359,367,437,887,941,957,1001,1057,1164,1201
+1906	Wimmer Jozef		0	357,358,359,367,437,887,941,957,1001,1057,1164,1201
+1906	Wimmer Michal		0	357,359,367,887,1001,1201
+1906	Wimmer Ondrej		1	570
+1906	Wimmerová Mária r. Béliová		0	437,941,957,1057,1164
+1906	Wimmerová Szabóová r. Terézia		0	359
+1906	Wimmerová Terézia r. Szabóová		0	357,358,359,367,437,887,941,957,1001,1057,1164,1201
+1907	BEŇAČKA Ľudovít, SR	t.č.v Argentíne	1	596
+1907	BEŇAČKA Michal, SR	ž. Mária	1	260
+1907	BEŇAČKOVÁ Mária, SR		1	260
+1907	BRYNDZOVÁ Terézia	r. Kereková	1	535,624
+1907	ČAHOJOVÁ Mária	r. Kereková	1	624
+1907	ČAHOJOVÁ Mária r. Kereková		1	535
+1907	DENGO Jozef		1	538
+1907	DENGOVÁ Mária r. Hudecová, SR		1	498,501
+1907	DRÁŽOVSKÝ Michal		1	521
+1907	DRNZÍK Ján, SR	ž. Paulína r. Ištvánová	1	260,643
+1907	DRNZÍKOVÁ Paulína r. Ištvánová, SR		1	260,643
+1907	ĎURIŠ Ján, SR	t.č.v Amerike	1	597
+1907	ĎURIŠ Pavol, Chynorany, SR	učiteľ	1	597
+1907	FÁBIK Ján, 958 53, Skačany, č. 180, SR		0	597
+1907	FÁBIK Jozef, 958 53, Skačany, č. 217, SR		0	597
+1907	FÁBIK Juraj	nezvestný	0	597
+1907	FÁBIK Valentín, Prievidza, SR		1	597
+1907	FILIZITTIOVÁ Helena r. Hudecová, SR		1	498,501
+1907	GAJDOŠOVÁ Jozefína		1	291
+1907	HOLÁ Gizela	r. Dengová	1	538
+1907	HOLÁ Gizela r. Dengová		1	606
+1907	HORNIAK Jozef, SR	ž. Julianna r. Pilátová	1	455
+1907	HUDEC Anton, SR		1	498,501
+1907	HUDEC František, SR		1	501
+1907	HUDEC Jozef	maloletý	1	498
+1907	HUDEC Jozef, SR	maloletý	1	501
+1907	HUDEC Pavel, 958 53, Skačany, č. 172, SR		0	595
+1907	HUDECOVÁ Helena, SR	maloletá	1	501
+1907	HUDECOVÁ Mária r. Ďurišová, Topoľčany, SR		1	597
+1907	HUDECOVÁ Mária r. Stachová, SR		1	53
+1907	HUDECOVÁ Mária, SR	maloletá	1	501
+1907	HUSÁROVÁ Jozefína	r. Kováčová	1	529
+1907	IŠTVÁNOVÁ Mária	maloletá	1	640
+1907	IŠTVÁNOVÁ Mária r. Horniaková, SR		1	290
+1907	KEREK Ján	ml	1	535,624,625
+1907	KEREK Jozef		1	535,624
+1907	KLIŽANOVÁ Františka r. Ďurišová, Skačany, SR		1	597
+1907	KMEŤ Ján, SR	ž. Anna r. Bimová	1	632
+1907	KMEŤOVÁ Anna r. Bimová, SR		1	632
+1907	KOHÚT Štefan		1	622
+1907	KOHÚT Štefan	maloletý	1	618
+1907	KOHÚTOVÁ Mária		1	622,623
+1907	KOHÚTOVÁ Štefánia	maloletá	1	607,618
+1907	KOVÁČ Ivan	maloletý	1	529
+1907	KOVÁČOVÁ Alžbeta		1	529,539,619
+1907	KOVALSKÁ Mária r. Hudecová, SR		1	498,501
+1907	LEGÉŇOVÁ Mária	r. Jančichová	1	573
+1907	LUKAČOVIČ Emil	maloletý	1	521
+1907	LUKAČOVIČ Jozef	maloletý	1	521
+1907	LUKAČOVIČ Michal, SR	ž. Jozefína r. Ďurčanská	1	594
+1907	LUKAČOVIČOVÁ Mária	maloletá	1	521
+1907	MANINOVÁ Etela	r. Orságová	1	566
+1907	MAŠLANYI Jozef		1	454,517,841
+1907	MAŠLANYIOVÁ Mária r. Hroneková		1	605
+1907	MOZOLOVÁ Mária r. Švecová, 958 53, Skačany, č. 65, SR	vdova	0	612
+1907	MRÁZIK Ján		1	607,618
+1907	MRÁZIK Ján	slobodný	1	618
+1907	MRÁZIK Jozef		1	607,618
+1907	MYŠIAK Rudolf		1	290
+1907	NANINOVÁ Etela r. Országhová		1	575
+1907	NEŠTAKOVÁ Cecília r. Hudecová, SR		1	498,501
+1907	OBERT Rudolf, SR	ž. Anna r. Hoferiková	1	631
+1907	ORSZÁGH Alojz	maloletý	1	565
+1907	ORSZÁGH Juraj		1	559
+1907	ORSZÁGH Štefan, SR		1	543,681
+1907	ORSZÁGHOVÁ Júlia r. Polaniová, SR		1	603
+1907	ORSZÁGHOVÁ Margita	maloletá	1	565
+1907	PEŠKO Jozef, skačany, č. 258, SR	ž.Anna r.Gahírová	0	579
+1907	PEŠKOVÁ Anna r. Gahírová	m.Jozef	0	579
+1907	PILÁT Jozef, SR	ž. Eleonóra r. Griačová	1	638,639
+1907	PILÁT Ľudovít, SR	ž. Františka r. Olejová	1	260,644
+1907	PILÁT Michal, SR	ž. Mária r. Ďurišová	1	312
+1907	PILÁT Michal, SR	ž. Paulína r. Pilátová	1	641
+1907	PILÁT Peter, SR	ž. Madgaléna r. Stručková	1	642
+1907	PILÁTOVÁ Eleonóra r. Griačová, SR		1	638
+1907	PILÁTOVÁ Františka	r. Olejová	1	260,644
+1907	PILÁTOVÁ Františka r. Olejová		1	567
+1907	PILÁTOVÁ Magdaléna r. Stručková, SR		1	642
+1907	PILÁTOVÁ Paulína r. Pilátová, SR		1	641
+1907	PODMANÍKOVÁ Gizela	r. Raučinová	1	487
+1907	PODMANÍKOVÁ Gizela r. Raučinová		1	104,846
+1907	PODMANÍKOVÁ Gizela r. Raučinová, SR		1	494
+1907	RAUČINA Jozef		1	104,487,494,846
+1907	RAUČINA Vojtech		1	104,487,494,846
+1907	RAUČINOVÁ Anna r. Ďurišová, SR		1	446
+1907	RAUČINOVÁ Paulína, SR		1	602
+1907	SÁMELOVÁ Terézie r. Struhárová, 958 42, Brodzany, č. 106, SR		0	597
+1907	STACHO Štefan, SR	ž. Mária r. Germüthová	1	260
+1907	STACHOVÁ Mária	r. Germüthová, zomr. 7.12.1980	1	260
+1907	STRUHÁR Ján, SR		1	554
+1907	STRUHÁR Jozef		1	542,549,554
+1907	STRUHÁR Jozef	ž. Anna r. Menšíková	1	551
+1907	STRUHÁR Jozef, 958 04, Návojovce, č. 15, SR		0	597
+1907	STRUHÁR Jozef, SR		1	309,310,582
+1907	STRUHÁR Ladislav	maloletý	1	616
+1907	STRUHÁR Laurinec		1	541
+1907	STRUHÁR Vincent, SR		1	260
+1907	STRUHÁROVÁ Agneša r. Králová, SR		1	600
+1907	STRUHÁROVÁ Anna r. Menšíková	m. Jozef	1	551
+1907	STRUHÁROVÁ Mária r. Legényiová, SR		1	554
+1907	STRUHÁROVÁ Mária, SR		1	582
+1907	STRUHÁROVÁ Štefánia, SR		1	552
+1907	ŠEVČÍK Viktor	zomr. 05.08.1992	1	628
+1907	ŠTEFKEJE Ján, SR	ž. Eleonóra r. Mosnová	1	623
+1907	ŠVEC Jozef, Skačany, SR	vdovec	1	614
+1907	TILEŠOVÁ Gizela r. Bratkovičová	zomrela 12.04.1971	1	571
+1907	ZÁBOJNÍK Jozef		1	242,243,244,245,247,249,250,251,330,473,484,485,544,719,720,723,724
+1907	ZÁBOJNÍK Michal	manž. Margita r. Benešová	0	686
+1907	ZÁBOJNÍKOVÁ Amália	r. Puturuczová, m.Jozef, zomr.27.7.1973	1	242,249,484
+1907	ZÁBOJNÍKOVÁ Amália r. Puturuczová, SR	m.Jozef, zomr	0	544,724
+1907	ZÁBOJNÍKOVÁ Mária r. Struhárová, 958 04, Navojovce, č. 64, SR		0	597
+1907	ZUBATÝ Jakub		1	539
+1907	ZUZULOVÁ Magdaléna r. Fábiková	vdova	0	597
+1908			1	3217
+1908	ALBUSZ Ambroz, SK		0	853
+1908	ALBUSZOVÁ Mária, SK		0	853
+1908	EIBEL Ľudovít, SK		0	853
+1908	FILOVÁ Filoména r. Zuzáková, SK		0	3235
+1908	FORROVÁ Júlia r. Knézelová, SK		0	3290
+1908	GODÁNYOVÁ Anna r. Baková, SK		0	3266
+1908	GODÁNYOVÁ Anna r. Klausnerová, SK		0	3267
+1908	GÜLCHEROVÁ Berta, SK		0	853
+1908	HLAVÁCSOVÁ Mária r. Klimovszká, SK		0	48
+1908	HOLUB Michal, SK		0	44,3249
+1908	HORVÁTH Ján, SK		0	3292
+1908	CHARITON Joachym, SK		0	853
+1908	JALŠOVSKÁ Elsa, SK		0	3286
+1908	JALŠOVSKÁ Priska, SK		0	3286
+1908	JALŠOVSKÝ Arpád, SK		0	3286
+1908	JALŠOVSKÝ Jozef, SK		0	3286
+1908	JALŠOVSKÝ Štefan, SK		0	3286
+1908	JALŠOVSKÝ Vojtech, SK		0	3286
+1908	JÓZSOVÁ Margita, SK		0	3291
+1908	KAMENÁROVÁ Terézia r. Klastová, SK		0	3289
+1908	KIVAROTT Alexander, SK		0	44
+1908	KIVAROTT Michal, SK		0	44
+1908	KIVAROTTOVÁ Verona, SK		0	44
+1908	KLIMOVÁ Anežka r. Volfová, SK		0	853
+1908	KLIMOVSKÁ Agneša r. Žáčeková, SK		0	51
+1908	KOZMA Július, SK		0	853
+1908	KROFT GÁL Štefan, SK		0	853
+1908	KROFT GÁL Vojtech, SK		0	853
+1908	MADUDOVÁ Mária r. Jalšovská, SK		0	3286
+1908	MANDALIK Pavol, SK		0	44
+1908	MARCZELL Anton, SK		0	853
+1908	MARCZELL Elemír, SK		0	853
+1908	MÉSZÁROSOVÁ Ilona, SK		0	3265
+1908	MÉSZÁROSOVÁ Terézia, SK		0	3265
+1908	MOKOSOVÁ Terézia r. Klimovszká, SK		0	48
+1908	MRVA Ján, SK		0	44
+1908	MRVA Tomáš, SK		0	44
+1908	MRVOVÁ Magda, SK		0	44
+1908	MUCHA Ernest, SK		0	3282
+1908	PAVLÍK Štefan, SK		0	44
+1908	PAVLÍKOVÁ Karolina, SK		0	44
+1908	POPLUHÁR Ján, SK		0	44,3250
+1908	POPLUHÁR Michal, SK		0	44,3256
+1908	POPLUHÁR Vincent, SK		0	44,3251
+1908	POPLUHÁROVÁ Alžbeta, SK		0	44,3250
+1908	POPLUHÁROVÁ Anna r. Lukačovičová, SK		0	44
+1908	POPLUHÁROVÁ Anna, SK		0	44,3256
+1908	POPLUHÁROVÁ Mária, SK		0	44
+1908	PUSKÁSOVÁ Rozália r. Józsová, SK		0	3291
+1908	Rakická Anna r. Eliasová, Galanta, PSČ 924 01, SK		0	44
+1908	RAKICKÝ Anton, SK		0	3206
+1908	SEDLÁČEK Ján, SK		0	44
+1908	SEDLÁČKOVÁ Etela, SK		0	44
+1908	SCHÖNFELD Leopold, SK		0	44,3239
+1908	STRANOVSKÁ Katarína r. Popluhárová, SK		0	44,3236
+1908	SZABOVÁ Helena, SK		0	3265
+1908	ŠEVČÍK Ján, SK		0	44,73
+1908	ŠIPOŠOVÁ Terézia r. Jalšovská, SK		0	3286
+1908	ŠTÁTNY CUKROVARSKÝ PODNIK,KONCERN TRNAVA, 917 00 Trnava, SK		0	853,3233
+1908	TOMEČEK Jozef, SK		0	44,3241
+1908	TOMEČEK Štefan, SK		0	44,3253
+1908	TOMEČKOVÁ Alžbeta, SK		0	44
+1908	TOMEČKOVÁ Anna, SK		0	44,3241,3253
+1908	UHEROVÁ Júlia r. Józsová, SK		0	3288
+1908	ZÁRECKÝ Michal, SK		0	44
+1908	ZELINKA Jozef, SK		0	3273
+1908	ZELINKA Štefan, SK		0	44
+1908	ZSILLE Ľudovít, SK		0	853
+1908	ZUZÁKOVÁ Karolína r. Bohunická, SK		0	44,3259
+1908	ZUZÁKOVÁ Katarína r. Jurišová, SK		0	3235
+1908	ŽÁČEK Ján, SK		0	49,51
+1909	Balko Jozef	v Amerike	1	186
+1909	BALKO Jozef, SR	v Amerike	1	37,155
+1909	BARTKOVÁ Anna r. Bíziková, SR		1	717
+1909	BARTOŠ Andrej, SR	Kováč 1	1	474
+1909	BARTOŠ Jaroslav Vladimír, SR		1	474
+1909	BARTOŠ Jaroslav, SR	Polonec	1	474
+1909	BARTOŠ Jozef, SR		1	474
+1909	BARTOŠ Pavol, SR		1	474
+1909	BARTOŠ Vladimír, SR		1	474
+1909	BARTOŠOVÁ Magdaléna Mária, SR		1	474
+1909	BERNÁT Jozef, SR		1	474
+1909	BÍZIK Jozef, SR	obchodník v Trenčíne	1	717
+1909	Blaho Ľudovít	maloletý	1	972
+1909	Blahová Anna	maloletá	1	530,972
+1909	Blahová Elena	maloletá	1	530,972
+1909	Blahová Oľga	maloletá	1	972
+1909	Blahušiaková Mária	vd.r.Baranová muž Juraj	1	666
+1909	Bukovský Ján Andrej		1	36
+1909	BUKOVSKÝ Ján, SR		1	474
+1909	ČABUDA Ján, SR		1	474
+1909	ČABUDOVÁ Emília r. Obošlová, SR		1	474
+1909	ČERNÁKOVÁ Anna r. Poloncová, SR		1	474
+1909	ČILLO Pavel, SR	v Amerike	1	37,155,720
+1909	ČILLOVÁ Johana, SR	v Amerike	1	37,155,720
+1909	Dianiš Jozef, SR		1	601
+1909	DOLNÍKOVÁ Mária r. Augustínová, SR		1	474
+1909	DRDAJ Ján, SR	Horný	1	474

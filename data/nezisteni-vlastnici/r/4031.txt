@@ -1,0 +1,256 @@
+2282	Baník Ján r. Baník		1	1540,1561,1817,1843,1845,1851,1881,2325,2474,2750,3024,3094
+2282	Banik Lispán Štefan r. Banik Lispán		1	1879,1880,1881
+2282	Banik Mária		1	1768,2407,2408
+2282	Baník Mária	mal	1	1843,1851,2325
+2282	Baník Mária r. Baník	mal.; mal	1	2750,3094
+2282	Banik Ondrej r. Banik		1	2474
+2282	Banik Šimon r. Banik		1	1881,2474
+2282	Banik Štefan r. Banik		1	1768,1881,2194,2407,2408,2474
+2282	Baník Viktor		1	1920
+2282	Baník Viktor r. Baník		1	1431,1433,1438,1561,1638,1639,1641,1881,2105,2321,2474
+2282	Baník Viktor r. Baník	manž.Cecília r.Kováčová; manž.Cecília r.Kováčová	1	1559,2669,2825,2906,2922,2939
+2282	Baník Vilma	mal	1	1843,1851
+2282	Baník Vilma r. Baník	mal	1	2325
+2282	Baník Vilma r. Baník	mal.; mal	1	2750,3094
+2282	Baníková Alžbeta r. Kolsóvszká		1	2698
+2282	Baníková Alžbeta r. Kolsóvszki		1	1816
+2282	Baniková Anna r. Baniková	mal.; mal	1	2922,2926
+2282	Baníková Anna r. Stovcsik		1	1816
+2282	Baníková Anna r. Stovcsiková		1	2698
+2282	Baníková Cecília		1	1431,1433,1638,1639,1641
+2282	Baníková Cecília r. Kováčová		1	1920,2669,2825,2939
+2282	Baníková Františka		1	1682
+2282	Baníková Františka r. Baníková		1	2919
+2282	Baníková Františka r. Komorová		1	168,1481,1488,1496,1566,1631,2648,2857,3109
+2282	Baníková Františka r. Komorová	vd	1	1481,1566
+2282	Baniková Helena r. Katusáková	muž Ján; muž Ján	1	2805,2972
+2282	Baníková Johana		1	1540
+2282	Baníková Juliana		1	1880
+2282	Baníková Juliana r. Baníková		1	2933
+2282	Baníková Katarína		1	941,1540
+2282	Baníková Lucia	vyd. JaszanySPF	1	1540
+2282	Baniková Lucia r. Komorová		1	1530
+2282	Baníková Mária	mal	1	1561,1763,1767,1845
+2282	Baniková Mária r. Baniková	mal.; mal	1	2917
+2282	Baníková Mária r. Baníková		1	2842
+2282	Baniková Mária r. Červená		1	1833,2395,2805,2929
+2282	Baníková Mária r. Kováčová		1	2922
+2282	Baniková Vilma	mal	1	1561,1845
+2282	Baniková Vilma r. Baniková	mal.; mal	1	1559,2922,2926,3024
+2282	Banyík Anna r. Jaklovszká		1	1920
+2282	Banyik Apollónia r. Simkulyák		1	2324
+2282	Banyik František r. Banyik		1	1763
+2282	Banyik František r. Banyik	mal	1	1816
+2282	Banyik František r. Banyik	mal.; mal	1	2698
+2282	Banyik Ján r. Banyik		1	1742,1817,1915,2453,2722,3025
+2282	Banyik Johanna		1	2453
+2282	Banyik Jozef r. Banyik		1	1816,2698
+2282	Banyik Juliana		1	1882
+2282	Banyik Julianna	mal	1	1485
+2282	Banyik Juraj r. Banyik		1	1742,1767
+2282	Banyik Katarína		1	2453
+2282	Banyik Lispan Mária		1	1882
+2282	Banyik Lispan Štefan r. Banyik Lispan		1	1882,2633,2933
+2282	Banyik Mária		1	1767
+2282	Banyik Mária r. Hornáczki Troni		1	1465,1815,1818
+2282	Banyik Mária r. Hornaczki Trony		1	1818
+2282	Banyik Mária r. Hornyaczki Troni		1	1818
+2282	Banyik Mária r. Hornyáczki Trony		1	1465
+2282	Banyik Štefan r. Banyik		1	1742,1767,1816
+2282	Banyík Štefan r. Banyík	mal	1	1763
+2282	Banyiková Anna		1	1816
+2282	Banyiková Anna r. Banyiková		1	2698
+2282	Banyiková Františka		1	1489,1677
+2282	Banyíková Júliana		1	1879
+2282	Banyíková Katarína		1	1817
+2282	Banyíková Katarína r. Banyíková		1	1915,2722,3025
+2282	Banyíková Lucia	vyd. JaszanySPF	1	1817
+2282	Barna Katarina		1	1302,2351
+2282	Barnák Andrej	mal	1	2078
+2282	Barnák Andrej r. Barnák		1	1334,1335,1340,1341,1348,1524,1543,1545,1615,1870,1971,2126,2128,2572,2573,2946,2996
+2282	Barnák František r. Barnák		1	1987,1992,2308
+2282	Barnák Františka		1	1971
+2282	Barnák Imrich r. Barnák		1	2840
+2282	Barnák Ján r. Barnák		1	1543,1971
+2282	Barnák Ján r. Barnák	1; 1	1	2840
+2282	Barnák Katarína r. Jászány		0	2419
+2282	Barnák Mária		1	1870,1971,2126,2128
+2282	Barnák Mária	vyd. Icsan	1	1870
+2282	Barnák Mária	vyd. Vindt	1	1971
+2282	Barnák Mária r. Petrás		1	2308
+2282	Barnák Máte r. Barnák		1	2840,2909
+2282	Barnák Michal r. Barnák		1	1335,2128,2479,2909
+2282	Barnák Michal r. Barnák	1; ; 1	1	1341
+2282	Barnák Michal r. Barnák	1; 1	1	2711
+2282	Barnák Štefan r. Barnák		1	2840
+2282	Barnáková Anna	vyd. Katusák	1	2078
+2282	Barnáková Anna r. Hilyovszká		1	3026
+2282	Barnáková Františka r. Barnáková		1	1543
+2282	Barnáková Františka r. Jasaňová		0	2419
+2282	Barnáková Františka r. Petrášová		1	1398,1400,1401,2167
+2282	Barnáková Johana		1	1740
+2282	Barnáková Johanna r. Barnáková		1	2840,2909
+2282	Barnáková Mária		1	1524,2078
+2282	Barnáková Mária	vyd. Icsan	1	2078
+2282	Barnáková Mária r. Barnáková		1	1334,1335,1340,1341,1348,1385,1543,1545,1615,2572,2573,2946,2996
+2282	Barnáková Mária r. Barnáková	vdova; vdova	1	2840
+2282	Barnáková Mária r. Petrášová		1	1543
+2282	Belová Františka r. Windtová		1	2632
+2282	Beniková Jolana r. Jasaňová		1	2721,2752,3200
+2282	Benkeová Mária r. Vincová		1	420,2751,2843
+2282	Benko Alžbeta r. Huzsvár		1	1882
+2282	Benko Anna		1	1459
+2282	Benko Anna r. Benko		1	2913
+2282	Benko Anna r. Hegedüš		1	1702,1704,1705,1708,2892
+2282	Benko Bartolomej r. Benko		1	1485,1882,2633
+2282	Benko Cecília r. Katušák		1	1830,1833
+2282	Benko Cecilia r. Szopko		1	2128
+2282	Benko Dávid r. Benko		1	1312,1704,1705,1708,1709,2595,2597,2820
+2282	Benko Dávid r. Benko	1; 1	1	2892
+2282	Benko Fraňo r. Benko		1	2633
+2282	Benko František		1	2101
+2282	Benko František r. Benko		1	1701,1770,2063,2095,2098,2636
+2282	Benko František r. Benko	mal.; mal	1	2854
+2282	Benko Františka		1	1306,1310,1312,1705,1708,1709,1871
+2282	Benko Františka	mal	1	1704,1709,2115
+2282	Benko Františka r. Hiľovská		1	1726
+2282	Benko Františka r. Vincová		1	1699
+2282	Benko Františka r. Vincza		1	1696,1701,1702
+2282	Benko Gejza r. Benko		1	1360,1748,2633
+2282	Benko Géjza r. Benko	mal.; ; mal	1	1355
+2282	Benko Géjza r. Benko	mal.; mal	1	2864
+2282	Benko Géza r. Benko		1	1354
+2282	Benko Helena r. Hilovská		1	2866
+2282	Benko Helena r. Hilovský		1	1108
+2282	Benko Helena r. Hilyovszki		1	1800,1804
+2282	Benko Imrich r. Benko		1	2595
+2282	Benko Jakab r. Benko		1	1310
+2282	Benko Jakab r. Benko	mal	1	1313,2315
+2282	Benko Jakab r. Benko	mal.; mal	1	2571
+2282	Benko Jakub r. Benko	mal	1	1309
+2282	Benko Ján r. Benko		1	1306,1309,1310,1312,1313,1445,1446,1447,1459,1704,1705,1708,1709,2128,2315
+2282	Benko Ján r. Benko	1; 1	1	2598
+2282	Benko Ján r. Benko	3; 3	1	1454,2861,2914
+2282	Benko Ján r. Benko	mal	1	1704,1705,1709
+2282	Benko Ján r. Benko	manž.Cecília r.Szopková; manž.Cecília r.Szopková	1	2889
+2282	Benko Ján r. Benko	ml	1	2324
+2282	Benko Jozef r. Benko		1	1354,1355,1360,1748,1819,1861,1866,2806,2864
+2282	Benko Juraj		1	2498
+2282	Benko Juraj r. Benko		1	1702,1704,1705,1708
+2282	Benko Juraj r. Benko	manž Anna r.Hegedüsová; manž Anna r.Hegedüsová	1	2598,2804,2820,2892,2930,2948
+2282	Benko Juraj r. Benko	manž.Mária r.Baníková; manž.Mária r.Baníková	1	2963
+2282	Benko Kičin Františka r. Sopko		1	2393
+2282	Benko Mária r. Icsanová		1	1804
+2282	Benko Mária r. Juhar		1	1702
+2282	Benko Mária r. Urbančik		1	1457,2123,2128
+2282	Benko Mária r. Urbančiková		1	1971
+2282	Benko Michal r. Benko		1	1354,1355,1360,1748,2864
+2282	Benko Michal r. Benko	1; 1	1	2638
+2282	Benko Viktor r. Benko	ž. Cecilia SlovenkaiSPF	1	1702
+2282	Benko Viktor r. Benko a Anna Benková r. Spišáková		1	2739
+2282	Benko Vince r. Benko		1	1312,1487
+2282	Benko Vincent r. Benko		1	1354,1360,1449,1451,1452,1453,1455,1464,1634,1694,1695,1696,1698,1699,1700,1702,1703,1704,1705,1708,1709,1748,2595,2633
+2282	Benko Vincent r. Benko	manž. Františka r. Vinczová	1	2634
+2282	Benko Vincent r. Benko	manž.Františka r.Vinczová; ; manž.Františka r.Vinczová	1	1355
+2282	Benko Vincent r. Benko	manž.Františka r.Vinczová; manž.Františka r.Vinczová	1	1697,2697,2774,2864,2892,2912,3023
+2282	Benko Vincze r. Benko		1	1701
+2282	Benko Vladimír r. Benko		1	1404
+2282	Benko Vojtech r. Benko		1	1485,1879,1880,1881,1882,1883,1885,1886,2021,2572,2573,2633,2670,2933,2945
+2282	Benková Alžbeta r. Huzsvárová		1	2633
+2282	Benková Anna		1	1354,1360,1445,1446,1447,1748
+2282	Benková Anna r. Benková		1	1696,1699,2793,2889,3023
+2282	Benková Anna r. Benková	1; ; 1	1	1355
+2282	Benková Anna r. Benková	1; 1	1	2864
+2282	Benková Anna r. Hegedüsová		1	2498,2598,2804,2820,2930,2948
+2282	Benková Anna r. Hiľovská	Poproč 406; Poproč 406	1	2595
+2282	Benková Anna r. Timková		1	1819
+2282	Benková Cecília r. Benková		1	2601
+2282	Benková Cecília r. Szopková		1	2889
+2282	Benková Cecília r. Štofčik		1	1493
+2282	Benková Cecília r. Žakarovská		1	1490,1630,1737,2214
+2282	Benková Františka r. Benková		1	2896
+2282	Benková Františka r. Benková	mal.; mal	1	2737,2892,3027
+2282	Benková Františka r. Vincová		1	1455
+2282	Benková Františka r. Vincza		1	1703
+2282	Benková Františka r. Vinczová		1	1697,2634,2774,3023
+2282	Benková Helena r. Hilyovszká		1	1802,2583,3007
+2282	Benková Helena r. Hilyovszki		1	2111
+2282	Benková Irena r. Jaklovská		1	2738
+2282	Benková Johana		1	1354,1360,1748
+2282	Benková Johana r. Benková		1	1355,2864
+2282	Benková Katarína r. Benková		1	2842
+2282	Benková Kičinová Františka r. Sopková		1	1697,1889,2609,2710,2854,2883
+2282	Benková Mária		1	1354,1360,1748,1879
+2282	Benková Mária r. Benková	1; ; 1	1	1355
+2282	Benková Mária r. Benková	1; 1	1	2864
+2282	Benková Mária r. Benková	2; 2	1	2601
+2282	Benková Mária r. Icsanová		1	2781,2893,3003,3007
+2282	Benková Mária r. Idčanová		1	2797
+2282	Benková Mária r. Spišáková		1	2695,2750,2771,3024,3094
+2282	Benková Mária r. Urbančiková		1	1334,1340,1341,1348,1385,1524,1545,1615,2078,2124,2126,2572,2573,2597,2601,2946,2953,2996
+2282	Benková Mária r. Vinczová		1	2617
+2282	Berko Ľudovít r. Berko		1	2078,2135,2813,2897
+2282	Berko Samuel r. Berko		1	1481,1484,1486,1487,1488,1492,1574,1582,1584,1678,1738,2576
+2282	Berko Viktor r. Berko		1	2828
+2282	Bošková Rozália r. Barnáková		1	2840
+2282	Brada František r. Brada		1	2917
+2282	Bradová Františka r. Toporčáková		1	2917
+2282	Bradová Františka r. Vincová		1	2291
+2282	Bradová Mária r. Urbančíková		1	2741,2779,2983
+2282	Bradová Veronika r. Windtová	vdova; vdova	1	2590
+2282	Brindzová Zuzana r. Hanková		1	2598
+2282	Broda Františka r. Vincza		1	2235
+2282	Brodová Františka r. Vinczová		1	1458
+2282	Brodová Františka r. Vinczová	muž Andrej; muž Andrej	1	2807,2944,3002
+2282	Brozman Anna r. Rutkay		1	1726
+2282	Bývali urbarialisti	obce Poproč	0	2934
+2282	Bývali urbarialisti obce Poproč		1	1356
+2282	Cervená Mária r. Katusáková		1	2972
+2282	Cerveni Mária r. Katusák		1	289
+2282	Cservená Anna r. Cservená		1	2395,2733
+2282	Cservená Anna r. Csoltková		1	1398,1400,1401,1609,2167,2748
+2282	Cservená Franciška r. Spišáková		1	2048
+2282	Cservená Františka r. Cservená		1	2395,2733
+2282	Cservená Johana r. Cservená		1	2395,2733
+2282	Cservená Katarína r. Cservená		1	2395
+2282	Cservená Mária r. Cservená		1	2395,2733
+2282	Cserveni Anna		1	1833
+2282	Cserveni František r. Cserveni		1	1833
+2282	Cserveni Františka		1	1833
+2282	Cserveni Františka r. Spisák		1	981
+2282	Cserveni Johana		1	1833
+2282	Cserveni Mária		1	1833
+2282	Cserveni Matej r. Cserveni		1	1833
+2282	Cservený František r. Cservený		1	2395,2733
+2282	Cservený Matej r. Cservený		1	2395,2733
+2282	Csoltko Ján r. Csoltko		1	1401
+2282	Csoltko Ján r. Csoltko	manž.Katarína r.Petrášová; ; manž.Katarína r.Petrášová	1	1398,1400
+2282	Csoltko Ján r. Csoltko	manž.Katarína r.Petrášová; manž.Katarína r.Petrášová	1	1401,2167,2942
+2282	Csoltko Mária	vyd. PetrásSPF	1	2152
+2282	Csoltko Mária r. Simkulyák		1	1843,1851,2324,2325
+2282	Csoltková Katarína r. Petrášová		1	1398,1400,1401,2167,2942
+2282	Csoltková Mária r. Simkulyaková		1	1559,1561,1845,2660,2750,2922,2926,3024,3094
+2282	Csonka Mária		1	1722
+2282	Csonková Mária	mal	1	1721
+2282	Csonková Mária r. Csonková		1	2986
+2282	Czentak Františka r. Jaklovska		1	2738
+2282	Czentek Františka r. Jaklovsky		1	1914
+2282	Czentek Františka r. Jaklovszká		1	1919,1924,1926
+2282	Czentek Františka r. Jaklovszki		1	1917,1923,2290,2291
+2282	Czenteková Františka r. Jaklovszká		1	1463,1552,1920,1921,1922,1925,2581,2709,2778,2803
+2282	Czenteková Františka r. Jaklovszki		1	1916
+2282	Červená Františka r. Spišáková		1	2610,2659,2696,2705,2762
+2282	Červenová Alžbeta r. Timková	muž Ján; muž Ján	1	2800
+2282	Červený Fraňo r. Červený		1	1833,2805,2929
+2282	Červený Matej r. Červený		1	1833,2805,2929
+2282	Čoltko Jozef r. Čoltko		1	2845
+2282	Čoltko Norbert r. Čoltko		1	2942
+2282	Čoltko Štefan r. Čoltko	mal.; mal	1	2845
+2282	Čoltko Vupremer r. Čoltko		1	2845
+2282	Čoltková Mária r. Čoltková		1	2845
+2282	Dicská Lucia r. Apátiová		1	1338,1657,1658,1659,1661,1662,2280,2281,2593,2600,2911
+2282	Drabik Cecília r. Petráš		1	1423,2269,3075,3193
+2282	Drabik Františka r. Kozel		1	2104
+2282	Drabik Imrich r. Drabik		1	2269
+2282	Drabik Imrich r. Drabik	manž.Cecília r.Petrášová; manž.Cecília r.Petrášová	1	2270,2727
+2282	Drabik Uršula r. Urbancsík		1	2129

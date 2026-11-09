@@ -1,0 +1,256 @@
+2039	Plavčan Peter		0	199,301,323,339,390,401
+2039	Plavčanová Anna		0	261,283,339,406
+2039	Plavčanová Júlia		0	179,185,222,250,261,283,339,403,406
+2039	Plavčanová Júlia r. Sovičová		0	183,326,410
+2039	Plavčanová Mária		0	261,283,339,406
+2039	Polačeková Alžbeta r. Varholová		0	209,210,211,215,272,289,304,326,410
+2039	Polačeková Helena r. Kovaľáková		0	134,135,152,157,179,231,241,250,261,283,310,326,328,339,397,403,406,410
+2039	Polačeková Zuzana r. Varholová		0	219
+2039	Poľanský Ján		0	179,218,250,261,283,339,403,406
+2039	Polomská Mária		0	312
+2039	Polomský Ján		0	312
+2039	Prexta Eliáš		0	227
+2039	Prexta Ján		0	326,410
+2039	Prexta Michal		0	250,339
+2039	Prextová Paraska		0	194,250,339
+2039	Priputeňová Helena r. Kurucová		0	262
+2039	Prokop Ján		0	301,323,339,401
+2039	Prokop Peter		0	262
+2039	Prokopová Anna		0	179,250,403
+2039	Prokopová Helena r. Sovičová		0	301,323,339,401
+2039	Prokopová Mária		0	179,250,403
+2039	Pydová Júlia r. Sovičová		0	179,250,326,403,410
+2039	Pydová Mária r. Varcholová		0	179,250,261,283,326,339,403,406,410
+2039	Riesz Dávid		0	301,323,339,401
+2039	Segeďa Ján		0	262
+2039	Sidor Michal		0	344
+2039	Sovič Adam		0	179,250,261,283,326,339,403,406,410
+2039	Sovič Anton		0	179,250,261,283,326,339,403,406,410
+2039	Sovič Eliáš		0	179,250,261,283,301,323,326,339,401,403,406,410
+2039	Sovič Ján		0	179,192,194,195,196,197,226,250,261,283,301,323,326,339,381,401,403,406,410
+2039	Sovič Juraj		0	147,179,192,195,196,226,244,250,261,283,301,323,326,339,381,401,403,406,410
+2039	Sovič Michal		0	184,202,250,256,261,277,301,307,311,323,401
+2039	Sovič Mitro		0	179,183,185,222,250,326,403,410
+2039	Sovič Štefan		0	179,192,195,196,250,261,283,301,323,326,339,381,401,403,406,410
+2039	Sovič Tivadár		0	202,311
+2039	Sovičová Anastázia r. Prextová		0	301,323,339,401
+2039	Sovičová Anna		0	179,185,250,261,283,301,323,326,339,401,403,406,410
+2039	Sovičová Anna	I	0	192,195,196,381
+2039	Sovičová Anna r. Kubisová		0	326,410
+2039	Sovičová Helena		0	179,202,250,261,283,311,326,339,403,406,410
+2039	Sovičová Helena r. Varholová		0	219
+2039	Sovičová Júlia		0	179,192,195,196,226,250,261,283,301,323,326,339,381,401,403,406,410
+2039	Sovičová Mária		0	179,192,195,196,250,261,283,301,323,326,339,381,401,403,406,410
+2039	Sovičová Mária	II	0	183,185,301,323,326,339,401,410
+2039	Sovičová Mária r. Krafčíková		0	179,250,261,283,326,339,403,406,410
+2039	Stašenková Helena r. Macejová		0	179,235,250,403
+2039	Surgent Demeter		0	262
+2039	Szobelová Gizela r. Krauzsová		0	261,283,339,406
+2039	Šoltésová Anna r. Toturová		0	238
+2039	Štefančík Demeter		0	301,323,339,401
+2039	Štefančík Eliáš		0	301,323,339,401
+2039	Štefančík Ján		0	134,135,152,157,199,231,241,301,310,323,328,339,390,397,401
+2039	Štefančík Juraj		0	179,199,250,261,283,301,323,326,339,390,401,403,406,410
+2039	Štefančík Michal		0	150,199,301,323,339,390,401
+2039	Štefančík Vasil		0	301,323,339,401
+2039	Štefančíková Anna		0	134,135,153,157,179,199,250,261,283,301,323,326,339,390,397,401,403,406,410
+2039	Štefančíková Helena		0	134,135,153,157,179,199,250,261,283,301,323,326,339,390,397,401,403,406,410
+2039	Štefančíková Helena r. Varholová		0	301,306,323,339,401
+2039	Štefančíková Júlia		0	134,135,153,157,179,250,261,283,301,323,326,339,397,401,403,406,410
+2039	Štefančíková Júlia r. Fecková		0	165,166,378
+2039	Štefančíková Mária		0	134,135,153,157,179,250,261,283,301,323,326,339,397,401,403,406,410
+2039	Štefančíková Mária r. Hnatová		0	301,323,339,401
+2039	Štefančíková Mária r. Kubisová		0	301,323,339,401
+2039	Štefančíková Mária r. Sovičová		0	221,252
+2039	Šuťák Ján		0	262
+2039	Šuťák Michal		0	262
+2039	Tarasovičová Anna r. Kurucová		0	262
+2039	Tarasovičová Helena r. Toturová		0	238
+2039	Tomčo Peter		0	262
+2039	Totura Ján		0	238
+2039	Toturová Mária		0	238
+2039	Varhol Andrej		0	301,323,339,401
+2039	Varhol Demeter		0	138,179,250,261,283,326,339,403,406,410
+2039	Varhol Eliáš		0	138,179,250,261,283,326,339,403,406,410
+2039	Varhol Ján		0	179,191,214,215,217,219,250,261,283,301,323,326,339,401,403,406,410
+2039	Varhol Pavol		0	179,250,261,283,339,403,406
+2039	Varholová Anna		0	191,217,272,304
+2039	Varholová Helena r. Haščáková		0	261,283,339,406
+2039	Varholová Juliána		0	191,217
+2039	Varholová Mária		0	191,217
+2039	Varholová Zuzana		0	191,217
+2039	Varholová Zuzana r. Segeďová		0	301,323,339,401
+2039	Varholová Zuzana r. Semanová		0	179,250,261,283,326,339,403,406,410
+2039	Varhov Andrej		0	301,323,339,401
+2039	Varhov Ján		0	301,323,339,401
+2039	Varhov Michal		0	301,323,339,401
+2039	Varhov Štefan		0	301,323,339,401
+2039	Varhovová Mária		0	301,323,339,401
+2039	Varchol Demeter	I	0	194,195,196
+2039	Varchol Ján		0	305
+2039	Varcholová Anna r. Nalepová		0	138
+2039	Varcholová Anna r. Sovičová		0	212
+2039	Varcholová Mária		0	138
+2039	Varcholová Mária r. Štefančíková		0	301,323,339,401
+2039	Vašková Zuzana r. Macejová		0	135,136,142,143,148,179,250,261,283,326,339,403,406,410
+2039	Volčko Ján		0	344
+2039	Volčková Mária r. Hirkalová		0	344
+2039	Voska Ján		0	344
+2039	Weingarten Izák		0	301,323,339,401
+2039	Weingarten Katarína		0	301,323,339,401
+2039	Weingarten Ladislav		0	301,323,339,401
+2039	Weingarten Mailich		0	301,323,339,401
+2039	Weingarten Samuel		0	326,410
+2039	Wiengarten Jozef		0	301,323,339,401
+2039	Wiengarten Mojžiš		0	301,323,339,401
+2039	Ženčár Adam		0	301,323,339,401
+2039	Ženčár Ján		0	179,221,250,261,283,326,339,403,406,410
+2039	Ženčár Juraj		0	221,326,410
+2039	Ženčár Michal		0	179,221,250,261,283,326,339,403,406,410
+2039	Ženčár Peter		0	179,221,250,261,283,326,339,403,406,410
+2039	Ženčárová Anna		0	179,221,250,261,283,326,339,403,406,410
+2039	Ženčárová Elena		0	179,221,250,261,283,326,339,403,406,410
+2039	Ženčárová Katarína		0	179,221,250,261,283,326,339,403,406,410
+2039	Ženčárová Paraska		0	179,221,250,261,283,326,339,403,406,410
+2039	Ženčuch Juraj		0	179,250,261,283,339,403,406
+2039	Ženščár Ondrej		0	251
+2040	Adamkovič Bernard r. Adamkovič	ž.Štefánia r.Poštrková	0	345
+2040	Adamkovičová Štefánia r. Poštrková	m.Bernard	0	345
+2040	Bačka Filip r. Bačka		0	345
+2040	Bačka František r. Bačka	malol	0	208,281,298,345,357
+2040	Bačka Jozef r. Bačka	ž.Jozefína r.Ocelková	0	405
+2040	Bahelka Ján r. Bahelka	ž.Alžbeta r.Urbanová	0	386,387
+2040	Bezek Michal r. Bezek		0	371
+2040	Bezeková Verona		0	371
+2040	Blažejovicová Mária r. Poláková		0	375
+2040	Čanecká Mária r. Sodálová		0	248,345,357
+2040	Drábik Michal r. Drábik	ž.Hermína r.Jančeková	0	357
+2040	Ďuračka Emil r. Ďuračka		0	380,387
+2040	Ďuračka Ján r. Ďuračka	ž.Mária r.Kubačková	0	345,346,357
+2040	Ďuračková Alžbeta r. Karcelová		0	380,387
+2040	Ďuračková Anastázia r. Bahelková		0	381,387
+2040	Ďuračková Mária r. Kubačková	m.Ján	0	345,346,357
+2040	Fulka Jakub r. Fulka	ž.Magdaléna r.Dadaňová	0	373
+2040	Fulková Magdaléna r. Dadaňová	m.Jakub	0	373
+2040	Gabrielová Katarína r. Paulíková		0	345
+2040	Gaťár Jozef r. Gaťár	ž.Amália r.Pecháčová	0	366
+2040	Gaťárová Amália r. Pecháčová	m.Jozef	0	366
+2040	Gogol Lukáč r. Gogol	ž.Zuzana r.Repiková	0	357
+2040	Gogolová Zuzana r. Repiková	m.Lukáč	0	357
+2040	Gogová Anna r. Bezeková		0	371
+2040	Gogová Antónia r. Ocelková	m.Jozef	0	404
+2040	Helieneková Drahomíra r. Sladká		0	357
+2040	Hontalová Veronika r. Poláková	Hentelová	0	375
+2040	Hrk Pavel r. Hrk		0	312
+2040	Hubata Michal r. Hubata	ž.Katarína r.Viteková	0	357
+2040	Hubatová Katarína r. Viteková	m.Michal	0	357
+2040	Hulata Michal r. Hulata	ž.Katarína r.Hulatová	0	325
+2040	Hulatová Katarína r. Hulatová	m.Michal	0	325
+2040	Chovancová Jozefína r. Detevsová	m.Anton	0	138
+2040	Chudá Anna r. Bitnerová		0	387
+2040	Chudá Františka r. Menšíková	m.Michal	0	408
+2040	Chudá Magdaléna r. Šišková		0	357
+2040	Chudý Jozef r. Chudý	ž.Mária r.Kováčiková	0	348,357
+2040	Chudý Michal r. Chudý		0	348,357
+2040	Chudý Michal r. Chudý	ž.Františka r.Menšíková	0	408
+2040	Jakubička Gregor r. Jakubička	ž.Mária r.Vargová	0	367
+2040	Jakubička Karol r. Jakubička		0	383,387
+2040	Jakubičková Jozefína r. Chudá	m.Michal	0	127
+2040	Jakubičková Mária r. Vargová	m.Gregor	0	367
+2040	Jonašeková Alžbeta r. Jakubičková		0	387
+2040	Jonášeková Sidonia		0	204,205,387
+2040	Karaba Ladislav r. Karaba		0	348
+2040	Karabová Júlia r. Beňová	m.Ján	0	348
+2040	Karabová Valéria		0	348
+2040	Klaček Ján r. Klaček	ž.Jozefína r.Fáziková	0	414
+2040	Kleiner Imrich r. Kleiner	ž.Katarína r.Bizoňová	0	341,345,357
+2040	Kleinerová Katarína r. Bizoňová	m.Imrich	0	341,345,357
+2040	Koleda Jozef r. Koleda	ž.Anna r.Mijavecová	0	393
+2040	Koledová Anna r. Mijavecová	m.Jozef	0	393
+2040	Kopecká Alžbeta r. Praženková		0	308,344,345
+2040	Kováčik Emil r. Kováčik	23.10.1937	0	166
+2040	Kováčik Štefan r. Kováčik		0	357
+2040	Kovačiková Anna r. Rebová		0	372
+2040	Krakorik Jozef r. Krakorik	ž.Alžbeta r.Čáčiková	0	301
+2040	Krakoriková Alžbeta r. Čáčiková	m.Jozef	0	301
+2040	Krakovič Ján r. Krakovič	ml	0	356
+2040	Krakovič Jozef r. Krakovič	ž.Rozália r.Kučeková	0	412
+2040	Kroupová Mária r. Sopková		0	289,357
+2040	Kuchár Michal r. Kuchár	ž.Lucia r.Belanová	0	379,387
+2040	Kucharová Helena r. Kolárová		0	387
+2040	Kulich Dezider r. Kulich	ž.Alžbeta r.Bizoňová	0	357
+2040	Kulich Imrich r. Kulich		0	150,167
+2040	Kulich Imrich r. Kulich	ž.Alžbeta r.Jánošková	0	166
+2040	Kulich Štefan r. Kulich		0	357
+2040	Kulichová Alžbeta r. Bizoňová	m.Dezider	0	357
+2040	Kulichová Alžbeta r. Chudá		0	357
+2040	Kulichová Augustína		0	348,357
+2040	Kulichová Irena		0	357
+2040	Kulichová Jozefína r. Kovačiková	m.Štefan	0	357
+2040	Kupčulík Štefan r. Kupčulík	ž.Helena r.Ďuračková	0	406
+2040	Kupčuliková Helena r. Ďuračková		0	357
+2040	Kupecová Alžbeta r. Škarbalová		0	377,387
+2040	Lacika Ján r. Lacika	ž.Alžbeta r.Kováčiková	0	345,357
+2040	Lacika Ján r. Lacika	ž.Štefánia r.Sladká	0	407
+2040	Laciková Alžbeta r. Kováčiková	m.Ján	0	345,357
+2040	Laciková Štefánia r. Sladká	m.Ján	0	313,407
+2040	Lindnerová Gizela		0	357
+2040	Makovská Júlia r. Vizváriová		0	249,387
+2040	Manduch Jozef r. Manduch	ž.Apolónia r.Jánošková	0	357
+2040	Manduch Jozef r. Manduch	ž.Helena r.Kucharová	0	378,387
+2040	Manduch Rudolf r. Manduch		0	387
+2040	Manduchová Alžbeta r. Oravecová	m.Jozef	0	275
+2040	Manduchová Magdaléna r. Kupecová		0	387
+2040	Matejovičová Jozefína r. Praženková		0	308,344,345
+2040	Merašická Genoveva r. Hudecová	m.Jozef	0	362
+2040	Merašický Adam r. Merašický		0	242,357
+2040	Merašický Imrich r. Merašický	ž.Verona r.Vrábelová	0	242,299,357
+2040	Merašický Jozef r. Merašický	ž.Genoveva r.Hudecová	0	242,299,357,362
+2040	Merašický Michal r. Merašický	ž.Anna r.Hudecová	0	318,357
+2040	Mičanová Katarína r. Bezeková		0	357,371
+2040	Mičanová Milada	mal	0	357
+2040	Miková Bernardína r. Merašická		0	242,299,357
+2040	Ondrejková Mária r. Jonášeková		0	387
+2040	Paulíková Ernestína r. Košecká	vd	0	345
+2040	Pavlíková Ernestína r. Košecká		0	357
+2040	Pipaš Michal r. Pipaš		0	374
+2040	Podhájska Margita r. Podhájska	r.Krajčová	0	302
+2040	Polák Jozef r. Polák	ž.Mária r.Slabá	0	357,374
+2040	Poláková Mária r. Slabá	m.Jozef	0	357,374
+2040	Praženka Michal r. Praženka	ž.Júlia r.Sopková	0	345
+2040	Praženka Žigmund r. Praženka		0	308
+2040	Praženka Žigmund r. Praženka	ž.Mária r.Ďurčeková	0	344,345
+2040	Praženková Jolana		0	308
+2040	Praženková Jolana	slabomyselná	0	344,345
+2040	Praženková Mária r. Lisá	m.Michal	0	345
+2040	Praženková Valéria		0	308
+2040	Rybanský Michal r. Ribanský	ž.Magdaléna r.Kupecová	0	382,387
+2040	Schtoderová Anna r. Praženková		0	344,345
+2040	Schubertová Mária r. Praženková		0	344,345
+2040	Sladká Emília r. Psotová	m.Ľudovít	0	364
+2040	Sladká Paulina		0	388
+2040	Sladký Ľudovít r. Sladký	ž.Emília r.Psotová	0	364
+2040	Solár Imrich r. Solár		0	357,374
+2040	Solárová Gizela r. Škvarilová		0	357,374
+2040	Sopka Ján r. Sopka	vojak	0	357
+2040	Sopková Dorota r. Petráková	m.Ján	0	289,354,357
+2040	Steinemann Ľudovít r. Steinemann		0	374
+2040	Struhálová Irena r. Matečná		0	387
+2040	Stummer Karol r. Stummer		0	387
+2040	Škarbala František r. Škarbala		0	387
+2040	Škarbala Michal r. Škarbala		0	387
+2040	Štoderová Anna r. Praženková		0	308
+2040	Švec Peter r. Švec	ž.Anna r.Vilhelmová	0	385,387
+2040	Švecová Anna r. Vilhelmová	m.Peter	0	385,387
+2040	Tomašovič Michal r. Tomašovič		0	348
+2040	Turčan František r. Turčan		0	357,389
+2040	Turčan František r. Turčan	mal	0	357,389
+2040	Turčan Jozef r. Turčan	mal	0	357,389
+2040	Turčan Ľudovít r. Turčan	mal	0	357,389
+2040	Turčan Michal r. Turčan	ž.Alžbeta r.Bačková	0	357
+2040	Turčan Pavol r. Turčan	mal	0	357,389
+2040	Turčan Vladimír r. Turčan	mal	0	357,389
+2040	Turčanová Alžbeta r. Bačková	m.Michal	0	357
+2040	Turčanová Helena	mal	0	357,389
+2040	Turčanová Magdaléna r. Bizoňová		0	389
+2040	Turčanová Valéria	mal	0	357,389

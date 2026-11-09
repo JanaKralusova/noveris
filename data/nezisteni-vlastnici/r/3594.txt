@@ -1,0 +1,256 @@
+2062	Kmiťová Júlia	2	0	471,529,572,603
+2062	Kmiťová Júlia	mal	0	339,370,409,433,568,575,586,600
+2062	Kmiťová Júlia r. Birošová		0	386
+2062	Kmiťová Júlia r. Kušnírová		0	350,409,433,575,586,600
+2062	Kmiťová Júlia r. Kušnírová	manžel Peter	0	345
+2062	Kmiťová Mária	2	0	450
+2062	Kmiťová Mária	3	0	471,529,572,603
+2062	Kmiťová Mária	mal	0	361
+2062	Kmiťová Mária	malol	0	341
+2062	Kmiťová Mária r. Vaňková		0	521
+2062	Knis Juraj r. Knis		0	407
+2062	Knis Štefan r. Knis		0	407
+2062	Kocák Ján r. Kocák		0	377,401,551,560,613
+2062	Kocák Ján r. Kocák	manž.Helena r.Čaklošová	0	377,613
+2062	Kocák Juraj r. Kocák		0	409,433,471,529,572,575,586,600,603
+2062	Kocák Michal r. Kocák		0	377,401,417,513,529,551,560,613
+2062	Kocák Michal r. Kocák	mal	0	409,433,575,586,600
+2062	Kocák Michal r. Kocák	malol	0	346
+2062	Kocák Peter r. Kocák		0	471,572,603
+2062	Kocák Tivadar r. Kocák		0	529
+2062	Kocak Vasiľ r. Kocak	1	0	451,496
+2062	Kocák Vasiľ r. Kocák		0	350,513,529
+2062	Kocáková Mária	mal	0	409,410,433,575,586,600
+2062	Koval Ján r. Koval	zomrel	0	408
+2062	Koval Jozef r. Koval	zomrel	0	408
+2062	Koval Juraj r. Koval	zomrel	0	408
+2062	Koval Michal r. Koval	zomrel	0	408
+2062	Kovaľ Peter r. Kovaľ	1	0	408
+2062	Kovaľ Peter r. Kovaľ	2	0	407
+2062	Kovalová Helena r. Vasilenková	zomrela	0	407,408
+2062	Kozák Vasil r. Kozák		0	409,433,575,586,600
+2062	Kundrát Michal r. Kundrát		0	408
+2062	Kušnír Demeter r. Kušnír		0	409,433,575,586,600
+2062	Kušnír Ján r. Kušnír	1	0	384,396,409,433,575,586,600
+2062	Kušnír Ján r. Kušnír	2	0	337
+2062	Kušnír Ján r. Kušnír	ml	0	345,384,396,409,433,575,586,600
+2062	Kušnír Michal r. Kušnír		0	343,409,433,575,586,600
+2062	Kušnírová Anna r. Zápotocká		0	343,409,433,575,586,600
+2062	Kušnírová Iľa		0	504
+2062	Kušnírová Mária r. Pašeňová		0	345,384,396,409,433,575,586,600
+2062	Kušnírová Mária r. Šeršeňová		0	343,409,433,575,586,600
+2062	Lazo Mikuláš r. Lazo		0	414
+2062	Livňanská Anna r. Kmiťová		0	336,339,370,398,409,433,449,471,494,524,529,568,572,575,586,600,603
+2062	Livňanský Ján r. Livňanský	1	0	428
+2062	Livňanský Ján r. Livňanský	2	0	363
+2062	Livňanský Michal r. Livňanský		0	371,404,471,491,525,529,572,587,592,603
+2062	Livňanský Michal r. Livňanský	2	0	383,574
+2062	Livňanský Michal r. Livňanský	3	0	409,433,510,575,586,600
+2062	Livňanský Michal r. Livňanský	mal	0	523
+2062	Livňanský Michal r. Livňanský	mal.,1	0	409,433,575,586,600
+2062	Livňanský Vasiľ r. Livňanský	1	0	371,404,592
+2062	Mačuga Fedor r. Mačuga		0	380,555
+2062	Mačuga Ján r. Mačuga		0	409,433,471,572,575,586,600,603
+2062	Mačuga Peter r. Mačuga		0	471,572,603
+2062	Mačugová Helena		0	409,433,575,586,600
+2062	Mačugová Helena	1	0	523,529
+2062	Mačugová Helena	2	0	380,555
+2062	Mačugová Mária		0	523
+2062	Mačugová Mária	1	0	402,409,433,529,575,586,600
+2062	Mačugová Mária	2	0	380,555
+2062	Mačugová Paraska		0	555
+2062	Magulak Ján r. Magulak	zomrel	0	406
+2062	Magulak Jozef r. Magulak		0	412
+2062	Magulak Juraj r. Magulak		0	412
+2062	Majerníková Júlia r. Čaklošová		0	409,433,575,586,600
+2062	Majerníková Juliana r. Čakloš Livňanská		0	428
+2062	Majurník Bartečko František r. Majurník Bartečko		0	349,409,433,508,575,586,588,589,600
+2062	Majurník Bartečko Michal r. Majurník Bartečko		0	409,433,575,586,600
+2062	Majurník Bartečko Peter r. Majurník Bartečko		0	374,409,433,575,586,600
+2062	Majurník Batečko Fedor r. Majurník Batečko		0	374
+2062	Majurník Demeter r. Majurník		0	471,492,572,603
+2062	Majurník Michal r. Majurník		0	367,471,529,572,603
+2062	Majurníková Anna r. Petrašová		0	349,374,409,433,508,575,586,588,589,600
+2062	Majurníková Júlia r. Čaklošová		0	349,492,526,529,588
+2062	Morosová Zuzana r. Mačugová		0	380,402,555
+2062	Moroščaková Júlia r. Kovaľová		0	407
+2062	Moroz Michal r. Moroz		0	529
+2062	Nedbalová Mária r. Knisová		0	407
+2062	Noga Demeter r. Noga	1	0	350
+2062	Noga Demeter r. Noga	2	0	337,384,396
+2062	Ovšaník Fedor r. Ovšaník		0	356,358,409,411,416,433,437,575,586,590,593,600
+2062	Ovšaník Peter r. Ovšaník		0	356
+2062	Ovšaníková Anna		0	356,358,411,416,590,593
+2062	Pašeň Demeter r. Pašeň	1	0	353,551
+2062	Pašeň Ján r. Pašeň		0	511
+2062	Pašeň Ján r. Pašeň	mal	0	529
+2062	Pašeň Michal r. Pašeň	2	0	409,433,471,572,575,586,600,603
+2062	Pašeň Michal r. Pašeň	3	0	386
+2062	Pašeň Michal r. Pašeň	manž.Mária r.Birošová	0	372
+2062	Pašeň Vasiľ r. Pašeň	1	0	353,409,433,551,575,586,600
+2062	Prokopovičová Júlia r. Čumová		0	352
+2062	Sahajdová Anna r. Terazová		1	614
+2062	Sebestianová Helena		0	427
+2062	Semanco Vasiľ r. Semanco		0	374
+2062	Semančík Štefan r. Semančík	manž.Mária r.Nogová	0	337
+2062	Serafin Michal r. Serafin		0	428
+2062	Serafin Michal r. Serafin	1	0	363,383,428,574
+2062	Simková Júlia r. Birošová		0	341,362,386,391,395,409,429,433,570,575,586,600
+2062	Simková Júlia r. Birošová	1; 1	0	399,449
+2062	Slivová Mária r. Birošová		0	341,362,386,391,395,399,409,429,433,449,570,575,586,600
+2062	Šeršeň Ján r. Šeršeň		0	493,520
+2062	Šeršeň Michal r. Šeršeň		0	471,493,572,603
+2062	Šeršeň Štefan r. Šeršeň, SR		0	357,359,389,392,405,409,432,433,437,447,527,529,575,576,577,586,600
+2062	Šeršeňová Anna r. Čakloš Livňanská		0	495
+2062	Šmajda Peter r. Šmajda	mal	0	409,433,575,586,600
+2062	Šmajdová Mária r. Čaklošová		0	363,383,409,433,574,575,586,600
+2062	Šoltés Demeter r. Šoltés		0	409,433,575,586,600
+2062	Šoltés Michal		1	614
+2062	Šoltes Michal r. Šoltes	1	0	451
+2062	Šoltés Michal r. Šoltés		0	529
+2062	Šoltésová Mária r. Hricková		0	409,433,575,586,600
+2062	Šoltis Demeter r. Šoltis	1	0	363,409,433,575,586,600
+2062	Šoltisová Júlia r. Mačugová		0	380,402,409,433,555,575,586,600
+2062	Švabková Mária r. Kušnírová, Olomoucká 32, Brno, ČR		0	350
+2062	Teraz Andrej r. Teraz	1	0	337
+2062	Teraz Ján r. Teraz	2	0	451
+2062	Teraz Jozef r. Teraz		0	345
+2062	Terazová Anna	mal.,ml	0	393,409,433,575,581,586,600,615
+2062	Terazová Anna	maloletá, mladšia	1	614
+2062	Terazová Mária		1	614
+2062	Terazová Mária	1	0	393,409,433,575,581,586,600,615
+2062	Terazová Mária r. Kušnírová		0	451
+2062	Trebišovská Mária r. Zapotocká		0	342,343,409,433,471,484,519,572,575,586,600,603
+2062	Vaňková Anna r. Mačugová		0	402,409,433,523,529,575,586,600
+2062	Vetter Sándor r. Vetter		0	451,452
+2062	Vorobeľová Anna		0	408
+2062	Vorobeľová Helena r. Birošová		0	386,391,516,529
+2062	Vorobľová Helena r. Birošová		0	341
+2062	Vorobľová Mária r. Lazová		0	414
+2062	Zámočníková Júlia r. Kmiťová		0	336,339,409,433,524,529,568,575,586,600
+2062	Zapotocká Anna r. Mačugová		0	380,402,409,433,555,575,586,600
+2062	Zapotocká Mária	2	0	343
+2062	Zapotocká Mária	3	0	409,433,575,586,600
+2062	Zápotocká Mária		0	484,529
+2062	Zápotocká Mária	1	0	342,343,409,433,471,519,572,575,586,600,603
+2062	Zápotocký Fedor r. Zápotocký	1	0	529
+2062	Zapotocký Peter r. Zapotocký		0	471,572,603
+2062	Zápotocký Štefan r. Zápotocký		0	471,529,572,603
+2062	Zapotocký Vasiľ r. Zapotocký	mal	0	471,572,603
+2062	Závidná Anna	mal	0	514
+2062	Závidná Júlia	mal	0	357,432,437,576
+2062	Zavidná Mária		0	387,514
+2062	Zavidná Mária	mal	0	387
+2062	Zavidni Juraj r. Zavidni	1	0	428
+2062	Zavidný Jozef r. Zavidný		0	409,433,575,586,600
+2062	Závidný Juraj r. Závidný		0	357,363,409,432,433,437,575,576,586,600
+2062	Zavidný Teodor r. Zavidný		0	409,433,575,586,600
+2063	BABIC Andrej	mal	1	49,334,368,396
+2063	BABIC Andrej, SR	mal	1	150,171,173,409
+2063	BABIC Andrej, SR	mal. |; mal	1	43,52,381
+2063	BABIC Ján, SR		1	43,381
+2063	BABIC Michal	vzd	1	49,368
+2063	BABIC Michal, SR	vzd	1	150,173,409
+2063	BABIC Michal, SR	vzd. |; vzd	1	43,52,171,381
+2063	BABIC Vasiľ		1	49,368
+2063	BABIC Vasiľ	mal	1	334,396
+2063	BABIC Vasiľ, SR		1	43,52,150,171,173,381,409
+2063	BABICOVA Elena		1	368
+2063	BABICOVA Elena, SR		1	150,171,173,409
+2063	BABICOVA Helena		1	49
+2063	BABICOVA Helena, SR		1	43,171,381
+2063	BABICOVÁ Mária		1	49,150,368,409
+2063	BABICOVÁ Mária, SR		1	43,52,171,173,381
+2063	Babič Andrej	/mal./	1	163
+2063	Babič Andrej	/otec Ján/	1	163
+2063	BABIČ Andrej	mal. II	1	335,408
+2063	BABIČ Andrej	otec Ivan	1	368
+2063	BABIČ Andrej	otec Ján	1	49,334,368,396
+2063	BABIČ Andrej, SR	otec Ivan |; otec Ivan	1	43,150,381,409
+2063	BABIČ Andrej, SR	otec Ján |; otec Ján	1	171
+2063	BABIČ Ján		1	344,368
+2063	Babič Michal	/mal./	1	163
+2063	BABIČ Michal	mal	1	334,396
+2063	BABIČ Michal	vdovec	1	335,408
+2063	Babič Vasiľ	/mal./	1	163
+2063	Babičová Anna	mal	1	396
+2063	Babičová Helena	mal	0	396
+2063	Babičová Mária	/dcéra Jána/	1	163
+2063	Babičová Mária	/mal./	1	163
+2063	BABIČOVÁ Mária	dcéra Jána	1	49,334,368,396
+2063	BABIČOVÁ Mária	mal	1	334,396
+2063	BABIČOVÁ Mária	mal. II	1	335,408
+2063	BABIČOVÁ Mária	otec Ivan	1	368
+2063	BABIČOVÁ Mária, SR	dcéra Jána |; dcéra Jána	1	171
+2063	BABIČOVÁ Mária, SR	otec Ivan	1	150,409
+2063	BABIČOVÁ Mária, SR	otec Ivan |; otec Ivan	1	43,381
+2063	Babičová Olena		1	396
+2063	Babičová Zuzana	/mal./	1	163
+2063	BABIČOVÁ Zuzana	mal	1	49,334,368,396
+2063	BABIČOVÁ Zuzana	mal. II	1	335,408
+2063	BABIČOVÁ Zuzana, SR	mal	1	171,173
+2063	BABIČOVÁ Zuzana, SR	mal. |; mal	1	43,52,150,381,409
+2063	BEŇOVÁ Mária	r. Zgiburová	1	349,368
+2063	BEŇOVÁ Mária r. Zgiburová, SR		1	30,150,166,409
+2063	Beňová Mária rod.Zgiburová		1	197
+2063	BIČKO Juraj, SR		1	150,409
+2063	Bičko Štefan	ž.Anna Dobdova	1	393
+2063	Bičko Štefan /ž. Anna rod.Dobdová/ /ž. Anna rod.Dobdová/		0	305
+2063	BILORUSKÁ Zuzana	dcéra Jána	1	337
+2063	BILORUSKÝ Ján	ž. Mária Ligošová	1	255,347,368
+2063	BILORUSKÝ Ján, SR	ž. Mária Ligošová |; ž. Mária Ligošová	1	150,409
+2063	BILORUSKY Štefan		1	22,317,319
+2063	CAPOVÁ Mária	R.Radváková	1	249,368
+2063	CAPOVÁ Mária	r.Štecová, muž Michal	1	368
+2063	CAPOVÁ Mária r. Radváková, SR		1	150,212,214,409
+2063	ČERNÁ Anna	r.Sijková	1	284,368,420,423
+2063	ČERNÁ Anna r. Sijková, SR		1	7,122,123,150,401,405,409,421,427
+2063	Černá Anna rod.Sijková		0	285,389
+2063	Československý štát / MNV Oľšinkov /		0	372
+2063	DACEJOVÁ Helena	R.DOBDOVá	1	368
+2063	DANČIOVÁ Mária	R.ZGIBUROVá	1	368
+2063	DANČIOVÁ Mária r. ZGIBUROVá, SR		1	150,166,409
+2063	DANČIOVÁ MÁRIA ROD.ZGIBUROVÁ		0	165,412
+2063	DOBDA Andrej	ž. Zuzana Maturkaničová	1	368
+2063	DOBDA Andrej, SR	ž. Zuzana Maturkaničová |; ž. Zuzana Maturkaničová	1	150,409
+2063	Dobda Ján		1	392
+2063	DOBDA Peter, SR		1	71,392,425
+2063	Dobda Vasil		0	387
+2063	Dobda Vasil	otec Michal; otec Michal	0	387
+2063	DOBDA Vasiľ	otec Michal	1	240,428
+2063	DOBDA Vasiľ, SR	otec Michal |; otec Michal	1	150,409
+2063	DOBDOVÁ Anna	mal. otec Michal	1	240,368,428
+2063	Dobdová Anna nezl.	otec Michal; otec Michal	0	387
+2063	DOBDOVA ANNA r. KOLBASOVA		1	260
+2063	DOBDOVÁ Anna, SR	mal. otec Michal |; mal. otec Michal	1	150,409
+2063	Dobdová Anna,mal.		0	387
+2063	Dobdová Helena nezl.		0	387
+2063	Dobdová Helena, nezl.		0	387
+2063	DOBDOVA Zuzana	rod. Kolbasová	1	247
+2063	DOBDOVÁ Zuzana		1	361
+2063	DZURILOVÁ Helena	R.RAPCOVÁ	1	368
+2063	FEIGENBAUM Ignác		1	339
+2063	FEJKOVÁ Mária	r. Kačurová	1	260
+2063	FEJKOVÁ Mária r. Kačurová, SR		1	150,409
+2063	GASPAR MICHAL		0	119
+2063	GASPAR VASIL		1	119,317,318
+2063	GASPAROVA Helena		1	368
+2063	GASPAROVA Maria	R.BILORUSKA	1	255,270,368
+2063	GAŠPAR Ján	otec Michal	1	368
+2063	GAŠPAR Ján	syn Štefana	1	346,367
+2063	GAŠPAR Ján, SR	otec Michal	1	187
+2063	GAŠPAR Ján, SR	syn Štefana |; syn Štefana	1	37,38
+2063	GAŠPAR Michal	otec Michal	1	368
+2063	GAŠPAR Michal	syn Štefana	1	346
+2063	GAŠPAR Michal, SR	otec Michal	1	187
+2063	GAŠPAR Michal, SR	syn Štefana |; syn Štefana	1	150,409
+2063	GAŠPAR Michal, SR	ž. Terézia |; ž. Terézia	1	118
+2063	GAŠPAR Peter		1	276,277,367,368
+2063	GAŠPAR Peter, SR		1	37,38,40,150,409
+2063	GAŠPAR Vasiľ, SR	syn Štefana |; syn Štefana	1	150,409
+2063	GAŠPAROVÁ Anna	R.RADVÁKOVÁ	1	329,368
+2063	GAŠPAROVÁ Anna	R.SIJKOVá	1	240,428
+2063	GAŠPAROVÁ Anna r. RADVÁKOVÁ, SR		1	34,118,150,183,409
+2063	Gašparová Anna r. Sijková		0	387
+2063	Gašparová Anna rod.Radváková		0	119
+2063	GAŠPAROVÁ Anna, SR		1	41

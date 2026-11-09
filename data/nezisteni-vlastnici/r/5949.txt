@@ -1,0 +1,256 @@
+3349	Žofčák Juraj	zomrel	1	62,78,83,320
+3349	Žofčáková Helena	zomrela	1	78,83
+3349	Žofčáková Iľa	1, zomrela	1	70
+3349	Žofčáková Zuzana	maloletá, zomrela	1	78,83
+3349	Žolnay Daniel	zomrel	1	475
+3350	Antoni Jakub		0	11,12,225,427,721
+3350	Antoni Ján		0	11,12,225,427,721
+3350	Antoni Martin		0	11,12,225,427,721
+3350	Antoniová Anna		0	11,12,225,427,721
+3350	Antoniová Katarína r. Rolyková		0	11,225,427,721
+3350	Antoniová Verona		0	11,12,225,427,721
+3350	Antoniová Verona r. Griegerová		0	11,12,225,427,721
+3350	Becker Frantisek		0	363,732
+3350	Bečker Frantisek r. Bečker		0	672
+3350	Bečker Ján		0	670
+3350	Bečker Matej		0	11,12,225,427,721
+3350	Bečker Vendelín		0	22,746
+3350	Bečkerová Katarína r. Griegerová		0	11,12,225,427,721
+3350	Bečkerová Katarína r. Marcinková		0	22,746
+3350	Bečkerová Mária		0	670
+3350	Briszkova Anna	Jurcsov	0	321,349,771
+3350	Bujnák Michal		0	435
+3350	Buriková Alžbeta r. Gurová		0	11,12,225,427,721
+3350	Czervenyaková Mária r. Griegerová		0	41,316,773,840,865
+3350	Dzuganova Anna	r.Lisonova	0	323
+3350	Dzuganová Mária r. Lagaňová		0	435
+3350	Dzurik Michal		0	11,12,225,427,721
+3350	Džuganová Anna r. Lisoňová		0	11,12,225,427,435,675,687,721
+3350	Fecko Ondrej		0	11,721
+3350	Fecko Peter		0	11,12,29,63,64,225,311,313,319,427,468,712,721,819
+3350	Fecková Mária r. Grigerová		0	11,12,225,427,721
+3350	Feczko Ján		0	11,12,29,225,311,319,427,468,721,819
+3350	Feczko Juraj		0	11,12,29,63,64,225,311,319,427,468,712,721,819
+3350	Feczko Matyas		0	11,12,29,63,64,225,311,319,427,468,656,712,719,721,809,819
+3350	Feczko Michal		0	11,12,29,63,64,225,311,319,427,468,712,721,819
+3350	Feczko Pavol		0	11,12,29,63,64,225,311,319,427,468,712,721,819
+3350	Feczko Peter		0	11,12,29,225,311,468,721,819
+3350	Feczko Tomáš		0	11,12,29,63,64,225,311,319,427,468,712,721,819
+3350	Feczková Magdaléna		0	11,12,225,427,721
+3350	Feczková Mária		0	12,41,316,773,840,865
+3350	Ferenc Michal		0	11,12,225,427,721
+3350	Ferenc Pavol		0	11,12,225,427,709,721
+3350	Ferencova Alzbeta	r.Burikova	0	322
+3350	Ferencz Ján		0	11,225,427,721
+3350	Ferenczová Mária		0	11,12,225,427,721
+3350	Gardos Michal		0	439,440
+3350	Gardoš Andrej		0	438
+3350	Gardošová Verona r. Vašková		0	11,225,427,721
+3350	Gburik Imrich		0	11,12,225,427,721
+3350	Gburik Martin		0	11,12,225,427,721
+3350	Gburiková Alžbeta r. Gurová		0	11,12,225,427,721
+3350	Gburiková Anna r. Roľková		0	11,12,225,427,721
+3350	Grieger Jan	Gasparov	0	357
+3350	Grieger Ján		0	11,12,225,427,721,763
+3350	Grieger Jozef		0	383,427,443
+3350	Grieger Jozef	Valentov	0	11,12,63,65,218,225,671,695,711,713,721,864
+3350	Grieger Juraj	žena Mária Gurová	0	12
+3350	Grieger Matej		0	11,12,225,427,721
+3350	Grieger Michal		0	11,225,427,721
+3350	Grieger Peter		0	11,12,225,427,721,744
+3350	Grieger Štefan		0	11,12,225,427,672,715,721
+3350	Grieger Tomáš		0	427
+3350	Grieger Tomáš	žena K. Surák	0	11,12,225,721
+3350	Griegerova Alzbeta	r.Griegerova	0	439
+3350	Griegerová Alžbeta r. Griegerová		0	440
+3350	Griegerová Katarína r. Slebodníková		0	11,12,225,427,721
+3350	Griegerová Mária r. Gurová		0	12
+3350	Griegerová Verona		0	11,225,427,721
+3350	Griger Eduard		0	11,12,225,427,721
+3350	Griger Jan	z.M.Komarova	0	332
+3350	Griger Ján		0	11,12,225,427,721
+3350	Griger Ján	Gašparov	0	22,746
+3350	Griger Ján	Imruša; Imruša	0	747,872
+3350	Griger Jozef		0	35,427,716
+3350	Griger Jozef	1	0	11,30,225,340,721
+3350	Griger Juraj	Gašparov	0	12,22,746
+3350	Griger Matej		0	12,747,872
+3350	Griger Michal		0	11,225,427,721
+3350	Griger Pavol		0	12
+3350	Griger Štefan		0	11,225,427,721
+3350	Griger Tomáš		0	11,12,225,427,721
+3350	Griger Valent		0	743
+3350	Grigerova Anna	r.Sucha	0	419
+3350	Grigerová Anna		0	11,225,427,721
+3350	Grigerová Anna r. Suchá		0	668
+3350	Grigerová Katarína r. Karchutňáková		0	12
+3350	Grigerová Mária r. Grigerová		0	427
+3350	Gura Imrich		0	11,12,225,427,721
+3350	Gura Ján		0	11,12,118,225,427,654,688,721
+3350	Gura Ján	1	0	11,12,225,721
+3350	Gura Ján	2	0	11,12,225,721
+3350	Gura Ján	3	0	12
+3350	Gura Jozef		0	11,12,30,225,340,427,721
+3350	Gura Juraj		0	11,12,225,427,721
+3350	Gura Juraj	Sputany	0	427
+3350	Gura Juraj	Sputany,zomrel 13.10.1937	0	11,12,225,721
+3350	Gura Pavol		0	12
+3350	Gura Peter		0	435,675
+3350	Gura Peter	1	0	12
+3350	Gura Valentín		0	11,12,225,427,721
+3350	Gurová Alžbeta		0	11,12,225,427,721
+3350	Gurová Alžbeta r. Hlavatá		0	12
+3350	Gurová Anna		0	11,12,225,427,721
+3350	Gurová Katarína		0	11,12,225,427,721
+3350	Gurová Mária		0	11,12,118,225,427,654,688,721
+3350	Gurová Mária	1	0	11,12,225,721
+3350	Gurová Mária	2	0	11,12,225,721
+3350	Gurová Mária r. Feczková		0	63,64,712
+3350	Gurová Mária r. Komarova		0	427
+3350	Gurová Mária r. Komarová	zomrela 10.7.1973	0	11,12,225,721
+3350	Gurova Verona		0	321,349,771
+3350	Gurová Žofia		0	12
+3350	Hlavata Justina	r.Vrabelova	0	322
+3350	Hlavatá Mária		0	11,12,225,427,721
+3350	Hlavatý Jozef		0	11,12,225,427,721
+3350	Hlavatý Martin		0	671
+3350	Hlavatý Matúš		0	12
+3350	Hlavatý Michal		0	11,12,225,427,721
+3350	Hlavatý Valentín		0	11,12,225,427,721
+3350	Kalinka Martin r. Kalinka		0	672
+3350	Kalinková		0	427
+3350	Kalinková Katarína r. Bečkerová		0	7
+3350	Kalinková Mária r. Griegerová		0	11,12,225,721
+3350	Karhutňáková Anna		0	670
+3350	Karhutňáková Helena		0	11,12,225,427,721
+3350	Karhutňaková Žofia		0	12
+3350	Karhutnyak Ján		0	11,12,225,427,721
+3350	Kolár František		0	11,12,225,427,721
+3350	Kolár Matej		0	11,12,225,427,721
+3350	Kollár Ján		0	41,316,773,840,865
+3350	Kollár Pavol		0	41,316,773,840,865
+3350	Kollár Valentín		0	41,316,773,840,865
+3350	Kollárová Alžbeta		0	41,316,773,840,865
+3350	Kollárová Anna		0	41,316,773,840,865
+3350	Kollárová Mária		0	41,316,773,840,865
+3350	Kollárová Mária r. Feczková		0	11,12,225,427,721
+3350	Komara Antal		0	11,12,225,427,721
+3350	Komara Ján		0	11,12,225,427,721
+3350	Komara Jozef		0	115,218,427
+3350	Komara Jozef	1	0	11,225,721
+3350	Komara Jozef	senior	0	11,12,225,427,721
+3350	Komara Michal		0	12,115,339,427
+3350	Komara Michal	1	0	12,115,339
+3350	Komara Michal	2	0	11,12,225,721
+3350	Komara Michal	senior	0	11,12,225,427,721
+3350	Komara Valentín		0	11,12,225,427,721
+3350	Komarová Anna r. Komarová		0	11,225,427,721
+3350	Komarová Anna r. Rolyková		0	11,12,63,225,427,713,721
+3350	Komarová Mária r. Grigerová		0	11,225,427,681,721
+3350	Koval Ján		0	12
+3350	Kovaľ Štefan		0	11,225,427,721
+3350	Kravec Valent	žena Katarína Grieger	0	12,753,754
+3350	Kravecz Jakub		0	11,12,225,427,721
+3350	Lagaň Jozef		0	435
+3350	Lipták František		0	12
+3350	Lipták Imrich		0	12
+3350	Lipták Juraj		0	11,12,225,427,708,721
+3350	Lipták Peter		0	11,12,225,427,721,759
+3350	Lipták Peter r. Lipták		0	200
+3350	Liptak Štefan		0	316,773,865
+3350	Liptaková Alžbeta r. Gurová		0	445
+3350	Liptáková Žofia r. Griegerová		0	12
+3350	Lisoň Andrej		0	435
+3350	Lisoň Andrej	Mlynár	0	675
+3350	Lison Jan		0	323,435,675,687
+3350	Lisoň Ján	Mlynár	0	675
+3350	Lisoň Ján	vojak	0	675
+3350	Lison Juraj		0	321,427,435,675,690,788,789
+3350	Lisoň Juraj	1	0	11,12,225,323,675,687,721
+3350	Lisoň Juraj r. Lisoň		0	675
+3350	Lisoň Michal		0	11,12,225,323,427,435,675,687,721
+3350	Lisoň Michal	Ondrejko	0	11,12,225,323,675,687,721
+3350	Lisoň Michal	Skop	0	675
+3350	Lisoň Ondrej		0	12,435
+3350	Lisoň Ondrej	Ondrejko	0	12
+3350	Lison Peter		0	321,435,690,788,789
+3350	Lisoň Štefan		0	11,12,225,323,427,435,675,687,721
+3350	Lisonň Michal	Ondrejko	0	427
+3350	Lisonova Anna		0	321,435,690,788,789
+3350	Lisonova Katarina		0	321,435,690,788,789
+3350	Lisoňová Katarína r. Lazorova		0	435
+3350	Lisonova Maria		0	321,323,435,687,690,788,789
+3350	Lisoňová Mária r. Dzuganová		0	435,675,726
+3350	Lisoňová Mária r. Hricová		0	218
+3350	Lisoňová Mária r. Lisoňová		0	726
+3350	Lisoňová Mária r. Vrabelová		0	435
+3350	Liszoň Jozef		0	11,12,225,427,721
+3350	Lukács Ján		0	663
+3350	Lukács Pavol		0	708
+3350	Lukácsová Mária		0	11,12,225,427,708,721
+3350	Lukáč Pavol		0	407,435
+3350	Lukáčová Mária r. Antony		0	11,12,225,427,721
+3350	Lukáčová Žofia r. Gurová		0	435
+3350	Lyorko Viktor	Rolyko	0	12
+3350	Marcinko Agost		0	11,12,225,427,721
+3350	Marcinko Michal		0	11,12,225,427,721
+3350	Marcinko Vencel		0	11,12,225,427,721
+3350	Marcinková Anna		0	11,41,42,225,316,427,704,721,738,739,773,840,865
+3350	Marcinková Mária		0	704,738,739
+3350	Paranová Anna r. Vašková		0	11,12,225,427,721
+3350	Pavlíková Katarína r. Lisoňová		0	12
+3350	Piroga Štefan		0	11,12,225,427,721,777
+3350	Pirogová Anna		0	11,12,225,427,721
+3350	Pirogová Magda r. Blašková		0	11,12,225,427,721,777
+3350	Plackova Anna	r.Lisonova	0	323
+3350	Plačková Anna r. Lisoňová		0	687
+3350	Plaskura Štefan		0	7
+3350	Plaskurová Katarína		0	7
+3350	Plaskurová Mária		0	7
+3350	Putova Magdalena	r.Feczkova	0	319
+3350	Putová Magdaléna r. Feczková		0	11,12,29,63,64,225,311,427,468,712,721,819
+3350	Repaská Alžbeta r. Marcinková		0	12
+3350	Repaský Michal		0	704,738,739
+3350	Repasska Anna	r.Burikova	0	322
+3350	Repasska Anna	r.Gburikova	0	322
+3350	Roľko Matej		0	11,12,225,427,721
+3350	Roľko Tomáš		0	11,12,225,427,721
+3350	Rovder Ján		0	12
+3350	Rovderová Anna r. Kollárová		0	12
+3350	Rusňák Vincent		0	12
+3350	Sabol Ondrej		0	11,225,427,721
+3350	Slebodník Štefan		0	11,225,427,721
+3350	Slebodník Valent	žena Žofia Kalinková	0	12
+3350	Slebodníková Žofia r. Kalinková		0	12
+3350	Suchá Anna	maloletá	0	748
+3350	Suchá Anna r. Griegerová		0	11,12,225,427,721
+3350	Suchá Katarína r. Gburíková		0	11,225,427,721
+3350	Suchý Juraj		0	11,12,225,427,721
+3350	Suchý Michal		0	11,12,225,427,721
+3350	Suchý Pavol		0	12
+3350	Suchý Štefan		0	11,30,225,340,427,721,770
+3350	Suchý Valentín		0	730
+3350	Surák Agoston		0	11,12,225,427,721
+3350	Surak Jan	z.A.Griger	0	441
+3350	Surák Ján		0	111,441,442
+3350	Surák Jozef		0	11,225,427,721
+3350	Surák Michal		0	7,441
+3350	Surák Štefan		0	11,12,225,251,359,427,721
+3350	Surák Tomáš		0	11,12,225,427,721,743
+3350	Surakova Anna	r.Griegerova	0	441
+3350	Suráková Anna r. Griegerová		0	672,715
+3350	Suraková Mária		0	442
+3350	Szlebodnik Ján		0	11,12,225,427,721
+3350	Szlebodnik Pavol		0	11,12,225,427,721
+3350	Szlebodnik Štefan		0	11,225,427,721
+3350	Szlebodnik Tomáš		0	11,12,225,427,721
+3350	Szlebodnik Valentín		0	11,225,427,721
+3350	Szlebodniková Katarína		0	11,12,225,427,721
+3350	Szlebodniková Mária		0	11,12,225,427,721
+3350	Szuchá Anna		0	11,12,30,225,333,340,427,458,642,643,721
+3350	Szuchi Pavol		0	12,396,730
+3350	Szurák Ján		0	11,12,225,427,721
+3350	Szurák Ján	1	0	11,12,225,721
+3350	Szurák Martin		0	11,12,225,427,721
+3350	Szurak Michal		0	379,388,733
+3350	Szurák Tomáš		0	11,12,225,427,721

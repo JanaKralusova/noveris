@@ -1,0 +1,256 @@
+1458	SMRIGA Pavol		1	1234
+1458	SOBAK Michal		1	1785
+1458	SOPKO Ján		1	1121,1296,1299,1443
+1458	Sopko Michal		1	949,1121,1296,1299,1449,1842,1843,1920
+1458	SOPKOVÁ Zuzana		1	232,234,236,237,239,480,614,1071,1864,1870
+1458	SOPKOVÁ Zuzana	slob.,otec Ján	1	1540
+1458	Sopková Zuzana r. Kačmarová		1	1121,1297,1298,1299,1443,1449,1456
+1458	SOROKAČOVÁ Mária r. Lukačová		1	493
+1458	SOTÁK Ján		1	1165,1760
+1458	SOTÁK Juraj		1	1762
+1458	SOTÁK Michal		1	391,458,982,983,985,1105,1384,1952,2037
+1458	STAŠKO Juraj		1	830,831,832,833,1075,1079,1380,1381,1768,1850,1950,1951
+1458	Staško Michal		0	1075,1380,1381,1768,1850
+1458	STAŠKO Michal	manž.Vasiľová Anna	1	1696
+1458	Stašková Mária		0	1380,1381
+1458	STAŠKOVÁ Mária r. Capiková		1	641
+1458	STOLÁR Juraj		1	1220
+1458	Stolárová Anna r. Kocaková		1	1220,1791,1796
+1458	STRETAVSKÝ Michal		1	1731
+1458	SURAIOVÁ Anna		1	1352,1480
+1458	SURAIOVÁ Ilona		1	1061,1476
+1458	SURAIOVÁ Mária	mal	1	1352
+1458	SURMAY Jozef		1	458,1952
+1458	SUŠKO Michal		1	1220,1787
+1458	SZABO Štefan		1	458,1952
+1458	ŠALAMONOVIČOVÁ Rozália r. Friedmanová		1	371,372,1779
+1458	ŠAMUDOVSKÁ Anna r. Butková		1	404,405,406,407,408,1061
+1458	ŠAMUDOVSKÁ Anna r. Butkovská		0	403
+1458	ŠAMUDOVSKÁ Anna r. Stolárová		1	1792,1796
+1458	ŠAMUDOVSKÁ Anna r. Tirpáková		1	372
+1458	ŠAMUDOVSKÁ Mária r. Drahňovská		1	458,1952
+1458	ŠAMUDOVSKÁ Mária r. Prachovníková		1	1220,1793,1795
+1458	Šamudovský Andrej		1	1061
+1458	ŠAMUDOVSKÝ Ján		1	1776
+1458	ŠAMUDOVSKY Milan		1	1049
+1458	ŠARO - PALKOCIOVÁ Zuzana r. Kačmarová	vd	1	232,233,234,235,236,237,239,466
+1458	ŠARO Andrej		1	234
+1458	ŠARO Andrej	manž.Virčíková Mária	1	288
+1458	ŠARO Ján	manž.Huňarová Anna	1	233,237,238,239,990
+1458	ŠARO Michal		1	232,233,234,235,236,237,238,466,989,990
+1458	ŠARO Michal	manž.Pirčová Zuzana	1	239,899
+1458	ŠARO Pavol		1	235,773,1285
+1458	ŠARO Pavol	mal	1	233,238
+1458	Šaro-Palkoci Pavol		1	1071,1864,1870
+1458	Šaro-Palkociová Zuzana r. Kačmarová	vd	1	990
+1458	Šarová -Palkociová Zuzana	mal	1	990
+1458	ŠAROVÁ Alžbeta r. Vaľová		1	466,606,899,990
+1458	Šarová Anna r. Andrašová		0	1521
+1458	ŠAROVÁ Anna r. Huňarová		1	237,966,990
+1458	ŠAROVÁ Zuzana		1	233,234,235,237,238,239,899,1345,2016
+1458	ŠAROVÁ Zuzana	Palkociová mal	1	1345,1346,2016
+1458	ŠAROVÁ Zuzana r. Palkociová	mal	1	232,233,234,235,236,237,238,466,480,482,600,606,614
+1458	Šarová-Palkociová Zuzana	mal	1	990
+1458	ŠICHTA Andrej		1	322,617,618,1352
+1458	ŠICHTA Ján		1	322,617,618,1352,1404,1439
+1458	ŠICHTA Juraj	ž.Murgová Mária	1	982
+1458	ŠICHTA Michal		1	322,1120
+1458	ŠICHTA Michal	manž.Horňaková Anna	1	1512
+1458	ŠICHTOVÁ Anna r. Horňaková		1	1512
+1458	ŠICHTOVÁ Mária r. Murgová	manž.Juraj	1	982
+1458	ŠICHTOVÁ Zuzana r. Mojsejová		1	117,119,120,121,1333,2020
+1458	ŠIMKOVÁ Anna r. Mojsejová		1	117
+1458	Šipošová Alžbeta r.Uhrinová /muž Michal/		0	388
+1458	ŠIPOŠOVÁ Anna r. Hricová		1	487,949,1842,1843,1920
+1458	ŠIROCHMAN Ján		1	1338,1339,1984
+1458	ŠIROCHMAN Ján	ž.Mária Kačmarová; ž.Mária Kačmarová	1	119
+1458	ŠIROCHMAN Juraj	vzd	1	397,398
+1458	ŠIROCHMAN Michal		1	183,204,226,228,330,1907,1976,2026
+1458	ŠIROCHMAN Michal	manž.Mitrová Zuzana	1	1590
+1458	Širochmanová Alžbeta r. Demková	manž.Michal	1	1116,1471
+1458	ŠIROCHMANOVÁ Alžbeta r. Demková	manž.Michal; manž.Michal	1	174
+1458	ŠIROCHMANOVÁ Anna	mal	1	398
+1458	Širochmanová Mária		1	203,204,205
+1458	Širochmanová Mária r. Dančaková		1	205
+1458	Širochmanová Mária r. Kačmarová		1	1338,1339,1984
+1458	Širochmanová Zuzana r. Mitrová		1	1590
+1458	ŠTECOVÁ Emília	mal	1	1301
+1458	Štofová Mária r. Erdenyiová		1	1097,1558
+1458	TAČÁR Ján	manž.Kičinková Anna	1	1639
+1458	TAČÁR Michal		1	1504,1595
+1458	TAČAROVÁ Anna r. Andrejcová		1	1595
+1458	TAČÁROVÁ Anna r. Kičinková		1	1639
+1458	TATARČÍK Michal		1	1506
+1458	Tatarčíková Anna r. Šipošová		1	1506
+1458	Tatarová Zuzana r. Sopková		1	1121
+1458	TEKEĽ Ján		1	1147
+1458	TEKEĽ Michal		1	1147
+1458	TEKEĽOVÁ Mária r. Rimková		1	1725
+1458	TEREZKA Juraj	ml	1	1289
+1458	TEREZKA Michal	manž.Kertesová Mária	1	1716
+1458	Terezková Mária r. Bodajlová		1	1289
+1458	Terezková Mária r. Dzurová		1	1181
+1458	TEREZKOVÁ Mária r. Kertesová		1	1716
+1458	Theciková Anna		1	175,298
+1458	Theciková Zuzana		1	175
+1458	Timková Anna r. Korínková		1	1384,2037
+1458	TIRPÁK Michal		1	322
+1458	TIRPAKOVÁ Anna r. Berciková		1	1651
+1458	TIRPÁKOVÁ Zuzana r. Matiová		1	1763
+1458	TKÁČ Ján		1	1085,1854
+1458	TKÁČ Juraj		1	1085,1854
+1458	TKÁČ Juraj	mal	1	1084
+1458	TKÁČ Michal	mal	1	1084
+1458	Tkáčová Anna r. Hricová		1	1224,1227,1767,1827,1851,1995
+1458	Tkáčová Júlia r. Šestáková	manž.Pavol	1	1450
+1458	Tkačová Mária r. Adamová		1	1145,1146,1352,1945
+1458	TKACH John		1	961
+1458	TKACH Joseph		1	961
+1458	TKACH Leonárd		1	961
+1458	TKACH Michael		1	961
+1458	TOMÁŠ Ján		1	1061,1352,1474
+1458	Tomášová Mária r. Mihalcová		1	766,1052,1352,1876,1885,1886,1887,1985,2003,2004
+1458	Tomašuľová Anna r. Jenčíková		1	1174,1859,1860
+1458	Tomko Juraj		1	249,1743,2044
+1458	Tomko Juraj	ž. Alžbeta r. Majerníková	1	249,2044
+1458	TOMKO Juraj	manž.Hromaníková Anna	1	1632
+1458	TOMKO Juraj	manž.Majerníková Alžbeta	1	1283,1743,1750
+1458	TOMKOVÁ Alžbeta		1	1750
+1458	TOMKOVÁ Anna r. Hromaníková		1	1402,1632
+1458	Tomková Elena r. Pikulová		1	1023,1962
+1458	Tomková Helena		1	249,1283,1743,1750,2044
+1458	Tomková Mária		1	249,2044
+1458	TOMOVČÍKOVÁ Alžbeta		1	962,963,1352
+1458	TOMOVČÍKOVÁ Zuzana	mal	1	962,963,1352
+1458	Treščáková Anna r. Kužmová		1	1061
+1458	TYDEŠRUNOVÁ Mária r. Jakubová		1	1711
+1458	UHRIN Andrej		0	183,330,1907,2026
+1458	UHRIN Ján		0	183,330,1907,2026
+1458	Uhrin Juraj		1	1058,2036
+1458	Uhrinová Anna		1	1058,2036
+1458	Uhrinová Helena		1	1058,2036
+1458	UHRINOVÁ Mária	slob	1	1591
+1458	Vaková Anna r. Merjavá		1	524,1468
+1458	VALIOVÁ Anna r. Valisková		1	1343,2033
+1458	VALISKA Andrej	Timočko	1	454,637,1092,1368,1369,1370,1371,2040
+1458	VALISKA Ján	Luco	1	1562
+1458	VALISKA Ján	manž.Hromaníková Mária	1	1483,1553
+1458	VALISKA Ján	ml. ž.Dzurinová Mária	1	263
+1458	VALISKA Juraj	Poškrob	1	672,2035
+1458	VALISKA Michal		1	127,322,474
+1458	VALISKA Michal	ml	1	474
+1458	VALISKA Michal	ž.Vargová Barbora	1	1692
+1458	Valiska Pavol		1	1061
+1458	VALISKA Štefan		1	1244
+1458	Valiska Timečko Andrej, SR		0	1205
+1458	Valiska Timečko Michal, SR		0	1205
+1458	VALISKOVÁ Alžbeta	mal	1	1285
+1458	VALISKOVÁ Alžbeta r. Onderko Bocanová		1	1772
+1458	Valisková Mária r. Hromaníková		1	1483
+1458	VALISKOVÁ Mária r. Vojníková		1	1640
+1458	Valisková Zuzana	mal	1	104
+1458	VALISKOVÁ Zuzana		1	1285
+1458	VALISKOVÁ Zuzana r. Bindasová		1	958,1358,1825,1938,1939,1997,1998,1999
+1458	Valisková Zuzana r. Sopková		1	949,1842,1843,1920
+1458	Valisková Zuzana r. Valisková	vd	1	990
+1458	VAĽO Ján	st.,manž.Valisková Anna	1	1527
+1458	VAĽOVÁ Anna r. Valisková		1	322,1344,1352,1482,1527
+1458	VAĽOVÁ Zuzana		1	753,1364,1366,1367,1694,1930,1994,2000
+1458	Vaľová Zuzana r. Valisková	vd	1	232,233,234,235,236,237,238,239,466,1116,1462,1471
+1458	VANKULIČ Ján		1	1740
+1458	VANKULIČOVÁ Alžbeta r. Koreňová	vd	1	1669
+1458	Vankuličová Zuzana r. Kolesárová		1	345,346,1464
+1458	VARÁDY Juraj		1	1718
+1458	VARGA Ján		1	91
+1458	Varga Michal	ml	1	1359
+1458	VARGA Michal		1	1168,1251,1359,1983
+1458	VARGA Michal	ž.Hančarová Zuzana	1	1667
+1458	Vargová Anna r. Butková		1	1168,1359
+1458	Varmeďa Ján	mal	1	175
+1458	Varmeďa Michal		1	175
+1458	Varmeďová Alžbeta		1	175
+1458	Varmeďová Elena		1	175
+1458	VASIĽ Andrej		1	1236
+1458	VASIĽ Andrej	mal	1	1061
+1458	VASIĽ Elemír		1	799,803,1908,2005
+1458	VASIĽ Ján		1	799,803,1908,2005
+1458	VASIĽ Juraj		1	765,799,800,803,1398,1875,1908,1909,2002,2005
+1458	VASIĽ Michal		1	765,799,800,801,803,1398,1448,1875,1908,1909,2002,2005
+1458	VASIĽ Michal	mal	1	799,800,801,803,1908,1909,2005
+1458	VASIĽ Michal	manž.Prachovniková Anna	1	767,1398
+1458	VASIĽ Michal	ml.ž.Mária Prachovníková	1	765,1875,2002
+1458	VASIĽ Michal	Purej	1	141,457,1415
+1458	VASIĽOVÁ Alžbeta r. Širochmanová		1	203,204
+1458	VASIĽOVÁ Anna		1	799,803,1908,2005
+1458	Vasiľová Anna r. Mojsejová		1	80,112,113,114,115,119,120,121,1025,1333,1627,2020
+1458	VIŇANSKÁ Zuzana r. Dzurová		1	1715
+1458	VIRČÍK Andrej	Bracovský	1	1044
+1458	VIRČÍK Ján	1	1	1817
+1458	VIRČÍK Ján	1 |; 1	1	78
+1458	VIRČÍK Jozef		1	1786
+1458	VIRČÍK Jozef	Bracovský	1	1044
+1458	VIRČÍK Jozef	mal	1	1786
+1458	VIRČÍK Juraj	mal	1	78,1817
+1458	Virčíková Alžbeta r. Jenčíková		1	1174,1859,1860
+1458	Virčíková Mária r. Bracovská		1	1061
+1458	VIRTEŠ Pavol		1	1551
+1458	VLADÁR Emil		1	1682
+1458	VOJNÍK Andrej, 072 01 Laškovce 73		0	1087,1219,1220,1221
+1458	VOLOŠINOVÁ Anna r. Hospodárová	manž.Michal	1	458,1952
+1458	VOLOŠINOVÁ Anna r. Hospodárová	manž.Michal; manž.Michal	1	142,1836,1837,1838,1853
+1458	VOLOŠINOVÁ Anna r. Mechírová		1	459
+1458	Zenčáková Mária r. Kohutová		1	1087,1221
+1458	ZIMOŇ Ján		1	1623
+1458	ZIMOŇOVÁ Tekla r. Krakovská		1	1623
+1459	....		0	1212
+1459	ADAMIK Juraj		0	168,170,1093,1112
+1459	Adriganová Amália	r. Assoniová	0	316
+1459	Adzinová Elena r. Mihaliková		0	1036
+1459	Andejco Ján		0	1194
+1459	ANDREJCO Ján		0	1049,1139
+1459	Andrejcová Anna	r. Olahová	0	1198
+1459	Andrejcová Mária	r. Andrejcová	0	1049,1139,1194,1198
+1459	BAÁN Ján		0	1143
+1459	BAÁNOVÁ Alžbeta		0	1143
+1459	Baánová Elena	mal	0	1143
+1459	BAÁNOVÁ Mária		0	1143
+1459	BÁBAI Andrej		0	1277
+1459	Bábay Ján	mal.; mal	0	1277
+1459	Bábay Michal	mal.; mal	0	1277
+1459	Bačová Šára	r. Fedáková; r. Fedáková	0	1207
+1459	BALICKÁ Mária	r. Vysokaiová	0	1085
+1459	BALICKÁ Mária r. Vysokaiová		0	836,1441
+1459	BALICKÝ Štefan		0	1119
+1459	Ballová Alžbeta r. Bánová		0	629
+1459	Balog Andrej	manž. Anna Maťašová	0	657
+1459	BALOG Andrej		0	657
+1459	Balog Ján	1	0	657
+1459	Balog Ján	malol	0	657
+1459	Balog Michal	manž. Anna Pokiňáková	0	657
+1459	BALOG Michal		0	657
+1459	BALOG Pavel		0	657
+1459	Baloghová Alžbeta	r. Kiseľová	0	1050
+1459	Balogová Alžbeta	r. Šebeoková	0	453
+1459	Balogová Barbora	malol	0	657
+1459	BALOGOVÁ Irena		0	453
+1459	BALOGOVÁ Johana		0	657
+1459	Balogová Juliana	malol	0	657
+1459	Balogová Mária	malol	0	657
+1459	Bandiová Mária	r. Petričková; r. Petričková	0	1317
+1459	BANÍKOVÁ Anna	r. Lendáková	0	1247
+1459	BANÍKOVÁ Anna	z Komárna	0	1247
+1459	BEGALA Ján	mal	0	757
+1459	BEGALA Juraj		0	757
+1459	BEGALA Michal	mal	0	589
+1459	Begala Mikuláš	manž. Anna r. Dandárová; manž. Anna r. Dandárová	0	1220
+1459	BEGALA Mikuláš	manž. Anna r. Dandárová	0	665,1386
+1459	BEGALA Pavol		0	1217
+1459	Begalová Anna	r. Dandarová, manž. Mikuláš; r. Dandarová, manž. Mikuláš	0	1220
+1459	Begalová Anna	r. Ondová; r. Ondová	0	1276
+1459	BEGALOVÁ Anna		0	757
+1459	BEGALOVÁ Anna	r. Dandarová, manž. Mikuláš	0	665
+1459	Begalová Anna r. Dandárová	manž. Mikuláš	0	1386
+1459	BENEDIK Andrej		0	382,383,384
+1459	BENEDIK Michal	1	0	1232
+1459	BENEDIKOVÁ Anna	R.BOJTIMOVÁ	0	1232
+1459	BEREŠ Ján	1	0	602,1382

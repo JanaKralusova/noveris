@@ -1,0 +1,256 @@
+3191	Lapčák Ján r. Lapčák , ČR		0	299
+3191	Lapčák Ján r. Lapčák, Na Topolce 917, Praha 4, PSČ 14000, ČR		0	384
+3191	Lapčák Michal r. Lapčák	manž.Mária r.Trebišovská	0	237
+3191	Lapčák Vasiľ r. Lapčák	1	0	276,299
+3191	Lapčák Vasiľ r. Lapčák	2	0	350
+3191	Lapčaková Anna r. Lapčáková	2	0	265
+3191	Lapčáková Anna r. Lapčáková		0	265,299
+3191	Lapčáková Anna r. Lapčáková	1	0	268
+3191	Lapčáková Anna r. Lapčáková	mal	0	248,268,316
+3191	Lapčáková Anna r. Lapčáková	mal. , SR mal	0	299
+3191	Lapčáková Anna r. Lapčáková	ml	0	248
+3191	Lapčáková Elena r. Lapčáková	mal	0	248,265,299,316
+3191	Lapčáková Helena r. Berežná		0	277,299,315,331,397,398
+3191	Lapčaková Helena r. Lapčáková	mal	0	253,299
+3191	Lapčáková Helena r. Lapčáková		0	250,253,299,348,384
+3191	Lapčáková Helena r. Lapčáková	1	0	241,268
+3191	Lapčáková Ilona r. Lapčáková		0	250,299
+3191	Lapčáková Júlia r. Ličková		0	264,267,272,282,299,413
+3191	Lapčáková Mária r. Lapčáková		0	265,299
+3191	Lapčáková Mária r. Lapčáková	1	0	268
+3191	Lapčáková Mária r. Lapčáková	mal	0	248,316
+3191	Lapčáková Terézia r. Lapčáková	mal	0	250,253,299
+3191	Lebčák Michal r. Lebčák		0	236,299
+3191	Lenková Eva r. Lenková		0	312,319
+3191	Lenková Júlia r. Lenková		0	312,327
+3191	Lenková Mária r. Lenková		0	327
+3191	Ličko Andrej r. Ličko		0	248,264,265,267,272,282,316,413
+3191	Ličko Andrej r. Ličko	1	0	272
+3191	Ličko Andrej r. Ličko	syn Jána	0	267,282,413
+3191	Ličko Andrej r. Ličko	syn Jána , SR syn Jána	0	299
+3191	Ličko Feco r. Ličko		0	274,299
+3191	LIČKO FEDOR	D: malol	0	299
+3191	Ličko Fedor r. Ličko		0	246
+3191	Ličko Fedor r. Ličko	mal	0	266,313,412
+3191	Ličko Ferenc r. Ličko	mal	0	267,272,282,299,413
+3191	Ličko František r. Ličko		0	264
+3191	Ličko Jakub r. Ličko		0	261,299
+3191	Ličko Ján r. Ličko		0	268
+3191	Ličko Ján r. Ličko	1	0	267,282,413
+3191	Ličko Ján r. Ličko	1 , SR 1	0	299
+3191	Ličko Ján r. Ličko	4	0	341
+3191	Ličko Ján r. Ličko	5	0	247,248,265
+3191	Ličko Ján r. Ličko	6	0	246
+3191	Ličko Ján r. Ličko	7	0	264
+3191	Ličko Ján r. Ličko	8	0	299,316
+3191	Ličko Ján r. Ličko	manž.Anna r.Kundrátová	0	235
+3191	Ličko Michal r. Ličko		0	265,266,268,313,412
+3191	Ličko Michal r. Ličko	1	0	246,248,265,266,267,282,299,313,316,412,413
+3191	Ličko Michal r. Ličko	2	0	241,356,393
+3191	Ličko Michal r. Ličko	3	0	267,282,413
+3191	Ličko Michal r. Ličko	3 , SR 3	0	299
+3191	Ličko Michal r. Ličko	4	0	268
+3191	Ličko Michal r. Ličko	5	0	264
+3191	Ličko Michal r. Ličko	6	0	248,316
+3191	Ličko Michal r. Ličko	7	0	272
+3191	Ličko Michal r. Ličko	manž.Paraska r.Pirová	0	246
+3191	Ličko Michal r. Ličko	manž.Paraska r.Pirová , SR manž.Paraska r.Pirová	0	299
+3191	Ličko Michal r. Ličko	ml	0	248,268,316
+3191	Ličko Michal r. Ličko	ml. , SR ml	0	299
+3191	Ličko Nikolaj r. Ličko		0	241,246,248,265,266,267,268,282,299,313,316,356,393,412,413
+3191	Ličko Peter r. Ličko		0	248,265,267,282,316,413
+3191	Ličko Peter r. Ličko	1	0	268
+3191	Ličko Peter r. Ličko	10	0	265
+3191	Ličko Peter r. Ličko	11	0	265
+3191	Ličko Peter r. Ličko	12	0	264
+3191	Ličko Peter r. Ličko	2	0	268
+3191	Ličko Peter r. Ličko	3	0	268
+3191	Ličko Peter r. Ličko	7	0	265,267,282,413
+3191	Ličko Peter r. Ličko	8	0	241
+3191	Ličko Peter r. Ličko	mal	0	248,272,316,341
+3191	Ličko Peter r. Ličko	syn Ivana Lička	0	268
+3191	Ličko Peter r. Ličko	syn Jána	0	267,282,413
+3191	Ličko Peter r. Ličko	syn Jána , SR syn Jána	0	299
+3191	Ličko Vasiľ r. Ličko		0	248,265,267,282,413
+3191	Ličko Vasiľ r. Ličko	1	0	268
+3191	Ličko Vasiľ r. Ličko	2	0	264
+3191	Ličko Vasiľ r. Ličko	mal	0	248,272,299,316
+3191	Ličko Vasiľ r. Ličko	manž.Anna r.Rusnáková	0	264,267,272,282,413
+3191	Ličko Vasiľ r. Ličko	manž.Anna r.Rusnáková , SR manž.Anna r.Rusnáková	0	299
+3191	Ličko Vasiľ r. Ličko	ml	0	248,264,265,267,268,272,282,316,413
+3191	Ličková Anna r. Lapčáková		0	250,253
+3191	LIČKOVÁ ANNA r. LAPČÁKOVÁ , SR		0	299
+3191	Ličková Anna r. Ličková		0	248
+3191	Ličková Anna r. Ličková	1	0	265,299
+3191	Ličková Anna r. Ličková	2	0	316
+3191	Ličková Anna r. Ličková	mal.,dcéra Jána	0	241,268,364
+3191	Ličková Anna r. Lipáková		0	264
+3191	LIČKOVÁ ELENA	D: malol	0	299
+3191	Ličková Elena r. Ličková	dcéra Andreja	0	267,282,413
+3191	Ličková Elena r. Ličková	dcéra Andreja , SR dcéra Andreja	0	299
+3191	Ličková Elena r. Ličková	mal	0	246,262,266,268,313,411,412
+3191	Ličková Helena r. Kasardová		0	366
+3191	Ličková Helena r. Ličková	mal.,dcéra Jána	0	241,364
+3191	Ličková Ilona r. Ličková		0	248
+3191	Ličková Ilona r. Ličková	muž Ján	0	268,316
+3191	Ličková Ilona r. Ličková	muž Ján , SR muž Ján	0	299
+3191	Ličková Mária r. Lapčáková	mal.; mal	0	253
+3191	Ličková Mária r. Lapčáková	Veľkrop 4	0	348
+3191	Ličková Mária r. Lapčáková	Veľkrop 4 , SR Veľkrop 4	0	299
+3191	Ličková Mária r. Lapčáková	Veľkrop 4; Veľkrop 4	0	241,250,268
+3191	LIČKOVÁ MÁRIA r. LAPČAKOVÁ , SR		0	299
+3191	Ličková Mária r. Lapčáková, Veľkrop 4, Stropkov, PSČ 09101, SR		0	384
+3191	Ličková Mária r. Ličková	1	0	246,266,299,313,412
+3191	Ličková Mária r. Maliňáková		0	237,275,299
+3191	LIČKOVÁ TERÉZIA , SR		0	299
+3191	Ličková Terézia r. Ličková		0	246,262,266,299,313,411,412
+3191	Ličková Terézia r. Plavčáková		0	301,303
+3191	Lichvar Peter r. Lichvar	zomrel	0	301,303
+3191	Lichvarová Anna r. Janočková		0	301,303
+3191	Lipák Michal r. Lipák, SR		0	268,299,316
+3191	Lipák Peter r. Lipák		0	241,365
+3191	Lipák Peter r. Lipák	1	0	267,282,299,413
+3191	Lipáková Anna r. Šeršeňová	manž. Michal Lipák	0	247
+3191	Liška Peter r. Liška		0	264
+3191	Liška Peter r. Liška	mal	0	258
+3191	Liška Vasiľ r. Liška	mal	0	258,299
+3191	Lišková Anna r. Lišková	mal	0	258,299
+3191	Lišková Ilona r. Lišková	mal	0	258,299
+3191	Lišková Mária r. Lišková	mal	0	258,299
+3191	Mačošková Anna r. Sahajdová		0	246,266,313,412
+3191	MAČOŠKOVÁ ANNA r. SAHAJDOVÁ , SR		0	299
+3191	Majurník Jozef r. Majurník	mal., syn Michala	0	278,299
+3191	Majurník Michal r. Majurník	mal., syn Michala	0	278,299
+3191	Majurníková Mária r. Majurníková	mal., dcéra Michala	0	278,299
+3191	Maliňák Ján r. Maliňák		0	301,303
+3191	Maliňák Peter r. Maliňák		0	301,303
+3191	Maliňáková Helena r. Čepová		0	254,299
+3191	Maliňáková Júlia r. Maliňáková		0	320
+3191	Mathesová Margaréta r. Tománeková		0	242
+3191	Mochnačová Helena r. Mochnačová	zomrela	0	301,303
+3191	Mojsej Ján r. Mojsej	zomrel	0	303
+3191	Mojsej Vasiľ r. Mojsej	zomrel	0	303
+3191	Mojsejová Anna r. Fiľaková		0	303
+3191	Mulíková Anna r. Ličková		0	267,282,299,413
+3191	Paňko Fedor r. Paňko		0	250,253,299
+3191	Paňko Ján r. Paňko	syn Michala	0	236,299
+3191	Paňko Michal r. Paňko		0	238,263,271,299
+3191	Paňko Tivadar r. Paňko		0	238,263,271,299
+3191	Paňková Anna r. Bajcurová		0	241,372
+3191	Paňková Anna r. Paňková		0	238,250,253,263,271,299
+3191	Paňková Helena r. Paňková		0	238,250,253,263,271,299
+3191	Paňková Juliana r. Paňková	mal	0	238,263,271,299
+3191	Paňková Mária r. Paňková	mal	0	238,263,271,299
+3191	Paňková Terézia r. Paňková		0	238,250,253,263,271,299
+3191	Pavlenko Peter r. Pavlenko		0	250,253,299
+3191	Pavlenková Anna r. Pavlenková	mal	0	250,253,299
+3191	Pavlenková Helena r. Demiková		0	253,299
+3191	Pavlenková Katarína r. Pavlenková	mal	0	250,253,299
+3191	PAVLENKOVÁ MÁRIA , SR		0	299
+3191	Pavlenková Mária r. Pavlenková		0	250,253,299
+3191	Pavlík Michal r. Pavlík		0	280,299
+3191	Pavlíková Anna r. Pavlíková		0	257
+3191	Pavlíková Helena r. Pavlíková	mal	0	257,281,299,302
+3191	Pavlíková Mária r. Ličková		0	246,266,274,313,412
+3191	PAVLÍKOVÁ MÁRIA r. LIČKOVÁ , SR		0	299
+3191	Pecuchová Mária r. Blichová		0	250,299
+3191	Pecuchová Mária r. Pecuchová		0	253
+3191	Pecuchová MÁRIA r. PECUCHOVÁ , SR		0	299
+3191	Petrík Vasiľ r. Petrík	mal.,syn Vasiľa	0	278,299
+3191	Petrík Vasiľ r. Petrík	manž.Anna r.Šeršeňová	0	278
+3191	Piršč Vasiľ r. Piršč	1	0	263
+3191	Piršč Vasiľ r. Piršč	manž.Helena r.Paňková	0	236,238,263,271
+3191	Piršč Vasiľ r. Piršč	manž.Helena r.Paňková , SR manž.Helena r.Paňková	0	299
+3191	Pirščová Helena r. Paňková		0	263,271
+3191	PIRŠČOVÁ HELENA r. PAŇKOVÁ , SR		0	299
+3191	Pistorová Mária r. Šeršeňová		0	259
+3191	Plavčák Andrej r. Plavčák	zomrel	0	301,303
+3191	Plavčák Ján r. Plavčák	manž.Helena r.Baranová	0	301,303
+3191	Plavčáková Helena r. Plavčáková		0	301,303
+3191	Plavčáková Mária r. Plavčáková	zomrela	0	301,303
+3191	Podlesná Anna r. Lapčáková		0	241,250,253,268,348,384
+3191	PODLESNÁ ANNA r. LAPČAKOVÁ , SR		0	299
+3191	Podlesná Mária r. Lapčáková		0	241,250,253,268,348,384
+3191	PODLESNÁ MÁRIA r. LAPČÁKOVÁ , SR		0	299
+3191	Polivčák Andrej r. Polivčák		0	241,351
+3191	Polivčák Ján r. Polivčák		0	299
+3191	Polivčák Ján r. Polivčák	1	0	260,285
+3191	Polivčák Michal r. Polivčák		0	241,254,255,353
+3191	Polivčák Michal r. Polivčák	Duleba	0	240,241
+3191	Polivčák Michal r. Polivčák	mal	0	254,255,299
+3191	Polivčák Michal r. Polivčák , SR		0	299
+3191	Polivčák Mikuláš r. Polivčák		0	235
+3191	Polivčák Pavol r. Polivčák		0	287
+3191	Polivčák Vasiľ r. Polivčák		0	270,299
+3191	Polivčáková Helena r. Polivčáková		0	235,269,279,299
+3191	Polivčáková Mária r. Dulebová		0	254,255
+3191	POLIVČÁKOVÁ MÁRIA r. DULEBOVÁ , SR		0	299
+3191	Polivčáková Mária r. Jaselská	muž Vasiľ	0	256,299
+3191	Polivčáková Terézia r. Polivčaková	dcéra Michala	0	287
+3191	Popovič Andrej r. Popovič		0	318
+3191	Prochira Štefan r. Prochira		0	287
+3191	Prochirová Anna r. Ličková		0	287
+3191	Prochyra Andrej r. Prochyra		0	318
+3191	Prochyra Štefan r. Prochyra		0	260,262,266,285,299,313,411,412
+3191	Prochyrová Anna r. Ličková		0	246,260,262,266,285,313,411,412
+3191	PROCHYROVÁ ANNA r. LIČKOVÁ , SR		0	299
+3191	Prokopič Andrej r. Prokopič		0	241,248,268,299,316,349
+3191	Prokopič Fedor r. Prokopič		0	241,248,268,349
+3191	Prokopič Ján r. Prokopič		0	241,248,268,299,316,349
+3191	Prokopič Peter r. Prokopič		0	241,248,268,299,316,349
+3191	Prokopič Teodor r. Prokopič		0	299,316
+3191	Prokopovič Michal r. Prokopovič	syn Jána	0	301,303
+3191	Prokopovičová Helena r. Prochyrová		0	325
+3191	Repová Mária r. Komišáková		0	318
+3191	Revák Ján r. Revák		0	267,282,299,368,413
+3191	Revák Ján r. Revák	1	0	241
+3191	Revák Michal r. Revák		0	254,255,267,282,299,413
+3191	Revák Peter r. Revák		0	241,368
+3191	Revák Peter r. Revák	mal	0	267,282,299,413
+3191	Revák Peter r. Revák	mal. , SR mal	0	299
+3191	Reváková Helena r. Reváková		0	267,282,299,413
+3191	Rusin Viliam r. Rusin	Stropkov	0	301,303
+3191	Sabolová Mária r. Jevčáková		0	301,303
+3191	Seidelová Johana r. Tománeková		0	242
+3191	Simkaničová Anna r. Pavlenková		0	250,253
+3191	SIMKANIČOVÁ ANNA r. PAVLENKOVÁ , SR		0	299
+3191	Simšovič Samuel r. Simšovič		0	240
+3191	Skičková Júlia r. Vasilišinová		0	301,303
+3191	Skreptáč Ján r. Skreptáč		0	245,259,299,409
+3191	Skyčková Helena r. Vaššová		0	312
+3191	Sonisz Ján r. Sonisz		0	318
+3191	Soniszová Anastázia r. Soniszová		0	318
+3191	Sopociová Helena r. Lapčáková	1	0	299
+3191	Sopociová Helena r. Lapčáková, Píla 58, Píla, PSČ 985 53, SR		0	250,268
+3191	Šeršeň Ján r. Šeršeň		0	367
+3191	Šeršeň Michal r. Šeršeň		0	241,347,359,367
+3191	Šeršeň Michal r. Šeršeň	1	0	245,259,299,409
+3191	Šeršeň Michal r. Šeršeň	ml	0	249
+3191	Šeršeň Mikuláš r. Šeršeň		0	241
+3191	Šeršeňová Anna r. Šeršeňová		0	274
+3191	Šeršeňová Anna r. Šeršeňová	1	0	265,299
+3191	Šeršeňová Helena r. Šeršeňová		0	274,299
+3191	Šeršeňová Mária r. Cupašková		0	241,347
+3191	Šimšovič Šan r. Šimšovič		0	241
+3191	Šmajdová Anna r. Skreptáčová		0	245,259,409
+3191	ŠMAJDOVÁ ANNA r. SKREPTÁČOVÁ , SR		0	299
+3191	Šoltésová Mária r. Vaššová		0	312
+3191	Štepanková Anna r. Lapčáková	Bogdaneč u Pardubic 72	0	348
+3191	Štepanková Anna r. Lapčáková	Bogdaneč u Pardubic 72; Bogdaneč u Pardubic 72	0	241,250,253,268
+3191	Štepanková Anna r. Lapčáková, Bogdaneč u Pardubic, č. 72, ČR		0	384
+3191	Štepanková Anna r. Štepanková	Bogdaneč u Pardubic 72	0	299
+3191	Šurin Andrej r. Šurin	mal	0	274,299
+3191	Šurin Fedor r. Šurin		0	274,299
+3191	Šurin Ján r. Šurin		0	274,299
+3191	Šurin Michal r. Šurin	mal	0	274,299
+3191	Šurin Peter r. Šurin	mal	0	274,299
+3191	Šurin Vasiľ r. Šurin	mal	0	274,299
+3191	Šurinová Anna r. Jaselská		0	256,299
+3191	Šurinová Anna r. Šurinová		0	274,299
+3191	Šurinová Mária r. Ličková		0	246,262,266,313,411,412
+3191	ŠURINOVÁ MÁRIA r. LIČKOVÁ , SR		0	299
+3191	Šurinová Mária r. Šurinová		0	274,299
+3191	Tillová Júlia r. Komišaková	Hinčina ČR	0	318
+3191	Tománek Erich r. Tománek		0	242
+3191	Tománeková Leopoldina r. Tománeková		0	241
+3191	Trebišovská Anna r. Dubasová		0	318

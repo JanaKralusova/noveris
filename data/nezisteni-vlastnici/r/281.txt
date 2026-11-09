@@ -1,0 +1,256 @@
+191	Bilka Štefan	syn Jána a Júlie r.Hrúzovej	1	2620,2621,3678,4819,4820
+191	Bilka Štefan	ž.Ľudmila r.Májková	1	3678,4819,4820
+191	Bilka Tomáš	ž.Terézia r.Májková	1	2620,2621,3678,4819,4820
+191	Bilka Vendelín	syn Jozefa	1	3844
+191	Bilková Alžbeta	dcéra Jána	1	3678
+191	Bilková Alžbeta	dcéra Pavla	1	2620,2621,3678,4819,4820
+191	Bilková Alžbeta	dcéra Štefana	1	2620,2621,4819,4820
+191	Bilková Alžbeta r. Bilková	ž.Jána	1	2620,2621,3678,4819,4820
+191	Bilková Alžbeta r. Bilková	ž.Jozefa	1	4524
+191	Bilková Alžbeta r. Černá	ž.Jozefa	1	4708
+191	Bilková Alžbeta r. Černá	ž.Mateja	1	3678,4709
+191	Bilková Anna r. Hílková	ž.Jozefa	1	2620,2621,3678,4819,4820
+191	Bilková Anna r. Májková	ž.Michala	1	2620,2621,3406,3678,4819,4820
+191	Bilková Anna r. Pavlíková	ž.Pavla	1	2620,2621,3678,4819,4820
+191	Bilková Anna r. Vaňková		1	1913,4048,4633
+191	Bilková Berta	mal	1	2620,2621,3678,4524,4819,4820
+191	Bilková Hedviga		1	4675
+191	Bilková Helena	dcéra Matúša	1	2620,2621,3422,3678,4819,4820
+191	Bilková Helena r. Bakanová		1	2622,2623,2760,2781,3762,3791,3849,3892,4159,4650
+191	Bilková Helena r. Bilková		1	2620,2621,3678,4819,4820
+191	Bilková Helena r. Hílková	ž.Mikuláša	1	2620,2621,3678,4819,4820
+191	Bilková Helena r. Holásková	ž.Pavla	1	2620,2621,4819,4820
+191	Bilková Helena r. Mikésková		1	2620,2621,3678,4819,4820
+191	Bilková Hilda r. Heffertová	ž .Šimona	1	2620
+191	Bilková Hilda r. Heffertová	ž.Šimona	1	2621,3678,4819,4820
+191	Bilková Júlia	dcéra Šimona a Anny r.Černej	1	2620,2621,3678,3758,4430,4573,4819,4820
+191	Bilková Júlia r. Kubincová		1	2247
+191	Bilková Júlia r. Kubincová	ž.Juraja	1	1529,2248
+191	Bilková Júlia r. Májková	ž.Jozefa	1	2620,2621,3678,4819,4820
+191	Bilková Katarína r. Bakanová	ž.Mateja	1	2798
+191	Bilková Katarína r. Bilková		1	2620,2621,3678,4819,4820
+191	Bilková Katarína r. Drinková	ž.Michala	1	2620,2621,3678,4819,4820
+191	Bilková Ľudmila r. Májková		1	2620,2621,3406,3678,4819,4820
+191	Bilková Ľudmila r. Stachová		1	2620,2621,4430,4573,4819,4820
+191	Bilková Magdaléna	dcéra Jána a Júlie r.Hrúzovej	1	2620,2621,3678,4819,4820
+191	Bilková Magdaléna r. Šedivá		1	3678,4475
+191	Bilková Mária	dcéra Jána a Júlie r.Hrúzovej	1	2620,2621,3678,4819,4820
+191	Bilková Mária r. Bilková	ž.Jozefa	1	4819,4820
+191	Bilková Mária r. Bilková	ž.Pavla	1	4523
+191	Bilková Mária r. Bilková	ž.Šimona	1	3678
+191	Bilková Mária r. Gočálová	ž.Jozefa	1	2620,2621,3397,3678,4491,4759,4819,4820
+191	Bilková Mária r. Poláčková	Pavla	1	2621
+191	Bilková Mária r. Poláčková	ž.Pavla	1	2620,3678,4491,4759,4819,4820
+191	Bilková Mária r. Závišová	ž.Pavla	1	4148
+191	Bilková Marta		0	2620,2621
+191	Bilková Terézia	Černá ž.Jozefa	1	2621
+191	Bilková Terézia r. Černá	ž.Jozefa	1	2620,2621,3444,3678,4022,4819,4820
+191	Bilková Terézia r. Solárová		1	3422
+191	Bilková Veronika	Kracinová ž.Šimona	1	2621,3678
+191	Bilková Veronika r. Dobiášová	ž.Mateja	1	1307,1353,2622,2623,2760,2781,4582
+191	Bilková Veronika r. Kracinová	ž.Šimona	1	2509,2620,3414,3678,4819,4820
+191	Bilkovičová Mária r. Gočálová		1	2753,2760,2781,4603
+191	Bittlerová Magdaléna r. Búzková		1	4478
+191	Bízek Ján		1	2622,2623
+191	Bízek Jozef		1	3900
+191	Bízek Jozef	brat Júlie a Márie	1	1353,2620,2621,3678,4819,4820
+191	Bízek Jozef	brat Márie Cintulovej	1	4538
+191	Bízek Jozef	brat Vincenta Márie,Kataríny	1	1353,2620,2621,3678,4819,4820
+191	Bízek Jozef	syn Františka a Márie r.Dobiášovej	1	2620,2621,3678,3738,3885,4255,4819,4820
+191	Bízek Jozef	ž.Rozália r.Michalicová	1	3087
+191	Bízek Rajmund	ž.Agneša r.Andelková	1	2622,2623,2760,2780,2781,2787
+191	Bízek Štefan		1	2620,2621,4819,4820
+191	Bízková Agneša	r.Andelová ž.Rajmunda	1	2501
+191	Bízková Helena	sestra Kataríny a Márie	1	1869,2620,2621,3482,3678,3782,4819,4820
+191	Bízková Helena r. Cintulová		1	1353
+191	Bízková Helena r. Michálková		1	1385,1796,1797,1798
+191	Bízková Júlia	sestra Jozefa a Márie	1	1353,2620,2621,3678,4819,4820
+191	Bízková Júlia r. Samková	ž.Mateja	1	3678,4576
+191	Bízková Katarína	sestra Heleny a Márie	1	1869,2620,2621,3482,3678,3782,4819,4820
+191	Bízková Mária	sestra Júlie a Jozefa	1	1353,2620,2621,3678,4819,4820
+191	Bízková Mária	sestra Kataríny a Heleny	1	1869,2620,2621,3482,3678,3782,4819,4820
+191	Bízková Mária	Sovová ž.Františka	1	2781
+191	Bízková Mária r. Samková	ž.Ondreja	1	3678
+191	Bízková Mária r. Sovová	ž.Františka	1	1289,2620,2621,2622,2623,2699,2760,2781,3086,3164,3678,4327,4819,4820
+191	Bízková Rozália r. Michalicová	ž.Jozefa	1	3087,3678
+191	Bízková Štefánia	mal. sestra Júlie	1	1706,1707,2233,3678
+191	Bízková Žofia r. Khúlová		1	3025
+191	Blahút Ján	brat Rudolfa	1	2620,2621,3678,4819,4820
+191	Blahút Rudolf	brat Jána	1	2620,2621,3678,4819,4820
+191	Blažeková Júlia r. Hodáňová		1	2760,2781
+191	Blödy Fridrich		1	2760,2781,2998
+191	Bobek František	brat Martina	1	2622,2623,2688,2690,2760,2781
+191	Bobek Ignác	syn Štefana	1	1685,2002
+191	Bobek Ján	ž.Helena r.Cvečková	1	1685
+191	Bobek Ján	ž.Mária r.Nesnadná	1	1496,1497,2760,2781,3741
+191	Bobek Ján	ž.Mária r.Vaňková	1	2002,2622,2623,2760,2781,3034
+191	Bobek Jozef	brat Štefana a Márie Drinkovej	1	2622,2623,2760,2781,3678
+191	Bobek Jozef	ž.Anna r.Macejková	1	2760,2781
+191	Bobek Jozef	ž.Helena r.Butašová	1	2622,2623
+191	Bobek Jozef	ž.Mária r.Petrovičová	1	1497,2622,2623,2760,2781,2817,2846
+191	Bobek Martin	brat Františka	1	2446,2447,2448,2622,2623,2687,2688,2689,2690,2760,2781,4129,4489,4627,4960
+191	Bobek Pavol	Helena r.Michalicová	1	2873
+191	Bobek Pavol	ž.Helena r.Michalicová	1	1541,1542,2569,4557
+191	Bobek Štefan	brat Jozefa a Márie Drinkovej	1	2760,2781,3678
+191	Bobek Štefan	ž.Mária r.Poláková	1	2133
+191	Bobková Anna r. Macejková		1	2760,2781
+191	Bobková Anna r. Vaňková	ž.Františka	1	3801
+191	Bobková Mária r. Dobiášová	ž.Pavla	1	2620,2621,2760,2781,3449,3678,3815,4819,4820
+191	Bobková Mária r. Kassayová	ž.Jozefa	1	1353,3745
+191	Bobková Mária r. Michálková		1	2620,2621,3238,3678,4819,4820
+191	Bobková Mária r. Nesnadná		1	2760,2781
+191	Bobková Mária r. Petrovičová	ž.Jozefa	1	2620,2621,3678,4819,4820
+191	Bobková Mária r. Poláková	ž.Štefana	1	1685,2002,2131,2620,2621,2622,2623,2760,2781,2878,3296,3558,3678,4638,4819,4820
+191	Bocková Alžbeta r. Drinková		1	4029
+191	Bojkovská Terézia r. Lešková	ž.Jozefa	1	3425
+191	Bojkovský Jozef	ž.Terézia r.Lešková	1	3425
+191	Bolebruch Štefan	ž.Štefánia r.Vaculková	1	1502,1879,2620,2621,2622,2623,2904,2970,3173,3505,3571,3593,4819,4820,5338
+191	Bolebruch Valentín		1	1502,1879,2620,2621,2622,2623,2904,2970,3505,3571,4819,4820,5338
+191	Bolebruchová Štefánia r. Vaculková		1	718,1336,1337,2039,2622,2623,2760,2781,2897,3173,3678,3773,4274,4297,4832
+191	Bolebruchová Terézia r. Cvečková	ž.Imricha	1	2620,2621,2622,2623,2760,2781,2904,4819,4820
+191	Borovička Pavol	ž.Anna r.Stachová	1	2620,2621,3678,4819,4820
+191	Borovičková Anna	Stachová ž.Pavla	1	2621
+191	Borovičková Anna r. Drinková		1	1408,1410,1412,2620,2621,3678,4819,4820
+191	Borovičková Anna r. Stachová	ž.Pavla	1	2620,2621,3678,4819,4820
+191	Borovičková Helena r. Baďurová		1	2620,2621,3460,3678,4819,4820
+191	Boucyeková Jozefína r. Mikulková		1	1571,1572,2620,2621,3678,4819,4820,5527
+191	Breza František	brat Alžbety	1	3013
+191	Breza Ján	Terézia r.Poláková	1	4235
+191	Breza Jozef	brat Márie Šebestovej a Mateja	1	1353,2366,2367,2622,2623,2760,2781,2863,3678,3685,3732,4515
+191	Breza Ladislav	brat Márie a Pavla	1	3072,3319,3761
+191	Breza Ladislav	ž.Anna r.Šedivá	1	4337
+191	Breza Matej	brat Jozefa a Márie Šebestovej	1	1353,2366,2367,2622,2623,2760,2781,2863,3678,3685,3732,4515
+191	Breza Matej	ž.Mária r.Deščíková	1	2369,2371,3732
+191	Breza Pavol	brat Ladislava a Márie	1	3319,3761,3871
+191	Breza Pavol	ž.Mária r.Kracinová	1	3017
+191	Brezová Alžbeta	sestra Františka	1	3013
+191	Brezová Anna r. Šedivá	ž.Ladislava	1	2620,2621,2990,3390,3678,4337,4819,4820
+191	Brezová Júlia	mal. sestra Márie a Pavlíny	1	1353,4515
+191	Brezová Mária	dcéra Jána a Terézie r.Polákovej	1	3013
+191	Brezová Mária	Deščíková ž.Mateja	1	2622
+191	Brezová Mária	mal. sestra Júlie	1	1353
+191	Brezová Mária	mal.sestra Júlie a Pavlíny	1	2367,2760,2781
+191	Brezová Mária	sestra Ladislava a Pavla	1	3319,3442,3761
+191	Brezová Mária r. Deščíková	ž.Mateja	1	2039,2623
+191	Brezová Mária r. Kracinová	ž.Pavla	1	3017
+191	Brezová Mária r. Sovová	ž.Štefana	1	2622,2711,4360,4625
+191	Brezová Mária r. Sovová	ž.Štefana,SR	0	2623
+191	Brezová Pavlína	sestra Márie a Júlie	1	4515
+191	Brkal Alojz	syn Jozefa a Júlie r.Filípkovej	1	3176
+191	Brkal Jozef	syn Jozefa a Júlie r.Filípkovej	1	3176
+191	Brkalová Apolónia	dcéra Jozefa a Júlie r.Filípkovej	1	3176
+191	Brkalová Júlia	dcéra Jozefa a Júlie r.Filípková	1	3176
+191	Brunovská Margita r. Cintulová	ž.Jozefa	1	1353,3678,3967
+191	Bučková Helena r. Obuchová		1	388,2622,2623,2760,2781,5237,5238
+191	Bulka Alexander	mal	1	1353,2622,2623,2760,2781,3809,3841
+191	Bulka Anton	Rozália r.Škápiková	1	2622
+191	Bulka Anton	ž.Rozália r.Škápiková	1	2622,2623,2760,2781
+191	Bulka Antonín	Karolína r.Trupová	1	2361,2760,2781
+191	BULKA Antonín	ž.Karolína r.Trupová	1	2363,2781
+191	Bulka Ján	brat Štefana, Tomáša a Júlie Nesnadnej	1	2760,2781
+191	Bulka Ján	syn Ondreja	1	2622,2623,2760,2781,3364,3445,3567,3920,4461
+191	Bulka Ján	ž.Mária r.Cintulová	1	4353
+191	Bulka Jozef	ž.Alžbeta r.Krokvová	1	3445,3794,4461
+191	Bulka Jozef	ž.Terézia r.Vaňková	1	2312,5147
+191	Bulka Michal	ž.Terézia r.Šebestová	1	3863,4431
+191	Bulka Pavol	mal.syn Tomáša	1	1353,2760,2781,2978,3232,3678,3794,3809,3841,5254
+191	Bulka Pavol	ž.Anna r.Miklášová	1	3747
+191	Bulka Štefan	syn Jána	1	3445,4443,4461
+191	Bulka Štefan	syn Ondreja	1	2622,2623,2760,2781,3364,3445,3567,3920,4461
+191	Bulka Štefan	ž. Mária Butašová	1	4390,4819
+191	Bulka Štefan	ž. Mária r. Butašová	1	1229,2760,2781,3328
+191	Bulka Štefan	ž. Mária r.Butašová	1	4819,4820
+191	Bulka Štefan	ž.Helena r.Stupavská	1	3863,4431
+191	Bulka Štefan	ž.Mária r.Butašová	1	4820
+191	Bulková Alžbeta r. Drinková		1	2620,2621,4819,4820
+191	Bulková Anna r. Miklášová	ž.Pavla	1	3747
+191	Bulková Helena	dcéra Jána	1	3445,4443,4461
+191	Bulková Júlia r. Hasáková	ž.Antona	1	3678
+191	Bulková Karolína r. Trupová		1	2620,2621,3678,4819,4820
+191	Bulková Mária r. Michálková	sestra Štefana	1	2620,2621,3678,4427,4503,4649,4747,4819,4820
+191	Bulková Rozália	dcéra Jána	1	3445,4443,4461
+191	Bulková Terézia	dcéra Jána	1	3445,4443,4461
+191	Bulková Terézia r. Šebestová	ž.Michala	1	2620,2621,3213,3385,3678,4323,4760,4819,4820
+191	Bulková Terézia r. Vaňková	ž.Jozefa	1	2312,2313,2360,2362,5147
+191	Bulková Zuzana	dcéra Jána	1	3445,4443,4461
+191	Buraj Anton	ž.Alžbeta r.Nesnadná	1	2039,2211,2212,2213,2214,2215,2216,2222,2620,2621,3678,4819,4820,4841
+191	Buraj Ľudovít	ž.Alžbeta r.Hlavenková	1	2211,2212,2213,2214,2215,2216,2222,2620,2621,3678,4819,4820
+191	Buraj Štefan	ž.Johana r.Šajdíková	1	3678,4819,4820
+191	Burajová Alžbeta r. Nesnadná	ž.Antona	1	2039,2216,4841
+191	Burajová Anna r. Šajdíková	ž.Imricha	1	2212,2213,2222,2760,2781,3678,4196
+191	Buray František	Magdaléna	1	4822
+191	Buray Imrich	Anna r.Šajdíková	1	2211
+191	Buray Imrich	ž.Anna r.Šajdíková	1	2212,2213,2214,2215,2216,2222,2620,2621,3678,4819,4820
+191	Buray Martin	ž.Katarína r.Žišková	1	2215
+191	Burayová Alžbeta r. Hlavenková		1	2622,2623,2760,2781
+191	Burayová Alžbeta r. Nesnadná		1	2212,2213,2214,2215,2222,2620,2621,3316,3678,4001,4202,4487,4819,4820
+191	Burayová Anna r. Šajdíková	ž.Imricha	1	2214,2215,2216,2620,2621,4771,4819,4820
+191	Burayová Johana r. Šajdíková	ž.Štefana	1	2760,2781,3678,4819,4820
+191	Burayová Johana r. Šajdíková	ž.Štefanak	1	4819
+191	Burayová Magdaléna	ž.Františka	1	4822
+191	Burayová Magdaléna r. Šedivá		1	1353,1868,1871,3678
+191	Burian Ján		1	1979
+191	Burián Ján	ž.Júlia r.Jankovičová	1	4673
+191	Burianová Júlia r. Sekáčová		1	4050,4586
+191	Butaš Alojz	ž.Júlia r.Janíčková	1	1459,2518,2519,2620,2621,2622,2623,2760,2781,3678,3790,4678,4819,4820
+191	Butaš Alojz	ž.Štefánia r.Petríková	1	2620,2621,2900,2941,3678,4096,4819,4820,5464
+191	Butaš Anton	syn Ignáca a Apolónie r.Polákove	1	4820
+191	Butaš Anton	syn Ignáca a Apolónie r.Polákovej	1	2620,2621,2639,2640,3459,4819
+191	Butaš Florián		1	2620,2621,2760,2781,4439,4445,4819,4820
+191	Butaš Florián	ž.Magdaléna r.Kováriková	1	2066,2620,2621,2622,2623,2760,2781,2819,2842,3384,4388,4439,4445,4537,4819,4820,5378
+191	Butaš František	brat Kláry syn Ignáca	1	3290
+191	Butaš František	syn Ignáca a Apolónie r.Polákovej	1	2620,2621,2639,2640,3459,4819,4820
+191	Butaš František	ž.Helena r.Cvečková	1	2941,4568,4819,4820,5464
+191	Butaš František	ž.Mária r.Búzková	1	1878,2919,3596,3726,3890,4331,4581
+191	Butaš František	ž.Terézia r.Vilémová	1	256,334,1245,1250,2512,2622,2623,2760,2781,2788,2821,2862,3500,3664,4079,4915,5252
+191	Butaš Ignác	brat Kataríny	1	3678,4235
+191	Butaš Ignác	brat Terézie Orgoňovej a Márie Stankovej	1	1369,2620,2621,2639,2640,4819,4820
+191	Butaš Ignác	syn Heleny Bulkovej r.Butašovej	1	3678
+191	Butaš Ignác	ž.Apolónia r.Poláková	1	3678
+191	Butaš Ignác	ž.Júlia r.Sekáčová	1	2760,2781
+191	Butaš Ján	syn Antona a Terézie r.Škápikovej	1	3290,3419
+191	Butaš Ján	syn Jozefa a Júlie r.Černej	1	2620,2621,2941,3678,4819,4820,5464
+191	Butaš Ján	syn Pavla brat Jozefa	1	4469
+191	Butaš Jozef	brat Pavla,Márie Búzkovej a Františka	1	1250,2788
+191	Butaš Jozef	brat Rajmunda a Magdalény čp.440	1	1244,1245,1246,1247,1248,1249,1250,2622,2623,2624,2626,2760,2781
+191	Butaš Jozef	brat Štefana a syn Štefana	1	4692
+191	Butaš Jozef	slob	1	256,334,1245,2512,2622,2623,2760,2781,2821,2862,3500,3664,4079,4915,5252
+191	Butaš Jozef	syn Jána	1	2613,3065,3678,4297
+191	Butaš Jozef	syn Pavla brat Jána	1	4469
+191	Butaš Ladislav	brat Michala,Márie,Júlie,Anny,Štefana,La	1	2622,2623,2760,2781,2842,3384,3799,4537,5378
+191	Butaš Matej		1	1685,2622,2623,2760,2781,2975,3060,3853,4218,4418
+191	Butaš Matej	syn Matúša a Júlie r.Butašovej	1	2941,3678,5464
+191	Butaš Michal	ž.Terézia r.Janíčková	1	1364,1459,2518,2519,2620,2621,2760,2781,3678,3790,3850,4476,4678,4819,4820
+191	Butaš Pavol	mal. syn Ignáca a Apolónie r.Polákovej	1	1353,1822,2932,3290
+191	Butaš Pavol	syn Ignáca a Apolónie r.Polákovej	1	3459,4819,4820
+191	Butaš Pavol	syn Jána	1	2613,3065,3678,4297
+191	Butaš Pavol	ž.Rozália r.Grajzová	1	2620,2621,2639,2640,3678,4819,4820
+191	Butaš Rajmund		1	2622,2623,2760,2781
+191	Butaš Rudolf		1	1942,2760,2781
+191	Butaš Štefan	brat Františka	1	1878,3596,3726,3890
+191	Butaš Štefan	brat Jána, Márie a Jozefa	1	1229,2760,2781,3591
+191	Butaš Štefan	brat Jozefa a syn Štefana	1	4692
+191	Butaš Štefan	mal.brat Michala,Márie,Júlie,Anny,Pavla	1	3174
+191	Butaš Štefan	ž.Roz.r.Grajzová,Amerika	1	2620,2621
+191	Butašová Albína		1	1364
+191	Butašová Albína r. Hlavenková	ž.Ignáca	1	2620,2621,3141,3678,3734,4451,4819,4820
+191	Butašová Albína r. Totková		1	2313,3678
+191	Butašová Alžbeta r. Cintulová	ž.Ľudovíta	1	2622,2623,2760,2781
+191	Butašová Anna	mal.dcéra Ignáca a Apolónie r.Polákovej	1	2620,2621,2639,2640,3459,4819,4820
+191	Butašová Apolónia r. .Poláková		1	2639
+191	Butašová Apolónia r. Poláková		1	2620,2621,2640,3459,4819,4820
+191	Butašová Emília	dcéra Jána	1	2613,3065,3678,4297
+191	Butašová Emília	sestra Štefana a Márie	1	2620,2621,2900,2941,3678,4096,4819,4820,5464
+191	Butašová Helena		1	1364
+191	Butašová Helena	dcéra Jána a Heleny r.Janíčkovej	1	2620,2621,2900,2941,3678,4096,4819,4820,5464
+191	Butašová Helena	sestra Alojza a Michala	1	1459,2047,2054,2056,2060,2518,2519,2620,2621,2622,2623,2760,2781,3678,4678,4819,4820
+191	Butašová Helena r. Bachtová	ž.Jozefa	1	2760,2781
+191	Butašová Helena r. Janíčková	ž.Jána	1	4096
+191	Butašová Júlia	dcéra Ignáca a Apolónie r.Polákovej	1	2620,2621,2639,2640,3459,4819,4820
+191	Butašová Júlia	dcéra Jána	1	2613,3065,3678,4297
+191	Butašová Júlia	dcéra Jána a Heleny r.Janíčkovej	1	2620,2621,2900,2941,3678,4096,4819,4820,5464
+191	Butašová Júlia	sestra Kataríny dcéra Jána	1	2900
+191	Butašová Júlia r. Černá	ž.Štefana	1	1321,1322,1348,2622,2623,2760,2781,2821,2856,3301,3518,3587
+191	Butašová Júlia r. Janíčková	ž.Alojza	1	2058,3140,4819,4820
+191	Butašová Júlia r. Sekáčová	ž.Ignáca	1	2622,2623
+191	Butašová Katarína	sestra Ignáca	1	3678,4235

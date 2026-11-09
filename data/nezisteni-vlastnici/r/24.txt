@@ -1,0 +1,256 @@
+25	Cabanová Johana		1	1191
+25	Cabanová Johana	LSR	0	1192
+25	Cabanová Johana, SR		0	501
+25	Cabanová Karolína, SR	Kubíková	1	1106
+25	Cabanová Mária		1	567
+25	Cabanová Mária	maloletá	1	1532
+25	Cabanová Mária r. Černáková	m.Štefan	1	1406
+25	Cabanová Oľga r. Piliarová		1	1476
+25	Cabanová Oľga r. Piliarová, SR		1	977
+25	Cabanová Pavlína r. Chovancová, SR	m.Izidor	1	1125
+25	Cabanová Pavlína r. Kánová, SR	Iskra	1	1025
+25	Cabanová Zuzana	v Bacúchu	1	1295,1302
+25	Cabanová Zuzana r. Cibulová	Cesnaková	1	1421,1423
+25	Cabanová Zuzana r. Cibulová	Cesnaková; LSR	0	1603
+25	Cabanová Zuzana r. Cibulová Cesnaková, SR		1	527,528,901
+25	Cabanová Zuzana r. Cibulová, SR	Cesnaková	1	747,762,1077
+25	Cabanová Zuzana, SR	v Bacúchu	1	501
+25	Cbanová Františka r. Haraburdová, SR	Kyseľová,m.Rudolf	1	747
+25	Cesnak František	Dominikov	1	1423
+25	Cesnak František, SR	Dominikov	1	528
+25	Cesnak František, SR	Petrík,m.Mária r.Betková	1	715
+25	Cesnak Izidor, SR	Ondrej	1	966
+25	Cesnak Ján		1	1393
+25	Cesnak Ján	1	1	1648
+25	Cesnak Ján	2	1	1482
+25	Cesnak Ján	Petrík	1	1461
+25	Cesnak Ján, SR	1	1	1052
+25	Cesnak Ján, SR	2	1	1094
+25	Cesnak Ján, SR	Holec,m.Elena r.Niklová,č.165; zom. 12.08.1988	0	848,869,1021
+25	Cesnak Jozef	Labkoš	1	1423,1534
+25	Cesnak Jozef	maloletý 1	1	1482
+25	Cesnak Jozef	Petrík	1	1328
+25	Cesnak Jozef, SR		1	1102
+25	Cesnak Jozef, SR	Labkoš	1	528
+25	Cesnak Jozef, SR	maloletý 1	1	1094
+25	Cesnak Jozef, SR	Petrík	1	675,771
+25	Cesnak Jozef, SR	Petrík; LSR	0	772
+25	Cesnak Július, SR		1	527
+25	Cesnak Juraj	maloletý	1	1609,1611,1648
+25	Cesnak Juraj	maloletý; LSR	0	1610
+25	Cesnak Juraj, SR	maloletý	1	485,740,857,897,901,976
+25	Cesnak Klement		1	1648
+25	Cesnak Klement, SR		1	1094
+25	Cesnak Matej		1	1648
+25	Cesnak Michal, SR	ml	1	926
+25	Cesnak Ondrej	Petrov	1	1423,1648
+25	Cesnak Ondrej, SR	Petrov	1	528,675,747
+25	Cesnak Pavel	Holec,m.Mária r.Piliarová, zom. 22.10.1964	0	1423
+25	Cesnak Pavel, SR	Holec,m.Mária r.Piliarová, zom. 22.10.1964	0	552,747,812,869,1025,1103
+25	Cesnak Štefan	Petrík	1	1616
+25	Cesnaková Anna	maloletá	1	1251,1579,1646
+25	Cesnaková Anna	maloletá; LSR	0	1580
+25	Cesnaková Anna r. Chovancová, SR		1	862,879
+25	Cesnaková Anna, SR		1	675
+25	Cesnaková Anna, SR	maloletá	1	966
+25	Cesnaková Božena	maloletá	1	1251,1579,1646
+25	Cesnaková Božena	maloletá; LSR	0	1580
+25	Cesnaková Božena, SR	maloletá	1	966
+25	Cesnaková Emília r. Cibuľová	m.Jozef	1	1415,1509,1648
+25	Cesnaková Emília r. Cibuľová	m.Jozef; LSR	0	1456
+25	Cesnaková Emília r. Cibuľová, SR		1	733
+25	Cesnaková Emília r. Cibuľová, SR	m.Jozef	1	865
+25	Cesnaková Emília r. Čajnáková		1	1393,1651
+25	Cesnaková Emília r. Čajnáková, SR		1	623
+25	Cesnaková Ilona r. Kánová Zlúkyová, SR		1	913
+25	Cesnaková Júlia r. Švantnerová		0	599,600,1754
+25	Cesnaková Juliana r. Švantnerová	zom. 13.07.1971	0	1351
+25	Cesnaková Mária		1	1611
+25	Cesnaková Mária r. Chovancová		1	1251
+25	Cesnaková Mária r. Kánová	Zlúkyová	1	1648
+25	Cesnaková Mária r. Piliarová	zom. 01.06.1987	0	1519
+25	Cesnaková Mária r. Piliarová, SR	zom. 01.06.1987	0	551,812,869
+25	Cesnaková Mária r. Zajacová		1	1539
+25	Cesnaková Mária, SR	maloletá	1	857,901,976
+25	Cesnáková Pavlína r. Betková, SR	m.Ján	1	869
+25	Cesnaková Šarlota	maloletá	1	1482
+25	Cesnaková Šarlota, SR	maloletá	1	1094
+25	Cibuľa	Cesnak,maloletý	1	527
+25	Cibuľa Adolf	Tŕnik,Krško; zom. 18.10.1962	0	1341,1631
+25	Cibuľa Dominik	Cesnak	1	1423
+25	Cibuľa Dominik, SR	1	0	833,847
+25	Cibuľa Dominik, SR	Cesnak	1	528,747
+25	Cibuľa Domokoš, SR	Cesnak	1	527
+25	Cibuľa František	1	1	1648
+25	Cibuľa František	2	1	1648
+25	Cibuľa František	m.Angela r.Turošíková	0	1460,1618
+25	Cibuľa František, SR		1	491,723,742,743,837,953
+25	Cibuľa František, SR	3	1	870,932
+25	Cibuľa František, SR	Kuchár,maloletý	1	742,756
+25	Cibuľa František, SR	m.Angela r.Turošíková	0	743,757,837
+25	Cibuľa František, SR	maloletý	1	680,757
+25	Cibuľa Imrich	Tŕnik	1	550,723,825,866,869,1519
+25	Cibuľa Imrich, SR	Tŕnik	1	898,909
+25	Cibuľa Ján	Cesnak,maloletý	1	1397,1423
+25	Cibuľa Ján	Frančo	1	1648
+25	Cibuľa Ján	Holec,Cesnak	1	1423
+25	Cibula Ján, SR	Neb	0	285
+25	Cibuľa Ján, SR		1	851
+25	Cibuľa Ján, SR	Cesnak	1	675,747,901
+25	Cibuľa Ján, SR	Miškát	1	837
+25	Cibúľa Ján, SR	Cesnak,maloletý	1	527,528,751,838,901
+25	Cibuľa Jozef	2	1	1460
+25	Cibuľa Jozef	6	1	1354,1648
+25	Cibuľa Jozef	Cesnak	1	1423
+25	Cibuľa Jozef	Fučko	1	1513,1617
+25	Cibuľa Jozef	Kuchár,m.Kristína r.Cibuľová	1	1338
+25	Cibuľa Jozef	Kuchár,m.Mária r.Piliarová,Lajoš	1	1276,1592
+25	Cibuľa Jozef	Kuchár,m.Mária r.Piliarová,Lajoš; LSR	0	1599
+25	Cibuľa Jozef	maloletý,Kurálor	1	1397,1581
+25	Cibuľa Jozef	maloletý,Kurálor; LSR	0	1582
+25	Cibuľa Jozef	maloletý,Tŕnik Krško	1	1648
+25	Cibuľa Jozef r. Cesnak, SR		1	832
+25	Cibuľa Jozef, SR	6	1	491,901
+25	Cibuľa Jozef, SR	Cesnak	1	485,527,528,747,897
+25	Cibuľa Jozef, SR	Kuchár,m.Mária r.Piliarová,Lajoš	1	668,879
+25	Cibuľa Jozef, SR	maloletý,Kurálor	1	680,742
+25	Cibuľa Jozef, SR	maloletý,Tŕnik Krško	1	668,756,884
+25	Cibuľa Jozef, SR	miškát	0	743
+25	Cibuľa Július, SR	Kuchár,maloletý	1	742,756
+25	Cibuľa Ladislav, SR	Miškát	1	837
+25	Cibuľa Matej		1	1618
+25	Cibuľa Matej	Paroš	1	1415,1499
+25	Cibuľa Matej	Paroš; LSR	0	1456
+25	Cibuľa Matej, SR		1	680,743,757,892
+25	Cibuľa Matej, SR	Cesnak	1	675,901
+25	Cibuľa Matej, SR	Tŕnik	1	743,837
+25	Cibuľa Matej, SR	Tŕnik,Krško	1	576
+25	Cibuľa Matúš, SR		1	837
+25	Cibuľa Michal	Tŕnik,Krško	1	1344,1611
+25	Cibuľa Michal, SR	Tŕnik,Krško	1	668
+25	Cibuľa Neit, SR	Tŕnik,maloletý	1	723,866,909
+25	Cibuľa Pavel	Miškát	0	1169,1439,1440,1468,1555,1648
+25	Cibuľa Pavel, SR	Miškát	0	742,743,932
+25	Cibuľa Rudolf, SR	maloletý,Tŕnik Krško	1	576,668,756,884
+25	Cibuľa Štefan	Baday,m.Júlia r.Betková	1	1458
+25	Cibuľa Štefan	maloletý	1	1397,1423,1621
+25	Cibuľa Štefan, SR	maloletý	1	527,747,901
+25	Cibuľa Vojtech, SR	Cesnak	1	747
+25	Cibuľová Angela r. Kánová	Miškátová,Zlúkyová	1	1648
+25	Cibuľová Angela r. Kánová Zlúkyová, SR	vd.,Miškátová	1	491
+25	Cibuľová Angela r. Medveďová, SR	m.Ján	1	448,725,743,847
+25	Cibuľová Angelika, SR		1	837
+25	Cibuľová Anna		1	448
+25	Cibuľová Anna	Cesnaková	1	528,1423
+25	Cibuľová Anna	maloletá,Kurálorová	1	1581
+25	Cibuľová Anna	maloletá,Kurálorová; LSR	0	1582
+25	Cibuľová Anna r. Bubelínyová, SR	vd	1	747
+25	Cibuľová Anna r. Cibuľová, SR	Sabová,m.Jozef	1	869
+25	Cibuľová Anna r. Cibuľová,, SR	Sabová,m.Jozef	1	837
+25	Cibuľová Anna r. Chovancová, SR		1	879
+25	Cibuľová Anna r. Kuchárová, SR		1	756
+25	Cibuľová Anna r. Svošová		1	1419
+25	Cibuľová Anna, SR		1	725,847
+25	Cibuľová Anna, SR	Cesnaková	1	527,747,901
+25	Cibuľová Anna, SR	Kuchárová	1	742
+25	Cibuľová Božena, SR	maloletá,Tŕniková Kršková	1	668,756
+25	Cibuľová Božena, SR	zom. 14.04.2000	0	847
+25	Cibuľová Emília r. Piliarová	vd.,m.Emerich	1	1465,1542
+25	Cibuľová Emília r. Piliarová, SR	vd.,m.Emerich	1	866
+25	Cibuľová Emília r. Piliarová, SR	vd.m.Emerich	1	551
+25	Cibuľová Emília, SR	maloletá	1	680
+25	Cibulová Filoména r. Betková, SR		0	330
+25	Cibuľová Hedviga	maloletá,Kurálorová	1	1581
+25	Cibuľová Hedviga	maloletá,Kurálorová; LSR	0	1582
+25	Cibuľová Hedviga, SR		1	448,725,847
+25	Cibuľová Helena r. Cibuľová	Holecová,Cesnaková	1	1423
+25	Cibuľová Irma r. Nikelová, SR	č.30	1	1092
+25	Cibuľová Irma, SR	Tŕniková	1	723,866
+25	Cibuľová Jozefa, SR	maloletá,Tŕnik,Krško	1	576
+25	Cibuľová Júlia r. Betková	m.Štefan	1	1458,1460
+25	Cibuľová Júlia r. Piliarová	m.Emerich	1	1354
+25	Cibuľová Júlia, SR	Tŕniková	1	723,866,909
+25	Cibuľová Justína r. Halová, SR	m.Michal	1	733
+25	Cibuľová Karolína r. Cibuľová		1	1349
+25	Cibuľová Kristína r. Cibuľová	m.Jozef	1	1338
+25	Cibuľová Magdaléna, SR		1	756,831,884,1007
+25	Cibuľová Margita r. Haraburdová, SR		1	927
+25	Cibuľová Mária	Cesnaková	1	1423
+25	Cibuľová Mária r. Kánová Zlúkyová		1	659,806,837,1824,1826,1827,1829
+25	Cibuľová Mária r. Ološtiaková, SR	Kršková,m.Michal	1	837
+25	Cibuľová Mária, SR		1	743,756,884
+25	Cibuľová Mária, SR	Cesnaková	1	527,528,747,901
+25	Cibuľová Matej, SR		1	894
+25	Cibuľová Pavlína	1	0	1305
+25	Cibuľová Pavlína r. Cibulová, SR	Halová,vd	1	491,846,870
+25	Cibuľová Pavlína, SR		1	837
+25	Cibuľová Pavlína, SR	Miškátová	1	1109
+25	Cibuľová Zuzana r. Cibuľová, SR	Parošová,m.Ján	1	551,869
+25	Cibuľová Zuzana r. Haraburdová	Puňťová, vd., m. Jozef	1	864
+25	Cibuľová Zuzana r. Haraburdová	Puňťová,vd.,m.Jozef	1	1157,1648
+25	Cibuľová Zuzana r. Haraburdová	vd.,m.Jozef; LSR	0	1441
+25	Cibulová Zuzana r. Haraburdová, SR	Puňťová,m.Jozef	1	472
+25	Cibuľová Zuzana r. Haraburdová, SR	Puňťová,vd.,m.Jozef	1	520,837
+25	Cibuľová Zuzana r. Kánová Zlúkyová, SR	Tŕniková	1	854
+25	Covanec Ján, SR	maloletý	1	918
+25	Cvrkuliak Michal, Braväcovo, č. 14, SR	Šperka	0	1613
+25	Čajnák Michal		1	1648
+25	Čajnák Michal, SR		1	374,989
+25	Čajnák Štefan		0	374
+25	Čajnáková Anna r. Orovčíková, SR	m.Ján	1	623
+25	Čajnáková Gizela r. Haraburdová		1	1528,1557,1648
+25	Čajnáková Gizela r. Haraburdová, SR		1	537,837
+25	Čajnáková r. Orovčíková	m.Ján	1	1648
+25	Čajnáková Terézia r. Chovancová	vd	1	1489
+25	Čajnáková Terézia r. Chovancová)		1	1648
+25	Čellár Alojz		1	1612
+25	Čellár Ján		1	1612
+25	Černák František		1	1679
+25	Černák František	1	1	1679
+25	Černák František	2	1	1679
+25	Černák František	3	1	1678
+25	Černák Ján		1	1679
+25	Černák Ján	1	1	1679
+25	Černák Jozef		1	1679
+25	Černák Jozef	1 1	1	1679
+25	Černák Jozef	2	1	1679
+25	Černák Matej		1	1679
+25	Černák Michal		1	1679
+25	Černák Ondrej	m.Magdaléna r.Horváthová	1	1679
+25	Černák Pavel		1	1679
+25	Černák Rudolf		1	1679
+25	Černák Štefan		1	1679
+25	Černák Štefan	1	1	1679
+25	Černáková Anna r. Riadaliková		1	1679
+25	Černáková Barbora		1	1679
+25	Černáková Elena r. Riadaliková		1	1679
+25	Černáková Emília r. Riadaliková		1	1679
+25	Černáková Mária r. Riadaliková		1	1679
+25	Černáková Terézia		1	1679
+25	Červík Jakub		1	1613
+25	Červík Ján	Jesenské	1	1613
+25	Červík Jozef	na neznámom mieste	1	1613
+25	Červíková Anna	na neznámom mieste	1	1613
+25	Čuník Ján		1	1648
+25	Čuník Ján, SR		1	1015,1038
+25	Čuník Jozef		1	1648
+25	Čuník Jozef, SR	m.Adela r.Rakytová	1	788
+25	Čuník Jozef, SR	st.,m.Lena r.Čajnáková	1	788
+25	Čuník Michal	m.Ilona r.Zajacová	1	1390
+25	Čuník Michal	ml	1	1648
+25	Čuník Pavol, SR	m.Magdaléna r.Bubelínyová	1	1091
+25	Čuníková Adela r. Rakytová, SR	m.Jozef	1	508,518
+25	Čuníková Barbora		1	1632,1637
+25	Čuníková Barbora	LSR	0	1636
+25	Čuníková Gizela r. .Ďurčíková, SR	m.Gašpar	1	724
+25	Čuníková Gizela r. Ďurčíková	m.Gašpar	1	1395,1402,1623
+25	Čuníková Gizela r. Ďurčíková, SR	m.Gašpar	1	670
+25	Čuníková Hedviga r. Cesnaková		1	1609,1611,1648
+25	Čuníková Hedviga r. Cesnaková	LSR	0	1610
+25	Čuníková Hedviga r. Cesnaková, SR		1	481,485,740,857,897,901,976
+25	Čuníková Hedviga, SR	Cesnaková	1	485
+25	Čuníková Ilona r. Zajacová	m.Michal	1	1390
+25	Dolinský Ivan		1	822
+25	Drobčová Mária r. Rajčoková	LSR	0	1604
+25	Dunajská Mária r. Maculová		1	1608
+25	Dupák Rudolf		1	1682

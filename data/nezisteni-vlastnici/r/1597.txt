@@ -1,0 +1,256 @@
+939	HAVRAN Ján	ž.Pavlína	1	2386
+939	HAVRAN Ján	ž.Terézia	1	2386
+939	Havran Ján, zom.10.06.1982	ž.Terézia	0	3253,3254,3255,3478
+939	Havran Ján, zom.20.11.1973	ž.Pavlína	0	3253,3254,3255
+939	HAVRAN Jozef	slob. cd 598/50	1	2211
+939	HAVRAN Michal	ž.Mária r.Hudecová	1	2386,3253,3254,3255
+939	Havran Michal, zom.25.05.1993	Zvolen	0	4116
+939	HAVRAN Peter	ž.Anna	1	2386
+939	Havran Peter, zom.21.06.1964	ž.Anna	0	3253,3254,3255
+939	HAVRAN Stanislav	Bernolákovo	1	1193,1741
+939	Havran Stanislav, zom.12.02.1992	Bernolákovo	0	3721
+939	HAVRAN Štefan	ž.Katarína r.Hudecová	1	2386,3253,3254,3255
+939	HAVRAN Urban, zom. 23.12.1980		1	2386
+939	Havran Urban, zom.23.12.1980 zom.23.12.1980		0	3253,3254,3255
+939	Havran Viktor	ž.Mária r.Richterová	0	3336
+939	Havran Vincent	ž.Helena r.Benčátová	0	3835
+939	Havranová Alžbeta	brat Ladislav	0	3283,3461
+939	Havranová Helena	bratia Ondrej a Mikuláš,Psiare	0	3250,3564
+939	Havranová Júlia		0	4318
+939	HAVRANOVÁ Katarína	r.Hudecová m.Štefan	1	2386,3253,3254,3255
+939	Havranová Katarína r. Prachárová, Hronský Beňadik 428, Hronský Beňadik, PSČ 966 53, SR		1	1526
+939	HAVRANOVÁ Mária	r.Hudecová m.Michal	1	2386,3253,3254,3255
+939	HAVRANOVÁ Pavlína	r.Ecetová	1	2386
+939	Havranová Pavlína r. Ecetová, zom.28.09.1965 zom.28.09.1965		0	3253,3254,3255
+939	Havranová Terézia, zom.09.01.1991	Pastuchov č.73	0	4163
+939	Havranová Vilma r. Majerová	vdova	0	3992
+939	Havranová Vilma r. Majerová	vdova,Hronský Beňadik,SR	0	4121
+939	Havranová Vilma r. Majerová, Hronský Beňadik, SR	vdova	1	2169
+939	HOLEČKOVÁ Terézia	r.Zeliezková,m.Štefan	1	2386,3253,3254,3255
+939	Homola Michal	ž.Margita r.Vlčková	0	3317
+939	HORMANOVÁ Etela	r.Bendová	1	2386
+939	Hörmanová Etela r. Bendová, zom.05.01.1992 zom.05.01.1992		0	3253,3254,3255
+939	Horváthová Helena r. Krištofová		0	3653
+939	HRÚZA Vojtech	ž.Viktória	1	2386
+939	Hrúza Vojtech, zom.27.09.1969	ž.Viktória	0	3253,3254,3255
+939	HRÚZOVÁ Viktória	r.Príbelská	1	2386
+939	Hrúzová Viktória r. Príbelská, zom.16.02.1984 zom.16.02.1984		0	3253,3254,3255
+939	Hudec Ludvik	ž.Mária r.Švolíková,Psiare č.26	0	3599
+939	Hudec Michal	súrodenci Terézia,Katarína	0	3447
+939	Hudec Štefan	ž.Anna r.Mrázová,Psiare	0	4253
+939	Hudec Vincent r. Bandziová	ž.Terézia r.Bandziová,Psiare 58,96653 H.Beňadik,SR	0	3960
+939	Hudecová Alžbeta r. Kontošová, zom.19.12.2000 zom.19.12.2000		0	3277
+939	Hudecová Anna r. Salenková	m.bol Ondrej,Psiare č.55	0	4197
+939	Hudecová Anna, nar.02.07.1914	sestra Jozefíny Ráchelovej,Psiare	0	4150
+939	Hudecová Katarína	r.Prachárová,Hronský Beňadik č.114	0	4201
+939	HUDECOVÁ Katarína, r.Prachárová,Hronský Beňadik č.114)| r.Prachárová,Hronský Beňadik č.114)|		0	3887
+939	HUDECOVÁ Mária	r.Havranová m.Ondrej,Kozárovce	1	1741,3515
+939	Hudecová Mária r. Švolíková	Psiare	0	3686
+939	Hudecová Pavlína r. Ráchelová	vdova,Psiare	0	4181
+939	Hudecová Rozália r. Srnková	vdova,Psiare	0	4122
+939	Chlpíková Anna	r.Trungelová m.bol Štefan	0	3241,4266
+939	CHRIPKOVÁ Helena	r.Selecká	1	2386
+939	Chripková Helena r. Selecká		0	3253,3254,3255
+939	CHYŽNIAKOVÁ Etela	r.Vydrová,Brno	1	2386
+939	Chyžniaková Etela r. Vydrová	Brno	0	3253,3254,3255
+939	Ivan Filip r. Ivan, zom. 13. 6. 1986, Tekovské Nemce zom. 13. 6. 1986, Tekovské Nemce		0	4118
+939	IVANČIČOVÁ Angela	r.Blažovičová,Maďarsko-nebohá	1	2386
+939	Ivančičová Angela r. Blažovičová	Maďarsko nebohá	0	3253,3254,3255
+939	Ivančičová Angela r. Blažovičová, SR	Maďarsko nebohá	1	926,927
+939	JANTOŠÍKOVÁ Veronika	r.Gáfriková,zomrela v 1954,H.Beňadik	1	2386,3253,3254,3255
+939	JAVOREKOVÁ Terézia	r.Štoselová	1	2386
+939	Javoreková Terézia r. Štoselová, nar.03.09.1907,zom. 17.03.1989 nar.03.09.1907,zom. 17.03.1989		0	3742
+939	Javoreková Terézia r. Štoselová, zom.17.03.1989 zom.17.03.1989		0	3253,3254,3255
+939	JESENSKÁ Mária	r.Zhorelová	1	2386
+939	Jesenská Mária r. Zhorelová, zom.19.04.1976 zom.19.04.1976		0	3253,3254,3255
+939	JUSIGOVÁ Eva	r.Kuxová	1	2386
+939	Jusigová Eva r. Kuxová		0	3253,3254,3255
+939	Jusková Agneša	r.Ecetová,vdova,Hronský Beňadik č.282	0	4440
+939	Jusková Agneša r. Ecetová	vdova	0	4440
+939	Kabátová Terézia r. Toverová	nebohá Kozárovce	0	3974
+939	Káčer Ján	zom. 12.01.1985 ž.Katarína |	1	2842
+939	KÁČER Ján	Jánov,zomrel v roku 1962	1	2386,3253,3254,3255
+939	KÁČER Ján	ž.Katarína	1	2386
+939	Káčer Ján, zom.12.01.1985	ž.Katarína	0	3253,3254,3255
+939	Káčer Jozef	ž.Anna r.Drgoňová,Tekovské Nemce č.282	0	4417
+939	Káčer Jozef	ž.Terézia r.Šimegová,Tekovské Nemce 202	0	3948
+939	KÁČER Jozef	ž.Helena	1	2386
+939	Káčer Jozef, zom.19.06.1984	ž.Helena	0	3253,3254,3255
+939	Káčer Karol	Hronský Beňadik č.63	0	3420
+939	KÁČER Karol	ž.Bernardína	1	2386
+939	Káčer Karol, zom.10.12.1984	ž.Bernardína	0	3253,3254,3255
+939	Káčer Viktor	ž.Mária	0	3763
+939	KÁČER Viktor	ž.Terezia	1	2386
+939	Káčer Viktor, zom.03.11.1984	ž.Terezia	0	3253,3254,3255
+939	KÁČER Vincent	ž.Mária	1	2386
+939	Káčer Vincent, zom.18.02.1985	ž.Mária	0	3253,3254,3255
+939	Káčer Vincent, zom.22.12.1976	ž.Mária	0	3253,3254,3255
+939	Káčerová Anna r. Havranová	93401 Levice, SR	0	3336
+939	Káčerová Anna r. Štekláčová, SR	vdova,zom. 1953	1	2116
+939	KÁČEROVÁ Helena	r.Morvajová	1	2386
+939	KÁČEROVÁ Helena r. Morvajová	zom. 26.09.1988	1	2590
+939	Káčerová Helena r. Morvajová, zom.26.09.1988 zom.26.09.1988		0	3253,3254,3255
+939	KÁČEROVÁ Katarína	r.Drevová	1	2386
+939	Káčerová Katarína r. Drevová	zom. 22.10.1983	1	2842
+939	Káčerová Katarína r. Drevová, zom.22.10.1983 zom.22.10.1983		0	3253,3254,3255
+939	Káčerová Katarína r. Hudecová	vdova	0	4384
+939	KÁČEROVÁ Mária	r.Hlaváčová	1	2386
+939	KÁČEROVÁ Mária	r.Lopúchová	1	2386
+939	KÁČEROVÁ Mária	r.Šimonovičová,vdova	1	2269
+939	Káčerová Mária r. Hlaváčová, zom.22.09.1988 zom.22.09.1988		0	3253,3254,3255
+939	Káčerová Mária r. Káčerová, HRONSKÝ BEŇADIK, SR	nebohá - zomr.2.12.1986	0	2386
+939	Káčerová Mária r. Krištofová		0	3383
+939	Káčerová Mária r. Lopúchová, zom.03.12.1973 zom.03.12.1973		0	3253,3254,3255
+939	Káčerová Mária r. Šimonovičová	vdova	0	3986
+939	KÁČEROVÁ Mária, zom. 02.12.1986		1	2386
+939	Káčerová Mária, zom.02.12.1986 zom.02.12.1986		0	3253,3254,3255
+939	KÁČEROVÁ Terézia	r.Zeliezková,Hronský Beňadik č.8	1	2386
+939	Káčerová Terézia r. Hudecová	vdova Psiare 58, 96653 Hronský Beňadik,SR	0	3395
+939	Káčerová Terézia r. Lendóciová, Ulička 363/33, Hronský Beňadik, PSČ 966 53, SR	H.Beňadik č.233,nebohá	0	3338
+939	Káčerová Terézia, zom.23.10.1989	r.Zeliezková,Hronský Beňadik č.8	0	3253,3254,3255
+939	KÁČEROVÁ Viktória	r.Príbelská	1	2386
+939	Káčerová Viktória r. Príbelská		1	37,3253,3254,3255
+939	KALIAKOVÁ Terézia	r.Jusková,vdova,Hronský Beňadik č.21	1	2386,3214,3253,3254,3255
+939	Kaliaková Terézia r. Jusková	21, 96653 Hronský Beňadik, SR	0	3214
+939	Kaliaková Viktória r. Kuklová, 966 78, Hrabičov, SR		1	1750
+939	KAMENICKÁ Alžbeta	r.Mesárošová	1	2386
+939	Kamenická Alžbeta r. Mesárošová, zom.05.11.1967 zom.05.11.1967		0	3253,3254,3255
+939	KAMENICKÝ Alexander	cd 83/54	1	2234
+939	KAMENICKÝ Alexander	ž.Alžbeta r.Messárošová,Hronský Beňadik	1	2386
+939	KARHAN Jozef	ž.Mária	1	2386
+939	Karhan Jozef, zom.16.04.1986	ž.Mária	0	3253,3254,3255
+939	KAROLUS Ladislav, zom. 13.04.1988		1	2386
+939	Karolus Ladislav, zom.13.04.1988 zom.13.04.1988		0	3253,3254,3255
+939	KAROLUSOVÁ Alžbeta	r.Vydrová,zom.9.9.1967,H.Beňadik č.207	1	2386
+939	Karolusová Alžbeta r. Vydrová		1	1750,3253,3254,3255
+939	Kasan František r. Kasan		0	3577
+939	Kasan Pavel	ž.Katarína r.Peťková,Tekovská Breznica	0	4022
+939	KIKUŠOVÁ Marta	Mária r.Bónová	1	2386
+939	Kikušová Marta r. Bónová	Mária	0	3253,3254,3255,3405,3820
+939	KLIMANTOVÁ Mária r. Belicová, Hronský Beňadik, č. 69, SR		0	2013
+939	Klobučníková Mária r. Havranová, Dubnica nad Váhom, SR	zom	1	2840
+939	KMEŤ Štefan	ž.Emília,Hronský Beňadik č.319	1	2386
+939	Kmeť Štefan, zom.04.07.1986	ž.Emília,Hronský Beňadik č.319	0	3253,3254,3255
+939	Koleničková Mária	r.Havranová,Kuliškova č.9 Bratislava	0	3371
+939	KOLENIČKOVÁ Mária	r.Havranová,Kuliškova č.9-Bratislava	1	1193,1741
+939	Koleničková Mária r. Havranová, , Kuliškova 9, Bratislava, SR , Kuliškova 9, Bratislava, SR		0	3787
+939	KOLENÍKOVÁ Mária	r.Štekláčová,Psiare	1	2122
+939	Koleníková Mária r. Štekláčová	Psiare	0	3766
+939	KONEČNÁ Anna	r.Krajčiová,H.Beňadik č.288,nebohá	1	2386
+939	Kontoš Ján	ž.bola Alžbeta r.Ráchelová,Psiare č.8	0	3949
+939	Kontošová Irena	r.Kontošová m.Michal,Psiare	0	3731
+939	Kontošová Valéria r. Hudecová		0	4317
+939	KOPČA Anton, zom. 10.01.1983		1	2386
+939	Kopča Anton, zom.10.01.1983 zom.10.01.1983		0	3253,3254,3255
+939	KOPČA Jozef, zom. 04.01.1968		1	2386
+939	Kopča Jozef, zom.04.01.1968 zom.04.01.1968		0	3253,3254,3255
+939	KOPČA Viktor	ž.Mária	1	2386
+939	Kopča Viktor, zom.15.07.1987	ž.Mária	0	3253,3254,3255
+939	KOPČOVÁ Angela	r.Káčerová	1	2214,2386
+939	Kopčová Angela r. Káčerová, zom. 24.9.1986 zom. 24.9.1986		0	3233
+939	Kopčová Angela r. Káčerová, zom.24.09.1986 zom.24.09.1986		0	3233,3253,3254,3255,3961
+939	KOPČOVÁ Mária	r.Šimonovičová	1	2386
+939	Kopčová Mária r. Šimonovičová, zom.02.08.1979 zom.02.08.1979		0	3253,3254,3255
+939	Kosmályová Anna r. Hapenová, Krivínska 78/51, Hronský Beňadik - Psiare, PSČ 966 53, SR		0	3329,3338
+939	Kosmályová Pavlína r. Hudecová	nebohá	0	3459
+939	Kosová Viktória r. Maňuchová	Karviná VI ČR	0	3978
+939	KOSTOLÁNYI Karol	Brno-Jakuba Obrovského 5-ČR,nebohý	1	2386
+939	Kostolányi Karol, nar.28.02.1933	Brno Jakuba Obrovského 5 ČR,nebohý	0	3253,3254,3255
+939	KOSTOLÁNYOVÁ Mária	r.Bandziová,muž Ondrej,H.Beňadik č.57	1	2386
+939	Kostolányová Mária r. Bandziová	muž Ondrej,H.Beňadik č.57	0	3253,3254,3255
+939	KOTORA Laurinc	ž.Anna	1	2386
+939	Kotora Laurinc, zom.20.07.1986	ž.Anna	0	3253,3254,3255
+939	KOTOROVÁ Anna	cd 519/62	1	2075
+939	Kotorová Anna, SR		1	2076
+939	Kotorová Katarína		0	3246,3316
+939	Kotorová Katarína	cd 908/12	0	3246,3316
+939	KOTOROVÁ Viktória	r.Príbelska	1	2386
+939	Kotorová Viktória r. Príbelska		0	3253,3254,3255,3958
+939	KOVÁČ Demeter, zom. 31.12.1973		1	2386
+939	Kováč Demeter, zom.31.12.1973 zom.31.12.1973		0	3253,3254,3255
+939	KOVÁČ Jozef	ž.Mária	1	2386
+939	Kováč Jozef, zom.06.08.1971	ž.Mária	0	3253,3254,3255
+939	Kováč Vincent, zom.25.10.1968 zom.25.10.1968		0	3253,3254,3255
+939	Kováčová Agneša r. Príbelská	m.Demeter,H.Beňadik č.129	0	4175
+939	KOVÁČOVÁ Mária	r.Hapenová	1	2386
+939	Kováčová Mária r. Hapenová		0	3253,3254,3255
+939	Kováčová Viktória r. Mancierová		0	3717
+939	KOZÁR František	cd 235/59	1	2386,3253,3254,3255
+939	KOZÁR Jozef	ž.Anna,Tlmače-Lipová 7	1	1989,2386
+939	Kozár Jozef, zom.16.05.2000	ž.Anna,Tlmače Lipová 7	0	3253,3254,3255
+939	KOZÁROVÁ Anna	r.Súmegová,Tlmače	1	1989,2386
+939	Kozárová Anna r. Súmegová	Tlmače	0	3253,3254,3255
+939	Král Ján	ž.Katarína r.Vlčková	0	4189
+939	Králová Katarína r. Vlčková	m.Ján	0	3694
+939	KRIKOVÁ Emília	r.Bíbelová	1	2386
+939	KRIKOVÁ Emília r. Bíbelová		1	2017,3061,3253,3254,3255,3289,3965,4010,4043
+939	Kriková Emília r. Bíbelová, SR		1	381,1972,2978,3059,3127
+939	Krištof Martin	ž.Anna r.Lovecká,Orovnica, 96652 Tek. Breznica,SR	0	3553
+939	KRIŽANSKÁ Anna	r.Lovecká m.Ján	1	2596,3555
+939	KRIŽANSKÝ Jozef	ž.Viktória	1	2386
+939	Križanský Jozef, zom.26.12.1954	ž.Viktória	0	3253,3254,3255
+939	Križanský Ondrej r. Križanský, Okružná ulica 1449/2, Levoča, PSČ 054 01, SR		0	3382
+939	Križanský Štefan	Kukučínova 180, Prievidza, SR	0	3253,3254,3255
+939	Križanský Štefan, Kukučínova 180, Prievidza, SR		0	2386
+939	Krovina Imrich, Hronský Beňadik 73, Hronský Beňadik, PSČ 966 53, SR	zom. 20.11.1997, ž.Mária	1	2653
+939	KROVINA Ján	ž.Veronika r.Hudecová	1	2386
+939	Krovina Ján, nar.07.12.1905	ž.Veronika r.Hudecová	0	3253,3254,3255,4153
+939	Krovina Melichar, Ing., Kulovská 3, Bratislava, SR		1	2451
+939	KROVINA Michal	Prof.ThDr. ČSL armády 21-Bratislava	1	2386
+939	Krovina Michal, zom.16.01.1991	Prof.ThDr. ČSL armády 21 Bratislava	0	3253,3254,3255
+939	KROVINOVÁ Pavlína	r.Bíbelová,Hronský Beňadik č.28	1	2386
+939	Krovinová Pavlína, zom.20.05.1999	r.Bíbelová,Hronský Beňadik č.28	0	3253,3254,3255
+939	Krovinová Verona	r.Hudecová, m.Ján	0	4196
+939	KROVINOVÁ Viktória	r.Šimonovičová m.bol.Ján	1	2668
+939	KUBÁSEKOVÁ Gabriela	r.Ujhelyová,Kpt.Nálepku č.1842-Zvolen	1	2386
+939	Kubáseková Gabriela r. Ujhelyová, zom.19.08.1987	Kpt.Nálepku č.1842 Zvolen	0	3253,3254,3255
+939	KUKLA Filip	ž.Kristína	1	2386
+939	Kukla Filip, zom.01.04.1983	ž.Kristína	0	3253,3254,3255
+939	Kukla Ján r. Kukla	ž.Alžbeta r.Hrúzová	1	1750
+939	KUKLA Ľudovít		1	1750
+939	KUKLOVÁ Alžbeta	r.Hrúzová,Hronský Beňadik	1	2025,2386
+939	Kuklová Alžbeta r. Hrúzová	Hronský Beňadik	0	3253,3254,3255
+939	KUKLOVÁ Mária r. Sitárová	vdova	1	1750
+939	KULÍNI Eduard	ž.Júlia,Oslavany-Skalky č.29-Brno	1	2386
+939	Kulíni Eduard, zom.29.08.1941	ž.Júlia,Oslavany Skalky č.29 Brno	0	3253,3254,3255
+939	KURZOVOVÁ Anna	r.Wertheimerová,Lermontova 4a-Bratislava	1	2386
+939	Kurzovová Anna r. Wertheimerová	Lermontova 4a Bratislava	0	3253,3254,3255,3624
+939	KUXA Juraj	cd 57/51	1	2386,3253,3254,3255
+939	Lancková Rozália r. Urgasová, zom.24.11.1982 zom.24.11.1982		0	4069
+939	LASAB Michal		1	2386
+939	LASAB Michal	ž.Katarína,Hronský Beňadik č.222	1	2386
+939	Lasab Michal, zom. 9.5.1984	ž.Katarína, Hronský Beňadik 222	0	3253,3254,3255,4274
+939	Lasab Michal, zom.31.01.1973 zom.31.01.1973		0	3253,3254,3255
+939	Lasabová Viktória r. Kosmályová, zom. 23.3.1998	Hronský Beňadik 147, 96653	0	3277
+939	LÁSLAVSKÁ Mária	r.Černáková	1	2386
+939	Láslavská Mária r. Černáková, zom.15.07.1980 zom.15.07.1980		0	3253,3254,3255
+939	LAUKO Jozef, zom. 06.05.1971		1	2386
+939	Lauko Jozef, zom.06.05.1971 zom.06.05.1971		0	3253,3254,3255
+939	Laurinc Ján	ž.Anna r.Briešková,Tekovské Nemce č.19	0	4225
+939	Laurinc Jozef	ž.Anna r.Valachová,Tekovské Nemce č.245	0	3901
+939	LENDÓCI Ladislav	ž.Alžbeta	1	2386
+939	Lendóci Ladislav r. Lendóci,  -, Hronský Beňadik, PSČ 966 53, SR, ž.Alžbeta ž.Alžbeta		0	3338,4018
+939	LENDÓCIOVÁ Alžbeta	r.Hapenová	1	2386
+939	Lendóciová Alžbeta r. Hapenová, nar.27.02.1914,zom. 23.03.1986 nar.27.02.1914,zom. 23.03.1986		0	4020
+939	Lendóciová Alžbeta r. Hapenová, SR		1	998,999,3089
+939	Lendóciová Alžbeta r. Hapenová, SR	zom	1	2978
+939	Lendóciová Alžbeta r. Hapenová, SR	zom. 23.03.1986	1	2593
+939	Lendóciová Alžbeta r. Hapenová, zom.23.03.1986 zom.23.03.1986		0	3253,3254,3255,3329,3959,4377
+939	Lesný Majetok	Psiarov, Obyvateľov	0	3277
+939	Lichá Mária r. Kopčová, zom.12.08.1996	Na zábave 42, 97401 Banská Bystrica	0	3243
+939	LOPÚCH Michal	ž.Zuzana	1	2386
+939	Lopúch Michal, zom.06.05.1974	ž.Zuzana	0	3253,3254,3255
+939	LOPÚCHOVÁ Zuzana	r.Píryová	1	2386
+939	Lopúchová Zuzana r. Píryová, zom.08.10.1986 zom.08.10.1986		0	3253,3254,3255
+939	Lovecká Katarína r. Vlčková, zom.20.07.1970	Orovnica	0	3652
+939	Lovecká Mária r. Krištofová	Orovnica 8, 96652 Tekovská Breznica, SR	0	3549
+939	Lovecký Ján	st.,ž. Anna r.Kopernická,Orovnica,96652Tek.Breznica	0	3770
+939	Majer Štefan	ž.Mária r.Ráchelová,Kozárovce	0	3533,3813
+939	Majerová Mária	r.Ráchelová m.Štefan,Kozárovce	0	3460,3670
+939	Major Štefan	starší,Levice	0	4350
+939	Malatinec Vojtech r. Malatinec	zom., ž.Margita	1	1750
+939	Malgaši Jozef	ml. ž.Alžbeta r.Škvarková	0	3503
+939	Malgašová Alžbeta	r.Škvarková m.Jozef	0	3982
+939	MANCIER Ján	ž.bola Mária,nebohý	1	2386,3253,3254,3255
+939	MANCIEROVÁ Mária	r.Jusková	1	2386
+939	Mancierová Mária r. Jusková, zom.24.12.1972 zom.24.12.1972		0	3253,3254,3255

@@ -1,0 +1,256 @@
+3344	ŠIMURDOVÁ Zuzana	nebohá	1	429
+3344	ŠĽACHTOVÁ Mária r. Veľasová	Hankovce	0	562
+3344	Štafuriková Mária	nebohá-rod.Macková	0	247,265,287,290,295
+3344	ŠTAFURIKOVÁ Mária	r.Macková nebohá	1	67,80,207,278,433,442
+3344	Šubová Mária	nebohá-rod.Hrinová	0	214
+3344	ŠUBOVÁ Mária	r.Hrinová nebohá	1	189,248
+3344	TKÁČIKOVÁ Zuzana	nebohá	1	54,152,218,261
+3344	TKÁČOVÁ Anna	r.Macková nebohá	1	67,80,207,278,433,442
+3344	Vachaľová Mária	nebohá-rod.Kašiková	0	326,327,342,343,344,353,354,355,356,361
+3344	VARGOVÁ Mária r. Petrovčínová, SR		0	562
+3344	VEĽAS Ján		0	562
+3344	VEĽAS Ján, SR		0	562
+3344	VEĽAS Michal	Hankovce	0	562
+3344	VEĽAS Pavel, SR		0	562
+3344	VEĽAS Pavol		0	562
+3344	VEĽAS Pavol, SR		0	562
+3344	VEĽASOVÁ Anna		0	562,565
+3344	VEĽASOVÁ Anna, SR		0	562
+3344	VEĽASOVÁ Helena, SR		0	562
+3344	VEĽASOVÁ Mária, SR		0	562
+3344	Weis Ľudovít	nebohý	1	299,300,303,306,363,367,420
+3344	WEIS Ľudovít /nebohý/		0	400
+3344	ZAJAC Tomáš	nebohý	1	435
+3344	ZAJACOVÁ Alžbeta	r.Gergelyová nebohá	1	435
+3344	Zajacová Anna	nebohá	1	228,250,413,435
+3344	Zajacová Mária	nebohá-vzd.r.Bobaľa Gavalčin	0	220,367
+3344	ZAJACOVÁ Mária	r.Bobaľa Gavalčin nebohá vzd	1	437,451
+3344	ZAJACOVÁ Mária r. Bobaľ Gavalčin	nebohá vzd	0	338
+3344	ZAJACOVÁ Mária r. Bobaľa Gavalčín	nebohá vzd	0	210,302,363
+3344	ZAJACOVÁ Mária r. Bobaľa-Gavlčín	nebohá vzd	0	238
+3344	Ženčák František	nebohý	0	318,326,327,330,342,343,344,353,354,355,356,361,363,367
+3344	ŽIDZIKOVÁ Anna	4842 SHELL COURT Warren, Mich.48091 USA	0	562
+3344	ŽIGA Jozef	Porúbka	1	133,170,206,424
+3344	Žiga Michal	nebohý	1	235,272,448
+3344	Žiga Pavol	nebohý	1	221,229,430,449
+3344	Žiga Štefan	nebohý	1	313,327,333,424
+3344	Žiga Štefan	nebohý-vzd	0	313,333,341,352,357,359,360,362,363,364,366,367
+3344	ŽIGA Štefan		0	289
+3344	ŽIGA Štefan	vzd.nebohý	1	133
+3344	Žigová Alžbeta	nebohá-Bilšak r.Žigová	0	235,272
+3344	Žigová Alžbeta	nebohá-rod.Žigová	0	235,272
+3344	Žigová Alžbeta	vd.nebohá-r.Žigová	0	327,344,354
+3344	Žigová Alžbeta	vd.nebohá-r.Žigová; vd.nebohá	0	342,355,356,361
+3344	Žigová Alžbeta	vd.nebohá-r.Žigová; vd.nebohá r.Žigová	0	326,343,353
+3344	ŽIGOVÁ Alžbeta	Bilšaková r.Žigová nebohá	1	448
+3344	ŽIGOVÁ Alžbeta	r.Žigová nebohá	1	448
+3344	Žigová Anna	nebohá	1	235,272,448
+3344	Žigová Mária	nebohá-rod.Ištoková	0	259,296
+3345	Balász Katalin r. Szabó		0	189
+3345	Balázs Ľudovít		0	127
+3345	Balázs Štefan		0	127
+3345	Balázs Štefan r. Balázs	žena Estera r. Tóthová	0	234
+3345	Balázsová Estera r. Lócsayová		0	267
+3345	Balázsová Katarína r. Szabová		0	257
+3345	Berková Gizela r. Deleneryová		0	261
+3345	Búra Žigmund		0	191
+3345	Cziriová Johana r. Kontaová		0	240
+3345	Hajzerová Agneša r. Brenzaová		0	263
+3345	Halloová Rozália r. Kovácsová		0	143
+3345	Hanzer Július r. Hanzer	žena Emma r. Čekeyová	0	263
+3345	Hasíč Michal r. Hasíč	žena Júlia r. Nagyová	0	265
+3345	Hasíčová Júlia r. Nagyová		0	265
+3345	JRD Vyšné nad Hronom		0	219
+3345	Kalász Ľudovít r. Kalász	žena Lídia r. Józsaová	0	273
+3345	Kalnai Jonáš		0	162
+3345	Keményová Alžbeta r. Keményová		0	156,258
+3345	Kéményová Rozália r. Szobiová		0	274
+3345	Kovács Arpád r. Kovács	starší	0	238
+3345	Kovács Ondrej		0	133
+3345	Kovács Štefan r. Kovács	žena Gizela r. Nagyová	0	266
+3345	Kovács Zoltán r. Kovács		0	268
+3345	Kovácsová Gizela r. Keményová		0	148,246
+3345	Maczáková Vilma r. Kontaová		0	240
+3345	Molnárová Irena r. Jakabová		0	270
+3345	Nagyová Alžbeta r. Baranyaiová		0	261
+3345	Németh Šteafn r. Németh		0	260
+3345	Németh Štefan r. Németh	žena Estera r. Gutraiová	0	253
+3345	Némethová Estera r. Gutraiová		0	244
+3345	Pólyaová Agneša r. Keményová		0	243,258
+3345	Prištiaková Zuzana		0	106,124
+3345	Puksa Jónás		0	188
+3345	Révész Július		0	76
+3345	Révészová Agneša r. Révészová		0	76
+3345	Szabová Kristína		0	241
+3345	Szányi Štefan r. Szányi		0	242
+3345	Szilvás Arpád r. Szilvás	syn Františka a Estery	0	220
+3345	Szilvás Ernest r. Szilvás	syn Františka a Estery	0	220
+3345	Szilvásová Estera r. Kulcsárová		0	220
+3345	Školník Michal		0	107,124
+3345	Školníková Alžbeta		0	124
+3345	Školníková Helena		0	124
+3345	Tildi Ľudovít r. Tildi		0	232
+3345	Tildi Ľudovít r. Tildi	starší	0	276
+3345	Tildi Ľudovít r. Tildi	žena Johana r. Vizsechradská	0	269
+3345	Tóth Štefan r. Tóth	žena Irena r. Salgová	0	259
+3345	Tóthová Irena r. Salgová		0	259
+3345	Udvardi Arnošt r. Udvardi		0	232
+3345	Vida Ľudevít r. Vida		0	237,261,262
+3345	Zsido - Balázsová Helena r. Kovácsová		0	127
+3345	Zsido Blažej Ján		0	158,294
+3346	Balog Andrej	mal	1	606
+3346	Balog Jozef		1	606
+3346	Balog Michal		1	606
+3346	Balog Michal	mal	1	606
+3346	BANAS JAN	1895	0	187
+3346	Baňas Ján		0	607
+3346	BANAS PAVOL		0	263,607
+3346	Baňas Pavol	ž. Anna r. Gáborová	0	608,609
+3346	Baňasová Anna r. Gáborová	muž Pavol	0	608,609
+3346	Baňasová Mária r. Lechmanová		0	607
+3346	BENKOVÁ Anna	dcéra Štefana Vyš.Nemecké	1	422
+3346	Benková Anna r. Silvašiová, 072 51, Vyšné Nemecké, SR	muž Štefan	1	493
+3346	BIHARI Jozef	Vyš.Nemecké	1	469,499
+3346	Bihariová Anna r. Mičíková, 072 51, Vyšné Nemecké, SR		1	469,499
+3346	BODÁK Fedor	žena Mária Eštoková Vyš.Nemecké	1	493
+3346	BODÁK Ján		1	470
+3346	BODÁK Ján	žena Mária Fečíkova Vyš.Nemecké	1	493
+3346	Brecka Jozef	ž. Mária r. Palajová	0	607
+3346	Brecko Jozef		0	608,609
+3346	Brecková Mária r. Palajová	muž Jozef	0	607
+3346	Brecková Mária r. Pallaiová		0	607
+3346	Brusaničová Mária r. Sapurová, 072 51, Vyšné Nemecké, SR	muž Michal	1	425,493
+3346	BRUZENAK Michal	zena Anna Chomova Vys.Nemecke	1	349
+3346	BRUZEŇÁK Michal	žena Anna Chemová Vyš.Nemecké	1	472
+3346	BRUZENAK MICHAL /ZENA ANNA R CHOMOVA/		0	12
+3346	BRUZENAKOVA VERONA R HAVRILESKOVA		0	12
+3346	Bruzeňáková Verona r. Havrilesková, 072 51, Vyšné Nemecké, SR		1	349
+3346	Bružeňak Michal	ž. Anna r. CHomová	0	607
+3346	Bružeňak Štefan		0	608,609
+3346	Bružeňák Štefan	ž. Helena r. Gonosová	0	607
+3346	Bružeňáková Anna r. Chomová	muž Michal	0	607
+3346	Bružeňáková Helena r. Gonosová	muž Štefan	0	607
+3346	BUCKO JAN /SYN STEFANA/		0	285
+3346	BUCKO Štefan	žena Mária Gažová Vyš.Nemecké	1	443,493
+3346	Bučková Anna r. Verdzáková, 072 51, Vyšné Nemecké, SR	muž Michal	1	493
+3346	Bučková Zuzana r. Kolibášová, 072 51, Vyšné Nemecké, SR	muž Štefan	1	438
+3346	Bukovčanová Verona r. Kamencová, 072 51, Vyšné Nemecké, SR		1	363
+3346	CIBERE Juraj	žena Anna Oreská Vyš.Nemecké	1	450
+3346	CIBERE Michal	maloletý otec Štefan	1	470
+3346	CIBEREJ Ján		1	470
+3346	CIBEREJ Michal		1	470
+3346	Cibereová Anna r. Gažová, 072 51, Vyšné Nemecké, SR	muž Juraj	1	411
+3346	CIZMAROVA MARIA r. BANASOVA	m.Michal	0	307
+3346	CIZMAROVA MARIA r. BANASOVA	m.Michal,1904	0	187
+3346	Čiseková Alžbeta r. Lecová, 072 51, Vyšné Nemecké, SR		1	511
+3346	Čižmárová Mária r. Baňasová	muž Michal	0	607
+3346	Čižmárová Mária r. Baňasová, 072 51, Vyšné Nemecké, SR	muž Michal	1	326,393,459
+3346	Čondak Juraj	ž. Mária r. Gruzovská	0	608,609
+3346	Čondáková Mária r. Gruzovská	muž Juraj	0	608,609
+3346	ČORBA Juraj	žena Zuzana Pipíkova Vyš.Nemecké	1	493
+3346	ČORBOVÁ Zuzana	maloletá	1	470
+3346	Čorej Pavel	ž. Barbora r. Matová	0	608,609
+3346	Čorejová Barbora r. Matová		0	607
+3346	Čorejová Mária	mal	0	608,609
+3346	Danko Michal	ž. Anna r. Horňáková	0	608,609
+3346	Danková Anna r. Horňáková	muž Michal	0	608,609
+3346	Danková Mária r. Tarhovická, 072 51, Vyšne Nemecké, SR		1	440,493
+3346	DEMCAK MICHAL/ Z. ANNA SOTAKOVA/		0	82
+3346	Demčák Michal		0	607
+3346	DEMČÁK Michal	žena Anna Sotákova Vyš.Nemecké	1	348
+3346	DRÁBIK Juraj	Vyš.Nemecké	1	390
+3346	Dudík Andrej	ž. Alžbeta r. Sulejová	0	607
+3346	DUDÍK Andrej	žena Alžbeta Sulejová Vyš.Nemecké	1	478
+3346	Dudik Ján	ž. Zuzana r. Karchová	0	607
+3346	Dudík Ján r. Dudík	ž. Zuzana r. Karchová	0	608,609
+3346	Dudík Michal		0	607
+3346	Dudíková Alžbeta r. Sulejová	muž Andrej	0	607
+3346	DUDÍKOVÁ Mária	Vyš.Nemecké	1	498
+3346	DUDÍKOVÁ Zuzana	Vyš.Nemecké	1	498
+3346	Dudíková Zuzana r. Karchová	muž Ján	0	607,608,609
+3346	Ďurčová Anna r. Kornucová, 072 51, Vyšné Nemecké, SR	muž Peter	1	419
+3346	Ďurčová Mária r. Kornucová, 072 51, Vyšné Nemecké, SR	muž Peter	1	475
+3346	EŠTÓK Ján	syn Juraja Vyš.Nemecké	1	480
+3346	EŠTOK Juraj		1	470
+3346	Faragová Mária r. Salokiová		0	607
+3346	FEDOR Karol		1	470
+3346	Fedorová Anna r. Pipíková, 072 51, Vyšné Nemecké, SR	muž Michal	1	470
+3346	Fencík Ján		0	608,609
+3346	Fencík Michal	ž. Anna r. Pastirčíková	0	607
+3346	Fencíková Anna r. Hrivňáková		0	607
+3346	Fencíková Anna r. Pastirčíková	muž Michal	0	607
+3346	FENČÍK Ján	žena Ilona Ustičová Vyš.Nemecké	1	347,373,645,657
+3346	FERENCOVÁ Zuzana	r.Kováčová mladšia	1	470
+3346	Fridmanová Irena r. Jakubovičova	Vyšné Nemecké	1	401
+3346	Fridmanová Irena r. Jakubovičova, 072 51, Vyšné Nemecké, SR		1	342,458,462,491
+3346	FRIEDMANOVA IRENA R JAKUBOVICOVA		0	280
+3346	Friedmanová Irena r. Jakubovičová		0	607
+3346	Galusková Barbora r. Pončáková	muž Ján	0	607
+3346	GAZDIČ Andrej	žena Zuzana Šutajova Vyš.Nemecké	1	493
+3346	GAZDIČ Juraj	žena Anna Michalková Vyš.Nemecké	1	421,435
+3346	GAZDIČ Ondrej		1	470
+3346	GAŽO Juraj	žena Mária Brusaničová Vyš.Nemecké	1	411,449
+3346	Gažová Zuzana r. Cibereová, 072 51, Vyšné Nemecké, SR	muž Pavol	1	470,493
+3346	Gruzovská Barbora r. Hrivňáková		0	607
+3346	Hajduková Barbora r. Hovbalová, 072 51, Vyšné Nemecké, SR	muž Michal	1	410
+3346	Hodovancová Barbora r. Lecová	muž Vasiľ	0	608,609
+3346	Hodovancová Barbora r. Vasiľová		0	607
+3346	HODOVANEC Ladislav	žena Barbora Lecova Vyš.Nemecké	1	378,379
+3346	Hodovanec Ladislav, SR	žena Barbora Lecová	0	184
+3346	Hodovanec Vasiľ		0	607
+3346	Hodovanec Vasiľ r. Hodovanec	ž. Barbora r. Lecová	0	608,609
+3346	Holováčová Mária r. Štoffová, 072 51, Vyšńé Nemecké, SR	muž Michal	1	464
+3346	HORBAL Andrej	Vyš.Nemecké	1	328,402,630
+3346	HORBAL ANDREJ		0	145,607
+3346	Horbaľová Mária		0	607
+3346	Horbaľová Veruša r. Mesarošová		0	607
+3346	HORBALY ANDREJ /ZENA ILONA R MESAROSOVA/		0	114
+3346	Horňáková Mária		0	608,609
+3346	HRÍBIK Andrej	Vyš.Nemecké	1	508
+3346	Hrivňák Juraj		0	607,608,609
+3346	Hrivňáková Mária		0	607
+3346	Hrivňáková Mária	mal	0	607
+3346	Hrivňáková Mária r. Pallaiová		0	607
+3346	Hrivňáková Zuzana	mal	0	607
+3346	Hrubiščák Juraj r. Hrubiščák	ž. Mária r. Faragová	0	608,609
+3346	Hrubiščáková Mária r. Faragová	muž Juraj	0	608,609
+3346	HURA Ján	syn Michala Vyš.Nemecké	1	493
+3346	HURA Ján	žena Helena Dudášová Vyš.Nemecké	1	482
+3346	HURA Michal	žena Anna Pipíková Vyš.Nemecké	1	483
+3346	Husár Ján	ž. Anna r. Haľková	0	607
+3346	HUSÁR Ján	starši Vyš.Nemecké	1	370
+3346	HUSÁR Michal	žena Anna Pipíkova Vyš.Nemecké	1	483
+3346	HUSÁR Michal	žena Mária Šikulová Vyš.Nemecké	1	465
+3346	HUSÁROVÁ Zuzana	r.Tokárová muž Juraj	1	470
+3346	Chachaľak Andrej		0	607
+3346	CHACHALAK Jan	zena Barbora Pallaiova Vys.Nemecke	1	339
+3346	Chachaľak Ján		0	607,608,609
+3346	Chachaľák Ján	mal	0	607
+3346	CHACHALAK JAN /SYN JANA/		0	534
+3346	Chachaľák Ján, SR	syn Jána	0	216
+3346	CHACHALAK Jozef	syn Jana Vys.Nemecke	1	368,386,538
+3346	Chachaľák Jozef	mal	0	607
+3346	Chachaľák Jozef, SR	syn Jána	0	216
+3346	CHACHALAK Michal	syn Jana Vys.Nemecke	1	386
+3346	Chachaľak Michal	mal	0	607
+3346	Chachaľák Michal, SR	syn Jána	0	216
+3346	Chachaľáková Anna	mal	0	607
+3346	CHACHALAKOVA ANNA /DCERA JANA/		0	534
+3346	Chachaľaková Anna r. Vyšňayová		0	607
+3346	Chachaľáková Anna, SR	dcéra Jána	0	216
+3346	CHACHALAKOVA Maria	dcera Jana Vys.Nemecke	1	386
+3346	CHACHALAKOVA Maria	muz Jan Vys.Nemecke	1	368
+3346	Chachaľáková Mária	mal	0	607
+3346	Chachaľáková Mária, SR	dcéra Jána	0	216
+3346	IVANICKOVA MARIA R BRUZENAKOVA		0	12
+3346	Ivaničková Mária r. Bruzeňáková, 072 51, Vyšné Nemecké, SR		1	349,472
+3346	Ivanková Mária r. Bružeňáková		0	607
+3346	JAKUBOVIC ABRAHAM TIBOR, SR		0	280
+3346	JAKUBOVIC ALEXANDER		0	280,607
+3346	Jakubovič Abraham - Tibor		0	607
+3346	JAKUBOVIČ Abráham Tibor	Vyš.Nemecké	1	342,401,458,462,491
+3346	JAKUBOVIČ Alexander	Vyš.Nemecké	1	342,401,458,462,491
+3346	Jakubovič Bernát		0	608,609
+3346	Jakubovič Jakub		0	607
+3346	Jakubovič Martin		0	607
+3346	Jakubovičová Anna		0	608,609

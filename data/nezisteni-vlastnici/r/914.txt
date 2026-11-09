@@ -1,0 +1,256 @@
+515	Motalik Ján r. Motalik		1	488,534
+515	Motalíková Anna r. Pogádyová		1	28,33,50,63,410,488,670,691
+515	Mullerová Longína r. Beninghausová		1	528
+515	Nemček Gabriel r. Nemček, Dolné Otrokovce 47, Dolné Otrokovce, PSČ 920 61, SR		0	497
+515	Nemčeková Helena r. Kamanová		1	473,497
+515	Nemeček Jozef r. Nemeček		1	473
+515	Obermajer Jozef r. Obermajer		1	597
+515	Patay Jozef r. Patay		1	494
+515	Patayová Katarína r. Bišťáková		1	494
+515	PAVLÍK Michal		1	496,713,714
+515	Pavlíková Anna r. Bučková		1	493
+515	Pogády Anton r. Pogády, Dolné Otrokovce 53, Dolné Otrokovce, PSČ 920 61, SR		0	309,473
+515	POGÁDY Tomáš		1	50,63,410,670,691
+515	Pogády Tomáš r. Pogády		1	28,33
+515	Pogády Tomáš r. Pogády	mal	0	61
+515	Pogády Viktor r. Pogády		1	453,463,465,473
+515	Pogádyová Johana r. Hornáková		1	309,473
+515	Pogádyová Júlia		1	28,33,50,61,63,410,670,691
+515	POGÁDYOVÁ Verona r. Bánová		1	410
+515	Pogádyová Viktória		1	33
+515	Polášová Agneša r. Vanková		1	309,473
+515	POTRUSIL Rudolf		1	496,713,714
+515	POTRUSILOVÁ Bernardína r. Kopáčková		1	496,713,714
+515	Potrusilová Mária r. Pontešová		1	593
+515	Rapant Jozef r. Rapant		1	472
+515	Rebro František r. Rebro		1	440
+515	Rebro Ján r. Rebro		1	440
+515	Rebrová Františka		1	440
+515	Rebrová Hedviga		1	28,33,63
+515	REBROVÁ Petronela r. Masaryková		1	50,61,410,670,691
+515	REMIÁŠOVÁ Katarína		1	496,713,714
+515	ROLINCOVÁ Mária r. Havrlentová		1	496,713,714
+515	ROLINCOVÁ Rozália r. Hnižalová		1	496,713,714
+515	ROLINCOVÁ Viktória r. Vančová		1	496,713,714
+515	ROLINEC Ján		1	496,713,714
+515	ROLINEC Matej		1	496,713,714
+515	ROLINEC Pavol		1	496,713,714
+515	RYBANSKÁ Ida r. Bakošová		0	262
+515	Slávik Ľudovít r. Slávik		1	468,472
+515	Sláviková Emanuela r. Adamcová		1	468,472
+515	Sojáková Augustína r. Beninghausová		1	41,354,472,686
+515	Stražáková Oľga r. Maršalová		1	490,520
+515	Strážovská Oľga r. Maršalová		1	726
+515	Ševčík Ján r. Ševčík		1	309,452,453
+515	Ševčík Silvester r. Ševčík		1	154,155
+515	ŠEVČÍKOVÁ Agneša r. Vanková		1	63
+515	Ševčíková Mária r. Hubertová		1	150,151,154,155,156,309,452,453
+515	ŠTEVÍK Michal		1	496,713,714
+515	ŠTEVÍKOVÁ Anna r. Čulagová		1	496,713,714
+515	Šulík Pavol r. Šulík		1	309
+515	Šulík Urban r. Šulík		0	473
+515	Šulík Viktor r. Šulík		1	309
+515	Šulíková Katarína	mal	0	61
+515	ŠULÍKOVÁ Katarína		1	28,50,60,63,410,670,691
+515	Šulíková Rozália r. Masaryková		1	309
+515	Tabaček Ján r. Tabaček		0	370
+515	Táčovský Ladislav, MUDr.		0	631,678,715
+515	Tiefenbacher Anton r. Tiefenbacher		1	309,335,419,452,453,463,464,465
+515	Tiefenbacher František r. Tiefenbacher		1	309,452,453,458,463,465,473
+515	Tiefenbacherová Agneša r. Strečanská		1	309,335,452,453,463,464,465
+515	Tiefenbacherová Júlia		1	458
+515	Tiefenbacherová Ľudmila r. Uhlíková		1	309,452,453,463,465,473
+515	TOROKOVÁ Agneša r. Albertová		1	410
+515	Töröková Agneša r. Albertová	m.Štefan	0	61
+515	Trebatická Anna r. Ďurišová		1	472
+515	Trebatický František r. Trebatický		1	472
+515	Trebatický Michal r. Trebatický		1	471,472
+515	Uhrák Michal r. Uhrák		1	333,472
+515	Uhráková Amália r. Chalányová		1	484,522,736
+515	Uhráková Bernardína r. Mačicová		1	472
+515	VALKO Ján		1	496,713,714
+515	VALKO Štefan		1	496,713,714
+515	VALKOVÁ Mária r. Klačková		1	496,713,714
+515	VALOVIČ Ján		1	496,713,714
+515	Valovič Ján r. Valovič		1	505
+515	Valovičová Katarína r. Remiášová		1	507
+515	VALOVIČOVÁ Klára r. Gáliková		1	496,505,713,714
+515	VANČO František		1	496,713,714
+515	VANČO Štefan		1	496,713,714
+515	VANČOVÁ Helena r. Chochlíková		1	496,713,714
+515	VEĽKÁ Helena		0	7
+515	Veľká Jolana		1	432
+515	Veľká Mária		1	432
+515	Veľká Milada		1	432
+515	Veľká Valéria		1	432
+515	Veľký Bernard r. Veľký		1	307
+515	Veľký Emil r. Veľký		1	432
+515	Veľký František r. Veľký		0	7
+515	Veľký Ján r. Veľký		1	432
+515	Veľký Jozef r. Veľký		1	432
+515	Veľký Martin r. Veľký		0	7
+515	Veľký Pavol r. Veľký		0	7
+515	Veľký Štefan r. Veľký		1	7,432
+515	Vicen Matej r. Vicen		1	472
+515	Vicenová Rozália r. Machovičová		1	472
+515	Zeliska Jozef r. Zeliska a Janka Zelisková r. Žáková		0	610
+516	Andoková Zuzana r. Hybská, SR		0	1231
+516	Balgová Mária r. Šimunová, SR		0	679
+516	Bartók Ján, SR		0	1167,1204
+516	Bartók Štefan, SR		0	1167
+516	Bartóková Katarína, SR		0	1167
+516	Bartoš Ján, SR		0	912
+516	Bartošová Mária r. Ondrejkovičová, SR		0	911
+516	Benda Mikuláš, SR		1	1400
+516	Bendová Anna, SR		1	629,1185,1400
+516	Bendová Katarína, SR		1	629,1185,1400,1429
+516	Beňo Johan, SR		0	1184
+516	Beňo Jozef, SR		1	1185,1368
+516	Beracká Pavla r. Križanová, SR	manž.Ján	1	1404
+516	Beranská Mária r. Plechová, SR		0	905,909
+516	Berecky Ján, SR	manž.Pavla r.Križanová	1	1404
+516	Boldog Jozef, SR	manž.Mária r.Kočiová	1	1369
+516	Burčo Ján, SR		1	1474
+516	Burčo Jeremiáš, SR		1	1474
+516	Cekovský Jozef, SR	manž.Alžbeta r.Tóthová	1	1454
+516	Cesnaková Mária r. Čierna, SR	zomr.4.3.1991	1	949
+516	Cibuľa Ján, SR		0	874
+516	Cibuľa Ján, SR	b	1	947,1674
+516	Cibuľa Jozef, SR		0	1155
+516	Cibuľa Štefan, SR	a	1	947,1674
+516	Cibuľa Štefan, SR	b	1	947,1674
+516	Cibuľášová Mária r. Beňová, SR		0	1102
+516	Cibuľová Apolónia r. Mlynárová, SR		0	795
+516	Cibuľová Hana, SR		0	1234
+516	Cibuľová Mária r. Beňová, SR		0	1071
+516	Cibuľová Paulína, SR	mal	1	1414
+516	Cibuľová Verona r. Lacková, SR		0	1214
+516	Černá Mária r. Jardeková, SR		0	1107
+516	Černák Imrich, SR		1	1409,1410,1411
+516	Černák Juraj, SR		0	721
+516	Černák Štefan, SR		1	1409
+516	Černáková Anna r. Bobáková, SR		0	1158
+516	Černáková Anna r. Mlynárová, SR		1	357,648,731,841,842,890,923,930,933,934,1094
+516	Černý Jozef, SR		0	878
+516	Červenáková Rozália r. Kočiová, SR		0	1240
+516	Danic Jozef, SR	jakubík	1	1426
+516	Danic Michal, SR		1	665,1453
+516	Danic Štefan, SR	b	1	665
+516	Danicová Mária r. Cibuľová, SR	manž.Michal	1	1405
+516	Danič Pavol, SR	hopko	0	1148
+516	Daničová Apolónia r. Jardeková, SR		1	1224,1236,1439,1440
+516	Demeter Ján, SR		0	811,1076,1088,1187
+516	Demeter Jozef, SR		0	1209
+516	Demeter Pavol, SR	manž.Mária r.Demeterová	0	746
+516	Demeterová Mária r. Mátyášová, SR		0	811,985
+516	Dovičinová Mária r. Chrapková, SR		0	1010,1177
+516	Drozdová Apolónia r. Demeterová, SR		0	693
+516	Drozdová Apolónia, SR		0	1208
+516	Dudášová Rozália, SR		1	142
+516	Ďurčová Alžbeta r. Ivicová, SR		0	1211
+516	Ďureková Anna r. Miháľová, SR	manž.Štefan	1	1441,1579
+516	Eisler Móric, SR	manž.Paulína r.Schvartová	1	1445
+516	Eislerová Paulína r. Schvartová, SR	manž.Móric	1	1445
+516	Fabík Ján, SR		1	1415
+516	Fabík Ján, SR	šimun	1	1416
+516	Fabíková Anna, SR		1	807,1415
+516	Fabíková Mária, SR		1	807,1415
+516	Fabíková Verona r. Bobáková, SR		0	1105
+516	Fedešová Anna, SR		0	1231
+516	Ferenc Ján, SR	zeman,horný	0	978
+516	Ferianc Benjamin, SR		1	948,1358
+516	Ferianc František, SR		1	948,1358
+516	Ferianc Jozef, SR		1	948,1358
+516	Ferianc Július, SR		1	948,1358
+516	Gállová Apolónia r. Plechová, SR		0	905,909
+516	Gargalová Anna r. Cibuľová, SR		0	765
+516	Géciová Mária, SR		0	1161
+516	Gučík Ján, SR		0	1196
+516	Gučíková Mária r. Suchaneková, SR		0	1196
+516	Guller Ondrej, SR		0	1070,1079
+516	Haviar Ján, SR		0	1241
+516	Haviar Štefan, SR		0	1241
+516	Hrubčo Ján, SR		0	981
+516	Hrubčo Ján, SR	manž.Apolónia r.Beňová,syn Jána	0	1180
+516	Hrubčová Marta r. Španielová, SR		0	796
+516	Hybský Tomáš, SR		0	1231
+516	Chrapka Ján, SR		0	1178,1205
+516	Chrapka Ján, SR	sadík,ml	0	1020
+516	Chrapka Martin, SR		0	1173
+516	Chrapka Matej, SR		0	1114,1173
+516	Chrapka Michal, SR		0	1173
+516	Chrapka Peter, SR		0	1012,1208
+516	Chrapková Anna, SR		0	82,964,1115,1177
+516	Chrapková Anna, SR	mal	1	1405
+516	Chrapková Apolla, SR		1	1427
+516	Chrapková Apolónia r. Jardeková, SR		1	735,839,887,990,1048,1079,1435,1463,1626
+516	Chrapková Apolónia, SR		0	1178
+516	Chrapková Rozália r. Bullová, SR		1	835,1010,1103,1334,1438,1596,1657
+516	Chrapková Rozália r. Mlynárová, SR		0	871,1108
+516	Chrapková Verona r. Ivicová, SR		0	1042
+516	Chrapková Veronika, SR		0	1142
+516	Chudá Mária r. Toldyová, SR	zom.1.10.1998	1	1451,1483
+516	Ivic Ján	c / zomrel	1	1386
+516	Ivic Ján, SR		0	1219
+516	Ivic Ján, SR	vincov	0	913
+516	Ivic Jozef, SR		0	683,714,758,869,1532,1533,1592
+516	Ivic Jozef, SR	ďurčov	1	1360
+516	Ivic Jozef, SR	kochla	0	1212
+516	Ivic Tomáš, SR		1	1421
+516	Ivic Tomáš, SR	geršov	0	1169
+516	Ivicová Alžbeta r. Mlynárová, SR		0	1169
+516	Ivicová Anna r. Jančoková, SR		0	1193
+516	Ivicová Barbora r. Vargová, SR		0	922,1052
+516	Ivicová Barbora, SR		0	644,1684
+516	Ivicová Júlia r. Kučíková, SR		0	1139
+516	Ivicová Mária r. Mlynárová, SR		1	1421
+516	Ivicová Verona r. Toldyová, SR		0	1032
+516	Jambich Ján, SR		0	1231
+516	Jambichová Zuzana r. Šebianová, SR		0	1231
+516	Jančoková Alžbeta r. Chrapková, SR		0	879
+516	Jardek Ján, SR		0	1111,1141,1198
+516	Jardek Ján, SR	manž.Anna r.Bartóková	0	759
+516	Jardek Ján, SR	mlynár	0	1159
+516	Jardek Ján, SR	mlynárov	0	814,883,1097,1179
+516	Jardek Jozef, SR		1	743,1467
+516	Jardek Jozef, SR	a	1	664
+516	Jardek Jozef, SR	jančok	1	1424
+516	Jardek Július, SR		0	1200
+516	Jardek Martin, SR		1	963,964,1014,1200,1422
+516	Jardek Matej, SR		0	1170
+516	Jardek Pavol, SR		0	992
+516	Jardek Šimon, SR		0	1029
+516	Jardek Štefan, SR		1	1382
+516	Jardeková Alžbeta r. Jančoková, SR		0	676
+516	Jardeková Anna r. Beňová, SR	manž.Vincent	1	1423
+516	Jardeková Mária r. Cibuľová, SR		0	765
+516	Jardeková Mária r. Chrapková, SR		0	887,990,1122,1235
+516	Jardeková Mária r. Jančoková, SR		0	1130
+516	Jardeková Mária r. Jardeková, SR		0	992
+516	Jardeková Sophia, SR		0	1163
+516	Jardeková Veronika r. Katolinová, SR		0	1186
+516	Jardeková Veronika, SR		0	1121
+516	Jesenký Ján, SR		0	1036
+516	Jesenská Alžbeta, SR		1	737,834,884,1356,1439
+516	Jesenská Alžbeta, SR	mal	1	1440
+516	Jesenský Ján, SR		1	737,834,884,983,1224,1356,1373
+516	Jesensky Michal, SR		1	737,834,884,1439,1440
+516	Jesenský Michal, SR	b	1	1356
+516	Jóriová Mária r. Mlynárová, SR		1	1171,1474
+516	Kaderová Gizela r. Feriancová, SR		1	948,1358
+516	Kadérová Irena r. Jardeková, SR	manž.Milan	1	951
+516	Katolin Adam, SR		0	1187
+516	Kečkéš Ondrej, SR	manž.Apolónia r.Vargová	1	1460
+516	Kečkéšová Apolónia r. Vargová, SR		1	966,1292,1293
+516	Klinčoková Mária r. Komárová, SR		0	1151
+516	Kmeť Štefan, SR		1	658,840
+516	Kočiová Verona r. Lacková, SR		0	750
+516	Komár Ján, SR	manž.Mária r.Španielová	1	1413
+516	Korbeľ Ján, SR		1	1367
+516	Koritsanská Mária r. Feriancová, SR		0	948
+516	Koritšanská Mária r. Feriancová, SR	manž.Ján	1	1358
+516	Körmöcziová Anna r. Hybská, SR		1	1457
+516	Kováč Ján, SR	horný	0	977,978
+516	Kováčová Mária, SR		0	1217
+516	Križanová Emília r. Plechová, SR		0	905,909
+516	Kubániová Terézia r. Lacková, SR		0	994

@@ -1,0 +1,256 @@
+751	HAŇO Michal, syn Michala syn Michala		0	2305
+751	HAŇO Michal, žena Anna r.Kožejová žena Anna r.Kožejová		0	2305
+751	HAŇO Pavel	žena Helena r.Michľová	0	2036
+751	HAŇO Pavel	žena Helena rod. Michľová	1	720,1418
+751	HAŇO Pavel	žena Mária r.Vysoká	0	1603
+751	HAŇO Pavel	žena Mária rod. Vysoká	1	57,1418
+751	HAŇO Pavol	mal. syn Juraja	1	1418
+751	HAŇO Pavol	nezl	1	756
+751	HAŇO Pavol	st	1	481,1264
+751	HAŇO Pavol	žena helena rod. Michľová	1	719
+751	HAŇO Pavol, nezl. nezl.		0	1789
+751	HAŇO Pavol, st. st.		0	1737
+751	HAŇO Štefan		1	830
+751	HAŇOVÁ - BOROŠOVÁ Anna r. Tomáš-Palenčíková		0	2162
+751	HAŇOVÁ Anna	dcéra Pavla	1	1418
+751	HAŇOVÁ Anna	rod. Kožejová	1	1418
+751	HAŇOVÁ Anna	rod. Lukačová	1	1418
+751	HAŇOVÁ Anna	rod. Šuščáková	1	1418
+751	HAŇOVÁ Anna	vd. rod. Dvorjáková	1	1275,1418
+751	HAŇOVÁ Anna r. Dvorjáková, vd. vd.		0	1706
+751	HAŇOVÁ Anna r. Kožejová		0	2305
+751	HAŇOVÁ Anna r. Lukačová		0	2305
+751	HAŇOVÁ Anna r. Šuščáková		0	2305
+751	HAŇOVÁ Anna, dcéra Pavla dcéra Pavla		0	2305
+751	HAŇOVÁ Helena	rod. Michľová	1	481,1264,1418
+751	HAŇOVÁ Helena r. Michľová		0	1594
+751	Haňová Mária r. Kožej - Maťaščíková		1	242
+751	HAŇOVÁ Mária r. Kožej-Maťaščíková		0	1613
+751	Haňová Mária r. Petro - Monocká		1	720,1418
+751	HAŇOVÁ Mária r. Petro-Monocká		0	2305
+751	HARMAN Michal	syn Michala	1	430,1418
+751	HARMAN Michal, syn Michala syn Michala		0	1664
+751	HARMANČIN Ján	žena Anna rod. Hricová	1	1418
+751	HARMANČIN Ján, žena Anna r.Hricová žena Anna r.Hricová		0	2305
+751	HARMANOVÁ Anna	rod. Mastiláková	1	1418
+751	HARMANOVÁ Anna	rod. Mikulová	1	1418
+751	HARMANOVÁ Anna r. Mastiláková		0	1884
+751	HARMANOVÁ Anna r. Mikulová		0	2305
+751	HARTOŠ Jozef		1	1418,2305
+751	HARTOŠOVÁ Barbora	rod. Ščerbová	1	1418
+751	HARTOŠOVÁ Barbora r. Ščerbová		0	2216
+751	Hartošová Mária		1	79
+751	HLAVAČOVÁ Mária	rod. Vysoká	1	1247,1418
+751	HLAVAČOVÁ Mária r. Vysoká		0	1916
+751	HOLOMANČINOVÁ Anna	rod. Kovaľová	1	963
+751	HOLOMANČINOVÁ Anna r. Kovaľová		0	2302
+751	HREBENAROVÁ Anna	rod. Šimková	1	1418
+751	HREBENAROVÁ Anna r. Šimková		0	2305
+751	HRUNENÝ Ján	žena Mária rod. Vaľaková	1	1418
+751	HUDACKÁ Anna	rod. Haňová	1	261,719,720,1228
+751	Hudacká Anna r. Haňo - Kišebová		1	1229,1418
+751	HUDACKÁ Anna r. Haňo-Kišebová		1	1819,1820
+751	HUDACKÁ Anna r. Haňová		1	2144
+751	Hudacká Anna r. Petro - Monocká		1	1418
+751	HUDACKÁ Anna r. Petro-Monocká		0	2305
+751	HUDACKÝ Ján	vzdialený	1	1418
+751	HUDACKÝ Ján	žena Mária r.Minariková	0	1839
+751	HUDACKÝ Ján	žena Mária rod. Minariková	1	481,913,1264,1418
+751	HUDACKÝ Ján, vzdialený vzdialený		0	2305
+751	HUDACKÝ Michal	žena Anna rod. Haňo - Kišebová	1	1418
+751	HUDACKÝ Michal, vzdialený vzdialený		0	1585
+751	HUDACKÝ Michal, žena Anna r.Haňo-Kišebová žena Anna r.Haňo-Kišebová		0	2305
+751	IHNATOVÁ Anna	rod. Šimková	1	1418
+751	IHNATOVÁ Anna r. Šimková		0	2305
+751	ILČIŠIN Ján	žena Helena r.Laganová	0	2305
+751	ILČIŠIN Ján	žena Helena rod. Laganová	1	1418
+751	ILČIŠIN Juraj	žena Agnesa r.Konečná	0	2305
+751	ILČIŠIN Juraj	žena Agnesa rod. Konečná	1	1418
+751	ILČIŠIN Michal	žena Mária r.Kočerhová	0	2305
+751	ILČIŠIN Michal	žena Mária rod. Kočerhová	1	1418
+751	ILČIŠIN Pavel	žena Mária r.Šimko-Kačmárová	0	2305
+751	ILČIŠIN Pavel	žena Mária rod. Šimko - Kačmárová	1	1418
+751	ILČIŠINOVÁ Helena	rod. Laganová	1	1418
+751	ILČIŠINOVÁ Helena r. Laganová		0	2305
+751	ILČIŠINOVÁ Mária	rod. Šimková	1	1408,1418
+751	ILČIŠINOVÁ Mária r. Šimková		0	1560,1674
+751	IŠTOČKO Pavel	žena Anna r.Krajníková	0	1627
+751	IŠTOČKO Pavel	žena Anna rod. Krajníková	1	1418
+751	IŠTOČKOVÁ Anna	rod. Borková	1	1418
+751	IŠTOČKOVÁ Anna	rod. Dudášová	1	1418
+751	IŠTOČKOVÁ Anna r. Borková		0	2305
+751	IŠTOČKOVÁ Anna r. Dudášová		0	2305
+751	IŠTOČKOVÁ Anna r. Dudášová, vdova vdova		0	2029
+751	JACKO Ján	st	1	1292,1418,1537
+751	JACKO Ján, st. st.		0	1956
+751	JACKOVÁ Mária	rod. Tomašová	1	1292,1418,1537
+751	JACKOVÁ Mária r. Tomašová		0	1604
+751	JAKUB Ján		1	1418,2305
+751	JAKUBOV Juraj		1	442,2103,2431
+751	JAKUBOVÁ Anna	rod. Chomová	1	1418
+751	JAKUBOVÁ Anna r. Chomová		0	2305
+751	JAKUBOVÁ Mária	vdova rod. Tatarková	1	1141
+751	Janoková Alžbeta r. Tomáš - Palenčíková		1	1418,1444
+751	JANOKOVÁ Alžbeta r. Tomáš-Palenčíková		0	2138,2295
+751	JENČO Michal	mal	1	1041,1418
+751	JENČO Michal	žena Anna rod. Harmanová	1	1418
+751	JENČO Michal, žena Anna r.Harmanová žena Anna r.Harmanová		0	2305
+751	JENČO Pavol		0	1939
+751	JENČOVÁ Anna	hluchonemá	1	1418
+751	JENČOVÁ Anna	mal	1	1041,1418
+751	JENČOVÁ Anna, hluchonemá hluchonemá		0	2305
+751	JENČOVÁ Mária r. Miklošová		0	1612
+751	JONEKOVÁ Anna	vdova rod. Dzurcová	1	1418
+751	JONEKOVÁ Anna r. Dzurcová, vdova vdova		0	2078
+751	JUHÁS Ján, žena Anna r.Tomášová žena Anna r.Tomášová		0	2305
+751	JUHÁS Michal	žena Anna r.Harmanová	0	2307
+751	JUHÁSOVÁ Anna	rod. Kuncová	1	1418
+751	JUHÁSOVÁ Anna r. Kuncová		0	1692
+751	JUHASOVÁ Mária	rod. Kuncová	1	1418
+751	JUHASOVÁ Mária r. Kuncová		0	2305
+751	JURKOVÁ Anna	rod. Kuncová	1	1418
+751	JURKOVÁ Anna r. Kuncová		0	1608
+751	KAČKOŠOVÁ Mária	rod. Jakubová	1	481,1418
+751	KAČKOŠOVÁ Mária r. Jakubová		0	1918
+751	KAČMÁR Ján	žena Mária rod. Fabianová	1	1130
+751	KAČMÁR Ján, žena Mária r.Fabianová žena Mária r.Fabianová		0	1547
+751	KAČMÁR Michal	žena Barbara rod. Hricová	1	1418
+751	KAČMÁR Michal, žena Barbara r.Hricová žena Barbara r.Hricová		0	2305
+751	KAČMÁROVÁ Anna	rod. Krajníková	1	1418
+751	KAČMÁROVÁ Anna r. Krajníková		0	2305
+751	KAČMÁROVÁ Mária	rod. Fabianová	1	1130
+751	KAČMÁROVÁ Mária r. Fabianová		0	1547
+751	KASTRINER Arnošt	Dr	1	1227
+751	KMECOVÁ Anna r. Hudacká		0	1585
+751	KMECOVÁ Mária	rod. Kolesárová	1	1418
+751	KMECOVÁ Mária r. Kolesárová		0	2307
+751	KOLESÁROVÁ Anna	rod. Valčová	1	1418
+751	KOLESÁROVÁ Anna r. Valčová		0	2307
+751	KOLESÁROVÁ Helena		1	706,1418,1570,1809,2385,2388
+751	KOPČOVÁ Anna	rod. Dudášová	1	509,510,904,1104,1418
+751	KOPČOVÁ Mária	nezvestná rod. Paliková	1	733,1418,2353
+751	KOPČOVÁ Mária r. Paliková, nezvestná nezvestná		0	1658
+751	KOS Michal	mal. syn Jána	1	1418
+751	KOS Michal	žena Mária rod. Oľhová	1	1418
+751	KOS Michal, mal. syn Jána mal. syn Jána		0	2305
+751	KOS Michal, žena Mária r.Oľhová žena Mária r.Oľhová		0	2302
+751	KOSCELNÍK Eliáš, syn Michala syn Michala		0	2307
+751	KOSCELNÍK Ján, syn Andreja syn Andreja		0	2307
+751	KOSCELNÍK Ján, syn Michala syn Michala		0	2307
+751	KOSCELNÍKOVÁ Alžbeta, nezl. dcéra Michala nezl. dcéra Michala		0	2307
+751	KOSCELNÍKOVÁ Mária, dcéra Michala dcéra Michala		0	2307
+751	Kostrurová Anna r. Petrová		1	628
+751	KOSTUROVÁ Anna	rod. Petrová	1	1418
+751	KOSTUROVÁ Anna r. Petrová		0	2188
+751	KOŠUDOVÁ Anna	rod. Tatarková	1	481,1418
+751	KOŠUDOVÁ Anna r. Tatarková		0	2305
+751	KOTUĽÁK Ján	žena Mária rod. Rošková	1	1418
+751	KOTUĽÁK Ján, žena Mária r. Rošková žena Mária r. Rošková		0	2305
+751	KOTUĽÁKOVÁ Mária	rod. Rošková	1	1418
+751	KOTUĽÁKOVÁ Mária r. Rošková		0	2305
+751	KOVAĽ Ján	mal. syn Jána	1	1418
+751	KOVAĽ Ján	žena Mária rod. Tomáš - Venceľová	1	1203
+751	KOVÁĽ Ján r. Tomaš-, žena MáriaVenceľová žena MáriaVenceľová		0	2307
+751	KOVAĽ Michal		0	2305
+751	KOVAĽ Michal	syn Andreja	1	1418
+751	KOVAĽ Michal, syn Andreja syn Andreja		0	2305
+751	KOVAĽ Pavel	žena Anna rod. Buchtová	1	1418
+751	KOVAĽ Pavel, žena Anna r.Buchtová žena Anna r.Buchtová		0	2305
+751	KOVAĽ Pavol		0	2107
+751	KOVAĽOVÁ Anna	mal. dcéra Jána	1	1418
+751	KOVAĽOVÁ Anna	rod. Buchtová	1	1418
+751	KOVAĽOVÁ Anna r. Buchtová		0	2305
+751	KOVAĽOVÁ Anna, mal. dcéra Jána mal. dcéra Jána		0	1929
+751	KOVAĽOVÁ Mária	dcéra Michala	1	1418
+751	KOVAĽOVÁ Mária	rod. Tomášová	1	1418
+751	Kovaľová Mária r. Petro - Pavelková		1	1418
+751	Kovaľová Mária r. Petro-Pavelková		1	628,1930
+751	KOVAĽOVÁ Mária r. Tomášová		0	2305
+751	KOVAĽOVÁ Mária, dcéra Michala dcéra Michala		0	2305
+751	KRAJNÍK - MEŠTEROVÁ Anna	rod. Šimková	1	1418
+751	KRAJNÍK - MEŠTEROVÁ Anna	rod. Tomáš - Ondíková	1	829
+751	Krajník - Mešterová Anna r. Tomáš - Ondíková		1	1087,1418,2349
+751	KRAJNÍK - MEŠTEROVÁ Anna r. Tomáš-Ondíková		0	2227
+751	KRAJNÍK Ján	žena Anna r.Šimková	0	1625
+751	KRAJNÍK Ján	žena Anna rod. Šimková	1	1418
+751	KRAJNÍK Ján	žena Helena rod. Tomášová	1	1418
+751	KRAJNÍK Ján	žena Júlia rod. Juhasová	1	1418
+751	KRAJNÍK Ján, žena Helena r.Tomášová žena Helena r.Tomášová		0	2305
+751	KRAJNÍK Ján, žena Júlia r.Juhasová žena Júlia r.Juhasová		0	1680
+751	KRAJNIK Juraj	syn Michala	1	1418
+751	KRAJNÍK Juraj, syn Michala syn Michala		0	2302
+751	KRAJNÍK Michal	žena Anna rod. Tomášová	1	1418
+751	KRAJNÍK Michal, žena Anna r.Tomášová žena Anna r.Tomášová		0	2305
+751	KRAJNÍK Pavel	syn Michala	1	1418
+751	KRAJNÍK Pavel, syn Michala syn Michala		0	1650
+751	KRAJNÍK-MEŠTEROVÁ Anna r. Šimková		0	2172
+751	KRAJNÍKOVÁ Agnesa	mal	1	1418
+751	KRAJNÍKOVÁ Agnesa, mal. mal.		0	2057
+751	KRAJNÍKOVÁ Helena	rod. Tomášová	1	1418
+751	KRAJNÍKOVÁ Helena r. Tomášová		0	2305
+751	KUNCOVÁ Mária r. Hudacká		0	1585
+751	KUŽMOVÁ Mária	rod. Haňová	1	49,1418
+751	KUŽMOVÁ Mária	rod. Tichá	1	1418
+751	KUŽMOVÁ Mária r. Haňová		0	2305
+751	KUŽMOVÁ Mária r. Tichá		0	1705
+751	LUKÁČ Ján, syn Jána syn Jána		0	1568
+751	LUKÁČ Michal, syn Jána syn Jána		0	1568
+751	LUKAČOVÁ Anna, dcéra Michala dcéra Michala		0	2305
+751	MAJSKÁ Anna	rod. Tichá	1	1418
+751	MAJŠEK Ján		1	1418
+751	MARKOVÁ Anna	rod. Palíková	1	1418
+751	MARKOVÁ Anna r. Palíková		0	1579
+751	MAŠLEJ Ján		0	2167
+751	MAŠLEJOVÁ Anna r. Tichá		0	2085
+751	MICHĽOVÁ Mária	rod. Haňová	1	995
+751	MICHĽOVÁ Mária r. Haňová		0	1751
+751	MIKLOŠ Juraj		1	1418,2305
+751	MIKLOŠ Štefan		1	1418,2305
+751	MIKLOŠOVÁ Helena	rod. Dolacká	1	1065,1418
+751	MIKLOŠOVÁ Helena r. Dolacká		0	1759,2289
+751	MIKULA Michal	st	1	1282,1418
+751	MIKULA Michal, st. st.		0	2115
+751	MIKULOVÁ Mária	rod. Kopčová	1	1418
+751	MIKULOVÁ Mária r. Kopčová		0	2302
+751	Minarciková Helena r. Tomáš - Palenčíková		1	733,1418
+751	MINARÍKOVÁ Anna	rod. Juhasová	1	1041
+751	MINARÍKOVÁ Anna r. Juhasová		0	1718
+751	MINARIKOVÁ Helena	rod. Dvorjaková	1	1418
+751	MINARIKOVÁ Helena r. Dvorjaková		0	2307
+751	Minariková Helena r. Tomáš - Palenčíková		1	733
+751	MINARIKOVÁ Helena r. Tomáš-Palenčíková, vdova vdova		0	2141
+751	MITTALMANOVEJ Gizela	rod. Eckerovej	1	1418
+751	MITTALMANOVEJ Gizela r. Eckerovej		0	2305
+751	Mudroň Pavol		1	79
+751	MUDROŇOVÁ Helena	rod. Ondiková	1	430,1418
+751	MUDROŇOVÁ Helena r. Ondiková		0	2132
+751	OĽHA Ján		1	185
+751	Pačasa Jozef	vzdialený	1	798,1418
+751	PAČASA Jozef, vzdialený vzdialený		0	1835
+751	Pačasa Michal	vzdialený	1	750,798,1418
+751	PAČASA Michal, 2-vzdialený 2-vzdialený		0	1570,2039
+751	PAČASA Michal, vzdialený vzdialený		0	2119
+751	PAČASOVÁ Helena	rod. Haňová	1	1418
+751	PAČASOVÁ Helena r. Haňová		0	2157
+751	Pačasová Mária	vzdialená	1	798,1418
+751	PAČASOVÁ Mária	rod. Ondiková	1	1418
+751	Pačasová Mária r. Ondiková		1	750,1570,1855
+751	PAČASOVÁ Mária, vzdialená vzdialená		0	1714
+751	PALÍK Michal		1	1418
+751	PAĽKO Andrej	mal	1	1026,1418
+751	PAĽKO Andrej, mal. mal.		0	1559
+751	PAĽKO Michal	mal	1	1026,1418
+751	PAĽKO Michal, mal. mal.		0	1559
+751	PAVLIŠIN Ján	žena Mária rod. Vargovičová	1	1418
+751	Petro - Baran Ján		1	1418
+751	PETRO - BARANOVÁ Mária	rod. Dzurdzová	1	1418
+751	PETRO - BARANOVÁ Mária	rod. Štovková	1	1418
+751	Petro - Čarná Mária		1	1418
+751	Petro - Čarný Jozef		1	1418
+751	PETRO - MONOCKÁ Anna	rod. Pačasová	1	1418
+751	Petro - Monocká Anna r. Pačasová		1	750
+751	PETRO - MONOCKÁ Helena	rod. Haňová	1	1418
+751	Petro - Monocký Michal		1	1407,1418
+751	Petro - Pavelko Ján		1	1418
+751	Petro - Pavelko Juraj		1	1418
+751	PETRO - PAVELKOVÁ Anna	rod. Krajníková	1	1418

@@ -1,0 +1,256 @@
+128	Bilka Peter	manž.Mária r.Černá	0	1068
+128	Bilka Peter	syn Pavla	0	594
+128	Bilka Peter	zomrel-D6306/92, súrodenci Jozef,Ján,Anna,Pavel	0	593
+128	Bilka Peter	zomrel-D6306/92súrodenci Jozef,Ján,Anna,Pavel	0	409,1161
+128	Bilka Rudolf	č.d.2052/1915,súrodenci Mária,Augustín,Júlia,Alojs,Tereza	0	829
+128	Bilka Rudolf	č.d.2703/1937	0	1337
+128	Bilka Rudolf	manž.Alžbeta r.Bilková	0	1416,1456,1501,1517
+128	Bilka Šimon	č.d.497/1942	0	767,768,769,1267,1268
+128	Bilka Šimon	manž.Hilda r.Helfertová manž.Hilda r.Helfertová	0	1302
+128	Bilka Šimon	zomr.12.1.1964,manž.Mária Bilková	0	1090,1383,1401
+128	Bilka Šimon	žena Mária	0	114
+128	Bílka Šimon		0	88,488
+128	Bilka Šimun	č.d.2895/1924	0	1588
+128	Bilka Šimun	Valík,manž.Mária	0	1066,1067
+128	Bilka Štefan		0	550
+128	Bilka Štefan	č.d.1352/1918	0	1077
+128	Bilka Štefan	č.d.3899/1934	0	905,1460,1475
+128	Bilka Vavrinec		0	679
+128	Bilka Vavrinec	slobodný,č.d.109	0	1052,1056
+128	Bilka Vendelín		0	633,634,635
+128	Bilková Alžbeta		0	490
+128	Bilková Alžbeta	manž.Rudolf	0	1456,1517
+128	Bilková Alžbeta	slobodná, otec Pavol	0	1376,1381
+128	Bilková Alžbeta r. Bilková		0	1532
+128	Bilková Alžbeta r. Černá	manž.Matej	0	792
+128	Bilková Alžbeta r. Májková	manž.Matej	0	753,756,1187,1188,1265,1380
+128	Bilková Alžbeta r. Pavlíková	manž.Jozef-šachora,otec Michal,zomrela-D387/84	0	956
+128	Bilková Alžbeta r. Šajdíková	manž.Ján	0	792
+128	Bilková Anna	maloletá v r.1910,súrodenci Štefan, Mária,Ilona,otec Juraj	0	1696
+128	Bilková Anna	manž.Pavol	0	1728
+128	Bilková Anna r. Hilková		0	599
+128	Bilková Anna r. Hilková	zomr.31.10.1983, manž.Jozef	0	939,1470
+128	Bilková Anna r. Májková		0	511,930,933
+128	Bilková Anna r. Májková	č.d.573/1947	0	924,925,926,927,928,929,931,932,934
+128	Bilková Anna r. Májková	manž.Michal	0	749,1392
+128	Bilková Anna r. Pavlíková	nar.20.9.1884, manž.Pavol	0	1375,1377,1421,1685
+128	Bilková Anna r. Škápiková		0	728,1812
+128	Bilková Anna r. Vaňková	nar.8.6.1890, manž.Jozef	0	1731
+128	Bilková Berta	bratia Jozef, Rudolf,Štefan; bratia Jozef, Rudolf,Štefan	0	958,1011,1044,1045,1072
+128	Bilková Berta	mal	0	480
+128	Bilková Hedviga	maloletosť zrušená č.d.869/40	0	957,1115
+128	Bilková Hedvika	Šachor	0	1481
+128	Bilková Helena	maloletosť zrušená č.d.1232/1924,súrodenci Štefan,mária,Ann maloletosť zrušená č.d.1232/1924,súrodenci Štefan,mária,Ann	0	1337,1502,1517,1696
+128	Bilková Helena	sestry Alžbeta a Mária	0	681
+128	Bilková Helena r. Bilková	manž.Matúš	0	1290
+128	Bilková Helena r. Mikešová		0	1327
+128	Bilková Hilda r. Helfertová	manž.Šimon	0	1302
+128	Bilková Ilona r. Gašparíková	manž.Matyáš	0	1376
+128	Bilková Jozefína r. Drinková	zomr.20.7.2008	0	1037
+128	Bilková Jozefína r. Juríková		0	1014,1396
+128	Bilková Júlia r. Hrúzová	manž.Ján	0	905,1387,1460
+128	Bilková Karolína	manž.Štefan,zomrel-D1422/79	0	775
+128	Bilková Karolína r. Bilková	Amerika	0	1111
+128	Bilková Karolína r. Bilková	manž.Augustín	0	1108,1109,1112,1113,1116,1143,1144,1145,1477
+128	Bilková Katarína r. Bilková	č.d.2403/1944	0	722
+128	Bilková Katarína r. Bilková	manž.Anton	0	1292
+128	Bilková Katarína r. Drinková	manž.Michal	0	1144
+128	Bilková Ľudmila r. Májková	zomr.4.7.2001,naposledy bytom Bilkove Humence 36	0	924,925,926,927,928,929,931,932,934,1003
+128	Bilková Ludmila r. Stachová	súrodenci Helena, Jozef	0	745,746,747,748,749,750,751,752,753,754,756,1187,1188,1265
+128	Bilková Ľudmila r. Stachová		0	549,560,1837
+128	Bilková Magdaléna		0	550
+128	Bilková Magdaléna	č.d.3899/1934	0	905,1460,1475
+128	Bilková Mária		0	550
+128	Bilková Mária	č.d.3899/1934	0	905,1460,1475
+128	Bilková Mária	maloletosť zrušená č.d.2920/1922,súrodenci Štefan,Ilona,Ann maloletosť zrušená č.d.2920/1922,súrodenci Štefan,Ilona,Ann	0	1337,1502,1517,1696
+128	Bilková Mária	manžel Pavol Bilka	0	313
+128	Bilková Mária r. Bilková		0	679
+128	Bilková Mária r. Bilková	č.d.465/1946	0	774,776
+128	Bilková Mária r. Bilková	manž.Šimun	0	1383
+128	Bilková Mária r. Bilková	nar.2.2.1900, manž.Pavol	0	1042,1043,1077,1078,1150,1151,1152,1741,1772,1778,1807
+128	Bilková Mária r. Gočalová		0	535
+128	Bilková Mária r. Juríková	manž.František	0	853,1099
+128	Bilková Mária r. Matulová		0	646
+128	Bilková Marta		0	679
+128	Bilková Marta	maloletá v r.1947, č.d.461/1962	0	684,1814
+128	Bilková Marta	maloletá v r.1947,č.d.461/1962	0	713,1051,1052,1053,1056,1245
+128	Bilková Paulína r. Drinková	manž.Šimon	0	663,1132
+128	Bilková Tereza	otec Juraj	0	829
+128	Bilková Terézia	manž.Ján	0	1734
+128	Bilková Terézia r. Bilková	nar.6.6.1903, súrodenci Šimon,Albína,Vavrinec,manž.Jozef	0	1056
+128	Bilková Terézia r. Černá		0	488
+128	Bilková Terézia r. Černá	nar.13.10.1868, manž.Jozef	0	792,914,915,917,1246,1365,1413
+128	Bilková Terézia r. Hrúzová		0	172
+128	Bilková Terézia r. Hrúzová	manž.Pavol	0	941
+128	Bilková Terézia r. Hrúzová	nar.22.11.1878, manž.Ondrej	0	1306
+128	Bilková Terézia r. Petríková		0	507,508,525
+128	Bilková Terézia r. Petríková	zomr.2.5.1962, manž.Ján-zomrel - D450/63	0	728,732,734,1263,1812
+128	Bilková Terézia r. Solárová		0	1073,1076,1480,1766
+128	Bilková Veronika r. Dobiašová	manž.Matej	0	1119
+128	Bilkovičová Mária	č.d.2612/1937	0	1631
+128	Bitterová Magdaléna r. Búzková		0	848
+128	Bízek Ján	mal	0	557,558
+128	Bízek Jozef		0	557,558
+128	Bízek Jozef	slobodný,č.d.3272/1941	0	1464
+128	Bizek Matej		0	558
+128	Bízek Rajmund	manž.Agneša r.Andelová	0	771
+128	Bízková Helena	maloletá v r.1917,sestry Katarína,Mária	0	916
+128	Bízková Helena r. Michálková		0	1634
+128	Bízková Katarína	maloletá v r.1917,sestry Helena,Mária	0	916
+128	Bízková Mária	maloletá v r.1917,sestry Katarína,Helena	0	916
+128	Bízková Mária r. Sovová		0	1668
+128	Bízková Paulína r. Šedivá		0	1190,1595
+128	Bízková Terézia	maloletá v r.1947	0	771
+128	Blahút Ján	brat Rudolf	0	1468
+128	Blahút Rudolf	brat Ján	0	1468
+128	Blažek Peter	manž.Terézia r.Drinková	0	1747
+128	Blažková Helena	č.d.534/1942	0	1320
+128	Bobek Ján	č.d.1416/1921	0	1667
+128	Bobek Martin	manž.Helena r.Švajdlenková	0	737
+128	Bobeková Mária r. Sakalášová		0	1029
+128	Bobková Mária r. Michálková	súrodenci Anna,Júlia,Michal,Antonín	0	1656
+128	Bobková Mária r. Petrovičová		0	1121,1122,1123
+128	Bocková Alžbeta r. Drinková		0	1362,1394,1680
+128	Bojkovská Kristína r. Dekánková	manž.František	0	613,891,1411
+128	Bojkovská Terézia r. Lešková		0	818
+128	Bojkovská Terézia r. Lešková	manž.Jozef,č.d.133	0	827,1334
+128	Bojkovská Terézia r. Vlková		0	815,826
+128	Bojkovský František	manž.Kristína r.Dekánková	0	613,891,1411
+128	Bojkovský Jozef	manž.Terézia r.Lešková,č.d.133	0	1334
+128	Borovička Ľudovít		0	694,1784
+128	Borovička Pavol		0	286
+128	Borovička Pavol	žena Anna r. Stachová	0	694,1784
+128	Breza Ján		0	736
+128	Breza Jozef	č.d.782/1918	0	736
+128	Brezová Anna r. Šedivá		0	1663
+128	Brezová Mária	maloletá v r.1918,č.d.782/1918	0	736
+128	Brezová Paulína	maloletá v r.1918,č.d.782/1918	0	736
+128	Buchová Štefánia r. Šedivá		0	956
+128	Bulka Ján	syn Ondreja,brat Štefan	0	1596
+128	Bulka Štefan	syn Ondreja, brat Ján	0	1596
+128	Bulková Rozália r. Škápiková		0	1600
+128	Bulková Štefánia r. Nesnadná	naposledy bytom Borský Mikuláš	0	872,873,874,875,876
+128	Bulková Tereza r. Vaňková		0	1459
+128	Buraj Anton		0	126
+128	Buraj Imrich	žena Anna.Šajdíková	0	126
+128	Buraj Ľudovít		0	126
+128	Buraj Štefan		0	126
+128	Búranová Johana r. Rudavská	č.d.1476/1925	0	768,1303,1332
+128	Buray Anton	manž.Alžbeta r.Nesnadna	0	1069,1070,1442
+128	Buray Imrich	manž.Anna r.Šajdíková	0	1069,1070,1442
+128	Buray Ludovít	manž.Alžbeta r.Hlavenková	0	1069,1070,1442
+128	Buray Štefan	manž.Johana r.Šajdíková	0	1069,1070,1442
+128	Burayová Alžbeta r. Nesnadná	manž.Anton	0	874,1442
+128	Burayová Anna r. Šajdíková	manž.Imrich	0	1442
+128	Burayová Johana r. Šajdíková	manž.Štefan	0	1442
+128	Burgermeisterová Terézia r. Vinkovičová	manž.Ján	0	1646
+128	Butaš František	manž.Helena r.Cvečková	0	741,1236
+128	Butaš Ján	slobodný, otec Pavol	0	1430
+128	Butaš Jozef	slobodný, otec Pavol	0	1430
+128	Butaš Pavel	maloletý v r.1908,otec Ján	0	737
+128	Butaš Pavol	manž.Anna r.Buzeková	0	1522
+128	Butaš Štefan	č.d.3581/1914	0	1638
+128	Butaš Štefan	maloletý v r.1936,č.d.2694/1936	0	853
+128	Butaš Štefan	maloletý v r.1943,súrodenci Agneša,Terézia	0	741,1236,1657
+128	Butašová Agneša	maloletá v r.1943,súrodenci Štefan a Terézia	0	741,1236,1657
+128	Butašová Albína	maloletá v r.1936,č.d.2694/1936	0	853
+128	Butašová Albína r. Hlavenková	č.d.5739/1936	0	1630
+128	Butašová Albína r. Totková		0	1585
+128	Butašová Anna r. Buzeková	manž.Pavol	0	1522
+128	Butašová Anna r. Šedivá		0	1587
+128	Butašová Emília	maloletá v r.1908,otec Ján	0	737
+128	Butašová Helena	č.d.2694/1936	0	853
+128	Butašová Jozefa	maloletá v r.1908,otec Ján	0	737
+128	Butašová Júlia	maloletá v r.1908,otec Ján	0	737
+128	Butašová Katarína r. Dobiašová	č.d.3207/1914	0	995
+128	Butašová Mária	č.d.2694/1936	0	853
+128	Butašová Mária r. Grajzová		0	1504
+128	Butašová Mária r. Oravská		0	1458
+128	Butašová Terézia	maloletá v r.1943,súrodenci Štefan a Agneša	0	741,1236,1657
+128	Búzek Antonín	č.d.4458/1938	0	1574
+128	Búzek Antonín	manž.Alžbeta r.Včelková	0	1495
+128	Búzek Ferdinand	manž.Júlia r.Mrázová	0	1496,1652
+128	Buzek Ján	manž. Júlia r.Šedivá	0	710
+128	Buzek Ján	manž.Júlia r.Šedivá	0	848,850
+128	Búzek Ján		0	644
+128	Búzek Ján	č.d.2665/1912	0	1652
+128	Búzek Ján	manž.Mária r.Dufeková	0	1496,1652
+128	Búzek Pavel	č.d.2665/1912	0	1652
+128	Buzek Pavol	č.d.4458/1938	0	1574
+128	Búzek Pavol	manž.Mária r.Dobiašová	0	1496,1652
+128	Búzek Rudolf	č.d.350/1926	0	848
+128	Búzek Štefan	č.d.350/1926	0	848
+128	Búzek Viktor		0	710
+128	Búzek Viktor	č.d.2841/1932	0	848,849
+128	Búzeková Rozália r. Cintulová		0	622
+128	Búzková Albína r. Mikulková		0	1081,1447
+128	Buzková Alžbeta r. Včelková		0	1529
+128	Búzková Anna r. Filová	manž.Valent	0	851
+128	Búzková Apoléna r. Májková		0	722,865,867
+128	Búzková Júlia	maloletosť zrušená č.d.3930/1940	0	1634
+128	Buzková Júlia r. Fojtlínová	vdova	0	851
+128	Buzková Júlia r. Šedivá	vdova po manž.Jánovi	0	851
+128	Búzková Katarína r. Kabarcová	manž.Ján	0	848
+128	Búzková Mária r. Butašová	manž.Ján	0	737,1018
+128	Búzková Mária r. Macková	č.d.720/1918	0	1601
+128	Búzková Mária r. Nesnadná	manž.Ján	0	1479
+128	Búzková Terézia	maloletá v r. 1932	0	710
+128	Búzková Terézia	maloletá v r.1932,č.d.2841/1932	0	848,849
+128	Cák Ján	č.d.2186/1923	0	1170,1472
+128	Cák Ján	č.d.227/1926	0	1170,1472
+128	Cák Ján	zomr.6.2.2007	0	1472
+128	Cák Jozef	naposledy bytom Senica-Kunov 119	0	1599
+128	Cák Martin	č.d.420/1946	0	1030,1169,1170,1472
+128	Cák Rudolf	manž.Paulína r.Sekáčová	0	1682
+128	Cák Štefan	manž. Helena Vajdová	0	646
+128	Cáková Štefánia r. Sakalášová	naposledy bytom Borský Mikuláš	0	841
+128	Cigánek Florián	súrodenci Anna,Helena,rodičia Jozef a Katarína r.Májková	0	845,1271
+128	Cigánek Ignác		0	544
+128	Cigánek Jozef		0	457,499,588,589,594,595,597,598,599,1160
+128	Cigánek Jozef	č.d.1446/1944	0	409,593,1161
+128	Cigánek Jozef	mal	0	641
+128	Cigánek Jozef	manž.Katarína r.Májková	0	1550
+128	Cigánek Martin		0	499
+128	Cigánek Martin	manž. Helena r. Bilková	0	474
+128	Cigánek Martin	manž.Terézia r.Škápiková	0	965
+128	Cigánek Pavol		0	488,588,589
+128	Cigánek Pavol	č.d.4467/1931	0	1331,1345,1487
+128	Cigánek Pavol	manž.Anna	0	1328
+128	Cigánek Štefan		0	1160
+128	Cigánek Štefan	manž. Anna Bilková	0	457,499
+128	Cigánek Štefan	manž. Anna r. Bilková	0	588
+128	Cigánek Štefan	manž.Anna r.Bilková	0	409,593,1161,1324
+128	Cigánek Štefan	ž. Anna Bilka	0	589,594,595,597,598,599
+128	Cigánek Vendelín	mal	0	641
+128	Cigánková Anna	mal	0	641
+128	Cigánková Anna	manž.Pavol	0	1328
+128	Cigánková Anna	súrodenci Helena,Florián,rodičia Jozef a Katarína r.Májková súrodenci Helena,Florián,rodičia Jozef a Katarína r.Májková	0	845,1271
+128	Cigánková Anna r. Bilková	manž.Štefan	0	1324
+128	Cigánková Anna r. Drinková	zomrela - D 3354/92	0	593
+128	Cigánková Anna r. Drinková	zomrela-D3354/92	0	409,1161
+128	Cigánková Anna r. Filípková	manž.Štefan,súrodenci Mária,Terézia,Rozália,Pavol	0	891,895,1276
+128	Cigánková Helena r. Stachová		0	549
+128	Cigánková Jozefa r. Gachová		0	444
+128	Cigánková Jozefína r. Gachová		0	819,821,822,823,824,825,828,1228,1825,1826
+128	Cigánková Jozefína r. Gachová	manž.Alojz	0	728,1154,1812
+128	Cigánková Katarína r. Drinková		0	1393
+128	Cigánková Mária	mal	0	641
+128	Cigánková Mária r. Solárová		0	1073,1076,1319,1766
+128	Cigánková Terézia r. Bilková	manž.Ignác	0	1620
+128	Cigánková Terézia r. Škapíková	nar.20.6.1902,manž.Martin	0	613,965,1300
+128	Cigánková Terézia r. Škápiková		0	552,614,615,1234,1235
+128	Cintula Antonín	maloletý,otec Štefan	0	1647,1658
+128	Cintula Florián	syn Floriana	0	1681
+128	Cintula Floriš	č.d.449/1924	0	1449
+128	Cintula František	Kuban	0	165,904,931
+128	Cintula František	maloletý v r.1918	0	1681
+128	Cintula František	manž. Helena Trupová	0	622
+128	Cintula František	manž.Helena r.Macková	0	1593
+128	Cintula Ignác	č.d.308/1918	0	1439
+128	Cintula Ignác	č.d.5060/1938	0	1627
+128	Cintula Ján		0	543,544
+128	Cintula Ján	č.d.939/1918	0	1607
+128	Cintula Ján	maloletý,otec Ján,súrodenci Jozef,Helena,Štefan	0	1647,1658
+128	Cintula Jozef	otec Ján,súrodenci Helena,Štefan,Ján	0	1647,1658
+128	Cintula Ladislav	manž.Anna r.Dobiašová	0	888
+128	Cintula Matej	č.d.308/1918	0	1439

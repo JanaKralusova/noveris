@@ -1,0 +1,256 @@
+3402	Ivašková Mária r. Matisová, SR		1	2548,2921
+3402	Klemmová Mária r. Figurová, SR		1	2511
+3402	Kmeť Pavol	2	1	2615
+3402	Košťanová Anna r. Nudzajová, SR		1	2602
+3402	Košťanová Elena, SR		1	2546,2638,3193,3537
+3402	Králiková Oľga r. Košťanová, SR		1	2587,2948,3518
+3402	KROŠLÁKOVÁ Anna		1	2500
+3402	Lászlová Elena r. Dávidová, SR		1	2685
+3402	Lauko Ondrej, SR		1	2618
+3402	Litvajová Zuzana r. Gregorová, SR		1	2595
+3402	Lorencová Daniela r. Belláková, Lomonosova 9, Nitra, SR		0	2280,4054
+3402	Lvončíková Emília, SR		1	2583
+3402	Pálková Ilona, SR		1	2686,2687
+3402	Pokrievka Ján, SR		1	2523,3711
+3402	POLIAK JOZEF, SR		1	2157,2159,2542,2593,2614,2617,2619,3160,3909,4046
+3402	POLIAKOVÁ MÁRIA r. JARABÁKOVÁ, SR		1	2156,2610
+3402	Ruttkay Danko	Juričko	1	2548
+3402	Ruttkayová Gizela r. Záthurecká, SR		1	2548
+3402	Ruttkayová Jozefa r. Záthurecká, SR		1	2548
+3402	Severoslovenské tehelne, národný podnik v Žiline		0	3699
+3402	Spiššáková Anna r. Pokrievková, SR		1	2523,3711
+3402	Štátna roľnícka škola v Turčianskom Svätom Martine		0	4017
+3402	Štefanides Ivan, SR		1	2658,2688,2689
+3402	Štefanides Pavol, SR		1	2658,2688,2689
+3402	Štefanidesová Zuzana r. Kmeťová, SR		1	2609
+3402	Thomková Lucia r. Záthurecká, SR		1	2686,2687
+3402	Tomčány Jozef, SR		1	2597,2635
+3402	Vajda Jozef	2	1	2547
+3402	Vajda Jozef, SR	2	1	3142
+3402	Vajda Milan, SR		1	2547,3142
+3402	Valko Alexander, SR		1	2646
+3402	Valko Milan, SR		1	2500,2590
+3402	Valko Teodor, SR		1	2695
+3402	Valková Anna r. Tomčány, SR		1	2695
+3402	VIŠŇOVCOVÁ Viera		1	2500
+3402	Vrabcová Oľga, SR		1	2541
+3402	Zajasenský Andrej, SR		1	2661,2903
+3402	Zajasenský Jozef, SR	ml	0	2921
+3402	ZÁTHURECKÁ ZUZANA r. GALANDA, SR		0	2207
+3402	Záthurecký Fána, SR		1	2686,2687
+3402	Záthurecký Ján	Vojvoda	0	2599
+3402	Záthurecký Ján /Vojvoda/, SR		1	445
+3402	Záthurecký Jozef, SR	Vojvoda Vojvoda	1	2623
+3402	Záthurecký Karol	Vojvoda	0	2599
+3402	Zatloukal František		1	2523,3711
+3402	Zatloukalová Emília r. Matisová, SR		1	2548,2921
+3403	BENČEKOVÁ Mária	r.Bónová	1	1051
+3403	BOGOVÁ Jolana	r.Frajková	1	912
+3403	Bónová Helena		1	301,947,1024,1051,1210
+3403	BÓNOVÁ Pavlína		1	1210
+3403	ČERŇÁK Ján		1	1023
+3403	ČERŇÁK Jozef		1	1023
+3403	ČERŇÁKOVÁ Mária		1	1023
+3403	ČERŇÁKOVÁ Terézia		1	1023
+3403	FRAJKA Demeter		1	980
+3403	Frajka Ján		1	189,881,1086
+3403	FRAJKA Ján	Ondrejov, ž.Rozália	1	774,1140,1141,1145,1146,1170,1177,1222,1223,1244,1254
+3403	FRAJKA Ján	Tatík, ž.Mária	1	1049
+3403	FRAJKA Jozef	Jánošík, ž.Františka	1	980
+3403	FRAJKA Jozef	mal. Punčov	1	774,914,1001,1016,1085,1094,1140,1141,1145,1146,1170,1177,1222,1223,1244,1254
+3403	FRAJKA Jozef	Ondrejov syn	1	880,881,960,1086
+3403	FRAJKA Ludovít Alojz	Ondrejov syn	1	880,960
+3403	Frajka Matej		1	189
+3403	FRAJKA Matúš	Kňažkov, ž.Terézia	1	1077
+3403	FRAJKA Šimon		1	774,1140,1141,1145,1146,1170,1177,1222,1223,1244,1254
+3403	FRAJKA Štefan		1	774,1140,1141,1145,1146,1170,1177,1222,1223,1244,1254
+3403	FRAJKA Štefan	Tomášov, ž.Mária	1	774,1140,1141,1145,1146,1170,1177,1222,1223,1244,1254
+3403	FRAJKA Štefan	ž.Barbora	1	907
+3403	FRAJKA Štefan	ž.Pavlína	1	1081
+3403	Frajka Vojtech		0	1112
+3403	FRAJKOVÁ Barbora	r.Frajková Ondrejová dcéra	1	960
+3403	FRAJKOVÁ Barbora	r.Švecová vd	1	880,881,1107
+3403	FRAJKOVÁ Františka	r.Frajková	1	1056
+3403	FRAJKOVÁ Katarína	r.Frajková	1	907,908,1052
+3403	FRAJKOVÁ Lucia	r.Solčianská m.Vojtech	1	956,1006,1035,1178,1179,1267
+3403	FRAJKOVÁ Mária	predtým Obycká, r.Kováčová	1	1039
+3403	FRAJKOVÁ Terézia	r.Frajková	1	902,1186
+3403	Frajková Valéria		1	189
+3403	GELENCKÝ Ján		1	1005
+3403	GERGELOVÁ Helena	r.Záhorská	1	904
+3403	GERGELOVÁ Katarína	r.Holá	1	1018
+3403	GREGOROVÁ Etela	r.Frajková	1	908
+3403	HASPROVÁ Eleonóra	r.Lavová	1	1084
+3403	HASPROVÁ Helena	r.Gergelová	1	1079
+3403	HASPROVÁ Mária	r.Mlynková	1	818,1011
+3403	HAVETTOVÁ Mária	r.Obycká	1	825,1134
+3403	HINDY Štefan		1	1108
+3403	CHRENKO Filip	ž.Matilda	1	774,1140,1141,1145,1146,1170,1177,1222,1223,1244,1254
+3403	CHRENKO Jozef	mal	1	774,1140,1141,1145,1146,1170,1177,1222,1223,1244,1254
+3403	CHRENKOVÁ Matilda	r.Kováčová	1	774,1140,1141,1145,1146,1170,1177,1222,1223,1244,1254
+3403	KABÁT Kornel		1	937,1005,1090,1224
+3403	KÉRYOVÁ Františka	r.Frajková	1	860
+3403	KOMÁROVÁ Mária	r.Frajková	1	907,908,1043
+3403	KOVÁČ Jozef		1	1067
+3403	KOVÁČ Pavol	ž.Karolína	1	1042
+3403	KOZOLKA Michal		1	987
+3403	KOZOLKA Ondrej	ž.Mária	1	869
+3403	KOZOLKOVÁ Mária	r.Kurkinová	1	954
+3403	KRAJČI Izidor		1	1014
+3403	KRAJČIOVÁ Mária	r.Frajková vd	1	1070
+3403	KRAJČIOVÁ Mária	r.Mlynková	1	784,1059
+3403	KRŠIAKOVÁ Mária	r.Gálová	1	1032
+3403	MALÝ Jozef		1	774,1140,1141,1145,1146,1170,1177,1222,1223,1244,1254
+3403	MLYNKA Alojz	ž.Viktória	1	774,1140,1141,1145,1146,1170,1177,1222,1223,1244,1254
+3403	MLYNKA František	mal	1	868
+3403	MLYNKA Ján		1	784,1059
+3403	MLYNKA Ján	Ondrejov, ž.Pavlíma	1	1059
+3403	MLYNKA Ján	Pavkov	1	831,1225
+3403	MLYNKA Jozef		1	784,1059
+3403	MLYNKA Jozef	Ondrejov, ž.Pavlína	1	1059
+3403	MLYNKA Peter		1	996,1048
+3403	MLYNKA Vincent	Matejov, ž.Mária	1	774,1140,1141,1145,1146,1170,1177,1222,1223,1244,1254
+3403	MLYNKOVÁ Anna	mal	1	1027
+3403	MLYNKOVÁ Helena	r.Švecová	1	1048
+3403	MLYNKOVÁ Katarína	Pavková	1	831,1225
+3403	MLYNKOVÁ Mária		1	1048
+3403	MLYNKOVÁ Mária	r.Lavová	1	774,1140,1141,1145,1146,1170,1177,1222,1223,1244,1254
+3403	MLYNKOVÁ Viktória	r.Frajková	1	837
+3403	Mrázová Eva r. Frajková		1	116,118
+3403	OBYCKÁ Františka	r.Frajková	1	880,881,960
+3403	OBYCKÁ Katarína	mal	1	825,1134
+3403	OPÁLENÁ Terézia	r.Mlynková	1	784,1059
+3403	SMIEŠKOVÁ Mária	r.Mrázová	1	774,1140,1141,1145,1146,1170,1177,1222,1223,1244,1254
+3403	ŠVEC František	ž.Mária	1	1007
+3403	ŠVECOVÁ Františka	r.Hasprová	1	1066,1079
+3403	ZÁVADA Gazdovia	bývalí urbárnici	1	1088
+3404	Alžbeta Palušová r. Detková	m. Imrich	0	712,884,1131,1239
+3404	Bajanová Mária r. Helbichová	Jacovce	0	543,560,574,725,843,1002,1003
+3404	Bajzík Ján r. Bajzík	syn Martina	0	986
+3404	Bajzík Jozef	ž.Mária č.d.57	0	1053
+3404	Bajzík Jozef r. Bajzík	ž. Anna Herdová	0	986
+3404	Bajzík Jozef r. Bajzík	ž. Rozália Vatrsková	0	532,712,884,1131,1239
+3404	Bajzík Marian r. Bajzík	Bilnica 505	0	63,730,731,951,953
+3404	Bajzik Martin		0	1053,1319
+3404	Bajzík Matej r. Bajzík		0	792,793
+3404	Bajzík Rudolf	Kanada	0	63,730,731,951,953
+3404	Bajzík Štefan r. Bajzík		0	629
+3404	Bajzík Štefan r. Bajzík	ž. Verona Golská	0	491
+3404	Bajzíková Alžbeta	dcéra Martina	0	986
+3404	Bajzíková Hermina		0	712,884,1131,1239
+3404	Bajziková Katarína r. Herdová		0	1053,1319
+3404	Bajzíková Kristína r. Herdová		0	707,1215
+3404	Bajzíková Margita		0	712,884,1131,1239
+3404	Bajzíková Rozália r. Vatrsková		0	532,628
+3404	Bajzíková Rozália r. Vatrsková	m. Jozef	0	712,884,1131,1239
+3404	Bajzíková Verona r. Golská		0	629,712,884,1131,1239,1429
+3404	Balázsová Katarína		0	912
+3404	Barta Martin r. Barta		0	881,882
+3404	Bartíková Amália		0	557,558,1308
+3404	Bartiková Anna r. Herdová	manž. Ján	0	712,884,1131,1239
+3404	Bednárová Alžbeta	Horná Lehota č.d.106	0	597
+3404	Beláková Anna r. Matejková	manž. Jozef	0	712,884,1131
+3404	Beláková Anna r. Matejková	manž. Jozef; manž. Jozef	0	1239
+3404	Beláková Mária r. Beňová	m.Jozef	0	726,732,733,1341,1386,1390
+3404	Beláková Mária r. Detková		0	618,702,703,704,705,707,764,1029,1220,1221
+3404	Belušová Alžbeta r. Detková	nezvestná	0	729
+3404	Beňo Anton r. Beňo		0	1386
+3404	Beňo František r. Beňo	ž.Mária Godálová	0	1386
+3404	Beňo Ján	m.Mária Vančová	0	732,733,804,1342,1343,1386
+3404	Beňo Ján	ž.Mária Grznárová	0	115,162,532,712,742,743,744,745,746,747,748,828,884,1118,1131,1223,1239,1491
+3404	Beňo Jozef	Velušovce č.d.37	0	733,1341
+3404	Beňo Jozef	ž.Agnesa Michalková	0	532,712,884,1131,1223,1239
+3404	Beňo Jozef r. Beňo	ž.Verona Cikatricisová	0	726,732,733,1341,1386,1390
+3404	Beňo Štefan r. Beňo	ž.Anna Dudášová	0	1386
+3404	Beňová Agneša r. Michalková	m. Jozef	0	712,884,1131,1239
+3404	Beňová Margita		0	1386
+3404	Beňová Verona r. Cikatricisová		0	1350
+3404	Beňová Zuzana r. Vančová		0	733
+3404	Bienenstock Alexander		0	712,884,1131,1239,1295
+3404	Bienenstock Eugen	ž.Alžbeta Braunová	0	712,884,1131,1239,1295
+3404	Bienenstocková Irena		0	712,884,1131,1239,1295
+3404	Blaho Štefan r. Blaho	ž.Mária Bartíková	0	712,884,1131,1239
+3404	Blahová Katarína		0	712,1239
+3404	Blahová Margita		0	712,1239
+3404	Blahová Mária	súrodenci: Ján, Katarína, Štefan, Rudolf, Margita	0	1285
+3404	Blahová Mária	vzdialená	0	634,635,712,750,884,997,1131,1239
+3404	Blahová Mária r. Bartíková		0	1308
+3404	Bobošíková Anna r. Helbichová	m.Štefan	0	575
+3404	Bobošiková Mária r. Režná		0	1323
+3404	Bočáková Helena r. Fiantoková		0	656
+3404	Božík František r. Božík		0	656
+3404	Božík Gregor,  17		0	712,884,1131,1239
+3404	Božík Imrich	ž. Mária Dominová	0	712,884,1131,1239
+3404	Božík Ján	ž. Katarína Streďanská	0	712,884,1131,1239
+3404	Božik Ján r. Božik		0	664,712,884,1131,1161,1239,1384
+3404	Božík Ján r. Božík	ž. Anna Božíková	0	905
+3404	Božík Ján r. Božík	ž. Anna Záhradná	0	1433
+3404	Božík Ján r. Božík	ž.Katarína	0	1023
+3404	Božík Ján r. Božík	žen. Alžbeta Kišacová	0	480,1299
+3404	Božík Jozef r. Božík		0	826
+3404	Božík Jozef r. Božík	č.d. 31	0	1294
+3404	Božík Jozef r. Božík	ž. Alojzia Košťálová	0	905
+3404	Božík Jozef r. Božík	ž.Zuzana Adamová	0	480
+3404	Božík Karol r. Božík		0	826
+3404	Božik Matúš	mnž. Anna Božiková r. Streďanská	0	825
+3404	Božik Matúš	rodičia Jakub Božik a Katarína r. Herdová, súr. Alžbeta, Mária, Verona, Jozef, Jakub	0	1330
+3404	Božik Matúš	rodičia Michal Božik a Anna r. Štefkovičová, súr. Mária, Štefan, Ján, Martin	0	480
+3404	Božik Matúš	syn Michala	0	1299
+3404	Božik Matúš r. Božik	ž. Mária Herdová, nar. 1.1.1908, zom. 15.3.1984	0	662,663,1023,1087,1088
+3404	Božik Matúš r. Božik	ž. Mária Herdová, nar. 1.1.1908, zomr. 15.3.1984	0	762
+3404	Božik Michal r. Božik	ž.Verona Golská	0	616,712,884,1131,1239
+3404	Božík Michal r. Božík	ž. Rozália Golská	0	905
+3404	Božík Michal r. Božík	ž. Štefánia Záhradná	0	833
+3404	Božík Rozália,  17		0	712,884,1131,1239
+3404	Božík Štefan	Žen. Verona Grznárová	0	480,1299
+3404	Božík Štefan r. Božík	Podhradie 60	0	481
+3404	Božík Štefan r. Božík	ž. Alžbeta Štefkovičová	0	905
+3404	Božíková Alžbeta r. Jančeková		0	712,884,1131,1239
+3404	Božiková Anna r. Božiková	Podhradie 41	0	712,884,1131,1239
+3404	Božíková Barbora r. Rešetková	m.Michal	0	730,731,759,869
+3404	Božiková Emília r. Jánošíková		0	1384
+3404	Božíková Františka r. Miková	m.Štefan	0	836
+3404	Božíková Katarína r. Gredánska		0	1320
+3404	Božiková Katarína r. Jančeková	alžbeta	0	712,884,1131,1239
+3404	Božíková Mária r. Dominová	m.Imrich	0	1400
+3404	Božiková Mária r. Herdová	m. Matúš	0	712,884,1131,1239
+3404	Božíková Mária r. Herdová		0	528,538,712,884,1131,1239
+3404	Božíková Mária r. Rešetková		0	730,731,759,869
+3404	Božíková Mária r. Stanková		0	63,730,731,759
+3404	Božíková Mária r. Stanková	manž. Matej	0	826
+3404	Božíková Monika r. Stanková		0	727,728
+3404	Božíková Štefánia r. Záhradná	m.Michal	0	833
+3404	Božíková Verona r. Golská		0	825
+3404	Božíková Verona r. Grznárová	Podhradie 60	0	481
+3404	Braunová Margita r. Bienenstocková	m.Július	0	712,884,1131,1239,1295
+3404	Bruchatá Mária r. Novotná	m. Štefan	0	879
+3404	Cifrová Mária r. Fiantoková		0	656
+3404	Cifrová Pavlína r. Helbichová		0	543,725,843,1002,1003
+3404	Cikatricis Jakub r. Cikatricis		0	841
+3404	Cikatricis Jozef r. Cikatricis	ž. Mária Maková	0	841
+3404	Cikatricis Juraj r. Cikatricis	ž. Mária Michalová	0	841
+3404	Cikatricis Matej r. Cikatricis	ž. Katarína Grznárová	0	841
+3404	Cikatricis Matúš r. Cikatricis		0	841
+3404	Cikatricis Michal r. Cikatricis	ž. Rozália Macková	0	841
+3404	Čerňanská Adela r. Lindtnerová	predtým Eckhardtová	0	439,791,1100,1302,1471
+3404	Červený Martin	ž. Mária Komová	0	712,884,1131,1239
+3404	Denko Štefan r. Denko		0	439,712,789,790,791,884,1100,1131,1239,1302,1471
+3404	Denko Tibor r. Denko		0	439,712,789,790,791,884,1100,1131,1239,1302,1471
+3404	Denková Amália		0	439,712,789,790,791,884,1100,1131,1239,1302,1471
+3404	Denková Helena		0	439,712,789,790,791,884,1100,1131,1239,1302,1471
+3404	Denková Mária r. Dovičinová	manž. Martin	0	712,884,1131,1239
+3404	Denková Zlatena		0	712,884,1131,1239
+3404	Detko Gustav		0	1412
+3404	Detko Ján	nar. 1906, zomrel 1986	0	1425
+3404	Detko Ján	ž. Alžbeta Macková	0	712,884,1131,1239
+3404	Detko Ján	ž. Mária Herdová	0	712,884,1131,1239
+3404	Detko Ján r. Detko		0	234,253,264,273,431,490,568,593,712,729,797,798,799,800,801,863,884,924,970,1095,1131,1140,1216,1217,1228,1239,1425,1431,1435,1494,1535
+3404	Detko Ján r. Detko	č.d. 3	0	234,1535
+3404	Detko Ján r. Detko	č.d.3	0	712,884,1131,1239
+3404	Detko Ján r. Detko	ž. Anna Hubertová	0	253,273,712,798,884,1131,1239,1425
+3404	Detko Ján r. Detko	ž.Anna Hubertová	0	490
+3404	Detko Jozef		0	429,489,729,1191,1192,1233,1239
+3404	Detko Jozef	rodičia Matej Detko a Mária, rod. Vančová	0	1425
+3404	Detko Jozef	ž. Katarína Golská	0	712,884,1131,1239
+3404	Detko Jozef	ž. Katarína Stanková	0	712,884,1131,1239
+3404	Detko Jozef	ž.Mária Herdová	0	569,570,712,884,968,969,1131,1239

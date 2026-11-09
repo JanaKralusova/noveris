@@ -1,0 +1,256 @@
+966	FENCIKOVA ALZBETA MAL.		0	120
+966	Fenciková Alžbeta		0	80,81,88,295,319,371
+966	Fenciková Alžbeta	mal	0	80,233
+966	Fenciková Alžbeta	maloletá	0	371,390
+966	Fenciková Alžbeta r. Petrašová	muž Michal	0	281
+966	Fenciková Anna		0	80,81,319,371
+966	Fenciková Anna r. Gašparová	muž Ján	0	281
+966	Fencíková Elena r. Kusiková		0	432,452
+966	FENCIKOVA ELENA R.KUSIKOVA		0	68
+966	Fenciková Helena		0	81,233,319
+966	FENCÍKOVÁ Helena	maloletá	0	390
+966	FENCIKOVA HELENA R.KUSIKOVA		0	63
+966	FENCIKOVA ILONA		0	120
+966	Fenciková Ilona	mal	0	80
+966	Fenciková Ilona	maloletá	0	371
+966	Fenciková Mária		0	80,81,319,371
+966	Fenciková Mária	mal	0	80
+966	Fenciková Mária	maloletá	0	371,390
+966	Ferec Michal	ž. Katarína r. Pavliková	0	80
+966	Ferenc Ján		0	437
+966	Ferenc Michal	manž. Katarína r.Pavliková	0	371
+966	Ferenc Michal	žena Kataína r. Pavliková	0	95
+966	Ferenc Michal	žena Katarína r. Pavlíková	0	417
+966	FERENC MICHAL		0	90,100
+966	Ferenc Michala	žena Ktarína r. Pavliková	0	98
+966	Ferencová Anna r. Gavulová, Husák 97, Husák, PSČ 072 51, SR	zomrela 15.10.1982	0	428
+966	FERENCOVA MARIA	MATKA KATARINA ZAHORCAKOVA	0	161,162
+966	Frenc Michal		0	211
+966	Gajduková Pavlina r. Gembová	dcéra Michala a Alžbety r. Stripajovej	0	371
+966	Gambová Alžbeta r. Stripajová	muž Michal	0	371
+966	Gavula Ján	hluchonemý	0	203,428,450
+966	Gavula Juraj	žena Anna r,Komárová	0	407
+966	GAVULOVA ALZBETA R.HOLINDOVA		0	57,58
+966	Gavulová Alžbeta r. Holindová		0	286,415
+966	GAVULOVÁ Anna	r.Regendová	0	390
+966	Gavulová Helena r. Regendová		0	101
+966	Gavulová Mária r. Kasičová	muž Ján	0	80,371,415
+966	Gavulová Mária r. Sulejová	m. Ján	0	408
+966	Gavulová Mária r. Sulejová	muž Ján	0	211
+966	GAVULOVA MARIA R.KASICOVA	MUZ JAN	0	57
+966	GAVULOVA MARIA R.KOCISOVA		0	58
+966	Gavulová Zuzana		0	76,81,319,371
+966	Gavulová Zuzana	mal	0	80
+966	Gemba Michal	ž. Mária r. Fenciková	0	80,232
+966	Gemba Michal	ž.Mária r. Fenciková	0	233
+966	Gemba Michal	žena Mária r. Fenciková	0	81,319
+966	Gemba Michal	žena Mária rodená Fenciková	0	128
+966	Gemba MIchal	manž. Mária r.Fenciková	0	371
+966	GEMBA MICHAL		0	80,81,319,371
+966	GEMBA MICHAL, SR	Z.MARIA R.FENCIKOVA	0	466
+966	GEMBOVA ALZBETA		0	57,58,415
+966	Gembová Alžbeta r. Stripaiová	muž Michal	0	319
+966	Gembová Alžbeta r. Stripajová	muž Michal	0	80,81
+966	Gembová Zuzana	mal	0	80,81
+966	Gembová Zuzana	maloletá	0	319,371,415
+966	GEMBOVA ZUZANA MAL.		0	57,58
+966	Gorandová Mária r. Kasičová	muž Ján	0	81,319
+966	Grezová Barbora r. Gonosová	muž Ján	0	240
+966	HAJDUKOVA PAVLINA r. GEMBOVA		0	58,80,81,319,415
+966	HLAVACOVA HELENA R.CINOVA	MUZ MICHAL	0	104
+966	Hlavač Štefan		0	80,81,233,319,371
+966	Holinda Ján		0	307
+966	HOLINDOVA ANNA		0	57
+966	Holindová Anna	mal	0	286
+966	Holindová Anna	maloletá	0	415
+966	HOLINDOVA ANNA MAL.		0	58
+966	HOLINDOVA MARIA		0	48,57,127,128,130,232,466
+966	Holindová Mária	maloletá	0	415
+966	HOLINDOVA MARIA MAL.		0	58
+966	HOLINDOVA MARIA R.KOMAROVA	MUZ JAN	0	136
+966	Horňak Jozef	žena Mária r.Šimková	0	437
+966	HOSTOVICAK JAN		0	122,123,170,171,195,196,210,212,263,289,304,305,306,394,404,405,412,441
+966	HOSTOVICAK JURAJ		0	196
+966	HOSTOVICAK MICHAL		0	122,123,195,196,210,304,305,306,394
+966	HOSTOVIČÁK Ján, SR		0	391,396,426
+966	HOSTOVIČAK Michal, SR		0	391,426
+966	Hostovičaková Mária r. Jurasová		0	81,319
+966	Hrinda Michal	ml. manž.Anna r.Sulejová	0	371
+966	Hrinda Michal	ml., ž. Anna r. Sulejová	0	80
+966	Husacka - urbárska spoločnosť		0	319
+966	Husacka-urbárska spoločnosť		0	81
+966	CHODANICOVA ANNA R.HOLINDOVA		0	48,466
+966	CHODANICOVA ANNA R.HOLINDOVA	MUZ JOZEF	0	48,466
+966	Chodaničová Ana r. Holindová		0	130
+966	Chodaničová Anna r. Holindová		0	127,128,232
+966	Chodaničová Anna r. Holindová	muž Jozef	0	127,128,130,232
+966	JURAS JAN		0	49,50,51
+966	Juras Ján	maloletý v roku 1914; maloletý v roku 1914	0	403
+966	JURAS Ján	maloletý v roku 1914	0	391,427
+966	Juras Jozef, Husák 65, Husák, PSČ 07251, SR		0	80,81,319
+966	Juras Jozef, Husák, č. 65, PSČ 072 51, SR		0	371
+966	JURAS MICHAL		0	49,50,403,427,434
+966	Juras Pavol	ž. Anna r. Haľková	0	384
+966	JURASOVA ANNA		0	49,50,51,403,427
+966	JURASOVÁ Anna, SR		0	391
+966	KACMAROVA ALZBETA R.KUSIKOVA		0	68,108,451
+966	Kačmarová Alžbeta r. Kusiková		0	432,452
+966	Kaliničová Zuzana r. Gavulová	muž Ján	0	130
+966	Kaliničová Zuzana r. Gembová	muž Ján	0	127
+966	Kamencová Mária	mal	0	80,81,287,293
+966	Kamencová Mária	maloletá	0	319,371
+966	Kasič Pavol		0	279
+966	Kerecman Juraj r. Kerecman		0	26,27,68,108,111,432,451,452
+966	KERECMANOVA MARIA R.BALOGOVA		0	63
+966	KOMAR JAN		0	161,302
+966	Komar Michal	mal	0	81,319
+966	KOMAR MICHAL		0	80,81,319,371
+966	Komar Pavol	mal	0	81,319
+966	KOMAR PAVOL		0	80,371
+966	KOMAROVÁ Anna	r.Skubaničová	0	392,395,406,419
+966	KOMAROVA ANNA R SKUBANICOVA		0	230
+966	Komárová Anna r. Gyuriková	muž Pavol	0	430
+966	Komarová Anna r. Skubaničová		0	80,171,210,371,422
+966	KOMAROVA ANNA R.SKUBANICOVA		0	39,41,157,456
+966	KOMAROVA KATARINA R.DANKULICOVA		0	41
+966	Komarová Mária r. Misiková	muž.Pavol	0	233
+966	Komarová Mária r. Mišiková	muž Pavol	0	80,81,319,371
+966	KOROMLANOVA ALZBETA		0	16
+966	Koromľanová Mária	maloletá	0	93
+966	KOROMLANOVA MARIA MAL.		0	16
+966	KOROMLANOVA ZUZANA R.FERENCOVA	MUZ MICHAL	0	16
+966	Koromlianová Alžbeta		0	93
+966	Koromlianová Anna		0	93
+966	KOROMLIANOVA HELENA R.BERCIKOVA	MUZ JURAJ	0	136
+966	Koromlianová Zuzana r. Ferencová	muž Michal	0	93
+966	KOTIKOVA MARIA		0	32,291
+966	KOTIKOVA MARIA MAL.		0	217
+966	KOVAC JAN		0	54
+966	Králová Mária r. Ferencová		0	428,431
+966	KUCHTOVA ALZBETA R.ROSKOVA		0	53,457
+966	Kuchtová Alžbeta r. Rošková		0	80,81,177,319,371,408,421
+966	KURAK ALEXANDER		0	112
+966	KURAK ANDREJ		0	63,68,108,112,432,451,452
+966	KURAK STEFAN		0	112
+966	Kurejová Pavlína r. Imšuraková		0	240,467
+966	Kurejová Pavlína r. Imšuraková	muž Juraj	0	241,467
+966	Kusiková Anna		0	307
+966	Kusiková Anna	maloletá v r.1890	0	414
+966	Kusiková Júlia		0	307
+966	Kusiková Júlia	maloletá v r.1890	0	414
+966	Lazur Michal		0	435
+966	Lefkovičová Gizela		0	90
+966	Linková Marta r. Hostovičaková, J. Hollého 171/56, Michalovce, PSČ 07101, SR		0	80
+966	MACKOVÁ Alžbeta	r.Fencíková	0	390
+966	Macková Alžbeta r. Fenciková		0	80,371
+966	Machová Alžbeta r. Fenciková		0	81,319
+966	MANDZULAK JAN		0	112
+966	MANZULAK JAN		0	26,68,108,111,432,451,452
+966	MANZULAKOVA ANNA R.BALOGOVA	MUZ STEFAN	0	27,108,451
+966	Maskovičová Lena		0	90
+966	Matejová Anna r. Jurásová	muž Andrej	0	81,319
+966	Medviď Juraj		0	271
+966	Miľová Anna r. Žeňuchová		0	80,81,319,371,393
+966	Minčak Eliaš		0	371
+966	Mindžak Eliaš		0	80
+966	Mindžak Eliaš	manž. Helena r. Rošková	0	371
+966	Mindžak Eliaš	manž. Helena r.Rošková	0	371
+966	Mindžak Eliaš	ž. Helena r. Rošková	0	80
+966	Mindžak Ján		0	80,371
+966	Nastasič Michal r. Nastasič, Husák 36, Husák, PSČ 072 51, SR	zomrel 18.02.1985	0	48,127,128,129,293
+966	Nastasičová Mária r. Imšuraková, Husák, Husák, PSČ 072 51, SR	zomrela 14.01.1967	0	48,127,128,129,130,320
+966	NEBESNIKOVA BARBORA R.KUSIKOVA		0	108,451
+966	NOVAKOVA ALZBETA R.PIPIKOVA	MUZ JAN	0	88
+966	Novotňak Michal		0	400
+966	PAVLIK JURAJ		0	97
+966	PAVLIK Stefan, MAL., SR		0	396
+966	Pavlik Štefa	maloletý	0	97
+966	Pavlik Štefan		0	97,249
+966	Pavliková Alžbeta r. Zahorčaková		0	96
+966	Pavliková Alžbeta r. Zahorčaková	muž Juraj	0	437
+966	PAVLIKOVA KATARINA R.TOKAROVA	MUZ JURAJ	0	26
+966	Petkanič Ján r. Petkanič, Husák 76, Husák, PSČ 072 51, SR	zomrel: 12.11.2010	0	32
+966	Petkanič Ján r. Petkanič, Husák 76, Husák, PSČ 072 51, SR	zomrel: 26.09.1970	0	122,210,294,426
+966	Petraš Andrej	mal	0	281
+966	PIPIK JOZEF		0	177,266,457
+966	PIPIK Jozef, SR		0	408
+966	Poláková Mária r. Žeňuchová		0	80,81,319,371,393
+966	Popovičová Anna		0	80,81,88,226,227,278,295,319,321,371,449
+966	Popovičová Anna r. Buxarová	muž Ján	0	240
+966	POPOVIČOVÁ Anna, SR		0	398
+966	Regendová Alžbeta r. Fečiková	muž Pavol	0	81,319
+966	REGENDOVA ANNA		0	200,303
+966	REGENDOVÁ Anna, SR		0	399
+966	REGENDOVA ILONA		0	200,303
+966	REGENDOVÁ Ilona, SR		0	399
+966	Remecká Alžbeta	maloletá	0	97
+966	Remecká Anna	maloletá	0	97
+966	Remecká Mária	maloletá	0	97
+966	Remecká Zuzana	maloletá	0	97
+966	REMECKY JAN		0	68,108,432,451,452
+966	Remecký Pavol	maloletý	0	97
+966	RESETAROVA ANNA R.KUSIKOVA		0	68,108,451
+966	Rešetarová Anna r. Kusiková		0	432,452
+966	Ripňaková Anna r. Rošková		0	291
+966	RIPNAKOVA ANNA R.ROSKOVA		0	32
+966	Ripnyaková Anna r. Rošková	muž Pavol	0	99
+966	ROSKOVA KATARINA MAL.		0	32,217
+966	ROSKOVA MARIA		0	32,291
+966	ROSKOVA ZUZANA		0	32,291
+966	Roško Ján		0	288,302
+966	Roško Juraj	ml	0	288
+966	Rošková Anna r. Balogová		0	96
+966	Rošková Anna r. Dankuličová	muž Juraj	0	80,371
+966	Rošková Katarína	mal	0	291
+966	Rošková Katarína	maloletá	0	82,84,99,101,416,437
+966	Rošková Mária	maloletá	0	99
+966	Rošková Mária r. Imšuraková		0	240,241,467
+966	Rošková Mária r. Imšuraková	muž Ján	0	241,467
+966	Rošková Zuzana	mal	0	288
+966	Rošková Zuzana	maloletá	0	99
+966	ROTHMAN SIMON		0	80,81,265,319,320,371
+966	ROTMAN ARON		0	90
+966	Rotman David	maloletý	0	90
+966	ROTMAN JAKUB		0	90
+966	Rotman Šimon		0	90
+966	Rotmanová Roza		0	90
+966	Rotmanová Serena		0	90
+966	Sabová Pavlina r. Kusiková		0	432,452
+966	SABOVA PAVLINA R.KUSIKOVA		0	68,108,451
+966	SIMONOVA MARIA R.SULEJOVA		0	151
+966	Sirka Ján		0	80,81,287,293,319,371
+966	Sirka Štefan		0	80,81,233,319,371
+966	Sirko Matej	žena Mária r. Tokárová	0	81,319
+966	Sirko Matiáš		0	80,371
+966	Sirková Anna		0	80,81,287,293,319,371
+966	Skubanič Pavol		0	80,81,371
+966	Skubanič Pavol	žena Anna r.Zahorčáková	0	394
+966	SKUBANIČ Pavol	ž.Anna r.Zahorčáková	0	419
+966	SKUBANIČ Pavol, SR		0	392,395
+966	SKUBENIC PAVOL		0	157,319
+966	Stripai Ján		0	171
+966	Stripaiová Alžbeta		0	128
+966	Stripaiová Anna	maloletá	0	319,371
+966	Stripaiová Mária r. Novotňaková	muž Michal	0	51
+966	Stripaiová Mária r. Novotňáková		0	51
+966	Stripajová Alžbeta		0	249
+966	Stripajová Anna	mal	0	80,81
+966	STROPAIOVA ALZBETA		0	466
+966	Sulej Jám	ž.Alžbeta r.Hlaváčová	0	249
+966	Sulej Ján		0	97,424
+966	SULEJ Ján	nar.23.12.1920, zomrel	0	408
+966	Sulej Ján, Husák 58, Husák, PSČ 072 51, SR		0	177
+966	SULEJ JAN,CS.58		0	58
+966	Sulej Juraj	AMERIKA	0	249
+966	Sulej Juraj	ž.Mária r.Fencíková	0	249
+966	SULEJ JURAJ		0	104
+966	SULEJ JURAJ, SR	Z.MARIA R.FENCIKOVA	0	104
+966	SULEJ PETER		0	104
+966	Sulejová Ilona r. Pipiková	m. Pavol	0	408
+966	SURANIC MICHAL, SR	Z.PAVLINA R.ROSKOVA	0	104
+966	Suranič Jozef	maloletý	0	105
+966	Suranič Juraj	maloletý	0	105
+966	Suranič Juraj	maloletý v roku 1944	0	425
+966	Suranič Michal		0	97,104,249
+966	Suranič Michal	ž. Jozefína r. Karafová	0	105
+966	Suranič Michal	žena Jozefína r.Karafová	0	425

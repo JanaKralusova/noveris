@@ -1,0 +1,256 @@
+191	Macková Helena r. Vaňková	ž.Jána	1	4103
+191	MACKOVÁ Jozefína		1	2620,2621,3678,4819,4820
+191	MACKOVÁ Júlia	r.Deščíková ž.Jozefa	1	2622,2623
+191	MACKOVÁ Júlia	r.Drinková	1	1353,2760,2781,3841
+191	Macková Júlia r. Deščíková	ž.Jozefa	1	2847,3366
+191	Macková Júlia r. Drinková		1	3187,3809,5254
+191	MACKOVÁ Mária		1	2620,2621,3678,4819,4820
+191	MACKOVÁ Mária	Alojzia dcéra Hermíny	1	2620,2621,3678,4819,4820
+191	MACKOVÁ Mária	r.Benková ž.Mateja	1	2620,2621,3678,4819,4820
+191	MACKOVÁ Mária	r.Cintulová	1	2610,3678
+191	Macková Mária r. Benková	ž.Mateja	1	3207,4249
+191	Macková Mária r. Cintulová		1	3031,3204,3225,4694
+191	Macková Mária r. Cintulová	dcéra Antona	1	3197
+191	MACKOVÁ Rozália r. Sekáčová	zomrela zomrela	1	3678
+191	MACKOVÁ Terézia	r.Škápiková	1	2620,2621,4819,4820
+191	Macková Terézia r. Škápiková		1	1883,4751
+191	MÁJEK Alojz	čp.431	1	2825
+191	MÁJEK František		1	3796
+191	MÁJEK František	mal	1	2622,2623,2760,2781,3137
+191	MÁJEK František	mal. brat Pavla a Heleny	1	2620,2621,2622,2623,2760,2781,3678,4530,4819,4820
+191	MÁJEK František	syn Jána	1	2620,2621,3406,3678,4819,4820
+191	MÁJEK Ignác	ž.Júlia r.Dobiášová	1	1489,2620,2621,3678,4819,4820
+191	MÁJEK Imrich	syn Jána	1	2620,2621,3406,3678,4819,4820
+191	MÁJEK Imrich	ž.Helena r.Drinková	1	2620,2621,3422,3678,4819,4820
+191	MÁJEK Ján	syn Jána	1	2620,2621,3406,3678,4819,4820
+191	MÁJEK Jozef	syn Augustína a Terézie r.Drinkovej	1	3678
+191	MÁJEK Jozef	syn Michala a Terézie r.Bilkovej	1	3678,4819,4820
+191	MÁJEK Jozef	ž.Mária r.Filípková	1	3678,4819,4820
+191	MÁJEK Michal	ž.Alžbeta r.Černá	1	2620,2621,3406,3678,4819,4820
+191	MÁJEK Michal	ž.Terézia r.Bilková	1	2620,2621,4819,4820
+191	MÁJEK Ondrej	syn Jána a Alžbety r.Černej	1	1660,2620,2621,3678,4819,4820
+191	MÁJEK Pavol		1	2620,2621,2622,2623,2760,2781,3678,4530,4819,4820
+191	MÁJEK Pavol	ž.Helena r.Dobiášová	1	3678
+191	MÁJEK Peter	ž.Mária r.Lasicová	1	3855
+191	MAJEROVÁ Anna	r.Cvečková ž.Antona	1	2620,2621,3678,4819,4820
+191	Majerová Anna r. Cvečková	ž.Antona	1	4759
+191	MÁJKOVÁ Alžbeta	r.Černá ž.Jána	1	2620,2621,3678,4819,4820
+191	MÁJKOVÁ Alžbeta	r.Drinková ž.Jána	1	2620,2621,3678,4819,4820
+191	Májková Alžbeta r. Drinková	ž.Jána	1	3406,4253
+191	MÁJKOVÁ Anna	r.Cintulová	1	2620,2621,3678,4819,4820
+191	Májková Anna r. Bilková		1	4008
+191	Májková Anna r. Cintulová		1	3739
+191	MÁJKOVÁ Helena	r.Bilková	1	3678
+191	MÁJKOVÁ Helena	r.Dobiášová ž.Ignáca	1	3678
+191	MÁJKOVÁ Helena	r.Drinková ž.Imricha	1	2620,2621,3678,4819,4820
+191	Májková Helena r. Bilková		1	3437
+191	Májková Helena r. Drinková	ž.Imricha	1	3422
+191	MÁJKOVÁ Katarína	dcéra Jána	1	2620,2621,3406,3678,4819,4820
+191	MÁJKOVÁ Mária	dcéra Šimona	1	2620,2621,3678,4819,4820
+191	MÁJKOVÁ Mária	r.Filípková ž.Jozef	1	2620,2621,3678,4819,4820
+191	MÁJKOVÁ Mária	r.Filípková ž.Jozefa	1	2620,2621,4819,4820
+191	MÁJKOVÁ Mária	r.Lasicová	1	2622,2623
+191	Májková Mária r. Butašová	zom.04.02.1990 zom.04.02.1990	1	1228,5158
+191	Májková Mária r. Lasicová		1	1491
+191	MÁJKOVÁ Terézia	dcéra Jána	1	2620,2621,3406,3678,4819,4820
+191	MALATINSKÁ Karolína	r.Totková	1	2620,2621,3678,4819,4820
+191	Malatinská Karolína r. Totková		1	4680
+191	Malenovská Magdaléna r. Cintulová	ž.Jána	1	4335
+191	Malenovská Magdaléna r. Šajdíková		1	4097,4763
+191	Malenovský Ján		1	4254
+191	MALENOVSKÝ Ján	ž.Magdaléna r.Cintulová	1	3698,4335
+191	MALÍKOVÁ Alžbeta	r.Sekáčová ž.Ondreja	1	2622,2623
+191	Malíková Alžbeta r. Sekáčová	ž.Ondreja	1	1355,1357,1700,2098,2100,2251,2669,5376
+191	MAREK Anton	syn Štefana a Kataríny r.Šedivej	1	2620,2621,3104,3386,3678,4122,4819,4820
+191	MAREK Ján	syn Jozefa a Márie r.Sekáčovej	1	1714,1715,3678,4123
+191	MAREK Jozef	ž.Júlia r.Valovičová	1	2620,2621,3678,4819,4820
+191	Marek Martin	syn Jozefa a Terézie r.Búzkovej	1	4121
+191	MAREK Martin	syn Martina a Márie r.Cintulovej	1	2760,2781,3264,4753
+191	MAREK Michal	mal. syn Márie r.Šiškovej	1	2620,2621,3104,3678,4819,4820
+191	MAREK Michal	ž.Kristína r.Poláková	1	2760,2781
+191	MAREK Rajmund	ž.Mária r.Lišková	1	2620,2621,3104,4819,4820
+191	MAREK Štefan		1	3204,3251
+191	MAREK Štefan	a	1	3235
+191	Mareková Mária r. Jankovičová		1	3000,4910
+191	MARKOVÁ Johana	r.Sekáčová	1	2622,2623,2760,2781
+191	Marková Johana r. Sekáčová		1	4773
+191	Marková Júlia	dcéra Jozefa a Terézie r.Búzkovej	1	4121
+191	MARKOVÁ Júlia	r.Valovičová ž.Jozefa	1	2760,2781
+191	MARKOVÁ Katarína	r.Šedivá	1	2620,2621,3386,3678,4819,4820
+191	Marková Katarína r. Šedivá		1	4122
+191	Marková Mária r. Lišková	ž.Rajmunda	1	1947
+191	Marková Mária r. Sekáčová	ž.Jozefa	1	3175,3177
+191	MATULA Anton	brat Štefana a Vavrinca	1	2692,2760,2781,4747
+191	MATULA František	brat Márie, Štefánie, Paule, Viliama	1	2692,2760,2781,4747
+191	MATULA František	syn Jána a Magdalény r.Filípkovej	1	2620,2621,4819,4820
+191	MATULA František	syn Ondreja	1	2620,2621,3678,4819,4820
+191	MATULA František	ž.Mária r.Cintulová	1	2620,2621,2622,2623,3678,4819,4820
+191	MATULA Ján		1	1384,1386,1387,1388,2622,2623,2760,2781
+191	MATULA Ján	syn Jozefa a Márie r.Grajzovej	1	1385
+191	MATULA Ján	ž.Júlia	1	2039
+191	Matula Jozef	ž.Terézia r.Fojtlínová	1	1753
+191	MATULA Jozef	mal. syn Vendelína a Júlie r.Brezovej	1	3072,3076,3319,3442,3761,3871,4515
+191	MATULA Jozef	syn Jána a Magdalény r.Filípkovej	1	2620,2621,3678,4819,4820
+191	MATULA Jozef	ž.Pavlína r.Müllerová	1	2760,2781
+191	MATULA Martin		1	1384,1386,1387,1388,2622,2623,2760,2781
+191	MATULA Martin	I	1	3683
+191	MATULA Martin	mal. syn Vendelína a Júlie r.Brezovej	1	3072,3076,3319,3442,3761,3871,4515
+191	MATULA Martin	syn Jozefa a Márie r.Grajzovej	1	1385,2969
+191	Matula Matej	syn Jozefa	1	1373
+191	Matula Ondrej	ž.Emília r.Cvečková	1	4383
+191	MATULA Otto	syn Jozefa a Ireny r.Mackovej	1	2969,3573,3683
+191	MATULA Štefan	syn Jána a Magdalény r.Filípkovej	1	2620,2621,3678,4819,4820
+191	MATULA Štefan	ž.Alžbeta r.Janíčková	1	3678
+191	MATULA Vavrinec	brat Štefana a Antona	1	2692,2760,2781,4747
+191	MATULA Viliam		1	2692,2760,2781,4747
+191	MATULOVÁ Anna	mal. dcéra Vendelína a Júlie r.Brezovej	1	3072,3076,3319,3442,3761,3871,4515
+191	MATULOVÁ Anna	r.Stupavská	1	3678
+191	Matulová Anna r. Stupavská		1	3171,4428
+191	Matulová Hedvika r. Mórová		1	4532
+191	MATULOVÁ Irena	r.Macková ž.Jozefa	1	3573
+191	MATULOVÁ Júlia	r.Brezová	1	1353,2622,2623,2760,2781,3678
+191	MATULOVÁ Júlia	ž.Jána	1	2039
+191	Matulová Júlia r. Brezov		1	3076
+191	Matulová Júlia r. Brezová		1	2366,2367,2863,3442,3732
+191	MATULOVÁ Katarína	mal	1	2692,2760,2781,4747
+191	MATULOVÁ Magdaléna	r.Pavlíková ž.Jána	1	2620,2621,3678,4819,4820
+191	Matulová Magdaléna r. Pavlíková	ž.Jána	1	3213,3408
+191	MATULOVÁ Mária		1	2692,2760,2781,4747
+191	Matulová Mária r. Cintulová		0	2210,2622,2623,2760,2781,3367,3613,3712
+191	MATULOVÁ Paula		1	2692,2760,2781,4747
+191	MATULOVÁ Pavlína	r.Müllerová ž.Jozefa	1	2760,2781
+191	MATULOVÁ Štefánia		1	2692,2760,2781,4747
+191	MATULOVÁ Terézia	mal	1	2805,3168
+191	Matznerová Alžbeta r. Kubincová		1	1529
+191	Mihálová Anna r. Šajdíková		1	3439
+191	MIHÁLOVÁ Júlia	r.Holásková	1	2760,2781
+191	MIHALOVIČ Jozef	ž.Anna r.Šedivá	1	1556
+191	Mihályová Alžbeta r. Tománková	ž.Pavla	1	3416
+191	MICHÁLEK Alojz		1	2313,2620,2621,3191,3678,4819,4820
+191	Michálek Anton	brat Emílie Baďurovej a Márie	1	4324
+191	MICHÁLEK Anton	ž.Rozália r.Línková	1	2622,2623,2760,2781,3398
+191	MICHÁLEK Anton, SR	ž.Anna r.Chovancová	1	2762
+191	MICHÁLEK Antonín	syn Jána a Anny r.Gočálovej	1	2620,2621,3238,3678,4819,4820
+191	MICHÁLEK Cyril	brat Jozefa,Jána a Štefánie	1	2410,2622,2623,2760,2781,3456,3736
+191	MICHÁLEK Ignác		1	2039
+191	MICHÁLEK Ignác	dedí po Alžbete Grajzovej r.Hiklovej	1	2620,2621,4819,4820
+191	MICHÁLEK Ignác	mal. syn Ignáca	1	2620,2621,4819,4820
+191	MICHÁLEK Ignác	syn Ondreja a Júlie r.Filovej	1	2620,2621,2915,4526,4819,4820
+191	MICHÁLEK Ignác	ž.Anna r.Vaňková	1	2620,2621,3678,4819,4820
+191	MICHÁLEK Ignác	ž.Júlia r.Ruchovanská	1	1519
+191	MICHÁLEK Ján	brat Jozefa, Štefánie a Cyrila	1	2410,2622,2623,2760,2781,3456,3736
+191	MICHÁLEK Ján	dedí po Alžbete Grajzovej r.Hiklovej	1	2620,2621,4819,4820
+191	MICHÁLEK Ján	ž.Anna r.Gočálová	1	2620,2621,3678,4819,4820
+191	MICHÁLEK Ján	ž.Katarína r.Drinková	1	2620,2621,4819,4820
+191	MICHÁLEK Jozef	ž.Terézia r.Dobiášová	1	1243
+191	MICHÁLEK Jozef	ž.Terézia r.Drinková	1	2620,2621,4463,4819,4820
+191	MICHÁLEK Matej	syn Ondreja a Júlie r.Filovej	1	2620,2621,2915,4526,4819,4820
+191	MICHÁLEK Matúš	ž.Katarína r.Šebestová	1	2972,4429
+191	MICHÁLEK Matúš	ž.Mária r.Černá	1	1965,2620,2621,3172,3678,4238,4498,4819,4820
+191	MICHÁLEK Michal		1	2622,2623,2760,2781
+191	MICHÁLEK Michal	syn Jána a Anny r.Gočálovej	1	2620,2621,3238,3678,4819,4820
+191	MICHÁLEK Ondrej		1	1514,3678
+191	Michálek Pavol		1	4721
+191	MICHÁLEK Pavol	mal. brat Albíny a Júlie	1	2620,2621,4526,4594,4819,4820
+191	MICHÁLEK Pavol	syn Jozefa a Júlie r.Kovárikovej	1	980,2760,2770,2781,3500,4559
+191	MICHÁLEK Pavol	syn Mateja a Márie r.Mackovej	1	2620,2621,3159,3678,4819,4820
+191	MICHÁLEK Pavol	ž.Mária r.Müllerová	1	2620,2621,2859,4655,4707,4819,4820
+191	MICHÁLEK Rafael	ž.Hedvika r.Michálková	1	2620,2621,4819,4820
+191	Michálek Rudolf		1	4717
+191	Michálek Rudolf	mal. brat Alžbety,Albíny,Júlie,Pavla,Már	1	3529
+191	Michalica Alojz		1	1882,5431
+191	Michalica Alojz	žena Mária rod. Totková	0	1892
+191	MICHALICA Alojz	ž.Mária r.Totková	1	1884,1886,1887,1888,1889,1891,1893,2622,2623,2760,2781,3440
+191	MICHALICA Ignác	ž.Verona r.Janíčková	1	2620,2621,4819,4820
+191	Michalica Jozef		1	2943,3386
+191	MICHALICA Jozef	ž.Jozefína r.Gašpárková	1	2620,2621,3678,3895,4464,4819,4820
+191	MICHALICA Jozef	ž.Terézia r.Filípková	1	2760,2781
+191	MICHALICA Michal	ž.Júlia r.Škrovánková	1	2620,2621,4819,4820
+191	MICHALICA Pavol	syn Jána a Terézie r.Polákovej	1	3013
+191	MICHALICA Valent	Jozef	1	2620,2621,3678,4819,4820
+191	MICHALICOVÁ Alžbeta	r.Gašparínová	1	2620,2621,3678,4819,4820
+191	Michalicová Alžbeta r. Gašparínová		1	4649
+191	MICHALICOVÁ Júlia	r.Škrovánková ž.Michala	1	2620,2621,4819,4820
+191	MICHALICOVÁ Mária	r.Dobiášová	1	3678,4819,4820
+191	MICHALICOVÁ Mária	r.Totková	1	2620,2621,3678,4819,4820
+191	Michalicová Mária r. Dobiášová		1	1571
+191	Michalicová Mária r. Totková		1	2313,3191,3204,3833
+191	MICHÁLKOVÁ Agneša	sestra Jozefa,Jána,Štefánie a Cyrila	1	2760,2781
+191	Michálková Albína		1	4717
+191	Michálková Albína	mal. sestra Júlie a Pavla	1	2619,2620,2621,2915,3489,3529,3605,4447,4526,4594,4819,4820
+191	Michálková Albína r. Butašová		1	4588
+191	MICHÁLKOVÁ Alžbeta	r.Butašová	1	2620,2621,3678,4819,4820
+191	MICHÁLKOVÁ Alžbeta	r.Hicklová ž.Ignáca	1	2620,2621,4819,4820
+191	MICHÁLKOVÁ Alžbeta	r.Totková ž.Pavla	1	2620,2621,3678,4819,4820
+191	Michálková Alžbeta r. Butašová		1	4679
+191	Michálková Alžbeta r. Totková	ž.Pavla	1	3204,3833
+191	MICHÁLKOVÁ Anna	r.Cintulová	1	1353,2620,2621,3195,3678,4819,4820
+191	MICHÁLKOVÁ Anna	r.Chovancová	1	3678,4819,4820
+191	MICHÁLKOVÁ Anna	r.Vaňková ž.Ignáca	1	2622,2623,2760,2781,3881
+191	Michálková Anna r. Cintulová		1	3205,3463,3901
+191	Michálková Anna r. Vaňková	ž.Ignáca	1	2056,2080,3215,3333,4355
+191	MICHÁLKOVÁ Helena	r.Dobiášová ž.Jána	1	2620,2621,3678,4819,4820
+191	Michálková Helena r. Dobiášová	ž.Jána	1	3815
+191	Michálková Júlia	sestra Albíny	1	2619,3489,3605,4447
+191	Michálková Júlia r. Kováriková	ž.Jozefa	1	4559
+191	MICHÁLKOVÁ Katarína	r.Drinková	1	2620,2621,3678,4819,4820
+191	MICHÁLKOVÁ Katarína	r.Drinková ž.Jána	1	2620,2621,3678,4819,4820
+191	MICHÁLKOVÁ Katarína	r.Šebestová ž.Matúša	1	2620,2621,4819,4820
+191	Michálková Katarína r. Drinková		1	3979,4001,4011
+191	Michálková Ľudmila	mal	1	2619
+191	MICHÁLKOVÁ Magdaléna	r.Cintulová ž.Štefana	1	4113
+191	MICHÁLKOVÁ Magdaléna	r.Drusánková ž.Jána	1	2509,2620,2621,3678,4819,4820
+191	Michálková Magdaléna r. Drusánková	ž.Jána	1	4437
+191	MICHÁLKOVÁ Mária		1	2313,2620,2621,3191,3678,4819,4820
+191	MICHÁLKOVÁ Mária	dcéra Pavla a Verony r.Šedivej	1	2620,2621,3678,4819,4820
+191	MICHÁLKOVÁ Mária	dedí po Alžbete Grajzovej r.Hiklovej	1	2620,2621,4819,4820
+191	MICHÁLKOVÁ Mária	r.Búzková	1	2620,2621,2622,2623,2760,2781,3678,4819,4820
+191	MICHÁLKOVÁ Mária	r.Černá ž.Matúša	1	2620,2621,3678,4819,4820
+191	MICHÁLKOVÁ Mária	r.Müllerová ž.Pavla	1	2620,2621,4655,4707,4819,4820
+191	Michálková Mária r. Búzková		1	3300,3355,3753,4108,4556
+191	Michálková Mária r. Černá	ž.Matúša	1	3163,3961
+191	Michálková Mária r. Müllerová	ž.Pavla	1	2859
+191	Michálková Terézia r. Drinková	ž.Jozefa	1	4463
+191	MICHÁLKOVÁ Veronika	r.Jankovičová	1	3678
+191	Michálková Veronika r. Jankovičová		1	4297
+191	MIKÉSKA Vendelín	ž.Helena r.Drinková	1	2620,2621,3678,4819,4820
+191	MIKÉSKOVÁ Helena	r.Drinková ž.Vendelína	1	2620,2621,3678,4819,4820
+191	MIKÉSKOVÁ Helena	r.Májková	1	2620,2621,3678,4819,4820
+191	Mikésková Helena r. Drinková	ž.Vendelína	1	1670,1672,1674,5478
+191	Mikésková Helena r. Májková		1	3406
+191	MIKÉSKOVÁ Mária	r.Bilková ž.Tomáša	1	1353
+191	MIKULA Pavol	ž.Mária r.Kozánková	1	2639,2640
+191	MIKULKA Adam	ž.Anna r.Šedivá	1	2620,2621,3678,4819,4820
+191	MIKULKA Alojz	syn Floriána a Heleny r.Škrovánkovej	1	3678
+191	MIKULKA Ján	syn Štefana brat Štefana	1	2620,2621,4819,4820
+191	MIKULKA Juraj	syn Kataríny r.Dobiášovej	1	1571,1572,2620,2621,3678,4819,4820,5527
+191	MIKULKA Rudolf	syn Adama a Anny r.Šedivej	1	2620,2621,3678,4819,4820
+191	MIKULKA Štefan	syn Štefana, brat Jána	1	2620,2621,4819,4820
+191	MIKULKA Štefan	ž.Júlia r.Michálková	1	2620,2621,4452,4691,4819,4820
+191	MIKULKOVÁ Albína	dcéra Adama a Anny r.Šedivej	1	2620,2621,3678,4819,4820
+191	Mikulková Anna r. Šedivá	ž.Adama	1	3143
+191	MIKULKOVÁ Helena	r.Škrovánková ž.Floriána	1	2620,2621,4819,4820
+191	MIKULKOVÁ Jozefína	mal. dcéra Adama a Anny r.Šedivej	1	2620,2621,3678,4819,4820
+191	MIKULKOVÁ Júlia	r.Filípková ž.Jozefa	1	1795,2620,2621,3678,4819,4820
+191	Mikulková Júlia r. Filípková	ž.Jozefa	1	1794,4729
+191	Mikulková Júlia r. Michálková		1	4691
+191	MIKULKOVÁ Katarína	r.Dobiášová	1	2620,2621,4819,4820
+191	MIKULKOVÁ Magdaléna	r.Bilková	1	3678
+191	Mikulová Mária r. Škápiková	zom. 20.08.1998	1	1348
+191	Moravcová Anna r. Sekáčová	ž.Petra	1	4756
+191	MORAVEC Peter	ž.Anna r.Sekáčová	1	4756
+191	Morávek Rudolf		0	4849
+191	Morávek Rudolf	ž.Mária	1	3416,3509
+191	MORÁVEK Rudolf	ž.Mária r.Földiová	1	1728,2164,2622,2623,2711,2760,2781,4535,4579
+191	MORÁVKOVÁ Katarína	r.Janíčková ž.Ferdinanda	1	2620,2621,3678,4819,4820
+191	MORÁVKOVÁ Mária	r.Földiová ž.Rudolfa	1	2622,2623,2760,2781
+191	Morávková Mária r. Földiová	ž.Rudolfa	1	1728,2164,2711,4535,4579
+191	Morávková Mária r.Földyová		0	4849
+191	MÓRO Ignác	syn Jána a Anny r.Kubincovej	1	2620,2621,3678,4819,4820
+191	MÓRO Ján	ž.Jana r.Černá	1	3168,4532
+191	MÓRO Michal	syn Jána a Anny r.Kubincovej	1	2620,2621,4819,4820
+191	MÓROVÁ Anna	r.Poláková	1	1459,2620,2621,3678,4819,4820
+191	MÓROVÁ Helena	r.Nesnadná ž.Ignáca	1	2620,2621,2622,2623,2760,2781,3678,4819,4820
+191	Mórová Jana r. Černá		1	2805
+191	MÓROVÁ Jozefa	dcéra Jozefa	1	2805,3168,4532
+191	Mórová Júlia r. Vodičková	ž.Michala	1	2691

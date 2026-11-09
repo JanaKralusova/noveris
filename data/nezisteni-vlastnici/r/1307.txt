@@ -1,0 +1,256 @@
+767	Pažitná Petronela r. Konšalová, SR		0	1439
+767	Pažitný Andrej		0	8340
+767	Pažitný Andrej	ž.Anna Miklovičová	0	9606
+767	Pažitný Emil		0	9099
+767	Pažitný Ján		0	1632,8657,8953,8955,10783
+767	Pažitný Ján	manž. Mária Moravčíková	0	2172,2173
+767	Pažitný Ján	ž.Mária Lampárska	0	8953,8955,8992
+767	Pažitný Ján	ž.Mária Moravčíková	0	2175,8951,8956,8958,8992,8993,9000,9001
+767	Pažitný Ján, SR		0	4416,4976,8660
+767	Pažitný Jozef	syn Juraja a Uršuly Boleráskej	0	2175
+767	Pažitný Jozef, SR		0	1440,4418,5318,8656,8658,8661
+767	Pažitný Juraj, SR		0	1440,8656
+767	Pažitný Michal		0	1632,5308,8657
+767	Pažitný Michal	ž.Petronela Končálová	0	8992,8993
+767	Pažitný Michal r. Pažitný		0	5307,5310
+767	Pažitný Michal, SR		0	1440,4416,4418,4975,4976,4979,5318,8656,8658,8659,8660,8661
+767	Pažitný Ondrej	ž.Anna Miklovičová	0	8992
+767	Pažitný Pavol		0	8342,10783
+767	Pažitný Pavol	ž.Anna Dzurechová	0	8992,9611
+767	Pažitný Pavol	ž.Katarína Košíková	0	9100
+767	Pažitný Štefan	ž.Anna Šoková	0	8992
+767	Pažitný Štefan, SR		0	4962
+767	Pedbalecová Margita r. Valentínová		0	9000,9001,9469
+767	Pecho Karol		0	9000,9001
+767	Pekarík Anton		0	9000,9001
+767	Pekarík Ferdinand		0	9000,9001
+767	Pekarík Jozef	ž.Barbora Ondrusová	0	9000,9001
+767	Pekarovičová Anna r. Nitranová		0	9000,9001
+767	Perelová Rozália r. Selecká		0	10076
+767	Pereslány Michal	ž.Štefánia Sajtlavova	0	9000,9001
+767	Pereslényiová Štefánia r. Šajtlavová	m.Michal	0	9000,9001
+767	Pernický František r. Pernický		0	9562
+767	Pestún Ján	syn Michala	0	9263
+767	Pestún Ondrej r. Pestún		0	9264
+767	Pestúnová Pavlína r. Kaničárová		0	9000,9001
+767	Peško Dezider		0	9000,9001
+767	Pešková Mária r. Ružarovská		0	9000,9001
+767	Petovská Emília r. Buriánová		0	9000,9001
+767	Petranová Valéria		0	9000,9001
+767	Petrovič Anton		0	9000,9001
+767	Petrovič Ján		0	5794,6123,7866,7867
+767	Petrovič Ján r. Petrovič		0	9000,9001
+767	Petrovič Ján r. Petrovič	žen. s Annou	0	8510
+767	Petrovič Jozef	ž.Mária Suryová	0	10100
+767	Petrovič Jozef r. Petrovič		0	8506,8510
+767	Petrovič Ľubomír r. Petrovič		0	9000,9001
+767	Petrovič Marián r. Petrovič		0	9000,9001
+767	Petrovič Martin		0	5794,6123
+767	Petrovič Štefan	manž. Anna rod. Štefanovičová	0	2375
+767	Petrovič Štefan	st	0	9491
+767	Petrovičová Anna r. Štefanovičová		0	9395,9491
+767	Petrovičová Anna r. Štefanovičová	manž. Štefan	0	2375
+767	Petrovičová Katarína r. Janíčeková		0	9000,9001
+767	Petrovičová Magdaléna r. Petrovičová		0	8506,8510
+767	Petrovičová Paulína r. Minarovská		0	9547,9880
+767	Petrovská Mária		0	6143
+767	Petrovský Jozef	ž.Anna Kolárová	0	9000,9001
+767	Pevná Serafína r. Masarovičová		0	5380
+767	PIKNOVA ANNA		0	4883,4889
+767	Piknová Margita r. Pavlovičová		0	9000,9001
+767	Piknová Veronika r. Holobradá	m.Jozef	0	9000,9001
+767	Pilková Margita r. Pilková		0	9000,9001
+767	Piňák Anton		0	2870
+767	Piňák Anton	ž.Anna Kudlová	0	9000,9001
+767	Piňáková Helena r. Beťáková	m.Ondrej	0	9000,9001
+767	Pinkavová Ľudmila r. Poláčiková	m.Gabriel	0	8992,8993
+767	Pinkavová Magdaléna r. Krajčíriková		0	4791,4792
+767	Pinterová Rozália r. Munková		0	10031
+767	Pirchanová Margita r. Kotúčová	m.Viktor	0	9000,9001
+767	Pisárik Michal		0	9298
+767	Pišek Štefan	ž.Veronika Opavská	0	9000,9001
+767	Pišeková Veronika r. Opavská	Vlachinská, m.Štefan	0	9000,9001,9540
+767	Piško Jaroslav		0	9000,9001
+767	Pišková Oľga r. Procházková	m.Emanuel	0	9000,9001
+767	Pišoja Martin		0	9850,9853
+767	Pišoja Rudolf		0	9850,9853
+767	Pišojová Anna		0	9850,9853
+767	Pišojová Anna r. Sulčiaková		0	9000,9001,9853
+767	Pivovarčiová Mária r. Zelenayová		0	9000,9001,9887
+767	Podhradský Alexander r. Podhradský		0	9209
+767	PODHRADSKY FRANTISEK, AUSTRALIA N.S.W.KEELEMORE,GWABEGAR		0	5395
+767	PODOLANOVA ALZBETA R.ZEMANOVA		0	5421,6502
+767	Podolanová Alžbeta r. Zemanová		0	1672,8992,8993,9553
+767	PODUSELOVA ESTERA R.NOVAKOVA MGR.		0	5208
+767	Pokorná Mária r. Zemanová		0	1672,8992,8993,9086,9553
+767	POKORNA MARIA R.ZEMANOVA		0	5421,6502
+767	POLACEKOVA KATARINA R.PAZITNA		0	2203
+767	POLACIK JOZEF		0	5306,5308,5311,5313,5726,8993
+767	Poláčeková Katarína r. Janásová		0	8993
+767	Poláčik František	ž.Karolína Pažitná, zom.22.12.1980	0	8993
+767	Poláčik Ján	ž.Štefánia Opetová	0	8992,8993
+767	Poláčik Jozef	ž.Helena Reičičárová	0	8992,8993
+767	Poláčik Jozef r. Poláčik		0	5307,5310
+767	Poláčik Jozef, SR		0	2204,4581,4979,5190
+767	Poláčik Michal	ž.Anna Miklovičová	0	5097,8993
+767	Poláčik Michal	ž.Katarína Zacharová, zom.10.2.1957	0	8992,8993
+767	Poláčik Michal r. Poláčik		0	8993
+767	Poláčik Stanislav r. Poláčik		0	9128
+767	Poláčik Vladimír r. Poláčik		0	9128
+767	Polačiková Angela		0	2482,4367
+767	Poláčiková Anna r. Kožová		0	2056
+767	Poláčiková Anna r. Miklovičová		0	5726,5727
+767	Poláčiková Anna r. Miklovičová	m.Michal	0	8992,8993
+767	Poláčiková Hermína		0	5979
+767	Poláčiková Karolína r. Pažitná	m.František	0	8992
+767	Poláčiková Katarína r. Zacharová	m.Michal	0	8992
+767	Poláčiková Mária r. Farkašová		0	2212
+767	Poláčiková Mária r. Marcinková		0	9287,9288
+767	Poláčiková Mária r. Szabová		0	8993,9095,9101
+767	Poláčiková Mária, SR		0	4581
+767	Poláčiková Štefánia Eva r. Masaryková		0	1962,9000,9001
+767	Poláčiková Štefánia r. Opetová	m.Ján	0	8992
+767	Polačiková Veronika r. Miklovičová		0	4880,8992,8993
+767	Polák František	ž.Mária Sopinská	0	9000,9001
+767	Polák Ján	ž.Anna Brimusová	0	8992,8993
+767	Polák Ján r. Polák		0	5887
+767	Polák Juraj		0	8868,8870
+767	Poláková Alžbeta r. Ščasnárová		0	9000,9001,10061
+767	Poláková Anna		0	8868
+767	Poláková Helena r. Prosnanová		0	5985
+767	Poláková Helena r. Prosnanová	m.Gabriel	0	10183
+767	Poláková Mária r. Sopinská	m.František	0	9000,9001
+767	Poláková Mária r. Zacharová		0	6124,8993
+767	POLAKOVIC ANTON		0	5394,5395
+767	POLAKOVICOVA HELENA		0	4883,4889
+767	POLAKOVICOVA HELENA R.BAROSOVA		0	4925
+767	POLAKOVICOVA MARIA		0	5394,5395
+767	POLAKOVICOVA PAVLINA		0	5394,5395
+767	Polakovič Enrico r. Polakovič		0	9654,9863
+767	Polakovič Enriko		0	2264
+767	Polakovič František		0	9000,9001,9654,9691,9863,9953
+767	Polakovič František	ž.Anna Beniková	0	9000,9001
+767	Polakovič František	ž.Mária Polakovičová	0	9000,9001
+767	Polakovič František	ž.Mária Ščipáková	0	9000,9001,9834
+767	Polakovič Ján	ml; ml	0	4618
+767	Polakovič Ján	ml.; ml	0	4729
+767	Polakovič Jozef		0	2264,9000,9001,9531,9863
+767	Polakovič Michal		0	664
+767	Polakovič Michal	ž.Mária Spálová	0	663,9000,9001
+767	Polakovič Milan r. Polakovič		0	663,9000,9001
+767	Polakovič Rudolf		0	9000,9001
+767	Polakovič Rudolf	ž.Margita Cigáňová	0	9000,9001
+767	Polakovič Štefan		0	7024,7444,9000,9001
+767	Polakovič Štefan	ž.Veronika Kaššová	0	9000,9001
+767	Polakovič Timot		0	4983
+767	Polakovičová Anastázia r. Kettmanová		0	9000,9001
+767	Polakovičová Anna r. Beniková	m.František	0	9000,9001
+767	Polakovičová Helena r. Barošová		0	9000,9001
+767	Polakovičová Janka r. Nemcová		0	9000,9001
+767	Polakovičová Johana r. Nemcová	predtým Ševečková	0	9000,9001
+767	Polakovičová Katarína r. Buzášiová	m.Pavol	0	9000,9001
+767	Polakovičová Magdaléna		0	2264,6867,6868
+767	Polakovičová Margita r. Cigáňová	m.Rudolf	0	9000,9001
+767	Polakovičová Mária r. Bardiovská	m.Jozef	0	9000,9001
+767	Polakovičová Mária r. Polakovičová		0	9000,9001
+767	Polakovičová Mária r. Spálová	m.Michal	0	9000,9001
+767	Polakovičová Mária r. Ščipáková	m.František	0	9000,9001,9834
+767	Polakovičová Paulína r. Kociánová	m.František	0	9000,9001
+767	Polakovičová Paulína r. Nemcová		0	4493,10807
+767	Polakovičová Terézia r. Štipáková		0	9000,9001
+767	Polakovičová Veronika r. Kašová		0	9849
+767	Polakovičová Vilma		0	1346,1347
+767	Popelka Jozef		0	9000,9001
+767	Popelka Pavol		0	9000,9001
+767	Popelková Anna r. Zúdorová		0	9000,9001,9732
+767	Popelková Veronika		0	9000,9001
+767	Populová Magdaléna r. Klempová	predtým Watterová	0	9000,9001
+767	Populová Mária r. Libantová		0	9000,9001,9861
+767	Potkinová Helena r. Kúdelová		0	9000,9001
+767	Prachár Štefan		0	8992,8993
+767	Prachárová Pavlína r. Ardanová		0	4673
+767	Prachárová Rozália r. Nezníková	m.Adam	0	9000,9001
+767	Prachárová Veronika r. Halásová	m.Štefan	0	8993
+767	Prázdnovská Mária r. Jurišková		0	9000,9001
+767	Práznovská Magdaléna		0	9000,9001
+767	Práznovská Mária r. Závodská		0	4646,4647
+767	Práznovská Mária r. Závodská	m.Ján, vdova po Michalovi Libantovi	0	9000,9001
+767	Práznovský Ján		0	4647
+767	Práznovský Ján, SR		0	4645
+767	Prelovský Peter		0	4139
+767	Prezlmayer Juraj		0	9000,9001
+767	Prchlík Adam		0	9000,9001
+767	Prchlík Jozef	ž.Františka Masaryková	0	10011
+767	Prchlík Michal		0	6032,6033,6034,6035,6747,6748
+767	Prchlík Štefan		0	9000,9001
+767	Prchlíková Františka r. Masaryková	m.Jozef	0	10011
+767	Prchlíková Paula r. Sládečková		0	9722
+767	Priščo Jozef		0	8941,10272
+767	Priščo Viktor		0	8941,10272
+767	Priščová Anna		0	8941,10272
+767	Procházka Ján		0	9000,9001
+767	Prosman Anton		0	8358
+767	Prosman Anton r. Prosman		0	8358
+767	Prosmanová Mária r. Barteková		0	8358
+767	PROSMANOVA MARIA R.BARTEKOVA		0	5983
+767	PROSNAN ANTON		0	5983,5984,5985,10183
+767	Prosnan Jozef		0	10183
+767	Prosnanová Júlia		0	10183
+767	Provazníková Mária r. Mošatová	m.Michal	0	8993,9000,9001
+767	Psotová Anna r. Bahulová		0	6218
+767	Psotová Anna r.Bahulová		0	7835
+767	Pučeková Františka r. Pathyová		0	9000,9001
+767	Puskailerová Alžbeta r. Pastoreková		0	9000,9001
+767	Púš Emil	ž.Františka Začková	0	9741
+767	Púš František		0	9000,9001,10021
+767	Púš Jozef	ž.Mária Petrová	0	9000,9001
+767	Púš Jozef	ž.Terézia Tupá	0	9000,9001
+767	Púš Milan		0	9741
+767	Púš Štefan		0	9518
+767	Púšová Františka r. Púšová		0	9000,9001
+767	Púšová Františka r. Začková	m.Emil	0	9741
+767	Púšová Mária r. Hlaváčová	m.Pavol	0	9000,9001,9731,10096
+767	Púšová Terézia r. Tupá		0	6492
+767	Púšová Terézia r. Tupá	m.Jozef	0	9000,9001
+767	Putera Anton		0	2482,5419,5726,5727
+767	Putera Štefan		0	5419
+767	Putera Teofil		0	900
+767	Putera Timot Ing.  r. Putera  a Puterová Oľga Mgr.  r. Miškovičová, Sládkovičova 1300/26, 92001 Hlohovec, SR Sládkovičova 1300/26, 92001 Hlohovec, SR		0	10130
+767	Putterová Judita		0	1054
+767	Quitová Helena r. Schluszlerová		0	9000,9001
+767	Rácik František	ž.Vilma Moravčíková	0	9000,9001
+767	Rácik Ján		0	782
+767	Rácik Jozef		0	782,9000,9001
+767	Ráciková Helena		0	9000,9001
+767	Ráciková Helena r. Hudecová	m.Anton	0	9000,9001
+767	Ráciková Jozefína		0	9000,9001,9695
+767	Ráciková Margita	zomrela D 33/42	0	9000,9001
+767	Ráciková Mária		0	9000,9001
+767	Ráciková Valéria		0	9000,9001
+767	Rádová Margita r. Goldbergerová		0	9000,9001
+767	Rafaj Ján		0	9000,9001
+767	Rafajdus Ján	ž.Viktória, Horné Zelenice 65	0	9666
+767	Rafajdusová Viktória	m.Ján, Horné Zelenice 65	0	9666
+767	Raffin Anton		0	9163
+767	Raffin František		0	9163
+767	Raffin Ján		0	9163
+767	Rajčány Jozef	rodičia Jozef a Terézia r.Budínska	0	9814,10049
+767	Rajčányiová Mária r. Trnená		0	10518
+767	Rajčányová Anna r. Petrová		0	9982
+767	Rajčányová Emília r. Herdová		0	9419,9446
+767	Rajčányová Margita r. Kúdelová		0	9000,9001
+767	Rajčányová Mária r. Trnená	m.Jozef	0	9000,9001
+767	Rajčányová Terézia r. Budinská	m.Jozef	0	10038
+767	Rajnohová Františka r. Lehocká		0	10015
+767	Rau Pavel, SR		0	551
+767	Ravingerová Júlia r. Kubová		0	8978
+767	REBRO MICHAL		0	6143
+767	Rebrová Helena r. Ondrejková		0	6143
+767	Rechtoris Ján		0	2196,5370,5962,10680
+767	Rechtoris Ján r. Rechtoris		0	8403
+767	Rechtorisová Zuzana r. Šmitová		0	9000,9001
+767	Reinhardt František		0	9000,9001,9852
+767	Reinhardt Ján		0	9851
+767	Reinhardtová Helena r. Horková		0	9000,9001
+767	Reinchenbergerová Emília r. Polakovičová		0	702
+767	Repčíková Alžbeta r. Feischlová		0	9000,9001

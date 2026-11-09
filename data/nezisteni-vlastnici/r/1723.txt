@@ -1,0 +1,256 @@
+1005	KALUŽA Ján		0	3141
+1005	KALUŽA Ján	brat Márie,Matildy,Pauly a Karola	0	2739,3134
+1005	KALUŽA Ján	zom.23.04.1991 ž.Anna r.Sekáčová zom.23.04.1991 ž.Anna r.Sekáčová	0	3103
+1005	Kaluža Karol		0	2114
+1005	KALUŽA Karol	brat Márie,Jána,Pauly a Matildy	0	2739,3000,3103,3104,3134,3141,3230,3231
+1005	KALUŽA Karol, Chtelnica, SR		1	2400
+1005	KALUŽA Karol, Chtelnica, SR	brat Márie,Jána,Pauly a Matildy |; brat Márie,Jána,Pauly a Matildy	1	2388,2625
+1005	KALUŽOVÁ Matilda	sestra Márie,Jána,Pauly a Karola	0	2739
+1005	KALUŽOVÁ Paula	sestra Márie,Jána,Matildy a Karola	0	2739
+1005	KAPLANOVÁ Mária r. Rychtaríková		0	3093
+1005	KAŠŠOVIČOVÁ Zuzana r. Nováková	posl.bytom Melčice č.80	0	3014
+1005	Kičín Mário		0	1646
+1005	Kičín Michal		0	1646
+1005	Kičina Ján	ž.Rozália r.Rothová, zom.15.11.1977	0	3265
+1005	KIČINA Ján		1	2388,2400,2418,2625
+1005	KIČINA Ján	zom.15.11.1977 ž.Rozália r.Rothová zom.15.11.1977 ž.Rozália r.Rothová	0	1755
+1005	KIČINA Jozef	zom.20.03.2000 ž.Kristína r.Holubčíková zom.20.03.2000 ž.Kristína r.Holubčíková	0	3148
+1005	KIČINA Jozef	zomr.18.10.1977, ž.Mária r.Tomišová	1	2388,2400,2625
+1005	Kičina Karol		0	2421
+1005	KIČINA Michal	brat Štefana	0	2220
+1005	Kičina Štefan		0	2433
+1005	KIČINA Štefan	brat Michala	0	2220
+1005	KIČINOVÁ Františka r. Bocánová	zom.31.3.2002	1	2388,2400,2625
+1005	KIČINOVÁ Rozália r. Rechtoríková, Chtelnica, SR		1	2388,2400,2625
+1005	KIMMERLINGOVÁ Mária r. Klenovičová	zom.20.08.1984	1	2388
+1005	KISELICA Peter		0	2842
+1005	KLEIN Cyril		1	2388
+1005	KLEIN Cyril	ž.Mária r.Marikovičová	0	3233
+1005	KLEIN Cyril, Chtelnica, SR		1	2625
+1005	KLEIN Cyril, Chtelnica, SR	ž.Mária r.Marikovičová |; ž.Mária r.Marikovičová	1	2400
+1005	KLENOVIČ Ferdinand		0	2088
+1005	KLENOVIČ František	brat Jána,Márie,Petra	0	2088
+1005	Klenovič Ján		0	1024,1712,2449
+1005	Klenovič Jozef		0	1964,1965,1966
+1005	KLENOVIČ Jozef	brat Antona a Márie	0	1584
+1005	KLENOVIČ Jozef	st.syn Antona a Amálie	0	2088
+1005	KLENOVIČ Jozef, Chtelnica, SR		1	2625
+1005	KLENOVIČ Jozef, Chtelnica, SR	st.syn Antona a Amálie |; st.syn Antona a Amálie	1	2400
+1005	KLENOVIČ Jozef, Chtelnica, SR	st.syn Antona a Amálie st.syn Antona a Amálie	1	2388
+1005	KLENOVIČ Jozef, Chtelnica, SR	syn Alexandra |; syn Alexandra	1	2388,2400
+1005	Klenovič Peter		0	1024,1712,2449
+1005	KLENOVIČ Peter	brat Františka,Jána a Márie	0	2088
+1005	KLENOVIČ Štefan	ž.Klementína r.Gajdošíková	0	2088,2967
+1005	KLENOVIČOVÁ Amália	zom.06.11.1957 r.Šarlayová ž.Antona zom.06.11.1957 r.Šarlayová ž.Antona	0	1584
+1005	KLENOVIČOVÁ Františka r. Staráčková	zomr.22.05.1992	1	2388
+1005	KLENOVIČOVÁ Klementína r. Gajdošíková	ž.Štefana	0	2967
+1005	KLENOVIČOVÁ Mária r. Putterová		0	1593,2926
+1005	Kňazík Ján	syn Štefana	0	1674
+1005	KŇAZÍK Ján	syn Štefana a Pavlíny r.Hlúchovej	0	2959
+1005	KŇAZÍK Ján r. Hlúchovej	syn Štefana a Pavlíny	0	3106
+1005	KŇAZÍK Ján r. Hlúchovej, Chtelnica, SR		1	2400
+1005	KŇAZÍK Ján r. Hlúchovej, Chtelnica, SR	syn Štefana a Pavlíny |; syn Štefana a Pavlíny	1	2388,2400,2625
+1005	KŇAZÍK Ján, Chtelnica, SR	syn Štefana a Pavlíny |; syn Štefana a Pavlíny	1	2625
+1005	KŇAZÍK Ján, Chtelnica, SR	syn Štefana a Pavlíny,r.Hluchovej, syn Štefana a Pavlíny,r.Hluchovej	1	2388
+1005	KŇAZÍK Jozef	ž.Anna r.Bocánová	0	3216
+1005	Kňazík Karol	ž.Rozália r.Šteruská, zom.4.03.1975	0	3373
+1005	KŇAZÍK Karol	zom.04.03.1975 ž.Rozália r.Šteruská zom.04.03.1975 ž.Rozália r.Šteruská	0	2581
+1005	KŇAZÍK Karol	zom.28.02.1956 ž.Rozália r.Hromadová zom.28.02.1956 ž.Rozália r.Hromadová	0	3150
+1005	KNAZIK SEVERIN	D4074/20	0	1546
+1005	Kňazík Severín		0	1646,3754
+1005	KŇAZÍK Severín	brat Márie, Imricha, Viktora, Karola	0	1545,2581,3373,3722
+1005	KŇAZÍK Severín, Chtelnica, SR		1	2625
+1005	KŇAZÍK Severín, Chtelnica, SR	brat Márie, Imricha, Viktora, Karola |; brat Márie, Imricha, Viktora, Karola	1	2388,2400,3372
+1005	KŇAZÍK Štefan	syn Štefana a Pavlíny	0	2959
+1005	KNAZIK VIKTOR	D4074/20	0	1546
+1005	Kňazík Viktor		0	1646,3754
+1005	KŇAZÍK Viktor	brat Severína, Márie, Imricha, Karola	0	1545,2581,3373,3722
+1005	KŇAZÍK Viktor, Chtelnica, SR		1	2625
+1005	KŇAZÍK Viktor, Chtelnica, SR	brat Severína, Márie, Imricha, Karola |; brat Severína, Márie, Imricha, Karola	1	2388,2400,3372
+1005	KŇAZÍKOVÁ Anna r. Hrbanová		0	2953
+1005	KŇAZÍKOVÁ Pavlína r. Hlúchová		0	3174
+1005	KŇAZÍKOVÁ Rozália r. Hromadová	zom.02.03.1983	1	2388,2400,2625
+1005	KNIEBEROVÁ Helena r. Hinková		0	2411,3147
+1005	KNOBLOCH František	ž.Mária r.Palová	0	2794
+1005	KNOBLOCHOVÁ Júlia r. Uhrovičová	zom.18.11.1986	0	3173
+1005	KNOBLOCHOVÁ Mária r. Palová, Chtelnica, SR	ž.Františka	1	2388
+1005	KOČMÁROŠOVÁ Rozália r. Kollárová	predtým Végová	0	3217
+1005	KOČMÁROŠOVÁ Rozália r. Kollárová, Chtelnica, SR		1	2388,2625
+1005	KOČMÁROŠOVÁ Rozália r. Kollárová, Chtelnica, SR	predtým Végová |; predtým Végová	1	2400
+1005	KOHUTOVIČ Vojtech	syn Jozefa	0	3273
+1005	KOHUTOVIČOVÁ Angela r. Viskupová	zom.05.04.1969	1	2388,2400,2625
+1005	Kohutovičová Beata r. Staráčiková		0	168
+1005	KOHUTOVIČOVÁ Bernardína r. Staráčková	zom.21.07.1982, ž.Štefana	1	2388,2400,2625
+1005	Kohutovičová Júlia r. Tomaškovičová	žena Jána	0	296
+1005	KOHUTOVIČOVÁ Júlia r. Tomaškovičová	ž.Jána	0	2910
+1005	KOLAROVIČOVÁ Helena r. Prvá	nezvestná	0	2630
+1005	KOLAROVIČOVÁ Helena r. Prvá, Chtelnica, SR	nezvestná |; nezvestná	1	2388,2400,2625
+1005	KOLAROVIČOVÁ Mária r. Prvá		0	2630
+1005	KOLAROVIČOVÁ Mária r. Prvá, Chtelnica, SR		1	2388,2400,2625
+1005	KOLLÁR Štefan	ž.Magdaléna ž.Hidegová	0	2778,2822
+1005	KOLLÁR Štefan, Chtelnica, SR		1	2388,2625
+1005	KOLLÁR Štefan, Chtelnica, SR	ž.Magdaléna ž.Hidegová |; ž.Magdaléna ž.Hidegová	1	2400
+1005	KOLLÁROVÁ Magdaléna	r.Hidegová ž.Štefana č.278	0	2822
+1005	KOMENDA Ferdinand, Chtelnica, SR	syn Jána |; syn Jána	1	2388,2400,2625
+1005	KONDRCOVÁ Paulína r. Voščinárová	sestra Štefana,Márie,Anny	0	3117,3207
+1005	KONDRCOVÁ Paulína r. Voščinárová, Chtelnica, SR		1	2625
+1005	KONDRCOVÁ Paulína r. Voščinárová, Chtelnica, SR	sestra Štefana,Márie,Anny |; sestra Štefana,Márie,Anny	1	2388,2400
+1005	KOPÁLKOVÁ Emília r. Kyselicová	zom.19.03.1995	0	2851
+1005	KOPALOVÁ Mária	po Martinovi Hutovi	0	3297
+1005	KOSTOLANSKÁ Albína	Dechtice 63	0	2912,2913
+1005	KOSTOLANSKÝ Teofil	ž.Mária r.Piačková	0	2947
+1005	KOŠŤÁLOVÁ Anna, Chtelnica, SR	sestra Jozefíny |; sestra Jozefíny	1	2388,2400,2625
+1005	KOTRBA Cyril	ž.Ernestína r.Kováčová	0	3066
+1005	KOTRBOVÁ Ernestína r. Kováčová		0	3066
+1005	KOVÁČ Jozef		0	2957
+1005	KOZÁČIK Jozef	zom.08.11.1969,ž.Mária r.Orichová	1	2388,2400,2625
+1005	KRAJC Štefan, Chtelnica, SR		1	2625
+1005	KRAJC Štefan, Chtelnica, SR	brat Júlie |; brat Júlie	1	2388,2400
+1005	KRAJCOVÁ Júlia, Chtelnica, SR		1	2625
+1005	KRAJCOVÁ Júlia, Chtelnica, SR	sestra Štefana |; sestra Štefana	1	2388,2400
+1005	KRAJČÍRIK Ferdinand		0	3107
+1005	KRAJČÍRIK Ján, Chtelnica, SR	ž.Júlia r.Michalíková |; ž.Júlia r.Michalíková	1	2388,2400,2625
+1005	KRAJČÍRIK Štefan	zom.20.02.1970, ž.Filoména r.Mrázová	1	2388
+1005	KRAJČÍRIK Štefan	ž.Filoména r.Mrázová, zomr.20.02.1970	1	2388
+1005	KRAJČÍRIK Tomáš, Dr.	zom.12.12.1987 ž.Jozefína zom.12.12.1987 ž.Jozefína	0	3125
+1005	KRAJČÍRIK Tomáš, Chtelnica, SR		1	2625
+1005	KRAJČÍRIK Tomáš, Chtelnica, SR	ž.Anna r.Lukačovičová |; ž.Anna r.Lukačovičová	1	2388,2400
+1005	KRAJČÍRIKOVÁ Anna r. Lukačovičová, Chtelnica, SR	ž.Tomáša	1	2388
+1005	KRAJČÍRIKOVÁ Filoména r. Mrázová	zom.02.02.1974, ž.Štefana	1	2388
+1005	KRAJČÍRIKOVÁ Filoména r. Mrázová	zom.02.02.1974,ž.Štefana	0	3072
+1005	KRAJČÍRIKOVÁ Filoména r. Mrázová	žena Štefana, zomr.02.02.1974, žena Štefana, zomr.02.02.1974	1	2388
+1005	KRCHNÁR Michal	ž.Františka r.Mrázová	0	2771
+1005	KRCHNÁROVÁ Františka r. Mrázová	zom.07.07.1984	0	2771
+1005	KRIHOVÁ Anna r. Jedličková	zom.03.07.1992, ž.Jána	1	2388
+1005	KRIHOVÁ Anna r. Rožičová, Chtelnica, SR		1	2388,2400,2625
+1005	Krsteník Michal		0	97
+1005	KRUTÝ Ján	ž.Angela r.Gilanová	0	2781
+1005	KUBÁN Jozef, Chtelnica, SR		1	2625
+1005	KUBÁN Jozef, Chtelnica, SR	ž.Anna r.Majdanová |; ž.Anna r.Majdanová	1	2388,2400
+1005	KUBÁN Milan		1	2388,2625
+1005	Kubánová Anna		0	1152
+1005	KUBÁNOVÁ Anna r. Majdanová		0	2239
+1005	KUBÁNOVÁ Anna r. Majdanová, Chtelnica, SR		1	2388,2400,2625
+1005	Kubánová Mária		0	1152
+1005	KUBÁNOVÁ Mária	zom.28.08.1990	1	2388
+1005	KUBÁNOVÁ Mária	zomr. 28.08.1990	1	2388
+1005	KUBÁNOVÁ Mária	zomr.28.08.1990	1	2388
+1005	KUBÁNOVÁ Rozália r. Martinkovičová		0	3237
+1005	KUBÍČKOVÁ Katarína r. Ostrovská		0	1898,3180
+1005	KÚDELA Ferdinand		0	2054
+1005	Kúdela Jozef		0	2687
+1005	KÚDELA Jozef	ž.Pavlína r.Oravcová	0	2054,2815
+1005	KÚDELOVÁ Anna, Chtelnica, SR	r.Moravčíková, ž.Víta |; r.Moravčíková, ž.Víta	1	2400
+1005	Kúdelová Mária r. Vajsová		0	964
+1005	KUDLÁČOVÁ Alžbeta r. Chľubová		0	3167,3177,3242
+1005	KUDLÁČOVÁ Alžbeta r. Chľubová, Chtelnica, SR		1	2388,2400,2625
+1005	KUDLOVÁ Verona r. Hromadová	zomr.11.12.1979, ž.Štefana	1	2388
+1005	KUCHÁRIKOVÁ Anna r. Gergelová	sestra Kataríny,Františky	0	3126,3232
+1005	KUŽMOVÁ Augustína r. Prvá	zom.29.12.1991	0	2965,3248,3256
+1005	KVETÁN Alexander, Chtelnica, SR		1	2388,2400,2625
+1005	KVETÁN Ján, Chtelnica, SR	ž.Mária r.Bocánová	1	2388
+1005	KVETÁN Karol, Chtelnica, SR	brat Viktora a Emila |; brat Viktora a Emila	1	2388,2400,2625
+1005	KVETÁN Viktor		0	3268,3313
+1005	KVETÁN Viktor	ž.Alžbeta r.Hrbanová	0	3028,3243
+1005	Kvetánová Adela		0	1643
+1005	KVETÁNOVÁ Adela	dcéra Jána a Pavlíny	0	1550,1551
+1005	KVETÁNOVÁ Alexandra	sestra Jána	0	3313
+1005	Kvetánová Mária r. Klenovičová		0	1715
+1005	KVETÁNOVÁ Matilda	dcéra Jána a Pavlíny	0	1550,1551
+1005	KVETÁNOVÁ Pavlína		1	2625
+1005	KVETÁNOVÁ Pavlína r. Konečná	ž.Juraja	1	2388,3085
+1005	Kyselica Ján	brat Viktora,Anny,Rozálie,Františky	0	878,3079,3390
+1005	Kyselicová Anna	sestra Viktora,Františky,Rozálie,Jána	0	878,3079,3390
+1005	KYSELICOVÁ Anna r. Kičinová	po neb. Jozefovi	0	3223
+1005	Kyselicová Františka	sestra Viktora,Anny,Rozálie,Jána	0	878,3591
+1005	KYSELICOVÁ Františka r. Bašnáková	zom.03.10.1988	1	2143,2388,2400,2625,3162
+1005	LAPÁKOVÁ Emília	sestra Jozefa,Antona a Františka	0	2827,2889,3114,3161,3191,3564
+1005	LAPÁKOVÁ Emília	ž.Bartolomeja č.282	0	2889
+1005	LAPÁKOVÁ Štefánia	sestra Emílie, Márie, Jozefa, Antona, Fr	0	2827,2889,3091,3114,3191,3563,3564
+1005	LAPÁKOVÁ Štefánia, Chtelnica, SR	sestra Emílie, Márie, Jozefa, Antona, Fr |; sestra Emílie, Márie, Jozefa, Antona, Fr	1	2400,2625
+1005	Lenoráková Gizela	r.Amchová ž.Jána	0	245
+1005	LENORÁKOVÁ Gizela r. Amchová	ž.Jána	0	2176,3215
+1005	LESAY Richard	ž.Mária, Dechtice 186	0	2900
+1005	LESAYOVÁ Emília		0	3057
+1005	LESAYOVÁ Mária r. Kňazíková	zom.09.01.1958ž.Richarda	0	2900
+1005	LESAYOVÁ Mária r. Kňazíková	zomr.09.01.1958, ž.Richarda	1	2388
+1005	Lesyová Mária r. Kňazíková		0	1646
+1005	LEWANDROVSKÁ Žofia	nezvestná	0	2630
+1005	LEWANDROVSKÁ Žofia, Chtelnica, SR	nezvestná |; nezvestná	1	2388,2400,2625
+1005	LEWANDROVSKÝ Alojz	nezvestný	0	2630
+1005	LEWANDROVSKÝ Alojz, Chtelnica, SR	nezvestný |; nezvestný	1	2388,2400,2625
+1005	LEWANDROVSKÝ Ján	nezvestný	0	2630
+1005	LEWANDROVSKÝ Ján, Chtelnica, SR	nezvestný |; nezvestný	1	2388,2400,2625
+1005	LEWANDROVSKÝ Július	nezvestný	0	2630
+1005	LEWANDROVSKÝ Július, Chtelnica, SR	nezvestný |; nezvestný	1	2388,2400,2625
+1005	LÍŠKA Jozef	ž.Ľudmila r.Jankovičová	0	2789
+1005	LIŠKA Jozef, Chtelnica, SR		1	2625
+1005	LIŠKA Jozef, Chtelnica, SR	brat Berty, Štefana, Agnešy |; brat Berty, Štefana, Agnešy	1	2388,2400
+1005	LIŠKA Štefan	kúpa od Jána Bašnáka	0	2987
+1005	Líška Štefan		0	754
+1005	LIŠKA Štefan, Chtelnica, SR		1	2625
+1005	LIŠKA Štefan, Chtelnica, SR	brat Berty, Jozef, Agneši, Argentína |; brat Berty, Jozef, Agneši, Argentína	1	2388,2400
+1005	Líšková Agneša		0	754
+1005	LÍŠKOVÁ Ľudmila r. Jankovičová	zom.28.07.1990	0	2789
+1005	LIŠKOVÁ Mária r. Kováčová, Chtelnica, SR		1	2388,2400,2625
+1005	LUKÁČOVÁ Mária	r.Gacková ž.Rudolfa	1	2400
+1005	LUKÁČOVÁ Mária r. Gacková	zom.09.06.1999,ž.Rudolfa	1	2388,2625
+1005	Lukačovič František	syn Pavla a Rozálie r.Bedlovej	0	469
+1005	Lukačovič František	žena Mária r.Lužáková ,zomrel 19.1.1987	0	3359
+1005	Lukačovič Ján	ž.Jozefína r.Hrdlica,II.Júlia r.Turanská,zom.10.12.1987	0	3319
+1005	LUKAČOVIČ Ján	zom.10.12.1987, ž.Jozefína r.Hrdlica,II.Júlia r.Turanská	1	2400,2625
+1005	LUKAČOVIČ Ján	zom.10.12.1987,ž.Jozefína r.Hrdlica,II.Júlia r.Turanská	0	2183
+1005	LUKAČOVIČ Ján	ž.Jozefína r.Hrdlica,II.Júlia r.Turanská	1	2388
+1005	LUKAČOVIČ Rudolf	brat Františka a Emílie Kriškovej	0	3158
+1005	Lukačovič Rudolf, SR		0	3025
+1005	LUKAČOVIČOVÁ Františka	sestra Jána, Margity, Rozálie, Klementín	0	2320
+1005	LUKAČOVIČOVÁ Františka	zom.04.06.1994 slobodná sestra Rozálie zom.04.06.1994 slobodná sestra Rozálie	0	3090
+1005	LUKAČOVIČOVÁ Júlia r. Turanská	zom.27.03.1990 predtým Samuhelová zom.27.03.1990 predtým Samuhelová	0	2806
+1005	LUKAČOVIČOVÁ Margita r. Stachová	zom.14.05.1985	1	2388,2400,2625
+1005	LUKAČOVIČOVÁ Mária	dcéra Štefana a Anny r.Piknovej	0	2247,3183
+1005	LUKAČOVIČOVÁ Mária	zomr.13.11.1975	1	2388,2625
+1005	LUKAČOVIČOVÁ Mária r. Magulová	zom.26.07.1987 predtým Žuchová zom.26.07.1987 predtým Žuchová	0	3193
+1005	LUKAČOVIČOVÁ Mária r. Magulová	zomr.26.07.1987, predtým Žuchová	1	2388,2400,2625
+1005	Lutková Julia r. Piešťanská		0	1561
+1005	Lutková Júlia r. Piešťanská	žena Michala	0	429
+1005	LUTKOVÁ Júlia r. Piešťanská	ž.Michala	0	1705
+1005	LUŽINSKÝ Izidor	ž.Anastázia r.Rožicová	0	2808
+1005	MACIN František	ž.Karolína r.Macková	0	2140
+1005	MAČALKA Jozef		0	3077
+1005	MAČALKA Jozef	vzdialený syn Michala a Evy	0	2861
+1005	MAČALKA Milan		0	3077
+1005	MAČALKA Milan	syn Michala a Evy	0	2861
+1005	MAČÁLKA Štefan	syn Ondreja a Márie r. Blanárikovej	0	243
+1005	MAČÁLKOVÁ Anna r. Zábrodská		0	3246
+1005	MAČALKOVÁ Eva	ž.Michala	0	2861
+1005	MAGULA Ján, Chtelnica, SR	ž.Katarína r.Kalašová |; ž.Katarína r.Kalašová	1	2388,2400,2625
+1005	MAGULOVÁ Alžbeta r. Kahuňová		0	2785
+1005	MAGULOVÁ Helena r. Srvátková	zom.30.12.1990,Pavlína	1	2388
+1005	MÁCHOVÁ Dagmar		0	2183,2316,2317,2318,2320
+1005	MACHOVIČ Emil		0	2845
+1005	MACHOVIČ František	ž.Františka Dechtice 112	0	2897
+1005	MACHOVIČ Michal	ž.Jozefína, Dechtice 62	0	2892
+1005	MACHOVIČ Milan	slob. syn Jozefa	0	2786
+1005	MACHOVIČOVÁ Františka	ž.Františka, Dechtice 112	0	2897
+1005	MACHOVIČOVÁ Jozefína	ž.Michala, Dechtice 62	0	2892
+1005	MAJDAFFOVÁ Františka r. Prvá	ž.Michala	0	3132
+1005	MALENKOVÁ Júlia	posl.bytom Chomutov	0	3040
+1005	MARIKOVIČ Anton	zom.01.12.1969 ž.Rozália r.Slámková zom.01.12.1969 ž.Rozália r.Slámková	0	2767
+1005	MARIKOVIČ Štefan	ž.Gizela r.Líšková	0	2768
+1005	MARIKOVIČOVÁ Rozália r. Slámková	zom.25.02.1992	0	2767
+1005	Martinkovič Ján		0	2109,3418
+1005	MARTINKOVIČ Jaroslav	zom.21.01.1985, ž.Johana r.Stachová	1	2388,2400,2625
+1005	MARTINKOVIČOVÁ Irma r. Honzová	ž.Štefana	0	3049,3316,3504
+1005	MARTINKOVIČOVÁ Karolína r. Čmehýlová		0	3237
+1005	MEISLOVÁ Rozália r. Deutschová	ž.Davida	0	1992
+1005	MIČO Štefan	ž.Filoména r.Chudá	0	2834
+1005	MIHÁL Gabriel		0	3169
+1005	MIHÁLIK Ján	zom.28.03.1981 ž.Anna r.Prvá zom.28.03.1981 ž.Anna r.Prvá	0	2934
+1005	MIHÁLIK Ján	zomr.28.3.1981, ž.Anna r.Prvá	1	2388,2400,2625
+1005	MIHÁLIK Jozef	zom.28.06.1973 ž.Rozália r.Kyselicová zom.28.06.1973 ž.Rozália r.Kyselicová	0	2851
+1005	MIHÁLIK Viktor	syn Jozefa a Anny	0	2851
+1005	MIHÁLIKOVÁ Alžbeta	dcéra Jozefa a Anny	0	2851
+1005	Miháliková Anna r. Prvá		0	1634
+1005	MIHÁLIKOVÁ Anna r. Prvá	zom.12.06.1977	0	1681
+1005	MIHÁLIKOVÁ Anna r. Prvá	zomr.12.06.1977	1	2388
+1005	MIHÁLIKOVÁ Anna r. Prvá	zomr.12.6.1977	1	2388

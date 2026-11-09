@@ -1,0 +1,256 @@
+209	UŠKRT Ján	nebohý	1	4446,4565,4721
+209	UŠKRT Jozef	žen. s Máriou rod. Tomanovou, nebohý	1	4545,4596,4607,4608,4726
+209	UŠKRT Michal	žen. s Rozáliou rod. Obrcianovou, nebohý	1	4366
+209	UŠKRT Štefan	nebohý	1	4446,4565,4721
+209	UŠKRT Štefan	žen. s Júliou rod. Pohankovou, nebohý	1	4596
+209	UŠKRTOVÁ Anna		1	4448,4643,4972
+209	UŠKRTOVÁ Anna	nebohá	1	4446,4565,4721
+209	UŠKRTOVÁ Anna	rod. Laurincová, nebohá	1	4578
+209	UŠKRTOVÁ Anna r. Predmeská, 968 01, Brehy, č. 35, SR		0	4172,4173,4248,4320,4321,4779
+209	UŠKRTOVÁ Anna r. Predmeská, 968 01, Brehy, SR		0	4172
+209	UŠKRTOVÁ Mária	rod. Šinková, nebohá	1	3972,4557,4887
+209	UŠKRTOVÁ Mária	rod. Tomanová, nebohá	1	4545,4607,4726
+209	UŠKRTOVÁ Pavlína	nebohá	1	4446,4565,4721
+209	UŠKRTOVÁ Pavlína	rod. Lacová, nebohá	1	4184
+209	UŠKRTOVÁ Rozália	rod. Obrcianová, nebohá	1	4366
+209	VENDEKOVÁ Irena	rod.Škvarková	1	4750,4751
+209	VENDÍK Jozef	žen. s Máriou r.Moravíkovou	1	4750
+209	VLČKOVÁ Anna r. Balážová, 966 52, Tekovská Breznica, č. 268, SR		0	4750
+209	VOLENTIEROVÁ Alžbeta	rod.Kasanová	1	4750
+209	VOLENTIEROVÁ Katarína	sestra Zuzany,Agnesy,Karolíny	1	4750
+209	VOLF Ján	žen. s Máriou rod. Múllerovou, nebohý	1	4769
+209	VOLFOVÁ Anna	dcéra Jána-drevoobch. a Márie rod.Múller	1	4769
+209	VOLFOVÁ Jolana	dcéra Jána-drevoobch. a Márie rod.Múller	1	4769
+209	VRŠKA Anton	žen.s Karolínou rod. Chajmovskou, nebohý	1	4565
+209	VRŠKA Filip	žen. s Etelou rod. Lacovou, nebohý	1	4616
+209	VRŠKA Juraj	žen. so Zuzanou rod. Tužinskou, nebohý	1	4614
+209	VRŠKA Michal	slobodný, nebohý	1	4616
+209	VRŠKOVÁ Agnesa	rod. Uškrtová, nebohá	1	4545,4607,4608
+209	VRŠKOVÁ Etela	rod. Lacová, nebohá	1	4552,4637
+209	VRŠKOVÁ Zuzana	rod. Tužinská, nebohá	1	4254,4641
+209	ZIGO Štefan		1	4610
+209	ZIGOVÁ Júlia	rod. Tužinská, nebohá	1	4610
+209	ZIMANOVÁ Anna	rod.Bauerová	1	4750
+209	ZIMANOVÁ Gizela	rod. Grossmanová, nebohá	1	4490
+209	ŽDÁNSKA Blažena	slobodná, nebohá	1	4343
+209	ŽDÁNSKA Júlia	slabomyselná, nebohá	1	4343
+209	ŽDÁNSKA Katarína	rod. Brodzianska, nebohá	1	4488,4568,4591,4597,4609,4635,4964
+209	ŽDÁNSKY Matúš, 968 01, Brehy, č. 181, SR		0	4343
+210	....		0	1033
+210	AMBRO Juraj	ž.Margita Mydlová nebohý	0	1119,1276
+210	AMBROVÁ Anna r. Baníková	nebohá	0	639
+210	AMBROVÁ Helena		0	1119,1276
+210	ANDRÁŠ Pavel	Závadka	0	1174
+210	ANDREJČÁK Štefan	Kanada	0	1006,1158
+210	ANDREJČÁKOVÁ Anna r. Ondovčínová	nebohá	0	1006
+210	ANTOLÍK Andrej	nebohý	0	763,828
+210	ANTOLIK Ján		0	1119,1276
+210	ANTOLIKOVÁ Mária r. Mydlová	nebohá	0	629,639,829,1119,1276,1366
+210	BAČA Ján	nebohý	0	763,791,828,1119,1276
+210	BAČA Ján	ž.Zuzana rod.Kolesárová nebohý	0	1249
+210	BAČA Michal	nebohý	0	791
+210	BAČA Michal	nebohý č.s.112	0	508
+210	BAČA Michal	nebohý č.s.79	0	1119,1137,1276
+210	BALAŽ Ján	nebohý	0	629,639,641,763,828,829,906,1181,1366,1374
+210	BALÁŽ Ján	ž.Helena rod.Mihaľková nebohý	0	1222
+210	BALÁŽ Juraj	ž.Anna rod.Kamenická nebohý	0	1087
+210	BALÁŽ Michal	nebohý	0	1119,1276
+210	BALAŽ Štefan	nebohý	0	482,629,641,763,828,829,906,1066,1119,1276,1301,1351,1360,1361,1366,1374
+210	BALAŽOVÁ Helena r. Mihaľková	nez.pobyt	0	629,829,1208,1255,1256,1366
+210	BALAŽOVÁ Jozefina r. Štofejová	nebohá	0	1119,1276
+210	BALÁŽOVÁ Paulina r. Janošová	nebohá	0	639
+210	BALKO Juraj	Topoľovka nebohý	0	629,829,1366
+210	BALKOVÁ Anna r. Hudaková	nebohá	0	629,641,829,906,1119,1276,1366,1374
+210	BALOGÁČ Andrej	Dudáš Hudcovce	0	1014
+210	BALOGÁČ Jozef	nebohý	0	1014
+210	BALOGÁČ Pavol	Hudcovce	0	1014
+210	BALOGÁČ Štefan	Továrne	0	1014
+210	BALOGÁČOVÁ Mária r. Dudašová	Hudcovce	0	1014
+210	BANÍK Ján	nebohý	0	763,828,980,1119,1159,1276
+210	BANÍK Jozef	nebohý	0	763,1119,1276
+210	BANÍK Michal	nebohý	0	629,639,829,1366
+210	BANÍKOVÁ Mária r. Štofejová	nebohá	0	638
+210	BARLÁŠOVÁ Anna	Závadka	0	1175
+210	BELEJOVÁ Agnesa r. Mihalková	nebohá	0	629,637,638,639,641,829,903,906,1335,1366,1374
+210	BODNÁR Ján	vzdial	0	1014
+210	BODNÁR Michal	vzdial	0	1014
+210	BRACH Ján	Kaššai nebohý	0	1119,1276
+210	BRACH Jozef	nebohý	0	1119,1276
+210	BRACHOVÁ Mária r. Mydlová	nebohá	0	629,639,641,829,906,1366,1374
+210	BREHOVSKÁ Mária	Závadka	0	1179
+210	BUBNÁR Ján	nebohý	0	629,637,638,641,829,903,906,1119,1276,1335,1366,1374
+210	CERŇÁKOVÁ Mária	nebohá	0	1170
+210	CILYOVÁ Helena	Závadka	0	1179
+210	ČENČARIKOVÁ Mária r. Lenartovičová	Michalovce	0	468,629,637,638,639,641,829,903,906,1119,1130,1152,1276,1335,1366,1374
+210	ČORNYOVÁ Anna r. Bešáková	m.Ján nebohá	0	1119,1276
+210	ČSL ŠTÁT V SPRÁVE Chemko Národný podnik v Strážskom		0	1144
+210	ČURLEJ Gregor	Hudcovce záp.148	0	1014
+210	ČURLEJ Jozef	Hudcovce	0	1014
+210	ČURLEJ Ľudovít	Hudcovce	0	1014
+210	DANKO Andrej	nebohý	0	763,828,984
+210	DANKO Jozef	mal.nebohý	0	638,1090,1119,1276
+210	DANKO Štefan	nebohý	0	763,828
+210	DANKOVÁ Anna	mal.dcéra Jána USA	0	629,639,641,829,906,1119,1135,1190,1248,1276,1366,1374
+210	DANKOVÁ Helena r. Čorná	nebohá	0	639,1090,1119,1276
+210	DANKOVÁ Mária	mal.dcéra Jána USA	0	629,639,641,829,906,1119,1135,1190,1248,1276,1366,1374
+210	DANKOVÁ Mária r. Tomčová	nebohá	0	275,984,1050,1119,1260,1276
+210	DANKOVÁ Zuzana r. Balogačová	nebohá	0	1119,1276
+210	DAŇO Ján	ž.Anna rod.Bohovčíková Strážske	0	1252
+210	DAŇO Michal	ž.Mária rod.Mihaľková Strážske	0	1252
+210	DAŇOVÁ Mária r. Mihaľková	Strážske	0	629,829,1208,1256,1366
+210	DARGAJ Ján	Balogáč Hudcovce	0	1014
+210	DEMČÁKOVÁ Mária r. Balogáčová	Vranov n/Top	0	1014
+210	DEMETROVÁ Anna r. Segediová	nebohá	0	639,641,906,1374
+210	DEMKOVÁ Anna r. Balogáčová	Štefanovce	0	1014
+210	DROBŇAK Andrej	Hudcovce záp.88	0	1014
+210	DROBŇAK Andrej	mldš.Hudcovce	0	1014
+210	DROBŇAK Michal	Hudcovce záp.87	0	1014
+210	DUNAJOVÁ Anna	Brekov	0	1010
+210	DUPAĽOVÁ Helena r. Balážová	nez.pobyt	0	745,1119,1276
+210	DUPĽAK Vasiľ	nebohý	0	763,828
+210	DZEMJANOVÁ Anna r. Hrubovčáková	nez.pobyt	0	962,1089
+210	DZURKOVIČ Jozef	USA	0	637,638,903,1088,1335
+210	DZURKOVIČOVÁ Helena r. Danková	nebohá	0	1190
+210	DZUROVČIN Andrej	nez.pobyt	0	422
+210	DZUROVČIN František	nez.pobyt	0	422
+210	DZUROVČIN Ján	mldš.nez.pobyt	0	422
+210	DZUROVČIN Ján	nez.pobyt	0	422
+210	DZUROVČIN Jozef	nez.pobyt	0	422
+210	DZUROVČIN Juraj	nez.pobyt	0	422
+210	DZUROVČIN Ľudovit	nezl	0	422
+210	DZUROVČIN Michal	nez.pobyt	0	422
+210	DZUROVČIN Štefan	nez.pobyt	0	422
+210	DZUROVČIN Viktor	nez.pobyt	0	422
+210	DZUROVČINOVÁ Lidia	nezl	0	422
+210	DZUROVČINOVÁ Margita	nezl	0	422
+210	DZVONIK Ján	ž.Anna rod.Bubnárová	0	1017,1018
+210	DZVONÍK Ján	nebohý	0	763,828
+210	DZVONIKOVÁ Anna r. Bubnárová	muž.Ján	0	1017,1018
+210	DZVONIKOVÁ Mária r. Šimkaninová	vdova nebohá	0	629,637,638,639,641,829,903,906,1020,1119,1276,1335,1366,1374
+210	EISDORFER Ignác	nebohý	0	1257
+210	EISDORFEROVÁ Cecilia r. Friedmannová	nebohá	0	1257
+210	FICEKOVÁ Helena	nebohá	0	995
+210	FOLENTA Ján	Hudcovce	0	1014
+210	GAĽO Anton	nez.pobyt	0	275,1051,1260
+210	GAĽO Michal	nebohý	0	275,988,1260
+210	GAĽO Štefan	nebohý	0	763,828
+210	GAĽOVÁ Anna r. Kováčová	nebohá	0	1133
+210	GAĽOVÁ Helena	Česko	0	275,1119,1260,1276
+210	GARBANOVÁ Anna r. Kováčová	Tovarné	0	637,638,903,1335
+210	GAŠPAR Ján	nebohý	0	763,828
+210	GAŠPAR Ján	ž.Helena rod.Štofejová nebohý	0	629,637,638,639,641,829,903,906,1119,1233,1276,1335,1366,1374
+210	GAŠPAR Michal	ž.Anna rod.Balažová nebohý	0	637,639,903,1065,1119,1276,1335
+210	GAŠPÁROVÁ Anna r. Balážová	nebohá	0	1119,1276
+210	GAŠPAROVÁ Helena	r.Štofejová nebohá	0	629,1366
+210	GAŠPAROVÁ Helena r. Štofejová	nebohá	0	384,412,639,641,829,833,906,1077,1119,1121,1233,1276,1346,1374
+210	GEREGÁČ Andrej	ž.Zuzana rod.Kočerhová Strážske	0	1245
+210	HAJDUKOVÁ Helena r. Pavlisková	nez.pobyt	0	1153
+210	HALAGANOVÁ Mária r. Meričková		0	1176
+210	HAVRILKO Ján	mal.nebohý	0	629,639,641,829,906,1075,1294,1366,1374
+210	HAVRILKO Juraj	nebohý	0	763,828
+210	HAVRILKO Juraj	ž.Anna rod.Durkotová nebohá	0	629,639,641,829,906,1366,1374
+210	HAVRILKOVÁ Anna	mal.nebohá	0	629,639,641,829,906,1075,1294,1366,1374
+210	HIRJÁKOVÁ Anna r. Scygeľová	Chlmec	0	1119,1131,1276
+210	HORNIOVÁ Anna r. Mihaľková	nebohá	0	214,215,217,218,219,234,629,639,641,794,829,906,1119,1164,1276,1337,1366,1374
+210	HORNIOVÁ Mária r. Puškarová	nebohá	0	1196
+210	HORNÝ Ján	nebohý	0	639
+210	HORNÝ Jozef	nebohý	0	763
+210	HORVÁT Michal	nebohý	0	629,637,638,639,641,829,903,906,1335,1366,1374
+210	HORVÁTH Michal	nebohý	0	763,828,1119,1276
+210	HORVATOVÁ Anna r. Ochmanová	nebohá	0	340,629,637,638,639,641,829,903,906,974,1119,1276,1335,1366,1374
+210	HRUBOVČÁK Jozef	nebohý	0	1119,1276
+210	HRUBOVČÁK Michal	narodený v roku 1952	0	962
+210	HRUBOVSKÁ Apolonia	nebohá	0	1000
+210	HRUBOVSKÁ Jolana	nebohá	0	999
+210	HRUBOVSKÁ Mária	PKV 76	0	1178
+210	HRUBOVSKÁ Mária	PKV-314	0	1173
+210	HRUBOVSKÝ Jozef	nebohý	0	1000
+210	HUDÁKOVÁ Anna	nebohá	0	1119,1146,1276
+210	IŠTOKOVÁ Mária r. Trilová	nebohá	0	329,637,638,903,1335
+210	JANOŠOV Andrej	nebohý	0	637,638,763,828,903,1335
+210	JANOŠOVÁ Anna r. Šimkaninová	nebohá	0	1021,1119,1276
+210	JRD HÁJ Brekov		0	1166
+210	JUROV Michal	nebohý	0	763,828
+210	KANDALIK Jozef	nebohý	0	773,1119,1276
+210	KANDALÍK Jozef	ž.Mária rod.Kováčová nebohý	0	639
+210	KANDALIKOVÁ Katarína r. Kovačová	nebohá	0	641,817,906,1374
+210	KAPEL Ján	nebohý	0	1255
+210	KAPEĽOVÁ Helena r. Nemcová	m.Ján	0	1119,1276
+210	KARANDYŠOVSKÁ Etela r. Lenartovičová	nebohá	0	639,1119,1276
+210	KAŠAI Ján	ž.Anna rod.Štofejová Kanada	0	629,637,638,639,829,903,1335,1366
+210	KAŠAI Michal	nebohý	0	629,639,829,1366
+210	KAŠAI Štefan	nezvestný	0	629,637,638,639,829,903,1335,1366
+210	KAŠAIOVÁ Mária r. Pavliková	nebohá	0	629,639,641,829,906,1366,1374
+210	KAŠKO Pavel	Mihaľko nebohý	0	1246,1255,1256
+210	KAŠKOVÁ Anna	Mihaľková nebohá	0	1246,1255,1256
+210	KAŠKOVÁ Helena r. Kovačobá	nebohá	0	906,1374
+210	KAŠKOVÁ Helena r. Kovačová	nebohá	0	629,639,641,753,829,1119,1258,1276,1366
+210	KAŠKOVÁ Mária	Mihaľková nebohá	0	1246,1255,1256
+210	KAŠŠAI Ján	ž.Anna rod.Štofejová	0	1119,1276
+210	KAŠŠAI Michal		0	1119,1276
+210	KAŠŠAI Štefan	nezvestný	0	1119,1276
+210	KAŠŠAIOVÁ Anna r. Štofejová	nebohá	0	637,766,903,1335
+210	KAŠUROVÁ Anna r. Nemcová	nebohá	0	629,641,829,906,1366,1374
+210	KISLANOVÁ Alžbeta r. Čurlejová	nebohá	0	639,641,906,1374
+210	KOLIBAB Ján	ž.Helena rod.Ihnátová Strážske	0	1251
+210	KOMÁROVÁ Anna r. Sotaková	nebohá	0	232,422,629,637,638,639,641,821,822,829,903,906,1119,1155,1276,1335,1339,1366,1374
+210	KOVÁČ Andrej	nebohý	0	1240
+210	KOVÁČ Ján	Myšľan ž.Mária rod.Repková nebohý	0	1119,1276
+210	KOVÁČ Ján	nebohý	0	217,232,234,629,641,829,906,1084,1119,1138,1215,1216,1276,1366,1374
+210	KOVÁČ Ján	syn Jozefa Sotáka nebohý	0	217,219,234,629,639,641,829,906,982,1119,1276,1366,1374
+210	KOVÁČ Ján	ž.Anna rod.Sopková nebohý	0	637,638,903,1117,1119,1276,1335
+210	KOVÁČ Ján	ž.Mária rod.Štofejová Čorná nebohý	0	637,638,903,1094,1335
+210	KOVÁČ Jozef	nebohý	0	763,828
+210	KOVÁČ Juraj	nebohý	0	763,828
+210	KOVÁČ Michal	nebohý	0	505,638,763,766,828
+210	KOVÁČ Michal	Pohlotkov nebohý	0	637,638,903,1335
+210	KOVÁČ Pavol	mal.nebohý	0	503,765,1119,1276,1359
+210	KOVÁČ Pavol	mal.syn Andreja Sotáka	0	217,219,234,629,641,829,906,982,1119,1148,1276,1366,1374
+210	KOVAČOVÁ Alžbeta r. Belaniová	nebohá	0	1107
+210	KOVÁČOVÁ Anna r. Sopková	nebohá	0	1119,1276
+210	KOVAČOVÁ Anna r. Valigová	nebohá	0	637,638,639,736,903,1335
+210	KOVAČOVÁ Anna r. Valigová Myšľanová	nebohá	0	629,639,641,829,906,1366,1374
+210	KOVÁČOVÁ Helena	dcéra Michala nebohá	0	637,638,903,1117,1335
+210	KOVAČOVÁ Mária	rod.Sotaková Myšľanová nebohá	0	219
+210	KOVAČOVÁ Mária r. Danková	nebohá	0	383,385,629,639,641,829,906,1119,1191,1276,1366,1374
+210	KOVAČOVÁ Mária r. Nemcová Myšľanová	nebohá	0	638,639,1119,1276
+210	KOVAČOVÁ Mária r. Sotaková Myšľanová	nebohá	0	217,234,639,641,906,1374
+210	KOVÁČOVÁ Mária r. Šimková	nebohá	0	639
+210	KOVÁČOVÁ Mária r. Štofejová	nebohá	0	503,505,639,641,647,765,766,900,906,1119,1276,1359,1374
+210	KULIKOVÁ Jolana	nebohá	0	1002
+210	KULIKOVÁ Mária r. Šovarová	Hudcovce	0	1014
+210	KUSI Ján	nebohý	0	914,1119,1186,1276
+210	KUSIOVÁ Mária	nebohá	0	629,639,641,829,856,906,914,1119,1276,1366,1374
+210	KUSIOVÁ Mária r. Sotaková	nebohá	0	232,422,629,637,638,639,641,821,829,903,906,1119,1132,1276,1335,1339,1366,1374
+210	KUSY Ján	ml.nebohý	0	914
+210	KUSÝ Juraj	nebohý	0	629,639,641,763,828,829,856,906,1119,1276,1366,1374
+210	KUSÝ Michal	vzd.nebohý	0	629,639,641,829,856,906,914,1119,1276,1366,1374
+210	KUŠNIROVÁ Anna r. Nemcová	nebohá	0	639,1119,1141,1276
+210	KYSLAN Michal	nebohý	0	1119,1276
+210	LEFKOVIČ Markus	ž.Fani rod.Permanová nebohý	0	639,641,906,1204,1374
+210	LEMEŠ Ján	ž.Barbora rod.Sotáková nebohý	0	1253
+210	LEMEŠOVÁ Barbora r. Sotáková	Strážske nebohá	0	232,1255,1256
+210	LENARTOVIČ Michal	nebohý	0	468,629,637,638,639,641,763,828,829,903,906,1035,1112,1119,1184,1276,1335,1366,1374
+210	LENARTOVIČ Štefan	nebohý	0	629,637,638,639,641,763,828,829,903,906,1119,1276,1335,1366,1374
+210	LUKÁČOVÁ Zuzana r. Kováčová	nebohá	0	1119,1276
+210	MACENKOVÁ Helena r. Kolibabová	Strážske	0	1251
+210	MAJERNÍK Ján	Hudcovce záp.118	0	1014
+210	MAJERNÍK Michal	Maškovce	0	1014
+210	MAJERNÍKOVÁ Anna	Majerovce	0	1014
+210	MARTINOVÁ Anna r. Hamašová	Strážske	0	1254
+210	MIHAĽKO Ivan	nebohý	0	639,641,769,906,1374
+210	MIHAĽKO Ján		0	1119,1276
+210	MIHAĽKO Ján	Košuda nebohý	0	639,641,906,1119,1140,1276,1374
+210	MIHAĽKO Ján	Mižík ž.Jozefína rod.Ambrová nebohý	0	638,639,1119,1276
+210	MIHAĽKO Ján	nebohý	0	422,629,639,641,763,828,829,906,1366,1374
+210	MIHAĽKO Ján	nez.pobyt	0	1185
+210	MIHAĽKO Ján	ž.Helena rod.Macenková nebohý	0	1119,1262,1276
+210	MIHAĽKO Jozef	nebohý	0	629,641,829,886,906,1266,1366,1374
+210	MIHAĽKO Juraj	Hudcovčin ž.Mária rod.Janošová nebohý	0	1044,1119,1276
+210	MIHAĽKO Juraj	matka Mária rod.Janošová	0	1119,1276
+210	MIHAĽKO Juraj	nebohý	0	629,639,641,829,906,1366,1374
+210	MIHAĽKO Juraj	ž.Helena rod.Orendačová nebohý	0	214,215,217,218,219,234,794,1119,1276,1337
+210	MIHAĽKOVÁ Albína r. Lenartovičová	nebohá	0	468,629,637,638,639,641,829,903,906,1035,1119,1149,1152,1192,1276,1335,1366,1374
+210	MIHAĽKOVÁ Anna	dcéra Jána nebohá	0	629,639,641,829,906,1366,1374
+210	MIHAĽKOVÁ Anna r. Kovačová	Košudanina	0	1119,1276
+210	MIHALKOVÁ Anna r. Nemcová	nebohá	0	219,234

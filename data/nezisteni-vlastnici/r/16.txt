@@ -1,0 +1,256 @@
+17	Havrilová Zuzana r. Lukáčová		1	434,435,467,469,470,473,570,580,581
+17	Ivan Ján	USA	1	333
+17	Janičková Mária r. Sučková		1	421,485
+17	Janková Zuzana r. Havrilová		1	346,355,368,371,372,374,376,380,384,385,432,433,434,435,439,458,464,467,469,470,473,474,475,478,479,480,492,498,505,510,516,520,523,524,562,563,570,576,577,578,579,580,581,596,639,647,651,657,669,700,741,767,796,798,799,812,816
+17	Juhaščíková Anna r. Repjaková		1	436
+17	Kahanec Ján		1	423
+17	Kahanovská Anna r. Schmidtová		1	446,492,643,644,645
+17	Kahanovská Anna r. Schmidtová	čd.833/1911	1	567,568,569,640,641,642,652,653,654,655,656,809,810
+17	Kahanovská Mária	čd.2786/1963	1	434,435,467,469,470,473,570,580,581
+17	Kahanovský Ján		1	767
+17	Kahanovský Ján	čd.1098/1908	1	479,523,741
+17	Kahanovský Ján	čd.4308/1886	1	368,371,374,380,384,562,563,576,577,578,579,596,639,647,651,657,796,798,799,812,816
+17	Kahanovský Ján	čd.843/1920	1	324,434,435,446,467,469,470,473,492,567,568,569,570,580,581,640,641,642,643,644,645,652,653,654,655,656,809,810
+17	Kahanovský Ján	manž. Anna r. Kerestešová	1	410
+17	Kahanovský Ján	manž.Anna r.Kerestešová	1	318,324,338,492,847
+17	Kahanovský Ján	manž.Mária Nováková	1	410
+17	KAHANOVSKÝ Ján	manž. Anna r.Kerestešová	0	339
+17	Kahanovský Michal	čd.833/1911	1	434,435,446,467,469,470,473,492,567,568,569,570,580,581,640,641,642,643,644,645,652,653,654,655,656,809,810
+17	Kahanovský Štefan		1	315
+17	Kaňuch Ján		1	503
+17	Kaňuchová Anna		1	503
+17	Kaňuchová Anna r. Andrejková		1	503
+17	Kaňuchová Mária		1	503
+17	Keresteš Ján		1	420,434,435,467,469,470,473,570,580,581
+17	Kerestešová Anna		1	434,435,467,469,470,473,570,580,581
+17	Kinderman Šalamun		1	503
+17	Kmecová Anna r. Eštvaniková		1	434,435,467,469,470,473,570,580,581
+17	Kmecová Mária r. Harčariková		1	329,352,356,364,368,371,374,380,384,457,479,523,562,563,576,577,579,596,647,651,657,670,741,767,796,798,799,812,816,863,865
+17	Kolesarik Štefan		1	500
+17	Kuriplachová Mária r. Eštvaniková		1	434,435,467,469,470,473,570,580,581
+17	Kviečinský Ján		1	423
+17	MALIKOVÁ Alžbeta r. Harčariková		1	95,329,352,356,364,368,371,374,380,384,457,479,523,562,563,576,577,579,596,647,651,657,670,741,767,796,798,799,812,816,863,865
+17	Marcinko Andrej		1	436
+17	Marcinko Ján		1	767
+17	Marcinko Ján	čd.1098/1908	1	523,741
+17	Marcinko Ján	čd.4818/1897	1	368,371,374,380,384,562,563,576,577,578,579,596,639,647,651,657,796,798,799,812,816
+17	Marcinko Ján	čd.769/1914	1	479
+17	Marcinko Juraj	čd.13/1908	1	333
+17	Marcinko Juraj	čd.2639/1962	1	325,376,475,492,524,686
+17	Marcinko Michal	čd.1341/1937	1	436
+17	Marcinko Michal	čd.67/1956	1	479
+17	Marcinko Štefan	čd.67/1956	1	352,434,435,457,467,469,470,473,479,570,580,581
+17	Marcinková Alžbeta r. Marcinová		1	376,524
+17	Marcinková Anna		1	479,492,767
+17	Marcinková Anna	čd.1098/1908	1	523,741
+17	Marcinková Anna	čd.4818/1897	1	368,371,374,380,384,562,563,576,577,578,579,596,639,647,651,657,796,798,799,812,816
+17	Mariňák Andrej		1	436
+17	Marko Kalužňák Andrej		1	504
+17	Matušková Mária r. Dudová		1	327,434,435,467,469,470,473,492,570,580,581
+17	Mihályová Anna r. Dudová		1	328,492,556,557,558
+17	Mitaľ Juraj		1	494
+17	Mitaľ Tomáš	manž.Mária r.Gálová	1	494
+17	Mitaľová Anna r. Dudová		1	327,434,435,467,469,470,473,492,570,580,581
+17	Mitaľová Anna r. Mitaľová		1	494
+17	Mitaľová Zuzana		1	434,435,467,469,470,473,570,580,581
+17	Mlčoch Marián		1	421,485
+17	Novák Andrej	čd.509/1933	1	434,435,467,469,470,473,514,570,580,581,846
+17	Novák Ján		1	324,378,434,435,437,446,467,468,469,470,472,473,492,514,525,567,568,569,570,571,580,581,582,640,641,642,643,644,645,652,653,654,655,656,658,662,663,664,665,809,810,846
+17	Onderišin Ján		1	434,435,467,469,470,473,570,580,581
+17	Onderová Mária		1	436
+17	Ondov Andrej	manž.Zuzana r.Birošová	1	397
+17	Ondov Ján	čd.1825/1913	1	434,435,452,467,469,470,473,492,570,580,581
+17	Ondov Ján	čd.527/1933	1	434,435,467,469,470,473,570,580,581
+17	Palko Ján	čd.1753/1930	1	436
+17	Palko Juraj	čd.759/1912	1	436
+17	Palková Anna		1	436
+17	Pankuchová Anna r. Klimčová		1	436
+17	Pelák Ján		1	436
+17	Peláková Helena r. Šimková		1	480
+17	Peleščáková Mária r. Havrilová		1	346,355,376,385,432,433,464,474,475,478,492,498,505,510,516,520,524,669,700
+17	Peržeľ Andrej	st	1	424
+17	Peržeľ Jozef		1	424
+17	Peržeľ Juraj		1	417,418,424
+17	Peržeľ Michal		1	417,418,424
+17	Peržeľová Mária		1	417,418,424
+17	Petra Andrej		1	434,435,467,469,470,473,570,580,581
+17	Petro Andrej		1	502
+17	Petro Ján		1	523,741
+17	Petro Juraj	manž.Mária r.Rubiščáková	1	333,440,450,486,492,681,682,708,709,710,711,747,748,749,750,751,753,754,755,794,811
+17	Petrová Mária r. Petrová		1	325,492,686
+17	Petrová Mária r. Šofranková		1	436
+17	Rubiščák Ján	manž. Anna r. Hamara Kačmarová	1	333
+17	Rubiščáková Anna r. Hamarová Kačmarová		1	486,708
+17	Rubiščáková Anna r. Kmecová		1	440,794
+17	Rusnák Michal	manž.Helena r.Lešková	1	436
+17	Rusnáková Helena r. Lešková		1	436
+17	Sabolová Alžbeta r. Gabčová		1	327,328,434,435,467,469,470,473,492,556,557,558,570,580,581
+17	Sabolová Anna r. Eštvaniková		1	434,435,467,469,470,473,570,580,581
+17	Seman Andrej		1	434,435,467,469,470,473,570,580,581
+17	Schonfeld Dávid		1	411,414
+17	Schonfeld Jakub		1	411,414
+17	Schonfeld Markuš		1	411,414
+17	Schonfeld Šalamun		1	411,414
+17	Schonfeldová Margita		1	411,414
+17	Sirotňáková Anna r. Eštvaniková		1	434,435,467,469,470,473,570,580,581
+17	Smolník Ján	manž.Zuzana r.Kahanovská	1	337
+17	Sokáčová Mária r. Fečová		1	424
+17	STAŠOVÁ Anna r. Harčariková		1	95,329,352,356,364,368,371,374,380,384,457,479,523,562,563,576,577,579,596,647,651,657,670,741,767,796,798,799,812,816,863,865
+17	Sučka Andrej		1	485
+17	Sučko Andrej		1	421,485
+17	Sučko Juraj	manž.Anna r.Fečová	1	421,485
+17	Sučko Michal	čd.1063/1947	1	421,485
+17	Sučko Michal	čd.114/1946	1	421,485
+17	SUČKO Michal	čd.23/1957	1	421
+17	Sučko Štefan	čd.1063/1947	1	421,485
+17	Sučko Štefan	čd.114/1946	1	421,485
+17	Sučková Mária		1	436
+17	Sussholcz Izidor		1	411
+17	Šimková Barbara		1	436
+17	Šofranko Ján	manž.Mária r.Baranová	1	436
+17	Štofanová Mária r. Baranová		1	436
+17	Štofanová Zuzana	manž.Juraj	1	436
+17	Timko Michal	čd.1646/1926	1	436
+17	Timko Michal	čd.999/1910	1	436
+17	Timková Anna r. Sučková		1	421,485
+17	Tomáš Ján		1	436
+17	Vargová Anna r. Andrejová		1	499
+17	Vargová Mária r. Palková		1	436
+17	Vašičková Anna r. Sučková		1	421,485
+17	Vazavá Anna		1	436
+17	Vazavý Michal		1	436
+17	Verčimák Andrej		1	436
+17	Verčimák Ján		1	436
+17	Verčimák Ján	čd.17704/1904	1	436
+17	Vinčoreková Zuzana r. Dudová		1	327,328,434,435,467,469,470,473,492,556,557,558,570,580,581
+17	Vojtek - Bačová Zuzana		1	405
+17	Vojtko Andrej	čd.130/1907	1	416
+18	Adamica František r. Adamica		0	2142,2420,3678
+18	ADAMICA Jozef		0	1364,2006,2088,2142,2420,3678
+18	Adamica Jozef, SR		0	1139,1245,1254,1270,1824,3674,3676,3677,3682,4061,4064
+18	Adamica Matej	r.Adamica	0	2006
+18	ADAMICA Štefan		0	2274
+18	ADAMICOVÁ Anna		0	1450
+18	ADAMICOVÁ Johana r. Juchová		0	2054
+18	ADAMICOVÁ Jozefína		0	2471
+18	ADAMICOVÁ Mária		0	2471,2497
+18	ADAMICOVÁ Terézia		0	1466
+18	ADAMICOVÁ Terézia	r.Kubeková	0	1421,1453
+18	ADAMICOVÁ Terézia	r.Kurčinová	0	1438
+18	Adamicová Terezia r. Kubeková		0	2116,2469,3654
+18	ADAMICOVÁ Terézia r. Kubeková, SR		0	1154,1310,1544,4100
+18	Babinská	Istvánová	0	1310
+18	Babinská Anna		0	2186,2309,3808
+18	BABINSKÁ Anna	Kytaš	0	1369,1461
+18	Babinská Anna /Ištvánová/, SR		0	1045,1858,2714,2807,2913,2915,3036,3049,3050,3051,3053,3054,3055,3056,3910
+18	Babinská Anna /Kytaš/, SR		0	1129,1199,1207,1235,1310,3942
+18	BABINSKÁ Anna, 029 52, Babín, č. 162, SR		0	1310
+18	Babinská Anna, Babín, č. 162, SR /Ištvánová/		0	1859
+18	Babinská Anna, Kytaš Kytaš		0	3533
+18	Babinská Emília		0	2186,2309,3808
+18	BABINSKÁ Emília	Kytaš	0	1369,1461
+18	Babinská Emília /Kytaš/, SR		0	1129,1199,1207,1235,1310,3942
+18	BABINSKÁ Emília r. Kytaš		0	2469
+18	Babinská Emília, Kytaš Kytaš		0	3533
+18	BABINSKÁ Helena r. Janidžárová		0	2492
+18	Babinská Helena r. Šiláková		0	2381
+18	Babinská Margita r. Medzihradská		0	2491
+18	BABINSKÁ Marta r. Medzihradská		0	1362,1524,2547,3533
+18	BABINSKÁ Paulína	Kytaš	0	1369,1461
+18	Babinská Paulína /Kytaš/, SR		0	1129,1199,1207,1235,1310,3942
+18	BABINSKÁ Paulína r. Kytaš		0	2469
+18	Babinská Paulína, Kytaš Kytaš		0	3533
+18	Babinská Pavlína		0	2186,2309,3808
+18	BABINSKÁ Zuzana	Ištvánová	0	1310,1537
+18	Babinská Zuzana /Ištvánová/, SR		0	991,1300,1321,1858,1859,2714,2807,3036,3049,3050,3051,3053,3054,3055,3056,3709
+18	BABINSKÁ Zuzana r. Ištvánová		0	2173,2469,2784,2935,3052,3057,3124,3280,4088
+18	Babinská Zuzana r. Ištvánová, SR		0	1321
+18	Babinský Ján		0	1004,1984,2667,2703,2805,2810,2972,2973,3743,3744,3747,3749,3750,3898,3927,3928,4108,4109
+18	BABINSKÝ Ján	Ištván	0	1400
+18	BABINSKÝ Ján	Kubov	0	1380
+18	BABINSKÝ Ján	st	0	1310,1699,1926,2624,2704,2940,2982,2983,3751,3752,3756,3757,3956,3967,4124
+18	Babinský Ján  /Ištván/, SR		0	1315
+18	Babinský Ján /Ďugel/, SR		0	1251
+18	Babinský Ján /Ištván/, SR		0	1274,1300,1314,1321
+18	Babinsky Ján r. Babinsky		0	1984
+18	Babinský Ján st., SR		0	1155,1227,1262,1321
+18	BABINSKÝ Jozef	Ištván	0	1310,1401,1993,2394,2469
+18	Babinský Jozef /Ištván/, USA		0	983,1249,1321,2710,2748,3168,3297,3321,3338,3935,3936,4066
+18	Babinský Ľudovít		0	1943,2014
+18	BABINSKÝ Ľudovít	st	0	1511
+18	Babinský Ľudovít r. Babinský	st	0	2127,2129,2859,3660,3799,3805,4075
+18	Babinsky Matej		0	1936,2492
+18	BABINSKÝ Matej	Kubov	0	1361
+18	BABINSKÝ Matej	najst	0	1520,2469
+18	Babinský Matej najst., SR		0	1274
+18	BABINSKÝ Ondrej	Kubov	0	1361
+18	Babinský Ondrej najst., SR		0	1274
+18	BABINSKÝ Štefan		0	1389,2015,2151,2185,2381,2527,2551,2888,3214,3801,3802
+18	BABINSKÝ Štefan	Ištván	0	1310,1537,1672,1993,2264,2266,2394,2417,2469,2628,2661,2809,2887,3237,3288,3345
+18	BABINSKÝ Štefan	Ondreja	0	1310,1401,2394
+18	Babinský Štefan /Ištvan/, SR		0	1300
+18	Babinský Štefan /Ondreja/, SR		0	983,1249,1321,2710,2748,3168,3297,3321,3338,3935,3936,4066
+18	Babinský Štefan Ištván/, USA		0	1321
+18	Babinský Štefan, SR		0	1310
+18	Badin Jozef		0	1955,2019,3533
+18	Badin Matej		0	2023
+18	Badin Ondrej		0	1955,2019,3533
+18	BADIN Ondrej	st	0	1513
+18	BADINOVÁ Johana r. Ťasnochová		0	1310,1498,2384,2469
+18	BADINOVÁ Johana r. Ťasnochová, SR		0	1062,1515
+18	BADINOVÁ Terézia		0	1541,2019,2217,2252,2469,4135
+18	BADINOVÁ Terézia	r.Martvoňová	0	1365
+18	Badinová Terézia, SR		0	1310
+18	BADINOVÁ Zuzana		0	1507,1541,1955,2019,2469,3533
+18	Balek Matúš /Meričvony/, SR		0	1224
+18	BALEKOVÁ Anna		0	1004,1310,1699,1926,1984,2469,2624,2667,2703,2704,2805,2810,2940,2972,2973,2982,2983,3743,3744,3747,3749,3750,3751,3752,3756,3757,3898,3927,3928,3956,3967,4108,4109,4124
+18	Baleková Anna, SR		0	1155,1227,1262,1274,1321
+18	Baleková Johana		0	1984
+18	Baleková Johana, SR		0	1274
+18	BARČÁK Matej		0	2251,2411,2508,2740,3184,3685
+18	BARŤÁK Štefan		0	1310,1454,1464,1523,1540,1717,1910,1911,2123,2275,2469,3533,3868,3869,3872,4115
+18	Barťák Štefan r. Barťák		0	1944,2543
+18	Barťák Štefan, SR		0	1168,3263,3850,3851,3870,3871
+18	BARŤÁKOVÁ Johana		0	1391,1423,1518,1901
+18	BARŤÁKOVÁ Terézia r. Kurčinová		0	1512,2546,3153,3533,3861
+18	BARTIAK Matúš		0	1484,1504,2469,3533
+18	Bartiak Matúš, SR		0	1002,1056,1162,1190,1310,1321,1875,2856,3171,3262,3302,3781,3876,3891,3946,4080
+18	Bendiš Michal		0	1570
+18	Bendišová Mária r. Adamecová		0	1570
+18	Beňušík Michal Šúty		0	1570
+18	Beňušík Štefan	Hudec	0	1570
+18	Beňušíková Mária r. Hudecová		0	1570
+18	Betuštiak Vendelín		0	1570
+18	Betuštiak Vendelín	st	0	1570
+18	Betuštiaková Elena	mal	0	1570
+18	Betuštiaková Júlia	mal	0	1570
+18	BOHUCKÁ Anna		0	2440,2702
+18	BOHUCKÁ Anna r. Rozvoňová		0	2469
+18	Bohucká Helena r. Adamicová		0	2552
+18	BOHUCKÁ Johana		0	1416,2204,2342,2469,2512,3094,3533,3825,3949,3974
+18	Bohucká Johana, SR		0	1027,2767,2794,3187,3245,3329
+18	BOHUCKÁ Mária		0	1449
+18	BOHUCKÁ Terézia		0	2204,2342,2469,2512,3094,3949,3974
+18	BOHUCKÁ Terézia r. Trnková		0	2153,2934
+18	BOHUCKÝ Jozef		0	1347,1349,1373,1389,1416,1488,1752,2076,2204,2342,2459,2469,2512,2559,2621,3094,3177,3178,3533,3825,3943,3949,3974,4141
+18	Bohucký Jozef, SR		0	1027,1145,1158,1307,1332,2767,2794,2866,3187,3245,3264,3329,3684,3772
+18	BOHUCKÝ Matej		0	1378,2153,2440,2469,2552,2559,2702,2934
+18	BOHUCKÝ Ondrej		0	1347,1363,1416,2081,2204,2342,2469,2512,2559,2792,2793,3094,3533,3825,3949,3974
+18	Bohucký Ondrej, SR		0	1027,2767,2794,3187,3245,3329
+18	BOHUCKÝ Štefan	st	0	1535,2440,2702
+18	BOHUCKÝ Vendelín		0	2440,2702
+18	BORSÍKOVÁ Anna r. Kuklová, SR		0	1310,1487
+18	BRNÍK Ján		0	1513,3654
+18	BRNÍK Ján	st	0	1310,1362,1478,1513,1524,1543,1650,2203,2281,2451,2469,2547
+18	Brník Ján /st./, SR		0	1117
+18	Brník Ján st., SR		0	1237,1256,1264,2898,3859,3860
+18	BRNÍK Ondrej		0	2135,2469
+18	BRNÍKOVÁ Rozália r. Frančáková		0	2547
+18	Brníková Terezia		0	2357
+18	Brníková Terézia, SR		0	1230
+18	BRNKALÁK Ján	st	0	1429
+18	Brnkalák Ján st., SR		0	1285
+18	BRNKAĽÁK Jozef		0	1487,1958
+18	BRNKALÁK Štefan		0	1422,1443,1456,1457,1487,1531,1958,2152,2543,2933
+18	Brnkalák Štefan, SR		0	1076
+18	BRNKALÁKOVÁ Mária		0	1310,1345,1440,1590,1617,2469,4044

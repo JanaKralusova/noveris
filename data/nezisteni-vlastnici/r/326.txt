@@ -1,0 +1,256 @@
+204	NOSÁKOVÁ Alžbeta		1	1895,1960
+204	NOSÁKOVÁ Alžbeta	r.Danócziová	1	1715,1716,1983,2194
+204	Nosáková Alžbeta r. Danóciová		0	237
+204	NOSÁKOVÁ Anna		1	1895,1960
+204	NOSÁKOVÁ Mária		1	1895,1960
+204	ORDEK Eugen		1	1795
+204	PAŠKOVÁ Rozália	r.Szollosiová	1	1673
+204	Pénzeš Ján		0	958
+204	PÉNZEŠ Ján	ž.Rozália Pintérová	1	2180
+204	Pénzeš Michal		1	97,701,2086,2145,2717
+204	PÉNZEŠ Michal	ž.Terézia Lorinczová	1	411,1588,1597,2089
+204	PÉNZEŠOVÁ Irena	r.Danišová 28.2.1920	1	1703,2086,2145,2303
+204	PENZEŠOVÁ Irena r. Danišová, SR		0	345
+204	PÉNZEŠOVÁ Mária	r.Ďurická	1	1719,1720
+204	PÉNZEŠOVÁ Mária	r.Gulková	1	2091
+204	Pénzešová Mária r. Ďurická		0	798
+204	Penzéšová Mária r. Gulková		0	2356
+204	Penzéšová Mária r.Gulková		1	80
+204	PÉNZEŠOVÁ Terézia	r.Lorinczová,m.Michal	1	411,1580,1588,1597,2089
+204	PÉNZEŠOVÁ Žofia	10.5.1901	1	2083,2180
+204	PERNÁ Apolónia	r.Kóňová	1	1512,1830,2202,2688
+204	Pintér Alexander		1	34,1563,1570,2013,2014,2095
+204	PINTÉR František	ž.Margita Pénzešová	1	2186
+204	Pintér Ján		1	34,51,102,103,190,191,633,1484,1512,1515,1539,1541,1563,1570,2013,2066,2095,2183,2184,2185,2186,2258,2614,2688
+204	Pintér Ján	Lörincová Alžbeta	0	103
+204	PINTÉR Ján	19.12.1919	1	1587,1655,1676,1677,1678,1696,1697,1702,1741,1742,1774,1830,1831,1836,1888,1998,1999,2014,2025,2028,2069,2109,2120,2168,2187,2234,2615,2616,2682,2684,2804,2816,2842
+204	PINTÉR Ján	ž.Alžbeta Lorinczová	1	2183,2184,2185,2186,2199,2200
+204	Pintér Jozef		1	34,51,90,212,257,258,633,1484,1512,1513,1515,1539,1541,1563,1570,1655,1676,1677,1678,1696,1697,1701,1741,1742,1830,1831,1862,1888,1921,1922,1934,1955,1956,1998,1999,2013,2014,2068,2069,2095,2158,2196,2234,2235,2250,2614,2615,2616,2688,2786,2804
+204	Pintér Jozef	ž. Gulková Mária	0	212,257,258,633
+204	PINTÉR Jozef	*	1	1563,1570,2013,2014,2199,2200
+204	PINTÉR Jozef	**	1	1541,2183
+204	PINTÉR Jozef	mal	1	1563
+204	PINTÉR Jozef	ž.Alžbeta Bereczová	1	1484,2614
+204	PINTÉR Jozef	ž.Anna Pintérová	1	2183
+204	PINTÉR Jozef	ž.Mária Gulková	1	1484,1512,1513,1515,1539,1541,1655,1676,1677,1678,1696,1697,1701,1702,1741,1742,1830,1831,1862,1888,1921,1922,1934,1955,1956,1998,1999,2066,2068,2069,2158,2196,2234,2235,2250,2614,2615,2616,2688,2786,2804
+204	Pintér Juraj		1	102,1541,1701,1936,2183
+204	PINTÉR Koloman		1	34,1563,1570,2013,2014,2095,2104,2840,2865
+204	Pintér Ladislav		1	34,1563,1570,2013,2014,2095
+204	Pinter Lukáč	manž.Barbora r.Porubská	1	190
+204	Pintér Lukáč	ž. Porubská Barbora	0	191,258
+204	PINTÉR Lukáč	ž.Barbora Porubská	1	1587,1696,1697,1831,1836,1955,1956,1999,2109,2120,2250,2682
+204	PINTÉR Martin		1	90,257,258,633,1484,1512,1513,1515,1539,1541,1655,1676,1677,1678,1696,1697,1701,1702,1741,1742,1830,1831,1862,1888,1921,1922,1934,1955,1956,1998,1999,2025,2028,2066,2068,2069,2196,2234,2235,2250,2614,2615,2616,2684,2688,2786,2804,2816,2842
+204	PINTÉR Michal		1	90,212,257,258,633,1512,1513,1515,1539,1541,1676,1677,1678,1696,1697,1701,1702,1742,1830,1831,1862,1955,1956,1998,1999,2025,2028,2066,2069,2158,2183,2196,2234,2235,2250,2615,2616,2684,2688,2786,2804,2816,2842
+204	PINTÉR Michal	ž.Žofia Morvayová	1	1484,2026,2614,2777,2809
+204	PINTÉR Ondrej		1	1749
+204	Pintér Pavol		1	627,1541
+204	Pintér Štefan		1	257,633,1512,1515,1697,1830,1999,2234,2235,2688
+204	Pintér Tomáš		0	633
+204	Pintér Tomáš	ž. Majdanová Paulína	0	258
+204	PINTÉR Tomáš	ž.Paulína Majdanová	1	1696,1831,1955,1956,2234,2250
+204	Pintér Urban	ž. Javorčíková Apolónia	0	74,2843
+204	PINTÉROVÁ Alžbeta		1	71,437,756,1936,2188,2658
+204	PINTÉROVÁ Alžbeta	r.Lorincová	1	1570,2160,2161
+204	PINTÉROVÁ Alžbeta	r.Lorinczová	1	1368,1553,1581,1623,1624,1625,1626,1650,1713,1714,1724,1725,1734,1735,1816,2624,2627,2630,2631,2632,2645,2646,2647,2727,2826,2829,2887
+204	PINTÉROVÁ Alžbeta	r.Lorinczová m.Ján	1	2167,2649
+204	PINTÉROVÁ Alžbeta	r.Lorinczová,m.Ján	1	1626,2289,2650
+204	PINTÉROVÁ Alžbeta	r.Pintérová	1	1709,2096,2232,2867
+204	Pintérová Alžbeta r. Lörincová		0	621
+204	Pintérová Alžbeta r. Lörinczová		0	694,1063
+204	Pintérová Anna r. Csillagová		0	14,16,693,694
+204	PINTÉROVÁ Barbora	r.Lorinczová m.Ondrej	1	1367,1486,1530,1531,1532,1579,1581,1583,1587,1588,1595,1597,1711,1712,1724,1725,1729,1730,1836,2016,2100,2644,2645,2682,2829
+204	Pintérová Barbora r. Lörincová		0	226
+204	PINTÉROVÁ Irena		1	34,1563,1570,2013,2014,2095
+204	Pintérová Katarína	m. Lörincz Michal	0	191
+204	PINTÉROVÁ Katarína	r.Bereczová	1	2215,2268
+204	PINTÉROVÁ Katarína	r.Lorinczová	1	2305
+204	PINTÉROVÁ Katarína	r.Lorinczová m.Štefan	1	1633,1635,1639,1641,1736,1737,1738,2007,2869
+204	Pintérová Margita		1	756,2786
+204	Pintérová Margita	m. Lörincz Ľudovít	0	191
+204	PINTÉROVÁ Margita	r.Lorinczová	1	1592,1657,2188,2192,2210
+204	Pintérová Mária		1	102,103,633,756,1936
+204	Pintérová Mária	m. Gulka Ján	0	212,258,633
+204	PINTÉROVÁ Mária	m.Gulka Ján	1	90
+204	PINTÉROVÁ Mária	r.Kóšová	1	2205
+204	PINTÉROVÁ Mária	r.Némethová	1	2104,2840,2865
+204	PINTÉROVÁ Mária	r.Pintérová	1	2183,2184,2185,2188,2258
+204	PINTÉROVÁ Marta	mal	1	1570
+204	PINTÉROVÁ Rozália	r.Vargová	1	2191
+204	PINTÉROVÁ Verona		1	2183,2184,2185
+204	Pintérová Veronika		0	102,103
+204	PINTÉŠ Jozef	ž.Terézia Dojčanová	1	2314
+204	PINTÉŠOVÁ Terézia	r.Dojčanová	1	2314
+204	Piszkorová Rozália	m.Morvay František	0	51
+204	PODHRADSKÁ Emília	r.Gulková	1	2233,2307,2308
+204	Podhradská Emília r. Gulková		0	299,2813
+204	PODHRADSKÁ Mária	r.Bábanová	1	2280
+204	PODHRADSKÁ Mária r.Bábanová		1	879
+204	POGRANOVÁ Helena r. Tóthová, SR		0	234,269,1036,2857
+204	PONIŠT Juraj	ž.Margita Zajáčková	1	1991
+204	PONIŠTOVÁ Emília	r.Kreškócziová	1	1706
+204	PONIŠTOVÁ Margita	r.Zajáčková	1	1991
+204	POTOCKÁ Mária	r.Lehotská	1	2313
+204	POTOCKÝ Michal	ž.Mária Lehotská	1	2313
+204	Pripková Alžbeta r. Lörincová		0	1463,1646
+204	Remasová Rozália		1	190
+204	Remesová Žofia		1	190
+204	Remešová Barbora	m. Szolnica Štefan	0	191
+204	Remešová Rozália		1	191,2109,2120
+204	Remešová Terézia		1	191,2109,2120
+204	Remešová Žofia	m. Bádovszky Ľudovít	0	191
+204	SELENKOVÁ Mária	r.Bóbová	1	2109,2120
+204	SERES Jozef	ž.Terézia Lorinczová	1	1483,1539,1541,1701,1702,1734,1735,1881
+204	SMRČEKOVÁ Alžbeta	r.Lorinczová m.Ondrej	1	1923
+204	SMREČEK Ondrej	19.10.1924	1	1727
+204	SMREČEKOVÁ Agneša	r.Lorinczová	1	1365,1367,1483,1530,1531,1532,1579,1581,1588,1724,1725,1729,1730,1734,1735,1918,1962,1970,2644,2645,2820,2829
+204	SMREČEKOVÁ Alžbeta	r.Lorinczová	1	1365,1583,2016
+204	Sokol Pavel	ž. Kesélyová Rozália	0	593
+204	SOKOL Pavol		1	2209
+204	SOKOL Viliam	20.11.1910	1	2209
+204	Sokolová Alžbeta		1	593,2209
+204	Söllöšiová Alžbeta	m. Morvai Jozef	0	389
+204	Söllöšiová Mária	m. Meszároš Štefan	0	389
+204	STRAŇÁK František		1	2322
+204	STRAŇÁKOVÁ Helena		1	2322
+204	Straňáková Margita r. Berecová		0	197,538
+204	Straňáková Margita r. Bereczová		0	196
+204	Sulková Alžbeta r.Kocsišová		1	71
+204	SZABO František		1	1694,1890,1965,2819
+204	SZABÓ František	mal	1	1483,1556,1557,1653,1668,1693,1695,1734,1735,1964,2286,2730,2784,2818,2821
+204	SZABÓ Ľudovít		1	2066
+204	SZABÓ Michal		1	1483,1765,2280,2797
+204	SZABÓOVÁ Alžbeta	r.Lorinczová	1	2078,2079,2196,2199,2200,2269
+204	SZABÓOVÁ Alžbeta r. Lörinczová		1	90
+204	Szabová Alžbeta r. Lörinczová		0	19,49,51
+204	SZABOVÁ Barbora	vd. r.Lorinczová	1	1665,1667,1878,1891,1949,2021,2069,2243
+204	Szabová Barbora r. Lörincová	vdova	0	294
+204	SZÁRAZ Viliam	ž.Irena Szárazová	1	2315
+204	SZÁRAZOVÁ Alžbeta	r.Bereczová	1	2196,2226,2261,2262
+204	SZÁRAZOVÁ Barbora		1	2212
+204	Szárazová Katarína r. Szárazová		0	1332
+204	SZOLLOSI František		1	1733,2236,2238,2350,2677
+204	Szöllosi František r. Szöllosi		0	853
+204	Szöllosi Vendelín r. Szöllosi		0	853
+204	SZOLLOSI Vojtech	ž.Elena Lorincová	1	1673,1954,2000,2001,2309,2310
+204	SZOLLOSIOVÁ Anna	r.Lorinczová	1	1483,1501,1734,1735,1951,1952,2078,2079,2189,2196,2199,2200,2269,2291,2817
+204	Szöllösiová Anna		0	19
+204	Szöllösiová Anna r. Lörinczová		1	49,51,90
+204	Szöllösiová Helena	maloletá	0	539
+204	SZOLLOSIOVÁ Mária	r.Šerešová	1	1541
+204	SZOLLOSIOVÁ Rozália		0	2351,2352
+204	SZOLLOSIOVÁ Rozália	r.Lorincová,m.František	1	1883
+204	Szöllösyová Anna r. Lörinczová		0	282,910,911
+204	SZOLLOSYOVÁ Margita		1	1675,1885,2138
+204	SZOLNICOVÁ Barbora	r.Remešová m.Štefan	1	2109,2120
+204	Szolnicová Boriška r.Remes.	manž.Štafan	1	190
+204	Szölösiová Mária r. Bereczová		0	269
+204	SZOMOROVÁ Rozália	r.Lorinczová	1	2265
+204	Szomorová Rozália r. Lörinczová		0	248
+204	Šereš Pavol		0	775
+204	ŠEREŠ Pavol	ž.Mária Szárazová 29.6.1908	1	1770
+204	ŠIMA František	ž.Mária Kocsisová	1	2025,2028,2684,2816,2842
+204	ŠIMA František	ž.Mária Kočišová	1	2026,2777,2809
+204	ŠIMA Michal	ž.Mária Kóňová	1	1367,1532,1579,1581,1583,1626,1711,1712,1724,1725,2016,2075,2644,2645,2659,2829
+204	ŠIMA Vendelín		1	1531
+204	ŠIMOVÁ Gabriela	r.Szollosiová 20.8.1931	1	2147
+204	ŠIMOVÁ Mária	r.Kóňová	1	2258
+204	Šimová Mária r. Kóňová		0	853
+204	ŠIMOVÁ Terézia	r.Pintérová	1	2199,2200
+204	Šimová Terézia r. Pintérová		0	51
+204	ŠVECIOVÁ Alžbeta	r.Danišová	1	1883
+204	ŠVECIOVÁ Alžbeta r.Danišová		0	2351,2352
+204	ŠVECOVÁ Mária	r.Pirošová	1	2101,2787
+204	Švecová Mária r.Pirošová		1	58,2751
+204	TAKÁČOVÁ Verona	r.Kreškóczyová	1	1484,1676,1677,1678,2025,2028,2614,2615,2616,2684,2816,2842
+204	Tobiášová Mária r. Kreskóczyová		0	832
+204	Tóth František	ž. Berecová Alžbeta	0	234
+204	Tóth Fridrich		0	1036,2857
+204	Tóth Ján		1	1036,1869,1895,2848,2857
+204	Tóth Jozef		1	234,1841,2116
+204	Tóth Koloman		1	234,269,735,1003,1841,1861,1863,1961,2061,2116,2159,2726,2849
+204	Tóth Michal	02.09.1930	0	775
+204	TÓTH Michal		1	1741,1742,1888,1895,1921,1922,2066,2068,2293,2382,2666,2667,2804
+204	TÓTH Michal	2.9.1930	1	1934
+204	TÓTH Michal	ž.Alžbeta Kónyová	1	1842
+204	Tóth Štefan	ž. Kóňová Mária	0	234
+204	Tóth Viktor		0	234
+204	Tóthová Alžbeta	m. Jung Ján	0	234
+204	TÓTHOVÁ Alžbeta	r.Vargová	1	2148
+204	TÓTHOVÁ Alžbeta r.Vargová		1	642,2405
+204	Tóthová Anna		0	234
+204	TÓTHOVÁ Anna	r.Pintérová	1	1707,1802,1869,1895,1941,2298,2848
+204	Tóthová Anna r. Pintérová		1	166,1440,1942
+204	Tóthová Helena		1	234,1036,1869,1895,2848,2857
+204	Tóthová Katarína	m. Hrbatý Andrej	0	234
+204	TÓTHOVÁ Katarína	r.Lorinczová	1	1855,1879,1900,1996,1997,2242,2592
+204	Tóthová Mária		0	234,269,1003,1036,2857
+204	TÓTHOVÁ Mária	r.Berecová	1	1841,1863,2116,2849
+204	Tóthová Terézia		0	234
+204	TÓTHOVÁ Žofia	r.Vargová	1	1841,1863,1895,2116,2122,2849
+204	Tóthová Žofia r. Vargová		0	234,474
+204	VALAŠKA Štefan	ž.Rozália Verešová	1	2321
+204	VALAŠKOVÁ Rozália	r.Verešová	1	2321
+204	VAŇUROVÁ Mária	r.Gulková	1	1973,2233,2307,2308
+204	Vaňurová Mária r. Gulková		0	299,2813
+204	VARGA Andrej	Štefan	1	1849,2019,2020,2125
+204	Varga František		0	474
+204	VARGA František	12.7.1914	1	2102,2788
+204	Varga Ján		0	607,636
+204	VARGA Koloman		1	2788
+204	VARGA Koloman	20.7.1913	1	2102
+204	VARGA Ladislav		1	1991,1992,2663
+204	VARGA Martin		1	2196
+204	VARGA Martin	ž.Ferencziová Terézia	1	90
+204	VARGA Michal		1	2148
+204	Varga Ondrej		0	16,273
+204	Varga Štefan		0	474
+204	VARGA Štefan	ž.Mária Kóňová	1	1841,1863,1895,2116,2122,2849
+204	Varga Štefan Andrej		0	636
+204	Varga Viliam		1	45
+204	VARGA Viliam	ž.Agneša Danóczyová	1	2083
+204	Varga Vojtech		1	418,482,2219,2225,2253,2254,2255,2256,2274,2296,2891
+204	VARGOVÁ Agneša	r.Danóczyová	1	2083
+204	Vargová Agneša r.Danócziová		1	45
+204	Vargová Alžbeta r. Bereczová		0	775
+204	VARGOVÁ Barbora	r.Lorinczová	1	2174
+204	VARGOVÁ Emília	r.Gulková 1928	1	2165,2220
+204	VARGOVÁ Emília r. Gulková		0	349,2488
+204	VARGOVÁ Emília r. Gulková, SR		0	350,2731
+204	Vargová Helena		0	418,482,2891
+204	Vargová Irena r. Lörinczová		0	571
+204	VARGOVÁ Mária	r.Kluková 30.10.1909	1	2095,2178
+204	VARGOVA MARIA r. LORINCZOVA		0	1646
+204	Vargová Mária-Lörinczová	manž.Jozef	1	169
+204	VARGOVÁ Rozália	r.Pintérová	1	2183,2184,2185,2186,2199,2200
+204	Vargová Rozália r. Pintérová		0	51,103
+204	VARGOVÁ Terézia	r.Palotášová	1	2108
+204	VARGOVÁ Terézia	r.Tóthová	1	2117
+204	Vargová Veron		0	418,482
+204	Vargová Verona		0	2891
+204	Veisz Adam		0	191
+204	VEREŠ František	ž.Terézia Keresztéšová	1	2313,2316,2317
+204	Waisz Adam		1	190
+204	WEISZ Adam		1	2109,2120
+204	Zalenák Vendelín		0	442,2676
+204	ZELENÁK Vendelín	ž.Mária Vaňurová	1	2163
+204	ZELENÁKOVÁ Mária	r.Vaňurová	1	2163
+204	Zelenáková Mária r. Vaňurová		0	442,2676
+204	ZELENÁKOVÁ Rozália	r.Kazáňová	1	2219,2253,2254,2255,2256,2274,2296
+204	Zelenáková Rozália r. Kazanová		0	418
+205	Adameková Johanna r. Beňovská		0	440
+205	Ághová Júlia r. Mellenová	manželka Jána	0	897
+205	Asztalosová Rozália	maloletá	0	881
+205	BABINOVA KATARINA R.KURUCOVA		0	154
+205	Baláž Jozef	ženatý s Annou rod. Gašparíkovou	0	919
+205	Balážová Anna r. Gašparíková	manželka Jozefa	0	919
+205	Balážová Anna r. Gašparovičová		0	896
+205	Balážová Terézia	vdova	0	926
+205	BARTOSOVA MARIA R.BOZIOVA		0	159
+205	BEDNARIKOVA MARGITA R.BELANYIOVA		0	445
+205	BELANYI STEFAN		0	445
+205	BLAZEKOVA BERTA R.MEDNIANSKA		0	405
+205	Borik František		0	303
+205	Borik Jakub	ženatý s Ernestínou rod. Mellenovou	0	912
+205	Borik Jozef		0	447
+205	Borik Ľudovít		0	447
+205	BORIK MARTIN		0	665

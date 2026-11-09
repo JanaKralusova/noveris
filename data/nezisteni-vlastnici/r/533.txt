@@ -1,0 +1,256 @@
+318	Salak Andrej, SR		0	889,892
+318	SALAK Ivan	mal.syn Fedora	1	171,1246,1373
+318	Salak Ivan /mal.syn Fedora/, SR /mal.syn Fedora/		0	909
+318	Salak Ivan r. Salak, mal., syn Fedora mal., syn Fedora		0	1502,2215,2691,2692,2693,2694
+318	Salak Ivan r. Salak, st. st.		0	2747,2748
+318	SALAK Juraj	mal.,syn Fedora	1	171,1246,1373
+318	Salak Juraj /mal.syn Fedora/, SR /mal.syn Fedora/		0	909
+318	Salak Juraj r. Salak, mal., syn Fedora mal., syn Fedora		0	1502,1687,2691,2692,2693,2694
+318	SALAK Michal		1	1232
+318	SALAK Michal	syn Vasila	1	1324
+318	SALAK Michal	ž.Anna r.Škovranová	1	1319
+318	Salák Michal r. Salák		0	1580,1736,2747,2748
+318	Salak Michal r. Salak, PKV 5 PKV 5		0	2724,2764
+318	Salak Michal r. Salak, ž. Anna r. Škovranová ž. Anna r. Škovranová		0	2724,2764
+318	Salak Michal, SR		0	889
+318	SALAK Štefan	mal.,syn Fedora	1	171,1246,1373
+318	Salak Štefan /mal.syn Fedora/, SR /mal.syn Fedora/		0	909
+318	Salak Štefan r. Salak, mal., syn Fedora mal., syn Fedora		0	1502,2109,2691,2692,2693,2694
+318	Salak Vasiľ r. Salak, mal. mal.		0	1580
+318	SALAKOVÁ Anastázia r. Gavulová		1	602
+318	SALAKOVÁ Anna	dcéra Vasila	1	1324
+318	SALAKOVÁ Anna	mal	1	1232
+318	SALAKOVÁ Anna	r.Firtová	1	1098,1284,1426
+318	SALAKOVÁ Anna	r.Michalisková	1	1118
+318	SALAKOVÁ Anna	r.Škovranová	1	1232
+318	Saláková Anna r. Firkaľová		0	2822
+318	SALAKOVÁ Anna r. Firtová		1	272,1502,2471,2691,2692,2693,2694
+318	Salaková Anna r. Firtová, SR		0	923,998,1074
+318	Salaková Anna r. Mihalisková		0	2724,2764
+318	SALAKOVÁ Anna r. Michalisková		1	280,281,2827
+318	Salaková Anna r. Salaková, mal. mal.		0	1580,2051,2724,2764
+318	Salaková Anna r. Škovranová		0	1692,2724,2764
+318	Salaková Anna r. Škovranová, SR		0	889
+318	Salaková Anna, mal., SR		0	889
+318	SALAKOVÁ Eva	r.Repesová m.Ivan; ; m.Ivan	1	1341
+318	Salaková Eva r. Repesová /m,Ivan/ /m,Ivan/		0	748
+318	Salaková Eva r. Repesová, m. Ivan m. Ivan		0	2200
+318	SALAKOVÁ Helena	r.Ambruchová	1	1246,1373
+318	SALAKOVÁ Helena r. Ambruchová		1	171,1502,2523,2691,2692,2693,2694
+318	Salaková Helena r. Ambruchová, SR		0	909
+318	SALAKOVÁ Mária	r.Škovranová	1	1235
+318	Salaková Mária r. Škovranová		0	2511,2724,2747,2748,2764
+318	Salaková Mária r. Škovranová, SR		0	892
+318	SALAKOVÁ Mária r. Vojtková		1	607,2724,2764
+318	SALAKOVÁ Uľa r. Morozová	vzd	1	338
+318	SALAP Ileš	ž.Ilona r.Morozová	1	1214,1215
+318	Salap Ileš r. Salap, ž. Ilona r. Morozová ž. Ilona r. Morozová		0	2474,2724,2764
+318	SALAPOVÁ Ilona	r.Morozová	1	1214,1215
+318	Salapová Ilona r. Morozová		0	1881,2724,2764
+318	SCERANKOVÁ Mária	r.Kopková	1	1250,1372
+318	Sceranková Mária r. Kopková		0	1502,2623,2691,2692,2693,2694
+318	Sceranková Mária r. Kopková, SR		0	914
+318	Seňková Anna, A A		0	2680
+318	Sijková Anna r. Sijková, mal., dcéra Michala mal., dcéra Michala		0	2710,2724,2764,2785
+318	Sijková Mária r. Sijková, mal., dcéra Michala mal., dcéra Michala		0	2710,2724,2764,2785
+318	Silžová Helena r. Kohutová, SR		0	928
+318	SIVÁ Mária	r. Zelinková	1	1212,2837
+318	SIVÁ Mária r. Zelinková		1	415,2128
+318	SIVÁ Mária r. Zelinková, SR		1	1212,2837
+318	SIVAKOVÁ Anna r. Vojtková		1	607,2581,2724,2764
+318	SIVÁKOVÁ Helena	r. Tocimáková	1	235,2852
+318	Skovranová Eva r. Kumičaková		0	2812
+318	Slaková Mária r. Vojtková		0	2127
+318	Sliš Michal r. Sliš		0	2747,2748
+318	Slivková - Michajlovná Helena r. Mihalisková		0	1776,2812
+318	SLIŽ Michal	PKV 10	1	1229
+318	Sliž Michal r. Sliž		0	1723,2724,2764
+318	Sliž Michal r. Sliž, PKV 10 PKV 10		0	2724,2764
+318	Sliž Michal r. Sliž, ž. Helena r. Kohútová ž. Helena r. Kohútová		0	1703
+318	Sliž Michal, SR		0	886
+318	SLIŽOVÁ Helena		1	1229,1988,2764
+318	Sližová Helena r. Kohutová		0	1502,1537,2201,2691,2692,2693,2694,2724,2764
+318	Sližová Helena r. Kohutová, SR		0	887,928,935,1030,1038,1108,2832
+318	Sližová Helena, SR		0	886
+318	Smolej Juraj r. Smolej		0	2747,2748
+318	Smolejová Mária r. Kusková		0	2724,2764
+318	Sobkěvičová Eva, Náměstí 8, Rokytnice nad Jizerou, ČR Náměstí 8, Rokytnice nad Jizerou, ČR		0	2780
+318	Solajová Anna r. Fedorcová		0	2731
+318	Solaková Anna r. Michalisková		0	1580
+318	SOLEJ Andrej	PKV 1 297	1	602
+318	SOLEJ Andrej	ž.Anna r.Fedorcová	1	602,1097,1282,2840
+318	SOLEJ Andrej	ž.Mária r.Uramová	1	272,602,1097,1098,1281,1284,1426
+318	Solej Andrej /ž.Anna r.Fedorcová/, SR /ž.Anna r.Fedorcová/		0	1038
+318	Solej Andrej /ž.Mária r.Uramová/, SR /ž.Mária r.Uramová/		0	923,924,962,999,1035,1038,1074,1108
+318	Solej Andrej r. Solej, ž. Anna r. Fedorcová ž. Anna r. Fedorcová		0	1536,1537
+318	SOLEJ Andrej, SR	ž.Mária r.Uramová |; ž.Mária r.Uramová	1	1282,2840
+318	SOLEJ Ivan		1	1259
+318	SOLEJ Ivan	PKV 1-265	1	1095
+318	Solej Ivan r. Solej		0	1502,2180,2691,2692,2693,2694,2822
+318	Solej Ivan r. Solej, PKV 1-196 PKV 1-196		0	2190
+318	Solej Ivan r. Solej, PKV 1-68 PKV 1-68		0	1502,2691,2692,2693,2694
+318	Solej Ivan r. Solej, ž. Eva r. Meislerová ž. Eva r. Meislerová		0	2443
+318	Solej Ivan, SR		0	926
+318	SOLEJ Ján	syn Jána	1	272,602,1282,1284,1426,2840
+318	SOLEJ Ján	ž.Anna r.Bajcurová	1	272
+318	SOLEJ Ján	ž.Eva r.Semancová	1	1095,1259
+318	SOLEJ Ján	ž.Mária r.Špaková	1	272,602,1097,1098,1281,1282,1284,1426,2840
+318	Solej Ján /syn Jána v USA/, SR /syn Jána v USA/		0	998,1074
+318	Solej Ján /syn Jána, USA /syn Jána		0	923
+318	Solej Ján /syn Jána/, SR /syn Jána/		0	1038,1108
+318	Solej Ján /ž.Eva r.Semancová/, SR /ž.Eva r.Semancová/		0	926
+318	Solej Ján /ž.Mária r.Špaková/, SR /ž.Mária r.Špaková/		0	923,924,962,998,999,1035,1038,1074,1108
+318	Solej Ján r. Solej, syn Jána syn Jána		0	1502,1536,1537,2375,2691,2692,2693,2694
+318	Solej Ján r. Solej, syn Jána, v USA syn Jána, v USA		0	1875
+318	Solej Ján r. Solej, ž. Eva r. Semancová ž. Eva r. Semancová		0	1502,2147,2691,2692,2693,2694
+318	Solej Ján r. Solej, ž. Mária r. Solejová ž. Mária r. Solejová		0	1429
+318	Solej Ján r. Solej, ž. Mária r. Špaková ž. Mária r. Špaková		0	1502,1536,1537,1832,2691,2692,2693,2694
+318	Solej Jozef r. Solej, mal., syn Heleny mal., syn Heleny		0	1429
+318	SOLEJ Juraj	ž.Anna r.Bočkoriková	1	97,119,1221,1303,1337
+318	Solej Juraj r. Solej		0	2524
+318	Solej Juraj r. Solej, ž. Anna r. Bočkoriková ž. Anna r. Bočkoriková		0	2470,2724,2764
+318	SOLEJ Michal	syn Jána	1	272,1098,1284,1426
+318	Solej Michal /syn Jána v USA/, SR /syn Jána v USA/		0	998,1074
+318	Solej Michal /syn Jána/, USA /syn Jána/		0	923
+318	Solej Michal r. Solej		0	2397
+318	Solej Michal r. Solej, syn Jána syn Jána		0	1502,2691,2692,2693,2694
+318	Solej Michal r. Solej, syn Jána, v USA syn Jána, v USA		0	2492
+318	SOLEJ Peter	ž.Helena r.Takáčová	1	602,1282,2840
+318	Solej Peter /ž.Helena r.Tkačová/, SR /ž.Helena r.Tkačová/		0	1038
+318	Solej Peter r. Solej, ž. Helena r. Takáčová ž. Helena r. Takáčová		0	1502,1536,1537,2691,2692,2693,2694
+318	Solej Peter, SR		0	165
+318	SOLEJ Vasiľ	ž.Helena r.Hirková	1	602
+318	Solej Vasiľ r. Solej, PKV 1-68 PKV 1-68		0	1502
+318	Solej Vasiľ r. Solej, ž. Helena r. Hirková ž. Helena r. Hirková		0	1502
+318	SOLEJOVÁ Anna	mal. dcéra Heleny	1	272,1098,1284,1426
+318	SOLEJOVÁ Anna	PKV 1-265	1	1095
+318	Solejová Anna /mal.dcera Heleny/, SR /mal.dcera Heleny/		0	923,998,1074
+318	Solejová Anna r. Raková vd., SR vd.		0	1108
+318	Solejová Anna r. Raková, vd. vd.		0	2822
+318	Solejová Anna r. Solejová, mal., dcéra Heleny mal., dcéra Heleny		0	1429,1502,2691,2692,2693,2694
+318	SOLEJOVÁ Helena	dcéra Jána	1	602
+318	SOLEJOVÁ Helena	dcéra Juraja	1	272
+318	SOLEJOVÁ Helena	mal. dcéra Štefana	1	272,1098,1284,1426
+318	SOLEJOVÁ Helena	mal.,dcéra Juraja	1	602
+318	SOLEJOVÁ Helena	PKV 1-265	1	1095
+318	SOLEJOVÁ Helena	r.Hirková	1	1211,1274
+318	Solejová Helena /dcera Jána/, SR /dcera Jána/		0	1108
+318	Solejová Helena /mal.dcera Štefana/, SR /mal.dcera Štefana/		0	923,998,1074
+318	Solejová Helena r. Hirková		0	1949,2724,2764
+318	Solejová Helena r. Hirková, SR		0	862,890
+318	Solejová Helena r. Solejová, mal., dcéra Juraja mal., dcéra Juraja		0	1502,2691,2692,2693,2694
+318	Solejová Helena r. Solejová, mal., dcéra Štefana mal., dcéra Štefana		0	1429,1502,2691,2692,2693,2694
+318	SOLEJOVÁ Helena r. Takáčová	m.Peter	1	602
+318	Solejová Helena r. Takačová /m.Peter/, SR /m.Peter/		0	1108
+318	Solejová Helena r. Takáčová, m. Peter m. Peter		0	1502,2691,2692,2693,2694
+318	Solejová Helena, dcéra Jána dcéra Jána		0	1502,1879,2691,2692,2693,2694
+318	Solejová Helena, PKV 1-68 PKV 1-68		0	1502,2691,2692,2693,2694
+318	Solejová Ilona r. Solejová, mal. mal.		0	1429
+318	SOLEJOVÁ Mária		1	1259,1502,1769,2691,2692,2693,2694
+318	SOLEJOVÁ Mária	dcéra Štefana	1	272,1098,1284,1426
+318	SOLEJOVÁ Mária	duš.zaostala	1	1259
+318	SOLEJOVÁ Mária	PKV 1-265	1	1095
+318	SOLEJOVÁ Mária	PKV 23	1	131,1338
+318	Solejová Mária /dcera Štefana/, SR /dcera Štefana/		0	923,998,1074
+318	Solejová Mária /duš.zaostala/, SR /duš.zaostala/		0	926
+318	Solejová Mária r. Solejová, mal. mal.		0	1429
+318	SOLEJOVÁ Mária r. Tocimáková		1	602
+318	Solejová Mária, dcéra Štefana dcéra Štefana		0	1429,1502,2691,2692,2693,2694
+318	Solejová Mária, duš. zaostalá duš. zaostalá		0	1502,2586,2691,2692,2693,2694
+318	Solejová Mária, PKV 23 PKV 23		0	2724
+318	Solejová Mária, SR		0	926
+318	SOROKOVÁ Mária r. Goňková		1	602
+318	SOSŇAK Andrej		1	1258
+318	SOSŇAK Andrej	ž.Anna r.Kumičáková	1	602
+318	Sosňak Andrej r. Sosňak		0	1502,1763,2691,2692,2693,2694
+318	Sosňak Andrej, SR		0	925,1395
+318	SOSŇÁK IVAN, KUKORELLIHO 221/2, MEDZILABORCE		0	1038
+318	SOSŇAK Ján	ž.Anna r. Gavulová	1	602,1315
+318	SOSŇAK Štefan	ž.Anna r.Šaková	1	602,1381
+318	Sosňak Štefan /ž.Anna r.Šaková, SR /ž.Anna r.Šaková		0	1108
+318	Sosňak Štefan r. Sosňak, ž. Anna r. Šaková ž. Anna r. Šaková		0	1502,2691,2692,2693,2694
+318	Sosňaková Anna r. Zelinková		0	1429
+318	Sosňaková Eva		0	2550
+318	SOSŇAKOVÁ Eva	rod.Čobiková	1	1255
+318	Sosňaková Eva r. Čobiková		0	1502,2338,2691,2692,2693,2694
+318	Sosňaková Eva r. Čobiková, SR		0	919
+318	Sosňaková Mária		0	2278
+318	SOTÁK Andrej	mal	1	374,1308
+318	Soták Andrej r. Soták, mal. mal.		0	1580,1719
+318	SOTÁK Ivan	mal	1	374,1308
+318	Sotak Ivan r. Sotak, mal. mal.		0	1580,2159
+318	Sotáková Anna r. Reváková, vzd. vzd.		0	2710
+318	SOTÁKOVÁ Mária	mal	1	374,1308
+318	Sotáková Mária r. Sotáková, mal. mal.		0	1580,2649
+318	STERANKOVÁ Anna r. Kopková		1	602
+318	Steranková Mária r. Kopková		0	1502,2012,2691,2692,2693,2694
+318	Steranková Mária r. Kopková, SR		0	901,1018
+318	SUCHÁ Anna	mal	1	1273
+318	Suchá Anna r. Suchá, mal. mal.		0	1502,2611,2691,2692,2693,2694
+318	Sucha Anna, mal., SR mal.		0	955
+318	SUCHÁ Júlia		1	602,1282,1536,1537,2840
+318	SUCHÁ Júlia	mal	1	1273
+318	Suchá Júlia r. Suchá, mal. mal.		0	1502,1717,2691,2692,2693,2694
+318	Suchá Júlia, mal., SR mal.		0	955,1024
+318	Suchá Júlia, SR		0	1038,1108
+318	Suchá Mária		0	1502,1536,2691,2692,2693,2694
+318	SUCHÁ Mária	mal	1	1273
+318	SUCHÁ Mária	mal.PKV 1 34	1	602
+318	SUCHÁ Mária	mal.PKV 1-34	1	1273,1282,2840
+318	SUCHÁ Mária	r.Uramová	1	1091,1282,2840
+318	Suchá Mária r. Suchá, mal. mal.		0	1502,1537,2195
+318	Suchá Mária r. Suchá, mal., PKV 1-34 mal., PKV 1-34		0	1502,1536,2691,2692,2693,2694
+318	Suchá Mária r. Suchá, mal., PKV 1-35 mal., PKV 1-35		0	2691,2692,2693,2694
+318	SUCHÁ Mária r. Uramová		1	602,1537
+318	Suchá Mária r. Uramová, SR		0	1038,1108
+318	Sucha Mária, mal., SR mal.		0	955,1024,1038
+318	Suchá Mária, SR		0	955
+318	SUCHY ANDREJ		1	3,602,1282,2840
+318	SUCHÝ Andrej	mal	1	1273
+318	Suchý Andrej /PKV 1-239/, SR /PKV 1-239/		0	1108
+318	Suchý Andrej r. Suchý		0	1536,1537
+318	Suchý Andrej r. Suchý, mal. mal.		0	1502,2158,2691,2692,2693,2694
+318	Suchý Andrej r. Suchý, PKV 1-239 PKV 1-239		0	2822
+318	Suchý Andrej r. Suchý, PKV 1-34 PKV 1-34		0	1502,2691,2692,2693,2694
+318	Suchý Andrej, mal., SR mal.		0	955,1024
+318	Suchý Andrej, SR		0	1038
+318	SUCHY PETER		0	3
+318	SUCHÝ Peter	mal	1	602,1273,1282,2840
+318	Suchý Peter r. Suchý, mal. mal.		0	1502,1536,1537,2041,2691,2692,2693,2694
+318	Suchý Peter, mal., SR mal.		0	955,1024,1038
+318	SUCHYOVA MARIA		0	3
+318	ŠACHA Štefan		1	1235
+318	Šacha Štefan r. Šacha		0	1725,2724,2764
+318	Šacha Štefan, SR		0	892
+318	ŠALAHOVÁ Uľa	r.Morozová	1	1254
+318	Šalahová Uľa r. Morozová		0	1429,1502,2691,2692,2693,2694
+318	Šalahová Uľa r. Morozová, SR		0	918
+318	Šemko - Chripak Ján r. Šemko - Chripak, A A		0	2799
+318	Škovran Andrej		0	737
+318	ŠKOVRAN Andrej	PKV 2-21	1	1204,1348
+318	Škovran Andrej r. Škovran		0	1580,1966,2724,2755,2764,2812
+318	Škovran Andrej r. Škovran, PKV 2-21 PKV 2-21		0	2540
+318	Škovran Andrej r. Škovran, syn Jána syn Jána		0	2634
+318	Škovran Fedor r. Škovran, Hlaváčova 1151, Praha, ČR Hlaváčova 1151, Praha, ČR		0	1580,1962
+318	Škovran Ivan r. Škovran		0	1580,1748
+318	Škovran Ján		1	744,748,1232
+318	ŠKOVRAN Ján	mal	1	338
+318	ŠKOVRAN Ján	PKV 1 297	1	602
+318	ŠKOVRAN Ján	PKV 1-61	1	1266
+318	ŠKOVRAN Ján	PKV 2-10	1	1206
+318	ŠKOVRAN Ján	PKV 2-18	1	1341
+318	ŠKOVRAN Ján	vzd	1	716,1202,1232,2829
+318	Škovran Ján /PKV 1-61/, SR /PKV 1-61/		0	1037
+318	Škovran Ján r. Škovran		0	2254,2724,2764,2812
+318	Škovran Ján r. Škovran, PKV 1-61 PKV 1-61		0	1502,1986,2691,2692,2693,2694
+318	Škovran Ján r. Škovran, PKV 2-10 PKV 2-10		0	1429
+318	Škovran Ján r. Škovran, vzd. vzd.		0	2505,2724,2764,2766,2831
+318	Škovran Ján, SR		0	889,936
+318	Škovrán Ján, vzd.		0	730,2828
+318	Škovran Ján, vzd., SR vzd.		0	889
+318	ŠKOVRAN Juraj		1	1232
+318	Škovran Juraj r. Škovran		0	2747,2748,2822
+318	ŠKOVRAN Michal		1	1254
+318	ŠKOVRAN Michal	mal	1	338,1341
+318	Škovran Michal r. Škovran		0	1502,1735,2691,2692,2693,2694
+318	Škovran Michal r. Škovran, mal. mal.		0	2442

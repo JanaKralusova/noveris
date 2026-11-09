@@ -1,0 +1,256 @@
+813	HRAŠNÝ Juraj		1	4541
+813	HRAŠNÝ Juraj	manž.Gulanová Anna	1	4589
+813	HREHOR Ján		1	1879,1880,2094,3293,3985,4272,4274
+813	HREHOR Ján	manž.Znachorová Anna	1	4043
+813	Hrehor Juraj		1	1880,2094,3985
+813	HREHOR Pavol		1	1879,1880,2094,3293,3985,4272,4274
+813	Hrehorová Anna		1	1880,2094,3985
+813	HREHOROVÁ Anna	po Jánovi,súr.Pavol,Ján	1	1879,1880,2094,3293,3985,4272,4274
+813	Hrehorová Eva		1	1880,2094,3985
+813	Hrehorová Katarína		1	1880,2094,3985
+813	HREHUŠ Adam	manž.Bačová Eva	1	2474,3681,3682,3683
+813	HREHUŠ Ján	manž.Hrehušová Katarína	1	2967
+813	HREHUŠ Martin	manž.Lukáčová Anna	1	2474,3681,3682,3683
+813	HREHUŠOVÁ Anna	rod.Lukáčová,m.Martin	1	2474,3681,3682,3683
+813	HREHUŠOVÁ Eva		1	2474,3086,3681,3682,3683
+813	HREHUŠOVÁ Katarína	rod.Hrehušová	1	2474,3681,3683
+813	HREHUŠOVÁ Katarína	SLÁDEK	1	2474,3681,3682,3683
+813	HREHUŠOVÁ Katarína r. Hrehušová		1	3682
+813	HREHUŠOVÁ Mária		1	4397,4454
+813	HREVUŠ Daniel		1	2474
+813	HREVUŠ Daniel	manž.Rojková Eva	1	4530
+813	HREVUŠ Daniel	manž.Rojková Katarína	1	4530
+813	HREVUŠ Ján		1	3547,3681,3682,3683,4522,4530
+813	HREVUŠ Ján	manž.Bahníková Judita	1	2985,4994
+813	HREVUŠ Ján	mladší	1	2474,3681,3682,3683,4509
+813	HREVUŠ Ján	sestra Anna Sapáčková	1	4019,4061
+813	HREVUŠ Juraj		1	4553
+813	HREVUŠ Martin	manž.Effenbergerová Jiřina,mladší	1	4655
+813	HREVUŠ Pavol		1	4530
+813	HREVUŠ Štefan		1	4530
+813	HREVUŠOVÁ Anna	rod.Lukáčová,m.Ján	1	4589
+813	Hrevušová Anna, SR		1	4597,4686
+813	HREVUŠOVÁ Judita		1	4532
+813	HREVUŠOVÁ Katarína		1	3681,3682,3683,4554
+813	HREVUŠOVÁ Katarína	rod.Majtásová	1	4156,4581
+813	HREVUŠOVÁ Katarína	rod.Rojková,m.Daniel	1	4530
+813	HROBÁR Juraj	manž.Sapáčková Judita	1	3681,3682,3683
+813	HROBÁROVÁ Alžbeta	rod.Bahníková,1* Hrašná	1	4641
+813	HVOŽDARA Ján		1	2474,4604
+813	HVOŽDARA Pavol		1	2474,4604
+813	HVOŽDAROVÁ Eva		1	2474,4604
+813	HVOŽDAROVÁ Katarína		1	2474,4604
+813	CHORVÁT Juraj		1	3424,3426,3671,4821,4837
+813	CHORVÁT Martin		1	2474,3424,3426,3671,4821,4837
+813	CHORVÁT Martin	manž.Macúchová Eva	1	4322
+813	CHORVÁTOVÁ Eva	rod.Macúchová	1	2474,3681,3682,3683
+813	CHOVANCOVÁ Anna	rod.Rzavská,manž.Ján	1	2474,3681,3682,3683,4488
+813	CHOVANCOVÁ Anna, 916 11, Bzince pod Javorinou, č. 501, SR	zom.rod.Rzavská,m.Ján	0	3681
+813	CHRASTINA Emil		1	2474,3681,3682,3683
+813	CHUDIČKOVÁ Alžbeta	rod.Bačová	1	3810
+813	IŠTÓK Ján		1	2474,3681,3682,3683,4234
+813	IŠTÓK Martin		1	2521
+813	JAKUBCOVÁ Eva	rod.Kovačovičová,m.Juraj	1	1106,2474,3681,3682,3683,4307,4309,4398,4401,4406
+813	JAKUBCOVÁ Katarína	rod.Bahníková,m.Adam	1	4406
+813	JAKUBEC Ján	manž.Šidlová Anna	1	2731
+813	JAKUBEC Ján	manž.Šlocharová Anna	1	3424,3426,3671,4821,4837
+813	JAKUBEC Juraj	manž.Kovačovičová Eva	1	4309,4365,4398,4401,4406
+813	JAKUBEC Martin		1	4319
+813	JAKUBEC Martin	manž.Miklánková Katarína	1	4317,4406
+813	JÁNOŠIKOVÁ Anna	rod.Jakubeková	1	2278,2279,2474,3681,3682,3683
+813	JEŽOVÁ Katarína	rod.Šinková	1	1942
+813	JORÍK Eva	rod.Malečková	1	2474,3080,3081
+813	KALENČÍKOVÁ Anna		1	3980
+813	KEDRO Ján		1	3681,3682,3683,4256
+813	KEDRO Ján	manž.Nagyová Anna	1	2474,3681,3682,3683,3781
+813	KEDRO Martin		1	4195
+813	KEDRO Milan		1	2474,3681,3682,3683
+813	KEDRO Pavol		1	4123
+813	KEDRO Pavol	po Anne Kedrovej r.Kubiczovej	1	3681,3682,3683
+813	KEDRO Pavol	syn Pavla a Márie r.Rojkovej	1	2474,3681,3682,3683
+813	KEDRO Vladimír, 916 11, Bzince pod Javorinou, č. 68, SR	zom.manž.Ľudmila Zaťovičová	0	3681
+813	KEDROVÁ Anna	rod.Nagyová,m.Ján	1	2474,3681,3682,3683
+813	Kedrová Anna r. Nagyová	m.Ján	1	3781
+813	KEDROVÁ Emília		1	2474,3681,3682,3683
+813	KEDROVÁ Eva	rod.Rojková,otec Martin	1	2474
+813	KEDROVÁ Eva	rod.Sagarová	1	2474,3681,3682,3683
+813	KEDROVÁ Eva	rod.Setváková,m.Ján	1	2973,3902
+813	KEDROVÁ Eva	rod.Valášková,m.Adam,vdova	1	2474,3681,3682,3683
+813	KEDROVÁ Mária	rod.Rojková,vdova po Pavlovi	1	2474,3681,3682,3683
+813	KLIMÁČKOVÁ Eva	rod.Kovačovičová	1	4311,4396
+813	KOLNÍKOVÁ Anna	rod.Kubová	1	3681,3682,3683,3775
+813	KOPCOVÁ Anna	rod.Rojková	1	2475
+813	KOPEC Daniel	manž.Rojková Júlia	1	3174
+813	KORYTÁROVÁ Emília r. Hložková		1	3911
+813	KOSTÍKOVÁ Alžbeta r. Trmanová		1	3921
+813	KOTÚČ Emil		1	2474,3681,3682,3683
+813	KOTÚČ Juraj	manž.Štepanovičová Katarína	1	3950
+813	KOTÚČ Martin	manž.Anna Ištóková	1	2474,3737
+813	KOTÚČOVÁ Anna	rod.Ištóková,m.Martin	1	2474,3737,3986
+813	KOTÚČOVÁ Katarína	rod.Štepanovičová,m.Juraj	1	3950
+813	Kovačovic Adam	manž.Bahníková Katarína	0	2728
+813	KOVAČOVIC Miroslav		1	1106,3691,3692,4993
+813	KOVAČOVIČ Daniel		1	4313
+813	KOVAČOVIČ Ján		1	1879,3682,3683,4400
+813	KOVAČOVIČ Ján	manž.Staňová Eva	1	3424,3426,3671,3833,4821,4837
+813	KOVAČOVIČ Juraj		1	2740,2741,3755
+813	KOVAČOVIČ Martin		1	4403
+813	KOVAČOVIČ Martin	manž.Gašparíková Eva	1	2474,2722,2723,2725,2726,2728,2730,2731,2956,4402,5026
+813	KOVAČOVIČ Milan		1	3910
+813	KOVAČOVIČ Pavol	manž.Kovačovičová Eva	1	3702
+813	KOVAČOVIČOVÁ Alžbeta		1	3755
+813	KOVAČOVIČOVÁ Anna	dcéra Adama	1	1884,1906,2474,2966,4269,4401,4964
+813	KOVAČOVIČOVÁ Eva		1	4310
+813	KOVAČOVIČOVÁ Eva	dcéra Adama	1	1884,1906,2474,2966,4269,4401,4964
+813	KOVAČOVIČOVÁ Eva	rod.Kovačovičová,m.Adam	1	2474
+813	KOVAČOVIČOVÁ Eva	rod.Kovačovičová,m.Pavol	1	3702
+813	KOVAČOVIČOVÁ Eva	rod.Rzavská,m.Ján	1	4390
+813	KOVAČOVIČOVÁ Eva	rod.Staňová,m.Ján	1	3424,3426,3671,3833,4821,4837
+813	KOVAČOVIČOVÁ Eva	súr.Oľga,Milan	1	3910
+813	KOVAČOVIČOVÁ Katarína		1	4310
+813	KOVAČOVIČOVÁ Katarína	rod.Supeková,m.Martin	1	3424,3426,3671,4821,4837
+813	KOVAČOVIČOVÁ Mária		1	2022
+813	KOVAČOVIČOVÁ Oľga		1	3910
+813	KOZÁK Juraj		1	3681,3682,3683,3775
+813	KOZÁKOVÁ Katarína	rod.Gulánová	1	4644
+813	KOZÁKOVÁ Katarína	rod.Gulánová,m.Martin	1	2110,3086
+813	KRAJČOVIČ Juraj	manž.Sláviková Anna	1	2182
+813	KRAJČOVIČOVÁ Anna	rod.Sláviková,m.Juraj	1	2182
+813	KRAJČOVIČOVÁ Júlia		1	3681,3682,3683
+813	KRCHŇÁK Ján		1	4454
+813	KRCHŇÁKOVÁ Alžbeta	slob	1	2474,3681,3682,3683
+813	KRCHŇÁKOVÁ Anna		1	4454
+813	KRCHŇÁKOVÁ Emília		1	4454
+813	KRCHŇÁKOVÁ Katarína	rod.Korytárová,m.Ján	1	2474
+813	KRCHŇÁKOVÁ Oľga		1	4454
+813	KROPILOVÁ Katarína	rod.Bušová,m.Samuel	1	1000,2968,3183,3185,4470,4891,4892
+813	KROPILOVÁ Katarína	rod.Bušová,m.Samuel,rod.Bušová,m.Samuel	1	4474
+813	KRUPOVÁ Mária	rod.Krokvičková	1	3935
+813	Kubica Anton		1	3937
+813	KUBICA Ján		1	1803,2474,3681,3682,3683,3909
+813	KUBICA Ján	manž.Truhlíková Anna	1	3909
+813	KUBICA Ján	Pavlov	1	2474
+813	KUBICA Karol		1	2436,4187
+813	KUBICA Rudolf		1	4298
+813	KUBICA Štefan		1	4170
+813	KUBICA Štefan	manž.Stachová Anna	1	3909
+813	KUBICOVÁ Katarína	rod.Kubicová	1	4284
+813	KUBICOVÁ Katarína	rod.Zámečníková	1	3681,3682,3683
+813	KUBICOVÁ Mária		1	3909
+813	KUBICOVÁ Mária	rod.Mazáková,m.Štefan	1	1940,2474
+813	KUCKOVÁ Eva	rod.Ondrašovičová	1	3939
+813	KUHAJDA Juraj		1	3845
+813	KUHAJDA Martin	manž.Harmadyová Judita	1	3960,4220
+813	KUHAJDA Pavol	manž.Srnánková Alžbeta	1	2474
+813	Kuhajdová Judita r. Harmadyová		1	4014
+813	KUHAJDOVÁ Katarína	rod.Bučková,m.Ján	1	3895
+813	KULICHOVÁ Anna	rod.Hrašná	1	513,2708,3432,4332,4381,4670
+813	KULICHOVÁ Anna r. Hrašná		1	3088
+813	KUSENDOVÁ Anna	rod.Pagáčová	1	4607
+813	KUTIOVÁ Ilona	rod.Špitzerová	1	4336,4349,4353,4354,4367,4608,4627,4646
+813	Kutiová Ilona r. Spitzerová		1	4355,4612
+813	KUVIK Ján		1	62,3703,4780
+813	LISÁ Anna	rod.Plasenková,m.Adam	1	3681,3682,3683
+813	LONCOVÁ Emília	rod.Kuhajdová	1	4004
+813	LOSÁK Juraj	manž.Ostrovská Anna	1	4133
+813	LUKÁČ Ján		1	4519
+813	LUKÁČ Ján	manž.Magálová Anna	1	4142,4143
+813	LUKÁČOVÁ Anna	rod.Magálová,m.Ján	1	4143,4145
+813	LUKÁČOVÁ Emília	rod.Sláviková	1	2474,3681,3682,3683
+813	MACKOVÁ Anna	rod.Sláviková	1	4501,4970
+813	MACKOVIČ Ján	manž.Trchalová Alžbeta	1	4064
+813	MACKOVIČ Martin		1	4132
+813	MACÚCH Ján	manž.Anna Turanová	1	4208
+813	MACÚCH Ján	manž.Hložková Anna	1	2474
+813	MACÚCH Ján	manž.Kedrová Eva	1	4183
+813	MACÚCH Juraj		1	2474,3681,3682,3683
+813	MACÚCH Juraj	manž.Ondrašovičová Anna	1	3093
+813	MACÚCH Pavol	manž.Emília Kedrová	1	3802
+813	MACÚCH Pavol	manž.Trúsiková Katarína	1	3793,3800,4095
+813	MACÚCHOVÁ Anna	rod.Hrehušová	1	3681,3682,3683
+813	MACÚCHOVÁ Anna	rod.Ondrašovičová,m.Juraj	1	3968
+813	MACÚCHOVÁ Anna	rod.Turanová,m.Ján	1	3681,3682,3683,4105,4180,4208,4210
+813	MACÚCHOVÁ Eva	rod.Kedrová,m.Ján	1	3424,3426,3671,4821,4837
+813	MACÚCHOVÁ Eva	rod.Mráziková,m.Martin	1	2474,3681,3682,3683
+813	MACÚCHOVÁ Judita	rod.Sláviková,m.Ján	1	2503
+813	MACÚCHOVÁ Katarína	rod.Trúsiková,m.Pavol	1	3800
+813	MACÚCHOVÁ Katarína r. Trúsiková	m.Pavol	1	3793
+813	MAGÁL Ján	manž.Setváková Alžbeta	1	2474,3681,3682,3683
+813	MAGÁL Martin		1	4533
+813	MAGÁLOVÁ Katarína	rod.Hrevušová	1	4520
+813	MACHAJDÍK Daniel		1	2474,3284,3285,4545
+813	MACHAJDÍK Ján		1	3284,3285,3287,4545
+813	MACHAJDÍK Ján	manž.Hrašná Anna	1	4588
+813	MACHAJDÍK Martin		1	4481,4594,4653
+813	MACHAJDÍKOVÁ Anna		1	3284,3285,3287,4545
+813	MACHAJDÍKOVÁ Anna	rod.Hrašná	1	4589
+813	MACHAJDÍKOVÁ Bohuslava		1	4653
+813	MACHAJDÍKOVÁ Eva	rod.Mazáková,m.Ján	1	4545
+813	MACHOVIC Ján	manž.Katarína Gašparíková	1	1932
+813	MACHOVIC Martin	manž.Gašparíková Anna	1	3424,3426,3671,4821,4837
+813	MACHOVIC Rudolf	syn Martina a Kataríny Pagáčovej	1	2474
+813	MACHOVICOVÁ Anna	rod.Brezinská,1* Zámečníková	1	4331
+813	MACHOVICOVÁ Anna	rod.Kovačovičová	1	3874
+813	MAJTÁS Ján		1	2352,4156
+813	MAJTÁS Ján	manž.Ostrovská Katarína	1	3424,3426,3671,4157,4821,4837
+813	MAJTÁS Ján	manž.Pagáčová Anna	1	4157
+813	MAJTÁS Ján	manž.Struháriková Anna	1	3096
+813	MAJTÁS Juraj		1	2352,4156
+813	MAJTÁS Martin		1	2110,2352,3086,4156,4157,4158,4321
+813	MAJTÁS Martin	manž.Komorechová Anna	1	2352,4157
+813	MAJTÁS Miloslav		1	3424,3426,3671,4821,4837
+813	MAJTÁSOVÁ Anna		1	2352,4156
+813	MAJTÁSOVÁ Eva	rod.Rubaninská,m.Samuel	1	1938
+813	MAJTÁSOVÁ Katarína	rod.Ostrovská,m.Ján	1	3424,3426,3671,4821,4837
+813	MAKOVICKÁ Elena	rod.Markovičová	1	2728
+813	Makovická Elena r. Markovičová		0	1880,2094
+813	MALEČKA Ján		1	3681,3682,3683,4194
+813	MALEČKA Ján	manž.Harušťáková Emília	1	2474,3681,3682,3683
+813	MALEČKA Ján	manž.Hložková Eva	1	2474,3681,3682,3683,3809,3911,4113,4202,4203
+813	MALEČKA Ján	manž.Okrucká Eva	1	3952,4074
+813	MALEČKA Pavol		1	3745,4103,4324
+813	MALEČKA Pavol	syn Jána	1	4255
+813	MALEČKA Štefan	syn Jána a Evy r.Okruckej	1	2474,4242,4244
+813	MALEČKOVÁ Alžbeta		1	3745
+813	MALEČKOVÁ Anna		1	3745
+813	MALEČKOVÁ Anna	rod.Kovačovičová	1	4087
+813	MALEČKOVÁ Eva	rod.Hložková,m.Ján	1	4202
+813	MALEČKOVÁ Eva	rod.Lošáková	1	4103
+813	MALEČKOVÁ Eva	rod.Okrucká,m.Ján	1	3681,3682,3683,4074,4211
+813	MALÍČEK Pavol		1	3549,3953
+813	MALÍČKOVÁ Anna		1	4198
+813	MALÍČKOVÁ Katarína	rod.Miklovičová	1	3933
+813	MALÍČKOVÁ Oľga		1	3953
+813	Markovič Fedor		1	1880,2094,2728
+813	MARTÁK Ján		1	2535,3089,3916
+813	MARTÁK Martin		1	2474,3681,3682,3683,3765,3926,3929,4109,4241
+813	MARTÁK Pavol	manž.Okrucká Anna	1	3958
+813	MARTÁKOVÁ Anna	rod.Sapáková	1	3681,3682,3683
+813	MASAROVIČ Ján		1	2474,3681,3682,3683,3697,3843,4227
+813	MASAROVIČ Ján	manž.Opltová Anna	1	4191
+813	MASAROVIČOVÁ Katarína	rod.Malečková,m.Martin	1	2474,3681,3682,3683
+813	MATALOVÁ Katarína	rod.Hložková,m.Jozef	1	2474
+813	MAZÁK Ján		1	2443,4595
+813	MAZÁK Ján	Chrúst	1	4339
+813	MAZÁK Ján	manž.Hornáčková	1	4363
+813	MAZÁK Ján	manž.Kardošová Mária	1	3832
+813	MAZÁK Ján	manž.Kubicová Anna	1	4638
+813	MAZÁK Ján	manž.Kubicová Mária	1	4258
+813	MAZÁK Ján	manž.Mazáková Eva,Juviscin	1	2474,4622,4632
+813	MAZÁK Jozef	manž.Gulánová Anna	1	2742
+813	MAZÁK Juraj		1	2474,3681,3682,3683
+813	MAZÁK Juraj	manž.Anna Vychlopenová	1	4394
+813	MAZÁK Juraj	manž.Gulanová Anna	1	4339
+813	MAZÁK Martin		1	2474,4593
+813	MAZÁK Martin	manž.Alžbeta Margetínová	1	4304,4860
+813	MAZÁK Martin	syn Jána Hríba	1	2016
+813	MAZÁK Pavol		1	2742
+813	MAZÁK Pavol	Chrúst po Jánovi	1	4621,4639
+813	MAZÁK Pavol	manž.Gulánová Emília	1	3832
+813	MAZAKOVA ANNA		0	130
+813	MAZÁKOVÁ Anna	rod.Gulánová,vdova	1	2835,4349,4647
+813	MAZÁKOVÁ Anna	rod.Mazáková	1	2474
+813	MAZÁKOVÁ Anna	rod.Mazáková,m.Juraj	1	4633
+813	MAZÁKOVÁ Anna	rod.Vychlopenová,m.Juraj	1	4394
+813	MAZÁKOVÁ Anna r. Mazáková		1	4375
+813	MAZÁKOVÁ Eva	rod.Hložková,m.Ján,Čajdák	1	2474,3681,3682,3683,3862

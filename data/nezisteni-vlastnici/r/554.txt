@@ -1,0 +1,256 @@
+321	WERTFEIN Jozef	malol	0	6881,7070,8794,8872,9717,9731,9742,9746,9747,9764,9768,9769,9770,9772,9774,9782,12911,13901,15293,15707,15708,15855
+321	WERTFEIN Ondrej	malol	0	7070,9731,9746,9751,9774,9782,15293,15707
+321	WRANIAK Ondrej		0	8866,8880
+321	WRANIAK Štefan		0	8866,8880
+321	WRANIAKOVÁ Anna	rod. Krkošková	0	8866,8880
+321	ZAJIC Anton		0	9701
+321	ZAJICOVÁ Mária	rod. Čačuráková	0	9701
+321	ZAJÍČEK Václav		0	10253,10277,10293,10299,10300,10301,10302,10303,10304,10333,10334,10335,10336,10340,10349,10353,10571,10572,10677,10678,10679,12403,13082,13628,16096
+321	ZAJÍČKOVÁ Alojzia	rod. Jarabicová	0	10253,10277,10293,10299,10300,10301,10302,10303,10304,10333,10334,10335,10336,10340,10349,10353,10571,10572,10677,10678,10679,12403,13082,13628,16096
+321	ZAŤKOVÁ Margita	rod. Špaldoňová	0	6889,7059,7172,7179,7413,7428
+321	ZÁVIŠOVÁ Oľga	rod.Durajová	0	12403,13082
+321	ZÁVODJANOVÁ Žofia	r.Sihelníková Biráková	0	7996
+321	ZÁVODZANOVÁ Žofia	rod. Sihelníková	0	6777,6910,6911,6913,6914,7916,7917,7920,7921,7939,8007,8008,8022,11763,14964
+321	ZBONČÁK Andrej		0	7400,13005,13543,14048,14049,14283,15722
+321	ZBONČÁK Andrej	ž. Agneša r.Krkošková-Belešíková	0	6883,6886,6887,6888,6889,7141,7145,7156,7401,7403,7407,7409,7410,7422,7434,7437,7441,7442,7512,7513,7520,13249,13344,15452,15453
+321	ZBONČÁK Augustín		0	7141,7145,7219,7400,7401,7403,7407,7409,7410,13005,13543,14048,14049,14283,15452,15722
+321	ZBONČÁK Augustín	malol	0	6883,6886,6887,6888,6889,7141,7145,7156,7401,7407,7409,7410,7422,7434,7437,7441,7442,7512,7513,7520,13249,13344,15452,15453
+321	ZBONČÁK Ladislav		0	8022,11763
+321	ZBONČÁK Ondrej	malol	0	6887,6888,7422,7513
+321	ZBONČÁK Viliam	malol	0	7513
+321	ZBONČÁK Viliam	syn Ondreja	0	7513
+321	ZBONČÁKOVÁ Anna		0	7219
+321	ZBONČÁKOVÁ Anna	rod. Dideková	0	6883,6886,6887,6888,6889,7141,7145,7156,7219,7400,7401,7403,7407,7409,7410,7422,7434,7437,7441,7442,7512,7513,7520,13005,13249,13343,13344,13543,14048,14049,14283,15452,15453,15722
+321	ZBONČÁKOVÁ Terézia	malol	0	6883,6886,6887,6888,6889,7141,7145,7156,7219,7400,7401,7403,7407,7409,7410,7422,7434,7437,7441,7442,7512,7513,7520,13005,13249,13344,13543,14048,14049,14283,15452,15453,15722
+321	ZELNÍK Ján		0	8794
+321	ZELNÍK Štefan		0	7173,8872,14508
+321	ZEMANÍK Martin		0	8877,8884,15301,15611
+321	ZEMANÍK Ondrej	Sihlan	0	8033
+321	ZEMANÍK Rudolf		0	8877,15301,15611
+321	ZEMANÍKOVÁ Anna		0	4650,7915,7922,7982,7985,7990,7995,8019,8021,8054,15813,15816,16004,16005,16006
+321	ZEMANÍKOVÁ Anna	malol	0	4864,6774,6778,7927,7931,7932,7933,7934,7936,7982,7983,7985,7988,7989,7991,7994,8003,8004,8010,8011,8013,8016,8017,8020,8021,8031,12818,14391,15508,15509,15510,15815,15817,15818
+321	ZEMANÍKOVÁ Anna	malol./dcéra Jozefa/	0	6777,7920,7939,8001,8007,8008,8022,8026,10594,11763
+321	ZEMANÍKOVÁ Dorota	rod. Bergerová	0	8866,8881,8882,8884
+321	ZEMANÍKOVÁ Janka		0	8877,15301,15611
+321	ZEMANÍKOVÁ Janka	malol	0	8866,8880,8881,8884
+321	ZEMANÍKOVÁ Katarína	malol	0	8866,8877,8880,8881,8884,15301,15611
+321	ZEMANÍKOVÁ Klementína	rod. Čačuráková	0	6774,6778,7931,7983,7991,8010,8013,8022,8026,11763,12818,15817
+321	ZEMANÍKOVÁ Magdaléna		0	8877,15301,15611
+321	ZEMANÍKOVÁ Magdaléna	malol	0	8866,8880,8881,8884
+321	ZEMANÍKOVÁ Mária	mal	0	8877,15301,15611
+321	ZIMOVÁ Helena	rod. Deckárová	0	7884,7885
+321	ZREBINA Matej	Kovalíček	0	8813
+321	ZREBNINA Ondrej	Kovaliček	0	8581
+321	ZREBNINOVÁ Katarína	rod. Klieščiková	0	8529
+321	ZUŠČÁKOVÁ Katarína	rod. Biráková	0	8883,8931,8932
+321	ŽELEZNIČNÁ Správa	- štátna železničná správa	0	9368
+321	ŽIAČIK Ján		0	7185,7400,7411,7413,7424,7428,13005,13543,14048,14049,14283,15722
+321	ŽIAČIKOVÁ Anna	rod. Kantorová	0	7185
+321	ŽIAČIKOVÁ Anna	rod. Kantorová vd	0	6889,7151,7160,7168,7193,7412
+321	ŽILINČÍK Jozef		0	7042,15758
+321	ŽILINČÍK Juraj	malol	0	7042,15758
+321	ŽILINČÍK Ladislav		0	7042,15758
+321	ŽILINČÍK Ľudovít		0	7042,15758
+321	ŽILINČÍKOVÁ Anna	malol	0	7042,15758
+321	ŽOVINOVÁ Štefánia	rod. Okapalová	0	7398
+322	ÁBEL František r. Ábel	Kamence 1123,Čachtice	0	2575,3474,3644
+322	ÁBEL Ján r. Ábel	č.1183	0	5307
+322	ÁBEL Ján r. Ábel	slobodný,súr.Jozef	0	3060,3061,3065,4910,5022,7806,7807,7808
+322	ÁBEL Ján r. Ábel	súr.Štefan	0	3710
+322	Ábel Jozef r. Ábel		0	6500
+322	Ábel Jozef r. Ábel	Mierová 583,Čachtice	0	2059,2062,2575
+322	ÁBEL Jozef r. Ábel	č.1161	0	3710,6388
+322	ÁBEL Jozef r. Ábel	čd.384	0	6502
+322	Ábel Šimon r. Ábel	m.Anna r.Hanáková	0	2885,4788,5307
+322	ÁBEL Štefan r. Ábel	m.Etela r.Palkechová	0	2511,3644
+322	ÁBEL Štefan r. Ábel	maloletý,súr.Ján	0	3710,4235,5989
+322	ÁBEL Štefan r. Ábel	ž.Pavlína r.Korytinová	0	5972,6173
+322	ÁBEL Vincent r. Ábel	m.Mária r.Sameková	0	3644,4760,5541,6367,6593
+322	ÁBELOVÁ Anna r. Hanáková		0	4091
+322	ÁBELOVÁ Anna r. Hanáková	manž. Šimon Ábel	0	2885,4788
+322	ÁBELOVÁ Anna r. Imrišková		0	2055,4758,4759,6410
+322	ÁBELOVÁ Anna r. Kršková		0	3644
+322	ÁBELOVÁ Emerencia r. Opatovská		0	3059,4929,4973
+322	Ábelová Mária r. Kováčiková	m.Ján	0	4682
+322	ÁBELOVÁ Mária r. Sameková		0	6367,6593
+322	ÁBELOVÁ Mária r. Vidová		0	2011,2048,2111,2117,2118,3061,3710,4788,4795,4797,4799,4801,5646,6534,7904
+322	ADAMCOVÁ Alžbeta		0	4869
+322	ADÁMEK Alexander r. Adámek	súr.Mária,Štefan	0	1537,1540
+322	ADAMEK Viktor r. Adamek	súr.Mária	0	1490,4691
+322	ADLER Teofil r. Adler	ž.Jozefína r.Tlstovičová	0	5356
+322	ADLER Teofil r. Adler	ž.Margita r.Gáborová	0	5356
+322	Ammer Jozef r. Ammer	č.322	0	2823
+322	AMMEROVÁ Terézia r. Turzová		0	2823
+322	ANDERKOVÁ Mária r. Šimová		0	1841,3429,5435,6787
+322	ANDRÁŠIK Ondrej r. Andrášik	m.Anna r.Strečková	0	6565
+322	ANDRÁŠIKOVÁ Anna r. Strešková	m.Ondrej	0	6163
+322	ATALOVIČ Jozef r. Atalovič	ž.Mária r.Slaninová	0	6987
+322	ATALOVIČOVÁ Barbora r. Šimová	Kalinčiakova č.11,Bratislava	0	6387,7046
+322	ATALOVIČOVÁ Mária r. Slaninova	m.Jozef,nar.4.12.1879	0	3085,6987
+322	ATALOVIČOVÁ Otília	od Jozefa Šima	0	3644
+322	AUGUSTÍN Jozef r. Augustín	m.Anna r.Ondrejková	0	5296
+322	AUGUSTÍN Michal r. Augustín	súr.Anna,Zuzana	0	4610
+322	AUGUSTÍNOVÁ Anna r. Mikušová	m.Gašpar	0	2669
+322	BABULIC Štefan r. Babulic	m.Anna r.Gablovská	0	6808
+322	BABULICOVÁ Cecília r. Vachová	m.Jozef	0	5992
+322	BABULICOVÁ Mária r. Pečenkárová	č.212	0	3644,6657
+322	BAČOVÁ Katarína r. Kováčiková	Višňové	0	6008,6029,6035,6513
+322	BALALA Ján r. Balala	m.Anna r.Hajdínová	0	6602
+322	BALALA Ján r. Balala	súr.Jozef	0	3644
+322	Balala Jozef r. Balala	Bratislava,Záhradnícka 33	0	3237,3238,3644,4818,6858
+322	Balala Jozef r. Balala	syn Jozefa,m.Eva Jurigová	0	1490,6126
+322	BALALA Jozef r. Balala	m.Alžbeta r.Trebatická	0	4998,4999,7201
+322	BALALA Jozef r. Balala	m.Anastázia r.Fraňová,Hoštáky 420	0	6696
+322	BALALA Jozef r. Balala	m.Eva r.Jurigová	0	3644
+322	BALALA Michal r. Balala	m.Mária r.Hanáková	0	7166
+322	BALALA Michal r. Balala	spolud.Anna Dubnická	0	6674
+322	BALALA Michal r. Balala	ž.Agneša r.Vladová,nar.19.11.1885	0	3710
+322	Balala Pavol r. Balala	súr.Jozef	0	1578,2412,3237,3238,3464,3465,3644,4749,4752,4753,4818,4967,6858,7864
+322	BALALOVÁ Agneša r. Vladová	m.Michal,21.1.1888	0	1592,4414
+322	BALALOVÁ Alžbeta r. Trebatická	m.Jozef	0	3710,4998,4999,5494,7201
+322	BALALOVÁ Eva r. Jurigová		0	3075,3149,3644
+322	BALALOVÁ Katarína r. Gáborová		0	3710,5565
+322	BALALOVÁ Margaréta r. Peterková		0	4746
+322	BALÁŽ Anton r. Baláž	súr.Michal	0	3652,3653
+322	BALÁŽ Ján r. Baláž	spolud.Michal,Anton	0	3656,4985
+322	Balažec Ondrej r. Balažec	m.Margita r.Nemčeková	0	2092,3710,5242,5996,6371
+322	BALÁŽOVÁ Cecília r. Balážová		0	3649
+322	BALOG Ferdinand r. Balog		0	3644,5145
+322	BALOGOVÁ Alžbeta r. Chmelíková		0	4998,4999
+322	BALTAZÁR Mikuláš r. Baltazár	vo Vészkö	0	6242
+322	BALTAZÁR Štefan r. Baltazár	v Petržalke	0	6242
+322	BARANČÍK Juraj r. Barančík	m.Anna r.Madrová	0	4591,7181
+322	BARANČÍK Štefan r. Barančík	ž.Mária	0	7195
+322	BARANČÍKOVÁ Anna r. Madrová		0	4578,7181
+322	BARTA Alexander r. Barta		0	1810,1825,1911,5038,6151,6554,6583
+322	BARTAKOVIČ Gabriel r. Bartakovič	súr.Július	0	3710,4116,5038
+322	BARTAKOVIČ Július r. Bartakovič	súr.Gabriel	0	3710,4116,5038
+322	Bartakovič Pavol r. Bartakovič	súr.Mária,Štefan	0	2195,2196,5558
+322	BARTAKOVIČ Pavol r. Bartakovič	ž.Cecília r.Abelová	0	5481
+322	Bartakovič Štefan r. Bartakovič	súr.Pavol,Štefan	0	2195,2196,5558,6558
+322	BARTAKOVIČOVÁ Cecília r. Šišková	zomr.22.12.1981	0	3710,4698
+322	BARTAKOVIČOVÁ Mária r. Gregorovičová		0	6201
+322	BARTEK Martin r. Bartek	Želovany 942,Čachtice	0	6346
+322	BARTEK Vladimír r. Bartek	Hollého 1917/12,MNnV,zomrel	0	2578
+322	BARTEKOVÁ Alžbeta r. Chmelíková	m.Juraj	0	3765,3766
+322	BARTEKOVÁ Barbora r. Balážová	Želovany 942,Čachtice	0	5379
+322	BARTEKOVÁ Júlia r. Harabinová		0	3710,4782,4814,5696
+322	BARTOVÁ Paulína r. Strešková	Kupeckého č.5 Bratislava	0	5002,6196
+322	Bednár Aurel r. Bednár a Cecília Bednárová r. Imrišková		0	6295
+322	BEDNÁR Bartolomej r. Bednár	súr.Ján,Anna,Aurel,Viliam.Edidta	0	6555
+322	Bednár Ján r. Bednár	m.Mária r.Novotná	0	518,7013
+322	BEDNÁR Jozef r. Bednár		0	5263
+322	BEDNÁR Michal r. Bednár		0	7017
+322	BEDNÁR Michal r. Bednár	súr.Emília	0	3644
+322	BEDNÁR Michal r. Bednár	ž.Alžbeta r.Opatovská	0	5266
+322	BEDNÁR Michal r. Bednár a Alžbeta BEDNÁROVÁ r. Opatovská		0	7061
+322	BEDNÁROVÁ Alžbeta r. Opatovská	m.Michal	0	1674,2522,2523,2525,2526,2529,2530,2532,3277,3453,3710,4852,4929,4973,4998,4999,5077
+322	BEDNÁROVÁ Anna r. Honaizerová	m.Viliam	0	3710
+322	Bednárová Cecília r. Imrišková	m.Aurel - zomrela 22.7.1963	0	5767
+322	BEDNÁROVÁ Cecília r. Imrišková	m.Aurel	0	3644,6172,6914,7199
+322	BEDNÁROVÁ Emília	súr.Michal	0	3644
+322	BEDNÁROVÁ Mária r. Novotná	m.Ján	0	7013
+322	BEDNÁROVÁ Mária r. Štefková	vdova,nar.30.14.1884	0	3644,6122
+322	Belák Ján r. Belák		0	3273
+322	Belák Ján r. Belák	m.Alžbeta r.Škudlová	0	1636,1642,3274
+322	Belák Ján r. Belák	m.Anna	0	1642
+322	BELÁK Ján r. Belák	m.Mária r.Vidová	0	3644
+322	Belák Jozef r. Belák	m.Mária r.Jakubcová	0	1634
+322	Belák Michal r. Belák	m.Mária r.Mikulášová	0	2156,5232
+322	BELÁK Michal r. Belák	súr.Vincent,Rudolf,Jozef,Šimon,Ján,Anna	0	2156
+322	Belák Šimon r. Belák		0	1637,1643
+322	BELÁK Šimon r. Belák	nar.5.10.1906	0	1628,1629,1630,1633,1636,1640,1642,2414
+322	BELÁKOVÁ Alžbeta r. Škudlová		0	1636,1642,3644
+322	BELÁKOVÁ Anna		0	4001
+322	BELÁKOVÁ Anna	maloletá	0	2835,3644
+322	BELÁKOVÁ Anna r. Beláková		0	2156
+322	Beláková Anna r. Imrišková		0	5767
+322	BELÁKOVÁ Anna r. Imrišková	Čachtice 355	0	3644
+322	BELÁKOVÁ Etela r. Imrišková	Čachtice 663	0	3644,4998,4999
+322	BELÁKOVÁ Mária r. Jakubcová	Kút 814,Čachtice	0	3644,5204
+322	BELÁKOVÁ Mária r. Mikolášová	m.Michal	0	5232
+322	BELÁKOVÁ Mária r. Vidová	m.Ján	0	3644
+322	BENÁCY Gejza r. Benácy	súr.Karol	0	3579,6158
+322	BENÁCY Karol r. Benácy	súr.Gejza	0	3579,5365,6158
+322	Benácyová Margaréta	Jaqueline,Čachtice 683	0	2754,2756,4873
+322	BENÁCZI Ján r. Benáczi	m.Terézia r.Kubanská	0	2754,3644
+322	BENÁCZI Jozef r. Benáczi	m.Julianna r.Hollá	0	3644
+322	BENÁCZI Žigmund r. Benáczi		0	3644
+322	BENÁCZIOVÁ Anna	súr.Žigmund,Ján,Jozef,Mária	0	3644
+322	BENÁCZIOVÁ Mária	súr.Žigmund,Ján,Jozef,Anna	0	3644
+322	BENACZYOVÁ Etela	po Kataríne Benaczyovej	0	3644,3710
+322	BENIAN Michal r. Benian		0	6260
+322	BENJAN Jozef r. Benjan	spolud.Jozefína,Zlata	0	6229
+322	BENJANOVÁ Jozefína	spolud.Zlata,Jozef ml	0	3644,6229
+322	BEŇOVÁ Anna r. Slaninová, Ing.	m.Jozef,nar.15.3.1867	0	5928
+322	BEŇOVÁ Mária r. Kršková	m.Michal	0	5660
+322	BEŇOVÁ Mária r. Suchánková	m.Viliam	0	3644,7049
+322	BENZINOL Bratislava	n.p	0	6838
+322	Bereczová Zuzana r. Madarassyová	Nitra	0	7091
+322	BERGER Bedrich r. Berger	súr.Juraj,Rudolf	0	4998,4999,6115
+322	BERGER Juraj r. Berger	súr.Rudolf,Bedrich	0	4998,4999,6115
+322	BERGER Rudolf r. Berger	súr.Juraj,Bedrich	0	4998,4999,6115
+322	Beták Štefan r. Beták a Anna BETÁKOVÁ r. Paveličová		0	7206
+322	BIELIK Ján r. Bielik	súr.Štefan,Mária,Ondrej,Karol	0	4998,4999
+322	BIELIK Jozef r. Bielik	m.Matilda r.Súčanská	0	5382
+322	BIELIK Jozef r. Bielik	ž.Mária r.Čiráková	0	4998,4999
+322	BIELIK Juraj r. Bielik	m.Anna r.Krajčíková	0	4998,4999
+322	BIELIK Karol r. Bielik	súr.Ján,Mária,Štefan,Ondrej	0	4998,4999
+322	BIELIK Ondrej r. Bielik	súr.Ján,Mária,Štefan,Karol	0	4998,4999
+322	BIELIK Štefan r. Bielik	súr.Ján,Mária,Ondrej,Karol	0	4998,4999
+322	BIELIKOVÁ Katarína	súr.Štefan,Jozef	0	4998,4999
+322	Bieliková Mária r. Daneková		0	482
+322	BIELIKOVÁ Matilda r. Súčanská		0	3107,3280,4241,4264,4998,4999,5381,6205
+322	BLAHO Ján r. Blaho	m.Eva r.Janíčková	0	3710
+322	BLAHO Jozef r. Blaho	maloletý	0	5349
+322	BLAHO Michal r. Blaho	nar.28.8.1917	0	7180
+322	BLAHO Pavel r. Blaho	súr.Mária,Anna	0	3710
+322	BLAHO Pavol r. Blaho	maloletý	0	5349
+322	BLAHO Rudolf r. Blaho	súr.Michal	0	7180
+322	BLAHOVÁ Eva r. Janíčková	m.Ján,nar.23.8.1896	0	3710
+322	Blahová Mária r. Dvorská	Lomnice nad Popelkou 987,zomr	0	2231,2365,2569,2801,3015,3017,3019,3020,3022,3644,4793,5048,5925
+322	BLACHO Jozef r. Blacho	súr.Emília	0	3710,3900,5417
+322	BLAKŠOVÁ Rozália r. Adamcová		0	5270
+322	Blažej Michal r. Blažej	Slnečná 371 Čachtice	0	5396,5399
+322	BLAŽEJ Štefan r. Blažej	NMnV,zomrel	0	6336
+322	Blažejová Valéria	Stará Turá	0	5395,5399
+322	Blažko Tibor r. Blažko	Jablonka	0	6279
+322	BOGNÁROVÁ Jozefína r. Brenkušová	m.František	0	3644,5243,5244,6124,6380
+322	BRENKUŠ Jozef r. Brenkuš	m.Anna r.Betáková	0	5243,5244
+322	BRENKUŠOVÁ Anna r. Betáková	m.Jozef	0	3644,5243,5244
+322	BRENKUŠOVÁ Mária	súr.Jozefína,Agnesa,Anna	0	2468,3644,5243,5244,5591,6124,6380
+322	BRIANDOVÁ Alžbeta r. Vladová		0	5029
+322	Brídzik Jozef r. Brídzik, Štvrtok 104 a Otília Brídziková r. Vajdíková, Malinovského 937, Čachtice		0	5260
+322	BRIEŠTENSKÝ Jozef r. Brieštenský	m.Matilda r.Suchánková	0	6956
+322	BRODECKÝ Alojz r. Brodecký	v Novom Meste nad Váhom	0	6169
+322	BROKEŠ Štefan r. Brokeš	m.Mária r.Hanáková	0	3644,3800
+322	BROKEŠOVÁ Mária r. Hanáková		0	2160,2166,3644,4391,4805,4806,4808,4809,6783,7059,7582
+322	BUBLAVÁ Agáta r. Lišková		0	6758,6773,6794
+322	BUBLAVÁ Alžbeta r. Ondrejková		0	6824
+322	BUBLAVÁ Anna	súr.Michal	0	5280
+322	BUBLAVÁ Margita r. Čechvalová	m.Vojtech	0	1566
+322	BUBLAVÁ Verona r. Ondrejková	m.Ľudovít	0	5297
+322	BUBLAVÝ Gašpar r. Bublavý a BUBLAVÁ Apolónia r. Macháčová		0	7227
+322	BUBLAVÝ Imrich r. Bublavý	m.Margita r.Maráková	0	4555
+322	BUBLAVÝ Juraj r. Bublavý	m.Zuzana r.Čechvalová	0	4595
+322	BUBLAVÝ Ludovít r. Bublavý	súr.Dominik	0	4556
+322	BUČKO Michal r. Bučko		0	3644
+322	BUČKO Pavol r. Bučko	súr.Michal,Oľga,Jozef	0	3644,5079
+322	BUČKOVÁ Marta r. Peczková		0	3644
+322	BUČKOVÁ Oľga	súr.Pavol.Michal,Jozef	0	5079
+322	Bumbál Emil r. Bumbál	Lysiná 789,Čachtice	0	2279,3705,3710,4149,4150,4224
+322	BUMBÁL Ernest r. Bumbál		0	3705
+322	BUMBÁL Ján r. Bumbál	m.Alžbeta r.Struková	0	2279,3705,3710,4149,4150,4224
+322	BUMBÁL Jozef r. Bumbál		0	2279,3705,3710,4149,4150,4224
+322	Bumbál Pavol r. Bumbál	Raj č.410,Karviná,zomrel	0	2279,3705,3710,4149,4150,4224
+322	BUMBÁL Rudolf r. Bumbál		0	3710
+322	BUMBÁL Štefan r. Bumbál		0	2279,3705,3710,4149,4150,4224
+322	BUMBÁLOVÁ Cecília r. Michalíková		0	2279,3705,3710,4149,4150,4224,6349
+322	BURIAN Jozef r. Burian		0	1872,6446
+322	Burian Michal r. Burian	ml	0	1872,6446
+322	BURIANOVÁ Anna r. Holová	Medzihorská 143,Čachtice	0	5170
+322	BURZA Alojz r. Burza	súr.Mária,Vincent,Juraj,Albert,Jozef	0	4551,4605
+322	BURZA Jozef r. Burza	súr.Mária,Vincent,Juraj,Albert,Alojz	0	4605
+322	BURZA Juraj r. Burza	m.Etela r.Plichtová	0	4605
+322	Burza Juraj r. Burza a Etela Burzová r. Plichtová		0	7221
+322	BURZA Michal r. Burza	ž.Mária Častkovce č.31	0	7203

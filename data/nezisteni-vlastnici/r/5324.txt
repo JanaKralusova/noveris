@@ -1,0 +1,256 @@
+3003	Štrbáňová Apolónia r. Dzureková		0	5067,5467,5495,5932,6094,6442,6541
+3003	Štrbáňová Mária		0	1253,4043,5386,5467,5495,5922,6199,6299,6828
+3003	Štrbáňová Terézia		0	4068,4696,5091,5467,5495,5927,6091,6661,6662,6663,6664,6665
+3003	Štrbová Mária r. Štrbová		0	5648,5650
+3003	Šubjak Alojz r. Šubjak		0	5797,5914
+3003	Šubjak Bohuslav r. Šubjak	mal	0	3383,5467,5495,5797,5874,5949,5954,6552,6553
+3003	Šubjak Ján r. Šubjak		0	3383,5467,5495,5797,5874,5949,5954,6552,6553
+3003	Šubjak Ľudovít r. Šubjak		0	5605,5606,5608,5949,5954,6552,6553
+3003	Šubjak Ľudovít r. Šubjak	syn Cyrila	0	5607
+3003	Šubjak Štefan r. Šubjak		0	5949,5954,6552,6553
+3003	Šubjaková Božena	mal	0	3383,5467,5495,5797,5874,5949,5954,6552,6553
+3003	Šubjaková Helena	mal	0	3383,5467,5495,5797,5874,5949,5954,6552,6553
+3003	Šuhaj Štefan r. Šuhaj		0	5822
+3003	Šurinová Apolónia r. Schifferdeckerová		0	5467,5495,5768,5919,5920,6298,6389,6424,6574,6580,6845
+3003	Šurinová Katarína		0	5487
+3003	Švechová Viktória r. Hlavajová		0	5467,5495,5771,5935,5952
+3003	Tisončík Ján r. Tisončík	ž.Cecília Piľová	0	2966
+3003	Tisončik Martin r. Tisončik		0	302
+3003	Tisončík Matej r. Tisončík		0	5467,5495,5944,5945,6825,6826,6827
+3003	Tisončíková Johana r. Šimalová		0	5996
+3003	Titrová Mária r. Merešová		0	4814,5467,5495,5571,5924,6418,6512,6629,7114
+3003	Tješ Jozef r. Tješ	mal	0	5668
+3003	Tješš Štefan r. Tješš		0	5420,5467,5495,5934,6498,6499,6894,7039
+3003	Trabaleková Jozefína r. Stankovičová		0	198
+3003	Trstenská Katarína		0	5789
+3003	Trstenská Mária r. Javoreková		0	5051,5467,5495,5706,5943,6311,6480,6885,6886
+3003	Trstenská-frančeková Mária r. Paneková		0	861,862,5030,5031,5032,5467,5495,5915,5917,5934,6297,6372,6400,6401,6498,6499,6634,6762,6908,7026,7039,7056
+3003	Trstenský Jozef r. Trstenský		0	5791
+3003	Ujmiak Anton r. Ujmiak		0	5810
+3003	Varečková Mária r. Hrbčová		0	5627
+3003	Vevurková Johana r. Parižová		0	5467,5495,5498,5916,5951,6379
+3003	Vevurková Rozália r. Parižová		0	5467,5495,5498,5916,5951,6379
+3003	vlastník nie je známy		0	5467,5495
+3003	Vosesová Johana r. Gočalová		0	663,4122,5047,5467,5495,5937,6667,6780,6781,6853
+3003	Vrabcová Žofia r. Stankovičová		0	4814,5467,5495,5571,5924,6418,6512,6629,7114
+3003	Vrabček Martin r. Vrabček	Zeleň	0	2336
+3003	Vrabček Matej r. Vrabček		0	2336
+3003	Vrabček Tomáš r. Vrabček	Zeleň	0	5861
+3003	Vrabčeková Zeleň Anna r. Vrabčeková Zeleň	r.Žovjaková	0	5866
+3003	Vrabec Žofia r. Stankovič		0	4844,5467,5495,5533,5940,6146,6159,6160,6166,6236,6500,6501,6668,6671,6824
+3003	Vrabec Žofia r. Stankovič	manželka Mateja	0	4844,5467,5495,5533,5940,6146,6159,6160,6166,6236,6500,6501,6668,6671,6824
+3003	Zmeškal Augustín r. Zmeškal		0	5467,5495,5717,5919,5920,6298
+3003	Zmeškalová Mária		0	5467,5495,5717,5919,5920,6298
+3003	Železňak Marian r. Železňak		0	2845,5361,5362,5363,5465,5466,5554
+3003	Žolná Andrej		0	3841
+3003	Žolná Štefan		0	3841
+3004	Ágh Daniel		0	908
+3004	Agliová Mária r. Mészárosová		0	823
+3004	Álló Lörinc	súr.Viktória,Michal,Cecília	0	500
+3004	Állóvá Emília r. Ocsvayová	m.Vojtech	0	839,840
+3004	Állóvá Viktória	súr.Katarína,Lóri,Michal,Cecília,Terézia; súr.Katarína,Lóri,Michal,Cecília,Terézia	0	835
+3004	Almási Anton	súr.Rozália,František,Karol,Mária	0	551,858
+3004	Almási Karol	súr.Rozália,František,Anton,Mária	0	551,858
+3004	Almásiová Alžbeta	súr.Rozália,František,Anton,Mária	0	551,858
+3004	Ambrusová Rozália		0	831
+3004	Antalová Helena r. Tóthová		0	470,472,473,474,548,825
+3004	BABIAKOVA KATARINA KANADA		0	345
+3004	Bartalos Jozef	súr.Mária,Július	0	864
+3004	Bartalos Július	súr.Mária,Jozef	0	903
+3004	Bartalosová Alžbeta r. Bognárová		0	903
+3004	Bölcs Michal	ž.Terézia r.Lelkesová	0	876
+3004	Bölcsová Terézia r. Lelkesová	m.Michal	0	876
+3004	Bölcsová Viktória r. Kovácsová		0	867
+3004	Boriková Magdaléna	Nemecko	0	500,827
+3004	Boros Štefan	súr.Alžbeta,Vincent,Helena	0	905
+3004	Boros Vincent	súr.Alžbeta,Helena,Štefan	0	905
+3004	Borosová Helena	súr.Alžbeta,Vincent,Štefan	0	905
+3004	Budayová Mária r. Srböková	m.Michal	0	716
+3004	Bugár Ladislav	súr.Agnesa,Mária,Alžbeta,Terézia,Justína	0	587
+3004	Csaplár Ján	súr.Jozef,František,Mária	0	477,855,860,986
+3004	CSAPLAR LUDOVIT		0	428
+3004	Csaplárová Edita	súr.Štefan,Ladislav	0	477,860,986
+3004	Csiba Jozef		0	904
+3004	Csibová Karolína r. Soósová	m.Andrej	0	740,904
+3004	Csomorová Alžbeta r. Kovácsová	m.Karol	0	454,731
+3004	Csomorová Antónia r. Andrásiová	m.Vincent	0	905
+3004	Csomorová Helena r. Kovácsová	m.Jozef	0	454,731
+3004	Doboczký Michal	sestra Júlia	0	604
+3004	Döményová Emerencia r. Magyaricsová	m.Gabriel	0	611
+3004	Dunai Ján	súr.Jozef,Terézia	0	866
+3004	Dunai Jozef	súr.Ján,Terézia	0	866
+3004	Erdélyi Anton	súr.Karol,Anna,Barbora	0	552
+3004	Erdélyi Karol	súr.Anna,Barbora,Anton	0	552
+3004	Erdélyi Teodor	súr.Mária,Elena,Valéria	0	552
+3004	Erdélyiová Anna	súr.Karol,Barbora,Anton	0	552
+3004	Erdélyiová Barbora	súr.Karol,Anna,Anton	0	552
+3004	Erdélyiová Mária	súr.Teodor,Elena,Valéria	0	552
+3004	Erdélyiová Valéria	súr.Teodor,Elena,Mária	0	552
+3004	Farkas Michal	nadácia pre rodinu	0	874
+3004	Feketeová Mária r. Bugárová		0	587
+3004	Feketeová Mária r. Hegyiová		0	385,436,437,438,439,440,568,932,1074
+3004	Földes Július	súr.Zita,Mária,Gizela,Rozália,Štefan	0	658
+3004	Földes Štefan	súr.Július,Zita,Mária,Gizela,Rozália	0	658
+3004	Földes Vincent		0	881
+3004	Földes Vincent	ž.Mária r.Ambrusová	0	851
+3004	Göndör František	súr.Gejza,Irena,Jozef	0	651,746,767,831,850
+3004	Göndör Gejza	súr.František,Irena,Jozef	0	651,746,767,831
+3004	Gureová Alžbeta r. Borosová		0	905
+3004	Gyeváthová Eleonóra r. Kovácsová	m.Ján	0	454,731
+3004	HAUER JAN		0	402,661,662,694,971
+3004	Hauerová Alžbeta	súr.Mária,Adorján	0	367
+3004	Hegyiová Terézia	súr.Mária,Gizela	0	587
+3004	Horňáčeková Terézia r. Bugárová		0	587
+3004	Horváth Martin	ž.Mária r.Kovácsová	0	350,817
+3004	Horváthová Mária r. Kovácsová	m.Martin	0	350,817
+3004	Horváthová Veronika r. Földesová		0	473
+3004	Író Štefan	súr.Karol,Jozef	0	404,930
+3004	Íróová Justína r. Bugárová		0	587
+3004	Jógerová Aranka r. Soósová		0	895
+3004	Katonová Anna		0	893
+3004	Kottová Mária r. Kovácsová		0	454,731
+3004	Kovács Štefan	súr.Mária,Alžbeta,Július,Eleonóra	0	454,731
+3004	Kovácsová Alžbeta r. Mészárosová	m.Jozef	0	454,731
+3004	Kovácsová Matilda		0	912
+3004	Kovácsová Terézia r. Dunaiová	m.Jozef	0	866
+3004	Kováč Jozef		0	865
+3004	Krascsenitsová Rozália r. Cséfalvayová		0	879
+3004	Kulcsár Alexander	súr.Peter,Anna,Júlia	0	611
+3004	Kulcsár Peter	súr.Alexander,Anna,Júlia	0	611
+3004	Kulcsárová Anna	súr.Peter,Alexander,Júlia	0	611
+3004	Kulcsárová Júlia	súr.Peter,Alexander,Anna	0	611
+3004	Lukács Štefan		0	498
+3004	Magyarics Ján		0	611
+3004	Magyarics Jozef		0	611
+3004	Makki Peter		0	587
+3004	Menyhárt Jozef		0	815
+3004	Menyhártová Alžbeta	súr.Helena,Jozef,Mária,Valéria	0	815
+3004	Menyhártová Valéria	súr.Helena,Jozef,Mária,Alžbeta	0	815
+3004	Méri František	brat Ján	0	888
+3004	Méri Ján	brat František	0	405,406,888,968
+3004	Mériová Mária		0	712,885
+3004	MERY VILEMA		0	518
+3004	Méryová Magdaléna	súr.Eleonóra,Alžbeta,Helena,Anna	0	799,945
+3004	Mészáros František	ž.Františka r.Herdicsová	0	844
+3004	Mészáros Gejza		0	870
+3004	Mészáros Ján		0	911
+3004	Mészáros Ondrej		0	837
+3004	Mészárosová Agnesa	súr.Vojtech,Julianna,Gabriel	0	610,611,612,712
+3004	Mészárosová Alžbeta r. Hervayová	m.Andrej	0	837
+3004	Mészárosová Františka r. Herdicsová	m.František	0	844
+3004	Mészárosová Jolana	súr.Štefan,Alžbeta,Imrich	0	203
+3004	Mészárosová Júlia r. Doboczká		0	604
+3004	Mészárosová Katarína		0	823
+3004	Mészárosová Mária	súr.Terézia,Michal,Vincent	0	827
+3004	Mészárosová Mária r. Földesová	Budapešť	0	658
+3004	Mészárosová Mária r. Szalayová		0	627
+3004	Mészárosová Terézia r. Állóvá	m.Peter	0	448
+3004	Mészárosová Valéria		0	821
+3004	Miklóšová Terézia r. Földesová	m.Július	0	658
+3004	Mucsková Helena		0	454,731
+3004	Nagy Alexander	súr.Alžbeta,Mária,Ján,Karol,Jozef	0	890
+3004	Nagy Alexander	súr.Arpád,Ľudovít,Imrich,Mária,Helena	0	829
+3004	Nagy Arpád	brat Pavol	0	378,385,391
+3004	Nagy Arpád	súr.Alexander,Ľudovít,Imrich,Mária	0	829
+3004	Nagy Blažej	brat Ján	0	651
+3004	Nagy František		0	889
+3004	Nagy Imrich	súr.Arpád,Alexander,Ľudovít,Mária,Helena	0	829
+3004	Nagy Ján	slabomyselný,brat Blažej	0	651
+3004	Nagy Ján	súr.Alžbeta,Alexander,Mária,Karol,Jozef	0	890
+3004	Nagy Ján	súr.Arpád,Alexander,Ľudovít,Mária	0	829
+3004	Nagy Ján	súr.Helena,Matej	0	899
+3004	Nagy Jozef	brat Ján	0	899
+3004	Nagy Jozef	súr.Alžbeta,Alexander,Mária,Karol,Ján	0	890
+3004	Nagy Jozef	súr.Arpád,Alexander,Ľudovít,Mária	0	829
+3004	Nagy Karol	brat Jozef	0	896
+3004	Nagy Ľudovít	súr.Arpád,Alexander,Imrich,Mária,Helena	0	829
+3004	Nagy Matej	súr.Arpád,Alexander,Ľudovít,Mária	0	829
+3004	Nagy Matej	súr.Helena,Ján	0	899
+3004	Nagy Štefan	súr.Ján,Mária,Alžbeta	0	602,603,604
+3004	Nagy Štefan	súr.Július,Karol,Mária	0	379
+3004	Nagyová Alžbeta	súr.Alexander,Mária,Ján,Karol,Jozef	0	890
+3004	Nagyová Alžbeta r. Bugárová		0	587
+3004	Nagyová Helena	súr.Arpád,Alexander,Ľudovít,Mária	0	829
+3004	Nagyová Helena	súr.Matej,Ján	0	899
+3004	Nagyová Mária	súr.Alexander,Alžbeta,Ján,Karol,Jozef	0	890
+3004	Nagyová Mária	súr.Július,Karol,Štefan	0	379
+3004	Nagyová Verona r. Állóová	m.Ján	0	603
+3004	Némethová Gizela r. Hegyiová	m.Lörinc	0	587
+3004	Nógell Ignác	súr.Mária,Ladislav,Alexander,Kornélia	0	778
+3004	Nógell Juraj		0	878
+3004	Nógellová Berta r. Mészárosová	m.Vincent	0	339
+3004	Nógellová Irena r. Soósová		0	871
+3004	Orbán Jozef	sestra Mária	0	917
+3004	Orbán Štefan		0	548
+3004	Orbánová Mária	brat Jozef	0	917
+3004	Paulicsek Michal		0	712
+3004	Paulovicsová Mária	súr.Helena,Gašpar	0	858
+3004	Pavlicseková Etela		0	712
+3004	Putzová Mária r. Molnárová		0	848
+3004	Sátor Otto	súr.Gejza,Jozef,Mária,Štefan	0	522,523,524,793,854,957
+3004	Sátorová Katarína	sestra Mária	0	522,523,524,793,854,957
+3004	Sátorová Mária	sestra Katarína	0	522,523,524,793,854,957
+3004	Sidóová Cecília	súr.Štefan,Terézia,Anna,Anton,František	0	465
+3004	Sidóová Terézia	súr.Štefan,Anna,Anton,Cecília,František	0	465
+3004	Simonics Anton	ž.Irena r.Göndörová	0	831
+3004	Simonicsová Irena r. Göndörová		0	746,767,850
+3004	Somogyi Eugen	súr.Štefan,Koloman,Izebela	0	396,397
+3004	Somogyi Florián		0	883
+3004	Somogyi Laurinec		0	862
+3004	Somogyiová Mária	brat Štefan	0	396,397
+3004	Soós Jozef	spodný	0	916
+3004	Soósová Alžbeta r. Tóthová	m.Štefan	0	915
+3004	Steiner Adolf	ž.Janka r.Kohnová	0	868
+3004	Steinerová Janka r. Kohnová	m.Adolf	0	868
+3004	Szakáll František	súr.Ján,Mária,Štefan,Lörinc,Imrich	0	648
+3004	Szakáll Imrich	súr.Ján,Mária,František,Štefan,Lörinc	0	648
+3004	Szakáll Ján	súr.Mária,František,Štefan,Lörinc,Imrich	0	648
+3004	Szakáll Lörinc	súr.Ján,Mária,František,Štefan,Imrich	0	648
+3004	Szakáll Štefan	súr.Ján,Mária,František,Lörinc,Imrich	0	648
+3004	Szakállová Mária	súr.František,Štefan,Lörinc,Imrich	0	648
+3004	Szakálová Alžbeta r. Mygyaricsová	m.Gabriel	0	611
+3004	Šinkovičová Elena r. Erdélyiová		0	552
+3004	Takácsová Mária r. Tóthová		0	470,471,472,473,474,548,825
+3004	Tehlárová Helena r. Világiová		0	448
+3004	Timárová Eleonóra r. Méryová		0	554,675,799,945
+3004	Tóth Jozef		0	872
+3004	Vajasová Agnesa r. Bugárová		0	587
+3004	Vajasová Alžbeta	sestra Mária	0	894
+3004	Vajasová Helena	súr.Ján,Magdaléna,Rozália	0	842
+3004	Vajasová Mária	sestra Alžbeta	0	894
+3004	Varjasiová Mária r. Nagyová	m.Karol	0	829
+3004	Vaskovics Imrich	súr.Alžbeta,Mária,Terézia,Jozef,Štefan	0	918
+3004	Vaskovics Štefan	súr.Imrich,Alžbeta,Mária,Terézia,Jozef	0	918
+3004	Vaskovics Vendelín	súr.Imrich,Alžbeta,Mária,Terézia,Jozef	0	918
+3004	Vaskovicsová Terézia	súr.Imrich,Alžbeta,Mária,Jozef,Štefan	0	918
+3004	Vass Alojz	súr.Anna,Mária,Anton,Július,Michal	0	611
+3004	Vass Alojz	súr.Ignác,Jozef,Štefan,Balász,Vincent	0	611
+3004	Vass Anton	súr.Anna,Mária,Július,Michal,Alojz	0	611
+3004	Vass Balázs	súr.Ignác,Jozef,Alojz,Štefan,Vincent	0	611
+3004	Vass Ignác	súr.Jozef,Alojz,Štefan,Balász,Vincent	0	611
+3004	Vass Jozef	súr.Ignác,Alojz,Štefan,Balász,Vincent	0	611
+3004	Vass Július	súr.Anna,Mária,Anton,Michal,Alojz	0	611
+3004	Vass Michal	súr.Anna,Mária,Anton,Július,Alojz	0	611
+3004	Vass Štefan	súr.Ignác,Jozef,Alojz,Balász,Vincent	0	611
+3004	Vass Vincent	súr.Ignác,Jozef,Alojz,Štefan,Balázs	0	611
+3004	Vassová Anna	súr.Mária,Anton,Július,Michal,Alojz	0	611
+3004	Vassová Júlia	súr.Anna,Mária,Anton,Július,Michal	0	611
+3004	Vassová Mária	súr.Anna,Anton,Július,Michal,Alojz	0	611
+3004	Vighová Anna r. Sidóová	m.František	0	465
+3004	Világiová Mária r. Tóthová		0	910
+3004	Vinicsenková Emma r. Földesová	m.Karol	0	658
+3004	Wiener Vojtech Dr.		0	622,711,755,856,857
+3004	Zsolnay Štefan	ž.Rozália r.Csiziková	0	869
+3005	ANTOŠKA Ján	ž.Zuzana r.Kováčová	0	395,897,931
+3005	ANTOŠKOVÁ Zuzana r. Kováčová	ž.Jána	0	395,897,931
+3005	BALÁŽ Adam	ž.Zuzana r.Kulhavá, nebohý	0	932
+3005	BALÁŽ Michal	brat Matej v Jalovci	0	874
+3005	BALÁŽOVÁ Anna	r.Balážová	0	697
+3005	BALÁŽOVÁ Božena r. Chlumová	vd.ž.Petra	0	696,697,698
+3005	Bellušová Juliana r. Udvaryová	ž.Štefana	0	629,698
+3005	BELUŠ Jozef		0	732
+3005	BELUŠ Jozef USA		0	776
+3005	BELUŠ Štefan	zom.28.6.1964,ž.Júlia r.Udváryová	0	732,839
+3005	BELUŠ Štefan	ž.Júlia r.Udvaryová	0	776
+3005	BELUŠOVÁ Júlia r. Udváryová	zom.3.8.1986, ž.Štefana	0	839
+3005	BENDA Ján		0	442

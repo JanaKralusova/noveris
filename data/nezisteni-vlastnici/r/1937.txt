@@ -1,0 +1,256 @@
+1134	ROHUN Ladislav		1	335,493,495,628,630,631
+1134	ROHUN Michal		1	335,466,493,630
+1134	ROHUN Vasiľ		1	335,493,630
+1134	ROHUNOVÁ Anastázia		1	628
+1134	ROHUNOVÁ Anastázia r. Badidová		1	488,491,499,618,624,628,773,834
+1134	ROHUNOVÁ Anna		1	335,488,491,493,630,773,774
+1134	ROHUNOVÁ Anna r. Vondová		1	617
+1134	ROHUNOVÁ Helena		1	335,488,491,493,630,773
+1134	ROHUNOVÁ Helena r. Cacarová		1	630,631
+1134	ROHUNOVÁ Júlia r. Halaganová		1	466
+1134	ROHUNOVÁ Katarína		1	335,493,495,628,630,631
+1134	ROHUNOVÁ Mária		1	335,488,491,493,495,628,630,631,773,774
+1134	ROHUNOVÁ Terézia		1	335,493,495,628,630,631
+1134	ROĽ DERJANIN Michal		1	485,628
+1134	ROĽ Juraj		1	617
+1134	ROĽ Michal		1	391
+1134	ROĽ Vasiľ		1	617
+1134	ROĽOVÁ Mária		1	617
+1134	ROĽOVÁ Mária r. Turbaková		1	285,397,478,512,524,531
+1134	ROMAN Michal		1	393,617
+1134	SENA Andrej		1	321
+1134	SENTIVÁN Andrej		1	471
+1134	SENTIVÁN Juraj		1	441,471
+1134	Sentiván Michal	manž. Naca r. Kerekaničová	1	423,471,887,888,891
+1134	SENTIVÁNOVÁ Anna		1	471
+1134	SENTIVÁNOVÁ Anna r. Turbaková		1	285,397,478,512,524
+1134	SENTIVÁNOVÁ Júlia r. Kerekaničová		1	441,464,520,523
+1134	SENTIVÁNOVÁ Mária		1	471
+1134	SENTIVÁNOVÁ Mária r. Sochanová		1	396,398,617,654
+1134	SENTIVÁNOVÁ Terézia		1	471
+1134	SEVKOVÁ Mária		1	508,617,675,676
+1134	SCHÖNBERGER Ján		1	622
+1134	SLIVKOVÁ Anna r. Kačurová		1	316,628,644
+1134	SLIVKOVÁ Terézia r. Kačurová		1	316,628,644
+1134	SOCHAN Andrej		1	396,398,617,654
+1134	SOCHAN Ján		1	392,396,398,617,654
+1134	SOCHAN Juraj		1	392,396,398,427,437,617,654
+1134	SOCHAN Mikuláš		1	396,398,617,654
+1134	SOCHAN Štefan		1	617
+1134	SOCHAN Tivadar		1	396,398,617,654
+1134	SOCHAN Vasiľ		1	392,396,398,617,654
+1134	SOCHANOVÁ Anna		1	392,396,398,617,654
+1134	SOCHANOVÁ Anna r. Cihrová		1	434
+1134	SOCHANOVÁ Anna r. Guzaničová		1	437
+1134	SOCHANOVÁ Júlia r. Sejnová		1	427
+1134	STANKO Ján		1	267,402,486,620,627,629,881
+1134	STANKO Juraj		1	267,322,402,486,620,627,629,881
+1134	STANKO Michal		1	267,402,486,620,627,629,881
+1134	STANKO Šimon		1	628
+1134	STANKO Vasiľ		1	267,322
+1134	STANKOVÁ Anna r. Jevčičová		1	322
+1134	STANKOVÁ Helena		1	267,402,486,620,627,629,881
+1134	STANKOVÁ Mária r. Kačurová		1	322
+1134	SULIMANOVÁ Anna		1	342,462,476,617
+1134	SUROVÁ Mária r. Klecová		1	487,772
+1134	SVITIČ Michal		1	45
+1134	SVITIČOVÁ Anna r. Beľová		1	45
+1134	ŠULIMAN Fedor		1	617
+1134	ŠULIMAN Vasiľ		1	476,617
+1134	ŠULIMANOVÁ Anna r. Turbáková		1	285,478,512,524,531
+1134	ŠULIMANOVÁ Júlia r. Prislupčáková		1	413
+1134	ŠVÁB Jozef		1	333,766
+1134	ŠVÁBOVÁ Mária r. Mandzáková		1	323,484,771,883
+1134	ŠVAJKA Andrej		1	376,385,420,470,617,681
+1134	ŠVAJKA Michal		1	376,385,420,470,471,516,617,681
+1134	ŠVAJKO Ján		1	617
+1134	ŠVAJKO Juraj		1	617
+1134	ŠVAJKOVÁ Ilona r. Vajdová		1	152
+1134	ŠVAJKOVÁ Júlia r. Šulimanová		1	397
+1134	ŠVAJKOVÁ Terézia r. Turbaková		1	394
+1134	ŠVAJKOVÁ Xénia		1	376,385,420,470,617,681
+1134	TELEHA Ján		1	433
+1134	TELEHA Juraj		1	237,490,628
+1134	TELEHOVÁ Anna r. Cihrová		1	617
+1134	TELEHOVÁ Anna r. Klepcová		1	433
+1134	TELEHOVÁ Mária r. Coričová		1	508,675,676
+1134	TELEPJANOVÁ Mária r. Cihrová		1	617
+1134	TISANČIN Juraj		1	617
+1134	TISANČINOVÁ Mária r. Šulimanová		1	476,617
+1134	TÖRÖK Ernest, Dr.		1	403,458
+1134	TURBAK Andrej		1	617
+1134	TURBAK Fedor		1	442
+1134	TURBAK Ján		1	249,285,342,347,388,390,391,397,400,457,461,462,471,473,475,477,478,482,496,512,515,524,531,617,842,843,909
+1134	TURBAK Juraj		1	249,285,388,390,391,400,471,473,475,477,515,617,842,843,909
+1134	TURBAK Michal		1	249,321,342,347,375,388,390,391,396,400,410,461,462,469,471,473,475,477,479,482,515,525,617,842,843,909
+1134	TURBAK Mikuláš		1	390,391,475,477,515,843,909
+1134	TURBAK Vasiľ		1	249,388,390,391,400,471,473,475,477,515,842,843,909
+1134	TURBÁKOVÁ Anna r. Kocová		1	344,464,494,520,523
+1134	TURBAKOVÁ Anna r. Kochanová		1	410
+1134	TURBAKOVÁ Anna r. Piteľová		1	457,518
+1134	TURBAKOVÁ Helena		1	285,397,478,512,524,531,617
+1134	TURBAKOVÁ Helena r. Mandzáková		1	424
+1134	TURBAKOVÁ Helena r. Piteľová		1	342,347,461,462,469,482,617
+1134	TURBAKOVÁ Júlia		1	397
+1134	TURBAKOVÁ Mária		1	285,394,397,478,512,524,531,682
+1134	TURBAKOVÁ Naca r. Galambošová		1	442
+1134	TURBAKOVÁ Olina		1	504
+1134	TURBAKOVÁ Terézia		1	285,397,478,512,524,531,617
+1134	VAJDA Fedor		1	152,460,506,554,617
+1134	VAJDA Ján		1	152,375,454,506,521,617
+1134	VAJDA Juraj		1	152,316,506,521,617,628,644
+1134	VAJDA Michal		1	152,316,460,506,554,628,644
+1134	VAJDA Vasiľ		1	152,440,506,521,617
+1134	VAJDOVÁ Anna		1	152,460,506,554,617
+1134	VAJDOVÁ Anna r. Badidová		1	440,501,628
+1134	VAJDOVÁ Anna r. Glogovská		1	349,396,398,474,510,513,518,617,654
+1134	VAJDOVÁ Helena		1	152,506,521,617
+1134	VAJDOVÁ Júlia		1	152,460,506,554,617
+1134	VAJDOVÁ Mária		1	152,460,506,554,617
+1134	VAJDOVÁ MÁRIA r. MARUNIČOVÁ		0	9
+1134	VAJDOVÁ Mária r. Turbaková		1	454
+1134	VAJDOVÁ Naca		1	617
+1134	VALALSKÝ Juraj		1	401,403,617
+1134	VALALSKÝ Vasiľ		1	401
+1134	VALDMANNOVÁ Hana		1	396,398,654
+1134	VARGULIČ Michal		1	447
+1134	VARGULIČOVÁ Mária r. Švajková		1	400,420,447,516
+1134	VASILŇÁK Eliáš		1	621,885
+1134	VASILŇÁKOVÁ Anna r. Glogovská		1	621,885
+1134	VOLOCH Michal		1	344
+1134	VOLOCHOVÁ Terézia r. Šimková		1	500,628
+1134	VONDA Andrej		1	617
+1134	WIENKLER Claus		1	328,374,626
+1135	Belfi Štefan r. Belfi	zom.17.3.1968	0	826
+1135	Belfiová Zuzana r. Košková	zom.25.10.1987	0	826
+1135	Bogár Ján		0	748,760,910
+1135	Bogár Ondrej		0	684,712,748,760,901,909,910,940,982
+1135	Czimer Gejza		0	728
+1135	Dávid Karol	ž.Júlia r.Viziová	0	827,846
+1135	Ďurčat Marko	ž.Mária r.Melicherová	0	851
+1135	Farkašová Rozália	mal	0	854
+1135	Gálfy Daniel r. Gálfy	zom.10.8.1967	0	800
+1135	Hamran Alexander	ž.Etela r.Páleniková	0	834,845
+1135	Hamranová Rozália r. Gálová	Szücsová	0	841,842,852
+1135	Hamranová Rozália r. Gálová, Szücsová		0	853
+1135	Jakab Ondrej		0	769
+1135	Jakab Ondrej	ž.Rozália r.Kuciová	0	831
+1135	Király Viliam		0	865
+1135	Kiss Ľudovít r. Kiss		0	808
+1135	Krajči Ján	Kotora	0	859,860
+1135	Krajči Kotor Ján		0	689,690,896,897
+1135	Kuci Ondrej		0	592
+1135	Kuciová Alžbeta r. Kundákerová		0	592
+1135	Kuczy Ľudovít		0	934
+1135	Kuczy Ľudovít	ž.Lenka r.Kecskeméthová	0	824
+1135	Kuczyová Lenka r. Kecskeméthová	m.Ľudovít	0	824
+1135	Kuczyová Lenka r. Kecskeméthyová		0	934
+1135	Lepiš Jozef r. Lepiš	zom.14.10.1977	0	802
+1135	Lepiš Matej r. Lepiš	zom.16.6.1986	0	803
+1135	Lepišová Zuzana r. Gajdošová	zom.17.2.1982	0	803
+1135	Lócsaiová Vilma r. Patayová		0	859
+1135	Matejka Adam r. Matejka	zom..8.9.1976	0	799
+1135	Matejková Ema r. Dančíková	zom.6.12.1985	0	799
+1135	Mészáros Pavol		0	601,869
+1135	Mészároš Ondrej	ž.Alžbeta r.Haraová	0	835
+1135	Mészároš Štefan		0	811
+1135	Mészárošová Irena r. Gálová	Szücsová, m. Július	0	852
+1135	Mészárošová Irena r. Gálová	Szücsová, manž. Július	0	850
+1135	Mészárošová Irena r. Gálová, Szücsová	manž. Július	0	853,856
+1135	Mészárošová Rozália r. Kúcsová	m. Karol	0	863
+1135	Mihálková Helena r. Kreková		0	757
+1135	Mihálková Helena r. Kreková	vdova	0	830
+1135	Molnár Július	ml	0	823
+1135	Molnár Ľudovít		0	840
+1135	Molnár Ondrej, SR		0	768
+1135	Mrázik Ján	ž.Margita r.Šublová	0	836
+1135	Mráziková Margita r. Šublová	m.Ján	0	836
+1135	Nagy Štefan		0	622
+1135	Nagy Štefan, SR		0	784
+1135	Nagyová Helena r. Márföldyová		0	622
+1135	Ondro Alojz		0	592
+1135	Ondrová Štefánia r. Maťková		0	592
+1135	Patai Simon		0	892
+1135	Patai Viliam	ž.Jolana r.Vargová	0	810
+1135	Patay Šimon		0	682,683
+1135	Patayová Estera r. Dudášová		0	868
+1135	Peterkeová Rozália r. Vargová	vdova	0	820,847
+1135	Rybarič Július		0	690,897
+1135	Rybarič Július	ž.Emília r.Severová	0	859,860
+1135	Rybaričová Emília r. Severová		0	690,897
+1135	Rybaričová Emília r. Severová	m.Július	0	859
+1135	Rybaričová Emília r. Severová	manž. Július	0	860
+1135	Sklenár František	mal	0	859,860
+1135	Sklenárová Anežka r. Krajči Kotorová		0	689,896
+1135	Sklenárová Mária		0	859,860
+1135	Szűcsová Johana r. Vargová		0	728
+1135	Šurányi Jozef		0	598,601,869
+1135	Šurányi Ľudovít		0	598,601,869
+1135	Takáč Michal	ž.Helena r.Ďurešková	0	832,845
+1135	Toroková Irena r. Mészárosová		0	779,818,822
+1135	Toroková Irena r. Mészárosová, SR		0	780
+1135	Varga Ladislav r. Varga		0	726,954
+1135	Vargová Agneša r. Szücsová	m.Ladislav	0	848
+1135	Vörös Ľudevít		0	727
+1135	Zilaiová Žofia r. Lászlová		0	831
+1135	Zilaiová Žofia r.Lászlová		0	769
+1136	Arnsteinová Henrietta r. Kufferová		0	1855
+1136	Bánoczy Aladár	súr.Helena	0	1855
+1136	Bednárik Ján	m.Amália r.Valovičová,č.328	0	1785
+1136	Biermann Peter	maloletý,súr.Viera,Judita,Rudolf	0	1730
+1136	Biermann Rudlof	maloletá,súr.Peter,Viera,Judita	0	1730
+1136	Biermannová Judita	maloletá,súr.Peter,Viera,Rudolf	0	1730
+1136	Biermannová Viera	maloletá,súr.Peter,Judita,Rudolf	0	1730
+1136	Bolech Ondrej		0	1841
+1136	Bolechová Eva r. Kubanová	čp.371	0	1724
+1136	Boorová Anna r. Rošková		0	1860
+1136	Bučková Eva r. Kukučková	čp.111	0	824,1556
+1136	Bušová Katarína r. Kukučková		0	1371
+1136	Dovina Adam	m.Eva r.Vojtovičová,č.165	0	1651
+1136	Dovina Adam	m.Zuzana r.Filipová,č.97	0	1740
+1136	Dovina Ján	otec Ján,matka Zuzana r.Mišechová	0	1656
+1136	Dovina Ján	súr.Pavol	0	1069
+1136	Dovina Ondrej	m.Zuzana r.Škulecová,Beckov DD	0	1744
+1136	Dovina Ondrej	otec Ondrej	0	1798
+1136	Dovina Štefan	hluchonemý,otec Pavol,čp.47	0	1747
+1136	Dovina Štefan	m.Zuzana r.Dubravčíková,č.156	0	1273
+1136	Dovinová Katarína r. Durišová	č.66	0	1802
+1136	Dubravčík Juraj	otec Juraj,čp.164	0	1615
+1136	Dubravčík Martin	m.Eva r.Chrenková	0	1641
+1136	Ďuriš Ondrej	m.Zuzana r.Valovičová,č.391	0	1857
+1136	Ďurišová Emília r. Kukučková	Hrachovište	0	394,1631
+1136	Erbenová Jozefa r. Kucharovičová	Partizánske	0	843,865,1226,1500
+1136	Filip Adam	m.Alžbeta r.Potočková	0	1366,1367,1600
+1136	Filip Adam	m.Anna r.Hladká,čp.227	0	841
+1136	Filip Ján	otec Ján,čp.140	0	841,865,1226,1500
+1136	Filip Ondrej	m.Anna r.Šimová,čp.159	0	957,959,961,964
+1136	Filip Ondrej	m.Eva r.Juríková,čp.140	0	841
+1136	Filip Ondrej	m.Zuzana r.Hladká,čp.190	0	1806
+1136	Filipová Anna r. Valovičová	čp.59	0	962
+1136	Fuchsová Šarlota r. Kufferová		0	1855
+1136	Gerliciová Hermína r. Valovičová	čp.166	0	1637,1897
+1136	Gocsarová Helena r. Bánoczyová		0	1855
+1136	Gonová Zuzana r. Zaťková	Lúka ,Nové Mesto n.Váhom	0	1657
+1136	Hajduchová Anna r. Krchnavá	čp.98	0	1696
+1136	Hanáčková Zuzana r. Kvačalová		0	1061
+1136	Heberová Emília	Kamenná 10,Nové Mesto n.Váhom	0	1809
+1136	Hladká Eva r. Valovičová	m.Ján,čp.49	0	432
+1136	Hladká Katarína r. Hladká	m.Adam,čp.54	0	968
+1136	Hladký Adam	m.Zuzana r.Michalíková,čp.103	0	1854
+1136	Hladký Štefan	m.Anna r.Hladká,čp.220	0	1821
+1136	Hromek Dušan r. Hromek	otec Karol,Brno	0	1770
+1136	Hrušovská Zuzana r. Dubravčíková	m.Štefan,čp.351	0	1644
+1136	Hrušovský Štefan	m.Zuzana r.Dubravčíková,čp.164	0	829,1644
+1136	Hubina Pavol	spolud.Mária Floriková,Anna Kelešiová	0	1022
+1136	Chomická Anna r. Michalíková		0	1102,1582,1969,2010
+1136	Jakuš Ján a Pavlína Jakušová r. Dodková		0	1563
+1136	Jakuš Štefan	m.Anna r.Miškusová	0	1662
+1136	Jakušová Katarína r. Važanová	čp.60	0	1645
+1136	Jančová Zuzana r. Valovičová	č.37	0	1711
+1136	Jašo Adam	m.Katarína r.Sedláková,Bratislava	0	1617
+1136	Jiríček František	m.Karolína r.Vítteková,čp.107	0	1790
+1136	Jiríčková Karolína r. Vítteková	čp.107	0	1731
+1136	Jurík Adam	m.Margita r.Netzlová,čp.74	0	1630
+1136	Jurík Ján		0	994,1129
+1136	Jurík Ján	č.132	0	1424,1568,1569
+1136	Jurík Ondrej	m.Katarína r.Plašeková,čp.184	0	1670

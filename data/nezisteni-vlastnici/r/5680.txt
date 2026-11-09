@@ -1,0 +1,256 @@
+3195	Prešinská Terézia r. Balážiová		0	91,1924,2271,2483,2693,3454,3551,3552,3711,3750,4285
+3195	Prešinská Terézia r. Gughová		0	3467,3468
+3195	Prešinská Terézia r. Kijácová		0	1750,1991,2155,2165,2470,2532,2683,2834,2837,3056,3101,3373,3699,3729,3838,3839,3977,3989,4369,4370
+3195	Prešinská Terézia r. Kurcsaová		0	1395,2861
+3195	Prešinská Vilma r. Szomorová		0	320,1822,1829,1859,2526,2637,3001,3002,3003,3049,4101,4102,4115
+3195	Prešinský Alexander r. Prešínský		0	1030,1711,1715,1991,2116,2464,2470,2676,2745,2837,3056,3838,3839
+3195	Prešinský Andrej r. Prešinský		0	2871,3286,3920
+3195	Prešinský Andrej r. Prešinský	č.d.6352/1882, m. Alžbeta Szusztorová	0	100,3236
+3195	Prešinský Andrej r. Prešinský	mal.,č.d.928/1943	0	3774
+3195	Prešinský Arpád r. Prešinský	žena Anna r. Miklová	0	3838,3839
+3195	Prešinský František r. Prešinský		0	637,2068,2073,2130,2420,2592,3286,3341,3365,3495,3698,3800,3808,3980
+3195	Prešinský František r. Prešinský	mal.,č.d.928/1943	0	3774
+3195	Prešinský Imrich r. Prešinský	syn Michala	0	1741
+3195	Prešinský Ján r. Prešinský		0	33,157,190,1713,1751,1843,1916,2026,2183,2193,2519,2593,3164,3186,3227,3533,3699,3823,3871,3980,4282
+3195	Prešinský Ján r. Prešinský	m.Rozália r. Šillerová	0	2468
+3195	Prešinský Ján r. Prešinský	mal., č.d. 514/1943	0	2116
+3195	Prešinský Jozef r. Prešinský		0	1711,1715,1770,1854,1869,1870,1876,1907,1913,1920,1925,1978,1982,1983,1984,1985,2116,2143,2158,2449,2503,2505,2544,2592,2722,2858,2871,3308,3343,3501,3529,3530,3672,3755,3945
+3195	Prešinský Jozef r. Prešinský	mal.,č.d.377/1922	0	1862,1863
+3195	Prešinský Jozef r. Prešinský	žena Anna r. Kučerová	0	3716
+3195	Prešinský Koloman r. Prešinský		0	3652
+3195	Prešinský Matej r. Prešinský	č. 379	0	4101,4102,4115
+3195	PREŠINSKÝ Michal		0	185
+3195	Prešinský Michal r. Prešinský		0	100,190,1715,1751,1798,1801,1862,1863,1916,1921,2155,2197,2593,2952,3501,3529,3530,3699,3714,3733,3929,4081
+3195	Prešinský Michal r. Prešinský	č.d.8411/1886	0	1860,1874,1875,1876,2215
+3195	Prešinský Ondrej r. Prešinský		0	99,265,266,480,481,1795,1798,1801,1860,1862,1863,1871,1872,1873,1877,2004,2420,2592,2628,3056,3057,3132,3133,3165,3184,3185,3230,3246,3320,3501,3529,3530,3580,3581,3698,3713,3764,3800,3838,3839,3929,3940,3964,3994,3995,3996,4352,4546
+3195	Prešinský Ondrej r. Prešinský	č.d.495/1949	0	3644,3808
+3195	Prešinský Ondrej r. Prešinský	st.,č.d.377/1922	0	1862,1863
+3195	Prešinský Ondrej r. Prešinský	žena Alžbeta r. Drobišová	0	4037,4048
+3195	Prešinský Pavol r. Prešinský		0	1870,3501,3529,3530
+3195	Prešinský Pavol r. Prešinský	č.d.377/1922	0	1862,1863
+3195	Prešinský Peter r. Prešinský		0	1862,1863,2837,2877,3057,3320,3501,3529,3530,3929,3980
+3195	Prešinský Peter r. Prešinský	č.d.8411/1886	0	1860,1874,1875,1876,2215
+3195	Prešinský Peter r. Prešinský	žena Terézia r. Prešinská	0	769
+3195	Prešinský Tibor r. Prešinský		0	861,1797,1819,1820,1962,2006,2146,2147,2167,2206,2308,2365,2395,2575,2677,2716,2720,2902,2905,2906,3132,3133,3258,3429,3430,3450,3451,3535,3590,3591,3595,3753,3840,3841,4195,4241,4260,4261,4432,4435
+3195	Prešinský Viliam r. Prešinský		0	542,2837,3056,3057,3838,3839,3929
+3195	Prešinský Viliam r. Prešinský	žena Vilma r. Szomorová	0	4101,4102,4115
+3195	Prešinský Vincent r. Prešinský		0	32,3714,3844,4273
+3195	Ravasová Katarína		0	2046,2149,2690
+3195	Ravasz Ján r. Ravasz		0	2041,3737,3975
+3195	Ravasz Ján r. Ravasz	žena Terézia r. Magyarová	0	669,996,1759,2026,2108,2390,2459,2461,2861,2920,3550,4011
+3195	Ravasz Laurent r. Ravasz		0	2391
+3195	Ravasz Laurent r. Ravasz	žena Terézia r. Magyarová	0	2388,2461
+3195	Ravasz Ondrej r. Ravasz	žena Alžbeta r. Prešinská	0	3362
+3195	Ravasz Ondrej r. Ravasz	žena Barbora r. Nooszáková	0	669,996
+3195	Ravasz Peter r. Ravasz	hluchonemý	0	1744,2431,3523,3975
+3195	Ravasz Szilveszter r. Ravasz		0	669,996,4011
+3195	Ravaszová Alžbeta		0	2393
+3195	Ravaszová Alžbeta r. Prešinská		0	3486
+3195	Ravaszová Emerencia r. Prešinská	m.František	0	1929,2676,3786
+3195	Ravaszová Imriška		0	3362,3650,4244
+3195	Ravaszová Katarína		0	2142
+3195	Ravaszová Katarína r. Szusztorová		0	2044,3361,3362,3592,3641,3728,3735,3819,4244
+3195	Ravaszová Terézia r. Prešinská		0	2698
+3195	Reskay Ján r. Reskay	žena Mária r. Smatanová	0	4079
+3195	Ribi František r. Ribi		0	91,1924,2271,3454,3467,3468
+3195	Ribi Michal r. Ribi		0	1787,1788,3766,4518
+3195	Ribi Michal r. Ribi	žena Rozália r. Vargová	0	268,1787,1872,2167,3340,3818,4518
+3195	Ribiová Terézia r. Mikleová		0	91,1924,2271,3454,3467,3468
+3195	Ribiová Terézia r. Szőkeová		0	1873,2004,2510,2521,4279,4280
+3195	Rošková Agneša r. Sustorová		0	340,1830,2537,2826,3009,3238,3328,3477,4349,4391
+3195	Rybi Vojtech r. Rybi		0	527,658,2410,2412,3487,3488
+3195	Sabo František r. Sabo		0	732,1040,1920,1951,2322,2327,2329,2330,2331,2334,2449,2450,2451,2452,2561,3198,3199,3308,3433,3434,3435,3505,3696,3886
+3195	Sabová Zlatica		0	732,1040,1920,1951,2322,2327,2329,2330,2331,2334,2449,2450,2451,2452,2561,3198,3199,3308,3433,3434,3435,3505,3696,3886
+3195	Sedláčeková Alžbeta r. Somorová		0	320,1822,2526,2637,3001,3002,3003,3049,3629,3711
+3195	Seneková Emerencia r. Koňová		0	4019
+3195	Setei Ján r. Setei	žena Barbora r. Mésarošová	0	4119
+3195	Seteiová Barbora r. Mésárošová		0	4119
+3195	Schranková Anna r. Borbélyová	m.Michal	0	3147,3284,3978,4299
+3195	Schwartz Dávid r. Schwartz		0	1771,2196,2868
+3195	Simová Rozália r. Prešinská	č.d.6402/1930	0	1713
+3195	Sládeček Ondrej r. Sládeček		0	3548
+3195	Sládeček Pavel r. Sládeček		0	313,1672,3062,3241,3573,3667,3752,3811,4003
+3195	Sládečková Katarína r. Jósiková		0	2881
+3195	Sládečková Magdaléna r. Sutáková		0	3691
+3195	Smatana Jozef r. Smatana	žena Katarína r. Prešinská	0	4084,4090,4115
+3195	Smatanová Júlia r. Nagyová		0	4073
+3195	Smatanová Katarína r. Prešinská		0	4084,4090,4115
+3195	Smutný Michal r. Smutný		0	4012
+3195	Somor Koloman r. Somor		0	547,1881,2278,2413,2414,2415,3425
+3195	Somor Michal r. Somor		0	547
+3195	Somor Vendelín r. Somor	žena Emerencia r. Prešinská	0	320,1822,2526,2637,3001,3002,3003,3049
+3195	Somor Vojtech r. Somor		0	1881,2278,2413,2414,2415,3425
+3195	Somorová Agneša r. Somorová		0	320
+3195	Somorová Alžbeta		0	2150,3633
+3195	Somorová Anna		0	2996,3706,3759,3942,3972
+3195	SOMOROVÁ Katarína r. Šmigurová, SR		0	185
+3195	Somorová Mária		0	2996,3706,3759,3942,3972
+3195	Somorová Vilma		0	2996,3706,3759,3942,3972
+3195	Sovič Imrich r. Sovič		0	3891
+3195	Sperkerová Margita r. Jarašeková		0	4083
+3195	Srerzsö Mihaly r. Srerzsö		0	3600
+3195	Srezso Andrej r. Srezso	žena Roza r. Morvayová	0	3684
+3195	Stanček Jozef r. Stanček		0	4048
+3195	Stanček Jozef r. Stanček	žena Magdaléna r. Čabiová	0	3677
+3195	Stančeková Katarína r. Berkešová		0	262,1925,3783,4048,4083
+3195	Stančeková Magdaléna r. Csábiová		0	2567,3671,3827
+3195	Stančeková Mária r. Nosáková		0	2666,3599,3600
+3195	Stískalová Mária r. Lieskovská		0	911,913,1951,2161,2263,2322,2323,2324,2325,2326,2327,2328,2329,2330,2331,2332,2333,2334,2450,2451,2452,2465,2560,2561,2562,2563,2794,3198,3433,3434,3435,3505,3696,3803,4296,4404
+3195	Struhár Imrich r. Struhár	žena Katarína r. Prešinká	0	2183
+3195	Struhár Koloman r. Struhár		0	3639,3706,3960
+3195	Struhárová Alžbeta r. Ravaszová		0	4011
+3195	Struhárová Katarína r. Prešinská		0	2183
+3195	Sustor František r. Sustor		0	40,1802,1857,2243,2244,2245,3082,3459,3471,3735,4358
+3195	Sustor Laurinec r. Sustor		0	3009,3547,3548,3582
+3195	Sustor Štefan r. Sustor		0	2146,2206,3429,3648,3710,4435
+3195	Sustorová Anna r. Papaiová	č.d.546/1950	0	2450
+3195	Sustorová Mária		0	2146,2206,3429,3648,3710,4435
+3195	Sustorová Mária r. Prešinská		0	2592
+3195	Szabó August r. Szabó		0	807
+3195	Szabó František r. Szabó		0	807
+3195	Szabó Imrich r. Szabó		0	807
+3195	Szabó Jozef r. Szabó	žena Mária r. Kósová	0	3234
+3195	Szabó Michal r. Szabó		0	807
+3195	Szabová Alžbeta r. Mészárosová		0	911,1951,2322,2323,2326,2327,2329,2330,2331,2334,2450,2451,2452,2561,3198,3433,3434,3435,3505,3696,4296
+3195	Szabová Gizela r. Mészárosová		0	1920,1951,2322,2323,2327,2330,2331,2334,2449,2450,2451,2452,2561,3198,3308,3433,3434,3435,3505,3696
+3195	Szabová Júlia		0	3234
+3195	Szabová Katarína r. Plevková		0	4080
+3195	Szabová Ľudmila		0	3234
+3195	Szabová Mária r. Stískalová		0	2739,3351
+3195	Száraz Vincent r. Száraz		0	3807
+3195	Szárazová Margita		0	3618
+3195	Szárazová Terézia r. Balažiová	č.d.855/1939	0	3675,3810
+3195	Szerzödi Jozef r. Szerzödi	žena Emerencia r. Križanová	0	4076,4083
+3195	Szerződi Jozef r. Szerződi		0	1082
+3195	Szerződi Vincent r. Szerződi	žena Žofia r. Lázárová	0	3294,3553,4113,4305
+3195	Szerződiová Etela		0	2480
+3195	Szerződiová Margita		0	2480
+3195	Szerződiová Žofia r. Lázárová		0	3294,3553,4113,4305
+3195	Szerzödy Jozef r. Szerzödy	ml	0	4076,4083
+3195	Szöke Andrej r. Szöke		0	698,2179,3149,3851
+3195	Szöke František r. Szöke	č.d.232/1941	0	1917,1921,2054,2528,2579,3101,3638,3707,3856,4286
+3195	Szöke František r. Szöke	č.d.4405/1947	0	14,3619
+3195	Szöke František r. Szöke	č.d.480/1951	0	1135,2092,3707,3880,4048,4101,4102,4115
+3195	Szöke František r. Szöke	žena Anna r. Gúghová	0	922,4011
+3195	Szöke František r. Szöke	žena Mária Galgóczyová	0	3686
+3195	Szöke Ignác r. Szöke		0	2840
+3195	Szöke Imrich r. Szöke		0	151
+3195	Szöke Ján r. Szöke		0	15,2005,2301,2307,2315,2332,2333,2356,2508,2509,2511,2721,3049,3252,3276,3696,3878
+3195	Szöke Ján r. Szöke	č.d.4405/1947	0	3365,3619,3700
+3195	Szöke Jozef r. Szöke		0	698,699,1873,2004,2300,2301,2305,2306,2307,2509,2512,2514,3276,3851
+3195	Szöke Karol r. Szöke		0	1502,2943,3674
+3195	Szöke Karol r. Szöke	č.d.286/1951	0	2508,2514,2682
+3195	Szöke Karol r. Szöke	č.d.4092/47	0	1741,2197,2239,2710,2765,2996,3187,3733
+3195	Szöke Karol r. Szöke	žena Brigita r. Grežová	0	3276
+3195	Szöke Koloman r. Szöke	27.4.1924	0	3546
+3195	Szöke Ladislav r. Szöke		0	15,698,699,1502,1873,2004,2067,2142,2179,2300,2301,2305,2306,2307,2315,2332,2333,2354,2356,2508,2509,2511,2512,2661,2682,2943,3049,3149,3252,3276,3696,3851
+3195	Szőke Ludovít		0	596
+3195	Szöke Ľudovít r. Szöke		0	2142,2301,2508,2682,3674
+3195	Szöke Ľudovít r. Szöke	žena Margita r. Berkesová	0	15,698,699,1502,1873,2004,2179,2300,2301,2305,2306,2307,2354,2356,2508,2509,2510,2511,2512,2514,2521,2661,2682,2943,3149,3252,3276,3851,4279,4280
+3195	Szöke Michal r. Szöke		0	15,698,699,1502,1873,2004,2142,2179,2185,2300,2301,2305,2306,2315,2332,2333,2354,2356,2508,2511,2512,2661,2682,2943,3049,3149,3252,3276,3696,3851
+3195	Szöke Michal r. Szöke	žena Mária r. Kováčová	0	2306
+3195	Szöke Pavol r. Szöke		0	15,91,92,698,699,1873,1924,2004,2142,2179,2300,2301,2305,2306,2307,2333,2356,2509,2511,2682,2721,3149,3252,3276,3454,3456,3696,3851,3878
+3195	Szőke Peter		0	596
+3195	Szöke Peter r. Szöke		0	92,514,515,698,1388,1873,2004,2179,2184,2489,2510,2521,3149,3674,3851,4279,4280
+3195	Szöke Peter r. Szöke	žena Tereza r. Ribiová	0	92,698,1388,2185,3149,3702,3851
+3195	Szőke Štefan		0	596
+3195	Szöke Štefan r. Szöke		0	15,2179,2185,2510,2511,2521,2661,2943,3149,3252,3674,4279,4280
+3195	Szöke Štefan r. Szöke	žena Mária r. Grezsová	0	3758
+3195	Szöke Urban r. Szöke		0	2523,2639,3697,4284
+3195	Szöke Vendelín r. Szöke	č.d.3344/1931	0	4002
+3195	Szöke Vendelín r. Szöke	m.Katarína r.Ravasová	0	2142
+3195	Szökeová Alžbeta r. Szökeová		0	2509
+3195	Szökeová Anna		0	650,1917,1921,2054,2080,2282,3024,3638,3707,4320
+3195	Szökeová Barbora r. Jočiková		0	3933
+3195	Szökeová Barbora r. Kóšová		0	4076
+3195	Szökeová Helena		0	15,1502,1873,2004,2142,2179,2185,2300,2354,2521,2661,2943,3149,3851,4280
+3195	Szökeová Katarína		0	377,650,698,699,1873,2004,2080,2300,2301,2305,2306,2307,2509,2512,2514,3276,3638,3707,3851,4431
+3195	Szökeová Katarína	č.d.4092/47	0	1741,2197,2239,2710,2765,2996,3187,3733
+3195	Szökeová Katarína r. Borbélyová		0	1886
+3195	Szökeová Katarína r. Kmeťová	č.d.8076/1936	0	507,2287,2608,2662,2882,2898,3628,3802
+3195	Szökeová Katarína r. Kmetyová		0	2243
+3195	Szökeová Katarína r. Magyarová		0	2160,3142
+3195	Szökeová Katarína r. Prešinská		0	1924,1989,2005,2006,2007,2008,2251,2721,3454,3998
+3195	Szökeová Katarína r. Ravaszová		0	3729,3813,3946,3989,4370
+3195	Szökeová Katarína r. Vajdová		0	3507
+3195	Szökeová Margita		0	698,1502,1873,2004,2142,2300,2305,2306,2354,2512,2661,2943,3149,3851
+3195	Szökeová Margita r. Prešinská		0	1798,1862,1863,1876,3838,3839,3929
+3195	Szökeová Mária		0	650,1917,1921,2054,2080,2282,2528,3024,3638,3707,4320
+3195	Szökeová Mária r. Babčanová		0	3628
+3195	Szökeová Mária r. Grežová	č.d.3031/1903	0	3680,3758,3936
+3195	Szökeová Mária r. Szökeová		0	1791,1794,2178,2185,2186,2551,3702,3957,4310
+3195	Szökeová Rozália r. Mészárošová		0	527,658,1617,1629,1766,1767,1770,1772,1776,2160,2161,2162,2315,2328,2332,2334,2412,2452,2465,3538,3696,3822
+3195	Szökeová Rozália r. Prešinská		0	2592,2722,2871,3755
+3195	Szőkeová Terézia		0	596
+3195	Szolláriková Magdaléna r. Stranyáková		0	3749
+3195	Szomor Ján r. Szomor		0	3635,3858
+3195	Szomor Koloman r. Szomor		0	1618
+3195	Szomor Laurinc r. Szomor	č.d.620/1924	0	2812,3115,3784
+3195	Szomor Vendelín r. Szomor	žena Alžbeta r. Nosáková	0	3639,3706,3852
+3195	Szomor Vojtech r. Szomor		0	1618
+3195	SZOMORA Michal, SR		0	185
+3195	Szomorová Anna		0	216,1741,2197,2239,2291,2298,2475,2710,2765,3733
+3195	Szomorová Jozefína r. Balázsyová		0	3275,3563
+3195	Szomorová Katarína r. Balázsová	vdova	0	3664
+3195	Szomorová Katarína r. Belányová		0	3660,3662,3664
+3195	Szomorová Magdaléna r. Balázsiová	č.d.2112/1900, m.Andrej	0	2291,2298,2475,3777
+3195	Szomorová Mária		0	216,1741,2197,2239,2291,2298,2475,2710,2765,3733
+3195	Szomorová Mária r. Motešická	č.d.2023/1870	0	1860,1875
+3195	Szomorová Rozália		0	1716,2485,2689,3227
+3195	Szomorová Rozália r. Bodorová		0	151,152,153,4470
+3195	Szomorová Rozália r. Lőrincová		0	1741,2197,2996,3664,3733
+3195	Szomorová Terézia	č.d.4077/1900	0	2120,2121,2122,3635,3788
+3195	Szomorová Terézia	mal.,č.d.620/1924, vyd. Galgóciová	0	2812,3115,3706,3784
+3195	Szomorová Terézia r. Benyáková		0	1555,3498,3499
+3195	Szomorová Terézia r. Vargová	m.Jozef	0	713,3071,3588,3589,3866,4056,4083,4084,4115
+3195	SZOMOROVÁ Terézia, SR		0	185
+3195	Szomorová Veronika		0	652,2813,3853,4490
+3195	Szomorová Vilma		0	216,1741,2197,2239,2291,2298,2475,2710,2765,3733
+3195	Sztrányan Štefan r. Sztrányan		0	3749
+3195	Szusztor Imrich r. Szusztor		0	303,320,648,708,826,1576,2422,2537,2649,2827,3009,3238,3309,3328,3329,3490,3547,3548,3582,3583,3703,3926,3927,4535
+3195	Szusztor Ján r. Szusztor		0	826,2827,3309,3583,3927
+3195	Szusztor Jozef r. Szusztor		0	303,320,648,708,1576,2146,2147,2153,2206,2308,2395,2422,2537,2649,2827,2871,2905,2906,3009,3132,3133,3238,3258,3309,3328,3329,3429,3430,3535,3547,3548,3582,3583,3590,3591,3703,3926,3927,4195,4241,4260,4261,4435,4535
+3195	Szusztor Ladislav r. Szusztor		0	303,826,2422,3329,3490,3547,3548,3582,3583,4535
+3195	Szusztor Laurent r. Szusztor	syn Ladilslva	0	826,1824,1829
+3195	Szusztor Michal r. Szusztor		0	303,320,648,708,826,1576,2422,2537,2649,2827,3009,3238,3309,3328,3329,3490,3547,3548,3582,3583,3703,3926,3927,4535
+3195	Szusztor Štefan r. Szusztor		0	708,1576,3309,3926,3927
+3195	Szusztorová Agneša		0	303,648,3490,3547,3548,3582
+3195	Szusztorová Katarína		0	320,648,708,826,1576,3490,3703,3926,3927
+3195	Szusztorová Katarína r. Ravasová		0	2047,3650,3737
+3195	Szusztorová Magdaléna r. Jócsiková		0	1824,1825,1829,1830,2828,3172,3176,3528,3579
+3195	Szusztorová Mária r. Prešinská	Štefanova	0	2718
+3195	Szusztorová Rozália r. Szomorová	č.d.6337/1930	0	1725,1874,2393,2430,2446,2961,3723,3975,4497
+3195	Szusztorová Terézia r. Mészárošová		0	2755,3712
+3195	Szuszutorová Rozália r. Szomorová	č.d.3037/1906	0	1860,1875
+3195	Šafár Jozef r. Šafár		0	218,460,769,2234,2642,2644,2877,3487,3564,3565,4007,4412
+3195	Šafár Jozef r. Šafár	žena Barbora r. Kobzová	0	4048,4101,4102,4115
+3195	Šafár Pavol r. Šafár		0	2630,3714,4007
+3195	Šafárová Anna		0	460,769,2234,2642,2877,3564,3565,4412
+3195	Šafárová Barbora r. Kobzová		0	527,658,2410,2412,3487,3488,3671,4042,4048,4101,4102,4115
+3195	Šafárová Terézia r. Balázsiová		0	4099,4115
+3195	Šimonová Rozália r. Prešinská		0	2116,3498,3499
+3195	ŠPÁNIKOVÁ Alžbeta r. Somorová, SR		0	185
+3195	Štanglová Anna r. Zsoldosová	č.d.2204/1909, m.Pavol	0	3597
+3195	ŠULÁKOVÁ Valéria r. Somorová, SR		0	185
+3195	Taczman Ondrej r. Taczman		0	3867
+3195	Ťapuš Ján r. Ťapuš		0	299,474,1836,3417,3620,4464,4465,4510
+3195	Ťapuš Jozef r. Ťapuš		0	73,78,299,474,1837,1838,3620,4263,4464,4465
+3195	Ťapuš Karol r. Ťapuš		0	73,78,240,1836,1837,1838,1839,2122,2537,3328,3417,3897,4263,4278,4510,4533,4534
+3195	Ťapuš Koloman r. Ťapuš		0	299,474,579,754,2567,3492,3823,4355,4464,4465
+3195	Ťapuš Pavel r. Ťapuš		0	78,240,712,1837,1839,2122,2537,2567,2621,3319,3328,3763,3897,4278,4533,4534
+3195	Ťapuš Peter r. Ťapuš		0	73,78,1836,1837,1838,3417,4263,4510
+3195	Ťapušová Alžbeta		0	299,3620,4464,4465
+3195	Ťapušová Barbara r. Motešiczká		0	3617
+3195	Ťapušová Júlia		0	299,474,4464,4465
+3195	Ťapušová Mária		0	299,4464,4465
+3195	Ťapušová Mária r. Gunišová		0	73,78,460,1836,1837,1838,1839,2567,2642,3417,3453,4263,4278,4412,4488,4510
+3195	Ťapušová Mária r. Vargová		0	401,1795,1797,1798,1872,2167
+3195	Ťapušová Terézia r. Sustorová		0	73,1837,1838,1839,3009,4263,4278
+3195	Tobiaš Jozef r. Tobiaš		0	4041,4048,4101,4102,4115
+3195	Tóthová Elena r. Mésárošová	č.d. 2741/1921, 5363/1948, 821/1938	0	732,1040,1920,2322,2323,2327,2329,2330,2449,2451,2561,3198,3199,3308,3505,3696,3886
+3195	Tóthová Júlia r. Zsoldosová	č.d.2204/1909, m.Ján	0	3597
+3195	Tyapus Michal r. Tyapus		0	1837
+3195	Tyapusová Mária r. Vargová		0	713,1796,3588,3589,3818,3866
+3195	Tyapusová Verona r. Prešinská		0	1870,2621,2836,3179,3834
+3195	Tyapušová Katarína		0	78,712,2567,2839,3319,3763
+3195	Tyapušová Mária		0	3871,3872

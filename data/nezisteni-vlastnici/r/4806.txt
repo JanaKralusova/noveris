@@ -1,0 +1,256 @@
+2715	Molec Ambróz	súr.Mária,Juraj,Gustáv,Ľudmila	0	5345,5346,7291
+2715	Molec Anton		0	7800
+2715	Molec Emil	súr.Peter,Anna,Ján,Emilia,Mária	0	7536
+2715	Molec Emil r.	zomr.18.05.1993	0	7535
+2715	Molec Emil r. Molec a Mária Molcová r. Hóková	zomrel 18.05.1993, zomrela.20.01.2000	0	7536
+2715	Molec Ján	súr.Peter,Anna,Alžbeta,Emilia,Mária	0	7533,7535,7536
+2715	Molec Jozef		0	7800
+2715	Molec Juraj	súr.Mária,Ambróz,Gustáv,Ľudmila	0	5346,7291
+2715	Molec Milan	súr.Peter,Anna,Ján,Emilia,Mária	0	7536
+2715	Molec Milan	zomr.01.04.2011, SNP č.151/70,Stará Turá	0	7533,7535
+2715	Molec Štefan		0	2865
+2715	Molecová Alžbeta	súr.Peter,Anna,Ján,Emilia,Mária	0	7533,7535,7536
+2715	Molecová Emília	r.Michalcová	0	8799
+2715	Molecová Emília	súr.Peter,Anna,Alžbeta,Ján,Mária	0	7533,7535,7536
+2715	Molecová Mária		0	2865
+2715	Molecová Mária	súr.Peter,Anna,Alžbeta,Ján,Emilia	0	7533,7535,7536
+2715	Molecová Zuzana		0	2865
+2715	Moravús Gustáv	zomr.10.07.1979, Družstevná č.457,Stará Turá	0	8298
+2715	Moravusová Katarína	r.Michalcová,m.Ján	0	1968
+2715	Morelová Mária		0	2641,7241,10047
+2715	Morková Mária	r.Koštialová	0	7797
+2715	Mrkevčíková Anna	r.Beňová,č.425,Lubina	0	4837
+2715	Múdra Anna	slobodná	0	9904
+2715	Mudra Kristína		0	9695
+2715	Múdra Mária	dc.Štefana a Anny r.Nemcovej	0	9893
+2715	Múdry Gustáv		0	4582
+2715	Múdry Jozef r. Múdry		1	4948
+2715	Múdry Pavel	súr.Jozef,Katarína,Anna	0	4948
+2715	Múdry Pavol	zomr.13.03.1986, č.1654,Stará Turá	0	9892
+2715	Myjavčin Ján		0	9537
+2715	Myjavčin Ján	zomr.09.11.1997, Papraď č.1803,Stará Turá	0	9536,9546
+2715	Naď Ján	súr.Miloslav	0	3775,8277,8281
+2715	Naď Jozef	m.Anna r.Kováčiková	0	3451
+2715	Naď Ľudovít	zomr.14.05.1985, 28.Oktobra č.19,Žilina	0	8263
+2715	Naď Pavol	m.Katarína r.Bačová	0	7831
+2715	Naď Samuel r. Naď	manželka Anna r. Urbanová	0	3853
+2715	Naď Tomáš	po Jánovi,súr.Alžbeta,Anna	0	7831,7898,7924
+2715	Naďová Alžbeta	po Jánovi,súr.Tomáš,Anna	0	7831,7898,7924
+2715	Naďová Alžbeta	súr.Anna,Zuzana,Katarína,Michal,Ján	0	7937,7939
+2715	Naďová Alžbeta	súr.Michal,Ľudovít,Štefan,Anna,Kata,Eva	0	8278
+2715	Naďová Anna	po Jánovi,súr.Tomáš,Alžbeta	0	7831,7898,7924
+2715	Naďová Anna	r.Bačová,m.Ján	0	7924
+2715	Naďová Anna	r.Kováčiková,m.Jozef	0	3451
+2715	Naďová Anna	r.Petrovičová	0	7900,7901
+2715	Naďová Anna r. Držíková	m.Michal	0	2798
+2715	Naďová Eva	súr.Michal,Ľudovít,Štefan,Anna,Kata,Beta	0	8278
+2715	Naďová Katarína	r.Bačová,m.Pavol	0	7831
+2715	Naďová Mária r. Valachová	zomr.08.04.1996,1.mája č.555/14,Myjava	0	9576
+2715	Nagyová Anna	r.Kováčiková	0	9162
+2715	Nemcová Agneša	zomr.29.12.1957	0	5265,6418,6421,6426
+2715	Nemcová Alžbeta		0	7677
+2715	Nemcová Alžbeta	dc.Štefana	0	7678
+2715	Nemcová Alžbeta	súr.Anna,Agneša,Juraj,Michal,Ján	0	5265
+2715	Nemcová Anna	mal	0	6069
+2715	Nemcová Anna	r.Bunčáková,predtým Štefíková,m.Pavol	0	7298,7299
+2715	Nemcová Anna	r.Mrkevčíková	0	9413
+2715	Nemcová Anna	r.Šulovská,súr.Ján,Ľudmila	0	3904
+2715	Nemcová Anna	r.Valachova,m.Imrich,vdova	0	7982
+2715	Nemcová Anna	súr.Mária,Ondrej,Martin,Štefan	0	4126
+2715	Nemcová Anna r. Jankovičová	zomr.29.01.1995,č.24,Dežerice	0	8552
+2715	Nemcová Anna r. Pavlovičová	zomr.04.01.1976,m.Ján	0	8177,8178
+2715	Nemcová Božena	súr. Pavol	0	5356
+2715	Nemcová Božena	súr.Pavol	0	5360,5364,7183,7184,7185,8518
+2715	Nemcová Eva	súr.Štefan,Gusto,Šimon,Ján,Michal,Anna	0	3329,7220
+2715	Nemcová Katarína	r.Cibulková	0	8245,8246
+2715	Nemcová Katarína	r.Cibulková,m.Štefan,Družstevná č.500,ST	0	2107,2109,10614
+2715	Nemcová Katarína	r.Černáčková,m.Pvol,vdova	0	9998,9999
+2715	Nemcová Katarína r. Cibulková	zomr. 15.06.1983, m.Štefan,Družstevná č.500,ST	0	4040,4041,4042,4043,4044,6293,6598,7231,7679,8265,8273,8285,8311,10615
+2715	Nemcová Katarína r. Krúpová	zomr.05.11.1992,Papraď č.1641,Stará Turá	0	4959,5880,6293
+2715	Nemcová Katarína r. Lukáčová	zomr.05.02.1957,m.Peter	0	8805
+2715	Nemcová Kristína	r.Žabková,m.Martin	0	9913,9914
+2715	Nemcová Mária	súr.Ján,Zuzana	0	5358,5359,5364,7459,8373,10771
+2715	Nemcová Mária r. Gregorová	zomr.16.06.1982, Súš č.2493,Stará Turá	0	5358,5359,6416,9075
+2715	Nemcová Mária r. Nemcová	zomr.01.07.1988,m.Štefan,č.2484,Stará Turá	0	8534
+2715	Nemcová Pavlína	r.Bielčíková	0	7967
+2715	Nemcová Zuzana	súr.Ján,Mária	0	5358,5364,7459,8373,10771
+2715	Nemec Emil	zomr.25.09.2002, Dibrovova č.244/4,Stará Turá	0	6069
+2715	Nemec Gustáv	súr.Ján,Štefan	0	3375
+2715	Nemec Gustáv	zomr.10.04.1980, č.131,Stará Turá	0	8525
+2715	Nemec Ján		0	4125
+2715	Nemec Ján	d.č.301	0	6069
+2715	Nemec Ján	m.Katarína r.Koštialová	0	9908,9910,9914,9921
+2715	Nemec Ján	súr. Mária, Zuzana	0	5750
+2715	Nemec Ján	súr.Božena,Pavol	0	7185,8609
+2715	Nemec Ján	súr.Mária,Zuzana	0	5356,5358,5359,5360,5361,5362,5363,5364,5749,7180,7459,7474,8373,10771
+2715	Nemec Ján	súr.Šimon,Olga,Emil,Mária	0	6069
+2715	Nemec Ján	súr.Štefan,Gustáv	0	3375
+2715	Nemec Ján	súr.Štefan,Gusto,Šimon,Eva,Michal,Anna	0	3329,7220
+2715	Nemec Ján	syn Štefana a Márie r.Koštialovej	0	8308,9908,9910
+2715	Nemec Ján	zomr.13.03.1985, m.Anna r.Durc.,Nemcová dolina č.1538,ST	0	9901
+2715	Nemec Jaroslav	zomr.29.03.2003, č.2495,Stará Turá	0	7212
+2715	Nemec Jozef	m.Mária r.Volárová	0	8347
+2715	Nemec Juraj	m.Katarína r.Oslayová	0	8540
+2715	Nemec Juraj	r.Nemec	0	5265
+2715	Nemec Juraj	zomr.16.03.1978, č.1256,Stará Turá	0	5265,6418,6421,6423,6426,10765
+2715	Nemec Michal	m.Emanuela r.Vencová,Záhradnická 20,Brno	0	7854
+2715	Nemec Michal	m.Eva r.Bunová	0	2987,3329,3487,8540
+2715	Nemec Michal	súr.Pavol,Katarína,Štefan	0	2987,3329,9998,9999,10000
+2715	Nemec Michal	súr.Štefan,Gusto,Šimon,Ján,Eva,Anna	0	3329,7220,8575
+2715	Nemec Michal	zomr.19.05.1978, m.Františka r.Višňovská,ST č.495	0	8006
+2715	Nemec Michal	zomr.23.03.1961, Papraď č.572,Stará Turá	0	9998,9999,10000
+2715	Nemec Milan	súr.Pavol,Gustáv,Martin,Peter,Šimon,Anna	0	1224,7384,7385,10571
+2715	Nemec Ondrej	m.Alžbeta r.Klimáčková	0	7399
+2715	Nemec Ondrej	súr.Mária,Martin,Anna,Štefan	0	4126
+2715	Nemec Pavel	zomr.21.10.2009, Súš č.2493,Stará Turá	0	8374,8518
+2715	Nemec Pavol	súr.Michal,Kata,Štefan	0	2987,3329,9998,9999,10000
+2715	Nemec Pavol	zomr.12.01.1976	0	5869
+2715	Nemec Peter		0	8372
+2715	Nemec Peter	m.Katarína r.Lukáčová	0	8805
+2715	Nemec Peter	súr.Anna,Ján,KAtarína,Juraj,Štefan	0	8361
+2715	Nemec Šimon	m.Katarína r.Krúpová	0	6069
+2715	Nemec Šimon	súr.Gustáv,Michal,Štefan,Ján,Eva,Anna	0	3329,7220
+2715	Nemec Šimon	súr.Martin,Štefan	0	4125,4973,9886,9889,9899,9900,9934
+2715	Nemec Šimon	zomr.19.02.1966, m.Katarína r.Krúpová	0	4959
+2715	Nemec Šimon	zomr.19.02.1966,m.Katarína r.Krúpová	0	5880
+2715	Nemec Štefan	m.Anna r.Pribišová	0	5361
+2715	Nemec Štefan	m.Eva r.Škulcová	0	7459,10771
+2715	Nemec Štefan	m.Mária r.Nemcová	0	7398,7399
+2715	Nemec Štefan	súr.Gustáv,Michal,Šimon,Ján,Eva,Anna	0	3329,7220
+2715	Nemec Štefan	súr.Ján,Gustáv	0	3375
+2715	Nemec Štefan	súr.Mária,Ondrej,Martin,Anna	0	4126
+2715	Nemec Štefan	súr.Pavol,Katarína,Michal	0	2987,3329,9998,9999,10000
+2715	Nemec Štefan	zomr.13.06.2001, Marxova č.21,Nové Mesto nad Váhom	0	7612
+2715	Nemec Štefan	zomr.24.03.1967, m.Katarína r.Cibulková,č.135,Stará Turá	0	6293,8309,8310
+2715	Nemecná Katarína	r.Mikulčíková	0	9103
+2715	Nemecná Mária	r.Mikulčíková,vdova	0	9103
+2715	Nošková Emília r. Klimáčková	zomr.03.08.2007,Topolecká č.2097,Stará Turá	0	8810
+2715	Novák Štefan		0	3239
+2715	Novák Štefan	súr.Anna,Ján	0	7688,9419,10685
+2715	Nováková Anna	r.Adamková,súr.Katarína	0	4327,4959,7430,9278,9492,9970
+2715	Nováková Anna r. Adamková	súr.Katarína	0	9340
+2715	Nováková Božena r. Vavrovičová	zomr.26.03.1978	0	7771,7772
+2715	Nováková Jozefína		0	7688,10685
+2715	Novomestská Katarína	súr.Zuzana	0	6305,7240
+2715	Novomestská Zuzana	r.Klimáčková,m.Miloslav	0	6305,9296
+2715	Novomestská Zuzana	súr.Katarína	0	6305
+2715	Novomestský Miloslav	m.Zuzana r.Klimáčková	0	9296
+2715	Ochodnická Monika	r.Sabová,Jánova	0	5316,6455
+2715	Olejová Zuzana r. Naďová		0	7937,7939
+2715	Olšová Mária	r.Bunová	0	7976
+2715	Ondrašíková Alžbeta	r.Michalcová,súr.Juraj	0	8378
+2715	Ondrášovic Ján	ml	0	5967
+2715	Opršalová Emília	r.Hlubocká	0	3227,8104
+2715	Oslay Gustáv	zomr.13.01.1971,č.1065,Stará Turá	0	8183
+2715	Oslayová Anna r. Trúsiková	zomr.25.01.1988,Trávniky č.2504,Stará Turá	0	8127,8150
+2715	Oslayová Darina r. Oslayová	zomr.03.01.2000,č.344,Bzince pod Javorinou	0	8201
+2715	Otiepka Ján	m.Katarína r.Sadlonová	0	9843
+2715	Otiepka Ján	ml.,súr.Pavol	0	6871
+2715	Otiepka Ján	súr.Štefan,Katarína	0	6870,6871
+2715	Otiepka Ondrej		0	4125
+2715	Otiepka Pavel	po Štefanovi	0	3492,3493,3494,3495
+2715	Otiepka Pavol	m.Katarína r.Pančáková	0	9894
+2715	Otiepka Štefan	m.Anna r.Viskupová	0	9843
+2715	Otiepka Štefan	m.Katarína r.Michalcová	0	5594
+2715	Otiepka Štefan	súr.Ján,Katarína	0	6870,6871
+2715	Otiepka Štefan	zomr.04.08.1964, Stará Turá č.556	0	9862
+2715	Otiepková Anna	r.Klčová,m.Štefan	0	9799
+2715	Otiepková Katarína r. Vráblová	zomr.05.03.1974,Topolecká č.800,Stará Turá	0	8352
+2715	Otiepková Kristína r. Klčová	zomr.21.06.1989, Kamenná č.18/2062,Nové M.n.Váhom	0	3493,9864,9872
+2715	Otiepková Zuzana		0	9865
+2715	Pagáč Ján	m.Katarína r.Miskárová	0	8161
+2715	Pagáčová Anna	r.Rubaninská,m.Juraj; r.Rubaninská,m.Juraj	0	2436
+2715	Pagáčová Katarína	r.Miskárová,m.Ján	0	8161
+2715	Pagnová Katarína	r.Valentová,m.Alexander	0	4352,8920,8922,8923,8926,8928,8930,8932,11010,11011,11012
+2715	Páleníková Milota r. Kulichová	zomr.30.10.2009,Štefánikova č.368,St.T	0	8507
+2715	Pančiak Ján	m.Anna r.Ušiaková	0	4160,4161,9878
+2715	Pančiak Štefan	m.Anna r.Klč-Poliaková	0	4160,4161,9878
+2715	Papulák František	súr.Ľudmila,Alžbeta,Ján	0	4797,8478,8488
+2715	Papulák Ján	č.2514,Stará Turá	0	2278
+2715	Papulák Ján	súr.Ľudmila,Alžbeta,František	0	4797,8478,8488
+2715	Papulák Ján	zomr.20.11.1985, č.2514,Stará Turá	0	8482
+2715	Papulák Jozef	súr.Juraj,Martin	0	4797,8488
+2715	Papulák Martin	zomr.15.07.1976, č.2044,Stará Turá	0	9196
+2715	Papulák Pavol	zomr.09.09.1969, č.638,Stará Turá	0	9119
+2715	Papulák Peter		0	9407
+2715	Papulák Štefan		0	3295
+2715	Papuláková Anna	r.Gregorová,m.Martin	0	3647,5467,9096
+2715	Papuláková Ľudmila	súr.František,Alžbeta,Ján	0	4797,8478,8488
+2715	Papuláková Zuzana r. Solovicová	zomr.20.04.1986,č.2044,Stará Turá	0	8770
+2715	Paulovič Dušan		0	8059
+2715	Paulovič Ignác		0	7870
+2715	Paulovič Ignác	m.Mária r.Červenanská	0	7810
+2715	Paulovič Ján		0	2374
+2715	Paulovičová Katarína	r.Kimmelová,m.Ján	0	4907,6957,10623
+2715	Paulovičová Petronella		0	8109
+2715	Pavelková Oľga r. Koštialová	zomr.16.04.2003, Gen.Štefánika č.368/94,ST	0	3376,3413,5801,6621,6622,6623,6624,6625,6626,6628,6629,6630,6631,6632,6633,9361
+2715	Pavlechová Oľga r. Máčková	zomr.22.10.1975,č.360,Stará Turá	0	8901
+2715	Pavlička Anton	súr.Jozef,Michal,Emília,Ján,Mária,Alojz	0	2792,2793,3109,3110,3310,7109,8044,8062,8112
+2715	Pavlička Ján	súr.Štefan,Antónia,Agneša	0	7760
+2715	Pavlička Jozef		0	2792,2793,3109,3110,3310
+2715	Pavlička Jozef	zomr.13.06.1954	0	7109,8044,8062,8112
+2715	Pavlička Šimon		0	8044,8062
+2715	Pavlička Štefan	súr.Ján,Antónia,Agneša	0	7760
+2715	Pavličková Agneša	súr.Štefan,Ján,Antónia	0	7760,8194
+2715	Pavličková Cecília	r.Vallovičová	0	3107,7768,7795,8047
+2715	Pavličková Justína	č.1250,Stará Turá	0	8065
+2715	Pavličková Justína	zomr.06.10.1975, č.1250,Stará Turá	0	7695
+2715	Pavličková Mária	r.Vráblová,m.Martin	0	6386,10187
+2715	Pavlisková Agnesa		0	6069
+2715	Pavlovič Imrich	m.Mária r.Roháčková	0	5445
+2715	Pavlovič Ján		0	5444,5447,6430,7701
+2715	Pavlovič Ján	syn Michala a Anny r.Malárovej	0	5574,8116,11135
+2715	Pavlovič Ján	zomr.28.04.1992, č.589,Stará Turá	0	9963
+2715	Pavlovič Ján	zomr.28.04.1992, Hviezdoslavova č.59,Stará Turá	0	8038
+2715	Pavlovič Jozef	SNP č.1,Stará Turá	0	8038
+2715	Pavlovič Jozef	zomr.09.11.1965, č.363,Stará Turá	0	8116
+2715	Pavlovič Michal	M.Drgu č.1,Trenčín	0	8038
+2715	Pavlovič Michal	syn Michala a Anny r.Malárovej	0	8116
+2715	Pavlovič Šimon	syn Michala a Anny r.Malárovej	0	5574,8116,11135
+2715	Pavlovičová Alžbeta r. Jokelová	zomr.09.03.2006,Družstevná č.494/53,ST	0	7608
+2715	Pavlovičová Anna	r.Bielčíková,m.Martin	0	6460,9501
+2715	Pavlovičová Anna	r.Durcová,súr.Michal	0	4941
+2715	Pavlovičová Anna r. Pavlovičová	zomr.10.03.1976,vdova,č.363,Stará Turá	0	5574,8116,11135
+2715	Pavlovičová Eva	r.Slezáková,m.Michal	0	9596
+2715	Pavlovičová Katarína	r.Pavlovičová	0	8116
+2715	Pavlovičová Katarína r. Ježová	zomr. 25.02.1989, č.2109,Stará Turá	0	7220,8612
+2715	Pavlovičová Mária	po Vagačovej Anne,Ružomberok	0	5444,5447,7751,7763,7833
+2715	Pavlovičová Mária	r.Hadlerová	0	9086
+2715	Pavlovičová Mária	r.Koštialová,m.Michal	0	3380
+2715	Pavlovičová Mária	r.Roháčková,m.Imrich	0	5265,7752,7763
+2715	Pavlovičová Mária	r.Vagačová	0	7780
+2715	Pavlovičová Mária r. Stančíková	zomr.04.09.1961, č.469,Stará Turá	0	2149,3703,3707,4382,4384,4390,4847,4850,9571
+2715	Pavlovičová Petronella		0	7818
+2715	Pavlovičová Vlasta r. Studnicová	zomr.02.03.2009,Staromyjavská č.889/77,Myjava	0	8611
+2715	Pekník Štefan	zomr.30.08.1980, m.Anna r.Vráblová,č.2076,Stará Turá	0	8355
+2715	Pekníková Anna r. Vráblová	zomr.10.05.1998,Topolecká č.2080,Stará Turá	0	8348
+2715	Pekníková Zuzana	r.Čubanáková,súr.Anna,Beta,Štefan,Kata	0	3946,3948,6368,9642,9649,9671,9675,9685,9725
+2715	Petrovič Ján		0	3840
+2715	Petrovič Ján	m.Alžbeta r.Majtánová	0	8022
+2715	Petrovič Ján	m.Anna r.Trúsiková	0	7756
+2715	Petrovič Juraj	m.Katarína r.Nemcová	0	3840
+2715	Petrovič Michal	m.Alžbeta r.Petrovičová	0	7900,7901
+2715	Petrovič Michal	m.Katarína r.Držíková	0	7900
+2715	Petrovičová Anna	r.Petrovičová,vdova	0	3794,3796
+2715	Petrovičová Zuzana	r.Krúpová	0	7366,8247
+2715	Piknová Mária	r.Galbavá,m.Ján	0	7818
+2715	Pilát Ján	m.Anna r.Bačová	0	4045,4046
+2715	Pilát Martin	m.Anna r.Dingová	0	3714,3715,3716,10073
+2715	Pilát Pavel	m.Žofia r.Ježová	0	6889
+2715	Pilek Jozef	súr.Ján,Mária,Michal	0	9603,9633
+2715	Pilek Jozef	zomr.17.03.1982, Ľ.Podjavorinskej č.525,Stará Turá	0	9451
+2715	Pilek Michal	m.Anna r.Chudíková	0	8582
+2715	Pilek Rudolf		0	9610,9633
+2715	Pilek Šimon	zomr.31.08.1971, č.934,Stará Turá	0	8774
+2715	Pileková Alžbeta r. Evicinová	zomr.03.02.1963,č.434,Stará Turá	0	9603
+2715	Pileková Anna	r.Chudíková,m.Michal	0	8659
+2715	Pilková Mária r. Durcová	zomr.28.01.1983,Papraď č.1611,Stará Turá	0	9193
+2715	Pilok Jozef		0	2865,9429
+2715	Pitzingernová Anna	r.Hurtáková	0	8210
+2715	Pleško Branislav	zomr.17.01.2010, Kpt.Weinholda 20/32,Zemianske Kostoľany	0	5213,5598,5602
+2715	Pleško Ján	m.Eva r.Bunová	0	8646
+2715	Pleško Ján	súr.Šimon,Anna,Juraj	0	2987,6550
+2715	Pleško Pavol	m.Eva r.Uhrová,Súš č.2578,Stará Turá	0	3143
+2715	Pleško Šimon	Štúrova č.71,Stará Turá	0	2399,2987
+2715	Pleško Šimon	zomr.29.07.1993, Štúrova č.71,Stará Turá	0	5213,5599,6550
+2715	Plešková Anna	r.Hricová,m.Ľudovít	0	3978,3979

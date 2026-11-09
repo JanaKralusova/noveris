@@ -1,0 +1,256 @@
+427	Moskál Jozef	manž.Anna r.Slezáková	0	575,592,593,595,596,713,714,731
+427	Moskál Karol	manž.Helena r.Sarnovská	0	575,592,593,595,596,713,714,731
+427	Moskál Maximilian	manž.Emília r.Tomajková	0	575,592,593,595,596,713,714,731
+427	Moskál Samuel	manž.Juliana r.Černická	0	563,575,592,593,595,596,682,713,714,731
+427	Moskál Štefan	syn Karola	0	563,575,592,593,595,596,682,713,714,731
+427	Moskálová Anna r. Ogurčáková	vd., manž.Bartolomej	0	536
+427	Moskalová Anna r. Slezáková		0	575,592,593,595,596,713,714,731
+427	Moskálová Emília	dcéra Bartolomeja	0	536,563,575,592,593,595,596,682,713,714,731
+427	Moskalová Emília r. Fabiánová		0	636
+427	Moskalová Emília r. Tomajková		0	639,712
+427	Moskálová Juliana r. Černická	manž.Samuel	0	551,577
+427	Moskalová Juliana r. Černická, SR		0	158
+427	Mrvová Mária r. Bendíková		0	617
+427	Mydlová Viktória r. Rešovská		0	602
+427	Nemčoková Anna r. Sarnovská		0	518
+427	Novotná Viktória r. Tekeliová	manž.Jozef	0	520
+427	Novotný Štefan	manž. Anna, r.Liptáková	0	630
+427	Ogurčák František	manž. Júlia Tomajková	0	508
+427	OGURČÁK Ján		0	575,713,731
+427	Ogurčák Jozef	býv.manž.Mária r.Lacková	0	600
+427	OGURČÁK Jozef		0	529,575,587,592,593,595,596,713,714,731
+427	OGURČÁK Ľudovít		0	575,587,592,593,595,596,713,714,731
+427	Ogurčák Michal	manž.Mária r.Leskovjanská	0	600
+427	Ogurčáková Anna	mal	0	529
+427	Ogurčáková Anna r. Sarnovská	manž.Gustáv	0	529,575,592,593,595,596,713,714,731
+427	Ogurčáková Helena	mal	0	529
+427	Ogurčáková Júlia r. Tomajková	manž. František	0	508,573,575,592,593,595,596,639,712,713,714,731
+427	OGURČÁKOVÁ Mária		0	529
+427	Ogurčáková Mária r. Bobáková	manž. bol Max	0	598
+427	Ogurčáková Viktória	malol	0	146,525,531,575,592,593,595,596,713,714,731,739
+427	Ogurčáková Viktória r. Černická	vd	0	525,575,592,593,595,596,713,714,731
+427	OGURČÁKOVÁ Viktória r. Černická		0	19,146,521,739
+427	Ogurčáková Zuzana r. Ogurčáková	manž.Ján	0	575,587,592,593,595,596,713,714,731
+427	Oprenčáková Mária r. Novotná	manž.Ján	0	630
+427	Oravcová Anna r. Trúnová		0	619
+427	ORAVEC Albert		0	51,53,624
+427	ORAVEC František		0	624
+427	Oravecová Anna r. Trúnová	manž.Jozef	0	621
+427	Osvaldová Emília r.Rusnáková		0	393
+427	Paliderová Amália, SR		0	243
+427	Paliderová Anna, SR		0	243
+427	PAVLIKOVSKÝ František		0	559,575,592,593,595,596,704,713,714,731
+427	Peštová Emília r. Tomajková		0	573,639,712
+427	Rejdovianová Anna r. Liptáková	manž.Ján	0	606
+427	REŠOVSKÁ Anna		0	602
+427	REŠOVSKÝ Jozef		0	602
+427	Révajová Cecília r. Révajová		0	505,547,588,690
+427	Révay Bartolomej	manž.Anna r.Černická	0	575,592,593,595,596,713,714,731
+427	RÉVAY Eduard		0	53,623,624
+427	RÉVAY Gustáv		0	53,623,624
+427	Révay Ján	manž. bola Zuzana r.Bobáková	0	53,575,592,593,595,596,713,714,731
+427	RÉVAY Jozef		0	53
+427	Révay Ľudevít		0	53
+427	RÉVAY Ľudovít		0	623,624
+427	Révay Štefan	malol., syn Štefana	0	575,592,593,595,596,713,714,731
+427	Révayová Anna	1	0	53
+427	Révayová Anna	dcéra Jána	0	559,575,592,593,595,596,704,713,714,731
+427	Révayová Anna	malol., dcéra Štefana	0	575,592,593,595,596,713,714,731
+427	RÉVAYOVÁ Anna		0	623,624
+427	Révayová Anna r. Černická	manž.Bartolomej	0	594
+427	RÉVAYOVÁ Božena		0	53,623,624
+427	RÉVAYOVÁ Johana		0	53,623,624
+427	Révayová Juliana	dcéra Jána	0	559,575,592,593,595,596,704,713,714,731
+427	Révayová Mária	dcéra Jána, v Amerike	0	559,575,592,593,595,596,704,713,714,731
+427	Richtarčíková Mária r. Moskálová	manž.Štefan	0	536,563,575,592,593,595,596,682,713,714,731
+427	Rusnák Albert		0	393
+427	Rusnák František		0	393
+427	Rusnák Karol		0	393
+427	Rusnák Ondrej		0	393,628
+427	Rusnáková Amália		0	393
+427	Rusnáková Anna		0	393
+427	Rusnáková Emília r. Sarnovská	manž.Karol	0	575,592,593,595,596,713,714,731
+427	Rusnáková Katarína r.Plichtová		0	393
+427	Rusnáková Mária		0	393,628
+427	Ružinová Mária r. Sarnovská	manž.Jozef	0	553
+427	Rybecká Cecília r. Tomajko		0	639,712
+427	Sarnovská Anna	dcéra Štefana	0	518
+427	Sarnovská Anna	mal	0	643
+427	Sarnovská Anna r. Korfantová	manž.Adolf	0	575,592,593,595,596,713,714,731
+427	Sarnovská Berta	mal	0	643
+427	Sarnovská Emília	malol., dcéra Jána	0	591
+427	Sarnovská Emília r. Oravcová		0	491,624
+427	Sarnovská Júlia	mal., dcéra Františka	0	553
+427	Sarnovská Júlia r. Bobáková		0	550
+427	Sarnovská Mária	mal., dcéra Maximiliana	0	585
+427	SARNOVSKÁ Mária		0	643
+427	Sarnovská Mária r. Černická	manž. Max	0	568,570,644
+427	Sarnovská Mária r. Šrenkelová		0	641
+427	Sarnovská Viktória	mal	0	643
+427	Sarnovský Bartolomej	manž.Anna r.Ogurčáková	0	589
+427	Sarnovský Bartolomej	manž.Juliana r.Smreková	0	575,592,593,595,596,713,714,731
+427	Sarnovský František	manž.Mária r.Černická	0	575,592,593,595,596,713,714,731
+427	Sarnovský František	syn Františka	0	553
+427	Sarnovský Ján	manž. Mária r. Šoltésová	0	518
+427	Sarnovský Ján	manž.Mária r.Jendrálová	0	491
+427	SARNOVSKÝ Ján		0	549,565,575,578,592,593,595,596,643,713,714,731
+427	Sarnovský Jozef	mal	0	643
+427	Sarnovský Jozef	manž.Ottilia r.Novotná	0	553
+427	Sarnovský Karol	syn Štefana	0	518
+427	Sarnovský Max	syn Maximiliana	0	575,585,592,593,595,596,713,714,731
+427	Sarnovský Maximilian	manž.Mária r.Černická	0	568,575,585,592,593,595,596,713,714,731
+427	Sarnovský Štefan	mal	0	643
+427	Sedmáková Júlia r. Bendíková		0	617
+427	Sekelová Mária r. Tokolyová		0	495,551,577,684
+427	Sekelová Mária r. Tökölyová, SR		0	158
+427	Sladičáková Anna r. Tököllyová, SR		0	158
+427	Slavkovská Mária r. Čepcová	manž.Ján	0	514,516
+427	Slejzák Adolf		0	595,714
+427	Slejzáková Mária r. Ogurčáková	manž.Jozef	0	533,575,592,593,595,596,713,714,731
+427	SLEZÁK Adolf		0	493,562,575,592,593,596,651,652,713,731,733,734,743
+427	SLEZÁK Jozef		0	575,592,593,595,596,713,714,731
+427	Slezáková Mária r. Ogurčáková	manž.Jozef	0	494,681
+427	Slivenská Júlia r. Rešovská		0	602
+427	Slodičáková Anna r. Tokolyová		0	495,551,577,684
+427	Smrek Bartolomej	manž.Juliana r.Liptáková	0	493,527,558,561,569,575,592,593,595,596,651,652,713,714,719,731,733,734,743
+427	Smrek Jozef	1	0	558,561,569,575,592,593,595,596,651,713,714,719,731,733
+427	Smrek Jozef	1; 1	0	493,652,734,743
+427	SMREK Maximilian		0	558,561,569,575,592,593,595,596,713,714,719,731
+427	Smreková Agnesa r. Černická		0	179,581,741
+427	Smreková Agnesa r. Černická	manž. Ján	0	146,179,581,739,741
+427	SMREKOVÁ Emília		0	493,558,561,569,575,592,593,595,596,651,652,713,714,719,731,733,734,743
+427	Soják Ján	v Amerike	0	493,562,651,652,733,734,743
+427	Sojáková Cecília	v Amerike	0	493,562,651,652,733,734,743
+427	Spišáková Mária r. Bobáková	manž.Jozef	0	575,592,593,595,596,713,714,731
+427	Spišáková Mária r. Černická		0	496,559,575,592,593,595,596,704,713,714,731
+427	Spišáková Mária r. Černická	r.Černická; r.Černická	0	594
+427	SZARNOVSZKÝ Štefan		0	643
+427	Špinnerová Anna r. Čepcová	vd., manž.Jozef	0	514,516
+427	Šrenkel Ján	syn Jána	0	575,592,593,595,596,713,714,731
+427	Šrenkelová Anna r. Oravcová		0	624
+427	Šrenkelová Juliana	dcéra Jána	0	575,592,593,595,596,713,714,731
+427	Šrenkelová Zuzana r. Ogurčáková	vd., manž. bol Samuel	0	600
+427	Tekeliová Juliana	dcéra Jozefa	0	520
+427	Tekeliová Verona r. Sarnovská	vd., manž. bol Jozef	0	520
+427	Tekely Ján	1	0	495,684
+427	Tekely Ján	manž.Agnesa r.Maťašovská	0	495,575,592,593,595,596,684,713,714,731
+427	Tekely Ján	manž.Juliana r.Sarnovská	0	575,592,593,595,596,713,714,731
+427	Tekely Jozef	manž. Anna r. Némethová	0	541
+427	Tekely Jozef, SR		0	243
+427	Tekely Karol	manž. Juliana r. Ogurčáková	0	541
+427	Tekely Pavel	manž. bola Mária r.Hodáková	0	575,592,593,595,596,713,714,731
+427	Tekelyová Cecília r. Černická	manž.Karol, vd	0	541,575,592,593,596,713,731
+427	Tekelyová Cecília r. Černická	manž.Karol, vd. manž.Karol, vd	0	595,714
+427	Tekelyová Emilia r. Černická	manž. Gustav	0	146,542,739
+427	Tekelyová Júlia r. Čepcová	manž.Bartolomej	0	514,516
+427	Tekelyová Juliana	malol., dcéra Bartolomeja	0	512,514,516,554,572,703
+427	Tekelyová Mária r. Révayová	manž.Pavel	0	575,592,593,595,596,713,714,731
+427	Tekelyová Zita r. Smreková		0	493,558,561,569,575,592,593,595,596,651,652,713,714,719,731,733,734,743
+427	Tisovská Anna r. Čuchranová		0	524,530
+427	Tokarčíková Anna r. Ogurčáková	manž.Jozef	0	575,592,593,595,596,713,714,731
+427	Tokarčíková Anna r. Smereková	vd., manž. bol Albert	0	631
+427	Tokarčíková Mária r. Ogurčáková	manž.Klement	0	600
+427	Tököliová Júlia r. Sarnovská		0	635
+427	Tökölyová Anna r. Novotná	manž.Bartolomej	0	630
+427	Tökölyová Božena	1, malol	0	551
+427	Tökölyová Božena	malol	0	495,577,684
+427	Tökölyová Božena, SR		0	158
+427	Tökölyová Helena	malol	0	495,551,577,684
+427	Tökölyová Magdaléna Mária	malol	0	495,551,577,684
+427	Tökölyová Magdaléna Mária, SR		0	158
+427	Tomajko Matej	manž.Viktória r.Smreková	0	575,592,593,595,596,713,714,731
+427	Tomajková Cecília r. Kukurová	manž.Albert	0	575,592,593,595,596,713,714,731
+427	Tomajková Ľudmila	dcéra Štefana	0	573,575,592,593,595,596,713,714,731
+427	TRÚN František		0	619,621
+427	Trún Ján	manž.Júlia r.Hodáková	0	621
+427	TRÚN Ján		0	619
+427	Vozárová Juliana r. Černická	manž. Jozef	0	505,547,588,690
+427	Záhoranská Cecília r. Ogurčáková	manž.František	0	600
+428	ABIDINOVÁ Mária r. Bendová		0	574,1349
+428	ALCHUS Imrich	ž.Františka r.Petríková	0	2616,2733
+428	ALCHUS Lenhart		0	984
+428	BAJCÁROVÁ Helena	mal. v r.1912	0	2645
+428	BALAŽOVIČOVÁ Margita		0	860
+428	BEDNÁRIKOVÁ Mária r. Kvetová		0	2252
+428	BEHULOVÁ Rozália r. Slabá		0	2645
+428	BENDA EMIL		0	203
+428	BENDA František		0	850
+428	BENDA Ján		0	574
+428	BENDA Matúš		0	2295
+428	Benda Vladimír		0	417
+428	BENDOVÁ Mária r. Chrvalová		0	1814
+428	BENDOVÁ Viktória r. Knapková		0	850
+428	BENDOVÁ Viktória r. Krapková		0	980,981,2295
+428	BENDOVÁ Viktória r. Krapková	m.Matúš	0	2616,2733
+428	BENEDIKOVIČOVÁ Albína r. Kostolanská		0	2645
+428	BERGER Alexander	ž.Hermína r.Kohnová	0	2616,2733
+428	BÍLIK Karol		0	2254
+428	BÍLIK Rudolf		0	2255
+428	BÍLIKOVÁ Mária r. Sojáková		0	2255
+428	BITTNEROVÁ Margita r. Mancová		0	2155
+428	BLAŠKOVÁ ROZÁLIA r. HUTTOVÁ		0	1428
+428	BOCAN Florián		0	2260
+428	BOCANOVÁ Anna r. Sojáková		0	2260
+428	BOLEDOVIČ Dominik	ž. Anna r.Demitrovičová	0	1088,1090,1533
+428	BOLEDOVIČ Dominik	ž.Anna r.Demitrovičová	0	2605
+428	BOLEDOVIČ Šimon		0	1088,1090,1533
+428	BREZULA Sylvester		0	2616,2733
+428	BUDD Anna r. Štibraná	USA	0	286
+428	ČAČALOVÁ Júlia r. Slabá		0	2645
+428	ČAPKOVIČ Jozef		0	1680
+428	ČAPKOVIČ Jozef	ž.Cecília r.Slivová	0	2616,2733
+428	ČAPKOVIČ Jozef	ž.Cecília Slivová	0	1679
+428	ČAPKOVIČ Teofil		0	2616,2733
+428	ČAPKOVIČOVÁ Emília		0	1903
+428	ČAPKOVIČOVÁ Júlia		0	1903
+428	ČAPKOVIČOVÁ Júlia r. Šimončičová		0	2645
+428	ČAPKOVIČOVÁ Lucia r. Kostolanská		0	2645
+428	ČAPLANOVÁ Anna		0	2616,2733
+428	ČAPOŠ Jozef		0	2645
+428	ČAPOŠ Michal		0	2645
+428	ČERVENKOVÁ Mária r. Lackovičová	m.Štefan	0	2645
+428	ČÍŽ Jozef, SR		0	2170
+428	ČÍŽOVÁ MÁRIA		0	1506
+428	Čs.štát - ONV v Trnave		0	1574,2272
+428	DOLNORADOŠOVSKÝ URBÁRNICI		0	2306
+428	DOVIČIČ Dominik		0	1097,1814
+428	DOVIČIČ František	ž.Anastázia r.Hlavatovičová, Z25.11.1984	0	2616,2733
+428	DOVIČIČ František, SR	žena Anastázia r.Hlavatovičová	0	961
+428	DOVIČIČ Jozef	mal. v r.1946	0	2616,2733
+428	DOVIČIČ Ľudevít		0	1131
+428	DOVIČIČ Michal	mal. do r.1918	0	2616,2733
+428	DOVIČIČOVÁ Anastázia r. Hlavatovičová	m.František, Z4.10.1993	0	2616,2733
+428	DOVIČIČOVÁ Anastázia r. Hlavatovičová, SR		0	922
+428	DOVIČIČOVÁ MÁRIA		0	162
+428	DRGON Martin	ž.Anna r.Machovičová	0	2616,2733
+428	DRGONOVÁ Anna r. Machovičová	m.Martin	0	2616,2733
+428	DRGONOVÁ Júlia r. Žaková	m.Pavol	0	2616,2733
+428	DROBNÁ Emília r. Kubišová		0	2645
+428	DUBAY Ján		0	2256
+428	DUBAYOVÁ Anna		0	2256
+428	DUBOVSKÝ Ján		0	346,2017,2047,2126
+428	DUBOVSKÝ Ján	ž. Františka Tomášková	0	2126
+428	DUŠINSKÁ Berta		0	1871,2178
+428	DZURENKA Imrich		0	2616,2733
+428	DZURENKA Jozef	mal. do r.1947	0	2616,2733
+428	ELIÁŠOVÁ Mária r. Slivová		0	2141
+428	FERECH Anton	ž.Hedviga r.Uváčiková	0	2645
+428	FERECH Jozef		0	2645
+428	FERECH Ľudovít		0	2645
+428	FERECH Michal		0	2645
+428	FERECHOVÁ Viktória		0	2223
+428	FERECHOVÁ Viktória r. Uvačeková	m.Michal	0	2645
+428	FILIPOVIČOVÁ Pavlína		0	172,174
+428	FRANKLÍNOVÁ Rozália r. Konečná		0	784
+428	FRUŽIČ Jozef		0	2257
+428	FRUŽIČOVÁ Anna r. Prvá		0	2257
+428	GALBAVA STEFANIA R.UHEROVA		0	158
+428	GALBAVÁ Štefánia r. Uhrová		0	273,2616,2733,2889
+428	GÁLOVÁ Emília r. Jankovičová		0	1896,1897
+428	GUITTNEROVÁ Alžbeta r. Dušinská		0	1873
+428	GULA Jozef		0	2645
+428	GULOVÁ Štefánia	mal.do r.1917	0	2645
+428	HAJZOCHOVÁ Emília r. Čapkovičová		0	1903,2510
+428	HERCEGOVÁ Mária	r.Slivová, Z17.2.1978	0	2616,2733
+428	HERCEGOVÁ Mária r. Oravcová		0	2028
+428	HERCEGOVÁ Mária r. Oravcová	m.Ján	0	2616,2733

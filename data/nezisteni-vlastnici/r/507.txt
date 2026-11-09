@@ -1,0 +1,256 @@
+305	Belej Ján, SR		0	640,875,1865
+305	BENČÍK Vojtech, SR		1	1123
+305	BENČÍKOVÁ Irena, SR		1	1123
+305	BENČÍKOVÁ Leona, SR		1	1123
+305	Beregi Pavel		0	1329
+305	Blanár Andrej		1	219,225,1418
+305	Blanár Andrej	maloletý	1	226
+305	Blanár Imrich		0	1212
+305	Blanár Ján		0	605,1337,1420,1477
+305	Blanár Ján	2	0	1470
+305	Blanár Ján	mal	0	1354
+305	Blanár Ján	ž.Anna Salagová	0	1094
+305	Blanár Ján	ž.Mária r.Komorovská	0	1821
+305	Blanár Ján, SR	ž.Mária r.Komorovská	0	799,801
+305	Blanár Michal		1	219,225,226,1337,1418,1420
+305	Blanár Michal	mal	0	1354
+305	Blanár Michal	manž. Anna r. Obšinčová	0	1420
+305	Blanár Michal	manž. Julianna rod. Bogdová	0	1447
+305	Blanár Michal	mladší	0	1312,1420
+305	Blanár Michal	ž. Alžbeta Lepeňová	0	1344
+305	Blanárová Alžbeta r. Fedáková		0	1397
+305	Blanárová Alžbeta r. Lepeňová		0	1344
+305	Blanárová Anna r. Komorovská		0	1477
+305	Blanárová Anna r. Salagová		0	1093
+305	Blanárová Anna r. Vargová, SR		0	362
+305	Blanárová Anna, SR		0	158,159,397,1817
+305	Blanárová Margita r. Kollárová		0	1288,1309
+305	Blanárová Mária		1	219,225,226,1418
+305	Blanárová Mária r. Komorovská		0	1365
+305	Blanárová Mária r. Németová		0	1451
+305	Blanárová Mária r. Vargová, SR		0	363
+305	Blanárová Zuzana r. Salagová		0	1347
+305	Blašková Margita r. Kvakovská		0	1222
+305	Bobiková Anna r. Bojková		0	574,1361,1951
+305	Bojko Michal		0	1021,1804
+305	Bojko Michal	ž. Anna Huľvová	0	1466
+305	Bojková Anna		0	574,1951
+305	Bojková Anna r. Huľvová		0	1466
+305	Bojková Anna r. Komorovská		0	1496,1613
+305	BOJKOVÁ Anna r. Komorovská, SR		1	1351
+305	Bojková Margita		0	574,1951
+305	Bojková Mária r. Blanárová, SR		0	728
+305	Bojková Mária r. Lepeňová		1	1208
+305	Bojková Mária r. Lepeňová, SR		1	1220
+305	Bojková Zuzana		0	574,1951
+305	Boková Anna r. Kinčovská		0	1230
+305	Boková Mária, SR		1	1494
+305	Boľko Ján		0	1166
+305	BOĽKO Ján, SR	1	1	1167
+305	Boronkay Juraj	nebohý	0	1298
+305	Brejka Ján	ž. Mária Blanárová	0	1434
+305	Bucsinszká Mária r. Potacsová, SR		0	1097
+305	Budai Andrej		0	1439
+305	Budai Ján		0	1439
+305	Budai Ján	ž. Zuzana Hasaburiová	0	1328
+305	Budai Michal		0	1439
+305	Budaiová Zuzana r. Hasaburiová		0	1328
+305	Cejkovské spoločenstvo	076 05, Cejkov	1	1304
+305	Cibereová Mária		1	686
+305	Ciganpál Jozef, SR		0	1132,1944,1945
+305	Ciganpál Michal	ž.Anna Poľaková	1	141
+305	Ciganpál Štefan	syn Michala	1	141
+305	Ciganpálová Mária r. Duplinská		0	605
+305	CIGANPÁLOVÁ Zuzana, SR		1	1193
+305	Cili Andrej		1	309,574,1951
+305	Cili Ján		1	308,309,574,1841,1951
+305	Cili Michal		1	309,574,1233,1951
+305	Cili Mikuláš		1	1233
+305	CiliI Andrej	ž. Barbora Čopková	1	308,1841
+305	Ciliová Alžbeta r. Ciliová		0	1233
+305	Ciliová Anna r. Staškovičová		0	881,882
+305	Ciliová Mária r. Hutmanová		0	1276
+305	Cilli Andrej		1	308,1841
+305	Csizmadiová Mária r. Meszarošová, SR		0	721
+305	Csörgö Jozef		0	1255
+305	Čabaiová Anna r. Šantová		0	973
+305	Čaplaky Lipot		1	632,633
+305	Čertická Mária r. Slivočková		0	199
+305	Čertický Jozef	ž. Mária Slivočková	0	199
+305	Čičatko Vojtech		0	902,1493
+305	ČIČATKO Vojtech, SR	maloletý	1	904
+305	Čičatková Anna		0	608,902,1493
+305	ČIČATKOVÁ Anna, SR		1	904
+305	Čičatková Helena		0	608,1493
+305	ČIČATKOVÁ Helena, SR		1	904
+305	Čičatková Mária		0	608,1493
+305	ČIČATKOVÁ Mária, SR		1	904
+305	Čonková Mária r. Vargová		0	584
+305	Čuchrač Andrej, SR		0	871
+305	Čuperňák Ján		0	632,633
+305	Čuperňák Jozef		0	1379
+305	Čuperňák Michal		0	632,633
+305	Deák Ján		0	1703
+305	Demjan Michal	ž. Alžbeta Žirková	0	1444
+305	Doľacký Michal		0	1317
+305	Duczár Andrej		0	1269
+305	Duplinská Alžbeta r. Staškovičová		1	141,1402,1495
+305	Duplinská Anna r. Salagová, SR		0	995
+305	Duplinská Elena		1	433,434,1077,1179
+305	Duplinská Helena		0	1402
+305	Duplinská Helena	1	1	141
+305	Duplinská Koščová Mária r. Paričová, SR		0	796
+305	Duplinský Ján		0	1402
+305	Duplinský Ján	3	1	141
+305	Duplinský Ján	Koščo	0	1363
+305	Duplinský Ján	manž. Anna rod. Fedáková	1	433,1403
+305	Duplinský Ján	matka Mária r.Poľaková	1	141
+305	Duplinský Ján	ž. Alžbeta Stašková	0	1495
+305	Duplinský Ján	ž.Anna Fedáková	0	141
+305	Duplinský Jozef		0	1204
+305	Duplinský Juraj	ž.Anna Fedáková	0	1204
+305	Duplinský Koščo Ján, SR		0	796
+305	Duplinský Koščo Michal, SR		0	796
+305	Duplinský Mikuláš		1	433,1204,1402
+305	Duplinský Mikuláš	2	1	141
+305	Duplinský Štefan		1	500
+305	Durkota Ján	ž. Mária Fečová	0	1322
+305	Durkotová Jolana		0	1443
+305	Durkotová Mária r. Fečová		0	1322
+305	Durkotová Mária r. Šimková		1	141
+305	Dvorníková Anna r. Pačutová, SR		1	29
+305	Dzvončeková Mária r.Kiššová		0	1161
+305	Egri Michal		0	1304
+305	Egri Štefan		0	1225,1304,1332
+305	Egriová Mária		0	1291
+305	Egriová Mária r. Balintová		0	117,1225,1292
+305	Falatovičová Anna r. Gogová		0	894
+305	Falatovičová Anna r. Gogová, SR		0	1135
+305	Farbar Ján		0	117,1291,1292,1295,1296
+305	Farbarová Zuzana		0	117,1291,1292
+305	Fečo Belo	ž. Anna Salagová	0	1462
+305	Fečo Viktor		0	1325
+305	Fečo Viktor	ž. Alžbeta Tomková	0	1325
+305	Fečová Anna r. Salagová		1	1033,1462,1825
+305	Fečová Mária r. Šantová		1	1487
+305	Fečová Zuzana		0	632,633
+305	Fedák Andrej		1	476
+305	Fedák Andrej	manž. Pavlová Anna	1	983
+305	Fedák Imrich		0	1208
+305	Fedák Mikuláš		1	983
+305	Fedaková Anna		0	1811
+305	Fedáková Anna r. Šantová		1	678
+305	Fedáková Anna r. Torhánová		1	477,1392
+305	Fedáková Mária	maloletá	1	476
+305	Fedor Michal		0	1311
+305	Fedor Štefan		0	1311
+305	FERDINANDOVÁ Izabella, SR		1	1123
+305	Filiková Helena r. Ciliová		0	1233
+305	Franko Ján		0	1441
+305	Franko Július		0	1441
+305	Franko Štefan		0	1441
+305	Fridman Arnold		0	1346
+305	Galambošová Anna r. Rabatinová		0	577
+305	Geciová Mária r. Šantová		1	409
+305	Girmanová Mária r. Hudáková		1	173,175
+305	Glücková Rozália r. Deriová		0	1299
+305	Glücková Rozália r. Grünbergerová		0	1442
+305	Gočáková Mária r. Kočišpálová		0	221
+305	Gogová Alžbeta r. Lepeňová		0	895
+305	Gogová Anna r. Hrivňaková, SR		0	806
+305	Gogová Mária r. Kolesárová		0	894,1213,1352
+305	GOGOVÁ Mária r. Kolesárová, SR		1	1136
+305	Gomboda Michal	maloletý	0	1345
+305	Gomboda Michal	ž. Anna Hornyáková	0	1443
+305	Gombová Michal		0	141
+305	Gönci Andrej	H	0	977
+305	Gönci Ján	H	0	977
+305	Gönciová Mária		0	977
+305	Gonczi Štefan, SR	ž.Zuzana r.Tarbajová	0	977
+305	Grünberger Bertalan		0	1299,1442
+305	Grünberger Jozef		1	1299,1442
+305	Grünberger Karol		0	1442
+305	Grünberger Viliam		0	1299,1442
+305	Grünbergerová Ilona		0	1299,1442
+305	Grünbergerová Margita		0	1299,1442
+305	Györi Ján	ž. Barbora Kisová	0	1603
+305	Gyurászová Anna r. Pačutová		1	406,407,580,1908
+305	Gyüttmentová Alžbeta r. Spišáková		1	499
+305	Hadara Michal	ž.Mária Hajašová	0	1284
+305	Hadari Ján	Mária Marcinová	1	475,580
+305	Hadari Ján	ž. Mária Marcinová	0	1333
+305	Hadari Jozef		0	1284,1296
+305	Hadari Július		0	1284,1296
+305	Hadari Július	mal	0	1295
+305	Hadari Michal		0	1261,1284,1295,1296
+305	Hadari Michal	ž. Anna Dikovecová	0	1708
+305	Hadari Štefan		0	1475
+305	Hadari Vojtech		1	1284,1296
+305	Hadari Vojtech	mal	0	1295
+305	Hadariová Anna r. Dikovecová		0	1708
+305	Hadariová Júlia r. Brečková		0	1261
+305	Hadariová Mária r. Marcinová		0	1319,1333,1450
+305	Hadariová Zuzana		0	1239
+305	Hamnická Alžbeta r. Bojková		0	574,1361,1951
+305	Harčár Andrej		0	577
+305	HATRÁK Juraj, SR		1	1123
+305	HATRÁKOVÁ Mária r. Arendášová, SR		1	1123
+305	Hatráková Mária r. Pavliková		1	455
+305	Horňák Michal		0	1231
+305	Horňáková Mária, SR		0	808
+305	Hovjaková Mária r. Šiketová		0	1272
+305	Hrabčák Jozef		0	1820
+305	Hrabčak Jozef, SR		1	10
+305	Hrabčák Michal	ž.Alžbeta Čopková	0	1281
+305	Hrabčáková Mária		0	1038,1039,1040
+305	Hrabčáková Mária, SR		0	1037
+305	Hrabčáková Zuzana r. Vargová		0	1038,1039,1040,1041
+305	Hrehová Zuzana r. Vargová, SR		0	362,363
+305	Hric Juraj		0	941
+305	Hrivňak Michal		0	832,1766,1791
+305	Hrivňak Štefan	ž. Anna Pavelová	0	1398
+305	Hrivňaková Alžbeta r. Šantová		1	193,194,198,199,804,1866
+305	Hrivňaková Mária r. Pavolová		0	1381
+305	Hudák Imrich	2.9.1922 zomrel	1	175
+305	Hudák Imrich	ž. Margita Vargová	0	1401
+305	Hudák Michal		0	868
+305	Hudáková Alžbeta r. Horňáková		1	174
+305	Hudáková Mária		1	175,868
+305	Hudáková Zuzana r. Salagová		1	1033,1825
+305	Huľva Ján	Anna Moňáková	1	471
+305	Huľva Michal		0	1417
+305	Huľva Michal	1	1	141
+305	Huľva Mikuláš	2	1	141
+305	Huľvová Anna r. Moňaková		0	1212
+305	Huľvová Helena r. Blanárová		0	1212
+305	Huľvová Mária r. Fedáková		1	471
+305	Huľvová Mária r. Staškovičová		1	141
+305	Husovská Anna r. Horňáková		1	141
+305	Husovský Ján		1	409
+305	Husovský Jozef		1	409,1290,1301
+305	Husovský Jozef	1	1	141
+305	Husovský Michal		1	409,1290,1301
+305	Hutman Andrej		0	1444
+305	Hutman Ján		0	1444
+305	Hutmanová Berta r. Kačuráková, SR		1	1262,1789
+305	Huttman Ján	ž. Zuzana Németová	0	1428,1468
+305	Huttman Jozef		0	1444
+305	Huttman Jozef	ž. Anna Šeňová	0	1444
+305	Huttman Juraj	ž. Anna Kálmanová	0	1465
+305	Huttman Michal	mladší	0	1444
+305	Huttmanová Anna r. Kálmanová		0	1465
+305	Huttmanová Anna r. Šeňová		0	1444
+305	Huttmanová Mária		0	1444
+305	Huttmanová Zuzana r. Németová		0	1468
+305	Ihnát Ján	ž. Anna Hrehová	0	1444
+305	Ihnátová Anna r. Šimková		1	141
+305	Ivák Andrej		0	1688
+305	Iváková Alžbeta		0	1688
+305	Iváková Ilona		0	1688
+305	Iváková Mária		0	1688
+305	Iváková Mária r. Jankovská		0	1688
+305	Ižépi František		0	1625
+305	Ižépi Ladislav		1	1625
+305	Ižépi Tivadar		0	1625
+305	Ižépiová Anna		0	1625
+305	Jacko Andrej		0	1286

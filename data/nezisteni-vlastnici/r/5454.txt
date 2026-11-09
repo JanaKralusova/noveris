@@ -1,0 +1,256 @@
+3066	Vávrová Kamila, SR	maloletá	1	3662
+3066	Vávrová Mária r. Masaryková, SR		1	3694
+3066	Vávrová Mária, SR	maloletá	1	3662
+3066	Vávrovičová Terézia r. Jurigová, SR		1	4183
+3066	Veselá Karolína r. Strožová, SR		1	3733
+3066	Vicenc Martin, SR	ž.Zuzana Janíková	1	3819
+3066	Vícenecová Terézia r. Hojsíková, SR		1	4241
+3066	Vicenová Zuzana r. Janiková, SR		1	4561,4770
+3066	Vizváry Rudolf, SR	ž.Štefánia Hrušecká	1	4113
+3066	Vizváryová Karolína r. Hajosiová, SR		1	3638
+3066	Vlk Florian	ž. Anastázia r. Alexejová	0	797
+3066	Vlk Florián, SR	ž.Anastázia Alexejová	1	3638,4189,4770
+3066	Vlk Ján, SR	ž.Klára Krempová	1	3629,3635
+3066	Vlk Mikuláš, SR		1	3629,3635
+3066	Vlk Pavol, SR		1	3852
+3066	Vlk Pavol, SR	ž.Marta Krempová	1	4217,4770
+3066	Vlková Agneša, SR		1	3629,3635
+3066	Vlková Anastázia, SR	m.Florián	1	3973
+3066	Vlková Anna, SR		1	3629,3635
+3066	Vlková Gabriela r. Tokošová, SR		1	3629,3635
+3066	Vlková Kristína, SR		1	3629,3635
+3066	Vlková Marta r. Krempová, SR	m.Pavol	1	4385
+3066	Vlková Rozália, SR	1	1	3629,3635
+3066	Vojtíšková Barbora r. Srachovičová, SR	m.Martin	1	3638,3810
+3066	Vojtíšková Eleonóra r. Hajlová, SR		1	3923
+3066	Voleková Hedviga r. Staneková, SR		1	4406
+3066	Volková Terézia r. Straková, SR	m.Gregor	1	3679
+3066	Vrba Jakub, SR	maloletý	1	3629,3635
+3066	Vrbická Albertína r. Marenčíková, SR	Dod Johanny Marenčíkovej r.Mihálovej	1	4284
+3066	Vrbická Terézia r. Varmužová, SR	m.Karol	1	4682
+3066	Vrbická Terézia r. Vrbická, SR		1	4073
+3066	Vrbová Anna, SR		1	4246
+3066	Vrbová Terézia, SR	maloletá	1	3629,3635
+3066	Vrtalová Mária r. Ackerlová, SR		1	3629,3635
+3066	Weisová Oľga r. Richterová, SR		1	3728
+3066	Wesswendorfová Veronika r. Zajíčková, SR		1	4488
+3066	Zahnerová Justína r. Morávková, SR		1	3629
+3066	Zajíček Augustín, SR		1	4447
+3066	Zajíček Jozef, SR		1	4579,4770
+3066	Zajíček Peter, SR		1	4395,4770
+3066	Zajíček Vojtech, SR		1	3868
+3066	Zajíčková Stanislava, SR		1	3956,4770
+3066	Zámečníková Helena r. Bartalová, SR		1	4559
+3066	Zich Dominik, SR		1	3629,3635
+3066	Zich Fabián, SR		1	3629,3635
+3066	Zich Štefan, SR		1	3629,3635
+3066	Zichová Anna, SR		1	3629,3635
+3066	Zichová Magdaléna, SR		1	3629,3635
+3066	Židlík Štefan, SR	ž.Viktória	1	3629,3635
+3066	Židlíková Amália, SR		1	3629,3635
+3066	Židlíková Viktória r. Beneková, SR		1	4320,4770
+3066	Žilínek Alojz, SR	ž.Helena Nemeckayová	1	3651,4039
+3066	Žilínek Imrich, SR		1	4452
+3066	Žilínek Imrich, SR	ž.Judita Tomašovičová	1	3882
+3066	Žilínek Jozef, SR	ž.Julianna Juráčková	1	4014
+3066	Žilínek Jozef, SR	ž.Mária Mullerová	1	4506
+3066	Žilínek Kristián, SR	ž.Mária Míšaná	1	4478
+3066	Žilínek Štefan, SR		1	3629,3635
+3066	Žilinková Alžbeta r. Morávková, SR	m.Imrich	1	3700
+3066	Žilinková Helena r. Nemečkayová, SR		1	3651,4151
+3066	Žilinková Johanna r. Komorná, SR		1	4627
+3066	Žilinková Jozefína r. Kanová, SR		1	4357
+3066	Žilinková Vincenzia r. Žilinková, SR		1	4595
+3067	Baranová Mária r. Timková	m.Andrej	0	264
+3067	Baranová Mária r.Timková		0	772
+3067	Begala Ján		0	792
+3067	Begalová Anna		0	792
+3067	Bič Andrej		0	627
+3067	Bocan Jozef		0	793
+3067	Cverčko Ján		0	775
+3067	Cverčko Vojtech		0	775
+3067	Cverčková Anna		0	775
+3067	Drobňak Ján		0	780
+3067	Džogán Ján		0	79
+3067	Fedor Ján		0	129,416,936
+3067	Fedor Ján r. Fedor	ž.Anna r.Gnapová	0	970,1009
+3067	Fedor Štefan		0	1009
+3067	Fedorová Anna r. Petiová		0	416,1009
+3067	Ferková Alžbeta r. Suchožová		0	982,1007
+3067	Gajdanová Anna r.Suchožová		0	782
+3067	Gašpar Michal		0	1012
+3067	Gašpár Pavol		0	1010
+3067	Gažiová Alžbeta r. Senašiová		0	798
+3067	Hegedüšová Mária		0	776
+3067	Holubová Mária r. Suchožová		0	640
+3067	Chvastová Mária r. Mikulová		0	415,971
+3067	Ivančo Andrej		0	620
+3067	Ivančo Juraj		0	620
+3067	Ivančová Mária r. Kaňuchová		0	770
+3067	Jasič Michal		0	810
+3067	Jasičová Alžbeta r. Ščerbiková		0	810,820
+3067	Juhas Michal		0	770
+3067	Juhasová Anna r. Kaňuchová		0	770
+3067	Juhasová Mária r. Ščerbiková		0	977,978
+3067	Kantorová Helena r. Gašparová		0	807
+3067	Karekačová Mária r.Drobňaková		0	781
+3067	Kohutová Mária r. Plavnická		0	994
+3067	Macko Ján	ž.Júlia r.Slepkovská	0	1000
+3067	Macko Michal		0	640
+3067	Majcherová Helena		0	279
+3067	Mihalčíková Mária r. Polaková		0	784
+3067	Mitrová Anna r. Ivančová		0	989
+3067	Nemzet Jozef Ing.  r. Nemzet		0	324
+3067	Parnahaj Ján r. Parnahaj		0	984
+3067	Parnahaj Juraj		0	610,822
+3067	Plavnický Michal r. Plavnický	ž.Anna r.Kertésová	0	994
+3067	Poľacká Helena r. Poľacká		0	997
+3067	Polak Ján		0	784
+3067	Polak Michal		0	784
+3067	Porubová Alžbeta r. Macková		0	722
+3067	Porubová Alžbeta r. Macková	m.Michal	0	996
+3067	Slepkovský Michal	ž.Anna r.Fedorová	0	979
+3067	Starec Michal	ž.Helena r.Baranová	0	1013
+3067	Sucha Anna r.Suchožová		0	782
+3067	Suchož Andrej r. Suchož		0	982
+3067	Suchoža Ján	syn Jána	0	732
+3067	Suchoža Michal	syn Jána	0	732
+3067	Svoboda Ľudovít	Trebišov	0	1003
+3067	Szeckenyi Bartolomej		0	831
+3067	Šandorová Anna r. Petiová		0	129,936,970
+3067	Ščerbík Ján		0	1009
+3067	Ščerbik Ján Ing.  r. Ščerbik		0	977,978
+3067	Ščerbik Michal r. Ščerbik		0	977,978
+3067	Ščerbíková Mária r. Šlepkovská		0	976
+3067	Škintová Anna r. Hrivková		0	323
+3067	Šlepkovský Juraj, SR		0	773
+3067	Šoltésová Mária r. Suchožová		0	246,247,249,987
+3067	Šoltesová Mária r.Suchožová		0	780
+3067	Štefančík Ján	mlš., ž. Anna r. Petričková	0	801
+3067	Timko Andrej		0	742
+3067	Timko Ján		0	786
+3067	Timko Michal	syn Juraja	0	771
+3067	Timko Michal	syn Michala	0	771
+3067	Timková Anna		0	742
+3067	Timková Anna Mária		0	771
+3067	Timková Mária r. Juhasová		0	794
+3067	Vašková Anna r. Jeneyová	vdova	0	994
+3068	Adamkovič Bernard r. Adamkovič		0	1785
+3068	Adamkovič Gustáv		0	1783,1784
+3068	Adamkovič Imrich	mal	0	1789
+3068	Adamkovič Ján		0	1785
+3068	Adamkovič Ján	ml	0	1784
+3068	Adamkovič Ján	súr.Štefan	0	1266,1786
+3068	Adamkovič Ján	ž.Verona r.Martišková	0	1785
+3068	Adamkovič Jozef	maloletý, súrodenci Katarína, Amália, Irma, Valuša, Štefánia, Alžbeta	0	1017
+3068	Adamkovič Jozef	ž.Katarína r.Holanová	0	1789,1790
+3068	Adamkovič Jozef	ž.Mária r.Rybanská	0	889
+3068	Adamkovič Ľudevít		0	1783,1784
+3068	Adamkovič Štefan		0	1789
+3068	Adamkovič Štefan	súr.Ján	0	1266,1783,1786
+3068	Adamkovič Štefan	ž.Alžbeta r.Krajčiková	0	1266,1786
+3068	Adamkovičová Alžbeta	maloletá, súrodenci Katarína, Amália, Irma, Valuša, Štefánia, Jozef	0	1017
+3068	Adamkovičová Alžbeta r. Krajčiková	m.Štefan	0	1786
+3068	Adamkovičová Irma	výmaz mal.v r. 1933, súrodenci Katarína, Amália, Valuša, Štefánia, Jozef, Alžbeta výmaz mal.v r. 1933, súrodenci Katarína, Amália, Valuša, Štefánia, Jozef, Alžbeta	0	1017
+3068	Adamkovičová Katarína	maloletá, súrodenci Amália, Irma, Valuša, Štefánia, Jozef, Alžbeta	0	1017
+3068	Adamkovičová Katarína r. Holanová	m.Jozef	0	1790
+3068	Adamkovičová Mária r. Kudelová	m.Juraj	0	723
+3068	Adamkovičová Štefánia	maloletá, súrodenci Katarína, Amália, Irma, Valuša, Jozef, Alžbeta maloletá, súrodenci Katarína, Amália, Irma, Valuša, Jozef, Alžbeta	0	1017
+3068	Adamkovičová Valéria	vyd.Nitrianska m.František	0	1017
+3068	Adamkovičová Verona r. Ševčíková		0	112,114,668,1569,1570
+3068	Andrlová Pavla r. Ďurčeková	zom.26.9.1998	0	1568,1633,1638,1686,2207,2243
+3068	Bago Adam	po Andrejovi	0	1568,1638,2207,2243
+3068	Bago Adam	ž.Alžbeta r.Košecká	0	658,1568,1638,2102,2207,2243
+3068	Bago Augustín	po Andrejovi výmaz mal.1919	0	1289,1568,1638,2207,2243
+3068	Bago Augustín	ž.Alžbeta r.Adamkovičová	0	489,1289
+3068	Bago Augustín	ž.Paula r.Petrušová	0	909
+3068	Bago Emil		0	2070
+3068	Bago Gustáv	ž.Paulína r.Petrušová	0	904,1651
+3068	Bago Gustav r. Bago	zom.12.1.2001	0	1734,1967
+3068	Bago Imrich	mal	0	973
+3068	Bago Imrich	po Štefanovi	0	973
+3068	Bago Ján	ž.Alžbeta r.Zahradná	0	1734
+3068	Bago Jozef	po Andrejovi	0	984
+3068	Bago Jozef	po Štefanovi	0	973
+3068	Bago Jozef	ž.Katarína r.Bačurová	0	862
+3068	Bago Jozef	ž.Mária r.Stred ?	0	976
+3068	Bago Julius r. Bago	zom.16.2.2006	0	1283,1625,1958,1968
+3068	Bago Ludovít	ž.Katarína r.Beláková	0	2099
+3068	Bago Martin	po Jozefovi,ž.Matilda	0	1568,1625,1626,1638,1970,2207,2243
+3068	Bago Martin	ž.Matilda r.Kudelová	0	1854
+3068	Bago Michal	po Štefanovi	0	973
+3068	Bago Michal	ž.Jozefína r.Ambrová	0	1658
+3068	Bago Michal	ž.Mária r.Herdová	0	973,975,976,1217,1233,1289,1568,1625,1626,1638,1734,2207,2243
+3068	Bago Milan r. Bago	zom.14.2.2001	0	489,1625,1689
+3068	Bago Milan r. Bago	zom.29.10.2005	0	1626
+3068	Bago Pavol	mal	0	973,975,1233,1289,1625,1626,1734,1967
+3068	Bago Pavol	po Jánovi	0	862,974,976,1568,1638,2207,2243
+3068	Bago Pavol	po Jozefovi	0	1289,1568,1638,1732,2207,2243
+3068	Bago Pavol	po Štefanovi	0	973
+3068	Bago Peter	po Jozefovi	0	1289,1568,1626,1638,2207,2243
+3068	Bago Rudolf	výmaz mal.v r.1926 po Jánovi	0	862
+3068	Bago Štefan	krajčír po Štefanovi zom.3.7.1925	0	1968
+3068	Bago Štefan	po Andrejovi	0	1568,1638,2207,2243
+3068	Bago Štefan	po Štefanovi	0	973
+3068	Bago Štefan	výmaz mal.v r.1941	0	111,114,901,903,904,905,906,907,908,909,1427,1568,1638,1980,2207,2243
+3068	Bago Štefan	výmaz mal.v r.1945, zom.30.3.2000	0	1558,1582,1675,1676
+3068	Bago Viktor	mal. po Andrejovi	0	1568,1638,2207,2243
+3068	Bago Vladimír r. Bago	zom.23.3.2003	0	1289
+3068	Bago Vojtech	po Štefanovi	0	973
+3068	Bago Vojtech	zom.5.12.1975,ž.Mária r.Rybánska čd.20	0	1097,1568,1599,1638,2207,2243
+3068	Bago Vojtech r. Bago	zom.28.1.2004	0	1233,1734
+3068	Bago Vojtech r. Bago a Mária Bagová r. Rybánska	Vojtech zom.5.12.1975	0	1599
+3068	Bagová Adela	výmaz mal.v r.1949 vyd.Skladaná	0	903,1568,1638,2207,2243
+3068	Bagová Alžbeta r. Košecká	m.Adam	0	489,658,976,980,981,982,984,985,1568,1626,1638,1968,2102,2207,2243
+3068	Bagová Alžbeta r. Markovičová		0	1568,1638,1655,1762,2207,2243
+3068	Bagová Alžbeta r. Markovičová	m.Matej	0	1255
+3068	Bagová Alžbeta r. Zahradná	m.Ján	0	1734,1967
+3068	Bagová Anna	čd.45	0	1568,1638,2207,2243
+3068	Bagová Anna	výmaz mal.v r.1938	0	1568,1638,2207,2243
+3068	Bagová Jozefína	mal	0	862,974,975,976,1233,1289,1568,1625,1626,1638,1734,1967,2207,2243
+3068	Bagová Júlia	otec Jozef,matka Júlia r.Rydzi	0	658,929,980,981,982,983,984,1082,1083,1084,1625,1626,1689,1972
+3068	Bagová Katarína r. Belaková	m.Ludovit	0	976,1289,1568,1626,1638,1800,2070,2099,2207,2243
+3068	BAGOVÁ Katarína r.Belanová		0	740
+3068	Bagová Mária	mal.vyd.Chudá m.Štefan	0	1568,1638,2207,2243
+3068	Bagová Mária	výmaz mal.1934 vyd.Chudá	0	1676
+3068	Bagová Mária r. Adamkovičová	m.Ján	0	862
+3068	Bagová Mária r. Herdová	m.Michal	0	974,976,1289,1568,1625,1626,1638,1967,2207,2243
+3068	Bagová Mária r. Zacharová	zom.13.10.2008	0	1592
+3068	Bagová Matilda	mal	0	862,974,975,976,1233,1289,1568,1625,1626,1638,1734,1967,2207,2243
+3068	Bagová Matilda r. Kudelová	m.Martin	0	1854
+3068	Bagová Paulína	čd.20	0	1096,1097,1098,1099,1568,1638,2207,2243,2303
+3068	Bagová Verona	po Štefanovi	0	973
+3068	Bagová Zuzana r. Kugyelová	m.Andrej	0	980,984,985
+3068	Bajtala Jozef	ž.Veronika r.Tulisová	0	1834
+3068	Bajtalová Veronika r. Tulisová	m.Jozef	0	1834
+3068	Balajka Augustín	ž.Mária r.Vasilovčíková	0	1207
+3068	Balajka František		0	1784
+3068	Balajka František	výmaz mal.v r.1931	0	671,672,1568,1638,1711,2207,2243
+3068	Balajka Gustav	ž.Mária r.Vasilovičová	0	1873
+3068	Balajka Gustáv	výmaz mal.v r.1936	0	1711
+3068	Balajka Ján	výmaz mal.v r.1937	0	671,672,1568,1638,1711,2207,2243
+3068	Balajka Jozef	mal. súr.Helena čd.5	0	671,672,1568,1638,1711,2207,2243
+3068	Balajka Jozef	výmaz mal.v r.1940	0	671,672,1568,1638,1711,2207,2243
+3068	Balajka Michal		0	1814,2067
+3068	Balajka Pavel	výmaz mal.v r.1934	0	671,672,1568,1638,1711,2207,2243
+3068	Balajková Anna r. Streďanská		0	671,1568,1638,1711,1803,2119,2207,2243
+3068	Balajková Edita r. Cifrová	zom.6.6.2011	0	1568,1633,1638,2001,2207,2243
+3068	Balajková Helena	mal. súr.Jozef čd.5	0	671,672,1568,1638,1711,2207,2243
+3068	Balajková Mária r. Vasilovičová	m.Gustav	0	1873
+3068	Balajková Otília r. Košovská	zom.19.6.2007	0	1969
+3068	Balajková Paulína r. Mokošová	zom.16.2.2000, m.Michal č.213,308	0	2097
+3068	Balent Gejza	ž.Magdaléna r.Blašková čd.9	0	1698,1700
+3068	Balent Imrich	výmaz mal.v r.1924 po Márii r.Bobula	0	1196,1568,1638,2207,2243
+3068	Balent Jozef	po Márii r.Bobula	0	726,1039,1193,1196,1221,1329,1568,1580,1638,1748,2207,2243,2266,2361
+3068	Bálent Ľudovít r. Bálent	zom.13.5.2009	0	1699,1700
+3068	Balent Štefan		0	1193,1580,1748,2266,2361
+3068	Balent Štefan	ž.Mária r.Bobula	0	1221,1329,1568,1638,2207,2243
+3068	Balent Štefan	ž.Paulína r.Košovská	0	726,1196,1568,1580,1638,1748,2207,2243,2266,2361
+3068	Bálentová Ľudmila		0	726,1039,1193,1196,1221,1329,1330,1331,1568,1580,1602,1633,1638,1698,1728,1748,2083,2207,2243,2266,2361
+3068	Balentová Mária	výmaz mal.v r.1928 po Márii r.Bobula	0	726,1039,1196,1221,1329,1568,1580,1638,1748,2207,2243,2266,2361
+3068	Bálentová Mária r. Bobulová	m.Štefan	0	1568,1638,2163,2207,2243
+3068	Balentová Paula r. Košovská	m.Štefan	0	1811
+3068	Balentová Pavlína r. Beláková		0	1432,1433,1434
+3068	Barboríková Mária r. Matejová		0	882
+3068	Belák Jozef	mal.,sestra Anna	0	1568,1638,2207,2243
+3068	Belák Jozef	výmaz mal.v r.1936	0	1027,1030,1036,1431,1432,1433,1434,1568,1638,2207,2243

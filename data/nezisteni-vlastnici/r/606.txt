@@ -1,0 +1,256 @@
+345	Zatyko Juraj	stara	1	636
+345	Zatyko Juraj	žena Verona r. Zatyková	1	1708
+345	Zatyko Juraj, SR		0	572,573,758,797,1050,1244
+345	Zatyko Juraj, SR	mladší	0	630,1014,1192,1245,1250
+345	Zatyko Juraj, SR	Stara	0	638,1256
+345	Zatyko Ladislav, SR		0	572,573
+345	Zatyko Ladislav, SR	Noga	0	199,510,578,579,605,607,608,609,610,1249,1494,1863
+345	Zatyko Ladislav, SR	Nyuka	0	579,1353,1383
+345	Zatyko Ľudovít, SR		0	572,573
+345	Zatyko Martin, SR		0	758,898
+345	Zatyko Matej		1	1722
+345	Zatyko Matej, SR		0	1050
+345	Zatyko Matej, SR	žena Borbála r. Györgyová	0	572,573
+345	Zatyko Matias, SR		0	572,573,797,1191,1245
+345	Zatyko Matias, SR	žena Barbora r. Györgyová	0	892
+345	Zatyko Matyas, SR		0	822
+345	Zatyko Michal		1	567
+345	Zatyko Michal, SR		0	562,563,565,566,568,569,572,573,662,934,1072,1137,1138,1280,1305,1352
+345	Zatyko Michal, SR	Nyuka	0	579,1353,1383
+345	Zatyko Pavel		1	567,1612,1630
+345	Zatyko Pavel, SR		0	498,522,562,563,565,566,568,569,571,572,573,660,662,696,705,709,710,711,712,796,797,902,934,1072,1137,1138,1202,1305,1352,1956
+345	Zatyko Pavel, SR	Nyuka	0	506,579,1353
+345	Zatyko Pavel, SR	žena Rozália r. Zatyková	0	572,573
+345	Zatyko Štefan	nyuka	1	61
+345	Zatyko Štefan	stara	1	636
+345	Zatyko Štefan, SR		0	494,522,976,1050,1053,1192,1221,1244,1245,1250,1253,1377,1956
+345	Zatyko Štefan, SR	Gergely, žena Barbora r. György	0	838
+345	Zatyko Štefan, SR	mladší	0	572,573
+345	Zatyko Štefan, SR	Nyuka	0	572,573,1383
+345	Zatyko Štefan, SR	Stara	0	572,573,638,1256
+345	Zatyko Štefan, SR	žena Barbora r. Györgyová	0	572,573
+345	Zatyko Štefan, SR	žena Helena r. Györgyová	0	572,573
+345	Zatyko Vincent	stara	1	636
+345	Zatyko Vincent, SR		0	519,559,572,573
+345	Zatyko Vincent, SR	Nyuka	0	1383
+345	Zatyko Vincent, SR	Stara	0	638,1256
+345	Zatyko Vincent, SR	Stara, maloletý	0	572,573
+345	Zatyko Vincent, SR	žena Helena r. Balgová	0	572,573
+345	Zatyko Vojtech		1	1708
+345	Zatyko Vojtech, SR		0	572,573
+345	Zatyková Alžbeta r. Balgová, SR	muž Štefan	0	572,573,877,1225,1744
+345	Zatyková Alžbeta, SR		0	522,1956
+345	Zatyková Alžbeta, SR	maloletá	0	572,573
+345	Zatyková Angela r. Hegedűšová, SR		0	674
+345	Zatyková Barbora r. Györgyová, SR	muž Matej	0	1035
+345	Zatyková Barbora r. Györgyová, SR	muž Štefan	0	838
+345	Zatyková Brigitta, SR		0	1243,1280
+345	Zatyková Elena, SR		0	572,573
+345	Zatyková Elena, SR	Nyulas	0	572,573,595,596,597,1934
+345	Zatyková Helena r. Zatyková		1	636
+345	Zatyková Helena r. Zatyková, SR		0	572,573,638,1256
+345	Zatyková Helena, SR		0	572,573,595,597,1934
+345	Zatyková Katarína r. Balgová, SR		0	572,573
+345	Zatyková Katarína r. Jakabová, SR		0	593,1373
+345	Zatyková Katarína r. Jakabová, SR	muž Martin	0	572,573,586,1208,1214,1353
+345	Zatyková Margita r. Cellenková, SR		0	572,573
+345	Zatyková Margita, SR	Nyulas	0	572,573,595,596,597,1934
+345	Zatyková Mária		1	1619
+345	Zatyková Mária r. Balgová	muž Jozef	1	1708
+345	Zatyková Mária r. Balgová, SR	muž Štefan	0	572,573,1142
+345	Zatyková Mária, SR		0	549,572,573,1243,1280,2045,2061
+345	Zatyková Rozália r. Balgová, SR		0	873,1459
+345	Zatyková Rozália r. Balgová, SR	muž Juraj	0	572,573
+345	Zatyková Rozália, SR		0	494,522,1956
+345	Zatyková Rozália, SR	maloletá	0	572,573
+345	Zatyková Rozália, SR	Nyuka	0	1383
+345	Zatyková Verona r. Filipová, SR	Borom	0	1065
+345	Zatyková Verona r. Filipová, SR	muž Juraj	0	982
+345	Zatyková Verona r. Zatyková	muž Juraj	1	61
+345	Zatyková Verona r. Zatyková, SR	muž Gyorgy	0	1253
+345	Zatyková Verona r. Zatyková, SR	muž Juraj	0	572,573
+345	Zatyková Verona, SR		0	1238
+345	Zatyková Zsofia r. Balgová, SR		0	652
+345	Zatyková Zuzana r. Balgová	muž Imrich	1	1641
+345	Zatyková Zuzana r. Balgová, SR		0	572,573,635,663,693,799,953,954,1171
+345	Zatyková Zuzana r. Balgová, SR	muž Imrich	0	1104
+345	Zatyková Zuzana, SR	Nyulas	0	777
+345	Zatyková Zuzanna r. Balgová, SR		0	1319
+345	Zatyková Žofia r. Balgová		0	378
+345	Zatyková Žofia r. Balgová, SR		0	667
+345	ZSÉLYI Štefan	m.b.Mária r.Sebényová	1	1723
+345	Žaťko Juraj	mladší	1	1571,1602
+346	Bodnár Juraj		0	1124
+346	Bruňáková Zuzana r. Butkovská		1	595,1029
+346	Buško Ján, USA USA		0	784
+346	Buško Michal, USA USA		0	784
+346	Bušková Zuzana, maloletá, USA maloletá, USA		0	784
+346	Butkovská Anna r. Morozová		0	695,845
+346	Butkovská Mária r. Padová		0	941
+346	Butkovská Zuzana r. Mihaľová		0	1116
+346	Butkovská Zuzana r. Mihaľová	vdová	1	595
+346	Butkovský Ján	ž. Mária r. Padová	1	595
+346	Butkovský Ján, ž.Mária Padová ž.Mária Padová		0	979
+346	Butkovský Július	ž. Mária r. Valigová	1	595
+346	Butkovský Július, ž.Mária Valigová ž.Mária Valigová		0	821
+346	Butkovský Michal	ž. Anna r. Kaňuchová	1	595
+346	Butkovský Michal	ž. Anna r. Stretavská	1	595
+346	Butkovský Michal, ž.Anna Balejčíková ž.Anna Balejčíková		0	905
+346	Butkovský Michal, ž.Anna Kaňuchová ž.Anna Kaňuchová		0	834
+346	Butkovský Michal, ž.Anna Stretavská ž.Anna Stretavská		0	855
+346	Butkovský Pavol, ž.Mária Ondziková ž.Mária Ondziková		0	993
+346	Capík Ján		0	1115
+346	Capík Ján, ž.Anna Klacíková ž.Anna Klacíková		0	796
+346	Capík Juraj, ž.Zuzana Andrejová ž.Zuzana Andrejová		0	796
+346	Capík Michal, ž.Alžbeta Heligmanová ž.Alžbeta Heligmanová		0	1134
+346	Capíková Alžbeta r. Heligmanová, m. Michal m. Michal		0	1004
+346	Capíková Mária r. Ihnátová		0	999
+346	Drahňovská Anna r. Mišovčíková		1	595,1121
+346	Drotárová Anna r. Tkáčová		1	595,909
+346	Farkaš Jozef		0	1148
+346	Farkaš Pavol		0	1148
+346	Farkašová Anna r. Tkáčová		0	1059
+346	Fedor Michal	ž. Anna r. Hudáková	1	595
+346	FEDOR Michal, SR		1	458
+346	Fedor Michal, ž.Anna Hudáková ž.Anna Hudáková		0	847
+346	Fedorová Anna r. Hudáková		0	841
+346	Ferjová Anna r. Capiková		0	786
+346	Guraľová Anna r. Stanková		1	595,1123
+346	Hajduk Andrej	USA	1	595
+346	Hajduk Ján	USA	1	595
+346	Hajduk Ján, USA USA		0	844
+346	Hajduk Juraj	USA	1	595
+346	Hajduk Juraj, USA USA		0	984
+346	Hajduk Michal	USA	1	595
+346	Hajduk Michal	ž. Mária r. Rimková	1	595
+346	Hajduk Michal, maloletý maloletý		0	950
+346	Hajduk Michal, USA USA		0	856
+346	Hajduk Michal, ž.Mária Rimková ž.Mária Rimková		0	807
+346	Hajduk Pavel	USA	1	595
+346	Hajduk Pavel, USA USA		0	997
+346	Hajduková Mária	USA	1	595
+346	Hajduková Mária, USA USA		0	1117
+346	Halásová Mária r. Abaryová		0	1146
+346	Hališčák Juraj	ž. Anna r. Borzová	1	595
+346	Hališčák Juraj, ž.Anna Borzová ž.Anna Borzová		0	809
+346	Hhališčáková Anna r. Borzová		0	1089
+346	Hlaváč Juraj		0	1152
+346	Hmely Pavol, maloletý maloletý		0	839
+346	Holubová Anna		0	922
+346	Hudák Andrej		0	1110
+346	Hudák Ján	ž. M. r. Vahiľová	1	595
+346	Hudák Ján	ž. Mária r. Čalfová	1	595
+346	Hudák Ján, syn Jána syn Jána		0	1151
+346	Hudák Ján, zomrel zomrel		0	789,829
+346	Hudák Ján, ž.M.Vahiľová ž.M.Vahiľová		0	1033
+346	Hudák Ján, ž.Mária Čalfová ž.Mária Čalfová		0	1022
+346	Hudák Juraj		0	1151
+346	Hudák Michal, syn Jána syn Jána		0	1151
+346	Hudáková Alžbeta r. Andrejková		0	977
+346	Hudáková Anna		0	789
+346	Hudáková Mária r. Padová		0	557,1057
+346	Hudáková Mária r. Šemegová		1	595,1122
+346	Ihnát Andrej		0	951
+346	Ihnát Andrej, ž.Mária Čoláková ž.Mária Čoláková		0	939
+346	Ihnát Ján, Chomik Chomik		0	1140
+346	Ihnát Ján, ž.Zuzana Červeňáková ž.Zuzana Červeňáková		0	1073
+346	Ihnát Jozef, ž.Anna Demčáková ž.Anna Demčáková		0	1113
+346	Ihnát Juraj, Janíčko Janíčko		0	859
+346	Ihnát Michal		0	824
+346	Ihnát Michal, Chomik Chomik		0	1058
+346	Ihnát Michal, maloletý maloletý		0	1030
+346	Ihnátová Anna r. Farkašová, m.Juraj m.Juraj		0	1140
+346	Ihnátová Anna r. Hudáková, m. Michal m. Michal		0	1140
+346	Ihnátová Margita r. Valigová		1	595,900
+346	Ihnátová Mária r. Bušková, USA USA		0	784
+346	Ihnátová Mária r. Čoláková		0	1128
+346	Ihnátová Mária r. Hudáková, m. Jozef m. Jozef		0	817
+346	Ihnátová Zuzana r. Červeňaková		0	954
+346	Ivan Michal	ž. Anna r. Geciová	1	595
+346	Ivan Michal, ž.Anna Geciová ž.Anna Geciová		0	846
+346	Ivanová Anna r. Sinčáková		1	595,780
+346	Jacková Anna r. Hališčáková		1	595
+346	Jacková Anna r. Hališčáková, 2x vyd.Balážová 2x vyd.Balážová		0	810
+346	Janko Ján	ž. Mária r. Stretavská	1	595
+346	Janko Ján, ž.Mária Stretavská ž.Mária Stretavská		0	990
+346	Janko Michal		0	709,891
+346	Kaňuch Michal	ž. Mária r. Butkovská	1	595
+346	Kaňuch Michal, ž.Mária Butkovská ž.Mária Butkovská		0	826
+346	Kaňuch Pavol	ž. Anna r. Sotáková	1	595
+346	Kaňuch Pavol, ž.Anna Sotáková ž.Anna Sotáková		0	952
+346	Kažimír Juraj	ž. Mária r. Sudzinová	1	595
+346	Kažimír Juraj, ž.Mária Sudzinová ž.Mária Sudzinová		0	1131
+346	Kločanka Michal	ž. Zuzana r. Paľovčíková	1	595
+346	Kločanka Michal, ž.Zuzana Paľovčíková ž.Zuzana Paľovčíková		0	866
+346	Kločanková Anna r. Morozová		0	695,985
+346	Koco Juraj	ž. Anna r. Padová, USA	1	595
+346	Koco Juraj, ž.Anna Padová, USA ž.Anna Padová, USA		0	919
+346	Kocová Anna r. Padová, USA USA		0	1009
+346	Kolibáš Andrej, ž.Barbora Makeľová ž.Barbora Makeľová		0	793
+346	Kolibáš Ján, Kundžera Kundžera		0	869
+346	Kolibáš Ján, ž.Mária Lukáčová ž.Mária Lukáčová		0	1111
+346	Kolibáš Ján, ž.Zuzana Capíková ž.Zuzana Capíková		0	812
+346	Kolibáš Michal		0	963
+346	Kolibáš Michal, syn Michala, zomrel syn Michala, zomrel		0	791
+346	Kolibášová Anna r. Mrázová		0	1153
+346	Kolibášová Barbora r. Makeľová		0	793
+346	Kraková Anna r. Mrázová, m. Ján m. Ján		0	1146
+346	Kušnirová Alžbeta r. Stretavská		0	770
+346	Leňo Juraj	ž. Mária r. Janáková	1	595
+346	Leňo Juraj, ž.Mária Janáková ž.Mária Janáková		0	862
+346	Leukusová Mária r. Holubová		0	962
+346	Mazúr Ján		0	1118
+346	Mazúr Michal, Jani, ž. Alžbeta Jani, ž. Alžbeta		0	850
+346	Mazúrová Anna r. Mrázova Šemegová		0	1061
+346	Mihaľčová Zuzana		0	956
+346	Mráz Drotár Michal, ž.Mária Mihalčinová ž.Mária Mihalčinová		0	860
+346	Mráz Ján		0	864,1138
+346	Mráz Ján, ž.Alžbeta ž.Alžbeta		0	795
+346	Mráz Juraj		0	1153
+346	Mráz Michal		0	994,1036
+346	Mráz Michal, ž.Zuzana Tomovčíková ž.Zuzana Tomovčíková		0	815
+346	Mráz Pavol		0	1153
+346	Mráz Šemega Ján		0	876
+346	Mrázová - Šemegová Mária r. Mikulaková		0	1138
+346	Mrázová Alžbeta r. Janaková, m. Ján m. Ján		0	795
+346	Mrázová Anna r. Ihnátová, m. Ján m. Ján		0	849
+346	Mrázová Anna r. Kolibašová		0	1120
+346	Mrázová Mária		0	930
+346	Mrázová Mária r. Mihalčinová, m. Michal m. Michal		0	924
+346	Mrázová Zuzana r. Balažová		0	1153
+346	Mrázová Zuzana, USA USA		0	794
+346	Naštová Anna		1	595,870
+346	Oprišková Mária r. Kločanková		0	482
+346	Oprišková Zuzana r. Seňková		1	595,908
+346	Pado Basarik Juraj	ž. Anna r. Dzurjová	1	595
+346	Pado Basarik Juraj, ž.Anna Dzurjová ž.Anna Dzurjová		0	1079
+346	Pado Ján		1	595,858
+346	Pado Ján, Ing.		1	530,595,1086
+346	Pado Juraj	ž. Mária r. Valigová	1	595
+346	Pado Juraj, ž.Mária Valigová ž.Mária Valigová		0	912
+346	Pado Juraj, ž.Zuzana Širochmanová ž.Zuzana Širochmanová		0	865
+346	Pado Michal	ž. Anna r. Tekeľová	1	595
+346	Pado Michal, ž.Anna Tekeľová ž.Anna Tekeľová		0	1041
+346	Pado Pavol		0	920
+346	Pado Štefan		0	1135
+346	PADO Štefan, SR	n.18.12.1920	1	702
+346	Padová Mária		0	1064
+346	Padová Mária r. Gejdušová	vdová	1	595
+346	Padová Mária r. Gejdušová	vdova, zomrela	0	624
+346	Pastirik Michal	ž. Mária r. Semanová	1	595
+346	Pastirik Michal	ž. Zuzana r. Mrázová	1	595
+346	Pastirik Michal, ž.Mária Semanová ž.Mária Semanová		0	840
+346	Pastirik Michal, ž.Zuzana Mrázová ž.Zuzana Mrázová		0	961
+346	Pastiriková Mária r. Hricová		0	814
+346	Pešta Pavel	ž.Mária Valigová,USA	0	468
+346	Pešta Pavel, ž.Mária Valigová,USA ž.Mária Valigová,USA		0	883
+346	Peštová Mária r. Valigová	USA	0	468
+346	Peštová Mária r. Valigová, USA USA		0	894
+346	Petrová Rozália r. Kaňuchová		0	1045
+346	Petrunová Anna r. Kolibašová		0	1153
+346	Poľaková Mária r. Kolibašová		0	791
+346	Pupáč Ján, ž.Mária Kolibášová ž.Mária Kolibášová		0	1105
+346	Rác Jozef		0	1078
+346	Rácová Mária r. Tomašová		0	1141
+346	Rimko Andrej	ž. Anna r. Jakubová, nar. 29.01.1908	1	595
+346	Rimko Andrej, ž. Anna r.Jakubová,n.29.1.1908 ž. Anna r.Jakubová,n.29.1.1908		0	831

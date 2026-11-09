@@ -1,0 +1,256 @@
+1857	KUKĽA Ján		0	1421,1538
+1857	KUKĽA Jozef		0	1018,1106,1187,1266,1267,1268,1269,1421,1441,1442,1443,1444,1445,1538
+1857	KUKĽA Jozef	syn Tomáša; syn Tomáša	0	1446
+1857	KUĽKA Andrej		1	1018,1106,1187,1266,1267,1268,1269,1421,1441,1442,1443,1444,1445,1446,1538
+1857	KUĽKA Ján		1	1018,1106,1267,1268,1269,1421,1441,1442,1443,1444,1445,1538
+1857	KUĽKA Tomáš		1	1018,1106,1152,1174,1187,1266,1267,1268,1269,1421,1441,1442,1443,1444,1445,1446,1538
+1857	MALIŇÁK Mária		1	1018,1106,1187,1266,1267,1268,1269,1421,1441,1442,1443,1444,1445,1446,1538
+1857	MELOVSKÝ Karol		1	1204
+1857	NAGAJ Adam		0	1018,1047,1106,1112,1187,1266,1267,1268,1269,1421,1441,1442,1443,1444,1445,1446,1538,1776
+1857	NAGAJ Andrej		0	1018,1047,1106,1187,1266,1267,1268,1269,1421,1441,1442,1443,1444,1445,1446,1538,1776
+1857	NAGAJ Juraj		0	1018,1047,1106,1112,1187,1266,1267,1268,1269,1421,1441,1442,1443,1444,1445,1446,1538,1776
+1857	NAGAJ Zuzana		1	1018,1106,1187,1266,1267,1268,1269,1421,1441,1442,1443,1444,1445,1446,1538
+1857	NAGAJOVÁ Zuzana		0	1047,1776
+1857	NOGOVÁ Mária r. Kukľová		1	1018,1106,1267,1268,1269,1421,1441,1442,1443,1444,1445,1538
+1857	NOVAK Ján		1	1018,1106,1152,1174,1187,1266,1267,1268,1269,1421,1441,1442,1443,1444,1445,1446,1538
+1857	PANGRAC - PITEROVÁ Mária r. Popjaková		1	1152,1157,1174
+1857	PANGRÁC Adam		0	1018,1106,1187,1266,1267,1268,1269,1421,1441,1442,1443,1444,1445,1446,1538
+1857	PANGRÁC Anna r. Novák		1	1018,1106,1187,1266,1267,1268,1269,1421,1441,1442,1443,1444,1445,1446,1538
+1857	PANGRÁC Ján		1	1018,1106,1187,1266,1267,1268,1269,1421,1441,1442,1443,1444,1445,1446,1538
+1857	PANGRÁC STRUHALA Ján		1	1018,1106,1187,1266,1267,1268,1269,1421,1441,1442,1443,1444,1445,1446,1538
+1857	PANGRACOVÁ Mária		1	1007,1018,1106,1145,1187,1266,1267,1268,1269,1287,1421,1441,1442,1443,1444,1445,1446,1538,1805
+1857	Pastirčák	1	1	1267
+1857	PASTIRČÁK Dorota		1	1018,1106,1187,1266,1267,1268,1269,1421,1441,1442,1443,1444,1445,1446,1538
+1857	Pastirčák Ján		1	1018,1106,1187,1265,1266,1267,1268,1269,1421,1441,1442,1443,1444,1445,1446,1538
+1857	PASTIRČÁK Mária		1	1018,1106,1187,1266,1267,1268,1269,1421,1441,1442,1443,1444,1445,1446,1538
+1857	PASTIRČÁK Zuzana		1	1018,1106,1187,1266,1267,1268,1269,1421,1441,1442,1443,1444,1445,1446,1538
+1857	Pastirčáková Anna		1	1018,1071,1106,1187,1207,1244,1266,1267,1268,1269,1421,1441,1442,1443,1444,1445,1446,1476,1478,1479,1538
+1857	PETRIČ Ján		0	1152,1160
+1857	POPJAK Ján		1	1247
+1857	POPJAK Juraj		0	1247
+1857	POPJAKOVÁ Agnesa		1	1247
+1857	POPJAKOVÁ Mária		0	1247
+1857	PORUBSKÝ Andrej		1	1018,1106,1187,1266,1267,1268,1269,1421,1441,1442,1443,1444,1445,1446,1538
+1857	SAMETH		1	1180
+1857	SEMAN Adam		1	1077,1104,1146,1178,1285,1619,1620,1696
+1857	SEMAN Andrej		1	1214
+1857	SEMAN Anna		1	1018,1443
+1857	SEMAN GREGA Ján		1	1018,1106,1187,1266,1267,1268,1269,1421,1441,1442,1443,1444,1445,1446,1538
+1857	SEMAN Ján		1	1018,1106,1187,1266,1267,1268,1269,1421,1441,1442,1443,1444,1445,1446,1538
+1857	SEMAN Mária		1	1106,1268
+1857	SEMANEK Ján		1	1018,1106,1267,1268,1269,1421,1441,1442,1443,1444,1445,1538
+1857	SEMANKO Adam		1	1018,1106,1187,1266,1267,1268,1269,1421,1441,1442,1443,1444,1445,1446,1538
+1857	SEMANKO Andrej		1	1018,1106,1187,1266,1267,1268,1269,1421,1441,1442,1443,1444,1445,1446,1538
+1857	SEMANKO Anna		1	1018,1106,1187,1266,1267,1268,1269,1421,1441,1442,1443,1444,1445,1446,1538
+1857	SEMANKO DŽAMBA Ján		1	1018,1106,1267,1268,1269,1421,1441,1442,1443,1444,1445,1538
+1857	SEMANKO HANKOVIČ Ján		1	1018,1106,1267,1268,1269,1421,1441,1442,1443,1444,1445,1538
+1857	SEMANKO Ján		1	1018,1104,1106,1146,1178,1187,1266,1267,1268,1269,1421,1441,1442,1443,1444,1445,1446,1538,1619,1620
+1857	SEMANKO Juraj		1	1018,1106,1187,1266,1267,1268,1269,1421,1441,1442,1443,1444,1445,1446,1538
+1857	SEMANKO Mária		1	1018,1106,1187,1266,1267,1268,1269,1421,1441,1442,1443,1444,1445,1446,1538
+1857	SEMANKO Štefan		1	1018,1106,1267,1268,1269,1421,1441,1442,1443,1444,1445,1538
+1857	SEMANKOVÁ Mária r. Šnelyová		1	1229
+1857	SEMANOVÁ Anna		1	1077,1146,1247,1285
+1857	SEMANOVÁ Anna r. Zamborská		1	1178,1619,1620
+1857	SOBEK Andrej		1	1267,1421,1441,1442,1443,1444,1446,1538
+1857	SOBEK Ján		1	1018,1056,1106,1152,1158,1174,1187,1266,1267,1268,1269,1421,1441,1442,1443,1444,1445,1446,1538,1714,1732,1767
+1857	SOBEKOVÁ Zuzana		1	1267,1421,1441,1442,1443,1444,1446,1538
+1857	STAŠ Adam		1	1106,1267,1268,1421,1441,1442,1443,1444,1445,1538
+1857	STAŠ Andrej		1	1018,1106,1184,1267,1268,1269,1421,1441,1442,1443,1444,1445,1538
+1857	STAŠ Anna		1	1421,1538
+1857	STAŠ Anna r. Pangracová		1	1018,1106,1267,1268,1269,1441,1442,1443,1444,1445
+1857	STAŠ Ján		1	1106,1267,1268,1421,1441,1442,1443,1444,1445,1460,1538
+1857	STAŠOVÁ Anna		1	1152,1174
+1857	STIBRIK Mária		1	1018,1106,1187,1266,1267,1268,1269,1421,1441,1442,1443,1444,1445,1446,1538
+1857	ŠELONGOVÁ Anna r. Dzuríková		1	1102,1317,1699
+1857	ŠIMA Eva		1	1018,1106,1187,1266,1267,1268,1269,1421,1441,1442,1443,1444,1445,1446,1538
+1857	ŠIMA HATALA Adam		1	1152,1163,1174,1406
+1857	ŠOLTYSOVÁ Mária		1	1018,1106,1267,1268,1269,1421,1441,1442,1443,1444,1445,1538
+1857	ŠTEC Mária r. Gurská		1	1187,1446
+1857	ŠTEC Mária r. Gurský		1	1018,1106,1268,1269,1421,1441,1442,1443,1538
+1857	ŠTEC Zuzana		1	1018,1106,1187,1266,1267,1268,1269,1421,1441,1442,1443,1444,1445,1446,1538
+1857	ŠTECOVÁ Mária r. Gurská		1	1266,1267,1444,1445
+1857	TARNOVSKÁ Anna r. Beňová		1	1187,1446
+1857	TARNOVSKÁ Mária		1	1018,1106,1187,1266,1267,1268,1269,1421,1441,1442,1443,1444,1445,1446,1538
+1857	TARNOVSKÝ Adam		1	1127
+1857	TARNOVSKÝ Andrej		0	1127
+1857	TARNOVSKÝ Anna r. Beňa		1	1018,1106,1266,1267,1268,1269,1421,1441,1442,1443,1444,1445,1538
+1857	TARNOVSKÝ Juraj		1	1018,1106,1187,1266,1267,1268,1269,1421,1441,1442,1443,1444,1445,1446,1538
+1857	TOMČEK Andrej		1	1018,1106,1267,1268,1269,1421,1441,1442,1443,1444,1445,1538
+1857	TOMČEK Martin		1	1018,1106,1267,1268,1269,1421,1441,1442,1443,1444,1445,1538
+1857	TOMČÍK Anna r. Schott		1	1106
+1857	TOMČÍK Anna r. Schottová		1	1446
+1857	TOMČÍK Ján		1	1018,1106,1187,1266,1267,1268,1269,1421,1441,1442,1443,1444,1445,1446,1538
+1857	TOMČÍKOVÁ Anna r. Schottová		1	1266
+1857	VAŠKO Mária r. Štec		1	1018,1106,1187,1268,1269,1421,1441,1442,1443,1446,1538
+1857	VAŠKO Mária r. Štecová		1	1266
+1857	VAŠKOVÁ Mária r. Štecová		1	1267,1444,1445
+1857	ZAMBORSKÁ Zuzana		1	1018,1106,1187,1266,1267,1268,1269,1283,1421,1441,1442,1443,1444,1445,1446,1538
+1857	ZAMBORSKÝ Juraj		1	1018,1106,1187,1266,1267,1268,1269,1283,1421,1441,1442,1443,1444,1445,1446,1538
+1857	ZUŠČINOVÁ Anna r. Hoľpit		1	1018,1106,1187,1267,1268,1269,1421,1441,1442,1443,1444,1445,1446,1538
+1857	ZUŠČINOVÁ Anna r. Hoľpitová		1	1266
+1858	Balážiková Rozália r. Horváthová	zom.5.6.2018 v Vidovany 11, Dubovce, r.Ján a Genovéva r.Ivá zom.5.6.2018 v Vidovany 11, Dubovce, r.Ján a Genovéva r.Ivá	0	1828
+1858	Bartošík Pavol	zomrel 17.1.1967	0	1715
+1858	Bartošíková Mária r. Kolínková	zomrela 27.12.1969	0	1623
+1858	Blúsková Mária r. Karenovičová	č.d. 1486/1942	0	2054
+1858	Bojanovská Alžbeta r. Kočariková	zomrela 30.12.1972, m.Pavel	0	1633
+1858	Bojanovská Mária r. Fordinálová	v r.1948 bytom Mokrý Háj, rod.Jozef a Katarína r. Bednáriko v r.1948 bytom Mokrý Háj, rod.Jozef a Katarína r. Bednáriko	0	1876
+1858	Bránecká Viktória r. Mikulová	zomrela 12.9.1965 v Dedinka, m.Jozef, deti:Ferdinand,Anna	0	1864
+1858	Bránecký Adam r. Bránecký	malol. v r. 1918, súr. Mária, Ján, Eva, Jozef, rod.Jozef a malol. v r. 1918, súr. Mária, Ján, Eva, Jozef, rod.Jozef a	0	1628
+1858	Bránecký Ján r. Bránecký	malol. v r. 1913, súr. Mária, Eva, Adam, Jozef, rod.Jozef a malol. v r. 1913, súr. Mária, Eva, Adam, Jozef, rod.Jozef a	0	1793
+1858	Brožovičová Agneša r. Chorvátiková	zom.19.7.1995,Mokrý Háj 203, r.Jozef a Amália r.Flajžíková	0	1607
+1858	Danieliková Alžbeta r. Šupálková	zom. 25.2.1966 v Skalica, Vally 7, manž. Štefan, dcéra Ange zom. 25.2.1966 v Skalica, Vally 7, manž. Štefan, dcéra Ange	0	1635
+1858	Duffek Imrich	zomrel 8.6.1958, ž.Rozália r.Lipovská	0	1934
+1858	DUFFEK Imrich	Rozália rod. Lipovská, dátum úmrtia 8.6.1958	0	1401,1536
+1858	Fordinálová Agneša r. Kucharičová	zomrela 6.1.1970 v Mokrý Háj, m.Štefan	0	1893
+1858	Fordinálová Terézia r. Fordinálová, SR	č.d.1951/1948, bytom M. Háj, bezdetná, rod.Jozef a Katarína č.d.1951/1948, bytom M. Háj, bezdetná, rod.Jozef a Katarína	0	2025
+1858	Formánek Ignác r. Formánek	zom. 24.7.1981 v Mokrý Háj č.98, ž.Anna r.Ivánková, deti Fr zom. 24.7.1981 v Mokrý Háj č.98, ž.Anna r.Ivánková, deti Fr	0	1905
+1858	Formánek Ignác r. Formánek	zomr. 24.7.1981, manž. Anna r. Ivánková, M. Háj 113, deti František, Stanislav, Marián	0	930
+1858	Formánková Anna r. Ivánková	zom.24.6.1982, manž. Ignác, deti František,Stanislav,Marián zom.24.6.1982, manž. Ignác, deti František,Stanislav,Marián	0	1835
+1858	Fritzká Mária r. Bránecká	bytom 423-68 Street Guttenberg, New Jersey, USA, manž. Ferd bytom 423-68 Street Guttenberg, New Jersey, USA, manž. Ferd	0	2018
+1858	Greša Imrich r. Greša	v r.1945 zmazaná maloletosť, bytom Mokrý Háj, rod. Ján a An v r.1945 zmazaná maloletosť, bytom Mokrý Háj, rod. Ján a An	0	1881
+1858	Grešová Anna r. Bojanovská	v r.1945 bytom Mokrý Háj, manž. Ján, deti Imrich, Genovéva v r.1945 bytom Mokrý Háj, manž. Ján, deti Imrich, Genovéva	0	1817
+1858	Havlík Jozef r. Havlík	zomrel 6.1.1983 v Mokrý Háj č.110, ž.Mária r.Kumpánová	0	1936
+1858	Havlíková Genovéva r. Grešová	rod. Ján a Anna r. Bojanovská, súr. Imrich, v r. 1951 bytom rod. Ján a Anna r. Bojanovská, súr. Imrich, v r. 1951 bytom	0	1705
+1858	Havlíková Mária r. Kumpánová	zomrela 7.4.1981, m.Jozef	0	1992
+1858	Horáková Alžbeta r. Grešová	zomrela 5.4.1980 v Mokrý Háj, m.Vendelín	0	1681
+1858	Horvát Jozef	sč.119	0	2001
+1858	Horváth Štefan	zomrel 20.5.1968 v Skalica, ž.Rozália r.Grešová	0	1729
+1858	Horváthová Mária	maloletá	0	1678
+1858	Horváthová Paulína r. Pukančíková	zomrela 6.10.1951 v Mokrý Háj, m.Ľudevít	0	1947
+1858	Horváthová Rozália r. Grešová	zom. 8.12.1989 v Mokrý Háj, manž. Štefan, rod. Martin a Kat zom. 8.12.1989 v Mokrý Háj, manž. Štefan, rod. Martin a Kat	0	1939
+1858	Horváthová Rozália r. Ivánková	m.Štefan, sč.60	0	1756
+1858	Horváthová Rozália r. Škojecová	zomrela 27.12.1983 v Skalica, m.Michal	0	1661
+1858	Ivánek Anton	sč.102	0	1966
+1858	Ivánek Ľudevít	ž.Cecília r.Pukančíková	0	1739
+1858	Ivánková Cecília r. Pukančíková	m.Ľudevít	0	1652
+1858	Ivánková Mária r. Nejeschlebová	zomr. 29.6.1974, bytom Mokrý Háj 14, manžel Ján, deti Klement a Ľudmila	0	1809
+1858	Ivánková Terézia r. Zelenková	manžel Jozef, č.d. 68, Mokrý Háj	0	136
+1858	Jankovič Ján	zomrel 28.12.1970 v Mokrý Háj, ž.Rozália r.Samsonová	0	1907
+1858	Jankovičová Rozália r. Samsonová	zomrela 12.8.1987 v Skalica, m.Ján	0	1582
+1858	Jursová Mária r. Bojanovská	zomrela 24.2.1991 v Mokrý Háj	0	1899
+1858	Karenovič Štefan	zomrel 30.10.1952 v Mokrý Háj	0	2030
+1858	Kocian František	č.d. 1247/1924	0	1831
+1858	Kocian Ignác	maloletosť zmazaná v roku 1918	0	1599,2072
+1858	Kocian Inocent	č.d. 1128/1916	0	1781,2072
+1858	Kocian Ján	sč.25	0	1643
+1858	Kocian Lukáš	č.d. 1128/1916	0	1849,2072
+1858	Kocian Matej	č.d. 1128/1916	0	1788,2072
+1858	Kocian Pavel	maloletosť zmazaná v roku 1931, Oreské	0	1748
+1858	Kocianová Katarína	maloletá	0	1845,2072
+1858	Kocianová Ludmila	slobodná, sč.16	0	2046
+1858	Kolínek Alojz	497/I, Skalica	0	1764
+1858	Kolínek Ján	č.d. 3164/1936	0	2029
+1858	Kolínek Ján	ž.Mária r.Jankovičová, sč.129, Mokrý Háj	0	1689
+1858	Kolínková Anna r. Tokošová	posl. bytom Mokrý Háj č.129, od r. 1952 vdova, m.Štefan	0	1810
+1858	Kolínková Mária r. Samsonová	zomrela 18.5.1985 v Mokrý Háj 42, m.Michal	0	2020
+1858	Košíková Anna r. Turanová	zomrela 28.11.1960 v Mokrý Háj	0	1584
+1858	Kotvan Ján r. Kotvan	zom. 17.1.1968, Mokrý Háj č.78, ž. Anna r. Podrazilová, rod zom. 17.1.1968, Mokrý Háj č.78, ž. Anna r. Podrazilová, rod	0	1694
+1858	Kotvanová Anna	maloletá	0	1814
+1858	Kubisová Eva r. Kotvanová	zomrela 16.1.1991 v Mokrý Háj, m.Ján	0	2007
+1858	Kubová Mária r. Kucharičová	rodičia: Ján a Zuzana r.Kotvanová, brat Alojz,bytom č.1048, Catasaugua Ave, Allentown,USA	0	46
+1858	Kubová Mária r. Kucharovičová	č.d. 3424/1932, rod. Ján a Zuzana r.Kotvanová, brat Alojz, č.d. 3424/1932, rod. Ján a Zuzana r.Kotvanová, brat Alojz	0	1847
+1858	Kucharič Alojz	zomr. 26.7.1974, manž. Anna r. Janičkovičová, bytom Mokrý Háj 4, deti: Serafín,Ján, Jolana	0	46
+1858	Kucharič Alojz	zomrel 26.7.1974	0	1642
+1858	Kucharič Jozef	zomrel 6.2.2004 v Trenčín	0	1874
+1858	Kucharič Jozef	ž.Mária r.Čechová, č.d.1729/1937	0	1696
+1858	Kucharič Jozef r. Kucharič	č.d.2572/1933, v r.1933 bytom M.Háj č.65, rod. Martin a Már č.d.2572/1933, v r.1933 bytom M.Háj č.65, rod. Martin a Már	0	2059
+1858	Kucharič Vendelín	č.d. 1748/1923	0	1657
+1858	Kucharičová Alžbeta r. Gašparovičová	zomrela 22.10.1970 v Mokrý Háj, m.Štefan	0	1970
+1858	Kucharičová Anna r. Mašejová	bytom Mokrá Háj č.15, m. Pavel, deti Urban, Agneša Fordinál bytom Mokrá Háj č.15, m. Pavel, deti Urban, Agneša Fordinál	0	1654
+1858	Kucharičová Mária r. Čechová	m.Jozef, č.d.1729/1937	0	1988
+1858	Kucharičová Zuzana r. Kotvanová	manžel Ján, deti: Alojz a Mária Kubová	0	46
+1858	Kumpánová Anna r. Školnikovičová	č.d. 2849/1911	0	1951
+1858	Kvaltín Matúš	zomrel v Mokrý Háj č.26	0	1707
+1858	Kvaltín Matúš	ž.Alžbeta r.Škojecová	0	1667
+1858	Lipovská Alžbeta r. Tuláková	zomrela 5.5.1974 v Mokrý Háj, m.Ján	0	1702
+1858	Lipovská Anastázia r. Horvátová	zom. 7.11.2003 v Mokrý Háj č.203, rod. Pavel a Štefánia r.M zom. 7.11.2003 v Mokrý Háj č.203, rod. Pavel a Štefánia r.M	0	1884
+1858	Lipovský Ondrej	slobodný	0	1986
+1858	Lipovský Štefan	zomrel 9.8.1964 v Mokrý Háj, ž.Mária r.Madáková	0	1920
+1858	Macháčková Anna r. Karenovičová	č.d. 1486/1942	0	1723
+1858	Malatinská Mária r. Nejeschlebová	sč.23, Lopašov	0	1987
+1858	Malík Jozef	č.d. 546/1952	0	1917
+1858	Mašeja Jozef	dátum úmrtia 14.11.1969	0	1202
+1858	Mašejová Anna r. Greššová	zomrela 9.10.1966 v Mokrý Háj	0	1827
+1858	Mrázková Mária	v Skalici č.355/II	0	1712
+1858	Mrázková Mária r. Trnková	m.Ludevit	0	1621
+1858	Nejeschleba Alojz	zomrel 24.2.1986 v Mokrý Háj	0	1759
+1858	NEJESCHLEBA Alojz	dátum úmrtia 24.2.1986, Mokrý háj	0	1372
+1858	Nejeschleba Ignác	rod. Ignác a Terézia r.Poláková	0	2053
+1858	Nejeschleba Ignác	ž.Terézia r.Poláková	0	1879
+1858	Nejeschleba Imrich	ž.Paulína r.Bartošíková	0	1612
+1858	Nejeschleba Ján	č.d. 2285/1913	0	1767
+1858	Nejeschlebová Mária r. Trnková	zomrela 7.4.1990 v Mokrý Háj, m.Mikuláš	0	1701
+1858	Nejeschlebová Rozália r. Formánková	zom. 28.1.1977, Mokrý Háj č.158, m. Alojz, deti Elemír, Šte zom. 28.1.1977, Mokrý Háj č.158, m. Alojz, deti Elemír, Šte	0	1852
+1858	Nováková Margita r. Malíková	č.d. 546/1952	0	1860
+1858	Nováková Rozália r. Malíková	č.d. 546/1952	0	1626
+1858	Petrovičová Alžbeta r. Nejeschlebová		0	1821
+1858	Podrazilová Margéta r. Bojanovská	zomrela 9.9.1954 v Mokrý Háj, m.Ján	0	2048
+1858	Povalač Ján r. Povalač	bytom USA, rod. Martin a Anna r. Janáčová, súr. Terézia Kudlová, Pavol, Mária Šimandlová	0	145,1891
+1858	Povalač Pavol r. Povalač	bytom Francúzko,rod. Martin a Anna r. Janáčová, súr. Terézia Kudlová, Ján,Mária Šimandlová	0	145,1594
+1858	Pukančík Ignác	zomrel 12.2.1981 v Mokrý Háj, ž.Anna r.Zelenková	0	1836
+1858	PUKANČÍK Jozef	súrodenci: Ján, Štefan a Cecília, rodičia: Matej a Mária	0	230
+1858	PUKANČÍK Štefan	manželka Anna r. Gergelová, súrodenci: Ján, Cecília, Jozef, rodičia: Matej a Mária	0	230
+1858	Pukančíková Anna r. Zelenková	zomrela 29.9.1985 v Mokrý Háj, m.Ignác	0	1576
+1858	PUKANČÍKOVÁ Mária r. Horváthová	manžel Matej	0	230
+1858	Samson Pavol	č.d. 3906/1935	0	1571
+1858	Samsonová Alžbeta r. Školnikovičová	manžel Ján, rodičia Pavol a Anna r. Zelenková, súr. Anna Kumpanová, Michal, Ján	0	1600
+1858	Snopek Michal	č.d. 1198/1936	0	1717
+1858	Šebestianská Eva r. Bránecká	bytom 6 Wall Street Raritan, New Jersey, USA, m. Ján, súr. bytom 6 Wall Street Raritan, New Jersey, USA, m. Ján, súr	0	1841
+1858	Šimandlová Mária r. Povalačová	zomr. 22.3.1955, bytom M. Háj 76, manž. Ján, rod. Martin a Anna r. Janáčová, súr. Terézia	0	145,2000
+1858	Škojcová Agáta r. Sobolčíková	m.Pavol	0	2049
+1858	Škojcová Florentína r. Sasinková	č.d. 3179/1933	0	1771
+1858	Škojec Pavol	ž.Agáta r.Sobolčíková	0	1727
+1858	Škojec Rudolf	zomrel 6.2.1985 v Skalica	0	1695
+1858	Školnikovič Michal r. Školnikovič	zomr. v r. 1946, manželka Terézia r. Kociánová, syn Felix, rod. Pavol a Anna r. Zelenková	0	1745
+1858	ŠKOLNIKOVIČ Pavol	maloletý v roku 1918	0	1389,1402,1822
+1858	Todtová Antonia r. Škojcová	Nábreží 16, Hodonín 1, ČR	0	1948
+1858	Tokošová Genovéva r. Zaviatičová	zom. 15.5.1974, Mokrý Háj č.168, m. Anton, deti Mária Lipov zom. 15.5.1974, Mokrý Háj č.168, m. Anton, deti Mária Lipov	0	1632
+1858	Tokošová Viktória r. Jozefovičová	zomrela 15.8.1955 v Mokrý Háj č.30, m.Tomáš	0	2036
+1858	Tomečková Alžbeta r. Kočáriková	č.d. 1058/1932	0	1958
+1858	Trnková Anna r. Košíková	zomrela 12.10.1983 v Mokrý Háj	0	1755
+1858	Turan Ján	ž.Zuzana r.Grešová	0	1665
+1858	Turan Rudolf	malol. zmazaná v r.1952, súr. Anna, Ján, Ľudmila, rod. Štef malol. zmazaná v r.1952, súr. Anna, Ján, Ľudmila, rod. Štef	0	1933
+1858	Vašicová Mária r. Vávriková	m.Anton, 742/I, Skalica	0	1938
+1858	Vrablec Alojz r. Vrablec	zom. 17.4.1994, bytom Prievidza II.Píly, Ul. B.Björnsona 13 zom. 17.4.1994, bytom Prievidza II.Píly, Ul. B.Björnsona 13	0	1698
+1858	Vrablec Augustín r. Vrablec	nar. v r.1921, rod. Imrich a Alžbeta r. Kucharičová, brat A nar. v r.1921, rod. Imrich a Alžbeta r. Kucharičová, brat A	0	1746
+1858	Vrablec Jozef	zomrel v Mokrý Háj č.185	0	1713
+1858	Vrablecová Anna r. Bartošíková	zomrela 21.7.1973 v Mokrý Háj, m.Michal	0	1651
+1858	Vrablecová Anna r. Nejeschlebová	zom.19.6.1991 v Senici, posl. bytom Mokrý Háj č.203, m.Joze zom.19.6.1991 v Senici, posl. bytom Mokrý Háj č.203, m.Joze	0	1606
+1858	Vrablecová Anna r. Škojcová	č.d. 1668/1921	0	1805
+1858	Zaviatič Ján	zomrel 17.8.1988 v Skalica, ž.Angela r.Horváthová	0	1586
+1858	Zaviatič Michal r. Zaviatič	č.d. 197/1952, bytom Mokrý Háj č.8, sestra Lucia Zelenková, č.d. 197/1952, bytom Mokrý Háj č.8, sestra Lucia Zelenková	0	1903
+1858	Zaviatič Ondrej r. Zaviatič	č.d. 1168/1916, bytom Mokrý Háj č.8, ž. Mária r. Zelenková, č.d. 1168/1916, bytom Mokrý Háj č.8, ž. Mária r. Zelenková	0	2023
+1858	Zelenka Pavol	č.d. 3164/1936	0	1580
+1858	Zelenka Pavol r. Zelenka	zomrel 8.10.1984 v Skalica, ž.Ľudmila r.Vráblecová	0	2063
+1859	Adorján Dezider		0	4620
+1859	Adorjánová Lídia r. Vargová		0	4263
+1859	Andrásiová Etelka	maloletý	0	4770
+1859	Bábášová Mária		0	4071,4074,4085,4484
+1859	Bacso Andrej		0	4141
+1859	Bacso Ondrej		0	4601
+1859	Bacsová Mária r. Szepesiová		0	4485
+1859	Bačová Anna		0	4079,4087
+1859	Bačová Gizella		0	4079,4087
+1859	BAFFI Štefan		1	2761
+1859	BAFFYOVÁ Priska r. Kötelešová		1	2677,2760,4144
+1859	Ballok Ján		0	4182
+1859	Balloková Helena r. Sciranková, Vodná, Moldava nad Bodvou, PSČ 045 01, SR		1	2682,2762
+1859	BARANYOVÁ Mária r. Zsupcsánová		1	2367,4602
+1859	Bárfaiová Katarína r. Karabínuszová		0	4100
+1859	Barna Blažej	zomrel	0	4173,4433
+1859	Barna František		0	4240
+1859	Barna Ján		0	4542
+1859	Barna Mária		0	4795
+1859	BARTALOS Ján		1	2662
+1859	Bartalosová Etelka r. Eckerdtová		0	4769
+1859	Bartaloš Július		1	2361,3960,4630
+1859	Bartóková Mária r. Gallaiová		0	4490
+1859	BARTÓKOVÁ Rozália r. Maruščáková		1	2303
+1859	BENDSUCH Imrich		1	2700
+1859	Bene Andrej		0	4515
+1859	BENE Ján		1	2653
+1859	Bene Štefan		0	4425
+1859	Beneová Júlianna r. Kovácsová		0	4196
+1859	Bereczky Nándor		0	4077,4085
+1859	Bérešová Anna r. Horváthová		0	4079,4087
+1859	Bérešová Anna r. Nagyová		0	4516,4848

@@ -1,0 +1,256 @@
+1385	MICHALIDESOVÁ Mária	r.Čerteková	0	643,757,790,791,1173
+1385	MICHALIDESOVÁ Mária	r.Michalidesová	0	599
+1385	MICHALIDESOVÁ Mária	r.Morávková	0	1144,1159
+1385	MICHALIDESOVÁ Zuzana	mal	0	599,1162,1225
+1385	MORAVKOVÁ Mária	r.Budaiová	0	595,636,638,750,752,1107
+1385	MORAVKOVÁ Mária r. Budaiová		0	1106,1368,1407
+1385	NEŠTINOVÁ Mária	r.Remeňová, Krnča 176	0	1176
+1385	NEŠTINOVÁ Mária r. Remeňová		0	666
+1385	PETRÍK Peter	man.Katarína	0	1190
+1385	REMEŇ Adam	č.d.57	0	599,721,722,723
+1385	REMEŇ Adam	man.Zuzana	0	1095
+1385	REMEŇ Andrej		0	1095
+1385	REMEŇ Andrej	man.Alžbeta	0	1095
+1385	REMEŇ Augustín		0	644,646,990,1168
+1385	REMEŇ Ján	mal. po Márii, súr. Ondrej,Anna,Eva,Katarína,Mária,Helena	0	592
+1385	REMEŇ Ján	man.Anna	0	1095
+1385	REMEŇ Ján	rodičia Ján a Paula r.Lukáčévá	0	624,1211
+1385	REMEŇ Jozef	mal	0	557,558,559,628,648,1060,1141,1272,1360,1395
+1385	REMEŇ Jozef	man.Alžbeta	0	1095
+1385	REMEŇ Jozef	man.Helena,r.Škultéty	0	592,624,841,842,843,844,845,1095
+1385	Remeň Jozef r. Remeň	manž. Mária, rod. Krošláková	0	508,663,1095
+1385	Remeň Jozef r. Remeň	zomrel, rodičia Ján a Paula r.Lukáčová, Krnča 175, 95619	0	1321
+1385	REMEŇ Jozef r. Remeň		0	1288
+1385	REMEŇ Jozef r. REMEŇ	manž. Mária r. Michalidesová	0	704
+1385	REMEŇ Jozef r. REMEŇ	manž. Mária rod. Michalidesová	0	705,1321
+1385	REMEŇ Jozef r. REMEŇ	manž. Mária, rod. Michalidesová, Krnča č. d. 40	0	471
+1385	Remeň Michal	rodičia Michal a Mária r. Gajdošová	0	1032
+1385	REMEŇ Michal	slob	0	508,624,841,842,843,844,845,989,1095
+1385	REMEŇ Michal	slob od Adama,súr.Andrej, Ján,Adam,Zuzana,Jozef,Anna,Štefan	0	592
+1385	REMEŇ Michal	slob., kúpa od Adama Remeňa	0	663
+1385	REMEŇ Michal	slob., kúpa od Adama Remeňa; slob., kúpa od Adama Remeňa	0	817,875
+1385	Remeň Michal r. Remeň	č.d. 64, ž. Alžbeta Rybanová	0	1390
+1385	REMEŇ Michal r. REMEŇ	ded. po Eve Remeňovej r. Vargovej	0	707
+1385	REMEŇ Michal r. REMEŇ	ded. po Jánovi Remeňovi - manž. Eva r. Vargová	0	817,818,875
+1385	REMEŇ Ondrej	po Andrejovi,súr..Anna,Katarína,Mária,Helena,Ján	0	592
+1385	Remeň Ondrej r. Remeň	man.Anna,r.Gajdošová, 95619 Krnča	0	1318
+1385	REMEŇ Štefan		0	595,636,638,707,750,751,752,945,1175,1367
+1385	REMEŇ Štefan	č.d.57	0	461,599,721,722,723,1066
+1385	REMEŇ Štefan	man.Eva	0	665,668
+1385	Remeň Štefan r. Remeň	man.Mária,r.Krošláková, 95619 Krnča	0	1318
+1385	REMEŇOVÁ Alžbeta	r.Pakšiová	0	842,1095
+1385	Remeňová Alžbeta r. Rybanová	č.d. 64, m. Michal Remeň	0	1390
+1385	REMEŇOVÁ Anna		0	508,599,721,722,723,1095
+1385	REMEŇOVÁ Anna	mal	0	557,558,559,599,628,648,722,723,1060,1141,1272,1360,1395
+1385	REMEŇOVÁ Anna	po Andrejovi,súr. Ondrej, Eva,Katarína,Mária,Ján,Helena	0	592
+1385	REMEŇOVÁ Anna	r.Gajdošová	0	624,646,990
+1385	REMEŇOVÁ Anna	r.Krošláková	0	628,1038,1395
+1385	REMEŇOVÁ Anna r. Gajdošová		0	605
+1385	Remeňová Eva	maloletá; po Andrejovi; súrodenci Andrej; Anna, Katarína, Mária, Helena, Ján	0	508
+1385	Remeňová Eva	po Andrejovi; súrodenci Andrej, Anna, Katarína, Mária, Helena, Ján	0	817,818,875,989
+1385	Remeňová Eva	po Michalovi; súrodenci Michal, Štefan, Alžbeta	0	817,818,875,989
+1385	REMEŇOVÁ Eva	Bratislava	0	284
+1385	REMEŇOVÁ Eva	maloletá; po Andrejovi; súrodenci Andrej, Anna, Katarína, Mária, Helena, Ján	0	663,817,818,875,989,1095,1323
+1385	REMEŇOVÁ Helena	mal. po Andrejovi a Márii, súr. Ondrej, Anna,Eva,Katarína, Mária,Ján	0	592
+1385	REMEŇOVÁ Jolana		0	1168
+1385	Remeňová Katarína	maloletá, súrodenci Andrej, Anna, Eva, Mária, Helena, Ján	0	508,592,663,875,989
+1385	REMEŇOVÁ Katarína	r.Petríková	0	721
+1385	Remeňová Katarína r. Remeňová	maloletá, súrodenci Andrej, Anna, Eva, Mária, Helena, Ján	0	1095
+1385	Remeňová Katarína r. Remeňová	maloletá, zdedené po otcovi Jánovi, súrodenci Andrej, Anna, Eva, Mária, Helena, Ján	0	1311
+1385	REMEŇOVÁ Mária	Bratislava	0	284
+1385	REMEŇOVÁ Mária	r.Remeňová,manž.Jozef	0	624,684,698,1095,1200
+1385	REMEŇOVÁ Mária	r.Vargová	0	624,1216
+1385	REMEŇOVÁ Mária	rodičia Jan a Paula	0	624,1095,1145,1211
+1385	REMEŇOVÁ Mária r. Bošanská		0	284
+1385	REMEŇOVÁ Mária r. Remeňová	manž. Jozef	0	624,1219
+1385	REMEŇOVÁ Paulína	r.Lukačková,manž. Jan	0	624,1145,1211
+1385	REMEŇOVÁ Zuzana	r.Kačinová	0	1095
+1385	RIBAN Ján		0	737,738,961,1068,1317
+1385	RIBAN Jozef		0	737,738,961,1068,1317
+1385	RIBAN Štefan		0	737,738,961,1068,1317
+1385	ROSINSKÝ Jozef		0	624,1212
+1385	ROSINSKÝ Jozef	man.Mária	0	1136
+1385	RYBÁROVÁ Mária	r.Melušová	0	702,1009
+1385	RYBÁROVÁ Mária r. Melušová		0	700,701,703
+1385	SIVÁ Eva	r.Kačinová,dcéra Jána a Zuzany	0	594,595,597,598,599,600,624,638,855,890,948,1122,1130
+1385	SIVÁ Eva	r.Vargová	0	711,1045
+1385	SLOVENSKÁ Republika	Štátný majetok n.p.Topoľčany	0	611,624,975,976,977,978,1003,1113,1114,1180,1238
+1385	Slovenská republika,Štátny majetok n.p.Topoľčany		0	1111
+1385	Sporina Aladár r. Sporina	č.d. 207, ž. Helena Melušová	0	1390
+1385	Sporinová Helena r. Melušová	č. d. 207, Aladár Sporina	0	1390
+1385	STAVČÍKOVÁ Barbora	r.Melušová	0	1158
+1385	STREICHER Adrian	man.Jozefína	0	1095
+1385	STREICHER Ján		0	653
+1385	STREICHER Ján	man.Helena	0	629
+1385	STREICHER Július	man.Mária	0	1095
+1385	Streicher Július r. Streicher	ž. Mária Čimborová	0	1390
+1385	Streicherová Mária r. Čimborová	m. Július Streicher	0	1390
+1385	ŠEVČÍK Jozef		0	1162
+1385	ŠIGULOVÁ Zuzana	r.Čerteková	0	610,1173
+1385	ŠKULTÉTY Ján		0	748,749,842,1095
+1385	ŠKULTÉTYOVÁ Zuzanna		0	1095
+1385	ŠTEVČÍK Jozef		0	599,1157,1160
+1385	ŠTREICHEROVÁ Margita	r.Topolanová	0	624,953
+1385	ŠTREICHEROVÁ Zuzana	r.Remeňová	0	592,1095
+1385	ŠUPA Jozef	r.Šupa,Krnča	0	518
+1385	ŠUPA Július	r.Šupa,Krnča	0	518
+1385	ŠUPA Michal	r.Šupa,man.Magdaléna,r.Holák,Krnča 168	0	518
+1385	ŠUPA Rudolf	r.Šupa,man.Anna,r.Fiantok,Krnča 168	0	518
+1385	ŠUPOVÁ Magdaléna	r.Holáková,manž.Michal,Krnča 168	0	518
+1385	ŠUPOVÁ Mária	ř.Šupová,Krnča	0	518
+1385	ŠUPOVÁ Oľga	r.Šupová,Krnča	0	518
+1385	ŠVEC Ján	man.Etela	0	942,963,1352
+1385	ŠVECOVÁ Eleonóra	Pezinok Limbašská 13	0	648,1060,1095
+1385	ŠVECOVÁ Etela	r.Prekopová	0	942,963,1352
+1385	ŠVECOVÁ Mária	r.Halmová	0	1095
+1385	TOPOLAN Anton		0	624,953
+1385	TOPOLAN Ján		0	624,953
+1385	TOPOLAN Ján	manž.Júlia,r.Bencel	0	624,953
+1385	TOPOLAN Jozef		0	624,953
+1385	TOPOLANOVÁ Etela		0	624,953
+1385	VALKO Ondrej	č.d.58	0	1128
+1385	VAŇO Jozef	man.Gizela	0	1182
+1385	VAŇOVÁ Gizela	r.Kraftová	0	1182
+1385	VAŇOVÁ Magdaléna	r.Zvalová	0	624
+1385	VAŇOVÁ Magdaléna r. Zvalová		0	912
+1385	VARGA Andrej		0	684,1095
+1385	VARGA Arpád	mal	0	711,1045
+1385	VARGA Ján		0	330,627,628,629,1167,1185,1292,1317,1394,1395
+1385	VARGA Ján	č.d.135	0	1227
+1385	VARGA Ján	man.Katarína,r.Junasová	0	624,1207
+1385	Varga Jaroslav r. Varga	č.d. 72	0	1390
+1385	VARGA Michal	man.Anna	0	627,1292,1394
+1385	VARGA Ondrej		0	646,990
+1385	VARGA Ondrej	man.Anna	0	613,792
+1385	VARGA Ondrej	man.Mária	0	1119
+1385	Varga Štefan	95619 Krnča	0	1311
+1385	VARGA Štefan	č.d.8	0	644
+1385	VARGOVÁ Anna	mal	0	613,643,685,757,790,791,792,1317
+1385	VARGOVÁ Anna	r.Krošláková	0	613,757,792,1095
+1385	VARGOVÁ Anna r. Krošláková		0	1094
+1385	Vargová Anna r. Vargová	zomrela, Krnča 53, 95619 Krnča	0	1311
+1385	VARGOVÁ Katarína	mal	0	757,790
+1385	VARGOVÁ Katarína	r.Junasová,manž.Ján	0	624,1207
+1385	VARGOVÁ Katarína	r.Krošláková	0	952
+1385	VARGOVÁ Mária		0	330,599,627,628,711,721,722,723,845,995,1045,1095,1167,1292,1394,1395
+1385	VARGOVÁ Mária	mal	0	599,723,757
+1385	VARGOVÁ Mária	r.Čerteková Nit.Streda	0	1173
+1385	VARGOVÁ Zuzana	r.Kačinová	0	523
+1385	VARGOVÁ Zuzana	r.Vargová	0	952
+1385	VARGOVÁ Zuzana r. Kačinová		0	763
+1385	VONTARČÍKOVÁ Alžbeta	r.Švecová,otec Ján	0	624,1204
+1385	ZABLONDILOVÁ Valéria r. Križmová		0	655
+1385	ZELEZNÍKOVÁ Rozália	r.Čižmáriková	0	1121
+1385	ZITOVÁ Anna	r.Kačinová	0	1149
+1385	ZITOVÁ Mária	r.Valková	0	1128
+1385	ZITOVÁ Zuzana	r.Kačinová, manž.Štefan	0	624,813,1151
+1385	ZVALO Štefan		0	1133
+1385	ZVALO Štefan	otec Vendelín,č.d.77	0	624,1220
+1385	ŽELEZNÍK Adam	man.Rozália	0	1121
+1386	Adamovicová Mária r. Bartolovicová	zomrela	0	427
+1386	ADAMOVICOVÁ Zuzana r. Domanová		0	410
+1386	Baláž Július	m.Anna r. Bartošová	0	174
+1386	BALÁŽ JÚLIUS	n.r.1938,u.Sladká č.38, Frýdek -Místek, ČR	0	175,494
+1386	Baláž Viliam	m.Helena r.Herová	0	174
+1386	BALÁŽOVÁ MARGITA r. BARTOŠOVÁ	zomrela v roku 1974	0	174
+1386	Balážová Mária r. Bartošová	m.Ľudovít	0	175,494
+1386	Boháč Martin	m.Zuzana r.Dedoková	0	94,458
+1386	BUCHAN Ján	zomrel 5.5.1995, naposledy bytom Kráľovce č.53, m.Zuzana r.P	0	94,458
+1386	BÚLIK Jozef	m.Emília r.Dadová Krupina	0	390
+1386	BÚLIKOVÁ Emília r. Dadová	Krupina	0	388
+1386	Cekovec Pavel, m.Mária r.Mericová m.Mária r.Mericová		0	356
+1386	CEROVSKÝ Ján	sl	0	309
+1386	Cerovský Ján, sl. sl.		0	334,362
+1386	DADO Jozef	m.Emília r.Donovalová Krupina	0	391
+1386	DADOVÁ Emília r. Donovalová	Krupina	0	389
+1386	Daniel Ján	m.Anna r.Kyslá	0	242
+1386	DANIEL Ján		0	242,243,352
+1386	DANIEL Martin	Amerika	0	211,373
+1386	Danielová Anna r. Kyslá	m.Ján	0	338
+1386	Danišová Vilma r. Nadajová	zomrela	0	309
+1386	Danišová Vilma r. Nadajová, nar.05.09.1907, zomr. nar.05.09.1907, zomr.		0	334
+1386	DEDOK Ján	m.Zuzana r.Ondríková	0	36,192,443
+1386	DEDOK Ján	m.Zuzana r.Žufaová	0	190,385,443
+1386	DEDOKOVÁ Zuzana r. Žufaová	m.Ján	0	385,440
+1386	DRIENKOVÁ Zuzana r. Uhrinová		0	36,192,339,413,433
+1386	Ďurian Martin	m.Zuzana r.Slančoková	0	36,192
+1386	ĎURIANOVÁ Zuzana r. Slančíková		0	309,334,355,434
+1386	Ďurianová Zuzana r. Slančoková	m.Martin	0	36,192
+1386	Esterlík Zuzana r. Martinovic, 962 65, Kráľovce-Krnišov, SR		0	59
+1386	Esterlíková Zuzana r. Martinovicová		0	61,256,257
+1386	Filkor Juraj		0	36,192
+1386	HRANKOVÁ Zuzana r. Šovcová		0	439
+1386	HRIŇO Ján	m.Anna r.Balážová Krupina	0	392
+1386	Húrošová Zuzana r. Ocotová		0	384
+1386	Chovanec Ondrej	slobodný, B.Štiavnica, Nová cesta č.136/II	0	309,335,432
+1386	Chovanec Ondrej, slobodný, B.Štiavnica, Nová cesta č.136/II) slobodný, B.Štiavnica, Nová cesta č.136/II)		0	334
+1386	CHRIEN Martin	m.Mária r.Lieskovská	0	409
+1386	KADERJAK Ján	vd.m.b.Zuzana r.Lendocká	0	442
+1386	Kalinaová Zuzana r. Hromadíková	m.Ján	0	94,458
+1386	Kalinová Zuzana r. Hromadíková	m.Ján; m.Ján	0	75
+1386	Kňažko Pavel	m.Anna r.Ďurová	0	220,292,309,448
+1386	Kňažko Pavel r. Kňažko a Kňažková Anna r. Ďurová,  4, Kráľovce-Krnišov, 962 65, SR		0	107
+1386	Kňažko Pavel r. Kňažko,  4, Kráľovce-Krnišov, 962 65, SR		0	334
+1386	Kňažko Pavel r. Kňažko, 962 65, Kráľovce-Krnišov, č. 4, SR		0	71
+1386	Kňažková Anna r. Ďurová	m.Pavel	0	292,309,448
+1386	KONÔPKA Jozef		0	386
+1386	KONÔPKA Jozef	m.Margita r.Bendíková Lackov	0	159,393
+1386	KRAJČOVIČ Matúš	Kanada	0	36,192,454
+1386	KUČEROVÁ Anna r. Ondrušová		0	438
+1386	KUČEROVÁ Zuzana r. Páleníková	m.b.Pavel	0	433
+1386	Lenhardt Mária r. Martinovic, 962 65, Kráľovce-Krnišov, SR		0	59
+1386	Lenhardtová Mária r. Martinovicová		0	61,256,257
+1386	ĽUPTÁKOVÁ Mária r. Párničanová		0	133,519
+1386	Martinovic Juraj r. Martinovic, 962 65, Kráľovce-Krnišov, SR	ženatý so Zuzanou Tretina	0	59
+1386	Martinovic Juraj, m.Zuzana r.Tretinaová m.Zuzana r.Tretinaová		0	61,257
+1386	Martinovic Martin	m.Mária r.Melichová	0	256
+1386	Martinovic Martin r. Martinovic, 962 65, Kráľovce-Krnišov, SR	ženatý s Máriou Melich	0	59
+1386	Martinovic Martin, m.Mária r.Melichová m.Mária r.Melichová		0	61,257
+1386	Martinovic Pavel	m.Mária r.Zuziaková	0	256
+1386	MARTINOVIC Pavel	m.Zuzana r. Frolenová	0	423
+1386	Martinovic Pavel, m.Mária r.Zuziaková m.Mária r.Zuziaková		0	61,257
+1386	Martinovic Pavol r. Martinovic, 962 65, Kráľovce-Krnišov, SR	ženatý s Máriou Zuziak	0	59
+1386	Martinovicová Mária r. Fridelová	m.Ján	0	256
+1386	OCOTOVÁ Zuzana r. Pivarčová		0	408
+1386	Ostrolucká Zuzana r. Tanciarová	zomrela 8.12.1995	0	309,335,432
+1386	Ostrolucká Zuzana r. Tanciarová, zomrela 8.12.1995 zomrela 8.12.1995		0	334
+1386	Palovic Ján	m.Mária r.Rakytová	0	88
+1386	PALOVIC Ján	m.Emilia r.Strhárska	0	435
+1386	Palovic Martin	m.Zuzana r.Jančovicová	0	36,192
+1386	Parničan Jozef		0	462
+1386	PARNIČAN Jozef	maloletý	0	402
+1386	PÁRNIČAN Pavol		0	133,519
+1386	PÁRNIČAN Pavol	maloletý	0	406
+1386	PAULÍK Ján	zomrel 25.8.2001,m.Zuzana r.Ocotová	0	387
+1386	Pavlovic Ján	m.Emília r.Strhárska	0	36,192
+1386	PAVLOVIC Ján	m.b.Irma r.Strhárska	0	415
+1386	Pavlovic Juraj, vdovec,m.b.Zuzana r.Kučerová vdovec,m.b.Zuzana r.Kučerová		0	22
+1386	PAVLOVIC Martin	m.Zuzana r.Jančovičová	0	454
+1386	POLIAKOVÁ MARGITA r. BALÁŽOVÁ	n.r.1948,Lichnov- časť Dubnice č.19	0	175,494
+1386	RAKYTA Ján	m.Zuzana r.Domanová	0	36,192
+1386	RAKYTA Ján	vd.m.b.Anna r.Kučerová	0	36,192
+1386	SLANČÍK Ján		0	421
+1386	Slančík Ján, m.Mária r.Králiková Kanada m.Mária r.Králiková Kanada		0	355
+1386	SLANČÍK Martin	vd.m.b.Zuzana r.Páleníková	0	444
+1386	Šovcová Anna r. Hámorská	Kanada	0	94,458
+1386	TANCIAR Andrej	m.Zuzana r.Ondrejková	0	452
+1386	Tanciar Ján	Sitnianská Lehotka č.11	0	36,192
+1386	Tanciarová Zuzana r. Páleníková		0	36,192
+1386	VÝBOCHOVÁ Maria r. Malatincová	Krupina	0	404,406
+1387	ANTAL Ján		0	164,303,393
+1387	Antal Ján r. Antal		0	454,455,456,517,672,673
+1387	ANTAL Ondrej		0	164,167,225,235,303,393,454,455,456,672,673
+1387	ANTALÍKOVÁ Emília r. Macúriková		0	164,303,393
+1387	Antalová Emília r. Macúriková		0	454,455,456,672,673
+1387	ANTALOVÁ Helena r. Benková		0	164,192,194,303,393,454,455,456,562,672,673
+1387	ANTALOVÁ Katarína		0	164,195,303,393,454,455,456,600,672,673
+1387	ANTALOVÁ Margaréta		0	148,164,192,303,393,454,455,456,635,672,673
+1387	ANTALOVÁ Mária		0	223,225,255,450,452,606
+1387	ANTALOVÁ Mária r. Ďurianová		0	164,191,261,290,303,393,439,454,455,456,634,672,673,697
+1387	ANTALOVÁ Zuzana		0	148,164,192,303,393,454,455,456,495,672,673
+1387	ANTALOVÁ Zuzana r. Gallová		0	197
+1387	ANTALOVÁ Zuzana r. Poprocká		0	533
+1387	Antalová Zuzana r. Toman	Ondrejová	0	77
+1387	ANTALOVÁ Zuzana r. Tomanová		0	164,167,168,173,234,303,393,454,455,456,610,672,673
+1387	BALAG Ján		0	160,164,170,229,231,232,239,303,393,454,455,456,615,672,673,682
+1387	BALAG Martin		0	160,164,170,176,222,229,231,232,237,239,255,303,384,393,454,455,456,594,672,673

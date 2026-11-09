@@ -1,0 +1,256 @@
+669	FILLER Karol		1	951,1218,1850,3266
+669	Fillerová Mária r. Mitlíková		1	2427,2581,2920
+669	FODOR Anton		1	1102,1103,1876,2406,3009
+669	FODOR Ján		1	2175,2176
+669	FODOR Jozef		1	2175,2176
+669	FODOR Jozef	ml	1	2175,2176
+669	FODOR Martin		1	1857,1876,2406,3009
+669	FODOR Melichar		1	2175,2176
+669	FODOR Vojtech		1	2405,2625
+669	FODOROVÁ Alžbeta		1	2175,2176
+669	FODOROVÁ Anna		1	2175,2176
+669	FODOROVÁ Anna	r.Farkasová	1	1451
+669	FODOROVÁ Barbora		1	1857,2175,2176
+669	FODOROVÁ Hermína		1	2175,2176
+669	Fodorová Katarína r. Ninkó		1	2356,2416
+669	FODOROVÁ Terézia		1	2175,2176
+669	FÖLDI Ján	ž.Mária r.Truszková nar.09.27.1923	1	1876,2406,3009
+669	Fraj Ján r. Fraj		1	2186
+669	Fridrich František		1	2835
+669	FRIDRICHOVÁ Helena	r.Kutlová	1	2405
+669	Fzekasová Helena r. Víghová		1	2755
+669	GÁVIKOVÁ Barbora	r.Racsková	1	2405
+669	GÁVRIK Alexander		1	2405
+669	GEDAI Ján		1	1911,1912,2704,2771,2808,3129,3233,3456,3457,3515,3525,3529
+669	GEDAI Ladislav		1	1911,1912,2704,2771,2808,3129,3233,3456,3457,3515,3525,3529
+669	GEDAI Pavol		1	1911,1984,2771,3129,3525,3529
+669	Gedai Štefan		1	1942,2513
+669	Gedaiová Barbora r. Gintnerová		1	1984
+669	Gedaj Štefan		1	826
+669	GINTTNEROVÁ Veronika		1	2405
+669	Gora Pavol		1	2706
+669	GÓROVÁ Mária	r.Muszelová	1	2631
+669	Gottliebová Terézia r. Dulová		1	2448
+669	Gyengeová Alžbeta r. Kasznerová		1	2093,2676
+669	GYURCSOVICS Jozef	ž.Gizela r.Marcibálová	1	1314
+669	Gyurcsovicsová Helena		1	2416,2422,2486,2597
+669	HAÁR Ignác		1	1911,1912,1914,2771,3129,3456,3525,3529
+669	Hagan František		1	2533
+669	Hagan Štefan		1	2533
+669	Haganová Karolína r. Černáková		1	2533
+669	Hajdová Anna r. Mitlíková		1	2427,2920
+669	HALÁSZ Alexander		1	2184,2439,2575,2719,2813
+669	HALÁSZ Gejza		1	2184,2439,2575
+669	HALÁSZ Imrich		1	2184,2439,2575
+669	Halász Ján		1	1876,2406,2835,3009
+669	HALÁSZ Jozef		1	2184,2439,2575
+669	HALÁSZ Július		1	2184,2439,2575
+669	HALÁSZ Štefan		1	2184,2439,2575
+669	HALÁSZOVÁ Anna		1	2184,2439,2575
+669	HALÁSZOVÁ Júlia	r.Hejtejjerová	1	2405
+669	HALÁSZOVÁ Júlia r. Hejtejjerová		1	873,1913
+669	HALÁSZOVÁ Mária		1	2184,2439,2575
+669	HALBAUER Ondrej		1	1638
+669	HALBAUER Štefan		1	1875,2693
+669	HALBAUEROVÁ Rozália	r.Szentgáliová	1	1460,1638,3271
+669	Halbauerová Rozália r. Szentgáliová		1	1872,2570,2571,3505
+669	HAMVAŠOVÁ Terézia	r.Buglošová	1	2319
+669	HANÁCSEK Andrej		1	2405
+669	HANÁCSEK Anton		1	1262,1678,2405
+669	HANÁCSEK Karol		1	1262,1678,2405
+669	HANÁCSEKOVÁ Alžbeta		1	1262
+669	Hanácseková Alžbeta r. Béresová		1	1678
+669	HANÁCSEKOVÁ Anna		1	1262,1678,2405
+669	HANÁCSEKOVÁ Helena		1	1262,1678,2405
+669	HANÁCSEKOVÁ Margita		1	1262,1678,2405
+669	HANÁCSEKOVÁ Verona		1	2405
+669	Harcsová Elena		1	2580
+669	Harcsová Mária		1	2580
+669	Hausknecht Jozef		1	2587
+669	Hausknecht Mária		1	2587
+669	Hausknecht Martin		1	2559,2585,2587
+669	Hausknecht Terézia		1	2587
+669	Hausknechtová Anna		1	2559,2585
+669	Hazai František		1	1023,2193,2349,2552,2608,2609
+669	HEITEIEROVÁ Alžbeta	r.Príhodová	1	1572,1876,2406,3009
+669	Heiteierová Alžbeta r. Príhodová		1	2241,2484,2665
+669	Heiteiertová Alžbeta r. Príhodová		1	2526
+669	Hejtejjer František		1	1985,2524
+669	HEJTEJJER Gejza		1	1572,1876,2241,2263,2406,2484,2485,3009
+669	HEJTEJJER Imrich		1	873,1799,1876,1911,1912,1913,1914,1915,1916,1917,1984,2405,2406,2771,3009,3129,3456,3479,3525,3529,3563
+669	HEJTEJJER Karol		1	873,1799,1876,1911,1912,1913,1914,1915,1916,1917,1984,2405,2406,2771,3009,3129,3456,3479,3525,3529,3563
+669	HEJTEJJER Štefan		1	873,1799,1876,1911,1912,1913,1914,1915,1916,1917,1984,2405,2406,2771,3009,3129,3456,3479,3525,3529,3563
+669	HEJTEJJEROVÁ Júlia		1	1876,2406,3009
+669	HINOROVÁ Anna	r.Sátorová	1	796,797,1876,2406,3009
+669	Hinorová Anna r. Sátorová		1	1595,2268,3106,3477,3540,3542
+669	HOGENBUCH Adolf		1	1876,2406,3009
+669	HOGENBUCH Alexander		1	1602,1603,1604,1736,1876,2050,2167,2244,2406,2594,3009,3345
+669	Hogenbuch František		1	2563
+669	Hogenbuch Ján		1	2564
+669	HOGENBUCH Jozef		1	1314,1704,1876,2406,2773,3009
+669	HOGENBUCH Július		1	974
+669	Hogenbuch Martin		1	2542
+669	HOGENBUCH Ondrej		1	1876,2406,3009
+669	HOGENBUCH Pavol		1	973
+669	Hogenbuch Štefan r. Hogenbuch		1	1876,2406,2711,3009
+669	Hogenbuch Vavrinec		1	2358
+669	HOGENBUCHOVÁ Alžbeta	r.Bernauerová	1	2576
+669	HOGENBUCHOVÁ Anna	r.Moráveková manž.František	1	1876,2406,3009
+669	Hogenbuchová Anna r. Moráveková		1	2431
+669	HOGENBUCHOVÁ Barbora		1	974
+669	HOGENBUCHOVÁ Barbora	r.Fardová	1	974
+669	HOGENBUCHOVÁ Barbora	r.Hogenbuková	1	1876,1960,1961,2406,3009,3030,3032
+669	Hogenbuchová Barbora r. Tégenová		1	2564
+669	HOGENBUCHOVÁ Emerencia	r.Linterová manž.Vavrinec	1	974
+669	HOGENBUCHOVÁ Emerencia	r.Lörincová	1	974
+669	HOGENBUCHOVÁ Júlia		1	974
+669	Hogenbuchová Mária r. Benyusová		1	2426
+669	HOGENBUCHOVÁ Verona		1	2729
+669	HOGENBUCHOVÁ Verona	r.Zalabová manž.Pavol	1	1876,2406,3009
+669	Hogenbuchová Verona r. Zalabová		1	2241,2759,2854
+669	Hogenbuk Alexander		1	3171
+669	HOGENBUK Ján		1	2622
+669	HOGENBUK Karol		1	974,1602,1603,1604,1736,1876,1960,1961,2050,2167,2244,2406,2594,3009,3030,3032,3170,3171,3345
+669	HOGENBUK Štefan		1	2622
+669	Hogenbuková Barbora r. Hogenbuková		1	3170
+669	HOGENBUKOVÁ Irma		1	974,1602,1603,1604,1736,1876,1960,1961,2050,2167,2244,2406,2594,3009,3030,3032,3170,3171,3345
+669	HOGENBUKOVÁ Magdaléna	r.Dejczöová	1	2405
+669	HOGENBUKOVÁ Rozália		1	974,1602,1736,1876,1960,1961,2050,2167,2244,2406,2594,3009,3030,3032,3170,3171,3345
+669	HOLLER František	ž.Rozália r.Mátéová	1	2405
+669	Holler Jozef		1	2405,2432,2655,2828
+669	HOLLER Jozef	ž.Rozália r.Bitterová	1	2405
+669	Hollerová Rozália r. Bitterová		1	2501,2655
+669	HOLLÓŠIOVÁ Anna	r.Fodorová	1	2405,2625
+669	Holota Jozef		1	2180,2573,2600,2646
+669	Holota Karol nezv		1	2573,2600,2602,2646
+669	Holota Martin		1	2405,2835
+669	Holota Michal		1	2180,2573,2600,2646
+669	Holotová Jozef		1	2602
+669	Holotová Margita r. Énoková		1	2600,2602
+669	Holotová Michal		1	2602
+669	HORŇÁK Ľudovít		1	2157
+669	HORTAI Anton	ž.Helena r.Halászová	1	1452
+669	HORTAI Augustín		1	1876,2406,3009
+669	HORTAI Imrich		1	1713,1876,2406,3009
+669	HORTAI Jozef		1	1449,1450,1451,1607,1876,2099,2406,2757,3009,3435,3436,3438,3464,3465
+669	HORTAI Vojtech	st	1	1876,2406,3009
+669	HORTAIOVÁ Anna	r.Vargová	1	1865,1876,2406,3009
+669	Hortaiová Anna r. Vargová		1	2248
+669	Hortaiová Helena		1	1876
+669	Hortaiová Helena r. Kovácsová		1	2406,3009
+669	HORTAIOVÁ Margita		1	1450,1452,1876,2406,3009,3436,3465
+669	HORTAIOVÁ Terézia	r.Bartová	1	2490
+669	HORVÁTH Štefan		1	2155
+669	HORVÁTH Zoltán		1	796,797,1595,1876,2268,2406,3009,3106,3477,3540,3542
+669	HORVÁTHOVÁ Mária r. Muszelova		1	2574
+669	Hošek František		1	2864,2875,2887,3200,3201,3202,3203,3204,3205
+669	HOŠEK František	ž.Ružena	1	2888
+669	HUBÍK ĽUDOVÍT		0	1846
+669	Hubík Ľudovít r. Hubík		1	1623,1640,1641,1876,2054,2056,2127,2406,2540,2774,2965,3009,3118,3277,3404
+669	Hubík Štefan r. Hubík		1	1623,2056,2774,3118,3277
+669	HUBÍKOVÁ Gizela	r.Vasová manž.Ľudovít	1	2168
+669	Hubíková Irena r. Visztová		1	2394
+669	Hubíková Margita		1	1640,2054,2056,2540,3277
+669	HUBÍKOVÁ Margita	slabomyselná	1	1623,1876,2406,2774,2965,3009,3118
+669	Illik Štefan		1	1102,1103,1876,2406,2628,3009
+669	ILLIKOVÁ Mária		1	1103,1876,2406,3009
+669	Jakobík Ján		1	2352
+669	JAKUBEK Imrich	ž.Alžbeta r.Vanková	1	1876,2406,3009
+669	JAKUBEKOVÁ Mária	r.Moráveková	1	2144
+669	Jakubeková Mária r. Szekanová, SR		0	1797
+669	JAKUBEKOVÁ Rozália	r.Kovácsová	1	1876,2406,3009
+669	Jakubeková Rozália r. Kovácsová		1	2107,2997,3336,3463,3522
+669	Jakubíková Alžbeta r. Bottyánová		1	1811
+669	Jalínek Václav		1	2864
+669	Janovszkiová Anna r. Vargová		1	2630
+669	Jelínek Václav		1	2865,2881,3203,3204,3205
+669	Juhász Gašpar		1	2425,2684
+669	Juhászová Juliana r. Vassová		1	2134,2139,3112,3373,3417,3434,3516
+669	Juhászová Rozália r. Borzová		1	1537,1538
+669	KÁDEK Ladislav	ž.Anna r.Tomaneková,nar.01.26.1921	1	2165
+669	Kádeková Anna r. Tomaneková		1	2165
+669	Kajszák Ján		1	2835
+669	KALAPÁCS Ľudovít	ž.Gizela r.Kontemanová	1	2405
+669	KALAPÁCSOVÁ Gizela	r.Kontermanová	1	2405
+669	Kamoncza Ľudovít		1	2835
+669	Karvanský Jozef		1	2755
+669	KASZNER Adolf		1	1262,1678,2405
+669	Kaszner František		1	2405,2467,2565
+669	Kaszner Joachim		1	2405,2467,2565
+669	Kaszner Jozef		1	1262,1678,2338,2392,2405,2675
+669	Kaszner Michal		1	2392,2676
+669	KASZNER Ondrej		1	2392
+669	Kasznerová Helena		1	2405,2467,2565
+669	Kasznerová Helena r. Béresová		1	2467,2565
+669	KASZNEROVÁ Katarína	r.Vargová	1	1678,2405
+669	KASZNEROVÁ Margita r. Gyerpálová		1	2762
+669	KASZNEROVÁ Tereza		1	1262,1678,2405
+669	KAZANOVÁ Terézia	r.Gedaiová	1	2513
+669	Kazanová Terézia r. Gedaiová		1	1942
+669	KAZI Baltazár		1	2405
+669	KAZI Ľudovít		1	2405
+669	KAZIOVÁ Anna		1	2405,2764
+669	KAZIOVÁ Vilma		1	2405
+669	Kecskés Pavol		1	2094,2662,3260,3288,3460,3518,3543
+669	KECSKÉŠOVÁ Rozália	r.Béresová	1	2236
+669	Keller Gašpar		1	2430
+669	Keller Jozef		1	2378,2405,2430
+669	Keller Karol		1	2378,2405,2430
+669	Kellerová Barbora		1	2430
+669	KESERÜOVÁ Margita	r.Zalabová	1	2405
+669	Keserüová Margita r. Zalabová		1	2367
+669	KIANEK Ján	ž.Apolónia r.Hozsváthová	1	1421
+669	KIANEK Štefan		1	1946
+669	KIANEK Tibor		1	1946
+669	KIANEKOVÁ Júlia r. Kovácsová		1	888
+669	KICSINDIOVÁ Alžbeta		1	2305
+669	Kicsindiová Alžbeta r. Benyusová		1	939,2000
+669	Kis Ján		1	2946
+669	KISOVÁ Alžbeta	r.Szalaiová	1	2160
+669	Kisová Alžbeta r. Szalaiová		1	2946
+669	Kisová Anna r. Karvanská		1	2755
+669	KISOVÁ Terézia	r.Bitterová,21.01.1938	1	2482
+669	KISSOVÁ Barbora	r.Feketeová	1	2643
+669	Klich Václav		1	2872,2875,2887,3200,3201,3202
+669	KLICH Václav	ž.Ružena	1	2888,3284
+669	KÖBÖLKUTI Ondrej		1	2391,2392,2405,3554
+669	KOLLÁR František		1	1475,1476,1999,2786
+669	KOLLÁR Juraj		1	1476,2321,2467
+669	Koltayová Irena r. Bartová		1	2749
+669	KOMLOSIOVÁ Mária	r.Plajerová	1	1561,1564,1876,2406,2464,2720,3009
+669	Konterman Ján		1	2346,3103
+669	Konterman Michal		1	2346,3103
+669	KONTERMANN František		1	2496
+669	KONTERMANN Ján		1	1876,2406,3009
+669	KONTERMANN Július		1	2496
+669	KONTERMANN Ľudovít		1	2496
+669	KONTERMANN Michal		1	1876,2406,3009
+669	KONTERMANNOVÁ Helena		1	2496
+669	KONTERMANNOVÁ Margita		1	2496
+669	KONTERMANOVÁ Eva	r.Bitterová	1	1876,2346,2406,3009
+669	Kontermanová Eva r. Bitterová		1	3103
+669	KORHÁNYIOVÁ Magdaléna	r.Szallerová	1	1876,2406,3009
+669	Korhányiová Magdaléna r. Szallerová		1	1389,2355
+669	Korhányiová Magdaléna r. Szallerová	|	1	1703
+669	Kotrová Eva r. Playerová		1	2466,2734
+669	Kout František		1	2871,2875,2877,2881,2887,3200,3201,3202
+669	KOUT František	ž.Marie	1	2888
+669	Kovács Ferdinand		1	2288,2405
+669	Kovács František		1	2429
+669	Kovács Ján		1	2288,2405
+669	Kovács Jozef		1	1876,1900,2288,2350,2405,2406,2457,3009
+669	KOVÁCS Jozef	ž.Apolónia r.Rufiová	1	2133
+669	KOVÁCS Jozef	ž.Helena r.Szakállasová	1	2709
+669	Kovács Martin		1	2671
+669	Kovács Michal		1	2483,2569
+669	KOVÁCS Michal	ž.Terézia r.Bujdošíková,nar.22.06.1896	1	2641
+669	Kovács Ondrej		1	2381
+669	KOVÁCS Ondrej	ž.Mária r.Vargová	1	2405
+669	KOVÁCS Štefan		1	1262,1678,2338,2399,2405
+669	Kovács Vojtech r. Kovács		1	2405
+669	Kovácsová Alžbeta		1	2338
+669	KOVÁCSOVÁ Anna		1	1262,1678,2338,2405
+669	KOVÁCSOVÁ Barbora	r.Fodorová	1	1932,1933,2055
+669	Kovácsová Barbora r. Gubányová		1	2671
+669	KOVÁCSOVÁ Helena		1	1262,1678,2338,2405
+669	KOVÁCSOVÁ Magdaléna		1	1262,1678,2338,2405

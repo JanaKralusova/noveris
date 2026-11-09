@@ -1,0 +1,256 @@
+1532	Ondrejka Štefan, SR	Králik	1	1268,1448,1449,1450,1565,1682,1689
+1532	Ondrejka Štefan, SR	mal., ž.Anna r. Droppová	1	1729
+1532	Ondrejka Vendelín r. Ondrejka		0	3059
+1532	Ondrejka Vendelín r. Ondrejka, mal. mal.		0	3223
+1532	Ondrejka Vendelín, SR		0	1268,1285
+1532	Ondrejka Vendelín, SR	mal	1	1268,1285,1529,1689
+1532	Ondrejka Viktor r. Ondrejka		0	2184
+1532	Ondrejka Viktor, SR		0	1446,1447,1448,1449,1450,1451,1452,1453
+1532	Ondrejka Viliam, SR	mal	1	1285,1682
+1532	Ondrejková Alma Mária, SR		1	1605,1607
+1532	Ondrejková Amália		0	2281,3223
+1532	Ondrejková Amália, SR		1	1268,1285,1529,1689
+1532	Ondrejková Anna		0	2335
+1532	Ondrejková Anna r. Hrabušayová		0	2227
+1532	Ondrejková Anna r. Hrabušová, SR		0	1448,1449,1450
+1532	Ondrejková Anna r. Koksová, SR		0	1448,1449,1450
+1532	Ondrejková Anna r. Moravčíková		0	3223
+1532	Ondrejková Anna r. Moravčíková, SR		1	1268,1285,1689
+1532	Ondrejková Anna r. Ondrejková		0	2124,2777,3222
+1532	Ondrejková Anna r. Ondrejková, SR		1	1257,1262,1264,1268,1285,1448,1449,1450,1506,1578,1876
+1532	Ondrejková Anna, SR		0	1268
+1532	Ondrejková Antónia r. Tholtová		0	2124,3222
+1532	Ondrejková Antónia r. Tholtová, SR		0	1257,1262,1264,1450,1506,1876
+1532	Ondrejková Augusta r. Zvadová, SR	manž.Marcel, zom. 25.01.1994	0	1763
+1532	Ondrejková Aurelia r. Šindléryová		0	2385
+1532	Ondrejková Berta r. Uhrinová		0	2184
+1532	Ondrejková Berta r. Uhrinová, SR		0	1446,1447,1448,1449,1450,1451,1452,1453
+1532	Ondrejková Ema		0	3223
+1532	Ondrejková Ema, SR		1	1268,1448,1449,1450,1682
+1532	Ondrejková Emília		0	2806,3230
+1532	Ondrejková Emília r. Beniačová, SR		1	1709
+1532	Ondrejková Emília, SR		1	716
+1532	Ondrejková Emma		0	3223
+1532	Ondrejková Emma, SR		1	1729
+1532	Ondrejková Františka		0	2128
+1532	Ondrejková Františka, SR		1	1742
+1532	Ondrejková Heliodora		0	3223
+1532	Ondrejková Irena r. Droppová, SR		1	1448,1449,1450,1605,1607
+1532	Ondrejková Kamila		0	2128
+1532	Ondrejková Kamila, SR	Jostik	1	1448,1449,1450,1605,1607,1742
+1532	Ondrejková Karolina r. Lesáková, Poljak Poljak		0	2486,3230
+1532	Ondrejková Karolina r. Lesáková, SR	Poljak	1	716,1709
+1532	Ondrejková Karolína r. Menderová		0	3038
+1532	Ondrejková Karolína r. Menderová, SR		0	1448,1449,1450
+1532	Ondrejková Karolína, SR	Menderová	0	1268
+1532	Ondrejková Katarína r. Hrabušová		0	2398
+1532	Ondrejková Katarína r. Hrabušová, SR		1	1268,1285,1682,1729
+1532	Ondrejková Katarína r. Likavčanová		0	2128
+1532	Ondrejková Katarína r. Likavčanová, SR		1	1448,1449,1450,1689
+1532	Ondrejková Katarína, SR		0	1268,1285
+1532	Ondrejková Klára, mal. mal.		0	3230
+1532	Ondrejková Klára, SR	mal	1	1689
+1532	Ondrejková Kornélia r. Menderová		0	2128,2826
+1532	Ondrejková Kristína		0	3230
+1532	Ondrejková Kristína r. Tulinská		0	2368
+1532	Ondrejková Ľudmila		0	2881
+1532	Ondrejková Ľudmila r. Vicianová		0	2128
+1532	Ondrejková Ľudmila r. Vicianová, SR		1	1450,1740
+1532	Ondrejková Ľudmila, SR		0	1268,1448,1449,1450
+1532	Ondrejková Ľudmila, SR	Vicianová	0	1257,1262,1264,1266,1506,1876
+1532	Ondrejková Ľudmila, Vicianová Vicianová		0	2124,3222
+1532	Ondrejková Magdaléna		0	2698
+1532	Ondrejková Magdaléna, mal. mal.		0	2128,3223
+1532	Ondrejková Magdaléna, SR		0	1268
+1532	Ondrejková Magdaléna, SR	mal	1	1285,1682,1689,1729
+1532	Ondrejková Mária		0	2128,2214,3230,3237
+1532	Ondrejková Mária r. Antolová		0	3223
+1532	Ondrejková Mária r. Antolová, 034 84, Liptovské Sliače, SR	zomrela 12.12.1989	0	1257,1262,1264,1450,1506,1876,2124,3066,3198,3222
+1532	Ondrejková Mária r. Bartíková, SR		0	1260,1448,1449,1450
+1532	Ondrejková Mária r. Bartošová		0	2962
+1532	Ondrejková Mária r. Bartošová, SR		0	1268,1448,1449,1450
+1532	Ondrejková Mária r. Fričová Valachová, SR		0	1262,1450,1506
+1532	Ondrejková Mária r. Fričová, SR	Valachová	0	1257,1264,1265,1266,1342,1876
+1532	Ondrejková Mária r. Fričová, Valachová Valachová		0	2124,3222
+1532	Ondrejková Mária r. Hrabušová		0	2906
+1532	Ondrejková Mária r. Hrabušová, SR		1	1676,1729
+1532	Ondrejková Mária r. Kmeťová, SR		0	1361
+1532	Ondrejková Mária r. Kubovčíková		0	2858
+1532	Ondrejková Mária r. Lehotská		0	3060
+1532	Ondrejková Mária r. Ondrejková, SR		1	1262,1605,1607,1876
+1532	Ondrejková Mária r. Rázgová, SR		0	1448,1449,1450
+1532	Ondrejková Mária, SR		1	1268,1285,1448,1449,1450,1529,1680,1682,1689,1729,1740,1742
+1532	Ondrejková Mária, SR	Joštík	0	1448,1449,1450
+1532	Ondrejková Mária, SR	mal	1	1268,1729
+1532	Ondrejková Pavlína		0	2128,2846
+1532	Ondrejková Pavlína, SR		0	1448,1450
+1532	Ondrejková Pavlíva, SR		0	1449
+1532	Ondrejková Rozália, SR		0	1268
+1532	Ondrejková Rozália, SR	mal	0	1285
+1532	Ondrejková Štefánia r. Ondrejková, SR	manž. Emil Ondrejka Kvapka	1	1578
+1532	Ondrejková Štefánia r. Ondrejková, SR	manž.Emil Ondrejka Kvapka	1	1579,1680
+1532	Ondrejková Štefánia r. Ondrejková, SR	manžel Emil Ondrejka Kvapka	1	1627
+1532	Ondrejková Štefánia, SR		0	1268
+1532	Ondrejková Zuzana		1	1268,2812
+1532	Ondrejková Zuzana	mal	1	1285
+1532	Ondrejková Zuzana r. Jarotová		0	2128,2259
+1532	Ondrejková Zuzana r. Jarotová, SR		1	1682,1689,1829
+1532	Ondrejková Zuzana r. Koksová		0	2748
+1532	Ondrejková Zuzana r. Rázgová, SR		0	1285
+1532	Ondrejková Zuzana, SR	mal	1	1729
+1532	Ondrejková Žofia		0	2556
+1532	Ondrejková Žofia r. Krakovská, SR		0	1145
+1532	Ondrejková Žofia r. Ondrejková, Pištova Pištova		0	3020
+1532	Oravcová Zuzana r. Križovská		0	2184
+1532	Oravcová Zuzana r. Križovská, SR		0	1446,1447,1448,1449,1450,1451,1452,1453
+1532	Oravec Anton r. Oravec		0	2184
+1532	Oravec Anton, SR		0	1446,1447,1448,1449,1450,1451,1452,1453
+1532	Oravecová Zuzana r. Šindléryová, SR		0	1414,1415
+1532	Otiepka Ondrej r. Otiepka		0	3230
+1532	Otiepka Šimon r. Otiepka		0	2159
+1532	Otiepka Vencel r. Otiepka		0	2506
+1532	Otiepková Amália		0	2159
+1532	Otiepková Eva r. Burjanová, SR		0	1278,3370
+1532	Otiepková Júlia		0	3142
+1532	Otiepková Júlia, SR		0	1268
+1532	Otiepková Mária, SR		1	1571
+1532	Ovad Adolf, SR		1	1580,1680
+1532	Ovadová Katarína		0	2880
+1532	Ovadová Terézia r. Tarčiaková, SR	manž. Adolf, zom. 28.02.1975	0	1580
+1532	Palček Štefan r. Palček, ž. Mária Burjanová ž. Mária Burjanová		0	2252
+1532	Palček Štefan, SR	ž. Mária Burjanová	1	1735
+1532	Pariesková Helena r. Burianová		0	2124,3222
+1532	Pariesková Helena r. Burianová, SR		0	1257,1260,1262,1264,1448,1449,1450,1506,1876
+1532	Pastucha Jozef r. Pastucha		0	2128
+1532	Pastucha Jozef, SR		0	1265,1266,1276,1277,1342
+1532	Pastuchová Mária r. Fričová, Rumanová vd. Rumanová vd.		0	2680
+1532	Pastuchová Mária r. Fričová, Rumanová, vdova, Rumanová, vdova		0	2128
+1532	Pastuchová Mária r. Moyšová		0	2774
+1532	Pastuchová Mária r. Moyšová, SR		1	1261,1262,1263,1264,1266,1342,1571,1876
+1532	Pastuchová Mária r. Ondrejková		0	2652
+1532	Pastuchová Mária r. Ondrejková, SR		1	1448,1449,1450,1676
+1532	Pažitka Ivan r. Pažítka		0	2128
+1532	Pažitka Ivan, SR		1	1571
+1532	Pažitka Ján r. Pažitka		0	2467
+1532	Pažitka Ján, SR		0	1268
+1532	Pažitka Jozef r. Pažitka		0	2159,2184,3218
+1532	Pažitka Jozef, SR		0	1447,1448,1449,1450,1453
+1532	Pažitka Ondrej, SR		0	1268
+1532	Pažitka Štefan r. Pažitka		0	2184
+1532	Pažitka Štefan, SR		0	1446,1447,1448,1449,1450,1451,1452,1453
+1532	Pažítková Anna		0	2128,2184
+1532	Pažitková Anna, SR		0	1446,1447,1448,1449,1450,1451,1452,1453
+1532	Pažítková Mária		0	2124,2128,2184,2477,3222
+1532	Pažítková Mária, SR		0	1257,1262,1264,1446,1447,1448,1449,1450,1451,1452,1453,1506,1876
+1532	Pažitková Zita		0	3218
+1532	Petro Jozef		1	1257,1262,1264,1265,1266,1342,1506,1876
+1532	Petro Jozef	st	1	1257,1262,1264,1265,1266,1342,1506,1876
+1532	Petro Jozef r. Petro		0	2124,3222
+1532	Petro Jozef r. Petro	st	0	2124
+1532	Petro Jozef r. Petro, st, st		0	3222
+1532	Petro Jozef, SR		0	1260,1261,1450
+1532	Petro Ondrej, SR		0	1448,1449,1450
+1532	Petrová Katarína r. Moravčíková		0	2124,3222
+1532	Petrová Katarína r. Moravčíková, SR		0	1257,1260,1261,1262,1263,1264,1265,1266,1276,1277,1342,1450,1506,1876
+1532	Plavecká Anastázia r. Púčeková		0	2648
+1532	Pobehová Mária r. Moyšová		0	2124,3222
+1532	Pobehová Mária r. Moyšová, SR		0	1257,1260,1264,1450,1506
+1532	Podhoráni Ľudvik	Ľudovít	0	1450
+1532	Podhorány Imrich, SR		0	1448,1449,1450
+1532	Podhorány Peter r. Podhorány, Pavol Pavol		0	2533
+1532	Podhorányi Peter r. Podhorányi		0	3230
+1532	Podhorányi Peter, SR		0	1260,1278,3370
+1532	Podhorányiová Anna, SR		0	1448,1449,1450
+1532	Podhorányiová Elena, SR		0	1450
+1532	Podhorányiová Helena, SR		1	1734,1737
+1532	Podhorányiová Žofia r. Pružinská, SR		0	1448,1449,1450
+1532	Podhorányová Eva r. Vulpiniová		0	2124,3069,3222
+1532	Podhorányová Eva r. Vulpiniová, SR		0	1257,1262,1264,1450,1506,1876
+1532	Poliak Albert r. Poliak		0	2184
+1532	Poliak Albert, SR		0	1446,1447,1448,1449,1450,1451,1452,1453
+1532	Poliak Anton r. Poliak		0	2184
+1532	Poliak Anton, SR		0	1446,1447,1448,1449,1450,1451,1452,1453
+1532	Poliak Florian r. Poliak		0	2184
+1532	Poliak Florian, SR		0	1447,1448,1449,1450,1453
+1532	Poliak Peter r. Poliak		0	2184
+1532	Poliak Peter, SR		0	1446,1447,1448,1449,1450,1451,1452,1453
+1532	Poliak Štefan r. Poliak, Kaprál Kaprál		0	2184
+1532	Poliak Štefan, SR	Kaprál	0	1446,1447,1448,1449,1450,1451,1452,1453
+1532	Poliaková Alojzia		0	2184
+1532	Poliaková Alojzia r. Oravcová		0	2184
+1532	Poliaková Alojzia r. Oravcová, SR		0	1446,1447,1448,1449,1450,1451,1452,1453
+1532	Poliaková Alojzia, SR		0	1446,1447,1448,1449,1450,1451,1452,1453
+1532	Poliaková Antónia		0	2184
+1532	Poliaková Antónia, SR		0	1446,1447,1448,1449,1450,1451,1452,1453
+1532	Poliaková Barbora r. Dudášová		0	2184
+1532	Poliaková Barbora r. Dudášová, SR		0	1446,1447,1448,1449,1450,1451,1452,1453
+1532	Poliaková Eva		0	2184
+1532	Poliaková Eva, SR		0	1446,1447,1448,1449,1450,1451,1452,1453
+1532	Poliaková Helena		0	2184
+1532	Poliaková Helena, SR		0	1446,1447,1448,1449,1450,1451,1452,1453
+1532	Poliaková Katarína r. Šimková		0	2184
+1532	Poliaková Katarína r. Šimková, SR		0	1446,1447,1448,1449,1450,1451,1452,1453
+1532	Poliaková Mária, SR		0	1286,1287
+1532	Poljak Andrej, SR	Furták	0	1323
+1532	Poljak Jozef, SR		0	1308
+1532	Poljak Jozef, SR	Ondrejov	0	1312
+1532	Poljak Štefan, SR		0	1308
+1532	Poljak Tomáš, SR		0	1307,1308
+1532	Poljaková Katarína, SR	Furtáková	0	1323
+1532	Poprac Jozef, SR	manž. Mária r. Droppová, zom. 15.07.1971	0	1738
+1532	Potkan Bonifác r. Potkan		0	2184
+1532	Potkan Bonifác, SR		0	1447,1448,1449,1450,1453
+1532	Potkan Emil r. Potkan, Kontra Kontra		0	2184
+1532	Potkan Emil, SR	Kontra	0	1446,1447,1448,1449,1450,1451,1452,1453
+1532	Potkan Felix, s.č. 1058, Lipt. Lúžna, PSČ 034 72, SR		0	1430,1952
+1532	Potkan Florian r. Potkan		0	2184
+1532	Potkan Florian, SR		0	1446,1447,1448,1449,1450,1451,1452,1453
+1532	Potkan František r. Potkan		0	2184
+1532	Potkan František, SR		0	1446,1447,1448,1449,1450,1451,1452,1453
+1532	Potkan Ján r. Potkan, Kontra Kontra		0	2184
+1532	Potkan Ján, SR	Kontra	0	1446,1447,1448,1449,1450,1451,1452,1453
+1532	Potkan Jozef r. Potkan		0	2184
+1532	Potkan Matúš r. Potkan, Sirota Sirota		0	2184
+1532	Potkan Matúš, SR	Sirota	0	1446,1447,1448,1449,1450,1451,1452,1453
+1532	Potkan Ondrej r. Potkan		0	2184
+1532	Potkan Ondrej, SR		0	1446,1447,1448,1449,1450,1451,1452,1453
+1532	Potkan Štefan r. Potkan		0	2184
+1532	Potkan Štefan r. Potkan, Kontra Kontra		0	2184
+1532	Potkan Štefan r. Potkan, Sirota Sirota		0	2184
+1532	Potkan Štefan, SR		0	1446,1447,1448,1449,1450,1451,1452,1453
+1532	Potkan Štefan, SR	Kontra	0	1446,1447,1448,1449,1450,1451,1452,1453
+1532	Potkan Štefan, SR	Sirota	0	1446,1447,1448,1449,1450,1451,1452,1453
+1532	Potkan Teodor r. Potkan		0	2184
+1532	Potkan Teodor, SR		0	1447,1448,1449,1450,1453
+1532	Potkanová Angela, Kontra Kontra		0	2184
+1532	Potkanová Angela, SR	Kontra	0	1447,1448,1449,1450,1453
+1532	Potkanová Anna		0	2184
+1532	Potkanová Anna r. Hubová, Križovský Križovský		0	2184
+1532	Potkanová Anna r. Hubová, SR	Križovský	0	1447,1448,1449,1450,1453
+1532	Potkanová Anna, SR		0	1446,1447,1448,1449,1450,1451,1452,1453
+1532	Potkanová Mária		0	2184
+1532	Potkanová Mária, Kontra Kontra		0	2184
+1532	Potkanová Mária, SR		0	1446,1447,1448,1449,1450,1451,1452,1453
+1532	Potkanová Mária, SR	Kontra	0	1446,1447,1448,1449,1450,1451,1452,1453
+1532	Potkanová Pavlína r. Turoňová		0	2184
+1532	Potkanová Pavlína r. Turoňová, SR		0	1447,1448,1449,1450,1453
+1532	Povolná Ilona, SR		0	1876
+1532	Povolná Ilonna		0	2124,3222
+1532	Povolná Ilonna, SR		0	1257,1262,1264,1450,1506
+1532	Povolná Kataína, SR		0	1262
+1532	Povolná Katarína		0	2124,3222
+1532	Povolná Katarína, SR		0	1257,1264,1450,1506,1876
+1532	Priesol Ján r. Priesol, Balčo Boskuljak Balčo Boskuljak		0	2488
+1532	Priesol Ján r. Priesol, Baskuliak Baskuliak		0	2939
+1532	Priesol Jozef r. Priesol		0	2464
+1532	Priesol Ondrej r. Priesol, Balčo Boskuljak Balčo Boskuljak		0	2124,2821,3222
+1532	Priesol Ondrej, SR	Balčo Boskuliak	0	1257
+1532	Priesol Ondrej, SR	Balčo Boskuljak	0	1264,1450,1506
+1532	Priesol Štefan r. Priesol, Balčo Boskuljak Balčo Boskuljak		0	2124,2456,3222
+1532	Priesol Štefan, SR	Balčo Boskuliak	0	1261,1342
+1532	Priesol Štefan, SR	Balčo Boskuljak	0	1257,1260,1262,1263,1264,1265,1266,1450,1506,1876
+1532	Priesol Vendelín r. Priesol	zomretý	0	2124,2377,3222
+1532	Priesolová Anna r. Dvorská, Boroška, Volár Boroška, Volár		0	2349
+1532	Priesolová Anna r. Mrvová		0	2934
+1532	Priesolová Helena		0	2124,3222
+1532	Priesolová Helena, SR		0	1257,1262,1264,1450,1506,1876

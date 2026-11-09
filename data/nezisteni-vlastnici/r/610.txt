@@ -1,0 +1,256 @@
+350	BAKOS IMRICH		0	425
+350	BAKOSOVA JULIA r. BARANOVICOVA		0	355
+350	BAKOSOVA JULIA R.BARANOVICOVA		0	413,522
+350	BAKOSOVA JULIA R.BARANYOVICSOVA		0	522
+350	BAKOSOVA JULIANA R.BARANYOVICSOVA		0	592
+350	BAKOSOVA JULIANA R.KUTYIKOVA		0	329
+350	Bakoš Ondrej	m. Irma	0	864
+350	Bakoš Sándor		0	864
+350	Bakošová Júlia r. Baranyovicsová		0	591
+350	Bakošová Júlia r. Baranyovitsová		0	372
+350	Barancová Elena r. Haladíková	vdova	0	806
+350	Barancová Mária r. Kostolányová	č.146	0	827
+350	Barancová Paula r. Kostolányová	m. Koloman, č. 120	0	832
+350	Baranec Koloman r. Baranec	m. Paula, č. 43	0	832
+350	Baranec Ladislav		0	827
+350	BARANOVIC ANDREJ		0	380
+350	BARANOVIC FRANTISEK		0	380,475
+350	BARANOVIC ONDREJ		0	475
+350	BARANOVIC STEFAN		0	355,380,475,522
+350	Baranovičová Verona r. Krasňanová		0	812
+350	BARANYECOVA HELENA R.HALADIKOVA		0	418
+350	Baranyeczová Ilona r. Haládiková		0	807
+350	BARKOLOVA JULIA R.BAKOSOVA		0	575
+350	BARTKO ANDREJ		0	530
+350	BARTOS PAVOL		0	316
+350	BARTOSOVA VIKTORIA R.KUTIKOVA		0	318,380,468,475,790
+350	Bartoš Pavel		0	826
+350	Bartošová Mária r. Boži		0	826
+350	Barus Michal	č. 313, m. Júlia r. Rozenberg	0	834
+350	Barus Michal r. Barus	č. d. 1, m. Júlia r. Bednáriková	0	828
+350	Barusová Júlia r. Bednáriková	č. 1	0	828
+350	Barusová Júlia r. Rozenberg	č. 313	0	834
+350	BEDNARIK ALEXANDER		0	575,592
+350	Bednárik Ľudovít		0	146,384,552
+350	Bednárik Viliam		0	146
+350	Bednáriková Irena r. Tóthová		0	646
+350	BEDNARIKOVA IRENA R.TOTHOVA		0	303
+350	Bednáriková Katarína		0	384,552
+350	Bednáriková Mária r. Bakošová		0	575
+350	Berta Jozef		0	148,340,500,526
+350	Berta Jozef r. Berta		0	360,873
+350	Berta Július		0	327,488,934,935
+350	Berta Július r. Berta		0	360,873
+350	Berta Vojtech		0	148,340,526
+350	Berta Vojtech r. Berta		0	360,873
+350	Besse Estera r. Oravcová		0	817
+350	BESSEOVA ESTERA R.ORAVECOVA		0	620
+350	BLAHO STEFAN		0	524,776,777
+350	BOBCEKOVA KAROLINA R.BABINECZOVA		0	312
+350	Bobčeková Katarína r. Bakošová		0	594
+350	BOHOSOVA AMALIA R.RICHTEROVA		0	378
+350	Bohošová Júlia r. Branyiková		0	309,428,543
+350	BOHUSZ MICHAL		0	378
+350	Borbélyová Júlia r. Harcsová		0	493
+350	BORBELYOVA JULIA R.HARCSOVA		0	415
+350	Borosová Anna r. Brányiková		0	309,428,536
+350	Borosová Júlia r. Brányiková		0	536
+350	Bránik Ondrej		0	428,536
+350	Brányik Jozef		0	428
+350	Branyik Jozef r. Branyik		0	309
+350	BRANYIK ONDREJ		0	324,543
+350	Branyik Ondrej r. Branyik		0	309
+350	Brányik Štefan		0	428,536,543
+350	Branyik Štefan r. Branyik		0	309
+350	Branyiková Júlia r. Jatyelová		0	309
+350	Csanderová Mária		0	334
+350	CSANDEROVA ROZALIA		0	349
+350	CZANDEROVA MARIA		0	349,375
+350	CZANDEROVÁ VERONA		0	334,349,375
+350	Demová Alžbeta r. Bertová		0	526
+350	DIKANOVA ANNA R.LIKAVCANOVA		0	297
+350	DOBROVICZKA IRENA		0	288
+350	Engelová Berta r.Polláková		0	387
+350	Ferus Viktor r. Ferus		0	869
+350	Ferusová Anna r. Zimulová		0	869
+350	FIALKA JAN		0	453
+350	Gallová Berta r. Bertová		0	526
+350	Gallová Ružena r. Marenčáková		0	146,384
+350	GALLOVÁ RUŽENA R.MARENČÁKOVÁ		0	552
+350	GARAI JAN		0	297
+350	GARAI JOZEF		0	297
+350	GARAI STEFAN		0	289,297
+350	GARAIOVA VIKTORIA R.RICHTEROVA		0	289
+350	GYEN ALEXANDER		0	391,460,544,545,550,551,619,620
+350	GYEN ONDREJ		0	533,534
+350	GYEN STEFAN		0	550,551
+350	GYEN VILIAM		0	619,620
+350	GYENOVA ESTERA		0	533,534
+350	GYENOVA MARIA R.NAGYOVA		0	533,534
+350	GYENOVA MARIA R.ORAVECOVA		0	532
+350	GYENOVA ZOFIA		0	533,534
+350	Haladík Dominik	č. 84	0	859
+350	HALADIK STEFAN		0	431,453
+350	HALADIKOVA HELENA		0	700,867
+350	Haládiková Irma r. Michalíková		0	511
+350	HALADIKOVA IRMA R.MIHALIKOVA		0	479
+350	HALADIKOVA IRMA R.MICHALIKOVA		0	195,700,867
+350	Haladíková Júlia r. Hronová	č. 84	0	859
+350	HALADIKOVA JULIA R.POLAKOVA		0	431,453
+350	Haladíková Juliana r. Poláková		0	386
+350	Haládiková Juliana r. Polláková		0	286
+350	Harcsa Alexander		0	491,594,936
+350	HARCSA PAVOL		0	290
+350	HARCSA PETER		0	290
+350	HARCSOVA ROZA		0	290
+350	Harča Zoltán		0	565
+350	Harčic Zoltán		0	814
+350	Chovan Ján	č. 61	0	829
+350	Chovanová Katarína r. Holubová	č. 61	0	829
+350	IVAN IMRICH		0	322,421,784
+350	IVAN KAROL		0	322,784
+350	IVAN ONDREJ		0	322,784
+350	Ivaničová Júlia	Čechy č. 216	0	817
+350	IVANOVA ALZBETA		0	322,784
+350	IVANOVA MARIA		0	322,784
+350	JATEL ONDREJ		0	700,867
+350	JATELOVA JULIA R.RICHTEROVA		0	700,867
+350	JATELOVA JULIANNA R.RICHTEROVA		0	195
+350	JATELOVA MARIA R.KUTIKOVA		0	700,867
+350	KECKESOVA ANNA R.POLAKOVA		0	195,700,867
+350	Kecskéš Vojetch	č. 14	0	840
+350	Kecskéšová Anna r. Poláková	č. 14	0	840
+350	KECHAN JOZEF		0	420
+350	KELECENYI FERDINAND		0	310,361,400,574,706,707,708,752
+350	KELECENYI JAN		0	310,361,400,574,706,707,708,752
+350	Kelecsényi Ferdinand		0	351,398
+350	Kelecsenyi Ferdinand r. Kelecsenyi		0	893
+350	Kelecsényi Ján		0	351,398
+350	Kelecsenyi Ján r. Kelecsenyi		0	893
+350	KONKOLYOVA HELENA R.ORAVECOVA		0	619
+350	KORINOVA EVA R.SEIDLOVA		0	529
+350	Korpásová Irma		0	416,491,493,594,936
+350	KORPASOVA LENKA R.SZURIOVA		0	321,558,564
+350	Korpášová Lenka r. Szuriová		0	565
+350	Korpášová Margita		0	493,594
+350	Kostolániová Mária r. Richterová		0	286,348
+350	KOSTOLANIOVA MARIA R.RICHTEROVA		0	337
+350	Kostolányi Jozef r. Kostolányi		0	858
+350	Kostolányiová Mária r. Richterová		0	858
+350	KOVAC STEFAN		0	195,509,582,700,867
+350	KOVACSOVA JULIA R.ORAVECOVA		0	619
+350	Kováč Imrich		0	371
+350	Kováč Ján	č.147	0	846
+350	Kováč Jozef		0	831
+350	Kováč Ladislav		0	801
+350	Kováč Michal r. Kováč		0	308
+350	Kováč Ondrej	Štefanov syn	0	863
+350	Kováč Viktor r. Kováč		0	801
+350	Kováč Viliam r. Kováč	m. Helena	0	863
+350	Kováč Vojtech	č. 142	0	844
+350	Kováčová Alžbeta r. Záhorcová	č.116	0	831
+350	Kováčová Anna r. Mandíková	č. 142	0	844
+350	Kováčová Pavlína r. Michačová	č. 147	0	846
+350	Kováčová Rozália r. Regasová		0	308
+350	Kozák Michal		0	841
+350	Kozáková Pavlína r. Hibnerová		0	841
+350	Kubíková Margita r. Babová		0	615
+350	KUBIKOVA MARGITA R.BABOVA		0	299
+350	Kuruc Ján r. Kuruc		0	296
+350	KURUCOVÁ GIZELA R.RICHTEROVÁ		0	323,732,733,788
+350	Kurucová Mária r. Pestyanska		0	296
+350	Kurucová Mária r. Pestyanszka		0	296
+350	KUTIK FRANTISEK		0	380,468,790
+350	KUTIK JAN		0	380,468,475,790
+350	KUTIK ONDREJ		0	356,468,790
+350	KUTIK PAVOL		0	380
+350	Kútik Štefan		0	476
+350	KUTIKOVA ALZBETA R.RICHTEROVA		0	380,475
+350	KUTIKOVA FRANTISKA		0	380
+350	KUTIKOVA KAROLINA		0	380
+350	Kútyiková Júlia r. Brányiková		0	543
+350	Lavková Alžbeta r. Kováčová	vdova, č.d. 149	0	837
+350	Lengyelová Júlia r. Bertová		0	526
+350	Likavcan Ján		0	186,297
+350	Likavcan Ján r. Likavcan		0	186
+350	LIKAVCAN MATEJ		0	186
+350	LIKAVCAN MATEJ ML.		0	297
+350	Likavcan Matej r. Likavcan		0	186
+350	Likavcanová Julianna r. Garaiová		0	186
+350	Likavcanová Mária		0	186
+350	MARENCAK VENDELIN		0	305,443
+350	MARENCAKOVA BARBORA R.GARAIOVA		0	297
+350	MARENCSAK VENDEL		0	381
+350	MARENCSAK VENDELIN		0	319
+350	MARENCSAKOVA BARBORA R.GARAIOVA		0	319
+350	Marenčák František	č. 57	0	842
+350	Marenčák Jozef	st. č.d. 62	0	836
+350	Marenčák Jozef r. Marenčák	č. 108	0	848
+350	Marenčák Pavel r. Marenčák		0	868
+350	Marenčáková Alžbeta r. Záhorcová	č. 57	0	842
+350	Marenčáková Barbora r. Garaiová		0	186
+350	Marenčáková Helena	č. 103	0	848
+350	Marenčáková Katastrína r. Bednáriková	č. 140	0	854
+350	Marenčáková Mária r. Skladaná	č.d. 62	0	836
+350	Marenčáková Mária r. Tonkovičová		0	868
+350	Marton Jozef	č. 88	0	843
+350	Martonová Alžbeta r. Bobčeková	č. 88	0	843
+350	MIHALIKOVA JULIA R.SAFAROVA		0	468,790
+350	MIHALIKOVA JULIANA		0	480
+350	MICHALIKOVA BARBORA R.KOVACOVA		0	195,700,867
+350	MIKULKA STEFAN		0	314
+350	Mikulka Štefan	č.d. 33	0	838
+350	Mikulková Anna r. Turčányiová	č.d. 33	0	838
+350	Németh Ján r. Németh		0	825
+350	Némethová Júlia r. Bartošová		0	825
+350	Nemethová Rozália r. Branyiková		0	309,428,543
+350	ORAVEC ONDREJ		0	619,793
+350	ORAVECZ ONDREJ		0	551
+350	Orbis Katarína r. Orbis		0	863
+350	ORBIS STEFAN		0	195,700,867
+350	ORBISOVA MARIA R.MICHALIKOVA		0	195,700,867
+350	OTRUBA JOZEF		0	444
+350	Otrubová Helena r. Vrzalová		0	146
+350	PALINKAS ALEXANDER		0	321,404,554
+350	Pálinkás Ferdinand		0	491,936
+350	Pálinkás Matej		0	388,404,491,493,594,936
+350	Pálinkás Matej	ml	0	445
+350	Pálinkás Ondrej		0	388
+350	PALINKAS ZOLTAN		0	321,561,565
+350	PALINKASOVA ALZBETA		0	390,620
+350	PALINKASOVA IDA		0	321,561,565
+350	PALINKASOVA JULIA		0	620
+350	PALINKASOVA LENKA		0	321,561,565
+350	Pálinkásová Rozália		0	404,414,445,491,493,594,936
+350	Pálinkáš Koloman		0	491,936
+350	Pálinkáš Koloman r. Pálinkáš	manž. Johana r. Harča	0	572
+350	Pálinkáš Matej, SR		0	576,577
+350	Pálinkáš Ondrej, SR		0	576
+350	Pálinkášová Jolana r. Harcsová		0	491,936
+350	Pálinkášová Rozália, SR		0	576
+350	PASZTOROVA ROZALIA R.ORAVECOVA		0	619
+350	PAULOVIČ VOJTECH		0	295
+350	Pestyanska Mária r. Pestyanska		0	296
+350	Poláková Mária r. Braníková	č. 60	0	855
+350	Porubský Štefan		0	330
+350	RICHTER ALEXANDER		0	453
+350	RICHTER ANTON		0	378
+350	Richter Ján		0	348,349
+350	RICHTER JULIUS		0	449
+350	RICHTER LADISLAV		0	337,453
+350	Richter Ondrej		0	348
+350	RICHTER ŠTEFAN		0	323,348,356,732,733,788
+350	Richterová Anna		0	286,337,348
+350	ROSIVALOVA MARIA R.KOVACOVA		0	707,708
+350	Roszivalová Mária r. Kovácsová		0	893
+350	ROSZIVALOVA MARIA R.KOVACSOVA		0	310,361,706,752
+350	Rozsivalová Mária r. Kovácsová		0	351
+350	Ryban Adam	č. 118	0	805,856
+350	Rybanová Alžbeta r. Sengewien	č. 118	0	856
+350	Sallaiová Róza r. Pálinkásová		0	388
+350	SALLAIOVA ROZALIA R.PALINKASOVA		0	321,555
+350	SEBOKOVA FANI R.KUTIKOVA		0	380
+350	SEIDL SALAMON		0	527
+350	SEMNICKA VALERIA R.KOSIKOVA		0	195,700,867
+350	SEMNICKY JOZEF		0	700,867
+350	SEMNICKY JOZEF A VALERIA R.KOSIK		0	195

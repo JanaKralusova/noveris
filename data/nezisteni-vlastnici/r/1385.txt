@@ -1,0 +1,256 @@
+803	Ďuroš Ján /B/ /B/		0	141,172,321,346
+803	Ďuroš Ján /B/ B/		0	287
+803	Ďuroš Ján /beken horný/ /beken horný/		0	374
+803	Ďuroš Ján /beken/ /beken/		0	337
+803	Ďuroš Ján /C/ /C/		0	172,287,309,318,323,324
+803	Ďuroš Ján /E/ /E/		0	307
+803	Ďuroš Ján /F/ /F/		0	172,287
+803	ĎUROŠ JÁN /JAKUBOJE/ /Jakuboje/		0	405,406
+803	Ďuroš Ján /m.Zuzana r.Veckeová/ /m.Zuzana r.Veckeová/		0	144
+803	ĎUROŠ JÁN /PAUKOJE/ /Paukoje/		0	405,406
+803	Ďuroš Ján /zdycha/ /zdycha/		0	141
+803	Ďuroš Karol /Jakuboje/ /Jakuboje/		0	349
+803	Ďuroš Martin		0	346
+803	Ďuroš Martin	/jakuboje/	1	125,437,507
+803	ĎUROŠ MARTIN /JAKUBOJE/ /Jakuboje/		0	405,406
+803	Ďuroš Martin /paukoje/ mal.	maloletý; paukoje	0	328
+803	Ďuroš Michal		0	358
+803	Ďuroš Michal /ráčik/ /ráčik/		0	342
+803	Ďuroš Ondrej		0	356
+803	Ďuroš Ondrej /m.Anna r.Križanová/ /m.Anna r.Križanová/		0	356
+803	ĎUROŠ PAVEL / ŽENA MARGITA R. KLÁROVÁ/ /Žena Margita r. Klárová/		0	405
+803	Ďuroš Pavel /A/	A	0	129
+803	Ďuroš Pavel /A/ /A/		0	141
+803	Ďuroš Pavel /C/ /C/		0	327
+803	Ďuroš Pavel /dragan/ /dragan/		0	356
+803	Ďuroš Pavel /ďuroje/ /ďuroje/		0	280
+803	Ďuroš Pavel /ďurošoje/ /ďurošoje/		0	375
+803	Ďuroš Pavel /gažo/ /gažo/		0	240,293
+803	Ďuroš Pavel /jakubove/ /jakubove/		0	217
+803	Ďuroš Pavel /mundis/ /mundis/		0	314
+803	Ďuroš Pavel /ž.Margita r.Klárová/ /ž.Margita r.Klárová/		0	129,206,346,379
+803	ĎUROŠ PAVEL /ŽENA MARGITA R. KLÁROVÁ/ /Žena Margita r. Klárová/		0	406
+803	Ďuroš Pavol	/ďurošoje/	1	371
+803	Ďuroš Pavol	/m.Margita Klárová /	1	125,239,255,437,457,493,507,508
+803	Ďuroš Tomáš /dragan/ /dragan/		0	356
+803	Ďurošová Anna	r.Repová	1	315
+803	Ďurošová Anna r.Ďurošová		0	283
+803	Ďurošová Anna r.Pavlusová		0	308
+803	Ďurošová Barbora	r.Ďurošová /bekeň/; ; /bekeň/	1	315
+803	Ďurošová Barbora	r.Ďurošová /bekeň/; ; bekeň	1	352
+803	Ďurošová Mária		1	319
+803	Ďurošová Zuzana		0	129,206
+803	Ďurošová Zuzana	r.Johanidesová	1	125,437,507
+803	Ďurošová Zuzana	slob	1	239,255,457,493,508
+803	Ďurošová Zuzana r. Johanidesová, SR		0	405,406
+803	Ďurošová Zuzana r.Ferková		0	279
+803	Ďurošová Zuzana r.Johanidesová		0	126,330
+803	Ďurošová Zuzana r.Šuľanová		0	273
+803	Fábryová Anna r.Šedrová		0	213
+803	Fábryová Mária r. Ďurošová, SR		0	405,406
+803	Fábryová Mária r.Ďurošová		0	129,360
+803	Fábryová Zuzana r.Jakubecová		0	341
+803	Ferková Zuzana r.Ďurošová		0	171,357
+803	Figuli Ján		0	317,332
+803	Figuli Mária		0	332
+803	Figuli Vilma		0	317,332
+803	Frečková Mária r.Kalmárová		0	286
+803	Gombala Emil		0	242,337
+803	Gombalová Cecília r.Matušková		0	242,337
+803	Gyuros Ján	Ďuroš	1	418
+803	Harastiová Helena	r.Ďurošová	1	409,439
+803	Hašková Zuzana r.Balážová		0	356
+803	Hriešik Pavel		0	356
+803	Hrúz Samuel		0	356
+803	Hudec Ján		0	356
+803	Hudec Ján mal. maloletý		0	356
+803	Hudec Matúš		0	356
+803	Hudec Michal /kasáz/ /kasáz/		0	356
+803	Hudec Pavel		0	356
+803	Husáková Zuzana		0	356
+803	Husár Michal		1	194
+803	Hybská Anna mal. maloletý		0	356
+803	Hybská Anna r.Vargová		0	356
+803	Chrtianska Oľga		1	184,207
+803	Jakubec Ján /ž.Mária Ďurošová/ /ž.Mária Ďurošová/		0	347
+803	Jakubec Jozef /ž.Judita Uhrinová/ /ž.Judita Uhrinová/		0	347
+803	Jakubec Martin		0	344,376
+803	Jakubec Martin /m.Mária r.Ďurošová/ /m.Mária r.Ďurošová/		0	320
+803	Jakubec Pavel /A/ /A/		0	306,321
+803	Jakubec Pavel /B/ /B/		0	213,237,309,350
+803	Jakubec Pavel /ž.Mária Labátová/ /ž.Mária Labátová/		0	347
+803	Jakubecová Anna r.Jakubecová		0	344
+803	Jakubecová Barbora r.Ďurošová		0	369
+803	Jakubecová Mária r. Ďurošová		0	388
+803	Jakubecová Mária r.Pavlusová		0	308
+803	Jakubecová Zuzana r.Ďurošová		0	141,171,357
+803	Jambrichová Mária r.Jakubecová		0	306,372
+803	Johanidesová Mária r.Šuľanová		0	311
+803	Káderová Izabela		0	141,187
+803	Kalmár Ján		1	207
+803	Kalmár Ján /A/ /A/		0	293
+803	Kalmár Ján /ž.Barbora r.Makovníková/ /ž.Barbora r.Makovníková/		0	184
+803	Kalmár Ľudovít Gejza		1	251
+803	Kalmár Martin	/dolný/	1	437,507
+803	Kalmár Martin	/dolný/; ; dolný	1	125
+803	KALMÁR MARTIN /DOLNÝ/ /Dolný/		0	405,406
+803	Kalmár Michal		0	132,333
+803	Kalmárová Anna		0	353
+803	Kalmárová Anna r.Ďurošová		0	288
+803	Kalmárová Anna r.Sitárová		0	264,470
+803	Kalmárová Mária	mal	1	207
+803	Kalmárová Mária	r.Ďurošová vd	1	125
+803	Kalmárová Mária	r.Ďurošová vd.; ; r.Ďurošová	1	437,507
+803	Kalmárová Mária mal. maloletá		0	240
+803	KALMÁROVÁ MÁRIA R. ĎUROŠOVÁ		0	405,406
+803	Kameň Ján		0	356
+803	Kanátová Anna	r.Makovníková	1	125
+803	Karman Andrej		0	334
+803	Karman Ján		0	356
+803	Karmanová Anna r.Husárová		0	336
+803	Kemen Juraj		0	356
+803	Kmeťová Rozália	r.Volentová	1	223,500
+803	Kmeťová Rozália r.Volentová		0	250
+803	Krasnik Ondrej		0	356
+803	Krekáč Ján		0	176
+803	Krekáč Ondrej		0	356
+803	Krekáč Pavel		0	356
+803	Krekáč Tomáš		0	356
+803	Krekáčová Zuzana		0	356
+803	Kupček Lajoš		0	356
+803	Labátová Zuzana		0	356
+803	Lenhard Michal		0	356
+803	Lenhard Michal /cemes/ /cemes/		0	356
+803	Lenhard Ondrej		0	356
+803	Lenhard Pavel /cemes/ /cemes/		0	356
+803	Lenhardová Anna r.Ďurošová		0	356
+803	Macko Michal		0	356
+803	Makovníková Anna r.Kalmárová		0	296
+803	Melicherová Anna r.Ďurošová		0	129
+803	Merka Ján		0	356
+803	Pavlíková Barbora r.Ďurošová		0	309
+803	Ragač Ján		0	356
+803	Ragač Pavel ml. ml		0	356
+803	Repa Ján		0	320,359
+803	Repa Pavel		0	359
+803	Repová Anna r.Makovníková vd. vdova		0	297
+803	Tancurátová Anna		1	138
+803	Vajs Pavel		0	388
+803	Vajs Pavol		1	428
+803	Valus Ján		0	266,299
+803	Valus Michal		0	299
+803	Varga Ján		0	356
+803	Varga Pavel ml. ml		0	356
+803	Vargová Mária r.Kalmárová		0	293
+803	Vargová Zuzana	r.Ďurošová	1	352
+804	ÁBELOVÁ Oľga r. Dodorfová, 91333, Horná Súča, č. 45, SR		0	4135
+804	BABRNAK JURAJ	Trenčín - Závažie 14	0	514
+804	Babrnák Juraj		0	1011,7071
+804	Babrnák Ondrej, SR		0	1011,7071
+804	BABRNAK STEFAN, SR		0	514
+804	BABRNAKOVA AGNESA, SR		0	514
+804	BABRNAKOVA ALZBETA, SR		0	514
+804	Babrnáková Anna, 913 33, Horná Súča, č. 245, SR		0	4775
+804	BABRNÁKOVÁ Anna, Horná Súča, č. 245, SR		0	4088,4420,4789,4975
+804	BABRNÁKOVÁ ANNA, SR		0	3484
+804	BABRNÁKOVÁ Eva, Horná Súča, č. 247, SR		0	4783
+804	BABRNÁKOVÁ Eva, Horná Súča, č. 262, SR		0	4681
+804	BABRNAKOVA MARIA, SR		0	514
+804	BABRNÁKOVÁ Verona	malol.,č.266 Horná Súča, zom.2.6.2000	0	4751,4987
+804	BABRNÁKOVÁ Verona	malol.,č.266 Horná Súča, zom.2.6.2000 malol.,č.266 Horná Súča, zom.2.6.2000	0	4767
+804	BABRNAKOVA ZUZANA, SR		0	514
+804	Barinec Pavol	Trnávka 877, 91333 Horná Súča	0	7541
+804	BARINKOVÁ Magdaléna	Popov - Morava Tarabusová, Ján	0	5700
+804	BARIŠ Ján	Horná Súča 181,Amerika,zom	0	2043,5474
+804	BARIŠ Ján	Hubina,Magda Mikušincová,Hor.Súča 641	0	4534,4642,5016,5020,5457
+804	BARIŠ Jozef	Eva Barišová,n.24.7.1907,zom.,H.Súča 306	0	4610
+804	Bariš Jozef r. Bariš a KATARÍNA BARIŠOVÁ		0	3484
+804	BARIŠ Michal	č.641 Horná Súča	0	2114,3382,4077
+804	BARIŠ Pavol	Horná Súča 335,zom.14.9.1945	0	2043
+804	BARIŠ Pavol	Horná Súča č.276	0	2211,2212,2588,3306,4892,4906,4907,7493,7835,7856
+804	BARIŠOVÁ Alžbeta	Satinová,Skalská Nová Ves	0	5640
+804	BARIŠOVÁ Anna	Múková,vd.,Horná Súča sč.550	0	5927,6019,6990
+804	Barišová Magdaléna	Hilčíková, Ondrej , Horná Súča 320, zom	0	3450
+804	Barišová Magdaléna r. Hajdáková		0	175,7088
+804	BARIŠOVÁ Magdaléna r. Mikušincová, Horná Súča, č. 641, SR	vd.,zom	0	4077
+804	BARIŠOVÁ Magdaléna r. Mikušincová, Horná Súča, č. 641, SR	vd.zom	0	3382
+804	Barišová Margita	mal.mal.,H.Súča č. 276 ,; mal.mal.,H.Súča č. 276	1	4892
+804	BARIŠOVÁ Margita	mal.,H.Súča č.276	0	3306,4906,4907,7493,7835,7856
+804	BARIŠOVÁ Zuzana	H.Súča 321, zom	0	4534,4642,4650,5016,5020,5458
+804	BARTEK Andrej	H.Súča č.9, zom	0	4300
+804	BARTEK Andrej	Istebník, zom	0	3617
+804	BARTEK Andrej	Tichý, Amerika, zom	0	4832
+804	Bartek Ján, SR		0	1011,3484,7071
+804	Bartek Juraj		0	1011,7071
+804	BARTEK JURAJ, SR		0	3484
+804	BARTEK Karol	mal.,H.Súča č.269, Amerika, zom	0	3306,7493,7835,7856
+804	Bartek Martin r. Bartek, 91333, Horná Súča, č. 643, SR		0	1686,4748,4960
+804	BARTEK ONDREJ, SR		0	442,1011,3484,7071
+804	Bartek Štefan r. Bartek, 91333, Horná Súča, č. 245, SR		0	4951
+804	BARTEK ŠTEFAN, SR		0	442
+804	BARTEK Viktor	mal., H.Súča 600, zom	0	4796
+804	BARTEKOVÁ Agnesa	H.Súča 127, zom	0	2211,2212,2588
+804	BARTEKOVÁ Anna	H.Súča č.9, zom	0	3617,4300
+804	BARTEKOVÁ ANNA, MALYCHOVÁ, SR		0	3484
+804	BARTEKOVÁ ANNA, SR		0	442,1011,7071
+804	BARTEKOVÁ Jana	H.Súča č.127	0	1417
+804	Barteková Katarína r. Chupáčová	Horná Súča 127, 91333 Horná Súča	0	7611
+804	Barteková Magda, SR		0	880
+804	Barteková Magdaléna, 913 33, Horná Súča, č. 643, SR	Babrnáková,Hofmanová Martin zom. 10.01.1985	0	4690
+804	BARTEKOVÁ Magdaléna, Horná Súča, č. 229, SR	zom	0	4757
+804	BARTEKOVÁ Magdaléna, Horná Súča, č. 601, SR	zom	0	4620,5018,5085,5088,5091,5093,5095,5096,5101,5102,5546,6456,7758,7759,7760,7761,7762,7763
+804	BARTEKOVA MAGDALENA, SR		0	514
+804	Barteková Zuzana	Ján	0	3617,4300
+804	BARTEKOVÁ ZUZANA, SR		0	442
+804	Bartková Alžbeta r. Babrnáková, 91333, Horná Súča, č. 578, SR		0	4806
+804	Bartková Anna r. Kocfrídová, 91333, Horná Súča, č. 600, SR		0	4012,4693,4938
+804	Beránková Anna r. Novomestská, 91333, Horná Súča, č. 318, SR		0	4350,4371
+804	Biras Andrej, Dolná Súča, č. 93, SR	Micko, Pavlína Hlávková	0	4376
+804	Biras Andrrej, Dolná Súča, č. 93, SR	Micko, Pavlína Hlávková	0	4474
+804	Biras Gustáv	Horná Súča 346, 91333 Horná Súča	0	7628
+804	Biras Ján		0	1506
+804	Biras Ján	Horná Súča 348, 91333 Horná Súča	0	7622
+804	Biras Ján r. Biras, 91333, Horná Súča, č. 145, SR		0	4072,4148,4383,4967
+804	Biras Ján, SR		0	195
+804	BIRAS Jozef	Švančara, ČR, zom	0	4265,5493
+804	BIRAS Jozef	zomr.27.5.1990	0	4018
+804	Biras Jozef r. Biras, 91333, Horná Súča, č. 332, SR		0	4787
+804	Biras Lukáč	H.Súča č.185, zom.2001	0	4109,4387
+804	BIRAS Matej	D.Súča č.332, zom	0	4787
+804	Biras Ondrej		0	175,1506,7088
+804	Biras Ondrej r. Biras, 91333, Horná Súča, č. 93, SR		0	2211,2212,2588
+804	BIRAS Štefan	Anna Hlávková	0	4207
+804	Biras Štefan r. Biras, 91333, Horná Súča, č. 80, SR		0	5493
+804	Birasová Agnesa		0	175,7088
+804	Birasová Alojzia, SR		0	195
+804	Birasová Alžbeta r. Sásková, 95703, Dežerice, č. 130, SR		0	4057
+804	BIRASOVÁ Alžbeta, 91333, Horná Súča, č. 80, SR		0	2150
+804	Birasová Anna	H.Súča č.131, zomrela	0	4190
+804	Birasová Anna r. Gugová	HORNÁ SÚČA č. 180, zomr.4.11.1994	0	1962
+804	Birasová Anna r. Zemanovičová, 91333, Horná Súča, č. 50, SR		0	4585
+804	Birasová Eva r. Birasová		0	175,7088
+804	Birasová Helena, SR		0	195
+804	BIRASOVÁ Janka	r. Cverenkárová, Dolná Súča	0	5998,6020,6021,7470
+804	BIRASOVÁ Janka	r.Cverenkárová, Dolná Súča	0	2253,3959,6785
+804	BIRASOVÁ Katarína	Ranková,vd., H.Súča č.103, zom	0	3394
+804	Birasová Kristína, SR		0	195
+804	Birasová Mária r. Hejdišová		0	1506
+804	Birasová Mária r. Maršálková, SR		0	1433
+804	Birasová Mária, SR		0	195
+804	BIROŠOVÁ Júlia	r.Birasová, Čuňovo	0	4109,4387
+804	BIROŠOVÁ Júlia r. Birasová	Čuňovo	0	7628
+804	BIZOŇ ŠTEFAN, č. 360, SR		0	2318
+804	Bizoňová Alžbeta r. Olášová, 91333, Horná Súča, č. 299, SR		0	4349
+804	BLAHOVÁ Anna	Stašáková,Žitková71,Starý Hrozenkov,ČR	0	2757,2916,5297,5311,5326,5358
+804	BLAHOVÁ Emília	Kuciaková,H.Súča 479	0	5788,5790
+804	Blahová Mária	Napokyová, Juraj , Horná Súča 347, zom	0	5162
+804	BLAHOVÁ Mária	Blahová,vd.,H.Súča 663,zomrel	0	5131
+804	BLAHOVÁ Mária	mal.H.Súča 680	0	3880,5307
+804	BLAHOVA MARIA r. BABRNAKOVA, č. 421, SR		0	514
+804	Brázda Ján r. Brázda, 91333, Horná Súča, č. 514, SR		0	5671
+804	Brázda Jozef r. Brázda, 91333, Horná Súča, č. 377, SR		0	5339,5350
+804	Brázdová Agnesa r. Gagová	Horná Súča 768, 91333 Horná Súča	0	7624
+804	Brázdová Anna r. Orságová, 91333, Horná Súča, č. 432, SR		0	5469
+804	Brázdová Magdaléna r. Bulejková, 91333, Horná Súča, č. 377, SR		0	5354,5423
+804	Brázdová Magdaléna r. Chovancová	Horná Súča 71, 91333 Horná Súča	0	7621
+804	Brázdová Mária	zomrel, Horná Súča 657, 91333 Horná Súča	0	7624

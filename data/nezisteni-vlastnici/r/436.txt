@@ -1,0 +1,256 @@
+248	KICKOVÁ Justína		1	18
+248	Kicková Justína r. Biroščáková		0	540,541
+248	Kicková Katarína	rod.Korchňáková	0	453,454,460,463,512
+248	KICKOVÁ Katarína		1	21,558
+248	Kicková Katarína r. Korchňáková		0	528,540,541
+248	Kicková Mária	rod.Biroščáková	0	498
+248	Kicková Mária	rod.Fecková	0	428
+248	Kicková Mária	rod.Popovičová	0	357
+248	Kicková Rozália		0	357,385,460,461,540,541
+248	Kicková Žofia		0	357,385,460,461,540,541
+248	Kohan Juraj		0	352
+248	KOCHAN Ján		1	18,357,364,475
+248	KOCHAN Juraj		1	550,626
+248	Kochan Michal		0	357,430,593
+248	KOCHAN Michal	starší	1	18
+248	Kochanová Mária	rod.Hockicková	0	357,375,395,415,421,426,435,437,448,453,454,463,515,516,611,612,630
+248	KOCHANOVÁ Mária		1	21,558
+248	Kochanová Mária r. Hockicková		0	528
+248	KOMARA Adam		1	18
+248	Komara Augustín		0	459
+248	Komara Ezechial		0	527,616
+248	KOMARA Ferdinand		1	18
+248	KOMARA Ján		1	18,348,387,550,617,618,624,626,632
+248	KOMARA Jozef		1	550,626
+248	KOMARA Matej		1	18
+248	Komara Michal		1	460,461,473,540,541,550,626
+248	Komara Michal r. Komara		0	352
+248	Komara Ondrej	starší	0	366,407
+248	Komara Severín		0	357,403
+248	KOMAROVÁ Anastázia		1	18,466,529
+248	Komarová Anna		0	357,403,461
+248	Komarová Elena	rod.Biroščáková	0	348,461,464,473,618,624
+248	Komarová Elena r. Biroščáková		0	352
+248	KOMAROVÁ Elena, maloletá		1	550,626
+248	KOMAROVÁ Ľubica		1	18
+248	Komarová Mária	rod.Michelková	0	357,371,470
+248	KOMAROVÁ Mária		1	18,550,626
+248	Komárová Mária	rod.Bryndzová	0	460
+248	Komárová Mária r. Bryndzová		0	540,541
+248	Komarová Mária r. Michelková		0	352
+248	Komárová Rozália		0	461
+248	Komarová Rufína	rod.Komarová	0	451,460,461
+248	Komarová Rufína r. Komarová		0	529,540,541
+248	Komarová Žofia	rod.Hockicková	0	501
+248	Korchňák František		0	454,463,528
+248	Korchňák Martin		0	347
+248	Korchňák Štefan		0	37,463
+248	Korchňák Štefan r. Korchňák	mladší; mladší	0	37
+248	Korchňák Valent		0	423,432,453
+248	Korchňáková Alžbeta		0	37
+248	Korchňáková Anna	rod.Meluchová	0	423,432
+248	KORCHŇÁKOVÁ Cecília		1	21,558
+248	Korchňáková Františka		0	512
+248	Korchňáková Katarína		0	37
+248	Korchňáková Mária	rod.Kicková	0	357,382,417
+248	Korchňáková Mária	rod.Michelková	0	463
+248	Korchňáková Mária	rod.Sakmárová	0	460,461
+248	KORCHŇÁKOVÁ Mária		1	18,21,37,357,377,453,454,463,512,528,555,558
+248	KORCHŇÁKOVÁ Mária r. Kicková		0	558
+248	Korchňáková Mária r. Sakmárová		0	540,541
+248	Kožár Jozef		0	449
+248	Kubiková Alžbeta		0	441
+248	LOPATKOVÁ Anna		1	18
+248	Maliňák Donath		0	357,391,422,453,454,463,528
+248	MALIŇÁK Juraj		1	18,21,453,463,558
+248	MALIŇÁK Ladislav		1	21,357,391,422,453,454,463,528,558
+248	MALIŇÁK Ladislav	maloletý	1	21
+248	MALIŇÁK Ladislav, maloletý		1	558
+248	MALIŇÁK Marek		1	18,357,397,414,501
+248	MALIŇÁK Michal		1	21,453,558
+248	MALIŇÁK Samuel		1	550,626
+248	MALIŇÁK Štefan		1	565
+248	Maliňák Valent		0	414
+248	MALIŇÁKOVÁ Agáta		1	550,626
+248	Maliňáková Anna	r.Korchňáková	0	414,454,463
+248	Maliňáková Anna	rod.Vírová	0	357,398,422
+248	Maliňáková Anna r. Korchňáková		0	528
+248	MALIŇÁKOVÁ Dorota		1	21,558
+248	MALIŇÁKOVÁ Dorota	maloletá	1	21
+248	MALIŇÁKOVÁ Dorota, maloletá		1	558
+248	Maliňáková Marcela		0	453
+248	MALIŇÁKOVÁ Marcela	maloletá	1	21
+248	MALIŇÁKOVÁ Marcela, maloletá		1	558
+248	Maliňáková Mária	rod.Popovičová	0	501
+248	Maliňáková Žofia	rod.Komárová	0	460
+248	Maliňáková Žofia r. Komárová		0	540,541
+248	Meľuchová Helena	r.Tatarková	0	441
+248	Mihelko Alexander		1	352,446,460,540,541,550,564,626
+248	Mihelko Cyril		1	352,446,460,540,541,550,564,626
+248	MIHELKO Ján		1	18,460,540,541
+248	Mihelko Jozef		1	352,446,460,540,541,550,564,626
+248	Michelková Mária	rod.Korchňáková	0	357,377,439,453,454
+248	MICHELKOVÁ Mária		1	21,558
+248	Michelková Mária r. Korchňáková		0	528
+248	Milčáková Mária	rod.Popovičová	0	453
+248	Mlynarčík Valent		0	460,540,541
+248	Mlynarčíková Alžbeta	rod.Školníková	0	501
+248	Mlynarčíková Anna		0	461
+248	Mlynarčíková Etela	rod.Školníková	0	461,490,494
+248	Mlynarčíková Etela r. Školníková		0	352
+248	MLYNARČÍKOVÁ Etelka		1	550,626
+248	Nagyová Žofia	rod.Biroščáková	0	458
+248	Ondrejčáková Emília	rod.Hockicková	0	421,504,505,506,508
+248	Pavlík Ján	st	0	357,444
+248	PAVLÍK Vavrinec		1	550,626
+248	Pavlíková Alžbeta	rod.Popovičová	0	461
+248	Pavlíková Katarína		0	461
+248	PAVLIKOVÁ Mária		1	18,357,400,444,500
+248	Petruňák Michal		0	460,540,541
+248	Popovicová Justína		0	454,528
+248	POPOVIČ Andrej		1	18
+248	Popovič Cyril		0	461
+248	POPOVIČ Domino		1	565
+248	POPOVIČ Hygin		1	17,18,357,373,582
+248	POPOVIČ Hyrus		1	17,461
+248	Popovič Ján	I	0	440,453,499
+248	Popovič Ján	II	0	460
+248	POPOVIČ Ján		1	17,18,527,540,541,616
+248	POPOVIČ Ján	maloletý	1	17,550,626
+248	POPOVIČ Ján	maloletý, , SR	1	18
+248	POPOVIČ Ján	starší	1	21
+248	POPOVIČ Ján Juraj		1	18
+248	POPOVIČ Ján, starší		1	558
+248	POPOVIČ Joachim		1	565
+248	Popovič Jozef		0	454,528
+248	Popovič Michal		0	460,461,540,541
+248	Popovič Pavol		0	527,529,538,616
+248	POPOVIČOVÁ Anna		1	17,449,460,461,540,541,550,626
+248	Popovičová Františka	rod.Vírová	0	453
+248	POPOVIČOVÁ Františka		1	21,558
+248	Popovičová Marcela	rod.Hockicková	0	357,358,418,419,440
+248	Popovičová Mária	rod.Popovičová	0	357,373,582
+248	POPOVIČOVÁ Mária		1	17,18,21,352,558
+248	POPOVIČOVÁ Mária	maloletá	1	17
+248	Popovičová Mária r. Kolačkovská		0	529
+248	POPOVIČOVÁ Mária, maloletá		1	550,626
+248	POPOVIČOVÁ Marta		1	21,558
+248	POPOVIČOVÁ Terézia		1	21,558
+248	Popovičová Źofia r. Tarbajová		0	593
+248	Popovičová Žofia	rod.Hockicková	0	461
+248	SAKMAR Ján		1	18,459,460,461,466,502,540,541
+248	Sakmár Miroslav	Košice	0	585
+248	Sakmár Pavol		0	352,356,357,485,529,599,633,634,635
+248	SAKMAR Peter		1	18
+248	SAKMAR Štefan		1	18,529,550,626
+248	SAKMAR Valent		1	18
+248	Sakmár Vladimír	Košice	0	585
+248	Sakmárová Cecília		0	357
+248	Sakmárová Janka	rod.Pastoreková	0	350,357,404,460,461,636
+248	Sakmárová Janka r. Pastoreková		0	540,541
+248	SAKMAROVÁ Justína		1	18
+248	SAKMAROVÁ Mária		1	18,550,626
+248	Serenková Anna		0	467
+248	SKALSKÝ Eduard		1	18
+248	Stav Andrej		0	527,616
+248	Strelcová Anna	rod.Hardoňová	0	357,396,414
+248	Školník Ján		0	460,540,541
+248	Štelbacký Ondrej		0	428,468
+248	ŠTELBACKÝ Ondrej	maloletý	1	550,626
+248	Štelbacký Valent		1	352,550,626
+248	TARBAJ Cyprián		1	18
+248	Tarbaj Jozef		0	428,430,461
+248	TARBAJ Mikuláš		1	18
+248	TARBAJ Valent		1	18
+248	Tarbaj Vavrinec		0	379
+248	Tarbajová Mária	rod.Hockicková	0	453,461,487
+248	TARBAJOVÁ Mária		1	21,558
+248	Tomčuš Galus		0	357,386,450,461
+248	TOMČUŠ Ján		1	18,460,461,540,541
+248	Tomčuš Ondrej		0	357,386,450,460,461,540,541
+248	Tomčuš Pavol		0	460,540,541
+248	Tomčušová Dorota		0	450
+248	Varšová Alžbeta	rod.Popovičová	0	453
+248	VARŠOVÁ Alžbeta		1	21,558
+248	VIRA Adolf		1	18,21,453,558
+248	Vírostek Rolko		0	459,466
+248	Vírosteková Alžbeta	rod.Biroščáková	0	498
+248	Vojtanková Katarína		0	357
+248	VRABLOVÁ Emília		1	21,558
+248	VÝROSTEK Štefan		1	18,550,626
+248	VÝROSTEKOVÁ Filomena		1	18,550,626
+248	VÝROSTEKOVÁ Mária		1	18
+249	Agórdiová Klára r. Brédová		0	971
+249	ANDOR ANDREJ		0	1156
+249	Árendás Alexander	manželka Justína rod.Nyitraiová	0	661
+249	Árendásová Justína r. Nyitraiová	manžel Alexander	0	661
+249	Árva Ignác	manželka Lujza rod.Gyurkovicsová	0	661
+249	Arva Peter		0	781
+249	Árvová Lujza r. Gyurkovicsová		0	661
+249	BAGALA DEZIDER		0	1132
+249	Bági Ján	vdovec	0	661
+249	Bágyi Ján	manželka Filoména rod.Faragová	0	661
+249	BALOGH VACLAV		0	943
+249	BALOGHOVA GIZELA		0	943
+249	Baloghová Margita r. Brédová		0	661
+249	Balogová Mária r. Valentová		0	1583
+249	Barcsek František	manželka Alžbeta rod.Dukonyová	0	661
+249	Barcsek Ján		0	661
+249	Barcsek Ján	manželka Verona rod.Csókásová	0	661
+249	BARTAL ALOJZ		0	841
+249	Bartal Blažej		0	1571
+249	Bartal Ján	II	0	1570
+249	Bartal Jozef		0	852
+249	Bartal Jozef	manželka Terézia rod.Bicskeiová	0	661
+249	BARTAL KAROL		0	433
+249	Bartal Móric		0	661
+249	Bartal Peter	maloletý	0	1570
+249	Bartal Szilárd		0	1570
+249	BARTAL VENDELIN		0	1320
+249	Bartal Vincent		0	852
+249	Bartalová Alžbeta r. Bartalová		0	716
+249	Bartalová Anna r. Hegedűsová		0	661,1372
+249	BARTALOVA BARBORA		0	1320
+249	Bartalová Mária	I	0	1571
+249	Bartalová Mária r. Csókásová		0	661
+249	BARTALOVA MARIA R.NEVIGYANSKA		0	1058
+249	Bartalová Terézia r. Bicskeiová		0	661
+249	Bartalová Viktória r. Kovácsová		0	1571
+249	BENEFI IMRICH		0	1048
+249	Benko Ladislav		0	661
+249	Benko Zoltán		0	661
+249	Benyák Imrich	manželka Anna rod.Morvaiová	0	661
+249	Benyáková Anna r. Morvaiová		0	661
+249	Bicskei František	manželka Terézia rod.Jankusová	0	661
+249	Bicskei Imrich	manželka Helena rod.Nyitraiová	0	661
+249	Bicskeiová Helena r. Nyitraiová	manžel Imrich	0	661,1604
+249	Brecska Peter		0	661,1111
+249	BRECSKOVA ALZBETA R.KOVACSOVA		0	573
+249	Brecsková Alžbeta r. Kovácsová		0	661
+249	BREDA BENEDIKT		0	1285
+249	Bréda František	ž.Barbora rod.Csókásová	0	661
+249	Bréda Ignác	I	0	661
+249	Bréda Imrich	manželka Mária Brédová	0	661
+249	Bréda Ján		0	829,1489,1490
+249	Bréda Ján	I maloletý	0	1568
+249	Bréda Jozef		0	1295
+249	Bréda Jozef	manželka Valéria rod.Csókásová	0	661
+249	BREDA LUDOVIT		0	689,915,918
+249	Bréda Ľudovít, SR		0	976,1010
+249	Bréda Peter	manželka Júlia rod.Kablová	0	661
+249	Bréda Štefan		0	829,1489,1490
+249	Bréda Štefan	maloletý	0	661
+249	BREDOVA ALZBETA R.MOCSIOVA		0	554
+249	BREDOVA ANNA		0	568,1285
+249	Brédová Anna	maloletá	0	1614
+249	Brédová Helena r. Valentová		0	1570
+249	Brédová Júlia	maloletá	0	1568
+249	Brédová Mária		0	415
+249	Brédová Mária r. Csókásová	manžel František	0	661
+249	Brédová Mária r. Puskásová		0	661
+249	Brédová Matilda		0	829,1489,1490
+249	Brédová Matilda	maloletá	0	1568
+249	BREDOVA MATILDA R.KOVACSOVA		0	1264
+249	Brédová Terézia, SR		0	1010
+249	Brédová Valéria r. Csókásová		0	661
+249	Brédová Verona		0	829,1489,1490,1568

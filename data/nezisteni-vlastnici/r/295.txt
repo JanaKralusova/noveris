@@ -1,0 +1,256 @@
+192	Hladík Štefan	A	0	5120,10014,11653
+192	Hladík Štefan, ž.Sidonia Hilbert ž.Sidonia Hilbert		0	9342
+192	Hladík Štefan, ž.Terézia Kadlic ž.Terézia Kadlic		0	11210
+192	Hladíková Alojzia r. Gútová		0	11049,11638,11653
+192	Hladíková Alžbeta r. Sajterová		0	8574,11638,11653
+192	Hladíková Amália r. Polák		0	8758
+192	Hladíková Anna		0	8574,9709,11638,11641,11653
+192	Hladíková Anna r. Markovič		0	10917
+192	Hladíková Anna, SR		1	1769
+192	Hladíková Apolonia		0	8574
+192	Hladíková Helena		0	8574,10444,11638,11653
+192	Hladíková Hermína		0	9174,10702,11638,11653
+192	Hladíková Júlia		0	8574,11319,11638,11653
+192	Hladíková Júlia r. Vávrová		0	8574,11638,11653
+192	Hladíková Katerína r. Kanipová		0	8574,11638,11653
+192	Hladíková Mária		0	8574,10801,11638,11653
+192	Hladíková Sidonia r. Hilbertová Vajaji		0	9434,11638,11653
+192	Hladíková Terézia		0	9225
+192	Hladíková Terézia r. Kadlic		0	10993
+192	Hladíková Terézia r. Opálková		0	8767,11638,11653,11674
+192	Hladíková Terézia r. Pálka		0	9129
+192	Hladíková Terézia r. Šimkovičová		0	8574,10677,11638,11653
+192	Hlavenka Jakubína r. Habán		0	10733
+192	Hlavenka Lukáč		0	10898
+192	Hlavenková Terézia		0	8514,8520,11153,11638
+192	Hlavenková Terézia r. Hromkovičová		0	11625,11674
+192	Holá Filoména r. Matejovičová		0	11638,11653
+192	Holenka Ján		0	9461
+192	Holenka Mária r. Čižmár		0	9681
+192	Holenka Martin		0	9386
+192	Holenka Štefan		0	8998
+192	Holenková Apolonia r. Hladíková		0	11625,11638,11653
+192	Holeš Alexander, maloletý maloletý		0	8574,11092,11638,11653
+192	Holeš Miroslav		0	8574,9300,11638,11653
+192	Holešová Paulína r. Stašková		0	8574,10989,11638,11653
+192	Hollá Eva		0	11027
+192	Hollá Júlia r. Vachaja		0	10591
+192	Hollá Karolína		0	9402
+192	Hollá Karolína r. Chorváthová		0	8574,11638,11653
+192	Hollá Terézia r. Podhradská		0	8496
+192	Hollá Zuzana r. Jezdinská		0	9546
+192	Hollý Ján		0	9285
+192	Hollý Pavol		0	11104
+192	Hollý Štefan		0	8574,10666,11638,11653
+192	Horecká Júlia r. Celáryová		0	8573,11638,11674
+192	Horňák Anna r. Pribiš		0	9691
+192	Horňák Kristína		0	11446
+192	Horňák Rudolf		0	8574,10168,11638,11653
+192	Horváth Helena r. Majzun		0	9294
+192	Horváth Johana r. Radochová, Borský Svätý Jur, PSČ 908 79, SR		1	2787
+192	Horváth Jozef		0	9949,10814
+192	Horváth Mária		0	11677
+192	Horváth Martin		0	11677
+192	Horváth Michal		0	11638,11674
+192	Horváth Štefan		0	9494
+192	Horváthová Agneša r. Glinsererová		0	11638,11674
+192	Horváthová Júlia r. Studenič		0	11692
+192	Host Jozef		0	11674
+192	Hostová Johana r. Petrášová		0	11674
+192	Hrabal Terézia r. Mihál		0	11563
+192	Hrnčírová Anna		0	9442
+192	Hrnek Anna r. Hladík		0	9172
+192	Hrnek Jozef		0	10536,11638
+192	Hrnek Jozef	A	0	11653
+192	Hrnková Pavlína r. Diviaková		0	11638,11653
+192	Hromkovič Andrej		0	8514,8520,11638
+192	Hromkovič Anton		0	8520,11638
+192	Hromkovič Ignác		0	8514,8520,11638
+192	Hromkovič Ignác, ž.Terézia ž.Terézia		0	8514,8520
+192	Hromkovič Ján		0	8514,8520,10268,11638,11674
+192	Hromkovič Jozef		0	11638
+192	Hromkovič Jozef	B	0	11653
+192	Hromkovič Jozef	C	0	8520
+192	Hromkovič Jozef	D	0	8775,11625
+192	Hromkovič Mária		0	9781
+192	Hromkovič Martin		0	5130,8514,8520,9005,11638,11653
+192	Hromkovič Ondrej		0	8514,8520
+192	Hromkovič Pavel, ž.Zuza ž.Zuza		0	9412
+192	Hromkovič Pavol		0	11638
+192	Hromkovič Pavol	A	0	11653
+192	Hromkovič Pavol, Borský Svätý Jur, 126 Borský Svätý Jur, 126		0	10641
+192	Hromkovič Rozália r. Šiška		0	8777
+192	Hromkovičová Eleonora		0	11638
+192	Hromkovičová Mária		0	8514,8520,10317,11638,11674
+192	Hromkovičová Štefánia r. Štvrtecká		0	8574,11638,11653
+192	Hromkovičová Terézia r. Škvorák		0	5126,5130
+192	Hromkovičová Terézia r. Škvoráková		0	10575,11638,11653
+192	Hruška Imrich		0	8584
+192	Hrušková Mária		0	8584
+192	Hruzová Ernestína r. Zámečník		0	9634
+192	Hubený Ján		0	11638,11653
+192	Hummel Jozef		0	11638
+192	Hurban Jozef		0	8445,11638
+192	Hurban Jozef, SR		1	2867
+192	Hurban Juraj		0	8445,11638
+192	Hurban Juraj, SR		1	2867
+192	Hurban Rudolf		0	8445,11638
+192	Hurban Rudolf, SR		1	2867
+192	Hurban Štefan		0	8445,11638
+192	Hurban Štefan, SR		1	2867
+192	Hurbánek Mária		0	9621
+192	Hurbánek Matej		0	9193
+192	Húsková Mária r. Sokolová		0	8496,9776
+192	Hušek Agneša		0	9140
+192	Hušek Agneša	maloletá	1	2781,4739,4892
+192	Hušek Alžbeta r. Miholek		0	8573
+192	Hušek Anna		1	2781
+192	Hušek Anna	Hušek A	1	4892
+192	Hušek Anna r. Hušek		0	10851
+192	Hušek Anna r. Hušek	A	1	3605,4739,9667
+192	Hušek Anna r. Vrablec		0	10961
+192	Hušek Augustín, ž.Anna ž.Anna		0	8573
+192	Hušek Brigita r. Studenič		0	10939
+192	Hušek Eva		0	10825
+192	Hušek Eva r. Vrablec		0	9224
+192	Hušek Ferdinand		0	11638,11653
+192	Hušek František		0	8573
+192	Hušek Helena r. Studenič		0	8573
+192	Hušek Helena r. Valla		0	8573
+192	Hušek Ján		0	4085,10882
+192	Hušek Ján	osobné číslo:1610	0	11796
+192	Hušek Ján	slobodný	0	3790
+192	Hušek Ján, mladší mladší		0	10863
+192	Hušek Ján, slobodný slobodný		0	9371
+192	Hušek Ján, SR		1	2781,3605,4739,4892
+192	Hušek Ján, ž.Terézia ž.Terézia		0	9602
+192	Hušek Jozef		0	10760,11492
+192	Hušek Jozef, SR		1	3605
+192	Húšek Kornel		0	11638
+192	Hušek Mária r. Hušek		0	9482
+192	Hušek Mária r. Smrtič		0	8498
+192	Hušek Mária r. Valla		0	11004
+192	Hušek Mária r. Vrablec		1	2781,4739,4892
+192	Hušek Mária r. Vrablec, zom.18.03.1962 zom.18.03.1962		0	10659
+192	Hušek Matej		0	1586
+192	Hušek Matej, ž.Mária ž.Mária		0	8573
+192	Hušek Michal		0	5009,8830,9318
+192	Hušek Michal	ž.Zuza Holenka	1	2781,4739,4892
+192	Hušek Michal, SR	D:	1	3934
+192	Hušek Michal, ž.Zuza Holenka ž.Zuza Holenka		0	10127
+192	Hušek Mikuláš		0	10435
+192	Hušek Ondrej		0	10401,10608
+192	Hušek Ondrej	ž.Mária Vávra	1	2781,4739
+192	Hušek Ondrej	ž.Mária Vávra ž.Mária Vávra	1	4892
+192	Hušek Ondrej	ž.Mária Vávra; ž.Mária Vávra	0	3603
+192	Hušek Ondrej, ž.Mária Vávra ž.Mária Vávra		0	8900
+192	Hušek Pavel		0	11086
+192	Hušek Pavel	B	0	11653
+192	Hušek Pavel r. Hušek, zom.04.02.1958 zom.04.02.1958		0	8574,9180,11638
+192	Húšek Pavol		0	11638,11674
+192	Hušek Pavol, ž.Katarína Knotek ž.Katarína Knotek		0	8496
+192	Hušek Peter		0	10958,11625
+192	Hušek Rudolf		0	8497
+192	Hušek Štefan		0	9077,10511
+192	Hušek Štefan, ž.Júlia ž.Júlia		0	8573
+192	Hušek Štefan, ž.Teréria ž.Teréria		0	8573
+192	Hušek Vendelín, ž.Helena ž.Helena		0	11549
+192	Hušková Agneša r. Šurina		0	1586
+192	Hušková Alžbeta		0	11592
+192	Húšková Alžbeta r. Baďurová		0	10269
+192	Húšková Alžbeta r. Diviaková		0	11638,11674
+192	Hušková Anna		0	5009,9851,10252,10481
+192	Hušková Anna	B	0	8496
+192	Hušková Anna	C	1	2781,4739,4892,10682
+192	Hušková Anna	D	0	11592
+192	Húšková Anna r. Húšková		0	10847
+192	Húšková Anna r. Mihalčinyiová		0	9860
+192	Húšková Anna r. Sokolová		0	10477
+192	Hušková Anna, SR	D:	1	3934
+192	Hušková Eva r. Celáry		0	8496
+192	Hušková Floriana		0	11592
+192	Hušková Hermína		0	11592
+192	Hušková Júlia r. Vrablec		0	10551
+192	Hušková Mária		0	8497,10781
+192	Hušková Mária r. Majzúnová		0	11638,11653
+192	Húšková Mária r. Vrablecová		1	2781,4739,4892,8496
+192	Hušková Paulína r. Baďurová		0	8574,11638,11653
+192	Hušková Terézia		0	9102
+192	Hušková Zuzana		0	5128,5137,8574,9505,11638,11653
+192	Hušková Zuzana, SR		1	1682
+192	Chudý Juraj		0	9430
+192	Indra Helena		0	10067
+192	Indra Mária		0	11625
+192	Indra Štefan		0	5149,5173,9539,10404
+192	Indrová Alojzia r. Janovič		0	10323
+192	Izakovič Barbora r. Blažek		0	11154
+192	Izakovič Jozef		0	10837,11416
+192	Jakubovič Anna		0	10771
+192	Jakubovič Anna r. Kafka		0	10197
+192	Jakubovič Anna r. Škápik		0	9802
+192	Jakubovič Anna, SR		1	2790,4992,11712
+192	Jakubovič Gejza		0	8574,10373,11638,11653,11674
+192	Jakubovič Ján		0	8574,11573,11638,11653
+192	Jakubovič Ján	A	0	8574,9153,11638,11653
+192	Jakubovič Ján	B	1	2833
+192	Jakubovič Ján, maloletý maloletý		0	8496
+192	Jakubovič Karol	A	1	2833,8574,11573,11638,11653
+192	Jakubovič Marek		0	8574,9644,11638,11653
+192	Jakubovič Michal		0	11677
+192	Jakubovič Pavol		0	8574,11638,11653
+192	Jakubovič Terézia		0	8574,11573,11638,11653
+192	Jakubovič Terézia, SR		1	2833
+192	Jakubovič Zuzana		0	10547
+192	Jakubovičová Anna		0	9980
+192	Jakubovičová Anna r. Buzeková		0	11638,11653
+192	Jakubovičová Anna r. Škápiková		0	11511
+192	Jakubovičová Mária		0	8573,8574,11638,11653
+192	Jakubovičová Terézia r. Grancová		0	8574,11151,11638,11653
+192	Jakubovičová Valéria		0	11292
+192	Jakubovičová Zuzana		0	8574,11638,11653
+192	Janči Jozef		0	10714
+192	Janeček Anna r. Šimkovič		0	10134
+192	Janečková Helena r. Lacová		0	8574,10053,11638,11653
+192	Janečková Júlia r. Vavruchová		0	11638,11674
+192	Janetová Štefánia r. Gašparík		0	8496,11638,11674
+192	Janovič Alžbeta r. Škvorák		0	11181
+192	Janovič Jozef		0	8574,8838,11037,11638
+192	Janovič Jozef	A	0	11653
+192	Janovič Michal		0	10716,11638,11674
+192	Janovič Terézia		0	5124,5129,5134,5170
+192	Janovič Terézia, SR		1	4856
+192	Janovičová Alžbeta	Škvorák; , SR	1	2818
+192	Janovičová Alžbeta r. Škvoráková		0	10792,11638,11653
+192	Janovičová Alžbeta r. Škvoráková	A	0	8574,11638,11653
+192	Janovičová Terézia		0	11351,11638,11674
+192	Janovská Terézia r. Smrtič		0	11677
+192	Jarábek Anna r. Kadlic		0	8573
+192	Jarábek Emília		0	11234
+192	Jarábek Ignác		0	8685
+192	Jarábek Jozef		0	8685
+192	Jarábek Karolína r. Kadlic		0	10512
+192	Jarábek Martin		0	8685
+192	Jarábek Matej		0	9119
+192	Jarábek Ondrej		0	8685
+192	Jarábek Štefan		0	10638
+192	Jarábková Alojzia		0	8685
+192	Jarábková Anna r. Kadlicová		0	4699
+192	Jarábková Helena		0	8685
+192	Jelínková Terézia r. Tomek		0	10135
+192	Jergl František		0	11638,11653
+192	Jesák Anna	Jakubovič	1	2790,4992,11712
+192	Jesák Anna r. Jakubovičová		0	8496
+192	Ježek Anna r. Salay		0	9697
+192	Jindra Štefan		0	5173,8514,8520,8574,9092,11638,11653
+192	Jindrová Helena, maloletá maloletá		0	8574,11638,11653
+192	Jirku Anna		0	10519
+192	Jozefovičová Helena r. Hesek		0	10704
+192	Juran Jozef		0	8649
+192	Juran Mária r. Kubinka		0	8649
+192	Jurčák Ján		0	8574,11638
+192	Jurčák Ján	A	0	11653
+192	Jurčáková Františka		0	8574,11638,11653
+192	Jurdáková Terézia r. Valla		0	11510
+192	Juriga Alžbeta r. Krajčír		0	11371
+192	Juriga Eva r. Makovská		0	9941
+192	Juriga Mária r. Červenka		0	8708

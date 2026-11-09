@@ -1,0 +1,256 @@
+2290	Marček Mikula Imrich		0	1811
+2290	Marček Mikula Ondrej		0	1811
+2290	Marček Mikula Štefan		0	1772,1811
+2290	Marčeková Dubovcová Mária	Chupáň	0	1720
+2290	Marčeková Hmirová Anna		0	1316
+2290	Mikula Alojz	Mária Nimohaj	0	1316
+2290	Mikula Jozef	Anna Hmyro	0	1316
+2290	Mikulová Agneša	Štefanova dcéra	0	1316
+2290	Mikunda Alojz		0	1150,1359,1378
+2290	Mikunda Ferdinand	ž. Margita Porubčanská	0	1277,1791,1792
+2290	Mikunda František		0	1277,1279,1298,1415,1766,1767,1768,1791,1792,1818,1821,1822,1863
+2290	Mikunda František r. Mikunda		0	603,606,1181,1817,1819
+2290	Mikunda Gabriel		0	907,1150,1787
+2290	Mikunda Ján		0	640,1709
+2290	Mikunda Jarolím		0	1277,1791,1792
+2290	Mikunda Jarolín		0	1277,1791,1792
+2290	Mikunda Jozef		0	633,640,877,884,907,1150,1151,1177,1367,1389,1553,1774,1850
+2290	Mikunda Jozef	ml	0	1277,1791,1792
+2290	Mikunda Jozef	st	0	1277,1791,1792
+2290	Mikunda Jozef r. Mikunda		0	260
+2290	Mikunda Matej		0	1002
+2290	Mikunda Matúš		0	633,1850,1855,1881
+2290	Mikunda Metod		0	1277,1791,1792
+2290	Mikunda Metod r. Mikunda		0	608,1221,1798
+2290	Mikunda Patricius		0	981
+2290	Mikunda Pavol		0	1277,1791,1792
+2290	Mikunda Pavol	A	0	633,877,884,1151,1177,1389,1600,1850
+2290	Mikunda Pavol	ml	0	1277,1791,1792
+2290	Mikunda Pavol r. Mikunda	A; A	0	260
+2290	Mikunda Petrus		0	907,1782
+2290	Mikunda Servius Ferdinand		0	667,1298,1355,1753,1754,1873,1874
+2290	Mikunda Stanislav		0	640,1287,1850
+2290	Mikunda Štefan		0	1355
+2290	Mikunda Vojtech r. Mikunda, Ing.		0	224
+2290	Mikundová Albina		0	608,889,907,913,914,957,958,1150,1221,1265,1670,1779
+2290	Mikundová Eleonora		0	633,1002,1850,1855,1881
+2290	Mikundová Františka		0	642,885
+2290	Mikundová Gizela		0	633,1002,1360,1850,1881
+2290	Mikundová Jozefína		0	608,889,907,913,914,957,958,1150,1221,1265,1523,1779
+2290	Mikundová Margita r. Porubčanská		0	667,1247,1248,1249,1250,1251,1253,1254,1255,1256,1298,1597,1753,1754,1873,1874
+2290	Mikundová Rozália		0	633,640,1002,1150,1347,1493,1850
+2290	Mikundová Silvestra r. Habrúnová		0	1277,1791,1792,1863
+2290	Mikundová Štefánia r. Janurová		0	649,692,886,899,1007,1201,1367,1688,1808,1882
+2290	Mikundová Zuzana		0	1396,1808
+2290	Mikundová Žofia	vd. a deti	0	1277,1791,1792
+2290	Minárik Lučan Imrich		0	1316
+2290	Minárik Lučan Ján		0	1316
+2290	Mináriková Anna r. Habrúnová		0	1787
+2290	Očkajáková Margita	Pírošík	0	1798
+2290	Pavelková Mária		0	1519
+2290	PIALA Jakub		0	1758
+2290	Piala Merina Ján	Matej Vereš	0	1758
+2290	Pialová Paulina	Dorica	0	1316
+2290	Pírošík Ján		0	1316,1772
+2290	Pirošík Jozef		0	1316
+2290	Pírošík Mikuláš		0	1316,1772
+2290	Pírošík Rudolf		0	1316,1772
+2290	Pirošík Štefan		0	1316,1746
+2290	Pírošíková Gabriela		0	1316
+2290	Pírošíková Jozefina		0	1316,1772
+2290	Pírošíková Jozefína	Broz	0	1316
+2290	Pírošíková Jozefína	Kúdelka	0	1316
+2290	PIROŠÍKOVÁ Mária r. Knapcová		0	1311
+2290	Pírošíková Štefania	Tvrdý	0	1746
+2290	Portášik Jozef		0	1316,1772
+2290	Portášik Michal		0	1316,1772
+2290	Portášik Štefan		0	1316
+2290	Porubčanská Hedviga		0	606,642,667,702,1181,1242,1279,1298,1359,1367,1378,1753,1754,1766,1767,1768,1799,1800,1801,1802,1803,1804
+2290	Porubčanská Hermína		0	1359,1378
+2290	Porubčanská Mária		0	1772
+2290	Porubčanská Mária	Frková 2x vydatá Brodňanová	0	182,633,639,640,659,667,872,972,1002,1223,1247,1248,1249,1250,1251,1253,1254,1255,1256,1279,1298,1359,1367,1378,1409,1522,1753,1754,1766,1767,1768,1800,1801,1803,1821,1822,1850
+2290	Porubčanská Mária	Isteník	0	1316
+2290	Porubčanská Mária	r.Knapcová	0	1758
+2290	Porubčanská Mária r. Isteníková		0	608,983,1221,1770
+2290	Porubčanská Mária, Frková 2×vydatá Brodňanová Frková 2×vydatá Brodňanová		0	1799,1802,1804
+2290	Porubčanská Rozália	A	0	1767,1768
+2290	Porubčanská Rozália	Bátora vydatá	0	1311
+2290	Porubčanský Adam		0	642
+2290	Porubčanský Adam r. Porubčanský		0	606,1181
+2290	Porubčanský Anton		0	1301,1327,1800,1801,1803,1818,1863
+2290	Porubčanský Augustín		0	1316
+2290	Porubčanský Cyril		0	1316
+2290	Porubčanský Ignác r. Porubčanský		0	1770
+2290	Porubčanský Ján		0	642
+2290	Porubčanský Ján r. Porubčanský		0	606,1181
+2290	Porubčanský Jozef		0	643,667,1096,1200,1222,1247,1248,1249,1250,1251,1253,1254,1255,1256,1277,1279,1298,1327,1367,1417,1661,1753,1754,1766,1767,1768,1791,1792,1799,1800,1801,1802,1803,1804,1837
+2290	Porubčanský Jozef	Dolný	0	1402,1680,1750,1757,1873,1874
+2290	Porubčanský Jozef	Prostredný	0	981,982
+2290	Porubčanský Jozef r. Porubčanský		0	606,1181
+2290	Porubčanský Juraj		0	1767,1768
+2290	Porubčanský Karol		0	1277,1791,1792
+2290	Porubčanský Klement		0	1767,1768
+2290	Porubčanský Klement r. Porubčanský		0	1746
+2290	Porubčanský Leopold		0	642,649,886,1201,1247,1248,1249,1250,1251,1253,1254,1255,1256,1507
+2290	Porubčanský Ľudovít		0	1767,1768
+2290	Porubčanský Michal		0	1316,1367
+2290	Porubčanský Ondrej		0	642,1277,1767,1768,1791,1792,1824
+2290	Porubčanský Ondrej	Prostredný	0	642,1767,1768
+2290	Porubčanský Ondrej r. Porubčanský		0	606,1181
+2290	Porubčanský Pavol		0	1770
+2290	Porubčanský Pavol r. Porubčanský		0	243
+2290	Porubčanský Rudolf r. Porubčanský		0	1770
+2290	Porubčanský Štefan		0	1277,1279,1298,1766,1767,1776,1791,1792,1799,1800,1801,1802,1803,1804
+2290	Porubčanský Štefan r. Porubčanský		0	606,1181
+2290	Porubčanský Vincent r. Porubčanský		0	606,1181
+2290	Poručanský Anton		0	1799,1802,1804
+2290	Poručanský Jozef		0	1799,1802,1804
+2290	Poručanský Pavol r. Porubčanský		0	224
+2290	Prieložná Kamila r. Knapcová-Bátorová		0	1758
+2290	Pudík Alexander		0	1622
+2290	Pudík Jozef		0	1834
+2290	Pudík Tomáš		0	1316
+2290	Pudíková Agneša		0	1772
+2290	Pudíková Agneša	Míčky	0	1316
+2290	Pudíková Magdaléna		0	1772
+2290	Pudíková Magdaléna	Kováč	0	1316
+2290	Pudíková Vincencia		0	1739
+2290	Pugyik Jozef		0	1316
+2290	Ružičková Zuzana r. Baránková	Loučnice	0	968
+2290	Ružičková Zuzana r. Baránková, Loučnice Loučnice		0	1746
+2290	Sankelová Pavlína		0	633,1231,1334,1335,1347,1562,1850
+2290	Seč Chovan Tomáš		0	1316
+2290	Síč Brezovian Juraj		0	1727
+2290	Síč Hríň Jozef		0	1581
+2290	Síč Hríň Ľudovít		0	1576
+2290	Síč Hríň Peter		0	1438
+2290	Síč Medveď Pavol		0	1316
+2290	Síčová Paulína	Marček Hmiro	0	1316
+2290	Síkel Mikuláš		0	1316
+2290	Síkelová Karolína r. Kozelec		0	1408
+2290	Smieško Ľudovít		0	1834
+2290	Smieško Michal		0	1316
+2290	Šimúnková Vincencia r. Porubčanská		0	1770
+2290	Štafen Brezovian Jozef		0	1312
+2290	Štafen Manga František		0	1316,1772
+2290	Štafen Manga Ján		0	1316,1772
+2290	Štafen Manga Ján	Jozefov syn	0	1316
+2290	Štafen Manga Jozef		0	1316
+2290	Štafen Manga Jozef	A	0	1606
+2290	Štafen Manga Juraj		0	1316
+2290	Štafen Manga Leopold		0	1316,1772
+2290	Štafen Manga Ľudovít		0	1316
+2290	Štafen Manga Michal		0	1316
+2290	Štafen Manga Mikuláš		0	1669
+2290	Štafen Manga Ondrej		0	1772,1863
+2290	Štafen Manga Pavol		0	1491,1772
+2290	Štafen Manga Štefan		0	1316
+2290	Štafen Manga Valent		0	1770
+2290	Štafen Manga Valentín		0	1316
+2290	Štafen Manga Vincent	Jozefov syn	0	1316
+2290	Štafenová Mangová Antónia		0	1745
+2290	Štafenová Mangová Hedviga		0	1283
+2290	Štafenová Mangová Karolína		0	1782
+2290	Štafenová Mangová Magdaléna		0	1770
+2290	Štafenová Mangová Mária		0	1834
+2290	Štafenová Mangová Oľga		0	1330
+2290	Štafenová Mangová Paulína		0	1770
+2290	Štafenová Mangová Štefánia		0	1316
+2290	Štafenová Vincencia	Martinova dcéra	0	1770
+2290	Štefániková Apolónia r. Vereš		0	1295
+2290	Šulganová Oľga r. Jedličáková		0	1283,1808
+2290	TKÁČIK Štefan		0	1758
+2290	Tkáčiková Margita		0	1264
+2290	Turčan Aladár		0	1276,1774
+2290	Turčanová Anna		0	1276,1774
+2290	Turská Alžbeta r. Dubovec		0	1396
+2290	Turská Mária		0	1772
+2290	Turská Mária	Giabel	0	1316
+2290	Turský Alojz		0	1316
+2290	Turský Anton		0	1316
+2290	Turský Jozef		0	1316
+2290	Turský Jozef	A	0	1316
+2290	Turský Ľudovít		0	1772
+2290	Turský Ľudovít	Štefánia Kováč	0	1772
+2290	Turský Ondrej		0	1772
+2290	Turský Pavol		0	1772
+2290	Tvarogová Agneša r. Jedličáková		0	1283,1808
+2290	Tvrdá Justína		0	1772
+2290	Tvrdá Margita		0	1772
+2290	Tvrdá Mária		0	1772
+2290	Tvrdá Paulina		0	1772
+2290	Tvrdý Richard		0	1772
+2290	Tvrdý Vincent		0	1772
+2290	Valášek Ján		0	1772
+2290	Valášek Ľudovít	Jánov syn	0	1772
+2290	Valášková Zuzana		0	1772
+2290	Valášková Zuzana	Surovčík	0	1772
+2290	Vavrík Felix		0	667,1247,1248,1249,1250,1251,1253,1254,1255,1256,1277,1279,1298,1367,1506,1753,1754,1766,1767,1768,1791,1792,1799,1800,1801,1802,1803,1804,1875
+2290	Vavríková Filomena		0	667,1247,1248,1249,1250,1251,1253,1254,1255,1256,1263,1279,1298,1367,1753,1754,1766,1767,1768,1795,1799,1800,1801,1802,1803,1804,1814
+2290	Vavríková Lídia		0	667,1298,1312
+2290	Vavríková Vilma		0	667,1247,1248,1249,1250,1251,1253,1254,1255,1256,1263,1279,1298,1367,1753,1754,1766,1767,1768,1795,1799,1800,1801,1802,1803,1804,1814
+2290	Vdoviak Ignác		0	1772
+2290	Vdoviak Imrich		0	1772
+2290	Vdoviak Ján		0	1772
+2290	Vdoviak Ján	A	0	1772
+2290	Vdoviak Ján	Mladší	0	1772
+2290	Vdoviak Matúš		0	1772
+2290	Vdoviak Štefan		0	1772
+2290	Vdoviaková Štefánia		0	1772
+2290	Vereš Ján	A	0	1834
+2290	Vereš Ján	Terézia Smieško	0	1295
+2290	VEREŠ Ján		0	1772
+2290	Vereš Jozef		0	1312
+2290	Vereš Matúš		0	1772
+2290	Vereš Pavol		0	1772
+2290	Vereš Pavol	A	0	1273
+2290	Vereš Štefan		0	1772
+2290	Verešová Jozefína	Mikula	0	1772
+2290	Verešová Mária r. Lúčanová		0	1863
+2290	Verešová Pavlína		0	1772
+2290	Vlkoláček Štefan		0	1772
+2290	Vlkoláčková Anna		0	1772
+2290	Vlkoláčková Anna	Zábojník	0	1772
+2290	Vraňan František		0	1772
+2290	Vraňanová Paulína		0	1772
+2290	Vraňanová Paulína	Lonc Míčky	0	1772
+2290	Zábojník František		0	1772
+2290	Zábojník Ján		0	1772
+2290	Zábojník Jozef		0	1772
+2290	Zábojník Ondrej		0	1772
+2290	Zábojník Ondrej	A	0	1772
+2290	Zábojník Štefan		0	1772
+2290	Zábojník Valentín		0	1772
+2290	Zábojníková Anna	Chupáň	0	1772
+2290	Zábojníková Anna r. Chupáňová		0	1330
+2290	Zábojníková Anna, Dom dôchodcov Velké Brezno Dom dôchodcov Velké Brezno		0	1772
+2290	Zábojníková Cecília		0	1772
+2290	Zábojníková Hermína		0	1772
+2290	Zábojníková Štefánia		0	1772
+2290	Zábojníková Žofia		0	1772
+2290	Zábojníková Žofia	Machyna	0	1772
+2290	Závodská Jozefína r. Jedličaková		0	237,1283,1808
+2290	Zelník Berzák Ignác		0	1772
+2290	Zelník Berzák Lukáč		0	1312,1772
+2290	Zelník Brezák Ignác		0	1772
+2290	Zelník Brezák Lukáš		0	1772
+2290	Zelník Brezák Mikuláš		0	1772
+2290	Zelník Brezák Tomáš		0	1772
+2290	Zelník Ondrej	Jozefina Mikula	0	1462
+2290	Zelníková Darina r. Habrúnová		0	633,917,1003,1231,1334,1335,1620,1850
+2290	Zelníková Katarína		0	1772
+2290	Zelníková Katarína	01311 Liet Lúčka Ilové	0	1772
+2290	Zelníková Mária	02312 Svrčinovec Škradne	0	1330,1772
+2291	ADAMOVÁ Anna r. Knapčík		1	353
+2291	ANTOLIK Adam		1	342,343,344
+2291	ANTOLÍK Andrej		1	238,315,328,342,343,344,345,373,374,384,385,404,422,435
+2291	ANTOLÍK Ján		1	238,315,328,342,343,344,345,353,373,374,384,385,404,422,435
+2291	Baňas Ján r. Baňas, Hankovce, č. 74, Slovensko		0	238,312,345,373,374,435
+2291	BAŇASOVÁ Mária r. Švecová		1	342
+2291	BLAŇARIKOVÁ Anna r. Gdovin-Kijak		1	310,342,343,344
+2291	ČERVEŇÁK Andrej		0	342,343,344
+2291	ČERVEŇÁK Jánoš		1	343,344
+2291	ČERVEŇÁK Juraj		1	342,343,344
+2291	DVORSKÁ Zuzana r. Vargová		1	342,343,344
+2291	GAŠPARIK Ján		1	342,343
+2291	GDOVIN Andrej		1	342

@@ -1,0 +1,256 @@
+670	Bartal Konštantín		0	3530,3865,4076,4642,6597,6714,8446
+670	Bartal Konštantín	súrodenci: Štefan, Ferdinand, Ján, Mária	0	5507,5648
+670	Bartal Konštantín	súrodenci: Štefan, Ferdinand, Ján, Mária Lorencová	0	6005
+670	Bartal Marek		0	6714,8446
+670	Bartal Marek	manželka Katarína r. Hurbanová	0	3865,5246
+670	Bartal Marek	manželka Katarína r. Hurbanová, súrodenci: František, Martin	0	4096
+670	Bartal Martin	manželka Mária r. Vlková	0	5246
+670	Bartal Štefan		0	4076,4642,5026,5094,6714,6720
+670	Bartal Štefan	manželka Emília r. Jureňová	0	6296,7970
+670	Bartal Štefan	manželka Johana r. Hazlingerová	0	3530
+670	Bartal Štefan	slobodný	0	4715,5648,9160
+670	Bartal Štefan	súrod. Rozália , Ján	0	6547
+670	Bartal Štefan	súrod. Rozália, Ján	0	4914
+670	Bartal Štefan	súrod.Rozália, Ján	0	6314
+670	Bartal Štefan	súrodenci: Ferdinand, Ján, Konštantín, Mária	0	5507,5648
+670	Bartal Štefan	súrodenci: Rozália, Ján	0	3601
+670	Bartal Štefan	súrodenci: Rozália, Vilma, Mária, Johanna, Bernardína	0	6528,9617
+670	Bartal Štefan a Emília Bartalová r. Jureňová, 908 45, Gbely, č. 229, SR		0	8802
+670	Bartalová Anna, 908 85, Brodské, č. 90, SR	manžel Jozef	0	9291
+670	Bartalová Bernardína		0	9160
+670	Bartalová Johana r. Hazlingerová		0	6790
+670	Bartalová Johana r. Hazlingerová	manžel Štefan	0	4553,4554,9007
+670	Bartalová Johanna r. Hazlingerová		0	9160
+670	Bartalová Johanna r. Kabátová	manžel Ferdinand	0	9160
+670	Bartalová Katarína r. Hurbanová	manžel Marek	0	5246
+670	BARTALOVÁ Katarína r. Hurbanová		0	8446
+670	Bartalová Mária		0	5026,5094,6135,6296,6720,7970,9160
+670	Bartalová Mária	súrodenci: Bernardína Bartalová, Johana Machovská, Rozália Mihálová	0	4421
+670	Bartalová Mária	súrodenci: Rozália, Vilma, Mária, Johanna, Bernardína	0	4847
+670	Bartalová Mária	súrodenci: Rozália, Vilma, Štefan, Johanna, Bernardína	0	6528,9617
+670	Bartalová Mária r. Vlková	manžel Martin	0	9160
+670	Bartalová Viktória		0	5946,9021
+670	Bartalová Viktória	m. Jindrich	0	5935
+670	Bartalová Viktória r. Mrázová		0	9160
+670	Bartalová Viktória r. Mrázová	m. Jindrich	0	4626
+670	Baumann Michal, 908 85, Brodské, č. 195, SR	manželka Rozália	0	9291
+670	Baumannová Mária r. Kuklišová		0	5853
+670	Baumannová Mária r. Kuklišová	súrodenci: Jozefína, Ladislav	0	5764
+670	Baumannová Rozália, 908 85, Brodské, č. 195, SR	manžel Michal	0	9291
+670	Beluskyová Rozália r. Kováčová		0	6713
+670	Beňa Alojz		0	6729
+670	Beňa Alojz	súrodenci: Viktor, Cyril, Štefan, Aurélia, Rozália, Anna	0	6628
+670	Beňa Cyril		0	6729
+670	Beňa Cyril	súrodenci: Viktor, Alojz, Štefan, Aurélia, Rozália, Anna	0	6628
+670	Beňa František		0	6729
+670	Beňa František	súrodenci: Magdaléna, Ondrej, Michal, Jozefína, Anna	0	6628
+670	Beňa Michal		0	6729
+670	Beňa Michal	súrodenci: Magdaléna, Ondrej, František, Jozefína, Anna	0	6628
+670	Beňa Štefan		0	6729
+670	Beňa Štefan	súrodenci: Viktor, Cyril, Alojz, Aurélia, Rozália, Anna	0	6628
+670	Beňa Viktor		0	6729
+670	Beňa Viktor	súrodenci: Cyril, Alojz, Štefan, Aurélia, Rozália, Anna	0	6628
+670	Beňová Amália		0	6729
+670	Beňová Anna		0	6729
+670	Beňová Anna	súrodenci: Viktor, Cyril, Alojz, Štefan, Aurélia, Rozália	0	6628
+670	Beňová Aurélia	súrodenci: Viktor, Cyril, Alojz, Štefan, Rozália, Anna	0	6628
+670	Beňová Ernestína		0	6628,6729
+670	Beňová Jozefina	súrodenci: Magdaléna, Ondrej, František, Michal, Anna	0	6628
+670	Beňová Jozefína		0	6729
+670	Beňová Kristína		0	6628,6729
+670	Beňová Rozália		0	6729
+670	Beňová Rozália	súrodenci: Viktor, Cyril, Alojz, Štefan, Aurélia, Anna	0	6628
+670	Beňovičová Judita r. Kocichová		0	5157,6110,9160,9229
+670	Beňovičová Judita r. Kocichová	súrodenci: Júlia a Ferdinand	0	5592
+670	Beňovičová Judita r. Kocichová	súrodenci: Júlia, Ferdinand	0	5289
+670	Béreš Ján	manželka Mária r. Vizváryová, brat Michal	0	7675
+670	Béreš Michal	manželka Anna r. Lorencová, brat Ján	0	7675
+670	Bilský Viliam		0	5946,9021
+670	Binderová Mária r. Kubíková		0	6075
+670	Bíreš Ján	manželka Mária r. Vizvaryová	0	5274,6738
+670	Bireš Konrád	maloletý v roku 1927	0	6624
+670	Bíreš Konrád	manželka Hedviga r. Heklová	0	6556
+670	Bíreš Konrád	sestra Johana Šmidová	0	5375
+670	Bíreš Michal	manželka Anna r. Lorencová	0	3801,3802
+670	Bíreš Michal	manžellka Anna r. Lorencová	0	5274
+670	Bíreš Michal	mnaželka Anna r. Lorencová	0	6738
+670	Bírešová Anna r. Kocáková		0	3651
+670	Bírešová Anna r. Lorencová	manžel Michal	0	3801,3802
+670	Bírešová Helena r. Zajíčková		0	6738
+670	Bírešová Ilona r. Zajíčková		0	5474
+670	Biskupičová Rozália r. Čarská		0	5428,9160
+670	Blahová Mária r. Pechová	manžel Ľudovít, rodičia: Ján a Johana, súrodenci: Ľudovít, Ferdinand, Ján, Alžbeta	0	5419,5659,6583,6673,6753,6755,6756,6757,6767,6808,6823,6950,9160
+670	Blatnická Regína r. Lukáčová		0	3855,4207,5485
+670	Blatnický Ján		0	4207,5485
+670	Blatnický Ján	manželka Regína r. Lukáčová	0	3855
+670	Blažejová Júlia r. Kocáková		0	3571
+670	Blažek Bohumil	Kopčany, manželka Anna	0	5853
+670	Blažek Bohumil	manželka Anna	0	5846
+670	Blažek Bohumil	manželka Anna r. Pelikánová	0	5763,5767,5778
+670	Blažek Robert		0	5779
+670	Blažková Anna	Kopčany, manžel Bohumil	0	5853
+670	Blažková Anna	manžel Bohumil	0	5846
+670	Blažková Anna r. Pelikánová		0	5778
+670	Blažková Anna r. Pelikánová	manžel Bohumil	0	5763,5767
+670	Blažková Kristína r. Noščáková		0	5887,5945,5946,9021
+670	Blažková Kristína r. Noščáková	ded. po Jánovi Noščákovi, súr. Mária, Anna, Ján, Pavol, Martin, Štefan, Michal, Alžbeta	0	5793
+670	Blažková Mária		0	5779
+670	Bobot Štefan		0	6822
+670	Bolebruch Cyprián		0	2835,3745,3872,3987,5248,9110,9160,9293,9828
+670	Bolebruch Cyprián	súrodenci: Rozália, Štefánia, Štefan, Ján	0	8674
+670	Bolebruch Ferdinand		1	1426,5350,6097,6155,6249,6421,6761,9338,9360
+670	Bolebruch Ferdinand	manželka Júlia r. Pípová, Petrova Ves č. 8	0	7543
+670	Bolebruch Imrich		0	5887
+670	Bolebruch Imrich	manželka Eva r. Kováriková	0	7600
+670	Bolebruch Imrich	manželka Terézia	0	6104
+670	Bolebruch Jakub		0	3418,4690,4691,5190,5921,6555,8166,9160
+670	Bolebruch Jakub	manželka Terézia r. Horvátová	0	5263
+670	Bolebruch Ján		0	3745,5354,6119,6525,6747
+670	Bolebruch Ján	brat Štefan	0	4899
+670	Bolebruch Ján	manž. Anna r. Kabátová	0	9160
+670	Bolebruch Ján	manželka Mária r. Medlenová	0	4893,5353,5436,6129,6249,6623,9160,9360
+670	Bolebruch Ján	ž. Anna r. Kabátová	0	4761
+670	Bolebruch Jozef		0	5887
+670	Bolebruch Ladislav		0	5921,5946,8166,9021
+670	Bolebruch Ladislav	manž. Mária r. Lorencová	0	9160
+670	Bolebruch Ladislav	manželka Mária r. Lorencová	0	4878,6762
+670	Bolebruch Michal		0	5675
+670	Bolebruch Rehor		1	1426,6761
+670	Bolebruch Štefan	čech, manželka Jozefa r. Hrubšová	0	7623
+670	Bolebruch Tomáš		0	5373
+670	Bolebruchová Alžbeta		0	5373
+670	Bolebruchová Angela	zomrela 13.8.1969, naposledy bytom: Gbely č. 766, manžel Imrich, syn Ján	0	5945
+670	Bolebruchová Angela r. Pechová	zomrela 13.8.1969, naposledy bytom: Gbely č. 766, manžel Imrich, syn Ján	0	5946,6422,9021,9160,9542
+670	Bolebruchová Barbora r. Koričanská	manžel Matyáš	0	6714
+670	Bolebruchová Júlia r. Pípová	manžel Ferdinand, Petrova Ves č. 8	0	7543
+670	Bolebruchová Justína		0	5887,5946,9021
+670	Bolebruchová Justína	bytom: Gbely č. 94	0	5868
+670	Bolebruchová Katarína r. Kabátová		0	4617
+670	Bolebruchová Mária		0	5921
+670	Bolebruchová Mária	manžel Štefan	0	8083,8166
+670	Bolebruchová Mária r. Hazlingerová		0	4416,4553,4554,5675,6790,9007,9160
+670	Bolebruchová Mária r. Kocáková		0	4725
+670	Bolebruchová Mária r. Kocáková	manžel Štefan	0	5387
+670	Bolebruchová Mária r. Lorencová	manžel Ladislav	0	4878,6762
+670	Bolebruchová Terézia r. Cvečková		0	6104
+670	Bonová Mária r. Jurigová		0	4596
+670	Boruta Florian	súr. Anna, Imrich, Ján, Ladislav, Helena, Jozef, Mária, Bernardína, Johanna, Viktória	0	4360,8927,9541,9555,9856
+670	Boruta Florián	súr.: Anna, Imrich, Ján, Ladislav, Helena, Jozef, Mária, Bernardína, Johana, Viktória	0	5574,6438
+670	Boruta Florián	súrodenci: Anna, Imrich, Ján, Ladislav, Helena, Jozef, Mária, Bernardína, Johana	0	879,4579,5097,7656
+670	Boruta Florián	súrodenci: Anna, Ján, Ladislav, Jozef, Helena, Mária, Bernardína, Johana, Viktória, Imrich	0	6626
+670	Boruta Florián	súrodenci: Imrich, Ján, Ladislav, Jozef, Anna, Helena, Mária, Bernardína, Johana, Viktória	0	4226,7963
+670	BORUTA FLORIÁN		0	4044,5946,6422,6766,7943,9021,9160,9540,9542
+670	Boruta Imrich	súr. Anna, Ján, Ladislav, Florian, Helena, Jozef, Mária, Bernardína, Johanna, Viktória	0	4360,8927,9541,9555,9856
+670	Boruta Imrich	súr.: Anna, Ján, Ladislav, Florián, Helena, Jozef, Mária, Bernardína, Johana, Viktória	0	5574,6438,6626
+670	Boruta Imrich	súrodenci: Anna, Ján, Ladislav, Florián, Helena, Jozef, Mária, Bernardína, Johana	0	879,5097,6766,7656
+670	Boruta Imrich	súrodenci: Florián, Ján, Ladislav, Jozef, Anna, Helena, Mária, Bernardína, Johana, Viktóri	0	4226,4579,7963
+670	BORUTA IMRICH		0	4044,5946,6422,7943,9021,9160,9540,9542
+670	Boruta Ján	súr. Anna, Imrich, Ladislav, Florian, Helena, Jozef, Mária, Bernardína, Johanna,Viktória	0	4360,8927,9541,9555,9856
+670	Boruta Ján	súr.: Anna, Imrich, Ladislav, Florián, Helena, Jozef, Mária, Bernardína, Johana, Viktória	0	5574,6438
+670	Boruta Ján	súr.:Anna, Ladislav, Florián, Helena, Jozef, Mária, Bernardína, Johana, Viktória, Imrich	0	6626
+670	Boruta Ján	súrodenci: Anna, Imrich, Ladislav, Florián, Helena, Jozef, Mária, Bernardína, Johana	0	879,7656
+670	Boruta Ján	súrodenci: Imrich, Florián, Ladislav, Jozef, Anna, Helena, Mária, Bernardína, Johana, Vikt	0	4226,4579,7963
+670	BORUTA Ján		0	4044,5946,6422,6766,7943,9021,9160,9540,9542
+670	Boruta Jozef	súrodenci: Florián, Anna, Imrich, Ján, Ladislav, Helena, Mária, Bernardína, Johana	0	5272
+670	Boruta Ladislav	súr.: Anna, Imrich, Ján, Florián, Helena, Jozef, Mária, Bernardína, Johana, Viktória	0	5574,6438
+670	Boruta Ladislav	súr.:Anna, Ján, Florián, Helena, Jozef, Mária, Bernardína, Johana, Viktória, Imrich	0	6626
+670	Boruta Ladislav	súr.Anna, Imrich, Ján, Florian, Helena, Jozef, Mária, Bernardína, Johanna,Viktória	0	4360,8927,9541,9555,9856
+670	Boruta Ladislav	súrodenci: Anna, Imrich, Ján, Florián, Helena, Jozef, Mária, Bernardína, Johana	0	879,5097,7656
+670	Boruta Ladislav	súrodenci: Imrich, Ján, Florián, Jozef, Anna, Helena, Mária, Bernardína, Johana, Viktória	0	4226,4579,7963
+670	BORUTA LADISLAV		0	4044,5946,6422,6766,7943,9021,9160,9540,9542
+670	Borutová Amália r. Michálková		0	5466
+670	Borutová Anna		0	5366
+670	Borutová Helena	súr.: Anna, Imrich, Ján, Ladislav, Florián, Jozef, Mária, Bernardína, Johana, Viktória	0	4579,5097,5574,6438
+670	Borutová Helena	súr.:Anna, Ján, Ladislav, Florián, Jozef, Mária, Bernardína, Johana, Viktória, Imrich	0	6626
+670	Borutová Helena	súr.Anna, Imrich, Ján, Ladislav, Florian, Jozef, Mária, Bernardína, Johanna,Viktória	0	4360,8927,9541,9555,9856
+670	BORUTOVÁ Helena		0	6766,7943,9160
+670	Borutová Ľudmila r. Knotková		0	3638,4103,4218,9233,9361,9362,9363,9364,9365,9366,9367,9368,9369
+670	Borutová Ľudmila r. Knotková	súrodenci: Johana, Alžbeta, Ludevít	0	6737
+670	Borutová Ľudmila r. Knotková	súrodenci: Johana, Alžbeta, Ludevít, Ján	0	4999,6186
+670	BORUTOVÁ Ľudmila r. Knotková, SR		1	7633
+670	Borutová Viktória		0	5946,6422,7943,9021,9542
+670	Borutová Viktória	súr.: Anna, Imrich, Ján, Ladislav, Florián, Helena, Jozef, Mária, Bernardína, Johana	0	6438
+670	Borutová Viktória	súr.:Anna, Ján, Ladislav, Florián, Helena, Jozef, Mária, Bernardína, Johana, Imrich	0	6626
+670	Borutová Viktória	súr.Anna, Imrich, Ján, Ladislav, Florian, Helena, Jozef, Mária, Bernardína, Johanna	0	4360,8927,9541,9555,9856
+670	Borutová Viktória	súrodenci: Florián, Imrich, Ján, Ladislav, Jozef, Anna, Helena, Mária, Bernardína, Johana	0	4226,7963
+670	BORUTOVÁ Viktória	maloletá	0	4044,4579,5097,6766,9160,9540
+670	Brdová Anna r. Vlková		0	9160
+670	Brezovská Júlia r. Kocáková		0	6746
+670	Brezovská Mária r. Bolebruchová		0	6719
+670	Brezovská Mária r. Medlenová	manžel Ferdinand, deti: Konštantín, Ferdinand, Ladislav, brat Ondrej	0	5480,8867
+670	Brezovská Mária r. Valachovičová		0	6564
+670	Brezovská Mária r. Valachovičová	manžel František	0	2237,6509,6691,6692
+670	Brezovský Jakub		0	3653,4518,7579,9160
+670	Brezovský Jakub	súrodenci Alžbeta, Eva	0	4196
+670	BREZOVSKÝ Jakub	súrodenci: Eva, Alžbeta	0	1359
+670	Brezovský Ján		0	4071
+670	Brezovský Ján	zomrel 21.4.1969, manželka Valéria r. Hrušecká, naposledy bytom Gbely 406	0	4378
+670	Brezovský Jozef		0	6819
+670	Brezovský Jozef, 908 45, Gbely, č. 648, SR		0	6460,6746,6763,8076
+670	Brezovský Ladislav	manželka Eleonóra r. Eibenová, čd.351	0	8660
+670	Brída Alexander	manž. Mária r. Kocáková	0	9160
+670	Brída Ernest	zomrel 5.4.1981, nap.byt. Gbely, manž.:Brigita, deti: Jozefína Macánková, Anna Hrušecká	0	6421,6714,6782,6795,9338
+670	Brída Ján		0	6796,7821,8321,8322,9160,9409
+670	Brída Ján	manželka Anna r. Bolebruchová	0	6521,6562
+670	Brída Ján	manželka Ľudmila r. Bartalová	0	5246,5486,6018
+670	Brída Ladislav	manželka Alžbeta r. Dúbravová	0	6595
+670	Brída Michal		0	6113,6421,6583,6594,6625,6640,6714,6782,6785,6796,7821,8321,8322,8470,8541,8543,9160,9409
+670	Brída Michal	manž. Anna r. Macánková	0	9160
+670	Brída Michal	manželka Anna r. Macánková	0	4273,5670,6562,6568,6584,6595,6632,6639,6680,6709,6710,6795,8115,9338
+670	Brídová Alžbeta r. Dúbravová	manžel Ladislav	0	6595
+670	Brídová Anna r. Baňovičová	manžel Jakub	0	5027
+670	Brídová Anna r. Macánková		0	5018
+670	Brídová Anna r. Vlková		0	3824,5237,6815,7704
+670	Brídová Brigita r. Hluchá		0	3812
+670	Brídová Helena r. Horná		0	9160
+670	Brídová Mária r. Kocáková	manžel Alexander	0	9160
+670	Brunovská Alžbeta		0	6720
+670	Brunovská Alžbeta r. Brezovská		0	4727
+670	Brunovská Alžbeta r. Koričanská	manžel Imrich	0	5744
+670	Brunovská Alžbeta r. Vlková		0	4566,7970
+670	Brunovská Alžbeta r. Vlková	čislo domu 559	0	6757
+670	Brunovská Alžbeta r. Vlková	manžel Ján	0	6730,6731,6756,9160
+670	BRUNOVSKÁ Anastázia		0	4380
+670	Brunovská Anna		0	5450,8024
+670	Brunovská Emerencia r. Vlková		0	6691,6692,9160
+670	Brunovská Emerencia r. Vlková	manžel Antonín	0	6691,6692
+670	Brunovská Hermína		0	4006,9160
+670	Brunovská Hermína	nesvojprávna	0	4830,6764
+670	Brunovská Jozefína r. Pilsová		0	9160
+670	Brunovská Kristína	manžel Karol Straka	0	5009
+670	Brunovská Mária		0	5946,9021
+670	Brunovská Mária r. Lorencová		0	9160
+670	Brunovská Mária r. Lorencová	manžel Imrich	0	7903
+670	Brunovská Rozália r. Jurkovičová		0	5562,5564,5946,9021
+670	Brunovská Rozália r. Kabátová	manžel Michal	0	4992
+670	Brunovský Antonín	manželka Emerencia r.Vallová	0	7903
+670	Brunovský Antonín	zomr. 30.10.1968, manž. Emerencia r. Vlková	0	9160
+670	Brunovský František		0	7703,7704
+670	BRUNOVSKÝ František	manž. Mária r. Horinková	0	4361
+670	Brunovský Imrich		0	4856,6550,6764
+670	Brunovský Imrich	brat Martin	0	5489,5715,6626,6766,7533
+670	Brunovský Imrich	brat Martin, dedené po Michalovi Brunovskom	0	4463,4759,4992
+670	Brunovský Imrich	manželka Alžbeta r. Koričanská	0	5744
+670	Brunovský Ján	manželka Alžbeta r. Vlková	0	6756
+670	BRUNOVSKÝ Ján		0	9160
+670	Brunovský Jozef		0	4729,6124,6718,6756,9160
+670	Brunovský Jozef	manželka Mária Brezovská	0	4938
+670	Brunovský Jozef	manželka Mária r. Brezovská	0	4566
+670	Brunovský Jozef	Mária r. Brezovská	0	4565
+670	Brunovský Jozef	naposledy bytom Amerika	0	6757
+670	Brunovský Ladislav	manželka Mária r. Čulenová	0	5503
+670	Brunovský Martin		0	4856,6550
+670	Brunovský Martin	brat Imrich	0	5715,6626,6766
+670	Brunovský Martin	manž. Alžbeta r. Brezovská	0	9160
+670	Brunovský Martin	manželka Alžbeta r. Brezovská	0	6626,6764,6766
+670	Brunovský Martin	manželka Alžbeta r. Brezovská, brat Imrich	0	4992,5489,7533
+670	Brunovský Martin	manželka Alžbeta r. Brezovská, brat Imrich, dedené po Michalovi Brunovskom	0	4463,4759
+670	Brunovský Martin	mladší, zomr. 18.1.1970	0	9160
+670	Brunovský Rupert		0	4738,4925,4926,4928
+670	Brunovský Rupert	manželka Mária r. Rusková	0	4082,4925
+670	BRUNOVSKÝ Rupert, SR		1	2833
+670	Brunovský Teodor		0	5946,9021
+670	Buček Jozef	manželka Terézia r. Dojčánska	0	5050
+670	Buček Martin		0	3842,9160
+670	Buček Martin	súr. Ľudmila, Rudolf, Mária, rodičia Martin a Alžbeta r. Jančiová	0	3597,4982,7240,7646,7647
+670	Buček Matej		0	3776

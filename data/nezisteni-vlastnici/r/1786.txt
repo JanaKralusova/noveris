@@ -1,0 +1,256 @@
+1043	Szuraková Katarína	č.d. 407/17	1	1632,1633
+1043	Szuraková Mária	č.d. 1/04	1	1632,1633
+1043	Szuráková Mária r. Vanszová	č.d. 37/14	1	1632,1633
+1043	Šefčík František r. Šefčík		0	968,970,1207
+1043	Šefčík Štefan		0	1698,1699
+1043	Šefčík Štefan r. Šefčík		0	786,1116,1117,1123,1124,1125,1126,1127,1700
+1043	Šefčíková Mária r. Figliarová		0	786,1116,1117,1123,1124,1125,1126,1127,1698,1699,1700
+1043	Šimko Martin r. Šimko		0	1368
+1043	Šmigovský Štefan r. Šmigovský		0	742,1111,1112,1700,1714
+1043	Šprinc Pavol r. Šprinc		0	1491
+1043	Tatarka Ján r. Tatarka		0	1394
+1043	Tatarková Anna		0	786,879,1116,1117,1123,1124,1125,1126,1127,1268,1698,1699,1700
+1043	Vasecková Anna r. Beckerová	č.d. 919/1891	1	1632,1633
+1043	Vasko František	č.d. 780/21	1	1632,1633
+1043	Vasko Imrich	č.d. 780/21	1	1632,1633
+1043	Vasko Ján	1	1	1632,1633
+1043	Vasko Ján	č.d. 1195/03	1	1632,1633
+1043	Vasko Michal	č.d. 1195/03	1	1632,1633
+1043	Vasko Peter	č.d. 780/21	1	1632,1633
+1043	Vasko Tomáš	č.d. 780/21	1	1632,1633
+1043	Vasko Valentin	č.d. 761/21, 780/21	1	1632,1633
+1043	Vasková Alžbeta	č.d.1195/03	1	1632,1633
+1043	Vasková Alžbeta r. Repaská	č.d. 716/50	1	1632,1633
+1043	Voško Juraj r. Voško		0	786,1116,1117,1123,1124,1125,1126,1127,1698,1699,1700
+1043	Voško Ondrej r. Voško		0	786,1116,1117,1123,1124,1125,1126,1127,1698,1699,1700
+1043	Vošková Anna r. Rožková		0	1406
+1043	Vrabel Martin	č.d. 780/1875	1	1632,1633
+1043	Vrabel Štefan	č.d. 1268/10	1	1632,1633
+1043	Vrabelová Alžbeta r. Vasková	č.d. 780/21	1	1632,1633
+1043	Vrabelová Mária r. Buriková	č.d. 241/22	1	1632,1633
+1043	Vrabelová Verona r. Kovalová	č.d. 663/18	1	1632,1633
+1043	Záhradník Ján r. Záhradník		0	1701,1714
+1043	Záhradníková Mária r. Sedláková		0	1714
+1043	Záhraník Jozef r. Záhraník		0	1218
+1043	Zajac Ján r. Zajac		0	753,786,1116,1117,1123,1124,1125,1126,1127,1341,1700,1734
+1043	Zajacová Alžbeta r. Borodáčová		0	1325
+1043	Zajacová Mária r. Matvejová		0	1511
+1043	Zeleňák Jakub r. Zeleňák		0	786,1116,1117,1123,1124,1125,1126,1127,1698,1699,1700
+1043	Zeleňák Vojtech r. Zeleňák		0	1571
+1043	Zeleňáková Anna r. Ondrášová		0	1337
+1043	Zeleňáková Mária r. Ovčariková		0	786,1116,1117,1123,1124,1125,1126,1127,1698,1699,1700
+1043	Žemba Martin r. Žemba		0	742,1111,1112,1700,1714
+1043	Žembová Mária r. Matvejová		0	742,1111,1112,1700,1714
+1043	Žifčaková Mária r. Belušová		0	1695
+1044	Adorján Ján		0	1512,2351
+1044	Adorján Ján	Hrhov	0	285
+1044	Adorján Ján	mal	0	806,807,2623
+1044	Adorján Jozef		0	806,807,1069,1070,1213,1781,2623
+1044	Adorján Jozef	mal	0	806,807,2623
+1044	Adorján Ľudovít		0	806,807,1069,1070,1213,1781,2623
+1044	Adorján Štefan	ž.Barbora r.Kardosová,zomrel 17.8.1925	0	1069,1070,1781
+1044	Adorjánová Barbora	mal	0	1069,1070,1781
+1044	Adorjánová Barbora r. Kardosová	m.Štefan	0	1781
+1044	Adorjánová Barbora r. Körtvélyová	m.Štefan	0	1069
+1044	Adorjánová Estera r. Beczeová	m.Ján	0	1021
+1044	Adorjánová Júlia	mal	0	806,807,2623
+1044	Adorjánová Juliana r. Dienesová	m.Ján	0	1069
+1044	Adorjánová Julianna		0	1069,1070,1781
+1044	Agyagos František	ž.Mária r.Szaczyová	0	2370
+1044	Agyagos Ján	ž.Zuzana r.Tegdesová	0	2282
+1044	Agyagos Michal	ž.Zuzana r.Zsebiková	0	2266
+1044	Agyagos Pavol		0	2208
+1044	Agyagos Samuel		0	251
+1044	Agyagosová Estera		0	174
+1044	Agyagosová Judita r. Sárogová	m.Štefan	0	2231
+1044	Agyagosová Šára r. Demeterová	m.Samuel	0	2341,2343
+1044	Ambrúsová Magdaléna	mal	0	963
+1044	Ambrúsová Rozália	mal	0	963
+1044	Ambrúžová Mária r. Szladicsová	Dátum úmrtia: 10.08.1952	0	259,271,1440,1780
+1044	Andróth Ján		0	2210
+1044	Andróthová Klára r. Hajduová	m.Martin	0	1328
+1044	Andróthová Mária r. Kúnová	m.Štefan	0	1828,2732,2817
+1044	Andrótová Mária		0	271
+1044	Angyal Ján		0	1240,1893
+1044	Angyal Ľudovít		0	1545,1679,1850,1971,2427,2428,2808,2821
+1044	Angyalová Ida r. Mezeová	m.Ľudovít Pavol	0	1545,1679,1850,1971,2427,2428,2808,2821
+1044	Angyalová Mária		0	1545,1679,1850,1971,2427,2428,2808,2821
+1044	Anna František	ž.Mária r.Berczeliová	0	963
+1044	Anna Jozef		0	963
+1044	Anna Július		0	963
+1044	Anna Ondrej	ž.Helena r.Benyová	0	963
+1044	Anna Štefan	ml	0	963
+1044	Annová Anna r. Bendžuková		0	963
+1044	Annová Helena r. Benyová	m.Ondrej	0	963
+1044	Annová Júlia r. Ambrúzsová	ml.m.Štefan	0	963
+1044	Annová Mária r. Berczeliová	m.František	0	963
+1044	Annová Zuzana r. Szentandrásiová	str.m.Štefan	0	963
+1044	Árvaiová Markéta	r.Štefanová	0	1860
+1044	Árvaiová Markéta r. Štefánová		0	1679,1971,2278,2427,2428
+1044	Babásová Mária r. Szanyiová	m.Ján	0	2051
+1044	Balázsová Zuzana r. Doszpolyová	m.Ján	0	1679,1971,2427,2428
+1044	Balázsová Zuzana r. Kúnová	m.Michal	0	1679,1839,1971,2427,2428
+1044	Balážová Júlia r. Bartóková		0	310,371,1679,1754,1850,1971,2427,2428,2808,2821,2884
+1044	Baloghová Veronika r. Berczeliová	m.Ondrej	0	2042
+1044	Bárány Jozef		0	2291
+1044	Barciová Helena r. Sárogová	m.Štefan	0	1840,1850,2808,2821
+1044	Barczi Alajoš		0	963
+1044	Barczi Imrich		0	963
+1044	Barczi Jozef	honvéd	0	963
+1044	Barczi Ladislav	zomr.10.4.1991	0	963
+1044	Barczi Ondrej		0	963
+1044	Barczikayová Terézia r. Adorjánová	Dátum úmrtia: 08.12.1960	0	1781
+1044	Barcziová Julianna r. Kovácsová	m.Imrich	0	963
+1044	Barcziová Rozália r. Ambrúsová	m.Ľudovít	0	963
+1044	Barcziová Rozália r. Lüköová	vd	0	963
+1044	Barkus Jozef	mal	0	215,216,217,2625
+1044	Barta Adam		0	1934
+1044	Barta Štefan	ml	0	325,1438,1577,2437,2438,2507,2529,2543,2818,2826
+1044	Bartaová Juliana r. Farkasová	m.Ján	0	2302
+1044	Bartaová Lídia r. Tobiásová	m.Ján	0	259,271,1440
+1044	Bartaová Zuzana r. Bekeová	m.Ján	0	271
+1044	Bartaová Zuzana r. Vidová	m.Štefan	0	325,1438,1577,2437,2438,2507,2529,2543,2818,2826
+1044	Bartha Alexander	mal.Moldava nad Bodvou,zomrel	0	325,884,895,897,1128,1437,1438,1577,1679,1701,1834,1850,1971,1996,2068,2427,2428,2437,2438,2498,2507,2529,2543,2718,2720,2808,2818,2821,2826
+1044	Bartha Alexander r. Bartha	Dátum úmrtia: 17.03.2008	0	1942
+1044	Bartha Ján		0	325,616,884,895,897,1045,1128,1437,1438,1577,1679,1701,1834,1850,1971,1996,2068,2427,2428,2437,2438,2498,2507,2529,2543,2718,2720,2808,2818,2821,2826
+1044	Bartha Jozef		0	237,325,1045,1326,1438,1577,1679,1850,1880,1971,2007,2206,2427,2428,2437,2438,2507,2529,2543,2808,2818,2821,2826
+1044	Bartha Jozef	-mal.zomrel, Jablonov nad Turňou č.123	0	325,884,895,897,1128,1437,1438,1577,1679,1701,1834,1850,1971,1996,2068,2427,2428,2437,2438,2498,2507,2529,2543,2718,2720,2808,2818,2821,2826
+1044	Bartha Jozef	mal	0	259,265,271,616,1440,1818,2161,2235
+1044	Bartha Ľudovít	mal	0	325,616,884,895,897,1045,1128,1437,1438,1577,1679,1701,1834,1850,1971,1996,2068,2427,2428,2437,2438,2498,2507,2529,2543,2718,2720,2808,2818,2821,2826
+1044	Bartha Michal	ml	0	2174
+1044	Bartha Michal	ž.Juliana r.Danková	0	1859
+1044	Bartha Štefan	ml.ž.Terézia r.Adorjánová	0	237,1326,1679,1850,1880,1971,2206,2427,2428,2808,2821
+1044	Barthaová Barbora r. Imreová	vd.m.Ján	0	1818,2161
+1044	Barthaová Helena r. Józsaová	m.Štefan	0	325,1438,1577,2007,2437,2438,2507,2529,2543,2818,2826
+1044	Barthaová Juliana	mal	0	265,2355
+1044	Barthaová Zuzana	mal	0	265,1705,2590
+1044	Barthová Alžbeta		0	1045
+1044	Barthová Alžbeta r. Kelecsényiová	Dátum úmrtia: 02.10.1967	0	1797,1929,2211,2774
+1044	Barthová Irena	mal	0	237,325,1326,1438,1577,1679,1850,1880,1971,2007,2206,2427,2428,2437,2438,2507,2529,2543,2808,2818,2821,2826
+1044	Bartók Abrahám		0	259,271,1440
+1044	Bartók Alexander		0	1070,1155,1194,1195,1721,1781,2661
+1044	Bartók Daniel		0	284,294,1637,1679,1850,1971,2427,2428,2480,2548,2808,2820,2821,2822,2847,2848
+1044	Bartók František	Hrhov	0	2206
+1044	Bartók Ján		0	259,271,284,285,286,287,288,294,1440,1637,1679,1850,1971,2427,2428,2480,2548,2808,2820,2821,2822,2847,2848
+1044	Bartók Ján	ž.Borbála r.Királyová	0	2386
+1044	Bartók Ľudovít	mal	0	1070,1155,1194,1195,1721,1781,2661
+1044	Bartók Rafan	Hrhov	0	2206
+1044	Bartók Štefan	Hrhov	0	1070,1155,1194,1195,1721,1781,2661
+1044	Bartók Štefan	ml	0	963
+1044	Bartóková Alžbeta	r.Zemanová; Dátum úmrtia: 12.03.1996	0	284,286,287,288,293,294,2847
+1044	Bartóková Alžbeta r. Zemanová	Dátum úmrtia: 12.03.1996	0	259,271,285,1440,1637,1679,1850,1971,2126,2427,2428,2480,2808,2820,2821,2822,2848
+1044	Bartóková Alžbeta r. Zemanová	Dátum úmrtia:12.03.1996	0	2548
+1044	Bartóková Borbála	r.Jakabová	0	284,2847
+1044	Bartóková Borbála r. Jakabová		0	1637,1679,1850,1971,2427,2428,2480,2548,2808,2820,2821,2822,2848
+1044	Bartóková Helena	mal	0	284,285,286,1637,1679,1850,1971,2427,2428,2480,2548,2808,2820,2821,2822,2847,2848
+1044	Bartóková Helena r. Jávorová		0	325,1438,1577,1981,2437,2438,2507,2529,2543,2818,2826
+1044	Bartóková Irma r. Üvegesová		0	696,697,698,699,1781,2812,2813,2814
+1044	Bartóková Julianna r. Gálová	m.Pavol	0	2324
+1044	Bartóková Klára r. Kinyiková	m.Michal	0	2349
+1044	Bartóková Klára r. Molnárová	m.František	0	259,271,1440
+1044	Bartóková Mária	mal	0	1080
+1044	Bartóková Mária r. Adorjánová	m.Ladislav	0	806,807,2623
+1044	Bartóková Mária r. Javorová	Turnianska Nová Ves 92	0	2015
+1044	Bartóková Terézia	r.Vargová,m.František	0	1115
+1044	Bartóková Terézia r. Vargová	m.František	0	1679,1971,2427,2428
+1044	Bartóková Zuzana r. Nemesová	Dátum úmrtia: 16.08.2007	0	259,1440,1691
+1044	Bartová Mária r. Dieová		0	259,271,325,1438,1440,1577,1679,1695,1696,1697,1703,1783,1850,1971,2157,2427,2428,2437,2438,2448,2507,2529,2543,2603,2606,2740,2808,2818,2821,2826
+1044	Bartová Mária r. Dieová	r.Dieová; r.Dieová	0	2064
+1044	Bartová Zuzana r. Bartóková	m.Adam	0	2286
+1044	Baska Ján		0	963
+1044	Baydiková Helena		0	2047
+1044	Becze Alexander		0	1021,1709
+1044	Becze Alexander	-	0	2373
+1044	Becze Jozef		0	2333
+1044	Becze Jozef	v Amerike	0	259,271,1316,1440,2235
+1044	Becze Karol		0	1770
+1044	Becze Michal		0	697,1215,2296,2308,2341,2813
+1044	Becze Štefan		0	697,699,2813,2814
+1044	Beczeová Alžbeta	mal	0	1208
+1044	Beczeová Barbora r. Imreová	vd	0	2235
+1044	Beczeová Barbora r. Üvegesová	m.Štefan	0	696,698,1781,2812
+1044	Beczeová Estera r. Oláhová	m.Michal	0	1196
+1044	Beczeová Terézia r. Gyarmathyová	m.František	0	259,271,1316,1440,2235
+1044	Beke Daniel	Dátum úmrtia:27.04.1983	0	1841
+1044	Beke Jozef	-	0	259,271,1440,1679,1850,1853,1971,2221,2427,2428,2750,2808,2821
+1044	Beke Jozef	mal	0	259,271,1440,1679,1850,1853,1971,2221,2427,2428,2750,2808,2821
+1044	Beke Jozef	ž.Alžbeta r.Gyarmatiová	0	1850,2808,2821
+1044	Beke Július		0	1679,2427,2428
+1044	Beke Ladislav		0	1679,2427,2428
+1044	Beke Michal		0	259,1440,2123
+1044	Bekeová Alžbeta	mal	0	325,1438,1577,1990,2437,2438,2507,2529,2543,2715,2818,2826
+1044	Bekeová Alžbeta r. Barthaová		0	259,265,271,1440,1822,2355
+1044	Bekeová Alžbeta r. Gyarmatiová	m.Jozef	0	1850,2808,2821
+1044	Bekeová Barbora r. Lengyelová	m.Štefan	0	1295,1296,2699
+1044	Bellérová Barbora r. Tegdesová	m.Peter	0	1229
+1044	Belo Jozef		0	963
+1044	Bendeová Alžbeta		0	259,271,1440,2383
+1044	Bendzsuch Imrich r. Bendzsuch	Dátum úmrtia: 17.02.2009	0	1941
+1044	Benkovits Ján		0	1667
+1044	Berczeli František		0	963,2042
+1044	Berczeli Ján	syn Jána Berczeliho	0	963
+1044	Berczeli Juraj	Lipovník	0	2042
+1044	Berczeli Ladislav	mal	0	963
+1044	Berczeli Ondrej		0	963
+1044	Berczeliová Alžbeta	mal	0	963
+1044	Berczeliová Emerencia		0	963
+1044	Berczeliová Helena	mal	0	963
+1044	Berczeliová Helena r. Bélová	ml.m.Ján	0	963
+1044	Berczeliová Zuzana r. Halászyová	m.František	0	2042
+1044	Berczelyová Helena r. Telecká		0	963
+1044	Béres Ján	mal	0	2074
+1044	Béres Ondrej		0	386,2214
+1044	Béres Ondrej	mal	0	1530,1679,1971,2074,2427,2428
+1044	Béres Štefan		0	386
+1044	Béres Štefan	mal	0	1530,1679,1971,2427,2428
+1044	Béresová Alžbeta	mal	0	1530,1679,1971,2074,2427,2428
+1044	Béresová Mária		0	259,271,325,1438,1440,1577,1679,1831,1850,1854,1971,2074,2427,2428,2437,2438,2507,2529,2543,2561,2808,2818,2821,2826,2900
+1044	Béresovová Alžbeta		0	386
+1044	Bernáthová Judita	Hersko	0	2247
+1044	Bobkovská Helena r. Zubrická		0	259,271,1440,1679,1971,2427,2428
+1044	Boczuková Mária r. Eleková	m.Ignác	0	2056
+1044	Bodnár Ján		0	478,1850,1935,2258,2808,2821
+1044	Bodnár Jozef	-	0	325,1438,1577,1946,2437,2438,2507,2529,2543,2818,2826
+1044	Bodnár Jozef	*	0	963
+1044	Bodnár Július		0	633,634,910,2081,2665,2683
+1044	Bodnár Ľudovít		0	1935,2258
+1044	Bodnár Štefan	zomrel v r.1986	0	882
+1044	Bodnárová Alžbeta r. Bodnárová	Dátum úmrtia: 11.05.1978	0	1438,1577,2437,2438,2507,2529,2543,2818,2826
+1044	Bodnárová Alžbeta r. Bodnárová	Dátum úmrtia: 11.05.1987	0	1577,2826
+1044	Bodnárová Alžbeta r. Bodnárová	zomrela 11.05.1978	0	325
+1044	Bodnárová Alžbeta r. Bubenková		0	2275
+1044	Bodnárová Anna		0	634,2081
+1044	Bokroš Ľudovít		0	1935,2258
+1044	Bokroš Štefan		0	1935,2258
+1044	Bokrošová Alžbeta	r.Žebiková,zomr.v Silici; Dátum úmrtia: 13.02.1967	0	238,240,243,250,253,260,269,2786,2788,2789,2790
+1044	Bokrošová Alžbeta r. Žebiková		0	1027
+1044	Bokrošová Alžbeta r. Žebiková	Dátum úmrtia, zomr.v Silici	0	2585
+1044	Bokrošová Alžbeta r. Žebiková	Dátum úmrtia: 13.02.1967 v Silici	0	1971
+1044	Bokrošová Alžbeta r. Žebiková	Dátum úmrtia: 13.02.1967, zomr. v Silici	0	2577
+1044	Bokrošová Alžbeta r. Žebiková	Dátum úmrtia: 13.02.1967, zomr.v Silici	0	259,1440,1679,1850,1971,2427,2428,2523,2582,2583,2808,2821
+1044	Bokrošová Alžbeta r. Žebiková	Dátum úmrtia: 13.02.1967,zomr.v Silici	0	239,271,1168,1440,1656,1679,1793,2105,2241,2427,2526,2787,2809
+1044	Bokrošová Alžbeta r. Žebiková	zomr.v Silici, Dátum úmrtia: 13.02.1967	0	1106
+1044	Bokrošová Alžbeta r. Žebiková	zomr.v Silici, Dátum úmrtia:13.02.1967	0	1105
+1044	Bokrošová Alžbeta r. Žebiková	zomrela v Silici 13.02.1967	0	265,410,2792
+1044	Bolló František	ml	0	963
+1044	Bollo Gejza		0	963
+1044	Bolló Ignácz		0	963
+1044	Bollo Jozef		0	963
+1044	Bollo Karol		0	963
+1044	Bolló Pavol	ml	0	963
+1044	Bollo Štefan		0	963
+1044	Bollóová Anna r. Szántóová	ml.m.Pavol	0	963
+1044	Bollóová Ema r. Szappanosová		0	963
+1044	Bollóová Johanna r. Kovácsová	vd	0	963
+1044	Bollóová Margita r. Szappanosová	m.Ondrej	0	963
+1044	Bollová Helena r. Jávorová		0	1750,2621
+1044	Boros Gejza	mal	0	1136,1921
+1044	Boros Ján		0	2019,2704
+1044	Boros Ján	- Dátum úmrtia: 03.02.2004	0	1850,2427,2428,2808,2821
+1044	Boros Ján	- Dátum úmrtia:03.02.2004; -	0	1168
+1044	Boros Ján	-, Dátum úmrtia: 03.02.2004	0	1679,1971
+1044	Boros Jozef	ž.Mária r.Seböová	0	240,259,260,1096,1440,1793,2105,2186,2189,2243,2554,2788
+1044	Boros Jozef r. Boros	Jablonov nad Turňou, 115	0	2429,2810
+1044	Borosová Mária	r.Seböová,m.Jozef; Dátum úmrtia: 15.01.1971	0	243
+1044	Borosová Mária r. Seböová		0	1058
+1044	Borosová Mária r. Seböová	Dátum úmrtia: 15.01.1971, m.Jozef	0	259,1819

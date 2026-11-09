@@ -1,0 +1,256 @@
+3408	Filová Margita r. Filová		1	362
+3408	Filová Mária	rod	1	330,331
+3408	Filová Mária r. Filo	Zrnek	1	254
+3408	Filová Mária r. Filová		1	281
+3408	Filová Mária r. Filová	manž. Ondrej	1	156,167,197,198,204,322,346,377,387
+3408	Filová Rozália	manž. Jozef, neb., Kšinná 130	1	362
+3408	Gabriška Adam		1	389,392,400
+3408	Gabriška Adam	ml., pk., po Adamovi	1	400
+3408	Gabriška Ján	st	1	389,392,400
+3408	Gabriška Ondrej	pk, po Michalovi	1	400
+3408	Gabrišková Anna	pk	1	400
+3408	Gabrišková Anna	rod	1	400
+3408	Gabrišková Pavlína		1	389,392
+3408	Gabrišková Pavlína	rod., pk, po Adamovi	1	400
+3408	Gajdošová Katarína r. Filová		1	199,289,317,328,330,331,437,438,522,543
+3408	Habáňová Zuzana	Duchová	1	269
+3408	Habáňová Zuzana r. Antalová		1	318
+3408	Hadvig Adam		1	132,133
+3408	Hadvig Adam	mal	1	134,227,229,439
+3408	Hadvig Ján		1	138,139,142,143,145,146,172,178,186,187,188,189,239,302,303,307,311,369,463,464,526
+3408	Hadvig Michal	mal	1	307,311
+3408	Hadvig Tomáš		1	138,139,142,143,145,146,172,178,186,187,188,189,239,369,464,526
+3408	Hadvig Tomáš	ž. Alžbeta Pavle	1	299
+3408	Hadvigová Alžbeta r. Pavleová		1	299
+3408	Hadvigová Katarína		1	307,311
+3408	Hadvigová Mária		1	307,311
+3408	Hadvigová Mária r. Sečanská		1	132,133,134,227,228,439
+3408	Hadvigová Rozália		1	307,311
+3408	Hajšová Zuzana r. Belaková		1	278,327,524,525
+3408	Hanko Ondrej	neb	1	153,154
+3408	Hanková Anna r. Hadvigová		1	307,311
+3408	Hanková Pavlína r. Sečanská	neb	1	260,292,319,320,347,375,378,385,390,391,393,394,395,451,452,453,454,455,456,457,458,459
+3408	Holicová Zuzana r. Škultétyová		1	137,141,145,146,174,175,177,179,185,188,189,464,526,530
+3408	Holý Štefan	pk	1	398
+3408	Hrčková Mária r. Škorcová		1	352,353,354
+3408	Hrubá Anna r. Adame		1	389
+3408	Hrubá Katarína r. Klemanová		1	164,273,545
+3408	Hrubá Mária r. Filová		1	137,138,139,141,142,143,145,146,156,167,171,172,178,179,181,182,184,185,186,187,188,189,197,198,204,234,281,282,322,337,346,362,377,387,464,526
+3408	Hudec Adam	manž.Tlkancová Eva	1	400
+3408	Hudec Adam	ml	1	396
+3408	Hudec Adam	st	1	396
+3408	Hudec Michal	Grajcar	1	137,141,145,146,179,185,188,189,245,277,344,365,464,526
+3408	Hudec Ondrej		1	396
+3408	Hudec Peter		1	396
+3408	Hudecová Alžbeta r. Chuchútová	m.Ondrej	1	318
+3408	Hudecová Katarína		1	373
+3408	Hudecová Mária r. Šípková		1	396
+3408	Chrenko Štefan	ž. Mária Škorec	1	158,291
+3408	Chrenková Mária r. Škorcová		1	158,291
+3408	Chuchút Adam		1	318
+3408	Chuchút Ján		1	318
+3408	Chuchút Jozef	mal	1	318
+3408	Chuchútová Anna	mal	1	318
+3408	Chuchútová Anna r. Švikruhová		1	318
+3408	Chuchútová Katarína	mal	1	318
+3408	Chuchútová Katarína r. Mikušová		1	318
+3408	Chuchútová Katarína r. Švikruhová	Králik	1	318
+3408	Chuchútová Zuzana	rod	1	318
+3408	Jánošík Augustín		1	321,340,341,349,350,351,353,354,359,383,388,529
+3408	Jánošík Bohuslav		1	321,340,341,349,350,351,353,354,359,383,388,529
+3408	Jedinák Ján	k.ú. Kšinná	1	392
+3408	Juračková Zuzana	Švikruhová	1	318
+3408	Kalač Adam		1	176
+3408	Kleman Adam		1	173,174
+3408	Kleman Ján	mal	1	164,545
+3408	Kleman Štefan		1	173,174
+3408	Klemanová Rozália		1	159,166,173,174,259,291,527,528
+3408	Klemanová Rozália	po Márii Sečanskej	1	302,303,463
+3408	Klemanová Zuzana	Filová	1	171
+3408	Kohuš Štefan		1	156,167,197,198,204
+3408	Kopčan Adam		1	107
+3408	Kopčan Adam	ml	1	159,166,259,527,528
+3408	Kopčan Adam	st	1	130,159,166,222,226,259,291,364,401,402,527,528
+3408	Kopčan Ján		1	130,222,226,259,291,364,401,402,528
+3408	Kopčan Ján	syn Jána	1	130,222,226,364,401,402
+3408	Kopčan Michal	st	1	159,166,259,291,323,527,528
+3408	Kopčan Štefan	ml., ž. Anna Podlucká, neb	1	159,166,259,291,527,528
+3408	Kopčanová Anna r. Podlucká	neb	1	166,527
+3408	Kopčanová Eva	pk	1	159,166,259,291,527,528
+3408	Kopčanová Márie	po Anne, pk	1	159,166,259,291,527,528
+3408	Koštialová Eva r. Filová	pk	1	199,289,328,543
+3408	Krcho Augustín	ž. Zuza Čukanová, pk	1	202,203,245,312,314,334,344,420,494,497,500,504,518,519,520,521
+3408	Krcho Imrich	pk	1	202,203,312,314,335,494,497,500,504,518,520,521
+3408	Krcho Jozef	mal., pk	1	202,203,245,312,314,334,344,420,494,497,500,504,518,519,520,521
+3408	Krcho Matej	pk	1	311
+3408	Krcho Milan	ml., pk	1	202,203,245,312,314,334,344,420,494,497,500,504,518,519,520,521
+3408	Krcho Ondrej	ml., pk	1	202,203,312,314,334,420,494,497,500,504,518,519,520,521
+3408	Krcho Ondrej	pk	1	202,203,312,314,334,420,494,497,500,504,518,519,520,521
+3408	Krcho Ondrej	po Jánovi, pk	1	202,203,311,312,314,334,420,494,497,500,504,518,519,520,521
+3408	Krcho Ondrej	st., pk	1	203
+3408	Krcho Pavol	po Ondrejovi, pk	1	311
+3408	Krcho Štefan	po Jánovi, neb	1	202,203,311
+3408	Krcho Štefan	po Ondrejovi, pk	1	311,312,314,334,362,391,420,494,497,500,504,518,519,520,521
+3408	Krchová Alžbeta	slob., pk	1	202,203,312,314,334,494,497,500,504,518,520,521
+3408	Krchová Anna	pk	1	202,203,311,312,314,334,420,494,497,500,504,518,519,520,521
+3408	Krchová Emília	pk	1	311,312,314,334,420,494,497,500,504,518,519,520,521
+3408	Krchová Eva	slob., pk	1	202,203,245,312,314,334,344,420,494,497,500,504,518,519,520,521
+3408	Krchová Katarína r. Paprčeková	m. Ján, pk	1	202,203,307,312,314,334,420,494,497,500,504,518,519,520,521
+3408	Krchová Pavlína	neb., pk	1	312,314,334,420,494,497,500,504,518,519,520,521
+3408	Kurtišová Elena r. Krchová	pk	1	202,203,245,312,314,334,344,420,494,497,500,504,518,519,520,521
+3408	Ledvinková Mária r. Škultétyová	otec Adam	1	278,524,525
+3408	Lišková Katarína r. Hrebíčková	m. Michal, pk	1	160
+3408	Ludinová Emília r. Škultétyová		1	205,313,325,380,537,540
+3408	Martišková Rozália r. Sečanská	pk	1	353,354,356,357,359
+3408	Melas Matej	neb.7.7.1991, pk	1	181,184,369
+3408	Melas Michal	pk, neb	1	137,138,139,141,142,143,145,146,171,172,178,179,181,184,185,186,187,188,189,232,234,337,369,464,526
+3408	Melas Ondrej	pk	1	137,138,139,141,142,143,145,146,171,172,178,179,181,184,185,186,187,188,189,232,234,337,369,464,526
+3408	Melas Pavol	pk	1	138,139,235
+3408	Micianová Eva r. Škultétyová		1	278,325,524,525
+3408	Mikusová Zuzana r. Duracková	pk	1	318
+3408	Mišina Ján		1	227,230,439
+3408	Mišina Ján	pk	1	400
+3408	Mišinová Anna	po Ondrejovi, pk	1	400
+3408	Mišinová Mária	pk	1	400
+3408	Mišinová Zuzana	po Ondrejovi, pk	1	400
+3408	Ondruška Ján	pk	1	400
+3408	Ondruška Jozef	pk	1	400
+3408	Pajtinková Zuzana r. Zajacová		1	318
+3408	Paprček Ján	Kuna	1	364
+3408	Pavle Anna r. Krchová		1	202,203,245,344
+3408	Pavle Ján		1	299,398
+3408	Pavle Ján	Kováč	1	389,398
+3408	Pavle Ján	ž.Anna Kalačová	1	299
+3408	Pavle Katarína r. Zrneková		1	158,301,302,304,434,463,544
+3408	Pavle Matej		1	299,398
+3408	Pavle Matej	Kováč	1	398
+3408	Pavle Matej	ž.Anna Zrnek	1	299
+3408	Pavle Ondrej		1	301,304,305,434,544
+3408	Pavle Peter	mal	1	299
+3408	Pavle Zuzana r. Zrneková		1	158,301,302,304,434,463,544
+3408	Pavleová Katarína r. Zrneková		1	305
+3408	Pavleová Zuzana r. Sečanská		1	214,215,216,315,355,462,465,495,496,498,499,501,503,505,506,507,531,532,533,534,535
+3408	Pavleová Zuzana r. Zrneková		1	305
+3408	Podlucká Zuzana r. Šebeňová	m. Odnej	1	327
+3408	Pšenčíková Anna r. Filová		1	134,137,138,139,141,142,143,145,146,171,172,178,179,181,184,185,186,187,188,189,227,231,234,237,241,337,439,464,526
+3408	Sapoušková Emília r. Škorcová		1	137,141,145,146,179,185,188,189,226,246,324,344,364,365,374,401,464,472,473,484,526
+3408	Sečanská Anna	pk	1	160,162,167,197,198,201,204,258,260,292,319,320,361,375,378,385,390,391,393,394,395,451,452,453,454,455,456,457,458,459,512,513
+3408	Sečanská Anna r. Belanová	neb	1	132,134
+3408	Sečanská Anna r. Filová		1	199,289,328,543
+3408	Sečanská Anna r. Miškeová	st	1	201,258,260,292,319,320,347,361,375,378,385,390,391,393,394,395,451,452,453,454,455,456,457,458,459,513
+3408	Sečanská Anna r. Sečanská	ml	1	132,133,134,137,138,139,142,143,145,146,172,178,186,187,188,189,227,228,239,369,439,464,526
+3408	Sečanská Eva r. Sečanská	po Jánovi	1	353,354,356,357,359
+3408	Sečanská Júlia r. Ďuračková	neb. 1.3.1977	1	132,134
+3408	Sečanská Karolína r. Sečanská		1	353,354,356,357,359
+3408	Sečanská Katarína r. Sečanská		1	132,133,134,137,138,139,142,143,145,146,172,178,186,187,188,189,227,228,239,369,439,464,526
+3408	Sečanská Mária r. Filová		1	199,289,328,371,543
+3408	Sečanská Mária r. Paprčeková		1	107
+3408	Sečanská Mária r. Paprčeková	Kuna	1	226
+3408	Sečanská Mária r. Šípková		1	400
+3408	Sečanská Rozália	vydatá Škorcová, manž. Adam	1	353,354,356,357,359
+3408	Sečanská Zuzana r. Čukanová		1	153,154,169
+3408	Sečanská Zuzana r. Duchová		1	392,400
+3408	Sečanský Adam		1	398
+3408	Sečanský Adam	po Matejovi	1	201,347,353,354,356,357,359,360,513
+3408	Sečanský Andrej	najml	1	347
+3408	Sečanský Andrej	po Ondrejovi	1	347
+3408	Sečanský Ján	č.d.6012/888, po Ondrejovi; neb	1	137,141,145,146,173,174,179,185,188,189,464,526
+3408	Sečanský Ján	Dolný	1	160,167,197,198,200,201,204,292,320,347,361,375,378,385,390,391,393,395,451,452,453,457,458,459,513
+3408	Sečanský Ján	mal., po Ondrejovi	1	260
+3408	Sečanský Ján	ml	1	149,150,153,154,160,167,197,198,200,201,204,247,248,249,250,251,252,257,258,260,261,262,266,271,272,275,283,284,292,310,320,345,360,361,363,372,375,376,378,379,390,391,393,397,412,451,452,453,457,458,474,475,476,477,478,479,480,481,482,483,485,486,513,539
+3408	Sečanský Ján	syn Jána	1	200
+3408	Sečanský Jozef	zomrel 1992	1	392
+3408	Sečanský Jozef, 956 53, Závada pod Čiernym Vrchom, č. 29, SR	neb	1	132,133,134,214,215,227,229,439
+3408	Sečanský Matej		1	149,150,153,154,160,247,248,249,250,251,252,257,260,261,262,266,271,272,275,283,284,310,320,345,360,363,372,376,379,397,412,457,474,475,476,477,478,479,480,481,482,483,485,486,539
+3408	Sečanský Ondrej		1	107,130,132,133,134,137,138,139,142,143,145,146,172,178,186,187,188,189,200,201,222,226,227,228,239,369,439,464,513,526
+3408	Sečanský Ondrej	ml	1	197,198,249,250,257,260,292,319,345,360,361,363,376,378,379,385,390,391,393,394,395,397,412,451,452,453,454,455,456,458,459,485,486,539
+3408	Sečanský Ondrej	najml	1	385,395,459
+3408	Sečanský Ondrej	po Ondrejovi	1	260,292,319,320,347,375,378,385,390,391,393,394,395,451,452,453,454,455,456,457,458,459
+3408	Sečanský Ondrej	st	1	167,204
+3408	Sečanský Ondrej	ž. Mária Paprček	1	200,361
+3408	Sečanský Štefan		1	258,260,317,398,437,438,522
+3408	Sečanský Štefan	manž. Šípková Mária	1	400
+3408	Sečanský Štefan	otec Peter	1	353,354,356,357,359
+3408	Sečanský Štefan	po ml. Ondrejovi	1	385,395,459
+3408	Slezáková Anna r. Škultétyová		1	137,141,145,146,174,175,177,179,185,188,189,464,526,530
+3408	Šebeň Adam	kúpa od Filo Ján	1	285
+3408	Šebeň Adam	Paprček, ml	1	364
+3408	Šebeň Adam	Paprček, st	1	364
+3408	Šebeň Adam	Škultéty	1	278,287,326,524,525
+3408	Šebeň Ján		1	107
+3408	Šebeň Ján	č.d. 1	1	141,145,146,147,169,170,179,185,188,189,191,192,464,467,468,526
+3408	Šebeň Ján	manž.Róza Sečanská, neb	1	464
+3408	Šebeň Ján	ml	1	464
+3408	Šebeň Ján	Paprček	1	130,222,364
+3408	Šebeň Ján	po Ondrejovi	1	174
+3408	Šebeň Ján	ž. Anna Paprčeková	1	226,401,402
+3408	Šebeň Július		1	107
+3408	Šebeň Karol		1	107
+3408	Šebeň Karol	Paprček	1	130,222,364
+3408	Šebeň Michal		1	107
+3408	Šebeň Michal	neb., ml	1	167,195,196,197,198,249,250,252,257,286,412
+3408	Šebeň Michal	Paprček, ml	1	130,222,364
+3408	Šebeň Milan		1	107
+3408	Šebeň Milan	Paprček	1	130,222,364
+3408	Šebeň Ondrej	zomr. 28.5.1975	1	137,195,196,249,250,252,257,261,262,266,271,272,345,360,363,372,376,379,397,412,474,485,486,539
+3408	Šebeň Štefan	mal	1	156,167,197,198,247,261,262,266,275,283,284,310,474,475,476,477,478,479,480,481,482,483
+3408	Šebeň Viliam		1	132,133
+3408	Šebeňová Anna	po Jánovi	1	137,145,146,150,204,345,360,363,376,379,397,485,486,539
+3408	Šebeňová Anna r. Paprčeková		1	107
+3408	Šebeňová Anna r. Paprčeková	neb	1	130,222,226,364,401,402
+3408	Šebeňová Anna r. Šebeňová		1	179
+3408	Šebeňová Mária		1	107
+3408	Šebeňová Mária	Paprček	1	130,222,364
+3408	Šebeňová Rozália r. Šebeňová	neb	1	137,365,374,484
+3408	Šipka Jozef		1	236,269
+3408	Šípkovská Zuzana r. Filová		1	137,138,139,141,142,143,145,146,156,167,171,172,178,179,181,182,184,185,186,187,188,189,197,198,204,234,236,269,281,282,322,337,346,362,377,387,464,526
+3408	Škorcová Anna	Filová	1	156,281,282,322,346,362,377
+3408	Škorcová Anna r. Filová	manž. Imrich	1	167,197,198,204,387
+3408	Škorcová Anna r. Škultétyová		1	380
+3408	Škorcová Eva r. Adamíková		1	344
+3408	Škorcová Pavlína r. Škorcová	po Adamovi	1	156,167,197,198,204,254,257,269,281,282,322,346,362,377,387
+3408	Škorcová Zuzana	po Štefanovi	1	321,340,341,349,350,351,352,353,354,359,383,388,529
+3408	Škorcová Zuzana r. Hudecová	neb	1	396
+3408	Škorec Adam		1	107
+3408	Škorec Adam	po Ondrejovi	1	130,222,321,340,341,349,350,351,353,354,359,383,388,529
+3408	Škorec Adam	po Štefanovi	1	321,340,341,349,350,351,353,354,359,383,388,529
+3408	Škorec Michal		1	107
+3408	Škorec Michal	po Adamovi, pk	1	130,156,167,197,198,204,222,254,257,269,281,282,322,346,362,377,387,402
+3408	Škorec Michal	po Jánovi a Zuzane	1	209,210,308,309,314,321,339,349,353,354,359,383,388,442,443,444,493,529
+3408	Škorec Michal	ž. Katarína	1	210,352,353,354,493
+3408	Škorec Ondrej	neb., ž. Eva Adame	1	393,394,395
+3408	Škorec Pavol	pk	1	349,350,351,353,354,359,383,529
+3408	Škorec Štefan	po Adamovi, pk	1	156,167,197,198,204,254,257,269,281,282,322,346,362,377,387
+3408	Škorec Štefan	st., neb. dňa 12.7.1966	1	355
+3408	Škultéty Adam	ml., po Jánovi	1	287
+3408	Škultéty Adam	st., neb	1	313,380,537,540
+3408	Škultéty Adam	Šebeň, neb	1	205,313,325,380,537,540
+3408	Škultéty Anna r. Bašková		1	137,141,145,146,174,175,177,179,185,188,189,323,384,464,526,530
+3408	Škultéty Dušan		1	278,325,524,525
+3408	Škultéty Igor, Dr.		1	278,325,524,525
+3408	Škultéty Ján		1	278,325,524,525
+3408	Škultéty Jozef	D 29/38,k.ú.Kšinná	1	392
+3408	Škultéty Matúš	pk, neb., zomrel v USA	1	278,524,525
+3408	Škultéty Michal	Kasnika, neb	1	205,313,537,540
+3408	Škultéty Michal	pk	1	205,313,325,380,537,540
+3408	Škultéty Michal	po Michalovi Hudecovi /Škultéty/	1	137,141,145,146,174,175,177,179,185,188,189,322,464,526,530
+3408	Škultéty Ondrej	Ondrka	1	185
+3408	Škultéty Ondrej	pk, po Michalovi Hudecovi /Škultéty/	1	137,141,145,146,174,175,177,179,185,188,189,464,526,530
+3408	Škultéty Štefan	neb	1	249,250,252,257,287,379,397,412,485,486,539
+3408	Škultéty Štefan	otec Štefan	1	205,313,325,380,537,540
+3408	Škultétyová Alžbeta r. Filová	neb	1	199,289,317,328,330,331,437,438,522,543
+3408	Škultétyová Alžbeta r. Sečanská	neb	1	160,200,347
+3408	Škultétyová Anna r. Kopčanová	neb	1	159,166,259,527,528
+3408	Škultétyová Anna r. Škultétyová	slob., po Matejovi	1	205,313,325,380,537,540
+3408	Škultétyová Anna r. Švelková		1	205,313,380,537,540
+3408	Škultétyová Eva r. Škultétyová	pk	1	205,313,325,380,537,540
+3408	Škultétyová Ľudmila r. Tomašková	neb	1	278,325,524,525
+3408	Škultétyová Mária	pk, po Michalovi Hudecovi /Škultéty/	1	137,141,145,146,174,175,177,179,185,188,189,464,526,530
+3408	Škultétyová Zuzana r. Filová		1	327,362
+3408	Škultétyová Zuzana r. Škultétyová	po Michalovi Hudecovi /Škultéty/	1	137,141,145,146,174,175,177,179,185,188,189,464,526,530
+3408	Švelka Milan	pk	1	400
+3408	Švelková Mária r. Švelková		1	400
+3408	Tlkancová Anna r. Mišinová	pk	1	400
+3408	Tlkancová Rozália r. Tlkancová		1	400
+3408	Tlkancová Zuzana r. Škorcová	vdova	1	400
+3408	Tlkanec Ján	pk, po Adamovi	1	400

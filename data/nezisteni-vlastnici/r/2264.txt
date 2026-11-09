@@ -1,0 +1,256 @@
+1301	Naršanská Mária r. Kašperová		1	573,666,793,1411,1486,1639,1826,1828
+1301	Naršanská Rozália r. Tlumáčová	Imrichova	1	793,1639
+1301	Ňaršanská Viera		0	627
+1301	Naršanský Andrej	vl.č.400	0	1640
+1301	Naršanský Ján	manž.Mária rod.Gregová	1	1639
+1301	Naršanský Ján	ž.Mária r. Gregová	0	793,1503
+1301	Naršanský Mária r. Kašper		0	600,1825
+1301	Ňaršanský Miroslav		0	627
+1301	Ňaršanský Miroslav Ing.		0	627
+1301	Naršanský Ondrej	nezlet., vl.č.400	0	1640
+1301	Naršanský Ondrej	po Jánovi	1	793,1503,1639
+1301	Ňaršanský Ondrej		0	627
+1301	Ňaršansky Rozália r. Tlumáč		0	1037
+1301	Novysedláková Anna r. Prokopová		1	793,1639
+1301	Novysedláková Katarína r. Prokopová	v Košických Hámroch	1	793,1639
+1301	Nožková Margita r. Hozová	Leninova 321,73581 Nový Bohumín,ČR	0	1428
+1301	Olexyová Mária r. Koľveková		1	793,845,1639
+1301	Oľha Ján		0	1467
+1301	Oľha Juraj		0	1467
+1301	Oľha Michal		0	1467
+1301	Pačanská Anna r. Koľveková		1	1639
+1301	Pačanská Anna r. Koľveková	Jurajova	1	793,1240,1346,1639,1796,1797
+1301	Pačanská Anna r. Koľveková	v Koš.Hámroch č.99, tit.dedenia z 20.3.1944, č.d.317	0	793
+1301	Pačansky Anna r. Koľvek		0	927,971
+1301	Pačanský Ján	manž.Katarína rod.Plichtová	0	1639
+1301	Pačanský Ján	ž.Katarína r.Plichtová	0	793
+1301	Palichová Katarína r. Margecanská		1	1639
+1301	Palichová Katarína r. Margecanská	vl.č.370, vl.č.17	0	793,1403,1409,1642
+1301	Parganská Anna	mal. po Jánovi	0	1461,1462,1677
+1301	Parganská Anna	malol. po Jurajovi	0	793,1461,1462,1677
+1301	Parganská Anna	maloletý po Jurajovi	1	1639
+1301	Parganská Júlia r. Farkašová	Jánova	1	793,1639
+1301	Parganská Ľudmila	malol	0	793,1461,1462,1677
+1301	Parganská Ľudmila	maloletá	1	1639
+1301	Parganský Anna, malol.	po Jurajovi	0	741
+1301	Parganský František		0	1461,1462,1677
+1301	Parganský Ján	ž.Júlia r. Farkašová	0	1461,1462,1677
+1301	Parganský Ľudmila	malol	0	741
+1301	Pénteková Anna r. Marjáková	Jánova	1	793,1639
+1301	Petková Mária	Marjáková	1	793,1639
+1301	Peťková Mária r. Marjáková	Michalova	1	793,1639
+1301	Pintiková Anna	Marjáková	1	793,1639
+1301	Pitrová Anna r. Kašperová	Antonova	1	793,1639
+1301	Plichcik Ján		0	966
+1301	Plichcík Michal		0	815,1700,1705,1731
+1301	Plichcík Michal	manž.Katarína rod.Tomašová	1	1639
+1301	Plichcík Michal	ž.Katarína r.Tomašová	0	793,1264,1265,1496,1510,1537
+1301	Plichciková Katarína r. Tomašová	m.Michal	0	793,1496,1510
+1301	Plichciková Katarína r. Tomašová	manž.Michal	1	1639
+1301	Plichciková Katarína r. Tomašová	manžel Michal	1	1639
+1301	Plichcíková Mária r. Bardárová		1	1639
+1301	Plichcíková Mária r. Bardárová	tit.ded.7.8.1950,č.d.3073	0	793
+1301	Plichta Anton		1	793,1125,1417,1418,1419,1420,1422,1639
+1301	Plichta František		1	1125,1639
+1301	Plichta František	maloletý	0	1636
+1301	Plichta František	tit.dedenia zo 7.3.1952, č.d.357	0	793,1417,1418,1419,1420,1422
+1301	Plichta Jakub		1	793,1125,1417,1418,1419,1420,1422,1639
+1301	Plichta Ján		1	1639
+1301	Plichta Ján	manž.Alžbeta rod.Kažimirová	1	1639
+1301	Plichta Ján	maž.Katarína rod.Bernátová	1	1639
+1301	Plichta Ján	vl.č.358	0	793
+1301	Plichta Ján	ž.Alžbeta r. Kažimirová	0	793,1417,1418,1419,1420,1422
+1301	Plichta Ján	ž.Katarína r. Bernátová	0	793
+1301	Plichta Ján	ž.Katarína r.Jergová	0	1417,1418,1419,1420
+1301	Plichta Ján r. Plichta a Katarína Plichtová r. Jergová		0	1417,1418,1419,1420
+1301	Plichta Jozef		1	793,1125,1417,1418,1419,1420,1422,1639
+1301	Plichta Juraj		1	793,1125,1422,1639
+1301	Plichta Juraj	maloletý	1	1639
+1301	Plichta Juraj	manž.Anna rod.Krajníková	1	1639
+1301	Plichta Juraj	nezlet., vl.č.358	0	793
+1301	Plichta Juraj	syn Andreja	1	1639
+1301	Plichta Juraj	syn Andreja, vl.č.358	0	793
+1301	Plichta Juraj	ž.Anna r.Krajník	0	1125
+1301	Plichta Juraj	ž.Anna r.Krajníková	0	793,1417,1418,1419,1420,1422
+1301	Plichta Ondrej		1	793,1448,1537,1639
+1301	Plichta Žofia		0	1125
+1301	Plichtová Mária	maloletá	0	1636
+1301	Plichtová Mária r. Findorjaková	po Jánovi	1	1639
+1301	Plichtová Mária r. Findorjaková	po Jánovi, tit.ded.z 19.03.1917 čd.1048	0	793
+1301	Plichtová Mária r. Zariková	manžel Ján	1	793,1509,1588,1639
+1301	Plichtová Žofia		1	793,1417,1418,1419,1420,1422,1639
+1301	Prokop František	v Protektoráte	1	793,1639
+1301	Prokop Jozef		1	1639
+1301	Prokop Jozef	tit.dražob.kúpy zo 17.7.1936,č.d.8584	0	793,1641
+1301	Prokop Jozef	v Protektoráte	1	793,1639
+1301	Prokop Jozef	ž.Mária r.Kupcová	0	1626
+1301	Prokop Jozef r. Prokop		0	11
+1301	Prokop Štefan		1	793,1639
+1301	Radačovská Helena r. Lörincová		0	1084
+1301	Raguľská Anna r. Tomaškovičová		1	793,1270,1639
+1301	Rašiová Katarína r. Adamčíková		0	793,1601
+1301	Reguľská Anna r. Tomaškovič		0	825
+1301	Rótová Mária r. Gottfriedová	Jurajova	1	793,1639
+1301	Ruščák Anton		0	1084,1085
+1301	Ruščák František		0	1433
+1301	Ruščák Jozef		0	1084,1085
+1301	Ruščák Juraj		0	793,1076
+1301	Ruščák Ondrej		0	722
+1301	Ruščák Ondrej	po Jurajovi	1	793,1433,1639
+1301	Ruščák Ondrej r. Ruščák		0	721
+1301	Ruščáková Anna		0	721,722
+1301	Ruščáková Anna	po Jurajovi	1	793,1433,1639
+1301	Ruščáková Anna r. Adamčiková		0	722
+1301	Ruščáková Anna r. Adamčiková	vdova po Jurajovi	1	793,1639
+1301	Ruščáková Katarína		0	721,722
+1301	Ruščáková Katarína	po Jurajovi	1	793,1233,1433,1639
+1301	Ruščáková Mária		0	721,722
+1301	Ruščáková Mária	po Jurajovi	1	793,1433,1639
+1301	Rzuhovský Anton	zom.18.3.2001 zom.18.3.2001	1	1657
+1301	Rzuchovská Rozália r. Tomaškovičová	po Jurajovi	1	793,1639
+1301	Sedláčeková Mária		0	1410,1557
+1301	Sedláčková Mária r. Kašperová	Michalova	1	793,1639
+1301	Sofják Ján	syn Janov	1	793,921,1317,1639,1765
+1301	Sofjak Katarína		0	921,1765
+1301	Sofjak Mária		0	921,1765
+1301	Sofjaková Katarína		1	793,1639
+1301	Sofjáková Mária		1	793,1639
+1301	Straková Margita r. Záriková	vl.č.170	0	1505
+1301	Šelemba Jozef		0	1429
+1301	Šelembová Ema	mal	0	1429
+1301	Šelembová Katarína		0	1429
+1301	Šipoltová Anna r. Gregová	Markusová	1	793,1639
+1301	Štefuhová Katarína r. Marenčíková		0	41
+1301	Štefuková Katarína r. Marenčiková		1	793,1417,1418,1419,1420,1599,1639
+1301	Štegenová Anna r. Ruščáková		0	1084,1085
+1301	Tlumáč Alžbeta		0	1037
+1301	Tlumáč Andrej		1	793,1639
+1301	Tlumáč Andrej	tit.ded. z 30.11.1951,č.d.2975 vl.č.294,296	0	1595
+1301	Tlumáč František		1	1639
+1301	Tlumáč František	mal	0	793,1037
+1301	Tlumáč František	maloletý	1	1639
+1301	Tlumáč František	tit.ded. z 30.11.1951,č.d.2975 vl.č.294,295	0	793
+1301	Tlumač Jozef	manž. Rozália r. Plichtová	0	793
+1301	Tlumač Jozef	manž.Rozália rod.Plichtová	1	1639
+1301	Tlumáč Katarína		0	1037
+1301	Tlumáč Ondrej		0	1037
+1301	Tlumáč Ondrej	manž.Mária rod.Šelléngová	1	1639
+1301	Tlumáč Ondrej	ž. Mária Šelléngová	0	793
+1301	Tlumáčová Alžbeta		1	793,1639
+1301	Tlumáčová Alžbeta r. Tlumáčová	tit.ded. z 30.11.1951,č.d.2975 vl.č.294,296	0	1595
+1301	Tlumáčová Katarína		1	793,1639
+1301	Tlumačová Mária, Košická Belá 2, Košická Belá, PSČ 044 65, SR		0	793,1639
+1301	Tomaskovičová Mária	dcéra Jánova tit.ded. cj.6258/23	0	793
+1301	Tomaškovič Alžbeta		0	825
+1301	Tomaškovič Andrej		1	793,1639
+1301	Tomaškovič Andrej	manž.Anna rod.Koľveková	1	1639
+1301	Tomaškovič Andrej	zomrel 31. 12. 1974, ž.Anna r.Kostelníková,vl.č.255-B4, vl.2	0	1617
+1301	Tomaškovič Andrej	ž.Anna r.Koľveková, tit.kúpy 28.4.1936, č.d.5498	0	793
+1301	Tomaškovič Andrej	ž.Anna r.Koľveková, tit.kúpy 28.4.1936, č.d.5498; ž.Anna r.Koľveková, tit.kúpy 28.4.1936, č.d.5498	0	1617
+1301	Tomaškovič Andrej r. Tomaškovič		0	780
+1301	Tomaškovič Anna		0	825
+1301	Tomaškovič František		0	1466
+1301	Tomaškovič František	maloletý	1	1639
+1301	Tomaškovič František	nezlet	0	793
+1301	Tomaškovič Ján	manž.Mária rod.Plichcíková	1	1639
+1301	Tomaškovič Ján	ž.Elena	0	1410,1536
+1301	Tomaškovič Ján	ž.Mária r.Plichcíková	0	793,1510
+1301	Tomáškovič Jozef r. Tomáškovič	ž.Anna r.Tlumačová	0	793
+1301	Tomaškovič Margita	malol	0	825
+1301	Tomaškovič Mária		0	825
+1301	Tomaškovič Ondrej		0	865
+1301	Tomaškovič Ondrej	manž.Anna rod.Kostelníková	1	1639
+1301	Tomaškovič Ondrej	po Jurajovi po Jurajovi	1	1657
+1301	Tomaškovič Ondrej	ž.Anna r.Kostelníková	0	793
+1301	Tomaškovičová Alžbeta		1	793,1270,1639
+1301	Tomaškovičová Alžbeta	po Jurajovi po Jurajovi	1	1657
+1301	Tomaškovičová Anna		1	1639
+1301	Tomaškovičová Anna	dcéra Jánova	1	781,793,1639
+1301	Tomaškovičová Anna	po Jurajovi po Jurajovi	1	1657
+1301	Tomaškovičová Anna	tit.dedenia z 28.5.1942, č.d.1112 vl.č.172	0	793
+1301	Tomaškovičová Anna r. Jergová		0	1538
+1301	Tomaškovičová Anna r. Koľveková		0	780
+1301	Tomaškovičová Anna r. Koľveková	m.Andrej, tit.kúpy 28.4.1936, č.d.5498	0	793,1617
+1301	Tomaškovičová Anna r. Koľveková	manžel Andrej	1	1639
+1301	Tomaškovičová Anna r. Prokopová	vd.,vl.494	0	1479
+1301	Tomaškovičová Anna r. Tomaškovičová		0	781
+1301	Tomaškovičová Anna r. Tomaškovičová	Jánova	1	1639
+1301	Tomaškovičová Anna r. Tomaškovičová	Jánova, tit.ded.c 6258/23	0	793
+1301	Tomaškovičová Katarína	dcéra Jánova	1	781,1639
+1301	Tomaškovičová Katarína	dcéra Jánova tit.ded. cj.6258/23	0	793
+1301	Tomaškovičová Katarína	po Jurajovi po Jurajovi	1	1657
+1301	Tomaškovičová Margita	malol	0	793
+1301	Tomaškovičová Margita	maloletá	1	1639
+1301	Tomaškovičová Mária		1	793,1270,1639
+1301	Tomaškovičová Mária	dcéra Jánova	1	781,1639
+1301	Tomková Katarína r. Lenárdová		0	1542
+1301	Tormáši Ján		1	668,793,1639
+1301	Tormáši Ján	manž.Mária rod.Janoščáková	1	1639
+1301	Tormáši Ján	ž.Mária r.Janoščáková	0	793,1501
+1301	Tormáši Ján r. Tormáši		0	1486,1828
+1301	Urbančík Štefan r. Urbančík		0	793
+1301	Urbanský Ján		0	795,1449,1450,1777
+1301	Urbanský Ján	Košická Belá 73	0	1258,1280
+1301	Urbanský Ján r. Urbanský, Košická Belá 73, Košická Belá, PSČ 044 65, SR		0	853,1165
+1301	Urbanský Ján, Košická Belá 73, Košická Belá, PSČ 04465, SR		0	797,1778
+1301	Urbanský Štefan, Košická Belá 61, Košická Belá, PSČ 044 65, SR		0	795,1777
+1301	Urbaristi Košickej Belej		0	1401
+1301	Valenčík Štefan		1	793,1639
+1301	Veiserová Katarína r. Sedlačeková		0	1557,1559
+1301	Volčanová Barbora		1	793,1639
+1301	Volčánová Barbora r. Marjáková	Jánova	1	793,1639
+1301	Volčanová Helena r. Prokopová		1	793,1639
+1301	Zánik Juraj	po Jurajovi	0	882
+1301	Zárik Andrej		0	795,797,853,1258,1777,1778
+1301	Zárik Andrej	Košická Belá 49	0	1258
+1301	Zárik Andrej r. Zárik		0	1165
+1301	Zárik Andrej, Košická Belá 49, Košická Belá, PSČ 04465, SR		0	797,1778
+1301	Zárik Anna		0	1048,1049
+1301	Zárik František Ing.		0	1264,1265,1537
+1301	Zárik František r. Zárik		0	706
+1301	Zárik František, Ing.		0	1700
+1301	Zárik Juraj	vl.č.170	0	1505
+1301	Zárik Ondrej	manž.Katarína rod.Drábiková	1	1639
+1301	Zárik Ondrej	ž.Anna r. Lukáčová	0	1551
+1301	Zárik Ondrej	ž.Katarína r.Drábiková	0	793
+1301	Záriková Alžbeta r. Ferencová	vl.č.468	0	1589
+1301	Záriková Anna		0	900
+1301	Záriková Anna r. Kandráčová		1	793,1639
+1301	Záriková Barbora r. Margecanská	m.Ondrej	0	1505,1589
+1301	Záriková Mária r. Drábiková		1	793,1639
+1301	Záriková Mária r. Koľveková		1	793,1639
+1301	Zaušková Mária r. Hozová	Partizánska 8,04001 Košice	0	1428
+1302	Adamčik Ján	manž.Alžbeta Kandráčová	0	1529,3197
+1302	Adamčíková Alžbeta r. Kandračová	manž.Ján	0	1529,1798,3197
+1302	Adamčíková Alžbeta r. Kandráčová		0	466,631
+1302	Adamčó Jozef		0	3326
+1302	Andrejková Anna r. Kováčová		0	1294,3856
+1302	Antoliková Anna r. Balázsová	manž.Ján	0	1410,1798,3290
+1302	Babuščák Mária r. Kapušanská		0	1798
+1302	Bajerová Anna r. Lengyelová	Polaček,manž.Peter	0	3347
+1302	Balázs Ján/žen. s Máriou Balasz/ /žen. s Máriou Balasz/		0	1406
+1302	Baláž Ján	manž.Mária Balážová	0	3322
+1302	Baláž Ján	Matyó	0	1294,3856
+1302	Baláž Ján	Matyó,ml	0	1294,3856
+1302	Baláž Juraj		0	1798
+1302	Baláž Michal		0	1294,3856
+1302	Baláž Michal	manž.Alžbeta r.Urbánová	0	1294,3856
+1302	Baláž Ondrej		0	1294,3856
+1302	Baláž Ondrej	Matyó,manž.Alžbeta r.Bodová	0	1294,3856
+1302	Baláž Štafan	mal	0	1798
+1302	Balážová Alžbeta r. Bodová	manž.Ondrej	0	1294,3856
+1302	Balážová Alžbeta r. Czihiová	manž.Štefan	0	1294,3856
+1302	Balážová Anna r. Iľková	manž.Jozef	0	3225,3260
+1302	Balážová Mária r. Bortáková		0	1294,3241,3856
+1302	Balážová Mária r. Gergelyová		0	1294,3856
+1302	Balážová Mária r. Horváthová		0	1700
+1302	Balážová Mária r. Klapková	manž.Ondrej	0	1294,1670,1671,2172,3322,3856
+1302	Bálintová Alžbeta r. Nagyová	vd	0	2074
+1302	Bálintová Anna		0	3306
+1302	Balkóová Katarína r. Dancáková	manž.Michal	0	3320
+1302	Balková Anna r. Štefančiková	manž.Jozef	0	1215,1615,1616,1726,1730,1734,1735,1964,2031,3338,3373,3623
+1302	Balková Helena r. Puškášová		0	3224
+1302	Beličák Ján		0	1294,1684,3856
+1302	Beličák Ján	manž.Katarína r.Horváthová	0	1294,3142,3245,3856
+1302	Beličák Ondrej		0	1294,3856
+1302	Beličáková Katarína r. Horváthová	manž.Ján	0	1294,3245,3856

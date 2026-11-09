@@ -1,0 +1,256 @@
+3283	REVAK Peter	syn Andreja	1	140,144,444,647,648,660,662,698,700,715,720,789,791,1389
+3283	Revák Peter		0	804,810,813,822,828,830,1007,1364
+3283	REVAK Peter, SR		1	785
+3283	REVAK Teodor		1	144,648,698,700,715,720,804,810,813,822,830,1245,1364,1389
+3283	REVAK Teodor, SR		1	785
+3283	REVAK Vasiľ	ž.Helena r.Halušková	1	140,144,444,647,648,660,662,698,700,715,720,789,791,1389
+3283	Revák Vasiľ		0	804,810,813,822,828,830,1231,1364
+3283	REVAK Vasil, SR		1	785
+3283	REVAKOVÁ Anastázia		1	140,444,685,698,715,789,804,810,813,822,830,837,1318,1364,1389
+3283	REVAKOVÁ ANASTAZIA /MAL./		0	720
+3283	REVAKOVÁ Anastázia, SR		1	785
+3283	REVAKOVÁ Anna		1	698,715,720,804,810,813,822,830,1284,1364,1389
+3283	REVAKOVÁ Anna, SR		1	785
+3283	REVAKOVÁ Eva		1	698,715,804,810,813,815,822,830,1364,1389
+3283	REVAKOVÁ Eva	r.Zelinková	1	685
+3283	REVAKOVÁ EVA /MAL./		0	720
+3283	Reváková Eva r. Zelinková		0	837,1173
+3283	REVAKOVÁ Eva, SR		1	785
+3283	REVAKOVÁ Helena	r.Slivková	1	700
+3283	REVAKOVÁ Helena r. Slivková		1	144,1015
+3283	REVAKOVÁ Ilona		1	698,804,810,813,822,830,878,1364,1389
+3283	REVAKOVÁ Ilona	r.Kačurová	1	660,662
+3283	REVAKOVÁ Ilona	r.Prigancová	1	682,685
+3283	REVAKOVÁ Ilona r. Kačurová		1	444,789,828,1258
+3283	Reváková Ilona r. Prigancová		0	837,863
+3283	REVAKOVÁ Ilona, SR		1	785
+3283	Reváková Margita r. Gojdičová		0	815
+3283	REVAKOVÁ Mária		1	698,715,804,810,813,815,822,830,1364,1389
+3283	REVAKOVÁ MÁRIA /MAL./		0	720
+3283	REVAKOVÁ Mária, SR		1	785
+3283	Rohaľ Alojz, maloletý maloletý		0	804,810,813,822,830,951,1364
+3283	ROHAĽ Andrej		1	181,301,728,739
+3283	ROHAĽ Andrej	2	1	650,652
+3283	ROHAĽ Andrej	6	1	644,650,652,685,686,698,699,710,716,1389
+3283	ROHAĽ Andrej	zomrel,D 1590/92	1	653
+3283	ROHAĽ Andrej	ž.Mária r.H	1	690
+3283	Rohaľ Andrej, manž.Mária r.Hoptová,syn Andrej 21.10.1930 manž.Mária r.Hoptová,syn Andrej 21.10.1930		0	801,804,810,813,822,830,837,856,1364
+3283	ROHAĽ Andrej, SR		1	785
+3283	Rohaľ Andrej, Volica, č. 70, SR		0	739
+3283	ROHAĽ Fedor	2	1	644,674,685,698,699,1389
+3283	ROHAĽ FEDOR		1	301,650,652,728
+3283	Rohaľ Fedor, mladší mladší		0	801,804,810,813,822,830,837,1292,1364,1382
+3283	ROHAĽ Fedor, SR		1	785
+3283	Rohaľ Fedor, starší,súrodenci Ján a Andrej starší,súrodenci Ján a Andrej		0	816
+3283	Rohaľ Gustáv, Bajzová 15, 01001 Žilina Bajzová 15, 01001 Žilina		0	885
+3283	ROHAĽ Ján		1	263,282,644,685,686,698,699,716,739,1389
+3283	ROHAĽ Ján	1	1	653
+3283	ROHAĽ Ján	2	1	650,652
+3283	Rohaľ Ján, brat Fedor st. a Andrej brat Fedor st. a Andrej		0	804,810,813,822,830,837,1146,1364,1382
+3283	ROHAĽ Ján, SR		1	785
+3283	Rohaľ Juraj		1	739
+3283	ROHAĽ Ondrej		1	674
+3283	ROHAĽ Peter		1	282,685,698,804,810,813,822,830,837,1055,1364,1389
+3283	ROHAĽ PETER, SR		1	785
+3283	Rohaľ Teodor		0	810
+3283	ROHAĽ Teodor	1	1	649
+3283	ROHAĽ Tivadar		1	644,698,716,804,810,813,816,822,830,1364,1389
+3283	ROHAĽ Tivadar, SR		1	785
+3283	Rohaľ Valdimír		0	804,810,813,822,830,1020,1364
+3283	Rohaľ Vladimír		0	785
+3283	ROHAĽOVÁ Alena	r.Firkaľova Januchová	1	644,699
+3283	ROHAĽOVÁ ALENA r. FIRKAĽOVÁ Januchová		1	301,674,685,728,801,804,810,813,822,830,837,1126,1364
+3283	ROHAĽOVÁ Alena r. Firkalova Januchová, SR		1	785
+3283	Rohaľová Alena r. Firkaľova- Januchová		1	716
+3283	Rohaľová Alena r. Firkaľova-Januchová		1	698,1389
+3283	Rohaľová Anastázia	Nasťa	0	801,804,809,810,813,822,830,837,1246,1364
+3283	ROHAĽOVÁ Anna		1	304,698,790,804,810,813,822,830,834,1364,1389
+3283	ROHAĽOVÁ Anna	dcéra Andreja	1	650,652
+3283	ROHAĽOVÁ Anna	r.Krivaková	1	698,1389
+3283	Rohaľová Anna r. Krivaková		0	804,810,813,822,830,1147,1364
+3283	ROHAĽOVÁ Anna r. Krivaková, SR		1	785
+3283	Roháľová Anna r. Kuchtová		0	23
+3283	Rohaľová Anna r. Rohaľová		0	866
+3283	ROHAĽOVÁ Anna, SR		1	785
+3283	ROHAĽOVÁ Eva		1	282,301,728,801,804,810,813,822,827,830,837,930,1364
+3283	ROHAĽOVÁ Eva	1	1	644,674,685,698,699,716,1389
+3283	ROHAĽOVÁ Eva	r.Gojdičová	1	671,672,698,1389
+3283	ROHAĽOVÁ Eva	r.Chaľová	1	698,1389
+3283	Rohaľová Eva r. Gojdičová		0	804,810,813,822,830,1364
+3283	ROHAĽOVÁ Eva r. Gojdičová, SR		1	785
+3283	Rohaľová Eva r. Chaľová		0	804,810,813,822,830,853,1364
+3283	ROHAĽOVÁ Eva r. Chaľová, SR		1	785
+3283	ROHAĽOVÁ Eva, SR		1	785
+3283	ROHAĽOVÁ Helena		1	181,282,409,412,415,644,650,652,685,698,699,716,788,804,810,813,822,830,837,1257,1364,1382,1389
+3283	ROHAĽOVÁ Helena	r.Firkaľová	1	688,778
+3283	Rohaľová Helena r. Firkaľová, manžel Michal, syn Michal nar. 23.7.1912 manžel Michal, syn Michal nar. 23.7.1912		0	1346
+3283	ROHAĽOVÁ Helena, SR		1	785
+3283	ROHAĽOVÁ Iľa	r.Firkaľová	1	685
+3283	ROHAĽOVÁ IĽA r. FIRKAĽOVÁ		1	349,776,831,837,1224
+3283	ROHAĽOVÁ Iľa r. Firkaľová, SR		1	472
+3283	ROHAĽOVÁ Ilona	r.Revaková	1	698,1389
+3283	ROHAĽOVÁ Ilona r. Koniková		1	412,415
+3283	Rohaľová Ilona r. Revaková		0	804,810,813,822,830,1362,1364
+3283	ROHAĽOVÁ Ilona r. Revaková, SR		1	785
+3283	ROHAĽOVÁ Júlia		1	644,716,816
+3283	Rohaľová Magda		0	785
+3283	Rohaľová Magdalena	Magda	0	804,810,813,822,830,1002,1364
+3283	ROHAĽOVÁ Magdaléna		1	181
+3283	ROHAĽOVÁ Mária	r.Chaľová	1	644,698,716,1389
+3283	ROHAĽOVÁ MÁRIA		1	728
+3283	Rohaľová Mária r. Baranová, sestry Ilona a Anna sestry Ilona a Anna		0	801,804,810,813,822,827,830,837,1008,1364
+3283	Rohaľová Mária r. Chaľová		0	804,810,813,822,830,957,1364
+3283	ROHAĽOVÁ Mária r. Chaľová, SR		1	785
+3283	ROHAĽOVÁ Mária, SR		1	785
+3283	ROHAĽOVÁ NASŤA		1	301,644,674,685,698,699,716,728,1389
+3283	ROHAĽOVÁ Nasťa, SR		1	785
+3283	Rudik Andrej, syn Ivana syn Ivana		0	814
+3283	Rudík Michal		0	1376
+3283	Rudik Štefan		0	1327
+3283	Rudiková Anna, dcéra Ivana dcéra Ivana		0	814
+3283	RUDIŠINOVÁ Anna	r.Hlohincová	1	685
+3283	RUDIŠINOVÁ Anna r. Hlohincová		1	422,837,1232
+3283	Salak Andrej, manželka Eva Salaková manželka Eva Salaková		0	811
+3283	Salak Andrej, manželka Mária Revaková manželka Mária Revaková		0	811
+3283	Salak Andrej, sestry Helena a Mária sestry Helena a Mária		0	811
+3283	Salak Fedor, manželka Eva Kohutová manželka Eva Kohutová		0	1335
+3283	Salak Ivan, manželka Helena Prigancová manželka Helena Prigancová		0	811
+3283	Salak Ján, súrodenci maloleté Mária a Eva, Štefan, Michal súrodenci maloleté Mária a Eva, Štefan, Michal		0	811
+3283	Salak Juraj		0	811
+3283	Salák Michal, súrodenci maloleté Mária a Eva, Ján, Štefan súrodenci maloleté Mária a Eva, Ján, Štefan		0	1124
+3283	Salak Mikuláš		0	912
+3283	Salak Štefan, súrodenci maloleté Mária a Eva, Ján, Michal súrodenci maloleté Mária a Eva, Ján, Michal		0	811
+3283	Salaková Anna r. Gašparová		0	1362
+3283	Salaková Eva		0	785,804,810,813,822,830,1269,1364
+3283	Salaková Eva, maloletá, sestra Mária maloletá v roku 1943 maloletá, sestra Mária maloletá v roku 1943		0	811
+3283	Salaková Helena r. Beňová		0	811
+3283	Saláková Helena r. Lechorová		0	814
+3283	Salaková Helena, súrodenci Andrej a Mária súrodenci Andrej a Mária		0	1152
+3283	Salaková Mária r. Petrová		0	811
+3283	SALÁKOVÁ Mária r. Revaková		1	140
+3283	Salaková Mária, maloletá, sestra Eva maloletá v roku 1943 maloletá, sestra Eva maloletá v roku 1943		0	811
+3283	Salaková Mária, súrodenci Andrej a Helena súrodenci Andrej a Helena		0	1290
+3283	SEJKOVÁ Anna	r.Krutilová	1	698,707,1389
+3283	Sejková Anna r. Krutilová		0	804,810,813,822,830,1159,1364
+3283	SEJKOVÁ Anna r. Krutilová, SR		1	785
+3283	Serdula Ján		0	1151
+3283	SIJKA Ján		1	698,804,810,813,822,830,859,1364,1389
+3283	SIJKA Ján, SR		1	785
+3283	SIJKA Michal		1	698,1389
+3283	Sijka Michal, mladší,manželka Eva Gabačová mladší,manželka Eva Gabačová		0	1360
+3283	SIJKA Michal, SR		1	785
+3283	Sijka Michal, starší starší		0	804,810,813,822,830,980,1364
+3283	SIJKA Peter, SR		1	785
+3283	SIJKOVÁ Anna	dcéra Michala	1	685,686,739
+3283	Sijková Anna, dcéra Michala dcéra Michala		0	837,1268
+3283	SIJKOVÁ Katarína	r.Chaľová	1	698,1389
+3283	SIJKOVÁ Katarína r. Chaľová		1	181,804,810,813,822,830,965,1364
+3283	SIJKOVÁ Katarína r. Chaľová, SR		1	785
+3283	SIJKOVÁ Mária	dcéra Michala	1	685,686,739
+3283	Sijková Mária, dcéra Juraja dcéra Juraja		0	816
+3283	Sijková Mária, dcéra Michala dcéra Michala		0	837,1186
+3283	Sistej Andrej		0	1206
+3283	SOBKĚVIČOVÁ Eva, Náměstí 8, Rokytnice n/Jizerou, PSČ 512 44, SR		1	698,1389
+3283	SOBKĚVIČOVÁ EVA, Náměstí 8, ROKYTNICE Nad JIZEROU, PSČ 512 44, SR		1	301,728
+3283	SOLEJOVÁ Anna r. Fedorcová		0	706
+3283	SOTÁK Andrej	Volica	1	698,1389
+3283	Soták Andrej, manželka Mária,zomrela 27.3.1992,Volica 98 manželka Mária,zomrela 27.3.1992,Volica 98		0	1360
+3283	SOTAK Andrej, Volica, SR		1	785
+3283	Soták Eliaš		0	1362
+3283	SOTÁK Michal	ž.Mária r.Beňová	1	414
+3283	Soták Mitro, manželka Helena Sotáková manželka Helena Sotáková		0	959
+3283	Soták Vladimír, súrodenci Andrej starší a Izidor, Valentovce 7, 06701 súrodenci Andrej starší a Izidor, Valentovce 7, 06701		0	1360
+3283	Sotáková Anna		0	1360
+3283	SOTÁKOVÁ Anna	r.Hlohincová	1	659,698,1389
+3283	SOTÁKOVÁ Anna	r.Reváková	1	685,698,1389
+3283	Sotáková Anna r. Hlohincová		0	804,810,813,822,830,1273,1364
+3283	SOTAKOVÁ Anna r. Hlohincová, SR		1	785
+3283	SOTÁKOVÁ Anna r. Reváková		1	140,444,789,804,810,813,818,822,830,837,1201,1364,1379
+3283	SOTAKOVÁ Anna r. Revaková, SR		1	785
+3283	SOTÁKOVÁ Iľa	r.Chripaková	1	659,698,1389
+3283	Sotáková Iľa r. Chripaková		0	804,810,813,822,830,986,1364
+3283	SOTAKOVÁ Iľa r. Chripaková, SR		1	785
+3283	SOTÁKOVÁ Mária r. Beňová		1	414
+3283	Sotaková Mária r. Chaľová, m.Andrej str.,zomrela 27.3.1992,Volica 98,syn Andrej ml.1957 m.Andrej str.,zomrela 27.3.1992,Volica 98,syn Andrej ml.1957		0	972
+3283	SPILKA Ivan		1	698,719,804,810,813,822,830,963,1364,1389
+3283	SPILKA Ivan, SR		1	785
+3283	SR ŠK Správa, Medzilaborce, 06801, SR, č.d. 937/1941,pkv 51, IČO 31563171 Medzilaborce, 06801, SR, č.d. 937/1941,pkv 51, IČO 31563171, Zaniknutá právnicka osoba bez		0	1216
+3283	SUPINOVÁ Anna		1	659,698,804,810,813,822,830,1199,1364,1389
+3283	SUPINOVÁ Anna, SR		1	785
+3283	SUPINOVÁ Eva		1	698,804,810,813,822,830,1364,1389
+3283	SUPINOVÁ Eva, SR		1	785
+3283	SUPINOVÁ Ilona		1	659,698,804,810,813,822,830,1278,1364,1389
+3283	SUPINOVÁ Ilona, SR		1	785
+3283	SUPINOVÁ Mária		1	659,698,804,810,813,822,830,1000,1364,1389
+3283	SUPINOVÁ Mária, SR		1	785
+3283	ŠEMKO CHRIPAK Ján		1	683,698,804,810,813,822,830,837,1351,1364,1389
+3283	ŠEMKO CHRIPAK Ján	1	1	685
+3283	ŠEMKO CHRIPAK JÁN, SR		1	785
+3283	Škovran Ján		0	1376
+3283	Škovran Peter		0	821
+3283	ŠTEC FEDOR		0	671
+3283	ŠTEC MICHAL		0	671
+3283	TARHAN Ján		1	675,1069
+3283	TARHANOVÁ Mária r. Zelinková		1	314,471
+3283	TELEPČÁK Peter		1	181,804,810,813,822,830,1235,1364
+3283	TELEPČÁK Peter	1	1	698,1389
+3283	TELEPČAK Peter, SR		1	785
+3283	TELEPČÁKOVÁ Anna		1	181,804,810,813,822,830,1022,1364
+3283	TELEPČÁKOVÁ Anna	1	1	698,1389
+3283	TELEPČAKOVÁ Anna, SR		1	785
+3283	TELEPČÁKOVÁ Iľa	r.Chaľová	1	698,1389
+3283	Telepčaková Iľa r. Chaľová		0	804,810,813,822,830,949,1364
+3283	TELEPČAKOVÁ Iľa r. Chaľová, SR		1	785
+3283	TIMUĽAK Fedor		1	283,425,664,671,698,703,804,810,813,822,830,944,1364,1389
+3283	TIMUĽAK Fedor, SR		1	785
+3283	TIMUĽAK Ján	ž.Anna r.Rohaľová	1	671
+3283	TIMUĽAK Juraj		1	778,860
+3283	TIMUĽAK Michal	ž.Anna r.Doničová	1	686,739
+3283	Timuľak Michal, manželka Anna D. manželka Anna D.		0	1338
+3283	TIMUĽAK Vasiľ	ž.Eva r.B	1	698,1389
+3283	Timuľak Vasil, manželka Eva B. manželka Eva B.		0	804,810,813,822,830,1219,1364
+3283	TIMUĽAK Vasil, SR	M Eva B	1	785
+3283	TIMUĽAKOVÁ Anna	r.Teleptaková	1	685
+3283	Timuľaková Anna r. Doničová		0	892
+3283	Timuľaková Anna r. Teleptaková		0	837,1137
+3283	Timuľaková Anna r. Verlichajová		1	23,210,842
+3283	Timuľaková Mária		0	1238
+3283	Tkačín Fedor		0	1129
+3283	Torhan Ján, č.d. 2124/1912, Volica 32, 06701 Radvaň nad Laborcom č.d. 2124/1912, Volica 32, 06701 Radvaň nad Laborcom		0	804,810,813,822,830,837,873,1364
+3283	TORHAN Ján, Volica, č. 32, SR		1	685,698,785,1389
+3283	TORHAN Michal		1	661
+3283	TORHAN Tivadar		1	661,685,719,837,1094
+3283	Torhanová Anna		0	804,810,813,822,830,1241,1364
+3283	TORHANOVÁ Anna, SR		1	785
+3283	Torhanová Helena		0	785,804,810,813,822,830,1185,1364
+3283	TORHANOVÁ Ilona	r.Raková	1	679,685
+3283	Torhanová Ilona r. Raková		0	837,1287
+3283	TORHANOVÁ Mária	r.Zelinková	1	651
+3283	Torhanová Mária r. Zelinková, sestra Helena Firkaľová sestra Helena Firkaľová		0	810,1378
+3283	TOROK Ernest		1	283,425,657,664,702,703,1014
+3283	VAĽOVÁ Ilona	r.Spuščaková	1	698,1389
+3283	Vaľová Ilona r. Spuščaková		0	804,813,822,830,943,1364
+3283	VAĽOVÁ Ilona r. Spuščaková, SR		1	785
+3283	VARGOVÁ Helena r. Lipčiková		1	181,1359
+3283	VASKOVÁ Anna r. Morozová, SR		1	785
+3283	VAŠKO Michal		1	674,685,837,1286
+3283	VAŠKOVÁ Anna		1	654
+3283	VAŠKOVÁ Anna	dcéra Vasiľa	1	673,695,697
+3283	VAŠKOVÁ Anna	r.Morozová	1	664,698,703,1389
+3283	VAŠKOVÁ Anna r. Morozová		1	283,425,804,810,813,822,830,1060,1364
+3283	Vašková Anna, dcéra Vasiľa dcéra Vasiľa		0	867
+3283	Vašková Mária, dcéra Vasiľa dcéra Vasiľa		0	847
+3283	VERLICHAJ ANDREJ		1	709,710,1031
+3283	VERLICHAJ Fedor	Vzdialený	1	1389
+3283	VERLICHAJ Ján		1	694,710
+3283	VERLICHAJ Ján	ž.Helena r.Chaľová	1	263
+3283	Verlichaj Ján, bratia Fedor a Michal bratia Fedor a Michal		0	1131
+3283	VERLICHAJ Michal		1	28,694,698,709,1389
+3283	VERLICHAJ Michal	ž.Anna r.Sotáková	1	263
+3283	Verlichaj Michal, bratia Ján a Fedor bratia Ján a Fedor		0	804,810,813,822,830,1240,1364
+3283	VERLICHAJ Michal, SR		1	785
+3283	VERLICHAJ Teodor		1	710,1343
+3283	ZELINKA Andrej	ž.Helena r.Reváková	1	715
+3283	ZELINKA Fedor	syn Anny	1	651
+3283	Zelinka Fedor, syn Jána a Anny r. Rohaľová syn Jána a Anny r. Rohaľová		0	810,1378
+3283	ZELINKA Ján		1	685,698,714,1389

@@ -1,0 +1,4 @@
+u25		stk6
+u26		stue
+u27	khus	
+u29		noop

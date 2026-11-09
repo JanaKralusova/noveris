@@ -1,0 +1,256 @@
+3126	KOCIANOVÁ Emília	slobodná	1	2207,2499,2500,2502,2504,2886
+3126	KOCIANOVÁ Emília	slobodná; LSR	0	2501,2503
+3126	KOCIANOVÁ Františka	rod.Garajová	0	2499,2500,2501,2502,2503,2504,2886
+3126	KOCIANOVÁ Helena	rod.Cibiriová,man.Alojz	0	251,472,473,2165,2166,2730
+3126	KOCIANOVÁ Katarína	dcéra Alojza	1	2851
+3126	KOCIANOVÁ Mária	rod.Cmárová,man.Michal	0	2499,2500,2501,2502,2503,2504,2886
+3126	KOCIANOVÁ Mária	slobodná	1	3171
+3126	KONIAR Ondrej	manž.Petronela Viglaská	1	2553
+3126	Koniar Ondrej r. Koniar	manž. Petronela Víglaská	1	129
+3126	Koniarová Petronela r. Viglaská, Veľká Lehota 440, Veľká Lehota, PSČ 966 41, SR	manž. Ondrej	0	129
+3126	KONIAROVÁ Petronela r. Viglaská, Veľká Lehota 440, Veľká Lehota, PSČ 966 41, SR	man.Ondrej	0	327
+3126	Koniarová Petronela r. Víglaská, Veľká Lehota 440, Veľká Lehota, PSČ 966 41, SR		0	187
+3126	Koniarová Petronela r. Víglaská, Veľká Lehota 440, Veľká Lehota, PSČ 966 41, SR	man. Ondrej	0	188,2564
+3126	KUBIŠOVÁ Petronela	rod.Víglaská	0	2499,2500,2501,2502,2503,2504,2886
+3126	KUPČI Izidor	manž.Margita Číková	0	2499,2500,2501,2502,2503,2504,2886
+3126	KUPČI Ján	manž.Ružena Nutilová	1	454,2499,2500,2502,2504,2886
+3126	KUPČI Ján	manž.Ružena Nutilová; LSR	0	2501,2503
+3126	KUPČI Melicher	manž.Mária Barancová	0	2499,2500,2501,2502,2503,2504,2886
+3126	KUPČIOVÁ Margita	rod.Číková,manž.Izidor	0	600,2499,2500,2501,2502,2503,2504,2886
+3126	Kupčiová Margita r. Číková, 966 41, Veľká Lehota, č. 392, SR		0	1583,1873
+3126	Kupčiová Margita r. Číková, Veľká Lehota 392, Veľká Lehota, PSČ 966 41, SR		0	2274
+3126	Kupčiová Margita r. Číková, Veľká Lehota 392, Veľká Lehota, PSČ 966 41, SR	manž. Izidor	0	621
+3126	KUPČIOVÁ Veronika		0	2501
+3126	KUPČIOVÁ Veronika	rod.Bulková,manž.Šimon	1	2499,2500,2502,2504,2886
+3126	KUPČIOVÁ Veronika	rod.Bulková,manž.Šimon; LSR	0	2503
+3126	LUKÁČIK Ján		1	716
+3126	Lukáčik Ján r. Lukáčik		1	129
+3126	MÁNIK Benedik	manž.Paulína Kocianová	0	2499,2500,2501,2502
+3126	MÁNIK Ján	m.Zuzana Kocianová	0	792,2625
+3126	Mánik Ján, 966 41, Veľká Lehota, č. 308, SR		0	2087
+3126	MÁNIK Koloman	m.Katarína Šmondrková	0	2499,2500,2501,2502,2503,2504,2886
+3126	MÁNIK Martin	m.Júlia Mániková	0	2499,2500,2501,2502,2503,2504,2886
+3126	Maníková Alojzia r. Garajová	man. Jakub	1	1552
+3126	MÁNIKOVÁ Filoména	rod.Mihalová	1	1629,2499,2500,2502,2504,2819,2886
+3126	MÁNIKOVÁ Filoména	rod.Mihalová; LSR	0	2501,2503
+3126	Mániková Helena r. Garajová, Veľká Lehota 585, Veľká Lehota, PSČ 966 41, SR	manž.Michal	0	2168
+3126	MÁNIKOVÁ Monika	rod.Vatalová,man.Imrich	0	2499,2500,2501,2502,2503,2504,2886
+3126	Mániková Monika r. Vatalová, Veľká Lehota 180, Veľká Lehota, PSČ 966 41, SR	manž. Imrich	0	2643
+3126	MÁNIKOVÁ Paulína	rod.Kupčiová	0	454,2499,2500,2501,2502,2503,2504,2886
+3126	MAŠÍR Adam	manž.Františka Pavlová	1	2499,2500,2501,2502,2503,2504,2886
+3126	MAŠÍR Lukáč	m.Petronela Tulajová	0	2499,2500,2501,2502,2503,2504,2886
+3126	MAŠÍR Michal	m.Petronela Víglaská	0	2499,2500,2501,2502,2503,2504,2886
+3126	MAŠÍR Silvester	m.Františka Pacalajová	0	2160,2499,2500,2501,2502,2503,2504,2886
+3126	MAŠÍR Štefan	manž.Hermína Kupčiová	0	2499,2500,2501,2502,2503,2504,2886
+3126	Mašírová Františka r. Pavlová, Veľká Lehota 231, Veľká Lehota, PSČ 966 41, SR		0	152
+3126	MAŠÍROVÁ Katarína	rod.Vatalová,man.Silvester	0	2499,2500,2501,2502,2503,2504,2886
+3126	MAŠÍROVÁ Petronela	rod.Víglaská	0	2499,2500,2501,2502,2503,2504,2886
+3126	MIHÁLOVÁ Albína	rod.Garajová, m.Ján	0	2499,2500,2501,2502,2503,2504,2886
+3126	MIHÁLOVÁ Jozefína	rod.Búryová,po Alojzovi	1	2846,3117
+3126	Mihálová Margita		1	83
+3126	MIŠKELA Augustín	m.Júlia Ďurčeková	0	2499,2500,2501,2502,2503,2504,2886
+3126	MIŠKELA Augustín	manž.Rozália Raffajová	1	2238,2499,2500,2502,2504,2520,2886
+3126	MIŠKELA Augustín	manž.Rozália Raffajová; LSR	0	2501,2503
+3126	Miškela Augustín r. Miškela	manž. Rozália Raffajová, LSR	0	71
+3126	MIŠKELA Cyril	manž.Mária Hollá	0	2499,2500,2501,2502,2503,2504,2886
+3126	Miškela Cyril r. Miškela, Veľká Lehota, Veľká Lehota, PSČ 966 41, SR	zom. 12.3.1975, manž. Mária Hollá	0	2547
+3126	Miškela Eliaš, SR		1	72
+3126	Miškela Ján r. Miškela, Veľká Lehota 446, Veľká Lehota, PSČ 966 41, SR	zomr. 8.10.1977, manž. Cecília Víglaská	0	680,1430
+3126	Miškela Juraj r. Miškela, Veľká Lehota, Veľká Lehota, PSČ 966 41, SR	zom. 21.12.1964, manž. Gertrúda Víglaská	0	2547
+3126	Miškelová Cecília r. Víglaská, Veľká Lehota 446, Veľká Lehota, PSČ 966 41, SR	zomr. 27.04.1991, manž. Ján	0	719
+3126	MIŠKELOVÁ Gertrúda	rod.Vígalská,manž.Juraj	1	2499,2500,2502,2504,2886
+3126	MIŠKELOVÁ Gertrúda	rod.Vígalská,manž.Juraj; LSR	0	2501,2503
+3126	Miškelová Gertrúda r. Vígalská	manž. Juraj	1	83,680
+3126	Miškelová Gertrúda r. Víglaská	manž. Juraj	1	688,1428
+3126	MIŠKELOVÁ Helena	rod.Mašírová	1	2499,2500,2502,2504,2522,2878,2886
+3126	MIŠKELOVÁ Helena	rod.Mašírová; LSR	0	2501,2503
+3126	Miškelová Helena r. Mašírová		1	612
+3126	Miškelová Helena r. Mašírová, SR		1	153
+3126	MIŠKELOVÁ Rozália		1	669,670,671,2403,2499,2500,2502,2504,2527,2886,3084
+3126	MIŠKELOVÁ Rozália	LSR	0	2501,2503
+3126	MIŠKELOVÁ Rozália	rod.Raffajová,man.Augustín	1	931,3069
+3126	Miškelová Rozália r. Raffajová	man. Augustín	1	2564
+3126	MIŠKELOVÁ Rozália r. Raffajová	man.Augustín |; man.Augustín	1	327,3535
+3126	MIŠUROVÁ Cecília	rod.Víglaská,vdova po Michal	0	2499,2500,2501,2502,2503,2504,2886
+3126	MULLER Eliáš	m.Alojzia Suchá	0	2499,2500,2501,2502,2503,2504,2886
+3126	MULLER Karol	syn Mikuláša	1	622,658,1541,1972,2499,2500,2502,2504,2886
+3126	MULLER Karol	syn Mikuláša; LSR	0	2466,2501,2503
+3126	MULLEROVÁ Alojzia	rod.Suchá,m.Eliáš	0	2499,2500,2501,2502,2503,2504,2886
+3126	MULLEROVÁ Karolína	rod.Víglaská	0	3039
+3126	MULLEROVÁ Mária	dcéra Mikuláša	1	622,658,1541,1972,2499,2500,2502,2504,2886
+3126	MULLEROVÁ Mária	dcéra Mikuláša; LSR	0	2466,2501,2503
+3126	Pacalajová Mária r. Suchá		1	510
+3126	PALIER Alojz		1	1686,2431,2432,2499,2500,2501,2502,2504,2617,2618,2886,2981
+3126	PALIER Alojz	LSR	0	2503
+3126	Palier Alojz, SR		1	402
+3126	PASTIER Anton	syn Laurinca,nar.r.1929	1	2405,2499,2500,2502,2504,2886,2889,2911,2999,3147
+3126	PASTIER Anton	syn Laurinca,nar.r.1929; LSR	0	2501,2503
+3126	Pastier Anton r. Pastier	nar. r.1929	1	1863
+3126	PASTIER Dominik	m.Alojzia Kocianová	0	2110,2499,2500,2501,2502,2503,2504,2886
+3126	Pastier Dominik, s.č. 193, Veľká Lehota, PSČ 966 41, SR	manž.Alojzia Kocianová	0	3294
+3126	PASTIER Ján	syn Jána	1	2499,2500,2502,2504,2886,2892
+3126	PASTIER Ján	syn Jána; LSR	0	2501,2503,2897
+3126	Pastier Július, s.č. 448, Veľká Lehota, PSČ 966 41, SR	zom.19.05.2001	0	3294
+3126	PASTIER Laurinec	manž.Anna Mániková	1	2499,2500,2502,2504,2832,2886,2889,3147
+3126	PASTIER Laurinec	manž.Anna Mániková; LSR	0	2501,2503
+3126	PASTIER Michal	m.Mária Miškelová	0	2499,2500,2501,2502,2503,2504,2886
+3126	PASTIER Michal, 966 41, Veľká Lehota, č. 281, SR	zom. 10.2.1984; manž.Mária Miškelová	0	2999
+3126	PASTIER Štefan	manž.Pavlína Šmondrková	0	2499,2500,2501,2502,2503,2504,2886
+3126	PASTIER Tomáš, č.278, 966 41 Veľká Lehota, zom. 24.05.1970		0	2499,2500,2501,2502,2503,2504,2886
+3126	PASTIEROVÁ Agnesa	rod.Číková,m.Alojz	0	2499,2500,2501,2502,2503,2504,2886
+3126	Pastierová Agnesa r. Číková, Veľká Lehota 458, Veľká Lehota, PSČ 966 41, SR		0	844,845,942,2383,2437,2583
+3126	PASTIEROVÁ Alojzia	rod.Kocianová	0	2499,2500,2501,2502,2503,2504,2886
+3126	PASTIEROVÁ Hedviga	rod.Garajová	0	2499,2500,2501,2502,2503,2504,2886
+3126	Pastierová Pavlína r. Šmondrková, Chotár 32, Nová Baňa, PSČ 96801, SR		0	3571
+3126	PÍSCHOVÁ Mária	rod.Vozárová	1	3189,3190
+3126	RAFAJ Peter	manž.Jozefína Víglaská	0	2499,2500,2501,2502,2503,2504,2886
+3126	Rafaj Peter r. Rafaj, Veľká Lehota 507, Veľká Lehota, PSČ 966 41, SR	zomr. 23.12.1985, manž. Jozefína Víglaská	0	2564
+3126	RAFAJ Peter, Veľká Lehota 507, Veľká Lehota, PSČ 966 41, SR	manž.Jozefína Víglaská; zom. 23.12.1985	0	327,3535
+3126	RAJNOHA Koloman		1	477,1686,2299,2499,2500,2502,2504,2886
+3126	RAJNOHA Koloman	LSR	0	2501,2503
+3126	RAJNOHOVÁ Františka	rod.Búryová,m.Ján	1	2532
+3126	RAJNOHOVÁ Mária	rod.Číková,m.Martin	1	600,2499,2500,2502,2504,2886
+3126	RAJNOHOVÁ Mária	rod.Číková,m.Martin; LSR	0	2501,2503
+3126	Sprušanská Janka r. Garajová, SNP 1784/47, Holíč, PSČ 908 51, SR		0	2181
+3126	SUCHÁ Františka	rod.Suchá	0	2683
+3126	Suchá Helena	pravdepodobne vydatá Knedlíková	1	1169
+3126	SUCHÁ Helena	dcéra Jána	1	1385,1386,2499,2500,2502,2504,2858,2886,3231
+3126	SUCHÁ Helena	dcéra Jána; LSR	0	2501,2503
+3126	SUCHÁ Helena	pravd. vyd. Knedlíková	1	3163
+3126	SUCHÁ Helena r. Šmondrková	m. Ján	1	2774
+3126	SUCHÁ Mária		1	659,1269,1863,2499,2500,2502,2504,2860,2886,2893,2915,3158
+3126	SUCHÁ Mária	LSR	0	2501,2503,2916
+3126	SUCHÁ Mária	rod.Vatalová,m.Tomáš	0	2499,2500,2501,2502,2503,2504,2886
+3126	Suchá Pavlína r. Mániková		1	510
+3126	SUCHÝ Alexander	manž.Anna Garajová	1	1727
+3126	SUCHÝ Emil		1	2861
+3126	SUCHÝ Ján	manž.Helena Šmondrková,starší	1	2939
+3126	Suchý Koloman r. Suchý		1	1863
+3126	SUCHÝ Leopold	m.Hermína Novotná	1	2500,2502,2504,2886
+3126	SUCHÝ Leopold	m.Hermína Novotná; LSR	0	2501,2503
+3126	Suchý Leopold r. Suchý	m. Hermína Novotná	0	2499
+3126	SUCHÝ Melicher	manž.Katarína Povodová	0	2499,2500,2501,2502,2503,2504,2886
+3126	SUCHÝ Michal, Libušina č.1060, 535 01 Přelouč ČR, zom. 23.02.1989		0	2499,2500,2501,2502,2503,2504,2886
+3126	Suchý Milan		1	2912
+3126	ŠÁLYOVÁ Mária	rod.Garajová	0	2499,2500,2501,2502,2503,2504,2886
+3126	Šmondrk Ábel r. Šmondrk, 97646, Valaská, č. 41, SR	m.Margita Šipikalová	0	3571
+3126	ŠMONDRK Alojz	m.Agneša Búryová	0	2499,2500,2501,2502,2503,2504,2886
+3126	ŠMONDRK Augustin, č.590, 966 41 Veľká Lehota, zom. 29.05.1978		0	2499,2500,2501,2502,2503,2504,2886
+3126	ŠMONDRK Demeter	ž.Jozefína Gajdošová	0	2404,2499,2500,2501,2502,2503,2504,2702,2886
+3126	ŠMONDRK František		1	968,2383,2499,2500,2502,2504,2886
+3126	ŠMONDRK František	LSR	0	2501,2503
+3126	ŠMONDRK Imrich	manž.Alojzia Gabrišová	0	2499,2500,2501,2502,2503,2504,2886
+3126	ŠMONDRK Izidor	manž.Monika Šmondrková,starší	0	2413,2499,2500,2501,2502,2503,2504,2517,2886,3008
+3126	ŠMONDRK Izidor , Veľká Lehota, zom. 14.12.1975		0	3238
+3126	ŠMONDRK Ján	m.Karolína Garajová	0	2499,2500,2501,2502,2503,2504,2886
+3126	ŠMONDRK Ján	m.Katarína Šmondrková	0	2061,2489,2490,2499,2500,2501,2502,2503,2504,2886
+3126	Šmondrk Ján r. Šmondrk, Veľká Lehota 363, Veľká Lehota, PSČ 966 41, SR		0	2162
+3126	ŠMONDRK Ján, 968 01, Nová Baňa, SR	zom. 21.11.1976; m.Katarína Šmondrková	0	3171
+3126	ŠMONDRK Jozef	m.Helena	0	889,1738
+3126	ŠMONDRK Jozef	manž.Mária Mašírová	0	2499,2500,2501,2502,2503,2504,2886
+3126	ŠMONDRK Jozef, č.344, 966 41 Veľká Lehota, zom. 14.05.1985		0	2499,2500,2501,2502,2503,2504,2886
+3126	Šmondrk Jozef, Lipová 104, Prostějov, SR		0	2499,2500,2501,2502,2503,2504,2886
+3126	ŠMONDRK Karol		1	2994
+3126	ŠMONDRK Klement, 966 41, Veľká Lehota, č. 147, SR	zom. 29.1.1979	0	3171
+3126	ŠMONDRK Klement, č.147, 966 41 Veľká Lehota, zom. 29.01.1979		0	2499,2500,2501,2502,2503,2504,2886
+3126	ŠMONDRK Martin, č.418, 966 41 Veľká Lehota, zom. 28.12.1979		0	784,2258,2259,2499,2500,2501,2502,2503,2504,2886,3261,3367
+3126	ŠMONDRK Michal	m.Apolónia Borsíková	0	2499,2500,2501,2502,2503,2504,2585,2886
+3126	Šmondrk Michal r. Šmondrk, Veľká Lehota 12, Veľká Lehota, PSČ 966 41, SR	zomrel 21.10.1988, manž. Apolónia Borsíková	0	2905
+3126	Šmondrk Michal, s.č. 12, Veľká Lehota, SR	manž.Apolónia Borsíková; zom.21.10.1988	0	55
+3126	ŠMONDRK Peter	m.Karolína Šmondrková	0	2499,2500,2501,2502,2503,2504,2886
+3126	ŠMONDRK Peter	m.Margita Búryová	0	1067
+3126	ŠMONDRK Silvester	manž.Amália Hudecová	1	968
+3126	ŠMONDRK Tomáš	m.Margita Víglaská	0	2499,2500,2501,2502,2503,2504,2886
+3126	ŠMONDRK Tomáš, 966 41, Veľká Lehota, č. 406, SR	zom. 24.7.1981; manž.Margita Víglaská	0	2989
+3126	ŠMONDRK Viktor	manž.Margita Garajová	0	2499,2500,2501,2502,2503,2504,2886
+3126	Šmondrk Viktor r. Šmondrk, Veľká Lehota 268, Veľká Lehota, PSČ 966 41, SR	manž. Margita Garajová	0	2905
+3126	ŠMONDRKOVÁ Agnesa	rod.Búryová	0	2499,2500,2501,2502,2503,2504,2886
+3126	Šmondrková Alojzia r. Gábrišová, s.č. 264, Veľká Lehota, PSČ 966 41, SR	manž.Imrich	0	149,150,151
+3126	ŠMONDRKOVÁ Alžbeta r. Šmondrková	m.Leopold	1	3144
+3126	ŠMONDRKOVÁ Amália	rod.Hudecová,m.Silvester	1	2499,2500,2502,2504,2886,3073
+3126	ŠMONDRKOVÁ Amália	rod.Hudecová,m.Silvester; LSR	0	2501,2503
+3126	ŠMONDRKOVÁ Amália r. Hudecová	m.Silvester	1	2258
+3126	ŠMONDRKOVÁ Anna	slobodná	0	2499,2500,2501,2502
+3126	Šmondrková Anna r. Miškelová, 966 41, Veľká Lehota, č. 374, SR		0	2499,2500,2501,2502,2503,2504,2886
+3126	ŠMONDRKOVÁ Emília	dcéra Melichera, slobodná	0	2499,2500,2501,2502,2503,2504,2886
+3126	ŠMONDRKOVÁ Helena		1	2499,2500,2502,2504,2886
+3126	ŠMONDRKOVÁ Helena	LSR	0	2501,2503
+3126	ŠMONDRKOVÁ Jozefína		1	2004,2005,2357
+3126	ŠMONDRKOVÁ Jozefína	rod.Gajdošová,m.Demeter	0	2404,2499,2500,2501,2502,2503,2504,2702,2886,3141
+3126	Šmondrková Juliana		1	53,56,844,889,1296,1738,2176,2465,2499,2500,2502,2504,2585,2886,2905,3145
+3126	ŠMONDRKOVÁ Juliana	LSR	0	2501,2503
+3126	Šmondrková Juliana, SR		1	55
+3126	ŠMONDRKOVÁ Justína	rod.Garajová,m.Matej	1	2834
+3126	ŠMONDRKOVÁ Karolína	rod.Šmondrková,m.Peter	0	2499,2500,2501,2502,2503,2504,2886
+3126	ŠMONDRKOVÁ Karolína	slobodná	1	3170
+3126	Šmondrková Karolína r. Šmondrková, 966 41, Veľká Lehota, č. 234, SR	m.Peter	0	1186,3485
+3126	ŠMONDRKOVÁ Karolína r. Šmondrková, 966 41, Veľká Lehota, SR		1	3172
+3126	Šmondrková Karolína r. Šmondrková, Veľká Lehota 234, Veľká Lehota, PSČ 966 41, SR	m.Peter	0	2383
+3126	ŠMONDRKOVÁ Katarína	rod.Šmondrková	0	1249,1251,1252
+3126	Šmondrková Katarína r. Šmondrková, Veľká Lehota 387, Veľká Lehota, PSČ 966 41, SR	zom. 13.11.1996	0	2288,2289
+3126	Šmondrková Margita		1	53,56,844,889,1296,1738,2176,2465,2499,2500,2502,2504,2585,2886,2905,3145
+3126	ŠMONDRKOVÁ Margita	LSR	0	2501,2503
+3126	ŠMONDRKOVÁ Margita	slobodná	0	2499,2500,2501,2502,2503,2504,2886
+3126	Šmondrková Margita r. Garajová	manž. Mikuláš	1	2135
+3126	Šmondrková Margita, SR		1	55
+3126	ŠMONDRKOVÁ Mária	rod.Tomášková	1	2499,2500,2502,2504,2886
+3126	ŠMONDRKOVÁ Mária	rod.Tomášková; LSR	0	2501,2503
+3126	Šmondrková Mária r. Tomášková		1	129
+3126	Šmondrková Rozália r. Suchá, Veľká Lehota 279, Veľká Lehota, PSČ 966 41, SR		0	2229
+3126	ŠMONDRKOVÁ Valéria	rod.Šmondrková	1	2499,2500,2502,2504,2886
+3126	ŠMONDRKOVÁ Valéria	rod.Šmondrková; LSR	0	2501,2503
+3126	ŠTRBOVÁ Mária	rod.Garajová,m.Valent	0	2499,2500,2501,2502,2503,2504,2886
+3126	ŠTULLER František	manž.Zuzana Garajová	0	2499,2500,2501,2502,2503,2504,2886
+3126	Štuller František r. Štuller, Veľká Lehota 601, Veľká Lehota, PSČ 966 41, SR	zomrel 1.7.1985, manželka Zuzana Garajová	0	3181,3182
+3126	Tisovská Katarína r. Suchá	m. Eliáš	1	1863
+3126	TOMÁŠKA Štefan	slobodný	1	2499,2500,2502,2504,2886
+3126	TOMÁŠKA Štefan	slobodný; LSR	0	2501,2503
+3126	Tomáška Štefan r. Tomáška	slobodný	1	129
+3126	Tomáška Valér r. Tomáška, 966 41, Veľká Lehota, č. 40, SR		0	2502
+3126	Tomáška Valér r. Tomáška, Veľká Lehota 40, Veľká Lehota, PSČ 966 41, SR	manž. Mária r. Gábrišová	0	2609
+3126	Tomáška Valér, Veľká Lehota, č. 40, SR		0	2499,2500,2501,2503,2504,2886
+3126	TOMÁŠKOVÁ Mária	rod.Gabrišová	1	2499,2500,2502,2504,2658,2886
+3126	TOMÁŠKOVÁ Mária	rod.Gabrišová; LSR	0	2501,2503
+3126	TUTAJ Peter		1	2499,2500,2502,2504,2632,2886
+3126	TUTAJ Peter	LSR	0	2501,2503
+3126	TUTAJOVÁ Helena		1	2499,2500,2502,2504,2632,2886
+3126	TUTAJOVÁ Helena	LSR	0	2501,2503
+3126	URBANOVÁ Gizela	rod.Vígalská,man.Filip	0	2499,2500,2501,2502,2503,2504,2886
+3126	Urbanová Gizela r. Víglaská, Veľká Lehota 509, Veľká Lehota, PSČ 966 41, SR	neb. zomr. 24.2.1982, manž. Filip	0	2564
+3126	VALO Anton	syn Vincenta	1	1150,1772,2499,2500,2502,2504,2763,2765,2886
+3126	VALO Anton	syn Vincenta; LSR	0	2501,2503
+3126	Valo Anton r. Valo	syn Vincenta	1	2407,2764,3295
+3126	VALO Emil	syn Ľudovíta	1	2775
+3126	VALO Ján		1	1414,2499,2500,2502,2504,2831,2886
+3126	VALO Ján	LSR	0	2501,2503
+3126	VALO Ján	manž.Katarína Pastierová	1	2499,2500,2502,2504,2758,2886
+3126	VALO Ján	manž.Katarína Pastierová; LSR	0	2501,2503
+3126	Valo Ján r. Valo	manž. Katarína Pastierová	1	1417
+3126	Valo Ján, SR	manž.Katarína Pastierová	1	3293
+3126	VALO Jozef	syn Ľudovíta	1	2775
+3126	VALO Ľudovít	m.Alojzia Vatalová	0	1150,2499,2500,2501,2502,2503,2504,2886
+3126	VALO Michal	m.Helena Búryová	0	2501
+3126	VALO Pavol	manž.Karolína Búryová	1	1150,1772,2499,2500,2502,2504,2763,2765,2886
+3126	VALO Pavol	manž.Karolína Búryová; LSR	0	2501,2503
+3126	Valo Pavol r. Valo	manž. Karolína Búryová	1	2407,2764,3295
+3126	Valo Pavol, SR	manž.Karolína Búryová	1	16
+3126	VALO Štefan		1	2499,2500,2502,2504,2831,2886
+3126	VALO Štefan	LSR	0	2501,2503
+3126	VALO Vincent	m.Katarína Jenisová	0	1150,2499,2500,2501,2502,2503,2504,2886
+3126	VALOVÁ Anna	rod.Raffajová	1	1150,1772,2499,2500,2502,2504,2763,2765,2886
+3126	VALOVÁ Anna	rod.Raffajová; LSR	0	2501,2503
+3126	Valová Anna r. Raffajová		1	2764,3295
+3126	VALOVÁ Elena		1	2499,2500,2502,2504,2831,2886
+3126	VALOVÁ Elena	LSR	0	2501,2503
+3126	VARGOVÁ Katarína	rod.Tutajová	1	1407,2499,2500,2502,2504,2634,2886
+3126	VARGOVÁ Katarína	rod.Tutajová; LSR	0	2501,2503
+3126	Vargová Katarína r. Tutajová		1	2006,3652
+3126	VATALA Alojz		1	339,2499,2500,2502,2504,2643,2844,2886
+3126	VATALA Alojz	LSR	0	2501,2503
+3126	Vatala Alojz r. Vatala		1	337,2636
+3126	VATALA František		1	339,597,2422,2499,2500,2502,2504,2643,2827,2844,2886
+3126	VATALA František	LSR	0	2501,2503
+3126	Vatala František r. Vatala		1	337,2636
+3126	VATALA Imrich	syn Štefana	1	2499,2500,2502,2504,2886
+3126	VATALA Imrich	syn Štefana; LSR	0	2501,2503
+3126	VATALA Ján		1	2499,2500,2502,2504,2886,2917

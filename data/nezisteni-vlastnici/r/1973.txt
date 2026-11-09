@@ -1,0 +1,256 @@
+1151	Vočadlová Kateřina r. Masárová	Fučíkova, tř. 136, Ústí nad Labem	0	2326
+1151	Vojtechová Anna r. Jezernicka	Songhofer	0	2228
+1151	Vojtechová Mária r. Maniaková	Konská 56	0	2326
+1151	Vrábel Alojz	Baránek	0	901,2055,2814,2815,2816
+1151	Vrábel Filip	Konská 210	0	2326
+1151	Vrábel Pavol	Bednár	0	901,2055,2814,2815,2816
+1151	Vrábel Pavol r. Vrábel	zomr.6.3.1950,Konská 4	0	2326
+1151	Vrábel Peter	nar. 01.04.1898, zom. 18.01.1972, Konská 222	0	2326
+1151	Vrábel Rehor	st	0	2326
+1151	Vrábel Štefan	nar. 11.08.1906, manž. Štefánia r. Ďurčanová, Konská 194	0	2326
+1151	Vráblová Justína r. Sýkorová	manž. Jám	0	2326
+1151	Vráblová Karolína r. Hodasová	Konská 205	0	2326
+1151	Wolfová Mária r. Dubcová		0	2326
+1151	Zadňan Ondrej		0	805,1058
+1151	Zadňanová Anna	mal	0	805,1058
+1151	Zadňanová Karolína r. Micháleková		0	805,1058
+1151	Zacharová Terézia r. Masárová	manž. Jozef, Konská 84	0	2326
+1151	Záň Alexander		0	901,2055,2814,2815,2816
+1151	Záň Alexander	Hudec, Stránske	0	2326
+1151	Záň Anton		0	2326
+1151	Záň Anton	Hudec, ČR	0	2326
+1151	Záň Blažej	Kostolný, Konská 112	0	2326
+1151	Záň Ferdinand		0	805,1058,2326
+1151	Záň Filip	Hudec, ČR	0	2326
+1151	Záň František	Jozef, Ján	0	2326
+1151	Záň František	manž. Judita r. Michalková, Konská 152	0	2326
+1151	Záň Ján		0	706,792,901,902,919,927,936,979,991,1077,1343,1361,1419,1455,1462,1618,1819,1820,1823,1824,1828,2010,2024,2055,2234,2235,2236,2264,2266,2267,2268,2269,2293,2336,2345,2346,2348,2349,2350,2486,2507,2508,2509,2510,2511,2513,2515,2516,2517,2553,2557,2560,2563,2569,2602,2604,2611,2622,2623,2625,2630,2631,2658,2659,2668,2671,2698,2700,2701,2702,2704,2705,2706,2733,2772,2812,2814,2815,2816,2824,2826,2827,2852,2854,2862,2882,2885,2888,2889,2919,2920,2921,2923,2924,2941,2972,3010,3017,3018,3044
+1151	Záň Ján	František, Jozef	0	2326
+1151	Záň Ján	Hudec, Žilina	0	2326
+1151	Záň Ján	žen. s Agnešou Kaveckou	0	2972,3044
+1151	Záň Ján	žen. s Agnešovou Kaveckou, D 723/78	0	706,792,902,919,979,1077,1343,1361,2010,2264,2266,2267,2268,2269,2314,2315,2336,2345,2553,2557,2569,2622,2623,2625,2658,2659,2668,2671,2704,2705,2706,2852,2854,2862,2882,2888,2889,3010,3017,3018
+1151	Záň Jozef	František, Ján	0	2326
+1151	Záň Jozef	Kostolný, Konská 111	0	2326
+1151	Záň Jozef r. Záň	zomr. 11.07.1985	0	3041
+1151	Záň Juraj	Kostolný, Konská 111	0	2326
+1151	Záň Ladislav	ČR	0	2326
+1151	Záň Martin		0	2326
+1151	Záň Mikuláš	Hudec	0	2326
+1151	Zaň Ondrej		0	2563,2812,2824,2826,2827,2885
+1151	Záň Ondrej	nar. 03.05.1927, zom. 13.02.2007, Kamenná Poruba 194	0	2349,2486
+1151	Záň Štefan	Hudec, ČR	0	2326
+1151	Záň Štefan	manž. Terézia r. Tatarková, ČR	0	2326
+1151	Záň Štefan	nar. 30.03.1958, zom. 22.03.2008, Kamenná Poruba 171	0	2501,2632,2917,2918,3027
+1151	Záňová Agneša r. Kucková	Konská 68	0	2326
+1151	Záňová Anna	Hudec, Rajecké Teplice	0	2326
+1151	Záňová Františka	Hudec	0	2326
+1151	Záňová Judita r. Čerňancová	zomr. 13.02.1964, Ďurčiná 22	0	3044
+1151	Záňová Kamila r. Straňánková		0	2326
+1151	Záňová Mária	Hudecová	0	2326
+1151	Záňová Mária	mal	0	805,1058,2293,2326
+1151	Záňová Mária r. Baránková	nar. 23.03.1900, zom. 20.11.1987	0	2326
+1151	Záňová Mária r. Cingelová	nar. 16.10.1899, zom. 25.11.1988, vd., Konská 120	0	2326
+1151	Záňová Mária r. Žáková		0	2357,2916
+1151	Záňová Rozália	mal	0	805,1058
+1151	Záňová Rozália r. Baránková	Kostolná, manž. Jozef, Konská 111	0	2326
+1151	Zbýň Alojz	zomrel 08.09.1989	1	2440,2724
+1151	Zbyň Filip		0	2529
+1151	Zbyň František		0	2384,2555
+1151	Zbýň Martin	zomrel 15.10.2006	1	2440,2724
+1151	Zbýň Michal	zomrel 12.05.1994	1	2440,2724
+1151	Zbýň Vendelín	zomrel 04.06.2005	1	2440,2724
+1151	Zemko Jozef		0	805,1058
+1151	Zemko Jozef	Konská 186	0	2326
+1151	Zemko Juraj		0	805,1058
+1151	Zemko Juraj	nar. 24.04.1991, zom. 23.11.1991, Konská 186	0	2326
+1151	Zemko Ondrej		0	805,1058
+1151	Zemko Štefan	Pinka, manž. Apolónia r. Majerčíková, Konská 22	0	2326
+1151	Zemková Agneša	Capková	0	805,1058
+1151	Zemková Albína r. Zbýňová		0	792,902,919,922,926,1172,1181,1182,1531,2010,2073,2293,2374,2461,2555,2592,2676,2677,2852,2854,2942
+1151	Zemková Eva r. Stranianeková	Konská 19	0	2326
+1151	Zemková Gabriela r. Kucková	nar. 14.04.1902, zom. 13.02.1981, Stránske	0	2326
+1151	Zemková Mária		0	805,1058
+1151	Zemková Mária	Krutek	0	805,1058
+1151	Zemková Mária	mal	0	805,1058
+1151	Zemková Štefánia r. Stranianeková		0	2326
+1151	Zuziak Jozef	nar. 04.09.1939, zom. 13.07.1998, Kamenná Poruba 326	0	2401
+1151	Zuziak Karol		0	2602
+1151	Zuziak Karol	nar. 08.02.1914, zom. 15.11.1981, Kamenná Poruba	0	706,979,1361,1498,2040,2256,2269,2553,2555,2604,2622,2623,2658,2659,2668,2671,2771,2882,2888,2889,2972
+1151	Zuziak Karol	zomr. 15.11.1981, Kamenná Poruba	0	3044
+1151	Zuziak Štefan		0	792,902,919,1077,1343,2010,2264,2266,2267,2268,2336,2557,2569,2625,2704,2705,2706,2852,2854,2862,3010,3017,3018
+1151	Zuziaková Mária r. Kavecká	nar. 10.02.1909, zom. 22.04.2004, Dlhá 326/8, Kamenná Poruba	0	2229,2230,2231,2977,3001
+1151	Zuziaková Mária r. Patončiaková		0	2266,2267,2268,2625,2704,2705,2706,3017,3018
+1151	Žilinská Pomocnica, účastinársky spolok		0	927
+1152	....		0	35,70,776,779,780,859,860,946,963
+1152	Abrahámovičová Alžbeta r. Weissbergová		0	736
+1152	Adam - Miščo Michal r. Adam - Miščo	manž.Helena Jakubková	0	35,776,779,780
+1152	Adam Adam r. Adam	manž.Mária Oravecová	0	35,776,779,780
+1152	Adam Adam r. Adam	USA	0	35,776,779,780
+1152	Adam Andrej r. Adam	manž.Anna Boldižárová	0	35,776,779,780,963
+1152	Adam Ján r. Adam	manž.Anna Vasilová,USA	0	35,776,779,780
+1152	Adam Ján r. Adam	manž.Mária Pelačiková,USA	0	35,677,776,779,780
+1152	Adam Juraj r. Adam	manž.Alžbeta Sopková	0	35,776,779,780
+1152	Adam Juraj r. Adam	manž.Helena Kalmanová	0	35,677,776,779,780
+1152	Adam Juraj r. Adam	manž.Mária Ivaničová	0	35,776,779,780,963
+1152	Adam Juraj r. Adam	manž.Matisová Mária	0	35,776,779,780
+1152	Adam Michal r. Adam	manž.Anna Kalmanová,Kanada	0	35,677,776,779,780
+1152	Adam Michal r. Adam	manž.Helena Bartková	0	35,776,779,780
+1152	Adam Michal r. Adam	manž.Helena Vasilová,USA	0	35,776,779,780
+1152	Adam Michal r. Adam	manž.Mária Džubáková	0	35,776,779,780
+1152	Adam Michal r. Adam	manž.Mária Pitrovská	0	35,776,779,780,963
+1152	Adam Mikuláš r. Adam	manž.Mária Vasilová	0	35,776,779,780
+1152	Adam Štefan r. Adam	manž.Anna Jakubková	0	35,776,779,780
+1152	Adamová Anna	dcéra Michala	0	35,776,779,780,963
+1152	Adamová Anna r. Kalmanová	manž.Jozef,USA	0	35,776,779,780
+1152	Adamová Anna r. Kalmanová	manž.Michal,USA,Kanada	0	35,776,779,780,963
+1152	Adamová Helena r. Bartková	manž.Michal	0	35,776,779,780,963
+1152	Adamová Helena r. Vasilová	manž.Michal	0	35,776,779,780
+1152	Adamová Mária r. Košutová	manž.Ján	0	35,776,779,780,963
+1152	Adamová Mária r. Vavreková	manž.Juraj	0	35,776,779,780,963
+1152	Andrejčák Michal r. Andrejčák	manž.Mária Košutová	0	35,776,779,780,963
+1152	Andrejčáková Mária r. Košutová	manž.Michal	0	35,776,779,780,963
+1152	Antuš Michal r. Antuš	manž.Helena Bilá	0	70,587,859,860,946
+1152	Antušová Helena r. Bilá	manž.Michal	0	70,587,859,860,946
+1152	Antušová Ilona r. Derevjaniková	Helena,zomr.29.2.2008,Kamenná Poruba 176	0	112,1007
+1152	Antušová Mária r. Kalmanová	manž.Ján,USA	0	35,678,776,779,780,963
+1152	Antušová Zuzana r. Zubková	manž.Juraj	0	557,595
+1152	Bača Juraj r. Bača	manž.Mária Šimkanin-Koscelník,USA	0	35,776,779,780,963
+1152	Bača Michal r. Bača	manž. Mária r. Bartková	0	776
+1152	Bača Michal r. Bača	manž.Anna Veliká,Rudlov	0	35,776,779,780
+1152	Bača Michal r. Bača	manž.Mária Bartková	0	35,779,780,963
+1152	Balint Ján r. Balint	zomr.28.4.1990	0	35,776,779,780,963
+1152	Balint Štefan r. Balint	zomr.2.10.1992	0	35,776,779,780,963
+1152	Balintová Helena r. Adamová	manž.Ján	0	35,776,779,780,963
+1152	Balintová Helena r. Dudašová	zomr.6.5.2003,Vechec 256	0	627,977
+1152	Balog Juraj r. Balog	manž.Mária Tkáčová	0	567
+1152	Balogová Mária r. Tkáčová	manž.Juraj	0	567
+1152	Baranská Alžbeta r. Fedorová	manž.Pavel	0	386
+1152	Baranská Helena r. Jančíková	zomr.21.5.2001	0	930
+1152	Baranská Mária r. Lačná		0	602
+1152	Baranská Mária r. Pačutová		0	417
+1152	Baranský Ján r. Baranský	K.Poruba 85	0	589,664
+1152	Baranský Michal r. Baranský	zomr.16.9.2000	0	270
+1152	Baranský Pavel r. Baranský	syn Jána,manž.Alžbeta Fedorová	0	386,589
+1152	Bartko - Figeľ Michal r. Bartko - Figeľ	manž.Anna Adamová	0	35,776,779,780
+1152	Bartko - Figeľová Anna r. Adamová	manž.Michal	0	35,776,779,780,963
+1152	Bartko Michal r. Bartko		0	70,859,860,946
+1152	Bartko Michal r. Bartko	manž.Zuzana Bindasová,Vranov n/T	0	35,776,779,780
+1152	Bartko Michal r. Bartko	syn Jána,mal. v r.1941	0	70,587,859,860,946
+1152	Bartko Štefan r. Bartko	zomr.17.8.2002,K.Poruba 180	0	865,1029
+1152	Bartko-Figeľ Ján r. Bartko-Figeľ	manž.Mária Bindasová	0	35,776,779,780,963
+1152	Bartková Anna r. Figeľová	manž.Pavel	0	35,776,779,780
+1152	Bartková Mária r. Frajkorová	manž.Michal	0	35,776,779,780,963
+1152	Bartková Terézia r. Pačutová	zomr.3.10.2006,K.Poruba 62	0	865,901,1029
+1152	Bartková Zuzana r. Bindasová	manž.Michal,Vranov n/T	0	35,776,779,780
+1152	Beňa Ján r. Beňa		0	729
+1152	Beňová Alžbeta r. Beňová	maloletá v r.1944	0	729
+1152	Beňová Helena r. Beňová	maloletá v r.1944,Breznica	0	729
+1152	Beščáková - Birovčáková Mária r. Džvirová	manž.Michal,USA	0	35,776,779,780,963
+1152	Bindas Ján r. Bindas	manž. Anna Čechová	0	35,98,776,779,780,963
+1152	Bindas Ján r. Bindas	manž.Mária Jacková	0	35,776,779,780
+1152	Bindas Juraj Ing.  r. Bindas	K.Poruba 192	0	435
+1152	Bindas Juraj r. Bindas	manž.Anna Bomberová	0	35,776,779,780,963
+1152	Bindasová Helena r. Guziová	manž.Juraj	0	35,776,779,780,963
+1152	Bindasová Mária r. Bili- Kalman	manž.Michal	0	35,776,779,780
+1152	Bindasová Mária r. Kalmanová	manž.Andrej	0	35,776,779,780
+1152	Bindasová Zuzana r. Kalmanová	manž.Andrej	0	35,776,779,780
+1152	Birošová Mária r. Chomová	manž.Pavel,Sečovská Polianka	0	423,445,720,726
+1152	Bočko Andrej r. Bočko		0	598
+1152	Bočková Mária r. Petríková	manž.Michal	0	33,433,583
+1152	Bodnár Michal r. Bodnár	zomr.28.9.2002,Jana Béreša 22/6259,Prešov	0	504
+1152	Boldižárová Mária r. Kalmanová	manž.Ján,USA	0	35,776,779,780,963
+1152	Boubliková Oľga r. Háhnová		0	35,776,779,780
+1152	Braun Móric r. Braun	manž.Máli Ecker	0	736
+1152	Brucková Júlia r. Weissbergová		0	736
+1152	Čabala Juraj r. Čabala	zomr., Vechec, Lomnická 274/3	0	116,675,947
+1152	Čabala Michal r. Čabala	manž.Helena Pačutová	0	35,675,776,779,780,963
+1152	Čandík Jozef r. Čandík	manž.Mária Adamová	0	35,776,779,780
+1152	Čeremšáková Helena r. Havrilová	vd.,manž.Jozef	0	70,587,859,860,946
+1152	Červeňák Pavol r. Červeňák	Pardee RD 13363, Taylor Mi 48880,USA	0	502,503,553
+1152	Čižmarik Ján r. Čižmarik	Mokrá 664,ČR	0	651
+1152	Čižmariková Mária r. Dudášová	manž.Ján	0	651
+1152	Čižmarová Mária r. Orosiová	manž.Michal	0	402,693
+1152	Danko Ján r. Danko	manž.Mária Kolesarová	0	96
+1152	Danková Helena r. Pipová	Čemerné,Lomnica	0	70,407,587,859,860,946
+1152	Demčák Jozef r. Demčák	manž.Mária Milkaninová	0	98
+1152	Derevjanik Jozef r. Derevjanik	zomr.29.1.2007,K.Poruba 176	0	859,860
+1152	Derevjaniková Mária r. Dudášová	zomr.,manž.Jozef,K.Poruba 128	0	70,587,646,859,860,946
+1152	Dobajová Anna r. Janošková	manž.Jozef,USA	0	259
+1152	Dudáš Andrej r. Dudáš	syn Michala	0	533,752
+1152	Dudáš Michal r. Dudáš	manž.Mária Červeňáková,zomr.12.1.1989	0	752
+1152	Dudášová Anna r. Kačuráková	manž.Michal	0	362
+1152	Dudášová Helena r. Serafínová	K.Poruba 172	0	533
+1152	Dudášová Mária r. Serafinová	manž.Jozef	0	692
+1152	Dundová Anna r. Dundová	maloletá v r.1934, dcéra Jána	0	632,919
+1152	Dundová Helena r. Dundová	maloletá v r.1934, dcéra Jána	0	632,919
+1152	Dundová Mária r. Dundová	maloletá v r.1934, dcéra Jána	0	632,919
+1152	Dutkovič Ján r. Dutkovič	manž.Zuzana Kováčová	0	35,776,779,780,963
+1152	Dutkovič Juraj r. Dutkovič	syn Jána,USA	0	35,776,779,780,963
+1152	Dutkovič Michal r. Dutkovič	manž.Mária Sisáková	0	35,776,779,780,963
+1152	Dutkovič Mikuláš r. Dutkovič	manž.Anna Rabatinová	0	35,776,779,780,963
+1152	Dutkovič Mikuláš r. Dutkovič	syn Jána	0	35,776,779,780,963
+1152	Dutkovičová Anna	dcéra Jána	0	35,776,779,780,963
+1152	Dutkovičová Helena	dcéra Jána	0	35,776,779,780,963
+1152	Dutkovičová Helena r. Bačová	manž.Ján	0	35,776,779,780,963
+1152	Dutkovičová Zuzana	dcéra Jána	0	35,776,779,780,963
+1152	Džatko Ján r. Džatko	manž.Mária Kalmanová	0	35,776,779,780,963
+1152	Džatko Ján r. Džatko	syn Michala,USA	0	35,776,779,780,963
+1152	Džatko Jozef r. Džatko	manž.Zuzana Kalmanová	0	35,776,779,780,963
+1152	Džatko Juraj r. Džatko	manž.Zuzana Kalmanová	0	35,776,779,780,963
+1152	Džatko Juraj r. Džatko	syn Jána,horár	0	35,776,779,780,963
+1152	Džatko Michal r. Džatko	manž.Anna Sopková	0	35,776,779,780,963
+1152	Džatko Michal r. Džatko	syn Michala,USA	0	35,776,779,780,963
+1152	Džatková Mária r. Kalmanová	manž.Ján	0	35,776,779,780,963
+1152	Džatková Zuzana r. Kalmanová	manž.Jozef	0	35,776,779,780,963
+1152	Elischer Viktor Dr.  r. Elischer		0	643,719,964
+1152	Engländerová Berta r. Weissbergová		0	736
+1152	Fenik Pavol r. Fenik	zomr.8.8.2000,Čemerné 201	0	415
+1152	Ferenciová Mária r. Besterciová	manž.Vojtech	0	895
+1152	Ferková Mária r. Čabalová	manž.Juraj,Čemerné	0	35,776,779,780,963
+1152	Fialkovičová Anna r. Havrilová	manž.Michal,USA	0	70,587,859,860,946
+1152	Frajkor Michal r. Frajkor	manž.Anna Vavreková	0	35,776,779,780,963
+1152	Gajdzik Ján r. Gajdzik	manž.Helena Rabatinová	0	35,776,779,780,963
+1152	Gavaľa Ján r. Gavaľa	manž.Zuzana Košutová	0	35,776,779,780,963
+1152	Gavaľa Mikuláš r. Gavaľa	manž.Anna Kasardová	0	35,776,779,780,963
+1152	Gavaľa Štefan r. Gavaľa	manž Mária r.Bačová	0	35,776,779,780,963
+1152	Gavaľová Mária r. Kalmanová	zomr.20.12.2003,Vechec 171	0	35,776,779,780,963
+1152	Gavaľová Zuzana r. Košutová	manž.Ján	0	35,776,779,780,963
+1152	Gazdiková Mária r. Dudášová	dcéra Michala	0	533,752
+1152	Gerhardová Fany r. Weissbergová	Miškolc	0	624
+1152	Gerö Štefan Dr.  r. Gerö	Košice	0	624
+1152	Gerövá Roza r. Weissbergová	Košice	0	624
+1152	Grošík Michal r. Grošík	manž.Alžbeta Zubková	0	70,587,859,860,946
+1152	Habanová Anna r. Balintová		0	35,776,779,780,963
+1152	Haľko Andrej r. Haľko	manž.Mária Pačutová	0	591,1003
+1152	Hamarik Pavel r. Hamarik	manž.Mária Kostičáková	0	723
+1152	Hamariková Mária r. Kostičáková	manž.Pavel	0	723
+1152	Harhaj Fedor r. Harhaj	manž.Mária Jacková	0	70,859,860,946
+1152	Harhajová Mária r. Jacková	manž.Fedor	0	70,859,860,946
+1152	Harmathová Mária r. Weissbergová		0	736
+1152	Havrila Juraj r. Havrila	syn Michala,USA	0	70,587,859,860,946
+1152	Havrila Mikuláš r. Havrila	manž.Mária Ivaničová	0	70,587,859,860,946
+1152	Havrilová Mária r. Ivaničová	manž.Mikuláš	0	70,587,859,860,946
+1152	Horňák Ján r. Horňák	manž.Zuzana Červeňáková	0	35,776,779,780,963
+1152	Hriciková Alžbeta r. Bartková	manž.Juraj,USA	0	505
+1152	Hricová Anna r. Oreničová	manž.Ján	0	907
+1152	Hudák Michal r. Hudák	manž.Anna Šulcová	0	70,587,859,860,946
+1152	Hudáková Anna r. Šulcová	manž.Michal	0	70,587,859,860,946
+1152	Chlisterová Justina r. Trojčáková	manž.Juraj	0	919
+1152	Choma Ján r. Choma	manž.Žofia Mochnacký,USA	0	423,445,720,726
+1152	Choma Michal r. Choma	manž.Mária Roháľová	0	723
+1152	Choma Michal r. Choma	zomr.1.3.2012, Sídlisko Okulka 10/7,Vranov n/T	0	423
+1152	Choma Vasiľ r. Choma	manž.Mária Kadiľáková	0	374
+1152	Chomová Mária r. Antušová	zomr.13.5.2004	0	374
+1152	Iľková Mária r. Bindasová	manž.Ján	0	35,776,779,780,963
+1152	Iľková Mária r. Džatková	manž.Ján	0	35,776,779,780,963
+1152	Ingrišová Mária Bc.  r. Baková	Zimná 439/6,Vranov n/Topľou	0	408
+1152	Ivaničová Mária r. Sopková		0	35,776,779,780,963
+1152	Ivanko Juraj r. Ivanko		0	395,396
+1152	Ivanko Juraj r. Ivanko	1928; 1928	0	397
+1152	Ivanko Juraj r. Ivanko	maloletý v r.1948	0	466
+1152	Ivanko Michal r. Ivanko		0	466,562
+1152	Ivanko Michal r. Ivanko	zomr.17.2.2006	0	897
+1152	Ivanko Michal r. Ivanko	zomr.8.7.1988	0	395,396,397,898
+1152	Ivanková Verona r. Kačuráková		0	362
+1152	Jacko Andrej r. Jacko	manž.Mária Mačugová,USA	0	70,587,859,860,946
+1152	Jacko Ján r. Jacko	manž.Mária Zubková,USA	0	70,587,859,860,946

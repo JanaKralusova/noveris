@@ -1,0 +1,256 @@
+675	RONYECZ Stefan mal.		0	878,933,1000,1538,1622,1638,1663,1671
+675	Ronyecz Štefan		0	1004
+675	RONYECZOVA Alzbeta mal.		0	878,933,1000,1538,1622,1638,1663,1671
+675	Ronyeczová Alžbeta		0	1509
+675	RONYECZOVA Julia		0	933,1000,1004,1538,1638,1663,1671
+675	RONYECZOVA Julia mal.		0	878,1000,1622,1638,1671
+675	RONYECZOVÁ Julianna	r.Bellérová	1	1364
+675	Ronyeczova Julianna r. Bellerova		0	1004
+675	RONYECZOVA Julianna r.Bellerova		0	863,966
+675	ROTHMAN Ignacz		0	1261
+675	Rusznyáková Renáta r. Tomiová		0	19
+675	Sabošiová Anna r. Barnová		0	727
+675	Sabová Júlia r. Šillingová		1	1455
+675	Semiczerová Mária r. Mogyorodiová		0	1026,1081
+675	Schefferova Barbora r. Otvosova		0	1004,1509
+675	SCHEFFEROVA Barbora r.Otvosova		0	886,921,1536,1567,1651
+675	SIDOR Gejza		1	874,1417
+675	SIDOR Jozef		0	1072
+675	SIDOR Vojtech		1	874,1417
+675	SIDOROVA Julia		1	874,1417
+675	Sillingová Julianna r. Konczová		1	1454
+675	Simonová Barbora r. Balogova		0	1004,1509
+675	SIMONOVA Barbora r.Balogova		0	843,934,972,1001,1035,1672
+675	Skokan Alexander, SR		1	1327,1328
+675	Skokan Dezider		0	1004
+675	SKOKAN Dezider mal.		0	846,909,982,994,997,1122,1141,1142,1214,1657
+675	Skokanová Edita		0	1004
+675	SKOKANOVA Edita mal.		0	846,909,982,994,997,1122,1141,1142,1214,1657
+675	SKOKANOVA Jolana		0	846,909,982,994,997,1004,1122,1141,1142,1214,1657
+675	SKOKANOVÁ Terézia	r.Vajdová	1	1328
+675	Skokanova Terezia r. Vajdova		0	1004
+675	SKOKANOVA Terezia r.Vajdova		0	896,897,1005,1169,1572,1573
+675	SLAVOŠOVSKÉ Papierne		0	1453
+675	SLAVOŠOVSKÉ Papierne	Nár.p. Slavošovce	1	1451
+675	Solymosi Jozef	/k.ž.Lenka Dusza/	0	1559
+675	Solymosiová Lena		1	727,1050,1381,1412,1509,1546,1547
+675	Solymosová Lena		0	1004
+675	Somloová Alzbeta r. Bellerova		0	1004,1509
+675	SOMLOOVA Alzbeta r.Bellerova		0	875
+675	SOMLOOVÁ Alžbeta	r.Bellérová	1	1415
+675	Stubnerová Johanna r. Duszová		1	1382
+675	Surgo Ján		0	838
+675	Szabanová Zuzana r. Szabariova		0	1004
+675	SZABANOVA Zuzana r.Szabariova		0	896,897,1572,1573
+675	SZABARI Alexander		1	877,892,932,991,1004,1081,1141,1142,1165,1278,1414,1509,1524,1537,1652,1670
+675	SZABARI Alexander	-	1	1392,1599
+675	SZABARI Alexander	----	1	1418
+675	SZABARI Alexander -		0	892,1652
+675	SZABARI Alexander ----		0	877
+675	SZABARI Andrej		0	932,991,1004,1141,1142,1165,1265,1278,1524,1537,1670
+675	Szabari Jan		0	1004,1509
+675	SZABARI Ján	-	1	1392,1599
+675	SZABARI Ján	Ötvös	1	1383
+675	SZABARI Jan -		0	1269
+675	SZABARI Jan Otvos		0	918
+675	SZABARI K Alexander		0	1004,1023,1026,1154,1509
+675	SZABARI Ludovit		1	896,897,956,1004,1033,1327,1328,1509,1572,1573
+675	SZABARI Ľudovít	-	1	1332,1417
+675	SZABARI Ľudovít	mal	1	1414,1418
+675	SZABARI Ludovit -		0	874
+675	SZABARI Ludovit mal.		0	851,877,932,991,1141,1142,1165,1265,1278,1524,1537,1670
+675	Szabari Mikulaš		0	1004,1509
+675	SZABARI Ondrej		0	851,877,1004,1023,1509
+675	SZABARI Ondrej Miklos		0	957,1067,1085,1174
+675	SZABARI Ondrej nizny		0	1142
+675	Szabari Ondrej, SR	zom.30.12.1993	0	1414,1418
+675	SZABARI P Andrej		0	1032
+675	SZABARI Stefan mal.		0	1141,1142,1165,1265,1278
+675	Szabari Štefan, SR		1	1353
+675	SZABARI V Alexander		0	1004
+675	Szabari Zoltan		0	1004
+675	SZABARI Zoltan mal.		0	897,1573
+675	SZABARIOVA Alzbeta		1	842,877,932,956,991,1004,1414,1418,1509,1524,1537,1670
+675	SZABARIOVA Alzbeta mal.		0	874,1141,1142,1165,1265,1278
+675	SZABARIOVA Alzbeta r.Gergelyova		0	870
+675	SZABARIOVA Alzbeta r.Zulova		0	1141,1142,1265
+675	SZABARIOVÁ Alžbeta	mal	1	1332,1417
+675	SZABARIOVA Barbora		1	842,898,993,1004,1099,1373,1509,1525,1578
+675	SZABARIOVÁ Barbora	r.Székelyová	1	1383
+675	Szabariová Barbora r. Nagyova		0	1004,1509
+675	SZABARIOVA Barbora r.Nagyova		0	872,910,911,960,978,979,995,1019,1028,1078,1106,1138,1154
+675	SZABARIOVA Barbora r.Viragova		0	1098
+675	SZABARIOVÁ Helena	mal	1	1418
+675	SZABARIOVA Helena r.Bacsova		0	851,1156,1569
+675	SZABARIOVÁ Ida	Ötvös	1	1420,1661
+675	SZABARIOVA Ida Otvos		0	1136,1180
+675	SZABARIOVÁ Irma	r.Bereczová	1	1332,1380,1417
+675	Szabariová Irma r. Bereczova		0	1004,1509
+675	SZABARIOVA Irma r.Bereczova		0	865,874,881,927,936,1033,1175,1280,1597,1603,1654
+675	SZABARIOVA Julianna		1	842,887,888,898,993,1004,1025,1040,1042,1047,1062,1073,1099,1218,1276,1373,1509,1525,1578,1579,1580
+675	Szabariová Julianna r. Lehocka		0	1004,1509
+675	Szabariová Julianna r. Vajdova		0	1004
+675	SZABARIOVA Julianna r.Lehocka		0	910,1078
+675	SZABARIOVA Maria r.Barnova		0	1054
+675	SZABARIOVA Terezia		1	874,956,1417
+675	Szabariová Terezia r. Nagyova		0	1004,1509
+675	SZABARIOVA Terezia r.Nagyova		0	840,846,909,982,997,1141,1142,1595,1657
+675	SZABARIOVA Zuzana		0	842,887,1067,1085,1099,1579
+675	SZABARIOVÁ Zuzana	r.Szabariová	1	1417
+675	SZABARIOVA Zuzana Miklos		0	957,1174
+675	SZABARIOVA Zuzana r.Szabariova		0	874,956
+675	SZABÓ Imrich		1	1360,1365
+675	SZABO Jan		0	1004,1509
+675	SZABO Ladislav		0	1285
+675	SZABÓ Ladislav	ž.Valeria Ondrášiková	1	1443
+675	Szabo Ladislav, Ing., SR		1	1443
+675	Szabová Alžbeta r. Tóthová		0	1086
+675	Szajková Ružena r. Duszová		1	1328
+675	SZEKELY Alexander		0	1036
+675	Székely Zigmund		0	894,1137
+675	SZEKELYOVA Judita		0	894
+675	Szekelyová Katarína		0	894
+675	Szekelyová Klára r. Molnárová		0	894,1137
+675	SZEPESSY Karol		1	1326
+675	SZEPESY Karol		0	846,909,982,997,1004,1657
+675	SZIDORA Gejza		0	1004,1509
+675	SZIDORA Vojtech		0	1004,1509
+675	SZIDOROVÁ Barbora	r.Pásztorová	1	1372
+675	Szidorová Irma		0	1004,1033,1509
+675	Szidorová Julia		0	1004,1509
+675	Szkarosiová Terezia r. Szentpeteriova		0	1004,1509
+675	SZKAROSIOVA Terezia r.Szentpeteriova		0	969
+675	SZKOKAN Ondrej		0	909,1004
+675	Szkokanová Terezia r. Otvosova		0	1004
+675	SZKOKANOVA Terezia r.Otvosova		0	909
+675	SZKOKANOVA Zuzana r.Duszova		0	941
+675	SZOROVA Zuzana r.Szabanova		0	1033
+675	Szucs Zoltan		0	1004
+675	SZUCS Zoltan mal.		0	896,1572
+675	Szuková Edita	Helena mal	1	1399
+675	SZUKOVA Edita Helena mal.		0	1045,1161,1570
+675	SZUKOVA Eleonora		1	1045,1161,1399,1570
+675	TAKACS Vojtech		0	1255
+675	TAKACSOVA Gizela		0	1255
+675	TAKACSOVA Irma		0	1255
+675	Temonová Zuzana r. Czaková		0	1026
+675	Thuróczyová Zuzana r. Duszová		0	727,1004,1509
+675	THUROCZYOVA Zuzana r.Duszova		0	988
+675	TIMONOVÁ Zuzana	r.Czakóová	1	1383,1392,1599
+675	Timonová Zuzana r. Czakoova		0	1004,1509
+675	TIMONOVA Zuzana r.Czakoova		0	892,940,1040,1081,1580,1652
+675	Tomi Marian		0	19
+675	Tomi Pavel		0	19
+675	TOPOROVÁ Júlia	r.Sekerková	1	1357
+675	TOTH Alexander		0	1039,1095,1108,1122,1130,1131,1132
+675	TOTH Jozef		0	879,954,955
+675	TÓTH Ľudovít		1	1358
+675	TOTH Ondrej		0	989
+675	TOTH Pavol		0	1095,1108,1130,1131,1132
+675	TOTH Vojtech		0	1108,1130
+675	TOTHOVA Alzbeta		0	914,936,1004,1039,1086,1108,1130
+675	TOTHOVA Alzbeta r.Nagyova		0	1105,1133
+675	Tothová Barbora		0	1004
+675	TÓTHOVÁ Barbora	r.Huňáková	1	1357
+675	TÓTHOVÁ Barbora	r.Vargová	1	1420
+675	TOTHOVA Barbora mal.		0	914
+675	Tothová Barbora r. Bacsova		0	1004
+675	TOTHOVA Barbora r.Bacsova		0	856,998,1056
+675	TOTHOVA Barbora r.Vargova		0	969,1180
+675	TOTHOVA Julianna mal.		0	1095
+675	TOTHOVA Julianna r.Halaszova		0	1131,1132
+675	TOTHOVA Sarlota		0	1095,1108,1122,1130,1131,1132
+675	TOTHOVA Terezia		0	1108,1130
+675	TOTHOVA Terezia r.Kubikova		0	1239
+675	URBAN Ludovit		0	1037
+675	URBAN Stefan		0	1037
+675	URBÁNOVÁ Júlia	r.Kaszová	1	1456
+675	VAJDA Alexander		0	851,1004,1005,1509
+675	VAJDA Frantisek		1	1004,1378,1655
+675	Vajda Ján		0	1004,1509
+675	VAJDA Jozef		0	1004,1005,1509
+675	Vajda Ladislav		0	1004,1509
+675	VAJDA Ondrej		0	1004,1509
+675	VAJDA Pavol		0	1005
+675	Vajda Stefan		0	1004,1509
+675	VAJDA Stefan -		0	900
+675	VAJDA Stefan mal.		0	1186
+675	VAJDA Stefan ml.		0	929,959
+675	Vajdová Barbora		0	1004,1509
+675	VAJDOVA Barbora r.Mogyorodiova		0	1055
+675	VAJDOVÁ Júlia	r.Vargová	1	1371
+675	Vajdova Julia r. Vargova		0	1004
+675	VAJDOVA Julia r.Vargova		0	902,1481,1575
+675	Vajdová Maria r. Vajdova		1	1004,1378,1655
+675	Varga Ján		0	1242
+675	Vargová Alžbeta		0	1203
+675	Vargová Barbora r.Szabariová		0	1481
+675	Vargová Helena r. Brezinová		0	1004,1509
+675	Vargová Júlia r. Sekerková, SR		1	1357
+675	Vargová Julianna		0	1203
+675	Vargová Mária r. Duszová		0	885,1074
+675	VERES Stefan		0	1056
+675	Veresová Julianna r. Bacsova		0	1004
+675	VERESOVA Julianna r.Bacsova		0	856,998,1056
+675	Vilagiová Alžbeta r. Pulenová		0	1004,1088,1509
+675	Viragová Oľga		1	1439
+675	ZAGIBA Andrej		0	1266
+675	Žilka Imrich		0	1148,1149,1157
+675	Žilka Imrich, SR		0	1293
+676	Ádám Ladislav, ž. Terézia r. Spišáková ž. Terézia r. Spišáková		0	1046
+676	Agosváriová Terézia r. Gubalová	m.Jozef	1	329
+676	Antónyová Mária		0	898
+676	Babusová Irena r. Garajová		1	648,707
+676	Babusová Terézia r. Kankulová	m.Štefan	1	636
+676	Babusuvá Irma r. Garajová	m.Vojtech	1	644,688
+676	Bacso Štefan		1	685
+676	Bacsová Matilda r. Špecková	m.Štefan	1	663
+676	Bakosová Šarolta		1	518
+676	Balog Ján		1	359
+676	Bárczi Belo	syn Jána	1	329,438,570
+676	Bárczi Belo, Ján , syn Jána Ján , syn Jána		0	901,1164
+676	Barczi František	nar.1904	1	173
+676	Barczi Ján		1	570,1102
+676	Barczi Ondrej, maloletý maloletý		0	1108
+676	Barczi Štefan	murár	1	173
+676	Barczi Vojtech	starší	1	591
+676	Barczi Vojtech, starší starší		0	1122
+676	Barczi Zoltán, maloletý maloletý		0	1171
+676	Barcziová Alžbeta, maloletá maloletá		0	907
+676	Barcziová Anna		0	901,1162
+676	Barcziová Anna	dcéra Štefana	1	329,438,439,1216
+676	Barcziová Mária r. Tóthová, m. Štefan m. Štefan		0	1156
+676	Barcziová Rozália r. Gálová	vd.,m.Štefan	1	439,626,1216
+676	Barcziová Rozália r. Gálová, m. Štefan m. Štefan		0	1184
+676	Barnaová Hermina r. Dorová		1	771
+676	Barnová Hermina r. Dorová		0	1053
+676	Bartók Alexander		0	1066
+676	Bartok Ladislav		1	708
+676	Bartok Štefan		1	648,707
+676	Bartok Vojtech		1	648,707
+676	Bartoková Juliana r. Vargová		1	667
+676	Bartolás Jozef	ž.Irma r.Cselényiová	1	446
+676	Bartolásová Alžbeta	dcéra Adama	1	446
+676	Bartolasová Anna r. Kissová	m.Štefan	1	769
+676	Bartolásová Anna r. Kissová, m. Štefan m. Štefan		0	1174
+676	Bartolásová Ema r. Mozesová, m. Belo m. Belo		0	922
+676	Bartollás Jozef		1	446
+676	Belák Alexander	ž.Júlia r.Garajová	1	637,660
+676	Belák Andrej	ž.Júlia r.Hegedusová	1	637
+676	Belák Ján	syn Martina	1	637
+676	Belák Ladislav	ž.Alžbeta r.Csiková	1	637
+676	Bereczová Elena r. Pomajová	m.Ján	1	404,405,406
+676	Bicskeyová Alica		1	518
+676	Bicskeyová Hortenzia		1	518
+676	Bodi Ján		1	638
+676	Bodnár Pavel		1	329
+676	Bradová Helena r. Vargová		0	900
+676	Breznenová Ema		1	547
+676	Császárová Júlia r. Enselová Réso	m.Alexander	1	518
+676	Csech Elemér	ž.Piroška r.Vargová	1	329
+676	Cselényi Štefan		0	1029
+676	Cselényi Štefan	syn Jozefa	1	603
+676	Cselényiová Ema		1	329,599,603,899,901,1086
+676	Cselényiová Irma	Rozália,dcéra Jozefa	1	329,599,603
+676	Cselényiová Irma, Rozália , dcéra Jozefa Rozália , dcéra Jozefa		0	899,901,1166
+676	Cselényiová Júlia		1	329,599,603,899,901,1036

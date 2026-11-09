@@ -1,0 +1,256 @@
+2769	Mišúrová Mária r. Šterdasová		0	1111
+2769	Navmostein Jakub		0	556
+2769	Oravanová Cecília		0	1218
+2769	Papričík Pavol		0	850
+2769	Papričík Štefan		0	984,985,1293,1294
+2769	Papričíková Katarína		0	1083
+2769	Papričíková Mária		0	1083
+2769	Papričíková Mária r. Kuviková		0	1117,1119
+2769	Pavlík František	zom.03.03.1997	0	1011
+2769	Petris Ján		0	1596
+2769	Pleško Dominik	zom.20.02.1990	0	1029
+2769	Pleško František		0	1219,1293,1294
+2769	Plešková Františka		0	589
+2769	Plešková Jolana r. Šterdasová	zom.23.09.1995	0	1218
+2769	Plešková Karolína		0	1123
+2769	Plešková Karolína r. Krajčoviechová		0	864,865,866,1029,1041,1218
+2769	Plšek Jozef		0	1293,1294
+2769	Plšeková Anna		0	586,1038,1096,1263,1293,1294
+2769	Potoček František		0	545,547,548,549,552,553,946,947,948,949,997,998
+2769	Potočková Anna		0	545,547,548,549,552,553,946,947,948,949,997,998
+2769	Pozník Jozef		0	1237
+2769	Pozníková Kristína		0	545,547,548,549,552,553,598,946,947,948,949,968,969,970,971,972,973,974,975,976,981,982,983,997,998,1095,1293,1294
+2769	Reichenthalová Rozália		0	556
+2769	Ruženka Mária		0	545,547,548,549,552,553,946,947,948,949,997,998
+2769	Smatana Kakaj Štefan		0	1038
+2769	Smataník Štefan		0	548,549,552,553,814,827,908,909,910,948,949,999,1000,1109,1125
+2769	Smataníková Katarína	r Lejková m Štefan	0	1143,1218
+2769	Smataníková Katarína	r. Lejková m.Štefan	0	506
+2769	Smataníková Mária		0	1293,1294
+2769	Smataníková Mária	r Lejková m Jozef	0	547
+2769	Smataníková Verona	zom.21.07.1998	0	1024,1026,1095
+2769	Smataníková Verona r. Babiarová		0	1108
+2769	Smatanová Katarína r. Marciníková		0	1038,1116
+2769	Sojčík Ján		0	553,577,961,1217,1293,1294
+2769	Šamaj František		0	546,833,1197,1198,1201,1291,1292,1293,1294,1424,1426,1427,1428,1470
+2769	Šamaj Ján	Mrlac	0	571,722,1233,1235,1293,1294,1705,1706
+2769	Šamaj Ondrej		0	1293,1294
+2769	Šamajová Agnesa		0	571,722,1233,1235,1293,1294,1705,1706
+2769	Šamajová Mária r. Smataníková		0	545,547,549,552,553,946,947,948,949,997,998
+2769	Ševčíková Juliana		0	544
+2769	Šibíková Anna r. Vatolíková		0	545,547,548,549,552,553,555,558,762,946,947,948,949,997,998,1202,1264,1293,1294
+2769	Šibíková Verona r. Potočková		0	545,547,548,549,552,553,946,947,948,949,997,998
+2769	Šípek Pavol		0	545,547,548,549,552,553,946,947,948,949,997,998
+2769	Šípeková Mária		0	1265,1266,1293,1294
+2769	Šištík Jozef		0	1218
+2769	Šištíková Anna r. Labudíková		0	545,547,548,549,552,553,946,947,948,949,997,998
+2769	Špitzer Arnošt		0	542,545,547,549,552,553,578,948,949,962,963,1240,1253,1254,1419
+2769	Šterdas Jozef		0	1016,1057,1063,1114,1116,1218,1421,1727
+2769	Šterdas Michal		0	1016,1057,1063,1109
+2769	Šterdas Pavol		0	1017,1218
+2769	Šterdas Vincent		0	977,978,1124,1127,1168,1169,1293,1294,1363,1364,1365
+2769	Šterdasová Anna		0	582,987,988,989,990,994,995,1016,1057,1063,1293,1294
+2769	Šterdasová Anna	r Šterdasová	0	1016
+2769	Šterdasová Anna r. Šterdasová		0	1063
+2769	Šterdasová Helena	r Balejová	0	1101
+2769	Šterdasová Helena r. Balejová		0	1109
+2769	Šterdasová Ilona		0	1017,1218
+2769	Šterdasová Johana		0	545,547,548,549,552,553,931,932,933,934,937,938,939,946,947,948,949,997,998,1174,1177,1178,1267,1268,1293,1294
+2769	Šterdasová Katarína		0	563,716,767,1293,1294
+2769	Šterdasová Katarína r. Mišúrová		0	582,987,988,989,990,994,995,1057,1293,1294
+2769	Šterdasová Mária		0	449,512,513,522,548,563,573,582,716,767,814,881,882,987,988,989,990,994,995,1016,1017,1057,1063,1101,1109,1116,1142,1148,1149,1156,1157,1158,1159,1160,1218,1293,1294,1386,1393,1459,1621
+2769	Šterdasová Mária r. Šbíková		0	946
+2769	Šterdasová Mária r. Šibíková		0	545,547,549,552,553,947,948,949,997,998
+2769	Turičíková Mária r. Balejová		0	1119
+2769	Tynková Anna r. Vnuková		0	524,1148,1149,1161,1162
+2769	Vatolík Anton		0	903,904,1293,1294
+2769	Vatolík Ján		0	545,547,548,549,552,553,555,558,762,946,947,948,949,997,998,1202,1264,1293,1294
+2769	Vatolík Jozef		0	174,476,520,979,980,1068,1253,1254,1255,1256,1262,1293,1294,1531,1692,1695
+2769	Vatolík Karol		0	174,476,520,545,547,548,549,552,553,946,947,948,949,979,980,997,998,1068,1121,1253,1254,1255,1256,1262,1293,1294,1531,1692,1695
+2769	Vatolík Pavol		0	174,1068,1531
+2769	Vatolíková Anna		0	545,547,548,549,552,553,946,947,948,949,997,998
+2769	Vatolíková Anna	r Krajčoviech Kozík	0	757,758,760,899,900,1041,1076,1170,1171,1285,1286,1293,1294
+2769	Vatolíková Anna	r. Krajčoviech Kozík	0	564,1294,1499
+2769	Vatolíková Anna r. Krajčoviech Kozík		0	1552
+2769	Vatolíková Kristína		0	548,549,946,947,997,998
+2769	Vatolíková Mária r. Balejová		0	979,980,1255,1256,1262,1692,1695
+2769	Višohlídová Katarína r. Maková		0	1019,1021,1478
+2769	Zboranová Verona r. Belúchová		0	1293,1294
+2770	Achimská Anna r. Achimská	zom 17.6.1993	1	3393,3619,4026
+2770	Achimská Marta r. Strnisková	zom 19.2.2004	1	3864
+2770	Achimská Marta r. Strnisková	zom.19.02.2004	1	3863
+2770	Achimský Ladislav	manž.Marta r.Strnisková	1	3393,3619,3629,3630,4026
+2770	Achimský Viliam		1	3393
+2770	Arvay Pavol	Amerika	1	3769
+2770	Balátová Pavlína r. Paštrnáková		1	3388
+2770	Balúchová Alžbeta r. Krasnecová		1	3547
+2770	Bartl Ondrej		1	3392
+2770	Bartl Vojtech		1	3392
+2770	Bartlová Johana r. Salátová		1	3392
+2770	Bartlová Mária r. Šalmová		0	24
+2770	Beláčik Ján	manž.Emília r.Vajdová	1	3500
+2770	Beláčik Ján	manž.Mária r.Matejcová	1	3862
+2770	Belák Filip	manž.Mária r.Mäčková	1	3860
+2770	Bella Anton	manž.Valéria r.Dianová	1	3876
+2770	Berešík Jozef		1	3706,4221
+2770	Berešíková Mária r. Čarsová		1	2768,3481
+2770	Betteš Jozef, Ing.	manž.Milena r.Šestáková	1	2547,3867
+2770	Bialeková Žofia r. Pacelová		1	1513,1514,1515,3052,4628
+2770	Bieglová Elena r. Hrušková	zom 20.7.1986	1	3451,3757
+2770	Bielená Margita		1	2091
+2770	Bielená Pavla r. Moricová		1	3450
+2770	Bízik Jozef	manž.Mária r.Molnárová	1	3712
+2770	Bíziková Mária r. Molnárová		1	3712
+2770	Blaho Andrej	manž. Etela Palovčíková	1	3822
+2770	Blaho Ján	manž.Mária r.Milanová	1	378,1291
+2770	Blahová Margita		1	3786
+2770	Blizniak Jozef		1	617
+2770	Blizniak Jozef	manž.Mária r.Skokňová	1	1374,2102,2104,2105,3318,3495,3613,3657,3703,4047,4783
+2770	Blizniaková Mária r. Skokňová		1	299,915,1095,1096,1097,3401,3403,3949
+2770	Blizniaková Marta r. Bíziková		1	3855,3862
+2770	Blizniaková Žofia r. Matejcová		1	2196
+2770	Bogárová Marta r. Vydrová		1	2171,4847
+2770	Bondová Mária r. Vaňková		1	2720,3907
+2770	Brčáková Anna r. Olezová		1	686,3689
+2770	Briešťanská Anna r. Jarabáková		1	2497,3328,4125
+2770	Brnová Božena r. Ulická		1	3599
+2770	Brusnická Elena r. Krasnecová		1	3547
+2770	Brveník Balšianka Andrej	manž.Anna r.Fízeľová	1	3434
+2770	Brveník Daniel	manž.Margita r.Tothová	1	2148,2191,3330,3714,4014,4356
+2770	Brveník Jozef	manž.Mária r.Hrušková	1	4014
+2770	Brveník Pavol	Amerika	1	2293,3331,3873
+2770	Brveníková Anna r. Beláčiková	Amerika	1	2144,2145,2147,3319
+2770	Brveníková Anna r. Fizeľová		1	2170,2539
+2770	Brveníková Anna r. Jarabáková		1	4014
+2770	Brveníková Božena r. Brveníková		1	3760
+2770	Brveníková Irena r. Lamošová	D 134/98 zom 17.1.1998	1	3797
+2770	Bulejová Mária r. Jonasíková	zom 2.9.1966	1	3848
+2770	Burgan Juraj	manž.Mária r.Zvadová zom 11.8.1967	1	3842
+2770	Ciger Andrej	manž.Anna r.Jazernicová	1	3631,3743
+2770	Ciger Ján		1	3631
+2770	Čechová Anna r. Višňovcová		1	3660,3764
+2770	Čechová Mária r. Čechová		1	3670,3764
+2770	Čechová Mária r. Čechová, 29.augusta 505/25, Sučany, PSČ 038 52, SR		0	307
+2770	Čechovičová Anna r. Moricová	pred tým Magicová	1	3621,3706,3733,3846,3938,4221
+2770	Čerňanská Emília r. Maňková		1	3332
+2770	Černek Ján		1	4003,4004
+2770	Čiliak Viliam	manž.Ľudmila r.Henzelyová	1	3504
+2770	Čiliaková Ľudmila r. Henzelyová		1	3504
+2770	Čiliaková Pavlína r. Berešíková		1	3791
+2770	Darulová Zuzana r. Majtánová		1	2405,4238
+2770	Darulová Zuzana r. Majtánová	Amerika	1	1131,2372,2811,3636,4849,4850
+2770	Demikátová Anna r. Miertová	USA	1	3871
+2770	Dolinský Ján		1	3396,3397
+2770	Družstvo Robotníckeho kultúrneho domu		1	3420
+2770	Dubovcová Mária r. Baranková		1	3379,3380,3780
+2770	Ďuríčeková Oľga r. Hrtanová		1	286,2479,2482
+2770	Ďurík Juraj	zomr.2.11.1976, D 739/80 - neprejednané	0	3949
+2770	Ďuríková Žofia r. Majtánová	Amerika	1	794,4051,4752
+2770	Ďuríková Žofia r. Rohoňová		1	3085
+2770	Ďuríková Žofia r. Rohoňová	Sklabiňa	1	2307
+2770	Ďurman Jozef	manž. Anna r.Chorváthová	1	3569
+2770	Ďurman Jozef	zom.21.10.1993	1	1132
+2770	Fajna Jozef		1	2192
+2770	Filo Peter	17D 1340/02 zom 11.11.2002	1	3631,3766
+2770	Filová Anna	R Jonasíková 17D 429/2008 zom 15.3.2003	0	3631
+2770	Filová Anna r. Jonasíková	17D 429/2008 zom 15.3.2003	1	3766
+2770	Fízeľ Andrej	manž.Zuzana Franková	1	382
+2770	Flack Alexander		1	3631
+2770	Flack Leopold		1	3631
+2770	Flacková Štefánia		1	3631
+2770	Foff Jozef, Ing		1	3757
+2770	Foffová Oľga r. Hrušková		1	3451,3757
+2770	Frolo Juraj	manž.Anna r.Brveníková	1	3566
+2770	Gaalová Anna r. Baľová		0	355
+2770	Galandová Anna r. Majtánová	Rybe horný	1	2035,3315,3476,3698,3806,3925,4491
+2770	Gallo Ján	Zom 27.9.1989	1	3397
+2770	Gallo Jozef		1	3782
+2770	Gallo Pavol	Ružomberok	1	3623
+2770	Gallo Peter		1	489,2599,2601,3379,3693,3780,3899
+2770	Gallová Anna r. Langsfeldová		1	1885
+2770	Gejdoš Ján r. Gejdoš		1	4027
+2770	Gejdošová Emília r. Jamrišková	zom 13.3.1969	1	2587,3852
+2770	Gregor Jozef		1	269,3523
+2770	Gregor Jozef	Amerika	1	3307,3604,3908,4529,4577
+2770	Gregor Vladimír		1	3524,3529
+2770	Gregorová Marta r. Bartlová	zom 23.1.2007	1	3638
+2770	Gregorová Zuzana r. Svinteková		1	3529
+2770	Gregušová Mária r. Babušiaková		1	3854
+2770	Grešo Emil		1	4003,4004
+2770	Hadová Anna r. Komentová		1	1131
+2770	Hálek Ľudovít r. Skokňa		1	299,915,1095,1096,1097,3307,3401,3403,3908,3949,4529,4577
+2770	Halúzková Mária r. Mamatejová	Amerika	1	3687,4386
+2770	Hanulová Anna r. Kostrová		1	2998
+2770	Hatala Pavol	manž.Katarína r.Skrisová	1	3721
+2770	Haverlíková Emília r. Kramárová	zomr.17.8.1985	1	3435,3790,4761
+2770	Hlaváčová Helena		1	3549
+2770	Hlavinová Anna r. Mikušová		1	2258,3676,4772
+2770	Horváth Jozef	Amerika	1	3687,4386
+2770	Horváthová Dorota r. Horváthová	Amerika	1	3687,4386
+2770	Horváthová Mária r. Horváthová	Amerika	1	3687,4386
+2770	Hrdek Jozef	manž.Zuzana r.Tomková	1	3440
+2770	Hrdek Ľudovít	manž.Božena r.Čapčíková	1	4029
+2770	Hrdek Pavol	manž.Zuzana r.Bobrovská	1	3731
+2770	Hrozienčik Andrej		1	3763
+2770	Hrozienčik Pavol		1	3763
+2770	Hrozienčíková Mária r. Hrozienčíková		1	3763
+2770	Hrtan Jozef		1	286,2484
+2770	Hrubalová Marta r. Mandíková		1	3385
+2770	Hrušková Andrejka r. Hrušková	zom 25.12.1974	1	3451,3757
+2770	Húšťavová Jozefína r. Murčeková		1	2180
+2770	Chludová Mária r. Ondrejčíková	Amerika	1	153,154
+2770	Chmúrny Juraj		1	3887
+2770	Chorvát Andrej Július	Amerika	1	1132,3310,3311,3336,3688
+2770	Chromcová Emília r. Beľová		1	4041
+2770	Chvojková Johana r. Rizmanová		1	3437
+2770	Imrišková Pavlína r. Murčeková		1	2180
+2770	Jamriška Dušan, PhDr.		1	3441
+2770	Jamriška Ján		1	2587
+2770	Jamriška Pavol	zom 5.7.2002	1	3339
+2770	Jamrišková Mária r. Ondrušová		1	2731,3852,3866
+2770	Jančová Anna r. Mamatejová	Amerika	1	3687,4386
+2770	Jankovič Kubis Juraj	ž.Emília r.Kubisová	1	3926
+2770	Jarabák Ján	Amerika	1	3127,3328,4125
+2770	Jarabáková Eva r. Veliká		1	3868
+2770	Jarabáková Mária r. Kučerová		1	3747
+2770	Jarabáková Zuzana r. Paceľová		1	3365,3367,4704,4720
+2770	Javornícky Mikuláš		1	4023
+2770	Jelšíková Zuzana r. Maňková		1	3332
+2770	Jelšovská Darina r. Jelšovská		1	4040
+2770	Jelšovský Ivan r. Jelšovský		1	3075,4040
+2770	Jesenská Emília		1	3604
+2770	Jesenský Mikuláš	manž. Emília r.Kurhajcová	1	3604
+2770	Jesenský Miroslav		1	3604
+2770	Ježowicz Otmar		1	3665
+2770	Káčer Andrej	manž.Vilma r.Vaváková	1	3744
+2770	Káčer Andrej	manž.Vilma Vaváková	1	3896
+2770	Káčer Ján		1	3896
+2770	Káčer Ján	manž.Mária r.Gregorová	1	3845
+2770	Káčer Miloš r. Káčer	zomr.08.02.2011	1	3896
+2770	Káčerová Vilma r. Vaváková		1	1800,3744
+2770	Káčerová Zuzana r. Káčerová		1	3896
+2770	Kadeřábek Viliam		1	3505
+2770	Kalčok Michal	Maďarsko	1	3923
+2770	Kališová Anna r. Gregorová		1	3348
+2770	Karcol Ján	Topoľčany	1	3713
+2770	Kempová Oľga r. Krepelková		1	3446
+2770	Keskevičová Anna r. Šalmová		1	2355,3083
+2770	Kiššová Margita r. Mandíková	zom 2.10.1992	1	3385
+2770	Kľačanová Oľga r. Kľačanová		1	3840
+2770	Kmetíková Anna r. Káčerová		1	3896
+2770	Kocperecová Mária r. Jarabáková		1	2497,3127,3328,4125
+2770	Kocperecová Mária r. Kocperecová		1	3747
+2770	Kočalka Juraj	manž. Anna Blahuštiaková, D 568/89	1	3445
+2770	Kolárová Anna r. Blizniaková		1	3586
+2770	Kollárová Mária r. Murčeková		1	2180
+2770	Kollárová Paulína r. Gallová		1	1828,2599,2979,3788,4442,4746
+2770	Koloková Anna r. Miertová	Amerika	1	3904
+2770	Komenda Imrich		1	3547
+2770	Komentová Emília		1	2541
+2770	Komentová Zuzana r. Lauková		1	2541
+2770	Koptyšová Mária r. Hliničanová		1	2311,3341,4793,4794
+2770	Korčeková Emília r. Majtáňová		1	3412
+2770	Korytínová Anna r. Rizmanová		1	3798
+2770	Kosper František	manž.Anna r.Dudeková	1	3730
+2770	Kostrová Emília r. Chilová		1	2407,4016
+2770	Kováčiková Elena r. Paškuliaková		1	4040

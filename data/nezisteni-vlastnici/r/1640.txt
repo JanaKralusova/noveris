@@ -1,0 +1,256 @@
+954	Ondruš Jozef, SR	Paškaj žen. so Žofiou Pompášovou	0	3051
+954	Ondruš Jozef, SR	Paškaj, ž.so Žofiou Pompášovou	0	2895,3010
+954	Ondruš Jozef, SR	súrod. Ján, Ondrej	0	2432
+954	Ondruš Jozef, SR	súrod. Mária, Zuzana	0	3091
+954	Ondruš Jozef, SR Hrkút, spoluvl. Ondrej, SPF		1	3402
+954	Ondruš Jozef, SR mal.		0	2306
+954	Ondruš Juraj, SR		0	3165
+954	Ondruš Karol, SR	hluchonemý	1	789,2813,2852,2860,2869,2870,2876,2879,2882,2890,2924,2938,2939,2961,2972,3003,3026,3073,3077,3091,3101,3102,3103,3105,3176,3231
+954	Ondruš Matej, SR		0	3091
+954	Ondruš Matej, SR	1	0	2852
+954	Ondruš Matej, SR	Huba	1	789,2432,2813,2852,2860,2870,2876,2924,2938,2939,2961,2972,3003,3026,3101,3103,3105,3177,3231
+954	Ondruš Ondrej, SR		0	2818
+954	Ondruš Ondrej, SR	Hrkút, brat Jozef	1	789,2432,2813,2870,2965
+954	Ondruš Ondrej, SR	Hrkút, brat Ondreja	1	3231
+954	Ondruš Ondrej, SR	Hrkút, ml	0	2512
+954	Ondruš Ondrej, SR	Huba	1	789,2432,2813,2852,2860,2870,2876,2924,2938,2939,2961,2972,3003,3026,3101,3103,3105,3177,3231
+954	Ondruš Ondrej, SR	mal., súr. Ján, Jozef	0	2875,2876,2879,2890,2924,2938,2939,2961,2972,3733,3878,3879,3880
+954	Ondruš Ondrej, SR	mal.,súr. Ján, Joze	0	3026
+954	Ondruš Ondrej, SR	mal.,súr. Ján, Jozef	0	2843,2860,3003,3073,3077,3103,3105
+954	Ondruš Ondrej, SR	mal.,súr.Ján,Jozef	0	3101,3102
+954	Ondruš Ondrej, SR	žen. s Máriou rod. Kútnikovou	0	2432,2813,2856,2870,3091
+954	Ondruš Ondrej, SR	ženatý s Máriou Kútnikovou	1	3231
+954	Ondruš Ondrej, SR	ženatý s Máriou rod. Kútnikovou	1	789
+954	Ondruš Peter, SR	Huba mal	1	2432,2860,3026,3231
+954	Ondruš Peter, SR	Huba, mal	1	789,2813,2852,2870,2876,2924,2938,2939,2961,2972,3003,3101,3103,3105
+954	Ondruš Peter, SR	Huba,mal	0	3177
+954	Ondruš Štefan	Hrkút	0	3123
+954	Ondruš Štefan r. Ondruš, SR	Hrkút	0	2937
+954	Ondruš Štefan, SR	Hrkút	1	789,2432,2813,2859,2870,2937,2946,2991,3063,3231
+954	Ondruš Štefan, SR	Huba	1	789,2432,2813,2860,2870,2876,2924,2938,2939,2961,2972,3003,3026,3101,3103,3105,3177,3231
+954	OndrušJán, SR	súr. Ondrej, Jozef	0	2860
+954	Ondruška Jozef	Hrkút	1	3458
+954	Ondruška Jozef, SR	Hrkút	1	2482,2520,2643,3466,3620,3643,3975,4353
+954	Ondruška Jozef, SR Hrkút		0	2306
+954	Ondruška Jozef, SR Hrkút, SPF		1	3402
+954	Ondrušová Anna r. Javorková, SR	Jozefova Hrkútova	1	789,2432,2447,2813,2870,2895,2897,3010,3051,3231
+954	Ondrušová Anna r. Javorková, SR	Jozefova, Hrkútová	0	2945
+954	Ondrušová Anna r. Javorková, SR Jozefova Hrkútová, r. Javorková		0	3113
+954	Ondrušová Anna r. Rošteková, SR		0	2939,3733
+954	Ondrušová Anna, SR		0	2879,3073
+954	Ondrušová Anna, SR	1	1	2432,2813,2870,3231
+954	Ondrušová Anna, SR	1 ,; 1	1	789
+954	Ondrušová Anna, SR	mal	1	789,2813,2852,2860,2869,2870,2876,2879,2882,2890,2924,2938,2939,2961,2972,3003,3026,3073,3077,3091,3101,3102,3103,3105,3176,3231
+954	Ondrušová Anna, SR	Rošteková	1	789,2813,2860,2870,2875,2890,2938,2961,3026,3091,3101,3231,3878,3879,3880
+954	Ondrušová Antónia r. Holík Pupjak, SR	Ondrejova Hrkút	0	3020
+954	Ondrušová Antónia r. Holík Pupjak, SR Ondrejova Hrkút, r. Holik Pupjak		0	3133
+954	Ondrušová Antónia, SR	zom. 27.06.1977, nepr. v D 896/77, D 1315/87	0	3618
+954	Ondrušová Emília, SR		1	789,2432,2813,2852,2860,2870,2876,2890,2924,2938,2939,2972,3003,3026,3102,3103,3105,3158,3231
+954	Ondrušová Irena r. Bražinová, SR		0	3121
+954	Ondrušová Katarína, SR		1	789,2432,2813,2852,2860,2869,2870,2876,2890,2924,2938,2939,2972,3003,3026,3102,3103,3105,3158,3231
+954	Ondrušová Katarína, SR	Hrkútová, súr. Ján, Štefan, Rozália	1	789
+954	Ondrušová Katarína, SR	Hrkútová, súr. Ján, Štefan, Rozália, Hrkútová, súr. Ján, Štefan, Rozália	1	3231
+954	Ondrušová Katarína, SR	Hrkútová, súr.Ján, Štefan, Rozália	0	2870
+954	Ondrušová Katarína, SR	Hrkútová,súr.Ján,Štefan,Rozália	0	2432,2813,2991
+954	Ondrušová Katerína, SR	mal	0	2432
+954	Ondrušová Mária r. Krajníková, SR		0	2944,3085,3099,3100
+954	Ondrušová Mária r. Kútniková, SR		0	2856
+954	Ondrušová Mária r. Kútniková, SR	Ondrejova	1	789,2432,2813,2856,2870,3091,3231
+954	Ondrušová Mária r. Žiarová, SR	Ondrejova	0	3060
+954	Ondrušová Mária, SR		1	789,2432,2813,2870,3123,3231
+954	Ondrušová Mária, SR	1	1	2432,2813,2870,3231
+954	Ondrušová Mária, SR	1 ,; 1	1	789
+954	Ondrušová Mária, SR	mal	1	789,2432,2813,2852,2860,2869,2876,2879,2882,2890,2924,2938,2939,2961,2972,3003,3026,3073,3077,3091,3101,3102,3103,3105,3176,3231
+954	Ondrušová Mária, SR Plavá Jarošová, SPF		1	3402,3424
+954	Ondrušová Rozália	Hrkútová	0	3123
+954	Ondrušová Rozália, SR	Hrkútová	1	789,2432,2813,2870,2991,3231
+954	Ondrušová Zuzana, SR		0	2879,3073
+954	Ondrušová Žofia	Hrkútová	0	3133
+954	Ondrušová Žofia r. Hrkútová, SR		0	2643
+954	Ondrušová Žofia, SR		1	789,2432,2813,2852,2860,2870,2876,2890,2924,2938,2939,2972,3003,3026,3102,3103,3105,3158,3231
+954	Ondrušová Žofia, SR	Hrkútová	0	2482,2520,2615,3975,4353
+954	Ondrušová Žofia, SR Hrkútová		0	2306
+954	Onruš Anton, SR	hluchonemý	0	3077
+954	Onrušová Mária, SR	mal	0	2870
+954	Oravcová Terézia r. Pudišová, SR		0	3148
+954	Pajlová Mária r. Balážová, SR		1	3693
+954	Pajlová Mária r. Balážová, SR SPF		1	3277
+954	Pančíková Anna		1	3458
+954	Pančíková Anna r. Škanderová, SR		1	3620
+954	Pančíková Anna r. Škanderová, SR SPF		1	3402
+954	Pančínová Anna r. Škanderová, SR		0	2306,2482,2520,2624,2643,2657,2668,2709,3767,3975
+954	PAPARČÍK Antón	nepr. D 1072/82	0	3458
+954	Paparčík Anton r. Paparčík	maloletý	0	4219
+954	Paparčík Anton, SR		0	2306,2482,2520,2528,2531,2538,2543,2568,2574,2636,2643,2683,3098,3131,3133,3975
+954	Paparčík Antón, SR	zom. 30.06.1978, nepr. D 1072/82	0	3620,3670
+954	Paparčík Antón, SR zom. 30.06.1978, nepr. D 1072/82		0	3402
+954	Paparčík Ján, SR		0	2306,2482,2520,2528,2531,2538,2543,2568,2574,2636,2643,2683,3098,3131,3133,3975
+954	Paparčík Štefan, SR		0	2528,2538,3098,3131,3133
+954	Paučiaková Anna r. Šantová, SR	Matáčová	0	2793
+954	Pauliny Ján, SR	ženatý s Máriou rod. Bulejovou	1	3634
+954	Paulíny Jozef	žen. s Annou rod. Barbušovou	0	2720
+954	Paulíny Jozef, SR		0	2612
+954	Paulíny Jozef, SR žen. s Annou rod. Barbušovou		0	2707,4278
+954	Paulínyová Anna		1	3458
+954	Paulínyová Anna r. Škanderová, SR		1	3620,3635
+954	Paulínyová Mária r. Šušová Matová, SR		1	2482,3620
+954	Pažitk Marián, SR	mal	0	2643
+954	Pažitka Jozef, SR	mal	0	2482,2520,2643,3975,4226
+954	Pažítka Jozef, SR	zom. 15.06.1998	0	3620
+954	Pažítka Jozef, SR mal.		0	2306
+954	Pažítka Jozef, SR zom. 15.06.1998		0	3402
+954	PAŽÍTKA Jozef, zom. 15.06.1998		0	3313,3315,3458
+954	Pažitka Karol, SR		0	3020
+954	Pažítka Ladislav		1	3313,3458
+954	Pažítka Ladislav	Jozef,Margita,Vincent,Marian,Milan/zom	1	3315
+954	Pažitka Ladislav, SR	mal	0	2482,2520,2643,3975
+954	Pažítka Ladislav, SR	Jozef, Margita, Vincent, Marian, Milan, zom	1	3620
+954	Pažítka Ladislav, SR Jozef,Margita,Vincent,Marian,Milan, zom. SPF		1	3402
+954	Pažítka Ladislav, SR mal.		0	2306
+954	Pažitka Marián, SR	mal	0	2482,2520,3975
+954	Pažítka Marian, SR	zom. 25.01.1994	1	3620
+954	Pažítka Marián, SR mal.		0	2306
+954	Pažítka Marian, SR zom. 25.01.1994, SPF		1	3402
+954	Pažítka Marian, Švošov, SR	zom.25.01.1994	0	3315
+954	PAŽÍTKA Marian, zom. 25.01.1994		1	3313,3458
+954	Pažitka Milan	mal	0	2482
+954	Pažitka Milan, SR	mal	0	2520,2643,3975
+954	Pažítka Milan, SR mal.		0	2306
+954	PAŽÍTKA Vincent	dedičstvo v konaní	0	3313,3315,3458
+954	Pažitka Vincent, SR	mal	0	2482,2520,2643,3975
+954	Pažítka Vincent, SR	zom. 14.01.1998, dedičstvo v konaní	0	3620
+954	Pažítka Vincent, SR mal.		0	2306
+954	Pažítka Vincent, SR zom. 14.01.1998, dedičstvo v konaní		0	3402
+954	Pažítková Anna r. Kútniková, SR	Jozefova, zomrela	1	3528
+954	Pažítková Anna r. Piklová		1	3283
+954	Pažítková Anna r. Piklová, SR		1	3694
+954	Pažítková Anna r. Piklová, SR SPF		1	3438
+954	Pažítková Margita, SR	mal	0	2482,2520,2643,3975
+954	Pažítková Margita, SR mal.		0	2306
+954	PAŽÍTKOVÁ Mária	nepr. v D 1713/93	0	3458,3692
+954	Pažítková Mária, SR		0	215
+954	Pažítková Mária, SR	zom. 03.06.1993, nepr. v D 1713/93	0	3620
+954	Pažítková Mária, SR zom. 03.06.1993, nepr. v D 1713/93		0	3402
+954	Pečková Mária r. Mišíková	Jureková, Mudráková	0	2717
+954	Pekárová Mária r. Kútniková	A2: , zomrela 10.1.1984	1	749,3932
+954	Pekárová Mária r. Kútniková, 034 93, Hubová, SR	zomr. 10.01.1984	0	749
+954	Pelendrek Ondrej, SR		0	2609,2902
+954	Penciak Ľudovít, SR		0	2718
+954	Penciaková Anna		1	3458
+954	Penciaková Anna r. Šantová		1	3362
+954	Penciaková Anna r. Šantová, SR		1	2306,2481,2482,2520,2643,3620,3975
+954	Penciaková Anna r. Šantová, SR Rudolfova, SPF		1	3402
+954	Penciaková Anna r. Šantová, SR SPF		1	3402
+954	Penciaková Mária r. Komová	sestra Anna Kútniková	1	3272,3273,3274,3275,4133,4134
+954	Penciaková Mária r. Komová, SR	sestra Anna Kútniková	1	3692
+954	Penčiaková Anna r. Šantová, SR	Rudolfova	1	3620,3661
+954	Petho Fridrich, SR		0	3148
+954	Piecka Emanuel, Ružomberok, PSČ 034 01, SR	zomrela 08.08.1978	0	3148
+954	Piecka Ján, SR		0	3148
+954	Pikla Jozef		1	3458
+954	PIKLA Jozef	nepr. v D 1369/78	0	3331
+954	Pikla Jozef, SR		1	3620
+954	Pikla Jozef, SR SPF		1	3402
+954	Pikla Karol		1	3458
+954	Pikla Karol, SR	ženatý s Jolanou Grantnerovou	1	3620
+954	Pikla Karol, SR ženatý s Jolanou Grantnerovou, SPF		1	3402
+954	Piklová Katarína		1	3458
+954	Piklová Katarína r. Chrenková, SR	Jozefova	1	3620
+954	Piklová Katarína r. Chrenková, SR Jozefova, SPF		1	3402
+954	Pincel Matej, SR	mladší	0	2544
+954	Pincelová Anna	mal	1	3367
+954	Pincelová Anna r. Chovanová, SR	Matejova ml	0	2544,3197
+954	Pincelová Anna, SR		0	3147
+954	Pincelová Anna, SR	mal	1	3643
+954	Pincelová Mária	Lacová,mal.,zom	1	3458
+954	Pincelová Mária	mal. Lacová	0	2720
+954	Pincelová Mária r. Chovan	Lacova, Kostolníková	0	2720
+954	Pincelová Mária r. Chovan Kostolníková, SR	Lacova	0	2482,2520,2643,2658,3975
+954	Pincelová Mária r. Chovan, SR Lacova, Kostolníková		0	2306
+954	Pincelová Mária, SR	Lacová, mal., zomrela	1	3620
+954	Pincelová Mária, SR	mal. Lacová	0	2482,2520,2643,2658,3975
+954	Pincelová Mária, SR Lacová, mal.,zomrela, SPF		1	3402
+954	Pincelová Mária, SR mal. Lacová		0	2306
+954	Piroh Bartolomej, SR		0	3148
+954	Piroh Cyprián, SR		0	3148
+954	Piroh Emil, Lisková, SR	zom.16.6.1994	0	3148
+954	Piroh Štefan, SR		0	3148
+954	Pirohová Emília, SR		0	3148
+954	PIROCH Ondrej	nepr. v D 539/93	0	3231,4320
+954	Piroch Ondrej, SR	nepr. v D 539/93, zom.28.06.1953	0	789
+954	Piroch Ondrej, SR	nepr. v D539/93	0	2432
+954	Piroch Ondrej, SR	zom. D539/93	0	2813
+954	Piroch Ondrej, SR	zom., D 539/93	0	2870
+954	Piroch Štefan, SR	zo Švošova	1	789,2432,2813,2870
+954	Piroch Štefan, Švošov, SR		1	3231
+954	Pirochová Anna, SR		0	2877,3002
+954	Pirochová Mária r. Babecová, SR	Ondrejova	0	2432,2813,2870
+954	Pirochová Mária r. Bebecová, SR	Ondrejova	1	789,3231
+954	Pirochová Mária r. Hatiarová, SR		1	789,2432,2813,2870,3231
+954	Piškula Matej, SR	mal	0	2642
+954	Plašková Katarína, SR		0	2520,3975
+954	Plavá Antónia	Jarošová	0	2720
+954	Plavá Antónia, SR	Jarošová	0	2482,2520,2643,2658,3975
+954	Plavá Antónia, SR Jarošová		0	2306
+954	Plavá Mária, SR	Jarošová	0	2482
+954	Plavý Antón	Jaroš mal	0	3127,3133
+954	Plavý Antón, SR	Jaroš mal	0	2575,4089
+954	Plintolvá Žofia r. Brveníková, SR		0	2600
+954	Plintová Žofia r. Brveníková, SR		0	2601,2602,2603
+954	Plško Ján	mal	1	3317,3325
+954	PLŠKO Ján	dedičstvo v konaní	0	3325,3458
+954	Plško Ján, SR	zom. 05.09.1998, dedičstvo v konaní	0	3578,3620,3670
+954	Plško Ján, SR zom. 05.09.1998, dedičstvo v konaní		0	3402
+954	Plško Jozef		1	3458
+954	PLŠKO Jozef	nepr. v D 1268/86	0	3317,3325,3458
+954	Plško Jozef, SR		1	64,2306,2520,2643,3133,3620,3975
+954	Plško Jozef, SR	zom. 13.09.1986, nepr. v D 1268/86	0	3620
+954	Plško Jozef, SR	zom. 13.09.1986,nepr. v D 1268/86	0	3670
+954	Plško Jozef, SR SPF		1	3402
+954	Plško Jozef, SR zom. 13.09.1986, nepr. v D 1268/86		0	3402
+954	Plškov Jozef, SR		0	2482
+954	Plšková Antónia, SR	zom.7.5.1984	0	2617
+954	Plšková Katarína, SR		0	2306,2482,2643,3133
+954	Plšková Mária, SR		0	2306,2482,2520,2643,3133,3975
+954	Plšková Zuzana r. Matulová	Ondrejova, rod. Matulová-vdova	1	3316,3317,4373
+954	Plžková Mária r. Matysová, SR	manž. Jozef	1	3804
+954	Pochela Ján, SR		1	789,3231
+954	Polák Ján, SR		0	3148
+954	Poláková Mária r. Peťková, SR	Jozefova	1	789,2432,2813,2870,2877,3002,3181,3231
+954	Poliak Ondrej, SR		0	3148
+954	Poliaková Zuzana r. Ondrušová Roštekoá, SR	Jánova	0	2860
+954	Poliaková Zuzana r. Ondrušová Rošteková, SR	Jánova	0	2890,2938,2961,3101
+954	Polláková Mária r. Peťková, SR		0	2877,3002,3181
+954	Polunc Ján		0	3062
+954	Polunc Ján r. Švindra, SR		0	3172
+954	Polunc Ján, SR		1	789,2432,2813,2870,2902,2931,2959,3124,3170,3231
+954	Polunc Ján, SR	ženatý s Annou Pukajovou	1	789,2432,2813,2870,2907,2978,3172,3231
+954	Polunc Jozef, SR	1	0	2432,2813,2870,2959
+954	Polunc Jozef, SR	1 ,; 1	1	789
+954	Polunc Jozef, SR	zomrel D 521/39	0	2432,2895
+954	Polunc Ondrej r. Švindra, SR		0	3172
+954	Polunc Ondrej, SR		1	789,2432,2813,2870,2906,2939,2959,2963,2989,2992,3185,3231
+954	Poluncová Anna r. Fokorová Pukajová, SR	Jánova	1	789,2432,2813,2833,2835,2839,2907,2920,2931,2978,3231,4274,4275,4276
+954	Poluncová Anna r. Fokorová Pukajová, SR Jánova, rod. Fokorová Pukajová		0	3124
+954	Poluncová Anna, SR	Jánova, rod. Fokorová Pukajová	0	2870,3172
+954	Poluncová Anna, SR	Jánova,rod. Fokorová Pukajová	0	3100
+954	Poluncová Katarína, SR	Babecová	0	2870
+954	Poluncová Mária r. Mikulková, SR		1	789,2432,2813,2870,3231
+954	Poluncová Mária, SR		0	2890
+954	Pompášová Zuzana, SR		0	2920
+954	Porubčianska Katarína r. Sidorová, SR		1	789,2432,2813,2870,3231
+954	Poskerová Anna r. Trojáková, SR		0	3203
+954	Potravné družstvo vo Švošove, SR		0	3051
+954	Potravné vo Švošove, SR	družstvo	1	789
+954	Potravné- družstvo, Švošov, SR		1	3231
+954	Potravné, SR	družstvo vo Švošove	0	2813,2854,2870,2895,2900,2915,3010,3166
+954	Prídavková Elena, SR	Škodová, mal	0	2916
+954	Prídavková Etela, SR	Škodová, mal	1	789,2813,2840,2870,2943,3231
+954	Prídavková Etela, SR	Škodová,mal	0	3066
+954	Prídavková Mária, SR	Škodová mal	0	3066
+954	Prídavková Mária, SR	Škodová, mal	1	789,2813,2840,2870,2916,2943,3231
+954	Prídavok Emil, SR	Škoda mal	0	2813,2870,2916,2943,3066
+954	Prídavok Emil, SR	Škoda, mal	1	789,2840,3231
+954	Prídavok Ján, SR	1	1	2813,2870,3231
+954	Prídavok Ján, SR	1 ,; 1	1	789
+954	Prídavok Ján, SR	Fazuba, ml	0	2903

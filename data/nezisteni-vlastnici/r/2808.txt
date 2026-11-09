@@ -1,0 +1,256 @@
+1578	Debnárová Ľudmila	súr.Anna,Mária,Terézia,čd.293/27	0	2235
+1578	Debnárová Mária	mal.otec Pavol,súr.Ján,Ilona,čd.1178/22	0	2300
+1578	Debnárová Mária	mal.Strelníky,čd.471/1931	0	2292
+1578	Debnárová Mária	mama Johana,Strelníky,čd.47/1868	0	2263
+1578	Debnárová Mária	súr.Anna,Terézia,Ľudmila,čd.293/27	0	2235
+1578	Debnárová Terézia	súr.Anna,Mária,Ľudmila,čd.293/27	0	2235
+1578	Debnárová Zuzana	mama Johana,Strelníky,čd.47/1868	0	2263
+1578	Debnárová Zuzana r. Ďurečková	zom.25.12.1983	0	2857
+1578	Detvan Štefan r. Detvan	B.Bystrica,Jesenského 8,nebohý	0	2219,2497
+1578	Dianovský Ondrej r. Dianovský	vzdialený,čd.1450/49	0	1123,1126
+1578	Dimoš Pavol r. Dimoš	otec Pavol,Strelníky,čd.2502/32	0	2283,3068
+1578	Dimošová Magdaléna r. Kováčová	Strelníky,čd.219/35	0	904
+1578	Dimošová Rozália	na nezn.mieste,otec Ondrej,čd.1347/49	0	2283,3068
+1578	Dimošová Zuzana	r.Majerová,Strelníky,čd.1364/29	0	2797
+1578	Dimošová Zuzana r. Čiefová	Strelniky 117,zom.30.11.1982	0	2283,3068
+1578	Dišková Anna r. Polónyová	čd.1965/34	0	1910
+1578	Donáth Július r. Donáth	čd.3072/48	0	2230
+1578	Dorčiaková Elena r. Hudecová	Zvolen,zom.19.3.1986	0	929,939
+1578	Dorotovičová Anna r. Čiefová	čd.3348/27,zom.24.11.1970	0	829,982,986
+1578	Dulajová Cecília r. Pušková	m.Štefan,B.Bystrica,nebohá	0	864
+1578	Dunajová Jozefína r. Nikolajová	m.Ondrej,čd.3448/1902	0	1623,1959,2089,2313,2762
+1578	Ďurčík Ján r. Ďurčík	ml.súr.Juraj,Strelníky,zápis pod A3/1848	0	2305,2826
+1578	Ďurčík Ján r. Ďurčík	otec Ondrej,Ľubietová 128,čd.1102/48	0	840,841
+1578	Ďurčík Ján r. Ďurčík	st.Strelníky,zápis pod A1/1848	0	2826
+1578	Ďurčík Juraj r. Ďurčík	otec Juraj,Ľubietová 128,čd.1103/48	0	840,841
+1578	Ďurčík Juraj r. Ďurčík	Strelníky,súr.Ján,zápis pod A4/1848	0	2305,2826
+1578	Ďurčík Juraj r. Ďurčík	Strelníky,zápis pod A5	0	1245
+1578	Ďurčík Juraj r. Ďurčík	ž.Mária r.Majerová,čd.76/51	0	2804
+1578	Ďurčík Ondrej r. Ďurčík	mal.súr.Mária,Anna,čd.525/1873	0	1245,2305,2826
+1578	Ďurčík Ondrej r. Ďurčík	Slovenská Lupča, zom.18.2.1996	0	2014,2091
+1578	Ďurčík Ondrej r. Ďurčík	Strelníky 15,čd.1538/1950	0	2804
+1578	Ďurčíková Anna	mal.súr.Ondrej,Zuzana,čd.525/1873	0	1245,2305,2826
+1578	Ďurčíková Mária	mal.súr.Ondrej,Anna,čd.525/1873	0	1245,2305,2826
+1578	Ďurčíková Mária	Strelníky 81,zom.9.1.2004	0	1372,2289
+1578	Ďurčíková Mária r. Majerová	Luptáková,nebohá	0	817,1406
+1578	Ďurečková Anna r. Krajčiová	Povrazník,nebohá	0	2323,2326
+1578	Ďurečková Anna r. Majerová	Povrazník,zom.27.12.1975	0	2869
+1578	Ďuricová Mária r. Chriašteľová	Strelníky,zom.19.9.1979	0	2265,2269
+1578	Dusková Mária	mal.Povrazník,čd.336/1887	0	2859
+1578	Dutka Ján		0	511
+1578	Dutka Ján r. Dutka	ž.Zuzana r.Filadelfiová,čd.2151/28	0	925
+1578	Dutka Jozef		0	616
+1578	Dutka Jozef r. Dutka	mal.súr.Zuzana,Rudolf,Vladimír,č.2239/49	0	2030
+1578	Dutka Július		0	616
+1578	Dutka Július r. Dutka	mal.súr.Zuzana,Jozef,Vladimír,č.2239/49	0	2030
+1578	Dutka Rudolf		0	616
+1578	Dutka Rudolf r. Dutka	Ľubietová 58,čd.258/55	0	2551
+1578	Dutka Rudolf r. Dutka	mal.súr.Zuzana,Július,Vladimír,č.2239/49	0	2030
+1578	Dutka Vladimír		0	616
+1578	Dutka Vladimír r. Dutka	súr.Zuzana,Július,Jozef,Vlado,č.2239/49	0	2030
+1578	Dutková Zuzana		0	616
+1578	Dutková Zuzana	súr.Jozef,Rudolf,Vladimír,čd.2239/49	0	2030
+1578	Dutková Zuzana r. Filadelfiová	m.Ján,čd.2151/28	0	925
+1578	Dutková Zuzana r. Kasprusová	m.Pavol,čd.2259/1891	0	1973,2138,2446
+1578	Dutková Zuzana r. Stolárová	m.Ondrej,čd.1796/12	0	2557,3035
+1578	Dutková Zuzana r. Zajacová	čd2213/32,2494/32,761/55	0	1040,1041,1042,1135,1932,1982
+1578	Dvorana Pavol r. Dvorana	ž.Mária r.Chriašteľová,čd.1323/62	0	2481
+1578	Dvorská Mária r. Čiefová	čd.411/1927,zom.26.5.1968	0	986
+1578	Dvorszka Anna, 976 55, Ľubietová, SR		0	425
+1578	Fajferová Anna	Strelníky 39,čd.2933/29,1875/40,3099/41	0	2756
+1578	Faklová Gizela r. Messerschmidtová	Gem.Ves,zom.3.5.2000	0	2583
+1578	Farská Hermína r. Laxová	čd.3072/48	0	2230
+1578	Feiferová Zuzana	zápis pod A1	0	2564,2755
+1578	Fellner Emil		0	464
+1578	Fellner Ján		0	464
+1578	Fellner Ján r. Fellner	súr.Ľudovít,Otília,čd.23/26,1678/25	0	955,1999
+1578	Fellner Ľudovít r. Fellner	Ľubietová,zom.14.5.1978	0	955,1999
+1578	Fellnerová Anna		0	464
+1578	Fellnerová Anna r. Katriaková	B.Bystrica,nebohá	0	910,2152,2193,2207,2359,2360,2508
+1578	Fellnerová Emília r. Štefányová	zom.20.10.2008	0	940,1747,1749,1750,1966,2635,2736
+1578	Fellnerová Jolana r. Janeková	Ľubietová,zom.17.1.1987	0	2129,2340,2629,2644,2689
+1578	Fellnerová Júlia r. Filadelfiová	Ľubietová,zom.10.3.1971	0	964,1930,2522,2569,2718,2719,2721,2723
+1578	Fellnerová Otília	súr.Ján,Ľudovít,čd.23/26,1678/25	0	955,1999
+1578	Fellnerová Zuzana	mal. čd.574/1885	0	2761
+1578	Filadelfi Dávid r. Filadelfi	mal.súr.Ondrej,Mária,Zuza,čd.1292/1899	0	1422
+1578	Filadelfi Emil r. Filadelfi	mama Kornélia,čd.190/32	0	2338
+1578	Filadelfi Emil r. Filadelfi	súr.Jozef,Mária,Jolana,čd.3932/27	0	1103,1592
+1578	Filadelfi Ján r. Filadelfi	Ľubietová 443,zom.28.5.1993	0	2100,2367,2391
+1578	Filadelfi Ján r. Filadelfi	Ľubietová 7,čd.1621/41	0	2633
+1578	Filadelfi Ján r. Filadelfi	mama Emília,čd.1758/39	0	1446
+1578	Filadelfi Ján r. Filadelfi	mama Ľudmila,čd.1008/44	0	1956
+1578	Filadelfi Ján r. Filadelfi	mladší,vargovie,Ľubietová 68,čd.625/54	0	2542
+1578	Filadelfi Ján r. Filadelfi	súr.Anna,Lorinc,Samuel,čd.1107/15	0	964
+1578	Filadelfi Ján r. Filadelfi	súr.Jozef,Pavol,Zuzana,Július,čd.1476/4	0	2575
+1578	Filadelfi Ján r. Filadelfi	súr.Mária,Júlia,Rudolf,Emília,čd.1241/44	0	2603
+1578	Filadelfi Ján r. Filadelfi	súr.Mária,Zuzana,Anna,čd.1225/63	0	2117
+1578	Filadelfi Ján r. Filadelfi	súr.Ondrej,Anna,čd.2424/29	0	2369
+1578	Filadelfi Ján r. Filadelfi	súr.Ondrej,Mária,Emília,čd.2185/27	0	1817
+1578	Filadelfi Ján r. Filadelfi	ž.Emília r.Ivaničová,čd.1168/43,331/54	0	2598,2704
+1578	Filadelfi Ján r. Filadelfi	ž.Mária r.Janeková,čd.3081/1907	0	780
+1578	Filadelfi Ján r. Filadelfi	ž.Mária r.Štefányová,čd.804/48	0	2250
+1578	Filadelfi Ján r. Filadelfi	ž.Rebeka r.Helexová,čd.507/1877	0	2149
+1578	Filadelfi Ján r. Filadelfi	ž.Vilma r.Lokšová,Ľubietová,zom.7.9.1983	0	2005
+1578	Filadelfi Jozef r. Filadelfi	brat Ján,čd.1010/30,1564/17,nebohý	0	1232,2304
+1578	Filadelfi Jozef r. Filadelfi	Ľubietová,zom.28.10.1987	0	2684
+1578	Filadelfi Jozef r. Filadelfi	súr.Anna,Ján,čd.2968/29	0	2058,2743,2782
+1578	Filadelfi Jozef r. Filadelfi	súr.Ján,Pavol,Zuzana,Július,čd.1476/40	0	2575
+1578	Filadelfi Jozef r. Filadelfi	súr.Pavol,Ladislav,čd.1402/18	0	2241,2356
+1578	Filadelfi Jozef r. Filadelfi	vzdialený,súr.Mária,Jolana,čd.3932/27	0	1103,1592
+1578	Filadelfi Jozef r. Filadelfi	ž.Mária,Žiar nad Hronom,zom.5.6.1989	0	2257
+1578	Filadelfi Július r. Filadelfi	súr.Ján,Pavla,Jozef,Zuzana,čd.1476/40	0	2575
+1578	Filadelfi Ladislav r. Filadelfi	súr.Jozef,Pavol,čd.1402/18	0	2241,2356
+1578	Filadelfi Ondrej r. Filadelfi	čd.1008/44	0	2522
+1578	Filadelfi Ondrej r. Filadelfi	čd.452/24	0	1467
+1578	Filadelfi Ondrej r. Filadelfi	hanesovie,ž.Mária r.Čiašová,čd.1352/1894	0	2598
+1578	Filadelfi Ondrej r. Filadelfi	súr.Ján,Anna,čd.2424/29	0	2369
+1578	Filadelfi Ondrej r. Filadelfi	súr.Ján,Jozef,Pavol,čd.1714/1908	0	1103
+1578	Filadelfi Ondrej r. Filadelfi	súr.Mária,Dávid,Zuzana,čd.1292/1899	0	1422
+1578	Filadelfi Ondrej r. Filadelfi	ž.Anna r.Rosenbergerová,čd.156/35	0	2030
+1578	Filadelfi Ondrej r. Filadelfi	ž.Irena r.Purgátová,čd.2471/42	0	1274,2432,2522
+1578	Filadelfi Ondrej r. Filadelfi	ž.Mária r.Kúteková,Ľubietová,čd.992/51	0	2028,2411,2636,2672
+1578	Filadelfi Ondrej r. Filadelfi	ž.Pavla,Ľubietová,zom.28.10.1971	0	1835
+1578	Filadelfi Rudolf r. Filadelfi	Ľubietová 238,čd.1167/43	0	2390
+1578	Filadelfi Rudolf r. Filadelfi	súr.Mária,Júlia,Ján,Emília,čd.1241/44	0	2603
+1578	Filadelfi Viktor r. Filadelfi	súr.Etela,Mária,Otília,čd.2337/41	0	2399
+1578	Filadelfiová Anna	r.Hudecová,Ľubietová 285,čd.2740/48	0	2132
+1578	Filadelfiová Anna	r.Vaisová m.Ján,Ľubietová,nebohá	0	1760,2189,2223,2246,2431,2442
+1578	Filadelfiová Anna	súr.Ján,Ondrej,čd.2424/29	0	2369
+1578	Filadelfiová Anna r. Filadelfiová	zápis pod A	0	2570
+1578	Filadelfiová Emília	mal. čd.538/29	0	1246
+1578	Filadelfiová Emília	mal. čd.795/1878	0	1629,1998
+1578	Filadelfiová Emília	mal.súr.Jozef,Mária,Emil,čd.1390/1908	0	1103
+1578	Filadelfiová Emília	súr.Ondrej,Mária,Ján,čd.2185/27	0	1817
+1578	Filadelfiová Helena r. Turčanová	Banská Bystrica,nebohá	0	2404
+1578	Filadelfiová Irena	Ľudmila,mal.Ľubietová 148,čd.6083/32	0	2215
+1578	Filadelfiová Irena r. Purgátová	Ľubietová,zom.17.1.2002	0	869
+1578	Filadelfiová Júlia r. Janeková		0	499
+1578	Filadelfiová Júlia r. Kenická	Ľubietová,zom.11.12.2000	0	1981
+1578	Filadelfiová Karolína	súr.Samuel,Terézia,Júlia,čd.4097/37	0	964,1930,2718,2719,2721,2723
+1578	Filadelfiová Mária	Gizela,mal.súr.Jozef,Jolana,čd.3932/27	0	1103,1592
+1578	Filadelfiová Mária	otec Ján kotlár,čd.1330/1896	0	2763
+1578	Filadelfiová Mária	r.Hudecová,Ľubietová,č.1114/17,2379/26	0	2454
+1578	Filadelfiová Mária	r.Kralovianska,čd.2308/38,zom.13.1.1961	0	933,2005,2416
+1578	Filadelfiová Mária	r.Piarová,čd.222/1885	0	1218,2100
+1578	Filadelfiová Mária	r.Potančoková m.bol Ján	0	1470
+1578	Filadelfiová Mária	r.Šišiaková,Ľubietová,zom.24.5.1964	0	778,2029,2636,2672
+1578	Filadelfiová Mária	r.Vidová m.bol Ján,čd.2768/1908	0	2241,2356
+1578	Filadelfiová Mária r. Basistová	S.Ľupča,zom.13.7.1986	0	2124,2492,2683,2838
+1578	Filadelfiová Mária r. Janeková, 976 55, Ľubietová, č. 42, SR	vdova,čd.257/52	0	779
+1578	Filadelfiová Rebeka r. Helexová	m.Ján,čd.507/1877	0	2149
+1578	Filadelfiová Soňa	bývala-Ľubietová 450,žije v ČR	0	964,1930,2718,2719,2721,2723
+1578	Filadelfiová Terézia r. Zajacová	m.Samuel,čd.184/17	0	2480,2641
+1578	Filadelfiová Vilma r. Lokšová	m.Ján,čd.1652/33,nebohá	0	1549,2371
+1578	Filadelfiová Zuzana	r.Dutková m.Pavol,čd.257/1908,3491/28	0	2516
+1578	Filadelfiová Zuzana	r.Helexová,vdova,čd.158/29,nebohá	0	1221,2232,2280,2427,2453
+1578	Filadelfiová Zuzana	r.Kováčová,Ľubietová 465,zom.14.2.2002	0	2344,2848
+1578	Filadelfiová Zuzana	r.Uhríková m.Ján,čd.2638/1891	0	2469
+1578	Filadelfiová Zuzana	sestra Mária Zajacová,čd.4027/39,3326/41	0	2191,2209,2241,2356,2480
+1578	Filadelfiová Zuzana	súr.Ondrej,Dávid,Mária,čd.1292/1899	0	1422
+1578	Filadelfiová Zuzana r. Debnárová	čd.1989/41,791/42	0	2248
+1578	Filadelfiová Zuzana r. Debnárová	vd.Ľubietová 300,č.2283/49	0	2496
+1578	Filadelfiová Zuzana r. Dutková		0	511
+1578	Filadelfiová Zuzana r. Dutková	m.Pavol,čd.257/1908,3491/28; m.Pavol,čd.257/1908,3491/28	0	1831,1832,1834,3032,3033
+1578	Filedelfiová Terézia	súr.Samuel ,Júlia,Karolína,čd.4097/37	0	964,1930,2718,2719,2721,2723
+1578	Firáková Zuzana r. Janeková	čd.965/1886	0	2485
+1578	Fodor Mikuláš r. Fodor	sestra Oľga,čd.2307/49,1125/57	0	2060,2061
+1578	Fodorová Gizela r. Štellerová	m.Kornel,čd.1265/18	0	2060
+1578	Fodorová Oľga	brat Mikuláš,čd.2307/49,1125/57	0	2060,2061
+1578	Friedmanová Elena r. Laxová	čd.3072/48	0	2230
+1578	Frtúsová Juliana r. Žabková	m.Ján,čd.637/25	0	2639
+1578	Gáliková Mária r. Vidová	m.Ján,čd.986/13	0	2163
+1578	Gálová Zuzana r. Majerová	Bátka,čd.4184/32,1064/37	0	2378
+1578	Garaj Peter r. Garaj	Ing. Ľubietová,zom.15.7.1993	0	2078
+1578	Garajová Otília r. Nikolajová	Valaská,zom.21.2.1986	0	1434
+1578	Gilová Zuzana r. Kováčová	Strelníky,čd.364/40	0	904
+1578	Graca Ján r. Graca	mama Mária,čd.1983/44	0	2630
+1578	Graca Ján r. Graca	ž.bola Emília r.Kubandová,čd.1340/43	0	869,2406
+1578	Graca Rudolf r. Graca	čd.1983/44	0	1938
+1578	Gracová Anna	mama Mária,Ľubietová 304,čd.2664/39	0	1992
+1578	Gracová Anna r. Janeková	m.bol Florián,,čd.225/35	0	1470,2198,2442,2505,2829
+1578	Gracová Anna r. Majerová	čd.1262/1933,nar-1890,zom-1977	0	1470,2198,2442,2504
+1578	Gracová Emília r. Štellerová		0	530,568
+1578	Gracová Emília r. Štellerová	Ľubietová,zom.6.6.1985	0	1412,1785,1786,1789,2653
+1578	Graczer Viliam r. Graczer	čd.897/1909	0	2197
+1578	Gránerová Ilona r. Majerová	m.Ondrej	0	2269
+1578	Gránerová Mária r. Purgátová	čd.223/1885	0	2303
+1578	Gregoňová Valéria r. Bergerová	čd.3072/48	0	2230
+1578	Gregor Ján		0	522
+1578	Gregor Ján r. Gregor	mama Terézia,nebohý	0	1111,1112,1114,1148,1178,1667
+1578	Gregor Jozef		0	522
+1578	Gregor Jozef r. Gregor	mama Terézia,nebohý	0	1111,1112,1114,1148,1178,1667
+1578	Gregor Ondrej		0	522
+1578	Gregor Ondrej r. Gregor	mama Terézia,nebohý	0	1111,1112,1114,1148,1178,1667
+1578	Gregor Vladimír r. Gregor	mal.súr.Blažena,Darina,čd.2224/39	0	2138,2650,2667
+1578	Gregorová Blažena	mal.súr.Darina ,Vladimír,čd.2224/39	0	2138,2650,2667
+1578	Gregorová Terézia		0	1115
+1578	Greková Irma r. Filadelfiová	Prievidza-Sídlisko 1232/6	0	2513
+1578	Gyurajčíková Mária r. Filadelfiová	čd.1241/44	0	2603
+1578	Hagarová Eva r. Čiefová	Nitra-Stračia cesta	0	855,856,857,858,859,2028,2029
+1578	Hajdúch Anton r. Hajdúch	ž.Anna r.Oleríniová,čd.898/1886	0	2705
+1578	Hajduch Eduard r. Hajduch	sur.Ján,Pavol,čd.1377/42	0	2099
+1578	Hajduch Ján r. Hajduch	sur.Eduard,Pavol,čd.1377/42	0	2099
+1578	Hajdúch Milan r. Hajdúch	Ľubietová 435,čd./1953	0	2615
+1578	Hajduch Pavol r. Hajduch	sur.Ján,Eduard,čd.1377/42	0	2099
+1578	Hajdúchová Anna r. Oleríniová	m.Anton,čd.898/1886	0	2705
+1578	Hajdúchová Anna r. Veinerová	m.Ján	0	606
+1578	Hajdúchová Antónia r. Tokárová	Ľubietová,zom.5.5.1994	0	2099
+1578	Hajduk Ján r. Hajduk	mal.Hajdušík,mama Darina,č.384,čd.508/51	0	2138,2650
+1578	Hajduk Martin r. Hajduk	starší,čd.331/1880	0	1178
+1578	Hajduková Anna r. Vyskočová	m.bol Michal,čd.1588/1902	0	2429
+1578	Hajduková Darina r. Gregorová	zom 1950,čd.2224/39	0	2667
+1578	Hajdušíková Margita	sestra Viktória,čd.2511/47	0	1985
+1578	Halát Ján		0	605
+1578	Halát Ján r. Halát	mal.brat Pavol,čd.334/1900	0	2461,2601
+1578	Halát Ján r. Halát	mama Rebeka,čd.328/1898	0	2820
+1578	Halát Pavol		0	605
+1578	Halát Pavol r. Halát	mal.brat Ján,čd.334/1900	0	2461,2601
+1578	Halátová Anna r. Sósová	m.bol Ján,čd.46/1889,1125/1895	0	2461,2817
+1578	Hardónyiová Emília r. Lófferová	čd.2477/40	0	2386
+1578	Haringová Emília r. Lovásová	B.Bystrica,čd.2976/33	0	2184,2480,2641
+1578	Hašková Anna	sestra Mária,čd.1024/1901	0	2224
+1578	Hašková Mária	sestra Anna,čd.1024/1901	0	2224
+1578	Hatvániová Júlia r. Šurinová	m.Štefan,čd.942/1905,1350/12	0	764,2430
+1578	Hauková Anna r. Dimošová	Harmanec,čd.1347/49	0	2283,3068
+1578	Heinrich Anton r. Heinrich	ž.Anna r.Schvartzmanová,zápis pod A1	0	1836
+1578	Helexa Ján r. Helexa	mama Mária,čd.1663/47	0	1272,1274,1275,1276
+1578	Helexa Ján r. Helexa	ž.bola Mária r.Filadelfiová,čd.526/51	0	1153
+1578	Helexa Jozef r. Helexa	Ľubietová 192,zom.25.6.2007	0	868
+1578	Helexa Jozef r. Helexa	mama Mária,čd.1663/47	0	1272,1274,1275,1276
+1578	Helexa Jozef r. Helexa	ž.Emília,Zvolen-Krup.cesta,zom.31.1.1958	0	2777
+1578	Helexa Ľudovít r. Helexa	mal. čd.2494/1891	0	1279
+1578	Helexová Elena	mama Mária,čd.1663/47	0	1272,1274,1275,1276
+1578	Helexová Irena	mal. čd.2494/1891	0	1279
+1578	Helexová Jolana	mama Mária,čd.1663/47	0	1272,1274,1275,1276
+1578	Helexová Mária r. Katriaková	m.Jozef,čd.287/16	0	2207
+1578	Helexová Terézia r. Messerschmidtová	Brezno,zom.14.2.1975	0	2790
+1578	Helexová Vilma r. Vaculíková	B.Bystrica,zom.5.10.2003	0	1000,1500,1501,1502
+1578	Helexová Vilma r. Vidová	Ľubietová,zom.12.12.2010	0	2582
+1578	Hiadlovská Amália r. Kasprusová	čd.295/27	0	2244
+1578	Hiadlovská Anna r. Filadelfiová	m.Ján,čd.3394/1903	0	1822
+1578	Hiadlovská Ester r. Nikolajová		0	597
+1578	Hiadlovská Estera r. Nikolajová	Rosenbergerová,,čd.1050/1887	0	2006
+1578	Hiadlovská Jolana r. Lamperová	Ľubietová,zom.24.2.2004	0	1052
+1578	Hiadlovská Mária	otec Ján,čd.843/63	0	1442
+1578	Hiadlovská Mária r. Lamperová	Ľubietová,zom.29.9.2001	0	1920
+1578	Hiadlovská Mária r. Polónyová	Ľubietová,zom.9.10.1976	0	2703
+1578	Hiadlovská Mária r. Uhríková	čd.843/63,zom.3.3.1978	0	2224,2638
+1578	Hiadlovský Dušan		0	118
+1578	Hiadlovský Ján r. Hiadlovský	súr.Ondrej,Mária,čd.951/1879	0	1976
+1578	Hiadlovský Pavol r. Hiadlovský	Turský,zápis pod A	0	970
+1578	Hiadlovský Pavol r. Hiadlovský	ž.Terézia r.Nikolajová,čd.1581/1901	0	2224
+1578	Hólc Anton r. Hólc	Ľubietová 377	0	2108
+1578	Holéci Ján r. Holéci	Slov.Lupča-Partizánska 23,zom.24.7.2006	0	2471
+1578	Holécy Dezider r. Holécy	otec Gustáv,čd.1473/25	0	949
+1578	Holéczyová Emília r. Škultétyová	vd.Ľubietová 414,čd.803/51	0	2553
+1578	Holéczyová Irena r. Vozáriková	m.Gustáv,nar-1884,zom-1982	0	949
+1578	Holík Emil r. Holík	otec Ondrej,čd.3626/38	0	1527
+1578	Holmanová Irma r. Luptáková	Praha,U nových domú 525,neb	0	2335
+1578	Hrašková Mária	čd.55/11	0	1042
+1578	Hrbáčová Gizela	mal.sestra Rozália,čd.2280/1902	0	2430,2487
+1578	Hrbáčová Rozália	mal.sestra Gizela,čd.2280/1902	0	2430,2487
+1578	Hrivnáčik Ján r. Hrivnáčik	Chyžné 114,čd.517/40	0	2233
+1578	Hrivnáková Anna r. Hrašková	čd.153/1885,1024/1901,55/11	0	1042
+1578	Hrivnáková Zuzana r. Uhríková	m.Ján,čd.2506/14	0	1343,1344,2531,2657
+1578	Hromada Ján r. Hromada	otec Ján,čd.179/37,19/38	0	2128,2252
+1578	Hromada Ján r. Hromada	ž.Mária r.Jahodová,čd.892/1890	0	2498

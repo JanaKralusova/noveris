@@ -1,0 +1,256 @@
+3017	ŠKODÁČEK Martin	súr.Anna,Alžbeta	0	5581
+3017	ŠKODÁČEK Michal	po Pavlovi	0	5934
+3017	ŠKODÁČEK Pavol	m.Katarína r.Jurášová	0	5940
+3017	ŠKODÁČEK Pavol	obytateľ Turej Lúky	0	5932
+3017	ŠKODÁČEK Štefan	slobodný,po Pavlovi	0	5929
+3017	ŠKODÁČKOVÁ Alžbeta	slabomyseľná,Vrbovce čd.359	0	5581
+3017	ŠKODÁČKOVÁ ANNA r. PODZÁMSKÁ, MYJAVA, SR		0	4019
+3017	ŠKODÁČKOVÁ ANNA r. PODZÁMSKA, SR	MANŽEL JÁN	0	2100,4243
+3017	ŠKODÁČKOVÁ Judita	r.Ištoková,m.Michal	0	1339,1340,1342,2149,2150,2570,2584,2892,2897,3242,3244,3246,3337,3339,3343,4047,4608,4706,4709,4711,6378,6379
+3017	ŠKODÁČKOVÁ Katarína	r.Holičová,nar.6.3.1911,zom.31.3.1969	0	3948
+3017	ŠKODÁČKOVÁ Katarína	r.Jurášová,m.Pavol	0	5940
+3017	ŠKRHA Ján	mladší,Jánov	0	4604,5386
+3017	ŠKRHA Martin	m.Anna r.Baránková	0	5422
+3017	ŠKRHA Martin	po Michalovi	0	2441
+3017	ŠKRHA Pavol	súr.Štefan,Martin,Kristína,Anna,Alžbeta	0	1045,4863
+3017	ŠKRHA Štefan	súr.Pavol,Martin,Kristína,Anna,Alžbeta	0	1045,4863
+3017	ŠKRHOVÁ Anna	r.Baránková,m.Ján	0	5422
+3017	ŠKRHOVÁ Anna	r.Halabrínová,n.16.11.1902,z.13.6.1968	0	5508
+3017	ŠKRHOVÁ Anna	r.Omastová	0	5,2114,2394,2395,2755,3650,4357,4359,5304,5326,5338,5357
+3017	ŠKRINÁR Daniel	syn Daniela	0	3202,3203,6883
+3017	ŠKRINÁR Samuel	m.Alžbeta r.Škrinarová,Myjava 57	0	5038,5040,5042
+3017	ŠKRINÁROVÁ Katarína	r.Pavlíková,m.Štefan	0	2524,5026
+3017	ŠPRINČICOVÁ Kristína	r.Kožíková,Štefanova,Brezová 445	0	852,2009,2011,2012,4472
+3017	ŠŤASTNÁ Ružena	r.Langerová,n.23.6.1889,z.20.2.1959	0	2027,2724,2727,5464,6042
+3017	ŠŤASTNÁ VIERA r. KRČ-BAJA, SR		0	2137,6388
+3017	ŠŤASTNÝ Michal	m.Anna r.Šimková,č.227	0	5703
+3017	Šťastný Pavol	zom.21.11.1999; zom.21.11.1999	0	5337,5346,5347,5350,5352
+3017	ŠŤASTNÝ Pavol	m.Rozália r.Srugerová	0	5480
+3017	ŠŤASTNÝ Pavol	od Anny Černákovej	0	5464
+3017	ŠŤASTNÝ Pavol	USA	0	3820
+3017	ŠŤASTNÝ Pavol	Zetek	0	5482
+3017	ŠŤASTNÝ PAVOL, USA		0	216
+3017	ŠŤASTNÝ Štefan	nar.3.5.1895,zom.2.10.1959	0	5660
+3017	ŠŤASTNÝ Štefan	USA	0	3820
+3017	ŠŤASTNÝ ŠTEFAN, USA		0	216
+3017	ŠTEFEKOVÁ-VRBOVÁ Kristína	r.Privracká,Javorník čd.235,Samuelova	0	5251
+3017	ŠVANCAROVÁ Alžbeta	r.Vaneková,m.Štefan	0	5819
+3017	TALČÍK Štefan		0	4711
+3017	TALČÍK Štefan	čd.53	0	5874
+3017	TALČÍK Štefan	nar.1.5.1932,zom.21.10.1994	0	1178,2972,2973,2974,4880
+3017	TESARKOVÁ Kristína	maloletá	0	3316,3607
+3017	THOMANOVÁ Alžbeta	r.Chlebíková,m.Pavol	0	394,983,1176,1858,4444,4445,4447,5196
+3017	Tomanová Anna r. Marečková, Podbranč, č. 189, SR	Jánova	0	6085
+3017	TOMŠÁLEK Štefan	m.Anna r.Zigmudová,nar.12.1.1885	0	3917
+3017	TOMŠÁLKOVÁ Anna	r.Zigmundová,n.13.9.1886,z.11.9.1963	0	2943,2947,2948,3364,5447,5448
+3017	TRGALA Štefan	súr.Kristína,Anna	0	3220
+3017	TUGOVÁ Anna	r.Pekníková,m.Štefan	0	5045
+3017	ÚRADNÍČEK Štefan	m.Kristína r.Siváčková	0	5038,5039,5040
+3017	ÚRADNÍČKOVÁ Kristína	r.Siváčková,m.Štefan	0	5038,5039,5040
+3017	VACULA Ján	po Jurajovi	0	4405,4406,4407,4411,4422,5728,6205
+3017	VACULA Ján	syn Pavla	0	1750,3450,4338,4408,4409,4411,4425,4429,4868,6814,6820
+3017	Vacula Juraj	m. Anna r.Gašová	0	1475
+3017	VACULA Juraj		0	1475,1750,3450,4338,4408,4409,4425,4429,4868,6814,6820
+3017	VACULA Juraj	m.Anna r.Gašová,čd.187	0	1750,3450,4338,4395,4408,4409,4411,4425,4429,4868,6814,6820
+3017	VACULA Pavol	po Jurajovi	0	4405,4406,4407,4411,4422,5728,6205
+3017	VACULA Pavol	súr.Anna	0	4409
+3017	VACULA Pavol	súr.Kristína	0	1750,3450,4338,4408,4411,4425,4429,4868,6814,6820
+3017	VACULA Štefan	nar.15.11.1880,zom.20.3.1962	0	1749,3449,4405,4406,4407,4408,4409,4411,4422,4425,4868,5764,6205,6798,6814,6820
+3017	VACULA Štefan	od Vaculov č.218	0	3476
+3017	VACULA Štefan	súr.Juraj	0	4429
+3017	VACULOVÁ Alžbeta	dcéra Pavla	0	1750,3450,4338,4408,4409,4411,4425,4429,4868,6814,6820
+3017	VACULOVÁ Alžbeta	r.Jediná,m.Štefan,n.15.6.1886,z.19.3.68	0	1479,3789,4190,4191,4193,4339,4343,4420,4870,5765
+3017	VACULOVÁ Alžbeta	r.Krčková-Jediná	0	1686,3671
+3017	VACULOVÁ Anna	r.Gažová	0	5018
+3017	VACULOVÁ Anna	r.Podzámska	0	4493,4714
+3017	VACULOVÁ Anna	súr.Pavol	0	1750,3450,4338,4425,4715,4868,6814,6820,6971
+3017	VACULOVÁ Katarína	po Jurajovi	0	4405,4406,4407,4411,4422,5728,6205
+3017	VACULOVÁ Kristína	dcéra Pavla	0	1750,3450,4338,4408,4409,4411,4425,4429,4868,6814,6820
+3017	VACULOVÁ Kristína	po Jurajovi	0	4405,4406,4407,4411,4422,5728,6205
+3017	VACULOVÁ Kristína	súr.Pavol	0	1750,3450,4338,4408,4409,4411,4425,4429,4868,6814,6820
+3017	VACULOVÁ Zuzana	dcéra Pavla	0	1750,3450,4338,4408,4409,4411,4425,4429,4868,6814,6820
+3017	VACULOVÁ Zuzana	otec Ján,nar.4.3.1899,z.21.1.1976	0	5783
+3017	VACULOVÁ Zuzana	po Jurajovi	0	4405,4406,4407,4411,4422,5728,6205
+3017	VACULOVÁ Zuzana	r.Fúsková,nar.24.5.1897,zom.14.10.1963	0	1750
+3017	Vachula Ján	zom.6.4.1969; zom.6.4.1969	0	5283
+3017	VACHULA Ján	čd.421	0	5019
+3017	VACHULA Ján	m.Alžbeta r.Podmajerská	0	1891,1937,2070,2345,2445,2458,5047,5337,5341,5349,5350,5351,5352,5453,5488,5489,5498,5525,5527,5528
+3017	VACHULA Ján	m.Anna r.Holičová,n.20.3.1883,z.21.5.62	0	3208
+3017	VACHULA Ján	m.Kristína r.Jurík,n.15.1.1885,8.12.1967	0	5283
+3017	VACHULA Ján	súr.Anna,Štefan,Katarína,Alžbeta	0	2958,2964,5453,5489
+3017	VACHULA JÁN, SR		0	708
+3017	VACHULA JÁN, SR	ŽEN. ALŽBETA R. PODMAJERSKÁ	0	708
+3017	VACHULA Pavol	m.Alžbeta r.Žabková	0	1891,2070,2345,2445,2458,5337,5341,5349,5350,5351,5352,5408,5485,5486,5488,5489,5498,5525,5527,5528
+3017	VACHULA Pavol	maloletý,po Jánovi	0	3894
+3017	VACHULA PAVOL, SR	ŽEN. ALŽBETA R. ŽABKOVÁ	0	708
+3017	Vachula Štefan	zom.10.10.1993; zom.10.10.1993	0	5283
+3017	VACHULA Štefan		0	5283
+3017	VACHULA Štefan	m.Kristína r.Vaneková,n.22.1.1890	0	272,1950,1951,1959
+3017	VACHULA Štefan	súr.Ján,Anna,katarína,Alžbeta	0	1891,2070,2345,2445,2458,2958,2964,4067,5264,5337,5341,5349,5350,5351,5352,5453,5488,5489,5498,5525,5527,5528
+3017	VACHULA ŠTEFAN, SR		0	708
+3017	VACHULA ŠTEFAN, SR	PO ŠTEFANOVI	0	708
+3017	VACHULOVÁ Alžbeta	dôchodkyňa,č.3 Turá Lúka	0	5800
+3017	VACHULOVÁ Alžbeta	r.Podmajerská	0	4989
+3017	VACHULOVÁ Alžbeta	r.Žabková	0	1891,2070,2345,2445,2458,2958,2964,5337,5341,5349,5350,5351,5352,5453,5485,5486,5488,5489,5498,5525,5527,5528
+3017	Vachulová Alžbeta r. Reptavá	zom.19.10.1983; zom.19.10.1983	0	5704,5944
+3017	VACHULOVÁ ALŽBETA r. ŽABKOVÁ, SR		0	708
+3017	VACHULOVÁ Anna		0	3373,4457,6243,6305
+3017	VACHULOVÁ Anna	súr.Ján,Štefan,Katarína,Alžbeta	0	2958,2964,5453
+3017	VACHULOVÁ ANNA, SR		0	708
+3017	VACHULOVÁ Katarína	súr.Ján,Anna,Štefan,Alžbeta	0	2958,2964,5453,5489
+3017	VACHULOVÁ KATARÍNA, SR		0	708
+3017	VACHULOVÁ Kristína	r.Vanková,čd.354,n.3.2.1891,z.20.9.1960	0	5269
+3017	VACHULOVÁ Zuzana	r.Majtánová,n.7.2.1921,z.13.9.2001	0	3700
+3017	VACHULOVÁ Zuzana	r.Majtánová,n.8.10.1903,z.4.3.1993	0	5014
+3017	VALENTOVÁ Anna	r.Valachová	0	4704,6341,6585
+3017	VALIHOROVÁ Alžbeta	r.Šimková,Jánova,čd.154	0	5953
+3017	VALÚCHOVÁ Anna	r.Holíčová,USA	0	3289,3303,3309,4091,4092,6140,6474,6478
+3017	VAŇA Ján	m.Anna r.Bajzová	0	2011
+3017	VANEK Ján	nar.9.9.1895,zom.28.12.1985	0	2747
+3017	VANEK STEFAN, SR		0	456
+3017	VANEK Štefan	syn Štefanov	0	5819
+3017	VANKOVÁ Zuzana	r.Vachulová,m.Ján,n.20.6.1895,z.6.9.1972	0	2747
+3017	VDOVIAK Ján	ml.č.580 Myjava	0	5250
+3017	VIČÍK Daniel	súr.Štefan,Michal,Samuel	0	5981
+3017	VIČÍK Ján	maloletý,syn Štefana	0	5720,5728
+3017	VIČÍK Michal	súr.Štefan,Samuel,Daniel	0	5981
+3017	VIČÍK Samuel	súr.Štefan,Michal,Daniel	0	5981
+3017	VIČÍK Štefan	m.Alžbeta r.Škaritková	0	5720,5728
+3017	VIČÍK Štefan	súr.Michal,Samuel,Daniel	0	5981
+3017	VIČÍKOVÁ Alžbeta	maloletá,dcéra Štefana	0	5720,5728
+3017	VIČÍKOVÁ Anna	maloletá,dcéra Štefana	0	5720,5728
+3017	VIČÍKOVÁ Zuzana	maloletá,dcéra Štefana	0	5720,5728
+3017	VIDASOVÁ Anna	r.Beloritová,m.Ján	0	1178,2972,2973,4890,5666,5883
+3017	VISELKOVÁ Kristína	r.Oslejová	0	4149
+3017	VISKUPOVÁ Anna	r.Krčová,m.Michal	0	3353,5381,5521
+3017	vlastník nie je známy		0	5696
+3017	VRÁNA Daniel	učiteľ,súr.Ján	0	547,1628,6416
+3017	VRÁNA Pavol	syn Pavlov	0	4634,6428
+3017	VRÁNOVÁ Kristína	r.Bachorčíková,Štefanova	0	6016
+3017	ZAJÍČEK Juraj	m.Zuzana,r.Tesáreková,Orbovce č.355	0	2110,2469,6262
+3017	ZÁVODNÁ Kristína	r.Podmajerská	0	4461
+3017	ZELENÁK Ján	m.Alžbeta r.Hornáková	0	5235
+3017	ZELENÁK Ján	m.Alžbeta r.Marečková	0	3920
+3017	ZELENÁK Martin	m.Anna r.Krčová,čd.400	0	5231
+3017	ZELENÁK Pavol	m.Kristína r.Sukupová	0	5225,5228
+3017	ZELENÁK Pavol	súr.Alžbeta,Anna,Kristína,Ján	0	3920
+3017	ZELENÁKOVÁ Anna	súr.Alžbeta,Pavol,Kristína,Ján	0	3920
+3017	ZELENÁKOVÁ Kristína	súr.Alžbeta,Anna,Pavol,Ján	0	3920
+3017	ZELENÁKOVÁ Zuzana	r.Marková,m.Juraj	0	3920
+3017	ZEMAN Daniel		0	3515
+3017	ZEMAN Eduard	m.Viera r.Žihová,Bratislava	0	6003,6004
+3017	ZEMAN Pavol	m.Anna r.Kubovčiaková	0	5008
+3017	ZEMAN Vladimír	maloletý Milan,súr.Alžbeta,Vlasta,Ján	0	692,3718,4892,4896
+3017	ZEMAN VLADIMÍR - MILAN, SR		0	693
+3017	ZEMANOVÁ Alžbeta	r.Michalcová,m.Samuel	0	6003,6004
+3017	ZEMANOVÁ Anna	r.Kubovčiaková,m.Pavol	0	5008
+3017	ZEMANOVÁ VLASTIMILA, SR		0	693
+3017	ZIGMUNDOVÁ Alžbeta	súr.Anna,Zuzana,Kristína,Katarína	0	3708,3709,6395
+3017	ZIGMUNDOVÁ Kristína	r.Krčová,m.Juraj	0	5495,5518
+3017	ZIMA Daniel	m.Kata r.Škanderová,n.18.6.1908,z.9.3.92	0	604,1171,1990,2355
+3017	ZIMA Ján	m.Anna r.Podmajerská,Brezová p.Bradlom	0	2200,6606
+3017	ZIMA Pavol	čd.436/a	0	3316
+3017	ZIMA Pavol	nar.7.6.1898	0	2811,3607,5254
+3017	ZIMA Pavol	súr.Daniel,Tomáš	0	604,1171,1990,1991,2355,2356,2564,6251,6722
+3017	ZIMOVÁ Alžbeta	r.Zimová,Pavlova	0	2811
+3017	ZIMOVÁ Anna r. Černáková		0	2811
+3017	ZIMOVÁ Katarína	r.Škanderová,n.14.3.1907,zom.5.1.1996	0	604,1171,1173,1990,1991,1992,2355,2356,2564,6251,6722
+3017	ZIMOVÁ Zuzana	dcéra Jána	0	3168
+3017	ZRÍNY Pavol	súr.Ján	0	1068,1720,5492
+3017	ZRÍNYOVÁ Alžbeta	súr.Kristína	0	3326,3328,3330,4704,6341,6585
+3017	ZRÍNYOVÁ Anna	r.Krčová, nar.24.4.1908,zom.26.1.1988	0	6722
+3017	ZRÍNYOVÁ Anna	r.Krčová; r.Krčová	0	1171,1173,1990,1991,1992,2355,2356
+3017	ZRÍNYOVÁ Anna r. Krčová		0	604,2564,3328,3991,5201,5202,6251
+3017	ZUSTROVÁ Kristína	r.Beloritová,m.Alex	0	1178,2972,2973,4890,5666,5883
+3017	ŽABKA Ján	m.Katarína r.Dugová	0	5162
+3017	ŽABKA Ján	m.Kristína r.Foltínová	0	2506,2508,3067
+3017	ŽABKA Ján	syn Štefanov	0	2240,2829,3480,5288
+3017	ŽABKA Martin	syn Štefanov	0	2240,2829,3480
+3017	ŽABKA Michal	po Pavlovi,Amerika	0	3067
+3017	ŽABKA Pavol	maloletý,syn Pavlov	0	2236,2240,2242,2243,2825,4082
+3017	ŽABKA Pavol	po Pavlovi,Amerika	0	3067
+3017	ŽABKA Pavol	súr.Štefan,Zuzana	0	2246,2247,2251,6728
+3017	ŽABKA Pavol	syn Jána č.444	0	5173
+3017	ŽABKA Pavol	syn Štefanov	0	2236,2240,2248,2249,2829,3165,3480,4082
+3017	ŽABKA Štefan	m.Anna r.Jurčová	0	2243
+3017	ŽABKA Štefan	m.Františka r.Kuranová,Sliezko	0	2507,2509,2510
+3017	ŽABKOVÁ Alžbeta	po Pavlovi,Amerika	0	3067
+3017	ŽABKOVÁ Anna	maloletá,dcéra Pavla	0	3766
+3017	ŽABKOVÁ Katarína		0	3067
+3017	ŽABKOVÁ Kristína	r.Foltínová,m.Ján,Myjava č.509	0	1813,3069,5116,5134,5137,5141,6877
+3017	ŽABKOVÁ Kristína	r.Vachulová,nar.9.4.1907,zom.2.8.1985	0	5166
+3017	ŽABKOVÁ Zuzana	maloletá,dcéra Pavla	0	2236,2240,2242,2243,2247,4082
+3017	ŽABKOVÁ Zuzana	po Pavlovi,slabomyselná,Myjava č.509	0	2507,2509,2510
+3017	ŽABKOVÁ Zuzana	súr.Štefan,Pavol	0	2246,2251,6728
+3017	ŽÁK Ján	m.Natália r.Šubová,Myjava č,1968	0	5059
+3017	ŽÁKOVÁ Natália	r.Šubová,Myjava č,1968,m.Ján	0	5059
+3018	Adamé Zuzana r. Volnová, Konské, SR		0	2262
+3018	ADAMÉ Zuzana, SR		0	4729
+3018	ACHIMSKÝ Ján, SR		1	4330
+3018	BAĽAĽA Jozef, SR	Žilka	1	4906
+3018	BAĽAĽA ONDREJ, RIEČNA 546/9, Turany, SR		0	2117,5379,5775,5777
+3018	Baľaľa Ondrej, SR		0	3908,4088,4993
+3018	BALALOVÁ ANNA, SR		0	2260
+3018	Balíková Emília		0	3206,3908
+3018	Balíková Emília r. Miľanová		0	2234,2322,2323,4547,4972
+3018	BALÍKOVÁ Zuzana, SR		0	2507
+3018	Balko Ján	Maslák	0	2824
+3018	BALKO JÁN, SR		0	2329,2486
+3018	BALKO Ladislav, SR	Bučko	0	3503
+3018	Balko-Baľaľa Anna r. Pohanková, SR		0	863,3908
+3018	BALKOVÁ Anna r. Hilková, SR		0	3452
+3018	BALKOVÁ ANNA r. POHANKOVÁ, SR		0	2257,2259
+3018	BALKOVÁ Emília r. Majtáňová, SR		1	4318,4328,6449
+3018	BALKOVÁ Katarína r. Frkaňová, SR		0	3520
+3018	BALKOVÁ Katarína r. Hilková, SR		0	3452
+3018	Balková Mária	Masláková	0	2824
+3018	BALKOVÁ Zuzana r. Frkáňová, SR		0	3520
+3018	BALKOVÁ ZUZANA r. KUBÁŇOVÁ, SR		0	2329
+3018	BALKOVÁ Zuzana r. Vojko-Kapusta, SR		0	3497
+3018	Balková Zuzana r. Vojtko-Kapusta, SR		0	5252,5336
+3018	Balková Zuzana r. Vojtko, SR	Kapusta	0	2509
+3018	BALKOVÁ ZUZANA r. VOJTKOVÁ, SR		0	2220
+3018	Balková Žofia	Masláková	0	2824
+3018	BARÁNIOVÁ MARGITA r. UJČEKOVÁ, SR		0	2243,2247,2249
+3018	Barica Andrej	Majer	1	4982
+3018	BARICA Andrej, SR	Majer	1	4288,4289
+3018	Barica Ján Jozef	Turany	0	3724
+3018	BARICA Ján, SR	Majer	1	211,4380
+3018	BARICA Ján, SR	Repke	0	3908
+3018	BARICA JÁN, SR	Majere	0	1409
+3018	BARICA Jozef, SR		0	3308,3309,3325,3361,3462,3908,5253,5254,5463,5464,5591,5592,6028,6029
+3018	BARICA Miloš, SR		0	3135
+3018	Barica Ondrej, SR	Majer	1	211,4380
+3018	BARICA Ondrej, SR	Majer st	0	3387,3908
+3018	BARICA ONDREJ, SR	Majere	0	1409
+3018	BARICA Pavol, SR		1	4871
+3018	BARICA Pavol, SR	Majer	1	211,1409,4380
+3018	BARICA PAVOL, SR	Majere	0	1409
+3018	Baricová Anna, SR	Majerová	1	211,1409,4380
+3018	BARICOVÁ Mária r. Melišová, SR		1	4804
+3018	BARICOVÁ Zuzana r. Jarošová, SR		1	4798
+3018	Bella Pavel	manželka Žofia Jurčeková	0	280
+3018	BELLÁK Jozef, SR		1	4293
+3018	BELLOVÁ Anna r. Kapustová, SR		0	3490
+3018	Beňo Andrej		1	4916
+3018	BEŇO Andrej, SR		1	4443,4663,4912,5089,6609
+3018	BEŇO DANIEL, SR		0	2544,3982,5047,6370
+3018	BEŇO DUŠAN, SR		0	2544,3982,5047,6370
+3018	Beňo Ján	USA	0	4443
+3018	Beňo Ján	USA ,; USA	1	4909
+3018	Beňo Ján, SR	USA	1	4447
+3018	BEŇO Ján, SR		0	137,138,139,140,141,1203,3104,3659,3911,5915
+3018	BEŇO Ján, SR	Kaňuch	1	4386
+3018	BEŇO JÁN, SR	Kaňuche	0	2166,3166
+3018	Beňo Ondrej	Turany 21	0	3727
+3018	Beňo Ondrej, SR		1	4447
+3018	BEŇO Ondrej, SR	Turany 21	0	3610
+3018	BEŇOVÁ Elena r. Kulhanová, SR		1	4972,4977,6248
+3018	Beňová Emília		1	4916
+3018	BEŇOVÁ Mária, SR		0	3166
+3018	Beňová Melánia Anna, SR		1	4447
+3018	BEŇOVÁ Zuzana r. Ticháň, SR		0	3659,3660
+3018	BEŇOVÁ Zuzana, SR		0	3104,3166,3883,3908
+3018	BÍZIK Miloš, SR		1	433
+3018	Blahová Helena	Bohunyová	1	5002
+3018	Blahová Helena, SR	Bohunyová	1	345,4468

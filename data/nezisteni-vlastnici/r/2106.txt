@@ -1,0 +1,256 @@
+1237	Šuniar Ondrej	maloletý	0	2057,2309,3045,3527
+1237	Šuniar Pavel		1	2259
+1237	Šuniar Pavel	č.1	0	2057,2309,3045,3527
+1237	Šuniar Pavel	č.2	0	2057,3045,3527,3529
+1237	Šuniar Pavel	č.3	0	3289
+1237	Šuniar Pavel	č.4	0	3698
+1237	Šuniar Pavel	Gonda,č.1	0	2393
+1237	Šuniar Pavel	Gonda,manž.Mária rod.Štefániková,nebohý	0	2993
+1237	Šuniar Pavel	Haraj nebohý	0	2457
+1237	Šuniar Pavel	Haraj,č.1	1	1999,2750
+1237	Šuniar Pavel	Haraj,č.2	1	2150,3858
+1237	Šuniar Pavel	Haraj,nebohý	0	3842
+1237	Šuniar Pavel	Jánov syn	0	2010,3264
+1237	Šuniar Pavel	Jánov syn, Jánov syn	1	2016
+1237	Šuniar Pavel	manž.Judita rod.Kolesárová	0	2082
+1237	Šuniar Pavel	Pavlov syn	1	2013,2016
+1237	Šuniar Samuel	nebohý	1	2259,3289
+1237	Šuniar Štefan	č.1	0	2057,3045,3527,3529,3706
+1237	Šuniar Štefan	č.2	0	2309
+1237	Šuniar Štefan	Gonda	0	2012,3306,3307
+1237	Šuniar Štefan	Gonda,č.1	1	2591
+1237	Šuniar Štefan	Gonda,č.2	1	2013
+1237	Šuniar Štefan	Gonda,maloletý	0	2590,2593,3693
+1237	Šuniar Štefan	maloletý,Gonda	1	2592
+1237	Šuniar Štefan	Pavlov syn	1	2010,2012,2013,2016,3264
+1237	ŠUNIAR Štefan	Haraj	1	2149,2150,2151
+1237	Šuniar-haraj Pavel	nebohý, zomr.20.7.1959	1	2151
+1237	ŠUNIAROVÁ Elena		0	2058,3128
+1237	Šuniarová Elena r. Vicianová		0	2309,3045
+1237	Šuniarová Helena	Gondová	1	2012,2013
+1237	ŠUNIAROVÁ Juliána		1	2010,2016,2057,2309,3045,3264,3527
+1237	Šuniarová Juliana r. Záziková		0	2458,2459
+1237	Šuniarová Mária	Gondová,maloletá	1	2010,2016,3264
+1237	Šuniarová Mária r. Blišťanová	Gondová	1	2592
+1237	Šuniarová Zuzana	Gondová,maloletá	1	2010,2016,3264
+1237	Šuniarová Zuzana	maloletá,Gonda	0	2012
+1237	Šuríková Mária	manž.Ondrej,rod.Suchanová	0	2590
+1237	Šuríková Mária r. Suchanová	manž.Ondrej	0	2593,3693
+1237	Šustek Ján	č.1	0	3062,3063
+1237	Šustek Ján	č.2	0	2049,2605,4404
+1237	Šustek Ján	manž.Mária rod.Sirotiaková,nebohá	0	2473
+1237	Šustek Ján	nebohý	0	2473
+1237	Šustek Juraj		0	2049,2605,4404
+1237	Šustek Juraj	maloletý	0	3062
+1237	Šustek Juraj	manž.Anna rod.Vrábeľová,nebohý	0	2473
+1237	Šustek Ondrej	nebohý	0	2049,2326,2473,2605,4404
+1237	ŠUSTEK Štefan	maloletý	0	3062,3063
+1237	Šusteková Anna r. Vrábľová	nebohá,manž.Juraj	0	2473
+1237	Šusteková Helena	maloletá,nebohá	0	2049,2473,2605,3062,3063,4404
+1237	Šusteková Rozália	nebohá,č.1	0	2049,2473,2605,4404
+1237	Šusteková Rozália	nebohá,č.2	0	2473
+1237	Šusterová Mária r. Slančíková		0	2473
+1237	Švingál Emil	manž.Irma rod.Tremelová,nebohý	0	2042
+1237	Švingál Ján	nebohý, zomr.4.2.1993	0	3538
+1237	Švingál Ján	nebohý,zomr.4.2.1993	0	3732
+1237	Švingálová Irma	rod.Tremelová,manž.Emil,nebohá	0	2042
+1237	Švingálová Irma r. Tremelová	rod.,vdova	0	2011
+1237	Švingálová Zuzana r. Komendová	manž.Ján,nebohá	0	3543
+1237	Švolíková Mária	maloletá	0	3378
+1237	Takáč Gejza	manž.Adela rod.Holková	1	2100
+1237	Takáčová Adela	rod.Holková,manž.Gejza	1	2100
+1237	Tazberík Ján	nebohý,č.1	0	2473
+1237	Tazberík Ján	nebohý,č.2	0	2473
+1237	Tazberík Jozef	nebohý	0	2473
+1237	TAZBERÍK Juraj		0	2326
+1237	Tazberíková Anna r. Chovancová	nebohá	0	2473
+1237	Teranecz Pavel	maloletý	1	2735
+1237	Teraneczová Judita	maloletá	1	2735
+1237	Tirala Ján	manž.Katarína rod.Albertová,nebohý	0	2473
+1237	Tirala Jozef	č.1	0	3062,3063
+1237	Tirala Jozef	č.2	0	3062
+1237	Tirala Jozef	č.3	0	2326
+1237	Tirala Jozef	manž.Mária rod.Kvaková,č.1	0	2326
+1237	Tirala Jozef	sklár	0	2473
+1237	Tirala Ondrej	č.1, nebohý	0	2894
+1237	Tirala Ondrej	č.2, manž.Rozália rod.Slovenčáková	0	3063
+1237	Tirala Ondrej	manž.Rozália rod.Slovenčáková,č.1	0	2326
+1237	Tirala Ondrej	manž.Rozália rod.Slovenčáková,č.2	0	3062
+1237	Tirala Ondrej	manž.Rozália rod.Slovenčáková,č.3	0	2049,2605,4404
+1237	Tirala Ondrej	ml.,manž.Mária rod.Vinarčíková,nebohý	0	2473
+1237	Tirala Ondrej	ml.,nebohý ,manž.Mária rod.Vinarčíková	0	2894
+1237	Tirala Ondrej	nebohý,č.1	0	2473
+1237	Tirala Ondrej	nebohý,č.2	0	2473
+1237	Tirala Pavel	č.1	0	2049,2605,3062,4404
+1237	Tirala Pavel	č.2	0	2326
+1237	Tirala Pavol r. Tirala	nebohý, zom. v r. 1978	0	2326
+1237	Tiralová Mária r. Kvaková	manž.Jozef	0	2326
+1237	Tiralová Mária r. Pentková	nar.25.12.1889, Ožďany	0	2478
+1237	Tiralová Mária r. Pentková	nar.25.12.1889,Ožďany	0	2460,2463,2464,2478,2479
+1237	Tiralová Mária r. Porubeková	nebohá	0	2473
+1237	Tiralová Mária r. Šusteková	manž.Ján,nebohá	0	2049,2473,2605,4404
+1237	Tiralová Verona r. Pomykalová	nebohá	0	2473
+1237	Tomesová Juliana r. Pavlovičová	manž.Ján,nebohá	0	3697
+1237	Tomová Mária r. Lajzová		0	3292,3293
+1237	Tovariš Ján	Chlebo,č.1	0	2393,2942,3048,3289,3689,3698
+1237	Tovariš Ján	Chlebo,č.2	1	2134,2259,3577
+1237	Tovariš Ján	Chlebo,č.3	0	3341,3348
+1237	Tovariš Ján	maloletý	0	2740,2742
+1237	Tovariš Matej	manž.Júlia rod.Bárdiová	0	3522
+1237	Tovariš Pavel	Chlebo,nebohý	0	2393,3289,3689,3698
+1237	Tovariš Pavel	Chlebo,nebohý, Chlebo,nebohý	1	2259
+1237	Tovarišová Judita	maloletá	1	2739
+1237	Tovarišová Judita	maloletá,č.1	0	2740
+1237	Tovarišová Judita	maloletá,č.2	0	3526,3586
+1237	Tovarišová Mária	maloletá	0	2740,2742
+1237	Trhan Ján		0	3647,4224
+1237	Trhan Ján	maloletý	1	1912
+1237	Trhan Ján	maloletý,č.1	0	2060,2831
+1237	Trhan Ján	maloletý,č.2	0	2831
+1237	Trhan Ján	manž.Terézia rod.Bystrianska	0	3651
+1237	Trhan Ján	nebohý	0	2473
+1237	Trhan Matej	manž.Mária rod.Kromholcová	0	2831
+1237	Trhan Štefan		1	1912
+1237	Trhanová Elena	maloletá	0	3424
+1237	Trhanová Elena r. Grekčová	manž.Ján	1	3422,3764,3874
+1237	TRHANOVÁ Katarína	vdova,rod.Stuchlíková	0	2187
+1237	Trhanová Katarína r. Stuchlíková	vdova	0	4016
+1237	Tulková Mária r. Cavarová	nebohá	1	2298,2331,3295
+1237	Turoň Jozef		0	1981
+1237	Turoň Martin	nebohý	0	1981,3766
+1237	Turoň Martin	zomr. 7.11.1985	0	1981
+1237	Urvová Helena r. Jakubecová	nebohá	0	3513
+1237	VACULČIAK Ján		0	2326
+1237	Vaculčiak Ľudevít		0	1793
+1237	Vaculčiaková Emília r. Beľová		1	1230,2356
+1237	Vaculčiaková Mária r.Miklianová		0	1793
+1237	Valach Ján	Gasper	0	2943
+1237	Valach Ján	gasper,č.1	0	2434,2435,3332,3558
+1237	Valach Ján	gasper,č.2	0	2133
+1237	Valach Matej	gasper,č.1	0	2434,2435,3558
+1237	Valach Matej	gasper,č.2	0	2133
+1237	Valach Pavel	gasper,manž.Mária rod.Repčoková,nebohý	0	2434,3558
+1237	Valach Štefan	Gasper,mladší	0	2434,2435
+1237	Valachová Helena	maloletá	0	2040
+1237	Valachová Judita r. Zahoranská		0	3553
+1237	Valachová Judita r. Zemanová		0	3551
+1237	Valachová Mária	gasper,rod.Repčoková,manž.Pavel	0	2434
+1237	VALACHOVÁ Mária		0	2040
+1237	Valachová Mária r. Repčoková	gasper, manž.Pavel	0	3558
+1237	VALACHOVÁ Zuzana		0	2040
+1237	Valent Ján	manž.Zuzana rod.Zajacová	1	2410,2411
+1237	Valent Pavel	manž.Helena rod.Galusová,nebohý	0	2870
+1237	Valentová Mária r. Beracková		0	3466
+1237	Valentová Zuzana r.Zajacová		0	1582,3778
+1237	Vančík Ján	nebohý	0	3569
+1237	Vantruba Štefan	pisoň	0	3062,3063
+1237	Vantrubová Mária r. Škvareňáková	manž.Juraj	0	3062,3063
+1237	Vantrubová Mária r. Škvareňáková	nebohá	0	2049,2473,2480,2481,2605,4404
+1237	Vantrubová Terézia		0	2049,2605,4404
+1237	Veloch Pavol		0	3062,3063
+1237	Vengrín Ján r. Vengrín	neb. +15.12.2004	0	2049,4404
+1237	Vengrín Ján r. Vengrín	nebohý, zomr. 15.04.1923	0	2605
+1237	Vengrín Ján r. Vengrín	nebohý, zomrel 15.12.2004	0	3062
+1237	Vengrín Ján r. Vengrín	nebohý,zomrel 15.12.2004	0	3063
+1237	Vengrínová Rozália r. Slamčíková	nebohá	0	2473
+1237	Vetrák Pavel	manž.Mária rod.Sojková	0	1981
+1237	Vetráková Anna r. Rešutíková		0	1981
+1237	Vician Ján		0	3338
+1237	Vician Ján	č.1	1	2876,3105
+1237	Vician Ján	Poliačik,nebohý	0	3400
+1237	Vician Matej	manž.Helena rod.Lacková	0	3087,3351
+1237	Vician Pavel		0	3345,3346
+1237	Vician Pavel	manž.Helena rod.Galová,nebohý	1	3752,3758,3862
+1237	Vician Pavel	manž.Mária rod.Liptáková	1	2876
+1237	Vician Pavel	nebohý, zomrel 22.12.2000	0	3345
+1237	Vician Pavel	nebohý,zomr.22.12.2000	0	3023,3346
+1237	Vician Poliačik Helena r. Harajová	manž.Štefan	0	2922
+1237	Vician Štefan		0	3401
+1237	Vician Štefan	Poliačik,nebohý	0	3400
+1237	Vicianová Elena r. Kromholcová		0	2900
+1237	Vicianová Elena r. Kromholcová	manž.Ján	0	3534
+1237	Vicianová Elena r. Laclavová	manž.Matej	0	3023
+1237	Vicianová Elena r. Melochová		0	3822
+1237	Vicianová Helena r. Bavalová	nebohá	0	2345,2347
+1237	Vicianová Helena r. Harajová		1	2150,2151
+1237	Vicianová Helena r. Harajová	rod	0	3462
+1237	Vicianová Helena r. Šuniarová		0	2057
+1237	Vicianová Helena r.Galová		0	1515
+1237	Vicianová Zuzana r. Lajzová	nebohá	0	3443
+1237	Vicianová Zuzana r. Šuniarová		0	3527
+1237	Vinarčík Ján	nebohý	0	2473
+1237	Vinarčík Jozef	nebohý	0	2473
+1237	Vinarčík Pavel	nebohý	0	2473
+1237	Vojtech František	Tarkani	1	2059
+1237	Vojtek Štefan	manž.Mária rod.Šuľajová	0	3768,3769
+1237	VOJTEK Štefan		0	3768,3769
+1237	Vranský Ján		1	3929
+1237	Vranský Juraj		1	2592
+1237	Vranský Juraj	manž.Elena rod.Rapčanová	1	3929
+1237	Vranský Pavel	nebohý	0	2711,3315,3316
+1237	Vrbiniak Ján	manž.Katarína rod.Škrabáková,nebohý	0	2473
+1237	Vrbiniak Jozef	č.1	0	2326
+1237	Vrbiniak Ondrej	č.1	0	1981
+1237	Vrbiniak Ondrej	nebohý,naposledy Tehla Lula	0	2473
+1237	Vrbiniak Pavel	nebohý,manž.Elena,naposledy Želiezovce	0	2473
+1237	VRBINIAK Pavel		0	2326
+1237	Vrbiniak Štefan	nebohý,č.1	0	2473
+1237	Vrbiniak Štefan	nebohý,č.2	0	2473
+1237	Vrbiniaková Anna r. Krahulcová		0	2473
+1237	Vrbiniaková Katarína r. Škrabáková	manž.Ján,nebohá	0	2473
+1237	Vrbiniaková Rozália	nebohá	0	2473
+1237	Vrbová Danka, Mojzešova 39/13, Žiar nad Hronom, PSČ 985 01, SR		0	3062
+1237	Vyšňanská Anna r. Matúšková		0	3643,3775,4038,4039
+1237	Vývlek Jozef		0	3290,3291,4347
+1237	VÝVLEK Juraj		0	2445,3290,3291,4347
+1237	Vývlek Ondrej	starší	0	2445,3290,3291,4347
+1237	Vývlek Pavel	maloletý	0	3290,3291,4347
+1237	Vývleková Elena	maloletá	0	2445,3290,3291,4347
+1237	VÝVLEKOVÁ Katarína		0	2445,3290,3291,4347
+1237	Vývleková Pavel	maloletý	0	2445
+1237	VÝVLEKOVÁ Róza		0	2445,3290,3291,4347
+1237	Vývleková Róza r. Ružičková		0	2445,3290,3291,4347
+1237	Walnyrová Ida r.Jeremová		0	1718
+1237	Zajac Ján		0	1582,3778,3781,3782,4489
+1237	Zajac Ján	ml.,nebohý, Kokava nad Rimavicou č.d.438	0	3422
+1237	Zajac Pavel	Zdútkin	0	3781,3782,4489
+1237	Zajacová Elena		1	2410,2411
+1237	Zajacová Ilona		0	1582,3778
+1237	Zajacová Judita r. Grekčová	manž.Pavel,nebohá	1	2410,3496,3604
+1237	Zajacová Judita r. Grekčová	nebohá, manž.Pavel	0	2411
+1237	Zajacová Zuzana		0	3781,3782,4489
+1237	Zatrochová Tatiana r. Beracková	naposl.Daxnerova č.3/75	1	3860,3865
+1237	Zdút Ján		0	2065
+1237	Zdút Ján	č.1	1	2066,2090,3424,3425,3581,3907
+1237	Zdút Ján	č.2	1	1639,3560
+1237	Zdút Ján	č.3	0	3589
+1237	Zdút Ján	č.4	0	3560
+1237	Zdút Ján	Hájnik,č.1	0	3803
+1237	Zdút Ján	manž.Juliana rod.Chlebová	0	3692
+1237	Zdút Ján	manž.Mária rod.Repčoková	1	3907
+1237	Zdút Ján	nebohý,zomr.30.9.1962	1	2197,3872
+1237	Zdút Ján	Piroh	1	3919
+1237	Zdút Ján	Šťastný,nebohý,zomr.12.11.1995	0	3733,3763
+1237	Zdút Ján, SR		0	577,764
+1237	Zdút Juraj		0	3560
+1237	Zdút Matej		1	3618,3881
+1237	Zdút Matej Ing.		0	1694
+1237	Zdút Matej, Ing.	nebohý,žil v Rumunsku	1	2066,2090,2197,3424,3425,3581,3872
+1237	Zdút Pavel	gaštankin	0	2014,2057,3045,3398,3661,3692
+1237	Zdút Pavel	ml.,manž.Judita rod.Doricková	1	2867
+1237	Zdút Pavel	Piroh	1	3919
+1237	Zdút Pavel, SR		0	576
+1237	Zdút Štefan		0	3560
+1237	Zdút Štefan	maloletý	0	3380
+1237	Zdút Štefan	manž.Zuzana rod.Lajzová	1	2801,3329
+1237	Zdútová Judita		0	3560
+1237	Zdútová Juliána		0	3560
+1237	Zdútová Mária	rozvedená Kadrtiaková	0	2791
+1237	Zdútová Mária r. Kundrová		0	3733
+1237	Zdútová Mária r. Kundrová, SR		0	576,577
+1237	Zdútová Mária r. Štancelová	Šťastná,rod	1	3920
+1237	Zdútová Zuzana		0	3560
+1237	Zdútová Zuzana r. Lajzová Beracková		0	3376,3377,3580
+1237	Zdútová Zuzana r. Struháriková, SR		0	575,576
+1237	Zeman Ján	č.1	1	3896
+1237	Zeman Ján	č.2	1	2867

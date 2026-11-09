@@ -1,0 +1,256 @@
+2406	Petrenko Ján r. Petrenko	ž.Mária r.Olšavská	0	595,596,609
+2406	Piater Ján		0	361
+2406	Piaterová Mária r. Murková		0	519
+2406	Piaterová Zuzana r. Farkašová		0	623
+2406	Pjater Ján r. Pjater	ž.Mária r.Murková	0	358,591,595,596,714,728
+2406	Pjaterová Mária r. Murková	m.Ján	0	591,595,596,693,728,736
+2406	Regulová Mária		0	733
+2406	Regulová Zuzana r. Gašparová	vd	0	596
+2406	Rotterová Kornélia r. Heinrichová		0	596
+2406	Semanová Zuzana r. Gregušová		0	753
+2406	Sliva Ján r. Sliva	ž.Jolana r.Šoltésová	0	761
+2406	Slivová Jolana r. Šoltésová	m.Ján	0	761
+2406	Stanko Ján		0	405,549
+2406	Stanko Ján r. Stanko	matka Zuzana Rusová	0	644
+2406	Stanko Ján, 050 01, Revúca, SR		0	421,600
+2406	Stanko Ondrej		0	405,421,549,600
+2406	Stanko Ondrej r. Stanko	ž.Mária r.Brúsiková	0	251,595,596,644
+2406	Šaligová Emília r. Šándorová		0	220,263,595,596,744,748,750
+2406	Šandor Ján		0	263
+2406	Šándor Ján r. Šándor	ž.Gizela r.Kalnaiová	0	220,595,596,744,748,750
+2406	Šándor Ján r. Šándor	ž.Mária r.Nemogová	0	596
+2406	Šándor Július r. Šándor		0	596
+2406	Šandor Ondrej		0	480
+2406	Šándor Ondrej r. Šándor		0	220,279,595,596,624,625,629,630,668,726,734,755,762
+2406	Šándor Ondrej r. Šándor	ž.Zuzana r.Banesová	0	595,596,609
+2406	Šandorová Margita		0	480
+2406	Šándorová Margita	v Amerike	0	220,279,595,596,629,630,712,726,734,755,762
+2406	Šándorová Mária		0	220,263,595,596,744,748
+2406	Šándorová Mária r. Nemogová	m.Ján	0	596
+2406	Šándorová Zuzana	v Amerike	0	220,279,595,596,629,630,712,726,734,755,762
+2406	Šándorová Zuzana r. Bánesová		0	199
+2406	Šegul Štefan	ž.Zuzana r.Hollová	0	476,685
+2406	Šegul Štefan r. Šegul	ž.Zuzana r.Hollová	0	595,596
+2406	Šegúl Štefan r. Šegúl		0	240
+2406	Šegulová Mária r. Šandorová		0	376,475,595,596,706
+2406	Širila Ján		0	434,470
+2406	Širila Ján	ž.Zuzana r.Hatvaniová	0	460
+2406	Širila Ján r. Širila	ž.Zuzana r.Hatvaniová	0	220,395,396,554,595,596,609,664,666
+2406	Širila Jozef		0	434,460
+2406	Širila Jozef r. Širila		0	220,395,396,595,596,609
+2406	Širila Ondrej	ž.Emília r.Končeková	0	460
+2406	Širila Ondrej r. Širila		0	595,596,609
+2406	Širila Štefan	ž.Emília r.Perdiková	0	460
+2406	Širila Štefan r. Širila		0	596
+2406	Širilová Anna r. Kilíková	vd	0	595,596,609
+2406	Širilová Anna r. Kiníková		0	460
+2406	Širilová Božena r. Šandorová		0	595
+2406	Širilová Mária		0	434,460
+2406	Širilová Zuzana r. Hatvaniová	m.Ján	0	664
+2406	Šoltésová Judita r. Petrenková		0	595,596,609,729
+2406	Štátny majetok n.p.		0	199,597
+2406	Štrba Martin r. Štrba	zom., ž.Anna r.Jankovičová	0	596
+2406	Štrba Ondrej r. Štrba	ž.Emília r.Gregušová	0	596
+2406	Štrbová Emília r. Gregušová	m.Ondrej	0	609
+2406	Štrbová Júlia r. Genčiová		0	595
+2406	Takáč Gejza r. Takáč		0	642
+2406	Textorová Judita r. Brúsiková		0	552
+2406	Timanová Mária r. Hubčíková		0	251
+2406	Valko Ján r. Valko		0	259
+2406	Valko Ján r. Valko	ž.Mária r.Pavelková	0	249,251,574,575,576,577,578,595,596
+2406	Valko Juraj r. Valko	ž.Zuzana r.Šegulová	0	596
+2406	Valko Martin r. Valko	ž.Zuzana r.Šándorová	0	220,704
+2406	Valková Anna		0	254
+2406	Valková Margita		0	574,595,596
+2406	Valková Mária r. Bobonšicová		0	290,596,707
+2406	Valková Mária r. Bobonšicová	zom	0	595
+2406	Valková Mária r. Pavelková		0	259,595,596,609
+2406	Valková Zuzana r. Šagulová		0	596
+2406	Voženilková Judita r. Jasenková		0	272
+2406	Vrátny Ludevit r. Vrátny	ž.Judita r.Bérešová	0	735
+2406	Žabková Zuzana r. Levková		0	293,679
+2406	Žabková Zuzana r. Levková	zom	0	492,493,595,596
+2407	ACHNURER Artur		0	4950
+2407	Andoč Jozef r. Andoč		0	7974,7978,7981,7986,7998,8002,8004,8009,8017,8018,9588,9665,9666,10054,10426
+2407	ANDOČ Štefan		0	4666
+2407	Andoč Štefan r. Andoč		0	7974,7978,7981,7986,7998,8002,8004,8009,8017,8018,9588,9665,9666,10054,10426
+2407	ANDOČOVÁ Terézia	r.SIHELNÍKOVÁ BIRÁKOVÁ	0	4666
+2407	Andočová Terézia r. Biráková		0	7974,7978,7981,7986,7998,8002,8004,8009,8017,8018,9588,9665,9666,10054,10426
+2407	Arendárik Ján r. Arendárik		0	7715,7733,8090,10588
+2407	Arendárik Jozef r. Arendárik		0	7715,8090,10588
+2407	Arendárik Šimon r. Arendárik		0	7715,8090,10588
+2407	Arendáriková Eva r. Arendáriková		0	7715,8090,10588
+2407	Arendáriková Jozefína r. Arendáriková		0	7715,8090,10588
+2407	Arendáriková Justína r. Arendáriková		0	7715,8090,10588
+2407	ARENDÁRIKOVÁ Katarína	r.ZEMANÍKOVÁ	0	4207,4225
+2407	Arendáriková Katarína r. Arendáriková		0	7715,8090,10588
+2407	Arendáriková Magdaléna r. Mravcová	Stručeková	1	9496
+2407	Arendáriková Magdaléna r. Mravcová Stručeková		0	7697
+2407	ARENDÁRIKOVÁ Žofia	r.TURIAKOVÁ PRELAČANOV	0	4291,4326,4337,4353,4363,4373,4387,4754,4758,4770,9235,9490,10084,10088,10089,10258
+2407	Arendáriková Žofia r. Turiaková	Prelačanová	0	7705,7715,7770,7773,8090,10588
+2407	BABULIAK Peter		0	5668
+2407	Babuliak Peter r. Babuliak		0	7342
+2407	Babuliaková Katarína r. Michnáčová		0	7373,7374,7375,7376,7377,7378,7379
+2407	BACIKOVÁ Anna	r.SOGELOVÁ	0	4969
+2407	BACKOVÁ Anna	r.GAZURÁKOVÁ	0	3831
+2407	BACULÁK František		0	4638,4704,6808
+2407	Baculák František r. Baculák		0	7712,7735,7935,7938,7956,7957,7965
+2407	BACULÁK Ján		0	3688,3690,3702,3704,4591,4594,4596,4617,4637,4644,4648,4703,4707
+2407	Baculák Ján r. Baculák		0	7957,7961
+2407	Baculák Jozef r. Baculák		0	7957,7970
+2407	Baculák Jozef r. Baculák	Blažíček	0	7957,7961
+2407	Baculák Ľudovít r. Baculák		0	7473,7478,7900,7906,7911,7914,7935,7938,7957,9923,10348
+2407	BACULÁK Marián	Ing	0	4337,4352,4357,4378,10449
+2407	BACULÁK Michal		0	3960,3979,3980,3990,3991,3992,3995,4000,4004,4005,4009,4010,4018,6603,9542
+2407	Baculák Michal r. Baculák		0	7516,7525,7526,7530,7533,7534,7537,7539,7540,7541,7542
+2407	Baculák Ondrej r. Baculák		0	7957,7961
+2407	Baculák Ondrej r. Baculák	Blažíček	0	7957,7961
+2407	BACULÁK Pavol		0	4211,4613,4638,6656
+2407	Baculák Pavol r. Baculák		0	7712,7735,7905,7906,7914,7935,7938,7956,7957,7965,9923
+2407	BACULÁK RANČÍK Juraj		0	4595
+2407	BACULÁK Štefan		0	3382,3934,3935,3938,3947,3948,3950,3955,4521,4537,4591,4592,4600,4628,4639,4643,4644,4647,4648,4700,4703,4707,4709,4718,6451,6565,6568,6782,10383
+2407	Baculák Štefan r. Baculák		0	7473,7478,7900,7906,7911,7914,7935,7938,7957,8025,9923,10348
+2407	Baculák Tomáš r. Baculák		0	7516,7525,7530,7533,7534,7537,7539,7540,7541,7542
+2407	Baculák Tomáš r. Baculák	Pisárik	0	7957,7970
+2407	Baculáková Agneša	mal	0	6656
+2407	BACULÁKOVÁ Anna		0	4473,4476,4478,4479,4489,4498,4504,4505,4509,4719,6716
+2407	Baculáková Anna r. Baculáková		0	7872,7885,7890,7898
+2407	Baculáková Antonia r. Blažičková		0	7957,7961
+2407	Baculáková Františka		0	6656
+2407	BACULÁKOVÁ Katarína		0	3979,3980
+2407	BACULÁKOVÁ Magdaléna	r.BEDNÁRIKOVÁ	0	4204,4209
+2407	Baculáková Magdaléna r. Bednáriková		0	7666,7669,7695
+2407	Baculáková Mária		0	6656
+2407	BACULÁKOVÁ Mária	r.BYRÁKOVÁ	0	4591,4592,4617,4638,4644,4648
+2407	BACULÁKOVÁ Mária	r.SIHELNÍKOVÁ BIRÁKOVÁ	0	4207,4225,4712
+2407	Baculáková Mária r. Baculáková		0	7473,7478,7610,7612,7634,7635,7659,7660,7661,7900,7906,7911,7914,7935,7938,9923,10348
+2407	Baculáková Mária r. Byráková		0	7957
+2407	Baculáková Mária r. Sihelníková	Biráková	0	7935,7938,7956
+2407	BACULÁKOVÁ MARTINOVÁ Mária	r.BACULÁKOVÁ	0	4703
+2407	Baculáková Paulína r. Hrdináková		0	7542
+2407	BACULÁKOVÁ Rozália		0	3630,3654,3672,3681,3685,3688,3704,10286
+2407	Baculáková Rozália r. Baculáková		0	7299,7313
+2407	Baculáková Štefánia r. Baculáková		0	7516,7525,7530,7533,7534,7537,7539,7540,7541,7542
+2407	Baculáková Verona r. Baculáková		0	7957,7961
+2407	BADURA František		0	3232,3242,3244,3247,3249,3250,3251,3253,3254,3285,5740,5915
+2407	Badura František r. Badura		0	7042
+2407	BAFUROVÁ Eva	r.CHABREČKOVÁ	0	3240,3256
+2407	BALALA Jozef		0	3775,3781,3782,3786,5831,5836,5841,5846,5850,9252,9258,9262
+2407	BALALA Ondrej		0	3775,3781,3782,3786,5831,5836,5841,5846,5850,9252,9258,9262
+2407	BALALOVÁ Mária	r.LAUKOVÁ	0	5831,5836,5841,5846,5850
+2407	BALALOVÁ Verona	r.SIHELNÍKOVÁ BYRÁKOVÁ	0	4613
+2407	Balalová Verona r. Sihelníková	BYRÁKOVÁ	0	7712,7735,7935,7938,7956
+2407	BALAŽ Ján		0	4799
+2407	Baláž Štefan r. Baláž		0	7606
+2407	Balážová Katarína r. Ľuptovcová		0	3064,7816,7827,7838,7850,7862
+2407	BALÁŽOVÁ Žofia	r.JARNÍKOVÁ	0	4116,4154,4165,4166,4171,4173,4174,10296
+2407	Balážová Žofia r. Jarníková		0	7608,7610,7612,7634,7635,7659,7660,7661
+2407	Bališová Štefánia r. Blažičeková		0	7452
+2407	BALOŠÁKOVÁ Eva	r.ČIŠECKÁ	0	5063
+2407	BALOŠÁKOVÁ Verona		0	3321,3325,3350,3360,3361,3367,3373,3381,9896,10284,10287
+2407	Balošáková Verona r. Balošáková		0	7129,7130,7133,7148,7149,7154,9878,9879,10541
+2407	BALOŠÁKOVÁ Žofia		0	3321,3325,3361,3373,3381,9896,10287
+2407	Balošáková Žofia r. Balošáková		0	7129,7133,10541
+2407	BÁNOVCOVÁ Anna	r.PASTOREKOVÁ	0	4472,4485
+2407	Bánovcová Anna r. Pastoreková		0	7872,7897,7898
+2407	Bánovcová Anna r. Pastorková		0	7880,7885
+2407	BÁNOVCOVÁ Mária	r. Baculáková	0	4211,4638
+2407	Bánovcová Mária r. Baculáková		0	7712,7735,7905,7906,7914,7935,7938,7956,7957,7965,9923
+2407	Barančíková Jozefína r. Turiaková		0	7594,7610,7612,7628,7634,7635,7659,7660,7661
+2407	BARČÍKOVÁ Anna	r.MRAVCOVÁ	0	4884,4980,4989,4994,9681
+2407	Barčíková Anna r. Mravcová		0	8166,8170,8179,9687
+2407	Bazger Ján r. Bazger		0	7824
+2407	Bazger Ondrej r. Bazger		0	7824
+2407	Bazgerová Júlia r. Kováčiková		0	7544
+2407	BAZGEROVÁ Mária	r.CHNÚRIKOVÁ	0	3382,3935,3943,3947,3948,4019,4020,4024,4027,4030,4037,4038,4058,4064,4066,4067,4076,4950,4951,5084,5768,5772,5774,5816,6006,6442,10037,10253,10355,10643,10667,10674,10720
+2407	Bazgerová Mária r. Chnúriková		0	7478,7479,7485,7494,7543,7544,7575,10348
+2407	BEDNÁRIK Andrej		0	4209
+2407	Bednárik Andrej r. Bednárik		0	7669
+2407	BEDNÁRIK Ludovít		0	4204,4209
+2407	Bednárik Ľudovít r. Bednárik		0	7669
+2407	BEDNÁRIK Ondrej		0	4204,4213,4974
+2407	Bednárik Ondrej r. Bednárik		0	7666
+2407	Bednárik Stanislav r. Bednárik		0	7853
+2407	Bednáriková Justína r. Bednáriková		0	7666,7669,7695
+2407	BEDNÁRIKOVÁ Katarína	r.ĎURNÍKOVÁ	0	4275,4748
+2407	BEDNÁRIKOVÁ Katarína	r.KORDULIAKOVÁ	0	3232,3242,3244,3247,3249,3250,3251,3252,3253,3254,3256,3261,3264,3279,3285,3288,3289,3292,3293,3297,5045,5397,5740,5861,5862,5868,5890,5893,5909,5915,5924,5927,5931,6248,9889,10091
+2407	Bednáriková Katarína r. Korduliaková		0	7042,7056,7068,7074,7076,10687
+2407	BEDNÁRIKOVÁ Magdaléna		0	4440,6800,6801,6802,6803,9982
+2407	Bednáriková Magdaléna r. Bednáriková		0	7841
+2407	BEDNÁRIKOVÁ Mária	r.CHABREČKOVÁ	0	3721,3731,3742,3743,3748,3750,3791,3792,3798,3823,3824,3826,3844,3850,3854,3855,5075,5082,5592,5701,6264,6306,6307,6308,6311,6312,6314,6315,6316,6317,9589,9599
+2407	Bednáriková Mária r. Bednáriková		0	7666,7669,7695
+2407	Bednáriková Mária r. Chabrečková		0	7348,7352,7356,7357,7359,7362,7363,7365,7368,7370,7371,7380,7695,9833
+2407	BELEJOVÁ Verona	r.URBANÍKOVÁ	0	4938
+2407	Belejová Verona r. Urbaníková		0	1495,1545,7610,7612,7634,7635,7659,7660,7661,8104,8118,8119,8127,8137,8138,8157,9837,9843,9849,9860,9862,10308,10309
+2407	BELKO Michal		0	3705,3706,3718,3719,3720,3721,3725,3726,3743,3744,3747,3748,3750,3751,3754,3758,3798,3814,3823,3827,3839,3844,3853,3854,3860,3866,5074,5075,5592,5670,5671,5672,5673,5674,5675,5676,5677,5678,5701,6306,6740,6741,6742,6743,6744,6745,9589,9599,9600,9601,10328
+2407	Belko Michal r. Belko		0	7340,7344,7348,7356,7365,7375,7407,7417,7418
+2407	BELKO Ondrej		1	3814,5801,5802
+2407	Belko Ondrej r. Belko		0	7340,7344,7348,7356,7365,7373,7374,7375,7376,7377,7378,7379,7407,7417,7418,7422
+2407	BERČÁKOVÁ Antónia	r.ZBONČÁKOVÁ MARIŇÁKOV	0	6070
+2407	BERGELOVÁ Mária		0	4225
+2407	BERGELOVÁ Verona		0	4225
+2407	Bergelová Verona r. Bergelová		0	7672,7678
+2407	BIELIKOVÁ ČIŠECKÁ Anna	r.TURIAKOVÁ BZDIVOŇOVÁ	0	4225
+2407	BIELKA Tomáš		0	4165,4166,4171,4173,4174
+2407	BIELKOVÁ Štefánia	r.BADOŠOVÁ JARNÍKOVÁ	0	4165,4166,4171,4173,4174
+2407	BIRÁK František		0	4666,4667,4676,9831
+2407	Birák František r. Birák		0	7974,7978,7981,7986,7998,8002,8004,8009,8010,8017,8018,9588,9665,9666,10054,10426
+2407	Birák Imrich r. Birák		0	7974,8010
+2407	BIRÁK Jozef		0	4652,4666,4667,4676,4678,6468,6731,9831
+2407	Birák Jozef r. Birák		0	7974,7978,7981,7986,7998,8002,8004,8009,8017,8018,9588,9665,9666,10054,10426
+2407	BIRÁK SIHELNÍK Ján		0	4676,6468,6731,9831
+2407	BIRÁK SIHELNÍK Jozef		0	4652,4666,4667,4676,6468,6731,9831
+2407	Birák Sihelník Jozef r. Birák Sihelník		0	7974,7978,7981,7986,7998,8002,8004,8009,8017,8018,9588,9665,9666,10054,10426
+2407	BIRÁK SIHELNÍK Tomáš		0	4652,4666,4667
+2407	Birák Sihelník Tomáš r. Birák Sihelník		0	7974,7978,7981
+2407	BIRAKOVÁ Emília		0	4526,4537,6782
+2407	Biraková Emília r. Biráková		0	7905,7906,7914,9923
+2407	BIRÁKOVÁ SIHELNÍKOVÁ Emília		0	4703,4707
+2407	BIRÁKOVÁ SIHELNÍKOVÁ Helena		0	4652,4666,4667,4676,4678,6468,6731,9831
+2407	Biráková Sihelníková Helena r. Biráková Sihelníková		0	7974,7978,7981,7986,7998,8002,8004,8009,8017,8018,9588,9665,9666,10054,10426
+2407	BIRÁKOVÁ SIHELNÍKOVÁ Margita		0	4526,4537,4652,4666,4667,4676,4678,4703,4707,6468,6731,6782,9831
+2407	Biráková Sihelníková Margita r. Biráková Sihelníková		0	7905,7906,7914,7974,7978,7981,7986,7998,8002,8004,8009,8017,8018,9588,9665,9666,9923,10054,10426
+2407	BLAHA Ján		0	5106
+2407	BLAHA Jozef		0	5106
+2407	BLAHA Michal		0	5106
+2407	BLAHA Pavol		0	3688,3689,3690,3696,3699,3701,3703,3704,5106,6857,9502
+2407	BLAHA Šimon		0	5106
+2407	BLAHA Štefan		0	3688,3689,3690,3696,3699,3701,3703,3704,5106,6857,9502
+2407	BLAHA URBANÍK Ján		0	5106
+2407	BLAHA URBANÍK Mária		0	5106
+2407	Blahová Eva r. Kajáneková		0	7672,7678
+2407	BLAHOVÁ Katarína		0	5106
+2407	BLAHOVÁ Magdaléna	r.URBANÍKOVÁ	0	3688,3689,3690,3696,3699,3701,3703,3704,6857,9502
+2407	Blahová Margita r. Krupíková		0	7557,7585,7591,9697
+2407	Blahová Žofia		1	5801
+2407	BLAHUTIAK Juraj		0	4270,4285,4293,4324,4331,9852,9976
+2407	Blahutiak Juraj r. Blahutiak		0	7726,7727
+2407	BLAHUTIAK Ondrej		0	4331
+2407	BLAHUTIAKOVÁ Františka	r. Olešňaníková	0	4979,4980,4989,9680,9681
+2407	Blahutiaková Františka r. Olešňaníková		0	8166,8169,8179,8184,9687
+2407	Blahutiaková Jozefína r. Wiesnerová		0	7756
+2407	BLAHUTIAKOVÁ Katarína	r.ZEMANÍKOVÁ	0	4207,4212,4220,4225,4270,4293,5542,5543,9852
+2407	Blahutiaková Katarína r. Zemaníková		0	7675,7727,7935,7938,7956,7965
+2407	BLAHUTIAKOVÁ Rozália	r.MAJERIKOVÁ	0	4240,4270,4276,9852
+2407	BLAŽIČEK Jozef		0	3304,3307,3308,6475,6478,6980,9179,10240,10241,10439,10701,10743
+2407	Blažíček Jozef r. Blažíček		0	7104,7105,7106,7111
+2407	BLAŽÍČEK Ľudovít	po Verone	0	4424,4428,4429,4453,4457
+2407	Blažíček Rudolf r. Blažíček		0	7717
+2407	BLAŽIČEK Vincent		0	4388,4392,4722
+2407	Blažíček Vincent r. Blažíček		0	7789
+2407	Blažičková Baculákov Štefánia r. Blažičková Baculákov		0	7957,7961
+2407	Blažíčková Hedviga r. Blažíčková		0	7717
+2407	Blažíčková Jozefína r. Blažíčková		0	7789
+2407	Blažíčková Mária r. Belková		0	7104,7105,7106,7111
+2407	BOBČÍKOVÁ Katarína	r.BULEJOVÁ	0	3628,3630,3638,3642,3672,3674,3677,3681,3685,3688,3690,3702,3704,6650,6651,9157,10286
+2407	Bobčíková Katarína r. Bulejová		0	1519,7289,7291,7292,7313
+2407	BOJKO Adam	po Anne dedil	0	4791,4802
+2407	BOJKO Emil		0	4888,4973
+2407	Bojko Emil r. Bojko		0	8072,8075,8077,8080,8081,8082,8085,8086,8087,8088,10590
+2407	BOJKO František		0	4765,4767,4768,4772,4780,5753,5757
+2407	BOJKO Rudolf		0	4774,5753
+2407	BOJKOVÁ Anna	d	0	5695
+2407	BOJKOVÁ Johana		0	4884,4980,4984,4988,4994,9681
+2407	Bojková Johana r. Bojková		0	8166,8167,8168,9687
+2407	BOJKOVÁ Mária		0	5695
+2407	BRINICHOVÁ Jozefína	r. Chabrečková	0	5701

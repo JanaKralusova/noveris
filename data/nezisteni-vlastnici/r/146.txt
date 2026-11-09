@@ -1,0 +1,256 @@
+105	Mihajlo Andrej, SR		1	446
+105	Mihaľo Andrej	žena Ivancová Anna	0	534
+105	Mihaľo Andrej, SR		0	61
+105	Mihaľo Andrej, SR	maloletý	1	459
+105	Mihaľo Ján, SR		0	80
+105	Mihaľo Ján, SR	maloletý	1	58,61,425,441,459,494
+105	Mihaľo Juraj		0	263,264
+105	Mihaľo Juraj	manž. Etela Slivková	0	263,264
+105	Mihaľo Juraj	manž. Katarína Drenková	0	263,264
+105	Mihaľo Juraj	narodený r.1908	0	534
+105	Mihaľo Juraj, SR	manž.Elena Slivková	0	541
+105	Mihaľo Juraj, SR	žena Ilona Slivková	0	348
+105	Mihaľo Juraj, SR	žena Katarína Drenková	0	534
+105	Mihaľo Pavel	manž. Anna Vacová	0	263,264
+105	Mihaľo Pavel	matka Mária Pulová	0	263,264
+105	Mihaľo Pavel	zom.23.10.1969	1	441
+105	Mihaľo Pavel, SR		0	58,285,312
+105	Mihaľo Pavel, SR	maloletý	0	61
+105	Mihaľo Pavel, SR	manž. Anna Vacová	0	207
+105	Mihaľo Pavel, SR	manž.Anna Vacová	0	541
+105	Mihaľo Pavel, SR	matka Mária Paulová	0	541
+105	Mihaľo Pavel, SR	zom.23.10.1969	1	425,459,494
+105	Mihaľo Pavol, SR		0	80
+105	Mihaľo Pavol, SR	matka Mária Paulová	0	348
+105	Mihaľo Pavol, SR	žena Anna Vacová	0	348
+105	Mihaľo Petruň Andrej, SR		0	338
+105	Mihaľov Andrej, SR	zom. 28.10.2003	1	430
+105	Mihaľov Ján, 072 64, Podhoroď, SR		0	58,190,549
+105	Mihaľov Ján, Podhoroď, PSČ 072 64, ČR	nar. 1935	0	61
+105	Mihaľov Ján, SR		1	191,459
+105	Mihaľová Anna r. Vacová, SR		1	361,417,431,518,519
+105	Mihaľová Anna r. Vacová, SR	zom.15.7.1972	1	459
+105	Mihaľová Anna, SR		0	80
+105	Mihaľová Anna, SR	maloletá	1	58,61,425,441,459,494
+105	Mihaľová Helena, SR		0	80,102
+105	Mihaľová Ilona, SR		0	58
+105	Mihaľová Ilona, SR	maloletá	1	61,425,441,459,494
+105	Mihaľová Mária r. Paulová, SR	muž Andrej	1	58,61,425,441,459,494
+105	Mihaľová Mária r. Paulová, SR	vd	0	80
+105	Mihaľová Mária, SR		0	80
+105	Mihaľová Mária, SR	maloletá	1	58,61,425,441,459,494
+105	Michajlo Andrej		0	263,264
+105	Michajlo Andrej, SR		0	171,291,293,379,388
+105	Michajlo Pavol, SR		0	159,199,502
+105	Mikovič Pavel, SR		0	196
+105	Mikulanič Ján	ml	0	263,264,513
+105	Mikulanič Ján, SR		1	58,59,61,80,340,341,342,425,441,459,494
+105	Mikulanič Ján, SR	ml	0	119,236
+105	Mikulanič Ján, SR	ml,žena Mária Paulová	0	78
+105	Mikulanič Ján, SR	ml., žena Mária Paulová	1	443,472
+105	Mikulanič Michal, SR		1	58,71,453,454
+105	Mikulanič Michal, SR	žena Helena Michajlová	0	80
+105	Mikulanič Michal, SR	žena Iľa Minčaková	1	177,242,381,431,468,518,519
+105	Mikulanič Michal, SR	žena Ilona Mihaľová	1	425,441,459,494
+105	Mikulaničová Anna r. Mihaľová, SR	muž Ján	1	449
+105	Mikulaničová Anna, SR		0	177,381
+105	Minčák Ján		1	425
+105	Minčák Ján, SR	mal	1	425,441,459,494
+105	Minčak Michal, SR		0	58,61,80,177,381
+105	Minčák Michal, SR	žena Zuzana Koníková	1	425,459
+105	Minčák Pavel, SR	mal	1	425,459
+105	Minčaková Anna r. Homoľová		0	264
+105	Minčaková Anna r. Homoľová, SR		0	259
+105	Minčaková Anna r. Krivaková		0	263
+105	Minčaková Ilona r. Stanková Barnik	m.Juraj	0	263,264
+105	Minčaková Ilona r. Stanková Barnik	muž Ján	0	17,199
+105	Minčáková Júlia r. Stanko Barniková, SR	muž Ján	1	426,432,495
+105	Minčáková Mária r. Lobozová, SR	muž Pavel	1	467
+105	Minčaková Mária, SR		1	80,441,494
+105	Minčáková Zuzana r. Koníková, SR	muž Michal	1	460
+105	Miňo Ján r. Miňo		0	263,264
+105	Miňo Ján, SR		0	34,364
+105	Miňo Juraj r. Miňo		0	263,264
+105	Miňo Juraj, SR		0	29,364
+105	Miňová Anna r. Domašinská, SR		0	34,364
+105	Miňová Elena, SR	maloletá	0	34
+105	Miňová Ilona r. Remačová, SR	muž Pavel	0	237,285
+105	Miňová Mária, SR		0	34
+105	Miňová Zuzana r. Remačová, SR	muž Michal	0	237,285
+105	Mirdová Helena, SR		0	141
+105	Mitrová Mária r. Jakubová, SR		0	159,502
+105	Mitterpaková Helena r. Koroľová		0	263,264
+105	Mitterpaková Ilona r. Koroľová, SR	muž Michal	0	347
+105	Mosalková Iľa r. Pečeňaková, SR		0	57,100,102
+105	Mošalková Iľa r. Pečeňaková		0	263,264
+105	Moškovič Eliv, SR		0	284
+105	Moškovič Emil, SR		0	214,284
+105	Moškovič Ignác, SR		0	214,284
+105	Moškovič Ján, SR		0	284
+105	Moškovič Jeňo, SR		0	214
+105	Moškovič Mór, SR		0	214,284
+105	Moškovičová Helena r. Rothová, Puškinová 10, Košice, SR		0	263,264
+105	Moškovičová Netti r. Moškovičová, SR		0	214
+105	Moškvičová Nalli r. Moškovičová, SR	muž Eliv	0	284
+105	Ondič Michal, SR		0	285,312
+105	Ozimanič Ján		0	263,264,513
+105	Ozimanič Ján, SR		1	65,66,140,141,445
+105	Ozimaničová Mária r. Mihaľová		0	534
+105	Ozimaničová Mária r. Mihaľová, SR		0	348
+105	Paulinová Mária r. Madvecová, SR		0	79
+105	Paulinová Mária r. Medvecová, SR	muž Ján	0	115
+105	Paulo Juraj	ž. Paulina Potúcka	0	263,264,513
+105	Paulova Anna		0	263,264
+105	Paulová Anna r. Kriváková, SR		0	99
+105	Paulová Anna r. Kriváková, SR	muž Michal	1	57,100,102,431,461,462,465,518,519,532
+105	Paulová Anna r. Remačová, SR	muž Pavel	0	237
+105	Paulová Anna r. Remačová, SR	muž Pavol	0	285
+105	Paulová Anna, SR		0	146
+105	Paulová Helena, SR		1	430
+105	PAVLICOVA BARBARA		0	199
+105	PAVLIKOVA BARBORA		0	159,502
+105	Pavlo Ján, SR		0	117
+105	Pavlová Anna		0	264
+105	Pavlová Anna r. Kriváková		0	263
+105	Pečeňák Ján		0	263,264
+105	Pečeňak Juraj r. Pečeňak		0	263
+105	Pečeňák Juraj, SR		1	52,361,417,418,431,475,493,518,519
+105	Pečeňák Michal		1	431
+105	Pečeňák Michal, SR		1	68,417
+105	Pečeňak Pavol		0	263,264
+105	Pečeňaková Barbora		0	263,264
+105	Pečeňáková Barbora, SR		1	57,99,100,102,431,461,462,465,518,519
+105	Pečeňaková Helena r. Fedorková		0	263,264
+105	Pečeňáková Helena r. Fedorová, SR		0	68,70,363
+105	Pečeňaková Helena r. Mihaľová		0	263,264
+105	Pečeňáková Helena r. Mihaľová, SR		0	57,100
+105	Pečeňáková Ilona r. Fedorková, SR	muž Andrej	1	427
+105	Pečeňáková Michal, SR		1	459,518,519
+105	Pesollar Michal, SR		0	284
+105	Petro Klaciková Zuzana r. Hreňová, SR	muž Ján	0	199
+105	Petruň Mihaľo Andrej, SR		1	71,453,454
+105	Petruňová Anna, SR	maloletá	0	549
+105	Petruňová Ilona, SR	maloletá	0	549
+105	Petruňová Mária r. Sauková, SR	muž Juraj	0	136
+105	Petruňová Mária, SR		0	549
+105	Potucká Anna r. Kačurová, SR		1	80,441,494
+105	Potucká Eva, SR		1	84,372,503,504,505
+105	Potucká Ilona r. Mikulaničová, SR		0	541
+105	Potucká Libak Anna		0	171,388
+105	Potucká Libak Anna r. Kačurová	muž Andrej	0	58
+105	Potucká Libak Ilona		0	263,264
+105	Potucká Libak Ilona r. Mikulaničová	muž Juraj	0	348
+105	Potucká Libaková Anna		0	263,264
+105	Potucká Libaková Anna r. Kačurová, SR	muž Andrej	1	61,459
+105	Potucká Libaková Anna r. Koníková, SR	muž Andrej	1	425
+105	Potucká Mária, SR	mal	1	434
+105	Potúcky Juraj	otec Andrej	0	263
+105	Potucký Juraj, SR		0	84,199,372,503
+105	Potucký Juraj, SR	sestra Anna a Mária	1	434
+105	Potucký Juraj, SR	vl.25	1	504,505
+105	Potucky Libak Juraj		0	263,264
+105	Potucký Libak Juraj, SR		0	100,102,285,541
+105	Potucký Libak Juraj, SR	žena Ilona Mikulaničová	0	348
+105	Potucký Libak Michal		0	263,264,513
+105	Potucký Libak Michal, SR		1	78,79,115,116,117,118,119,433,472
+105	Potúcky Michal r. Potúcky		0	263,264
+105	Potucký Michal, SR		1	25,84,129,372,503,504,505
+105	Potucký Tempeľ Michal, SR		1	61,80,425,441,459,494
+105	Prisľubská Kata r. Rjabecová		0	263,264,513
+105	Prislubská Kata r. Rjabecová, SR		0	117,118,119
+105	Prislubská Katarína r. Riabecová, SR		1	472
+105	Prisľubská Mária r. Kriváková		0	80
+105	Prislubská Mária r. Kriváková, SR	muž Ján	1	441,459,494
+105	Prisľubský Ján		0	263,264,513
+105	Prislubský Ján, SR		0	117,118,119
+105	Prislubský Ján, SR	vl.35	1	472
+105	Prislupská Katarína r. Rjabecová	muž Juraj	0	78
+105	Prislupská Mária r. Kriváková	muž Ján	1	58,61,425
+105	Prislupský Ján		0	78
+105	Prislupský Juraj	žena Katarína Rjabecová	0	78
+105	Prochádzková Margita r. Homoľová, Chodová Planá, č. 54, PSČ 348 13, ČR	nar. 1931	0	58,61
+105	Prokopová Anna r. Šelemanová		0	263,264
+105	Prokopová Anna r. Šelemanová, SR		1	171,191,379,388,549
+105	Pšak Juraj, SR	žena Barbora Denci Pšaková	0	196
+105	Pšaková Mária r. Riniková, SR	muž Juraj	0	285
+105	Pšaková Mária r. Ryniková, SR	muž Juraj ml	0	312
+105	Ptáčniková Eliška, SR		1	457
+105	Raganová Helena r. Kriváková, SR		0	532
+105	Raganová Ilona r. Kriváková		0	263,264
+105	Raganová Ilona r. Kriváková, SR		0	57,99,100
+105	Raganová Ilona r. Kriváková, SR	muž Ihnát	1	102,431,461,462,465,518,519
+105	Rehorčák Borčak Vasiľ, SR	žena Barbora Šuhajdová	1	416,431,463,469,518,519,520,522,523
+105	Rehorčák Borčaková Barbora r. Šuhajdová, SR	muž Vasiľ	1	431,518,519
+105	Rehorčák Borčaková Vasiľ, SR	žena Barbora Šuhajdová	1	431,518,519
+105	Rehorčáková Barbora r. Šuhajdová, SR	muž Vasiľ	0	32
+105	Rehorčik Borčak Vasiľ, SR		0	51
+105	Rehorčíková Mária r. Homoľová, BEŇATINA, SR		0	263,264
+105	Rehovčíková Mária r. Homoľová, SR		1	476
+105	Remač Michal, SR	žena Mária Bučková	0	237,285
+105	Remač Pavel, SR	žena Ema Pčolárová	0	237,285
+105	Remecký Štefan, SR	žena Barbora Dudašová	0	196
+105	Riganová Iľa r. Krivaková		0	263,264,513
+105	Riganová Iľa r. Kriváková, SR		1	137,138,236,383,443,553,554,555
+105	Riganová Ilona r. Krivaková		0	263,264,513
+105	Riganová Ilona r. Kriváková, SR		0	137,383,553,554,555
+105	Roľnícka vzájomná pokladnica v Sobranciach		0	263
+105	Roseufeldová Ida r. Moškovičová, SR		0	214
+105	Roseufeldová Ida r. Moškovičová, SR	muž Henrik	0	284
+105	Roseufeldová Johana r. Moškovičová, SR	muž Mór	0	214
+105	Rosorcaková Anna r. Potucka Libaková, SR		0	79,119
+105	Rosorcaková Anna r. Potucka Libaková, SR	muž Juraj	0	115,116,117,118
+105	Rosorkačová Anna r. Potúcka Libaková		0	263,264,513
+105	Rossorčaková Anna r. Potucká Libak		0	78
+105	Rovňak Tkač Michal, SR		0	237,285
+105	Rozsorčáková Anna r. Potucká Libaková, SR	muž Juraj	1	433,472
+105	RUBER Ján, SR		0	237
+105	Rybnický Juraj, SR	maloletý	0	285
+105	Saloka Juraj, SR	žena Anna Dudašová	0	196
+105	Senič Michal, SR		1	80,447,565
+105	Senič Michal, SR	mal., otec Vasiľ	1	425,441,459,494
+105	Senič Michal, SR	maloletý	0	61
+105	Senič Michal, SR	maloletý, otec Vasiľ	0	58
+105	Senič Pavol, SR		1	447,565
+105	Senič Vasiľ, SR		0	95,527
+105	Seničová Anna, SR		0	80
+105	Seničová Anna, SR	mal., otec Vasiľ	1	425,441,459,494
+105	Seničová Anna, SR	maloletá	0	61
+105	Seničová Anna, SR	maloletá,otec Vasiľ	0	58
+105	Seničová Mária r. Vudmanská, SR		1	95,447,527,565
+105	Schvarc Markus		0	263,264
+105	Schwarc Markus, SR		0	155,202,344
+105	Simčik Ján, SR		1	80,425,441,459,494
+105	Simčik Juraj, SR		1	80,425,441,459,494
+105	Simčík Michal, SR	maloletá	0	80
+105	Simčíková Mária r. Tutičová, SR		1	80,340,341,425,441,459,494
+105	Simčo Ján, SR		0	80
+105	Simčo Ján, SR	mal	1	425,441,459,494
+105	Simčo Ján, SR	st	0	102
+105	Simčo Juraj, SR		0	80
+105	Simčo Juraj, SR	mal	1	425,441,459,494
+105	Simčová Anna, SR	mal	1	425,441,459,494
+105	Simčová Anna, SR	maloletá	0	80
+105	Sinčák Michal, SR		0	237,285
+105	Sirak Michal, SR		0	285
+105	Sivak Michal, SR		0	237
+105	Smoliga Andrej, SR		0	268
+105	Smoligová Anna r. Homoľová, SR	muž Pavel	0	268
+105	Stanko Barnik Alžbeta	mal	0	349
+105	Stanko Barnik Anna		0	349
+105	Stanko Barnik Mária		0	349
+105	Stanko Barnik Michal	ž. Mária Tempľová	0	263,264
+105	Stanko Barnik Michal, SR	mal	1	17,58,61,80,349,425,426,432,441,459,494,495
+105	Stanko Barnik Michal, SR	žena Mária Tempeľová	0	17,199
+105	Stanko Barnik Zuzana	maloletá	0	349
+105	Stanko Barniková Alžbeta, SR	mal	1	425,426,432,494,495
+105	Stanko Barniková Anna, SR		1	425,426,432,459,494,495
+105	Stanko Barniková Mária, SR		1	425,426,432,459,494,495
+105	Stanko Juraj	mal	0	263,264,513
+105	Stanko Juraj, SR	mal	1	58,61,80,135,136,137,138,236,383,425,441,443,444,459,494,553,554,555
+105	Stanko Michal, SR		0	305
+105	Stanková Anna	mal	0	263,264,513
+105	Stanková Anna r. Barník		0	80
+105	Stanková Anna, SR	mal	1	425,441,443,444,459,494
+105	Stanková Anna, SR	maloletá	0	58,61,80,135,136,137,138,236,383,553,554,555
+105	Stanková Barnik Alžbeta	mal	1	17,441
+105	Stanková Barník Alžbeta		0	80

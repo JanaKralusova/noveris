@@ -1,0 +1,256 @@
+9	Skladaný Jozef		0	1133
+9	Skokan Ľudovít		0	1173
+9	Skokanová Karolína		0	1173
+9	Skokanová Klára r. Hrašková		0	148,734,735
+9	Slagerová Saloména r. Magalová		0	1141
+9	Slaná Jolana		0	654,1226,1227,1327
+9	Slaný František		0	654,1103,1226,1227,1327
+9	Slaný Jozef		0	654,1226,1227,1327
+9	Slaný Peter		0	1208
+9	Slaný Teodor		0	767
+9	Smržíková Alžbeta r. Knapová		0	750,1106
+9	Svičeková Terézia r. Halmešová		0	1207
+9	Svobická Margita r. Gurinová		0	1208
+9	Svobický Jozef		0	1208
+9	Šimanská Barbora		0	1146,1150
+9	Šimora Pavol		0	1196
+9	Šimorová Emília	maloletá	0	1215
+9	Škodáková Mária r. Magalová		0	1083,1141,1160
+9	Školníková Viktoria r. Hercegová		0	1119
+9	Šmidtová Emília r. Lužáková		0	678
+9	Štefanková Vilma r. Halmešová		0	1130
+9	Štegerová Saloména r. Magalová		0	1160
+9	Štibranová Ľudmila		0	1200
+9	Šturma Ľudovít		0	1204
+9	Šturmová Etela r. Jašlová		0	1204
+9	Tylková Johana r. Baloňová		0	1182
+9	Uhlík Jozef		0	633
+9	Uhlíková Agáta r. Pauková		0	1116
+9	Uhlíková Ľudmila r. Pauková		0	1116
+9	Ukropec Ján		0	1075
+9	Ukropecová Mária		0	1075
+9	Ukropecová Mária	mladšia	0	1125
+9	Ungárová Berta r. Neumannová		0	972
+9	Urcikán František		0	674,917,957,969,1265,1333,1408,1413
+9	Urcikán Ján		0	1107
+9	Urcikán Julius	starší	0	674,1265,1333,1408
+9	Urcikán Vít		0	1067
+9	Urcikánová Katarína r. Uhlíková		0	968,1116
+9	Vajíková Júlia r. Košťálová		0	1096
+9	Valová Verona r. Vitamvásová		0	1175
+9	Varga Július		0	1124
+9	Vargová Emília r. Oravcová		0	1124
+9	Vavrová Mária r. Ilenčiková		0	448,1119
+9	Vulkánová Helena		0	972
+9	Vulkanová Roza r. Neumannová		0	972
+9	Weiss Viliam		0	1114
+9	Weissová Malvína r. Glaserová		0	1114
+9	Záborská Anna r. Sitárová		0	1150
+9	Záhorský Jozef	maloletý	0	1081
+9	Záhorský Milan	maloletý	0	1081
+9	Zacharová Verona r. Ilenčiková		0	448,1080,1119
+9	Zajko František		0	1063
+9	Zajko Jozef		0	1063
+9	Zajková Magdaléna r. Lačná		0	707
+9	Zemanová Mária r. Haásová		0	948
+9	Žáčik Izidor		0	1147
+9	Žáčik Štefan		0	1113,1150
+9	Žáčiková Alžbeta r. Pleseková		0	1150
+9	Žáčiková Rozália r. Ríhová	vdova	0	1110,1113
+10	Almási Imrich		0	1276
+10	Bartal Arpád		0	1240
+10	Bartal Ján		0	1240
+10	Bartalová Gizella r. Bugárová	m.Jozef	0	1077
+10	Bartalová Margita		0	1240
+10	Bartalová Terézia		0	1240,1265
+10	Bazsó Ján		0	1252
+10	Bokrosová Julianna r. Csörgeyová		0	878
+10	Buday Michal	m.Barbora r.Fodorová	0	1005
+10	Csémiová Barbora r. Csémiová	m.Štefan	0	841
+10	Csémiová Terézia r. Csomorová	m.Michal	0	841
+10	Csörgeiová Helena		0	1031
+10	Csörgeyová Helena		0	878
+10	Czettleová Barbora r. Földesová	m.Ignác	0	1243
+10	Czimnerová Julianna r. Földesová	m.Štefan	0	1243
+10	Ednár Ladislav		0	1252
+10	Ednár Štefan		0	1252
+10	Ednárová Anna		0	1252
+10	Ednárová Mária		0	1252
+10	Ednárová Mária r. Bazsóová	m.Štefan	0	1252
+10	Ednárová Terézia		0	1252
+10	Farkas Edmund		0	696
+10	Fekete Baltazár		0	830,1122
+10	Fekete Ján		0	830,1122
+10	Fekete Juraj		0	1261
+10	Feketeová Mária		0	830,1122
+10	Fodor Bálint		0	696,746
+10	Fodor Bálint maloletý		0	696,746
+10	Fodor Valentín		0	746,1226,1227,1228,1229
+10	Fodor Valentín	súrodenci Štefan,Jozef,Mária	0	1226,1227,1228,1229
+10	Fodorová Anna r. Simonová		0	1228
+10	Fodorová Etela		0	696,746
+10	Fodorová Etela	mal.v r.1930	0	1226,1227,1228,1229,1230
+10	Fodorová Helena	mal.v r.1930	0	1226,1227,1228,1229,1230
+10	Fodorová Helena maloletá		0	696,746
+10	Fodorová Helena r. Matúšová	m.Štefan	0	1226,1227,1228,1229
+10	Fodorová Helena r.Matusová		0	696,746
+10	Fodorová Magdaléna	mal.v r.1941	0	1226,1227
+10	Fodorová Mária		0	696,746,1226,1227,1228,1229
+10	Fodorová Marianna		0	696,746
+10	Fodorová Marianna	mal.v r.1930	0	1226,1227,1228,1229,1230
+10	Fodorová Rozália		0	696,746
+10	Fodorová Rozália	mal.v r.1930	0	1226,1227,1228,1229,1230
+10	Földes Leopold		0	1243
+10	Földesová Júlia		0	1243
+10	Földesová Mária		0	1243
+10	Földesová Mária	2	0	1243
+10	Földesová Mária	dcéra Františka	0	1243
+10	Földesová Mária	mal.do r.1917	0	1243
+10	Glofáková Matilda r. Földeseová	m.Karol	0	1243
+10	Godány Elek	ml	0	1258
+10	Godány Koloman		0	1258
+10	Godány Vincent	mal.v r.1934	0	1258
+10	Godány Vojtech		0	1258
+10	Godány Zoltán	mal.do r.1938	0	1258
+10	Gódányová Etela, SR		0	743
+10	Gódányová Terézia r. Somogyiová		0	738
+10	Hajnalová Tekla		0	1244
+10	Hervai Gejza		0	870,883
+10	Hervai Ľudovít		0	883
+10	Hervaiová Emília		0	870,883
+10	Hervaiová Helena		0	870,883
+10	Hervay Gejza	mal.v r.1927	0	870,883
+10	Hervay Juraj	mal.v r.1953	0	870,883
+10	Hervay Ladislav	mal.v r.1953	0	870,883
+10	Hervay Ľudovít		0	883
+10	Hervay Štefan	mal.v r.1927	0	870,883
+10	Hervayová Alžbeta	mal.v r.1927	0	870,883
+10	Hervayová Barbora	mal.v r.1927	0	870,883
+10	Hervayová Emma	mal.v r.1927	0	870,883
+10	Hodošiová Mária r. Kaslová		0	1280
+10	Horsiová Jolana	mal.v r.1927	0	1093,1222,1223
+10	Hrivňák Ján	m.Zanette r.Hullá	0	1237
+10	Hrivňáková Zanette r. Hullová	m.Ján	0	1237
+10	Hulla Pavol	m.Anna r.Hullová	0	1237
+10	Hullová Anna r. Hullová	m.Pavol	0	1237
+10	Imriš Štefan	m.Zuzanna r.Rusňáková	0	1237,1269
+10	Imrišková Zuzanna r. Rusňáková	m.Imriš	0	1237,1269
+10	Ivánová Terézia		0	694,863,864
+10	Juhász Anton		0	1233
+10	Juhász Edmund		0	1233
+10	Juhász Ján	m.Jozefína r.Lukácsová	0	1232
+10	Juhász Michal		0	1233
+10	Kása František		0	870,883
+10	Katonaová Ella	obyv.v Derčike	0	1246
+10	Katonaová Terézia r.Kovácsová		0	1028
+10	Katónová Terézia r. Kovácsová		0	1255
+10	Keszőczeová Mária r. Ivanová		0	694,816,817,863,864
+10	Kósa Pavol		0	1024,1080
+10	Kósa Štefan		0	1026
+10	Kósa Štefan	mal.do r.1925	0	1254
+10	Koša Ján	m.Zuzanna r.Hullová	0	1237
+10	Koša Michal	m.Anna r.Majerová	0	1237
+10	Košová Zuzanna r. Hullová	m.Ján	0	1237
+10	Kovács František		0	1028,1255
+10	Kovács Michal		0	1028,1255
+10	Kovács Peter		0	1028,1255
+10	Kovács Štefan		0	1028,1255
+10	Kovácsová Rozália r. Juhászová		0	1233
+10	Kuková Anna r. Považanová	m.Pavel	0	1237,1270
+10	Kulacsová Anna r.Antalová		0	1033
+10	Kulcsárová Etela r. Godányová	m.Štefan	0	908,1258
+10	Kulcsárová Viktória r. Juhászová		0	1233
+10	Lászlóová Juliána r. Gódányová		0	1022
+10	Lászlová Julianna r. Gódányová		0	1044
+10	Letrich Jozef	ž.Mária r.Verešová	0	1237,1238,1267
+10	Letrich Michal	m.Anna r.Boďová	0	1237
+10	Letrichová Anna r. Boďová	m.Michal	0	1237
+10	Letrichová Mária r. Verešová	m.Jozef	0	1238
+10	Lustig Jakub		0	1275
+10	Matisová Irena	mal.do r.1926	0	1245
+10	Mehés Ladislav		0	899,1132
+10	Mehésová Rozália r. Szabóová	m.Rudolf	0	899,1132
+10	Méhesová Valéria r. Jaczková		0	879,899,900,1132,1133,1340
+10	Mériová Mária		0	1273
+10	Méry Ján		0	1260
+10	Méry Ján	m.Julianna r.Vargová	0	1001
+10	Nagy Ignác		0	1247
+10	Nagy Ladislav		0	837,1247
+10	Nagy Štefan		0	837,1247
+10	Nagyová Juliana r. Somogyiová, SR		0	738
+10	Nagyová Mária r. Földesová		0	1243
+10	Nagyová Rozália		0	1263
+10	Németová Mária r. Méhesová		0	879,899,900,1132,1133,1340
+10	Oberhoffer Ignác		0	1231
+10	Oberhofferová Helena	mal.v r.1916	0	1231
+10	Olléová Viktória r. Godányová		0	1253
+10	Olléová Viktória r.Gódányová		0	1023
+10	Olléová Vilma r. Kovácsová		0	1255
+10	Olléová Vilma r.Kovácsová		0	1028
+10	Pöthe Koloman	m.Julianna r.Nyársiková	0	1248
+10	Pötheová Julianna r. Nyársiková	m.Koloman	0	1248
+10	Ratzarbergová Julianna r. Csémiová	m.Jozef	0	841
+10	Riedlová Matilda r. Sieglová	m.Karol	0	879,899,1132,1133,1340
+10	Satorová Mária		0	944,945
+10	Siegel Ján		0	879,899,900,1132,1133,1340
+10	Siegelová Etela		0	879,899,1132,1133,1340
+10	Siegelová Valéria		0	900
+10	Siegelová Vilma		0	879,899,1132,1133,1340
+10	Sisková Mária r. Földesová	m.Gabriel	0	1243
+10	Somogyi Gabriel		0	1012
+10	Somogyi Klement		0	1012
+10	Somogyi Lazár		0	1012
+10	Somogyi Ľudovít		0	1028
+10	Somogyi Ľudovít	dedí po Michalovi Kovácsovi	0	1255
+10	Somogyi Ľudovít	mal. v r.1913, sestra Anna	0	1233
+10	Somogyi Ľudovít	súrodenci Gabriel,Lazár,Johanna,Klement	0	1012
+10	Somogyi Maximilián		0	1071
+10	Somogyi Vavrinec, SR		0	743
+10	Somogyiová Johanna		0	1012
+10	Somogyiová Juliana, SR		0	738
+10	Somogyiová Marta		0	1012
+10	Szabó František	súrodenci Peter,Mária	0	950
+10	Szabó Ján	m.Barbora r.Vidová	0	1234,1235
+10	Szabóová Barbora r. Vidová	m.Ján	0	1234
+10	Szabóová Mária	mal. v r.1942	0	950
+10	Szabóová Mária r. Alsódyová	m.Štefan	0	899,1132
+10	Szabová Mária r. Boďóová	m.Štefan	0	1249
+10	Szenteová Barbora r. Ivánová		0	816,817,863,864
+10	Szenteová Barbora r.Ivanová		0	278,694
+10	Takács Vojtech		0	1266
+10	Varga Ľudovít		0	925
+10	Varghová Etela r. Nagyová		0	1045
+10	Vargová Etela r. Ivánová		0	816,817,863,864
+10	Vargová Julia		0	745
+10	Vargová Júlia	mal.v r.1905	0	817
+10	Zsemlye Ladislav	m.Mária r.Csibaová	0	1279
+10	Zsemlyeová Mária r. Csibaová	m.Ladislav	0	1279
+11	ADLER MORIC	cd 2300/49,2712/49	0	177
+11	ADLER MORIC	cd 2712/49	0	153
+11	DEUTELBAUM Eugen		0	259
+11	DEUTELBAUM Eugen, SR		0	188
+11	DRECHSLER Jozef		0	250
+11	DRECHSLER JOZEF	cd 1757/49	0	153,177
+11	DRECHSLER JOZEF	cd 1757/50	0	183
+11	DRECHSLER JOZEF[C.D.583/47A]		0	119
+11	DURAK JOZEF	cd 5651/31	0	154
+11	DURAK JOZEF	cd 6908/30	0	140
+11	DURAK JOZEF[C.D 5401/30]		0	119
+11	FRAŇO Ernest	ž Mária Vindišová	0	278
+11	FRAŇOVÁ Mária r. Vindišová		0	278
+11	FRANOVA MARIA R.WINDISCHOVA	cd 1157/52	0	177
+11	FUNTOVÁ Johana r. Dianová		0	261
+11	GÁL Jozef	ž Rozália Gudabová	0	267
+11	GÁL Michal	ž Kata Gudábová	0	269
+11	GÁLOVÁ Katarína r. Gudábová		0	269
+11	GÁLOVÁ Rozália r. Gudabová		0	267
+11	GUDABA Michal	ž Mária Strhák zom 31.12.1984	0	283
+11	HEIMANN JULIUS	cd 2035/26	0	128
+11	HEIMANN Július		0	259
+11	HLADKÁ Justína r. Bednáriková		0	291
+11	HLADKÝ František	ž Justína Bednáriková	0	291
+11	KLACMANOVA MARIA R.ZAKOVICOVA	cd 5278/48	0	150
+11	KLAČMANOVÁ Mária r. Žákovičová, SR		0	121,122
+11	KOLLÁR Michal	ž Mária Gajdošíková	0	281
+11	KOLLÁROVÁ Mária r. Gajdošíková		0	281
+11	KOŠA Michal	ž Johana Dijanová	0	261

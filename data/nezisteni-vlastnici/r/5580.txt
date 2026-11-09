@@ -1,0 +1,256 @@
+3147	ŠTEVULÁKOVÁ MÁRIA, SR	MAL	0	341,355,356,1597,1598
+3147	ŠTRBAVÝ ONDREJ, SR	DOLNÝ	0	695
+3147	ŠVALEC JÁN, SR	ML	0	695
+3147	ŠVALECOVÁ ILONA, SR		0	695
+3147	TAPÁK Ondrej, SR	Bahleda	0	267,374
+3147	TAPÁK Peter, SR	Bahleda	0	267,374
+3147	ŤAPÁK PETER, SR	BAHLIEDA	0	695
+3147	TAPÁKOVÁ Mária r. Švalec, SR		0	267,374
+3147	ŤAPÁKOVÁ MÁRIA r. ŠVALECOVÁ, SR		0	695
+3147	TARAŠTAK Jozef, SR		0	267,374
+3147	TARAŠTIAK JOZEF, SR		0	695
+3147	TARAŠTIAK JOZEF, SR	BEDA	0	695
+3147	TEKELIAK Tomáš, 032 21, Bobrovec, č. 31, SR	zomr.03.11.1991	0	262,965,970,997,1000,1002,1159
+3147	TEKELIAKOVÁ Anna r. Hurajová, Južná 11, Vrútky, SR	zom.26.5.1987	0	976
+3147	TEKELJAK Pavel, SR		0	284,378,632,1206,1207,1208,1209,1210,1211,1397,1448,1449,1497
+3147	TEKELJAK TOMÁŠ, SR		0	378,520,522,671,1191,1192,1211
+3147	TEKELJAK TOMÁŠ, SR	MAL	0	520,522,671,1191,1192
+3147	TEKELJAKOVÁ ANNA r. HURAJ, SR		0	631,632,704,1396,1397,1448,1449,1497
+3147	TKÁČ Alexander, SR	zom.16.8.1939	0	1076
+3147	TKÁČ Ignác, SR	zomrel v Amerike	0	950,1411
+3147	TKÁČ IGNÁC, SR		0	695
+3147	TKÁČ Jozef, SR	zomrel v Juhoslávii	0	262,308,309,501,502,950,1076,1159,1410,1411
+3147	TKÁČ JOZEF, SR	JUROV	0	378,1211
+3147	TKÁČ JOZEF, SR	ŠTELINA Ž.ANNOU SMIEŠNY	0	362,369
+3147	TKÁČ Jozef, Za luhami 574/4, Palúdzka-Liptovský Mikuláš, PSČ 031 01, SR	zom.14.1.1997	0	932
+3147	TKÁČ Karol, SR	zomrel v Brazílii	0	308,309,501,502,950,1076,1410,1411
+3147	TKÁČ ĽUDEVÍT, MALÉ BOROVÉ, SR		0	492,498,499,690,1491,1494
+3147	TKÁČ Ľudevít, SR	zomrel v Belgicku v r.1999	0	262,308,309,501,502,946,947,948,950,1076,1159,1216,1410,1411,1493,1502,1627
+3147	TKÁČ Milan, SR		0	262,1159
+3147	TKÁČ PAVOL, SR	JOZEFOV	0	378,1211
+3147	TKÁČOVÁ ANNA r. SMIEŠNY, SR		0	362,369
+3147	TKÁČOVÁ MÁRIA r. DRBJAK, SR	JURAJOVA	0	540,583,584,589,595,1404,1405
+3147	TKÁČOVÁ Mária r. Drbjaková, SR	zomrel, Jurajová	0	262,1034,1040,1041,1159,1195,1268,1281
+3147	TKÁČOVÁ Mária r. Drbjaková, zomrel, Jurajová zomrel, Jurajová		0	1384
+3147	TKÁČOVÁ MÁRIA r. PISUTH, SR		0	362
+3147	TKÁČOVÁ Mária r. Smiešna, SR	zomrela, Jozefova	0	309,805,818,1220
+3147	TKÁČOVÁ MÁRIA r. SMIEŠNY, SR	JOZEFOVA	0	311,332,356,357,358,685,1597,1598
+3147	TOMAN Pavol, SR		0	267,374,695
+3147	TOMAŇOVÁ TERÉZIA r. BREČKOVÁ, SR		0	695
+3147	TUKA JOZEF, PROSIEK, SR		0	377,1280
+3147	TUKA PETER, PROSIEK, SR	ŽEN. EVOU MAJERČIAK	0	377,1280
+3147	TUKA ŠTEFAN, SR		0	377,661,1280
+3147	TUKOVÁ EVA r. MAJERČIAK, PROSIEK, SR		0	377,1280
+3147	VÁLEK JÁN		0	1371,1417
+3147	VÁLEK Ján, SR	zomrel	0	929,1406,1492
+3147	VÁLEK JÁN, SR		0	305,306,378,482,487,645,704,749,1211,1414,1416,1503,1523,1524,1525,1526,1527,1528,1529,1582
+3147	VÁLEK Jozef, 027 46, Veľké Borové, č. 47, SR	zom.17.12.1995	0	926
+3147	VÁLEK MATEJ, SR		0	378,1211
+3147	VÁLEKOVÁ Anna, SR	zomrela	0	262,309,923,926,946,1159,1199,1216
+3147	VÁLEKOVÁ ANNA, VEĽKÉ BOROVÉ, SR		0	467,472,475,476,492,494,495,643,689,1079,1146,1148,1150
+3147	VALIGURA Ján, SR	zomrel	0	1046,1352,1468,1515
+3147	VALIGURA JÁN, SR		0	533,601,603,605,637,668,1473,1480,1481,1487,1488,1513,1550,1572,1599
+3147	VALIGURA ŠTEFAN, SR		0	378,1211
+3147	Varová Anna r. Tkáčová, Železničiarska 4, Banská Bystrica, PSČ 974 01, SR		0	433,638,646,672
+3147	VAROVÁ Anna r. Tkáčová, Železničiarska 4, Banská Bystrica, PSČ 974 01, SR	zom.13.07.1990	0	262
+3147	VAROVÁ Anna r. Tkáčová, Železničiarska 4, Banská Bystrica, PSČ 974 01, SR	zom.13.7.1990	0	262,882,1159
+3147	VDOVEC JÁN, SR		0	695
+3147	VRAŠTIAK JOZEF, SR		0	378,1211
+3147	VRAŠTIAK JOZEF, SR	PURDIAK	0	346,379,1543
+3147	VRAŠTIAK ONDREJ, SR		0	369
+3147	VRAŠTIAK ONDREJ, SR	PURDIAK	0	346,379,1543
+3147	VRAŠTIAK PAVOL, SR	JUHÁS	0	369
+3147	VRAŠTIAK VALENT, SR	KUČERA	0	369
+3147	VRAŠTIAKOVÁ ANNA r. PURDIAK, SR	VDOVA	0	622,625,626,667,682,1201
+3147	VRAŠTIAKOVÁ Anna r. Purdiaková, SR	zomrela	0	1055,1061,1063
+3147	VRAŠTIAKOVÁ ANNA, SR	MAL	0	460,464,466,643,689,1504
+3147	VRAŠTIAKOVÁ MÁRIA r. GLONEKOVÁ, SR	ZOMR. 26.04.1958	0	864,1265
+3147	VRAŠTIAKOVÁ Mária r. Tkáčová, SR	zomrela asi v r.1975	0	262,308,309,501,502,950,1076,1159,1410,1411
+3147	VRTÍK FRANTIŠEK, SR		0	378,1211
+3147	VRTÍKOVÁ Mária r. Smiešna, SR		0	262,1159
+3147	VYPARINA Ján, SR		0	262,1159
+3147	VYPARINA Šimon, SR	Krivuš	0	262,1159
+3147	VYPARINA Štefan, SR		0	262,1159
+3147	VYPARINOVÁ Mária r. Krivušová, SR		0	262,1159
+3147	ZSIZEMAN Jozef, SR		0	267,374
+3147	ZUHREJOVÁ ANNA r. HULIN, SR		0	366
+3147	ŽEMBA Adam, SR		0	262,1159
+3147	ŽIŽMAN JÁN, SR		0	695
+3147	ŽIŽMAN Jozef, SR		0	267,374,695
+3148	Bajtala František r. Bajtala	manž.Margita Petrovičová	0	3013
+3148	Bajtalová Margita r. Petrovičová	manž.František	0	3013
+3148	BELÁK Jozef r. Belák	manž.Oľga r.Švecová	0	2546
+3148	BELÁKOVÁ Oľga r. Švecová	manž.Jozef	0	2546
+3148	BELAN Anton r. Belan	manž.Antónia r.Paulovičová	0	2292
+3148	BELANOVÁ Antónia r. Paulovičová	manž.Anton Belan	0	2292
+3148	BELICOVÁ Jozefína r. Dedičová		0	2238,2849
+3148	BENCELOVÁ Anna r. Grňová		0	2294
+3148	BENCELOVÁ Jozefína r. Orságová		0	2291
+3148	Benko Ján r. Benko		0	2991
+3148	BENKO Ján r. Benko	manž.Bernardína r.Smatanová	0	2320
+3148	BENKO Jozef r. Benko		0	2325
+3148	BENKO Martin r. Benko	manž.Mária r.Pechová	0	2528
+3148	BENKO Viktor r. Benko	manž.Mária r.Juríková	0	2320
+3148	BENKOVÁ Eva r. Michalová		0	497
+3148	BENKOVÁ Jozefína r. Hodálová	manž.Michal Benko	0	1786
+3148	BENKOVÁ Mária r. Pechová	manž.Martin	0	2528
+3148	BEŇUŠKOVÁ Mária r. Geršiová		0	1434,2470
+3148	BEZÁKOVÁ Anna r. Bencelová	manž.Štefan Bezák	0	1405,2368
+3148	Bezáková Júlia r. Bezáková	manž.Anton Bezák	0	2981
+3148	BEZÁKOVÁ Magdaléna r. Rybárová		0	1445,1697,2846,2879
+3148	BEZÁKOVÁ Rozália r. Grácová		0	1462
+3148	BIZOŇOVÁ Anna r. Čakanová	po Jánovi Čakanovi	0	1455
+3148	Blaško Jozef r. Blaško	manž.Anna, r. Rybárová	0	3016
+3148	Blašková Anna r. Rybárová	manž. Jozef	0	3016
+3148	Bóka Ľudovít r. Bóka	Práporčík	0	2985
+3148	BOROVSKÝ Rudolf r. Borovský		0	2517
+3148	BOROVSKÝ Štefan r. Borovský		0	2517
+3148	BOŠANYI Ján r. Bošanyi		0	1783,2847
+3148	BUJALKA Štefan r. Bujalka		0	2366,2368
+3148	BUJALKA Štefan r. Bujalka	manž.Jozefína r.Lacková	0	2366,2368
+3148	BUJNOVÁ Jozefína r. Korcová		0	2377
+3148	BURIANKA Ľudovít r. Burianka		0	2236
+3148	BUŠINSKÁ Mária r. Gulčíková		0	2473
+3148	BUŠOVÁ Anna r. Moravčíková		0	1893
+3148	BÚŠOVÁ Mária r. Moravčíková	manž.František	0	1891
+3148	ČAKAN Anton r. Čakan	syn Jána Čakana	0	1455,2330,2819,2887
+3148	ČAKAN Ján r. Čakan	syn Jána Čakana	0	1455,2330,2819,2887
+3148	ČAKAN Jozef r. Čakan	manž.Valéria r.Hodálová	0	2479
+3148	ČAKAN Štefan r. Čakan	manž.Antónia r.Valnichová	0	2479
+3148	ČERNÁ Anna r. Macová	manž.Ján Černý	0	2296
+3148	ČERNÝ Ján r. Černý	manž. Anna r.Macová	0	2296
+3148	ČESKOSLOVENSKÝ ŠTÁT	Koželužne , národný podnik Bošany	0	2450
+3148	DAŇO Rudolf r. Daňo	manž.Jozefína r.Mikulášová	0	2499
+3148	DAŇOVÁ Jozefína r. Daňová	manž.Rudolf Daňo	0	2499
+3148	DEDIČ Jozef r. Dedič	manž.Anna r.Škvareninová	0	2237
+3148	DEDIČ Michal r. Dedič		0	2238,2849
+3148	DEDIČ Štefan r. Dedič		0	2238,2849
+3148	DEDIČOVÁ Anna r. Škvareninová	manž.Jozef Dedič	0	2237
+3148	DEDIČOVÁ Eva r. Zvalová	manž.Michal Dedič	0	2238,2849
+3148	DERNESOVÁ Jozefína r. Gulčíková		0	2473
+3148	DOBIÁŠOVÁ Anna r. Dobiášová	maloletá	0	1529,1750
+3148	DOBIAŠOVÁ Margita r. Rybárová		0	1445,1697,2846,2879
+3148	DOLNÍK Anthony r. Dolník		0	307
+3148	DOLNÍK Anton r. Dolník		0	1895,2712
+3148	DOLNÍK Imrich r. Dolník		0	1707,2258
+3148	DOLNÍK Imrich r. Dolník	manž. Jozefína r.Bavorová	0	2259,2327
+3148	DOLNÍK Jozef r. Dolník		0	307,1707,1847
+3148	DOLNÍKOVÁ Emília	bytom v Canade	0	307
+3148	DOLNÍKOVÁ Eva r. Geršiová	manž. Jozef Dolník	0	1434,1880,1881,2259
+3148	DOLNÍKOVÁ Júlia r. Medová	manž.Michal Dolník	0	1960
+3148	DOLNÍKOVÁ Linda		0	307
+3148	DOLNÍKOVÁ Verona r. Paučiková	manž.Anton Dolník	0	1705
+3148	DUDOVÁ Mária r. Korcová		0	2356
+3148	ĎURKOVIČOVÁ Anna r. Mišejová		0	1686
+3148	DUŠOVÁ Jozefína r. Ďurišová		0	720,1691,2128,2867
+3148	Etmeier Jindrich r. Etmeier	Slobodný	0	3017
+3148	FABIAN Anton r. Fabian	manž.Gizela r.Bujná	0	2557
+3148	FABIAN Anton r. Fabian	manž.Mária r.Mišejová	0	2239
+3148	FABIÁN Anton r. Fabián	manž.Anna r.Halmová	0	1422
+3148	Fabian Július	manž.Veronika	0	3025
+3148	FABIANOVÁ Anna r. Halmová		0	2263
+3148	FABIANOVÁ Gizela r. Bujná	manž.Anton	0	2557
+3148	FABIANOVÁ Jozefína r. Fabianová		0	1445
+3148	FABIANOVÁ Mária r. Melišeková	manž. Štefan Fabian	0	2207
+3148	FABIANOVÁ Mária r. Mišejová	manž.Anton Fabian	0	2239
+3148	FÁBIK Martin r. Fábik	manž.Helena r.Jozefková	0	2293
+3148	FÁBIKOVÁ Helena r. Jozefková	manž.Martin Fábik	0	2293
+3148	FRANKOVÁ Borbála r. Škvareninová		0	1817,1982
+3148	GAJDOŠOVÁ Emília r. Gajdošová		0	2365,2368
+3148	GALGÓCI Justín r. Galgóci	manž.Katarína r.Melušová	0	2515
+3148	GALGÓCIOVÁ Katarína r. Melušová	manž.Justín	0	2515
+3148	GALIK Anton r. Galik		0	2240
+3148	GÁLIK Anton r. Gálik	slobodný, syn Pavla	0	2532
+3148	GALIK Pavel r. Galik		0	2240
+3148	GÁLISOVÁ Anna r. Michalová		0	497
+3148	GÁLISOVÁ Jozefína r. Halmová		0	1528
+3148	GAŠPARÍK Karol r. Gašparík	dedenie po Štefanovi Gašparíkovi	0	1342
+3148	GAŠPARÍK Pavol r. Gašparík	dedenie po Štefanovi Gašparíkovi	0	1342
+3148	GAŠPARÍK Štefan r. Gašparík		0	2337
+3148	GAŠPARÍKOVÁ Františka r. Gašparíková	dedenie po Štefanovi Gašparíkovi	0	1342
+3148	GAUSOVÁ Terézia r. Gausová		0	2515
+3148	GERŠI Ján r. Gerši		0	1878
+3148	GERŠIOVÁ Anna r. Geršiová	súrodenci: Jozef a Mária	0	1307
+3148	GERŠIOVÁ Magdaléna r. Geršiová		0	2270
+3148	GERŠIOVÁ Mária r. Geršiová		0	1307
+3148	GERŠIOVÁ Štefánia r. Geršiová		0	1306
+3148	Glocko Florián r. Glocko	manž. Mária	0	3001
+3148	Glocková Mária	manž.Florián	0	3001
+3148	GOGOLOVÁ Anna r. Grácová		0	1462
+3148	GOCHENOVÁ Jozefína r. Halmová	manž.Blažej Gochen	0	1376,1693,1695,2020,2121,2122,2688,2818,2880
+3148	Gombár Jozef r. Gombár	manž.Helena, r. Glocková	0	2997
+3148	Gombárová Helena r. Glocková	Manž.Jozef	0	2997
+3148	GRÁC Jozef r. Grác		0	1462
+3148	GREŽĎOVÁ Magdaléna r. Halmová		0	2048,2834
+3148	GRŇOVÁ Mária r. Grňová		0	2294
+3148	GRZNÁROVÁ Mária r. Gahírová	manž.Michal Grznár	0	2302
+3148	GULČÍK Anrton r. Gulčík	dedenie po Michalovi Gulčíkovi / manž.Katarína r.Kosačová /	0	2473
+3148	GULČÍK Michal r. Gulčík	dedenie po Michalovi Gulčíkovi / manž.Katarína r.Kosačová /	0	2473,2513
+3148	GULČÍK Rudolf r. Gulčík	dedenie po Michalovi Gulčíkovi / manž.Katarína r.Kosačová /	0	2473
+3148	GULČÍK Štefan r. Gulčík	dedenie po Michalovi Gulčíkovi / manž.Katarína r.Kosačová /	0	2473
+3148	GULČÍKOVÁ Valéria r. Gulčíková		0	2473
+3148	Guliš Ján r. Guliš	manž.Eva r. Hodálová	0	3014
+3148	GULIŠ Ľudevit r. Guliš		0	2328
+3148	GULIŠ Ľudevit r. Guliš	manž. Katarína r. Sobotková	0	1319
+3148	GULIŠ Ľudovít r. Guliš		0	720,1691,2128,2867
+3148	GULIŠ Ľudvik r. Guliš		0	2127,2363,3067
+3148	Guliš Martin r. Guliš	manž.Mária r. Minarovičová	0	3038
+3148	Guliš Martin r. Guliš	žen.s Máriou Minarovičovou	0	1293,2826
+3148	GULIŠ Martin r. Guliš	maloletý	0	1293,2826
+3148	GULIŠ Martin r. Guliš	manž.Mária r.Minarovičová	0	1291,1404,1764,1765,2813,2844,2874,3043
+3148	GULIŠ Peter r. Guliš		0	720,1319,1691,2128,2867
+3148	GULIŠ Rudolf r. Guliš	maloletý	0	720,1691
+3148	GULIŠ Rudolf r. Guliš	manž.Helena r.Podobová	0	2275
+3148	GULIŠ Štefan r. Guliš		0	1691,2128,2867
+3148	GULIŠ Teodor r. Guliš		0	720,1319,1691,2128,2867
+3148	GULIŠOVÁ Emília r. Gulišová	po Kataríne Gulišovej r. Sobotkovej	0	1319
+3148	Gulišová Eva r. Hodálová	manž.Ján	0	3014
+3148	GULIŠOVÁ Hermína r. Smatanová		0	2464
+3148	GULIŠOVÁ Kararína r. Gulišová	po Kataríne Gulišovej r. Sobotkovej	0	1319
+3148	GULIŠOVÁ Mária r. Halmová	manž.Jozef Guliš	0	1376,1693,1694,1695,2020,2121,2122,2688,2818,2880
+3148	Gulišová Mária r. Minarovičová	manž.Martin	0	3038
+3148	Gulišová Štefánia r. Gulišová		0	1293,2826
+3148	Gumančík Jozef r. Gumančík	manž.Leopolda r. Hudoková	0	2988
+3148	Gumančíková Leopolda r. Hudoková	manž.Jozef	0	2988
+3148	HÁJEKOVÁ Irena r. Hodálová		0	2371
+3148	HAJNOVIČOVÁ Magda r. Pristačová		0	1474
+3148	HALMO Anton r. Halmo		0	2498
+3148	HALMO Anton r. Halmo	maloletý	0	2121,2122
+3148	HALMO Anton r. Halmo	syn manž.Jozefa a Verony Halmových	0	2241
+3148	HALMO Felix r. Halmo		0	2481
+3148	HALMO Ján r. Halmo	manž.Júlia r.Dragulová	0	2047,2048,2333,2375,2834
+3148	HALMO Ján r. Halmo	syn manž.Jozefa a Verony Halmových	0	2241
+3148	HALMO Jozef r. Halmo		0	1376,1693,1694,1695,1696,2019,2121,2122,2686,2688,2689,3046
+3148	Halmo Július r. Halmo	slobodný, syn neb. Martina	0	3002
+3148	Halmo Juraj r. Halmo	manž.Bernardína, r. Kňazeje	0	2983
+3148	HALMO Martin r. Halmo		0	2019
+3148	HALMO Pavel r. Halmo		0	1376,1377
+3148	Halmo Peter r. Halmo	manž.Mária r. Halmová	0	3028
+3148	HALMO Peter r. Halmo		0	1695,2331,2688
+3148	HALMO Peter r. Halmo	manž.Mária r.Halmová	0	407,2196,2462
+3148	HALMO Rudolf r. Halmo	manž.Mária r.Kováčová	0	2344
+3148	HALMO Štefan r. Halmo	manž.Mária r.Paulíková	0	2225,2333,2375,2378
+3148	HALMO Vojtech r. Halmo	manž.Katarína r.Minarovičová	0	1729,1730
+3148	HALMOVÁ Anna r. Halmová	dcéra manž.Jozefa a Verony Halmových	0	2241
+3148	HALMOVÁ Anna r. Halmová	maloletá	0	1376,1693,1694,1695,2020,2047,2121,2122,2688,2818,2880
+3148	HALMOVÁ Antónia r. Dovalová	manž.Ján	0	2349
+3148	Halmová Bernardína r. Kňazeje	manž.Juraj	0	2983
+3148	HALMOVÁ Helena r. Dubravská		0	2196
+3148	HALMOVÁ Juliana r. Dragulová	manž.Ján Halmo	0	2459,2852,2890
+3148	HALMOVÁ Lenka	dcéra manž.Jozefa a Verony Halmových	0	2241
+3148	HALMOVÁ Mária r. Bencelová		0	2521
+3148	Halmová Mária r. Halmová	manž.Peter	0	3028
+3148	HALMOVÁ Mária r. Halmová	manž.Peter Halmo	0	2462
+3148	HALMOVÁ Mária r. Kováčová	manž.Rudolf	0	2344
+3148	HALMOVÁ Mária r. Paulíková	manž.Štefan Halmo	0	2046,2225
+3148	HALMOVÁ Verona r. Pavličková	manž.Jozef Halmo	0	2241
+3148	HANO Klement r. Hano	manž.Eteka r.Spišáková	0	2397
+3148	Heber Jozef r. Heber	manž.Margita, r. Gulišová	0	2992
+3148	Heberová Margita r. Gulišová	manž.Jozef	0	2992
+3148	HODÁL Anton		0	2167
+3148	HODÁL Anton r. Hodál	maloletý	0	1529,1750
+3148	HODÁL Anton r. Hodál	manž.Helena r.Melušová	0	2119,2120,2815,2883,2884
+3148	HODÁL Imrich r. Hodál		0	2371
+3148	HODÁL Ján r. Hodál	maloletý	0	1529,1750
+3148	HODÁL Jozef r. Hodál	manž.Anna r.Steinhúbelová	0	2563,2974
+3148	HODÁL Jozef r. Hodál	manž.Jozefína r.Mišejová	0	2243

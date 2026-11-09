@@ -1,0 +1,256 @@
+318	Čuma Andrej /PKV 1-85/, SR /PKV 1-85/		0	1033
+318	Čuma Andrej /ž.Helena r.Halahuričov, SR /ž.Helena r.Halahuričov		0	903,1032,1038,1108
+318	Čuma Andrej /ž.Mária r.Solejová/, SR /ž.Mária r.Solejová/		0	1038
+318	Čuma Andrej r. Čuma		0	1502,2549,2691,2692,2693,2694
+318	Čuma Andrej r. Čuma, PKV 1-85 PKV 1-85		0	2515
+318	Čuma Andrej r. Čuma, ž. Helena r. Halahuričová ž. Helena r. Halahuričová		0	1502,1536,1537,2045,2691,2692,2693,2694
+318	Čuma Andrej r. Čuma, ž. Mária r. Solejová ž. Mária r. Solejová		0	1536,1537
+318	Čuma Andrej, SR		0	903
+318	ČUMA Juraj	ž.Anna r.Rimová	1	602,1282,2840
+318	Čuma Juraj /ž.Anna r.Rimová/, SR /ž.Anna r.Rimová/		0	1038,1108
+318	Čuma Juraj r. Čuma, ž. Anna r. Rimová ž. Anna r. Rimová		0	1536,1537
+318	ČUMA Michal	syn Juraja	1	602
+318	ČUMOVÁ Anastázia	PKV 1 297	1	602
+318	ČUMOVÁ Anna	r.Rimová	1	1240,1294
+318	Čumová Anna r. Rimová		0	1502,2288,2691,2692,2693,2694
+318	Čumová Anna r. Rimová, SR		0	903,1032,1033
+318	ČUMOVÁ Júlia	dcéra Juraja	1	602,1240,1282,1294,2840
+318	Čumová Júlia /dcera Juraja/, SR /dcera Juraja/		0	903,1032,1033,1038,1108
+318	Čumová Júlia, dcéra Juraja dcéra Juraja		0	1502,1536,1537,1610,2460,2691,2692,2693,2694
+318	ČVIHINKOVÁ Anna		1	1237,1379,1502,2325,2691,2692,2693,2694
+318	Čvihinková Anna, SR		0	897
+318	Čvirk Andrej r. Čvirk		0	1727,2747,2748
+318	Čvirk Fedor		1	734,1344
+318	Čvirk Fedor r. Čvirk		0	1697
+318	Čvirk Ján		1	717,734,1344,1348
+318	ČVIRK Ján	PKV 2-15	1	1200
+318	Čvirk Ján /ž.Anna r.Jalčová/, SR /ž.Anna r.Jalčová/		0	1172
+318	Čvirk Ján r. Čvirk		0	1580,2091,2755,2812
+318	Čvirk Ján r. Čvirk, PKV 2-15 PKV 2-15		0	2651
+318	Čvirk Ján r. Čvirk, ž. Anna r. Jalčová ž. Anna r. Jalčová		0	1721,2812
+318	Čvirk Juraj		1	734,1344,1348
+318	Čvirk Juraj /ž.Anna r.Zelinka/, SR /ž.Anna r.Zelinka/		0	1172
+318	Čvirk Juraj r. Čvirk		0	1580,2132,2755,2812
+318	Čvirk Juraj r. Čvirk, ž. Anna r. Zelinková ž. Anna r. Zelinková		0	1985,2812
+318	Čvirk Peter		1	734,1344,1348
+318	Čvirk Peter /ž.Eva r.Morozová/, SR /ž.Eva r.Morozová/		0	1172
+318	Čvirk Peter r. Čvirk		0	1580,2102,2755,2812
+318	Čvirk Peter r. Čvirk, mal. mal.		0	1904
+318	Čvirk Peter r. Čvirk, ž. Eva r. Morozová ž. Eva r. Morozová		0	2599,2812
+318	Čvirková Anna r. Kohútová		0	2235,2724,2764
+318	Čvirková Anna r. Kohutová, Čabiny		0	1230
+318	Dančová Anna r. Tkačinová		0	1672
+318	DEMJANOVÁ Mária	r.Žukovičová	1	1348
+318	DEMJANOVÁ Mária r. Žukovičová		1	524,750,1916,2755,2812,2826
+318	DEMJANOVIČ Andrej	PKV 1 296	1	513
+318	DEMJANOVIČ Fedor	PKV 20	1	1222,1223,2834
+318	DEMJANOVIČ Fedor	ž.Eva r.Gudzanová	1	1222,1223,1239,2834
+318	Demjanovič Fedor /ž.Eva r.Gudzanová/, SR /ž.Eva r.Gudzanová/		0	902
+318	Demjanovič Fedor r. Demjanovič		0	2430
+318	Demjanovič Fedor r. Demjanovič, PKV 20 PKV 20		0	1683,2724,2764
+318	Demjanovič Fedor r. Demjanovič, ž .Eva r. Gudzanová ž .Eva r. Gudzanová		0	1502,2415,2691,2692,2693,2694,2724,2764
+318	DEMJANOVIČ Ivan		1	1239
+318	DEMJANOVIČ Ivan	mal	1	513,1222,1223,1378,2834
+318	DEMJANOVIČ Ivan	mal. PKV 1-20	1	1239
+318	DEMJANOVIČ Ivan	PKV 1 296	1	513
+318	DEMJANOVIČ Ivan	PKV 1-296	1	1378
+318	DEMJANOVIČ Ivan	PKV 20	1	1222,1223,2834
+318	Demjanovič Ivan r. Demjanovič		0	1502,2370,2691,2692,2693,2694
+318	Demjanovič Ivan r. Demjanovič, mal. mal.		0	1502,1918,2691,2692,2693,2694,2724,2764
+318	Demjanovič Ivan r. Demjanovič, PKV 20 PKV 20		0	2243,2724,2764
+318	Demjanovič Ivan, mal., SR mal.		0	902
+318	Demjanovič Ivan, SR		0	902
+318	DEMJANOVIČ Ján	mal	1	1262,1263
+318	Demjanovič Ján r. Demjanovič, mal. mal.		0	1502,1903,2691,2692,2693,2694
+318	Demjanovič Ján, mal., SR mal.		0	930,931
+318	DEMJANOVIČ Michal	mal	1	513,1222,1223,1262,1263,1378,2834
+318	DEMJANOVIČ Michal	mal. PKV 1-20	1	1239
+318	Demjanovič Michal r. Demjanovič, mal. mal.		0	1502,1807,2691,2692,2693,2694,2724,2764
+318	Demjanovič Michal, mal., SR		0	902
+318	Demjanovič Michal, mal., SR mal.		0	930,931
+318	DEMJANOVIČOVÁ Anna	mal	1	1222,1223,1262,1263,2834
+318	DEMJANOVIČOVÁ Anna	mal. PKV 1-20	1	1239
+318	DEMJANOVIČOVÁ Anna	PKV 1 296	1	513
+318	DEMJANOVIČOVÁ Anna	PKV 1-296	1	1378
+318	Demjanovičová Anna r. Demjanovičová, mal. mal.		0	1502,2362,2691,2692,2693,2694,2724,2764
+318	Demjanovičová Anna, mal., SR mal.		0	902,930,931
+318	DEMJANOVIČOVÁ Eva	r.Gudzanová	1	1239
+318	Demjanovičová Eva r. Gudzanová		0	1502,1644,2691,2692,2693,2694
+318	Demjanovičová Eva r. Gudzanová, SR		0	902
+318	DEMJANOVIČOVÁ Helena	mal	1	513,1222,1223,1262,1263,1378,2834
+318	DEMJANOVIČOVÁ Helena	mal. PKV 1-20	1	1239
+318	Demjanovičová Helena r. Demjanovičová, mal. mal.		0	1502,2392,2691,2692,2693,2694,2724,2764
+318	Demjanovičová Helena, mal., SR mal.		0	902,930,931
+318	DEMJANOVIČOVÁ Mária	mal	1	1262
+318	DEMJANOVIČOVÁ Mária	mal. PKV 1-20	1	1239
+318	DEMJANOVIČOVÁ Mária	PKV 1 296	1	513
+318	DEMJANOVIČOVÁ Mária	PKV 1-296	1	1378
+318	Demjanovičová Mária r. Demjanovičová, mal. mal.		0	1502,2277,2691,2692,2693,2694
+318	Demjanovičová Mária, mal., SR mal.		0	902,930,931
+318	Dirk Andrej r. Dirk, mal. mal.		0	2530
+318	Dirko Andrej r. Dirko, mal. mal.		0	2627,2755
+318	Dirko Ondrej r. Dirko		0	2766,2831
+318	DOLINSKÁ Mária r. Burjaková		1	108
+318	DONIČ Andrej	mal	1	1335
+318	Donič Andrej r. Donič, Medzilaborce Medzilaborce		0	2766,2831
+318	Donič Feco		0	746
+318	Donič Feco r. Donič		0	1642
+318	DONIČ Fedor		1	1310,1311
+318	DONIČ Fedor	PKV 2 57	1	386
+318	DONIČ Fedor	PKV 2-11	1	713
+318	DONIČ Fedor	syn Michala	1	1348
+318	Donič Fedor r. Donič		0	2487,2812
+318	Donič Fedor r. Donič, PKV 2-11 PKV 2-11		0	1429
+318	Donič Fedor r. Donič, ž. Anna r. Chorošová ž. Anna r. Chorošová		0	2812
+318	DONIČ Ján		1	602
+318	DONIČ Michal		1	602
+318	DONIČ Michal	PKV 2 57	1	386
+318	DONIČ Michal	PKV 2-112	1	1311
+318	DONIČ Michal	PKV 2-24	1	1310
+318	DONIČ Michal	ž.Nasťa r.Bajcurová	1	89,98,1179
+318	Donič Michal /ž.Nasťa r.Bajcurová/, SR /ž.Nasťa r.Bajcurová/		0	872
+318	Donič Štefan	ž.Eva r.Komanová	0	1310,1311
+318	Donič Štefan r. Donič		0	1519,2299,2690,2766,2831
+318	DONIČ Tivadar		1	713
+318	DONIČ Tivadar	ž.Anna r.Chorošová	1	98,1179
+318	Donič Tivadar r. Donič		0	1429
+318	Donič Tivadar r. Donič, ž. Anna r. Chorošová ž. Anna r. Chorošová		0	2724,2764
+318	DONIČOVÁ Anastázia	r.Bajcurová	1	1374,2841
+318	DONIČOVÁ Anastázia r. Bajcurová		1	602
+318	DONIČOVÁ Anna	PKV 1-293	1	1299
+318	DONIČOVÁ Anna	PKV 2-11	1	713
+318	DONIČOVÁ Anna	r.Husťaková	1	1282,2840
+318	DONIČOVÁ Anna r. Husťaková		1	602,1536,1537,1688
+318	Doničová Anna r. Husťaková, SR		0	1033,1038
+318	DONIČOVÁ Anna r. Chorošová		1	89,1580
+318	DONIČOVÁ Anna r. Žukovičová		1	524,750,2491,2812,2826
+318	Doničová Anna, PKV 2 11 PKV 2 11		0	1429
+318	Doničová Eva r. Komanová	m.Štefan	0	386,1310,1311
+318	DONIČOVÁ Helena	r.Zelinková	1	1319
+318	DONIČOVÁ Helena r. Husárová		1	602
+318	DONIČOVÁ Ilona		1	713,1429
+318	DONIČOVÁ Júlia	r.Komanová	1	1348
+318	DONIČOVÁ Júlia r. Gavulová		1	602
+318	Doničová Júlia r. Komanová		0	2755
+318	Doničová Mária		1	744,1206,1678,2812
+318	DONIČOVÁ Mária	mal	1	1135
+318	DONIČOVÁ Mária	PKV 2-106	1	1301
+318	DONIČOVÁ Mária	PKV 2-11	1	713
+318	DONIČOVÁ Mária	r.Kumičaková	1	713,1301,1348
+318	Doničová Mária r. Doničová, mal. mal.		0	1580,2286
+318	Doničová Mária r. Kumičaková		0	1519,2416,2755
+318	Doničová Mária, mal.		0	788
+318	Doničová Mária, PKV 2-11 PKV 2-11		0	1429
+318	DONIČOVÁ Nasťa r. Bajcurová		1	602
+318	DREVOÚNIA Žilina		1	1347
+318	DREVOÚNIA Žilina Zaniknutá právnicka osoba bez právneho nástupcu		0	2498
+318	DRIBŇÁKOVÁ Irena	r.Kralická	1	1282,1354,2840
+318	DRIBŇÁKOVÁ Irena r. Kralická		1	602,1536,1537,1934
+318	Dribňaková Irena r. Kralicka, SR		0	1028,1038,1108
+318	DRUGOVÁ Anna	r.Gavulová	1	1241,1377
+318	Drugová Anna r. Gavulová		0	1502,2307,2691,2692,2693,2694
+318	Drugová Anna r. Gavulová, SR		0	904,1033
+318	DURILA Fedor	mal	1	1300,1343
+318	DURILA Fedor	syn neb.Michala	1	123
+318	Durila Fedor r. Durila		0	2516
+318	Durila Fedor, Čabiny, PSČ 06702		0	1343,1345
+318	DURILA František		1	454,1333
+318	Durila František r. Durila		0	1502,2350,2691,2692,2693,2694
+318	Durila František, SR		0	947
+318	DURILA Ivan	syn neb. Michala	1	123
+318	DURILA Ján	mal	1	487,1300,1343
+318	Durila Ján r. Durila, mal. mal.		0	1429
+318	Durila Ján r. Durila, Zbudský Brestov Zbudský Brestov		0	2340,2812
+318	DURILA Ján, 067 01 Zbudský Brestov		0	753
+318	Durila Ján, Zbudský Brestov, PSČ 067 01		0	1343
+318	Durila Jan, Zbudský Brestov, PSČ 06701		0	1345
+318	Durila Michal r. Durila		0	2755
+318	DURILA Peter		1	131,1219,1338
+318	Durila Peter r. Durila		0	2240,2724,2764
+318	Durila Peter, SR		0	873,874
+318	DURILLA Andrej	mal	1	1300,1343
+318	Durilla Andrej /syn Jána/, SR /syn Jána/		0	939
+318	Durilla Andrej r. Durilla, mal. mal.		0	2539,2812
+318	Durilla Andrej r. Durilla, syn Jána syn Jána		0	1502,1799,2691,2692,2693,2694
+318	Durilla Andrej, mal.		0	753
+318	DURILLA Feco	PKV 23	1	131,1219,1338
+318	Durilla Feco r. Durilla		0	2245
+318	Durilla Feco r. Durilla, PKV 23 PKV 23		0	2724,2764
+318	Durilla Feco, SR		0	873
+318	DURILLA František	PKV 1-100	1	1357
+318	Durilla František r. Durilla		0	2389
+318	Durilla František, SR		0	1027
+318	DURILLA Hric	PKV 1 108	1	602
+318	DURILLA Hric	PKV 1-108	1	1282,2840
+318	Durilla Hric /PKV 1-108/, SR /PKV 1-108/		0	1038
+318	Durilla Hric r. Durilla, PKV 1-108 PKV 1-108		0	1536,1537
+318	Durilla Hric, SR		0	1108
+318	Durilla Ján		1	753,1300,1343
+318	Durilla Ján r. Durilla		0	2279,2812
+318	Durilla Ján r. Durilla, mal. mal.		0	2406
+318	Durilla Ján, mal.		0	753
+318	Durilla Michal		1	753,1343,1348
+318	Durilla Michal r. Durilla		0	2436,2812
+318	DURILLA Peter	PKV 24	1	1220
+318	Durilla Peter r. Durilla, PKV 24 PKV 24		0	1751
+318	DURILLOVÁ Anna r. Bilaničová		1	602
+318	Durillová Helena r. Revaková		0	1626
+318	Durillová Mária r. Doničová		0	2822
+318	Durilová Anna r. Bilaničová		0	1502,2691,2692,2693,2694
+318	Durilová Helena r. Škovranová		0	2174
+318	DURILOVÁ Mária	mal	1	487,1346
+318	Durilová Mária r. Doničová /m.Fedor/ /m.Fedor/		0	746
+318	Durilová Mária r. Doničová, m. Fedor m. Fedor		0	2075
+318	Durilová Mária r. Durilová, mal. mal.		0	2267,2812
+318	Džopčaková Anna		0	1502,2691,2692,2693,2694
+318	Džuganová Eva r. Gondorová		0	2569
+318	Džuganová Eva r. Gondorová, SR		0	1067
+318	Džuganová Helena r. Vicová		0	2080
+318	DŽUPINOVÁ Anna		1	348,722
+318	FACKEROVÁ Rozália	r.Underleiderová	1	1282,2840
+318	FACKEROVÁ Rozália r. Underleiderová		1	602,1536,1537
+318	Fackerová Rozália r. Uvyderdeoderová, SR		0	1038
+318	Facherová Rozália r. Unperleiderová, SR		0	1108
+318	FECURKOVÁ Júlia	r.Kohutová	1	1265,1282,2833,2840
+318	FECURKOVÁ Júlia r. Kohutová		1	602,1502,1536,1537,2291,2691,2692,2693,2694
+318	Fecurková Júlia r. Kohútová, SR		0	291,935,1038,1108
+318	Fedorco Lukáš r. Fedorco, B B		0	1530
+318	Fedorco Michal r. Fedorco		0	2731
+318	Fedorco Vasiľ r. Fedorco		0	2731
+318	Fedorcová Anna r. Firkaľová, B B		0	1574
+318	Fedorcová Elena r. Gojdičová		0	1476
+318	Fedorcová Eva r. Čerevková		0	2731
+318	Fedorcová Eva, dcéra Lukáša dcéra Lukáša		0	2731
+318	Fedorcová Eva, USA USA		0	1519
+318	Fedorcová Helena		0	1530
+318	Fedorcová Helena r. Gojdičová, Volica č. 62 Volica č. 62		0	1574
+318	Fedorcová Mária, dcéra Lukáša dcéra Lukáša		0	2731
+318	Fedorcová Mária, USA USA		0	1519
+318	Fedorková Helena r. Hirková		0	2710,2724,2764
+318	Fejka Andrej		1	741,1205,1304,1348
+318	Fejka Andrej r. Fejka		0	2608,2755,2812
+318	FEJKA Ján	ž.Júlia r.Dirková	1	1205,1304,1348
+318	Fejka Jan /ž.Júlia r.Dirková/ /ž.Júlia r.Dirková/		0	741
+318	Fejka Ján r. Fejka, ž. Júlia r. Dirková ž. Júlia r. Dirková		0	2124,2755,2812
+318	Fejka Juraj		1	714,1199
+318	Fejka Juraj r. Fejka		0	2429,2812
+318	Fejka Michal		0	714
+318	FEJKA Michal	PKV 2-13	1	1199
+318	FEJKA Michal	ž.Anastázia r.Chomčová	1	1348
+318	FEJKA Michal	ž.Eva r.Rusinková	1	1205,1304
+318	Fejka Michal /ž.Eva r.Rusinková/ /ž.Eva r.Rusinková/		0	741
+318	Fejka Michal r. Fejka		0	1919,2812
+318	Fejka Michal r. Fejka, PKV 2-13 PKV 2-13		0	2822
+318	Fejka Michal r. Fejka, ž. Anastázia r. Chomčová ž. Anastázia r. Chomčová		0	1580,2755
+318	Fejka Michal r. Fejka, ž. Anna r. Vneňková ž. Anna r. Vneňková		0	1863
+318	Fejka Michal r. Fejka, ž. Eva r. Rusinková ž. Eva r. Rusinková		0	2580,2812
+318	Fejka Peter r. Fejka, ž. Helena r. Sotáková ž. Helena r. Sotáková		0	1580
+318	FEJKO Andrej	mal	1	1346
+318	Fejko Andrej r. Fejko		0	2054,2812
+318	Fejko Andrej r. Fejko, mal. mal.		0	2206,2812
+318	FEJKO Fedor	mal	1	1346
+318	FEJKO Ivan	mal	1	1346
+318	Fejko Ivan r. Fejko, mal. mal.		0	2067,2812
+318	FEJKO Ján		1	1346
+318	Fejko Ján r. Fejko		0	2555,2812
+318	FEJKO Michal	mal	1	1346

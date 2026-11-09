@@ -1,0 +1,256 @@
+1566	HOŠTÁK FLORIÁN	& Adam,Ján,Zuza +	1	386,387,449,450,458,478,1224,1226
+1566	HOŠTÁK FLORIÁN, & Adam,Ján,Zuza & Adam,Ján,Zuza		0	992,995,1162,1208,1218
+1566	HRUŠKA MARTIN	& Ondro,Jozef Ferianec +	1	413,454,470,545,554,636,1234,1336,1337,1355,1356
+1566	HRUŠKA MARTIN, & Ondro,Jozef Ferianec & Ondro,Jozef Ferianec		0	1200,1220
+1566	CHALUPOVSKÁ ŽOFIA	R HARCEKOVÁ m.Jozef +	1	559
+1566	CHALUPOVSKÁ ŽOFIA r. HARCEKOVÁ, m.Jozef m.Jozef		0	966
+1566	JANČI FRANTIŠEK	+	1	470,554,1336,1356
+1566	JANČI FRANTIŠEK, LOPUŠNÉ PAŽITE LOPUŠNÉ PAŽITE		0	1200
+1566	JANČI PAVOL		0	1202
+1566	JANČI PAVOL	+	1	835
+1566	JANČI ŠTEFAN	& Margita,Mária,Jozef,Fanni +	1	439,472,502,512,563,781,902,903,925,1367
+1566	JANČI ŠTEFAN, & Margita,Mária,Jozef,Fanni & Margita,Mária,Jozef,Fanni		0	1200,1205,1220
+1566	JANČIOVÁ FANNI	& Margita,Štefan,Mária,Jozef	1	439,472,563,781,902,903,925,1367
+1566	JANČIOVÁ FANNI, & Margita,Štefan,Mária,Jozef & Margita,Štefan,Mária,Jozef		0	1200,1205
+1566	JANČIOVÁ MARGITA	& Štefan,Mária,Jozef,Fanni	1	439,472,502,512,563,781,902,903,925,1367
+1566	JANČIOVÁ MARGITA, & Štefan,Mária,Jozef,Fanni & Štefan,Mária,Jozef,Fanni		0	1200,1205
+1566	JANČIOVÁ MÁRIA	& Margita,Štefan,Jozef,Fanni	1	439,472,563,781,902,903,925,1367
+1566	JANČIOVÁ MÁRIA, & Margita,Štefan,Jozef,Fanni & Margita,Štefan,Jozef,Fanni		0	1200,1205
+1566	JANČIOVÁ VILMA		1	1200
+1566	JANČIOVÁ VILMA	mal. & Ira,Karol,Štefan +	1	925
+1566	JANÍK ADAM		0	1070,1200,1220
+1566	JANÍK ADAM	+	1	410,437,479,556,655,756,779,835,1341,1369
+1566	JANÍK GAŠPAR	& Peter +	1	436,481,532,533,557,558,587,655,714,719,755,757,773,774,776,779,835,846,1342,1370,1371,1372,1373
+1566	JANÍK GAŠPAR, & Peter & Peter		0	1205
+1566	JANÍK JÁN		0	966
+1566	JANÍK JÁN	+	1	587,846
+1566	JANÍK JÁN	Gašpar +	1	436
+1566	JANÍK JÁN	mal. & Rudo,Apolónia,Štefan +	1	562,803
+1566	JANÍK JÁN, mal., & Rudo,Apolónia,Štefan mal., & Rudo,Apolónia,Štefan		0	966
+1566	JANÍK PETER	& Gašpar +	1	481,532,533,557,558,587,655,714,719,755,757,773,774,776,779,835,846,1342,1370,1371,1372,1373
+1566	JANÍK PETER, & Gašpar & Gašpar		0	1205
+1566	JANÍK RUDOLF	ž.Štefánia Stupavská +	1	562,803
+1566	JANÍK RUDOLF, ž.Štefánia Stupavská ž.Štefánia Stupavská		0	966
+1566	JANÍK VÁCLAV	mal. & Vinc,Mikuláš +	1	438,439,440,472,563,781,782,846,886,887,888,889,902,903,925,1367
+1566	JANÍK VÁCLAV, mal., & Vinc,Mikuláš mal., & Vinc,Mikuláš		0	965,1077,1200,1220
+1566	JANÍK VINCENT	ž.Johana Klimková	1	587,654,855
+1566	JANÍKOVÁ APOLÓNIA	mal. & Rudo,Štefan,Ján +	1	562,803
+1566	JANÍKOVÁ APOLÓNIA, mal., & Rudo,Štefan,Ján mal., & Rudo,Štefan,Ján		0	966
+1566	JANOTA ŠTEFAN	ž.Mária Rajecká +	1	477,478,1226
+1566	JANOTA ŠTEFAN, ž.Mária Rajecká ž.Mária Rajecká		0	992,995,1141
+1566	JANOTOVÁ MÁRIA	R RAJECKÁ +	1	477,478,1226
+1566	JANOTOVÁ MÁRIA r. RAJECKÁ		0	992,995,1111
+1566	KÁČERIKOVÁ ZUZANA	R ĎURIŠOVÁ m.Pavol +	1	829
+1566	KÁČERIKOVÁ ZUZANA r. ĎURIŠOVÁ, m.Pavol, LOPUŠNÉ PAŽITE m.Pavol, LOPUŠNÉ PAŽITE		0	1187
+1566	KUBAŠČÍK JOZEF		0	966
+1566	KUBAŠČÍK JOZEF	+	1	587,846
+1566	MARTINČEK JOZEF	& Hermina Hoštáková +	1	380,387,449,450,1224
+1566	MARTINČEK JOZEF	& Ján +	1	380,387,449,450,474,478,1224,1226
+1566	MARTINČEK JOZEF, & Hermina Hoštáková & Hermina Hoštáková		0	1040,1208,1218
+1566	MARTINČEK JOZEF, & Ján & Ján		0	991,992,995,1142
+1566	MARTINČEK PETER	ž.Emília Zmečková +	1	370,372,469,933,954
+1566	MARTINČEK PETER, ž.Emília Zmečková ž.Emília Zmečková		0	983,1100
+1566	MARTINČEKOVÁ CECÍLIA r. HOŠTÁKOVÁ		1	458
+1566	MARTINČEKOVÁ CECÍLIA r. HOŠTÁKOVÁ, Budatínska Lehota, LOPUŠNÉ PAŽITE Budatínska Lehota, LOPUŠNÉ PAŽITE		0	1218
+1566	MARTINČEKOVÁ KATARÍNA r. BUGÁŇOVÁ, m.Štefan m.Štefan		0	983
+1566	MARTINČEKOVÁ MAGDALÉNA	R ŠEFARKOVÁ +	1	384,387,389,441,449
+1566	MARTINČEKOVÁ MAGDALÉNA r. ŠEFARKOVÁ		1	368,1129,1218
+1566	MICHNÁ KAROLÍNA	R LATKOVÁ	1	755,756,757
+1566	MICHNÁ KAROLÍNA r. LATKOVÁ		0	1205
+1566	MICHNOVÁ PAVLÍNA		0	1205
+1566	MICHNÝ ŠIMON	ž.Karolína Latková +	1	755,756,757
+1566	MICHNÝ ŠIMON, ž.Karolína Latková ž.Karolína Latková		0	1205
+1566	MINÁR JÁN	LIESKOVANČIN ž.Mária Ďurišová +	1	420,421,572,769,1237,1377,1378
+1566	MINÁR JÁN, & Peter,Štef,Vinco,Kata,Joža, LOPUŠNÉ PAŽITE, 02336, SR, zom.03.12.1963 & Peter,Štef,Vinco,Kata,Joža, LOPUŠNÉ PAŽITE, 02336, SR, zom.03.12.1963		0	1205
+1566	MINÁR JÁN, LIESKOVANČIN,ž.Mária Ďurišová LIESKOVANČIN,ž.Mária Ďurišová		0	1045,1201,1220
+1566	MINÁR PETER	& Ján,Štef,Vinco,Kata,Joža +	1	420,444,568,765,1237,1238,1357,1377
+1566	MINÁR PETER	& Ján,Štef,Vinco,Kata,Joža +; LSR	0	766
+1566	MINÁR PETER, & Ján,Štef,Vinco,Kata,Joža & Ján,Štef,Vinco,Kata,Joža		0	967,1000,1201,1220,1230,1260
+1566	MINÁR RUDOLF	syn Jána +	1	397,398,421,433,457,487,499,534,575,587,717,846,1242,1261,1281
+1566	MINÁR RUDOLF	syn Jána +; LSR	0	597,816
+1566	MINÁR RUDOLF, syn Jána, LOPUŠNÉ PAŽITE syn Jána, LOPUŠNÉ PAŽITE		0	966,1048,1211,1220
+1566	MINÁR ŠTEFAN	ž.Jozefína Janáčiková +	1	765,766,1357
+1566	MINÁR ŠTEFAN, ž.Jozefína Janáčiková ž.Jozefína Janáčiková		0	967,1202,1230,1260
+1566	MINÁR VINCENT	ž.Anna Debnárová	1	481,532,533,557,558,587,655,714,719,742,755,757,773,774,776,779,835,846,1342,1370,1371,1372,1373
+1566	MINÁR VINCENT, ž.Anna Debnárová ž.Anna Debnárová		0	966,1001,1220
+1566	MINÁRIKOVÁ JOZEFÍNA	R JANOŠKOVÁ GAJDOŠOVÁ +	1	481,532,558,714,757,779,835,1342,1370,1372
+1566	MINÁRIKOVÁ JOZEFÍNA r. JANOŠKOVÁ GAJDOŠOVÁ		0	966,1149,1220
+1566	MINÁROVÁ ANNA	R DEBNÁROVÁ +	1	481,532,533,557,558,587,655,714,719,742,755,757,773,774,776,779,835,846,1342,1370,1371,1372,1373
+1566	MINÁROVÁ ANNA r. DEBNÁROVÁ		0	966,1001,1220
+1566	MINÁROVÁ JOZEFÍNA	R JANÁČIKOVÁ +	1	765,766,1357
+1566	MINÁROVÁ JOZEFÍNA r. JANÁČIKOVÁ		0	967,1202,1230,1260
+1566	MINÁROVÁ KATARÍNA	& Ján,Peter,Štef,Vinco,Joža +	1	420,444,568,765,1237,1238,1357,1377
+1566	MINÁROVÁ KATARÍNA	& Ján,Peter,Štef,Vinco,Joža +; LSR	0	766
+1566	MINÁROVÁ KATARÍNA, & Ján,Peter,Štef,Vinco,Joža & Ján,Peter,Štef,Vinco,Joža		0	967,1000,1201,1220,1230,1260
+1566	ONDRÁŠEK JOZEF	&Vác,Štef,Maja,Ira,Gust,Fil +	1	438,439,440,472,502,508,510,512,563,587,765,766,781,782,846,886,887,888,889,902,903,925,1357,1367
+1566	ONDRÁŠEK JOZEF, &Vác,Štef,Maja,Ira,Gust,Fil &Vác,Štef,Maja,Ira,Gust,Fil		0	965,966,967,1199,1230,1260
+1566	ONDRÁŠEK PAVOL	& Ján,Ondrej +	1	459,495,526,1354,1366
+1566	ONDRÁŠEK PAVOL, & Ján,Ondrej & Ján,Ondrej		0	966,1046,1220
+1566	ONDRÁŠEK ŠTEFAN	vzd. & Vác,Maja,Ira,Joz,Gu,F +	1	438,439,440,472,502,508,510,512,563,587,765,766,781,782,846,886,887,888,889,902,903,925,1357,1367
+1566	ONDRÁŠEK ŠTEFAN, vzd., & Vác,Maja,Ira,Joz,Gu,F vzd., & Vác,Maja,Ira,Joz,Gu,F		0	965,966,967,1028,1199,1230,1260
+1566	ONDRÁŠEK VÁCLAV	vzd. & Štef,Maja,Ira,Joz,Gus +	1	438,439,440,472,502,508,510,512,563,587,765,781,782,846,886,887,888,889,902,903,925,1357,1367
+1566	ONDRÁŠEK VÁCLAV	vzd. & Štef,Maja,Ira,Joz,Gus +; LSR	0	766
+1566	ONDRÁŠEK VÁCLAV, vzd., & Štef,Maja,Ira,Joz,Gus vzd., & Štef,Maja,Ira,Joz,Gus		0	965,966,967,1172,1230,1260
+1566	ONDRÁŠKOVÁ APOLÓNIA, mal. mal.		0	966
+1566	ONDRÁŠKOVÁ ILONA		0	965,966,1109,1220
+1566	ONDRÁŠKOVÁ ILONA	+	1	439,472,502,512,563,781,902,903,925,1367
+1566	ONDRÁŠKOVÁ IRENA	&Vác,Štef,Maja,Joz,Gust,Fil +	1	438,439,440,472,502,508,510,512,563,587,765,766,781,782,846,886,887,888,889,902,903,925,1357,1367
+1566	ONDRÁŠKOVÁ IRENA, & Vác,Štef,Maja,Joz,Gust,Fil & Vác,Štef,Maja,Joz,Gust,Fil		0	965,967,972,1230,1260
+1566	ONDRÁŠKOVÁ MÁRIA	&Vác,Štef,Ira,Jožo,Gust,Fil +	1	438,439,440,472,502,508,510,512,563,587,765,781,782,846,886,887,888,889,902,903,925,1357,1367
+1566	ONDRÁŠKOVÁ MÁRIA	&Vác,Štef,Ira,Jožo,Gust,Fil +; LSR	0	766
+1566	ONDRÁŠKOVÁ MÁRIA, & Vác,Štef,Ira,Jožo,Gust,Fil & Vác,Štef,Ira,Jožo,Gust,Fil		0	965,966,967,972,1230,1260
+1566	ONDRÁŠKOVÁ VERONA	mal. & Žofia +	1	587,846
+1566	ONDRÁŠKOVÁ VERONA, mal., & Žofia mal., & Žofia		0	966
+1566	ONDRÁŠKOVÁ ZUZANA	Fera,Vác,Št,Ján,Ma,Ira,Jo +	1	587
+1566	ONDRÁŠKOVÁ ŽOFIA	mal. & Verona -vo Francúzsku	1	459,495,526,587,765,846,1354,1357,1366
+1566	ONDRÁŠKOVÁ ŽOFIA	mal. & Verona -vo Francúzsku; LSR	0	766
+1566	ONDRÁŠKOVÁ ŽOFIA, mal.	& Verona	0	966,967,1057,1220,1230,1260
+1566	Poláčková Antónia r. Blahová, SR		0	587
+1566	RADOLČIN ALOJZ	mal. & Valent,Klára +	1	385,452,459,525,547,720,750,758,1289,1361
+1566	RADOLČIN ALOJZ, mal., & Valent,Klára mal., & Valent,Klára		0	1062
+1566	RADOLČIN ANTON	+	1	587
+1566	RADOLČIN VALENT	& Klára,Alojz +	1	385,452,459,525,547,720,750,758,1289,1361
+1566	RADOLČIN VALENT, & Klára,Alojz & Klára,Alojz		0	999,1156
+1566	RADOLČINOVÁ KLÁRA	& Valent,Alojz +	1	385,452,459,525,547,720,750,758,1289,1361
+1566	RADOLČINOVÁ KLÁRA, & Valent,Alojz & Valent,Alojz		0	964,999,1052
+1566	RADOLČINOVÁ MÁRIA	mal. +	1	459,547,720,750,758
+1566	RADOLČINOVÁ MÁRIA, mal. mal.		0	964
+1566	SINGOR ADAM	& Mikuláš,Jakub,Ján,Alojz +	1	376,394,440,472,486,511,574,782,792,1326,1338,1358
+1566	SINGOR ADAM, & Mikuláš,Jakub,Ján,Alojz & Mikuláš,Jakub,Ján,Alojz		0	966,994,1007,1106,1202
+1566	SINGOR ALOJZ	& Mikuláš,Jakub,Ján,Adam +	1	376,394,440,472,486,511,574,782,792,1326,1338,1358
+1566	SINGOR ALOJZ, & Mikuláš,Jakub,Ján,Adam & Mikuláš,Jakub,Ján,Adam		0	964,966,994,1007,1139,1202
+1566	SINGOR JÁN	& Mikuláš,Jakub,Alojz,Adam +	1	376,394,440,472,486,511,574,782,792,1326,1338,1358
+1566	SINGOR JÁN, & Mikuláš,Jakub,Alojz,Adam & Mikuláš,Jakub,Alojz,Adam		0	966,1098,1202
+1566	SLÁDEKOVÁ ALOJZIA	R TRNKOVÁ TOMAŠCOVÁ +	1	368,384,387,389,441,449
+1566	SLÁDEKOVÁ ALOJZIA r. TRNKOVÁ TOMAŠCOVÁ		0	1144,1218
+1566	SLOVENSKÁ REPUBLIKA		0	1026,1203
+1566	ŠKORVÁNEK KAROL	& Mária +	1	433,457,499,534,575,717,1242
+1566	ŠKORVÁNEK KAROL	& Mária +; LSR	0	597,816
+1566	ŠKORVÁNEK KAROL, & Mária & Mária		0	966,1004,1220
+1566	ŠKORVÁNEK KAROL, Zuza Vráblová Zuza Vráblová		0	1011
+1566	ŠKORVÁNEK ONDREJ, ž.Barbara Minárová ž.Barbara Minárová		0	1202
+1566	ŠKORVÁNKOVÁ ALŽBETA	R ŽABKOVÁ +	1	433,457,499,534,575,587,717,765,1242,1357
+1566	ŠKORVÁNKOVÁ ALŽBETA	R ŽABKOVÁ +; LSR	0	597,766,816
+1566	ŠKORVÁNKOVÁ ALŽBETA r. ŽABKOVÁ		0	964,967,1230,1260
+1566	ŠKORVÁNKOVÁ JUSTÍNA	R FORBÁKOVÁ +	1	759
+1566	ŠKORVÁNKOVÁ JUSTÍNA r. FORBÁKOVÁ		0	964
+1566	ŠKORVÁNKOVÁ KAROLÍNA, mal., Ondrej mal., Ondrej		0	1202
+1566	ŠKORVÁNKOVÁ MÁRIA	& Karol +	1	433,457,499,534,575,717,1242
+1566	ŠKORVÁNKOVÁ MÁRIA	& Karol +; LSR	0	597,816
+1566	ŠKORVÁNKOVÁ MÁRIA, & Karol & Karol		0	966,1004,1220
+1566	ŠKORVÁNKOVÁ ŽOFIA	vd.R HARCEKOVÁ m.Ján +	1	459,461,526,911,945,1348,1354,1359
+1566	ŠKORVÁNKOVÁ ŽOFIA r. HARCEKOVÁ, vd., m.Ján vd., m.Ján		0	966,1179,1220
+1566	ŠTEFANIK MARTIN		0	966
+1566	ŠTEFANIK MARTIN	+	1	846
+1566	TOMAGOVÁ MILOSLAVA	mal	1	397,398,420,566,587,671,846,1237,1261,1281,1376
+1566	TOMAGOVÁ MILOSLAVA, mal. mal.		0	966,1201,1220
+1566	VNUK BENEDIK	mal. Filip,Zuza +	1	395,428
+1566	VNUK BENEDIK, mal., & Filip,Zuza mal., & Filip,Zuza		0	970,1010,1219
+1566	VNUK GAŠPAR	& Jakub s manž. +	1	433,439,472,536,563,587,620,652,653,760,763,765,766,781,846,902,903,925,1357,1367
+1566	VNUK GAŠPAR	& Jakub s manž. +; LSR	0	597,761,816
+1566	VNUK GAŠPAR, & Jakub s manž & Jakub s manž		0	966,967,1122,1220,1230,1260
+1566	VNUK JOZEF	& Verona +	1	829
+1566	VNUK JOZEF, & Verona & Verona		0	1093
+1566	VNUK VALER, & Maja,Julka,Matúš,Peter, LOPUŠNÉ PAŽITE & Maja,Julka,Matúš,Peter, LOPUŠNÉ PAŽITE		0	966,1190,1220
+1566	VNUKOVÁ ALBINA	dcéra po Štefanovi	1	372,469,933
+1566	VNUKOVÁ ALBINA, dcéra po Štefanovi dcéra po Štefanovi		0	983,1003
+1566	VNUKOVÁ JOHANA r. MINÁROVÁ		0	966
+1566	VNUKOVÁ JÚLIA	& Mária,Matúš,Valer,Peter +	1	420,571,1237,1243,1377
+1566	VNUKOVÁ JÚLIA, & Mária,Matúš,Valer,Peter & Mária,Matúš,Valer,Peter		0	966,1081,1220
+1566	VNUKOVÁ KATARÍNA	vd.R FERIANCOVÁ +	1	636,1337,1355
+1566	VNUKOVÁ VERONA	mal. +	1	587,829,846
+1566	VNUKOVÁ VERONA, mal. mal.		0	1076
+1566	VNUKOVÁ ZUZANA	mal. & Benedik,Filip +	1	395,428
+1566	VNUKOVÁ ZUZANA, mal., & Benedik,Filip mal., & Benedik,Filip		0	970,1010,1219
+1566	VNUKOVÁ ŽOFIA	dcéra po Štefanovi +	1	372,469,933
+1566	VNUKOVÁ ŽOFIA	R ĎURIŠOVÁ +	1	436,456,481,532,533,557,558,587,652,655,714,719,755,757,765,773,774,776,779,784,835,846,1342,1357,1370,1371,1372,1373
+1566	VNUKOVÁ ŽOFIA	R ĎURIŠOVÁ +; LSR	0	766
+1566	VNUKOVÁ ŽOFIA r. ĎURIŠOVÁ, LOPUŠNÉ PAŽITE LOPUŠNÉ PAŽITE		0	966,967,1073,1220,1230,1260
+1566	VNUKOVÁ ŽOFIA, dcéra po Štefanovi dcéra po Štefanovi		0	983,1003
+1566	VRÁBLOVÁ ZUZANA, KUBÍK KUBÍK		0	1011
+1566	ZICHY ALADÁR, gróf gróf		0	963
+1566	ZICHY JAROSLAV, gróf gróf		0	963
+1566	ZICHY JURAJ, gróf gróf		0	963
+1566	ZICHY KAMIL, gróf gróf		0	963
+1566	ZMEČKOVÁ JOZEFÍNA	mal. & Blažej,Imro,Herm,Mila +	1	370,372,933,954
+1566	ZMEČKOVÁ JOZEFÍNA, mal., & Blažej,Imro,Herm,Mila mal., & Blažej,Imro,Herm,Mila		0	1036
+1566	ZMEČKOVÁ MÁRIA	& Žofia +	1	372,469,933
+1566	ZMEČKOVÁ MÁRIA, & Žofia, LOPUŠNÉ PAŽITE & Žofia, LOPUŠNÉ PAŽITE		0	983,989
+1566	ZMEČKOVÁ ZUZANA	mal. & Žofia +	1	370,372,933,954
+1566	ZMEČKOVÁ ZUZANA, mal., & Žofia mal., & Žofia		0	983,1039
+1566	ZMEČKOVÁ ŽOFIA	& Mária +	1	372,469,933
+1566	ZMEČKOVÁ ŽOFIA, & Mária, LOPUŠNÉ PAŽITE & Mária, LOPUŠNÉ PAŽITE		0	983,989
+1566	ŽABKA VALENT	Jozef,Beta,Vincka +	1	373,398,420,1237,1375
+1566	ŽABKA VALENT, & Jozef,Beta,Vincka & Jozef,Beta,Vincka		0	1018,1220
+1566	ŽABKA VALER		0	1205
+1566	ŽABKA VALER	+	1	531
+1566	ŽABKOVÁ ALŽBETA	& Valent,Jozef,Vincka +	1	373,398,420,1237,1375
+1566	ŽABKOVÁ ALŽBETA, & Valent,Jozef,Vincka & Valent,Jozef,Vincka		0	1018,1220
+1566	ŽABKOVÁ HELENA r. BELAJOVÁ, LOPUŠNÉ PAŽITE 39, 02403, zom.23.11.1968 LOPUŠNÉ PAŽITE 39, 02403, zom.23.11.1968		0	970,993,1034,1219
+1566	ŽABKOVÁ JOZEFÍNA	Valent,Beta,Vincka	1	373,398,420,1237,1375
+1566	ŽABKOVÁ JOZEFÍNA, & Valent,Beta,Vincka & Valent,Beta,Vincka		0	1018,1220
+1566	ŽABKOVÁ KAROLÍNA	&Žofia,Beta,Vika,Filip,Maja +	1	433,457,499,534,575,587,717,765,766,846,1242,1357
+1566	ŽABKOVÁ KAROLÍNA	&Žofia,Beta,Vika,Filip,Maja +; LSR	0	597,816
+1566	ŽABKOVÁ KAROLÍNA, & Žofia,Beta,Vika,Filip,Maja & Žofia,Beta,Vika,Filip,Maja		0	967,1205,1220,1230,1260
+1566	ŽABKOVÁ MÁRIA	&Žofia,Beta,Vika,Filip,Karl +	1	587,765,766,1357
+1566	ŽABKOVÁ MÁRIA, & Žofia,Beta,Vika,Filip,Karl & Žofia,Beta,Vika,Filip,Karl		0	967,1230,1260
+1566	ŽABKOVÁ VIKTÓRIA	& Žofia,Beta,Filip,Maja,Kar +	1	433,457,499,534,575,587,597,618,624,625,694,696,711,717,765,766,795,813,816,826,832,846,1239,1240,1241,1242,1357
+1566	ŽABKOVÁ VINCENCIA	Valent,Jozef,Beta	1	373,398,420,656,765,766,1237,1357,1375
+1566	ŽABKOVÁ VINCENCIA, & Valent,Jozef,Beta & Valent,Jozef,Beta		0	966,967,1167,1220,1230,1260
+1567	Balog Juraj	ž.Anna r.Poláková	1	920,1182,1650
+1567	Bérešová Margita	mal.,ded.po Anne Béreš r.Bene	0	1647
+1567	Bérešová Margita	maloletá, dedič po Anne Béreš r.Bene	1	908
+1567	Berešová Regina	mal., ded.po Anne Béreš r.Bene	1	721
+1567	Bérešová Regina	mal.,ded.po Anne Béreš r.Bene	0	1235
+1567	Bérešová Regina	maloletá, dedič po Anne Béreš r.Bene	1	908
+1567	Bernát Ján		1	721
+1567	Bernátová Anna		0	1231,1642,1662
+1567	Bernátová Anna r. Výrostko		1	721
+1567	Bernátová Mária		1	721,1231,1637,1639
+1567	Birošová Alžbeta		0	1235
+1567	Birošová Alžbeta r. Výrostková		1	921
+1567	Birošová Anna	manž.Ján	0	1637,1639
+1567	Birošová Anna r. Cehlárová	manž.Ján	1	721
+1567	Birošová Anna r. Cehlárová	manžel Ján	1	908
+1567	Bittóová Anna r. Lukáčová	manžel Štefan	1	644,2373
+1567	Bučková Anna	manž.Ján	0	1235
+1567	Bučková Anna r. Dzuro	manžel Ján	1	721,908
+1567	Cehlár Jozef		1	721,1195,1639
+1567	Cehlár Jozef	manž. Zuzana r.Pasternák	1	721
+1567	Cehlár Jozef	manž.Zuzana r.Pasternák	1	1195,1639
+1567	Cehlár Jozef	syn Jána	1	721,1195,1639
+1567	Cehlár Jozef	vl.602	1	1195
+1567	Cehlár Juraj		0	1225
+1567	Cehlár Juraj	syn Štefana	1	721,1247
+1567	Cehlárová Alžbeta	manž.Michal	0	1247,1481,1650
+1567	Cehlárová Barbora		0	1647
+1567	Cehlárová Júlia		1	1197
+1567	Cehlárová Mária	mal.,ded.po Jozefovi Cehlárovi	0	1647
+1567	Cmarová Anna	manž.Michal	0	1637,1639
+1567	Cmarová Mária	manž.Michal	0	1637,1639
+1567	Dolinská Barbora r. Múdra, Lorinčík, č. 89, SR		1	644,2373
+1567	Dolinský Juraj		1	903
+1567	Dolinský Juraj	manž.Barbora r.Dolinská	0	1616
+1567	Dragun Štefan	manž. Mária Ondrejčo	1	721
+1567	Dragún Štefan		0	1228
+1567	Dragún Štefan	manž.Mária Ondrejčo	0	1625
+1567	Dragúnová Alžbeta		0	1228
+1567	Dragúnová Alžbeta	manž.Jozef	0	1625
+1567	Dragunová Mária		1	721,908,1228,1625
+1567	Dragúnová Mária	Mikita,mal	0	1228,1625
+1567	Dučaiová Mária		1	1177,1401
+1567	Dzurová Mária		0	1225,1647
+1567	Dzurová Mária r. Kozeľová		1	908
+1567	Ferenc Juraj	manž.Mária r.Mudri	0	1637,1639
+1567	Fetková Katarína	manž.Rudolf	0	1637,1639
+1567	Ficeri Jaroslav		1	721,908
+1567	Ficeri Michal	syn Michala	1	1211,1597
+1567	Ficeri Ondrej		1	908,1225
+1567	Ficeri Štefan	manželka Agnesa r. Nemec	1	721
+1567	Ficeri Štefan	manželka Agnesa r.Nemec	1	721
+1567	Ficeri Vincent		1	721,908
+1567	Ficeriová Alžbeta r. Múdra		0	1252,1439
+1567	Ficeriová Anna		1	1187
+1567	Ficeriová Margita		0	1656
+1567	Ficeriová Margita	dcéra Michala	0	1656
+1567	Ficeriová Margita	manž.Ján	0	1656

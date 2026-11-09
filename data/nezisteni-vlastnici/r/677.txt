@@ -1,0 +1,256 @@
+391	CSONKA Estera		1	840,1210
+391	CSONKA Ladislav		1	840,1191
+391	CSONKA Ladislav	Malé Trakany	1	1210
+391	CSONKA Melichar		1	840,1210
+391	CSONKA Zoltán	mal	1	840,1191
+391	CSONKAOVÁ Helena	nal	1	1191
+391	CSONKAOVÁ Irena		1	840,1191
+391	CSONTOSOVÁ Irma	rod.Bartoková, manž.Gabriel	1	1184
+391	CSORBA Andrej	manž.Verona rod.Pirigyiová	1	175
+391	CSORBA Ján	K	1	1213
+391	CSORBA Ján	manž.Anna rod.Csehová	1	942,1000
+391	CSORBA Ján	manž.Elena rod.Czetoová	1	1060
+391	CSORBA Ján	manž.Mária rod.Czetoová	1	597,926,1046,1336,1337,1384,1387
+391	CSORBA Ján	manž.Priška rod.Pappová	1	1060
+391	CSORBA Ľudovít	rodičia Ján a Anna r.Csehová	1	1100
+391	CSORBA Pavol	manž.Margita rod.Szakácsová	1	924,937
+391	CSORBA Štefan	manž.Berta rod.Antalová	1	998,999
+391	Csorba Vojtech, Hlavná 49/100, Biel, PSČ 07641, SR		1	592,1343
+391	CSORBA Zoltán	mal	1	583,593,602,918,1323
+391	CSORBAOVÁ Berta	rod.Antalová, manžel Štefan	1	998,999
+391	CSORBAOVÁ Elena	mal	1	583,593,602,918,1323
+391	CSORBAOVÁ Elena	rod.Czetoová	1	982,1105
+391	CSORBAOVÁ Elena	rod.Czetoová, manžel Ján	1	583,593,602,918,1060,1323
+391	CSORBAOVÁ Elena	rod.Kardošová	1	593
+391	CSORBAOVÁ Estera	mal	1	1100
+391	CSORBAOVÁ Helena	rod.Cetoová	1	622
+391	CSORBAOVÁ Lea		1	1100
+391	CSORBAOVÁ Margita	rod.Szakácsová, manžel Pavol	1	924,937
+391	CSORBAOVÁ Priška	rod.Pappová, manžel Ján	1	1060
+391	CSORBOVÁ Anna	rod.Csehová, manžel Ján	1	942,1000,1100
+391	CSORBOVÁ Elena	rod.Czetoová	1	609,958,1092,1102,1111
+391	Csorbová Júlia, 076 41, Biel, SR	D: rod.Czetoová | |zom.|19.05.1983	1	568
+391	CSORBOVÁ Mária	rod.Czetoová, manžel Ján	1	597,926,1046,1336,1337,1384,1387
+391	CSUBAK Štefan	manž.Alžbeta rod.Koleszárová	1	997
+391	CSUBÁK Štefan	ml, manž.Mária rod.Kiszliová	1	634,635,636,1116
+391	CSUBÁKOVÁ Alžbeta	rod.Koleszárová	1	609,1092,1111
+391	CSUBÁKOVÁ Alžbeta	rod.Koleszárová, manžel Štefan	1	634,997
+391	CSUBÁKOVÁ Mária	rod.Kiszliová, manžel Štefan	1	634,635,636,1116
+391	CZETO Alexander		1	953
+391	CZETO Alexander	manž.Mária rod.Kišová	1	609,928,1092,1102,1111
+391	CZETO Alexander	mladší, manž.Rebeka rod.Katocsová	1	953
+391	CZETO Gabriel	rodičia Pavol a Barbora rod.Szabová	1	598
+391	CZETO Július	rodičia Pavol a Barbora rod.Szabová	1	598
+391	CZETO Štefan		1	583,593,1060
+391	CZETOOVÁ Estera r. Galambošová		1	259
+391	CZETOOVÁ Ilona	mal., rodičia Pavol a Mária r.Ligová	1	1006,1057,1114
+391	CZETOOVÁ Jolana		1	609,958,1092,1102,1111
+391	Czetőová Jolana r. Csorbaová, Hlavná 171/72, Biel, PSČ 076 41, SR	|zom.|01.01.2003	1	1003,1060
+391	Czetoová Jolana r. Csorbová, Hlavná 171/72, Biel, PSČ 07641, SR		1	566,567,583,593,602,918,1323,1339,1340
+391	CZETOOVÁ Margita	mal., rodičia Pavol a Mária r.Ligová	1	1006,1057,1114
+391	CZETOOVÁ Rebeka	rod.Katocsová	1	593
+391	ČONKOVÁ Barbora		1	1071
+391	ČORBA Ján	manž.Mária rod.Cetoová	1	627,1318
+391	DANKO Bartolomej		1	899
+391	DANKOVÁ Alžbeta	rod.Dovičáková	1	169,1089,1410
+391	Danková Alžbeta r. Dovičáková		0	1300
+391	DANKOVÁ Estera	rod.Kondašová	1	899
+391	DARGO František		1	196,637,638,967
+391	DARGO František	mal	1	196,637,967
+391	DARGO Peter		1	196,637,967
+391	DARGO Peter	manž.Barbara rod.Timková	1	196,637,638,952,967
+391	DARGO Štefan		1	967
+391	DARGO Štefan	manž.Julianna rod.Perhácsová	1	637,894,1135
+391	DARGOOVÁ Barbara	rod.Timková, manžel Peter	1	952
+391	DARGOOVÁ Julianna	rod.Perhácsová, manžel Štefan	1	894
+391	DARGOOVÁ Mária		1	196,637,967
+391	DARGOVÁ Anna		1	637,967
+391	Dargová Paula r. Vargová, Radová 73/1, Čierna nad Tisou 076 43, SR		1	839
+391	Davidová Piroška r. Katocsová		1	970
+391	DEÁK Ján	mal	1	928
+391	DEÁK Ján	ml., manž.Mária rod.Lipánovou	1	609,637,928,967,1102,1111,1181
+391	DEÁK Ján	starší, manž.Helena rod.Simková	1	609,637,928,967,1102,1110,1111
+391	DEÁKOVÁ Anna	mal	1	967
+391	DEÁKOVÁ Helena		1	637,928
+391	DEÁKOVÁ Helena	mal	1	928
+391	DOBOS Ferencz		1	827,1370,1383,1442
+391	DOBOSOVÁ Alžbeta		1	1278
+391	DOBOSOVÁ Alžbeta	mal	1	835,836,1304,1305
+391	DOBOŠ Štefan		1	1216
+391	Doboš Štefan, SR		0	726
+391	DOBOŠOVÁ Emília	rod.Baloghová, manžel Štefan	1	826
+391	Dobošová Emília r. Baloghová, SR		0	726
+391	DOHÁNYOSOVÁ Etela	rod.Vas	1	1101
+391	DOVIČÁK Ján	ml	1	169,1089,1300,1410
+391	DOVIČÁKOVÁ Mária	rod.Rinčáková	1	1077
+391	ESTOKOVÁ Mária	rod.Kajibášová	1	574
+391	Fazekas Albert		0	1224
+391	FAZEKAS Štefan	manž.Juliana rod.Béresová	1	1140,1224
+391	FAZEKAŠOVÁ Alžbeta		1	923
+391	FAZEKAŠOVÁ Margita	rod.Nagyová	1	1204
+391	FEDÁK Jozef	mal	1	833
+391	FEDÁKOVÁ Alžbeta	rod.Zamatoczkyová	1	1166
+391	FEDÁKOVÁ Anna	mal	1	833
+391	FEDÁKOVÁ Mária	mal	1	833
+391	FEKETEOVÁ Margita		1	1278
+391	FEKETEOVÁ Margita	rod.Boldizsárová, manžel Štefan	1	835,836,1304,1305
+391	FENCSÁK Demeter	manž.Anna rod.Chomová	1	1170
+391	FENCSÁKOVÁ Anna	rod.Chomová, manžel Demeter	1	1170
+391	FODOROVÁ Helena		1	1054
+391	FODOROVÁ Žofia	rod.Abaháziová	1	1034,1054
+391	FOLDIOVÁ Alžbeta	rod.Koiová, manžel Jozef, vdova	1	1042
+391	FORTUŇÁKOVÁ Irma	rod.Petriková, manžel Andrej	1	804,1220
+391	Fozo Ján, 07641, Biel, č. 31, SR		1	591,594,981,1320,1429,1430
+391	Fozo Ján, Biel 076 41, č. 31, SR		1	905,907
+391	FOZO Vojtech	nar.10.5.1894, manž.Margita r.Burkusová	1	981
+391	FOZOOVÁ Margita	r.Burkusová, man. Vojtech, nar.5.5.1894	1	981,1173,1341
+391	FULOP Ján	mladší	1	1219
+391	FUZIKOVÁ Alžbeta	rod.Csorbaová, manžel František	1	1100
+391	GALAMBOS Alexander		1	183,236
+391	GALAMBOS Karol		1	236,990
+391	GALAMBOSOVÁ Alžbeta	rod.Rajová	1	991
+391	GALAMBOSOVÁ Estera		1	990
+391	GALAMBOŠ Alexander	mal	1	183,885,1360
+391	GALAMBOŠ Július		1	236
+391	GALAMBOŠ Ľudovít		1	236
+391	GALAMBOŠ Michal		1	236
+391	GALAMBOŠ Peter		1	990
+391	Galambošová Etela		1	360
+391	GALAMBOŠOVÁ Helena	mal	1	236
+391	GALAMBOŠOVÁ Ida	rod.Bernátová	1	990
+391	GALICKÁ Alžbeta	rod.Majorošová	1	181
+391	GENDRÁCS Pavol	manž.Mária rod.Kacsariová	1	1113
+391	GENDRAČOVÁ Mária	rod.Kacsariová, manžel Pavol	1	196,1113
+391	GONCZI Ladislav		1	1176
+391	GONCZI Ladislav	mal	1	1154,1187
+391	GONCZI Ladislav	mal., Malé Trakany	1	830
+391	Gönczi Ladislav r. Gönczi		1	1179
+391	GONCZIOVÁ Alžbeta		1	1034
+391	GONCZIOVÁ Alžbeta	mal., Malé Trakany	1	830
+391	GONCZIOVÁ Gizela	rod.Szimjériová	1	1187
+391	GONCZIOVÁ Mária	mal	1	1034
+391	GONCZYOVÁ Alžbeta	Malé Trakany	1	793,1345
+391	GOTTSEGEN Dezider	manž.Paula rod.Katzová	1	561,563
+391	GOTTSEGENOVÁ Elle		1	1096
+391	GOTTSEGENOVÁ Fiona		1	1096
+391	GOTTSEGENOVÁ Paula	rod.Katzová, manžel Dezider	1	561,563
+391	GOTTSEGENOVÁ Terezia		1	1096
+391	HAJDU Karol	manž.Irma rod.Tothová	1	1149
+391	HAJDUOVÁ Irma	rod.Tothová, manž.Karol	1	1119,1149
+391	HAJDUOVÁ Mária	rod.Bertaová	1	957
+391	HALBOVÁ Anna	rod.Szabová	1	1065
+391	HALMAYOVÁ Etelka		1	239
+391	HARASZTIOVÁ Helena	rod.Tothová	1	794,1378
+391	HAVLÍKOVÁ Helena	nar.14.10.1927, Litvínov	1	799,800
+391	HENZEOVÁ Anna	rod.Rinkáčová	1	1077
+391	HERCZ Jozef	Dr	1	622,924
+391	HIRSCHBERGEROVÁ Mária	rod.Klein	1	165,289
+391	HODIOVÁ Mária	rod.Csorbaová, manžel Samuel	1	1100
+391	HOKSZ Jozef	manž.Juliana rod.Vigová	1	1129
+391	HOKSZOVÁ Juliana	rod.Vigová, manžel Jozef	1	1129
+391	Horňáková Verona r. Tothová, SR		0	312
+391	HORŇÁKOVÁ Veronika	rod.Tothová	1	1081
+391	HORVÁTH Ladislav	rodičia Jozef a Barbora r.Penczková	1	638
+391	HORVÁTHOVÁ Alžbeta	rodičia Jozef a Barbora r.Penczková	1	571,638
+391	HORVÁTHOVÁ Barbora	rod.Penczková, vdova, manžel Jozef	1	571,638
+391	HORVÁTHOVÁ Estera	rod.Vargová	1	803
+391	HORVÁTHOVÁ Mária	mal	1	832
+391	HORVÁTHOVÁ Mária	rod.Tomoriová, manž.Alexander	1	803
+391	HORVÁTHOVÁ Mária	rodičia Jozef a Barbora r.Penczková	1	571,638
+391	HORVÁTOVÁ Mária		1	832
+391	HUDAKOVA Mária	rod.Šandorová, nar.1.5.1930, USA	1	1125
+391	Ignácová Anna		1	490
+391	ILKUOVÁ Mária		1	583,918
+391	Illéšová Anna		1	360
+391	ILLÉŠOVÁ Gizela	r.Bakurová, nar.5.11.1922, Čierna, zomr	1	241
+391	JABRIK Jozef		1	1089,1300
+391	JABRIK Jozef	2	1	1058
+391	JAGEROVÁ Žofia	rod.Kocsiová, manžel Štefan	1	914
+391	JRD BIEL		0	1003
+391	KAJIBÁŠOVÁ Alžbeta	rod.Molnárová	1	1083
+391	KAJIBÁŠOVÁ Júlia	mal	1	574
+391	KALAPOŠOVÁ Mária	rod.Bodnárová	1	179,1061
+391	KAPITÁNY František		1	1132
+391	KAPITÁNY František	Malé Trakany	1	1189
+391	KAPITÁNY Ján		1	1132
+391	KAPITÁNY Štefan	mal	1	1132
+391	KAPITÁNYOVÁ Alžbeta	mal	1	1132
+391	KAPITÁNYOVÁ Helena	mal	1	1132
+391	KAPITÁNYOVÁ Margareta	mal	1	1132
+391	KÁRA Mária	rod.Ardaiová, manž.Jozef	1	1134,1142
+391	KARDOŠ Ján		1	592,918,1343
+391	KARDOŠ Štefan	mal	1	583,592,593,602,918,1060,1323,1343
+391	KARDOŠOVÁ Lenora	rod.Czetoová, manžel Ján	1	592,1343
+391	KATOCS Andrej	rodičia František a Fany rod.Kulcsárová	1	975
+391	KATOCS Bartolomej		1	187
+391	KATOCS František	rodičia František a Fany rod.Kulcsárová	1	975
+391	KATOCS Gejza		1	269,910,1315,1358
+391	KATOCS Ján	mal	1	970
+391	KATOCS Karol	ž.Alžbeta rod.Urbán	1	292,919
+391	KATOCS Michal	manž.Rebeka r.Galamboš, býv. v Užgorode	1	909,910,1316
+391	KATOCS Štefan	mal	1	228
+391	KATOCS Vojtech		1	292
+391	KATOCS Zoltán	rodičia František a Fany rod.Kulcsárová	1	975
+391	KATOCSOVÁ Alžbeta	mal	1	292
+391	KATOCSOVÁ Beta	rod.Molnárová, manžel Július	1	970
+391	KATOCSOVÁ Elle	mal.,rod.František a Fany rod.Kulcsárová	1	975
+391	KATOCSOVÁ Estera		1	158,269,910,1315,1328,1358
+391	KATOCSOVÁ Rebeka	mal	1	269,910,1315,1358
+391	KATOČOVÁ Rebeka	rod.Galambošová, manžel Michal	1	909,1316
+391	KAŽIČKOVÁ Jolana	rod.Remáková	1	621
+391	KERESZTÚRIOVÁ Mária		1	1158,1197
+391	KERESZTÚRYOVÁ Mária		1	1163
+391	KERTÉS Alexander	manž.Barbora rod.Hamišovská	1	1012
+391	KERTÉSOVÁ Barbora	rod.Hamišovská, manžel Alexander	1	1012
+391	KERTÉSZ Štefan		1	807,808,809,1288,1414,1428
+391	Királiová Alžbeta r. Bakurová, 07641, Biel, č. 128, SR		1	593,916
+391	KIRÁLY Ján	mal	1	575
+391	KIRIK Alexander	rodičia Bartolomej a Gizela r.Burkusová	1	591,907,981,1429
+391	KIRIK Bartolomej	rodičia Bartolomej a Gizela r.Burkusová	1	591,907,981,1429
+391	KIRIK Ján	mal., rod. Bartolomej a Gizela r.Burkus	1	591,907,981,1429
+391	KIRIK Ondrej		1	1198
+391	KIRIK Ondrej	Malé Trakany	1	1148
+391	KIRIK Ondrej	manž.Piroška rod.Perhačová	1	1208
+391	KIRIK Vojtech	rodičia Bartolomej a Gizela r.Burkusová	1	591,907,981,1429
+391	KIRIKOVÁ Ilona	mal., rod. Bartolomej a Gizela r.Burkus	1	591,907,981,1429
+391	KIRIKOVÁ Julianna	rodičia Bartolomej a Gizela r.Burkusová	1	591,907,981,1429
+391	KIRIKOVÁ Veronika	rod.Sztanková, manžel Alexander	1	823,824,825
+391	KirikováI Piroška r. Perhačová	manžel Ondrej|	1	1208
+391	KIS Andrej	mal	1	300
+391	KISS Ján	manž.Alžbeta rod.Salamonová	1	938
+391	KISSOVÁ Alžbeta	rod.Salamonová, manžel Ján	1	938
+391	KISSOVA Anna	rod.Jurcsáková, manžel Štefan	1	817
+391	KIŠŠ Štefan	mal	1	300
+391	KLEINOVÁ Pepi	rod.Zimmermam	1	165,289
+391	KLIMIK Ladislav		1	169,1089,1300,1410
+391	KLIMIKOVÁ Mária	rod.Kostrubáčová, manžel Ignác	1	169,1089,1410
+391	Klimiková Mária r. Kostrubáčová	manžel Ignác	0	1300
+391	KOCSÁŇ Jozef		1	1120
+391	KOCSÁNY Jozef		1	1121
+391	KOCSI Alexander		1	237
+391	KOCSI Alexander	ž.Alžbeta rod.Nagyová	1	290
+391	KOCSI Andrej	nar.23.12.1894	1	945
+391	KOCSI Július		1	237,256
+391	Kocsi Július, Boťanská 80/26, Čierna, PSČ 07643, SR		1	945,949
+391	KOCSI Ladislav		1	966
+391	Kocsi Piroška	mal. |; mal	1	945
+391	Kocsi Piroška  /mal./, SR		1	949
+391	KOCSI Štefan		1	237,256
+391	KOCSI Štefan	mal	1	906
+391	KOCSI Štefan	manž.Anna rod.Kakašová	1	906
+391	KOCSI Štefan	ml	1	156
+391	KOCSI Vojtech		1	156
+391	KOCSI Vojtech	mal	1	906
+391	KOCSIOVÁ Alžbeta	rod.Nagyová, manžel Alexander	1	290
+391	Kocsiová Alžbeta, SR		1	945,949
+391	KOCSKA Bartolomej	rodičia Ján a Alžbeta r.Világiová	1	196,605,894,922,1327,1386,1403
+391	KOCSKA František		1	598,926,1046,1336,1337,1384,1387
+391	KOCSKA Ján		1	563,622
+391	KOCSKA Ján	manž.Alžbeta rod.Nagyová	1	995
+391	KOCSKA Ján	rodičia Ján a Alžbeta r.Világiová	1	196,605,894,922,1327,1386,1403
+391	KOCSKA Jozef		1	603
+391	KOCSKA Pavol		1	562,607,622,892,893,924,937,1322
+391	KOCSKA Pavol	manž.Mária rod.Czetoová	1	562,607,622,892,893,924,937,1322
+391	KOCSKA Peter	mal., rodičia Ján a Alžbeta r.Világiová	1	196,605,894,922,1327,1386,1403
+391	KOCSKAOVÁ Alžbeta		1	607,892,893,937,1322
+391	KOCSKAOVÁ Alžbeta	rod.Nagyová, manžel Ján	1	603

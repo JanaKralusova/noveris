@@ -1,0 +1,256 @@
+564	Švihra Ján, SR	Adamec	0	878,1236,1824,1825,2090
+564	Švihra Ján, SR	Kerdaj	0	878,1192
+564	Švihra Ján, SR	Lopa - Kerdaj	0	1910
+564	Švihra Juraj		0	2320,2997
+564	Švihra Martin		0	2188
+564	Švihra Martin, SR	Lopa	0	2101
+564	Švihra Martin, SR	Lopa - Kerdaj	0	1250
+564	Švihra Martin, SR	Maličaj	0	1123,1886
+564	Švihra Matej		0	2320,2997
+564	Švihra Matej, SR		0	878
+564	Švihra Michal		0	2159
+564	Švihra Michal, SR		0	1123,1170,1171,1400,1401,2060
+564	Švihra Michal, SR	Javorka	0	753
+564	Švihra Michal, SR	Sivý	0	1692
+564	Švihra Peter		0	2237
+564	Švihra Peter	Kerdaj	0	2192
+564	Švihra Peter, SR		0	288,968,1398,1399,2788,2789
+564	Švihra Peter, SR	Kerdaj	0	511
+564	Švihra sivý Mária		1	2274
+564	Švihra Sivý Michal		1	2274
+564	Švihra Štefan		0	2283,2338,2747
+564	Švihra Štefan r. Švihra, Dovalovo, č. 71, SR	zomr. 2.9.1980	0	769
+564	ŠVIHRA ŠTEFAN, Dovalovo, č. 87, SR		0	89
+564	Švihra Štefan, SR	Betko	0	1909
+564	Švihra Štefan, SR	Maličaj	0	288
+564	Švihrová Anna		0	2237
+564	Švihrová Anna r. Bendíková, SR		0	1758,1762,2044
+564	Švihrová Anna r. Papajová, SR		0	1472,1573
+564	Švihrová Anna r. Švihrová, SR		0	878,1472,1817,2096,2830
+564	Švihrová Anna r. Švihrová, SR	Javorka	0	1434
+564	Švihrová Anna r. Verbanová, SR		0	1755
+564	Švihrová Božena, SR	Adamec	0	878
+564	Švihrová Elena r. Švihrová, SR		0	288,1430
+564	Švihrová Ema	Adamec	0	2640
+564	Švihrová Ema r. Petrášková	Králik	0	2376,2481
+564	Švihrová Ema r. Petrášková, SR		0	878
+564	Švihrová Ema r. Petrášková, SR	Králik	0	878,1471,1506,1729,1776
+564	Švihrová Ema, SR		0	2066
+564	Švihrová Ema, SR	Adamec	0	1190,2039
+564	Švihrová Ema, SR	Maličaj	0	288
+564	Švihrová Emília r. Jurčová, SR		0	878
+564	Švihrová Emília, SR	Adamec	0	878
+564	Švihrová Emília, SR	Pleška	0	1672
+564	Švihrová Eva r. Cibulová		0	2595
+564	Švihrová Eva r. Cibulová, SR		0	1214,1215,1776
+564	Švihrová Eva r. Stachová		0	2307
+564	Švihrová Irena, SR		0	878,1163,1248,1298,1299,1301,1302,1303,1304,1305,1306,1307,1308,1309,1310
+564	Švihrová Kornélia r. Papajová		0	2221
+564	Švihrová Kornélia r. Papajová, SR		0	884,1909
+564	Švihrová Margita, SR	Maličaj	0	288
+564	Švihrová Mária r. Jurčová		0	2275
+564	Švihrová Mária r. Nedbalová	Zimáni - Lopa	0	2236,2409,2760
+564	Švihrová Mária r. Nedbalová, SR		0	1289,2038
+564	Švihrová Mária r. Nedbalová, SR	Zimáni - Lopa	0	1333
+564	Švihrová Mária r. Ohradanová, SR		0	1458,1743,2808
+564	Švihrová Mária r. Rybárová, SR		0	2049
+564	Švihrová Mária r. Števčeková	Králik	0	2210,2315,2700
+564	Švihrová Mária r. Števčeková	Králik - Malinaj	0	2269
+564	Švihrová Mária r. Števčeková, SR	Králik	0	878,1746,2866
+564	Švihrová Mária r. Števčeková, SR	Králik - Malinaj	0	1643
+564	Švihrová Mária r. Števčeková, SR	Králik Malinaj	0	878
+564	Švihrová Mária, SR		0	288,878,1298,1459,1710,1867
+564	Švihrová Mária, SR	Edita	0	678
+564	Švihrová Mária, SR	Maličaj	0	288,1430
+564	Švihrová Petronela r. Chovanová, SR		0	288,1306,1852
+564	ŠVIHROVÁ ZITA, SR		0	76
+564	Švihrová Zuzana r. Bendíková, SR		0	685,1714
+564	Švihrová Zuzana r. Petrášková, SR		0	1214
+564	Ticháňová Zuzana r. Gažová		0	2395
+564	Ticháňová Zuzana r. Gažová, SR		0	881
+564	Tomčík Drahoslav		0	2139
+564	Tomčík Drahoslav, SR		0	2135,2139
+564	Tomčík Ján		0	2139
+564	Tomčík Ján	č.d.1100/1927	0	2139
+564	Tomčík Ján	č.d.1782/1903	0	2139
+564	Tomčík Ján	č.d.827/1891	0	2139
+564	Tomčík Ján	manž.Eva Slabejová	0	2139
+564	Tomčík Ján, SR		0	2135,2139
+564	Tomčík Ján, SR	č.d.1100/1927	0	2135
+564	Tomčík Ján, SR	č.d.1109/1879	0	2135,2139
+564	Tomčík Ján, SR	č.d.1782/1903	0	2135
+564	Tomčík Ján, SR	č.d.827/1891	0	2135
+564	Tomčík Ján, SR	manž.Eva Slabejová	0	2135
+564	Tomčík Július	zom. 13.10.1984, naposl.bytom Vavrišovo č.115	0	2139
+564	Tomčík Július, naposl. bytom 115, Vavrišovo, SR	zom. 13.10.1984	0	2135
+564	Tomčík Michal	č.d.2656/1928	0	2139
+564	Tomčík Michal, SR	č.d.2656/1928	0	2135
+564	Tomčík Pavol, SR		0	2135,2139
+564	Tomčík Peter		0	2139
+564	Tomčík Peter	č.d.1100/1927	0	2139
+564	Tomčík Peter	č.d.2656/1928	0	2139
+564	Tomčík Peter, SR		0	2135
+564	Tomčík Peter, SR	č.d.1100/1927	0	2135
+564	Tomčík Peter, SR	č.d.2656/1928	0	2135
+564	Tomčíková Anna r. Šintajová, SR		0	1142
+564	Tomčíková Emília r. Šimovčeková	zom. 15.11.1987,domn.,naposl.bytom Vavrišovo č.213	0	2139
+564	Tomčíková Emília r. Šimovčeková, naposl. bytom 213, Vavrišovo, SR	zom. 15.11.1987, domn	0	2135
+564	Tomčíková Emília r. Šimovčeková, naposl. bytom 213, Vavrišovo, SR	zom. 15.11.1987,domn	0	2135
+564	Tomčíková Emília, Vavrišovo, č. 73, SR		0	2135,2139
+564	Tomčíková Emma r. Mikulášová	zom. 03.12.1986	0	2139
+564	Tomčíková Emma r. Mikulášová, SR	zom. 03.12.1986	0	2135
+564	Tomčíková Jolana		0	2139
+564	Tomčíková Jolana, SR		0	2135,2139
+564	Tomčíková Zuzana		0	2139
+564	Tomčíková Zuzana, SR		0	2135
+564	Tomko Peter		1	2159,2274,2284,2541,2803
+564	Tomko Peter, SR		0	878,1303,1304,1309
+564	Tomková Anna		0	2178,2284,2803
+564	Tomková Anna, SR		0	878,882,883,1305,1647
+564	Tomková Emília r. Kapitáňová, SR		0	1252,1407,1647,2768
+564	Tomková Emília r. Ľudmila, SR	Čierny	0	1461
+564	Tomková Mária r. Krivošová		0	2178,2233,2284,2488,2541,2803
+564	Tomková Mária r. Krivošová, SR		0	881
+564	Trepáčová Emília r. Vrlíková	zom. 21.06.1991, domn	0	2139
+564	Trepáčová Emília r. Vrlíková, SR	zom. 21.06.1991, domn	0	2135
+564	Trmalová Mária r. Blišťanová		0	2237
+564	Tuková Mária r. Durišová, SR		0	1584
+564	UHLÍROVÁ Anna r. Luptáková		0	2598
+564	Uličná Emília, SR		0	1455
+564	Uličná Eva r. Stolárová		0	2561
+564	Uličná Eva r. Šípková		0	2544,2766
+564	Uličná Regina r. Chovanová		0	2755
+564	Uličný Ján		0	2755
+564	Uličný Juraj	Bobuliak	0	2586
+564	Uličný Miloš		0	2219,2638,3019,3038
+564	Uličný Miloš, SR		0	878,880,887,1460,1466,1677
+564	Uličný Vladimír, SR		0	878,1460,1466
+564	Valientka Július		0	2426,2428
+564	Valientka Matej		0	2426,2428
+564	Valientková Mária r. Cholvadová		0	2428
+564	Veverica Andrej, SR		0	335,1698,1699
+564	Veverica Ján		0	2223,2529,2545
+564	Veverica Ján, SR		0	889,1224,1372,2104,2775,2793
+564	Veverica Ján, SR	Kováč	0	647
+564	Veverica Jozef	Kováč	0	2485
+564	Veverica Michal		0	2268,2314,2406,2545
+564	Veverica Michal, SR		0	878,1728,1767,1768
+564	Veverica Michal, SR	Kropáč	0	897
+564	Veverica Pavol		0	2590
+564	Veverica Pavol, SR		0	335,1698,1699
+564	Vevericová Anna r. Bendíková, SR		0	1962,1963
+564	Vevericová Božena r. Križková		0	2265
+564	Vevericová Božena r. Križková, SR		0	957,1961
+564	Vevericová Božena, SR		0	1820
+564	Vevericová Cecília r. Gajdošová, SR	Uličná	0	878
+564	Vevericová Mária		0	2268,2314
+564	Vevericová Mária	Dolej	0	2403
+564	Vevericová Mária r. Petrášková, SR		0	2051
+564	Vevericová Mária, SR		0	878,1716,1728,1767,1768,1797,1798,1799,1962,1963
+564	Vevericová Mária, SR	Dolej	0	1317
+564	Vevericová Mária, SR	Kováč	0	647,878
+564	Vevericová Rozália, SR	Kováč	0	878
+564	Veveriva Andrej		0	2590
+564	Vlastník neznámy		0	878
+564	Vlčková Zuzana r. Krivošová		0	2139
+564	Vlčková Zuzana r. Krivošová, SR		0	2135
+564	Vojteková Zuzana r. Dzuriaková, SR		0	2135,2139
+564	Vongrej Ján	zom. 31.10.1991, naposl.bytom Zvolen,Kubányho 2	0	2139
+564	Vongrej Ján, naposl. bytom Kubányho 2, Zvolen, SR	zom. 31.10.1991	0	2135
+564	Vongrej Ján, SR	Kubas	0	2135,2139
+564	Vongrej Matej	Varga	0	2139
+564	Vongrej Matej, SR	č.d.793/1879, Varga	0	2135
+564	Vongrej Peter		0	2135
+564	Vongrej Peter, SR		0	2139
+564	Vongrejová Eva r. Mikulášová		0	2139
+564	Vongrejová Eva r. Mikulášová, SR		0	2135
+564	Vongrejová Zuzana	č.d.3689/1888	0	2139
+564	Vongrejová Zuzana, SR	č.d.3689/1888	0	2135
+564	Vozárová Božena r. Janotková	zom. 18.11.1978, domn	0	2139
+564	Vozárová Božena r. Janotková, SR	zom. 18.11.1978, domn	0	2135
+564	Vozisová Katarína r. Balážová		0	2522
+564	Vrlík Ján		0	2139
+564	Vrlík Ján	zom. 05.08.1993, domn.,naposl.bytom Michalovce,Partizánska 103	0	2139
+564	Vrlík Ján	zom. 05.08.1993,domn.,naposl.bytom Michalovce,Partizánska 103	0	2139
+564	Vrlík Ján	zom. 24.03.1980, naposl.bytom Vavrišovo č.96	0	2139
+564	Vrlík Ján, naposl. bytom 96, Vavrišovo, SR	zom. 24.03.1980	0	2135
+564	Vrlík Ján, naposl. bytom Partizánska 103, Michalovce, SR	zom. 05.08.1993, domn	0	2135
+564	Vrlík Ján, SR	č.d.628/1919	0	2135
+564	Vrlík Karol		0	2139
+564	Vrlík Karol, SR		0	2135
+564	Vrlík Ondrej	zom. 18.05.1966, Martinček, domn	0	2139
+564	Vrlík Ondrej, SR	zom. 18.05.1966, Martinček, domn	0	2135
+564	Vrlík Peter	zom. 17.11.1968, naposl.bytom Vavrišovo č.23	0	2139
+564	Vrlík Peter, naposl. bytom 23, Vavrišovo, SR	zom. 17.11.1968	0	2135
+564	Vrlíková Anna		0	2139
+564	Vrlíková Anna, SR		0	2135
+564	Vrlíková Eva r. Janotková	zom. 18.05.1869	0	2139
+564	Vrlíková Eva r. Janotková, SR	zom. 18.05.1869	0	2135
+564	Vrlíková Eva r. Janotková, SR	zom. 18.05.1869, domn	0	2135,2139
+564	Vrlíková Eva r. Janotková, SR	zom.18.05.1869, domn	0	2135
+564	Vrlíková Ľudmila		0	2139
+564	Vrlíková Ľudmila	zom. 26.12.1984, naposl.bytom Bratislava,Lumumbova 4	0	2139
+564	Vrlíková Ľudmila, naposl. bytom Lubumbova 4, Bratislava, SR	zom. 26.12.1984	0	2135
+564	Vrlíková Ľudmila, SR		0	2135
+564	Vrlíková Mária r. Vrlíková	zom. 31.08.1965, domn	0	2139
+564	Vrlíková Mária r. Vrlíková, SR	zom. 31.08.1965, domn	0	2135
+564	Vrlíková Zuzana		0	2139
+564	Vrlíková Zuzana r. Ďurigová, SR	zom. 27.11.1970	0	2135,2139
+564	Vrlíková Zuzana, SR		0	2135
+564	Zařová Anna r. Števčeková, SR		0	878
+564	Zaťko Ján	č.d.131/1923	0	2139
+564	Zaťko Ján, SR	č.d.131/1923	0	2135
+564	Zaťko Michal		0	2699
+564	Zaťko Michal, SR		0	1106,1765
+564	Zaťková Mária		0	2139
+564	Zaťková Mária, SR		0	2135
+564	Zaťová Anna r. Števčeková, SR		0	878
+564	Závadská Ludmila r. Preselovičová		0	2497
+564	Závadská Ludmila r. Preselovičová, SR		0	878,1438,1440,2058
+564	Zeglenová Eva r. Papajová	Piroch	0	2638,3019,3038
+564	Zeglenová Eva r. Papajová, SR		0	878,1121,1455,1456,1459
+564	Zeglenová Eva r. Papajová, SR	Piroch	0	880,1993
+564	Zeglenová Mária r. Lopčianská, SR		0	1052
+564	Zenglenová Eva r. Papajová		0	2221
+564	Zenglenová Eva r. Papajová, SR		0	884
+564	Zimáni Michal, SR	Nedbal	0	2034
+564	Zimáni Peter, naposl. bytom 60, Dovalovo, SR	zom. 07.11.1992	0	698
+564	Zimániová Ema r. Sajtáková		0	1649,2338
+564	Zimániová Ema r. Sajtáková, SR		0	1743
+564	Zimániová Emília r. Sajtáková		0	2320,2997
+564	Zimániová Eva r. Plšíková, naposl. bytom Zvolenská 46/4, Zvolen, SR	zom. 28.05.1993	0	629
+564	Zimániová Eva r. Plšíková, SR		0	878,2039
+564	Zohnová Anna, SR		0	280,878
+564	Zubajová Mária r. Zubajová, SR	neb.-zomrela 14.8.2002	0	62,108,524,571,1890,1892,2735
+564	Zunová Mária r. Svrčinová, SR		0	878
+564	Žišková Anna r. Števčeková, Liptovský Hrádok, SR	Hliva	0	878
+565	Hartvich Július, Kysuca, Drábsko, PSČ 97653, SR		0	333
+565	Klaskeňová Magda, Mazorník, Brezno, PSČ 977 01, SR		0	315
+565	Kojtylová Elena, Tatranská 57, Banská Bystrica, PSČ 974 01, SR		0	327,334,338,638
+565	Kojtylová Elena, Tatranská 57, Banská Bystrica, PSČ 97411, SR		0	335
+565	Kojtylová Elena, Tatranská 57, Banská Bystrica, PSČ 976 53, SR		0	337
+565	Kožiak Ján, 976 52, Čierny Balog - Fajtov, č. 1090, SR		0	638
+565	Kožiak Ján, 976 52, Čierny Balog-Fajtov, č. 1090, SR		0	327,334,335,338
+565	Kožiak Ján, 97652, Čierny Balog-Fajtov, č. 1090, SR		0	337
+565	Kožiak Jozef, 976 46, Valaská, SR	ŠM	0	315
+565	Kunštárová Mária r. Vetráková, SR		1	537
+565	Kureková Katarína r. Jánoštiaková, SNP 355/33, Kokava nad Rimavicou, PSČ 985 05, SR		0	323,325
+565	Pytliak Jozef, SR		1	540
+565	Ranová Mária, Kráľohorská 19, Banská Bystrica, PSČ 97411, SR		0	315
+565	Ridzoň Matúš, SR		1	550
+565	Ridzoň Milan r. Ridzoň, MPČĽ 10, Brezno, PSČ 977 01, SR Beňuška		0	188
+565	Ridzoň Milan, MPČL 10, Brezno, PSČ 977 01, SR		0	372
+565	Ridzoň Milan, MPČL 10, Brezno, PSČ 977 01, SR	Beňuška	0	373,399
+565	Ridzoň Milan, MPČL 10, Brezno, PSČ 977 03, SR	Beňuška	0	368
+565	Ridzoň Ondrej, SR	6	1	545
+565	Svinčiak Ján, SR	1	1	524
+565	Štefančík Ján, SR	1	1	520
+565	Štefančík Pavol, SR		1	518
+565	Turoň Pavel, SR		1	538
+565	Vetráková Anna r. Temniaková 2, SR		1	350
+565	Vetráková Anna r. Temniaková, Školská 253, Hnúšta, PSČ 981 01, SR		0	239,268,308,398
+565	vlastník nie je známy		0	173,251,268,269,270,271,277,290,299,304,309,317,334,380
+566	Adamčik Juraj, SR		1	1179
+566	Adamčíková Mária r. Čurmová, SR		1	1179
+566	Adi Ludvik, SR	ž.Alžbeta r.Drapáková	1	1263
+566	Adiová Alžbeta r. Drapáková, SR	m.Ludvik	1	1263

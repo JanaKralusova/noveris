@@ -1,0 +1,256 @@
+1276	Tutko Juraj	maloletý	0	94,151,152,153,211,571,659,862
+1276	Tutko Juraj	otec Ján	1	30,52,143,391,501,549,655,820,844
+1276	Tutko Juraj	snúbenica Mária Mihaľová, z Koromli	1	820
+1276	Tutko Juraj	snúbenica Mária r.Mihaľová	0	30,501,549,568,569,570,655,656
+1276	Tutko Juraj	z Koronli	1	820
+1276	Tutko Juraj	ž.Mária Kusiková	1	30,71,211,501,505,506,507,549,567,568,653,654,655,656,820,822
+1276	Tutko Juraj	ž.Mária r.Kusiková	0	569,570
+1276	Tutko Michal		0	688
+1276	Tutko Pavol	maloletý	0	151,152,153
+1276	Tutko Peter	maloletý	0	151,152,153,696
+1276	Tutko Štefan	maloletý	0	659
+1276	Tutko Vasiľ		0	94,571,862
+1276	Tutková Anna		0	369,688
+1276	Tutková Anna	maloletá	0	94,571,862
+1276	Tutková Barbora	maloletá	0	94,210,369,430,571,574,862
+1276	Tutková Helena		0	369
+1276	Tutková Mária	mal	1	820
+1276	Tutková Mária r. Mihaľová	m.Juraj	0	47,94,250,255,565,571,652,862
+1276	Tutková Mária r. Tkáčová		1	94,414,430,571,574,646,682,820,862
+1276	Tutková Mitrová	Jánová žena	0	795
+1276	UČITEĽ V Porúbke		0	795
+1276	Uchnárová Alžbeta	mal.z Orechovej	1	821
+1276	Uchnárová Anna r. Vahiľová	muž Michal	1	821
+1276	Uchnárová Mária	mal. z Orechovej	1	821
+1276	Ulahelová Mária r. Kužmová		0	727
+1276	URBÁRSKA OBEC KOLIBABOVCE, 072 61, Kolibabovce, SR		0	116,673
+1276	Vackovská Mária		0	137
+1276	VACKOVSKÝ Juraj		0	30,501,549,655
+1276	Varga Juraj	maloletý	0	764,795
+1276	Varga Michal	ž.Anna r.Ivanková	0	795
+1276	Vargová Anna r. Fiľková	m.Michal	0	775,795
+1276	Vargová Barbora	maloletá	0	795
+1276	Vargová Helena	maloletá	0	795
+1276	Vargová Mária r. Osifová	m.Ján	0	795
+1276	Vivová Fani r. Krausová		0	114
+1276	VODHANEL Vincent		0	770,774
+1276	Vodhanelová Katarína r. Filipová	m.Ján	0	765,775
+1276	Vodhanelová Mária r. Sabová		1	821
+1276	VOK Ján		0	94,571,862
+1276	Vološin Andrej	z Ameriky	1	821
+1276	Vološin Ondrej		1	821
+1276	WEINBERGER Fedor		0	94,571,862
+1276	WEINBERGER Ferdinand		0	30,501,549,655,756
+1276	WEINBERGER Gejza		1	30,71,94,501,505,506,507,549,567,568,569,570,571,653,654,655,656,756,820,822,862
+1276	Weinberger Géjza	Pavlovičova 13, Ungvar	1	820
+1276	WEINBERGER Ilona		0	94,571,862
+1276	Weinberger Izidor	Žipov	1	820
+1276	WEINBERGER Izidor		1	30,94,501,549,571,655,756,820,862
+1276	WEINBERGER Samuel		0	30,501,549,655
+1276	WEINBERGER Sidor		0	71,505,506,507,567,568,569,570,653,654,656,822
+1276	WEINBERGER Teodor		1	30,71,501,505,506,507,549,567,568,569,570,653,654,655,656,756,820,822
+1276	Weinberger Tivador	z Koromli	1	820
+1276	WEINBERGER Vojtech		0	30,501,549,655,756
+1276	Weinbergerová Elena	mal	1	820
+1276	Weinbergerová Elena	maloletá	0	71,505,506,507,567,568,569,570,653,654,656,822
+1276	Weinbergerová Helena	urbárnik	0	797,817,832,833,834,835,836
+1276	Weinbergerová Irena		0	164
+1276	Weinbergerová Tivaber	urbárnik	0	797,817,832,833,834,835,836
+1276	WEIS Leopold		0	281,756
+1276	Weis Ľudovít		1	820
+1276	WEIS Solamon		0	30,501,549,655
+1276	Weisberger Adolf	urbárnik	0	797,817,832,833,834,835,836
+1276	Weisberger Bernát Mór		1	820
+1276	Weisberger Dávid		1	820
+1276	WEISBERGER Majer		0	30,71,501,505,506,507,549,567,568,569,570,653,654,655,656,822
+1276	Weisberger Szidi		1	820
+1276	Weisbergerová Anna r. Krausová		1	820
+1276	Weisbergerová Hermina r. Lebovičová		1	820
+1276	Weisbergerová Irena	mal	1	820
+1276	Weisbergerová Sidi		0	706
+1276	Weisová Mari r. Krausová	muž Lipisk	1	820
+1276	Weisová Mária r. Krausová		0	114
+1276	Weisová Markéta r. Grunfeldová		1	29,30,47,49,96,145,344,501,549,566,629,655,820,830
+1276	Weisz Leopold	urbárnik	0	797,817,832,833,834,835,836
+1276	Wicmandyová Anna r. Hodovancová	zomrela	0	742
+1276	Zahorčák Pavel	ž.Anna r.Michalcová	0	94,571,697,862
+1276	ZAHORČÁK Peter		0	30,112,501,549,655
+1276	Zahorčáková Alžbeta	matka Barbora r.Haľková	0	94,571,862
+1276	Zahorčáková Mária r. Capíková		0	94,571,697,862
+1276	ZAHRÁDKA František		0	795
+1276	ZAHRÁDKOVÁ Anna		0	795
+1276	ZAHRÁDKOVÁ Rozália		0	795
+1276	Zalom Maximová Mária	maloletá	0	727
+1276	ZALOM Michal		0	727
+1276	Zalomová Alžbeta r. Kiškašová	Priekopa, s.č.67	0	116,673
+1276	Zavacká Alžbeta r. Remecká	m.Michal	0	153,211
+1276	Zavacká Anna		0	30,71,211,501,505,506,507,549,567,568,569,570,653,654,655,656,822
+1276	Zavacká Anna	maloletá	0	71,94,153,211,507,571,822,862
+1276	Zavacká Anna r. Ihnátová	m.Štefan	0	96,150,830
+1276	Zavacká Mária		0	71,507,822
+1276	Zavacká Mária	maloletá	0	94,153,211,571,862
+1276	Zavacká Mária r. Kováčová	m.Juraj	0	94,571,862
+1276	Zavacká Mária r. Remecká	m.Michal	0	94,571,862
+1276	Zavacká Štefanová	urbárnik	0	797,817,832,833,834,835,836
+1276	Zavacký Ján		0	94,571,862
+1276	Zavacký Ján	maloletý	0	30,141,163,211,501,549,655
+1276	Zavacký Ján	urbárnik	0	153,211
+1276	Zavacký Juraj	maloletý	0	94,153,211,571,862
+1276	Zavacký Michal		0	30,70,71,211,501,507,549,655,822
+1276	Zavacký Michal	maloletý,otec Štefan	0	94,571,862
+1276	Zavacký Štefan		0	30,501,549,655
+1276	Zavadská Anna		0	505,506,567,568,569,570,653,654,656
+1276	Zavadská Mária		0	505,506,567,568,569,570,653,654,656
+1276	Zavadský Michal		0	505,506,567,568,569,570,653,654,656
+1276	Zavadzká Anna		1	820
+1276	Zavadzká Mária		1	820
+1276	Závadzká Mária	mal	1	820
+1276	Zavadzký Ján		1	820
+1276	Zavadzký Ján	mal	1	820
+1276	Zavadzký Michal		1	820
+1276	Zelmanovičová Mina r. Krausová		0	114
+1276	Zelmanovičová Mina r. Krausová	muž Mor	1	820
+1276	Zismanová Zóli r. Krausová		0	114
+1276	Zismaunová Sali r. Krausová	muž Juda	1	820
+1276	ZSOLNAY David		0	795
+1276	ŽELMANOVIČ David		0	795
+1276	ŽELMANOVIČ Haskel		0	795
+1276	ŽELMANOVIČ Herman		0	795
+1276	ŽELMANOVIČ Markuš		0	795
+1276	ŽELMANOVIČ Pinkas		0	795
+1276	Želmanovičová Roza	maloletá	0	795
+1276	Žeňuch Ján	manž.Alžbeta r.Tkáčová	1	820
+1276	ŽEŇUCH Ján		0	822
+1276	Žeňuch Juraj	Cibavčák	1	24,25,94,430,571,646,682,784,820,862
+1276	Žeňuch Juraj	Hadvab	0	297,443,879
+1276	Žeňuch Juraj	manž.Mária r.Jurasová	1	820
+1276	Žeňuch Juraj	Murga	0	127
+1276	ŽEŇUCH Juraj		1	30,52,96,143,305,391,501,549,655,820,830,844
+1276	Žeňuch Michal	Andrijov, zomrel 26.8.1920	1	820
+1276	Žeňuch Michal	zomrel 26.8.1920	1	30,501,507,549,822
+1276	ŽEŇUCH MURGA Juraj		0	94,571,862
+1276	ŽEŇUCH MURGA Pavol		0	94,571,862
+1276	Žeňuch Pavol	maloletý	0	94,122,571,862
+1276	Žeňuch Pavol	mladší	0	708
+1276	ŽEŇUCH Pavol		0	94,571,708,862
+1276	Žeňuch Štefan		0	270,576
+1276	Žeňuchová Alžbeta		0	175
+1276	Žeňuchová Alžbeta r. Remecká	muž Pavol	1	820
+1276	Žeňuchová Alžbeta r. Timková	m.Juraj	1	30,71,94,101,102,195,198,199,501,505,506,507,549,567,568,569,570,571,653,654,655,656,820,822,845,862
+1276	Žeňuchová Anna	maloletá	0	127
+1276	Žeňuchová Anna r. Kudláčová		1	820
+1276	Žeňuchová Anna r. Timková	m.Ján	0	250,251,721
+1276	Žeňuchová Júlia r. Popovičová	m.Michal	0	94,303,305,495,571,853,854,855,856,862
+1276	Žeňuchová Mária r. Chomičová	m.Michal	0	143,144,391,392,630,844,876
+1276	Žeňuchová Mária r. Jurasová		0	33,126
+1276	Žeňuchová Mária r. Kučmášová		0	29
+1276	Žeňuchová Mária r. Zavadská	m.Ján	0	30,71,501,505,506,507,549,567,568,569,570,653,654,655,656,822
+1276	Žeňuchová Mária r. Zavadzká	muž Ján	1	820
+1277	Andrejov Michal		0	202
+1277	Andrejov Michal	žena Anna	0	202
+1277	Andrejovský Peter	slobodný, t.č. Česká republika	0	169
+1277	Bartko Ján		0	217
+1277	Bartková Mária		0	217
+1277	Boháčová Elena	r. Gardošová	0	213
+1277	Bučko	I	0	218
+1277	Bučko	II	0	218
+1277	Bučko	III	0	218
+1277	CAP Michal		0	56,64,68,218,267
+1277	Čerbová Anna	r. Mačošková	0	215
+1277	Čonková Helena	r. Lukačišinová	0	196,205
+1277	ČONKOVÁ Helena	r.Lukačišinová	1	239
+1277	Dudiňák Juraj		1	196,203,208,209,222,223,239,248,281
+1277	Dudinák Michal		0	196,203,227
+1277	DZAVORONKOVA ANNA R JEVOCINOVA PUDEJ		0	68
+1277	DZAVORONKOVA MARIA R STAUROVSKA		0	64,68
+1277	DZAVORONOK Ján		0	58
+1277	DŽAVORONKOVÁ Anna	r.Jevočinová-Pudejová,zomrela 16.6.1980	1	244,245,246
+1277	DŽAVORONKOVÁ Anna r. Jevočinová		0	56,267
+1277	Džavoronková Mária	r. Staurovská	0	198,211,218
+1277	DŽAVORONKOVÁ Mária	r.Staurovská	1	245
+1277	DŽAVORONKOVÁ Mária r. Staurovská		0	56,267
+1277	DŽAVORONOK Ignác		1	250
+1277	Džavoronok Jacek		0	201
+1277	Džavoronok Mikuláš		0	200
+1277	Fedorčáková Helena	r. Gardošová	0	213
+1277	FEDOROVÁ Helena	r.Šurinová	1	241
+1277	Gecej Ján	slobodný	0	182
+1277	Gecejová Justína	vdova	0	161
+1277	Geci Ján		1	16,251
+1277	Geciová Anna r. Dudiňaková		0	239
+1277	Geciová Mária	r. Vandová	0	208,209,222,223,226,227,281
+1277	GECIOVÁ Mária	r.Vandová	1	248
+1277	Gužová Terézia	r. Jevočinová	0	189
+1277	Hríbová Helena	r. Mačošková	0	218
+1277	HRIBOVA HELENA R MACOSKOVA		0	64
+1277	Hutňanová Anna	r. Lukačišinová	0	196,205
+1277	HUTŇANOVÁ Anna	r.Lukačišinová	1	239
+1277	Jacečková Helena	r. Šurinová	0	221
+1277	Jadlovský Andrej	slobodný	0	171
+1277	JADLOVSKÝ Vasiľ		0	56,64,192,211,218,267
+1277	Jevočin Andrej		0	204,276,277
+1277	JEVOČIN Andrej	zomrel 9.11.1990	1	240
+1277	Jevočin Andrej a Justina Jevočinová r. Chalachanová		0	148
+1277	Jevočin Ján	slobodný	0	178
+1277	Jevočin Ján	zomrel	1	189,212,246
+1277	Jevočin Michal		0	192,198,211,212,214,218,254
+1277	JEVOČIN Michal	Pudej	1	244,246
+1277	Jevočin Michal a Anna Jevočinová r. Hubcejová		0	150
+1277	JEVOČIN Michal-Pudej		0	56
+1277	Jevočin Vasiľ	zomrel, žena Anna	0	204,276,277
+1277	JEVOČIN Vasiľ	zomrel,m. Anna	1	246
+1277	Jevočinová Anna	vdova, r. Bučková	0	143,266,268,269,272,282
+1277	JEVOČINOVÁ Anna	r.Bučková	1	251
+1277	Jevočinová Anna r Bučková		0	16
+1277	JEVOČINOVÁ Helena	maloletá	1	240
+1277	JEVOČINOVÁ Mária		1	240
+1277	JEVOČINOVÁ Terézia		1	240
+1277	Lišková Anna	r. Andrejová	0	203
+1277	LUKACISINOVA ANNA R DZAVORONKOVA		0	64
+1277	Lukačišin Andrej	slobodný	0	170
+1277	Lukačišin Ján		1	16,143,251,266,268,269,272,282
+1277	Lukačišin Ján a Anna Lukačišinová r. Škreptačová		0	157
+1277	Lukačišin Michal		0	16,65,143,190,217,266,268,269,282
+1277	LUKAČIŠIN Michal	1	1	250
+1277	LUKAČIŠIN Michal	4.9.1917,zomrel	1	251
+1277	Lukačišin Šimon		0	190,205
+1277	LUKAČIŠIN Vasiľ	Prituľany	1	239
+1277	Lukačišinová Anna	r. Džavoronková	0	192,218
+1277	LUKAČIŠINOVÁ Anna		0	267
+1277	LUKAČIŠINOVÁ Anna	dcéra Jána	0	56
+1277	LUKAČIŠINOVÁ Anna r. Džavoronková		0	56,267
+1277	LUKAČIŠINOVÁ Helena		0	267
+1277	LUKAČIŠINOVÁ Helena	dcéra Jána	0	56
+1277	LUKAČIŠINOVÁ Mária		0	267
+1277	LUKAČIŠINOVÁ Mária	dcéra Jána	0	56
+1277	Macak Andrej		0	193,259,260
+1277	Macak Ján		0	193,259,260
+1277	Macak Michal		0	193,259,260
+1277	Macoško Ján	syn Michala, zomrel	0	218
+1277	Mačoško Fedor		0	218
+1277	Mačoško Ján	syn Jána, zomrel	0	218
+1277	MAČOŠKO Ján		0	56,267
+1277	MAČOŠKO Michal		0	56,200,267
+1277	Mačoško Vasiľ		0	218
+1277	MAČOŠKOVÁ Katarína		0	56,267
+1277	MAČOŠKOVÁ Terézia		0	56,267
+1277	Mazáková Ilona	r. Jurašková	0	191,258
+1277	Mazáková Mária		0	203
+1277	Paulenková Anna	toho času v Ruskej federácii, r. Vandová	0	215,218
+1277	Paulenková Mária	r. Andrejová	0	203
+1277	PAVLENKOVA ANNA R VANDOVA		0	64
+1277	PAVLENKOVÁ Anna r. Vandová		0	56,267
+1277	Petrocy Adela		0	16
+1277	Petrocy Helena		0	16
+1277	PETROCYOVÁ Adela		1	251
+1277	PETROCYOVÁ Helena		1	251
+1277	PETROCYOVÁ Jolana	r.Haľková	1	251
+1277	Petrocyová Jolana r. Haľková		0	16
+1277	Polivčáková Helena		0	199,200,201
+1277	Sabová Terézia	r. Lukačišinová	0	196,205
+1277	SABOVÁ Terézia	r.Lukačišinová	1	239
+1277	Sahajdová Mária	r. Jevočinová	0	189,212
+1277	SAHAJDOVÁ Mária	r.Jevočinová	1	240,246
+1277	SEMANCO JAN		0	29,207
+1277	Staurovská Anna	r. Geciová	0	226
+1277	STAUROVSKÝ Michal		1	56,198,218,245,267

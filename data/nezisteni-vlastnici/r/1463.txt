@@ -1,0 +1,256 @@
+864	TAKÁCS Štefan	a	1	695
+864	TAKÁCSOVÁ Anna	r.Zsarnocayová	1	695
+864	TAKÁCSOVÁ Etela	r.Martinkovičová	1	815
+864	TAKÁCSOVÁ Helena		1	815
+864	TAKÁCSOVÁ Juliana	r.Királyová	1	773
+864	TAKÁCSOVÁ Mária		1	815
+864	TOTHOVÁ Gizela	r.Keszeli Székháziová	1	805
+864	TOTHOVÁ Verona	r.Záležáková	1	836
+864	VÁGO Emil		1	765
+864	VÁGO Ján		1	748
+864	VÁGO Štefan		1	716
+864	VÁGO Vojtech		1	750
+864	VÁGOVÁ Anna		1	716
+864	VÁGOVÁ Helena	r.Enamová	1	748
+864	VÁGOVÁ Irma	r.Keszeliová	1	716
+864	VÁGOVÁ Valéria	r.Alakszová	1	765
+864	VALKÁROVÁ Etela	mal	1	771
+864	VALKÁROVÁ Juliana	r.Ďuríková	1	817
+864	VALKÁROVÁ Katarína	r.Takácsová	1	822
+864	VANYIK Ján Julis		1	770
+864	VANYIKOVÁ Julia	r.Gáliková	1	770
+864	VASSOVÁ Rozália	r.Mátheová	1	722
+864	VIČIK Imrich		1	726
+864	VIČIKOVÁ Helena	r.Grinaiová	1	728
+864	VIČIKOVÁ Mária	r.Molnárová	1	726
+864	VIČIKOVÁ Žofia	r.Rabeková	1	725
+864	ZÁCSIK Ján		1	729
+864	ZÁCSIK Ľudovit		1	729
+864	ZÁCSIK Michal		1	729
+864	ZAHRADNICSEKOVÁ Amália	r.Zácsiková	1	729
+864	ZALEŽÁK Jozef		1	714
+864	ZALEŽÁK Jozef	a	1	730
+864	ZALEŽÁK Jozef	b	1	843
+864	ZALEŽÁKOVÁ Julia	r.Nagyová	1	714,843
+864	ZEMÁNIK Jozef		1	692
+864	ZEMÁNIKOVÁ Ema	r.Malková	1	692
+865	Blahová Mária r. Šípková		0	206,213
+865	Blahová Zuzana r. Rohoňová		0	343
+865	Cagarda Juraj	manž.Anna r.Búlovská	0	217
+865	Ďurisová Elena r. Jesenská		0	331
+865	Halaša Dušan, Dr.		0	206
+865	Halaša Ján	súrodenci Pavel a Viera, matka Anna r.Mudroňová	0	153,213,214,286
+865	Halaša Pavel, Dr.	súrodenci Ján a Viera, matka Anna r.Mudroňová	0	153,213,214,286
+865	Halašová Anna r. Mudroňová		0	153,213,214,286
+865	Harmaniaková Anna r. Jesenská Pauké		0	324
+865	Herčútová Mária r. Jesenská Benčé		0	206
+865	Hnilicová Mária Anna r. Lukáčová		0	341
+865	Holková Zuzana r. Kučmová		0	30
+865	Ivašková Zuzana r. Volnová	Rusko	0	116,206,213,214
+865	Jablonský Emil		0	10
+865	Jablonský Emil	Amerika	0	318
+865	Jablonský Jozef	zomr.08.01.1994	0	318
+865	Jablonský Štefan		0	10
+865	Jablonský Štefan	Amerika	0	318
+865	Jesenská Anna	slobodná, Dolné Jaseno 4	0	297
+865	Jesenská Anna r. Jesenská Benčé		0	206
+865	Jesenská Darina r. Jamborová	zomrela, T.Štiavnička 84	0	326
+865	Jesenská Martiné Anna	slobodná, Dolné Jaseno 4	0	160,161,162,163,189,190,192,193,258
+865	Jesenská Martiné Anna	súr.Terézia a Emília	0	249
+865	Jesenská Martiné Emília	maloletá, Dolné Jaseno 57	0	188
+865	Jesenská Martiné Emília	súr.Anna a Terézia	0	249
+865	Jesenská Martiné Terézia	súr.Anna a Emília	0	249
+865	Jesenská Zuzana r. Herčútová	manž.Július Jesenský Benčé	0	116,153,213,214,286
+865	Jesenská-Benčé Zuzana r. Herčútová	manžel Július Jesenský-Benčé nar.24.01.1891 manžel Július Jesenský-Benčé nar.24.01.1891	0	42
+865	Jesenský Antalé Ján	manž.Anna Jesenská	0	328
+865	Jesenský Ján		0	331
+865	Jesenský Ladislav		0	304
+865	Jesenský Ladislav	zomr.10.04.2003	0	331
+865	Jesenský Martiné Štefan	Dolné Jaseno 4	0	160,161,162,163,189,190,192,193,258,297
+865	Jesenský Martiné Štefan	Dolné Jaseno 4, manž.Jozefína Jesenská Tobiašé	0	249
+865	Jesenský Štefané Dionýz	Dolné Jaseno 38	0	163,187
+865	Jesenský Štefané Dionýz	manž.Anna r.Jamborová Hribiké	0	98
+865	Jesenský Štefané Dionýz	súr.František	0	249
+865	Jesenský Žiaké Dionýz	manž.Mária Majerčíková	0	176
+865	Karsai Károlyné Margit r. Gerényi	Budapest XV ker Aulich ut.32	0	305
+865	Karšai Paulína r. Jesenská Mihále	brat Ladislav Jesenský Mihále	0	157
+865	Lukáč Ivan	maloletý, po Jozefovi Lukáčovi	0	341
+865	Lukáč Ján		0	341
+865	Lukáč Ondrej		0	341
+865	Lukáčová Katarína r. Csillová		0	341
+865	Lukáčová Mária		0	341
+865	Nosáková Johanna r. Lukáčová		0	341
+865	Pavlovič Magdé Ján	slobodný, Dolné Jaseno 33	0	143
+865	Pavlovič Magdé Žigmund	manž.Anna Pavlovič Magdé, Dolné Jaseno 33	0	143,144,178
+865	Pavlovičová Magdé Anna r. Pavlovičová Magdé	Dolné Jaseno 32	0	195
+865	Perinaj Jozef	manž.Žofia r.Jesenská	0	202
+865	Perinajová Žofia r. Jesenská	manž.Jozef	0	202
+865	Racanová Anna r. Šípková		0	213
+865	Racanová Anna r. Šípková	Amerika	0	206
+865	Rohoňová Anna r. Cagardová	zomr.26.01.1994	0	331
+865	Sumka Ján	maloletý, súr.Mária a Anna Bernátová	0	333
+865	Sumka Ján	súr.Zuzana, Mária, Juraj a Jozef	0	182,201
+865	Sumka Jozef	súr.Zuzana, Mária, Ján a Juraj	0	182,201
+865	Sumka Juraj	súr.Zuzana, Mária, Ján a Jozef	0	182,201
+865	Sumková Mária	maloletá, súr.Ján a Anna Bernátová	0	333
+865	Sumková Mária	slob., súr.Zuzana, Ján, Juraj a Jozef	0	201
+865	Sumková Mária	slobodná, súr.Zuzana, Ján, Juraj a Jozef	0	182
+865	Sumková Zuzana	slob., súr.Mária, Ján, Juraj a Jozef	0	201
+865	Sumková Zuzana	slobodná, súr.Mária, Ján, Juraj a Jozef	0	182
+865	Šípka Jozef r. Šípka	zomr.18.09.2010	0	329
+865	Škrovinová Viera r. Halašová		0	153,213,214,286
+865	Volna Andrej	Rusko	0	116,153,206,213,214,286
+865	Volna Ján	Dolné Jaseno 27	0	311
+865	Volna Juraj	Rusko	0	116,153,206,213,214,286
+865	Záborský Eleké Karol	manž.Gizela r.Pavlovičová	0	278
+865	Záborský Eleké Karol	manž.Gizela rod.Pavlovičová	0	75,370,371
+865	Zorkocyová Margita r. Záborská		0	74,368
+865	Zorkócyová Margita r. Záborská	USA	0	277
+866	Ambrová Paulína r. Hlobíková	Amerika	0	757,758
+866	Balaž Jaroslav		0	113
+866	Balaž Jozef	ž. Anna Bubeničková	0	113
+866	Baroš Ján	Michalov syn	0	453
+866	Baroš Jozef	ž. Mária Bodinová	0	664
+866	Baroš Mikuláš	ž. Katarína Šuveríková	0	168
+866	Baroš Štefan	ž.Žofia r.Križanová	0	353,632
+866	Barošová Mária		0	150,953,954
+866	Biel Ondrej	ž. Matilda Kubová	0	697,700
+866	Biel Pavol	ž. Žofia Cingeľová	0	697
+866	Bielová Matilda r. Kubová		0	697
+866	Bielová Žofia r. Cingeľová		0	697
+866	Bodina Štefan		0	341
+866	Cicková Anna		0	58
+866	Halpuchová Anna r. Hlobiková		0	643,757,758
+866	Hlobík František	Nezvestný	0	643,757
+866	Hlobík Jozef	Nezvestný	0	757
+866	Hlobík Karol	Jánov syn	0	501
+866	Hlobík Pavol	Nezvestný	0	643,757
+866	Kadlecová Žofia r. Hlobíková		0	757,758
+866	Kardoš Ján	ž. Mária Šulyová	0	458
+866	Kardoš Rudolf	St	0	640
+866	Kardošová Anna	Jozefova dcéra	0	458
+866	Kardošová Mária	Jozefova dcéra	0	458
+866	Kardošová Rozália r. Košútová, 017 01, Považská Bystrica, SR		0	359
+866	Kardošová Viktória r. Lieskovská		0	639
+866	Koštial Jozef	ž. Veronika Belanská	0	694,695
+866	Koštialová Irena	dedenie po Koštialová Veronika - Belianská	0	740
+866	Košút Štefan		0	464
+866	Košútová Oľga		0	687
+866	Košútová Štefánia r. Barošová		0	168
+866	Lednická Emília		0	759
+866	Lednický Jozef		0	759
+866	Lieskovská Viktória	dcéra po Jozefovi	0	689
+866	Lieskovský Vojtech r. Lieskovský		0	796
+866	Milko Jozef r. Milko		0	113
+866	Počarovská Alžbeta r. Lieskovská		0	719
+866	Počarovský Karol		0	702
+866	Šmidová Antónia r. Zvonárová		0	696
+866	Štefek Rudolf	ž. Štefánia Hlobíková	0	684
+866	Štefeková Štefánia r. Hlobíková		0	683
+866	Uričeková Katarína r. Zvonárová		0	696
+866	Valašková Karolína r. Hlobíková		0	643,757
+866	Wagnerová Mária r. Balažová		0	113
+867	Bernátová Anna r. Gavelová	Pôvodný zápis r. 1948, Zemiansky Kvášov	0	408
+867	Cingel Anton	ž.Irena r. Počarovská, Morava, pôvodný zápis	0	413
+867	Cingel Ondrej	pôvodný zápis z r. 1948	0	353
+867	Cingel Vendel	pôvodný zápis r. 1948	0	389
+867	Cingelová Irena r. Počarovská, Moravany, SR	pôvodný zápis z r. 1948	0	414
+867	Fabanová Alojzia, Horný Moštenec 163, Považská Bystrica, PSČ 017 01, SR		0	701
+867	Gemelová Jozefína r. Zvaková	Vasilov, pôvodný zápis	0	405
+867	Hančík Tomáš	pôvodný zápis z r. 1948	0	342
+867	Hančíková Anna r. Rychtárech	pôvodný zápis r. 1948	0	359
+867	Havašová Berta	nezvestná, pôvodný zápis z r. 1948	0	427
+867	Hrubčinová Anna r. Podušelová		0	111,227
+867	Kardoš Ondrej	Horný Lieskov, pôvodný zápis z r. 1948	0	398
+867	Kardoš Rudolf	Horný Lieskov, pôvodný zápis r. 1948	0	398
+867	Kardoš Štefan, Horný Lieskov, SR	Horný Lieskov, pôvodný zápis z r. 1948	0	398
+867	Kolek Jozef	ž. A. Mičovská	0	688
+867	Križanová Mária r. Uríková	pôvodný zápis r. 1948	0	395
+867	Kubáňová Verona	r. Kudlová	0	691
+867	Lieskovský Ján	ž. M. Mitašíková	0	682,702
+867	Lieskovský Pavel	ž. Gajdošíková	0	56
+867	Martinková Anna r. Hančíková	Visolaje, pôvodný zápis, m. Gejza	0	407
+867	Melicheríková Katarína r. Uríková	vd., pôvodný zápis z r. 1948	0	430
+867	Mičúch Lukáč	ž. Štefánia r. Lieskovská, pôvodný zápis z r. 1948	0	435
+867	Mitašík Pavol	pôvodný zápis z r. 1948	0	377
+867	Mitašíková Mária r. Čelinská, Amerika, SR	pôvodný zápis z r. 1948	0	424
+867	Možutík Štefan	ž. Karolína r. Mikudíková, pôvod. zápis z r. 1948	0	328
+867	Možutík Štefan	ž. Karolína r. Mikudíková, pôvodný zápis z r. 1948	0	648,875
+867	Oravan Armin	nezvestný, pôvodný zápis r. 1948	0	428
+867	PAULEC MATEJ		0	683,696
+867	Pavlica Martin	pôvodný zápis z r. 1948	0	416
+867	Pavlicová Margita r. Krištofová	pôvodný zápis z r. 1948	0	416
+867	Piaček Štefan	Považská Bystrica, pôvodný zápis z r. 1948	0	401
+867	Podušelová Agneša r. Palíková		0	227
+867	Richtárechová Žofia	Amerika, pôvodný zápis z r. 1948	0	425
+867	Samuelová Štefánia r. Rychtárechová	Čechy, pôvodný zápis z r.1948	0	419
+867	Svitek Augustín r. Svitek, Horný Moštenec 166, Považská Bystrica, PSČ 017 01, SR		0	689
+867	Svitek Ján	Dátum úmrtia 18.06.1979	0	689
+867	Svitek Karol	Dátum úmrtia 19.09.2002	0	689
+867	Šuveríková Margita	pôvodný zápis z r.1948	0	383
+867	ŠUVERÍKOVÁ MÁRIA		0	689
+867	Šuveríková Mária r. Letková	vd., pôvodný zápis z r. 1948	0	433
+867	Urík Matej	ž. Katarína r. Dorincová, pôvodný zápis r. 1948	0	395
+867	Záhradníková Margita	r. Mitašíková	0	682
+868	Bábocka Mária r. Tóthová	po Jozefovi, m. Tomáš	0	1556,1610,1735,1826,1894,1895
+868	BABOCKA MARIA R.TOTHOVA		0	1089,1091,1092,1093,1094,1095,1101
+868	Baková Barbora r. Horniaková	m.Štefan	0	1547,1771
+868	BAKOVA BARBORA R.HORNIKOVA		0	846
+868	BALAZIOVA ALZBETA R.CIGANOVA		0	954
+868	Baláži Ján r. Baláži		0	1562,1567,1569,1571
+868	BARANAIOVA MARIA R.PENZESOVA		0	717,798,799,808,948,982
+868	Baranyaiová Mária r. Pénzešová	po Rozálii Benyusovej	0	1658,1694,1702,1801,1816,1841,1842,1967,2089
+868	BARANYAIOVA MARIA R.PENZESOVA		0	823,958,959
+868	Baráthová Helena dc.  r. Boďová	zomr. 1.11.2009	0	1647,1702
+868	BENUS IMRICH		0	789,790
+868	BENUS IMRICH MAL.		0	903
+868	BENUS JOZEF		0	903
+868	BENUS STEFAN		0	826,1468,1469
+868	BENUS STEFAN MAL.		0	987
+868	BENUS URBAN		0	1069
+868	BENUSA STEFAN MAL.		0	1467
+868	BENUSOVA BARBORA R.POLYAKOVA		0	767
+868	BENUSOVA HELENA		0	750
+868	BENUSOVA MARGITA		0	789,790,903,1469
+868	BENUSOVA MARIA R.FRUNIOVA		0	1506
+868	BENUSOVA MARIA R.FRUNIOVA VD.		0	1506
+868	BENUSOVA ROZALIA R.JOKAIOVA		0	814,892,2008
+868	BENUSOVA ROZALIA R.JOKAYOVA		0	1087,1088
+868	Beňuš Imrich r. Beňuš		0	891,1752,1857,1897
+868	Beňuš Imrich r. Beňuš	po Jozefovi	0	1265,1611,1612,1637,1654,1661,1697
+868	Beňuš Imrich r. Beňuš	po Márii Beňušovej r. Jókaiovej	0	1611,1637,1654,1661
+868	Beňuš Imrich r. Beňuš	zomr. 5.2.1995	0	1265,1554,1555,1556,1654,1661,1692
+868	Beňuš Jozef r. Beňuš	po Magdaléne Beňušovej r. Koprdovej	0	1594,1718,1803,1889
+868	Beňuš Štefan r. Beňuš	po Baltazárovi	0	1594,1718,1803,1889
+868	Beňuš Urban r. Beňuš		0	1697
+868	Beňušová Anna	po Magdaléne Beňušovej r. Koprdovej	0	1594,1718,1803,1889
+868	BEŇUŠOVÁ Júlia r.Uhrinová		0	670,1979
+868	Beňušová Katarína r. Pénzešová		0	1695
+868	Beňušová Magdaléna r. Koprdová	po Jánovi a Alžbete Koprdovej r. Tóthovej	0	1556,1653,1735,1835,1894,1895
+868	Beňušová Margita	po Jozefovi	0	1265,1611,1612,1637,1654,1661
+868	Beňušová Rozália r. Jókaiová	m. Imrich	0	942,1847,1888
+868	BEŇUŠOVÁ ROZÁLIA r. JÓKAIOVÁ		0	690
+868	Boďó Ferdinand r. Boďó		0	1776
+868	Boďó Imrich r. Boďó	zomr. 21.7.2003	0	777,815,964,973,1097,1777,1836,1911
+868	BODO JAN		0	1045,1068,1159,2005
+868	Boďo Ján r. Boďo	ž. Mária r. Jókayová, zomr. 26.11.2001	0	320,1207,1552,1748,1761,1793,1860,2092
+868	BODO JOZEF		0	660
+868	BODO JOZEF	SYN FRANTISKA	0	1115,1116,1117,1339,1480
+868	Boďó Jozef r. Boďó	syn Františka	0	1776
+868	BOĎÓ ŠTEFAN		0	1110
+868	BOĎÓ VINCENT	MAL	0	1108
+868	BODO VINCENT MAL.		0	663
+868	BODO VINCENT MAL.	SYN MICHALOV	0	662
+868	BODOVA ALZBETA	PO JOZEFOVI	0	698,1393
+868	BODOVA ALZBETA R.KOVACOVA VD.		0	720,1046,1080
+868	BODOVA ALZBETA R.PENZESOVA		0	808
+868	Boďová Alžbeta		0	770,773
+868	Boďová Alžbeta r. Jókaiová	zomr. 16.10.1991	0	1595
+868	Boďová Alžbeta r. Kováčová	po Ľudovitovi	0	1313,2041
+868	BODOVA BARBORA R.JOKAIOVA		0	1140,1141,1142,1236,1237,1239
+868	BODOVA BARBORA R.JOKAYOVA		0	1156
+868	BOĎOVÁ HELENA r. BOĎOVÁ		0	1110
+868	BOĎOVÁ JÚLIA		0	1110
+868	BODOVA MARGITA R.DOLNIKOVA		0	702
+868	BOĎOVÁ MÁRIA r. NÉMETHOVÁ	M.STEFAN; M.STEFAN	0	1113
+868	Boďová Mária r. Tarrová	zomr. 15.2.2007	0	188

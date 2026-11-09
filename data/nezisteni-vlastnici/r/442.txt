@@ -1,0 +1,256 @@
+251	Tóth Ondrej, nižný nižný		0	1897
+251	Toth Stefan		0	864,1963,2007
+251	TOTH Tomas		1	787,846,860,902,955,956,1265,1948,2062
+251	Tóth Zoltán	-	0	1491
+251	Tóth Zoltán, - ž. Gizela r. Fábryová - ž. Gizela r. Fábryová		0	1781
+251	Tothova Alzbeta r. Drenkova		1	787,846,859,860,863,1265,1462,2062
+251	Tothova Alzbeta r. Gasparova		0	865,914,958,973,991,1604
+251	Tothova Alzbeta r. Szabova		0	864,2007
+251	Tothova Barbora r. Puskova		0	864,2007
+251	Tóthová Jolana r. Kerekesová		0	925
+251	Tóthová Julianna r. Gergelyová		0	925,1858
+251	Tothova Margita r. Gasparova		0	860,1644,2062
+251	Tóthová Zuzana		0	1873
+251	Üveges Ondrej		0	1519
+251	VAJNER Vojtech		0	865
+251	VAJNEROVA Jolana		0	865
+251	Vanyo Jan		0	865,975
+251	VANYO Ladislav		0	864,865,930,975,2007
+251	Vanyo Ladislav, ž.Alžbeta r.Gášparová ž.Alžbeta r.Gášparová		0	1541
+251	Vanyo Ladislav, ž.Mária r.Tóthová ž.Mária r.Tóthová		0	1996
+251	VANYO Ludovit		1	787,846,859,860,863,865,930,975,1265,1975,2062
+251	Vanyo Ľudovít, --Rožňava --Rožňava		0	1996
+251	Vanyo Ľudovít, -ž.Helena r.Tóthová -ž.Helena r.Tóthová		0	1525
+251	Vanyo Ondrej		0	865,975
+251	Vanyo Ondrej, - -		0	1996
+251	VANYO Stefan		0	864,865,975,1996,2007
+251	VANYO Viliam		1	787,846,859,860,863,865,930,975,1265,1857,2062
+251	Vanyoova Julia r. Dudasova		0	864
+251	Vanyova Helena r. Tothova		0	865,930,975,1863
+251	Vanyova Julia r. Dudasova		0	2007
+251	Vanyova Julia r. Szabova		0	864,2007
+251	Vanyova Maria r. Grobonova		1	787,846,859,860,863,865,1265,1848,2062
+251	VARGA Jozef		0	865
+251	VARGA Ladislav		0	865
+251	VARGOVA Anna		0	865
+251	VARGOVA Helena		0	865
+251	Vasil Ján		0	972,1746
+251	Vesselenyiova Zuzana r. Tothova		0	865,921,922,1771
+251	Vilner Jan		0	865
+251	Zagibova Anna r. Vanyova		0	865,975
+251	ZEMAN Jozef		0	864,2007
+251	Žemlička František		0	1883
+251	Žemlička Ladislav		0	1866
+251	Žemličková Helena r. Molnárová		0	1799
+252	ADRIANY Alžbeta r. Dessewffy		1	306
+252	BAKALAR Ján		1	318
+252	BARLOGH Ján		1	306,307,437,438
+252	BRENIŠINOVÁ Margita r. Novotná		1	275,360,435
+252	Ciganová Zuzana r. Hažerová		1	239,284,331,531
+252	ČOPAK Andrej		1	283,306,307,437,438
+252	DAŇKO Jozef		1	295
+252	DESSEWFFY Ingrid r. Sochová		1	306
+252	DESSEWFFY Mikulaš		1	306
+252	EŠTOK Ján		1	250,307,437,438
+252	FEKETE Agoston		1	271,408,430,431,477
+252	FEKETE Minyhazt		1	271,408,430,431,477
+252	GDOVINOVÁ Božena r. Paľová		1	322
+252	GERČÁKOVÁ Veronika		1	288
+252	GOBANYOVÁ Mária		1	271,408,430,431,477
+252	GOLIAŠ Andrej		1	324
+252	GOLIAŠOVÁ Anna r. Hasarová		1	350
+252	GREGOVÁ Anna		1	348
+252	HALŽA Andrej		1	271,330,477
+252	HALŽA Ján		1	339,340,342
+252	HALŽA Juraj		1	237,257,269,305,308,326,329,336,352,361,368,369,388,400,411,416,417,420,421,422,440,441,444,445,446,447,448,452,453,463,464,465,511
+252	Halža Milan r. Halža, 9. mája 1012/2, Bardejov, PSČ 085 01, SR		1	305,306,308,352,430
+252	Halža Milan r. Halža, 9. mája 1012/22, Bardejov, PSČ 085 01, SR		1	431
+252	Halža Milan r. Halža, 9.mája 2, Bardejov, PSČ 08501, Slovensko		1	288
+252	HALŽOVÁ Anna r. Eštoková		1	279
+252	Hanušová Anna r. Hažerová	Čechy	1	239
+252	HAŽER Juraj		1	306,307,437,438
+252	HAŽER Štefan		1	253,304,331,432,531
+252	Homulková Anna r. Hažerová		1	239,284
+252	HUDAK Jozef		1	350
+252	HUDAK Štefan		1	350
+252	JANČUŠOVÁ Anna r. Gregová		1	320
+252	JUREČKO Andrej		1	306,307,437,438
+252	JUREČKO Ján		1	253,271,311,331,357,430,431,432,477,531
+252	JUREČKOVÁ Anna		1	311,357
+252	KAČMAR Andrej		1	306,307,437,438
+252	Kačmar Juraj		1	306,307,437,438
+252	KAČMAROVÁ Verona r. Gregová		1	320
+252	KATUŠČÁK Andrej		1	248,252,267,306,307,315,325,334,343,348,349,358,372,397,398,399,414,415,418,419,423,424,425,426,427,437,438
+252	KATUŠČÁK Ján		1	252,348,349,437,438
+252	KATUŠČÁKOVÁ Mária		1	348,349
+252	KMECIK Andrej		1	271,292,306,307,337,344,365,430,431,437,438,477
+252	KMECIK Ján		1	288,292
+252	KMECIKOVÁ Anna		1	288,292,365,376
+252	KMECIKOVÁ Mária		1	288,292,344,365
+252	KOHANYI Alajos		1	271,408,430,431,477
+252	KORTVELYESOY Gustav		1	271,408,430,431,477
+252	KOSA Ferenc		1	271,408,430,431,477
+252	KOSZEGY Antal		1	300
+252	KOSZEGY Jozef		1	300
+252	KOVAĽOVÁ Mária r. Gregová		1	320
+252	KUCHARIK Ján		1	292
+252	KVOKAČKOVÁ Anna r. Hažerová		1	253,304,331,432,531
+252	LUNIK Tomáš		1	295
+252	LUNIKOVÁ Anna		1	295
+252	LUNIKOVÁ Mária		1	295
+252	MAJERNÍK Andrej		1	313
+252	MAJERNÍK Tomáš		1	314
+252	MAJERNÍKOVÁ Mária r. Bakalarová		1	321
+252	MARKOVÁ Zuzana r. Sotaková		1	350
+252	MATISOVÁ Mária		1	358
+252	MIHOC Ján		1	297
+252	NOVOTNÝ Juraj		1	275,288,360,435
+252	OLEJÁR Tomáš		1	306,307,437,438
+252	ONDUSKO Ján		1	292
+252	ONDUSKOVÁ Anna		1	360
+252	ONDUSKOVÁ Anna r. Tomková		1	288
+252	ONDUSKOVÁ Ilona		1	288,306
+252	ONDUSKOVÁ Mária		1	275,288,360,435
+252	ONDUSKOVÁ Zuzana		1	288
+252	ONDUSKOVÁ Zuzana r. Antoliková		1	237,253,257,269,311,331,357,368,369,388,411,416,417,420,421,422,432,440,441,444,445,446,447,448,452,453,511,531
+252	PAĽA Andrej		1	255,271,278,306,307,430,431,437,438,477,482
+252	PAĽA Ján		1	271,430,431,477
+252	PAĽA Michal		1	278,482
+252	PAĽA Tomáš		1	278,482
+252	PALYA Andras		1	288
+252	PETRAŠKOVÁ Anna r. Billá		1	294
+252	POLYA Andrej		1	292
+252	REMETA Andrej		1	350
+252	REMETA Juraj		1	352
+252	REMETOVÁ Alžbeta r. Ondusková		1	302,306,307,437,438
+252	REMETOVÁ Anna		1	350
+252	REMETOVÁ Mária r. Palyová		1	288,292
+252	ROJOVÁ Anna r. Paľová		1	362,363
+252	ROZKOŠOVÁ Anna r. Novotná		1	275,360,435
+252	RUBIN Samuel		1	350
+252	SABOL Andrej		1	273,292,312,341,490,491
+252	SABOL Dušan		1	323
+252	SABOL Ján		1	307,437,438
+252	SABOL Jozef		1	296
+252	SABOLOVÁ Anna r. Vaňková		1	296
+252	SEMSEY Vincent		1	271,408,430,431,477
+252	SCHNEIDEROVÁ Anna r. Šestáková		1	323
+252	SMILAČEK Andrej		1	345,350
+252	SOTAK Juraj		1	350
+252	SULARYOVÁ Anna r. Sotaková		1	350
+252	ŠESTÁK Tomáš		1	323
+252	ŠLOSÁROVÁ Alžbeta		1	246,263,401,402,403,457,458,459,460,469,485,486,487
+252	ŠLOSÁROVÁ Zuzana		1	246
+252	Tomaško Ján		1	240
+252	VINKLER Andras		1	300
+252	VOJTEK Martin		1	294
+252	VOJTEKOVÁ Zuzana r. Billá		1	294
+252	WINKLER Andras		1	300
+252	WINKLER Beni		1	300
+252	ZADNY Ferenc		1	271,408,430,431,477
+252	ZALEHA Ján		1	281
+253	Agácsová Priška	r.Hamran	0	2334
+253	BAJKAI Alžbeta	r.Tokodiová	0	309
+253	Bajkai Ján	r.Bajkai	0	2329
+253	Bajkai Janos	r.Bajkai,pkv 368; r.Bajkai,pkv 368	0	2330
+253	BAJKAIOVÁ Alžbeta	r.Tokodiová,m.Andrej	0	1038
+253	Bajkaiová Eva		0	2459
+253	BAJKAIOVÁ Julianna		0	1797
+253	Bajkaiová Zuzana	r.Perseiová,m. Ján	0	591,1335
+253	BAJKAIOVÁ Zuzanna	r.Hajduová	0	2310
+253	BÁLIOVÁ Alžbeta	r.Gálová	0	471,2358
+253	Barach Bendek	r.Barach,Dr	0	2227
+253	BARCSIOVÁ Zuzana	r.Csekesová	0	2049
+253	BARSIOVÁ Eva	r.Kerekesová	0	1358,2019
+253	BARSIOVÁ Rozália	r.Méri	0	2501
+253	BARTALOVÁ Margita	r.Vargová	0	1672
+253	BAVSIOVÁ Eva	r.Kerekesová,manž.Ján	0	2382,2523,2556
+253	Bello Ján	r.Bello,Dr	0	1440,1441,2258
+253	Berke Július	r.Berke	0	1672
+253	BERKEIOVÁ Vilma		0	1672
+253	Bernáth Ján	r.Bernáth,čd.1790/1907	0	1253,2102
+253	Bernáth Jozef	r.Bernáth	0	1244,1254
+253	Bernáth Štefan	r.Bernáth	0	1193,1195,1939,2007
+253	BERNÁTHOVÁ Alžbeta		0	1798,1799,2486
+253	BERNÁTHOVÁ Alžbeta	r.Csekesová,m.Ondrej	0	2311
+253	BERNÁTHOVÁ Júlia		0	1193,1195,1939,2007
+253	BERNÁTHOVÁ Júlia	r.Csekesová	0	2267
+253	Bernáthová Julianna		0	1798,1799,2486
+253	BIHARIOVÁ Žofia	r.Pórová,vd	0	778,2140
+253	Bogárová Irma	r.Szabová	0	2096
+253	BÚČSKY Železiarsky Spolok		0	2292
+253	Cibor Štefan	r.Cibor	0	2094
+253	CSEKES Eva		0	2382,2523,2556
+253	CSEKES Ida		0	1650
+253	Csekes Ján	r.Csekes	0	2550
+253	Csekés János	r.Csekés	0	2451
+253	Csekes Jozef	r.Csekes,manž.Zuzana pál	0	2392
+253	Csekes Lajos	r.Csekes	0	1260
+253	Csekes Samuel	r.Csekes	0	2262,2405
+253	Csekes Stefan	r.Csekes,mal	0	2267
+253	Csekes Štefan	r.Csekes,manž.Júlia r.Bernátová	0	1171
+253	Csekesová Alžbeta	r.Marcsová	0	1382
+253	CSEKESOVÁ Alžbeta		0	2318
+253	CSEKESOVÁ Alžbeta	r.Hatyinaová	0	1833
+253	CSEKESOVÁ Alžbeta	r.Hatyinová	0	1834,2520
+253	CSEKESOVÁ Alžbeta	r.Szecseiová	0	1446,1814
+253	CSEKESOVÁ Ida	r.Csekesová	0	2318
+253	Csekesová Irma	r.Leštárpvá	0	1164
+253	CSEKESOVÁ Julia	mal	0	2474
+253	CSEKESOVÁ Júlia	r.Bernátová,m.Stefan	0	1171
+253	CSEKESOVÁ Júlia	r.Csekesová,m.Lajos	0	1893
+253	CSEKESOVÁ Júlia	r.Kerekesová	0	2150
+253	Csekesová Julianna	mal	0	471
+253	CSEKESOVÁ Julianna	r.Csengerová	0	2295
+253	CSEKESOVÁ Julianna	r.Kerekesová,m.András	0	2151
+253	CSEKESOVÁ Vilma		0	933
+253	Csenger Alexander	r.Csenger	0	273
+253	Csenger András	r.Csenger	0	1311,2177
+253	Csenger Ferencz	r.Csenger	0	1311,2177
+253	Csenger Ján	r.Csenger	0	1311
+253	Csenger János	r.Csenger	0	2177
+253	Csenger Jozef	r.Csenger,ž.Domongos Sára	0	2322
+253	Csenger Mihály	r.Csenger	0	2322
+253	Csenger Sándor	r.Csenger	0	1256,1311,1675,2177,2281
+253	Csenger Zigmund	r.Csenger	0	1311
+253	CSENGEROVÁ Alžbeta	r.Csengerová	0	2400
+253	CSENGEROVÁ Zuzanna		0	2177
+253	Cserepes Andrej	r.Cserepes,ml	0	1785
+253	Cserepes Jozef	r.Cserepes	0	2495
+253	Cserepes Jozef	r.Cserepes,PKV 2001	0	2393
+253	Cserepes Šarlota		0	2410
+253	CSEREPES Šarlota	D 650/49	0	1321,1708
+253	CSEREPESOVÁ Alžbeta	r.Szabová	0	2095
+253	Cserepesová Alžbeta r.Pálová		0	1298
+253	Cserepeš Jozef	r.Cserepeš,ž.Alžbeta r.Pálová	0	1317,1707,2782,2784
+253	CSOMOROVÁ Julianna		0	1015
+253	Cúth Ferenc	r.Cúth	0	2098
+253	CZIBOR Erzébet		0	2286
+253	Czibor János	r.Czibor	0	2286
+253	Czibor Štefan	r.Czibor,mal	0	273,1662,2095
+253	Cziborová Klára	r.Szabová	0	2078,2096
+253	CZIBOROVÁ Zuzana	r.Pálová	0	2524,2544
+253	CZÚT Ilona		0	1571,1596,2376,2802
+253	Czút Lajos	r.Czút	0	1571,1596,2376,2802
+253	Czúth Ferenc	r.Czúth	0	2460,2554,2559
+253	Czúth Ján	r.Czúth,z Pkv 1600	0	1178
+253	Czúth Ludovít	r.Czúth	0	1597
+253	Czúth Ĺudovít	r.Czúth,mal	0	1593
+253	CZÚTHOVÁ Ilona	mal	0	1593,1597
+253	Čekes Ondrej	r.Čekes	0	2280
+253	Dávid János	r.Dávid	0	1281
+253	DÁVIDOVÁ Alžbeta	r.Seresová	0	2390,2400
+253	DAVIDOVÁ Zuzanna	r.Vargová,m.Ľudovít	0	2530
+253	DISAJOVÁ Anna		0	2259
+253	Dobai Andrej	r.Dobai	0	1149,1150,1151,2536
+253	Dobai Janos	r.Dobai,mal	0	2095
+253	DOBAIOVÁ Julianna	r.Vargová	0	2499
+253	DOBAIOVÁ Júlianna	r.Vargová,m.Ján	0	425
+253	Dobaiová Zuzanna	r.Nagyová,m.Ondrej	0	2095
+253	Dobaiová Žofia		0	1149,1150,1151
+253	Domonkos Ján	r.Domonkos	0	1171,2266,2512
+253	DOMONKOSOVÁ Júlia	r.Kocsiová	0	1171
+253	DOMONKOSOVÁ Júlia	r.Tárnoková	0	2560
+253	DOMONKOSOVÁ Júlia	r.Tárnoková,m.František, čd.1886/1933	0	2176
+253	Domonkosová Mária	r.Hacsková	0	1171,2266
+253	DOMONKOSOVÁ Žofia	r.Ketyiová	0	2270,2607

@@ -1,0 +1,256 @@
+2082	RIMÓCZI Michal		0	1063
+2082	RIMÓCZI Mikuláš		0	748
+2082	RIMÓCZIOVÁ Mária		0	757
+2082	RIMÓCZIOVÁ Terézia	rod.Péterová	0	755
+2082	ROZEMBERSZKÝ Miroslav		0	895
+2082	SAMSONOVÁ Alžbeta	rod.Geregaiová	0	889,890,929
+2082	Sečanský Štefan		1	1365
+2082	SCHMIDT Gejza		0	993
+2082	SCHMIDT Gejza	manž.Irena rod.Kováčová	0	1000
+2082	Schmidt Jozef		1	843
+2082	Siket Ján	mal	1	726
+2082	Siket Jozef	mal	1	726
+2082	Siket Juraj	mal	1	726
+2082	Siketová Mária	mal	1	726
+2082	Siketová Zuzana	r.Hegedüsová /m.Jozef/	1	1468
+2082	SLADOVNÍK Jozef		0	734
+2082	SLADOVNÍKOVÁ Anna	rod.Tóthová	0	734
+2082	SLANINKA Bertalán		0	905
+2082	SVOMA Juraj		0	906
+2082	SZABÓ Ignác		1	1280,1391
+2082	SZABÓ Imrich		0	1110,1280
+2082	Szabó Imrich, SR	zom.25.04.1970	1	1391
+2082	SZABÓ Ján	manž.Anna rod.Rimóciová	0	1046
+2082	Szabó Jozef		1	1391
+2082	SZABÓ Jozef	ml	0	1280
+2082	SZABÓ Juraj		0	791,828,1281
+2082	SZABÓ Karol		1	1280,1391
+2082	Szabó Michal		1	730,772,828,1101,1105,1281,1475,1521,1542
+2082	SZABÓ Štefan		0	772
+2082	Szabová Alžbeta	r.Hečeiová /m.Michal/	1	843
+2082	SZABOVÁ Alžbeta	rod.Hečeiová	0	795,817,826,991
+2082	Szabová Elena	r.Szabová	1	1369
+2082	Szabová Helena		1	730,772,791,828,1105,1281
+2082	SZABOVÁ Mária		0	828
+2082	Szabová Rozália	r.Hečeiová	1	1369
+2082	SZABOVÁ Rozália	rod.Hečeiová	0	774,819,1146
+2082	SZABOVÁ Rozália	rod.Rimóciová	0	1180,1255,1273
+2082	SZABOVÁ Verona		0	791
+2082	SZEGEDIOVÁ Mária	rod.Litavská	0	865,917
+2082	SZENDRÓ Karol		0	1325
+2082	SZIVÁKOVÁ Mária	rod.Polyovková	0	907
+2082	ŠÁNDOROVÁ Mária		0	848
+2082	ŠIKET Ján		0	1059,1108,1109,1244,1313
+2082	Šiket Ján, SR	zom.24.12.1977	1	843
+2082	ŠIKET Jozef		0	1301
+2082	ŠIKET Juraj		0	1059,1108,1109,1244
+2082	ŠIKET Karol		0	1257
+2082	Šiketová Anna	r.Hajnárová a	1	483
+2082	Šiketová Anna	r.Hajnárová b	1	843
+2082	ŠIKETOVÁ Anna	rod.Hajnárová	0	837,1164,1255,1273,1286
+2082	ŠIKETOVÁ Mária		0	732,813,1059,1109,1270
+2082	ŠIKETOVÁ Verona		0	1145,1149
+2082	ŠIKETOVÁ Verona	rod.Hečeiová	0	1101,1105,1475,1521,1542
+2082	ŠIKETOVÁ Verona	rod.Hegedúšová	0	1182,1232
+2082	ŠIKETOVÁ Verona	rod.Košíková	0	1177,1237
+2082	ŠIKETOVÁ Verona	rod.Szabová	0	791
+2082	ŠIKETOVÁ Zuzana	rod.Hegedúšová	0	1182,1210,1250
+2082	Škultéty Peter		1	1365
+2082	ŠTEFÁNIKOVÁ MÁRIA		0	1475,1521,1542
+2082	Štefániková Mária r. Košíková		0	1101
+2082	ŠTEFIKOVÁ Žofia	rod.Vargová,manž.Jozef	0	1091,1099,1100,1101,1475,1521,1542
+2082	ŠURÁNIOVÁ Magdaléna	mal	0	1252
+2082	ŠURÁNYI Henrik		0	1018,1101,1105,1250,1475,1521,1542
+2082	ŠURÁNYI Jindrich		0	1188
+2082	Šurányiová Magdaléna	nezl	1	1170
+2082	ŠURÁNYIOVÁ Magdaléna		0	1238
+2082	Švelka Ján		1	1365
+2082	Švelka Michal		1	1365
+2082	Tolnaiová Veronika	Kapuszta	1	1363
+2082	Töröková Helena r. Ballová		0	875
+2082	TÓTH Alexander		0	1099,1100,1101,1475,1521,1542
+2082	TÓTH Ján		0	1224
+2082	Tóth Jozef		1	617,867,1099,1100,1101,1224,1475,1521,1542
+2082	TÓTH Juraj		0	892
+2082	TÓTH Ľudovít		0	1101,1475,1521,1542
+2082	TÓTH Móric		0	872
+2082	TÓTH Vojtech		0	1133
+2082	Tóthová Mária		1	617,867
+2082	Tóthová Mária	r.Boldogová	1	1155,1471
+2082	TÓTHOVÁ Mária	rod.Boldogová	0	1271,1472
+2082	TÓTHOVÁ Matilda	rod.Pintešová	0	1272
+2082	TÓTHOVÁ Verona	rod.Jergyíková	0	766,802,807,823,1156
+2082	Tóthová Zuzana		1	617,867,872
+2082	TRABJAN Gejza		0	903
+2082	TRABJANOVÁ Zuzana	rod.Hamariová	0	903
+2082	URBÁN Juraj		0	1098,1099,1100,1101,1475,1521,1542
+2082	URBÁNOVÁ Angela		0	1101,1475,1521,1542
+2082	VADÁSZOVÁ Lilla	rod.Szendrová	0	1325
+2082	Valentová r. Csesztvenová		0	909
+2082	VALKO Ján		0	880
+2082	VALKOVICS Jozef		0	881,882,887
+2082	VALKOVICS Július		0	882
+2082	VALKOVICS Ľudovít		0	881,882,887
+2082	VALKOVICSOVÁ Alžbeta		0	881,882,887
+2082	VALKOVICSOVÁ Júlia		0	881
+2082	Vanková Katarina	r.Hegedüsová /m.Imrich/	1	1398
+2082	VANKOVÁ Katarína	rod.Hegedúšová	0	1173,1239,1277
+2082	VARGA Anton Nitra		0	1542
+2082	VARGA Ján		0	931,1042,1091,1099,1100,1101,1475,1521,1542
+2082	VARGA Michal, 991 07 Opatovská Nová Ves		0	1542
+2082	VARGA Mikuláš		0	1091,1099,1100,1101,1475,1521,1542
+2082	VARGA Štefan		0	1091,1099,1100,1101,1475,1521,1542
+2082	Vargová Anna r. Bahylová		0	1307
+2082	VESELOVSKÝ František		0	852
+2082	VILLI Michal		0	919
+2082	VLKOLENSKÁ Helena		0	767,1115,1118,1135,1181,1199,1205,1208,1233
+2082	VLKOLENSKÁ Mária	rod.Hajnárová	0	1302
+2082	VLKOLENSKÁ Zuzana		0	1303
+2082	VLKOLENSKÝ Imrich		0	767,1115,1118,1135,1181,1205,1208,1233
+2082	VLKOLENSKÝ Ján		0	767,1115,1118,1135,1181,1199,1205,1208,1233
+2082	VLKOLENSKÝ Jozef	ml	0	1129
+2082	VLKOLENSKÝ Juraj		0	767,1115,1118,1135,1181,1205,1208,1233
+2082	VLKOLENSKÝ Martin		0	1319
+2082	VLKOLENSKÝ Štefan		0	767,1115,1118,1135,1199,1205,1208,1319
+2082	Záhorcová Helena		0	167
+2082	ZAHOREC MICHAL		0	167
+2082	Záhorec Michal, SR		0	879
+2082	ZÁHORECOVÁ Anna		0	879,1116
+2082	ZÁHORECOVÁ Mária		0	879
+2082	ZAŤKO Ján		0	755,756,1511,1514
+2082	ZAŤKOVÁ Rozália	rod.Péterová	0	755,756,1511,1514
+2082	Zöllei Ján	manž. Zuzana rod. Pásztorová	0	1101,1105,1475,1521,1542
+2082	Zöllei Martin		0	1262,1285,1287
+2082	Zöllei Štefan, SR	zom. 15.11.2000	1	1382
+2082	Zölleiová Anna r. Hegedúšová		0	1277
+2082	Zölleiová Mária		0	792,1265,1290
+2082	Zölleiová Zuzana	r.Péterová /m.Ján/	1	1379
+2082	Zölleiová Zuzana r. Hivešová		0	1129
+2082	Zölleiová Zuzana r. Pásztorová		0	1316
+2082	Zsjaková Rozália		0	795
+2082	Žiak Ondrej		0	1020
+2083	Bajnok Žigmund, SR		1	1259
+2083	Bajnoková Katarína r. Rupp, SR		1	1260
+2083	Baloghová Viola r. Tarcsi, SR		1	1262
+2083	Bartal Ladislav, SR		1	1263
+2083	Bartalosová Estera r. Tóthová		0	2024
+2083	Bartalosová Johana r. Rácz, SR		1	1265
+2083	Beke Dezider		0	835,1889
+2083	Beke Koloman	ž.Jolana r.Lászlóová	0	1977
+2083	Bekeová Irena, SR		1	1270
+2083	Bekeová Jolana r. Lászlóová		0	1559,1984
+2083	Bereczká Johana r. László, SR		1	1272
+2083	Bereczkyová Johana		0	728,1811
+2083	Bihercz Ignác, SR		1	1274
+2083	Biherczová Alžbeta r. Bereczki, SR		1	1275
+2083	Bírová Helena r. Németh, SR		1	1276
+2083	Bírová Karolína, SR		1	1277
+2083	Borková Gizela r. Madarász, SR		1	1278
+2083	Borková Vilma r. Ollé, SR		1	1279
+2083	Both Július, SR		1	1280
+2083	Both Koloman, SR		1	1281
+2083	Breuer Albín		0	835
+2083	Breuer Alexander		0	835
+2083	Breuer Eugen		0	835
+2083	Breuer Samuel		0	835
+2083	Breuer Zoltán		0	1889
+2083	Brinziková Alžbeta	maloletá	0	1879
+2083	Brinziková Emília	maloletá	0	1879
+2083	Brinziková Irena	maloletá	0	1879
+2083	Bukor Albert	ž.Irena r.Göghová	0	2005
+2083	Bukor Albert, SR		1	1165,1286
+2083	Bukovčan Martin	ž.Katarína r.Zmeková	0	1726
+2083	Bukovčanová Katarína r. Zmeková	m.Martin	0	1726
+2083	Csápai František, SR		1	1294
+2083	Csapai Štefan		0	715,1894
+2083	Csápaiová Mária r. Fazekas, SR		1	1295
+2083	Csapaiová Viktória		0	715,1894
+2083	Csémi Koloman, SR		1	1296
+2083	Csémiová Ester r. Mikos, SR		1	1297
+2083	Csémiová Karolína r. Écsi, SR		1	1298
+2083	Csermurová Katarína r. Lászlóová	m.Konštantín	0	1878
+2083	Csornaová Kristína r. Lászlóová		0	1559
+2083	Domcsicsová Alžbeta		0	1907
+2083	Domonkos Dezider	ž.Justína r.Bartolosová	0	1975
+2083	Domonkos Gabriel		0	2026
+2083	Domonkos Gabriel	maloletý,súr.Vojtech,Mária,Júlia,Gustáv	0	1976
+2083	Domonkos Gejza	Karolov syn	0	1975
+2083	Domonkos Gustáv	maloletý,súr.Vojtech,Mária,Júlia,Gabriel	0	1976
+2083	Domonkos Karol	ž.Mária r.Vendéghová	0	1975
+2083	Domonkos Vincent	Karolov syn	0	1975
+2083	Domonkos Vojtech	maloletý,súr.Mária,Júlia,Gabriel,Gustáv	0	1976
+2083	Domonkosová Ella, SR		1	1308
+2083	Domonkosová Eva	maloletá,súr.Vojtech,Mária,Júlia,Gabriel	0	1976
+2083	Domonkosová Júlia	maloletá,súr.Vojtech,Mária,Gabriel,Gustáv	0	1976
+2083	Domonkosová Mária	maloletá,súr.Vojtech,Júlia,Gabriel,Gustáv	0	1976
+2083	Farkasová Hermína r. Bajnok, SR		1	1319
+2083	Farkasová Juliana r. Lőrincz, SR		1	1320
+2083	Farkaš Ján		0	1727
+2083	Fazekas Vincent		0	1955
+2083	Fazekasová Gizela		0	1955
+2083	Fazekasová Sidónia		0	1955
+2083	Fehérová Helena, SR		1	1321
+2083	Fekete Ondrej		0	1712
+2083	Ferenczi Rudolf		0	1710
+2083	Ferencziová Matilda r. Szalayová		0	1710
+2083	Filkóová Etela r. Földesová	m.Jozef	0	2001
+2083	Fitosová Karolína r. Őszi, SR		1	1324
+2083	Fonód Antonin		0	1911
+2083	Fonód Antonín	maloletý,sestra Juliana vyd.Füssyová	0	2021
+2083	Forgács Imrich, SR		1	1326
+2083	Forgács Ľudovít, SR		1	1327
+2083	Forgácsová Terézia, SR		1	1328
+2083	Foukalová Margita r. Szénasi, SR		1	1185,1329
+2083	Frickerová Julianna r. Zsemlye, SR		1	1331
+2083	Füssyová Juliana r. Fonódová		0	2021
+2083	Gaalová Amália r. Kiss, SR		1	1336
+2083	Gögh Šimon	ž.Rozália r.Nagyová	0	2003
+2083	Gögh Vavrinec	ž.Karolína r.Bukorová	0	2002
+2083	Goghová Júlia r. Madarász, SR		1	1337
+2083	Göghová Rozália r. Nagyová	m.Šimon	0	2003
+2083	Győreová Gizela r. László, SR		1	1348
+2083	Halaszi Koloman, SR		1	1351
+2083	Horák Štefan		0	1726
+2083	Horváth Jozef ml.		0	1724
+2083	Horváthová Agneša r. Benkovicsová	manž.Jozefa	0	1724
+2083	Horváthová Hermína r. Jasko, SR		1	1352
+2083	Horváthová Justina r. Végh, SR		1	1353
+2083	Huszár Koloman, SR		1	1354
+2083	Inczédi Jozef		0	1877
+2083	Javorka Edmund, SR		1	1355
+2083	Jávorka Jozef		0	1721
+2083	Jávorka Štefan		0	1711
+2083	Jávorkaová Irena r. Feketeová		0	1721
+2083	Javorková Etela, SR		1	1451
+2083	Jedlička František	maloletý	0	1878
+2083	Kiss Žigmund, SR		1	1358
+2083	Kissová Františka r. Őszi, SR		1	1359
+2083	Kissová Kornélia r. Lászlóová		0	1994
+2083	Klein Imrich Dr.		0	1963
+2083	Kocsis Peter		0	1707
+2083	Kocsis Vendelín		0	1718
+2083	Kocsisová Mária r. Urbánová		0	1707
+2083	Köles Flórián		0	1821
+2083	Köles Imrich		0	1700
+2083	Köles Štefan		0	1700,1993
+2083	Kölesová Mária r. Kissová		0	1700
+2083	Kölesová Mária r. Kissová	manž.Štefana	0	1720
+2083	Kölesová Terézia r. Pusztaiová	m.Michal	0	692
+2083	Kondéová Mária r. Varga		1	1363
+2083	Korosiová Mária r. Németh, SR		1	1364
+2083	Kothová Helena r. Breuerová	m.Elemír	0	835
+2083	Kovács Július		0	1972
+2083	Kovács Karol, SR		1	1366
+2083	Kovács Ladislav		0	1714
+2083	Kovács Žigmund, SR		1	1367
+2083	Kovácsová Alžbeta r. Paulusová		0	1714
+2083	Kovácsová Jolana r. Tarcsi, SR		1	1369
+2083	Kovácsová Mária r. Vízváry, SR		1	1370
+2083	Kováč Ladislav ml.		0	1714
+2083	Kováčová Johanna	m.Štefan	0	2016
+2083	Krascsenics Ján		0	1708
+2083	Krascsenicsová Mária r. Bíróová		0	1708
+2083	Kuruczová Barbora r. Sárköziová	m.Michal	0	1966
+2083	Lakatosová Ilona r. Lakatos, SR		1	1372
+2083	Lakóová Anna	maloletá	0	1877
+2083	László Pavol		0	1897,1986

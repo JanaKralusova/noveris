@@ -1,0 +1,256 @@
+325	Petríková Helena	Čaka 142	0	2296
+325	Petríková Helena, Čaka 142, Čaka, PSČ 935 68, SR		0	780,1360,1373,1436,2329,2330,2347,2349
+325	PETRÍKOVÁ Mária r. Špaňová		0	2291
+325	PINTER Jonáš		0	780,1360,1373,1436,1490,2329,2330,2347,2349
+325	PINTER Ľudovít		0	1949
+325	PINTER Viliam		0	780,1360,1373,1436,1490,2329,2330,2347,2349
+325	PINTEROVÁ Júlia		0	645,2113
+325	PINTEROVÁ Mária r. Kotruszová		0	645,2291
+325	PORUBSZKÁ Alžbeta		0	2291
+325	PORUBSZKÁ Julianna		0	2291
+325	PORUBSZKÁ Katarína		0	1963
+325	PORUBSZKÁ Mária		0	1551
+325	PORUBSZKI Andráš		0	2291
+325	PORUBSZKI Florián		0	2291
+325	PŠENICOVÁ Alžbeta r. Archelová		0	1490
+325	Rašman Ján	ml	0	578,1077,1198,1896
+325	RAŠMAN Ján		0	441,578,659,1077,1165,1191,1302,1325,1490,1875
+325	RAŠMAN Jozef		0	1165,1548
+325	Rašman Michal	nezv	0	2182
+325	RAŠMAN Michal		0	1490
+325	RAŠMANOVÁ Alžbeta		0	1165,1964
+325	RAŠMANOVÁ Katarína r. Špaňová		0	590,1153,2166
+325	REMEŇOVÁ Františka r. Baňárová		0	1070,2270
+325	REMEŇOVÁ Mária r. Dudášová		0	1457
+325	RICHTER Barbora		0	1766
+325	RICHTER Regina		0	2086
+325	Richterová Barbora		0	1330
+325	Richterová Helena r. Drahošová		0	1654
+325	Richterová Regina r. Neubauerová		0	532
+325	Rubint Michal	Vigláš	0	780,1360,1373,1436,1490,2329,2330,2347,2349
+325	Rubintová Mária r. Špaňová		0	1094,1095,1096,1097,2130
+325	Sádovská Katarína r. Špaňová		0	780,1153,1360,1373,1436,1463,2329,2330,2347,2349
+325	Sádovská Mária r. Vážna	Ondrejovská 5, Dolný Pial	0	1490
+325	Sádovská Mária r. Vážna, Ondrejovská 5, Dolný Pial, PSČ 935 37, SR		0	780,1360,1373,1436,2329,2330,2347,2349
+325	SÁDOVSKÝ Štefan		0	1687
+325	Sásaiová Mária	ml	0	645,2291
+325	Sásaiová Rozália r. Kováčová		0	517,820,1625
+325	SEVEROVÁ Alžbeta		0	1189,1558,2335
+325	SKACKALA Ján		0	1049,2177
+325	Skackala Jozef	Dedinka 252	0	2296
+325	SKACKALA Jozef		0	555,1049,1880,2427
+325	Skackala Jozef, Dedinka 252, Dedinka, PSČ 941 50, SR		0	780,1360,1373,1436,2329,2330,2347,2349
+325	Skackala Peter	Dedinka 54	0	2296
+325	Skackala Peter, Dedinka 54, Dedinka, PSČ 941 50, SR		0	780,1360,1373,1436,2329,2330,2347,2349
+325	Skackala Štefan	Čaka 70	0	2296
+325	Skackala Štefan, Čaka 70, Čaka, PSČ 935 68, SR		0	780,1360,1373,1436,2329,2330,2347,2349
+325	SKACKALOVÁ Alžbeta r. Bieliková		0	1163,1787
+325	SLÁVIK Ján		0	780,810,1360,1373,1436,1899,2329,2330,2347,2349
+325	SLÁVIK Jozef		0	810,1876
+325	Slávik Ľudovít	ž. Júlia r. Skackalová	0	1360
+325	Slávik Ľudovít	ž. Júlia Skackalová	0	1490
+325	Slávik Ľudovít	ž.Júlia r. Skackalová	0	780,1373
+325	Slávik Ľudovít	ž.Júlia r.Skackalová	0	1436,2329,2330,2347,2349
+325	SLÁVIK Ľudovít		0	780,810,1360,1373,1436,1539,2329,2330,2347,2349
+325	SLÁVIKOVÁ Anna r. Bieliková		0	2174
+325	SLÁVIKOVÁ Júlia r. Skackalová		0	780,1360,1373,1436,1556,2329,2330,2347,2349
+325	SLÁVIKOVÁ Mária		0	810,1958
+325	SLOBODA Jozef		0	802
+325	Slobodná Mária r. Viglášová		0	1323
+325	Slobodová Františka	ml	0	1490
+325	SLOBODOVÁ Mária r. Viglášová		0	1923
+325	SOKOL Ján		0	780,1201,1360,1373,1436,2058,2329,2330,2347,2349
+325	Sokol Viliam	ž.Berta r.Špaňová	0	525
+325	Sokolová Júlia	zom.19.12.2006	0	2291
+325	Sokolová Júlia r. Šedivá		0	1079,2291
+325	SOLČANSKÁ Júlia r. Machajdiková		0	800,1999
+325	SPIŠÁK Vojtech		0	1490
+325	Streda Ondrej		0	1490
+325	Streda Štefan	ž.Alžbeta r.Baňárová	0	670
+325	Streda Štefan, ž. Alžbeta Baňárová ž. Alžbeta Baňárová		0	2291
+325	Stredová Alžbeta r. Baňárová		0	571,670,1070,2286
+325	Stredová Rozália r. Bieliková		0	1798
+325	STRKÁČOVÁ Alžbeta		0	590,2291
+325	Struhár Jozef		0	1565
+325	Struhár Ľudovít		0	1521
+325	Struhárová Mária r. Viglášová		0	2291
+325	SZABOVÁ Alžbeta r. Slobodová		0	2004
+325	SZLANINKOVÁ Katarína r. Viglášová		0	662,1610
+325	Szlanyinka Karol	ž. Mária Lacková	0	1898
+325	SZLANYINKOVÁ Mária r. Lacková		0	822,1327,2235
+325	Šafár Ján		0	598,600,780,1071,1155,1360,1373,1436,1986,2329,2330,2347,2349
+325	Šafár Karol		0	2291
+325	Šafár Karol	nezv	0	598,1075,1155
+325	Šafár Karol, nezv. nezv.		0	2291
+325	Šafár Koloman		0	600,1071,1514
+325	ŠAFÁR Ľudovít		0	2291
+325	Šafár Ondrej		0	1155,1490
+325	Šafár Štefan		0	800,1071,1846
+325	ŠAFÁROVÁ Júlia r. Špaňová		0	1490
+325	Šafárová Júlia r. Špaňová, zom.19.12.2006 zom.19.12.2006		0	1490
+325	ŠAFÁROVÁ Rozália r. Viglášová		0	1696
+325	Šagyivi Ján	ml	0	659
+325	ŠAROVECKÁ Rozália r. Šafárová		0	600,1071,2131
+325	Šárovecký Štefan	zom.19.12.2006	0	2008
+325	ŠEDIVÝ Ján		0	605,1078,1079,2104
+325	Šedivý Pavel	ml	0	2046
+325	ŠEDIVÝ Pavel		0	1079,1468
+325	Šedivý Pavol	ž. Katarína Špaňová	0	1969
+325	Šedivý Pavol	ž.Katarína Špaňová	0	1079
+325	Šedivý Viliam		0	657
+325	Šegyivi Ján	ml	0	555,1457,2427
+325	Šegyivi Jozef	ml	0	555,659,2427
+325	ŠIMONEK Andrej		0	618,2257
+325	ŠIMONEK Ján		0	618,1940
+325	ŠIMONEK Jozef		0	618,1592
+325	Šimoneková Alžbeta		0	618,1776
+325	Šimoneková Katarína	ml	0	618
+325	Šimoneková Katarína, ml. ml.		0	2282
+325	Šimoneková Mária	ml	0	618
+325	Šimoneková Mária, ml. ml.		0	1919
+325	ŠPAŇO Emil		0	1490,1524
+325	Špaňo František		0	532,780,1077,1185,1360,1373,1436,2283,2329,2330,2347,2349
+325	Špaňo Ján		0	441,545,578,655,659,1057,1077,1191,1302,1325,1490
+325	Špaňo Ján	nezv	0	441,1077,2291
+325	Špaňo Ján, ml. ml.		0	2262
+325	Špaňo Ján, nezv. nezv.		0	1808
+325	Špaňo Jonáš		0	655
+325	Špaňo Jozef		0	592,655,1104,1299,1327
+325	Špaňo Jozef	ž.Mária r.Lenthárová	0	555,2427
+325	Špaňo Karol		0	559,1599
+325	Špaňo Karol, ml. ml.		0	1827
+325	Špaňo Ľudovít		0	590,820,1153,1330,1459
+325	Špaňo Ľudovít	ml	0	517
+325	Špaňo Ľudovít, ml. ml.		0	1463
+325	Špaňo Matej		0	655,1181,1299,2194
+325	Špaňo Matej	Balani	0	780,1360,1373,1436,2329,2330,2347,2349
+325	Špaňo Matej	ž. Mária Špaňová	0	1468
+325	Špaňo Matej, Balani Balani		0	1490
+325	Špaňo Matúš		0	530,532,1327,1967
+325	Špaňo Matúš, ml. ml.		0	2311
+325	Špaňo Michal		0	559,655,1147,1153,1181,1299,1327,2136
+325	Špaňo Michal	zom.19.12.2006	0	2163
+325	Špaňo Michal	ž. Júlia Viglášová	0	1998
+325	Špaňo Mikuláš		0	613,821,1735
+325	Špaňo Mikuláš	ml	0	1085,1206
+325	Špaňo Mikuláš, ml. ml.		0	1688
+325	Špaňo Štefan		0	581,590,655,1057,1063,1153,1299,1327,1330,1361,1639,2303
+325	Špaňo Štefan	Bernát	0	780,1360,1373,1436,2329,2330,2347,2349
+325	Špaňo Štefan	Bobek	0	780,1360,1373,1436,2329,2330,2347,2349
+325	Špaňo Štefan	ml	0	1330
+325	Špaňo Štefan, Bernát Bernát		0	1490
+325	Špaňo Štefan, Bobel Bobel		0	1490
+325	Špaňo Štefan, ml. ml.		0	2073
+325	Špaňo Vendel		0	581,655,780,1057,1299,1327,1360,1361,1373,1436,2179,2329,2330,2347,2349
+325	Špaňo Viliam		0	657,1153,1193,1545
+325	Špaňo Vladimír	zom.19.12.2006	0	1468
+325	Špaňo Vojtech		0	613,821,1549
+325	Špaňo Vojtech	zom.19.12.2006	0	2164
+325	Špaňo Vojtech, ml. ml.		0	1961
+325	ŠPAŇOVÁ Agneša		0	2208
+325	Špaňová Alžbeta r. Bieliková		0	1086
+325	Špaňová Anna r. Virágová	Čaka 278	0	1468
+325	Špaňová Anna r. Virágová, Čaka 278, Čaka, PSČ 935 68, SR		0	780,1152,1360,1373,1436,2329,2330,2347,2349
+325	Špaňová Brigita r. Špaňová	zom.19.12.2006	0	1906
+325	ŠPAŇOVÁ Elena		0	1468,1490
+325	Špaňová Elena r. Hanusová		0	780,1360,1373,1436,2329,2330,2347,2349
+325	Špaňová Františka	ml	1	1148,2370
+325	ŠPAŇOVÁ Františka		0	1490,1850,1874,1951
+325	Špaňová Františka r. Krnčanová		0	1107
+325	Špaňová Františka r. Špaňová		0	559
+325	Špaňová Františka r. Viglášová		0	578,660,1053,1303
+325	Špaňová Johana	nezv	0	305
+325	ŠPAŇOVÁ JOHANA		0	1588
+325	Špaňová Júlia		0	517,578,659,820,1077,1166,1191,1198,1302,1325,1468,1815,2276
+325	Špaňová Júlia r. Kováčiková		0	1094,1095,1096,1097
+325	Špaňová Júlia r. Valková		0	1203,1206
+325	Špaňová Júlia r. Viglášová		0	577,578,659,660,1053,1054,1181,1302,1303,1324
+325	Špaňová Katarína	ml	0	1330
+325	ŠPAŇOVÁ Katarína		0	590,1063,1651,1770,2054
+325	Špaňová Ľudovít		0	1063
+325	Špaňová Margita r. Struhárová, zom.19.12.2006 zom.19.12.2006		0	1765
+325	Špaňová Mária		0	517,559,659,820,1468,2147
+325	Špaňová Mária r. Bučková		0	530
+325	Špaňová Mária r. Ďurišová		0	1103
+325	Špaňová Mária r. Krnčanová	zom.19.12.2006	0	1709
+325	Špaňová Mária r. Stanová	zom.19.12.2006	0	1678
+325	ŠPAŇOVÁ Mária r. Václavíková		0	1490
+325	Špaňová Rozália	ml	0	964,1147
+325	ŠPAŇOVÁ Rozália		0	1463,1938,1975
+325	ŠPAŇOVÁ Rozália r. Špaňová		0	2216
+325	Špaňová Rozália r. Víglášová		0	578
+325	ŠPAŇOVÁ Terézia		0	1463
+325	ŠPAŇOVÁ Vilma		0	1685
+325	Špaňová Vilma, Čaka 164, Čaka, PSČ 935 68, SR		0	581,1361
+325	Španyiová Rozália r. Veglášová		0	1053,1054
+325	ŠPANYOVÁ Rozália r. Veglášová		0	577,1199,1302,1739
+325	ŠTRBOVÁ Františka r. Miháliková		0	1169,1490
+325	ŠUCHOVÁ Alžbeta		0	811,1058,1092,1298,2041
+325	TAKÁCS Karol		0	1637
+325	ŤAVONOVÁ Anna		0	2056
+325	TOMÁŠEKOVÁ Helena		0	1490
+325	TOMÁŠEKOVÁ Helena r. Špaňová		0	964,1063,1147,1153,1330,1543,1879
+325	TOMÁŠEKOVÁ Katarína		0	590,1457
+325	TÓTHOVÁ Mária r. Beňová		0	780,1360,1373,1436,1490,2329,2330,2347,2349
+325	TYAVON Ľudovít		0	1189,1463,2335
+325	Tyavonová Vilma		0	1189,2335
+325	VÁCLAVOVÁ Mária		0	2320
+325	Václavová Mária r. Pintérová		0	645
+325	VALACH Andrej		0	2175
+325	VALACH Ondrej		0	1848
+325	VALKO Ľudovít		0	1485
+325	Valková Alžbeta		0	780,1360,1373,1436,1490,2329,2330,2347,2349
+325	Valková Anna	ml	0	818
+325	Valková Júlia		0	1457
+325	Valková Juliana		0	1203
+325	Valková Karolína		0	1490
+325	Valková Rozália		0	1206,1490
+325	Valkovič Ondrej	ž.Františka r.Vrzalová	0	534,537,539,540,541
+325	Valkovič Ondrej	ž.Františka Vrzalová	0	533
+325	Valkovičová Františka r. Vrzalová		0	533,534,537,539,540,541
+325	VÁMOŠ Ľudovít		0	1719
+325	Vámošová Juliana		0	563
+325	VÁMOŠOVÁ Rozália		0	2142
+325	VANÍKOVÁ Mária		0	2024
+325	Vaníková Mária r. Viglášová		0	800
+325	VARGOVÁ Júlia		0	1071,1177,1895
+325	Vargová Júlia r. Vámošová		0	564
+325	VARGOVÁ Katarína		0	1490
+325	Vargová Katarína r. Viglášová		0	780,1360,1373,1436,2329,2330,2347,2349
+325	VARGOVÁ Mária		0	1817
+325	Vargová Mária r. Viglášová		0	1060,1074
+325	VARGOVÁ Rozália		0	1490
+325	Vargová Rozália r. Miháliková		0	1169
+325	VAVROVÁ Božena		0	2296
+325	Vavrová Božena r. Skackalová, Žerotínova bašta 5035/27, Nové Zámky, PSČ 940 02, SR		0	780
+325	Vavrová Božena, Žerotínova bašta 27, Nové Zámky, PSČ 940 02, SR		0	1360,1373,1436,2329,2330,2347,2349
+325	Važná Mária	ml	0	1360,1373,1436,2330
+325	VAŽNÁ Mária		0	1490
+325	VAŽNÁ Rozália		0	2268
+325	Važná Rozália r. Sláviková		0	810
+325	Važná Valéria	ml	0	1360,1373,1436,2330
+325	VAŽNÁ Valéria		0	1490
+325	Važný Alexander	ž.Helena r. Rizíková	0	780,1174,1360
+325	Važný Alexander	ž.Helena r.Rizíková	0	1373,1436,2329,2330,2347,2349
+325	VAŽNÝ Alexander		0	1852,2320
+325	Važný Ján	ž. Alžbeta r. Skackalová	0	780,1360
+325	Važný Ján	ž.Alžbeta r.Skackalová	0	1373,1436,2329,2330,2347,2349
+325	VAŽNÝ Ján		0	1490
+325	VAŽNÝ Štefan		0	1463
+325	VÁŽNY Zdenko		0	1490
+325	Vážny Zdenko, Čaka 240, Čaka, PSČ 935 68, SR		0	780,1360,1373,1436,2329,2330,2347,2349
+325	VERBOVSKÝ Leopold		0	780,1360,1436,1490,2329,2330,2347,2349
+325	Vetter Július		0	551
+325	VETTEROVÁ Mária		0	2320
+325	Viglasova Františka		0	1302,2311
+325	Vigláš Anton		0	531
+325	Vigláš Anton	ž.Rozália r.Meszárošová	0	531
+325	VIGLÁŠ František		0	578,659,780,1072,1302,1325,1360,1373,1436,2253,2329,2330,2347,2349
+325	VIGLÁŠ Imrich		0	1490,1572
+325	Vigláš Ján	Bobuch	0	780,1360,1373,1436,2329,2330,2347,2349
+325	Vigláš Ján	Ferov	0	673
+325	Vigláš Ján	Juriš	0	780,1360,1373,1436,2329,2330,2347,2349
+325	Vigláš Ján	ml	0	1204,1205,1436,2329,2349
+325	Vigláš Ján	ml.; ml	0	2330
+325	Vigláš Ján	ž.Františka r.Belániová	0	1203
+325	VIGLÁŠ Ján		0	588,673,811,1075,1092,1184,1191,1324,1490,1774,2090

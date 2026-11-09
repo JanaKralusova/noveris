@@ -1,0 +1,256 @@
+1518	SEDLAČKO Štefan r. Sedlačko	1	0	36,80,145,275,383,471,472,617,697,1126,1130,1132,1137
+1518	SEDLAČKOVÁ Alžbeta r. Imrichová		0	284,286
+1518	SEDLAČKOVÁ Mária r. Hricová		0	690,754
+1518	SEDLÁKOVÁ Anna		0	690,754
+1518	Seman Andrej r. Seman	1	0	139,338,381,741,753,1139
+1518	SEMAN Michal r. Seman		0	139,293,308,338,381,382,741,753,1139
+1518	Seman Mikuláš r. Seman		0	337,338,340
+1518	Seman Pavol r. Seman		0	690,754
+1518	Seman Štefan r. Seman		0	139,338,381,741,753,1139
+1518	SEMANOVÁ Mária	1	0	741,753,1139
+1518	SEMANOVÁ Mária	maloletá	0	741,753,1139
+1518	Schlesinger Bartolomej r. Schlesinger		0	334
+1518	SCHWARTZOVÁ Štefánia r. Šafranová		0	353
+1518	SIMOŇÁK Ján r. Simoňák		0	36,275,697
+1518	SIMOŇÁK Jozef r. Simoňák		0	275,697
+1518	SIMOŇÁKOVÁ Anna	r.Slezaková	0	683
+1518	SIMOŇÁKOVÁ Anna r. Kundríková		0	290
+1518	SIMOŇÁKOVÁ Anna r. Slezaková		0	36,57,80,144,186,268,275,319,373,375,383,392,399,405,457,473,475,519,520,521,621,682,684,688,697,705,707,831,862,863,869,870,985,986,987,996,997,998,1004,1005,1006,1007,1010,1011,1012,1014,1016,1020,1022,1023,1024,1041,1061,1130,1131,1132,1136,1137
+1518	Simoňáková Ján r. Simoňák		0	36
+1518	SIMOŇÁKOVÁ Mária		0	36,80,275,697
+1518	SIMOŇÁKOVÁ Nejty		0	36,80,187,191,251,261,275,324,325,328,343,344,345,346,347,383,697,1130,1132,1137,1138
+1518	Simoňáková Veronika		0	36,80,275,697
+1518	Simoňáková Žofia	1; 1	0	36
+1518	SIMOŇÁKOVÁ Žofia	1	0	80,275,697
+1518	Sivák Michal r. Sivák		0	275,697
+1518	SIVÁKOVÁ Katarína r. Kundríková		0	275,697
+1518	Skočikoloda Ján r. Skočikoloda		0	275,697
+1518	SKOČIKOLODA Jozef r. Skočikoloda		0	36
+1518	Slaninka Ján r. Slaninka		0	690,754
+1518	Slezák Adam r. Slezák		0	414,521
+1518	SLEZÁK Andrej r. Slezák	1	0	275,697
+1518	Slezák Ján r. Slezák		0	275,697
+1518	SLEZÁKOVÁ Alžbeta		0	457,473,475,519,520,521,684,987,998,1006,1007,1011,1012,1022,1023,1061,1131,1136
+1518	SLEZÁKOVÁ Mária	r.Anderovská	0	683
+1518	SLEZÁKOVÁ Mária r. Anderovská		0	36,57,80,107,110,259,263,268,275,319,361,376,383,405,457,473,475,519,520,521,621,682,684,697,705,707,831,862,863,869,870,903,986,987,997,998,1005,1006,1007,1010,1011,1012,1014,1022,1023,1024,1041,1061,1130,1131,1132,1136,1137
+1518	SLEZÁKOVÁ Mária r. Mihoková		0	688
+1518	SLEZÁKOVÁ Mária r. Zabrecká		0	690,753,754
+1518	SLEZÁKOVÁ Zuzana r. Macejová		0	293
+1518	Smolko Andrej r. Smolko		0	596,832,833,899,900
+1518	Smolko Bartolomej r. Smolko		0	690,754
+1518	Smolko Ján r. Smolko		0	596,832,833,899,900
+1518	Smolko Jozef r. Smolko		0	582,767,834,835,836,837,838,887,889,890,891,892,894,897,898
+1518	Smolko Juraj r. Smolko		0	582,773,834,835,836,837,838,887,889,890,891,892,894,897,898
+1518	Smolko Pavol r. Smolko	maloletý	0	690,754
+1518	Smolko Štefan r. Smolko		0	690,754
+1518	SMOLKOVÁ Alžbeta r. Ivanová		0	596,690,754,832,833,899,900
+1518	SMOLKOVÁ Anna r. Kandráčová		0	596,690,832,833,899,900
+1518	SMOLKOVÁ Apolónia		0	596,690,754,832,833,899,900
+1518	SMOLKOVÁ JANOVICOVÁ Berta r. Jačišinová		0	690,754
+1518	SMOLKOVÁ Katarína		0	596,690,754,832,833,899,900
+1518	SMOLKOVÁ Mária	3	0	596,690,754,832,833,899,900
+1518	SMOLKOVÁ Mária	4	0	582,767,834,835,836,837,838,887,889,890,891,892,894,897,898
+1518	SMOLKOVÁ Mária r. Kovaľová		0	151,207,596,690,754,832,833,886,899,900
+1518	SMOLKOVÁ Žofia r. Kovaľová		0	151,207,596,690,754,832,833,886,899,900
+1518	Staš Štefan r. Staš	maloletý	0	690,754
+1518	Stašik Andrej r. Stašik		0	596,832,833,899,900
+1518	STAŠOVÁ Katarína	maloletá	0	690,754
+1518	STERNOVÁ Sidónia r. Šafranová		0	353
+1518	STRELCOVÁ Zuzana r. Semanová		0	342
+1518	SUTAIOVÁ Mária r. Paločková		0	741,753,1139
+1518	SZEKELYOVÁ Sára r. Šafranová		0	353
+1518	Šafran Alfred r. Šafran		0	353
+1518	Šafrán Maňo r. Šafrán		0	392
+1518	Šafrán Pavol r. Šafrán		0	353
+1518	ŠAFRÁNOVÁ Zuzana		0	353
+1518	ŠALAMONOVÁ Ružena r. Šafranová		0	353
+1518	ŠAŠKO Jozef r. Šaško		0	290,383,402,615,688,876,878,879,881,883,915,916,1060,1130,1132,1133,1137
+1518	Šatní František	ž.Žofia r.Haladejská	0	331
+1518	ŠATNÍKOVÁ Alžbeta		0	331,957,993
+1518	ŠIMOŇÁKOVÁ Žofia		0	187,191,251,261,275,324,325,328,343,344,345,346,347,383,697,1130,1132,1137,1138
+1518	ŠLOSÁR František r. Šlosár		0	313
+1518	ŠLOSÁR Juraj r. Šlosár		0	313
+1518	ŠULÁKOVÁ Mária r. Imrichová		0	80
+1518	TARBAJ Andrej r. Tarba	1	0	151,886
+1518	TARBAJ Andrej r. Tarbaj	1	0	207
+1518	TARBAJ Ján r. Tarba	ž.Filoména r.Kravcová	0	151,886
+1518	Tarbaj Ján r. Tarbaj	3	0	690,754
+1518	Tarbaj Ján r. Tarbaj	ž.Filoména r.Kravcová	0	151,207,582,596,600,832,833,834,835,836,837,838,886,887,888,889,890,891,892,893,894,897,898,899,900
+1518	TARBAJ Ján r. Tarbaj	1	0	151,207,886
+1518	TARBAJ Ján r. Tarbaj	2	0	151,207,886
+1518	TARBAJ Michal r. Tarbaj	maloletý	0	151,207,582,586,596,690,754,832,833,834,835,836,837,838,845,846,847,848,849,886,887,889,890,891,892,894,897,898,899,900
+1518	Tarbaj Štefan r. Tarbaj		0	690,754
+1518	TARBAJOVÁ Alžbeta		0	151,207,582,600,690,754,834,835,836,837,838,886,887,888,889,890,891,892,893,894,897,898
+1518	TARBAJOVÁ Anna	1	0	151,207,582,586,596,690,754,832,833,834,835,836,837,838,845,846,847,848,849,886,887,889,890,891,892,894,897,898,899,900
+1518	TARBAJOVÁ Apolónia		0	151,207,582,600,690,754,834,835,836,837,838,886,887,888,889,890,891,892,893,894,897,898
+1518	TARBAJOVÁ Filoména r. Kravecová		0	596,832,833,899,900
+1518	TARBAJOVÁ Johana	1	0	151,207,582,586,596,690,754,832,833,834,835,836,837,838,845,846,847,848,849,886,887,889,890,891,892,894,897,898,899,900
+1518	TARBAJOVÁ Mária	1	0	151,207,582,586,596,690,754,832,833,834,835,836,837,838,845,846,847,848,849,886,887,889,890,891,892,894,897,898,899,900
+1518	TARBAJOVÁ Žofia r. Petrová		0	582,596,690,754,832,833,834,835,836,837,838,887,889,890,891,892,894,897,898,899,900
+1518	TIMKOVÁ Alžbeta r. Lešková		0	741,753,1139
+1518	TKÁČ Matej r. Tkáč	Ofčarik	0	36
+1518	Tkáčik Bartolomej r. Tkáčik		0	707
+1518	Tkáčik Pavol r. Tkáčik		0	208,375,383,1130,1132,1137
+1518	TKÁČIKOVÁ Anna r. Kolarčíková		0	383,401,953,1121,1125,1130,1132,1137
+1518	TKÁČIKOVÁ Anna r. Kollarčíková		0	275,697
+1518	TKÁČIKOVÁ Anna r. Múdra		0	57,414,862,1041
+1518	TKAČIKOVÁ Margita		0	690,754
+1518	TKÁČIKOVÁ Žofia		0	690,754
+1518	TKÁČIKOVÁ Žofia r. Sedlačková		0	36,80,145,275,383,471,472,617,697,1126,1130,1132,1137
+1518	TOMIŠOVÁ Veronika r. Hricová		0	690,754
+1518	Tomko Andrej r. Tomko		0	690,754
+1518	Tomko Ján r. Tomko		0	690,754
+1518	Tomko Jozef r. Tomko		0	886
+1518	TOMKOVÁ Katarína r. Kolarčíková		0	582,590,834,835,836,837,838,887,889,890,891,892,894,897,898
+1518	ULIČNÁ Agnesa		0	690,754
+1518	ULIČNÁ Anna		0	690,754
+1518	ULIČNÁ Terézia		0	690,754
+1518	ULIČNÁ Žofia		0	690,754
+1518	Uličný Bartolomej r. Uličný		0	690,754
+1518	Uličný Ján r. Uličný		0	690,754
+1518	Uličný Jozef r. Uličný		0	690,754
+1518	Uličný Juraj r. Uličný		0	690,754
+1518	URBANCOVÁ Anna		0	80
+1518	URBANCOVÁ Mária		0	80
+1518	URBANEC František r. Urbanec		0	595
+1518	URBANEC Ján	r.Urbanec,4	0	683
+1518	URBANEC Ján r. Urbane		0	234
+1518	Urbanec Ján r. Urbanec	1	0	275,697
+1518	Urbanec Ján r. Urbanec	2	0	80,132,383,627,628,629,656,963,977,978,1065,1066,1067,1103,1130,1132,1137
+1518	URBANEC Ján r. Urbanec		0	275,280,298,697
+1518	URBANEC Ján r. Urbanec	3	0	36
+1518	URBANEC Ján r. Urbanec	4	0	36,268,269,270,271,275,300,319,326,405,414,457,473,475,519,520,521,618,619,620,621,682,684,697,705,707,831,863,865,866,869,870,943,970,986,987,997,998,1005,1006,1007,1010,1011,1012,1014,1022,1023,1024,1058,1061,1131,1136
+1518	URBANEC Jozef r. Urbane		0	234
+1518	URBANEC Jozef r. Urbanec		0	132,298,383,627,628,629,656,963,977,978,1065,1066,1067,1103,1130,1132,1137
+1518	URBANEC Ľudovít r. Urbane		0	234
+1518	URBANEC Ľudovít r. Urbanec		0	132,298,383,627,628,629,656,963,977,978,1065,1066,1067,1103,1130,1132,1137
+1518	URBANEC Michal r. Urbanec		0	36,80
+1518	VALKOVÁ Žofia r. Hricová		0	697
+1518	VAŇUŠOVÁ Anna r. Paločková		0	741,753,1139
+1518	VARGOVÁ Anna r. Jačišinová		0	207,833,900
+1518	VARGOVÁ Anna r. Jajčišinová		0	151,596,832,886,899
+1518	VNUKOVÁ Anna r. Martausová		0	151,207,596,690,754,832,833,886,899,900
+1518	Záhradník František r. Záhradník		0	582,768,834,835,836,837,838,887,889,890,891,892,894,897,898
+1518	Záhradník Ján r. Záhradník		0	582,768,834,835,836,837,838,887,889,890,891,892,894,897,898
+1518	Záhradník Jozef r. Záhradník		0	582,768,834,835,836,837,838,887,889,890,891,892,894,897,898
+1518	Záhradník Peter r. Záhradník		0	582,768,834,835,836,837,838,887,889,890,891,892,894,897,898
+1518	ZACHAR Pavol r. Zachar		0	36
+1518	ZAKOVČAKOVÁ Mária r. Bernátová		0	690,754
+1519	STAVEBNE A BYTOVE DRUZSTVO KOLONISTOV BLAVA		0	80
+1519	Stavebné a bytové družstvo kolonistov na Slovensku		0	264,377
+1520	Akantisová Johana r. Lamoš, Leonarde Leonarde		0	1208
+1520	Bašťovanská Irma r. Lamošová	Hollého č. 1135, 038 61 Vrútky	1	893
+1520	Bizik Anna, SR		0	1090,1091
+1520	Bizík Jozef, SR		0	1090,1091
+1520	Biziková Mária, SR		0	1090,1091
+1520	Bočkajová Zuzana r. Kubisová, SR		0	1090,1091
+1520	BOTOSOVA Anna, SR		0	798
+1520	CACHOVA Maria r. Kordova, SR		1	799,915
+1520	Čs.štát - ZŤS - Inžinierskododávateľská a projektová organizácia, 036 01, Martin, SR		0	370
+1520	Ertl Jozef		0	796
+1520	Ertl Jozef	manželka Emília Záborská	0	1338
+1520	ERTL Jozef, SR		0	794
+1520	ERTLOVÁ Ľudmila r. Tvarožná, SR		1	906,907
+1520	Fajna Jozef, SR		0	1090,1091
+1520	Fajna Juraj, SR		0	1090,1091
+1520	Fajna Miroslav, SR		0	1090,1091
+1520	Figurová Anna, SR		0	1090,1091
+1520	Gallo Pavol, SR		0	1090,1091
+1520	GREGUŠOVÁ Mária, SR		0	1090,1091
+1520	GRESIGEROVÁ Matilda r. Lamošová, SR		0	923
+1520	HAJTMANSKÝ EMIL		0	1207
+1520	Hajtmanský Koloman		0	728
+1520	HAJTMANSKÝ KOLOMAN, SR		1	564,890,906,907
+1520	Hajtmanský Milos		0	728
+1520	HAJTMANSKÝ MILOŠ, SR		1	564,890,906,907
+1520	HOSOFFOVA Irma r. Lamosova, Hodurike Hodurike		0	1285,1430
+1520	Hošoff Štefan		0	1319
+1520	HOŠŠOFF Štefan, SR		1	921,922
+1520	Hoššoffová Irma r. Lamošová Hoďurike, SR	zom.24.03.1963	0	921,922
+1520	Chromčík Miloš, SR		0	1090,1091
+1520	Chromčíková Emília r. Veternik, SR		0	1090
+1520	Chromčíková Emília, SR		0	1091
+1520	Jankovič Jozef, SR		0	1090,1091
+1520	Jankovíč Juraj, SR		0	1090,1091
+1520	Jankovíč Pavol, SR		0	1090,1091
+1520	Jankovíčová Zuzana, SR		0	1090,1091
+1520	Jasenka Ondrej, Nábr. Sv. Cyrila 315/25, Prievidza, SR	zomr.dňa 26.1.2012	0	1188
+1520	JESENSKA Paulina r. Lamosova, SR		0	732
+1520	Jesenská Paulina r. Lamošová, Fere Fere		0	1233
+1520	KNOSKO Andrej, SR		0	730,758
+1520	KNOSKOVA Maria, SR		0	730,758
+1520	KNOŠKO ANDREJ		0	1487
+1520	KNOŠKO EDUARD		0	1487
+1520	KNOŠKO EDUARD, SR		0	347
+1520	KNOŠKO EMIL, SR		0	347
+1520	KNOŠKO JÁN, SR		0	347,730,758
+1520	KNOŠKOVÁ AGNESA		0	1207
+1520	KNOŠKOVÁ Emília r. Vidrová, SR		1	892,1594
+1520	KNOŠKOVÁ HELENA, SR		0	347
+1520	KNOŠKOVÁ MARGITA r. Lamošová, HOĎURIKE HOĎURIKE		0	1207
+1520	KNOŠKOVÁ MARGITA r. LAMOŠOVÁ, SR		0	347
+1520	Knošková Mária r. Lamošová	Beňovská	0	605
+1520	Knošková Mária, SR	zomr.28.11.1996	0	914
+1520	Komposesorát obce Lipovec		0	1539
+1520	KONŠKO JÁN, SR		0	347
+1520	Kordová Anna r. Lamosova		0	801
+1520	Kordová Anna r. Lamošová	Ďuričke	0	619
+1520	Kordová Mária	vydatá Cachová vydatá Cachová	0	619
+1520	KORDOVA Maria, SR		0	799
+1520	KORDOVA Terezia, SR		0	799
+1520	Koval Dušan, 29.09.1949 29.09.1949		0	1207
+1520	KRALOVANCOVÁ EMÍLIA		0	1233
+1520	Kubis Jan, SR		0	1090,1091
+1520	Kubis Jozef		0	1090
+1520	Kubis Jozef, SR		0	1090,1091
+1520	Kubis Juraj, SR		0	1090,1091
+1520	Kubisová Emília, SR		0	1090,1091
+1520	Kubisová Zuzana, SR		0	1090,1091
+1520	Kulhánová Anna r. Kubisová, SR		0	1090,1091
+1520	LAMOS Frantisek, SR		1	793,890,903,904,919
+1520	LAMOS Jozef, SR		1	745,758,881,892
+1520	LAMOS Juraj, SR		0	758
+1520	LAMOS Luboslav, Čajkovského 1, Priekopa, SR		0	748
+1520	LAMOSOVA Maria, SR		1	730,793,892,919,1594
+1520	LAMOSOVA Terezia r. Kordova, SR		1	799,915
+1520	LAMOSOVA Vilma r. Prindesova, SR		0	800
+1520	LAMOSOVA Zuzana, SR		1	732,758,906,921
+1520	Lamoš Aladár, Ference Ference		0	1456
+1520	Lamoš Albert, Burise Burise		0	1456
+1520	Lamoš Albert, Fere Fere		0	1193
+1520	LAMOŠ ALBERT, FERÉ PAUKE FERÉ PAUKE		0	1253
+1520	Lamoš Alexander	Knape	0	619
+1520	Lamoš Alexander, Levkovie Levkovie		0	1456
+1520	LAMOŠ Alexander, SR		1	913,914,915
+1520	LAMOŠ Andrej, SR		1	892,1594
+1520	Lamoš Anton, Ference Ference		0	1456
+1520	LAMOŠ Berco, SR		1	871
+1520	Lamoš Bertalan		0	1233
+1520	Lamoš Ernest		1	909
+1520	LAMOŠ Ernest, SR		1	910
+1520	Lamoš Ferdinand, Belohlavke Belohlavke		0	1456
+1520	LAMOŠ Ference, SR		1	890
+1520	LAMOŠ Fraňo, SR		1	906,907
+1520	Lamoš František		1	728,889
+1520	Lamoš František r. Beňovský, manželka Zuzana Lamošová Ďurčé manželka Zuzana Lamošová Ďurčé		0	1230
+1520	Lamoš František r. Ďurče		0	1218
+1520	Lamoš František, Beňovský Beňovský		0	1193
+1520	Lamoš František, Ference Ference		0	1387
+1520	LAMOŠ FRANTIŠEK, SR	BEŇOVSKÝ	0	564
+1520	LAMOŠ GÁBOR, SR		0	526
+1520	Lamoš Ivan, Ference Ference		0	1456
+1520	Lamoš Ján r. Belohlavké, manželka Zuzana Lamošová Tomáše manželka Zuzana Lamošová Tomáše		0	1487
+1520	Lamoš Ján, Fére z Kremnice Fére z Kremnice		0	1250
+1520	Lamoš Ján, Ference Ference		0	1487
+1520	Lamoš Ján, Leonarde Leonarde		0	1208
+1520	Lamoš Ján, Levkovie Levkovie		0	1194
+1520	LAMOŠ JÁN, SR		1	526,745,748,918
+1520	Lamoš Jaroslav	Hoďurike	0	605
+1520	Lamoš Jaroslav, Hoďurike Hoďurike		0	1498
+1520	LAMOŠ JAROSLAV, SR		0	347
+1520	Lamoš Jozef		1	887
+1520	Lamoš Jozef, Fere Fere		0	1443
+1520	Lamoš Jozef, Ference Ference		0	1443
+1520	Lamoš Jozef, Hoďurike Hoďurike		0	1274
+1520	Lamoš Jozef, Knape Knape		0	1443
+1520	Lamoš Jozef, Kostanke Kostanke		0	1470

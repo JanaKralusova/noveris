@@ -1,0 +1,256 @@
+3011	Svoreňová Anna	mal	0	577,578
+3011	Svoreňová Anna r. Barcajová	m. Juraj	0	577,578
+3011	Svoreňová Anna r. Weiszová	m. Adam	0	577,578
+3011	Svoreňová Mária	Ďurová, mal	0	577,578
+3011	Svoreňová Mária r. Weiszová	m. Ján	0	577,578
+3011	Svoreňová Mária r. Zvarová		0	878
+3011	Sýkora Ján		0	577,578
+3011	Sýkora Ján	mal	0	577,578
+3011	Sýkora Ján r. Sýkora	Junek	0	878
+3011	Sýkora Ján r. Sýkora	Zavren	0	878
+3011	Sýkora Jozef r. Sýkora	syn Juraja	0	170
+3011	Sýkora Juraj		0	577,578
+3011	Sýkora Juraj	mal	0	577,578
+3011	Sýkora Juraj r. Sýkora	syn Juraja	0	170
+3011	Sýkora Matej	mal	0	577,578
+3011	Sýkora Pavel		0	577,578,594
+3011	Sýkorová Anna		0	577,578
+3011	Sýkorová Anna	Bugan	0	878
+3011	Sýkorová Anna	prajzo	0	577,578
+3011	Sýkorová Anna r. Svoreňová		0	577,578
+3011	Sýkorová Katarína		0	577,578
+3011	Sýkorová Katarína r. Hanusová		0	577,578
+3011	Sýkorová Margita	dcéra Juraja	0	170
+3011	Sýkorová Mária		0	577,578
+3011	Sýkorová Mária	dcéra Juraja	0	170
+3011	Sýkorová Mária r. Zvarová	nebohá	0	594
+3011	Sýkorová Zuzana r. Barcajová	m. Laurinec	0	577,578
+3011	Sýkorová Zuzana r. Bobálová		0	579,878
+3011	Šimko Ján		0	577,578
+3011	Šimko Ján	mal	0	577,578
+3011	Šimková Anna	mal	0	577,578
+3011	Šimková Mária	mal	0	577,578
+3011	Švihlová Anna r. Sýkorová		0	170
+3011	Takáč Ondrej		0	577,578
+3011	Tkáč Peter	mal	0	577,578
+3011	Tkáčová Agneša	mal	0	577,578
+3011	Tkáčová Anna r. Uhrínová	naposledy bytom, Divín 232	0	878
+3011	Tkáčová Mária		0	577,578
+3011	Ufrla Ján r. Ufrla	bývalý obecný sluha v Tuháre	0	568
+3011	Ufrla Ján r. Ufrla	naposledy bytom, Lazná 263/28, Divín	0	366,371,373,568,622,751,752,753,754,755,756,794,872,951,952,1010,1047,1111,1112,1147,1148
+3011	Ufrla Ján r. Ufrla	ž.Barbora r.Klimentová	0	289,535,568,846
+3011	Ufrla Jozef r. Ufrla	naposledy bytom Rúbanisko III/1,Lučenec	0	568,860
+3011	Ufrlová Anna r. Ďuricová	Budiná č.263	0	932
+3011	Ufrlová Anna r. Klimentová	naposledy bytom, Tuhár 42	0	568
+3011	Ufrlová Anna r. Smädová	naposledy bytom, Tuhár 78	0	374
+3011	Ufrlová Mária r. Hrnčiarová		0	561
+3011	Ufrlová Mária r. Stančíková		0	568,839
+3011	Uhrín Ján	tatarka, nebohý	0	577,578
+3011	Uhrín Ján	ž. Anna, r. Sýkorová	0	577,578
+3011	Uhrín Juraj	ž. Anna r. Vyletelová	0	577
+3011	Uhrín Juraj	ž. Anna, r. Vyletelová	0	578
+3011	Uhrín Juraj r. Uhrín	čd 3808/27	0	878
+3011	Uhrín Juraj r. Uhrín	Ondrejov syn	0	878
+3011	Uhrín Martin		0	579
+3011	Uhrín Martin r. Uhrín	č.d.2983/1897	0	878
+3011	Uhrín Martin r. Uhrín	čd 1828/1915	0	878
+3011	Uhrín Ondrej r. Uhrín	čd 1828/1915	0	878
+3011	Uhrín Pavel		0	577,578
+3011	Uhrín Pavel r. Uhrín	čd 1828/1915	0	878
+3011	Uhrínová Anna		0	577,578
+3011	Uhrínová Anna r. Bobálová		0	579,878
+3011	Uhrínová Anna r. Sýkorová	m. Ján	0	577,578
+3011	Uhrínová Anna r. Zvarová	m. Tomáš	0	577,578
+3011	Uhrínová Mária r. Uhrínová		0	577,578
+3011	Uhrínová Valéria r. Uhrínová	Budiná 85	0	878
+3011	Urbanová Katarína		0	577,578
+3011	Ušiak Ján		0	577,578
+3011	Ušiak Ján	huťan	0	577,578
+3011	Ušiak Juraj	gajdoš	0	577,578
+3011	Ušiak Juraj	salaj	0	577,578
+3011	Ušiak Martin		0	577,578
+3011	Ušiak Ondrej		0	577,578
+3011	Ušiaková Zuzana		0	577,578
+3011	Veľka Juraj	randeš	0	577,578
+3011	Vrťová Mária r. Šimková	nebohá	0	577,578
+3011	Weisz Ján		0	577,578
+3011	Weiszová Dorota		0	577,578
+3011	Weiszová Mária	mal	0	577,578
+3011	Zvara Anton		0	577,578
+3011	Zvara Denis	mal	0	577,578
+3011	Zvara Gregor		0	577,578
+3011	Zvara Ján		0	577,578,579
+3011	Zvara Ján	bibík	0	577,578
+3011	Zvara Ján	grúnik	0	577,578
+3011	Zvara Ján	gubo	0	579
+3011	Zvara Ján	gubo, mladší	0	577,578
+3011	Zvara Ján	mal	0	577,578
+3011	Zvara Ján	píder	0	577,578
+3011	Zvara Ján	žandár	0	577,578
+3011	Zvara Ján r. Zvara	Bibík,čd 2983/1897	0	878
+3011	Zvara Juraj		0	577,578,579
+3011	Zvara Juraj	m. Anna, r. Barcajová, turkoš	0	578
+3011	Zvara Juraj	nebohý, bibík	0	577,578
+3011	Zvara Juraj	píder	0	577,578
+3011	Zvara Juraj	ž. Anna, r. Barcajová, kurtoš	0	577,578
+3011	Zvara Juraj	ž. Zuzana r. Aláčová	0	577
+3011	Zvara Juraj	ž. Zuzana, r. Aláčová	0	578
+3011	Zvara Juraj r. Zvara	Grúnik	0	878
+3011	Zvara Juraj, 985 12, Budiná - lazy, č. 118, SR	nebohý	0	577,578
+3011	Zvara Ondrej		0	577,578,579
+3011	Zvara Pavel		0	577,578,579
+3011	Zvara Pavel	bibík	0	577,578
+3011	Zvara Pavel	gubo, nebohý	0	577
+3011	Zvara Pavel	kurtoš	0	577,578
+3011	Zvara Pavel	nebohý, gubo	0	578
+3011	Zvara Pavel r. Zvara	Greguš	0	878
+3011	Zvara Vojtech		0	577,578
+3011	Zvarová Anna r. Barcajová	m. Juraj	0	577,578
+3011	Zvarová Anna r. Palagová	m. Ondrej	0	577,578,595
+3011	Zvarová Anna r. Sujová	m. Ján	0	577,578,579
+3011	Zvarová Anna r. Svorenová	gubo	0	577,578
+3011	Zvarová Anna r. Uhrínová	m. Ján	0	577,578
+3011	Zvarová Anna r. Uhrínová	m.Ján	0	878
+3011	Zvarová Anna r. Ušiaková	m. Tomáš	0	577,578
+3011	Zvarová Katarína r. Ondrušíková		0	568,805,807
+3011	Zvarová Mária r. Aláčová	palík	0	577,578,579
+3011	Zvarová Mária r. Lauková		0	577,578
+3011	Zvarová Mária r. Lauková, Antalka 465, Ožďany, PSČ 980 11, SR	nebohá	0	577,578
+3011	Zvarová Mária r. Pivková	m. Pavel	0	577,578
+3011	Zvarová Mária r. Sujová	m. Juraj	0	577,578,579
+3011	Zvarová Mária r. Svoreňová	suja	0	577,578
+3011	Zvarová Zuzana		0	577,578
+3011	Zvarová Zuzana r. Čemeričková		0	577,578
+3011	Zvarová Zuzana r. Ďalogová, 985 12, Budiná, č. 58, SR	nebohá	0	577,578
+3011	Zvarová Zuzana r. Komová	m. Juraj	0	577,578
+3012	Andrejčáková Mária	zomrela	0	29,48,354,382,692
+3012	Bakaľar Ján		0	48
+3012	Bálint Andrej	zomrel	0	267,513
+3012	Bartošová Mária r. Križová		0	48
+3012	Beňa Andrej	narodený 16.06.1923, zomrel 24.10.1972	0	276,346,347,348,455,456,635,636
+3012	Beňa Andrej	zomrel	0	29,48,354,382,692
+3012	Beňa Ján	zomrel	0	48,411,413,414,421,422,424,677,680,681
+3012	Beňa-Ľamoš Ján	zomrel	0	29,48,354,382,404,692
+3012	Beňo Andrej	maloletý	0	614
+3012	Beňo Ján		0	571,614
+3012	Beňo Ján	maloletý	0	614
+3012	Beňo Juraj		0	592
+3012	Beňová Anna		0	346,347,348,455,456,592,635,636
+3012	Beňová Anna	maloletá	0	614
+3012	Bertová Mária	zomrela	0	48,411,413,414,421,422,424,677,680,681
+3012	Bombár Andrej	ž. Mária r. Príhodová, zomrel	0	404
+3012	Bombárová Mária r. Príhodová	m. Andrej, zomrela	0	404
+3012	Borisovičová Alžbeta r. Zlacková		0	615
+3012	Borišovičová Alžbeta r. Žecová	zomrela	0	48,246,256,346,347,348,354,371,382,384,407,411,413,414,421,422,424,455,456,461,541,635,636,660,677,680,681,691,693,694,696,698,701,702
+3012	Bugošová Anna r. Cmarová	zomrela	0	48,114,135,346,347,348,354,359,382,404,411,413,414,421,422,424,436,448,450,455,456,462,477,537,635,636,637,677,680,681
+3012	Bulna Ján	brat Juraj, zomrel v USA	0	411,413,414,421,422,424,677,680,681
+3012	Cicman Adolf		0	575
+3012	Cicman Karol		0	575
+3012	Cmar Andrej	brat Juraj, zomrel	0	48,346,347,348,404,450,455,456,462,635,636
+3012	Cmar Andrej	otec Juraj, zomrel	0	48,135,346,347,348,354,359,382,404,411,413,414,421,422,424,450,455,456,462,537,635,636,677,680,681
+3012	Cmar Andrej	zomrel 14.9.1983	0	436,448,477
+3012	Cmar Ján	zomrel	0	48,114,135,346,347,348,354,359,382,404,411,413,414,421,422,424,436,448,450,455,456,462,537,635,636,637,677,680,681
+3012	Cmar Juraj	syn Juraja, č. 30 082 07 Tuhrina, zomrel	0	456
+3012	Cmar Juraj	syn Juraja, č. 30, 082 07 Tuhrina, zomrel	0	347
+3012	Cmar Juraj	zomrel 1.9.1963	0	48,346,347,348,436,448,455,456,635,636
+3012	Cmarová Alžbeta	zomrela	0	48,114,135,346,347,348,404,411,413,414,421,422,424,450,455,456,462,635,636,637,677,680,681
+3012	Čonka Andrej	zomrel	0	304,305,346,347,348,369,404,428,429,455,456,635,636,697
+3012	Čonka Andrej	ž. Mária r. Cmarová, zomrel	0	48
+3012	Čonka Ján	zomrel	0	304,305,346,347,348,369,404,428,429,455,456,635,636,697
+3012	Čonka Juraj	zomrel	0	304,305,346,347,348,369,404,428,429,455,456,635,636,697
+3012	Čonková Alžbeta	zomrela	0	304,305,346,347,348,369,404,428,429,455,456,635,636,697
+3012	Čonková Anna r. Vargová	vdova	0	570
+3012	Čonková Mária	zomrela	0	304,305,346,347,348,369,404,428,429,455,456,635,636,697
+3012	Čonková Maria r. Cmarová	m. Ján, zomrela	0	114,346,347,348,404,455,456,635,636,637
+3012	Čonková Maria r. Cmarová	manžel Ján, zomrela	0	48,450
+3012	Čonková Terezia	zomrela	0	404
+3012	Davidovič Mano		0	48
+3012	Dzurišová Mária r. Mináriková	zomrela	0	346,347,348,354,359,382,436,448,455,456,537,635,636
+3012	Engel Jozef		0	600
+3012	Fedák Ignác		0	399
+3012	Fedor-Baldovič Anna		0	29,48,354,382,692
+3012	Fedorová Alžbeta r. Mikitová	m. Juraj	0	29,48,354,382,404,692
+3012	Fedorová Anna r. Buldová		0	590
+3012	Fedorová Mária r. Andrejčáková		0	569
+3012	Gaľa František	otec Ján, zomrel	0	55
+3012	Gala Ján	starší	0	619
+3012	Gaľa Ján		0	48,176,589,607
+3012	Gaľa Ján	zomrel	0	29,346,347,348,355,455,456,635,636,692
+3012	Gaľa Ján	ž. Dorota r. Beňová, zomrel	0	29,48,354,382,411,413,414,421,422,424,677,680,681,692
+3012	Gaľa Juraj	ž. Anna r. Hulvejová, zomrel 26.5.1971	0	685
+3012	Gallová Anna		0	589
+3012	Gaľová Anna r. Kočerhová	m. Andrej	0	29,692
+3012	Gaľová Anna r. Pavlíková	m. Ján	0	106
+3012	Gaľová Anna r. Pavlíková	manžel Ján	0	41,42
+3012	Galová Barbora	maloletá	0	589
+3012	Galová Dorota		0	589
+3012	Galová Dorota r. Beňová		0	607
+3012	Gaľová Dorota r. Beňová	m. Ján, zomrela	0	354,382
+3012	Gaľová Dorota r. Jakubová	m. Andrej	0	48
+3012	Galová Jana		0	589
+3012	Gaľová Mária	zomrela 22.2.1996	0	29,48,354,382,433,692
+3012	Gašpar Andrej	mladší	0	593
+3012	Gašpár Andrej	zomrel, otec Andreja Gašpára	0	48
+3012	Geczy Gejza	a manželka	0	592
+3012	Geczy Gejza	ž. Anna r. Beňová	0	29,48,354,363,382,692
+3012	Geczyová Anna r. Beňová	m. Gejza	0	29,48,354,363,382,692
+3012	Gerda Andrej	maloletý	0	608,618
+3012	Gerda Andrej	nižný, zomrel	0	48,354,382
+3012	Gerda Andrej	vyšný, zomerel 17.5.1989	0	346
+3012	Gerda Andrej	vyšný, zomrel 17.5.1989	0	346,347,348,373,404,411,413,414,421,422,424,455,456,635,636,677,680,681
+3012	Gerda Ján		0	608
+3012	Gerda Ján	1-zomrel	0	48
+3012	Gerda Ján	2-zomrel	0	48,177,178,189,346,347,348,373,404,411,413,414,421,422,424,455,456,635,636,666,667,677,680,681
+3012	Gerda Štefan	zomrel	0	346,347,348,355,386,455,456,635,636
+3012	Gerdová Anna r. Sabadošová	manžel Juraj	0	609
+3012	Glankovič Matta Ján	zomrel v r. 1987	0	298
+3012	Hašková Alžbeta	zomrel	0	48,411,413,414,421,422,424,677,680,681
+3012	Hlavatá Dorota r. Bakaľarová	zomrela	0	213,240,522
+3012	Hoffman František		0	29,45,48,354,382,577,692
+3012	Hoffman Jozef	ž. Anna r. Hrešková	0	361
+3012	Hoffmanová Anna r. Hrešková	m. Jozef	0	361
+3012	Hoffmanová Anna r. Minariková	m. Jozef, zomrela	0	29,48,354,382,411,413,414,421,422,424,677,680,681,692
+3012	Hoffmanová Mária		0	577
+3012	Hoffmanová Mária	narodená 2.10.1921, zomrela	0	29,45,48,354,382,692
+3012	Hrešková Anna		0	592
+3012	Hudáková Alžbeta r. Kostelníková	zomrela	0	48,63,215,330,346,347,348,367,404,411,413,414,421,422,424,455,456,635,636,677,680,681
+3012	Hudáková Anna r. Čonková	zomrela v USA	0	29,48,354,382,384,411,413,414,421,422,424,461,483,677,680,681,692
+3012	Hudáková Anna r. Križová	zomrela	0	246,346,347,348,407,455,456,541,635,636,660,693,694,696,698,701,702
+3012	Hufnagelová Anna	zomrela	0	48,460
+3012	Iľová Alžbeta r. Zimermanová	m. Ján	0	381,472
+3012	Imro Andrej	maloletý	0	589
+3012	Imro Andrej	zomrel	0	48
+3012	Imro Štefan	č. 61 Tuhrina, zomrel r. 1983	0	346,347,348,455,456,635,636
+3012	Imrová Alžbeta	maloletá	0	589
+3012	Imrová Barbora r. Galová		0	589
+3012	Imrová Barbora r. Gaľová	Abranovce, zomrela	0	29,48,55,346,347,348,455,456,631,635,636,692
+3012	Imrová Barbora r. Gaľová	zomrela, Abranovce	0	56,685
+3012	Imrová Dorota r. Gaľová	Mudrovce, zomrela	0	29,48,55,346,347,348,455,456,631,635,636,692
+3012	Imrová Dorota r. Gaľová	zomrela, Mudrovce	0	56,685
+3012	Imrová Elena	maloletá	0	589
+3012	Ivanecká Anna r. Vargová		0	621
+3012	Ivanecká Anna r. Vargová	m. Andrej	0	48
+3012	Ivanecký Ján		0	29,439,692
+3012	Ivanecký Štefan	USA-zomrel	0	404,439
+3012	Jendruščáková Irena	zomrela	0	346,347,348,367,455,456,635,636
+3012	Jendruščáková Juliana		0	346,347,348,367,455,456,635,636
+3012	Jozefčin Andrej	zomrel	0	210,291,346,347,348,376,455,456,635,636,639,714,715,716,717
+3012	Jusko Ján		0	473
+3012	Katušová Barbora r. Križová		0	48
+3012	Kobulnická Alžbeta r. Martoniková	narodená 15.11.1883, m. Juraj, zomrela 19.2.1969	0	404
+3012	Kobulský Juraj		0	610
+3012	Kocúr Andrej	zomrel	0	48,411,413,414,421,422,424,677,680,681
+3012	Kocúr Andrej	zomrel v USA	0	48,411,413,414,421,422,424,677,680,681
+3012	Kocúr Ján	ž. Barbora r. Fedorová, zomrel 7.1.1968	0	48,411,413,414,421,422,424,677,680,681
+3012	Kocúr Juraj		0	48,411,413,414,421,422,424,677,680,681
+3012	Kocúrová Anna r. Križová		0	48,371,411,413,414,421,422,424,677,680,681,691
+3012	Kocurová Barbora r. Fedorová		0	602
+3012	Kocúrová Barbora r. Fedorová	zomrela 22.1.1965	0	48,219,346,347,348,411,413,414,421,422,424,455,456,635,636,677,680,681
+3012	Kočerhová Dorota r. Galová		0	589
+3012	Kočerhová Dorota r. Galová	zomrela	0	29,48,692
+3012	Kolivoška Andrej	narodený 1899, zomrel	0	346,347,348,367,378,411,413,414,421,422,424,455,456,635,636,677,680,681
+3012	Kolivoška František	zomrel	0	404
+3012	Kolivoška Michal		0	404
+3012	Koscelniková Alžbeta r. Macková		0	597
+3012	Kostelník Andrej	zomrel 9.7.1990	0	48,156,346,347,348,354,382,404,455,456,635,636
+3012	Kostelník Juraj	zomrel	0	48,63,215,330,346,347,348,367,404,411,413,414,421,422,424,455,456,635,636,677,680,681

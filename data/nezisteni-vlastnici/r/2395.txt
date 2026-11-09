@@ -1,0 +1,256 @@
+1384	Šimová Sabina	maloletá	1	186
+1384	Šimová Zuzana	maloletá	1	186
+1384	Šulajová Elena r. Králiková	zomr.17.6.1991	0	356
+1384	Táčik Martin		1	237
+1384	Táčik Martin	LSR	0	238
+1384	Vaculčiaková Katarína		1	380
+1384	Varga Juraj	maloletý	1	237
+1384	Varga Juraj	maloletý, LSR	0	238
+1384	Varga Juraj	maloletý,LSR	0	135
+1384	Varga Michal	maloletý	1	237
+1384	Varga Michal	maloletý, LSR	0	238
+1384	Varga Michal	maloletý,LSR	0	135
+1384	Vilhanová Margita	rod.Šulajová	1	272,367
+1384	VINARČÍK Jozef	posledne bytom Šoltýska č.100 ,zomr.6.6.1973; posledne bytom Šoltýska č.100	0	219
+1384	Vojteková Mária	rod.Šulajová	1	272,362
+1384	Zaťko Juraj		1	237
+1384	Zaťko Juraj	LSR	0	135,238
+1384	Zaťko Ondrej		1	243,245
+1384	Zaťko Ondrej	LSR	0	242
+1384	Žilák Juraj		1	237
+1384	Žilák Juraj	LSR	0	135,238
+1385	BELUŠOVÁ Etela	r.Zvalová,otec Vendelín	0	624,1133,1220
+1385	BELUŠOVÁ Katarína	r.Petríková,manž.Ján	0	624,1210
+1385	BENKOVÁ Mária	r.Topolanová	0	624,953
+1385	BEZÁK Rudolf	man.Helena	0	1095
+1385	BEZÁK Štefan	mal	0	742,743,1028,1095
+1385	BEZÁKOVÁ Anna	mal	0	742,743,1028,1095
+1385	BEZÁKOVÁ Margita	mal	0	742,743,1028,1095
+1385	BIELIK Gejza		0	1189
+1385	BODOCKÁ Magdaléna	r.Beláňová	0	1183
+1385	BODOCKÝ Štefan	man.Magdaléna	0	1183
+1385	BOŠANSKÁ Mária	slob.č.d.56	0	284,880,881,882,1411
+1385	BOŠANSKÝ Štefan	man.Anna	0	284,880,881,882,1411
+1385	BUDAI Andrej		0	595
+1385	BUDAI Ondrej		0	636,638
+1385	BUDAI Ondrej	man.Zuzana	0	752
+1385	BUDAYOVÁ Zuzana	r.Pakšiová	0	624
+1385	BUDAYOVÁ Zuzana r. Pakšiová		0	946
+1385	ČERTEK Andrej	Bátovce	0	610,1173
+1385	ČERTEK Juraj		0	1173
+1385	ČERTEK Michal	CHeb	0	610,1173
+1385	ČERTEKOVÁ Anna	r.Remeňová	0	1095
+1385	ČERTEKOVÁ Zuzana	r.Gajdošová,zomrela	0	604,786
+1385	ČIŽMÁRIK Koloman	man.Jozefína	0	1121
+1385	ČIŽMÁRIKOVÁ Jozefína	r.Mikulová	0	1121
+1385	DAŇOVÁ Katarína	r.Melušová	0	1158
+1385	EHRENFELDOVÁ Gizela	r.Rosenbauverová	0	624,1214
+1385	EHRENNFELD Július	man.Gizela	0	624,1214
+1385	GAJDOŠ Adam	man.Eva r.Remeňová	0	624,758,1199
+1385	GAJDOŠ Adam	manželka Eva rod. Remeňová	0	603
+1385	GAJDOŠ Emil	č.d.69	0	757
+1385	GAJDOŠ Ján	č.d.114	0	604,786
+1385	GAJDOŠ Ján	č.d.69	0	757
+1385	GAJDOŠ Ján	súrodenci Jozef, Anna, Pavol	0	603
+1385	GAJDOŠ Jozef	maloletý, otec Juraj, súrodenci Július, Anna	0	603
+1385	GAJDOŠ Jozef	otec Juraj	0	604,605,624,718,786
+1385	GAJDOŠ Jozef	otec Juraj, súrodenci Anna, Ján, Pavol	0	603
+1385	GAJDOŠ Pavol	súrodenci Jozef, Anna, Ján	0	603
+1385	GAJDOŠ Štefan	č.d.114	0	604,786
+1385	Gajdošová Alžbeta r. Gajdošová	zomrela. Krnča 128, 95619 Krnča	0	1318
+1385	GAJDOŠOVÁ Anna	súrodenci Jozef, Ján, Pavol	0	603
+1385	GAJDOŠOVÁ Emília	č.d.69	0	613,792
+1385	GAJDOŠOVÁ Eva	r.Remeňová	0	1199
+1385	GAJDOŠOVÁ Mária	r.Gajdošová, súrodenci Ján,Juraj	0	624,718
+1385	GAJDOŠOVÁ Zuzana	maloletá, súrodenci Juraj, Ján, Štefan, Katarína, Mária	0	603
+1385	GAJDOŠOVÁ Zuzana	r.Vargová	0	646,990,1142
+1385	GOMBÁR Karol	Skačany 106,rodičia Juraj a Katarína	0	624,1206
+1385	GOMBÁR Rudolf	Skačany 103,rodičia Juraj a Katarína	0	624,1206
+1385	HALMO Anton		0	739,1095
+1385	HALMOVÁ Paulína	r.Daňová	0	1095
+1385	HANKOVÁ Mária	r.Kačinová,manž.Adam	0	624,1146,1215
+1385	HATALOVÁ Jozefína	r.Melušová	0	1102,1134
+1385	HATALOVÁ Jozefína r. Melušová		0	908
+1385	HODÁL Jozef		0	1017,1161
+1385	HODÁL Jozef	č.d.55	0	599
+1385	HODÁL Jozef	man.Anna	0	609,655,801,803
+1385	HODÁL Libor		0	611,975,976,977,978,1003,1111,1112,1113,1114,1238
+1385	Hodál Štefan r. Hodál	č.d. 158	0	1390
+1385	HODÁLOVÁ Barbora	r.Melušová	0	1095
+1385	HODÁLOVÁ Eva	r.Čavojová	0	624
+1385	HODÁLOVÁ Eva r. Čavojová		0	800
+1385	HODÁLOVÁ Jozefína	r.Topolanová	0	624,953
+1385	HUBKOVÁ Alžbeta	r.Čerteková	0	610,1173
+1385	JUNÁS Adam	rodičia Michal a Mária r.Krošlák	0	624,737,884,885,895,896,897,954,961,1068,1339
+1385	JUNÁS Gustáv	rodičia Michal a Mária,r.Krošlák	0	895,961
+1385	JUNAS Ján	man.Anna	0	571,855
+1385	JUNAS Ján	man.Katarína	0	1224
+1385	JUNAS Jozef	man.Anna	0	737,961,1068,1339
+1385	Junás Michal r. Junás	Manž. Anna	0	884
+1385	Junás Štefan r. Junás	Októbrova 272/27, 95619 Krnča, zomrel	0	1339
+1385	JUNASOVÁ Katarína	r.Krošláková,č.177	0	556,1224
+1385	Junasová Katarína r. Remeňová	rodičia Michal a Mária, 95619 Krnča	0	1311
+1385	Junásová Katarína r. Remeňová	rodičia Michal a Mária r. Gajdošová	0	1032
+1385	JUNASOVÁ Mária	r.Ribanová	0	1188
+1385	JUNÁSOVÁ Mária	rodičia Michal a Mária r.Krošlák	0	737,884,885,954,961,1068,1339
+1385	KACSINA Ondrej		0	460,867,1069
+1385	KACSINA Štefan		0	460,867,1069
+1385	KAČINA Emanuel	ml	0	636
+1385	KAČINA Ján		0	999,1147,1195
+1385	KAČINA Ján	č.d.181	0	636
+1385	KAČINA Ján	č.d.52	0	698,1083,1116
+1385	Kačina Ján r. Kačina	č.d.52	0	697
+1385	Kačina Ján r. Kačina	manželka Mária	0	697
+1385	KAČINA Jozef		0	523,763,999,1147,1164
+1385	KAČINA Jozef	č.d.22	0	636
+1385	KAČINA Jozef	man.Anna	0	999,1147
+1385	KAČINA Jozef	žandár	0	498,1083,1115,1116,1123
+1385	Kačina Jozef r. Kačina	žandár	0	697
+1385	KAČINA Juraj	man.Ernestína	0	599
+1385	KAČINA Ondrej		0	1149
+1385	KAČINA Ondrej	man.Katarína,r.Michalides	0	624,1208
+1385	KAČINA Štefan		0	595,637,948,1149
+1385	KAČINA Štefan	č.d.21	0	634,638,1131
+1385	KAČINA Štefan	man.Eva	0	597,598
+1385	KAČINA Štefan	man.Mária,vzdialený	0	599,999,1147
+1385	KAČINA Štefan	vzdialený	0	634,635,637,639,841,1379,1419
+1385	KAČINOVÁ Anna	/Matuška/	0	523,1143
+1385	KAČINOVÁ Eva		0	696,711,1045,1069,1152
+1385	KAČINOVÁ Jozefína	r.Matušková	0	523
+1385	KAČINOVÁ Katarína	r.Michalidesová	0	599,624,1162,1208,1225
+1385	KAČINOVÁ Katarína	r.Pakšiová	0	1196
+1385	KAČINOVÁ Mária	r.Čerteková	0	523,1194
+1385	KAČINOVÁ Mária	r.Krošláková,Krnča,čd.107	0	989
+1385	KAČINOVÁ Mária	r.Remeňová	0	1095,1138
+1385	KAČINOVÁ Mária	r.Vargová	0	989,995
+1385	KAČINOVÁ Zuzana	r.Kačinová	0	1122,1147
+1385	KAČINOVÁ Zuzana	r.Remeňová,manž.Ján	0	594,600,624,711,1045
+1385	KAČINOVÁ Zuzana	slobodná	0	634,635,636,637,638
+1385	KAČINOVÁ Zuzana r. Kačinová		0	523,763
+1385	KAHÚN Ján		0	788,1095
+1385	KAHÚN Jozef		0	1095
+1385	KAHUN Michal	ml.č.d.7	0	787
+1385	KAHÚN Michal		0	602,706,788,1095,1267
+1385	KAHUNOVÁ Mária	Krnča 7	0	1095
+1385	KAHUNOVÁ Mária	r.Remeňová	0	704,705
+1385	KOREC Štefan		0	1181
+1385	KOSTOLÁNYIOVÁ Adela	mal	0	711,1045
+1385	KROŠLÁK Adam	mal., rodičia Adam a Katarína rod. Sivá, brat Jozef	0	841
+1385	KROŠLÁK Gustav	maloletý, zdedené po otcovi Jánovi, manž. Anna r.Krošlák , súrodenci Štefan, Ján	0	1226
+1385	KROŠLÁK Gustav	rodičia Ján a Anna r.Krošlák	0	624,942,963,1209,1352
+1385	Krošlák Ján		0	757,1095
+1385	Krošlák Ján	mal. po Márii,súr.Mária,Anna,Otília,Amália	0	978
+1385	Krošlák Ján	maloletý - po Anne r.Remeň, rodičia Anna a Michal	0	556
+1385	Krošlák Ján	maloletý, po Kataríne , súrodenci Anna, Jozef, Ján	0	611,975,976,977,1111,1112,1113,1114,1238
+1385	Krošlák Ján	maloletý, po Márii , súrodenci Mária, Anna, Otília, Amália	0	611,975,976,977,1111,1112,1113,1114,1238
+1385	Krošlák Ján	po Eve r. Kačina, súrodenci Anna, Michal, Rudolf	0	557,558,559,571,595,597
+1385	Krošlák Ján	po Kataríne,súr.Anna,Jozef,Ján	0	978
+1385	Krošlák Ján	po Štefanovi, spoluvlastníčka Anna Vargová rod. Krošlák	0	817
+1385	Krošlák Ján	prezývaný Škruta po Arminovi spoluvlastníci Pavol, Andrej, Jozef, Štefan, Martin; prezývaný Škruta; po Arminovi; spoluvlastníci Pavol, Andrej, Jozef, Štefan, Martin	0	1238
+1385	KROŠLÁK Ján	mal	0	643,757,791
+1385	KROŠLÁK Ján	maloletý, po Kataríne rod. Remeň, spoluvlastníčka Anna	0	790
+1385	KROŠLÁK Ján	maloletý, po Kataríne, spoluvlastníci Anna, Jozef, Ján	0	989
+1385	KROŠLÁK Ján	maloletý, po Márii rod. Varga, súrodenci Mária, Anna, Otília, Amália	0	817,989,1292
+1385	KROŠLÁK Ján	maloletý, po Márii, rod. Varga, súrodenci Mária, Anna, Otília, Amália	0	989
+1385	KROŠLÁK Ján	maloletý, po Štefanovi, sestra Anna	0	989
+1385	KROŠLÁK Ján	maloletý, zdedené po Anne Varga r. Krošlák, súrodenci Mária, Amália, Anna, Otília	0	971
+1385	KROŠLÁK Ján	maloletý; po Kataríne; spoluvlastníci Anna, Jozef, Ján	0	818,875
+1385	KROŠLÁK Ján	maloletý; po Márii rod. Krošlák; súrodenci Mária, Anna, Otília, Amália	0	818,875
+1385	KROŠLÁK Ján	maloletý; po Štefanovi; sestra Anna	0	875
+1385	KROŠLÁK Ján	man.Mária	0	602
+1385	KROŠLÁK Ján	po Anne rod. Remeň, súrodenci Anna, Michal, Rudolf	0	989
+1385	KROŠLÁK Ján	po Anne rod. Remeň; súrodenci Štefan, Andrej, Katarína	0	818,875
+1385	KROŠLÁK Ján	po Eve rod. Kačina, súrodenci Anna, Michal, Rudolf	0	989
+1385	KROŠLÁK Ján	po Eve rod. Kačina, súrodenci Štefan, Andrea, Katarína	0	989
+1385	KROŠLÁK Ján	po Eve rod. Kačina; súrodenci Anna, Michal, Rudolf	0	818,875
+1385	KROŠLÁK Ján	po Jánovi, spoluvlastníci Katarína, rod. Remeň, Anna Vargová, rod. Krošlák	0	989
+1385	KROŠLÁK Ján	po Jánovi; spoluvlastníci Katarína rod. Remeň, Anna Vargová rod. Krošlák	0	818,875
+1385	KROŠLÁK Ján	po Márii rod. Varga; súrodenci Mária, Anna, Otília, Amália	0	818,875
+1385	KROŠLÁK Ján	prezývaný Škruta , po Arminovi , spoluvlastníci Pavol, Andrej, Jozef, Štefan, Martin; prezývaný Škruta	0	611,975,976,977,1111,1112,1113,1114
+1385	KROŠLÁK Ján	prezývaný Škruta,po Arminovi,spoluvl. Pavo,Andrej,Jozef,Štefan,Martin	0	978
+1385	KROŠLÁK Ján	syn Jána a Evy r.Kačinovej	0	624,1217
+1385	Krošlák Ján r. Krošlák	mal. po Máriir. Varga, súr. Mária, Anna, Otília, Amália	0	1321
+1385	Krošlák Ján r. Krošlák	maloletý - po Márii r. Varga, súrodenci Mária, Anna, Otília, Amália	0	330
+1385	Krošlák Ján r. Krošlák	maloletý, po Kataríne, súrodenci Anna, Jozef, Ján	0	1003
+1385	Krošlák Ján r. Krošlák	maloletý, po Márii rod. Varga, súrodenci Mária, Anna, Otília, Amália	0	602,612,628,817,1395
+1385	Krošlák Ján r. Krošlák	maloletý, po Márii rod. Vargovej, súrodenci Mária, Anna, Otília, Amália	0	629
+1385	Krošlák Ján r. Krošlák	maloletý, po Márii, súrodenci Mária, Anna, Otília, Amália	0	1003
+1385	Krošlák Ján r. Krošlák	po Eve rod. Kačina, súrodenci Ann, Michal, Rudolf	0	638
+1385	Krošlák Ján r. Krošlák	po Eve rod. Kačina, súrodenci Anna, Michal, Rudolf	0	598,599,817
+1385	Krošlák Ján r. Krošlák	spoluvlastníci Katarína rod. Remeň, Anna rod. Krošlák, Jozef, Ján z Čeľadiniec	0	1094,1095
+1385	KROŠLÁK Ján r. KROŠLÁK	maloletý, po maloletej Kataríne, súrodenci Anna, Jozef	0	817
+1385	KROŠLÁK Ján r. KROŠLÁK	maloletý, zdedené po otcovi Jánovi, manž. Anna r.Krošlák , súrodenci Štefan, Gustav	0	1226
+1385	KROŠLÁK Ján r. KROŠLÁK	po Anne Krošlák rod. Remeň, súrodenci Štefan, Andrej, Katarína	0	817
+1385	KROŠLÁK Ján r. KROŠLÁK	po Kataríne rod. Remeň, súrodenci Katarína, Štefan	0	817
+1385	KROŠLÁK Ján r. KROŠLÁK	prezývka Škruta,po Dr.Armin Kallai, spoluvlastníci Pavol, Andrej, Jozef, Štefan, Martin	0	1003
+1385	KROŠLÁK Michal	Rusnák	0	558
+1385	KROŠLÁK Michal	syn Jána a Evy r.Kačinovej	0	558,595,597,598,599,624,638,855,948,1217
+1385	KROŠLÁK Michal	syn Jána,č.d.108	0	557,559,624,628,1217,1272,1395
+1385	KROŠLÁK Rudolf	syn Jána,č.d.108	0	624
+1385	KROŠLÁK Štefan r. KROŠLÁK	maloletý, zdedené po otcovi Jánovi, manž. Anna r.Krošlák , súrodenci Gustav, Ján	0	1226
+1385	KROŠLÁKOVÁ Amália		0	330
+1385	Krošláková Anna	maloletá, po Márii rod. Varga, súrodenci Mária, Ján, Otília, Amalia	0	1292
+1385	KROŠLÁKOVÁ Anna	r.Remeňová, rodičia Michal a Mária	0	624,729,730
+1385	KROŠLÁKOVÁ Anna	r.Vargová	0	624,1216
+1385	Krošláková Anna r. Remeňová	manžel Michal, 95619 Krnča	0	1311
+1385	Krošláková Anna r. Remeňová	rodičia Michal a Mária r. Gajdošová	0	1032
+1385	KROŠLÁKOVÁ Eva	r.Kačinová	0	596,890,1130
+1385	KROŠLÁKOVÁ Eva	r.Krošláková	0	1167
+1385	KROŠLÁKOVÁ Katarína r. Vargová		0	602
+1385	KROŠLÁKOVÁ Mária		0	330,611,612,627,628,629,975,976,977,978,1003,1111,1112,1113,1114,1167,1238,1339,1394,1395
+1385	KROŠLÁKOVÁ Mária	č. domu 111, zdedené po Anne Varga r. Krošlák, súrodenci Amália, Ján, Anna, Otília	0	971
+1385	KROŠLÁKOVÁ Mária	maloletá, po Márii rod. Varga, súrodenci Ján, Anna, Otília, Amália	0	1292
+1385	KROŠLÁKOVÁ Otília	mal	0	330,602,611,612,627,628,629,975,976,977,978,1003,1111,1112,1113,1114,1167,1238,1394,1395
+1385	KROŠLÁKOVÁ Otília	maloletá, po Márii rod. Varga, súrodenci Mária, Ján, Anna, Amália	0	1292
+1385	KROŠLÁKOVÁ Otília	maloletá, zdedené po Anne Varga r. Krošlák, súrodenci Mária, Amália, Ján, Anna	0	971
+1385	KVORIAKOVÁ Anna	r.Bošanská, Canada	0	284,880,881,882,1411
+1385	LUKAČKA Ján	rodičia Šimon a Paulína r.Bezák	0	624,1210
+1385	LUKAČKA Jozef	rodičia Šimon a Paulína r.Bezák	0	256,624,1210
+1385	LUKAČKA Rudolf	rodičia Šimon a Paulína r.Bezák	0	256,624,1210
+1385	LUKAČKOVÁ Anna	rodičia Šimon a Paulína r.Bezák	0	256,624,1210
+1385	LUKAČKOVÁ Hedviga	rodičia Šimon a Paulína r.Bezák	0	256,624,1210
+1385	LUKAČKOVÁ Mária	rodičia Šimon a Paulína r.Bezák	0	256,624,1210
+1385	MACÍKOVÁ Elena	r.Švecová,otec Ján	0	624,1204
+1385	MARCINKOVÁ Margita		0	595,636,638,750,751,752,945,1367
+1385	MATUŠKOVÁ Anna	r.Števčíková	0	599,1157,1162
+1385	MELIŠEKOVÁ Anna	r.Melušová	0	863,1158,1269
+1385	MELIŠEKOVÁ Anna r. Melušová		0	1017
+1385	MELUŠ Anton		0	701,1118,1193,1202,1223
+1385	MELUŠ Anton	man.Anna Preseľany 22	0	701,1193,1202
+1385	Meluš Eduard r. Meluš	Krnča č.d. 187	0	1390
+1385	Meluš Eduard r. Meluš	zomrel, SNP 234, 95619 Krnča	0	1321
+1385	MELUŠ Florian	man.Margita	0	701,702
+1385	MELUŠ Ján		0	700,1009,1017,1095,1118,1158,1193,1202
+1385	MELUŠ Ján	man.Anna	0	906,907,1201,1202
+1385	MELUŠ Ján	man.Katarína	0	201,1095,1102
+1385	MELUŠ Jozef		0	700,702,703,1009
+1385	Meluš Jozef r. Meluš		0	1390
+1385	MELUŠ Ladislav	nezletilý	0	624,732,733,734,735
+1385	MELUŠ Michal	mal	0	700,1009
+1385	Meluš Rudolf r. Meluš	ž. Mária Štreicherová	0	1390
+1385	MELUŠ Štefan	č.d.20	0	863,1269
+1385	MELUŠOVÁ Anna	r.Vaňová Preseľany 22	0	701,1193,1202
+1385	MELUŠOVÁ Anna r. Machová		0	736
+1385	MELUŠOVÁ Jana r. Kňazeje		0	772
+1385	MELUŠOVÁ Jozefína	r.Šimčáková	0	1193,1202
+1385	MELUŠOVÁ Jozefína r. Šimčáková		0	701
+1385	MELUŠOVÁ Katarína	r.Kňazeje	0	1102
+1385	MELUŠOVÁ Katarína r. Kňazeje		0	201,864
+1385	MELUŠOVÁ Mária	r.Hnucsková	0	1102
+1385	MELUŠOVÁ Mária r. Hnucsková		0	201
+1385	MELUŠOVÁ Marta r. Kňazeje		0	864
+1385	MELUŠOVÁ Terézia	dcéra Viktora	0	624,1208
+1385	MELUŠOVÁ Terézia	nezletilá	0	624,732,733,734,735
+1385	MICHALIDES Adam		0	597,643,757,790,791
+1385	MICHALIDES Adam	man.Katarína,r.Kačinová	0	597,624,1218
+1385	MICHALIDES Adam	man.Mária	0	613,792
+1385	MICHALIDES Ján		0	1162,1225
+1385	MICHALIDES Jozef	mal	0	599,1162,1225
+1385	MICHALIDES Jozef	man.Katarína	0	1069
+1385	MICHALIDES Michal		0	1162,1225
+1385	MICHALIDES Ondrej	man.Mária	0	599
+1385	MICHALIDESOVÁ Eva	r.Kačinová,Krnča,čd.122	0	696,711,1045,1192
+1385	MICHALIDESOVÁ Eva r. Remeňová	Po Andrejovi a Márii,súr..Ondrej,Anna,Katarína,Mária,Helena,Ján	0	592
+1385	MICHALIDESOVÁ Katarína	r.Kačinová,manž.Adam	0	624,841,999,1069,1147,1218
+1385	MICHALIDESOVÁ Mária		0	505,1162,1225
+1385	MICHALIDESOVÁ Mária	r.Belanová	0	599,723

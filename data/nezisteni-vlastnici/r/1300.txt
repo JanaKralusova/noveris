@@ -1,0 +1,256 @@
+767	Halás Ján		0	1104,7010
+767	Halás Ján	manž. Mária rod. Hercegová	0	2011
+767	Halás Ján	ž.Mária Hercegová	0	8993
+767	Halás Ján	ž.Paulína Mareková	0	8992,8993
+767	Halás Ján	ž.Veronika Halásová	0	8992,8993
+767	Halás Ján, SR		0	4581
+767	Halás Jaroslav		0	7515
+767	Halás Jaroslav r. Halás		0	9054
+767	Halás Jonáš		0	3825,6240
+767	Halás Jozef		0	1104,3289,5208,5819,5821,7010,8993
+767	Halás Jozef	ž.Juliana Kubová	0	8992
+767	Halás Jozef	ž.Mária Halásová	0	8992
+767	Halás Jozef	ž.Paulína Ardanová	0	8992,8993
+767	Halás Jozef r. Halás		0	61,1176,5819,5821,8771,8993
+767	Halás Jozef r. Halás	ž.Štefánia Bobáková	0	1176,8771,8992,8993,9392
+767	Halás Jozef, SR		0	4962
+767	Halás Ľudovít		0	9066
+767	Halás Ludvik		0	9113
+767	Halás Michal		0	1104,1175,4350
+767	Halás Michal	mal	0	2889
+767	Halás Michal	syn Jána a Márie Galbičkovej	0	1170,1174,8767,8769,8770,8773,8943,8944,8945,8946,8992,8993,9007,9009,10346,10348
+767	Halás Michal	syn Štefana	0	8992
+767	Halás Michal	syn Štefana a Márie, r.Suchánekovej, ž.Terézia Kubranská	0	8992,8993
+767	Halás Michal	ž.Mária Košíková	0	8993
+767	Halás Michal	ž.Mária Pažitná	0	8993
+767	Halás Michal, SR		0	4962
+767	HALAS MILOS ING.		0	5208
+767	HALAS ROMAN		0	5208
+767	Halás Štefan		0	1104,1175,2307,3289,4350,5208,7010,8993,10681
+767	Halás Štefan	mal	0	2889
+767	Halás Štefan	syn Michala a Mária Pažitnej	0	1176,1537,8769,8770,8771,8773,8943,8944,8945,8946,8992,8993,9007,9009,10346,10348
+767	Halás Štefan	syn Štefana	0	8992
+767	Halás Štefan	ž.Mária Sucháneková	0	8993
+767	Halás Štefan r. Halás		0	2893
+767	Halás Štefan r. Halás	mal	0	2893
+767	Halás Štefan, SR		0	4962
+767	Halásová Anna r. Karabová		0	5876,6804,6805,10722
+767	Halásová Anna r. Karabová	Mária	0	8992,8993
+767	Halásová Anna r. Žáčiková	m.Jozef	0	9152
+767	Halásová Anna, SR		0	4962
+767	Halásová Apolónia r. Panáková		0	8993
+767	Halásová Júlia r. Halásová	m.Štefan	0	8993,9384
+767	Halásová Juliana		0	2889,2893,8992
+767	Halásová Katarína r. Paulovičová		0	9088
+767	Halásová Mária		0	1175,3289,4350,5208,8769,8770,8943,8992,8993,9007
+767	Halásová Mária	dcéra Jozefa a Júlie Kubovej	0	8993
+767	Halásová Mária r. Galbičová		0	8992
+767	Halásová Mária r. Halásová		0	1175,4350
+767	Halásová Mária r. Halásová	m.Jozef	0	8992,8993
+767	Halásová Mária r. Hercegová		0	8992,8993
+767	Halásová Mária r. Hercegová	m.Ján	0	8993,9089,9425
+767	Halásová Mária r. Pažitná		0	8992
+767	Halásová Mária r. Pažitná	m.Michal	0	1537,8769,8770,8943,8992,8993,9007
+767	Halásová Mária r. Pažitná, SR		0	4962
+767	Halásová Mária r.Hercegová		0	4471
+767	Halásová Paulína r. Ardanová	m.Jozef	0	8992
+767	Halásová Terézia r. Kubranská		0	1248,9000,9001
+767	Halásová Veronika		0	900
+767	Halásová Veronika r. Halásová		0	2173
+767	Halásová Veronika r. Halásová	predtým vydatá Miklovičová, druhý muž Ján Halás	0	8993
+767	Halásová Viktória r. Halásová	slobodná	0	8992,8993
+767	Halásová Viktória r. Svetlíková		0	901
+767	Halásová Viktória r. Svetlíková	m.Ľudovít	0	8992,8993
+767	HALMOVA MARTA		0	5202
+767	Halmová Terézia r. Štipáková		0	9627,9629
+767	Haluzová Mária r. Lackovičová		0	9736
+767	Hambálková Anastázia r. Halová		0	10132
+767	Hamerla Emil		0	9000,9001
+767	Hamerla Emil r. Hamerla		0	9885
+767	Hamerla Ján	ml	0	9000,9001
+767	Hamerla Štefan		0	4360,4361,5283,6766,9000,9001
+767	Hamerlová Amália		0	9000,9001
+767	HAMERLOVA ANNA R.MASARYKOVA		0	5611
+767	Hamerlová Katarína r. Šajtlavová		0	1699,9000,9001,9857
+767	Hamerlová Katarína r. Šajtlavová	m.Ján	0	9941
+767	Hamerlová Magdaléna		0	4360,4361,5283,6766
+767	Hamerlová Magdaléna r. Tomašovičová	m.Imrich	0	9000,9001
+767	Hamerlová Terézia r. Rajčányová		0	9814,10049
+767	Hamrla Ján		0	4357
+767	Hamrla Štefan		0	4357
+767	Hamrlová Magdaléna		0	4357
+767	Hanák Stanislav	ž. Matilda Siebenstichová	0	9341
+767	Hanáková Anna r. Konečná	m.Jozef	0	9334
+767	Hanáková Mária r. Solčanyiová		0	953
+767	Hangonyiová Mária r. Dome		0	9000,9001
+767	Hanidžiar Ján r. Hanidžiar		0	9000,9001
+767	Hanliš František		0	7009
+767	Hantišová Mária		0	4786
+767	Hantzmanová Elvíra r. Novotná		0	9000,9001
+767	Hanychová Anna r. Foltáneková		0	9000,9001
+767	Haršány Ján		0	9828
+767	Haršány Ján	ž.Paulína Nežatická	0	9000,9001
+767	Haršanyová Anna r. Haršanyová		0	9000,9001
+767	Haršányová Júlia r. Krausová		0	9000,9001
+767	Haršányová Magdaléna r. Hamerlová		0	9000,9001
+767	Haršányová Mária r. Prosmanová		0	5794
+767	Haršányová Paulína r. Nežatická	m.Ján	0	9000,9001,9973
+767	Hásová Helena		0	9000,9001
+767	Hašová Mária		0	9045
+767	Hauliš Anton r. Hauliš		0	9000,9001
+767	Hauliš Ferdinand	ž.Helena Pápešová	0	9000,9001
+767	Hauliš František		0	2393,6230,7719
+767	Hauliš Ján		0	9146,9456
+767	Hauliš Jozef		0	2393,6230,7719
+767	Hauliš Jozef	ž.Mária Dolníková	0	9000,9001
+767	Hauliš Sebastian		0	5617
+767	Hauliš Štefan		0	9000,9001
+767	Haulišová Gabriela r. Rozbeská	predtým Jahelková	0	9000,9001
+767	Haulišová Helena r. Pápešová	m.Ferdinand	0	9000,9001
+767	Haulišová Mária		0	9456
+767	Hausknecht Michal	ž.Mária Haulišová	0	9000,9001
+767	Hausknechtová Mária r. Haulišová		0	2393,6230
+767	Hausknechtová Mária r. Haulišová	m.Michal	0	9000,9001
+767	Hausknechtová Mária r.Haulišová		0	7719
+767	Havarošová Paulína r.Lenghartová		0	7405
+767	Havelková Mária r. Petrovičová		0	7866,7867,9000,9001
+767	Havlíková Aranka Aurélia r. Chládeková		0	9000,9001
+767	Havliš Ján	ž.Mária Miklovičová	0	9000,9001
+767	Havlišová Katarína r. Vagovská		0	10220
+767	Havlišová Mária r. Miklovičová		0	8992,8993
+767	Havlišová Mária r. Miklovičová	m.Ján	0	9000,9001
+767	Hedar Ludvik	ž.Hedviga Modrovská	0	9000,9001
+767	Hedarová Hedviga r. Modrovská	m.Ludvik	0	9000,9001
+767	Heimannová Ružena r. Linkenbergová		0	9000,9001
+767	Heindrichová Františka		0	9000,9001
+767	Heindrichová Katarína		0	9998
+767	Heinischová Anna r. Biščová		0	2822,2823,9000,9001,11206,11207
+767	HEINISCHOVA ANNA R.BISCOVA		0	6360,6638,6639
+767	Helová Anna r. Rebrová		0	6143
+767	Herceg Michal		0	9094
+767	Herceg Michal	ž.Katarína Pažitná	0	8992,8993
+767	Hercegová Anna r. Hercegová		0	2007
+767	Hercegová Katarína r. Pažitná	m.Michal	0	8992,8993,9051
+767	Hercegová Katarína r. Pažitná, SR		0	2561
+767	Herceková Katarína r. Pažitná		0	1632,8657
+767	Herceková Katarína r. Pažitná, SR		0	1440,4416,4418,4962,4975,4976,5318,8656,8658,8659,8660,8661
+767	Herda František		0	9419,9446
+767	Herda Jozef r. Herda		0	9000,9001
+767	Herda Viliam r. Herda		0	9132
+767	Herlistová Margita r. Pavlíková		0	9000,9001
+767	Hermanová Adela r. Bakayová		0	9000,9001
+767	Herzlíková Anna r. Tvrdoňová	druhýkrát vydatá Brázdová	0	9000,9001
+767	Herzová Marta r. Friedová		0	9000,9001
+767	Hesková Bernardína		0	9298
+767	Hesková Karolína r. Jančičková	m.Peter	0	2933
+767	Hill Rudolf	ž.Mária Karabová	0	9000,9001
+767	Hillová Mária r. Karabová	m.Rudolf	0	9000,9001
+767	Hirschfeldová Sidónia		0	9000,9001
+767	HLADEJ VIT		0	5475
+767	Hladký Anton r. Hladký	ž. Katarína Tomašovičová	0	9278
+767	Hlaváč František		0	7337
+767	Hlaváčová Mária r. Hudecová		0	7053
+767	Hlavandová Mária r. Caletková		0	9000,9001
+767	Hlavna František r. Hlavna		0	9000,9001,10092
+767	Hlavna Gustáv		0	8613
+767	Hlavna Jozef	malol	0	2070
+767	Hlavna Jozef r. Hlavna	rodičia Jozef a Katarína	0	9000,9001
+767	Hlavna Michal	ž.Matilda Procházková	0	9000,9001
+767	Hlavna Ondrej	malol	0	2070
+767	Hlavna Rudolf r. Hlavna		0	9000,9001
+767	Hlavnová Katarína r. Sulinyiová		0	967
+767	Hlavnová Margita r.Masaryková		0	6967
+767	Hlavnová Mária		0	9256
+767	Hlavnová Mária	malol	0	2070
+767	Hlavnová Matilda r. Procházková	m.Michal	0	9000,9001
+767	Hlavnová Štefánia r. Vargová	m.Michal	0	9195
+767	Hlavnová Terézia r. Sládečková		0	9000,9001
+767	Hlinčíková Jozefína r. Kraushuberová		0	10112
+767	Hnilica Ján	ž.Zuzana Marková	0	9000,9001
+767	Hnilicová Zuzana r. Marková	m.Ján	0	9000,9001
+767	Hoduliaková Otília r. Gáborová		0	9000,9001
+767	Hoffinger Ján, SR		0	1705
+767	Hoffingerová Anna, SR		0	1705
+767	Hoffingerová Magdaléna, SR		0	1705
+767	Hoffman Kristián r. Hoffman		0	9000,9001
+767	Hoffman Oliver r. Hoffman		0	9000,9001
+767	Hoffman Pavol r. Hoffman		0	9000,9001
+767	Hoffmann Július		0	9000,9001
+767	Hoffmann Štefan		0	2196,10680
+767	Hoffmann Štefan	ml	0	2196,10680
+767	Hoffmann Štefann		0	10680
+767	Hoffmannová Agneša r. Ďurčanyová	m.Ján	0	9000,9001
+767	Hoffmanová Danuša r. Hoffmanová		0	9000,9001
+767	Hochmutnová Berta r. Friedová		0	9000,9001
+767	Holík Jozef	ž.Júlia Štetinová	0	9799
+767	Holíková Júlia r. Štetinová	m.Jozef	0	9799
+767	Holka Ján	ž.Eva Mésárošová	0	9757
+767	Holková Eva r. Mésárošová	m.Ján	0	9757
+767	Holobradý Jozef, SR		0	3101
+767	Holovič Ján		0	9000,9001
+767	Holovič Peter r. Holovič		0	9000,9001
+767	Holovičová Alžbeta r. Zavadilová		0	9000,9001,9962
+767	Holovičová Sidónia		0	9000,9001
+767	Homola Anton		0	10031
+767	Homola František		0	10031
+767	Homola Rudolf		0	10031
+767	Homolová Vilma r. Hromadová		0	9259,9423
+767	Horka Marián r. Horka a Horková Margita r. Černayová		0	10129
+767	Horňáková Oľga r. Pastoreková		0	9000,9001
+767	Hornová Margita r. Hornová		0	9000,9001
+767	Horvát František	ž.Magdaléna Šmitalová	0	9767
+767	Horváth Dominik	ž.Anastázia Blštáková	0	9785
+767	HORVATH STEFAN		0	6113,6114,6115,9000,9001
+767	Horváthová Anastázia r. Blštáková	m.Dominik	0	9785
+767	Horváthová Anna r. Synáková		0	551
+767	Horváthová Anna r. Synáková, SR		0	551
+767	Horváthová Emília r. Synáková		0	5216
+767	Horváthová Eva r. Petrovičová		0	5794,6123
+767	Horvátová Emília r. Synáková		0	5215,5217
+767	HORVATOVA EMILIA R.SYNAKOVA		0	5214
+767	Horvátová Magdaléna r. Šmitalová	m.František	0	9767
+767	Hospodárske a lesné družstvo s.r.o. vo Svätom Petre		0	8994
+767	Hrabovská Valéria r. Hacajová		0	9000,9001
+767	Hradečná Paula r. Kunetová	m.Anton	0	9361
+767	Hradečný Anton	ž.Paula Kunetová	0	9361
+767	Hrdlicová Apolónia r. Zemanová		0	1672,8992,8993,9086,9553
+767	HRDLICOVA APOLONIA R.ZEMANOVA		0	5421,6502
+767	Hrebíková Emília r. Frkičová		0	9000,9001
+767	HREHA FRANTISEK		0	5352,8992
+767	Hrnčár Ján	ž.Anna Luciová	0	9000,9001
+767	Hrnčár Michal		0	3267
+767	Hrnčár Pavol		0	3267
+767	Hrnčárik Anton		0	9000,9001
+767	Hrnčárik Štefan		0	9000,9001
+767	Hrnčáriková Anna		0	9000,9001
+767	Hrnčáriková Anna r. Levčíková	m.Štefan	0	9000,9001,9996,10175
+767	Hrnčáriková Mária		0	9000,9001
+767	Hrnčárová Andela		0	3267
+767	Hrnčárová Anna		0	3267,9000,9001
+767	Hrnčárová Dagmar		0	9000,9001
+767	Hrnčárová Filoména r. Mokrá	m.Tomáš	0	9253
+767	Hrnčiarová Magdaléna r. Nitranová	m.Ján	0	9000,9001
+767	Hromada Alexín r. Hromada		0	8538
+767	Hromada Izidor		0	8538
+767	Hromada Ján		0	8538
+767	Hromada Jozef		0	8538
+767	Hromada Peter		0	8538
+767	Hromádková Júlia r. Moravčíková, SR		0	1710
+767	Hromadová Bernardína		0	8538
+767	Hromadová Jozefína		0	8538
+767	Hromadová Mária	nezl	0	8538
+767	Hroncová Bernardína r. Strháková		0	6542,8088
+767	Hrušovská Mária r. Felcánová		0	2608,2610,9000,9001
+767	Hrušovský Alojz		0	10081
+767	Hrušovský Jozef		0	10081
+767	Hrušovský Peter		0	10081
+767	Hubusová Anna r. Bačová		0	1662
+767	Hudec Jozef	ž.Mária Hudecová	0	9040
+767	Hudec Ľudovít r. Hudec		0	6241
+767	Hudecová Anna r. Kupecová, SR		0	4769
+767	Hudecová Jozefína		0	9000,9001
+767	Hudecová Jozefína r. Galbičková, SR		0	4416
+767	Hudecová Jozefína r. Pažitná		0	1632,8657
+767	Hudecová Jozefína r. Pažitná, SR		0	4976,8660
+767	Hudecová Jozefína, SR		0	4975,8659
+767	Hudecová Mária r. Kusýová	m.Jozef	0	9040

@@ -1,0 +1,256 @@
+1923	ŠTUBŇA Július		0	1518,1519
+1923	ŠTUBŇA Juraj		0	1518,1519
+1923	ŠTUBŇA Milan		0	1751,1786,1790,1791
+1923	ŠTUBŇOVÁ Adela	r.Skladaná	0	1786
+1923	Štubňová Anna		0	1518,1519
+1923	ŠTUBŇOVÁ Anna	r.Búdová	0	1749,1920
+1923	ŠUHAJDA Emil		0	1138,1139,1518,1519,1729
+1923	Šuhajda Ján		0	1518,1519
+1923	ŠUHAJDA Karol		0	2017
+1923	ŠUHAJDA Viliam		0	2017
+1923	ŠUHAJDA Vojtech		0	1139
+1923	ŠUHAJDOVÁ Anna		0	1518,1519
+1923	ŠUHAJDOVÁ Emma		0	2017
+1923	ŠUHAJDOVÁ Etela	r.Búdová	0	1152,1551,1767,1927
+1923	ŠUHAJDOVÁ Júlia	r.Beraxová	0	1518,1519
+1923	ŠUHAJDOVÁ Mária	r.Poliačiková	0	1138,1139,1729
+1923	ŠUŠA Ján		0	709,710,937,1588
+1923	ŠUŠA Jozef		0	709,710,937,1136,1588,1590,1632,2017
+1923	ŠUŠA Július		0	1100,1134
+1923	ŠUŠA Lukáč		0	795,796,1134,1309
+1923	ŠUŠA Štefan		0	709
+1923	ŠUŠOVÁ Anna		0	709,710,937
+1923	ŠUŠOVÁ Emília		0	709,710,937,1136,1588,1590,1632
+1923	ŠUŠOVÁ Jozefína	r.Marčoková	0	1538,1924
+1923	ŠUŠOVÁ Júlia		0	709,710,937,1136,1588,1590,1632
+1923	ŠUŠOVÁ Mária		0	709,710,937,1136,1588,1590,1632
+1923	ŠUŠOVÁ Mária	r.Kindernayová	0	796,2061
+1923	ŠUŠOVÁ Mária	r.Rybárová	0	709,710,937,2017
+1923	ŠUŠOVÁ Zuzana	r.Lehocká	0	2017
+1923	ŤAŽKÝ Daniel		0	1719
+1923	TIŠLIAROVÁ Margita		0	1437
+1923	TIŠTIANOVÁ Margita		0	849,927,1436,1544,1683
+1923	TIŠTIANOVÁ Mária	r.Pikulová	0	1518,1519
+1923	TIŠTIANOVÁ Mária	r.Šušová	0	1100,1134
+1923	TOMANČÍKOVÁ Mária	r.Juhásová Pikulová; Pikulová	0	733,1440,1441,1783,1784,1846,1855
+1923	TOMENGA Cyril		0	1437
+1923	TOMENGA Michal		0	919
+1923	TOMENGA Mikuláš		0	622,623,709,823,825,827,1437,1495,1496,1714,1807,1926,1980,2017
+1923	TOMENGOVÁ Anna		0	1437
+1923	TOMENGOVÁ Anna	r.Cibulová	0	1203,1309,1314,1518,1519
+1923	TOMENGOVÁ Emília		0	1518,1519
+1923	TOMKOVÁ Katarína	r.Hirková	0	1560
+1923	TREJČEKOVÁ Irena	r.Liskajová	0	1518,1519
+1923	TREMBUCHOVÁ Mária	r.Mravcová	0	1518,1519
+1923	TRNOVSKÁ Mária	r.Kološtová	0	1561
+1923	TURČAN Emil		0	1697
+1923	TURČAN Jozef		0	1518,1519
+1923	Turčan Štefan		0	1518,1519
+1923	TURČANOVÁ Anna	r.Kološtová	0	645,646,660,1518,1519
+1923	TURČANOVÁ Júlia	r.Šefranková	0	1518,1519
+1923	Turčanová Júlia r. Šefranková		0	1518
+1923	TURČANOVÁ Mária	r.Mravcová	0	1518,1519
+1923	TURČANOVÁ Matilda	r.Daučíková	0	1697
+1923	TURČANOVÁ Otília	r.Jančiarová	0	801
+1923	TYAKUSOVÁ Alojzia	r.Čilíková	0	1655
+1923	UHRÍK Ondrej		0	1791
+1923	URBAN František		0	558,2052,2178
+1923	URBAN Ján		0	558,2052,2178
+1923	URBAN Jozef		0	558,2178
+1923	URBANOVÁ Anna	r.Simanová	0	1054,1680,1807,1926
+1923	Urbanová Anna r. Simanová		0	1528
+1923	URBANOVÁ Emília	r.Kleskeňová	0	1677
+1923	URBANOVÁ Júlia	r.Čižmárová	0	709
+1923	URBANOVÁ Klára		0	1309,1815
+1923	URBANOVÁ Mária	r.Kindernayová	0	2052
+1923	VÁGNER Juraj		0	1518,1519
+1923	VÁGNEROVÁ Mária	r.Hrašková	0	1519
+1923	Vágnerová Mária r. Hrašková		0	1518
+1923	Válek Jozef		0	1518,1519
+1923	Váleková Ľudmila		0	1518,1519
+1923	VARGOVSKÁ Mária	r.Michalčíková	0	1518,1519
+1923	VASILOVÁ Mária	r.Mihalisková	0	709,710,937
+1923	VAVZAČOVÁ Cecília	r.Longauerová	0	1518,1519
+1923	VESELOVSKÝ Emil		0	842,1518,1519,1725
+1923	VESELOVSKÝ Ján		0	842,1518,1519,1725
+1923	VESELOVSKÝ Jozef		0	842,1725
+1923	VESTENOVÁ Mária	r.Záhorcová	0	1959
+1923	VILIGEROVÁ Mária	r.Rusnáková	0	1518,1519
+1923	VINCÚR Anton		0	1998
+1923	VINCÚR Ján		0	1309
+1923	VINCÚROVÁ Anna	r.Lokšová	0	750,753,755,964,1212,1535
+1923	Vincúrová Anna r. Lokšová		0	1482
+1923	VINCÚROVÁ Cecília		0	709,710,937,2017
+1923	VINCÚROVÁ Mária	r.Fililková	0	1998
+1923	VINCÚROVÁ Mária	r.Matláková	0	1629,1984
+1923	vlastník nie je známy		0	1309
+1923	VLNEČKOVÁ Anna	r.Balliková	0	2017
+1923	VOJAK Ján		0	1518,1519
+1923	VOKAŇOVÁ Františka	r.Birešová	0	1518,1519,1821
+1923	VÔSTIK Jozef		0	2046
+1923	VÔSTIKOVÁ Anna		0	2046
+1923	VÔSTIKOVÁ Mária		0	2046
+1923	ZAJACOVÁ Adela	r.Kapinová	0	703,1581
+1923	ZAJAČKO Jozef		0	1675,1716,1717
+1923	ZAJAČKO Štefan		0	1669
+1923	ZAJAČKOVÁ Mária	r.Šarinová	0	2051
+1923	ZÁZRIVCOVÁ Mária	r.Jančiarová	0	801
+1923	ZELENČÍKOVÁ Anna	r.Škodová	0	962,963,1268,1871,1959
+1923	ZRUBÁK Marián		0	688,879,880,966,1654
+1923	ZRUBÁK Michal	ml	0	688,879,880,966,1654
+1923	ZWEINOVÁ Apolónia	r.Košíková	0	1519
+1923	Zweinová Apolónia r. Košíková		0	1518
+1923	ŽABKA Jozef		0	1008,1746,1747
+1923	ŽABKOVÁ Anna		0	1008,1746,1747
+1923	ŽABKOVÁ Elena	r.Mistríková	0	1518,1519,1866
+1923	ŽABKOVÁ Margita		0	1008,1746,1747
+1923	ŽIVOR Benjamín		0	1309,1984,2037,2233
+1923	ŽIVOR Cyril		0	1309,1984,2037,2233
+1923	ŽIVOR Ján		0	1309,1518,1519,1984,2037,2233
+1923	ŽIVOR Jozef		0	1309,1984,2037,2233
+1923	ŽIVOR Jozef	z Dubovej	0	854
+1923	ŽIVOR Pavol		0	1309,1984,2037,2233
+1923	ŽIVOR Štefan		0	1601,1610
+1923	ŽIVOROVÁ Alžbeta	r.Turčanová	0	1154
+1923	ŽIVOROVÁ Mária	r.Chamková	0	2017,2037,2233
+1923	ŽIVOROVÁ Mária	r.Vincúrová	0	1587
+1924	Adamcsová Gizela r. Majorová		0	3341
+1924	Andrásiová Alžbeta r. Sámsonová	m.František	0	3365,3465
+1924	Antalecová Terézia r. Kunová		0	2616,3365,3465
+1924	Balejka Vojtech	ž.Katarína Horváth	0	3365,3465
+1924	Balejková Katarína r. Horváthová		0	3365,3465
+1924	BALOGHOVA JULIA R. BALOGHOVA		0	2442
+1924	Bardošová Rozália r. Voderáková		0	1802,3060,3181,3365,3465
+1924	Barna Dezider		0	3284
+1924	Barna Eugen		0	3284
+1924	Barnová Helena		0	3284
+1924	Barnová Júlia		0	3284
+1924	Benefiová Agneša r. Czentárová		0	3138
+1924	Benye Imrich		0	3365,3465
+1924	Bitter Karol	ž.Juliana Német	0	3240,3364
+1924	Bitter Štefan		0	3365,3465
+1924	Bitterová Alžbeta r. Tringelová		0	3365,3465
+1924	Bitterová Gizela	Nová Vieska	0	2740
+1924	Bitterová Juliana r. Némethová		0	3240,3364
+1924	Bocsor František		0	3217,3364
+1924	Bocsor Ľudovít		0	3217,3364
+1924	Bocsorová Helena		0	3217,3364
+1924	Bólyová Mária r. Czentárová		0	3333,3365,3465
+1924	Callaiová Margita r. Adomka		0	3365,3465
+1924	Centár Peter	ž.Helena Kuniková	0	3078
+1924	Centárová Helena r. Kuniková		0	2869
+1924	Csokás František	nezv	0	3365,3465
+1924	Czentár Alexander	zom.13.7.1969,Svodín 6	0	3333
+1924	Czentár Alexander	ž.Rozália Simonka	0	3365,3465
+1924	Czentár Andrej	ž.Františka Vargová	0	3365,3465
+1924	Czentár František	mal	0	3333,3365,3465
+1924	Czentár Karol		0	3365,3465
+1924	Czentár Peter	ž.Verona Komzsik	0	3365,3465
+1924	Czentár Vojtech		0	3333,3365,3415,3465
+1924	Czentárová Františka r. Vargová	m.Ondrej	0	3195
+1924	Czentárová Justína r. Dukonyová		0	3365,3465
+1924	Czentárová Mária		0	3333,3465
+1924	CZENTAROVA TEREZIA		0	1820
+1924	Czentárová Terézia r. Monczová		0	3365,3465
+1924	Czilling Ján	981,Svodín	0	2823,2824,3364
+1924	Czilling Ondrej	slob	0	3301
+1924	Czilling Štefan		0	3286
+1924	Česká republika - Úřad pro zastupování státu ve věcech majetkových		0	1982,2495,2496,2616,2617,2618,2619,2966,3631
+1924	Damián Ignác	s manž. Základina pre udržanie kaplnky	0	3207
+1924	Danics Baltazár	mal	0	3365,3465
+1924	Danics Baltazár	ž.Karolína Levicsek	0	3364
+1924	Danics Imrich	mal	0	3365,3465
+1924	Danics Ján	mal	0	3365,3465
+1924	DANICS JAN [ 11.2.1920]		0	1945
+1924	Danicsová Mária	mal	0	3365,3465
+1924	Danicsová Rozália r. Stégmarová		0	3364
+1924	Danicsová Verona	mal	0	3365,3465
+1924	Dékányová Anna r. Elzerová		0	3165
+1924	Dékányová Katarína r. Czentárová	zom.8.10.1964-8/66	0	2869,3365,3465
+1924	Dékányová Mária r. Fazekasová		0	3365,3465
+1924	DEKANYOVA MARIA R.NAGELOVA		0	2057
+1924	Deutchová Lívia r. Kleinová		0	3365,3465
+1924	Devorsová Mária r. Vrábelová		0	3055
+1924	Duchoňová Emerencia r. Puffová	MR Budapešť	0	2844,3365,3465
+1924	Duchoňová Emerencia r. Pufová		0	2283
+1924	Dukony Baltazár		0	3059,3121,3365,3465
+1924	Dukony František		0	3174
+1924	Dukony Ján		0	3174,3263
+1924	Dukony Michal		0	3174
+1924	Dukony Štefan		0	1830,3365,3465
+1924	Dukony Štefan	mlad	0	1829
+1924	Dukony Štefan	ž.Terézia Csák	0	3312
+1924	DUKONY VOJTECH		0	1978
+1924	Dukonyová Magda r. Halušková		0	2181,3364
+1924	Dukonyová Rozália r. Vargová		0	3187
+1924	Elzer Baltazár		0	3046,3549
+1924	ELZER BLAZEJ		0	2278,2279,2657,3365,3449,3465
+1924	Elzer František, Dr.		0	1803
+1924	ELZER JAN		0	2278,2280,3165,3296,3365,3465
+1924	Elzer Július	mal	0	3200
+1924	Elzer Ondrej		0	3235
+1924	Elzer Štefan	ž.Emília Moncz	0	3364
+1924	ELZER ŠTEFAN		0	2067,2365,2456
+1924	Elzer Vojtech	ž.Hermína Svajczer	0	3365,3465
+1924	ELZER VOJTECH		0	2266
+1924	ELZEROVA HELENA R.ELZEROVA		0	2266
+1924	Elzerová Karolína		0	3200
+1924	Elzerová Katarína r. Csókásová		0	3364
+1924	Elzerová Magdaléna r. Fazekasová		0	3365,3465
+1924	Elzerová Magdaléna r. Kissová		0	3365,3465
+1924	Elzerová Terézia		0	3046,3549
+1924	Elzerová Terézia r. Elzerová		0	3200
+1924	Endrődi Katarína r. Sámson		0	2240,2241,2915,3446
+1924	Endrődi Katarína r. Sámson	vd. m.Jozef; vd. m.Jozef	0	3365,3465
+1924	ENOKOVA AGNESA R. SAMSONOVA		0	2312,3365,3465
+1924	ENOKOVA AGNESA R.SAMSONOVA		0	1953
+1924	Enoková Helena r. Lakatosová		0	3365,3465
+1924	Fabián Ján	nar.29.8.1907,maliar v Tate	0	1972,3365,3465
+1924	Fábián Ján		0	1973,2979
+1924	Fabiánová Hermína r. Kunyiková	zom.27.4.1961	0	3365,3465
+1924	FÁBIÁNOVÁ HERMINA R. SVAJCEROVÁ		0	2456
+1924	Fábiánová Hermína r. Svajcerová	vd	0	2365
+1924	Fábianová Petronela r. Királyová		0	3205
+1924	FABIANOVA TEREZIA R.SZASZOVA		0	2197,3415
+1924	Farkasová Terézia r. Duchonyová		0	3304,3305
+1924	Farský Koloman		0	3153
+1924	Fazekas Ján	ž.Mária Torma	0	3365,3465
+1924	Fazekas Ľudovít	mal	0	3365,3465
+1924	Fazekas Ondrej		0	3364
+1924	Fazekas Ondrej	ž.Magda Moravek	0	3365,3465
+1924	FAZEKASOVA ELENA		0	1820,3365,3465
+1924	Fazekasová Helena		0	3365,3465
+1924	FAZEKASOVÁ MAGDALÉNA r. MORAVÍKOVA		0	2027,2029
+1924	Fazekasová Mária		0	3365,3465
+1924	Fazekaš Štefan		0	3299,3365,3465
+1924	Fazekaš Vojtech		0	3365,3465
+1924	Feketeová Alžbeta	mal	0	3365,3465
+1924	Feketeová Katarína r. Mánya		0	3365,3465
+1924	Fleischnerová Adela r. Funková		0	3043,3365,3465
+1924	Foglárová Margita	Horní 307,Police nad Metují,549 54	0	3252,3365,3465
+1924	Fraiová Terézia r. Monczová		0	3365,3465
+1924	Fraj Baltazár	ž.Helena Valko	0	3365,3465
+1924	Frajová Agneša r. Fehérová	vd	0	3454
+1924	Fraňo Michal		0	3365,3465
+1924	Franta Baltazár	ž.Hermína Centár	0	3365,3465
+1924	Franta František		0	2058,3365,3465
+1924	Franta Peter	ž.Alžbeta Csokásová	0	3286
+1924	Frantová Alžbeta r. Czentárová		0	2085
+1924	Frantová Hermína r. Centárová		0	3365,3465
+1924	FRANTOVÁ HERMÍNA R. CZENTÁROVÁ		0	2483
+1924	Frantová Klára r. Hózová		0	2049,2050,3365,3465
+1924	FRANTOVA KLARA R.HOZOVA		0	2197
+1924	Frantová Magda r. Nágelová		0	3364,3365,3465
+1924	Frantová Rozália r. Feketeová		0	3365,3465
+1924	Fridemanová Berta r. Kellnerová		0	3317
+1924	Fucková Gizella r. Kellnerová		0	3317
+1924	Funk Henrich		0	3173,3365,3465
+1924	Funk Michal		0	3173,3365,3465
+1924	Funk Móric		0	3043,3365,3465
+1924	Funk René		0	3173,3365,3465
+1924	Funková Irena		0	3173,3365,3465
+1924	Funková Lenka		0	3173,3365,3465
+1924	Funková Szerena		0	3173,3365,3465
+1924	Goldsteinová Helena r. Funková		0	3173,3365,3465
+1924	Gonocz Jozef	ž.Helena Rohmann	0	3364
+1924	Gonoszová Margita r. Lehocká		0	3217

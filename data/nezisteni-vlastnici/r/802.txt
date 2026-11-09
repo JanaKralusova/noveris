@@ -1,0 +1,256 @@
+456	TAKAC Jozef		1	1273,1648,1862
+456	TAKAC Stefan		1	760,762,2130
+456	Takacová Viktória r. Mikusová		0	1733
+456	TAKACS Agoston		1	880,2130
+456	Takács Alojz		0	1674,2041
+456	TAKACS Frantisek		1	880,1609
+456	TAKACS Jan		1	795,1195,1667
+456	TAKACS Jozef	ST	1	868,1231,1552
+456	Takács Jozef		0	1764,1820
+456	TAKACS Karol	ST	1	677
+456	TAKACS Ladislav	ž.LOCSIOVA TEREZIA	1	795
+456	Takács Ladislav		0	1657
+456	TAKACS Ludovit		1	1195,1303,1657
+456	Takács Michal		0	1667
+456	TAKACS Peter		1	880,2130
+456	TAKACS Pongrac		1	880,2130
+456	TAKACS Stefan		1	880,1195,1220,1609
+456	TAKACS Viliam		1	1233
+456	TAKACSOVA Julianna		1	795
+456	TAKACSOVA Julianna	ROD.KUBICSKOVA	1	677,1227
+456	Takácsová Julianna r. Kubicsková		0	1875,2102,2130
+456	TAKACSOVA Margita	ROD.LENGYELOVA	1	687,762
+456	Takácsová Margita r. Lengyelová		0	2130
+456	TAKACSOVA Maria		1	880,1220,1662
+456	TAKACSOVA Sidonia	ROD.MOLNAROVA	1	851,1189,1371
+456	Takácsová Sidónia r. Molnarová		0	1837,2130
+456	Takácsová Šarolta r. Zavanciková		0	1941
+456	TAKACSOVA Terezia		1	795,1220,1662,2000
+456	TAKACSOVA Viktoria		1	868,1231,1552,1788
+456	TAKACSOVA Vilma	ROD.TAKACSOVA	1	795
+456	TAKACSOVA Zofia	ROD.TAKACSOVA	1	1192
+456	Takácsová Žofia r. Takacsová		0	1890
+456	Tirinda Ľudovít		0	2086
+456	TIRINDOVA Terezia	ROD.BABELOVA	1	781
+456	TOKA Elias		1	1222
+456	TOKAOVA Janka	ROD.PAPPOVA	1	1222
+456	Tóth Alexander		0	1758
+456	TOTH Alojz		1	811,819,1687,1966,2130
+456	TOTH Alojz	SYN JANA	1	846,1568,1584
+456	TOTH Antal	ž.POZSONYI TEREZIA	1	1308
+456	TOTH David		1	1221,1989,2131
+456	TOTH Frantisek		1	806,818,2065
+456	TOTH Jan		1	872,1744,2115,2130
+456	TOTH Jan	KONFISKAT	1	1311
+456	TOTH Ladislav	SYN JANA	1	846,1568,1584
+456	Tóth Ladislav		0	1687
+456	TOTH Stefan		1	890,1969,2119
+456	Tóth Viliam		0	1846
+456	TOTH Vojtech	ž.KOVACSOVA ETELA	1	1302
+456	TOTHOVA Alzbeta		1	890,1609,1988
+456	TOTHOVA Anna		1	818
+456	TOTHOVA Anna	ROD.TOTHOVA	1	812,892,1123,1311
+456	Tóthová Anna r. Tothová		0	1780
+456	TOTHOVA Brigita	ROD.MESZAROSOVA	1	1170,2334,2341
+456	Tóthová Brigita r. Meszarosová		0	1667,2078,2131
+456	TOTHOVA Gizela	ROD.VERESOVA	1	820
+456	TOTHOVA Julianna	ROD.VALLOVA	1	677,1227
+456	Tóthová Julianna r. Vallová		0	2119
+456	TOTHOVA Kamila	ROD.KOCSISOVA	1	678
+456	TOTHOVA Maria	ROD.TAKACSOVA	1	1235
+456	Tóthová Rozália r. Molnarová		0	1648
+456	Tóthová Sidónia r. Tothová		0	1609,1831
+456	TOTHOVA Vilma		1	1302,1965
+456	Uherová Katarína r. Okenková		0	1657,1662
+456	UHEROVA Katarina r. OKENKOVÁ, SR	D:	1	689
+456	VADKERTI Anton		1	1319
+456	VADKERTI Ernest		1	1314
+456	VADKERTIOVA Barbora	ROD.POZSONYIOVA	1	1319
+456	VALLO Sidonia r. TOTHOVA, SR		0	581
+456	VALOVA Sidonia	R.TOTHOVA	1	657
+456	Valová Sidónia r. Tothová		0	1790
+456	Varadiová Mária r. Lengyelová		0	1657
+456	VARGOVA Rozalia		1	1302
+456	VARGOVA Valeria		1	1302
+456	VERES Frantisek	ž.TOTHOVA HELENA	1	820
+456	Veresová Helena r. Tothová		0	1639
+456	VERESOVA Verona	ROD.ANDODIOVA	1	1179
+456	Veresová Verona r. Andodiová		0	2037
+456	Veresová Žofia r. Tothová		0	1667
+456	VESELA Terezia r. MIKUSOVA, SR	D:	1	803
+456	VESELA Zofia r. BABOSOVA, SR	D:	1	1228
+456	VESELY Jan		1	803
+456	Vesely Ludovít		0	2130
+456	VIGA Frantisek		1	1299
+456	VIGOVA Alzbeta	ROD.KOCSISOVA	1	1299
+456	VINCZEOVA Maria	ROD. TOTHOVA	1	1302
+456	Vitez Urge Jozef		0	1718
+456	WEISZ Eugen		1	789
+456	WEISZOVA Jozefina		1	789
+457	Ambrus Štefan		0	919
+457	Ambrusová Barbora r. Mozesová		0	542,1276
+457	Antalová Júlia r. Ferdinandová		0	449,924
+457	Bariová Lenka		0	485,503,505,558,1153
+457	Bariová Piroška r. Garajová		1	723,818
+457	Bariová Terézia r. Juhászová		0	485,503,558,1198
+457	Bariová Terézia r. Juhászová	m.Ondrej	1	676,745,816
+457	Barriová Lenka		1	676,702,712,744,745,816
+457	Barry Emil	zom.29.11.1998	1	680,725,751,823,832,835
+457	BARTOK ALEXANDER		0	541,544,1273
+457	Bartók Német Ruman Vojtech		1	671
+457	Bartók Štefan	zom.19.6.1986	1	114
+457	Bartók Štefan nar.18.1.1901		0	1031
+457	Bartók Štefan, SR	zom.19.6.1986	1	811
+457	Bartok Vojtech	r. Nemet	0	493,1295
+457	Bartók Vojtech	zom.6.9.1993	1	114
+457	Bartók Vojtech 19.10.1923 zomrel		0	904
+457	Bartók Vojtech Német R.		0	1101
+457	Bartók Vojtech, SR	zom.6.9.1993	1	811
+457	Bartoková Margita	mal	0	477,495
+457	Bartóková Margita mal.		0	857
+457	Bartóková Mária r. Chovanová		0	857
+457	Bartoková Mária r. Nemet		0	493,1295
+457	Bartóková Mária r. Németová		0	1123
+457	Bartóková Német Mária		1	671
+457	Bekeová Juliana r. Speczková		0	536,537,1124
+457	Belák Alexander		0	472,521,572,573,834,839,840,1222,1298,1299,1307
+457	Belák Ján		0	472,1079
+457	Belák Ľudovít		0	857
+457	Belák Ondrej		0	472,1140
+457	Belák Štefan		0	521,1235
+457	Beláková Juliana r. Garajová		0	505,509,1214
+457	Beláková Mária	mal	0	521
+457	Beláková Mária mal.		0	1160
+457	Beláková Terézia r. Mozesová		0	557,961
+457	Bellák Alexander		1	675,751,770,832,835
+457	Bellák Ján		1	675,720
+457	Bellák Ladislav		1	472,675,720,992
+457	Bellák Ľudovít		1	720
+457	Bellák Ondrej		1	675,720
+457	Bellák Štefan		1	770
+457	Belláková Barbora		1	770
+457	Belláková Juliana r. Garajová	m.Alexander	1	712,723,744,818
+457	Bereczová Helena r. Pomajová		1	481,546,551,572,573,678,679,751,831,832,834,835,839,840,1213,1296,1298,1299,1306,1307
+457	Blatník Ľudovít		1	733,1276
+457	Blatníková Helena r. Ferdinandová		1	449,701
+457	Blatníková Priška r. Juhászová		0	574,838,857,1302,1304
+457	Blatníková Terézia r. Bacsová		0	516,952
+457	Blatníková Zuzana r. Mozesová		0	455,1024
+457	Bodnárová Zuzana r. Kováčová		0	1193
+457	Breznaník Štefan	zom.1.12.1998	1	720
+457	Breznaníková Etela	zom.12.7.1982	1	770
+457	Breznaniková Etela r. Beláková	zom.12.7.1982	0	1241
+457	Breznaníková Etela r. Beláková	zomr.12.07.1982	0	521
+457	Csuhaj Štefan		0	469,541,544,1042,1294
+457	Csuhajová Irma		0	541,544,1267
+457	Csuhajová Terézia		0	541,544,1116
+457	Čuhaj Alexander		1	114,811
+457	Čuhaj Štefan		1	114,811
+457	Čuhajová Irma		1	114,811
+457	Čuhajová Terézia		1	114,811
+457	Dorčák Alexander		1	482,732,1234,1313
+457	Dorčák Ladislav		1	482,732,868,1313
+457	Dorčáková Mária r. Pomajová		1	709
+457	Dorová Ella r. Mózesová	zomrela	0	1132
+457	Dórová Ella r. Mózesová		1	674,824
+457	Dusza Ján		1	729
+457	Dusza Michal		1	729
+457	Duszová Zuzana r. Harsányiová		1	729
+457	Farkasová Barbora r. Harsanyiová		0	485,885
+457	Farkasová Barbora r. Harsányiová	m.Štefan	1	676,816
+457	Farkašová Juliana r. Kupeczová		0	1043
+457	Ferdinand Alexander	zom.17.7.1969	1	766
+457	FERDINAND ALEXANDER		0	461,480,574,836,838,1107,1302,1304,1309,1312
+457	Ferdinand Alexander mal.		0	1247
+457	Ferdinand Arpád nar.17.9.1920 zomrel		0	1056
+457	Ferdinand Bartolomej		0	1092
+457	Ferdinand Dezider	mal	0	595,597,842
+457	Ferdinand Dezider	zom.20.7.1999	1	693
+457	Ferdinand Dezider mal.		0	1263
+457	Ferdinand Ján		0	452,854
+457	Ferdinand Ľudovít	mal	1	479,520,734
+457	Ferdinand Ľudovít	zom.21.5.1970	1	694
+457	Ferdinand Ľudovít mal.		0	1175
+457	Ferdinand Ondrej	ž.Terézia r.Flanderová	1	694
+457	FERDINAND ONDREJ		1	574,670,693,701,734,838,857,1302,1304
+457	Ferdinand Štefan		0	574,596,838,1276,1302,1304
+457	Ferdinand Štefan	najml	0	595,597,842
+457	Ferdinand Štefan najmladší		0	1179
+457	Ferdinand Vojtech		1	96,456,462,480,502,515,517,559,560,572,573,574,594,595,596,597,665,748,751,766,785,832,834,835,838,839,840,841,842,1021,1298,1299,1302,1304,1307,1310,1311
+457	Ferdinand Vojtech /SPF/, SR		1	95
+457	Ferdinand Zoltán		1	480,497,508,572,573,574,751,832,834,835,838,839,840,977,1298,1299,1301,1302,1304,1307
+457	Ferdinandová Margita	zom.1.12.2000	1	679
+457	Ferdinandová Margita r. Garajová		0	509,1151
+457	Ferdinandová Mária		0	510,999
+457	Ferdinandová Mária r. Harsanyiová		0	452
+457	Ferdinandová Mária r. Chovanová		0	574,838,857,1302,1304
+457	Ferdinandová Reti Margita r. Garajová	m.Štefan	1	723,818
+457	Ferdinandová Terézia		0	559,574,594,838,841,965,1302,1304
+457	Ferdinandová Terézia r. Flanderová		0	852
+457	Ferdinandová Terézia r. Flanderová	m.Ondrej	1	694,735
+457	Ferdinandová Zuzana r. Ambružová		0	899
+457	Flander Július	zom. 3.10.1931	0	454,462
+457	Flander Július 3.10.1931 zomrel		0	1264
+457	Flander Štefan		0	476,486,574,597,838,1089,1302,1303,1304
+457	Flander Štefan mal.		0	1276
+457	Flanderová Ema r. Garajová		0	509,1075
+457	Flanderová Ema r. Garajová	m.Štefan	1	723,818
+457	Flanderová Juliana r. Blatníková		0	1126,1323
+457	Flanderová Margita r. Volcsková		0	466,1061
+457	Flanderová Margita r. Volčková	m.Martin	1	741,819
+457	Forrayová Terézia r. Harsányiová		1	151,454,513,527,720,1157,1305
+457	GARAJ ALEXANDER		0	509,1210
+457	GARAJ BARTOLOMEJ		1	509,723,818,982
+457	Garaj Július /nar.18.12.1925-zom./		0	944
+457	Garaj Ľudovít		1	723,818
+457	Garaj Ondrej		1	723,818
+457	Garaj Ondrej	ž. Margita Demeter	0	509
+457	Garaj Ondrej /ž.Margita Demeter/		0	956
+457	Garaj Štefan		1	723,818
+457	Garaj Vojtech	mal	0	509
+457	Garaj Vojtech	zom.28.1.1988	1	114,723
+457	Garaj Vojtech mal.		0	1182
+457	Garaj Vojtech nar.8.4.1915		0	1008
+457	Garaj Vojtech, SR	zom.28.1.1988	1	818
+457	Garajová Gizela		1	509,723,818,942
+457	Garajová Margita r. Kankulová		0	472,1135,1323
+457	Garajová Margita r. Kankulová	m.Vojtech	1	675,736
+457	Garajová Mária		0	1276
+457	Garajová Mária r. Harsányiová	m.Ladislav	1	720
+457	Garajová Piroška		0	509,1063
+457	Garajová Terézia r. Micsinszka	m.Pavol	1	671
+457	Garajová Terézia r. Micsinszká		0	493,879,1295
+457	Garajová Terézia r. Tothová		0	583,586,1137
+457	Harsányi Albert		1	200,464,485,676,814,816,830,920
+457	Harsányi Alexander	mal	1	412,533,812
+457	Harsanyi Alexander mal.		0	1095
+457	Harsányi Bartolomej		1	151,454,513,527,720,922,1305
+457	Harsanyi Ján	mal	0	484
+457	Harsányi Ján		1	200,464,814,830,1103
+457	Harsanyi Ján mal.		0	1249
+457	Harsanyi Ladislav	ml	0	1323
+457	Harsanyi Ladislav	slabomys., mal	0	485
+457	Harsányi Ladislav		1	151,454,485,513,527,676,717,720,816,1030,1305
+457	Harsányi Ladislav	slabomys.mal	1	676,816
+457	Harsanyi Ladislav mal.slabomyselný		0	854
+457	Harsanyi Ladislav mlad.		0	907
+457	Harsanyi Ľudovít		0	1138
+457	Harsányi Ľudovít	mal	1	672
+457	Harsanyi Ľudovít ž.Terézia ml.		0	854
+457	HARSANYI MARTIN		0	495,1064
+457	Harsanyi Mikuláš		0	464,830,1239
+457	Harsányi Štefan		1	717,838,857,1302,1304
+457	Harsanyi Štefan .		0	1224
+457	Harsanyiová Barbora r. Boczková		0	498,572,573,834,839,840,1120,1298,1299,1307
+457	Harsányiová Barbora r. Boczková	m.Alexander	1	743,751,832,835
+457	Harsányiová Etela	mal	1	691
+457	Harsányiová Gizela	mal	1	691
+457	Harsányiová Helena		1	672
+457	Harsanyiová Ilona		0	484,1250
+457	Harsanyiová Irena r. Hlavčeková		0	483,1104
+457	Harsanyiová Juliana		0	857
+457	Harsányiová Margita	mal	1	412,533,812
+457	Harsanyiová Margita mal.		0	1049
+457	Harsanyiová Mária r. Garajová		1	509,723,818,1257
+457	Harsanyiová Terézia		1	484,672,1096
+457	Harsányiová Terézia r. Hlavcseková		1	733,767,782

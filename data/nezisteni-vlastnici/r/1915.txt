@@ -1,0 +1,256 @@
+1120	Vidová Anna	súr.Rozália,Imrich	0	230,260,769
+1120	Világi Ladislav	súr.Móric,Jozef,František	0	862
+1120	Világi Móric	ž.Mária r.Soósová	0	862,863
+1120	Vonyik Ján	ž.Cecília r.Zemesová	0	908
+1120	Vonyiková Cecília r. Zemesová	m.Ján	0	908
+1121	Broklovová Mária r. Jakubečeková		0	87
+1121	Broklovová Mária r. Jakubečeková, Podunajské Biskupice, SR		0	51,52,196,237,276,279
+1121	Csuviková Mária		0	221
+1121	Ferencková Anna		1	132,162,232,246,276,277,278,279,1173
+1121	Ferencková Mária r. Jacková		0	165
+1121	Ferencková Zuzana		0	66,67
+1121	Feznicky Juraj		0	162,276
+1121	Grivalský Mikuláš		0	242
+1121	Jaduš Andrej		1	38,87,98,162,268,269,270,271,276,277,278,279,280,281,1127
+1121	Jaduš Ján	žena Kupská A	0	207
+1121	Jadušová Anna		1	85,91,93,162,225,226,276,277,278,279
+1121	Jadušová Zuzana		0	38,87,268,269,270,271,280,281
+1121	Jadušová Zuzana	vydatá Kupská	1	162,276,277,278,279
+1121	Jakubeckova Anna		0	53
+1121	Jakubeček Andrej		1	106,107,162,251,276,277,278,279,344,346,1089
+1121	Jakubeček Jakub		1	35,51,52,53,87,162,195,196,237,276,277,278,279,280,281
+1121	Jakubeček Ján		1	51,52,53,113,123,162,195,276,277,278,279
+1121	Jakubeček Ján	+16.05.1965	1	276,277,278,279
+1121	Jakubeček Ján, SR	zomrel 16.05.1965	1	162
+1121	Jakubeček Ondrej		0	106,107,162,276,277,278,279,344,346,1089
+1121	Jakubečeková Anna		1	51,52,162,195,276,277,278,279
+1121	Jakubečeková Katarína		0	98,162,276,277,278,279,1127
+1121	Jakubečeková Mária		1	51,52,162,276,277,278,279
+1121	Jakubečeková Zuzana		0	112,162,276,277,278,279,1163
+1121	Jakubečeková Zuzana r. Lesná		0	227
+1121	Kittanová Mária		0	66,67
+1121	Koč Juraj		1	71,111,162,276,277,278,279,349,350
+1121	Koč Michal		1	91,137,162,240,276,277,278,279
+1121	Kočová Mária r. Jakubeček		0	178,251
+1121	Kulmanová Katarína r. Švábyová		0	197
+1121	Kupska Anna		0	162,276,277,278,279
+1121	Kupská Anna r. Klein	mŕtva + 20.12.1975	0	102,104,105
+1121	Kupská Anna r. Klein	mŕtva +20.12.1975	1	103,276,277,278,279
+1121	Kupská Anna r. Klein	mŕtva 20.12.1975	0	101
+1121	Kupská Anna r. Klein	zomr.20.12.1975	0	162
+1121	KUPSKÁ Anna r.Klein	mŕtva +20.12.1975	1	353
+1121	Kupský Andrej		0	101,103,104,220
+1121	Kupský Martin		0	219
+1121	LORENĆK Andrej,Jurske sč.38		0	277,278,279
+1121	Lorenčík Andráš		1	162,237,276,277,278,279
+1121	Lorenčík Andrej		0	87,280,281
+1121	Lorenčík Andrej, Jurské, č. 38, SR		0	276
+1121	Mitura Michal		0	166
+1121	Molčány Andrej		1	132,162,243,276,277,278,279,1173
+1121	Molčányová Katarína		1	44,74,162,276,277,278,279
+1121	Molčányová Mária r. Ferencková		1	162,232,246,276,277,278,279
+1121	Molčányova Mária r. Ferenčáková		0	243
+1121	Nedorosteková Anna r. Reznická		1	72,87,162,276,277,278,279,280,281
+1121	Nedorosteková Mária r. Reznická		1	72,87,162,276,277,278,279,280,281
+1121	Oberla Ján		0	162,276,277,278,279
+1121	Oberlová Zuzana r. Krempaská		0	162,276,277,278,279
+1121	Palánska Anna r. Jaduš		0	107,344,346,1089
+1121	Palanska Anna r. Jadušová		0	248
+1121	Palánska Anna r. Jakubeček		0	106,107,162,251,276,277,278,279,344,346,1089
+1121	Palánsky Juraj		1	85,91,93,98,107,162,225,226,248,276,277,278,279,344,346,1089,1127
+1121	Palánsky Ondrej		0	223
+1121	Poláček Ján		0	186
+1121	Poláčeková Katarína r. Kurucová		0	186
+1121	Reznická Anna		1	72,87,162,276,277,278,279,280,281
+1121	Reznická Helena		0	72,87,162,276,277,278,279,280,281
+1121	Reznická Katarína		1	72,87,162,276,277,278,279,280,281
+1121	Reznický Ján		0	81,1110
+1121	Reznický Juraj		0	72,87,91,162,276,277,278,279,280,281
+1121	Reznický Ondrej		0	251
+1121	Roman Ján		0	251
+1121	Sankovská Mária		0	162,232,246,276,277,278,279
+1121	Sankovský Michal		1	31,162,179,232,244,245,246,249,276,277,278,279
+1121	Skurka Jakub		0	132,162,199,232,246,276,277,278,279,1173
+1121	Skurka Ján		0	175,1171
+1121	Skurková Anna r. Ferencková		0	175,1171
+1121	Skurková Mária		0	199
+1121	Sopková Anna		0	162,276,277,278,279
+1121	Sopková Anna r. Jakubečeková		0	162,276,277,278,279
+1121	Sopková Mária		1	142,159,162,276,277,278,279
+1121	Sopková Mária r. Zentková		1	162,276,277,278,279
+1121	Sopková Zuzana		1	162,276,277,278,279
+1121	Stefaniak Jakub		0	227
+1121	Stefaniak Vendel		0	227
+1121	Stefaniakova Roza		0	227
+1121	Stefaniakova Tekla		0	227
+1121	Stein Jakub		1	97,162,276,277,278,279
+1121	Súkeníková Zuzana		0	132,162,276,277,278,279,1173
+1121	Svitanová Katarína		0	66,67
+1121	Špes Emil		0	194
+1121	Špes Ján		0	194
+1121	Špes Milan		0	194
+1121	Špesová Katarína		0	194
+1121	Špesová Mária		0	194
+1121	Šváby Andrej		0	162,276,277,278,279
+1121	Šváby Juraj		0	197
+1121	Šváby Ondrej		1	94,113,123,162,276,277,278,279,294,329
+1121	Švábyová Mária		1	112,113,114,123,162,276,277,278,279,1163
+1121	Švugerek Andráš		0	221
+1121	Weber Samuel		0	53,195
+1121	Weberova		0	53
+1121	Weberová Anna r. Jakubečeková		0	276,277,278,279,280,281
+1121	Weberová Anna r. Jakubečeková, Čierna Lehota, SR		0	35,51,52,87,162,195,196,237,277,278,279
+1121	Zajacová Anna r. Molčányová		0	212
+1121	Zamkovská Mária r. Molčány		0	277
+1121	Zamkovská Mária r. Molčányová		0	277,278
+1121	Zamkovský Ján		1	162,244,245,276,277,278,279
+1121	Zankovská Mária r. Molčány		1	162,244,245,276,278,279
+1121	Zankovská Mária r. Molčányová		0	162,276,279
+1122	ADAMOVÁ Mária	r.Nacsterová m.Michal	1	654,707,725,835,878
+1122	ADAMOVÁ Mária	r.Nastová	1	624,651,694,742,834,842
+1122	ADAMOVÁ Mária	r.Naštová m.Michal	1	642,821,833,836,837
+1122	ANDISKO - FRAJKOROVÁ Mária		1	644,841
+1122	ANDRIŠKO - FRAJKOROVÁ Anna		1	589
+1122	ANDRIŠKO - FRAJKOROVÁ Mária		1	589
+1122	BAČA Michal		1	585,642,699,786,821,833,836,837
+1122	BAČA Michal	ž.Helena r.Lacková	1	649,652,669,706,713,724,855
+1122	BARNA - IĽKO Mitro		1	642,652,821,833,836,837
+1122	BARNA IĽKO Mitro	mal	1	699,786
+1122	BARNÍK Juraj		1	739,828
+1122	BARNIKOVÁ Anna	r.Lukačinová	1	712
+1122	BEDNAR Michal		1	642,652,699,786,821,833,836,837
+1122	BEDNÁROVÁ Anna	r.Lešková	1	699
+1122	BEDNÁROVÁ Anna	r.Litvinová	1	727
+1122	Blanár Július		1	639,844
+1122	BODNÁR Ján		1	629,632,642,652,699,734,780,786,821,833,836,837,850,851,869,871
+1122	BODNÁR Juraj		1	629,632,642,699,734,780,786,821,833,836,837,850,851,869,871
+1122	BODNÁR Michal		1	629,632,642,699,734,780,786,821,833,836,837,850,851,869,871
+1122	BODNÁR Michal	mal	1	652
+1122	BODNÁROVÁ Anna	r. Lukačinová	1	632,712,728
+1122	BODNÁROVÁ Helena		1	626,657,838
+1122	CABOVSKÝ Jozef		1	597
+1122	CABOVSKÝ Juraj		1	652,699
+1122	CABOVSKÝ Juraj	Mihalčin vzd	1	652
+1122	CZABOVSKY Juraj	vzd	1	638,642,699,760,786,821,833,836,837,843
+1122	ĎURIK - HRIC Ján		1	601
+1122	ĎURIK - HRIC Štefan		1	601,658
+1122	Ďurik Hric Ján		1	672
+1122	ĎURIK HRIC Ján	vzd	1	658,686,733,748
+1122	Ďurik Hric Štefan		1	672,701
+1122	ĎURIK HRIC Štefan	vzd	1	665,686,691,717,733,748
+1122	ĎURIKOVÁ - HRICOVÁ Alžbeta		1	601,658,665,672,686,691,701,717,733,748
+1122	ĎURIKOVÁ - HRICOVÁ Anna		1	601,658,672,686,691,701,717,733,748
+1122	ĎURIKOVÁ - HRICOVÁ Margita		1	601,658,665,672,686,691,701,717,733,748
+1122	ĎURIKOVÁ - HRICOVÁ Mária		1	601,658,665,672,686,691,701,717,733,748
+1122	ĎURIKOVÁ - HRICOVÁ Verona		1	601,658,665,672,686,691,701,717,733,748
+1122	FENIČIN Michal		1	714
+1122	FENIČIN Michal	ml	1	672
+1122	FENIČINOVÁ Mária	r.Szabolová m.Michal	1	642,652,699,786,821,833,836,837
+1122	FENYISIN Peter		1	652
+1122	FERKO - HOMINDA Jozef		1	638,843
+1122	FERKO - HOMINDOVÁ Anna		1	739,828
+1122	FERKO - HOMINDOVÁ Anna r. Iľková		1	589,671
+1122	FERKO HOMIDA Ján	ž.Mária r.Maximovičová	1	739,783,828
+1122	FERKO HOMINDA Jozef	ž.Anna r.Iľková	1	589,671,739,760,828
+1122	Ferková - Homindová Mária r. Maximovičová		1	747
+1122	FRAJKOR Ján	ž.Mária r.Onderiková	1	589,655,667,668,675,685,731,830,875
+1122	FRAJKOR Juraj		1	655,667,668,675,731,830,875
+1122	FRAJKOR Juraj	ž.Mária Sisák Jozefčíková	1	732,736
+1122	FRAJKOR Michal	ž.Anna r.Cabovská	1	696,739,783,828
+1122	FRAJKOROVÁ Anna		1	642,821,833,836,837
+1122	FRAJKOROVÁ Mária	r.Sisáková Jozefčíková m.Juraj	1	736
+1122	GAZDOVÁ Anna	r.Maximovičová	1	640,642,652,663,699,722,786,821,833,836,837
+1122	Gazdová Anna r. Maximovičová		1	639,698,747,844
+1122	Gros Szidor		1	676
+1122	HANUSINOVÁ Anna	r.Barnová Iľková m.Michal	1	642,652,699,786,821,833,836,837
+1122	HRIC Andrej	ž.Zuzana r. Sakinová	1	716,718
+1122	HRIC Ján		1	666,749
+1122	HRIC Ján	mal	1	641,642,699,786,821,833,836,837
+1122	Hric Jozef		1	696
+1122	HRIC Jozef	ž.Alžbeta r.Rybárčáková	1	599,604,652,674,739,783,828
+1122	HRIC Michal		1	699
+1122	HRIC Michal	vzd	1	642,652,674,786,821,833,836,837
+1122	HRIC Peter	ž.Mária r.Knapiková prvá ž.Anna Hnašková	1	599,603,604
+1122	HRICOVÁ Anna		1	603,666,729,749,827,847
+1122	HRICOVÁ Anna	r.Sisáková m.Ján	1	753
+1122	HRICOVÁ Mária	mal	1	642,699,716,786,821,833,836,837
+1122	HRICOVÁ Zuzana	r.Sakinová	1	718
+1122	HRICZ Ján	ž.Mária r.Bodnárova	1	652
+1122	HRICZ Ján	ž.Mária r.Figej Mitrová	1	601,658
+1122	HRICZOVÁ Mária	r.Bodnárova m.Ján	1	652
+1122	HRICZOVÁ Mária	r.Boldizsárová m.Ján	1	603
+1122	HRICZOVÁ Mária	r.Figej Mitrová m.Ján	1	601,658
+1122	HUDÁK Ján		1	626,642,652,657,679,705,712,786,821,833,836,837,838
+1122	HUDÁK Ján	ž.Anna r.Figelyová	1	626,652,699
+1122	HUDÁK Jozef		1	626,642,652,699,786,821,833,836,837
+1122	HUDÁK Jozef	vojak	1	626,642,652,699,786,821,833,836,837
+1122	HUDÁK Jozef	ž.Mária r.Kovácsová	1	592
+1122	HUDAKOVA Anna	R.FIGELOVA	1	705
+1122	HUDÁKOVÁ Anna	r.Mitro Figeľová m.Ján	1	699,712,754,786
+1122	HUDÁKOVÁ Anna	r.Mitrová	1	627,642,652,653,704,706,711,719,723,729,752,786,821,822,833,836,837
+1122	HUDÁKOVÁ Anna	r.Sigelyová m.Ján	1	626,652,657,679,699,838
+1122	HUDÁKOVÁ Anna r. Mitro - Figeľová		1	642,821,833,836,837
+1122	IĽKO Štefan	ml. ž.Anna r.Bednárová	1	588
+1122	IĽKOVÁ Anna	r.Bednárová m.ml.Štefan	1	588
+1122	IĽKOVÁ Mária	r.Sziszáková	1	584,607,628,840
+1122	ITVICS Ján		1	641
+1122	ITVICSOVÁ Anna	mal	1	641
+1122	ITVICSOVÁ Ilona	mal	1	641
+1122	JANTEKOVÁ Mária	r.Frajkorová m.Ján	1	591
+1122	JANTEKOVÁ Mária r. Andrisko-Frajkorová		1	591
+1122	KÁLMANOVÁ Anna		1	703
+1122	KNAPÍKOVÁ Mária	m.Hric Peter nezosobášený	1	599,603,720
+1122	KOPKOVÁ Anna	r.Hricová	1	599,604,702,720
+1122	LACKO Ján		1	625,642,677,678,713,718,821,833,836,837
+1122	LACKO Juraj	ž.Mária r.Petrušková	1	672
+1122	LACKOVÁ Zuzana	r.Litvinová	1	733
+1122	LACZKO Michal, SR		1	699
+1122	LACZKOVÁ Zuzana	r.Litvinová m. Michal	1	786
+1122	LACZKOVÁ Zuzana	r.Litvinová m.Michal	1	642,652,821,833,836,837
+1122	LEŠKOVÁ Anna	r.Bednárová m.Juraj	1	642,786,821,833,836,837
+1122	LITVIN Ján	mal	1	642,821,833,836,837
+1122	LITVIN Jozef		1	672,701
+1122	LITVIN Jozef	mal	1	601,642,658,665,686,691,717,733,748,821,833,836,837
+1122	LITVIN Juraj		1	642,821,833,836,837
+1122	LITVIN Michal		1	642,652,699,786,821,833,836,837
+1122	LITVÍN Michál	mal	1	699
+1122	LITVIN Mikuláš		1	601,665,672,748
+1122	LITVIN Mikuláš	2	1	672,701
+1122	LITVIN Mikuláš	mal	1	642,652,658,665,686,691,717,733,748,786,821,833,836,837
+1122	LITVINOVÁ Anna	r.Nacsterová m.Peter	1	654,725,835,878
+1122	LITVINOVÁ Anna	r.Nastová m.Peter	1	624,642,821,833,834,836,837
+1122	LITVÍNOVÁ Anna	r.Naštaová	1	651,694,707,742,842
+1122	LITVINOVÁ Helena	m.Pavol r.Barníková	1	712
+1122	Litvinová Helena r. Barníková		0	699
+1122	LITVINOVÁ Mária		1	748
+1122	LITVINOVÁ Mária	r.Krajňákova	1	696,739,783,828
+1122	LITVINOVÁ Mária	r.Sziszáková m.Štefan	1	597
+1122	LITVÍNOVÁ Zuzana	r.Lacková	1	699
+1122	LUKAČIN Ján	ž.Mária r.Ilyková	1	642,786,821,833,836,837
+1122	LUKAČIN Ján	ž.Mária r.Jacková	1	589
+1122	LUKAČÍN Ján	ml	1	751
+1122	LUKÁČIN Ján	vzd	1	652
+1122	LUKAČIN Ján Mikuláš	vzd	1	638,843
+1122	LUKAČÍN Jozef	ž.Mária Mitrová	1	754
+1122	LUKAČÍN Jozef	ž.Mária Pítrovská	1	660
+1122	LUKAČIN Michal	ž.Júlia r. Hricová	1	589,655,667,675,731,830
+1122	LUKAČIN Mikuláš	ž.Anna r. Džatková	1	652
+1122	LUKAČIN Mikuláš	ž.Anna r.Sziszákova	1	679
+1122	LUKAČINOVÁ Alžbeta	r.Duriková	1	641,674,688
+1122	LUKAČINOVÁ Anna	r.Frajkorová	1	642,652,699,786,821,833,836,837
+1122	LUKAČINOVÁ Anna	r.Litvinová v Canade	1	597
+1122	LUKAČINOVÁ Helena		1	632,712,728
+1122	LUKAČINOVÁ Mária	r.Barna Ilková m.Ján	1	642,786,821,833,836,837
+1122	LUKAČINOVÁ Mária	r.Ďuríková m.Michal	1	672,699,752
+1122	LUKAČINOVÁ Mária r. Barna Ilková	m.Ján	1	588
+1122	LUKÁČOVA Júlia	r.Hricová	1	652
+1122	LUKÁČOVÁ Júlia	r.Hricová m.Michal	1	641,642,674,688,786,821,833,836,837
+1122	LUKÁČOVÁ Júlia r. Hricová		1	699
+1122	MACZKO Ján		1	652
+1122	MACZKO Michal		1	652
+1122	MACZKOVÁ Mária	r.Czandíková m.Michal	1	642,699,786,821,833,836,837
+1122	MACZKOVÁ Mária	r.Šandíkova vd	1	652
+1122	MAXIMOVICSOVÁ Mária	r.Bisztránová m.Juraj	1	619,685
+1122	MAXIMOVIČ Ján		1	593
+1122	Maximovič Juraj		1	756
+1122	MAXIMOVIČ Michal		1	640

@@ -1,0 +1,256 @@
+3342	ZAJAC Jozef	zadný	0	1961,1963,1964,2507
+3342	ZAJAC Jozef	zadný,mladší	0	1980
+3342	Zajac Michal		1	1592
+3342	ZAJAC Michal	Krokoš	0	1564
+3342	Zajac Pavol		1	1165,1182,1183,1186,1248,1254,1255,1257,1268,1343,1463,1537,1564,1566,1603,1614,1626,1646,1654,1655,1656,1659,1685,1690,1712,1717,1720,1794,2049,2065,2374,2375,2384,2389,2400,2418,2419,2433,2434,2483,2493,2527,2528,2529,2530,2531,2532
+3342	ZAJAC Pavol	Krokoš	1	1251,1380,1443,1446,1604,1644,1702,1717,2106,2341,2348
+3342	ZAJAC Pavol	mal	0	2094
+3342	ZAJACOVÁ Anna	r.Omastová	0	1181,1397,1523,1561,1654,1685,1720,2374,2469
+3342	Zajacová Anna r. Chlebovcová		1	1520,1766
+3342	Zajacová Anna r. Omastová		1	153,1279,2332
+3342	ZAJACOVÁ Mária	r.Boroňová	0	251
+3342	ZAJACOVÁ Mária	r.Hudáková	0	1355
+3342	Zajacová Mária r. Boroňová		1	376
+3342	Zajacová Mária r. Dzúrová		1	899
+3342	Zajacová Mária r. Krtusová		1	1684
+3342	ZAJACOVÁ Zuzana	r.Omastová	0	1523
+3342	ZAJACOVÁ Žofia	r.Hudáková	0	1137,1309,1338,1453,1456,1545,1546,1564,1611,1651,1655,1683,1724,1734,1761,1774,1828,2383
+3342	ZAJACOVÁ Žofia	r.Štrbková	0	456,2005
+3342	Zajacová Žofia r. Hudáková		1	1183,1656,1763
+3342	Zajacová Žofia r. Štrbková		1	1144,2130,2510,2511
+3342	ZEMAN Jozef		0	1787
+3342	ZEMAN Jozef	ž.Mária r.Vilimová	0	1126
+3343	BREHUV Andrej		1	705
+3343	BREHUV Ján		0	682,686,690,695,794,813,826,832,836,868,870,876,877,891,932,933,934,935,993,1010,1013,1016,1024,1027,1028,1029,1030,1038,1040,1041,1042,1044,1046,1047,1048,1106,1186,1187,1188
+3343	BREHUVOVÁ Anna r. Brehuvová		1	689,1027,1040
+3343	GAJDOŠ EVIN Andrej		1	860
+3343	HELMANOVSKÁ Mária r. Havirová		1	686,690,794,813,826,832,836,868,870,876,877,891,932,933,934,935,993,1010,1013,1016,1024,1027,1028,1029,1030,1038,1040,1041,1042,1044,1046,1047,1048,1106,1186,1187,1188
+3343	HUĎOVÁ Anna r. Juskuv, Bardejov, Slovensko		1	719
+3343	JANKUV JURAJ		0	686,794,813,826,836,868,891,933,935,1010,1028,1041,1044,1047,1106,1186,1187,1188
+3343	JUSKO Juraj		1	650,681,712,729,750,757,767,1093,1095,1101
+3343	JUSKUV Ján, 086 21, Hankovce, Slovensko		1	818,1103
+3343	KATUŠČÁK Juraj		1	728
+3343	KATUŠČÁKOVÁ Anna r. VAĽKOVÁ		1	761
+3343	KATUŠIN Ján		0	677,686,690,693,746,794,813,826,832,836,837,868,870,876,877,880,891,919,932,933,934,935,937,969,970,972,993,1010,1011,1013,1016,1024,1027,1028,1029,1030,1037,1038,1040,1041,1042,1043,1044,1046,1047,1048,1054,1055,1100,1104,1106,1119,1186,1187,1188
+3343	KATUŠINOVÁ Mária, Lukavica, Slovensko		1	677,686,690,693,746,794,813,826,832,836,837,868,870,876,877,880,891,919,932,933,934,935,937,969,970,972,993,1010,1011,1013,1016,1024,1027,1028,1029,1030,1037,1038,1040,1041,1042,1043,1044,1046,1047,1048,1054,1055,1100,1104,1106,1119,1186,1187,1188
+3343	KAŽIMÍR Ján		0	789,864,892,894,905,910,1198
+3343	KAŽIMÍR Juraj		1	621,639,640,818,837,919,972,1103
+3343	KAŽIMÍROVÁ Anna		1	910
+3343	KAŽIMÍROVÁ Anna r. Ontkaninová		1	643,686,690,693,794,813,826,832,836,837,847,868,870,876,877,891,919,932,933,934,935,940,941,958,959,960,961,969,970,972,993,1010,1011,1013,1016,1024,1027,1028,1029,1030,1037,1038,1040,1041,1042,1043,1044,1046,1047,1048,1054,1055,1106,1186,1187,1188
+3343	KAŽIMÍROVÁ Zuzana		1	621,639,640,818,837,919,972,1103
+3343	KMEC Andrej		1	643,693,837,847,919,940,941,958,959,960,961,969,970,972,1011,1037,1043,1054,1055
+3343	KMEC Ján		1	737,805,912
+3343	KMEC JURAJ	ž.MÁRIA r.ŠOLTYSOVÁ	0	686,813,826,868,891,932,933,935,1010,1016,1028,1029,1030,1041,1044,1046,1047,1048,1106,1186,1187,1188
+3343	KMECOVÁ Mária		1	693,837,919,969,970,972,1011,1037,1043,1053,1054,1055
+3343	KMECOVÁ Mária	D: zomrela; D: zomrela	1	849
+3343	MARTIČEK Andrej		1	686,690,794,813,826,832,836,868,870,876,877,891,932,933,934,935,993,1010,1013,1016,1024,1027,1028,1029,1030,1038,1040,1041,1042,1044,1046,1047,1048,1106,1186,1187,1188
+3343	MIHALČIN JURAJ		0	686,813,826,836,868,891,932,933,935,1010,1016,1028,1029,1030,1041,1044,1046,1047,1048,1106,1186,1187,1188
+3343	MIHALČINOVÁ Mária, č. 27, Slovensko		1	693,837,893,919,969,970,972,1011,1037,1043,1054,1055
+3343	ONDKANINOVÁ Anna		1	686,690,794,813,826,832,836,868,870,876,877,891,932,933,934,935,993,1010,1013,1016,1024,1027,1028,1029,1030,1038,1040,1041,1042,1044,1046,1047,1048,1106,1186,1187,1188
+3343	ONDKANINOVÁ Anna r. Pangracová		1	703
+3343	ONTKANIN Adam		1	686,690,693,698,704,777,794,795,812,813,826,832,836,837,868,870,873,876,877,891,919,932,933,934,935,969,970,971,972,973,974,975,976,977,978,979,993,1010,1011,1013,1016,1024,1027,1028,1029,1030,1037,1038,1040,1041,1042,1043,1044,1046,1047,1048,1054,1055,1106,1163,1164,1165,1166,1167,1186,1187,1188
+3343	ONTKANIN Andrej		1	693,698,704,777,837,919,969,970,972,974,975,976,1011,1037,1043,1054,1055
+3343	ONTKANIN Ján		1	686,690,693,698,704,777,794,813,826,832,836,837,868,870,876,877,891,919,932,933,934,935,969,970,972,974,975,976,993,1010,1011,1013,1016,1024,1027,1028,1029,1030,1037,1038,1040,1041,1042,1043,1044,1046,1047,1048,1054,1055,1106,1186,1187,1188
+3343	ONTKANINOVÁ Anna		1	693,698,704,777,795,812,837,873,919,969,970,971,972,973,974,975,976,977,978,979,1011,1037,1043,1054,1055,1163,1164,1165,1166,1167
+3343	SOKOL Ján		1	634,692,1130,1132,1190,1191,1205
+3343	ŠOLTÉS Andrej		0	764,825
+3343	ŠOLTÉS Ján		1	652,750
+3343	ŠOLTÉSOVÁ Anna		1	748
+3343	ŠOLTÉSOVÁ Anna r. Dzurišinová		1	741
+3343	ŠOLTYS JÁN	ž.MÁRIA R.PRIBULOVÁ	0	825
+3343	ŠOLTYSOVÁ ANNA r. BREHUVOVÁ		0	938
+3343	ŠOLTYSOVÁ Anna r. Dzurišinová		1	693,741,837,919,969,970,972,1011,1037,1043,1054,1055
+3343	VOĽANSKÁ Anna		0	748
+3344	ÁNDREJOVÁ Alžbeta	zom.8.12.2003, Jabloň	0	562
+3344	BAČKOVÁ Anna	nebohá	1	532
+3344	BAČKOVÁ Anna	USA nebohá	1	484,485
+3344	BAČKOVÁ Mária r. Mamajová	Hankovce	0	562
+3344	BARNA Jozef	nebohý	1	168,169,170,206,209,264,279,282,289,422
+3344	BARNÍK Ján		1	504
+3344	BARNÍK Jozef	nebohý	1	504
+3344	BARNÍK Štefan	nebohý	1	504
+3344	BARNIKOVÁ Anna		1	504
+3344	Barnišinová Anna	nebohá-rod.Budzilová	0	237
+3344	BARNIŠINOVÁ Anna	r.Budzilová nebohá	1	258
+3344	BARNOVÁ Zuzana	nebohá	1	168,169,170,206,209,264,279,282,289,422
+3344	BAŠKO Štefan r. Baško, SR		0	562
+3344	BELCÁKOVÁ Anna r. Kačmárová, SR		0	562
+3344	Belcáková Zuzana	nebohá-rod.Hrinová	0	259
+3344	Beňová Žofia	nebohá-rod.Hrinová	0	259
+3344	Bilšak Ján	nebohý-mal	0	221,229
+3344	BILŠAK Ján	mal.nebohý	1	449
+3344	BILŠÁK Ján	nebohý	1	189,214,248,430
+3344	BILŠÁK Jozef	nebohý	1	189,214,248
+3344	BILŠÁK Juraj	nebohý	1	189,214,248
+3344	Bilšak Michal	nebohý	0	237
+3344	Bilšak Michal	nebohý-Žiga	0	221,229
+3344	BILŠAK Michal	Žiga nebohý	1	258,430,449
+3344	Bilšak Pavol	vzdialený	0	312
+3344	BILŠAK Pavol	nebohý Žiga	0	229
+3344	Bilšák Pavol	nebohý-Žiga	0	221
+3344	BILŠÁK Pavol	nebohý	1	140,188,189,214,248,430,440,449
+3344	Bilšak Štefan	nebohý	1	221,229,363,367,449
+3344	Bilšaková Alžbeta	nebohá-rod.Žigová	0	235,272
+3344	BILŠAKOVÁ Alžbeta	nebohá	1	189,214,248
+3344	Bilšaková Anna	mal	0	237,267,275,294
+3344	Bilšaková Anna	nebohá	0	214,224,245
+3344	Bilšaková Anna	nebohá-rod.Galajdová	0	363,367
+3344	Bilšaková Anna	nebohá-Žigová	0	221,229
+3344	BILŠAKOVÁ Anna	mal.nebohá	1	440
+3344	BILŠAKOVÁ Anna	Žigová nebohá	1	45,153,178,186,189,248,258,430,445,449
+3344	Bilšaková Barbora	nebohá-rod.Budzilová	0	237
+3344	BILŠAKOVÁ Barbora	r.Budzilová nebohá	1	258
+3344	Bilšaková Mária	nebohá	0	224,245
+3344	Bilšaková Mária	nebohá-nezl	0	363,367
+3344	Bilšaková Mária	nebohá-rod.Haľková	0	267,275,294
+3344	Bilšaková Mária	nebohá-Žigová	0	221,229
+3344	BILŠAKOVÁ Mária	r.Haľková nebohá	1	140,153,178,186,188,440,445
+3344	BILŠÁKOVÁ Mária	Žigová nebohá	1	430,449
+3344	BILÝ Ján	nebohý	1	534
+3344	BLIŠČÁKOVÁ Mária r. Kačmárová, SR		0	562
+3344	Blišková Anna	nebohá-rod.Hrinová	0	259
+3344	Bobaľa Andrej	nebohý	1	230,231,428
+3344	Bobaľa Jakub	nebohý	0	314,332,363,367
+3344	Bobaľa Jakub	nebohý-ž.Anna	0	230,232,233,238,241,254,269,326,327,342,343,344,353,354,355,356,361,582
+3344	Bobaľa Jakub	nebohý-ž.Barbora Haľková	0	326,327,342,343,344,353,354,355,356,361
+3344	BOBAĽA Jakub	ž.Anna nebohý	1	231,428,437,446
+3344	BOBAĽA Jakub	ž.Anna r.Bilšaková nebohý	1	67,80,433
+3344	BOBAĽA Ján	nebohý	1	15,42,226,232,233,238,241,249,254,269,302,338,363,367,437,446,582,584
+3344	Bobaľa Jozef	nebohý-syn Michala	0	316
+3344	Bobaľa Jozef	nebohý-vzd	0	238,269,582
+3344	Bobaľa Jozef	nebohý-vzd.Gavalčin	0	210,220,301,363,367
+3344	Bobaľa Jozef	nebohý-ž.Alžbeta r.Slaninová; nebohý ž.Alžbeta r.Slaninová	0	326,327,342,343,344,353,354,355,356,361
+3344	Bobaľa Jozef	nebohý-ž.Anna r.Bobaľová	0	225
+3344	Bobaľa Jozef	nebohý-ž.Anna r.Bobaľová; nebohý ž.Anna r.Bobaľová	0	326,327,342,343,344,353,354,355,356,361
+3344	Bobaľa Jozef	nebohý-ž.Barbora Kiašová	0	212,219,230,326,327,342,343,344,353,354,355,356,361,363,367
+3344	Bobaľa Jozef	nebohý-ž.Mária r.Gavurová; nebohý ž.Mária r.Gavurová	0	326,327,342,343,344,353,354,355,356,361
+3344	BOBAĽA Jozef	nebohý	1	147,187,203,212,219,230,232,233,238,241,254,269,305,363,367,432,582
+3344	BOBAĽA Jozef	ž.Anna r.Bobaľová nebohý	1	260,417
+3344	BOBAĽA Jozef	ž.Barbora r.Kiašová nebohý	1	42,147,187,231,428,432,437,446,451,584
+3344	Bobaľa Juraj	nebohý	0	324,328,363,367
+3344	Bobaľa Michal	nebohý-mldš	0	326,327,342,343,344,350,353,354,355,356,361,363,367
+3344	Bobaľa Michal	nebohý-vzd.Gavalčin	0	210,212,219,220
+3344	Bobaľa Michal	nebohý-ž.Mária r.Kašik	0	241,254
+3344	Bobaľa Michal	nebohý-ž.Mária r.Kašik; nebohý ž.Mária r.Kašik	0	232,233,241
+3344	Bobaľa Michal	nebohý-ž.Zuzana Gavaľová	0	350,363,367
+3344	Bobaľa Michal	nebohý-ž.Zuzana r.Jenčurová; nebohý ž.Zuzana r.Jenčurová	0	326,327,342,343,344,353,354,355,356,361
+3344	BOBAĽA Michal	Gavalčín nebohý	1	147,187,432
+3344	BOBAĽA Michal	nebohý	1	42,225,232,233,237,241,254,258,260,311,329,363,367,417,429,446,451,584
+3344	BOBAĽA Michal	nebohý ž.Mária r.Kašiková	1	42,446,584
+3344	BOBAĽA Pavol	27.12.1896	1	14
+3344	BOBAĽA Pavol	nebohý	1	231,238,263,269,320,363,367,428,437,582
+3344	BOBAĽA Pavol, SR	nebohý	0	230
+3344	Bobaľa Štefan	nebohý	0	211
+3344	BOBAĽA Štefan	Ľubiša	1	440
+3344	Bobaľa Tomáš	nebohý	0	230,232,233,238,241,254,269,326,327,342,343,344,353,354,355,356,361,582
+3344	Bobaľa Tomáš	nebohý-mldš	0	230,232,233,241,254
+3344	Bobaľa Tomáš	nebohý-vzd	0	238,269,302,338,363,367,582
+3344	BOBAĽA Tomáš	mldš.nebohý	1	42,231,428,437,446,584
+3344	Bobaľová Alžbeta	nebohá-rod.Kašiková	0	212,219,230
+3344	Bobaľová Alžbeta	nebohá-rod.Kuľhová	0	209,289
+3344	Bobaľová Alžbeta	nebohá-rod.Slaninová	0	212,219,230,268,276,363,367
+3344	BOBAĽOVÁ Alžbeta	r.Kašiková nebohá	1	147,187,428,432
+3344	BOBAĽOVÁ Alžbeta	r.Kuľhová nebohá	1	410,422
+3344	BOBAĽOVÁ Alžbeta	r.Slaninová nebohá	1	45,147,179,180,187,231,428,432
+3344	Bobaľová Anna		0	582
+3344	Bobaľová Anna	nebohá-r.Pavlová	0	326,327,342,343,344,353,354,355,356,361
+3344	Bobaľová Anna	nebohá-rod.Bilšaková	0	237,247,265,287,290,295,319
+3344	Bobaľová Anna	nebohá-rod.Bobaľová	0	305
+3344	Bobaľová Anna	nebohá-rod.Havrilková	0	314,332,363,367
+3344	BOBAĽOVÁ Anna	neb	1	42,437,446,584
+3344	BOBAĽOVÁ Anna	nebohá	1	147,187,230,231,232,233,238,241,254,269,428,432
+3344	BOBAĽOVÁ Anna	r.Bilšáková nebohá	1	207,258,278,442
+3344	BOBAĽOVÁ Anna	r.Kuľhová nebohá	1	118,190
+3344	Bobaľová Barbora	nebohá	1	237,238,258,269,437,582
+3344	Bobaľová Barbora	nebohá-rod.Haľková	0	302,338
+3344	Bobaľová Barbora	nebohá-rod.Kiašová	0	302,338,363,367
+3344	Bobaľová Mária	nebohá-rod.Gavaľová	0	232,233
+3344	Bobaľová Mária	nebohá-rod.Haľková	0	204,263,267,275,294,311,320,363,367
+3344	Bobaľová Mária	nebohá-rod.Kašiková	0	223,239,337,340,363,367
+3344	BOBAĽOVÁ Mária	nebohá	1	412,446
+3344	BOBAĽOVÁ Mária	r.Haľková nebohá	1	140,153,178,186,188
+3344	BOBAĽOVÁ Mária	r.Kašiková nebohá	1	106
+3344	BOBAĽOVÁ Mária r. Bilšáková	nezl. nebohá	1	189
+3344	Bobaľová Zuzana	nebohá-rod.Gavaľová	0	329,363
+3344	Bobaľová Zuzana	nebohá-rod.Haľková	0	204
+3344	Bobaľová Zuzana r. Gavaľová	nebohá	0	367
+3344	BRINKOŠ Michal r. Brinkoš, SR		0	562
+3344	BRINKOŠOVÁ Anna r. Kačmárová, SR		0	562
+3344	Bubjak Jozef	nebohý-ž.Ilona r.Artimová; nebohý ž.Ilona r.Artimová	0	326,327,342,343,344,353,354,355,356,361
+3344	Budzila Ján	nebohý	1	237,258
+3344	Budzila Jozef	nebohý	1	237,258
+3344	Budzila Juraj	nebohý	1	237,258
+3344	Budzila štefan	nebohý	1	237,258
+3344	Cubak Michal	mal.-nebohý	0	288
+3344	ČOPAN Ján, SR		0	562
+3344	Čorná Anna	nebohá-rod.Greško	0	259,296
+3344	Drejovič Andrej	nebohý	0	296
+3344	Drejovič Andrej	nebohý-mal	0	259
+3344	Drejovič Ján	nebohý	0	296
+3344	Drejovič Ján	nebohý-mal	0	259
+3344	Drejovič Jozef	nebohý	0	296
+3344	Drejovič Jozef	nebohý-mal	0	259
+3344	Drejovič Michal	nebohý	0	296
+3344	Drejovič Michal	nebohý-mal	0	259
+3344	Drejovičová Anna	nebohá	0	296
+3344	Drejovičová Anna	nebohá-mal	0	259
+3344	Drejovičová Anna	nebohá-rod.Belcaková	0	259,296
+3344	Drejovičová Mária	nebohá	0	296
+3344	Drejovičová Mária	nebohá-mal	0	259
+3344	DUDAŠOVÁ Anna	Jasenov	0	562
+3344	Dzurková Irena	nebohá	0	326,327,342,343,344,353,354,355,356,361
+3344	Dzurková Mária	nebohá-rod.Grešková	0	296
+3344	GAJDOŠ Jozef	nebohý ž.Mária r.Barnová	1	517
+3344	GAJDOŠ Pavol	nebohý	1	152,218,261
+3344	GAJDOŠ Štefan	Čorny nebohý	1	498
+3344	GAJDOŠ Štefan	nebohý USA	1	520
+3344	Gajdošová Anna	nebohá-rod.Kašiková	0	326,327,342,343,344,353,354,355,356,361
+3344	GAJDOŠOVÁ Anna		1	497
+3344	GAJDOŠOVÁ Anna	r.Kašiková nebohá	1	54
+3344	Galandová Mária	nebohá-rod.Hudáková	0	214
+3344	GALANDOVÁ Mária	r.Hudáková nebohá	1	189,248
+3344	GAŠPAROVÁ Alžbeta	r.Petková nebohá	1	103,242,270
+3344	GAŠPAROVÁ Zuzana	r.Petková nebohá	1	103
+3344	GAVAĽA Andrej	nebohý	1	414,418
+3344	GAVAĽA Gregor	nebohý	1	14
+3344	Gavaľa Ján	nebohý-ž.Alžbeta Kiašová	0	326,327,342,343,344,353,354,355,356,361
+3344	GAVAĽA Ján	nebohý	1	425
+3344	GAVAĽA Ján	vzd	1	153,178,186,267,275,294,326,327,342,343,344,353,354,355,356,361,440
+3344	Gavaľa Jozef	mal	0	327,353,354
+3344	Gavaľa Jozef	nebohý	0	209,211,217,234,244,255,264,271,279,282,289,363,367
+3344	Gavaľa Jozef	nebohý-mal	0	211,213,244,247,257,265,287,290,295
+3344	Gavaľa Juraj	nebohý	0	211,213,244,257
+3344	Gavaľa Juraj	nebohý-vzdial	0	213,247,257,265,287,290,295
+3344	GAVAĽA Juraj	vzd.nebohý	1	37,67,80,207,278,418,433,442,450,453
+3344	Gavaľa Michal	nebohý-ž.Alžbeta r.Haľková	0	217,255
+3344	GAVAĽA Michal	nebohý	1	147,187,217,255,418,425,429,432,440,444
+3344	GAVAĽA Michal	ž.Alžbeta r.Haľková nebohý	1	444
+3344	Gavaľa Pavol	nebohý-Marcinov	0	259,296
+3344	Gavaľa Pavol	nebohý-ž.Anna r.Bobaľová; nebohý ž.Anna r.Bobaľová	0	326,343,361
+3344	GAVAĽA Pavol	nebohý	1	67,207,211,213,244,247,257,265,278,287,290,295,418,433,442,450,453
+3344	Gavaľa Štefan	nebohý-mal	0	209,211,217,234,244,255,264,271,279,282,289,310,321,326,327,342,343,344,353,354,355,356,361,363,367
+3344	GAVAĽA Štefan	nebohý	1	168,169,170,206,211,244,418,422,425,444,447,450
+3344	GAVAĽA Štefan r. Gavaľa	Hankovce	0	562
+3344	Gavalčín Michal	nebohý	1	210,220,301,363,367,451
+3344	Gavalčinová Anna	nebohá-rod.Macková vd	0	247,265,287,295
+3344	GAVALČINOVÁ Anna	r.Žigová nebohá	1	451
+3344	GAVALČINOVÁ Anna r. Macková	nebohá, vd	0	290
+3344	Gavalčinová Mária	nebohá	1	210,220,451
+3344	Gavalčinová Mária	nebohá-rod.Marcinová	0	326,327,342,343,344,356,361
+3344	GAVALČINOVÁ Mária r. Marcinová	nebohá	0	355
+3344	Gavaľová Alžbeta	nebohá-rod.Haľková	0	267,275,294
+3344	Gavaľová Alžbeta	nebohá-rod.Kiašová	0	302,338,363,367
+3344	GAVAĽOVÁ Alžbeta	r.Haľková nebohá	1	140,153,178,186,188,440
+3344	Gavaľová Anna	nebohá-mal	0	211,244
+3344	GAVAĽOVÁ Anna	nebohá	1	168,169,170,206,209,211,217,234,244,255,264,271,279,282,289,363,367,418,422,444,447,450
+3344	GAVAĽOVÁ Anna	r.Haľková nebohá	1	100,431
+3344	GAVAĽOVÁ Anna	r.Mrizová nebohá	1	128,410
+3344	Gavaľová Helena	nebohá-rod.Artimová	0	310,321,363,367
+3344	Gavaľová Mária	nebohá	1	211,217,244,255,418,444,450
+3344	Gavaľová Mária	nebohá-rod.Haľková	0	212,219
+3344	GAVAĽOVÁ Mária	r.Haľková nebohá	1	432
+3344	GAVAĽOVÁ Pavlina	mal.Malé Ozorovce	1	168,169,170,206,418,422,447,450
+3344	GAVURA Michal	nebohý	1	423
+3344	GAVURA Tomáš	nebohý	1	88,216,228,250,251,413,423
+3344	GAVUROVÁ Alžbeta	r.Bezegová nebohá	1	423
+3344	Gavurová Mária	nebohá-rod.Bukovčíková	0	227

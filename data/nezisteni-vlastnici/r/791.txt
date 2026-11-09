@@ -1,0 +1,256 @@
+450	Dtubenáková X		0	643
+450	Ďuroška Pavol		0	1408
+450	Ďuroška Pavol Štefan, SR		0	1034
+450	Ďurošková Hedviga		0	1408
+450	Ďurošková Hedviga, SR		0	1034
+450	Faltínová Štefánia, SR		0	891,979
+450	Faltýnová Štefánia		0	474,476,480,481,486,588,1401,1421
+450	Faltýnová Štefánia	Kopčanová,zomrela	0	836
+450	Faltýnová Štefánia, SR		0	497,506,516,563,784,785,1094,1126,1147,1148,1150,1419,1469
+450	Fedor František		0	643
+450	Filip Ján r. Filip		0	1408
+450	Filip Ján, SR		0	1034
+450	Friedner Dávid	Dr	0	836
+450	Friedner Dávid, Dr		0	480,481
+450	Friedner Dávid, Dr, SR		0	563,1147,1148,1469
+450	Friedner Dávid, SR		0	1126
+450	Gašpierik	a spol	0	643
+450	Gaššo Jozef		0	670,671
+450	Gaššo Jozef, SR		0	715,719,752,909,910,911,1061,1416,1420,1422,1423,1424
+450	Gorelčík Ján	Zomrel	0	704
+450	Gorelčík Ján, SR		0	601,688,693,694,696,707,710,712,721,751,755,883,921,923,940,1058,1427
+450	Gorelčík Jozef		0	1374,1456
+450	Gorelčík Jozef, SR		0	642,670,715,716,718,720,1416
+450	Gorelčík Martin, SR		0	601,693,721,751,755,940
+450	Gorelčíková Anna		0	577,601,642,659,670,688,693,694,696,704,707,712,721,1374,1427,1456,1494
+450	Gorelčíková Anna, SR		0	545,606,652,676,693,699,705,710,715,716,718,720,721,726,731,732,751,755,883,907,909,910,921,923,936,940,957,999,1009,1031,1049,1058,1061,1391,1416,1420,1422,1423,1424
+450	Gorelčíková Magdaléna, SR		0	917,922,923,931,940
+450	Gorelčíková Štefánia		0	544,545,583,592,595,601,606,638,645,652,654,659,660,662,676,677,678,679,688,693,694,704,705,707,725,1391,1427,1447,1458
+450	Gorelčíková Štefánia, SR		0	607,712,721,726,730,731,732,733,751,754,883,896,907,921,957,999,1009,1022,1031,1048,1049,1058,1286
+450	Gorovková X		0	643
+450	Grňúch Štefan, SR		0	733,747,748,749,750,751,821,975,976,1070,1071
+450	Grňuchová	spol	0	643
+450	Halamová Zuzana, SR		0	751
+450	Hančín Ján, SR		0	450,593,913
+450	Hančín Jozef, SR		0	516,979,1150
+450	Hančínová Magdaléna	Kubicová,zomrela	0	450
+450	Hančínová Magdaléna, SR		0	532,593,913
+450	Hanusová Jozefína, SR		0	627,637,653,698,751,962,966
+450	Hašová Zuzana, SR		0	549,580,595,654,692,730,960,1030,1062,1190,1285,1286,1287,1388
+450	Hložná Hedviga r. Hložná		0	1408
+450	Hložná Hedviga, SR		0	1034
+450	Hložný Kilián Ondrej, SR		0	1034
+450	Hložný Kilián Vincent, SR		0	1034
+450	Hložný Ondrej, SR		0	1034
+450	Hložný Vincent, SR		0	1034
+450	Holúbková Mária, SR		0	446,1021,1022
+450	Hričovcová Jozefína r. Čanigová		0	1393
+450	Hričovcová Zuzana, SR		0	551,556
+450	Hričovec Ondrej		0	469,503,654,692
+450	Hričovec Ondrej, SR		0	1030
+450	Hričovec Štefan		0	1393
+450	Jamborova X		0	643
+450	Janáčka X		0	643
+450	Jaroš Jozef, SR		0	916,926
+450	Jaroš Štefan		0	643
+450	Jarošová Mária		0	643
+450	Jarošová Mária, SR		0	614,711
+450	Jarošová Zuzana, SR		0	690
+450	Kaprová Mária, SR		0	1033
+450	Kardošová Helena		1	512,955,1126
+450	Keblovská Antónia		0	616,1205
+450	Keblovská Antónia, SR		0	529,585,598,991
+450	Keblovský Štefan, SR		0	569
+450	Keményová Elena, SR		0	1126
+450	Kišoň Rudolf, SR		0	886
+450	Kišoňová Helena, SR		0	886
+450	Kišoňová Mária, SR		0	471,559,583,592,597,607,645,654,658,659,661,662,676,721,727,730,733,1044,1286
+450	Kišoňová Terezia, SR		0	471,559
+450	Kohnová Jozefína, SR		0	1126
+450	Kolenčiak Štefan, SR		0	934,946,954,1248,1292,1412
+450	Kolenčiaková Eva, SR		0	934,946,1248,1292
+450	Kopčan Alojz		0	665
+450	Kopčan Alojz, SR		0	663,708,751,1051
+450	Kopčan Andrej		0	1393
+450	Kopčan B Ondrej, SR		0	979
+450	Kopčan Jozef		0	512,665
+450	Kopčan Jozef, SR		0	663,708,751,1051
+450	Kopčan Juraj		0	657
+450	Kopčan Juraj, SR		0	1042
+450	Kopčan Ondrej		0	462,474,476,480,481,486,588,979,1401,1421
+450	Kopčan Ondrej	Zomrel	0	836
+450	Kopčan Ondrej, SR		0	497,506,516,563,784,785,891,1094,1126,1147,1148,1150,1419,1469
+450	Kopčan Štefan	zomrel	0	456,462,474,476,480,481,486,588,836,1401,1421
+450	Kopčan Štefan, SR		0	497,506,516,561,563,579,784,785,891,979,1094,1126,1147,1148,1150,1419,1469
+450	Kopčan Tomáš		0	665
+450	Kopčan Tomáš, SR		0	663,708,751,1051
+450	Kopčan Vendelín		0	665
+450	Kopčan Vendelín, SR		0	663,708,751,1051
+450	Kopčanová Anna		0	643
+450	Kopčanová Mária		0	643,665
+450	Kopčanová Mária, SR		0	663,708,751,1051
+450	Kováč Jozef r. Kováč		0	1409
+450	Kováč Jozef, SR		0	1035
+450	Kováč Juraj r. Kováč		0	1409
+450	Kovačik Ján, SR		0	1036
+450	Kováčiková - Ciesarová Jozefína, SR		0	1035
+450	Kováčiková Anna, SR		0	517
+450	Kováčiková Margita, SR		0	1036
+450	Kováčová - Ciesarová Anna, SR		0	1035
+450	Kováčová Anna		0	1409
+450	Kováčová Emília		0	1409
+450	Kováčová Emília, SR		0	1035
+450	Krajčík Adam		0	581
+450	Krajčík Adam, SR		0	999
+450	Krajčiková Anna		0	544,693,705
+450	Krajčiková Anna, SR		0	731,751
+450	Krajčiková Margita		0	544,693,705
+450	Krajčiková Margita, SR		0	731,751
+450	Kristik Jozef, SR		0	446
+450	Kristiková Anna, SR		0	446
+450	Kucková Anna		0	643
+450	Kučuch Ondrej, SR		0	601,693,721,751
+450	Kučuch Štefan, SR		0	601,693,721,751
+450	Kučuchová Zuzana, SR		0	940
+450	Latková Mária, SR		0	560,621
+450	Letaňová Gabriela, SR		0	512,1126
+450	Letková Mária		0	588
+450	Letková Mária, SR		0	891,1094
+450	Lisický Ondrej		0	1393
+450	Lisický Štefan		0	1393
+450	Lisický Štefan, SR		0	444,483,556
+450	Lovásiková Serafína	Hančínová	1	913
+450	Macanga Ján		0	656
+450	Macanga Ján, SR		0	1043
+450	Macangová Žofia, SR		0	656,1043
+450	Majerik Ján, SR		0	1033
+450	Majerik JOZEF, SR		0	669
+450	Majerik Lisický Ján		0	456,476,480,481,516,561,579,836,1126,1421
+450	Majerik Lisický Ján, SR		0	563,979,1147,1148,1150,1469
+450	Majerik Lisický Štefan		0	657,669
+450	Majerik Lisický Štefan, SR		0	1042
+450	Majeríková Anna		0	1407
+450	Majeríková Anna, SR		0	1033
+450	Matejčík Anton		0	442,473,568
+450	Matejčíková Anna, SR		0	568
+450	Melišová Zuzana		0	643
+450	Miksák Peter, MUDR, 013 31, DIVINKA, č. 21, SR		0	474,476,480,481,486,1401,1421
+450	Mladenková Štefánia		0	616,1205
+450	Mladenková Štefánia, SR		0	529,569,585,598,991
+450	Moľková Mária		0	638,1458
+450	Moľková Mária, SR		0	646
+450	Navarčik Ján, SR		0	1033
+450	Navarčík Jozef r. Navarčík		0	1407
+450	Navarčik Jozef, SR		0	1033
+450	Novosad - Pauška Ondrej, SR		0	557,714,723,751,928,931,941,1054
+450	Novosad - Pauška Štefan, SR		0	714,751,928,931,941,1054
+450	Novosad Jozef	ž. Anna r. Hričovcová	0	1393
+450	Novosad Ondrej		0	546,683,687,702,704,707,712,1200,1201,1370
+450	Novosad Ondrej, SR		0	548,713,751,922,923,928,929,931,998,1060
+450	Novosad Pauška Ondrej		0	538,543,680,702,703,723,1200,1201
+450	Novosad Pauška Štefan		0	538,543,557,680,702,703,723,1200,1201
+450	Novosadová - Pauška Alžbeta, SR		0	714,751,928,931,941,1054
+450	Novosadová - Pauška Mária, SR		0	538,714,751,928,931,941,1054
+450	Novosadová - Pauška Zuzana, SR		0	714,751,928,931,941,1054
+450	Novosadová Anna		0	638,681,1458
+450	Novosadová Anna	Vydatá Líšková	1	678,704,1052
+450	Novosadová Anna r. Hričovcová		0	1393
+450	Novosadová Anna, SR		0	544,545,583,592,595,606,607,645,646,647,648,652,654,659,660,662,663,666,676,677,679,683,687,693,702,705,706,707,708,712,713,721,725,726,727,730,731,732,733,751,754,896,907,922,923,928,929,931,957,999,1009,1021,1022,1031,1048,1049,1060,1200,1201,1286,1332,1370,1391,1447
+450	Novosadová Mária		0	546,683,687,702,704,707,712,713,1200,1201,1370
+450	Novosadová Mária, SR		0	548,751,922,928,929,931,1060
+450	Novosadová Pauška Alžbeta		0	538,543,557,680,702,703,723,1200,1201
+450	Novosadová Pauška Mária		0	538,543,557,680,702,703,723,1200,1201
+450	Novosadová Pauška Zuzana		0	538,543,557,680,702,703,723,1200,1201
+450	Novosadová Verona		0	697,699
+450	Novosadová Verona, SR		0	961
+450	Novosadová Zuzana, SR		0	624,627,637,653,698,744,751,962,964,1063
+450	Očadlík B Ondrej, SR		0	981,1072,1215,1356
+450	Očadlík Ondrej		0	907,1008
+450	Očadlíková Mária r. Grňúchová	zomrela 16.11.1933	0	1425
+450	Očadlíková Mária, SR		0	975,1072
+450	Opálka Ján		0	558,702,1200,1201
+450	Opálka Ján, SR		0	714,751,928,930,931
+450	Opálková Anna, SR		0	558,702,714,751,928,930,931,1200,1201
+450	Opálková X		0	643
+450	Pausková Novosad		0	643
+450	Pauško Ondrej		0	538,543,557,680,702,703,723,1200,1201
+450	Pauško Ondrej, SR		0	714,751,928,931,941,1054
+450	Paušková X		0	643
+450	Paušková Zuzana	Coloňová	0	704
+450	Paušková Zuzana, SR		0	688,694,696,707,710,712,751,755,883,920,921,923,927,1058,1427
+450	Pažický Ondrej, SR		0	516,979,1150
+450	Pecková Magdaléna, SR		0	982
+450	Pecková Štefánia, SR		0	746,751,1064
+450	Pilka Juraj, SR		0	643,701,916
+450	Pilková Mária, SR		0	701,916
+450	Pluta Mária, SR		0	682,685,695,712,751,919,925,1059,1249
+450	Popperová Paulina, SR		0	1126
+450	Porubec Martin, SR		0	979
+450	Priščová Magdalena r. Gorelčíková	Vranie č. 71	0	638,1458
+450	Richtáriková Mária, SR		0	542,543,576,643,675,680,724,753
+450	Rišo Ján, SR		0	682,685,695,712,751,916,919,925,1059,1249
+450	Rišová Anna		0	668,701,1394
+450	Rišová Anna	Jarošová	0	751
+450	Rišová Anna, SR		0	663,667,682,685,690,695,706,709,711,712,751,919,925,1050,1059,1249
+450	Rišová Jozefína, SR		0	682,712,751,925
+450	Roháčová Mária, SR		0	538,543,680,703,723,751,941
+450	Ryšová	spol	0	643
+450	Salátová Maria		0	476,480,1421
+450	Salátová Maria	Kopčanová ,zomrela	0	836
+450	Salátová Maria, SR		0	516,979,1126,1150
+450	Slávik Jozef		0	635,637,643,653,698,1375,1443,1457
+450	Slávik Jozef, SR		0	625,737,738,742,969,1304
+450	Slávik Ondrej		0	625,635,637,643,653,1375,1443,1457
+450	Slávik Ondrej, SR		0	609,715,720,738,740,743,746,751,752,969,1064,1416
+450	Slávik Rudolf, SR		0	998
+450	Sláviková Anna, SR		0	538,543,557,680,702,703,714,723,751,928,931,941,1054,1200,1201
+450	Sláviková Margita		0	698
+450	Sláviková Margita, SR		0	1041
+450	Slúčiková Edita, SR		0	886
+450	Sobola Augustín		0	638,1458
+450	Sobola Augustín	Zomrel v Čehcách	0	678
+450	Sobola Augustín, SR		0	544,545,583,592,595,606,607,645,646,647,648,652,654,659,660,662,676,677,679,693,705,721,725,726,730,731,732,733,751,754,896,907,957,999,1009,1021,1022,1031,1048,1049,1286,1391,1447
+450	Sobola Ján		0	638,681,1458
+450	Sobola Ján	Brat Adama	1	678,1052
+450	Sobola Ján, SR		0	544,545,583,592,595,601,606,607,645,646,647,648,652,654,659,660,662,663,676,677,679,693,705,706,708,721,725,726,727,730,731,732,733,751,754,896,907,957,982,999,1009,1021,1022,1031,1048,1049,1286,1391,1447
+450	Sobola Jozef		0	544,583,592,595,606,607,645,646,648,652,654,659,660,662,677,678,679,693,725,1447
+450	Sobola Jozef r. Sobola	zomrel: 25.1.1981	0	1022
+450	Sobola Jozef, SR		0	679,725,730,733,751,754,896,999,1021,1022,1048,1049,1286,1447
+450	Sobola Rudolf		0	544,545,583,592,595,606,607,638,645,646,647,648,652,654,659,660,662,676,677,678,679,693,705,721,725,732,1391,1447,1458
+450	Sobola Rudolf, SR		0	726,730,731,733,751,754,896,907,957,999,1009,1021,1022,1031,1048,1049,1286
+450	Sobola Vincent	zomr. 16.3.1983	0	1022
+450	Sobolová Jozefína		0	643
+450	Sobolová Libuša		0	545,652,676,677,678,705,721,1391
+450	Sobolová Libuša, SR		0	726,731,732,896,907,957,999,1009,1031,1048,1049
+450	Sobolová Mária		0	668,1394
+450	Sobolová Mária	Jarošová	0	686,704,1466
+450	Sobolová Mária, SR		0	561,663,667,690,706,707,709,711,712,751,905,916,926,1050
+450	Solenský Štefan		0	643
+450	Soliš Ján		0	461
+450	Soliš Ján, SR		0	886
+450	Spitzer Malvína, SR		0	1126
+450	Stacho Juraj		0	667,686,704,707,1466
+450	Stacho Juraj, SR		0	712,751,916,926
+450	Straňan Milan, SR		0	1036
+450	Straňan Valér, SR		0	1036
+450	Straňanová Anna, SR		0	1036
+450	Střihálková Mária r. Novosadová		0	1413
+450	Střihálková Mária, SR		0	548,702,751,928,931,1055,1158,1198,1199,1200,1201,1264,1265,1430,1432,1433,1451
+450	Šedová Apolónia, SR		0	594
+450	Škrková Anna		0	481
+450	Škrková Anna, SR		0	1147,1148,1469
+450	Šustek Ondrej		0	711
+450	Šusteková Justína		0	668,1394
+450	Šusteková Justína, SR		0	663,706,709,751,1050
+450	Taub		0	476,1421
+450	Taub Izrael		0	516
+450	Taub, IZRAEL		0	979,1150
+450	Tieszár Kováč Jozef, SR		0	1035
+450	Tieszár Kováč Juraj, SR		0	1035
+450	Tomaščíková Božena, SR		0	886
+450	Urbánková Jozefa, SR		0	920,927
+450	Vajdík	spol	0	643
+450	Vajdík Jozef		0	702,704,707,1200,1201
+450	Vajdík Jozef, SR		0	712,751,922,923,931
+450	Vajdík Michal		0	713
+450	Vajdíková Anna		0	683,687,702,704,707,1200,1201,1370

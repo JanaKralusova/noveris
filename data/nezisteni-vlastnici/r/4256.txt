@@ -1,0 +1,256 @@
+2402	Mihalec Jakub	žena Anna r. Pumlová	0	6548,6550,6551,6552
+2402	Mihalec Ján		0	6288,6334,6551,6552
+2402	Mihalec Jozef r. Mihalec		0	3890
+2402	Mihalec Peter		0	6548
+2402	Mihalec Štefan		0	6551,6552
+2402	Michalcová Agneša		0	6550,6551,6552
+2402	Michalcová Anna r. Jankov		1	4354,4355,4356,4357,4358,4359,4360,4361,4362,4363,4364,4365
+2402	MICHALCOVÁ ANNA R.JANKOV		1	1859,2902,2907
+2402	Michalcová Helena		0	6548,6550,6551,6552
+2402	Michalcová Žofia		0	6548,6550
+2402	Michalec Adam		0	6551,6552
+2402	Michalec Blažej		0	6548,6550,6551,6552
+2402	Michalec Jakub		0	6548,6550,6551,6552
+2402	Michalec Ján		0	6335,6551
+2402	Michalec Juraj		0	6548,6550
+2402	Michalec Mikuláš	žen. s Margitou Kasmanovou	0	6272
+2402	Michalec Pavel		0	6335
+2402	Michalec Pavol		0	6551
+2402	Michalec Peter		0	6548
+2402	Michalec Štefan		0	6335
+2402	Michálková Anna	r.Janková	0	3398
+2402	MICHALSKÁ ROZÁLIA		1	1859,2902,2907,4354,4355,4356,4357,4358,4359,4360,4361,4362,4363,4364,4365
+2402	Miko	Hradňan	0	338
+2402	Miko Ambróz		1	1093,1765,1859,1957,2902,2907,3653,4354,4355,4356,4357,4358,4359,4360,4361,4362,4363,4364,4365,6000,6170
+2402	Miko Anton		0	4458
+2402	Miko Anton	Hradňan	0	1874
+2402	Miko Dominik		0	4345,4996,5951,6000,6189
+2402	Miko Dominik	ded. 1923, III, Hradňan	0	1764
+2402	Miko Dominik	Hradňan	0	1423
+2402	Miko Dominik	Hradňan, zomrel 13.2.1962	0	1093,3405,3653,3654
+2402	Miko Dominik, Hradňan Hradňan		0	5951
+2402	Miko František		0	2234,3729,3730,3732,4096,6074,6238
+2402	Miko Hradňan		0	4345
+2402	Miko Imrich		1	4096,4354,4355,4356,4357,4358,4359,4360,4361,4362,4363,4364,4365
+2402	Miko Imrich	Hradňan	0	2105
+2402	MIKO IMRICH - HRADŇAN		1	1859,2902,2907
+2402	Miko Jozef		0	4345
+2402	Miko Jozef	Bôtoš, zomrel 17.5.1955	0	1093,3653
+2402	Miko Jozef	Hradňa	0	1764
+2402	Miko Jozef	Hradňan	0	1093,3405,3653,3654
+2402	Miko Jozef, Hradňa Hradňa		0	4681,6189
+2402	Miko Ladislav		1	4354,4355,4356,4357,4358,4359,4360,4361,4362,4363,4364,4365
+2402	MIKO LADISLAV - HRADŇAN		1	1859,2902,2907
+2402	Miko Lukáč		1	4096,4354,4355,4356,4357,4358,4359,4360,4361,4362,4363,4364,4365,5883
+2402	Miko Lukáč	ded. 1932, II, Hradňan	0	2103,2118
+2402	Miko Lukáč	Hradňan, zomrel 25.2.1958	0	3380
+2402	Miko Lukáč	Hradňanová	0	1423
+2402	MIKO LUKÁČ - HRADŇAN		1	1859,2902,2907
+2402	Miko Lukáč, Hradňanová Hradňanová		0	5883
+2402	Miko Martin		0	4190,4345,6000,6189
+2402	Miko Martin	ded. 1908, II	0	1965
+2402	Miko Martin	ded. 1908, III	0	1720,2891,6115,6469
+2402	Miko Martin	ded. 1908, IV	0	1978,2201,3004
+2402	Miko Martin	ded. 1908, V	0	2093
+2402	Miko Martin	ded. 1923, II, Hradňan	0	1764
+2402	Miko Martin	Hradňan, zomrel 13.2.1982	0	1093,3653,3654
+2402	Miko Ondrej		0	1874,3944
+2402	Miko Ondrej	Hradňan	0	1874
+2402	Miko Pavol		1	4096,4354,4355,4356,4357,4358,4359,4360,4361,4362,4363,4364,4365,5883
+2402	Miko Pavol	Hradňan	0	2103,2118,3380
+2402	Miko Pavol	Hradňanová	0	1423
+2402	MIKO PAVOL - HRADŇAN		1	1859,2902,2907
+2402	Miko Pavol, Hradňanová Hradňanová		0	5883
+2402	Miko Peter		0	3981,5497
+2402	Miko Slavo		0	3981,4345,5883
+2402	Miko Slavo	ded. 1932, II, Hradňan	0	2103,2118
+2402	Miko Slavo	ded.1932, II, Hradňan	0	3380
+2402	Miko Slavo	Hradňanová	0	1423
+2402	Miko Slavo, Hradňanová Hradňanová		0	5883
+2402	Miko Šimon		0	1423,1978,4096
+2402	Miko Šimon	Hradňan, zomrel 25.5.1945	0	1093,3653,3654
+2402	Miko Štefan		0	4345,5883,6000,6046
+2402	Miko Štefan	ded. 1918, II	0	1554
+2402	Miko Štefan	ded. 1943, V	0	1964,1978,2203,2880,3745
+2402	Miko Štefan	ded. 1943, VI	0	1433
+2402	Miko Štefan	ded.1943, V	0	3360
+2402	Miko Štefan	zomrel 31.3.1987	0	358,3432
+2402	Miko Vincent		0	4345
+2402	Mikolasech Jozef		0	4345
+2402	MIKOLKOVÁ MAGDALÉNA		1	1859,2902,2907,4354,4355,4356,4357,4358,4359,4360,4361,4362,4363,4364,4365
+2402	Miková	Hradňanová	0	338
+2402	Miková Agneša		0	4096,5883
+2402	Miková Agneša	Hradňanová	0	2105
+2402	Miková Anna	r.Jurčová, zomrela 17.1.1925	0	1540,3570,3885,3887,5128
+2402	Miková Anna	rod.Jurčová	0	1561
+2402	Miková Anna r. Jurčová		0	4096
+2402	Miková Anna r. Lietavcová		0	5740
+2402	Miková Eva r. Hradňanová		1	4354,4355,4356,4357,4358,4359,4360,4361,4362,4363,4364,4365
+2402	MIKOVÁ EVA R.HRADŇANOVÁ		1	1859,2902,2907
+2402	Miková Johana r. Kačincová		0	6575
+2402	Miková Jozefína	r.Juríčková	0	1535,3319,3321,3323,3412,3418,3440,3441,3530,3571,3657,3661,3665,3866,6046,6143,6395,6470
+2402	Miková Jozefína	rod.Juríčková	0	1466,1561,1882,1978,2093,2239,2313,3261,3262,6355
+2402	Miková Jozefína r. Juríčková		0	398,4190,4345,5754,6046,6231
+2402	Miková Júlia		0	6046
+2402	Miková Karolína		0	4096
+2402	Miková Katarína		0	6046
+2402	Miková Katarína	r.Pekná, ded.1912, III, Chapulecká	0	1553
+2402	Miková Katarína	rod.Pekná, ded. 1912, III, Chalupecká	0	2690
+2402	Miková Magda	rod.Nemčeková, Hradňanová	0	1483
+2402	Miková Magda r. Nemčeková		0	2873
+2402	Miková Magdaléna r. Dubecová		0	4345
+2402	Miková Mária		0	4042,4143,5952
+2402	Miková Mária	ded. 1949, II, Hradňanová	0	1733,1735
+2402	Miková Mária	ded.1949, II, Hradňanová	0	1528,4042,4843,6513
+2402	Miková Mária	Hradňanová	0	1750
+2402	Miková Mária r. Frývaldská		0	4042
+2402	Miková Mária r. Šujanová	Hradňanová	0	1423
+2402	Miková Mária r. Šujanová, Hradňanová Hradňanová		0	5952
+2402	Miková Mária r. Šujanská		0	4345
+2402	Miková Pavlína		0	4096
+2402	Miková Terézia	r.Frývaldská	0	3361,3497,3746
+2402	Miková Terézia	r.Ludvíková, 7.12.1957	0	1527,1695,3366,3424,3427,3512,3672,3975,6498,6536,6581,6596
+2402	Miková Terézia	rod.Ludvíková	0	1713
+2402	Miková Terézia	rod.Ludvíková, ded. 1934, II	0	2860
+2402	Miková Terézia	rod.Ludvíková, ded. 1934, III	0	1733,1735,3258
+2402	Miková Terézia	rod.Ludvíková, ded. 1934, IV	0	1978,2860
+2402	Miková Terézia	rod.Ludvíková, ded. 1934, V	0	2201,3004
+2402	Miková Terézia	rod.Šimunová	0	1978,2201,3004
+2402	Miková Terézia	rod.Šimunová, ded. 1933, II	0	2093
+2402	Miková Terézia	rod.Šimunová, Frývaldská	0	1687,1958,1964,2203,2880,3742,3745,6268,6298,6471,6540
+2402	MIKOVÁ TERÉZIA		1	1859,2902,2907,3975,4143,4190,4354,4355,4356,4357,4358,4359,4360,4361,4362,4363,4364,4365
+2402	Miková Viktória	rod.Elogová	0	1948,1970,1978,2093,2201,3004
+2402	Miková Viktória r. Elogová		0	4190,4345
+2402	Miková Žofia		0	3936,4096,5883
+2402	Miková Žofia	ded. 1932, II, Hradňanová	0	2103,2118
+2402	Miková Žofia	Hradňanová	0	1423
+2402	Miková Žofia, Hradňanová Hradňanová		0	5883
+2402	Mikulková Magdaléna r. Elogová		0	5573
+2402	Mikuš Štefan		0	4190
+2402	Mikuš Štefan	ded. 1900, II	0	2093
+2402	Mikušová Karolína		0	6073
+2402	Milová Božena	r.Tužinčinová	0	3488,6326
+2402	Namčeková Mária r. Trsťanová		1	4354,4355,4356,4357,4358,4359,4360,4361,4362,4363,4364,4365
+2402	NAMČEKOVÁ MÁRIA R.TRSŤANOVÁ		1	1859,2902,2907
+2402	Nemček		0	5374,6250
+2402	Nemček	Barčin	0	1762
+2402	Nemček Ambroz	zom.27.11.1943	0	3443,3653
+2402	Nemček Ambróz		0	3919,6032
+2402	Nemček Ambróz	ded. 1929, II, Bugo	0	1561
+2402	Nemček Anton		0	4003
+2402	Nemček Anton	zomrel 21.4.1988	0	3440
+2402	Nemček Barčin		0	1093,3405,3653,3654
+2402	Nemček Filip	ded. 1899, IV, Janček	0	1810,1815
+2402	Nemček Filip	ded. 1912, VII	0	1561
+2402	Nemček Filip	ded. 1925, IV	0	1561
+2402	Nemček Filip	ded. 1943, II, Janček	0	1964,1978,2203,2880,3745
+2402	Nemček Filip	ded. 1943, III, Janček	0	1433
+2402	Nemček Filip	ded.1899, IV, Janček	0	486,3381,3386,3388,3389
+2402	Nemček Filip	ded.1912, VII	0	3440,3457,3574
+2402	Nemček Filip	ded.1925, IV	0	1536,3443,3578,3919
+2402	Nemček Filip	ded.1943, II, Janček	0	3360
+2402	NEMČEK FILIP		1	1859,2902,2907,3929,4003,4354,4355,4356,4357,4358,4359,4360,4361,4362,4363,4364,4365,6045,6238
+2402	Nemček František		0	3281,3304,3404
+2402	Nemček František	Janček	0	3281,3304,3404
+2402	Nemček Gašpar	zomrel 27.10.2000	0	689
+2402	Nemček Imrich		1	1561,1859,2902,2907,3919,4003,4354,4355,4356,4357,4358,4359,4360,4361,4362,4363,4364,4365
+2402	Nemček Imrich	zomrel 31.3.1931	0	1536,3443,3919
+2402	Nemček Izidor		0	4155,6238
+2402	Nemček Izidor	Janček	0	1093,1766,3653
+2402	Nemček Ján		0	4155,6169
+2402	Nemček Ján	Barčin	0	1761
+2402	Nemček Jozef		0	4155,5725
+2402	Nemček Jozef	ded. 1934, VII	0	1561,1564,1733,1735,6443,6503,6506,6508
+2402	Nemček Jozef	ded.1934, VII	0	1531,2970,3437,3440,3457,3574,3844,5725
+2402	Nemček Jozef	Janček	0	3281,3304,3404
+2402	Nemček Jozef	ž.Hedviga Kolár	0	3437,3440
+2402	Nemček Juraj		0	4155,6238
+2402	Nemček Juraj	Bugo	0	1093,1768,3653
+2402	Nemček Juraj	ded. 1908, II, Bugo	0	3437,3440
+2402	Nemček Juraj	ded. 1929, IV, Bugo	0	1561
+2402	Nemček Juraj	ded.1929, III, Bugo	0	3440,3443
+2402	Nemček Justín	zomrel 24.1.1972	0	3440
+2402	Nemček Ľudovít		0	1761,4155,6238
+2402	Nemček Michal		0	1536,4000
+2402	Nemček Michal	ded. 1941, II	0	1978
+2402	Nemček Mikuláš		0	4155,5725,6238
+2402	Nemček Mikuláš	ded. 1929, II, Janček	0	1766
+2402	Nemček Mikuláš	ded. 1932, III	0	1964,1978,2203,2880,3025,3745,6376
+2402	Nemček Mikuláš	ded. 1934, IV	0	1561,1564,1733,1735,6443,6503,6506,6508
+2402	Nemček Mikuláš	ded. 1941, V	0	1964,2203,2880,3025,3745,6376
+2402	Nemček Mikuláš	ded.1904, Janček	0	1093,3305,3406,3407,3653,3654
+2402	Nemček Mikuláš	ded.1929, II, Janček	0	1093,3653
+2402	Nemček Mikuláš	ded.1932, III	0	3360,3507,6377
+2402	Nemček Mikuláš	ded.1934, IV	0	1531,2970,3437,3440,3457,3574,3844,5725
+2402	Nemček Mikuláš	ded.1941, V	0	3360,3507,6377
+2402	Nemček Ondrej	ž.Viera Veselá	0	3437,3440
+2402	Nemček Robert		0	6032
+2402	Nemček Silvester	Barčin, zomrel 8.10.1978	0	1093,3406,3653,3654
+2402	Nemček Silvester	zomrel 8.10.1978	0	689
+2402	Nemček Štefan		0	4003,4155,4298,4901,5605,6020
+2402	Nemček Štefan	ded. 1916, XIV	0	1564,1733,1735,6443,6503,6506,6508
+2402	Nemček Štefan	ded. 1926, V	0	1561
+2402	Nemček Štefan	ded. 1932, XI	0	1561
+2402	Nemček Štefan	ded. 1934, IX	0	1561,1564,1733,1735,6443,6503,6506,6508
+2402	Nemček Štefan	ded. 1949, VI	0	2276,2281,2283,2325,2341,6343,6344
+2402	Nemček Štefan	ded.1882	0	1543,6020
+2402	Nemček Štefan	ded.1907	0	3437,3440
+2402	Nemček Štefan	ded.1916, XIII	0	1531,2970,3844,6020
+2402	Nemček Štefan	ded.1932, XI	0	3440,3457,3574
+2402	Nemček Štefan	ded.1934, IX	0	1531,2970,3437,3440,3457,3574,3844,6020
+2402	Nemček Štefan	ded.1940, II	0	392,393,2462,3387,3394,6238
+2402	Nemček Štefan	ded.1949, VI	0	1278,1515,3251,3329,3529,3538,3581,3582,3900,4298,6330
+2402	Nemček Štefan	ded.1955, X	0	1516,3312,3313
+2402	Nemček Štefan	ded.1958, IV	0	1516,3312,3313
+2402	Nemček Václav		0	4732
+2402	Nemček Vendelín		0	4155
+2402	Nemček Vendelín	ded. 1932, II	0	1964,3025,3745,6376
+2402	Nemček Vendelín	ded. 1934, III	0	1561,1564,1733,1735,6443,6503,6506,6508
+2402	Nemček Vendelín	ded. 1941, IV	0	3025,6376
+2402	Nemček Vendelín	ded.1932, II	0	3507,6377
+2402	Nemček Vendelín	ded.1934, III	0	1531,2970,3437,3440,3457,3574,3844
+2402	Nemček Vendelín	ded.1941, IV	0	3507,6377
+2402	Nemček Vendelín	Janček	0	1093,3281,3304,3305,3404,3405,3406,3407,3653,3654
+2402	Nemčeková Anna	ded. 1934, II	0	1561,1564,1733,1735,6443,6503,6506,6508
+2402	Nemčeková Anna	ded.1934, II	0	1531,2970,3437,3440,3457,3574,3844
+2402	Nemčeková Antónia		0	1093,1766,3305,3407,3653,4155,6238
+2402	Nemčeková Apolónia	r.Jurčová	0	1540,3570,3885,3887
+2402	Nemčeková Apolónia	rod.Jurčová	0	1561
+2402	Nemčeková Apolónia r. Jurčová		0	5114
+2402	Nemčeková Františka	r.Jančeková	0	3386
+2402	Nemčeková Františka	rod.Jakubesová, ded. 1938, II, Jančeková	0	1978
+2402	Nemčeková Františka r. Jakubesová		0	4219,4598
+2402	Nemčeková Jozefína		0	5549,5741
+2402	Nemčeková Jozefína	ded. 1932, V	0	1561
+2402	Nemčeková Jozefína	ded. 1934, III	0	1561,1564,1733,1735,6443,6503,6506,6508
+2402	Nemčeková Jozefína	ded. 1949, II	0	2276,2281,2283,2325,2341,6343,6344
+2402	Nemčeková Jozefína	ded.1932, V	0	3440,3457,3574
+2402	Nemčeková Jozefína	ded.1934, IV	0	1531,3437,3440,3457,3574,4239
+2402	Nemčeková Jozefína	ded.1949, II	0	1278,1515,2970,3251,3329,3529,3538,3581,3582,3844,3900,6330
+2402	Nemčeková Jozefína	r.Ludviková	0	1527,3424,3427,3672,6498,6581,6596
+2402	Nemčeková Jozefína	rod.Ludvíková	0	1733,1735,3258,3263
+2402	Nemčeková Jozefína r. Ludvíková		0	4155,4239
+2402	Nemčeková Judita	r.Pekná Bakešová	0	358,365
+2402	Nemčeková Judita r. Pekná		0	4084
+2402	Nemčeková Júlia r. Trsťanová	zomr. 12.03.1938	0	510,840
+2402	Nemčeková Katarína		0	4155,6032
+2402	Nemčeková Katarína	ded. 1907, II	0	1564,1733,1735,6443,6503,6506,6508
+2402	Nemčeková Katarína	ded. 1934, III	0	1561,1564,1733,1735,6443,6503,6506,6508
+2402	Nemčeková Katarína	ded.1907, II	0	1531,2970,3844
+2402	Nemčeková Katarína	ded.1934, III	0	1531,2970,3437,3440,3457,3574,3844
+2402	Nemčeková Mária		0	392,393,1805,1810,1815,2462,3387,3394,4155,4673,6032,6188,6238
+2402	Nemčeková Mária	Jančeková	0	486,487,1093,1766,1810,1815,3381,3388,3389,3578,3653
+2402	Nemčeková Mária	r.Jakubesová, zomrela 2.11.1995	0	3482
+2402	Nemčeková Mária	r.Trsťanová	0	392,393,2462,3387,3394
+2402	Nemčeková Mária	rod.Trsťanová	0	1805,1810,1815
+2402	Nemčeková Mária r. Jakubesová		1	4354,4355,4356,4357,4358,4359,4360,4361,4362,4363,4364,4365
+2402	Nemčeková Mária r. Miková		0	4155
+2402	Nemčeková Mária r. Trsťanová		0	4155,6238
+2402	NEMČEKOVÁ MÁRIA R.JAKUBESOVÁ		1	1859,2902,2907
+2402	Nemčeková Monika		0	3262,4155,6238
+2402	Nemčeková Monika	r.Ďurigová	0	3412,3418,3657,3661,3665,6143
+2402	Nemčeková Monika r. Ďurigová		0	398,6238
+2402	Nemčeková Pavlína		0	5741
+2402	Nemčeková Pavlína	ded. 1932, II	0	1561
+2402	Nemčeková Pavlína	ded.1932, II	0	3440,3457,3574
+2402	Nemčeková Pavlína	r.Frívaldská Šimunská	0	3578

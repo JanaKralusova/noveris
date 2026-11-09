@@ -1,0 +1,256 @@
+2206	POPOVIČ Jozef	syn Vasiľa	1	23,181,190,228,255,256
+2206	POPOVIČ Michal	ž.Anna r.Šafranková	1	23,228,255,256
+2206	Popovič Michal, 094 05, Piskorovce, č. 49, SR		0	131,167,204,219,220,221,223,224,241,247,251,258
+2206	Popovič Michal, Piskorovce, č. 49, SR		0	128,246
+2206	Popovič Šimon		0	123,222
+2206	POPOVIČ Vasiľ	ž.Helena r.Barnová	1	57
+2206	Popovič Vasil, 094 05, Piskorovce, č. 4, SR		0	130,193,225
+2206	Popovičová Anna r. Capkayova		0	123,222
+2206	POTOMA Andrej	mal	1	137,178
+2206	POTOMA Andrej mal.NV		0	104,123,222
+2206	Potoma Jan		1	104,137,178
+2206	POTOMA Jan NV		0	123,222
+2206	POTOMA Michal		1	137,178
+2206	POTOMA Michal NV		0	104,123,222
+2206	POTOMOVÁ Anna	mal	1	137,178
+2206	POTOMOVA Anna mal.NV		0	104,123,222
+2206	POTOMOVÁ Mária	mal	1	137,178
+2206	POTOMOVA Maria mal.NV		0	104,123,222
+2206	ROZKOS Jan /z.Maria r.Stima/NV		0	129,205
+2206	ROZKOS Vasil /syn Jana/neb. Nizna Olsava		0	129,205
+2206	ROZKOS Vasil /z.Julia Satnik/NV		0	129,205
+2206	ROZKOŠ Adam	ž.Anna r.Fedorová	1	23,57,228,255,256
+2206	Rozkoš Jan		0	117,120,123,128,130,131,167,193,204,216,217,218,219,220,221,222,223,224,225,241,246,247,251,252,258
+2206	ROZKOŠ Ján	ž.Mária r.Štimová	1	23,57,228,255,256
+2206	Rozkoš Jozef, 094 05, Piskorovce, č. 24, SR		0	241
+2206	ROZKOŠ Juraj	ž.Helena r.Potomová	1	57
+2206	Rozkoš Juraj, 094 05, Piskorovce, SR		0	131
+2206	Rozkoš Michal, 094 05, Piskorovce, č. 1, SR		0	204,224,241
+2206	Rozkoš Michal, Piskorovce, č. 1, SR		0	224,241
+2206	Rozkoš Vasil		0	130,193,225
+2206	ROZKOŠ Vasiľ	syn Jána	1	23,57,191,228,255,256
+2206	Rozkoš Vasil, 090 32, Nižná Olšava, SR		0	204
+2206	Rozkoš Vasil, NIŽNÁ OLŠAVA, SR		0	123,128,130,131,167,193,219,220,221,222,223,224,225,241,246,247,251,258
+2206	Rozkošová Anna		0	131
+2206	ROZKOŠOVÁ Anna	mal	1	23,221,228,241,255,256
+2206	ROZKOŠOVÁ Anna	mal.NV	1	57
+2206	ROZKOŠOVÁ Anna, mal., SR mal.		0	128,129,130,167,193,204,205,219,220,223,224,225,246,247,251,258
+2206	ROZKOŠOVÁ Helena	mal	1	23,228,255,256
+2206	ROZKOŠOVÁ Terézia		1	191
+2206	ROZKOŠOVÁ Terézia	mal	1	23,228,255,256
+2206	ROZKOŠOVÁ Zuzana	mal	1	23,228,255,256
+2206	SAFRANKO Jan c.s.18 /syn Michala/ neb. Piskorovce		0	129,205
+2206	SAFRANKO Jan c.s.35 Piskorovce		0	129,205
+2206	SAFRANKO Jozef /syn Jana/ mal.neb.		0	129,205
+2206	SAFRANKO Juraj /syn Jana/ Slatina okr.Hrad. Kralove		0	129,205
+2206	SAFRANKO Juraj c.s.19 mal.neb.Piskorovce		0	129,205
+2206	SAFRANKO Peter neb.		0	129,205
+2206	SAFRANKO Vasiľ	ž.Anna r.Medveďová	1	57
+2206	SAFRANKOVA Anna /dcera Jana/ Kosarovce		0	129,205
+2206	SAFRANKOVA Maria mal.NV		0	129,205
+2206	SATNIK Andrej neb.		0	129,205
+2206	SATNIK Michal /z.Anna r.Kvarta/neb.		0	129,205
+2206	SATNIK Vasil neb.		0	129,205
+2206	SILBERMANN Aladar	Abrahám Dr	1	23,57,228,255,256
+2206	SILBERMANN Aladar /Abraham/Dr.NV		0	128,129,131,167,193,204,205,219,220,221,223,224,225,246,247,251,258
+2206	Silbermann Aladar, Dr.		0	241
+2206	SILBERMANN Eugen	Ján	1	57
+2206	SILBERMANN Eugen /Jan/NV		0	123,129,131,193,205,222,225
+2206	SILBERMANN Herman NV		0	123,222
+2206	SILBERMANN Ignác		1	57
+2206	SILBERMANN Ignac NV		0	129,131,193,205,225
+2206	SILBERMANN Jankel NV		0	123,222
+2206	Sivaková Julia r. Švecova		0	132
+2206	SMAJDOVA Maria r.Ceckova neb.		0	129,205
+2206	SMOLIGA Ján		1	137
+2206	SMOLIGA Michal		1	137
+2206	SMOLIGA Peter		1	137
+2206	SMOLIGOVÁ Zuzana	mal	1	137
+2206	Sukeľová Maria r. Šatnikova, 094 05, Ďapalovce, č. 50, SR		0	258
+2206	SVECOVA Maria r.Safrankova Rohoznik		0	129,205
+2206	SVIENOVÁ Helena	r.Šafranková	1	137
+2206	Šafanková Maria		0	123
+2206	Šafraková Maria		0	127
+2206	ŠAFRANKO Emil		1	137
+2206	Šafranko Jan		0	123,127,222
+2206	ŠAFRANKO Ján	čd.1421/1910	1	137
+2206	ŠAFRANKO Ján	čd.4009/1928	1	23,57,137,138,228,253,255,256
+2206	ŠAFRANKO Ján	čd.916/1941	1	23,228,255,256
+2206	ŠAFRANKO Ján	mal	1	137
+2206	ŠAFRANKO Ján	nar.1912	1	192
+2206	ŠAFRANKO Ján	syn Michala	1	178,192
+2206	Šafranko Jan, 094 05, Piskorovce, č. 18, SR		0	123,130,131,167,193,204,219,220,221,222,223,224,225,241,247,251,258
+2206	Šafranko Jan, 094 05, Piskorovce, č. 35, SR		0	104,130,167,193,204,219,220,221,223,224,225,241,247,251,258
+2206	Šafranko Ján, Piskorovce, č. 18, SR		0	128,246
+2206	Šafranko Ján, Piskorovce, č. 35, SR		0	128,246
+2206	Šafranko Jozef		0	123,128,131,167,193,204,219,220,221,222,223,224,225,241,246,247,251,258
+2206	ŠAFRANKO Jozef	čd.3835/1935	1	137
+2206	ŠAFRANKO Jozef	mal	1	137
+2206	ŠAFRANKO Jozef	mal.syn Jána	1	23,57,228,255,256
+2206	Šafranko Jozef, 094 05, Piskorovce, č. 16, SR		0	219,251
+2206	Šafranko Juraj		0	123,131,193,258
+2206	ŠAFRANKO Juraj	mal	1	23,57,137,138,192,228,253,255,256
+2206	ŠAFRANKO Juraj	mal.čd.3835/1935	1	137
+2206	ŠAFRANKO Juraj	syn Jána	1	23,57,178,228,255,256
+2206	Šafranko Juraj, 094 05, Piskorovce, č. 19, SR		0	130,131,167,193,204,219,220,221,222,223,224,225,247,251,258
+2206	Šafranko Juraj, Piskorovce, č. 19, SR		0	123,128,241,246
+2206	Šafranko Juraj, Slatina- Hradec Králové, SR		0	128,219,220,221,222,225,246,251
+2206	Šafranko Juraj, SLATINA-HRADEC KRÁLOVÉ, SR		0	204,224,241
+2206	Šafranko Juraj, Slatina, Hradec Králové, PSČ 500 03, ČR		0	104
+2206	Šafranko Juraj, SLATINA, SR		0	167,223,247
+2206	Šafranko Michal		1	123,137,222
+2206	ŠAFRANKO Michal	mal.čd.4048/1927	1	23,137,228,255,256
+2206	ŠAFRANKO Michal	ž.Anna r.Popovičová	1	57,137,178
+2206	Šafranko Michal, 091 01, Stropkov, SR		0	104
+2206	Šafranko Michal, 094 05, Piskorovce, č. 34, SR		0	123,222
+2206	Šafranko Michal, Stropkov, SR		0	131
+2206	Šafranko Peter		1	104,123,130,137,193,222,225
+2206	ŠAFRANKO Peter	čd.4009/1928	1	57
+2206	ŠAFRANKO Peter	LV 46	1	178
+2206	Šafranko Štefan		0	123,222
+2206	Šafranko Teodor		1	104,123,178,222
+2206	ŠAFRANKO Tivadar		1	137
+2206	Šafranko Vasiľ		0	123,222
+2206	Šafranko Vasil, 094 05, Piskorovce, č. 35, SR		0	131
+2206	Šafranková Anna		0	104,123,222
+2206	ŠAFRANKOVÁ Anna	dcéra Jana	1	23,57,178,228,255,256
+2206	ŠAFRANKOVÁ Anna	mal	1	137
+2206	ŠAFRANKOVÁ Anna	mal.čd.3825/1935	1	137
+2206	ŠAFRANKOVÁ Anna	r.Popovičová	1	181,190
+2206	Šafranková Anna r. Medvecova		0	108,123,222
+2206	Šafranková Anna, Košarovce, SR		0	128,131,167,193,204,219,220,221,223,224,225,241,246,247,251,258
+2206	ŠAFRANKOVÁ Gizela	mal	1	137
+2206	Šafranková Helena r. Bartkovicova, Vyšný Hrabovec, SR		0	123
+2206	Šafranková Helena r. Bartkovičova, 090 34, Vyšný Hrabovec, SR		0	222
+2206	ŠAFRANKOVÁ Kristína		1	137
+2206	Šafranková Maria		0	104,108,109,123,128,130,131,166,167,193,204,219,220,221,222,223,224,225,241,246,247,251,258
+2206	ŠAFRANKOVÁ Mária	čd.3835/1935	1	137
+2206	ŠAFRANKOVÁ Mária	mal	1	23,57,137,138,178,192,228,253,255,256
+2206	ŠAFRANKOVÁ Mária	mal.čd.3835/1935	1	137
+2206	Šafranková Maria r. Zeleňakova		0	123,222
+2206	Šatnik Andrej		0	111,112,123,128,130,131,167,193,204,210,211,212,213,214,215,219,220,221,222,223,224,225,241,246,247,249,250,251,258
+2206	ŠATNIK Andrej	ž.Mária r.Kyseľová	1	36,57,173,191,254
+2206	ŠATNÍK Andrej	mal	1	23,228,255,256
+2206	Šatnik Jan		0	131
+2206	ŠATNIK Ján	mal	1	57,191,228
+2206	ŠATNIK Ján	ž.Mária r.Kostelníková	1	36,57,173,191,228,254
+2206	ŠATNÍK Ján	ž.Helena r.Siváková	1	57
+2206	ŠATNIK Michal	ž.Anna r.Kvartová	1	36,57,173,191,254
+2206	ŠATNÍK Michal		1	23,111,112,123,128,130,131,167,193,204,210,211,212,213,214,215,219,220,221,222,223,224,225,228,241,246,247,249,250,251,255,256,258
+2206	ŠATNIK Mikuláš	ž.Anna r.Dovičáková	1	57,191
+2206	ŠATNÍK Mikuláš		1	23,123,222,228,255,256
+2206	Šatnik Mikulaš, 094 05, Piskorovce, č. 29, SR		0	131,167,204,219,220,221,223,224,247,251,258
+2206	Šatnik Mikuláš, Piskorovce, č. 29, SR		0	128,241,246
+2206	ŠATNIK Vasiľ		1	36,57,111,128,130,167,191,193,204,213,214,215,219,220,221,223,224,225,241,246,247,251,258
+2206	ŠATNÍK Vasiľ	mal	1	23,228,255,256
+2206	ŠATNIKOVÁ Anna	r.Dovičáková	1	36
+2206	Šatniková Anna r. Dovičakova, 094 05, Piskorovce, č. 29, SR		0	130,131
+2206	Široká Helena r. Popovičova		0	123,222
+2206	ŠMAJDOVÁ Helena r.Rozkošová ,Potočky 5 ,okr.Stropkov		0	57
+2206	ŠMAJDOVÁ Mária	r.Čečková	1	6,23,57,137,177,178,228,255,256
+2206	Šmajdová Mária r. Čečková		0	103,104,118,123,128,130,131,167,193,204,219,220,221,222,223,224,225,239,240,241,246,247,251,258
+2206	ŠPAKOVÁ Barbora	r.Šafranková	1	137
+2206	Švec Michal		0	132
+2206	Švec Štefan		0	132
+2206	Švecová Maria r. Šafrankova, 094 07, Rohožník, SR		0	167,247
+2206	Švecová Maria r. Šafranková, Rohožník, SR		0	128,130,131,193,204,219,220,221,223,224,241,246,251,258
+2206	Švecová Maria r. Šafrankova, Rozhožník, SR		0	225
+2206	Švecová Terezia r. Gombitova		0	132
+2206	Učiteľský majetok, 094 05, Piskorovce, SR		0	123,222
+2206	VARGOVÁ Anna	r.Smoligová	1	137
+2206	ZAJAROS Jozef /Maria Chalachan/neb. Vysna Olsava ž. /Mária Chachalan/		0	112,249,250
+2206	ZAJAROŠ Jozef	ž.Mária r.Chalachanová	1	23,228,255,256
+2206	Zajaroš Jozef, VYŠNÁ OLŠAVA, SR	ž. /Mária Chachalan/	0	210,211,212
+2206	ZELINKOVÁ Juliana	r.Šafranková	1	137
+2207	Albertová Antónia r. Hudecová, Štefanka Štefanka		0	1640
+2207	Balážová Mária r. Mališová		0	44
+2207	Balážová Mária r. Mališová	I	0	532
+2207	Balážová Mária r. Mališová	II	0	43,601,695,1124
+2207	Balážová Mária r. Mališová, I. I.		0	1788
+2207	Balážová Mária r. Mališová, II. II.		0	1626,1627
+2207	Baran Albín		0	1513
+2207	Baranová Mária r. Čabáková		0	1510
+2207	Barát Anton		0	648,1072
+2207	Barát Anton, Ing., Bukovinská 6, Bratislava, PSČ 831 06, SR	zom.11.3.2003	0	605
+2207	Barát Anton, Ing., Bukovinská 6, Bratislava, PSČ 831 06, SR	zomrel 11.03.2003	0	1616
+2207	Barát Gejza	syn Dominika, žen. Elena Štefanková	0	648,1072
+2207	Barát Gejza, ž.E.Štefanková ž.E.Štefanková		0	1659
+2207	Barát Martin		0	1811
+2207	Barát Michal		0	1581
+2207	Barát Peter, Žiar nad Hronom Žiar nad Hronom		0	1793,1794
+2207	Barát Vladimír		0	605,648,1072,1711
+2207	Barátová Antónia r. Sklenková, manž.Martin manž.Martin		0	1458
+2207	Barátová Emília		0	648,1072
+2207	Barátová Helena r. Skrovná, 966 11, Pitelová, č. 191, SR	zom.19.03.2001	0	1261
+2207	Barátová Kapitolína r. Čížová, 966 11, Pitelová, SR	zom.18.02.1966	0	1427,1428
+2207	Barátová Kapitolína r. Čížová, 966 11, Pitelová, SR	zom.18.2.1966	0	984
+2207	Behanovský Ján		0	1909
+2207	Belička Cyril, SNP 594/139, Žiar nad Hronom, PSČ 965 01, SR	zom.16.05.2007	0	1909
+2207	Belička Juraj		0	1909
+2207	Belička Ladislav		0	1909
+2207	Belička Milan, zomrel, Trnavá Hora zomrel, Trnavá Hora		0	1909,1920
+2207	Beličková Anna		0	1909
+2207	Beličková Anna Antónia r. Vencelíková		0	1803
+2207	Beličková Mária		0	1909
+2207	Beličková Mária r. Dutková	Banská Bystrica	0	1383,1384
+2207	Beličková Paulína		0	1909
+2207	Beličková Paulína r. Ivanová		0	1909
+2207	Beličková Zuzana r. Mališová		0	1909
+2207	Beňo Eduard, 966 11, Pitelová, č. 66, SR	zom.15.02.1998	0	1925
+2207	Beňo Eduard, Pitelová, č. 66, SR	zom.15.2.1998	0	890
+2207	Beňo Jozef, 966 11, Trnavá Hora, č. 83, SR	zom.31.07.1999	0	1261,1925
+2207	Beňo Jozef, Trnavá Hora, č. 83, SR	zom.31.7.1999	0	890,1002,1003,1004,1005,1008,1009
+2207	Beňo Mikuláš		0	1909
+2207	Beňo Štefan		0	1909
+2207	Beňo Vavrinec		0	1909
+2207	Beňo Vincent	zomrel, Pitelová	0	1875
+2207	Beňová Agneša		0	1909
+2207	Beňová Johana r. Baranková		0	1909
+2207	Beňová Jozefína r. Baranková		0	1909
+2207	Beňová Karolína r. Beličková		0	1909
+2207	Beňová Mária r. Barátová, Pitelová, č. 233, SR	zom.2.11.2004	0	1072
+2207	Brandt Jozef		0	1923
+2207	Brandt Jozef	Stará Kremnička	0	1287
+2207	Brandt Miroslav, 965 01, Šášovské Podhradie, č. 132, SR	zom.10.6.2003	0	1053
+2207	Brandtová Mária r. Bohumelová, 965 01, Stará Kremnička, č. 274, SR	zom.15.03.1997	0	1287
+2207	Brandtová Mária r. Bohumelová, Stará Kremnička, č. 274, SR	zom.15.3.1997	0	988
+2207	Brhlíková Paulína r. Mališová		0	1909
+2207	Bugárová Mária r. Víťazková		0	44,600,1518
+2207	Ceplák Jozef, 966 11, Trnavá Hora, č. 117, SR	zom.18.07.2005	0	1909
+2207	Ceplák Pavel		0	1909
+2207	Ceplák Rudolf, Kľačany 460, Trnavá Hora, PSČ 966 11, SR	zom.18.02.2006	0	1909
+2207	Ceplák Štefan		0	1909
+2207	Cepláková Anna		0	1909
+2207	Cepláková Emília		0	1909
+2207	Cepláková Mária		0	1909
+2207	Cepláková Mária r. Dvorská		0	1909
+2207	Ciglan Pavol, Ing., Ľ.Okánika 590/4, Nitra, PSČ 949 11, SR	zom.14.12.1995	0	1920
+2207	Čabák Anton		0	1076
+2207	Čabák Pavel, 966 11, Pitelová, č. 158, SR	zom.11.02.2004	0	1261,1925
+2207	Čabák Pavel, 966 11, Pitelová, č. 158, SR	zom.11.2.2004	0	858,890,1002,1003,1004,1005,1008,1009
+2207	Čabáková Anna r. Páločná, 962 33, Budča, č. 185, SR	zom.17.02.2004	0	1839
+2207	Čabáková Gizela		0	73,473
+2207	Čabáková Magdaléna r. Peťková, 966 11, Pitelová, č. 168, SR	zom.10.02.2000	0	1925
+2207	Čabáková Magdaléna r. Peťková, Pitelová, č. 168, SR	zom.10.2.2000	0	890
+2207	Čabáková Mária		0	1099
+2207	Čabáková Mária r. Barátová, 966 11, Pitelová, č. 231, SR	zom.05.05.2002	0	1261,1925
+2207	Čabáková Mária r. Barátová, Pitelová, č. 231, SR	zom.5.5.2002	0	1008,1009
+2207	Čabáková Veronika r. Mališová, Sazdice, č. 28, SR	zom.12.1.1952	0	1100
+2207	Červienka Jozef		0	476,1145,1337
+2207	Červienková Anna r. Slašťanová		0	1867
+2207	Červienková Františka		0	1175
+2207	Červienková Jozefína r. Forgáčová		0	1619
+2207	Danková Anna r. Sklenková	manž. Ján Danko	0	1134
+2207	Daubnerová Elena r. Krausová		0	1685,1924
+2207	Deckerová Helena r. Čabáková, 064 01, Chmeľnica, č. 201, SR	zom.06.04.2008	0	1297
+2207	Dobiasová Elena		0	988,1919
+2207	Dobiaš Jozef		0	988,1870
+2207	Drobný Bernardín, Sadová 3601, Piešťany, PSČ 921 01, SR	zom. 12.2.2002	0	1115,1265
+2207	Ďurianová Alžbeta r. Baranová		0	1741
+2207	Dvončová Júlia r. Firová		0	1782
+2207	Fira Ladislav		0	1883
+2207	Firová Anna		0	1642
+2207	Firová Etela		0	1380
+2207	Firová Mária r. Ivanová		0	1533
+2207	Forgáč Martin, I. I.		0	1668
+2207	Forgáč Martin, II. II.		0	1312

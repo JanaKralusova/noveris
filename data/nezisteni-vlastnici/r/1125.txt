@@ -1,0 +1,256 @@
+658	Veľký Jozef		0	60
+658	Veľký Valent		0	60
+658	Vozárová Alžbeta	r.Gumanová	0	588
+658	Vozárová Anna	r.Smolková	0	91,412,496,497,593,1041
+658	Výhonský Štefan		0	823,824,946
+658	Výrosta Andrej		0	867
+658	Vyšňovská Žofia	r.Baluchová	0	593
+658	Žembová Anna	r.Husárová	0	166,425,435,436,593,756,757,826,944,945,970,1035
+659	ARTHOVÁ Anna r. Barilková		0	340,417,456,457,460,735,743,832,833,891
+659	BARILKA Andrej		0	340,417,456,457,460,735,743,832,833,891
+659	Bašistová Mária r. Ličáková		0	469
+659	Bednár Ján r. Bednár	ž.Verona r.Berdisová	0	706
+659	BEDNÁROVÁ Anna		0	706
+659	Blašková Mária r. Pekárová	dátum úmrtia: 06.06.1977	0	340,456,735,743,796,832,891
+659	BOSÁK Jozef		0	340,456,735,743,832,891
+659	BOSÁK Juraj		0	340,456,735,743,832,891
+659	BOSÁKOVÁ Anna		0	340,456,735,743,832,891
+659	BUČKO Štefan		0	478
+659	Bučková Alžbeta	Sebastian	0	478
+659	Bučková Margita r. Husovská		0	482
+659	ČERVEŇÁK Ján		0	536
+659	Čurová Margita r. Ličáková		0	482
+659	Daňo Michal r. Daňo	ž.Mária r.Daňová	0	210,796
+659	Dobranská Anna r. Figmíková		0	481
+659	Doranský Ján	mal	0	481
+659	Drabiščák Ján	ž.Anna Lipková	0	600
+659	DRABIŠČÁKOVÁ Anna r. Lipková		0	600
+659	ELIAŠ Andrej		0	473
+659	Eliaš Jozef	ž. Mária Onofrejová	0	472
+659	Eliašová Mária r. Onofrejová		0	472
+659	FABUĽA Andrej		0	477
+659	Fabuľa Ján	Tomaš	0	474
+659	Fabuľa Štefan	Tomáš	0	475
+659	Fabuľová Anna r. Fortunová		0	617
+659	Fedor Eliaš r. Fedor	dátum úmrtia: 14.12.1986	0	340,456,457,735,743,832,891
+659	Fedor Michal r. Fedor	ž.Anna Matejovská, dátum úmrtia: 21.10.1965	0	340,456,735,743,832,891
+659	Fedor Štefan r. Fedor		0	340,456,457,735,743,832,891
+659	Fedorová Anna r. Blanarová		0	618
+659	Fedorová Mária r. Potašová		0	41
+659	Fogaš Ján	Július ž Anna Bašistová	0	469
+659	FOGAŠ Ján		0	470
+659	Fogašová Anna r. Bašistová		0	469
+659	Foltín Andrej	otec Andrej	0	475
+659	FRIMER Andrej		0	470
+659	FRIMER Ján		0	477
+659	Frimer Juraj	ž. Anna Kočišová	0	469
+659	FRIMER Juraj		0	470
+659	FRIMEROVÁ Anna		0	477
+659	Frimerová Anna r. Kočišová		0	469
+659	Gašparová Karolína r. Gazdačková	muž Juraj	0	466
+659	GAZDAČKO Juraj		0	474
+659	Gešperová Anna r. Muchová		0	336,842
+659	Gillányi Antal	Lászlo	0	693
+659	Giňovská Anna r. Zamborská		0	480
+659	Hajduková Anna	č.d.1998/1928	0	64
+659	HAJDUKOVÁ Anna		0	214,215
+659	HAJDUKOVÁ Barbora		0	64,214,215
+659	HORVATOVÁ Alžbeta r. Hajduková		0	64,214,215
+659	Hric Michal	ž. Anna Kmecová	0	656,658
+659	HRICOVÁ Anna r. Kmecová		0	656,658
+659	HUSOVSKÝ Ján		0	477
+659	CHOMA Štefan		0	536
+659	Janičko Juraj	čd 2584/43	0	405,766
+659	Janičko Juraj	čd 2584/43 vl 115	0	304
+659	Janičko Juraj	ž r Kaňa	0	128,769,870
+659	Janičková - Jurajová r. Kaňa	muž Juraj	0	128,870
+659	Janičková Mária r. Sučková		0	128,769,870
+659	Janičková- Jurajová r. Kaňa	muž Juraj	0	769
+659	Jusková Margita r. Brunarová		0	468,482
+659	Kačmár Juraj	syn Juraja	0	477
+659	Kačmár Juraj	ž. Žofia Janošiková	0	477
+659	Kačmárová Verona r. Husovská		0	482
+659	Kačmárová Žofia r. Janošiková		0	477,481
+659	KLOBUŠOVSKÁ Anna		0	473,478
+659	KLOBUŠOVSKÁ Ilona		0	478
+659	Kmecová Helena r. Klobušovská		0	478
+659	Kniž Juraj	vl 153	0	128,769,870
+659	Koscelníková Anna r. Fabuľová	muž Štefan	0	128,210,769,796,870
+659	Košč Juraj	ž. Mária Husovská	0	477
+659	KOŠČ Štefan		0	476
+659	Koščová Mária r. Husovská		0	477
+659	Kráľová Irena r. Ličáková		0	482
+659	LEŠKO Michal		0	340,456,487,735,743,832,891
+659	Leško Michal r. Leško		0	457,742
+659	Leško Štefan	NP	0	340,456,487,735,743,832,891
+659	Leško Štefan r. Leško	NP	0	457,742
+659	Lešková Juliana r. Husovská		0	482
+659	LIČÁK Anton		0	482
+659	LIČÁK Juraj		0	587
+659	LIČÁK Ľudovít		0	482
+659	Ličáková Anna r. Frimerová		0	470
+659	Ličáková Anna r. Husovská		0	482
+659	Ličáková Gizela r. Husovská		0	482
+659	Lipka Štefan	ž.Verona Balšajová	0	586,604
+659	Lipková Mária r. Brendzová	muž Andrej	0	471
+659	LIPKOVÁ Verona r. Balšajová		0	586
+659	Macko Ján	ž. Anna Kolesárová	0	470
+659	Macko Ján	ž.Mária Stredňaková	0	589
+659	MACKO Ján		0	480
+659	Macko Juraj	v ku Podhorany	0	480
+659	MACKO Juraj		0	588
+659	Macková Helena	mal	0	472
+659	MACKOVÁ Margita		0	472
+659	Macková Mária r. Stredňaková		0	589
+659	Marcinková Mária r. Macková		0	480
+659	Marcinová Alžbeta r. Husovská		0	482
+659	MARINČÁK Jozef		0	697,899
+659	Marinčák Štefan r. Marinčák	st	0	734
+659	Maťaš Štefan	ž.Mária Potášová	0	796
+659	Maťaš Štefan r. Maťaš	ž.Mária Potášová	0	210
+659	MAŤAŠOVÁ Mária r. Potášová		0	210,565,796
+659	Matejovský Juraj	vl 153	0	128,769,870
+659	MATIOVSKÁ Anna		0	340,456,457,489,735,743,832,891
+659	Mikloš Andrej	mal	0	480
+659	Mikloš Imrich	mal	0	480
+659	Mikloš Ján	mal	0	480
+659	Mikloš Ján	ml	0	340,456,735,743,832,891
+659	Mikloš Ján	vl91 1	0	564
+659	Mikloš Ján	záp.37 B7	0	735,743,891
+659	MIKLOŠ Ján	ž.Margita r.Váleková	0	591
+659	MIKLOŠ Juraj		0	480
+659	Mikloš Štefan	mal	0	480
+659	MIKLOŠ Štefan		0	480
+659	Mikloš Vincent	mal	0	480
+659	Miklošová Anna	mal	0	480
+659	Miklošová Anna r. Pasternáková		0	564
+659	Miklošová Helena	mal	0	480
+659	Miklošová Margita r. Váleková		0	591
+659	Miklošová Mária	mal	0	480
+659	Miklošová Verona	mal	0	480
+659	Mucha Andrej	vl 327 rč 1f	0	336,842
+659	MUCHA Andrej		0	335,340,454,456,734,740,743,832,844
+659	Mucha Andrej r. Mucha		0	457,735,891
+659	Mucha Juraj	vl 153	0	128,769,870
+659	Mucha Michal r. Mucha	ž.Verona Slaviková, dátum úmrtia: 31.12.1964	0	796
+659	Mucha Peter	vl 327 rč 1g	0	336,842
+659	MUCHA Peter		0	335,340,454,456,734,740,743,832,844
+659	Mucha Peter r. Mucha		0	457,735,891
+659	Mucha Štefan	vl 327 rč 1h	0	336,842
+659	MUCHA Štefan		0	335,340,454,456,734,740,743,832,844
+659	Mucha Štefan r. Mucha		0	457,735,891
+659	MUCHOVÁ Anna	r. Fedorová muž Michal	0	800
+659	MUCHOVÁ Anna r. Fedorová	muž Michal	0	34,182,207,211,212,213,266,340,342,447,448,456,457,689,735,743,771,798,799,832,843,852,864,873,891,902
+659	MUCHOVÁ Anna r. Hajduková		0	210,796
+659	MUCHOVÁ Mária r. Sláviková	muž Ján	0	209,383
+659	Muľ Ľudovít	ž. Helena Radačovská	0	465,468
+659	Muľová Helena r. Radačovská		0	465,468
+659	Pastirová Mária r. Skladaná		0	536
+659	Pavuk Ondrej	ž.Margita Baľšomarcinová	0	592
+659	PAVUKOVÁ Margita r. Baľšomarcinová		0	592
+659	Ponik Imrich r. Ponik	syn Juraja	0	467
+659	Ponik Ján r. Ponik	syn Juraja	0	467
+659	Ponik Juraj r. Ponik	syn Juraja	0	467
+659	Ponik Štefan r. Ponik	syn Juraja	0	467
+659	PONIKOVÁ Janová r. Brendzová	muž Ján	0	605
+659	Poniková Mária r. Poniková		0	465,473
+659	Potaš Ján r. Potaš	vl 329 rč 1c	0	412
+659	Potaš Ján r. Potaš	ž. Alžbeta Potašová	0	412
+659	Potaš Ján r. Potaš	ž.Alžbeta Potašová	0	210,583,619,796
+659	Potaš Juraj r. Potaš, 082 12, Fulianka, č. 27, SR	zomr	0	796
+659	Potaš Michal r. Potaš		0	340,452,456,735,743,797,832,847,891
+659	POTAŠOVÁ Alžbeta r. Ivanková	muž Štefan	0	494
+659	Potášová Alžbeta r. Potášová		0	210,796
+659	Potašová Mária	mal	0	618
+659	Potášová Mária r. Fedorová		0	517
+659	Rakoš Andrej r. Rakoš		0	593
+659	Rechtoriková Anna r. Husovská	30.12.1947	0	482
+659	Rentko Ján	syn Andreja	0	465
+659	Rentko Juraj	syn Andreja	0	465
+659	Smolková Božena r. Frimerová	15.4.1943	0	477
+659	Šoltésová Verona r. Frimerová		0	470
+659	Šoltis Ján	ml	0	599
+659	Šoltis Ján	ž. Mária Hovancová	0	469
+659	Šoltis Ján	ž.Mária Hovancová	0	598
+659	Šoltisová Mária r. Hovancová		0	469,598
+659	ŠVIDOVÁ Margita r. Bučková		0	601
+659	Talpašová Jana	muž Ján	0	128,769,870
+659	Tekeľ Štefan r. Tekeľ		0	473
+659	Tekeliová Anna	dcéra Jána a Márie	0	466
+659	Tekeľová Anna r. Klobušovská		0	473,478
+659	TOMKOVÁ Mária		0	476
+659	Valek Andrej r. Valek		0	466
+659	Válek Jozef	ž.Mária r.Miklošová	0	594
+659	VÁLEKOVÁ Mária r. Miklošová		0	594
+659	VAŠKO Andrej		0	211
+659	Vaško Andrej r. Vaško	ž. Mária Pavúková	0	476
+659	Vašková Anna r. Varzalyová		0	207,873
+659	VAŠKOVÁ Mária		0	207,873
+659	VAŠKOVÁ Mária	r Pavúková	0	476
+660	Abaffy Mikuláš MUDr.  r. Abaffy		0	13360
+660	Adamčík Ján r. Adamčík	žen. Alžbeta Kandráč	0	12934
+660	Adamčíková Alžbeta r. Kandráčová	manžel Ján	0	12934
+660	Adzima Ján r. Adzima		0	13467
+660	Adzimová Mária r. Suchtová	vd	0	13465
+660	Babčáková Alžbeta r Plichtová		0	10912
+660	Babják Imrich r. Babják		0	12731,13342
+660	Babják Imrich r. Babják	syn Ondrejov	0	12731,13342
+660	Babják Ondrej r. Babják		0	12731,13342
+660	Babják Ondrej r. Babják	syn Ondrejov	0	12731,13342
+660	Badoriská Barbora r. Maková		0	12731,13342
+660	Bagi Ján r. Bagi	žen. Mária Babják	0	13483,13951
+660	Bajerová Anna r. Lengyelová		0	13430,13924
+660	Baláž Maximilián r. Baláž		0	13402
+660	Baláž Mitro r. Baláž		0	13402
+660	Bálintová Barbora r. Redajová		0	12916
+660	Balková Anna r. Šferančíková	manžel Jozef	0	12990
+660	Barej Ján		0	13035
+660	Barej Ján r. Barej	žen. Mária Forrai	0	11647,13421
+660	Barejová Mária		0	12943,12976,13035
+660	Bočkaj Ján r. Bočkaj		0	13485
+660	Bočkajová Mária r. Šimčová		0	13485
+660	Bodnárová Mária r. Čižmárová	manžel Štefan	0	13363
+660	Bodová Elena r. Bodová	maloletá	0	12929
+660	Bohdižárová Mária r. Plešková		0	12731,13342
+660	Borovská Alžbeta		0	12725
+660	Borovská Alžbeta r. Borovská	maloletá	0	10707,10708,10735,11120,12721,13180,13181,13423,13424,13502,13516,13541,13542,13933
+660	Borovská Alžbeta r. Borovská	vd	0	13474
+660	Borovská Alžbeta r. Forraiová		0	12312,13037,13439,13449,13464
+660	Borovská Alžbeta r. Tresová	manž.Karol	0	13407
+660	Borovská Anna r. Borovská	maloletá	0	13502
+660	Borovská Anna r. Forraiová	šnajder	0	11477
+660	Borovská Anna r. Forraiová	vd	0	11477
+660	Borovská Anna r. Tresová	vd	0	13446,13455
+660	Borovská Mária r. Borovská		0	10707,12389,13180
+660	Borovská Mária r. Borovská	/Banderák/	0	10624,13339,13340,13474,13564
+660	Borovská Mária r. Borovská	maloletá	0	13448
+660	Borovská Mária r. Forraiová	dátum umr.:19.5.1960	0	13392
+660	Borovská Mária r. Gajdošová	dátum umr.:30.6.1979	0	13393
+660	Borovská Mária r. Sablová	dátum umr.:9.7.1975	0	13405,13425
+660	Borovská Mária r. Tresová		0	11769
+660	Borovská Mária r. Vavráková	/špekul./	0	10624,13339,13340,13448,13564
+660	Borovský Andrej r. Borovský	žen. Anna Tresová	0	10916,12753,13122
+660	Borovský Andrej r. Borovský	žen. Mária Nigut, dátum umr.:17.2.1980	0	10708,13541
+660	Borovský František		0	11497
+660	Borovský František r. Borovský	maloletý	0	13452
+660	Borovský Ján r. Borovský	/Banderák/ žen. Mária Borovská	0	10624,10733,10734,10735,12250,13170,13171,13339,13340,13502,13516,13542,13564,13578,13780,13781,13894,13895,13898,13899
+660	Borovský Ján r. Borovský	/Sesík/, žen. Mária Gajdoš	0	13418
+660	Borovský Ján r. Borovský	žen. Anna Forrai	0	10916,12753,13122,13474
+660	Borovský Martin r. Borovský	Ganár	0	13162
+660	Borovský Matej r. Borovský	/Banderák/	0	13502
+660	Borovský Matej r. Borovský	/Ganár/, žen. Mária Buzová	0	13453
+660	Borovský Matej r. Borovský	72 ročný, čd. 205 Tahanovce	0	11120,13424,13933
+660	Borovský Ondrej r. Borovský	/Borovskov/	0	13549
+660	Borovský Ondrej r. Borovský	/Peštov/ syn Matejov	0	10707,12721,13180,13181
+660	Borovský Ondrej r. Borovský	žen. Mária Nigutová	0	12389,12989,13092,13325,13423
+660	Borovský Štefan r. Borovský		0	13441,13512
+660	Borovský Štefan r. Borovský	24 ročný, čd. 2 Tahanovce	0	13331,13424
+660	Borovský Štefan r. Borovský	žen. Anna Tresa	0	13446
+660	Bruziková Alžbeta r. Moňoková	man.Ján	0	12934
+660	Bucher Michal r. Bucher	žen. Anna Borovský	0	13351
+660	Buzová Anna r. Borovská		0	10916,12753,13122,13475
+660	Buzová Anna r. Buzová	/dcéra Jána/	0	13415
+660	Csikós Lajoš r. Csikós		0	13496
+660	Czeisler Tibor r. Czeisler		0	11237
+660	Čorba Ján r. Čorba	ml	0	11582,13626,13644,13646
+660	Čorba Krucik Imrich r. Čorba Krucik		0	11582,13626,13644,13646

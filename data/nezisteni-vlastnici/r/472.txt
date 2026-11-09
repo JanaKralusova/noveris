@@ -1,0 +1,256 @@
+269	KRÁTKA Magdaléna	slobodná	0	1245,2031
+269	KRÁTKA Margita		0	358,528,1353,1921,1922
+269	KRÁTKA Mária r. Janáčková		0	1353
+269	KRÁTKA Mária r. Krátka	zomrela 6.9.2004	0	1353
+269	KRÁTKA Mária r. Švecová	m.Jozef	0	332
+269	Krátka Mária r. Velická		0	445
+269	KRÁTKA Mária r. Velická	m.Jozef	0	1353,1967
+269	KRÁTKA Mária r. Velická, SR		0	690
+269	Krátka Mária r. Vitteková		0	465
+269	KRÁTKA Mária r. Vitteková	zomrela 11.9.1973	0	201,527,530,1353,1942
+269	KRÁTKA Mária r.Velická		0	169
+269	Krátka Terézia		0	358,387,390,391,528,751,752,1353,1921,1922
+269	Krátka Terézia r. Prelcová		0	1273
+269	KRÁTKA Terézia r. Prelcová	m.Pavol	0	1353
+269	KRÁTKY Anton	mal	0	1960,2009
+269	KRÁTKY Cyril		0	358
+269	KRÁTKY Cyril	brat Daniel	0	528,1353,1921,1922
+269	KRÁTKY Daniel		0	358,528,1353,1921,1922
+269	KRÁTKY Eduard	mal	0	1960
+269	KRÁTKY Ferdinand	mal	0	1960,2009
+269	KRÁTKY František	zomrel 4.2.1998	0	201,1353
+269	KRÁTKY Jozef		0	169
+269	KRÁTKY Jozef	mal	0	1960,2009
+269	KRÁTKY Jozef	ž.Mária r.Velická	0	1353
+269	KRÁTKY Konštantín		0	358,528,1353,1921,1922
+269	KRATKY PAVOL		0	390,391,751,752,808,1273,1353,1372,2270,2323
+269	KRÁTKY Pavol	ČR	0	201,1353
+269	KRÁTKY Pavol	ž.Františka r.Drozdová,zomr.3.11.1963	0	1353
+269	KRÁTKY Pavol	ž.Františka r.Kopúneková	0	1353
+269	KRÁTKY Pavol	ž.Terézia r.Prelcová	0	1353
+269	KRÁTKY Peter		0	392
+269	KRÁTKY Štefan		0	332
+269	KRÁTKY Vavrinec		0	1353
+269	KROKOVIČOVÁ Mária r. Serinová		0	234,925,1949,1952,2085,2096,2136
+269	KRÚŽEK Cyril		0	1828,1829
+269	KRÚŽEK Ignác		0	1828,1829
+269	KRÚŽEK Ignác	ž.Alžbeta r.Serinová	0	1828,1829,1927
+269	KRÚŽEK Ján	mladší	0	1353,2117
+269	KRÚŽEK Jozef	mladší	0	1968
+269	KRÚŽEK Jozef	starší,ž.Anna r.Hodeková	0	1353
+269	KRÚŽEK Jozef	zomrel 10.11.2002	0	1353
+269	KRÚŽEK Pavol		0	1828,1829
+269	KRÚŽEKOVÁ Alžbeta r. Vitteková	m.Tomáš	0	1222,1946
+269	KRÚŽEKOVÁ Anastázia r. Lieskovská		0	674,1353,1850,1851,1880,1881
+269	KRUŽEKOVÁ Anastázia r.Lieskovská		0	1015,1461,1498,1589,1653,1654
+269	KUČEROVÁ Mária r. Duchalová		0	1999
+269	KUČEROVÁ Mária r.Duchalová		0	358
+269	KUJANOVÁ Katarína r. Ondrušová		0	308,311,1028,1172,1353,1703,1832,1833,2159
+269	KURCOVÁ Anna r. Oravská	m.Pavol	0	326,509,521,1311,1317,1353,1882,1883,1884,1885,1886,1887,2037
+269	KURINCOVÁ Albína r. Drahošová		0	913,914
+269	KURINCOVÁ Albína r. Drahošová, SR		0	452
+269	LANTOŠ Gabriel		0	175,258,382
+269	LANTOŠ Gabriel	ž.Karolína r.Krajčírovičová	0	302,681,1353,1854,1939,2027
+269	LANTOŠ Jozef		0	934,1991
+269	LANTOŠ Michal		0	258
+269	LANTOŠ Michal	ž.Božena r.Petrovická	0	681,1854
+269	LANTOŠ Rudolf		0	681,1854,2132
+269	Lantošová Anastázia r. Švecová		0	465
+269	LANTOŠOVÁ Anastázia r. Švecová	zomrela 6.9.1980	0	531,1353
+269	Lantošová Karolína r. Krajčírovičová		0	589
+269	LANTOŠOVÁ Karolína r. Krajčírovičová	m.Gabriel	0	234,302,1353,1844,1845,1868,1869,1939,2027,2198,2281
+269	LANTOŠOVÁ Karolína r.Krajčírová		0	175
+269	LANTOŠOVÁ Karolína r.Krajčírovičová		0	1812
+269	LANTOŠOVÁ Katarína r.Krajčírovičová		0	382
+269	LANTOŠOVÁ Mária		0	1177,1326,1353,1894,1895,2073
+269	LENHARTOVIČ Jozef		0	722,1353,2024,2025,2030,2058
+269	LESKOVSKÝ Michal		0	327,1353,2059
+269	LIESKOVSKÁ Anna		0	1015,1498,1589
+269	LIESKOVSKÁ Anna	mal	0	757,1353,1834,1835
+269	LIESKOVSKÁ Katarína		0	757,1353,1834,1835
+269	LIESKOVSKÁ Katarína r. Krajčíriková	zomrela 22.12.1970	0	1353
+269	LIESKOVSKÁ Mária		0	757,1015,1353,1498,1589,1834,1835,1850,1851
+269	LIESKOVSKÁ Mária	mal	0	757,1353,1834,1835,1850,1851
+269	LIESKOVSKÁ Pavlína r. Závišová		0	1353,2092
+269	LIESKOVSKÁ Rozália		0	757,1015,1353,1498,1589,1834,1835,1850,1851
+269	LIESKOVSKÁ Štefánia		0	674,1353,1850,1851,1880,1881
+269	LIESKOVSKÝ Augustín	mal	0	1834,1835
+269	LIESKOVSKÝ Ján		0	1177,1353
+269	LIESKOVSKÝ Ján	súr.Ján,Štefan.Štefánia	0	674,1353,1880,1881
+269	LIESKOVSKÝ Ján	ž.Katarína r.Krajčíriková zomr.27.8.1983	0	674,1353
+269	LIESKOVSKÝ Ján	ž.Katarína r.Obulányiová	0	674
+269	LIESKOVSKÝ Jozef		0	757,1015,1353,1498,1589,1834,1835,1850,1851
+269	LIESKOVSKÝ Martin		0	1015,1498,1589
+269	LIESKOVSKÝ Martin	ž.Alžbeta r.Bileková	0	674,1353,1850,1851
+269	LIESKOVSKÝ Pavol		0	1850,1851
+269	LIESKOVSKÝ Pavol	Vulgán	0	674,1353
+269	LIESKOVSKÝ Štefan		0	674,1015,1353,1498,1589,1850,1851,1880,1881
+269	LIESKOVSKÝ Vulgan Pavol		0	1015,1498,1589
+269	LIPÁR Jozef	ž.Mária r.Škrabáková	0	2129
+269	LIPÁR Pavel	ž.Helena r.Vitteková	0	863
+269	LIPÁR Pavol	ž.Mária r.Švecová,zomrel 26.11.1968	0	1353
+269	Lipárová Anastázia r. Vitteková		0	1291,1365
+269	Lipárová Helena r. Vitteková		0	905
+269	LIPÁROVÁ Helena r. Vitteková	m.Pavel,zomrela 5.5.1996	0	863,1353,1896
+269	LIPÁROVÁ Helena r. Žureková	m.Pavol	0	1217
+269	LIPÁROVÁ Mária r. Škrabáková	m.Jozef	0	2129
+269	LIPÁROVÁ Mária r. Švecová	m.Pavol	0	1353
+269	Lišková Mária r. Krajčírová		0	397,717,718,833,834,835,837,838,839,840,841,843,844,846,847,848,967,1353,1451,1631,1699,1861,1862,1863,1864,1867,1990,2032
+269	MACKOVIČ Michal	ž.Františka r.Mušková,zomrel 26.12.1969	0	1353
+269	MACKOVIČOVÁ Františka r. Mušková	m.Michal,zomrela 31.3.1970	0	1353
+269	MAGULOVÁ Katarína r. Serinová		0	234,925,1949,1952,2085,2096,2136
+269	MAKAROVÁ Mária r. Pavlíková		0	1338
+269	MALATINKOVA VIERA ING.		0	1077
+269	MANCO Pankrác	ž.Mária r.Vallová,zomrel 7.8.1972	0	1353
+269	MANUCIOVÁ Mária r. Serinová		0	929,1208,1353
+269	MARÍK František		0	970,1683,1685
+269	MARÍK Rudolf		0	1353
+269	MARTINKOVIČ Michal	ž.Mária r.Machalová	0	2121,2122
+269	MARTINKOVIČOVÁ Anna r. Krátka	m.František	0	388,1680
+269	MASAROVIČOVÁ Mária r. Kaffanová	zomrela 11.9.1998	0	222,223,226,227,228,229,230,1163,1353,1368,1888
+269	MATULA Anton	slobodný,zomrel 18.6.1962 v USA	0	1353
+269	MATULA Antonín	ž.Katarína,čd.73	0	2139
+269	MATULA Dominik		0	422,2293
+269	MATULA Dominik	ž.Mária r.Závišová	0	1353
+269	MATULA Dominik, SR		0	1613
+269	MATULA Gabriel		0	131,422,423,2293
+269	MATULA Gabriel	mal	0	417,531,1353,1900
+269	MATULA Gabriel, SR		0	1613
+269	MATULA Jozef		0	131
+269	MATULA Jozef	súr.Anna,Mária,Alžbeta,Jozefína	0	417,419,531,1353
+269	MATULA Jozef	ž.Mária r.Ondrušková,zomrel 20.7.1979	0	282,1353
+269	MATULA Pavol		0	131,417,421,422,423,531,1353,2293
+269	MATULA Pavol, SR		0	1613
+269	MATULA Rudolf r. Matula	zomrel	0	234,417,1844,1868,2198,2281
+269	MATULA Štefan		0	421
+269	MATULA Štefan	ž.Helena r.Zbôrková,zomr.6.4.1960 v USA	0	1353
+269	MATULA Tomáš		0	416
+269	MATULA Tomáš	mal	0	417,531
+269	MATULOVÁ Alžbeta		0	131,416,417,419,531,1353
+269	MATULOVÁ Anna		0	131,416,417,419,531,1353
+269	MATULOVÁ Anna r. Ondrušová	m.Pavol	0	419
+269	MATULOVÁ Jozefína		0	131,416,417,419,531,1353
+269	MATULOVÁ Katarína	m.Antonín,čd.73	0	2139
+269	MATULOVÁ Mária		0	131,416,419,531,1353
+269	MATULOVÁ Mária r. Krúžeková	zomrela 13.5.1998	0	1353
+269	MATULOVÁ Mária r. Ondrušová		0	2004
+269	MATULOVÁ Mária r. Závišová	m.Dominik,zomrela r.1977	0	417,1353
+269	MEDOVÁ Anna r. Tupá	ČR	0	327,2042
+269	MIHALIKOVÁ Anna r. Chytilová		0	327,329,843,1353,1629,1631
+269	MIKULKA Ján	ž.Anna r.Gonglíková	0	2070
+269	MIKULKOVÁ Anna r. Gonglíková	m.Ján	0	2070
+269	Míšková Školastika r. Krajčírovičová		0	589
+269	MRÁZOVÁ Mária r. Jurovatá		0	553,555,556,557,559,560,561,562,565,2077
+269	MRÁZOVÁ Mária r. Švecová		0	416,417,531,1353
+269	MRÁZOVÁ Mária r.Jurovatá		0	552,558,1574
+269	MUŠKA Dominik	mal	0	1408
+269	MUŠKA Dominik, Kutná Hora, Jungmannova č.476		0	998
+269	MUŠKA Ignác	mal	0	1408
+269	MUŠKA Pavel	ž.Terézia r.Šteruská	0	665,1164,1408,1852,1853
+269	MUŠKA Pavol		0	1408
+269	MUŠKA Róbert	mal	0	1408
+269	MUŠKA Tomáš	ž.Anna r.Mušková,zomrel 19.1.1966	0	1353
+269	MUŠKA Tomáš	ž.Anna r.Študencová	0	2052
+269	MUŠKA Vavrinec		0	1408
+269	MUŠKOVÁ Anna r. Janáčková	m.Jozef	0	668,1353,1955,1998,2255
+269	MUŠKOVÁ Anna r. Študencová	m.Tomáš	0	2052
+269	MUŠKOVÁ Helena r. Švecová		0	1082,1971
+269	Mušková Školastika r. Krajčírovičová		0	1350
+269	MUŠKOVÁ Školastika r. Krajčírovičová	zomrela 28.7.1996	0	234,242,601,1353,1826,1844,2197
+269	MUŠKOVÁ Štefánia r. Škrabáková	zomrela 28.8.2007	0	1993
+269	MUŠKOVÁ Terézia	mal	0	1408
+269	MUŠKOVÁ Terézia r. Šteruská		0	2154
+269	NEMCOVÁ Anastázia r. Benková	zomrela 26.12.1996	0	1353
+269	NERUŠILOVÁ Emília r. Kaffanová		0	226,227,228,528,892,1353,1888,1889,2017,2018
+269	NERUŠILOVÁ Emília r. Kaffanová, SR		0	1612
+269	NESPALA Štefan	zomrel 9.12.1987	0	2123
+269	NESPALOVÁ Mária r. Drahošová		0	743
+269	NOVOSEDLÍKOVÁ Anna r. Jurkovičová		0	1353
+269	NOVOSEDLÍKOVÁ Mária r. Tupá	ČR	0	327,2042
+269	OHARKOVÁ Anna r. Krátka		0	201,1353
+269	OHARKOVÁ Helena		0	2099,2166
+269	ONDRUŠ František		0	1995
+269	ONDRUŠ Izidor	zomrel 18.2.1997	0	1353
+269	ONDRUŠ Ján		0	938,1353
+269	ONDRUŠ Ján	mal	0	1353,2130
+269	ONDRUŠ Ján	slobodný	0	2032,2033
+269	ONDRUŠ Jozef		0	1298,1724
+269	ONDRUŠ Jozef	ž.Kristína r.Cintulová	0	1353,1919,1920,1930,2095
+269	ONDRUŠ Jozef	ž.Pavlína r.Matulová	0	1353
+269	ONDRUŠ Lukáč	ž.Vilma r.Mikulčíková	0	1353
+269	ONDRUŠ Pavol	ž.Mária r.Krátka,zomrel	0	1353
+269	ONDRUŠ Peter	ml.ž.Mária r.Imrišková	0	1353
+269	ONDRUŠ Peter	zomrel 19.10.1986,slobodný	0	1353
+269	ONDRUŠ Štefan	ž.Mária r.Vrábelová	0	308,311,1028,1172,1353,1703,1832,1833,2159
+269	ONDRUŠOVÁ Anna r. Krajčírovičová		0	1353
+269	ONDRUŠOVÁ Jozefína		0	938,2004
+269	ONDRUŠOVÁ Katarína r. Hercegová	m.Jozef	0	1821
+269	ONDRUŠOVÁ Kristína r. Cintulová	zomrela 5.1.1950	0	1353
+269	ONDRUŠOVÁ Margita r. Krajčírovičová		0	1353
+269	ONDRUŠOVÁ Mária		0	938,1173,1874,1875
+269	ONDRUŠOVÁ Mária	zomrela 5.4.1979	0	1353
+269	Ondrušová Mária r. Imrišková	m.Peter; m.Peter	0	1353
+269	ONDRUŠOVÁ Pavlína r. Matulová	zomrela 25.6.1991	0	1028
+269	ONDRUŠOVÁ Štefánia r. Škrabáková	zomrela 16.1.1997	0	1353,2045
+269	ONV TRNAVA		0	703,751
+269	ORAVCOVÁ Františka r. Serinová		0	1353,1900
+269	ORAVCOVÁ Mária r. Lieskovská		0	757,1353,1850,1851
+269	ORAVCOVÁ Mária r.Lieskovská		0	1015,1410,1411,1589
+269	ORAVEC Štefan	ž.Františka r.Serinová	0	1353,1900
+269	ORAVSKÁ Mária r. Ondrušová	m.Pavol	0	1846,1847
+269	ORAVSKÝ Štefan	zomrel r.3.10.1976	0	1886
+269	ORŠULÁK Ignác		0	1353
+269	ORŠULÁK Ignác	ž.Helena r.Lipárová,čd.118	0	1353,2135
+269	ORŠULÁK Ján	ž.Mária r.Oravská	0	201
+269	ORŠULÁK Jozef		0	1947,2101
+269	ORŠULÁK Juraj	ž.Katarína r.Lantošová	0	719
+269	ORŠULÁK Pavol		0	522,1316,1947
+269	ORŠULÁK Pavol	ž.Alžbeta r.Študencová,čd.118	0	201,326,762,1311,1316,1317,1353,1857,1858,1882,1883,1884,1885,1886,1887,1923,2043,2090,2091,2106,2324
+269	ORŠULÁK Štefan	ž.Alžbeta r.Lantošová,čd.70	0	2133
+269	ORŠULAKOVÁ Alžbeta		0	258
+269	ORŠULÁKOVÁ Alžbeta r. Lantošová	m.Štefan,čd.70	0	681,1854,2133
+269	ORŠULÁKOVÁ Alžbeta r. Študencová	m.Pavol,čd.118	0	1353,1923,2043,2090,2091,2106
+269	ORŠULÁKOVÁ Alžbeta r. Študencová	zomrela 11.2.1981 v USA	0	762,1353,2043
+269	ORŠULÁKOVÁ Helena r. Lipárová	m.Ignác	0	326,1317,2135
+269	ORŠULÁKOVÁ Katarína r. Lantošová	m.Juraj	0	719,1353,1999,2102,2118
+269	ORŠULÁKOVÁ Mária		0	1353
+269	PASTUCHA Pavol	ž.Mária r.Guldánová	0	1876,1877,2093
+269	PAVLÍK Anton		0	1353
+269	PAVLÍK Jozef		0	477
+269	PAVLÍK Jozef	mal	0	2086
+269	PAVLÍK Martin		0	929
+269	PAVLÍK Martin	ž.Katarína r.Serinová,zomrel 26.7.1962	0	1353,1959
+269	PAVLÍK Pavol		0	873
+269	PAVLÍK Pavol	ž.Milena r.Zadražilová	0	2064
+269	PAVLÍK Štefan		0	477
+269	PAVLÍK Tomáš		0	1353
+269	PAVLÍKOVÁ Johana		0	1338
+269	PAVLÍKOVÁ Katarína r. Mikulčíková	m.Ján,zomrela 11.6.1964	0	1353
+269	PAVLÍKOVÁ Katarína r. Serinová		0	929
+269	PAVLÍKOVÁ Katarína r. Serinová	m.Martin	0	1208,1353
+269	PETRÁŠOVÁ Brigita r. Hanzílková	ČR	0	2099,2166
+269	PETROVIČ Ambróz		0	896
+269	PETROVIČ Ambróz	ž.Terézia r.Vitteková	0	1353
+269	PETROVIČOVÁ Terézia r. Vitteková	m.Ambróz	0	1353
+269	PLECHLA Dezider Dr.		0	2098
+269	POCHILÁ Magdaléna r. Kaffanová		0	223
+269	POLÁK Štefan	ž.Verona r.Pavlíková	0	1353
+269	POLÁK Tomáš		0	346
+269	POLÁK Tomáš	ž.Františka r.Oršuláková	0	1353
+269	POLÁK Tomáš	ž.Katarína r.Pavlíková	0	1353,1934,1963,2002,2040,2079
+269	POLÁKOVÁ Anna r. Vitteková	m.Michal	0	1222
+269	POLÁKOVÁ Františka r. Oršuláková	m.Tomáš	0	1353
+269	POLÁKOVÁ Katarína r. Pavlíková	m.Tomáš,zomrela 28.5.1970	0	1353,2079
+269	POLÁKOVÁ Verona r. Pavlíková	m.Štefan	0	1353
+269	POSPÍŠILOVÁ Terézia, Kvasice, okr.Kroměříž, ČR		0	998
+269	PRIBILOVÁ Mária r. Hačová	m.Vendelín	0	1353
+269	PROCHÁZKA Ján r. Procházka		0	229
+269	PUJDOVÁ Anna r. Serinová		0	929,1208,1353
+269	RADOCHA Eduard	zomrel 26.11.1991	0	1353,2026
+269	RADOCHA Florián		0	2093
+269	RADOCHA Jakub		0	2093
+269	RADOCHA Ján	mal	0	2093
+269	RADOCHA Jozef	ž.Katarína r.Vitteková	0	1948
+269	Radocha Štefan		0	1362
+269	RADOCHOVÁ Cecília		0	1362
+269	RADOCHOVÁ Cecília	rehoľná sestra,USA	0	282

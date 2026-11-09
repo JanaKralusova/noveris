@@ -1,0 +1,256 @@
+3106	RATKOVSZKY Ladislav		0	69
+3106	RATKOVSZKYOVÁ Antónia r. Hideghy	manž.Pavol	0	69
+3106	RATKOVZKY Jozef		0	69
+3106	RIGÓ Ján	manž.Cecília,r.Varga; manž.Cecília,r.Varga	0	221
+3106	SÁRIOVÁ Vilma r. Fekete	manž.Vendel	0	69
+3106	SCHMIDT Alajos		0	206
+3106	SCHMIDT Alajos	manž.Gizella,r.Takács	0	206,208
+3106	SCHMIDT Alexander		0	206
+3106	SCHMIDT Fridrich	manž.Mária,r.Schiller	0	208,210
+3106	SCHMIDT Július		0	206
+3106	SCHMIDT Martin		0	208
+3106	SCHMIDT Vojtech		0	47,108,109,111
+3106	SCHMIDTOVÁ Hermína	mal	0	206
+3106	SCHMIDTOVÁ Mária r. Schiller	manž.Fridrich	0	210
+3106	SIMIGHOVÁ Júlia r. Bucsai		0	280
+3106	SINÓROVÁ Rozália r. Szénási	manž.Gábor	0	101
+3106	SIRNIGOVÁ Anna r. Marosi	manž.Peter	0	57,258
+3106	SOÓKIOVÁ Emília	mal	0	62,162
+3106	SOÓKYOVÁ Vilma r. Lukács		0	164
+3106	SOÓSOVÁ Helena r. Madarász		0	124,126
+3106	SPANIKOVÁ Františka r. Németh		0	253
+3106	SZABÓ Alexander		0	34
+3106	SZABÓ Dávid	manž.Gizella,r.Jankó	0	152
+3106	SZABÓ František		0	217
+3106	SZABÓ František	2	0	267
+3106	SZABÓ František	mal	0	53
+3106	SZABÓ František	mal.1	0	285
+3106	SZABÓ František	mal.2	0	288
+3106	SZABÓ František	mal.3	0	280
+3106	SZABÓ František	manž.Terézia,r.Madarász	0	224,225,262,263,264
+3106	SZABÓ Gabriel		0	107
+3106	SZABÓ Gabriel	1	0	280
+3106	SZABÓ Gabriel	Holtosi	0	209
+3106	SZABÓ Gabriel	mal	0	288
+3106	SZABÓ Gabriel	manž.Júlia,r.Nagy	0	244
+3106	SZABÓ Gejza		0	69,285
+3106	SZABÓ Gejza	mal	0	288
+3106	SZABÓ Gejza	mal.1	0	280
+3106	SZABÓ Gejza	manž.Borbála,r.Nagy	0	69,216
+3106	SZABÓ Gejza	manž.Margita,r.Tóth	0	69,285
+3106	SZABÓ Illés	manž.Margita,r.Simig	0	102
+3106	SZABÓ Imrich	1	0	122,171,290
+3106	SZABÓ Imrich	2	0	285
+3106	SZABÓ Imrich	mal	0	285
+3106	SZABÓ Imrich	manž.Julianna,r.Fitos	0	285
+3106	SZABÓ Ján		0	89
+3106	SZABÓ Ján	mal	0	53
+3106	SZABÓ Ján	mal.1	0	69,285
+3106	SZABÓ Ján	mal.2	0	69
+3106	SZABÓ Ján	manž.Mária,r.Madarász	0	124,126
+3106	SZABÓ Ján	ml	0	122,171,290
+3106	SZABÓ Július	mal	0	34
+3106	SZABÓ Juraj	mal	0	69
+3106	SZABÓ Koloman		0	237
+3106	SZABÓ Koloman	1	0	262,263,264
+3106	SZABÓ Koloman	2	0	277
+3106	SZABÓ Koloman	mal	0	43,44
+3106	SZABÓ Koloman	mal.1	0	224,225
+3106	SZABÓ Koloman	mal.2	0	262,263,264
+3106	SZABÓ Koloman	mal.3	0	288
+3106	SZABÓ Koloman	mal.4	0	280
+3106	SZABÓ Koloman	manž.Emília,r.Tóth	0	285
+3106	SZABÓ Koloman	manž.Irena,r.Fördös	0	288
+3106	SZABÓ Koloman	manž.r.Táncos	0	262,263,264
+3106	SZABÓ Ladislav		0	69,285
+3106	SZABÓ Ladislav	mal	0	285
+3106	SZABÓ Ladislav	mal.1	0	288
+3106	SZABÓ Ladislav	mal.2	0	280
+3106	SZABÓ Lázár	manž.Emília,r.Balogh	0	69
+3106	SZABÓ Ľudovít	manž.Irena,r.Pálovics	0	107
+3106	SZABÓ Michal	mal	0	69
+3106	SZABÓ Ondrej		0	224,225
+3106	SZABÓ Peter	mal	0	288
+3106	SZABÓ Peter	manž.Františka	0	288
+3106	SZABÓ Rafael	mal	0	288
+3106	SZABÓ Rafael	manž.Emília,r.Tóth	0	288
+3106	SZABÓ Vendelín		0	73,107
+3106	SZABÓ Vojtech	mal	0	288
+3106	SZABÓ Vojtech	manž.Júlia	0	288
+3106	SZABÓ Žigmund	manž.Mária,r.Pálovics	0	247,248,249
+3106	SZABÓOVÁ Alžbeta		0	224,225
+3106	SZABÓOVÁ Alžbeta	mal.2	0	280
+3106	SZABÓOVÁ Alžbeta r. Marosi	manž.Ján	0	69
+3106	SZABÓOVÁ Emília r. Szépe	manž.Kálmán	0	237
+3106	SZABÓOVÁ Etela	dcéra Júliusa	0	69
+3106	SZABÓOVÁ Gabriela Alžbeta	mal	0	288
+3106	SZABÓOVÁ Gizela	mal.1	0	69
+3106	SZABÓOVÁ Gizella	mal	0	88,89,235,236,288
+3106	SZABÓOVÁ Ilona		0	244
+3106	SZABÓOVÁ Ilona	mal	0	53
+3106	SZABÓOVÁ Ilona	mal.1	0	288
+3106	SZABÓOVÁ Ilona	mal.2	0	288
+3106	SZABÓOVÁ Irena	mal	0	69,285
+3106	SZABÓOVÁ Irena	mal.1	0	69,285
+3106	SZABÓOVÁ Irena	mal.2	0	224,225
+3106	SZABÓOVÁ Irena	mal.3	0	237,262,263,264
+3106	SZABÓOVÁ Júlia r. Szabó	manž.Gejza	0	285
+3106	SZABÓOVÁ Julianna	mal	0	262,263,264,288
+3106	SZABÓOVÁ Julianna	mal.2	0	280
+3106	SZABÓOVÁ Justína		0	69,203
+3106	SZABÓOVÁ Jusztína		0	237
+3106	SZABÓOVÁ Magdaléna	mal	0	69,285
+3106	SZABÓOVÁ Margita		0	224,225
+3106	SZABÓOVÁ Margita	1	0	262,263,264
+3106	SZABÓOVÁ Margita	mal	0	53
+3106	SZABÓOVÁ Margita	mal.1	0	262,263,264,288
+3106	SZABÓOVÁ Margita	mal.3	0	280
+3106	SZABÓOVÁ Margita r. Bögi	manž.Peter	0	267
+3106	SZABÓOVÁ Margita r. Simig	manž.Illés	0	102
+3106	SZABÓOVÁ Mária	mal	0	53,262,263,264,288
+3106	SZABÓOVÁ Mária r. Nagy		0	224,225
+3106	SZABÓOVÁ Mária r. Takács		0	267
+3106	SZABÓOVÁ Paulína r. Nagy	manž.Erazmus	0	118,244
+3106	SZABÓOVÁ Regina	mal	0	288
+3106	SZABÓOVÁ Rozália	mal.1	0	237,262,263,264
+3106	SZABÓOVÁ Tereza	mal	0	288
+3106	SZABÓOVÁ Tereza r. Varga		0	93,122,289,290
+3106	SZABÓOVÁ Terezia	mal	0	69
+3106	SZABÓOVÁ Terézia r. Nagy		0	224,225
+3106	SZABÓOVÁ Vilma r. Kovács		0	69
+3106	SZABOVÁ Helena r. Bukor		0	280
+3106	SZÁNTÓ František		0	185
+3106	SZAPU Nándor	manž.Mária,r.Balogh	0	193
+3106	SZAPUOVÁ Mária r. Balogh	manž.Nándor	0	193
+3106	SZAPUOVÁ Zuzana		0	67,205,213
+3106	SZÉLIOVÁ Rozália r. Szépe	manž.János	0	262,263,264
+3106	SZÉNÁSIOVÁ Gizela	mal	0	280
+3106	SZÉNÁSIOVÁ Margita r. Ollé	manž.Gábor	0	43,44
+3106	SZÉPE František	manž.Júlia,r.Lengyel	0	73,107
+3106	SZÉPE Gejza		0	252
+3106	SZÉPE Koloman	manž.Katalin,r.Juhász	0	262,263,264
+3106	SZÉPE Koloman	ml	0	252
+3106	SZÉPE Vilma r. Takács		0	73,107
+3106	SZÉPE Vojtech		0	262,263,264
+3106	SZÉPEOVÁ Irena		0	262,263,264
+3106	SZÉPEOVÁ Margita	mal	0	252
+3106	SZÉPEOVÁ Vilma r. Takács	manž.Peter	0	73,107,237
+3106	SZLATKÁ Gizella		0	69
+3106	SZLATKÁ Paulína		0	69
+3106	SZLATKI Daniel	manž.Antónia,r.Wiesenbacher	0	69
+3106	SZLATKI Erazmus		0	69
+3106	SZLATKI Jozef		0	69
+3106	SZÖKE Jozef	manž.Terézia,r.Farkas	0	191
+3106	SZÖVÖOVÁ Gizella r. Bukor	manž.Kálmán	0	243,280
+3106	ŠTEFANIKOVÁ Anna r. Veľká		0	144
+3106	TAKÁCS František		0	73,107
+3106	TAKÁCS František	mal	0	56,136,137
+3106	TAKÁCS Gabriel		0	73,107
+3106	TAKÁCS Gejza	mal.1	0	73,107
+3106	TAKÁCS Ignác		0	267
+3106	TAKÁCS Ján	mal	0	107
+3106	TAKÁCS Ján	mal.,obyv.v Gúte	0	267
+3106	TAKÁCS Jozef	mal	0	56,61,136,137
+3106	TAKÁCS Jozef	mal.,obyv.v Gúte	0	267
+3106	TAKÁCS Jozef	mal.1	0	245
+3106	TAKÁCS Karol	mal.,obyv.v Gúte	0	267
+3106	TAKÁCS Koloman		0	69,267
+3106	TAKÁCS Koloman	1	0	267
+3106	TAKÁCS Koloman	mal	0	267
+3106	TAKÁCS Koloman	manž.Mária	0	267
+3106	TAKÁCS Ladislav		0	73,107
+3106	TAKÁCS Ladislav	1	0	69,267
+3106	TAKÁCS Ladislav	mal.,obyv.v Gúte	0	267
+3106	TAKÁCS Ľudovít	syn Istvána	0	73,107
+3106	TAKÁCS Štefan	manž.Mária,r.Horváth	0	73,107
+3106	TAKÁCS Vojtech	mal.,obyv.v Gúte	0	267
+3106	TAKÁCSOVÁ Alžbeta r. Nagy		0	232
+3106	TAKÁCSOVÁ Anna r. Szapári	manž.Štefan	0	61,137
+3106	TAKÁCSOVÁ Borbála		0	245
+3106	TAKÁCSOVÁ Františka	mal	0	61
+3106	TAKÁCSOVÁ Hermína r. Gönczöl	manž.Imre	0	257
+3106	TAKÁCSOVÁ Julianna	mal	0	73,107
+3106	TAKÁCSOVÁ Justína		0	267
+3106	TAKÁCSOVÁ Rozália	mal	0	267
+3106	TAKÁCSOVÁ Rozália r. Halász	manž.Dániel	0	226,227
+3106	TÁNCOS Gabriel		0	80,218,219
+3106	TÁNCOS Július	manž.Margita	0	80,218,219
+3106	TÁNCOS Ladislav	manž.Júlia,r.Tóth	0	246,248,249
+3106	TÁNCOSOVÁ Margita	manž.Dávid	0	246,248,249
+3106	TÁNCZOS František	mal	0	288
+3106	TÁNCZOS Gabriel	mal	0	116
+3106	TÁNCZOS Jozef	mal	0	246,248,249
+3106	TÁNCZOS Koloman	mal	0	252
+3106	TÁNCZOS Mikuláš	mal	0	252
+3106	TÁNCZOS Tomáš	manž.Alojzia,r.Borka	0	116
+3106	TÁNCZOSOVÁ Alžbeta	mal	0	253
+3106	TÁNCZOSOVÁ Irena r. Bukor	manž.Vendel	0	243,280
+3106	TÁNCZOSOVÁ Júlia	mal	0	252
+3106	TÁNCZOSOVÁ Margita	mal	0	116
+3106	TARJÁNYI Ladislav	manž.Ilona,r.Varga	0	93,289
+3106	TÉGLÁSOVÁ Julianna r. Füri		0	231
+3106	TELEKES Ján	mal	0	69
+3106	TELEKESOVÁ Alžbeta r. Ollé		0	126
+3106	TELEKESOVÁ Julianna r. Szabó	manž.Gábor	0	88,235,236
+3106	TELEKESOVÁ Julianna r. Szabó	manž.Imrich	0	88
+3106	TERBÁK Gábor	mal	0	69
+3106	TERBÁK Ignác	mal	0	69
+3106	TERBÁK Koloman	mal	0	69
+3106	TERBÁKOVÁ Emília r. Fördösová		0	239
+3106	TERBÁKOVÁ Genovéva r. Tóth	manž.Fülöp	0	253
+3106	TERBÁKOVÁ Iloma	mal	0	69
+3106	TERBÁKOVÁ Margita	mal	0	69
+3106	TORNYAIOVÁ Sarolta r. Lestár	manž.Alajos	0	69
+3106	TÓTH Gašpar	mal	0	90,252
+3106	TÓTH Ján	manž.Jolana,r.Pazsér	0	267
+3106	TÓTH Koloman	mal	0	90
+3106	TÓTH Koloman	mal.1	0	90,252
+3106	TÓTH Ladislav	mal	0	90,252
+3106	TÓTH Ľudovít	mal	0	253
+3106	TÓTH Mikuláš		0	252
+3106	TÓTH Mikuláš	mal	0	90
+3106	TÓTH Mikuláš	manž.Hermína,r.Marosi	0	267
+3106	TÓTH Mikuláš	manž.Mária,r.Gögh	0	253
+3106	TÓTH Nándor	mal	0	90,252
+3106	TÓTH Peter		0	10
+3106	TÓTH Štefan		0	252
+3106	TÓTH Štefan	mal	0	90
+3106	TÓTH Žigmund	mal	0	253
+3106	TÓTHOVÁ Anna r. Szabó	manž.Miklós	0	249
+3106	TÓTHOVÁ Margita r. Szabó	manž.János	0	288
+3106	TÓTHOVÁ Mária	mal	0	253
+3106	TÓTHOVÁ Mária r. Gögh	manž.Gábor	0	253
+3106	TÓTHOVÁ Mária r. Németh		0	93,289
+3106	TÓTHOVÁ Mária r. Szépe	manž.Ján	0	107
+3106	UZOLA Gejza		0	232
+3106	UZOLA Jozef		0	232
+3106	UZOLA Július		0	232
+3106	UZOLOVÁ Rozália r. Gedai		0	232
+3106	VARGA František		0	80,218,219
+3106	VARGA František	mal	0	69
+3106	VARGA František	manž.Johanna,r.Renke	0	69
+3106	VARGA Imrich	mal	0	69
+3106	VARGA Ján		0	263
+3106	VARGA Koloman	manž.Mária,r.Balogh	0	73,107
+3106	VARGA Ladislav	mal	0	93,122,171,289,290
+3106	VARGA Ladislav	manž.Margita,r.Tóth	0	73,107
+3106	VARGA Michal Ladislav	manž.Rozália,r.Füri	0	162
+3106	VARGA Peter	manž.Júlia,r.Forró	0	80,218,219
+3106	VARGA Štefan	mal	0	171
+3106	VARGA Štefan	manž.Lenke,r.Szabó	0	69
+3106	VARGA Vincent	manž.Margita,r.Balogh	0	73,107
+3106	VARGA Vojtech	mal	0	93,122,171,289,290
+3106	VARGOVÁ Gizella	mal	0	73,107
+3106	VARGOVÁ Ilona	mal	0	107
+3106	VARGOVÁ Ilona r. Ollé		0	279
+3106	VARGOVÁ Júlia r. Németh		0	253
+3106	VARGOVÁ Margita	mal	0	73,107
+3106	VARGOVÁ Margita r. Madarász		0	124,126
+3106	VARGOVÁ Margita r. Takács	manž.Lajos	0	73,107
+3106	VARGOVÁ Mária	mal	0	124,126
+3106	VARGOVÁ Mária	mal.1	0	93,122,171,289,290
+3106	VARGOVÁ Mária r. Balogh	manž.Koloman	0	107
+3106	VARGOVÁ Rozália r. Szabó	manž.Viliam	0	102
+3106	VÉG Ján		0	163,164,232
+3106	VÉG Pavol	manž.Babi,r.Dócza	0	232
+3106	VIGH Ján		0	69

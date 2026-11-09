@@ -1,0 +1,256 @@
+921	Pustay Štefan, SR		1	876
+921	Pustay Štefan, SR	mal. v USA	1	890,892
+921	Pustay Štefan, SR	mal.v USA	1	751
+921	Pustayová Anna r. Kolesárová, SR		1	876
+921	Pusztai Andrej, SR		1	876
+921	Rendeš Ján, SR	mal	1	860
+921	Rendešová Anna, SR		1	860
+921	Repovská Anna r. Vašková, SR		1	832,945,946
+921	Repovská Barbora r. Repovská, SR		0	515
+921	Repovská Barbora r. Repovská, SR	2	1	942,943
+921	Repovská Barbora r. Repovská, SR	m. Michal	1	863
+921	Repovská Barbora r. Repovská, SR	m.Michal	1	947
+921	Repovská Barbora r. Repovská, SR	muž Michal	1	593,838
+921	Repovská Barbora r.Repovská		0	405
+921	Repovská Juliana r. Lukáčová, SR	vd	1	715
+921	Repovská Mária r. Kolesárová, SR		1	945,946
+921	Repovská Mária r. Moňaková, SR		1	515,840
+921	Repovská Mária r. Némethová, SR	muž Andrej	0	341
+921	Repovská Mária, SR	r.Petro manž.Michal	1	680
+921	Repovský Andej, SR	m. Mária r. Németová	1	945,946
+921	Repovský Andrej, SR		0	406,527
+921	Repovský Andrej, SR	4	1	799
+921	Repovský Andrej, SR	m. Mária r. Kundrátová	1	945,946
+921	Repovský Andrej, SR	mal	1	945,946
+921	Repovský Andrej, SR	manž. Mária, r. Kundrátová	1	815
+921	Repovský Andrej, SR	manž. Mária, r. Némethová	1	939
+921	Repovský Ján, SR	m. Mária r. Moňaková	1	945,946
+921	Repovský Ján, SR	m. Mária r. Poľáková	1	945,946
+921	Repovský Ján, SR	manž. Mária, r. Moňáková	1	940
+921	Repovský Ján, SR	manž. Mária, r. Poláková	1	939
+921	Repovský Juraj, SR	manž. Mária, r. Tirpaková	1	939
+921	Repovský Juraj, SR	syn Juraja	1	716,718
+921	Repovský Michal		0	405
+921	Repovsky Michal, SR	m. Mária r. Repovská	1	945,946
+921	Repovský Michal, SR		1	515,863,947
+921	Repovský Michal, SR	10	1	945,946
+921	Repovský Michal, SR	8	1	942,943
+921	Repovský Michal, SR	ž.Anna r.Žadanská	1	945,946
+921	Repovský Michal, SR	ž.Barbora r.Repovská	1	593,838
+921	Repovský Nemet Andrej, SR		0	501
+921	Repovszká Mária, SR	r. Polyáková, manž. Ján	1	788
+921	Repovszki Andrej, SR	manž. Mária, r. Németová	1	717
+921	Repovszki Ján, SR	manž. Mária, r. Polyáková	1	721,788
+921	Repovszki Juraj, SR	syn Juraja	1	721
+921	Roško Ján	ml. syn Michala	0	420
+921	Rošková Zuzana r. Pačutová, SR		0	420
+921	Rudik Ján, SR	sl.syn Štefanov	1	767
+921	Rudik Štefan, SR	manž. Anna, r. Šestková	1	855
+921	Rudiková Mária, SR		1	644
+921	Semanová Anna r. Michalčíková, SR		0	499
+921	Semanová Anna r. Michalčíková, SR	v USA	1	618,621,945,946
+921	Skiba Jozef, SR		1	803
+921	Skibová Margita r. Klémová, SR		1	803
+921	Slováková Mária r. Kočáková, SR		1	829
+921	Slovenská Krajina, SR		1	917,918
+921	Súčová Mária r. Čižmárová, SR	manžel Ján	1	775
+921	Suchá Anna, SR		1	946
+921	Suchá Anna, SR	mal	0	516,517
+921	Suchá Mária, SR	mal	0	516,517
+921	Suchá Mária, SR	mal. 2	1	946
+921	Suchý Andrej, SR		0	516,517
+921	Suchý Andrej, SR	2	1	946
+921	Suchý Jozef, SR		1	516,517,787
+921	Suchý Jozef, SR	2	1	945,946
+921	Suchý Juraj, SR		0	516,517
+921	Suchý Juraj, SR	2	1	946
+921	Suchý Michal, SR		1	945,946
+921	Suňogová Elena, SR		1	945,946
+921	Suňogová Mária r. Kempecová, SR		0	384
+921	Suňogová Mária r. Kmeťová, SR	vd	1	792
+921	Sunyogová Mária, SR	r. Kmeťová, manž. Andrej	1	792
+921	Szakál Michal, SR	manž. Anna, r. Hivková	1	742
+921	Szakál Michal, SR	manž. Anna, r. Timková	1	729
+921	Szunyogová Mária, SR	r. Kmeťová, manž. Andrej	1	834
+921	Šerí Michal, SR	manž.Anna Balintová	1	706
+921	Šimko Ján		0	379
+921	Šimko Ján, SR	manž.Anna r.Brugošová	1	772
+921	Šimková Anna r.Bongašová		0	379
+921	Širáková Anna r. Jehová, SR		1	731
+921	Špury Juraj, SR	ž.Mária r.Bálintová	1	851
+921	Štofíková Helena r. Bodnárová, SR		1	599,600,602,608,897,904,915,932
+921	Takács Ján, SR	manž. Mária, r. Palková	1	749
+921	Takácsová Anna, SR	r. Németová, manž. Andrej	1	722
+921	Takácsová Mária, SR	r. Palková, manž. Ján	1	749,830
+921	Takáč Andrej, SR	m. Anna r. Németová	1	945,946
+921	Takáč Ján, SR	m. Mária r. Palková	1	945,946
+921	Takáčová Anna r. Bodnárová, SR	m.Štefan	1	612
+921	Takáčová Mária r. Repovská, SR		1	513,758
+921	Timko Ján, SR		0	398
+921	Timko Juraj	2,; 2	1	945
+921	Timko Juraj, SR	2	1	946
+921	Timko Michal, PSČ 07615, Hrčeľ, č. 38, SR		0	888
+921	Timko Michal, SR	manž. Mária, r. Bérešová	1	730,773
+921	Timko Štefan, SR		0	398
+921	Timko Štefan, SR	mal	0	564
+921	Timková Júlia r. Bodnárová, SR		0	351
+921	Timková Mária r. Poľáková, SR	m.Michal	1	945,946
+921	Timková Mária, SR	r. Bérešová, manž. Michal	1	730,773
+921	Tkáč Ján, SR		1	945,946
+921	Tkáč Michal, SR		1	753
+921	Tkačová Anna r. Némethová, SR	muž Andrej	0	341
+921	Tkáčová Mária r. Hatráková, SR		1	945,946
+921	Tkáčová Mária r. Repovská, SR		1	753
+921	Tomášová Anna r. Ihnátová, SR	1	1	822,877
+921	Tomko Andrej, SR	mamž. Zuzana r.Petrová	1	781
+921	Tomko Andrej, SR	manž.Mária r. Ballová	1	785
+921	Tomko Ján, SR	manž. Julianna, r. Horvátová	1	879,914
+921	Tomko Ján, SR	ž.Anna r.Iľková	1	765
+921	Tomko Juraj		0	281
+921	Tomko Juraj, SR		0	344,345
+921	Tomko Michal		0	281
+921	Tomko Michal, SR		0	344,345,482
+921	Tomková Anna, SR	dcéra Jána	1	782
+921	Tomková Anna, SR	r.Petro manž.Michal	1	680
+921	Tomková Julianna, SR	r. Horvátová, manž. Ján	1	914
+921	Tomková Mária r. Kelečeniová, SR		1	665
+921	Tomková Zuzana r. Petro-Fedorová, SR		0	400
+921	Toth Menyhért, SR		1	927
+921	Uhriňáková Mária r. Ondiková, SR	m. Juraj	1	945,946
+921	Uporský Ján, SR	manž.Mária r.Bačová	1	766
+921	Vagurová Anna r. Suňogová, SR		1	945,946
+921	Varga Michal, SR		0	336
+921	Varga Michal, SR	1	1	739
+921	Varga Michal, SR	2	1	905
+921	Varga Michal, SR	3	1	909
+921	Vargová Alžbeta r. Borošová, SR		1	877
+921	Vargová Alžbeta r. Borošová, SR	1	1	877
+921	Vargová Alžbeta, SR		1	905
+921	Vargová Alžbeta, SR	1	1	909
+921	Vargová Anna, SR	manž. Juraj	1	739
+921	Vargová Mária r. Eštoková, SR		1	709
+921	Vargováf Alžbeta r. Borošová, SR		0	336
+921	Vasil Andrej, SR	ž.Alžbeta r.Michalčíková	1	580
+921	Vasiľ Andrej, SR		0	381,382,383,385,386
+921	Vasiľ Ján		0	523
+921	Vasiľ Ján, SR	ml., manž. Anna, r. Bodnárová	1	895
+921	Vasilová Alžbeta r. Michalčíková, SR		1	580
+921	Vasiľová Anna, SR		0	336,478
+921	Vaszily András, SR		1	626
+921	Vaszily Andrej, SR	manž. Anna, r. Kempeczová	1	886,920,922
+921	Vaszilyko János, SR	manž.Júlia r.Pásztor	1	660
+921	Vaszilyko Júlia, SR	r.Pásztor manž.János	1	660
+921	Vaszilyová Mária r. Rudiková, SR		0	547,548
+921	Vašek Michal, SR	vdovec	1	945,946
+921	Vaško Juraj, SR		1	832,945,946
+921	Vaško Michal, SR	m. Mária r. Bodnárová	1	945,946
+921	Vaško Michal, SR	ž.Hohošová Alžbeta	1	945,946
+921	Vaško Ondrej, SR		1	832,945,946
+921	Vašková Anna r. Gnapová, SR		1	945,946
+921	Vašková Mária, SR		1	832,945,946
+921	Velk Juraj, SR	ž. Mária Petričko Cuchračková	1	574
+921	Veľk Juraj, SR	ž.Mária r.Petričko Čuchráčová	0	379
+921	Vinceová Anna r. Geciová, SR		1	945,946
+921	Vlková Mária r. Petričková, SR		0	378
+921	Vlková Mária r.Petričková		0	379
+921	Zajac Ján, SR	manž.Mária Koščová	1	769
+921	Zambová Mária, SR	r.Kurinszka manž.Mihály	1	625
+921	Zámbová Mária, SR	r. Kurinszká, manž. Michal	1	874
+921	Zembuch Ján a Anna Zembuchová r. Oláhová		1	762
+921	Zembuch Michal, SR	sl.syn Jána	1	692
+921	Zembuchová Anna r. Oláhová, SR		1	627
+921	Zlatnická Mária r. Bodnárová		0	349
+921	Zlatnická Mária r. Bodnárová, SR		0	349
+921	Zlatnická Mária r. Bodnárová, SR	1	1	945,946
+921	Zlatnická Mária r. Bodnárová, SR	2	1	945,946
+921	Zlatnická Mária r.Bodnárová		0	350
+921	Zlatnický Michal, SR		0	207,209
+921	Zubaľová Terézia, SR		0	321
+921	Zubály András, SR	manž.Mária r. Zlatnyiczká	1	683
+921	Zubalyová Mária, SR	r.Zlatnyiczká,muž Andrej	1	683
+922	Adorján Ľudovít		1	2594,2595
+922	Adorján Ľudovít r. Adorján		1	2022,2641,2814
+922	Adorján Štefan r. Adorján		1	2594,2595
+922	Adorjánová Barbora r. Kardosová		1	2594,2595
+922	Agyagos Alexander		1	1874,2306,2367,2369,2431,3248
+922	Agyagos František		1	2046,2047,2614,2824
+922	Agyagos Ján		1	2712
+922	Agyagos Karol		1	2047,2137,2266,2601,2614,2824
+922	Agyagos Michal		1	2046,2266,2369
+922	Agyagos Štefan		1	2046,2047,2137,2266,2601,2614,2824
+922	Agyagosová Estera r. Kardosová		1	2009,2578,2636,2687,2727,2814,2880,2888,3441,3606
+922	Agyagosová Julianna		1	2042,2046,2137,2168,2170,2266
+922	Agyagosová Zuzana r. Tegdesová		1	2714
+922	Ambruzs Ján		1	1997
+922	Ambrúzsová Alžbeta		1	2102
+922	Ambrúzsová Mária		1	2814
+922	Ambrúzsová Mária r. Stefánová		1	1909
+922	Bábás Ján		1	2843
+922	Bábás Štefan		1	2843
+922	Bábásová Julianna		1	2602
+922	Bajzáth Štefan		1	1777,2187,3604
+922	Bajzáthová Julianna		1	2187,3604
+922	Bajzáthová Zuzana		1	2187,3604
+922	Bajzáthová Žofia		1	2187,3604
+922	Bajzátová Elena		1	1777,2187,3604
+922	Balázs Daniel		1	2594,2595
+922	Balázsová Mária r. Tóthová		1	2814
+922	Balázsová Terézia r. Tóthová		1	2814
+922	Bánová Mária r. Molnárová		1	2110
+922	Bányaiová Klára r. Hegymeghyová		1	1722
+922	Barcikai Július		1	2466,3242
+922	Barczaová Terézia r. Rusznyáková		1	2814
+922	Barnaová Terézia r. Mihályová		1	2814,3521
+922	Barnová Terézia r. Mihályová		1	1997,2565,2569,2814
+922	Barta Ján		1	2477,2478,2941,2961,2988,3325,3326,3345,3399,3615,3616,3617,3619,3620,3681,3682,3683,3684
+922	Barta Jozef		1	2477,2478,2941,2961,2988,2989,3325,3326,3399,3615,3616,3617,3619,3620,3681,3682,3683,3684
+922	Barta Ľudovít		1	3399
+922	Barta Štefan		1	2477,2478,2961,3325,3326,3399,3615,3616,3619,3620,3681,3682,3683,3684
+922	Bartaová Alžbeta r. Kapcziová		1	1769,1824
+922	Bartaová Alžbeta r. Kapcziová, SR		1	1824
+922	Bartaová Irena		1	2477,2478,2989,3326,3399,3615,3616,3620,3681,3682,3684
+922	Bartaová Mária r. Dieová		1	2477,2478,2988,2991,3325,3326,3399,3615,3616,3617,3619,3620,3681,3682,3683,3684
+922	Bartaová Zuzana r. Vidová		1	2477,2478,2988,3325,3326,3399,3615,3616,3617,3619,3620,3681,3682,3683,3684
+922	Bartha Alexander		1	2477,2478,2941,2961,2988,3325,3326,3399,3615,3616,3617,3619,3620,3681,3682,3683,3684
+922	Bartha Ľudovít		1	2477,2478,2941,2961,2988,3325,3326,3399,3615,3616,3617,3619,3620,3681,3682,3683,3684
+922	Barthaová Alžbeta		1	2477,2478,2988,3325,3326,3615,3616,3617,3619,3620,3681,3682,3683,3684
+922	Barthaová Estera		1	2477,2478,2985,2988,3325,3326,3399,3615,3616,3617,3619,3620,3681,3682,3683,3684
+922	Barthaová Zuzana		1	2477,2478,2985,2988,3325,3326,3399,3615,3616,3617,3619,3620,3681,3682,3683,3684
+922	Barthová Alžbeta		1	2941,2961,3325,3399,3619,3683
+922	Barthová Ilona r. Józsaová		1	2853
+922	Bartók Alexander		1	2197,2328,2814
+922	Bartók František		1	1952,2150,2161,2388,2814,3488,3564
+922	Bartók Ján		1	2605
+922	Bartók Jozef		1	2119,2286,2594,2595,2647,2776,2814,3452,3645
+922	Bartók Ľudovít		1	2594,2595,2814
+922	Bartók Michal		1	1971,2814
+922	Bartók Štefan		1	2594,2595
+922	Bartóková Alžbeta		1	2647,3452,3645
+922	Bartóková Alžbeta r. Bartóková		1	1931,2574,2644,2678,2679,2734,2814,3570,3644
+922	Bartóková Barbora		1	3345
+922	Bartóková Helena r. Jávorová		1	2477,2478,2988,3004,3325,3326,3399,3615,3616,3617,3619,3620,3681,3682,3683,3684
+922	Bartóková Irma r. Üvegesová		1	1740,2435,2594,2595,2814,3116
+922	Bartóková Jolana		1	2161,2378,2443
+922	Bartóková Julianna		1	1953,2594,2595,2744
+922	Bartóková Julianna r. Beczeová		1	2220,2385,2388,3488,3564
+922	Bartóková Julianna r. Gálová		1	1875,2153,3404,3561,3562
+922	Bartóková Klára r. Demeterová		1	2814
+922	Bartóková Mária r. Jávorová		1	2477,2478,2988,3004,3325,3326,3399,3615,3616,3617,3619,3620,3681,3682,3683,3684
+922	Bartóková Mária r. Tóthová		1	2605,2609
+922	Bartóková Terézia		1	2031,2162,2296,2402,2594,2595,3264
+922	Bartová Alžbeta r. Nagyová		1	1719
+922	Bartová Irena		1	3325,3619,3683
+922	Bartová Zuzana r. Vidová		1	3399
+922	Becze Alexander		1	2390
+922	Becze Jozef		1	2386
+922	Becze Ladislav, Kosuth 28, HRHOV, Maďarsko		0	2152,2220,3526
+922	Becze Ladislav, Kosuth 28, Tuzsér, Maďarsko		0	2362,2385,2388,2814,3488,3564
+922	Becze Ľudovit		0	1890,1903,1941,2150,2151,2223,2388,2399,2463,2464,2472,2591,2643,2784,2786,2814,2863,3091,3488,3564,3680
+922	Beczeová Estera r. Oláhová		1	2814
+922	Beczeová Julianna r. Sallaiová		1	1863
+922	Beczeová Mária r. Bartóková		1	1860,1870,1873,1882,1931,1952,1953,2013,2161,2286,2338,2378,2404,2443,2455,2456,2457,2469,2471,2474,2574,2590,2594,2644,2647,2678,2679,2734,2744,2756,2776,2814,3133,3213,3310,3452,3570,3571,3644,3645
+922	Beczeová Mária r. Józsaová		1	1935,2049,2610,2611,2696,2814,3501
+922	Beke Ján		1	2478,3326,3616,3620,3682
+922	Bekeová Alžbeta		1	2477,2478,2985,2988,3325,3326,3399,3615,3616,3617,3619,3620,3681,3682,3683,3684
+922	Bekeová Alžbeta r. Gyarmathyová		1	2393
+922	Bekeová Alžbeta r. Kulcsárová		1	2080

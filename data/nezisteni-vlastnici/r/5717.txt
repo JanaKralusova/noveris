@@ -1,0 +1,256 @@
+3213	Kmec Andrej	syn Jana	0	304
+3213	Kmec Andrej ml.		1	29,95,687,928,951,953,957
+3213	Kmec Bartolomej	zomrel	0	304,710,712,714
+3213	Kmec Elek	zomrel	0	33,304,710,712,714
+3213	Kmec Ján		1	28,243,367,964
+3213	Kmec Ján	1	1	29,95,97,140,169,176,177,178,457,476,501,576,590,690,777,928,951,953,957
+3213	Kmec Ján	2	0	712,714
+3213	Kmec Ján	nar.3.3.1899; nar.3.3.1899	0	873
+3213	Kmec Jozef	1	1	97,476,590,603,604,703,718,811,871
+3213	Kmec Jozef	2	0	33,304,710,712,714
+3213	Kmec Jozef	mladší; mladší	0	873
+3213	KMEC Jozef		0	873
+3213	Kmec Juraj	3	1	476
+3213	KMEC Juraj		1	46,47,48,135,159,176,177,178,327,328,367,505,576
+3213	Kmec Ľudovít		1	29,140,169,176,177,178,476,576,590,690,697,738,777,928,953,957
+3213	Kmec Ondrej	zomrel	0	46,47,48,452,500,505,576,590
+3213	KMEC Rudolf		0	33,710
+3213	Kmec Štefan		1	140
+3213	Kmec Štefan	1	1	29,928,953,957
+3213	Kmec Štefan	1, zomrel	0	690,712,714
+3213	Kmec Štefan	2	1	29,326,928,953,957
+3213	Kmec Štefan	2, zomrel, syn Jánov	0	690
+3213	Kmec Štefan	3	1	476,501,590,703,718,811
+3213	Kmec Štefan	4	1	169,476,590
+3213	Kmec Štefan	st	0	135,327,328
+3213	Kmec Štefan	zomrel	0	46,47,48,135,159,176,177,178,327,328,505,576,697
+3213	Kmec Štefan st.		1	326
+3213	Kmec Štefan, SR		0	476
+3213	Kmec Tomáš		1	97,140,169,176,177,178,243,457,476,501,576,590,777,964
+3213	Kmec Tomáš	Kanada	1	367
+3213	KMEC-JUSKO Ján		0	873
+3213	Kmecová Anna r. Gazdačková		1	28
+3213	KMECOVÁ Anna r. Jusková		0	873
+3213	Kmecová Helena		1	476
+3213	Kmecová Helena r. Štefanová		0	304
+3213	Kmecová Justina		0	177,487
+3213	Kmecová Margita r. Koščová		0	33,304,710
+3213	Kmecová Mária		1	26,135,244,328,476
+3213	Kmecová Mária r. Anderková		1	28
+3213	Kmecová Mária r. Anderková	zomrela	0	169,579
+3213	Kmecová Mária r. Demjanová		0	720
+3213	Kmecová Mária r. Imrichová		0	783
+3213	Kmecová Verona r. Šitarová		0	33
+3213	Kokošová Katarína r. Čini	narodená 23.4.1880	0	873
+3213	Kolesár Ján	narodený 10.1.1875, žena Verona, r. Poniková	0	873
+3213	Kolesárová Mária		1	172,326
+3213	Kolesárová Verona r. Poláčeková		0	557
+3213	Kolesárová Verona r. Poniková		0	97,135,159,328
+3213	Komornik Ján	zomrel	0	793
+3213	Komorníková Alžbeta r. Kováčová		0	793
+3213	Kostelníková Júlia r. Pecuchová		0	873
+3213	Koškievičová Žofia r. Bučková		0	873
+3213	Kozma Štefan		0	169,633
+3213	Kozmová Margita		1	26,46,168,169,172,176,177,178,450,476,505,506,508,566,576,578,590,623,624,792
+3213	Kozmová Zosa r. Krajňáková		0	633
+3213	Krajňák Gregor		0	185
+3213	Krajňák Július, SR		0	476
+3213	Krajňák Juraj	1	1	168,169,450,476,508,566,578
+3213	Krajňák Juraj	2	1	168,169,450,476,508,566,578,789
+3213	Krajňák Juraj	3	0	463
+3213	Krajňák Juraj	honvéd	0	677
+3213	Krajňák Ondrej		0	169,184
+3213	Krajňák Štefan		1	26
+3213	Krajňák Štefan	ml	0	184,185,450,508,566,578,789
+3213	Krajňák Štefan	ml., z. Helena r. Kmecová	0	169
+3213	Krajňák Štefan ml.		1	168,172,476
+3213	Krajňáková Františka		0	185
+3213	Krajňáková Helena		1	326
+3213	Krajňáková Helena r. Krížová		0	135,327,328
+3213	Krajňáková Jozefína		0	185
+3213	Krajňáková Margita		0	185,296,325,548,549
+3213	Krajňáková Mária		1	326
+3213	Krajňáková Mária r. Marcinová		1	28,135,327,328,510,728
+3213	Krescanko Jozef	slobodný, narodený 12.10.1895	0	834
+3213	Krescanko Jozef	slobodný, zomrel	0	666
+3213	Kriš Pavol	narodený 13.1.1898	0	873
+3213	Kríž Juraj		0	97
+3213	Kríž Peter		0	873
+3213	Kríž-Žigrai Jozef		0	873
+3213	Kríž-Žigrai Juraj		0	873
+3213	Kríž-Žigrai Margita		0	873
+3213	Krížová Alžbeta r. Stachová		0	159
+3213	Kroková Margita r. Jusko	narodená 12.7.1929	0	873
+3213	Kucko Ján	narodený 22.5.1894	0	873
+3213	Kuchárová Alžbeta r. Kozmová		0	590
+3213	Lasovský Štefan		0	933
+3213	Lazor Juraj		1	172
+3213	Lazorík Andrej		1	326,327
+3213	Lazorík Jozef		1	26,97,135,172,246,247,326,327,328,447,459,476,489,511,567,599,610,620,621,830
+3213	LAZORÍK Michal		1	28,729
+3213	Lazoríková Anna		1	326,462,863,864,962,963
+3213	Lazoríková Anna r. Sabolová		0	327,436
+3213	Lazoríková Helena		1	26
+3213	Lazoríková Žofia		1	37,476,1000
+3213	Lazoríková Žofia r. Marcinová		0	159,169,391,471,473,507,575,657,658,675,681,778
+3213	Lengyelová Mária r. Urbanová		0	46,47,48,505
+3213	Lešková Alžbeta r. Adamová		0	159
+3213	Lešková Anna r. Tekelová	zomrela	0	797
+3213	Lešková Mária r. Vargová	manžel Juraj R 1903	0	839
+3213	Lešková Mária r. Vargová	zomrela	0	795
+3213	Lešková Mária r. Vargová, SR	m. Juraj	1	887
+3213	Ličáková Žofia r. Šitarová	narodená 22.7.1905	0	873
+3213	Mačo Ján	zomrel	0	760
+3213	Mačo Ján, SR	ž.Helena r. Lepáková	1	903
+3213	Mačová Helena r. Lepáková	zomrela	0	760
+3213	Mačová Helena r. Lepáková, SR	m.Ján	1	903
+3213	Machaňská Helena r. Dankovičová, SR	m. Ján	1	878
+3213	Machanský Ján	zomrel	0	794
+3213	Machaňský Ján, SR	Sabol,ž. Helena r. Dankovičová	1	878
+3213	Machňacký Ján	a 30 spoluvlastníkov pasienkového spoločenstva	0	838
+3213	MAJERNÍKOVÁ Mária r. Križová		0	873
+3213	Majerníková Verona	maloletá	0	97
+3213	Maník Andrej r. Maník a Anna Maníková r. Gondzurová		0	64
+3213	Maníková Margita	zomrela	0	169
+3213	Marcin Andrej		1	476
+3213	Marcin František		1	26,172
+3213	Marcin Ján		1	26,29,95,172,476,928,951,953,957
+3213	Marcin Ján	zomrel	0	169,511,690
+3213	Marcin Ján	zomrel, 1	0	755
+3213	Marcin Štefan		1	26,169,172,542,678
+3213	Marcin Štefan	1	1	29,597,690,928,953,957
+3213	Marcin Štefan	Balpotock	1	585,586,625
+3213	Marcin Štefan	zomrel	0	765
+3213	Marcinová Anna		1	476,619,626
+3213	Marcinová Anna r. Kravjarová		0	315,358,444,455,463,474,475,477,478,495,510,596,602,614,618,634,638,643,809
+3213	Marcinová Margita	mal	1	542,678,706,819
+3213	Marcinová Pavlína	maloletá	0	542,678,819
+3213	Marcinová Pavlína mal.		1	706
+3213	Marcinová Verona		1	26
+3213	Marcinová Verona mal.		1	172
+3213	Marcinová Verona r. Lipková		0	217
+3213	Marcinová Žofia		1	625,707
+3213	Marcinová Žofia r. Urbanová		0	585
+3213	Maťašová Mária r. Jusková		0	873
+3213	Mikolajová Anna r. Urban		0	46,47,48,505
+3213	Nemcovská Mária		1	140,176,177,178,476,576,590
+3213	NEMCOVSKÁ Terézia		0	176,177,178,576
+3213	Nemcovská Žofia		1	28,140,176,177,178,476,576,590
+3213	Oravcová Helena	maloletá	0	338,468,482,635,644
+3213	Oravcová Helena mal.		1	476
+3213	Oravcová Helena r. Adamčáková, SR	m.Andrej	1	891
+3213	Oravcová Helena r. Oravcová		0	338,468
+3213	Oravcová Mária		1	476
+3213	Oravcová Mária r. Blicharová		0	635,644
+3213	Oravcová Mária r. Oravcová		0	169,437,464,469,481,482,635,644,784,820
+3213	ORAVCOVÁ Pavlína		0	338,468,784
+3213	Oravcová Terézia		1	168,476
+3213	Oravcová Terézia r. Sabolová		0	450,508,566,578
+3213	Oravcová Verona r. Križ-Žigray		0	873
+3213	ORAVCOVÁ Verona r. Oravcová		1	28,304
+3213	Oravcová Verona r. Žigrajová		0	558
+3213	Oravcová Verona r. Žigray		0	873
+3213	ORAVEC Adam		0	635,644
+3213	Oravec András	zomrel	0	710
+3213	Oravec Andrej, SR	ž.Helena r. Adamčáková	1	891
+3213	Oravec František		1	338,440,468,497,571,873,965,966
+3213	Oravec Ján	Štefko	1	365,366,571,965,966
+3213	Oravec Ján r. Honvéd		0	635,644
+3213	Oravec Ján r. Štefko		0	338,440,468,497,635,644
+3213	ORAVEC Jozef		1	440,468,497,571,873,965,966
+3213	Oravec Juraj	narodený 4.2.1896	0	873
+3213	ORAVEC Juraj		0	338,468,635,644
+3213	ORAVEC Karol		1	28,635,644
+3213	Palšová Agnesa r. Mriglotová	narodená 26.1.1893, zomrela	0	873
+3213	Partilová Anna r. Vargová, SR	m.Ondrej	1	875
+3213	Pavlinská Mária	maloletá	0	304
+3213	Pavlinský Andrej		0	304,715
+3213	Pecuch Jakab	Gajdoš	0	536
+3213	PECUCH Ján		0	873
+3213	PECUCH Jozef		0	873
+3213	PECUCH Juraj		0	873
+3213	Pecuch Michal	Gajdoš	0	536
+3213	PECUCH Viktor		0	873
+3213	Pecuchová Agnesa r. Demjanová		0	873
+3213	PECUCHOVÁ Margita		0	873
+3213	Petrová Terézia		1	365,366,571,965,966
+3213	Petrová Terézia r. Oravcová		0	338,440,469,481,497
+3213	Pisanová Verona		1	172,855
+3213	Pisanová Verona r. Klobušovská		1	26,28,734
+3213	Platková Žofia r. Demjanová	narodená 16.1.1910	0	873
+3213	Polaček Ján		0	394,557,873
+3213	POLAČEKOVÁ Verona		0	873
+3213	Poník Ján		1	26,28,95,326,951
+3213	Poník Ján	zomrel	0	33,97,135,159,169,244,303,327,328,693,710,932
+3213	Poník Juraj	zomrel	0	327,710
+3213	PONÍK Ondrej		1	97,135,159,326,327,328,399,461,476,573
+3213	Poník Štefan		0	184
+3213	Poník Tomáš		1	37,95,326,951,1000
+3213	Poník Tomáš	18.12.1907, zomrel	0	97,184,434,471,575,641,642,722,775
+3213	Poník Tomáš	maloletý	0	135,159,327,328,473,507,690
+3213	Poník Tomáš mal.		1	29,928,953,957
+3213	Poník Tomáš, SR	zomrel	0	172,476
+3213	Poníková Anna r. Kmecová		0	159
+3213	PONÍKOVÁ Anna r. Licáková		1	28
+3213	Poníková Margita		1	140,476
+3213	Poníková Margita r. Pucharová		1	26,46,505
+3213	Poníková Mária	maloletá	0	159
+3213	Pribula Ján	zomrel	0	184
+3213	Puchovský Ondrej	zomrel	0	709
+3213	Raceková Verona	maloletá	0	544
+3213	Radačovský Juraj		1	172,581
+3213	Rákoš Ján	ž. Maria r. Lipkova R 13.2.1923	0	842
+3213	Rákoš Ondrej, SR	ž.Helena r.Angelovičová	1	904
+3213	Rakoš-Kolár Ján	R 19.8.1912, ž. Helena r. Kanašová	0	846
+3213	Rákošová Helena r. Angelovičová, SR	m.Ondrej	1	904
+3213	Rákošová Helena r. Kanasová	manžel Ján	0	846
+3213	Rákošová Helena r. Kanašová, SR	m.Ján	1	884
+3213	Richvalská Verona r. Liptáková, SR		1	900
+3213	Richvalský Cyril	10.5.1919, zomrel	0	442,769
+3213	Richvalský Cyril, SR	zomrel	0	476
+3213	Richvalský Ondrej	zomrel	0	798
+3213	Rubín Armin Dr.		1	37,476,1000
+3213	Rubín Armin, Dr.		0	391,459,467,489,577,610,657,675
+3213	RUBÍN Emanuel		1	169,357,358,444,455,463,473,476,477,478,502,507,582,593,596,601,602,605,630,636
+3213	Rubín Maximilian		1	37,391,459,467,476,489,577,610,657,675,1000
+3213	Rubín Zoltán		1	37,391,459,467,476,489,577,610,657,675,1000
+3213	Rubínová Anna		1	37,476,1000
+3213	Rubínová Anna r. Grosová		0	391,459,467,489,577,610,657,675
+3213	Rychvalský Štefan, SR	ž.Verona r.Liptáková	1	900
+3213	Sabol Ján	Bukovo 45, Mladá Boleslav; Bukovo 45, Mladá Boleslav	0	873
+3213	SABOL Ján		1	135,328,476,508,566,578
+3213	SABOL Juraj		0	873
+3213	Sabol Štefan		1	168,450,476,508,566,578
+3213	Sabol Štefan, SR	ž.Margita r.Trinacová	1	892
+3213	Sabolová Margita r. Trinacová, SR	m.Štefan	1	892
+3213	SEMSEI Otto		0	288
+3213	SEMSEY Jozef		0	169
+3213	SENDERÁK Martin		0	473,507
+3213	SENDERÁKOVÁ Magdaléna r. Jusková	zomrela 28.12.1970	0	873
+3213	Sopková Mária r. Blaňárová		0	873
+3213	Sopková Mária r. Jusková		0	873
+3213	Sopková Paulina	narodená 20.3.1897	0	873
+3213	STACH Ján		0	873
+3213	STACH Juraj		0	873
+3213	STACH Karol		0	873
+3213	Stachová Františka	narodená 4.3.1894	0	873
+3213	Staško Štefan	zomrel	0	770
+3213	Straková Verona r. Grusková		0	638
+3213	Šefčíková Verona		1	476
+3213	Šitar Andras	zomrel	0	169
+3213	Šitár Juraj		0	592
+3213	Šitár Ludevit		0	97
+3213	ŠITÁR Ľudovít		0	873
+3213	Šitár Štefan	Bigosi	0	605
+3213	ŠITÁROVÁ Alžbeta		0	873
+3213	Šitárová Alžbeta r. Bednárová		0	676
+3213	Šitárová Anna		1	37,247,476,619,1000
+3213	Šitárová Anna r. Marcinová		0	169,246,391,459,471,489,511,567,575,602,618,634,643,657,658,675,681,773,830
+3213	Šitárová Anna r. Poníková		0	33,304,710
+3213	Šitárová Mária r. Demjanová		0	135,159,327,328
+3213	Šitárová Mária r. Feňáková		1	28,176,531
+3213	Šitárová Marta r. Barteková		0	547
+3213	Šitárová Žofia		1	28
+3213	Škurla Andráš		1	314
+3213	Škurla Jozef	1.5.1904, zomrel	0	609
+3213	Škurlová Anna r. Feňáková		1	28,521,610,736

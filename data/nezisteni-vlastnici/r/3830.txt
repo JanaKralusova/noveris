@@ -1,0 +1,256 @@
+2197	Ábelová Alžbeta		0	1710
+2197	Ábelová Anna		0	1710,13431,13432
+2197	Ábelová Anna	čd.5198/1937	0	5905
+2197	Ábelová Helena		0	1710
+2197	Ábelová Helena	čd.1931/1940	0	7315
+2197	Ábelová Katarína r. Košinárová	č. d. 4911/1925	0	10297
+2197	Ábelová Mária		0	1710,10817
+2197	Abelová Mária nezletilá	čd.1907	0	6504
+2197	Ábelová Mária r. Orviská		0	718
+2197	Adamčíková Magdaléna r. Karabová	čd.2033/1947	0	6966
+2197	Alexy Mária r. Brezulová		0	11459
+2197	Anderle František	č.6788/1898; č.6141/1904	0	7891
+2197	Anderle František	čd.2757/1943	0	7891
+2197	Anderle František	žena Helena, čd.3392/1923	0	7891
+2197	Anderle František	žena Helena, čd.3414/1923	0	7891
+2197	Antal Gašpar	čd.2451/1948	0	5595
+2197	Antal Ján	čd. 3157/43	0	11356,11452
+2197	Antal Ján	manž. Alžbeta rod. Fanová	0	5466
+2197	Antal Jozef	čd.267/1905	0	6069
+2197	Antal Jozef	čd.7820/1904	0	6069
+2197	Antal Michal	čd.267/1905	0	6069
+2197	Antal Michal	žena Katarína rod. Bolceková	0	954
+2197	Antalová Anna	čd.267/1905	0	6069
+2197	Antalová Anna r. Balážiková		0	2825
+2197	Antalová Anna r. Balážiková	čd.2355/1930	0	6022
+2197	Antalová Anna r. Balážiková	čd.3263/1941	0	7927,7931
+2197	Antalová Anna r. Bieliková	čd.4821/1931	0	6529
+2197	Antalová Anna r. Orviská	čd. 5329/1900	0	11452
+2197	Antalová Helena	čd. 3157/43	0	11356,11452
+2197	Antalová Helena	čd.267/1905	0	6069
+2197	Antalová Helena	čd.7820/1904	0	6069
+2197	Antalová Katarína r. Dekanová	čd.295/1932	0	7991
+2197	Antalová Katarína r. Dekanová	čd.3746/1931	0	7991
+2197	Antalová Mária	čd.7820/1904	0	6069
+2197	Antalová Otília r. Novotná	čd.2861/1943	0	7007
+2197	Arbet Ján	čd.275/1932	0	6727
+2197	Arbet Jozef	čd.2618/1929	0	6728
+2197	Arbet Michal	čd 2035/41	0	9054
+2197	Arbet Štefan	čd.1107/1925	0	6727
+2197	Arbet Štefan	čd.2618/1929	0	6728
+2197	Arbet Štefan	čd.4741/1908	0	6727
+2197	Arbetová Katarína	čd.2618/1929	0	6728
+2197	Babač Jozef st.	čd.1595/1947	0	8278
+2197	Bábska Helena r. Nedelková		0	9009
+2197	Bábsky Jozef	čd.1503/1927	0	5546
+2197	Bábský Jozef		0	2990
+2197	Bacharová Helena r. Melicherová	čd.1114/1925, čd.3863/1943	0	4459
+2197	Balazik Ján		0	8657
+2197	Balážik Emil		0	2570
+2197	Balážik Emil	čd.2414/1948	0	6893
+2197	Balážik Emil	zom.20.5.2009; zom.20.5.2009	0	11535,11536
+2197	Balážik Gašpar		0	3988
+2197	Balažik Ján	žena Mária Uhríková	0	9107
+2197	Baranovič Ján	zom. 26.6.1997; zom. 26.6.1997	0	11621
+2197	Baranovič Štefan	čd.2394/1927	0	6069
+2197	Bartoš Ilona	čd.333/1894	0	6500
+2197	Bartoška Stanislav	m. Aranka r.Krajnanská ,čd.3082/32, Horná Streda 131	0	11291
+2197	Bartošková Aranka r. Krajnanská	m. Stanislav ,čd.3082/32, Horná Streda 131	0	11291
+2197	Bartošová Helena		0	10817
+2197	Bartošová Helena	čd.1894	0	6504
+2197	Bartovic Emil	čd.4641/1937	0	6299
+2197	Bartovic Gašpar		0	13431,13432
+2197	Bartovic Gašpar	čd.2370/1941	0	5905
+2197	Bartovic Gašpar	žena Katarína rod. Oravec, č.d.1302/1917	0	7220
+2197	Bartovic Juraj		0	13236,13237
+2197	Bartovic Juraj	čd.5844/1904	0	7452
+2197	Bartovic Juraj	ž. Alžbeta Košinárová, čd.5844/1904	0	6048
+2197	Bartovic Juraj	žena Alžbeta rod. Košinárová, č.d.5844/1904	0	7220
+2197	Bartovic Michal		0	1992,1993
+2197	Bartovic Michal	čd.1203/1921	0	7905
+2197	Bartovic Pavol		0	13431,13432
+2197	Bartovic Pavol	čd.5198/1937	0	5905
+2197	Bartovic Róbert	čd.1111/1925	0	6299
+2197	Bartovic Róbert	čd.4641/1937	0	6299
+2197	Bartovic Rudolf	čd.2059/1948	0	5332
+2197	Bartovic Rudolf	čd.798/1950	0	5332
+2197	Bartovic Silvester	čd.4641/1937	0	6299
+2197	Bartovic Štefan	čd.1582/1947	0	5332
+2197	Bartovic Štefan	čd.2063/1922 žena Alojzia Mišáková	0	6299
+2197	Bartovic Štefan	čd.4641/1937	0	6299
+2197	Bartovic Štefan	čd.798/1950	0	5332,6632
+2197	Bartovic Viktor	čd.1111/1925	0	6299
+2197	Bartovic Viktor	čd.4641/1937	0	6299
+2197	Bartovicová Jolana	čd.2063/1922	0	6299
+2197	Bartovicová Jolana	čd.4641/1937	0	6299
+2197	Bartovicová Jozefína r. Hlístová		0	1822
+2197	Bartovicová Katarína	čd.2818/1936	0	6244
+2197	Bartovicová Mária		0	13431,13432
+2197	Bartovicová Mária r. Zuzulová	č.d.2099/1950	0	8027
+2197	Bednarík Jozef		0	10040
+2197	Bednaríková Emília		0	10040
+2197	Belan Imrich	D: Č.D.203/1945	0	11286
+2197	Belan Mikuláš	D: Č.D.203/1945	0	11286
+2197	Belanová Mária	D: Č.D.203/1945	0	11286
+2197	Belko Juraj	žena Anna Palečeková	0	6805
+2197	Belková Anna r. Palečeková	muž Juraj	0	6805
+2197	Bendželová Mária r. Šebová	čd.2444/62	0	5760,9225,12688,12690,13463,13467,13473
+2197	Benedik Rudolf	zom. 6.5.2008 - Detvianska 386/16, 92101 Piešťany	0	10959
+2197	Benech Štefan		0	1353
+2197	Benech Štefan	čd. 781/46	0	11168
+2197	Benko Emanuel	čd.5406/1913	0	8905
+2197	BENKO EMANUEL		0	1319,2636
+2197	Benko Jozef	čd. 618/1917	0	9518
+2197	Benko Jozef	čd.5406/1913	0	8905
+2197	Benko Jozef	manželka Katarína Drličková, čd.612/26	0	11427
+2197	Benko Jozef	syn Michala	0	2636
+2197	BENKO JOZEF		0	1319,6108,10825
+2197	Benko Martin	čd 3813/11	0	11436
+2197	Benko Martin	čd. 4377/43	0	11335
+2197	Benko MIchal	čd. 618/1917	0	9518
+2197	Benko Štefan	čd. 618/1917	0	9518
+2197	Benko Štefan r. Benko a Helena Benková		0	4447
+2197	BENKOVA ANNA		0	2432
+2197	Benková Anna r. Babská, SR		0	2531,12284
+2197	Benková Gizela r. Durichová	čd 4229/35	0	11297
+2197	Benková Helena r. Bieliková		0	1792
+2197	Benková Helena r. Lieskovská	čd.4986/04	0	11177
+2197	Benková Helena r. Lieskovská	čd.4986/1904	0	7376,8338
+2197	Benková Jozefína	čd.1444/1928	0	6288
+2197	Benková Jozefína	výmaz mal. r.1933, čd.1444/28	0	11181,11925
+2197	Benková Jozefína	výmaz mal. r.1935	0	2636
+2197	Benková Katarína r. Vráblová	manž. Štefan ,čd.5796/1913,1075/1914,1198/1915,1444/1928	0	11181
+2197	Beňo Martin	ž. Petronela r.Markechová, čd.1120/51, Horná Streda	0	11285
+2197	Beňová Anna r.Kálnická -čd.193/1942		0	2846
+2197	Berková Emília r. Baranovičová	SNP 149, Stará Turá	0	11621
+2197	Betáková	Hrehušová	0	12277
+2197	Bielik Gašpar	čd.2402/39	0	11317
+2197	Bielik Gašpar	čd.872/1944	0	6167
+2197	Bielik Gašpar	ž. Mária r. Ábelová, čd 1784/32	0	11323
+2197	Bielik Jozef	D: Č.D.3082/1932	0	11287
+2197	Bielik Michal	čd 2034/10	0	11327
+2197	Bielik Pavol	čd.2402/39	0	11317
+2197	Bieliková Mária	D: Č.D.3082/1932	0	11287
+2197	Bieliková Mária r. Ábelová	čd 1552/47, m. Gašpar čd 1784/32	0	11323
+2197	Bieliková Mária r. Šimová		0	1248
+2197	Bilená Vincencia r. Macková	čd.3375/17,3530/34,136/42	0	11085
+2197	Bíliková Mária r. Ábelová	čd.102/1956	0	6165
+2197	Bistáková Mária r.Micháleková -čd.2531/1948		0	7503
+2197	Blašková Pavla r. Vymazalová	vdova, č.d.398/1955	0	8028
+2197	Bogdániová Mária	Banka 145, čd.1421/47	0	11878
+2197	Bogdániová Mária	čd.134/51, malol	0	11880
+2197	Boháčová Mária r. Mišurová	čd. 54/48	0	9485
+2197	Bolcek Jozef	čd.6544/1934	0	6525
+2197	Bolcek Jozef	pk.vl.43 - č.d.6491/1904	0	10647,10814
+2197	BOLCEK JOZEF /CD.6491/1904/		0	6534
+2197	Bolješíková Otília r. Pániková	súr. Pavlína, Ján, čd 51/55	0	11659
+2197	Bórik Rudolf, SR		0	10308,10309
+2197	Botlíková Augustína r. Tomešková		0	11435
+2197	Brausteinerová Anna r. Gloszová	č.d.5073/1932	0	8027
+2197	Brecková Irena r. Čimová	čd.3699/1905	0	6650
+2197	Breneselová Marta r. Lehutová		0	6299,7070,7071,7072,11271
+2197	BREZINOVA VALERIA r. HANICOVA, SR		0	4382
+2197	Brezovan Ján	ž. Júlia r. Chochlíková, čd 248/31	0	11893
+2197	Brezovan Michal		0	10058
+2197	Brezovská Alžbeta r. Látková	čd. 3024/40	0	11222
+2197	Brezovská Alžbeta r. Látková, Piešťany, SR		0	1881
+2197	Brezovská Júlia r. Brezovská	čd 1159/44	0	11957
+2197	Brezovská Serafína r.Majerníková		0	9531
+2197	Brezovský Michal	čd 1159/44	0	11957
+2197	Brežná Mária	č.d.53/1924	0	8045
+2197	Brežný Jozef	č.d.53/1924	0	8045
+2197	BROKESOVA ANNA R.POBJECKA /CD.307/39/		0	10743
+2197	Brokešová Anna r. Pobjecká	čd.307/1939	0	6424
+2197	Brunovská Matilda r. Vráblová		0	3503
+2197	Brunovská Matilda r. Vráblová	čd.39/1945	0	6446
+2197	Brunovský Martin	manželka Mária Drličková ,čd.471/19	0	11233
+2197	Brunovský Michal	m. Mária r.Pavlíková, čd.110/47	0	11883
+2197	Bučková Helena r. Drahovská	čd.731/31	0	11644
+2197	Budárková Helena r.Hanicová -čd.1409/1947		0	1631,1632
+2197	Budárková Helena r.Hanicová -čd.3380/1940		0	1632
+2197	Buchel Jozef	Č.D.1169/39	0	8789
+2197	Buchel Viktor	Č.D.1169/39	0	8789
+2197	Buchel Viktor	čd.2629/1917	0	7334
+2197	Buchelová Cecília r. Vlčková	čd.43/1943	0	6069
+2197	Bunáčová Kopeciová Helena r. Uherová	čd.666/1925,159/1925	0	1024,1025
+2197	Capuško Benedikt	čd 3738/39, malol	0	11751
+2197	Capuško Cyprián	čd 3738/39, výmaz malol. 1947	0	11751
+2197	Capuško Ján	ž. Štefánia, Drahovce 99, čd 2818/36	0	11751
+2197	Capušková Filoména	čd 3738/39, výmaz malol.v 1944	0	11751
+2197	Cepko Štefan	ml., čd 2818/36, m. Jozefína	0	11964
+2197	Cepková Amália r. Spišáková		0	3855
+2197	Cepková Andelina, Drahovce, č. 123, SR		0	10217
+2197	Cepková Anna r. Páleníková	čd 541/47	0	11726
+2197	Cepková Jozefína	Drahovce č.123, m. Štefan, čd 2818/36	0	11964
+2197	Cepková Magdaléna	Drahovce č.123, m.Vendelín, čd 2818/36	0	11726
+2197	Cesnek Pavel	ž. Emera, čd 5198/37	0	11725
+2197	Cesnek Peter čd.2531/1948		0	7503
+2197	Cesnek Štefan	čd 4528/38	0	11720
+2197	Cesneková Emera	m. Pavel, čd 5198/37, Drahovce 16	0	11725
+2197	Cesneková Saloména r.Micháleková -čd.2531/1948		0	7503
+2197	Cifra Ján	čd. 1247/43	0	9518
+2197	Cifra Rudolf	čd. 1247/43	0	9518
+2197	Cocherová Gizela r. Čimová	čd.3699/1905	0	6650
+2197	Čapucha Jozef		0	12220
+2197	Čavojská Mária r. Kremnická		0	2153
+2197	Češek Pavol		0	11024
+2197	Čimo Andrej	čd.3699/1905	0	6650
+2197	Čimo Andrej	ž. Júlia r.Majerčíková, čd.2295/1872	0	8256
+2197	Čimo Florián	čd.3699/1905	0	6650
+2197	Čimo Florián	čd.4949/1904	0	7300,8256
+2197	Čimo Jozef	čd.3699/1905	0	6650
+2197	Čimo Viktor	čd.3699/1905	0	6650
+2197	Čimová Kornélia	čd.192/1927	0	6650,7300,8256
+2197	Čimová Marta	čd.3105/1935	0	6650
+2197	Čimová Rozália	čd.3105/1935	0	6650
+2197	Čížeková Mária		0	10359
+2197	Čongradyová Mária r.Šimová	Č.D.3108/1935	0	8279
+2197	Čulen Stanislav r. Čulen a Elena Čulenová, Holubyho 1055/24, Piešťany, PSČ 92101, SR		0	10667
+2197	Darhovský Jozef	Č.D.3729/1923	0	7907
+2197	Dekan Gašpar	čd.3746/1931	0	7991
+2197	Dekan Ľudovít	žena Agáta r.Melicherová, čd.3746/1931	0	7991
+2197	Dekanova Alojzia		0	13435
+2197	Dekanová Alojzia	č. d.3946/1923	0	6290
+2197	Dekanová Alojzia	čd.295/1932	0	7991
+2197	Dekanová Anna	čd.295/1932	0	7991
+2197	Dekanová Anna r. Petrášová	čd 5280/04	0	11409
+2197	Dekanová Jozefína	čd.295/1932	0	7991
+2197	Dekanová Magdaléna	čd.295/1932	0	7991
+2197	Dekanová Margita	čd.295/1932	0	7991
+2197	Djenka Jozef	ž. Amélia r. Ondrejková, čd 797/50	0	11663
+2197	Djenka Ľudovít	m. Helena , V.Orvište 38, čd.5198/37	0	11482
+2197	Dobiáš Imrich		0	10908,11514
+2197	Dobiáš Imrich	čd.2957/1935	0	7376,8338
+2197	Dobiáš Imrich	čd.2957/35	0	11177
+2197	Dobiáš Ján		0	10908,11514
+2197	Dobiáš Ján	čd.2957/1935	0	7376,8338
+2197	Dobiáš Ján	čd.2957/35	0	11177
+2197	Dobiáš Klement		0	10908,11514
+2197	Dobiáš Klement	čd.2957/1935	0	7376,8338
+2197	Dobiáš Klement	čd.2957/35	0	11177
+2197	Dobiášová Agneša		0	10908,11514
+2197	Dobiášová Agneša	čd.2957/1935	0	7376,8338
+2197	Dobiášová Agneša	čd.2957/35	0	11177
+2197	Dobiášová Alžbeta		0	10908,11514
+2197	Dobiášová Alžbeta	čd.2957/1935	0	7376,8338
+2197	Dobiášová Alžbeta	čd.2957/35	0	11177
+2197	Dobiášová Helena	čd.2957/1935	0	7376,8338
+2197	Dobiášová Helena	čd.2957/35	0	11177
+2197	Dobiášová Helena	D: Č.D.2957/1935	0	10908,11514
+2197	Dobiášová Karolína	čd.2957/1935	0	7376,8338
+2197	Dobiášová Karolína	čd.2957/35	0	10908,11177,11514
+2197	Dobiášová Mária		0	10908,11514
+2197	Dobiášová Mária	čd.2957/1935	0	7376,8338
+2197	Dobiášová Mária	čd.2957/35	0	11177
+2197	Dobiášová Paulína		0	10908,11514
+2197	Dobiášová Paulína	čd.2957/35	0	11177
+2197	Dobiášová Pavlína	čd.2957/1935	0	7376,8338
+2197	Dobošová Alojzia r. Tomešková		0	11435
+2197	Doskočilová Anna r. Karabová, SR		0	9890
+2197	Dospiva Jozef a Anna r. Majdiaková		0	12291
+2197	Drabant Anton	Č.D.5364/1925	0	5673
+2197	Drabant Anton	čd 5364/25, výmaz malol. v 1934	0	11568
+2197	Drabant Ján		0	966
+2197	Drabant Ján	čd.5198/1937	0	8716
+2197	Drabant Ján	m.Mária Haringová, čd.3859/25	0	11549,11550
+2197	Drabant Ján	manž. Mária rod. Haringová	0	1975

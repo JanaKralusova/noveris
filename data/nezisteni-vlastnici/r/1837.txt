@@ -1,0 +1,256 @@
+1070	Dugasová Alžbeta r. Ferencová		0	110,129,181,250,257,303,306,391,435,436
+1070	Dzačovská Katarína		0	233
+1070	Dzačovský Andrej		0	233
+1070	Dzačovský Ján		0	233
+1070	Dzačovský Michal		0	233
+1070	Dzačovský Štefan		0	233
+1070	Fejerčák Jozef		0	163,181
+1070	Fejerčák Jozef	1	0	164,382,443
+1070	Fejerčák Jozef	manželka Veronika r.Dziaková	0	45
+1070	Fejerčáková Alžbeta r. Šejgová	manžel Matej	0	181
+1070	Ferenc - Nižný Ján		0	306
+1070	Ferenc Andrej	1	0	282,303
+1070	Ferenc Andrej	Vyšný	0	122,129,181,391
+1070	Ferenc Ján	Vyšný	0	181,254,432,433,448
+1070	Ferencová Anna r. Benková		0	181,221,222,252,253
+1070	Gál Andrej		0	110,181,250,257,303,306,435,436
+1070	Gál Andrej	1	0	129,282,303,391
+1070	Gál Ján		0	110,181,250,257,303,306,435,436
+1070	Gál Ján	1	0	129,282,303,391
+1070	Galová Mária r. Ferencová		0	181,257,282,303,435,436
+1070	Geciková Anna r. Kačmárová	v USA	0	236,439
+1070	Gludienfond Július		0	181
+1070	Guman Andrej		0	43
+1070	Gumanová Anna r. Papcúnová		0	230,354,358
+1070	Hajdučin Štefan		0	225,226,227,228,255
+1070	Hajdučinová Anna r. Ferencová	vdova	0	129,181,257,282,303,306,391,435,436
+1070	Hajdučinová Barbora r. Juhasová	manžel Štefan	0	181,225,226,227,228,255
+1070	Harcsár Andrej		0	122,181,254,257,303,432,433,435,436,448
+1070	Harcsiar Andrej	manželka Anna r.Polohová	0	229
+1070	Harčar Andrej		0	181,246,299
+1070	Harčár Andrej	3	0	181,254,432,433,448
+1070	Harčárová Alžbeta r. Harčárová	1	0	181,254,432,433,448
+1070	Harčárová Anna r. Polohová	vdova	0	181
+1070	Homolová Mária r. Bednárová	manžel Michal	0	177,185,389
+1070	Hovan Andrej	manželka Anna r.Harčárová	0	181,258,307
+1070	Hovan Štefan		0	258,307
+1070	Hovanová Anna r. Harčárová	manžel Andrej	0	181,254,258,307,432,433,448
+1070	Hužlinská Mária r. Fejerčáková		0	49,163
+1070	Chovan Andrej		0	181
+1070	Chovan Štefan		0	176,181
+1070	Jarkovská Anna r. Meľuchová		0	366
+1070	Kacsmár Andrej	mladší	0	181,187,188,189,190,245,286
+1070	Kačmár Andrej		0	41,42,44,45,46,49,181,187,188,189,190,192,230,245,286
+1070	Kačmár Ján	2	0	44
+1070	Kačmár Juraj	3	0	181
+1070	Kačmár Juraj	manželka Mária r.Richtáriková	0	45,237
+1070	Kačmár Juraj	mladší	0	46,181,187,188,189,190,245,286
+1070	Kačmarová Alžbeta r. Hajdučinova	vdova	0	49
+1070	Kačmárová Barbora		0	41,42,43,44,45,46,49,181,187,188,189,190,192,230,245,286
+1070	Kačmárová Mária r. Richtáriková	manžel Juraj	0	237,288
+1070	Katusová Barbora	maloletá	0	181
+1070	Klefner Július		0	181
+1070	KRAJČÁKOVÁ Alžbeta r. Papcúnová		0	354,358
+1070	Krajňak Andrej		0	233
+1070	Krajňák Andrej	maloletý	0	109,170,178,181,248,249,251,294,295,296,332,333,334,390,460
+1070	Krajňák Andrej	manželka Anna r.Dorková	0	239
+1070	Krajňák Anna	maloletá	0	294
+1070	Krajňák Ján	1	0	170,181,233,248,249,251,294,295,332,333,334,390,460
+1070	Krajňák Jozef	1	0	233,249,332,333,334
+1070	Krajňák Matiaš	maloletý	0	109,181,238,239
+1070	Krajňák Štefan		0	181,233,248
+1070	Krajňák Štefan	1	0	109,170,181,238,239,249,251,294,295,332,333,334,390,460
+1070	Krajňáková Anna		0	170,181,233,248,390
+1070	Krajňáková Anna	maloletá	0	109,170,181,238,239,249,251,295,332,333,334,390,460
+1070	Krajňáková Anna r. Dorková		0	181
+1070	Krajňáková Mária		0	109,170,181,238,239,390
+1070	Krajňáková Veronika		0	170,390
+1070	Krajnyak Andrej		0	238
+1070	Kušnír Andrej		0	233
+1070	Macej Andrej		0	109,251,258,294,295,307,460
+1070	Macej Andrej	manželka Mária r.Richtáriková	0	181
+1070	Macej František		0	181,249,294,307,332,333,334
+1070	Macej Michal		0	181
+1070	Macej Štefan	1	0	108,109,110,251,294,295,460
+1070	Macejová Alžbeta r. Hovanova	manžel Andrej	0	258,307
+1070	Macejová Mária r. Hovanová		0	181
+1070	Macejová Mária r. Richtáriková		0	181,250,264,298
+1070	Macková Mária r. Olejárová		0	97,181,261,262,280,285,292
+1070	Micáková Anna r. Krajňáková		0	233
+1070	Mihal Andrej		0	301
+1070	Mihal Juraj		0	301
+1070	Mihal Michal		0	301
+1070	Michalová Anna r. Olejárová		0	97,181,261,262,280,285,292
+1070	OLEJÁR Ján		0	181,262,280,285,346,347
+1070	Olejár Juraj		0	97,181,261,262,280,285,292
+1070	Olejár Juraj	4	0	181,285
+1070	Olejár Juraj	5	0	181,285
+1070	Olejár Juraj	7	0	181
+1070	Olejár Juraj	mladší	0	181,261,292
+1070	Olejár Juraj	mladší manželka Anna r.Hovanová	0	181,285
+1070	Olejár Štefan	3	0	181,285
+1070	Olejár Štefan	4	0	181
+1070	Olejár Štefan	maloletý	0	181,285
+1070	OLEJÁR Štefan		0	347
+1070	Olejárová Anna		1	97,181,261,262,280,285,292
+1070	Olejárová Anna r. Hovanová	manžel Juraj	0	181,258,262,280,285,307
+1070	Olejárová Dorota	1	0	97,181,261,285,292
+1070	OLEJÁROVÁ Mária		0	347
+1070	OLEJÁROVÁ Mária r. Papcúnová		0	354,358
+1070	Olejárová Mária r. Priščáková	manžel Andrej	0	181,262,280,285
+1070	OLEJÁROVÁ Mária r. Priščáková		0	347
+1070	Olejárová Mária r. Richtáriková		0	181
+1070	Olejárová Veronika	maloletá	0	97,181,261,262,280,285,292
+1070	Pálová Mária r. Michalová		0	301
+1070	Papcún Andrej	manželka Terézia r.Sliacka	0	46,49,192
+1070	Papcún Matej	manželka Terézia r.Halická	0	181,187,188,189,190,245,286
+1070	Papcúnová Alžbeta r. Kačmárová		0	41,42,43,44,45
+1070	Pavlíková Anna r. Sopková	manžel Ján	0	181,257,282,303,435,436
+1070	Priščáková Mária		0	346
+1070	Richtárik Andrej		0	297
+1070	Richtarík Andrej r. Richtarík	mladší	0	39
+1070	Richtarík Ján	3	0	264
+1070	Richtárik Ján		0	251,294,295,460
+1070	Richtárik Ján	mladší	0	110,181,250,306
+1070	Richtárik Ján	mladší 1	0	129,391
+1070	Richtáriková Mária r. Lenártová	manžel Matej	0	48,122,133,181,236,237,439
+1070	Rozovičová Veronika r. Krajňáková		0	233
+1070	Sabolová Anna		0	224
+1070	Sejgová Alžbeta	2	0	181
+1070	Sejgová Mária		0	162,181,223,224,284
+1070	Sejgová Mária r. Fedorová		0	162,181,283
+1070	Sejgová Veronika		0	162,181
+1070	Sejgová Veronika	1	0	181,223,224,284
+1070	Sejgová Žofia	maloletá	0	162,181
+1070	Sejgová Žofia	maloletá 1	0	181,223,224,284
+1070	Sopková Anna r. Bednárová		0	181,250,306
+1070	Sopková Veronika r. Sejgová		0	110,181,250,257,282,303,306,435,436
+1070	Spišaková Margita	maloletá	0	233
+1070	Stavaka Andrej	manželka Anna r.Sopková	0	282,303
+1070	Szopko Andrej	maloletý	0	181,257,303,435,436
+1070	Szopko Július	maloletý	0	181,257,303,435,436
+1070	Szopková Veronika		0	181,257,303,435,436
+1070	Sztacsaková Zuzana r. Kiszaczká		0	238,239
+1070	Sztavaková Barbora r. Szopková	manžel Andrej	0	181,257,303,435,436
+1070	Šarišská Alžbeta r. Kačmárová		0	44,45,46,181,187,188,189,190,192,245,286
+1070	Šarišská Anna	1	0	265
+1070	ŠARIŠSKÁ Mária		0	265
+1070	Šarišská Mária r. Kačmárová		0	41,43,236,439
+1070	Šarišská Mária r. Sedláková	manžel Jozef	1	263,265,437
+1070	Šarišská Veronika r. Kováčová	manžel Andrej	0	271
+1070	Šarišský Ján	manželka Alžbeta r.Kačmárová	0	181
+1070	Šarišský Juraj	1	0	265
+1070	Šarišský Pavol	1	0	42
+1070	Šejbová Alžbeta r. Fejerčáková	manžel Matej	0	181
+1070	Šejgová Alžbeta r. Fejerčáková	manžel Matej	0	283
+1070	Šimočková Mária r. Macejová		0	181,299
+1070	Tarasovič Ján		0	124
+1070	Tarasovič Jozef		0	124
+1070	Tarasovič Juraj		0	124
+1070	Torok František		0	304
+1070	Toroková Henrieta r. Krajníková	manžel Július	0	304
+1070	Vanyszková Mária r. Szopková	manžel Matyas	0	181,257,282,303,435,436
+1070	Vaško Ján		0	109,181,290
+1070	Vaško Ján	2	0	251,294,295,460
+1070	Vašková Alžbeta r. Krajňáková, Janov, č. 45, PSČ 082 42, SR	pošta Bzenov	0	333
+1070	Zondoráková Mária r. Vašková		0	109,181,251,290,294,295,460
+1071	Anatal Václav		0	1216
+1071	Bahylová Zuzana r. Dobrotová	manž.Juraj	0	1369
+1071	Bahýlová Zuzana r. Dobrotová	vd., * 19.05.1871, zomrela 28.08.1955, Janova Lehota	0	1554
+1071	Beljančin František		0	1235
+1071	Beňo Gabriel		0	1190
+1071	Beňo Gabriel, ž.A.Hlaváčová ž.A.Hlaváčová		0	1590
+1071	Beňo Martin, ž.F.Červenáková ž.F.Červenáková		0	1570
+1071	Beňová Apolonia r. Hlaváčová		0	1190
+1071	Binder Ján	mal	0	1215,1328,1333,1440
+1071	Binder Karol	kúpa od Ferdinanda	0	1159
+1071	Binder Pavol		0	1160
+1071	Binder Pavol	kúpa od Ferdinanda	0	1159
+1071	Binder Pavol	mal.kúpa od Pavla	0	1159
+1071	Binderová Anna r. Weberová, 966 24, Janova Lehota, č. 48, SR		0	1159
+1071	Binderová Júlia, SR		0	797
+1071	Bubláková Cecília r. Weisová		0	1204
+1071	Čamaj Július	*06.11.1931,zomrel 09.09.2010, Kosorín	0	1479
+1071	Čech Michal	zom.2.4.1985	0	1194
+1071	Čiliaková Mária r. Bahýlová, SR	+14.4.1984	0	793
+1071	Čiliaková Mária r. Bahýlová, zomrela 14.04.1984 zomrela 14.04.1984		0	1582,1583
+1071	Danišová Emília r. Spišiaková		0	1272
+1071	Demiger Štefan		0	1307
+1071	Derer Pavol		0	1364,1666
+1071	Dobrota Pavel, ž.A.Mesíková ž.A.Mesíková		0	1622,1623
+1071	Ďurčaniová Klára		0	1280
+1071	Dvonková Žofia r. Kršiaková	*01.10.1922, zomrela 16.05.2003, Kosorín	0	1636
+1071	Filko Jozef	manž.Mária r. Mikulajová	0	1108,1175
+1071	Filko Jozef, ž.M.Mikulajová ž.M.Mikulajová		0	1495
+1071	Filková Mária r. Mikulajová		0	1175
+1071	Fischer Leopold	ded.po Izidorovi	0	1129,1243,1244,1248,1363,1364,1365,1366,1374,1666,1667
+1071	Frommel Pavol		0	1303,1727
+1071	Frommelová Rozália r. Stredáková		0	1361
+1071	Frzon Ferdinand	*11.04.1914, zomrel 15.05.2004, Kosorín	0	1634
+1071	Frzon František	*09.01.1936, zomrel 08.03.2007, Žiar nad Hronom	0	1479
+1071	Gajdoš Martin	manž.Eva r. Žbirková	0	1292
+1071	Gajdoš Martin, ž.E.Žbirková ž.E.Žbirková		0	1535,1536
+1071	Gajdošová Eva r. Žbirková		0	1292
+1071	Galádiková Anna r. Balážová	*14.09.1893, zomrela 18.06.1989, Janova Lehota	0	1532
+1071	Grossová Mária r. Dererová		0	1364,1666
+1071	Harich Adam	manž.Júlia r. Heďová	0	1296
+1071	Harich Adam, ž.J.Heďová ž.J.Heďová		0	1540
+1071	Harichová Júlia r. Heďová		0	1296
+1071	Hlaváč Jozef	*29.12.1919, ž.M.Lalová	0	1484
+1071	Hranická Anna r. Zavažanová		0	1373
+1071	Hranický Jozef		0	1373
+1071	Chujac Jozef	*25.06.1933, zomrel 28.12.1998, Janova Lehota	0	1634
+1071	Ivanič Ján, ml., ž.Ž.Berešíková ml., ž.Ž.Berešíková		0	1504
+1071	Kalužník Augustín		0	1230
+1071	Karásek Peter	manž.Anna r. Čechová	0	1199
+1071	Karáseková Anna r. Čechová		0	1199
+1071	Kartal Viliam		0	1157
+1071	Kösegyová Sabína r. Frzoňová	*28.08.1904, zomrela 13.12.1981	0	1636
+1071	Kubovská Emília r. Ivanová		0	1252
+1071	Kubovský Emil	manž.Emília r. Ivanová	0	1252
+1071	Kubovský Emil, ž.E.Ivanová ž.E.Ivanová		0	1593
+1071	Kúdela Ľudovít	*02.01.1926, zomrel 10.09.2008, Kremnica	0	1479
+1071	Kúdela Martin	manž.Anna r. Červeňáková	0	1132
+1071	Kúdela Martin, ž.A.Červenáková ž.A.Červenáková		0	1519
+1071	Kúdelová Anna r. Červeňáková		0	1132,1527
+1071	Kúšik Štefan		0	1287
+1071	Langová Justína r. Vanková		0	1285
+1071	Legíň František	manž.Cecília r. Rákocziová	0	1147
+1071	Legíň Michal	manž.Anna r. Muchová	0	1170
+1071	Legíňová Anna r. Muchová		0	1170
+1071	Linkeš Štefan	*21.08.1924, zomrel 28.10.2005, Kosorín	0	1479
+1071	Mokoš Ondrej	mal	0	1307
+1071	Mokoš Tomáš		0	1372
+1071	Námestná Zlatica	Borcovanová	0	1177
+1071	Námestný Ján	manž.Zlatica r. Borcovanová	0	1177
+1071	Námestný Ján, ž.Z.Borcovanová ž.Z.Borcovanová		0	1610,1611
+1071	Németh Aurel, ž.M.Buríková ž.M.Buríková		0	1595
+1071	Palik Jozef	manž.Mária r. Petruchová	0	1251
+1071	Pašáková Adela		0	1271
+1071	Pavlová Paulína r. Obertášová	*18.11.1899, zomrela 08.10.1996, Lovčica-Trubín	0	1486
+1071	Petrová Petra r. Petrová, RNDr., Medvedzie 165/48-36, Tvrdošín, PSČ 027 44, SR		0	322
+1071	Pivarčiová Kveta	dátum narodenia 14.05.1949	0	1636
+1071	Pivarčiová Marta	dátum narodenia 27.01.1951	0	1636
+1071	Pogadla Juraj	mal.ded.po Jurajovi Vankovi	0	1283,1285
+1071	Pogadla Roman	kúpa od Tekly Fritzovej	0	1238
+1071	Pogádlová Agneša		0	1330
+1071	Pogadlová Juliana	mal.ded.po Jurajovi Vankovi	0	1285
+1071	Pogádlová Katarína r. Mistríková		0	1238,1240
+1071	Poliaková Emília r. Ivanová	vd.; manž. bol Ján	0	1119
+1071	Poliaková Emília r. Ivanová	vd.manž. bol Ján	0	1214
+1071	Rákoczi František	kúpa od Júliusa	0	1322
+1071	Rákoczi František	mal.ded.po Jozefovi	0	1322
+1071	Rákoczi Ján	kúpa od Júliusa	0	1322
+1071	Rákoczi Pavol	kúpa od Júliusa	0	1330
+1071	Rákoczy František	*01.06.1914, zomrel 30.05.1995, Janova Lehota	0	1636
+1071	Rákoczy Juraj		0	1163
+1071	Rákoczyová Alžbeta r. Binderová	*01.05.1919, zomrela 07.08.2011, Janova Lehota	0	1522
+1071	Regináčová Mária r. Magulová, SR		0	1061
+1071	Repiská Mária r. Zátrochová		0	1224,1637
+1071	Repiský Ján	manž.Mária r. Zátrochová	0	1224
+1071	Repiský Ján, ž.M.Zátrochová ž.M.Zátrochová		0	1526,1637
+1071	Rosenberger Adolf	*15.02.1934, zomrel 29.08.1998, Žiar nad Hronom	0	1636
+1071	Rosenberger Anton, ž.V.Pavelková ž.V.Pavelková		0	1478
+1071	Rosenbergerová Vlasta r. Pavelková		0	1478
+1071	Roško Ján	manž.Emília r. Kaczmarská	0	1152
+1071	Roško Ján, ž.E.Kaczmarská, zomrel 31.08.1950 ž.E.Kaczmarská, zomrel 31.08.1950		0	1600,1601

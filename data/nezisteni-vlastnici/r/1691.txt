@@ -1,0 +1,256 @@
+985	Mathiová Verona r. Smolková		0	371
+985	Mikovič Jozef	nebohý	0	47
+985	Mikovič Robert r. Mikovič		0	430
+985	Mikovičová Veronika r. Štofková		0	510
+985	MIKULA Ján		0	696
+985	MIKULOVÁ Alžbeta		0	696
+985	MIKULOVÁ Anna		0	696
+985	Mikulová Mária r. Holomaňová		0	563
+985	MIKULOVÁ Zuzana		0	696
+985	MIŠKUF Andrej		0	49,58,66,173,174,309,331,368,440,442,524,611,616,629,630,631,742,767,779,780,1022
+985	MIŠKUF Ján		0	331
+985	Miškuf Ján r. Miškuf		0	49,58,66,173,174,192,309,368,440,442,524,611,629,630,631,767,779,780,1022
+985	Miškuf Ján r. Miškuf	dátum úmrtia:03.09.1995	0	58,1022
+985	Miškuf Ján r. Miškuf	zomrel 26.9.1953	0	408
+985	MIŠKUF Jozef		0	47,49,50,55,57,58,173,174,309,331,368,430,440,450,451,475,524,545,627,628,629,630,631,746,747,748,767,779,780,940,1022
+985	MIŠKUF Matej		0	58,1022
+985	Miškuf Štefan	nebohý	0	47,49,50,55,57,173,174,331,430,440,450,451,475,627,628,629,630,631,746,747,748,767,779,780,940
+985	Miškufová Alžbeta r. Ščavnická		0	58,1022
+985	MIŠKUFOVÁ Anna r. Balunová		0	331,440,656
+985	Miškufová Mária r. Hudáková		0	331,440,545,616,742
+985	Miškufová Mária r. Tomášová		0	331,440
+985	MIŠKUFOVÁ Rosemary		0	46,52,56,105,274,331,440
+985	MIŠKUFOVÁ Veronika		0	58,1022
+985	Miškufová Zuzana	nebohá	0	58,66,331,440,442,1022
+985	Molčan Anton	z Prešova	0	606
+985	Molčan František	z Košíc	0	606
+985	Molčan Jozef	CHNV	0	72,506,634,693
+985	Molčan Jozef	z Bratislavy	0	606
+985	MOLČAN Pavol		0	606
+985	Molčanová Anna r. Balunová	CHNV	0	72
+985	Molčanová Helena	z Havířova	0	606
+985	Molčanová Mária	Viedeň	0	606
+985	NOVOTNÝ Andrej		0	616,742
+985	OLEJNÍK Albert		0	553
+985	OLEJNÍK Bartolomej		0	58,68,71,588,616,634,742,1022
+985	Olejník Jozef	CHNV	0	72,616,742
+985	Olejník Karol	CHNV	0	58,68,71,72,634,1022
+985	Olejník Karol	nebohý	0	616,742
+985	Olejník Karol	neznámy	0	588
+985	Olejníková Janka	CHNV	0	58,68,71,72,588,634,1022
+985	Olejníková Janka	nebohá	0	552,616,742,784
+985	Olejníková Margita	CHNV	0	58,68,71,72,634,1022
+985	OLEJNÍKOVÁ Mária		0	588
+985	Olejníková Mária r. Vargová		0	589
+985	Olejníková Pavlína	CHNV	0	58,68,71,72,634,1022
+985	Oľšavská Anna	CHNV	0	340,410,411,611,634
+985	Oľšavská Anna r. Jeremiášová	CHNV	0	72,634
+985	Oľšavská Helena	CHNV	0	340,410,411,611,634
+985	Oľšavská Margita	CHNV	0	340,410,411,611,634
+985	Oľšavská Mária	CHNV	0	340,410,411,611,634
+985	Oľšavská Žofia	CHNV	0	340,410,411,611,634
+985	Oľšavský Andrej	CHNV	0	72
+985	Oľšavský Ján	CHNV	0	72
+985	Oľšavský Jozef	Chminianska Nová Ves	0	72
+985	Oľšavský Jozef	CHNV	0	72,586,634
+985	Oľšavský Matej	CHNV	0	72,340,410,411,634
+985	ONDERČO Ján		0	778
+985	ONDIRKO Anton		0	567
+985	Ondirko Imrich	CHNV	0	58,1022
+985	ONDIRKO Jozef		0	616,742
+985	Ondirková Anna r. Kováčová		0	58,1022
+985	ONDREJ Andrej		0	693
+985	ONDREJKO Ondrej		0	331,440
+985	Ondrejková Anna r. Ivanová		0	693
+985	Ondrejková Anna r. Ivanová	nebohá	0	331,440,644,745,890,1042,1043
+985	Ondrejková Anna r. Tartaľová		0	544,616,742
+985	Ondrejková Mária r. Tartaľová		0	544,616,742
+985	Ondrejková Mária r. Tartaľová	nebohá	0	55,430,475,627,628,748
+985	ONDREJKOVÁ Mária r. Tartaľová, SR	nebohá	0	940
+985	Oreščáková Mária r. Kalinová		0	72
+985	PAVĽAK Imrich		0	302,331,440
+985	Pavľak Imrich r. Pavľak		0	236
+985	PAVĽAK Štefan		0	302,331,440
+985	Pavľak Štefan r. Pavľak		0	236
+985	PETRAŠKO Andrej		0	648
+985	Pollák Ferdinand		0	331
+985	Pollák Ferdinand, Dr.		0	440
+985	PORÁČ Jozef		0	688,698,700
+985	Priščáková Mária r. Dudášová		0	331,440
+985	Rigasová Mária r. Marcinčinová	narodená 19.12.1919	0	561,598
+985	Roth Leo, Dr.		0	331,440
+985	Sabolová Anna r. Harničárová		0	505
+985	Smolko Andrej	nebohý	0	55
+985	Smolko Andrej	ž.Anna rod.Mathiová	0	371,616,742
+985	SMOLKO Andrej		0	58,371,521,528,616,742,783,1022
+985	Smolko Ján	nebohý	0	442
+985	Smolko Matej	nebohý	0	47,55,57,58,430,475,627,628,746,748,940,1022
+985	SMOLKO Matej		0	521
+985	SMOLKOVÁ Anna		0	371
+985	Smolková Anna r. Kočanová	nebohá	0	55
+985	Smolková Anna r. Ščerbaková		0	58,783,1022
+985	Smolková Apolonia r. Tobiášová		0	331,440
+985	Sobel Ladislav, Dr.		0	72
+985	SOBELOVÁ Alica		0	72
+985	SOBELOVÁ Alžbeta		0	72
+985	SOPKO Štefan		0	58,1022
+985	SPIŠÁK Štefan		0	648
+985	Stanková Mária r. Hudáková		0	547
+985	Starec Jozef		0	534
+985	STARINCOVÁ Anna r. Kelemešová		0	72
+985	STARINEC Jozef		0	535,536,538,539
+985	STAŠÍK Ján		0	331,440,693
+985	STAŠÍK Juraj		0	693
+985	STAŠKO Ján		0	331,440
+985	STAŠKO Juraj		0	331,440
+985	Stašková Anna r. Ivanová		0	331,440
+985	Straka Andrej	nebohý	0	58,209,244,290,331,440,449,728,887,1015,1022
+985	STRAKA Andrej		0	331,440,616,742
+985	STRAKA Filip		0	58,166,209,290,331,440,449,616,728,742,887,1015,1022
+985	STRAKA Jozef		0	166,209,244,331,440,887,1015
+985	STRAKA Matej		0	166,331,440,449,562
+985	STRAKA Ondrej		0	166,209,331,440,887,1015
+985	Straková Alžbeta r. Hudáková		0	562
+985	STRAKOVÁ Alžbeta r. Polohová		0	166,290,331,440,449,616,728,742
+985	Straková Margita r. Jánošíková	nebohá,21.03.1908	0	620
+985	STRAKOVÁ Mária r. Hudáková		0	58,166,529,616,742,1022
+985	Straková Mária r. Ščerbáková		0	616,742
+985	ŠALAMUN Ján		0	72,634
+985	ŠALAMUN Matej		0	72,616,742
+985	Šalamun Matej r. Šalamun		0	72,634
+985	Šalamunová Mária r. Hudáková	narodená 26.1.1930	0	233
+985	Ščavnická Mária r. Ondirková	CHNV	0	616,742
+985	Ščavnická Mária r. Ondriková	CHNV	0	72,634
+985	Ščerbák Jozef	žena Mária	0	331,690
+985	Ščerbák Matej	manželka Anna r.Vargová	0	623,624
+985	Ščerbáková Mária r. Priščáková		0	331,440,690
+985	ŠIMOČKO Štefan		0	331,440,659,690
+985	Špirová Helena r. Herskovičová		0	331,440
+985	ŠTEFUROVSKÝ Karol		0	696
+985	Štofko Anton r. Štofko		0	593,616
+985	Štofko Anton r. Štofko	zomrel 16.3.1997	0	742
+985	Štofko Ján	nebohý	0	388
+985	ŠTOFKO Juraj		0	548
+985	ŠTOFKO Štefan		0	331,440,593,616,742
+985	Štofko Viktor	narodený 4.5.1941	0	331,440
+985	ŠTOFKO Vincent		0	331,440,693
+985	Štofková Alžbeta r. Štofková		0	331,440
+985	Štofková Anna r. Juhásová		0	331
+985	Štofková Anna r. Konečná		0	142
+985	ŠTOFKOVÁ Mária		0	616,742
+985	ŠTOFKOVÁ Zuzana		0	331,440
+985	Štofová Anna r. Juhásová		0	440
+985	TENSELBAUM Achus		0	344,634
+985	TENSELBAUM Laci		0	634
+985	TENSELBAUM Levi		0	344
+985	TENTELBAUN Artúr		0	72
+985	TENTELBAUNOVÁ Lena		0	72
+985	TKÁČ Štefan		0	648
+985	Tkáčová Paulína r. Hadariová		0	689
+985	Tobiašová Anna r. Čišľaková	CHNV	0	72,357,634
+985	TOMÁŠ Jozef		0	698
+985	Tomáš Valent		0	180,181,241,307,331,365,366,385,440,680
+985	TOMÁŠ Valentín		0	331,440
+985	TOMAŠOVÁ Mária		0	611
+985	Tomko Imrich	CHNV	0	72,356,503,531,555,634
+985	TOMKO Ján		0	553
+985	TOMKO Jozef		0	531,555
+985	Tomková Mária r. Krivá		0	503,579
+985	Umenská Zuzana r. Hadariová		0	689
+985	URBANCOVÁ Alžbeta		0	588,589
+985	Urbancová Alžbeta r. Grejtáková	CHNV	0	376,572
+985	URBANCOVÁ Anna		0	588,610,611
+985	URBANCOVÁ Apolonia		0	610
+985	Urbancová Veronika r. Svatová		0	688,698
+985	VAŇO Matej		0	518,568
+985	Vaško Jozef	ml	0	687
+985	Vašková Anna r. Štofková		0	532
+985	Veliká Veronika r. Čišľaková	CHNV	0	72,357,634
+985	VLASATÁ Mária		0	47,50,55,57,430,450,451,475,627,628,746,747,748,940
+985	VOJTKO Anton		0	684
+985	Zábavová Žofia r. Štofková		0	532,616,742
+986	Adamisová Mária r. Marinicová		0	1501
+986	Adamová Zuzana r. Miškufová		0	1484,1500,1755,1843,1885
+986	Adamovič Ján		0	1500
+986	Anderko Ján		0	510,837
+986	Andreanská Žofia		0	100,1748
+986	Andreánska Žofia r. Jurušová		0	99,1884
+986	Andrejková Apolonia r. Krivá		0	864
+986	Balažová Anna r. Kacvinská		0	1506
+986	Balun Andrej		0	108,648,669,995,1642,1648,1936
+986	Balun Anton		0	256
+986	Balun Ján		0	1500
+986	Balun Jozef		0	392,782,827,1012,1168,1508,1510
+986	Balun Jozef	manželka Mária r.Kočanová	0	827
+986	Balun Jozef	Mikuláš	0	998,1001,1212
+986	Balun Jozef	syn Štefana	0	827
+986	Balun Karol		0	782
+986	Balun Martin		0	357
+986	Balun Martin	neznámy	0	99,1884
+986	Balun Matej		0	782
+986	Balun Štefan		0	793,1012,1508,1510
+986	Balunová Alžbeta		0	357,874
+986	Balunová Alžbeta r. Kozaková		0	345
+986	Balunová Alžbeta r. Olejníková		0	789
+986	Balunová Anna		0	345,346,347,348,357,874
+986	Balunová Mária		0	793
+986	Balunová Mária r. Lešková		0	108,1054,1642,1648
+986	Balunová Zuzana r. Purdová		0	1012
+986	Balunová Žofia		0	345,346,347,348,357,874
+986	Bašary Imrich		0	1500
+986	Bašary Jozef		0	1231,1503
+986	Bašary Jozef	nebohý	0	1484,1755,1843,1885
+986	Bašaryová Františka r. Tkáčová		0	889
+986	Bašaryová Mária		0	108,889,1500,1642,1648
+986	Bašaryová Zuzana		0	1500
+986	Bekeč Ján		0	835
+986	Bekeč Jozef		0	835
+986	Bekeč Matej		0	835
+986	Bernát Adalbert		0	1160
+986	Bernát Lukáš		0	1160
+986	Bernáthová Pavlína r. Olejníková		0	99,108,114,734,736,1642,1648,1884
+986	Bernátová Alžbeta r. Kacvinská	nebohá	0	1484,1755,1843,1885
+986	Bernátová Anna		0	1160
+986	Bernátová Helena		0	1160
+986	Bernátová Mária		0	1160
+986	Bernátová Žofia		0	1160
+986	BERTOTHOTY Štefan r. Bertothoty		0	1682
+986	Bochnovič Alexander		0	1508,1510
+986	Bochnovič Karol		0	800,875
+986	Brandt Andrej		0	108,1182,1642,1648
+986	Brandt Štefan		0	108,1182,1183,1500,1506,1642,1648
+986	Brandtová Anna		0	1500
+986	Brandtová Anna r. Lopuchovská		0	1183
+986	Brandtová Elena		0	1506
+986	Brandtová Mária		0	1506
+986	Brincko Štefan		0	1500
+986	Brozmanová Veronika r. Čirizová		0	372,1497,1498,1508,1510
+986	Centko Jozef		0	95
+986	Cmorová Anna r. Macková		0	98,99,100,1748,1884
+986	Čeľovská Mária r. Čišľáková		0	572,1483,1508,1510,1517
+986	Čiriz Jozef		0	372,1497,1498,1508,1510
+986	Čišľák Andrej		0	572,1483
+986	Čišľak Anton		0	95,435,617,753,850,876
+986	Čišľák Jozef		0	572,1483
+986	Čišľák Juraj		0	99,1884
+986	Čišľak Ondrej		0	1508,1510,1517
+986	Čišľak Štefan		0	572,1483,1508,1510,1517
+986	Čišľáková Anna		0	572,1483,1508,1510,1517
+986	Čišľáková Anna r. Tobiášová		0	782
+986	Čišľáková Barbora		0	572,1483
+986	Čišľáková Mária		0	572,1483,1508,1510,1517
+986	Davidová Alžbeta r. Kalinová		0	883
+986	Dlugoš Andrej		0	189
+986	Dlugoš Bartolomej		0	169,1838
+986	Dlugoš František		0	169,188,189,1444,1543,1838
+986	Dlugoš Ján		0	169,188,189,208,1838
+986	Dlugoš Jozef		0	169,188,189,331,333,1444,1543,1838
+986	Dlugoš Štefan		0	169,188,331,333,1444,1494,1543,1838
+986	Dlugoš Valent		0	189
+986	Dlugoš Vincent r. Dlugoš		0	1543
+986	Dlugošová Anna r. Kiktavá		0	896,1886
+986	Dlugošová Františka		0	331,333
+986	Dlugošová Katarína		0	169,189,1838
+986	Dlugošová Katarína r. Gontkovičová		0	1494
+986	Dlugošová Margita		0	169,1838
+986	Dlugošová Terézia r. Vaľová		0	188,189,208,1444,1543

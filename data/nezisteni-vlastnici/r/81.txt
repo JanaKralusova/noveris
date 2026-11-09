@@ -1,0 +1,256 @@
+61	BALÁŽOVÁ Mária		0	949
+61	Balážová Vilma		0	561,960,966,968
+61	Bartko Ján		1	1146
+61	Bartko Juraj		1	1146
+61	Bartko Matúš		1	1146
+61	Bartková Mária vd.		1	1146
+61	CIBULA Anton		0	881
+61	CIBULA Jan		0	949
+61	CIBULA Ján	Boldok,ž.Mária r.Kordíková	0	993
+61	CIBULA Ján	fundus	0	949
+61	CIBULA Jozef	dolný	0	949
+61	Cibuľa Jozef	ded. po bratovi Jánovi, B.Studenec č.d. 60	0	560,889
+61	Cibula Pavel	ž.Zuzana r.Balážová	0	634
+61	CIBULA Pavel		1	835,1146
+61	CIBULA Pavol		0	949
+61	CIBULA Štefan		0	949
+61	CIBULA Štefan	Hanzo	0	949
+61	CIBULA Štefan	Ondreja	0	949
+61	CIBULA Štefan	Zachar,manž.Barbora r.Baťková	0	646
+61	CIBULA Štefan	Zachar,ž.Barbora r.Baťková	0	645
+61	CIBULOVÁ Anna		0	949
+61	CIBULOVÁ Cecília	r.Kindernajová	0	619
+61	CIBULOVÁ Emília		0	889
+61	CIBULOVÁ Justína	Banský Studenec	0	472,619,620,688,839,840,979,984,985,1119,1122,1130
+61	CIBULOVÁ Justína	maloletá,Banský Studenec	0	471,986,987
+61	CIBULOVÁ Mária	r.Gregáňová,č.103,Banský Studenec	0	522,736,918,1251,1293,1294
+61	CIBULOVÁ Zuzana	r.Gregáňová,č.83,Banský Studenec	0	646
+61	CIBULOVÁ Zuzana	r.Mlynáriková	0	132,1150
+61	DANIEL Pavel	č.138,Banský Studenec	0	982
+61	DANIELOVÁ Anna		0	949
+61	DANIELOVÁ Anna	Banský Studenec	0	471,472,619,620,839,840,978,982,984,985,986,987,1119,1122,1130
+61	DANIELOVÁ Zuzana	Banský Studenec	0	471,472,619,620,839,840,978,982,984,985,986,987,1119,1122,1130
+61	DECLERCGOVÁ Jolana	r.Ďuricová,č.60,Svätý Anton	0	995
+61	DOBRÍK Jakub	Banský Studenec	0	560,976
+61	DOBRÍK Jan		0	949
+61	DOBRÍK Ján	Banský Studenec	0	560,976
+61	DOBRÍKOVÁ Mária	Banský Studenec	0	560,976
+61	DOBRÍKOVÁ Zuzana	Banský Studenec	0	560,976
+61	ĎURICOVÁ Mária		0	949
+61	Ďuricová Mária r. Ihradská	vdova,n.1941,Banský Studenec	0	557,1203
+61	ĎURICOVÁ Zuzana	r.Zorvanová,Krupina	0	560,976
+61	FINDRICHOVÁ Zuzana		0	949
+61	GAŠPARÍK Ján		0	949
+61	GAŠPARÍK Štefan		0	949
+61	GREGÁŇ Dominik	Banský Studenec	0	127,522,523,736,918,1251,1293,1294
+61	Gregáň Ján		0	308,949
+61	GREGÁŇ JÁNYI Mária		0	949
+61	GREGAŇ Jozef		0	949
+61	GREGÁŇ Michal		0	949
+61	GREGAŇ Štefan		0	949
+61	GREGÁŇ Štefan	č.111,Banský Studenec	0	522,736,918,1251,1293,1294
+61	GREGÁŇOVÁ Anna		0	949
+61	GREGÁŇOVÁ Cecília		0	1005
+61	GREGÁŇOVÁ Doloresa		0	1005
+61	GREGÁŇOVÁ Mária	r.Ihradská	0	1008
+61	HLUCHOVÁ Margita	r.Gregáňová	0	736
+61	HOLÁ Cecília	r.Santorisová	0	522,736,918
+61	Horniaková Kristína		0	308
+61	HUDECOVÁ Zuzana	r.Gregorová,Maďarsko	0	522,736,918,1251,1293,1294
+61	Hudecová Zuzana r. Gregáňová	Maďarsko	0	420
+61	IHRACKÁ Zuzana		0	949
+61	IHRACKÝ Alojz		0	949
+61	IHRACKÝ Izidor		0	949
+61	IHRACKÝ Ján		0	949
+61	IHRACKÝ Jozef		0	949
+61	IHRACKÝ Pavel		0	949
+61	IHRACKÝ Štefan		0	949
+61	IHRADSKÁ Anna	r.Kindernajová,Handlová	0	471,472,619,620,839,840,984,985,986,987,1119,1122,1130
+61	IHRADSKÁ Zuzana	r.Gregáňová	0	522,736,918
+61	IHRADSKÁ Zuzana	r.Gregáňová,č.77,Banský Studenec	0	522,736,918,922,1251,1293,1294
+61	IHRADSKÝ Štefan	ž.Katarína r.Santorisová,Banský Studenec	0	998,1216
+61	JÁNYI Martin		0	949
+61	KAŠIAR Michal		0	949
+61	Kindernaj Ján		1	329
+61	KINDERNAJ Ján	slobodný,č.45,Banský Studenec	0	471,472,619,620,839,840,984,985,986,987,1119,1122,1130
+61	KINDERNAJ Martin		0	949
+61	Kindernajová Emília		1	329
+61	KINDERNAJOVÁ Emília	č.45,Banský Studenec	0	471,472,619,620,839,840,984,985,986,987,1119,1122,1130
+61	Kindernajová Emília r. Mlynáriková, 969 01, Banský Studenec, SR		0	820,1149
+61	Kindernajová Katarina		1	329,949
+61	KINDERNAJOVÁ Katarína	r.Cibulová,č.45,Banský Studenec	0	471,472,619,620,839,840,984,985,986,987,1119,1122,1130
+61	Kindernajová Zuzana		1	329
+61	KINDERNAJOVÁ Zuzana	č.45,Banský Studenec	0	471,472,619,839,840,984,985,986,987,1119,1122,1130
+61	KMEŤOVÁ Zuzana	a spol	0	949
+61	KOBRÁDEK Štefan		0	949
+61	KOHÚT Celestín		0	949
+61	KORDÍK Ján		0	949
+61	Kosorínová Eva r. Vodnáková, Banský Studenec, č. 182, SR		0	427
+61	KRIŠKOVÁ Gizela	r.Gregáňová	0	1005
+61	KUKUČKA Ján	a man	0	949
+61	Lalík Juraj		1	1146
+61	Lalík Pavel		1	1146
+61	Lasab Pavel		1	1146
+61	Lupták Ján		1	1146
+61	Lupták Juraj		1	1146
+61	LUPTÁKOVÁ Mária	r.Bartková,Svätý Anton	0	560,976
+61	MALČEKOVÁ Božena	Banský Studenec	0	628
+61	MARKO Štefan		0	949
+61	Mlynáriková Anna, 969 01, Banský Studenec, SR		0	855
+61	MLYNÁRIKOVÁ Maria		0	949
+61	NECPÁLOVÁ Anna	r.Bartková,Banská Štiavnica	0	560,976
+61	ORAVEC Ján		0	949
+61	ORAVEC Július	Banský Studenec	0	711
+61	ORAVEC Július, Jaskový rad č.598, 83101 Bratislava 37		0	711
+61	ORAVEC Juraj	ž.Anastázia r.Knezovičová,109,B.Studenec	0	906
+61	ORAVEC Štefan		0	949
+61	ORGONY Július		0	949
+61	PALOVIČOVÁ Gabriela r. Cibulová, Banský Studenec, SR nar.1933		0	833
+61	PAPRČKA Pavel		0	949
+61	PAPRČKOVÁ Emília		0	949
+61	PETKO Ján	Anna	0	949
+61	PEŤKO Ján	ž.Zuzana r.Santorisová,Banský Studenec	0	522,736,918,1251,1293,1294
+61	PETKO Jozef		0	949
+61	PETKO Štefan		0	949
+61	PEŤKOVÁ Eva	r.Cibulová,č.177,Banská Belá	0	889
+61	RADOVSKÝ Ján	a spol	0	949
+61	SANTORIS Ján		0	238
+61	SANTORIS Ján	Banský Studenec	0	522,736,918,921,1251,1293,1294
+61	SANTORIS Jozef		0	949
+61	SANTORIS Štefan	Banský Studenec	0	522,736,918,921,1251,1293,1294
+61	Santoris Štefan, Banský Studenec, č. 11, SR		0	423
+61	Santoris Štefan, Zvolen, SR		0	238
+61	SANTORISOVÁ Anna	r.Peťková,č.11,Banský Studenec	0	522,736,918,1251,1293,1294
+61	SANTORISOVÁ Katarina		0	949
+61	SANTORISOVÁ Katarína	Maďarsko	0	522,736,918,1251,1293,1294
+61	SANTORISOVÁ Mária	Banský Studenec	0	522,736,918,1251,1293,1294
+61	SANTORISOVÁ Mária	Martin	0	949
+61	SANTORISOVÁ Mária	r.Cibuľová,Banský Studenec	0	964
+61	SANTORISOVÁ Zuzana	r.Smrtníková,č.112,Banský Studenec	0	522,736,918,1251,1293,1294
+61	SMRTNÍKOVÁ Katarína		0	522,736,918,1251,1293,1294
+61	SPIŠIAK Jan		0	949
+61	SPIŠIAK Štefan		0	949
+61	STRAČINOVÁ Anna	r.Kašiarová	0	879
+61	Strelec Ján		1	1146
+61	Strelec Juraj		1	1146
+61	STRELEC Juraj	ml	0	835
+61	Strelec Juraj ml.		1	1146
+61	Strelec Pavel		1	1146
+61	ŠIMONÍKOVÁ Veronika	r.Vantechová	0	966
+61	ŠIMUNIKOVÁ Verona		0	949
+61	ŠIMUNIKOVÁ Veronika		0	949
+61	ŠTANG Ján		0	949
+61	ŠTANG Jozef		0	949
+61	TEREŇOVÁ Viera	Banská Štiavnica	0	1014
+61	Tököly Alžbeta	r.Bartošová,Banský Studenec	0	866
+61	VANTECH Ján		0	563,949
+61	VANTECH Jozef	Banský Studenec	0	976
+61	VANTECHOVÁ Anna	r.Zorvanová	0	697
+61	VANTECHOVÁ Cecília	r.Spišiaková	0	522,533,736,918,1251,1293,1294
+61	VANTECHOVÁ Emília	r.Spišiaková	0	933
+61	VANTECHOVÁ Emília	r.Zorvanová,manž.Štefan	0	869
+61	Vantechová Emília r. Zorvanová, Banský Studenec č. 100		0	782
+61	Vantechová Emília r. Zorvanová, Banský Studenec, č. 100, SR		0	340
+61	Vodnák Jozef, Banský Studenec, č. 182, SR		0	427
+61	Vodnáková Emília, Žarnovica, SR		0	427
+61	WEINHOLTOVÁ Otília	r.Gregáňová	0	1005
+61	ZIGLEROVÁ Anna	Dobríková,Banský Studenec	0	560,976
+61	ZORVAN Jan		1	949,1146
+61	ZORVAN Ján	m.Mária Santórisová,Banský Studenec 141	0	848
+61	ZORVAN Ján	ž.Mária r.Kindernajová	0	879
+61	ZORVAN Juraj		0	949
+61	ZORVAN Michal		0	949
+61	ZORVAN Ondrej	a spol	0	949
+61	ZORVAN Štefan		0	949
+61	ZORVANOVÁ Maria		0	949
+61	Zorvanová Mária r. Selepčeny, Banský Studenec 79, Banská Štiavnica, PSČ 969 01, SR		0	498,748,749
+61	ZORVANOVÁ Terezia		0	949
+61	ZORVANOVÁ Terézia	r.Zorvanová	0	960,966
+61	Zorvanová Terézia r. Zorvanová		0	561
+61	ZORVANOVÁ Zuzana		0	949
+62	ÁRVAY Gejza		0	86,87,164,177
+62	BABICOVÁ Albína	neb	0	260
+62	BABIK Jozef		0	105,106,292,298,317,334
+62	BABIKOVÁ Gizela r. Ruzsinszkiová		0	106,123,135,292,298,317,334
+62	BAJNOKOVÁ Zuzana r. Balázsová	muž Ondrej	0	262,352
+62	BAJNOKOVÁ Zuzana r. Balázsová	muž Ondrej,vd	0	88,230,234
+62	Balyová Irma r. Nagyová	vd	0	79,281,282
+62	BALYOVÁ Irma r. Nagyová		0	80,102,328
+62	BARÁTHOVÁ Irma r. Csoltóová		0	86,87,164,177
+62	BÁRDOSOVÁ Barbora r. Vargová		0	123
+62	BARNA Štefan		0	219
+62	BARTÓK Ján		0	106,292,298,317,334
+62	BARTÓKOVÁ Mária r. Siketová	muž Michal	0	106,123,134,292,298,317,334
+62	BATTOVÁ Jolana		0	106,292,298,317,334
+62	BETTES Ján	felsö	0	102,282
+62	CSÁK Baltazár		0	123
+62	Csák Ján	ml	0	106,123,292,298,334
+62	CSÁK Ján		0	106,123,237,292,298,317,334
+62	CSÁK Ján	ž.Margita r.Vinczeová	0	210,224
+62	Csák Jozef	2	0	106,292,298,334
+62	Csák Jozef	mal	0	106,292,298,334
+62	CSÁK Jozef		0	123,317
+62	CSÁK Jozef	ž.Mária r.Vargová	0	106,292,298,317,334
+62	CSÁK Neiti		0	237
+62	CSÁK Ondrej		0	106,123,292,298,317,334
+62	CSÁKOVÁ Amália r. Koósová		0	123
+62	CSÁKOVÁ Anna		0	106,123,292,298,317,334
+62	CSÁKOVÁ Margita r. Vinczeová	muž Ján	0	210,224
+62	CSOMÓS Ján		0	86
+62	CSOMÓS Ján	felsö	0	86,87,164,177
+62	CSOMÓS Ján	ml	0	87,164,177
+62	CSOMÓS Mikuláš		0	80,281,328
+62	CSOMÓS Štefan	felsö	0	80,86,87,164,177,281,328
+62	CSOMÓS Štefan	ž..Regina r.Vargová	0	282
+62	CSOMÓS Štefan	ž.Regina r.Vargová	0	79,102
+62	CSOMÓSOVÁ Regina r. Vargová	muž Štefan	0	79,102,282
+62	CSÓTÓ Gejza		0	79
+62	CSÓTÓ Ján	pásti	0	79,80,102,281,282,328
+62	CSÓTÓ Jozef	huszár	0	87,164
+62	CSÓTÓOVÁ Juliana r. Husztiová		0	79,102,282
+62	CSÓTÓOVÁ Juliana r. Juhászová		0	86,87,164,177
+62	CSÓTÓOVÁ Rozália r. Szarvasová	muž Dezider	0	80,281,328
+62	CSUTOROVÁ Jolana r. Tóthová	muž Elek	0	106,123,249,292,298,317,334
+62	CZIKÓOVÁ Juliana		0	79,80,102,281,282,328
+62	CZIKORSZKYOVÁ Juliana r. Csáková	muž Ján	0	106,123,292,298,317,334
+62	CZIPRUSZ Gejza	mal	0	106,123,292,298,317,334
+62	CZIPRUSZ Jozef	mal	0	106,123,292,298,317,334
+62	CZIPRUSZOVÁ Mária	mal	0	106,123,292,298,317,334
+62	EGYÜDOVÁ Jolana		0	106,160,161,292,298,317,334,345
+62	FEJES Pavel		0	106,123,183,292,298,317,334,359
+62	FERENCZOVÁ Helena r. Szarvasová		0	79,102,282
+62	FODOR Ján		0	107
+62	FODOR Ján	mal	0	106,155,292,298,317,334
+62	FODOROVÁ Etela		0	107
+62	FODOROVÁ Etela	mal	0	106,292,298,317,334
+62	FODOROVÁ Helena r. Martinovicsová		0	106,292,298,317,334
+62	FODOROVÁ Mária		0	107
+62	FODOROVÁ Mária	mal	0	106,292,298,317,334
+62	FODOROVÁ Mária r. Tóthová		0	123
+62	Gáliková Mária r. Uljaková	zom. 02.03.1998/muž Ján	0	106,292,298,317,334
+62	GECSE Anton		0	210
+62	GECSE Anton	mal	0	106,123,227,292,298,317,334
+62	GECSE Gregor		0	106,123,292,298,317,334
+62	GECSE Jozef		0	120,210
+62	GECSE Jozef	ml.ž.Juliana r.Danková	0	116,123,178,255
+62	GECSE Michal		0	317
+62	GECSE Michal	ml	0	106,123,292,298,334
+62	GECSE Michal	st	0	106,123,292,298,334
+62	GECSE Pavel	Zuzana r.Koósová	0	106,317,334
+62	GECSE Pavel	ž.Zuzana r.Koósová	0	123,292,298
+62	GECSE Štefan		0	106,123,149,153,292,298,317,334,343
+62	GECSE Zoltán		0	106,123,292,298,317,334
+62	GECSEOVÁ Františka r. Simonová	muž Jozef	0	106,123,160,216,292,298,317,334
+62	GECSEOVÁ Juliana	r.Danková - muž Jozef ml	0	255
+62	GECSEOVÁ Juliana r. Danková	muž Jozef	0	116
+62	GECSEOVÁ Juliana r. Danková	muž Jozef ml	0	178
+62	GECSEOVÁ Zuzana r. Koósová	muž Pavel	0	106,123,292,298,317,334
+62	GÉRECZ Štefan		0	206
+62	GLEDUROVÁ Priška r. Gecseová		0	106,160,161,292,298,317,334,345
+62	GÓBISOVÁ Helena r. Koósová		0	208
+62	HAJDÚOVÁ Zuzana r. Lukácsová	muž Štefan	0	217
+62	HAMKO Jozef		0	86,177
+62	HERÉNYI Ján		0	106,123,292,298,317,334
+62	HERÉNYI Ladislav		0	123
+62	HERÉNYI Štefan	mal	0	106,123,129,292,298,317,334
+62	Herényiová Barbora r. Vargová	vd., vyd.Bárdosová - muž Demeter	0	292,298

@@ -1,0 +1,256 @@
+1061	KOTIANOVÁ Emília	mal	0	2056
+1061	KOTIANOVÁ Jitka r. Vajbar		0	2291
+1061	Kotianová Júlia		0	1104
+1061	KOTIANOVÁ Júlia	zomrela,[nar. 8.4.1929]; zomrela,[nar. 8.4.1929]	0	2056
+1061	KOTIANOVÁ Júlia	zomrela,nar [* 8.4.1929]; zomrela,nar [* 8.4.1929]	0	2229
+1061	KOTIANOVÁ Julianna	mal	0	2056,2361
+1061	KOTIANOVÁ Mária	mal	0	2056
+1061	KOTIANOVÁ Paulína r. Mäsiarová	čd.32	0	2056,2322,2340
+1061	KOTIANOVÁ Rozália r. Mokrá		0	2351
+1061	KOTIANOVÁ Zuzana r. Dobrotková		0	2056
+1061	KOZÁR Michal	manž. Zuzana Podolcová	0	2318
+1061	KÔSTKA Ignác		0	1223
+1061	KÔSTKA Ján	manž. Júlia Dobrotková	0	2373
+1061	KRČÍKOVÁ Mária r. Kotianová	zom20.10.2002	0	2056
+1061	KRŠKO Michal	čd.57	0	2056
+1061	LACKOVÁ Júlia	mal	0	2056
+1061	LAHKÝ Ján	žen.Helena Gregušová	0	1926
+1061	LENHART Ľudovít	manž. Mária Kecerová	0	2362,2363
+1061	LENHART Ľudovít	zomrel 18.11.1996, žen. Mária Dobrotková	0	2204
+1061	LENHARTOVÁ Anna		0	2278
+1061	LENHARTOVÁ Helena	Lipník	0	2305
+1061	LENHARTOVÁ Mária r. Kecerová	manž.Ľudovít	0	2362,2363
+1061	MADAJOVÁ Gabriela	mal	0	2056
+1061	MADAJOVÁ Helena r. Masariková		0	2282
+1061	MADAJOVÁ Mária r. Marková	zom. 24.8.1992	0	2347
+1061	Madajová Pavlína	[* 23.1.1917]	0	1300
+1061	MADAJOVÁ Pavlína	[nar. 23.1.1917]	0	2279
+1061	MARKO Ignác	č.40	0	2345
+1061	MARKO Ján	manž. Anna Uhliarová	0	2352
+1061	MARKO Michal	čp.6,zomr.30.3.1986	0	2331
+1061	MARKOVÁ Anna	zruš. mal. čd. 3419/1929, po Jozefovi	0	2056
+1061	MARKOVÁ Magdaléna r. Hromadová		0	2056
+1061	MARKOVÁ Mária	mal	0	2056
+1061	MARKOVÁ Mária r. Lenhartová	čp.87	0	2057
+1061	MARKOVÁ Mária r. Marková		0	1071,2215
+1061	MAŠLENKA Jozef	manž.Júlia,r.Vojtková	0	2292
+1061	MAŠLENKOVÁ Júlia r. Vojtková		0	2292
+1061	MAULIKOVÁ Anna r. Madajová	manž.Jozef	0	1924
+1061	OBEC JALOVEC		0	1076,1077,1318,1399,1400,2044,2096,2210
+1061	ONDREJOVIČ Ignác	po Jozefovi Ondrejovič	0	2305
+1061	ONDREJOVIČ Ignác	po Michalovi Ondrejovič	0	1881
+1061	Ondrejovič Ján	syn Štefana; syn Štefana	0	1881
+1061	ONDREJOVIČ Ján		0	2056
+1061	ONDREJOVIČ Ján	manž. Mária Uhrinová	0	2310
+1061	ONDREJOVIČ Ján	po Jozefovi Ondrejovič	0	2305
+1061	ONDREJOVIČ Jozef	sklenné	0	2277,2298
+1061	ONDREJOVIČ Jozef	syn Štefana	0	1881
+1061	ONDREJOVIČ Ľudovít	syn Štefana	0	1881
+1061	ONDREJOVIČ Michal	čd.108	0	1881
+1061	ONDREJOVIČ Michal	Chrenovec	0	2310
+1061	ONDREJOVIČ Pavol	manž. Antónia Uhrinová	0	2305,2310
+1061	ONDREJOVIČOVÁ Anna r. Kozárová		0	1922,1923,2318
+1061	ONDREJOVIČOVÁ Anna r. Vojtková		0	2305
+1061	ONDREJOVIČOVÁ Mária r. Záhončeková	zomrela 26.09.1913	0	2298
+1061	PAULÍKOVÁ Helena r. Trgiňová	zomrela 28.10.1994	0	2312
+1061	PAVLÍK Ján		0	1926
+1061	PEKÁR Jozef	manž. Annou Gregušovou	0	2056
+1061	PODOLEC ANTON		0	1729
+1061	PODOLEC Ján		0	1276
+1061	PODOLEC Ján	manž. Mária Mikušová	0	1946,2056
+1061	PODOLEC Ján	po Jozefovi Podolec žen. s Annou Pavlík	0	2317
+1061	PODOLEC Jozef	[nar. 24.10.1910]	0	2309
+1061	PODOLEC Michal	ml	0	2309
+1061	PODOLEC Michal	po Jozefovi Podolcovi, žen. Anna Pavlík	0	2317
+1061	PODOLEC Pavel	chrenovec	0	2317
+1061	PODOLECOVÁ Paulína r. Bartošová	čp.78	0	2056
+1061	POLIAK Pavel	manž. Julianna Máčiková	0	2368
+1061	POVAŽAN Jozef	Kláštor p.Znievom	0	2346
+1061	POVAŽAN Stanislav	Kláštor p.Znievom	0	2346
+1061	POVAŽAN Vojtech	Kláštor p.Znievom	0	2346
+1061	POVAŽANOVÁ Anna	Kláštor p.Znievom	0	2346
+1061	SOLČÁNI Jozef	manž. Anna Mäsiarova	0	2056
+1061	STRAČINOVÁ Mária r. Kmeťová		0	1283,2056
+1061	SVITKOVÁ Mária r. Podolcová	zom9.12.2004	0	2229
+1061	ŠALÁTEK Imrich	manž. Anna Steinhübl	0	2344
+1061	TONHAUSER Rudolf r. TONHAUSER	mal	0	2056
+1061	TOTHOVÁ Anna r. Halásová	á, zomr.14.2.2000	0	2347
+1061	TRGIŇA Gregor		0	2056,2114,2175,2182,2262,2467
+1061	TRGIŇA Ignác Ing.		0	2056,2114,2175,2182,2262,2467
+1061	TRGINA Jozef	mal.,rakúsko	0	2312
+1061	TRGIŇA Jozef	manž. Anna Kotianova	0	2308
+1061	TRGIŇA Jozef r. Trgiňa	zom6.4.199826-02-26/709	0	2056,2229
+1061	TRGIŇA Ondrej	manž. Anna Hianiková	0	2319
+1061	TRGIŇOVÁ Pavlina r. Kotianová		0	2262
+1061	UHRINOVÁ Anna r. Klátiková		0	2311
+1061	VOJTKOVÁ Mária r. Kotianová		0	1885,2176
+1061	VRBÍKOVÁ Emília r. Kmeťová	zomrela 27.12.1995	0	2056
+1062	ADAMIOVA JOLANA		0	569
+1062	Bališová Mária r. Kollárová		0	476
+1062	Balon Vojtech	manž. Katarína r.Pavlovičová	0	173
+1062	Baranecová Emília	Drnáková	0	397
+1062	Baranecová Emília r. Drnáková		0	368,396,399,400
+1062	Benčáková Anna r. Jančičková		0	768
+1062	BLAŠKO Michal		0	769
+1062	Blašková Bernardína r. Kľúčovská		0	440
+1062	BOKOROVÁ Jolana	r.Kubová	0	376
+1062	Brezovská Karolína r. Masaryková		0	296,543,684,724,748,778,791
+1062	Brezovská Karolína r. Masaryová		0	787
+1062	Dorinecová Katarína r. Paulovičová		0	563
+1062	Drnáková Mária r. Svrčková		0	766,769,794
+1062	DURÁK Štefan		0	669,677,697
+1062	DURIS MICHAL		0	373,374,376,589,590,696,725,726,762,827,828,899
+1062	ĎURIŠ Jarolím		0	762
+1062	ĎURIŠOVÁ Mária	mal	0	762
+1062	Dyčanová Emerencia r. Slováková		0	672
+1062	Fačkovcová Magdaléna r. Paulovičová		0	586
+1062	Fačkovcová Magdaléna r. Pavlovičová		0	255,256,267,578,584,756,757
+1062	FOGLTON Dominik		0	82,83,173,711
+1062	FOGLTON Ján		0	82,83,173,711,904
+1062	FOGLTON JOZEF		0	183
+1062	FOGLTON STEFAN		0	183
+1062	FOGLTONOVÁ Katarína		0	82,83,173,711,904
+1062	FOGLTONOVA KATARINA R.HUNTIR		0	183
+1062	FOGLTONOVA TEREZIA R.ZVORILOVA		0	183
+1062	FOGLTONOVA VALERIA		0	183
+1062	Fridecký Barna		0	461
+1062	Gyulay Michal	v Nitre	0	715
+1062	Halás Ivan r. Halás, Dr.		0	428
+1062	Halás Ivan, Dr.		0	485,525
+1062	Halás Ivan, MUDr., JALŠOVÉ, SR		0	596
+1062	Halásová Apolónia		0	428,485,525
+1062	Halásová Apolónia, JALŠOVÉ, SR		0	596
+1062	Halásová Mária r. Pažitná		0	431,437
+1062	HLAVÁČEK Štefan		0	397
+1062	Hlaváčková Mária	slabomyseľná	0	400
+1062	Hlávka Ján		0	177,662
+1062	Hlavka Štefan		0	177,662
+1062	Holovičová Magdaléna r. Csevníková		0	694
+1062	Hubáčková Mária r. Jadrná		0	564
+1062	HYNEROVÁ Viktória	r.Rebrová	0	376
+1062	JADRNÁ Margita		0	247,456,566
+1062	JANČIČKA František		0	768,802
+1062	Jančičková Helena r. Blašková		0	460,857
+1062	Karaba Jozef		0	58,761
+1062	Karaba Jozef	ž.Helena r.Trnková	0	707
+1062	Karabová Ilona		0	118
+1062	Kollár Medard		0	476
+1062	Kollár Michal		0	476
+1062	KOLLÁRIK Jozef		0	700
+1062	KOLLÁRIK Michal		0	700
+1062	KOZÁKOVÁ Anna	r.Poláková	0	764
+1062	Kozáková Anna r. Poláková		0	759
+1062	Kozáková Jozefína r. Paulovičová		0	507
+1062	KREJČÍRIK Jozef		0	744
+1062	Križáková Ľudmila r. Kollárová		0	476
+1062	KUBO Alojz	mal	0	376
+1062	KUBO Michal		0	376
+1062	KUBO Vojtech	mal	0	376
+1062	KUBOVÁ Bernardína		0	376
+1062	KUBOVÁ Magdaléna	mal	0	376
+1062	KUBOVÁ Veronika		0	376
+1062	Kuchariková Mária		0	502
+1062	KUZLIK JAKUB BLAVA KARPATSKE NAM.11		0	8
+1062	Lisonalnová Serafína r. Lukáčová		0	518
+1062	Lisoneková Serafína r. Lukáčová		0	175
+1062	Lopatová Alžbeta r. Múdra		0	795
+1062	Lukáč František		0	56
+1062	Lukáč Jozef		0	518
+1062	Lukáč Rudolf		0	518
+1062	Lukáč Štefan	ž.Katarína r.Haverlentová	0	701
+1062	Lukáčová Angelika		0	518
+1062	Lukáčová Anna r. Cepková		0	669,677,697
+1062	LUKÁČOVÁ Emerencia		0	669,677,697
+1062	Lukáčová Františka		0	58,198,199,608
+1062	Lukáčová Františka	slob	0	761
+1062	Lukáčová Johana r. Pavlovičová		0	780
+1062	Lukáčová Katarína r. Haverlentová		0	701
+1062	Lukáčová Katarína r. Paulovičová		0	689
+1062	Lukáčová Margita r. Pavlovičová		0	879
+1062	MARKECH Dominik		0	768,802
+1062	MARKECH Jozef		0	768,802
+1062	MARKECH Valent		0	768
+1062	Marušic Pavol		0	163,203,210,251,765
+1062	Marušica Pavol		0	533
+1062	Marušicová Mária r. Šegešová		0	210
+1062	Masariková Katarína r. Paulovičová		0	788
+1062	Masaryk Florian	manž. Alžbeta r.Špišiaková	0	296
+1062	Masaryk Florian	ž.Alžbeta r.Špišiaková	0	684
+1062	Masaryk Florián		0	536,537,538,620,621,623,624,879
+1062	MASÁRYK Ján		0	724,791
+1062	MASARYK Michal		0	791
+1062	MASARYK Teodor		0	296,734,773
+1062	Masaryková Katarína r. Paulovičová		0	748,787
+1062	Masaryková Katarína r. Rusnáková		0	483
+1062	Masaryková Lýdia		0	839
+1062	MASARYKOVÁ Štefánia	r.Marušicová	0	765
+1062	Masaryková Štefánia r. Marušicová		0	203
+1062	Masayk Bohdan, Ing., Jalšové 153, Jalšové, PSČ 922 31, SR		0	210
+1062	Mataničová Mária r. Kolláriková		0	700
+1062	Michalová Ľudmila r. Lukáčová		0	677,697
+1062	MIKLOVIČ Štefan		0	690
+1062	MINOVOVOVA ANNA		0	569
+1062	MOKOS MARIAN HLOHOVEC PODZAMSKA C.2326/11		0	827
+1062	Mokoš Michal		0	519,787
+1062	MOKOŠ Michal	ž.Helena r.Karabová	0	594
+1062	MOKOŠOVÁ Helena	r.Karabová	0	594
+1062	Mokošová Helena r. Karabová		0	118,728
+1062	Mokošová Judita r. Svrčková		0	794
+1062	Mokošová Oršula		0	121
+1062	Mokošová Viktória		0	281
+1062	Molnárová Katarína r. Kolláriková		0	700
+1062	MUŽIKOVÁ Františka	r.Kubová	0	376
+1062	Nižňanská Veronika r. Mokšová		0	760
+1062	ORGONOVA ANNA R.FOGLTON		0	183
+1062	PAČES Ján	ž.Júlia r.Jurisová	0	679,868
+1062	PAČES Michal	ž.Júlia r.Karabová	0	679,868
+1062	Pačesová Júlia r. Karabová		0	445,446,447
+1062	PAULOVIC BENEDIK		0	589
+1062	PAULOVICOVA MARIA R.DURISOVA		0	590
+1062	Paulovič Aladár		0	457
+1062	PAULOVIČ Dominik		0	180,429,431,461,464,484,509,633,655,656,675,739
+1062	Paulovič Ferenc		0	457
+1062	Paulovič František		0	437,511,798
+1062	Paulovič Imrich	ž.Jozefína r.Svetlíková	0	690
+1062	PAULOVIČ Ján		0	180,429,431,457,461,464,484,509,655,656,675,739
+1062	Paulovič Jozef	ml	0	244
+1062	Paulovič Martin		0	485
+1062	PAULOVIČ Michal		0	731
+1062	PAULOVIČ Mikuláš		0	180,511,655,675,691
+1062	Paulovič Peter		0	252,655,675
+1062	PAULOVIČ Štefan		0	180,429,431,461,464,484,509,655,656,675,739
+1062	Paulovič Tomáš		0	511
+1062	Paulovič Vincent		0	509
+1062	Paulovičová Anna r. Lukáčová		0	462,506
+1062	Paulovičová Anna r. Paulovičová		0	252
+1062	Paulovičová Anna r. Vančová		0	789
+1062	Paulovičová Eleonóra r. Čičová		0	798
+1062	PAULOVIČOVÁ Františka		0	462
+1062	Paulovičová Katarína		0	256
+1062	PAULOVIČOVÁ Katarína	r.Šmitalová	0	376
+1062	Paulovičová Margita		0	563
+1062	Paulovičová Margita r. Paulovičová		0	563
+1062	PAULOVIČOVÁ Mária		0	462,798
+1062	Paulovičová Mária r. Durdyová		0	434
+1062	Paulovičová Mária r. Ďurišová		0	244,827
+1062	Paulovičová Paula		0	563
+1062	Paulovičová Paulína r. Paulovičová		0	563
+1062	Paulovičová Petronella		0	457
+1062	Paulovičová Viktória r. Brezovská		0	725,726
+1062	PAVLOVIC JOZEF		0	168,223,374,376,569,585,725,726,743,839
+1062	PAVLOVIC LADISLAV		0	569
+1062	PAVLOVIC MIROSLAV		0	569
+1062	PAVLOVIC OLIVER		0	569
+1062	PAVLOVIC TOMAS		0	168,374,376,439,839
+1062	Pavlovič Benedik		0	484,536,538,620,621,623,624
+1062	Pavlovič Benedik	ž.Angela r.Hesková	0	781
+1062	Pavlovič Benedikt		0	537,879
+1062	PAVLOVIČ Cyril		0	779
+1062	PAVLOVIČ Florian		0	758
+1062	PAVLOVIČ František		0	790,800
+1062	Pavlovič Imrich r. Pavlovič		0	596
+1062	PAVLOVIČ Michal		0	730
+1062	PAVLOVIČ Michal	ž.Viktória r.Brezovská	0	762
+1062	Pavlovič Peter		0	37,437,780,800,839
+1062	Pavlovič Peter r. Peter		0	29
+1062	Pavlovič Teodor		0	431

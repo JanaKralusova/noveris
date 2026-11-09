@@ -1,0 +1,256 @@
+239	Hačunda Anton	ded. po Márii Prokopovej r. Dujsíkovej	0	1113,1255
+239	Hačunda Anton	ded. po Márii Prokopovej r. Dujsíkovej - m. Anton	0	4107
+239	Hačunda Anton	ded. po Márii Prokopovej r. Dujsíkovej -prvýkrát vyd.Hačundovej	0	1341
+239	Hačunda Anton	ded. po Márii Prokopovej r. Dujsíkovej prvýkrát vyd. Hačundovej	0	4944
+239	Hačunda Anton	dedené po Márii Dujsíkovej r.Prokopovej	0	1334
+239	Hačunda Anton	maloletý	0	1117,1212,3346
+239	Hačunda Anton	manž. Helena r.Hnátová	0	3888
+239	Hačunda Anton	rod. Jozef a Anna r. Štvrtecká, súr. Šimon, Teofil, Anna Kimličková, Helena, Mária, Štefan	0	1306
+239	Hačunda Anton	súr. Štefan, Imrich, Hozef, Ferdinand, Ladislav	0	1090,4929,4930
+239	Hačunda Anton	súr. Štefan, Imrich, Jozef, Ferdinand, Ladislav	0	1084,1095,1142,1143,1145,1297,1299,1300,1301,1303,1304,1305,1307,1308,4932,4933,4936,4937
+239	Hačunda Antonín	ded. po Márii Prokopovej r. Dujsíkovej	0	1145,1164,4231,4932,4933
+239	Hačunda Antonín	ded. po Márii Prokopovej r. Hačundovej	0	1338
+239	Hačunda Antonín	kúpa od Anny Hačundovej a Anny Rozborilovej	0	1113
+239	Hačunda Antonín	kúpa od Anny Hačundovej r. Puškáčovej	0	1088,1089,1116,2483,4433,4890
+239	Hačunda Antonín	kúpa od Anny Rozborilovej r. Puškáčovej	0	1145,1180,4932,4933,5444
+239	Hačunda Antonín	m. Mária r. Burská	0	5313
+239	Hačunda Antonín	mal., súr. Matilda, Ferdinand, Ján, Štefan, ded. po Ignácovi Hačundovi	0	1542,2439,2442,3038
+239	Hačunda Antonín	mal., súr. Matilda, Ferinand, Ján, Štefan, ded. po Ignácovi Hačundovi	0	2441
+239	Hačunda Antonín	súr. Antonín, Matilda, Ferdinand, Ján, kúpa od Anny Hačundovej r. Puškáčovej	0	1164
+239	Hačunda Antonín	súr. Mária, Matilda, Ferdinand, Ján, Štefan, kúpa od Anny Hačundovej	0	1095
+239	Hačunda Antonín	súr. Matilda, Ferdinand, Ján, Štefan, kúpa od Anny Hačundovej r. Puškáčovej	0	1338
+239	Hačunda Antonín	súr., Matilda, Ferdinand, Ján, Štefan, ded. po Ignácovi Hačundovi	0	2243
+239	Hačunda Antonín	súr.Matilda, Ferdinand, Ján, Štefan, ded. po Ignácovi Hačundovi	0	2440
+239	Hačunda Antonín	súrod.Matilda, Ferdinand, Ján, Štefan	0	3039
+239	HAČUNDA Antonín		0	1290,1291,1294,1295,1296,1554,1845,1949,2076,2077,2438,3259,4716
+239	HAČUNDA Antonín	maloletý	0	2437
+239	Hačunda Ferdinand	rod. Martin a Klára r. Hladíková	0	766,1334,1421,1554,1708,4105,4107,4743,4744
+239	Hačunda Ferdinand	rod. Štefan a Helena r. Hnátová, súr: Štefan, Anton, Imrich, Jozef, Ladislav	0	4267,4718
+239	Hačunda Ferdinand	ž. Mária, naposledy bytom: Brodské súp.č. 84	0	5243
+239	Hačunda Ferdinand	ž. Štefánia r. Hojsíková, rod. Ignác a Mária r. Štvrtecká	0	1554
+239	Hačunda Ignác		0	2775
+239	Hačunda Imrich	súr. Anton, Štefan, Jozef, Ferdinand, Ladislav	0	1084,1090,1095,1142,1143,1145,1297,1299,1300,1301,1303,1304,1305,1306,1307,1308,4929,4930,4932,4933,4936,4937
+239	HAČUNDA Imrich		0	1290,1291,1294,1295,1296,1302,1554,1845,2075,2076,2077,3259,3888,4235,4267,4437,4716,4718,5337
+239	Hačunda Ján	ž. Albína r. Otáhalová, rod. Martin a Klára r. Hladíková	0	766,1334,1421,1554,4105,4107,4744
+239	Hačunda Ján	ž. Kamila r. Cveková, rod. Ignác a Mária r. Štvrtecká	0	1088,1116,1554,2243,2483,4433,4890
+239	Hačunda Jozef	rod. Jozef a Anna r. Štvrtecká, súr. Šimon, Teofil, Anna Kimličková, Helena, Mária, Štefan	0	256,1084,1088,1090,1093,1095,1116,1141,1142,1143,1145,1254,1290,1293,1294,1295,1296,1297,1299,1300,1301,1302,1305,1306,1307,1308,1505,1554,1845,2075,2076,2483,2602,2740,2744,2745,2746,2747,3995,4149,4166,4235,4433,4437,4716,4718,4890,4929,4930,4931,4932,4933,4936,4937,5337,5367,5411,5780
+239	Hačunda Jozef	rod. Jozef a Anna r. Štvrtecká, súr. Šimon, Teofil, Helena, Mária, Štefan, Anna Kimličková	0	2600,4757,5658
+239	Hačunda Jozef	súr. Anton, Štefan, Imrich, Ferdinand, Ladislav	0	1095,1143,1291,1297,1303,1304,2077
+239	Hačunda Ladislav	súr. Anton, Štefan, Imrich, Jozef, Ferdinand	0	1084,1090,1095,1142,1143,1145,1297,1299,1300,1301,1303,1304,1305,1306,1307,1308,4929,4930,4932,4933,4936,4937
+239	HAČUNDA Ladislav		0	1290,1291,1294,1295,1296,1302,1554,1845,2075,2076,2077,3259,3888,4235,4267,4437,4716,4718,5337
+239	Hačunda Michal	manž. Pavlína r. Melišová	0	3925
+239	HAČUNDA Oto, Skalica, Pod hájkom č. 34		0	1554
+239	Hačunda Pavol, Hollého 381/19, Kúty, PSČ 908 01, SR	zom.19.1.2002	0	1542,1554,2243,2437,2438,2441,3039,3336,3897
+239	Hačunda Šimon	zomr. 31.7.1957, ž. Mária r. Dermeková, rod. Jozef a Anna r. Štvrtecká	0	1084,1088,1090,1095,1116,1142,1145,1293,1296,1297,1307,1308,1554,2483,3259,4267,4433,4437,4890,4929,4930,4932,4933,5337
+239	Hačunda Štefan	ded. po Jozefovi Hačundovi, súr. Mária, Jozef, Simeon, Teofil, Anna, Helena	0	2076
+239	Hačunda Štefan	súr. Anton, Imrich, Jozef, Ferdinand, Imrich, Ladislav	0	1299
+239	Hačunda Štefan	súr. Anton, Imrich, Jozef, Ferdinand, Ladislav	0	1084,1090,1095,1142,1143,1145,1297,1300,1301,1303,1304,1305,1306,1307,1308,4929,4930,4932,4933,4936
+239	Hačunda Štefan	súr.: Anton, Imrich, Jozef, Ferdinand, Ladislav	0	1290,1291,1293,1294,1295,1296,1302,1554,1845,2075,2076,2077,3259,3888,4235,4267,4437,4716,4718,4937,5337
+239	Hačunda Štefan	zomr. 25.8.1991, ž. Helena r. Burská, rod. Ignác a Mária r. Štvrtecká	0	1088,1089,1095,1113,1116,1117,1145,1164,1180,1338,1554,2243,2483,4433,4890,4933,5444
+239	Hačunda Štefan	zomr.12.9.1977, I.ž. Štefánia r. Helešiová, II.ž Anna r.Uričková, bytom s.č.425, Bor.Miku	0	1084,1088,1090,1116,1142,1296,1297,1307,1554,2483,4267,4433,4437,4890,4929,4930,5337
+239	Hačunda Štefan	ž. Jozefína r. Sedalíková, rod. Martin a Klára r. Hladíková	0	437,766,1334,1421,1554,2342,2990,4105,4107,4744
+239	Hačunda Štefan r. Hačunda	zomr. 25.8.1991, ž. Helena r. Burská, rod. Ignác a Mária r. Štvrtecká	0	4932
+239	Hačunda Teofil	zomr. 29.6.1980, ž. Mária r. Vlková, rod. Jozef a Anna r. Štvrtecká	0	1084,1088,1090,1116,1142,1296,1297,1554,2483,3259,4149,4267,4433,4437,4890,4929,4930,5337
+239	Hačunda Teofil	ž. Mária r. Neoveská, rod. Martin a Klára r. Hladíková	0	4743,4744
+239	Hačundová Alžbeta r. Čulenová		0	1084,1088,1089,1095,1113,1256,1667,2483,4433,4437,4890,5337
+239	Hačundová Alžbeta r. Čulenová	m.Jakub, prvýkrát vydatá za Palkoviča Antona	0	4813
+239	Hačundová Alžbeta r. Čulenová	súr. Anton, Rozália, Eva	0	1338
+239	Hačundová Alžbeta r. Čulenová	súr. Rozália, Eva	0	1116,1164
+239	HAČUNDOVÁ Alžbeta r. Čulenová	prvý krát vydatá Palkovičová	0	3055
+239	Hačundová Alžbeta r. Malíková	súr. Gregor, Ján, Mikuláš, Eva, Agneša, ded. po Anne Hornej	0	1116
+239	Hačundová Anna r. Štvrtecká	m. Jozef, súr. Jozef, Žofia Šišková, Adolf	0	1145,1554,3581,4932,4933
+239	HAČUNDOVÁ Helena	r.Čulenová	0	5452
+239	Hačundová Helena r. Čulenová	ded. po Jánovi Čulenovi	0	1088,1249,2483,4433,4890
+239	Hačundová Helena r. Čulenová	ded. po Jozefovi Čulenovi	0	1089,1092,1248,4444
+239	Hačundová Helena r. Čulenová	m. Ladislav, súrod. Jozef	0	5093
+239	Hačundová Helena r. Čulenová	súr. Jozef, ded. po Jozefovi Čulenovi	0	1086,1090,1095,1116,1145,1180,1256,1338,1388,2586,4625,4929,4930,4932,4933,5444
+239	HAČUNDOVÁ Helena r. Čulenová		0	795,1554,3729,5024,5524
+239	Hačundová Helena r. Hačundová	zomr. 2.5.1993, rod. Jozef a Anna r. Štvrtecká, deti: Anna Wachsová	0	256,1084,1088,1090,1093,1095,1116,1141,1142,1145,1254,1293,1296,1297,1307,1308,1505,1554,2483,2600,2747,3259,3888,3995,4149,4166,4235,4267,4433,4437,4718,4890,4929,4930,4931,4932,4933,5337,5367,5411,5658,5780
+239	Hačundová Jozefína r. Sedalíková	m. Štefan,súr. Ján, Anton, ded. po Jánovi Sedalíkovi -ž. Anna r. Kováčová	0	437,2927,4373,5407
+239	Hačundová Jozefína r. Sedalíková	manž. Štefan, deti: Ignác, rodičia: Ján a Anna r. Kováčová, súr.: Ján, Antonín	0	1338,1464,1467,1515,1554,3464,4761,4895
+239	Hačundová Klára	č.d. 94	0	4743
+239	Hačundová Klára r. Hladíková	m. Martin	0	1554,4107
+239	Hačundová Klára r. Hladíková	m. Martin, ded. po Františkovi Hladíkovi	0	1182
+239	Hačundová Klára r. Hladíková	m. Martin, súr. Štefan, Ján, Pavol, Eva, Anton, Alžbeta, Mária, Helena, Martin	0	766,1421
+239	Hačundová Klára r. Hladíková	m.Martin	0	1708
+239	Hačundová Klára r. Hladíková	manžel Martin	0	4744
+239	Hačundová Klára r. Hladíková	R20.8.1871, m. Martin	0	4105
+239	HAČUNDOVÁ Klára r. Hladíková		0	1554
+239	Hačundová Mária	č.84	0	5243
+239	Hačundová Mária	súrodenci: Ignác, Helena	0	1554
+239	Hačundová Mária r. Burská	m. Antonín	0	5313
+239	Hačundová Mária r. Čulenová		0	2514,5488
+239	Hačundová Mária r. Mihálová	Argentína, m. Ferdinand, rod. Imrich a Rozália r. Baňovičová, súr. Štefan, Helena	0	1090,1095,1135,1145,1213,1254,1293,1307,1308,1554,1829,1830,1831,1836,1838,1839,1843,2133,2176,2322,2459,2697,2994,3169,3429,3780,3782,3783,4361,4403,4719,4929,4930,4932,4933,5378,5464,5501,5647,5648,5680
+239	Hačundová Mária r. Štvrtecká	m. Ignác	0	1542
+239	Hačundová Mária r. Vlková	zomr. 15.1.1999, m. Teofil, rod. Ján a Anna r. Písečná	0	1554
+239	Hačundová Matilda	mal. súr. Mária, Antonín, Ferdinand, Ján, Štefan, kúpa od Anny Hačundovej	0	1095
+239	Hačundová Matilda	mal., súr. Antonín, Ferdinand, Ján, Štefan, ded. po Ignácovi Hačundovi	0	1542,2243,2439,2441,2442,3038
+239	Hačundová Matilda	maloletá, kúpa od Anny Hačundovej a Anny Rozborilovej	0	1113
+239	Hačundová Matilda	maloletá, kúpa od Anny Hačundovej r. Puškáčovej	0	1088,1089,1116,2483,4433,4890
+239	Hačundová Matilda	maloletá, kúpa od Anny Rozborilovej r. Puškáčovej	0	1145,1180,4932,4933,5444
+239	Hačundová Matilda	maloletá, súr. Antonín, Ferdinand, Ján, Štefan, kúpa od Anny Hačundovej r. Puškáčovej	0	1338
+239	Hačundová Matilda	maloletá, súrod.Antonín, Ferdinand, Ján, Štefan	0	3039
+239	Hačundová Matilda	súr. Antonín, Ferdinand, Ján, kúpa od Anny Hačundovej r. Puškáčovej	0	1164
+239	Hačundová Matilda	súr. Antonín, Ferdinand, Ján, Štefan, ded. po Ignácovi Hačundovi	0	2440
+239	HAČUNDOVÁ Matilda		0	1294,1554,1949
+239	HAČUNDOVÁ Matilda	maloletá	0	1117,2339,2437,2438,2556
+239	HAČUNDOVÁ Matilda mal.		0	1554
+239	Hačundová Paulína r. Melišová	manž. Michal	0	3925
+239	Hamlovičová Rozália r. Kovárová	č.233	0	5247
+239	Hanzlovičová Rozália r. Kovárová	dar od Jána Kovára, súr. Mária, Agneša, Jozefína	0	1180,5444
+239	Hanzlovičová Rozália r. Kovárová	súr. Mária, Anna, Agneša, ded. po Emanuelovi Kovárovi	0	1140,1180,5444
+239	HANZLOVIČOVÁ Rozália r.Kovárová		0	1554
+239	Hatalová Agneša r. Burczelová	m.Ján	0	1270,4934
+239	HAVEL Pavol		0	2689,4540
+239	HAVLOVÁ Hermína		0	2689,4540
+239	Hekl Ján		0	244
+239	HEKLOVÁ Anna	r.Palkovičová	0	5471
+239	Heklová Anna r. Palkovičová	ded. po Antonovi Palkovičovi	0	3803
+239	Heklová Anna r. Palkovičová	ded. po Antonovi Palkovičovi, ž. Alžbeta r. Kubincová	0	2189,5469
+239	Heklová Anna r. Palkovičová	súr. Vendelín, Ignác, Gabriel, Martin	0	1554
+239	Heklová Anna r. Palkovičová	súr. Vendelín, Martin, Gabriel, Ignác	0	4353
+239	Heklová Anna r. Palkovičová	súrod. Vendelín, Ignác, Martin, Gabriel	0	3814,3815,5470
+239	Heklová Anna r. Palkovičová	súrod.Ignác, Vendelín, Martin, Gabriel	0	4605
+239	Heklová Anna r. Palkovičová	súrod.Vendelín, Ignác, Martin, Gabriel	0	2311,4717,5472,5621,5624
+239	Hesek Andrej		0	1092
+239	Hesek Andrej	ž. Anna r. Valachovičová	0	1248,4444
+239	Hesek Andrej	ž. Anna Valachovičová	0	1086
+239	Hesek Dominik	ded. po Helene Heskovej, r. Gajdovej	0	1084,4437,5337
+239	HESEK Dominik		0	1554,4342,4841
+239	Hesek Ferdinand	maloletý	0	3547
+239	Hesek Ferdinand	maloletý, súr. Rozália, Agneša, Jozefína, ded. po Jozefovi Heskovi	0	1338
+239	Hesek Ferdinand	maloletý, súrod.Rozália, Agneša	0	3549
+239	Hesek Ferdinand	maloletý, súrod.Rozália, Agneša, Jozefína	0	3413
+239	Hesek Ferdinand	maloletý,súrod.Rozália,Agneša,Jozefína	0	3548
+239	Hesek Ferdinand	súr. Rozália, Agneša, Jozefína	0	1554
+239	Hesek Ferdinand	ž. Terézia r. Rachová	0	2488
+239	HESEK Ferdinand		0	3913
+239	Hesek František	súrod.Jenovéfa, Anna	0	1435
+239	HESEK František		0	1554,4342,4841
+239	Hesek Ignác	č.d. 336	0	5296
+239	Hesek Ignác	ž. Júlia r. Antálková	0	5296
+239	Hesek Ján		0	1084,1554,4437,4841,5337
+239	Hesek Ján	ded. po Helene Heskovej, r. Gajdovej	0	1084,4437,5337
+239	Hesek Ján	syn Jána	0	4342
+239	Hesek Ján	ž.Helena r.Gajdová	0	1554,4342
+239	Hesek Jozef	ded. po Helene Heskovej, r. Gajdovej	0	1084,4437,5337
+239	HESEK Jozef		0	1554,4342,4841
+239	Hesek Lorenc	ded. po Helene Heskovej, r. Gajdovej	0	1084,4437,5337
+239	HESEK Lorenc		0	1554,4342,4841
+239	Hesek Martin	ded. po Helene Heskovej, r. Gajdovej	0	1084,4437,5337
+239	HESEK Martin		0	1554,4342,4841
+239	Hesek Matej	ded. po Helene Heskovej, r. Gajdovej	0	1084,4437,5337
+239	HESEK Matej		0	1554,4342,4841
+239	Hesek Matúš		0	1554,4841
+239	Hesek Matúš	ded. po Helene Heskovej, r. Gajdovej	0	1084,4437,5337
+239	Hesek Matúš	manž.Terézia r.Jakubcová	0	4342
+239	Hesek Ondrej	R15.11.1887, ded. po Terézii Heskovej r. Grňovej - m. Štefan	0	3614,3657,5560,5561
+239	Hesek Ondrej	R15.11.1887, ded. po Terézii Heskovej r. Grňovej -m. Štefan	0	4136
+239	Hesek Ondrej	súrod.Júlia, Agneša, Terézia	0	1539
+239	HESEK Ondrej		0	1554
+239	Hesek Štefan		0	1091,1163
+239	Hesek Štefan	Bečanek	0	1092
+239	Hesek Štefan, 908 85, Brodské, č. 10, SR		0	2604
+239	Hesková Agneša	súr. Ferdinand, Rozália, Jozefína	0	1554
+239	Hesková Agneša	súr. Rozália, Ferdinand, Jozefína, ded. po Jozefovi Heskovi	0	1338
+239	Hesková Agneša	súrod. Rozália, Ferdinand, Jozefína	0	3413
+239	Hesková Agneša	súrod.Rozália, Ferdinand	0	3549
+239	Hesková Agneša	súrod.Rozália,Ferdinand,Jozefína	0	3548
+239	HESKOVÁ Agneša		0	3547
+239	Hesková Agneša r. Malíková	súr. Gregor, Ján, Mikuláš, Alžbeta, Eva, ded. po Anne Hornej	0	1116
+239	Hesková Agneša r. Malíková	súr. Ján, Gregor, Mikuláš, Alžbeta, Eva	0	1116
+239	Hesková Alžbeta r. Horvátová	č.d. 788	0	5318
+239	Hesková Anna	súr. František, Genovéva, ded. po Júlii Heskovej	0	2272
+239	Hesková Anna	súr. Genovéva, František, ded. po Júlii Heskovej	0	1087,4434,4935,5822
+239	Hesková Anna	súr. Jenovéfa, František, ded. po Júlií Heskovej r. Antálkovej - m. Ignác	0	1248,1451,4444
+239	Hesková Anna	súr. Jenovéfa, František, ded. po Júlii Heskovej r. Antálkovej -m. Ignác	0	808,5450
+239	Hesková Anna	súrod. Genovéfa, František	0	1450,5401
+239	Hesková Anna	súrod. Jenovéfa, František	0	3099,5449,5612
+239	Hesková Anna	súrod.Jenovéfa, František	0	1435,1436,5809
+239	HESKOVÁ Anna		0	1554,3223,5050
+239	Hesková Anna r. Valachovičová	m. Andrej	0	1086,1248,4444
+239	Hesková Helena	maloletá	0	3224
+239	HESKOVÁ Jozefína		0	1554
+239	Hesková Júlia r. Antálková	m. Ignác	0	808
+239	Hesková Júlia r. Knappová		0	1161
+239	Hesková Mária r. Hladíková	ded. po Jánovi Hladíkovi	0	5298
+239	Hesková Terézia r. Jakubcová	ded. po Terézii Jakubcovej r. Štvrteckej, m. Jakub	0	2606
+239	Hesková Terézia r. Jakubcová	ded. po Terézii Jakubcovej r. Štvrteckej, súr. Ignác, Ján, Anna	0	1825,2607
+239	Hesková Terézia r. Jakubcová	manž. Matej, ded. po Martinovi Jakubcovi	0	1091
+239	HESKOVÁ Terézia r. Jakubcová	manž. Matej	0	1554
+239	Hesková Terézia r. Valachovičová	ded. po Antonovi Valachovičovi	0	379,2220
+239	Hesková Terézia r. Valachovičová	súr. Milada, Anna-Viera, ded. po Antonovi Valachovičovi	0	1115
+239	HESKOVÁ Terézia r. Valachovičová		0	1406,1409,5626
+239	Hladík Ambróz	zomr. 26.9.1992, ž. Anna Stachovičová, súr. Paulína, Helena, Ferdinand, Konštantín, Mária	0	1089,1095,1181,1184,1248,1402,1554,1921,3742,3786,4444,4638
+239	Hladík Anton		0	1184,1921,4638
+239	Hladík Anton	ded. po Anne Hladíkovej	0	766,1421
+239	Hladík Anton	manž.Anna r.Hnátová	0	4124,4608
+239	Hladík Anton	ml. súr. Anna, Mária, Agneša	0	1095
+239	Hladík Anton	mladší	0	1090,1181,4929,4930
+239	Hladík Anton	mladší, súr. Anna, Mária, Agneša	0	1145,4932,4933
+239	Hladík Anton	súr. Jozef, Terézia Šefčovičová, Imrich	0	1095
+239	Hladík Anton	súr. Jozef, Terézia, Imrich	0	1089,1116
+239	Hladík Anton	súr. Martin, Anna, Júlia	0	3444
+239	Hladík Anton	vd	0	1183
+239	Hladík Anton	vdovec	0	1180,5444
+239	Hladík Antonín	ded. po Martinovi Valachovičovi	0	2868
+239	HLADÍK Antonín	ž.Anna r. Dujsíková	0	1463
+239	Hladík Ferdinand	súr. Augustín, Mária	0	1185
+239	Hladík Ferdinand	súr. Augustín, Mária Pavlíková	0	1184
+239	Hladík Ferdinand	ž. Rozália Vajayová, rod.: Ján a Agneša Hladíková, súr. Mária , Ján, František, Helena, Ic	0	1467,1528,1529,1530,1531,1532,4761,4895,5298
+239	HLADÍK Ferdinand	m.Helena r.Trubirohova	0	4347
+239	Hladík Ferdinand r. Hladík	zomr. 24.7.1976, ž. Jozefína Kubovičová, súr.Paulína, Helena, Jozefína, Ambróz, Marek, Mán	0	1184
+239	Hladík František	rod. Martin a Terézia r. Hladíková, súr. Ján, Štefan, Matej, Terézia Valúšková, Teofil	0	766,1182,1421,1554
+239	Hladík František	rod. Štefan a Alžbeta r. Žilková, súr. Mária, Štefan, Rozália	0	2401,2955
+239	Hladík František	zomr. 22.5.1989, ž. Rozália r. Macejková, rod. Ondrej a Agneša r. Štvrtecká, súr.Aurélia,n	0	37,798,3803,3983,4353,5471
+239	Hladík František	ž. Mária r. Ondrášová, otec Ignác Hladík, súr. Ján, Mária Hajašová, Štefan	0	37,798,3983
+239	Hladík František	ž.Mária r.Hlavenková	0	5091
+239	Hladík Henrich	maloletý	0	1092
+239	Hladík Henrik		0	652,1505,4446
+239	Hladík Henrik	maloletý	0	1094,4435
+239	Hladík Ignác	manž.Mária r.Hladíková	0	3711
+239	Hladík Ignác	rod. Jozef a Anna r. Krídlová, súr. Mária Trubirohová, Margita	0	1083,1182,2689,4436
+239	Hladík Ignác	rod. Martin a Anna r. Čulenová, súr. Alžbeta Palkovičová	0	5076
+239	Hladík Ignác	rod. Martin a Terézia r. Hladíková, súr. Ján, Štefan, Imrich, Terézia, Matej, Teofil	0	3957
+239	Hladík Ignác	slobodný	0	2515
+239	Hladík Ignác	ž. Mária r. Vajayová, rod. Ján a Agneša r. Hladíková, súr. František, Ferdinand, Mária, J	0	37,798,1329,1330,1331,1467,1528,1529,1530,1531,1532,3747,3983,4761,4895,5298
+239	Hladík Imrich	súr. Jozef, Anton, Terézia	0	1089,1116
+239	Hladík Imrich	súr. Jozef, Anton, Terézia Šefčovičová	0	1095
+239	HLADÍK Imrich		0	3135,3957
+239	Hladík Ján	ferina	0	1139,1249
+239	Hladík Ján	kovár	0	1083,4436
+239	Hladík Ján	otec Ignác, súr. František, Mária Hajašová, Štefan	0	37,798,3983
+239	Hladík Ján	rod. Ján a Helena r. Hladíková, súr. Imrich, Juliana Škodová	0	3135
+239	Hladík Ján	rod. Martin a Terézia r. Hladíková, súr: Štefan, Ignác, Imrich, Terézia Valúšková, Matej,l	0	766,1182,1421,1554
+239	Hladík Ján	rod.Štefan a Mária r. Trubirohová, súr. Rozália, Mária, Helena, Štefan, Gregor, Žofia, Ag	0	1074,1076,1302,1554,2123,2162,2170,2171,3797,3798,3799,3800,4438,4905,5354,5387,5581,5582,5651
+239	Hladík Ján	spoludedičia: Štefan, Pavol, Eva, Anton, Alžbeta Dujsíková, Mária, Klára, Helena, Martin	0	766,1182,1421,1554
+239	Hladík Ján	súr. Jozef, Anna Kubovičová	0	1084,1088,1095,1116,1143,2483,4433,4437,4890,5337
+239	Hladík Ján	súr. Matej	0	1087,4434,4935,5822
+239	Hladík Ján	zomr. 11.6.1936, ž. Agneša r. Hladíková, deti: Mária Hesková, Ferdinand, Ignác, Ján, Hele	0	766,1139,1182,1249,1421,1460,1461,1462,1463,1464,1465,1466,1468,1515,1516,1531,2538,2927,4151,4373,4760,4893,4894,5407,5482,5630
+239	Hladík Ján	ž. Anna r. Štvrtecká, rod. Ján a Agneša r. Hladíková, súr. Mária, Helena, Ferdinand, Ignác	0	37,1329,1330,1331,1467,1528,1529,1530,1531,1532,3747,3957,3983,4761,4895,5386
+239	Hladík Ján	ž.Apolónia	0	5109
+239	HLADÍK Ján		0	1116,1524,4621,5000
+239	Hladík Jindrich	maloletý	0	1091,1163
+239	Hladík Jozef	duda, súr. Anna, Alžbeta	0	1326,2585,4447
+239	Hladík Jozef	manž. Anna r. Krídlová, kúpa od Márie Dujsíkovej r. Hladíkovej	0	1088,2483,4433,4890
+239	Hladík Jozef	súr. Anna, Alžbeta	0	1251
+239	Hladík Jozef	súr. Anton, Imrich, Terézia	0	1116
+239	Hladík Jozef	súr. Anton, Terézia Šefčovičová, Imrich	0	1095
+239	Hladík Jozef	súr. Anton, Terézia, Imrich	0	1089
+239	Hladík Jozef	súr. Ján, Anna Kubovičová	0	1083,1084,1088,1095,1116,1143,2483,4433,4436,4437,4890,5337
+239	Hladík Jozef	ž.Apolónia r.Jurkovičová	0	261
+239	HLADÍK Jozef		0	1083,1086,1090,1095,1115,1145,1180,1251,1921,4436,4638,4929,4930,4932,4933,5444
+239	Hladík Jozef r. Hladík	zomr.13.12.1982, manž. Mária r. Puškáčová, č.d.624, rodičia Rehor a Júlia r.Neoveská	0	3318
+239	Hladík Jozef r. Hladík	Zomr.3.8.1969, manž. Anna r. Mihálová, rodičia Ignác a Mária r.Hladíková, sestra Hedviga	0	1083,1088,1090,1095,1116,1140,1145,1164,1248,1256,1338,1404,1554,1622,2379,2483,4433,4436,4444,4454,4890,4929,4930,4932,4933
+239	Hladík Konštantín r. Hladík	zomr. 21.1.2006, bytom Chemická 11, BA, ž. Magda Sedlárová, rod.: Marek a Agneša Hnátová	0	1088,1142,1495,1554,1710,2403,2405,2483,3636,4433,4890
+239	HLADÍK Ľudovít		0	3957
+239	Hladík Marek	zomr. 28.6.1992, rod. Anton a Anna r. Hnátová, súr. Anton, Žofia Trubirohová, Martin, Šten	0	766,1421
+239	Hladík Marek	zomr. 7.12.1990, manž. Rozália r. Mrázová, súr. Paulína, Helena, Jozefína, Ferdinand, Amba	0	4638
+239	Hladík Marek r. Hladík	zomr. 7.12.1990, manž. Rozália r. Mrázová, súr. Paulína, Helena, Jozefína, Ferdinand, Amba	0	1921
+239	Hladík Marek, Československých parašutistov 1, Bratislava, PSČ 831 03, SR	zom. 28.6.1992	0	1464
+239	Hladík Martin		0	1554
+239	Hladík Martin	Bobek	0	1247,1256
+239	Hladík Martin	č.d. 222	0	5300
+239	Hladík Martin	ded. po Anne Hladíkovej	0	766,1084,1139,1182,1421,4437,5337
+239	Hladík Martin	ded. po Antonovi Hladíkovi - ž. Anna r. Hnátová	0	1698,1890
+239	Hladík Martin	ded. po Antonovi Hladíkovi, súr. Štefan, Anton, Žofia, Marek	0	2788

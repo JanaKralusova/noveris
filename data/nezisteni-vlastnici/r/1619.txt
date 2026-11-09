@@ -1,0 +1,256 @@
+945	Sás Anton, SR	manželka Rozália r. Miháliková	1	290,638,1647,3383
+945	Sás František, SR		0	652
+945	Sás Imrich		0	2578
+945	Sás Ján	zomr. 22.10.1956	0	1356
+945	Sás Ján, zomr. 22.10.1956 zomr. 22.10.1956		0	2763
+945	Sás Jozef, a a		0	2266
+945	Sás Jozef, b b		0	2266,2866
+945	Sás Jozef, c c		0	2194,2195,2288
+945	Sás Jozef, SR		1	321,638,652,1388,1647,1772,3383,3433
+945	Sás Jozef, SR	manželka Anna r. Matejková	0	638,1388,1467,1647,3383,3433
+945	Sás Štefan		0	2194,2195,2252,2288
+945	Sás Štefan, SR		1	321,638,1388,1647,3383,3433
+945	Sás Štefan, SR	manželka Františka r. Sásová	0	638,1388,1647,3383,3433
+945	Sásová Anna r. Matejková		0	2266
+945	Sásová Anna r. Matejková, SR	muž Jozef	0	638,1388,1647,3383,3433
+945	Sásová Cecília, SR		0	1466
+945	Sásová Františka r. Mištová, muž Imrich muž Imrich		0	2280,2933
+945	Sásová Františka r. Mištová, SR	muž Imrich	1	141,638,1031,1041,1388,1647,3383,3433
+945	Sásová Františka r. Sásová		0	2617
+945	Sásová Františka r. Sásová, SR	zomrela 23.08.1988	1	1715
+945	Sásová Františka, SR	maloletá	1	1715
+945	Sásová Jozefína r. Jambrichová, SR	muž Cyril	1	1022
+945	Sásová Lucia		0	2336,2725
+945	Sásová Lucia, SR		0	638,652,1388,1647,3383,3433
+945	Sásová Mária		0	2280
+945	Sásová Mária r. Jásiková		0	3111
+945	Sásová Mária r. Jásiková, muž Štefan muž Štefan		0	2354,2828
+945	Sásová Mária r. Jásiková, SR		1	502,705
+945	Sásová Mária r. Jásiková, SR	muž Štefan	0	780
+945	Sásová Mária, SR		0	638,652,1388,1466,1647,3383,3433
+945	Sluka Ján, SR		1	1827
+945	Sluka Pavel, SR		1	1827
+945	Slúková Františka r. Degulová		0	1021
+945	Stacho Anton		0	2463
+945	Stacho Anton, SR		1	289,579,627,1647
+945	Stacho Anton, SR	manželka Anna r. Balkóciová	0	638,1388,1647,3383,3433
+945	Stacho Bernard, SR	zomrel 03.02.1975, manželka Tekla r. Hojsová	1	289,627
+945	Stacho Pavol, SR		1	289,579,627,1647
+945	Stachová Cecília		0	3101
+945	Stachová Mária r. Jambrichová, muž Štefan muž Štefan		0	2895
+945	Stachová Mária r. Jambrichová, SR	muž Štefan	0	1388,3433
+945	Stachová Mária, SR		1	289,579,627,638,1388,1647,3383,3433
+945	Stachová Tekla r. Hojsová		0	2209,2516
+945	Stachová Tekla r. Hojsová, SR		0	638,1388,1647,2126,3383,3433
+945	Stachová Tekla r. Hojsová, SR	zomrela 02.12.1966	1	1690
+945	Stankovič Imrich		0	2217,2444,3246
+945	Stankovič Imrich, SR		1	276,499,502,638,780,781,1022,1388,1647,1838,3383,3433
+945	Stankovič Ján		0	2650
+945	Stankovič Ján, SR		0	638,1388,1647,3383,3433
+945	Stankovič Pavel, SR		1	276,502,1838
+945	Stankovič Pavol		0	2217,2662
+945	Stankovič Pavol, SR		0	638,781,1388,1464,1647,3383,3433
+945	Stankovič Tomáš		0	2217,2444,3246
+945	Stankovič Tomáš, SR		1	276,499,502,638,780,781,1022,1388,1647,1838,3383,3433
+945	Stankovič Viktor		0	3246
+945	Stankovič Viktor, SR		1	276,499,638,780,1022,1388,1647,1838,3383,3433
+945	Stankovičová Anna, SR		0	638,780,1388,1647,3383,3433
+945	Stankovičová Katarína		0	2217,2444,3246
+945	Stankovičová Katarína r. Cútová, SR		0	638,1388,1647,3383,3433
+945	Stankovičová Katarína, SR		1	276,499,502,638,780,781,1022,1388,1647,1838,3383,3433
+945	Stankovičová Mária r. Bryndzová, muž Jozef muž Jozef		0	2200
+945	Stankovičová Mária r. Kamasová, SR	muž Ambruš	0	638,1388,1647,3383,3433
+945	Stankovičová Viktória, mladšia mladšia		0	3019
+945	Szász Pavel, SR		1	1768
+945	Szászová Františka r. Bendíková, SR		1	499
+945	Szászová Júlia r. Obertkinová, SR	zomrela 01.03.1962	1	748
+945	Šimková Anna r. Červenáková, SR	zomrela v roku 1999	1	1798
+945	Šinkov František		0	2577
+945	Šinkov František, SR		0	638,1647,3383
+945	Šinkov Ján		0	2791
+945	Šinková Kristína r. Bendíková		0	2880
+945	Šinková Kristína r. Bendíková, SR		0	638,1647,3383
+945	Tučeková Verona r. Adamová, SR		0	638,1647,3383
+945	Valach Jozef, SR		1	1743
+945	Valach Jozef, SR	manželka Mária r. Matúšová	1	308,333,1938
+945	Valach Ľudovít, SR		1	333,1938
+945	Valach Pavel, manželka Katarína r. Fischerová manželka Katarína r. Fischerová		0	2768
+945	Valach Pavel, SR	manželka Katarína r. Miháliková, zomrel 17.12.1965	1	308
+945	Valach Pavol, SR	manželka Katarína r. Fišerová	1	333,1938
+945	Valach Vincent, SR		0	638,1388,1647,3383,3433
+945	Valachová Katarína r. Stankovičová, muž Ján muž Ján		0	2200,2409,3136
+945	Valachová Katarína r. Stankovičová, SR		1	1022
+945	Valachová Katarína r. Stankovičová, SR	muž Ján	1	499,638,780,1647,3383
+945	Valachová Mária		0	2241,2416,3132
+945	Valachová Mária r. Bálintová		0	1522
+945	Valachová Mária r. Bálintová, SR	muž Ľudovít	0	638,1647,3383
+945	Valachová Mária r. Matušová		0	2885,3198
+945	Valachová Mária, SR		1	333,638,1388,1551,1647,1703,1938,3383,3433
+945	Velebná Magdaléna, SR		0	638,1388,1647,3383,3433
+945	Velebný Ľudovít		0	2744
+946	Albert Štefan		0	1291
+946	Ambrus Andras		0	1203
+946	Ambrus Emanuel		0	1277
+946	Ambrus Gyorg		0	1203
+946	Ambrus Imre		0	1223
+946	Ambrus Istvan		0	1203
+946	Ambrus János		0	1204
+946	Ambrus Jozef		0	1204
+946	Ambrus Mihaly		0	1203
+946	Ambrusová Barbora r. Kyzselová		0	1277
+946	Ambrusová Katarin		0	1203
+946	Angyal Daniel	najml	0	145
+946	Angyal Daniel	ž.Lídia Nagy Kováčová	0	145,542,1156
+946	Angyal Ján		0	145
+946	Angyal Ján	ž.Zuzana Csehová	0	145
+946	Anna František		0	1187
+946	Anna Ján		0	1187
+946	Anna Jozef		0	1187
+946	Anna Juliana r. Ambrusová	m.Štefan	0	855,856,857
+946	Anna Štefan		0	1187
+946	Apostol Péter		0	28,151,258,259,315,1367,1421
+946	Babasová Esztera r. Tothová	m.Ľudovít	0	371
+946	Babasová Zuzana r. Tothová	m.Štefan	0	371
+946	Baffi František		0	1176
+946	Bajzat Daniel		0	28,119,1362
+946	Bajzat Ľudovít		0	28,119,1362
+946	Bajzat Štefan		0	28,119,1362
+946	Balazsová Toth Zuzana		0	1281
+946	Balážová Irena r. Kovácsová	muž Ján	0	97,515,647,648,716,1000,1363,1364,1365
+946	Ballasová Borbála		0	1278
+946	Ballasová Mária r. Pappová	muž Štefan	0	150,151,258,259,315,1367,1421
+946	Barciová Juliana r. Szakalová	m.Jozef	0	1292
+946	Barczi Alajoš		0	1250
+946	Barczi Imre		0	1250
+946	Barczi Ján		0	1366,1369
+946	Barczi Jozef		0	1250
+946	Barcziová Alžbeta r. Zsebíková		0	92,476,784,1024,1041,1366,1369,1397
+946	Barcziová Elena r. Sarogová	m.Štefan	0	119,160,717,1183,1227,1319,1362
+946	Barcziová Emersencia		0	1250
+946	Barcziová Rozália r. Bastaiová	m.Ján	0	1250
+946	Bazin Lajoš		0	28,119,1362
+946	Beczkerová Rozsa Lenke		0	1188
+946	Beke Daniel		0	145
+946	Beke Jozef	st.ž.Júlia Maurnyiová	0	515,647,648,716,1363,1364,1365
+946	Beke Jozef	ž. Alžbeta Gyarmathy	0	92,252,784,1114,1397
+946	Beke Jozef	ž.Júlia Maurnyiová	0	97
+946	Bekeová Alžbeta r. Gyarmatiová	m.Jozef	0	97,515,647,648,716,1025,1363,1364,1365
+946	Bekeová Alžbeta r. Ivanová		0	632
+946	Bekeová Borbála r. Lengyel		0	632
+946	Bekeová Julia r. Maurnyiová	m.Jozef	0	97,515,647,648,716,1363,1364,1365
+946	Bekeová Júliana r. Nagyová		0	266,486,882,1018,1070,1276
+946	Bekeová Juliana r. Sabadoszová	m.Ján	0	649,1038,1093,1246
+946	Bekeová Mária r. Sárogová	muž Jozef	0	1132
+946	Bekeová Mária r. Szabadošová	m.Ján	0	1300
+946	Bekeová Marta r. Sarogová	m.Ján	0	1024,1041,1366,1369
+946	Beller Peter		0	1127
+946	Bellérová Borbála r. Tegdesová	muž Peter	0	160,168,258,717,1127
+946	Bencs Juraj		0	1229
+946	Bleibart Martin		0	1178
+946	Bodnár Andrej		0	28,119,1362
+946	Bokrošová Alžbeta r. Zsebíková		0	1262,1298,1311,1318
+946	Borošová Mária r. Seböová	muž Jozsef	0	28
+946	Borsodiová Júlia r. Kapciová		0	145
+946	Borsodiová Juliana r. Plajdičková	m.Ján	0	1224
+946	Bubenko Daniel		0	160,717
+946	Bubenko Isztván		0	160,717
+946	Bubenko Lászlo		0	160,717
+946	Bubenko Ondrej		0	910
+946	Bubenko Ondrej	ml	0	910
+946	Bubenko Štefan		0	910
+946	Bubenková Rozália		0	160,717
+946	Budaj Farkasová Helena		0	160,717,771,829,891,1076,1142,1228,1257,1259,1367
+946	Budaj Farkasová Helena	mal. v 1920	0	150,221,224,259,1421
+946	Budaj Farkasová Mária		0	150,160,717,771,829,891,1076,1142,1228,1257,1259,1367
+946	Budaj Farkasová Mária	mal. v 1920	0	221,224,259,1421
+946	Bujdoso Samuel		0	28,150
+946	Bulyi Dezso		0	1321
+946	Cseh Daniel		0	145,920,1352
+946	Cseh Ján	ž. Lídia r. Vinceová	0	145
+946	Cseh Ján	ž.Juliana Zemanová	0	28,119,145,1362
+946	Cseh Julianna r. Zemanová	m.Ján	0	28,119,145,1362
+946	Cseh Ľudovít	ž. Pirožka r. Lacová	0	145
+946	Cseh Štefan		0	145
+946	Cseh Štefan	st	0	145
+946	Cseh Štefan	ž. Zuzana	0	145
+946	Csehová Alžbeta r. Porubanová		0	145
+946	Csehová Estera r. Lüköová	muž Michal	0	28,160,258,259,315,717,1168,1367,1421
+946	Csehová Lídia r. Varadiová	m.Daniel	0	28,119,1362
+946	Csehová Lídia r. Vinceová	muž Ján	0	145
+946	Csehová Pirožka r. Lacová	muž Ľudovít	0	145
+946	Csehová Zuzana	muž Štefan	0	145
+946	Csehová Zuzana r. Seböová	muž Ištván	0	28
+946	Csech István	mal.v 1897, zomrel	0	220
+946	Csech János	mal.v 1897, zomrel	0	220
+946	Csechová Lídia	mal.v 1897, zomrela	0	220
+946	Csobádi Alexander		0	160,259,717,1257,1367,1421
+946	Csobádi Andrej		0	119,145,1362
+946	Csobádi Ján	Silická Jablonica	0	28
+946	Csobádi Jozef	ž. Alžbeta Zubrická	0	28,119,1362
+946	Csobádiová Alžbeta r. Zubrická	m.Jozef	0	119,1362
+946	Csobádiová Helena r. Váradyová		0	910
+946	Csobádiová Mária		0	160,717,771,829,1076,1142,1228,1257,1259,1367
+946	Csobádiová Mária	mal. v 1943	0	150,221,224,259,1421
+946	Csobádiová Zuzana r. Tamašová	muž Daniel	0	891
+946	Čechová Helena r. Matyusová		0	1079
+946	Čechová Vilma r. Zsebíková		0	97,119,434,515,647,648,716,833,1362,1363,1364,1365
+946	Danielová Barbora r. Peterová		0	1065
+946	Danko Jozef		0	335
+946	Danko Štefan		0	335
+946	Danko Štefan	najst	0	1301
+946	Demeterová Klára	ide asi o Sakalovu viď PKV 517	0	1017
+946	Die Alexander		0	70,97,119,235,252,332,389,392,393,394,395,396,515,647,648,716,775,907,999,1024,1041,1061,1105,1230,1362,1363,1364,1365,1366,1369,1409,1412,1414,1415,1417
+946	Die Daniel		0	119,1035,1136,1362
+946	Die Ján		0	28,151,160,258,259,266,486,627,670,717,761,882,1018,1024,1041,1070,1251,1366,1367,1369,1421
+946	Die Ján	mal.v 1937	0	332
+946	Die Ján	mal.v 1937,zomrel po vojne	0	235
+946	Die Ján	zomrel po vojne	0	1366
+946	Die Ladislav		0	332
+946	Die Michal	st	0	235,332,761,1024,1041,1366,1369
+946	Die Michal	st.dedil 1914,1926, bol v USA	0	1366
+946	Die Michal	ž.Mária Pállová	0	235,332,761,1024,1041,1366,1369
+946	Die Štefan	ž.Haneszová Zuzana	0	235,332,1022,1024,1041,1119,1366,1369
+946	Die Štefan	ž.Haneszová Zuzana 1869-1943	0	1366
+946	Dieová Helena r. Szalayová	m.Ján	0	266,486,627,670,882,992,993,1018,1070,1084
+946	Dieová Mária r. Mausnyiová		0	1024,1041,1369
+946	Dieová Mária r. Mausnyiová	zápis 1871	0	1366
+946	Dieová Priška		0	1041
+946	Dieová Priška	mal.v 1937, vyd. Mezeiová	0	235
+946	Dieová Priška	mal.v 1937, vyd.Mezeiová	0	332
+946	Dieová Priška	vyd. Mezeiová	0	1024
+946	Dieová Priška	vyd.Mezeiová	0	761,1024,1366,1369
+946	Dieová Rozália r. Kovácsová		0	1000
+946	Dieová Zuzana r. Haneszová	m.István	0	97,515,647,648,716,1022,1024,1041,1061,1105,1119,1363,1364,1365,1366,1369
+946	Dobronyová Rozália r. Kovácsová		0	28,119,1362
+946	Domik Jozef		0	1249
+946	Dospoly Daniel	ml.ž.Estera Zsebíková	0	567,1267
+946	Dospolyová Markéta		0	160,258,717
+946	Doszpoly Jozef	ž.Juliana Klinková	0	1256
+946	Doszpolyová Juliana r. Klinková	m.Jozef	0	1256
+946	Elek Ján		0	28,119,145,1362
+946	Elek Ľudovít		0	28,119,145,1362
+946	Elekevá Alžbeta		0	1302
+946	Eleková Anna r. Zubrická		0	1024,1041,1366,1369
+946	Eleková Mária r. Matyusová		0	1079
+946	Emödiová Erszebeth		0	1194
+946	Emödy Jozef		0	42,297,306,1024,1041,1366,1369
+946	Emödyová Mária r. Plajdičková	m.Jozef	0	1224
+946	Eszterházi Mikloš	Herczeg	0	665,778,850,1024,1041,1366,1369
+946	Farkas Johan		0	1191
+946	Farkaš Jozef		0	97,252,515,647,648,716,1363,1364,1365
+946	Farkaš Ladislav		0	220,771
+946	Farkaš Štefan		0	1059
+946	Farkaš Štefan	ml	0	145
+946	Farkašová Helena r. Szabadošová		0	1084
+946	Farkašová Mária r. Pállová	muž Jozef	0	151,258,259,1367,1421
+946	Farkašová Mária r. Zubrická	m.Andrej	0	1024,1041,1366,1369
+946	Fazekaš	Nezistené	0	28
+946	Fazekaš Orekozsi		0	150
+946	Feherek István	zruš.mal.v 1907	0	470
+946	Feherek Ľudovít		0	1024,1041,1366,1369
+946	Feherek Štefan		0	97,252,515,647,648,716,1363,1364,1365
+946	Fehereková Alžbeta		0	887,1024,1029,1041,1267,1362,1366,1369,1429
+946	Fehereková Alžbeta	mal.v 1926	0	119
+946	Fehereková Alžbeta r. Adorjanová		0	1043
+946	Fehereková Rozália r. Žebíková		0	87,119,252,434,622,685,858,1024,1041,1362,1366,1369
+946	Fekete Samuel		0	1217

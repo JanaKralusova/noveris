@@ -1,0 +1,256 @@
+13	MIKA JURAJ		0	385,557,788
+13	MIKA TOMÁŠ		0	385,788
+13	Motýľ Jozef r. Motýľ		0	955
+13	Motýľová Zuzana r. Chovanecová		0	955
+13	Mulíková Mária r. Jurčišinová		0	973
+13	ONAČILLA JÁN		0	385,788
+13	ONAČILLA JÁN	ž.Mária r.Dešo	0	385
+13	ONAČILLA JÁN	žMária r.Dešo	0	788
+13	ONAČILLA JURAJ	ž.Anna r.Vavreková	0	385,788
+13	ONAČILLA KOVALČIN JÁN		0	558
+13	Onačilla Kovalčin Juraj		0	559
+13	Paligová Zuzana		0	955
+13	Paňko Peter		0	265,690,728,996,997,1005,1035,1036,1060,1128,1129
+13	PAŇKO ZUZANA r. POTYČNÝ		0	269
+13	Paňková Anna	dcéra Jána	0	265,690,728,877,996,997,1005,1035,1036,1060,1128,1129
+13	PAŇKOVÁ ANNA		0	169,170,268,441,1082,1088
+13	Paňková Zuzana	r.Potyčná	0	265,728,996,1005,1035
+13	PAŇKOVÁ ZUZANA r. POTYČNÁ		0	485,690,997,1036,1060,1128,1129
+13	Petrišin Vasiľ r. Petrišin		0	955
+13	Petrišinová Mária r. Bačová		0	955
+13	PETRUŠ AGNESA r. BOMBÍK		0	385,544,788
+13	Petruš Andrej r. Petruš		0	847
+13	PETRUŠ JÁN		0	496,592
+13	PETRUŠ JOZEF	otec Juraj	0	385,788
+13	PETRUŠ JOZEF	syn Juraja	0	560
+13	Petruš Jozef r. Petruš	1	0	860
+13	Petruš Juraj r. Petruš	manž.Mária r.Frická	0	836
+13	PETRUŠ MÁRIA r. FRICKÁ		0	590
+13	Petruška Ján	syn Jozefa	0	265,690,728,996,997,1005,1035,1036,1060,1128,1129
+13	PETRUŠKA JÁN		0	143,145,435,490,491,538,612,613,614,615,617,622,708,709,710,711,712,714,716,717,719,720,774,777,778,779,780,781
+13	Petruška Ján r. Petruška	syn Jozefa	0	813
+13	PETRUŠKA JURAJ r. ŠTECOVÁ		0	538
+13	Petrušová Mária		0	265,688,690,728,996,997,1005,1035,1036,1060,1128,1129
+13	Petrušová Mária r. Sahajdová		0	893
+13	Petrušová Mária r. Sahajdová	1	0	812
+13	Petrušová Mária r. Simková		0	849,883
+13	PETRUŠOVÁ MÁRIA, č. 89, Slovensko		0	310
+13	POĽNOHOSPODÁRSKE DRUŽSTVO	Šarišské Čierne; Šarišské Čierne	0	956
+13	Potičný Fedor r. Potičný		0	956
+13	Potyčná Mária r. Frická		0	875
+13	Potyčný Andrej	manž. Anna r. Simková	0	690,997,1036,1060,1128,1129
+13	Potyčný Andrej	manž. Zuzana r. Simková	0	265,728,996,1005,1035
+13	Potyčný Andrej r. Potyčný	manž.Zuzana r.Simková	0	829
+13	Potyčný Juraj	syn Fedora	0	265,690,728,996,997,1005,1035,1036,1060,1128,1129
+13	Potyčný Juraj r. Potyčný	syn Fedora	0	829
+13	Potyčný Peter r. Potyčný	manž.Mária r.Frická	0	875
+13	PRAVOSLÁVNA CIRKEV	Šarišské Čierne; Šarišské Čierne	0	956
+13	Purdeš Michal r. Purdeš	manž.Anna r.Paňková	0	872
+13	Purdešová Mária r. Simková		0	808
+13	Ridziková Anna r. Lenková		0	962
+13	RILKO JOZEF		0	638
+13	RILKO MÁRIA r. MAČEJ		0	494,637
+13	Rilková Mária	r. Mačejová	0	690,997,1036,1060,1128,1129
+13	Rilková Mária	r.Mačejová	0	265,728,996,1005,1035
+13	RILKOVÁ MÁRIA r. MAČEJOVÁ		0	493
+13	Rohaľová Ľudmila r. Onačilová		0	953
+13	RYBOVIČ MÁRIA r. LACKO		0	470,471,538,622,783,1073
+13	Rybovičová Mária	r. Lacková	0	265,728,996,1005,1035
+13	Rybovičová Mária r. Lacková		0	690,814,820,861,997,1036,1060,1128,1129
+13	Rybovičová Mária r. Lacková	1	0	822
+13	Sasarák Mária	r.Simko	0	996,1005
+13	Sčúr Peter r. Sčúr		0	955
+13	Semanišin Ján r. Semanišin	Beloveža	0	955
+13	Semanišin Vasiľ r. Semanišin		0	955
+13	Semanišinová Mária		0	955
+13	Semanišinová Zuzana		0	955
+13	SIMKO ANNA r. BARNA		0	598,648
+13	Simko Ján		0	265,310,354,507,688,690,728,996,997,1005,1035,1036,1060,1128,1129
+13	Simko Ján r. Simko	manž.Anna r.Simková	0	879
+13	Simko Ján r. Simko	manž.Zuzana r.Simková	0	879
+13	Simko Jozef		0	690,728,996,997,1005,1035,1036,1060,1128,1129
+13	Simko Jozef r. Simko		0	265
+13	Simko Jozef r. Simko	manž.Anna r.Rilková	0	852
+13	SIMKO JURAJ		0	538,622
+13	SIMKO LUKÁČ JÁN		0	356
+13	SIMKO MÁRIA		0	152,567
+13	SIMKO MÁRIA r. MAČEJOVÁ		0	602
+13	Simková Anna	r. Volčková	0	265,728,996,1005,1035
+13	SIMKOVÁ ANNA r. BARNA		0	283,501
+13	SIMKOVÁ ANNA r. KLEBANOVÁ		0	538,622
+13	SIMKOVÁ ANNA r. MAČEJ		0	290
+13	SIMKOVÁ ANNA r. MAČEJOVÁ		0	538,622
+13	SIMKOVÁ ANNA r. SIMKOVÁ		0	538,622,883
+13	Simková Anna r. Volčková		0	690,857,997,1036,1060,1128,1129
+13	Simková Kristína r. Paňková		0	854
+13	Simková Mária		0	265,690,728,996,997,1005,1035,1036,1060,1128,1129
+13	SIMKOVÁ MÁRIA r. HUDÁKOVÁ		0	538,622
+13	SIMKOVÁ MÁRIA r. SAHAJDOVÁ		0	292
+13	SIMKOVÁ MÁRIA r. SIMKO GAJDOŠOVÁ		0	216,757
+13	SIMKOVÁ MÁRIA r. SIMKOVÁ		0	353,895
+13	Slaviková Zuzana	Chomutov	0	956
+13	SOBEKOVÁ MÁRIA r. KOCUROVÁ		0	385,788
+13	SOLANIČ MICHAL		0	385,788
+13	Somirdák Jozef r. Somirdák		0	955
+13	Somirdáková Mária		0	955
+13	Spišák Jakob r. Spišák		0	953
+13	SPIŠÁK JAKUB		0	385,562,788
+13	Spišak Jozef r. Spišak		0	910
+13	Spišáková Mária r. Onačilová		0	953
+13	STACH ANDREJ		0	385,788
+13	STACH JÁN	ž.Mária r.Šurgovská	0	385,788
+13	Surgent Ján r. Surgent		0	961
+13	Sus Jozef		0	265,690,728,996,997,1005,1035,1036,1060,1128,1129
+13	Sus Michal r. Sus	manž.Zuzana r.Rilková	0	865
+13	Susová Zuzana r. Rilková		0	865
+13	Susová Zuzana r. Susuová		0	815
+13	ŠAJNA JÁN		0	385,788
+13	Šepitková Zuzana r. Lipková		0	955
+13	Šivecová Aurélia		0	968
+13	ŠOTT JURAJ		0	385,788
+13	Štec Ján		0	265,310,513,570,577,688,728,996,1005,1035
+13	Štec Ján	manž. r. Volčková	0	690,997,1036,1060,1128,1129
+13	ŠTEC MICHAL		0	310,688
+13	ŠTECOVÁ MÁRIA r. JURISTA		0	448,1004,1068,1069
+13	Štecová Mária r. Potičná		0	846
+13	Štecová Mária r. Volčková		0	846
+13	Šverha Andrej r. Šverha		0	908
+13	Švirk Jozef r. Švirk	D 785/61	0	973
+13	TANČIN ANNA r. TENÍK		0	330
+13	Tančin Ján		0	265,690,728,996,997,1005,1035,1036,1060,1128,1129
+13	Tančin Jozef r. Tančin	manž.Anna r.Haslejová	0	848
+13	TANČIN ZUZANA r. MAČEJ		0	623
+13	TANČINOVÁ ANNA r. SIMKOVÁ		0	515,517,518,690,997,1036,1060,1128,1129
+13	TENIKOVÁ MÁRIA r. ČISAROVÁ		0	310,688
+13	TOMEČEK JÁN		0	385,788
+13	Vabno Andrej r. Vabno		0	960
+13	Vabnová Alžbeta r. Kotuľáková		0	960
+13	Vancová Zuzana		0	955
+13	VAVREK JÁN	ž.Anna r.Marcinová	0	385,564,788
+13	VAVREK JÁN	ž.Anna r.Petruš	0	385,788
+13	VAVREK JURAJ	ž.Anna r.Miková	0	385,788
+13	Virgala Jozef r. Virgala		0	973
+13	Virgala Jozef r. Virgala	manž.Anna r.Kendrová	0	953
+13	Virgalová Anna		0	973
+13	VOLČKO SIMKO JOZEF		0	538,622
+14	ADAMCOVÁ Johanna	r.Šišková zomrela 6.7.1993	0	418
+14	ADAMCOVÁ Johanna r. Šišková	zomrela 6.7.1993	0	245,332
+14	ADAMEC Adam	ž.Verona Minarovičová	0	212,331,389,463
+14	ARDANOVSKÁ Škola Obecná		0	425
+14	BABULIC Jozef		0	246
+14	BABULICOVÁ Anna		0	273,274,417
+14	BABULICOVÁ Mária	r.Bittnerová zomrela 3.3.2000	0	377
+14	BABULICOVÁ Rozália	r.Francová	0	409
+14	BABULICOVÁ Rozália r. Francová		0	246,361
+14	BANÁKOVÁ Alžbeta r. Gajderusová	zomrela 21.5.1980	0	225,226,227,232
+14	BEDNARIK Vojtech	ž.Júlia Bodková	0	383
+14	BEDNARIKOVÁ Júlia	r.Bodková manž.Vojtech	0	383
+14	BEHANOVÁ Veronika	r.Švecová	0	381
+14	BILICKÁ Margita	r.Miháliková zomrela 18.10.1987	0	416
+14	BITNEROVÁ Mária	r.Mitošimková zomrela 4.1.1983	0	411
+14	BITNEROVÁ Mária r. Mitošimková	zomrela 4.1.1983	0	277,278
+14	BITTNER Ján	spoluvl.Jozefína,Magdaléna,Jozef	0	211,236,276,277,309,332,377,411,429
+14	BITTNER Peter	zomrel 6.1.1970	0	429
+14	BITTNEROVÁ Magdaléna	spoluv.Ján,Jozef,Jozefína	0	211,236,276,277,309,332,377,411,429
+14	BLAHÚT Emil	zomrel 7.11.199	0	61,279
+14	BLAHÚT Imrich	zomrel 13.9.1959	0	279
+14	BLAHÚTOVÁ Alžbeta r. Rolincová	zomrela 3.3.1971	0	279
+14	BOHÁČIK Andrej	zomrel 15.7.1987	0	61
+14	BOHÁČIK Ján	zomrel 26.8.1982	0	61
+14	BOHAČIK Karol		0	61
+14	BOLEČEKOVÁ Rozália r. Pavlíková		0	268,269,270,271
+14	BRIGANOVÁ Veronika	r.Kozaková	0	432
+14	BRIGANOVÁ Veronika r. .Kozaková		0	181
+14	Briganová Veronika r. Kozáková		0	203,251,447
+14	BUNDILA Ján		0	391,413
+14	BUNDILA Rudolf		0	391,413
+14	BUNDILOVÁ Mária		0	413
+14	CVIK Štefan	zomrel 6.2.1984	0	342,343,344,461
+14	CVIK Vojtech	ž.Anna Hrdlicová	0	342,343,461
+14	CVIKOVÁ Anna r. Hrdlicová	zomrela 29.1.1961	0	342,343,461
+14	CVIKOVÁ Jozefína r. Gabovičová	zomrela 23.12.1992	0	343
+14	EUGENOVÁ Johanna r. Langerová		0	355
+14	FEKETEOVÁ Terézia r. Gáliková	zomrela 5.2.1973	0	226,229
+14	GABOVIČ Ľudovít	Štefanov	0	345,346
+14	GAJDERUS Michal		0	225,226,227,228,229,230,231,232,233,311,474
+14	GOLIANOVÁ Anna	r.Švecová man.Jozef	0	406
+14	HERMANOVÁ Regina r. Langerová		0	355
+14	JANČOVIČ Ľudovít		0	179
+14	JANEGOVÁ Anna	zomrela 4.1.2001	0	223,244,275,419
+14	JANEGOVÁ Juliana	maloletá; súrodenci Bernardína, Anna	0	193
+14	JANEGOVÁ Juliana	spoluvl.Anna	0	74,188,189,190,191,192,194,195,196,222,255,333,362,363,419,441,443
+14	JANÍČKOVÁ Ernestína r. Pavlíková		0	268,269,270,271
+14	JÁNOSKA Ján		0	424
+14	KÁČER Michal		0	359
+14	KÁČER Michal	ž.Alžbeta Kováčová	0	402
+14	KÁČEROVÁ Alžbeta r. Kováčová	manž.Michal	0	359
+14	KÁČEROVÁ Anna	r.Miková prv Janegová zomrela 24.12.1963	0	419
+14	KATRINICHOVÁ Agáta	r.Kačerová	0	399
+14	KATRINICHOVÁ Agáta r. Kačerová		0	359
+14	KOVÁČOVÁ Katarína r. Slámová		0	187,293
+14	KOVÁČOVÁ Mária	r.Janegová man.Štefan	0	192
+14	KOVÁČOVÁ Mária	r.Pižová zomrela 2.1.1994	0	407
+14	KOZÁK Augustín r. KOZÁK	Šalgovce č. 179, zomr. 30.01.1993	0	203
+14	KOZÁK Gašpar	zomrel 27.3.1981	0	199,432
+14	Kozák Gašpar r. Kozák		0	203
+14	Kozák Gašpar r. Kozák	dedil po Antonovi Kozákovi	0	203
+14	Kozák Jozef	dedil po Antonovi Kozákovi	0	203
+14	KOZÁK Jozef		0	251,447
+14	Kozák Jozef r. Kozák		0	203
+14	Kozák Michal	dedil po Antonovi Kozákovi	0	203
+14	KOZÁK Michal	zomrel 18.1.1986	0	181,251,432,447
+14	Kozák Michal r. Kozák	maloletý	0	203
+14	Kozáková Katarína		0	203
+14	Kozáková Katarína	dedila po Antonovi Kozákovi	0	203
+14	KOZÁKOVÁ Katarína	spoluv.Jozef,Michal,Gašpar,AnnaVerona	0	181,251,432,447
+14	KRAJČO Ján		0	414
+14	KRAJČO Ján	ž.Anna Káčerová	0	354,400,415,422
+14	KRAJČOVÁ Anna	r.Káčerová manž.Ján	0	400,415
+14	KRAJČOVÁ Anna r. Káčerová	manž.Ján	0	359
+14	KRAJČOVÁ Johana r. Gajderusová	vd	0	228,233
+14	KRATOCHVÍL Anton		0	352,422,444
+14	KRATOCHVÍL Michal		0	352,354,422,444
+14	KRATOCHVÍL Pavel	spol.Helena,Hermína	0	352
+14	KRATOCHVÍLOVÁ Hermína		0	354
+14	KUNA Ondrej	ž.Anna Bílená	0	323,419,420
+14	KUNOVÁ Anna	R.BÍLENÁ	0	419,420
+14	KUNOVÁ Anna r. Bílená		0	323
+14	LANGER Hugo		0	99,237,333,362,363,393
+14	LUKÁČEKOVÁ Kristína	spolv.Mária,Rudolf Michler	0	198,242,270,430
+14	LUKÁČEKOVÁ Mária	spolv.Kristína,Rudolf Michler	0	198,242,270,430
+14	MAJORKA Michal	ž.Helena Gajderusová	0	401
+14	MAJORKOVÁ Helena	r.Gajderusová	0	401
+14	MAJORKOVÁ Helena r. Gajderusová		0	225,226,227,228,229,230,231,232,233,311,474
+14	MANDUCH Jozef	zomrel 3.12.1986	0	434
+14	MANDUCHOVÁ Mária	zomrela 2.11.2004	0	181,433
+14	Mandúchová Zuzana r. Šišková	manž. Peter Mandúch	0	203
+14	MASAROVIČOVÁ Mária r. Čulagová		0	300
+14	MATEJOVIČOVÁ Mária	r.Pížová spol.Rudolf,Jozef	0	410,426
+14	MATEJOVIČOVÁ Mária r. Pížová	spol.Rudolf,Jozef	0	322,325
+14	MÉSAROŠOVÁ Anna r. Francová		0	246
+14	Michaleková Anna	dedila po Antonovi Kozákovi	0	203
+14	MICHALEKOVÁ Anna	r.Kozaková	0	432
+14	MICHALEKOVÁ Anna r. Kozaková		0	181,251,447
+14	MICHLER Rudolf	spoluv.Lukáčeková Mária,Kristína	0	198,242,270,430
+14	MICHLER Rudolf	ž.Alžbeta Švecová	0	242
+14	MICHLER Viliam		0	403
+14	MICHLEROVÁ Alžbeta r. Švecová	zomrela 10.10.1942	0	198
+14	MIKLUŠÁKOVÁ Alžbeta	r.Boháčiková zomrela 25.5.1980	0	61
+14	MIKO Imrich	ž.Apolónia Lörincová	0	282
+14	MIKOVÁ Apolónia r. Rolincová		0	283
+14	MITOŠINKOVÁ Gabriela r. Banáková		0	204
+14	ONDRÁŠKOVÁ Mária	r.Remová spol.Anna,Veronika,Alžbeta	0	209
+14	ONDRÁŠKOVÁ Mária r. Remová		0	446
+14	ONDRÁŠKOVÁ Mária r. Remová	spol.Anna,Veronika,Alžbeta	0	261,324
+14	ONDREJKA Pavol	zomrel 21.8.1951	0	181
+14	ONDREJKA Severín	zomrel 19.10.2006	0	178,181
+14	ONDREJKOVÁ Anna r. Sigetová	zomrela 24.8.1988	0	181
+14	ONREJKA Jozef	spoluvl.Rozália,Alžbeta,Severín	0	181
+14	ORBRU Rudolf		0	444
+14	ORBRUOVÁ Mária r. HULMANOVÁ		0	444
+14	PAVLÍK František	spoluvl.Jozef	0	268,269,270,271,272,273,274,417
+14	PAVLÍK Jozef	zomrel 8.8.1991	0	417
+14	PÍŽA Jozef	zomrel 19.11.1966	0	320,322,325,408,410,426
+14	REMA Ján		0	424
+14	ROHÁČIKOVÁ Júlia r. Rolinecová		0	216
+14	ROJKO Ondrej	zomrel 22.3.2002	0	371,457,470,505

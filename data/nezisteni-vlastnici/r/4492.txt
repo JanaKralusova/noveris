@@ -1,0 +1,256 @@
+2545	Sebő Andrej		0	685,759,943
+2545	Sebő František		0	761
+2545	Sebő Imrich		0	761,829
+2545	Sebő Ladislav		0	829
+2545	Sebő Štefan		0	829
+2545	Sebőová Alžbeta r. Borbélyová		0	829
+2545	Sebőová Alžbeta r. Kulacsová		0	536
+2545	Sebőová Alžbeta r. Sebőová		0	734,829
+2545	Sebőová Anna r. Nagyová	manžel Gabriel	0	876
+2545	Sebőová Anna r. Sebőová		0	734
+2545	Sebőová Gizela r. Sebőová		0	734
+2545	Sebőová Helena r. Sebőová		0	829
+2545	Sebőová Katarína r. Sebőová		0	761,829
+2545	Sebőová Margita r. Szakálová		0	808
+2545	Sebőová Mária r. Bajcsiová	manžel Karol	0	734
+2545	Sebőová Terézia r. Paksiová	manžel Július; manžel Július	0	204,887
+2545	Soós Vendelin r. Soós		0	535
+2545	Soósová Justína r.Horváthová		0	535
+2545	Szabó Karol		0	790
+2545	Szabó Michal		0	694,903
+2545	Szabóová Etela r. Santurová	manžel Jozef	0	830
+2545	Szabóová Terézia r. Matisová	manžel Imrich	0	801,817,842
+2545	Szakál Ignác		0	808
+2545	Szakáll Imrich		0	824
+2545	Szakállová Júlia r. Almásiová	manžel Imrich	0	824
+2545	Szakálová Mária r. Szakálová		0	808
+2545	Szegi Móric		0	504,730,755
+2545	Szegiová Helena r. Szegiová		0	504,730,755
+2545	Szegiová Jolana r. Szegiová		0	755
+2545	Szegiová Justína r. Szegiová		0	504,730,755
+2545	Szegiová Mária r. Szegiová		0	730,755
+2545	Szelleová Katarína r. Wimmerová	manžel Pavol	0	816
+2545	Szombathelyi Imrich		0	765
+2545	Szombathelyiová Helena r. Jankóová	manžel Imrich	0	765
+2545	Takács Eugen		0	844
+2545	Takács Ján		0	844
+2545	Takács Július		0	844
+2545	Takácsová Helena r. Takácsová		0	363,390
+2545	Takácsová Mária r. Bartalosová		0	377,384,477,478,539,596,638
+2545	Tar Alexander		0	789
+2545	Tar Imrich		0	593,789,822
+2545	Tar Jozef		0	593,789
+2545	Tar Vincent		0	593,789
+2545	Tarcsiová Mária r. Szabóová		0	832
+2545	Tarová Mária r. Tarová		0	593,789
+2545	Török Jozef		0	538
+2545	Török Štefan		0	538
+2545	Töröková Alžbeta r. Töröková		0	538
+2545	Töröková Mária r. Töröková		0	538
+2545	Tóth František		0	761
+2545	Tóth Imrich		0	761,853
+2545	Tóth Ján		0	761
+2545	Tóthová Kristína r. Sebőová	manžel Štefan	0	801
+2545	Turicová Mária r. Hölgyeová	manžel Mikuláš	0	805
+2545	Vadászová Agneša r. Bajcsiová	manžel Štefan	0	734
+2545	Vágovicsová Gizela r. Wimmerová	manžel Ján	0	816
+2545	Váll Emil		0	830
+2545	Vállová Alžbeta r. Vállová		0	830
+2545	Vállová Magdaléna r. Vállová		0	830
+2545	Vargová Estera r. Csepiová	manžel Valentín	0	718
+2545	Vargová Irena r. Takácsová		0	363,390
+2545	Vasová Mária r. Hamarová		0	377,384,477,478,539,596
+2545	Vass Alojz		0	734
+2545	Vass Jozef		0	431,490,796
+2545	Vassová Janka r. Kollárová	manžel Alojz	0	734
+2545	Végh Július		0	718
+2545	Végh Michal		0	718
+2545	Véghová Irena r. Véghová		0	718
+2545	Vendek Jozef		0	718
+2545	Vendeková Katarína r. Csepiová	manžel Jozef	0	718
+2545	Vida Gašpar		0	563,564
+2545	Vida Jozef		0	555,563
+2545	Vida Štefan		0	563
+2545	Vidaová Anna r. Vidaová		0	563,564
+2545	Vidaová Helena r. Vidaová		0	563,564
+2545	Vidaová Irena r. Vidaová		0	563,564
+2545	Vidaová Mária r. Vidaová		0	589
+2545	Vidaová Rozália r. Vidaová		0	563,564,589
+2545	Wimmer Augustin		0	816
+2545	Wimmer Eugen		0	816
+2545	Wimmer Jozef		0	816
+2545	Wimmer Štefan		0	816
+2545	Wimmer Vojtech		0	816
+2545	Wimmerová Borbála r. Wimmerová		0	816
+2545	Závodszkyová Katarína r. Lászlóová	manžel Ján	0	366,643,729,752
+2545	Zsemlye Imrich		0	457,707,708,880
+2545	Zsemlyeová Gizela r. Zsemlyeová		0	457,707,708,880
+2545	Zsemlyeová Helena r. Zsemlyeová		0	707,708,880
+2545	Zsemlyeová Mária r. Zsemlyeová		0	457,707,708,880
+2546	Bacsák Štefan		0	1067
+2546	Bartal Gejza		0	1086
+2546	Bergová Šarolta r. Bacsáková		0	1067
+2546	Besíková Alžbeta r. Nagyová		0	1122
+2546	Bindics Anton		0	1129
+2546	Bindics Vojtech		0	1129
+2546	Bíró Mikuláš		0	1077
+2546	Bognár Jozef		0	903
+2546	Boriová Margita r. Kissová		0	1114
+2546	Bozo Alexander		0	1111
+2546	Csomorová Anna r. Drábiková		0	1065
+2546	Czére Bedrich		0	845
+2546	Czére Fridrich		0	1073
+2546	Czére Štefan		0	186,1129
+2546	Czére Viktor		0	1119
+2546	Czére Viktor	otec Czére Štefan	0	962
+2546	Czéreová Juliana r. Czéreová		0	1129
+2546	Czéreová Margita r. Nagyová		0	841
+2546	Deak Ladislav		0	1072
+2546	Deaková Adriana		0	1072
+2546	Deaková Katarína		0	1072
+2546	Drábik Štefan		0	1065
+2546	Drábiková Rozália		0	1065
+2546	Drábiková Vilma		0	1065
+2546	Érsek Štefan		0	1130
+2546	Farkaš František	ml	0	1108
+2546	Goldbergerová Magdaléna		0	1096,1244,1245
+2546	Gyürkyová Mária		0	841,846,847,1144
+2546	Hagemau Pavel		0	1088
+2546	Hagemauová Katarína r. Horňáková		0	1088
+2546	Hodosi Rudolf		0	1089
+2546	Horváth Anton		0	1118
+2546	Horváthová Juliana		0	1118
+2546	Horváthová Julianna r. Vargová		0	882
+2546	Horváthová Mária		0	1118
+2546	Jankovič Viliam		0	1112
+2546	Juhász Vojtech		0	1108
+2546	Juhászová Etela		0	1108
+2546	Kalmár František		0	958
+2546	Kalmár Ľudovít		0	958
+2546	Kalmárová Agneša r. Érseková		0	1131
+2546	Kalmárová Mária		0	434,957,958,963,1070
+2546	Karácsony Štefan		0	1066
+2546	Karácsonyová Margita r. Klauszová		0	1066
+2546	Kiss Július	manželka Varsányiová Anna	0	1115
+2546	Kiss Július	otec Antonín Kiss	0	1114
+2546	Kiss Štefan		0	1127
+2546	Kiss Štefan	otec Kiss Jozef	0	907,933,934,935
+2546	Kissová Anna r. Varsányiová		0	1115
+2546	Kissová Mária r. Péková		0	907,933,934,935
+2546	Kmupanová Elza r. Reiszová		0	1092,1513
+2546	Kurtulík Jozef	manž. Mária Kurtulíková rod. Zemeníková	0	906,1271
+2546	Kurtulík Jozef	ml	0	1063
+2546	Kurtulíková Žofia r. Szabóová		0	1063
+2546	Lakatoš Ján		0	958
+2546	Lelkes Jozef		0	1118
+2546	Lelkesová Agneša		0	1118
+2546	Lelkesová Borbála		0	1118
+2546	Lelkesová Helena		0	1118
+2546	Lelkesová Veron		0	1118
+2546	Lukáčová Mária		0	1065
+2546	Magyaričová Juliana		0	1117
+2546	Máhrová Karola		0	1109
+2546	Mayerová Anna r. Czéreová		0	1125
+2546	Mester Ján		0	1087
+2546	Mesterová Brigita r. Hideghétyová		0	1087
+2546	Mészáros Jozef		0	1107
+2546	Mészáros Vojtech		0	1107
+2546	Mészárosová Alžbeta		0	1107
+2546	Mészárosová Gizela		0	1107
+2546	Mészárosová Ida		0	1107
+2546	Nagy Dezider		0	841
+2546	Nagy Július		0	1080
+2546	Nagy Július	ml	0	1121
+2546	Nagy Vincent		0	841,846,847,1144
+2546	Nagyová Alžbeta r. Vargová		0	883
+2546	Nagyová Apolónia r. Csörgeyová		0	847
+2546	Nagyová Júlia r. Kalmárová		0	958
+2546	Nárožná Mária r. Sýkorová		0	1093
+2546	Nemček Jozef		0	1112
+2546	Nemček Jozef	st	0	1112
+2546	Nemček Vendel		0	1112
+2546	Nemčeková Anna		0	1112
+2546	Nemčeková Paulina		0	1112
+2546	Németh Eugen		0	828,888
+2546	Németh Ignác		0	1059,1060
+2546	Németh Ján		0	828,888
+2546	Németh Ján	otec Németh Peter, matka Némethová Veron r. Szalayová	0	1059,1060
+2546	Németh Jozef		0	1059,1060
+2546	Németh Ľudovít		0	1059,1060
+2546	Németh Štefan		0	828,888
+2546	Némethová Margita		0	828,888
+2546	Némethová Mária		0	828,888
+2546	Ocsvaiová Júlia r. Kőszeghyová		0	186
+2546	Ocsvayová Juliana r. Czéreová		0	186,1129
+2546	Olgyay Jozef		0	821
+2546	Peller Gašpar		0	1085
+2546	Peller Michal		0	1085
+2546	Potocsiová Júlia		0	901
+2546	Potocsyová Juliana		0	901
+2546	Razgyel Karol		0	1117
+2546	Razgyelová Agneša r. Szabóová		0	1117
+2546	Rédler Ján		0	1132
+2546	Rédlerová Etela r. Bíróová		0	1077,1132
+2546	Reicher Eugen		0	1124
+2546	Reicherová Mária r. Nagyová		0	889
+2546	Szabó Ľudovít		0	1117
+2546	Szabóová Mária r. Bognárová		0	903
+2546	Szalay Ľudovít		0	1113
+2546	Szalayová Alžbeta		0	1113
+2546	Szalayová Anna		0	1113
+2546	Szalayová Etela		0	1113
+2546	Szamaránszkyová Mária r. Mészárosová		0	1107
+2546	Szigeti Pavol		0	1068,1113
+2546	Szigetiová Barbora r. Szalayová		0	1068,1113
+2546	Takácsová Mária r. Nagyová		0	841,846,1144
+2546	Tokárová Veronika r. Nagyová		0	1058
+2546	Varga Jozef		0	1079
+2546	Varga Jozef	manž. Alžbeta Mészárosová	0	1126
+2546	Varga Jozef	otec Varga Gašpar	0	1078
+2546	Varga Ladislav		0	1116
+2546	Varga Vojtech		0	882
+2546	Vargaová Alžbeta r. Mészárosová		0	1126
+2546	Végh Dezider		0	958
+2546	Végh Gašpar		0	1083
+2546	Végh Ján		0	1081
+2546	Végh Štefan		0	958
+2546	Véghová Alžbeta		0	958
+2546	Véghová Anna		0	958
+2546	Viola Jozef	ml	0	946,1084
+2546	Viola Vojtech		0	946,1084
+2547	Adamovič Július		0	26
+2547	Adamovič Ľubomír r. Adamovič	mal	0	268
+2547	Adamovič Ľubomír r. Adamovič	maloletý	0	42
+2547	Adamovič Ľudovít		0	26
+2547	Adamovič Ľudovít r. Adamovič		0	137,140,141,166,167,246,274,275,342,356,367
+2547	Adamovičová Helena r. Vlčeková		0	137,140,141,166,167,246,274,275,342,356,367
+2547	Adamovičová Vlasta	mal	0	268
+2547	Adamovičová Vlasta	maloletá	0	42
+2547	Babiak Jozef r. Babiak		0	292
+2547	Bakoš Samuel r. Bakoš	ž.Mária r.Pougárová	0	293
+2547	Balogová Pavlina r. Adamovičová		0	128,135,137,138,139,140,141,142,246,279,342,367,368
+2547	Beňová Žofia	m.Ondrej Galai	0	136
+2547	Brezinová Rozália r. Uhrinová	Migléc	0	105
+2547	Brezinová Rozália r. Uhrinová Migléc		0	211,215
+2547	Bugárová Júlia r. Cikraiová	vd., m.Ondrej	0	155,184,246,270,271,311
+2547	Bugárová Júlia r. Cikraiová	vdova, m.Ondrej	0	158
+2547	Cikrai Ján r. Cikrai		0	246,270,271
+2547	Cikrai Ján r. Cikrai	ž.Mária Cikraiová	0	320
+2547	Cikrai Ján r. Cikrai	ž.Zuzana r.Čajková	0	178,187,200,201,246,284,313,378
+2547	Cikrai Julius	r.Cikrai	0	55
+2547	Cikrai Martin r. Cikrai	syn Martina, Amerika	0	200,201,246,310,325
+2547	Cikrai Ondrej		0	17
+2547	Cikrai Ondrej	v Amerike	0	122,341
+2547	Cikrai Ondrej r. Cikrai		0	123,124,125,190,193,194,365
+2547	Cikrai Ondrej r. Cikrai	v Amerike	0	246,270
+2547	Cikrai Paluš Martin r. Cikrai Paluš	Amerika	0	172,345,370
+2547	Cikrai Samuel r. Cikrai		0	315
+2547	Cikrai Vician Ondrej r. Cikrai Vician		0	322
+2547	Cikraiová Božena		0	55
+2547	Cikraiová Emilia		0	55
+2547	Cikraiová Emília	dcéra Martina	0	324
+2547	Cikraiová Emília r. Matejsová		0	195
+2547	Cikraiová Helena		0	55
+2547	Cikraiová Margita r. Miškovičová		0	128,135,138,139,229,246,280,290,320,325,368
+2547	Cikraiová Mária r. Cikraiová		0	272
+2547	Cikraiová Zuzana		0	200,201

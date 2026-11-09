@@ -1,0 +1,256 @@
+192	Juriga Pavel		0	10339
+192	Jurík Alžbeta r. Horváth		0	8814
+192	Jurková Hedviga r. Štvrtecká		0	8574,11638,11653
+192	Jurkovič Jozef		0	8586
+192	Jurkovičová Terézia r. Stanek		0	8586
+192	Kadlic Alexander		0	8791
+192	Kadlic Alojz		0	11126,11638
+192	Kadlic Alojz	A	0	11653
+192	Kadlic Alojz	B	0	11653
+192	Kadlic Alojz, SR		1	2856
+192	Kadlic Alžbeta r. Hurbanová		1	2867
+192	Kadlic Anna		0	8573
+192	Kadlic Anton		0	9969
+192	Kadlic Helena		0	9627,10179
+192	Kadlic Ján		0	212,4699,8514,8574,9125,11230,11638
+192	Kadlic Ján	A	0	11653
+192	Kadlic Ján	B	0	11653
+192	Kadlic Ján	C	0	8520,11653
+192	Kadlic Ján	D	0	11653
+192	Kadlic Ján, SR		1	2863
+192	Kadlic Jozef		0	8574,10799,11637,11638
+192	Kadlic Jozef	A	0	11653
+192	Kadlic Jozef	B	0	11653
+192	Kadlic Jozef	C	0	11653
+192	Kadlic Jozef	D	0	11653
+192	Kadlic Jozef, SR		1	2856
+192	Kadlic Júlia		0	9199
+192	Kadlic Katarína r. Dorda		1	2863,8574,11638,11653
+192	Kadlic Mária r. Mihál		0	11357
+192	Kadlic Martin		0	212,4699,10854
+192	Kadlic Štefan		0	212,4699,10944
+192	Kadlic Terézia		0	9686
+192	Kadlic Veronika r. Grznár		0	9068
+192	Kadlicová Alžbeta r. Hurbanová		0	8445,11638
+192	Kadlicová Anna		0	212,4699
+192	Kadlicová Helena		0	212,4699
+192	Kadlicová Júlia		0	212,4699
+192	Kadlicová Justína r. Heštera		0	10787
+192	Kadlicová Justína r. Heštera	A	0	9135
+192	Kadlicová Karolína r. Hladíková		0	8574,11638,11653
+192	Kadlicová Mária r. Vaculová		0	8514,8520,8574,11525,11638,11653
+192	Kadlicová Martina		0	4699
+192	Kadlicová Terézia		0	212,4699
+192	Kadlicová Veronika r. Grznár		0	8730
+192	Kadlíček Jozef		0	11518
+192	Kadlíčková Anna r. Švec		0	10460
+192	Kaffková Anna r. Mateovičová		0	8574,11638,11653
+192	Kafka Ľudovít		0	8574,11269
+192	Kafková Anna		0	8574
+192	Kafková Anna r. Matejovič		0	8498
+192	Kafková Jozefína		0	8574,11638,11653
+192	Kaiser Ondrej		0	9779
+192	Kaiserová Anna r. Diviak		0	9003
+192	Kaponeková Helena		0	8497
+192	Kaponeková Terézia		0	8497
+192	Kapouneková Helena r. Ordoghová		1	2865,8574,8715,11638,11653
+192	Kapouneková Terézia r. Ordoghová		1	2865,8574,8715,11638,11653
+192	Kaula Eva r. Vajay		0	10418
+192	Kiffe Anna r. Jakubovičová		0	8574,11573,11638,11653
+192	Kimlička Michal		0	10925
+192	Kimličková Karolína r. Celláryová		0	9769
+192	Kimličková Karolína r. Celláryová	A	0	11638
+192	Klempa Anna r. Hladík		0	9041
+192	Klempa Anna r. Hladík	A	0	5173,8496
+192	Klempa Antonia r. Šimek		0	10493
+192	Klempa František		0	8593
+192	Klempa Helena		0	8573
+192	Klempa Helena r. Kopiar		0	10314
+192	Klempa Ján		0	10033
+192	Klempa Jozef		0	10916
+192	Klempa Mária		0	8573
+192	Klempa Mária r. Maxián		0	11490
+192	Klempa Paula		0	8573
+192	Klempa Štefan		0	9888
+192	Klempa Štefan	A	0	8662
+192	Klempová Anna r. Hladíková		0	8574,11638,11653
+192	Klempová Anna r. Hladíková	A	0	8574,11638,11653
+192	Klempová Helena r. Kopiar		0	10267
+192	Klempová Júlia		0	8574,11638,11653
+192	Klempová Júlia r. Kadlic		0	8662
+192	Klepp Alžbeta r. Machata		0	9030
+192	Klingerová Helena		0	8574,11638,11653
+192	Klingerová Mária r. Celáryová		0	8574,11638,11653
+192	Knotek Anna r. Mikulič		0	11677
+192	Knotek Florián		0	9613
+192	Knotek Ján		0	8924
+192	Knotek Jozef		0	10867
+192	Knotek Štefan r. Knotek, zom.16.12.1956 zom.16.12.1956		0	10780
+192	Kodádek Mária r. Olšovská		0	11584
+192	Koch Alojz		0	8573
+192	Koch Fridrich		0	8573
+192	Koch Ján		0	10805,11599
+192	Koch Jozef		0	8573
+192	Koch Júlia r. Hajdin		0	9655
+192	Koch Mária		0	11207
+192	Koch Michal		0	9154
+192	Koch Štefan		0	11599
+192	Kochmanovič Karolína r. Šiška		0	11677
+192	Kochmanovičová Karolína r. Šišková		1	2836
+192	Kochová Helena		0	11669
+192	Kochová Mária		0	8574,10713,11638,11653
+192	Kochová Zuzana		0	11669
+192	Kolacia Gizela		0	8573
+192	Kolacia Július		0	8573
+192	Kolaj Karolína r. Šimek		0	11196
+192	Kolár Helena r. Matiášek		0	10749
+192	Kolár Júlia r. Miholek		0	10897
+192	Kolárová Mária r. Pribilová		0	11638,11653
+192	Kollár Viktor		0	11638,11653
+192	Kollárová Mária r. Pribylová		0	11638,11653
+192	Komorná Alžbeta r. Jurica		0	10559
+192	Komorník Florián		0	8497
+192	Komorník Karol		0	8497
+192	Komorníková Terézia r. Ordogová		0	11316,11575,11674
+192	Komorný Ján		0	9574
+192	Konár Pavel		0	8574,9215,11638,11653
+192	Konár Pavol		0	10472
+192	Konečná Alžbeta		0	11677
+192	Konečná Alžbeta r. Vávra		0	11035
+192	Konheliánová Eva r. Macejka		0	9953
+192	Kopáč Lorenc		0	8574,11638,11653
+192	Kopáčová Júlia r. Gašparíková		0	8574,11638,11653
+192	Kopáčová Štefánia r. Vallová, zom.03.07.1969 zom.03.07.1969		0	8574,8757,11638,11653
+192	Kopečná Jozefa r. Štefková		0	9049,11638,11653
+192	Kopiar Anna r. Žák		0	8920
+192	Kopiar Eva r. Hušek		0	8498
+192	Kopiar Martin		0	9410,10362
+192	Kopiar Mikuláš		0	8573,10675
+192	Kopiar Pavel		0	9926
+192	Kopiar Štefan		0	11428
+192	Kopunič Martin		0	10244
+192	Kopuničová Barbora r. Heštera		0	8932
+192	Kopuničová Terézia r. Matejovičová		0	8574,9841,11638,11653
+192	Kováčová Helena r. Heštera		0	8748
+192	Kovanič Alojz		0	8512,8574,8930,11638,11653
+192	Kovanič Pavol		0	8512,8574,10327,11638,11653
+192	Kovaničová Júlia		0	8574,11474,11638,11653
+192	Kovaničová Zuzana		0	8574,9791,11638,11653
+192	Kovár Alojz		0	11625
+192	Kovár Anna		0	8780
+192	Kovár Helena		0	11625
+192	Kovár Ján		0	8574,10474,11638
+192	Kovár Ján	A	0	11653
+192	Kovár Ján	B	0	11653
+192	Kovár Milan, nar. 31.8.1924 nar. 31.8.1924		0	8574
+192	Kovár Terézia		0	11625
+192	Kovárik Helena		0	8799
+192	Kovarík Ján		0	11204,11638
+192	Kovárik Ján	A	0	11653
+192	Kovárik Ján, ž.Anna Petrík ž.Anna Petrík		0	8574,11638,11653
+192	Kovárik Július		0	8574,9328,11638,11653
+192	Kovárik Karolína		0	8496
+192	Kovarík Ľudvig		0	9904
+192	Kovárik Mária		0	10006
+192	Kovárik Mimi		0	8496
+192	Kovarík Otília		0	9055
+192	Kovárik Pavel		0	11307
+192	Kovárik Pavol		0	11638,11653
+192	Kovárik Rudolf		0	8574,11638,11653
+192	Kovárik Štefan		0	8574,9163,11638,11653
+192	Kovárik Zuzana r. Kovár		0	9173
+192	Kováriková Amália r. Dufková		0	11638,11653
+192	Kováriková Helena		0	8574,11638,11653
+192	Kováriková Karolína		0	8574,11638,11653
+192	Kováriková Mária		0	8574,11392,11638,11653
+192	Kováriková Mária	A	0	11653
+192	Kováriková Mimi		0	8574,11638,11653
+192	Kováriková Zuza r. Kovár		0	8465
+192	Kovárová Alojzia r. Hladíková		0	11638,11653
+192	Kovárová Alojzia, maloletá maloletá		0	8574,10170,11638,11653
+192	Kovárová Helena, maloletá maloletá		0	10342
+192	Kovárová Mária, maloletá maloletá		0	8574,11638,11653
+192	Kovárová Terézia		0	8574,9507,11638,11653
+192	Kovárová Valéria, maloletá maloletá		0	10012,11638,11653
+192	Kovarovič Alexander		0	11625
+192	Kovarovič Alojz		0	8574,10231,11638,11653
+192	Kovarovič Anna r. Duffek		0	10341
+192	Kovarovič Ján		0	9578
+192	Kovarovič Ladislav		0	11625
+192	Kovarovič Pavel		0	8574,11212,11638,11653
+192	Kovarovič Pavel	A	0	11367,11653
+192	Kovarovič Pavol		0	8574,11638
+192	Kovarovič Pavol	A	0	9878,11653
+192	Kovarovič Pavol	B	0	9099,11653
+192	Kovarovič Štefan		0	8512,8574,10136,11638,11653
+192	Kovarovič Štefan	A	0	10149,11653
+192	Kovarovič Terézia r. Matušek		0	11391
+192	Kovarovičová Júlia		0	8574,11454,11638,11653
+192	Kovarovičová Zuzana		0	8574,9454,11638,11653
+192	Kovarovičová Zuzana r. Pechová		0	8574,9333,11638,11653
+192	Kovarovičová Zuzana r. Pechová	A	0	8574,11638,11653
+192	Kozma Florián		0	11638,11674
+192	Kozma Štefan		0	9020
+192	Kozmová Júlia		0	11638,11674
+192	Kozmová Júlia r. Sokeyová		0	11638,11674
+192	Kozmová Terézia r. Šimek		0	10169
+192	Kožušník Cyril		0	11625
+192	Kožušník Františka		0	11625
+192	Kožušník Hedviga		0	9388
+192	Kožušník Johana		0	9564
+192	Kožušník Jozef		0	11625
+192	Kožušník Martin		0	8445
+192	Kožušník Terézia		0	11625
+192	Kožušník Tomáš		0	11625
+192	Krajčír Alžbeta r. Šimek		0	11247
+192	Krajčír Jozef		0	11254
+192	Krajčír Jozef, maloletý maloletý		0	11638,11653
+192	Krajčír Mária		0	9961
+192	Krajčír Paula r. Maxián		0	9844
+192	Krajčír Peter		0	8805,10059
+192	Krajčír Terézia r. Buchta		0	9384
+192	Krajčírová Alžbeta r. Šimek		0	9957
+192	Krajčírová Anna r. Škrabák		0	5130,8809
+192	Krajčírová Mária		0	11638,11653
+192	Krajčírová Mária r. Matejovič		0	8574,11162,11638,11653
+192	Krátka Jozefína r. Štefková		0	8574,11019,11638,11653
+192	Kratochvíl Ján		0	8498,9228,9394
+192	Kratochvíl Ján, ž.Apolonia Vachaja ž.Apolonia Vachaja		0	9117
+192	Kratochvíl Jozef		0	8915,9257,11638
+192	Kratochvíl Jozef	A	0	11653
+192	Kratochvíl Juraj		0	10325
+192	Kratochvíl Marek		0	11473
+192	Kratochvíl Mária		0	10087
+192	Kratochvíl Pavel		0	8574,10422,11638,11653
+192	Kratochvíl Štefan		0	8574,8871,11291,11638
+192	Kratochvíl Štefan	A	0	11653
+192	Kratochvíl Štefan	B	0	11653
+192	Kratochvíla Ján		0	11145
+192	Kratochvíla Ján, Alžbeta Alžbeta		0	10523
+192	Kratochvíla Mária r. Šiška		0	11432
+192	Kratochvíla Štefan		0	11133
+192	Kratochvílová Alojzia		0	11638
+192	Kratochvílová Anna		0	8574,11638,11653
+192	Kratochvílová Eva r. Rusňáková		0	9572
+192	Kratochvílová Karolína r. Džirgasová		0	8574,11638,11653
+192	Kratochvílová Maria		0	9286,9583,10874
+192	Kratochvílová Rozália r. Vávrová		0	8574,11638,11653
+192	Kraus Terézia Mária r. Osuská		0	9984
+192	Kridliková Anna r. Gútová		0	8574,9982,11638,11653
+192	Kristínek Angela		0	11342
+192	Kristínek Anton		0	8787,10433
+192	Kristínek Martin		0	8729
+192	Kristínek Terézia r. Melšická		0	8701
+192	Kristínková Jozefa r. Mucha		0	10476
+192	Kubačák František		0	9727
+192	Kubačák František	A	0	8520
+192	Kubačáková Klementína r. Paštáková		0	8520
+192	Kubenáková Anna, SR	D: Tomek |	1	4141
+192	Kubicová Berta		0	11674
+192	Kubicová Mária r. Gašparíková		0	10926,11638,11674
+192	Kubina Ignác		0	9275
+192	Kubinová Rozália r. Riška		0	9513
+192	Kubovič Anna, maloletá maloletá		0	8465
+192	Kubovič Františka, maloletá maloletá		0	8465
+192	Kubovič Mária r. Hušek		1	2781,4739,4892,11088
+192	Kudla Ján		0	10959

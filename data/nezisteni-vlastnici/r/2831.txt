@@ -1,0 +1,256 @@
+1583	HÁZ Ondrej	zomrel	0	751
+1583	HAZOVÁ Katarína	rod.Kováčová	0	728
+1583	HNILICA Ján		1	162,163,766,767
+1583	Horniak Ján	manž.Zuzana rod.Kollárová	1	833,852,853
+1583	HROMADA Pavol		0	481
+1583	HUSÁK Ján		0	478,671
+1583	HUSÁK Pavol		1	483,831
+1583	HUSÁK Pavol	vl.č.93	1	834
+1583	HUSÁKOVÁ Mária	vl.č.93	1	834
+1583	JANKOVIČOVÁ Zuzana	rod Kameníková	1	32,778
+1583	KAJBA Juraj	Mišjak	0	692,868
+1583	KAJBA Juraj	zomrel	0	751
+1583	KAJBOVÁ Mária	rod.Danielová	0	478,671
+1583	KÁKA Ján	vl.434	0	478,538,671,902
+1583	KAMENIK Ján	Krutiš	0	493
+1583	KAMENÍK Ján		1	834
+1583	KAMENÍK Juraj		1	20,32,447,778,833,834,852,853
+1583	KAMENÍK Juraj	vl.č.93	1	834
+1583	KAMENÍK Ondrej		0	478,669,670,671
+1583	KAMENIK Pavol		1	20,32,447,778,833,852,853
+1583	KAMENÍKOVÁ Anna	maloletá	1	155
+1583	KAMENIKOVÁ Zuzana	rod.Gáliková	0	510
+1583	KAMENÍKOVÁ Zuzana	maloletá	1	155
+1583	KAMENYIKOVA ZUZANA		0	449
+1583	KANDA Ján		1	585,833,852,853
+1583	KARKUS Juraj		0	390
+1583	KARKUSOVÁ Zuzana	rod.Pavlová	0	390
+1583	KARMAN Andrej		0	686
+1583	KARMAN Ján	Filipove	0	751
+1583	KARMAN Ján	manž.Mária rod.Hrubiková	0	719,944
+1583	KARMAN Ján	Petrov	0	693
+1583	KARMAN Ján	Šašoje - zomrel	0	751
+1583	KARMANOVÁ Anna	rod.Kajbová	0	678
+1583	KARMANOVÁ Helena	rod.Matusová	0	689
+1583	KIRALYOVÁ Mária	rod.Dubalajová	0	714
+1583	KISEL Ján		0	734
+1583	KLÁTIKOVÁ Anna	rod.Višniarová	1	43
+1583	KLÁTIKOVÁ Anna r. Višniarová, Ľuboreč, č. 36, SR		0	822
+1583	KLÁTIKOVÁ Zuzana		1	822
+1583	KLINCUT Ján		0	753
+1583	KOCSAOVÁ Anna	rod.Kamenyiková	1	809
+1583	KOLÁR Ján		1	834
+1583	KOLÁR Pavol		1	834
+1583	KOLBENHEYEROVÁ Etela	rod.Goldpergerová	1	834,852,853
+1583	Kolbenheyerová Etela r. Goldpergerová		0	833
+1583	KOLLÁR Ján	Zlatovie	0	559,638
+1583	KOLLÁR Juraj	Dolný	0	478,671
+1583	KOLLÁR Martin		1	834
+1583	KOLLÁROVÁ Zuzana	rod.Urňašová manžel Ján	1	834
+1583	KOMÁR Andrej		1	834
+1583	KOMÁR Ján		1	274
+1583	KOMÁR Ján	Goras	0	478,671
+1583	KOMÁR Ján	Hromada	0	478,671
+1583	KOMÁR Ján	manž.Anna rod.Gáliková	1	834
+1583	KOMÁR Ján	vl.č.93	1	834
+1583	KOMÁR Ján	Žandár	0	669,670
+1583	KOMÁR Juraj		0	660,669,670
+1583	KOMÁR Juraj	Husár	0	478,671
+1583	KOMÁR Pavol	manž.Zuzana rod.Širková	1	478,671,834
+1583	KOMÁR Pavol	mladší	1	807
+1583	KOMÁROVÁ Anna		0	830
+1583	KOMÁROVÁ Anna	maloletá	1	95
+1583	KOMÁROVÁ Anna	rod.Gáliková,manžel Ján	1	95
+1583	KOMÁROVÁ Anna	rod.Marčoková	1	834
+1583	KOMÁROVÁ Anna r. Gáliková		0	830
+1583	KOMÁROVÁ Mária	rod.Kameníková	1	834
+1583	KOMÁROVÁ Mária	rod.Kanátová	1	797
+1583	KOMÁROVÁ Mária	rod.Karmanová	1	852,853
+1583	KOMÁROVÁ Mária	rod.Komárová	1	798
+1583	KOMÁROVÁ Mária	rod.Širková	1	210,412,493,540,852,853
+1583	Komárová Mária r. Karmanová		0	833
+1583	Komárová Mária r. Širková		0	833
+1583	KOMÁROVÁ Terézia	rod.Vanková	0	478,634,669,670,671
+1583	KOMÁROVÁ Zuzana	rod.Komárová	1	641,834,852,853
+1583	Komárová Zuzana r. Komárová		0	833
+1583	Kopitko Juraj	vl.č.433	1	833,852,853
+1583	KOPITKO Juraj		1	416,582,821
+1583	KOPITKO Ondrej		0	706
+1583	KOPITKO Pavel		1	834
+1583	Kopitko Pavol	vl.č.433	1	833,852,853
+1583	KOPITKO Pavol		1	416,582,821
+1583	KOŠÁRIOVÁ Mária	rod.Horniaková	1	834,852,853
+1583	Košáriová Mária r. Horniaková		0	833
+1583	KOTMAN Ján		1	669,670,834
+1583	KOTMAN Juraj		1	417,482,575,669,670,802,833,852,853
+1583	KOTMAN Juraj	Chudoje	0	478,671
+1583	KOTMAN Michal		1	482,802,833,852,853
+1583	KOTMAN Pavel		1	799
+1583	KOTMAN Pavol	vl.č.93	1	834
+1583	KOTMANOVÁ Zuzana	rod.Lašanová manžel Pavol	1	834
+1583	KOVÁCS Ján	č.d.3005/1888	0	685
+1583	KOVÁCS Ján	č.d.3977/1914	0	696
+1583	KOVÁČ Ján	vl.č.93	1	834
+1583	KOVÁČ Juraj		0	570
+1583	KOVÁČOVÁ Anna	Furak	0	669,670
+1583	KOVÁČOVÁ Anna	rod.Matusová	0	695,882
+1583	KOVÁČOVÁ Mária	rod.Abelovská - Čerman	1	852,853
+1583	Kováčová Mária r. Abelovská-Čeman		0	833
+1583	KOVÁČOVÁ Zuzana	rod.Berkiová	0	477
+1583	KOVENYOVÁ Mária	rod.Krajčiová	0	569
+1583	KRAJČI Andrej		1	834
+1583	Krajči Ján		1	833,852,853
+1583	Krajči Ján	v Neftonfals	1	833,834,852,853
+1583	Krajči Ján	vl.č.293	1	833,852,853
+1583	KRAJČI Ján	č.d.298/1883	0	439
+1583	KRAJČI Ján	vl.č.93	1	834
+1583	KRAJČI Juraj		0	473,569
+1583	KRAJČI Juraj	mlad	0	391
+1583	KRAJČI Pavol		1	834
+1583	KRAJČI Pavol	mladší	0	669,670
+1583	KRAJČIOVÁ Anna		0	391
+1583	KRAJČIOVÁ Mária	rod.Gáliková	0	669,670
+1583	KRAJČIOVÁ Mária	rod.Kamenyiková	1	809
+1583	KRÁLIK Pavol		1	834
+1583	KUKUČKA Ján	manž.Zuzana rod.Danielová	1	834
+1583	KUKUČKOVÁ Zuzana	rod.Danielová	0	454
+1583	KYMAN Pavol	starší	1	773
+1583	KYMANOVÁ Zuzana	rod.Gaudenová	1	773
+1583	KYMANOVÁ Zuzana	rod.Šrámková	1	773
+1583	LABAT Ján		0	534,568,584
+1583	LABATH Pavol	Bardanoje	0	753
+1583	LABATOVÁ Anna	rod.Marčoková	1	394,817
+1583	LABÁTOVÁ Mária	rod.Demeterová	1	812
+1583	LABÁTOVÁ Mária	rod.Nováková	1	767
+1583	LABATOVÁ Zuzana	rod.Ratková	0	568,584
+1583	LAŠAN Ján		1	834
+1583	LAUČOK Juraj		0	478,669,670,671
+1583	LAUKOVÁ Mária	rod.Gáliková	1	58
+1583	LITAVSKÁ Mária	rod.Komárová	0	542
+1583	LITAVSKÝ Pavol		0	478,588,669,670,671
+1583	MACOVÁ Zuzana	rod.Danielová	0	478,671
+1583	MARČOK Aurelius		1	806
+1583	MARČOK Juraj		1	806
+1583	MARČOK Juraj	Belaj	0	636
+1583	MARČOK Juraj	Mirole	0	478,671
+1583	MARČOK Michal		1	834
+1583	Markuš Juraj		1	833,852,853
+1583	MARKUŠOVÁ Zuzana	rod.Paulová	1	852,853
+1583	MARKUŠOVÁ Zuzana	vl.č.93	1	834
+1583	Markušová Zuzana r. Paulová		0	833
+1583	MATUS Adam		0	718
+1583	MATUS Andrej		0	697
+1583	MATUS Andrej	Brinza	0	676,867
+1583	MATUS Ján		0	673,749
+1583	MATUS Juraj		0	730
+1583	MATUS Ondrej	č.d.3005/1888	0	699
+1583	MATUS Ondrej	mladší	0	721
+1583	MATUS Ondrej	starší	0	721
+1583	MATUSOVÁ Anna	vdova	0	720
+1583	MATUSOVÁ Helena	rod.Filipová	0	727
+1583	MATUSOVÁ Mária	rod.Kováčová	0	728
+1583	Matúš Martin	obyvateľ v Prahe	0	723
+1583	MATUŠKA Ondrej	manž.Anna rod.Murínová	1	35
+1583	MOLNÁR Ľudovít		1	834
+1583	NAĎOVÁ Alžbeta		1	402,533,588,757
+1583	NAGYOVÁ Alžbeta	vdova	1	820,833,852,853
+1583	Novák Pavol	Haškoje	1	833,852,853
+1583	OLAH Ján	manž.Vlasta,rod.Olahová	0	477
+1583	OLAH Július		0	477
+1583	OLAH Pavol		0	477
+1583	OLAHOVÁ Elena	rod.Goldpergerová	1	549,852,853
+1583	Oláhová Elena r. Goldpergerová		0	833
+1583	ORAVEC Andrej		1	811
+1583	Oravec Ján	syn Jurajov	1	833,852,853
+1583	ORAVEC Ján	maloletý vl.č.93	1	834
+1583	ORAVEC Ján	syn Juraja	0	388,536,877
+1583	ORAVEC Pavol		1	834
+1583	ORAVEC Pavol	mal	0	388,536,877
+1583	ORAVECZ Ján		0	645
+1583	ORAVECZ Ondrej		0	468
+1583	ORAVECZ Pavol		0	645
+1583	PAVLO Juraj	Gavna	0	669,670
+1583	PAVLO Michal		1	834
+1583	Pavlo Pavol		1	833,852,853
+1583	PAVLO Pavol	Furak	0	396,491
+1583	PAVLO Pavol	vl.č.93	1	834
+1583	PAVLOV Juraj		0	396
+1583	Pavlová Mária r. Ratková		0	581
+1583	PAVLOVÁ Zuzana	rod.Marcsoková	0	490,857,919,954
+1583	PAVLOVÁ Zuzana	rod.Marčoková	0	394
+1583	PAVLOVÁ Zuzana	rod.Marčoková manžel Ján	1	834
+1583	PAVLOVOVÁ Eva		1	802
+1583	PAVLOVOVÁ Zuzana	rod.Marčoková	1	817
+1583	PETRUSOVÁ Anna	rod.Čistilová	0	575
+1583	POLTÁRSKA Mária	rod.Marčoková	1	806,852,853
+1583	Poltárska Mária r. Marčoková		0	833
+1583	POLTÁRSKY Pavol		1	806
+1583	POVAZSANECZ Juraj		0	547,583
+1583	POVAŽAN Juraj		0	478,669,670,671
+1583	POVAŽANEC Juraj		0	559,644
+1583	RADKO Ján		0	646
+1583	RAKITA Juraj		1	834
+1583	RATKO Michal		1	406,669,670,833,852,853
+1583	RATKO Pavol		1	413,494,805,833,852,853
+1583	RATKO Pavol	Sluka	0	478,671
+1583	Ratková Alžbeta		1	833,852,853
+1583	Ratková Anna		1	833,852,853
+1583	RATKOVÁ Mária	rod.Bernátová manžel Ján	1	834
+1583	RATKOVÁ Mária	rod.Csobradszká	0	637
+1583	Rychtárik Pavol	manž.Mária Mrkviková	1	833,852,853
+1583	SIMON Pavol		0	478,671
+1583	SIMUN Ján	Dobrý	0	669,670
+1583	SIMUN Ján	Dolný	0	478,671
+1583	SIMUN Pavol	Miholok	0	478,669,670,671
+1583	SŤAHULÁKOVÁ Mária	Gúrová rod.Kašpráková	1	95,834
+1583	STANO Ondrej		0	478,669,670,671
+1583	STRAKA Ján		1	834
+1583	SULYAN Ján		0	729
+1583	SULYAN Ján	č.d.3005/1888	0	712
+1583	SULYANOVÁ Anna		0	482
+1583	SULYANOVÁ Eva	rod.Pavlová	0	482
+1583	ŠIMUN Ján	manž.Anna rod.Kováčová	0	612
+1583	ŠIRKA Ján	Also	0	546
+1583	ŠIRKA Juraj		1	834
+1583	ŠIRKA Pavol		0	541,669,670
+1583	ŠIRKOVÁ Zuzana	rod.Abelovská /čeman/	1	821
+1583	ŠOFÁR Andrej		0	674
+1583	ŠOFÁR Ján		0	705
+1583	ŠUĽAN Ján		1	803
+1583	ŠUĽAN Pavel	Cibula	0	669,670
+1583	ŠULANOVÁ Anna	rod.Jančeková manžel Pavol	1	834
+1583	ŠUĽANOVÁ Anna		1	802
+1583	TOMÁŠ Andrej		1	834
+1583	TOTH Andrej		0	477
+1583	UHRIN Ján		1	334,833,852,853
+1583	Valent Pavol	vl.č.269	1	833,852,853
+1583	VALENT Pavol		0	396,478,491,669,670,671
+1583	VALENTOVÁ Zuzana	rod.Pantová	0	396,491
+1583	VANČO Juraj		0	478,671
+1583	VARGA Pavol		0	753
+1583	VAVREKOVÁ Zuzana		0	478,669,670,671
+1583	VAVREKOVÁ Zuzana	rod.Štefcsoková	0	436
+1583	VAVRÍKOVÁ Zuzana	rod.Oravcová manžel Ján	1	834
+1583	Vesteg Juraj	mladší	1	833,852,853
+1583	Vesteg Pavol	manž.Anna Lorinčíková	1	833,852,853
+1583	VESTEG Pavol	č.d.1629/33	0	407
+1583	VESTEG Pavol	manž.Anna rod.Lorinčíková	0	407
+1583	VOZAF Pavol		0	669,670
+1584	Adamík Martin, SR		1	384
+1584	Adamík Michal, SR		1	248,430,512
+1584	Adamíková Mária r. Draková, SR		1	276,298,305,368,370,374,375,430,466,485,486,487,511,512,518
+1584	Albert Ján, Nová Poltár, SR		1	387
+1584	Aranoš Pavol, SR		1	417
+1584	Aranošová Anna r. Nagyová, SR		1	417
+1584	Babic Anton, SR		1	432,433
+1584	Backa Ján, SR	syn Pavla	1	418
+1584	Backa Pavol, SR	syn Pavla	1	418
+1584	Backová Zuzana r. Nátonová, SR		1	418
+1584	Bačíková Barbora, SR		1	384
+1584	Bačíková Mária, SR	mal	1	384
+1584	Baher Martin, SR		1	232,242
+1584	Bajciarová Margita, SR		1	417
+1584	Balážová Elena r. Korbeľová, SR		1	418
+1584	Bartková Marta r. Šalková, SR		1	419,420,432,433,434
+1584	Bobek Štefan, Ľuboriečka, č. 3, SR	manž.Anna r.Maslaňáková	1	491
+1584	Buttlér Elemér, SR		1	239

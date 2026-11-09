@@ -1,0 +1,256 @@
+1095	Füle Ján, SR		0	651
+1095	Füleová Júlia		1	511,652
+1095	Füleová Júlia, SR		0	651
+1095	Füleová Rozália		1	511,652
+1095	Füleová Rozália, SR		0	651
+1095	Gálfy Mikloš		1	613
+1095	Gálfy Vojtech		1	613
+1095	Gencs František		1	519
+1095	Gencs Július		1	519
+1095	Gencsová Alžbeta maloletá		1	540,542,543,544,546,548,589,606,691
+1095	Gencsová Gabriela rod.Lukácsová		1	519
+1095	Gencsová Hermina rod.Horváthová		1	519
+1095	Gencsová Julianna		1	606,691
+1095	Gencz František		1	647
+1095	Gencz Július		1	647
+1095	Gódányi František		1	520
+1095	Godányi Štefan		1	508,604,605,713
+1095	Gódányová Julianna		1	520
+1095	Görcs Michal r. Görcs		0	549
+1095	Görcsová Terézia rod.Eleková		1	548,634,637
+1095	Görcz Ján		1	577
+1095	Hajas Vincent		1	645
+1095	Hervayová Irena rod.Csibová		1	535,753
+1095	Horváth Dezider st.		1	519,647
+1095	Kardosová Irena rod.Gencsová		1	606,691
+1095	Kürthi Jozef		1	630
+1095	Kürthi Jozef	LSR	0	631
+1095	Lelkes Július r. Lelkes, SR		0	563
+1095	Lelkes Ladislav r. Lelkes, SR		0	563
+1095	Lelkes Rudolf r. Lelkes, SR		0	563
+1095	Lelkes Vincent r. Lelkes, SR		0	563
+1095	Lelkes Vojtech r. Lelkes, SR		0	563
+1095	Lelkesová Ida r. Lelkesová, SR		0	563
+1095	Lelkesová Jolana r. Lelkesová, SR		0	563
+1095	Lelkesová Mária rod.Gálfyová		1	613
+1095	Mervaová Mária rod.Nagyová		1	605,630,631
+1095	Miklós Jozef		1	511,652
+1095	Miklós Jozef, SR		0	651
+1095	Miklósová Róza, SR		0	651
+1095	Molnárová Rozalia rod.Gencsová		1	606,691
+1095	Nagy Štefan		1	612
+1095	Nagy Vojtech		1	605,630,631
+1095	Nagyová Mária rod.Pongráczová		1	623
+1095	Németh Dionýz		1	569
+1095	Pöthe Jozef		1	519
+1095	Pőthe Peter		1	616
+1095	Puha Ľudovít r. Puha, SR		0	558
+1095	Ravaszová Terézia rod.Pongráczová		1	621
+1095	Sidová Helena		1	548
+1095	Soóky Dezider		1	605
+1095	Soóky Jozef		1	520,604,605,614,713
+1095	Soóky Ľudovít		1	604,605,713
+1095	Soóky Štefan		1	605,630,631
+1095	Soókyová Agneša		1	605,630,631
+1095	Soókyová Anna		1	605,630,631
+1095	Soókyová Irena		1	605,630,631
+1095	Soókyová Julianna		1	520,604,605,713
+1095	Soókyová Katarína		1	605,630,631
+1095	Soókyová Mária		1	520,604,605,713
+1095	Soókyová Mária rod.Soókyová		1	615
+1095	Szerdaová Agneša rod.Gencsová		1	606,691
+1095	Szerdová Agneša rod.Gencsová		1	542
+1095	Sziglová Helena rod.Nagyová		1	622
+1095	Valková Etela		1	504,505,721,733,734
+1095	Valková Mária		1	504,505,721,733,734
+1096	BALBERČÁK Andrej	USA - zomr	1	450
+1096	BALBERČÁK Michal	USA - zomr	1	450
+1096	BALKANYOVÁ Gizela	čd.15/1904 zomr	1	506
+1096	BALOG Juraj	zomr	1	462,466,490,654,656,658,660,661,728
+1096	BALOGOVÁ Mária	r.Veliká zomr	1	394
+1096	BARANIKOVÁ Anna	r.Tokárová	1	490,654,656,658,660,728
+1096	BARANIKOVÁ Anna r. Tokárová, SR	D:	1	661
+1096	BARTKO Juraj	ž.Anna r.Miklošová zomr	1	490,654,656,658,660,661,728
+1096	Bartko Michal	čd.1226/1911	0	576
+1096	BARTKO Michal	čd.2741/1938	1	564,750,751
+1096	Benčo Jozef r. Benčo	malol	0	736
+1096	Benčo Pavol r. Benčo	manž.Mária r.Sotáková	0	736
+1096	Benčová Helena	malol	0	736
+1096	BEZEG Ján	čd.1908/1901 zomr	1	490,654,656,658,660,661,728
+1096	BEZEG Michal	mal.čd.1908/1901 zomr	1	490,654,656,658,660,661,728
+1096	BLUMO Eugen	čd.3284/1940	1	584
+1096	Bornstein Dávid	čd.1448/1928, zomr	0	576
+1096	BORNSTEIN Dávid	čd.1448/1928 zomr	1	162,569,578,599
+1096	BRENNEROVÁ Hermína	r.Gutlfreundová	1	490,548,580,588,643,644,645,654,656,658,659,660,661,728
+1096	Brus Juraj r. Brus	manž.Mária r.Ritochová	0	736
+1096	Cipal Ján r. Cipal		0	736
+1096	Cipal Jozef r. Cipal		0	736
+1096	Cipal Juraj r. Cipal		0	736
+1096	Cipal Michal r. Cipal		0	736
+1096	ČEREMŠÁKOVÁ Anna	r.Tokárová zomr	1	577,580,581,643,644,645,659
+1096	Čeremšáková Anna r. Tokárová	zomr	0	576
+1096	Demčák Andrej r. Demčák		0	736
+1096	Demková Alžbeta r. Hudák - Palková		0	736
+1096	DZIVÁK Ján		1	514
+1096	DZIVÁK Ján	ž.Mária r.Gajdošová zomr	1	490,654,656,658,660,661,728
+1096	DZIVÁK Jozef	čd.150/1950 zomr	1	490,654,656,658,660,661,728
+1096	DZIVÁK Michal	vzdial	1	490,654,656,658,660,661,728
+1096	Dzivaková Mária r. Kučová		0	736
+1096	DZUKA Ján	čd.1065/1922	1	599,660
+1096	DZUKA Ján	čd.590/1931	1	660
+1096	DZUKOVÁ Terézia	r.Dzurenková zomr	1	599
+1096	Dzurenda Andrej r. Dzurenda		0	736
+1096	Dzurendová Anna r. Oráčová		0	736
+1096	Džama Michal r. Džama	st. zomr	1	412
+1096	DŽUKA Ján	USA	1	381,660
+1096	EDELMAN Mano	mal.čd.4503/1936; mal.čd.4503/1936	1	162
+1096	EDELMAN Maric		1	162
+1096	FEČOVÁ Anna	r.Tomková	1	390,490,656,660,661,668,669,670
+1096	FEČOVÁ Anna r. Tomková		1	654,658,728
+1096	FEDOR Ján	čd.5588/1937	1	577
+1096	FEDOR Ján	ž.Mária r.Kalafová zomr	1	490,654,656,658,660,661,728
+1096	FEDOR Michal	mal.čd.3063/1928 zomr	1	490,654,656,658,660,661,728
+1096	FEDOROVÁ Mária	mal.čd.3063/1928 zomr	1	402,490,654,656,658,660,661,671,703,728
+1096	Fenirová Mária r. Kopčová	manž.Ján	0	736
+1096	FREIBERGER Izsák	čd.1044/1908	1	501,570,576,579,580,599,643,644,645,659
+1096	FREIBERGER Samuel	čd.4503/1936	1	162,569,570,579
+1096	FREIBERGER Šimon	čd.4503/1936	1	162,569,570,579
+1096	FREIBERGOVÁ Zála	r.Lebovičová	1	580,599,643,644,645,659
+1096	Freibergová Zála r. Lebovičová		0	576
+1096	FRIEDMAN Abraham	ž.Rézi r.Grossová	1	501
+1096	FRIEDMAN Jozef	čd.1097/1920	1	162,569,570,588,593,599
+1096	FRIEDMAN Jozef	mal.čd.507/1912	1	594
+1096	FRIEDMANOVÁ Rézi	r.Grossová	1	501
+1096	GAJDOŠ Ján	ž.Helena r.Juhaščíková	1	486
+1096	GAJDOŠ Jozef	mal.čd.219/1910	1	585
+1096	GAJDOŠOVÁ Anna	mal.čd.219/1910 zomr	1	585
+1096	GAJDOŠOVÁ Anna	r.Bezegová zomr	1	490,654,656,658,660,661,728
+1096	GAJDOŠOVÁ Helena	r.Juhaščíková zomr	1	432,486
+1096	GAJDOŠOVÁ Mária	mal.čd.219/1910 zomr	1	585
+1096	GAJDOŠOVÁ Mária	r.Tokárová zomr	1	431
+1096	Gajdošová Mária r. Tokárová	zomr	0	576
+1096	GAJDOŠOVÁ Marica	r.Konečná	1	591
+1096	GERMEK Michal		0	705,707
+1096	GERMUŠKA Jozef	čd.1586/1950 zomr	1	490,548,580,588,643,644,645,654,656,658,659,660,661,728
+1096	GIDOVÁ Mária	r.Zubková vzdial	1	359,654,656,658,660,661,710,711,712,728,730
+1096	Gidová Mária r. Zubková	vzdial	0	512
+1096	GIDOVÁ Mária r. Zubková		1	490
+1096	Grósz Jakub r. Grósz	manž.Mária	0	736
+1096	GUTTFREND Dávid	čd.1226/1911	1	599
+1096	Guttfrend Jozef	ž.Betty r.Bergerová	0	576
+1096	Guttfrendová Betty r. Bergerová		0	576
+1096	GUTTFRENDOVÁ Hana	r.Weisbergerová	1	597,598
+1096	Guttfreund Móric r. Guttfreund	obchodník v Bratislave	0	736
+1096	HAJNÍK Andrej	č.d.1961/37	0	705,707
+1096	HAJNÍK Ján	č.d.1961/37	0	705,707
+1096	HAJNÍK Ján	čd.2274/1927	1	440
+1096	HAJNÍK Ján	čd.3229/1888 - zomr	1	443
+1096	HAJNÍK Ján	vzdial. - USA	1	440
+1096	HAJNÍK Mikuláš	č.d.755	0	705,707
+1096	HAJNÍKOVÁ Anna	mal	1	440
+1096	HAJNÍKOVÁ Anna	r.Hajníková - zomr	1	444
+1096	Hajníková Anna r. Pavlenková		0	736
+1096	HAJNÍKOVÁ Mária	r.Nahajová , zomr	1	443
+1096	HAJNÍKOVÁ Mária	zomr	1	440
+1096	Hermanová Mária r. Gurdaková	manž.Ján	0	736
+1096	HLAD Michal	čd.2830/1930 zomr	1	565,752,753
+1096	Humenik Ján r. Humenik		0	736
+1096	IHNÁT Ján		1	387,490,496,610,654,656,658,660,661,676,679,681,684,728
+1096	IHNÁT Juraj	ž.Anna r.Višňovská zomr	1	490,654,656,658,660,661,728
+1096	IHNÁT Michal	čd.220/1885 zomr	1	490,654,656,658,660,661,728
+1096	IHNÁTOVÁ Anna	r.Višňovská zomr	1	490,496,654,656,658,660,661,728
+1096	IHNÁTOVÁ Mária	vzdial.čd.269/1921	1	387,490,496,610,654,656,658,660,661,676,679,681,684,728
+1096	IVÁN Michal	ž.Mária r.Jakimová	1	490,654,656,658,660,661,728
+1096	IVANČO Michal	ž.Anna r.Dzurenková	1	577
+1096	IVANČOVÁ Anna	r.Dzurenková	1	577
+1096	IVANIČ Jozef	čd.1262/1923	1	490,654,656,658,660,661,728
+1096	IVANIČ Pavol	ž.Mária r.Onderová zomr	1	366,490,654,656,658,660,661,728
+1096	IVANOVÁ Mária	r.Jakimová	1	490,654,656,658,660,661,728
+1096	JACKANINOVÁ Anna	r.Kostelníková str.; str	0	705,707
+1096	JACKOVÁ Anna	r.Kostelníková muž Ján; muž Ján	0	705,707
+1096	JEHWART Hugo	čd.3284/1940	1	566
+1096	JENČKOVÁ Mária	vd. r.Hajníková , zomr	1	440
+1096	JEŽKOVÁ Terézia	r.Zákutná	1	453
+1096	Ježková Terézia r. Zákutná		1	606
+1096	KACZIÁN Ján	ž.Mária r.Holyáková	1	370
+1096	KACZIÁNOVÁ Mária	r.Holyáková	1	370
+1096	KLAPÁKOVÁ Anna	r.Sukovská zomr	1	473,504
+1096	KLUČÁROVÁ Mária	r.Tokárová	1	478
+1096	KOCÁK Michal	čd.4006/1938	1	486
+1096	KOCÁK Michal	mal.čd.4123/1938 zomr	1	537,618,619
+1096	KOCÁKOVÁ Anna	mal.čd.4123/1938	1	537,618,619
+1096	KOCÁKOVÁ Mária	mal.čd.4123/1938	1	537,618,619
+1096	Kocáková Mária r. Benčová		0	736
+1096	KOCHAN Ján		1	374,561
+1096	KOCHAN Michal		1	577
+1096	KOCHAN Michal	zomr	1	490,561,579,654,656,658,660,661,728
+1096	Kochan Michal r. Kochan	zomr	1	383,412,416,439,452,507,557
+1096	Kochanová Júlia r. Medvecová	zomr	1	557
+1096	Kolesárová Anna r. Kachmanová		0	736
+1096	KORUFELD Gejza	čd.3284/1940	1	580,643,644,645,659
+1096	KOSTELNÍK Andrej	č.d.1172/29	0	705,707
+1096	KOSTELNÍK Andrej	čd.1226/1936 , zomr	1	444
+1096	KOSTELNÍK Juraj	č.d.872/39	0	705,707
+1096	KOSTELNÍK Juraj	ž.Anna r.Hajníková	1	607,705,707
+1096	KOSTELNÍKOVÁ Anna	č.d.872/39	0	705,707
+1096	KOSTELNÍKOVÁ Anna	r.Hajníková	1	607
+1096	KOSTELNÍKOVÁ Anna	r.Hajníková muž Juraj; muž Juraj	0	705,707
+1096	KOSTELNÍKOVÁ Helena	č.d.872/39	0	705,707
+1096	Kozyra František		1	606
+1096	Kozyrová Júlia r. Schreierová		1	606
+1096	KOŽEJ Ján	č.d.389/42	0	705,707
+1096	KOŽEJOVÁ Alžbeta r. Kostelníková		0	705,707
+1096	LAPKOVÁ Helena	r.Sukovská zomr	1	473,504
+1096	Lapková Helena r. Sukovská	zomr	0	527
+1096	LEHET Andrej	po Andrejovi a Tereze Lehet r.Kmecovej	0	705,707
+1096	LEHET Juraj	č.d.901,Malá Domaša	0	705,707
+1096	LEHET Pavol	č.d.779/1926	0	705,707
+1096	LEHET Pavol	č.d.901,Vranov-Dlhé	0	705,707
+1096	LEŠKO Michal	ž.Mária r.Pavučková	0	705,707
+1096	LEŠKOVÁ Anna	r.Balberčáková USA	1	450
+1096	LEŠKOVÁ Mária	r.Pavučková , zomr	1	607
+1096	Limbergerová Anna r. Kučová	vd	0	736
+1096	MACKOVÁ - PARASKOVÁ Anna r. Ihnátová		1	387,490,496,610,654,658,660,661,676,679,681,684,728
+1096	MACKOVÁ - PARASKOVÁ Anna r. Ihnátová, SR	D:	1	656
+1096	MAČALA Andrej	ž.Anna r.Pižontová zomr	1	508,577
+1096	Mačala Ján	ž.Mária r. Czmarová, zomr	0	576
+1096	Mačala Ján	ž.Mária r.Czmarová, zomr	0	576
+1096	MAČALA Ján	ž.Mária r.Czmarová zomr	1	490,500,577,599,654,656,658,660,661,728
+1096	MAČALA Michal	zomr	1	488,576,577
+1096	Mačala Tokár Ján		1	599
+1096	Mačalová Anna	mal. čd.1399/1923, zomr	0	576
+1096	MAČALOVÁ Anna	mal.čd.1399/1923 zomr	1	490,508,518,577,580,583,643,644,645,654,656,658,659,660,661,728
+1096	Mačalová Mária	mal. čd.1399/1923, zomr	0	576
+1096	MAČALOVÁ Mária	mal.čd.1399/1923 zomr	1	490,508,518,577,580,583,643,644,645,654,656,658,659,660,661,728
+1096	MAČALOVÁ Mária	r.Czmarová zomr	1	500,580,583,587,599,643,644,645,659
+1096	Mačalová Mária r. Czmarová	zomr	0	576
+1096	MAČALOVÁ Zuzana	r.Balogová zomr	1	518,580,583,643,644,645,659
+1096	MAČALOVÁ Zuzana r. Balogová	zomr	0	576
+1096	MADURA Ján	čd.1112/1943 , zomr	1	445
+1096	MADURA Juraj	mal., zomr	1	445
+1096	Madura Michal		1	445,608
+1096	MAŤAŠOVSKÝ Michal	ž.Mária r.Tokárová	1	490,654,656,658,660,661,728
+1096	Matta Andrej r. Matta	manž.Zuzana r.Horenská	0	736
+1096	Matta Juraj r. Matta		0	736
+1096	Mattová Anna r. Žipaj - Sabolová		0	736
+1096	Mattová Zuzana r. Horenská	manž.Andrej	0	736
+1096	Medvec Anton r. Medvec	malol.v roku 1948	0	736
+1096	Medvec Ján r. Medvec	malol. v roku 1948	0	736
+1096	Medvec Jozef r. Medvec	USA	0	736
+1096	Medvec Štefan r. Medvec	malol.v roku 1948	0	736
+1096	MEDVECOVÁ Alžbeta	mal.čd.3112/1907 zomr	1	401,746,747,748
+1096	MEDVECOVÁ Ilona	mal.čd.3112/1907 zomr	1	401,746,747,748
+1096	Medvecová Jolana	malol.v roku 1948	0	736
+1096	Medvecová Mária	malol. v roku 1948	0	736
+1096	MICHALOV Michal	č.d.2990/11	0	705,707
+1096	MICHĽOVÁ Helena	r.Lehetová, Kladzany; Kladzany	0	705,707
+1096	Mikloš Jozef	zomr	1	590
+1096	MIKLOŠ Michal		1	708
+1096	MIKLOŠ Michal	čd.887/1910 zomr	1	395,454,470,486,490,592,654,656,658,660,661,728
+1096	NAHAJ Michal	ž.Anna r.Mihočová	0	705,707
+1096	NAHAJOVÁ Alžbeta	č.d.2594	0	705,707
+1096	NEDECKÁ Ľudmila	r.Linbergerová muž Adolf; muž Adolf	0	705,707
+1096	NEDECKÝ Adolf	ž.Ľudmila r.Linbergeurová	0	705,707
+1096	NOVÁK Alexander	čd.3284/1940 zomr	1	570
+1096	Nováková Zála r. Eugelová		0	541
+1096	Oráč Juraj r. Oráč	manž.Barbara r.Ilyčková	0	736

@@ -1,0 +1,256 @@
+1669	Hubinský Anton		0	213
+1669	HUBINSKÝ Anton	súr. Anna, Stefánia, Gabriel, mal. Ján	0	477
+1669	Hubinský Gabriel		0	213
+1669	HUBINSKÝ Gabriel	súr. Anna, Štefánia, mal. Anton, mal. Ján	0	477
+1669	Hubinský Ján		0	213
+1669	HUBINSKÝ Ján	súr. Anna, Gabriel, Štefánia, mal. Anton	0	477
+1669	Hubinský Štefan		0	213,246,552
+1669	HUBINSKÝ Štefan	súrodenci:Ján, Vendelín, Anton, Tomáš	0	477
+1669	Hubinský Vendelín		0	552
+1669	HUSTÝ František		0	296
+1669	HUSTÝ Jozef		0	296
+1669	Jančovič Gustáv		0	213,391
+1669	Jančovič Ján	rodičia Tomáš a Zuzana r. Bitarovská	0	434
+1669	Jančovič Jozef		0	213,317,444
+1669	Jančovič Koloman		0	213,391
+1669	Jančovič Viktor		0	213,444
+1669	KÁČER Koloman		0	309
+1669	KÁČEROVÁ Alžbeta r.Červená		0	383
+1669	KÁČEROVÁ Amália r.Closová		0	309
+1669	Kačírek Ján r. Kačírek, Ing.	dátum nar. 06.12.1925	0	187,623
+1669	Kačírek Jozef r. Kačírek	dátum nar. 10.03.1910	0	187,623
+1669	Kačírek Michal r. Kačírek	nar. 26.09.1906, zomrel 10.05.1991	0	187,623
+1669	KAČÍREK Viktor		0	352
+1669	Kačíreková Celestína	dátum nar. 26.09.1908	0	187,623
+1669	KAČÍREKOVÁ Celestína		0	324,481
+1669	KAČÍREKOVÁ Celestína, SR		0	480
+1669	Kačíreková Irma		0	213
+1669	Kačíreková Mária r. Kováčiková		0	213
+1669	Kačíreková Paulína		0	187,623
+1669	Kačíreková Paulína	č.domu 11; č.domu 11	0	213
+1669	KAJANOVÁ Anna		0	276
+1669	Kajanová Anna r. Kačíreková		0	597
+1669	Kajanová Anna r. Kačíreková	dátum nar. 26.11.1910	0	187,623
+1669	KAJANOVÁ Anna r.Kačíreková		0	340
+1669	KLEMANOVÁ Mária		0	402
+1669	KOMA Edvard		0	379
+1669	KOMOVÁ Margita r.Helbichová		0	379
+1669	KOREC Andrej		0	290
+1669	KOREC Michal		0	292
+1669	KORECOVÁ Alžbeta r.Weberová		0	290
+1669	KORECOVÁ Júlia r.Láslopová		0	292
+1669	KOSTOLNÁ Mária r.Kajanová		0	260
+1669	KOSTOLNÝ Ján		0	242,248
+1669	KOSTOLNÝ Michal		0	242,248
+1669	KOSTOLNÝ Peter		0	252
+1669	KOSTOLNÝ Štefan		0	358
+1669	KOZINA Melicher		0	377
+1669	KOZINOVÁ Helena r.Minariková		0	377
+1669	Krchová Rozália r. Kostolná		0	585
+1669	KRCHOVÁ Rozália r.Kostolná		0	252
+1669	KRIŽMA Jozef		0	401,402
+1669	KRIŽMOVÁ Anna		0	402
+1669	KUBÁŇ Jozef		0	283
+1669	KUBÁŇOVÁ Bernardína		0	283
+1669	KUBÁNOVÁ Bernardína r.Mondoková		0	254
+1669	LADICKÝ Rudolf		0	404
+1669	MACKO Imrich		0	271,285,304,364,422,484,487,650
+1669	Macko Ján		0	213
+1669	MACKO Jozef		0	271,422,484,487,650
+1669	MACKO Michal		0	364
+1669	MACKO Štefan		0	271,422,484,487,650
+1669	MACKOVÁ Alžbeta r. Jakubičková		0	363
+1669	MACKOVÁ Alžbeta r.Jakubičková		0	285,304,364
+1669	MACKOVÁ Jolana		0	285,304,364
+1669	Macková Terézia r. Kostolná		0	213
+1669	Masná Júlia r. Gabajová		0	213
+1669	Matúš František		0	213
+1669	MATÚŠ Ján		0	355
+1669	MATUŠKA Alexander		0	210,213,343,459,460,575
+1669	Matuška Emil		0	213,421,422
+1669	Matuška Ján		0	213,576
+1669	MATUŠKA Michal		0	343
+1669	Matuška Viktor	č.1	0	213
+1669	MATUŠKA Viktor		0	315
+1669	Matušková Adriana		0	213,576
+1669	Matušková Mária		0	213,576
+1669	MATÚŠOVÁ Serafína r.Kostolná		0	316
+1669	MICHAL Pavol		0	368
+1669	MICHALOVÁ Mária r.Chovanová		0	368
+1669	MINÁRIK Štefan		0	312
+1669	Mináriková Mária r. Gabajová	Veľké Bedzany č.64	0	438
+1669	MINÁRIKOVÁ Mária r.Gabajová		0	338,339
+1669	MONDOK Štefan		0	254,587
+1669	Mondoková Emília r. Závodová		0	587
+1669	MONDOKOVÁ Emília r.Závodyová		0	254
+1669	NAŇO Rafael		0	400
+1669	Ondruška Ferdinand r. Ondruška	ž. Čanigová Mária	0	545
+1669	Ondruška Ján		0	213
+1669	ONDRUŠKA Vincent		0	369
+1669	ONDRUŠKOVÁ Ernestína r.Sílešová		0	410
+1669	Ondrušková Mária r. Čanigová		0	213
+1669	ONDRUŠKOVÁ Mária r.Heldiová		0	369
+1669	PALUŠ Štefan		1	299
+1669	PALUŠOVÁ Verona r. Kasalová		1	299
+1669	PASTIERIK Martin		0	371
+1669	PASTIERIKOVÁ Katarína r.Ševelová		0	371
+1669	Paulenová Margita r. Raučinová		0	450
+1669	Paulenová Valéria r. Hanová		0	549,566,631
+1669	PAULENOVÁ Valéria r.Hanová		0	218,630
+1669	Petrejeová Anna r. Hubinská		0	213
+1669	PETREJEOVÁ Anna r.Hubinská		0	477
+1669	PIRŤANOVÁ Anna r.Ardamicová		0	384
+1669	RAUČINOVÁ Hermína r.Čanigová		0	310
+1669	REHÁKOVÁ Valéria r.Matušková		0	421,616
+1669	Sárová Eleonóra r. Matušková		0	213,575
+1669	SÁROVÁ Eleonóra r.Matušková		0	210,343,459,460
+1669	SELEŠ Ludovít		0	410
+1669	SCHNURER Jozef		0	289
+1669	Sidorová Štefánia r. Hubinská		0	213
+1669	SIDOROVÁ Štefánia r.Hubinská		0	477
+1669	SILEŠ Emil		0	410
+1669	SILEŠ František		0	410
+1669	SILEŠOVÁ Adela		0	410
+1669	SILEŠOVÁ Aurelia		0	410
+1669	Sílešová Aurélia r. Kačíreková	Krušovice č.32	0	187,623
+1669	SÍLEŠOVÁ Aurélia r.Kačíreková		0	335,390
+1669	SILEŠOVÁ Mária		0	410
+1669	SILEŠOVÁ Valeriána		0	410
+1669	SILEŠOVÁ Vilma r.Kmotorková		0	410
+1669	SILEŠOVÁ Zlatica		0	410
+1669	ŠEVELA Jozef		0	387
+1669	ŠEVELOVÁ Verona r.Urbáneková		0	387
+1669	ŠMANTÍKOVÁ Alžbeta		0	398
+1669	ŠVEC Štefan		0	370
+1669	ŠVECOVÁ Vilma r.Kutáková		0	370
+1669	TONHAUSER Michal		0	288,318
+1669	Tonhauserová Alžbeta r. Melišková		0	318
+1669	TONHAUSEROVÁ Alžbeta r.Melišková		0	288
+1669	TONHAUSEROVÁ Mária r.Weberová		0	291
+1669	TURČEKOVÁ Verona r.Macková		0	271,422,484,487,650
+1669	WEBEROVÁ Anna r.Schniererová		0	291
+1669	Zubatý Jozef r. Zubatý		0	474
+1669	Zubatý Michal r. Zubatý		0	213
+1669	ŽIAKOVÁ Alžbeta r.Káčerová		0	378
+1670	BENIAK Peter		0	472
+1670	BEŇUŠKA Gustáv		0	501
+1670	BEŇUŠKA Viktor, SR		0	500,501
+1670	BEŇUŠKOVÁ Alžbeta		0	501
+1670	BEŇUŠKOVÁ Anna r. JAnčovičová		0	501
+1670	BEŇUŠKOVÁ Helena		0	501
+1670	BEŇUŠKOVÁ Mária, SR		0	500
+1670	BILÍK Alfréd		0	517
+1670	BILÍK Jozef, SR		0	517
+1670	BILÍK Pavol, SR		0	517
+1670	BILÍK Vojtech		0	517
+1670	BILIKOVÁ Gizela		0	499
+1670	BILIKOVÁ Mária, SR		0	499
+1670	BIZUPOVÁ Anna r. Majláthová		0	414
+1670	BLIŽNIAKOVÁ PAvlína r. Okkelová		0	507
+1670	CIGLIAN Anton, SR	ž. Štefánia, r. Baverová	1	651
+1670	CIGLIAN Štefan, SR	toho času v Kanade	1	651
+1670	CIGLIANOVÁ Katarína r. Čapková, SR		1	651
+1670	DRAGULOVÁ Anna r. Vanková, SR		0	334
+1670	DVONČ Jozef		0	498,525
+1670	DVONČ Štefan		0	497
+1670	DVONČOVÁ Terézia r. Pavlenová	Vd	0	506
+1670	FOLTÁN Karol, SR		0	413
+1670	FOLTÁN Karol, SR	syn Petra	1	644
+1670	FOLTÁN Štefan		0	413
+1670	FOLTÁNOVÁ Mária		0	413
+1670	FOLTÁNOVÁ Mária, SR	dcéra Petra	1	644
+1670	GERGEĽ Ján		0	544
+1670	GERGEL Ján, SR	ž. Mária, r. Bahitová	1	649
+1670	GERGEĽ Vendelín		0	544
+1670	GERGEL Vendelín, SR	syn Jána a Márie, r. Bahitovej	1	649
+1670	GRIAČ Anton		0	480
+1670	GRIAČ Pavel		0	479
+1670	GRIAČOVÁ Emília r.	mal	0	485
+1670	GRIAČOVÁ Helena r. Sapáryová		0	485
+1670	GRIAČOVÁ Zuzana r. Čavajdová		0	480
+1670	GRONOVÁ Magda r. Dvončová		0	505
+1670	HARCEG Jozef		0	495
+1670	HATALOVÁ Anna r. Jakubisová		0	401
+1670	HÁVEL Ján		0	408,885
+1670	HRDÝ Rudolf		0	442
+1670	HRKOTAČ Štefan, SR	maloletý	1	649
+1670	HÝBAL Ladislav, SR		1	650
+1670	IGAZ Jozef		0	486
+1670	IVANKOVÁ Mária		0	392
+1670	JAĎUĎA Michal		0	488
+1670	JAĎUĎA Rudolf		0	487
+1670	JAKUBISOVÁ Štefánia, SR		0	401
+1670	JAKUBISOVÁ Veronika, SR		0	401
+1670	JANČOVIČ Štefan, SR		0	343
+1670	JANČOVIČOVÁ Bernardína		0	424
+1670	KELLEROVÁ Juliana r. Poláková, SR		0	346
+1670	KOVAČIK Štefan		0	400
+1670	KOVAČIKOVÁ Mária r. Škebová		0	400
+1670	KOZINKA Jozef		0	450
+1670	KRAJČOVIČOVÁ Irena r. Prídavková, SR		0	416
+1670	KUNKO Ondrej, SR		0	503
+1670	LEHOCKÁ Anna r. Miškejeová		0	357,800
+1670	LEHOCKÁ Anna r. Miškejeová, SR		0	341
+1670	LEHOCKÁ Anna r. Miškejová, SR		0	282
+1670	LETAVAJ Juraj		0	534
+1670	LEŽOVIČOVÁ Irena r. Olahová		0	509
+1670	MACKOVÁ Zlatica r. Majláthová, SR		0	414
+1670	MAGÁT Anton, SR		0	356
+1670	MAGÁT Anton, SR	ž. Antónia, r. Zelenická	1	629
+1670	MAGÁTOVÁ Antónia		0	356
+1670	MAGÁTOVÁ Antónia r. Zelenická		0	425
+1670	MAGÁTOVÁ Antónia r. Zelenická, SR	r. Zelenická, m. Anton	1	629
+1670	MAJLÁTH Jozef		0	414
+1670	MARKO Anton		0	463
+1670	MARKOVÁ Antónia r. Hanová		0	456
+1670	MASÁR Albert		0	445
+1670	MASÁROVÁ Mária r. Poluchová		0	445
+1670	MAŤAŠEJE Štefan		0	389
+1670	MATUŠÍKOVÁ Irena r. Biliková		0	517
+1670	MIŠKEJE Jozef		0	357,800
+1670	MIŠKEJE Jozef, SR		0	282,341
+1670	MRÁZOVÁ Božena r. Ševčíková, SR		0	365,894,898
+1670	OMANOVÁ Jozefína r. Majláthová		0	414
+1670	OMELKA Ján		0	419
+1670	ONDRUŠKOVÁ Valéria r. Marková		0	463
+1670	ORAVEC Štefan		0	420
+1670	PALUŠOVÁ Anna r. Prídavková, SR		0	416
+1670	PÁSTOR Andrej, SR		0	346
+1670	PECHO Alojz		0	476
+1670	PETRIKOVÁ Mária r. Laciková		0	368
+1670	PITROŇOVÁ Mária r. Majláthová, SR		0	414
+1670	PODOBA Jozef		0	460
+1670	PODOBOVÁ Brigita		0	460
+1670	PODOBOVÁ Mária	mal.; mal	0	460
+1670	PODOBOVÁ Mária r. Zahradníková		0	460
+1670	POKORNÝ Anton		0	436
+1670	POLLÁK Alexander, Dr., SR		0	346
+1670	POLLÁK Alexander, SR		0	346
+1670	POLLÁK Alfréd, SR		0	346
+1670	POLLÁK Arpád, SR		0	346
+1670	POLLÁK Leopold, SR		0	346
+1670	POLLÁK Vojtech, SR		0	346
+1670	POLLÁKOVÁ Lila, SR		0	346
+1670	PRIDAVKA Rudolf		0	478
+1670	PRÍDAVKOVÁ Helena		0	416
+1670	PUTROVEC Anton		0	535
+1670	REISELOVÁ Angela r. Bezáková		0	438
+1670	REJZEKOVÁ Irena r. Majláthová		0	414
+1670	SACHER Ján, SR		0	346
+1670	SACHEROVÁ Juliana, SR		0	346
+1670	SAMEL Ján		0	390
+1670	SÁMELOVÁ Anna r. Ciglianová, Brodzany, SR		1	651
+1670	STEINER Armín, SR		0	372
+1670	ŠERLYOVÁ Margita, SR		0	346
+1670	ŠKRÍBOVÁ Ella r. Škríbová		0	432
+1670	ŠKRÍBOVÁ Ella r. Škríbová, SR		0	408,885
+1670	ŠKRÍBOVÁ Mária r. Kajabová Vd., SR		0	435
+1670	Štátna Správa	letecká	0	395
+1670	TKÁČ Rudolf		0	429
+1670	TKÁČ Vojtech, SR		0	349
+1670	TKAČOVÁ Irena r. Bujnová, SR		0	223
+1670	VACVALOVÁ Helena, SR		0	401
+1670	VLČKOVÁ Pavlína r. Anovčínová		0	473
+1670	VRÁBEL Pavel		0	468
+1670	ZAŤKO Ján		0	443
+1670	ZAŤKOVÁ Mária r. Hrdá		0	443

@@ -1,0 +1,256 @@
+485	Pódaová Julianna r. Szalayová, SR		0	189
+485	Polák Karol		1	1321
+485	Poláková Terézia r.Szalaiová		1	1301
+485	Polláková Terézia r. Szalayová, SR		0	189
+485	Ráczová Júlia r.Fehérová		1	1258,1266
+485	Ráczová Karolína r.Maticzaová		1	1266
+485	Rigó Július		1	1239
+485	Rózsa Arpád r. Rózsa, SR		0	991
+485	Rózsa Ladislav r. Rózsa, SR		0	991
+485	Rózsaová Alžbeta, SR		0	991
+485	Rúzsaová Hedviga r.Sturdiková		1	1129
+485	Sárközyová Rozália r.Nagyová		1	1170,1418
+485	Schönthálová Paula r.Schönthálová		1	1219
+485	Sidó Edmund		1	1144
+485	Sidó Vincent		1	1144
+485	Sidóová Helena		1	1144
+485	Sidóová Júlia		1	1144
+485	Sidóová Mária		1	1281
+485	Soóky Dezider		1	1126,1389
+485	Soóky Imrich		1	1126,1389
+485	Soóky Štefan		1	1126,1389
+485	Soókyová Agneša		1	1126,1389
+485	Soókyová Anna		1	1126,1389
+485	Soókyová Irena		1	1126,1389
+485	Soókyová Katarína		1	1126,1389
+485	Soós Ladislav		1	1143,1330
+485	Soósová Terézia		1	1319
+485	Szalay Ernest		1	1301
+485	Szalay Július		1	1301
+485	Szalay Július r. Szalay, SR		0	189
+485	Szalay Vincent		1	1301
+485	Szalay Vincent r. Szalay, SR		0	189
+485	Szalayová Agneša		0	189
+485	Szalayová Mária, SR		0	189
+485	Szalayová Rozália		1	1301
+485	Szalayová Terézia, SR		0	189
+485	Tarcsi Karol		1	1170,1418
+485	Tarcsiová Alžbeta		1	1170,1418
+485	Tarcsiová Margita		1	1170,1418
+485	Tarcsiová Žofia		1	1170,1418
+485	Tóthová Estera r.Kaczová		1	1283
+485	Varga Imrich		1	1267
+485	Vargaová Rozália r.Némethová		1	1299
+485	Vargová Mária r.Suruncová		1	1267
+485	Végh Vendelín		1	1083,1349
+485	Zsiska Štefan		1	1170,1418
+485	Zsisková Marta		1	1170,1418
+486	Ácsová Estera r. Šubová		0	562
+486	Antal Gábor		0	509
+486	Antal Gabriel		0	288
+486	Antal Gabriel r. Antal	súrodenci Július, Ladislav	0	531
+486	Antal Július		0	288,509
+486	Antal Július r. Antal	súrodenci Ladislav,Gabriel	0	531
+486	Antal Ladislav		0	288,509
+486	Antal Ladislav r. Antal	súrodenci Július, Gabriel	0	531
+486	Berka Karol r. Berka	m.Gizela r.Šelmeciová	0	564
+486	Berková Gizela r. Selmecziová		0	522
+486	Berková Gizela r. Šelmeciová	m.Karol	0	564
+486	Bogyová Estera r. Tormová		0	547
+486	Bogyová Estera r. Tormová	č.d.933/1918	0	542
+486	Brenza Ľudovít	manž. Irena r. Bokroš-Tóth	0	288
+486	Brenza Ľudovít r. Brenza	m.Irena	0	555
+486	Brenza Ľudovít r. Brenza	manž.Irena	0	537
+486	Brenzová Jolana r. Szabóová		0	537
+486	Csaszárová Anežka r. Nagyová		0	288
+486	Csataiová Rozália r. Zsidová		0	288
+486	Csataiová Rozália r. Zsidovej		0	590
+486	Csekeiová Emma		0	560
+486	Debrovská Júlia r. Šipošová	manž. Ján	0	288
+486	Debrovská Júlia r. Šípošová	manžel Ján	0	532
+486	Debrovský Ján	manž. Júlia r. Šipošová	0	288
+486	Demeter Ľudovít r. Dmeter	m.Irma	0	523
+486	Demeterová Irma r. Brchelová	m.Ľudovít	0	523
+486	Gál Ernest r. Gál		0	601
+486	Gál Ľudovít r. Gál		0	609,611
+486	Galamboš Ján r. Galamboš		0	600
+486	Galambošová Vilma	mal	0	588
+486	Gálová Alžbeta r. Somogyiová	m.Ľudovít	0	609,611
+486	Gálová Estera r. Nagyová		0	398
+486	Guláš Jozef r. Guláš	ml	0	610
+486	Guláš Jozef r. Guláš	st	0	610
+486	Gulášová Alžbeta		0	610
+486	Gulášová Elena		0	610
+486	Gulášová Júlia		0	610
+486	Gulášová Zuzana		0	610
+486	Gutrai Alexander r. Gutrai	m.Anna r.Horváthová	0	546
+486	Gutrai Alexander r. Gutrai	mal	0	546
+486	Gutrai Koloman r. Gutrai		0	553,559
+486	Gutraiová Rozália r. Nagyová		0	397,398,411
+486	Haizer Alexander r. Haizer	m.Dina r.Demeterová	0	528
+486	Haizer Jozef	manž. Lídia r. Réveszová	0	288
+486	Haizer Jozef r. Haizer	m.Lídia r.Révészová	0	527,552
+486	Haizer Štefan	manž. Agneša rod. Brenza	0	288
+486	Haizerová Ema r. Csekeiová		0	288
+486	Hajzer Alexander	manž. Dina r. Demeterová	0	288
+486	Hajzer Július r. Hajzer		0	534,536
+486	Hajzer Július r. Hajzer	m.Emma r.Čekeyová	0	558
+486	Hajzerová Emma r. Csekeiová		0	534,536,554
+486	Hajzerová Emma r. Čekeyová		0	288
+486	Hajzerová Rozália r. Kariková	m.Ľudovít	0	524,563
+486	Hanzová Alžbeta r. Simonyiová		0	593
+486	Hanzová Estera		0	593
+486	Hojzer Július		0	422
+486	Ištok Štefan r. Ištok	manž. Cecília rod. Pôvodová	0	571
+486	Ištoková Cecília r. Pôvodová		0	571
+486	Jednotné roľnícke družstvo v Dolnej Seči		0	519
+486	Kalnai Jonáš	manž. Agneša r.Nagyová	0	391
+486	Kálnaiová Agneša r. Nagyová		0	288,329
+486	Kálnaiová Jolana r. Szabóová		0	482
+486	Karika Ľudovít r. Karika	m.Rozália r.Tóthová	0	524
+486	Kazár Jozef r. Kazár	mal	0	526
+486	Kazarová Helena		0	288,526
+486	Kazarová Zuzana		0	288,526
+486	Keményová Helena r. Keményová		0	353,618
+486	Keményová Rozália r. Kucsová		0	367
+486	Keményová Rozália r. Kúcsová	manž. Július	0	481
+486	Keményová Rozália r. Meszárosová		0	594
+486	Keményová Rozália r. Szobiová		0	544
+486	Kompaň Štefan r. Kompaň	manž.Františka rod. Turčeková	0	574
+486	Kompaňová Františka r. Turčeková		0	574
+486	Kovács Alexander r. Kovács		0	617
+486	Kovacs Koloman r. Kovacs		0	607,613
+486	Kovácsová Alžbeta r. Pálinkásová	m.Alexander	0	617
+486	Kovácsová Ester r. Gutraiová		0	592
+486	Kovácsová Johana r. Pólyaová		0	551
+486	Kováč Koloman r. Kováč	m .Ester	0	608
+486	Kováčová Ester	m.Koloman	0	608
+486	Kresťanko Štefan r. Kresťanko		0	579
+486	Kúcs Július r. Kúcs	m.Gizela r. Nagyová	0	548,589
+486	Lakatoš Ján	manž. Mária r. Hancková	0	329
+486	Lakatoš Ján r. Lakatoš	m.Mária r. Hancková	0	521
+486	Lakatoš Michal r. Lakatoš	m.Helena r.Pokoradská	0	525
+486	Lakatoš Ondrej r. Lakatoš		0	525
+486	Lakatošová Mária r. Hancková	m.Ján	0	521
+486	Lakatošová Mária r. Hancková	manž. Ján	0	329
+486	Macko Margita r. Mikuška		0	481
+486	Marföldy Ondrej r. Marföldy	m.Zuzana r.Hulveyová	0	580
+486	Marföldyová Zuzana r. Hulveyová	m.Ondrej	0	580
+486	Meszáros Ján r. Meszáros		0	602
+486	Mészáros Július r. Mészáros		0	605
+486	Mészáros Ľudovít r. Mészáros		0	604,605
+486	Mészárosová Rozália r. Kúcsová		0	550
+486	Nagy Ľudevít		0	411
+486	Nagy Ľudevít	manž. Etela r. Szücsová	0	411
+486	Nagy Ľudovít r. Nagy		0	520
+486	Nagyová Alžbeta r. Baranyaiová		0	300
+486	Nagyová Etela r. Szüczová		0	411
+486	Nagyová Gizela		0	520
+486	Nagyová Rozália r. Pólya		0	482
+486	Pálinkáš Viliam	manž. Anežka r.Kontová	0	316
+486	Pálinkášová Anežka r. Kontová	manž. Viliam	0	316
+486	Peterke Alexander	manž. Rozália r. Tóthová	0	288
+486	Peterke Estera r. Selmecziová		0	288
+486	Pilka Ján r. Pilka	m.Gizela r.Vajdová	0	603
+486	Pilková Gizela r. Vajdová	m.Ján	0	603
+486	Pintér Július r. Pintér		0	615
+486	Poláčik Anton		0	367
+486	Polya Ondrej	manž. Estera r. Kovácsová	0	288
+486	Pólya Ondrej r. Pólya	m.Estera r.Kovácsová	0	561
+486	Pólyová Marta		0	288
+486	Sakoš Juraj	manž. Alžbeta rod. Hulvejová	0	285
+486	Selmeczi Július		0	288
+486	Selmeczi Július r. Selmeczi		0	522
+486	Selmeczi Ľudovít		0	288
+486	Spišiak Ondrej r. Spišiak	mal	0	595
+486	Sudický Michal r. Sudický		0	578
+486	Szabó Rudolf r. Szabó		0	611
+486	Szabóová Rozália r. Szabóová		0	522
+486	Szilvášová Agneša r. Takácsová		0	433
+486	Šeben Libor r. Šeben	m.Alžbeta r.Marčok	0	614
+486	Šebenová Anna r. Marčoková	m.Libor	0	614
+486	Školník Michal		0	304,623
+486	Šmidt Ján r. Šmidt	m.Zuzana r.Jeneiová	0	541
+486	Šmidtová Zuzana r. Jeneiová	m.Ján	0	541
+486	Toliarová Berta r. Hanzová		0	593
+486	Tóth Ladislav r. Tóth	manž. Mária rod. Juhászová	0	576
+486	Tóthová Alžbeta r. Gálová		0	616
+486	Tóthová Mária r. Juhászová		0	576
+486	Varga Štefan		0	483
+486	Vereš Ľudovít		0	288
+486	Vereš Viliam		0	288
+486	Vida Ludevik		0	300
+486	Vítek Vojtech r. Vítek	manž. Mária rod. Ujlakiová	0	575
+486	Víteková Mária r. Ujlakiová		0	575
+486	Vojtek Ľudovít r. Vojtek	m.Rozália r.Meszárosová	0	591
+486	Vojteková Rozália r. Meszárosová	m.Ľudovít	0	591
+486	Vörös Viliam r. Vörös	súrodenci Vilma, Július, Ľudovít, syn Júliusa	0	538
+486	Vöröšová Alžbeta r. Vigová		0	529,538,539
+486	Záborská Estera r. Kálnaiová		0	326
+486	Žňava Martin r. Žňava	m.Rozália r.Tóthová	0	612
+486	Žňavová Rozália r. Tóthová	m.Martin	0	612
+487		jednotné roľnícke družstvo	1	3447,3986,3999,4232,4360,4429,4596,4763,4780,4809
+487	-ČS. štát- ONV v Seredi, SK		0	4508,4554
+487	ADAMKO František, SK		0	3289
+487	ADAMKO Ján, SK		0	3971
+487	ADAMKO Štefan, SK		0	3971
+487	ADAMKOVÁ Gizela, SK		0	3971
+487	ADAMKOVÁ Magdalena, SK		0	3971
+487	ADAMKOVÁ Margita, SK		0	3289
+487	ADAMKOVÁ Markéta r. Kubányiová, SK		0	3952
+487	ADAMKOVÁ Rozália r. Takácsová, SK		0	3860
+487	AGRO Matúškovo spol.s r.o., 773, Matúškovo, PSČ 925 01, SK		0	358,4117,4458,4459,4545,4546,4547
+487	ANDRIS František, SK		0	387,388
+487	BAKO Ladislav, SK		0	3196
+487	BAKO Ľudovít, SK		0	426,427,3529
+487	BAKOVÁ Jolana, SK		0	3196
+487	BAKOVÁ Mária r. Baková, SK		0	3486
+487	BAKOVÁ Šarlota, SK		0	385,418
+487	BEHIL Ján, SK		0	4221
+487	BEHIL Pavol, SK		0	233,3268,4027,4528
+487	BEHIL Rudolf, SK		0	3205,4262,4422,4426
+487	BEHIL Štefan, SK		0	3438,3546,3726
+487	BEHILOVÁ Mária, SK		0	3438
+487	BELIČKA Július, SK		0	4028
+487	BELIČKOVÁ Jolana, SK		0	4028
+487	BENKOVSKÁ Gizela r. Koričanská, SK		0	3250,3644,4012
+487	BENKOVSKA GIZELA, SK		0	193
+487	BENKOVSKÁ Mária r. Vranková, SK		0	3649
+487	BENKOVSKA MARIA, SK		0	2199,3252,3708
+487	BENKOVSKÝ František, SK		0	3553
+487	BENKOVSKY JOZEF, SK		0	2199,3553
+487	BENKOVSKÝ Ľudovít, SK		0	3553
+487	BENKOVSZKÁ Mária r. Polláková, SK		0	3555
+487	BERÁNEKOVÁ Anna r. Ležovičová, SK		0	3830,3833
+487	BEREGSZEGI Mária, Piešťany, SK		0	3853
+487	BILAVSKÁ Rozália r. Gajarská, SK		0	3581
+487	BIZÍKOVÁ Rozália r. Forró, SK		0	3201,3441,3442,4019
+487	BIZÍKOVÁ Rozália r. Forrová, SK		0	3588
+487	BLYSKA Aurelia r. Tomanóczy, SK		0	3594
+487	BLYSKOVÁ Aurélia r. Tomanóczy, SK		0	211,3304,3932
+487	BLÝSKOVÁ Aurelia r. Tomanóczyová, SK		0	2442
+487	BLÝSKOVÁ Zlata r. Tomanóczyová, SK		0	2442
+487	BOČKOVÁ Terézia r. Koričanská, SK		0	4012
+487	BOHUNICKÁ Anna r. Józsová, SK		0	3720
+487	BOHUNICKÁ Tekla r. Hanusová, SK		0	4022
+487	BOHUNICZKÁ Apolónia, SK		0	3222,4540
+487	BOLEDOVIČOVÁ Barbora r. Adamková, SK		0	3828
+487	BOŽIKOVÁ Magdalena r. Ležovičová, SK		0	3830,3833
+487	BRESZTICSOVÁ Gizela r. Lajvolfová, SK		0	3996
+487	BUBLINCOVA Anna r. Bernadičova, SK		0	22,241,3316,3343,4736
+487	BUBLINCOVÁ Anna r. Molnár, SK		0	357,3574,4024
+487	BUBLINCOVÁ Helena r. Forro, SK		0	462,463,464,491,3212,4295,4300,4331,4332,4532,4760
+487	BUBLINCOVÁ Pavlína r. Frantová, SK		0	3809
+487	BUBLINEC Eduard, SK		0	3903
+487	BUBLINEC Ján, SK		0	3343
+487	BUBLINEC Michal, SK		0	22,241,3316,3343,4736
+487	BUBLINEC Pavol, SK		0	22,241,3316,3343,4736
+487	BUBLINEC Štefan, SK		0	22,241,3316,3343,4736
+487	BUBLINEC Vincent, SK		0	487
+487	BUČEKOVÁ Mária r. Gašparíková, SK		0	211,213,233,234,3268,3337,3734,4395,4421,4528,4678
+487	BUČKOVÁ Mária r. Gašparíková, SK		0	3570
+487	BUGYINSZKÝ Ján, SK		0	3959
+487	BUGYINSZKY Ladislav, SK		0	3829
+487	BUKOVSKÁ Emília, SK		0	3877
+487	BUKOVSKÁ Mária, SK		0	3863
+487	CAKO Štefan, SK		0	370,3280,3281,4551

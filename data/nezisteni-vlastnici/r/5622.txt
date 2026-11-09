@@ -1,0 +1,256 @@
+3167	Szalma Koloman r. Szalma		0	2024
+3167	SZALMA LADISLAV		0	1084
+3167	Szalma Ladislav r. Szalma	nezletilý	0	2023,2024,2413,2424,2584
+3167	SZALMA LUDOVIT		0	1084,1491
+3167	Szalma Ľudovít r. Szalma		0	2023,2024,2413,2424,2584
+3167	Szalma Ľudovít r. Szalma	1	0	2024
+3167	Szalma Ľudovít r. Szalma	nar.7.7.1943	0	2023,2024,2494
+3167	SZALMA STEFAN		0	1177,1503,1513,1526
+3167	Szalma Štefan r. Szalma		0	2023,2494
+3167	Szalma Štefan r. Szalma	1	0	2024
+3167	Szalma Štefan r. Szalma	3	0	2024
+3167	Szalma Štefan r. Szalma	4	0	2538
+3167	Szalma Štefan r. Szalma	nar.1.3.1922-10.3.1977	0	2317
+3167	Szalma Štefan r. Szalma	ž.Júlia	0	2413
+3167	Szalma Štefan r. Szalma	ž.Katarína r.Buriová	0	2023
+3167	SZALMOVA ALZBETA		0	1084
+3167	Szalmová Alžbeta r. Mészárosová	Bublosová	0	2348
+3167	Szalmová Alžbeta r. Szakálošová	m. Štefan	0	2552
+3167	Szalmová Alžbeta r. Szalmová		0	2413,2424,2584
+3167	SZALMOVA ANNA		0	1084
+3167	Szalmová Anna r. Szalmová		0	2023,2024,2413,2424,2584
+3167	SZALMOVA BARBORA		0	1084
+3167	Szalmová Barbora r. Szalmová		0	2023,2024,2317,2413,2424,2584
+3167	Szalmová Irena		0	2552
+3167	Szalmová Jolana r. Szalmová	nezletilá	0	2584
+3167	SZALMOVA JULIA		0	1084,2024
+3167	Szalmová Júlia r. Kuraliová	m.František	0	2455
+3167	Szalmová Júlia r. Paulovicsová	m.Jozef	0	2539,2588
+3167	Szalmová Júlia r. Szalmová		0	2023,2024,2317,2413,2424,2584
+3167	Szalmová Juliana r. Kuraliová		0	1198
+3167	SZALMOVA KATARINA		0	1526,2377
+3167	Szalmová Mária		0	1513,1526,2024
+3167	Szalmová Mária r. Bublosová	m. Koloman	0	2023
+3167	Szalmová Mária r. Istvánová		0	1669
+3167	Szalmová Mária r. Istvánová	m. Štefan	0	2024,2599,2667,2672
+3167	Szalmová Mária r. Klenková		0	2023
+3167	Szalmová Mária r. Meliseková		0	2377
+3167	Szalmová Mária r. Szalmová		0	2023,2494
+3167	SZALMOVA MARIA R.ISTVANOVA		0	1670,1807
+3167	Szalmová Ružena r. Molnárová	nar.2.9.1928	0	2023
+3167	Szalonnás Ján r. Szalonnás		0	2245
+3167	Szalonnás Jozef r. Szalonnás		0	2024,2245
+3167	Szalonnás Jozef r. Szalonnás	ž. Viktória Moroziová	0	2245
+3167	SZALONNAS LADISLAV		0	1228
+3167	SZALONNAS LUDOVIT		0	1177,1503
+3167	SZALONNAS TIBOR		0	1228,1608
+3167	Szalonnás Tibor r. Szalonnás		0	2024
+3167	Szalonnásová Agáta r. Nagyová		0	2544
+3167	Szalonnásová Alžbeta r. Szalonnásová		0	2024,2245
+3167	Szalonnásová Mária r. Szalonnásová		0	2024,2245
+3167	SZALONNASOVA MARIA R.MORVAIOVA		0	1177,1503
+3167	SZALONNASOVA VIKTORIA R.MORVAIOVA		0	1177,1503
+3167	Szalonnáš Jozef r. Szalonnáš	ž.Viktória r.Morvayová	0	2024
+3167	Szalonnáš Ľudovít r. Szalonnáš	ž.Mária r.Morvaiová	0	2377
+3167	Szalonnášová Mária r. Morvaiová		0	2377
+3167	Szalonnášová Viktória r. Morvayová		0	2024,2377
+3167	Szekérová Mária r. Urbánová		0	1249,2024,2116
+3167	Szolgaiová Agneša r. Szolgaiová		0	2023,2207,2655
+3167	Szolgaiová Katarína		0	480,1218,1955
+3167	Szolgaiová Katarína r. Szolgaiová		0	2023,2207,2655
+3167	Šámšon Ľudovít r. Šámšon	ž.Margita r.Strnádová; ž.Margita r.Strnádová	0	2718
+3167	Šaroka Pavol r. Šaroka		0	2024,2616,2617
+3167	Šaroka Pavol r. Šaroka	ž.Mária r.Nagyová	0	2377
+3167	Šaroka Štefan r. Šaroka		0	2617
+3167	Šaróková Elena		0	2636
+3167	Šaroková Mária r. Nagyová	nar.6.11.1914	0	2023,2377,2596
+3167	Šimko Florián r. Šimko		0	2377
+3167	Šinková Alžbeta r. Bublošová		0	2675
+3167	Šógor Štefan r. Šógor	ž. Alžbeta r. Pásztorová	0	2598
+3167	Šógorová Alžbeta r. Pásztorová	m. Štefan Šógor	0	2598
+3167	Špaňo Ernest r. Špaňo		0	2023
+3167	Špátay Ernest r. Špátay		0	2305,2510
+3167	Špátay Ján r. Špátay, MUDr.		0	2305,2510
+3167	Štefaneková Iréna r. Vojteková	Virágova vdova	0	2024
+3167	Šuchter Peter r. Šuchter		0	2635
+3167	TAKACS JOZEF		0	1177,1503
+3167	Takács Jozef r. Takács	ž.Karolína r.Nevigyánszká	0	2377
+3167	Talpas Csomora Vojtech r. Talpas Csomora		0	2230
+3167	Tank Ľudovít r. Tank	ž.Hermína r.Bernátová	0	2357,2358
+3167	Tanková Hermína r. Bernátová	m.Ľudovít	0	2358
+3167	Tátuš Benjamín r. Tátuš		0	2572
+3167	Tatuš Karol		0	1678
+3167	Tatuš Ľudovít		0	1678
+3167	Tátuš Ľudovít r. Tátuš		0	2230
+3167	Tatuš Vojtech		0	1678
+3167	Tátuš Vojtech r. Tátuš		0	2230
+3167	Tatušová Irena		0	1678,2230
+3167	Tátušová Karolína		0	2230
+3167	TOTH FRANTISEK		0	1084
+3167	Tóth František r. Tóth		0	2024
+3167	TOTH KALMAN		0	1084
+3167	Tóth Koloman r. Tóth		0	2024
+3167	Tóth Ľudovít r. Tóth		0	2355
+3167	TOTH STEFAN		0	1084
+3167	Tóth Štefan r. Tóth		0	2024
+3167	Tóthová Agnesa r. Tóthová		0	2048,2049,2051,2056,2107,2184
+3167	TOTHOVA AGNESA R.TOTHOVA		0	1385,1440,1830
+3167	Tóthová Agneša r. Tóthová	m.ondrej	0	2023,2502,2614
+3167	Tóthová Irma r. Berényiová	nar.8.12.1911	0	2023
+3167	Tothová Júlia r. Pólyová	m.Štefan	0	2023,2024,2502
+3167	Tóthová Júlia r. Pólyová		0	2054,2055,2056
+3167	TOTHOVA JULIA R.POLYAOVA		0	989
+3167	Tóthová Juliana r. Pólyová		0	2048,2049,2052,2107,2184
+3167	TOTHOVA JULIANA R.POLYOVA		0	1385
+3167	Tóthová Julianna r. Pólyaová		0	2023
+3167	TOTHOVA JULIANNA R.POLYOVA		0	1440,1830
+3167	TURAN FRANTISEK		0	1045,1165,1177,1503,1725,3001
+3167	Turan František r. Turan		0	2234
+3167	Turán František r. Turán	1	0	2377
+3167	Turán František r. Turán	2	0	2714
+3167	Turán František r. Turán	3	0	2673
+3167	Turán František r. Turán	4	0	2601
+3167	Turán František r. Turán	5	0	2615
+3167	Turán František r. Turán	maloletý	0	2023
+3167	Turán František r. Turán	ž.Mária r.Duchonyová	0	2377
+3167	Turán František r. Turán	ž.Mária r.Duchonyová; ž.Mária r.Duchonyová	0	2023
+3167	TURAN JAN		0	1177,1503,1634,1635,1655
+3167	Turán Ján r. Turán	3	0	2377
+3167	Turán Ján r. Turán	ž.Juliana r.Bublosová	0	2024
+3167	Turán Ján r. Turán	ž.Mária r.Fazekašová	0	2377
+3167	Turán Ján r. Turán	ž.Veronika r.Kutlová	0	2377,2673
+3167	TURAN JONAS		0	510
+3167	Turán Jozef r. Turán		0	2417
+3167	TURAN PAVOL		0	1045
+3167	Turán Pavol r. Turán	ž.Anna r.Récsiová	0	2235,2236
+3167	Turan Peter r. Turan		0	2714
+3167	Turan Peter r. Turan	1	0	2023
+3167	Turán Peter r. Turán	m. Hermína r.Czagányová	0	2255
+3167	Turánová Alžbeta r. Mácsadiová	m. Štefan	0	2431
+3167	Turánová Anna		0	1165,3001
+3167	Turánová Anna r. Kuraliová	m.František	0	2491
+3167	Turanová Anna r. Récseiová		0	2059
+3167	Turánová Anna r. Récseiová	m. Pavol	0	2235,2236,2729
+3167	Turánová Hermína r. Czagányová	m. Peter	0	2255
+3167	Turánová Júlia r. Bublosová	m. Ján Turán	0	2264
+3167	Turanová Júlia r. Bublošová		0	1698
+3167	Turánová Julianna r. Bublošová		0	2023
+3167	Turánová Margita		0	1163,1165,3001
+3167	Turánová Margita	maloletá	0	2023
+3167	Turánová Mária r. Duchonyová	m.František; m.František	0	2023
+3167	Turánová Mária r. Fazekašová	m.Ján	0	2380
+3167	TURANOVA MARIA R.DUCHONYOVA		0	1177,1503
+3167	Turánová Rozália		0	2673
+3167	TURANOVA VERONA R.KUTLAOVA		0	1177,1503
+3167	Turánová Veronika r. Kutlová		0	2377
+3167	Urbán Alexander r. Urbán		0	2023
+3167	Urban Ernest r. Urban		0	2023
+3167	URBAN FRANTISEK		0	1177,1503,1542
+3167	Urbán František r. Urbán		0	2023
+3167	Urbán František r. Urbán	1	0	2023
+3167	Urbán František r. Urbán	2	0	2377
+3167	Urbán Ignác r. Urbán	ž.Terézia r.Bartoková	0	2023
+3167	URBAN JOZEF		0	502,1177,1503,1809
+3167	Urban Jozef r. Urban		0	2023,2245,2606
+3167	Urbán Jozef r. Urbán	1	0	2024
+3167	Urbán Jozef r. Urbán	2	0	2023
+3167	Urbán Jozef r. Urbán	3	0	2023
+3167	Urbán Jozef r. Urbán	4	0	2371
+3167	Urbán Jozef r. Urbán	5	0	2377
+3167	Urbán Jozef r. Urbán	ž.Alžbeta r.Kuraliová	0	2024
+3167	Urban Štefan r. Urban	nar.4.4.1925	0	2377
+3167	Urbán Štefan r. Urbán		0	2023
+3167	Urbánová Alžbeta r. Kuraliová		0	2481
+3167	Urbánová Alžbeta r. Urbánová		0	2245
+3167	Urbanová Elena r. Bublošová		0	2488
+3167	Urbánová Helena		0	2023
+3167	Urbánová Helena r. Urbánová		0	2245
+3167	Urbánová Julianna r. Urbánová		0	2245
+3167	Urbánová Katarína r. Urbánová		0	2245
+3167	Urbanová Magdaléna r. Nyékiová		0	2023
+3167	Urbánová Mária r. Nagyová	m. Štefan	0	2318
+3167	Urbánová Mária r. Szalmová		0	2377
+3167	Urbánová Rozália r. Urbánová		0	2245
+3167	URBANOVA TEREZIA		0	1542,2023,2123,2738,3026,3028,3032
+3167	Urbánová Terézia r. Urbánová		0	2023,2245
+3167	Urgácsová Julianna r. Urbánová		0	2024
+3167	Vágó Antal r. Vágó	ž. Alžbeta r.Duchoňová	0	2462
+3167	Vágóvá Alžbeta r. Duchoňová		0	2462
+3167	Vagyovszká Juliana		0	2457
+3167	Varga Andrej r. Varga	ž.Julia r.Fazekašová	0	2274
+3167	VARGA BLAZEJ		0	1177,1503
+3167	Varga Blažej r. Varga	ml	0	2377
+3167	Varga Daniel r. Varga		0	2571
+3167	Varga František r. Varga		0	2024,2571
+3167	Varga Ľudovít r. Varga	ž. Alžbeta Kis Csomorová	0	2024
+3167	Varga Ondrej		0	1908
+3167	VARGA RUDOLF		0	1177,1503
+3167	Varga Rudolf r. Varga	ž.Agáta r.Pupáková	0	2377
+3167	Varga Štefan		0	1908,1942
+3167	Vargová Agáta r. Pupáková		0	2377
+3167	VARGOVA AGATA R.PUPAKOVA		0	1177,1503
+3167	Vargová Alžbeta r. Kis Csomorová	m. Ľudovít	0	2609
+3167	Vargová Alžbeta r. Vargová		0	2024,2571
+3167	Vargová Anna r. Macsádiová		0	2023
+3167	Vargová Anna r. Mačadyová		0	2860
+3167	VARGOVA ANNA R.MACADYOVA		0	1183
+3167	Vargová Júlia r. Récseiová		0	2023
+3167	Vargová Katarína r. Molnárová	m.Daniel	0	2023
+3167	Vargová Mária r. Klenková		0	2470
+3167	VARGOVA MARIA R.KLENKOVA		0	1430
+3167	Vargová Rozália r. Garaiová		0	2238
+3167	Vargová Vilma r. Bagalová		0	2023,2333
+3167	Vargová Zuzana r. Kišová		0	1379
+3167	Vavrecká Irena r. Kurtyová	m.Jozef	0	2243
+3167	Vavrecký Jozef r. Vavrecký	ž.Irena r. Kurtyová	0	2243
+3167	Vencsová Alžbeta r. Fazekašová		0	2023
+3167	Vido Jozef r. Vido	ž.Irma r.Perešová	0	2364
+3167	Vidová Irma r. Perešová	m.Jozef	0	2364
+3167	Víg František r. Víg		0	2504
+3167	Vígh Anton r. Vígh		0	2024
+3167	Vígh Imrich r. Vígh		0	2024
+3167	Vígh Jozef r. Vígh		0	2024,2421
+3167	Vígh Štefan r. Vígh		0	2024,2421
+3167	Víghová Mária		0	2377
+3167	Víghová Rozália r. Istvánová	m. Štefan	0	2599,2667,2672
+3167	Vígová Rozália r. Istvánová		0	1669
+3167	Virgová Alžbeta		0	2024
+3167	Virgová Julianna		0	2024
+3167	ZSIGA CSOMOR ANNA		0	1772
+3168	Adamcová Alžbeta r. Folajtárová	m.Jozef	0	709
+3168	Adamcová Justína	mal. v r.1918	0	708
+3168	Adelsberger Rősnerová Mária r. Šišková		0	950,954,1303,1411,1501,1502,1826,1827
+3168	Amek Karol Rudolf	mal. v r.1947	0	219
+3168	Antoňák Ján		0	1538
+3168	Bachmanová Mária r. Mokošová	m.František	0	1629
+3168	Baleková Jana		0	1466
+3168	Baranovičová Zuzana		0	1390
+3168	Béreš Ján	ž.Anna r.Ondrejková	0	479
+3168	Bérešová Anna r. Ondrejková	m.Ján	0	479
+3168	Bielik Ján		0	1499
+3168	Bielik Jozef r. Bielik	zomr. 15.8.2002	0	911
+3168	Bielik Peter	mal. v r.1940	0	1499
+3168	Bieliková Emília		0	1321
+3168	Blahuta František	ž. Františka r.Jurčíková	0	1550
+3168	Bolješík Augustín	zomr.24.3.1983	0	1502,1827
+3168	Bolješík Augustín	zomr.24.3.1983; zomr.24.3.1983	0	1501,1826
+3168	Bolješík Jozef		0	750,871,893,894,897,898,899,906,1333,1334,1338,1340,1501,1502,1634,1635,1826,1827
+3168	Bolješik Karol		0	791,837,853
+3168	Bolješik Karol	ž.Otília r.Pániková	0	219,1536
+3168	Bolješík Karol	mal. v r.1917	0	1501,1502,1826,1827
+3168	Bolješík Ľudevít		0	1599
+3168	Bolješík Michal	ž.Katarína r.Vermešová	0	893
+3168	Bolješík Ondrej		0	1501,1502,1575,1668,1826,1827
+3168	Bolješik Ondrej r. Bolješik	zomr.16.1.2012	0	1668
+3168	Bolješik Pavol		0	219
+3168	Bolješik Rudolf	mal. v r.1948	0	218,221,898,1560
+3168	Bolješik Vladimír r. Bolješik	zomr. 28.1.1995	0	1634,1635
+3168	Bolješík Vojtech		0	871,897,898,1501,1502,1616,1744,1826,1827
+3168	Bolješiková Katarína r. Vermesová	m.Michal	0	218,221
+3168	Bolješiková Katarína r. Vermešová	muž Michal	0	794
+3168	Bolješiková Mária		0	906
+3168	Bolješíková Mária	mal. v r.1927	0	750,1501,1502,1826,1827
+3168	Bolješíková Otília r. Pániková	zomr. 11.6.1993; zomr. 11.6.1993	0	218,221,1536
+3168	Breggerová Alžbeta r. Bolješiková		0	219
+3168	Brezovan Ján	ž.Mária r.Nedorostová	0	261
+3168	Brezovan Ján	žena Mária Nedelková	0	262

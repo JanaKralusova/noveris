@@ -1,0 +1,256 @@
+2402	Macek Hrehor	ž.Verona Bôtoš	0	3346,3351,3516
+2402	Macko Adam		0	4140,4883,6251,6544
+2402	Macko Adam	ded. 1927, X	0	1804,1810,1815
+2402	Macko Adam	ded. 1939, V	0	2233
+2402	Macko Adam	Chalupa	0	1416
+2402	Macko Adam	zomrel 8.9.1953	0	3347,3384
+2402	Macko Anton	ded. 1938, II, Toman	0	2222,3181,3182,6542,6543
+2402	Macko Anton	Toman	0	3345,3351,3516
+2402	MACKO ANTON		1	1859,2902,2907,4140,4354,4355,4356,4357,4358,4359,4360,4361,4362,4363,4364,4365,5402,6064,6544
+2402	Macko Cyril		0	11,1871,3344
+2402	Macko Filip		0	3353
+2402	Macko Gregor		0	2222,3181,3182,4658,6064,6542,6543
+2402	Macko Ignác		0	11,1871,3344,4140,6544
+2402	Macko Jozef	ž.Anna Papežová	0	11,3344
+2402	MACKO JOZEF		1	1859,1871,2902,2907,4140,4354,4355,4356,4357,4358,4359,4360,4361,4362,4363,4364,4365,5381,6347,6348,6349,6350,6544
+2402	Macko Matej		0	11,1871,3344,4015,4140,6544
+2402	Macko Matej	ded. 1911, III	0	1871
+2402	Macko Matej	ded.1911, II	0	11,3344
+2402	Macko Ondrej		0	4140,4190,6064,6347,6348,6349,6350,6544
+2402	Macko Ondrej	ded. 1935, VI	0	1978,2201,3004
+2402	Macko Ondrej	ded. 1935, VII	0	2093
+2402	Macko Šimon		0	11,1871,3344,4015
+2402	Macko Štefan		0	1871,4015,4140,5869,6544
+2402	Macko Štefan	ded. 1911, V	0	1871
+2402	Macková Alojzia		0	4190
+2402	Macková Alojzia	r.Šimunská	0	1700,3356,3360,3361,3364,3497,3743,3746,3832,6113,6120,6472,6473,6532
+2402	Macková Alojzia	rod.Šimunová	0	1687,1958,1964,3742,3745,6268,6298,6471,6540
+2402	Macková Alojzia	rod.Šimunská, ded. 1949, II	0	1719,2203,2880
+2402	Macková Alojzia	rod.Šimunská, ded. 1949, III	0	1978
+2402	Macková Alojzia	rod.Šimunská, ded. 1949, IV	0	2093
+2402	Macková Alojzia r. Šimunová		0	4140,6544
+2402	Macková Alojzia r. Šimunská		0	1435,4140,4192,6544
+2402	Macková Anna		0	4140,4190,4676,6347,6348,6349,6350,6544
+2402	Macková Anna	ded. 1908, II	0	1871
+2402	Macková Anna	ded. 1935, IV	0	1978,2201,3004
+2402	Macková Anna	ded. 1935, V	0	2093
+2402	Macková Anna	ded. 1938, II, Tomanová	0	2222,3181,3182,6542,6543
+2402	Macková Anna	ded.1908, II	0	11,3344
+2402	Macková Anna	Tomanová	0	3516
+2402	Macková Anna r. Tomanová		0	5202,6064
+2402	Macková Eva		0	4340,6064
+2402	Macková Eva	r.Hudánová,ded.1934, III, Elišová	0	246,3452,3551,3552,3553,3561,6346,6363,6475
+2402	Macková Eva	rod.Hudanová, ded. 1934, III, Eliášová	0	1578,2355,2356
+2402	Macková Eva r. Hudanová		1	4340,4354,4355,4356,4357,4358,4359,4360,4361,4362,4363,4364,4365,6064
+2402	MACKOVÁ EVA R.HUDAŇOVÁ		1	1859,2902,2907
+2402	Macková Jozefa r. Hulínová		1	4354,4355,4356,4357,4358,4359,4360,4361,4362,4363,4364,4365
+2402	MACKOVÁ JOZEFA R.HULÍNOVÁ		1	1859,2902,2907
+2402	Macková Karolína		0	1978,2093,2201,3004,4140,4190,4192,6064,6347,6348,6349,6350,6544
+2402	Macková Karolína	r.Miková, ded.1932, II, Hradňanová	0	3380
+2402	Macková Karolína	rod.Miko Hradňanová, ded. 1932, II	0	2103,2118
+2402	Macková Karolína r. Miko Hradňanová		0	1423,4192
+2402	Macková Karolína r. Miko, Hradňanová Hradňanová		0	4140,6544
+2402	Macková Katarína		0	4140,6544
+2402	Macková Katarína	ded. 1938, II, Tomanová	0	2222,3181,3182,6542,6543
+2402	Macková Katarína	Tomanová	0	3516
+2402	Macková Katarína r. Tomanová		0	5284,6064
+2402	Macková Klementína	r.Trsťanová, zomrela 9.1.1965	0	392,393,2462,3387,3394,6170
+2402	Macková Klementína	rod.Trsťanová	0	1805,1810,1815
+2402	Macková Klementína r. Trsťanová		0	4140,6170,6544
+2402	Macková Kristína		0	2278,2299,2339,3545,4140,6281,6544
+2402	Macková Magdaléna		0	11,1871,3344,3955,4140,6064,6544
+2402	Macková Magdaléna	ded. 1938, III, Tomanová	0	2222,3181,3182,6542,6543
+2402	Macková Magdaléna	ded.1910, II, Tomanová	0	3516
+2402	Macková Magdaléna	rod.Rolinčínová	0	1522,2284,2318,2343,3131,3159,3163,6351,6372,6401
+2402	Macková Magdaléna	rod.Rolinčínová, ded. 1936, II	0	2272
+2402	Macková Magdaléna	rod.Rolinčínová, ded. 1936, III	0	2267,2276,2282,6343,6371,6494
+2402	Macková Magdaléna r. Rolinčínová		0	4140,6544
+2402	Macková Paulína		0	1978,2093,2201,3004,4190,6347,6348,6349,6350
+2402	Macková Vincencia		0	4140,6544
+2402	Macková Vincencia	ded. 1942, II	0	2339
+2402	Macková Vincencia	ded. 1942, III	0	2278,2299,6281
+2402	Majbo Mikuláš		0	5849
+2402	Majbová Anna		0	5849
+2402	Majbová Barbora		0	5849
+2402	Majbová Barbora r. Kvasajová		0	5849
+2402	Majbová Jozefína		0	5849
+2402	Majbová Štefánia		0	5849
+2402	MANDÁK ANTON		1	1859,2902,2907,4354,4355,4356,4357,4358,4359,4360,4361,4362,4363,4364,4365
+2402	Mandák Ondrej		0	6106
+2402	Mandák Peter		1	5965
+2402	Mandák Peter	ded. 1913, IV	0	1978
+2402	Mandák Peter	ded. 1934, II	0	1503
+2402	Mandáková Antónia		1	1503,4325
+2402	Mandáková Johana		1	5965
+2402	Marisin Filip		0	6562
+2402	Marisinszky Filip		0	6562
+2402	Marková Magdaléna	r.Hulinová	0	3314
+2402	Martinec Ján		0	6348
+2402	Martinec Štefan		0	6348
+2402	Martinská Anna		0	5939
+2402	Martinská Anna	Frývaldská	0	1733,1735
+2402	Martinská Zuzana	rod.Frývaldská	0	1943
+2402	Martinská Zuzana r. Frývaldská		0	5318,5939
+2402	Mazák Anton		0	4225,4345,5366
+2402	Mazák Anton	ded. 1900, V	0	1568,2355,2356
+2402	Mazák Anton	ded.1921, II	0	721,3447,3551,3563,6364,6475,6582
+2402	Mazák Gašpar		0	1568,2355,2356,3551,3563,4333,4345,6364,6475
+2402	Mazák Gašpar	ded. 1927, II	0	1563
+2402	Mazák Gašpar	ded.1927, II	0	1532,4333
+2402	Mazák Izidor		0	4345
+2402	Mazák Izidor	zomrel 3.3.1947	0	721,3447,6582
+2402	Mazák Karol		0	1732,1733,1735,4314,4345,5998,6559
+2402	Mazák Karol	ded. 1927, IV	0	1563
+2402	Mazák Karol	ded. 1932, II	0	1731
+2402	Mazák Karol	ded. 1943, III	0	1568,2355,2356
+2402	Mazák Karol	ded.1927, IV	0	1532,3674,4314
+2402	Mazák Karol	ded.1943, III	0	3551,3563,6364,6475
+2402	Mazák Karol, ded.1943, III ded.1943, III		0	4314
+2402	Mazák Mikuláš	ded.1936, VII	0	57,3355,3370
+2402	Mazák Pavol		0	4345,5998,6016
+2402	Mazák Pavol	ded. 1927, XXVI	0	1563
+2402	Mazák Pavol	ded. 1936, VII	0	2355,2356
+2402	Mazák Pavol	zomrel 4.3.1991	0	1532,3551,3563,5732,6364,6475
+2402	Mazák Pavol, Rajecká Lesná, ded.1936, Rajecká Lesná, ded.1936		0	5732
+2402	Mazák Peter		0	1732,1733,1735,3926,4078,4345,4805,5297,5588,5692,5732,5998,6001,6016,6559
+2402	Mazák Peter	ded. 1900, XXIX	0	1568,2355,2356
+2402	Mazák Peter	ded. 1927, XI	0	1568,2355,2356
+2402	Mazák Peter	ded. 1927, XXVII	0	1563
+2402	Mazák Peter	ded. 1932, XIII	0	1731
+2402	Mazák Peter	ded. 1934, XIX	0	1882,2240,2313,6131,6477
+2402	Mazák Peter	ded. 1934, XVII	0	1882,1963,2245,2254,2313
+2402	Mazák Peter	ded. 1934, XVIII	0	1978
+2402	Mazák Peter	ded. 1936, II	0	1882,1963,2245,2254,2313
+2402	Mazák Peter	ded. 1936, III	0	1978
+2402	Mazák Peter	ded. 1936, IV	0	1882,2240,2313,6131,6477
+2402	Mazák Peter	ded. 1936, VII	0	1568,1731,1732,1733,1735,2355,2356,6559
+2402	Mazák Peter	ded. 1943, XXV	0	1568,2355,2356
+2402	Mazák Peter	ded.1921, XVI	0	721,3447,3551,3563,6364,6475,6582
+2402	Mazák Peter	ded.1927, XI	0	721,3447,3551,3563,6364,6475,6582
+2402	Mazák Peter	ded.1927, XXVII	0	1532,3674,5732
+2402	Mazák Peter	ded.1934, XIX	0	2242,3522,3531,3534,3842,3856,4078,6108,6136,6302
+2402	Mazák Peter	ded.1936, II	0	2242,3522,3531,3534,3842,3856,4078,6108,6136,6302
+2402	Mazák Peter	ded.1943,XXV	0	3551,3563,6364,6475
+2402	Mazák Peter	Mária Biela	0	1882,2240,2313,6131,6477
+2402	Mazák Peter	ž.Mária Biela	0	721,3447,3522,3551,3563,3674,6108,6302,6364,6475,6582
+2402	Mazák Peter, ded.1900, ded.1900		0	4030
+2402	Mazák Peter, ded.1927, ded.1927		0	3909
+2402	Mazák Peter, ded.1936 ded.1936		0	3936
+2402	Mazák Peter, DED.1943, DED.1943		0	3909
+2402	Mazáková Júlia		0	4059,4085,4345
+2402	Mazáková Júlia	r.Šimunová, ded.1931, II	0	1700,3356,3360,3364,3497,3743,3746,3832,6113,6120,6472,6473,6532
+2402	Mazáková Júlia	r.Šimunová, zomrela 30.3.1956	0	3360
+2402	Mazáková Júlia	rod.Šimunová, ded. 1931, II, Frývaldská	0	1687,1958,1964,2203,2880,3742,3745,6268,6298,6471,6540
+2402	Mazáková Júlia	rod.Šimunová, ded. 1931, IV	0	1978,2201,3004
+2402	Mazáková Júlia	rod.Šimunová, ded. 1932, III, Frývaldská	0	1719
+2402	Mazáková Júlia	rod.Šimunová, Frývaldský	0	2093
+2402	Mazáková Júlia r. Šimunová		0	4190,4345
+2402	Mazáková Mária		0	3909,4345,4949,5692,6016,6170
+2402	Mazáková Mária	r.Biela, ded.1941, II	0	1848,2242,3479,3481,3482,3522,3531,3534,3842,3856,5375,6108,6136,6170,6302
+2402	Mazáková Mária	r.Biela, ded.1944, X	0	1534,3026,4840
+2402	Mazáková Mária	rod.Biela	0	1846,2170,2172
+2402	Mazáková Mária	rod.Biela, ded. 1941, II	0	1882,1963,2245,2254,2313
+2402	Mazáková Mária	rod.Biela, ded. 1941, III	0	1882,2240,2313,6131,6477
+2402	Mazáková Mária	rod.Biela, ded. 1941, V	0	1978
+2402	Mazáková Mária	rod.Biela, ded. 1941, VIII	0	1466
+2402	Mazáková Mária	rod.Biela, ded. 1944, X	0	1561
+2402	Mazáková Mária r. Biela		0	3909
+2402	Mazáková Petronela		0	2093,4190
+2402	Mazáková Petronela	rod.Bôtošová, ded. 1902, II	0	1684,1966,1978,2201,3004
+2402	Mazáková Petronela r. Bôtošová		0	3909
+2402	Mazáková Štefánia		0	1732,1733,1735,4248,6559
+2402	Mazáková Štefánia	ded. 1927, III	0	1563
+2402	Mazáková Štefánia	ded. 1932, II	0	1731
+2402	Mazáková Štefánia	ded.1927, III	0	1532,3674,4248
+2402	Mazáková Terézia r. Jančeková		0	4345
+2402	Melová Božena	r.Tužinčinová	0	1695,3366,3367,3512,6529,6536
+2402	Melová Božena	rod.Tužinčinová	0	1712,1713,2201,2860,2951,3004,6141,6142
+2402	Melová Božena r. Tužinčinová		0	3942,5776,5994
+2402	Melová Mária r. Michalcová		0	6272
+2402	Melová Žofia r. Michalcová		0	6272
+2402	Mešťanková Alžbeta r. Pongrácová		0	4349,5439,6005
+2402	Mieres Dominik		0	2201,3004
+2402	Mieres František		0	3496,4190,5989
+2402	Mieres František	ded. 1950, II	0	1691,1978,2208,3171,3892,6111
+2402	Mieres František	ded. 1950, III	0	2093
+2402	Mieres František	ded. 1950, IV	0	2201,3004
+2402	Mieres Ján		0	4190,5989
+2402	Mieres Ján	ded. 1950, II	0	1691,1978,2208,3171,3892,6111
+2402	Mieres Ján	ded. 1950, III	0	2093
+2402	Mieres Ján	ded. 1950, IV	0	2201,3004
+2402	Mieres Ján	ded.1950, II	0	3496
+2402	Mieres Ján	Kozárik	0	2834
+2402	Mieres Jozef		0	3544,5970
+2402	Mieres Jozef	ded.1927, II	0	3544
+2402	Mieres Ľudovít		0	1846,6175,6292,6293
+2402	Mieres Ľudovít	ded. 1922, II	0	1806,1810,1815,1978,6129
+2402	Mieres Ľudovít	ded. 1927, VIII	0	1697,6324
+2402	Mieres Ľudovít	ded. 1935, IV	0	1697,6324
+2402	Mieres Ľudovít	ded. 1938, VII	0	1978
+2402	Mieres Ľudovít	ded. 1959, XI	0	1846,6292,6293
+2402	Mieres Ľudovít	ded. 1959, XII	0	1806,1810,1815,1978,6129
+2402	Mieres Ľudovít	ded.1922, II	0	3371,3477,6075,6290,6291
+2402	Mieres Ľudovít	ded.1927, VIII	0	3487,3500
+2402	Mieres Ľudovít	ded.1935, IV	0	3487,3500
+2402	Mieres Ľudovít	ded.1959, XI	0	3371,3477,6075,6290,6291
+2402	Mieres Matúš		0	1697,4085,6324
+2402	Mieres Michal		0	4109,6006
+2402	Mieres Michal	ded. 1924, VII	0	2324
+2402	Mieres Michal	ded. 1941, VI	0	1554
+2402	Mieres Michal	zomrel 29.9.1979	0	2970,3844
+2402	Mieres Ondrej		0	4476
+2402	Mieres Ondrej	Kozárik	0	1736,1744,2834
+2402	Mieres Titus		0	1697,3487,3500,4109,6324
+2402	Mieres Titus	ded.1927	0	3487,3500
+2402	Mieres Tomáš		0	1523,1661,1670,2271,2325,3312,3313,3544,3582,6352,6353,6354,6533
+2402	Mieres Tomáš	ded. 1927, IV	0	1697,6324
+2402	Mieres Tomáš	ded. 1935, II	0	1697,6324
+2402	Mieres Tomáš	ded.1927, IV	0	3487,3500
+2402	Mieres Tomáš	ded.1935, II	0	3487,3500
+2402	Mieres Viktor	zomrel 14.6.1980	0	3496
+2402	Mieresová Anna		0	2271,5968,6006,6354,6535
+2402	Mieresová Anna	ded. 1927, III	0	1661,1670,2325,6352,6353,6533
+2402	Mieresová Anna	ded. 1927, V	0	1697,6324
+2402	Mieresová Anna	ded. 1930, II	0	1661,1670,2325,6352,6353,6533
+2402	Mieresová Anna	ded. 1935, IV	0	1697,6324
+2402	Mieresová Anna	ded.1927, III	0	1523,3312,3313,3544,3582
+2402	Mieresová Anna	ded.1927, V	0	3487,3500
+2402	Mieresová Anna	ded.1930, II	0	1523,3312,3313,3544,3582
+2402	Mieresová Anna	ded.1935, IV	0	3487,3500
+2402	Mieresová Apolonia		0	1523,1661,1670,2271,2322,2324,2325,2327,2332,3312,3313,3544,3547,3582,4942,6352,6353,6354,6533
+2402	Mieresová Apolónia	ded. 1924, III	0	1554
+2402	Mieresová Cecília		0	4109
+2402	Mieresová Cecília	r.Dorinská, Frývaldská	0	1703,3365,3503,6409,6610
+2402	Mieresová Cecília	rod.Dorinská, Hollá	0	1692,1960,1968,2209
+2402	Mieresová Cecília r. Dorinská		0	5477
+2402	Mieresová Cecília r. Dorinská	Frývaldská	0	4182,4717
+2402	Mieresová Cecília r. FrivaldskáDorinská		0	4182
+2402	Mieresová Dorota		0	6006
+2402	Mieresová Dorota	rod.Šujancová, ded. 1901, II, Frývaldská	0	2201,3004
+2402	Mieresová Dorota	rod.Šujancová, Frývaldská	0	1978
+2402	Mieresová Františka	r.Nemčeková, zomrela 16.10.1987	0	3440,3457,3574
+2402	Mieresová Františka r. Nemčeková	zomrela 16.10.1987	0	3443
+2402	Mieresová Jozefína		0	1691,2208,3171,3496,3892,4109,4190,5989,6006,6111
+2402	Mieresová Jozefína	ded. 1950, II	0	1978
+2402	Mieresová Jozefína	ded. 1950, III	0	2093
+2402	Mieresová Jozefína	ded. 1950, IV	0	2201,3004
+2402	Mieresová Kozáriková Štefánia		0	2834
+2402	Mieresová Kozáriková Žofia		0	187,724,3012,3878
+2402	Mieresová Kristína		0	1697,3487,3500,5968,6324,6535
+2402	Mieresová Kristína	ded. 1927, II	0	1697,6324
+2402	Mieresová Kristína	ded.1927, II	0	3487,3500
+2402	Mieresová Mária		1	1523,1661,1670,1859,2271,2322,2324,2325,2327,2332,2902,2907,3312,3313,3544,3547,3548,3582,4198,4354,4355,4356,4357,4358,4359,4360,4361,4362,4363,4364,4365,6352,6353,6354,6533
+2402	Mieresová Paulína		0	1691,1978,2208,3171,3496,3892,4190,5776,5989,6025,6111
+2402	Mieresová Paulína	ded. 1950, II	0	2093
+2402	Mieresová Paulína	ded. 1950, III	0	2201,3004
+2402	Mieresová Paulína	rod.Bôtošová	0	2201,3004
+2402	Mieresová Paulína	rod.Bôtošová, ded. 1931, II	0	2201,3004
+2402	Mieresová Štefánia		0	1691,1978,2208,3171,3496,3892,4190,4198,5970,5989,6111
+2402	Mieresová Štefánia	ded. 1950, II	0	2093
+2402	Mieresová Štefánia	ded. 1950, III	0	2201,3004
+2402	Mieresová Štefánia	rod.Kozáriková, ded. 1909, II	0	1736,1744
+2402	Mieresová Štefánia r. Kozáriková		0	6006
+2402	Mieresová Štefánia r. Kozáriková, ded. 1909 ded. 1909		0	5776
+2402	Mieresová Vincencia	rod.Hromadová	0	1978
+2402	Miereš Kozárik Blažej		0	3890
+2402	Mihalec Blažej		0	6548,6550,6551,6552

@@ -1,0 +1,256 @@
+2533	Šida Ondrej		0	10593,10598,10606
+2533	ŠIDA Ondrej	Rendek	0	11173
+2533	ŠIDA Ondrej	Rendek zomrel	0	6944,8424,8447,14732,17918,17919,19729,19799,23977,23978
+2533	Šida Rendek Ján		0	19729
+2533	ŠIDA Štefan	ml	0	11017,11173
+2533	ŠIDA Štefan	ml. zomrel	0	7808,14732,17248,19328
+2533	ŠIDA Štefan	najst	0	10620
+2533	ŠIDA Štefan	najst. zomrel	0	14732
+2533	ŠIDA Štefan	Rendek	0	19799,23977,23978
+2533	ŠIDA Štefan	st. zomrel	0	7679,7681,19776
+2533	ŠIDA Štefan	ž.Margita r.Jamsilová	0	17521
+2533	Šida Štefan a Katarína Šidová r. Hýravá	st. zomrel, zomrela	0	19108
+2533	Šida Vincent	Dátum úmrtia: 25.12.1998	0	19729
+2533	Šida Vincent	mal., dátum úmrtia: 25.12.1998	0	20056
+2533	ŠIDA Vincent		0	17918,17919,19122,19328
+2533	ŠIDA Vincent	ml., zomrel 25.12.1998	0	4487,16981,17134
+2533	Šidová Agáta	mal	0	19729,20056
+2533	ŠIDOVÁ Agáta		0	6944,7808,7939,8424,8439,8447,11017,14732,14734,14735,17918,17919,19122,19328,20795,21437,21438,21730
+2533	Šidová Agáta, SR		0	11173
+2533	ŠIDOVÁ Anna	ml	0	6689,6770,8301,17248
+2533	ŠIDOVÁ Anna	r.Šefranková zomrela	0	8543
+2533	ŠIDOVÁ Anna	st	0	10647
+2533	ŠIDOVÁ Anna	stredná	0	8650
+2533	Šidová Anna r. Šefranková	zomrela	0	11651,15075
+2533	ŠIDOVÁ Arana	r.Laclavíková	0	8571,8572,8631,8632,8633
+2533	ŠIDOVÁ Emília		0	8650
+2533	ŠIDOVÁ Floriana	r.Jančiarová zomrela	0	7322,23532
+2533	ŠIDOVÁ Floriana r. Jančiarová	zomrel 24.8.1985	0	19134,22005
+2533	ŠIDOVÁ Justína		0	6689,6770,8301,17248
+2533	ŠIDOVÁ Katarína	ml	0	7039
+2533	ŠIDOVÁ Katarína	r.Adamovie zomrela	0	7040
+2533	ŠIDOVÁ Katarína	r.Hýravá zomrela	0	7273,7679,7939
+2533	ŠIDOVÁ Katarína r. Adamovie	zomrela	0	10617,10621
+2533	ŠIDOVÁ Katarína r. Bradiaková Adamovie	zomrela	0	10618
+2533	Šidová Katarína r. Hiravá		0	20056
+2533	ŠIDOVÁ Katarína r. Hýravá	zomrela	0	11017,14734,20795,21437,21438,21730
+2533	ŠIDOVÁ Kristína	r.Kačová zomrela	0	6689,6770,7528,8301
+2533	ŠIDOVÁ Kristína r. Kačová	zomrela	0	18908
+2533	ŠIDOVÁ Margita	ml	0	17249,19704
+2533	ŠIDOVÁ Margita r. Jamsilová	zomrela 4.5.2006	0	17521,18138
+2533	Šidová Mária	mal	0	19729,20056
+2533	Šidová Mária	st	0	10593,10598,10606
+2533	ŠIDOVÁ Mária	dcéra Štefana	0	14734
+2533	ŠIDOVÁ Mária	ml	0	6944,7808,7939,8424,8439,8447,11017,11173,14732,14735,19122,19328,20795,21437,21438,21730
+2533	ŠIDOVÁ Mária	najst	0	10647
+2533	ŠIDOVÁ Mária	r.Bohúňová	0	8452
+2533	ŠIDOVÁ Mária	r.Hajdúchová Nováková zomrela	0	7086,7137,7740,7988,8012
+2533	ŠIDOVÁ Mária	r.Hýravá zomrela	0	6680
+2533	ŠIDOVÁ Mária	r.Jančiarová Majdíková zomrela	0	6770,7528,7741
+2533	ŠIDOVÁ Mária	r.Javošková	0	7374
+2533	ŠIDOVÁ Mária	r.Milanová Báčiková zomrela	0	7551,7921,8072,8120,9775,22290
+2533	ŠIDOVÁ Mária	r.Nováková	0	6725,6816,8203
+2533	ŠIDOVÁ Mária	slob	0	21227
+2533	ŠIDOVÁ Mária r. Bohúňová		0	11827
+2533	ŠIDOVÁ Mária r. Hajdúchová Nováková	zomrela	0	10642
+2533	ŠIDOVÁ Mária r. Hýravá	zomrela	0	10570,10646,10657,10663
+2533	ŠIDOVÁ Mária r. Jančiarová	r. Majdíková	0	18908,19206
+2533	ŠIDOVÁ Mária r. Javošková		0	20089
+2533	Šidová Mária r. Javošová		0	22144
+2533	Šidová Mária r. Milanová	r. Báčiková	0	18200
+2533	ŠIDOVÁ Mária r. Milanová Báčiková	zomrela	0	10623,10708,10709
+2533	Šidová Mária r. Mydliarová		1	14734,14735,17258,17918,17919,19122,19328,19729,20056,20795,21437,21730,21926
+2533	ŠIDOVÁ Mária r. Nováková		0	10682
+2533	Šídová Mária r. Nováková	r. Hajdúchová	0	18624,20283
+2533	ŠIDOVÁ Štefánia	ml	0	6689,6770,8301,17248
+2533	ŠIDOVÁ Štefánia	st	0	8650
+2533	ŠIKULOVÁ Mária r. Švindrová		0	11114
+2533	ŠIMÁČEK Oldrich Dr.		0	18818
+2533	ŠIMÁČEKOVÁ Jaromíra r. Vidličková		0	18818
+2533	ŠIMANSKÁ Antónia	r.Hatalová zomrela	0	9406
+2533	ŠIMEKOVÁ Anna	r.Kubinová	0	7539,23267
+2533	ŠIMEKOVÁ Anna r. Kubinová		0	15965
+2533	Šimko Ladislav		0	21139
+2533	ŠIMKO Mikuláš	zomrel	0	11389,11759
+2533	Šimko Mikuláš, SR	zomrel	0	11207
+2533	ŠIMKOVÁ Helena r. Valušiaková		0	11216,11321
+2533	Šimková Marta Mária r. Olejníková	Kičin	0	22456
+2533	Šimková Marta r. Olejníková		0	22456
+2533	Šimovček Ján		1	9064,9101,9708,10208,10212,10410,10538,19096,19277,20259,20267,20459,20463,22407,22435
+2533	Šimovčeková Albína		1	9064,9101,9708,10410,10538,19096,19277,20259,20267,20459,20463,22407,22435
+2533	Šimovčeková Ľudmila		1	9064,9101,9708,10410,10538,19096,19277,20259,20267,20459,20463,22407,22435
+2533	ŠIMOVČEKOVÁ Mária	zomrela	0	9101,10410,10538,19096,19277,20459,20463
+2533	ŠIMRÁKOVÁ Mária	zomrela	0	8832
+2533	ŠINDLÉRY Albert		0	10543
+2533	ŠINDLÉRY Alojz		0	9369,10547,11558
+2533	ŠINDLÉRY Anton		0	8541,8543
+2533	Šindléry Augustín	ml	0	10835,11531,11564,11649,21844,21845,23526
+2533	ŠINDLÉRY Augustín	st	0	7093,7095,7101,7102,7103
+2533	ŠINDLÉRY Bartolomej		0	7095,7103,9266,21115
+2533	ŠINDLÉRY Bohdan	Dr	0	8541,8543
+2533	ŠINDLÉRY František		0	8411,8568,8677,10835,11531,11564,11649,21844,21845,23526
+2533	ŠINDLÉRY Fridrich		0	8541,8543
+2533	ŠINDLÉRY Gabriel	zomrel	0	7093,7095,7101,7102,7103,8377
+2533	Šindléry Gabriel r. Šindléry, Noveská 1/1, Ružomberok, PSČ 034 01, SR	zomrel 27.3.2000	0	11462,11712
+2533	ŠINDLÉRY Gustáv	zomrel	0	7093,7095,7101,7102,7103,7491,8377,11443,11531,21845
+2533	ŠINDLÉRY Heliodor		0	10553
+2533	ŠINDLÉRY Ján	ml	0	7095,7103
+2533	ŠINDLÉRY Ján	najml	0	11505,11508,11544,11746
+2533	ŠINDLÉRY Ján	najst	0	11263,11538
+2533	ŠINDLÉRY Ján	najst. zomrel	0	7101,7102,8541,8611
+2533	ŠINDLÉRY Ján	Paukov	0	11606
+2533	ŠINDLÉRY Ján	st	0	11615,11729
+2533	ŠINDLÉRY Ján	zo Zemianskej Ludrovej	0	10545,10547
+2533	ŠINDLÉRY Jozef	ml	0	11443
+2533	ŠINDLÉRY Jozef	najml	0	11610
+2533	ŠINDLÉRY Jozef	st	0	7095,7103
+2533	ŠINDLÉRY Jozef	stredný	0	9369,10547,11558
+2533	ŠINDLÉRY Jozef	Širáň	0	11551,11648
+2533	ŠINDLÉRY Jozef	z Liptovskej Štiavnice	0	7093,7095,7101,7102,7103
+2533	ŠINDLÉRY Jozef	zo Zemianskej Ludrovej,zomrel	0	10553
+2533	ŠINDLÉRY Matej		0	7095,7101,7102,7103,11719
+2533	ŠINDLÉRY Ondrej		0	7101,7102
+2533	ŠINDLÉRY Pavol	zomrel	0	8671,10553,11263
+2533	ŠINDLÉRY Peter		0	8613,11615,11616,11716,11729
+2533	ŠINDLÉRY Rudolf		0	8568,10835,11531,11564,11649,21844,21845,23526
+2533	ŠINDLÉRY Štefan	ml	0	10547,11558,11610
+2533	ŠINDLÉRY Štefan	ml. zomrel	0	7618,9369
+2533	ŠINDLÉRY Štefan	najml	0	11610
+2533	ŠINDLÉRY Štefan	najst	0	10553,11538
+2533	ŠINDLÉRY Štefan	najst. zomrel	0	8394,8541
+2533	ŠINDLÉRY Štefan	st	0	7095,7103,10543
+2533	Šindléry Vladimír		0	11564,23526
+2533	ŠINDLÉRYOVÁ Amália r. Janigová		0	11618
+2533	ŠINDLERYOVÁ Anna r. Kuniaková		0	17652,20239,20678
+2533	Šindléryová Augustína r. Hubová, SR	zomrela	0	11163
+2533	ŠINDLÉRYOVÁ Aurélia	r.Petrová zomrela	0	7101,7102,9068
+2533	Šindléryová Aurélia r. Petrová	zomrela	0	10545,11556
+2533	ŠINDLÉRYOVÁ Eva	zo Zemianskej Ludrovej	0	7101,7102,10547
+2533	ŠINDLÉRYOVÁ Floriana		0	7093,7095,7101,7102,7103
+2533	ŠINDLÉRYOVÁ Gizela		0	8541,8543
+2533	ŠINDLÉRYOVÁ Helena r. Slimáková		0	11734
+2533	ŠINDLÉRYOVÁ Katarína r. Kivoňová	zomrela	0	11616
+2533	ŠINDLÉRYOVÁ Klára		0	8411,8677
+2533	ŠINDLÉRYOVÁ Magdaléna		0	11462,21115
+2533	ŠINDLÉRYOVÁ Margita	r.Tholtová	0	7315
+2533	ŠINDLÉRYOVÁ Margita r. Jančiarová	zomrela	0	11399
+2533	Šindléryová Margita r. Marschalová	zomrela	0	11574,11575
+2533	Šindléryová Margita r. Marschalová, SR	zomrela	0	11278
+2533	Šindléryová Mária	ml	0	11163
+2533	ŠINDLÉRYOVÁ Mária	r.Lacová zomrela	0	9558
+2533	ŠINDLÉRYOVÁ Mária	r.Lauková Cibulková zomrela	0	9354
+2533	ŠINDLÉRYOVÁ Mária	r.Marschalová zomrela	0	7093,7095,7101,7102,7103,9198
+2533	ŠINDLÉRYOVÁ Mária	r.Šefranková zomrela	0	8543,9086
+2533	ŠINDLÉRYOVÁ Mária	r.Šindléryová zomrela	0	8541,8543,8841
+2533	ŠINDLÉRYOVÁ Mária	r.Tholtová	0	7095,7103
+2533	ŠINDLÉRYOVÁ Mária	st	0	11615,11616,11628,11716,11729
+2533	ŠINDLÉRYOVÁ Mária	z Liptovskej Štiavnice	0	7093,7095,7101,7102,7103
+2533	ŠINDLÉRYOVÁ Mária r. Ondrejková		0	10553
+2533	ŠINDLÉRYOVÁ Mária r. Poliaková zo Zemianskej Ludroj		0	10543
+2533	ŠINDLÉRYOVÁ Mária r. Šefranková	zomrela	0	11651,15075,20918
+2533	ŠINDLÉRYOVÁ Mária r. Tholtová	zomrela	0	11615
+2533	ŠINDLÉRYOVÁ Oľga		0	9187
+2533	ŠINDLÉRYOVÁ PAVKOVÁ Eva r. Kollová		0	11505,11508,11544
+2533	Šindléryová Širáňová Anna r. Lacová		0	11551,11648
+2533	ŠINDLÉRYOVÁ Zuzana	r.Dutková zomrela	0	8841
+2533	ŠINDLÉRYOVÁ Zuzana	r.Petrová zomrela	0	9086
+2533	Šindléryová Zuzana r. Kajúchová	zomrela	0	11571
+2533	ŠINDLÉRYOVÁ Zuzana r. Ondrejková	zo Zemianskej Ludrovej	0	10547
+2533	Šindléryová Zuzana r. Petrová	zomrela	0	20918
+2533	ŠÍPKOVÁ Mária r. Lietavcová	zomrela	0	11381
+2533	ŠÍPOŠ Alexander		0	9636
+2533	ŠÍPOŠ Rudolf		0	9636
+2533	Šípoš Štefan, SR	zomrel	0	11140
+2533	ŠIPOŠOVÁ Mária r. Leštinská		0	21227
+2533	ŠIPOŠOVÁ Štefánia r. Zanvitová		0	19614
+2533	ŠÍPOŠOVÁ Zuzana	r.Sidorová zomrela	0	8265
+2533	ŠIROŇ Ján		0	18550,22970
+2533	ŠIROŇ Jozef	Sára	0	11118
+2533	ŠIROŇ Štefan	ž.Oľga r.Istvanfi	0	18476
+2533	ŠIROŇ Vojtech		0	18550,22970
+2533	ŠIROŇOVÁ Mária r. Fačková		0	18550,22970
+2533	ŠIROŇOVÁ Oľga r. Istvanfi		0	18476
+2533	ŠIROŇOVÁ SÁROVÁ Helena		0	11796
+2533	ŠIROŇOVÁ SÁROVÁ Mária r. Franková		0	11792
+2533	ŠIŠKOVÁ Helena r. Janigová	nar.1.2.1950	0	18079
+2533	Škobla Július, SR		0	14781
+2533	Škobla Marcel, SR		0	14781
+2533	Škoblová Helena	mal	0	14781
+2533	Škoblová Mária	mal	0	14781
+2533	Škoblová Štefánia, SR		0	14781
+2533	ŠKOBLOVÁ Zuzana r. Mišatová Poliaková		0	14781
+2533	ŠKODA Ján	Rapoš ml	0	10152,11108
+2533	ŠKODA Ján	Rapoš st	0	10156,11108,11549,11773
+2533	Škoda Jozef	Rapoš st	0	11549,11773
+2533	ŠKODA Jozef	Rapoš ml	0	11108,11545
+2533	ŠKODA Jozef	st	0	11349
+2533	Škodová - Prídavková Irena, SR		0	11118
+2533	ŠKODOVÁ Anna		0	11349
+2533	ŠKODOVÁ Mária r. Prídavková Tominková		0	11800
+2533	ŠKODOVÁ PRÍDAVKOVÁ Katarína r. Bražinová Kulichová		0	11118,11776,11799
+2533	ŠKODOVÁ PRÍDAVKOVÁ Mária r. Fokorová Krajníková		0	11118
+2533	ŠKODOVÁ ŠIROŇOVÁ Anna r. Pompášová		0	11792
+2533	ŠKULOVÁ Anna r. Mudičková		0	20987,22157
+2533	Škulová Katarína r. Holdošová, SR	zomrela	0	11151
+2533	ŠKULOVÁ Mária r. Rázgová		0	20989,22157
+2533	ŠKVOROVÁ Jolana	r.Komová	0	9280
+2533	ŠKVOROVÁ Jolana r. Komová		0	20841
+2533	ŠLACHTA František		0	8176,9962,18880,19399
+2533	ŠLACHTA Jozef		0	8176,9962,18880,19399
+2533	ŠLACHTA Karol		0	8176,9962,18880,19399
+2533	ŠLACHTA Marcel		0	18856
+2533	ŠLACHTOVÁ Jolana r. Hýrošová	zomrela	0	11744
+2533	ŠLACHTOVÁ Mária r. Hradská		0	18880,19415,21227
+2533	ŠLACHTOVÁ Oľga	zomrela	0	8860
+2533	ŠMÁRIK Ján	Dr	0	18774
+2533	ŠMÁRIK Leonard	mal	0	18776
+2533	ŠMÁRIKOVÁ Margita r. Kronerová		0	18772,21227
+2533	ŠMIDTOVÁ Emília r. Lukáčová Dolná		0	14781
+2533	ŠMUTKO Ján	Trepáň zomrel	0	9855
+2533	ŠMUTKO Martin	Trepáň zomrel	0	9855
+2533	ŠNAUKO Eduard		0	8623,8625,13790,19010,19331,19348,20095,20299,20372,20476,20775,20797,21586
+2533	ŠNAUKO Ján	zomrel	0	18467
+2533	Šnauko Ján, zomrel zomrel		0	23743
+2533	ŠNAUKO Jozef	st	0	9975,19967
+2533	ŠNAUKO Jozef	zomrel 24.7.1999	0	13808,20458
+2533	ŠNAUKO Štefan		0	8623,8625,9019,9199,9442,9443,9975,9988,9991,10093,13790,17320,19010,19331,19348,19586,19967,20095,20299,20372,20476,20775,20797,21586,21587,23660
+2533	ŠNAUKO Štefan a ŠNAUKOVÁ Helena r. Brnová		0	20372,20797
+2533	ŠNAUKOVÁ Eva		0	19967
+2533	ŠNAUKOVÁ Helena	r.Brnová	0	8623,8625,9019,9199,9442,9443,9988,9991,10093
+2533	ŠNAUKOVÁ Helena r. Brnová		0	13790,17320,19010,19331,19348,19586,19967,20095,20476,20775,21586,21587
+2533	ŠNAUKOVÁ Jolana		0	20476
+2533	ŠNAUKOVÁ Katarína r. Sidorová	r. Hlinková, zomrela	0	20235,20304,20497
+2533	ŠNAUKOVÁ Mária	hluchonemá	0	8625,9975,19967
+2533	ŠNAUKOVÁ Mária	r.Sliačanová	0	9468,9643,9821,9823
+2533	ŠNAUKOVÁ Mária r. Sliačanová		0	16024
+2533	ŠNAUKOVÁ Zuzana	r.Koreňová	0	8742
+2533	ŠNAUKOVÁ Zuzana	r.Matulová	0	10134
+2533	ŠNAUKOVÁ Zuzana r. Koreňová		0	18184,19893,20391
+2533	ŠOFRANKO Jozef		0	7095,7103
+2533	ŠOLTÉZOVÁ Anna		0	10647
+2533	ŠOLTÉZOVÁ Margita Ilona		0	10647
+2533	ŠOLTÉZOVÁ Štefánia		0	10647
+2533	ŠOLTÉZOVÁ Zuzana		0	10647
+2533	ŠOMEGA Cyril		0	11417
+2533	ŠOMEGA Gašpar		0	11417
+2533	ŠOMEGA Ondrej		0	11417
+2533	ŠOMEGOVÁ Alojzia r. Husarčíková		0	11418,11420,11422
+2533	ŠOMEGOVÁ Mária r. Pekárová		0	11359,11360,11392,11432
+2533	ŠOOŠ Andrej	Dudačik	0	11443
+2533	ŠOOŠ Andrej	z ulice	0	11443
+2533	Šooš Andrej, SR		0	11193
+2533	Šooš Florián		0	7475,11252,11546,11551,11648
+2533	Šooš František		0	11546
+2533	ŠOOŠ František	najst	0	7093,7095,7101,7102,7103
+2533	ŠOOŠ František	z ulice	0	11443
+2533	ŠOOŠ Ján	Bobrik	0	11443
+2533	ŠOOŠ Ján	ml	0	7591,7685
+2533	ŠOOŠ Ján	st	0	11252,11272,11287,11546,11551,11648,11688,11689,11720,21595
+2533	ŠOOŠ Ján	st. zomrel	0	7093,7095,7101,7102,7103,7475,7610,8673
+2533	ŠOOŠ Jozef	cestár	0	18132
+2533	ŠOOŠ Július	zomrel	0	11443
+2533	Šooš Ondrej		0	8673,11252,11546,11551,11648,11689
+2533	Šooš Ondrej, SR		0	11272
+2533	Šooš Štefan		0	11571
+2533	ŠOOŠ Viliam		0	7093,7095,7101,7102,7103,11443
+2533	ŠOOŠOVÁ Alžbeta r. Janovcová	zomrela 21.11.1979	0	17954,17955,19712

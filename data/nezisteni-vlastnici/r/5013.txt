@@ -1,0 +1,256 @@
+2823	PETROVSKÁ Mária r. Figurová	zomrela	1	843,1133
+2823	Petrovský Jozef	zomrel	1	243,444,451,520,757,758,789,805,1214
+2823	PETROVSKÝ Jozef r. Petrovský	zomrel	1	843,891
+2823	Petrovský Štefan r. Petrovský		1	890,1168
+2823	POTOMA Juraj r. Potoma	zomrel	1	831,1028
+2823	Potoma Michal	zomrel ,1	1	509
+2823	Potoma Michal	ž. Helena r. Mlynárová	1	62,196
+2823	Potoma Michal	žena Helena Mlynarová	1	47
+2823	POTOMA Michal r. Potoma	zomrel	1	829,831
+2823	POTOMA Michal r. Potoma	ž. Ila r. Mlynárová	1	831
+2823	Potoma Peter	zomre, , L.Mikuláš	1	48,1225
+2823	Potoma Peter	zomrel	1	48,50,1225,1226,1229,1261
+2823	Potoma Peter	zomrel, , L.Mikuláš	1	48,50,91,497,794,1225,1226,1227,1229,1231,1261
+2823	POTOMA PETER		1	47,62,196
+2823	POTOMA Peter r. Potoma	zomrel	1	1136
+2823	POTOMA Štefan r. Potoma		1	831
+2823	POTOMOVÁ Anna	zomrela	1	831
+2823	Potomová Ilona		1	47,62,196
+2823	POTOMOVÁ Mária	zomrela	1	831
+2823	Prusáková Anna r. Šusterová		1	126,128,326,443,492,496,503,987,1213
+2823	Rejňák Jozef	zomrel	1	243,444,520,1214
+2823	REJŇÁK Jozef r. Rejňák	zomrel	1	1002
+2823	Renek Ján		1	444,520,1214
+2823	RENEK Ján r. Renek		1	960
+2823	Roľnícka vzájomná pokladnica Svidník		1	69,833,1122,1173,1177,1179,1184
+2823	Sciranková Mária r. Petrišinová		1	181,404
+2823	Sciranková Mária r. Petrišinová	manž. Michal	1	19
+2823	Sciranková Mária r. Petrišinová	zomrela	1	513,1146
+2823	Sivuličová Anna r. Petrišinová		1	19,35,47,62,181,196
+2823	SIVULIČOVÁ Anna r. Petrišinová	zomrela	1	831
+2823	SOÓŠ Ján		1	852
+2823	Stapinská Mária	zomrela	1	214,215,791,792,860,1161,1178
+2823	STELMAK Ján r. Stelmak	manž. Anna r.Švecová ,; manž. Anna r.Švecová	1	1020
+2823	STOJOVÁ Zuzana r. Lapčáková	zomrela	1	850
+2823	ŠEBKOVÁ Anna		1	1089
+2823	ŠEVCOVÁ Mária r. Potomová	zomrela	1	941
+2823	ŠKOLSKÝ MAJETOK		1	1036,1179
+2823	Štapinská Mária r. Čeladinská	zomrela	1	435,855
+2823	Štelmak Ján	ž.Anna r.Švecová	0	404
+2823	Štelmák Ján	ČELEDINSKÝ zomrel	1	444,520,789,805,1214
+2823	Štelmák Ján	Čeledinský, zomrel	1	243,451,757,758
+2823	Štelmák Ján	Fijašan, zomrel	1	757
+2823	Štelmák Ján	zomrel 1, , manž. Anna r.Švecová	1	793
+2823	ŠTELMÁK Ján r. Štelmák	1 , zomrel , manž.Anna r.Švecová ,; 1	1	918
+2823	ŠTELMÁK Ján r. Štelmák	Čeledinský	1	1094
+2823	ŠTELMÁK Ján r. Štelmák, Šandal, č. 48, SR	zomrel 18.04.1996	1	869
+2823	Štelmak Juraj		0	143
+2823	Štelmak Juraj	zomrel	1	504
+2823	Štelmák Juraj	B 1d	1	32
+2823	Štelmák Juraj	zomrel, 1	1	444,1214
+2823	ŠTELMÁK Juraj	zomrel 1	1	243,451,520,757,758,789,805
+2823	ŠTELMÁK Juraj r. Štelmák	1	1	934
+2823	ŠTELMÁK Juraj r. Štelmák	zomrel	1	834,876
+2823	Štelmak Michal		0	143
+2823	Štelmák Michal	zomrel	1	271,432,433,434,479,785,1244
+2823	ŠTELMÁK Michal r. Štelmák	zomrel	1	911
+2823	Štelmak Peter		0	143
+2823	Štelmák Peter	zomrel	1	243,271,444,451,479,520,757,758,785,789,805,1214,1244
+2823	ŠTELMÁK Peter r. Štelmák	zomrel	1	1154
+2823	Štelmak Štefan		0	143
+2823	Štelmák Štefan	zomrel	1	271,479,785,1244
+2823	ŠTELMÁK Štefan r. Štelmák	zomrel	1	920
+2823	Štelmáková Anna	zomrela	1	432,433,434,930
+2823	ŠTELMAKOVÁ Barbora r. Pavlišinová	zomrela	1	834
+2823	Štelmaková Mária		0	143
+2823	Štelmáková Mária	zomrela	1	271,479,785,1064,1244
+2823	Štelmaková Terézia	Bokša	1	504,831
+2823	Štelmaková Zuzana		0	143
+2823	ŠTELMÁKOVÁ Zuzana	zomrela	1	834
+2823	Šuster Ján	zomrel	1	326,496,1213
+2823	ŠUSTER Ján r. Šuster	zomrel	1	1102
+2823	Šuster Michal	zomrel	1	126,128,326,443,491,492,496,503,1213
+2823	ŠUSTER Michal r. Šuster	zomrel	1	940
+2823	Šusterová Zuzana r. Petrišinová	zomrela	1	492
+2823	Uhlíková Irena	zomrela	1	472,473,490,967
+2823	VAČIŠKOVÁ Anna	zomrela	1	1167
+2823	Vašková Mária r. Potomová		1	62
+2823	VOJČEK Anton r. Vojček		1	1075
+2823	Vojček Peter	ČR	1	437
+2823	VOJČEK Peter r. Vojček	ČR	1	1013
+2823	Vojčeková Mária		1	243,444,451,520,757,758,789,805,1214
+2823	VOJČEKOVÁ Mária r. Vojčeková		1	1019
+2823	Weis Martin		1	243,483,493,788
+2823	WEIS Martin r. Weis		1	1127
+2824	Bereš Michal r. Bereš		0	191,223
+2824	Berešová Mária		0	223
+2824	Blažková Anna r. Jurkaninová		0	193,213
+2824	Bučková Mária	1	0	222
+2824	Czarová Eva		0	48
+2824	Czarová Helena		0	48
+2824	Čajka Andrej r. Čajka		0	193,213,218
+2824	Čajka Andrej r. Čajka	č. 268 Kožany	0	193,205,213
+2824	Čajka Jozef r. Čajka		0	193,205,213,218
+2824	Čajka Juraj r. Čajka		0	193,205,213,218
+2824	Čajka Lukáš r. Čajka		0	193,213
+2824	Čajka Michal r. Čajka		0	193,205,213,218
+2824	Čajka Vasiľ r. Čajka	USA	0	193,205,213,218
+2824	Čajková Helena	USA	0	193,205,213,218
+2824	Červeňák Juraj r. Červeňák		0	72,172,182
+2824	Červeňak Michal r. Červeňak	ml	0	193,213
+2824	Červeňák Michal r. Červeňák		0	182
+2824	Červeňák Michal r. Červeňák	otec Ján	0	182
+2824	Červeňáková Anna		0	27,33,72,160,182
+2824	Červeňaková Mária		0	193,213
+2824	Červeňaková Mária r. Čajková		0	193,205,213,218
+2824	Čičvara Basilius r. Čičvara		0	193,213
+2824	Čičvara Juraj r. Čičvara		0	193,213
+2824	Drab Ján r. Drab		0	228
+2824	Drabová Alžbeta		0	228
+2824	Drabová Mária		0	228
+2824	Drabová Mária r. Ščerbová		0	228
+2824	Dziaček Ján r. Dziaček		0	193,205,213,218
+2824	Dziaček Vasiľ r. Dziaček		0	216
+2824	Dzijaček - Dzijačko Michal r. Dzijaček - Dzijačko		0	193,213,214
+2824	Dzijak Michal r. Dzijak		0	193,213,214
+2824	Dzijaková Anna		0	193,213,214
+2824	Dzijaková Helena		0	193,213,214
+2824	Fečo Ján r. Fečo	zomrel	0	193,213
+2824	Fečo Juraj r. Fečo		0	193,213
+2824	Fečo Michal r. Fečo		0	193,213
+2824	Fečová Anna	USA	0	193,213
+2824	Fečová Mária	zomrela	0	193,213
+2824	Fečová Zuzana	vd. po Hajduk-Gajdoš M	0	193,213
+2824	Fečová Zuzana r. Mihaľová	Dijakovce, okr. Znojmo	0	193,207,209,213,217
+2824	Furmanová Anna manž. Peter  r. Hajduková		0	173
+2824	Gerová Helena r. Žatkovičová	manž. Ján	0	54,55,158,168,172
+2824	Gnaľ Ján r. Gnaľ		0	97
+2824	Gnaľ Michal r. Gnaľ		0	183
+2824	Gocová Helena		0	223
+2824	Gorda Fedor r. Gorda		0	12,40,47,132,139,157
+2824	Gorda Ján r. Gorda		0	40
+2824	Gorda Juraj r. Gorda		0	40
+2824	Gordová Anna		0	40
+2824	Gordová Helena		0	40
+2824	Gordová Helena r. Knišová		0	175
+2824	Gurulová Anna r. Loziňáková		0	221
+2824	Hadzimová Mária r. Zákutná		0	192
+2824	Husivargová Mária r. Červeňaková	Feb.Víťazstva 297	0	193,213
+2824	Chytlanová Anna		0	63,96,239,240,241
+2824	Ivančo Peter r. Ivančo	Brezovka	0	193,213,215
+2824	Ivanko Michal r. Ivanko		0	185
+2824	Ivanková Alžbeta r. Hajduková		0	48
+2824	Ivanková Helena r. Foďak		0	177
+2824	Ivanková Mária r. Jusková		0	177
+2824	Ivanková Zuzana r. Šariská		0	48
+2824	Jaceková Mária		0	193,213
+2824	Jedinák Andrej r. Jedinák		0	193,213,217
+2824	Jedinák Ján r. Jedinák	v. mal.14.7.1921	0	193,213,217
+2824	Jedinák Michal r. Jedinák		0	193,213,217
+2824	Jedináková Anna		0	193,213,217
+2824	Jedináková Anna r. Lukáčová		0	215
+2824	Jedináková Mária	USA	0	193,213,217
+2824	Jedináková Mária r. Hajduková		0	193,213
+2824	Jedináková Zuzana		0	193,213,217
+2824	Jednotné roľnícke družstvo Okrúhle		0	159
+2824	Jurkanin Ján r. Jurkanin	ž.Anna r. Marcinová	0	193,212,213,216
+2824	Jurkanin Juraj r. Jurkanin	Chomutovská 1241, Kadaň, ČR	0	193,211,213
+2824	Jurkanin Juraj r. Jurkanin	USA	0	193,213
+2824	Jurkanin Michal r. Jurkanin	USA	0	193,213
+2824	Jurkaninová Anna		0	193,212,213,217
+2824	Jurkaninová Mária r. Jacková		0	193,213
+2824	Jurkaninová Mária r. Jurkaninová	Šapinec	0	193,212,213
+2824	Jurkaninová Zuzana		0	193,213
+2824	Jurkaninová Zuzana r. Hajduková		0	193,213
+2824	Kačmariková Mária r. Gordová		0	116
+2824	Kmecová Mária		0	39,184
+2824	Kniš Michal r. Kniš		0	215
+2824	Kolesár Ján r. Kolesár		0	192
+2824	Košicová Mária r. Gocová		0	223
+2824	Kovaliková Anna r. Žatkovičová	Vd	0	54,55,158,168,172
+2824	Kovaľová Mária r. Jedináková		0	193,213,217
+2824	Kurimská Zuzana r. Jurkaninová	muž Štefan	0	193,213,217
+2824	Lackaničová Anna		0	192
+2824	Levcaková Mária r. Žatkovičová		0	119,138
+2824	Loziňáková Helena		0	221
+2824	Lukáč Andrej r. Lukáč	manž. Mária r.Ivančová	0	215
+2824	Lukáčová Hana r. Knišová		0	161
+2824	Lukáčová Mária	zomrela	0	193,213,215
+2824	Marso Fridrich Ing.  r. Marso		0	231
+2824	Marso Július r. Marso		0	231
+2824	Marsová Gisella r. Wepnerová		0	231
+2824	Maťašovská Mária r. Červeňaková		0	193,213
+2824	Mihaľov Juraj r. Mihaľov		0	193,213,217
+2824	Mihaľová Anna	neznáma	0	193,212,213
+2824	Mihaľuv Ján r. Mihaľuv		0	193,212,213,217
+2824	Mihaľuvová Anna		0	193,213,217
+2824	Mihaľuvová Anna r. Čajková		0	193,205,213,218
+2824	Mikulová Anna r. Hajduková		0	193,213
+2824	Nemec Juraj r. Nemec		0	191,223
+2824	Nižňanská Helena	Gnaľová	0	97
+2824	Palisko Juraj r. Palisko		0	191
+2824	Paranič Juraj r. Paranič		0	27,33,72,160,172
+2824	Paranič Juraj r. Paranič	mal	0	182
+2824	Paranič Michal r. Paranič		0	160,182
+2824	Paranič Michal r. Paranič	mal	0	182
+2824	Paranič Michal r. Paranič	manž. Zuzana r. Horvátová	0	182
+2824	PASIENKOVÉ SPOL., OKRÚHLE, OKRÚHLE, SR		0	171
+2824	Pčolinská Anna r. Terkaničová		0	35,36,64,134,238
+2824	Peháčová Mária r. Žatkovičová		0	54,55,158,168,172
+2824	Rajnic Andrej r. Rajnic		0	119,138
+2824	Rajnic Ján r. Rajnic		0	119,138,160
+2824	Rajnic Jozef r. Rajnic		0	119,138
+2824	Rajnic Juraj r. Rajnic		0	119,138
+2824	Rajnic Michal r. Rajnic		0	119,138
+2824	Rajnicová Anna		0	119,138
+2824	Rajnicová Anna r. Červeňaková	Bardejov	0	193,213
+2824	Rokytová Mária r. Čajková	Radoma	0	193,205,213,218
+2824	Sciranková Mária		0	229
+2824	Sotaková Mária		0	188
+2824	Stečáková Helena r. Kmecová		0	39,184
+2824	Talárová Helena r. Gordová		0	12,47,132,139,157
+2824	Terkanič Ján r. Terkanič		0	64,134
+2824	Terkanič Ján r. Terkanič	manž. mária r.Gočová	0	64
+2824	Terkanič Michal r. Terkanič		0	35,238
+2824	Terkaničová Mária r. Gočová		0	35,64,238
+2824	Vukalová Anna r. Fečová	USA	0	193,213
+2824	Zákutný Ján r. Zákutný		0	227
+2824	Zákutný Michal r. Zákutný		0	227
+2824	Žatkovič Michal r. Žatkovič	manž. Zuzana r.Pavlišinová	0	30,54,55,158,168,172,185
+2824	Žatkovič Vasil r. Žatkovič		0	30,185
+2824	Žatkovičová Anna		0	30,185
+2824	Žatkovičová Mária		0	30,185
+2825	ADLER Abraham	SRULOVIČ zomrel	1	181
+2825	ADLER Henoch	SRULOVIČ zomrel	1	181
+2825	ADLER Izak	SRULOVIČ zomrel	1	181
+2825	ADLER Saja	SRULOVIČ zomrel	1	181
+2825	ADLER Shava	BEILA zomrel	1	181
+2825	ADLER Shava	SRULOVIČ zomrel	1	181
+2825	ADLEROVÁ Mária	SRULOVIČOVÁ zomrela	1	181
+2825	ADLEROVÁ Sara	SRULOVIČOVÁ zomrela	1	181
+2825	BOBÁK Andrej	zomrel	1	177,235
+2825	BOBÁK Demeter	zomrel	1	151,155,176,179,216,225
+2825	BOBÁK Ján		0	153,155,177,179,181,191,210,216,225,231,235
+2825	BOBÁK Ján	USA	1	146
+2825	BOBÁK Ján	zomrel	1	225
+2825	BOBÁK Ján	zomrel 1	1	149
+2825	BOBÁK Ján	zomrel; ; O	1	216
+2825	BOBÁK Jozef	zomrel	1	151,155,176,177,179,210,216,225,231,235
+2825	BOBÁK Štefan	zomrel	1	155,179,212,216,225,241
+2825	BOBÁKOVÁ Anna	Svidník	1	177,235
+2825	BOBÁKOVÁ Mária	r SLIMÁKOVÁ zomrela	1	179
+2825	BORŠOVSKÁ Katarína	r TIŠKOVÁ zomrela	1	144,148,217
+2825	BORŠOVSKÁ Mária	r MAKAROVÁ zomrela	1	150
+2825	BORŠOVSKÁ Mária r. MAKAROVÁ		1	239
+2825	BORŠOVSKÁ PARASKA	zomrela	1	150,194,239,240
+2825	BORŠOVSKÝ Demeter	zomrel	1	144,217
+2825	BORŠOVSKÝ Ján	zomrel	1	177,181,235
+2825	BUGEĽ Ján	zomrel	1	210,231
+2825	BUGEĽOVÁ Anna	r DERCOVÁ zomrela	1	146
+2825	BUROVÁ Anna		1	142,179
+2825	DERCO Andrej	zomrel	1	141,143
+2825	DERCO František	zomrel	1	177,235
+2825	DERCO Michal	zomrel	1	173,179
+2825	DERCO Peter	zomrel	1	173,212,241
+2825	DERCO Šimon	zomrel	1	214
+2825	DERCOVÁ Anna	r KUČALOVÁ zomrela	1	212,241

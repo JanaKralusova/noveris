@@ -1,0 +1,256 @@
+2215	Pekár Ján	1	0	1550
+2215	Pekár Štefan		0	1550
+2215	Pekárová Anna		0	1550
+2215	Pekárová Anna r. Galová		0	1550
+2215	Pekárová Anna r. Nemergutová		0	1550
+2215	Pekárová Júlia		0	1550
+2215	Pekárová Karolína		0	1550
+2215	Pekárová Karolína r. Janteková		0	1550
+2215	Pekárová Margita		0	1550
+2215	Pekárová Margita	1	0	1550
+2215	Pekárová Margita	2	0	1550
+2215	Pekárová Margita r. Hojdičová		0	1550
+2215	Pekárová Margita r. Šlosárová		0	1550
+2215	Pekárová Mária r. Nemergutová		0	1550
+2215	Pekárová Mária r. Šlosárová		0	1550
+2215	Pekárová Markéta r. Hojdičová		0	1550
+2215	Pekárová Rozália		0	1550
+2215	Petričková Božena r. Kopčáková		0	1644
+2215	Piačeková Mária r. Paraňová		0	1394,1555,1603,1751,1772,2250,2374,3040,3556,3557,3586
+2215	Pištejová - Kolárová Anna		0	1424,1555,2965,3556,3557
+2215	Pištejová - Kolárová Zuzana		0	1424,1555,3505,3556,3557
+2215	Pištejová Anna		0	1550
+2215	Pištejová Anna r. Štupáková		0	2516
+2215	Pištejová Mária		0	1550
+2215	Platková Kristína r. Plavnická		0	1550
+2215	Platkovská Anna r. Hmelarová	m Štefan	0	1554,1558,1759,1772,2802,3586
+2215	Pružinská Anna r. Holodňáková	m Pavol	0	3006
+2215	Pružinská Anna r. Sameľová		0	1942,1943,1953,2253,2320,2335,2336,2340,2354,2355,2359,2360,2364,2365,2373,3539,3544,3547,3552,3553,3554,3563,3564
+2215	Pružinská Helena r. Vidová	m Andrej	0	2485
+2215	Pružinská Mária	s Michalom Kolárom	0	1793
+2215	Pružinská Zuzana		0	2604
+2215	Pružinský Karol	ž Mária r. Fedorková	0	2585
+2215	Pružinský Pavol	ž Anna r. Holodňáková	0	3361
+2215	Pružinský Štefan	1	0	1953
+2215	Rauberstrauch Pavol		0	1451,3586
+2215	Rauberstreich Michal		0	1550
+2215	Rindoš František	3	0	1394,1555,1606,1763,1780,2250,2272,2374,3185,3556,3557,3586
+2215	Rindoš Jakub		0	2559
+2215	Rindoš Jakub	1	0	3260
+2215	Rindoš Jozef	2	0	3058
+2215	Rindoš Štefan	ž Anna r. Štupáková	0	2250
+2215	Rindošová Mária r. Janošková		0	1394,1555,2250
+2215	Rindošová Mária r. Nemcová	m Štefan	0	1942,1943,1953,2253
+2215	Roth Ladislav		0	1644
+2215	Roth Ladislav	1	0	1644
+2215	Rubin Emanuel		0	1644
+2215	Rubin Izidor		0	1644
+2215	Rubinová Antónia		0	1644
+2215	Rubinová Berta r. Lencová		0	1644
+2215	Rubinová Emanuela		0	1644
+2215	Rubinová Regina		0	1644
+2215	Rubinová Regina	1	0	1644
+2215	Rybovič František	ž Anna r. Hamborská	0	2225
+2215	Rybovič Ján		0	3394
+2215	Rybovičová Anna r. Hamborská	m František	0	2225
+2215	Sabolová Alžbeta r. Glučová	m Ján	0	1392,1502,3304,3586
+2215	Sakmar Ján	ž Helena r. Kaňová	0	1555,3556,3557
+2215	Sakmarová Helena		0	1555
+2215	Saksová Verona r. Mačeková		0	1550
+2215	Sameľ Andrej		0	2839
+2215	Sameľ František		0	3510
+2215	Sameľ Michal		0	3037
+2215	Sameľová Helena		0	1942,1943,1953,2253,2320,2335,2336,2340,2354,2355,2359,2360,2364,2365,2373,3459,3465,3544,3547,3552,3553,3554,3563,3564
+2215	Samol Michal	ž Helena r. Liščinská	0	1942,1943,1953,2253
+2215	Samolová Helena r. Liščinská	m Michal	0	1942,1943,1953,2253
+2215	Samolová Paulína		0	1942,1943,1953,2253,2320,2335,2336,2340,2354,2355,2359,2360,2364,2365,2373,3117,3544,3547,3552,3553,3554,3563,3564
+2215	Samolová Zuzana r. Moščovičová		0	1368,1394,1555,1781,2250
+2215	Sekelský Vincent	Štec	0	1394,1555,2250
+2215	Servila Ján		0	1550
+2215	Servilová Magdaléna		0	1550
+2215	Skrašeková Margita r. Kunáková		0	1550
+2215	Somoľ Michal		0	3066
+2215	Somoľová Mária		0	3391
+2215	Sopková Anna r. Fröhlichová		0	3540
+2215	Sovinský František		0	1502,3159
+2215	Sovová Zuzana		0	3154,3586
+2215	Stanek Andrej		0	1435,1759,2900
+2215	Stanek Štefan		0	1435,1759,3060
+2215	Staneková Mária		0	1435,1642,3476,3586
+2215	Starinská Anna r. Ščerbáková		0	2534,3586
+2215	Starinská Anna r. Ščerbáková	m Andrej	0	1368,1781,2972
+2215	Starinská Ilona r. Pjurová	m Imrich	0	2824
+2215	Starinská Paulína r. Štupáková		0	1368,1394,1555,1781,2250,2374,2407,3556,3557,3586
+2215	Suchanovská Anna r. Pekárová	m Peter	0	1550
+2215	Suchanovská Kristína		0	1424,1750,3145,3586
+2215	Sulir Michal		0	1644
+2215	Sýkorová Mária r. Sameľová		0	1942,1943,1953,2253,2320,2335,2336,2340,2354,2355,2359,2360,2364,2365,2373,2396,3544,3547,3552,3553,3554,3563,3564
+2215	Šafranová Regina r. Lencová		0	1644
+2215	Šalamon Pavol		0	1554,1605,1759,3402,3586
+2215	Šalamonová Anna r. Lenčová	m Andrej	0	2856
+2215	Šalamonová Anna r. Murcková		0	1550
+2215	Šalamonová Klára		0	1554,1605,1759,2845,3586
+2215	Ščerbák Ján		0	3025
+2215	Ščerbák Michal		0	1550
+2215	Ščerbáková Anna		0	1550
+2215	Ščerbáková Mária		0	1802,3242
+2215	Ščigulinská Mária		0	1558,3343
+2215	Šefčíková Mária		0	1394,1555,2250,2374,3333,3556,3557,3586
+2215	Ševčík Ján		0	2475
+2215	Ševčíková Mária r. Liščinská		0	1338
+2215	Šima Ján		0	3586
+2215	Šlosár Ján	ž r. Kundratová	0	1550
+2215	Šlosár Pavol		0	1550
+2215	Šlosár Štefan		0	1550
+2215	Šlosár Valent		0	1550
+2215	Šlosár Valent	1	0	1550
+2215	Šlosár Valentín		0	1550
+2215	Šlosár Valentín	1	0	1550
+2215	Šlosárová Anna r. Norková		0	1550
+2215	Šlosárová Margita		0	1550
+2215	Šlosárová Mária	1	0	1550
+2215	Šlosárová Mária	2	0	1550
+2215	Šlosárová Verona		0	1550
+2215	Štreich Michal		0	1550
+2215	Štreich Valent		0	1550
+2215	Štreichová Anna		0	1550
+2215	Štreichová Margita		0	1550
+2215	Štupák Ján	ž Anna r. Vančová	0	1564
+2215	Štupáková Paulína r. Starinská		0	1426,1555,2250
+2215	Tengi Karol		0	1603,1772,2710,3586
+2215	Tešľa Jozef		0	1550
+2215	Tešľa Pavol		0	1550
+2215	Tešľa Štefan		0	1550
+2215	Tešľová Mária		0	1550
+2215	Tešľová Paulína		0	1550
+2215	Tešľová Terézia		0	1550
+2215	Trothová Terézia r. Pekárová		0	1550
+2215	Valachovič Adam		0	532
+2215	Vančo Andrej		0	1394,1404,1423,1555,2250,3081,3278,3556,3557,3586
+2215	Vančo Andrej	ž Júlia r. Pružinská	0	1942,1943,1953,2253,2320,2332,2335,2336,2340,2354,2355,2359,2360,2364,2365,2373,3207,3544,3547,3548,3552,3553,3554,3563,3564,3565,3575
+2215	Vančo František		0	1394,1404,1423,1555,2250,2689,3556,3557,3586
+2215	Vančo Ján	poslanec	0	1394,1539,1554,1555,1990,1999,2250,2321,2333,2337,2338,2346,2351,2371,2372,2374,3378,3556,3557,3558,3586,3588
+2215	Vančo Jozef		0	1394,1555,3586
+2215	Vančo Karol		0	3413,3586
+2215	Vančo Karol	1	0	1539,2898,3586
+2215	Vančo Karol	syrkár	0	1918,2392
+2215	Vančo Karol	ž Mária r. Starinská	0	2815
+2215	Vančo Štefan		0	1842,2826
+2215	Vančo Štefan	1	0	1539,2490,3586
+2215	Vančová Anna		0	1539,2738,3586
+2215	Vančová Anna r. Pavlíková		0	1604,2341,3586
+2215	Vančová Anna r. Pavlíková, USA		0	1417,1604,3124,3586
+2215	Vančová Júlia r. Pružinská	m Andrej	0	3255
+2215	Vančová Mária		0	1539,2772,3586
+2215	Vančová Paulína		0	1539,2736,3586
+2215	Vančová Terézia		0	1404,1423,3153,3586
+2215	Varga Pavol		0	3586
+2215	Vargová Mária r. Kosturková		0	1550
+2215	Vargová Mária r. Mertinová		0	1550
+2215	Vargová Terézia		0	1550
+2215	Vida František		0	3199
+2215	Vida Jakub		0	2557
+2215	Vida Ján		0	2767
+2215	Vida Pavol		0	3357
+2215	Vida Štefan		0	2620
+2215	Vida Štefan	ž Agnesa r. Raubeustreich	0	1451,1942,1943,1953,1990,1999,2253,2320,2321,2332,2333,2335,2336,2337,2338,2340,2346,2351,2355,2359,2360,2364,2371,2372,2373,3544,3547,3548,3552,3553,3554,3558,3563,3564,3565,3575,3586,3588
+2215	Vidal Ctibor		0	1990,1999,2321,2333,2337,2338,2341,2346,2351,2371,2372,3558,3588
+2215	Vidová Agnesa r. Raubeustreich	m Štefan	0	1942,1943,1953,1990,1999,2253,2320,2321,2332,2333,2335,2336,2337,2338,2340,2346,2351,2354,2355,2359,2360,2364,2365,2371,2372,2373,3157,3544,3547,3548,3552,3553,3554,3558,3563,3564,3565,3575,3588
+2215	Vidová Rozália		0	2739
+2215	Vilčinská Anna r. Pekárová		0	1550
+2215	Virosteková Helena r. Liščinská		0	1338
+2215	Vitková Mária r. Staneková, USA		0	1435,1759,3075
+2215	Vojtek Andrej	ž Helena r. Biláková	0	1534,1606,1780,3418,3586
+2215	Vojtek Jozef	1	0	1550
+2215	Vojtek Jozef	2	0	1550
+2215	Vojtek Karol		0	1942,1943,1953,2253
+2215	Vojtek Pavol		0	1550
+2215	Vojtek Štefan		0	1550
+2215	Vojtek Valent		0	1550
+2215	Vojteková Anna r. Cimmermanová		0	2563
+2215	Vojteková Anna r. Kuchárová	1	0	1550
+2215	Vojteková Anna r. Kuchárová	2	0	1550
+2215	Vojteková Anna r. Kuchárová	3	0	1550
+2215	Vojteková Helena r. Bielaková		0	1534,3131,3586
+2215	Vojteková Margita r. Nemergutová	1	0	1550
+2215	Vojteková Mária		0	1550
+2215	Vojteková Mária r. Pekárová		0	1550
+2215	Vojteková Zuzana r. Raslavská	m Pavol	0	1942,1943,1953,2253
+2215	Vrábeľová Mária r. Kunáková		0	1550
+2215	Vyrostek Ján		0	1928,2251,2330,2341,3579,3773,3774,3776
+2215	Vyrostek Pavol	ž Elena r. Liščinská	0	1928,2251,2330,2341,3579,3773,3774,3776
+2215	Vyrosteková Elena r. Liščinská	m Pavol	0	1928,2251,2330,2341,3579,3773,3774,3776
+2215	Vyrosteková Helena		0	1907,2896
+2215	Vyrosteková Helena r. Liščinská		0	1539,1779,3446,3586
+2215	Waisová Estera r. Lencová		0	1644
+2215	Weiterová Margita		0	1990,1999,2321,2333,2337,2338,2341,2346,2351,2371,2372,3558,3588
+2215	Wirkmann Armín, Dr.		0	1550
+2215	Zavacká Anna r. Ščerbáková		0	1852,3289
+2215	Zavacká Mária		0	1368,1781,3191,3586
+2215	Zavacká Mária r. Ščerbáková	m Ján	0	1815,2554
+2215	Zavacký Ján	ž Mária r. Ščerbáková	0	1815,2645
+2215	Zavacký Jozef		0	1852,2674
+2215	Ziemmerman Štefan		0	3178
+2215	Zimová Žofia r. Paraňová		0	1357
+2215	Zuberová Paulína r. Lovasová		0	3586
+2215	Žoldák František	ž Hedviga r. Zimmermanová	0	1394,2374,3586
+2216	Andorko Jozef r. Andorko		0	1029
+2216	Andorko Vojtech r. Andorko		0	1029
+2216	Badankó Ján r. Badankó	ž. Anna Sándorová	0	207
+2216	Balaliková Mária r. Lučanská		0	1016
+2216	Baňacká Anna r. Baňacká	mal. dcéra Jána	0	1027
+2216	Baňacká Mária r. Furdová		0	1025,1026
+2216	Baňacký Juraj r. Baňacký	ž. Mária Furdová	0	1025,1026
+2216	Bandiková Mária r. Vašková	m. Michal	0	326
+2216	Baran Andrej r. Baran		0	303
+2216	Baran Ján r. Baran	ž. Mária Pástorová	0	326
+2216	Baran Michal r. Baran		0	301
+2216	Baranová Verona r. Ondová		0	303
+2216	Bejdová Anna r. Vágášová	m. Michal	0	985
+2216	Benejová Mária r. Michalčiková		0	326
+2216	Bertaová Anna r. Borščová	m. Michal	0	326
+2216	Beslerová Anna r. Vašková	m. Juraj	0	326
+2216	Beslerová Barbora r. Nováková		0	326
+2216	Beslerová Mária r. Olexová	m. Ján	0	996
+2216	Borovská Mária r. Ferjová		0	631
+2216	Boršč Andrej r. Boršč	ž. Anna Harbuľová	0	326
+2216	Buzinkai Anna r. Palfiová, SR		0	610
+2216	Čeľovský Palkó Michal r. Čeľovský Palkó	ž. Anna Serbinová	0	1049
+2216	Čižmárová Mária r. Majcherová		0	326
+2216	Dafčiková Mária r. Labiková		0	326
+2216	Danková Anna r. Kačmárová		0	994
+2216	Demčáková Anna r. Mikulová		0	286,326
+2216	Dentachová Mária r. Mikulová		0	286,326
+2216	Dinda Štefan r. Dinda	syn Andreja	0	326
+2216	Drobňáková Mária r. Drobňáková	dcéra Jána	0	1041,1043
+2216	Dudášová Barbora r. Dudášová		0	1001
+2216	Dudičová Mária r. Nováková		0	326
+2216	Ďurišin Ján r. Ďurišin	ž. Mária Palacká	0	1025
+2216	Ďurišin Michal r. Ďurišin	syn Juraja	0	1025
+2216	Dziak Ján r. Dziak	mal	0	286,326
+2216	Dziak Jozef r. Dziak	mal	0	286
+2216	Dziak Juraj r. Dziak		0	326
+2216	Dziaková Anna r. Hajková	vd	0	1076
+2216	Dziaková Helena r. Dziaková	mal	0	286
+2216	Dziaková Mária r. Dziaková	mal	0	286
+2216	Egriová Mária r. Egriová	mal	0	326
+2216	Erdélyi Dezider r. Erdélyi	syn Jána	0	453,1134
+2216	Erdélyi Gejza		0	878
+2216	Erdélyi Gejza r. Erdélyi	syn Jána	0	453,1134
+2216	Erdélyi Július r. Erdélyi	syn Jána	0	453,1134
+2216	Erdélyiová Elena r. Mokcsayová	m. Ján	0	453,1134
+2216	Erdélyiová Elena r. Mokcsayová /m. Ján/ vd.		0	892
+2216	Erdélyiová Elena r. Mokčayová		0	877,1083
+2216	Fedorčáková Anna r. Komjátyová	m. Michal	0	326
+2216	Fedorko Pavol		0	797
+2216	Fiľová Mária r. Egriová		0	326
+2216	Frejová Mária r. Jakimová		0	1036
+2216	Fridman Alexander r. Fridman		0	284,1021
+2216	Fridman Eugen r. Fridman		0	284,1021
+2216	Fudalová Anna r. Puciová	m. Ján	0	326
+2216	Galgoczi Július, SR		0	424
+2216	Geci Andrej r. Geci	ž. Anna Hanková	0	993
+2216	Geciová Anna r. Hanková		0	993
+2216	Girman Ján r. Girman		0	1020
+2216	Girman Michal r. Girman		0	1020
+2216	Girmanová Anna r. Kašniková	m. Pavol	0	326

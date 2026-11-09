@@ -1,0 +1,256 @@
+2921	Slota Jozef		0	5579
+2921	Slota Jozef	Ant	0	5579
+2921	Slota Jozef	Mat	0	5579
+2921	Slota Jozef	súr.Martin	0	164,1480,1577,1616,2047,5418,5843,5844,6033,6109
+2921	Slota Jozef	ž.Juliana r.Janásová,zom.3.5.1976, 01301 Teplička nad Váhom	0	5466
+2921	Slota Jozef	ž.Žofia r.Poljaková,zom.3.11.1964, 01301 Teplička nad Váhom	0	1725,1796,2182,2190,4813,5699,6219
+2921	Slota Juraj		0	5579
+2921	Slota Juraj	ž.Žofia r.Šeligová,zom.17.11.1967, 01301 Teplička nad Váhom	0	2079,5801
+2921	Slota Martin		0	5579
+2921	Slota Martin	ž.Mária r.Milová,zom.12.11.1980, 01301 Teplička nad Váhom č	0	1480,1616,1961,2047,2079,2080,3403,5466,5801,6033
+2921	Slota Pavel	ž.Alžbeta r.Kyseľová, 01301 Teplička nad Váhom č.8	0	5466,5797
+2921	Slota Pavol		0	5579
+2921	Slota Rudolf	ž.Oľga r.Ježíková,zom.17.10.2003, Levočská č.2957/4, 01008 Ž	0	5522,6023,6040
+2921	Slota Silvester	zom.23.7.1987, 01301 Teplička nad Váhom č.233	0	2477
+2921	Slota Šimon	Elena r.Matláková,zom.1.11.1985, Moyzesova č.28, 01001 Žilin	0	2479
+2921	Slota Štefan		0	5579
+2921	Slota Vojtech	zom.25.6.2007, Donátová č.470/11, 01301 Teplička nad Váhom	0	4244
+2921	Slotová Alžbeta r. Kyseľová	m.Pavel,zom.27.1.1979, 01301 Teplička nad Váhom č.8	0	5797
+2921	Slotová Amália	súr.Emil,Vojtech,Zita,Šimon,Silvester	0	1736,1989,2477,2479,5825
+2921	Slotová Júlia	sl.,zom.16.6.1979, 01301 Teplička nad Váhom č.8	0	2862,3238
+2921	Slotová Margita r. Janičeková	m.Vendelín	0	5465
+2921	Slotová Mária r. Jozefíková	zom.16.12.1999, 01301 Teplička nad Váhom č.37	0	5442
+2921	Slotová Terézia r. Ďungelová		0	1774,1817,1928,4773,5004,5701
+2921	Slotová Vincencia r. Škorvánková	m.Alojz,zom.23.9.1978, 01301 Teplička nad Váhom č.74	0	5522,6023,6040
+2921	Slotová Žofia r. Poljaková	Matušová	0	1994
+2921	Slotová Žofia r. Poljaková	Stražan,m.Jozef	0	1725,1796,2182,2190,3158,4813,5699,6219
+2921	Slotová Žofia r. Sňahničanová	m.Augustín,zom.24.9.1992, 01301 Teplička nad Váhom č.223	0	2072
+2921	Slotová Žofia r. Šeligová	m.Juraj,zom.7.10.1975, 01301 Teplička nad Váhom č.665	0	2079,2752,3715,5523,5585,5586,5638,5801,6193,6204
+2921	Slotová Žofia r. Šeligová	zom.7.10.1975, 01301 Teplička nad Váhom č.665; zom.7.10.1975, 01301 Teplička nad Váhom č.665	0	2892,3984,5522,6023,6040,6176,6177
+2921	Slotta Anton		0	5422
+2921	Slotta Anton	brat Martin	0	1557,4014,5219,5679,5681,5723,5836,5837,5988
+2921	Slotta Ján		0	2405,5522
+2921	Slotta Ján	brat Anton	0	5522
+2921	Slotta Jozef		0	5219,5679,5681,5723,5988
+2921	Slotta Jozef	brat Juraj	0	1557,4014,5219,5679,5836,5837
+2921	Slotta Jozef	ml	0	1557,4014,5219,5679,5681,5723,5836,5837,5988
+2921	Slotta Juraj	súr.Pavol,Jozef	0	1557,4014,5219,5679,5681,5723,5836,5837,5988
+2921	Slotta Martin	brat Anton	0	1557,4014,5219,5679,5681,5723,5836,5837,5988
+2921	Slotta Martin	ml	0	5681,5723,5988
+2921	Slotta Pavol	ml.,súr.Jozef,Juraj	0	5681,5723,5988
+2921	Slotta Štefan	zom.28.1.1968, 01301 Teplička nad Váhom č.381	0	5522,6023,6040
+2921	Slottová Viktória	Kristína	0	164,1480,1577,1616,2047,5418,5843,5844,6033,6109
+2921	Smida Martin		0	5579
+2921	Smida Martin	ž.Juliana r.Ďungelová,zom.7.4.1984, 01301 Teplička nad Váhom	0	5683
+2921	Smida Martin	ž.Mária r.Sňahničanová,zom.1.12.1971, 01301 Teplička nad Váh	0	1557,4014,5219,5679,5836,5837
+2921	Smida Pavol		0	5357,5392,5831,5899
+2921	Smida Štefan	zom.5.1.2015, Na Skotňu č.440/27, 01301 Teplička nad Váhom	0	1774,1817,5358,5359,5701
+2921	Smidová Anna		0	5579
+2921	Smidová Anna r. Talapková	m.Jozef	0	1557,4014,5219,5679,5681,5723,5836,5837,5988
+2921	Smidová Juliana r. Ďungelová	m.Martin,zom.31.12.1999, Placová č.38/413, 01301 Teplička na	0	5679
+2921	Smidová Mária r. Sňahničanová	m.Martin,zom.24.10.1989, Teplička nad Váhom č.50	0	1557,4014,4086,4087,4088,4822,5219,5500,5571,5648,5679,5836,5837,6213
+2921	Smolka Fedinand	zom.24.09.1987	0	6261
+2921	Smolka Ferdinand	súr.Anna,Ondrej,Rudolf,zom	0	1904,2874,4785
+2921	Smolka Ferdinand	zom.24.09.1987	0	6276
+2921	Smolka Ferdinand	ž.Helena r.Talapková,zom.1.3.2007, Školská č.621/23, 01301 T	0	5515,5517
+2921	Smolka Filip	zom.26.1.1977, 01301 Teplička nad Váhom č.160	0	3958,5643
+2921	Smolka Jozef	Gajdoš	0	5579
+2921	Smolka Jozef	Gajdoš,ž.Mária r.Zadubancová	0	1557,4014,5512,5515,5517,5836,5837
+2921	Smolka Martin	ž.Anna r.Liptáková	0	5451
+2921	Smolka Ondrej	súr.Anna,Rudolf,Ferdinand,zom	0	1904,2874,4785
+2921	Smolka Ondrej	zom.22.03.1997	0	6276
+2921	Smolka Ondrej	ž.Žofia r.Skupeňová, 01301 Teplička nad Váhom č.90	0	5463
+2921	Smolka Rudolf		0	5579
+2921	Smolka Rudolf	súr.Anna,Ondrej,Ferdinand,zom	0	1904,2874,4785
+2921	Smolka Rudolf	zom.06.02.1965	0	6261,6276
+2921	Smolka Rudolf	ž.Hermína r.Jakubíková,zom.6.2.1965, 01301 Teplička nad Váho	0	5512,5679
+2921	Smolka Silvester	ž.Otília r.Mravcová,zom.13.1.1987, 01301 Teplička nad Váhom	0	5508
+2921	Smolka Štefan	Gajdoš,ž.Štefánia r.Slotová,zom.15.2.1987, 01301 Teplička na	0	1557,4014,5219,5512,5515,5679,5681,5723,5836,5837,5988
+2921	Smolková Anna	Gajdošová,otec Jozef	0	1557,4014,5836,5837
+2921	Smolková Anna r. Liptáková	m.Martin	0	2422,5451
+2921	Smolková Anna r. Mičicová	m.Jarolím,zom.27.10.2004, Školská č.554/22, 01301 Teplička n	0	1557,4014,5219,5487,5515,5517,5679,5681,5723,5734,5836,5837,5988
+2921	Smolková Hermína r. Jakubíková	zom.24.8.1952	0	1557,1577,1865,1910,2020,2194,4014,4747,5219,5418,5609,5679,5681,5702,5723,5836,5837,5843,5844,5988,6109,6308
+2921	Smolková Mária r. Janíková	zom.10.11.1998, Dr.K.Kmeťku č.37/160, 01301 Teplička nad Váh	0	5663,5679
+2921	Smolková Žofia r. Skupeňová	m.Ondrej,zom.11.12.1949, 01301 Teplička nad Váhom č.90	0	1557,4014,5219,5679,5836,5837
+2921	Smreček Štefan	ž.Mária r.Smrekovská	0	4043,5807,6301
+2921	Smrečková Mária r. Smrekovská	m.Štefan	0	4043,5807,6301
+2921	Smreková Oľga r. Bieliková	zom.7.11.1993, A.Kmeťa č.384/31, 01841 Dubnica nad Váhom	0	4733
+2921	Smrekovská Terézia r. Králiková	m.František,zom.20.2.1982, 01301 Teplička nad Váhom č.68	0	5486,5774
+2921	Smrekovský Anton		0	5579
+2921	Smrekovský Anton	zom.13.4.1989, 01301 Teplička nad Váhom č.699	0	5679
+2921	Smrekovský Augustín		0	5579
+2921	Smrekovský Augustín	súr.Jozef,Štefan	0	1557,4014,5836,5837
+2921	Smrekovský Augustín	ž.Štefánia r.Talapková,zom.30.6.1988, 01301 Teplička nad Váh	0	5524
+2921	Smrekovský František	ž.Terézia r.Králiková,zom.9.4.1970, 01301 Teplička nad Váhom	0	5679,5681,5723,5774,5988
+2921	Smrekovský Ján		0	849,3792,3822,4565,4920,5526
+2921	Smrekovský Jozef		0	1557,4014,5579,5836,5837
+2921	Smrekovský Jozef	súr.Magdaléna,Štefan,Terézia	0	5370,5371,5524
+2921	Smrekovský Jozef	ž.Mária r.Vajdová, 01301 Teplička nad Váhom č.182	0	5755
+2921	Smrekovský Juraj	súr.Jozef,Ondrej	0	849,3792,5526
+2921	Smrekovský Martin	zom.23.1.2016, Dr.Karola Kmeťku č.68/4, 01301 Teplička nad V	0	5679
+2921	Smrekovský Štefan		0	5579
+2921	Smrekovský Štefan	súr.Ján,Pavol	0	2034,3213,5672
+2921	Smrekovský Štefan	súr.Jozef,Augustín	0	1557,4014,5681,5723,5836,5837,5988
+2921	Sňahničan Alojz		0	1557,4014,5836,5837
+2921	Sňahničan Alojz	ž.Magdaléna r.Tichá,zom.20.7.1973, 01301 Teplička nad Váhom	0	5616
+2921	Sňahničan Ján	Bolo,ž.Žofia r.Mičicová,zom.26.3.1980, 01301 Teplička nad Vá	0	2020,2069,5219,5485,5497,5500,5679,6308
+2921	Sňahničan Jozef		0	5579
+2921	Sňahničan Juraj		0	5579
+2921	Sňahničan Juraj	Bolo	0	2069,5571
+2921	Sňahničan Juraj	súr.Ján,Štefan,Ondrej	0	1557,4014,5679,5836,5837
+2921	Sňahničan Juraj	ž.Mária r.Šmidová	0	1557,4014,5679,5836,5837
+2921	Sňahničan Leopold		0	5579
+2921	Sňahničan Leopold	Bolo,ž.Jolana r.Janušová,zom.4.2.1990, 01301 Teplička nad Vá	0	1817,5701,5751
+2921	Sňahničan Michal	brat Pavol	0	5517,5524
+2921	Sňahničan Ondrej		0	5579
+2921	Sňahničan Ondrej	Bollo,zom.13.7.1976, 01301 Teplička nad Váhom č.180	0	2069,5500,5547,5571,5700
+2921	Sňahničan Ondrej	zom.24.8.2012, Dr.K.Kmeťku č.180/5, 01301 Teplička nad Váhom	0	5700
+2921	Sňahničan Pavol	brat Michal	0	5517
+2921	Sňahničan Štefan	Bolo,ž.Anna r.Hulková, 01301 Teplička nad Váhom č.11	0	5756
+2921	Sňahničan Štefan	súr.Juraj,Ján,Ondrej	0	5219,5679,5681,5723,5988
+2921	Sňahničan Vojtech		0	5579,5718,6179
+2921	Sňahničan Vojtech	Bolo,ž.Ľudmila r.Markušová,zom.19.1.1992, 01301 Teplička nad	0	2069
+2921	Sňahničanová Hermína r. Ponechalová	zom.12.12.1990, 01301 Teplička nad Váhom č.396	0	2072,5536
+2921	Sňahničanová Irena r. Ondrišková	Bolo,zom.15.12.1985, 01301 Teplička nad Váhom č.180	0	2250
+2921	Sňahničanová Jolana r. Janušová	m.Leopold,zom.5.5.1989, 01301 Teplička nad Váhom č.28	0	1817,5701,5751
+2921	Sňahničanová Ľudmila r. Markušová	zom.27.9.1954, 01301 Teplička nad Váhom č.95	0	1557,4014,5219,5679,5836,5837
+2921	Sňahničanová Magdaléna r. Tichá	zom.27.10.1983, 01301 Teplička nad Váhom č.703	0	1842,3224
+2921	Sňahničanová Mária r. Smidová	Bolo,m.Juraj,zom.27.12.1952, 01301 Teplička nad Váhom č.12	0	1557,2483,4014,5358,5359,5391,5679,5683,5836,5837
+2921	Sojková Margita r. Ponechalová	zom.11.9.1990, 01301 Teplička nad Váhom č.108	0	1557,4014,5679,5681,5723,5836,5837,5988
+2921	Solárová Angela r. Smolková	Gajdoš	0	1557,4014,5219,5679,5836,5837
+2921	Spritz Arthur Ing.		0	2041
+2921	Stáreková Margita r. Macušová	zom.13.8.2000, Nová č.9, 01003 Budatín - Žilina	0	2653
+2921	Stračiak Pavol	zom.26.8.2009, Osloboditeľov č.149/3, 01341 Dolný Hričov	0	3,4071,4892
+2921	Stražan Ján	ž.Barbora Tichá	0	5685
+2921	Stražan Martin		0	1723,1819,1907,1909,2072,2448,5834
+2921	Stražanová Alžbeta r. Povachová		0	1723,1829,1907,1909,2072,5685
+2921	Synáková Anna r. Smolková	zom.18.11.2007	0	6261,6276
+2921	Šamaj Ján		0	4119,4120
+2921	Šeliga Augustín	ž.Anna r.Ozaniaková,zom.17.9.1977, 01301 Teplička nad Váhom	0	5415
+2921	Šeliga Gašpar	brat Pavel,zom.25.9.1923	0	5468
+2921	Šeliga Jakub		0	5579
+2921	Šeliga Jakub	zom.22.2.1984, 01301 Teplička nad Váhom č.21; zom.22.2.1984, 01301 Teplička nad Váhom č.21	0	2041,2557,5462
+2921	Šeliga Ján		0	164,1557,1577,4014,5418,5579,5836,5837,5843,5844,6109
+2921	Šeliga Ján	ž.Brigita r.Slotová,zom.19.4.1996, Za Jarkom č.19/202, 01301	0	5415,5462,5638,5679,6193
+2921	Šeliga Jozef		0	1557,4014,5219,5679,5681,5723,5836,5837,5988
+2921	Šeliga Jozef	súr.Ján,Pavol	0	5462
+2921	Šeliga Jozef	zom.13.3.2010, A.Sládkoviča č.777/1, 01301 Teplička nad Váho	0	5499
+2921	Šeliga Jozef	ž.Anna r.Sňahničanová	0	1557,4014,5219,5679,5681,5723,5836,5837,5988
+2921	Šeliga Jozef	ž.Barbora r.Mráziková	0	4816,5674
+2921	Šeliga Jozef	ž.Kristína r.Ponechalová,zom.15.5.1982, 01301 Teplička nad V	0	5400,5477,5478,5696
+2921	Šeliga Juraj	ž.Zlatica r.Zaťková,zom.4.7.1975, 01301 Teplička nad Váhom č	0	5477,5478
+2921	Šeliga Karol	ž.Bernardína r.Majerčík,zom.15.7.1997	0	3716,3803,5415,5679
+2921	Šeliga Karol	ž.Filoména r.Ponechalová,zom.10.5.2007, Kostolná č.205/9, 01	0	164,5418,5609,5640,5675,5679,5843,5844,6109
+2921	Šeliga Ondrej	brat Jakub	0	1557,4014,5836,5837
+2921	Šeliga Pavol		0	1892,2041
+2921	Šeliga Pavol	súr.Ján,Štefan	0	1721,2340,4899,4901
+2921	Šeliga Štefan	súr.Ján,Pavol	0	1721,2340,4899,4901
+2921	Šeliga Štefan	ž.Jozefína r.Mráziková,zom.23.3.1990, 01301 Teplička nad Váh	0	5415
+2921	Šeliga Tomáš	ž.Katarína r.Brezovská,zom.10.3.1990, 01301 Teplička nad Váh	0	3716,3803
+2921	Šeligová Agneša r. Šeligová	zom.10.4.2009, Školská č.659/38, 01301 Teplička nad Váhom	0	5499
+2921	Šeligová Alžbeta r. Valiašková	zom.26.8.1946	0	1557,1572,1729,2054,4014,5477,5696,5836,5837,5848,5957
+2921	Šeligová Angela	slob	0	906,5824
+2921	Šeligová Angela r. Šeligová	zom.19.8.1999, 01301 Teplička nad Váhom č.201	0	5352,5415
+2921	Šeligová Anna		0	5579
+2921	Šeligová Anna r. Snahničanová	Bolo,m.Jozef,zom.30.1.1976, 01301 Teplička nad Váhom č.201	0	1557,3298,4014,4822,5219,5500,5679,5836,5837
+2921	Šeligová Anna r. Valášková	Hodinár,m.Pavol	0	1892
+2921	Šeligová Antónia r. Mintálová	zom.13.10.2013, Na Papánke č.840/9, 01301 Teplička nad Váhom	0	3056,3822
+2921	Šeligová Barbora r. Žilková	m.Jozef,zom.6.1.1976, 01301 Teplička nad Váhom č.164	0	1875,5726
+2921	Šeligová Bernardína r. Mráziková	zom.13.11.1981, 01301 Teplička nad Váhom č.205	0	1557,4014,5219,5679,5681,5723,5836,5837,5988
+2921	Šeligová Jozefína r. Mráziková	zom.18.6.1999, Donátová č.10/380, 01301 Teplička nad Váhom	0	1822,1834,2041,2294,2340,2878,3057,3823,3824,3852,3853,3873,4836,4838,4854,4855,4856,4899,4900,4901,5182,5586,5679,6223,6224
+2921	Šeligová Júlia		0	1892,1894,2382,2557,4810,4871,4872
+2921	Šeligová Júlia	brat Vendelín	0	5027,5675
+2921	Šeligová Júlia	slabomyselná, 01301 Teplička nad Váhom č.164	0	5726
+2921	Šeligová Magdaléna	súr.Angela,Ondrej,Augustín	0	2552
+2921	Šeligová Mária	súr.Paulína,Martin,Jozef,Pavol,Terézia	0	1557,4014,5219,5679,5836,5837
+2921	Šeligová Mária r. Jakubíková		0	1910,4189,4747,5702
+2921	Šeligová Mária r. Valášková	zom.29.7.2005, 01301 Teplička nad Váhom č.442	0	5576,5679
+2921	Šeríková Margita r. Ponechalová	zom.10.6.2007, Kollárova č.894/2, 02401 Kysucké Nové Mesto	0	1663
+2921	Šimár Jozef		0	5579
+2921	Šimár Jozef	ž.Anna r.Mintálová, 01301 Teplička nad Váhom č.158	0	1557,4014,5681,5723,5836,5837,5988
+2921	Šimár Juraj		0	5579
+2921	Šimár Štefan	Králik	0	5579
+2921	Šimárová Anna r. Jakubíková	zom.19.12.1994, Karpatská č.3107/6, 01008 Žilina 8	0	2221
+2921	Šimárová Anna r. Mintálová	m.Jozef	0	1557,4014,5681,5723,5836,5837,5988
+2921	Šimárová Františka r. Milcová	zom.1.5.1986, Centrum I č.28/69, 01841 Dubnica nad Váhom	0	5399,5630,5679
+2921	Šimárová Hermína r. Poljaková	m.František,zom.8.5.1983, 01301 Teplička nad Váhom č.427	0	2141,2775,5679,5681,5723,5988
+2921	Šindel Gabriel	zom.27.4.1986, 01301 Teplička nad Váhom č.53	0	1676,5640
+2921	Šindel Jozef		0	5579
+2921	Šindel Jozef	ž.Žofia r.Solárová, 01301 Teplička nad Váhom č.53	0	5219,5679,5681,5723,5764,5988
+2921	Šindelová Anna	súr.Ján,Jozef	0	1949
+2921	Šindelová Žofia r. Solárová	m.Jozef, 01301 Teplička nad Váhom č.53	0	5219,5679,5681,5723,5988
+2921	Škorvánek Imrich	ml.,Zástranie č.62	0	5780
+2921	Škorvánek Imrich	st.,Zástranie č.53	0	5780
+2921	Škorvánek Ján	Zástranie č.83	0	5780
+2921	Škorvánek Jozef	Zástranie č.62	0	5780
+2921	Škorvánek Štefan	Zástranie č.88	0	5780
+2921	Škorvánek Vincent	Zástranie č.62	0	5780
+2921	Škorvánková Anna	Zástranie č.53	0	5780
+2921	Šmárik Ladislav Ing.	zom.15.10.2005, Karpatská č.3107/6, 01008 Žilina	0	2653
+2921	Šmárik Viliam	zom.6.1.2004, Do Parku č.425/9, 01003 Budatín - Žilina	0	2653
+2921	Šmehyl Adam	ml.,Zástranie č.32	0	5780
+2921	Šmehyl Adam	Zástranie č.39	0	5780
+2921	Šmehyl Augustín		0	5780
+2921	Šmehyl Gregor r. Šmehyl	zom.28.7.1993, Za Kaštieľom č.1050/13, 01301 Teplička nad Vá	0	5488,5673
+2921	Šmehyl Imrich	Zástranie č.61	0	5780
+2921	Šmehyl Jozef	Zástranie č.110	0	5780
+2921	Šmehyl Vincent	ž.Antónia r.Zadubanec,zom.1.9.1992, Na Skotňu č.618/24, 0130	0	5540
+2921	Šmehýlová Anna r. Kubalová		0	5488
+2921	Šmehylová Žofia	Zástranie č.30	0	5780
+2921	Šmida Vendelín		0	1557,4014,5219,5679,5681,5723,5836,5837,5988
+2921	Šmidová Bernardína r. Mráziková		0	3980,5849
+2921	Šošková Amália r. Smolková	zom.24.09.2006	0	6276
+2921	Šotter Ondrej		0	5219,5679
+2921	Šotterová Anna r. Tichá	m.Štefan	0	3059,4827,5082,5885,6069
+2921	Špirka Pavol	zom.5.10.2004, Pod Vŕšky č.363/1, 01301 Teplička nad Váhom	0	5679
+2921	Štalmachová Otília r. Tichá	zom.8.7.2003, Karpatská č.3107/6, 01008 Žilina	0	1603,5462
+2921	Štefanatná Alžbeta r. Valašková	m.Šimon,zom.11.3.2001, Pod Horou č.134, 01301 Teplička nad V	0	5688,5689
+2921	Štefanatná Antónia r. Poljaková	zom.23.4.2007, Karpatská č.3107/6, 01301 Teplička nad Váhom	0	4155
+2921	Štefanatná Brigita r. Tkáčiková	zom.12.2.2007, Fatranská č.426/62, 01301 Teplička nad Váhom	0	5462,5472,5679
+2921	Štefanatná Dorota r. Berešíková	m.Anton, 01301 Teplička nad Váhom č.104	0	1557,4014,4914,5836,5837
+2921	Štefanatná Magdaléna r. Smrekovská	m.Jozef,zom.12.11.1969, 01301 Teplička nad Váhom č.383	0	5219,5679
+2921	Štefanatná Mária r. Lovásová	zom.1.8.2013, A.Hlinku č.388/13, 01301 Teplička nad Váhom	0	5219,5492,5681,5723,5988
+2921	Štefanatný Anton		0	5579
+2921	Štefanatný Anton	ž.Dorota r.Berešíková,zom.6.12.1983, 01301 Teplička nad Váho	0	1557,4014,5836,5837
+2921	Štefanatný František r. Štefanatný	zom.17.12.2004, A.Hlinku č.388/13, 01301 Teplička nad Váhom	0	5497,5679
+2921	Štefanatný Jozef		0	5579
+2921	Štefanatný Jozef	ž.Magdaléna r.Smrekovská	0	5219,5679
+2921	Štefanatný Šimon	ž.Alžbeta r.Valašková	0	5689
+2921	Štefánik Martin		0	5577
+2921	Štefanov Martin		0	1557,4014,5219,5679,5681,5723,5836,5837,5988
+2921	Štefanov Vincent	ž.Mária r.Trnovcová,zom.19.5.1973	0	1557,4014,5219,5679,5681,5723,5836,5837,5988
+2921	Štefanová Anna	súr.Mária,Gašpar,Emília	0	5042,5587,5956
+2921	Štefanová Antónia r. Bolová	zom.23.6.1987, 01301 Teplička nad Váhom č.566	0	921,1842,1987,1988,2292,2304,2858,4746,4843,5020,5200,5205,5421,5431,5521,5530,5573,5892,5893
+2921	Štefanová Mária r. Trnovcová	m.Vincent,zom.2.6.1994, 01301 Teplička nad Váhom č.52	0	5431,5447
+2921	Štefún Anton	súr.Magdaléna,Ján	0	5678
+2921	Štefún Ján	súr.Magdaléna,Anton	0	5678
+2921	Štefún Pavol	ml	0	1774,1817,5701
+2921	Štefún Pavol	zom.11.12.1956,Teplička nad Váhom	0	2155,3923,3924,3925,3926
+2921	Štefúň Pavol		0	5579
+2921	Štefún Štefan		0	5579
+2921	Štefún Štefan	sestra Antónia	0	1557,4014,5679,5836,5837
+2921	Štefún Štefan	súr.Anna,Alžbeta,Pavol,Martin,Antónia	0	3926
+2921	Štefúnová Janka r. Hrošovská	zom.9.7.1996, 01301 Teplička nad Váhom č.54	0	1833,5671
+2921	Štefúnová Mária		0	5579
+2921	Štefúnová Matilda	sestra Alžbeta	0	1572,1729,2054,5525,5848,5929,5957
+2921	Šumská Zuzana r. Helová	m.Urban,zom.18.11.1968, 01301 Teplička nad Váhom č.144	0	1557,4014,5219,5679,5681,5723,5836,5837,5988
+2921	Šumský Urban	ž.Zuzana r.Helová, 01301 Teplička nad Váhom č.144	0	1557,2181,2369,4014,4828,5219,5679,5681,5717,5723,5836,5837,5988
+2921	Šupej Emil	Zabreh - Ostrava	0	5417
+2921	Talapka Augustín	zom.3.6.2007, Železničná č.501/13, 01301 Teplička nad Váhom	0	5679,5681,5723,5988
+2921	Talapka Jakub	ž.Anna r.Hrušková,zom.17.5.1962, 01301 Teplička nad Váhom č	0	5664,5679
+2921	Talapka Ján	súr.Ondrej,Štefánia,Jozef,Cyril,Žofia	0	5219,5679
+2921	Talapka Jozef	zom.29.10.1991, 01301 Teplička nad Váhom č.258	0	5679
+2921	Talapka Jozef	ž.Žofia r.Martinčeková	0	1557,4014,5836,5837
+2921	Talapka Karol	zom.18.4.2004, Trenčianska č.1589/1, 01001 Žilina	0	1623,3852,4512,5549,6223
+2921	Talapka Martin		0	5579
+2921	Talapka Martin	ž.Katarína r.Podmanická,zom.4.10.1964, 01301 Teplička nad Vá	0	2224
+2921	Talapka Pavol r. Talapka	zom.6.9.2011, Železničná č.498/16, 01301 Teplička nad Váhom	0	1670,3852,4512,4518,5936,6223
+2921	Talapka Štefan		0	5579
+2921	Talapka Štefan	súr.Anna,Agneša	0	2097,2142,2329,4090,4091,4092,4483,5679,5681,5723,5765,5988
+2921	Talapka Viliam r. Talapka	zom.23.1.2008, Gaštanová č.3082/26, 01007 Žilina	0	1623,2223,2224,4512,5219,5549,5681,5723,5988
+2921	Talapková Agneša	súr.Štefan,Anna	0	5679
+2921	Talapková Irena	súr.Štefánia,Augustín,Margita,Žofia	0	5681,5723,5988
+2921	Talapková Katarína r. Podmanická	m.Martin	0	1557,4014,5836,5837
+2921	Talapková Margita r. Talapková	nesvojprávna,zom.9.12.2011, Na Straník č.335/24, 01301 Tepli	0	5679
+2921	Talapková Petronela r. Vajčovcová	zom.14.5.1979, 01301 Teplička nad Váhom č.256	0	5679
+2921	Talapková Terézia r. Smrekovská	zom.22.5.1974, 01301 Teplička nad Váhom č.257	0	2034,2041,3217,3545,3625,3853,3873,3902,4043,4077,4236,4864,5370,5371,5495,5524,5807,6224,6301

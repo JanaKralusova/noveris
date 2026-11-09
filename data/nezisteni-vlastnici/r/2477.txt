@@ -1,0 +1,256 @@
+1422	Šimek Michal	A1	0	6460
+1422	Šimek Michal	m.Horáková Mária	0	4622
+1422	Šimek Michal	m.Vakrišová Cecília	0	4242
+1422	Šimek Michal	ž.Mária Juricová	1	7053
+1422	ŠIMEK Michal	ž.Cecília r.Vakičová	1	6922
+1422	Šimek Michal, A 1		0	4004,4005,4436,5786
+1422	Šimek Ondrej	m.Kubinová Anna	0	3206,3527,4190,4828,5816,5827,6058
+1422	Šimek Ondrej	ž.Mária Macejková	1	7053
+1422	Šimek Ondrej, Kúty, PSČ 908 01, SR	zom.11.04.1958	0	7053
+1422	Šimek Pavol	A1	0	3048,3173,3190,5938,6051,7052,8169,8201
+1422	Šimek Pavol, A 1		0	3014,3027,3171,3214,6395,6465,6950,8202
+1422	Šimek Rudolf	m.Rišková Mária	0	9097
+1422	Šimek Rudolf, A 1		0	4004,4005,4436,5786
+1422	Šimek Sebastián		0	3210
+1422	Šimek Sebastián	m.Ralbovská Kristína	0	3525
+1422	Šimek Sebastián	m.Ralbovská Pavlína	0	3950
+1422	Šimek Serafín	mal	0	3034,3135,6471
+1422	Šimek Serafín mal.		0	6390
+1422	Šimek Štefan		0	6286
+1422	Šimek Štefan	A1	0	3048,3190,7052,8169,8201
+1422	Šimek Štefan	m.Poláková Mária	0	3135
+1422	Šimek Štefan	m.Šomogyová Terézia	0	3334
+1422	Šimek Štefan	m.Vávrová Bernardína	0	3120,3210,3237,3953
+1422	Šimek Štefan	slob	0	5505
+1422	Šimek Štefan	ž. Poláková Mária	0	71
+1422	Šimek Štefan	ž.Bernardína Vávrová	1	7053
+1422	Šimek Štefan, A 1		0	3227,4114,4120,4733,5439,5808,6019,6562,8202,8591
+1422	Šimek Tomáš		1	3316,3328,7053
+1422	Šimek Tomáš	A1	0	3047,3212,6058,6067,6380,6449,9469
+1422	ŠIMEK Tomáš	č.d.68/16	1	556
+1422	Šimek Tomáš, A 1		0	2860,3002,3039,3049,3207,3229,3314,3317,3318,3320,3326,3327,3338,5525,6055,6077,6384,6414,6441,7001,8596,8601
+1422	Šimek Vendelín	mal	0	6460
+1422	Šimek Vincent		0	6718
+1422	Šimek Vincent	A1	0	6308
+1422	Šimek Vincent, 908 01, Kúty, č. 143, SR	m.Burská Eva	0	3091
+1422	Šimek Vincent, A 1		0	3125,3808,6209
+1422	ŠIMEKOVÁ Antónia r. Poláčková, SR		0	383
+1422	Šimko František		0	7839
+1422	Šimková Agneša	r.Škodová	0	3136,6019,8591
+1422	Šimková Agneša r. Škodová		0	3047,3212,3229,3962,4072,5890,6067,6081,6286,6288,6449,6614
+1422	Šimková Agneša r. Škodová, Kúty, č. 334, PSČ 908 01, SR	zom.10.06.1969	0	7053
+1422	Šimková Alojzia r. Komorníková		0	3160
+1422	Šimková Alžbeta, A 1		0	6465
+1422	Šimková Anna		1	3214,7053
+1422	Šimková Anna	A1	0	3174,3206,3226,3430,5440,5490,6436,6460
+1422	Šimková Anna	m.Juraj	0	3026
+1422	Šimková Anna	m.Pavol	0	3206
+1422	Šimková Anna	mal	1	2993,3058,6088,7053,7155,8203
+1422	Šimková Anna	r.Kubinová /nezn./	0	3042,3237,5435,5786,6059,6088,6384,6476
+1422	Šimková Anna	r.Kucharičová	0	5946,6975
+1422	Šimková Anna	r.Patková	0	5967
+1422	Šimková Anna	r.Škodová	0	5953
+1422	Šimková Anna	slob	0	4718
+1422	Šimková Anna r. Kubinová		1	7053
+1422	Šimková Anna r. Kubinová	nezn	0	3206,3233,3338,4172,4190,4828,5816,5826,5827,6053,6058,6518
+1422	Šimková Anna r. Palkovičová		0	3034,3232
+1422	Šimková Anna r. Šišková		0	3985
+1422	Šimková Anna r. Škodová		0	3039,3174,3233,3875,3971,5938,6082,6477,7027
+1422	Šimková Anna r. Vávrová		1	7053
+1422	Šimková Anna, A 1		0	3170,3181,3207,3393,4408,4592,5161,5303,5439,5786,5793,5917,5918,6026,6055,6056,6097,6124,6134,6377,6378,6417,6508,6509
+1422	Šimková Antonia	mal	0	3034
+1422	Šimková Antonia	r.Poláčková	0	3002,3018,3198,3202,3214,3326,3327,4744,5896,6016,6059,6080,6089,6146,6444,6471,6476,6483,9359
+1422	Šimková Antónia		0	5844
+1422	Šimková Antónia	r.Palkovičová	0	3222
+1422	Šimková Antónia r. Palkovičová		0	3047,3135,3180,3351,3858,4269,4428,5809,6369
+1422	ŠIMKOVÁ Antonia r. Palkovičová, Kúty, Štefánikova 1281		0	8494
+1422	Šimková Antonia r. Palkovičová, Štefánikova 1281, Kúty, PSČ 908 01, SR	zom.03.01.1987	0	7053
+1422	Šimková Antonia r. Poláčková		1	3047,3185,3229,3230,3328,3641,5066,5938,6038,6051,6066,6067,6074,6081,6434,6449,7053
+1422	ŠIMKOVÁ Antónia r. Poláčková, 10 Milleroad 12095, Johnstown New York, USA	zom. 24.02.1988	0	383,459
+1422	Šimková Antonia r. Poláčková)		0	6980
+1422	Šimková Berdina		0	3051
+1422	Šimková Bernardína		0	6061
+1422	Šimková Bernardína	A5	0	6082
+1422	Šimková Bernardína	mal	0	3034
+1422	Šimková Bernardína, A 1		0	3210
+1422	Šimková Bernardína, A 2		0	6055
+1422	Šimková Bernardína, A 4		0	6357
+1422	Šimková Bernardína, A 6		0	5844
+1422	Šimková Bernardína, A 7		0	3039
+1422	Šimková Celestína	mal	0	3135
+1422	Šimková Emília r. Královičová	nezn	0	2875,3395,4482,5305,5307,6460
+1422	Šimková Genovéva r. Vráblová, Kúty, č. 143, PSČ 908 01, SR		0	6082
+1422	Šimková Gertrúda	r.Karafiátová	0	5235,5537,5556,6022
+1422	Šimková Gertrúda r. Karafiátová		1	1922,5538
+1422	Šimková Helena		0	3121
+1422	Šimková Helena	r.Palkovičová	0	3326,3327,9359
+1422	Šimková Helena	r.Šimková	0	3044
+1422	Šimková Helena	r.Valovičová	0	3037
+1422	Šimková Helena r. Čelustková		0	3194,3990
+1422	Šimková Helena r. Kadlicová		0	3217
+1422	Šimková Helena r. Palkovičová		0	3047,3212,3229,3328,6067,6449
+1422	Šimková Jozefína r. Patková		0	3035
+1422	Šimková Katarína		0	3049,7001
+1422	Šimková Katarína	r.Palkovičová	0	5823
+1422	Šimková Katarína r. Palkovičová		1	7053
+1422	Šimková Kristína r. Ralbovská		0	3525
+1422	Šimková Ľudmila r. Vrbová, Kúty, č. 552, PSČ 908 01, SR		0	7053
+1422	Šimková Mária		1	165,3328,6718,7053
+1422	Šimková Mária	A1	0	3034,3047,3051,3174,3191,3206,3226,3491,5490,6286,6288,6307,6449
+1422	Šimková Mária	mal	0	3002,3034,3120,3131,3167,3185,3212,3314,3430,3587,3593,4218,5440,6007,6063,6067,6461,6471
+1422	Šimková Mária	r.Juricová	0	8253
+1422	Šimková Mária	r.Kovarovičová	0	3153,3207,5872
+1422	Šimková Mária	r.Poláková nezn	0	3317,3326,3327,6037,6089,9359
+1422	Šimková Mária	r.Šimková	0	5843
+1422	Šimková Mária	r.Valachovičová	0	3317
+1422	Šimková Mária	slob	1	7053,7606,9164
+1422	Šimková Mária mal., A 1		0	6390
+1422	Šimková Mária r. Hačundová		0	4996
+1422	Šimková Mária r. Horáková		0	4622
+1422	Šimková Mária r. Husovičová		1	3479,7053
+1422	Šimková Mária r. Juricová		1	6475,7053
+1422	Šimková Mária r. Kovarovičová		1	3174,5270,5819,6058,6380,7053,9068,9469
+1422	Šimková Mária r. Macejková		0	3174,6168
+1422	Šimková Mária r. Poláková		1	3316,6541,7053
+1422	Šimková Mária r. Poláková	nezn	0	3011,3034,3197,3203,3226,3314,3318,3320,4071,5895,5938,6051,6396,6525,6538,8852,8953
+1422	Šimková Mária r. Šimková		0	7908
+1422	Šimková Mária r. Valachovičová		0	3314,3316,3318,3320,7849
+1422	Šimková Mária, A 1		0	3003,3006,3049,3125,3137,3170,3181,3185,3207,3210,3229,3337,3808,4072,4073,4733,5161,5439,5786,5852,5890,5892,5917,5918,5950,6019,6026,6055,6056,6070,6088,6097,6134,6135,6209,6377,6378,6417,6508,6509,6516,6614,7001,8591
+1422	ŠIMKOVÁ Mária, A 1, SR		0	5321
+1422	Šimková Pavlína	r.Ralbovská	0	3003,3210,5894,6395
+1422	Šimková Pavlína r. Ralbovská		1	7053
+1422	Šimková Pavlína r. Ralbovská	roč.1888-21.07.1948	1	6859
+1422	Šimková Pavlína r. Ralbovská, Kúty, č. 485, PSČ 908 01, SR		0	3048,5819
+1422	Šimková Rozália		0	6123
+1422	Šimková Rozália	A1	0	6477,7027
+1422	Šimková Rozália	č.630	1	7053
+1422	Šimková Rozália	mal	0	3034,3232
+1422	Šimková Rozália, A 1		0	5844
+1422	Šimková Terézia	r.Kollárová /nezn./	0	5786
+1422	Šimková Terézia r. Kollárová	nezn	0	5816
+1422	Šimková Vilma	A1	0	3174,6082
+1422	Šimková Vilma	mal	0	2993,3058,3430,4408,5440,5490,5793,5917,5918,6088,6097,6377,6378,6417,6436,6477,7027,7155,8203
+1422	Šimková Vilma, A 1		0	3256,3761,3789,5161,5439,5786,6026,6055,8343,8344,8345,8346
+1422	Šimkovič Antonín		0	4943
+1422	Šimkovič Augustín		0	4943
+1422	Šimkovič František	A1	0	4943
+1422	Šimkovič Ján	m.Prokopová Štefánia	0	4943
+1422	Šimkovič Štefan	A 1	0	6083
+1422	Šimkovič Štefan	A,1	0	5090
+1422	Šimkovič Štefan	A1	0	3034
+1422	Šimkovič Štefan	m.Staňková Mária	0	3314,3316,3317,3318,3320
+1422	Šimkovič Štefan, A 1		0	5778
+1422	Šimkovič Teofil		0	4943
+1422	Šimkovičová Anna		0	5778,6083
+1422	Šimkovičová Anna r. Hnátová		0	5479
+1422	Šimkovičová Mária	A 1	0	6083
+1422	Šimkovičová Mária, A 1		0	5778
+1422	Šimon Anton, A 1		0	5838,6394
+1422	Šimonová Klementína r. Hesková		0	3220,5376,5377,8625
+1422	Šimonová Marta r. Antálková		0	6153
+1422	Šimonovičová Tekla r. Hojsíková	nezn	0	5492
+1422	Šimun Augustín		0	5255,6371,6372,6373
+1422	Šimun Martin	A1	0	3206,3226
+1422	Šipold Martin		0	3214
+1422	Šipoldová Alžbeta	r.Krajčírová	0	3214
+1422	Šiška Anton		0	5800,5802,5820,6436
+1422	Šiška Antonín	m.Antálková Anna	0	5328
+1422	Šiška Ferdinand	m.Svobodová Agneša	0	5350
+1422	Šiška Ferdinand	m.Štvrtecká Agneša	0	5330,5800,5802,5820,6436
+1422	Šiška Jozef	A1	0	6436
+1422	Šiška Jozef	m.Lániková Alžbeta	0	5327
+1422	Šiška Jozef, A 1		0	5800
+1422	Šiška Teofil		0	5820
+1422	Šiška Teofil	A1	0	5350,6436
+1422	Šiška Teofil, A 1		0	5800,5802
+1422	Šiška Vendelín	m.Antálková Mária	0	3161
+1422	Škoda Andrej	beňa	0	3054,3179
+1422	Škoda Cyprián		0	5991
+1422	Škoda Cyril	A1	0	3051,6067,6081
+1422	Škoda Cyril	m.Macejková Eva	0	3047,4693,5892,6019,8591
+1422	Škoda Cyril	ž. Eva Macejková	0	165
+1422	ŠKODA Cyril		1	892,7048,7053
+1422	Škoda Cyril, A 1		0	2867,3003,3015,3018,3178,3214,3230,3999,4000,6484,7879
+1422	Škoda František		1	165,3316,7053
+1422	Škoda František	A 1	0	4693
+1422	Škoda František	A1	0	3047,3051,5175,5819,6058,6067,6082,6477,6517,7027
+1422	Škoda František	m.Kollárová Paulína	0	3039,3214,3233,5938,6082,6477,7027
+1422	Škoda František	m.Pavlovičová Paulína /nezn./	0	3174,3214,5938
+1422	Škoda František	m.Pavlovičová Paulína, nezn	0	3039,3233,6082,6477,7027
+1422	Škoda František	ž.Paulína Kolárová	1	7053
+1422	Škoda František, A 1		0	2867,3003,3015,3018,3039,3178,3214,3230,3233,3237,3314,3317,3318,3320,3338,3590,4000,5010,5432,5666,5786,5892,5936,5953,5991,6019,6055,6061,6072,6088,6383,6405,6406,6484,8591
+1422	Škoda Ignác		1	165,7053
+1422	Škoda Ignác	A1	0	3047,3051,6067,6081
+1422	Škoda Ignác	m.Macejková Vilma /zomr./	0	4693
+1422	Škoda Ignác, A 1		0	2867,3003,3015,3018,3178,3230,3553,3590,3999,4000,5432,5666,5729,5892,5991,6019,6484,7879,8591
+1422	Škoda Ignác, mal., A 1		0	3214
+1422	Škoda Ján		1	165,7053,7639
+1422	Škoda Ján	A1	0	3051,6081,6515,6517
+1422	Škoda Ján	bakica	0	3171,3173,3214,5938,6051
+1422	Škoda Ján	m.Ralbovská Mária	0	3230
+1422	Škoda Ján, A 1		0	3039,3214,4156,5893,5991,6061,6465,6505
+1422	Škoda Ján, mal., A 1		0	6395
+1422	Škoda Jozef		1	165,3316,7053
+1422	Škoda Jozef	A 1	0	4693
+1422	Škoda Jozef	A1	0	3047,3051,5175,5819,6058,6067,6082,6090,6477,6517,7027
+1422	Škoda Jozef	bakica	0	3051,3171,3214,5938,6051
+1422	Škoda Jozef	m.Krajčírová Mária	0	3227,6395
+1422	Škoda Jozef	m.Sofková Anna	0	3173,4156
+1422	Škoda Jozef	m.Šimeková Antónia	0	3039,3174,3214,3233,5938,6082,6477,7027
+1422	Škoda Jozef	m.Valayová Helena	0	5786
+1422	Škoda Jozef	ž.Anna r.Sofková	1	7472
+1422	Škoda Jozef	ž.Justína Kovarovičová	1	7053
+1422	Škoda Jozef	ž.Mária r.Krajčírová	1	7472
+1422	Škoda Jozef, A 1		0	2867,3003,3015,3018,3039,3178,3214,3230,3233,3237,3314,3317,3318,3320,3338,3590,4000,4259,4305,5010,5432,5666,5786,5892,5893,5936,5953,5991,6019,6055,6061,6072,6088,6383,6395,6405,6406,6465,6484,8591
+1422	Škoda Matej		1	165,892,7048,7053
+1422	Škoda Matej	A 1	0	4693
+1422	Škoda Matej	A1	0	3051,6067,6081
+1422	Škoda Matej	slob	0	3047,5432,6019,8591
+1422	Škoda Matej, A 1		0	2867,3003,3015,3018,3178,3214,3230,3999,4000,5666,5892,5991,6484,7879
+1422	Škoda Michal	frček	0	6378
+1422	Škoda Michal	m.Palkovičová Mária	0	3051,6067
+1422	Škoda Michal, A 1		0	3999,5796,6076,7879
+1422	Škoda Michal, Kúty, č. 120, PSČ 908 01, SR	zom.06.11.1960	0	7053
+1422	Škoda Ondrej		1	7472
+1422	Škoda Ondrej, A 1		0	4156,6020
+1422	Škoda Pavol	A1	0	3047,6067,6081
+1422	Škoda Pavol, A 1		0	3167,3214,3337,5890,6135
+1422	Škoda Peter, č.d.719, 908 01 Kúty		0	3218,6005,6075,8602
+1422	Škoda Rudolf	A 1	0	4693
+1422	Škoda Rudolf, A 1		0	3230,4000
+1422	Škoda Stanislav		0	165
+1422	Škoda Stanislav	m.Zámečníková Mária	0	3993
+1422	Škoda Štefan		1	165,7053
+1422	Škoda Štefan	A 1	0	4693
+1422	Škoda Štefan	A1	0	3047,3051,5175,6067
+1422	Škoda Štefan	č.d.1418/46	1	7048
+1422	Škoda Štefan	m.Zámečníková Blandína	0	3003,4000,6067,6169
+1422	Škoda Štefan	mal	1	7053
+1422	Škoda Štefan	ž.Blandína Zámečníková	1	7053
+1422	ŠKODA Štefan	č.d.2977/36	1	892,7048
+1422	Škoda Štefan, A 1		0	2867,3003,3015,3018,3178,3214,3230,3233,3237,3338,3553,3590,3799,3816,3999,4000,5046,5432,5666,5729,5786,5892,5991,6019,6088,6377,6378,6484,7879,8591
+1422	Škoda Štefan, č.d.705, 908 01 Kúty		0	3214,6464
+1422	Škoda Tomáš		0	5917
+1422	Škoda Viliam		0	2867
+1422	Škodová Alžbeta		1	165,892,7048
+1422	Škodová Alžbeta	A1	0	3047,3051,6067,6081
+1422	Škodová Alžbeta	beňa	0	3179
+1422	Škodová Alžbeta	mal	1	7053
+1422	Škodová Alžbeta	r.Valayová	0	5786
+1422	Škodová Alžbeta, A 1		0	2867,3003,3015,3018,3054,3178,3590,3999,5432,5666,5892,5991,6019,6484,7879,8591
+1422	Škodová Alžbeta, mal., A 1		0	3214
+1422	Škodová Anna	r.Sofková nezn	0	2997,3010,3014,3149,3183,4086,5849,6062,6407,6425,6480,7000
+1422	Škodová Anna r. Patková		0	6389
+1422	Škodová Anna r. Pavelková		0	4201
+1422	Škodová Anna r. Sofková		1	6852,7053
+1422	Škodová Anna r. Sofková	nezn	0	3178,3225,3688,5819,6058,6505,8765,8826
+1422	Škodová Anna, A 1		0	3029,3039
+1422	Škodová Antónia	r.Šimková	0	3120,3210,3237
+1422	Škodová Antónia r. Šimeková		1	2201
+1422	Škodová Antónia r. Šimková		1	3953,3976,5562,7053
+1422	Škodová Blandína	r.Zámečníková	0	3003
+1422	Škodová Blandína r. Zámečníková		1	4000,6067,6169,7053
+1422	Škodová Emília	r.Kovárová	0	3003,5892,6019,8591
+1422	Škodová Emília r. Kovárová		1	3047,4049,7048,7053
+1422	Škodová Eva r. Macejková		0	3698
+1422	Škodová Eva r. Melicherová		0	3179

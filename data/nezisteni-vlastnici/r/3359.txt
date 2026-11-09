@@ -1,0 +1,256 @@
+1931	LEDNICKÝ Dionýz	mal	0	5693,5722,7952
+1931	LEDNICKÝ Július	mal	0	5693,5722,7952
+1931	LELOVIČOVÁ Alojzia		0	2806,5140,5144
+1931	LELOVIČOVÁ Alojzia	zom	0	2801,2802,2805,2809,2948,4012,4761,5191,5192,5193,5194,5360,6604,6820,7052,7196,7320,7321,7619
+1931	LELOVIČOVÁ Alžbeta	r.Nemešová	0	6387
+1931	LENGYELOVÁ Margita	r.Skablová m.Ján	0	6297
+1931	LITAVSKÁ Helena	r.Litavská vd	0	6201
+1931	LITAVSKÝ Alexander r. Litavský		0	7582
+1931	LOMŇANSKÁ Elena		0	6126
+1931	LOVÁSZ Koloman	ž.Gizela r.Hochmanová	0	6519
+1931	LOVÁSZ Ľudovít	syn Laurinca	0	6524
+1931	LOVÁSZOVÁ Gizela	r.Hochmanová m.Koloman	0	6519
+1931	LOVÁSZOVÁ Gizela r. Hoffmannová		0	2584,3287,3378,3380,4549,7103,7869
+1931	LUKACSOVICS Alexander	mal	0	3198
+1931	LUKACSOVICS Jozef	ž.Mária r.Hengericsová	0	6913
+1931	LUKACSOVICS Ľudovít		0	2906
+1931	LUKACSOVICS Ľudovít	hluchonemý	0	5848
+1931	LUKACSOVICSOVÁ Agnesa		0	2904,2906
+1931	LUKÁCSOVICSOVÁ Agnesa	r.Laláková m.Ľudovít	0	5553
+1931	LUKACSOVICSOVÁ Juliana	r.Bódisová m.Ľudovít	0	3750
+1931	LUKACSOVICSOVÁ Mária	r.Bartová m.Ľudovít	0	2980,2981,5476,7233
+1931	LUKACSOVICSOVÁ Mária r. Bartaová		0	3445
+1931	LUKÁČOVÁ Helena	r.Jesenská m.Ondrej	0	5860
+1931	LUKAČOVIČ Jozef	ž.Mária r.Hengeričová	0	6198
+1931	LUTOR Mikuláš		0	5029
+1931	LUTOR Mikuláš	mal	0	5030
+1931	LUZSICZOVÁ Mária	r.Györeová m.Viliam	0	1328
+1931	LUŽICA Imrich		0	5360,6044,6604,7052,7196,7320,7321
+1931	LUŽICOVÁ Mária	r.Györeová	0	6648
+1931	MAGYAR Gašpar		0	5379,5380,5385
+1931	MAJOROVÁ Alžbeta	r.Dobosiová	0	4408
+1931	MAJOROVÁ Júlia	r.Tóthová	0	3008,4801,5074
+1931	MAJOROVÁ Júlia r. Tóthová		0	2999
+1931	MARÁZ Alexander		0	2806,5140,5144
+1931	MARÁZ Ambroz		0	3445
+1931	Maráz Ambruš	ž.Margita r.Dudák	0	3448
+1931	MARÁZ Andrej		0	2850
+1931	MARÁZ Andrej	mal	0	3819,5734,6812
+1931	MARÁZ Andrej	PKV1723	0	6949
+1931	MARÁZ Andrej	ž.Barbora r.Blaskóová	0	6795
+1931	MARÁZ Andrej	ž.Mária r.Dibusová	0	3369,3819,5734,6812
+1931	MARÁZ Andrej	ž.Mária r.Szücsová	0	2806,5140,5144
+1931	Maráz Imrich	ž.Matilda r.Vince	0	3448
+1931	MARÁZ Imrich		0	2806,3445,5140,5144
+1931	MARÁZ Imrich	ž.Matilda r.Vinceová	0	2724,2806,2980,2981,3443,3446,3450,3451,3452,3453,3841,4029,4030,4166,4171,4172,4305,4306,4308,4430,5140,5144,5239,5240,5241,5242,5304,5305,6257,6600,6720,6773,7233
+1931	MARÁZ Imrich	ž.Matilda r.Vinceová; ž.Matilda r.Vinceová	0	6719
+1931	MARÁZ Jonáš	ž.Mária r.Tóthová	0	2806,5140,5144
+1931	MARÁZ Jozef		0	6803
+1931	MARÁZ Jozef	ž.Irena r.Barmosová	0	3283,3284,5319,6536,6846,6898
+1931	MARÁZ Július	mal	0	2850
+1931	MARÁZ Ladislav		0	5355
+1931	MARÁZ Ľudovít	ž.Mária r.Lebóová	0	6055
+1931	MARÁZ Ľudovít	ž.Matilda r.Nemesová	0	5895
+1931	Maráz Lukáč	ž.Mária r.Bicó	0	3448
+1931	MARÁZ Lukáč		0	3445
+1931	MARÁZ Lukáč	ž.Mária r.Bicóková	0	2724,2806,2980,2981,3443,3446,3450,3451,3452,3453,3841,4029,4030,4166,4171,4172,4305,4306,4308,4430,5140,5144,5239,5240,5241,5242,5304,5305,6257,6600,6719,6720,6773,7233
+1931	Maráz Michal	ž.Alžbeta r.Molnár	0	3448
+1931	MARÁZ Michal		0	2806,3445,5140,5144
+1931	MARÁZ Michal	ž.Alžbeta r.Molnárová	0	2724,2980,2981,3443,3450,3451,3452,3453,3841,4166,4171,4172,4305,4306,4308,4430,5239,5240,5241,5305,6257,6600,6719,6720,6773,7233
+1931	MARÁZ Štefan		0	3445
+1931	MARÁZ Štefan	ž.Rozália r.Bazsová	0	2850
+1931	MARÁZ Štefan r. Maráz	ž.Rozália r.Bazsová	0	7592
+1931	MARÁZ Viliam	mal	0	2850
+1931	MARÁZOVÁ Alžbeta	r.Feketeová m.Alexander PKV1881	0	5910,6056,6489
+1931	MARÁZOVÁ Gizela	mal	0	3819,5734,6812
+1931	MARÁZOVÁ Margita	hluchonemá	0	4745,4746
+1931	MARÁZOVÁ Margita	hluchonemá PKV2075	0	6797
+1931	MARÁZOVÁ Mária		0	5596
+1931	MARÁZOVÁ Mária	mal	0	3283,3284,5319,6536,6846,6898
+1931	MARÁZOVÁ Mária	r.Tóthová m.Ján	0	3206
+1931	MARÁZOVÁ Mária	r.Tóthová m.Štefan	0	3772,6826
+1931	MARÁZOVÁ Matilda	mal	0	3819,5734,6812
+1931	MARÁZOVÁ Matilda	r.Nemesová m.Ľudovít	0	5708,5895,6933
+1931	MARÁZOVÁ Rozália r. Molnárová	m.Ján	0	2806,5140,5144
+1931	MARÁZOVÁ Vilma	r.Gondová m.Ľudovít	0	2980,2981,7233
+1931	MARENCSÁKOVÁ Gizela	r.Szantová	0	6861
+1931	MARKO Alexander		0	5957,5958
+1931	MARKO Ladislav		0	6878
+1931	MARKOVÁ Helena r. Turanová	m.Ján	0	7592
+1931	Mašková Helena r.Rideg		0	4664,7289
+1931	MATÚŠOVÁ Mária		0	5030
+1931	MÁTYUS Gašpar	mal	0	5792
+1931	MÁTYUS Gašpar	ž.Mária r.Palusková	0	4507,4602,5837
+1931	MÁTYUS Gašpar r. Mátyus	ž.Mária r.Palusková	0	7592
+1931	Mátyus Jozef	ž.Alžbeta r.Mlinkovič	0	4664,7289
+1931	Mátyus Jozef	ž.Barbora r.Haris	0	4667
+1931	Mátyus Július	ž.Mária r.Haris	0	4664,4667,7289
+1931	MÁTYUS Július		0	2999,3008,4669,4801,5074
+1931	MÁTYUS Ľudovít	PKV5119	0	6004
+1931	MÁTYUS Ľudovít	ž.Cecília r.Hamráková	0	5420
+1931	MÁTYUS Ľudovít r. Mátyus		0	7592
+1931	MÁTYUS Vincent	PKV5089	0	6997
+1931	MÁTYUS Vincent	ž.Júlia r.Kovácsová	0	6802
+1931	MÁTYUS Vincent	ž.Mária r.Molnárová	0	5863
+1931	MÁTYUSOVÁ Agnesa	r.Balážová	0	4436,4764,7726
+1931	MÁTYUSOVÁ Agnesa	r.Gyürüsiová m.Alexander	0	4987
+1931	MÁTYUSOVÁ Alojzia	r.Nagyová m.Július	0	3168
+1931	MÁTYUSOVÁ Cecília		0	4036
+1931	MÁTYUSOVÁ Cecília	r.Hamráková m.Ľudovít	0	5420
+1931	MÁTYUSOVÁ Cecília r. Hamráková	m.Ľudovít	0	2999
+1931	MÁTYUSOVÁ Hermína	PKV2981	0	4036
+1931	Mátyusová Júlia		0	4664,4667,7289
+1931	Mátyusová Julianna		0	4669
+1931	MÁTYUSOVÁ Mária	r.Marázová m.Ján	0	6766,6825
+1931	MÁTYUSOVÁ Mária r. Molnárová		0	3445
+1931	MÁTYUSOVÁ Rozália	r.Harisová m.Ľudovít	0	5554
+1931	MÁTYUŠ Gašpar		0	5348
+1931	Mátyušová Agneša r. Balážová		0	4439,6915
+1931	MEDVECZKY Ján	ž.Mária r.Kováčová	0	3372,3373,3508,5645,6623
+1931	MEDVECZKYOVÁ Mária	r.Kováčová m.Ján	0	3372,3373,3508,5645,6623
+1931	MECHUROVÁ Anna	r.Nemesová m.František	0	6668
+1931	MÉSZÁROS František		0	6002
+1931	MÉSZÁROS Ján	ž.Mária r.Nagyová	0	6002
+1931	MÉSZÁROSOVÁ Mária	r.Brencsíková	0	6448
+1931	MIKLE Jozef		0	2986,2987,2988
+1931	MIKLE Ondrej		0	3438,6702
+1931	MIKLE Viliam	ž.Júlia r.Bencsíková	0	2986,2987,2988
+1931	MIKLEOVÁ Agnesa	r.Marázová m.Štefan	0	6739
+1931	MIKLEOVÁ Alžbeta	r.Csontosová	0	4462,4896,8216
+1931	MIKLEOVÁ Mária	r.Harisová m.Ladislav	0	6006
+1931	MIKLEOVÁ Mária r. Harisová	m.Ladislav	0	7592
+1931	MIKULEC Pavol	ž.Rozália r.Struhárová	0	5692
+1931	MIKULECOVÁ Alžbeta	r.Šipošová m.Štefan	0	3489,3752,5208,6016,7357,7358
+1931	MIKULECOVÁ Helena	r.Krišková	0	3206,4582,6170
+1931	MIKULECOVÁ Helena r. Krišková		0	2806,5140,5144
+1931	MIKULECOVÁ Rozália	r.Struhárová m.Pavol	0	5692,6365
+1931	MIŠKOVIČ Ján		0	6421
+1931	MIŠKOVIČ Žigmund		0	6422
+1931	MLÁDENEC Alexander	ž.Mária r.Valová	0	2584
+1931	MLINKOVICS Andrej		0	5555
+1931	MLINKOVICS Ľudovít	ž.Rozália r.Dudáková	0	6843
+1931	MLINKOVICS Viliam		0	5555
+1931	MLINKOVICS Viliam	ž.Terézia r.Patasiová	0	2925
+1931	MLINKOVICSOVÁ Barbora	r.Tóthová m.Július	0	5462
+1931	MLINKOVIČ Andrej		0	5555
+1931	MLINKOVIČ Gašpar		0	2674
+1931	MLINKOVIČ Štefan		0	5352,6029
+1931	MLINKOVIČ Viliam		0	5555
+1931	MLINKOVIČ Viliam	mal	0	5555
+1931	MLINKOVIČ Viliam	PKV1619	0	5352,6029
+1931	MLINKOVIČ Viliam	PKV1619, II	0	5352,6029
+1931	MLINKOVIČOVÁ Gizela	r.Nemešová	0	5485
+1931	MLINKOVIČOVÁ Gizela	r.Nemešová m.Jozef	0	4919
+1931	MOLNÁR Alexander		0	3445
+1931	MOLNÁR Andrej		0	5480
+1931	MOLNÁR Andrej	PKV1851	0	6830
+1931	MOLNÁR Andrej	PKV3138	0	3707,6022,7832
+1931	MOLNÁR Andrej	ž.Mária r.Bruszelová	0	6428
+1931	MOLNÁR Ján	PKV1222	0	5437,8042
+1931	MOLNÁR Ján	ž.Mária r.Benkóová	0	2806,5140,5144
+1931	MOLNÁR Jozef		1	2722,3658,5201,5202,5258,5259,5998,7800,8054
+1931	MOLNÁR Jozef	mal	0	6705,6706
+1931	MOLNÁR Jozef	PKV2227	0	5457,6745
+1931	MOLNÁR Ladislav	ž.Mária r.Dibuszová	0	6147
+1931	MOLNÁR Ľudovít	PKV1222	0	5437,8042
+1931	MOLNÁR Ľudovít	PKV1276	0	6706
+1931	MOLNÁR Ľudovít	PKV1851	0	6830
+1931	MOLNÁR Ľudovít	ž.Alžbeta r.Györeová	0	4562,6228,6954
+1931	MOLNÁR Ľudovít	ž.Juliana r.Kovácsová	0	5982
+1931	MOLNÁR Michal	ž.Alžbeta r.Nagyová	0	6919,6939
+1931	MOLNÁR Ondrej		1	2722,3445,3658,3706,3830,5201,5202,5258,5259,5998,7800,8054
+1931	MOLNÁR Ondrej	ž.Júlia r.Marázová	0	6238
+1931	MOLNÁR Peter		1	2722,3658,3706,3830,5201,5258,5259,5998,7800,8054
+1931	MOLNÁR Peter	PKV2228	0	5609
+1931	MOLNÁR Štefan		0	3445,5457,6745
+1931	MOLNÁR Štefan	mal	1	2980,2981,3404,3405,3443,3841,4024,4306,4430,4822,5095,5239,5240,5241,6221,6239,6391,6543,6773,7233
+1931	MOLNÁR Štefan	PKV3330	0	6222
+1931	MOLNÁROVÁ Agnesa	r.Palusková m.Július	0	6710
+1931	MOLNÁROVÁ Alžbeta	mal. PKV2227	0	5457,5609,6745
+1931	MOLNÁROVÁ Alžbeta	mal. PKV3816	0	3902,7402
+1931	MOLNÁROVÁ Alžbeta	r.Nagyová m.Michal	0	4144,6939
+1931	MOLNÁROVÁ Barbora	r.Kesziová	0	4691,5325
+1931	MOLNÁROVÁ Gizela		0	6457,6461
+1931	MOLNÁROVÁ Irma	r.Harišová	0	2996,5636
+1931	MOLNÁROVÁ Irma r. Harišová		0	7480
+1931	MOLNÁROVÁ Júlia		0	3445
+1931	MOLNÁROVÁ Júlia	r.Lukacsovicsová	0	5848
+1931	MOLNÁROVÁ Juliana	r.Kovácsová m.Ľudovít	0	2761,3436,3943,4647,4651,4652,4653,5324,5982
+1931	MOLNÁROVÁ Margita	r.Némethová m.Peter	0	2902,5210,5211
+1931	MOLNÁROVÁ Mária	dcéra Vincenta	0	5430
+1931	MOLNÁROVÁ Mária	mal. PKV3588	0	5506
+1931	MOLNÁROVÁ Mária	PKV4713	0	6283
+1931	MOLNÁROVÁ Mária	r.Bruszelová	0	6746
+1931	MOLNÁROVÁ Mária	r.Hengericsová	0	6821
+1931	MOLNÁROVÁ Mária	r.Kesziová	0	4691,5325
+1931	MOLNÁROVÁ Mária	r.Némethová m.Peter	0	2901
+1931	MOLNÁROVÁ Mária	r.Psenáková m.Koloman	0	6493
+1931	MOLNÁROVÁ Matilda	mal	0	6865
+1931	MOLNÁROVÁ Matilda	r.Marázová	0	3819,5734,6812
+1931	MOLNÁROVÁ Rozália	mal	0	6705,6706
+1931	MOLNÁROVÁ Rozália	r.Tóthová	0	3914,5500,6554
+1931	MRÁZKOVÁ Mária	r.Hengericsová ČR	0	5351,5352
+1931	MURAOVÁ Júlia	r.Gyürüsiová	0	5290,6485,6486,6487,6798,7605
+1931	MURCINOVÁ Agnesa	r.Tóthová m.Alexander	0	5462
+1931	NAGY Alexander	syn Františka	0	2905,5558
+1931	NAGY Alexander	ž.Mária r.Mátyusová	0	5505
+1931	NAGY František	syn Júliusa	0	5656
+1931	NAGY Július	PKV6636	0	6299
+1931	NAGY Július	ž.Mária r.Puskásová	0	5983
+1931	NAGY Ladislav	ž.Agnesa r.Dibuszová	0	5865
+1931	NAGY Tibor František		0	5656
+1931	NAGY Vilhelm	ž.Gizela r.Mátyusová	0	6465
+1931	NAGYOVÁ Agnesa	r.Balhová m.Viliam	0	3474,4021,6467,6468,6597
+1931	NAGYOVÁ Agnesa	r.Palusková m.Gejza	0	5435
+1931	NAGYOVÁ Barbora	r.Dobosiová m.František	0	5316
+1931	NAGYOVÁ Juliana	r.Harisová m.Július	0	5656
+1931	NAGYOVÁ Verona	r.Čontošová	0	6545
+1931	NEDECZKY Andrej		0	5580
+1931	NEMCSEKOVÁ Mária	r.Tóthová m.Andrej	0	5431
+1931	NEMES Andrej		0	5384
+1931	NEMES Baltazár a NEMESOVÁ Mária	r.Ihracsková	0	5902
+1931	NEMES Ernest, Nesvady, SR	zom. 24.10.2002	0	2722
+1931	NEMES Gašpar	ž.Júlia r.Mátyusová	0	6668
+1931	NEMES Imrich		0	3658,3706,3830,5201,5202,5258,5259,5998,7800,8054
+1931	NEMES Jozef	mal	0	5703,6531,6708,6722
+1931	NEMES Jozef	PKV2415	0	6529
+1931	NEMES Jozef	PKV705	0	5598,6533,6534,6808
+1931	NEMES Ľudovít		1	2722,3658,3706,3830,5201,5202,5258,5259,5998,6625,7800,8054
+1931	NEMES Ľudovít	PKV2415	0	6529
+1931	NEMES Ľudovít	ž.Mária r.Harisová	0	6529
+1931	NEMES Ľudovít	ž.Mária r.Tóthová	0	5428
+1931	NEMES Michal	ž.Katarína r.Belokosztolszkyová	0	6881
+1931	NEMES Ondrej	PKV2415	0	6529
+1931	NEMES Peter	PKV1138	0	6717
+1931	NEMES Peter	ž.Mária r.Dibusová	0	3723,6850
+1931	NEMES Štefan		0	6197
+1931	NEMES Vincent	mal	0	5703,6531,6708,6722
+1931	NEMES Vincent	ž.Júlia r.Papová	0	6668
+1931	NEMESOVÁ Alojzia	mal	0	6865
+1931	NEMESOVÁ Anna	r.Molnárová	0	6096
+1931	NEMESOVÁ Apolónia r. Marázová		0	3445
+1931	NEMESOVÁ Cecília	mal	0	5703,6531,6708,6722
+1931	NEMESOVÁ Juliana	mal	0	5703,6531,6708,6722
+1931	NEMESOVÁ Juliana	r.Cserepesová m.Ľudovít	0	6717
+1931	NEMESOVÁ Lujza	r.Gyürössiová m.Ľudovít	0	6137,6138
+1931	NEMESOVÁ Lujza	r.Kelemenová	0	5567
+1931	NEMESOVÁ Mária	PKV1087	0	6881
+1931	NEMESOVÁ Mária	PKV2415	0	6529
+1931	NEMESOVÁ Mária	r.Benčíková	0	3363,3365,5405,5468,6153,6883,7021,7787,7788,7864,8032
+1931	NEMESOVÁ Mária	r.Dibuszová m.Peter	0	5540
+1931	NEMESOVÁ Mária	r.Holenková	0	5599
+1931	NEMESOVÁ Mária	r.Holenková m.Martin	0	5598,6534,6808
+1931	NEMESOVÁ Rozália	r.Molnárová m.Vincent	0	6780
+1931	NEMEŠ Jozef	ž.Apolónia r.Marázová	0	6763
+1931	NEMEŠ Ľudovít	ž.Barbora r.Pásztóová	0	6881
+1931	NEMEŠ Vincent	ž.Rozália r.Molnárová	0	3993,3994
+1931	NEMEŠOVÁ Agnesa	r.Keresztešová m.Albert	0	4839
+1931	NEMEŠOVÁ Apolónia	r.Marázová m.Jozef	0	6763
+1931	NEMEŠOVÁ Margita r. Györeová, Nesvady, SR	m.Imrich	1	2722
+1931	NÉMETH Dionýz	ž.Alžbeta r.Lebóová	0	6740
+1931	NÉMETH Jozef		0	2902,5210,5211
+1931	NÉMETH Jozef	mal	0	4622,4623
+1931	NÉMETH Jozef	PKV1428	0	2901
+1931	NÉMETH Jozef	ž.Mária r.Lukacsovicsová	0	2903,2905
+1931	NÉMETH Ľudovít		0	2905
+1931	NÉMETHOVÁ Lujza	r.Mikleová m.Jozef	0	4419,6990

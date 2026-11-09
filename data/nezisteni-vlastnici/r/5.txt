@@ -1,0 +1,256 @@
+6	Kapráľ Jozef	PKV 27	0	490
+6	Kapráľ Jozef	po Jánovi a Barbore r.Krajňák	0	119
+6	KAPRAĽ Michal	po Jozefovi	0	203
+6	KAPRAĽOVÁ Anna	po Michalovi	0	556
+6	KAPRÁĽOVÁ Dorota		0	490,491
+6	KAPRÁĽOVÁ Dorota	po Jánovi a Barbore r.Krajňák	0	119
+6	Katuš Andrej	PKV 20	0	277,525
+6	KATUŠ Andrej	syn Jozefa	0	490,496
+6	KATUŠ Ján	mal	0	277,525
+6	KATUŠ Michal	PKV 20	0	277,490,491,519,520,521,525,695
+6	KATUŠ Michal	PKV 30	0	490,491
+6	KATUŠ Michal	PKV 41	0	490,491,496
+6	KATUŠA Andrej	Kolesár	0	277,525
+6	KATUŠA Michal	PKV 30	0	296
+6	KATUŠA Michal	po Dorote r.Kočerhovej	0	462,495
+6	KATUŠA Michal	po Michalovi	0	65,395,559
+6	KATUŠOVÁ Mária	Kolesár	0	277,490,491,519,520,521,525,695
+6	KATUŠOVÁ Mária	PKV 20	0	277,525
+6	KATUŠOVÁ Mária	PKV 30	0	296
+6	KATUŠOVÁ Mária	po Michalovi	0	65,559
+6	Katušová Mária r. Križová		0	110
+6	KOČERHA Ján	po Anne r.Hirkovej	0	107,348,688
+6	KOČERHOVÁ Anna	PKV 41	0	490,491,496
+6	KOČERHOVÁ Anna	PKV 63	0	490,491
+6	KOČERHOVÁ Anna	po Jánovi	0	462,495
+6	KOČERHOVÁ Anna	po Jánovi a Márii r.Kapráľovej	0	397,500
+6	KOČERHOVÁ Anna r. Štecová		0	203,354,403,490,491,714
+6	KOČERHOVÁ Barbara	PKV 196	0	490,491
+6	Kočerhová Mária		0	110,414,490,491
+6	KOČERHOVÁ Mária	po Jánovi	0	462
+6	KOČERHOVÁ Mária	po Štefanovi Semančíkovi	0	15
+6	KOROPČÁKOVÁ Mária r. Krištofová		0	490,491
+6	KRAJŇÁK Andrej	PKV 22	0	355,490,491
+6	Krajňák Ján		0	490
+6	Krajňák Ján	PKV 102	0	368
+6	KRAJŇÁK Ján	kúpa od Michala Rajnu	0	92
+6	KRAJŇÁK Ján	kúpa od Štefana	0	551
+6	KRAJŇÁK Ján	PKV 10	0	490,491
+6	KRAJŇÁK Ján	PKV 118	0	384
+6	KRAJŇÁK Ján	PKV 85	0	116,355,490,491
+6	KRAJŇÁK Ján	po Márii r. Hirkovej	0	232,259,349,358,382,388,564
+6	Krajňák Jozef	PKV 154	0	553
+6	KRAJŇÁK Jozef	kúpa od Anny	0	194,259,358,402
+6	KRAJŇÁK Jozef	kúpa od Kataríny,Jána,Štefana,Michala	0	553
+6	KRAJŇÁK Jozef	po Michalovi	0	194,259,358,402
+6	KRAJŇÁK Michal	po Anne r.Kuropčák	0	252
+6	KRAJŇÁK Michal	syn Michala	0	177,194
+6	KRAJŇÁK Štefan	PKV 85	0	116,355,490,491
+6	KRAJŇÁK Štefan	po Dorote r. Hirkovej	0	232,259,349,358,382,388,564
+6	KRAJŇÁKOVÁ Dorota		0	194,402
+6	KRAJŇÁKOVÁ Dorota	po Jánovi	0	232,259,358,388
+6	KRAJŇÁKOVÁ Mária r. Hirková		0	92,368
+6	KRIŠTOF Andrej	Jakub	0	69,386,457,490
+6	Krištof Ján	PKV 201	0	490
+6	Krištof Ján	žena Anna r.Mihaliková	0	314
+6	KRIŠTOFOVÁ Barbara r. Hirková		0	382
+6	Križ Andrej	PKV 49, v Amerike	0	490
+6	KRIŽ Andrej	PKV 49 v Amerike	0	491
+6	KRIŽ Ján		0	392
+6	KRIŽ Ján	mal.po Dorote r.Repovej	0	15
+6	KRIŽ Ján	po Dorote Križovej r.Repovej	0	15
+6	KRIŽ Jozef	PKV 152	0	490
+6	KRIŽ Jozef	PKV 190	0	386
+6	KRIŽ Jozef	PKV 220	0	385
+6	KRIŽ Jozef	PKV 3	0	110,116,280,360,391,392,433,490
+6	KRIŽ Jozef	PKV 49,B8c	0	490
+6	KRIŽ Jozef	po Dorote Križovej r.Repovej	0	15,509,510
+6	KRIŽ Jozef	po Janovi	0	349,564
+6	KRIŽ Juraj	PKV 49	0	490,491
+6	KRIŽ Juraj	starší	0	490,491
+6	Križ Michal	PKV 49, v Amerike	0	490
+6	KRIŽ Michal	PKV 49 v Amerike	0	491
+6	KRIŽ Michal	po Dorote Križovej r.Repovej	0	15,510
+6	KRIŽOVÁ Alžbeta	PKV 49	0	490,491
+6	KRIŽOVÁ Anna	PKV 49	0	490,491
+6	KRIŽOVÁ Mária r. Kočerhová		0	15
+6	KROCHMAL Ján	PKV 10	0	490,491
+6	KUNDROVÁ Aňa r. Kočerhová	muž Ján	0	107,348,688
+6	LABA Juraj	PKV 51	0	490,491
+6	LABOVÁ Mária	PKV 51	0	490,491
+6	Ludvigová Anna r. Brečková	PKV 62	0	490
+6	LUDVIGOVÁ Anna r. Brečková		0	397,491,500
+6	MEDVEC Ján	po Andrej Krištof Zborovský	0	69,122,314
+6	MEDVEC Ján	po Jánovi	0	550
+6	MEDVEC Michal	po Andrej Krištof Zborovský	0	122,314
+6	MEDVECOVÁ Anna r. Gimetzkiová	PKV 71	0	116
+6	MOTYKA Štefan	PKV 36	0	490,491
+6	MOTYKOVÁ Mária	PKV 36	0	490,491
+6	Porembová Mária r. Hirková	PKV 53	0	490
+6	POREMBOVÁ Mária r. Hirková	muž Michal	0	384,491,550,561
+6	RAJNA Andrej	PKV 150	0	385,490
+6	Rajna Andrej r. Rajna	ž.Mária r.Hirková	0	385
+6	Rajna Ján	PKV 127,manželka Mária r.Uhrínová	0	490
+6	RAJNA Ján	ž.Mária r.Uhrinová	0	203,354,385,403,491,714
+6	RAJNA Štefan	PKV 97	0	385
+6	RAJNOVÁ Mária r. Uhrínová		0	107,348,391,490,688
+6	SEDLÁKOVÁ Anna	PKV 22	0	355,490,491
+6	SEDLÁKOVÁ Mária	PKV 22	0	355,490,491
+6	SEDLÁKOVÁ Mária	PKV 22,B15	0	355,490,491
+6	Sedláková Mária r. Ogbarská	vdova PKV 22	0	490
+6	SEDLÁKOVÁ Mária r. Ogbarská		0	355,491
+6	Semančík Andrej	PKV 45	0	490
+6	SEMANČÍK Andrej	po Jánovi	0	252,357
+6	Semančík Ján	manželka Dorota	0	490
+6	SEMANČÍK Ján	Koropčák,PKV 14	0	490,491
+6	SEMANČÍK Ján	PKV 40	0	203,354,370,403,490,491,714,718
+6	SEMANČÍK Ján	PKV 73	0	110,490,491
+6	SEMANČÍK Ján	po Jánovi Semančík Kuropčák	0	252,357
+6	SEMANČÍK Ján	po Semančik Juraj	0	556
+6	SEMANČÍK Ján	ž.Dorota	0	370,491,556,718
+6	SEMANČÍK Jozef	PKV 40	0	370,490,491,718
+6	SEMANČÍK Jozef	PKV 66	0	110,280,392,433
+6	SEMANČÍK Jozef	po Michalovi	0	107,348,688
+6	SEMANČÍK Jozef	po Semančík Ján	0	556
+6	Semančík Michal	PKV 13,B8	0	490
+6	SEMANČÍK Michal	PKV 13	0	203,354,403,491,714
+6	SEMANČÍK Michal	PKV 65	0	110,280,392,490,491
+6	SEMANČÍK Michal	po Jánovi	0	15,252,357
+6	SEMANČÍKOVÁ Barbora	kúpa od Anny Semančíkovej	0	305
+6	SEMANČÍKOVÁ Barbora	PKV 66	0	110,280,392,433,490,491
+6	SEMANČÍKOVÁ Barbora	po Michalovi	0	107,348,688
+6	Semančíková Dorota	muž Ján	0	370,491,556,718
+6	Semančíková Dorota	žena Jána Semančíka	0	490
+6	SEMANČÍKOVÁ Dorota	PKV 65	0	110,280,392,433,490,491
+6	SEMANČÍKOVÁ Júlia		0	110,280,392,433,490,491
+6	SEMANČÍKOVÁ Katarína	PKV 66	0	110,280,392,433,490
+6	SEMANČÍKOVÁ Katarína	po Michalovi	0	107,348,688
+6	SEMANČÍKOVÁ Mária r. Krištofová	Kuropčák,muž Ján	0	252,357
+6	Semančíková Mária r. Semančíková	PKV 45	0	490
+6	SEMANČÍKOVÁ Mária r. Semančíková	muž Ján	0	252,357,491
+6	ŠTEFKOVÁ Katarína r. Kapráľová		0	119,490,491
+6	UHRIN Michal	PKV 14	0	490,491
+6	UHRINOVÁ Anna	PKV 14	0	490,491
+6	Vardzík Andrej	PKV 71,manželka Dorota r.Kačkošová	0	116
+6	Vardzík Ján	PKV 54 manželka Anna r.Kačkošová	0	491
+6	Vardzík Ján	PKV 54,manželka Anna r.Kačkošová	0	490
+6	VARDZÍK Štefan	ž.Alžbeta r.Kucková R 11.11.1910	0	349,564
+6	Vardzík Štefan r. Vardzík	ž.Alžbeta r.Kucková	0	490
+6	Vardzíková Anna r. Kačkoš	muž Ján	0	252,357
+6	VARDZÍKOVÁ Dorota r. Kačkoš	muž Andrej	0	116
+6	VARDŽIK Štefan	PKV 123	0	490,491
+6	VARGOVÁ Mária r. Hirková Andrejova		0	456
+6	ZBOROVSKÁ Barbara	PKV 10	0	490,491
+6	ZBOROVSKÁ Mária	PKV 10	0	490,491
+6	ŽELEZNÍKOVÁ Mária r. Semančíková		0	15,110,280,392,433,490,491
+7	ÁBELOVÁ Pavlina	r.Petrová	1	1288
+7	BANAR Augustin		0	954
+7	BANAR Jan		0	937
+7	BANAR Karol		0	954
+7	BANÁR Pavol	ž.Anna r.Bútorová	1	1042
+7	BANAROVÁ Anna	r.Bútorová	1	1042
+7	BAŇÁROVÁ Mária	maloletá	1	1563
+7	BAŇÁROVÁ Pavlína	maloletá	1	1563
+7	BANIAR Ján	maloletý	1	1563
+7	BANIAROVÁ Anna	maloletá	1	1563
+7	BANIAROVÁ Katarína		1	1563
+7	BAROSS Karol	ž.Melánia r.Jedenáková	1	1434
+7	BILINA Frantisek		0	954
+7	Blaško Ján	nar.26.8.1899 , zom.11.6.1993; nar.26.8.1899	0	1432
+7	BUJNA Maria		0	941
+7	BUJNA Maria	r.Habdakova	0	923,924
+7	BUJNÝ Juraj	ž.Eva r.Kadlečíková	1	1121
+7	BULKO ADAM		1	1649
+7	BULKOVÁ KATARÍNA	rod.Bulková 11.12.1880	1	1646,1814
+7	BUŠOVÁ Lujza	r.Žambokrétiová	1	1270
+7	ČAPÁKOVÁ Mária	r.Bernátová	1	1480
+7	DOHŇANSKÝ Michal	Oravec, m.Katarína Liptáková	1	1657,1679
+7	DUDOVA Katarina		0	899
+7	ĎURECHOVÁ Mária	r.Masarovičová	1	1258,1259,1374,2045
+7	ĎURIKOVIČ Štefan	ž.Alžbeta Ďurikovičová	1	1612
+7	ERNST Julius		1	1270,1299
+7	FABIAN Ján	ž.Anna r.Zámečníková	1	1036,1248
+7	FABIANOVÁ Katarina	r.Profietová zom.17.6.1986	1	1044,1558,1613
+7	FÁBIK Pavol	ž.Anna r.Strechová-prvá žena	1	1002,1087
+7	FÁBIK Pavol	ž.Katarína r.Hladká	1	1282
+7	FÁBIKOVÁ Anna	r.Strechová,nar.15.3.1896,zom.18.1.1937	1	1002
+7	FÁBIKOVÁ Katarína	r.Hladká	1	1282
+7	FÁBIKOVÁ Katarína	r.Rybárová	1	1087
+7	FERENCOVÁ Mária	r.Baňárová	1	1563
+7	FRNKOVÁ Anna		1	1673
+7	GAJDOŠTIN Adam		1	1462
+7	GAJDOŠTÍNOVÁ Katarína	r.Krišková čd.3	1	1456,1462,1512,1872
+7	GAVALCOVÁ Paulina	r.Križanová	1	1544,1607,1712
+7	GEODETOVÁ Paulina	r.Kudlová	1	1181,1474
+7	GOREC Jozef		1	992
+7	HABDÁK JÁN		1	1647
+7	HABDAK Stefan	Maria Sukupova	0	940
+7	HABDÁKOVÁ ALŽBETA	rod.Liptáková	1	1647
+7	HLATKÁ Katarina		1	1047,1066,1110,1130,1376
+7	HLAVATÁ Anna	r.Pavlíková, zom.24.12.1985	1	1453,1462
+7	HLAVATÁ Eva	r.Žitníková	1	1119,1444
+7	HLAVATÝ Ondrej		1	1453
+7	Holička Ján		1	987,1661
+7	HOLIČKA Ján	ž.Alžbeta r.Habdáková	1	1079
+7	HOLIČKOVÁ Alžbeta	r.Habdáková	1	1079
+7	HOLOŠ DOMINIK	m.Katarína Kulichová 13.04.1912	1	1650
+7	HOLOŠ MICHAL, 913 11, Veľké Bierovce, č. 90, SR		0	1650
+7	HORNÁČKOVÁ Anna	r.Pavlíková	1	1047,1066,1110,1130
+7	HORŇÁČKOVÁ Anna r. Pavlíková		1	1376
+7	HORŇÁKOVÁ Alžbeta	r.Pavlíková	1	1613
+7	HORNAKOVA Anna	r.Dudova	0	899
+7	HORVÁT Juraj		1	1511
+7	Hurtoňová Anna r. Krišková		1	1127,1932
+7	CHLAPIK Adam	zosnuly	0	936
+7	CHLAPIK Michal		0	936
+7	CHLAPIK Stefan	syn Jana	0	936
+7	CHLAPÍK Štefan	maloletý	1	1433
+7	CHLAPIKOVA Anna	dcera Jana	0	936
+7	CHLAPÍKOVÁ Anna	r.Pavlíková	1	1299,1514,1566
+7	CHLAPÍKOVÁ Katarína	r.Mikulová	1	1044,1233,1393,1567
+7	CHORVÁT Ján	maloletý	1	1115,1475,1476
+7	CHORVÁT Jaroslav		1	1115,1475,1476
+7	CHORVÁT Juraj	maloletý	1	1115,1475,1476
+7	CHORVÁT Miloš	maloletý	1	1115,1475,1476
+7	CHRENKOVÁ Eva	r.Plesnivá	1	1044,1169,1247,1462,1587
+7	JANÍK Štefan		1	1613
+7	JANÍK Štefan	ž.Emilia r.Jurčová	1	1558,1567
+7	JANÍKOVÁ Anna	r.Zaťková, nar.20.7.1868, zom.23.7.1952	1	1613
+7	JASTRABIKOVA Anna	r.Banarova	1	937,1284
+7	JEŠKOVÁ Pavla	nar. 10.11.1896	1	1431
+7	JOŠTICOVÁ Katarina	r.Masarovičová	1	1258,1259,1374,2045
+7	JURČO JÁN	m.Anna rod.Hlavatá	1	1653,1679
+7	JURČOVÁ Anna	r.Hlavatá	1	1296
+7	JURČOVÁ ANNA	rod.Hlavatá, m.Ján Jurčo	1	1653,1679
+7	JURČOVÁ Zuzana	r.Mikulová	1	1290,1344
+7	JURÍČEK Ján		1	1102
+7	JURÍČKOVÁ Anna	r.Pavlíková	1	1102
+7	JURIKOVIČ Ján	ž.Eva r.Križanová	1	1119
+7	JURIKOVIČ Ján	ž.Katarína r.Pevná	1	1401,1466,1543,1549,1586,1612,1621
+7	JURIKOVIČOVÁ Eva	r.Križanová	1	1119
+7	JURIKOVIČOVÁ Katarina	r.Pevná	1	1401,1466,1543,1549,1586,1621
+7	KADLEČÍKOVÁ Eva	r.Macunková	1	1463
+7	KARDOŠOVÁ Anna	r.Križanová	1	1466,1586
+7	KELLEŠI Adam		1	1602
+7	KIŠŠ Miloš		1	1270
+7	KNAŠKOVÁ Eva		1	1482
+7	KNAŽKOVÁ Anna		1	1482
+7	KNAŽKOVÁ Eva		1	1482
+7	KNAŽKOVÁ Zuzana		1	1482
+7	KOLESÁROVÁ Oľga	r.Chorvátová	1	1115,1475,1476,1545
+7	KOLÍNEK Jozef	nar. 19.2.1891, ž.Pavlína r.Krúpová	1	1042,1089
+7	KOLÍNKOVÁ Pavlína	r.Krúpová, nar.19.3.1897	1	1089
+7	KOVÁČECH Ondrej	ž.Eva r.Plesnivá	1	1317
+7	KOVÁČECHOVÁ Eva	r.Plesnivá	1	1169,1317,1409
+7	KOVAČOVIČ Ondrej		1	1433
+7	KRAJČÍK Jaroslav		1	1252,1370,1443,1996
+7	KRECHÁČ Adam	brat JÁNA	1	1073,1616
+7	KRECHÁČ Adam	ž.Katarína r.Kudlová	1	1558
+7	KRECHÁČ Ján	Zem. Lieskové	1	1044,1071,1073,1316,1540,1558
+7	KRECHÁČ Ondrej	brat JÁNA	1	1044,1357,1441,1582,1613
+7	KRECHÁČ Ondrej	ž.Katarína r.Kňažková	1	1452
+7	KRECHÁČ Štefan	ž.Alžbeta r.Mikulová	1	1033,1044
+7	KRECHÁČ Štefan	ž.Anna r.Križanová	1	1044
+7	KRECHÁČOVÁ Alžbeta	r.Mikulová	1	1033
+7	KRECHÁČOVÁ Anna	r.Križanová	1	1071,1073,1227,1441
+7	Krecháčová Katarina		1	1715

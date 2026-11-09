@@ -1,0 +1,256 @@
+1265	Beňo Hreňo Michal		0	123,292,293,454,455
+1265	BEŇO Ján		0	228,660
+1265	Beňo Juraj	maloletý	0	218,513,538,543,544,605,608,697,705
+1265	BEŇO Juraj		0	106,314,318,683,785,786
+1265	BEŇO Michal		0	106,137,218,314,318,513,538,543,544,605,608,649,652,669,683,697,705,785,786
+1265	BEŇOVÁ Alžbeta		0	106,218,314,318,513,538,543,544,605,608,683,697,705,785,786
+1265	Beňová Anna	maloletá	0	218,513,538,543,544,605,608,697,705
+1265	Beňová Anna r. Sotáková		0	136,218,314,318,513,538,605,608,615,697,705,785,786
+1265	Beňová Anna r. Sotáková	m.Ján	0	311,312
+1265	BEŇOVÁ Mária		0	106,218,314,318,513,538,543,544,605,608,683,697,705,785,786
+1265	Beňová Zuzana r. Prokopová		0	123
+1265	BERKOVIČ Emanuel		0	218,314,318,785,786
+1265	BERKOVIČ Viliam		0	314,318,785,786
+1265	Bikkel Ester		1	590,768
+1265	Birovčáková Regína r. Michaličová		0	596
+1265	Biško Illeš	ž.Mária r.Korpitová	0	513,538,697
+1265	Bišková Anna r. Korpitová		0	513,538,572,697
+1265	Bodrogová Irena r. Gengeľová		0	581,774
+1265	Bojan Kudla Michal		0	463,465
+1265	Bučko Juraj	ž.Alžbeta r.Sláviková	0	218,513,538,580,614,697
+1265	Bučková Alžbeta	maloletá	0	578
+1265	Bučková Alžbeta r. Červeňáková		0	314,318,785,786
+1265	Bučková Alžbeta r. Sláviková		0	218,314,318,513,538,580,614,697,785,786
+1265	Bučková Mária r. Jacková		0	474
+1265	Cibereová Mária r. Hreňová		0	314,318,785,786
+1265	Cibiková Mária r. Hreňová		0	218,511,513,538,575,585,697
+1265	CICOVÁ Anna		0	168,259,513,538,605,608,628,697,705
+1265	Copko Ján	Amerikán	1	314,318,333,334,647,648,785,786
+1265	Copko Juraj	ž.Anna r.Cucková	1	333,334,647,648
+1265	Copko Juraj	ž.Anna r.Ondová	0	314,318,785,786
+1265	COPKO Michal		0	106
+1265	Copková Alžbeta r. Kovaliková		0	106
+1265	ČABIN Ileš		0	513,538,697
+1265	Červeňák Ján		1	47,172,218,314,318,426,513,538,553,605,608,648,678,697,705,785,786
+1265	Červeňák Ján	2	0	427
+1265	Červeňák Ján	3	0	605,608,705
+1265	Červeňák Ján	4	0	605,608,705
+1265	Červeňák Ján	maloletý	0	314,318,513,538,605,608,697,705,785,786
+1265	Červeňák Ján	ž.Alžbeta r.Andrusová	0	134,135,218,314,318,413,452,468,513,538,605,608,644,645,697,705,785,786
+1265	Červeňák Ján	ž.Anna r.Kostičáková	1	218,333,334,647
+1265	Červeňák Ján	ž.Mária r.Komárová	0	314,785,786
+1265	Červeňák Ján	ž.r.Komárová	0	318
+1265	Červeňák Ján	ž.Zuzana r.Petrová	0	54,237,314,318,654,655,785,786,793,795
+1265	Červeňák Juraj	ž.Mária r.Sláviková	0	314,318,785,786
+1265	ČERVEŇÁK Juraj		0	135,452,468,644,645
+1265	Červeňák Michal	1	0	605,608,705
+1265	Červeňák Michal	2	0	605,608,705
+1265	ČERVEŇÁK Michal		0	172,426,427,513,538,605,608,678,686,697,705
+1265	Červeňák Pavol	1	0	197,413,452,468,644,645
+1265	Červeňák Pavol	ž.Anna r.Beňová	0	135,452,468,644,645
+1265	Červeňák Pavol	ž.Júlia r.Kalkohusová	0	314,318,785,786
+1265	Červeňák Pavol	ž.Mária r.Džubová	0	314,318,785,786
+1265	ČERVEŇÁKOVÁ Alžbeta		0	314,318,413,452,468,644,645,785,786
+1265	Červeňáková Anna	maloletá	0	314,318,513,538,605,608,697,705,785,786
+1265	Červeňáková Anna r. Skybová		0	478,605,608,705
+1265	Červeňáková Anna r. Sláviková		0	218,513,538,605,608,697,705
+1265	Červeňáková Helena r. Petrová		0	459,556,557
+1265	Červeňáková Julia r. Kalkohusová		0	106
+1265	Červeňáková Mária r. Džubová		1	94,96,106,215,218,314,318,513,538,579,605,608,697,705,785,786
+1265	Červeňáková Mária r. Džubová	m.Pavol	0	95
+1265	Červeňáková Mária r. Hudáková		0	314,318,785,786
+1265	Červeňáková Mária r. Kráľová	vd	0	292,293,384,454,455
+1265	Červeňáková Mária r. Petrová		0	646
+1265	Červeňáková Mária r. Porostovská		0	101,218,314,318,513,538,580,605,608,697,705,785,786
+1265	Červeňáková Mária r. Sláviková		0	218,314,318,513,538,605,608,697,705,785,786
+1265	Červeňáková Zuzana		0	413,452,468,644,645
+1265	Červeňáková Zuzana r. Petrová		0	54,126,127,218,237,554,654,655,793,794,795
+1265	Čuhaničová Mária r. Petrová		0	54,167,218,237,314,318,513,538,654,655,697,785,786,793,795
+1265	DANČÍK Ján		0	121,167,202,203,204,218,314,318,319,320,513,538,605,608,697,705,785,786
+1265	Dančík Michal	ž.Alžbeta r.Haburajová	0	600
+1265	Dančíková Alžbeta r. Haburajová		0	600
+1265	Dančíková Mária r. Novotňáková		0	591
+1265	Danko František		1	590,768
+1265	DANKO Juraj		0	139,218,314,318,348,502,513,538,563,633,634,642,658,659,661,697,736,737,741,745,746,781,785,786,788
+1265	Danko Michal	ž.Júlia r.Semivanová	0	605,608,705
+1265	DANKO Michal		0	218,513,538,548,563,642,658,659,697,741,781
+1265	DANKO Štefan		1	218,513,538,563,590,697,768
+1265	Danková Anna r. Kicová		0	548,549,651
+1265	Danková Julia r. Semivanová		0	139,218,314,318,348,502,513,538,563,605,608,633,634,642,658,659,661,697,705,736,737,741,745,746,781,785,786,788
+1265	Denci Dudik Michal	ž.Anna r.Nováková	0	68,482,483,500,742
+1265	Denci Dudik Michal	ž.Anna r.Nováková; ž.Anna r.Nováková	0	499
+1265	Denci Dudiková Anna r. Nováková		0	68,482,483,499,500,742
+1265	Dinič Ján	maloletý	1	94,215,218,314,318,605,608,705,785,786
+1265	DINIČ Ján		0	513,538,697
+1265	Dinič Michal		1	94,215,218,314,318,557,558,605,608,705,785,786
+1265	Diničová Alžbeta		1	94,215,218,513,538,557,558,697
+1265	Diničová Anna		1	94,215,218,513,538,557,558,697
+1265	Domašínska Julia r. Rošáková		1	74,218,314,318,457,458,513,538,548,549,605,608,651,671,697,705,785,786
+1265	Dorunda Ján	maloletý	0	605,608,705
+1265	DORUNDA Juraj		0	670
+1265	Dorunda Mokoročák Juraj		0	314,318,785,786
+1265	DORUNDA Pavol		0	648,670
+1265	Dorundová Anna r. Džubová		0	698
+1265	Drapač Ján	maloletý	0	649
+1265	Drapač Michal	maloletý	0	649
+1265	Drapačová Mária r. Kormošová		0	426,630,649
+1265	Dudášová Anna r. Kicová		0	106
+1265	Dunda Michal		1	590,768
+1265	Dundová Mária r. Zeligová		0	218,314,318,513,538,570,605,608,621,623,697,705,771,772,785,786
+1265	Düre Vojtech		1	94,215
+1265	Düre Vojtech	ž.Julia .Diničová	1	34,115,218,369,513,538,557,558,589,620,628,697
+1265	Düreová Julia r. Diničová		1	94,114,150,215,218,369,513,538,557,558,589,620,628,639,697
+1265	Ďuricová Ema r. Fedorová		0	144,145,344,636
+1265	Džuba Andrej		1	94,95,96,106,215,218,314,318,785,786
+1265	Džuba Andrej	syn Andreja a Márie r.Diničovej	0	513,538,579,605,608,697,705
+1265	Džuba Ján	syn Andreja a Márie r.Diničovej	0	218,513,538,579,605,608,697,705
+1265	DŽUBOVÁ Anna		0	314,318,579,605,608,705,785,786
+1265	DŽUBOVÁ Anna	r.Thurová	0	314,608,785,786
+1265	DŽUBOVÁ Anna r. Thurová		0	318,369,513,538,605,697,705
+1265	Džubová Mária r. Dorundová		0	698
+1265	Ecker Alexander		1	74,106,218,314,318,457,545,548,549,605,608,705,785,786
+1265	Eckerová Róza r. Lebovičová		0	314,318,326,331,785,786
+1265	Eichlerová Saidel r. Lebovičová		0	24,514,528
+1265	Eichlerová Saindl r. Lebovičová		1	74,218,314,318,326,331,457,545,548,549,594,605,608,632,705,785,786
+1265	Fečková Júlia r. Rošáková		0	605,608,705
+1265	FEČKOVIČ Jozef		0	123,292,293,454,455
+1265	FEČKOVIČ Michal		0	123,292,293,454,455
+1265	FELEGI Ján		1	226,590,768
+1265	FELEGI Michal		0	218,233,314,318,543,605,608,705,785,786
+1265	Felegiová Alžbeta r. Makarová		1	74,106,218,314,318,457,513,538,551,560,605,608,624,627,697,705,785,786
+1265	FELLEGI Michal		0	513,538,697
+1265	Filip Michal	maloletý	0	218,314,318,568,569,640,641,785,786
+1265	Filip Michal	ž.Alžbeta r.Kicová	0	99
+1265	FILIP Michal		0	455
+1265	Filipová Alžbeta r. Kicová	m.Michal	0	99
+1265	Filipová Alžbeta r. Kicová	vdova	0	218,314,318,640,641,785,786
+1265	Filipová Mária	maloletá	0	568,569,640,641
+1265	FRIEDMAN Abrahám		0	218,314,318,579,605,608,705,785,786
+1265	Friedmanová Chaja r. Lebovičová		0	704
+1265	Friedmanová Pepi	maloletá	0	704
+1265	Gajdula Juraj r. Gajdula		0	123,228,292,660,676
+1265	Gajdulová Anna r. Humeníková		0	123,228,292,676
+1265	Gauzová Helena r. Moškovičová		0	427
+1265	Genegeľ Pavol		1	590,768
+1265	GENGEĽ Július		0	581,774
+1265	GENGEĽ Theodor		0	581,774
+1265	GENGEĽOVÁ Anna		0	581,774
+1265	Gengeľová Anna r. Makausová		0	581,774
+1265	GENGEĽOVÁ Mária		0	581,774
+1265	Gergeľová Anna r. Čermáková		0	68,482,483,499,500,742
+1265	Gutičová Anna r. Kepičová		0	115,168,218,229,259,314,318,385,513,538,605,608,628,697,705,785,786
+1265	Gutičová Anna r. Paulová		0	24,514,528,632
+1265	Haburaiová Mária r. Pončičová		0	218,222,319,513,538,697
+1265	Haburajová Mária r. Kicová		0	314,318,785,786
+1265	Haburajová Mária r. Pirčáková		0	218,314,318,513,538,605,608,685,697,705,785,786
+1265	Halagovičová Mária r. Semivanová		0	24,218,314,318,513,514,528,538,545,594,605,608,632,697,705,785,786
+1265	Halagovičová Mária r. Semivanová	Pavol	0	514,528
+1265	HAĽKO Michal		0	314,318,785,786
+1265	Haľková Julia r. Rošáková		0	106
+1265	Haluzová Anna		0	610
+1265	HAMÁŠ Andrej		0	228,660
+1265	Holotová Mária r. Zeligová		0	218,314,318,513,538,570,605,608,621,623,697,705,771,772,785,786
+1265	Homoľová Anna r. Kalkahusová		0	314,318,785,786
+1265	Hönigová Blanka r. Berkovičová		0	314,318,785,786
+1265	Hönigová Regina r. Lebovičová		0	314,318,785,786
+1265	Hrabár Ladislav	ž.Žofia r.Barešová	0	68,482,483,499,500,742
+1265	Hrabárová Žofia r. Barešová		0	68,482,483,499,500,742
+1265	Hreňko Ján	maloletý	0	122
+1265	HREŇO Andrej		0	144,145,218,314,318,344,345,347,513,538,586,605,608,636,665,697,705,769,785,786
+1265	Hreňo Baľo Juraj	ž.Mária r.Pavliková	0	68,482,483,499,500,742
+1265	Hreňo Baľová Mária r. Pavliková		0	68,482,483,499,500,605,608,705,742
+1265	Hreňo Ján		0	218,222
+1265	Hreňo Ján	maloletý	0	513,538,570,605,608,623,697,705,771,772
+1265	HREŇO Michal		0	137,218,314,318,511,513,538,543,544,575,585,605,608,683,697,705,785,786
+1265	Hreňová Anna		0	151,222,560,601,624
+1265	Hreňová Anna	maloletá	0	218,513,538,570,605,608,623,697,705,771,772
+1265	Hreňová Anna r. Kicová		0	344,347,586
+1265	Hreňová Anna r. Sotáková		0	137,173,218,513,538,543,544,592,605,608,683,697,705
+1265	Hvižďaková Mária r. Varoščaková		0	416
+1265	Hvozďáková Mária r. Dančíková		0	587
+1265	Iciklaip		1	590,768
+1265	Jacko Čuhanič Ján		0	474
+1265	JACKO Ján		0	474
+1265	Jacko Michal	1	0	454
+1265	Jacko Michal	maloletý	0	218,280,314,318,513,538,543,544,605,608,697,705,779,785,786
+1265	JACKOVÁ Anna		0	474
+1265	JAKUBOVIČ Abraham		0	409
+1265	JAKUBOVIČ Adel		0	409
+1265	JAKUBOVIČ Jakab		0	314,318,785,786
+1265	Jakubovič Ján		1	74,218,314,318,326,331,457,548,549,785,786
+1265	JAKUBOVIČ Jozef		0	409
+1265	JAKUBOVIČ Juda Michal		0	106
+1265	JAKUBOVIČ Lipot		1	51,177,178,179,180,314,318,409,550,785,786
+1265	JAKUBOVIČ Rudolf		1	51,177,178,179,180,314,318,409,550,785,786
+1265	Jakubovič Samuel		1	74,218,326,331,457,548,549
+1265	JAKUBOVIČ Šalamon		0	605,608,705
+1265	Jakubovič Šimon		1	74,218,314,318,326,331,457,785,786
+1265	Jakubovičová Anna r. Davidovičová		0	548
+1265	Jakubovičová Anna r. Kalňanská		0	549
+1265	JAKUBOVIČOVÁ Hani		0	409
+1265	Jakubovičová Jila r. Moškovičová		0	314,318,785,786
+1265	Jakubovičová Mali r. Kronovičová		0	218,314,318,550,605,608,705,785,786
+1265	JAKUBOVIČOVÁ Rezi		0	409
+1265	JAKUBOVIČOVÁ Sára		0	409
+1265	JANOČIK Ján		0	553
+1265	JANOČIK Jozef		0	553
+1265	JANOČIK Vojtech		0	553
+1265	Jaňovka Ján		1	590,768
+1265	Jaňovková Anna r. Kepičová		0	115,168,259,609
+1265	Jenčo Čuroš Michal		0	68,482,483,499,500,742
+1265	Jenčová Mária r. Pavlovčáková		0	68,482,483,499,500,742
+1265	Kačúrová Anna r. Obitková		0	688
+1265	Kaizerová Anna		0	553
+1265	Kalanin Michal	ž.Anna r.Kačurová	0	687
+1265	KALANIN Pavol		0	228,660
+1265	Kalcen Ján		0	218
+1265	Kalcen Ján	ž.Anna r.Vorčinská	0	218
+1265	KALKAHUS Elek		0	314,318,785,786
+1265	KALKAHUS Michal	malol	0	314,318,785,786
+1265	Kalkahusová Anna		0	619
+1265	KALKAHUSOVÁ Barbora	malol	0	314,318,785,786
+1265	KALKAHUSOVÁ Júlia	malol	0	314,318,785,786
+1265	Kalkahuzová Anna		0	24
+1265	Kalkahuzová Anna, SR		0	514,528
+1265	Kalkahuzová Ilona r. Kuraž, SR		0	514,528
+1265	Kalkahuzová Ilona r. Kuražová		0	24
+1265	KALKOHUS Elek		0	605,608,705
+1265	KALKOHUS Elek	1	0	605,608,705
+1265	KALKOHUS Elek	matka Anna r.Kudriková	0	218
+1265	KALKOHUS Elek	ž.Elena r.Kurážová	0	513,538,605,608,697,705
+1265	KALKOHUS Ján		0	168,308,385,529,561,643
+1265	KALKOHUS Ján	ž.Barbora r.Kudlová	0	218,314,318,513,538,605,608,697,705,785,786
+1265	KALKOHUS Ján	ž.Júlia r.Petrová	0	156,168,228,308,529,561,643,660
+1265	KALKOHUS Juraj		0	168,308,561
+1265	KALKOHUS Juraj	malol	0	218
+1265	KALKOHUSOVÁ Anna		0	218,314,318,371,513,538,632,637,664,697,785,786
+1265	KALKOHUSOVÁ Anna	r.Maximová	0	608,792
+1265	KALKOHUSOVÁ Anna r. Maximová		0	168,561,605,657,705
+1265	KALKOHUSOVÁ Ilona	r.Kurážová	0	608
+1265	KALKOHUSOVÁ Ilona r. Kurážová		0	513,538,605,632,697,705
+1265	KALKOHUSOVÁ Mária		0	111,168,218,385,513,538,605,608,638,697,705
+1265	KALKOHUSOVÁ Mária	malol	0	513,538,605,608,697,705
+1265	KALKOHUSOVÁ Mária	maloletá	0	385
+1265	Karch Michal	ž.Zuzana r.Matová	0	68,482,483,499,500,742
+1265	Karchová Zuzana r. Matová		0	68,482,483,499,500,742
+1265	Karsíková Anna r. Červeňáková		0	172,218,426,513,538,605,608,678,697,705
+1265	Karsíková Mária r. Dorundová		0	427
+1265	Karšíková Mária r. Červeňáková		1	47
+1265	Kaščaková Alžbeta r. Dudinská		0	68,482,483,499,500,742
+1265	Kendereš Ján		0	68,482,483,499,500,742
+1265	Kepič Andrej	maloletý	0	218,513,538,697
+1265	KEPIČ Andrej		0	628
+1265	KEPIČ Ján		0	513,538,605,608,697,705
+1265	Kepič Michal	maloletý	1	34,115,218,259,314,318,513,538,605,608,697,705,785,786
+1265	KEPIČ Michal		0	308,609,628
+1265	Kepičová Anna	maloletá	0	314,318,697,785,786
+1265	Kepičová Anna r. Kriváková		1	47,172,218,314,318,511,513,538,575,605,608,678,697,705,785,786
+1265	Kepičová Anna r. Ondríková		0	513,538,697
+1265	KEPIČOVÁ Mária		0	115,218,314,318,513,538,605,608,697,705,785,786
+1265	KEREŠTANOVÁ Anna	r.Lakatošová	0	314,785,786
+1265	KEREŠTANOVÁ Anna r. Lakatošová		0	318
+1265	KICA Andrej		0	106,218,314,318,513,538,605,608,662,697,705,785,786
+1265	KICA Andrej	1	0	605,608,705
+1265	KICA Andrej	ž.Zuzana r.Felegiová	0	314,318,513,538,697,785,786
+1265	Kica Ján	ž.Mária r.Pirčáková	1	51,177,178,179,180,218,314,318,513,538,550,605,608,697,705,785,786
+1265	KICA Ján		0	106,114,218,280,314,318,513,538,543,544,605,608,620,662,680,697,705,779,785,786

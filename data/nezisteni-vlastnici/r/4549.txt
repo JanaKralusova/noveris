@@ -1,0 +1,256 @@
+2573	SERES Karol	syn Jána a Ester	1	2251
+2573	SERES Štefan		1	2261
+2573	SERESOVÁ Juliana	rod.Deáková m.Dávid	1	1756
+2573	SERESOVÁ Lídia	rod.Nagyová m.Ľudovít	1	1756,2203
+2573	SCHMIDTOVÁ Anna	rod.Rampašeková m.Vojtech	1	854
+2573	SCHNÁBELTOVÁ Alžbeta	rod.Valková, Selice č.505	0	1915,2134
+2573	SCHULKOFOVÁ Helena		1	2318
+2573	SLEKOVICS Štefan	ž.Mária rod.Kissová	1	223,2467
+2573	SLEKOVICSOVÁ Mária	rod.Kissová m.Štefan	1	223,2467
+2573	SOLTO Anton	slabomyselný	1	1947
+2573	SOLTO Július		1	1947
+2573	SOLTO Štefan	slabomyselný	1	1947
+2573	SOLTOVÁ Mária	slabomyselná	1	1947
+2573	SOMBATH Ľudovít	ž.Veronika rod.Rybanská	1	150,2466
+2573	SOMBATH Štefan	syn Štefana	1	150,2051,2466
+2573	SPENÁTOVÁ Paulína	rod.Kuruczová m.Vojtech	1	201,235
+2573	STANGOVÁ Helena	rod.Brenkušová m.Štefan	1	2361
+2573	SUKOLOVÁ Júlia	rod.Lászlová	1	443,1075,1665,2547,2550
+2573	SUPENA Anton		1	433,2393
+2573	SUPENA Ján	ž.Sidonia rod.Tothová, Selice č.229	0	2393
+2573	SUPENA Ľudovít		1	433,2393
+2573	SUPENOVÁ Sidonia	rod.Tothová m.Ján	1	433
+2573	SVAJDA Štefan		1	2356,2403
+2573	SVAJDOVÁ Alžbeta		1	2303
+2573	SVAJDOVÁ Anna		1	2356,2403
+2573	SVAJDOVÁ Júlia	mal	1	2356,2403
+2573	SVAJDOVÁ Júlia	rod.Csukovicsová m.Ján	1	2356
+2573	SVAJDOVÁ Mária		1	2356,2403
+2573	SVAJDOVÁ Sidonia	mal	1	2356,2403
+2573	SVAJDOVÁ Terézia	mal	1	2356,2403
+2573	SVETKO Ľudovít	ž.Mária rod.Polásová	1	1924
+2573	SZABO Alexander		1	1145
+2573	SZABO Alexander	ž.Estera rod.Csizmádiová	1	1299,1701,2684
+2573	SZABO Daniel		1	1808,2285
+2573	SZABO Ernest		1	2351
+2573	SZABO Ernest	Selice č.220	1	2405
+2573	SZABO Imrich		1	1808,2285
+2573	SZABO Imrich	syn Alexandra	1	2285
+2573	SZABO Ján		1	2152,2153
+2573	SZABO Karol	ž.Klára rod.Csizmádiová	1	1808,2285
+2573	SZABO Štefan	ž.Antonia rod.Kudiková	1	1838
+2573	SZABOVÁ Alžbeta	rod.Buchalová	1	2349
+2573	SZABOVÁ Anna	rod.Tothová m.Anton	1	2185
+2573	SZABOVÁ Ester	rod.Polgárová m.Daniel	1	1860,1863,2666,2784
+2573	SZABOVÁ Etela	rod.Mandáková m.Ernest	1	2376
+2573	SZABOVÁ Katarína	rod.Bopková m.Karol	1	2050
+2573	SZABOVÁ Klára	rod.Nagyová m.František	1	1756,2283
+2573	SZABOVÁ Margita	rod.Fialová m.František	1	2346
+2573	SZABOVÁ Mária	rod.Seresová m.Štefan	1	2261
+2573	SZABOVÁ Rozália	rod.Szombathová m.František	1	2035
+2573	SZALÁKOVÁ Helena	rod.Tothová m.Ján	1	1313
+2573	SZALAY Eugen	mal	1	1581,1745,1747
+2573	Szentgyörgyiová Ida r. Csernyanszky		1	343,1926,1996
+2573	SZITÁS Gašpar	ž.Helena rod.Orisková	1	2031
+2573	SZITÁS Ján	Selice č.48	1	2407
+2573	SZITÁS Ján	ž.Júliana rod.Balázsiová,Selice č.544	0	1490,1563,2533
+2573	SZITÁS Jozef	ž.Helena rod.Haulíková	1	1062
+2573	SZITÁS Laurinec		1	1936
+2573	SZITÁS Štefan	ž.Etela rod.Rybanszká	1	1563,2150,2533
+2573	SZITÁSOVÁ Anna	rod.Veresová m.Karol	1	2070,2117
+2573	SZITÁSOVÁ Etela	mal	1	1207,1845,1851,2514,2515,2530,2615,2616,2618,2619,2620
+2573	SZITÁSOVÁ Juliana	rod.Balázsiová m.Ján	1	1158,2081
+2573	SZITÁSOVÁ Mária	mal	1	1563,2533
+2573	SZITÁSOVÁ Sidonia		1	1936
+2573	SZITÁSOVÁ Sidonia	rod.Mészárosová m.Jozef	1	2076
+2573	SZITÁSOVÁ Terézia	rod.Takácsová m.Ľudovít	1	1764,1766,1867
+2573	SZÖCS Alexander		1	1063
+2573	SZÖCS Dávid	mal	1	2451
+2573	SZÖCS Gašpar	ž.Juliana rod.Molnárová	1	1768
+2573	SZÖCS Gejza		1	2266
+2573	SZÖCS Július		1	2266
+2573	SZÖCS Karol	mal	1	2451
+2573	SZÖCS Karol	ž.Mária rod.Pereczová	1	1474
+2573	SZÖCS Koloman		1	2266
+2573	SZÖCS Ladislav	ž.Juliana rod.Kollárová	1	260,1063,2032,2370,2451
+2573	SZÖCS Štefan		1	2038,2082,2161
+2573	SZÖCSOVÁ Helena		1	260,2032,2370,2451
+2573	SZÖCSOVÁ Helena	mal	1	2266
+2573	SZÖCSOVÁ Juliana	rod.Molnárová m.Gašpar	1	1768
+2573	SZÖCSOVÁ Karolína	rod.Tothová m.Koloman	1	2193
+2573	SZÖCSOVÁ Lídia	rod.Szorádová m.Štefan	1	2295
+2573	SZÖCSOVÁ Margita	rod.Poláková m.Jozef	1	2370
+2573	SZÖKEOVÁ Klára	rod.Iványiová,Solymár,MünichFerenc ut.MR	1	2012
+2573	SZORÁD Daniel	mal	1	2185
+2573	SZORÁDOVÁ Estera	rod.Csizmádiová	1	1080,1730
+2573	SZORÁDOVÁ Estera	rod.Molnárová m.Július	1	2222
+2573	SZORÁDOVÁ Estera	rod.Seresová m.Ján	1	2261
+2573	SZORÁDOVÁ Gizela		1	2185
+2573	SZORÁDOVÁ Helena	rod.Polgárová m.Daniel	1	2185
+2573	SZORÁDOVÁ Klára	rod.Deáková m.Dávid	1	2259
+2573	SZORÁDOVÁ Kristína	mal	1	2185
+2573	SZOVICSOVÁ Sidonia	Selice č.159	1	2401
+2573	SZÜCSOVÁ Barbora	rod.Narancsíková m.Ján	1	474
+2573	ŠARVAN Ján	ž.Etela rod.Nováková, Selice č.118	0	2396
+2573	ŠIMČÍK Július	Selice 783	1	235
+2573	ŠIMČÍKOVÁ Juliana	rod.Karvaiová m.Ján	1	213,235,2141
+2573	ŠKABLOVÁ Mária	rod.Sombathová m.Ľudovít	1	150,2051,2466
+2573	ŠTEKLOVÁ Júlia	rod.Adlerová	1	2030,2115
+2573	ŠTREBA Ladislav	ž.Terézia rod.Fehérová	1	132,133
+2573	Šupena Imrich r. Šupena	Selice 608	1	2302
+2573	Šupenová Terézia r. Kozáčeková	Selice	1	1906,2302,2344
+2573	ŠVÉD Benjamín	ž.Vilma rod.Somogyová	1	2251
+2573	ŠVÉD Štefan		1	1145
+2573	ŠVÉD Štefan	ž.Lilla rod.Jobbágyová	1	2237,2681
+2573	ŠVÉDOVÁ Vilma		1	2187,2683
+2573	TAKÁCS Albert	ž.Paulína rod.Ambroziová	1	2268
+2573	TAKÁCS Eduard		1	1126
+2573	TAKÁCS Žigmund	ž.Ida rod.Fülöpová	1	1975
+2573	TAKÁCSOVÁ Karolína		1	1299
+2573	TAKÁCSOVÁ Klára	rod.Tothová m.Pavol	1	2241
+2573	TAKÁCSOVÁ Mária	rod.Fialová m.Jozef	1	2346
+2573	TAKÁCSOVÁ Paulína	rod.Ambroziová m.Albert	1	2268
+2573	TAMASKOVICS Július	mal	1	2079
+2573	TAMASKOVICSOVÁ Helena	mal	1	2079
+2573	TAMASKOVICSOVÁ Margita	mal	1	2079
+2573	TANÍTOVÁ Magdaléna	rod.Szalaiová m.Karol	1	2197
+2573	TANÍTOVÁ Matilda	rod.Kúnová m.Július	1	2442
+2573	TASSI František	ž.Mária rod.Szabová	1	2153
+2573	TASSIOVÁ Mária	rod.Szabová m.František	1	2153
+2573	TEBERI Gabriel	mal	1	162,166
+2573	TEBERIOVÁ Anna		1	162,166
+2573	TOTH Alexander		1	443,1075,1665,2547,2550
+2573	TOTH Alojz		1	1313
+2573	TOTH František	ž.Júlia rod.Szöcsová	1	2241
+2573	TOTH Ján	ž.Anna rod.Dolníková	1	2456
+2573	TOTH Július	ž.Klára Csizmádiová	1	2228
+2573	TOTH Július	ž.Mária rod.Mandáková	1	2368
+2573	TOTH Koloman		1	1701,2684
+2573	TOTH Koloman	ž.Justína rod.Andová	1	1474,1592
+2573	TOTH Ľudovít		1	2368
+2573	TOTH Pavol		1	2185,2232
+2573	TOTH Peter		1	443,1075,1665,2547,2550
+2573	TOTH Štefan		1	1313
+2573	TOTH Štefan	ž.Mária rod.Pápayová	1	2169
+2573	TOTH Vincent		1	443,1075,1665,2547,2550
+2573	TOTHOVÁ Alžbeta		1	2368
+2573	TOTHOVÁ Alžbeta	rod.Mandačková, Selice č.885	0	1138,2566
+2573	TOTHOVÁ Anna		1	2232,2368
+2573	TOTHOVÁ Anna	rod.Dolníková m.Ján, Selice č.631	0	2456
+2573	TOTHOVÁ Edita	rod.Nagyová m.František	1	1505,1592,1732,1733,1735,2298,2671
+2573	TOTHOVÁ Gizela	mal	1	2368
+2573	TOTHOVÁ Helena	rod.Mészárosová m.Alojz	1	1633,1892
+2573	TOTHOVÁ Júlia		1	443,1075,1665,2547,2550
+2573	TOTHOVÁ Karolína		1	1145,1299,1701,1739,2684
+2573	TOTHOVÁ Klára	mal	1	1145,1299,1701,2684
+2573	TOTHOVÁ Paula	rod.Ambroziová m.Pavol	1	2268
+2573	Tothová Piroška		1	443,1075,1665,2547,2550
+2573	TOTHOVÁ Rozália	rod.Lámalová m.Július	1	397,822,1248,2575
+2573	TOTHOVÁ Vilma	rod.Baranyaiová m.Žigmund	1	1818,1826,2242,2776
+2573	TOTHOVÁ Vilma	rod.Szöcsová m.Ľudovít	1	2266
+2573	ÜRGE Alexander	ž.Terézia rod.Molnárová	1	1578,2576
+2573	ÜRGE Ernest		1	1768
+2573	ÜRGE Ladislav	mal	1	1578,2576
+2573	ÜRGE Ľudovít	ž.Mária rod.Körösová	1	1578,2154,2576
+2573	ÜRGEOVÁ Mária		1	1578,2576
+2573	ÜRGEOVÁ Mária	rod.Körösová m.Ľudovít	1	1578,2154,2576
+2573	VÁGAIOVÁ Irma		1	206,235
+2573	VALKO Imrich		1	1915,2134
+2573	VALKO Ján		1	2134
+2573	VALKO Július	mal	1	2134
+2573	VALKO Július	mlad	1	1915,2134
+2573	VALKO Karol		0	1062,1063
+2573	VALKO Ľudovít		1	1915,2134
+2573	VALKO Peter		1	1915,2134
+2573	VALKOVÁ Helena	mal	1	1915,2134
+2573	VANÍK Ladislav		1	2354
+2573	VANÍK Ladislav	mlad	1	2354
+2573	VANÍK Ladislav	Selice č.204	1	2307
+2573	VANÍK Ladislav	ž.Etela rod.Csicsmanová	1	2148
+2573	VANÍK Matej	Selice č.204	1	2309
+2573	VANÍK Melichar		1	2341
+2573	VANÍKOVÁ Etela	rod.Csicsmanová m.Ladislav	1	2126
+2573	VANÍKOVÁ Gréta	mal	1	2148
+2573	VANÍKOVÁ Helena	rod.Puskásová m.Vojtech	1	75
+2573	VANÍKOVÁ Margita		1	2148,2354
+2573	VARGA Imrich	Selice č.145	1	2431
+2573	VERES Alojz		1	1824
+2573	VERESOVÁ Etela	rod.Lencsésová m.Alexius	1	1838,1967
+2573	VERESOVÁ Júlia	rod.Orišková m.Imrich	1	1806,2021
+2573	VERESOVÁ Mária	rod.Anyalaiová m.Ladislav	1	166
+2573	VERESOVÁ Oľga	rod.Baranyaiová m.Jozef	1	50,410,1818,2167,2776
+2573	VEREŠ Alexej	ž.Etela rod.Lencsésová	1	1343,1951,2014
+2573	VEREŠOVÁ Anna	rod.Morvaiová m.Alojz, Selice č.45	0	1149
+2573	VERLE Štefan		1	2304
+2573	VERLEOVÁ Mária		1	2304
+2573	VERLEOVÁ Mária	rod.Sulková m.Štefan	1	2304
+2573	VERSÉGHY Alojz		1	2054,2056,2063
+2573	VERSÉGHY Alojz	ž.Anna rod.Jozefíková	1	1259,1958,2691
+2573	VERSÉGHY Anton		1	2054,2056,2063,2105
+2573	VERSÉGHYOVÁ Helena	rod.Acsová m.Anton	1	1845,1851,1990,2514,2515,2530,2615,2616,2618,2619,2620
+2573	VIZSGYÁK Michal		1	1217,1689,1690
+2573	VIZSGYÁKOVÁ Sidonia		1	1217
+2573	VREBA František		1	443,1075,1665,2055,2547,2550
+2573	VREBOVÁ Helena	mal	1	2055
+2573	VREBOVÁ Helena	rod.Csontosová, Selice č.340	0	2398
+2573	WEISZ Jozef		1	1928
+2573	WEISZ Leopold	DR	1	1928
+2573	WEISZOVÁ Edita		1	1928
+2573	WEISZOVÁ Jolana		1	1928
+2573	WEISZOVÁ Jolana Irena		1	1928
+2573	ZAMAROCZYOVÁ Helena	rod.Csernyanszká m.Štefan	1	343,1992
+2573	ZELENKA Elek	ž.Anna rod.Csicsmanová	1	2355
+2573	ZELENKA František	Selice č.271	1	2313
+2573	ZELENKA František	ž.Mária rod.Perinová	1	44,2355,2373
+2573	ZELENKA František	ž.Mária rod.Perinová, ž.Mária rod.Perinová	1	47
+2573	ZELENKA Michal		1	1905,2137
+2573	ZELENKA Michal	ž.Alžbeta rod.Csapkovicsová	1	2355
+2573	ZELENKA Vojtech	mal	1	44,45,47,2373
+2573	ZELENKOVÁ Anna	rod.Kosztolányiová m.Juraj	1	2377
+2573	ZELENKOVÁ Margita	mal	1	44,45,47,2373
+2573	ZIMKA Dezider		1	344,2382
+2573	ZIMKA František	Selice č.441	1	2319
+2573	ZIMKA Štefan	mal. Mýtne Ludany	1	344,2319
+2573	ZSÁKOVÁ Františka	rod.Sombathová m.Ján	1	150,2051,2466
+2573	ZUBČEKOVÁ Helena		1	146,649
+2574	Adamovich Imrich		0	1582
+2574	Alaxová Katarína r. Klimáková		0	755,759,1527
+2574	Antal Ján	manž. Terézia r. Leixnerová	0	819,957,959,1172
+2574	Antalová Terézia r. Leixnerová	manžel Ján	0	819,957,959,1172
+2574	Babinecz Štefan	manž. Alžbeta r. Darázsová	0	1560
+2574	Babineczová Alžbeta r. Darázsová		0	1560
+2574	Bajla Alexander	mal	0	752,809,810,1784
+2574	Bajla Jozef	manž. Katarína r. Petrichová	0	952
+2574	Bajla Karol	*	0	1613
+2574	Bajla Michal	manž. Anna r. Černohorská	0	810,1784
+2574	Bajla Michal	manž. Mária r. Černohorská	0	1692
+2574	Bajla Pavol		0	1500
+2574	Bajlová Karolína r. Baloghová		0	1081,1610,1818
+2574	Bajlová Katarína r. Petrichová		0	952
+2574	Bajlová Katarína r. Prokopeczová		0	1499
+2574	Bajlová Mária r. Černohorská	manž. Michal	0	1692
+2574	Bakalík Vendel	manž. Mária r. Šamajová	0	1738
+2574	Bakalíková Mária r. Šamajová	manž. Vendel	0	1738
+2574	BALAZOVA MAGDALENA R. TRNKOVA		0	856,1575
+2574	Balázs František		0	956
+2574	Balázs Pavol		0	1257
+2574	Balázs Viktor		0	783
+2574	Balázsová Anna r. Hatalová		0	1573
+2574	Baláž František		0	1107
+2574	Baláž František	manž. Magdaléna r. Trnková	0	1257
+2574	Baláž František	manž. Verona r. Szabóová	0	784,958,1602,1751,1826
+2574	Baláž Ján	manž. Júlia r. Garaiová	0	1703
+2574	Baláž Jozef	manž. Júlia r. Michačová	0	886,1703,1712
+2574	Baláž Ľudovít	manž. Katarína r. Kulačová	0	755,949
+2574	Baláž Pavol	Semerovo č. 42	0	952
+2574	Baláž Viktor	manž. Júlia r. Bresťáková	0	784,958,1601,1751,1826
+2574	Balážová Júlia r. Garaiová		0	886,1703
+2574	Balážová Júlia r. Michačová		0	886,1703,1712
+2574	Balážová Katarína r. Kulačová		0	755,949
+2574	Balážová Mária r. Hudiková		0	886,1704
+2574	Balážová Verona		0	1257
+2574	Bálint Dezider		0	1502
+2574	Balogh Anton	manž. Agneša r. Kurucová	0	868
+2574	BALOGH ANTON		0	1334
+2574	Balogh Imrich	manž. Júlia r. Slobodníková	0	800
+2574	Balogh Ján	manž. Justína rod. Balážová	0	782,1378,1567

@@ -1,0 +1,256 @@
+71	Rybnická Anna r. Jackuličová, SR		1	360,372,437,439,482,486,487,615,697,701,716,741,745,750,751,758,769
+71	Rybnická Mária r. Babuková, SR		0	701,751
+71	RYBNICKÝ Andrej		1	701,751
+71	RYBNICKÝ Juraj		1	701,751
+71	RYBNICKÝ Juraj	malol	1	701,751
+71	RYBNICKÝ Michal		1	701,751
+71	RYBNICKÝ Pavol		1	701,751
+71	RYNIK Andrej	malol	1	701,751
+71	RYNIK Juraj	malol	1	701,751
+71	RYNIK Juraj	manž.Alžbeta r.Sotaková	1	701,751
+71	RYNIK Juraj	manž.Mária r.Pšaková	1	701,751
+71	RYNIK Michal		1	701,751
+71	RYNIK Michal	malol	1	701,751
+71	Ryniková Alžbeta r. Pšaková, SR		1	701,751
+71	Ryníková Alžbeta r. Sotáková, SR		1	701,751
+71	Sabová Zuzana, SR		1	600
+71	Savka Ján, SR	nar.1887,zomrel	1	696,759
+71	Savka Ján, SR	zomr. 04.10.1986	1	696,759
+71	Savka Juraj, SR	narodený.1885,zomrel 5.11.1932	1	696,759
+71	Savka Michal, SR	nar.1889,zomrel	1	696,759
+71	Savka Ondrej, SR	nar.1890,zomrel	1	696,759
+71	Savková Mária r. Dlužanská, SR	zomr. 27.01.1996	1	679
+71	Savková Mária r. Janusíková, SR	n.1869,zom.17.1.1945	1	696,759
+71	Savková Zuzana, SR	nar.1892,zomrela	1	696,759
+71	Semková-Dobošová Alžbeta r. Leheňová, SR		1	482,615,697,716,741,750,769
+71	Sinčaková Anna r. Krajňaková, SR		1	701,751
+71	SLANINKOVÁ Margita		1	701,751
+71	Sláviková Alžbeta r. Doričová, SR		1	701,751
+71	Slivka Ján		0	413
+71	Slivka Ján, SR		1	468,469,480,482,484,494,615,716
+71	Slivka Juraj, SR		1	593,600
+71	Slivková Mária r. Sotáková, SR	zomr. 04.05.1996	1	701,751
+71	SOLEMAN Michal		1	701,751
+71	Solemanová Mária r. Nemčoková, SR		1	701,751
+71	SOTAK Ján		1	701,751
+71	SOTÁK Juraj		1	701,751
+71	SOTAK Michal		1	701,751
+71	SOTÁK Pavol		1	701,751
+71	SOTÁKOVÁ Anna		1	701,751
+71	SOTÁKOVÁ Mária		1	701,751
+71	Sotáková Mária r. Imlejová, SR		1	701,751
+71	Sotáková Mária r. Ryniková, SR		1	701,751
+71	Stanková Zuzana r. Romanová, SR	zomrela	1	683,696,759
+71	STOJILA Juraj	nar.1887,zomrel	1	673,696,759
+71	Stoličná Anna r. Kosťová	zomr. 13.06.1983	1	592,658,739
+71	Stoličná Anna r. Kosťová, SR		1	482,615,716
+71	Stoličná Anna r. Kosťová, SR	zomr. 13.06.1983	1	427
+71	Stoličný Juraj, SR	zomr. 10.09.1990	1	696,759
+71	Stoličný Michal, SR		1	482,615,716
+71	Stomanová Anna r. Štulerová, SR	Daytona Beach,USA	1	642,643,761,762
+71	Suckmanová Roza r. Weisbergerová, SR		1	644
+71	Sunitra Ján, SR		1	502
+71	Sunitrová Anna r. Sekuličová, SR		1	482,615,716
+71	Sunitrová Anna, SR		1	482,615,716
+71	Suslová Mária r. Petrová, SR	narodená.1899,zomrela,m.Juraj	1	685,696,759
+71	ŠABÁK Ján	mladší	1	659,697,699,740,741,750,769
+71	Šabak Ján, SR		1	428,463,482,560,600,615,716,721
+71	Šabak Ján, SR	ml	1	499,560,721
+71	ŠABÁK Juraj		1	697,699,741,750,769
+71	Šabak Juraj, SR		1	421,482,499,560,615,716,721,732,757
+71	ŠABÁK Michal		1	699
+71	Šabak Michal, SR		1	499,560,721
+71	Šabaková Alžbeta r. Podoľaková, SR		1	510,600,639,699
+71	Šabaková Alžbeta r. Podoľaková, SR	m.Pavol	1	645
+71	Šabaková Alžbeta, SR		1	560,721
+71	Šabaková Mária r. Jackuličová, SR		1	437,439,482,486,487,615,697,716,741,745,750,758,769
+71	Šabaková Mária r. Podoľáková, SR		1	360,372,482,615,697,716,741,750,769
+71	Štichová Anna r. Streňová	zomr. 09.02.1987	1	676,696,759
+71	Šuhajdová Alžbeta r. Basandová, SR		1	701,751
+71	TAKAČ Pavol		1	642,643,761,762
+71	TELEKANIČ Ján		1	701,751
+71	TIMKO Ján		1	701,751
+71	TIMKO Ján	manž.Anna r.Kotunová	1	701,751
+71	TIMKO Michal	2,zomrel	1	679,696,759
+71	TIMKO Michal	zom.11.10.1952,m.Berta r.Maťašová	1	696,759
+71	TIMKO Michal	zomrel,m.Anna r.Muchová	1	696,759
+71	Timko Michal, SR	zomr. 27.12.1987	1	671,696,759
+71	Timková Anna r. Muchová, SR	zomrela,m.Michal	1	696,759
+71	Timková Anna r. Záhorčáková, SR		1	701,751
+71	Timková Berta r. Maťašová, SR	zomr. 17.07.1971	1	696,759
+71	TIMKOVÁ Mária	malol	1	701,751
+71	TIMKOVÁ Mária	zomrela	1	679,696,759
+71	Timková Verona r. Pavluliková, SR	zomrela	1	696,759
+71	Tisová Mária r. Doričová, SR		1	701,751
+71	TIŽO Juraj		1	701,751
+71	Tižová Mária r. Sinčáková, SR		1	701,751
+71	TOMKO Juraj		1	655,660,697,741,750,769
+71	TOMKOVÁ Anna		1	655,660,697,741,750,769
+71	TOMKOVÁ Mária		1	655,660,697,699,741,750,769
+71	TOMKOVÁ Mária	maloletá	1	697,741,750,769
+71	TOMKOVÁ Mária	r.Kovaľová	1	655,660,697,741,750,769
+71	TOMKOVÁ Zuzana	r.Dzvoníková	1	697,741,750,769
+71	UBĽANSKÝ Michal, SR		1	696,759
+71	Vahárová Elena r. Danková, SR		1	701,751
+71	VAJDOVÁ Anna		1	697,741,750,769
+71	Vajdová Anna, SR		1	482,615,716
+71	Valenta Andrej, SR	ž. Júlia r. Lucová, zomr. 25.01.1979	1	696,759
+71	VALENTA Anton	nar.1903,zomrel	1	696,759
+71	Valenta František, SR	zomr. 12.08.1988	1	696,759
+71	VALENTA Jozef	2,zomrel	1	679,696,759
+71	Valenta Jozef, SR	zomr. 12.03.1983	1	696,759
+71	Valenta Karol, SR	zomr. 06.07.1995	1	696,759
+71	VALENTA Ľudovít	nar.1918,zomrel	1	696,759
+71	Valentová Anna r. Rošková, SR	narodená.1920,zomrela,m.Karol	1	696,759
+71	Valentová Berta r. Rudolfová, SR	n.1894,zomrela,m.Anton	1	696,759
+71	VAROŠČÁK Ján	manž.Anna r.Topoľančíková	1	701,751
+71	Vasiľová Verona r. Valentová, SR	narodená.1920,ČR	1	696,759
+71	Vatahová Alžbeta r. Onderová, SR		1	600
+71	VIŇANSKÁ Anna		1	701,751
+71	VIŇANSKÝ Ján	malol	1	701,751
+71	VIŇANSKÝ Michal		1	701,751
+71	VIXTA Andrej	nar.1883,zomrel	1	696,759
+71	VIXTA Ján	nar.1886,zomrel	1	696,759
+71	VIXTA Michal	nar.1890,zomrel	1	696,759
+71	VIXTOVÁ Helena	nar.1888,zomrela	1	696,759
+71	Weinbergerová Klára r. Moškovičová, SR		1	508
+71	WEISEMBERGER Herman		1	644
+71	WEISEMBERGER Mayer		1	642,643,761,762
+71	ZÁHORČÁK Pavol		1	701,751
+71	Záhorčáková Anna r. Žužová, SR		1	701,751
+71	Záhorčáková Zuzana r. Fedorová,, SR	zom.7.11.1963,m.Juraj	1	696,759
+71	Žid Anton, SR	zomr. 15.10.1992	1	482,615,697,716,741,750,769
+71	ŽOFČÁK Juraj		1	701,751
+71	Žofčáková Mária r. Riniková, SR		1	701,751
+71	ŽUŽO Iľja		1	701,751
+72	Antal Ján	ž.Mária Fogašová	0	736
+72	Antal Kazimír		0	149
+72	Antalová Anna r. Šnajdárová		0	632
+72	Antalová Katarína r. Dekanová		0	561,639
+72	Antalová Katarína r. Dekanová	m.Karol	0	561
+72	Antalová Katarína r. Dekanová	vdova	0	561
+72	Antalová Otilia r. Novotná		0	721,737
+72	Barbušín Alojz		0	654
+72	Barbušín Michal		0	654
+72	Barbušinová Anna		0	654
+72	Barbušinová Helena		0	654
+72	Beneyová Helena r. Feranecová		0	348
+72	Bielik Augustín	ž.Valéria Segešová	0	673
+72	Bielik Jozef	ž.Anna Kadlecová	0	677
+72	Bielik Jozef	ž.Anna Mišíková	0	707
+72	Bieliková Anna r. Mišíková	manžel Jozef	0	645
+72	Bieliková Anna r. Petrášová	mnažel Jozef	0	664
+72	Bieliková Mária r. Kuchárová	mažel Jozef	0	670
+72	Bílík Jozef	ž.Anna Mišíková	0	677
+72	Bíliková Anna r. Mišíková		0	549
+72	Bohovic Alexander		0	114,517
+72	Bohovic Vincenc	ž. Anna r.Lebová	0	517
+72	Bohovic Vincenc	ž.Anna Lebová	0	114
+72	Bolješík Ľudevít		0	934
+72	Bukovčák Michal	Galanta	0	654
+72	Čechvalová Štefánia r. Klčová		0	259
+72	Danek Ján	ž.Veronika Hlatká	0	348
+72	Daneková Veronika r. Hlatká	m.Ján	0	348
+72	Dekan Eduard	ž.Alojzia Dekanová	0	563
+72	Dekan Ján		0	483
+72	Dekan Jozef		0	212,864
+72	Dekan Jozef	ž. Anna Ferancová	0	515
+72	Dekan Jozef	ž.Anna Ferancová	0	600,714
+72	Dekan Jozef	ž.Mária Jurdová	0	602
+72	Dekan Ľudovít	ž.Františka Ferancová	0	702
+72	Dekan Michal	ž. Anna Lucináková	0	253
+72	Dekan Severín	mal. v r.1947	0	932
+72	Dekan Teofil	ž.Petronela r.Dekanová	0	932
+72	Dekanová Alojza		0	561
+72	Dekanová Alojza	maloletá	0	561
+72	Dekanová Alojzia	mal. v r.1944	0	931
+72	Dekanová Alojzia	maloletá	0	596
+72	Dekanová Anna		0	923
+72	Dekanová Anna r. Miklášová	m.Ján	0	482
+72	Dekanová Jozefína r. Gregoričková		0	653
+72	Dekanová Jozefína r. Petrášová		0	357
+72	Dekanová Jozefína r. Petrášová	zom. 04.08.1989	0	935
+72	Dekanová Petronela		0	567
+72	Dekanová Viktória	mal. v r.1947	0	932
+72	Djenka František		0	926
+72	Djenka Ján	mal. v r.1908	0	919
+72	Djenková Anna	mal. v r.1900, vzdialená	0	921
+72	Djenková Katarína	mal. v r.1900, vzdialená	0	921
+72	Ferancová Alojzia		0	692
+72	Ferancová Anna		0	692
+72	Ferancová Bernardína r. Antalová		0	127,423
+72	Ferancová Katarína r. Petrášová	manžel Jozef	0	705
+72	Feranec Ján		0	535
+72	Feranec Jozef	ž.Katarína Petrášová	0	705
+72	Feranec Matej		0	66,68,638
+72	Feranec Rudolf		0	692
+72	Feranec-Šupka Jozef		0	576
+72	Feranecová Albína r. Urbanová	m.Alojz	0	936
+72	Filo Juraj		0	354,443,624
+72	Filová Paulína r. Lucináková		0	51
+72	Filová Štefánia r. Miklášová		0	398
+72	Filová Štefánia r. Miklášová	m.Michal	0	395
+72	Folajtár Jozef	ž.Mária r.Folajtárová	0	928,929
+72	Fulková Justína r. Urbanová		0	622
+72	Glasnák Ján	ž.Anna r.Vatrtová	0	928,929
+72	Glasnáková Etela r. Mišíková		0	848
+72	Gogál Ján		0	484
+72	Gono Rudolf		0	676
+72	Gonová Alžbeta r. Gregoričková		0	7,653
+72	Gregoričková Mária		0	653
+72	Hoštáková Katarína r. Berešíková	manžel Gašpar	0	835
+72	Hudcovičová Anna r. Bohovicová	m.Michal	0	477
+72	Hulmanová Anna r. Petrášová		0	357,370,465,905
+72	Hulmanová Anna r. Pretrášová		0	464
+72	Jankechová Jolana		0	620
+72	Kadlec Alojz		0	484
+72	Kadlec Michal		0	707
+72	Kadlecová Alžbeta r. Mitošinková		0	108
+72	Kadlecová Alžbeta r. Mitošinková	manžel Jozef	0	722
+72	Kadlecová Katarína		0	484
+72	Klčo Ján		0	627,647
+72	Klčo Martin		0	704
+72	Klčová Mária r. Melicherová		0	96
+72	Kleštincová Katarína	m.Michal	0	391
+72	Klimo Ján		0	511
+72	Klimo Jozef		0	511
+72	Klimo Juraj		0	511
+72	Klimo Michal		0	686
+72	Klímová Alžbeta r. Urbanová	m.Jozef	0	611
+72	Kotlebová Anna r. Dekanová	zomr. 3.7.2008	0	932
+72	Kramáriková Mária r. Nedorostová		0	927,928,929
+72	Kuchár Ľudovít		0	671
+72	Kuchar Štefan		0	940
+72	Kuchárová Albína		0	671
+72	Kuchárová Alžbeta		0	576
+72	Kuchárová Zuzana		0	682
+72	Lednická Mária r. Vavrová	manžel Ľudovít	0	739
+72	Lednický Ján		0	684
+72	Lednický Jozef		0	684
+72	Liška Cyril	maloletý	0	730
+72	Liška Cyril	nezletilý	0	730
+72	Liška Michal	maloletý	0	730
+72	Liška Michal	nezletilý	0	730
+72	Lišková Emília	maloletá	0	730
+72	Lišková Emília	nezletilá	0	730
+72	Lišková Jozefína	maloletá	0	730
+72	Lišková Jozefína	nezletilá	0	730
+72	Lišková Mária	maloletá	0	730
+72	Lišková Mária	nezletilá	0	730
+72	Lukáčeková Anna r. Mišíková		0	848
+72	Maco Ján	ž.Anna Kuniková	0	644
+72	Maco Jozef		0	657
+72	Maco Jozef	ž.Katarína Petrášová	0	658
+72	Maco Peter		0	252
+72	Maco Štefan		0	253,254
+72	Macová Anna r. Melicherová		0	706
+72	Macová Jozefína r. Urbanová		0	938
+72	Macová Mária		0	253,254
+72	Mareková Mária r. Barbušinová		0	654
+72	Margalová Brigita r. Nedorostová		0	927
+72	Martinka Peter		0	484
+72	Mašanová Mária r. Klčová	manžel Jozef	0	730
+72	Mašanová Petronela	maloletá	0	730
+72	Melicher Ján		0	96,253
+72	Melicher Juraj		0	96
+72	Melicher Juraj	ž.Anna Dekanová	0	628

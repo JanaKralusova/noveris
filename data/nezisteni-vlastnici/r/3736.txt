@@ -1,0 +1,256 @@
+2146	SKYRPÁNOVÁ Natália	MUDr	1	1282
+2146	SKYRPÁNOVÁ Natália Dr.		0	733
+2146	SMETANA Michal PKV509	PKV 509	0	833
+2146	SMETANKA Ján	PKV228	1	1272
+2146	SMETANKA Ján PKV228	PKV 228	0	743
+2146	SMETANKA Ján PKV539	PKV 539	0	946
+2146	SMETANKA Jozef	PKV228	1	1272
+2146	SMETANKA Michal		1	1272
+2146	SMETANKA Michal PKV227	PKV 227	0	969
+2146	SMETANKA Michal PKV228,II	PKV 228	0	743
+2146	SMETANKA Ondrej	PKV228	1	1272
+2146	SMETANKA Ondrej PKV228	PKV 228	0	743
+2146	SMETANKOVÁ Alžbeta	PKV52	1	1272
+2146	SMETANKOVÁ Alžbeta	r.Sitkaninová m.Jozef; ; m.Jozef	1	135
+2146	SMETANKOVÁ Alžbeta PKV52	PKV 52	0	743
+2146	SMETANKOVÁ Alžbeta r.Sitkaninová muž Jozef PKV194		0	966
+2146	SMETANKOVÁ Alžbeta r.Sitkaninová muž Jozef PKV194	muž Jozef, PKV 194	0	1156,1157
+2146	SMETANKOVÁ Alžbeta r.Vysokajová		0	1025
+2146	SMETANKOVÁ Mária	r.Chudá	1	1240
+2146	SMETANKOVÁ Zuzana	r.Sitová m.Ján; ; m.Ján	1	632
+2146	SMETANKOVÁ Zuzana r.Sitová,muž Ján		0	706
+2146	Sninčák Juraj		1	1253
+2146	SNINČÁK Juraj	PKV70	1	1281
+2146	SNINČÁK Juraj PKV70	PKV 70	0	726
+2146	SNINČÁKOVÁ Anna	r.Sitkaničová PKV70	1	1253,1281
+2146	SNINČÁKOVÁ Anna r.Sitkaničová PKV70		0	726
+2146	SNINČÁKOVÁ Anna R9.11.1936	r. 9.11.1936	0	696
+2146	SOĽANÍK Štefan /zomr./		0	1045,1046,1047
+2146	SOĽANÍK Vasiľ /zomr./		0	1045,1046,1047
+2146	SOĽANÍKOVÁ Anastázia /zomr./		0	1045,1046,1047
+2146	SOĽANÍKOVÁ Anna /choromyselná/		0	1045,1046,1047
+2146	SOLOMON Michal /zomr./		0	1045,1047
+2146	SOLOMONOVÁ Ilona /zomr./		0	1045,1047
+2146	SOLOMONOVÁ Zuzana r.Balintová/zomr./		0	1046
+2146	SR-PAPIN		0	1004
+2146	STANKOVSKÁ Mária	PKV58	1	1274
+2146	STANKOVSKÁ Mária PKV58	PKV 58	0	991
+2146	STANKOVSKÝ Ján	PKV58	1	1274
+2146	STANKOVSKÝ Ján PKV58	PKV 58	0	991
+2146	STARANYOVÁ Mária		0	1045,1047
+2146	SUCHÁ Anastázia /zomr./		0	1046
+2146	SUCHÁ Anastázia r.Durkotová PKV541		0	927
+2146	SUCHÁ Anastázia r.Durkotová/zomr./		0	1045
+2146	SUCHÁ Anna r. Mitrovčáková	/zom./ 28.1.1909/	0	1046
+2146	SUCHÁ Anna r. Mitrovčáková	r. 28.1.1909/zom.; r. 28.1.1909/zom	0	1047
+2146	SUCHÁ Anna r.Beňová/zomr./		0	1045,1047
+2146	SUCHÁ Anna r.Biľová/zomr./		0	1045,1046,1047
+2146	SUCHÁ Anna r.Hrebeňaková/zomr./		0	1045,1046,1047
+2146	SUCHÁ Anna r.Chudaničová/zomr./		0	1045,1046,1047
+2146	SUCHÁ Anna r.Suchá/zomr./		0	1045,1046,1047
+2146	SUCHÁ Mária PKV319	PKV 319	0	778
+2146	SUCHÁ Taňka /zomr./		0	1045,1046,1047
+2146	SUCHÁ Zuzana nezl./zomr./		0	1045,1046,1047
+2146	SUCHÁ Zuzana r.Hirjaková /vdova//zomr./		0	1045,1046,1047
+2146	SUCHÁ Zuzana r.Chudaničová /m.Fedor//zomr./		0	1045,1046,1047
+2146	SUCHÁ Zuzana r.Solamonová/zomr./		0	1045,1047
+2146	SUCHÝ Andrej /ž.Mária r.Žaková//zomr./		0	1046,1047
+2146	SUCHÝ Fedor /zomr./		0	1046,1047
+2146	SUCHÝ Ihnát /zomr./		0	1046,1047
+2146	SUCHÝ Ján /USA//zomr./		0	1045
+2146	SUCHÝ Ján PKV 593	PKV 593	0	964
+2146	SUCHÝ Michal /4/		0	1046,1047
+2146	SUCHÝ Michal /5/		0	1045,1046,1047
+2146	SUCHÝ Michal /Lehňák//zomr./		0	1046,1047
+2146	SUCHÝ Michal /zomr./		0	1045,1046,1047
+2146	SUCHÝ Michal /ž.Mária r.Biľová/ /ž.Mária r.Biľová/		0	1046
+2146	SUCHÝ Michal /ž.Mária r.Kundratová/ /ž.Mária r.Kundratová/		0	1045,1046,1047
+2146	SUCHÝ Michal /ž.Nasťa r.Durkotová/ /ž.Nasťa r.Durkotová/		0	1045
+2146	SUCHÝ Michal /ž.Zuzana r.Hirjaková//zomr./		0	1045,1046,1047
+2146	SUCHÝ Michal vzd.PKV227		0	969
+2146	SUCHÝ Milan PKV541	PKV 541	0	927
+2146	SUCHÝ Pavol		0	964
+2146	SUCHÝ Štefan /2//zomr./		0	1046,1047
+2146	SUCHÝ Štefan /ž.Mária r.Pencaková//zomr./		0	1045,1046,1047
+2146	SUCHÝ Vasiľ /1//zomr./		0	1045,1046,1047
+2146	SURKOVIČ Ján		1	1299
+2146	SURNIČIN Ján	PKV198	1	977,1420
+2146	SURNIČIN Jozef		0	985
+2146	SURNIČIN Jozef	PKV305	1	1262
+2146	SURNIČIN Jozef	PKV34	1	1265
+2146	SURNIČIN Jozef PKV305	PKV 305	0	982
+2146	SURNIČIN Juraj		0	983
+2146	SURNIČIN Juraj	PKV305	1	1262,1263
+2146	SURNIČIN Juraj PKV305	PKV 305	0	982
+2146	SURNIČIN RUDY Ján	PKV37	1	702,1241,1258,1429
+2146	Surničin Rudy Jozef		1	977,1420
+2146	SURNIČIN RUDY Michal vzd.		0	711
+2146	SURNIČINOVÁ Alžbeta		1	985,1265
+2146	SURNIČINOVÁ Anna	PKV305	1	1262
+2146	SURNIČINOVÁ Anna	r.Jarošová	1	1265
+2146	SURNIČÍNOVÁ Helena r.Gabríková PKV248		0	1079
+2146	SURNIČINOVÁ Juliana	PKV305	1	1262
+2146	SURNIČINOVÁ Juliana PKV305	PKV 305	0	982
+2146	SURNIČINOVÁ Mária	PKV305	1	1262
+2146	SURNIČINOVÁ Mária PKV305	PKV 305	0	982
+2146	SUROVÁ Mária	r.Hudová R.6.12.1942	1	980,1431
+2146	SUROVÁ Mária č.d.32 r.Hudová,R6.12.1942 Vyšná Jablonka	r. 6.12.1942	0	1091
+2146	SUROVÁ Mária r. Hudová, SR		1	375
+2146	SZIMA Vaszily		0	694
+2146	SZIMOVÁ Anna		0	694
+2146	ŠENKO Andrej		1	972,1284
+2146	ŠENKO Andrej PKV 59 PKV 59		0	1024
+2146	ŠEŇKO Ján PKV485 LV90 PKV 485, LV 90		0	1059
+2146	ŠENKO Michal	ml	1	740,1404
+2146	ŠEŇKO Michal	vzd	1	996
+2146	ŠENKO Štefan		0	728
+2146	ŠENKO Štefan	PKV355	1	1280
+2146	ŠENKO Štefan PKV355	PKV 355	0	756
+2146	ŠENKO Štefan vzd.		0	728
+2146	ŠENKOVÁ Alžbeta	r.Puškárová	1	93,657,1297
+2146	ŠENKOVÁ Alžbeta r.Puškarová		0	752,779,1004
+2146	ŠENKOVÁ Anna	r.Vaškovičová	1	1284
+2146	ŠENKOVÁ Anna	r.Židzíková	1	972,1284
+2146	ŠENKOVÁ Anna r.Vaškovičová		0	736,1024,1041
+2146	ŠENKOVÁ Anna r.Židziková		0	736,1041
+2146	ŠENKOVÁ Anna r.Židziková PKV248		0	1079
+2146	ŠENKOVÁ Anna r.Židzíková PKV249		0	1091
+2146	ŠENKOVÁ Mária		0	728,736,1041
+2146	ŠENKOVÁ Mária	PKV355	1	1280,1284
+2146	ŠENKOVÁ Mária PKV 59 PKV 59		0	1024
+2146	ŠENKOVÁ Mária PKV355	PKV 355	0	756
+2146	ŠENKOVÁ Mária PKV355 I	PKV 355	0	756
+2146	ŠENKOVÁ Mária vzd.		0	728
+2146	ŠPERŇÁKOVÁ Anna r.Suchá PKV319		0	778
+2146	ŠTENKO Michal /ž.Mária r.Vasiľková//zomr./		0	1046
+2146	ŠTENKOVÁ Mária r.Vasilková		0	1046
+2146	ŠUĽ Ján	mal	1	1244,1267
+2146	ŠUĽ Ján	PKV153	1	851,1290
+2146	ŠUĽ Ján PKV42	PKV 42	0	744
+2146	ŠUSTÁĽ Ján ž.Alžbeta r.Findriková		0	1008,1013,1035,1036
+2146	ŠUSTEJ Ján PKV 512 PKV 512		0	1072
+2146	ŠUSTEĽ Ján	ž.Alžbeta r.Findriková	1	974,1424
+2146	ŠUSTEĽ Ján ž.Alžbeta r.Findríková PKV603		0	1019
+2146	ŠVAB Andrej	ž.Anna r.Findriková	1	1290
+2146	ŠVÁB Andrej	ž.Mária r.Pankovčinová	1	791
+2146	ŠVAB Andrej PKV42	PKV 42	0	744
+2146	ŠVÁB Andrej str. PKV544		0	832
+2146	ŠVAB Michal	vzd	1	1303
+2146	ŠVÁB Michal		1	598,606,630,987,1251
+2146	ŠVAB Štefan		1	697,851
+2146	ŠVAB Štefan	ž.Mária r.Vatahová	1	1267
+2146	ŠVÁB Štefan	PKV42	1	1290
+2146	ŠVÁB Štefan PKV42	PKV 42	0	744
+2146	ŠVABOVÁ Anna	r.Findrihová Vatahová PKV382; ; PKV382	1	851
+2146	ŠVABOVÁ Anna	r.Findriková m.Andrej; ; m.Andrej	1	1290
+2146	ŠVABOVÁ Anna	r.Vatahová PKV382	1	851
+2146	ŠVÁBOVÁ Anna	r.Findriková	1	1290
+2146	ŠVÁBOVÁ Anna	r.Vatahová	1	1267,1290
+2146	ŠVÁBOVÁ Anna r.Findriková		0	744
+2146	ŠVÁBOVÁ Anna r.Vatahová		0	744
+2146	ŠVABOVÁ Anna r.Vatahová PKV591		0	887
+2146	ŠVÁBOVÁ Mária	r.Hudá	1	418
+2146	ŠVÁBOVÁ Mária	r.Vatahová	1	851,1290
+2146	ŠVÁBOVÁ Mária r.Hudá PKV78		0	732
+2146	ŠVÁBOVÁ Mária r.Vatahová		0	744
+2146	ŠVÁBOVÁ Verona r.Bicková		0	775,1084
+2146	ŠVÁBOVÁ Verona r.Bicková PKV248		0	1079
+2146	ŠVÁBOVÁ Verona r.Bicková PKV249		0	1091
+2146	ŠVÁBOVÁ-CÁRIK Mária r. Hudáková-Carčinová	PKV 328; PKV 328	0	774
+2146	TKÁČ Juraj		0	692
+2146	TKÁČ Michal R6.4.1903,U5.4.1979	r. 6.4.1903, zom. 5.4.1979	0	692
+2146	TKÁČ Štefan		0	692
+2146	TKÁČOVÁ Anna r.Balintová,muž Ján		0	692
+2146	TKÁČOVÁ Mária r.Kapáková,R1920,U1982	r. 1920, zom. 1982	0	692
+2146	TKÁČOVÁ Mária vzd.		0	692
+2146	TYRBALOVÁ Anna	r.Surničinová Rudá	1	1258
+2146	TYRBALOVÁ Anna r.Surničinová-Ruda		0	711
+2146	VACO Ihnat /zomr./		0	1045,1046,1047
+2146	VACO Michal /ž.Zuzana r.Matijenková//zomr/		0	1045,1046,1047
+2146	VACO Vasiľ mal./zomr./		0	1045,1046,1047
+2146	VACSKO János		0	693
+2146	VALENČIN Juraj		1	662
+2146	VALENČIN Juraj PKV174	PKV 174	0	716
+2146	VALOŠ Juraj		0	692
+2146	VALOŠOVÁ Juliana r.Kuzmová,muž Juraj		0	692
+2146	VAMAROVÁ Mária r. Senková, SR		1	448
+2146	VASIĽKO Fedor /ž.Tatiana r.Chalčaková//zomr/		0	1045,1046,1047
+2146	VASIĽKO Vasil /1//zomrel		0	1047
+2146	VASIĽKOVÁ Anastázia r.Kundrátová /vdova//zomr./		0	1046
+2146	VASIĽKOVÁ Anna r.Biľová		0	1046,1047
+2146	VASIĽKOVÁ Mária mal./zomr./		0	1045,1046,1047
+2146	VASIĽKOVÁ Mária r.Staranyová/zomr./		0	1046
+2146	VASIĽKOVÁ Terézia mal./zomr./		0	1045,1047
+2146	VASKO Mihály nezl.		0	693
+2146	VASKOVÁ Júlia nezl.		0	693
+2146	VASKOVÁ Mária nezl.		0	693
+2146	VAŠČÁK Andrej PKV433	PKV 433	0	959
+2146	VAŠČÁKOVÁ Mária r.Pančišinová /m.Michal//zomr/		0	1045,1046,1047
+2146	VAŠKO Ján		0	692,693
+2146	VAŠKO Juraj		0	693
+2146	VAŠKO Michal		0	692
+2146	VAŠKO Štefan		0	693
+2146	VAŠKO Štefan R6.5.1909,U1970	r. 6.5.1909, zom. 1970	0	692
+2146	VAŠKOVÁ Júlia mal.		0	692
+2146	VAŠKOVÁ Mária mal.		0	692
+2146	VAŠKOVÁ Zuzana		0	692
+2146	VAŠKOVÁ Zuzana r.Balintová,muž Ján		0	692
+2146	VATAHA Štefan		1	986,1266
+2146	VATAHOVÁ Alžbeta	r.Findriková	1	851
+2146	VATAHOVÁ Mária	mal	1	851,1290
+2146	VATAHOVÁ Mária	PKV153	1	1267
+2146	VATAHOVÁ Mária PKV42	PKV 42	0	744
+2146	VATAHOVÁ Verona	mal	1	1267
+2146	VATAHOVÁ Verona	mal.PKV382	1	851
+2146	VATAHOVÁ Zuzana	mal	1	851,1290
+2146	VATAHOVÁ Zuzana	PKV153	1	1267
+2146	VATAHOVÁ Zuzana v USA	v USA	0	744
+2146	VINICKÁ Zuzana	r.Pankovčinová	1	460,462,1301
+2146	VISOKAJOVÁ Helena PKV405 PKV 405		0	1030
+2146	VISOKAYOVÁ Alžbeta	r.Pašková	1	1128,1403
+2146	VISOKAYOVÁ Alžbeta r.Pašková		0	749
+2146	VOVČKO Fedor /zomr./		0	1045
+2146	VOVČKO Michal mlš.PKV437		0	957
+2146	VOVČKOVÁ Mária r.Beňová /vzdialená//zomr./		0	1045,1047
+2146	VOVČOK Michal str. PKV437		0	957
+2146	VOZŇAK Andrej		1	753,1260
+2146	VOZŇAK Andrej, SR		1	448
+2146	VOZŇÁK Ján		1	1103
+2146	VOZŇÁK Ján PKV75	PKV 75	0	731
+2146	VOZŇÁKOVÁ Mária		1	753,1260
+2146	VOZŇAKOVÁ Mária, SR		1	448
+2146	VÝKUPNÝ Podnik	Prešov	1	1277
+2146	VYSOKAJ Andrej		1	1020,1259
+2146	VYSOKAJ Andrej	ž.Zuzana r.Ricková	1	1020,1259
+2146	VYSOKAJ Andrej nezl. PKV340		0	979,1007,1011,1025
+2146	VYSOKAJ Andrej PKV295,st.		0	1023
+2146	VYSOKAJ Andrej ž.Zuzana r.Ricková PKV340		0	979,1011,1025
+2146	VYSOKAJ Ján		0	1011
+2146	VYSOKAJ Juraj		1	1020,1224,1225,1259
+2146	VYSOKAJ Juraj	ž.Alžbeta r.Pašková	1	1020,1224,1225,1259
+2146	VYSOKAJ Juraj PKV 120	PKV 120	0	997,1436
+2146	VYSOKAJ Juraj PKV 120 I	PKV 120	0	997,1436
+2146	VYSOKAJ Juraj PKV 340	PKV 340	0	979
+2146	VYSOKAJ Juraj PKV 340 I	PKV 340	0	979
+2146	VYSOKAJ Juraj PKV 340 I PKV 340		0	1007,1011,1025
+2146	VYSOKAJ Juraj PKV 340 PKV 340		0	1007,1011,1025
+2146	VYSOKAJ Juraj PKV 354	PKV 354	0	738
+2146	VYSOKAJ Juraj ž.Alžbeta r.Pašková PKV120		0	997,1436
+2146	VYSOKAJ Juraj ž.Anna r.Pašková PKV340		0	979,1007,1011,1025
+2146	VYSOKAJ Ondrej	ž.Zuzana r.Cicková	1	1224,1225
+2146	VYSOKAJ Ondrej PKV 354	PKV 354	0	738
+2146	VYSOKAJ Ondrej ž.Zuzana r.Cicková PKV120		0	997,1436
+2146	VYSOKAJOVÁ Alžbeta	r.Pašková	1	1020,1224,1225,1259
+2146	VYSOKAJOVÁ Alžbeta PKV354	PKV 354	0	738
+2146	VYSOKAJOVÁ Alžbeta r.Pašková		0	979,1007,1011,1025
+2146	VYSOKAJOVÁ Alžbeta r.Pašková PKV120		0	997,1436
+2146	VYSOKAJOVÁ Zuzana	r.Kernašovičová	1	418
+2146	VYSOKAJOVÁ Zuzana r.Kernašovičová PKV78		0	732
+2146	VYSOKAYOVÁ Mária PKV 577	PKV 577	0	873
+2146	VYSOVAJ Andrej PKV 340	PKV 340	0	979
+2146	VYSOVAJ Andrej PKV 340 PKV 340		0	1007,1011,1025
+2146	WAISOVÁ Zuzana	r.Roseniwasseová	1	850,1410
+2146	WEISZ Adolf	ž.Regina r.Moškovičová	1	654
+2146	WEISZ Adolf ž.Regina r.Moškovičová		0	967
+2146	WINKLER Leopold		0	692
+2146	WINKLEROVÁ Etela mal.		0	692

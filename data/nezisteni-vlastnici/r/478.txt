@@ -1,0 +1,256 @@
+272	Pillár Michal		0	5
+272	Pillár Michal	mal	1	689,710,770,780,782,790,801,821,822,1121,1137,1138,1405,1406,1578,1579,1580,1581,1582,1620,1621
+272	Pillarova Agnesa		1	706,770,782,784,801,1137,1138,1207,1214,1239,1405,1406,1538,1539,1564,1569,1602
+272	Pillárová Alžbeta		1	115,706,721,770,782,784,801,826,1137,1138,1207,1214,1239,1288,1405,1406,1538,1539,1564,1569,1602
+272	PILLÁROVÁ Anna	r.Cirnerová	1	770,801,1137,1138
+272	Pillárová Anna r. Cirnerová		1	677,687,700,706,743,768,769,776,778,782,783,784,786,787,793,794,799,804,812,869,1120,1250,1252,1311,1312,1314,1326,1355,1367,1383,1392,1405,1406,1538,1539,1555,1564,1569,1602,1619,1622
+272	Pillarova Augusta		1	706,770,782,801,1137,1138,1207,1214,1239,1405,1406,1538,1539,1564,1569
+272	Pillárová Irena		1	115,706,770,782,784,801,1137,1138,1207,1214,1239,1405,1406,1538,1539,1564,1569,1602
+272	PINÁČOVÁ Alžbeta	r.Tarhaničová	1	770,801,1137,1138
+272	Pináčová Alžbeta r. Tarhaničová		1	706,782,784,1207,1214,1239,1405,1406,1538,1539,1564,1569,1602
+272	POTOCSNYÁKOVÁ Mária	r.Cirnerová	1	770,801,1137,1138
+272	Potocsnyáková Mária r. Cirnerová		1	687,700,706,776,778,782,783,784,786,787,793,794,799,804,812,869,1120,1207,1214,1239,1250,1252,1311,1312,1314,1326,1355,1367,1383,1392,1405,1406,1538,1539,1555,1564,1569,1602,1619,1622
+272	Potočňáková Anna	mal	1	689,770,780,782,790,801,821,1121,1137,1138,1405,1406,1578,1579,1580,1582,1620,1621
+272	POTOČŇÁKOVÁ Anna	r.Blisková	1	770,801,885,1137,1138
+272	Potočňáková Anna r. Blisková		1	690,707,782,906,1072,1128,1129,1210,1243,1260,1262,1263,1264,1265,1266,1267,1315,1316,1317,1323,1324,1325,1405,1406,1408,1452,1453,1454,1458,1540,1541,1557,1560
+272	Prepijak Martin		1	802
+272	Prepijak Martin r. Prepijak	ž. Mária r.Tarhaničová	1	761
+272	RAŠKOVINECKÁ Mária	r.Tarhaničová	1	770,801,1137,1138
+272	Raškovinecká Mária r. Tarhaničová		1	706,782,784,1207,1214,1239,1405,1406,1538,1539,1564,1569,1602
+272	REPJANOVÁ Katarína	r.Tarhaničová	1	770,801,1137,1138
+272	Repjanová Katarína r. Tarhaničová		1	706,782,1207,1214,1239,1405,1406,1538,1539,1564,1569
+272	Roskovenský Juraj r. Roskovenský	ž. Mária r.Tarhaničová	1	762
+272	Roškovenský Juraj		1	802
+272	Sabol Ján		1	782,784,1207,1214,1239,1538,1539,1564,1569,1602
+272	Sabol Ján r. Sabol	ž.Mária r.Kolesárová	1	748,1486,1499
+272	Sabol Jozef		1	700,706,778,783,784,786,787,793,794,799,803,804,815,816,817,819,1207,1214,1239,1314,1322,1538,1539,1555,1564,1569,1602
+272	Sabol Jozef r. Sabol	ž. Marta r. Filarová	1	748,1486,1499
+272	Sabol Juraj	Benko	1	693,770,772,778,782,783,786,787,793,794,799,801,804,815,816,817,1137,1138,1314,1322,1380,1405,1406,1412,1420,1449,1555,1568
+272	SABOL Juraj		1	682,697,700,770,783,786,788,796,802,803,805,819,820,1034,1080,1084,1085,1126,1127,1235,1412,1419,1554,1558,1559,1576,1615,1616
+272	Sabol Michal r. Sabol, Ing., Čsl. armády 16, Košice, PSČ 040 01, SR		0	697,1616
+272	SabolL Ján		1	706
+272	Stuárová Alžbeta		1	685
+272	STUPÁR Andrej		1	770,782,801,1137,1138,1405,1406
+272	STUPÁR Andrej	ml	1	770,782,801,1137,1138,1405,1406
+272	Stupar Jan	Kukucka	1	769
+272	Stupar Jan	Kukučka/	1	802
+272	Stupar Ján		1	669,676,768,770,782,801,1080,1137,1138,1405,1406
+272	Stupár Ján	Kandrač	1	769,802
+272	Stupár Ján r. Stupár	Kandrač	1	741
+272	Stupár Ján r. Stupár, Bukovec, Bukovec, PSČ 044 20, SR		1	687,776,812,869,1120,1155,1250,1252,1256,1257,1258,1311,1312,1326,1355,1367,1383,1392,1619,1622
+272	Stupár Jozef		1	676,770
+272	Stupár Mária r. Findorák		0	5
+272	Stupár Michal		1	676,685,693,699,703,706,770,772,784,785,788,792,796,803,805,818,820,1080,1126,1127,1134,1135,1136,1205,1207,1214,1239,1380,1420,1421,1422,1449,1538,1539,1564,1568,1569,1576,1593,1602,1603,1606,1607,1608,1609,1615
+272	Stupár Peter		1	1080
+272	STUPÁR Štefan		1	770
+272	Stupárová Alžbeta		1	676,703,770,782,785,792,801,803,1134,1135,1136,1137,1138,1205,1405,1406,1593,1603,1606,1607,1608,1609
+272	Stupárová Anna		1	676,685,693,703,770,772,782,785,788,792,796,801,802,803,805,820,1080,1126,1127,1134,1135,1136,1137,1138,1205,1380,1405,1406,1420,1449,1568,1576,1593,1603,1606,1607,1608,1609,1615
+272	Stupárová Mária		1	703,1135,1136,1205,1593,1606,1607,1608,1609
+272	STUPÁROVÁ Mária	r.Gregová	1	770,801,1137,1138
+272	Stupárová Mária r. Gregová		1	782,1405,1406
+272	Stupárová Mária r. Kandráčová, SR		0	67
+272	Stupárová Mária r. Stupárová,Kandráčová		1	741
+272	Szabo Jozef	mal	1	707,770,782,801,819,885,1034,1072,1084,1085,1137,1138,1235,1262,1263,1315,1316,1317,1323,1324,1325,1405,1406,1408,1419,1458,1540,1541,1554,1557,1558,1559,1560
+272	SZABO Jozef		1	697,1616
+272	Szabo Juraj	mal	1	819,1034,1084,1085,1235,1419,1554,1558,1559
+272	SZABO Juraj		1	697,1616
+272	Szabo Michal		1	696,770,782,801,819,1137,1138,1405,1406,1624
+272	Szabová Alžbeta		1	697,707,770,782,801,819,885,1034,1072,1084,1085,1137,1138,1235,1262,1263,1315,1316,1317,1323,1324,1325,1405,1406,1408,1419,1458,1540,1541,1554,1557,1558,1559,1560,1616
+272	ŠTÁT ONV		1	806
+272	ŠTEFANOVIČOVÁ Mária	r.Kováčová	1	770,801,1137,1138
+272	Štefanovičová Mária r. Kováčová		1	782,803,1405,1406
+272	Tarhanic Rudolf r. Tarhanic, Bukovec 151, Bukovec, PSČ 044 20, SR		0	691
+272	TARHANIC Stefan		1	770,1138
+272	TARHANIC Stefan	:USA	1	801
+272	TARHANIC Stefan	USA	1	1137,1405,1406
+272	Tarhanics Jakub		1	706,770,782,801,1137,1138,1207,1214,1239,1405,1406,1538,1539,1564,1569
+272	Tarhanics Jozef		1	706,770,782,801,1137,1138,1207,1214,1239,1405,1406,1538,1539,1564,1569
+272	TARHANICS Juraj		1	770,782,801,1137,1138,1405,1406
+272	Tarhanicsová Anna		1	1214
+272	Tarhanicsova Katarina		1	706,770,782,801,1137,1138,1207,1214,1239,1405,1406,1538,1539,1564,1569
+272	Tarhanič Alžbeta r. Hužvár		0	5
+272	Tarhanič Andrej		1	768,787,1137,1138
+272	Tarhanič Andrej	Gapkar	1	769
+272	Tarhanič Barbora r. Hužvár		0	5
+272	Tarhanič Helena		0	5
+272	Tarhanič Imrich	mal	1	769,770,781,782,791,801,1137,1138,1169,1170,1172,1173,1174,1207,1208,1214,1239,1378,1405,1538,1539,1564,1569,1601
+272	Tarhanič Imrich	mal. mal	1	1406
+272	Tarhanič Imrich	maloletý	0	5
+272	TARHANIČ Imrich		1	649,686,706,768,1590
+272	Tarhanič Irena	maloletá	0	5
+272	Tarhanič Ján	ž. Mária r.Kraželová	1	674
+272	Tarhanič Ján r. Tarhanič	ž.Mária r.Kraželová	1	753,923,924,925
+272	Tarhanič Jozef		1	706,770,782,784,801,1137,1138,1207,1214,1239,1405,1406,1538,1539,1564,1569,1602
+272	Tarhanič Michal		1	692,770,774,782,784,801,1137,1138,1396,1397,1400,1401,1405,1406,1493,1494,1495,1602
+272	Tarhanič Michal r. Tarhanič		1	1310
+272	Tarhanič Mikuláš		1	5,649,686,706,768,770,781,782,791,801,1137,1138,1169,1170,1172,1173,1174,1207,1208,1214,1239,1378,1405,1406,1538,1539,1564,1569,1590,1601
+272	Tarhanič Mikuláš	mal	1	769
+272	Tarhanič Rudolf	mal	1	769,770,781,782,791,801,1137,1138,1169,1170,1172,1173,1174,1207,1208,1214,1239,1378,1405,1406,1538,1539,1564,1569,1601
+272	Tarhanič Rudolf	maloletý	0	5
+272	TARHANIČ Rudolf		1	649,686,706,768,1590
+272	Tarhanič Štefan r. Tarhanič	USA	1	782
+272	Tarhanič Vincent		0	706,1214,1569
+272	Tarhanič Vincent	maloletý	0	5
+272	TARHANIČOVÁ Alžbeta		1	706
+272	TARHANIČOVÁ Alžbeta	mal	1	770,782,801,1137,1138,1207,1214,1239,1405,1406,1538,1539,1564,1569
+272	TARHANIČOVÁ Alžbeta	r.Sabolová	1	770,801,1137,1138
+272	Tarhaničová Alžbeta r. Bakajová		1	776
+272	Tarhaničová Alžbeta r. Sabolová		1	778,782,783,787,793,794,799,803,804,815,816,817,819,1322,1405,1406
+272	Tarhaničová Anna r. Gregová, Bukovec 74, Bukovec, PSČ 044 20, SR	zomr. 04.05.1981	1	804
+272	Tarhaničová Anna r. Sabolová	vd	1	715,1086,1087
+272	Tarhaničová Anna r. Výrostková	vd	1	759,802
+272	Tarhaničová Helena		1	649,686,706,768,770,781,782,791,801,1137,1138,1169,1170,1172,1173,1174,1207,1208,1214,1239,1378,1405,1406,1538,1539,1564,1569,1590,1601
+272	Tarhaničová Helena	mal	1	769
+272	TARHANIČOVÁ Katarína	r.Bakajová	1	770,801,1137,1138
+272	Tarhaničová Katarína r. Bakajová		1	649,777,779,781,782,1169,1170,1405,1406,1600,1601,1625
+272	Tarhaničová Katarína r. Repášová		1	784,1602
+272	Tarhaničová Margita		1	706,770,782,801,1137,1138,1207,1214,1239,1405,1406,1538,1539,1564,1569
+272	TARHANIČOVÁ Mária	r.Roškovenská	1	770,801,1137,1138
+272	Tarhaničová Mária r. Roškovenská		1	682,700,778,782,783,786,787,793,794,799,803,804,815,816,817,1314,1322,1405,1406,1412,1555
+272	Tarhaničová Mária r. Sabolová		1	784,1602
+272	Tarhaničová Mária r. Stupárová	Durinda	1	827
+272	Tarhaničova Marta		1	768
+272	Tarhaničová Marta	mal	1	769
+272	Tomčíková Anna		1	678,680,770,782,801,1137,1138,1405,1406
+272	Varga Ján r. Varga	ž. Anna r. Pillarová	1	763
+272	Varga Jozef		1	802
+272	Varga Jozef r. Varga		1	744,1124,1125
+272	VARGA Juraj		1	770,782,801,1137,1138,1405,1406
+272	Varga Marta r. Tarhanič		0	5
+272	Varga Michal r. Varga	ž. Mária r. Stupárová	1	763
+272	Varga Michal r. Varga, Bukovec 56, Bukovec, PSČ 044 20, SR		0	652
+272	VARGOVÁ Anna	r.Pilárová	1	770,801,1137,1138
+272	Vargová Anna r. Pilárová		1	703,782,785,803,1134,1135,1136,1205,1405,1406,1593,1606,1607,1608,1609
+272	VARGOVÁ Mária		1	770,782,801,1137,1138,1405,1406
+272	VARGOVÁ Mária	r.Stupárová	1	770,801,1137,1138
+272	Vargová Mária r. Bakajová		1	649,685,686,693,772,791,792,796,805,820,1080,1126,1127,1169,1170,1172,1173,1174,1208,1378,1380,1420,1449,1568,1590,1603
+272	Vargová Mária r. Bernátová		1	652
+272	Vargová Mária r. Gregová		1	677,730,1318,1319
+272	Vargová Mária r. Oružinská		1	744,1124,1125
+272	Vargová Mária r. Stupárová		1	669,687,776,782,812,869,1120,1155,1250,1252,1256,1257,1258,1311,1312,1326,1355,1367,1383,1392,1405,1406,1619,1622
+272	VARGOVÁ Marta	r.Tarhaničová	1	770,801,1137,1138
+272	Vargová Marta r. Tarhaničová		1	649,686,706,781,782,791,1169,1170,1172,1173,1174,1207,1208,1214,1239,1378,1405,1406,1538,1539,1564,1569,1590,1601
+272	VARGOVÁ Žofia		1	770,782,801,1137,1138,1405,1406
+272	VOJTKO Jozef		1	770,782,801,1137,1138,1405,1406
+272	WOJTKO Andrej		1	770,782,801,1137,1138,1405,1406
+272	WOJTKO Michal		1	770,782,801,1137,1138,1405,1406
+272	WOJTKOVÁ Mária		1	770,782,801,1137,1138,1405,1406
+272	ZEMKOVÁ Anna	r.Tomčíková	1	770,801,1137,1138
+272	Zemková Anna r. Tomčíková		1	678,680,782,1405,1406
+272	ZIATEKOVÁ Marta	r.Dzureňová	1	770,801,1137,1138
+272	Ziateková Marta r. Dzureňová		1	676,685,699,703,755,782,785,803,813,818,1134,1135,1136,1205,1255,1405,1406,1421,1422,1593,1606,1607,1608,1609
+273	Alman Adolf r. Alman		0	634
+273	Balcová Terézia r. Šangala		0	588
+273	Baniak Ján		1	173
+273	Baniak Ján r. Baniak		0	393
+273	Berecká Mária r. Berecká		0	415
+273	Berecká Mária r. Plavka		0	540
+273	Bobrovnícka Margita r. Kulina		1	188
+273	Bohuš Pavol	žen. s Emíliou Krivoš	1	147,182,192,196,199
+273	Bohuš Pavol r. Bohuš, žen. s Emíliou Krivoš žen. s Emíliou Krivoš		0	548
+273	Bohušová Emília r. Krivoš		1	147,182,192,196,199,593
+273	Bubalová Alžbeta Božena r. Dulačka		1	264,270,393,625,699
+273	Bukovinská Emília r. Meško		0	484
+273	Bukovinský Edo r. Bukovinský		0	609
+273	Bukovinský Ján	mladý	1	138
+273	Bukovinský Ján r. Bukovinský, mladý mladý		0	393
+273	Bukovinský Peter	NV2	1	167
+273	Bukovinský Peter Pavel		1	221,222
+273	Bukovinský Peter Pavel r. Bukovinský		0	547
+273	Bukovinský Peter r. Bukovinský, NV2 NV2		0	546
+273	Bukovinský Vendel r. Bukovinský		0	569
+273	Bukovinský Vendelín	NV1 mladý	1	141
+273	Bukovinský Vendelín r. Bukovinský, NV1 mladý NV1 mladý		0	553
+273	Čarniová Mária r. Jurčík		1	167
+273	Čarniová Mária r. Jurčík, Jurajova Jurajova		0	414
+273	Čemický Vendelín		1	262
+273	Čemický Vendelín r. Čemický		0	597
+273	Daniel Jozef r. Daniel		0	579
+273	Daniel Jozef r. Daniel, žen. s Žofiou Plávka žen. s Žofiou Plávka		0	428
+273	Devoš Pavel r. Devoš, Pasteurovo námestie 531/11, Košice, PSČ 040 01, Slovenská republika, zomr. 19.4.1999 zomr. 19.4.1999		0	640
+273	Devoša Alexander r. Devoša		0	643
+273	Devoša Ján r. Devoša		0	469
+273	Devoša Ján r. Devoša, z Muru z Muru		0	587
+273	Devošová Anna r. Moravčíková, I., Bukovina, PSČ 032 23, Slovenská republika, nepr.v D 149/1985, zom.19.01.1985 nepr.v D 149/1985, zom.19.01.1985		0	430
+273	Dobák Klementín	mal	1	159
+273	Dobák Klementín r. Dobák, mal. mal.		0	584
+273	Dobák Peter Ján		1	159
+273	Dobák Peter Ján r. Dobák		0	557
+273	Dulačka Michal r. Dulačka, Bukovina I., Bukovina, PSČ 032 23, Slovenská republika, zom.15.01.1953 zom.15.01.1953		0	372,527
+273	Dulačka Michal r. Dulačka, zomr. 15.1.1953, Bukovina, SR		0	221,264,270
+273	Fronko Ján r. Fronko, NV mladý NV mladý		0	575
+273	Fronko Ondrej r. Fronko		0	479
+273	Gaško Adam		1	147,192
+273	Gaško Adam	NV	1	196,199
+273	Gaško Adam r. Gaško, NV NV		0	391,513,615,629
+273	Gaško Andrej	NV	1	147,192,196,199
+273	Gaško Andrej	NV mal	1	147,192,196,199
+273	Gaško Andrej r. Gaško, mal. mal.		0	368,606,638
+273	Gaško Andrej r. Gaško, NV NV		0	611,615,629
+273	Gaško Ján	NV	1	147,192,196,199
+273	Gaško Ján	NV mal	1	147,192,196,199
+273	Gaško Ján r. Gaško, mal. mal.		0	373,384,516
+273	Gaško Ján r. Gaško, NV NV		0	530
+273	Gaško Jozef	NV	1	147,192,196,199
+273	Gaško Jozef r. Gaško, NV NV		0	382,393,424,638
+273	Gaško Juraj	NV mal	1	147,192,196,199
+273	Gaško Juraj r. Gaško, mal. mal.		0	368,393,395,425
+273	Gaško Mikuláš	NV mal	1	147,192,196,199
+273	Gaško Mikuláš r. Gaško, mal. mal.		0	368,393,395,490
+273	Gaško Ondrej r. Gaško, NV NV		0	594
+273	Gaško Peter	NV mal	1	147,192,196,199
+273	Gaško Peter r. Gaško, mal. mal.		0	382,393,533,638
+273	Gašková Helena Ilona	NV mal	1	147,192,196,199
+273	Gašková Helena Ilona r. Gašková, mal. mal.		0	373,382,391,405,625,638
+273	Gašková Júlia	NV mal	1	147,192,196,199
+273	Gašková Júlia r. Gašková, mal. mal.		0	368,393,395,523
+273	Gašková Kornélia	NV mal	1	147,192,196,199
+273	Gašková Kornélia r. Gašková, mal. mal.		0	373,382,384,406,625,638
+273	Gašková Štefánia r. Gašková, mal. mal.		0	406,625
+273	Gašková Zuzana	NV mal	1	147,192,196,199
+273	Gašková Zuzana r. Gašková, mal. mal.		0	393,599,615,629
+273	Gašková Želmíra r. Gašková, mal. mal.		0	405,625
+273	Guráň Adam r. Guráň		0	643
+273	Guráň Ján r. Guráň, NV mladý NV mladý		0	627
+273	Guráň Ján r. Guráň, NV NV		0	468
+273	Guráň Ján r. Guráň, NV starý kováč NV starý kováč		0	627
+273	Guráň Ján r. Guráň, NV trafikant NV trafikant		0	634
+273	Guráň Jozef r. Guráň, NV1 NV1		0	460
+273	Guráň Jozef r. Guráň, NV2 NV2		0	483
+273	Guráň Miloš r. Guráň, mal. mal.		0	633
+273	Guráň Pavol r. Guráň		0	504
+273	Guráň Peter r. Guráň, mal. mal.		0	592
+273	Guráň Peter r. Guráň, NV NV		0	633
+273	Guráňová Anna r. Guráňová		0	583
+273	Guráňová Gizella r. Turník		0	643
+273	Guráňová Mária r. Kováč		0	627
+273	Guráňová Zuzana r. Droppa		0	509
+273	Guráňová Zuzana r. Guráňová		0	556
+273	Guráňová Zuzana r. Kováč		0	643
+273	Guráňová Zuzana r. Rády		0	633
+273	Habaníková Emília r. Guráň		0	613
+273	Horníčková Vilma r. Horníčková, mal. mal.		0	446
+273	Hudecová Cecília r. Kokoška Michalova		1	264,270,438,625,699
+273	Hudecová Terézia r. Svitek		1	156,264,503,625
+273	Kabzan Bertalan r. Kabzan, mal. mal.		0	634
+273	Kabzan Ján r. Kabzan, mal. mal.		0	634
+273	Kabzan Jozef r. Kabzan		0	607
+273	Kabzan Michal r. Kabzan		0	534
+273	Kabzanová Anna r. Kabzanová, mal. mal.		0	377
+273	Kabzanová Zuzana r. Kabzanová		0	526,634
+273	Kabzanová Zuzana r. Kabzanová, mal. mal.		0	634
+273	Kabzanová Žofia r. Kabzanová, mal. mal.		0	491
+273	Kellová Etela r. Martinčiak		0	429
+273	Klučková Mária r. Krištofík		0	423
+273	Krištofík Ján r. Krištofík		0	478
+273	Krištofík Pavol r. Krištofík		0	442,634
+273	Krištofíková Mária r. Krištofíková		0	531
+273	Kulina Kazimír		1	188
+273	Kulinová Mária		1	188
+273	Lavotta Alexander r. Lavotta, žen. s Annou Lehotský žen. s Annou Lehotský		0	454
+273	Lavotta Ondrej r. Lavotta, slobodný vojak slobodný vojak		0	555
+273	Lofajová Mária r. Gaško		1	147,192,196,199,374,379,382,386,625
+273	Lovichová Žofia r. Gaško		1	147,192,196,199,374,379,382,386,625
+273	Martinčiak Gustáv r. Martinčiak		0	402
+273	Martinčiak Jozef		1	268
+273	Martinčiak Jozef r. Martinčiak		0	524

@@ -1,0 +1,256 @@
+1532	Veselovská Dorota, SR	Jančo	0	1447,1448,1449,1450,1453
+1532	Veselovská Katarína r. Križovská		0	2184
+1532	Veselovská Katarína r. Križovská, SR		0	1446,1447,1448,1449,1450,1451,1452,1453
+1532	Veselovská Lucia r. Veselovská, Miškovský Miškovský		0	2184
+1532	Veselovská Lucia r. Veselovská, SR	Miškovský	0	1446,1447,1448,1449,1450,1451,1452,1453
+1532	Veselovská Mária r. Cárachová, Martinovský Martinovský		0	2184
+1532	Veselovská Mária r. Cárachová, SR	Martinovský	0	1446,1447,1448,1449,1450,1451,1452,1453
+1532	Veselovská Mária, Martinovský Martinovský		0	2184
+1532	Veselovská Mária, SR	Martinovský	0	1446,1447,1448,1449,1450,1451,1452,1453
+1532	Veselovská Rozália		0	2184
+1532	Veselovská Rozália, SR		0	1446,1447,1448,1449,1450,1451,1452,1453
+1532	Veselovská Sidónia r. Glembová, Juričko Juričko		0	2184
+1532	Veselovská Sidónia r. Glembová, SR	Juričko	0	1447,1448,1449,1450,1453
+1532	Veselovská Štefánia r. Glembová, Matulík Matulík		0	2184
+1532	Veselovská Štefánia r. Glembová, SR	Matulík	0	1446,1447,1448,1449,1450,1451,1452,1453
+1532	Veselovská Valéria r. Targošová, Mikušiak Mikušiak		0	2184
+1532	Veselovská Valéria r. Targošová, SR	Mikušiak	0	1446,1447,1448,1449,1450,1451,1452,1453
+1532	Veselovská Valéria, Jančo Jančo		0	2184
+1532	Veselovská Valéria, SR	Jančo	0	1446,1447,1448,1449,1450,1451,1452,1453
+1532	Veselovská Veronika, Jančo Jančo		0	2184
+1532	Veselovská Veronika, SR	Jančo	0	1446,1447,1448,1449,1450,1451,1452,1453
+1532	Veselovský Alexander r. Veselovský		0	2184
+1532	Veselovský Alexander, SR		0	1447,1448,1449,1450,1453
+1532	Veselovský Cyril r. Veselovský		0	2184
+1532	Veselovský Cyril r. Veselovský, Martinovský Martinovský		0	2184
+1532	Veselovský Cyril, SR		0	1447,1448,1449,1450,1453
+1532	Veselovský Cyril, SR	Martinovský	0	1446,1447,1448,1449,1450,1451,1452,1453
+1532	Veselovský František r. Veselovský, Juričko Juričko		0	2184
+1532	Veselovský František, SR	Juričko	0	1447,1448,1449,1450,1453
+1532	Veselovský Karol r. Veselovský, Kajda Kajda		0	2184
+1532	Veselovský Karol, SR	Kajda	0	1446,1447,1448,1449,1450,1451,1452,1453
+1532	Veselovský Leo r. Veselovský, Martinovský Martinovský		0	2184
+1532	Veselovský Leo, SR	Martinovský	0	1446,1447,1448,1449,1450,1451,1452,1453
+1532	Veselovský Ľudovít r. Veselovský, Lipovsky Lipovsky		0	2184
+1532	Veselovský Ľudovít, SR	Lipovsky	0	1447,1448,1449,1450,1453
+1532	Veselovský Ondrej r. Veselovský		0	2184
+1532	Veselovský Ondrej r. Veselovský, Kajda Kajda		0	2184
+1532	Veselovský Ondrej, SR		0	1446,1447,1448,1449,1450,1451,1452,1453
+1532	Veselovský Ondrej, SR	Kajda	0	1446,1447,1448,1449,1450,1451,1452,1453
+1532	Veselovský Pavol r. Veselovský		0	2184
+1532	Veselovský Pavol r. Veselovský, Kajda Kajda		0	2184
+1532	Veselovský Pavol, SR		0	1446,1447,1448,1449,1450,1451,1452,1453
+1532	Veselovský Pavol, SR	Kajda	0	1446,1447,1448,1449,1450,1451,1452,1453
+1532	Veselovský Tomáš r. Veselovský, Jančo Jančo		0	2184
+1532	Veterník Ambróz r. Veterník, Črep Črep		0	2184
+1532	Veterník Ambróz, SR	Črep	0	1446,1447,1448,1449,1450,1451,1452,1453
+1532	Vierik Anton r. Vierik, Múka Múka		0	2184
+1532	Vierik Anton r. Vierik, Pník Pník		0	2184
+1532	Vierik Anton, SR	Múka	0	1446,1447,1448,1449,1450,1451,1452,1453
+1532	Vierik Anton, SR	Pník	0	1446,1447,1448,1449,1450,1451,1452,1453
+1532	Vierik Cyril r. Vierik		0	2184
+1532	Vierik Cyril, SR		0	1446,1447,1448,1449,1450,1451,1452,1453
+1532	Vierik Ján	Ondrašík	0	1430
+1532	Vierik Ján r. Vierik, Tomášov Tomášov		0	2184
+1532	Vierik Ján, SR	Tomášov	0	1339,1341,1447,1448,1449,1450,1453
+1532	Vierik Martin r. Vierik, Faktor Faktor		0	2184
+1532	Vierik Martin, SR	Faktor	0	1447,1448,1449,1450,1453
+1532	Vierik Matúš r. Vierik		0	2184
+1532	Vierik Matúš r. Vierik, posledne bytom Švermova 1457/16, Galanta, SR	zomr. 13.10.2001	0	1446,1447,1448,1449,1450,1451,1452,1453,2184
+1532	Vierik Matúš, SR		0	1446,1447,1448,1449,1450,1451,1452,1453
+1532	Vierik Mikuláš r. Vierik		0	2184
+1532	Vierik Mikuláš, SR		0	1447,1448,1449,1450,1453
+1532	Vierik Ondrej r. Vierik		0	2184
+1532	Vierik Ondrej, SR		0	1446,1447,1448,1449,1450,1451,1452,1453
+1532	Vierik Pavol r. Vierik		0	2184
+1532	Vierik Pavol, SR		0	1446,1447,1448,1449,1450,1451,1452,1453
+1532	Vierik Štefan r. Vierik, Braček Braček		0	2184
+1532	Vierik Štefan r. Vierik, Maslan Maslan		0	2184
+1532	Vierik Štefan, SR	Braček	0	1446,1447,1448,1449,1450,1451,1452,1453
+1532	Vierik Štefan, SR	Maslan	0	1446,1447,1448,1449,1450,1451,1452,1453
+1532	Vierik Tomáš r. Vierik		0	2184
+1532	Vierik Tomáš, SR		0	1446,1447,1448,1449,1450,1451,1452,1453
+1532	Vierik Viktor r. Vierik, Maslan Maslan		0	2184
+1532	Vierik Viktor, SR	Maslan	0	1446,1447,1448,1449,1450,1451,1452,1453
+1532	Vieriková Anna r. Múková, 034 72, Liptovská Lúžna, SR	Faktor	0	1447,1448
+1532	Vieriková Anna r. Múková, 034 72, LIptovská Lúžna, SR		0	1450
+1532	Vieriková Anna r. Múková, Faktor Faktor		0	2184
+1532	Vieriková Anna, SR	slobodná, 5.7.1945	1	1762
+1532	Vieriková Emília r. Strnisková		0	2805
+1532	Vieriková Františka		0	1446,1447,1448,1449,1450,1451,1452,1453,2184
+1532	Vieriková Hermína		0	2184
+1532	Vieriková Hermína, SR		0	1446,1447,1448,1449,1450,1451,1452,1453
+1532	Vieriková Irena		0	2184
+1532	Vieriková Irena, SR		0	1446,1447,1448,1449,1450,1451,1452,1453
+1532	Vieriková Juliana, Maslan Maslan		0	2184
+1532	Vieriková Juliana, SR	Maslan	0	1446,1447,1448,1449,1450,1451,1452,1453
+1532	Vieriková Katarína r. Hubová		0	2184
+1532	Vieriková Katarína r. Hubová, SR		0	1446,1447,1448,1449,1450,1451,1452,1453
+1532	Vieriková Kristína r. Fidesová		0	2184
+1532	Vieriková Kristína r. Fidesová, SR		0	1447,1448,1449,1450,1453
+1532	Vieriková Mária r. Veselovská		0	2184
+1532	Vieriková Mária r. Veselovská, SR	Maslan	0	1446,1447,1448,1449,1450,1451,1452,1453
+1532	Vieriková Mária, Maslan Maslan		0	2184
+1532	Vieriková Mária, SR	Maslan	0	1446,1447,1448,1449,1450,1451,1452,1453
+1532	Vieriková Petronela, Forgata Forgata		0	2184
+1532	Vieriková Petronela, SR	Forgata	0	1446,1447,1448,1449,1450,1451,1452,1453
+1532	Vieriková Valéria, Múka Múka		0	2184
+1532	Vieriková Valéria, SR	Múka	0	1446,1447,1448,1449,1450,1451,1452,1453
+1532	Vieriková Veronika		0	2184
+1532	Vieriková Veronika, SR		0	1446,1447,1448,1449,1450,1451,1452,1453
+1532	Vieriková Zuzana		0	2184
+1532	Vieriková Zuzana, SR		0	1446,1447,1448,1449,1450,1451,1452,1453
+1532	Vilpiniová Emília, SR		0	1449
+1532	Vjenec Ján r. Vjenec		0	3086
+1532	Vlnieška Cyril r. Vlnieška		0	2184
+1532	Vlnieška Cyril, SR		0	1447,1448,1449,1450,1453
+1532	Vlnieška Ján r. Vlnieška		0	2184
+1532	Vlnieška Ján r. Vlnieška, Mago Mago		0	2184
+1532	Vlnieška Ján, SR		0	1446,1447,1448,1449,1450,1451,1452,1453
+1532	Vlnieška Ján, SR	Mago	0	1446,1447,1448,1449,1450,1451,1452,1453
+1532	Vlnieška Jozef r. Vlnieška		0	2184
+1532	Vlnieška Jozef r. Vlnieška, Mago Mago		0	2184
+1532	Vlnieška Jozef, SR		0	1446,1447,1448,1449,1450,1451,1452,1453
+1532	Vlnieška Jozef, SR	Mago	0	1446,1447,1448,1449,1450,1451,1452,1453
+1532	Vlniešková Mária		0	2184
+1532	Vlniešková Mária, SR		0	1446,1447,1448,1449,1450,1451,1452,1453
+1532	Votrubová Štefánia r. Burjanová, SR		0	1448,1449
+1532	Vulpini Benjamin r. Vulpini		0	2174,3213
+1532	Vulpini Benjamin, SR		1	1268,1285,1448,1449,1450,1682,1689,1729
+1532	Vulpiniová Ema		0	3120
+1532	Vulpiniová Ema, SR		1	1268,1285,1682,1689
+1532	Vulpiniová Emília		0	3158
+1532	Vulpiniová Emília, SPF SPF		1	2134
+1532	Vulpiniová Emília, SR		1	1268,1285,1448,1450,1682,1689,1729
+1532	Vulpiniová Emma		0	2180
+1532	Vulpiniová Emma, SPF SPF		1	2134
+1532	Vulpiniová Emma, SR		1	1448,1449,1450,1729
+1532	Vulpiniová Juliana r. Baršiová		0	3184
+1532	Vulpiniová Mária		0	2134,2713
+1532	Vulpiniová Mária, SR		1	1268,1285,1448,1449,1450,1682,1689,1729
+1532	Vulpiniová Štefánia r. Sviežená, SR		0	1448,1449
+1532	Vulpiniová Viktória r. Maškuricová, SR	manž.Ambroz, zom. 27.08.1979	0	1591,3424
+1532	Vulpíny Benjamín r. Vulpíny		0	2180
+1532	Vulpíny Jozef r. Vulpíny		0	2184,2855
+1532	Vulpíny Jozef, SR		0	1446,1447,1448,1449,1450,1451,1452,1453
+1532	Vulpíny Peter		0	2394
+1532	Vulpinyi Jozef, SR		0	1268,1448,1449,1450
+1532	Vulpinyi Peter, SR	Kuska	0	1448,1449,1450
+1532	Vulpínyiová Emília, mal. mal.		0	3213,3228
+1532	Vulpinyiová Emília, SR	mal	0	1268
+1532	Vulpínyiová Emma, mal. mal.		0	3228
+1532	Vulpinyiová Emma, SR	mal	0	1268
+1532	Vulpinyiová Katarína r. Mičudová, SR		0	1448,1449,1450
+1532	Vulpínyiová Mária r. Vulpínyiová, mal. mal.		0	2462
+1532	Vulpinyiová Mária, SR	mal	0	1268
+1532	Vulpinyiová Zuzana r. Ondrejková, SR		0	1285
+1532	Vulpínyiová Zuzana, Vulpínyiová Vulpínyiová		0	2294
+1532	Vulpínyová Emília		0	3198
+1532	Vulpínyová Emma		0	3198
+1532	Vulpinyová Eva r. Podhorányi, SPF SPF		1	2134,2180
+1532	Vulpínyová Mária, mal. mal.		0	3227
+1532	Vulpínyová Pavlína r. Sviežená, 034 01, Liptovská Štiavnica, č. 33, SR	zomrela 23.10.1985	0	1446,1447,1448,1449,1450,1451,1452,1453,1571,1590,1597
+1532	Vulpínyová Štefánia r. Sviežená		0	3227
+1532	Zajac Ján, SR		0	1414,1415
+1532	Zajac Jozef r. Zajac, Kubas Kubas		0	2184
+1532	Zajac Jozef, SR	Kubas	0	1446,1447,1448,1449,1450,1451,1452,1453
+1532	Zajac Klement r. Kubas, SR		0	1447
+1532	Zajac Klement r. Zajac, Kubas Kubas		0	2184
+1532	Zajac Klement, SR	Kubas	0	1446,1448,1449,1450,1451,1452,1453
+1532	Zajac Tomáš r. Zajac		0	2184
+1532	Zajac Tomáš, SR		0	1446,1447,1448,1449,1450,1451,1452,1453
+1532	Zaštírová Emília r. Tholtová		0	3227
+1532	Zaťko Andrej r. Zaťko		0	2184
+1532	Zaťko Andrej, SR		0	1446,1447,1448,1449,1450,1451,1452,1453
+1532	Zaťko Ondrej r. Zaťko		0	2978,3205
+1532	Zatková Pavlina r. Lovasová		0	2676
+1532	Zatková Pavlina r. Lovasová, SR		0	1262,1264,1876
+1532	Zelinka Albín		0	2180
+1532	Zelinková Žofia r. Kohútová		0	2184
+1532	Zelinková Žofia r. Kohútová, SR		0	1446,1447,1448,1449,1450,1451,1452,1453
+1532	Zubaj Cyprián r. Zubaj		0	2184
+1532	Zubaj Cyprián, SR		0	1446,1447,1448,1449,1450,1451,1452,1453
+1532	Zubaj Ján r. Zubaj		0	3205
+1532	Zubajová Helena r. Filová, SR	zomr. 19.5.1991	0	1264
+1532	Zubajová Ilona r. Filová		0	3227
+1532	Zubajová Mária		0	3205
+1532	Zubajová Mária r. Demková		0	2184
+1532	Zubajová Mária r. Demková, SR		0	1446,1447,1448,1449,1450,1452,1453
+1532	Zubajová Mária, SR	Demková	0	1451
+1532	Zubčeková Mária r. Ondrejková		0	3114,3227
+1532	Zubčeková Mária r. Ondrejková, SR		1	1268,1285,1689
+1532	Zvada Alojz r. Zvada		0	2128,2184,3186,3205
+1532	Zvada Alojz, SR		0	1446,1447,1448,1449,1450,1451,1452,1453
+1532	Zvada Jozef r. Zvada		0	3227
+1532	Zvada Mikuláš, SR	zom. 27.10.1971	0	1740
+1532	Zvada Štefan r. Zvada		0	3227
+1532	Zvadová Mária		0	2338
+1532	Zvadová Mária r. Mikulcová		0	2184
+1532	Zvadová Mária r. Mikulcová, SR		1	1446,1447,1448,1449,1450,1451,1452,1453,1539,1808
+1532	Zvadová Zuzana		0	3205
+1532	Žittová Petronela r. Črepová		0	2184
+1532	Žittová Petronela r. Črepová, SR		0	1446,1447,1448,1449,1450,1451,1452,1453
+1532	Žltka Juraj r. Žltka		0	2184
+1532	Žltka Juraj, SR		0	1446,1447,1448,1449,1450,1451,1452,1453
+1533	ALMAN Adolf		0	1137
+1533	ALMÁŠIOVÁ Ema	r.Dunajská	0	1243
+1533	Almášiová Ema r. Dunajská		1	1945
+1533	Andelová Anna r. Palková, SR		1	1837
+1533	Andoháry Margita		0	1305
+1533	Argaláš Adolf	brat Adele	1	2129
+1533	Argaláš Adolf, SR		1	1520
+1533	Argaláš Adolf, SR	brat Adele	1	2127
+1533	Argaláš Anton	Ribársky brat Petra	1	2094
+1533	Argaláš Bartolomej	ž.Amália r.Trnovská	1	2130
+1533	Argaláš Eduard	ž.Emília r.Priesolová	1	2129
+1533	Argaláš Eduard, SR	ž.Emília r.Priesolová	1	2099,2127
+1533	Argaláš Emil	ž.Cecília r.Hesteriaková	1	2129
+1533	Argaláš Emil, SR	ž.Cecília r.Hesteriaková	1	2127
+1533	Argaláš Jozef	čižmár ž.Mária r.Trnovská	1	2130
+1533	Argaláš Jozef	Hazuchovie ž.Zuzana r.Trnovská	1	2130
+1533	Argaláš Jozef	Ondrovie	1	2127
+1533	ARGALÁŠ Jozef	Ondrovie, ž.Margita r.Trnovská; ; ž.Margita r.Trnovská	1	2129
+1533	Argaláš Jozef, SR	brat Antona	1	2100,2110
+1533	Argaláš Peter	od Argaláša Kasanického Jána	1	2134
+1533	Argaláš Peter	ž.Mária r.Švidroňová	1	2130
+1533	ARGALÁŠOVÁ Anna	r.Zvonárová	0	1107
+1533	Argalášová Anna r. Fehérpatokyová	ž.Bartolomeja	1	2129,2130
+1533	Argalášová Anna r. Fehérpatokyová, SR	ž.Bartolomeja	1	2127
+1533	Argalášová Anna r. Trnovská	ž.Antona	1	2095,2130
+1533	Argalášová Antónia		1	1301
+1533	Argalášová Antónia	sestra Rudolfa a Jozefa	1	2129,2130
+1533	Argalášová Antónia, SR	sestra Rudolfa a Jozefa	1	2099,2127
+1533	Argalášová Brigita r. Mrvová	ž.Ladislava	1	2130
+1533	ARGALÁŠOVÁ Cecília	Hazuchovie sestra Petra	1	1222
+1533	ARGALÁŠOVÁ Helena		0	1255
+1533	ARGALÁŠOVÁ Helena	r.Likavcová	0	968,1031,1098,1141,1157,1196
+1533	ARGALÁŠOVÁ Irena	r.Hvorková	0	1012
+1533	Argalášová Judita r. Trnovská	ž.Ladislava	1	2095
+1533	Argalášová Mária r. Hazuchová, SR		1	1430,1431,1432,1444,1482,2141
+1533	Argalášová Mária r. Mrvová	ž.Petra Hazuchovie	1	2134
+1533	Argalášová Mária, SR		1	1430,1431,1432,1443,1520,1545,2141
+1533	Argalášová Mária, SR	r.Mrvová ž.Petra Hazuchovie r.Mrvová ž.Petra Hazuchovie	1	1222,2130
+1533	Argalášová Vilma r. Pechová	vd.zom	1	1357
+1533	Argalášová Zuzana	Hazuchovie, r.Trnovská ž.Jozefa	1	2130
+1533	BACSUK Medard		0	1156
+1533	BACSUKOVÁ Katarína		0	1156
+1533	BACSUKOVÁ Margita		0	1156
+1533	Bačík Fridrich		1	2079
+1533	Bačík Fridrich, SR		1	1676
+1533	Bačík Jozef		1	2079
+1533	Bačík Jozef, SR		1	1676
+1533	BAČÍK Koloman		1	1110,2010,2085,2087
+1533	Bačík Michal		1	2079
+1533	Bačík Michal, SR		1	1676
+1533	Bačík Rudolf		1	2079
+1533	Bačík Rudolf, SR		1	1676
+1533	BAČÍK Viliam		1	988,989,1083,1252,1316,1333,1334
+1533	Bačík Viliam, SR		1	1300,1676,1785,2078,2079,2148,2160
+1533	BAČÍKOVÁ Alžbeta		1	1060,2079
+1533	Bačíková Alžbeta, SR		1	1676
+1533	Bačíková Eva r. Brezinová, SR	m.Matej	1	2115
+1533	BAČÍKOVÁ Irena	r.Dubravcová	0	913
+1533	BAĎO Anton	ž.Anna r.Švidronová; ž.Anna r.Švidronová	0	731
+1533	BAĎO Cyril		1	768,866,1521,1897,2028
+1533	Baďo Cyril, SR	ž.Margita r.Krakovská	1	2128
+1533	Baďo Daniel	Michál ž.Romana r.Senková	1	2128

@@ -1,0 +1,256 @@
+2908	SMUTNÁ Rozália	rod.Hanczková	0	309,466,470
+2908	SMUTNÁ Rozália	rod.Hanczková, I	0	359
+2908	STANOVÁ Irma	rod.Nádaždyová	0	619
+2908	STERN Gejza		0	415
+2908	STERN Gejza	I	0	350
+2908	STERN Gejza	II	0	515
+2908	STERN Gejza	III	0	386
+2908	STERN Izidor		0	415
+2908	STERN Izidor	I	0	515
+2908	STERN Izidor	II	0	386
+2908	STERN Izidor	III	0	350
+2908	STERN Mór		0	386
+2908	STERN Mór	I	0	350
+2908	STERN Žigmund		0	415
+2908	STERN Žigmund	I	0	515
+2908	STERN Žigmund	II	0	386
+2908	STERN Žigmund	III	0	350
+2908	STERNOVÁ Mária		0	415
+2908	STERNOVÁ Mária	I	0	515
+2908	SÚČOVÁ Jolana	rod.Šubová	0	521
+2908	SVITAČ František		0	621,659,664
+2908	SVITAČ Július		0	621,655,664
+2908	SVITÁČOVÁ Alžbeta	rod.Imreová	0	621,652,664
+2908	SZALAY Jozef		0	335,396,506,786
+2908	SZENTKERESZTIOVÁ Irma	rod.Botková	0	444,470
+2908	SZÚCSOVÁ Jolana	rod.Šelingerová	0	498
+2908	ŠÁRI Alexander		0	351,352
+2908	ŠÁRI Ján		0	462,470
+2908	ŠÁRI Viliam	I	0	523
+2908	ŠÁRI Viliam	II	0	351,352
+2908	ŠÁRIKOVÁ Etela	rod.Liptáková	0	641
+2908	ŠÁRIOVÁ Zuzana	rod.Majlingová	0	300,301,302
+2908	ŠIMONOVÁ Emília		0	502
+2908	ŠIMONOVÁ Emília	rod.Várdaiová	0	502,503
+2908	ŠIMONOVÁ Lýdia	rod.Čereiová	0	462,470
+2908	ŠIMONOVÁ Rozália		0	548
+2908	ŠIMONOVÁ Rozália	I	0	405
+2908	ŠOMOGYI Michal		0	464,470
+2908	ŠOMOGYIOVÁ Mária	rod.Rotaová	0	464,470
+2908	ŠTIGLINC Ĺudovít	I	0	399
+2908	ŠTIGLINCOVÁ Jolana	rod.Baranecová	0	498,499
+2908	ŠTIGLINCOVÁ Mária	rod.Botková,I	0	470
+2908	ŠTRBO Gejza	hluchonemý	1	699,700
+2908	TAKÁČ Ján		0	571
+2908	TAKÁČOVÁ Júlia	rod.Benková	0	571
+2908	TAMÁŠ Vojtech		0	446,470
+2908	TITURUS Jozef		0	658
+2908	TITURUSOVÁ Júlia		0	658
+2908	TÓTHOVÁ Juliana	rod.Lukáčová, I	0	536
+2908	Tóthová Juliana r. Lukáčová		0	334
+2908	TÓTHOVÁ Rozália	rod.Botková	0	495
+2908	TRÁZNYOVÁ Mária	rod.Titurusová	0	658
+2908	TRUNGELOVÁ Vilma	rod.Urgeová	0	622
+2908	UHRIN Michal		0	397,504,505
+2908	UHRIN Ondrej		0	397,504,505,534,535
+2908	Václavová Katarína r. Lukáčová		0	334
+2908	VARGA Blažej		0	532
+2908	Varga Ladislav		0	368
+2908	VARGA Ladislav	I	0	506
+2908	VARGOVÁ Aurélia	rod.Hanczková	0	309,466,470
+2908	VARGOVÁ Estera	rod.Vargová	0	470
+2908	VARGOVÁ Juliana	rod.Némethová	0	396
+2908	VARGOVÁ Juliana	rod.Némethová, I	0	396
+2908	VARGOVÁ Rozália	rod.Ferenciová	0	632
+2908	Vargová Žofia r. Balážová		0	880
+2908	VIKTOROVÁ Oľga	rod.Halácsyová, m.Michal	1	684
+2908	VÍZI František		0	628
+2908	Viziová Žofia r. Kozmová		0	371
+2908	VRANOVÁ Juliana	rod.Baranecová	0	325,326
+2908	VRANOVÁ Juliana	rod.Baranecová, I	0	536
+2908	WEIL Samuel		0	355
+2908	WEISS Ernest		0	299,443,470
+2908	Weiss Jonáš		0	305,306,307
+2908	ZÁHORECOVÁ Agneša	rod.Balogová	0	473
+2908	Zolyomi Alexander	I	0	274,275,276,277,345,537
+2908	ZOLYOMI Alexander	II	0	335
+2909	Bardejovská Emília r. Vančová		0	144
+2909	Bindová Emília r. Bindová	maloletá; maloletá	0	360
+2909	Bindová Veronika r. Patajová	zomr. 2.4.1950	0	390
+2909	Brezovanová Júlia r. Chocholíková		0	51,425
+2909	Bučko Ľudovít r. Bučko	ž. Pavla r. Chochlíková	0	410
+2909	Bučková Pavla r. Chochlíková	m. Ľudovít, zomr. 22.4.2010	0	410
+2909	Crhan Emil r. Crhan		0	243
+2909	CRHAN JOZEF		0	62,354
+2909	Crhan Jozef r. Crhan	zomr. 13.5.1994	0	364
+2909	Crhanová Mária		0	260
+2909	Crhanová Mária r. Števíková		0	58,66,89,123,124,125,251,252,253,258,280,335,427,428
+2909	Crhanová Oľga		0	260
+2909	Degma Štefan r. Degma a Degmová Emília r. Pivková		0	365
+2909	Dubcová Augustína r. Chochlíková		0	51
+2909	Ferančíková Helena r. Ferančíková		0	68
+2909	Folajtárová Emerencia r. Crhanová		0	241
+2909	Foltín Martin r. Foltín	ž. Alžbeta r. Blatniaková, zomr. 16.3.2010	0	374,375
+2909	Foltín Pavol		0	62,77,223,276,288,289,332,333,334,345,354
+2909	Foltín Peter		0	217,218,336,337
+2909	Foltín Peter r. Foltín		0	37,76
+2909	Foltínová Anna r. Pavelková		0	58,89,239,335
+2909	Gavura Štefan		0	219
+2909	Güntlerová Ema r. Hechtová	m. Jozef	0	385
+2909	Hecht Alois r. Hecht		0	385
+2909	Hecht Ignác r. Hecht		0	385
+2909	Hecht Ľudovít r. Hecht		0	386
+2909	Hechtová Alžbeta		0	384
+2909	Hechtová Berta		0	385
+2909	Hlaváčová Oľga r. Pavlovičová	zomr. 31.10.1999	0	378
+2909	Chocholík Jozef r. Chocholík		0	51
+2909	Chocholíková Anna r. Mazanová		0	225
+2909	Chocholíková Veronika r. Černá		0	51,425
+2909	Chudá Imriška r. Crhanová		0	260
+2909	Jakabová Anna r. Morávková		0	269
+2909	Jančička Anton r. Janička	ž. Anna r. Vančová, zomr. 22.1.1986	0	391
+2909	Jančičková Anna r. Vančová	m. Anton, zomr. 20.8.1995	0	391
+2909	Janišová Katarína r. Rolincová		0	45,46,430
+2909	Jankovec Štefan r. Jankovec	ž. Agáta r. Kukučková, zomr. 13.4.2003	0	402
+2909	Jankovecová Agáta r. Kukučková	m. Štefan, zomr. 16.4.1982	0	402
+2909	Kadlečíková Katarína r. Valková		0	3,176
+2909	Karáčová Mária r. Crhanová		0	241,243
+2909	Kišková Gizela r. Štuchalová		0	117
+2909	Konečný Pavol		0	258
+2909	Koprna Ján r. Koprna	ž. Mária r. Gaylová, zomr. 20.3.1985	0	396
+2909	Koprna Mikuláš r. Koprna		0	169,170,171,172
+2909	Koprna Mikuláš r. Koprna	ž. Pavla r. Damajková	0	399
+2909	Koprna Štefan		0	169
+2909	Koprna Štefan r. Koprna		0	170,171,172
+2909	Koprnová Mária r. Gailová	m. Ján, zomr. 6.9.2006	0	357,396
+2909	Koprnová Mária r. Hertelová		0	170,172
+2909	Koprnová Pavla r. Damajková	m. Mikuláš	0	399
+2909	Kovačik Dušan r. Kovačik		0	133
+2909	Kováčik Ján r. Kováčik	ž. Magda r. Drietomská, zomr. v r. 1960	0	408
+2909	Kováčiková Božena	narodená v roku 1944	0	141
+2909	Kováčiková Magdaléna r. Drietomská	m. Ján, zomr. 26.6.1976	0	408
+2909	Kováčiková Mária r. Vančová	m. Štefan, zomr. v Hlohovci v r. 1988	0	400
+2909	Kováčiková Mária r. Vančová	zomrela 10.08.1988; zomrela 10.08.1988	0	141
+2909	Krajčíková Anna r. Valková		0	49,326,423,424
+2909	Kukučka Michal r. Kukučka	ž. Pavlína r. Borovicová	0	404
+2909	Kukučka Pavel r. Kukučka	ž. Valéria r. Babulicová, zomr. 27.5.1982	0	393
+2909	Kukučka Štefan r. Kukučka	ž. Margita r. Psicová, zomr. 6.8.2004	0	395
+2909	Kukučka Vít r. Kukučka	ž. Anna r. Bakošová, zomr. 9.1.1982	0	394
+2909	Kukučková Anna r. Bakošová	m. Vít, zomr. 27.5.2005	0	394
+2909	Kukučková Margita r. Psicová	m. Štefan, zomr. 25.8.2001	0	395
+2909	Kukučková Pavlína r. Borovicová	m. Michal	0	404
+2909	Kukučková Valéria r. Babulicová	m. Pavel, zomr. 8.9.1985	0	393
+2909	Lampertová Alojzia r. Štuchalová		0	117
+2909	Longinová Mária r. Kováčiková		0	141
+2909	Lukačiková Mária r. Štuchalová		0	117
+2909	Lukáčová Alžbeta r. Koprnová		0	169,170,171,172
+2909	Lundgrenová Anna r. Kováčiková		0	141
+2909	Macejka Ján		0	106,107,108,340,341
+2909	Macejka Ján r. Macejka		0	383
+2909	Macejka Michal r. Macejka		0	383
+2909	Macejka Mikuláš		0	107,340,341
+2909	Macejka Mikuláš r. Macejka		0	106,108
+2909	Macejková Angela r. Pavlovičová	zomr. 9.8.1976	0	383
+2909	Macejková Anna r. Valovičová	m. Michal, zomr. 25.10.2006	0	381
+2909	Manák Pavel		0	85
+2909	Manák Pavel r. Manák		0	281
+2909	Manák Pavol		0	261,266
+2909	Manáková Terézia r. Crhanová		0	85,261,266,281
+2909	Masarovičová Mária r. Rolincová		0	45,46,430
+2909	Mihaliková Anna r. Kováčiková	zomrela 25.,05.2016; zomrela 25.,05.2016	0	141
+2909	Miháliková Veronika r. Miháliková		0	51,425
+2909	Michalík Valent		0	92
+2909	Morávek Augustín r. Morávek	syn Štefana slobodný, zomr.30.3.1999	0	406
+2909	Morávek Ľudovít		0	110,203
+2909	Morávek Štefan r. Morávek	ž. Štefánia r. Brezinová	0	392
+2909	Moráveková Štefánia r. Brezinová	m. Štefan	0	392
+2909	Novotný Ján	ženatý s Pavlínou Trenčanskou	0	273
+2909	Novotný Jozef	ženatý s Alžbetou Tomašovičovou	0	273
+2909	Pavlovičová Ernestína	zomr. 20.12.2011	0	383
+2909	Peterková Mária r. Valovičová		0	235,348,411
+2909	Polačeková Apolónia r. Chocholíková		0	51,425
+2909	Poláčiková Elena r. Kováčiková	zomrela 19.10.2019; zomrela 19.10.2019	0	141
+2909	Potočeková Alžbeta r. Valková		0	3
+2909	Potočeková Pavlína r. Valková		0	3
+2909	Potočiková Alžbeta r. Valková		0	3,176
+2909	Potočiková Pavlína r. Valková		0	3,176
+2909	Potrusil Štefan		0	160
+2909	Potrusilová Matilda		0	157,159
+2909	Rolincová Mária		0	47
+2909	Rolincová Marta r. Števíková	m. Ľudovít	0	363
+2909	Rolinec Ján		0	45,46,229,429,430
+2909	Rolinec Ľudovít r. Rolinec	ž. Marta r. Števíková, zomr. 17.7.1998	0	363
+2909	Sedláčeková Anna r. Miháliková		0	51,425
+2909	Solčanská Anna r. Jakabová	m. Štefan, zomr. 13.2.2010	0	397
+2909	Solčanský Štefan r. Solčanský	ž. Anna r. Jakabová, zomr. 21.10.2000	0	397
+2909	Šimorová Emília		0	83,84
+2909	Števík Ján		0	62,123,354
+2909	Števík Ján r. Števík		0	75
+2909	Števík Michal		0	269
+2909	Števíková Katarína r. Strečanská		0	251,252,253,258,280,427,428
+2909	Števíková Mária		0	58,89,163,251,252,258,280,335,427
+2909	Štrbová Vilma r. Štuchalová		0	117
+2909	Štuchal Florián		0	117
+2909	Štuchal Rezso		0	117
+2909	Štuchal Viliam		0	117
+2909	Tiefenbacherová Ľudmila r. Rolincová		0	45,46,430
+2909	Tomašovič Rudolf		0	210,250
+2909	Valko František		0	3,176
+2909	Valko František r. Valko		0	3,380
+2909	Valko Ján		0	3,176
+2909	Valko Jaromír		0	3,176
+2909	VALKO PAVEL		0	206
+2909	Valko Štefan		0	3,176,206
+2909	Valko Štefan r. Valko		0	373
+2909	Valko Štefan r. Valko	ž. Mária r. Sedmáková	0	382
+2909	Valková Františka		0	3
+2909	Valková Katarína		0	3,176
+2909	Valková Katarína r. KováčIKová		0	141
+2909	Valková Katarína r. Remiášová		0	50
+2909	Valková Margita		0	3,176,373
+2909	Valovič Ján r. Valovič		0	68,75
+2909	Valovič Pavol		0	235,348,411
+2909	Valovič Pavol r. Valovič		0	235
+2909	Valovičová Klára r. Galiková		0	180
+2909	Valovičová Mária		0	235,348,411
+2909	Vančo František r. Vančo	zomr. 8.6.1982; zomr. 8.6.1982	0	376
+2909	Vančo Michal r. Vančo	ž. Jozefína r. Matečná, zomr. 7.4.1977	0	403
+2909	Vančo Pavol		0	58,89,258,335
+2909	Vančo Štefan		0	270
+2909	Vančo Štefan	ženatý: Emília r.Ďurišová	0	133
+2909	Vančo Štefan r. Vančo	ž. Mária r. Valovičová	0	398
+2909	Vančová Jozefína r. Matečná	m. Michal, zomr. 28.4.1990	0	375,403
+2909	Vančová Mária r. Valovičová	m. František, zomr	0	375
+2909	Vančová Mária r. Valovičová	m. Štefan	0	398
+2909	Vančová Viktória		0	78,79
+2909	Vičan Vincent r. Vičan	ž. Pavla r. Kukučková, zomr. 25.2.1979	0	407
+2909	Vičanová Pavla r. Kukučková	m. Vincent, zomr. 19.11.1988	0	407
+2910	Baláž Ján	manž.Mária Volentierová	1	2939,3488
+2910	Baláž Štefan	manž.Mária Povrazníková	1	2569,2570,3450,3488
+2910	Baláž Štefan, SR	manž.Mária Povrazníková	1	1669
+2910	Balážová Anna r. Krištofová		0	3623
+2910	BAUER František		1	2945
+2910	BAUER Jozef		1	2945,3488
+2910	BENČAŤOVÁ Júlia	rod.Horniaková	1	3208
+2910	BRATKO Jakub		1	3212,3609
+2910	BRATKO Ján		1	3212
+2910	BRATKOVÁ Jozefína	Orovnica	1	3185,3212
+2910	Bratková Jozefína r. Šályová, SR	D:	1	3117,3609
+2910	Bratková Katarína r. Potocká		1	2972
+2910	Bratková Mária r. Forgáčová		1	3140
+2910	BRIEŠKA Ján	manž.Mária Gažiová,vdovec 28.8.1894	1	3289,3699,4005
+2910	BRIEŠKOVÁ Anna, 966 52, Tekovská Breznica, č. 375, SR		0	3289
+2910	CIBULOVÁ Anna	rod.Volentierová 28.2.1910	1	3242
+2910	Čaklošová Katarína		1	2892
+2910	Čermáková Helena r. Galbavá	22.04.1932	1	1565
+2910	Domková Agnesa r. Balážová	2.01.1902	1	3488
+2910	Dupaj Pavel		1	2892
+2910	Elias Ján	manž.Anna Škvarková	1	3289,3496,3500,3699,4005
+2910	ELIAS Jozef	anž.Jozefína Píryová	1	3699
+2910	ELIAS Jozef	manž.Jozefína Píryová	1	3183,3289,4005
+2910	ELIAS Štefan	manž.Júlia Wolfová,starší	1	3216,3289,3699,4005
+2910	ELIASOVÁ Anna	rod.Škvarková	1	3556
+2910	Eliasová Anna r. Škvarková		1	1542,3857
+2910	Fojtíková Štefánia r. Horniaková		1	3251,3340,3439,3523,3531,3549,4074
+2910	Forgáč František		1	3167
+2910	FORGÁČ Ján, SR	D	1	3181

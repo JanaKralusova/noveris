@@ -1,0 +1,256 @@
+932	Príhodová Mária r. Labašová		0	947
+932	Rabiková Paulína r. Struková		0	946,947,963,1168,1190
+932	Rešetárová Mária r. Nováková		0	777
+932	Salamon Andrej		0	739
+932	Salamon Andrej	Alapi	0	739
+932	Salamon Attila		0	1081,1082,1093,1098,1099,1106,1109,1117,1118,1119,1132,1133,1135,1154,1178,1186,1188,1244,1259,1260,1297,1440
+932	Salamon Gejza		0	739,1156
+932	Salamon Gejza	Alapi	0	739
+932	Sekelská Margita		0	1083,1122,1129,1153,1157,1243,1276,1277,1317,1326,1361,1362,1409,1422,1428,1443,1450,1451,1452,1456,1458
+932	Sekelská Mária r. Čandová		0	1123
+932	Sekelská Paulína r. Mojcherová		0	728,797,820,945,970,1025,1029,1082,1249,1310,1311
+932	Sekelská Paulína r. Pištejová		0	867,1084
+932	Sekelská Verona r. Plavnická		0	863,869,1003,1269
+932	Sekelská Zuzana r. Iľašová		0	820,970,1029
+932	Sekelská Zuzana r. Pištejová		0	1093,1098,1099,1106,1109,1117,1118,1119,1132,1133,1135,1154,1178,1186,1188,1244,1259,1260,1297,1440
+932	Sekelský František		0	1083,1091,1097,1122,1129,1157,1243,1276,1277,1288,1289,1290,1291,1292,1293,1294,1317,1326,1331,1344,1361,1362,1409,1422,1428,1443,1450,1451,1452,1456,1458
+932	Sekelský Ján		0	828,1082
+932	Sekelský Jozef		0	759,820,843,904,970,1029,1044,1103,1272,1348,1399,1453,1460
+932	Sekelský Kornel		0	1010
+932	Sekelský Michal		0	1157
+932	Sekelský Štefan		0	820,970,1029,1100
+932	Senák Ján		0	713,1416,1417,1434
+932	Senáková Paulína r. Kočišová		0	713,1416,1417,1434
+932	Servila Ján		0	870,871
+932	Servila Štefan		0	870
+932	Servilová Magdaléna r. Murcková		0	870
+932	Skurková Anna r. Polačková	Holumnica	0	1086
+932	Slivková Paulína r. Nováková		0	777
+932	Struk Demián		0	946,947,963,1168,1190
+932	Struk Ján		0	946,947,963,1168,1190
+932	Struk Michal		0	946,947,963,1168,1190
+932	Struková Anna r. Struková		0	946,947,963,1168,1190
+932	Struková Helena r. Knapíková		0	946
+932	Struková Helena r. Knapíková	2	0	947
+932	Struková Margita r. Knapíková		0	947
+932	Šarník Ján		0	1117
+932	Šarník Jozef		0	1117
+932	Šarník Michal		0	748,851,1117
+932	Šarník Mikuláš		0	1195,1196
+932	Šarník Štefan		0	1117
+932	Šarníková Anna		0	748,1117
+932	Šarníková Anna r. Kočišová		0	750
+932	Šarníková Helena		0	1000
+932	Šarníková Katarína r. Kopčíková		0	765
+932	Šarníková Margita		0	1260,1271
+932	Šarníková Mária r. Židová		0	797
+932	Šarníková Zuzana r. Knapíková		0	787,820,907,916,948,970,978,1002,1029,1306,1355,1357
+932	Štíbrová Žofia r. Kočišová		0	820,970
+932	Šulík Ján		0	946,947
+932	Šulík Jozef		0	1168
+932	Šulík Valent		0	946,947,963,1155,1165,1168,1190
+932	Šulíková Anna r. Kopčíková		0	947
+932	Šulíková Mária r. Šulíková		0	946,963,1168,1190
+932	Tkáčová Margareta r. Fedáková		0	1074,1082,1186,1406,1421
+932	Tkáčová Margita r. Fedáková		0	744,820,903,970,993,1029
+932	Valek Jozef		0	1081,1093,1098,1099,1106,1109,1117,1118,1119,1132,1133,1135,1142,1154,1178,1188,1244,1259,1260,1297,1440
+932	Vargová Terézia r. Miklušová		0	870,871
+932	Verdunová Helena r. Šulíková		0	946,947,963,1168,1190
+932	Virostek Ján		0	1083,1141,1243,1317,1326,1361,1362,1409,1428,1443,1450,1451,1452,1456,1458
+932	Virostek Jozef		0	1083,1141,1243,1317,1326,1361,1362,1409,1428,1443,1450,1451,1452,1456,1458
+932	Virosteková Anna r. Pjurová		0	915
+932	Virosteková Mária		0	1083,1126,1141,1243,1317,1326,1361,1362,1409,1428,1443,1450,1451,1452,1456,1458
+932	Virostko Ján		0	858,1083,1157,1163,1243,1317,1326,1361,1362,1409,1428,1443,1450,1451,1452,1456,1458
+932	Virostko Jozef		0	858,1126,1157,1163
+932	Virostková Agnesa		0	858,1083,1126,1141,1157,1163,1243,1317,1326,1361,1362,1409,1428,1443,1450,1451,1452,1456,1458
+932	Virostková Anna	slabomyselná	0	858,1083,1126,1141,1157,1163,1243,1317,1326,1361,1362,1409,1428,1443,1450,1451,1452,1456,1458
+932	Virostková Margita		0	1157
+932	Virostková Mária		0	858,1083,1157,1163,1243,1317,1326,1361,1362,1409,1428,1443,1450,1451,1452,1456,1458
+932	Virostková Paulína		0	858,1083,1126,1141,1157,1163,1243,1317,1326,1361,1362,1409,1428,1443,1450,1451,1452,1456,1458
+932	Vojteková Anna r. Pjurová		0	820,858,876,905,915,944,970,986,1010,1029
+932	Vojteková Mária		0	1083,1157,1243,1317,1326,1361,1362,1409,1428,1443,1450,1451,1452,1456,1458
+932	Vojteková Mária r. Mojherová		0	1083,1243,1317,1326,1361,1362,1409,1428,1443,1450,1451,1452,1456,1458
+932	Vojtko Ján		0	933
+932	Všeobecná úverová banka	BA	0	820,953,970,1029,1081,1093,1098,1099,1106,1109,1117,1118,1119,1132,1133,1135,1154,1178,1188,1244,1259,1260,1297,1372,1440
+932	Zigmundová Mária r. Kočišová, ČR	Karaňská 15/377, Praha, Malešice	0	820,970,1029
+932	Žminďák Peter		0	1030,1031,1079,1080
+932	Žminďáková Anna		0	1030,1031,1079,1080
+933	Abaháziová Mária r. Korbačková		0	668,1596
+933	Adamcová Anna	zom.10.1.1972, B.Bystrica	0	1710,1711
+933	Adamec Anton r. Adamec		0	1271,1604
+933	Adamec Jozef r. Adamec		0	1710,1711
+933	Adamec Štefan r. Adamec		0	1271,1604
+933	Adamecová Mária		0	1271,1604
+933	Albertyová Júlia r. Pruknerová		0	1206,1207,1208,1209,1596
+933	Albertyová Mária		0	20
+933	Albicová Mária r. Korbačková		0	668
+933	Ambrucová Anna r. Klajbanová		0	1287,1465,1721
+933	Andreánska Mária r. Mackovičová	Františka, po Terézii Maczkovicsovej	0	1202,1387,1516
+933	Andrejková Mária r. Grolmusová		0	1437
+933	Auxt Ferdinand r. Auxt		0	1275
+933	Auxt Martin r. Auxt	zom.30.5.1992, Mlynská 343 Hronec, ž.Katarína r.Kunštárová	0	1008
+933	Auxt Peter r. Auxt		0	1275
+933	Auxt Štefan r. Auxt		0	1327
+933	Auxtová Katarína r. Kunštárová	zom.19.7.2005, m.Martin, Mlynská 343 Hronec	0	844
+933	Auxtová Mária r. Korbačková		0	1257,1376,1432,1658
+933	Auxtová Mária r. Turňová	zom.29.4.1998, Nálepkova 182 Hronec, m.Ján	0	1336
+933	Auxtová Terézia		0	1275
+933	Auxtová Terézia	spoluvl. Mária	0	983
+933	Babčan František r. Babčan		0	1320
+933	Babčan Jozef r. Babčan		0	1319
+933	Babčanová Mária r. Perichtová	m.Štefan	0	1533
+933	Babjak Ján r. Babjak	zom. 6.4.1994, Nálepkova 1193/26 Brezno	0	888
+933	Babjak Ladislav r. Babjak		0	1406
+933	Babjak Ladislav r. Babjak	spoluvl. Mária, Alžbeta, Pavel	0	1215,1216,1433,1758
+933	Babjak Pavel r. Babjak		0	1215,1216,1433,1758
+933	Babjaková Alžbeta r. Babjaková		0	1215,1216,1433,1758
+933	Babjaková Anna r. Palayová	m.Vendelín	0	1215,1216,1433,1758
+933	Babjaková Mária r. Babjaková		0	1215,1216,1433,1758
+933	Bafia Peter r. Bafia	zom.14.5.2004, Medovarce 4 Krupina	0	1532
+933	Balog Jozef r. Balog	zom.16.5.1987, Hronec Nálepkova 197	0	668,1011,1082,1383,1388,1436,1543,1544,1730,1731
+933	Balogh Silvester r. Balogh	zom.29.11.2002, Partizánska cesta 52 B. Bystrica	0	668,1011,1082,1383,1388,1436,1543,1730,1731
+933	Baloghová Gizela r. Čižiková		0	1430,1682
+933	Banko Ján r. Banko	ž.Gabriela r.Šreinerová	0	1281,1282
+933	Banko Róbert r. Banko		0	1355
+933	Banková Gabriela r. Schreinerová	zom.10.1.1985, Mlynská 296, Hronec, m.Ján	0	653,1202,1281,1282,1459,1516,1578
+933	Banská Gizela r. Molčanová	zom.28.8.1995, Mládežníska 23 BB	0	1569
+933	Barčová Alžbeta r. Jeleneková		0	668,1595
+933	Bendiak Július r. Bendiak	čp.150	0	866,1005,1519,1596
+933	Bendík Ján r. Bendík		0	1674
+933	Bendík Jozef r. Bendík		0	1309
+933	Bendík Jozef r. Bendík	spoluvl.Matilda	0	1517,1593
+933	Bendík Klement r. Bendík	rč:991122/721, zom.17.9.1991, ž.Viktória r.Schvarzbach., Jilemnického 433 H	0	1445
+933	Bendik Ľudovít r. Bendik		0	950,1084
+933	Bendík Ludovít r. Bendík	spoluvl. Ján, Mária, Anna	0	1674
+933	Bendík Ludovít r. Bendík	ž.Amália r.Pruknerová	0	1674
+933	Bendík Peter r. Bendík		0	1206,1207
+933	Bendíková Emília r. Rohlová		0	1205,1271,1394,1395,1545,1632
+933	Bendíková Lucia		0	1419,1759
+933	Bendíková Mária r. Chudíková		0	1427,1611
+933	Bendíková Matilda r. Poljaková		0	1517,1593
+933	Bendíková Viktória r. Schvarzbacherová	zom.8.2.1961, m.Klement, Hronec 375	0	1445
+933	Bendíková Žofia r. Vančová	m.Gejza	0	983,1322,1403
+933	Bendjaková Júlia r. Pruknerová	vd	0	1488
+933	Beniaková Mária r. Korbačková		0	668
+933	Benkárová Jujza r. Štolcová	m.Koloman	0	1597
+933	Berková Valéria r. Lakatošová		0	1464
+933	Biesková Mária r. Bendíková		0	1419,1759
+933	Blahut František r. Blahut		0	828,1490
+933	Blahut Ján r. Blahut		0	828,1490
+933	Blahut Klement r. Blahut		0	828,1490
+933	Blahút Ondrej Imrich r. Blahút		0	828,1490
+933	Blahut Vojtech r. Blahut		0	828,1490
+933	Blahutová Irena		0	828,1490
+933	Blahutová Mária r. Šimková		0	1286,1527
+933	Blatnický Jaromir a Mária Blatnická		0	12
+933	Blatnický Jaromír r. Blatnický a Mária Blatnická r. Putišová		0	1257
+933	Bobák Imrich r. Bobák	Valaská, po Hermanovi Bobákovi	0	1362,1392,1393
+933	Bobák Ján r. Bobák	Hronec 110, , po Hermanovi Bobákovi	0	1362,1392,1393
+933	Bobák Koloman r. Bobák	Michalová 27, po Hermanovi Bobákovi	0	1362,1392,1393
+933	Bobák Štefan r. Bobák		0	1402
+933	Bobák Štefan r. Bobák	zom.16.9.2002, Švermova 35 Hronec	0	1362,1392,1393
+933	Bobáková Gizela r. Bobáková		0	1325
+933	Böhmerová Kamila r. Chudíková		0	1419,1427,1611,1759
+933	Bučko Jozef r. Bučko		0	1256,1396
+933	Bučko Július r. Bučko		0	1256,1396
+933	Bučková Sabína r. Bučková		0	1256,1396
+933	Buriová Mária r. Mlynáriková		0	1701
+933	Capeková Mária r. Giertlová		0	1278
+933	Cihlárová Helena r. Klajbanová		0	1287,1465
+933	Cipár Ján r. Cipár	zom.24.5.1955, ž.Mária r.Ďurčíková	0	1568,1648
+933	Cipár Titus		0	754
+933	Cipárová Mária r. Ďurčíková		0	1287,1465
+933	Cipárová Mária r. Ďurčíková	zom.15.4.1981, m.Ján, Stredná č.250 Hronec	0	1440,1463,1568,1648,1698,1699
+933	Čadeková Mária r. Perichtová	m.Šimon	0	1276,1278
+933	Čellárová Margita r. Šištíková	zom.18.10.2013, m.Ignác, 29.augusta 53 Hronec	0	1270,1273
+933	Černáková Anna r. Korbačková		0	668
+933	Čiapka Klement r. Čiapka		0	1287,1465
+933	Čiapková Anna r. Lipková		0	1287,1465
+933	Čilíková Margita r. Krutelová		0	1390,1437,1540
+933	Čilliková Mária r. Lakatošová		0	1464
+933	Čižik Anton r. Čižik		0	1641,1749
+933	Čižik Anton r. Čižik	ž.Paula r.Pobožná	0	1285,1416
+933	Čížik Emil r. Čížik		0	653,866,986,1520,1522,1575,1696,1697,1726
+933	Čížik Otto r. Čížik		0	1222,1520,1522,1605,1616,1726
+933	Čižik Viktor r. Čižik		0	1222
+933	Čižik Vincent r. Čižik		0	1522,1605,1726
+933	Čižik Vojtech r. Čižik	po Zuzane Čížikovejj r.Unterbergovej	0	1605
+933	Čížik Vojtech r. Čížik	po Jozefovi Čížikovi	0	1222,1520,1522,1605,1616,1726
+933	Čižiková Antónia r. Čižiková		0	1641
+933	Čižiková Antónia r. Pruknerová		0	800,1181,1182,1568,1648
+933	Čižiková Emília		0	1337
+933	Čížiková Gizela		0	1222,1520,1522,1605,1616,1726
+933	Čižiková Jozefína		0	1430,1682
+933	Čižiková Mária r. Čižiková		0	1520
+933	Čižiková Mária r. Liptáková		0	1222
+933	Čižiková Mária r. Selecká	m.Vincent	0	1222,1697
+933	Čižiková Mária r. Selecká	m.Vincent; m.Vincent	0	1696
+933	Čížikova Mária r. Schmidtová		0	448
+933	Čižiková Paula r. Pobožná	m.Anton	0	1285,1416
+933	Čižmárová Júlia r. Pallayová		0	1004,1243,1406,1710,1711,1712
+933	Čunderlíková Mária r. Konoková		0	1287,1465
+933	Čunderlíková Matilda r. Pruknerová		0	800,1181,1182,1529,1687
+933	Čutka	zom.8.11.1990, Nálepkova 167, Hronec; zom.8.11.1990, Nálepkova 167, Hronec	0	1333
+933	Čutka Štefan r. Čutka	zom.8.11.1990, Nálepkova 167, Hronec; zom.8.11.1990, Nálepkova 167, Hronec	0	995,1183,1303,1327,1344
+933	Čutková Mária r. Púčiková		0	1296
+933	Daniš Albín r. Daniš	čp.1	0	1755,1756
+933	Daniš Dušan r. Daniš		0	1755,1756
+933	Daniš František r. Daniš		0	1484
+933	Daniš Ján r. Daniš	ž.Antónia r.Perichtová	0	800,801,1568
+933	Danišová Antónia r. Perichtová	m.Ján	0	801,1276,1278,1568,1648
+933	Danišová Viktória r. Klementová		0	1546,1551
+933	Danková Valéria r. Korbačková		0	668,1596
+933	Daxnerová Klára r. Daxnerová		0	1701
+933	Debnár Ignác r. Debnár		0	1004
+933	Debnár Jozef r. Debnár		0	1335,1360,1362
+933	Debnárová Anna r. Debnárová		0	1004,1335,1360,1362
+933	Debnárová Anna r. Pobožná		0	1428,1431
+933	Debnárová Helena r. Murínová		0	635,1725
+933	Debnárová Helena r. Pavúková	m.Ján	0	1183,1184,1323,1741
+933	Debnárová Mária r. Debnárová		0	1004,1335,1360,1362
+933	Debnárová Nadežda		0	1183,1184,1267,1741
+933	Debnárová Tatjana r. Debnárová		0	1267
+933	Debnárová Terézia r. Gottliebová		0	1267
+933	Debnárová Viktória r. Weiszembacherová		0	1362
+933	Dehelánová Matilda r. Klajbanová	Heľpa	0	1287,1465,1721
+933	Dekrétová Mária r. Račáková		0	844
+933	Demuth Celestín r. Demuth		0	1697
+933	Demuth František r. Demuth	spoluvl. Jozef, Ondrej, Celestín, Antónia	0	985,1551,1697
+933	Demuth František r. Demuth	spoluvl. Mária, Jozef	0	1611
+933	Demuth Jozef r. Demuth	Mária, Júlia, František	0	985,1551
+933	Demuth Jozef r. Demuth	spoluvl. Alojz	0	985,1551,1697
+933	Demuth Jozef r. Demuth	spoluvl. Mária, František	0	1611
+933	Demuth Ondrej r. Demuth		0	1697
+933	Demuth Viktor r. Demuth		0	1524
+933	Demuthová Henrieta		0	1524
+933	Demuthová Júlia r. Demuthová		0	985,1551
+933	Demuthová Margita r. Kúthová	vd	0	1448
+933	Demuthová Mária r. Demuthová	spoluvl. Jozef, František	0	1611
+933	Demuthová Mária r. Demuthová	spoluvl. Júlia, Jozef, František	0	985,1551
+933	Demuthová Mária r. Pruknerová	m.Celestín	0	1456
+933	Dérer Eugen r. Dérer		0	1419,1759
+933	Derer Gejza r. Derer		0	1419,1759
+933	Dérer Jozef r. Dérer		0	1419,1759
+933	Derer Vojtech r. Derer		0	1419,1759
+933	Dérerová Mária r. Dérerová		0	1419,1759
+933	Dicsková Mária r. Urbanová		0	766,1659
+933	Dobríková Katarína r. Klajbanová		0	1287,1465
+933	Dolňanová Anna r. Chudíková	zom.15.7.1994, Nálepkova 163 Hronec	0	791,792,1318,1320
+933	Drienska Zelma Dr.  r. Perichtová	ul.Národného povstania 17, Bratislava	0	1625
+933	Dropčo Jozef a Jolana Dropčová, Valaská, SR		0	20
+933	Dropčo Jozef r. Dropčo	zom.19.2.1988, Cesta k nemocnici 25, B.Bystrica	0	1507,1534
+933	Dropčová Jolana r. Štecová	zom.24.8.1989, Štúrova 1, Valaská	0	1507,1534
+933	Dullová Mária r. Švantnerová		0	1673
+933	Dulová Gabriela r. Schmidtová		0	1288,1317
+933	Ďurčík Adolf r. Ďurčík		0	1279
+933	Ďurčíková Mária r. Pruknerová		0	1181,1182,1687
+933	Ďurčíková Mária r. Pruknerová	m.Titusz	0	1699
+933	Emil Pavol r. Emil	ž.Mária r.Gandžalová	0	1222,1636
+933	Emilová Elena		0	1222,1636
+933	Emilová Katarína		0	1222,1636
+933	Ertl Ctibor r. Ertl		0	1301,1302,1320,1737
+933	Ertl Viliam r. Ertl		0	1301,1302,1320,1737
+933	Ertlová Júlia r. Kubove	m.Viliam	0	1301,1302,1320,1737,1755,1756
+933	Faško Július r. Faško	ž.Vilma r.Chovancová	0	1289
+933	Fašková Anna r. Petyková	m.Juraj	0	1380
+933	Fekete Anton r. Fekete		0	983,996,999,1234,1244,1315,1321,1843

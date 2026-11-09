@@ -1,0 +1,256 @@
+405	SZITAI Jozef		0	1018
+405	SZITAI Ondrej		0	1018
+405	SZITAIOVÁ Anna		0	1018
+405	SZITAIOVÁ Irena r. Szajkóová		0	710,1116
+405	SZITAIOVÁ Margita		0	1018
+405	ŠIMON Peter		0	924
+405	ŠIMON Vojtech		0	924
+405	ŠIMONOVÁ Mária		0	924
+405	ŠOLTÉS Jozef		0	587
+405	TAKÁCS Jozef		0	501,505,508,521,545,558,567,589,613,620,693,715,976,986,988,1023
+405	TAKÁCSOVÁ Terézia		0	501,505,508,521,545,558,567,589,613,620,693,715,976,986,988,1023
+405	TAKÁCSOVÁ Terézia	mal	0	738
+405	TAMÁS Barnabáš		0	595
+405	TAMÁS Július		0	550,577,594,629,631,637,684,699,930,931,1128
+405	TAMÁS Ľudovit		0	629,669
+405	TAMÁS Štefan		0	669
+405	TAMÁSOVÁ Elena r. Katonová		0	596
+405	TAMÁSOVÁ Gizela r. Galoviczová		0	629
+405	TAMÁŠOVÁ Klára r. Tóth		0	992
+405	TIMKO Jozef		0	589
+405	TIMKOVÁ Emma r. Tántossyová		0	589
+405	TIMKOVÁ Ružena	dcéra Jozefa	0	588
+405	TÖRÖK Július		0	629
+405	TÖRÖK Karol	ml	0	1001
+405	TÖRÖK Ladislav		0	732
+405	TÖRÖK Zoltán		0	1016
+405	TÖRÖKOVÁ Juliana r. Majorosová	Július	0	797
+405	TÓTH Barnabáš		0	525,588,629,669
+405	TÓTH Benedek	ml	0	629
+405	TÓTH Daniel		0	744,755,1036
+405	TÓTH František	mal	0	969,1145
+405	TÓTH Illés	ž. Mária r. Petróczky	0	495,1032
+405	TÓTH Illés	ž. Petróczkyová Mária	0	542,688,703,1043,1147
+405	TÓTH Ján		0	617
+405	TÓTH Ján	mal	0	497,501,505,508,521,545,558,567,589,613,620,693,739,976,986,988,1017,1023
+405	TÓTH Ján	Štefan ž. Tóth Mária	0	1017
+405	TÓTH Ján	ž. Juliana Tóthová	0	703
+405	TÓTH Jozef		0	669,748,1015
+405	TÓTH Július		0	512
+405	TÓTH Ladislav		0	704
+405	TÓTH Ladislav	Koloman	0	661
+405	TÓTH Pavel	Attila	0	495,542,688,1032,1043,1147
+405	TÓTH Pavel	Attila mal	0	703
+405	TÓTH Samuel		0	729,746,800
+405	TÓTH Szilárd	Benedek	0	959
+405	TÓTH Štefan		0	163,975,1032
+405	TÓTH Tibor		0	512
+405	TÓTH Vojtech	ž. Juhászová Alžbeta	0	984,995
+405	TÓTH Zoltán	Ferencz	0	495,1032
+405	TÓTH Zoltán	František	0	542,703,1043
+405	TÓTH Zoltán	František mal	0	688,1147
+405	TÓTHOVÁ Alžbeta		0	512
+405	TÓTHOVÁ Alžbeta r. Vasasová	vd	0	1009
+405	TÓTHOVÁ Apolónia r. Csernok	František	0	495,1032
+405	TÓTHOVÁ Barbora r. Molnár	Benedek	0	1010
+405	TÓTHOVÁ Barbora r. Molnárová	Benedek	0	697
+405	Tóthova Elena r. Tamásova		0	669
+405	TÓTHOVÁ Emília r. Ligárt	m. Július	0	978
+405	TÓTHOVÁ Emília r. Ligártová	Július	0	506
+405	TÓTHOVÁ Irma r. Belík	Štefan	0	163,495,498,1032
+405	TÓTHOVÁ Júlia r. Tóthová	M	0	1068
+405	TÓTHOVÁ Juliana		0	617,651
+405	TÓTHOVÁ Juliana r. Majoros	Ján	0	393
+405	TÓTHOVÁ Juliana r. Majorosová	Ján	0	517,562,563,592,618
+405	TÓTHOVÁ Juliana r. Tóth	Jozef	0	495,1032
+405	TÓTHOVÁ Juliana r. Tóthová	Jozef	0	733,1043
+405	TÓTHOVÁ Klára		0	495,542,688,796,1032,1043,1147
+405	TÓTHOVÁ Klára	mal	0	163,277,538,579,688,703,1141,1147
+405	TÓTHOVÁ Lýdia r. Balyová	Benedik	0	587,629
+405	TÓTHOVÁ Mária		0	495,542,688,703,1032,1043,1147
+405	TÓTHOVÁ Mária r. Lósková	Štefan	0	598
+405	TÓTHOVÁ Zuzana		0	637,1128
+405	TÓTHOVÁ Zuzana r. Takácsová		0	545,988
+405	ULJAKOVÁ Estera	mal	0	336
+405	ULJAKOVÁ Juliana		0	336
+405	ULJAKOVÁ Margita Gizela		0	336
+405	URBAN Pavel		0	800
+405	VAŇOVÁ Klára r. Finkei		0	1023
+405	VÁRADI Štefan		0	1011
+405	VARGA Ján		0	736,756
+405	VARGA Jozef		0	651
+405	VARGA Ladislav		0	629,792
+405	VARGA Ladislav	syn Mikuláša	0	757
+405	VARGA Ladislav	syn Mikuláša v Kanade	0	534
+405	VARGA Mikuláš		0	629,756,792
+405	VARGA Mikuláš	syn Mikuláša	0	757
+405	VARGA Mikuláš	syn Mikuláša v USA	0	534
+405	VARGA Štefan		0	807
+405	VARGA Vojtech	ml	0	595,599,945
+405	Vargová Alžbeta r. Csernoková	m.František	0	944
+405	VARGOVÁ Alžbeta r. Csernoková	František	0	607
+405	VARGOVÁ Alžbeta r. Ráczová	Jozef	0	651
+405	VARGOVÁ Alžbeta r. Tóthová	Ján	0	761
+405	VARGOVÁ Estera r. Vinczeová		0	622
+405	VARGOVÁ Helena	mal	0	736
+405	VARGOVÁ Juliana r. Katonová		0	756
+405	VARGOVÁ Katarína r. Tóthová	Alexander	0	748
+405	VARGOVÁ Mária r. Tóthová	Michal	0	596
+405	VAS Štefan		0	651
+405	VAS Štefan	ml	0	604,605,611,642,647,651
+405	VASOVÁ Mária r. Lénartová		0	651
+405	VITTKO Ľudovit		0	651
+405	ZÁHORSZKÁ Irma r. Sósiková	Štefan	0	642
+405	ZÁHORSZKY Štefan	ž. Irma Lósiková	0	639
+405	ZÁHORSZKYOVÁ Irma r. Sósiková	Štefan	0	885
+405	ZAJACOVÁ Alžbeta r. Orbánová	Barnabáš	0	651,802
+405	ZAJACZ Barnabáš		0	803
+405	ZAJACZ Július		0	818
+405	ZAJACZ Július	mal	0	803
+405	ZAJACZ Zoltán	Ján	0	803,818
+405	ZAJACZOVÁ Apolónia r. Szabová	Ondrej	0	620,783,1152
+405	ZAJACZOVÁ Mária		0	803
+405	ZEMSKÝ Sväz	soc. zdrav. spolkov pre Slov. Bratislava	0	963
+405	ZSÓRIOVÁ Mária r. Tóth	Pavel	0	1017
+406	ANDEROVÁ Irena	mal	1	158
+406	Balašová Mária r. Miklóšová		1	440
+406	BARTUŠ Michal		1	481
+406	BARTUŠOVÁ Anna	r.Koščová	1	481
+406	Beňo Ján		0	268
+406	Beňo Ján, 1. mája, Rozhanovce, PSČ 044 42, SR		0	251
+406	BEŇOVÁ Alžbeta	r.Chovanová	1	204,269,439
+406	Beňová Alžbeta r. Hrehová		1	370
+406	Beňová Alžbeta r. Chovanová		1	268,337
+406	Benyo János		0	268
+406	Bonyo Gyorgy		0	268
+406	Búgošová Anna r. Vargová		1	441
+406	Čizacieky Jozef		1	442
+406	DOĽÁKOVÁ Alžbeta	r.Matašiková	1	315
+406	DOĽÁKOVÁ Alžbeta	r.Petrová	1	315
+406	Doľáková Alžbeta r. Matašiková		1	314
+406	DUGAS Imrich	mal	1	254,563
+406	DUGAS Vincent	mal	1	254,563
+406	DULINA Ján	ml.ž.Mária r.Glankovičová	1	415
+406	DULINOVÁ Alžbeta	r.Chovanová	1	158
+406	DULINOVÁ Anna	r.Porubská	1	482
+406	DUTKOVÁ Anna	r.Gerbarová	1	447
+406	FEDOR Ondrej		1	315,470
+406	FEDOROVÁ Helena	r.Fedorová	1	315,470
+406	FILIPOVÁ Anna	r.Lechmanová	1	438
+406	Filipová Anna r. Lechmanová		0	214,561,582,584
+406	Forgáčová Mária r. Červeňáková		1	413
+406	GAZDA Ján		1	445
+406	GAZDA Juraj		1	445
+406	GAZDA Štefan	mal	1	445
+406	GAZDAČKOVÁ Mária	r.Kristánová	1	241,242,254,276,563,650
+406	GAZDAOVÁ Alžbeta		1	445
+406	GAZDAOVÁ Mária		1	445
+406	GAZDIK Michal		1	315,465
+406	GAZDIKOVÁ Alžbeta	r.Rabatinová	1	315,465
+406	GRÓFOVÁ Anna	r.Demeterová	1	315
+406	HORŇÁKOVÁ Alžbeta		1	315
+406	HORŇÁKOVÁ Alžbeta	r.Peklanská	1	469
+406	Hovan Gyorgy		0	268
+406	Hovan Ján		1	143,204
+406	Hovan János		0	268
+406	HOVAN JURAJ		1	65,143,213,269,607,653
+406	Hovan Michal		1	143
+406	Hovan Ondrej		1	143
+406	Hovan Štefan		0	268
+406	HOVANOVÁ Alžbeta	r.Valcsisová	1	204
+406	HOVANOVÁ Anna		1	213,607,653
+406	HRCHA Ondrej		1	446
+406	Hruška János		0	268
+406	HUDÁK Ján		1	496
+406	Hudák Jozef		0	268
+406	HUDÁK Ondrej		1	511
+406	HUDÁKOVÁ Anna	r.Gazdová	1	445
+406	HUDÁKOVÁ Anna	r.Krištanová	1	496
+406	HUDÁKOVÁ Mária	r.Šimčáková	1	511
+406	HUFNÁGEL Ondrej	k.ž.Elena r.Hrubá	1	254,563
+406	CHOVAN Ján		1	204,251,254,268,269,389,429,439,550,551,563,585,586
+406	Chovan Ján r. Chovan	zomr. 03.10.1926	1	337
+406	CHOVAN Juraj		1	515
+406	CHOVAN Juraj	ml	1	254,563
+406	Chovan Ondrej		1	423
+406	Chovanová Alžbeta r. Hažbutová		1	429
+406	Chovanová Anna		1	65,143,158,268,476
+406	CHOVANOVÁ Anna	r.Valiková	1	213,269,515,653
+406	CHOVANOVÁ Anna	r.Vojtková	1	158,476
+406	Chovanová Anna r. _Valiková		0	65
+406	Chovanová Anna r. Valiková		1	607
+406	Kajňák Ján		0	268
+406	KAJŇÁK Juraj		1	510
+406	Kanyak Gyorgy		0	268
+406	Kanyaková Alžbeta		0	268
+406	KAPOSZTÁS Ján		1	254,563
+406	KAPUSZTÁR Ján		1	461
+406	Kobulnická Barbora		0	268
+406	KOBULNICKÁ Barbora	r.Šteffánová	1	254,355,563
+406	KOBULNICKÁ Mária	r.Krištanová	1	505
+406	Kobulnická Mária r. Kristanová		0	268
+406	Kobulnická Verona		0	268
+406	KOBULNICKÝ Ondrej	k.ž.Barbora r.Šteffánnová	1	355
+406	Kocsis János		0	268
+406	KOPAS Imrich		1	315,467
+406	KOPASOVÁ Mária	r.Peklanská	1	315,467
+406	Korecsko Ján		1	251,389,439,550,551,585,586
+406	KORECSKO Ján	Július	1	213,607,653
+406	Korecsko Ján Vojtech		0	65
+406	Korecsko Jozef		0	65
+406	KOREČKOVÁ Alžbeta	r.Cibuľová	1	193,254,563
+406	KOREČKOVÁ Anna	r.Štefanová	1	425
+406	Korečková Júlia		0	268
+406	KRAJŇÁK Ján		1	498
+406	KRAJŇÁKOVÁ Anna	r.Sabolová	1	498
+406	KRISTAN Andrej	mal	1	204
+406	KRISTAN Imrich		1	254,268,563
+406	KRISTAN Imrich	mal	1	241,242
+406	KRISTAN Ján	mal	1	204
+406	KRISTÁN Ján		1	241,242,276,650
+406	KRISTÁN Ján	ml	1	242
+406	KRISTÁN Juraj		1	242
+406	Kristanová Ivan Anna		0	268
+406	KRISZTAN Andrej	ml	1	415
+406	KRISZTÁN Juraj		1	254,563
+406	KURUCOVÁ Alžbeta	r.Kobulnická	1	256,531,532,616,617,638,655
+406	Kurucová Alžbeta r. Kobulnická		0	268
+406	KUSNYIRIK Ján		1	413
+406	KUSNYIRIKOVÁ Anna		1	413
+406	KUŠNÍRIK Ján		1	448
+406	Lechman Borbala		0	268
+406	LECHMAN Imrich		1	254,268,563
+406	Lechman Ján		1	214,233,438,561,582,584
+406	LECHMAN Michal		1	233
+406	Lechman Ondrej		0	214,561,582,584
+406	Lechmannová Anna		1	214,233,438,561,582,584
+406	Lechmanová Alžbeta		1	214,268,438,561,582,584
+406	LECHMANOVÁ Anna		1	254,268,563
+406	LECHMANOVÁ Anna	r.Kobulnická	1	508
+406	Lechmanová Jolana		0	214,268,561,582,584
+406	Lechmanová Regina		0	268
+406	LECHMANOVÁ Regina	mal	1	254,438,563
+406	LORINČÁK Milan		0	204
+406	MICHAL Jozef		1	451
+406	MIKLÓŠOVÁ Alžbeta	r.Danélová	1	452
+406	Nemec Gyorgy		0	268
+406	NOHAJ Ján		1	315,463
+406	NOHAJOVÁ Anna	r.Chovanová	1	315,463
+406	NOSÁĽ Juraj	Juhás	1	453
+406	NOSZALYOVÁ Alžbeta	r.Juhászová	1	413
+406	NYEMEC Juraj		1	415
+406	NYEMECZOVÁ Anna	r.Merczelyová	1	415
+406	PAZDIKOVÁ Verona	r.Kobulnická	1	256,531,532,616,617,638,655
+406	PEKLANSKÝ Ján		1	315,462
+406	PEKLANSKÝ Ján	ml	1	315
+406	PETRÓ Juraj		1	454
+406	PETRO Štefan		1	315
+406	PETROVÁ Margita	r.Kuncová	1	315
+406	ROHÁĽOVÁ Mária		1	204
+406	ROHALY Ján		1	204,355
+406	Rohalyová Anna		0	268
+406	SALAGOVICS Imrich		1	355
+406	SALAGOVICS Juraj		1	355
+406	SIPAJOVÁ Alžbeta	r.Pekľanská	1	457
+406	SIROTŇÁK Ján		1	315
+406	STRUGÁLYOVÁ Anna	r.Chovanová	1	158

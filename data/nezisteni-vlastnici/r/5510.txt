@@ -1,0 +1,256 @@
+3101	Kytka Jozef	zom	0	1406
+3101	Kytka Jozef, SR SPF		1	963
+3101	Kytka Jozef, SR zom.		0	441,497,557,644,2094
+3101	Kytka Jozef, zom zom		0	2787
+3101	Kytka Ondrej		0	2623
+3101	Kytka Ondrej SPF		1	762,2247,2296
+3101	Kytková Mária r. Kytková		0	2626
+3101	Kytková Mária r. Kytková SPF		1	698
+3101	Kytková Mária r. r. Kytková SPF		1	683
+3101	Kytková Mária, NV NV		0	2782
+3101	Kytková Mária, SR NV		0	939
+3101	Lipničanová /Kotúľová/ Mária r. Sochová zom.		0	424,1094,1198,1284,1322,1324,1325,1331,2030,2031,2896
+3101	Lipničanová Mária r. Sochová, Kotúľová zom Kotúľová zom		0	2626
+3101	Lipničanová Mária r. Sochová, Kotúľová zom. Kotúľová zom.		0	2626
+3101	Lipničanová-Kotúľová Mária		0	1386
+3101	Lipničanová-Kotúľová Mária r. Sochová, SR zom.		0	410,449,540,554,576,583,610,614,651,1146,1639,1897,2087
+3101	Lužbeťáková Terézia r. Tomčíková	zom	0	1517,1519,1538
+3101	Lužbeťáková Terézia r. Tomčíková SPF		1	760,2552
+3101	Lužbeťáková Terézia r. Tomčíková, SR SPF		1	884,2438
+3101	Lužbeťáková Terézia r. Tomčíková, SR zom.		0	398,399,451,493,566,1927,1984,2034,2235,2266,2835,2976
+3101	Lužbeťáková Terézia r. Tomčíková, zom zom		0	2626
+3101	Matejčák Ján	NV	0	1517,1519,1538
+3101	Matejčák Ján SPF		1	760,2552
+3101	Matejčák Ján, NV NV		0	2787
+3101	Matejčák Ján, SR NV		0	398,399,451,493,566,1927,1984,2034,2235,2266,2835,2976
+3101	Matejčák Ján, SR SPF		1	884,2438
+3101	Matejčák Jozef	NV	0	1517,1519,1538
+3101	Matejčák Jozef SPF		1	760,2552
+3101	Matejčák Jozef, NV NV		0	2783
+3101	Matejčák Jozef, SR NV		0	398,399,451,493,566,1927,1984,2034,2235,2266,2835,2976
+3101	Matejčák Jozef, SR SPF		1	884,2438
+3101	Matejčáková Anna	NV	0	1517,1519,1538
+3101	Matejčáková Anna SPF		1	760,2552
+3101	Matejčáková Anna, NV NV		0	2593
+3101	Matejčáková Anna, SR NV		0	398,399,451,493,566,1927,1984,2034,2235,2266,2835,2976
+3101	Matejčáková Anna, SR SPF		1	884,2438
+3101	Matejčáková Mária	NV	0	1517,1519,1538
+3101	Matejčáková Mária SPF		1	760,2552
+3101	Matejčáková Mária, NV NV		0	2593
+3101	Matejčáková Mária, SR NV		0	398,399,451,493,566,1927,1984,2034,2235,2266,2835,2976
+3101	Matejčáková Mária, SR SPF		1	884,2438
+3101	Matejčáková Veronika	NV	0	1517,1519,1538
+3101	Matejčáková Veronika SPF		1	760,2552
+3101	Matejčáková Veronika, NV NV		0	2787
+3101	Matejčáková Veronika, SR NV		0	398,399,451,493,566,1927,1984,2034,2235,2266,2835,2976
+3101	Matejčáková Veronika, SR SPF		1	884,2438
+3101	Michalčík Jozef		0	1446
+3101	Možeľová Mária r. Ružvoňová-Repáňová, SR zom.		0	586,605
+3101	Možeľová Mária r. Ružvoňová-Repoňová, SR SPF		1	848
+3101	Muťka Štefan		0	443,448,563,569,636,638,789,867,1364,1856,1960,2256,2335,2342,2359,2363,2383,2410,2503,2875,2894,2946
+3101	Muťka Štefan r. Muťka		0	2582
+3101	Muťka Štefan SPF		1	789
+3101	Ončák Draško Jozef		0	1484
+3101	Pafcsik Terézia		0	77
+3101	Pafčíková Terézia Z Lokce		0	2582
+3101	Pafčíková Terézia, Lokca, SR SPF		1	1592
+3101	Papán Ján		0	1481
+3101	Rajniak Ján		0	1483
+3101	Romanová Terézia r. Jandeková, SR zom.		0	613
+3101	Ružôň Jozef SPF		1	102
+3101	Ružôň Jozef, starší, SR SPF		1	689
+3101	Ružôňová Elena SPF		1	102
+3101	Ružôňová Justína		0	2626
+3101	Ružôňová Justína, SR SPF		1	970
+3101	Ružôňová Katarína SPF		1	102
+3101	Ružôňová Mária r. Repoň		0	2783
+3101	Ružôňová Mária r. Repoň SPF		1	736,2190
+3101	Ružôňová Mária r. Repoň, SR SPF		1	877
+3101	Ružôňová Rozália	Pafčík	1	877
+3101	Ružôňová Rozália r. Pafčík		0	2623
+3101	Ružôňová Rozália r. Pafčík SPF		1	736,2190
+3101	Ružvoň A Jozef, NV NV		0	2782
+3101	Ružvoň A Jozef, SR NV		0	393,449,539,555,1695,1998,2848
+3101	Ružvoň František SPF		1	710
+3101	Ružvoň Jozef		0	1385,2626
+3101	Ružvoň Jozef SPF		1	710
+3101	Ružvoň Jozef, SR SPF		1	850,909
+3101	Ružvoň Matej	Silak	1	837
+3101	Ružvoň-Repáň Matej, SR NV		0	586,605
+3101	Ružvoňová Helena SPF		1	710
+3101	Ružvoňová Helena, SR NV		0	549,571,630
+3101	Ružvoňová Mária SPF		1	710
+3101	Ružvoňová Pavlína SPF		1	710
+3101	Ružvoňová Terézia		0	1385
+3101	Ružvoňová Terézia r. Chylová, SR zom.		0	388,449,604,631,654,1178,1202,1410,1503,1549,1608,1640,1642,1673,1764,1770,1901,1990,2010,2025,2089,2200,2282,2309,2403,2437,2532,2844,2852,2853,2886,2980
+3101	Ružvoňová Terézia r. Chylová, zom zom		0	2783
+3101	Ružvoňová-Pafčo Rozália		0	1385
+3101	Ružvoňová-Pafčo Rozália, NV NV		0	2684
+3101	Ružvoňová-Pafčo Rozália, SR NV		0	476,564,588,1073,1983,2178,2179,2191
+3101	Ružvoňová-Repáň Mária		0	1385
+3101	Ružvoňová-Repáň Mária, NV NV		0	2643
+3101	Ružvoňová-Repáň Mária, SR NV		0	476,564,588,1073,1983,2178,2179,2191
+3101	Ružvoňová-Repoň Terézia r. Špagľová	NV	0	1398,1513
+3101	Ružvoňová-Repoň Terézia r. Špagľová, NV NV		0	2568
+3101	Ružvoňová-Repoň Terézia r. Špagľová, SR NV		0	429,514,637,647,1391,1394,1737,1739,1773,1849,1997,2013,2082,2083,2105,2165,2421,2422,2423,2448,2457,2516,2526,2842,2847,2905,3007
+3101	Snovák Matej		0	2623
+3101	Srnčíková Etela r. Bačová		0	1480
+3101	Škomábrová Pavlína  maloletá, SR SPF		1	854
+3101	Škombár Pavol		0	1377
+3101	Škombár Pavol, NV NV		0	2787
+3101	Škombár Pavol, SR NV		0	413,509,533,552,559,1131,1234,2138,2337,2360,2364,2408,2475
+3101	Škombárová Pavlína   maloletá, SR SPF		1	840
+3101	Špagľa Andrej		0	2623
+3101	Špagľa Andrej SPF		1	786
+3101	Špagľa Andrej, SR SPF		1	828,1052,1058,1241,1853
+3101	Špagľa Ján, SR SPF		1	1051,1052
+3101	Špagľa Štefan, SR zom.		0	449
+3101	Špagľová Johana r. Romanová, SR SPF		1	874
+3101	Špagľová Terézia		0	2623
+3101	Špagľová Terézia SPF		1	729,1302,1524,1532,1738,1867,1902,1980,2197,2252,2254,2872
+3101	Tomčík Ján, SR zom.		0	493
+3101	Tomčík Ján, zom zom		0	2782
+3101	Tomčíková Mária r. Muťka		0	443,448,563,569,636,638,789,867,1364,1856,1960,2256,2335,2342,2359,2363,2383,2410,2503,2875,2894,2946
+3101	Tomčíková Mária r. Muťková, SR zom.		0	414,517,1832,1857,1944,1961,2100,2338,2361,2407,2488
+3101	Tomčíková Mária r. Muťková, zom zom		0	2568
+3101	Tomčutová Johana r. Kytková, SR NV		0	607
+3101	Vošková Katarína		0	1385
+3101	Vošková Katarína, SR zom.		0	443,448,563,569,636,638,1856,1960,2335,2342,2359,2363,2383,2410,2503,2875,2894,2946
+3101	Vošková Katarína, zom zom		0	2657
+3101	Žmuráňová Helena r. Michalčíková		0	1489
+3102	....		0	842
+3102	ADAMÍK Ján, SR		1	855,860,2597,2598
+3102	ADAMÍKOVÁ Mária	rod. Holubová	0	1498
+3102	ADAMÍKOVÁ Mária r. Holubová, SR		1	989,990,1921
+3102	Adamíková Mária r. Krivdová, Vavrečka, 122 Vavrečka, 122		0	2207
+3102	ADAMÍKOVÁ Rozália r. Ševčíková, SR		1	860
+3102	ADAMÍKOVÁ Rozália, SR		1	855,2597,2598
+3102	ADAMIKOVÁ Verona		0	1613,1614
+3102	BAJOVSKÁ Helena, SR		1	855,2597,2598
+3102	BOMBIAKOVÁ Veronika r. Marecká, SR		1	866
+3102	Brčák Štefan, prot. 80 prot. 80		0	2112,3468
+3102	BRČÁK Štefan, SR		1	3054,3179
+3102	BRČÁKOVÁ Júlia r. Štechucová, SR		1	934,1748,1749,1750
+3102	BRONERSKÁ Žofia r. Žuffová, SR		1	855,2597,2598
+3102	Bugan Jozef, prot. 49 prot. 49		0	2128
+3102	BUGAN Jozef, SR		1	827,1668,1948,2431
+3102	BUGANOVÁ Agneša r. Brčáková	posledný trvalý pobyt: 02901 Vavrečka 138	0	688
+3102	Buganová Helena, prot. 49 prot. 49		0	2128
+3102	BUGANOVÁ Helena, SR		1	755,827,842,1668,1763,1948,2431
+3102	BUGANOVÁ Pavlína r. Kemkelová, SR		1	844
+3102	BUGANOVÁ Terézia, SR	rod. Adamíková	0	1343,1653
+3102	BUGANOVÁ Verona, SR		1	755,842,1763
+3102	BUGANOVÁ Zofia	prot. 49	0	1403
+3102	BUGANOVÁ Zofia, SR		1	827,1668,1948,2431
+3102	Buganová Žofia, prot. 49 prot. 49		0	2255
+3102	BÚTOR Ján, SR		1	855,2597,2598
+3102	BÚTORA Ignác	prot. 236/21e	0	1243
+3102	BÚTORA Ignác, SR		1	855,2597,2598
+3102	BÚTORA Ján	nezvestný, prot. 70, 236	0	1243,1444,1501,1516,3004,3062
+3102	Bútora Ján, nezvestný, prot. 70, 236 nezvestný, prot. 70, 236		0	2112,3463
+3102	BÚTORA Ján, SR		1	720,855,871,1508,1510,1511,1512,1515,1517,1518,1686,1883,1884,2597,2598,2637,2638,2887,3032,3079,3114,3115,3167,3168,3169,3172,3187,3227
+3102	BÚTORA Jozef	prot. 70, 234 ,DD Tvrdošín	0	1243,1444,1501,1516,3004,3062
+3102	Bútora Jozef, prot. 111 B94d prot. 111 B94d		0	3368
+3102	BÚTORA Jozef, SR		1	720,855,871,1508,1510,1511,1512,1515,1517,1518,1686,1883,1884,2597,2598,2637,2638,2887,3032,3079,3114,3115,3167,3168,3169,3172,3187,3227
+3102	BÚTOROVÁ Helena r. Floreková, SR		1	837
+3102	Bútorová Justína, prot. 70 prot. 70		0	2112,3368
+3102	BÚTOROVÁ Justína, SR		1	720,871,1508,1510,1511,1512,1515,1517,1518,1686,1883,1884,2637,2638,2887,3032,3079,3114,3115,3167,3168,3169,3172,3187,3227
+3102	Čiernik Augustín		0	2221,3463
+3102	ČIERNIK Augustín, SR		1	797,2278,2893,2904,3123,3124,3130,3135,3136,3137,3138,3159
+3102	ČIERNIKOVÁ Mária r. Maťugová, SR		1	679,869,870,1325
+3102	Čierniková Mária r. Turčeková, Jozefová Jozefová		0	2161
+3102	ČIERNIKOVÁ Mária r. Turčeková,Jozefova, SR		1	797,824,843,2276,2278,2893,2904,3123,3124,3130,3135,3136,3137,3138,3159
+3102	DRELICH Izrael	prot. 173	0	1425
+3102	DRUŽKOVÁ Johana	vdova rod. Sivoňová	0	1218
+3102	Eliáš Jozef r. Duraj, RNDr., Bratislava, Čelakovského 5 Bratislava, Čelakovského 5		0	2124
+3102	Florek Ignác, prot. 81 b12c prot. 81 b12c		0	2112
+3102	FLOREK Ignác, SR		1	756,837,852,1692,2429,2463,2464,2465,2466,2541,2543,2574,2575,2699,2700,2719,2726,2734,2739,2972,3021,3118,3119,3175
+3102	Floreková Helena, prot. 81 prot. 81		0	2112
+3102	FLOREKOVÁ Helena, SR		1	756,837,852,1692,2429,2463,2464,2465,2466,2541,2543,2574,2575,2699,2700,2719,2726,2734,2739,2972,3021,3118,3119,3175
+3102	GAZDICOVÁ Anna r. Janoľová, SR		1	855,2597,2598
+3102	GOLDANEKOVÁ Žofia r. Ptačinová, SR		1	853
+3102	GRAŇÁK Štefan	prot. 174	0	1274
+3102	GREBÁČ Ján, SR		1	855,2597,2598
+3102	GREBÁČ Štefan, SR		1	855,2597,2598
+3102	Grebáčová Mária, prot. 100 b18 prot. 100 b18		0	3459
+3102	GREBÁČOVÁ Mária, SR		1	694,984,1123,1124,1125,1126,1127,2716,2941
+3102	Gurová Žofia r. Chovančáková, prot. 16 prot. 16		0	3463
+3102	GUROVÁ Žofia r. Chovančáková, SR		1	700,1975,2479,2793,2899,2914,2956,3043,3163,3239
+3102	GUROVÁ Žofia r. Chovančáková, SR	prot. 16	0	1306
+3102	HOĽMOVÁ Alžbeta, SR		1	987
+3102	Hoľmová Alžbeta, VAVREČKA, SR nar. 19.11.1969		0	1607
+3102	Holub Albín	Vavrečka, zom	0	2251
+3102	Holub Anton, prot. 201, 206 prot. 201, 206		0	2128,3468
+3102	HOLUB Ondrej, SR		1	855,2597,2598
+3102	HOLUB Roman, SR		1	743,830
+3102	Holub Štefan, prot. 116, 158, 508 prot. 116, 158, 508		0	2112,3459
+3102	HOLUB Štefan, SR		1	761,2540,2625,2626,2635,2659,2742,2743,3010,3148,3150,3153,3156,3259,3260,3262
+3102	HOLUBOVÁ Mária		0	1374,1377,1741,2112,2353,2633,2658,3152,3223,3323,3375
+3102	HOLUBOVÁ Mária	prot. 201, 206	0	1228,1229
+3102	HOLUBOVÁ Mária r. Janotíková, SR		1	855,2597,2598
+3102	Holubová Mária, prot. 201, 206 prot. 201, 206		0	2112,3459
+3102	HOLUBOVÁ Mária, SR		1	743,761,830,2540,2625,2626,2635,2659,2679,2742,2743,2840,3010,3148,3150,3153,3156,3259,3260,3262
+3102	HOLUBOVÁ Rozália	prot. 113	0	1228,1229,1396,1974,2738,3017,3027
+3102	Holubová Rozália, prot. 113 prot. 113		0	2112,3463
+3102	HOLUBOVÁ Rozália, SR		1	742,1567,1568,1569,1934,2372,2385,2386,2387,2389,2390,2391,2392,2393,2394,2395,2396,2426,2549,2550,2720,2737,2834,3022,3026
+3102	HRKEĽ Alojz, SR		1	2729
+3102	Hrkeľ Ignác, prot. 247 prot. 247		0	3463
+3102	HRKEĽ Ignác, SR		1	717,855,2597,2598
+3102	HRKEĽ Jozef	hluchý, prot. 157	0	1349,1651
+3102	HRKEĽ Jozef	prot. 359, 371	0	1498
+3102	Hrkeľ Ľudovít	prot.15	0	2072,2073
+3102	Hrkeľ Ľudovít, prot.15 prot.15		0	3470
+3102	HRKEĽ Ľudovít, SR		1	711
+3102	HRKEĽ Roman	mal	0	1324
+3102	Hrkeľ Roman, mal mal		0	3375
+3102	Hrkeľ Roman, mal. mal.		0	2128
+3102	HRKEĽ Roman, SR		1	693,890,2031,2689,2691,2692,2729,2756,2757,2901,2902
+3102	Hrkeľ Štefan	prot.48, 291	0	2070,2071,2404,3145
+3102	HRKEĽ Štefan	prot. 19	0	1321,1671,1766,1875,1912,2839,2884
+3102	HRKEĽ Štefan	prot. 48, 291	0	1434,1468,2042
+3102	HRKEĽ Štefan	starší, prot. 359, 371	0	1498
+3102	Hrkeľ Štefan, prot. 19 prot. 19		0	3363
+3102	HRKEĽ Štefan, SR		1	678,725,855,872,989,990,1105,1106,1632,1914,1921,2097,2406,2407,2446,2537,2597,2598,2622,2838,2965,3144,3180,3225
+3102	HRKEĽOVÁ Alžbeta	prot. 34, dátum úmrtia 01.01.1962	0	2499
+3102	Hrkeľová Alžbeta, prot. 34 prot. 34		0	3463
+3102	HRKEĽOVÁ Alžbeta, SR		1	686,1953,3092
+3102	HRKEĽOVÁ Helena	nezvestná, prot. 157	0	1349,1651
+3102	HRKEĽOVÁ Mária, SR		1	869,870
+3102	HRKĽOVÁ Elena r. Maťugová, SR		1	904
+3102	Hurák Karol, prot. 275 prot. 275		0	2112
+3102	HURÁK Karol, SR		1	747,1101,1102,1724,1727,3199
+3102	Hurák Rudolf, prot. 275 prot. 275		0	2125
+3102	HURÁK Rudolf, SR		1	747,1101,1102,1724,1727,3199
+3102	HURÁK Štefan	prot 69 b7	0	1188
+3102	Hurák Štefan, prot 69 b20 prot 69 b20		0	2125,3468
+3102	Hurák Štefan, prot 69 b7 prot 69 b7		0	3468
+3102	HURÁK Štefan, SR		1	747,771,1101,1102,1724,1727,1967,2897,2991,3139,3198,3199
+3102	HURÁKOVÁ Agneša, SR		1	747,1101,1102,1724,1727,3199
+3102	HURÁKOVÁ Irena, SR		1	747,1101,1102,1724,1727,3199
+3102	Huráková Mária, prot. 69 prot. 69		0	3468
+3102	HURÁKOVÁ Mária, SR		1	771,1967,2897,2991,3139,3198
+3102	Hurek Štefan, prot. 69 prot. 69		0	3468
+3102	HUREK Štefan, SR		1	771,1967,2897,2991,3139,3198
+3102	Hureková Mária, prot. 69 prot. 69		0	3468
+3102	HUREKOVÁ Mária, SR		1	771,1967,2897,2991,3139,3198
+3102	ILKOVÁ Helena, SR		1	869,870
+3102	JANČIGA Jozef	maloletý, prot. 95, 227	0	1347
+3102	JANČIGA Jozef	p. 42 b9b,207 b6a,250,346 b3a	0	1277,1278,1279,1398,1427,1460,2910,2995
+3102	Jančiga Jozef, maloletý, prot. 95, 227 maloletý, prot. 95, 227		0	2112,3459
+3102	Jančiga Jozef, p. 42 b9b,207 b6a,250,346 b3a p. 42 b9b,207 b6a,250,346 b3a		0	2112,3463
+3102	JANČIGA Jozef, SR		1	745,784,839,906,1979,2544,2545,2916,2940,2994
+3102	JANČIGOVÁ Anna	prot. 95, 227	0	1347
+3102	Jančigová Anna, prot. 95, 227 prot. 95, 227		0	2112,3459
+3102	JANČIGOVÁ Anna, SR		1	784,839,1979,2916,2940
+3102	JANČIGOVÁ Johana	prot. 95, 227	0	1347
+3102	Jančigová Johana, prot. 95, 227 prot. 95, 227		0	2112,3363
+3102	JANČIGOVÁ Johana, SR		1	784,839,1979,2916,2940
+3102	Jančigová Justína, prot. 95 prot. 95		0	2112,3468
+3102	JANČIGOVÁ Justína, SR		1	784,839,1979,2916,2940
+3102	JANČIGOVÁ Rozália r. Ševčíková, SR		0	1254
+3102	JANČIGOVÁ Veronika	prot. 42 b5, 346 b2c	0	1277,1278,1279,1398,1460,2910,2995
+3102	Jančigová Veronika r. Maťugová, prot. 110 prot. 110		0	2112,3375
+3102	JANČIGOVÁ Veronika r. Maťugová, SR		1	779,2430,2469,2552,2701,2959,2971,3037,3120,3165
+3102	JANČIGOVÁ Veronika r. Maťugová, SR	prot. 110	0	1364,1629,1691,3243
+3102	Jančigová Veronika, prot. 42 b10d, 346 b4c prot. 42 b10d, 346 b4c		0	2112,3459
+3102	Jančigová Veronika, prot. 42 b5, 346 b2c prot. 42 b5, 346 b2c		0	2112,3375

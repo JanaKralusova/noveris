@@ -1,0 +1,256 @@
+12	Kissová Mária r. Czuczorová, Slovenská republika		0	2179,2384,2705,2944,2951,2986
+12	Kissová Mária r. Szőkeová, Slovenská republika		0	2179
+12	Kissová Mária, Slovenská republika		0	2179,2944,2951,3003
+12	Kissová Mária, Slovenská republika, mal. mal.		0	2989
+12	Kissová Mária, Slovenská republika, SPF SPF		1	2179
+12	KISSOVÁ Matilda	r.Juhászová	1	713,717,1284
+12	KISSOVÁ Matilda	r.Szabová	1	722
+12	Kissová Matilda r. Czapáriková, Slovenská republika		0	2184
+12	Kissová Matilda r. Czuczorová, Slovenská republika, Jonas Jonas		0	2657
+12	Kissová Matilda r. Juhászová, Slovenská republika		0	2197,2885
+12	KISSOVÁ Otilia	r.Szekanová	1	1355,1400
+12	Kissová Otilia r. Szekanová, Slovenská republika		0	2944,2951
+12	Kissová Priska, Slovenská republika, mal. mal.		0	2806
+12	Kissová Regina, Slovenská republika		0	2180
+12	KISSOVÁ Rozalia	mal	1	1332
+12	Kissová Rozália, Slovenská republika, mal. mal.		0	2989
+12	Kissová Verona r. Matušeková, Slovenská republika		0	2557
+12	KIŠ Jozef		1	1460
+12	KIŠOVÁ Alžbeta		1	1460
+12	KIŠOVÁ Anna		1	1460
+12	KIŠOVÁ Mária	r.Cucorová	1	1617
+12	KIŠOVÁ Matilda		1	1460
+12	KIŠŠOVÁ Johana	r.Slašťan	1	1445,3193
+12	KIŠŠOVÁ Mária, SR	r.Czuczorová	1	1447,3194
+12	KÖBÖDÖCOVÁ Mária r. Dioššiová, SR		1	1447,3194
+12	KOBODOČOVA Mária	r.Dioššiová	1	1443
+12	Kocsisová Agneša r. Micková, Slovenská republika		0	2611
+12	Kocsisová Agneša r. Mucková, Slovenská republika, m.Jozef m.Jozef		0	2332
+12	Kocsisová Agneša, Slovenská republika		0	2442
+12	Kočišová Magdaléna, Slovenská republika, mal. mal.		0	2325
+12	Kolecsányi Gejza, Slovenská republika		0	2573
+12	Kolecsányi Koloman, Slovenská republika		0	2717
+12	Konáriková Vilma r. Kolecsányiová, Slovenská republika		0	2365
+12	Kováč Ondrej, Slovenská republika		0	2758
+12	Kováčová Mária r. Molnárová, Slovenská republika		0	2461
+12	KRIŽANOVÁ Pepka	r.Czuczorová	1	1104
+12	Križanová Pepka r. Czuczorová, Slovenská republika		0	2179
+12	Križanová Pepka, Slovenská republika		0	2179
+12	KUCSERA Alexander		1	1337
+12	Kucsera Alexander, Slovenská republika		0	2179
+12	KUCSERA Ernest		1	1920
+12	Kucsera Ernest, Slovenská republika		0	2480,3003
+12	KUCSERA Gejza	/m.Rozalia Kissová/	1	1920
+12	Kucsera Gejza, Slovenská republika, m.Rozalia Kissová m.Rozalia Kissová		0	2155,2496,3003
+12	KUCSERA Jozef		1	1337
+12	Kucsera Jozef, Slovenská republika		0	2174,2853,2862,3003
+12	Kucsera Štefan, Slovenská republika		0	2986
+12	KUCSEROVÁ Alžbeta	r.Czuczorová	1	1493
+12	Kucserová Alžbeta r. Czuczorová, Slovenská republika		0	2380
+12	Kucserová Alžbeta, Slovenská republika		0	2543
+12	Kucserová Anna r. Faragová, Slovenská republika		0	2669
+12	Kucserová Gizela, Slovenská republika		0	2855
+12	Kucserová Juliana r. Czuczorová		0	946
+12	KUCSEROVÁ Rozália	r.Kissová	1	1491
+12	Kucserová Rozália r. Kissová, Slovenská republika		0	2529
+12	Kuczman Július, Slovenská republika		0	2440
+12	Kuczmanová Anna r. Václavová, Slovenská republika		0	2311
+12	KUČERA Ernest		1	1066
+12	Kučera Ernest, Slovenská republika		0	2594
+12	KUČERA Gejza	/m.Rozália Kissová/	1	1066
+12	Kučera Gejza, Slovenská republika		0	2410,2475,2566
+12	Kučera Gejza, Slovenská republika, m.Rozália Kissová m.Rozália Kissová		0	2514
+12	KUČERA Jozef	'	1	1036
+12	Kučera Jozef, Slovenská republika		0	2220,2250,2454,3003
+12	Kučera Leopold, Slovenská republika, m.Mária Kučerová m.Mária Kučerová		0	2290
+12	KUČERA Štefan	ml	1	1066
+12	Kučera Štefan, Slovenská republika, ml. ml.		0	2322
+12	KUČEROVÁ Anna	r.Czabanová	1	804
+12	KUČEROVÁ Anna	r.Faragová	1	1476
+12	KUČEROVÁ Anna	r.Faragová vd	1	1036,1494
+12	Kučerová Anna r. Cabanová, Slovenská republika		0	2933
+12	Kučerová Anna r. Czabanová, Slovenská republika		0	2816
+12	Kučerová Anna r. Faragová, Slovenská republika, vd. vd.		0	2889,3003
+12	Kučerová Anna, Slovenská republika, mal. mal.		0	2315
+12	Kučerová Karolina, Slovenská republika		0	2179
+12	Kučerová Katarína r. Czuczorová, Slovenská republika		0	2574
+12	KUČEROVÁ Margita	mal	1	1036
+12	KUČEROVÁ Margita	r.Kutruczová	1	1036
+12	Kučerová Margita r. Kutruczová, Slovenská republika		0	2179
+12	Kučerová Margita, Slovenská republika, mal. mal.		0	2576
+12	KURUCZ Aladár		1	1464
+12	Laco Pavel r. Laco		1	1504
+12	Lacová Helena r. Šipošová, Slovenská republika		0	2603
+12	Lakatoš Ján, Slovenská republika		0	2174,2890,2947,2983,3003
+12	Lakatoš Ján, Slovenská republika	ml	0	2986
+12	Lakatoš Jozef, Slovenská republika		0	2947,2983,2986,3003
+12	Lakatošová Julianna r. Švarcová, Slovenská republika		0	2902
+12	Lakatošová Paulina, Slovenská republika		0	2174,2506,3003
+12	Liszi Ľudovit, Slovenská republika		0	2752
+12	Lukácsová Franciška r. Szokeová		0	1460
+12	Madarász Ľudovit, Slovenská republika		0	2179
+12	MADARÁSZOVÁ Mária	r.Vitková	1	40,1463,1489
+12	Madarászová Mária r. Vitková, Slovenská republika		0	2179,3003
+12	Majerová Terezia r. Vlasáková, Slovenská republika		0	2472
+12	MANKOVÁ Angela	r.Kádárová vd	1	779
+12	Manková Angela r. Kádárová, Slovenská republika, vd. vd.		0	2215,2944
+12	Matyasová Vilma r. Juhászová, Slovenská republika		0	2181
+12	MATYUS František		1	1104,1492
+12	Matyus František, Slovenská republika		0	2208,2708,2817,2959
+12	MATYUS Matej		1	1494
+12	MATYUSOVÁ Helena		1	1492
+12	Mátyusová Helena, Slovenská republika		0	2208,2959
+12	MATYUSOVÁ Irena	mal	1	1494
+12	MATYUSOVÁ Katarína		1	1492
+12	Mátyusová Katarína, Slovenská republika		0	2208,2959
+12	MATYUSOVÁ Mária	mal	1	1494
+12	MATYUSOVÁ Mária	r.Kissová	1	1492,1508
+12	Mátyusová Mária r. Kissová, Slovenská republika		0	2263
+12	MATYUSOVÁ Terezia	mal	1	1494
+12	Mátyušová Vilma r. Juhászová, Slovenská republika		0	2183
+12	MEDOVARSKÁ Helena		1	1448
+12	MEDOVARSKÁ Helena	mal	1	1584
+12	Medovarská Helena, Slovenská republika		0	2204
+12	MEDOVARSKY Ján		1	1448
+12	MEDVARČÍKOVÁ Irena	r.Dioššiová	1	1443
+12	MEDVARČÍKOVÁ Irena r. Dioššiová, SR		1	1447,3194
+12	Mészároš Ľudovit, Slovenská republika		0	2939,2951,3003
+12	Mészároš Ľudovít, Slovenská republika, mal. mal.		0	2620,3003
+12	Mészárošová Mária r. Brunczviková, Slovenská republika		0	2179
+12	Mikulec Imrich, Slovenská republika		0	2408
+12	Mikulec Jozef, Slovenská republika, mal. mal.		0	2387
+12	Mikulecz Imrich, Slovenská republika		0	2693
+12	MIŠŤURÍK Juraj		1	1294
+12	Mišťurík Juraj, Slovenská republika		0	2684
+12	MIŠŤURÍKOVÁ Judita	r.Hudecová	1	1294
+12	Mišťuríková Judita r. Hudecová, Slovenská republika		0	2401
+12	Nagy Alexander, Slovenská republika		0	2776
+12	NAGY Andrej		1	1477
+12	Nagy Andrej, Slovenská republika		0	2237,2948,3003
+12	Nagy František, Slovenská republika		0	2476
+12	Nagy Ján, Slovenská republika		0	2595
+12	Nagy Ján, Slovenská republika, Arpáš Arpáš		0	2626
+12	Nagy Ján, Slovenská republika, syn Františka syn Františka		0	2851
+12	Nagy Lipot, Slovenská republika		0	2307
+12	NAGY Štefan		1	1477
+12	Nagy Štefan, Slovenská republika		0	2237,2948,3003
+12	Nagyová Alžbeta r. Czuczorová, Slovenská republika		0	2323
+12	Nagyová Brigita r. Czuczorová, Slovenská republika		0	2179
+12	Nagyová Margita r. Kissová, Slovenská republika, m.Ignác m.Ignác		0	2397
+12	NAGYOVÁ Mária	r.Cucorová	1	774
+12	Nagyová Mária r. Kučerová, Slovenská republika		0	2695
+12	NAGYOVÁ Matilda	r.Vighová	1	1482
+12	Nagyová Matilda r. Vighová, Slovenská republika		0	2979
+12	Nagyová Matilda r. Víghová, Slovenská republika, m.Štefan m.Štefan		0	2541
+12	NAGYOVÁ Žofia	r.Czuczorova	1	1392
+12	Nagyová Žofia r. Czuczorová, Slovenská republika		0	2788
+12	Nagyová Žofia r. Víghová, Slovenská republika		0	2523
+12	Novák Karol, Slovenská republika		0	2526
+12	Nováková Mária r. Figurová, Slovenská republika		0	2358
+12	PEKÁRIKOVÁ Gizela	r.Sekanová	1	1355,1400
+12	Pekáriková Gizela r. Sekanová, Slovenská republika		0	2179,3003
+12	Pikler Štefan, Slovenská republika		0	2152,2981
+12	Piklerová Alžbeta, Slovenská republika		0	2152,2981
+12	Piklerová Katarína, Slovenská republika		0	2152,2981
+12	Piklerová Mária, Slovenská republika, Wilhelmina Wilhelmina		0	2394
+12	PIKLEROVÁ Matilda	r.Czuczorová	1	1104
+12	Pirosová Matilda r. Szőkeová, Slovenská republika		0	2935,2992
+12	PIŠKALÍK Jozef	mal	1	1627
+12	Piškalík Jozef, Slovenská republika		0	2715
+12	PIŠKALÍKOVÁ Katarína	mal	1	1627
+12	Piškalíková Katarína, Slovenská republika		0	2762
+12	Piškalíková Mária r. Véghová, Slovenská republika		0	2279
+12	Pongrácz Alexander, Slovenská republika, mal. mal.		0	2179
+12	Pongráczová Helena, Slovenská republika, mal. mal.		0	2179
+12	Pongráczová Zelma, Slovenská republika, mal. mal.		0	2179
+12	Prochazka Ján, Slovenská republika, nar.:26.03.1910 nar.:26.03.1910		0	2276
+12	Prochazkaová Mária r. Lakatošová, Slovenská republika		0	2565,2951,3003
+12	SABO Daniel		1	1581
+12	SEKAN Alexander		1	1355,1400
+12	Sekan Alexander, Slovenská republika		0	2179,3003
+12	Sekan František, Slovenská republika		0	2179,3003
+12	Sekan Jozef, Slovenská republika		0	2253,3003
+12	SEKAN Ladislav		1	1355,1400
+12	Sekan Ladislav, Slovenská republika		0	2179,3003
+12	SEKAN Ľudovít		1	1355,1400
+12	Sekan Ľudovít, Slovenská republika		0	2179,3003
+12	Sekanová Helena r. Kučerová, Slovenská republika		0	2455
+12	SR - Slovenská republika		0	781,912,1066,1104,1220,1247,1248,1355,1400,1425,1428,1429,1432,1468,1477,1497
+12	Streda Michal, Slovenská republika		0	2310
+12	Stredová Alžbeta r. Farkašová, Slovenská republika		0	2599
+12	Szabó Daniel, Slovenská republika, mal. mal.		0	2893
+12	Szabo Ján, Slovenská republika	ml	0	2179
+12	Szabó Ján, Slovenská republika		0	2179
+12	Szabó Ján, Slovenská republika, m.Juliana Czapáriková m.Juliana Czapáriková		0	2345
+12	SZABO Koloman		1	1220
+12	Szabó Koloman, Slovenská republika		0	2661
+12	Szabó Leopold, Slovenská republika		0	2258
+12	SZABO Michal		1	1482
+12	Szabó Michal, Slovenská republika		0	2479
+12	SZABO Štefan		1	1220
+12	Szabo Štefan, Slovenská republika		0	2179,2774
+12	Szabo Šteran, Slovenská republika		0	2148,2935
+12	SZABOOVÁ Katarína	r.Cucorová	1	1313,1425,1428,2099
+12	SZABOOVÁ Katarína	r.Czuczorová	1	727,1429
+12	Szabóová Katarína r. Cucorová, Slovenská republika		0	2204,2432,3003
+12	Szabóová Katarína r. Czuczorová, Slovenská republika		0	2770
+12	Szabová Apolonia, Slovenská republika, mal. mal.		0	2511
+12	SZABOVÁ Helena	r.Juhászová	1	816
+12	Szabová Helena r. Juhászová, Slovenská republika		0	2257
+12	Szabová Júlia r. Kucserová, Slovenská republika		0	2502
+12	Szabová Katarína r. Cucorová, Slovenská republika		0	2840
+12	Szabová Katarína r. Czapáriková, Slovenská republika		0	2184
+12	Szabová Katarína r. Kissová, Slovenská republika		0	2481
+12	Szabová Matilda r. Szabova, Slovenská republika		0	2179,2281
+12	Szapuová Matilda r. Szőkeová, Slovenská republika		0	2179,3003
+12	SZEKAN František		1	1355,1400
+12	Szekan František, Slovenská republika		0	2179
+12	SZEKAN Jozef		1	1355,1400
+12	Szekan Jozef, Slovenská republika		0	2846
+12	SZEKAN Ladislav		1	1355,1400
+12	Szekan Ladislav, Slovenská republika		0	2179
+12	Szekanová Helena r. Kučerová, Slovenská republika		0	2313,3003
+12	SZOKE Alexander		1	1453
+12	Szoke Alexander, Slovenská republika	borka	0	2662
+12	Szőke Alexander, Slovenská republika, ml. ml.		0	2863
+12	Szőke Florentina r. Kugyelášová, Slovenská republika		0	2596
+12	SZOKE František		1	1347,1453
+12	SZOKE František	mal	1	1630
+12	Szoke František, Slovenská republika		0	2229,2295,2939,2951,2960,2994,3003
+12	Szoke František, Slovenská republika	mal	0	2675
+12	SZOKE Ján	/Bilitz/	1	1589
+12	Szőke Ján, Slovenská republika, ž.Anna Szabová ž.Anna Szabová		0	2252
+12	Szőke Jozef, Slovenská republika		0	2329
+12	Szőke Karol r. Szőke, Slovenská republika, nar. 11.3.1933 nar. 11.3.1933		0	2357
+12	SZOKE Ladislav		1	1453
+12	Szőke Ľudovit, Slovenská republika		0	2485
+12	Szőke Ľudovít, Slovenská republika	borka	0	2681
+12	Szőke Ondrej, Slovenská republika		0	2443
+12	SZOKE Štefan		1	1110
+12	SZOKE Štefan	mal	1	877
+12	Szőke Štefan, Slovenská republika		0	2243
+12	Szőkeová Alžbeta r. Szabová, Slovenská republika		0	2825
+12	Szőkeová Florentina r. Kudelášová, Slovenská republika		0	2381,3003
+12	SZOKEOVÁ Helena	r.Szokeová	1	1347,1453
+12	Szőkeová Helena r. Szőkeová, Slovenská republika		0	2229,2960,2994,3003
+12	Szőkeová Helena, Slovenská republika		0	2951,3003
+12	Szőkeová Juliana r. Szabová, Slovenská republika		0	2735
+12	SZOKEOVÁ Julianna	r.Petroveczová	1	1630
+12	SZOKEOVÁ Katarína		1	1347,1453
+12	Szőkeová Katarína, Slovenská republika		0	2447,2960,3003
+12	SZOKEOVÁ Mária		1	1337
+12	SZOKEOVÁ Mária	r.Czuczorová	1	1247
+12	Szőkeová Mária r. Czuczorová, Slovenská republika		0	2367
+12	Szőkeová Mária r. Klandová, Slovenská republika		0	2427
+12	Szőkeová Mária, Slovenská republika		0	2525
+12	SZOKEOVÁ Žofia		1	1110
+12	SZOKEOVÁ Žofia	mal	1	877
+12	Szőkeová Žofia, Slovenská republika		0	2243
+12	SZUCS František		1	841,950
+12	Szűcs František, Slovenská republika		0	2171,2998
+12	SZUCS Jozef		1	950
+12	Szűcs Jozef, Slovenská republika		0	2161,3007
+12	Szűcsová Gizela r. Kisová, Slovenská republika		0	2542
+12	Szűcsová Margita, Slovenská republika		0	2647
+12	SZUCSOVÁ Mária	r.Kisová	1	950
+12	Szűcsová Mária r. Kisová, Slovenská republika		0	2745

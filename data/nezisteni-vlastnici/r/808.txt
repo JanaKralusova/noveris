@@ -1,0 +1,256 @@
+459	IVAN Ján	syn Jána a Zuzany	1	1985,2020,2211
+459	IVAN Martin		1	1985
+459	IVAN Michal	st	1	452,453,454
+459	IVAN Michal	syn Martina	1	98,1390,1985,2870
+459	IVANOVÁ Anna	r.Makovcová	1	1481,1528,2005,2789
+459	IVANOVÁ Anna	r.Savková	1	700,1922,2209,2731
+459	IVANOVÁ Katarína	r.Kováčová	1	787,1570,1680,1847,2388,2790,2940
+459	JABLONSKÝ Július	manž.Elena r. Krasnovská	1	1754
+459	JÁNOŠ Juraj		1	1816,1871,2944,2945
+459	JANUŠ Jozef	manž.Helena r. Treščáková	0	1752,2677
+459	JANUŠ Jozef	syn Anny r. Burdovej	1	1676,2040
+459	JANUŠOVÁ Anna r. Burdová Sninčinová		1	98,1258,1390,2275,2870
+459	JUNÁK Ján	otec Ján	0	98,1390,1781,1794,2870
+459	JUNÁKOVÁ Anna		1	1702,2049,2802
+459	JUNÁKOVÁ Anna	r.Mikulová	1	1794
+459	JUNÁKOVÁ Anna	zom.6.8.1996	0	2781
+459	JUNÁKOVÁ Anna r. Harakaľová	zom.6.8.1996	1	1862,2015,2049
+459	JURO Ján	mal. syn Jána	1	725,1477,1779,1943,1955,2063,2095,2097,2760,2795
+459	JURO Ján	manž.Anna r.Ondušová	1	1885
+459	Juro Michal r. Juro	mal. syn Jána | zomr. 3.8.1976 mal. syn Jána | zomr. 3.8.1976	1	431
+459	Juro Michal r. Juro	mal. syn Jána | zomr.3.8.1976 mal. syn Jána | zomr.3.8.1976	1	431,725,1477,1779,1943,1955,2063,2095,2097,2760,2795
+459	Juro Michal r. Juro	mal. syn Jána | zomr.3.8.21976 mal. syn Jána | zomr.3.8.21976	1	2095
+459	Juro Michal r. Juro	manž.Alžbeta r. Piškaninová | zomr. 3.8.1976 manž.Alžbeta r. Piškaninová | zomr. 3.8.1976	1	453
+459	Juro Michal r. Juro	manž.Alžbeta r. Piškaninová | zomr.3.8.1976 manž.Alžbeta r. Piškaninová | zomr.3.8.1976	1	454,1354,1390,2097,2620
+459	Juro Michal r. Juro	manž.Alžbeta r. Piškaninová zomr.3.8.1976 manž.Alžbeta r. Piškaninová zomr.3.8.1976	1	98,2870
+459	JURO Pavol		1	1814
+459	JUROVÁ Alžbeta	mal	1	1943,1955,2063,2095,2097,2760
+459	JUROVÁ Anna	mal	1	1779
+459	JUROVÁ Anna	r.Ondušová	1	1885
+459	JUROVÁ Mária	mal	1	431,725,1477,1943,1955,2063,2095,2097,2760,2795
+459	JUROVÁ Zuzana r. Šoltésová		1	2071
+459	KAMER Andrej	Komár	1	2191,2249
+459	KAMER Ján	Komár	1	2191,2249
+459	KAMEROVÁ Anna	Komárová	1	2191,2249
+459	KAMEROVÁ Mária	Komárová	1	2191,2249
+459	KAMEROVÁ Mária	r.Piškaninová	1	84,88,780,781,1697,2096,2204,2303,2683,2767,2788,2808,2809
+459	KARĽA Juraj	ž.Kepičová Mária	1	1998
+459	KARĽA Martin		1	1996
+459	KARĽA Pavol	Belá n/ Cirochou 553	1	1998
+459	KAZEJOVÁ Anna	r.Harhajová	1	1164
+459	Kazimír Juraj	manž.Mária r.Stadničárová; ; zom. 28.10.1940 ako 69-ročný	1	1390
+459	KAZIMÍR Michal	manž.Mária r. Skvašiková	0	1816
+459	KAZIMÍR Michal	syn Juraja	1	1816
+459	Kažimír Juraj		1	98,2870
+459	Kažimír Juraj	manž.Mária r. Stadničárová | zom 28.10.1940 ako 69-ročný; manž.Mária r. Stadničárová	1	2144
+459	Kažimírová Mária r. Stadničárová		1	2144
+459	KELLER Jozef	manž.Alžbeta r. Ondušová	1	2086
+459	KELLEROVÁ Alžbeta	r.Ondušová	1	2086
+459	KEPIČ Andrej		1	1999
+459	KEPIČ Jozef	Belá nad Cirochou č.267	1	1999
+459	KIALIK Ján		1	1996
+459	KIPILA Michal	vzd	1	1833
+459	KIPILOVÁ Anna	r.Mikulová manž.Ján	1	507,1382,2004,2738,2740,2903
+459	KIPILOVÁ Katarína	r.Polačková	1	98,1390,2870
+459	KIPILOVÁ Mária	r.Mikulová	1	96
+459	KNIŽ Andrej		1	1768
+459	KNIŽ Andrej	zom.16.12.1985; manž.Mária r. Tomášová	0	98,1390,2870
+459	KNIŽ Ján	manž.Mária r. Burdová	1	800,1945,2066,2732
+459	KNIŽ Ján	Pavlovčin	1	98,2870
+459	KNIŽ Ján	vzd	1	1531,1532,1930,1945,1946,2066,2292,2736
+459	Kníž Ján r.	Pavlovčin	1	1390
+459	Kníž Ján r.	vzd	1	2291
+459	KNIŽ Jozef		1	1531,1930
+459	KNIŽ Jozef	manž.Anna r. Mesárošová	1	1777
+459	KNIŽ Jozef	manž.Mária r. Mesárošová	1	98,1390,1946,2870
+459	Kníž Juraj		1	2293
+459	KNIŽOVÁ Alžbeta	r.Pastýrová	1	2045
+459	KNIŽOVÁ Mária	r.Chvostáľová	1	952,1350,1531,1532,1776,1930,2291
+459	KNIŽOVÁ Mária	r.Tomášová	1	1953
+459	KNÍŽOVÁ Zuzana		1	952,1350,1532,1930,2291
+459	KOHÚT Andrej	manž.Mária r. Krivjanská	1	1715,1929,2108
+459	KOHÚT Ján		1	836,1092,1683,1684,1958,1959,1990,2060,2077,2198,2301,2462,2770,2849,2866
+459	KOHÚT Ján	kúpa od Jozefa Piškanina	0	1902
+459	KOHÚT Ján	manž.Alžbeta r.Krivjanská	1	1814
+459	KOHÚT Ján	najst	1	1794
+459	Kohút Jozef	zom.28.9.1984, manž.Alžbeta r. Kováčová	0	1715,1929,1957
+459	KOHÚT Juraj	st	1	1735
+459	Kohut Martin r. Kohut		1	96
+459	Kohut Martin r. Kohut	manž.Anna r. Pavlovčinová, Dlhé nad Cirochou 123; manž.Anna r. Pavlovčinová, Dlhé nad Cirochou 123	1	2342
+459	Kohut Martin r. Kohut	manž.Anna r. Pavlovčinová,Dlhé nad Cirochou 123; manž.Anna r. Pavlovčinová,Dlhé nad Cirochou 123	1	1152,1240,1277,1607,1728,1729,1861,1877,2074,2807,2817,2885,2886,2887,2888,2939
+459	KOHÚT Michal	kúpa	1	457,1733,1736,1956,2108
+459	KOHÚT Michal	kúpa s Jánom	1	1734
+459	KOHÚT Michal	manž.Alžbeta r. Koťová	0	1763,2785
+459	KOHÚT Michal	st	1	457,1736
+459	KOHÚT Michal	zom. 31.05.1995	0	836,1762,1958,1968,2462,2849
+459	KOHÚT Michal	zom.31.05.1955	0	2301,2866
+459	KOHÚT Pavol	zom.12.2.1993	0	2107
+459	KOHÚTOVÁ Alžbeta	r.Krivjanská	1	1814
+459	KOHÚTOVÁ Alžbeta	r.Pastýrová	1	1854
+459	KOHÚTOVÁ Alžbeta r. Harakaľová	zom.16.06.1991	0	181,182
+459	KOHÚTOVÁ Anna	dcéra Juraja a Zuzany r. Lelkovej	1	836,1683,1684,1958,2462,2770,2849
+459	KOHÚTOVÁ Anna	mal. dcéra Martina a Alžbety r.Piškanino	1	96,751,952,1350,1531,1532,1715,1736,1929,1930,1956,1957,2107,2108,2159,2291
+459	KOHÚTOVÁ Anna	mal.kúpa od Pavla Kohúta	1	833,1873,2016,2281,2302,2741,2743,2861
+459	KOHÚTOVÁ Helena	r.Drevická	1	1678
+459	KOHÚTOVÁ Mária	mal	1	96
+459	KOHÚTOVÁ Mária	r.Piškaninová	1	84,88,781,1301,1697,1956,2096,2108,2204,2303,2767,2808,2809
+459	KOHÚTOVÁ Zuzana	r.Kováčová	1	2388
+459	KOHÚTOVÁ Zuzana r. Leľková		0	98,1390,2870
+459	KOMÁR Ján	manž.Barbora r. Harvanová	1	2191,2249
+459	KONZULOVÁ Zuzana	r.Makovcová	1	787,1481,1528,1680,1847,2005,2789,2790,2940
+459	KOSTIHAČ Michal	mal	1	431,1790,1937,1943,2095,2759,2760
+459	KOTHAJOVÁ Antónia r. Veczerková		0	1971
+459	KOŤO Ján	manž.Anna r. Hančaríková	1	98,1390,2141,2870
+459	KOŤO Jozef		1	496,1375,1526,1527,1977,2032,2080,2471,2704,2705,2864,2868,2869,3023,3024
+459	KOŤOVÁ Anna	r.Hančaríková	1	2141
+459	KOŤOVÁ Mária	mal	1	2032,2869
+459	KOVÁČ Andrej	manž.Alžbeta r. Burdová	1	98,1390,1771,2870
+459	KOVÁČ Andrej	syn Michala, zom.21.5.1966	1	1317,1328,1726,1727,1771,1905,1906,1921,2090,2982
+459	KOVÁČ Ján		1	787,1481,1528,1570,1680,1847,2005,2789,2790,2940
+459	KOVÁČ Ján	kúpa od Márie r. Krivjanskej	1	1909,1970,2744,2745
+459	KOVÁČ Ján	Lelko	1	98,1390,2870
+459	KOVÁČ Ján	st	1	96
+459	KOVÁČ Ján	zom. 25.03.1949; manž. Alžbeta r. Knižová	0	1390
+459	KOVÁČ Ján	zom.25.03.1949, manž. Alžbeta r. Knižová	0	98
+459	KOVÁČ Ján	zom.25.03.1949; manž. Alžbeta r. Knižová	0	2870
+459	KOVÁČ Ján	zom.25.3.1949, manž.Alžbeta r. Knižová	0	96
+459	KOVÁČ Jozef	st	1	1253,2598,2754,2943,2979
+459	KOVÁČ Juraj	manž.Mária r. Hoľková	1	98,1254,1390,1740,2870
+459	KOVÁČ Juraj	syn Štefana	1	1740
+459	KOVÁČ Michal	ded. po Michalovi a Anne r. Šoltésovej	1	1328,1726,1727,2089,2090,2882,2982
+459	KOVÁČ Michal	kúpa od Jána	1	1462
+459	KOVÁČ Michal	manž.Anna r. Repková	1	98,146,1390,2080,2778,2870,2995,2996
+459	KOVÁČ Michal	st	1	112,1253,1254,1676,1740,1858,2033,2040,2081,2208,2598,2754,2791,2943,2979,3018
+459	KOVÁČ Michal	syn Alžbety r. Knižovej	1	96,1462
+459	KOVÁČ Michal	syn Jána	1	2388
+459	KOVÁČ Michal	vzd	1	95,2281,2302,2861,3031,3032
+459	KOVÁČ Štefan	manž.Zuzana r. Ondušová	1	98,1390,2870
+459	KOVÁČOVÁ Alžbeta	mal	1	1254
+459	KOVÁČOVÁ Alžbeta	r.Piškaninová	1	1942
+459	KOVÁČOVÁ Anna	Knižová	1	1921
+459	KOVÁČOVÁ Anna r. Repková	zom.24.5.2001	0	2080
+459	KOVÁČOVÁ Mária	dcéra Michala	1	1471
+459	KOZEMČÁKOVÁ Anna	r.Kozubová	1	1793
+459	KRAJNIK Ján		1	98,277,1390,1574,1850,2601,2870
+459	KRÁSNOPOLSKÁ Alžbeta	r.Chvostáľová	1	96
+459	KRESILOVÁ Alžbeta	r.Nacková,dedička po Michalovi Nackovi	1	1996
+459	KRIVENSKÝ Andrej		1	311,1886,2523
+459	KRIVJANČIN Jozef	manž.Anna r. Polačková	1	1813
+459	KRIVJANČIN Martin		1	919,1471,1906
+459	KRIVJANČIN Martin	manž.Alžbeta r. Šoltésová	1	98,452,1390,2870
+459	KRIVJANČIN Michal		1	98,2870
+459	KRIVJANČINOVÁ Alžbeta r. Rajňáková		1	1365,1882
+459	KRIVJANČINOVÁ Alžbeta r. Repková		0	2003
+459	KRIVJANČINOVÁ Anna		1	1682
+459	KRIVJANČINOVÁ Anna	ded.po Márii r. Burdovej	1	1692,2873
+459	KRIVJANČINOVÁ Anna	r.Ščerbová	1	2237
+459	KRIVJANČINOVÁ Anna	zom.25.11.1976	0	1839,2021
+459	KRIVJANČINOVÁ Anna r. Polačková		1	385,1681,1813,2348,2349,2350
+459	KRIVJANČINOVÁ Mária	mal	1	1830,1867,2707
+459	KRIVJANČINOVÁ Mária	r.Valkovičová	1	405,1889,2089,2290,2882,2980
+459	KRIVJANSKÁ Anna		1	1771,2005
+459	KRIVJANSKÁ Anna	r.Petrová	1	1066,1819,1842
+459	KRIVJANSKÁ Mária	r.Makovcová	1	453,1876,2950
+459	KRIVJANSKÁ Zuzana	r.Burdová	1	146,2778,2995,2996
+459	KRIVJANSKY Andrej	ded. po Anna r.Božidarovej	0	1886
+459	KRIVJANSKY Ján	syn Anny r. Mižákovej	1	1867,2707
+459	KRIVJANSKY Ján	vzd	1	1819
+459	KRIVJANSKY Jozef	syn Jána	1	1819
+459	KRIVJANSKY Martin		1	1819
+459	KUDŽOVÁ Mária	r.Tomášová	1	2225
+459	KUNC Ján	mal	1	146,2778,2995,2996
+459	KUNC Pavol	ded.po Márii r. Burdovej	1	146,2100,2778,2995,2996
+459	KUNCO Pavol	najst	1	1327,1455
+459	KUNCO Pavol	vzd. ded.po Františkovi	1	1327,1455
+459	KUNCOVÁ Anna	mal	1	146,2100,2778,2995,2996
+459	LEFKANIČ Ján		1	1962,2379
+459	LEFKANIČOVÁ Alžbeta	r.Burdová	1	1262,1263,1942,2001
+459	LEFKANIČOVÁ Anna		1	1962,2379
+459	LELKO Andrej	Piškanin	1	1866,2862,2905,2906
+459	LELKO Ján	manž.Anna r. Dzurková	0	1751
+459	LELKO Ján	manž.Anna r. Tomášová	1	98,1390,2870
+459	LELKO Ján	manž.Anna r.Dzurková	0	1751
+459	LELKO Ján	Piškanin manž.Alžbeta r. Krivjanská	1	1819
+459	LELKO Ján	zom.21.6.1984, Piškanin	0	1819,1866,2862,2905,2906
+459	LELKO Jozef	kúpa od Michala	1	2064
+459	LELKO Jozef	mal	1	1961,1968,1989,2301,2866
+459	LELKO Jozef	manž. Mária r.Piškaninová	1	1390
+459	LELKO Jozef	manž.Mária r.Piškaninová	1	98,1961,1968,1989,2301,2866,2870
+459	LELKO Jozef	Piškanin manž.Mária r. Piškaninová	1	1241,1374
+459	LELKO Jozef	v Amerike	1	96
+459	LELKO Martin	st	1	1952,2064,2757
+459	LELKO Michal	najst	1	1694,1695,1769,1953,2899
+459	LELKO Michal	syn Michala st	1	1952,2757
+459	LELKOVÁ Alžbeta	Piškaninová r. Krivjanská	1	1819
+459	LELKOVÁ Alžbeta	r.Božidarová	1	1740
+459	LELKOVÁ Katarína	r.Brudňáková	1	1790
+459	LELKOVÁ Mária		0	1989
+459	LELKOVÁ Mária	dar od Jána a Alžbety r. Krivianskej	1	1373,1979
+459	LELKOVÁ Mária	r.Božidárová	1	1769
+459	LELKOVÁ Mária r. Božidárová		1	2899
+459	LELKOVÁ Mária r. Kipilová	zom.26.8.1987	0	1833
+459	LELKOVÁ Mária r. Piškaninová		0	1241,1374,1961,1968,2301,2866
+459	LELKOVÁ Zuzana	r.Burdová	1	1262,1263,1942,2001
+459	LEVKANIČOVÁ Zuzana	r.Kostihačová	1	431,1790,1937,1943,2095,2759,2760
+459	LIMBICKÁ Helena	r.Vitkovičová	1	1965,1966,2201
+459	LOJAN Adam		1	1931
+459	LOJAN Jozef	ž.Ľoncová Anna	1	1998
+459	LOJANOVÁ Anna		1	1931
+459	LOJANOVÁ Anna	r.Ľoncová	1	1998
+459	LONC Michal	st	1	971,1376,1463,1698,1782,1902,2953
+459	ĽONC Štefan		1	1888
+459	LONCOVÁ Anna	mal	1	971,1463,1902
+459	LONCOVÁ Mária	mal	1	1376,1698,1782,2953
+459	LONCOVÁ Mária	r.Tomašičová	1	1782
+459	LUKÁČ Ján		1	614,1838,1839,2021,2022,2030,2079,2750
+459	LUKAČ Jozef	ž.Alžbeta Gnipová	1	2054
+459	LUKÁČOVÁ Alžbeta r. Skvašiková	zom.2.9.1999	0	971,1463,1902
+459	LUKÁČOVÁ Katarína r. Feňová	zom.18.8.1956	0	98,1390,2870
+459	MAJERSKÝ Ján	manž.Júlia r. Vajdová	1	1682,1964,1988,2102,2348
+459	MAJERSKÝ Michal	v Amerike	1	2101,2348
+459	MAKOVCOVÁ Anna	mal	1	787,1481,1528,1680,1847,2005,2789,2790,2940
+459	MAKOVCOVÁ Mária	mal	1	1258,2275
+459	MAKOVCOVÁ Mária	r.Haburajová muž Michal	1	2076
+459	MAKOVCOVÁ Mária	r.Krivjančinová	1	1692,2873
+459	MAKOVCOVÁ Mária	r.Solomejová	1	2036,2804
+459	MAKOVCOVÁ Mária r. Čurilová	zom.18.10.1980	0	1848
+459	MAKOVCOVÁ Zuzana	r.Makovcová	1	98,1390,2870
+459	MAKOVEC František		1	1846,2008,2432,2769
+459	MAKOVEC Ján	mal	1	787,1481,1528,1680,1847,2005,2789,2790,2940
+459	MAKOVEC Jozef	manž.Mária r. Čurilová	0	1848
+459	MAKOVEC Juraj		1	1259,1848,2024,2871
+459	MAKOVEC Martin	Piškanin	1	98,1390,2870
+459	MAKOVEC Michal	mal. st	1	787,1258,1481,1528,1680,1847,2005,2275,2789,2790,2940
+459	MAKOVEC Michal	manž.Mária r. Haburajová	1	96,780,793,1700,1701,1884,2076,2683,2788
+459	MAKOVEC Michal	najst	1	787,1680,1847,2790,2940
+459	MAKOVEC Michal	vzd	1	787,1680,1847,1876,2790,2940,2950
+459	MAKOVEC Michal	zom.19.01.1997	0	1680
+459	MAKOVEC Michal	zom.19.1.1997	0	1528,2005,2789,2790
+459	MAKOVEC Michal zom.19.1.1997		0	1847
+459	MAKOVECOVÁ Zuzana	r.Kováčová	1	95,2281,2302,2861,3031,3032
+459	MATIKOVÁ Anna	r.Šoltésová	1	423,1687,1688,2026,2728,2730,2815
+459	MATIS Michal		1	1514,1802
+459	MATIS Michal	manž.Anna r. Knižová	1	98,1390,2870
+459	MATIS Štefan		1	1514,1802
+459	MATISOVÁ Anna	r.Chvostáľová	1	910,1865,2038,2205,2727
+459	MATISOVÁ Anna	r.Knižová	1	1514
+459	MAŽERIKOVÁ Anna	r.Dická	1	1936
+459	MEMČIKOVÁ Zuzana		1	385
+459	MERECICKOVÁ Mária	r.Harhajová	1	1164
+459	MESÁROŠ Andrej	manž.Mária r. Krivjančinová	1	496,1375,1526,1527,2471,2704,2705,2864,2868,3023,3024
+459	MESÁROŠ Andrej	st. syn Alžbety r. Koťovej	1	496,1375,1526,1527,2080,2471,2704,2705,2864,2868,3023,3024
+459	MESÁROŠ Ján	manž.Cila r. Treňáková	1	1613,1926,2288,2289
+459	MESÁROŠ Ján	manž.Zuzana r. Brušková	1	96
+459	MESÁROŠ Jozef	syn Alžbety r. Koťovej	1	496,1375,1526,1527,2032,2080,2471,2704,2705,2864,2868,2869,3023,3024
+459	MESÁROŠ Martin		1	1540
+459	MESÁROŠ Martin	manž.Anna r. Drevická	1	1773
+459	MESÁROŠ Michal	manž.Alžbeta r. Chvostáľová	0	2102
+459	MESÁROŠ Michal	manž.Anna r. Burdová	1	1767,1768
+459	MESÁROŠ Michal	manž.Mária r.Petriková	1	1613,1926,2288,2289
+459	MESÁROŠ Michal	ml. dar od Michala	1	2101
+459	MESÁROŠ Michal	najst	1	290,1673,1674,2966
+459	MESÁROŠ Michal	vzd. ml. Hreščo	1	290,1673,1674,2966
+459	MESÁROŠ Michal	zom.3.2.1975, syn Michala	0	1682,1757,2348
+459	MESÁROŠ Michal	zom.3.2.1975; syn Michala	0	98,1390,2870
+459	MESÁROŠOVÁ Anna	dar od Michala a Anny r. Burdovej	1	925,926,2880,2881
+459	MESÁROŠOVÁ Anna	mal. st	1	1767

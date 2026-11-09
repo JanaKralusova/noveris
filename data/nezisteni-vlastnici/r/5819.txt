@@ -1,0 +1,256 @@
+3277	Timčík Ján r. Timčík		0	297,298,914,983,984
+3277	Timčík Ján r. Timčík	zomrel v USA, súr. Mária, Michal, Štefan	0	302
+3277	Timčík Ján r. Timčík	zomrel v USA, súr.Mária,Michal,Štefan	0	302
+3277	Timčík Ján r. Timčík	zomrel v USA,súrodenci Mária,Michal,Štefan	0	428,449,978,988,989
+3277	Timčík Ján r. Timčík	zomrel, brat Michal	0	302
+3277	Timčík Ján r. Timčík	zomrel, súr.Anna, Jozef, Štefan,Alžbeta	0	302
+3277	Timčík Ján r. Timčík	zomrel,brat Michal	0	367,460,462,466
+3277	Timčík Ján r. Timčík	zomrel,manželka Anna r.Čurillová	0	367,462,466
+3277	Timčík Ján r. Timčík	zomrel,súrodenci Anna,Jozef,Štefan,Alžbeta	0	460
+3277	Timčík Ján, zomrel v USA,súr. Mária,Michal,Štefan zomrel v USA,súr. Mária,Michal,Štefan		0	826,896
+3277	Timčík Ján, zomrel,súr. Anna,Jozef,Štefan,Alžbeta zomrel,súr. Anna,Jozef,Štefan,Alžbeta		0	812,896
+3277	Timčík Ján, zomrel,súr. Michal zomrel,súr. Michal		0	499,593,896
+3277	Timčík Michal r. Michal	zomrel v USA,súrodenci Ján,Mária,Štefan	0	428,978,988,989
+3277	Timčík Michal r. Timčík		0	297,298,914,983,984
+3277	Timčík Michal r. Timčík	zomrel v USA ,súr.Ján,Mária,Štefan	0	302
+3277	Timčík Michal r. Timčík	zomrel v USA, súr.Ján,Mária,Štefan	0	302
+3277	Timčík Michal r. Timčík	zomrel v USA,súrodenci Ján,Mária,Štefan	0	449
+3277	Timčík Michal r. Timčík	zomrel, brat Ján	0	302,460
+3277	Timčík Michal r. Timčík	zomrel,brat Ján	0	367,460,462,466
+3277	Timčík Michal, zomrel v USA,súr. Ján,Mária,Štefan zomrel v USA,súr. Ján,Mária,Štefan		0	627,896
+3277	Timčík Michal, zomrel,súr. Ján zomrel,súr. Ján		0	499,646,896
+3277	Timčík Štefan r. Timčik	zomrel, súr.Ján, Michal, Mária	0	302
+3277	Timčík Štefan r. Timčík		0	298
+3277	Timčík Štefan r. Timčík	zomrel	0	302
+3277	Timčík Štefan r. Timčík	zomrel, súr. Pavol,Ján, Michal,Anna	0	302
+3277	Timčík Štefan r. Timčík	zomrel, súr.Ján,Michal,Mária	0	302
+3277	Timčík Štefan r. Timčík	zomrel,súrodenci Ján,Michal,Mária	0	428,449,978,988,989
+3277	Timčík Štefan r. Timčík	zomrel,súrodenci Pavol,Ján,Michal,Anna	0	460
+3277	Timčík Štefan, zomrel,1 zomrel,1		0	896
+3277	Timčík Štefan, zomrel,súr. Ján,Michal,Mária zomrel,súr. Ján,Michal,Mária		0	789,896
+3277	Timčík Štefan, zomrel,súr. Pavol,Ján,Michal,Anna zomrel,súr. Pavol,Ján,Michal,Anna		0	620,896
+3277	Timčíková Alžbeta r. Gredecká	zomrela,m. Ján	0	779,896
+3277	Timčíková Alžbeta r. Gredecká, SR	zomrela, manžel Ján	0	302,317
+3277	Timčíková Alžbeta, SR		0	297,914,983,984
+3277	Timčíková Alžbeta, SR	zomrela, súr.Jozef, Štefan	0	302
+3277	Timčíková Alžbeta, SR zomrela,súrodenci Jozef,Štefan		0	460
+3277	Timčíková Alžbeta, zomrela,súr. Jozef,Štefan zomrela,súr. Jozef,Štefan		0	831,896
+3277	Timčíková Anna r. Čurillová	zomrela,m. Ján	0	499
+3277	Timčíková Anna r. Čurillová	zomrela,manžel Ján	0	466
+3277	Timčíková Anna r. Čurillová, SR	zomrela, manžel Ján	0	462
+3277	Timčíková Anna r. Čurillová, SR zomrela, manžel Ján		0	367
+3277	Tobiášová Helena r. Galdunová, SR	zomrela	0	434
+3277	Uličná Anna r. Jašová, SR	zomrela	0	434
+3277	Uličná Apolónia, SR	zomrela,matka Anna r.Iskrová	0	434
+3277	Uličná Johana	zomrela	0	466
+3277	Uličná Johana, SR	zomrela	0	462
+3277	Uličná Johana, SR zomrela		0	367
+3277	Uličná Johana, zomrela zomrela		0	499
+3277	Uličná Margita, SR	zomrela,matka Annar.Iskrová	0	434
+3277	Uličná Mária	zomrela	0	466
+3277	Uličná Mária, SR	zomrela	0	462
+3277	Uličná Mária, SR zomrela		0	367
+3277	Uličná Mária, zomrela zomrela		0	499
+3277	Uličný Andrej r. Uličný	zomrel,manželka Barbora r. Novotná	0	434
+3277	Uličný Ján r. Uličný	zomrel	0	367,462
+3277	Uličný Ján r. Uličný	zomrela	0	466
+3277	Uličný Ján, zomrel zomrel		0	499
+3277	Uličný Jozef r. Uličný	zomrel	0	434
+3277	Uličný Ondrej	ž. Mária r.Čumitová,deti Ján,Štefan,Bašistová Anna, zom.23.05.1988	0	499,506
+3277	Uličný Pavol r. Uličný	zomrel	0	367,462,466
+3277	Uličný Pavol, zomrel zomrel		0	499
+3277	Uličný Štefan r. Uličný	zomrel	0	367,462,466
+3277	Uličný Štefan, zomrel zomrel		0	499
+3277	Ungvarský Valent r. Ungvarský	zomrel	0	434
+3277	Vaľko Štefan r. Vaľko	zomrel, manželka Mária r.Handlovičová	0	367
+3277	Vaľko Štefan r. Vaľko	zomrel,manželka Mária r.Handlovičová	0	462,466
+3277	Vaľko Štefan, zomrel,ž. Mária r.Handlovičová zomrel,ž. Mária r.Handlovičová		0	499
+3277	Vaľková Mária r. Čisárová	zomrela	0	466,499,851
+3277	Vaľková Mária r. Čisarová, SR	zomrela	0	462
+3277	Vaľková Mária r. Čisárová, SR zomrela		0	367
+3277	Vargová Mária r. Hudáková, SR	zomrela	0	432
+3277	Vrábeľ Florián, zomrel zomrel		0	506
+3277	Vrabeľ Jakub r. Vrabeľ	adresa : Vojkovce 84	0	506,896
+3277	Vrábeľ Martin r. Vrabeľ	zomrel, súrodenci Štefan,Mária,Anna,Alžbeta	0	367
+3277	Vrábeľ Martin r. Vrábeľ	zomrel, súr.Štefan, Mária, Anna, Alžbeta	0	302
+3277	Vrábeľ Martin r. Vrábeľ	zomrel,súodenci Štefan,Mária,Anna,Alžbeta	0	462
+3277	Vrábeľ Martin r. Vrábeľ	zomrel,súrodenci Štefan,Mária,Anna,Alžbeta	0	466
+3277	Vrábeľ Martin, zomrel,súr. Štefan,Mária,Anna,Alžbeta zomrel,súr. Štefan,Mária,Anna,Alžbeta		0	499,583,896
+3277	Vrábeľ Štefan r. Vrabeľ	zomrel,súrodenci Mária,Anna,Martin,Alžbeta	0	367,462
+3277	Vrábeľ Štefan r. Vrábeľ	zomrel	0	466
+3277	Vrábeľ Štefan r. Vrábeľ	zomrel,súr. Mária,Anna,Martin,Alžbeta	0	683
+3277	Vrábeľ Štefan, SR	zomrel, súr. Mária, Anna, Martin, Alžbeta	0	302
+3277	Vrábeľ Štefan, zomrel,súr. Mária,Anna,Martin,Alžbeta zomrel,súr. Mária,Anna,Martin,Alžbeta		0	499,896
+3277	Vrábľová Anna r. Michalková	zomrela	0	466,499
+3277	Vrábľová Anna r. Michalková, SR	zomrela	0	462
+3277	Vrábľová Anna r. Michalková, SR zomrela		0	367
+3277	Vrábľová Mária r. Mikulová	zomrela,súr. Andrej	0	896
+3277	Vrábľová Mária r. Mikulová, SR	zomrela, brat Andrej	0	302
+3277	Vrábľová Mária r. Timčíková	adresa : Vojkovce 54	0	896
+3278	Adamyová Anna r. Konopeusová		0	779
+3278	Adamyová Anna r. Konopeusová, Ľubica Ľubica		0	763
+3278	Barloková Margita r. Gaborčíková, Slovenská Ves Slovenská Ves		0	760
+3278	Bobek Michal		0	791
+3278	Bobeková Zuzana r. Gaborčíková		0	819
+3278	Bombara Ondrej, ž.Berta, Spišská Belá ž.Berta, Spišská Belá		0	907
+3278	Bombarová Žofia r. Gaborčíková, Slovenská Ves Slovenská Ves		0	846
+3278	Buček Štefan		0	832
+3278	Buček Štefan, Kežmarok Kežmarok		0	901
+3278	Dinda František		0	814
+3278	Dinda František, USA USA		0	720,977
+3278	Dindová Anna, m. Ján m. Ján		0	712
+3278	Dindová Lujza, Košice, Fibichova 4 Košice, Fibichova 4		0	944,977
+3278	Ferenc Ján, Hanzlik Hanzlik		0	753
+3278	Ferencová Anna r. Kočová		0	794
+3278	Ferencová Júliana r. Ferencová, m.Ondrej m.Ondrej		0	892
+3278	Gaborčík Ján		0	798
+3278	Gaborčiková Anna r. Kačmarčiková		0	682
+3278	Gaborčíková Margita r. Kačmarčíková		0	682
+3278	Gaborčíková Mária r. Dindová		0	777
+3278	Gurka Michal, ž. Katarína r.Gurková ž. Katarína r.Gurková		0	785
+3278	Gurková Anna r. Trembová		0	910
+3278	Gurková Mária r. Mušková, Vojňany Vojňany		0	810
+3278	Imrichová Margita r. Gaborčíková, Vrbov Vrbov		0	719
+3278	Jankura Gustáv, USA USA		0	684,919
+3278	Jankura Ján, Tvarožná Tvarožná		0	882
+3278	Musková Anna r. Trembová, vdova po Michalovi vdova po Michalovi		0	800
+3278	Olejčáková Anna r. Jankurová, USA USA		0	684,780
+3278	Orságová Žofia r. Jankurová, USA USA		0	897
+3278	Pempčáková Katarína r. Štefaňáková		0	803
+3278	Šolcová Anna r. Gurková		0	813
+3278	Štefaňák Ján		0	746
+3278	Štefaňák Michal, USA USA		0	816
+3278	Štefaňák Ondrej, USA USA		0	735
+3278	Štefaňáková Helena r. Gaborčíková		0	936
+3278	Štefaňáková Katarína, USA USA		0	703
+3278	Trembová Katarína r. Ciriaková		0	792
+3278	Zamkovský Michal		0	903
+3279	ANDRÁŠOVÁ Ernesta	r.Lovbáková,muž Juraj	1	591
+3279	Andrus Ján	ml	1	488
+3279	ANDRUS Ján		1	702
+3279	ANDRUS Ján	mal	1	108
+3279	ANDRUS Juraj	mal	1	108
+3279	ANDRUSOVÁ - LUKÁČOVÁ Alžbeta r. Petriganová, SR		1	702
+3279	ANDRUSOVÁ Alžbeta r. Petrová, SR		1	408
+3279	ANDRUSOVÁ Barbora		1	707
+3279	ANDRUSOVÁ Barbora	mal	1	78
+3279	ANDRUSOVÁ Mária	mal	1	108
+3279	Andrusová- Lukáčová Alžbeta r. Petriganová		1	78,108
+3279	AUSLÄNDER Ľudovít, Koromľa,072 62		1	78,108,701
+3279	BABUŠ Ján		1	78,108,486
+3279	BAŇÁS Michal	ž.Mária Guralová	1	497,498,828
+3279	BÁŇÁSOVÁ Mária	r.Guralová,muž Michal	1	498
+3279	BÁŇÁSOVÁ Mária r. Guralová, SR	muž Michal	1	497,828
+3279	BANSKÉ Stavby, Banská Bystrica		1	526
+3279	BARBARIČOVÁ Mária r. Osifová, SR		1	789
+3279	BELEKANIČ Juraj	ž.Zuzana Takáčová	1	516
+3279	BERCÍK Andrej		1	590
+3279	BERCÍK Andrej	otec Ondrej	1	557,558,602,788,872,890,894,895
+3279	BERCÍK Ján	otec Ondrej	1	557,558,602,788,872,890,894,895
+3279	BERNÁTOVÁ Nina r. Schwarz Reisman, SR		1	108
+3279	BINDIGOVÁ Anna	r.Šalapková	1	24
+3279	BINDIGOVÁ Anna r. Šalapková, SR		1	824
+3279	BINDÍK Ján		1	676
+3279	BOBANECOVÁ Alžbeta	r.Petrušková	1	54,55,58,568,600,602,872
+3279	BOBANECOVÁ Alžbeta r. Petrušková		1	57,61,588
+3279	BOBANECOVÁ Alžbeta r. Petrušková, SR		1	169
+3279	BODNÁR Andrej		1	26,28,48,134,230,232,233,234,235,532,533,879
+3279	BODNÁR Ján		1	26,28,48,134,230,232,233,234,235,532,533,744,879
+3279	BODNÁR Ján	ž.Mária	1	108
+3279	BODNÁR Ján	ž.Mária Palivodová	1	78,714
+3279	BODNÁR Juraj		1	26,28,48,78,108,134,230,232,233,234,235,408,532,533,708,879
+3279	BODNÁR Michal		1	708
+3279	BODNÁROVÁ Anna		1	48,134,232,233,234,235,532
+3279	BODNÁROVÁ Anna, SR		1	230
+3279	BODNÁROVÁ Barbora		1	78,108,715,727,745
+3279	BODNÁROVÁ Mária	mal	1	78,108,408
+3279	BODNÁROVÁ Mária	r.Matyiová,muž Ján	1	48,532
+3279	BODNÁROVÁ Mária	r.Palivodová,muž Ján	1	78,108
+3279	BODNÁROVÁ Mária r. Matyiová, SR	muž Ján	1	134,230,232,233,234,235
+3279	BODNÁROVÁ Mária r. Palivodová, SR	muž Ján	1	714
+3279	BÖLČHÁZY Michal		1	26,500,533,565,566,682,881
+3279	BOLČHÁZYOVÁ Alžbeta r. Kicová		1	682
+3279	BRANDABURA Michal	ž.Anna Novotňaková	1	735
+3279	BRANDABUROVÁ Anna	r.Novotňáková, m.Michal	1	78
+3279	BRANDABUROVÁ Anna r. Novotňaková, SR	m.Michal	1	108,489,735
+3279	BUČKOVÁ Zuzana	r.Bodnárová	1	48
+3279	BUČKOVÁ Zuzana	r.Bodnárová,muž Andrej	1	532
+3279	BUČKOVÁ Zuzana r. Bodnárová, SR		1	232,233,234
+3279	BUČKOVÁ Zuzana r. Bodnárová, SR	muž Andrej	1	134,230,235
+3279	CIMBÁK Ján		1	513
+3279	CIMBÁK Ján	USA	1	513
+3279	CIMBÁK Michal		1	24,25,497,498,513,551,589,601,602,662,824,828,867,872
+3279	CIMBÁK Michal	mal	1	513
+3279	CIMBÁK Michal	ž.Mária Hoľuková	1	296,570,602,663,872
+3279	CIMBÁKOVÁ Anna		1	589
+3279	CIMBÁKOVÁ Anna	mal	1	602,872
+3279	CIMBÁKOVÁ Anna	maloletá	1	551,662,867
+3279	CIMBÁKOVÁ Mária	mal	1	513
+3279	COPÁK Ján	ž.Júlia Halajová	1	602,872
+3279	COPAKOVÁ Júlia	r.Halajová,muž Ján	1	602,872
+3279	ČABIN Ján	ž,Mária Kudláčová	1	78,108
+3279	ČABIN Ján	ž.Mária Kudláčová	1	108,705
+3279	ČABIN Ján, 072 61, Priekopa, SR	ž,Mária Kudláčová	1	705
+3279	ČABIN Juraj		1	78,108,706
+3279	ČABINOVÁ Helena	r.Obitková	1	78,108
+3279	ČABINOVÁ Helena r. Obitková, SR		1	714,744
+3279	ČABINOVÁ Mária		1	705
+3279	ČABINOVÁ Mária	r.Kudláčová,muž Ján	1	78,108
+3279	ČABINOVÁ Mária r. Kudláčová, Priekopa, SR	muž Ján	1	705
+3279	ČIČVÁK Ján		1	790
+3279	ČIČVÁK Michal		1	790
+3279	ČIERNA Božena r. Naftulovičová, SR		1	830
+3279	ČORŇANKA Ján		1	78,108,697,762
+3279	ČORŇANSKÝ Ján		1	734
+3279	ČUHANIČ Ján		1	24,25,497,498,824,828
+3279	ČUHANIČ Juraj		1	24,25,824
+3279	ČUHANIČ Michal		1	24,25,497,498,824,828
+3279	ČUHANIČOVÁ Anna r. Horňáková, SR	m.Michal	1	25,497,498,828
+3279	ČUHANIČOVÁ Anna, SR	m.Michal	1	824
+3279	ČUHANIČOVÁ Anna, SR	r.Horňáková,m.Michal	1	24
+3279	ČUHANIČOVÁ Helena		1	24,25,497,498,824,828
+3279	DANKO Ján	mal	1	602,872
+3279	DANKO Ján, SR		1	567
+3279	DANKO Juraj		1	108
+3279	DANKO Juraj	ž.Anna Geľatková	1	602,872
+3279	DANKO Michal		1	602,872
+3279	DANKOVÁ Alžbeta	mal	1	567,602,872
+3279	DANKOVÁ Anna		1	27,606,878,886
+3279	DANKOVÁ Anna	mal	1	548,712,727,741,884
+3279	DANKOVÁ Anna	r.Geľatková,muž Juraj	1	26,533,602,872
+3279	DANKOVÁ Anna r. Geľatková	muž Juraj	1	28,879
+3279	DANKOVÁ Anna r. Geľatková, SR	muž Juraj	1	330
+3279	DANKOVÁ Mária	mal	1	567,602,872
+3279	DANKOVÁ Paulína	mal	1	567,602,872
+3279	DANKOVÁ Zuzana	mal	1	108,567,602,712,727,741,872,884
+3279	DEMČÁKOVÁ Anna	r.Sotáková,muž Michal	1	26,48,134,533,641
+3279	DEMČÁKOVÁ Anna r. Sotáková		1	498,532,533
+3279	DEMČÁKOVÁ Anna r. Sotáková	muž Michal, Amerika	1	27,28,878,879,886
+3279	DEMČÁKOVÁ Anna r. Sotáková, Amerika, SR	muž Michal	1	230,235,645,651,658,824,828
+3279	DEMČÁKOVÁ Anna r. Sotáková, SR		1	48,134
+3279	DEMJANOVIČ Ján	mal	1	78
+3279	DEMJANOVIČ Michal	mal	1	78
+3279	DEMJANOVIČ Pavol	mal	1	78
+3279	DEMJANOVIČOVÁ Alžbeta	mal	1	78
+3279	DEMJANOVIČOVÁ Mária	r.Horňáková	1	78
+3279	DEMJANOVIČOVÁ Zuzana r. Kurpitová, SR	muž Ján	1	489
+3279	DEMKOVÁ Anna	mal	1	108
+3279	DIČ Ján		1	544,782,862,888
+3279	DIČOVÁ Alžbeta	r.Cupríková	1	24,25
+3279	DIČOVÁ Alžbeta r. Cupríková, SR		1	694,824
+3279	DOBIÁŠOVÁ Mária	r.Geľatková	1	24,25,498
+3279	DOBIÁŠOVÁ Mária r. Geľatková		1	499,500,580,881
+3279	DOBIÁŠOVÁ Mária r. Geľatková, SR		1	497,824,828
+3279	DORIČOVÁ Mária	r.Pšáková,muž Michal	1	25
+3279	DUFFEK Jozef		1	24,25,824
+3279	DUFFEKOVÁ Margita	r.Miľková	1	544,862,888
+3279	DZIAKOVÁ Anna r. Levkušová		1	121
+3279	DZUBOVÁ Mária	r.Semková	1	24,25
+3279	DZUBOVÁ Mária r. Semková, SR		1	824
+3279	DŽÁMOVÁ Alžbeta	r.Haničová	1	126
+3279	DŽÁMOVÁ Alžbeta r. Haničová, SR		1	186,187,188,326
+3279	DŽUBA Ján		1	24,25,824
+3279	ECKER Jakub	ž.Róza Lebovičová	1	532
+3279	ECKEROVÁ Róza	r.Lebovičová,muž Jakub	1	532
+3279	EKKEROVÁ Záli	r.Weismanová,muž Izák	1	26,533
+3279	FEČÍKOVÁ Mária	r.Jacková	1	26,533,579,602,616,872

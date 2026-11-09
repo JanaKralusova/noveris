@@ -1,0 +1,256 @@
+195	Struhár Ján, SR	mal	1	2089
+195	Struhár Jozef		1	2089
+195	Struhár Jozef	po Márii Struhárovej r. Gelovej	1	2992
+195	Struhár Juraj	po Jánovi Struhárovi a Márii r. Gelovej	1	2992
+195	Struhár Juraj	po Jánovi Struhárovi ž. s Máriou r. Gelovou	1	1198,2969,3338,3339,3489
+195	Struhár Juraj	po Jánovi Struhárovi ž.s Máriou r. Gelovou	1	1772,2994
+195	Struhár Juraj	po Márii Struhárovej r. Gelovej	1	2996
+195	Struhár Juraj, SR		1	2089
+195	Struhár Ondrej, SR	ž.Anna r.Juráčková	1	3134
+195	Struhár Štefan	mal., po Jánovi Struhárovi ž. s Máriou r. Gelovou	1	1198,1589,1821,2969,2992,2995,3031,3338,3339,3489,3526
+195	Struhár Štefan	mal., po Jánovi Struhárovi ž.s Máriou r. Gelovou	1	1772,2991,2994,2997
+195	Struhár Štefan	po Jánovi Struhárovi ž.s Máriou r. Gelovou	1	2994
+195	Struhár Štefan	po Márii Struhárovej r. Gelovej	1	2996
+195	Struhár Štefan, SR	mal	1	2089
+195	Struhárová Katarína	mal. do r. 1931, po Jánovi Struhárovi ž.s Máriou r. Gelovou	1	2991,2994,2997
+195	Struhárová Katarína	mal., po Jánovi Struhárovi ž. s Máriou r. Gelovou	1	1198,1589,1821,2969,2992,2995,3031,3338,3339,3489,3526
+195	Struhárová Katarína	mal., po Jánovi Struhárovi ž.s Máriou r. Gelovou	1	1772
+195	Struhárová Katarína, SR	mal	1	2089
+195	Struhárová Mária	mal., po Jánovi Struhárovi ž. s Máriou r. Gelovou	1	1198,1589,1821,2969,2992,2995,3031,3338,3339,3489,3526
+195	Struhárová Mária	mal., po Jánovi Struhárovi ž.s Máriou r. Gelovou	1	1772,2991,2994,2997
+195	Struhárová Mária	rod.Jašková	1	3005
+195	Struhárová Mária, SR		1	2089
+195	Surovčík Adam	slob. po Štefanovi	1	2846
+195	Surovčík Michal	Anna Šamáková	1	3055
+195	Surovčík Michal	ž. Anna r. Šamáková	1	2124,3546
+195	Surovčík Michal	ž. Anna Šamáková	1	3052
+195	Surovčík Pavol		1	3018,3022,3025,3030
+195	Surovčík Pavol-Zicháček		1	1606
+195	Surovčíková Anna	rod.Šamáková	1	3018,3022,3025
+195	Surovčíková Emília	Zicháčková	1	1606
+195	Surovčíková Eva	rod.Jašková	1	3007
+195	Surovčíková Katarína	Zicháčková	1	1606
+195	Surovčíková Mária	rod.Kucharovičová	1	3018,3022,3025,3030
+195	Surovčíková-Zicháčková Emília	mal	1	1796
+195	Surovčíková-Zicháčková Katarína	mal	1	1796
+195	Šamák Ján		1	3018,3022,3025,3026,3047
+195	Šamák Ján, SR		1	2089
+195	Šamák Jozef		1	3085
+195	Šamák Jozef	Anna Kosecová	1	3079
+195	Šamák Martin	Anna Jašková	1	3085
+195	Šamák Martin	Anna Martáková	1	3086
+195	Šamák Pavol		1	874,875,1091,3010,3018,3022,3025,3026,3027,3047,3057,3510,3511,3517
+195	Šamák Pavol, SR	mal	1	2089
+195	Šamák Štefan		1	3018,3022,3025,3026,3085
+195	Šamák Štefan	ž. Anna Juráková	1	3019
+195	Šamáková Anna		1	874,875,3010,3026,3510,3511,3517
+195	Šamáková Anna	rod.Kačicová	1	1091,3010,3511,3517
+195	Šamáková Anna r. Kačicová		0	875
+195	Šamáková Ľudmila		1	3082,3083,3086
+195	Šamáková Ľudmila, SR	mal	1	2089
+195	Šamáková Mária		1	874,875,1091,3010,3026,3027,3047,3057,3510,3511,3517
+195	Šamáková Mária r. Tinková, SR		1	2089
+195	Šamáková Mária, SR	mal	1	2089
+195	Šenkárčin Adam	ž. Eva Juráčková	1	2275
+195	Šenkárčinová Eva	mal	1	2275
+195	Šenkárčinová Mária	rod.Juríková Bošáca	1	2040
+195	Ševčík Adam	Anna Machalová	1	2952
+195	Ševčík Adam, SR		1	2089
+195	Ševčík Ján		1	2027,2029,2092,2952,2958,3375,3503,3504
+195	Ševčík Ján	slob	1	2945,2946
+195	Ševčík Ján, SR		1	2089
+195	Ševčík Jozef		1	2952
+195	Ševčík Jozef	mal. do r. 1954, po Emílii Ševčíkovej, slob	1	2947
+195	Ševčík Karol		1	2027,2029,2092,2958,3375,3503,3504
+195	Ševčík Karol, SR	slob	1	2089
+195	Ševčík Pavol		1	2027,2029,2092,2952,2958,3375,3503,3504
+195	Ševčík Pavol	Mária Juráková	1	2952
+195	Ševčík Pavol, SR		1	2089
+195	Ševčíková Agnesa		1	2029,2953
+195	Ševčíková Agneša r.Ševčíková	Kanada, P.O.S. BOX 9806, Welington - R.D.S., London-Ontário NGE -IVO	1	2958,3504
+195	Ševčíková Agneša, SR		1	2089
+195	Ševčíková Emília		1	2027,2029,2092,2958,3375,3503,3504
+195	Ševčíková Emília, SR		1	2089
+195	Šicková Anna	rod.Hulineková	1	2820
+195	Šimková Paulína	rod.Dubničková	1	122
+195	Šimková Paulína r. Dubničková		1	2449
+195	Šimnovič Juraj		1	2648
+195	Šimnovič Štefan		1	1946
+195	Šimnovičová Anna	rod.Kaššovicová	1	2648
+195	Šimnovičová Zuzana		1	2540,2648,2651
+195	Šimovcová Anna	rod.Poláčková	1	1552,2549,3131
+195	Škorecová Anna	rod.Pecúchová	1	2267
+195	Šmihlová Paulína r. Janegová		1	2267
+195	Štefanová Mária r. Kačicová, SR		0	590
+195	Štefko Ján	Anna Dolníková	1	2337
+195	Štefko Ján	ž. Anna Dolníková	1	2494
+195	Štefková Alžbeta	rod.Bahníková	1	2868
+195	Štefková Anna	rod.Bahníková	1	2424,2429
+195	Štefková Anna	rod.Mičkovicová	1	1127,1148,1673,1674,1675,1676,1677,1678,1679,1681,1682,1683,1684,1685,1686,1687,1688,2140,2691,2845,3259
+195	Štefková Anna r. Mičkovicová		0	2900,3409
+195	Štrba Ján	ž. Anna Kochanová	1	2318
+195	Štrba Ján	ž. Anna r. Kochanová	1	2879
+195	Štrba Ján	ž. Katarína Juráčková	1	2554
+195	Štrba Juraj		1	2340
+195	Štrbová Alžbeta	rod.Slimáková	1	1809,2013
+195	Štrbová Anna	rod.Kočická	1	2632
+195	Štrbová Anna	rod.Kochanová	1	2879
+195	Štrbová Anna r. Kochanová		1	2318
+195	Štrbová Emília	rod.Kusendová	1	2572,2882
+195	Štrbová Katarína	rod.Juríková Bošáca 241	1	2191,2550,2716
+195	Štrbová Katarína	rod.Šenkarčinová	1	2275
+195	Štrbová Katarína r. Juríková	Bošáca 241	1	2252,2468
+195	Šupáková Mária r. Drobná	Rarského 40, Bratislava - Petržalka	1	2262
+195	Šupáková Mária r. Drobná	Rarského 40, Bratislava-Petržalka	1	1579
+195	Tarailová Mária	rod.Repčíková	1	1699
+195	Tarailová Mária r. Repčíková	Kanada	1	1800
+195	Taus Frederik	Dr	1	2760,2971
+195	Taus Henrik	Dr	1	2760,2971
+195	Taus Štefan	ml. do r. 1926, po Alexandrovi Tausovi	1	2971
+195	Tausová Reneé	mal., po Alexandrovi Tausovi	1	2971
+195	Tinka Ján		1	1216,1217
+195	Tinka Ján	Mária r. Katrincová	0	3096
+195	Tinka Ján	z Ivanoviec, po Jánovi Tinkovi ž.s Katarínou r. Kucharovicovou	0	2809
+195	Tinka Ján	ž. Katarína Kucharovicová	1	2990
+195	Tinka Ján	ž. Mária r. Zámečníková	1	2980
+195	Tinka Ján, SR	slob	1	2089
+195	Tinka Jozef	Mária Mikšíková	1	2571
+195	Tinka Jozef	ž. Mária Mikšíková	1	2556
+195	Tinka Jozef	ž. Mária r. Mikšíková	1	1213
+195	Tinka Jozef	ž.Elena Majerovičová, po Márii Tinkovej r. Minarčicovej	0	2809
+195	Tinka Jozef, SR	ž.Elena r.Majerovičová	1	2089
+195	Tinka Mikuláš	Bošáca 410	1	2785
+195	Tinka Pavel, Francúzsko		1	2089
+195	Tinka Pavol		1	1217,2808
+195	Tinka Pavol	po Márii Tinkovej r. Minarčicovej	0	2809
+195	Tinková Alžbeta	rod.Kaššovicová	1	2007,2594,2785
+195	Tinková Anna	rod.Kaššovicová	1	2381,2432,2899
+195	Tinková Anna r. Kuchtová	Ivanovce	1	2975
+195	Tinková Katarína	rod.Kucharovicová	1	1216,2990
+195	Tinková Mária r.Katrincová		1	3096
+195	Tinková Paulína	rod.Kaššovicová	1	2595
+195	Tinková Paulína r. Kaššovicová, SR		0	2007
+195	Trčka Ján		1	2084
+195	Trčka Ján	po Jozefovi Trčkovi ž. s Máriou r. Bulíkovou	0	1710
+195	Trčka Ján	po Štefanovi Trčkovi ž. s Annou r. Mičkovicovou	1	1707,1708,1709,1710,1711,1712
+195	Trčka Ján	ž. Mária r. Katrincová	1	1711
+195	Trčka Jozef	po Jozefovi Trčkovi ž. s Máriou r. Bulíkovou	0	1710
+195	Trčka Jozef	po Štefanovi Trčkovi ž. s Annou r. Mičkovicovou	1	1707,1708,1709,1710,1711,1712
+195	Trčka Karol	v Chicagu, USA, po Jozefovi Trčkovi ž. s Máriou r. Bulíkovou	0	1710
+195	Trčka Štefan	mal. do r. 1929, po Štefanovi Trčkovi ž. s Annou r. Mičkovicovou	0	1710
+195	Trčka Štefan	po Štefanovi Trčkovi ž. s Annou r. Mičkovicovou	1	1707,1708,1709,1711,1712
+195	Trčková Adela	po Jozefovi Trčkovi ž. s Máriou r. Bulíkovou	0	1710
+195	Trčková Anna	rod.Minárčicová	1	1827,3488
+195	Trčková Anna r. Mičkovicová	m. Štefan	1	1708,1709
+195	Trčková Anna r. Minarčicová, SR		1	2089
+195	Trčková Emília	po Jozefovi Trčkovi ž. s Máriou r. Bulíkovou	0	1710
+195	Trčková Mária	mal. do r. 1937, po Štefanovi Trčkovi ž. s Annou r. Mičkovicovou	0	1710
+195	Trčková Mária	po Štefanovi Trčkovi ž. s Annou r. Mičkovicovou	1	1707,1708,1709,1711,1712
+195	Trčková Mária	rod.Vrábliková	1	2962,2965,3035
+195	Trčková Mária r. Kollárová	Bošáca	1	2509
+195	Trčková Mária r. Vrábliková, SR		1	2089
+195	Trník Ján	Pavlína r. Mažárová	0	999
+195	Trník Ján	ž.Pavlína r.Mažárová	0	1209
+195	Tučková Katarína		1	3007
+195	Tulis Ján		1	3007
+195	Tulis Juraj		1	1619,1838
+195	Tulisová Alžbeta		1	1619,1838
+195	Tulisová Anna		1	1619,1838
+195	Tulisová Anna	rod.Kozáčková	1	2318
+195	Tulisová Anna r. Kozáčková		1	2000
+195	Tulisová Katarína		1	1619,1838,2000
+195	Tulisová Katarína	rod.Kozáčková	1	2318
+195	Tulisová Mária		1	3007
+195	Tupý Ján		1	2869
+195	Turánková Emília	rod.Ondrášková	1	2830
+195	Uhríková Anna r. Kaššovicová	Jánova ž	1	2840
+195	Uhríková Anna r. Kaššovicová	m. Ján	1	2968
+195	Uhríková Karolína	rod.Tomšíková	1	2690
+195	Uko Pavel, SR	ž.Mária r.Vrábelová	0	283
+195	Uko Štefan, SR	ž.Katarína r.Kaššovicová	0	283
+195	Uko Štefan, Veľké Rovné, SR	ž.Helena r.Holáková	0	283
+195	Uková Mária r. Kraváriková	vdova po Jánovi Tinkovi	1	2869
+195	Unčík Štefan	ž. Mária Janušíková, Bratislava Petržalka	1	1529
+195	Unčíková Alžbeta	rod.Kusendová	1	1434,2644,3371
+195	Unčíková Alžbeta r. Kusendová		1	3032
+195	Unčíková Anna	rod.Zamcová	1	1529
+195	Unčíková Eva	rod.Kusendová	1	1529
+195	Unčíková Mária		1	1529
+195	Urbánek Pavol	ž. Mária Dúbravová	1	3091
+195	Urbánková Mária	rod.Dúbravová	1	3091
+195	Václavová Anna	rod.Gavalcová	1	2866
+195	Václavová Mária	rod.Pastorková	1	2291
+195	Vaculíková Anna	rod.Šamáková	1	3025,3026,3047
+195	Vaculíková Anna r. Šamáková, SR		1	2089
+195	Valachovičová Katarína	rod.Tulisová	1	3007
+195	Vargová Katarína	rod.Jašková	1	3002,3005,3327
+195	Veghová Mária	rod.Slimáková	1	1419,1692,2261,2323,2514
+195	Vogelová Regina	rod.Bustinová	1	2190,2684,3277
+195	Vojtek Adam	ž. Mária Kraváriková	1	2582
+195	VOJTEK JAN, SR	po Anne Vojtekovej r.Lahvičkovej	0	446,1523,1524,1525,1526,3205
+195	VOJTEK JOZEF, SR	po Anne Vojtekovej r.Lahvičkovej	0	446,1523,1524,1525,1526,3205
+195	Vojteková Mária	rod.Kraváriková	1	2289,2362,2582
+195	Vojteková Mária	rod.Šupeláková	1	2893
+195	Vrábliková Anna		1	1576,3034
+195	Vrábliková Anna	mal	1	2973
+195	Vrábliková Anna	rod.Jašková	1	2938
+195	Vrábliková Mária		1	1576,2966,3034
+195	Vrábliková Mária	mal	1	2973
+195	Vrábliková Mária	rod.Zamcová	1	2966
+195	Vrábliková Žofia, SR	slob	1	2089
+195	Vrzalovská Katarína	rod.Tulisová	1	1619,1838
+195	Wagner Šalamún	Františka Schnee	1	2857
+195	Wagnerová Františka r. Schnee	m. Šalamún	1	2857
+195	Záhoráková Mária	rod.Katrincová	1	2373
+195	Záhoráková Mária r.Katrincová		1	3093
+195	Záhorová Mária	rod.Katrincová	1	2080
+195	Záhumenská Eva	rod.Figurová	1	2574
+195	Záhumenská Mária		1	2608
+195	Zamcová Anna	rod.Kadlecová	1	1688,1815,2545,2630,2650
+195	Zamcová Anna	rod.Skovajsová	1	2704
+195	Zamec Ján	ž.Anna Skovajsová	1	1815
+195	Zámečník Adam		1	1401
+195	Zámečník Adam	Eva Martáková	1	1838
+195	Zámečník Adam	ž. Alžbeta Fraňová	1	2972
+195	Zámečník Ján		1	1522,2581
+195	Zámečník Ján, SR		0	1984
+195	Zámečník Juraj		1	1401
+195	Zámečník Juraj	Anna Zámečníková	0	1401
+195	Zámečník Juraj	ž. Anna Zámečníková	1	2030,2031
+195	Zámečník Juraj, SR	ž.Anna r.Zámečníková	1	2089
+195	Zámečník Martin		1	1619,1837,1838
+195	Zámečník Martin	Anna Zámečníková	1	2806
+195	Zámečník Martin	Mária Zámečníková	1	1619,1838
+195	Zámečník Martin	ž. Mária r. Zámečníková	1	2980
+195	Zámečník Štefan		1	1401,1619,1837,1838
+195	Zámečník Štefan	ž. Katarína Surovčíková	1	2555
+195	Zámečníková Anna r. Zámečníková, SR	Jurajova ž	1	2089
+195	Zámečníková Katarína	rod.Drobná	1	1579,2262
+195	Zámečníková Mária		1	1401,1619,1837,1838
+195	Zámečníková Mária	mal. do r. 1927, po Eve r. Zámečníkovej r. Martákovej	1	2980
+195	Zámečníková Mária	rod.Zámečníková	1	1619,1837,1838
+195	Zámečníková Mária	rod.Želibabková	1	3102
+195	Zámečníková Mária r. Zámečníková	m. Martin	1	2980
+195	Zbudilová Anna	rod.Mažárová, Zem.Podhradie 407	1	2572
+195	Zbudilová Anna r. Mažárová	m. Ján, Bošáca - Zem.Podhradie 407	1	2860
+195	Zbudilová Katarína	rod.Janušíková	1	2258
+195	Zelková Katarína	rod.Kačicová	1	2482
+195	Zelková Mária	rod.Podhradská	1	1556,2282
+195	Zicháček Ján		1	1607,1668,1810,1811,3427,3507
+195	Zicháček Ján, SR		0	885
+195	ZICHÁČEK STEFAN		0	1811
+195	Zicháček Štefan, SR		1	1607,1810,3212,3427,3507
+195	Zicháčková Katarína		1	2925
+195	Žáková Mária	rod.Kluková	1	1382,1383,1384,1385
+195	Žákovic Ján		1	1342,1343,1344,1464
+195	Žákovic Jozef		1	1545
+195	Žákovic Štefan		1	1342,1343,1344
+195	Žákovic Štefan	Mária Kačicová	1	1545,1546,1673,1674,1685
+195	Žákovic Štefan	Mária r.Kačicová	1	1683
+195	Žákovic Štefan	ž. Mária Kačicová	1	2447,2693,2760
+195	Žákovic Štefan	ž.Mária r.Kačicová	0	1548
+195	Žákovicová Anna		1	1343
+195	Žákovicová Mária	rod.Kačicová	1	1673,1674,1685,2693
+195	Žákovicová Mária r. Kačicová	m. Štefan	1	2760
+195	Žákovicová Mária r.Kačicová		1	1683
+195	Žákovicová Paulína		1	1342,1343,1344

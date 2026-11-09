@@ -1,0 +1,256 @@
+901	Hrabovský Ondrej	HRABOVKA	1	546,574,576,920,1029
+901	Hrbáčiková Matilda	rod.Panáková Pod sokolice č.27 Trenčín	1	505,651,784,787,925,945,1195,1253,1260,1265,1266,1335,1377
+901	Hrobárová Jozefína		1	1238
+901	Hulínová Helena	HRABOVKA	1	918
+901	Chmelina Adam	HRABOVKA	1	839
+901	Chmelina Ondrej	HRABOVKA	1	467
+901	Chmelina Pavol	Zuzana Koláriková	1	616
+901	Chmelina Štefan	HRABOVKA	1	467
+901	Chmelinová Anna	rod.Holúbeková	1	641,712
+901	Chmelinová Barbora	HRABOVKA	1	1235
+901	Chmelinová Helena	HRABOVKA	1	598,661,877,915,916,1069,1326
+901	Chmelinová Helena	Malol	1	598,1326
+901	Janačová Agnesa	rod.Tršková	1	739
+901	Jančo Ján	HRABOVKA	1	580,709,715,1393
+901	Jančo Jozef	HRABOVKA	1	766,1212
+901	Jančo Ondrej	HRABOVKA	1	722
+901	Janeková Apolónia	rod.Holubová	1	882
+901	Jankovec Ján	HRABOVKA	1	540,901,1253,1254,1266
+901	Jankovec Stanislav	Hollého č.882/20 Trenčín - Zlatovce	1	542
+901	Jankovecová Katarína	rod.Gabrhelová HRABOVKA	1	541,1260
+901	Jankovecová Mária	rod.Vazová	1	926
+901	Juriková Agnesa	rod.Bizoňová	1	884
+901	Káčer Marek	Alžbeta Hornová	1	1266
+901	Káčerová Alžbeta	rod.Hornová	1	1266
+901	Kadlecová Anna	Lajcho	1	709,715,1393
+901	Kellermann Adolf	Berta	1	769,1253,1254,1259,1260,1265,1266,1376,1377
+901	Kellermann Samuel		1	1253,1254,1259,1260,1265,1266,1376,1377
+901	Kellermannová Berta	Adolf	1	769
+901	Klačman Anton		1	906,1036,1259,1260,1265,1266,1376,1377
+901	Klačman František	HRABOVKA	1	486,906,978,1036,1068,1258,1345
+901	Klačman Pavol	HRABOVKA	1	486
+901	Kohnová Františka	rod.Kellermannová	1	1253,1254,1259,1260,1265,1266,1376,1377
+901	Korecová Katarína	rod.Meravá, Muraríková	1	706
+901	Kramárová Mária	rod.Judiková	1	508,796,828,933,1024,1082,1083
+901	Kveteková Anna	rod.Gazdíková	1	870,871
+901	Kveteková Emília	rod.Holubová, Rapšík	1	857,1259,1376
+901	Kveteková Emília	rod.Rapšíková	1	856,1259,1376
+901	Lajcho František	HRABOVKA	1	709,715,1393
+901	Lajcho Gustáv	HRABOVKA	1	709,715,1393
+901	Lajcho Karol	HRABOVKA	1	709,715,1393
+901	Lajcho Ondrej	HRABOVKA	1	709,715,1393
+901	Laszlo Alexander		1	721
+901	Laszlo Samuel		1	721
+901	Lehocký Jozef		1	549,690,691
+901	Lehocký Ondrej		1	690
+901	Lencz Ernest		1	1254,1260
+901	Löwenbeinová Saly	rod.Rosenbergová Zamarovce	1	721
+901	Lukšová Agnesa	HRABOVKA	1	813,960
+901	Lukšová Anna	HRABOVKA	1	813,960
+901	Lukšová Mária	HRABOVKA	1	813,960
+901	Macinová Agnesa	rod.Zubová	1	594,595
+901	Macura Augustín		1	1241
+901	Macura Jozef	HRABOVKA	1	531,609,658,821,833,992,1009,1048,1057
+901	Macura Michal	Mária Jankovecová	1	658
+901	Macura Ondrej	HRABOVKA	1	482,531,609,632,658,821,1009,1251,1300,1306,1313
+901	Macura Ondrej, 913 32, Harbovka, SR		1	747,1410
+901	Macura Štefan	HRABOVKA	1	532,678,878,951,982,1046
+901	Macurová Anna	HRABOVKA	1	532,678,681,1046
+901	Macurová Emília	HRABOVKA	1	878,898,1094,1099,1261
+901	Majerský Štefan	Anna Mišurová	1	901
+901	Malich Ondrej	Anna Zajacová	1	711
+901	Malichová Štefánia	rod.Plšková	1	830
+901	Meravý Ján	Murárik	1	706
+901	Meravý Jozef	Murárik	1	706
+901	Meravý Juraj	Murárik	1	706
+901	Meravý Michal	Murárik	1	706
+901	Meravý Ondrej	Murárik	1	706
+901	Micko Pavol		1	724
+901	Micunek Jozef		1	1254,1266
+901	Mičatková Jozefína	rod.Repová	1	700,717
+901	Mičko Jozef	Anna Lajchová	1	707,708
+901	Mičková Anna	rod.Lajchová	1	708
+901	Mičková Mária		1	581,724,1325
+901	Miklášová Mária	rod.Vašková	1	897
+901	Miklášová Michal	Mária Vašková	1	897
+901	Mináriková Mária	rod.Hláveková	1	694
+901	Mráziková Katarína	rod.Barteková	1	578
+901	Oliš		1	1206
+901	Oliš Jozef	Hrabovka	1	878,921,1014,1058,1099,1205,1253,1432,1446,1447
+901	Omachel Emanuel	HRABOVKA	1	742,743,830
+901	Ondrišák Štefan	Kata Maradíková	1	862
+901	Ondruška Alojz		0	529
+901	Ondruška Juraj	HRABOVKA	1	684,845,1001,1056,1414
+901	Ondruška Sro		1	1295,1304,1305,1312,1315
+901	Ondrušková Ľudmila	HRABOVKA	1	490,518,519,529,744,845,1001,1002,1013,1055,1366,1412,1413,1414,1437,1438,1439,1440
+901	Ondrušková Ľudmila	Malol	1	519,744,1056,1438,1439
+901	Orechovský Ondrej	HRABOVKA	1	1260
+901	Orechovský Ondrej	Mária Uhlíková	1	941
+901	Orechovský Štefan	rod.Mladší	1	521,1172
+901	Oriešek Ján	Katarína Hamajová	1	873
+901	Oriešek Ondrej	Anna Hanzelová	1	872
+901	Pahola Jozef	HRABOVKA	1	625,626
+901	Panák Rudolf	D Súča č.95	1	505,651,784,787,925,945,1195,1253,1260,1265,1266,1335,1377
+901	Peťovská Anastázia	HRABOVKA	1	810
+901	Peťovský Ľudovít	HRABOVKA	1	1253,1254,1266
+901	Piknová Mária	rod.Haneková	1	867,871
+901	Pleva Ján	HRABOVKA	1	525,535,823,854,899,939,950,975,976,980,1075,1253,1254,1260,1266
+901	Pleva Štefan	HRABOVKA	1	525,823,854,939,975,980,1075,1254,1259,1260,1265,1266,1376,1377
+901	Pleva Štefan	Katarína Lukáčová	1	1253,1254,1266
+901	Pleva Štefan	Katarína Lukšová	1	1260
+901	Plevová Anna		1	525,535,823,939,950,975,980,1075
+901	Plevová Anna	Malol	1	535
+901	Plevová Anna	rod.Haneková	1	867,871
+901	Plško Ján		1	830
+901	Plšková Anna	rod.Plšková	1	830
+901	Plšková Helena		1	830
+901	Prekopová Eva	rod.Chmelinová	1	840
+901	Rapšík Ján		1	882,883
+901	Reinerová Edeltruda	rod.Kulmerová, Dreherová	1	1109,1110
+901	Repa František		1	700,717
+901	Repa Ján		1	466
+901	Repa Ján	Mária Jančová	1	727
+901	Repa Jozef	HRABOVKA	1	861
+901	Repa Štefan		1	512,879
+901	Repová Anna		1	466,700,717,727
+901	Repová Katarína	Gabriel Janičík	1	914
+901	Repová Mária	HRABOVKA	1	700,717
+901	Rožníková Anna	HRABOVKA	1	908
+901	Rybárová Mária	rod.Repová	1	700,717
+901	Rychtáriková Gizela	rod.Dužeková	1	594,595
+901	Samák Ján	HRABOVKA	1	522,523,544,551
+901	Samáková Anna	rod.Kobzíková, Mikušová	1	522,523
+901	Samáková Anna	rod.Straková	1	522,551
+901	Samáková Katarína		1	522,523,551
+901	Samáková Štefánia	rod.Kolečková	1	522,523,551
+901	Sedláčková Mária	rod.Gazdiková	1	863,871
+901	Singerová Gizela	rod.Sternová	1	1253,1254,1259,1260,1265,1266,1376,1377
+901	Sirotná Anna	rod.Gabrhelová	1	541
+901	Skrateková Agnesa	rod.Žigová	1	840,885
+901	Slemenská Katarína	rod.Gabrhelová	1	635
+901	Slemenský Michal	Katarína Gabrhelová	1	635
+901	Sliva Valient		1	850
+901	Slobodník Cyril		1	1266
+901	Slobodník Ľudovít		1	807
+901	Stern Ľudovít		1	1253,1254,1259,1260,1265,1266,1376,1377
+901	Sternová Gizela	rod.Langová	1	965,1253,1254,1259,1260,1265,1266,1376,1377
+901	Sternová Hermína		1	1253,1254,1259,1260,1265,1266,1376,1377
+901	Stopková Božena	HRABOVKA	1	633,825,1279
+901	Stopková Margita	HRABOVKA	1	633,825,1279
+901	Straka Michal	Fojtin	1	566,613
+901	Šedivý Ondrej	Mária Rapšíková	1	1260
+901	Špaček Michal		1	714
+901	Štefkovič Jozef	HRABOVKA	1	464,1233,1283,1310
+901	Štefkovič Juraj	Hrabovka č.18	1	671
+901	Štefkovič Michal	Anna Holubová	1	971
+901	Štefkovič Michal	HRABOVKA	1	929
+901	Štefkovičová Anna	rod.Holubová, Holúbek	1	971
+901	Štefkovičová Mária	Machara	1	1254
+901	Štefkovičová Mária	Zubo	1	672
+901	Šumichrast Jozef	rod.Čižmárik	1	967
+901	Šumichrastová Anna	rod.Šmihalová, vdova po Pavlovi Skalská Nová Ves	1	887,1265,1266,1377
+901	Šumichrastová Katarína	Malol	1	1106,1107
+901	Šumichrastová Katarína	rod.Čižmáriková	1	491,626,755,756,915,1064,1082,1253,1254,1259,1260,1265,1266,1290,1376,1377
+901	Šumichrastová Mária	HRABOVKA	1	1247
+901	Šupáková Helena	rod.Repová	1	700,717
+901	Tadlaneková Katarína	rod.Chocholačeková	1	631
+901	Trška Jozef	HRABOVKA	1	693,709,715,1213,1337,1393
+901	Tršková Margita	HRABOVKA	1	693,709,715,1213,1337,1393
+901	Tršková Terézia	HRABOVKA	1	693,709,715,1213,1337,1393
+901	Trúnek Ján	Mária Gazdíková	1	864,871
+901	Vavrincová Mária	rod.Ondrášková	1	692
+901	Vavro Ondrej		1	508,543,844,853
+901	Vavro Ondrej	Anna Gabrielová	1	1253
+901	Vavrová Anna	Malol	1	582
+901	Vinklárik Ján		1	775
+901	Vinklárik Jozef		1	982
+901	Vinkláriková Mária	rod.Gabrielová	1	563
+901	Vranková Anna	rod.Jančová	1	743
+901	Záhorák Ján	Zuzana Gazdíková	1	866
+901	Záhoráková Zuzana	rod.Gazdiková	1	866
+901	Žigo Jozef	HRABOVKA	1	840,885,892,893,943
+901	Žigo Juraj	HRABOVKA	1	892,893
+901	Žigo Ondrej	HRABOVKA	1	840,885
+901	Žigová Anna	HRABOVKA	1	840,892,893
+901	Žilkay Anton	mal	1	734,1433
+901	Žilkay Pavol		1	734,737,1169,1170,1433
+901	Žilkay Peter	mal	1	581,724,1325
+901	Žilkayová Zuzana	mal	1	581,724,1325
+901	Žucha Ján		1	882,883
+901	Žucha Ondrej		1	882,883
+901	Žuchová Anna		1	882,883
+902	Antal Juraj		0	402
+902	Antal Ondrej		0	402
+902	Antalová Mária r. Gréčová		0	326
+902	Antalová Zuzana r. Gréčová		0	354
+902	Antalová Zuzana r. Gréčová	naposledy v Kalinove	0	277
+902	Bagoly Ľudevít	manž. Gizela Bokorová	0	502,503
+902	Bagoly Ľudevít	manželka Gizela Bokorová	0	551
+902	Bajerová Pavlína r. Rybárová		0	394
+902	Beľo Ján r. Beľo	manž.nebohá Magdaléna rod.Segečová	0	590
+902	Beľová Magdaléna r. Segečová	zomr.17.7.1997,naposledy Hrabovo 679	0	590
+902	Beňová Mária r. Rybárová		0	394
+902	Bešina Ján r. Bašina	syn Štefan,niekedy Hrabovo 94	0	587,600
+902	Bešina Štefan r. Bešina	syn Jána,niekedy Hrabovo 94	0	587,600
+902	Bodnár Ján r. Bodnár	manž.Mária rod.Šarkáňová	0	589
+902	Bodnárová Mária r. Šarkanová	manž.Ján	0	589
+902	Bračoková Zuzana r. Lehocká		0	355
+902	Bystrianska Mária r. Golianová	manž.Gabriel	0	596
+902	Bystrianska Mária r. Goljanová		0	238
+902	Bystriansky Gabriel r. Bystriansky		0	238
+902	Bystriansky Gabriel r. Bystriansky	manž.Mária rod.Golianová	0	596
+902	Cabanová Zuzana r. Lalíková	zomr.22.1.2010,naposledy Železničná 173/11,Lučenec	0	488,582
+902	Cerovská Emília r. Moťovská	nebohá, manž.Ondrej	0	587,592
+902	Cibáková Mária r. Bračoková		0	240
+902	Csernáková Angela r. Bagolyová		0	404,502,503
+902	Csernáková Angela r. Bagolyová	vdova	0	550,551
+902	Demeová Alžbeta r. Megyeriová		0	404
+902	Demeová Alžbeta r. Megyeriová	obyvateľka Sashalom, Maďarsko	0	502
+902	Demeová Alžbeta r. Megyeriová	vdova	0	551
+902	Demeová Alžbeta r. Megyeriová	vdova, obyvateľka Sashalom Maďarsko	0	503,550
+902	Dlabajová Elena r. Hroncová		0	381
+902	Dolajova Elena r. Svoreňová		0	284
+902	Dolajová Elena r. Svoreňová	manž.Ondrej	0	277
+902	Dováľ Martin, Ing.		0	365
+902	Dováľ Milan		0	365,368
+902	Dováľ Ondrej		0	365,366,368,369
+902	Dováľ Ondrej	manž.Mária rod.Muchová	0	277
+902	Dováľ Pavol	syn Martina	0	443
+902	Dováľová Mária r. Barkáčová	manž.Michal	0	587,599
+902	Duriskova Elena r. Durove		0	285
+902	Eliašová Mária r. Kudláková		0	277,286,339,341,442
+902	Fakrasová Anna	dcéra Ludovíta	0	551
+902	Farkas Gejza		0	404
+902	Farkas Gejza	manželka Mária r. Kelemenová	0	551
+902	Farkas Mikuláš		0	404
+902	Farkas Mikuláš	manž. Mária Imre	0	502,503
+902	Farkas Vojtech		0	502,550,551
+902	Farkas Vojtech	slobodný	0	404,503
+902	Farkasová Anna	dcéra Ludovíta	0	404,502,503,550
+902	Farkasová Viktoria r. Képesová		0	404,502
+902	Farkasová Viktoria r. Képesová	vdova	0	503,551
+902	Farkaš Gejza	manž. Mária kelemenová	0	502,503
+902	Farkaš Gejza	manželka Mária Kelemenová	0	550
+902	Farkaš Mikuláš	manželka Mária r. Imreová	0	550,551
+902	Farkašová Mária r. Imreová		0	404,502,503,550,551
+902	Farkašová Vikória r. Képesová	vdova	0	550
+902	Feranec Martin	syn Pavla	0	462
+902	Feranec Martin r. Feranec	syn Pavla	0	613
+902	Feranecová Mária	dcéra Pavla	0	462,613
+902	Feranecová Mária r. Matejová		0	445
+902	Ferencz Samuel	manž. Zuzana Géczy, obyvateľ Boľkoviec	0	404,503
+902	Ferencz Samuel	manželka Zuzana Géczy, obyvateľ Boľkoviec	0	502
+902	Ferencz Samuel	manželka Zuzana Géczyová, obyvateľ Boľkoviec	0	550
+902	Ferencz Samuel	manželka Zuzana r. Géczyová, bytom Boľkovce	0	551
+902	Ferenczová Zuzana r. Géczyová	bytom Boľkovce	0	551
+902	Ferenczová Zuzana r. Géczyová	obyvateľka Boľkoviec	0	404,502,503,550
+902	Filo Ján		0	373
+902	Folk Peter r. Folk	žena Ilona Mičudová	0	273
+902	Gáborova Elena r. Antalíkova		0	403
+902	Gálik Pavel r. Gálik		0	226
+902	Gallusová Mária r. Gáborová		0	353
+902	Gallusová Pavlína		0	288,352,353
+902	Gasper Július		0	393
+902	Gréč Ondrej r. Gréč		0	238
+902	Gréč Ondrej r. Gréč	manž.Alžbeta rod.Segečová,niekedy Hrabovo 61	0	591
+902	Gréčová Alžbeta r. Segečová	manž.Ondrej,niekedy Hrabovo 61	0	591

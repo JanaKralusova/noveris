@@ -1,0 +1,256 @@
+132	MOLNÁROVÁ Julianna	r.Molnárová	1	974
+132	Molnárová Julianna r. Molnárová		0	1674,1805,2127,2377
+132	Molnárová Julianna r. Molnárová, m.Jozef m.Jozef		0	2208
+132	Molnárová Magdaléna r. Tóthová		0	1674,1699
+132	Molnárová Magdaléna r. Tóthová, m.Ambrož m.Ambrož		0	2188
+132	Molnárová Margita		1	1530,1535
+132	MOLNÁROVÁ Margita	r.Tóthová	1	1477
+132	Molnárová Margita r. Angyalová		0	1674,1757
+132	Molnárová Margita r. Lakatošová		0	1674,1993
+132	Molnárová Margita r. Molnárová, m.Jozef m.Jozef		0	2272
+132	Molnárová Margita r. Tóthová		0	1674,2092
+132	Molnárová Margita r. Vargová, m.Mikuláš m.Mikuláš		0	1770
+132	Molnárová Margita, maloletá maloletá		0	2022
+132	Molnárová Mária		1	1479,1480
+132	Molnárová Mária r. Kaszová		0	1674,2335
+132	Molnárová Mária r. Tóthová, m.Eugen m.Eugen		0	1773
+132	Molnárová Mária r. Vargová		0	2018
+132	Molnárová Mária, maloletá maloletá		0	1674,2013
+132	Molnárová Matilda		1	1479,1480,1535
+132	MOLNÁROVÁ Matilda	r.Molnárová	1	1535
+132	Molnárová Matilda r. Molnárová		0	1674,2250
+132	Molnárová Matilda, maloletá maloletá		0	2338
+132	Molnárová Rozália r. Kokovaiová		0	1793
+132	Molnárová Rozália r. Teleková		0	1674
+132	Molnárová Valéria		0	1530,1674
+132	Molnárová Vilma		0	1674,2186
+132	Molnárová Vilma r. Tóthová		0	1962
+132	Molnárová Zuzana r. Kovácsová		0	1674
+132	Molnárová Zuzanna r. Kaszová, m.Peter m.Peter		0	1703
+132	Nagy Anton		0	1952
+132	Nagy Boldizsár		0	2309
+132	Nagy Gejza		0	2052
+132	Nagy Ján		0	2020
+132	Nagy Jozef		0	1775
+132	Nagy Ladislav		0	2366
+132	Nagy Michal		0	2023
+132	Nagy Štefan		0	1466
+132	Nagy Vojtech		0	801,1673,1674,1828
+132	Nagyová Antónia r. Pokorná		0	2273
+132	Nagyová Barbora r. Teleková		0	1674
+132	Nagyová Etela r. Szíjártová		0	2001
+132	Nagyová Julianna r. Molnárová		0	1807
+132	Nagyová Julianna r. Nagyová, m.Ľudovít m.Ľudovít		0	2336
+132	Nagyová Margita		0	1794
+132	Nagyová Mária		0	801,1673,1674,1761
+132	Nagyová Mária r. Csabová, m.Árpád m.Árpád		0	1685,2070
+132	Nagyová Terézia r. Szabová		0	1674
+132	Nosko Ľudovit		0	1674,1980
+132	Nosko Michal		0	2168
+132	Oberhuberová Alžbeta r. Bollavá		0	1485
+132	Oberhuberová Alžbeta r. Bollová, m.Jozef m.Jozef		0	1941
+132	Ozorovský Jozef		1	72,1580
+132	Palatin Jozef		0	1485
+132	Palatinová Juliana		0	1485
+132	Palúch Martin		0	1674
+132	Palúk Martin		0	2196
+132	Palúková Margita		0	1674,1940
+132	Patvaroš František		0	1674
+132	Patvarošová Gizela r. Katonová		0	2355
+132	Pócošová Rozália r. Vaššová, m.Eugen m.Eugen		0	2211
+132	Pohorelcová Magdaléna r. Lapinová		0	1674,2156
+132	Polák Anton		0	1934
+132	Pónyiová Anna r. Vasová		0	1536
+132	Puškášová Matilda r. Čabová		0	1674
+132	Rapi Angela r. Kaszová, m.Anton m.Anton		0	1705
+132	Rapi Anton		0	1705
+132	Ruzsinszká Hermína r. Teleková		0	1711
+132	Samašová Gizela r. Benčíková		0	2140
+132	Schmidtová Margita r. Benčíková		0	2038
+132	Sklenárová Júlia r. Kaszová		0	1674,1987
+132	Solikavá Vilma r. Katonová		0	1674,2277
+132	Spišáková Valéria r. Szabóová		1	1489,1674,1816
+132	Stepháni Ervin		1	1520,1673,1674,2059
+132	Stephániová Mária		0	2345
+132	Svereňáková Alžbeta r. Palatinová		0	1485
+132	Svoráková Julianna r. Kovácsová		0	1674
+132	Szabó Alexander		0	1674
+132	Szabó František		0	1674
+132	Szabó Ján		0	1674
+132	Szabó Jozef		0	1674
+132	Szabó Ľudovít		1	456,1674,1741
+132	Szabó Michal		0	1905
+132	Szabóová Gizela		0	2079
+132	Szabová Alžbeta		1	456,1674
+132	Szabová Juliana		0	1674
+132	Szakóová Terézia r. Vargová, m.Alexander m.Alexander		0	2327
+132	Szalaj Vojtech		0	1723,2298
+132	Szalajová Júlia r. Lakatošová		0	1723,2008
+132	Szalajová Júlia r. Vargová		0	1505,1674,1848
+132	Szócsonková Margita r. Lakatošová		0	1674
+132	Szóriková Vilma r. Katonová		0	1674
+132	Šáfranová Mária r. Szabová		0	1674
+132	Šimon Július		0	1721
+132	Šipoš Július, m.Rozália,r.Vaššová m.Rozália,r.Vaššová		0	2111
+132	Šurányi Pavol		0	1730
+132	Šurányiová Margita r. Koroncziová		0	1730
+132	Telek Ľudovit		0	1674
+132	Telek Štefan		0	1674
+132	Telek Vojtech		0	1674
+132	Teleková Hermína		0	1674
+132	Tischler Štefan		0	1674
+132	Tischlerová Margita		0	1674,2236
+132	Tischlerová Zuzanna r. Molnárová		0	1674
+132	Tóth Alexander		0	1674,1907
+132	Tóth Alexander, m.Matilda,r.Molnárová m.Matilda,r.Molnárová		0	2219
+132	Tóth Alexander, mladší mladší		0	2148
+132	Tóth Alexander, SPF SPF		1	2073
+132	Tóth Ambróž		0	1892
+132	Tóth Blažej		0	1685,2373
+132	Tóth Blažej, maloletý maloletý		0	2373
+132	Tóth Dezider		0	1674,2160
+132	Tóth Ferdinand		0	1685,1879
+132	Tóth František		0	1674,1806
+132	Tóth Gejza		1	452,2218
+132	Tóth Ján, maloletý maloletý		0	2179
+132	Tóth Jozef		0	1933
+132	Tóth Július		0	1674,2191
+132	Tóth Juraj		0	863,1674,1912
+132	Tóth Karol		0	1924
+132	Tóth Ladislav		0	97,1493,1496,1674
+132	TÓTH Ľudovít		1	864,1674,2269
+132	Tóth Ľudovít, nebohý nebohý		0	1736
+132	Tóth Matej		0	1946
+132	Tóth Michal		0	1674,1795
+132	Tóth Mikuláš		0	1674,1963
+132	Tóth Pavol, palya palya		0	1674,1936
+132	Tóth Štefan		1	452,1783
+132	Tóth Štefan	St	0	824,1226,1533
+132	Tóth Štefan, LV 884 LV 884		0	1830
+132	Tóth Štefan, m.Helena r.Szaková m.Helena r.Szaková		0	2029
+132	Tóth Štefan, m.Margita,r.Juhászová m.Margita,r.Juhászová		0	2264
+132	Tóth Štefan, Peter Peter		0	2102
+132	Tóth Štefan, St. St.		0	1673,1674,2230
+132	Tóthová Alžbeta		0	1674,2289
+132	Tóthová Alžbeta r. Tóthová		0	2017
+132	Tóthová Anna	ml	0	1474,1475,1476
+132	Tóthová Anna r. Kaszová, m.Karol m.Karol		0	2287
+132	Tóthová Anna r. Lakatošová		0	1674
+132	Tóthová Anna r. Lakatošová, m.Alojz,vdova m.Alojz,vdova		0	2125
+132	Tóthová Anna r. Szabová		0	1674
+132	Tóthová Elena, maloletá maloletá		0	2343
+132	Tóthová Elena, péter péter		0	2067
+132	Tóthová Julianna r. Géciová		0	2078
+132	Tóthová Julianna r. Nágelová		0	1674,1979
+132	Tóthová Julianna r. Šóšová		0	1674,1958
+132	Tóthová Lenka		0	1977
+132	Tóthová Margita		0	1674
+132	Tóthová Margita r. Molnárová		0	2373
+132	Tóthová Margita r. Molnárová, m.František m.František		0	2048
+132	Tóthová Margita r. Tóthová		0	1779
+132	Tóthová Mária r. Bollová		0	2260
+132	Tóthová Mária r. Katonová		0	1768
+132	Tóthová Mária r. Katonová, m.Ignác m.Ignác		0	2027
+132	Tóthová Mária r. Kovácsová		0	1674
+132	Tóthová Mária r. Molnárová		0	1226,1673,2275
+132	Tóthová Mária r. Molnárová, m.b.Ľudovít,vdova m.b.Ľudovít,vdova		0	2266
+132	Tóthová Mária r. Tóthová		0	1748
+132	Tóthová Matilda, maloletá maloletá		0	1956
+132	Tóthová Terézia r. Vargová, m.Ambróž m.Ambróž		0	2075
+132	Tóthová Vilma r. Katonová		0	1674,1772
+132	Tóthová Zuzana r. Vargová		0	2342
+132	Tóthová Zuzanna		0	1674,1699
+132	Tóthová Zuzanna r. Bollová		0	2304
+132	Tóthová Zuzanna r. Kaszová		0	1674,1964
+132	Tóthová Zuzanna r. Katonová		0	1674,2274
+132	Urbanová Mária r. Kaszová		0	1674
+132	Vágóová Margita r. Vargová		1	1520,1673,2178
+132	Varga Alexander		0	2193
+132	Varga Anton		0	1859
+132	Varga Gejza		0	2024
+132	Varga Gejza, m.Elena,r.Miháľová m.Elena,r.Miháľová		0	1674,2149
+132	Varga Imrich		0	2247
+132	Varga Ján		0	1674,1898
+132	Varga Ján, m.Alžbeta,r.Bollová m.Alžbeta,r.Bollová		0	1674,1863
+132	Varga Jozef		0	1674
+132	Varga Martin		0	1674
+132	Varga Peter		0	1674,1902
+132	Varga Peter	m.Katarína r.Lakatošová	0	1531
+132	Varga Štefan		0	1674,2237
+132	Vargová Alžbeta r. Katonová		0	1674,2257
+132	Vargová Anna		0	1674,2145
+132	VARGOVÁ Anna	r.Molnárová	1	974
+132	Vargová Anna r. Kaszová		0	1674,2155
+132	Vargová Anna r. Molnárová		0	1673,1674,2316
+132	Vargová Anna r. Tóthová		0	1486,1674
+132	Vargová Elena		0	1674
+132	Vargová Gizela		0	1674
+132	Vargová Helena		0	2315
+132	Vargová Irma r. Tóthová		0	1981
+132	Vargová Júlia		0	1674,1821
+132	Vargová Julianna		0	1674
+132	Vargová Katarína r. Lakatošová		0	1531
+132	Vargová Katarína r. Vargová		0	1760
+132	Vargová Margita r. Katonová, m.Jozef m.Jozef		0	2053
+132	Vargová Mária r. Bónová		0	1674,2310
+132	Vargová Mária r. Molnárová, m.Alexander m.Alexander		0	2311
+132	Vargová Vilma r. Tóthová		0	1826
+132	Vasová Irma		0	2103
+132	Vaš Alexander		0	1825
+132	Vaš Gejza, maloletý maloletý		0	2071
+132	Vaš Jozef, m.Irma r.Molnárová m.Irma r.Molnárová		0	1674,2173
+132	Vašová Mária r. Agóčová		0	2293
+132	Vašová Regina r. Tóthová, vdova vdova		0	2002
+132	Vašová Rozália r. Balážová		0	1745
+132	Vašová Rozália r. Fodorová, m.Ľudovít m.Ľudovít		0	2291
+132	Vašová Rozália r. Vašová		0	1676
+132	Vašová Vilma r. Vašová, m.Štefan m.Štefan		0	1752
+132	Vašš Gejza, m.Irma, r.Póczošová m.Irma, r.Póczošová		0	2105
+132	Verebélyi Elemér		0	1235,1674,1734,2033
+132	Verebélyi Tivadar		0	1235,1674,1734,2278
+132	Vetráková Katarína r. Kamenská, m.Martin m.Martin		0	2138
+132	Vinceová Terézia r. Gáliová		0	1674,1881
+132	Vinczeová Mária r. Kaszová		0	36
+132	Vroszy František		0	1916
+133	BOJŇANSKÁ Amália	r.Bizoňová manž.Emil	0	337,401
+133	BOJŇANSKÁ Anežka	r.Kupcová manž.Ján	0	350
+133	BOJŇANSKÝ Ján	manž.Anežka r.Kupcová	0	350
+133	GAŠPARÍK Jozef, SR		0	370
+133	GAŠPARÍK Pavel	mamž.Alžbeta r.Kučerková	0	370
+133	HRUBIŠKOVÁ Nora r. Nováková		0	355
+133	CHALANIOVÁ Mária	r.Chudá	0	56
+133	CHUDÁ Jolana	r.Jančovičová manž.Koloman	0	348
+133	CHUDÁ Jozefína, SR		0	56
+133	CHUDÁ Margita	mal	0	56
+133	CHUDÁ Mária, SR		0	244
+133	CHUDÝ Ján	1	0	323,369
+133	CHUDÝ Ján, SR		0	244
+133	CHUDÝ Jozef	manž.Mária r.Belesová č.45	0	369
+133	CHUDÝ Koloman	manž.Jolana r.Jančovičová	0	348
+133	CHUDÝ Matej	manž.Pavlína r.Gašparíková	0	367
+133	CHUDÝ Michal, SR		0	244
+133	CHUDÝ Pavol	manž.Filoména r.Richterová	0	367
+133	CHUDÝ Stanislav, SR		0	56
+133	CHUDÝ Vojtech, SR		0	244
+133	JAKUBIČKOVÁ Róza	r.Knížatová manž.Imrich	0	161
+133	JANEKOVÁ Magdaléna	r.Jurčová	0	191
+133	JANKOVIČ Adam	manž.Vilma r.Danišová	0	349
+133	JANKOVIČOVÁ Vilma	r.Danišová manž.Adam	0	349
+133	JURČOVÁ Antónia, SR		0	188
+133	JURČOVÁ Emília, SR		0	188
+133	KNÍŽAT Blažej	manž.Filómena r.Pontesová	0	161
+133	KNÍŽAT Jozef	1	0	257,365,390
+133	KNÍŽAT Jozef	2	0	255,389
+133	KNÍŽAT Jozef	mal	0	171
+133	KNÍŽAT Jozef	manž.Alžbeta r.Lehotská	0	358
+133	KNÍŽAT Viliam, SR		0	129
+133	KNÍŽATOVÁ Alžbeta, SR		0	332
+133	KNÍŽATOVÁ Angela	r.Blštáková	0	171
+133	KNÍŽATOVÁ Berta, SR		0	161,171
+133	KNÍŽATOVÁ Katarína	r.Rolinecová 1	0	161
+133	KNÍŽATOVÁ Katarína	r.Rolinecová manž.Štefan	0	161,171
+133	KNÍŽATOVÁ Mária	č.34	0	359
+133	KNÍŽATOVÁ Mária	r.Mokrá	0	368
+133	KNÍŽATOVÁ Valéria, SR		0	331
+133	KNÍŽATOVÁ Zita, SR		0	331,365
+133	KUCHÁROVÁ Verona	r.Knížatová	0	161,171

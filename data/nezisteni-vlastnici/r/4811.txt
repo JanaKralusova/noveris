@@ -1,0 +1,256 @@
+2716	Handlovič Ján		1	8
+2716	Handlovič Ján, SR		1	73
+2716	Haser František, SR		0	72
+2716	Haserová Anna, SR		0	72
+2716	Hazer František, SR		0	72
+2716	Hazerová Anna, SR		1	8,73
+2716	Hradická Anna r. Haserová, SR		0	72
+2716	Hradická Anna r. Hazerová, SR		0	72
+2716	Hradický Július		1	8
+2716	Hradický Július, SR		1	73,136,526
+2716	Hradický Karol		1	8
+2716	Hradický Karol, SR		1	73,136,526
+2716	Hradický Štefan		1	8
+2716	Hradický Štefan, SR		1	73,136,526
+2716	Imrich Otto		1	8
+2716	Imrich Otto, SR		1	73
+2716	Jarábek Štefan		1	8
+2716	Jarábek Štefan, SR		1	73,237
+2716	Kalinská Anna r. Urbančíková		1	8
+2716	Kalinská Anna r. Urbančíková, SR		1	73,391
+2716	Kalinský Ján, SR		1	391
+2716	Keilová Adela r. Szilardyová		1	8
+2716	Keilová Adela r. Szilardyová, SR		1	73
+2716	Keilová Helena r. Szilardyová		1	8
+2716	Keilová Helena r. Szilardyová, SR		1	73
+2716	Klimko Ján		1	8
+2716	Klimko Ján, SR		1	73
+2716	Klimko Juraj		1	8
+2716	Klimko Juraj, SR		1	73
+2716	Klimko Juraj, SR	I	1	73
+2716	Klimko Michal		1	8
+2716	Klimko Michal, SR		1	73
+2716	Klimková Mária		1	8
+2716	Klimková Mária, SR		1	73
+2716	Kováčová Mária r. Slaninová		1	22
+2716	Küfferová Dorota r. Keilová, SR		0	348
+2716	Kukučková Mária r. Richweisová		1	8
+2716	Kukučková Mária r. Richweisová, SR		1	73
+2716	Lešková Anastázia r. Slivenská		1	8
+2716	Lešková Anastázia r. Slivenská, SR		1	73
+2716	Lešková Anna r. Slivenská		1	8
+2716	Lešková Anna r. Slivenská, SR		1	73
+2716	Lešková Mária r. Vojtkovská		1	8,128,129,130,528,532
+2716	Lešková Mária r. Vojtkovská, SR		1	73
+2716	Liptaiová Dorota r. Münnichová, SR		0	349
+2716	Majkut Jozef	Amerika	1	197
+2716	Majkuth Ján, SR		1	232
+2716	Majkuth Jozef, SR		1	232
+2716	Majkuth Rudolf		1	130,528,532
+2716	Majkuthová Anna		1	130,528,532
+2716	Majkutová Alžbeta		1	178,539
+2716	Marko Jozef, SR		1	335
+2716	Marko Matej, SR		1	335
+2716	Marko Štefan		1	8
+2716	Marko Štefan, SR		1	73
+2716	Marková Margita, SR		1	335
+2716	Marková Mária r. Urbančíková		1	8
+2716	Marková Mária r. Urbančíková, SR		1	73,391
+2716	Markulík Ján		1	173
+2716	Markulík Ján, SR		0	174
+2716	Markulík Jozef		1	173
+2716	Markulík Jozef, SR		0	174
+2716	Markulík Karol, SR		1	242
+2716	Markulík Štefan		1	173
+2716	Markulík Štefan, SR		0	174
+2716	Markulíková Mária r. Majkutová		1	173
+2716	Masuroková Viktória r. Žillová, SR		0	351
+2716	Mikula František, SR		0	341
+2716	Mikulová Verona r. Filická, SR		0	341
+2716	Mojžitová Paula r. Urbančíková		1	8
+2716	Mojžitová Paula r. Urbančíková, SR		1	73
+2716	Münnich Ján, SR		0	349
+2716	Münnich Michal, SR		0	349
+2716	Nováková Anna r. Markulíková		1	173
+2716	Nováková Anna r. Markulíková, SR		0	174
+2716	Patzová Mária r. Münnichová, SR		0	349
+2716	Patzová Rozália r. Münnichová, SR		0	349
+2716	Podolinská Mária r. Vojtkovská		1	8
+2716	Podolinská Mária r. Vojtkovská, SR		1	73
+2716	Podolinský Ľudovít, SR		1	329
+2716	Polláková Johana r. Urbančíková		1	391
+2716	Pribulová Margita r. Krištofová		1	8
+2716	Pribulová Margita r. Krištofová, SR		1	73
+2716	Richweis František		1	8
+2716	Richweis František, SR		1	73
+2716	Richweis Gejza		1	8
+2716	Richweis Gejza, SR		1	73
+2716	Richweis Ján		1	8
+2716	Richweis Ján, SR		1	73
+2716	Richweis Jozef		1	8
+2716	Richweis Jozef, SR		1	73
+2716	Richweisová Alžbeta		1	8
+2716	Richweisová Alžbeta, SR		1	73
+2716	Richweisová Anna		1	8
+2716	Richweisová Anna, SR		1	73
+2716	Richweisová Gizela		1	8
+2716	Richweisová Gizela, SR		1	73
+2716	Richweisová Margita		1	8
+2716	Richweisová Margita, SR		1	73
+2716	Richweisová Mária		1	8
+2716	Richweisová Mária r. Slaninová		1	22
+2716	Richweisová Mária, SR		1	73
+2716	Richweisová Matilda		1	8
+2716	Richweisová Matilda, SR		1	73
+2716	Romanová Marta, SR		0	394
+2716	Schneiderová Júlia r. Münnichová, SR		0	349
+2716	Simonová Mária r. Münnichová, SR		0	325
+2716	Slanina Ján, SR		0	347
+2716	Slanina Jozef		1	8,22
+2716	Slanina Jozef, SR		1	73
+2716	Slanina Július, SR		0	344
+2716	Slivenská Katarína r. Purcová		1	8
+2716	Slivenská Katarína r. Purcová, SR		1	73
+2716	Slivenská Zuzana r. Galajdová		1	8
+2716	Slivenská Zuzana r. Galajdová, SR		1	73
+2716	Slivenský František, SR		0	341
+2716	Slivenský Štefan		1	22
+2716	Štefanková Anna r. Almášiová		1	178,539
+2716	Štefánková Anna r. Almášyová		1	8
+2716	Štefánková Anna r. Almášyová, SR		1	73
+2716	Šukolová Mária, SR		0	355
+2716	Šustríková Margita r. Fokárová, SR		0	390
+2716	Vojtilová Mária r. Vojtkovská		1	128
+2716	Vojtkovská Anna		1	128
+2716	Vojtkovský František		1	8,128,129,130,528,532
+2716	Vojtkovský František, SR		1	73
+2716	Vojtkovský Jozef		1	128,129,130,528,532
+2716	Vojtkovský Štefan		1	128
+2716	Zdravecký František, SR		0	377
+2717	ADAMOVÁ Mária r. Jacková		0	1529
+2717	Andrejko Juraj	ž.Mária Tokárová	0	1381
+2717	Andrejko Juraj, 072 21, Voľa, SR		0	1015
+2717	Andrejov Jozef /ž.Mária r.Karšňáková/		0	1432
+2717	ANDREJOVA MARIA R KARSNAKOVA ORESKE		0	782
+2717	Andrejová Mária r.Karšňáková /m.Jozef/		0	1432
+2717	ANTONICOVA ANNA R SIMKOVA NIZNY HRUSOV		0	1045
+2717	Apiariová Mária r. Žužová		0	1381
+2717	BABJAKOVA ANNA R KOLIBABOVA USA		0	1067
+2717	Bačo Ján, Krivošťanská, Strážske, PSČ 072 22, SR		0	920
+2717	BALINTOVA PAULINA R.ROHALOVA STRAZSKE		0	1191
+2717	BALINTOVA PAVLINA R.ROHALOVA STRAZSKE		0	1190
+2717	Balko Ján /ž.Mária r.Popovičová/ USA		0	1328
+2717	Balko Michal	USA	0	557
+2717	BALKOVA MARIA R HARDIKOVA STRAZSKE		0	938
+2717	BANIK MICHAL ZBUDZA		0	756
+2717	BANIKOVA MARIA R JUROVA ZBUDZA		0	756
+2717	Baran Ján /ž.Alžbeta r.Zalužická/		0	1432
+2717	Bednarik Andrej /ž.Helena r.Molčanová/		0	1328
+2717	BEDNARIKOVA MARCELA R BERESOVA CANADA		0	1076
+2717	Beňková Anna r.Čorejová		0	1328
+2717	BERES JAN CECHY		0	1076
+2717	BERES MICHAL ORESKE		0	845
+2717	BERES MICHAL USA		0	412
+2717	BERESOVA ANNA MADARSKO		0	1076
+2717	Bereš Andrej		0	1087,1328
+2717	Bereš Anton	ž.Pavlina r.Meľková	0	1254
+2717	Bereš Anton /ž.Pavlina r.Meľková/		0	1672
+2717	Bereš Juraj /ž.Terézia r.Mišľanová/		0	1432
+2717	Bereš Michal		0	1087
+2717	Béreš Michal /ž.Anna r.Kličová/		0	1432
+2717	Bereš Michal /ž.Mária r.Lazarová/		0	1328
+2717	Bérešová Alžbeta r.Gajdošová		0	1432
+2717	Berešová Anna	vd	0	1254
+2717	Berešová Anna vd.		0	1672
+2717	Bérešová Mária r. Lešová		1	315,1146,1484,1548
+2717	Berešová Mária r. Vasiľová		0	1254
+2717	Berešová Mária r.Frendáková /m.Andrej/		0	1328
+2717	Berešová Mária r.Vasiľová		0	1672
+2717	BÉREŠOVÁ Zuzana r. Šťepáková		0	1529
+2717	BERILA MICHAL USA		0	435,1089
+2717	Berkovič David, SR		0	290
+2717	Blach Andrej /ž.Zuzana r.Kolesárová/		0	1326,1327,1328
+2717	BLACH JURAJ NACINA VES		0	1012
+2717	Blach Juraj, 072 21, Nacina Ves, SR		0	1011
+2717	Blach Michal /ž.Johana r.Sabová/ USA		0	1328
+2717	Blachová Jolana r. Sabová		0	627,1533
+2717	Blachová Mária /dcéra Jána/		0	1328
+2717	BRODNANSKA MARIA R BERESOVA USA		0	413
+2717	Brodňanská Mária r. Berešová		0	1087
+2717	BRUGLER MAX, DR.		0	1043
+2717	BUBNAR JAN STRAZSKE		0	923
+2717	Bučko Pavol /syn Andreja/		0	1328
+2717	Bumbera Juraj	ž.Mária Lepihirsková	0	1381
+2717	Burik Ján	ž.Mária Jalčová	0	1381
+2717	BURIK JAN VOLA		0	1026
+2717	Buriková Mária r. Jalčová		0	1381
+2717	CARNA MARIA R STARUCHOVA ORESKE		0	1033
+2717	CARNY JAN ORESKE		0	1033
+2717	Casarik Michal, Krivošťanská, Strazske, SR		0	1002
+2717	CERHYTOVA ANNA, TURCIANSKY MARTIN, SR		0	373
+2717	Cifruľák Michal /ž.Mária r.Sabová/		0	1328
+2717	Ciganoc Ján /ž.Anna r.Berešová/		0	1432
+2717	CISAROVA PAULINA		0	1107,1108
+2717	CMAROVA ANNA R TUSAJOVA STRAZSKE		0	941
+2717	CUBAROVA ANNA R STOFOVA USA		0	1060
+2717	CUCHRANOVA PAVLINA R LUKCOVA USA		0	935
+2717	Cvoreň Andrej		0	454
+2717	Cvoreň Andrej /ž.Helena r.Kadiľáková/		0	1326
+2717	Cvoreň Andrej, 072 23, Staré, č. 213, SR		0	419
+2717	Cvoreň Ján	ž.Anna r.Kuchárová	0	1254
+2717	Cvoreň Ján /ž.Anna r.Kuchárová/		0	1672
+2717	CVOREN MICHAL USA		0	418,419,1686,1688
+2717	CVORENOVA ALZBETA R KADILAKOVA CS 213		0	1233,1243
+2717	CVORENOVA ALZBETA R.KADILAKOVA CS 213		0	628
+2717	Cvoreňová Alžbeta r. Kadilaková, 072 23, Staré, č. 213, SR		0	418,419
+2717	CVORENOVA OLGA		0	1252
+2717	Čerhitová Anna /dcéra Pavla/		0	1432
+2717	Čmiľová Anna r.Lazarová		0	1328
+2717	Danková Anna r. Kocibanová		0	1381
+2717	DEBROVA HEDVIGA R. DEBROVA		0	976
+2717	DEBROVA HELENA		0	976
+2717	Deling Ladislav /ž.Mária r.Pľuchtová/		0	1328
+2717	DELINGOVA ANNA R JANOSKOVA		0	579
+2717	Derbová Alžbeta r. Kolibábová, Strážske		0	953
+2717	Dermek Ján /ž.Mária r.Vojtková/		0	1328
+2717	DERMEK JAN ARGENTINA		0	443
+2717	Ďermek Michal	ž.Anna r.Pavlovčáková	0	1254
+2717	Ďermek Michal /ž.Anna r.Pavlovčáková/		0	1326,1672
+2717	Dermeková Mária r. Jusková		1	1146,1484,1548
+2717	Dobranská Anna r. Vasilová		0	1381
+2717	DONIC JAN VOLA		0	1034
+2717	DONIC MICHAL VOLA		0	1042
+2717	Donič Ján	ž.Anna Maťastiková	0	1381
+2717	Donič Michal	ž.Alžbeta Maťaščíková	0	1381
+2717	Doničová Anna r.Sabová		0	1328
+2717	DROTAR JAN USA		0	903
+2717	DROTAROVA ANNA R MICHALKOVA USA		0	762
+2717	DROTAROVA HELENA R TOMASKOVA USA		0	903
+2717	DUDA Michal	ž.Anna Šoltésová	0	1529
+2717	DUDASCIKOVA JOZEFINA R HROMULAKOVA		0	408
+2717	DUNCA ALBERT HUMENNE		0	298
+2717	Dunca Andrej	syn Juraja	0	1254
+2717	Dunca Andrej	ž. Helena r. Valovčíková	1	1146,1484,1548
+2717	Dunca Andrej /syn Juraja/		0	1672
+2717	Dunca Andrej /syn Michala/		0	1328
+2717	Dunca Ján /ž.Helena r.Pavlovčáková/		0	1326
+2717	Dunca Juraj	ž.Mária r.Lešová	0	1254
+2717	Dunca Juraj /ž.Mária r.Lešová/		0	1328,1672
+2717	Dunca Michal	ž.Anna r.Pavlovčáková	0	1254
+2717	Dunca Michal	ž.Mária r.Pavlovčáková	0	1254
+2717	Dunca Michal /ž.Anna r.Pavlovčáková/		0	1328,1672
+2717	Dunca Michal /ž.Mária r.Pavlovčáková/		0	1326,1672
+2717	Dunca Viktor		0	1328
+2717	Duncová Anna r.Čanderová		0	1326
+2717	Duncová Anna r.Čauderová		0	1328
+2717	Duncová Irena r. Staruchová	m.Jozef	0	1381
+2717	Duncová Jozefina r. Gazdová	dcéra Jána	0	1254
+2717	Duncová Jozefina r.Gazdová /dcéra Jána/		0	1672
+2717	Duncová Mária r.Tušajová		0	1326,1328
+2717	Duncová Mária r.Tušajová /m.Ján/		0	1328
+2717	Duncová Pavlína r. Zolotová	USA	1	334,1146,1484,1548
+2717	Duncová Sabina r. Džadová		1	1146,1484,1548
+2717	DZADO MICHAL USA		0	352
+2717	DZADOVA HELENA USA		0	352
+2717	DZADOVA MARIA USA		0	352
+2717	DZURJOVCIN MICHAL ZBUDZA		0	753

@@ -1,0 +1,256 @@
+1279	KOZLÍKOVÁ Alžbeta r. Ferková		0	48
+1279	KOZLÍKOVÁ Alžbeta r. Škotková		0	48,803
+1279	KOZLÍKOVÁ Mária		0	47,639,667,803
+1279	KOZLÍKOVÁ Mária r. Ferková		0	48
+1279	Kozlíková Mária r. Škotková	mž Pavol	0	820
+1279	KOZLÍKOVÁ Mária r. Škotková		0	48
+1279	Lacheta Štefan		0	681
+1279	LESKOVSKÁ Anna r. Štefančíková		0	48,803
+1279	LESKOVSKÝ Michal		0	47,48,640,803,820
+1279	LESKOVSKÝ Štefan		0	47,48,50,646,671,803,804,810,828,830,833,877,878
+1279	Maliňák Jozef		0	820
+1279	MALIŇAK Ondrej		0	47,48,649,803
+1279	MALIŇAK Ondrej, Korytne, č. 78, SR		0	47
+1279	MATZ Štefan		1	6,27,43,47,111,251,304,308,403,487,525,528,748,761,762,763,764,765,861,864
+1279	MATZ Štefan, Spišské Vlachy, SR		1	766
+1279	MATZOVÁ Helena r. Zápalová, Spišské Vlachy, SR		1	766
+1279	MEĽUCH Ján		0	227
+1279	MIHALOV Štefan		0	47,48,648,803
+1279	MIHALOVÁ Anna r. Kozliková		0	648
+1279	MIKLUŠČÁK Jozef		0	681
+1279	MUCHA Ján		0	47,48,803
+1279	MUCHA Pavol		0	47,48,803
+1279	MUCHOVÁ Anna r. Kopčáková		0	47,48,803
+1279	MULÍK Jozef		0	47,48,641,803
+1279	MULÍKOVÁ Anna r. Fabianová		0	47,48,641,803
+1279	Novák Ján	ž.Mária r.Hvizdošová	1	817
+1279	NOVÁK Ján		0	6,43,47,111,528,548,580,748,761,762,763,766,864
+1279	NOVÁK Jozef		1	6,308,355,748,764,765,861,865
+1279	NOVÁK Ondrej		0	681
+1279	NOVÁK Pavol		0	681
+1279	Novák Štefan, Beharovce, SR		0	817
+1279	NOVÁKOVÁ Alžbeta r. Výrostková		0	308,764
+1279	NOVÁKOVÁ Alžbeta r. Výrostková	manžel Ján	1	765,861
+1279	NOVÁKOVÁ Anna		0	355,865
+1279	NOVÁKOVÁ Anna r. Butvinová		0	681
+1279	NOVÁKOVÁ Anna r. Výrostková		0	6,308,748,764
+1279	NOVÁKOVÁ Anna r. Výrostková	manžel Jozef	1	765,861
+1279	Nováková Mária r. Hvizdošová		0	817
+1279	NOVÁKOVÁ Mária r. Chromčová		0	559
+1279	NOVÁKOVÁ Maria r. Kočiščaková		0	600
+1279	PALOČKO Ján		0	47,48,655,803
+1279	PALOČKOVÁ Anna r. Leskovská		0	47,48,655,803
+1279	PASTIRAN Martin		0	48,50,803,804,810,828,830,833,877,878
+1279	PASTIRANOVÁ Helena r. Škotková		0	48,50,803,804,810,828,830,833,877,878
+1279	PASTIRANOVÁ Ilona		0	803
+1279	PASTIRANOVÁ Ilona r. Škotková		0	48
+1279	PISARČÍK Ondrej		0	525
+1279	PISARČIKOVÁ Irena r. Martinková		0	525
+1279	PISKURA Štefan		0	47
+1279	PUCHALA Martin		1	6,308,748,764,765,861
+1279	Ruman Jozef		0	820
+1279	Rumanová Mária r. Salay		0	820
+1279	RUMANOVÁ Žofia		0	47,48,803
+1279	RUMANOVÁ Žofia r. Luterová		0	47,48,633,803
+1279	SIVÁK Ján		0	47,48,634,803
+1279	STAŇO Ján		0	47,48,650,803
+1279	STAŇOVÁ Mária		0	47,650,803
+1279	STAŇOVÁ Mária r. Sopková		0	48
+1279	STRAKOVÁ Zuzana r. Ďugasová		0	48,803
+1279	Škotko Ján		0	820
+1279	ŠKOTKO Pavol		0	665
+1279	ŠKOTKO Štefan		0	47,48,653,803
+1279	ŠKOTKO Štefan, SR		0	47,48,803
+1279	ŠKOTKOVÁ Katarína r. Závadska		0	47
+1279	Škotková Mária r. Forgačová, SR		0	47,48,644,803
+1279	Šofranko Michal		0	585
+1279	ŠTOFANČÍKOVÁ Mária r. Širocká		0	681
+1279	ŠTOFKO Pavol		0	47,48,803
+1279	ŠTOFKOVÁ Mária		0	47,48,803
+1279	TARBAJOVÁ Mária r. Hudáková		0	531
+1279	TONDRA Ján		0	48,50,803,804,810,828,829,830,833,877,878
+1279	VALKO Ján		0	77
+1279	VALKO Štefan		0	77
+1279	ZAPALA Jozef		0	525
+1279	ZÁVACKÝ Ján		0	45,47,48,673,794,795,803,808,809
+1279	ZÁVADSKÝ Ján		0	47
+1279	ŽILKA Pavol		0	227
+1279	ŽILKOVÁ Mária r. Kafančíková		0	681
+1280	Adamová Helena	r. Kollárová	0	908,939,940,1001,1045,1354,1373
+1280	Aschenbrunnerová Anna r. Halušková	m. Koloman	1	1465
+1280	Ascheubrumnerová Anna	r.Haluška	0	469,482,484,939,940,1001,1045,1540
+1280	Baláž Ján		1	862,1215
+1280	Baláž Jozef		0	1367
+1280	Baláž Michal		1	862,1215,1367
+1280	Balážová Mária		0	1367
+1280	Balážová Mária r. Tothová		1	862,1215
+1280	Balga Adam, SR		1	1300
+1280	Balga Alexander, SR		1	1294
+1280	Balga František		1	939,940,1001,1045
+1280	Balga Imrich		0	520
+1280	Balga Ján		0	520
+1280	Balga Jozef		1	346,613,614,615,616,750,1291,1296
+1280	Balga Jozef	/ádám/	0	860
+1280	Balga Jozef	/malicka/	0	1299
+1280	Balga Jozef	/punajsz/	0	853,1279
+1280	Balga Jozef	/Réti/	0	939,940,1001,1045
+1280	Balga Jozef	nezlet	1	520,1281
+1280	Balga Jozef	piťko m. Barbora r. Gyorgyová	1	1474
+1280	Balga Juraj		1	653,1297
+1280	Balga Juraj	/alsók/	0	860
+1280	Balga Juraj	ádám	1	860
+1280	Balga Juraj	ml	0	939,940,1001,1045
+1280	Balga Ladislav	/punajsz/	0	853,1279
+1280	Balga Matej	/Orvos/	0	634
+1280	Balga Michal	/alsók/	0	860
+1280	Balga Michal	/putera/	0	860
+1280	Balga Ondrej		0	860,1289
+1280	Balga Ondrej	m.Katarína r.Filipová /NP-/	1	1281
+1280	Balga Pavel	/Orvos/	0	634
+1280	Balga Pavol		0	634,1285,1343
+1280	Balga Pavol	/ádám/	0	860
+1280	Balga Štefan		0	376,520,634,661
+1280	Balga Štefan	/čiča/	0	1297
+1280	Balga Štefan	/malicka/	0	1299
+1280	Balga Štefan	/pincés, m.Margita-adam	0	1291
+1280	Balga Štefan	/punajsz/	0	853,1279
+1280	Balga Štefan	/putera/	0	860
+1280	Balga Štefan	/Réti/	0	613
+1280	Balga Štefan	ml	1	1279,1297
+1280	Balga Vincent	/orvos/	0	531,743,939,940,1001,1045
+1280	Balga Vincent	orvos	1	1401
+1280	Balgová Alžbeta	/alsók/	0	860
+1280	Balgová Alžbeta	nezl	0	1297
+1280	Balgová Angyela		0	860,1285
+1280	Balgová Angyela	/ádám/	0	860
+1280	Balgová Barbora		0	520,531,743,939,940,1001,1045
+1280	Balgová Barbora	maloletá orvos	1	1401
+1280	Balgová Barbora	r. Huszárová /NP-/	1	939,940,1001,1045,1349,1358
+1280	Balgová Barbora	r. Pásztorová	0	758,1183
+1280	Balgová Helena	orvos	1	1401
+1280	Balgová Katarína		0	1285
+1280	Balgová Katarína	/ádám/	0	860
+1280	Balgová Margita	/adam, m.Štefan/	0	1291
+1280	Balgová Margita	/manž.Pavel Balga/	0	520
+1280	Balgová Mária		0	376,520,661
+1280	Balgová Mária	/m.Balga Juraj/	0	860
+1280	Balgová Mária	/nezlet/	0	520
+1280	Balgová Mária	r. Balgová	0	634,1293
+1280	Balgová Mária	r. Celengová 485902	0	346
+1280	Balgová Mária	r. Filipová /csicsa/NP-	1	1050
+1280	Balgová Mária	r. Števonková	0	939,940,1001,1045,1064,1342
+1280	Balgová Rozália	/NP-/	1	501,502,916,939,940,1001,1045,1590,1591
+1280	Balgová Rozália	r.Filipová	0	1303
+1280	Balgová Verona		0	520,1285
+1280	Balgová Verona	/ádám/	0	860
+1280	Balgová Verona	r.Balgová, m.Juraj	0	1297
+1280	Balig Michal		1	903,939,940,1001,1045,1490
+1280	BALIK Ján		1	799
+1280	Balík Ján	/NP-/	1	364,480,1066,1184,1320,1348,1534,1583
+1280	BALIK Michal		1	799,1391
+1280	Balík Michal	/NP-/	1	364,480,651,797,798,901,902,1066,1184,1348,1534,1583
+1280	Balková Gizella	r.Papová	0	939,940,1001,1045
+1280	Balková Gizella r. Papová	m. Štefan	1	1469
+1280	Ballová Mária	r. Štrihová /NP-/	1	351,353,939,940,1001,1045
+1280	Ballová Verona	r.Gyorgy/manž.Bartolomej/	0	1278,1298
+1280	Balog Jozef	réti	1	1406,1407
+1280	BARACSEVICSOVÁ Vilma	r.Záborszká m.Ján	1	398
+1280	Baracsevicsová Vilma r. Záborszká	m. Ján	1	1466
+1280	Baracsevicsová Vilma r. Záborszká	m.Ján	1	1390
+1280	Bartók Ján	ml	0	364,480,1184,1534,1583
+1280	Bartóková Barbora	r. Štrihová /NP-/	1	359,390,748,939,940,1001,1045,1060,1168
+1280	Bereczká Mária	/NP-/	1	947
+1280	Bereczky Imrich	maloletý	1	1471
+1280	Bereczky Imrich	nezl. /NP-/	1	947
+1280	Bereczkyová Mária	maloletá	1	1471
+1280	Bevízová Rozália	r. Huszárová	0	939,940,1001,1045,1349
+1280	Blaho Štefan		0	634
+1280	Bojtosová Mária	rod.Ferenczyová	0	335
+1280	Bojtoš Ján		0	100,400
+1280	Bojtoš Ján	/NP-/	1	733
+1280	Bojtoš Michal	/NP-/	1	335
+1280	Bojtoš Štefan	/NP-/	1	100,364,400,480,745,763,996,1184,1534,1583
+1280	Bojtošová Alžbeta	/NV-/	1	733
+1280	Bojtošová Barbora	r. Tothová /NP-/	1	909,1368
+1280	Bojtošová Mária	r. Slováková	0	939,940,1001,1016,1045,1207,1272,1322
+1280	Bojtošová Zuzana	r. Štrihová /NP-/	1	390,748,1060
+1280	Bongándiová Terézia	r.Hriechová	0	335
+1280	Borgondiová Terézia	r. Hriechová /NP-/	1	358,359,585,586,939,940,1001,1045,1047,1084,1090,1168,1198
+1280	Bozeová Julianna	r. Kovácsová	0	1209,1275
+1280	Burgundi Ján		1	1457,1470
+1280	Burgundi Ján	/NP-/	1	1162,1163,1178,1179
+1280	Burgundi Juraj		0	335
+1280	Burgundi Michal	/NP-/	1	544,939,940,1001,1045,1231
+1280	Burgundi Pavel		1	1353,1457
+1280	Burgundi Štefan		1	1470
+1280	Burgundi Štefan	/NP-/	1	1162
+1280	Burgundiová Anna		1	1457,1470
+1280	Burgundiová Anna	/NP-/	1	1162,1163,1178,1179
+1280	Burgundiová Mária		1	1470
+1280	Burgundiová Mária	/NP-/	1	1162,1163,1179
+1280	Burgundiová Mária	r.Magátová	0	544,939,940,1001,1045,1231
+1280	Burgundiová Terézia r. Hriechová	m. Ján	1	1424
+1280	Burgundyová Julianna		0	335
+1280	Burgundyová Zuzana	/NV-/	1	335
+1280	Búth Ján	dolný /NP-/	1	1210,1311
+1280	Cibuľa Michal		0	1279,1307
+1280	Cibuľová Zuzana	r. Jánošková	0	1307
+1280	Csernák Ján	/NP-/	1	1221
+1280	Csókosová Verona	r.Gyorgyová vd	0	1291
+1280	Czelleng Juraj		1	1292
+1280	Czellengová Mária r. Ďurčová		1	1486
+1280	Czellengová Verona	r.Gyorgyová	0	468
+1280	Czellengová Zuzana	r. Ďurčová /NP-/	1	438,556,557,558,559,561,562,563,724,939,940,1001,1014,1045,1508
+1280	Czellenk Alexander		0	1278
+1280	Czellenk Štefan		0	1278
+1280	Czellenková Rozália	r.Balga/manž.Jozef/	0	1278
+1280	Czerovszky Ján	/NP-/	1	1318
+1280	Dianovsky Ján	/NP-/	1	1270
+1280	Doboš Tibor	maloletý	1	1428
+1280	Dobošová Valéria	maloletá	1	1428
+1280	Draškocziová Mária	r.Ďurišová	0	939,940,1001,1045
+1280	Drdanková Katarína	r. Celengová 605130	0	346
+1280	Drozd Ján	/m.Mária Backová/	0	1230,1254
+1280	Dudás Ján		1	1441
+1280	Ďurčíková Anna	r. Pavlovkinová 580801	0	424
+1280	Ďurčíková Barbora	r. Tothová /NP-/	1	811,812,939,940,976,1001,1045,1369
+1280	Ďurčíková Mária	r. Kukučková	0	578,908,909,910,939,940,1001,1045,1276,1354
+1280	ĎURČÍKOVÁ Mária	r.Kukučková	1	1383
+1280	Ďurčíková Mária r. Kukučková		1	1409,1410,1487
+1280	Ďurčo Jan	/Pavlov syn/	0	364,480,1184,1534,1583
+1280	Ďurčo Michal	/NP-/	1	683
+1280	Ďurčová Verona	r. Fonodová	0	383,384,939,940,1001,1045,1197
+1280	Ďurčová Zuzana	r. Balíková	0	608,939,940,1001,1045
+1280	Ďurkovičová Anna	r. Pástorová	0	489
+1280	Ďurovkin Juraj	ml	0	1316
+1280	Ďurovkin Pavel		0	1316
+1280	Fábri Ján	kovács	1	1467
+1280	Fábri Pavel	kovács	1	1467
+1280	Fábriová Amália		0	939,940,1001,1045
+1280	Fábriová Julianna	r.Gerhardtová	0	939,940,1001,1045
+1280	Fábriová Mária	r.Halušková	0	485
+1280	Fábry Arnošt		0	1139
+1280	Fábry Ernest	/ž.Emília Jančová/	0	335,1104,1176
+1280	Fábry Ján	ml	1	1356
+1280	Fábry Július		1	480,939,940,1001,1045
+1280	Fábry Július	/ž.Mária Vanková/	0	335,1132,1176
+1280	Fábry Pavol	/Kovács/	0	939,940,1001,1045
+1280	Fábryová Gizella	r. Koháryová	0	1139
+1280	Filip Ján		0	480,1184
+1280	Filip Ľudovít		1	990
+1280	Filip Martin	/NP-/	1	805,806,807
+1280	Filip Pavol		1	79,939,940,1001,1045,1455
+1280	Filip Štefan	/baka/	0	1291
+1280	Filipová Angela	r.Czellenk	0	1278
+1280	Filipová Barbora	r. Balgová /NP-/	1	613,614,615,616,750
+1280	Filipová Helena	r. Husárová	0	484
+1280	Filipová Katarína	r. Czellengová /NP-/	1	549,628
+1280	Filipová Mária	r.Bojtos/man.Ladislav/	0	908
+1280	Filipová Mária r. Bojtošová		1	1409,1410
+1280	Fomod Michal	mladší gaži	1	1409
+1280	Fonód Imrich	ml	1	982,1265,1475
+1280	FONOD Ján		1	398,1390,1475
+1280	Fonód Ján	/NP-/	1	364,480,847,939,940,982,993,1001,1036,1045,1046,1184
+1280	Fonód Ján	/péter/	0	364,480,1184,1534,1583
+1280	Fonód Ján	/ž.Mária Bojtošová/NP-	1	640,1043
+1280	Fonód Juraj		1	622,718,939,940,1001,1045
