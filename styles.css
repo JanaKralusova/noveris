@@ -8,77 +8,67 @@
     color: inherit;
 }
 
-/* Satin gradient button */
-.satin-button,
-.satin-gradient {
-    background: linear-gradient(45deg, #6d5b47, #c6af97);
-}
-
-/* Editorial shadow */
-.editorial-shadow {
-    box-shadow: 0 10px 32px -4px rgba(28, 28, 24, 0.06);
-}
-
-/* Contact form inputs */
-.editorial-input {
-    background-color: transparent;
-    border-top: none;
-    border-left: none;
-    border-right: none;
-    border-bottom: 1px solid #d0c5af;
-    transition: border-bottom-color 0.3s ease;
-}
-
-.editorial-input:focus {
-    outline: none;
-    border-bottom-color: #735c00;
-    box-shadow: none;
-}
-
-/* ===================================
-   Article body typography (clanky/)
-   =================================== */
-.article-body {
-    font-family: 'Manrope', 'Manrope Fallback', sans-serif;
-    font-size: 1.125rem;
-    line-height: 1.75;
-    color: #4d4635;
-}
-.article-body > * + * { margin-top: 1.25rem; }
-.article-body h2 {
-    font-family: 'Newsreader', 'Newsreader Fallback', serif;
-    font-size: 2rem;
-    line-height: 1.25;
-    color: #1c1c18;
-    margin-top: 3rem;
-    margin-bottom: 0.25rem;
-}
-.article-body h3 {
-    font-family: 'Newsreader', 'Newsreader Fallback', serif;
-    font-size: 1.5rem;
-    line-height: 1.3;
-    color: #1c1c18;
-    margin-top: 2rem;
-}
-.article-body strong { font-weight: 700; color: #1c1c18; }
-.article-body em { font-style: italic; }
-.article-body ul,
-.article-body ol { padding-left: 1.5rem; }
+/* Article body typography (clanky/) = design-system .ds-article */
+.article-body { font-family: 'Manrope', 'Manrope Fallback', sans-serif; font-size: 1rem; line-height: 1.7; color: #4a4740; }
+.article-body > * + * { margin-top: 1rem; }
+.article-body h2 { font-family: 'Newsreader', 'Newsreader Fallback', serif; font-size: 1.875rem; line-height: 1.2; color: #1c2420; margin-top: 2.25rem; scroll-margin-top: 6rem; }
+.article-body h3 { font-family: 'Newsreader', 'Newsreader Fallback', serif; font-size: 1.375rem; line-height: 1.3; color: #1c2420; margin-top: 1.75rem; }
+.article-body strong { font-weight: 700; color: #1c2420; }
+.article-body ul, .article-body ol { padding-left: 1.25rem; }
 .article-body ul { list-style: disc; }
 .article-body ol { list-style: decimal; }
-.article-body li { padding-left: 0.25rem; }
-.article-body li + li { margin-top: 0.5rem; }
-.article-body li::marker { color: #6d5b47; }
-.article-body a {
-    color: #735c00;
-    text-decoration: underline;
-    text-underline-offset: 3px;
-    text-decoration-thickness: 1px;
-    transition: color 0.2s ease;
+.article-body li + li { margin-top: 0.4rem; }
+.article-body li::marker { color: #8f5535; }
+.article-body a { color: #8f5535; text-decoration: underline; text-underline-offset: 3px; text-decoration-thickness: 1px; }
+.article-body a:hover { color: #17302b; }
+
+/* Design-system components (scripts/lib/ui.js): photo fades into the page background
+   (mobile: bottom edge, desktop: the edge facing the text). */
+.fade-photo { -webkit-mask-image: linear-gradient(to bottom, #000 55%, transparent 100%); mask-image: linear-gradient(to bottom, #000 55%, transparent 100%); }
+.fade-photo-l { -webkit-mask-image: linear-gradient(to bottom, #000 55%, transparent 100%); mask-image: linear-gradient(to bottom, #000 55%, transparent 100%); }
+@media (min-width: 1024px) {
+    .fade-photo { -webkit-mask-image: linear-gradient(to right, transparent 0, #000 42%); mask-image: linear-gradient(to right, transparent 0, #000 42%); }
+    .fade-photo-l { -webkit-mask-image: linear-gradient(to left, transparent 0, #000 42%); mask-image: linear-gradient(to left, transparent 0, #000 42%); }
 }
-.article-body a:hover { color: #6d5b47; }
-.article-body a:focus-visible { outline: 2px solid #735c00; outline-offset: 2px; }
-@media (max-width: 767px) {
-    .article-body { font-size: 1.0625rem; }
-    .article-body h2 { font-size: 1.75rem; }
+/* Whole portrait in the About hero: soft left/right edges, so the photo dissolves into the page */
+.fade-portrait {
+    -webkit-mask-image: linear-gradient(to right, transparent 0, #000 12%, #000 90%, transparent 100%);
+    mask-image: linear-gradient(to right, transparent 0, #000 12%, #000 90%, transparent 100%);
 }
+/* Home specialisation tile: photo on the left fades into the white tile */
+.fade-tile { -webkit-mask-image: linear-gradient(to right, #000 30%, transparent 92%); mask-image: linear-gradient(to right, #000 30%, transparent 92%); }
+/* Closing band photo: fades into forest green on the left */
+.fade-photo-dark { -webkit-mask-image: linear-gradient(to right, transparent 0, #000 60%); mask-image: linear-gradient(to right, transparent 0, #000 60%); }
+
+
+/* Focus ring (copper; light copper on the dark forest surfaces) */
+a:focus-visible, button:focus-visible, summary:focus-visible { outline: 2px solid #8f5535; outline-offset: 2px; }
+.bg-forest a:focus-visible, .bg-forest button:focus-visible { outline-color: #e0b08a; }
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { transition-duration: 0.01ms !important; animation-duration: 0.01ms !important; scroll-behavior: auto !important; }
+}
+
+/* Home reviews band (scripts/build-pages.js reviewsBand): the track holds the list twice and slides by half its width;
+   the edges fade out; it pauses on hover / focus. Reduced motion: no animation, no copy, a swipeable row instead. */
+@keyframes reviews-scroll { from { transform: translateX(0); } to { transform: translateX(-50%); } }
+.reviews-wrap { -webkit-mask-image: linear-gradient(to right, transparent 0, #000 48px, #000 calc(100% - 48px), transparent 100%); mask-image: linear-gradient(to right, transparent 0, #000 48px, #000 calc(100% - 48px), transparent 100%); }
+@media (min-width: 1024px) {
+    .reviews-wrap { -webkit-mask-image: linear-gradient(to right, transparent 0, #000 96px, #000 calc(100% - 96px), transparent 100%); mask-image: linear-gradient(to right, transparent 0, #000 96px, #000 calc(100% - 96px), transparent 100%); }
+}
+.reviews-track { animation: reviews-scroll 56s linear infinite; }
+.reviews-rows:hover .reviews-track, .reviews-rows:focus-within .reviews-track, [data-reviews][data-paused] .reviews-track { animation-play-state: paused; }
+/* pause / play toggle: shown by the page script (hidden attribute), icon follows aria-pressed (true = paused) */
+.reviews-toggle[hidden], [data-reviews] [hidden] { display: none; }
+.reviews-toggle .i-play, .reviews-toggle[aria-pressed="true"] .i-pause { display: none; }
+.reviews-toggle[aria-pressed="true"] .i-play { display: block; }
+@media (prefers-reduced-motion: reduce) {
+    .reviews-wrap { overflow-x: auto; scroll-snap-type: x mandatory; -webkit-mask-image: none; mask-image: none; padding: 0 1.5rem; }
+    .reviews-track { animation: none !important; }
+    .reviews-copy { display: none; }
+    .reviews-toggle { display: none !important; }
+}
+
+/* Gap between two photo bands (split band, contact band) that follow each other: same as the section padding */
+.band-gap { display: none; }
+.photo-band + .band-gap:has(+ .photo-band) { display: block; height: 3rem; }
+@media (min-width: 768px) { .photo-band + .band-gap:has(+ .photo-band) { height: 4rem; } }

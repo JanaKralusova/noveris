@@ -1,0 +1,48 @@
+/* Design-system prototype styles: only what Tailwind utilities can't express. */
+
+/* Photo fade: the photo dissolves into the page background (mobile: bottom edge, desktop: left edge). */
+.fade-photo { -webkit-mask-image: linear-gradient(to bottom, #000 55%, transparent 100%); mask-image: linear-gradient(to bottom, #000 55%, transparent 100%); }
+.fade-photo-l { -webkit-mask-image: linear-gradient(to bottom, #000 55%, transparent 100%); mask-image: linear-gradient(to bottom, #000 55%, transparent 100%); }
+@media (min-width: 1024px) {
+  .fade-photo   { -webkit-mask-image: linear-gradient(to right, transparent 0, #000 42%); mask-image: linear-gradient(to right, transparent 0, #000 42%); }
+  .fade-photo-l { -webkit-mask-image: linear-gradient(to left, transparent 0, #000 42%); mask-image: linear-gradient(to left, transparent 0, #000 42%); }
+}
+/* Closing band photo: fades into forest green on the left */
+.fade-photo-dark { -webkit-mask-image: linear-gradient(to right, transparent 0, #000 60%); mask-image: linear-gradient(to right, transparent 0, #000 60%); }
+
+/* Focus ring used by every interactive element */
+.ds-focus:focus-visible, a:focus-visible, button:focus-visible { outline: 2px solid #8f5535; outline-offset: 2px; }
+
+/* Article body typography (replaces .article-body in styles.css at implementation time) */
+.ds-article { font-family: 'Manrope', 'Manrope Fallback', sans-serif; font-size: 1rem; line-height: 1.7; color: #4a4740; }
+.ds-article > * + * { margin-top: 1rem; }
+.ds-article h2 { font-family: 'Newsreader', 'Newsreader Fallback', serif; font-size: 1.875rem; line-height: 1.2; color: #1c2420; margin-top: 2.25rem; }
+.ds-article h3 { font-family: 'Newsreader', 'Newsreader Fallback', serif; font-size: 1.375rem; line-height: 1.3; color: #1c2420; margin-top: 1.75rem; }
+.ds-article strong { font-weight: 700; color: #1c2420; }
+.ds-article ul { list-style: disc; padding-left: 1.25rem; }
+.ds-article li + li { margin-top: 0.4rem; }
+.ds-article li::marker { color: #8f5535; }
+.ds-article a { color: #8f5535; text-decoration: underline; text-underline-offset: 3px; text-decoration-thickness: 1px; }
+.ds-article a:hover { color: #17302b; }
+
+/* Documentation chrome (not part of the design system itself) */
+.doc-code { font-family: ui-monospace, SFMono-Regular, Menlo, monospace; font-size: 12px; line-height: 1.5; }
+details > summary { cursor: pointer; list-style: none; }
+details > summary::-webkit-details-marker { display: none; }
+details[open] > summary .doc-chev { transform: rotate(90deg); }
+html { scroll-behavior: smooth; scroll-padding-top: 110px; }
+
+/* Home reviews band (scripts/build-pages.js reviewsBand): the track holds the list twice and slides by half its width;
+   the edges fade out; it pauses on hover / focus. Reduced motion: no animation, no copy, a swipeable row instead. */
+@keyframes reviews-scroll { from { transform: translateX(0); } to { transform: translateX(-50%); } }
+.reviews-wrap { -webkit-mask-image: linear-gradient(to right, transparent 0, #000 48px, #000 calc(100% - 48px), transparent 100%); mask-image: linear-gradient(to right, transparent 0, #000 48px, #000 calc(100% - 48px), transparent 100%); }
+@media (min-width: 1024px) {
+    .reviews-wrap { -webkit-mask-image: linear-gradient(to right, transparent 0, #000 96px, #000 calc(100% - 96px), transparent 100%); mask-image: linear-gradient(to right, transparent 0, #000 96px, #000 calc(100% - 96px), transparent 100%); }
+}
+.reviews-track { animation: reviews-scroll 56s linear infinite; }
+.reviews-wrap:hover .reviews-track, .reviews-wrap:focus-within .reviews-track { animation-play-state: paused; }
+@media (prefers-reduced-motion: reduce) {
+    .reviews-wrap { overflow-x: auto; scroll-snap-type: x mandatory; -webkit-mask-image: none; mask-image: none; padding: 0 1.5rem; }
+    .reviews-track { animation: none !important; }
+    .reviews-copy { display: none; }
+}

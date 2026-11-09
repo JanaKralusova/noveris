@@ -5,7 +5,7 @@
  * founder's Person are included on every page; the page nodes reference them.
  */
 
-const { SITE, SITE_NAME, OG_IMAGES, loadSiteConfig, abs } = require('./site');
+const { SITE, SITE_NAME, CONTACT, OG_IMAGES, loadSiteConfig, loadTranslations, abs } = require('./site');
 const { jpegSize } = require('./images');
 const path = require('path');
 const { ROOT } = require('./site');
@@ -22,7 +22,11 @@ const ORG_DESC = {
   en: 'Law firm in Bratislava providing legal advice. Focus on land ownership settlement, real estate law, contracts, civil and corporate law.',
 };
 
+// The six practice areas, same source as the services cards (translation keys services.area.<id>.title/.desc).
+const SERVICE_AREAS = ['vysporiadanie-pozemkov', 'nehnutelnosti-a-development', 'zmluvna-agenda', 'obcianske-pravo', 'obchodne-pravo', 'riesenie-sporov'];
+
 function orgNode(lang) {
+  const T = loadTranslations();
   const cfg = loadSiteConfig();
   const og = OG_IMAGES.sk;
   const node = {
@@ -34,13 +38,13 @@ function orgNode(lang) {
     description: ORG_DESC[lang],
     logo: { '@type': 'ImageObject', '@id': `${SITE}/#logo`, url: `${SITE}/assets/logo.svg`, contentUrl: `${SITE}/assets/logo.svg`, caption: SITE_NAME },
     image: abs(og.path),
-    telephone: '+421915622518',
-    email: 'kralusova@noveris.sk',
+    telephone: CONTACT.phoneHref.replace('tel:', ''),
+    email: CONTACT.email,
     address: {
       '@type': 'PostalAddress',
-      streetAddress: 'Turčianska 42',
-      postalCode: '821 09',
-      addressLocality: 'Bratislava',
+      streetAddress: CONTACT.street,
+      postalCode: CONTACT.postalCode,
+      addressLocality: CONTACT.city,
       addressCountry: 'SK',
     },
     geo: { '@type': 'GeoCoordinates', latitude: 48.1490931, longitude: 17.1372062 },
@@ -51,15 +55,15 @@ function orgNode(lang) {
     priceRange: '$$',
     hasOfferCatalog: {
       '@type': 'OfferCatalog',
-      name: 'Právne služby (Legal Services)',
-      itemListElement: [
-        { name: 'Právo nehnuteľností (Real Estate Law)' },
-        { name: 'Zmluvná agenda (Contract Law)' },
-        { name: 'Občianske právo (Civil Law)' },
-        { name: 'Obchodné právo (Corporate Law)' },
-        { name: 'Riešenie sporov (Dispute Resolution)' },
-        { name: 'Vymáhanie pohľadávok (Debt Recovery)' },
-      ].map((s) => ({ '@type': 'Offer', itemOffered: { '@type': 'Service', ...s } })),
+      name: lang === 'en' ? 'Legal services' : 'Právne služby',
+      itemListElement: SERVICE_AREAS.map((id) => ({
+        '@type': 'Offer',
+        itemOffered: {
+          '@type': 'Service',
+          name: T[lang][`services.area.${id}.title`],
+          description: T[lang][`services.area.${id}.desc`],
+        },
+      })),
     },
   };
   if (cfg.sameAs.organization.length) node.sameAs = cfg.sameAs.organization;
@@ -87,7 +91,7 @@ function personNode() {
     honorificPrefix: 'Mgr.',
     jobTitle: 'advokátka',
     worksFor: ref(ID.org),
-    image: `${SITE}/assets/photos/about.jpg`,
+    image: `${SITE}/assets/photos/jana-about.jpg`,
     url: `${SITE}/o-nas/`,
     knowsLanguage: ['sk', 'en'],
   };
@@ -142,9 +146,23 @@ function pageNodes(p) {
   return nodes;
 }
 
+// Service page node; the provider is the firm.
+function serviceNode({ url, name, description, lang }) {
+  return {
+    '@type': 'Service',
+    '@id': `${url}#service`,
+    name,
+    description,
+    url,
+    inLanguage: lang,
+    provider: ref(ID.org),
+    areaServed: { '@type': 'Country', name: 'Slovakia' },
+  };
+}
+
 // extraNodes: page specific nodes (Article, Service, ...)
 function graph(lang, nodes) {
   return { '@context': 'https://schema.org', '@graph': [orgNode(lang), websiteNode(), personNode(), ...nodes] };
 }
 
-module.exports = { ID, ref, orgNode, websiteNode, personNode, breadcrumbNode, pageNodes, graph };
+module.exports = { ID, ref, orgNode, websiteNode, personNode, breadcrumbNode, pageNodes, serviceNode, graph };

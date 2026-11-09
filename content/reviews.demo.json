@@ -1,0 +1,16 @@
+{
+  "demo": true,
+  "rating": 4.9,
+  "count": 23,
+  "url": "https://www.google.com/maps",
+  "reviews": [
+    { "name": "Mária H.", "rating": 5, "text": "Po rodičoch nám zostalo niekoľko nepredelených pozemkov a netušili sme, kde začať. Pani advokátka nám všetko pokojne vysvetlila a presne sme vedeli, aké kroky nás čakajú. Komunikácia bola rýchla a zrozumiteľná." },
+    { "name": "Peter K.", "rating": 5, "text": "Riešili sme odkúpenie pozemku od Slovenského pozemkového fondu. Vďaka jasnému postupu a pravidelným informáciám som mal celý čas prehľad o tom, v akom štádiu vec je." },
+    { "name": "Rodinná pekáreň zo Senca", "rating": 5, "text": "Naša prevádzka stojí na pozemku, ktorý nám nepatril. Pomohli nám preveriť stav v katastri a navrhli riešenie, ktoré dávalo zmysel aj z pohľadu nákladov. Na otázky odpovedali obratom." },
+    { "name": "Jozef M.", "rating": 4, "text": "Potreboval som zriadiť vecné bremeno kvôli prístupovej ceste k záhrade. Celý proces bol zrozumiteľne vysvetlený, len papierovanie na katastri trvalo dlhšie, než sme čakali." },
+    { "name": "Zuzana B.", "rating": 5, "text": "Spoluvlastníkov bolo pri našom pozemku viac, než sme si mysleli. Dostali sme prehľadné vysvetlenie, kto má aký podiel a aké sú naše možnosti. Ocenila som, že sa nehovorilo zbytočne právnickým jazykom." },
+    { "name": "Poľnohospodárske družstvo, Záhorie", "rating": 5, "text": "Potrebovali sme vysporiadať pozemok pod stavbou v areáli družstva. Prípad bol komplikovaný, no každý krok bol jasne naplánovaný a dostali sme pravdivý obraz o tom, čo je možné." },
+    { "name": "Ľubomír T.", "rating": 4, "text": "Pomoc pri zápise zmeny do katastra a pri dedičstve po otcovi. Ochotná komunikácia a vždy sa dalo dovolať alebo dostať rýchlu odpoveď e-mailom." },
+    { "name": "Katarína S.", "rating": 5, "text": "Konečne mi niekto po ľudsky vysvetlil, čo znamená záznam na liste vlastníctva a čo s ním môžem urobiť. Spolupráca bola príjemná a bez zbytočného zdržiavania." }
+  ]
+}

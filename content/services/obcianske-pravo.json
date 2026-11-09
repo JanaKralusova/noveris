@@ -1,0 +1,255 @@
+{
+  "sk": {
+    "sections": [
+      {
+        "type": "hero",
+        "label": null,
+        "title": "Občianske právo",
+        "intro": [
+          "Občianskoprávne vzťahy sa dotýkajú vlastníctva majetku, zmluvných záväzkov, dedičstva aj nárokov vznikajúcich pri porušení práv a povinností. Ich riešenie môže vyžadovať právne posúdenie, rokovania s druhou stranou alebo uplatnenie nárokov na súde."
+        ],
+        "bold": "Poskytujeme právne služby jednotlivcom aj obchodným spoločnostiam pri riešení občianskoprávnych záležitostí.",
+        "after": "Pomáhame pri posudzovaní práv a povinností, príprave právnych dokumentov, mimosúdnom riešení sporov aj pri zastupovaní v súdnych konaniach.",
+        "cta": {
+          "text": "Dohodnite si konzultáciu",
+          "href": "/kontakt/"
+        },
+        "photo": {
+          "name": "garden_coffee",
+          "alt": ""
+        }
+      },
+      {
+        "type": "cardsSide",
+        "header": {
+          "eyebrow": "Naše služby",
+          "title": "Oblasti občianskeho práva, ktorým sa venujeme"
+        },
+        "items": [
+          {
+            "icon": "groups",
+            "title": "Dedičské konania a spory o dedičstvo",
+            "paras": [
+              "Poskytujeme právnu pomoc v dedičských konaniach vrátane dodatočných konaní o dedičstve, ak sa po skončení pôvodného konania zistí ďalší majetok poručiteľa.",
+              "Pomáhame pri riešení sporných otázok medzi dedičmi, preverovaní vlastníckych vzťahov k zdedenému majetku a pri uplatňovaní práv súvisiacich s dedičstvom."
+            ],
+            "photo": {
+              "name": "family_meeting",
+              "position": "33% 50%",
+              "alt": ""
+            }
+          },
+          {
+            "icon": "payments",
+            "title": "Náhrada škody",
+            "paras": [
+              "Posudzujeme nároky na náhradu škody vzniknutej porušením právnych povinností, poškodením majetku alebo iným protiprávnym konaním.",
+              "Zastupujeme poškodených pri uplatňovaní ich nárokov, ako aj osoby, voči ktorým sú nároky na náhradu škody uplatňované. Súčasťou právnej pomoci je posúdenie zodpovednosti za škodu, jej rozsahu a možností mimosúdneho a súdneho riešenia."
+            ],
+            "photo": {
+              "name": "cracked_wall",
+              "position": "75% 50%",
+              "alt": ""
+            }
+          },
+          {
+            "icon": "home",
+            "title": "Bezdôvodné obohatenie",
+            "paras": [
+              "Bezdôvodné obohatenie môže vzniknúť napríklad užívaním cudzej nehnuteľnosti bez právneho dôvodu, prijatím plnenia bez právneho titulu alebo plnením z právneho dôvodu, ktorý následne odpadol.",
+              "V týchto prípadoch posudzujeme vznik a rozsah nároku na vydanie bezdôvodného obohatenia a zastupujeme klientov pri jeho uplatňovaní alebo obrane proti nemu."
+            ],
+            "photo": {
+              "name": "euro_desk",
+              "position": "68% 50%",
+              "alt": ""
+            }
+          },
+          {
+            "icon": "diversity_1",
+            "title": "Zrušenie a vyporiadanie bezpodielového spoluvlastníctva manželov",
+            "paras": [
+              "Poskytujeme právne služby pri zrušení a vyporiadaní bezpodielového spoluvlastníctva manželov (BSM), najmä pri usporiadaní vlastníckych vzťahov k nehnuteľnostiam, finančným prostriedkom, záväzkom a ďalšiemu spoločnému majetku.",
+              "Pripravujeme dohody o vyporiadaní BSM a zastupujeme klientov pri rokovaniach aj v súdnych konaniach, ak sa manželia na vyporiadaní nedohodnú."
+            ],
+            "photo": {
+              "name": "couple_kitchen",
+              "position": "50% 35%",
+              "alt": ""
+            }
+          },
+          {
+            "icon": "description",
+            "title": "Ďalšie občianskoprávne záležitosti",
+            "paras": [
+              "Poskytujeme právnu pomoc aj pri ďalších otázkach občianskeho práva, najmä pri ochrane vlastníckych a iných majetkových práv, riešení sporov zo zmluvných vzťahov a uplatňovaní alebo obrane proti občianskoprávnym nárokom.",
+              "Rozsah právnej pomoci závisí od povahy konkrétneho prípadu a právnych otázok, ktoré je potrebné vyriešiť."
+            ],
+            "photo": {
+              "name": "garden_tree",
+              "alt": ""
+            }
+          }
+        ]
+      },
+      {
+        "type": "splitBand",
+        "eyebrow": "Náš prístup",
+        "title": "Mimosúdne riešenie a súdne zastupovanie",
+        "paras": [
+          "Nie každý občianskoprávny spor musí viesť k súdnemu konaniu. V závislosti od okolností prípadu môže byť vhodným riešením dohoda, ktorej dosiahnutiu predchádza právne posúdenie, príprava výzvy alebo rokovanie s druhou stranou.",
+          "Ak mimosúdne riešenie nie je možné alebo vhodné, zabezpečujeme zastupovanie pri uplatňovaní a ochrane práv v súdnom konaní."
+        ],
+        "photo": {
+          "name": "court_steps",
+          "alt": ""
+        },
+        "side": "right",
+        "bg": "sand"
+      },
+      {
+        "type": "contactBand",
+        "title": "Potrebujete právnu pomoc v občianskoprávnej záležitosti?",
+        "paras": [
+          "Ak riešite dedičstvo, majetkový spor, nárok na náhradu škody, bezdôvodné obohatenie alebo inú občianskoprávnu otázku, obráťte sa na nás.",
+          "Po oboznámení sa s Vašou situáciou posúdime právne možnosti a navrhneme ďalší postup."
+        ],
+        "cta": {
+          "text": "Dohodnite si konzultáciu",
+          "href": "/kontakt/"
+        },
+        "photo": {
+          "name": "band1",
+          "alt": ""
+        }
+      }
+    ]
+  },
+  "en": {
+    "sections": [
+      {
+        "type": "hero",
+        "label": null,
+        "title": "Civil law",
+        "intro": [
+          "Civil-law relationships concern the ownership of property, contractual obligations, inheritance and claims arising from breaches of rights and obligations. Resolving them may require a legal assessment, negotiations with the other party or asserting claims in court."
+        ],
+        "bold": "We provide legal services to individuals and companies in civil-law matters.",
+        "after": "We help with assessing rights and obligations, preparing legal documents and resolving disputes out of court, and we provide representation in court proceedings.",
+        "cta": {
+          "text": "Book a consultation",
+          "href": "/en/contact/"
+        },
+        "photo": {
+          "name": "garden_coffee",
+          "alt": ""
+        }
+      },
+      {
+        "type": "cardsSide",
+        "header": {
+          "eyebrow": "Our services",
+          "title": "Areas of civil law we cover"
+        },
+        "items": [
+          {
+            "icon": "groups",
+            "title": "Inheritance proceedings and inheritance disputes",
+            "paras": [
+              "We provide legal assistance in inheritance proceedings, including supplementary inheritance proceedings where further assets of the deceased are discovered after the original proceedings have ended.",
+              "We help to resolve disputed issues between heirs, to review the ownership of inherited property and to assert rights relating to an inheritance."
+            ],
+            "photo": {
+              "name": "family_meeting",
+              "position": "33% 50%",
+              "alt": ""
+            }
+          },
+          {
+            "icon": "payments",
+            "title": "Compensation for damage",
+            "paras": [
+              "We assess claims for compensation for damage caused by a breach of legal obligations, damage to property or other unlawful conduct.",
+              "We represent injured parties in asserting their claims, as well as persons against whom claims for compensation for damage are brought. Our legal assistance includes assessing liability for the damage, its extent and the options for out-of-court and court resolution."
+            ],
+            "photo": {
+              "name": "cracked_wall",
+              "position": "75% 50%",
+              "alt": ""
+            }
+          },
+          {
+            "icon": "home",
+            "title": "Unjust enrichment",
+            "paras": [
+              "Unjust enrichment may arise, for example, from using someone else's property without legal grounds, from receiving performance without legal title, or from performance on legal grounds that subsequently ceased to exist.",
+              "In these cases, we assess whether a claim for the surrender of unjust enrichment has arisen and its extent, and we represent clients in asserting such a claim or defending against it."
+            ],
+            "photo": {
+              "name": "euro_desk",
+              "position": "68% 50%",
+              "alt": ""
+            }
+          },
+          {
+            "icon": "diversity_1",
+            "title": "Dissolution and settlement of community property of spouses",
+            "paras": [
+              "We provide legal services in the dissolution and settlement of community property of spouses (bezpodielové spoluvlastníctvo manželov, BSM), in particular in arranging the ownership of real estate, funds, debts and other joint property.",
+              "We prepare agreements on the settlement of community property (BSM) and represent clients in negotiations and in court proceedings if the spouses cannot agree on the settlement."
+            ],
+            "photo": {
+              "name": "couple_kitchen",
+              "position": "50% 35%",
+              "alt": ""
+            }
+          },
+          {
+            "icon": "description",
+            "title": "Other civil-law matters",
+            "paras": [
+              "We also provide legal assistance with other civil-law issues, in particular the protection of ownership and other property rights, the resolution of disputes arising from contractual relationships, and asserting or defending against civil-law claims.",
+              "The scope of legal assistance depends on the nature of the specific case and the legal questions that need to be resolved."
+            ],
+            "photo": {
+              "name": "garden_tree",
+              "alt": ""
+            }
+          }
+        ]
+      },
+      {
+        "type": "splitBand",
+        "eyebrow": "Our approach",
+        "title": "Out-of-court resolution and court representation",
+        "paras": [
+          "Not every civil-law dispute has to lead to court proceedings. Depending on the circumstances of the case, an appropriate solution may be an agreement, reached after a legal assessment, the preparation of a demand letter or negotiations with the other party.",
+          "If an out-of-court solution is not possible or appropriate, we provide representation in asserting and protecting rights in court proceedings."
+        ],
+        "photo": {
+          "name": "court_steps",
+          "alt": ""
+        },
+        "side": "right",
+        "bg": "sand"
+      },
+      {
+        "type": "contactBand",
+        "eyebrow": "Contact",
+        "title": "Do you need legal help with a civil-law matter?",
+        "paras": [
+          "If you are dealing with an inheritance, a property dispute, a claim for compensation for damage, unjust enrichment or another civil-law issue, contact us.",
+          "Once we are familiar with your situation, we will assess the legal options and propose the next steps."
+        ],
+        "cta": {
+          "text": "Book a consultation",
+          "href": "/en/contact/"
+        },
+        "photo": {
+          "name": "band1",
+          "alt": ""
+        }
+      }
+    ]
+  }
+}

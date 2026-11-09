@@ -8,7 +8,7 @@
 
 const fs = require('fs');
 const path = require('path');
-const { ROOT, SITE, SITE_NAME, PAGES, ARTICLES_URL, abs, loadTranslations, checkIcons } = require('./site');
+const { ROOT, SITE, CONTACT, loadSiteConfig, SITE_NAME, PAGES, ARTICLES_URL, abs, loadTranslations, checkIcons } = require('./site');
 
 const PRELOAD_FONTS = ['newsreader.woff2', 'manrope.woff2', 'material-symbols-outlined-subset.woff2'];
 const ROBOTS = 'index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1';
@@ -53,6 +53,37 @@ const SPECULATION_RULES = {
     eagerness: 'moderate',
   }],
 };
+
+// Cookieless Umami analytics. Emitted only when umamiWebsiteId is set in content/site.config.json; with it empty
+// the pages carry no analytics markup at all. data-domains keeps local / tunnel / preview hosts out of the stats.
+let analyticsCache;
+function analytics() {
+  if (analyticsCache !== undefined) return analyticsCache;
+  const { umamiWebsiteId: id, umamiScriptUrl: url } = loadSiteConfig();
+  if (id && !/^[0-9a-f-]{36}$/i.test(id)) throw new Error('site.config.json: umamiWebsiteId is not a UUID.');
+  analyticsCache = id ? { id, url } : null;
+  return analyticsCache;
+}
+
+// Page scripts call track(); it is a no-op when Umami is absent or blocked. Page scripts only reference it in
+// `analytics:start/end` blocks, which build-pages.js drops again when analytics is off.
+const ANALYTICS_HELPER = `function track(name, data) { if (window.umami) umami.track(name, data); }
+document.addEventListener('click', function (e) {
+  var a = e.target.closest && e.target.closest('a[href^="tel:"], a[href^="mailto:"]');
+  if (a) track(a.protocol === 'tel:' ? 'phone-click' : 'email-click', { page: location.pathname });
+});`;
+
+// The page view is sent by hand: pages prerendered by SPECULATION_RULES on hover are counted only once shown.
+const PAGEVIEW = "document.prerendering ? document.addEventListener('prerenderingchange', function () { umami.track(); }, { once: true }) : umami.track()";
+
+function analyticsHead() {
+  const a = analytics();
+  if (!a) return [];
+  return [
+    `<script defer src="${esc(a.url)}" data-website-id="${esc(a.id)}" data-domains="noveris.sk,www.noveris.sk" data-auto-track="false" onload="${PAGEVIEW}"></script>`,
+    `<script>\n${ANALYTICS_HELPER}\n</script>`,
+  ];
+}
 
 function jsonLd(obj) {
   return JSON.stringify(obj, null, 2).replace(/</g, '\\u003c');
@@ -128,9 +159,11 @@ function renderHead(lang, h) {
     '<link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32.png"/>',
     '<link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png"/>',
     ...PRELOADS,
+    ...(h.italicFont ? ['<link rel="preload" href="/assets/fonts/newsreader-italic.woff2" as="font" type="font/woff2" crossorigin/>'] : []),
     ...(h.lcpImage ? [`<link rel="preload" as="image" type="image/avif" imagesrcset="${h.lcpImage.srcset}" imagesizes="${h.lcpImage.sizes}" fetchpriority="high"/>`] : []),
     `<style>${inlineCss()}</style>`,
-    `<script type="speculationrules">${JSON.stringify(SPECULATION_RULES)}</script>`);
+    `<script type="speculationrules">${JSON.stringify(SPECULATION_RULES)}</script>`,
+    ...analyticsHead());
 
   if (h.jsonlds && h.jsonlds.length) {
     lines.push('', '<!-- Structured Data (JSON-LD) -->');
@@ -142,50 +175,46 @@ function renderHead(lang, h) {
 // ---------------------------------------------------------------- header
 
 // switchTo: { sk: url, en: url } or null (page has no counterpart => no switch)
+function logo(lang, h) {
+  return `<a href="${PAGES.home[lang]}" class="inline-flex shrink-0"><img src="/assets/logo.svg" alt="Noveris Legal" width="821" height="277" class="${h} w-auto invert"/></a>`;
+}
+
 function renderHeader(lang, active, switchTo) {
+  const { button } = require('./ui'); // lazy: ui.js requires this module
   const ui = UI[lang];
   const t = loadTranslations()[lang];
   const items = navItems(lang);
 
-  const desktop = items.map((it) => {
-    const on = it.id === active;
-    const state = on
-      ? 'text-[#735c00] dark:text-[#d0c5af] border-b border-[#735c00] pb-1'
-      : 'text-[#6d5b47] dark:text-[#d0c5af]';
-    return `<a class="nav-link font-label tracking-widest uppercase text-sm ${state} hover:text-[#735c00] transition-colors duration-300" href="${it.href}"${on ? ' aria-current="page"' : ''}>${it.label}</a>`;
-  }).join('\n');
+  const desktop = items.map((it) => (it.id === active
+    ? `<a href="${it.href}" aria-current="page" class="flex h-16 items-center border-b-2 border-copper font-label text-[14px] font-medium text-ink">${it.label}</a>`
+    : `<a href="${it.href}" class="flex h-16 items-center border-b-2 border-transparent font-label text-[14px] font-medium text-body transition-colors hover:text-copper">${it.label}</a>`)).join('\n');
 
   const mobile = items.map((it) => {
     const on = it.id === active;
-    const state = on ? 'text-[#735c00] font-bold' : 'text-[#6d5b47] hover:text-[#735c00]';
-    return `<a class="nav-link-mobile font-label tracking-widest uppercase text-sm ${state} transition-colors" href="${it.href}"${on ? ' aria-current="page"' : ''}>${it.label}</a>`;
+    return `<a href="${it.href}" class="block border-b border-line py-3.5 font-label text-[15px] font-medium transition-colors hover:text-copper ${on ? 'text-copper' : 'text-ink'}"${on ? ' aria-current="page"' : ''}>${it.label}</a>`;
   }).join('\n');
 
   let langSwitch = '';
   if (switchTo) {
     const link = (code, label, aria) => {
       const on = lang === code;
-      const cls = on ? 'text-[#735c00] font-bold' : 'text-[#6d5b47] dark:text-[#d0c5af] hover:text-[#735c00] transition-colors duration-300';
+      const cls = on ? 'text-ink' : 'text-muted transition-colors hover:text-copper';
       return `<a href="${switchTo[code]}" hreflang="${code}" lang="${code}" aria-label="${aria}" class="${cls}"${on ? ' aria-current="true"' : ''}>${label}</a>`;
     };
-    langSwitch = `${link('en', 'EN', ui.toEn)}
-<span class="text-outline-variant opacity-50" aria-hidden="true">|</span>
-${link('sk', 'SK', ui.toSk)}
+    langSwitch = `<div class="flex items-center gap-2 font-label text-[12px] font-semibold tracking-wider">${link('en', 'EN', ui.toEn)}<span class="text-line" aria-hidden="true">|</span>${link('sk', 'SK', ui.toSk)}</div>
 `;
   }
 
   return `<!-- ===== HEADER ===== -->
-<header class="bg-[#fcf9f2]/80 dark:bg-[#1c1c18]/80 backdrop-blur-md sticky top-0 w-full z-50 border-b border-outline-variant/20 px-8">
-<nav class="flex justify-between items-center w-full py-6 max-w-7xl mx-auto" aria-label="${ui.navLabel}">
-<div class="flex items-center shrink-0">
-<a href="${PAGES.home[lang]}"><img alt="Noveris Legal Logo" width="821" height="277" class="h-8 w-auto object-contain invert dark:invert-0" src="/assets/logo.svg"/></a>
-</div>
-<div class="hidden md:flex items-center justify-center space-x-12 flex-1" id="nav-links">
+<header class="sticky top-0 z-50 border-b border-line bg-paper/95 backdrop-blur">
+<nav class="mx-auto flex h-16 max-w-7xl items-center justify-between gap-6 px-6 lg:px-8" aria-label="${ui.navLabel}">
+${logo(lang, 'h-7')}
+<div class="hidden items-center gap-7 lg:flex" id="nav-links">
 ${desktop}
 </div>
-<div class="flex items-center space-x-4 font-label tracking-widest text-xs shrink-0">
-${langSwitch}<button id="mobile-menu-btn" onclick="toggleMobileMenu()" class="md:hidden ml-4 text-primary p-1" aria-label="${ui.menu}" aria-expanded="false">
-<span class="material-symbols-outlined text-2xl" aria-hidden="true">menu</span>
+<div class="flex items-center gap-4">
+${langSwitch}<button type="button" id="mobile-menu-btn" onclick="toggleMobileMenu()" class="-mr-2 p-2 text-ink transition-colors hover:text-copper lg:hidden" aria-label="${ui.menu}" aria-expanded="false">
+<span class="material-symbols-outlined text-[26px]" aria-hidden="true">menu</span>
 </button>
 </div>
 </nav>
@@ -194,20 +223,18 @@ ${langSwitch}<button id="mobile-menu-btn" onclick="toggleMobileMenu()" class="md
 <!-- Mobile menu drawer – kept outside <header>: the header's backdrop-filter
      makes it the containing block for fixed children in Safari, which would
      collapse this drawer to the header's height. -->
-<div id="mobile-menu" class="md:hidden fixed inset-0 z-[60] pointer-events-none opacity-0 transition-opacity duration-300">
-<div class="absolute inset-0 bg-black/40" onclick="toggleMobileMenu()"></div>
-<div id="mobile-menu-panel" class="absolute top-0 right-0 h-full w-72 bg-surface shadow-2xl translate-x-full transition-transform duration-300 ease-out flex flex-col">
-<div class="flex justify-between items-center px-8 py-6 border-b border-outline-variant/20">
-<span class="font-label uppercase tracking-widest text-xs text-outline">${ui.menu}</span>
-<button onclick="toggleMobileMenu()" aria-label="${ui.closeMenu}" class="text-primary p-1">
-<span class="material-symbols-outlined text-2xl" aria-hidden="true">close</span>
-</button>
+<div id="mobile-menu" inert class="pointer-events-none fixed inset-0 z-[60] opacity-0 transition-opacity duration-300 lg:hidden">
+<div class="absolute inset-0 bg-ink/40" onclick="toggleMobileMenu()"></div>
+<div id="mobile-menu-panel" role="dialog" aria-modal="true" aria-label="${ui.menu}" class="absolute right-0 top-0 h-full translate-x-full transition-transform duration-300 ease-out">
+<div class="flex h-full w-72 flex-col border-l border-line bg-paper shadow-2xl">
+<div class="flex h-16 items-center justify-between border-b border-line px-6">
+<span class="font-label text-[12px] font-semibold uppercase tracking-[0.16em] text-muted">${ui.menu}</span>
+<button type="button" id="mobile-menu-close" onclick="toggleMobileMenu()" aria-label="${ui.closeMenu}" class="-mr-2 p-2 text-ink transition-colors hover:text-copper"><span class="material-symbols-outlined text-[26px]" aria-hidden="true">close</span></button>
 </div>
-<div class="flex flex-col px-8 py-8 space-y-6 flex-1">
+<div class="flex-1 overflow-y-auto px-6 py-2">
 ${mobile}
 </div>
-<div class="px-8 py-6 border-t border-outline-variant/20">
-<a href="${PAGES.contact[lang]}" class="satin-button block text-center text-white px-8 py-4 rounded-md font-label uppercase tracking-widest text-sm">${t['home.hero.cta']}</a>
+<div class="border-t border-line p-6">${button(t['home.hero.cta'], PAGES.contact[lang], { full: true })}</div>
 </div>
 </div>
 </div>`;
@@ -218,15 +245,23 @@ ${mobile}
 function renderFooter(lang) {
   const t = loadTranslations()[lang];
   const copy = t['footer.copy'].replace('{year}', `<span id="footer-year">${new Date().getFullYear()}</span>`);
+  const menu = navItems(lang).map((it) => `<a href="${it.href}" class="py-1 lg:whitespace-nowrap font-label text-[14px] text-body transition-colors hover:text-copper">${it.label}</a>`).join('\n');
+  const row = (ic, text, href) => `<li class="flex items-center gap-3 text-[14px] text-body"><span class="material-symbols-outlined text-[20px] text-copper" aria-hidden="true">${ic}</span><span>${href ? `<a href="${href}" class="transition-colors hover:text-copper">${text}</a>` : text}</span></li>`;
   return `<!-- ===== FOOTER ===== -->
-<footer class="bg-[#dcdad3] dark:bg-[#2a2621] w-full px-8 py-12 flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
-<div class="text-xl font-serif text-[#6d5b47] dark:text-[#fcf9f2]">
-<a href="${PAGES.home[lang]}"><img alt="Noveris Legal Logo" width="821" height="277" class="h-6 w-auto object-contain opacity-80 hover:opacity-100 transition-opacity invert dark:invert-0" src="/assets/logo.svg"/></a>
-</div>
-<div class="text-[#6d5b47] dark:text-[#fcf9f2] font-body text-xs" id="footer-copy">
-    ${copy}
-</div>
-</footer>
+<footer class="border-t border-line bg-paper"><div class="mx-auto max-w-7xl px-6 lg:px-8">
+<div class="grid gap-10 py-12 md:grid-cols-3 md:gap-0 lg:grid-cols-[1fr_1.4fr_1fr]">
+<div class="md:pr-10">${logo(lang, 'h-8')}<p class="mt-4 text-[14px] text-body">${t['footer.tagline']}</p></div>
+<nav aria-label="${t['footer.nav']}" class="md:border-l md:border-line md:px-10"><div class="grid grid-cols-2 gap-x-6">
+${menu}
+</div></nav>
+<ul class="space-y-3 md:border-l md:border-line md:pl-10">
+${row('call', CONTACT.phone, CONTACT.phoneHref)}
+${row('mail', CONTACT.email, `mailto:${CONTACT.email}`)}
+${row('location_on', CONTACT.address)}
+</ul></div>
+<div class="flex flex-col gap-2 border-t border-line py-5 text-[13px] text-muted sm:flex-row sm:items-center sm:justify-between" id="footer-copy">
+<p>${copy}</p><a href="${PAGES.privacy.sk}"${lang === 'sk' ? '' : ' hreflang="sk" lang="sk"'} class="transition-colors hover:text-copper hover:underline">${t['footer.privacy']}</a>
+</div></div></footer>
 
 <script>
 (function () {
@@ -242,16 +277,33 @@ function renderFooter(lang) {
             panel.classList.add('translate-x-full');
             menu.classList.remove('opacity-100', 'pointer-events-auto');
             menu.classList.add('opacity-0', 'pointer-events-none');
+            menu.setAttribute('inert', '');
             btn.setAttribute('aria-expanded', 'false');
             document.body.style.overflow = '';
+            btn.focus();
         } else {
             menu.classList.remove('opacity-0', 'pointer-events-none');
             menu.classList.add('opacity-100', 'pointer-events-auto');
             panel.classList.remove('translate-x-full');
+            menu.removeAttribute('inert');
             btn.setAttribute('aria-expanded', 'true');
             document.body.style.overflow = 'hidden';
+            document.getElementById('mobile-menu-close').focus();
         }
     };
+    document.addEventListener('keydown', function (e) {
+        var m = document.getElementById('mobile-menu');
+        if (!m || !m.classList.contains('pointer-events-auto')) return;
+        if (e.key === 'Escape') { window.toggleMobileMenu(); return; }
+        if (e.key !== 'Tab') return;
+        // Keep Tab inside the open drawer panel.
+        var f = document.getElementById('mobile-menu-panel').querySelectorAll('a[href], button');
+        if (!f.length) return;
+        var first = f[0], last = f[f.length - 1], cur = document.activeElement;
+        if (!m.contains(cur)) { e.preventDefault(); first.focus(); }
+        else if (e.shiftKey && cur === first) { e.preventDefault(); last.focus(); }
+        else if (!e.shiftKey && cur === last) { e.preventDefault(); first.focus(); }
+    });
 })();
 </script>`;
 }
@@ -263,11 +315,14 @@ function renderDocument({ generated, lang, active, switchTo, head, main, bodyScr
   // The eager (LCP) <picture> is preloaded with the very same AVIF srcset/sizes, so the browser fetches the candidate it will use.
   const m = /<picture>\s*<source type="image\/avif" srcset="([^"]*)" sizes="([^"]*)"\/>\s*<img [^>]*fetchpriority="high"/.exec(main);
   if (m) head = { ...head, lcpImage: { srcset: m[1], sizes: m[2] } };
+  // The italic Newsreader is only preloaded when the heading above the fold uses it (an italic span up to the first </h1>).
+  const h1End = main.indexOf('</h1>');
+  if (h1End !== -1 && /class="[^"]*\bitalic\b/.test(main.slice(0, h1End))) head = { ...head, italicFont: true };
   return `<!DOCTYPE html>
 ${generated}
 <html class="light" lang="${lang}">
 ${renderHead(lang, head)}
-<body class="bg-background text-on-surface font-body selection:bg-primary-fixed selection:text-on-primary-fixed">
+<body class="bg-paper text-body font-body text-[15px] leading-[1.6] antialiased">
 
 ${renderHeader(lang, active, switchTo)}
 
@@ -293,4 +348,4 @@ function alternatesFor(id) {
   ];
 }
 
-module.exports = { SITE, esc, jsonLd, ROBOTS, LOCALES, renderHead, renderHeader, renderFooter, renderDocument, alternatesFor };
+module.exports = { SITE, analytics, esc, jsonLd, ROBOTS, LOCALES, renderHead, renderHeader, renderFooter, renderDocument, alternatesFor };

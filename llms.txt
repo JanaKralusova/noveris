@@ -14,12 +14,12 @@
 Noveris Legal combines legal precision with a human approach. Founded by Mgr. Jana Králusová, the firm focuses on functional and predictable law, tailored to the specific context and real-world circumstances of the client rather than just strict legal theory. The core values are Trust, Responsibility, and Transparency.
 
 ## Areas of Expertise (Služby)
-1. **Real Estate Law (Právo nehnuteľností)**: Real estate transfers, land law, settlement of ownership relations (including unknown owners), protection of property rights.
-2. **Contract Law (Zmluvná agenda)**: Preparation, drafting, assessment, and revision of contracts, contract negotiations, and contract disputes.
-3. **Civil Law (Občianske právo)**: Comprehensive civil law, inheritance, damage compensation, unjust enrichment, and marital property settlement.
-4. **Corporate Law (Obchodné právo)**: Establishing/modifying companies, corporate agenda, contractual documentation, and liquidations.
-5. **Dispute Resolution (Riešenie sporov)**: Representing clients in court, arbitration, and administrative proceedings.
-6. **Debt Recovery (Vymáhanie pohľadávok)**: Out-of-court and court debt recovery, including enforcement proceedings.
+1. **[Settlement of Land and Ownership Relations (Vysporiadanie pozemkov a vlastníckych vzťahov)](https://noveris.sk/sluzby/vysporiadanie-pozemkov/)**: Settlement of land with complicated ownership relations, including cases involving the Slovak Land Fund, deceased owners, duplicate ownership or dissolved companies; land under buildings and in sites (sub-page: https://noveris.sk/sluzby/vysporiadanie-pozemkov/pozemky-pod-stavbami/).
+2. **[Real Estate & Development (Nehnuteľnosti a development)](https://noveris.sk/sluzby/nehnutelnosti-a-development/)**: Purchase and sale of real estate, development projects and investment plans, legal review of real estate, lease relations, easements, construction law.
+3. **[Contract Law (Zmluvná agenda)](https://noveris.sk/sluzby/zmluvna-agenda/)**: Preparation, assessment and revision of contracts, negotiation of contract terms and resolution of disputes arising from contractual relationships.
+4. **[Civil Law (Občianske právo)](https://noveris.sk/sluzby/obcianske-pravo/)**: Inheritance proceedings and inheritance disputes, damage compensation, unjust enrichment, dissolution and settlement of marital community property.
+5. **[Corporate Law (Obchodné právo)](https://noveris.sk/sluzby/obchodne-pravo/)**: Establishing and modifying business companies, corporate agenda, contractual documentation and company liquidation.
+6. **[Dispute Resolution (Riešenie sporov)](https://noveris.sk/sluzby/riesenie-sporov/)**: Out-of-court and court dispute resolution, debt recovery and representation in court and administrative proceedings.
 
 <!-- pages-en:start -->
 ## Website Pages
@@ -38,7 +38,7 @@ Practical articles in Slovak. Full text of all articles: https://noveris.sk/llms
 
 - [Nevysporiadaný pozemok: Ako zistiť vlastníka a vyriešiť vlastnícke vzťahy?](https://noveris.sk/clanky/nevysporiadany-pozemok/): Nevysporiadaný pozemok: ako zistiť vlastníka, čo znamená zosnulý či SPF na liste vlastníctva a aké možnosti vysporiadania prichádzajú do úvahy.
 - [Na liste vlastníctva je uvedená zomrelá osoba. Ako postupovať?](https://noveris.sk/clanky/zosnuly-na-liste-vlastnictva/): Zomrelá osoba na liste vlastníctva: prečo tam zostala, kedy treba dodatočné konanie o dedičstve a ako usporiadať vlastníctvo pred predajom pozemku.
-- [Slovenský pozemkový fond na liste vlastníctva: Čo to znamená a ako postupovať?](https://noveris.sk/clanky/slovensky-pozemkovy-fond-na-liste-vlastnictva/): SPF na liste vlastníctva: kedy ide o štátny pozemok a kedy o pozemok neznámeho vlastníka a aké možnosti vysporiadania pri zápise fondu existujú.
+- [Slovenský pozemkový fond na liste vlastníctva: Čo to znamená a ako postupovať?](https://noveris.sk/clanky/slovensky-pozemkovy-fond-na-liste-vlastnictva/): Slovenský pozemkový fond na liste vlastníctva neznamená vždy, že pozemok patrí štátu. Čo zápis SPF znamená a ako pozemok odkúpiť alebo vysporiadať.
 - [Ako odkúpiť pozemok od Slovenského pozemkového fondu?](https://noveris.sk/clanky/odkupenie-pozemku-od-spf/): Odkúpenie pozemku od SPF: kedy je prevod možný, čo má obsahovať žiadosť, ako kúpa prebieha a kedy zabezpečiť geometrický plán či znalecký posudok.
 - [Pozemok vo vlastníctve Slovenskej republiky: Ako ho možno odkúpiť?](https://noveris.sk/clanky/odkupenie-statneho-pozemku/): Odkúpenie štátneho pozemku: ako zistiť správcu, kedy prichádza prevod do úvahy, čo rozhoduje pri posúdení žiadosti a z čoho sa skladajú náklady.
 - [Na liste vlastníctva je zapísaná zaniknutá spoločnosť. Ako vysporiadať pozemok?](https://noveris.sk/clanky/pozemok-zaniknutej-spolocnosti/): Pozemok zaniknutej spoločnosti: ako zistiť právneho nástupcu, kedy slúži dodatočná likvidácia a s kým možno rokovať o odkúpení alebo vysporiadaní pozemku.
@@ -46,15 +46,25 @@ Practical articles in Slovak. Full text of all articles: https://noveris.sk/llms
 - [Parcela registra C nemá založený list vlastníctva. Čo to znamená?](https://noveris.sk/clanky/parcela-c-bez-listu-vlastnictva/): Parcela registra C bez listu vlastníctva neznamená pozemok bez vlastníka. Vysvetlíme väzbu na register E a ako zistiť, s kým riešiť kúpu pozemku.
 - [Ako zistiť, komu patrí pozemok, ak vlastník nie je uvedený v katastri?](https://noveris.sk/clanky/zistenie-vlastnika-ktory-nie-je-v-katastri/): Zistenie vlastníka pozemku v katastri: kde hľadať, keď meno chýba, ako pomôžu staré mapy, archívy a dedičské spisy a ako nájsť dnešného vlastníka.
 - [Ako zrušiť a vyporiadať podielové spoluvlastníctvo k pozemku?](https://noveris.sk/clanky/zrusenie-podieloveho-spoluvlastnictva/): Zrušenie podielového spoluvlastníctva pozemku: rozdelenie, prikázanie za náhradu či predaj, dohoda alebo súd. Pomôžeme posúdiť vhodné riešenie.
-- [Vydržanie pozemku: Kedy môžete získať pozemok, ktorý dlhodobo užívate?](https://noveris.sk/clanky/vydrzanie-pozemku/): Vydržanie pozemku: podmienky oprávnenej držby a dobromyseľnosti, či stačí desať rokov užívania, ako sa vydržanie preukazuje a či možno vydržať pozemok štátu či SPF.
+- [Vydržanie pozemku: Kedy môžete získať pozemok, ktorý dlhodobo užívate?](https://noveris.sk/clanky/vydrzanie-pozemku/): Vydržanie pozemku: podmienky oprávnenej držby a dobromyseľnosti, či stačí desať rokov užívania, ako sa vydržanie preukazuje a či možno vydržať pozemok štátu.
 - [Ako vysporiadať pozemok pod stavbou?](https://noveris.sk/clanky/pozemok-pod-stavbou/): Pozemok pod stavbou: ako ho vysporiadať odkúpením, vecným bremenom či nájmom a čo robiť pri neoprávnenej stavbe. Pomôžeme s hľadaním riešenia.
 - [Ako vyriešiť prístup k pozemku alebo stavbe cez cudzí alebo nevysporiadaný pozemok?](https://noveris.sk/clanky/pristup-k-pozemku-alebo-stavbe/): Prístup k pozemku alebo stavbe: čo preveriť, kedy pomôže vecné bremeno či dohoda a kedy môže právo cesty zriadiť súd. Pomôžeme s hľadaním riešenia.
 - [Ako vysporiadať pozemky po rodičoch alebo starých rodičoch, ktoré neboli prededené?](https://noveris.sk/clanky/neprededene-pozemky-po-rodicoch/): Neprededené pozemky po rodičoch: ako zistiť, ktoré v dedičstve chýbajú, ako prebieha dodatočné konanie a čo ak medzičasom zomreli ďalší dedičia.
 - [Čo robiť, ak spoluvlastník nesúhlasí s predajom alebo vyporiadaním pozemku?](https://noveris.sk/clanky/nesuhlas-spoluvlastnika-s-predajom/): Nesúhlas spoluvlastníka s predajom pozemku: kedy môžete predať len podiel, aké dohody pomáhajú a ako prebieha súdne vyporiadanie spoluvlastníctva.
-- [Koľko stojí vysporiadanie pozemku?](https://noveris.sk/clanky/kolko-stoji-vysporiadanie-pozemku/): Koľko stojí vysporiadanie pozemku: od čoho závisí cena, s akými výdavkami na právne služby, geodeta, znalca a poplatky počítať a kedy je dohoda lacnejšia ako súd.
+- [Koľko stojí vysporiadanie pozemku?](https://noveris.sk/clanky/kolko-stoji-vysporiadanie-pozemku/): Koľko stojí vysporiadanie pozemku: s akými výdavkami na právne služby, geodeta, znalca a poplatky počítať a kedy je dohoda lacnejšia ako súd.
 - [Vlastníte pozemok pod cestou? Aké máte možnosti vysporiadania?](https://noveris.sk/clanky/vysporiadanie-pozemku-pod-cestou/): Vlastníte pozemok pod cestou? S kým riešiť predaj či zámenu, kedy sa uplatní zákon č. 66/2009 Z. z. a kedy môžete mať nárok na náhradu za užívanie pozemku.
-- [Kúpna zmluva na pozemok: Čo má obsahovať a na čo si dať pozor?](https://noveris.sk/clanky/kupna-zmluva-na-pozemok/): Kúpna zmluva na pozemok: povinné náležitosti, bezpečné zaplatenie ceny, kúpa spoluvlastníckeho podielu, viacerí predávajúci a časť parcely podľa geometrického plánu.
+- [Kúpna zmluva na pozemok: Čo má obsahovať a na čo si dať pozor?](https://noveris.sk/clanky/kupna-zmluva-na-pozemok/): Kúpna zmluva na pozemok: povinné náležitosti, zaplatenie ceny, kúpa spoluvlastníckeho podielu, viacerí predávajúci a časť parcely podľa geometrického plánu.
 - [Vecné bremeno práva prechodu a prejazdu: Ako ho zriadiť a zapísať do katastra?](https://noveris.sk/clanky/vecne-bremeno-prechodu-a-prejazdu/): Vecné bremeno práva prechodu a prejazdu: rozdiel medzi in rem a in personam, čo má obsahovať zmluva, kedy treba geometrický plán a ako ho zapísať do katastra.
+- [Slovenský pozemkový fond nesúhlasí s predajom pozemku. Ako postupovať?](https://noveris.sk/clanky/spf-nesuhlasi-s-predajom-pozemku/): Slovenský pozemkový fond nesúhlasí s predajom pozemku: prečo môže predaj odmietnuť, či pomôže doplnenie žiadosti a aké iné riešenia prichádzajú do úvahy.
+- [Chyba v katastri: Ako opraviť údaje na liste vlastníctva alebo v katastrálnej mape?](https://noveris.sk/clanky/oprava-chyby-v-katastri/): Ako opraviť chybu v katastri: čo môže byť chybou na liste vlastníctva alebo v mape, ako sa podáva žiadosť o opravu a kedy treba riešiť vlastníctvo súdom.
+- [Ako odkúpiť pozemok od obce alebo mesta?](https://noveris.sk/clanky/odkupenie-pozemku-od-obce-alebo-mesta/): Odkúpenie pozemku od obce alebo mesta: čo preveriť pred žiadosťou, kedy treba súťaž alebo osobitný zreteľ, ako sa určuje cena a kedy sa stanete vlastníkom.
+- [Plot nezodpovedá hranici pozemku v katastri. Ako postupovať?](https://noveris.sk/clanky/plot-nezodpoveda-hranici-pozemku/): Plot nezodpovedá hranici pozemku v katastri: ako zistiť priebeh hranice vytýčením geodetom, čo robiť pri plote na susednom pozemku a kedy pomôže kataster.
+- [Ako rozdeliť spoločný pozemok medzi spoluvlastníkov?](https://noveris.sk/clanky/rozdelenie-spolocneho-pozemku/): Rozdelenie spoločného pozemku medzi spoluvlastníkov: ako navrhnúť nové parcely, kedy bráni zákaz drobenia, čo má obsahovať dohoda a čo ak niekto nesúhlasí.
+- [Duplicitné vlastníctvo pozemku: Čo robiť, keď kataster eviduje viacerých vlastníkov tej istej plochy?](https://noveris.sk/clanky/duplicitne-vlastnictvo-pozemku/): Duplicitné vlastníctvo pozemku: čo znamená poznámka o spochybnenej hodnovernosti údajov katastra, či možno pozemok predať a ako sa vlastnícky rozpor rieši.
+- [Ako zistiť históriu vlastníctva pozemku a dohľadať staré listiny?](https://noveris.sk/clanky/historia-vlastnictva-pozemku/): Ako zistiť históriu vlastníctva pozemku: kópia originálu listu vlastníctva, hľadanie starej zmluvy či dedičského rozhodnutia a pozemkovoknižná vložka.
+- [Vysporiadanie pozemku pred výstavbou: Čo treba vyriešiť?](https://noveris.sk/clanky/vysporiadanie-pozemku-pred-vystavbou/): Vysporiadanie pozemku pred výstavbou: čo robiť pri spoluvlastníckom podiele, zosnulom vlastníkovi alebo SPF, ako vyriešiť prístupovú cestu a prípojky.
+- [ROEP a ZRPS: Čo znamenajú pre vlastníctvo vášho pozemku?](https://noveris.sk/clanky/roep-a-zrps/): ROEP a ZRPS na liste vlastníctva: čo znamenajú, čím sa líšia, ako zistiť, čo sa zapísalo pri pozemku, a čo robiť, keď nesedí vlastník alebo podiel.
+- [Staré záložné právo na liste vlastníctva: Ako dosiahnuť jeho výmaz?](https://noveris.sk/clanky/vymaz-stareho-zalozneho-prava/): Staré záložné právo na liste vlastníctva: ako dosiahnuť výmaz po splatení úveru, čo ak neviete, ako vzniklo, či je premlčané a kedy je potrebný súd.
 <!-- articles-en:end -->
 
 ---
@@ -75,18 +85,25 @@ Practical articles in Slovak. Full text of all articles: https://noveris.sk/llms
 Noveris Legal spája právnu precíznosť s ľudským prístupom. Kanceláriu založila Mgr. Jana Králusová s cieľom poskytovať funkčné a predvídateľné právne služby. Riešenia sú šité na mieru konkrétnej situácii klienta, nielen na základe striktnej právnej teórie. Základnými hodnotami sú Dôvera, Zodpovednosť a Transparentnosť.
 
 ## Oblasti pôsobenia (Služby)
-1. **Právo nehnuteľností**: Prevod nehnuteľností, pozemkové právo, vysporiadanie vlastníckych a spoluvlastníckych vzťahov vrátane pozemkov s neznámymi vlastníkmi, ochrana vlastníckeho práva.
-2. **Zmluvná agenda**: Príprava a tvorba zmlúv, ich posudzovanie a revízia, zmluvné vyjednávanie a riešenie sporov zo zmluvných vzťahov.
-3. **Občianske právo**: Komplexná občianskoprávna agenda, dedenie, náhrada škody, bezdôvodné obohatenie a vyporiadanie BSM.
-4. **Obchodné právo**: Zakladanie a zmeny obchodných spoločností, korporátna agenda, zmluvná dokumentácia a likvidácia spoločností.
-5. **Riešenie sporov**: Zastupovanie klientov v rôznych typoch sporov vrátane súdnych, rozhodcovských a správnych konaní.
-6. **Vymáhanie pohľadávok**: Mimosúdne aj súdne vymáhanie pohľadávok vrátane zastupovania v exekučnom konaní.
+1. **[Vysporiadanie pozemkov a vlastníckych vzťahov](https://noveris.sk/sluzby/vysporiadanie-pozemkov/)**: Vysporiadanie pozemkov s komplikovanými vlastníckymi vzťahmi vrátane prípadov so Slovenským pozemkovým fondom, zosnulými vlastníkmi, duplicitným vlastníctvom či zaniknutými spoločnosťami; pozemky pod stavbami a v areáloch (podstránka: https://noveris.sk/sluzby/vysporiadanie-pozemkov/pozemky-pod-stavbami/).
+2. **[Nehnuteľnosti a development](https://noveris.sk/sluzby/nehnutelnosti-a-development/)**: Právne služby pri kúpe a predaji nehnuteľností, developerských projektoch a investičných zámeroch, preverovanie právneho stavu nehnuteľností, nájomné vzťahy, vecné bremená, stavebné právo.
+3. **[Zmluvná agenda](https://noveris.sk/sluzby/zmluvna-agenda/)**: Príprava, posudzovanie a revízia zmlúv, vyjednávanie zmluvných podmienok a riešenie sporov vyplývajúcich zo zmluvných vzťahov.
+4. **[Občianske právo](https://noveris.sk/sluzby/obcianske-pravo/)**: Dedičské konania a spory o dedičstvo, náhrada škody, bezdôvodné obohatenie, zrušenie a vyporiadanie bezpodielového spoluvlastníctva manželov.
+5. **[Obchodné právo](https://noveris.sk/sluzby/obchodne-pravo/)**: Zakladanie a zmeny obchodných spoločností, korporátna agenda, zmluvná dokumentácia a likvidácia spoločností.
+6. **[Riešenie sporov](https://noveris.sk/sluzby/riesenie-sporov/)**: Mimosúdne a súdne riešenie sporov, vymáhanie pohľadávok a zastupovanie v súdnych a správnych konaniach.
 
 <!-- pages-sk:start -->
 ## Stránky webu
 - [Domov](https://noveris.sk/)
 - [O nás](https://noveris.sk/o-nas/)
 - [Služby](https://noveris.sk/sluzby/)
+- [Vysporiadanie pozemkov a vlastníckych vzťahov](https://noveris.sk/sluzby/vysporiadanie-pozemkov/)
+- [Vysporiadanie pozemkov pod stavbami a v areáloch](https://noveris.sk/sluzby/vysporiadanie-pozemkov/pozemky-pod-stavbami/)
+- [Nehnuteľnosti a development](https://noveris.sk/sluzby/nehnutelnosti-a-development/)
+- [Zmluvná agenda](https://noveris.sk/sluzby/zmluvna-agenda/)
+- [Občianske právo](https://noveris.sk/sluzby/obcianske-pravo/)
+- [Obchodné právo](https://noveris.sk/sluzby/obchodne-pravo/)
+- [Riešenie sporov](https://noveris.sk/sluzby/riesenie-sporov/)
 - [Články](https://noveris.sk/clanky/)
 - [Kontakt](https://noveris.sk/kontakt/)
 - [Ochrana osobných údajov](https://noveris.sk/ochrana-osobnych-udajov/)
@@ -100,7 +117,7 @@ Praktické články o právnych situáciách. Úplné znenie všetkých článko
 
 - [Nevysporiadaný pozemok: Ako zistiť vlastníka a vyriešiť vlastnícke vzťahy?](https://noveris.sk/clanky/nevysporiadany-pozemok/): Nevysporiadaný pozemok: ako zistiť vlastníka, čo znamená zosnulý či SPF na liste vlastníctva a aké možnosti vysporiadania prichádzajú do úvahy.
 - [Na liste vlastníctva je uvedená zomrelá osoba. Ako postupovať?](https://noveris.sk/clanky/zosnuly-na-liste-vlastnictva/): Zomrelá osoba na liste vlastníctva: prečo tam zostala, kedy treba dodatočné konanie o dedičstve a ako usporiadať vlastníctvo pred predajom pozemku.
-- [Slovenský pozemkový fond na liste vlastníctva: Čo to znamená a ako postupovať?](https://noveris.sk/clanky/slovensky-pozemkovy-fond-na-liste-vlastnictva/): SPF na liste vlastníctva: kedy ide o štátny pozemok a kedy o pozemok neznámeho vlastníka a aké možnosti vysporiadania pri zápise fondu existujú.
+- [Slovenský pozemkový fond na liste vlastníctva: Čo to znamená a ako postupovať?](https://noveris.sk/clanky/slovensky-pozemkovy-fond-na-liste-vlastnictva/): Slovenský pozemkový fond na liste vlastníctva neznamená vždy, že pozemok patrí štátu. Čo zápis SPF znamená a ako pozemok odkúpiť alebo vysporiadať.
 - [Ako odkúpiť pozemok od Slovenského pozemkového fondu?](https://noveris.sk/clanky/odkupenie-pozemku-od-spf/): Odkúpenie pozemku od SPF: kedy je prevod možný, čo má obsahovať žiadosť, ako kúpa prebieha a kedy zabezpečiť geometrický plán či znalecký posudok.
 - [Pozemok vo vlastníctve Slovenskej republiky: Ako ho možno odkúpiť?](https://noveris.sk/clanky/odkupenie-statneho-pozemku/): Odkúpenie štátneho pozemku: ako zistiť správcu, kedy prichádza prevod do úvahy, čo rozhoduje pri posúdení žiadosti a z čoho sa skladajú náklady.
 - [Na liste vlastníctva je zapísaná zaniknutá spoločnosť. Ako vysporiadať pozemok?](https://noveris.sk/clanky/pozemok-zaniknutej-spolocnosti/): Pozemok zaniknutej spoločnosti: ako zistiť právneho nástupcu, kedy slúži dodatočná likvidácia a s kým možno rokovať o odkúpení alebo vysporiadaní pozemku.
@@ -108,13 +125,23 @@ Praktické články o právnych situáciách. Úplné znenie všetkých článko
 - [Parcela registra C nemá založený list vlastníctva. Čo to znamená?](https://noveris.sk/clanky/parcela-c-bez-listu-vlastnictva/): Parcela registra C bez listu vlastníctva neznamená pozemok bez vlastníka. Vysvetlíme väzbu na register E a ako zistiť, s kým riešiť kúpu pozemku.
 - [Ako zistiť, komu patrí pozemok, ak vlastník nie je uvedený v katastri?](https://noveris.sk/clanky/zistenie-vlastnika-ktory-nie-je-v-katastri/): Zistenie vlastníka pozemku v katastri: kde hľadať, keď meno chýba, ako pomôžu staré mapy, archívy a dedičské spisy a ako nájsť dnešného vlastníka.
 - [Ako zrušiť a vyporiadať podielové spoluvlastníctvo k pozemku?](https://noveris.sk/clanky/zrusenie-podieloveho-spoluvlastnictva/): Zrušenie podielového spoluvlastníctva pozemku: rozdelenie, prikázanie za náhradu či predaj, dohoda alebo súd. Pomôžeme posúdiť vhodné riešenie.
-- [Vydržanie pozemku: Kedy môžete získať pozemok, ktorý dlhodobo užívate?](https://noveris.sk/clanky/vydrzanie-pozemku/): Vydržanie pozemku: podmienky oprávnenej držby a dobromyseľnosti, či stačí desať rokov užívania, ako sa vydržanie preukazuje a či možno vydržať pozemok štátu či SPF.
+- [Vydržanie pozemku: Kedy môžete získať pozemok, ktorý dlhodobo užívate?](https://noveris.sk/clanky/vydrzanie-pozemku/): Vydržanie pozemku: podmienky oprávnenej držby a dobromyseľnosti, či stačí desať rokov užívania, ako sa vydržanie preukazuje a či možno vydržať pozemok štátu.
 - [Ako vysporiadať pozemok pod stavbou?](https://noveris.sk/clanky/pozemok-pod-stavbou/): Pozemok pod stavbou: ako ho vysporiadať odkúpením, vecným bremenom či nájmom a čo robiť pri neoprávnenej stavbe. Pomôžeme s hľadaním riešenia.
 - [Ako vyriešiť prístup k pozemku alebo stavbe cez cudzí alebo nevysporiadaný pozemok?](https://noveris.sk/clanky/pristup-k-pozemku-alebo-stavbe/): Prístup k pozemku alebo stavbe: čo preveriť, kedy pomôže vecné bremeno či dohoda a kedy môže právo cesty zriadiť súd. Pomôžeme s hľadaním riešenia.
 - [Ako vysporiadať pozemky po rodičoch alebo starých rodičoch, ktoré neboli prededené?](https://noveris.sk/clanky/neprededene-pozemky-po-rodicoch/): Neprededené pozemky po rodičoch: ako zistiť, ktoré v dedičstve chýbajú, ako prebieha dodatočné konanie a čo ak medzičasom zomreli ďalší dedičia.
 - [Čo robiť, ak spoluvlastník nesúhlasí s predajom alebo vyporiadaním pozemku?](https://noveris.sk/clanky/nesuhlas-spoluvlastnika-s-predajom/): Nesúhlas spoluvlastníka s predajom pozemku: kedy môžete predať len podiel, aké dohody pomáhajú a ako prebieha súdne vyporiadanie spoluvlastníctva.
-- [Koľko stojí vysporiadanie pozemku?](https://noveris.sk/clanky/kolko-stoji-vysporiadanie-pozemku/): Koľko stojí vysporiadanie pozemku: od čoho závisí cena, s akými výdavkami na právne služby, geodeta, znalca a poplatky počítať a kedy je dohoda lacnejšia ako súd.
+- [Koľko stojí vysporiadanie pozemku?](https://noveris.sk/clanky/kolko-stoji-vysporiadanie-pozemku/): Koľko stojí vysporiadanie pozemku: s akými výdavkami na právne služby, geodeta, znalca a poplatky počítať a kedy je dohoda lacnejšia ako súd.
 - [Vlastníte pozemok pod cestou? Aké máte možnosti vysporiadania?](https://noveris.sk/clanky/vysporiadanie-pozemku-pod-cestou/): Vlastníte pozemok pod cestou? S kým riešiť predaj či zámenu, kedy sa uplatní zákon č. 66/2009 Z. z. a kedy môžete mať nárok na náhradu za užívanie pozemku.
-- [Kúpna zmluva na pozemok: Čo má obsahovať a na čo si dať pozor?](https://noveris.sk/clanky/kupna-zmluva-na-pozemok/): Kúpna zmluva na pozemok: povinné náležitosti, bezpečné zaplatenie ceny, kúpa spoluvlastníckeho podielu, viacerí predávajúci a časť parcely podľa geometrického plánu.
+- [Kúpna zmluva na pozemok: Čo má obsahovať a na čo si dať pozor?](https://noveris.sk/clanky/kupna-zmluva-na-pozemok/): Kúpna zmluva na pozemok: povinné náležitosti, zaplatenie ceny, kúpa spoluvlastníckeho podielu, viacerí predávajúci a časť parcely podľa geometrického plánu.
 - [Vecné bremeno práva prechodu a prejazdu: Ako ho zriadiť a zapísať do katastra?](https://noveris.sk/clanky/vecne-bremeno-prechodu-a-prejazdu/): Vecné bremeno práva prechodu a prejazdu: rozdiel medzi in rem a in personam, čo má obsahovať zmluva, kedy treba geometrický plán a ako ho zapísať do katastra.
+- [Slovenský pozemkový fond nesúhlasí s predajom pozemku. Ako postupovať?](https://noveris.sk/clanky/spf-nesuhlasi-s-predajom-pozemku/): Slovenský pozemkový fond nesúhlasí s predajom pozemku: prečo môže predaj odmietnuť, či pomôže doplnenie žiadosti a aké iné riešenia prichádzajú do úvahy.
+- [Chyba v katastri: Ako opraviť údaje na liste vlastníctva alebo v katastrálnej mape?](https://noveris.sk/clanky/oprava-chyby-v-katastri/): Ako opraviť chybu v katastri: čo môže byť chybou na liste vlastníctva alebo v mape, ako sa podáva žiadosť o opravu a kedy treba riešiť vlastníctvo súdom.
+- [Ako odkúpiť pozemok od obce alebo mesta?](https://noveris.sk/clanky/odkupenie-pozemku-od-obce-alebo-mesta/): Odkúpenie pozemku od obce alebo mesta: čo preveriť pred žiadosťou, kedy treba súťaž alebo osobitný zreteľ, ako sa určuje cena a kedy sa stanete vlastníkom.
+- [Plot nezodpovedá hranici pozemku v katastri. Ako postupovať?](https://noveris.sk/clanky/plot-nezodpoveda-hranici-pozemku/): Plot nezodpovedá hranici pozemku v katastri: ako zistiť priebeh hranice vytýčením geodetom, čo robiť pri plote na susednom pozemku a kedy pomôže kataster.
+- [Ako rozdeliť spoločný pozemok medzi spoluvlastníkov?](https://noveris.sk/clanky/rozdelenie-spolocneho-pozemku/): Rozdelenie spoločného pozemku medzi spoluvlastníkov: ako navrhnúť nové parcely, kedy bráni zákaz drobenia, čo má obsahovať dohoda a čo ak niekto nesúhlasí.
+- [Duplicitné vlastníctvo pozemku: Čo robiť, keď kataster eviduje viacerých vlastníkov tej istej plochy?](https://noveris.sk/clanky/duplicitne-vlastnictvo-pozemku/): Duplicitné vlastníctvo pozemku: čo znamená poznámka o spochybnenej hodnovernosti údajov katastra, či možno pozemok predať a ako sa vlastnícky rozpor rieši.
+- [Ako zistiť históriu vlastníctva pozemku a dohľadať staré listiny?](https://noveris.sk/clanky/historia-vlastnictva-pozemku/): Ako zistiť históriu vlastníctva pozemku: kópia originálu listu vlastníctva, hľadanie starej zmluvy či dedičského rozhodnutia a pozemkovoknižná vložka.
+- [Vysporiadanie pozemku pred výstavbou: Čo treba vyriešiť?](https://noveris.sk/clanky/vysporiadanie-pozemku-pred-vystavbou/): Vysporiadanie pozemku pred výstavbou: čo robiť pri spoluvlastníckom podiele, zosnulom vlastníkovi alebo SPF, ako vyriešiť prístupovú cestu a prípojky.
+- [ROEP a ZRPS: Čo znamenajú pre vlastníctvo vášho pozemku?](https://noveris.sk/clanky/roep-a-zrps/): ROEP a ZRPS na liste vlastníctva: čo znamenajú, čím sa líšia, ako zistiť, čo sa zapísalo pri pozemku, a čo robiť, keď nesedí vlastník alebo podiel.
+- [Staré záložné právo na liste vlastníctva: Ako dosiahnuť jeho výmaz?](https://noveris.sk/clanky/vymaz-stareho-zalozneho-prava/): Staré záložné právo na liste vlastníctva: ako dosiahnuť výmaz po splatení úveru, čo ak neviete, ako vzniklo, či je premlčané a kedy je potrebný súd.
 <!-- articles-sk:end -->

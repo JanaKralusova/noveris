@@ -1,5 +1,6 @@
 User-agent: *
 Allow: /
 Disallow: /data/
+Disallow: /design-system/
 
 Sitemap: https://noveris.sk/sitemap.xml

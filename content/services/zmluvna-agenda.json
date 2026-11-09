@@ -1,0 +1,269 @@
+{
+  "sk": {
+    "sections": [
+      {
+        "type": "hero",
+        "label": null,
+        "title": "Zmluvná agenda",
+        "intro": [
+          "Zmluvy upravujú práva a povinnosti zmluvných strán a vytvárajú právny základ ich vzájomných vzťahov. Nejasné ustanovenia, nevýhodne nastavené podmienky alebo nedostatočná úprava zodpovednosti môžu viesť k sporom a finančným stratám."
+        ],
+        "bold": "Poskytujeme právne služby jednotlivcom, podnikateľom a obchodným spoločnostiam pri príprave, posudzovaní a vyjednávaní zmlúv.",
+        "after": "Pomáhame tiež pri riešení problémov vznikajúcich počas trvania zmluvného vzťahu a pri uplatňovaní nárokov z porušenia zmluvných povinností.",
+        "cta": {
+          "text": "Dohodnite si konzultáciu",
+          "href": "/kontakt/"
+        },
+        "photo": {
+          "name": "contract_paper",
+          "alt": ""
+        }
+      },
+      {
+        "type": "cardsTop",
+        "header": {
+          "eyebrow": "Naše služby",
+          "title": "Oblasti zmluvnej agendy, ktorým sa venujeme"
+        },
+        "items": [
+          {
+            "icon": "description",
+            "title": "Príprava zmlúv",
+            "paras": [
+              "Pripravujeme zmluvy podľa povahy konkrétneho právneho vzťahu a požiadaviek klienta. Dôraz kladieme na jednoznačné vymedzenie práv a povinností zmluvných strán, podmienok plnenia, zodpovednosti za porušenie povinností a možností ukončenia zmluvného vzťahu.",
+              "Súčasťou našich služieb je príprava občianskoprávnych aj obchodnoprávnych zmlúv vrátane súvisiacich dohôd a dodatkov."
+            ],
+            "photo": {
+              "name": "paperstack",
+              "alt": ""
+            }
+          },
+          {
+            "icon": "search",
+            "title": "Posudzovanie a revízia zmlúv",
+            "paras": [
+              "Pred podpisom zmluvy je dôležité poznať nielen jej obsah, ale aj právne a finančné dôsledky jednotlivých ustanovení.",
+              "Preskúmavame návrhy zmlúv predložené druhou stranou, identifikujeme právne riziká a navrhujeme úpravy ustanovení, ktoré môžu byť pre klienta nevýhodné, nejednoznačné alebo nedostatočné."
+            ],
+            "photo": {
+              "name": "laptop_notebook",
+              "alt": ""
+            }
+          },
+          {
+            "icon": "groups",
+            "title": "Vyjednávanie zmluvných podmienok",
+            "paras": [
+              "Pri uzatváraní zmlúv môže byť rozhodujúce správne nastavenie podmienok spolupráce, rozsahu zodpovednosti, zabezpečenia záväzkov či následkov porušenia zmluvy.",
+              "Zastupujeme klientov pri rokovaniach s druhou zmluvnou stranou a pri hľadaní zmluvného riešenia, ktoré zohľadňuje ich právne a obchodné záujmy."
+            ],
+            "photo": {
+              "name": "table2",
+              "alt": ""
+            }
+          },
+          {
+            "icon": "settings",
+            "title": "Zmeny a ukončenie zmluvných vzťahov",
+            "paras": [
+              "Počas trvania zmluvného vzťahu môže vzniknúť potreba zmeniť dohodnuté podmienky, upraviť rozsah plnenia alebo spoluprácu ukončiť.",
+              "Posudzujeme možnosti zmeny a skončenia zmluvných vzťahov, pripravujeme dodatky, dohody o ukončení zmlúv, výpovede a odstúpenia od zmlúv vrátane posúdenia ich právnych následkov."
+            ],
+            "photo": {
+              "name": "clipped_documents",
+              "alt": ""
+            }
+          },
+          {
+            "icon": "gavel",
+            "title": "Porušenie zmluvných povinností a zmluvné spory",
+            "paras": [
+              "Ak jedna zo zmluvných strán neplní svoje povinnosti, môže vzniknúť nárok na splnenie záväzku, zaplatenie zmluvnej pokuty, náhradu škody alebo uplatnenie ďalších práv vyplývajúcich zo zmluvy a zákona.",
+              "Preverujeme zmluvnú dokumentáciu, posudzujeme vzniknuté nároky a možnosti ich uplatnenia alebo obrany proti nim. Klientov zastupujeme pri mimosúdnom riešení sporov aj v súdnych konaniach."
+            ],
+            "photo": {
+              "name": "justice_dark",
+              "alt": ""
+            }
+          }
+        ]
+      },
+      {
+        "type": "splitBand",
+        "eyebrow": "Náš prístup",
+        "title": "Zmluvná dokumentácia pre podnikateľov a obchodné spoločnosti",
+        "paras": [
+          "Pri podnikateľských vzťahoch je dôležité, aby zmluvná dokumentácia zodpovedala charakteru obchodnej spolupráce a primerane upravovala riziká spojené s jej realizáciou.",
+          "Okrem individuálnych zmlúv sa venujeme aj príprave a revízii rámcových zmlúv, obchodných podmienok a ďalšej dokumentácie používanej pri opakovaných obchodných vzťahoch.",
+          "Pri posudzovaní zmlúv zohľadňujeme nielen ich právne znenie, ale aj spôsob, akým má spolupráca fungovať v praxi."
+        ],
+        "photo": {
+          "name": "atrium_plants",
+          "alt": ""
+        },
+        "side": "right",
+        "bg": "sand"
+      },
+      {
+        "type": "prose",
+        "eyebrow": "Náš prístup",
+        "title": "Právna pomoc počas celého zmluvného vzťahu",
+        "paras": [
+          "Právne otázky nemusia vzniknúť iba pri uzatváraní zmluvy. Rovnako dôležité môže byť posúdenie jej výkladu, plnenia dohodnutých povinností, zmien podmienok alebo možností ukončenia spolupráce.",
+          "Rozsah právnej pomoci prispôsobujeme konkrétnej situácii – od posúdenia jednotlivého ustanovenia až po prípravu rozsiahlejšej zmluvnej dokumentácie alebo riešenie vzniknutého sporu."
+        ],
+        "bg": "paper"
+      },
+      {
+        "type": "contactBand",
+        "title": "Potrebujete pripraviť alebo posúdiť zmluvu?",
+        "paras": [
+          "Ak pripravujete uzatvorenie zmluvy, potrebujete preveriť jej podmienky alebo riešite problém vyplývajúci z existujúceho zmluvného vzťahu, obráťte sa na nás.",
+          "Po oboznámení sa s Vašou situáciou posúdime právne možnosti a navrhneme ďalší postup."
+        ],
+        "cta": {
+          "text": "Dohodnite si konzultáciu",
+          "href": "/kontakt/"
+        },
+        "photo": {
+          "name": "band4",
+          "alt": ""
+        }
+      }
+    ]
+  },
+  "en": {
+    "sections": [
+      {
+        "type": "hero",
+        "label": null,
+        "title": "Contract law",
+        "intro": [
+          "Contracts govern the rights and obligations of the contracting parties and create the legal basis for their relationship. Unclear provisions, unfavourable terms or inadequate provisions on liability can lead to disputes and financial losses."
+        ],
+        "bold": "We provide legal services to individuals, entrepreneurs and companies in the drafting, review and negotiation of contracts.",
+        "after": "We also help to resolve problems that arise during a contractual relationship and to assert claims for breach of contractual obligations.",
+        "cta": {
+          "text": "Book a consultation",
+          "href": "/en/contact/"
+        },
+        "photo": {
+          "name": "contract_paper",
+          "alt": ""
+        }
+      },
+      {
+        "type": "cardsTop",
+        "header": {
+          "eyebrow": "Our services",
+          "title": "Areas of contract law we cover"
+        },
+        "items": [
+          {
+            "icon": "description",
+            "title": "Drafting contracts",
+            "paras": [
+              "We draft contracts according to the nature of the specific legal relationship and the client's requirements. We place emphasis on clearly defining the rights and obligations of the parties, the terms of performance, liability for breach of obligations and the options for terminating the contractual relationship.",
+              "Our services include drafting both civil-law and commercial-law contracts, including related agreements and amendments."
+            ],
+            "photo": {
+              "name": "paperstack",
+              "alt": ""
+            }
+          },
+          {
+            "icon": "search",
+            "title": "Contract review and revision",
+            "paras": [
+              "Before signing a contract, it is important to know not only its content but also the legal and financial consequences of its individual provisions.",
+              "We examine draft contracts submitted by the other party, identify legal risks and propose amendments to provisions that may be unfavourable, ambiguous or inadequate for the client."
+            ],
+            "photo": {
+              "name": "laptop_notebook",
+              "alt": ""
+            }
+          },
+          {
+            "icon": "groups",
+            "title": "Negotiating contract terms",
+            "paras": [
+              "When contracts are concluded, getting the terms of cooperation, the scope of liability, the security for obligations and the consequences of breach right can be decisive.",
+              "We represent clients in negotiations with the other contracting party and in finding a contractual solution that takes their legal and business interests into account."
+            ],
+            "photo": {
+              "name": "table2",
+              "alt": ""
+            }
+          },
+          {
+            "icon": "settings",
+            "title": "Amending and terminating contractual relationships",
+            "paras": [
+              "During a contractual relationship, it may become necessary to change the agreed terms, adjust the scope of performance or end the cooperation.",
+              "We assess the options for amending and terminating contractual relationships and prepare amendments, termination agreements, notices of termination and withdrawals from contracts, including an assessment of their legal consequences."
+            ],
+            "photo": {
+              "name": "clipped_documents",
+              "alt": ""
+            }
+          },
+          {
+            "icon": "gavel",
+            "title": "Breach of contractual obligations and contractual disputes",
+            "paras": [
+              "If one of the parties fails to fulfil its obligations, there may be a claim for performance of the obligation, payment of a contractual penalty, compensation for damage or the exercise of other rights arising from the contract and the law.",
+              "We review the contractual documentation and assess the claims that have arisen and the options for asserting them or defending against them. We represent clients both in out-of-court dispute resolution and in court proceedings."
+            ],
+            "photo": {
+              "name": "justice_dark",
+              "alt": ""
+            }
+          }
+        ]
+      },
+      {
+        "type": "splitBand",
+        "eyebrow": "Our approach",
+        "title": "Contractual documentation for entrepreneurs and companies",
+        "paras": [
+          "In business relationships, it is important that the contractual documentation reflects the nature of the commercial cooperation and adequately addresses the risks associated with it.",
+          "In addition to individual contracts, we also draft and revise framework agreements, terms and conditions and other documentation used in recurring business relationships.",
+          "When reviewing contracts, we consider not only their legal wording but also how the cooperation is meant to work in practice."
+        ],
+        "photo": {
+          "name": "atrium_plants",
+          "alt": ""
+        },
+        "side": "right",
+        "bg": "sand"
+      },
+      {
+        "type": "prose",
+        "eyebrow": "Our approach",
+        "title": "Legal assistance throughout the contractual relationship",
+        "paras": [
+          "Legal questions do not arise only when a contract is concluded. Assessing its interpretation, the performance of the agreed obligations, changes to the terms or the options for ending the cooperation can be just as important.",
+          "We tailor the scope of our legal assistance to the specific situation – from assessing a single provision to preparing more extensive contractual documentation or resolving a dispute that has arisen."
+        ],
+        "bg": "paper"
+      },
+      {
+        "type": "contactBand",
+        "eyebrow": "Contact",
+        "title": "Do you need a contract drafted or reviewed?",
+        "paras": [
+          "If you are preparing to conclude a contract, need its terms reviewed or are dealing with a problem arising from an existing contractual relationship, contact us.",
+          "Once we are familiar with your situation, we will assess the legal options and propose the next steps."
+        ],
+        "cta": {
+          "text": "Book a consultation",
+          "href": "/en/contact/"
+        },
+        "photo": {
+          "name": "band4",
+          "alt": ""
+        }
+      }
+    ]
+  }
+}

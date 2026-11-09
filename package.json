@@ -10,7 +10,8 @@
     "build:articles": "node scripts/build-articles.js",
     "build:owners": "node --max-old-space-size=6144 scripts/build-owners-data.js",
     "build:site": "node scripts/build.js",
-    "build": "npm run build:css && npm run build:site"
+    "build": "npm run build:css && npm run build:site",
+    "test": "node --test tests/*.test.js"
   },
   "author": "Noveris Legal",
   "license": "UNLICENSED",

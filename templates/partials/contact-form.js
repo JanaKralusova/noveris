@@ -26,11 +26,13 @@
 
             if (!isFieldValid) {
                 errorDiv.classList.remove('hidden');
-                input.classList.add('!border-error');
+                errorDiv.classList.add('flex');
+                input.classList.add('!border-danger');
                 isValid = false;
             } else {
                 errorDiv.classList.add('hidden');
-                input.classList.remove('!border-error');
+                errorDiv.classList.remove('flex');
+                input.classList.remove('!border-danger');
             }
         }
 
@@ -50,7 +52,7 @@
         if (!isValid) return;
 
         var formData = new FormData(contactForm);
-        var originalText = submitBtn.textContent;
+        var originalHtml = submitBtn.innerHTML;
 
         submitBtn.textContent = MSG.sending;
         submitBtn.disabled = true;
@@ -66,20 +68,24 @@
 
             if (data.success) {
                 formStatus.textContent = MSG.success;
-                formStatus.className = 'mt-6 font-body text-sm text-green-700';
+                formStatus.className = 'text-[14px] text-forest';
                 formStatus.classList.remove('hidden');
                 contactForm.reset();
+                // analytics:start
+                // Not counted from a test/preview host (or with ?test), same rule as the owners form.
+                if (/^(www\.)?noveris\.sk$/.test(location.hostname) && !/[?&]test(&|=|$)/.test(location.search)) track('contact-form-sent', { lang: document.documentElement.lang });
+                // analytics:end
             } else {
                 formStatus.textContent = MSG.failure;
-                formStatus.className = 'mt-6 font-body text-sm text-error';
+                formStatus.className = 'text-[14px] text-danger';
                 formStatus.classList.remove('hidden');
             }
         } catch (error) {
             formStatus.textContent = MSG.error;
-            formStatus.className = 'mt-6 font-body text-sm text-error';
+            formStatus.className = 'text-[14px] text-danger';
             formStatus.classList.remove('hidden');
         } finally {
-            submitBtn.textContent = originalText;
+            submitBtn.innerHTML = originalHtml;
             submitBtn.disabled = false;
             submitBtn.style.opacity = '';
         }

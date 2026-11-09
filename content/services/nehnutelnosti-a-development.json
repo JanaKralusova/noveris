@@ -1,0 +1,285 @@
+{
+  "sk": {
+    "sections": [
+      {
+        "type": "hero",
+        "label": null,
+        "title": "Nehnuteľnosti a development",
+        "intro": [
+          "Kúpa, predaj, prenájom či výstavba nehnuteľností prinášajú množstvo právnych otázok, ktoré môžu ovplyvniť priebeh transakcie, realizáciu projektu aj ďalšie využívanie nehnuteľnosti."
+        ],
+        "bold": "Poskytujeme právne služby jednotlivcom, podnikateľom, investorom a developerským spoločnostiam pri realitných transakciách, príprave a realizácii developerských projektov a riešení právnych vzťahov týkajúcich sa nehnuteľností.",
+        "cta": {
+          "text": "Dohodnite si konzultáciu",
+          "href": "/kontakt/"
+        },
+        "photo": {
+          "name": "bld",
+          "alt": ""
+        }
+      },
+      {
+        "type": "cardsSide",
+        "header": {
+          "eyebrow": "Naše služby",
+          "title": "V akých oblastiach poskytujeme právne služby?"
+        },
+        "items": [
+          {
+            "icon": "account_balance",
+            "title": "Kúpa a predaj nehnuteľností",
+            "paras": [
+              "Pripravujeme a posudzujeme kúpne, rezervačné a ďalšie zmluvy súvisiace s prevodom nehnuteľností. Zastupujeme klientov pri rokovaniach o zmluvných podmienkach a zabezpečujeme právne úkony súvisiace s prevodom vlastníckeho práva vrátane konania pred katastrom nehnuteľností."
+            ],
+            "photo": {
+              "name": "pensign",
+              "alt": ""
+            }
+          },
+          {
+            "icon": "search",
+            "title": "Právne preverenie nehnuteľností",
+            "paras": [
+              "Pred kúpou alebo investíciou preverujeme právny stav nehnuteľností, vlastnícke vzťahy, vecné bremená, záložné práva a ďalšie právne skutočnosti, ktoré môžu ovplyvniť zamýšľanú transakciu alebo využitie nehnuteľnosti.",
+              "Na základe zistených skutočností identifikujeme právne riziká a posudzujeme možnosti ich riešenia."
+            ],
+            "photo": {
+              "name": "sunfield",
+              "alt": ""
+            }
+          },
+          {
+            "icon": "apartment",
+            "title": "Developerské a investičné projekty",
+            "paras": [
+              "Poskytujeme právne služby pri príprave a realizácii developerských a investičných projektov vrátane majetkovoprávneho preverovania pozemkov, zabezpečovania právnych vzťahov k nehnuteľnostiam a prípravy zmluvnej dokumentácie.",
+              "Zastupujeme klientov pri rokovaniach s vlastníkmi dotknutých nehnuteľností a ďalšími subjektmi zapojenými do realizácie projektu."
+            ],
+            "photo": {
+              "name": "crane",
+              "alt": ""
+            }
+          },
+          {
+            "icon": "engineering",
+            "title": "Stavebné právo",
+            "paras": [
+              "Poskytujeme právne poradenstvo pri príprave a povoľovaní stavebných zámerov, v konaniach pred príslušnými správnymi orgánmi a pri riešení právnych otázok súvisiacich s realizáciou stavieb.",
+              "Zastupujeme stavebníkov, vlastníkov nehnuteľností a ďalšie dotknuté osoby pri uplatňovaní a ochrane ich práv."
+            ],
+            "photo": {
+              "name": "planmodel",
+              "alt": ""
+            }
+          },
+          {
+            "icon": "key",
+            "title": "Nájom nehnuteľností",
+            "paras": [
+              "Pripravujeme a posudzujeme nájomné zmluvy k bytom, nebytovým priestorom, pozemkom a komerčným nehnuteľnostiam.",
+              "Poskytujeme právne služby pri vzniku, zmene a skončení nájomných vzťahov vrátane riešenia sporov medzi prenajímateľmi a nájomcami."
+            ],
+            "photo": {
+              "name": "interior",
+              "alt": ""
+            }
+          },
+          {
+            "icon": "alt_route",
+            "title": "Vecné bremená a prístup k nehnuteľnostiam",
+            "paras": [
+              "Riešime právne zabezpečenie prístupu k pozemkom a stavbám, zriaďovanie, zmenu a zánik vecných bremien, ako aj spory súvisiace s ich existenciou a výkonom.",
+              "Súčasťou našich služieb je aj príprava zmluvnej dokumentácie a zastupovanie pri rokovaniach s vlastníkmi dotknutých nehnuteľností."
+            ],
+            "photo": {
+              "name": "country_road",
+              "alt": ""
+            }
+          }
+        ]
+      },
+      {
+        "type": "relatedBand",
+        "eyebrow": "Súvisiaca služba",
+        "title": "Vysporiadanie pozemkov a vlastníckych vzťahov",
+        "text": "Nevysporiadané vlastnícke vzťahy môžu predstavovať prekážku pri kúpe, predaji, výstavbe alebo ďalšom využívaní nehnuteľností. Osobitne sa venujeme vysporiadaniu pozemkov so Slovenským pozemkovým fondom, zosnulými vlastníkmi, duplicitným vlastníctvom, pozemkom zapísaným na zaniknuté spoločnosti či nevysporiadaným pozemkom pod stavbami a v rôznych typoch areálov.",
+        "link": {
+          "text": "Viac o vysporiadaní pozemkov a vlastníckych vzťahov",
+          "href": "/sluzby/vysporiadanie-pozemkov/"
+        },
+        "photo": {
+          "name": "patchwork_aerial",
+          "alt": ""
+        },
+        "pad": "pb-12 md:pb-16"
+      },
+      {
+        "type": "prose",
+        "eyebrow": "Náš prístup",
+        "title": "Právne služby od prípravy až po realizáciu",
+        "paras": [
+          "Právne služby poskytujeme od úvodného preverenia nehnuteľnosti a posúdenia právnych rizík cez prípravu a vyjednávanie zmluvnej dokumentácie až po realizáciu transakcie, zastupovanie v príslušných konaniach alebo riešenie vzniknutých sporov.",
+          "Rozsah poskytovaných služieb prispôsobujeme konkrétnej nehnuteľnosti, charakteru projektu a potrebám klienta."
+        ],
+        "bg": "sand"
+      },
+      {
+        "type": "contactBand",
+        "title": "Potrebujete právnu pomoc v oblasti nehnuteľností?",
+        "paras": [
+          "Či už pripravujete kúpu alebo predaj nehnuteľnosti, realizujete developerský projekt alebo riešite právny problém súvisiaci s nehnuteľnosťou, obráťte sa na nás."
+        ],
+        "cta": {
+          "text": "Dohodnite si konzultáciu",
+          "href": "/kontakt/"
+        },
+        "photo": {
+          "name": "band3",
+          "alt": ""
+        }
+      }
+    ]
+  },
+  "en": {
+    "sections": [
+      {
+        "type": "hero",
+        "label": null,
+        "title": "Real estate and development",
+        "intro": [
+          "The purchase, sale, lease or construction of real estate raises numerous legal questions that can affect the course of a transaction, the implementation of a project and the further use of the property."
+        ],
+        "bold": "We provide legal services to individuals, entrepreneurs, investors and development companies in real estate transactions, in the preparation and implementation of development projects and in resolving legal relations concerning real estate.",
+        "cta": {
+          "text": "Book a consultation",
+          "href": "/en/contact/"
+        },
+        "photo": {
+          "name": "bld",
+          "alt": ""
+        }
+      },
+      {
+        "type": "cardsSide",
+        "header": {
+          "eyebrow": "Our services",
+          "title": "In which areas do we provide legal services?"
+        },
+        "items": [
+          {
+            "icon": "account_balance",
+            "title": "Purchase and sale of real estate",
+            "paras": [
+              "We prepare and review purchase agreements, reservation agreements and other contracts relating to the transfer of real estate. We represent clients in negotiations on contract terms and handle the legal steps related to the transfer of ownership, including proceedings before the Land Register (cadastre)."
+            ],
+            "photo": {
+              "name": "pensign",
+              "alt": ""
+            }
+          },
+          {
+            "icon": "search",
+            "title": "Legal review of real estate",
+            "paras": [
+              "Before a purchase or investment, we review the legal status of the real estate, ownership relations, easements, liens and other legal facts that may affect the intended transaction or use of the property.",
+              "Based on our findings, we identify legal risks and assess the options for addressing them."
+            ],
+            "photo": {
+              "name": "sunfield",
+              "alt": ""
+            }
+          },
+          {
+            "icon": "apartment",
+            "title": "Development and investment projects",
+            "paras": [
+              "We provide legal services in the preparation and implementation of development and investment projects, including the property-law review of land, securing legal rights to real estate and preparing contractual documentation.",
+              "We represent clients in negotiations with the owners of the properties concerned and with other parties involved in carrying out the project."
+            ],
+            "photo": {
+              "name": "crane",
+              "alt": ""
+            }
+          },
+          {
+            "icon": "engineering",
+            "title": "Construction law",
+            "paras": [
+              "We provide legal advice on the preparation and permitting of construction projects, in proceedings before the competent administrative authorities and on legal issues related to the construction of buildings.",
+              "We represent builders, property owners and other affected persons in asserting and protecting their rights."
+            ],
+            "photo": {
+              "name": "planmodel",
+              "alt": ""
+            }
+          },
+          {
+            "icon": "key",
+            "title": "Leases of real estate",
+            "paras": [
+              "We prepare and review lease agreements for flats, non-residential premises, land and commercial properties.",
+              "We provide legal services in the creation, amendment and termination of leases, including the resolution of disputes between landlords and tenants."
+            ],
+            "photo": {
+              "name": "interior",
+              "alt": ""
+            }
+          },
+          {
+            "icon": "alt_route",
+            "title": "Easements and access to real estate",
+            "paras": [
+              "We deal with securing legal access to land and buildings, the creation, amendment and termination of easements, and disputes relating to their existence and exercise.",
+              "Our services also include preparing contractual documentation and representation in negotiations with the owners of the properties concerned."
+            ],
+            "photo": {
+              "name": "country_road",
+              "alt": ""
+            }
+          }
+        ]
+      },
+      {
+        "type": "relatedBand",
+        "eyebrow": "Related service",
+        "title": "Settlement of land and ownership relations",
+        "text": "Unsettled ownership relations can be an obstacle to the purchase, sale, construction or further use of real estate. We give particular attention to settling land involving the Slovak Land Fund (Slovenský pozemkový fond, SPF), deceased owners or duplicate ownership, land registered to dissolved companies and unsettled land under buildings and within various types of sites.",
+        "link": {
+          "text": "More on the settlement of land and ownership relations",
+          "href": "/en/services/land-ownership-settlement/"
+        },
+        "photo": {
+          "name": "patchwork_aerial",
+          "alt": ""
+        },
+        "pad": "pb-12 md:pb-16"
+      },
+      {
+        "type": "prose",
+        "eyebrow": "Our approach",
+        "title": "Legal services from preparation to completion",
+        "paras": [
+          "We provide legal services from the initial review of the property and the assessment of legal risks, through the preparation and negotiation of contractual documentation, to the completion of the transaction, representation in the relevant proceedings or the resolution of any disputes that arise.",
+          "We tailor the scope of our services to the specific property, the nature of the project and the client's needs."
+        ],
+        "bg": "sand"
+      },
+      {
+        "type": "contactBand",
+        "eyebrow": "Contact",
+        "title": "Do you need legal help with real estate?",
+        "paras": [
+          "Whether you are preparing to buy or sell a property, carrying out a development project or dealing with a legal problem relating to real estate, contact us."
+        ],
+        "cta": {
+          "text": "Book a consultation",
+          "href": "/en/contact/"
+        },
+        "photo": {
+          "name": "band3",
+          "alt": ""
+        }
+      }
+    ]
+  }
+}

@@ -9,5 +9,8 @@
     ]
   },
   "googleSiteVerification": "",
-  "bingSiteVerification": ""
+  "bingSiteVerification": "",
+  "umamiWebsiteId": "",
+  "umamiScriptUrl": "https://cloud.umami.is/script.js",
+  "showReviews": false
 }
