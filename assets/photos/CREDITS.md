@@ -32,6 +32,7 @@ Photos are centre-cropped to at most 4:3 (make-photo.sh); `CROP="x y w h"` cuts 
 | farm1 | Damian Kravchuk | https://unsplash.com/photos/p7u7E1YJiB8 | Unsplash License |
 | fence_gate | – | https://www.pexels.com/photo/14306688/ | Pexels License |
 | folders | Beatriz Perez Moya | https://unsplash.com/photos/a-stack-of-thick-folders-on-a-white-surface-XN4T2PVUUgk | Unsplash License |
+| garden_coffee | Mgr. Jana Králusová | own image, supplied 2026-11-09 | own image |
 | gavel | Sasun Bughdaryan | https://unsplash.com/photos/a-wooden-gavel-rests-on-a-closed-book-NB1dUts3ROU | Unsplash License |
 | glass_corner_warm | Mgr. Jana Králusová (edited and recropped) | https://www.pexels.com/photo/low-angle-photo-of-glass-buildings-2599538/ | Pexels License |
 | glassbld | Joakim Honkasalo | https://unsplash.com/photos/glass-office-building-at-dusk-gKMxcHB3U3E | Unsplash License |
@@ -49,7 +50,6 @@ Photos are centre-cropped to at most 4:3 (make-photo.sh); `CROP="x y w h"` cuts 
 | manor_aerial_warm | Mgr. Jana Králusová (colour-edited) | https://unsplash.com/photos/zAzaEsB9ZL4 | Unsplash License |
 | meeting_sil | Marco Bianchetti | https://unsplash.com/photos/a-group-of-people-sitting-at-a-table-in-front-of-a-window-JLS3I_cYx-k | Unsplash License |
 | meeting_view | – | https://unsplash.com/photos/ov_ctAopIoI | Unsplash License |
-| neighbourhood_aerial | Andreas Miller | https://unsplash.com/photos/97QKwskuvSg | Unsplash License |
 | off | Linus Belanger | https://unsplash.com/photos/z-XlxM2vAPY | Unsplash License |
 | office_boxes | Mgr. Jana Králusová | own image, supplied 2026-11-09 | own image |
 | owners_tree | AI-generated image supplied by Noveris Legal (own image) | – | Own image |
