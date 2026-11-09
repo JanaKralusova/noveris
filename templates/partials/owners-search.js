@@ -78,9 +78,13 @@
   }
 
   function lvText(r) { return 'LV č. ' + r.lvs.join(', '); }
-  function lvHTML(r) { // the LV numbers that were searched for are marked
+  var ZBGIS_LV = 'https://zbgis.skgeodesy.sk/mapka/sk/kataster/detail/kataster/list-vlastnictva/';
+  function lvHTML(r) { // numeric LVs link to the title deed in ZBGIS; the LV numbers that were searched for are marked
+    var link = /^[0-9]{6}$/.test(r.code);
     return 'LV č. ' + r.lvs.map(function (lv) {
-      return /^[0-9]+$/.test(lv) && nums.has(+lv) ? '<mark class="rounded-[2px] bg-[#f0dcc8] px-px text-ink">' + esc(lv) + '</mark>' : esc(lv);
+      var num = /^[0-9]+$/.test(lv), t = num && nums.has(+lv) ? '<mark class="rounded-[2px] bg-[#f0dcc8] px-px text-ink">' + esc(lv) + '</mark>' : esc(lv);
+      return num && link ? '<a class="underline decoration-field decoration-1 underline-offset-[3px] transition-colors hover:text-forest" href="' + ZBGIS_LV + r.code + '/' + lv +
+        '" target="_blank" rel="noopener" title="List vlastníctva č. ' + lv + ' v ZBGIS (otvorí sa v novom okne)">' + t + '</a>' : t;
     }).join(', ');
   }
   function mainText(r) { return r.main || NO_NAME; }

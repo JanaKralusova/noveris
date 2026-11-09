@@ -356,7 +356,7 @@ function applyOwners(html) {
     .replace('{{owners:stats}}', stats)
     .replace('{{owners:link}}', () => ui.linkArrow('Prečítajte si viac o možnostiach vysporiadania pozemkov a vlastníckych vzťahov.', SERVICES['vysporiadanie-pozemkov'].sk))
     .replace(/\{\{owners:asOf\}\}/g, asOf)
-    .replace('{{owners:sourcePage}}', layout.esc(cfg.sourcePage));
+    .replace(/\{\{owners:sourcePage\}\}/g, layout.esc(cfg.sourcePage));
 }
 
 function applyUrls(html, lang, file) {
