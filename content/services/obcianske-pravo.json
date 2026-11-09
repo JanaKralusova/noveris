@@ -34,7 +34,8 @@
               "Pomáhame pri riešení sporných otázok medzi dedičmi, preverovaní vlastníckych vzťahov k zdedenému majetku a pri uplatňovaní práv súvisiacich s dedičstvom."
             ],
             "photo": {
-              "name": "grandparents_kiss",
+              "name": "family_meeting",
+              "position": "33% 50%",
               "alt": ""
             }
           },
@@ -46,7 +47,8 @@
               "Zastupujeme poškodených pri uplatňovaní ich nárokov, ako aj osoby, voči ktorým sú nároky na náhradu škody uplatňované. Súčasťou právnej pomoci je posúdenie zodpovednosti za škodu, jej rozsahu a možností mimosúdneho a súdneho riešenia."
             ],
             "photo": {
-              "name": "broken_window",
+              "name": "cracked_wall",
+              "position": "75% 50%",
               "alt": ""
             }
           },
@@ -58,7 +60,8 @@
               "V týchto prípadoch posudzujeme vznik a rozsah nároku na vydanie bezdôvodného obohatenia a zastupujeme klientov pri jeho uplatňovaní alebo obrane proti nemu."
             ],
             "photo": {
-              "name": "euro_envelope",
+              "name": "euro_desk",
+              "position": "68% 50%",
               "alt": ""
             }
           },
@@ -156,7 +159,8 @@
               "We help to resolve disputed issues between heirs, to review the ownership of inherited property and to assert rights relating to an inheritance."
             ],
             "photo": {
-              "name": "grandparents_kiss",
+              "name": "family_meeting",
+              "position": "33% 50%",
               "alt": ""
             }
           },
@@ -168,7 +172,8 @@
               "We represent injured parties in asserting their claims, as well as persons against whom claims for compensation for damage are brought. Our legal assistance includes assessing liability for the damage, its extent and the options for out-of-court and court resolution."
             ],
             "photo": {
-              "name": "broken_window",
+              "name": "cracked_wall",
+              "position": "75% 50%",
               "alt": ""
             }
           },
@@ -180,7 +185,8 @@
               "In these cases, we assess whether a claim for the surrender of unjust enrichment has arisen and its extent, and we represent clients in asserting such a claim or defending against it."
             ],
             "photo": {
-              "name": "euro_envelope",
+              "name": "euro_desk",
+              "position": "68% 50%",
               "alt": ""
             }
           },

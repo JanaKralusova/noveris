@@ -18,7 +18,6 @@ Photos are centre-cropped to at most 4:3 (make-photo.sh); `CROP="x y w h"` cuts 
 | bld | Tobias Wilden | https://unsplash.com/photos/apartment-building-reflecting-pink-sky-4453DIQWtsQ | Unsplash License |
 | bratislava_castle | AI-generated image supplied by Noveris Legal (own image) | – | Own image |
 | bratislava_square | – | https://www.pexels.com/photo/16438456/ | Pexels License |
-| broken_window | – | https://www.pexels.com/photo/11606700/ | Pexels License |
 | business_park_aerial | – | https://unsplash.com/photos/N9pLLb_M8DQ | Unsplash License (mirrored) |
 | chairs | Michael Fousert | https://unsplash.com/photos/office-chairs-at-conference-table-RNsKphkdBTk | Unsplash License |
 | chim | Alexandr Popadin | https://unsplash.com/photos/-SC9r6ix6vM | Unsplash License |
@@ -26,8 +25,10 @@ Photos are centre-cropped to at most 4:3 (make-photo.sh); `CROP="x y w h"` cuts 
 | contract_paper | Mgr. Jana Králusová | own image, supplied 2026-11-09 | own image |
 | contract_table | Mgr. Jana Králusová | own image, supplied 2026-11-09 | own image |
 | couple_sofa | – | https://www.pexels.com/photo/8559951/ | Pexels License |
+| cracked_wall | Mgr. Jana Králusová | own image, supplied 2026-11-09 | own image |
 | crane | Matias Santana | https://unsplash.com/photos/gray-building-crane-photo-during-sunset-2ykXqiKHNfk | Unsplash License |
-| euro_envelope | – | https://unsplash.com/photos/ms6N-gBtbCQ | Unsplash License |
+| euro_desk | Mgr. Jana Králusová | own image, supplied 2026-11-09 | own image |
+| family_meeting | Mgr. Jana Králusová | own image, supplied 2026-11-09 | own image |
 | farm1 | Damian Kravchuk | https://unsplash.com/photos/p7u7E1YJiB8 | Unsplash License |
 | fence_gate | – | https://www.pexels.com/photo/14306688/ | Pexels License |
 | folders | Beatriz Perez Moya | https://unsplash.com/photos/a-stack-of-thick-folders-on-a-white-surface-XN4T2PVUUgk | Unsplash License |
@@ -35,7 +36,6 @@ Photos are centre-cropped to at most 4:3 (make-photo.sh); `CROP="x y w h"` cuts 
 | glass_corner_warm | Mgr. Jana Králusová (edited and recropped) | https://www.pexels.com/photo/low-angle-photo-of-glass-buildings-2599538/ | Pexels License |
 | glassbld | Joakim Honkasalo | https://unsplash.com/photos/glass-office-building-at-dusk-gKMxcHB3U3E | Unsplash License |
 | gov | Yang-Chen Lin | https://unsplash.com/photos/Gy2_7oTYbhU | Unsplash License |
-| grandparents_kiss | – | https://www.pexels.com/photo/girls-kissing-their-lovely-grandparents-5637745/ | Pexels License |
 | hero_eu | Jonathan Arbely | https://unsplash.com/photos/2gs-IfX4DnM | Unsplash License |
 | home_villa_warm | AI-generated image supplied by Noveris Legal (own image) | – | Own image |
 | horse | Jacob Jolibois | https://unsplash.com/photos/_CZYN3UN544 | Unsplash License |
