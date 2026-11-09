@@ -94,6 +94,7 @@ function loadSiteConfig() {
     bingSiteVerification: String(c.bingSiteVerification || '').trim(),
     umamiWebsiteId: String(c.umamiWebsiteId || '').trim(),
     umamiScriptUrl: String(c.umamiScriptUrl || '').trim(),
+    showReviews: c.showReviews === true,
   };
 }
 

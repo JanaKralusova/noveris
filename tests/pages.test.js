@@ -163,6 +163,13 @@ test('real content/reviews.json is empty, so the home page has no reviews band',
   if (process.env.NOVERIS_DEMO_REVIEWS !== '1') assert.ok(!read('index.html').includes('data-band="reviews"'));
 });
 
+test('reviews feature flag: no band when showReviews is off, even with reviews', () => {
+  const { homeReviews } = require('../scripts/build-pages');
+  const t = require('../scripts/lib/site').loadTranslations().sk;
+  assert.strictEqual(homeReviews('sk', t, false, reviewsData(3)), '');
+  assert.ok(homeReviews('sk', t, true, reviewsData(3)).includes('data-band="reviews"'));
+});
+
 test('reviewsBand: every card twice, the copy aria-hidden, star labels, escaping, Slovak only', () => {
   const { reviewsBand } = require('../scripts/build-pages');
   const t = require('../scripts/lib/site').loadTranslations().sk;

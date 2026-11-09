@@ -26,6 +26,8 @@
  *   sameAs.person           profile URLs of Jana Králusová -> Person.sameAs
  *   googleSiteVerification  content of <meta name="google-site-verification"> (SK home page only)
  *   bingSiteVerification    content of <meta name="msvalidate.01"> (SK home page only)
+ *   showReviews             feature flag for the Google reviews band on the SK home page (true/false); keep it
+ *                           false until content/reviews.json holds real reviews
  */
 
 const fs = require('fs');

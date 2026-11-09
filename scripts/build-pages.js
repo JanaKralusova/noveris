@@ -288,6 +288,12 @@ const REVIEWS_JS = `<script>
 })();
 </script>`;
 
+// Feature flag: the band is built only when site.config.json has "showReviews": true (off until the firm has
+// real reviews), whatever the data or NOVERIS_DEMO_REVIEWS say.
+function homeReviews(lang, t, show = site.loadSiteConfig().showReviews, data) {
+  return show ? reviewsBand(lang, t, data) : '';
+}
+
 function reviewsBand(lang, t, data = loadReviews()) {
   const list = (data && data.reviews) || [];
   if (lang !== 'sk' || !list.length) return '';
@@ -416,7 +422,7 @@ function render(id, lang, ctx) {
   main = applyServicesHero(main, t, lang);
   main = main.replace('{{hero}}', () => heroFor(id, lang, t, { ...ctx, ownersAsOf: ownersAsOf() }));
   main = main.replace('{{specialisation}}', () => specialisationBand(lang, t));
-  main = main.replace('{{reviews}}', () => reviewsBand(lang, t));
+  main = main.replace('{{reviews}}', () => homeReviews(lang, t));
   main = applyContactBand(main, t, lang);
   main = applyUi(main, t, lang, file);
   main = applyUrls(main, lang, file);
@@ -552,4 +558,4 @@ function main() {
 
 if (require.main === module) main();
 
-module.exports = { main, outputs, reviewsBand, loadReviews };
+module.exports = { main, outputs, reviewsBand, homeReviews, loadReviews };
