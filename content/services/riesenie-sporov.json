@@ -35,7 +35,7 @@
             ],
             "photo": {
               "name": "lawyer_meeting",
-              "alt": "Advokátka prechádza dokumenty s dvoma klientmi"
+              "alt": ""
             }
           },
           {
@@ -71,7 +71,8 @@
             ],
             "photo": {
               "name": "man_letter",
-              "alt": "Muž s obavami číta doručený list"
+              "position": "50% 10%",
+              "alt": ""
             }
           },
           {
@@ -157,7 +158,7 @@
             ],
             "photo": {
               "name": "lawyer_meeting",
-              "alt": "A lawyer going through documents with two clients"
+              "alt": ""
             }
           },
           {
@@ -193,7 +194,8 @@
             ],
             "photo": {
               "name": "man_letter",
-              "alt": "A worried man reading a letter he received"
+              "position": "50% 10%",
+              "alt": ""
             }
           },
           {

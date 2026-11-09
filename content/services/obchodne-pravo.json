@@ -71,7 +71,8 @@
             ],
             "photo": {
               "name": "contract_table",
-              "alt": "Zmluva a pero na stole v zasadačke"
+              "position": "50% 85%",
+              "alt": ""
             },
             "link": {
               "text": "Viac o príprave a posudzovaní zmlúv",
@@ -87,7 +88,8 @@
             ],
             "photo": {
               "name": "office_boxes",
-              "alt": "Archívne krabice so šanónmi v kancelárii"
+              "position": "50% 65%",
+              "alt": ""
             }
           }
         ]
@@ -197,7 +199,8 @@
             ],
             "photo": {
               "name": "contract_table",
-              "alt": "A contract and pen on a meeting-room table"
+              "position": "50% 85%",
+              "alt": ""
             },
             "link": {
               "text": "More on drafting and reviewing contracts",
@@ -213,7 +216,8 @@
             ],
             "photo": {
               "name": "office_boxes",
-              "alt": "Archive boxes with binders in an office"
+              "position": "50% 65%",
+              "alt": ""
             }
           }
         ]

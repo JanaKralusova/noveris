@@ -70,7 +70,7 @@
               "Vlastníkom pozemku môže byť podľa listu vlastníctva spoločnosť, ktorá už bola vymazaná z obchodného registra.",
               "V takýchto prípadoch preverujeme okolnosti zániku spoločnosti a možnosti usporiadania vlastníckych vzťahov, napríklad prostredníctvom dodatočnej likvidácie, ak sú na to splnené zákonné podmienky."
             ],
-            "photo": { "name": "glass_corner_warm", "alt": "Sklenená fasáda kancelárskej budovy" }
+            "photo": { "name": "glass_corner_warm", "alt": "" }
           }
         ]
       },
@@ -92,7 +92,7 @@
           "Náklady na vysporiadanie závisia od konkrétnej situácie, najmä od počtu vlastníkov, rozsahu potrebného právneho preverovania a zvoleného postupu.",
           "Rozdiel môže byť medzi vysporiadaním jediného spoluvlastníckeho podielu a rozsiahlym prípadom zahŕňajúcim viacero parciel, historických vlastníkov a odlišných právnych režimov."
         ],
-        "photo": { "name": "villa_view_money", "alt": "Eurové bankovky na kamennom parapete s výhľadom na polia" },
+        "photo": { "name": "villa_view_money", "position": "50% 100%", "alt": "" },
         "link": { "text": "Viac o nákladoch na vysporiadanie pozemku", "href": "/clanky/kolko-stoji-vysporiadanie-pozemku/" },
         "side": "left",
         "bg": "paper"
@@ -209,7 +209,7 @@
             ],
             "photo": {
               "name": "glass_corner_warm",
-              "alt": "Glass facade of an office building"
+              "alt": ""
             }
           }
         ]
@@ -246,7 +246,8 @@
         ],
         "photo": {
           "name": "villa_view_money",
-          "alt": "Euro banknotes on a stone ledge overlooking fields"
+          "position": "50% 100%",
+          "alt": ""
         },
         "link": {
           "text": "More on the costs of land settlement (in Slovak)",
