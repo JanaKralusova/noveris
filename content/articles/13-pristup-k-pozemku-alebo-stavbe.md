@@ -4,8 +4,8 @@
   "slug": "pristup-k-pozemku-alebo-stavbe",
   "title": "Ako vyriešiť prístup k pozemku alebo stavbe cez cudzí alebo nevysporiadaný pozemok?",
   "excerpt": "Prístupová cesta sa často považuje za samozrejmosť, kým ju vlastník susedného pozemku neuzavrie alebo sa pri predaji nezistí, že právo prechodu nie je nikde upravené.",
-  "seoTitle": "Prístup k pozemku alebo stavbe: riešenia | Noveris Legal",
-  "description": "Prístup k pozemku alebo stavbe: čo preveriť, kedy pomôže vecné bremeno či dohoda a kedy môže právo cesty zriadiť súd. Pomôžeme s hľadaním riešenia.",
+  "seoTitle": "Prístupová cesta k pozemku alebo stavbe cez cudzí pozemok",
+  "description": "Prístupová cesta k domu alebo pozemku vedie cez cudzí či nevysporiadaný pozemok? Kedy pomôže dohoda alebo vecné bremeno a kedy môže právo cesty zriadiť súd.",
   "tags": [
     "prístupová cesta",
     "právo prechodu",
