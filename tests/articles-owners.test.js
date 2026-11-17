@@ -15,8 +15,8 @@ function mainHtml(slug) {
   } catch (e) { return null; }
 }
 
-test('29 article pages: one H1, .article-body, Article and FAQ JSON-LD as on main', () => {
-  assert.strictEqual(slugs.length, 29);
+test('35 article pages: one H1, .article-body, Article and FAQ JSON-LD as on main', () => {
+  assert.strictEqual(slugs.length, 35);
   const failures = [];
   for (const s of slugs) {
     const html = read(`clanky/${s}/index.html`);
@@ -37,6 +37,25 @@ test('articles 20-29 exist: one H1 each, FAQ JSON-LD when there is a "Časté ot
   const dir = path.join(ROOT, 'content/articles');
   const files = fs.readdirSync(dir).filter((f) => /^2\d-.*\.md$/.test(f)).sort();
   assert.deepStrictEqual(files.map((f) => f.slice(0, 2)), ['20', '21', '22', '23', '24', '25', '26', '27', '28', '29']);
+  const failures = [];
+  for (const f of files) {
+    const src = fs.readFileSync(path.join(dir, f), 'utf8');
+    const slug = f.replace(/^\d+-/, '').replace(/\.md$/, '');
+    if (!slugs.includes(slug)) { failures.push(`${f}: no built page clanky/${slug}/`); continue; }
+    const html = read(`clanky/${slug}/index.html`);
+    if (count(html, /<h1[\s>]/g) !== 1) failures.push(`${slug}: H1 count`);
+    const hasFaq = /^##\s+Časté otázky\s*$/m.test(src);
+    if (hasFaq !== /"@type":\s*"FAQPage"/.test(html)) failures.push(`${slug}: FAQ JSON-LD does not match the "Časté otázky" section`);
+    for (const m of src.matchAll(/\]\((https?:\/\/[^)\s]+)\)/g)) if (/utm_/i.test(m[1])) failures.push(`${f}: utm_ in ${m[1]}`);
+    for (const m of html.matchAll(/href="(https?:\/\/[^"]+)"/g)) if (/utm_/i.test(m[1])) failures.push(`${slug}: utm_ in built link ${m[1]}`);
+  }
+  assert.deepStrictEqual(failures, []);
+});
+
+test('articles 30-35 exist: one H1 each, FAQ JSON-LD when there is a "Časté otázky" section, no utm_ in external links', () => {
+  const dir = path.join(ROOT, 'content/articles');
+  const files = fs.readdirSync(dir).filter((f) => /^3[0-5]-.*\.md$/.test(f)).sort();
+  assert.deepStrictEqual(files.map((f) => f.slice(0, 2)), ['30', '31', '32', '33', '34', '35']);
   const failures = [];
   for (const f of files) {
     const src = fs.readFileSync(path.join(dir, f), 'utf8');

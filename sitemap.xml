@@ -128,7 +128,7 @@
   </url>
   <url>
     <loc>https://noveris.sk/clanky/</loc>
-    <lastmod>2026-11-01</lastmod>
+    <lastmod>2026-11-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -420,6 +420,66 @@
     <image:image>
       <image:loc>https://noveris.sk/assets/articles/vymaz-stareho-zalozneho-prava.jpg</image:loc>
       <image:title>Staré záložné právo na liste vlastníctva: Ako dosiahnuť jeho výmaz?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://noveris.sk/clanky/geometricky-plan-a-suhlas-spoluvlastnikov/</loc>
+    <lastmod>2026-11-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://noveris.sk/assets/articles/geometricky-plan-a-suhlas-spoluvlastnikov.jpg</image:loc>
+      <image:title>Treba na zápis geometrického plánu súhlas všetkých spoluvlastníkov?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://noveris.sk/clanky/katastralna-mapa-a-mapa-urceneho-operatu/</loc>
+    <lastmod>2026-11-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://noveris.sk/assets/articles/katastralna-mapa-a-mapa-urceneho-operatu.jpg</image:loc>
+      <image:title>Katastrálna mapa a mapa určeného operátu: Ako sa v nich vyznať?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://noveris.sk/clanky/vedenie-alebo-potrubie-na-pozemku/</loc>
+    <lastmod>2026-11-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://noveris.sk/assets/articles/vedenie-alebo-potrubie-na-pozemku.jpg</image:loc>
+      <image:title>Elektrické vedenie alebo potrubie na vašom pozemku: Aké máte práva?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://noveris.sk/clanky/odstupenie-od-kupnej-zmluvy-na-nehnutelnost/</loc>
+    <lastmod>2026-11-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://noveris.sk/assets/articles/odstupenie-od-kupnej-zmluvy-na-nehnutelnost.jpg</image:loc>
+      <image:title>Odstúpenie od kúpnej zmluvy na nehnuteľnosť: Čo sa stane s vlastníctvom a peniazmi?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://noveris.sk/clanky/pozemkovoknizna-vlozka-pkv/</loc>
+    <lastmod>2026-11-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://noveris.sk/assets/articles/pozemkovoknizna-vlozka-pkv.jpg</image:loc>
+      <image:title>Pozemkovoknižná vložka (PKV): Kedy pomôže pri zisťovaní vlastníctva pozemku?</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://noveris.sk/clanky/pozemok-v-chranenom-uzemi/</loc>
+    <lastmod>2026-11-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://noveris.sk/assets/articles/pozemok-v-chranenom-uzemi.jpg</image:loc>
+      <image:title>Pozemok v chránenom území: Čo preveriť pred kúpou alebo výstavbou?</image:title>
     </image:image>
   </url>
 </urlset>
