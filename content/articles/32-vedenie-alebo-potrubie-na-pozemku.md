@@ -5,7 +5,7 @@
   "title": "Elektrické vedenie alebo potrubie na vašom pozemku: Aké máte práva?",
   "excerpt": "Pri projektovaní domu alebo rozšírení areálu dostanete vyjadrenie, že cez váš pozemok vedie elektrický kábel, plynovod alebo vodovodné potrubie. Na liste vlastníctva pritom nemusí byť zapísaná žiadna ťarcha. Čo to znamená pre plánovanú stavbu a kto zaplatí, ak bude potrebné vedenie presunúť?",
   "seoTitle": "Elektrické vedenie alebo potrubie na pozemku | Noveris Legal",
-  "description": "Kábel, plynovod alebo vodovod na vašom pozemku: kedy platí vecné bremeno bez zápisu, čo smiete stavať, kedy máte nárok na náhradu a kto zaplatí preložku.",
+  "description": "Kábel, plynovod či vodovod na pozemku: kedy platí vecné bremeno bez zápisu, aké obmedzenia platia pri výstavbe, kedy vám patrí náhrada a kto zaplatí preložku.",
   "tags": [
     "inžinierske siete",
     "vecné bremeno",
