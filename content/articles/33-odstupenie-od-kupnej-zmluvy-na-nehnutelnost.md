@@ -38,7 +38,7 @@ Pri **vadách nehnuteľnosti** záleží na tom, o akú vadu ide a čo predávaj
 
 ## Komu treba odstúpenie doručiť?
 
-Odstúpenie musí byť **písomné a musí byť doručené** druhej zmluvný strane. **Nestačí ho poslať na kataster.** V písomnom odstúpení označte kúpnu zmluvu a nehnuteľnosť a jasne uveďte, že od zmluvy odstupujete. Dôležité je opísať aj konkrétny dôvod. Ak kupujúci nezaplatil, uveďte, aká suma chýba, kedy bola splatná a kedy uplynula dodatočná lehota, ak ste ju poskytli.
+Odstúpenie musí byť **písomné a musí byť doručené** druhej zmluvnej strane. **Nestačí ho poslať na kataster.** V písomnom odstúpení označte kúpnu zmluvu a nehnuteľnosť a jasne uveďte, že od zmluvy odstupujete. Dôležité je opísať aj konkrétny dôvod. Ak kupujúci nezaplatil, uveďte, aká suma chýba, kedy bola splatná a kedy uplynula dodatočná lehota, ak ste ju poskytli.
 
 Odstúpenie doručte spôsobom, pri ktorom budete vedieť **preukázať**, čo ste druhej strane doručili a kedy. Môžete ho napríklad odovzdať osobne oproti podpisu alebo poslať doporučene s doručenkou. Ak už prebieha vkladové konanie alebo je kupujúci zapísaný na liste vlastníctva, odstúpenie spolu s dokladom o jeho doručení predložte **aj príslušnému katastrálnemu odboru**.
 

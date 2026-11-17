@@ -26,7 +26,7 @@
 ---
 Pozemok sa predáva ako vhodný na stavbu domu, no na liste vlastníctva je pri parcele uvedená chránená krajinná oblasť. Znamená to, že na ňom nemôžete stavať? Nie nevyhnutne. Samotný názov chráneného územia ešte nehovorí, či na konkrétnom mieste môžete postaviť dom, rozšíriť existujúci areál alebo vybudovať príjazdovú cestu.
 
-Pred kúpou si preto overte dve veci - **aké pravidlá ochrany prírody** platia na mieste plánovanej stavby **a či územný plán pripúšťa využitie,** na ktoré pozemok kupujete. Obe otázky má zmysel vyriešiť ešte pred podpisom rezervačnej zmluvy alebo zaplatením rezervačného poplatku.
+Pred kúpou si preto overte dve veci – **aké pravidlá ochrany prírody** platia na mieste plánovanej stavby **a či územný plán pripúšťa využitie,** na ktoré pozemok kupujete. Obe otázky má zmysel vyriešiť ešte pred podpisom rezervačnej zmluvy alebo zaplatením rezervačného poplatku.
 
 ## Ako zistiť, či je pozemok v chránenom území?
 
